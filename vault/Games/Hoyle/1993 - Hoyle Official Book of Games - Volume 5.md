@@ -290,89 +290,10 @@ From a preservation standpoint, Hoyle Solitaire represents an era when major gam
 
 ## References
 
-[^ref-5]: [Internet Archive – Hoyle Solitaire (Windows 3.x)](https://archive.org/details/win3_HoyleSol) – release dates, developer, publisher, platforms, technical specifications, trivia
 [^ref-2]: [MobyGames – Hoyle Solitaire](https://www.mobygames.com/game/1232/hoyle-solitaire/) – comprehensive credits, release dates, ratings, technical details, development history
 [^ref-3]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, sales data, Computer Gaming World quote, character information, trivia
 [^ref-4]: [Company Histories – Sierra On-Line Inc.](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) – company perspectives, revenue data, corporate history
-[^ref-6]: [Internet Archive – Hoyle Solitaire USA Rerelease](https://archive.org/details/hoyle-solitaire-usa-rerelease-19980119) – 1998 rerelease date, game variants, archive description
-[^ref-7]: [GameSpot – Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – Sierra Attractions division, corporate strategy
-[^ref-8]: [Sierra Chest – Hoyle Solitaire Walkthrough](https://sierrachest.com/index.php?a=games&id=524&title=hoyle-solitaire-1996&fld=walkthrough) – tutorial features, addiction warning, glossary information
-[^ref-9]: [PCGamingWiki – Hoyle Solitaire](https://www.pcgamingwiki.com/wiki/Hoyle_Solitaire) – SCI2.1 engine, technical specifications, system requirements
-[^ref-10]: [Classic Reload – Hoyle Solitaire](https://classicreload.com/hoyle-solitaire.html) – control scheme, full screen toggle
-[^ref-11]: [GameSpot – Hoyle Solitaire Review](https://www.gamespot.com/reviews/hoyle-solitaire-review/1900-2558794/) – review score, reviewer quotes, customization features
-[^ref-12]: [GOG Community – Sierra Hoyle Classic Card Games Wishlist](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) – user testimonial, character selection information
-[^ref-13]: [Sierra Gamers Forum – Where Does Sierra End?](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – community discussion on Hoyle series classification
-[^ref-14]: [MyAbandonware – Hoyle Solitaire (1998)](https://www.myabandonware.com/game/hoyle-solitaire-3l6) – download sizes, platform versions, user rating
-[^ref-15]: [MyAbandonware – Hoyle Solitaire (2000)](https://www.myabandonware.com/game/hoyle-solitaire-hzh) – user rating, promotional quote
-[^ref-16]: [WildTangent – Hoyle Solitaire & More](https://www.wildtangent.com/p/cards/hoyle-solitaire-more) – later version details, game variations, system requirements
-[^ref-17]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – series overview, platform history, Hoyle Card Games 2001 description
-[^ref-18]: [MobyGames – Hoyle Official Book of Games Volume 2](https://www.mobygames.com/game/760/hoyle-official-book-of-games-volume-2-solitaire/) – original DOS version details, game count
-[^ref-19]: [Internet Archive – Hoyle Solitaire Sierra On-Line 1998](https://archive.org/details/Hoyle_Solitaire_Sierra_On-Line_1998) – 1998 version details, file size
-[^ref-20]: [Internet Archive – Hoyle Solitaire 2000](https://archive.org/details/hoyle-solit) – 2000 version, Windows 95/98 compatibility
-[^ref-21]: [Sierra Help – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – technical issues, bug documentation
-[^ref-22]: [MobyGames – Hoyle Official Book of Games Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – Sierra character opponents, easter eggs, idle conversations
-[^ref-23]: [GameFAQs – Hoyle Solitaire and Mahjong Tiles](https://gamefaqs.gamespot.com/pc/681888-hoyle-solitaire-and-mahjong-tiles) – combination release details, user ratings
-[[1989 - Hoyle Official Book of Games - Volume 1]]
-- [[1990 - Hoyle Official Book of Games - Volume 2]]
-- [[1991 - Hoyle Official Book of Games - Volume 3]]
-- [[1991 - Hoyle Official Book of Games - Volume 4]]
-- [[1992 - Hoyle Bridge]]
-- [[1993 - Hoyle Classic Card Games]]
-- [[1996 - Hoyle Blackjack]]
-- [[1996 - Hoyle Bridge]]
-- [[1996 - Hoyle Casino]]
-- [[1996 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Solitaire]]
-- [[1997 - Hoyle Classic Board Games]]
-- [[1997 - Hoyle Classic Card Games]]
-- [[1997 - Hoyle Poker]]
-- [[1998 - Hoyle Battling Ships and War]]
-- [[1998 - Hoyle Classic Board Games]]
-- [[1999 - Hoyle Backgammon and Cribbage]]
-- [[1999 - Hoyle Casino]]
-- [[1999 - Hoyle Word Games]]
-- [[2000 - Hoyle Casino]]
-- [[2000 - Hoyle Crosswords]]
-- [[2000 - Hoyle Kids Games]]
-- [[2000 - Hoyle Slots and Video Poker]]
-- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
-- [[2001 - Hoyle Board Games]]
-- [[2001 - Hoyle Casino]]
-- [[2001 - Hoyle Kids Games]]
-- [[2001 - Hoyle Word Games]]
-- [[2002 - Hoyle Card Games]]
-- [[2002 - Hoyle Casino Empire]]
-- [[2002 - Hoyle Puzzle Games]]
-- [[2003 - Hoyle Board Games]]
-- [[2003 - Hoyle Card Games]]
-- [[2003 - Hoyle Casino]]
-- [[2003 - Hoyle Majestic Chess]]
-- [[2004 - Hoyle Casino]]
-- [[2004 - Hoyle Puzzle Games]]
-- [[2004 - Hoyle Table Games]]
-- [[2005 - Hoyle Board Games]]
-- [[2005 - Hoyle Card Games]]
-- [[2005 - Hoyle Casino 3D]]
-- [[2005 - Hoyle Poker Series]]
-- [[2005 - Hoyle Puzzle and Board Games]]
-- [[2005 - Hoyle Texas Hold Em]]
-- [[2006 - Hoyle Casino]]
-- [[2006 - Hoyle Miami Solitaire]]
-- [[2007 - Hoyle Card Games 2008]]
-- [[2007 - Hoyle Casino]]
-- [[2008 - Hoyle Casino]]
-- [[2008 - Hoyle Puzzle and Board Games]]
-- [[2011 - Hoyle Puzzle and Board Games]]
-- [[2011 - Hoyle Swashbucklin Slots]]
-- [[2015 - Hoyle Official Card Games Collection]]
-- [[2016 - Hoyle Casino Games Collection]]
-
-## References
-
 [^ref-5]: [Internet Archive – Hoyle Solitaire (Windows 3.x)](https://archive.org/details/win3_HoyleSol) – release dates, developer, publisher, platforms, technical specifications, trivia
-[^ref-2]: [MobyGames – Hoyle Solitaire](https://www.mobygames.com/game/1232/hoyle-solitaire/) – comprehensive credits, release dates, ratings, technical details, development history
-[^ref-3]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, sales data, Computer Gaming World quote, character information, trivia
-[^ref-4]: [Company Histories – Sierra On-Line Inc.](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) – company perspectives, revenue data, corporate history
 [^ref-6]: [Internet Archive – Hoyle Solitaire USA Rerelease](https://archive.org/details/hoyle-solitaire-usa-rerelease-19980119) – 1998 rerelease date, game variants, archive description
 [^ref-7]: [GameSpot – Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – Sierra Attractions division, corporate strategy
 [^ref-8]: [Sierra Chest – Hoyle Solitaire Walkthrough](https://sierrachest.com/index.php?a=games&id=524&title=hoyle-solitaire-1996&fld=walkthrough) – tutorial features, addiction warning, glossary information

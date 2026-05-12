@@ -154,65 +154,22 @@ The game's influence on the action genre is evident in how it "paved the way for
 [^ref-17]: [GameFAQs FAQ](https://gamefaqs.gamespot.com/nes/578267-thexder/faqs/36102) – - Level skipping and ending description
 [^ref-18]: [Amiga Magazine Reviews](http://amr.abime.net/review_17838) – - Génération 4 review score
 [^ref-19]: [Amiga Magazine Reviews](https://amr.abime.net/review_22769) – - The Games Machine review
+[^ref-20]: [Compute! Magazine](https://en.wikipedia.org/wiki/Thexder#Reception) – - "First true arcade game" and "excellent play value for your dollar"
+[^ref-21]: [MobyGames](https://www.mobygames.com/game/2857/thexder/) – - Aggregate review scores
+[^ref-22]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Thexder&gid=1702) – - Modern rating
+[^ref-23]: [GameFAQs Review](https://gamefaqs.gamespot.com/nes/578267-thexder/reviews/150441) – - Critical user review
+[^ref-24]: [Geek Vibes Nation](https://geekvibesnation.com/flashback-friday-pc-gaming-dynamix-sierra-online/) – - PC Gamer ranking
+[^ref-25]: [MobyGames - Game Arts](https://www.mobygames.com/company/29/game-arts-co-ltd/) – - Company founding information
+[^ref-26]: [VGM Database](https://vgmdb.net/album/146078) – - Soundtrack composition information
+[^ref-27]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/thexder) – - User nostalgic comment
+[^ref-28]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Thexder) – - Technical achievement
+[^ref-29]: [Square Enix](http://dlgames.square-enix.com/eu/en/psp_dl/2009/thexderneo/) – - Graphics description
+[^ref-30]: [Pixs Original Adventures](https://www.pixsoriginadventures.co.uk/thexder/) – - EGA color simulation
+[^ref-31]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Thexder) – - Video mode support
+[^ref-32]: [MobyGames](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/) – - Sequel information
+[^ref-33]: [Sierra Help Wiki](https://wiki.sierrahelp.com/index.php/Thexder_95) – - Later version
+[^ref-34]: [MobyGames](https://www.mobygames.com/game/43121/thexder-neo/) – - Modern remake
+[^ref-35]: [Gamia Archive](https://gamia-archive.fandom.com/wiki/List_of_best-selling_PC_video_games) – - Sales figures
+[^ref-36]: [VGMPF](https://vgmpf.com/Wiki/index.php/Thexder_(FC)) – - Licensing information
+[^ref-37]: [Time Extension](https://www.timeextension.com/news/2023/10/pc-88-classics-thexder-and-relics-land-on-nintendo-switch) – - Modern re-release
 [^ref-38]: [Wikipedia](https://en.wikipedia.org/wiki/Thexder) – - Dragon magazine review
-[^ref-21]: [MobyGames](https://www.mobygames.com/game/2857/thexder/) – - Aggregate review scores
-[^ref-22]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Thexder&gid=1702) – - Modern rating
-[^ref-23]: [GameFAQs Review](https://gamefaqs.gamespot.com/nes/578267-thexder/reviews/150441) – - Critical user review
-[^ref-24]: [Geek Vibes Nation](https://geekvibesnation.com/flashback-friday-pc-gaming-dynamix-sierra-online/) – - PC Gamer ranking
-[^ref-25]: [MobyGames - Game Arts](https://www.mobygames.com/company/29/game-arts-co-ltd/) – - Company founding information
-[^ref-26]: [VGM Database](https://vgmdb.net/album/146078) – - Soundtrack composition information
-[^ref-27]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/thexder) – - User nostalgic comment
-[^ref-28]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Thexder) – - Technical achievement
-[^ref-29]: [Square Enix](http://dlgames.square-enix.com/eu/en/psp_dl/2009/thexderneo/) – - Graphics description
-[^ref-30]: [Pixs Original Adventures](https://www.pixsoriginadventures.co.uk/thexder/) – - EGA color simulation
-[^ref-31]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Thexder) – - Video mode support
-[^ref-32]: [MobyGames](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/) – - Sequel information
-[^ref-33]: [Sierra Help Wiki](https://wiki.sierrahelp.com/index.php/Thexder_95) – - Later version
-[^ref-34]: [MobyGames](https://www.mobygames.com/game/43121/thexder-neo/) – - Modern remake
-[^ref-35]: [Gamia Archive](https://gamia-archive.fandom.com/wiki/List_of_best-selling_PC_video_games) – - Sales figures
-[^ref-36]: [VGMPF](https://vgmpf.com/Wiki/index.php/Thexder_(FC)) – - Licensing information
-[^ref-37]: [Time Extension](https://www.timeextension.com/news/2023/10/pc-88-classics-thexder-and-relics-land-on-nintendo-switch) – - Modern re-release
-[^ref-20]: [Compute! Magazine](https://en.wikipedia.org/wiki/Thexder#Reception) – - "First true arcade game" and "excellent play value for your dollar"
-[[1995 - Thexder 95]]
-- [[2009 - Thexder Neo]]
-
-## References
-
-[^ref-1]: [MobyGames - Thexder](https://www.mobygames.com/game/49/thexder/) – - Developer and publisher information
-[^ref-2]: [Grokipedia - Thexder](https://grokipedia.com/page/Thexder) – - Robot transformation concept description
-[^ref-3]: [GIGAZINE Archive](https://archive.today/20120709022342/http://en.gigazine.net/index.php?/news/comments/20090824_thexder/) – - Description as one of first robot action games
-[^ref-4]: [Nintendo Store](https://www.nintendo.com/us/store/products/eggconsole-thexder-pc-8801mkiisr-switch/) – - Basic game overview
-[^ref-5]: [Classic Reload](https://classicreload.com/thexder.html) – - Commercial success information
-[^ref-6]: [Extra Lives Blog](https://extralives.wordpress.com/2015/08/11/it-came-from-japan-thexder/) – - Ken Williams discovery story
-[^ref-7]: [Giant Bomb](https://giantbomb.com/thexder/3030-14476/) – - Historical significance
-[^ref-8]: [Shmuplations](https://shmuplations.com/thexder/) – - Original developer interview
-[^ref-9]: [Strategy Wiki](https://strategywiki.org/wiki/Thexder) – - Platform information
-[^ref-10]: [Games Database](https://www.gamesdatabase.org/game/nintendo-nes/thexder.aspx) – - Story description
-[^ref-11]: [Gyusyabu Archive](http://gyusyabu.ddo.jp/MP3/1985/THEX1.html) – - Original Japanese promotional material
-[^ref-12]: [Generation MSX](https://www.generation-msx.nl/software/compile-game-arts/thexder/799/) – - Pronunciation note
-[^ref-13]: [My Abandonware](https://www.myabandonware.com/game/thexder-dk) – - Control description
-[^ref-14]: [Games Nostalgia](https://gamesnostalgia.com/game/thexder) – - Transformation mechanics
-[^ref-15]: [Internet Archive](https://archive.org/details/msdos_Thexder_1987) – - Weapon system description
-[^ref-16]: [Strategy Wiki](https://strategywiki.org/wiki/Thexder/Gameplay) – - Strategic transformation gameplay
-[^ref-17]: [GameFAQs FAQ](https://gamefaqs.gamespot.com/nes/578267-thexder/faqs/36102) – - Level skipping and ending description
-[^ref-18]: [Amiga Magazine Reviews](http://amr.abime.net/review_17838) – - Génération 4 review score
-[^ref-19]: [Amiga Magazine Reviews](https://amr.abime.net/review_22769) – - The Games Machine review
-[^ref-20]: [Wikipedia](https://en.wikipedia.org/wiki/Thexder) – - Dragon magazine review
-[^ref-21]: [MobyGames](https://www.mobygames.com/game/2857/thexder/) – - Aggregate review scores
-[^ref-22]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Thexder&gid=1702) – - Modern rating
-[^ref-23]: [GameFAQs Review](https://gamefaqs.gamespot.com/nes/578267-thexder/reviews/150441) – - Critical user review
-[^ref-24]: [Geek Vibes Nation](https://geekvibesnation.com/flashback-friday-pc-gaming-dynamix-sierra-online/) – - PC Gamer ranking
-[^ref-25]: [MobyGames - Game Arts](https://www.mobygames.com/company/29/game-arts-co-ltd/) – - Company founding information
-[^ref-26]: [VGM Database](https://vgmdb.net/album/146078) – - Soundtrack composition information
-[^ref-27]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/thexder) – - User nostalgic comment
-[^ref-28]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Thexder) – - Technical achievement
-[^ref-29]: [Square Enix](http://dlgames.square-enix.com/eu/en/psp_dl/2009/thexderneo/) – - Graphics description
-[^ref-30]: [Pixs Original Adventures](https://www.pixsoriginadventures.co.uk/thexder/) – - EGA color simulation
-[^ref-31]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Thexder) – - Video mode support
-[^ref-32]: [MobyGames](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/) – - Sequel information
-[^ref-33]: [Sierra Help Wiki](https://wiki.sierrahelp.com/index.php/Thexder_95) – - Later version
-[^ref-34]: [MobyGames](https://www.mobygames.com/game/43121/thexder-neo/) – - Modern remake
-[^ref-35]: [Gamia Archive](https://gamia-archive.fandom.com/wiki/List_of_best-selling_PC_video_games) – - Sales figures
-[^ref-36]: [VGMPF](https://vgmpf.com/Wiki/index.php/Thexder_(FC)) – - Licensing information
-[^ref-37]: [Time Extension](https://www.timeextension.com/news/2023/10/pc-88-classics-thexder-and-relics-land-on-nintendo-switch) – - Modern re-release
-[^ref-20]: [Compute! Magazine](https://en.wikipedia.org/wiki/Thexder#Reception) – - "First true arcade game" and "excellent play value for your dollar"

@@ -254,32 +254,3 @@ In the broader context of Sierra On-Line's publishing history, Fire Hawk represe
 [^ref-23]: [Khinsider – MSX2 OPLL Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/fire-hawk-thexder-the-second-contact-msx2-opll) – soundtrack file sizes, track count
 [^ref-24]: [Internet Archive – Sierra News Magazine Fall 1990](https://archive.org/stream/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) – Sierra publishing documentation
 [^ref-25]: [DOS.Zone – Fire Hawk](https://dos.zone/fire-hawk-thexder-the-second-contact-1990/) – browser playability, platform information
-[[2009 - Thexder Neo]]
-
-## References
-
-[^ref-1]: [MobyGames – Fire Hawk: Thexder - The Second Contact](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/) – credits, ratings, technical specifications, trivia
-[^ref-2]: [Wikipedia – Fire Hawk: Thexder - The Second Contact](https://en.wikipedia.org/wiki/Fire_Hawk:_Thexder_-_The_Second_Contact) – release dates, developers, designers, composers, reception, sales
-[^ref-3]: [Retrolorean – Fire Hawk: Thexder - The Second Contact](https://www.retrolorean.com/en/fire-hawk-thexder-the-second-contact-12327) – historical context, remake information
-[^ref-4]: [GOG.com – Dreamlist Entry](https://www.gog.com/dreamlist/game/fire-hawk-thexder-the-second-contact-1990) – game description, soundtrack quality, mission count
-[^ref-5]: [MobyGames User Review – Katakis](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/user-review/2418714/) – gameplay mechanics, story details, final boss description
-[^ref-6]: [Generation-MSX – Fire Hawk Database Entry](https://www.generation-msx.nl/software/game-arts/fire-hawk-thexder---the-second-contact/1249/) – MSX2 technical specifications, credits, release date
-[^ref-7]: [Pixelated Arcade – Fire Hawk](https://www.pixelatedarcade.com/games/fire-hawk-thexder-the-second-contact) – story overview, platform information, gameplay description
-[^ref-8]: [GameFAQs – MSX Version](https://gamefaqs.gamespot.com/msx/941443-fire-hawk-thexder-the-second-contact) – user ratings, game description, difficulty assessment
-[^ref-9]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Fire_Hawk_-_Thexder_-_The_Second_Contact_1990) – platform information, gameplay mechanics, trivia
-[^ref-10]: [StrategyWiki – Thexder](https://strategywiki.org/wiki/Thexder) – series history, transformation mechanic description, development origins
-[^ref-11]: [Neoseeker – Save Hacking Guide](https://www.neoseeker.com/fire-hawk-thexder-second-contact/faqs/2769031-fire-hawk-thexder-tsc-save-hacking.html) – save file technical details, autosave mechanics
-[^ref-12]: [Internet Archive – MSX Magazine January 1990](https://archive.org/stream/MSX_Magazine_1990-01_ASCII_JP) – Japanese release documentation
-[^ref-13]: [Abandonware Magazines](http://www.abandonware-magazines.org/affiche_mag.php?mag=30&num=664&album=oui) – European magazine coverage
-[^ref-14]: [MobyGames User Review – Tomer Gabel](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/user-review/2648383/) – critical assessment
-[^ref-15]: [MyAbandonware – Fire Hawk](https://www.myabandonware.com/game/fire-hawk-thexder-the-second-contact-2jf) – HOTUD rating, download information, alternative titles
-[^ref-16]: [Glitchwave – Fire Hawk](https://glitchwave.com/game/fire-hawk-thexder-the-second-contact/) – aggregate rating, media format, alternative titles
-[^ref-17]: [GameFAQs – PC Version Data](https://gamefaqs.gamespot.com/pc/935279-fire-hawk-thexder-the-second-contact/data) – release dates by platform, publisher information
-[^ref-18]: [VGMRips – MSX2 OPLL Music Pack](https://vgmrips.net/packs/pack/fire-hawk-thexder-the-second-contact-msx2-opll) – composer credits, sound chip information
-[^ref-19]: [Khinsider – PC-88 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/fire-hawk-thexder-the-second-contact-pc-8801) – soundtrack details, user review, technical specifications
-[^ref-20]: [MSX.org Forum – Fire Hawk Discussion](https://www.msx.org/forum/msx-talk/software/fire-hawk-thexder-second-contact?page=2) – technical issues, FM detection, save problems
-[^ref-21]: [PCGamingWiki – Fire Hawk](https://www.pcgamingwiki.com/wiki/Fire_Hawk:_Thexder_-_The_Second_Contact) – DOS technical specifications, video modes, copy protection
-[^ref-22]: [OPL3.com – Fire Hawk Audio Comparison](https://www.opl3.com/fire-hawk-thexder-the-second-contact/) – audio mode information
-[^ref-23]: [Khinsider – MSX2 OPLL Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/fire-hawk-thexder-the-second-contact-msx2-opll) – soundtrack file sizes, track count
-[^ref-24]: [Internet Archive – Sierra News Magazine Fall 1990](https://archive.org/stream/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) – Sierra publishing documentation
-[^ref-25]: [DOS.Zone – Fire Hawk](https://dos.zone/fire-hawk-thexder-the-second-contact-1990/) – browser playability, platform information

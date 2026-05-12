@@ -257,12 +257,8 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 [^ref-8]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – platform, release year, game description, features
 [^ref-10]: [Steam Community – Hoyle Official Card Games Collection](https://steamcommunity.com/app/397420) – user discussions, interface comparisons to 2002/2003 versions
 [^ref-11]: [Sierra Gamers](https://www.sierragamers.com/) – Hoyle series chronology and documentation
-
 [^ref-12]: [Internet Archive – Hoyle Puzzle Games 2002](https://archive.org/details/hoyle-puzzle-games-2002) – game preservation archive, package content documentation
-
 [^ref-13]: [NeverDieMedia – Hoyle Puzzle Games 2002](https://www.neverdiemedia.com/products/hoyle-puzzle-games-2002) – retail distribution documentation
-
-
 [^ref-15]: [LaunchBox Games Database – Sierra Entertainment Games](https://gamesdb.launchbox-app.com/developers/games/2391-sierra-entertainment) – Sierra game catalog and chronology
 [^ref-16]: [MobyGames – Hoyle Puzzle Games](https://www.mobygames.com/game/hoyle-puzzle-games-2002/) – game catalog information
 [^ref-18]: [PCGamingWiki – Hoyle Puzzle Games](https://www.pcgamingwiki.com/wiki/Hoyle_Puzzle_Games) – technical documentation
@@ -320,24 +316,3 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 - [[2011 - Hoyle Swashbucklin Slots]]
 - [[2015 - Hoyle Official Card Games Collection]]
 - [[2016 - Hoyle Casino Games Collection]]
-
-## References
-
-[^ref-1]: [Metacritic – Hoyle Puzzle Games](https://www.metacritic.com/game/hoyle-puzzle-games/) – release date, developer, publisher, ESRB rating, game features, review status
-[^ref-2]: [Sierra Chest – Hoyle Puzzle Games Box Information](https://sierrachest.com/index.php?a=games&id=817&title=hoyle-puzzle-games&fld=box) – release dates, publisher, platforms, packaging details, UPC
-[^ref-4]: [WorthPoint – Hoyle Puzzle Games 2002 Manual PC CD](https://www.worthpoint.com/worthopedia/hoyle-puzzle-games-2002-manual-pc-cd-1787365305) – game count, publisher information
-[^ref-5]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, release timeline
-[^ref-6]: [Alchetron – Hoyle's Official Book of Games](https://alchetron.com/Hoyle's-Official-Book-of-Games) – series overview, chronological listing
-[^ref-8]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – platform, release year, game description, features
-[^ref-10]: [Steam Community – Hoyle Official Card Games Collection](https://steamcommunity.com/app/397420) – user discussions, interface comparisons to 2002/2003 versions
-[^ref-11]: [Sierra Gamers](https://www.sierragamers.com/) – Hoyle series chronology and documentation
-
-[^ref-12]: [Internet Archive – Hoyle Puzzle Games 2002](https://archive.org/details/hoyle-puzzle-games-2002) – game preservation archive, package content documentation
-
-[^ref-13]: [NeverDieMedia – Hoyle Puzzle Games 2002](https://www.neverdiemedia.com/products/hoyle-puzzle-games-2002) – retail distribution documentation
-
-
-[^ref-15]: [LaunchBox Games Database – Sierra Entertainment Games](https://gamesdb.launchbox-app.com/developers/games/2391-sierra-entertainment) – Sierra game catalog and chronology
-[^ref-16]: [MobyGames – Hoyle Puzzle Games](https://www.mobygames.com/game/hoyle-puzzle-games-2002/) – game catalog information
-[^ref-18]: [PCGamingWiki – Hoyle Puzzle Games](https://www.pcgamingwiki.com/wiki/Hoyle_Puzzle_Games) – technical documentation
-[^ref-19]: [GameFAQs – Hoyle Puzzle Games](https://gamefaqs.gamespot.com/pc/915461-hoyle-puzzle-games-2002) – user reviews and ratings

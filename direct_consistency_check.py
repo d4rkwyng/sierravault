@@ -65,10 +65,33 @@ GAME_INFO_FIELDS = [
 ]
 
 CANONICAL_LINEAGE = {
-    "Core Sierra", "Sierra Label (Dynamix)", "Sierra Label (Impressions)",
-    "Sierra Label (Coktel Vision)", "Sierra Label (Other)", "Partner Studio",
-    "Licensed Title", "Fan Project", "Fan Sequel", "Spiritual Successor",
-    "Alumni Project", "Spinoff", "Cancelled",
+    # Core Sierra
+    "Core Sierra",
+    # Sierra Labels (per STYLE_GUIDE.md and INCLUSION_CRITERIA.md)
+    "Sierra Label (Dynamix)",
+    "Sierra Label (Impressions)",
+    "Sierra Label (Coktel)",
+    "Sierra Label (Coktel Vision)",  # alias for legacy pages
+    "Sierra Label (Papyrus)",
+    "Sierra Label (Bright Star)",
+    "Sierra Label (Synergistic)",
+    "Sierra Label (Sierra Attractions)",
+    "Sierra Label (Discovery)",
+    "Sierra Label (Other)",  # script-only fallback
+    # Other relationships
+    "Sierra Published",
+    "Third-Party Published",
+    "Acquired Franchise",
+    "Partner Studio",  # script-only legacy alias
+    "Licensed Title",  # script-only legacy alias
+    # Post-Sierra / fan
+    "Fan Project",
+    "Fan Sequel",  # script-only alias for fan continuations
+    "Alumni Project",
+    "Spiritual Successor",
+    "Spinoff",
+    "Post-Sierra",
+    "Cancelled",
 }
 
 KNOWN_BAD_LINKS = {
@@ -293,11 +316,17 @@ def score_page(filepath: Path, all_basenames: set) -> PageResult:
 
     chk("References", "References" in h2, "Missing ## References section", 1)
 
-    # Game Info Fields
+    # Game Info Fields — accept style-guide alternative labels per STYLE_GUIDE.md
+    # (e.g. **Design/Writing:** is interchangeable with **Designer:**)
+    GAME_INFO_ALTS = {
+        "Designer": ["Designer", "Design/Writing", "Design"],
+    }
     if has_callout:
         callout = extract_callout(content)
         for fi in GAME_INFO_FIELDS:
-            chk("Game Info", bool(re.search(rf'\*\*{re.escape(fi)}:\*\*', callout)), f"Missing `**{fi}:**`", 1)
+            alternates = GAME_INFO_ALTS.get(fi, [fi])
+            present = any(re.search(rf'\*\*{re.escape(alt)}:\*\*', callout) for alt in alternates)
+            chk("Game Info", present, f"Missing `**{fi}:**`", 1)
     else:
         max_score += len(GAME_INFO_FIELDS)
 

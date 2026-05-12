@@ -219,51 +219,19 @@ The pack's legacy is largely overshadowed by the main Space Quest series, which 
 [^ref-2]: [Giant Bomb – Roger Wilco's Spaced Out Game Pack](https://www.giantbomb.com/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack/3030-13252/) – game overview and series context
 [^ref-3]: [CDRomance – Crazy Nick's Software Picks Series](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) – series information, download statistics, ScummVM compatibility
 [^ref-4]: [MyAbandonware – Roger Wilco's Spaced Out Game Pack](https://www.myabandonware.com/game/crazy-nick-s-software-picks-roger-wilco-s-spaced-out-game-pack-36v) – user ratings, technical specs, user comments
+[^ref-5]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=publications) – release date, InterAction magazine reference
+[^ref-6]: [PCGamingWiki – Roger Wilco's Spaced Out Game Pack](https://www.pcgamingwiki.com/wiki/Roger_Wilco's_Spaced_Out_Game_Pack) – engine information, series classification
+[^ref-7]: [Free Game Empire – Roger Wilco's Spaced Out Game Pack](https://www.freegameempire.com/games/Crazy-Nick-s-Software-Picks-Roger-Wilco-s-Spaced-Out-Game-Pack) – mini-game descriptions, developer information
+[^ref-8]: [Super Adventures in Gaming – Review](http://superadventuresingaming.blogspot.com/2011/04/crazy-nicks-software-picks-roger-wilcos.html) – gameplay criticism, control issues
+[^ref-10]: [Wikipedia – Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – Scott Murphy quotes, series history
+[^ref-11]: [MyAbandonware – Play Page](https://www.myabandonware.com/game/crazy-nick-s-software-picks-roger-wilco-s-spaced-out-game-pack-36v/play-36v) – executable files, DOSBox compatibility
+[^ref-12]: [Wikipedia – Space Quest 6](https://en.wikipedia.org/wiki/Space_Quest_6) – series sales data
+[^ref-13]: [Quest Studios – Space Quest V Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/sq5/) – composer credits
+[^ref-14]: [Quest Studios – Space Quest VI Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/sq6/) – audio format details
+[^ref-15]: [KHInsider – Space Quest IV Reorchestrated](https://downloads.khinsider.com/game-soundtracks/album/space-quest-iv-roger-wilco-and-the-time-rippers-reorchestrated-remixed-2020) – fan soundtrack project, original composer credits
+[^ref-16]: [IGDB – Roger Wilco's Spaced Out Game Pack](https://www.igdb.com/games/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack) – game database entry and metadata
+[^ref-17]: [ScummVM Wiki – SCI Games](https://wiki.scummvm.org/index.php/SCI) – engine compatibility information
+[^ref-18]: [Internet Archive – InterAction Magazine](https://archive.org/details/interactionmagazine) – Sierra magazine coverage
+[^ref-19]: [Space Quest Wiki – Mini-Games](https://spacequest.fandom.com/wiki/Ms._Astro_Chicken) – Ms. Astro Chicken mini-game details
+[^ref-20]: [Space Quest Wiki – Monolith Burger](https://spacequest.fandom.com/wiki/Monolith_Burger) – Monolith Burger location and game details
 [^ref-21]: [Sierra Chest – Crazy Nick Roger Walkthrough](https://sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=walkthrough) – mini-game origins, control schemes, gameplay details
-[^ref-6]: [PCGamingWiki – Roger Wilco's Spaced Out Game Pack](https://www.pcgamingwiki.com/wiki/Roger_Wilco's_Spaced_Out_Game_Pack) – engine information, series classification
-[^ref-7]: [Free Game Empire – Roger Wilco's Spaced Out Game Pack](https://www.freegameempire.com/games/Crazy-Nick-s-Software-Picks-Roger-Wilco-s-Spaced-Out-Game-Pack) – mini-game descriptions, developer information
-[^ref-8]: [Super Adventures in Gaming – Review](http://superadventuresingaming.blogspot.com/2011/04/crazy-nicks-software-picks-roger-wilcos.html) – gameplay criticism, control issues
-[^ref-5]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=publications) – release date, InterAction magazine reference
-[^ref-10]: [Wikipedia – Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – Scott Murphy quotes, series history
-[^ref-11]: [MyAbandonware – Play Page](https://www.myabandonware.com/game/crazy-nick-s-software-picks-roger-wilco-s-spaced-out-game-pack-36v/play-36v) – executable files, DOSBox compatibility
-[^ref-12]: [Wikipedia – Space Quest 6](https://en.wikipedia.org/wiki/Space_Quest_6) – series sales data
-[^ref-13]: [Quest Studios – Space Quest V Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/sq5/) – composer credits
-[^ref-14]: [Quest Studios – Space Quest VI Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/sq6/) – audio format details
-[^ref-15]: [KHInsider – Space Quest IV Reorchestrated](https://downloads.khinsider.com/game-soundtracks/album/space-quest-iv-roger-wilco-and-the-time-rippers-reorchestrated-remixed-2020) – fan soundtrack project, original composer credits
-[^ref-16]: [IGDB – Roger Wilco's Spaced Out Game Pack](https://www.igdb.com/games/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack) – game database entry and metadata
-[^ref-17]: [ScummVM Wiki – SCI Games](https://wiki.scummvm.org/index.php/SCI) – engine compatibility information
-[^ref-18]: [Internet Archive – InterAction Magazine](https://archive.org/details/interactionmagazine) – Sierra magazine coverage
-[^ref-19]: [Space Quest Wiki – Mini-Games](https://spacequest.fandom.com/wiki/Ms._Astro_Chicken) – Ms. Astro Chicken mini-game details
-[^ref-20]: [Space Quest Wiki – Monolith Burger](https://spacequest.fandom.com/wiki/Monolith_Burger) – Monolith Burger location and game details
-[[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
-- [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
-- [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
-
-- King Graham's Board Game Challenge (1992)
-- Parlor Games with Laura Bow (1992)
-- Robin Hood's Game of Skill and Chance (1992)
-- Leisure Suit Larry Casino (1992)
-- Roger Wilco's Spaced Out Game Pack (1992)
-
-## References
-
-[^ref-1]: [MobyGames – Roger Wilco's Spaced Out Game Pack](https://www.mobygames.com/game/95475/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack/) – game description, credits, technical details
-[^ref-2]: [Giant Bomb – Roger Wilco's Spaced Out Game Pack](https://www.giantbomb.com/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack/3030-13252/) – game overview and series context
-[^ref-3]: [CDRomance – Crazy Nick's Software Picks Series](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) – series information, download statistics, ScummVM compatibility
-[^ref-4]: [MyAbandonware – Roger Wilco's Spaced Out Game Pack](https://www.myabandonware.com/game/crazy-nick-s-software-picks-roger-wilco-s-spaced-out-game-pack-36v) – user ratings, technical specs, user comments
-[^ref-5]: [Sierra Chest – Crazy Nick Roger Walkthrough](https://sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=walkthrough) – mini-game origins, control schemes, gameplay details
-[^ref-6]: [PCGamingWiki – Roger Wilco's Spaced Out Game Pack](https://www.pcgamingwiki.com/wiki/Roger_Wilco's_Spaced_Out_Game_Pack) – engine information, series classification
-[^ref-7]: [Free Game Empire – Roger Wilco's Spaced Out Game Pack](https://www.freegameempire.com/games/Crazy-Nick-s-Software-Picks-Roger-Wilco-s-Spaced-Out-Game-Pack) – mini-game descriptions, developer information
-[^ref-8]: [Super Adventures in Gaming – Review](http://superadventuresingaming.blogspot.com/2011/04/crazy-nicks-software-picks-roger-wilcos.html) – gameplay criticism, control issues
-[^ref-5]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=publications) – release date, InterAction magazine reference
-[^ref-10]: [Wikipedia – Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – Scott Murphy quotes, series history
-[^ref-11]: [MyAbandonware – Play Page](https://www.myabandonware.com/game/crazy-nick-s-software-picks-roger-wilco-s-spaced-out-game-pack-36v/play-36v) – executable files, DOSBox compatibility
-[^ref-12]: [Wikipedia – Space Quest 6](https://en.wikipedia.org/wiki/Space_Quest_6) – series sales data
-[^ref-13]: [Quest Studios – Space Quest V Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/sq5/) – composer credits
-[^ref-14]: [Quest Studios – Space Quest VI Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/sq6/) – audio format details
-[^ref-15]: [KHInsider – Space Quest IV Reorchestrated](https://downloads.khinsider.com/game-soundtracks/album/space-quest-iv-roger-wilco-and-the-time-rippers-reorchestrated-remixed-2020) – fan soundtrack project, original composer credits
-[^ref-16]: [IGDB – Roger Wilco's Spaced Out Game Pack](https://www.igdb.com/games/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack) – game database entry and metadata
-[^ref-17]: [ScummVM Wiki – SCI Games](https://wiki.scummvm.org/index.php/SCI) – engine compatibility information
-[^ref-18]: [Internet Archive – InterAction Magazine](https://archive.org/details/interactionmagazine) – Sierra magazine coverage
-[^ref-19]: [Space Quest Wiki – Mini-Games](https://spacequest.fandom.com/wiki/Ms._Astro_Chicken) – Ms. Astro Chicken mini-game details
-[^ref-20]: [Space Quest Wiki – Monolith Burger](https://spacequest.fandom.com/wiki/Monolith_Burger) – Monolith Burger location and game details

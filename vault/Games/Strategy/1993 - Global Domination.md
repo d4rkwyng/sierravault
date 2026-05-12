@@ -197,25 +197,8 @@ This article focuses specifically on the 1993 Impressions Games title.
 ## References
 
 [^ref-1]: [Abandonware DOS – Global Domination](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Global+Domination&gid=3447) – release dates, developers, publishers, designers, platforms, ratings
-[^ref-4]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Global_Domination_1993) – release dates, platforms, game description
-[^ref-3]: [Wikipedia – Global Domination](https://en.wikipedia.org/wiki/Global_Domination_(video_game))) – gameplay mechanics, scenarios, AI opponents, reception
-[^ref-5]: [GameFAQs – Global Domination (1993)](https://gamefaqs.gamespot.com/pc/218049-global-domination-1993) – alternate title "Stratagem," release regions
-[^ref-6]: [HandWiki – Global Domination](https://handwiki.org/wiki/Software:Global_Domination_(video_game)
-- [[1979 - Galactic Empire]]
-- [[1987 - The Ancient Art of War at Sea]]
-- [[1991 - The Charge of the Light Brigade]]
-- [[1991 - V for Victory - D-Day Utah Beach]]
-- [[1994 - Alien Legacy]]
-- [[1995 - High Seas Trader]]
-- [[1996 - Birthright - The Gorgon's Alliance]]
-- [[1996 - Space Bucks]]
-- [[1996 - The Rise & Rule of Ancient Empires]]
-
-## References
-
-[^ref-1]: [Abandonware DOS – Global Domination](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Global+Domination&gid=3447) – release dates, developers, publishers, designers, platforms, ratings
-[^ref-4]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Global_Domination_1993) – release dates, platforms, game description
 [^ref-3]: [Wikipedia – Global Domination](https://en.wikipedia.org/wiki/Global_Domination_(video_game)) – gameplay mechanics, scenarios, AI opponents, reception
+[^ref-4]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Global_Domination_1993) – release dates, platforms, game description
 [^ref-5]: [GameFAQs – Global Domination (1993)](https://gamefaqs.gamespot.com/pc/218049-global-domination-1993) – alternate title "Stratagem," release regions
 [^ref-6]: [HandWiki – Global Domination](https://handwiki.org/wiki/Software:Global_Domination_(video_game)) – Chuck Moss review quotes, reception analysis
 [^ref-7]: [MobyGames – Global Domination](https://www.mobygames.com/game/3025/global-domination/) – engine, technical specs, credits, ratings

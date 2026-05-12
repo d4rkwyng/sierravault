@@ -228,52 +228,18 @@ The series' evolution from the simple 18-hole original in 1997 to the comprehens
 
 [^ref-1]: [SteamDB – 3D Ultra Minigolf Adventures Deluxe](https://steamdb.info/app/10140/) – release date, developer, publisher, app details
 [^ref-2]: [Raijin.gg – 3D Ultra Minigolf Adventures Reviews](https://raijin.gg/app/10140/3D_Ultra_Minigolf_Adventures_Deluxe/reviews) – sales data, review scores, player statistics
-[^ref-3]: [Wikipedia – 3D Ultra Minigolf (game series)](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series))) – series history, development, releases, GameSpot review
-[^ref-4]: [Dynamix Fandom Wiki – 3-D Ultra (series)](https://dynamix.fandom.com/wiki/3-D_Ultra_(series)) – series games list, compilations, release dates
-[^ref-20]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: General](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=general) – content details, development history, Minigolf Maniacs origins
-[^ref-6]: [GOG Dreamlist – 3D Ultra Minigolf Adventures Deluxe](https://www.gog.com/dreamlist/game/3d-ultra-minigolf-adventures-deluxe-2009) – game description, community votes, features
-[^ref-7]: [Kotaku – 3D Ultra Minigolf Adventures Deluxe](https://kotaku.com/games/3d-ultra-minigolf-adventures-deluxe) – game features, description
-[^ref-12]: [Steam Community – 3D Ultra Minigolf Adventures Deluxe](https://steamcommunity.com/app/10140) – game description, community hub
-[^ref-9]: [XB Deals Canada – 3D Ultra Minigolf Adventures](https://xbdeals.net/ca-store/game/677939/3d-ultra-minigolf-adventures) – Xbox release date, price, languages, developer
-[^ref-19]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: Demos](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=demos) – Taco Bell demo promotion, hole names, demo features
-[^ref-5]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: Walkthrough](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=walkthrough&pid=102) – gameplay mechanics, hole strategies, puzzle details
-[^ref-13]: [Steam Community Discussions – Lost Island Expansion?](https://steamcommunity.com/app/10140/discussions/0/648814844423043714/) – confirmation of Lost Island inclusion
-[^ref-14]: [Cybersouls.io – 3D Ultra Minigolf Adventures Deluxe](https://cybersouls.io/en/games/3d-ultra-minigolf-adventures-deluxe) – release date, platform information
-[^ref-15]: [MyAbandonware – 3D Ultra Minigolf Deluxe](https://www.myabandonware.com/game/3-d-ultra-minigolf-deluxe-duw) – 1998 version details, alternate titles, technical specs
-[^ref-16]: [Steam Store – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) – Steam release date, developer, publisher
-[^ref-17]: [Sierra Gamers – 3D Ultra](https://www.sierragamers.com/3d-ultra/) – series game list, release years
-[^ref-18]: [Internet Archive – 3D Ultra Minigolf Deluxe](https://archive.org/details/3DUltraMinigolfDeluxe_201809) – 1998 version preservation, Dynamix/Sierra publication
-[[1995 - 3-D Ultra Pinball]]
-- [[1996 - 3-D Ultra Pinball - Creep Night]]
-- [[1997 - 3-D Ultra MiniGolf]]
-- [[1997 - 3-D Ultra Pinball - The Lost Continent]]
-- [[1998 - 3-D Ultra MiniGolf Deluxe]]
-- [[1998 - 3-D Ultra NASCAR Pinball]]
-- [[1999 - 3-D Ultra Cool Pool]]
-- [[1999 - 3-D Ultra Lionel TrainTown]]
-- [[1999 - 3-D Ultra Pinball - Power]]
-- [[1999 - 3-D Ultra Radio Control Racers]]
-- [[2000 - 3-D Ultra Lionel TrainTown Deluxe]]
-- [[2000 - 3-D Ultra Pinball - Thrill Ride]]
-- [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
-- [[2000 - Maximum Pool]]
-
-## References
-
-[^ref-1]: [SteamDB – 3D Ultra Minigolf Adventures Deluxe](https://steamdb.info/app/10140/) – release date, developer, publisher, app details
-[^ref-2]: [Raijin.gg – 3D Ultra Minigolf Adventures Reviews](https://raijin.gg/app/10140/3D_Ultra_Minigolf_Adventures_Deluxe/reviews) – sales data, review scores, player statistics
 [^ref-3]: [Wikipedia – 3D Ultra Minigolf (game series)](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) – series history, development, releases, GameSpot review
 [^ref-4]: [Dynamix Fandom Wiki – 3-D Ultra (series)](https://dynamix.fandom.com/wiki/3-D_Ultra_(series)) – series games list, compilations, release dates
-[^ref-5]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: General](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=general) – content details, development history, Minigolf Maniacs origins
+[^ref-5]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: Walkthrough](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=walkthrough&pid=102) – gameplay mechanics, hole strategies, puzzle details
 [^ref-6]: [GOG Dreamlist – 3D Ultra Minigolf Adventures Deluxe](https://www.gog.com/dreamlist/game/3d-ultra-minigolf-adventures-deluxe-2009) – game description, community votes, features
 [^ref-7]: [Kotaku – 3D Ultra Minigolf Adventures Deluxe](https://kotaku.com/games/3d-ultra-minigolf-adventures-deluxe) – game features, description
-[^ref-12]: [Steam Community – 3D Ultra Minigolf Adventures Deluxe](https://steamcommunity.com/app/10140) – game description, community hub
 [^ref-9]: [XB Deals Canada – 3D Ultra Minigolf Adventures](https://xbdeals.net/ca-store/game/677939/3d-ultra-minigolf-adventures) – Xbox release date, price, languages, developer
-[^ref-5]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: Demos](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=demos) – Taco Bell demo promotion, hole names, demo features
-[^ref-5]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: Walkthrough](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=walkthrough&pid=102) – gameplay mechanics, hole strategies, puzzle details
+[^ref-12]: [Steam Community – 3D Ultra Minigolf Adventures Deluxe](https://steamcommunity.com/app/10140) – game description, community hub
 [^ref-13]: [Steam Community Discussions – Lost Island Expansion?](https://steamcommunity.com/app/10140/discussions/0/648814844423043714/) – confirmation of Lost Island inclusion
 [^ref-14]: [Cybersouls.io – 3D Ultra Minigolf Adventures Deluxe](https://cybersouls.io/en/games/3d-ultra-minigolf-adventures-deluxe) – release date, platform information
 [^ref-15]: [MyAbandonware – 3D Ultra Minigolf Deluxe](https://www.myabandonware.com/game/3-d-ultra-minigolf-deluxe-duw) – 1998 version details, alternate titles, technical specs
 [^ref-16]: [Steam Store – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) – Steam release date, developer, publisher
 [^ref-17]: [Sierra Gamers – 3D Ultra](https://www.sierragamers.com/3d-ultra/) – series game list, release years
 [^ref-18]: [Internet Archive – 3D Ultra Minigolf Deluxe](https://archive.org/details/3DUltraMinigolfDeluxe_201809) – 1998 version preservation, Dynamix/Sierra publication
+[^ref-19]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: Demos](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=demos) – Taco Bell demo promotion, hole names, demo features
+[^ref-20]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: General](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=general) – content details, development history, Minigolf Maniacs origins

@@ -167,50 +167,9 @@ The game was eventually delisted from Steam and other digital platforms[^ref-15]
 [^ref-59]: [Polygon Soundtrack Interview](http://www.polygon.com/2013/6/5/4399684/austin-wintorys-leisure-suit-larry-reloaded-soundtrack-released) – - Composer interview about soundtrack
 [^ref-60]: [Polygon Android Issue Report](https://www.polygon.com/2013/7/19/4538278/leisure-suit-larry-reloaded-android-version-pulled-to-fix-error) – - Technical problems with mobile version
 [^ref-63]: [Reddit Developer Quote Post](https://www.reddit.com/r/Sierra/comments/1kuwdce/leisure_suit_larry_reloaded_2013_full_game/) – - Future Sierra remakes discussion
+[^ref-67]: [Steam Community Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=155987091) – - User-generated gameplay guide
+[^ref-74]: [Walkthrough King Reloaded Guide](https://www.walkthroughking.com/text/leisuresuitlarryreloaded.aspx) – - Achievement requirements and Sierra easter eggs
+[^ref-76]: [Archived NY Post Interview](https://web.archive.org/web/20121108084927/http://www.nypost.com/p/blogs/gamereport/leisure_suit_larry_creator_making_Z6I5YvLcAW15aqgSFTSx9N) – - Al Lowe and Paul Trowe interview about Kickstarter
+[^ref-79]: [Archived Replay Games Product Page](https://web.archive.org/web/20140724142903/https://www.replaygamesinc.com/store/index/products/item/leisure-suit-larry-reloaded) – - Official product details
+[^ref-81]: [Archived Delisted Games Entry](https://web.archive.org/web/20260827025329/https://delistedgames.com/leisure-suit-larry-reloaded/) – - Steam removal documentation
 [^ref-82]: [Steam Community OST](https://steamcommunity.com/sharedfiles/filedetails?id=167468330&insideModal=1) – - Removed content, no research data
-[^ref-67]: [Steam Community Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=155987091) – - User-generated gameplay guide
-[^ref-74]: [Walkthrough King Reloaded Guide](https://www.walkthroughking.com/text/leisuresuitlarryreloaded.aspx) – - Achievement requirements and Sierra easter eggs
-[^ref-76]: [Archived NY Post Interview](https://web.archive.org/web/20121108084927/http://www.nypost.com/p/blogs/gamereport/leisure_suit_larry_creator_making_Z6I5YvLcAW15aqgSFTSx9N) – - Al Lowe and Paul Trowe interview about Kickstarter
-[^ref-79]: [Archived Replay Games Product Page](https://web.archive.org/web/20140724142903/https://www.replaygamesinc.com/store/index/products/item/leisure-suit-larry-reloaded) – - Official product details
-[^ref-81]: [Archived Delisted Games Entry](https://web.archive.org/web/20260827025329/https://delistedgames.com/leisure-suit-larry-reloaded/) – - Steam removal documentation
-[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
-
-## References
-
-[^ref-1]: [3rd World Geeks Review](https://3rdworldgeeks.com/2013/11/20/ill-review-anything-leisure-suit-larry-reloaded/) – - Gameplay length and overall assessment
-[^ref-3]: [Abandonware DOS Search](https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry%3A+Reloaded) – - No content about Reloaded specifically
-[^ref-8]: [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/leisure-suit-larry-reloaded/) – - Comprehensive voice cast information
-[^ref-9]: [Financial Post](http://business.financialpost.com/2013/01/16/steam-greenlights-their-fourth-set-of-games-with-the-communitys-help/) – - Steam Greenlight approval context
-[^ref-12]: [Choicest Games Game Review](https://www.choicestgames.com/2014/09/leisure-suit-larry-reloaded-review.html) – - Detailed scoring breakdown
-[^ref-13]: [Classic Gaming Walkthrough](https://classicgaming.cc/pc/leisure-suit-larry/walkthrough-reloaded) – - Gameplay mechanics and age verification
-[^ref-15]: [Delisted Games](https://delistedgames.com/leisure-suit-larry-reloaded/) – - Digital storefront removal documentation
-[^ref-17]: [KHInsider Game Info](https://downloads.khinsider.com/game-soundtracks/album/leisure-suit-larry-reloaded-2013-pc-macos-ios-linux-android) – - Game description and interface details
-[^ref-18]: [Wikipedia Main Article](https://en.wikipedia.org/wiki/Leisure_Suit_Larry%3A_Reloaded) – - Development history and review scores
-[^ref-21]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/mac/714534-leisure-suit-larry-reloaded/faqs/67271) – - Game differences from original
-[^ref-22]: [GameFAQs Fan Discussion](https://gamefaqs.gamespot.com/boards/714533-leisure-suit-larry-reloaded/66627715) – - Kickstarter backer perspectives
-[^ref-23]: [GameFAQs Walkthrough Discussion](https://gamefaqs.gamespot.com/boards/714533-leisure-suit-larry-reloaded/66610363) – - Gameplay optimization tips
-[^ref-24]: [Game Informer Review](https://gameinformer.com/games/leisure_suit_larry_reloaded/b/pc/archive/2013/06/27/larry-laffer-rides-again.aspx) – - Professional critical assessment
-[^ref-31]: [GameSpot Review](http://www.gamespot.com/leisure-suit-larry-reloaded/reviews/leisure-suit-larry-reloaded-review-6410868/) – - Professional review with score
-[^ref-32]: [GamesRadar HD Announcement](http://www.gamesradar.com/leisure-suit-larry-receive-hd-treatment/) – - HD remake announcement
-[^ref-33]: [GamesRadar Review](http://www.gamesradar.com/leisure-suit-larry-reloaded-review/) – - Modern era gameplay assessment
-[^ref-34]: [GamingBolt Interview](http://gamingbolt.com/leisure-suit-larry-reloaded-interview-nsa-interference-unprintable-thoughts-kickstarter-benefits-and-more) – - Al Lowe development insights
-[^ref-35]: [Gaming Nexus Review](https://www.gamingnexus.com/Article/Leisure-Suit-Larry-Reloaded/Item4070.aspx) – - Critical assessment with harsh scoring
-[^ref-36]: [God is a Geek Review](https://www.godisageek.com/2013/08/leisure-suit-larry-reloaded-review/) – - Dated humor criticism
-[^ref-37]: [GOG Store Page](https://www.gog.com/en/game/leisure_suit_larry_reloaded) – - Current availability and user reviews
-[^ref-40]: [IMDb Database Entry](https://www.imdb.com/title/tt2446570/) – - Cast information and plot description
-[^ref-41]: [JayIsGames Review](https://jayisgames.com/review/leisure-suit-larry-reloaded.php) – - Character understanding praise
-[^ref-42]: [Kickstarter Campaign](http://www.kickstarter.com/projects/leisuresuitlarry/make-leisure-suit-larry-come-again) – - Crowdfunding success details
-[^ref-44]: [Mash Those Buttons Review](https://mashthosebuttons.com/review/leisure-suit-larry-reloaded-review/) – - Modernization analysis and interaction system praise
-[^ref-45]: [Metacritic PC Reviews](https://www.metacritic.com/game/leisure-suit-larry-reloaded/critic-reviews/?platform=pc) – - Aggregated critical scores
-[^ref-55]: [PC Gamer Delay Report](http://www.pcgamer.com/2013/05/25/leisure-suit-larry-remake-faces-delays/) – - Development delays and beta testing issues
-[^ref-57]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Reloaded) – - Technical documentation and system requirements
-[^ref-58]: [PCMag Review](https://www.pcmag.com/reviews/leisure-suit-larry-reloaded) – - Professional review with scoring
-[^ref-59]: [Polygon Soundtrack Interview](http://www.polygon.com/2013/6/5/4399684/austin-wintorys-leisure-suit-larry-reloaded-soundtrack-released) – - Composer interview about soundtrack
-[^ref-60]: [Polygon Android Issue Report](https://www.polygon.com/2013/7/19/4538278/leisure-suit-larry-reloaded-android-version-pulled-to-fix-error) – - Technical problems with mobile version
-[^ref-63]: [Reddit Developer Quote Post](https://www.reddit.com/r/Sierra/comments/1kuwdce/leisure_suit_larry_reloaded_2013_full_game/) – - Future Sierra remakes discussion
-[^ref-67]: [Steam Community OST](https://steamcommunity.com/sharedfiles/filedetails?id=167468330&insideModal=1) – - Removed content, no research data
-[^ref-67]: [Steam Community Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=155987091) – - User-generated gameplay guide
-[^ref-74]: [Walkthrough King Reloaded Guide](https://www.walkthroughking.com/text/leisuresuitlarryreloaded.aspx) – - Achievement requirements and Sierra easter eggs
-[^ref-76]: [Archived NY Post Interview](https://web.archive.org/web/20121108084927/http://www.nypost.com/p/blogs/gamereport/leisure_suit_larry_creator_making_Z6I5YvLcAW15aqgSFTSx9N) – - Al Lowe and Paul Trowe interview about Kickstarter
-[^ref-79]: [Archived Replay Games Product Page](https://web.archive.org/web/20140724142903/https://www.replaygamesinc.com/store/index/products/item/leisure-suit-larry-reloaded) – - Official product details
-[^ref-81]: [Archived Delisted Games Entry](https://web.archive.org/web/20260827025329/https://delistedgames.com/leisure-suit-larry-reloaded/) – - Steam removal documentation

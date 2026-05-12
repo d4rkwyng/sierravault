@@ -286,89 +286,12 @@ The game's significance lies primarily in its preservation of the Hoyle brand's 
 [^ref-11]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Franchise history, original developers, designer credits
 [^ref-12]: [PriceCharting – Hoyle Card Games](https://www.pricecharting.com/game/pc-games/hoyle-card-games) – Version history across years, format information
 [^ref-13]: [My Abandonware – Hoyle Card Games 2008](https://www.myabandonware.com/game/hoyle-card-games-2008-m74) – File specifications, user ratings, bug reports
-[^ref-22]: [MobyGames](https://www.mobygames.com/game/29723/hoyle-card-games-2008/) – Game database entry
+[^ref-14]: [WildTangent – Hoyle Card Games](https://www.wildtangent.com/p/cards/hoyle-card-games/) – Digital release date, user ratings, system requirements
+[^ref-15]: [IGN – Hoyle Card Games 2008](https://www.ign.com/games/hoyle-card-games-2008) – Release date, no review available
+[^ref-16]: [IGDB](https://www.igdb.com/games/hoyle-card-games-2008) – Game database entry
+[^ref-17]: [UVList](https://www.uvlist.net/game-8839-Hoyle+Card+Games+2008) – Universal Videogame List entry
+[^ref-18]: [Glitchwave](https://glitchwave.com/game/hoyle-card-games-2008/) – Modern ratings and classification
+[^ref-19]: [GameFAQs Credits](https://gamefaqs.gamespot.com/pc/943484-hoyle-card-games-2008/credit) – Development credits
+[^ref-20]: [Lutris](https://lutris.net/games/hoyle-card-games-2008/) – Linux compatibility information
 [^ref-21]: [Giant Bomb](https://www.giantbomb.com/hoyle-card-games-2008/3030-52131/) – Game database entry
-[^ref-16]: [IGDB](https://www.igdb.com/games/hoyle-card-games-2008) – Game database entry
-[^ref-17]: [UVList](https://www.uvlist.net/game-8839-Hoyle+Card+Games+2008) – Universal Videogame List entry
-[^ref-18]: [Glitchwave](https://glitchwave.com/game/hoyle-card-games-2008/) – Modern ratings and classification
-[^ref-19]: [GameFAQs Credits](https://gamefaqs.gamespot.com/pc/943484-hoyle-card-games-2008/credit) – Development credits
-[^ref-20]: [Lutris](https://lutris.net/games/hoyle-card-games-2008/) – Linux compatibility information
-[^ref-14]: [WildTangent – Hoyle Card Games](https://www.wildtangent.com/p/cards/hoyle-card-games/) – Digital release date, user ratings, system requirements
-[^ref-15]: [IGN – Hoyle Card Games 2008](https://www.ign.com/games/hoyle-card-games-2008) – Release date, no review available
-[[1989 - Hoyle Official Book of Games - Volume 1]]
-- [[1990 - Hoyle Official Book of Games - Volume 2]]
-- [[1991 - Hoyle Official Book of Games - Volume 3]]
-- [[1991 - Hoyle Official Book of Games - Volume 4]]
-- [[1992 - Hoyle Bridge]]
-- [[1993 - Hoyle Classic Card Games]]
-- [[1993 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Blackjack]]
-- [[1996 - Hoyle Bridge]]
-- [[1996 - Hoyle Casino]]
-- [[1996 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Solitaire]]
-- [[1997 - Hoyle Classic Board Games]]
-- [[1997 - Hoyle Classic Card Games]]
-- [[1997 - Hoyle Poker]]
-- [[1998 - Hoyle Battling Ships and War]]
-- [[1998 - Hoyle Classic Board Games]]
-- [[1999 - Hoyle Backgammon and Cribbage]]
-- [[1999 - Hoyle Casino]]
-- [[1999 - Hoyle Word Games]]
-- [[2000 - Hoyle Casino]]
-- [[2000 - Hoyle Crosswords]]
-- [[2000 - Hoyle Kids Games]]
-- [[2000 - Hoyle Slots and Video Poker]]
-- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
-- [[2001 - Hoyle Board Games]]
-- [[2001 - Hoyle Casino]]
-- [[2001 - Hoyle Kids Games]]
-- [[2001 - Hoyle Word Games]]
-- [[2002 - Hoyle Card Games]]
-- [[2002 - Hoyle Casino Empire]]
-- [[2002 - Hoyle Puzzle Games]]
-- [[2003 - Hoyle Board Games]]
-- [[2003 - Hoyle Card Games]]
-- [[2003 - Hoyle Casino]]
-- [[2003 - Hoyle Majestic Chess]]
-- [[2004 - Hoyle Casino]]
-- [[2004 - Hoyle Puzzle Games]]
-- [[2004 - Hoyle Table Games]]
-- [[2005 - Hoyle Board Games]]
-- [[2005 - Hoyle Card Games]]
-- [[2005 - Hoyle Casino 3D]]
-- [[2005 - Hoyle Poker Series]]
-- [[2005 - Hoyle Puzzle and Board Games]]
-- [[2005 - Hoyle Texas Hold Em]]
-- [[2006 - Hoyle Casino]]
-- [[2008 - Hoyle Casino]]
-- [[2008 - Hoyle Puzzle and Board Games]]
-- [[2011 - Hoyle Puzzle and Board Games]]
-- [[2011 - Hoyle Swashbucklin Slots]]
-- [[2015 - Hoyle Official Card Games Collection]]
-- [[2016 - Hoyle Casino Games Collection]]
-
-## References
-
-[^ref-1]: [Inside Mac Games Forum – Hoyle Card Games 2008 Discussion](https://www.insidemacgames.com/forum/thread-16374.html) – Mac release details, technical specifications, Easter eggs, user-reported issues
-[^ref-2]: [Newegg – Hoyle Card Games 2008 Product Listing](https://www.newegg.com/encore-software-hoyle-card-games-2008/p/N82E16832196441) – System requirements, game features, platform specifications
-[^ref-3]: [Blu-ray.com – Hoyle Card Games 2008 Database Entry](https://www.blu-ray.com/Hoyle-Card-Games-2008-PC/583392/) – Product description, game features, availability status
-[^ref-4]: [Metacritic – Hoyle Card Games 2008](https://www.metacritic.com/game/hoyle-card-games-2008/) – Developer, publisher, release date, ESRB rating
-[^ref-5]: [RAWG – Hoyle Card Games 2008](https://rawg.io/games/hoyle-card-games-2008) – Release date, developer confirmation
-[^ref-6]: [Amazon UK – Hoyle Card Games 2008](https://www.amazon.co.uk/Hoyle-Card-Games-2008-Version/dp/B001IYR53W) – UK release date, customer reviews, technical issues
-[^ref-7]: [GameFAQs – Hoyle Card Games 2008](https://gamefaqs.gamespot.com/pc/943484-hoyle-card-games-2008) – Game features, release date, product description
-[^ref-8]: [GameFAQs – Hoyle Franchise Listing](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – Franchise information, product features
-[^ref-9]: [Impulse Gamer – Hoyle Card Games 2008 Review](https://www.impulsegamer.com/pchoylecardgames2008.html) – Contemporary review, scores, DVD format details
-[^ref-10]: [ESRB – Hoyle Card Games 2008 Rating](https://www.esrb.org/ratings/23475/hoyle-card-games-2008/) – Official ESRB rating, platform confirmation
-[^ref-11]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Franchise history, original developers, designer credits
-[^ref-12]: [PriceCharting – Hoyle Card Games](https://www.pricecharting.com/game/pc-games/hoyle-card-games) – Version history across years, format information
-[^ref-13]: [My Abandonware – Hoyle Card Games 2008](https://www.myabandonware.com/game/hoyle-card-games-2008-m74) – File specifications, user ratings, bug reports
-[^ref-14]: [MobyGames](https://www.mobygames.com/game/29723/hoyle-card-games-2008/) – Game database entry
-[^ref-15]: [Giant Bomb](https://www.giantbomb.com/hoyle-card-games-2008/3030-52131/) – Game database entry
-[^ref-16]: [IGDB](https://www.igdb.com/games/hoyle-card-games-2008) – Game database entry
-[^ref-17]: [UVList](https://www.uvlist.net/game-8839-Hoyle+Card+Games+2008) – Universal Videogame List entry
-[^ref-18]: [Glitchwave](https://glitchwave.com/game/hoyle-card-games-2008/) – Modern ratings and classification
-[^ref-19]: [GameFAQs Credits](https://gamefaqs.gamespot.com/pc/943484-hoyle-card-games-2008/credit) – Development credits
-[^ref-20]: [Lutris](https://lutris.net/games/hoyle-card-games-2008/) – Linux compatibility information
-[^ref-14]: [WildTangent – Hoyle Card Games](https://www.wildtangent.com/p/cards/hoyle-card-games/) – Digital release date, user ratings, system requirements
-[^ref-15]: [IGN – Hoyle Card Games 2008](https://www.ign.com/games/hoyle-card-games-2008) – Release date, no review available
+[^ref-22]: [MobyGames](https://www.mobygames.com/game/29723/hoyle-card-games-2008/) – Game database entry

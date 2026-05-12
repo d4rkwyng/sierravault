@@ -270,133 +270,21 @@ The inclusion of handheld device support demonstrated forward-thinking design th
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/245729/hoyle-casino/) – release date, developer, publisher, platforms, media format
-
 [^ref-2]: [GameFAQs – Hoyle Casino 2003](https://gamefaqs.gamespot.com/pc/915771-hoyle-casino-2003) – release date, developer, publisher, user ratings
-
 [^ref-3]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, sales data, publisher transition, technical issues, franchise background
-
 [^ref-4]: [Amazon UK – Hoyle Casino Games 2003 Edition](https://www.amazon.co.uk/Hoyle-Casino-Games-2003-Edition/dp/B00008IM7A) – UK release date, customer reviews, game features, character count, handheld support
-
 [^ref-5]: [LaunchBox Games Database – Hoyle Casino 2003](https://gamesdb.launchbox-app.com/games/details/169578-hoyle-casino-2003) – games list, platforms, ESRB rating, marketing description
-
 [^ref-6]: [Kickstart News – Hoyle Casino 2003 Review](http://www.kickstartnews.com/reviews/games/hoyle_casino2003.html) – system requirements, MSRP, starting money, games list, educational features
-
 [^ref-7]: [Best Buy – Hoyle Casino 2003](https://www.bestbuy.com/site/hoyle-casino-2003-mac-windows-handheld/4752583.p?skuId=4752583) – platform availability including handheld
-
 [^ref-8]: [ESRB – Hoyle Casino Games 2003](https://www.esrb.org/ratings/7947/hoyle-casino-games-2003/) – rating, content descriptors, platform list
-
 [^ref-9]: [GameSpot – Hoyle Casino Review](https://www.gamespot.com/reviews/hoyle-casino-review/1900-2895821/) – critical review, technical limitations, resolution, online features
-
 [^ref-10]: [GameFAQs – Hoyle Casino Review by JPeeples](https://gamefaqs.gamespot.com/pc/52155-hoyle-casino/reviews/21928) – character system, pre-made characters, series critique
-
 [^ref-11]: [GameFAQs – Hoyle Slots and Video Poker Review](https://gamefaqs.gamespot.com/pc/578908-hoyle-slots-and-video-poker/reviews/79473) – replayability, user score
-
 [^ref-12]: [My Abandonware – Hoyle Casino](https://www.myabandonware.com/game/hoyle-casino-hzg) – user rating, download availability
-
 [^ref-13]: [Metacritic – Hoyle Casino 2003](https://www.metacritic.com/game/hoyle-casino-2003/) – release date, developer, publisher
-
 [^ref-14]: [FilePlanet – Hoyle Casino 2003](https://fileplanet.download.it/p-1682/Hoyle-Casino-2003) – file size, marketing description, key features
-
 [^ref-15]: [Macintosh Repository – Hoyle Casino 2003](https://www.macintoshrepository.org/19794-hoyle-casino-2003) – Mac release date, file specifications, archive data
-
 [^ref-16]: [Etsy – Hoyle Casino PC Game 2003](https://www.etsy.com/listing/1845080462/hoyle-casino-pc-game-2003-sierra) – publisher confirmation, year
-
 [^ref-17]: [PriceCharting – Hoyle Casino](https://www.pricecharting.com/game/pc-games/hoyle-casino) – ESRB rating, media format, pricing data, identifiers
-
 [^ref-18]: [MobyGames – Hoyle Casino Reviews](https://www.mobygames.com/game/245729/hoyle-casino/reviews/) – platform confirmation
-
 [^ref-19]: [Kanobu.ru – Hoyle Casino 2003](https://kanobu.ru/games/hoyle-casino-2003/reviews/) – release year confirmation
-
-[[1989 - Hoyle Official Book of Games - Volume 1]]
-- [[1990 - Hoyle Official Book of Games - Volume 2]]
-- [[1991 - Hoyle Official Book of Games - Volume 3]]
-- [[1991 - Hoyle Official Book of Games - Volume 4]]
-- [[1992 - Hoyle Bridge]]
-- [[1993 - Hoyle Classic Card Games]]
-- [[1993 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Blackjack]]
-- [[1996 - Hoyle Bridge]]
-- [[1996 - Hoyle Casino]]
-- [[1996 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Solitaire]]
-- [[1997 - Hoyle Classic Board Games]]
-- [[1997 - Hoyle Classic Card Games]]
-- [[1997 - Hoyle Poker]]
-- [[1998 - Hoyle Battling Ships and War]]
-- [[1998 - Hoyle Classic Board Games]]
-- [[1999 - Hoyle Backgammon and Cribbage]]
-- [[1999 - Hoyle Casino]]
-- [[1999 - Hoyle Word Games]]
-- [[2000 - Hoyle Casino]]
-- [[2000 - Hoyle Crosswords]]
-- [[2000 - Hoyle Kids Games]]
-- [[2000 - Hoyle Slots and Video Poker]]
-- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
-- [[2001 - Hoyle Board Games]]
-- [[2001 - Hoyle Casino]]
-- [[2001 - Hoyle Kids Games]]
-- [[2001 - Hoyle Word Games]]
-- [[2002 - Hoyle Card Games]]
-- [[2002 - Hoyle Casino Empire]]
-- [[2002 - Hoyle Puzzle Games]]
-- [[2003 - Hoyle Board Games]]
-- [[2004 - Hoyle Casino]]
-- [[2004 - Hoyle Puzzle Games]]
-- [[2004 - Hoyle Table Games]]
-- [[2005 - Hoyle Board Games]]
-- [[2005 - Hoyle Card Games]]
-- [[2005 - Hoyle Casino 3D]]
-- [[2005 - Hoyle Poker Series]]
-- [[2005 - Hoyle Puzzle and Board Games]]
-- [[2005 - Hoyle Texas Hold Em]]
-- [[2006 - Hoyle Casino]]
-- [[2006 - Hoyle Miami Solitaire]]
-- [[2007 - Hoyle Card Games 2008]]
-- [[2007 - Hoyle Casino]]
-- [[2008 - Hoyle Casino]]
-- [[2008 - Hoyle Puzzle and Board Games]]
-- [[2011 - Hoyle Puzzle and Board Games]]
-- [[2011 - Hoyle Swashbucklin Slots]]
-- [[2015 - Hoyle Official Card Games Collection]]
-- [[2016 - Hoyle Casino Games Collection]]
-
-## References
-
-[^ref-1]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/245729/hoyle-casino/) – release date, developer, publisher, platforms, media format
-
-[^ref-2]: [GameFAQs – Hoyle Casino 2003](https://gamefaqs.gamespot.com/pc/915771-hoyle-casino-2003) – release date, developer, publisher, user ratings
-
-[^ref-3]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, sales data, publisher transition, technical issues, franchise background
-
-[^ref-4]: [Amazon UK – Hoyle Casino Games 2003 Edition](https://www.amazon.co.uk/Hoyle-Casino-Games-2003-Edition/dp/B00008IM7A) – UK release date, customer reviews, game features, character count, handheld support
-
-[^ref-5]: [LaunchBox Games Database – Hoyle Casino 2003](https://gamesdb.launchbox-app.com/games/details/169578-hoyle-casino-2003) – games list, platforms, ESRB rating, marketing description
-
-[^ref-6]: [Kickstart News – Hoyle Casino 2003 Review](http://www.kickstartnews.com/reviews/games/hoyle_casino2003.html) – system requirements, MSRP, starting money, games list, educational features
-
-[^ref-7]: [Best Buy – Hoyle Casino 2003](https://www.bestbuy.com/site/hoyle-casino-2003-mac-windows-handheld/4752583.p?skuId=4752583) – platform availability including handheld
-
-[^ref-8]: [ESRB – Hoyle Casino Games 2003](https://www.esrb.org/ratings/7947/hoyle-casino-games-2003/) – rating, content descriptors, platform list
-
-[^ref-9]: [GameSpot – Hoyle Casino Review](https://www.gamespot.com/reviews/hoyle-casino-review/1900-2895821/) – critical review, technical limitations, resolution, online features
-
-[^ref-10]: [GameFAQs – Hoyle Casino Review by JPeeples](https://gamefaqs.gamespot.com/pc/52155-hoyle-casino/reviews/21928) – character system, pre-made characters, series critique
-
-[^ref-11]: [GameFAQs – Hoyle Slots and Video Poker Review](https://gamefaqs.gamespot.com/pc/578908-hoyle-slots-and-video-poker/reviews/79473) – replayability, user score
-
-[^ref-12]: [My Abandonware – Hoyle Casino](https://www.myabandonware.com/game/hoyle-casino-hzg) – user rating, download availability
-
-[^ref-13]: [Metacritic – Hoyle Casino 2003](https://www.metacritic.com/game/hoyle-casino-2003/) – release date, developer, publisher
-
-[^ref-14]: [FilePlanet – Hoyle Casino 2003](https://fileplanet.download.it/p-1682/Hoyle-Casino-2003) – file size, marketing description, key features
-
-[^ref-15]: [Macintosh Repository – Hoyle Casino 2003](https://www.macintoshrepository.org/19794-hoyle-casino-2003) – Mac release date, file specifications, archive data
-
-[^ref-16]: [Etsy – Hoyle Casino PC Game 2003](https://www.etsy.com/listing/1845080462/hoyle-casino-pc-game-2003-sierra) – publisher confirmation, year
-
-[^ref-17]: [PriceCharting – Hoyle Casino](https://www.pricecharting.com/game/pc-games/hoyle-casino) – ESRB rating, media format, pricing data, identifiers
-
-[^ref-18]: [MobyGames – Hoyle Casino Reviews](https://www.mobygames.com/game/245729/hoyle-casino/reviews/) – platform confirmation
-
-[^ref-19]: [Kanobu.ru – Hoyle Casino 2003](https://kanobu.ru/games/hoyle-casino-2003/reviews/) – release year confirmation
-
