@@ -36,6 +36,8 @@ The marketing emphasized accessibility with the tagline "SHAKE, RATTLE AND ROLL!
 > **ESRB Rating:** Everyone[^ref-9]
 > **Series:** Hoyle
 > **Sierra Lineage:** Core Sierra
+> **Engine:** SCI32
+> **Protagonist:** N/A
 
 ## Story Summary
 

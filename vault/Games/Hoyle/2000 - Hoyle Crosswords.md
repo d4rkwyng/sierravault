@@ -34,6 +34,8 @@ The game was released during a significant period in Sierra's corporate history,
 > **Release Year:** 2000
 > **Series:** Hoyle
 > **Sierra Lineage:** Core Sierra
+> **Engine:** Proprietary (Windows)
+> **Protagonist:** N/A
 
 ## Story Summary
 

@@ -15,15 +15,11 @@ description: Driver's Education '98 is an educational driving simulator develope
   by Dynamix and published by Sierra On-Line, with development beginning in 1997 and...
 tags: [1990s, educational, sierra, sierra-s-driver-s-education, simulation]
 ---
-## Driver's Education '98
+# Driver's Education '98
 
 <small style="color: gray">Last updated: January 30, 2026</small>
 
 ## Overview
-
-<small style="color: gray">Last updated: March 8, 2026</small>
-
-<small style="color: gray">Last updated: March 8, 2026</small>
 
 Driver's Education '98 is an educational driving simulator developed by [[Dynamix]] and published by [[Sierra On-Line]], with development beginning in 1997 and retail release in early 1998[^ref-1][^ref-4][^ref-22]. The software was designed to help prepare aspiring drivers for both the written examination and practical driving test, combining interactive test preparation with a fully realized 3D virtual city featuring real-world physics.[^ref-3] It was marketed as a "two-products-in-one" package, offering both a Driving Academy for test preparation and a 3D Virtual City for hands-on driving practice.[^ref-3]
 
@@ -40,6 +36,8 @@ So confident were the developers in the effectiveness of Driver's Education that
 > **Release Year:** 1998
 > **Series:** Sierra's Driver's Education
 > **Sierra Lineage:** Discovery Series[^ref-4]
+> **Designer:** Bill Money
+> **Protagonist:** Student Driver
 
 ## Program Summary
 

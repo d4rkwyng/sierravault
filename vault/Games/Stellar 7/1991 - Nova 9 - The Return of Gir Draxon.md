@@ -36,6 +36,8 @@ Computer Gaming World praised the game as "an excellent offering for arcade fans
 > **Release Year:** 1991
 > **Series:** Stellar 7
 > **Sierra Lineage:** Core Sierra
+> **Engine:** 3Space
+> **Protagonist:** Captain John Alex
 
 ## Story Summary
 

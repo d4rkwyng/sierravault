@@ -32,6 +32,8 @@ The game was developed using Sierra's Creative Interpreter (SCI) engine, though 
 > **Release Year:** 1993
 > **Series:** Hoyle
 > **Sierra Lineage:** Core Sierra
+> **Engine:** SCI1.1
+> **Protagonist:** N/A
 
 ## Story Summary
 

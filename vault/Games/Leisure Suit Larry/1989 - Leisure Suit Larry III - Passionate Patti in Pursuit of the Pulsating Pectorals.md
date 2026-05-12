@@ -42,6 +42,8 @@ The title is also known by alternate names including "LSL3," "Larry 3," and in G
 > **Release Year:** 1989
 > **Engine:** Sierra's Creative Interpreter (SCI0)[^ref-3]
 > **Sierra Lineage:** Core Sierra
+> **Series:** Leisure Suit Larry
+> **Protagonist:** Larry Laffer / Passionate Patti
 
 ## Story Summary
 

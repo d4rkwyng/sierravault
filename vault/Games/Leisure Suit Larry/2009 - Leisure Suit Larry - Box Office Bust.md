@@ -33,6 +33,8 @@ The game was originally developed by Team17 Software Limited[^ref-48] and publis
 > **Release Year:** 2009
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Post-Sierra
+> **Engine:** Unreal Engine 3
+> **Protagonist:** Larry Lovage
 
 ## Story Summary
 

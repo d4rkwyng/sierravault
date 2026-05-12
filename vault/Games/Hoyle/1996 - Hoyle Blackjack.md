@@ -16,15 +16,11 @@ description: Hoyle Blackjack was a comprehensive blackjack simulation developed 
   with...
 tags: [1990s, hoyle, sci, sierra, simulation]
 ---
-## Hoyle Blackjack
+# Hoyle Blackjack
 
 <small style="color: gray">Last updated: January 31, 2026</small>
 
 ## Overview
-
-<small style="color: gray">Last updated: March 19, 2026</small>
-
-<small style="color: gray">Last updated: March 19, 2026</small>
 
 Hoyle Blackjack was a comprehensive blackjack simulation developed by Sierra On-Line that brought "all the challenge and fun of casino blackjack home with 16 different games from the official name in gaming"[^ref-1]. This 1996 release was designed as part of Sierra's Hoyle series of card and board game collections, carrying the prestigious Hoyle brand that had been synonymous with card game rules since the 18th century[^ref-2]. The series was created as "a less violent alternative to action games"[^ref-2] and became a significant part of Sierra's game portfolio throughout the 1990s and 2000s.
 
@@ -40,6 +36,8 @@ The tagline "ANTE UP FOR AUTHENTIC CASINO BLACKJACK!" captured the game's appeal
 > **Release Year:** 1996
 > **Series:** Hoyle
 > **Sierra Lineage:** Core Sierra
+> **Engine:** SCI32
+> **Protagonist:** N/A
 
 ## Story Summary
 

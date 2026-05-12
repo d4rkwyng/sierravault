@@ -34,6 +34,8 @@ The game tells the fairy tale story of a brave wanderer who must rescue Princess
 > **Release Year:** 1980
 > **Series:** Hi-Res Adventure
 > **Sierra Lineage:** Core Sierra
+> **Engine:** ADL
+> **Protagonist:** Sir Graham
 
 ## Story Summary
 

@@ -36,6 +36,7 @@ Pro Pilot USA represented Sierra's ongoing commitment to the flight simulation g
 > **Series:** Pro Pilot
 > **Protagonist:** Player-controlled pilot
 > **Sierra Lineage:** Core Sierra
+> **Designer:** Unknown
 
 ## Story Summary
 

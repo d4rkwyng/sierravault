@@ -35,6 +35,8 @@ Unlike traditional pinball simulations of its era, Creep Night deliberately took
 > **Release Year:** 1996
 > **Series:** 3-D Ultra Pinball
 > **Sierra Lineage:** Core Sierra
+> **Engine:** 3D Ultra Pinball Engine
+> **Protagonist:** N/A
 
 ## Story Summary
 

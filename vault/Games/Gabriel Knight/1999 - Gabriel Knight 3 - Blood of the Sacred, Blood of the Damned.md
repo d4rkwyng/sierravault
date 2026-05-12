@@ -33,6 +33,8 @@ This entry marked a significant technical departure for the series, being the fi
 > **Release Year:** 1999[^ref-15]
 > **Series:** Gabriel Knight
 > **Sierra Lineage:** Core Sierra
+> **Engine:** G-Engine
+> **Protagonist:** Gabriel Knight
 
 ## Story Summary
 

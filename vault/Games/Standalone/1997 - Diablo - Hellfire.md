@@ -38,6 +38,7 @@ The expansion's development was notably contentious, with Blizzard North imposin
 > **Series:** Diablo
 > **Protagonist:** The Hero (customizable class)
 > **Sierra Lineage:** Sierra Affiliate
+> **Designer:** Kirt Lemons, Donald Tsang, Peter Watje, Jim Edwards, Mike McMillen
 
 ## Story Summary
 

@@ -35,6 +35,8 @@ Computer Gaming World called it "fresh in concept and long on gameplay"[^ref-1],
 > **Release Year:** 1992
 > **Series:** The Incredible Machine
 > **Sierra Lineage:** Core Sierra
+> **Engine:** Custom physics engine
+> **Protagonist:** N/A
 
 ## Gameplay
 

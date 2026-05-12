@@ -37,6 +37,7 @@ Cool Pool attempted to recreate the realities of billiards as faithfully as poss
 > **Series:** 3-D Ultra
 > **Protagonist:** N/A (Player-controlled)
 > **Sierra Lineage:** Core Sierra
+> **Designer:** Jeff Tunnell Productions
 
 ## Story Summary
 

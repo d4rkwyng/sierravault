@@ -33,6 +33,8 @@ As part of Sierra's sports game lineup during their Sierra Sports division era[^
 > **Release Year:** 2000
 > **Series:** PGA Championship Golf series
 > **Sierra Lineage:** Core Sierra
+> **Engine:** TrueSwing 3
+> **Protagonist:** Golfer (player-created)
 
 ## Story Summary
 

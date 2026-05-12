@@ -35,6 +35,7 @@ As part of the broader Hoyle franchise—a name traditionally associated with Si
 > **Release Year:** 2006
 > **Series:** Hoyle
 > **Sierra Lineage:** Licensed/Successor (Hoyle brand)
+> **Engine:** Proprietary (Windows)
 
 ## Story Summary
 

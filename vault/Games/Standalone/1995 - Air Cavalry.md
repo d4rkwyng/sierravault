@@ -36,6 +36,7 @@ Despite its technical ambitions, Air Cavalry received mixed reviews from contemp
 > **Release Year:** 1995
 > **Protagonist:** Air Cavalry Division Pilot
 > **Sierra Lineage:** Affiliated Developer
+> **Designer:** Robert C. Clardy
 
 ## Story Summary
 

@@ -36,6 +36,7 @@ The pack was designed to capitalize on the popularity of Space Quest's memorable
 > **Series:** Crazy Nick's Software Picks, Space Quest
 > **Protagonist:** Roger Wilco
 > **Sierra Lineage:** Core Sierra
+> **Designer:** Bill Davis
 
 ## Story Summary
 

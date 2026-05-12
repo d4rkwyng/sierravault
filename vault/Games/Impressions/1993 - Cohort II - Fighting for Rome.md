@@ -35,6 +35,7 @@ The game was designed as part of an interlocking game system module that could b
 > **Series:** Cohort
 > **Protagonist:** Roman/Barbarian Commander
 > **Sierra Lineage:** Affiliated Publisher
+> **Designer:** Edward Grabowski, Andrew Prime, Jeffrey Von Brakenton
 
 ## Story Summary
 

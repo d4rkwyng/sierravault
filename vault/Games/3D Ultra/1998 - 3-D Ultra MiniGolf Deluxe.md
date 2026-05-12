@@ -34,6 +34,8 @@ last_modified: 2026-03-15T15:49:44-07:00
 > **Release Year:** July 1998[^ref-7]
 > **Series:** 3D Ultra
 > **Sierra Lineage:** Core Sierra
+> **Engine:** 3D Ultra Engine
+> **Protagonist:** Player-controlled golfer
 
 ## Story Summary
 

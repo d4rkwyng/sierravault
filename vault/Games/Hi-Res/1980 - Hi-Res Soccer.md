@@ -33,6 +33,8 @@ The game later received a more sophisticated incarnation in 1994 as "Sierra Socc
 > **Release Year:** 1980
 > **Series:** Hi-Res Sports
 > **Sierra Lineage:** Core Sierra
+> **Engine:** Apple II Assembly
+> **Protagonist:** Soccer Team (player-controlled)
 
 ## Story Summary
 

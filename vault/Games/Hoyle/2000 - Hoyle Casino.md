@@ -36,6 +36,8 @@ The title proved commercially successful in North America, moving over 230,000 u
 > **Release Year:** 2000[^ref-1]
 > **Series:** Hoyle
 > **Sierra Lineage:** Core Sierra
+> **Engine:** Proprietary (Windows)
+> **Protagonist:** N/A
 
 ## Gameplay
 

@@ -35,6 +35,8 @@ The Hoyle series derived its name and authority from Edmond Hoyle, the 18th-cent
 > **Release Year:** 1991/1993
 > **Series:** Hoyle's Official Book of Games
 > **Sierra Lineage:** Core Sierra
+> **Engine:** SCI1
+> **Protagonist:** N/A
 
 ## Gameplay
 

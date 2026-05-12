@@ -33,6 +33,8 @@ The game features over 250 puzzles alongside a freeform invention mode, allowing
 > **Release Year:** 2000
 > **Series:** The Incredible Machine
 > **Sierra Lineage:** Core Sierra
+> **Engine:** Physics simulation engine
+> **Protagonist:** N/A
 
 ## Story Summary
 

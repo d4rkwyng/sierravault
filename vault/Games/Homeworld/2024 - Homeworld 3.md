@@ -37,6 +37,7 @@ Tactical, beautiful, and wholly unique, Homeworld 3 returns the award-winning fr
 > **Series:** Homeworld
 > **Protagonist:** Imogen S'Jet
 > **Sierra Lineage:** Franchise Acquisition
+> **Designer:** Rob Cunningham, Lance Mueller, Aaron Kambeitz, Rory McGuire
 
 ## Story Summary
 

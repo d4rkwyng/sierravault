@@ -33,6 +33,8 @@ What distinguished Police Quest from other Sierra adventures was its meticulous 
 > **Release Year:** 1987
 > **Series:** Police Quest
 > **Sierra Lineage:** Core Sierra
+> **Engine:** AGI
+> **Protagonist:** Sonny Bonds
 
 ## Story Summary
 

@@ -37,6 +37,8 @@ Adventures 2 expanded the course count and added new themed environments while m
 > **Release Year:** 2010
 > **Series:** 3D Ultra
 > **Sierra Lineage:** Core Sierra
+> **Engine:** Wanako Engine
+> **Protagonist:** Customizable Golfer
 
 ## Story Summary
 

@@ -35,6 +35,8 @@ Hoyle Card Games 2003 represented one of Sierra Entertainment's final entries in
 > **Series:** Hoyle
 > **ESRB Rating:** E for Everyone[^ref-8]
 > **Sierra Lineage:** Core Sierra
+> **Engine:** Proprietary (Windows)
+> **Protagonist:** N/A
 
 ## Game Content
 

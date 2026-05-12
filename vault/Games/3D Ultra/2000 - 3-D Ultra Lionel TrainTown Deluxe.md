@@ -37,6 +37,7 @@ The game won the Computer Family Entertainment Title of the Year award from the 
 > **Release Year:** 1999 (Original), 2000 (Deluxe)
 > **Series:** 3D Ultra
 > **Sierra Lineage:** Core Sierra
+> **Engine:** 3D Ultra Engine
 
 ## Story Summary
 

@@ -34,6 +34,8 @@ The game represents an early example of Coktel Vision's adventure game developme
 > **Release Year:** 1989
 > **Series:** Ween (prequel)
 > **Sierra Lineage:** Published Partner
+> **Engine:** C Code
+> **Protagonist:** Djel
 
 ## Story Summary
 

@@ -33,6 +33,8 @@ Set entirely at the luxurious La Costa Lotta health spa resort, the game follows
 > **Release Year:** 1993
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Core Sierra
+> **Engine:** SCI1.1
+> **Protagonist:** Larry Laffer
 
 ## Story Summary
 

@@ -34,6 +34,8 @@ Hoyle Card Games 2002 was published by [[Sierra On-Line]] and received an ESRB r
 > **Release Year:** 2002
 > **Series:** Hoyle Card Games
 > **Sierra Lineage:** Sierra Entertainment
+> **Engine:** Proprietary (Windows)
+> **Protagonist:** N/A
 
 ## Games Included
 

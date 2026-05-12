@@ -36,6 +36,8 @@ The game includes both traditional pool variants and unique "maximum" games that
 > **Release Year:** 2000
 > **Series:** 3D Ultra
 > **Sierra Lineage:** Core Sierra
+> **Engine:** 3D Ultra Engine
+> **Protagonist:** N/A
 
 ## Gameplay
 

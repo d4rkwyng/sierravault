@@ -36,6 +36,8 @@ Adventure Gamers praised the nostalgic design, with one reviewer noting "This fe
 > **Release Year:** 2015
 > **Series:** Order of the Thorne
 > **Sierra Lineage:** Spiritual Successor
+> **Engine:** Adventure Game Studio
+> **Protagonist:** Finn the Bard
 
 ## Story Summary
 

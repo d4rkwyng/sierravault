@@ -35,6 +35,8 @@ The game is essentially a combination of Jurassic Park, Indiana Jones, and pinba
 > **Release Year:** 1997
 > **Series:** 3-D Ultra Pinball
 > **Sierra Lineage:** Core Sierra
+> **Engine:** 3D Ultra Pinball physics-based game engine
+> **Protagonist:** N/A
 
 ## Story Summary
 

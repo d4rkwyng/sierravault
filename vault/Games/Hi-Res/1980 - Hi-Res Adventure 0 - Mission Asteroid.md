@@ -35,6 +35,8 @@ The Hi-Res Adventures series represented a significant evolution from pure text 
 > **Release Year:** 1980
 > **Series:** Hi-Res Adventure
 > **Sierra Lineage:** Core Sierra
+> **Engine:** Hi-Res Adventure
+> **Protagonist:** Astronaut (player-named)
 
 ## Story Summary
 

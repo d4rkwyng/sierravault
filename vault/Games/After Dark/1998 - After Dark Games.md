@@ -35,6 +35,7 @@ The game compilation emerged during Sierra's exploration of casual gaming market
 > **Series:** After Dark
 > **Protagonist:** N/A
 > **Sierra Lineage:** Sierra Label (Sierra Attractions)
+> **Designer:** Angelo Laudon, Jack Eastman, Patrick Beard
 
 ## Story Summary
 

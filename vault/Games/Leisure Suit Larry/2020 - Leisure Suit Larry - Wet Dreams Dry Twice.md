@@ -35,6 +35,8 @@ The game initially launched for PC on October 23, 2020, after being delayed from
 > **Release Year:** 2020
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Revival
+> **Engine:** Unity
+> **Protagonist:** Larry Laffer
 
 ## Story Summary
 

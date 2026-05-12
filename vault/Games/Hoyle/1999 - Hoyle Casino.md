@@ -35,6 +35,8 @@ The game was distributed as part of Sierra's expanding casual entertainment line
 > **Series:** Hoyle Casino
 > **ESRB Rating:** Everyone[^ref-2]
 > **Sierra Lineage:** Sierra Attractions
+> **Engine:** Proprietary (Windows)
+> **Protagonist:** N/A
 
 ## Story Summary
 

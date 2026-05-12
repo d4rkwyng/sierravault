@@ -35,6 +35,8 @@ As IGN noted in their contemporary review, this was "arcade style gaming at its 
 > **Release Year:** 1999
 > **Series:** 3-D Ultra
 > **Sierra Lineage:** Core Sierra
+> **Engine:** 3D Ultra Engine
+> **Protagonist:** N/A
 
 ## Story Summary
 

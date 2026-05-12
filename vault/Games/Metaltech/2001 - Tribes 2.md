@@ -34,6 +34,8 @@ Unlike anything before it, the multiplayer, 360 degree, team play-based game set
 > **Release Year:** 2001
 > **Series:** Starsiege
 > **Sierra Lineage:** Core Sierra
+> **Engine:** Torque Game Engine
+> **Protagonist:** Tribal Warrior (player-created)
 
 ## Story Summary
 

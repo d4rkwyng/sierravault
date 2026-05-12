@@ -34,6 +34,8 @@ The game received a mixed but generally positive reception, earning a Metacritic
 > **Release Year:** 2018
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Spiritual Successor
+> **Engine:** Unity
+> **Protagonist:** Larry Laffer
 
 ## Story Summary
 

@@ -33,6 +33,8 @@ What made The Incredible Machine truly remarkable was its deterministic physics 
 > **Release Year:** 1993
 > **Series:** The Incredible Machine
 > **Sierra Lineage:** Core Sierra
+> **Engine:** Custom 2D physics simulation engine
+> **Protagonist:** N/A
 
 ## Story Summary
 

@@ -35,6 +35,7 @@ Despite initial commercial struggles, with only 4,000 copies sold in its first m
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Core Sierra
 > **Engine:** AGI (Adventure Game Interpreter)[^ref-10]
+> **Protagonist:** Larry Laffer
 
 ## Story Summary
 

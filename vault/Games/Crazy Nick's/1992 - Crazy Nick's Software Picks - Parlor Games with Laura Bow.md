@@ -38,6 +38,7 @@ Contemporary and modern reception has been mixed, with critics noting that while
 > **Series:** Crazy Nick's Software Picks, Laura Bow
 > **Protagonist:** Laura Bow (opponent)
 > **Sierra Lineage:** Core Sierra
+> **Designer:** Bill Davis
 
 ## Story Summary
 

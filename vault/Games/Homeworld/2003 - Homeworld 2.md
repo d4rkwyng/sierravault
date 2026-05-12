@@ -38,6 +38,7 @@ Despite receiving critical acclaim for its lavish graphics and atmospheric prese
 > **Series:** Homeworld
 > **Protagonist:** Karan S'jet
 > **Sierra Lineage:** Sierra Published
+> **Designer:** Joshua Mosqueira, Andrew Chambers, Damon Gauthier, Erin Daly, Morgan Jaffit
 
 ## Story Summary
 

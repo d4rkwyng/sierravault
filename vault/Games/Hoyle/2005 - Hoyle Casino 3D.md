@@ -37,6 +37,7 @@ As a product of the Encore acquisition of the Hoyle brand, Hoyle Casino 3D repre
 > **Series:** Hoyle Casino
 > **Protagonist:** Player-created character
 > **Sierra Lineage:** Sierra Legacy (Encore continuation)
+> **Designer:** Unknown
 
 ## Story Summary
 

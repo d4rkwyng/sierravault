@@ -36,6 +36,8 @@ The reception has been consistently polarizing, ranging from French magazine Joy
 > **Release Year:** 1990
 > **Series:** Standalone
 > **Sierra Lineage:** Core Sierra
+> **Engine:** Gob
+> **Protagonist:** Male protagonist (unnamed)
 
 ## Story Summary
 

@@ -36,6 +36,7 @@ The game features hand-drawn 2D background artwork and hand-drawn cel animation,
 > **Release Year:** 2018 (Chapter 1)
 > **Protagonist:** Bolt Riley
 > **Sierra Lineage:** Alumni Project
+> **Series:** Bolt Riley
 
 ## Story Summary
 

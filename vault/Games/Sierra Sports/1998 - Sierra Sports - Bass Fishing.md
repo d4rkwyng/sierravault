@@ -34,6 +34,8 @@ The Trophy Bass series began with the original Trophy Bass, which was fully spon
 > **Release Year:** 1995-2000 (series span)
 > **Series:** Trophy Bass
 > **Sierra Lineage:** Core Sierra
+> **Engine:** 3DFX
+> **Protagonist:** Angler (player-named)
 
 ## Story Summary
 

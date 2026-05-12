@@ -35,6 +35,7 @@ The game was groundbreaking for its real-time progression system, where events o
 > **Series:** Laura Bow
 > **Sierra Lineage:** Core Sierra
 > **Engine:** SCI (Sierra Creative Interpreter)[^ref-8]
+> **Protagonist:** Laura Bow
 
 ## Story Summary
 

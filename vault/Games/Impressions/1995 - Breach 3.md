@@ -37,6 +37,7 @@ Perhaps most notably, Breach 3 was designed as part of Omnitrend's innovative "I
 > **Series:** Breach
 > **Protagonist:** Federated Worlds Special Forces Squad Leader
 > **Sierra Lineage:** Sierra Published
+> **Designer:** Thomas R. Carbone, Christopher Bamford, Scott Woodrick
 
 ## Story Summary
 

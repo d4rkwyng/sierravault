@@ -35,6 +35,8 @@ Despite its pedigree as part of a beloved series, Hoyle Casino 2004 received mix
 > **Release Year:** 2003
 > **Series:** Hoyle's Official Book of Games
 > **Sierra Lineage:** Core Sierra
+> **Engine:** Proprietary (Windows)
+> **Protagonist:** Player Avatar
 
 ## Gameplay
 

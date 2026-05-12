@@ -36,6 +36,7 @@ Blue Force reunited several former Sierra employees who had joined Tsunami Media
 > **Release Year:** 1993
 > **Protagonist:** Jake Ryan
 > **Sierra Lineage:** Spiritual Successor
+> **Series:** None
 
 ## Story Summary
 

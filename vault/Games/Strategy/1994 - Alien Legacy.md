@@ -40,6 +40,7 @@ Set in a future where humanity faces extinction following an alien attack, Alien
 > **Protagonist:** Captain of UNS Calypso
 > **Sierra Lineage:** Sierra Published
 > **ESRB Rating:** Kids to Adults[^ref-4]
+> **Designer:** Scot Amos, Michael E. Moore, Rich Waters
 
 ## Story Summary
 

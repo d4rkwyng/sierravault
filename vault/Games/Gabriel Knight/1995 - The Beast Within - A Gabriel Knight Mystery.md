@@ -35,6 +35,8 @@ The game was a direct sequel to Gabriel Knight: Sins of the Fathers, continuing 
 > **Release Year:** 1995[^ref-11]
 > **Series:** Gabriel Knight
 > **Sierra Lineage:** Core Sierra
+> **Engine:** SCI2.1
+> **Protagonist:** Gabriel Knight
 
 ## Story Summary
 

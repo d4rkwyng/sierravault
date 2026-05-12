@@ -38,6 +38,7 @@ As part of the broader Hoyle's Official Book of Games spin-off series, Hoyle Cas
 > **Series:** Hoyle Casino
 > **Protagonist:** Player-created character
 > **Sierra Lineage:** Core Sierra
+> **Designer:** Jason Willig, Ryan Spain, Jonathan Watts, Will Barker
 
 ## Story Summary
 

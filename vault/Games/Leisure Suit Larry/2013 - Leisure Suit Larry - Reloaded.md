@@ -33,6 +33,8 @@ The game follows the misadventures of Larry Laffer, a "40-year-old virgin in pur
 > **Release Year:** 2013
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Core Sierra
+> **Engine:** Unity
+> **Protagonist:** Larry Laffer
 
 ## Story Summary
 

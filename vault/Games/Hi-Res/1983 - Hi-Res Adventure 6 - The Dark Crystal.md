@@ -35,6 +35,8 @@ As the sixth and final entry in Sierra's Hi-Res Adventure series, The Dark Cryst
 > **Release Year:** 1982-1983
 > **Series:** Hi-Res Adventure #6
 > **Sierra Lineage:** Core Sierra
+> **Engine:** ADL
+> **Protagonist:** Jen
 
 ## Story Summary
 

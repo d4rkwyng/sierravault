@@ -37,6 +37,7 @@ Although the game applies properties of physics to problem solving, it is so del
 > **Series:** The Incredible Machine
 > **Protagonist:** None (player-controlled)
 > **Sierra Lineage:** Core Sierra
+> **Designer:** Brian Hahn, Neil Witkin, Jared W. Eden
 
 ## Story Summary
 

@@ -34,6 +34,7 @@ This adventure game alternates control between series protagonist Larry Laffer a
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Core Sierra
 > **Engine:** SCI1[^ref-12]
+> **Protagonist:** Larry Laffer / Passionate Patti
 
 ## Story Summary
 

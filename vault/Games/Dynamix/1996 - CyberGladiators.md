@@ -38,6 +38,7 @@ CyberGladiators represents an interesting evolutionary step in Sierra's catalog,
 > **Series:** K.A.A. series[^ref-7]
 > **Protagonist:** Player-selected fighter
 > **Sierra Lineage:** Core Sierra
+> **Designer:** Randy Thompson
 
 ## Story Summary
 

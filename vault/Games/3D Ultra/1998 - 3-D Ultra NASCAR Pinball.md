@@ -37,6 +37,7 @@ The title features four professional NASCAR drivers—Dale Earnhardt, Bill Ellio
 > **Release Year:** 1998
 > **Series:** 3-D Ultra Pinball (fourth entry)
 > **Sierra Lineage:** Sierra Affiliate (Dynamix)
+> **Protagonist:** N/A
 
 ## Story Summary
 
