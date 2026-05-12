@@ -37,8 +37,8 @@ NON_NARRATIVE_GENRES = {
     "sports simulation", "action", "arcade", "pinball", "golf",
     "fishing", "baseball", "football", "basketball", "soccer",
     "hockey", "tennis", "real-time strategy", "turn-based strategy",
-    "city builder", "god game", "management", "billiards", "chess",
-    "board game",
+    "city builder", "city-building", "god game", "management",
+    "billiards", "chess", "board game", "casino", "screensaver",
 }
 
 NON_NARRATIVE_FOLDERS = {
@@ -277,7 +277,9 @@ def score_page(filepath: Path, all_basenames: set) -> PageResult:
 
     # YAML
     for fname in REQUIRED_YAML_FIELDS:
-        chk("YAML", fm.get(fname) is not None, f"Missing YAML field: `{fname}`", 1.2)
+        # Accept explicit null as "acknowledged unknown" per STYLE_GUIDE.md
+        # The field must exist as a key, but null is a valid value.
+        chk("YAML", fname in fm, f"Missing YAML field: `{fname}`", 1.2)
     chk("YAML", len(yaml_wiki_links(fm_text)) == 0, "YAML contains wiki links — use plain text only", 3)
     sl = str(fm.get("sierra_lineage") or "")
     chk("YAML", sl in CANONICAL_LINEAGE, f"Non-canonical `sierra_lineage`: '{sl}'", 1.4, "warning")

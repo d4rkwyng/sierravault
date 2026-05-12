@@ -227,6 +227,24 @@ From a preservation standpoint, the title remains notable as one of five budget 
 [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
 
+## Downloads
+
+**Purchase / Digital Stores**
+- [GOG.com search](https://www.gog.com/en/games?query=Crazy+Nick%27s+Software+Picks+-+Leisure+Suit+Larry%27s+Casino)
+- [Steam search](https://store.steampowered.com/search/?term=Crazy+Nick%27s+Software+Picks+-+Leisure+Suit+Larry%27s+Casino)
+
+**Download / Preservation**
+- [MobyGames search](https://www.mobygames.com/search/?q=Crazy+Nick%27s+Software+Picks+-+Leisure+Suit+Larry%27s+Casino)
+- [Internet Archive search](https://archive.org/search?query=Crazy+Nick%27s+Software+Picks+-+Leisure+Suit+Larry%27s+Casino)
+- [MyAbandonware search](https://www.myabandonware.com/search/q/Crazy+Nick%27s+Software+Picks+-+Leisure+Suit+Larry%27s+Casino)
+
+## See Also
+
+- [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
+- [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
+- [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
+- [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
+
 ## References
 
 [^ref-1]: [MobyGames – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.mobygames.com/game/92556/crazy-nicks-software-picks-leisure-suit-larrys-casino/) – release date, developer, publisher, credits, gameplay description, ratings, collection appearances

@@ -299,6 +299,63 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 - [[2015 - Hoyle Official Card Games Collection]]
 - [[2016 - Hoyle Casino Games Collection]]
 
+## See Also
+
+- [[1989 - Hoyle Official Book of Games - Volume 1]]
+- [[1990 - Hoyle Official Book of Games - Volume 2]]
+- [[1991 - Hoyle Official Book of Games - Volume 3]]
+- [[1991 - Hoyle Official Book of Games - Volume 4]]
+- [[1992 - Hoyle Bridge]]
+- [[1993 - Hoyle Classic Card Games]]
+- [[1993 - Hoyle Official Book of Games - Volume 5]]
+- [[1996 - Hoyle Blackjack]]
+- [[1996 - Hoyle Bridge]]
+- [[1996 - Hoyle Casino]]
+- [[1996 - Hoyle Official Book of Games - Volume 5]]
+- [[1996 - Hoyle Solitaire]]
+- [[1997 - Hoyle Classic Board Games]]
+- [[1997 - Hoyle Classic Card Games]]
+- [[1997 - Hoyle Poker]]
+- [[1998 - Hoyle Battling Ships and War]]
+- [[1998 - Hoyle Classic Board Games]]
+- [[1999 - Hoyle Backgammon and Cribbage]]
+- [[1999 - Hoyle Casino]]
+- [[1999 - Hoyle Word Games]]
+- [[2000 - Hoyle Casino]]
+- [[2000 - Hoyle Crosswords]]
+- [[2000 - Hoyle Kids Games]]
+- [[2000 - Hoyle Slots and Video Poker]]
+- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
+- [[2001 - Hoyle Board Games]]
+- [[2001 - Hoyle Casino]]
+- [[2001 - Hoyle Kids Games]]
+- [[2001 - Hoyle Word Games]]
+- [[2002 - Hoyle Card Games]]
+- [[2002 - Hoyle Casino Empire]]
+- [[2002 - Hoyle Puzzle Games]]
+- [[2003 - Hoyle Card Games]]
+- [[2003 - Hoyle Casino]]
+- [[2003 - Hoyle Majestic Chess]]
+- [[2004 - Hoyle Casino]]
+- [[2004 - Hoyle Puzzle Games]]
+- [[2004 - Hoyle Table Games]]
+- [[2005 - Hoyle Board Games]]
+- [[2005 - Hoyle Card Games]]
+- [[2005 - Hoyle Casino 3D]]
+- [[2005 - Hoyle Poker Series]]
+- [[2005 - Hoyle Puzzle and Board Games]]
+- [[2005 - Hoyle Texas Hold Em]]
+- [[2006 - Hoyle Casino]]
+- [[2006 - Hoyle Miami Solitaire]]
+- [[2007 - Hoyle Card Games 2008]]
+- [[2007 - Hoyle Casino]]
+- [[2008 - Hoyle Casino]]
+- [[2008 - Hoyle Puzzle and Board Games]]
+- [[2011 - Hoyle Puzzle and Board Games]]
+- [[2011 - Hoyle Swashbucklin Slots]]
+- [[2015 - Hoyle Official Card Games Collection]]
+- [[2016 - Hoyle Casino Games Collection]]
+
 ## References
 
 [^ref-1]: [IGN – Hoyle Board Games 2003](https://www.ign.com/games/hoyle-board-games-2003) – release date, developer, publisher, game description
@@ -319,3 +376,6 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 [^ref-15]: [Internet Archive – Hoyle Board Games](https://archive.org/details/HOYLEBOARD) – Game preservation, archive documentation, playable version
 
 [^ref-16]: [NeverDieMedia – Hoyle Puzzle Games 2003](https://www.neverdiemedia.com/products/hoyle-puzzle-games-2003) – Related software, publication documentation, series information
+
+[^ref-17]: [IGDB search – Hoyle Board Games 2003](https://www.igdb.com/search?q=Hoyle+Board+Games+2003) — Game database cross-reference
+[^ref-18]: [PCGamingWiki search – Hoyle Board Games 2003](https://www.pcgamingwiki.com/w/index.php?search=Hoyle+Board+Games+2003) — Technical and compatibility documentation

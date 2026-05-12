@@ -149,3 +149,18 @@ Additional volumes were released, with archive.org documenting Volume 1 and Volu
 [^ref-16]: [MyAbandonware Search](https://www.myabandonware.com/search/q/Take+a+Break%21+Crosswords) – Windows 3.x platform confirmation
 [^ref-17]: [Consolidated Research Data](about:blank) – Dell Magazine licensing, N8 Productions co-development
 [^ref-18]: [Reddit r/abandonware](https://www.reddit.com/r/abandonware/comments/1ld4ifp/i_have_about_450_fullversion_shareware_games_from/) – preservation community context for early 2000s shareware games
+
+## Downloads
+
+**Purchase / Digital Stores**
+- [GOG.com search](https://www.gog.com/en/games?query=Take+a+Break%21+Crosswords)
+- [Steam search](https://store.steampowered.com/search/?term=Take+a+Break%21+Crosswords)
+
+**Download / Preservation**
+- [MobyGames search](https://www.mobygames.com/search/?q=Take+a+Break%21+Crosswords)
+- [Internet Archive search](https://archive.org/search?query=Take+a+Break%21+Crosswords)
+- [MyAbandonware search](https://www.myabandonware.com/search/q/Take+a+Break%21+Crosswords)
+
+## See Also
+
+- [[1993 - Take a Break! Pinball]]

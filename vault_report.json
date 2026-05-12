@@ -1,324 +1,12 @@
 {
   "summary": {
     "total_pages": 507,
-    "passing": 478,
-    "failing": 29,
-    "pass_rate_pct": 94.3,
-    "average_score": 96.7
+    "passing": 494,
+    "failing": 13,
+    "pass_rate_pct": 97.4,
+    "average_score": 97.0
   },
   "pages": [
-    {
-      "filename": "1992 - Johnny Castaway.md",
-      "series": "Dynamix",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 81.9,
-      "passes": false,
-      "status": "FAIL",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Story Summary",
-          "points_lost": 3
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Structure and Progression",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Puzzles and Mechanics",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 5
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "2 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "2000 - Hoyle Kids Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 82.5,
-      "passes": false,
-      "status": "FAIL",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2003 - Hoyle Board Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 82.5,
-      "passes": false,
-      "status": "FAIL",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2006 - Gin Rummy.md",
-      "series": "XBLA",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 82.8,
-      "passes": false,
-      "status": "FAIL",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `designer`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `protagonist`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 5
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "3 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "2008 - Lost Cities.md",
-      "series": "XBLA",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 82.8,
-      "passes": false,
-      "status": "FAIL",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `designer`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `protagonist`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 5
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "3 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "2000 - Cleopatra - Queen of the Nile.md",
-      "series": "Pharaoh",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 83.3,
-      "passes": false,
-      "status": "FAIL",
-      "ref_count": 26,
-      "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `title`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `release_year`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `developer`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `designer`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `publisher`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `genre`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `platforms`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `series`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `engine`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `protagonist`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `sierra_lineage`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `last_updated`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "warning",
-          "message": "Non-canonical `sierra_lineage`: ''",
-          "points_lost": 1.4
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
     {
       "filename": "2008 - Ace of Aces.md",
       "series": "Spiritual Successors",
@@ -358,219 +46,17 @@
       ]
     },
     {
-      "filename": "2004 - Hoyle Table Games.md",
-      "series": "Hoyle",
+      "filename": "2006 - Gin Rummy.md",
+      "series": "XBLA",
       "page_type": "standard",
       "is_flagship": false,
       "is_non_narrative": true,
       "threshold": 90,
-      "score": 85.4,
+      "score": 85.0,
       "passes": false,
       "status": "CLOSE",
       "ref_count": 15,
       "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Legacy section",
-          "points_lost": 3
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1981 - Gobbler.md",
-      "series": "Arcade",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 86.0,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1983 - Mine Shaft.md",
-      "series": "Arcade",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 86.0,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1992 - Take a Break! Crosswords.md",
-      "series": "Take a Break!",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 86.4,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Legacy section",
-          "points_lost": 3
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Missing ## References section",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2006 - Hoyle Miami Solitaire.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 86.4,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 18,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2023 - Pharaoh - A New Era.md",
-      "series": "Pharaoh",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 86.5,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 18,
-      "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `designer`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `protagonist`",
-          "points_lost": 1.2
-        },
         {
           "category": "Structure",
           "severity": "warning",
@@ -588,103 +74,27 @@
           "severity": "warning",
           "message": "Reception section has no numeric scores",
           "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1980 - Hi-Res Cribbage.md",
-      "series": "Hi-Res",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 87.0,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2004 - Hoyle Casino.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 87.4,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 18,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
         },
         {
           "category": "Series Continuity",
           "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
+          "message": "3 unresolved See Also link(s)",
+          "points_lost": 4
         }
       ]
     },
     {
-      "filename": "2007 - Carcassonne.md",
+      "filename": "2008 - Lost Cities.md",
       "series": "XBLA",
       "page_type": "standard",
       "is_flagship": false,
       "is_non_narrative": true,
       "threshold": 90,
-      "score": 87.5,
+      "score": 85.0,
       "passes": false,
       "status": "CLOSE",
       "ref_count": 15,
       "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `designer`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `protagonist`",
-          "points_lost": 1.2
-        },
         {
           "category": "Structure",
           "severity": "warning",
@@ -695,6 +105,12 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count below target of 20",
+          "points_lost": 5
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores",
           "points_lost": 5
         },
         {
@@ -706,39 +122,65 @@
       ]
     },
     {
-      "filename": "2006 - King's Quest III Remake (Infamous Adventures).md",
-      "series": "Fan Games",
-      "page_type": "fan",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 88.4,
+      "filename": "1992 - Johnny Castaway.md",
+      "series": "Dynamix",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 86.9,
       "passes": false,
-      "status": "FAIL",
+      "status": "CLOSE",
       "ref_count": 15,
       "issues": [
         {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Legacy section",
-          "points_lost": 3
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
         },
         {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores",
+          "points_lost": 5
         },
         {
           "category": "Series Continuity",
           "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
+          "message": "2 unresolved See Also link(s)",
+          "points_lost": 4
+        }
+      ]
+    },
+    {
+      "filename": "2023 - Pharaoh - A New Era.md",
+      "series": "Pharaoh",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 88.8,
+      "passes": false,
+      "status": "CLOSE",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
         },
         {
           "category": "References",
           "severity": "warning",
           "message": "Reference count below target of 20",
+          "points_lost": 5
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores",
           "points_lost": 5
         }
       ]
@@ -872,190 +314,6 @@
       ]
     },
     {
-      "filename": "1999 - NASCAR Craftsman Truck Series Racing.md",
-      "series": "NASCAR",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 88.8,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1998 - 3-D Ultra NASCAR Pinball.md",
-      "series": "3D Ultra",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 89.3,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2024 - Tribes 3 - Rivals.md",
-      "series": "Metaltech",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 89.5,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 19,
-      "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `protagonist`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1998 - Leisure Suit Larry's Casino.md",
-      "series": "Leisure Suit Larry",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 89.6,
-      "passes": false,
-      "status": "FAIL",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Story Summary",
-          "points_lost": 3
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Structure and Progression",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Puzzles and Mechanics",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1992 - Ready, Set, Read with Bananas & Jack.md",
-      "series": "Education",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 89.7,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Missing ## References section",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "1984 - Wizard of Id's WizMath.md",
       "series": "Education",
       "page_type": "standard",
@@ -1088,34 +346,34 @@
       ]
     },
     {
-      "filename": "2025 - SCP Sierra Conversion Project.md",
-      "series": "Fan Games",
-      "page_type": "fan",
+      "filename": "2007 - Carcassonne.md",
+      "series": "XBLA",
+      "page_type": "standard",
       "is_flagship": false,
-      "is_non_narrative": false,
+      "is_non_narrative": true,
       "threshold": 90,
-      "score": 90.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 21,
+      "score": 89.7,
+      "passes": false,
+      "status": "CLOSE",
+      "ref_count": 15,
       "issues": [
         {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `protagonist`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html', 'https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html']",
-          "points_lost": 5
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
         },
         {
           "category": "References",
           "severity": "warning",
-          "message": "Reception section has no numeric scores",
+          "message": "Reference count below target of 20",
           "points_lost": 5
+        },
+        {
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "3 unresolved See Also link(s)",
+          "points_lost": 4
         }
       ]
     },
@@ -1332,6 +590,32 @@
       ]
     },
     {
+      "filename": "1992 - Ready, Set, Read with Bananas & Jack.md",
+      "series": "Education",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 90.6,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "2008 - Hoyle Casino.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -1454,6 +738,64 @@
       ]
     },
     {
+      "filename": "2004 - Hoyle Table Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 90.6,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ## Legacy section",
+          "points_lost": 3
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "2024 - Tribes 3 - Rivals.md",
+      "series": "Metaltech",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 90.6,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "1994 - Playtoons 1 - Uncle Archibald.md",
       "series": "Playtoons",
       "page_type": "standard",
@@ -1475,6 +817,44 @@
           "category": "References",
           "severity": "error",
           "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/']",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1999 - NASCAR Craftsman Truck Series Racing.md",
+      "series": "NASCAR",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 90.6,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Origins or ### Production",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Designer:**`",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
           "points_lost": 5
         }
       ]
@@ -1512,77 +892,27 @@
       ]
     },
     {
-      "filename": "1993 - Spelling Jungle.md",
-      "series": "Discovery",
-      "page_type": "standard",
+      "filename": "2025 - SCP Sierra Conversion Project.md",
+      "series": "Fan Games",
+      "page_type": "fan",
       "is_flagship": false,
-      "is_non_narrative": true,
+      "is_non_narrative": false,
       "threshold": 90,
-      "score": 91.1,
+      "score": 91.4,
       "passes": true,
       "status": "PASS",
-      "ref_count": 31,
+      "ref_count": 21,
       "issues": [
         {
-          "category": "YAML",
+          "category": "References",
           "severity": "error",
-          "message": "Missing YAML field: `engine`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino.md",
-      "series": "Crazy Nick's",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 91.1,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 18,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
+          "message": "Duplicate reference URL(s): ['https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html', 'https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html']",
+          "points_lost": 5
         },
         {
           "category": "References",
           "severity": "warning",
-          "message": "Reference count below target of 20",
+          "message": "Reception section has no numeric scores",
           "points_lost": 5
         }
       ]
@@ -1694,6 +1024,76 @@
           "severity": "error",
           "message": "1 unresolved See Also link(s)",
           "points_lost": 4
+        }
+      ]
+    },
+    {
+      "filename": "1992 - Take a Break! Crosswords.md",
+      "series": "Take a Break!",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 91.6,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ## Legacy section",
+          "points_lost": 3
+        },
+        {
+          "category": "References",
+          "severity": "error",
+          "message": "Missing ## References section",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "2006 - Hoyle Miami Solitaire.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 91.6,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Designer:**`",
+          "points_lost": 1
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Protagonist:**`",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
         }
       ]
     },
@@ -1942,6 +1342,44 @@
       ]
     },
     {
+      "filename": "1993 - Spelling Jungle.md",
+      "series": "Discovery",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 92.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 31,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ## Downloads section",
+          "points_lost": 2
+        },
+        {
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "Missing ## See Also / Related Games section",
+          "points_lost": 3
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Engine:**`",
+          "points_lost": 1
+        }
+      ]
+    },
+    {
       "filename": "1989 - Hoyle Official Book of Games - Volume 1.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -2096,6 +1534,38 @@
       ]
     },
     {
+      "filename": "2004 - Hoyle Casino.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 92.5,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Designer:**`",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "1990 - Geisha.md",
       "series": "Coktel",
       "page_type": "standard",
@@ -2128,28 +1598,22 @@
       ]
     },
     {
-      "filename": "2000 - Field & Stream - Trophy Bass 4.md",
-      "series": "Trophy Bass",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 18,
+      "filename": "2006 - King's Quest III Remake (Infamous Adventures).md",
+      "series": "Fan Games",
+      "page_type": "fan",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 93.1,
+      "passes": false,
+      "status": "CLOSE",
+      "ref_count": 15,
       "issues": [
         {
-          "category": "YAML",
+          "category": "Structure",
           "severity": "error",
-          "message": "Missing YAML field: `engine`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
+          "message": "Missing ## Legacy section",
+          "points_lost": 3
         },
         {
           "category": "References",
@@ -2600,38 +2064,6 @@
       ]
     },
     {
-      "filename": "TBD - Order of the Thorne - Fortress of Fire.md",
-      "series": "Spiritual Successors",
-      "page_type": "tbd",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 94.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 18,
-      "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `release_year`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        }
-      ]
-    },
-    {
       "filename": "1983 - Oils Well.md",
       "series": "Oils Well",
       "page_type": "standard",
@@ -2722,6 +2154,32 @@
       ]
     },
     {
+      "filename": "1998 - 3-D Ultra NASCAR Pinball.md",
+      "series": "3D Ultra",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 94.4,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Designer:**`",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "1998 - Sierra Sports Skiing 1999 Edition.md",
       "series": "Sierra Sports",
       "page_type": "standard",
@@ -2737,6 +2195,32 @@
           "category": "References",
           "severity": "error",
           "message": "Missing ## References section",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "2000 - Field & Stream - Trophy Bass 4.md",
+      "series": "Trophy Bass",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 94.4,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Engine:**`",
           "points_lost": 1
         },
         {
@@ -2776,38 +2260,6 @@
           "severity": "warning",
           "message": "Missing ### Technical Achievements",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "CXL - SWAT - Urban Justice.md",
-      "series": "Cancelled",
-      "page_type": "cancelled",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 94.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `release_year`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Missing ## References section",
-          "points_lost": 1
         }
       ]
     },
@@ -2918,58 +2370,6 @@
           "severity": "error",
           "message": "Missing ## References section",
           "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "CXL - Space Quest VII - Return to Roman Numerals.md",
-      "series": "Cancelled",
-      "page_type": "cancelled",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 94.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 18,
-      "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `release_year`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "3 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "CXL - Middle-earth Online.md",
-      "series": "Cancelled",
-      "page_type": "cancelled",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 94.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `release_year`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
         }
       ]
     },
@@ -3210,6 +2610,26 @@
           "severity": "error",
           "message": "Missing ## See Also / Related Games section",
           "points_lost": 3
+        }
+      ]
+    },
+    {
+      "filename": "1998 - Leisure Suit Larry's Casino.md",
+      "series": "Leisure Suit Larry",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": true,
+      "threshold": 95,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
         }
       ]
     },
@@ -3494,6 +2914,26 @@
       ]
     },
     {
+      "filename": "1981 - Gobbler.md",
+      "series": "Arcade",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 16,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "1983 - Sammy Lightfoot.md",
       "series": "Arcade",
       "page_type": "standard",
@@ -3544,6 +2984,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1983 - Mine Shaft.md",
+      "series": "Arcade",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 16,
       "issues": [
         {
           "category": "References",
@@ -3874,34 +3334,28 @@
       ]
     },
     {
-      "filename": "TBD - King's Quest IV Remake (Infamous Adventures).md",
-      "series": "Fan Games",
+      "filename": "TBD - Order of the Thorne - Fortress of Fire.md",
+      "series": "Spiritual Successors",
       "page_type": "tbd",
-      "is_flagship": true,
+      "is_flagship": false,
       "is_non_narrative": false,
       "threshold": 90,
       "score": 95.3,
       "passes": true,
       "status": "PASS",
-      "ref_count": 15,
+      "ref_count": 18,
       "issues": [
         {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `release_year`",
-          "points_lost": 1.2
-        },
-        {
           "category": "Structure",
           "severity": "error",
-          "message": "Missing ### Structure and Progression",
+          "message": "Missing ## Downloads section",
           "points_lost": 2
         },
         {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "Missing ## See Also / Related Games section",
+          "points_lost": 3
         }
       ]
     },
@@ -4272,6 +3726,26 @@
       ]
     },
     {
+      "filename": "2000 - Hoyle Kids Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 16,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "2005 - Hoyle Puzzle and Board Games.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -4362,6 +3836,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "2003 - Hoyle Board Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 16,
       "issues": [
         {
           "category": "References",
@@ -4812,6 +4306,26 @@
       ]
     },
     {
+      "filename": "1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino.md",
+      "series": "Crazy Nick's",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": true,
+      "threshold": 95,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "1990 - Oils Well.md",
       "series": "Oils Well",
       "page_type": "standard",
@@ -4827,6 +4341,26 @@
           "category": "References",
           "severity": "error",
           "message": "Duplicate reference URL(s): ['https://archive.org/details/msdos_Oils_Well_1990', 'https://gamefaqs.gamespot.com/pc/605484-oils-well-1990/videos/1206971', 'https://en.wikipedia.org/wiki/Oil%27s_Well']",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1996 - Casino Deluxe 2.md",
+      "series": "Impressions",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 16,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
           "points_lost": 5
         }
       ]
@@ -4882,6 +4416,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1995 - Casino De Luxe.md",
+      "series": "Impressions",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
       "issues": [
         {
           "category": "References",
@@ -5022,6 +4576,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 19,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1980 - Hi-Res Cribbage.md",
+      "series": "Hi-Res",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 16,
       "issues": [
         {
           "category": "References",
@@ -5188,32 +4762,6 @@
           "severity": "error",
           "message": "Missing ## Downloads section",
           "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        }
-      ]
-    },
-    {
-      "filename": "CXL - Leisure Suit Larry 8.md",
-      "series": "Cancelled",
-      "page_type": "cancelled",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `release_year`",
-          "points_lost": 1.2
         },
         {
           "category": "Series Continuity",
@@ -5624,6 +5172,32 @@
       ]
     },
     {
+      "filename": "CXL - SWAT - Urban Justice.md",
+      "series": "Cancelled",
+      "page_type": "cancelled",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 95.7,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "Missing ## See Also / Related Games section",
+          "points_lost": 3
+        },
+        {
+          "category": "References",
+          "severity": "error",
+          "message": "Missing ## References section",
+          "points_lost": 1
+        }
+      ]
+    },
+    {
       "filename": "1982 - Ultima II - The Revenge of the Enchantress.md",
       "series": "Ultima",
       "page_type": "standard",
@@ -5724,26 +5298,6 @@
       ]
     },
     {
-      "filename": "1996 - Casino Deluxe 2.md",
-      "series": "Impressions",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 16,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "1995 - Breach 3.md",
       "series": "Impressions",
       "page_type": "standard",
@@ -5794,26 +5348,6 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 16,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1995 - Casino De Luxe.md",
-      "series": "Impressions",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 17,
       "issues": [
         {
           "category": "References",
@@ -5934,6 +5468,46 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 15,
+      "issues": [
+        {
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "1 unresolved See Also link(s)",
+          "points_lost": 4
+        }
+      ]
+    },
+    {
+      "filename": "CXL - Space Quest VII - Return to Roman Numerals.md",
+      "series": "Cancelled",
+      "page_type": "cancelled",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 95.9,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "3 unresolved See Also link(s)",
+          "points_lost": 4
+        }
+      ]
+    },
+    {
+      "filename": "CXL - Middle-earth Online.md",
+      "series": "Cancelled",
+      "page_type": "cancelled",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 95.9,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
       "issues": [
         {
           "category": "Series Continuity",
@@ -6466,6 +6040,32 @@
       ]
     },
     {
+      "filename": "TBD - King's Quest IV Remake (Infamous Adventures).md",
+      "series": "Fan Games",
+      "page_type": "tbd",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 96.4,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Structure and Progression",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1995 - Phantasmagoria.md",
       "series": "Phantasmagoria",
       "page_type": "standard",
@@ -6606,6 +6206,46 @@
       ]
     },
     {
+      "filename": "CXL - Leisure Suit Larry 8.md",
+      "series": "Cancelled",
+      "page_type": "cancelled",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 96.8,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "Missing ## See Also / Related Games section",
+          "points_lost": 3
+        }
+      ]
+    },
+    {
+      "filename": "2000 - Cleopatra - Queen of the Nile.md",
+      "series": "Pharaoh",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.1,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 26,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1994 - Bouncers.md",
       "series": "Dynamix",
       "page_type": "standard",
@@ -6642,32 +6282,6 @@
           "severity": "warning",
           "message": "Missing ### Technical Achievements",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1996 - Lighthouse - The Dark Being.md",
-      "series": "Standalone",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 98.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 26,
-      "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `protagonist`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
         }
       ]
     },
@@ -6912,46 +6526,6 @@
       ]
     },
     {
-      "filename": "CXL - Manhunter 3.md",
-      "series": "Cancelled",
-      "page_type": "cancelled",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 98.8,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `release_year`",
-          "points_lost": 1.2
-        }
-      ]
-    },
-    {
-      "filename": "TBD - Gabriel Knight 4 - Five Hearts.md",
-      "series": "Gabriel Knight",
-      "page_type": "tbd",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 98.9,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `release_year`",
-          "points_lost": 1.2
-        }
-      ]
-    },
-    {
       "filename": "CXL - Front Page Sports - Football Pro '99.md",
       "series": "Cancelled",
       "page_type": "cancelled",
@@ -7007,6 +6581,26 @@
           "category": "Game Info",
           "severity": "error",
           "message": "Missing `**Series:**`",
+          "points_lost": 1
+        }
+      ]
+    },
+    {
+      "filename": "1996 - Lighthouse - The Dark Being.md",
+      "series": "Standalone",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 99.1,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 26,
+      "issues": [
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Protagonist:**`",
           "points_lost": 1
         }
       ]
@@ -7283,7 +6877,7 @@
       "series": "Outpost",
       "page_type": "standard",
       "is_flagship": false,
-      "is_non_narrative": false,
+      "is_non_narrative": true,
       "threshold": 90,
       "score": 100.0,
       "passes": true,
@@ -7445,6 +7039,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 32,
+      "issues": []
+    },
+    {
+      "filename": "TBD - Gabriel Knight 4 - Five Hearts.md",
+      "series": "Gabriel Knight",
+      "page_type": "tbd",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 14,
       "issues": []
     },
     {
@@ -8592,6 +8199,19 @@
       "issues": []
     },
     {
+      "filename": "CXL - Manhunter 3.md",
+      "series": "Cancelled",
+      "page_type": "cancelled",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": []
+    },
+    {
       "filename": "2000 - Hoyle Solitaire and Mahjong Tiles.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -9324,7 +8944,7 @@
       "series": "Impressions",
       "page_type": "standard",
       "is_flagship": false,
-      "is_non_narrative": false,
+      "is_non_narrative": true,
       "threshold": 90,
       "score": 100.0,
       "passes": true,

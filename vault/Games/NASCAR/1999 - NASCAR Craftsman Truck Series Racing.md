@@ -179,6 +179,17 @@ The game has been preserved through abandonware archives and the Internet Archiv
 - Not currently available on GOG or Steam
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-craftsman-truck-series-racing)
 
+## Downloads
+
+**Purchase / Digital Stores**
+- [GOG.com search](https://www.gog.com/en/games?query=NASCAR+Craftsman+Truck+Series+Racing)
+- [Steam search](https://store.steampowered.com/search/?term=NASCAR+Craftsman+Truck+Series+Racing)
+
+**Download / Preservation**
+- [MobyGames search](https://www.mobygames.com/search/?q=NASCAR+Craftsman+Truck+Series+Racing)
+- [Internet Archive search](https://archive.org/search?query=NASCAR+Craftsman+Truck+Series+Racing)
+- [MyAbandonware search](https://www.myabandonware.com/search/q/NASCAR+Craftsman+Truck+Series+Racing)
+
 ## See Also
 
 - [[1994 - NASCAR Racing]]

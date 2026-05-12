@@ -164,6 +164,36 @@ The game was part of Sierra's broader 3-D Ultra Pinball franchise, though specif
 - [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
 - [[2010 - 3-D Ultra MiniGolf Adventures 2]]
 
+## Downloads
+
+**Purchase / Digital Stores**
+- [GOG.com search](https://www.gog.com/en/games?query=3-D+Ultra+NASCAR+Pinball)
+- [Steam search](https://store.steampowered.com/search/?term=3-D+Ultra+NASCAR+Pinball)
+
+**Download / Preservation**
+- [MobyGames search](https://www.mobygames.com/search/?q=3-D+Ultra+NASCAR+Pinball)
+- [Internet Archive search](https://archive.org/search?query=3-D+Ultra+NASCAR+Pinball)
+- [MyAbandonware search](https://www.myabandonware.com/search/q/3-D+Ultra+NASCAR+Pinball)
+
+## See Also
+
+- [[1995 - 3-D Ultra Pinball]]
+- [[1996 - 3-D Ultra Pinball - Creep Night]]
+- [[1997 - 3-D Ultra MiniGolf]]
+- [[1997 - 3-D Ultra Pinball - The Lost Continent]]
+- [[1998 - 3-D Ultra MiniGolf Deluxe]]
+- [[1999 - 3-D Ultra Cool Pool]]
+- [[1999 - 3-D Ultra Lionel TrainTown]]
+- [[1999 - 3-D Ultra Pinball - Power]]
+- [[1999 - 3-D Ultra Radio Control Racers]]
+- [[2000 - 3-D Ultra Lionel TrainTown Deluxe]]
+- [[2000 - 3-D Ultra Pinball - Thrill Ride]]
+- [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
+- [[2000 - Maximum Pool]]
+- [[2006 - 3D Ultra MiniGolf Adventures]]
+- [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
+- [[2010 - 3-D Ultra MiniGolf Adventures 2]]
+
 ## References
 
 [^ref-1]: [Never Die Media – 3D Ultra Pinball NASCAR](https://www.neverdiemedia.com/products/3d-ultra-pinball-nascar) – product description, developer information

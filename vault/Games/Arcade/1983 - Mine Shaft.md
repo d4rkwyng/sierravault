@@ -215,3 +215,6 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 
 
 [^ref-15]: [Nerdly Pleasures – Early PC Game Miscellaneous Notability](https://nerdlypleasures.blogspot.com/2016/04/early-pc-game-miscellaneous-notablility.html) – Early Sierra arcade games, historical analysis, platform documentation
+
+[^ref-16]: [IGDB search – Mine Shaft](https://www.igdb.com/search?q=Mine+Shaft) — Game database cross-reference
+[^ref-17]: [PCGamingWiki search – Mine Shaft](https://www.pcgamingwiki.com/w/index.php?search=Mine+Shaft) — Technical and compatibility documentation

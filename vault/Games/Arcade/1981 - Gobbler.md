@@ -228,4 +228,6 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 [^ref-13]: [Pac-Man Wiki – History of Pac-Man Clones](https://pacman.fandom.com/wiki/History_of_Pac-Man_clones_and_bootlegs/Original_games_featuring_Pac-Man) – clone history, Atari copyright litigation
 
 [^ref-14]: [FamousFix – Pac-Man Clones List](https://m.famousfix.com/list/pac-man-clones) – clone game documentation and classification
+[^ref-15]: [IGDB – Gobbler](https://www.igdb.com/games/gobbler) – Apple II 1981 release, Pac-Man clone classification, On-Line Systems publisher
+[^ref-16]: [Hardcore Gaming 101 — On-Line Systems early arcade titles](http://www.hardcoregaming101.net/on-line-systems-arcade-era/) – Sierra arcade-era retrospective covering Gobbler, Threshold, Sammy Lightfoot
 

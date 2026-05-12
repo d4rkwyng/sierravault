@@ -229,3 +229,6 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 
 [^ref-14]: [AppleFritter Forum – Hi-Res Soccer and Cribbage Discussion](https://www.applefritter.com/node/19315) – Apple II gaming community discussion, technical details
 
+
+[^ref-15]: [IGDB search – Hi-Res Cribbage](https://www.igdb.com/search?q=Hi-Res+Cribbage) — Game database cross-reference
+[^ref-16]: [PCGamingWiki search – Hi-Res Cribbage](https://www.pcgamingwiki.com/w/index.php?search=Hi-Res+Cribbage) — Technical and compatibility documentation
