@@ -9,46 +9,6 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 ---
 
-## 🔥 Q2 2026 (Apr–May)
-
-> [!tip] ScummVM 2026.2.0 "Railmonicon" — April 2026
-> **April 14, 2026** — Nancy Drew 8 & 9 added (The Haunted Carousel + Danger on Deception Island).
->
-> **March 28, 2026** — ScummVM 2026.2.0 "Railmonicon" released. PC Speaker emulation improvements, multiselect support in Launcher, Atari ST music for Elvira 1/2 and Ripley's Believe It or Not.
->
-> [ScummVM Releases](https://github.com/scummvm/scummvm/releases) · [GamingOnLinux Coverage](https://www.gamingonlinux.com/)
-
----
-
-## 📰 Q1 2026 (Mar)
-
-> [!warning] Leisure Suit Larry 1–7 Delisted from Steam
-> **March 23, 2026** — The first seven Leisure Suit Larry games are being **delisted from Steam**. Per VGC and PCGamesN coverage, the entire classic [[Leisure Suit Larry Series\|LSL]] catalog (LSL1 through LSL7: Love for Sail!) is being removed. Buy now via GOG (still available) if you don't already own them.
->
-> [VGC](https://www.videogameschronicle.com/news/the-first-seven-leisure-suit-larry-games-are-being-delisted-from-steam/) · [PCGamesN](https://www.pcgamesn.com/leisure-suit-larry/steam-delisted)
-
-> [!tip] AGD Interactive — KQ1 + KQ2 Remake Re-Releases
-> **March 22, 2026** — AGD Interactive announces re-releases of their interpretations of the classic [[1984 - King's Quest - Quest for the Crown\|King's Quest]] and [[1985 - King's Quest II - Romancing the Throne\|King's Quest II]] remakes. Updated for modern OS compatibility per AGDI Newsletter #7.
->
-> [AGDI Newsletter](https://agdinteractive.com/development/newsletter7.html)
-
-> [!example] Infamous Quests Update — Both Sequels in Progress
-> **March 23, 2026** — Infamous Quests Patreon update confirms parallel development of [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] AND [[TBD - Order of the Thorne - Fortress of Fire\|Order of the Thorne: Fortress of Fire]]. Roehm to Ruin moving toward voice recording final phase.
->
-> [Infamous Quests Patreon](https://www.patreon.com/InfamousQuests)
-
-> [!info] Legends of Adventure Documentary — 2026 Update
-> **March 22, 2026** — *Legends of Adventure: The Story of Sierra On-Line* Backerkit campaign posts a 2026 update. Marcus Mera (co-producer of [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D]]) joins as connecting fan/producer. Documentary covers Ken & Roberta Williams's career and the rise of Sierra On-Line.
->
-> [Backerkit Updates](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/updates)
-
-> [!success] SCP Space Quest IV OCS Enhanced — Mar 2026 Coverage
-> **March 19, 2026** — [[2025 - SCP Sierra Conversion Project\|Sierra Conversion Project]]'s Space Quest IV Amiga OCS Enhanced gets broader press coverage (Notebookcheck). DaRaSCo and the SCP group rebuilt the long-maligned 1991 Amiga port from the ground up, addressing washed-out palettes and choppy animations.
->
-> [Notebookcheck](https://www.notebookcheck.net/Space-Quest-IV-to-finally-get-the-Amiga-port-it-deserves-with-2025-OCS-Enhanced-remake.1193383.0.html) · [IndieRetroNews](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html)
-
----
-
 ## 🔥 Q1 2026 (Jan–Feb)
 
 > [!success] Gobliins 6: The Madmen of the Year 1000 — RELEASED!
