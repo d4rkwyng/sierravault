@@ -44,7 +44,7 @@ When updating citations, **never assume** a source contains specific facts. Alwa
 ### Known bot-blocking hosts (treat 403 as likely-live)
 
 These sites are confirmed to use Cloudflare/CloudFront bot detection:
-- adventuregamers.com
+- adventuregamers.com (but **content was wiped in 2025** — see below)
 - adventuregamehotspot.com
 - mobygames.com
 - ign.com (sometimes — depends on URL pattern)
@@ -53,6 +53,21 @@ These sites are confirmed to use Cloudflare/CloudFront bot detection:
 - Discord/Twitter (require auth, not relevant here)
 
 **Workaround for WebFetch / agent fetches:** if WebFetch returns 403 or non-content from any of the above hosts, treat it as inconclusive, not dead. Either rely on the Wayback Machine snapshot or flag the URL for human browser verification.
+
+### Adventure Gamers content wipe (2025)
+
+In late 2025, adventuregamers.com was sold and the new owners wiped all article/review content and forums, repurposing the domain as a gambling-affiliate site. This is documented in Kotaku coverage and confirmed by mixnmojo.com and the Adventure Game Hotspot community.
+
+Implications for citations:
+- Any vault citation pointing to `adventuregamers.com/articles/view/<id>` or `/games/view/<id>` or `/forums/viewthread/<id>` is now 404 on the live site
+- Wayback Machine has NO archived versions of most Adventure Gamers content (the site historically had robots.txt blocking archive.org, plus the new owner's wipe removed any pages that escaped that block)
+- **Adventure Game Hotspot** (adventuregamehotspot.com) is the successor site, founded 2022 by former AG staff. They have been in talks to host an archived version of AG content but as of 2026-05-13 the preservation effort is not complete
+- For post-2022 articles, search AG Hotspot for equivalent coverage of the same game/topic
+- For pre-2022 articles, citations are effectively unrecoverable. Either:
+  (a) replace with a cross-site equivalent review (GameSpot, Polygon, PC Gamer, Computer Gaming World scan), or
+  (b) remove the citation if not load-bearing for a specific factual claim
+
+Worklist rows tagged `ag-content-wiped-2025-no-archive` indicate this category. There were 26 such URLs in the 2026-05-13 audit.
 
 ### Headless-Chrome verification (the most authoritative check)
 
