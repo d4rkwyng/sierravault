@@ -209,6 +209,35 @@ The game's legacy lies primarily in its engine, which Impressions refined for la
 - [[1996 - Casino Deluxe 2]]
 - [[2002 - Emperor - Rise of the Middle Kingdom]]
 
+## Downloads
+
+**Purchase / Digital Stores**
+- [GOG.com search](https://www.gog.com/en/games?query=Air+Force+Commander)
+- [Steam search](https://store.steampowered.com/search/?term=Air+Force+Commander)
+
+**Download / Preservation**
+- [MobyGames search](https://www.mobygames.com/search/?q=Air+Force+Commander)
+- [Internet Archive search](https://archive.org/search?query=Air+Force+Commander)
+
+## See Also
+
+- [[1991 - Cohort Fighting for Rome]]
+- [[1991 - Fort Apache]]
+- [[1991 - Merchant Colony]]
+- [[1992 - Air Bucks]]
+- [[1992 - Conquest of Japan]]
+- [[1992 - Discovery - In the Steps of Columbus]]
+- [[1993 - Cohort II - Fighting for Rome]]
+- [[1993 - WW2 Air Force Commander]]
+- [[1994 - Detroit]]
+- [[1994 - Front Lines]]
+- [[1995 - Breach 3]]
+- [[1995 - Casino De Luxe]]
+- [[1995 - Conqueror - A.D. 1086]]
+- [[1995 - Powerhouse]]
+- [[1996 - Casino Deluxe 2]]
+- [[2002 - Emperor - Rise of the Middle Kingdom]]
+
 ## References
 
 [^ref-1]: [MobyGames – Air Force Commander](https://www.mobygames.com/game/1988/air-force-commander/) – credits, ratings, technical specs, manual information, scenario details

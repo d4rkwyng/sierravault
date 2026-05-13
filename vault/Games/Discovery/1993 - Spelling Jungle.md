@@ -178,6 +178,22 @@ The game's lasting appeal among those who played it as children suggests it succ
 
 The game also stands as a testament to the challenges of software preservation, with modern players struggling to run the title on contemporary systems despite its nostalgic appeal. The multiple name changes and releases make tracking the game's history particularly complex for preservationists and historians.[^ref-32][[1994 - Spelling Blizzard]]
 
+## Downloads
+
+**Purchase / Digital Stores**
+- [GOG.com search](https://www.gog.com/en/games?query=Spelling+Jungle)
+- [Steam search](https://store.steampowered.com/search/?term=Spelling+Jungle)
+
+**Download / Preservation**
+- [MobyGames search](https://www.mobygames.com/search/?q=Spelling+Jungle)
+- [Internet Archive search](https://archive.org/search?query=Spelling+Jungle)
+
+## See Also
+
+- [[1993 - Ready Set Read with Bananas Jack]]
+- [[1993 - Turbo Learning - Mega Math]]
+- [[1994 - Spelling Blizzard]]
+
 ## References
 
 [^ref-1]: [MobyGames – Spelling Jungle](https://www.mobygames.com/game/662/spelling-jungle/) – developer, publisher, designer, composer, platforms, technical specs, ratings

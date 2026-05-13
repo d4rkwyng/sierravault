@@ -184,6 +184,30 @@ Tribes: Aerial Assault occupies a unique position in gaming history as a [[1994 
 
 - **Next:** Tribes: Vengeance (2004)
 
+## Downloads
+
+**Purchase / Digital Stores**
+- [GOG.com search](https://www.gog.com/en/games?query=Tribes+-+Aerial+Assault)
+- [Steam search](https://store.steampowered.com/search/?term=Tribes+-+Aerial+Assault)
+
+**Download / Preservation**
+- [MobyGames search](https://www.mobygames.com/search/?q=Tribes+-+Aerial+Assault)
+- [Internet Archive search](https://archive.org/search?query=Tribes+-+Aerial+Assault)
+
+## See Also
+
+- [[1994 - Metaltech - Battledrome]]
+- [[1994 - Metaltech - Earthsiege Speech Pack]]
+- [[1994 - Metaltech - Earthsiege]]
+- [[1995 - Metaltech - Earthsiege Expansion Pack]]
+- [[1996 - Earthsiege 2]]
+- [[1996 - MissionForce - Cyberstorm]]
+- [[1998 - Cyberstorm 2 - Corporate Wars]]
+- [[1998 - Starsiege - Tribes]]
+- [[1999 - Starsiege]]
+- [[2001 - Tribes 2]]
+- [[2024 - Tribes 3 - Rivals]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Tribes: Aerial Assault](https://en.wikipedia.org/wiki/Tribes:_Aerial_Assault) – release dates, developer, publisher, review scores, technical achievements, development history, freeware status

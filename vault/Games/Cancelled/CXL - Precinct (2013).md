@@ -188,3 +188,25 @@ The project never reached a state where technical issues in gameplay could be do
 [^ref-14]: [The Digital Antiquarian – Adventure Gaming](https://www.filfre.net/hall-of-fame/) – Historical coverage of adventure gaming industry trends and Sierra's role
 
 [^ref-15]: [Jim Walls Biography](https://en.wikipedia.org/wiki/Jim_Walls) – Creator background, law enforcement experience, game design philosophy
+
+## Downloads
+
+**Purchase / Digital Stores**
+- [GOG.com search](https://www.gog.com/en/games?query=Precinct+%282013%29)
+- [Steam search](https://store.steampowered.com/search/?term=Precinct+%282013%29)
+
+**Download / Preservation**
+- [MobyGames search](https://www.mobygames.com/search/?q=Precinct+%282013%29)
+- [Internet Archive search](https://archive.org/search?query=Precinct+%282013%29)
+
+## See Also
+
+- [[CXL - Babylon 5 - Into the Fire]]
+- [[CXL - Front Page Sports - Football Pro '99]]
+- [[CXL - King's Quest IX]]
+- [[CXL - Leisure Suit Larry 8]]
+- [[CXL - Manhunter 3]]
+- [[CXL - Middle-earth Online]]
+- [[CXL - Red Baron (2013 Remake)]]
+- [[CXL - SWAT - Urban Justice]]
+- [[CXL - Space Quest VII - Return to Roman Numerals]]

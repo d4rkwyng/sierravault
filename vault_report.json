@@ -78,44 +78,6 @@
       ]
     },
     {
-      "filename": "1993 - Spelling Jungle.md",
-      "series": "Discovery",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 92.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 31,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
       "filename": "1992 - Johnny Castaway.md",
       "series": "Dynamix",
       "page_type": "standard",
@@ -144,38 +106,6 @@
           "severity": "error",
           "message": "2 unresolved See Also link(s)",
           "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "CXL - Precinct (2013).md",
-      "series": "Cancelled",
-      "page_type": "cancelled",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 93.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Legacy section",
-          "points_lost": 3
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Missing ## References section",
-          "points_lost": 1
         }
       ]
     },
@@ -240,70 +170,6 @@
           "severity": "error",
           "message": "2 unresolved See Also link(s)",
           "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "2002 - Tribes - Aerial Assault.md",
-      "series": "Metaltech",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1992 - Air Force Commander.md",
-      "series": "Impressions",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
         }
       ]
     },
@@ -1684,6 +1550,26 @@
       ]
     },
     {
+      "filename": "2000 - Homeworld - Cataclysm.md",
+      "series": "Homeworld",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.6,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 52,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "error",
+          "message": "Duplicate reference URL(s): ['https://kotaku.com/how-we-overhauled-the-homeworld-soundtrack-for-a-new-au-1692665327']",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "1999 - Hoyle Casino.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -1974,6 +1860,32 @@
           "severity": "error",
           "message": "3 unresolved See Also link(s)",
           "points_lost": 4
+        }
+      ]
+    },
+    {
+      "filename": "CXL - Precinct (2013).md",
+      "series": "Cancelled",
+      "page_type": "cancelled",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 96.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ## Legacy section",
+          "points_lost": 3
+        },
+        {
+          "category": "References",
+          "severity": "error",
+          "message": "Missing ## References section",
+          "points_lost": 1
         }
       ]
     },
@@ -3312,6 +3224,32 @@
           "severity": "warning",
           "message": "Reference count below target of 20",
           "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1993 - Spelling Jungle.md",
+      "series": "Discovery",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 97.4,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 31,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Engine:**`",
+          "points_lost": 1
         }
       ]
     },
@@ -4980,6 +4918,26 @@
       ]
     },
     {
+      "filename": "2002 - Tribes - Aerial Assault.md",
+      "series": "Metaltech",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1993 - Stellar-Fire.md",
       "series": "Stellar 7",
       "page_type": "standard",
@@ -5310,6 +5268,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 16,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1992 - Air Force Commander.md",
+      "series": "Impressions",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
       "issues": [
         {
           "category": "References",
@@ -7290,19 +7268,6 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 56,
-      "issues": []
-    },
-    {
-      "filename": "2000 - Homeworld - Cataclysm.md",
-      "series": "Homeworld",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 100.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 52,
       "issues": []
     },
     {
