@@ -4,175 +4,9 @@
     "passing": 507,
     "failing": 0,
     "pass_rate_pct": 100.0,
-    "average_score": 98.4
+    "average_score": 98.7
   },
   "pages": [
-    {
-      "filename": "2008 - Ace of Aces.md",
-      "series": "Spiritual Successors",
-      "page_type": "spiritual",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 91.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "2 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "CXL - King's Quest IX.md",
-      "series": "Cancelled",
-      "page_type": "cancelled",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 92.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 19,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "2 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1992 - Johnny Castaway.md",
-      "series": "Dynamix",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "2 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1990 - Geisha.md",
-      "series": "Coktel",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 93.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 25,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "2018 - Bolt Riley - A Reggae Adventure.md",
-      "series": "Spiritual Successors",
-      "page_type": "spiritual",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 93.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "2 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
     {
       "filename": "1982 - Pest Patrol.md",
       "series": "Arcade",
@@ -718,6 +552,38 @@
       ]
     },
     {
+      "filename": "2008 - Ace of Aces.md",
+      "series": "Spiritual Successors",
+      "page_type": "spiritual",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 94.7,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Origins or ### Production",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1996 - Front Page Sports - Trophy Bass 2.md",
       "series": "Trophy Bass",
       "page_type": "standard",
@@ -1072,32 +938,6 @@
           "severity": "warning",
           "message": "Reception section has no numeric scores",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2006 - SWAT Force.md",
-      "series": "SWAT",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
         }
       ]
     },
@@ -1695,7 +1535,7 @@
       "score": 95.7,
       "passes": true,
       "status": "PASS",
-      "ref_count": 18,
+      "ref_count": 19,
       "issues": [
         {
           "category": "Structure",
@@ -1753,6 +1593,26 @@
           "category": "References",
           "severity": "error",
           "message": "Duplicate reference URL(s): ['https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/']",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "TBD - Gabriel Knight 4 - Five Hearts.md",
+      "series": "Gabriel Knight",
+      "page_type": "tbd",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 95.9,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 16,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "error",
+          "message": "Duplicate reference URL(s): ['https://adventuregamehotspot.com/announcement/3108/jane-jensen-releases-gabriel-knight-short-story-five-hearts']",
           "points_lost": 5
         }
       ]
@@ -1824,27 +1684,7 @@
       ]
     },
     {
-      "filename": "CXL - Red Baron (2013 Remake).md",
-      "series": "Cancelled",
-      "page_type": "cancelled",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "CXL - Space Quest VII - Return to Roman Numerals.md",
+      "filename": "CXL - King's Quest IX.md",
       "series": "Cancelled",
       "page_type": "cancelled",
       "is_flagship": true,
@@ -1853,13 +1693,19 @@
       "score": 96.3,
       "passes": true,
       "status": "PASS",
-      "ref_count": 18,
+      "ref_count": 19,
       "issues": [
         {
-          "category": "Series Continuity",
+          "category": "Structure",
           "severity": "error",
-          "message": "3 unresolved See Also link(s)",
-          "points_lost": 4
+          "message": "Missing ### Origins or ### Production",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
         }
       ]
     },
@@ -1890,22 +1736,28 @@
       ]
     },
     {
-      "filename": "CXL - Middle-earth Online.md",
-      "series": "Cancelled",
-      "page_type": "cancelled",
+      "filename": "1992 - Johnny Castaway.md",
+      "series": "Dynamix",
+      "page_type": "standard",
       "is_flagship": false,
-      "is_non_narrative": false,
+      "is_non_narrative": true,
       "threshold": 90,
-      "score": 96.3,
+      "score": 96.5,
       "passes": true,
       "status": "PASS",
-      "ref_count": 17,
+      "ref_count": 15,
       "issues": [
         {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores",
+          "points_lost": 2
         }
       ]
     },
@@ -2358,46 +2210,6 @@
       ]
     },
     {
-      "filename": "1993 - EcoQuest - Lost Secret of the Rainforest.md",
-      "series": "EcoQuest",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 28,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "3 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1991 - EcoQuest - The Search for Cetus.md",
-      "series": "EcoQuest",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 26,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "3 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
       "filename": "1997 - Eat My Dust.md",
       "series": "Sierra Attractions",
       "page_type": "standard",
@@ -2446,186 +2258,6 @@
           "severity": "warning",
           "message": "Missing ### Technical Achievements",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2001 - The Incredible Machine - Even More Contraptions.md",
-      "series": "Incredible Machine",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 36,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1994 - The Incredible Toon Machine.md",
-      "series": "Incredible Machine",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 33,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons.md",
-      "series": "Incredible Machine",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1992 - The Incredible Machine.md",
-      "series": "Incredible Machine",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1995 - The Incredible Machine 3.0.md",
-      "series": "Incredible Machine",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "2011 - The Incredible Machine (2011).md",
-      "series": "Incredible Machine",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 45,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1993 - The Even More Incredible Machine.md",
-      "series": "Incredible Machine",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1993 - Sid & Al's Incredible Toons.md",
-      "series": "Incredible Machine",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 27,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "2000 - Return of The Incredible Machine - Contraptions.md",
-      "series": "Incredible Machine",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 24,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
         }
       ]
     },
@@ -2760,126 +2392,6 @@
       ]
     },
     {
-      "filename": "2007 - SWAT - Target Liberty.md",
-      "series": "SWAT",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 32,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "2006 - SWAT 4 - The Stetchkov Syndicate.md",
-      "series": "SWAT",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 38,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1995 - Police Quest - SWAT.md",
-      "series": "SWAT",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 36,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1998 - Police Quest - SWAT 2.md",
-      "series": "SWAT",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 28,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1999 - SWAT 3 - Close Quarters Battle.md",
-      "series": "SWAT",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 39,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "2003 - SWAT - Global Strike Team.md",
-      "series": "SWAT",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 38,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
       "filename": "1991 - Fort Apache.md",
       "series": "Impressions",
       "page_type": "standard",
@@ -2932,8 +2444,8 @@
       ]
     },
     {
-      "filename": "1995 - Phantasmagoria.md",
-      "series": "Phantasmagoria",
+      "filename": "1990 - Geisha.md",
+      "series": "Coktel",
       "page_type": "standard",
       "is_flagship": false,
       "is_non_narrative": false,
@@ -2941,13 +2453,19 @@
       "score": 96.7,
       "passes": true,
       "status": "PASS",
-      "ref_count": 29,
+      "ref_count": 25,
       "issues": [
         {
-          "category": "Series Continuity",
+          "category": "Structure",
           "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
+          "message": "Missing ### Origins or ### Production",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
         }
       ]
     },
@@ -3004,6 +2522,32 @@
       ]
     },
     {
+      "filename": "2018 - Bolt Riley - A Reggae Adventure.md",
+      "series": "Spiritual Successors",
+      "page_type": "spiritual",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 96.7,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Origins or ### Production",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "2001 - Deathmatch Classic.md",
       "series": "Valve",
       "page_type": "standard",
@@ -3026,106 +2570,6 @@
           "severity": "warning",
           "message": "Reference count below target of 20",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1992 - Quest for Glory I - So You Want to Be a Hero VGA.md",
-      "series": "Quest for Glory",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 96.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 45,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1991 - Conquests of the Longbow - The Legend of Robin Hood.md",
-      "series": "Conquests",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 96.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 27,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "5 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1990 - Conquests of Camelot - The Search for the Grail.md",
-      "series": "Conquests",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 96.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 30,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "5 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1989 - The Colonel's Bequest.md",
-      "series": "Laura Bow",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 96.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 58,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "4 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1992 - The Dagger of Amon Ra.md",
-      "series": "Laura Bow",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 96.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 33,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "5 unresolved See Also link(s)",
-          "points_lost": 4
         }
       ]
     },
@@ -5138,6 +4582,26 @@
       ]
     },
     {
+      "filename": "2006 - SWAT Force.md",
+      "series": "SWAT",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1996 - Casino Deluxe 2.md",
       "series": "Impressions",
       "page_type": "standard",
@@ -6660,19 +6124,6 @@
       "issues": []
     },
     {
-      "filename": "TBD - Gabriel Knight 4 - Five Hearts.md",
-      "series": "Gabriel Knight",
-      "page_type": "tbd",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 100.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 14,
-      "issues": []
-    },
-    {
       "filename": "1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned.md",
       "series": "Gabriel Knight",
       "page_type": "standard",
@@ -6682,7 +6133,7 @@
       "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 46,
+      "ref_count": 48,
       "issues": []
     },
     {
@@ -7211,6 +6662,19 @@
       "page_type": "standard",
       "is_flagship": false,
       "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 29,
+      "issues": []
+    },
+    {
+      "filename": "1995 - Phantasmagoria.md",
+      "series": "Phantasmagoria",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
       "threshold": 90,
       "score": 100.0,
       "passes": true,
@@ -7804,6 +7268,19 @@
       "issues": []
     },
     {
+      "filename": "1992 - Quest for Glory I - So You Want to Be a Hero VGA.md",
+      "series": "Quest for Glory",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 45,
+      "issues": []
+    },
+    {
       "filename": "1995 - Trophy Bass.md",
       "series": "Trophy Bass",
       "page_type": "standard",
@@ -7869,6 +7346,19 @@
       "issues": []
     },
     {
+      "filename": "CXL - Red Baron (2013 Remake).md",
+      "series": "Cancelled",
+      "page_type": "cancelled",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": []
+    },
+    {
       "filename": "CXL - Babylon 5 - Into the Fire.md",
       "series": "Cancelled",
       "page_type": "cancelled",
@@ -7882,6 +7372,19 @@
       "issues": []
     },
     {
+      "filename": "CXL - Space Quest VII - Return to Roman Numerals.md",
+      "series": "Cancelled",
+      "page_type": "cancelled",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": []
+    },
+    {
       "filename": "CXL - Manhunter 3.md",
       "series": "Cancelled",
       "page_type": "cancelled",
@@ -7892,6 +7395,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 15,
+      "issues": []
+    },
+    {
+      "filename": "CXL - Middle-earth Online.md",
+      "series": "Cancelled",
+      "page_type": "cancelled",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
       "issues": []
     },
     {
@@ -7999,6 +7515,32 @@
       "issues": []
     },
     {
+      "filename": "1991 - Conquests of the Longbow - The Legend of Robin Hood.md",
+      "series": "Conquests",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 27,
+      "issues": []
+    },
+    {
+      "filename": "1990 - Conquests of Camelot - The Search for the Grail.md",
+      "series": "Conquests",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 30,
+      "issues": []
+    },
+    {
       "filename": "1991 - Castle of Dr. Brain.md",
       "series": "Dr. Brain",
       "page_type": "standard",
@@ -8074,6 +7616,32 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 38,
+      "issues": []
+    },
+    {
+      "filename": "1993 - EcoQuest - Lost Secret of the Rainforest.md",
+      "series": "EcoQuest",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 28,
+      "issues": []
+    },
+    {
+      "filename": "1991 - EcoQuest - The Search for Cetus.md",
+      "series": "EcoQuest",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 26,
       "issues": []
     },
     {
@@ -8155,6 +7723,32 @@
       "issues": []
     },
     {
+      "filename": "1989 - The Colonel's Bequest.md",
+      "series": "Laura Bow",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 58,
+      "issues": []
+    },
+    {
+      "filename": "1992 - The Dagger of Amon Ra.md",
+      "series": "Laura Bow",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 33,
+      "issues": []
+    },
+    {
       "filename": "1994 - The Incredible Machine 2.md",
       "series": "Incredible Machine",
       "page_type": "standard",
@@ -8165,6 +7759,123 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 43,
+      "issues": []
+    },
+    {
+      "filename": "2001 - The Incredible Machine - Even More Contraptions.md",
+      "series": "Incredible Machine",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 36,
+      "issues": []
+    },
+    {
+      "filename": "1994 - The Incredible Toon Machine.md",
+      "series": "Incredible Machine",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 33,
+      "issues": []
+    },
+    {
+      "filename": "1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons.md",
+      "series": "Incredible Machine",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "1992 - The Incredible Machine.md",
+      "series": "Incredible Machine",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "1995 - The Incredible Machine 3.0.md",
+      "series": "Incredible Machine",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "2011 - The Incredible Machine (2011).md",
+      "series": "Incredible Machine",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 45,
+      "issues": []
+    },
+    {
+      "filename": "1993 - The Even More Incredible Machine.md",
+      "series": "Incredible Machine",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "1993 - Sid & Al's Incredible Toons.md",
+      "series": "Incredible Machine",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 27,
+      "issues": []
+    },
+    {
+      "filename": "2000 - Return of The Incredible Machine - Contraptions.md",
+      "series": "Incredible Machine",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 24,
       "issues": []
     },
     {
@@ -8662,6 +8373,19 @@
       "issues": []
     },
     {
+      "filename": "2007 - SWAT - Target Liberty.md",
+      "series": "SWAT",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 32,
+      "issues": []
+    },
+    {
       "filename": "2005 - SWAT 4.md",
       "series": "SWAT",
       "page_type": "standard",
@@ -8672,6 +8396,71 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 43,
+      "issues": []
+    },
+    {
+      "filename": "2006 - SWAT 4 - The Stetchkov Syndicate.md",
+      "series": "SWAT",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 38,
+      "issues": []
+    },
+    {
+      "filename": "1995 - Police Quest - SWAT.md",
+      "series": "SWAT",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 36,
+      "issues": []
+    },
+    {
+      "filename": "1998 - Police Quest - SWAT 2.md",
+      "series": "SWAT",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 28,
+      "issues": []
+    },
+    {
+      "filename": "1999 - SWAT 3 - Close Quarters Battle.md",
+      "series": "SWAT",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 39,
+      "issues": []
+    },
+    {
+      "filename": "2003 - SWAT - Global Strike Team.md",
+      "series": "SWAT",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 38,
       "issues": []
     },
     {

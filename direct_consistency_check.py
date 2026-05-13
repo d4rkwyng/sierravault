@@ -562,7 +562,10 @@ if not vault.exists():
     sys.exit(1)
 
 all_md = list(vault.rglob("*.md"))
-all_basenames = {f.name for f in all_md}
+# Build basenames from the FULL vault, not just Games/, so wiki links to
+# Designers/, Publishers/, Series/, Technology/, Reference/ etc. resolve.
+# (all_md stays narrow because we only score game pages here.)
+all_basenames = {f.name for f in (REPO_ROOT / "vault").rglob("*.md")}
 
 print("\n" + "="*72)
 print(f"SCANNING {len(all_md)} MARKDOWN FILES")
