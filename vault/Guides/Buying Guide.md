@@ -1,11 +1,11 @@
 ---
 title: "Where to Buy & Play"
 type: guide
-last_updated: "2026-02-04"
+last_updated: "2026-05-13"
 ---
 # Where to Buy & Play Sierra Classics
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 Legal ways to acquire Sierra games, from digital storefronts to physical collecting. Availability shifts over time; use this as a starting point. For compatibility help, see the [[Compatibility Guide]].
 
@@ -50,7 +50,7 @@ Activision's Sierra catalog mirrors most GOG offerings, with one key advantage: 
 - May require community patches for full functionality
 - Check Steam community guides for fixes (widescreen patches, bug fixes)
 
-**Modern titles on Steam:** SpaceVenture, Colossal Cave 3D Adventure, Hero-U, Gray Matter, Cognition, Leisure Suit Larry: Wet Dreams series, and other alumni projects.
+**Modern titles on Steam:** SpaceVenture, Colossal Cave 3D Adventure, Hero-U, Gray Matter, Cognition, Leisure Suit Larry: Wet Dreams series, Mage's Initiation, Summer Daze, Pharaoh: A New Era (2023 licensed remake by Triskell Interactive/Dotemu), Gobliiins 4/5/6 (Pierre Gilhodes continuations), and other alumni projects.
 
 ### Xbox Game Pass (Retro Classics)
 
@@ -109,10 +109,10 @@ Active marketplace for Sierra big box games. Sought-after items include:
 Wait for seasonal sales—GOG frequently bundles Sierra collections at 50–75% off. The entire catalog often goes on sale during Summer and Winter events.
 
 ### Humble Bundle
-The last Sierra-specific bundle was **Humble Sierra the 3rd** in June 2020 (Gabriel Knight, Phantasmagoria, Arcanum, Quest for Glory, etc.). No recent Sierra bundles as of January 2026, but individual titles occasionally appear in Humble Choice.
+The last Sierra-specific bundle was **Humble Sierra the 3rd** in June 2020 (Gabriel Knight, Phantasmagoria, Arcanum, Quest for Glory, etc.). No recent Sierra-specific bundles, but individual titles occasionally appear in Humble Choice.
 
 ### Steam Sales
-Activision discounts Sierra collections during major sales. The 2025 Black Friday sale offered up to 53% off.
+Activision discounts Sierra collections during major sales (Summer, Black Friday, Winter). Discounts typically run 30–60% off.
 
 ---
 
