@@ -192,7 +192,7 @@ Players who enjoyed similar titles often draw comparisons to LucasArts' Day of t
 [^ref-12]: [UHS Hints](https://www.uhs-hints.com/uhsweb/pepper.php) – Game structure
 [^ref-13]: [GameFAQs](https://gamefaqs.gamespot.com/pc/564732-peppers-adventures-in-time/faqs/1965) – Quiz system details
 [^ref-14]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2025/04/24/peppers-adventures-in-time/) – Puzzle description, review
-[^ref-15]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pepper's+Adventures+in+Time&gid=1927) – User rating
+[^ref-15]: [Abandonware DOS](http://web.archive.org/web/20250820022415/https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pepper's+Adventures+in+Time&gid=1927) – User rating
 [^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/pepper-s-adventures-in-time-1ws) – Community rating
 [^ref-17]: [IMDb](https://www.imdb.com/find/?q=Pepper%27s+Adventures+in+Time&s=tt) – User score
 [^ref-18]: [Web Archive AdventureGamers](https://web.archive.org/web/20121012192955/http://www.adventuregamers.com/articles/view/18253) – Modern assessment

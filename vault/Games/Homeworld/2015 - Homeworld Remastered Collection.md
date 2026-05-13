@@ -355,9 +355,9 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 
 ## References
 
-[^ref-1]: [2K Games – Homeworld Remastered Collection](https://2k.com/games/homeworld/homeworld-remastered-collection/) – release date, platforms, developers, ESRB rating, technical specs
+[^ref-1]: [2K Games – Homeworld Remastered Collection](http://web.archive.org/web/20260504045441/https://2k.com/games/homeworld/homeworld-remastered-collection/) – release date, platforms, developers, ESRB rating, technical specs
 [^ref-2]: [IGN – Homeworld Remastered Collection Review](https://archive.today/20150225000233/http://www.ign.com/articles/2015/02/24/homeworld-remastered-collection-review) – 9.0/10 score, Dan Stapleton review, Cataclysm exclusion, technical issues
-[^ref-3]: [2K Games – Homeworld Official Site](https://2k.com/games/homeworld/) – publisher info, resolution support, marketing quotes
+[^ref-3]: [2K Games – Homeworld Official Site](http://web.archive.org/web/20260504045441/https://2k.com/games/homeworld/) – publisher info, resolution support, marketing quotes
 [^ref-4]: [Internet Archive – Homeworld ISO](https://archive.org/details/hw-1_20211101) – original release date, plot summary, gameplay features
 [^ref-5]: [IGN – Original Homeworld Review (1999)](http://www.ign.com/articles/1999/10/01/homeworld) – Game of the Year status, Alex Garden quotes, difficulty assessment
 [^ref-6]: [Metacritic – Homeworld Critic Reviews](https://www.metacritic.com/game/homeworld/critic-reviews/?platform=pc) – 93 Metascore, individual publication scores, review excerpts

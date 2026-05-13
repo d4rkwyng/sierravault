@@ -1,14 +1,14 @@
 host,class,dead_url,wayback_snapshot,file,ref_num,notes
-2k.com,404,https://2k.com/games/homeworld/,http://web.archive.org/web/20260504045441/https://2k.com/games/homeworld/,Games/Homeworld/2015 - Homeworld Remastered Collection.md,3,dead-confirmed-404 + wayback-fallback-available
+2k.com,404,https://2k.com/games/homeworld/,http://web.archive.org/web/20260504045441/https://2k.com/games/homeworld/,Games/Homeworld/2015 - Homeworld Remastered Collection.md,3,applied-wayback-fallback
 2k.com,404,https://2k.com/games/homeworld/,,Games/Homeworld/1999 - Homeworld.md,4,dead-confirmed-404
 2k.com,404,https://2k.com/games/homeworld/homeworld-remastered-collection/,,Games/Homeworld/2015 - Homeworld Remastered Collection.md,1,dead-confirmed-404
 4players.de,404,https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/288/184/0/Zeus_Herrscher_des_Olymp.html,,Games/Zeus/2000 - Zeus - Master of Olympus.md,4,dead-confirmed-404
 4players.de,404,https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/3681/2472/0/Contract_JACK.html,,Games/Monolith/2003 - Contract J.A.C.K..md,20,dead-confirmed-404
 abandonware-forums.org,ssl-error,https://www.abandonware-forums.org/forum/autres/les-aventuriers-de-la-traduction-perdue/799548-the-official-frogger-patch-fr,,Games/Arcade/1981 - Frogger.md,6,live-no-action-needed
 abandonware-forums.org,ssl-error,https://www.abandonware-forums.org/forum/forum-ltf-abandonware-france/requ%C3%AAtes/903740-the-colonel-s-bequest,,Games/Laura Bow/1989 - The Colonel's Bequest.md,52,live-no-action-needed
-abandonwaredos.com,404,https://www.abandonwaredos.com/abandonware-game.php?abandonware=King's+Quest+III+Redux:+To+Heir+is+Human&gid=3491,http://web.archive.org/web/20260209074846/https://www.abandonwaredos.com/abandonware-game.php?abandonware=King%27s+Quest+III+Redux%3A+To+Heir+is+Human&gid=3491,Games/Fan Games/2011 - King's Quest III Redux - To Heir is Human.md,19,dead-confirmed-404 + wayback-fallback-available
+abandonwaredos.com,404,https://www.abandonwaredos.com/abandonware-game.php?abandonware=King's+Quest+III+Redux:+To+Heir+is+Human&gid=3491,http://web.archive.org/web/20260209074846/https://www.abandonwaredos.com/abandonware-game.php?abandonware=King%27s+Quest+III+Redux%3A+To+Heir+is+Human&gid=3491,Games/Fan Games/2011 - King's Quest III Redux - To Heir is Human.md,19,applied-wayback-fallback
 abandonwaredos.com,404,https://www.abandonwaredos.com/abandonware-game.php?abandonware=Mickey's+Space+Adventure&gid=3163,,Games/Disney/1984 - Mickey's Space Adventure.md,21,dead-confirmed-404
-abandonwaredos.com,404,https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pepper's+Adventures+in+Time&gid=1927,http://web.archive.org/web/20250820022415/https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pepper's+Adventures+in+Time&gid=1927,Games/Standalone/1993 - Pepper's Adventures in Time.md,15,dead-confirmed-404 + wayback-fallback-available
+abandonwaredos.com,404,https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pepper's+Adventures+in+Time&gid=1927,http://web.archive.org/web/20250820022415/https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pepper's+Adventures+in+Time&gid=1927,Games/Standalone/1993 - Pepper's Adventures in Time.md,15,applied-wayback-fallback
 abandonwaredos.com,404,https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Colonel's+Bequest&gid=1388,,Games/Laura Bow/1989 - The Colonel's Bequest.md,46,dead-confirmed-404
 abandonwaredos.com,404,https://www.abandonwaredos.com/abandonware-game.php?abandonware=Troll's+Tale&gid=2483,,Games/Standalone/1983 - Troll's Tale.md,19,dead-confirmed-404
 adventureclassicgaming.com,404,http://www.adventureclassicgaming.com/index.php/site/interviews/173/,,Series/Quest for Glory Series.md,4,dead-confirmed-404
@@ -127,7 +127,7 @@ emuparadise.me,404,https://www.emuparadise.me/ScummVM_Games/Troll's_Tale_(Floppy
 emuparadise.me,404,https://www.emuparadise.me/Sony_Playstation_ISOs/Arthur_to_Astaroth_no_Nazo_Makaimura_-_Incredible_Toons_(Japan,,Games/Incredible Machine/1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons.md,14,site-content-removed-permanently
 emuparadise.me,404,https://www.emuparadise.me/games/geisha,,Games/Coktel/1990 - Geisha.md,20,site-content-removed-permanently
 en.wikipedia.org,404,https://en.wikipedia.org/wiki/Gold_Rush!_(video_game,,Publishers/Sunlight Games - KISS ltd.md,6,dead-confirmed-404
-encoreusa.com,dns-fail,https://www.encoreusa.com/,http://web.archive.org/web/20090725195406/http://www.encoreusa.com/,Games/Hoyle/2006 - Hoyle Casino.md,12,host-down-or-discontinued + wayback-fallback-available
+encoreusa.com,dns-fail,https://www.encoreusa.com/,http://web.archive.org/web/20090725195406/http://www.encoreusa.com/,Games/Hoyle/2006 - Hoyle Casino.md,12,applied-wayback-fallback
 encoreusa.com,dns-fail,https://www.encoreusa.com/,,Games/Hoyle/2011 - Hoyle Puzzle and Board Games.md,21,host-down-or-discontinued
 engadget.com,404,https://www.engadget.com/the-glory-of-quest-for-glory/,,Games/Quest for Glory/1993 - Quest for Glory IV - Shadows of Darkness.md,7,dead-confirmed-404
 engadget.com,404,https://www.engadget.com/valves-strange-history-of-talent-acquisitions--this-weeks gaming-news-153020318.html,,Games/Valve/1999 - Team Fortress Classic.md,2,dead-confirmed-via-chrome
@@ -163,7 +163,7 @@ gamesfirst.com,404,https://gamesfirst.com/reviews/3d-ultra-minigolf/,,Games/3D U
 gamesindustry.biz,404,https://www.gamesindustry.biz/devolver-digital-acquires-stronghold-developer-firefly-studios,,Designers/Simon Bradbury.md,17,dead-confirmed-404
 gamesindustry.biz,404,https://www.gamesindustry.biz/the-european-games-industry-is-booming,,Publishers/Assemble Entertainment.md,13,dead-confirmed-404
 gamespot.fr,ssl-error,https://www.gamespot.fr,,Games/Homeworld/2015 - Homeworld Remastered Collection.md,40,host-down-or-discontinued
-genotaur.com,404,http://www.genotaur.com/people/doug-johnson,http://web.archive.org/web/20260120141613/http://www.genotaur.com/people/doug-johnson,Designers/Doug Johnson.md,8,dead-confirmed-404 + wayback-fallback-available
+genotaur.com,404,http://www.genotaur.com/people/doug-johnson,http://web.archive.org/web/20260120141613/http://www.genotaur.com/people/doug-johnson,Designers/Doug Johnson.md,8,applied-wayback-fallback
 github.com,404,https://github.com/FWGS/xash3d/issues/296,,Games/Valve/2000 - Gunman Chronicles.md,46,dead-confirmed-404
 github.com,404,https://github.com/firebirdblue23/ee-tweaks-mod,,Games/Empire Earth/2002 - Empire Earth - The Art of Conquest.md,34,dead-confirmed-404
 github.com,404,https://github.com/nicfab/otvdm,,Guides/Playing Sierra Games Today.md,7,dead-confirmed-404

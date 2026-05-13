@@ -267,7 +267,7 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 [^ref-16]: [NoobFeed – King's Quest III Redux Review](https://www.noobfeed.com/reviews/kings-quest-iii-redux-to-heir-is-human) – professional review, score, gameplay analysis
 [^ref-17]: [Knoji – King's Quest III Redux Review](https://videogames.knoji.com/kings-quest-iii-redux-to-heir-is-human-review/) – system requirements, review, quality praise
 [^ref-18]: [Gamewise – Ratings](http://gamewise.co/games/20515/Kings-Quest-III-Redux-To-Heir-is-Human/Walkthrough) – user ratings, genre classification
-[^ref-19]: [Abandonware DOS – King's Quest III Redux](https://www.abandonwaredos.com/abandonware-game.php?abandonware=King's+Quest+III+Redux:+To+Heir+is+Human&gid=3491) – ratings, compatibility notes, platform info
+[^ref-19]: [Abandonware DOS – King's Quest III Redux](http://web.archive.org/web/20260209074846/https://www.abandonwaredos.com/abandonware-game.php?abandonware=King%27s+Quest+III+Redux%3A+To+Heir+is+Human&gid=3491) – ratings, compatibility notes, platform info
 [^ref-21]: [Old-Games.com – King's Quest III Redux Download](https://www.old-games.com/download/11892/king-s-quest-iii-redux) – download size, file information
 [^ref-22]: [AGD Interactive Forums – Bug Reports](http://www.agdinteractive.com/forum/viewforum.php?f=32&start=200) – version history, bug fixes, patch information
 [^ref-23]: [PCGamingWiki – King's Quest III](https://www.pcgamingwiki.com/wiki/King's_Quest_III:_To_Heir_Is_Human) – remakes listing, technical compatibility information

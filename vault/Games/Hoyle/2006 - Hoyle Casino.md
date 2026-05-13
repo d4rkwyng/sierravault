@@ -292,7 +292,7 @@ The similar games listed by gaming databases—including Hoyle Casino 2007, Hoyl
 [^ref-9]: [IGDB – Hoyle Casino 2006 Similar Games](https://www.igdb.com/games/hoyle-casino-2006/similar) – related games in Hoyle series, similar casino games
 [^ref-10]: [MobyGames – Hoyle Casino 2006](https://www.mobygames.com/game/22695/hoyle-casino-2006/) – game database entry with technical details
 [^ref-11]: [Giant Bomb – Hoyle Casino 2006](https://www.giantbomb.com/hoyle-casino-2006/3030-39604/) – game wiki and community content
-[^ref-12]: [Encore Software – Official Site](https://www.encoreusa.com/) – publisher information and game catalog
+[^ref-12]: [Encore Software – Official Site](http://web.archive.org/web/20090725195406/http://www.encoreusa.com/) – publisher information and game catalog
 [^ref-13]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) – comprehensive historical overview of the Hoyle's Official Book of Games video game series, providing detailed develop...
 [^ref-14]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/2686/) – game information and details
 [^ref-15]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/45137/hoyle-casino/) – comprehensive game metadata from MobyGames, providing detailed development credits, technical specifications, and gam...
