@@ -367,6 +367,48 @@ def score_page(filepath: Path, all_basenames: set) -> PageResult:
     bad = known_bad_links_in(content)
     chk("Wiki Links", len(bad) == 0, f"Contains known-bad wiki link(s): {bad[:3]}", 2)
 
+    # Integrity — catches content-corruption patterns that have broken Quartz
+    # builds or produced visible duplicate content on the site. Each is a hard
+    # error (-3) rather than a warning since these signal real bugs.
+
+    # 1. Duplicate YAML keys (the 2026-05-13 NASCAR Pinball bug — duplicate
+    #    `last_modified` key broke Quartz's YAML parser)
+    yaml_dup_keys = []
+    seen_keys = set()
+    for line in fm_text.split("\n"):
+        m = re.match(r'^([a-zA-Z_][\w-]*)\s*:', line)
+        if m:
+            key = m.group(1)
+            if key in seen_keys:
+                yaml_dup_keys.append(key)
+            seen_keys.add(key)
+    chk("Integrity", not yaml_dup_keys, f"Duplicate YAML key(s): {yaml_dup_keys[:3]}", 3)
+
+    # 2. Duplicate footnote definitions (same `[^ref-N]:` defined multiple times)
+    fn_keys = re.findall(r'^\[\^(ref-[\w-]+)\]:', body, re.MULTILINE)
+    fn_dups = [k for k in set(fn_keys) if fn_keys.count(k) > 1]
+    chk("Integrity", not fn_dups, f"Duplicate footnote def(s): {fn_dups[:3]}", 3)
+
+    # 3. Adjacent identical non-trivial body lines (Quartz-killer pattern in body)
+    body_lines = body.split("\n")
+    adjacent_dups = 0
+    for i in range(len(body_lines) - 1):
+        a, b = body_lines[i].strip(), body_lines[i + 1].strip()
+        if a and len(a) >= 10 and a == b:
+            adjacent_dups += 1
+    chk("Integrity", adjacent_dups == 0, f"{adjacent_dups} adjacent duplicate line(s)", 3)
+
+    # 4. Duplicate H2 headings (real section appearing twice — usually a merge bug)
+    h2_lines = re.findall(r'^## (?!Reference|See Also|Related)([^\n]+)', body, re.MULTILINE)
+    # Note: we already separately enforce one ## References; here we catch other H2 dups
+    h2_dups = [h for h in set(h2_lines) if h2_lines.count(h) > 1]
+    chk("Integrity", not h2_dups, f"Duplicate H2 heading(s): {h2_dups[:3]}", 2, "warning")
+
+    # 5. Bare `References` line (no `##` prefix) — the prior-script-accident
+    #    pattern that creates a phantom-second-references block
+    bare_refs = re.findall(r'^References\s*$', body, re.MULTILINE)
+    chk("Integrity", len(bare_refs) == 0, f"{len(bare_refs)} bare `References` line(s) without ##", 2)
+
     return PageResult(
         path=filepath, filename=filename, series=folder, page_type=page_type,
         is_flagship=is_flagship, is_non_narrative=non_narrative, threshold=threshold,
