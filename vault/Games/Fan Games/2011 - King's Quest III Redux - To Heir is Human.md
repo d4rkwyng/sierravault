@@ -241,12 +241,25 @@ The darker themes of King's Quest III—involving black magic, child enslavement
 
 For fans of classic adventure gaming, King's Quest III Redux represents both an excellent entry point to the series and a worthwhile revisit for those who remember the original. Its combination of faithful storytelling, modernized mechanics, and abundant fan service makes it a fitting tribute to Sierra's legacy and a worthy conclusion to AGD Interactive's remarkable run of fan remakes.
 
-## Purchase
+## Downloads
 
-[[2011 - Space Quest II VGA Remake]]
-- [[2012 - Space Quest - Incinerations]]
-- [[2021 - King's Quest IV Retold]]
-- [[2025 - SCP Sierra Conversion Project]]
+**Purchase / Digital Stores**
+- Free download from [AGD Interactive](https://www.agdinteractive.com/games/kq3/kq3.html) — Official site (DRM-free, no purchase required)
+
+**Download / Preservation**
+- [Internet Archive — KQ3 Redux](https://archive.org/details/agdi-kings-quest-3-redux)
+- [MyAbandonware — KQ3 Redux](https://www.myabandonware.com/game/kings-quest-iii-redux-to-heir-is-human-13ze)
+
+## See Also
+
+- [[2001 - King's Quest I VGA Remake]] — Earlier AGDI KQ remake
+- [[2002 - King's Quest II+ - Romancing the Stones]] — AGDI KQ2 fan remake
+- [[2006 - King's Quest III Remake (Infamous Adventures)]] — Competing KQ3 fan remake
+- [[2011 - Space Quest II VGA Remake]] — Contemporary Infamous Adventures release
+- [[2012 - Space Quest - Incinerations]] — Fan SQ continuation
+- [[2021 - King's Quest IV Retold]] — Later AGDI fan release
+- [[2025 - SCP Sierra Conversion Project]] — Amiga remasters
+- [[1986 - King's Quest III - To Heir Is Human]] — Original Sierra version
 
 ## References
 

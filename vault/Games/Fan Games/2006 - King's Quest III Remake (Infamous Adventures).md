@@ -123,14 +123,13 @@ The developers acknowledge these limitations, noting that "it IS an older progra
 
 ### Version History
 
-| Version | Date | Platform | Notes |
-|---------|------|----------|-------|[^ref-16][[2010 - The Silver Lining]]
-- [[2011 - King's Quest III Redux - To Heir is Human]]
-- [[2011 - Space Quest - Vohaul Strikes Back]]
-- [[2011 - Space Quest II VGA Remake]]
-- [[2012 - Space Quest - Incinerations]]
-- [[2021 - King's Quest IV Retold]]
-- [[2025 - SCP Sierra Conversion Project]]
+The game has been continuously available since its 2006 release through Infamous Adventures's own website, with periodic compatibility patches for newer Windows versions.[^ref-16]
+
+## Legacy
+
+King's Quest III Remake established Infamous Adventures as one of the major Sierra-fan-remake studios alongside [[AGD Interactive]]. The team's faithful approach to recreating the original SCI-engine experience with VGA graphics and voice acting paved the way for their subsequent [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] (2008) and [[2011 - Space Quest II VGA Remake|Space Quest II VGA Remake]] (2011). The competing AGD Interactive [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux]] (2011) provides an interesting alternate take on the same source material; the two remakes coexist in the fan community as complementary visions rather than rivals.[^ref-1][^ref-2]
+
+The remake remains a recommended entry point for players wanting to experience King's Quest III without the original 1986 game's notoriously punishing puzzle design and parser-based interface.[^ref-3]
 
 ## Downloads
 

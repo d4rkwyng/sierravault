@@ -1852,32 +1852,6 @@
       ]
     },
     {
-      "filename": "2011 - King's Quest III Redux - To Heir is Human.md",
-      "series": "Fan Games",
-      "page_type": "fan",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 95.8,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 21,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        }
-      ]
-    },
-    {
       "filename": "1994 - Battle Bugs.md",
       "series": "Standalone",
       "page_type": "standard",
@@ -1894,32 +1868,6 @@
           "severity": "error",
           "message": "Duplicate reference URL(s): ['https://store.steampowered.com/app/1462210/Battle_Bugs/']",
           "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2006 - King's Quest III Remake (Infamous Adventures).md",
-      "series": "Fan Games",
-      "page_type": "fan",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 95.9,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Legacy section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
         }
       ]
     },
@@ -5692,6 +5640,26 @@
       ]
     },
     {
+      "filename": "2006 - King's Quest III Remake (Infamous Adventures).md",
+      "series": "Fan Games",
+      "page_type": "fan",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 98.4,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "2021 - King's Quest IV Retold.md",
       "series": "Fan Games",
       "page_type": "fan",
@@ -7341,6 +7309,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 37,
+      "issues": []
+    },
+    {
+      "filename": "2011 - King's Quest III Redux - To Heir is Human.md",
+      "series": "Fan Games",
+      "page_type": "fan",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
       "issues": []
     },
     {
