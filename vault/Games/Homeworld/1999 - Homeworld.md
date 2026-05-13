@@ -10,14 +10,14 @@ series: Homeworld
 engine: Custom 3D engine with RAT audio engine
 protagonist: Karan S'jet / The Kushan Fleet
 sierra_lineage: Sierra Published
-last_updated: '2026-03-27'
+last_updated: '2026-05-13'
 description: Homeworld is a groundbreaking real-time strategy game released on September
   28, 1999, that revolutionized the RTS genre by introducing fully...
 tags: [1990s, homeworld, sierra, strategy]
 ---
 # Homeworld
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 
@@ -274,6 +274,8 @@ Homeworld's significance extends far beyond its commercial success. It demonstra
 
 The game established a template for cinematic RTS experiences that few titles have matched. Its influence can be seen in countless space strategy games that followed, though as Dan Stapleton noted, "These exciting, large-scale space battles haven't been matched, much less surpassed."[^ref-22] The fact that Gearbox saw fit to remaster the game in 2015, and that Blackbird Interactive—founded by original Homeworld team members—continued the franchise with Homeworld 3, speaks to its enduring importance. "When we first created the original Homeworld, I never imagined that it would resonate so deeply with so many people," reflected Rob Cunningham, CEO of Blackbird Interactive.[^ref-35]
 
+In a January 2, 2026 retrospective for *The Digital Antiquarian*, gaming historian Jimmy Maher characterized Homeworld as "a seemingly immaculate conception, the full package of technology and design right out of the gate" for 3D real-time strategy, arguing that its mature aesthetic — orchestral score, contemplative pacing, Battlestar Galactica-inspired narrative — elevated it well beyond its genre's typical standards and produced "an enduring artistic achievement that has rarely been surpassed."[^ref-7]
+
 ## Music and Sound
 
 ### Original Soundtrack
@@ -311,7 +313,7 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 [^ref-4]: [2K Games – Homeworld Franchise](https://2k.com/games/homeworld/) – franchise description quote
 [^ref-5]: [Interactive.org – Homeworld](https://www.interactive.org/games/video_game_details.asp?idAward=2000&idGame=487) – AIAS nominations, gameplay features
 [^ref-6]: [Engadget – Homeworld Remastered Review](https://www.engadget.com/2015/02/24/homeworld-remastered-review/) – historical significance quote, Yes song removal
-[^ref-7]: [The Digital Antiquarian – Homeworld](https://www.filfre.net/2025/01/homeworld/) – development history, Alex Garden quotes, office location
+[^ref-7]: [The Digital Antiquarian – Homeworld](https://www.filfre.net/2026/01/homeworld/) – Jimmy Maher's Jan 2, 2026 essay; development history, Alex Garden quotes, office location, "seemingly immaculate conception" reappraisal
 [^ref-8]: [Engadget – Gearbox Interview](https://www.engadget.com/2015-02-04-gearbox-homeworld-remastered-interview.html) – acquisition details, Brian Martel quotes
 [^ref-9]: [Homeworld Fandom Wiki – Homeworld](https://homeworld.fandom.com/wiki/Homeworld) – voice cast, plot details, awards, trivia, patch history
 [^ref-10]: [MobyGames – Homeworld](https://www.mobygames.com/game/296/homeworld/) – publishers, ratings, awards, trivia, source code release

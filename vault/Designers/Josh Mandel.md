@@ -5,11 +5,11 @@ birth_year: 1958
 death_year: null
 notable_games: ["King's Quest I: Quest for the Crown (1990 remake)", "Space Quest 6: Roger Wilco in the Spinal Frontier", "Freddy Pharkas: Frontier Pharmacist", "Callahan's Crosstime Saloon"]
 companies: ["Sierra On-Line", "Legend Entertainment", "Sir-Tech", "Sega", "Vicarious Visions"]
-last_updated: "2026-05-08"
+last_updated: "2026-05-13"
 ---
 # Josh Mandel
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 
@@ -107,6 +107,17 @@ As the first voice of King Graham, Mandel established an audio legacy that has c
 
 Mandel remained optimistic about working with his former Sierra colleagues, stating: "Absolutely! I'd jump at a chance to work with the Sierra people again. To me, these people are not only great designers, but they were groundbreakers as well. The computer game field was still very young in those days, and much of what's done today owes a debt of gratitude to these pioneers. I was proud to work with them."[^ref-9]
 
+### Recent Community Engagement (2025–2026)
+
+Mandel appeared in the *Happy Hotspot Holidays 2025* developer's season greetings video produced by Adventure Game Hotspot, alongside other adventure-game veterans.[^ref-agh-holidays]
+
+Between January 15 and March 18, 2026, Mandel hosted an extended **"AMA About Sierra!"** thread on the Adventure Game Hotspot community forum, fielding questions from adventure-game enthusiasts over a roughly two-month conversation.[^ref-agh-ama] Notable disclosures from the thread included:
+
+- **On Freddy Pharkas crunch:** Mandel described an exhausting late-stage push in which team members slept in their offices through 20-hour workdays, calling the moment he witnessed the first boxed copies being assembled "emotionally complex."[^ref-agh-ama]
+- **On meeting Ken Williams:** His second-favorite Sierra memory was Ken introducing himself when Mandel arrived for his job interview in a rental car — an encounter Mandel described as "eerily similar" to a Space Quest III scene.[^ref-agh-ama]
+- **On creative preferences:** "I have always enjoyed the writing side more," noting his father had been a Golden Age TV writer and that the two sometimes collaborated on dialogue.[^ref-agh-ama]
+- **On Callahan's Crosstime Saloon:** Mandel emphasized that the game's affirming, friendship-focused design "was swimming against the tide" compared to other adventure titles of its era.[^ref-agh-ama]
+
 ## Games
 
 ### Sierra On-Line (1990–1995)
@@ -190,3 +201,5 @@ Mandel remained optimistic about working with his former Sierra colleagues, stat
 [^ref-47]: [Wikipedia - Leisure Suit Larry: Reloaded](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Reloaded) — Replay Games employment 2012-2013, designer/writer/producer role
 [^ref-56]: [King's Quest Omnipedia - Josh Mandel](https://kingsquest.fandom.com/wiki/Josh_Mandel) — Details on KQ1 VGA remake story, text, and puzzle redesign
 [^ref-63]: [MobyGames - Callahan's Crosstime Saloon](https://www.mobygames.com/game/3159/callahans-crosstime-saloon/) — Mandel's credits as designer, artist, and writer at Legend Entertainment
+[^ref-agh-holidays]: [Happy Hotspot Holidays 2025 — Developer's Season's Greetings Video](https://adventuregamehotspot.com/feature/5749/happy-hotspot-holidays-2025-a-developer-seasons-greetings-video) — Adventure Game Hotspot, December 2025 community video featuring Mandel alongside other adventure-game veterans
+[^ref-agh-ama]: [AMA About Sierra! — Josh Mandel](https://community.adventuregamehotspot.com/showthread.php?pid=5360) — Adventure Game Hotspot community forum thread spanning January 15 – March 18, 2026; Mandel's disclosures about Freddy Pharkas crunch, his Ken Williams interview anecdote, writing-vs-puzzle preferences, and Callahan's Crosstime Saloon design intent

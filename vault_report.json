@@ -1721,7 +1721,7 @@
       "score": 95.7,
       "passes": true,
       "status": "PASS",
-      "ref_count": 20,
+      "ref_count": 21,
       "issues": [
         {
           "category": "Structure",

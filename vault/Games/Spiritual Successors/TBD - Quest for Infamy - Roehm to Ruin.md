@@ -10,14 +10,14 @@ series: Quest for Infamy
 engine: Adventure Game Studio
 protagonist: Mr. Roehm
 sierra_lineage: Spiritual Successor
-last_updated: '2026-05-08'
+last_updated: '2026-05-13'
 description: '*Quest for Infamy: Roehm to Ruin* is a point-and-click adventure RPG
   developed by Infamous Quests serving as a prequel to their 2014 title *Quest for...'
 tags: [2020s, adventure, quest-for-infamy, rpg, sierra]
 ---
 # Quest for Infamy: Roehm to Ruin
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 
@@ -139,7 +139,7 @@ The game features multiple story paths with different endings based on player ch
 |-----------|-------------|
 | Mr. Roehm | Steve Patrick |
 
-Voice recording for the lead character remains the final production milestone before release.[^ref-3] According to developer updates, the recording session with Steve Patrick is expected to be completed soon.[^ref-13]
+Voice recording for the lead character remains the final production milestone before release.[^ref-3] According to an April 4, 2026 Infamous Quests Patreon update, studio time has been **booked for May 2026** to get Steve Patrick into the studio and finish recording the remaining Mr. Roehm lines. The developer also signalled an intent to showcase the completed game at **RetroGameCon Syracuse, NY in October 2026**.[^ref-21]
 
 ## Legacy
 
@@ -203,3 +203,4 @@ The game stands as part of a broader movement of Sierra-inspired spiritual succe
 [^ref-18]: [itch.io – Sierra Style Adventures Collection](https://itch.io/c/1738056/sierra-style-adventures) – genre categorization
 [^ref-19]: [Kickstarter – Quest for Infamy Original Campaign](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que/posts) – original funding, backer comments
 [^ref-20]: [Steam Community – Quest for Infamy Discussion](https://steamcommunity.com/app/264560/discussions/0/1735463620082204491/) – sequel interest, community engagement
+[^ref-21]: [Infamous Quests Patreon — "Hospital stays etc." (April 4, 2026)](https://www.patreon.com/posts/hospital-stays-154760603) — Steven Alexander confirms May 2026 studio time booked for Steve Patrick voice recording; RetroGameCon Syracuse showcase planned for October 2026
