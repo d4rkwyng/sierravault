@@ -16,6 +16,52 @@ When updating citations, **never assume** a source contains specific facts. Alwa
 
 ---
 
+## URL liveness checks — methodology
+
+**A single fetch is not enough.** Many sites in the Sierra citation ecosystem return 403 to automation but render normally in a real browser. Never declare a URL dead based on one HTTP request. The 2026-05-13 audit of `docs/dead_urls_worklist.csv` recovered 16 URLs that had been mis-flagged as dead but were actually live with proper headers, plus 63 more that were confirmed bot-blocked-but-live.
+
+### Multi-strategy check (always use all three)
+
+1. **Bare curl** (no User-Agent) — establishes a baseline. Some sites already return 403 here even though they're alive.
+2. **Curl with realistic browser headers** — Chrome 130 on macOS, full `Sec-Ch-Ua` set, `Accept`, `Accept-Language`, `Upgrade-Insecure-Requests`. This is what `scripts/classify_dead.py` (in Assets/ACTIVE) does.
+3. **Host root probe** — if the specific URL fails but the host's root is alive, the URL is probably gone but the citation source is still findable.
+
+### Classification matrix
+
+| browser-headers status | host root alive | Classification |
+|---|---|---|
+| 2xx | yes | LIVE — citation is fine, no action needed |
+| 3xx | yes | LIVE (follow redirects to final URL) |
+| 403 | yes | BOT-BLOCKED-LIKELY-LIVE — verify in real browser before removing |
+| 403 | no | HOST-DEAD — site is gone |
+| 404 | yes | DEAD-CONFIRMED — article gone but site exists; find replacement |
+| 404 | no | HOST-DEAD — entire site gone |
+| 410 | any | GONE — explicit permanent removal |
+| 5xx | yes | SERVER-ERROR-RETRY-LATER |
+| 000/timeout | yes | INCONCLUSIVE — try GET instead of HEAD |
+| 000/timeout | no | HOST-DEAD |
+
+### Known bot-blocking hosts (treat 403 as likely-live)
+
+These sites are confirmed to use Cloudflare/CloudFront bot detection:
+- adventuregamers.com
+- adventuregamehotspot.com
+- mobygames.com
+- ign.com (sometimes — depends on URL pattern)
+- rpgcodex.net (sometimes)
+- Reddit subdomains
+- Discord/Twitter (require auth, not relevant here)
+
+**Workaround for WebFetch / agent fetches:** if WebFetch returns 403 or non-content from any of the above hosts, treat it as inconclusive, not dead. Either rely on the Wayback Machine snapshot or flag the URL for human browser verification.
+
+### Tools
+
+- `scripts/classify_dead.py` (Assets/ACTIVE) — runs the multi-strategy check across the full worklist
+- `scripts/wayback_check.py` (Assets/ACTIVE) — parallel Wayback availability batch checker
+- `scripts/apply_wayback_fixes.py` (Assets/ACTIVE) — replaces dead URLs with Wayback snapshots in vault pages
+
+---
+
 ## Source Hierarchy
 
 Prefer sources in this order:
