@@ -1,10 +1,63 @@
 ---
 title: "Site Index"
-last_updated: "2026-02-12"
+last_updated: "2026-05-13"
 ---
 # Site Index
 
-<small style="color: gray">Last generated: February 12, 2026</small>
+<small style="color: gray">Last generated: May 13, 2026</small>
+
+## Vault Navigation
+
+The Sierra archive is organized into these shelves. See the Games sub-index further down for the full per-series game catalog.
+
+### Reference shelf
+
+Long-form research aids — timelines, bibliographies, indexes, corporate history.
+
+- [[Bibliography]] — Six-tier source hierarchy for verifying any claim in the vault
+- [[Awards]] — Major industry awards won across the catalog (Hall of Fame, DICE, CGW, etc.)
+- [[Cancelled Game Index]] — All 10 CXL- entries grouped by cancellation pattern
+- [[Corporate Lineage]] — On-Line Systems → Sierra → CUC → Vivendi → Activision → Microsoft acquisition chain
+- [[Engine History]] — Hi-Res → AGI → SCI generations through 2015 reboot
+- [[Sales Figures]] — Commercial sales tiers, development budgets, corporate revenue
+- [[Studio Map]] — Every internal/acquired/partner/alumni/fan studio
+- [[Timeline 1980-1999]] — Year-by-year independent-era chronology
+- [[Timeline 2000-present]] — Post-acquisition era through current state
+- [[Versions]] — Per-title interpreter version data
+- [[Voice Cast Index]] — Multi-credit voice actors cross-referenced
+
+### Technology shelf
+
+Engine documentation, audio history, preservation tools.
+
+- [[Adventure Game Interpreter]] — AGI overview (1984–1989)
+- [[Sierra Creative Interpreter]] — SCI overview (1988–1998)
+- [[ScummVM]] — Preservation virtual machine running the Sierra catalog on modern systems
+- [[Audio and Music Tech]] — PC speaker → AdLib → MT-32 → CD-audio → Hollywood orchestra arc
+- [[GOG and Steam Re-Releases]] — Current commercial availability for Sierra titles
+
+### Series overviews
+
+Tier-1 flagship series plus umbrella overviews for major non-flagship lines.
+
+- [[King's Quest Series]], [[Space Quest Series]], [[Quest for Glory Series]], [[Police Quest Series]], [[Leisure Suit Larry Series]], [[Gabriel Knight Series]], [[Laura Bow Series]]
+- [[Hoyle Series]] — 55-entry casual-gaming franchise
+- [[3D Ultra Series]] — 17-entry casual line (1995–2010)
+- [[City Builders Series]] — Caesar / Pharaoh / Zeus / Emperor (Impressions)
+- [[Coktel Adventures Series]] — French studio umbrella (Gobliiins, Inca, Lost in Time, etc.)
+- [[NASCAR Racing Series]] — Papyrus's 9-entry sim-racing line
+- [[Dynamix Catalog]] — Umbrella for Dynamix's 60+ titles across 8 sub-franchises
+- [[Front Page Sports Series]] — Sports-sim line (14 entries)
+- [[Phantasmagoria Series]], [[Shivers Series]], [[Manhunter Series]], [[EcoQuest Series]], [[Conquests Series]], [[Dr. Brain Series]], [[Krondor Series]]
+
+### Designers, Developers, Publishers, Guides
+
+- **Designers** — 57 biographical pages (see folder listing)
+- **Developers** — 28 studio profiles (see folder listing)
+- **Publishers** — 23 publisher pages (see folder listing)
+- **Guides** — 19 how-to/reference guides ([[Buying Guide]], [[Compatibility Guide]], [[Engine Index]], [[Sierra History]], etc.)
+
+---
 
 ## Overview
 
