@@ -5,11 +5,11 @@ birth_year: null
 death_year: 2011
 notable_games: ["King's Quest V", "King's Quest VI", "Leisure Suit Larry 2", "Leisure Suit Larry 5", "Phantasmagoria"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Carlos Escobar
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

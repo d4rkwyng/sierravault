@@ -10,14 +10,14 @@ series: Mixed-Up
 engine: SCI0
 protagonist: Player-chosen child character
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-04-21'
 description: Mixed-Up Mother Goose (SCI Remake), released in 1990, stands as Sierra
  On-Line's enhanced remake of their beloved children's adventure game originally...
 tags: [1990s, adventure, educational, mixed-up, roberta-williams, sci, sierra]
 ---
 # Mixed-Up Mother Goose
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: April 21, 2026</small>
 
 ## Overview
 

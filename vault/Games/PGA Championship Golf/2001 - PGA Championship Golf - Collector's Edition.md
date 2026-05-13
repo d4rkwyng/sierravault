@@ -10,14 +10,14 @@ series: PGA Championship Golf
 engine: TrueSwing 3
 protagonist: Custom Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-02-17'
+last_updated: '2026-05-11'
 description: PGA Championship Golf Collectors Edition represents the definitive compilation
   of Sierra Sports' acclaimed golf simulation franchise, released in late...
 tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf Collectors Edition
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

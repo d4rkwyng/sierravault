@@ -10,14 +10,14 @@ series: Space Quest
 engine: AGS (Adventure Game Studio)
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-04-15'
+last_updated: '2026-05-11'
 description: 'Space Quest II VGA Remake is a fan-made graphical remake of the classic
  1987 Sierra On-Line adventure game "Space Quest II: Vohaul''s Revenge," originally...'
 tags: [2010s, adventure, sierra, space-quest, two-guys]
 ---
 # Space Quest II VGA Remake
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

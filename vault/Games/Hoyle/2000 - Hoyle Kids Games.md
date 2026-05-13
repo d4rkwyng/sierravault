@@ -11,14 +11,14 @@ series: Hoyle Series
 engine: Unknown/unnamed
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-04-22'
+last_updated: '2026-05-11'
 description: Hoyle Kids Games 2000 is a compilation of classic children's games released
   by Sierra On-Line in September 2000 as part of their long-running Hoyle game...
 tags: [2000s, hoyle-series, sierra]
 ---
 # Hoyle Kids Games 2000
 
-<small style="color: gray">Last updated: April 22, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

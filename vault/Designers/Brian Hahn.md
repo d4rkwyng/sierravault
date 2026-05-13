@@ -5,11 +5,11 @@ birth_year: 1959
 death_year: null
 notable_games: ["The Incredible Machine", "Sid & Al's Incredible Toons", "The Adventures of Willy Beamish", "Johnny Castaway"]
 companies: ["Dynamix", "Sierra On-Line", "GarageGames", "ZeniMax Online Studios"]
-last_updated: "2026-02-13"
+last_updated: "2026-05-08"
 ---
 # Brian Hahn
 
-<small style="color: gray">Last updated: February 13, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

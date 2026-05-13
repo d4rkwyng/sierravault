@@ -10,14 +10,14 @@ series: Homeworld
 engine: Unreal Engine 4
 protagonist: Imogen S'Jet
 sierra_lineage: Sierra Published
-last_updated: '2026-01-13'
+last_updated: '2026-05-11'
 description: Homeworld 3 is a real-time strategy game developed by Blackbird Interactive
   and published by Gearbox Publishing, released on May 13, 2024 for Windows PC....
 tags: [2020s, homeworld, sierra, strategy]
 ---
 # Homeworld 3
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

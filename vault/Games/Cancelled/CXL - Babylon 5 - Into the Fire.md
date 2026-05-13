@@ -10,7 +10,7 @@ series: Babylon 5
 engine: Inertia Flight Engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 composer: ['Christopher Franke, Victor Crews']
 description: 'Babylon 5: Into the Fire was an ambitious space combat simulator developed
   by Yosemite Entertainment and published by Sierra Entertainment, based on the...'
@@ -18,7 +18,7 @@ tags: [1990s, babylon-5, sierra]
 ---
 # Babylon 5: Into the Fire
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

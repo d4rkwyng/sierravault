@@ -10,14 +10,14 @@ series: None
 engine: TsAGE
 protagonist: Jake Ryan
 sierra_lineage: Spiritual Successor
-last_updated: '2026-04-15'
+last_updated: '2026-05-11'
 composer: [Ken Allen]
 description: 'Blue Force is a police procedural adventure game designed by Jim Walls, creator of the Police Quest series, representing his only post-Sierra project at Tsunami Games.'
 tags: [1990s, adventure, jim-walls, police, spiritual-successor, tsunami]
 ---
 # Blue Force
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

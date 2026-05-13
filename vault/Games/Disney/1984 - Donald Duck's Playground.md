@@ -10,7 +10,7 @@ series: Disney
 engine: AGI
 protagonist: Donald Duck
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-05-13'
 composer: [Al Lowe]
 description: Donald Duck's Playground is an educational video game developed by Sierra
   On-Line in 1984, designed by Al Lowe under license from Walt Disney Productions....
@@ -18,7 +18,7 @@ tags: [1980s, agi, al-lowe, disney, educational, sierra]
 ---
 # Donald Duck's Playground
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

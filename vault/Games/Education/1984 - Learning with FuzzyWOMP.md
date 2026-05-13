@@ -10,14 +10,14 @@ series: Sierra Educational
 engine: 6502 Assembly
 protagonist: Fuzzywomp
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: Learning With Fuzzywomp is an educational software package developed
   and published by Sierra On-Line in 1984 for the Apple II computer. Designed...
 tags: [1980s, educational, sierra, sierra-educational]
 ---
 # Learning With Fuzzywomp
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

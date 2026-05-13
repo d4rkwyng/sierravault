@@ -12,14 +12,14 @@ series: Frogger
 engine: Modified Namco Galaxian hardware
 protagonist: Frogger (the frog)
 sierra_lineage: Sierra Published
-last_updated: '2026-01-30'
+last_updated: '2026-05-08'
 description: Frogger is one of the most iconic and recognizable arcade games of the
   1980s, originally developed by Konami and licensed for worldwide distribution by...
 tags: [1980s, frogger, sierra]
 ---
 # Frogger
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

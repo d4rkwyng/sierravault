@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player-created character
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-16'
+last_updated: '2026-05-11'
 description: Hoyle Card Games 2008 represents a significant milestone in the long-running
   Hoyle franchise, marking the first Mac OS X-compatible release since Sierra's...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Card Games 2008
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

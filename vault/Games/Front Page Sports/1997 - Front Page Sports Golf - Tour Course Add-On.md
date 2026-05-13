@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Headgate Golf Engine
 protagonist: Golfer (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-05-13'
 composer: [Charles Barth]
 description: 'Front Page Sports Golf Tour Course Add On was a series of expansion
   packs released for Front Page Sports: Golf, Sierra On-Line''s ambitious golf simulation...'
@@ -18,7 +18,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Golf Tour Course Add On
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

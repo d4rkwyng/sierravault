@@ -5,11 +5,11 @@ birth_year: 1946
 death_year: null
 notable_games: ["Leisure Suit Larry in the Land of the Lounge Lizards", "Torin's Passage", "Freddy Pharkas: Frontier Pharmacist", "The Black Cauldron"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Al Lowe
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

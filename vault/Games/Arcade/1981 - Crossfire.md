@@ -10,14 +10,14 @@ series: N/A
 engine: Machine Language
 protagonist: Unnamed pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Crossfire is a fast-paced arcade shooter developed by Jay Sullivan and
   published by Sierra On-Line (then known as On-Line Systems) beginning in 1981. The...
 tags: [1980s, n-a, shooter, sierra]
 ---
 # Crossfire
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

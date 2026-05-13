@@ -7,11 +7,11 @@ headquarters: "United States"
 notable_games: ["King's Quest III Remake", "Space Quest II VGA Remake"]
 parent_company: null
 successor_company: "Infamous Quests"
-last_updated: "2026-01-15"
+last_updated: "2026-05-08"
 ---
 # Infamous Adventures
 
-<small style="color: gray">Last updated: January 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

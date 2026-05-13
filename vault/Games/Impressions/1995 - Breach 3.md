@@ -10,14 +10,14 @@ series: Breach
 engine: AIL / Miles Sound System
 protagonist: Federated Worlds Special Forces Squad Leader
 sierra_lineage: Sierra Published
-last_updated: '2026-01-11'
+last_updated: '2026-05-11'
 description: Breach 3 is a squad-level tactical combat game set in a futuristic science
   fiction universe, released in 1995 for MS-DOS. Developed jointly by Omnitrend...
 tags: [1990s, breach, sierra]
 ---
 # Breach 3
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

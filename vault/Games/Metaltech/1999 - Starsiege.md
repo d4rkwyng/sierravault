@@ -10,7 +10,7 @@ series: Earthsiege / Metaltech
 engine: Darkstar
 protagonist: Harabec Weathers (Human Campaign) / Prometheus (Cybrid Campaign)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-10'
+last_updated: '2026-05-11'
 composer: [Timothy Steven Clarke (Loudmouth Studios)]
 description: Starsiege is a mecha-style vehicle simulation game developed by Dynamix
   and published by Sierra On-Line, released on March 24, 1999, for Microsoft Windows....
@@ -18,7 +18,7 @@ tags: [1990s, earthsiege-metaltech, sierra, simulation]
 ---
 # Starsiege
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

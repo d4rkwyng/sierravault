@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: Papy3D
 protagonist: Player-controlled NASCAR driver
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-01-10'
+last_updated: '2026-03-27'
 composer: [George Alistair Sanger (The Fat Man)]
 description: NASCAR Racing was a highly influential racing simulation released in November
   1994 that established Papyrus Design Group as the premier developer of realistic motorsport
@@ -19,7 +19,7 @@ tags: [1990s, nascar-racing, papyrus, racing, sierra]
 ---
 # NASCAR Racing
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

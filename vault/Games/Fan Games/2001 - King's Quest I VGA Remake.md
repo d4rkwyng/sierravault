@@ -10,7 +10,7 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Sir Graham
 sierra_lineage: Fan Project
-last_updated: '2026-02-05'
+last_updated: '2026-05-11'
 description: 'King''s Quest I: Quest for the Crown VGA Remake is a fan-made reimagining
   of Roberta Williams'' legendary 1984 adventure game, released on August 7, 2001
   by...'
@@ -18,7 +18,7 @@ tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest I: Quest for the Crown VGA Remake
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: No One Lives Forever
 engine: LithTech Jupiter
 protagonist: John Jack
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-11'
+last_updated: '2026-05-13'
 description: Contract J.A.C.K. (where J.A.C.K. stands for "Just Another Contract Killer")
   is a first-person shooter developed by Monolith Productions and published by...
 tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # Contract J.A.C.K.
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

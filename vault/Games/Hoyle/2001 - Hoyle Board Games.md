@@ -10,14 +10,14 @@ series: Hoyle Board Games
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: Hoyle Board Games 2001, also known as Hoyle Board Games 5, is a comprehensive
   digital board game compilation developed and published by Sierra On-Line that...
 tags: [2000s, hoyle-board-games, sierra]
 ---
 # Hoyle Board Games 2001
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Stellar 7
 engine: Unknown/unnamed
 protagonist: Terran Commander (Raven Pilot)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: 'Stellar 7: Draxon''s Revenge is a 1993 first-person sci-fi tank simulation
   game developed and published by Dynamix for the 3DO Interactive Multiplayer...'
 tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar 7: Draxon's Revenge
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

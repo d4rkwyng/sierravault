@@ -5,11 +5,11 @@ birth_year: 1940
 death_year: null
 notable_games: ["Police Quest: In Pursuit of the Death Angel", "Police Quest II: The Vengeance", "Codename: Iceman", "Blue Force", "Blade Runner"]
 companies: ["Sierra On-Line", "Tsunami Media", "Westwood Studios"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Jim Walls
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

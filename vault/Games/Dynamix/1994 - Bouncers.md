@@ -10,14 +10,14 @@ series: Standalone
 engine: Proprietary (Dynamix)
 protagonist: Basketball Characters
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-30'
+last_updated: '2026-05-08'
 description: Bouncers is an unconventional arcade basketball game developed by Dynamix
   and published by Sega of America exclusively for the Sega CD in December 1994. The...
 tags: [1990s, dynamix, sierra, standalone]
 ---
 # Bouncers
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

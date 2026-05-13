@@ -10,14 +10,14 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-05-11'
 description: 'Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded is a
   2013 HD remake of Al Lowe''s classic 1987 Sierra adventure game. The project was...'
 tags: [2010s, adventure, al-lowe, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -5,11 +5,11 @@ birth_year: 1955
 death_year: null
 notable_games: ["Quest for Glory series", "Castle of Dr. Brain", "Hero-U: Rogue to Redemption"]
 companies: ["Sierra On-Line", "Transolar Games"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Corey Cole
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

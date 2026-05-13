@@ -5,11 +5,11 @@ birth_year: 1956
 death_year: null
 notable_games: ["The Incredible Machine", "Rise of the Dragon", "The Adventures of Willy Beamish", "3-D Ultra Pinball", "Starsiege: Tribes"]
 companies: ["Dynamix", "Jeff Tunnell Productions", "GarageGames", "PushButton Labs", "Spotkin"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Jeff Tunnell
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

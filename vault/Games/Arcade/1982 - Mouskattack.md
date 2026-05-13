@@ -10,14 +10,14 @@ series: Standalone
 engine: Machine Language
 protagonist: Larry Bain
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-08'
 description: Mouskattack is an action arcade game developed and published by On-Line
   Systems (later Sierra On-Line) in 1982. The game is a Pac-Man variant that casts...
 tags: [1980s, sierra, standalone]
 ---
 # Mouskattack
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

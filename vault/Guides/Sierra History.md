@@ -1,11 +1,11 @@
 ---
 title: "Sierra On-Line History"
 type: guide
-last_updated: "2026-01-31"
+last_updated: "2026-05-08"
 ---
 # Sierra On-Line: The Complete History
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 Sierra Entertainment, Inc. (formerly On-Line Systems and Sierra On-Line, Inc.) was an American video game developer and publisher that pioneered the graphic adventure game genre. Founded in 1979 by husband-and-wife team [[Ken Williams]] and [[Roberta Williams]], Sierra became synonymous with interactive storytelling before its dissolution in 2008. At its peak, Sierra employed nearly 1,000 people[^ref-1] and published some of the most influential games in computer entertainment history.
 

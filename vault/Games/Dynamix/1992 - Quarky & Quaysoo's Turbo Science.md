@@ -10,14 +10,14 @@ series: Sierra Discovery Series
 engine: Dynamix Game Development System (DGDS)
 protagonist: Quarky O'Ghandi / Quaysoo O'Ghandi
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-05-08'
 description: Quarky & Quaysoo's Turbo Science is an educational puzzle game developed
   by Jeff Tunnell Productions and released by Sierra On-Line in 1992 as part of the...
 tags: [1990s, dgds, educational, sierra, sierra-discovery-series]
 ---
 # Quarky & Quaysoo's Turbo Science
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

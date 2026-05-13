@@ -7,12 +7,12 @@ first_release: 1989
 last_release: 1992
 total_games: 2
 genre: "Adventure, Mystery"
-last_updated: "2026-01-30"
+last_updated: "2026-05-13"
 ---
 
 # Laura Bow Series
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

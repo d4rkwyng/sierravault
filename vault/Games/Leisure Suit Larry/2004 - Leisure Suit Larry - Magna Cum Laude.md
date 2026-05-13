@@ -10,14 +10,14 @@ series: Leisure Suit Larry
 engine: Proprietary (High Voltage Hot Rod)
 protagonist: Larry Lovage
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-05-13'
 description: 'Leisure Suit Larry: Magna Cum Laude is the seventh installment in the
   long-running Leisure Suit Larry series, released in October 2004 for Windows,...'
 tags: [2000s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Magna Cum Laude
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

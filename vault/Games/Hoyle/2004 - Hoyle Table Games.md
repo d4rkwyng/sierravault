@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-13'
 description: Hoyle Table Games 2004 represents a continuation of Sierra's long-running
   Hoyle series, which began in 1989 and was named after the 18th century playing...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Table Games 2004
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

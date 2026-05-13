@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: Unity 5
 protagonist: Gabriel Knight
 sierra_lineage: Post-Sierra
-last_updated: '2026-03-20'
+last_updated: '2026-05-13'
 composer: [Robert Holmes]
 description: 'Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition is a
  comprehensive remake of Jane Jensen''s acclaimed 1993 supernatural adventure game,...'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition
 
-<small style="color: gray">Last updated: March 20, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

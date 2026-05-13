@@ -10,7 +10,7 @@ series: Cohort
 engine: Proprietary (Impressions)
 protagonist: Roman Legion Commander
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-02-02'
+last_updated: '2026-05-11'
 description: 'Cohort: Fighting for Rome is a real-time tactical war game developed
   by Impressions Games and released in 1991 for DOS, Amiga, and Atari ST platforms.
   The...'
@@ -18,7 +18,7 @@ tags: [1990s, cohort, impressions, sierra, strategy]
 ---
 # Cohort: Fighting for Rome
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

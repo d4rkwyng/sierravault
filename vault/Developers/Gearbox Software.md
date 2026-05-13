@@ -6,11 +6,11 @@ defunct: null
 headquarters: "Frisco, Texas, USA"
 notable_games: ["Borderlands", "Half-Life: Opposing Force", "Brothers in Arms"]
 parent_company: "Take-Two Interactive"
-last_updated: "2026-01-28"
+last_updated: "2026-05-08"
 ---
 # Gearbox Software
 
-<small style="color: gray">Last updated: January 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

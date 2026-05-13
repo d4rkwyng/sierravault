@@ -10,7 +10,7 @@ series: Standalone
 engine: 6502 Assembly
 protagonist: Drill Bit/Robotic Arm
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-05-13'
 composer: [Ken Allen]
 description: Oil's Well is an arcade-style maze game developed and published by Sierra
   On-Line, originally released in 1983 for multiple home computer platforms. The...
@@ -18,7 +18,7 @@ tags: [1980s, sierra, standalone]
 ---
 # Oil's Well
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

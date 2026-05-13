@@ -10,7 +10,7 @@ series: Hoyle Card Games
 engine: Proprietary (Windows)
 protagonist: Player-created avatar
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 composer: [Mike Caviezel]
 description: Hoyle Card Games 2005 is a comprehensive digital card game collection
   released by Sierra On-Line in September 2004 for Windows PC, with additional versions...
@@ -18,7 +18,7 @@ tags: [2000s, hoyle-card-games, sierra]
 ---
 # Hoyle Card Games 2005
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

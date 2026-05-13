@@ -10,14 +10,14 @@ series: Lost in... (spiritual)
 engine: Gob
 protagonist: Max Gardner
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-01-10'
+last_updated: '2026-05-08'
 description: Urban Runner is an interactive movie adventure game developed by Coktel
   Vision and published by Sierra On-Line in 1996. Spanning four CD-ROMs and marketed...
 tags: [1990s, adventure, coktel, lost-in-spiritual, sierra]
 ---
 # Urban Runner
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: N/A
 engine: AIL / Miles Sound System
 protagonist: Player-controlled faction leader
 sierra_lineage: Sierra Published
-last_updated: '2026-01-27'
+last_updated: '2026-05-11'
 composer: [Christopher J. Denman]
 description: Global Domination is a turn-based strategy game developed and published
   by Impressions Games in 1993 for DOS and Amiga platforms. The game is modeled...
@@ -18,7 +18,7 @@ tags: [1990s, n-a, sierra, strategy]
 ---
 # Global Domination
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

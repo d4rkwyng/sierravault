@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Front Page Sports: Football Pro '97", "Red Baron 3D", "Front Page Sports: Baseball Pro '98"]
 companies: ["Burnsville-Eagan-Savage Schools", "Spartz"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Doug Johnson
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

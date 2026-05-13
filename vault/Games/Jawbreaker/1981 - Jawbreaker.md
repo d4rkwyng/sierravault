@@ -10,14 +10,14 @@ series: Jawbreaker
 engine: Machine Language
 protagonist: Animated Jaws/Teeth
 sierra_lineage: Core Sierra
-last_updated: '2026-01-10'
+last_updated: '2026-03-27'
 description: Jawbreaker is a maze-chase action game originally developed by John Harris
   for the Atari 8-bit computers and published by On-Line Systems (later Sierra...
 tags: [1980s, jawbreaker, sierra]
 ---
 # Jawbreaker
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

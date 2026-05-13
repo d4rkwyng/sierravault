@@ -7,12 +7,12 @@ first_release: 1984
 last_release: 2015
 total_games: 10
 genre: "Adventure"
-last_updated: "2026-01-12"
+last_updated: "2026-05-13"
 ---
 
 # King's Quest Series
 
-<small style="color: gray">Last updated: January 12, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

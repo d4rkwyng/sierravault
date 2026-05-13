@@ -1,11 +1,11 @@
 ---
 title: "Sierra Music and Composers"
 type: guide
-last_updated: "2026-01-31"
+last_updated: "2026-05-08"
 ---
 # Sierra Music and Composers
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 Sierra On-Line's approach to video game music helped legitimize the medium as an artistic form. From the bleeps and bloops of early PC speakers to full orchestral recordings, Sierra's audio evolution paralleled—and often led—the industry's technological advancement.
 

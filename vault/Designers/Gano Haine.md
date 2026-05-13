@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["EcoQuest: The Search for Cetus", "EcoQuest: Lost Secret of the Rainforest", "Pepper's Adventures in Time"]
 companies: ["Sierra Online"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Gano Haine
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

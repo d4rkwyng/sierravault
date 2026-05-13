@@ -10,14 +10,14 @@ series: Standalone
 engine: Native DOS
 protagonist: Agent Cougar
 sierra_lineage: Sierra Published
-last_updated: '2026-01-11'
+last_updated: '2026-05-08'
 description: Cougar Force is a multi-genre action game released in 1990, developed
   by MDO (a division of Coktel Vision) and published by Tomahawk. The game places...
 tags: [1990s, sierra, standalone]
 ---
 # Cougar Force
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

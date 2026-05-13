@@ -10,14 +10,14 @@ series: Order of the Thorne
 engine: Adventure Game Studio
 protagonist: Patrick (Addy)
 sierra_lineage: Fan Project
-last_updated: '2026-01-16'
+last_updated: '2026-05-08'
 description: '**Order of the Thorne: Fortress of Fire** is an unreleased point-and-click
   adventure game developed by Infamous Quests, intended as the second and likely...'
 tags: [adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: Fortress of Fire
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

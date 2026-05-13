@@ -10,7 +10,7 @@ series: Thexder
 engine: Proprietary (Game Arts)
 protagonist: Fire Hawk
 sierra_lineage: Sierra Published
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: 'Fire Hawk: Thexder - The Second Contact is a run and gun action game
   developed by Game Arts and published by Sierra On-Line for Western markets. Released
   in...'
@@ -18,7 +18,7 @@ tags: [1980s, shooter, sierra, thexder]
 ---
 # Fire Hawk: Thexder - The Second Contact
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -6,11 +6,11 @@ defunct: 2004
 headquarters: "Watertown, Massachusetts"
 notable_games: ["Indianapolis 500: The Simulation", "NASCAR Racing", "IndyCar Racing"]
 parent_company: "Sierra On-Line (1995-2004)"
-last_updated: "2026-01-15"
+last_updated: "2026-05-08"
 ---
 # Papyrus Design Group
 
-<small style="color: gray">Last updated: January 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

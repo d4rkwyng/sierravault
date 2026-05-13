@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: Wanako Engine
 protagonist: Customizable Golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 description: 3-D Ultra MiniGolf Adventures 2 is a sports game developed by Wanako
  Games and published by Sierra Entertainment, released in September 2010 for Xbox
  Live...
@@ -19,7 +19,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra MiniGolf Adventures 2
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

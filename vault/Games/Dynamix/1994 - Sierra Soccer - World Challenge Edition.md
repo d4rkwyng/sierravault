@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary (Dynamix)
 protagonist: Soccer Team (player-controlled)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-04-22'
+last_updated: '2026-05-13'
 composer: [Charles Callet]
 description: '*Sierra Soccer: World Challenge Edition* is an arcade-style soccer simulation
   developed by Dynamix with assistance from Coktel Vision, published by Sierra...'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, sierra, standalone]
 ---
 # Sierra Soccer: World Challenge Edition
 
-<small style="color: gray">Last updated: April 22, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

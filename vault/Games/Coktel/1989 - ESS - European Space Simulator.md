@@ -10,7 +10,7 @@ series: E.S.S.
 engine: Coktel's game engine
 protagonist: Space shuttle commander
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-01-11'
+last_updated: '2026-03-27'
 description: E.S.S. (European Space Simulator) is a space shuttle simulation game
   developed by Coktel Vision and Inférence, published by Tomahawk in 1989. Described
   as...
@@ -18,7 +18,7 @@ tags: [1980s, coktel, e-s-s, sierra, simulation]
 ---
 # E.S.S.: European Space Simulator
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

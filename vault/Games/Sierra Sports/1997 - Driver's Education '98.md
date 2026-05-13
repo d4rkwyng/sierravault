@@ -10,14 +10,14 @@ series: Sierra's Driver's Education
 engine: Proprietary (Dynamix)
 protagonist: Student Driver
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Driver's Education '98 is an educational driving simulator developed
   by Dynamix and published by Sierra On-Line, with development beginning in 1997 and...
 tags: [1990s, educational, sierra, sierra-s-driver-s-education, simulation]
 ---
 # Driver's Education '98
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

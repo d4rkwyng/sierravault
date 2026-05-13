@@ -1,14 +1,14 @@
 ---
 title: "Audio and Music Technology"
 type: technology
-last_updated: "2026-05-12"
+last_updated: "2026-05-13"
 description: "Sierra's audio and music technology evolution: PC speaker → AdLib → Roland MT-32 → General MIDI → CD audio → orchestral scores. The technical and creative arc behind one of computer gaming's most ambitious music programs."
 tags: [technology, audio, music, midi, mt-32, adlib, cd-audio]
 ---
 
 # Audio and Music Technology
 
-<small style="color: gray">Last updated: May 12, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

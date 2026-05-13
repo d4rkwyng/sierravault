@@ -11,14 +11,14 @@ series: Standalone
 engine: Proprietary (Windows)
 protagonist: Space Entrepreneur
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-13'
 description: Space Bucks is a space-based business simulation game where players take
   on the role of a budding entrepreneur attempting to build the biggest and most...
 tags: [1990s, sierra, simulation, standalone]
 ---
 # Space Bucks
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

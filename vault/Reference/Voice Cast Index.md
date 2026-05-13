@@ -1,14 +1,14 @@
 ---
 title: "Voice Cast Index"
 type: reference
-last_updated: "2026-05-12"
+last_updated: "2026-05-13"
 description: "Voice actors who appeared in multiple Sierra games, indexed by performer with their Sierra-catalogue credits. Covers Hollywood A-list talent through staff voice actors."
 tags: [reference, voice-acting, cast, performers]
 ---
 
 # Voice Cast Index
 
-<small style="color: gray">Last updated: May 12, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

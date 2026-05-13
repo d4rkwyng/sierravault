@@ -10,7 +10,7 @@ series: Spelling Tricks
 engine: null
 protagonist: Player Character (guided by Yobi)
 sierra_lineage: Sierra Label (Discovery)
-last_updated: '2026-01-30'
+last_updated: '2026-05-08'
 composer: [Gordon van Ekström]
 description: Spelling Jungle is an educational adventure game developed by Bright
   Star Technology and published by Sierra On-Line in 1993 for Windows 3.x and Macintosh...
@@ -18,7 +18,7 @@ tags: [1990s, educational, sierra, spelling-tricks]
 ---
 # Spelling Jungle
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -1,11 +1,11 @@
 ---
 title: "Playing Sierra Games Today"
 type: guide
-last_updated: "2026-01-31"
+last_updated: "2026-05-08"
 ---
 # Playing Sierra Games Today
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 A comprehensive guide to running Sierra's classic games on modern computers, consoles, and handhelds.[^ref-1] Whether you're revisiting childhood favorites or discovering these adventures for the first time, this guide will get you playing.[^ref-7]
 

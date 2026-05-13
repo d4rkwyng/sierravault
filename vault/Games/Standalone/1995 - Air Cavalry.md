@@ -10,14 +10,14 @@ series: ''
 engine: Mode 7
 protagonist: Helicopter Pilot
 sierra_lineage: Sierra Published
-last_updated: '2026-01-10'
+last_updated: '2026-05-11'
 description: Air Cavalry is a helicopter combat flight simulation game developed by
   Synergistic Software and published by Cybersoft for the Super Nintendo Entertainment...
 tags: [1990s, sierra, simulation]
 ---
 # Air Cavalry
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

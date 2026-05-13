@@ -5,11 +5,11 @@ founded: 1985
 defunct: 2005
 headquarters: "Paris, France"
 parent_company: "Sierra On-Line (acquired 1993)"
-last_updated: "2026-01-17"
+last_updated: "2026-05-08"
 ---
 # Coktel Vision
 
-<small style="color: gray">Last updated: January 17, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

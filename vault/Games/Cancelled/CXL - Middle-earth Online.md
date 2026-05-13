@@ -10,14 +10,14 @@ series: The Lord of the Rings
 engine: Turbine MMO Engine (planned)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-16'
+last_updated: '2026-05-08'
 description: Middle Earth Online (also known as MEO) was an ambitious massively multiplayer
   online role-playing game based on J.R.R. Tolkien's Middle-earth that was...
 tags: [rpg, sierra, the-lord-of-the-rings]
 ---
 # Middle Earth Online
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

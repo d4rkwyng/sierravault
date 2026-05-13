@@ -10,7 +10,7 @@ series: Playtoons
 engine: Gob
 protagonist: Spirou and Fantasio
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 composer: [Charles Callet]
 description: 'Playtoons 2: The Case of the Counterfeit Collaborator is an interactive
   storybook and creativity game developed by Coktel Vision and published by Sierra...'
@@ -18,7 +18,7 @@ tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 2: The Case of the Counterfeit Collaborator
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

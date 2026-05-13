@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Unnamed protagonist
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-13'
 description: Mystery House is a landmark adventure game released by On-Line Systems
   on May 5, 1980. Designed, written, and illustrated by Roberta Williams and programmed...
 tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #1: Mystery House
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

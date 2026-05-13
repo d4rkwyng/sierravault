@@ -10,7 +10,7 @@ series: Hoyle Official Book of Games
 engine: SCI1
 protagonist: Player-selected avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-05-08'
 composer: [Robert Atesalp]
 description: Hoyle Official Book of Games Volume 3, subtitled "Great Board Games,"
   is the third installment in Sierra On-Line's popular series of computer adaptations
@@ -19,7 +19,7 @@ tags: [1990s, hoyle-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 3
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

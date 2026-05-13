@@ -10,14 +10,14 @@ series: Space Quest (Fan Game)
 engine: Adventure Game Interpreter (AGI)
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-01-10'
+last_updated: '2026-03-27'
 description: 'Space Quest 0: Replicated is a fan-made prequel to Sierra On-Line''s
   beloved Space Quest series, created by Jeff Stewart and released in 2003. The game...'
 tags: [2000s, adventure, agi, sierra, space-quest-fan-game]
 ---
 # Space Quest 0: Replicated
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

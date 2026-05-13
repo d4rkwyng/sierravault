@@ -10,14 +10,14 @@ series: Metaltech
 engine: 3Space / Sound Operating System
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-11'
 description: 'The **Metaltech Earthsiege Speech Pack** was an add-on expansion released
   by Dynamix in 1994 that enhanced the original Metaltech: Earthsiege with digitized...'
 tags: [1990s, metaltech, sierra, simulation, two-guys]
 ---
 # Metaltech Earthsiege Speech Pack
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Hoyle
 engine: Miles Sound System
 protagonist: N/A
 sierra_lineage: Post-Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 description: Hoyle Board Games 2005 is a comprehensive collection of classic board
   and table games developed by Sierra On-Line and published by Encore Software for...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Board Games 2005
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks
 engine: SCI1.1
 protagonist: Robin Hood
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: 'Crazy Nick''s Software Picks: Robin Hood''s Games of Skill and Chance
   is a mini-game compilation released by Sierra On-Line in 1992 for DOS. The game
   features...'
@@ -18,7 +18,7 @@ tags: [1990s, crazy-nick-s-software-picks, sci, sierra, strategy]
 ---
 # Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

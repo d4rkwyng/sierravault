@@ -10,7 +10,7 @@ series: Sierra Attractions
 engine: Funnybone Racing Engine
 protagonist: Racing Driver
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-13'
 description: '**Eat My Dust** is a 3D go-kart racing game developed by Davidson &
   Associates'' Funnybone Interactive and Van Duyne Engineering, published by Sierra
   On-Line...'
@@ -18,7 +18,7 @@ tags: [1990s, racing, sierra, sierra-attractions]
 ---
 # Eat My Dust
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Standalone
 engine: Apple II Assembly
 protagonist: Various (compilation)
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-13'
 description: Laf Pak is a compilation of four action games developed by Chuck Bueche
   and published by On-Line Systems for the Apple II in 1982. The collection bundles...
 tags: [1980s, sierra, standalone]
 ---
 # Laf Pak
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

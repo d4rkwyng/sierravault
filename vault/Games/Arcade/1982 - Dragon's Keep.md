@@ -10,14 +10,14 @@ series: Hi-Res Learning
 engine: The Graphics Magician
 protagonist: Unnamed Child
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-08'
 description: Dragon's Keep is a children's educational adventure game originally developed
   by SunnySide Soft and later published by Sierra On-Line. The game was designed...
 tags: [1980s, adventure, agi, al-lowe, hi-res-learning, sierra]
 ---
 # Dragon's Keep
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

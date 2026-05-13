@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V: Absence Makes the Heart Go Yonder", "Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work", "Space Quest IV: Roger Wilco and the Time Rippers", "Conquests of Camelot: The Search for the Grail", "Quest for Glory II: Trial by Fire"]
 companies: ["Sierra On-Line", "SikhNet", "Sun & Son"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Guruka Singh Khalsa
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

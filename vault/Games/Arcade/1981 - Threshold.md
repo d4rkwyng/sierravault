@@ -11,14 +11,14 @@ series: Arcade
 engine: Machine Language
 protagonist: Spaceship Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: Threshold is a space-themed fixed shooter developed by On-Line Systems
   (later Sierra On-Line) and released in 1981 for the Apple II, making it one of the...
 tags: [1980s, arcade, shooter, sierra]
 ---
 # Threshold
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

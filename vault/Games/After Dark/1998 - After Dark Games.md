@@ -10,14 +10,14 @@ series: After Dark
 engine: Native Windows/Mac
 protagonist: N/A
 sierra_lineage: Sierra Label (Sierra Attractions)
-last_updated: '2026-04-15'
+last_updated: '2026-05-11'
 description: After Dark Games represents a unique entry in Sierra's catalog - a collection
   of eleven mini-games based on the beloved After Dark screensaver series....
 tags: [1990s, after-dark, puzzle, sierra]
 ---
 # After Dark Games
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

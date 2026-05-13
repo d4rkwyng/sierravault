@@ -12,14 +12,14 @@ protagonist: Johnny Castaway
 sierra_lineage: Sierra Label (Dynamix)
 series: Johnny Castaway
 created: 2026-02-12
-last_updated: '2026-04-15'
+last_updated: '2026-05-08'
 description: 'Johnny Castaway is a screensaver from 1992 that depicts a man stranded on a desert island, telling an ongoing narrative that unfolds over approximately 120 days of real-world time.'
 tags: [screensaver, dynamix, sierra]
 ---
 
 # Johnny Castaway
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

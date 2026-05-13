@@ -10,14 +10,14 @@ series: Quest for Infamy
 engine: Adventure Game Studio
 protagonist: Mr. Roehm
 sierra_lineage: Spiritual Successor
-last_updated: '2026-02-04'
+last_updated: '2026-05-08'
 description: '*Quest for Infamy: Roehm to Ruin* is a point-and-click adventure RPG
   developed by Infamous Quests serving as a prequel to their 2014 title *Quest for...'
 tags: [2020s, adventure, quest-for-infamy, rpg, sierra]
 ---
 # Quest for Infamy: Roehm to Ruin
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

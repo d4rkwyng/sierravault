@@ -10,14 +10,14 @@ series: Police Quest
 engine: AGI
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-02-02'
+last_updated: '2026-05-11'
 description: 'Police Quest: In Pursuit of the Death Angel stands as a pioneering
   entry in Sierra On-Line''s adventure game catalog, representing one of the company''s...'
 tags: [1980s, adventure, agi, police-quest, sierra]
 ---
 # Police Quest: In Pursuit of the Death Angel
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

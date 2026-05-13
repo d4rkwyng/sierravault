@@ -6,11 +6,11 @@ defunct: null
 headquarters: "Torrance, California, USA"
 notable_games: ["JumpStart Series", "3D Body Adventure", "Space Adventure"]
 parent_company: "JumpStart Games"
-last_updated: "2026-01-15"
+last_updated: "2026-05-08"
 ---
 # Knowledge Adventure
 
-<small style="color: gray">Last updated: January 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Mixed-Up Mother Goose
 engine: AGI
 protagonist: Player-created child character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Mixed-Up Mother Goose is a classic educational adventure game designed
   by Roberta Williams and developed by Sierra On-Line, originally released in November...
 tags: [1980s, agi, educational, mixed-up-mother-goose, roberta-williams, sierra]
 ---
 # Mixed-Up Mother Goose
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

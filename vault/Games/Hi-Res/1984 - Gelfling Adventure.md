@@ -10,14 +10,14 @@ series: Hi-Res Adventures
 engine: Custom (Al Lowe's menu interpreter)
 protagonist: Jen
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: Gelfling Adventure is an adventure game developed and published by Sierra
   On-Line in 1984 for the Apple II. Designed and programmed by Al Lowe, the game is...
 tags: [1980s, adventure, al-lowe, hi-res-adventures, sierra]
 ---
 # Gelfling Adventure
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

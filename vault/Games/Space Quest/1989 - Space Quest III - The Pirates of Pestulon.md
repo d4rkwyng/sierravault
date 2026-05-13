@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI0
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-05-08'
 description: 'Space Quest III: The Pirates of Pestulon is a graphic adventure game
   developed and published by Sierra On-Line, released on March 24, 1989 for MS-DOS,
   with...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest III: The Pirates of Pestulon
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 Space Quest III: The Pirates of Pestulon is a graphic adventure game developed and published by [[Sierra On-Line]], released on March 24, 1989 for MS-DOS, with the Atari ST port coming out in April, the Amiga version in October, and the Macintosh version in 1991[^ref-2][^ref-5].

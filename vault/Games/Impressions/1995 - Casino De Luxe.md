@@ -10,7 +10,7 @@ series: Casino Deluxe
 engine: Impressions Engine
 protagonist: N/A (Player)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-02-02'
+last_updated: '2026-05-11'
 composer: ['Jeremy A. Bell, Jay Rinaldi']
 description: Casino De Luxe is a casino gambling simulation game developed and published
   by Impressions Games in 1995 for Windows 3.x platforms. Conceived by Impressions...
@@ -18,7 +18,7 @@ tags: [1990s, casino-deluxe, impressions, sierra]
 ---
 # Casino De Luxe
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

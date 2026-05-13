@@ -5,11 +5,11 @@ birth_year: 1952
 death_year: null
 notable_games: ["King's Quest IV", "King's Quest V", "Quest for Glory I VGA", "Space Quest IV", "The Colonel's Bequest"]
 companies: ["Sierra On-Line", "Westwood Studios"]
-last_updated: "2026-02-13"
+last_updated: "2026-05-08"
 ---
 # Jerry Moore
 
-<small style="color: gray">Last updated: February 13, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

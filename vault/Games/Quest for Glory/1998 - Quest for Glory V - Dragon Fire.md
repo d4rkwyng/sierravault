@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: Custom 3D
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-02-12'
+last_updated: '2026-05-08'
 composer: [Chance Thomas]
 description: 'Quest for Glory V: Dragon Fire is the fifth and final game in the Quest
   for Glory series, developed by Yosemite Entertainment and published by Sierra FX
@@ -19,7 +19,7 @@ tags: [1990s, coles, quest-for-glory, rpg, sierra]
 ---
 # Quest for Glory V: Dragon Fire
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 Quest for Glory V: Dragon Fire is the fifth and final game in the Quest for Glory series, developed by Yosemite Entertainment and published by Sierra FX on December 8, 1998 for Windows[^ref-1][^ref-2][^ref-32].

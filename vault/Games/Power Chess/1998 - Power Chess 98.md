@@ -10,7 +10,7 @@ series: Power Chess
 engine: WChess
 protagonist: Player
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-05-08'
 composer: [Guy Whitmore]
 description: Power Chess 98 is an updated version of the original Power Chess, released
   by Sierra On-Line in November 1997 for Windows 95 and Windows 98 platforms. The...
@@ -18,7 +18,7 @@ tags: [1990s, power-chess, sierra]
 ---
 # Power Chess 98
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

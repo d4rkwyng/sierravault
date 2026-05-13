@@ -10,7 +10,7 @@ series: B.C.
 engine: 6502 Assembly
 protagonist: Thor
 sierra_lineage: Sierra Published
-last_updated: '2026-01-23'
+last_updated: '2026-05-13'
 description: B.C.'s Quest for Tires is a 1983 side-scrolling action game based on
   Johnny Hart's popular newspaper comic strip *B.C.*, published by Sierra On-Line
   and...
@@ -18,7 +18,7 @@ tags: [1980s, b-c, sierra]
 ---
 # B.C.'s Quest for Tires
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

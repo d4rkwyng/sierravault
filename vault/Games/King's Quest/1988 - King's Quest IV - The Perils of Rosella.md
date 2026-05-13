@@ -10,7 +10,7 @@ series: King's Quest
 engine: AGI/SCI0
 protagonist: Princess Rosella
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 composer: [William Goldstein]
 description: 'King''s Quest IV: The Perils of Rosella marked a watershed moment in
   gaming history when it launched in September 1988. As the first PC game to support
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest IV: The Perils of Rosella
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

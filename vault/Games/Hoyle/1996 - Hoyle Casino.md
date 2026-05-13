@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: Proprietary (Windows)
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-05-11'
 composer: [Evan Schiller]
 description: Hoyle Casino is a casino simulation video game series originally developed
   and published by Sierra On-Line beginning in 1996, marking a significant...
@@ -18,7 +18,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Casino
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

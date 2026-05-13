@@ -10,7 +10,7 @@ series: Hero-U
 engine: Unity
 protagonist: Shawn O'Conner
 sierra_lineage: Post-Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 composer: [Ryan Grogan]
 description: 'Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing
   game created by Lori Ann Cole and Corey Cole, the legendary designers behind...'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, coles, hero-u, rpg, sierra]
 ---
 # Hero-U: Rogue to Redemption
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

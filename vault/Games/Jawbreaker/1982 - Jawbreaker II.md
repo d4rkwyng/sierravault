@@ -10,14 +10,14 @@ series: Jawbreaker
 engine: Machine Language
 protagonist: Happy Face character
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-04-21'
 description: Jawbreaker II is an arcade-style maze game developed by Chuck Bueche
   (credited as "Chuckles") for On-Line Systems in 1982. Unlike the original Jawbreaker,...
 tags: [1980s, jawbreaker, sierra]
 ---
 # Jawbreaker II
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: April 21, 2026</small>
 
 ## Overview
 

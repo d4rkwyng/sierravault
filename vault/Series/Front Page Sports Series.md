@@ -7,12 +7,12 @@ first_release: 1992
 last_release: 1999
 total_games: 14
 genre: "Sports Simulation"
-last_updated: "2026-05-12"
+last_updated: "2026-05-13"
 ---
 
 # Front Page Sports Series
 
-<small style="color: gray">Last updated: May 12, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Disney Educational Series
 engine: Pre-AGI
 protagonist: Mickey Mouse
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-05-11'
 composer: [Al Lowe]
 description: Mickey's Space Adventure is a graphic adventure computer game developed
   by Sierra On-Line in collaboration with Walt Disney Computer Software, released
@@ -20,7 +20,7 @@ tags: [1980s, agi, al-lowe, disney-educational-series, educational, roberta-will
 ---
 # Mickey's Space Adventure
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

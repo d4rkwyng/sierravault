@@ -10,7 +10,7 @@ series: 3-D Ultra Pinball
 engine: Custom Pinball Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-02-13'
+last_updated: '2026-03-27'
 composer: [LoudMouth Productions]
 description: 3-D Ultra Pinball is a pinball simulation game developed by Dynamix and
   published by Sierra On-Line in 1995. The game represented Sierra's first major entry...
@@ -19,7 +19,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra Pinball
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Dr. Brain
 engine: Sierra Educational Engine
 protagonist: Dr. Brain
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-08'
 description: The Time Warp of Dr. Brain is an educational puzzle adventure game developed
   by Sierra On-Line in 1996. The fourth installment in the Dr. Brain series, the...
 tags: [1990s, dr-brain, educational, sierra]
 ---
 # The Time Warp of Dr. Brain
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

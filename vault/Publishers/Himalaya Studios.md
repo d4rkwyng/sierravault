@@ -5,11 +5,11 @@ founded: 2004
 headquarters: "Arizona, United States"
 parent_company: null
 related_companies: ["AGD Interactive"]
-last_updated: "2026-01-17"
+last_updated: "2026-05-08"
 ---
 # Himalaya Studios
 
-<small style="color: gray">Last updated: January 17, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

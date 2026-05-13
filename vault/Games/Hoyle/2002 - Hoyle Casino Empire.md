@@ -10,7 +10,7 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-05-11'
 description: Hoyle Casino 2002 is a casino simulation game developed and published
   by Sierra On-Line in 2002, serving as the annual update to Sierra's long-running
   Hoyle...
@@ -18,7 +18,7 @@ tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2002
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

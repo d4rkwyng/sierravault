@@ -10,14 +10,14 @@ series: Hoyle Card Games
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-05-11'
 description: Hoyle Card Games 2002 represents the fifth installment in Sierra Entertainment's
   long-running series of card game compilations, continuing a tradition that...
 tags: [2000s, hoyle-card-games, sierra]
 ---
 # Hoyle Card Games 2002
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

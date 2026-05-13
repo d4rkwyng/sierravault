@@ -10,7 +10,7 @@ series: Ultima
 engine: VIC-BASIC with assembly language routines
 protagonist: Unnamed Prisoner
 sierra_lineage: Core Sierra
-last_updated: '2026-01-17'
+last_updated: '2026-03-27'
 description: '*Ultima: Escape from Mt. Drash* is an exceptionally rare dungeon-crawling
   adventure game released in 1983 exclusively for the Commodore VIC-20. Developed
   by...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, sierra, ultima]
 ---
 # Ultima: Escape from Mt. Drash
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

@@ -1,11 +1,11 @@
 ---
 title: "Where to Buy & Play"
 type: guide
-last_updated: "2026-02-02"
+last_updated: "2026-02-04"
 ---
 # Where to Buy & Play Sierra Classics
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 Legal ways to acquire Sierra games, from digital storefronts to physical collecting. Availability shifts over time; use this as a starting point. For compatibility help, see the [[Compatibility Guide]].
 

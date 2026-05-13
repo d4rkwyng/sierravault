@@ -10,7 +10,7 @@ series: Emmanuelle (loosely)
 engine: Proprietary (Coktel Vision)
 protagonist: Marc (unnamed in-game)
 sierra_lineage: Sierra Published
-last_updated: '2026-01-11'
+last_updated: '2026-05-11'
 composer: [François Peirano]
 description: 'Emmanuelle: A Game of Eroticism is an adult adventure game developed
   by Coktel Vision and published by Tomahawk in 1989. The game is loosely based on
@@ -19,7 +19,7 @@ tags: [1980s, adventure, emmanuelle-loosely, sierra]
 ---
 # Emmanuelle: A Game of Eroticism
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -1,11 +1,11 @@
 ---
 title: "Designer Index"
 type: index
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Designer Index
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 This index profiles **57 key figures** who shaped Sierra On-Line and its affiliated studios. Organized by primary role, many individuals contributed across multiple disciplines throughout their careers.
 

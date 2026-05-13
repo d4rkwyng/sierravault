@@ -1,14 +1,14 @@
 ---
 title: "Timeline 2000–present"
 type: reference
-last_updated: "2026-05-12"
+last_updated: "2026-05-13"
 description: "Post-acquisition Sierra catalog timeline — Vivendi era through Activision Blizzard mothballing, alumni studios continuing the lineage, and Microsoft Gaming acquisition. Year by year through 2026."
 tags: [reference, timeline, post-sierra-history]
 ---
 
 # Timeline 2000–present
 
-<small style="color: gray">Last updated: May 12, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Ultimate Soccer Manager
 engine: Impressions Football Engine
 protagonist: Football Club Manager
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-04-21'
 description: Ultimate Soccer Manager 2 is a comprehensive football management simulation
   game developed by Impression Games and published by Sierra On-Line in 1996. As...
 tags: [1990s, sierra, ultimate-soccer-manager]
 ---
 # Ultimate Soccer Manager 2
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: April 21, 2026</small>
 
 ## Overview
 

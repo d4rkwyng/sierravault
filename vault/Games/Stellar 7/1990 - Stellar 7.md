@@ -10,14 +10,14 @@ series: Stellar 7
 engine: 3Space
 protagonist: Raven Pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Stellar 7 is a futuristic tank simulation computer game inspired by the
   1980 arcade game Battlezone, first released in 1983 for the Apple II before being...
 tags: [1980s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar 7
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Hi-Res Sports
 engine: Machine Language
 protagonist: Football Team (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Hi-Res Football is a pioneering sports video game released in 1980 by
   On-Line Systems, the company that would later become Sierra Entertainment. Marketed
   as...
@@ -18,7 +18,7 @@ tags: [1980s, hi-res-sports, sierra]
 ---
 # Hi-Res Football
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

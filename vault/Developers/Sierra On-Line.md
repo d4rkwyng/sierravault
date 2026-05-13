@@ -6,11 +6,11 @@ defunct: 2008
 headquarters: "Oakhurst, California"
 notable_games: ["King's Quest", "Space Quest", "Leisure Suit Larry"]
 parent_company: "Activision"
-last_updated: "2026-01-15"
+last_updated: "2026-05-08"
 ---
 # Sierra On-Line
 
-<small style="color: gray">Last updated: January 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-03-27'
 description: Hoyle Texas Hold 'Em 2005 is a poker simulation game released for Windows
   in February 2005. Developed by Sierra On-Line and published by Encore Software,...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Texas Hold 'Em 2005
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

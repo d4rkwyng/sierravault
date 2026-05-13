@@ -5,11 +5,11 @@ founded: 2004
 defunct: 2012
 headquarters: "United States"
 successor_company: "Infamous Quests"
-last_updated: "2026-01-17"
+last_updated: "2026-05-08"
 ---
 # Infamous Adventures
 
-<small style="color: gray">Last updated: January 17, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

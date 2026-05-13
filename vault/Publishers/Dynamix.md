@@ -5,11 +5,11 @@ founded: 1984
 defunct: 2001
 headquarters: "Eugene, Oregon, United States"
 parent_company: "Sierra On-Line (acquired 1990)"
-last_updated: "2026-01-17"
+last_updated: "2026-05-08"
 ---
 # Dynamix
 
-<small style="color: gray">Last updated: January 17, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

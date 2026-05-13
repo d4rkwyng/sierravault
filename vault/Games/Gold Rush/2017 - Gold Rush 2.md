@@ -10,14 +10,14 @@ series: Gold Rush!
 engine: Unity
 protagonist: Jake Wilson
 sierra_lineage: Spiritual Successor
-last_updated: '2026-01-13'
+last_updated: '2026-03-27'
 description: Gold Rush! 2 is a point-and-click adventure game developed and published
   by Sunlight Games, released on April 28, 2017 for Windows, with Mac, Linux, iOS,...
 tags: [2010s, adventure, gold-rush, sierra]
 ---
 # Gold Rush! 2
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

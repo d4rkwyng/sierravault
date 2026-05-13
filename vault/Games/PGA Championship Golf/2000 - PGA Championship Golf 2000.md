@@ -13,7 +13,7 @@ series: PGA Championship Golf
 engine: TrueSwing 3
 protagonist: Golfer (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-03-26'
+last_updated: '2026-05-13'
 description: >-
   PGA Championship Golf 2000 is a critically acclaimed golf simulation developed
   by Headgate Studios for Sierra Sports, featuring the innovative TrueSwing 3
@@ -27,7 +27,7 @@ tags:
 ---
 # PGA Championship Golf 2000
 
-<small style="color: gray">Last updated: March 26, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI1.1
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-01-16'
+last_updated: '2026-05-11'
 description: 'Crazy Nick''s Software Picks: Leisure Suit Larry''s Casino is a budget
   gambling title released by Sierra On-Line on June 5, 1992 for MS-DOS. The game was
   part...'
@@ -18,7 +18,7 @@ tags: [1990s, leisure-suit-larry, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Leisure Suit Larry's Casino
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

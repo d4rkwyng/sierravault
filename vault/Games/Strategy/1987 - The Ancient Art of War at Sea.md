@@ -10,14 +10,14 @@ series: The Ancient Art of War
 engine: Proprietary (Evryware)
 protagonist: Fleet Commander (Player)
 sierra_lineage: Sierra Published
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: The Ancient Art of War at Sea is a real-time naval strategy game released
   in 1987 by Brøderbund Software, developed by Dave Murry and Barry Murry at...
 tags: [1980s, sierra, strategy, the-ancient-art-of-war]
 ---
 # The Ancient Art of War at Sea
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

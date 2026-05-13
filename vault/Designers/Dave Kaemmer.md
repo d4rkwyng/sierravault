@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Indianapolis 500", "NASCAR Racing", "Grand Prix Legends"]
 companies: ["Papyrus Design Group", "Sierra On-Line", "iRacing"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Dave Kaemmer
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

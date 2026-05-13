@@ -10,14 +10,14 @@ series: None
 engine: 6502 Assembly
 protagonist: Unnamed Miner
 sierra_lineage: Core Sierra
-last_updated: '2026-04-22'
+last_updated: '2026-05-11'
 description: Mine Shaft is an arcade-style action game developed and published by
   Sierra On-Line in 1983 for the Apple II and PC Booter platforms. The game was also...
 tags: [1980s, none, sierra]
 ---
 # Mine Shaft
 
-<small style="color: gray">Last updated: April 22, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: PGA Championship Golf
 engine: TrueSwing 3
 protagonist: Golfer (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: PGA Championship Golf 2000 Titanium Edition was a sports golf simulation
   video game developed by EA Salt Lake and published by Sierra Entertainment....
 tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf 2000 Titanium Edition
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

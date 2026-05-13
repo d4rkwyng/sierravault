@@ -10,7 +10,7 @@ series: Bucks
 engine: Impressions Engine
 protagonist: Airline CEO (Player Character)
 sierra_lineage: Sierra Published
-last_updated: '2026-01-11'
+last_updated: '2026-05-11'
 composer: [Christopher J. Denman (credited as Chris Denman on Atari ST version)]
 description: Air Bucks is a business simulation game developed and published by Impressions
   Games in 1992 that tasks players with building a successful airline empire...
@@ -18,7 +18,7 @@ tags: [1990s, bucks, sierra, simulation]
 ---
 # Air Bucks
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

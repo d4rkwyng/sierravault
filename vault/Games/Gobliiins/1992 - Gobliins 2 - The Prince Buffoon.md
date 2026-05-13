@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Gob
 protagonist: Fingus and Winkle
 sierra_lineage: Sierra Published
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 composer: [Charles Callet]
 description: 'Gobliins 2: The Prince Buffoon is a puzzle-solving adventure game developed
   by French studio Coktel Vision and published by Sierra On-Line in 1992. As the...'
@@ -18,7 +18,7 @@ tags: [1990s, gobliiins, puzzle, sierra]
 ---
 # Gobliins 2: The Prince Buffoon
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

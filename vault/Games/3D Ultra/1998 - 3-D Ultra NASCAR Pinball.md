@@ -10,7 +10,7 @@ series: 3-D Ultra Pinball
 engine: 3-D Ultra Pinball Engine (improved from Thrillride)
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-22'
+last_updated: '2026-05-13'
 description: '3-D Ultra NASCAR Pinball is a virtual pinball game that combines two
   of America''s favorite pastimes: energetic pinball and high-speed car racing. Released...'
 tags: [1990s, 3-d-ultra-pinball, dynamix, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra NASCAR Pinball
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

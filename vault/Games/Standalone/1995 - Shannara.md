@@ -10,7 +10,7 @@ series: Shannara (standalone)
 engine: Legend Entertainment's graphic adventure system
 protagonist: Jak Ohmsford
 sierra_lineage: Spiritual Successor
-last_updated: '2026-01-27'
+last_updated: '2026-05-08'
 composer: [George Alistair Sanger]
 description: Shannara is a first-person point-and-click adventure game released in
   December 1995, based on Terry Brooks' bestselling fantasy novel series of the same...
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, shannara-standalone, sierra]
 ---
 # Shannara
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: None
 engine: Proprietary (DOS)
 protagonist: Player-controlled merchant prince
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-01-27'
+last_updated: '2026-05-08'
 composer: [Christopher J. Denman]
 description: Merchant Colony is a complex strategy and business simulation game released
   in 1991 during the golden age of European computer gaming. Developed by...
@@ -18,7 +18,7 @@ tags: [1990s, impressions, none, sierra, simulation]
 ---
 # Merchant Colony
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

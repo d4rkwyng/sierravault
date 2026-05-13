@@ -1,14 +1,14 @@
 ---
 title: "ScummVM"
 type: technology
-last_updated: "2026-05-11"
+last_updated: "2026-05-13"
 description: "The cross-platform virtual machine that re-implements LucasArts' SCUMM and Sierra's AGI and SCI engines, enabling modern systems to run nearly the entire Sierra adventure catalog."
 tags: [technology, scummvm, agi, sci, preservation, emulation]
 ---
 
 # ScummVM
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

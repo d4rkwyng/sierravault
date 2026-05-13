@@ -11,7 +11,7 @@ series: Sierra Discovery Series
 engine: Unknown/unnamed
 protagonist: Player (child)
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-11'
 description: '**Ready, Set, Read with Bananas & Jack** (also rebranded as **Beginning
   Reading**) is an educational software title developed by Bright Star Technology
   and...'
@@ -19,7 +19,7 @@ tags: [1990s, educational, sierra, sierra-discovery-series]
 ---
 # Ready, Set, Read with Bananas & Jack
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

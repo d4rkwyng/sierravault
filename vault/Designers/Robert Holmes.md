@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Gabriel Knight: Sins of the Fathers", "The Beast Within: A Gabriel Knight Mystery", "Gray Matter"]
 companies: ["Sierra On-Line", "Pinkerton Road Studio", "Oberon Media"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Robert Holmes
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

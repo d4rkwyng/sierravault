@@ -10,14 +10,14 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-15'
+last_updated: '2026-05-08'
 description: Hoyle Casino 2001, also known as Hoyle Casino 6, is the sixth installment
   in Sierra Entertainment's long-running casino simulation series. Released in late...
 tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2001
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -6,11 +6,11 @@ defunct: null
 headquarters: "Austin, Texas, USA"
 notable_games: ["The Silver Lining", "Cognition: An Erica Reed Thriller", "King's Quest - Chapter I: A Knight to Remember"]
 parent_company: null
-last_updated: "2026-01-15"
+last_updated: "2026-05-08"
 ---
 # Phoenix Online Studios
 
-<small style="color: gray">Last updated: January 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

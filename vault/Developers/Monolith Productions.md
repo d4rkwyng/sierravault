@@ -6,11 +6,11 @@ defunct: 2025
 headquarters: "Kirkland, Washington, USA"
 notable_games: ["Blood", "No One Lives Forever", "F.E.A.R.", "Middle-earth: Shadow of Mordor"]
 parent_company: "Warner Bros. Games"
-last_updated: "2026-01-28"
+last_updated: "2026-05-08"
 ---
 # Monolith Productions
 
-<small style="color: gray">Last updated: January 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

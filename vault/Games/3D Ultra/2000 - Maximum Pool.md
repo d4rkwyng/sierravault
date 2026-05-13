@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-11'
 description: Maximum Pool is a pool simulation video game developed by Dynamix and
   published by Sierra On-Line under their Sierra Sports label for Windows and Dreamcast...
 tags: [2000s, 3d-ultra, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # Maximum Pool
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -11,14 +11,14 @@ series: Counter-Strike
 engine: GoldSrc
 protagonist: Counter-Terrorist Operative
 sierra_lineage: Sierra Published
-last_updated: '2026-01-10'
+last_updated: '2026-05-11'
 description: 'Counter-Strike: Condition Zero is a tactical first-person shooter released
   in March 2004, representing the only game in the Counter-Strike franchise to...'
 tags: [2000s, counter-strike, shooter, sierra]
 ---
 # Counter-Strike: Condition Zero
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

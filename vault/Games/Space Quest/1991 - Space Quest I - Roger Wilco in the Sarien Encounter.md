@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI1
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-05-08'
 description: 'Space Quest I: Roger Wilco in the Sarien Encounter is a 1991 VGA remake
   of the original 1986 Space Quest: The Sarien Encounter, developed and published
   by...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest I: Roger Wilco in the Sarien Encounter
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 Space Quest I: Roger Wilco in the Sarien Encounter is a 1991 VGA remake of the original 1986 Space Quest: The Sarien Encounter, developed and published by [[Sierra On-Line]] for MS-DOS, Amiga, and Macintosh[^ref-2][^ref-4].

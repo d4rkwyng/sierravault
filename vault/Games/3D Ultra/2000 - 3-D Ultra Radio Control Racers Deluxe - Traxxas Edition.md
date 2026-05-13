@@ -10,7 +10,7 @@ series: 3-D Ultra
 engine: 3D Ultra Engine
 protagonist: N/A (Player-controlled RC cars)
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: '3-D Ultra Radio Control Racers Deluxe: Traxxas Edition is an arcade-style
   racing game developed by Dynamix and published by Sierra On-Line in 2000. The game...'
 tags: [2000s, 3-d-ultra, racing, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: None
 engine: Proprietary (Coktel Vision)
 protagonist: Professor Arronax
 sierra_lineage: Sierra Published
-last_updated: '2026-01-22'
+last_updated: '2026-05-08'
 composer: ['René-Guy Tramis (original compositions), Johann Sebastian Bach (classical
     music)']
 description: 20,000 Leagues Under the Sea is a first-person adventure game developed
@@ -19,7 +19,7 @@ tags: [1980s, adventure, none, sierra]
 ---
 # 20,000 Leagues Under the Sea
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

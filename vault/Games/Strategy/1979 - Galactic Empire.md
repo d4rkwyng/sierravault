@@ -10,7 +10,7 @@ series: Galactic Saga
 engine: BASIC
 protagonist: Emperor Tawala
 sierra_lineage: Sierra Published
-last_updated: '2026-04-22'
+last_updated: '2026-05-11'
 description: Galactic Empire is a pioneering space strategy game released in 1979
   for the TRS-80, designed and programmed by Douglas C. Carlston . The game holds
   the...
@@ -18,7 +18,7 @@ tags: [1970s, galactic-saga, sierra, strategy]
 ---
 # Galactic Empire
 
-<small style="color: gray">Last updated: April 22, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

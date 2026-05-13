@@ -7,12 +7,12 @@ first_release: 1993
 last_release: 1998
 total_games: 3
 genre: "Role-Playing"
-last_updated: "2026-05-12"
+last_updated: "2026-05-13"
 ---
 
 # Krondor Series
 
-<small style="color: gray">Last updated: May 12, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

@@ -11,7 +11,7 @@ series: After Dark
 engine: Native Mac/Windows
 protagonist: N/A
 sierra_lineage: Sierra Published
-last_updated: '2026-04-15'
+last_updated: '2026-05-08'
 description: After Dark represents one of the most iconic screensaver collections
   in computing history, originally created by Berkeley Systems for Apple Macintosh
   in...
@@ -19,7 +19,7 @@ tags: [1980s, after-dark, puzzle, sierra]
 ---
 # After Dark
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

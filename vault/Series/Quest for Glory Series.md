@@ -7,12 +7,12 @@ first_release: 1989
 last_release: 1998
 total_games: 6
 genre: "Adventure RPG"
-last_updated: "2026-01-30"
+last_updated: "2026-05-13"
 ---
 
 # Quest for Glory Series
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

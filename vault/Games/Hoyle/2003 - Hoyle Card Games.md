@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Hoyle Card Games 2003 is a comprehensive digital card game collection
   developed and published by Sierra On-Line as part of the long-running Hoyle franchise....
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Card Games 2003
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

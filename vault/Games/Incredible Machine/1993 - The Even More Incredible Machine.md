@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: Physics simulation engine
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 composer: [Christopher Stevens]
 description: The Even More Incredible Machine is a puzzle game released in 1993 that
   expanded upon the beloved original Incredible Machine with new content while...
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, puzzle, sierra, the-incredible-machine]
 ---
 # The Even More Incredible Machine
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Take a Break!
 engine: Proprietary (DOS)
 protagonist: ''
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 composer: [Tom McMail]
 description: Take a Break! Crosswords is a puzzle video game developed by Dynamix
   and N8 Productions, published by Sierra On-Line in 1992 for Windows 3.x. The game
@@ -19,7 +19,7 @@ tags: [1990s, puzzle, sierra, take-a-break]
 ---
 # Take a Break! Crosswords
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

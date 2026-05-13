@@ -10,14 +10,14 @@ series: Standalone
 engine: Apple II Assembly
 protagonist: Gobbler (Pac-Man-like character)
 sierra_lineage: Core Sierra
-last_updated: '2026-04-22'
+last_updated: '2026-05-11'
 description: Gobbler is a Pac-Man clone developed by Olaf Lubeck and published by
   On-Line Systems for the Apple II in 1981. The game represents one of the earliest...
 tags: [1980s, sierra, standalone]
 ---
 # Gobbler
 
-<small style="color: gray">Last updated: April 22, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

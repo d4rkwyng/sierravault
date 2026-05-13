@@ -10,14 +10,14 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Post-Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-04-21'
 description: Hoyle Casino 2007 is a casino simulation video game developed and published
  by Encore Software for Microsoft Windows, released on September 11, 2006 in...
 tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2007
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: April 21, 2026</small>
 
 ## Overview
 

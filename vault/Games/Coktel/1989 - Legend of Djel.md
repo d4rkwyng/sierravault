@@ -10,7 +10,7 @@ series: Ween
 engine: C Code
 protagonist: Djel
 sierra_lineage: Sierra Published
-last_updated: '2026-01-09'
+last_updated: '2026-05-11'
 description: Legend of Djel is a fantasy adventure game released in 1989 by French
   developer Coktel Vision and published by Tomahawk, a sister company launched in
   early...
@@ -18,7 +18,7 @@ tags: [1980s, adventure, sierra, ween]
 ---
 # Legend of Djel
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

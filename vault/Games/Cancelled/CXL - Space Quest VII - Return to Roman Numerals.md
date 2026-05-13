@@ -10,14 +10,14 @@ series: Space Quest
 engine: 3D Engine (planned)
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-03-27'
 description: Space Quest VII represents one of the most lamented casualties in Sierra
   On-Line's history—a game that went through multiple development iterations between...
 tags: [adventure, sierra, space-quest, two-guys]
 ---
 # Space Quest VII
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

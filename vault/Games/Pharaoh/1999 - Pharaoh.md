@@ -10,14 +10,14 @@ series: Impressions City Building Series
 engine: Caesar III engine (modified)
 protagonist: Egyptian Governor (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-04-15'
+last_updated: '2026-04-21'
 description: Pharaoh is a city-building simulation game set in ancient Egypt, developed
   by Impressions Games and published by Sierra Studios in 1999. As the fourth game...
 tags: [1990s, impressions-city-building-series, sierra]
 ---
 # Pharaoh
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: April 21, 2026</small>
 
 ## Overview
 

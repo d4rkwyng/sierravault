@@ -6,11 +6,11 @@ defunct: 1995
 headquarters: "Olympia, Washington"
 notable_games: ["Manhunter: New York", "Manhunter: San Francisco", "Sierra Championship Boxing"]
 parent_company: "Sierra On-Line (acquired 1987)"
-last_updated: "2026-01-15"
+last_updated: "2026-05-08"
 ---
 # Evryware
 
-<small style="color: gray">Last updated: January 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

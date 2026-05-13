@@ -6,11 +6,11 @@ defunct: 2004
 headquarters: "Cambridge, Massachusetts, USA"
 notable_games: ["Caesar III", "Pharaoh", "Zeus: Master of Olympus"]
 parent_company: "Sierra On-Line (1995-2004)"
-last_updated: "2026-01-15"
+last_updated: "2026-05-08"
 ---
 # Impressions Games
 
-<small style="color: gray">Last updated: January 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

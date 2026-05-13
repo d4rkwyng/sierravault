@@ -10,14 +10,14 @@ series: Standalone
 engine: ASSM (6502 assembly)
 protagonist: Unnamed adventurer/scoundrel
 sierra_lineage: Sierra Published
-last_updated: '2026-01-11'
+last_updated: '2026-05-08'
 description: Wrath of Denethenor is a fantasy role-playing game developed by Christopher
   Crim and published by Sierra On-Line in 1986 for the Apple II and Commodore 64...
 tags: [1980s, rpg, sierra, standalone]
 ---
 # Wrath of Denethenor
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -4,12 +4,12 @@ type: guide
 topic: "Text Parser Interface"
 engines: ["AGI", "SCI0", "SCI1"]
 years_covered: "1984-1993"
-last_updated: "2026-02-07"
+last_updated: "2026-05-08"
 ---
 
 # Sierra Parser Commands Guide
 
-<small style="color: gray">Last updated: February 7, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

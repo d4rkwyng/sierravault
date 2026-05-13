@@ -10,14 +10,14 @@ series: City Building Series
 engine: Modified Caesar III engine
 protagonist: Player as Greek city governor
 sierra_lineage: Sierra Published
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: 'Zeus: Master of Olympus is a city-building simulation game set in the
   mythological world of ancient Greece, released by Sierra Studios in October 2000....'
 tags: [2000s, city-building-series, sierra]
 ---
 # Zeus: Master of Olympus
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Red Baron
 engine: Stainless™ Software Engine Technology
 protagonist: Unnamed WWI Pilot
 sierra_lineage: Sierra Published
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Red Baron Arcade is an arcade-style World War I flight combat game developed
   by Stainless Games Ltd. and published by Sierra On-Line in 2008. The game...
 tags: [2000s, red-baron, sierra, simulation]
 ---
 # Red Baron Arcade
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

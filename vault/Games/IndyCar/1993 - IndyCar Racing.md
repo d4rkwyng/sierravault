@@ -10,14 +10,14 @@ series: IndyCar Racing
 engine: AIL / Miles Sound System
 protagonist: Player (Racing Driver)
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 description: IndyCar Racing is a racing simulation video game developed by Papyrus
   Design Group and released in 1993 for MS-DOS. Following the success of their...
 tags: [1990s, indycar-racing, papyrus, racing, sierra]
 ---
 # IndyCar Racing
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

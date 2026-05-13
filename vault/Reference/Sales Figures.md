@@ -1,14 +1,14 @@
 ---
 title: "Sales Figures"
 type: reference
-last_updated: "2026-05-12"
+last_updated: "2026-05-13"
 description: "Known commercial sales data for Sierra games, with sources. Indexed by series and by sales tier."
 tags: [reference, sales, commercial, finance]
 ---
 
 # Sales Figures
 
-<small style="color: gray">Last updated: May 12, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

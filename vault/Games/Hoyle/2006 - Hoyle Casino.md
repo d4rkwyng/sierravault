@@ -10,7 +10,7 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: Player-created character
 sierra_lineage: Sierra Published
-last_updated: '2026-01-27'
+last_updated: '2026-05-11'
 description: Hoyle Casino 2006 is a comprehensive casino simulation game released
   on September 27, 2005 for Windows PC. Developed by Sierra On-Line and published
   by...
@@ -18,7 +18,7 @@ tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2006
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

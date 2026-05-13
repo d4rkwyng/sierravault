@@ -11,14 +11,14 @@ series: Standalone
 engine: Proprietary (Ybarra Productions)
 protagonist: Captain of UNS Calypso
 sierra_lineage: Sierra Published
-last_updated: '2026-04-15'
+last_updated: '2026-05-11'
 description: Alien Legacy is a science fiction real-time strategy game published by
   Sierra On-Line in 1994, developed by Ybarra Productions under the creative direction...
 tags: [1990s, sierra, standalone, strategy]
 ---
 # Alien Legacy
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

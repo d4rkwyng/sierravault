@@ -10,14 +10,14 @@ series: Shadow of Yserbius
 engine: Multiplayer graphical MUD engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-04-21'
 description: The Shadow of Yserbius was a groundbreaking graphical multi-user dungeon
   (MUD) game that originally launched on The Sierra Network in 1991. Developed by...
 tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # The Shadow of Yserbius
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: April 21, 2026</small>
 
 ## Overview
 

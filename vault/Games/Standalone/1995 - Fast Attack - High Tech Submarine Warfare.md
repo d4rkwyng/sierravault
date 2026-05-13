@@ -10,14 +10,14 @@ series: Standalone
 engine: Proprietary (DOS)
 protagonist: USS Los Angeles Class Submarine Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-08'
 description: 'Fast Attack: High Tech Submarine Warfare is a submarine combat simulation
   developed by Software Sorcery and published by Sierra On-Line in 1995 for DOS...'
 tags: [1990s, sierra, simulation, standalone]
 ---
 # Fast Attack: High Tech Submarine Warfare
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Front Page Sports
 engine: Physics-based simulation engine
 protagonist: Player-controlled team/manager
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-05-11'
 description: 'Front Page Sports: Baseball Pro ''96 Season is a simulation game developed
   by Dynamix, Inc. and published by Sierra On-Line, Inc. in 1996. The game...'
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Baseball Pro '96 Season
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

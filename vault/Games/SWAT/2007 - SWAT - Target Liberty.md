@@ -10,14 +10,14 @@ series: Police Quest/SWAT
 engine: Proprietary (PSP)
 protagonist: Kurt Wolfe
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-05-11'
 description: 'SWAT: Target Liberty is a third-person tactical shooter developed by
   3G Studios and published by Sierra Entertainment exclusively for the PlayStation...'
 tags: [2000s, police-quest-swat, shooter, sierra]
 ---
 # SWAT: Target Liberty
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

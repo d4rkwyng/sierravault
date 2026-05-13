@@ -10,14 +10,14 @@ series: Leeper
 engine: Machine Language
 protagonist: Leeper
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Learning with Leeper is an educational video game developed and published
   by Sierra On-Line in 1983, designed to teach young children fundamental concepts...
 tags: [1980s, educational, leeper, sierra]
 ---
 # Learning with Leeper
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

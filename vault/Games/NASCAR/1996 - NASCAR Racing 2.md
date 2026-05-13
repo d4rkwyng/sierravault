@@ -10,14 +10,14 @@ series: NASCAR Racing
 engine: Papyrus Racing Engine (New)
 protagonist: Player Driver
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-01-30'
+last_updated: '2026-05-08'
 description: NASCAR Racing 2 is a racing simulation video game developed by Papyrus
   Design Group and published by Sierra On-Line, released on December 9, 1996 for MS-DOS...
 tags: [1990s, nascar-racing, papyrus, racing, sierra]
 ---
 # NASCAR Racing 2
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

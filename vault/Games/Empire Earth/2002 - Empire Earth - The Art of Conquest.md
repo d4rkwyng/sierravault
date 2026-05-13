@@ -10,14 +10,14 @@ series: Empire Earth
 engine: Titan
 protagonist: Civilization Leader (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: 'Empire Earth: The Art of Conquest is the official expansion pack for
   the real-time strategy game Empire Earth, developed by Mad Doc Software and published...'
 tags: [2000s, empire-earth, sierra, strategy]
 ---
 # Empire Earth: The Art of Conquest
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

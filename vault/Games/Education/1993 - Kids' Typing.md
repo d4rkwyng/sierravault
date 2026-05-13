@@ -10,7 +10,7 @@ series: Talking Tutor
 engine: Bright Star Engine
 protagonist: Spooky the Ghost
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 composer: [Gordon van Ekström]
 description: Kid's Typing is an educational typing game released in 1993 by Sierra
   On-Line, developed by Bright Star Technology as part of the Talking Tutor series
@@ -19,7 +19,7 @@ tags: [1990s, educational, sierra, talking-tutor]
 ---
 # Kid's Typing
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

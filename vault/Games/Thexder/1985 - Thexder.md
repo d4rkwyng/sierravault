@@ -11,14 +11,14 @@ series: Thexder
 engine: Game Arts Engine
 protagonist: Thexder (transforming robot)
 sierra_lineage: Sierra Published
-last_updated: '2026-04-15'
+last_updated: '2026-05-13'
 description: Thexder is a transforming robot action game originally developed by Game
   Arts for the NEC PC-8801 computer in 1985. The game features "a hyper dual-armor...
 tags: [1980s, sierra, thexder]
 ---
 # Thexder
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

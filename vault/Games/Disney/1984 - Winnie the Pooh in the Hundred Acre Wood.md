@@ -10,14 +10,14 @@ series: Disney Edutainment Series
 engine: Troll's Tale Engine
 protagonist: Player (unnamed child)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-05-08'
 description: '*Winnie the Pooh in the Hundred Acre Wood* is an educational adventure
   game developed by Sierra On-Line in collaboration with Walt Disney Computer Software,...'
 tags: [1980s, adventure, al-lowe, disney-edutainment-series, sierra]
 ---
 # Winnie the Pooh in the Hundred Acre Wood
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

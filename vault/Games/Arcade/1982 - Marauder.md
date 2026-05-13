@@ -10,14 +10,14 @@ series: None
 engine: 6502 Assembly
 protagonist: The Marauder
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-13'
 description: '*Marauder* is a top-down arcade shooter developed by On-Line Systems
   and released in 1982 for the Apple II, Atari 2600, and Atari 8-bit computers. Designed...'
 tags: [1980s, none, shooter, sierra]
 ---
 # Marauder
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

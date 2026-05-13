@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Sound Operating System
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-22'
+last_updated: '2026-05-08'
 description: 'Front Page Sports: Football (often referred to as Front Page Sports
   Football 92 or simply FPS Football) was the inaugural entry in what would become
   one of...'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, front-page-sports, sierra]
 ---
 # Front Page Sports: Football
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

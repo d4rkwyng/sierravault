@@ -5,11 +5,11 @@ founded: 2016
 headquarters: "Frisco, Texas, United States"
 parent_company: "Embracer Group"
 related_companies: ["Gearbox Software"]
-last_updated: "2026-01-17"
+last_updated: "2026-05-08"
 ---
 # Gearbox Publishing
 
-<small style="color: gray">Last updated: January 17, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

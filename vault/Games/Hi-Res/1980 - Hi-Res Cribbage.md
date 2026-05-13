@@ -10,14 +10,14 @@ series: Hi-Res Series
 engine: Machine Language
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-04-22'
+last_updated: '2026-05-11'
 description: Hi-Res Cribbage is a single-player card game developed by Warren Schwader
   and published by On-Line Systems in 1980 for the Apple II computer. The game...
 tags: [1980s, hi-res-series, sierra]
 ---
 # Hi-Res Cribbage
 
-<small style="color: gray">Last updated: April 22, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

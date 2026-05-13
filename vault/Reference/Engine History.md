@@ -1,14 +1,14 @@
 ---
 title: "Engine History"
 type: reference
-last_updated: "2026-05-11"
+last_updated: "2026-05-13"
 description: "The technical evolution of Sierra On-Line's game engines from 1980 to 2015 — Hi-Res Adventure, AGI, SCI 0/1/1.1/2/3/32, the 3Space-derived Mask of Eternity engine, the Sci Companion era, and the post-Sierra engines used by acquired studios and the 2015 Odd Gentlemen reboot."
 tags: [reference, engines, technology, agi, sci, sci32]
 ---
 
 # Engine History
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

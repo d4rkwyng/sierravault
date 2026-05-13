@@ -10,14 +10,14 @@ series: Educational Interactive Storybooks
 engine: SCI1.1
 protagonist: Slater the Petrosaur
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-08'
 description: Slater & Charlie Go Camping is an educational interactive storybook released
   by Sierra On-Line on May 19, 1993, for MS-DOS and Macintosh platforms. The game...
 tags: [1990s, educational, educational-interactive-storybooks, sci, sierra]
 ---
 # Slater & Charlie Go Camping: A Talking Book I Can Read "All By Myself."
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

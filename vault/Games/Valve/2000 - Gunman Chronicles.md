@@ -10,14 +10,14 @@ series: Standalone
 engine: GoldSrc
 protagonist: Major Archer
 sierra_lineage: Sierra Published
-last_updated: '2026-02-04'
+last_updated: '2026-05-11'
 description: Gunman Chronicles is a first-person shooter released in November 2000
   that represents one of gaming's most remarkable mod-to-retail transformations....
 tags: [2000s, shooter, sierra, standalone]
 ---
 # Gunman Chronicles
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Adventure Game Studio
 protagonist: Oups, Asgard, and Ignatius
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: 'Gobliiins 5: The Morgloton Invasion (stylized as GOBLiiiNS 5) is a 2D
   point-and-click adventure game released in 2023, marking the long-awaited return
   of...'
@@ -18,7 +18,7 @@ tags: [2020s, adventure, coktel, gobliiins, sierra]
 ---
 # Gobliiins 5: The Morgloton Invasion
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Hero-U
 engine: Unity and Ink
 protagonist: Tilly Appleberry
 sierra_lineage: Spiritual Successor
-last_updated: '2026-01-27'
+last_updated: '2026-05-11'
 composer: [Brandon Blume]
 description: '*Summer Daze: Tilly''s Tale* is a visual novel adventure game developed
   and published by Transolar Games, released on March 28, 2023 for PC platforms and...'
@@ -18,7 +18,7 @@ tags: [2020s, coles, hero-u, sierra]
 ---
 # Summer Daze: Tilly's Tale
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 
 ## Overview

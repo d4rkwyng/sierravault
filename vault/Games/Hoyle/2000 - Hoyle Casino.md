@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-15'
+last_updated: '2026-05-11'
 composer: [Evan Schiller]
 description: Hoyle Casino 2000, also known simply as Hoyle Casino or Hoyle Casino
   5, is a comprehensive casino simulation game released by Sierra On-Line in 2000
@@ -19,7 +19,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Casino 2000
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

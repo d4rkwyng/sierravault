@@ -10,7 +10,7 @@ series: 3-D Ultra Minigolf
 engine: Wanako Engine
 protagonist: Hector, Rosie, Joe, or Kate (player-selected)
 sierra_lineage: Post-Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 description: '*3D Ultra Minigolf Adventures Deluxe* is an arcade-style miniature golf
   game developed by Wanako Games and published by Activision, released on July 23,...'
 tags: [2000s, 3-d-ultra-minigolf, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3D Ultra Minigolf Adventures Deluxe
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

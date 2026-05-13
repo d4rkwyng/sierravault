@@ -10,14 +10,14 @@ series: Papyrus Racing Simulations
 engine: Papy3D
 protagonist: Player-controlled 1967 F1 driver
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-05-11'
 description: Grand Prix Legends is a computer racing simulator developed by Papyrus
   Design Group and published by Sierra Sports on October 5, 1998. The game meticulously...
 tags: [1990s, papyrus-racing-simulations, racing, sierra]
 ---
 # Grand Prix Legends
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

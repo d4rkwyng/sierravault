@@ -10,7 +10,7 @@ series: Manhunter
 engine: Adventure Game Interpreter (AGI)
 protagonist: Unnamed Manhunter
 sierra_lineage: Sierra Published
-last_updated: '2026-01-31'
+last_updated: '2026-05-11'
 composer: [Barry Murry]
 description: 'Manhunter 2: San Francisco is a 1989 science fiction adventure game
   developed by Evryware and published by Sierra On-Line. Picking up immediately where...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, agi, manhunter, sierra]
 ---
 # Manhunter 2: San Francisco
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: SCI2.1
 protagonist: Player
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-05-11'
 composer: [Johnathan Cunningham]
 description: Hoyle Bridge is a digital adaptation of contract bridge released by Sierra
   On-Line in 1996, representing the standalone bridge-focused spinoff from Sierra's...
@@ -18,7 +18,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sci, sierra]
 ---
 # Hoyle Bridge
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

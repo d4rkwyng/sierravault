@@ -5,11 +5,11 @@ founded: 1979
 defunct: 2008
 headquarters: "Oakhurst, California / Bellevue, Washington, United States"
 parent_company: "Vivendi Universal Games (1998-2008)"
-last_updated: "2026-01-19"
+last_updated: "2026-05-08"
 ---
 # Sierra On-Line
 
-<small style="color: gray">Last updated: January 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

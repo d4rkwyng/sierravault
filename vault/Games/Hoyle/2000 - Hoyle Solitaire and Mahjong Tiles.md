@@ -10,14 +10,14 @@ series: Hoyle Series
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Hoyle Solitaire And Mahjong Tiles 2000 is a casual card and tile matching
   game released in April 2000 by Sierra On-Line as part of their long-running Hoyle...
 tags: [2000s, hoyle-series, sierra]
 ---
 # Hoyle Solitaire And Mahjong Tiles 2000
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-16'
+last_updated: '2026-03-27'
 description: Hoyle Word Games is a word puzzle compilation title released in 1999
   by Sierra On-Line as part of their long-running Hoyle series of digital board and
   card...
@@ -18,7 +18,7 @@ tags: [1990s, hoyle, puzzle, sierra]
 ---
 # Hoyle Word Games
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Custom 3D
 protagonist: Tchoup, Stucco, Perluis
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 composer: [Didier Sallustro]
 description: Gobliiins 4 is the fourth installment in the beloved puzzle-adventure
   series that began in 1991, marking the franchise's return after a fifteen-year hiatus...
@@ -18,7 +18,7 @@ tags: [2000s, gobliiins, puzzle, sierra]
 ---
 # Gobliiins 4
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

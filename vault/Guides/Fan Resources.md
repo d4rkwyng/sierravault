@@ -1,7 +1,7 @@
 ---
 title: "Fan & Community Resources"
 type: guide
-last_updated: "2026-02-12"
+last_updated: "2026-05-11"
 ---
 # Fan & Community Resources
 

@@ -10,14 +10,14 @@ series: Hi-Res Sports
 engine: Apple II Assembly
 protagonist: Soccer Team (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Hi Res Soccer was an early attempt at recreating European football on
   a computer, developed during the pioneering days of computer gaming. Released...
 tags: [1980s, hi-res-sports, sierra]
 ---
 # Hi Res Soccer
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

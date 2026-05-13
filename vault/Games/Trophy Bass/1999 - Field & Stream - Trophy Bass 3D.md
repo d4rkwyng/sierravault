@@ -10,7 +10,7 @@ series: Trophy Bass
 engine: Trophy Bass 3D Engine
 protagonist: Angler (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-13'
 composer: [': Timothy Steven Clarke']
 description: '**Field & Stream: Trophy Bass 3D** is a fishing video game developed
   by Dynamix and published by Sierra Sports for Microsoft Windows in 1999. The game...'
@@ -18,7 +18,7 @@ tags: [1990s, sierra, simulation, trophy-bass]
 ---
 # Field & Stream Trophy Bass 3D
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

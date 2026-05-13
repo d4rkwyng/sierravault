@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Sound Operating System
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-27'
+last_updated: '2026-03-27'
 description: 'Front Page Sports: Football Pro ''95 represents the third installment
   in Dynamix''s groundbreaking football simulation series, released on October 25,
   1994...'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, front-page-sports, sierra]
 ---
 # Front Page Sports: Football Pro '95
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

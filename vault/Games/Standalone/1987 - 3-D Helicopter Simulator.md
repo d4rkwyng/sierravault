@@ -10,7 +10,7 @@ series: Standalone
 engine: Custom 3D Polygon Engine
 protagonist: Apache Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-08'
 description: 3-D Helicopter Simulator is a combat flight simulation game released
   by Sierra On-Line in September 1987 for DOS systems. The game placed players in
   the...
@@ -18,7 +18,7 @@ tags: [1980s, sierra, simulation, standalone]
 ---
 # 3-D Helicopter Simulator
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 
 ## Overview

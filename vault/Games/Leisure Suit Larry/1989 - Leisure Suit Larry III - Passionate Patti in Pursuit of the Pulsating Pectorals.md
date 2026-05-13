@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI0
 protagonist: Larry Laffer / Passionate Patti
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 description: 'Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating
   Pectorals is the third installment in Sierra On-Line''s adult-oriented adventure
   game...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

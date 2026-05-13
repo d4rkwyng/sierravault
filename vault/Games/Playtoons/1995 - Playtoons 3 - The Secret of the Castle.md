@@ -10,7 +10,7 @@ series: Playtoons
 engine: Gob Engine
 protagonist: Prince Arthur
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-02-04'
+last_updated: '2026-05-11'
 composer: ['Big Wheels, Charles Callet']
 description: 'Playtoons 3: Secret of the Castle is a children''s creativity and interactive
   storybook game developed by Coktel Vision and published by Sierra On-Line in...'
@@ -18,7 +18,7 @@ tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 3: Secret of the Castle
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

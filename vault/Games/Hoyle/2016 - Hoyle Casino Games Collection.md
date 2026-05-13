@@ -10,7 +10,7 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Post-Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-08'
 description: Hoyle Official Casino Games Collection, released in 2016, represents
   the final entry in the long-running Hoyle Casino series that began in 1996 under
   Sierra...
@@ -18,7 +18,7 @@ tags: [2010s, hoyle-casino, sierra]
 ---
 # Hoyle Official Casino Games Collection
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

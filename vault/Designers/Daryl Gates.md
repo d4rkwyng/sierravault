@@ -5,11 +5,11 @@ birth_year: 1926
 death_year: 2010
 notable_games: ["Police Quest: Open Season", "Police Quest: SWAT", "Police Quest: SWAT 2"]
 companies: ["Los Angeles Police Department", "Sierra Online"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Daryl Gates
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

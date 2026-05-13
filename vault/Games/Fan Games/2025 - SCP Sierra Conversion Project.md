@@ -10,13 +10,13 @@ series: Multiple Sierra Series
 engine: SCI (Enhanced Graphics)
 protagonist: null
 sierra_lineage: Fan Project
-last_updated: '2026-04-22'
+last_updated: '2026-05-08'
 description: 'The Sierra Conversion Project (SCP) is a Spanish fan group dedicated to enhancing and remastering Sierra''s notoriously poor Amiga ports with improved graphics, palettes, and presentation.'
 tags: [2020s, amiga, enhancement, fan-project, remaster, sierra]
 ---
 # SCP - Sierra Conversion Project
 
-<small style="color: gray">Last updated: April 22, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

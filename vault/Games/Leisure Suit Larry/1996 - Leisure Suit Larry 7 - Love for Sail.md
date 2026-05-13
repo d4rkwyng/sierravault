@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI32
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 composer: [Frank Zottoli]
 description: '*Leisure Suit Larry: Love for Sail!* is the sixth and final Leisure
   Suit Larry adventure game written by series creator Al Lowe, released by Sierra
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry: Love for Sail!
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

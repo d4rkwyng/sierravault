@@ -10,14 +10,14 @@ series: Inca
 engine: Gob
 protagonist: Atahualpa
 sierra_lineage: Sierra Published
-last_updated: '2026-04-15'
+last_updated: '2026-05-08'
 description: 'Inca II: Nations of Immortality is the sequel to Inca, the surreal space
   combat/adventure game with a fantasy take on Incan mythologies. Developed by Coktel...'
 tags: [1990s, adventure, inca, sierra]
 ---
 # Inca II: Nations of Immortality
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

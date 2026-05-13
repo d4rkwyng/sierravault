@@ -7,12 +7,12 @@ first_release: 1988
 last_release: 2026
 total_games: 25
 genre: "Adventure, Edutainment, FMV"
-last_updated: "2026-05-11"
+last_updated: "2026-05-13"
 ---
 
 # Coktel Adventures Series
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Diablo
 engine: Diablo engine
 protagonist: The Hero (Warrior, Rogue, Sorcerer, or Monk)
 sierra_lineage: Sierra Label (Synergistic)
-last_updated: '2026-04-15'
+last_updated: '2026-05-11'
 composer: [Matt Uelmen (original Diablo music)]
 description: 'Diablo: Hellfire is the only official expansion pack released for Blizzard
   Entertainment''s groundbreaking 1996 action RPG Diablo. Released on November 24,...'
@@ -18,7 +18,7 @@ tags: [1990s, diablo, rpg, sierra]
 ---
 # Diablo: Hellfire
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

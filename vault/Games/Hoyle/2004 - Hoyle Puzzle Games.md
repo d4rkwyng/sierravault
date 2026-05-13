@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 description: Hoyle Puzzle Games 2004 is a compilation of puzzle and arcade games developed
   and published by Sierra On-Line, released on September 2, 2003 for Windows PC....
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Puzzle Games 2004
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

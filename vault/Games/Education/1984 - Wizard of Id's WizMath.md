@@ -10,7 +10,7 @@ series: N/A
 engine: 6502/Z80 Assembly
 protagonist: Spook
 sierra_lineage: Sierra Published
-last_updated: '2026-04-15'
+last_updated: '2026-05-13'
 composer: [Paul Butler]
 description: Wizard of Id's WizMath is an educational mathematics game released in
   1984 by Sierra On-Line, combining puzzle gameplay with characters from the beloved...
@@ -18,7 +18,7 @@ tags: [1980s, educational, n-a, sierra]
 ---
 # Wizard of Id's WizMath
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

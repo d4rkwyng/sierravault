@@ -6,12 +6,12 @@ defunct: 2002
 headquarters: "Vancouver, British Columbia, Canada"
 notable_games: ["Homeworld: Cataclysm", "Counter-Strike Beta 5", "Global Operations"]
 parent_company: "Independent (later Take-Two Interactive)"
-last_updated: "2026-01-31"
+last_updated: "2026-05-08"
 ---
 
 # Barking Dog Studios
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -5,11 +5,11 @@ birth_year: 1945
 death_year: 1994
 notable_games: ["Conquests of Camelot: The Search for the Grail", "Ringworld: Revenge of the Patriarch", "Blue Force"]
 companies: ["Sierra Entertainment, Inc.", "Interplay Entertainment Corp.", "TSR, Inc."]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Peter Ledger
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

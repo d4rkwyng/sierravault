@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: Custom engine with cell and portal technologies
 protagonist: LAPD SWAT Element Leader
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-05-11'
 composer: [Gary Spinrad]
 description: 'SWAT 3: Close Quarters Battle is a tactical squad-based first-person
   shooter that revolutionized the Police Quest franchise by transforming the series
@@ -19,7 +19,7 @@ tags: [1990s, police-quest-swat, shooter, sierra]
 ---
 # SWAT 3: Close Quarters Battle
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

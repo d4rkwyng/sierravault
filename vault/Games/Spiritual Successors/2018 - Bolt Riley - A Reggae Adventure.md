@@ -10,14 +10,14 @@ series: Bolt Riley
 engine: Unity
 protagonist: Bolt Riley
 sierra_lineage: Alumni Project
-last_updated: '2026-04-15'
+last_updated: '2026-05-11'
 composer: [Omri Lahav]
 description: 'Bolt Riley: A Reggae Adventure is a classic 2D point-and-click adventure game co-designed by Quest for Glory creators Corey and Lori Cole, following a poor Jamaican boy on his pathway to reggae stardom.'
 tags: [2010s, adventure, coles, alumni, kickstarter, reggae]
 ---
 # Bolt Riley: A Reggae Adventure
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

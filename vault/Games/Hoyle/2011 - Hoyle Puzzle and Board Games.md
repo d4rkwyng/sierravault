@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player Avatar
 sierra_lineage: Post-Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 description: Hoyle Puzzle and Board Games 2011 is a compilation of classic board games,
  card games, and puzzle games released by Encore Software for Windows and...
 tags: [2010s, hoyle, sierra]
 ---
 # Hoyle Puzzle and Board Games 2011
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

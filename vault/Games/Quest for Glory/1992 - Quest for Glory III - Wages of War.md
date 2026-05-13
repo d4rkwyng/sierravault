@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI1.1
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 composer: [Rudy Helm]
 description: 'Quest for Glory III: Wages of War is a 1992 hybrid adventure/role-playing
   game developed and published by Sierra On-Line for MS-DOS. Designed by Corey Cole...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory III: Wages of War
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 Quest for Glory III: Wages of War is a 1992 hybrid adventure/role-playing game developed and published by [[Sierra On-Line]] for MS-DOS[^ref-1][^ref-2].

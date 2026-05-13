@@ -10,14 +10,14 @@ series: K.A.A. series
 engine: Unknown
 protagonist: Player-selected fighter
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-13'
 description: CyberGladiators is a one-on-one 3D fighting game released in November
   1996 for Windows 95, developed by Dynamix, Inc. under its K.A.A. (Kicks A** Action)...
 tags: [1990s, k-a-a-series, sierra]
 ---
 # CyberGladiators
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

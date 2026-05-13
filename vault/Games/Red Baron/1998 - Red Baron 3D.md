@@ -12,14 +12,14 @@ series: Red Baron
 engine: 3-Space 2.0
 protagonist: WWI Fighter Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-13'
 description: Red Baron 3D is a World War I combat flight simulation developed by Dynamix
   and published by Sierra Entertainment in 1998. The game is essentially a heavily...
 tags: [1990s, red-baron, sierra, simulation]
 ---
 # Red Baron 3D
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

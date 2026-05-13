@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-01-15'
+last_updated: '2026-03-27'
 description: Hoyle Puzzle & Board Games 2005 is a comprehensive compilation title
   that bundled two separate Hoyle releases—Hoyle Puzzle Games and Hoyle Board Games—into...
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Puzzle & Board Games 2005
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

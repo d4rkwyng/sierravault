@@ -14,12 +14,12 @@ series: "Hoyle's Official Book of Games"
 engine: "SCI2.1"
 protagonist: "N/A (Single Player Card Game)"
 sierra_lineage: "Core Sierra"
-last_updated: "2026-03-11"
+last_updated: "2026-05-11"
 ---
 
 # Hoyle Official Book of Games Volume 5 (Hoyle Solitaire)
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

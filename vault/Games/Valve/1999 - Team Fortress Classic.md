@@ -10,7 +10,7 @@ series: Team Fortress
 engine: GoldSrc
 protagonist: Various Classes
 sierra_lineage: Sierra Published
-last_updated: '2026-01-10'
+last_updated: '2026-05-13'
 description: Team Fortress Classic is a class-based multiplayer first-person shooter
   developed and released by Valve Corporation in April 1999. Originally created as
   a...
@@ -18,7 +18,7 @@ tags: [1990s, shooter, sierra, team-fortress]
 ---
 # Team Fortress Classic
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

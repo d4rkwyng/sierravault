@@ -7,11 +7,11 @@ headquarters: "Arizona, United States"
 notable_games: ["Al Emmo and the Lost Dutchman's Mine", "Mage's Initiation: Reign of the Elements"]
 parent_company: null
 related_companies: ["AGD Interactive"]
-last_updated: "2026-01-15"
+last_updated: "2026-05-08"
 ---
 # Himalaya Studios
 
-<small style="color: gray">Last updated: January 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

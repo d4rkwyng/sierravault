@@ -10,7 +10,7 @@ series: Air Force Commander
 engine: Proprietary (Impressions)
 protagonist: Air Force Commander
 sierra_lineage: Sierra Published
-last_updated: '2026-01-27'
+last_updated: '2026-05-11'
 composer: [Christopher J. Denman]
 description: WW2 Air Force Commander is a turn-based war strategy game released in
   1993 by Impressions Games, serving as a direct follow-up to the original Air Force...
@@ -18,7 +18,7 @@ tags: [1990s, air-force-commander, sierra, strategy]
 ---
 # WW2 Air Force Commander
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

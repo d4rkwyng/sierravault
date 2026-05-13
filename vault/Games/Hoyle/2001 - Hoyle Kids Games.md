@@ -11,14 +11,14 @@ series: Hoyle Games
 engine: Proprietary (Windows)
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: Hoyle Kids Games is a children's compilation title developed and published
   by Sierra On-Line that brings the venerable Hoyle brand—known for its adult card...
 tags: [2000s, hoyle-games, puzzle, sierra]
 ---
 # Hoyle Kids Games 2001
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

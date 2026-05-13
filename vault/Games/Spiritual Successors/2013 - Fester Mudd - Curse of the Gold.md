@@ -10,14 +10,14 @@ series: Fester Mudd
 engine: Unity
 protagonist: Fester Mudd
 sierra_lineage: Spiritual Successor
-last_updated: '2026-01-14'
+last_updated: '2026-03-27'
 description: 'Fester Mudd: Curse of the Gold is a point-and-click adventure game developed
   by Finnish indie studio Prank Ltd. and published by Replay Games in 2013....'
 tags: [2010s, adventure, fester-mudd, sierra]
 ---
 # Fester Mudd: Curse of the Gold
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

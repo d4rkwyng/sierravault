@@ -10,7 +10,7 @@ series: Turbo Learning
 engine: Dynamix Game Development System (DGDS)
 protagonist: Player (child)
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-13'
 composer: [Timothy Steven Clarke (Tim Clark)]
 description: 'Turbo Learning: Mega Math is an educational mathematics game developed
   by Jeff Tunnell Productions and published by Sierra On-Line in 1993. As the second...'
@@ -18,7 +18,7 @@ tags: [1990s, dgds, educational, sierra, turbo-learning]
 ---
 # Turbo Learning: Mega Math
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

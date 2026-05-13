@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI2.1
 protagonist: Princess Rosella, Queen Valanice
 sierra_lineage: Core Sierra
-last_updated: '2026-02-17'
+last_updated: '2026-05-13'
 description: 'King''s Quest VII: The Princeless Bride represents a dramatic stylistic
   departure for Sierra''s flagship adventure series. Released on November 22, 1994,
   the...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # King's Quest VII: The Princeless Bride
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

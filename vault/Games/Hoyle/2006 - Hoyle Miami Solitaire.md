@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Spiritual Successor
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 description: Hoyle Miami Solitaire is a card game compilation released in November
   2006 for PC, developed and published by Encore Software under the storied Hoyle
   brand...
@@ -18,7 +18,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Miami Solitaire
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

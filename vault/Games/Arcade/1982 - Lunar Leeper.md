@@ -10,14 +10,14 @@ series: None
 engine: Machine Language
 protagonist: Unnamed spaceship pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-13'
 description: Lunar Leeper is a horizontally scrolling arcade shooter developed by
   Sierra On-Line and released in 1982, representing one of the company's earlier forays...
 tags: [1980s, none, shooter, sierra]
 ---
 # Lunar Leeper
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

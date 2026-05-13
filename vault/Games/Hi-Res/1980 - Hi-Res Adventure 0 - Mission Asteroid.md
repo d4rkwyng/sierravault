@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: Hi-Res Adventure
 protagonist: Astronaut (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-04-22'
+last_updated: '2026-05-11'
 description: 'Hi Res Adventure #0: Mission Asteroid is a graphic adventure game that
   was part of Sierra On-Line''s pioneering Hi-Res Adventure series. Originally released...'
 tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi Res Adventure #0: Mission Asteroid
 
-<small style="color: gray">Last updated: April 22, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

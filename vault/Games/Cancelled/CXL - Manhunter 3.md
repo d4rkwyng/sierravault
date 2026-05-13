@@ -10,14 +10,14 @@ series: Manhunter
 engine: AGI
 protagonist: The Manhunter / New Manhunter
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 description: 'Manhunter 3: London is a cancelled post-apocalyptic adventure game that
   was planned as the third installment in the Manhunter series. The game was to be...'
 tags: [adventure, agi, manhunter, sierra]
 ---
 # Manhunter 3: London
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

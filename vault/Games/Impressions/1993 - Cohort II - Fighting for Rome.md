@@ -10,14 +10,14 @@ series: Cohort
 engine: Impressions Engine
 protagonist: Roman/Barbarian Commander
 sierra_lineage: Sierra Published
-last_updated: '2026-01-11'
+last_updated: '2026-05-11'
 description: 'Cohort II: Fighting for Rome is a real-time tactics game developed and
   published by Impressions Games in 1993 for DOS, Amiga, and Atari ST platforms. Set...'
 tags: [1990s, cohort, sierra, strategy]
 ---
 # Cohort II: Fighting for Rome
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

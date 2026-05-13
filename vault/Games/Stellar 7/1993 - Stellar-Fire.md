@@ -10,7 +10,7 @@ series: Stellar 7
 engine: Unknown/unnamed
 protagonist: Raven Pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Stellar-Fire is a futuristic first-person hovercraft combat simulation
   game released in December 1993 for the Sega CD. Developed by Infinite Laser Dog
   and...
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar-Fire
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

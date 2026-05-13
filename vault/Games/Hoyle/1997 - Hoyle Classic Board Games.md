@@ -10,14 +10,14 @@ series: Hoyle
 engine: SCI32
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-05-11'
 description: Hoyle Classic Board Games, originally released in 1997, is a collection
   of traditional board games developed by Sierra Entertainment as part of their...
 tags: [1990s, hoyle, sci, sierra]
 ---
 # Hoyle Classic Board Games
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

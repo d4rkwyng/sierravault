@@ -5,11 +5,11 @@ birth_year: 1952
 death_year: null
 notable_games: ["Conquests of Camelot", "Conquests of the Longbow", "Jem and the Holograms"]
 companies: ["Sierra On-Line", "Marvel Comics", "Sunbow Productions", "Zynga"]
-last_updated: "2026-01-28"
+last_updated: "2026-05-08"
 ---
 # Christy Marx
 
-<small style="color: gray">Last updated: January 28, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

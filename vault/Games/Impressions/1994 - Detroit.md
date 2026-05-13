@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary (DOS)
 protagonist: Player-created company president
 sierra_lineage: Sierra Published
-last_updated: '2026-02-02'
+last_updated: '2026-05-08'
 composer: ['Christopher J. Denman, Jason P. Rinaldi']
 description: Detroit is a turn-based business simulation game that places players
   in charge of a fledgling automobile company starting in 1908, the year the Ford
@@ -19,7 +19,7 @@ tags: [1990s, sierra, simulation, standalone]
 ---
 # Detroit
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

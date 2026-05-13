@@ -10,14 +10,14 @@ series: Front Page Sports
 engine: Proprietary (Dynamix)
 protagonist: Fly Fisher (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-16'
+last_updated: '2026-05-11'
 description: 'Front Page Sports: Trophy Rivers is a fishing simulation game developed
   by Dynamix, Inc. and published by Sierra On-Line, Inc. in 1997. Part of Sierra''s...'
 tags: [1990s, educational, front-page-sports, sierra, simulation]
 ---
 # Front Page Sports: Trophy Rivers
 
-<small style="color: gray">Last updated: January 16, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

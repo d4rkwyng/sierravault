@@ -10,7 +10,7 @@ series: Homeworld
 engine: Homeworld 2 Engine
 protagonist: Karan S'jet / Fleet Command
 sierra_lineage: Sierra Published
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 composer: [Paul Ruskay]
 description: Homeworld Remastered Collection is a comprehensive restoration of Relic
   Entertainment's groundbreaking space real-time strategy games, released on February...
@@ -18,7 +18,7 @@ tags: [2010s, homeworld, sierra, strategy]
 ---
 # Homeworld Remastered Collection
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

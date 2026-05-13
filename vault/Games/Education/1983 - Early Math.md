@@ -10,7 +10,7 @@ series: Talking Tutor
 engine: Bright Star Engine
 protagonist: Loid (animated alien guide)
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: Early Math is an educational video game, with development roots dating
   to 1983, developed by Bright Star Technology and published by Sierra On-Line in
   its...
@@ -18,7 +18,7 @@ tags: [1980s, educational, sierra, talking-tutor]
 ---
 # Early Math
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

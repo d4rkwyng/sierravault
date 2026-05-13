@@ -10,14 +10,14 @@ series: Playtoons
 engine: Gob
 protagonist: Two unnamed children
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 description: 'Playtoons 1: Featuring Uncle Archibald is an edutainment title developed
   by Coktel Vision and published by Sierra On-Line in 1995 for Windows 3 in 1994.x...'
 tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 1: Featuring Uncle Archibald
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

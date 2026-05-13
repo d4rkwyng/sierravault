@@ -10,14 +10,14 @@ series: Standalone
 engine: 6502 Assembly
 protagonist: Player (Stunt Pilot)
 sierra_lineage: Sierra Published
-last_updated: '2026-01-17'
+last_updated: '2026-03-27'
 description: Stunt Flyer is a stunt-flying simulation released for the Commodore 64
   in September 1985. The game places players in control of a small prop-plane at an...
 tags: [1980s, sierra, simulation, standalone]
 ---
 # Stunt Flyer
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 title: "Collections & Anthologies Guide"
-last_updated: "2026-02-12"
+last_updated: "2026-05-11"
 ---
 # Collections & Anthologies Guide
 

@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary (Coktel Vision)
 protagonist: Rally Driver
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-01-11'
+last_updated: '2026-05-08'
 composer: [François Peirano]
 description: African Raiders-01 is an arcade-style racing simulation that immerses
   players in the dusty, unforgiving world of the Paris-Dakar Rally. Developed by French...
@@ -18,7 +18,7 @@ tags: [1980s, coktel, racing, sierra, standalone]
 ---
 # African Raiders-01
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

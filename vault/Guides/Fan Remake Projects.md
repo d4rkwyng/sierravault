@@ -1,11 +1,11 @@
 ---
 title: "Fan Remake Projects"
 type: guide
-last_updated: "2026-02-02"
+last_updated: "2026-05-08"
 ---
 # Fan Remake Projects
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 When Sierra Entertainment stopped making classic adventure games, the fan community stepped in. These dedicated groups have spent decades creating faithful VGA remakes, enhanced editions, and spiritual successors to Sierra's beloved franchises—all available for free.
 

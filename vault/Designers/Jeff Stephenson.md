@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest IV", "Space Quest III", "Police Quest II", "King's Quest V"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Jeff Stephenson
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Al Emmo
 engine: Adventure Game Studio
 protagonist: Al Emmo
 sierra_lineage: Spiritual Successor
-last_updated: '2026-01-16'
+last_updated: '2026-05-08'
 description: Al Emmo and the Lost Dutchman's Mine is a point-and-click adventure game
   developed and published by Himalaya Studios, released on September 5, 2006 for...
 tags: [2000s, adventure, al-emmo, sierra]
 ---
 # Al Emmo and the Lost Dutchman's Mine
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

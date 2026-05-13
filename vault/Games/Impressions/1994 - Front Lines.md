@@ -10,14 +10,14 @@ series: N/A
 engine: Impressions Engine
 protagonist: N/A
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-02-02'
+last_updated: '2026-03-27'
 description: Front Lines is a tactical wargame set in the "near" future, developed
   and published by Impressions Games in 1994. The game presents a hypothetical military...
 tags: [1990s, impressions, n-a, sierra, strategy]
 ---
 # Front Lines
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

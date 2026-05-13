@@ -10,14 +10,14 @@ series: Police Quest
 engine: SCI2
 protagonist: Detective John Carey
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-04-21'
 description: 'Police Quest: Open Season, released in 1993, marked a radical departure
   from the established Police Quest series. Developed by Sierra On-Line under the...'
 tags: [1990s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest: Open Season
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: April 21, 2026</small>
 
 ## Overview
 

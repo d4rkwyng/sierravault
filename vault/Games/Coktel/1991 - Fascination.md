@@ -10,7 +10,7 @@ series: Standalone
 engine: Gob
 protagonist: Doralice May
 sierra_lineage: Sierra Published
-last_updated: '2026-03-27'
+last_updated: '2026-05-08'
 composer: [Frédéric Motte]
 description: '*Fascination* is an erotic thriller graphic adventure game developed
  by Tomahawk and published by Coktel Vision in 1991 for the Amiga, Atari ST, and
@@ -19,7 +19,7 @@ tags: [1990s, adventure, sierra, standalone]
 ---
 # Fascination
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

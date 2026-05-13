@@ -10,7 +10,7 @@ series: Standalone
 engine: Sierra SCI0 (DOS version)
 protagonist: Duke Garland
 sierra_lineage: Third-Party Published
-last_updated: '2026-01-28'
+last_updated: '2026-05-11'
 description: Zeliard is a side-scrolling action role-playing game developed by Game
   Arts that combines platforming mechanics with RPG elements, originally released
   for...
@@ -18,7 +18,7 @@ tags: [1980s, rpg, sci, sierra, standalone]
 ---
 # Zeliard
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

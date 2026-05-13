@@ -10,7 +10,7 @@ series: Tribes
 engine: Tribes Engine (PS2 port)
 protagonist: Player-created warrior
 sierra_lineage: Sierra Published
-last_updated: '2026-01-27'
+last_updated: '2026-05-08'
 composer: [Timothy Steven Clark]
 description: 'Tribes: Aerial Assault is an online multiplayer first-person shooter
   developed by Inevitable Entertainment and published by Sierra On-Line for the...'
@@ -18,7 +18,7 @@ tags: [2000s, shooter, sierra, tribes]
 ---
 # Tribes: Aerial Assault
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

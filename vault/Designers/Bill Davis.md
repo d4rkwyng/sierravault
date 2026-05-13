@@ -5,11 +5,11 @@ birth_year: 1949
 death_year: null
 notable_games: ["King's Quest V", "Space Quest IV", "Jones in the Fast Lane", "Obsidian"]
 companies: ["Sierra On-Line", "Rocket Science Games", "SegaSoft", "Mother Productions", "iWin"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Bill Davis
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

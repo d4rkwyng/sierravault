@@ -10,14 +10,14 @@ series: Trophy Bass
 engine: Proprietary (Dynamix)
 protagonist: Player-created angler
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Trophy Bass is a bass fishing simulation game developed by Jeff Tunnell
   Productions and Dynamix, published by Sierra On-Line in 1995. Marketed as "The...
 tags: [1990s, dynamix, sierra, trophy-bass]
 ---
 # Trophy Bass
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

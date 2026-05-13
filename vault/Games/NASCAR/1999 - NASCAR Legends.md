@@ -10,14 +10,14 @@ series: NASCAR Racing
 engine: NASCAR Racing 3 Engine
 protagonist: Player-created driver
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-05-11'
 description: NASCAR Legends is a racing simulation video game developed by Papyrus
   Design Group and published by Sierra On-Line under its Sierra Sports label, released...
 tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Legends
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

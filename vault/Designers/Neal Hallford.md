@@ -5,11 +5,11 @@ birth_year: 1966
 death_year: null
 notable_games: ["Betrayal at Krondor", "Dungeon Siege", "Might & Magic III: Isles of Terra"]
 companies: ["New World Computing", "Dynamix", "Gas Powered Games", "Rapid Eye Entertainment", "Sony Computer Entertainment America"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Neal Hallford
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

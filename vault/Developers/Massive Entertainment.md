@@ -6,11 +6,11 @@ defunct: null
 headquarters: "Malmö, Sweden"
 notable_games: ["Ground Control", "World in Conflict", "Tom Clancy's The Division"]
 parent_company: "Ubisoft"
-last_updated: "2026-01-28"
+last_updated: "2026-05-08"
 ---
 # Massive Entertainment
 
-<small style="color: gray">Last updated: January 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

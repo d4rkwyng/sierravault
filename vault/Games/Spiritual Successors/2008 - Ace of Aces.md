@@ -10,14 +10,14 @@ series: None
 engine: Torque
 protagonist: Unnamed pilot
 sierra_lineage: Alumni Project
-last_updated: '2026-04-22'
+last_updated: '2026-05-08'
 composer: []
 description: 'Ace of Aces is a browser-based World War I flight combat game developed by Mad Otter Games and designed by Damon Slye, co-founder of Dynamix and creator of the legendary Red Baron and Aces of the Pacific series.'
 tags: [2000s, flight-sim, damon-slye, browser-game, alumni-project, mad-otter-games, wwi]
 ---
 # Ace of Aces
 
-<small style="color: gray">Last updated: April 22, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Transylvania
 engine: COMPREHEND
 protagonist: The Hero of Transylvania
 sierra_lineage: Sierra Published
-last_updated: '2026-01-11'
+last_updated: '2026-05-08'
 description: 'The Crimson Crown, also known as *Transylvania II: The Crimson Crown*
   and *Further Adventures in Transylvania*, is a graphic adventure game developed
   by...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, sierra, transylvania]
 ---
 # The Crimson Crown
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -7,11 +7,11 @@ headquarters: "United States"
 notable_games: ["Quest for Infamy", "Order of the Thorne: The King's Challenge"]
 parent_company: null
 predecessor_company: "Infamous Adventures"
-last_updated: "2026-01-15"
+last_updated: "2026-05-13"
 ---
 # Infamous Quests
 
-<small style="color: gray">Last updated: January 15, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

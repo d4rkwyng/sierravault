@@ -1,11 +1,11 @@
 ---
 title: "Voice Acting in Sierra Games"
 type: guide
-last_updated: "2026-01-31"
+last_updated: "2026-05-08"
 ---
 # Voice Acting in Sierra Games
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 Sierra On-Line pioneered voice acting in adventure games, transitioning from silent text-based adventures to fully voiced "talkie" experiences. This guide chronicles the history of speech in Sierra games, from early experiments to Hollywood talent.
 

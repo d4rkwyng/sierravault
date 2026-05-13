@@ -10,7 +10,7 @@ series: Electronic Battlefield System
 engine: Modified Falcon AT Engine
 protagonist: M1A1 Abrams Tank Commander
 sierra_lineage: Sierra Published
-last_updated: '2026-01-22'
+last_updated: '2026-03-27'
 description: 'Tank: The M1A1 Abrams Battle Tank Simulation was a serious attempt to
   model modern armored warfare, placing the player directly in the commander''s seat
   of...'
@@ -18,7 +18,7 @@ tags: [1980s, electronic-battlefield-system, sierra, simulation]
 ---
 # Tank: The M1A1 Abrams Battle Tank Simulation
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 
 ## Overview

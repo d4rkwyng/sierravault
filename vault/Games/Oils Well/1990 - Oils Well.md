@@ -10,7 +10,7 @@ series: Oil's Well
 engine: Native DOS
 protagonist: Slater the Petrosaur
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-05-13'
 composer: [Ken Allen]
 description: Oil's Well (1990) is an arcade-style action game published by Sierra
   On-Line and developed by Banana Development, Inc. The game serves as an enhanced
@@ -19,7 +19,7 @@ tags: [1990s, oil-s-well, sierra]
 ---
 # Oil's Well (1990)
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

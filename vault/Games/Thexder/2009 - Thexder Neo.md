@@ -10,14 +10,14 @@ series: Thexder
 engine: Microsoft Game SDK
 protagonist: Thexder (Hyper Dual Armor)
 sierra_lineage: Post-Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-11'
 description: Thexder Neo is a 2009 remake of the classic 1985 arcade-style shooter
   originally developed by Game Arts. The game features a transforming robot protagonist...
 tags: [2000s, shooter, sierra, thexder]
 ---
 # Thexder Neo
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

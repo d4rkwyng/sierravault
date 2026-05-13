@@ -10,14 +10,14 @@ series: Standalone
 engine: 6502 Assembly
 protagonist: N/A
 sierra_lineage: Sierra Published
-last_updated: '2026-01-17'
+last_updated: '2026-03-27'
 description: Kempelen is a chess program developed by Hungarian programmer Attila
   Kovács and published by Sierra On-Line for the Commodore 64 in 1986. Named after...
 tags: [1980s, sierra, standalone, strategy]
 ---
 # Kempelen
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

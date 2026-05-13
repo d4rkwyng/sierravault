@@ -11,7 +11,7 @@ series: Caesar
 engine: Titan Engine
 protagonist: Roman Provincial Governor (player)
 sierra_lineage: Sierra Published
-last_updated: '2026-02-04'
+last_updated: '2026-05-11'
 description: Caesar IV is a city-building simulation game developed by Tilted Mill
   Entertainment and published by Sierra Entertainment, released in September 2006
   after...
@@ -19,7 +19,7 @@ tags: [2000s, caesar, sierra]
 ---
 # Caesar IV
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

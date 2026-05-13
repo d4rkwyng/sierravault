@@ -11,7 +11,7 @@ series: King's Quest
 engine: AGI
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-05-11'
 description: 'King''s Quest: Quest for the Crown is a landmark adventure game that
   pioneered the animated graphic adventure genre and established Sierra On-Line as
   the...'
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest: Quest for the Crown
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: None
 engine: 6502 Assembly
 protagonist: Unnamed pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-08'
 description: Aquatron is a horizontally scrolling shooter developed by Justin Gray
   and published by Sierra On-Line in 1983 for Apple II and Atari 8-bit computers.
   The...
@@ -18,7 +18,7 @@ tags: [1980s, none, shooter, sierra]
 ---
 # Aquatron
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

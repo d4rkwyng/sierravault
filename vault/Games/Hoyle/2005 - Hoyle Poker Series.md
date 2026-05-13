@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-15'
+last_updated: '2026-05-11'
 description: Hoyle Poker Series is a comprehensive poker simulation video game released
   in 2005 for Windows, developed by Sierra Entertainment and published by Encore...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Poker Series
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

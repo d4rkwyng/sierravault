@@ -10,14 +10,14 @@ series: The Incredible Machine / Ghosts 'n Goblins
 engine: TIM Engine
 protagonist: Arthur
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 description: 'Arthur to Astaroth no Nazo Makaimura: Incredible Toons is a Japan-exclusive
   puzzle game released on August 30, 1996, for both the Sony PlayStation and Sega...'
 tags: [1990s, dynamix, puzzle, sierra, the-incredible-machine-ghosts-n-goblins]
 ---
 # Arthur to Astaroth no Nazo Makaimura: Incredible Toons
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

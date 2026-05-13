@@ -10,14 +10,14 @@ series: Metaltech
 engine: 3Space
 protagonist: Player-created HERC pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-27'
+last_updated: '2026-03-27'
 description: 'Metaltech: Battledrome is a mecha-style combat simulation game developed
   by Dynamix and published by Sierra On-Line in 1994 for DOS. The game puts players...'
 tags: [1990s, dynamix, metaltech, sierra, simulation]
 ---
 # Metaltech: Battledrome
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

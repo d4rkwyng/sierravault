@@ -10,14 +10,14 @@ series: SWAT
 engine: Takedown 3D
 protagonist: SWAT Officer
 sierra_lineage: Core Sierra
-last_updated: '2026-01-23'
+last_updated: '2026-05-08'
 description: 'SWAT: Urban Justice was an ambitious tactical shooter developed by Sierra
   Entertainment, intended as the fourth installment in the SWAT franchise and the...'
 tags: [shooter, sierra, swat]
 ---
 # SWAT: Urban Justice
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -7,12 +7,12 @@ first_release: 1991
 last_release: 2011
 total_games: 8
 genre: "Educational, Puzzle"
-last_updated: "2026-05-12"
+last_updated: "2026-05-13"
 ---
 
 # Dr. Brain Series
 
-<small style="color: gray">Last updated: May 12, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

@@ -5,11 +5,11 @@ birth_year: 1958
 death_year: null
 notable_games: ["King's Quest I: Quest for the Crown (1990 remake)", "Space Quest 6: Roger Wilco in the Spinal Frontier", "Freddy Pharkas: Frontier Pharmacist", "Callahan's Crosstime Saloon"]
 companies: ["Sierra On-Line", "Legend Entertainment", "Sir-Tech", "Sega", "Vicarious Visions"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Josh Mandel
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

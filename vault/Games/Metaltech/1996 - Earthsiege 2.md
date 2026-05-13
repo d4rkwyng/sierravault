@@ -10,14 +10,14 @@ series: Earthsiege
 engine: 3Space
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-04-21'
 description: Earthsiege 2 is a mech simulation game developed by Dynamix and published
   by Sierra On-Line in 1996. Set in the 26th century, the game places players in...
 tags: [1990s, earthsiege, sierra, simulation, two-guys]
 ---
 # Earthsiege 2
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: April 21, 2026</small>
 
 ## Overview
 

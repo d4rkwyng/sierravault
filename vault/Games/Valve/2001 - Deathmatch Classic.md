@@ -10,14 +10,14 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Player Character
 sierra_lineage: Sierra Published
-last_updated: '2026-04-22'
+last_updated: '2026-05-13'
 description: Deathmatch Classic (often abbreviated as DMC) is a multiplayer first-person
   shooter developed by Valve Corporation and released on June 7, 2001. Conceived...
 tags: [2000s, half-life, shooter, sierra]
 ---
 # Deathmatch Classic
 
-<small style="color: gray">Last updated: April 22, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

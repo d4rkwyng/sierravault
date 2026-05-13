@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Gob
 protagonist: Ween
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-01-10'
+last_updated: '2026-03-27'
 composer: [Charles Callet]
 description: '*The Prophecy* (known as *Ween: The Prophecy* in Europe) is a first-person
   point-and-click adventure game developed by Coktel Vision and published by Sierra...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coktel, gobliiins, sierra]
 ---
 # The Prophecy
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

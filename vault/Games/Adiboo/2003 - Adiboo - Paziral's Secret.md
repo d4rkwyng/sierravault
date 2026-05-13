@@ -10,14 +10,14 @@ series: Adibou
 engine: RenderWare
 protagonist: Adiboo
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Adiboo & Paziral's Secret is a 3D action-adventure platform game released
   in 2003 for PlayStation and 2004 for Windows PC. Developed jointly by Coktel...
 tags: [2000s, adibou, coktel, racing, sierra]
 ---
 # Adiboo & Paziral's Secret
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

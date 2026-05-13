@@ -10,14 +10,14 @@ series: Outpost
 engine: Proprietary (C++)
 protagonist: Colony Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-01-10'
+last_updated: '2026-05-11'
 description: Outpost is a city-building and colony management simulation game developed
   and published by Sierra On-Line in 1994. Set in a hard science fiction universe,...
 tags: [1990s, outpost, sierra]
 ---
 # Outpost
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

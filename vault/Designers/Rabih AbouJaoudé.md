@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Hoyle Puzzle & Board Games", "Hoyle Card Games", "Hoyle Poker Series", "Little Shop Series"]
 companies: ["Sierra Entertainment", "GameHouse"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Rabih AbouJaoudé
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

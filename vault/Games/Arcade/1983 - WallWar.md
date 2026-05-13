@@ -10,14 +10,14 @@ series: Standalone
 engine: 6502 Assembly
 protagonist: Player-controlled paddle
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-13'
 description: Wallwar is an action game developed by Peter Oliphant and published by
   Sierra On-Line for the Atari 8-bit computer systems in 1983. Originally titled "Force...
 tags: [1980s, sierra, standalone]
 ---
 # Wallwar
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

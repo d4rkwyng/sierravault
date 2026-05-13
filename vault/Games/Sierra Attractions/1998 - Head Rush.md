@@ -10,7 +10,7 @@ series: You Don't Know Jack
 engine: Proprietary (Jellyvision)
 protagonist: N/A
 sierra_lineage: Sierra Published
-last_updated: '2026-03-27'
+last_updated: '2026-05-13'
 description: Head Rush, also known as *You Don't Know Jack Headrush*, is a trivia
   video game released on August 31, 1998 that serves as a teen-oriented spin-off of
   the...
@@ -18,7 +18,7 @@ tags: [1990s, sierra, you-don-t-know-jack]
 ---
 # Head Rush
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

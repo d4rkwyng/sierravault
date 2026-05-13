@@ -10,7 +10,7 @@ series: Space Quest (Fan Game)
 engine: Adventure Game Studio
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-02-04'
+last_updated: '2026-05-08'
 description: 'Space Quest: Incinerations is an ambitious fan-made sequel to Sierra''s
   beloved Space Quest series, released on January 11, 2012 by Chris Ushko under his
   Box...'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, sierra, space-quest-fan-game]
 ---
 # Space Quest: Incinerations
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

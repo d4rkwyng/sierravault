@@ -7,12 +7,12 @@ first_release: 1984
 last_release: 2024
 total_games: 60
 genre: "Multiple (flight sim, mech, adventure, puzzle, sports, action)"
-last_updated: "2026-05-12"
+last_updated: "2026-05-13"
 ---
 
 # Dynamix Catalog
 
-<small style="color: gray">Last updated: May 12, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

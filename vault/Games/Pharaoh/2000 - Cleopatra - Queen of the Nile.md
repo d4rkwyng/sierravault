@@ -10,14 +10,14 @@ series: Pharaoh
 engine: Pharaoh Engine
 protagonist: Egyptian Governor (player-named)
 sierra_lineage: Sierra Published
-last_updated: '2026-04-15'
+last_updated: '2026-05-13'
 description: '**Cleopatra: Queen of the Nile** is an expansion pack for the city-building
   strategy game Pharaoh, developed by BreakAway Games and published by Sierra...'
 tags: [2000s, pharaoh, sierra]
 ---
 # Cleopatra: Queen of the Nile
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

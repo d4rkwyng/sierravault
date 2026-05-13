@@ -10,7 +10,7 @@ series: Thexder
 engine: Microsoft Game SDK
 protagonist: Thexder (transforming mech)
 sierra_lineage: Sierra Published
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 composer: [Christopher Barker]
 description: Thexder 95, also known as Thexder for Windows 95, is a Windows 95 remake
   of the original Thexder game that was developed by Synergistic Software and...
@@ -18,7 +18,7 @@ tags: [1990s, sierra, thexder]
 ---
 # Thexder 95
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

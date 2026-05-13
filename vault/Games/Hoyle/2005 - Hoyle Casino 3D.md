@@ -10,7 +10,7 @@ series: Hoyle Casino
 engine: RenderWare
 protagonist: Player-created avatar
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-05-11'
 composer: [Evan Schiller]
 description: Hoyle Casino 3D represents a significant technical evolution in the long-running
   Hoyle Casino franchise, being the first entry in the series to feature...
@@ -18,7 +18,7 @@ tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 3D
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

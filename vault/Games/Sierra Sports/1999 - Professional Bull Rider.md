@@ -10,7 +10,7 @@ series: Professional Bull Rider
 engine: Proprietary (Windows)
 protagonist: Player-created bull rider
 sierra_lineage: Core Sierra
-last_updated: '2026-01-23'
+last_updated: '2026-05-13'
 composer: [Craig Utterback]
 description: Professional Bull Rider is a sports simulation video game developed and
   published by Sierra On-Line, Inc. under its Sierra Sports label, released for...
@@ -18,7 +18,7 @@ tags: [1990s, professional-bull-rider, sierra]
 ---
 # Professional Bull Rider
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

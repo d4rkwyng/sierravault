@@ -10,7 +10,7 @@ series: Hoyle
 engine: SCI0
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-05-08'
 composer: [Robert Atesalp]
 description: 'Hoyle Official Book of Games: Volume 1 is a collection of six classic
   card games developed and published by Sierra On-Line in 1989. The game serves as
@@ -19,7 +19,7 @@ tags: [1980s, hoyle, sci, sierra]
 ---
 # Hoyle Official Book of Games: Volume 1
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

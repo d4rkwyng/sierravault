@@ -10,7 +10,7 @@ series: Aces
 engine: Dynamix 3Space
 protagonist: German U-boat Commander (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-13'
 description: Command Aces of the Deep is an enhanced Windows version of Dynamix's
   acclaimed World War II submarine simulation, originally released as "Aces of the
   Deep"...
@@ -18,7 +18,7 @@ tags: [1990s, aces, sierra, simulation]
 ---
 # Command Aces of the Deep
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

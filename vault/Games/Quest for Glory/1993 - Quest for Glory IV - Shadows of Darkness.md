@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI2
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-02-12'
+last_updated: '2026-03-27'
 composer: [Aubrey Hodges]
 description: 'Quest for Glory: Shadows of Darkness is a 1993 adventure game/role-playing
   video game hybrid, the fourth installment in the Quest for Glory series by Sierra...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory: Shadows of Darkness
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 Quest for Glory: Shadows of Darkness is a 1993 adventure game/role-playing video game hybrid, the fourth installment in the Quest for Glory series by [[Sierra On-Line]][^ref-1][^ref-2].

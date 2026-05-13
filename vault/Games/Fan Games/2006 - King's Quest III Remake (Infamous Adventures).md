@@ -10,14 +10,14 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Fan Project
-last_updated: '2026-02-05'
+last_updated: '2026-05-11'
 description: 'King''s Quest III: To Heir Is Human is a fan-made VGA remake of Sierra
   On-Line''s classic 1986 adventure game, developed and published by Infamous Adventures...'
 tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III: To Heir Is Human (Infamous Adventures Remake)
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

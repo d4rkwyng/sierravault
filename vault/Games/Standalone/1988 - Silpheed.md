@@ -10,14 +10,14 @@ series: Standalone
 engine: Custom 3D polygon engine
 protagonist: SA-08 Silpheed pilot
 sierra_lineage: Third-Party Published
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 description: Silpheed is a groundbreaking vertical scrolling shooter that debuted
   on the Japanese NEC PC-8801 on December 5, 1986, before being brought to Western...
 tags: [1980s, shooter, sierra, standalone]
 ---
 # Silpheed
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

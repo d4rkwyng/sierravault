@@ -10,14 +10,14 @@ series: Police Quest (Spiritual Successor)
 engine: Unity3D
 protagonist: Maxwell Jones
 sierra_lineage: Spiritual Successor
-last_updated: '2026-03-27'
+last_updated: '2026-05-08'
 description: Precinct was an ambitious crowdfunded police adventure video game announced
   in 2013 by Jim Walls, the creator of Sierra On-Line's legendary Police Quest...
 tags: [2010s, adventure, police-quest-spiritual-successor, sierra]
 ---
 # Precinct
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

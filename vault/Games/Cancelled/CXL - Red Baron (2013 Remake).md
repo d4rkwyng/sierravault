@@ -10,14 +10,14 @@ series: Red Baron
 engine: Unreleased
 protagonist: Player-created WWI pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-27'
+last_updated: '2026-05-08'
 description: Red Baron 2013 Remake was an ambitious but ultimately unsuccessful attempt
   by Damon Slye, the original creator of the Red Baron franchise, to revive the...
 tags: [2010s, dynamix, red-baron, sierra, simulation]
 ---
 # Red Baron 2013 Remake
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

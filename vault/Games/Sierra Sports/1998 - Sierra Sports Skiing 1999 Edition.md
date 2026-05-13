@@ -10,14 +10,14 @@ series: Front Page Sports
 engine: Dynamix 3D Engine
 protagonist: Player-created skier
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-05-08'
 description: Sierra Sports Skiing 1999 Edition was an alpine skiing simulation game
   released in 1998 for Windows. The game served as a follow-up to Front Page Sports:...
 tags: [1990s, front-page-sports, sierra]
 ---
 # Sierra Sports Skiing 1999 Edition
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

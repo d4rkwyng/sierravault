@@ -6,11 +6,11 @@ defunct: 1982
 headquarters: "Coarsegold, California"
 notable_games: ["Hi-Res Adventure 2: The Wizard and the Princess", "Time Zone", "Threshold"]
 parent_company: "Sierra On-Line (became)"
-last_updated: "2026-01-15"
+last_updated: "2026-05-08"
 ---
 # On Line Systems
 
-<small style="color: gray">Last updated: January 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

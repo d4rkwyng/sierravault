@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Space Quest I VGA", "Space Quest IV", "The Colonel's Bequest", "Descent", "Ringworld: Revenge of the Patriarch"]
 companies: ["Sierra On-Line", "Tsunami Media", "Interplay Productions", "Parallax Software", "Westwood Studios", "Atari", "THQ", "Midway Games", "Trion Worlds"]
-last_updated: "2026-02-13"
+last_updated: "2026-05-08"
 ---
 # Ken Allen
 
-<small style="color: gray">Last updated: February 13, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

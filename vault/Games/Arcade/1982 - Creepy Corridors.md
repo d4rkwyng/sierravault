@@ -10,14 +10,14 @@ series: Laf Pak
 engine: 6502 Assembly
 protagonist: Sierra Smith
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: Creepy Corridors is a maze-based arcade game originally developed by
   Chuck Bueche and published by Sierra On-Line in 1982 as part of the Laf Pak compilation...
 tags: [1980s, laf-pak, sierra]
 ---
 # Creepy Corridors
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

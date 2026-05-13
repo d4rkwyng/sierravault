@@ -1,14 +1,14 @@
 ---
 title: "Studio Map"
 type: reference
-last_updated: "2026-05-11"
+last_updated: "2026-05-13"
 description: "Every acquired, partner, alumni, and fan studio in the Sierra extended catalogue, with founding date, status, location, parent company, and notable games. The cross-reference for `developer:` and `publisher:` YAML values."
 tags: [reference, studios, developers, publishers]
 ---
 
 # Studio Map
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

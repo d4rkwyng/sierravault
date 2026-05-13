@@ -10,7 +10,7 @@ series: Police Quest
 engine: SCI0
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 composer: [Mark Seibert]
 description: 'Police Quest II: The Vengeance is an adventure game developed and published
   by Sierra On-Line in November 1988, serving as the direct sequel to Police...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest II: The Vengeance
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

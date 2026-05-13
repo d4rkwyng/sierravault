@@ -7,12 +7,12 @@ first_release: 1986
 last_release: 1995
 total_games: 7
 genre: "Adventure, Comedy"
-last_updated: "2026-01-27"
+last_updated: "2026-05-13"
 ---
 
 # Space Quest Series
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

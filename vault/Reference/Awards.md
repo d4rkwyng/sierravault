@@ -1,14 +1,14 @@
 ---
 title: "Awards"
 type: reference
-last_updated: "2026-05-12"
+last_updated: "2026-05-13"
 description: "Major industry awards won by Sierra On-Line games and the studio's creators — DICE, GDC, BAFTA, CGW, AIAS Hall of Fame, World Video Game Hall of Fame, and lifetime-achievement honors across four decades."
 tags: [reference, awards, recognition, hall-of-fame]
 ---
 
 # Awards
 
-<small style="color: gray">Last updated: May 12, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

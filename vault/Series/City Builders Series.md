@@ -7,12 +7,12 @@ first_release: 1992
 last_release: 2023
 total_games: 9
 genre: "City-Building Strategy"
-last_updated: "2026-05-11"
+last_updated: "2026-05-13"
 ---
 
 # City Builders Series
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

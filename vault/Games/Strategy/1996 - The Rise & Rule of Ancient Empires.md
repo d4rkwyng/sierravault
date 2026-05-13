@@ -10,7 +10,7 @@ series: Standalone
 engine: Impressions City Builder
 protagonist: Empire Ruler (player-named)
 sierra_lineage: Sierra Published
-last_updated: '2026-04-15'
+last_updated: '2026-05-13'
 composer: [Keith Zizza]
 description: The Rise & Rule of Ancient Empires is a 1996 empire-building strategy
   game developed by Impressions Games and published by Sierra On-Line. The game...
@@ -18,7 +18,7 @@ tags: [1990s, sierra, standalone, strategy]
 ---
 # The Rise & Rule of Ancient Empires
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

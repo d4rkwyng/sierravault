@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: Adventure Development Language (ADL)
 protagonist: Unnamed treasure hunter
 sierra_lineage: Core Sierra
-last_updated: '2026-04-22'
+last_updated: '2026-05-08'
 description: 'Hi-Res Adventure #3: Cranston Manor is a text-and-graphics adventure
   game released in 1981 by On-Line Systems, the company that would later become Sierra...'
 tags: [1980s, adventure, hi-res-adventure, sierra]
 ---
 # Hi-Res Adventure #3: Cranston Manor
 
-<small style="color: gray">Last updated: April 22, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

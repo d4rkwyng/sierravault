@@ -5,11 +5,11 @@ birth_year: 1965
 death_year: null
 notable_games: ["Phantasmagoria: A Puzzle of Flesh", "King's Quest VII: The Princeless Bride", "Laura Bow 2: The Dagger of Amon Ra"]
 companies: ["Sierra On-Line", "Seagull Scientific", "FreeWave Technologies"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Lorelei Shannon
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

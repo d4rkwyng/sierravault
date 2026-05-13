@@ -11,14 +11,14 @@ series: King's Quest
 engine: Various (cancelled before completion)
 protagonist: [Alexander, Rosella]
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-08'
 description: '"King''s Quest IX" is an umbrella term for **multiple cancelled attempts**
   to continue Sierra''s flagship adventure game series following King''s Quest VIII:...'
 tags: [adventure, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest IX (Cancelled)
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 
 ## Overview

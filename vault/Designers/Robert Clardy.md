@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Dungeon Campaign", "Wilderness Campaign", "Odyssey: The Compleat Apventure", "Spirit of Excalibur", "Birthright: The Gorgon's Alliance", "Diablo: Hellfire"]
 companies: ["Synergistic Software", "Boeing", "Sierra On-Line"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Robert Clardy
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

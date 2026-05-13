@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Gobliiins", "The Bizarre Adventures of Woodruff and the Schnibble", "Gobliiins 5: The Morgloton Invasion"]
 companies: ["Coktel Vision", "Sierra", "Wizarbox", "Société Pollene"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Pierre Gilhodes
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

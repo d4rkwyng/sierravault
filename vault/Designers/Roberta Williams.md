@@ -5,11 +5,11 @@ birth_year: 1953
 death_year: null
 notable_games: ["Mystery House", "King's Quest", "Phantasmagoria"]
 companies: ["On-Line Systems", "Sierra On-Line"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-11"
 ---
 # Roberta Williams
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Adiboo
 engine: RenderWare
 protagonist: Adiboo
 sierra_lineage: Sierra Published
-last_updated: '2026-01-20'
+last_updated: '2026-03-27'
 description: Adiboo and the Energy Thieves is an educational action-adventure game
   released in 2004, developed by Coktel Vision and published by Vivendi Universal
   Games....
@@ -18,7 +18,7 @@ tags: [2000s, adiboo, educational, sierra]
 ---
 # Adiboo and the Energy Thieves
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

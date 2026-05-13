@@ -11,14 +11,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Hoyle Crosswords is a puzzle video game released in 2000 as part of Sierra
   Entertainment's popular Hoyle series of classic games. The game was developed...
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Crosswords
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

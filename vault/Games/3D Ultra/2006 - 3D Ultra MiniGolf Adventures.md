@@ -10,7 +10,7 @@ series: 3D Ultra Minigolf
 engine: Wanako Engine
 protagonist: Customizable Golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-05-13'
 description: 3D Ultra Minigolf Adventures is an arcade-style miniature golf video
   game developed by Wanako Games and published by Vivendi Games under the Sierra On-Line...
 tags: [2000s, 3d-ultra-minigolf, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3D Ultra Minigolf Adventures
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

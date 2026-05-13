@@ -1,11 +1,11 @@
 ---
 title: "Release Timeline"
 type: guide
-last_updated: "2026-01-29"
+last_updated: "2026-05-08"
 ---
 # Release Timeline
 
-<small style="color: gray">Last updated: January 29, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 Every Sierra game organized chronologically—490 titles across 45 years. **Flagship series** are shown in **bold**. Fan projects marked *(Fan)*. For browsing by series, see the [[Site Index]].
 

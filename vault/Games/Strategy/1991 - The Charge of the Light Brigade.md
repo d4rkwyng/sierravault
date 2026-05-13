@@ -10,14 +10,14 @@ series: Micro Miniatures
 engine: Enhanced Miniature-Style System
 protagonist: British/Allied Commander
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-01-10'
+last_updated: '2026-05-11'
 description: The Charge of the Light Brigade is a real-time strategy game developed
   and published by Impressions Games in 1991, recreating one of the most famous and...
 tags: [1990s, impressions, micro-miniatures, sierra, strategy]
 ---
 # The Charge of the Light Brigade
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

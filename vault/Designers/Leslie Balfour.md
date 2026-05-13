@@ -6,11 +6,11 @@ death_year: null
 notable_games: ["The Dagger of Amon Ra", "Space Quest 6: Roger Wilco in the Spinal Frontier", "Space Quest VII: Return to Roman Numerals"]
 companies: ["Sierra On-Line"]
 mobygames_id: 42242
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Leslie Balfour
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

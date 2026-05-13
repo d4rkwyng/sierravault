@@ -10,14 +10,14 @@ series: Hoyle Series
 engine: Proprietary (Windows)
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-11'
 description: Hoyle Slots and Video Poker 2000 is a casino simulation game released
   by Sierra Attractions in 2000, designed to replicate the Las Vegas casino experience...
 tags: [2000s, hoyle-series, sierra]
 ---
 # Hoyle Slots and Video Poker 2000
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

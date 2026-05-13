@@ -10,7 +10,7 @@ series: Stellar 7
 engine: 3Space
 protagonist: Captain John Alex
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: 'Nova 9: Return of Gir Draxon is a futuristic tank combat game developed
   by Dynamix and published by Sierra On-Line in 1991. As the sequel to Stellar 7,
   the...'
@@ -18,7 +18,7 @@ tags: [1990s, sierra, stellar-7]
 ---
 # Nova 9: Return of Gir Draxon
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

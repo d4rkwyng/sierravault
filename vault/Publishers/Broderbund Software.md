@@ -5,11 +5,11 @@ founded: 1980
 defunct: 1998
 headquarters: "Novato, California, United States"
 parent_company: "The Learning Company (acquired 1998)"
-last_updated: "2026-01-17"
+last_updated: "2026-05-08"
 ---
 # Broderbund Software
 
-<small style="color: gray">Last updated: January 17, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

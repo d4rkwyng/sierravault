@@ -10,14 +10,14 @@ series: Police Quest
 engine: SCI1.1
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-05-13'
 description: 'Police Quest: In Pursuit of the Death Angel VGA Remake is a 1992 enhanced
   remake of Sierra On-Line''s 1987 police procedural adventure game....'
 tags: [1990s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest: In Pursuit of the Death Angel (VGA Remake)
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

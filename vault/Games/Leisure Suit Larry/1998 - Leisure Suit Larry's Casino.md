@@ -10,13 +10,13 @@ series: Leisure Suit Larry
 engine: "Custom (Hoyle-based)"
 protagonist: Larry Laffer
 sierra_lineage: Spinoff
-last_updated: '2026-04-15'
+last_updated: '2026-05-08'
 description: "*Leisure Suit Larry's Casino* is a casino simulation spinoff released by Sierra Entertainment in 1998, featuring Larry Laffer as the manager of his own gambling resort with both single-player and online multiplayer gameplay."
 tags: [1990s, casino, al-lowe, leisure-suit-larry, sierra, spinoff, multiplayer]
 ---
 # Leisure Suit Larry's Casino
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

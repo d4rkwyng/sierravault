@@ -10,7 +10,7 @@ series: No One Lives Forever
 engine: LithTech Jupiter
 protagonist: Cate Archer
 sierra_lineage: Core Sierra
-last_updated: '2026-01-10'
+last_updated: '2026-03-27'
 composer: [Nathan Grigg]
 description: 'No One Lives Forever 2: A Spy in H.A.R.M.''s Way (commonly abbreviated
   as NOLF 2) is a first-person shooter video game developed by Monolith Productions
@@ -19,7 +19,7 @@ tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # No One Lives Forever 2: A Spy in H.A.R.M.'s Way
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

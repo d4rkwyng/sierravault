@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks, Space Quest
 engine: SCI1.1
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-01-16'
+last_updated: '2026-05-11'
 description: 'Crazy Nick''s Software Picks: Roger Wilco''s Spaced Out Game Pack is
   a budget-priced mini-game compilation released by Sierra On-Line in 1992 as part
   of the...'
@@ -18,7 +18,7 @@ tags: [1990s, crazy-nick-s-software-picks-space-quest, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

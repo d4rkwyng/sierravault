@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: High-resolution SVGA graphics engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-11'
 description: '*Front Page Sports: Football Pro ''96* was a comprehensive American
   football simulation game developed by Dynamix and published by Sierra On-Line in
   late...'
@@ -18,7 +18,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro '96
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

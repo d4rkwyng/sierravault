@@ -10,14 +10,14 @@ series: Hoyle's Official Book of Games
 engine: Proprietary (Windows)
 protagonist: Player (customizable via Face Creator)
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-05-11'
 description: Hoyle Official Card Games Collection 2015 represents a modern continuation
   of the venerable Hoyle gaming franchise, which traces its roots back to Sierra...
 tags: [2010s, hoyle-s-official-book-of-games, sierra, simulation]
 ---
 # Hoyle Official Card Games Collection 2015
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

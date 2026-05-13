@@ -10,14 +10,14 @@ series: Standalone
 engine: Proprietary (Epyx)
 protagonist: Player as Bug General
 sierra_lineage: Sierra Published
-last_updated: '2026-01-10'
+last_updated: '2026-05-08'
 description: Battle Bugs is a unique real-time tactics video game developed by Epyx,
   Inc. and published by Sierra On-Line in 1994 for MS-DOS. The game presents a...
 tags: [1990s, sierra, standalone]
 ---
 # Battle Bugs
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

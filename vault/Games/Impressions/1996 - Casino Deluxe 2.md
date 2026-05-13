@@ -10,7 +10,7 @@ series: Casino Deluxe
 engine: Impressions Engine
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-11'
 description: Casino Deluxe 2 is a gambling simulation game released on October 22,
   1996 for IBM PC, developed by Impressions Games and published by Sierra On-Line.
   The...
@@ -18,7 +18,7 @@ tags: [1990s, casino-deluxe, sierra, simulation]
 ---
 # Casino Deluxe 2
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

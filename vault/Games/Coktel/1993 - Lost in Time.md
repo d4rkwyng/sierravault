@@ -10,7 +10,7 @@ series: Standalone (Doralice duology)
 engine: Gob
 protagonist: Doralice Prunelier
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-01-10'
+last_updated: '2026-05-08'
 composer: [Charles Callet]
 description: Lost in Time is a 1993 first-person point-and-click adventure game developed
   by French studio Coktel Vision and published in North America by Sierra...
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coktel, sierra, standalone-doralice-duology]
 ---
 # Lost in Time
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

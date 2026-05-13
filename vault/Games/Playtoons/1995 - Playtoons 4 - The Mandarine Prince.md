@@ -10,7 +10,7 @@ series: Playtoons
 engine: Gob
 protagonist: Spirou and Fantasio
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 composer: [Emmanuel Chagnas]
 description: 'Playtoons 4: The Mandarine Prince is an interactive adventure game released
   in 1995 by Coktel Vision and published by Sierra On-Line. As the fourth...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coktel, playtoons, sierra]
 ---
 # Playtoons 4: The Mandarine Prince
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

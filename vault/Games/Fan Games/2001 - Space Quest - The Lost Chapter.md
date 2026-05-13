@@ -10,14 +10,14 @@ series: Space Quest (Fan Game)
 engine: AGI
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-01-10'
+last_updated: '2026-05-11'
 description: 'Space Quest: The Lost Chapter is an unofficial fan-made adventure game
   that takes place in the Space Quest universe originally created by Sierra On-Line....'
 tags: [2000s, adventure, agi, sierra, space-quest-fan-game]
 ---
 # Space Quest: The Lost Chapter
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

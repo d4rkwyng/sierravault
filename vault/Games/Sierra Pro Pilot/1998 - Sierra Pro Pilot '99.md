@@ -10,14 +10,14 @@ series: Pro Pilot
 engine: Dynamix 3D Engine
 protagonist: Player Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-01-16'
+last_updated: '2026-05-13'
 description: 'Sierra Pro Pilot 98: The Complete Flight Simulator was a civilian flight
   simulation game developed by Dynamix in collaboration with subLOGIC and published...'
 tags: [1990s, pro-pilot, sierra, simulation]
 ---
 # Sierra Pro Pilot 98: The Complete Flight Simulator
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

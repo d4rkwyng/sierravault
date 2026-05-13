@@ -11,14 +11,14 @@ series: Gobliiins
 engine: Adventure Game Studio
 protagonist: Fingus, Winkle
 sierra_lineage: Post-Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-05-08'
 description: '*Gobliins 6: The Madmen of the Year 1000* is a 2026 2D puzzle adventure game that serves as
   a direct sequel to *Gobliins 2: The Prince Buffoon*, reuniting the beloved duo Fingus...'
 tags: [adventure, gobliiins, puzzle, sierra]
 ---
 # Gobliins 6: The Madmen of the Year 1000
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

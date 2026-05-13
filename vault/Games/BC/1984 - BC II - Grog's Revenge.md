@@ -10,7 +10,7 @@ series: B.C.
 engine: 6502 Assembly
 protagonist: Thor
 sierra_lineage: Sierra Published
-last_updated: '2026-01-23'
+last_updated: '2026-05-13'
 composer: [Paul Butler]
 description: 'B.C. II: Grog''s Revenge is a 1984 action game developed by Sydney Development
   Corp. and published by Sierra On-Line for the Commodore 64 and ColecoVision....'
@@ -18,7 +18,7 @@ tags: [1980s, b-c, sierra]
 ---
 # B.C. II: Grog's Revenge
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

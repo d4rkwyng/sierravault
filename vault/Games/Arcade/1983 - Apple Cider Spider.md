@@ -10,14 +10,14 @@ series: SierraVision
 engine: Machine Language
 protagonist: Spider
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-08'
 description: Apple Cider Spider is a 1983 action platformer developed by Ivan Strand
   and published by Sierra On-Line for the Apple II computer, requiring a minimum of...
 tags: [1980s, sierra, sierravision]
 ---
 # Apple Cider Spider
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

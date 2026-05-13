@@ -5,11 +5,11 @@ founded: 2012
 headquarters: "United States"
 parent_company: null
 founders: ["Corey Cole", "Lori Ann Cole"]
-last_updated: "2026-01-17"
+last_updated: "2026-05-08"
 ---
 # Transolar Games
 
-<small style="color: gray">Last updated: January 17, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

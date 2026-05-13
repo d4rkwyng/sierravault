@@ -4,12 +4,12 @@ type: technology
 developer: "Sierra On-Line"
 years_active: "1988-1996"
 total_games: 100+
-last_updated: "2026-01-12"
+last_updated: "2026-02-04"
 ---
 
 # Sierra Creative Interpreter (SCI)
 
-<small style="color: gray">Last updated: January 12, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Hoyle
 engine: SCI32
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-05-11'
 description: Hoyle Blackjack was a comprehensive blackjack simulation developed by
   Sierra On-Line that brought "all the challenge and fun of casino blackjack home
   with...
@@ -18,7 +18,7 @@ tags: [1990s, hoyle, sci, sierra, simulation]
 ---
 # Hoyle Blackjack
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

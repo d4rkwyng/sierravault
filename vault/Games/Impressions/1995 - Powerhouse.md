@@ -10,14 +10,14 @@ series: Standalone
 engine: WinG
 protagonist: Player as Powerhouse CEO
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-02-02'
+last_updated: '2026-05-08'
 description: PowerHouse is a business simulation game released in May 1995, developed
   by Edward Grabowski Communications Ltd. and published by Impressions Games. The...
 tags: [1990s, impressions, sierra, simulation, standalone]
 ---
 # PowerHouse
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

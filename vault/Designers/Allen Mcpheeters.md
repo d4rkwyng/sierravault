@@ -5,11 +5,11 @@ birth_year: 1954
 death_year: null
 notable_games: ["Front Page Sports: Baseball Pro", "Outpost 2: Divided Destiny", "Microsoft Baseball 2001"]
 companies: ["Sierra On-Line", "Cinemaware", "Dynamix", "Microsoft", "Exile Interactive"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Allen Mcpheeters
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Fan Project
-last_updated: '2026-02-05'
+last_updated: '2026-05-08'
 description: 'King''s Quest III Redux: To Heir is Human is a fan-made remake of Roberta
   Williams'' 1986 classic adventure game, developed by AGD Interactive and released...'
 tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III Redux: To Heir is Human
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

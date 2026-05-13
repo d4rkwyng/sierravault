@@ -10,7 +10,7 @@ series: Laura Bow
 engine: SCI0
 protagonist: Laura Bow
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-05-13'
 description: 'The Colonel''s Bequest: A Laura Bow Mystery stands as one of Sierra
   On-Line''s most innovative and atmospheric adventure games, released in 1989 under
   the...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, laura-bow, roberta-williams, sci, sierra]
 ---
 # The Colonel's Bequest
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

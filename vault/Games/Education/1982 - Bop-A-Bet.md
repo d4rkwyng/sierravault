@@ -10,14 +10,14 @@ series: Hi-Res Learning Series
 engine: Applesoft BASIC
 protagonist: Boxing Glove (player-controlled)
 sierra_lineage: Sierra Published
-last_updated: '2026-04-15'
+last_updated: '2026-05-13'
 description: Bop-A-Bet is an educational typing and letter-recognition game for children,
   originally developed by Sunnyside Soft in 1982 and later republished by Sierra...
 tags: [1980s, educational, hi-res-learning-series, sierra]
 ---
 # Bop-A-Bet
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

@@ -1,14 +1,14 @@
 ---
 title: "Corporate Lineage"
 type: reference
-last_updated: "2026-05-11"
+last_updated: "2026-05-13"
 description: "The acquisition chain that took Sierra On-Line from a 1979 garage startup to a brand inside Activision Blizzard, including dates, dollar amounts, and key executives."
 tags: [reference, sierra-history, acquisitions, corporate]
 ---
 
 # Corporate Lineage
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

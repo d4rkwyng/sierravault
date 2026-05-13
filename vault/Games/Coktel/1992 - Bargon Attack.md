@@ -10,14 +10,14 @@ series: Coktel
 engine: Gob
 protagonist: Bob
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-01-11'
+last_updated: '2026-05-08'
 description: Bargon Attack is a French point-and-click adventure game released in
   1992 by Coktel Vision, one of the lesser-known titles from the studio best remembered...
 tags: [1990s, adventure, coktel, sierra]
 ---
 # Bargon Attack
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

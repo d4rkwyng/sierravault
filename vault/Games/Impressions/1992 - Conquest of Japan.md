@@ -10,7 +10,7 @@ series: N/A
 engine: Micro Miniatures
 protagonist: Daimyo (player-controlled lord)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-01-11'
+last_updated: '2026-05-08'
 description: Conquest of Japan is a military-historical strategy game developed and
   published by Impressions Games in 1992, set during the tumultuous Sengoku period
   of...
@@ -18,7 +18,7 @@ tags: [1990s, impressions, n-a, sierra, strategy]
 ---
 # Conquest of Japan
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: None
 engine: Machine Language
 protagonist: Player-created Boxer
 sierra_lineage: Sierra Published
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Sierra Championship Boxing is a pioneering sports simulation game developed
   by Evryware and published by Sierra On-Line in 1985, first released for the IBM...
 tags: [1980s, none, sierra]
 ---
 # Sierra Championship Boxing
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 
 ## Overview

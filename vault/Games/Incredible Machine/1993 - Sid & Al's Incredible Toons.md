@@ -10,14 +10,14 @@ series: The Incredible Machine
 engine: Physics simulator
 protagonist: Sid E. Mouse / Al E. Cat
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-05-11'
 description: Sid & Al's Incredible Toons is a puzzle game developed by Jeff Tunnell
   Productions and published by Sierra On-Line in 1993 for MS-DOS and Macintosh...
 tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # Sid & Al's Incredible Toons
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

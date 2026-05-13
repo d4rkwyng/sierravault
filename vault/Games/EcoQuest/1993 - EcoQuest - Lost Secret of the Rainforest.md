@@ -10,7 +10,7 @@ series: EcoQuest
 engine: SCI1.1
 protagonist: Adam Greene
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-13'
 composer: [Dan Kehler]
 description: '*EcoQuest 2: Lost Secret of the Rainforest* is an educational adventure
   game developed and published by Sierra On-Line in 1993 as the sequel to *EcoQuest:...'
@@ -18,7 +18,7 @@ tags: [1990s, ecoquest, educational, sci, sierra]
 ---
 # EcoQuest 2: Lost Secret of the Rainforest
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

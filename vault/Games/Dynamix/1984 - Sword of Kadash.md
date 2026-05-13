@@ -10,14 +10,14 @@ series: N/A
 engine: 6502 Assembly
 protagonist: Unnamed Hero/Heroine
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-30'
+last_updated: '2026-05-13'
 description: Sword of Kadash is an action role-playing game originally developed for
   the Apple II in 1984 by Chris Cole, a teenage programmer working at The Computer...
 tags: [1980s, dynamix, n-a, rpg, sierra]
 ---
 # Sword of Kadash
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-05-11'
 description: '**Hoyle Casino: Poker**, released in 1997, represents Sierra''s first
   dedicated foray into the world of poker gaming. Set in a virtual Las Vegas casino...'
 tags: [1990s, hoyle-casino, sierra]
 ---
 # Hoyle Casino: Poker
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

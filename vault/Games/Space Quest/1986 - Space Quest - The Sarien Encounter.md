@@ -10,14 +10,14 @@ series: Space Quest
 engine: AGI
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-05-08'
 description: 'Space Quest: Chapter I – The Sarien Encounter is a graphic adventure
   game developed and published by Sierra On-Line, released in October 1986 for MS-DOS...'
 tags: [1980s, adventure, agi, sierra, space-quest, two-guys]
 ---
 # Space Quest: The Sarien Encounter
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 Space Quest: Chapter I – The Sarien Encounter is a graphic adventure game developed and published by [[Sierra On-Line]], released in October 1986 for MS-DOS with subsequent ports to Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-5][^ref-14].

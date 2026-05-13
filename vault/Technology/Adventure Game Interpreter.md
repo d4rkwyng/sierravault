@@ -4,12 +4,12 @@ type: technology
 developer: "Sierra On-Line"
 years_active: "1984-1989"
 total_games: 15
-last_updated: "2026-01-12"
+last_updated: "2026-02-04"
 ---
 
 # Adventure Game Interpreter (AGI)
 
-<small style="color: gray">Last updated: January 12, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

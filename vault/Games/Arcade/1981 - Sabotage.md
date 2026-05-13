@@ -10,14 +10,14 @@ series: Standalone
 engine: Apple II Assembly
 protagonist: Anti-aircraft gunner
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-13'
 description: Sabotage is a fixed shooter arcade game developed by Mark Allen and published
   by On-Line Systems in 1981 for the Apple II computer. In an era when the...
 tags: [1980s, shooter, sierra, standalone]
 ---
 # Sabotage
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

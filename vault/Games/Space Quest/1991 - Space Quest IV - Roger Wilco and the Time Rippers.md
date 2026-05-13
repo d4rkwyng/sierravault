@@ -10,14 +10,14 @@ series: Space Quest
 engine: SCI1
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-02-17'
+last_updated: '2026-05-08'
 description: 'Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure
   game developed and published by Sierra On-Line, released in March 1991 for MS-DOS...'
 tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest IV: Roger Wilco and the Time Rippers
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure game developed and published by [[Sierra On-Line]], released in March 1991 for MS-DOS with subsequent ports to Windows, Macintosh, Amiga, and PC-98[^ref-6][^ref-2].

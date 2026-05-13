@@ -10,14 +10,14 @@ series: Conquests
 engine: SCI1
 protagonist: Robin Hood
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-05-11'
 description: '*Conquests of the Longbow: The Legend of Robin Hood* is a graphic adventure
   game developed and published by Sierra On-Line in 1991, representing the second...'
 tags: [1990s, adventure, conquests, sci, sierra]
 ---
 # Conquests of the Longbow: The Legend of Robin Hood
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Asterix
 engine: Proprietary (Coktel Vision)
 protagonist: Asterix
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-01-11'
+last_updated: '2026-05-08'
 description: 'Asterix: Operation Getafix is an action-adventure game released in 1989
   by French developer Coktel Vision, based on the beloved Franco-Belgian comic series...'
 tags: [1980s, adventure, asterix, coktel, sierra]
 ---
 # Asterix: Operation Getafix
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Leisure Suit Larry
 engine: Unreal Engine 3
 protagonist: Larry Lovage
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-09'
+last_updated: '2026-05-11'
 description: 'Leisure Suit Larry: Box Office Bust stands as one of the most critically
   reviled video games ever released, earning the dubious distinction of being called...'
 tags: [2000s, adventure, al-lowe, leisure-suit-larry, sierra, two-guys]
 ---
 # Leisure Suit Larry: Box Office Bust
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Pro Pilot
 engine: 3Space Technology
 protagonist: Player Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Sierra Pro Pilot USA is the second title in Sierra's Pro Pilot series
   of civilian flight simulators, released in 1998 for Windows PC. Developed by Dynamix,...
 tags: [1990s, pro-pilot, sierra, simulation]
 ---
 # Sierra Pro Pilot USA
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

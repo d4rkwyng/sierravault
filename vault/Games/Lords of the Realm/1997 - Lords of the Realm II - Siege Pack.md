@@ -10,14 +10,14 @@ series: Lords of the Realm
 engine: Smacker Video
 protagonist: Medieval Lord (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-04-21'
 description: 'Lords of the Realm II: Siege Pack is the official expansion pack to
   Lords of the Realm II, released in 1997 by Sierra On-Line. Developed by Impressions...'
 tags: [1990s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm II: Siege Pack
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: April 21, 2026</small>
 
 ## Overview
 

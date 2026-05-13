@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Sierra Published
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 description: Hoyle Puzzle and Board Games 2008 is a comprehensive compilation of classic
  puzzle and board games released by Encore Software for Windows and Macintosh...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Puzzle and Board Games 2008
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

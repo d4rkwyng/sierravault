@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Police Quest: Open Season", "Police Quest: SWAT", "SWAT 3: Close Quarters Battle"]
 companies: ["Sierra On-Line", "Yosemite Entertainment", "Sierra Studios"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Tammy Dargan
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

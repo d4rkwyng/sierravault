@@ -11,7 +11,7 @@ series: 3-D Ultra Pinball
 engine: 3D Ultra Pinball physics-based game engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 description: '3-D Ultra Pinball: The Lost Continent is an arcade-style pinball game
   underscored by an action-adventure story line that was released in 1997 by Sierra...'
 tags: [1990s, 3-d-ultra-pinball, sierra]
@@ -19,7 +19,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra Pinball: The Lost Continent
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Leisure Suit Larry
 engine: SCI (planned)
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-08'
 description: '**Leisure Suit Larry 8: Lust in Space**, also known by the alternate
   title **Leisure Suit Larry Explores Uranus**, was a planned sequel in the long-running...'
 tags: [adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 8: Lust in Space
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

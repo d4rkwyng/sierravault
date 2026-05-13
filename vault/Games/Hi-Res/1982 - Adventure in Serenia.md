@@ -11,14 +11,14 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: Adventure in Serenia stands as a pivotal title in adventure gaming history,
   representing "the first of On-Line Systems' pictorial adventures for the IBM...
 tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Adventure in Serenia
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

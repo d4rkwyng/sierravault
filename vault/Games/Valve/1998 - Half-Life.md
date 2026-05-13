@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Gordon Freeman
 sierra_lineage: Sierra Published
-last_updated: '2026-01-10'
+last_updated: '2026-05-11'
 composer: [Kelly Bailey]
 description: Half-Life is a science fiction first-person shooter developed by Valve
   Corporation and published by Sierra Studios, released on November 19, 1998 for...
@@ -18,7 +18,7 @@ tags: [1990s, half-life, shooter, sierra]
 ---
 # Half-Life
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

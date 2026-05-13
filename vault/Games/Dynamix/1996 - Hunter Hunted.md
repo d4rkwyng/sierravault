@@ -10,14 +10,14 @@ series: K.A.A. (Kill All Aliens)
 engine: Proprietary (Windows/DirectX)
 protagonist: Jake / Garathe Den
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: Hunter Hunted is a side-scrolling action computer game developed by Dynamix
   under Sierra's K.A.A. (Kill All Aliens) label and published by Sierra On-Line in...
 tags: [1990s, dynamix, k-a-a-kill-all-aliens, sierra]
 ---
 # Hunter Hunted
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

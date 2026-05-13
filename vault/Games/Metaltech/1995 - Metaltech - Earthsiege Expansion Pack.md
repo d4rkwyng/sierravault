@@ -10,7 +10,7 @@ series: Metaltech
 engine: Custom 3D engine
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-04-15'
+last_updated: '2026-04-21'
 description: 'The *Metaltech Earthsiege Expansion Pack* was an add-on expansion for
   the original *Metaltech: Earthsiege*, developed by Dynamix and released in 1995.
   The...'
@@ -18,7 +18,7 @@ tags: [1990s, metaltech, sierra, simulation, two-guys]
 ---
 # Metaltech Earthsiege Expansion Pack
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: April 21, 2026</small>
 
 ## Overview
 

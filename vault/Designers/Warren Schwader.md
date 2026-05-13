@@ -5,11 +5,11 @@ birth_year: 1959
 death_year: null
 notable_games: ["Threshold", "Hoyle Official Book of Games series", "Jones in the Fast Lane", "Jewel Quest series"]
 companies: ["On-Line Systems", "Sierra On-Line", "ImagiNation Network", "iWin", "Solitaire Network"]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Warren Schwader
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

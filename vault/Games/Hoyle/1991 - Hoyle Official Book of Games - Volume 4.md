@@ -10,14 +10,14 @@ series: Hoyle's Official Book of Games
 engine: SCI1
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-05-11'
 description: Hoyle Official Book of Games Volume 4 was the fourth installment in Sierra
   On-Line's popular Hoyle series, originally released in 1991 and later reissued as...
 tags: [1990s, hoyle-s-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 4
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

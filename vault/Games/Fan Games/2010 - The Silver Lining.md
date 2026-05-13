@@ -10,7 +10,7 @@ series: King's Quest (unofficial fan game)
 engine: Custom 3D Engine
 protagonist: King Graham
 sierra_lineage: Fan Project
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 description: The Silver Lining (TSL) is an episodic fan-made adventure game based
   on Sierra's beloved King's Quest series, developed and released in free download
   format...
@@ -18,7 +18,7 @@ tags: [2010s, adventure, king-s-quest-unofficial-fan-game, sierra]
 ---
 # The Silver Lining
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

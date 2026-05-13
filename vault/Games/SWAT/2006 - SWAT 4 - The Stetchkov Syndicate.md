@@ -10,7 +10,7 @@ series: SWAT
 engine: Vengeance Engine (Unreal Engine 2)
 protagonist: SWAT Team Leader
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 composer: [Antonio Gambale]
 description: 'SWAT 4: The Stetchkov Syndicate is an expansion pack for the critically
   acclaimed tactical first-person shooter SWAT 4, developed by Irrational Games and...'
@@ -18,7 +18,7 @@ tags: [2000s, shooter, sierra, swat]
 ---
 # SWAT 4: The Stetchkov Syndicate
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

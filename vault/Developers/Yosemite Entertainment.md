@@ -6,12 +6,12 @@ defunct: 1999
 headquarters: "Oakhurst, California, USA"
 notable_games: ["Quest for Glory V: Dragon Fire", "The Realm Online", "Babylon 5: Into the Fire"]
 parent_company: "Sierra On-Line"
-last_updated: "2026-01-31"
+last_updated: "2026-05-08"
 ---
 
 # Yosemite Entertainment
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

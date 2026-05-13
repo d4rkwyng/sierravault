@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-05-11'
 description: Hoyle Casino 2003 is a comprehensive casino simulation game developed
   and published by Sierra On-Line, released in September 2002 for Windows and Macintosh...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Casino 2003
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

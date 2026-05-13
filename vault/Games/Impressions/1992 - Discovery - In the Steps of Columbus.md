@@ -10,14 +10,14 @@ series: Impressions
 engine: Impressions Engine
 protagonist: ''
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-01-27'
+last_updated: '2026-05-11'
 description: 'Discovery: In the Steps of Columbus is a real-time strategy game of
   conquest and exploration released in 1992, timed to coincide with the 500th anniversary...'
 tags: [1990s, impressions, sierra, strategy]
 ---
 # Discovery: In the Steps of Columbus
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

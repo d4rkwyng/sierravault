@@ -12,12 +12,12 @@ series: "Hoyle"
 engine: "SCI32"
 protagonist: "N/A"
 sierra_lineage: "Core Sierra"
-last_updated: '2026-04-22'
+last_updated: '2026-05-11'
 ---
 
 # Hoyle Classic Board Games
 
-<small style="color: gray">Last updated: April 22, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

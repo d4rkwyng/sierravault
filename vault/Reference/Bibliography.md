@@ -1,14 +1,14 @@
 ---
 title: "Bibliography"
 type: reference
-last_updated: "2026-05-11"
+last_updated: "2026-05-13"
 description: "Canonical research sources for Sierra On-Line history — books, long-form journalism, fan-maintained databases, oral-history archives, and the curated source hierarchy used throughout this vault."
 tags: [reference, bibliography, sources, citations]
 ---
 
 # Bibliography
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Adiboo
 engine: Proprietary (VMD multimedia format)
 protagonist: Adiboo
 sierra_lineage: Sierra Published
-last_updated: '2026-03-27'
+last_updated: '2026-05-11'
 description: 'Adiboo: Magical Playland is a French edutainment game developed by Coktel
   Vision and released in 1996 for Windows and Macintosh platforms. Originally titled...'
 tags: [1990s, adiboo, educational, sierra]
 ---
 # Adiboo: Magical Playland
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

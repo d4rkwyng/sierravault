@@ -10,14 +10,14 @@ series: Civil War Generals
 engine: Custom 3D engine with WeGo turn-based system
 protagonist: Army Commander (Union or Confederate)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-08'
 description: 'Civil War Generals 2: Grant, Lee, Sherman represents the pinnacle of
   historical strategy gaming from the mid-1990s, building upon the foundation established...'
 tags: [1990s, civil-war-generals, sierra, strategy]
 ---
 # Civil War Generals 2: Grant, Lee, Sherman
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

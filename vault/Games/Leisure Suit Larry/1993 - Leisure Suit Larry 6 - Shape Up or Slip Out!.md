@@ -10,14 +10,14 @@ series: Leisure Suit Larry
 engine: SCI1.1
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-05-11'
 description: 'Leisure Suit Larry 6: Shape Up or Slip Out! is paradoxically the fifth
   installment in Al Lowe''s acclaimed adult adventure game series. Released by Sierra...'
 tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 6: Shape Up or Slip Out!
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Gray Matter
 engine: Direct3D 9.0c
 protagonist: Samantha Everett
 sierra_lineage: Spiritual Successor
-last_updated: '2026-04-15'
+last_updated: '2026-05-11'
 description: Gray Matter is a supernatural point-and-click adventure game created
   by legendary designer Jane Jensen, marking her return to adventure gaming after
   more...
@@ -18,7 +18,7 @@ tags: [2010s, adventure, jane-jensen, 'null', sierra]
 ---
 # Gray Matter
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: World in Conflict
 engine: MassTech
 protagonist: Lieutenant Parker
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: World in Conflict is a real-time tactics video game developed by Swedish
   studio Massive Entertainment and published by Sierra Entertainment under Vivendi...
 tags: [2000s, sierra, world-in-conflict]
 ---
 # World in Conflict
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 

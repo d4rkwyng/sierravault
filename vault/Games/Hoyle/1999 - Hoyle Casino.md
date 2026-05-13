@@ -10,14 +10,14 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-15'
+last_updated: '2026-05-11'
 description: Hoyle Casino 1999 (also known as Hoyle Casino 4) represents the fourth
   installment in Sierra On-Line's popular casino simulation series, released in...
 tags: [1990s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 1999
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

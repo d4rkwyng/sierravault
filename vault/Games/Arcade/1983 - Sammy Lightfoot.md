@@ -10,14 +10,14 @@ series: Standalone
 engine: 6502 Assembly
 protagonist: Sammy Lightfoot
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-08'
 description: '**Sammy Lightfoot** is a multi-level platform game—or "climbing game,"
   as the genre was called in the United States in 1983—developed and published by...'
 tags: [1980s, sierra, standalone]
 ---
 # Sammy Lightfoot
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

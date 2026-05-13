@@ -10,14 +10,14 @@ series: The Sierra Network MUD Trilogy
 engine: Shadow of Yserbius Engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-11'
+last_updated: '2026-05-08'
 description: The Ruins of Cawdor was the third and final installment in Sierra On-Line's
   groundbreaking series of graphical multi-user dungeons (MUDs) developed for The...
 tags: [1990s, rpg, sierra, the-sierra-network-mud-trilogy]
 ---
 # The Ruins of Cawdor
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

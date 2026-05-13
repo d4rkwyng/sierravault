@@ -5,11 +5,11 @@ birth_year: 1953
 death_year: null
 notable_games: ["Softporn Adventure", "BC's Quest for Tires", "Frogger", "Leisure Suit Larry in the Land of the Lounge Lizards"]
 companies: ["Blue Sky Software", "Sierra On-Line", "Avant-Garde Creations", "Technology Systems Inc."]
-last_updated: "2026-02-12"
+last_updated: "2026-05-08"
 ---
 # Chuck Benton
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

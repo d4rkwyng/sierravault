@@ -10,7 +10,7 @@ series: Air Force Commander
 engine: Custom (later used for Global Domination and When Two Worlds War)
 protagonist: Player as Air Force Commander
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-04-15'
+last_updated: '2026-05-11'
 composer: [Christopher J. Denman]
 description: Air Force Commander is a real-time strategy wargame developed by Impressions
   Games and Golden Sector Design, released in 1992 for DOS and Commodore Amiga....
@@ -18,7 +18,7 @@ tags: [1990s, air-force-commander, impressions, sierra, simulation, strategy]
 ---
 # Air Force Commander
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

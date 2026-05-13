@@ -8,12 +8,12 @@ last_release: 2014
 total_games: 4
 unreleased_games: 1
 genre: "Adventure, Horror"
-last_updated: "2026-02-02"
+last_updated: "2026-05-13"
 ---
 
 # Gabriel Knight Series
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

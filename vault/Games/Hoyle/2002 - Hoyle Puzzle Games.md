@@ -10,14 +10,14 @@ series: Hoyle Series
 engine: Proprietary (Windows)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-04-22'
+last_updated: '2026-05-11'
 description: Hoyle Puzzle Games is a comprehensive puzzle game collection released
   on September 7, 2002, as part of Sierra's long-running Hoyle series of casual gaming...
 tags: [2000s, hoyle-series, puzzle, sierra]
 ---
 # Hoyle Puzzle Games 2002
 
-<small style="color: gray">Last updated: April 22, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

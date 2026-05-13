@@ -4,11 +4,11 @@ type: publisher
 founded: null
 headquarters: "France"
 parent_company: null
-last_updated: "2026-01-17"
+last_updated: "2026-05-08"
 ---
 # Tomahawk
 
-<small style="color: gray">Last updated: January 17, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-05-11'
 composer: [Evan Schiller]
 description: Hoyle Battling Ships And War is a digital board game compilation released
   by Sierra On-Line in 1998, featuring computerized versions of the classic naval...
@@ -18,7 +18,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Battling Ships And War
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

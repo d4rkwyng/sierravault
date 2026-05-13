@@ -10,14 +10,14 @@ series: Moebius
 engine: Unity
 protagonist: Malachi Rector
 sierra_lineage: Spiritual Successor
-last_updated: '2026-04-15'
+last_updated: '2026-05-13'
 description: 'Moebius: Empire Rising is a point-and-click adventure game developed
   by Pinkerton Road Studios and published by Phoenix Online Publishing in 2014. Created...'
 tags: [2010s, adventure, jane-jensen, moebius, sierra]
 ---
 # Moebius: Empire Rising
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: May 13, 2026</small>
 
 ## Overview
 

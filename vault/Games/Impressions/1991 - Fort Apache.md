@@ -10,7 +10,7 @@ series: Micro Miniatures
 engine: Impressions Engine
 protagonist: US Army Captain
 sierra_lineage: Sierra Published
-last_updated: '2026-01-20'
+last_updated: '2026-05-11'
 composer: [Christopher J. Denman]
 description: Fort Apache is a turn-based strategy game set in the American Wild West
   during the Gold Rush era of the 1880s. Developed by Impressions Games and published...
@@ -18,7 +18,7 @@ tags: [1990s, micro-miniatures, sierra, strategy]
 ---
 # Fort Apache
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 11, 2026</small>
 
 ## Overview
 

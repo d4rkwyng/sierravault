@@ -10,7 +10,7 @@ series: Hoyle
 engine: SCI2.1
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-05-08'
 composer: [Robert Atesalp]
 description: Hoyle Solitaire is a comprehensive card game collection developed and
   published by Sierra On-Line in 1996, representing the modernized Windows evolution
@@ -19,7 +19,7 @@ tags: [1990s, hoyle, sci, sierra]
 ---
 # Hoyle Solitaire
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 

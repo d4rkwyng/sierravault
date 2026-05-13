@@ -6,11 +6,11 @@ defunct: 2001
 headquarters: "Eugene, Oregon, USA"
 notable_games: ["Red Baron", "The Incredible Machine", "Tribes"]
 parent_company: "Sierra On-Line"
-last_updated: "2026-01-15"
+last_updated: "2026-05-08"
 ---
 # Dynamix
 
-<small style="color: gray">Last updated: January 15, 2026</small>
+<small style="color: gray">Last updated: May 8, 2026</small>
 
 ## Overview
 
