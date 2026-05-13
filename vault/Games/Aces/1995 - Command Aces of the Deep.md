@@ -136,7 +136,6 @@ Despite being released over two decades ago, the game maintains a dedicated foll
 [^ref-3]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Aces_of_the_Deep) – - Series context and departure from flight simulation
 [^ref-4]: [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=2967244194) – - Voice recognition feature description
 [^ref-5]: [Web Archive PC Gamer Review](https://web.archive.org/web/19990820035627/http://www.pcgamer.com:80/reviews/1340.html) – - William R. Trotter review
-[^ref-6]: [Wikipedia](https://en.wikipedia.org/wiki/Aces_of_the_Deep) – - Computer Gaming World award and ranking information
 [^ref-7]: [MobyGames](https://www.mobygames.com/game/4576/command-aces-of-the-deep/) – - Publisher information for Windows version
 [^ref-8]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Aces_of_the_Deep) – - Platform compatibility information
 [^ref-9]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?gid=967) – - Career progression and submarine types
@@ -149,7 +148,6 @@ Despite being released over two decades ago, the game maintains a dedicated foll
 [^ref-16]: [MobyGames Player Review](https://www.mobygames.com/game/1171/aces-of-the-deep/) – - Submarine systems management
 [^ref-17]: [Old Games SK](https://www.oldgames.sk/en/game/aces-of-the-deep/download/3801/) – - Game modes description
 [^ref-18]: [SUBSIM Review](https://www.subsim.com/ssr/commandaces.html) – - Career mode randomization features
-[^ref-19]: [Dynamix Fandom Wiki Expansion](https://dynamix.fandom.com/wiki/Aces_of_the_Deep:_Expansion_Disk) – - Type XXI submarine content
 [^ref-20]: [Tally Ho Corner](https://tallyhocorner.com/2024/11/review-reprise-aces-of-the-deep/) – - Operational challenges simulation approach
 [^ref-21]: [Play Classic Games](https://playclassic.games/games/simulation-dos-games-online/play-aces-of-the-deep-online/) – - Environmental factors affecting gameplay
 [^ref-22]: [Dynamix Fandom Wiki Command Version](https://dynamix.fandom.com/wiki/Command:_Aces_of_the_Deep) – - Computer Gaming World 5/5 score and award

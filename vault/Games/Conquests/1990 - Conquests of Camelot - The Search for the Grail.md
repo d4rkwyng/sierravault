@@ -259,7 +259,6 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 [^ref-5]: [GOG.com – Conquests of Camelot](https://www.gog.com/en/game/conquests_of_camelot) – user reviews, ratings, system requirements
 [^ref-6]: [PCGamingWiki – Conquests of Camelot](https://www.pcgamingwiki.com/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – engine info, technical specifications, video modes
 [^ref-7]: [King Arthur Fandom Wiki](https://kingarthur.fandom.com/wiki/Conquests_of_Camelot) – plot summary, gameplay description
-[^ref-8]: [Sierra Chest – Music](https://www.sierrachest.com/index.php?a=games&id=140&fld=music) – location-based music, Glastonbury references
 [^ref-9]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=140&title=conquests-of-camelot&fld=walkthrough&pid=100) – game locations, scoring details
 [^ref-10]: [Abandonware DOS Walkthrough](https://www.abandonwaredos.com/docawd.php?sf=conquestsofcamelotwalkthrough.txt&st=walkthrough&sg=Conquests+of+Camelot:+The+Search+for+the+Grail&idg=2398) – puzzle details, riddle difficulty, currency systems
 [^ref-11]: [MobyGames – Conquests of Camelot](https://www.mobygames.com/game/1408/conquests-of-camelot-the-search-for-the-grail/) – user reviews, trivia, Easter eggs, ratings

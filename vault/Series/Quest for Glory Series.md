@@ -143,7 +143,6 @@ The Coles continued their work after Sierra:
 - [[King's Quest Series]] - Sierra's flagship fantasy series
 - [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] - Spiritual successor- [[2018 - Hero-U - Rogue to Redemption]]
 - [[2008 - Quest for Glory II VGA Remake]]
-- [[2008 - Quest for Glory II VGA Remake]]
 - [[1989 - Quest for Glory I - So You Want to Be a Hero]]
 - [[1990 - Quest for Glory II - Trial by Fire]]
 - [[1992 - Quest for Glory III - Wages of War]]
@@ -152,7 +151,6 @@ The Coles continued their work after Sierra:
 - [[2014 - Quest for Infamy]]
 - [[2023 - Summer Daze - Tilly's Tale]]
 - [[2018 - Hero-U - Rogue to Redemption]]
-- [[2008 - Quest for Glory II VGA Remake]]
 - [[2008 - Quest for Glory II VGA Remake]]
 - [[1989 - Quest for Glory I - So You Want to Be a Hero]]
 - [[1990 - Quest for Glory II - Trial by Fire]]

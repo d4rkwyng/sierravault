@@ -31,11 +31,9 @@ The game was "favored for the smooth animation, fast 8-direction scrolling and r
 > **Designer:** [[Hibiki Godai]], Satoshi Uesaka[^ref-8]
 > **Publisher:** [[Sierra On-Line]] (US), Game Arts (Japan)[^ref-1]
 > **Engine:** Game Arts Engine[^ref-1]
-> **Engine:** Game Arts Engine[^ref-1]
 > **Platforms:** PC-8801, MS-DOS, Apple II, Apple IIgs, Amiga, Atari ST, Famicom, NES, MSX, Sharp X1, FM-7, PC-9801, Macintosh, PlayStation 3, PSP, Nintendo Switch[^ref-9]
 > **Release Year:** 1985
 > **Series:** Thexder
-> **Protagonist:** Thexder (transforming robot)
 > **Protagonist:** Thexder (transforming robot)
 > **Sierra Lineage:** Licensed Title
 

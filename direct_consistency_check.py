@@ -176,7 +176,8 @@ def h3_sections(content: str) -> set:
     return {m.group(1).strip() for m in re.finditer(r'^### (.+)', content, re.MULTILINE)}
 
 def count_ref_definitions(body: str) -> int:
-    return len(re.findall(r'^\[\^ref-\d+\]:', body, re.MULTILINE))
+    """Count UNIQUE footnote keys — duplicate `[^ref-N]:` lines count once."""
+    return len(set(re.findall(r'^\[\^(ref-\d+)\]:', body, re.MULTILINE)))
 
 def count_inline_citations(body: str) -> int:
     return len(re.findall(r'\[\^ref-\d+\](?!:)', body))

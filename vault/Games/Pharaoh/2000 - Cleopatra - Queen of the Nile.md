@@ -32,12 +32,7 @@ GameSpot called it "a rare thing to find an expansion worthy of the original"[^r
 > **Designer:** Alan Venable, Charles Kibler, [[Chris Beatrice]][^ref-7]
 > **Publisher:** Sierra Entertainment[^ref-1]
 > **Engine:** Pharaoh Engine[^ref-1]
-> **Engine:** Pharaoh Engine[^ref-1]
 > **Platforms:** Microsoft Windows, PC[^ref-1]
-> **Release Year:** 2000
-> **Series:** Pharaoh
-> **Protagonist:** Egyptian Governor (player-named)
-> **Sierra Lineage:** Sierra PublishedPlatforms:** Microsoft Windows, PC[^ref-1]
 > **Release Year:** 2000
 > **Series:** Pharaoh
 > **Protagonist:** Egyptian Governor (player-named)

@@ -259,7 +259,6 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 [^ref-5]: [MobyGames – Marauder](https://www.mobygames.com/game/29171/marauder/) – credits, technical specs, ratings, related versions
 [^ref-6]: [IGN – Marauder](https://www.ign.com/games/marauder-2600) – release date, single phase notation, publisher info
 [^ref-7]: [Tumblr – @oldschoolfrp](https://www.tumblr.com/oldschoolfrp/793702054461882368/1982-later-that-same-year-on-line-systems-was) – company renaming context, Softline feature
-[^ref-8]: [Orphaned Games – Marauder Review](https://orphanedgames.com/articles/Marauder_Review/Marauder_Review%20(Atari%202600).html) – detailed gameplay analysis, bugs, easter eggs, quotes
 [^ref-9]: [Doctor Spuds Reviews Things – Marauder Review](https://doctorspudsreviewsthings.wordpress.com/2019/05/20/marauder-tigervision-atari-2600-game-review/) – gameplay mechanics, pricing, collector value, comparisons
 [^ref-10]: [My Abandonware – Marauder](https://www.myabandonware.com/game/marauder-h9y) – regional versions, file size, basic metadata
 [^ref-11]: [The Video Game Critic – Atari 2600 Reviews (M)](https://videogamecritic.com/2600mm.htm) – revised review, C+ grade, line-of-sight praise
@@ -267,3 +266,5 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 [^ref-14]: [Atari Compendium – Marauder Manual](https://www.ataricompendium.com/archives/manuals/vcs/marauder.pdf) – original documentation archive
 [^ref-15]: [Games Database – Marauder Atari 2600](https://www.gamesdatabase.org/game/atari-2600/marauder) – Atari game database entry and technical specifications
 [^ref-8]: [Orphaned Computers – Marauder Review](https://orphanedgames.com/articles/Marauder_Review/Marauder_Review%20(Atari%202600).html) – detailed gameplay analysis and collector information
+
+[^ref-16]: [IGDB – Marauder](https://www.igdb.com/search?q=Marauder) — Game database cross-reference

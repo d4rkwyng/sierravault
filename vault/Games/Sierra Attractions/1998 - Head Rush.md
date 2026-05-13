@@ -211,7 +211,6 @@ In retrospect, Head Rush serves as a time capsule of late 1990s teen culture, wi
 ## References
 
 [^ref-1]: [IMDB – Head Rush](https://www.imdb.com/title/tt5995744/) – credits, development information, release year, trivia
-[^ref-2]: [Sierra Chest – Head Rush](https://sierrachest.com/index.php?a=games&id=631&title=head-rush&fld=box) – publisher, platform, bundling information, demo details, UPC
 [^ref-3]: [Metacritic – Head Rush](https://www.metacritic.com/game/head-rush/) – tagline, release date, developer
 [^ref-4]: [MobyGames – Head Rush](https://www.mobygames.com/game/3639/head-rush/) – gameplay details, technical specs, ratings, sticker trivia, multiplayer info
 [^ref-5]: [MobyGames User Review – Adam Baratz](https://www.mobygames.com/game/3639/head-rush/reviews/) – critical analysis of humor shift, comparison to YDKJ

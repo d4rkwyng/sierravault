@@ -32,11 +32,9 @@ Part of Sierra's Discovery Series of educational titles, EcoQuest represented th
 > **Designer:** [[Jane Jensen]], Gano Haine[^ref-7]
 > **Publisher:** Sierra On-Line[^ref-6]
 > **Engine:** SCI1[^ref-8]
-> **Engine:** SCI1[^ref-8]
 > **Platforms:** DOS, MS-DOS, CD-ROM, VGA, EGA[^ref-8]
 > **Release Year:** 1991
 > **Series:** EcoQuest
-> **Protagonist:** Adam Greene
 > **Protagonist:** Adam Greene
 > **Sierra Lineage:** Core Sierra
 

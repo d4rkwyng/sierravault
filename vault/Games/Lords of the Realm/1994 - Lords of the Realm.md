@@ -258,7 +258,6 @@ Today, Lords of the Realm is recognized as a foundational title that helped defi
 [^ref-22]: [SquakNet – Lords of the Realm](https://www.squakenet.com/game/lords-of-the-realm/) – gameplay description
 [^ref-23]: [Lemon Amiga – Lords of the Realm](https://www.lemonamiga.com/game/lords-of-the-realm) – development credits, art direction, documentation
 [^ref-24]: [Sierra Help – Lords of the Realm Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/LordsOfTheRealmUpdates.html) – patch versions
-[^ref-25]: [VOGONS Forums – Lords of the Realm CD Version](https://www.vogons.org/viewtopic.php?t=65888) – CD version differences, technical issues
 [^ref-26]: [Microsoft Learn – 16-bit Application Support](https://learn.microsoft.com/en-us/answers/questions/2410263/unsupported-16-bit-application-lords-of-the-realm) – compatibility information
 [^ref-25]: [VOGONS Forums – Lords of the Realm Version Differences](https://www.vogons.org/viewtopic.php?t=104795) – Holy Roman Empire scenario
 [^ref-28]: [Wikipedia – Lords of the Realm II](https://en.wikipedia.org/wiki/Lords_of_the_Realm_II) – sequel information, sales data, design philosophy

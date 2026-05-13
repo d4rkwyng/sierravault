@@ -33,7 +33,6 @@ As a licensed title, WizMath holds the distinction of being the second game to f
 > **Designer:** Jewell Couch, Rick Banks, Steve Armstrong[^ref-2]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** 6502/Z80 Assembly[^ref-2]
-> **Engine:** 6502/Z80 Assembly[^ref-2]
 > **Composer:** Paul Butler[^ref-2]
 > **Platforms:** ColecoVision, Commodore 64, Apple II[^ref-2]
 > **Release Year:** 1984[^ref-1]

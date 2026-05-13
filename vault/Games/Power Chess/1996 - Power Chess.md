@@ -128,13 +128,11 @@ Despite its innovations, the series was discontinued after 1998, and the game is
 
 [^ref-1]: [Wikipedia - Power Chess](https://en.wikipedia.org/wiki/Power_Chess) – - Game overview and adaptive AI description
 [^ref-2]: [Ask MetaFilter](https://ask.metafilter.com/298024/Chess-Game-with-Built-in-Tutor) – - Royal court metaphor and Queen tutor role
-[^ref-3]: [Chess.com Forum](https://www.chess.com/forum/view/chess-equipment/does-anyone-remember-this-chess-software) – - Twin engine description
 [^ref-4]: [ElISoftware.org](http://elisoftware.org/w/index.php/Power_Chess_98_(PC,_CD-ROM) – _Sierra_-_1997_USA,_Canada_Release) - Larry Christiansen quote on innovation
 [^ref-5]: [MobyGames - Power Chess 98](https://www.mobygames.com/game/38740/power-chess-98/) – - Developer information
 [^ref-6]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=410&title=power-chess&fld=box) – - Publisher information
 [^ref-7]: [UVList.net](https://www.uvlist.net/game-45045-Power+Chess+2.0) – - Platform compatibility information
 [^ref-8]: [Chess.com Forum](https://www.chess.com/forum/view/chess-books-equipment/a-search-for-older-chess-software-16790882) – - Royal court instructional design
-[^ref-9]: [Archive.org](https://archive.org/details/powerchess98usa) – - Court members and difficulty levels
 [^ref-10]: [Amazon Product Page](https://www.amazon.com/Power-Chess-98-PC/dp/B0008ELX5O) – - Adaptive chess engine description
 [^ref-11]: [MobyGames - Power Chess](https://www.mobygames.com/game/1922/power-chess/) – - Internet multiplayer support
 [^ref-12]: [GameSpot Review](https://www.gamespot.com/reviews/power-chess-98-review/1900-2545810/) – - Human-like AI design goal

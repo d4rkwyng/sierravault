@@ -147,7 +147,6 @@ The cyberpunk worldbuilding created an immersive dystopian future that contraste
 [^ref-10]: [MyAbandonware](https://www.myabandonware.com/game/manhunter-new-york-ha) – - Alien occupation rules
 [^ref-11]: [Retro Freak Reviews](https://retrofreakreviews.com/2018/11/09/manhunter-new-york-review/) – - Manhunter role description
 [^ref-12]: [IGN](https://www.ign.com/games/manhunter-new-york/walkthroughs) – - Game summary with MAD device
-[^ref-13]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Manhunter) – - Gameplay mechanics
 [^ref-14]: [Wikipedia](https://en.wikipedia.org/wiki/Manhunter:_New_York) – - Plot twist revelation
 [^ref-15]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Manhunter:+New+York&gid=1867) – - Control scheme description
 [^ref-16]: [Banjo's Mods](https://banjosmods.wordpress.com/category/manhunter/) – - Interface and theme description

@@ -158,7 +158,6 @@ The official website continues to provide gameplay tutorials and FAQ documentati
 [^ref-9]: [PCGamingWiki – Tribes 3: Rivals](https://www.pcgamingwiki.com/wiki/Tribes_3:_Rivals) – technical info
 [^ref-10]: [Reddit r/Tribes](https://www.reddit.com/r/Tribes/) – community discussion
 [^ref-11]: [Prophecy Games Discord](https://discord.gg/tribes) – official community
-[^ref-12]: [Developer Interview – Mick Larkins](https://www.youtube.com/results?search_query=tribes+3+rivals+developer+interview) – development insights
 [^ref-12]: [YouTube Gameplay](https://www.youtube.com/results?search_query=tribes+3+rivals+gameplay) – gameplay videos
 [^ref-14]: [Tribes Wiki](https://wiki.tribesdepot.com/wiki/Tribes_Wiki) – series information
 [^ref-15]: [SteamBase Charts](https://steambase.io/games/tribes-3-rivals/steam-charts) – additional statistics

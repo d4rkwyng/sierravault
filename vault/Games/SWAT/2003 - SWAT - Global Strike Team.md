@@ -242,7 +242,6 @@ The Armchair Empire review encapsulated the game's mixed legacy: "If you are a t
 [^ref-3]: [GOG.com – SWAT: Global Strike Team Dreamlist](https://www.gog.com/dreamlist/game/swat-global-strike-team-2003) – user reviews, gameplay description
 [^ref-4]: [GameFAQs – SWAT: Global Strike Team (PS2)](https://gamefaqs.gamespot.com/ps2/589697-swat-global-strike-team) – game modes, user ratings, character information
 [^ref-5]: [IGN – Deliver Justice Around the Globe](https://www.ign.com/articles/2003/10/28/deliver-justice-around-the-globe) – voice command features, release announcement
-[^ref-6]: [Metacritic – SWAT: Global Strike Team](https://www.metacritic.com/game/swat-global-strike-team/critic-reviews/?platform=playstation-2) – aggregate scores, critic reviews, Edge Magazine quote
 [^ref-7]: [MobyGames – SWAT: Global Strike Team](https://www.mobygames.com/game/40822/swat-global-strike-team/) – designers, technical specs, trivia, ratings
 [^ref-8]: [Xania.org – Developing SWAT GST Introduction](https://xania.org/201002/developing-swat-gst-introduction) – development history, engine details, Matt Godbolt quotes
 [^ref-12]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/SWAT:_Global_Strike_Team) – story background, character descriptions

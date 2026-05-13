@@ -4,7 +4,7 @@
     "passing": 507,
     "failing": 0,
     "pass_rate_pct": 100.0,
-    "average_score": 98.0
+    "average_score": 98.2
   },
   "pages": [
     {
@@ -42,38 +42,6 @@
           "severity": "error",
           "message": "2 unresolved See Also link(s)",
           "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1994 - Sierra Soccer - World Challenge Edition.md",
-      "series": "Dynamix",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 91.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://amiga.abime.net/games/view/sierra-soccer-world-challenge-edition', 'https://www.mobygames.com/game/sierra-soccer-world-challenge-edition/']",
-          "points_lost": 5
         }
       ]
     },
@@ -378,8 +346,8 @@
       ]
     },
     {
-      "filename": "1982 - Marauder.md",
-      "series": "Arcade",
+      "filename": "1993 - Turbo Learning - Mega Math.md",
+      "series": "Discovery",
       "page_type": "standard",
       "is_flagship": false,
       "is_non_narrative": true,
@@ -387,7 +355,7 @@
       "score": 93.1,
       "passes": true,
       "status": "PASS",
-      "ref_count": 15,
+      "ref_count": 19,
       "issues": [
         {
           "category": "References",
@@ -398,7 +366,7 @@
         {
           "category": "References",
           "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://orphanedgames.com/articles/Marauder_Review/Marauder_Review%20(Atari%202600']",
+          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/3415/turbo-learning-mega-math/']",
           "points_lost": 5
         }
       ]
@@ -570,32 +538,6 @@
       ]
     },
     {
-      "filename": "1993 - Fates of Twinion.md",
-      "series": "INN",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 46,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.abandonwaredos.com/abandonware-game.php?abandonware=Fates+of+Twinion&gid=1252', 'https://en.wikipedia.org/wiki/The_Shadow_of_Yserbius', 'https://www.dungeoncrawlers.org/game/fates-of-twinion/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "1994 - Playtoons 1 - Uncle Archibald.md",
       "series": "Playtoons",
       "page_type": "standard",
@@ -718,32 +660,6 @@
       ]
     },
     {
-      "filename": "2001 - Deathmatch Classic.md",
-      "series": "Valve",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 93.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 30,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Puzzles and Mechanics",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.metacritic.com/game/deathmatch-classic/', 'https://www.mobygames.com/game/34748/deathmatch-classic/', 'https://combineoverwiki.net/wiki/Deathmatch_Classic']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "2000 - Ricochet.md",
       "series": "Valve",
       "page_type": "standard",
@@ -785,7 +701,7 @@
       "score": 93.8,
       "passes": true,
       "status": "PASS",
-      "ref_count": 28,
+      "ref_count": 27,
       "issues": [
         {
           "category": "Structure",
@@ -849,7 +765,7 @@
       "score": 94.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 18,
+      "ref_count": 17,
       "issues": [
         {
           "category": "Structure",
@@ -1607,7 +1523,7 @@
       "score": 94.8,
       "passes": true,
       "status": "PASS",
-      "ref_count": 27,
+      "ref_count": 26,
       "issues": [
         {
           "category": "Structure",
@@ -1748,106 +1664,6 @@
       ]
     },
     {
-      "filename": "1999 - Professional Bull Rider.md",
-      "series": "Sierra Sports",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 34,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/58224/professional-bull-rider/', 'https://gamefaqs.gamespot.com/pc/198358-professional-bull-rider', 'https://www.bluesnews.com/pressreleases/bull.shtml']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1981 - Sabotage.md",
-      "series": "Arcade",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://archive.org/details/a2_asimov_sabotage', 'https://www.apple2history.org/appendix/aha/aha81/', 'https://www.elisoftware.org']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1993 - Take a Break! Pinball.md",
-      "series": "Take a Break!",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 34,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://classicreload.com/take-a-break-pinball.html', 'https://retro365.blog/2025/02/16/3-d-ultra-pinball-revitalizing-a-classic-game-in-the-multimedia-age/', 'https://www.metacritic.com/game/take-a-break-pinball/details/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1983 - BC's Quest for Tires.md",
-      "series": "BC",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 46,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/7196/bcs-quest-for-tires/', 'https://archive.org/details/BCs_Quest_for_Tires_1983_Sierra_On_Line', \"https://en.wikipedia.org/wiki/B.C.'s_Quest_for_Tires\"]",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1984 - BC II - Grog's Revenge.md",
-      "series": "BC",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 44,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): [\"https://dbpedia.org/page/B.C._II:_Grog's_Revenge\", 'https://www.mobygames.com/game/10328/bc-ii-grogs-revenge/', \"https://www.c64-wiki.com/wiki/B.C._II_-_Grog's_Revenge\"]",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "1991 - A-10 Tank Killer v1.5.md",
       "series": "A-10 Tank Killer",
       "page_type": "standard",
@@ -1863,86 +1679,6 @@
           "category": "References",
           "severity": "error",
           "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/2467/a-10-tank-killer/', 'https://en.wikipedia.org/wiki/A-10_Tank_Killer']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1995 - Command Aces of the Deep.md",
-      "series": "Aces",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 32,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://dynamix.fandom.com/wiki/Aces_of_the_Deep:_Expansion_Disk', 'https://en.wikipedia.org/wiki/Aces_of_the_Deep']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1994 - Spelling Blizzard.md",
-      "series": "Discovery",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 56,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://gamefaqs.gamespot.com/pc/928889-spelling-blizzard', 'https://www.mobygames.com/game/97671/spelling-blizzard/', 'https://alchetron.com/Spelling-Jungle']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1993 - Turbo Learning - Mega Math.md",
-      "series": "Discovery",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 38,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://gamefaqs.gamespot.com/pc/532818-turbo-learning-mega-math/data', 'https://dynamix.fandom.com/wiki/Turbo_Learning:_Mega_Math', 'https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=box']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2000 - PGA Championship Golf 2000.md",
-      "series": "PGA Championship Golf",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 25,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.gamevortex.com/gamevortex/soft_rev.php/1735']",
           "points_lost": 5
         }
       ]
@@ -2044,166 +1780,6 @@
       ]
     },
     {
-      "filename": "1996 - The Realm Online.md",
-      "series": "INN",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 32,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://en.wikipedia.org/wiki/The_Realm_Online', 'https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheRealmOnline', 'https://www.sierragamers.com/forums/topic/quest-for-glory-the-realm-online/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1998 - Red Baron 3D.md",
-      "series": "Red Baron",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 27,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://en.wikipedia.org/wiki/Red_Baron_3-D', 'https://www.mobygames.com/game/5123/red-baron-3-d/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1997 - Lords of Magic.md",
-      "series": "Lords of Magic",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 38,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://gamefaqs.gamespot.com/pc/70167-lords-of-magic-special-edition/faqs/30063']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1990 - Oils Well.md",
-      "series": "Oils Well",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 40,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://archive.org/details/msdos_Oils_Well_1990', 'https://gamefaqs.gamespot.com/pc/605484-oils-well-1990/videos/1206971', 'https://en.wikipedia.org/wiki/Oil%27s_Well']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2001 - Empire Earth.md",
-      "series": "Empire Earth",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 86,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/5374/empire-earth/', 'https://en.wikipedia.org/wiki/Empire_Earth_(video_game', 'https://archive.org/stream/Empire_Earth_-_Manual_-_PC/Empire_Earth_-_Manual_-_PC_djvu.txt']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1996 - Power Chess.md",
-      "series": "Power Chess",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 21,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://archive.org/details/powerchess98usa', 'https://www.chess.com/forum/view/chess-equipment/does-anyone-remember-this-chess-software']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1999 - Power Chess 2.0.md",
-      "series": "Power Chess",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 32,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://mobygames.com/game/power-chess-20', 'https://gamefabrique.com/developers/sierra/', 'https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2832']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1998 - Sierra Pro Pilot '99.md",
-      "series": "Sierra Pro Pilot",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 44,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://archive.org/details/sierra-pro-pilot-98-the-complete-flight-simulator', 'https://en.wikipedia.org/wiki/Sierra_Pro_Pilot_98%3A_The_Complete_Flight_Simulator', 'https://web.archive.org/web/19980627112336/http://www.dynamix.com/pr/pp-pr.html']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "1995 - Playtoons 2 - The Case of the Counterfeit Collaborator.md",
       "series": "Playtoons",
       "page_type": "standard",
@@ -2219,26 +1795,6 @@
           "category": "References",
           "severity": "error",
           "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1996 - Space Bucks.md",
-      "series": "Strategy",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 44,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.ebay.com/itm/267099826308', 'https://www.old-games.com/download/5568/space-bucks', 'https://archive.org/details/space-bucks']",
           "points_lost": 5
         }
       ]
@@ -2322,66 +1878,6 @@
       ]
     },
     {
-      "filename": "2003 - Contract J.A.C.K..md",
-      "series": "Monolith",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 90,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://en.wikipedia.org/wiki/Contract_J.A.C.K.', 'https://gamefaqs.gamespot.com/pc/917875-contract-jack/data', 'https://www.ign.com/articles/2003/11/20/contract-jack-review']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1984 - Sword of Kadash.md",
-      "series": "Dynamix",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 23,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['http://www.virtualapple.org/swordofkadashdisk.html']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2014 - Gabriel Knight - Sins of the Fathers \u2013 20th Anniversary Edition.md",
-      "series": "Gabriel Knight",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 42,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://en.wikipedia.org/wiki/Gabriel_Knight', 'https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers_20th_anniversary_edition', 'https://www.mobygames.com/game/68982/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "1994 - Battle Bugs.md",
       "series": "Standalone",
       "page_type": "standard",
@@ -2424,66 +1920,6 @@
           "severity": "warning",
           "message": "Reference count below target of 20",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1999 - Ultimate Soccer Manager 98-99.md",
-      "series": "Ultimate Soccer Manager",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 38,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://archive.org/details/ultimate-soccer-manager-98-99', 'https://en.wikipedia.org/wiki/Ultimate_Soccer_Manager', 'https://www.mobygames.com/game/568/ultimate-soccer-manager-98/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1991 - More After Dark.md",
-      "series": "After Dark",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 40,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://archive.org/details/AfterDark2', 'https://archive.org/details/AfterDark_-_MoreAfterDark', 'https://www.macintoshrepository.org/67-after-dark-more-after-dark']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1988 - Manhunter - New York.md",
-      "series": "Manhunter",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 24,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Manhunter']",
-          "points_lost": 5
         }
       ]
     },
@@ -2594,6 +2030,32 @@
       ]
     },
     {
+      "filename": "1994 - Sierra Soccer - World Challenge Edition.md",
+      "series": "Dynamix",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Origins or ### Production",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
       "series": "3D Ultra",
       "page_type": "standard",
@@ -2687,7 +2149,7 @@
       "score": 96.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 16,
+      "ref_count": 15,
       "issues": [
         {
           "category": "References",
@@ -3297,7 +2759,7 @@
       "score": 96.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 19,
+      "ref_count": 18,
       "issues": [
         {
           "category": "References",
@@ -3527,7 +2989,7 @@
       "score": 96.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 39,
+      "ref_count": 38,
       "issues": [
         {
           "category": "Series Continuity",
@@ -3662,6 +3124,32 @@
       ]
     },
     {
+      "filename": "2001 - Deathmatch Classic.md",
+      "series": "Valve",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 96.4,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Puzzles and Mechanics",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1992 - Quest for Glory I - So You Want to Be a Hero VGA.md",
       "series": "Quest for Glory",
       "page_type": "standard",
@@ -3711,7 +3199,7 @@
       "score": 96.4,
       "passes": true,
       "status": "PASS",
-      "ref_count": 31,
+      "ref_count": 30,
       "issues": [
         {
           "category": "Series Continuity",
@@ -3751,7 +3239,7 @@
       "score": 96.4,
       "passes": true,
       "status": "PASS",
-      "ref_count": 34,
+      "ref_count": 33,
       "issues": [
         {
           "category": "Series Continuity",
@@ -4190,7 +3678,47 @@
       ]
     },
     {
+      "filename": "1999 - Professional Bull Rider.md",
+      "series": "Sierra Sports",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1981 - Threshold.md",
+      "series": "Arcade",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1981 - Sabotage.md",
       "series": "Arcade",
       "page_type": "standard",
       "is_flagship": false,
@@ -4300,6 +3828,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 18,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1982 - Marauder.md",
+      "series": "Arcade",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
       "issues": [
         {
           "category": "References",
@@ -4452,6 +4000,26 @@
     {
       "filename": "1991 - A.G.E..md",
       "series": "Coktel",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1993 - Take a Break! Pinball.md",
+      "series": "Take a Break!",
       "page_type": "standard",
       "is_flagship": false,
       "is_non_narrative": true,
@@ -5299,7 +4867,7 @@
       "score": 98.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 16,
+      "ref_count": 15,
       "issues": [
         {
           "category": "References",
@@ -5320,6 +4888,46 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 19,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1993 - Fates of Twinion.md",
+      "series": "INN",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 23,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1996 - The Realm Online.md",
+      "series": "INN",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 16,
       "issues": [
         {
           "category": "References",
@@ -5732,6 +5340,46 @@
     {
       "filename": "1992 - Discovery - In the Steps of Columbus.md",
       "series": "Impressions",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 16,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1996 - Power Chess.md",
+      "series": "Power Chess",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1999 - Power Chess 2.0.md",
+      "series": "Power Chess",
       "page_type": "standard",
       "is_flagship": false,
       "is_non_narrative": true,
@@ -6250,6 +5898,26 @@
       ]
     },
     {
+      "filename": "1998 - Head Rush.md",
+      "series": "Sierra Attractions",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1982 - Ultima II - The Revenge of the Enchantress.md",
       "series": "Ultima",
       "page_type": "standard",
@@ -6280,6 +5948,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1999 - Ultimate Soccer Manager 98-99.md",
+      "series": "Ultimate Soccer Manager",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
       "issues": [
         {
           "category": "References",
@@ -6559,7 +6247,7 @@
       "score": 99.1,
       "passes": true,
       "status": "PASS",
-      "ref_count": 41,
+      "ref_count": 40,
       "issues": [
         {
           "category": "References",
@@ -6657,7 +6345,7 @@
       "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 41,
+      "ref_count": 40,
       "issues": []
     },
     {
@@ -6856,6 +6544,19 @@
       "issues": []
     },
     {
+      "filename": "2003 - Contract J.A.C.K..md",
+      "series": "Monolith",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 45,
+      "issues": []
+    },
+    {
       "filename": "1991 - The Adventures of Willy Beamish.md",
       "series": "Dynamix",
       "page_type": "standard",
@@ -6892,6 +6593,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 23,
+      "issues": []
+    },
+    {
+      "filename": "1984 - Sword of Kadash.md",
+      "series": "Dynamix",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
       "issues": []
     },
     {
@@ -6943,7 +6657,7 @@
       "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 25,
+      "ref_count": 23,
       "issues": []
     },
     {
@@ -6970,6 +6684,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 65,
+      "issues": []
+    },
+    {
+      "filename": "2014 - Gabriel Knight - Sins of the Fathers \u2013 20th Anniversary Edition.md",
+      "series": "Gabriel Knight",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
       "issues": []
     },
     {
@@ -7008,7 +6735,7 @@
       "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 92,
+      "ref_count": 46,
       "issues": []
     },
     {
@@ -7398,7 +7125,7 @@
       "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 41,
+      "ref_count": 40,
       "issues": []
     },
     {
@@ -7480,6 +7207,32 @@
       "issues": []
     },
     {
+      "filename": "1983 - BC's Quest for Tires.md",
+      "series": "BC",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 23,
+      "issues": []
+    },
+    {
+      "filename": "1984 - BC II - Grog's Revenge.md",
+      "series": "BC",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
+      "issues": []
+    },
+    {
       "filename": "2000 - Ground Control.md",
       "series": "Ground Control",
       "page_type": "standard",
@@ -7554,7 +7307,7 @@
       "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 50,
+      "ref_count": 49,
       "issues": []
     },
     {
@@ -7580,7 +7333,7 @@
       "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 54,
+      "ref_count": 52,
       "issues": []
     },
     {
@@ -7697,7 +7450,7 @@
       "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 33,
+      "ref_count": 32,
       "issues": []
     },
     {
@@ -7866,7 +7619,7 @@
       "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 38,
+      "ref_count": 36,
       "issues": []
     },
     {
@@ -7970,7 +7723,7 @@
       "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 40,
+      "ref_count": 39,
       "issues": []
     },
     {
@@ -8010,6 +7763,32 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 27,
+      "issues": []
+    },
+    {
+      "filename": "1995 - Command Aces of the Deep.md",
+      "series": "Aces",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 30,
+      "issues": []
+    },
+    {
+      "filename": "1994 - Spelling Blizzard.md",
+      "series": "Discovery",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 28,
       "issues": []
     },
     {
@@ -8101,6 +7880,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 33,
+      "issues": []
+    },
+    {
+      "filename": "2000 - PGA Championship Golf 2000.md",
+      "series": "PGA Championship Golf",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 24,
       "issues": []
     },
     {
@@ -8338,19 +8130,6 @@
       "issues": []
     },
     {
-      "filename": "1998 - Head Rush.md",
-      "series": "Sierra Attractions",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 100.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": []
-    },
-    {
       "filename": "1985 - Thexder.md",
       "series": "Thexder",
       "page_type": "standard",
@@ -8413,6 +8192,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 28,
+      "issues": []
+    },
+    {
+      "filename": "1998 - Red Baron 3D.md",
+      "series": "Red Baron",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 25,
       "issues": []
     },
     {
@@ -8650,6 +8442,19 @@
       "issues": []
     },
     {
+      "filename": "1997 - Lords of Magic.md",
+      "series": "Lords of Magic",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 37,
+      "issues": []
+    },
+    {
       "filename": "1998 - Lords of Magic - Special Edition.md",
       "series": "Lords of Magic",
       "page_type": "standard",
@@ -8738,6 +8543,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 29,
+      "issues": []
+    },
+    {
+      "filename": "1991 - More After Dark.md",
+      "series": "After Dark",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {
@@ -8832,6 +8650,19 @@
       "issues": []
     },
     {
+      "filename": "1990 - Oils Well.md",
+      "series": "Oils Well",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
       "filename": "1989 - Manhunter - San Francisco.md",
       "series": "Manhunter",
       "page_type": "standard",
@@ -8842,6 +8673,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 24,
+      "issues": []
+    },
+    {
+      "filename": "1988 - Manhunter - New York.md",
+      "series": "Manhunter",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 23,
       "issues": []
     },
     {
@@ -8880,7 +8724,7 @@
       "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 44,
+      "ref_count": 43,
       "issues": []
     },
     {
@@ -8962,6 +8806,19 @@
       "issues": []
     },
     {
+      "filename": "2001 - Empire Earth.md",
+      "series": "Empire Earth",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 43,
+      "issues": []
+    },
+    {
       "filename": "1986 - The Black Cauldron.md",
       "series": "Disney",
       "page_type": "standard",
@@ -9027,6 +8884,19 @@
       "issues": []
     },
     {
+      "filename": "1998 - Sierra Pro Pilot '99.md",
+      "series": "Sierra Pro Pilot",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
+      "issues": []
+    },
+    {
       "filename": "1998 - Sierra Pro Pilot USA.md",
       "series": "Sierra Pro Pilot",
       "page_type": "standard",
@@ -9088,7 +8958,7 @@
       "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 37,
+      "ref_count": 36,
       "issues": []
     },
     {
@@ -9453,6 +9323,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 31,
+      "issues": []
+    },
+    {
+      "filename": "1996 - Space Bucks.md",
+      "series": "Strategy",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
       "issues": []
     },
     {

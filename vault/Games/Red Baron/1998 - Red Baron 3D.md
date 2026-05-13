@@ -132,7 +132,6 @@ The game's comprehensive manual featured rich illustrated content about World Wa
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki - Red Baron 3-D](https://dynamix.fandom.com/wiki/Red_Baron_3-D) – - Development credits and technical details
-[^ref-2]: [MobyGames - Red Baron 3-D](https://www.mobygames.com/game/5123/red-baron-3-d/) – - Game description
 [^ref-3]: [Wallenborg.se](http://wallenborg.se/swordfish/) – - Historical flavor description
 [^ref-4]: [MobyGames - Red Baron](https://www.mobygames.com/game/1766/red-baron/) – - Game premise description
 [^ref-5]: [Wikipedia - Red Baron II](https://en.wikipedia.org/wiki/Red_Baron_II) – - Development history
@@ -147,7 +146,6 @@ The game's comprehensive manual featured rich illustrated content about World Wa
 [^ref-14]: [Wings of Honour](https://www.wingsofhonour.com/redbaron3d/html_woh_redbaron3d_about.en.html) – - Flight simulation complexity
 [^ref-15]: [jeuxvideo.com](https://www.jeuxvideo.com/articles/0000/00000257_test.htm) – - Historical accuracy description
 [^ref-16]: [GameSpot Review](https://www.gamespot.com/reviews/red-baron-3d-review/1900-2532771/) – - Review score and assessment
-[^ref-17]: [Wikipedia - Red Baron 3-D](https://en.wikipedia.org/wiki/Red_Baron_3-D) – - GameRevolution score
 [^ref-18]: [Classic Gaming Network](http://www.classic-gaming.net/game/445/) – - Historical assessment
 [^ref-19]: [GameSpot Red Baron II Review](https://www.gamespot.com/reviews/red-baron-ii-review/1900-2532770/) – - Launch criticism
 [^ref-20]: [Web Archive - Allgame Review](https://web.archive.org/web/20141116011345/http://www.allgame.com/game.php?id=17656&tab=review) – - Development philosophy

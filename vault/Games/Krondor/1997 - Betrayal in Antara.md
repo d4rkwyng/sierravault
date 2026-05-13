@@ -31,11 +31,9 @@ The game emerged from Sierra's need to create a new RPG after losing the rights 
 > **Designer:** [[John Cutter]], [[Neal Hallford]], Peter Sarrett[^ref-7]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** Updated Betrayal at Krondor engine[^ref-2]
-> **Engine:** Updated Betrayal at Krondor engine[^ref-2]
 > **Platforms:** Windows, PC, Windows 95, Windows 3.1, Windows for Workgroups[^ref-5]
 > **Release Year:** 1997
 > **Series:** Krondor Series
-> **Protagonist:** Aren
 > **Protagonist:** Aren
 > **Sierra Lineage:** Core Sierra
 

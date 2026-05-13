@@ -31,7 +31,6 @@ The racing market of the mid-1990s was dominated by console kart racers, particu
 > [!info]- Game Info
 > **Developer:** Funnybone Interactive / Van Duyne Engineering[^ref-1][^ref-16]
 > **Designer:** Van Duyne Engineering[^ref-16]
-> **Designer:** Van Duyne Engineering[^ref-16]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** Funnybone Racing Engine[^ref-1]
 > **Platforms:** Windows, Windows 95[^ref-6]

@@ -142,7 +142,6 @@ The Special Edition release in 2000 attempted to address many of the original ga
 [^ref-16]: [Sierra Help](https://sierrahelp.com/Documents/Misc/Lords_of_Magic_Artifact_List.html) – - Character progression details
 [^ref-17]: [Metacritic](https://www.metacritic.com/game/lords-of-magic-special-edition/) – - Gameplay focus description
 [^ref-18]: [GameFAQs](https://gamefaqs.gamespot.com/pc/70167-lords-of-magic-special-edition/faqs/22504) – - Life faith characteristics
-[^ref-19]: [GameFAQs](https://gamefaqs.gamespot.com/pc/70167-lords-of-magic-special-edition/faqs/30063) – - Water faith economic advantages
 [^ref-20]: [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/LordsOfTheRealmUpdates.html) – - Multiplayer specifications
 [^ref-21]: [Web Archive](https://web.archive.org/web/19991210163929/http://www.pcgamer.com/reviews/638.html) – - PC Gamer review score
 [^ref-22]: [GameSpot](https://www.gamespot.com/reviews/lords-of-magic-review/1900-2535765/) – - GameSpot review score and critique

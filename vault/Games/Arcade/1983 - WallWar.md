@@ -239,6 +239,7 @@ The development story behind Wallwar is perhaps more significant than the game i
 
 [^ref-15]: [Vintage-Sierra.net – WallWar](https://www.vintage-sierra.net/arcade/wallwar.php) – Sierra arcade games archive, game documentation
 
-[^ref-16]: [Eli's Software Encyclopedia – WallWar](http://www.elisoftware.org/w/index.php/WallWar_(Atari_8-Bit,_5_1/4%22_Disk)_Sierra_-_1982_USA,_Canada_Release) – Software archive, release date documentation, format information
 [^ref-16]: [MobyGames – WallWar](https://www.mobygames.com/game/wallwar/) – platform information, credits, screenshots
 [^ref-17]: [Sierra Chest – WallWar](https://sierrachest.com/index.php?a=games&id=284&title=wallwar&fld=general) – Sierra catalog entry, release documentation
+
+[^ref-18]: [IGDB – Wallwar](https://www.igdb.com/search?q=Wallwar) — Game database cross-reference

@@ -155,7 +155,6 @@ PGA Championship Golf 2000 is not currently available on modern digital storefro
 [^ref-2]: [Game Over – PGA Championship Golf 2000 Review](https://www.game-over.net/review/june2000/pga2000/) – 88% score by Cody Nicholson, technical specs, bugs noted
 [^ref-3]: [Wikipedia – PGA Championship Golf 2000](https://en.wikipedia.org/wiki/PGA_Championship_Golf_2000) – Release dates, designers, GameRankings 88%, GameSpy award, version history
 [^ref-4]: [GameSpot – PGA Championship Golf 2000 Review](http://www.gamespot.com/pc/sports/pgachampionshipgolf2000/review.html) – 8.9/10 by Stephen Poole, TrueSwing analysis, $29.99 pricing
-[^ref-5]: [GameVortex – PGA Championship Golf 2000 Review](https://www.gamevortex.com/gamevortex/soft_rev.php/1735) – 95% score, TrueSwing 3 details, Course Architect feature
 [^ref-6]: [Eurogamer – PGA Championship Golf 2000 Review](https://www.eurogamer.net/pga2k) – 9/10, "best golfing simulation on the market"
 [^ref-7]: [MobyGames – PGA Championship Golf 2000](https://www.mobygames.com/game/2991/pga-championship-golf-2000/) – MobyScore 8.0, credits, platform data, game description
 [^ref-8]: [CNET Gamecenter – PGA Championship Golf 2000 Review](https://web.archive.org/web/20001029055452/http://gamecenter.com/Reviews/Item/0,6,0-4344,00.html) – 8/10 by Jason Ocampo, 13 courses (8 old, 5 new), multiplayer modes

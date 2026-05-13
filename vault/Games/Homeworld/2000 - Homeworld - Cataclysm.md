@@ -157,7 +157,6 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [^ref-1]: [Wikipedia - Homeworld: Cataclysm](https://en.wikipedia.org/wiki/Homeworld:_Cataclysm) – - Basic game information and development details
 [^ref-2]: [Homeworld Fandom Wiki](https://homeworld.fandom.com/wiki/Homeworld:_Cataclysm) – - Development history from expansion to standalone game
 [^ref-3]: [GOG.com - Homeworld: Emergence](https://www.gog.com/game/homeworld_emergence) – - Story summary and setting details
-[^ref-4]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Homeworld:_Cataclysm) – - Technical specifications and engine information
 [^ref-5]: [GameSpot Review](https://www.gamespot.com/reviews/homeworld-cataclysm-review/1900-2628735/) – - Gameplay comparison to original Homeworld
 [^ref-6]: [MobyGames](https://www.mobygames.com/game/2321/homeworld-cataclysm/) – - Complete development credits
 [^ref-7]: [Windows Central](https://www.windowscentral.com/classic-strategic-masterpiece-homeworld-cataclysm-now-available-gog) – - GOG re-release announcement
@@ -206,5 +205,4 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [^ref-4]: [PCGamingWiki - Multiplayer](https://www.pcgamingwiki.com/wiki/Homeworld:_Cataclysm#Multiplayer) – WON.net shutdown date
 [^ref-52]: [ModDB - Patch 1.01](https://www.moddb.com/games/homeworld-cataclysm/downloads/homeworld-cataclysm-patch-101) – Patch notes and compatibility
 [^ref-54]: [Windows Central - Emergence Release](https://www.windowscentral.com/homeworld-emergence-gog) – Trademark renaming explanation
-[^ref-55]: [Steam Community - Catatoons](https://steamcommunity.com/sharedfiles/filedetails/?id=1234567890) – Fan comic archive
 [^ref-55]: [Steam Workshop - Cataclysm Remastered Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2106772244) – Remastered mod project

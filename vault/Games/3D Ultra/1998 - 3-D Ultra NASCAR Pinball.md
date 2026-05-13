@@ -204,9 +204,10 @@ The game was part of Sierra's broader 3-D Ultra Pinball franchise, though specif
 [^ref-9]: [GameOver – 3D NASCAR Review](https://www.game-over.net/review/november/3dnascar/index.html) – review score, gameplay details, missing driver, difficulty criticism
 [^ref-10]: [IGN – 3D Ultra NASCAR Pinball Review](https://www.ign.com/articles/1999/01/28/3d-ultra-nascar-pinball) – review score, technical criticism, pricing, installation size
 [^ref-11]: [The Daily Downforce – 1998 3D Ultra NASCAR Pinball](https://dailydownforce.com/1998-3d-ultra-nascar-pinball/) – developer/publisher relationship, modern assessment
-[^ref-12]: [Giant Bomb – 3D Ultra Pinball Series](https://www.giantbomb.com/3d-ultra-pinball/3025-1049/) – Series overview and fan comments
 [^ref-13]: [MobyGames](https://www.mobygames.com/game/7090/3-d-ultra-nascar-pinball/) – Game database entry
 [^ref-14]: [Giant Bomb](https://www.giantbomb.com/3-d-ultra-nascar-pinball/3030-10695/) – Game database entry
 [^ref-15]: [IGDB](https://www.igdb.com/games/3-d-ultra-nascar-pinball) – Game database entry
 [^ref-16]: [UVList](https://www.uvlist.net/game-14091-3-D+Ultra+NASCAR+Pinball) – Universal Videogame List entry
 [^ref-12]: [MyAbandonware – 3-D Ultra NASCAR Pinball](https://www.myabandonware.com/game/3-d-ultra-nascar-pinball-3ff) – user ratings, download versions, user comments, technical issues
+
+[^ref-17]: [IGDB – 3-D Ultra NASCAR Pinball](https://www.igdb.com/search?q=3-D+Ultra+NASCAR+Pinball) — Game database cross-reference

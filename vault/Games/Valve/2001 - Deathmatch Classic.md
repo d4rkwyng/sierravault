@@ -260,22 +260,6 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 
 ## References
 
-[^ref-1]: [Metacritic – Deathmatch Classic](https://www.metacritic.com/game/deathmatch-classic/) – release date, developer, publisher, user score
-[^ref-2]: [MobyGames – Deathmatch Classic](https://www.mobygames.com/game/34748/deathmatch-classic/) – engine, platforms, publishers, German censorship, technical details
-[^ref-3]: [Combine OverWiki – Deathmatch Classic](https://combineoverwiki.net/wiki/Deathmatch_Classic) – development timeline, tribute concept, Holy Wars team, GameSpy quote
-[^ref-4]: [Metacritic User Reviews – Deathmatch Classic](https://www.metacritic.com/game/deathmatch-classic/user-reviews/) – user reviews, technical issues, gameplay descriptions
-[^ref-5]: [Rock Paper Shotgun – Have You Played Deathmatch Classic](https://www.rockpapershotgun.com/have-you-played-deathmatch-classic) – retrospective analysis, engine critique
-[^ref-6]: [ModDB – Deathmatch Classic](https://www.moddb.com/games/deathmatch-classic/downloads/1337-board-v7) – game description, tribute details
-[^ref-7]: [Steam Store – Deathmatch Classic](https://store.steampowered.com/app/40/Deathmatch_Classic/) – pricing, platforms, system requirements, user reviews, macOS compatibility
-[^ref-8]: [Steam Community Review – Snort Cannon](https://steamcommunity.com/id/snortcannon/recommended/40/) – 2020 gameplay assessment, sound design, server issues
-[^ref-9]: [Glitchwave – Deathmatch Classic](https://glitchwave.com/game/deathmatch-classic/) – ratings, player modes, multiplayer options
-[^ref-10]: [PCGamingWiki – Deathmatch Classic](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic) – technical specifications, system requirements, bug documentation
-[^ref-11]: [Steam Community Hub – Deathmatch Classic](https://steamcommunity.com/app/40) – community discussions, bundling information, bot support
-[^ref-12]: [My Abandonware – Deathmatch Classic](https://www.myabandonware.com/game/deathmatch-classic-daz) – user ratings, alternative name DMC
-[^ref-13]: [MobyGames Releases – Deathmatch Classic](https://www.mobygames.com/game/34748/deathmatch-classic/releases/) – platform-specific release dates
-[^ref-15]: [IMDB Search Results](https://www.imdb.com/find/?q=deathmatch-classic&s=tt) – Deathmatch Classic: Refragged announcement
-[^ref-93]: [Internet Archive – DMC](https://archive.org/search?query=deathmatch+classic+valve) – preserved materials
-References
 
 [^ref-1]: [Metacritic – Deathmatch Classic](https://www.metacritic.com/game/deathmatch-classic/) – release date, developer, publisher, user score
 [^ref-2]: [MobyGames – Deathmatch Classic](https://www.mobygames.com/game/34748/deathmatch-classic/) – engine, platforms, publishers, German censorship, technical details

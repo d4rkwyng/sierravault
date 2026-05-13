@@ -33,11 +33,9 @@ As the third installment in the Trophy Bass series, following Trophy Bass (1995)
 > **Designer:** Kurt Weber, [[Randy Dersham]][^ref-17]
 > **Publisher:** Sierra Sports[^ref-1]
 > **Engine:** Trophy Bass 3D Engine[^ref-1]
-> **Engine:** Trophy Bass 3D Engine[^ref-1]
 > **Platforms:** Microsoft Windows[^ref-1]
 > **Release Year:** 1999[^ref-1]
 > **Series:** Trophy Bass
-> **Protagonist:** Angler (player-named)
 > **Protagonist:** Angler (player-named)
 > **Sierra Lineage:** Core Sierra
 

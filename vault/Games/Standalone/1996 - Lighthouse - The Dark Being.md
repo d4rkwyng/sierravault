@@ -32,7 +32,6 @@ Lighthouses seem to invoke a kind of mystery that few things do[^ref-collection]
 > **Designer:** Jon Bock[^ref-2]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI32[^ref-1]
-> **Engine:** SCI32[^ref-1]
 > **Platforms:** DOS, Windows, Macintosh[^ref-5]
 > **Release Year:** 1996
 > **Series:** Lighthouse

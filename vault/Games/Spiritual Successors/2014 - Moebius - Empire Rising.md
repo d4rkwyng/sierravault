@@ -30,11 +30,9 @@ Described as "a contemporary adventure that merges classic point-and-click puzzl
 > **Designer:** [[Jane Jensen]][^ref-1]
 > **Publisher:** [[Phoenix Online Publishing]][^ref-1]
 > **Engine:** Unity[^ref-1]
-> **Engine:** Unity[^ref-1]
 > **Platforms:** Windows, Mac, Linux, iOS, Android, Steam, GOG[^ref-7]
 > **Release Year:** 2014
 > **Series:** Moebius
-> **Protagonist:** Malachi Rector
 > **Protagonist:** Malachi Rector
 > **Sierra Lineage:** Spiritual Successor
 

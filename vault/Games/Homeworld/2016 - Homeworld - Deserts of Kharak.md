@@ -192,7 +192,6 @@ The guide features eleven sections covering different story aspects with develop
 [^ref-34]: [Strategy Front Gaming](https://strategyfrontgaming.com/homeworld-deserts-of-kharak/) – - Development approach innovation
 [^ref-35]: [The Wert Zone](https://thewertzone.blogspot.com/2024/05/franchise-familiariser-homeworld.html) – - Universe lore foundation establishment
 [^ref-36]: [Polygon Review](https://www.polygon.com/2016/2/3/10906294/homeworld-deserts-of-kharak-review-pc-gearbox-blackbird/) – Future franchise development foundation
-[^ref-37]: [Steam Community Guide - Timeline](https://steamcommunity.com/sharedfiles/filedetails/?id=616785355) – 106 years before Homeworld timeline
 [^ref-40]: [Reddit - Lore Discussion](https://www.reddit.com/r/homeworld/comments/41qp5g/deserts_of_kharak_lore_connections/) – Karan S'jet connection
 [^ref-43]: Steam Store - DLC (Delisted) – Soban and Khaaneph factions (DLC no longer available)
 [^ref-37]: [Steam Community Guide - Factions](https://steamcommunity.com/sharedfiles/filedetails/?id=611829853) – Faction tactical analysis

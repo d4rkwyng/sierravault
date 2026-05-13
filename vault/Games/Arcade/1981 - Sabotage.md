@@ -252,15 +252,10 @@ From a technical standpoint, Sabotage demonstrated what was possible on the limi
 
 [^ref-10]: [Player Missile Podcast – Episode 6](https://playermissile.com/podcast/ep006.html) – March 1981 release date, Atari conversion by Shamus, platform discussion
 
-[^ref-11]: [Internet Archive – Sabotage by Mark Allen](https://archive.org/details/a2_asimov_sabotage) – Game preservation, Apple II emulation, playable archive version
 
-[^ref-12]: [Apple II History – 1981](https://www.apple2history.org/appendix/aha/aha81/) – Contemporary context, Apple II software landscape, 1981 releases
 
-[^ref-13]: [Eli's Software Encyclopedia – Sabotage](https://www.elisoftware.org) – Software database, Apple II documentation, release information
 
-[^ref-14]: [UVList – Sabotage](https://www.uvlist.net/game-155721-Sabotage) – Universal videogame list database, platform information
 
-[^ref-15]: [6502 Disassembly – Sabotage Memory Map](https://github.com/pixjuan/apple-ii-disassembly) – Technical analysis, memory documentation, assembly language details
 
 
 [^ref-11]: [Internet Archive – Sabotage by Mark Allen](https://archive.org/details/a2_asimov_sabotage) – Game preservation, Apple II emulation, playable archive version

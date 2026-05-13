@@ -34,7 +34,6 @@ Set against the backdrop of Pearl Harbor's aftermath, Aces of the Pacific spans 
 > **Release Year:** 1992
 > **Series:** Aces Series
 > **Protagonist:** WWII Pacific Theater Pilot
-> **Protagonist:** WWII Pacific Theater Pilot
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

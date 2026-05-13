@@ -33,11 +33,9 @@ The series evolved significantly over its five-year run from 1995 to 1999, expan
 > **Designer:** [[David Lester]], Neal Sumsion[^ref-1]
 > **Publisher:** Impressions Games, [[Sierra On-Line]][^ref-7]
 > **Engine:** Custom Football Management Engine[^ref-1]
-> **Engine:** Custom Football Management Engine[^ref-1]
 > **Platforms:** DOS, Amiga, Windows 95/98[^ref-8]
 > **Release Year:** 1995
 > **Series:** Ultimate Soccer Manager
-> **Protagonist:** Football Club Manager
 > **Protagonist:** Football Club Manager
 > **Sierra Lineage:** Sierra Published
 

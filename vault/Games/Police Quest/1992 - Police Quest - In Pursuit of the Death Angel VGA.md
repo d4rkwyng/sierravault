@@ -283,7 +283,6 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 [^ref-7]: [MobyGames – User Review by Katakis](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/reviews/) – remake assessment, cut content, non-canonical status
 [^ref-8]: [My Abandonware – Police Quest VGA](https://www.myabandonware.com/game/police-quest-in-pursuit-of-the-death-angel-328) – designer credits
 [^ref-9]: [PCGamingWiki – Police Quest](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – engine info, system requirements, GOG release date
-[^ref-10]: [Abandonware DOS – Police Quest](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Police+Quest+1) – career progression, platform availability
 [^ref-11]: [Police Quest Fandom Wiki – AGI DOS Version](https://policequest.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(AGI_DOS/Tandy)) – drug crisis plot, training publication quotes
 [^ref-12]: [Walkthroughking – Police Quest](https://www.walkthroughking.com/text/policequest.aspx) – plot details, series overview
 [^ref-13]: [Nerds That Geek – Review](https://nerdsthatgeek.com/gaming/nerds-that-geek-game-review-police-quest-in-pursuit-of-the-death-angel) – emotional story elements

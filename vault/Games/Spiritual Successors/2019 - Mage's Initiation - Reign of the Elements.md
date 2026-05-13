@@ -297,7 +297,6 @@ The game has a small but dedicated speedrunning community. The current Any% worl
 [^ref-16]: [Sprites and Dice Review](https://spritesanddice.com/reviews/review-mages-initiation-reign-elements/) – voice acting criticism, combat description, fast travel, death mechanics
 [^ref-17]: [Steam Community – Achievement Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1701542384) – playthrough requirements, class differences, stat system, enemy kill count
 [^ref-18]: [Walkthrough King](https://www.walkthroughking.com/text/magesinitiation.aspx) – game structure, three item quest
-[^ref-19]: [AGDI Forum – Development Discussion](http://www.agdinteractive.com/forum/viewtopic.php?f=2&start=75&t=14906) – combat system description, pricing plans, development challenges
 [^ref-20]: [RPG Codex Forum – Page 9](https://rpgcodex.net/forums/threads/mages-initiation-a-classic-sierra-style-adventure-rpg.80697/page-9) – review compilation, pixel art praise, voice acting criticism
 [^ref-21]: [GameSpot Review](https://www.gamespot.com/reviews/mages-initiation-reign-of-the-elements-review-vga-/1900-6417078/) – score, reviewer name, RPG diversity criticism
 [^ref-22]: [Linux Journal Review](https://www.linuxjournal.com/content/game-review-mages-initiation-reign-elements) – post-technology world hints, nostalgia appeal, recommendation

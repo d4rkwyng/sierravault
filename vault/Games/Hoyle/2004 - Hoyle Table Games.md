@@ -294,5 +294,6 @@ The game saw distribution through multiple publishers across different regions a
 [^ref-13]: [MobyGames – Hoyle Table Games 2004 Reviews](https://www.mobygames.com/game/13166/hoyle-table-games-2004/reviews/) – Aggregate critic and player scores
 [^ref-14]: [Software Informer – Hoyle Table Games 2004](https://hoyle-table-games-2004.software.informer.com/1.0/) – User rating 4.1/5, developer Sierra, user comment
 [^ref-15]: [Old Games Download – Hoyle Table Games 2004](https://oldgamesdownload.com/hoyle-table-games-2004/) – File size 601.6MB, ISO format, developer credits
-[^ref-16]: [RAWG – Hoyle Table Games 2004](https://rawg.io/games/hoyle-table-games-2004) – Release date August 1, 2003, Vivendi Universal Games attribution[^ref-15]: [Giant Bomb - Hoyle Table Games](https://www.giantbomb.com/hoyle-table-games/) - game wiki entry
 [^ref-16]: [IGDB - Hoyle Table Games](https://www.igdb.com/games/hoyle-table-games) - Internet Games Database entry
+
+[^ref-17]: [IGDB – Hoyle Table Games 2004](https://www.igdb.com/search?q=Hoyle+Table+Games+2004) — Game database cross-reference
