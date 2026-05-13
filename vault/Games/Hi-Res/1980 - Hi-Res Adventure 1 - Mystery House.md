@@ -151,7 +151,7 @@ In 2009, Mystery House was ported to iOS, introducing the pioneering title to a 
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Mystery_House) – Comprehensive article on Mystery House
-[^ref-2]: [Sierra Help Pages](http://www.sierrahelp.com/Misc/IntroductionToRWAnth.html) – Ken Williams' introduction to The Roberta Williams Anthology
+[^ref-2]: [Sierra Help Pages](https://www.sierrahelp.com/Misc/IntroductionToRWAnth.html) – Ken Williams' introduction to The Roberta Williams Anthology
 [^ref-3]: [Chicago Sun-Times](https://web.archive.org/web/20150402104248/http://www.highbeam.com/doc/1P2-3915183.html) – 1988 interview: "Mom goes on-line with adventurous computer games"
 [^ref-4]: [Google Books – Horror in Video Games](https://books.google.com/books?id=VnAoDwAAQBAJ) – Rouse III, Richard (2009). "Match Made in Hell: The Inevitable Success of the Horror Genre in Video Games" in Horror in Video Games: Essays on the Fusion of Fear and Play. McFarland. ISBN 978-0-7864547-9-2
 [^ref-5]: [Computer Gaming World](http://www.cgwmuseum.org/) – Mark Marlow's 1982 review, Vol. 1, No. 2

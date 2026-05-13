@@ -223,7 +223,7 @@ For 1997, the combination of innovative controls, online multiplayer through SIG
 
 **Manuals & Extras**
 - [GameFAQs – Front Page Sports: Golf](https://gamefaqs.gamespot.com/pc/197402-front-page-sports-golf) – Game information and FAQs[^ref-9]
-- [Sierra Help Wiki](http://www.sierrahelp.com/Games/Golf/FPSGolf.html) – Technical support and compatibility[^ref-10]
+- [Sierra Help Wiki](https://www.sierrahelp.com/Games/Golf/FPSGolf.html) – Technical support and compatibility[^ref-10]
 
 **Community Resources**
 - [VCF Forum Discussion](https://forum.vcfed.org/index.php?threads/front-page-sports-golf-add-on-courses-vol-1-no-2-specifically.1227038/) – Add-on course identification[^ref-3]
@@ -260,7 +260,7 @@ For 1997, the combination of innovative controls, online multiplayer through SIG
 [^ref-7]: [MyAbandonware – Front Page Sports: Golf](https://www.myabandonware.com/game/front-page-sports-golf-fyk) – regional releases, alternate titles, user comments, download availability, compatibility issues
 [^ref-8]: [Internet Archive – Front Page Sports: Golf](https://archive.org/details/FPSGOLF) – game preservation, original media
 [^ref-9]: [GameFAQs – Front Page Sports: Golf](https://gamefaqs.gamespot.com/pc/197402-front-page-sports-golf) – game information, user FAQs, platform details
-[^ref-10]: [Sierra Help Wiki – Front Page Sports: Golf](http://www.sierrahelp.com/Games/Golf/FPSGolf.html) – technical support, compatibility guides
+[^ref-10]: [Sierra Help Wiki – Front Page Sports: Golf](https://www.sierrahelp.com/Games/Golf/FPSGolf.html) – technical support, compatibility guides
 [^ref-11]: [Wikipedia – Headgate Studios](https://en.wikipedia.org/wiki/Headgate_Studios) – studio history, Sierra acquisition, game development
 [^ref-12]: [MobyGames – Headgate Studios](https://www.mobygames.com/company/4009/headgate-studios-inc/) – company credits, game portfolio, developer history
 [^ref-13]: [Abandonware DOS – Front Page Sports: Golf](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Front+Page+Sports%3A+Golf) – alternate titles, download availability

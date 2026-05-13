@@ -91,6 +91,6 @@ The impact of their work extends beyond just game development, as they have fost
 [^ref-15]: [IndieDB - Infamous Quests](https://www.indiedb.com/company/infamous-quests) — Independent developer community presence
 [^ref-16]: [PostuStudios - Quest for Infamy Walkthrough](https://www.postudios.com/blog/quest-for-infamy-official-walkthrough/) — Game development documentation and guides
 [^ref-17]: [Quest for Infamy - About Page](https://questforinfamy.com/about-qfi) — Detailed project information and development history
-[^ref-18]: [Sierra Help Forums - Infamous Quests Discussion](http://www.sierrahelp.com/forums/viewtopic.php?f=24&t=3989) — Community discussions and Sierra connection
+[^ref-18]: [Sierra Help Forums - Infamous Quests Discussion](https://www.sierrahelp.com/forums/viewtopic.php?f=24&t=3989) — Community discussions and Sierra connection
 [^ref-19]: [PostuStudios - Quest for Infamy Company Page](https://www.postudios.com/company/games/questforinfamy/) — Publisher relationship and game details
 [^ref-20]: [Reddit - Adventure Games Discussion](https://www.reddit.com/r/adventuregames/comments/5sm8g5/beware_infamous_quests_quest_for_infamy/) — Community feedback and player experiences
