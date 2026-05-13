@@ -172,27 +172,24 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 ---
 
-## 📡 News Sources
+## 📡 Where these items come from
 
-We monitor these sources for Sierra-related news:
+This page is hand-curated. Every dated entry is verified against at least one primary source — the article byline, a project's own Backerkit / Patreon / Kickstarter post, a developer's release page, or the official site of the platform involved — before it lands here. The Sierra-news outlets the vault leans on most:
 
-| Source | Focus | Priority |
-|--------|-------|----------|
-| [Adventure Gamers](https://adventuregamers.com/) | Reviews & news | ⭐⭐⭐ |
-| [IndieRetroNews](https://www.indieretronews.com/) | Retro/Amiga coverage | ⭐⭐⭐ |
-| [ScummVM](https://www.scummvm.org/) | Engine compatibility | ⭐⭐⭐ |
-| [GOG](https://www.gog.com/) | Digital releases | ⭐⭐ |
-| [English Amiga Board](https://eab.abime.net/) | Amiga community | ⭐⭐ |
-| [AGS Forums](https://www.adventuregamestudio.co.uk/forums/) | Fan game releases | ⭐⭐⭐ |
+- [The Digital Antiquarian](https://www.filfre.net/) — Jimmy Maher's long-form Sierra history and game-by-game retrospectives
+- [Adventure Game Hotspot](https://adventuregamehotspot.com/) — interviews, AMAs, feature pieces, reviews
+- [Adventure Gamers](https://adventuregamers.com/) — reviews and release announcements
+- [ScummVM news](https://www.scummvm.org/news/) — engine compatibility and preservation milestones
+- [IndieRetroNews](https://www.indieretronews.com/) — Amiga / retro-scene coverage
+- [English Amiga Board](https://eab.abime.net/) — Amiga community discussion
+- [AGS Forums](https://www.adventuregamestudio.co.uk/forums/) — fan-game releases and dev threads
 
----
-
-## 🔔 Subscribe
-
-Want updates? Follow us:
-- **X:** [@d4rkwyng](https://x.com/d4rkwyng)
-- **Email:** [contact@sierravault.net](mailto:contact@sierravault.net)
+For the vault's comprehensive research-source list see [[Reference/Bibliography|Bibliography]].
 
 ---
 
-*Last bot scan: February 11, 2026 · 241 items processed*
+## 🔔 Staying current
+
+This page is updated as Sierra-relevant news emerges. Major items are also reflected on the relevant game / designer / studio pages and in the [[Welcome]] callout, so bookmarking the home page or this one is the most reliable way to follow along.
+
+For occasional, low-volume project notes: [contact@sierravault.net](mailto:contact@sierravault.net).
