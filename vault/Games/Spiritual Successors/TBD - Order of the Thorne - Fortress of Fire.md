@@ -99,7 +99,7 @@ Development of *Fortress of Fire* has been characterized by significant delays a
 
 By 2026, the game remained in what the developers described as "a real state of limbo"[^ref-5]. According to developer Steven Alexander's Patreon update from October 2025, the team has "a lot of resources done for Fortress of Fire but a lot more need to be done - mostly animations"[^ref-5]. The backgrounds are reportedly in the engine, and work has begun on developing the story path and puzzles[^ref-2].
 
-In an April 4, 2026 Patreon post, Alexander confirmed that the team's near-term production priority remained *Quest for Infamy: Roehm to Ruin* — with studio voice-recording time booked for May 2026 to finish that title — placing *Fortress of Fire* queued behind it. Alexander noted that "lots of other people have been scurrying behind the scenes" on the studio's projects during his hospitalization for spinal surgery, suggesting some asset work continued, but no specific *Fortress of Fire* milestone was attached to the post.[^ref-fof-apr2026]
+In an April 4, 2026 Patreon post, Alexander confirmed that the team's near-term production priority remained *Quest for Infamy: Roehm to Ruin* — with studio voice-recording time booked for May 2026 to finish that title — placing *Fortress of Fire* queued behind it. Alexander noted that "lots of other people have been scurrying behind the scenes" on the studio's projects during his hospitalization for spinal surgery, suggesting some asset work continued, but no specific *Fortress of Fire* milestone was attached to the post.[^ref-19]
 
 **Development Credits:**[^ref-7]
 - **Project Lead:** Steven "Blackthorne" Alexander
@@ -205,4 +205,4 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 [^ref-16]: [Steam Community – The King's Challenge Hub](https://steamcommunity.com/app/425600) – community discussion, bug reports
 [^ref-17]: [Kickstarter – Quest for Infamy Campaign](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que/posts) – company history, campaign success
 [^ref-18]: [Adventure Gamers – 2D/2.5D Games Archive](https://adventuregamers.com/presentation/2d-or-2-5d/page/82) – presentation style categorization
-[^ref-fof-apr2026]: [Infamous Quests Patreon — "Hospital stays etc." (April 4, 2026)](https://www.patreon.com/posts/hospital-stays-154760603) — Steven Alexander confirms studio-time booked for *Roehm to Ruin* voice recording in May 2026, placing *Fortress of Fire* queued behind it; notes ongoing behind-the-scenes asset work during his hospitalization
+[^ref-19]: [Infamous Quests Patreon — "Hospital stays etc." (April 4, 2026)](https://www.patreon.com/posts/hospital-stays-154760603) — Steven Alexander confirms studio-time booked for *Roehm to Ruin* voice recording in May 2026, placing *Fortress of Fire* queued behind it; notes ongoing behind-the-scenes asset work during his hospitalization

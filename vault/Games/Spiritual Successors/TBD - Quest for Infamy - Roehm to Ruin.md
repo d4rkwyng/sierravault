@@ -139,7 +139,7 @@ The game features multiple story paths with different endings based on player ch
 |-----------|-------------|
 | Mr. Roehm | Steve Patrick |
 
-Voice recording for the lead character remains the final production milestone before release.[^ref-3] According to an April 4, 2026 Infamous Quests Patreon update, studio time has been **booked for May 2026** to get Steve Patrick into the studio and finish recording the remaining Mr. Roehm lines. The developer also signalled an intent to showcase the completed game at **RetroGameCon Syracuse, NY in October 2026**.[^ref-21]
+Voice recording for the lead character remains the final production milestone before release.[^ref-3] A January 2026 Patreon update from Infamous Quests noted the recording session with Steve Patrick was "expected to be completed soon,"[^ref-13] and an April 4, 2026 follow-up confirmed studio time had been **booked for May 2026** to get Steve Patrick into the studio and finish recording the remaining Mr. Roehm lines. The developer also signalled an intent to showcase the completed game at **RetroGameCon Syracuse, NY in October 2026**.[^ref-21]
 
 ## Legacy
 

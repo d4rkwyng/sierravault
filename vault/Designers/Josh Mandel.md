@@ -109,14 +109,14 @@ Mandel remained optimistic about working with his former Sierra colleagues, stat
 
 ### Recent Community Engagement (2025–2026)
 
-Mandel appeared in the *Happy Hotspot Holidays 2025* developer's season greetings video produced by Adventure Game Hotspot, alongside other adventure-game veterans.[^ref-agh-holidays]
+Mandel appeared in the *Happy Hotspot Holidays 2025* developer's season greetings video produced by Adventure Game Hotspot, alongside other adventure-game veterans.[^ref-64]
 
-Between January 15 and March 18, 2026, Mandel hosted an extended **"AMA About Sierra!"** thread on the Adventure Game Hotspot community forum, fielding questions from adventure-game enthusiasts over a roughly two-month conversation.[^ref-agh-ama] Notable disclosures from the thread included:
+Between January 15 and March 18, 2026, Mandel hosted an extended **"AMA About Sierra!"** thread on the Adventure Game Hotspot community forum, fielding questions from adventure-game enthusiasts over a roughly two-month conversation.[^ref-65] Notable disclosures from the thread included:
 
-- **On Freddy Pharkas crunch:** Mandel described an exhausting late-stage push in which team members slept in their offices through 20-hour workdays, calling the moment he witnessed the first boxed copies being assembled "emotionally complex."[^ref-agh-ama]
-- **On meeting Ken Williams:** His second-favorite Sierra memory was Ken introducing himself when Mandel arrived for his job interview in a rental car — an encounter Mandel described as "eerily similar" to a Space Quest III scene.[^ref-agh-ama]
-- **On creative preferences:** "I have always enjoyed the writing side more," noting his father had been a Golden Age TV writer and that the two sometimes collaborated on dialogue.[^ref-agh-ama]
-- **On Callahan's Crosstime Saloon:** Mandel emphasized that the game's affirming, friendship-focused design "was swimming against the tide" compared to other adventure titles of its era.[^ref-agh-ama]
+- **On Freddy Pharkas crunch:** Mandel described an exhausting late-stage push in which team members slept in their offices through 20-hour workdays, calling the moment he witnessed the first boxed copies being assembled "emotionally complex."[^ref-65]
+- **On meeting Ken Williams:** His second-favorite Sierra memory was Ken introducing himself when Mandel arrived for his job interview in a rental car — an encounter Mandel described as "eerily similar" to a Space Quest III scene.[^ref-65]
+- **On creative preferences:** "I have always enjoyed the writing side more," noting his father had been a Golden Age TV writer and that the two sometimes collaborated on dialogue.[^ref-65]
+- **On Callahan's Crosstime Saloon:** Mandel emphasized that the game's affirming, friendship-focused design "was swimming against the tide" compared to other adventure titles of its era.[^ref-65]
 
 ## Games
 
@@ -201,5 +201,5 @@ Between January 15 and March 18, 2026, Mandel hosted an extended **"AMA About Si
 [^ref-47]: [Wikipedia - Leisure Suit Larry: Reloaded](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Reloaded) — Replay Games employment 2012-2013, designer/writer/producer role
 [^ref-56]: [King's Quest Omnipedia - Josh Mandel](https://kingsquest.fandom.com/wiki/Josh_Mandel) — Details on KQ1 VGA remake story, text, and puzzle redesign
 [^ref-63]: [MobyGames - Callahan's Crosstime Saloon](https://www.mobygames.com/game/3159/callahans-crosstime-saloon/) — Mandel's credits as designer, artist, and writer at Legend Entertainment
-[^ref-agh-holidays]: [Happy Hotspot Holidays 2025 — Developer's Season's Greetings Video](https://adventuregamehotspot.com/feature/5749/happy-hotspot-holidays-2025-a-developer-seasons-greetings-video) — Adventure Game Hotspot, December 2025 community video featuring Mandel alongside other adventure-game veterans
-[^ref-agh-ama]: [AMA About Sierra! — Josh Mandel](https://community.adventuregamehotspot.com/showthread.php?pid=5360) — Adventure Game Hotspot community forum thread spanning January 15 – March 18, 2026; Mandel's disclosures about Freddy Pharkas crunch, his Ken Williams interview anecdote, writing-vs-puzzle preferences, and Callahan's Crosstime Saloon design intent
+[^ref-64]: [Happy Hotspot Holidays 2025 — Developer's Season's Greetings Video](https://adventuregamehotspot.com/feature/5749/happy-hotspot-holidays-2025-a-developer-seasons-greetings-video) — Adventure Game Hotspot, December 2025 community video featuring Mandel alongside other adventure-game veterans
+[^ref-65]: [AMA About Sierra! — Josh Mandel](https://community.adventuregamehotspot.com/showthread.php?pid=5360) — Adventure Game Hotspot community forum thread spanning January 15 – March 18, 2026; Mandel's disclosures about Freddy Pharkas crunch, his Ken Williams interview anecdote, writing-vs-puzzle preferences, and Callahan's Crosstime Saloon design intent

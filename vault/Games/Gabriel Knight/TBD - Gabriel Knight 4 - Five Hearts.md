@@ -24,9 +24,9 @@ tags: [adventure, gabriel-knight, jane-jensen, sierra]
 
 Gabriel Knight 4: Five Hearts is an unreleased adventure game concept developed by [[Jane Jensen]], the original creator of the Gabriel Knight series.[^ref-1][^ref-8] Rather than a completed video game, Five Hearts exists as both a pitch document for a potential fourth installment in the beloved supernatural mystery franchise and as a published short story serving as the opening chapter of what Jensen envisions for Gabriel Knight's return.[^ref-2][^ref-9] The project represents Jensen's ongoing efforts since the late 1990s to continue the adventures of the Schattenjäger (Shadow Hunter), a quest that has spanned decades and multiple corporate ownership changes.[^ref-3][^ref-10]
 
-The pitch was developed in cooperation with an indie development team from Israel that reached out to Jensen and her husband, composer Robert Holmes.[^ref-4][^ref-11] Jensen has been actively attempting to gain the attention of Microsoft, which acquired the Gabriel Knight intellectual property through its purchase of Activision.[^ref-1][^ref-12] As of a February 26, 2025 interview with industry figure Amir Satvat, Jensen confirmed she was "currently trying to see what we can do about the license right now... now that it's under Microsoft" and was "really hoping to get that game in development sometime in the next few years."[^ref-satvat] Despite fan enthusiasm and Jensen's continued creative work on the franchise, the game remains in licensing limbo as of February 2025, with no public response from Microsoft to date.[^ref-4][^ref-satvat]
+The pitch was developed in cooperation with an indie development team from Israel that reached out to Jensen and her husband, composer Robert Holmes.[^ref-4][^ref-11] Jensen has been actively attempting to gain the attention of Microsoft, which acquired the Gabriel Knight intellectual property through its purchase of Activision.[^ref-1][^ref-12] As of a February 26, 2025 interview with industry figure Amir Satvat, Jensen confirmed she was "currently trying to see what we can do about the license right now... now that it's under Microsoft" and was "really hoping to get that game in development sometime in the next few years."[^ref-16] Despite fan enthusiasm and Jensen's continued creative work on the franchise, the game remains in licensing limbo as of February 2025, with no public response from Microsoft to date.[^ref-4][^ref-16]
 
-**Working title evolution:** The project began as "Five Hearts" — both the working title of the game pitch and the title of a free illustrated short story Jensen released on November 19, 2024 via her husband Robert Holmes's website as a backer reward.[^ref-2][^ref-agh-fivehearts] By the Satvat interview in February 2025, Jensen had renamed the in-development game pitch to **Thief of Hearts**, while "Five Hearts" remains the title of the published short-story prologue.[^ref-satvat]
+**Working title evolution:** The project began as "Five Hearts" — both the working title of the game pitch and the title of a free illustrated short story Jensen released on November 19, 2024 via her husband Robert Holmes's website as a backer reward.[^ref-2][^ref-17] By the Satvat interview in February 2025, Jensen had renamed the in-development game pitch to **Thief of Hearts**, while "Five Hearts" remains the title of the published short-story prologue.[^ref-16]
 
 The proposed game would continue the series' tradition of blending supernatural horror with detective fiction, this time taking Gabriel to Salzburg, Austria, where serial killings involving removed hearts serve as both a literal mystery and a metaphorical exploration of Gabriel's own emotional journey.[^ref-4][^ref-14] The concept demonstrates Jensen's ambition to evolve the franchise while maintaining the mature storytelling that earned her the title of "the interactive Anne Rice" from Computer Gaming World.[^ref-1]
 
@@ -101,7 +101,7 @@ Jensen has written the first chapter of the new Gabriel Knight story, which has 
 
 Jensen shared details about the pitch on the Matt Chat show, where she discussed the Salzburg setting, the heart-removal serial killings, and the metaphorical dimensions of the narrative.[^ref-4]
 
-In a February 26, 2025 interview with Amir Satvat, Jensen described the project's origin: she had a dream during the summer of 2024 that was "a full Gabriel Knight story," which inspired both the "Five Hearts" short story she wrote for Robert Holmes's Kickstarter and the broader game pitch (now titled *Thief of Hearts*) she has been shopping to Microsoft.[^ref-satvat] Jensen confirmed in the same interview that licensing pursuit is ongoing and that she hopes to bring the game into development "sometime in the next few years."[^ref-satvat]
+In a February 26, 2025 interview with Amir Satvat, Jensen described the project's origin: she had a dream during the summer of 2024 that was "a full Gabriel Knight story," which inspired both the "Five Hearts" short story she wrote for Robert Holmes's Kickstarter and the broader game pitch (now titled *Thief of Hearts*) she has been shopping to Microsoft.[^ref-16] Jensen confirmed in the same interview that licensing pursuit is ongoing and that she hopes to bring the game into development "sometime in the next few years."[^ref-16]
 
 **Development Credits:**[^ref-1][^ref-4]
 - **Creator/Designer:** Jane Jensen
@@ -128,9 +128,9 @@ The project itself could be considered "cut content" in a sense, as Jensen has b
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Short Story | November 19, 2024 | Text | "Five Hearts" opening-chapter PDF released free via Robert Holmes Music site[^ref-2][^ref-agh-fivehearts] |
+| Short Story | November 19, 2024 | Text | "Five Hearts" opening-chapter PDF released free via Robert Holmes Music site[^ref-2][^ref-17] |
 | Pitch ("Five Hearts") | 2024 | Concept | Initial pitch presented to Microsoft (no response)[^ref-4] |
-| Pitch ("Thief of Hearts") | February 2025 | Concept | Renamed; licensing pursuit ongoing per Jensen[^ref-satvat] |
+| Pitch ("Thief of Hearts") | February 2025 | Concept | Renamed; licensing pursuit ongoing per Jensen[^ref-16] |
 
 ### Technical Issues
 
@@ -227,6 +227,6 @@ Grace Nakimura's character, described by USgamer as "one of the best, most reali
 [^ref-13]: [Jane Jensen Official Site](http://www.janejensen.com/) – Creator portfolio, project information
 
 [^ref-14]: [Unseen64 – Gabriel Knight 4](https://www.unseen64.net/) – Cancelled game documentation and development history
-[^ref-satvat]: [Amir Satvat — "My Interview With Jane Jensen" (YouTube, Feb 26, 2025)](https://www.youtube.com/watch?v=QfAAQp_IOWg) — 32-minute interview; Jensen confirms she is currently pursuing the Microsoft-held license, names the in-development game pitch **Thief of Hearts** (with "Five Hearts" being the related short story), describes the summer-2024 dream-origin of the story, and states she hopes to begin development "sometime in the next few years"
-[^ref-agh-fivehearts]: [Adventure Game Hotspot — Jane Jensen Releases Gabriel Knight Short Story Five Hearts](https://adventuregamehotspot.com/announcement/3108/jane-jensen-releases-gabriel-knight-short-story-five-hearts) — Nov 19, 2024 short-story PDF release announcement; also hosts the appeal to Microsoft
+[^ref-16]: [Amir Satvat — "My Interview With Jane Jensen" (YouTube, Feb 26, 2025)](https://www.youtube.com/watch?v=QfAAQp_IOWg) — 32-minute interview; Jensen confirms she is currently pursuing the Microsoft-held license, names the in-development game pitch **Thief of Hearts** (with "Five Hearts" being the related short story), describes the summer-2024 dream-origin of the story, and states she hopes to begin development "sometime in the next few years"
+[^ref-17]: [Adventure Game Hotspot — Jane Jensen Releases Gabriel Knight Short Story Five Hearts](https://adventuregamehotspot.com/announcement/3108/jane-jensen-releases-gabriel-knight-short-story-five-hearts) — Nov 19, 2024 short-story PDF release announcement; also hosts the appeal to Microsoft
 

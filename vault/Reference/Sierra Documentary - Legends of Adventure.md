@@ -34,7 +34,8 @@ This page is a vault-side tracker for the documentary's interviewees, production
 
 | Year | Event | Source |
 |------|-------|--------|
-| 2024 | Project announced; crowdfunding campaign launches | Time Extension, GamingOnLinux, A2Central, BlizzardWatch[^ref-2][^ref-8][^ref-9][^ref-10] |
+| 2024 | Project announced; crowdfunding campaign launches | Time Extension, GamingOnLinux, A2Central, BlizzardWatch[^ref-2][^ref-8][^ref-9][^ref-10][^ref-15] |
+| 2024 | Official First Look video released | Legends of Adventure YouTube[^ref-14] |
 | 2024 | Crowdfunding reaches goal; Backerkit campaign carries over | Console Creatures[^ref-11] |
 | 2025 | Additional interview shoots with industry figures (including John Romero) | Backerkit community updates[^ref-12] |
 | Late 2025 | "Thanksgiving Update" — new interviews announced | Backerkit Update #32612[^ref-13] |
@@ -43,7 +44,7 @@ This page is a vault-side tracker for the documentary's interviewees, production
 
 ## Subject Matter
 
-The film centers on the **founding and growth of Sierra On-Line** under Ken and Roberta Williams (1979 onward), the **company's mid-1990s commercial peak**, and the Williamses' **20+ year departure from the industry** before their 2020s return with Colossal Cave. The documentary also surveys the broader **rise of the graphical adventure-game genre** that Sierra catalyzed, drawing in voices from across the era.[^ref-1][^ref-2]
+The film centers on the **founding and growth of Sierra On-Line** under Ken and Roberta Williams (1979 onward), the **company's mid-1990s commercial peak**, and the Williamses' **20+ year departure from the industry** before their 2020s return with Colossal Cave. The documentary also surveys the broader **rise of the graphical adventure-game genre** that Sierra catalyzed, drawing in voices from across the era.[^ref-1][^ref-2][^ref-16]
 
 Production materials referenced in Backerkit updates include archival photographs, period videos, internal Sierra documents, personal photographs from key Sierra figures, and contemporary news clips originally broadcast on CNN.[^ref-6]
 
