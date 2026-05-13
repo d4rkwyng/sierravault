@@ -54,11 +54,44 @@ These sites are confirmed to use Cloudflare/CloudFront bot detection:
 
 **Workaround for WebFetch / agent fetches:** if WebFetch returns 403 or non-content from any of the above hosts, treat it as inconclusive, not dead. Either rely on the Wayback Machine snapshot or flag the URL for human browser verification.
 
+### Headless-Chrome verification (the most authoritative check)
+
+After the curl-based classifier flags URLs as BOT-BLOCKED, CLOUDFLARE-BLOCKED, or INCONCLUSIVE, run them through local headless Chrome via `scripts/chrome_verify.py` (Assets/ACTIVE). Chrome:
+
+- Passes Cloudflare bot-detection challenges that curl can't
+- Executes JavaScript, so SPAs and JS-rendered 404 pages resolve properly
+- Returns rendered DOM so we can inspect `<title>` and `<body class>` for 404 markers
+
+The 2026-05-13 audit caught a critical false-positive class: URLs that returned 403 to curl (so were tagged `bot-blocked-likely-live`) but actually 404 in a real browser — Cloudflare gates can sit in front of a 404 response. 27 such URLs were re-tagged `dead-confirmed-via-chrome` while 58 were upgraded to `live-confirmed-via-chrome`.
+
+The Chrome verifier looks for these markers in rendered HTML:
+- Title patterns: "Page Not Found", "404", "Not Found", "Page Doesn't Exist", "Page Cannot Be Found", "File Not Found", "Oops!"
+- Body class patterns: `error-404`, `error404`, `page-not-found`, `not-found`
+
+Trust this result over curl's status code when they disagree.
+
+### Wayback-first removal protocol
+
+**Never remove a citation just because the URL is dead.** Always check Wayback first:
+
+1. Run `scripts/wayback_check.py` (Assets/ACTIVE) to populate the `wayback_snapshot` column
+2. For any URL with a snapshot: replace the live URL with the Wayback URL in the vault page, don't remove the citation
+3. Only when both the live URL AND Wayback have nothing — and the citation isn't load-bearing for a specific factual claim — should it be removed
+
+This applies even to URLs in `dead-confirmed-404` or `host-down-or-discontinued` states. The fact that the site is gone doesn't invalidate the citation's evidentiary value if Wayback has it.
+
 ### Tools
 
-- `scripts/classify_dead.py` (Assets/ACTIVE) — runs the multi-strategy check across the full worklist
+- `scripts/classify_dead.py` (Assets/ACTIVE) — multi-strategy curl-based check (bare + browser headers + host probe)
+- `scripts/chrome_verify.py` (Assets/ACTIVE) — headless-Chrome rendering check for the ambiguous categories
 - `scripts/wayback_check.py` (Assets/ACTIVE) — parallel Wayback availability batch checker
 - `scripts/apply_wayback_fixes.py` (Assets/ACTIVE) — replaces dead URLs with Wayback snapshots in vault pages
+
+The full check cadence on the worklist:
+1. `classify_dead.py` — initial categorization
+2. `chrome_verify.py` — disambiguate bot-blocked / inconclusive via real browser
+3. `wayback_check.py` — find archive fallbacks for confirmed-dead
+4. `apply_wayback_fixes.py` — apply the Wayback replacements
 
 ---
 

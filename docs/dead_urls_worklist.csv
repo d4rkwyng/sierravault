@@ -1,62 +1,62 @@
 host,class,dead_url,wayback_snapshot,file,ref_num,notes
-2k.com,404,https://2k.com/games/homeworld/,,Games/Homeworld/2015 - Homeworld Remastered Collection.md,3,dead-confirmed-404
+2k.com,404,https://2k.com/games/homeworld/,http://web.archive.org/web/20260504045441/https://2k.com/games/homeworld/,Games/Homeworld/2015 - Homeworld Remastered Collection.md,3,dead-confirmed-404 + wayback-fallback-available
 2k.com,404,https://2k.com/games/homeworld/,,Games/Homeworld/1999 - Homeworld.md,4,dead-confirmed-404
 2k.com,404,https://2k.com/games/homeworld/homeworld-remastered-collection/,,Games/Homeworld/2015 - Homeworld Remastered Collection.md,1,dead-confirmed-404
 4players.de,404,https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/288/184/0/Zeus_Herrscher_des_Olymp.html,,Games/Zeus/2000 - Zeus - Master of Olympus.md,4,dead-confirmed-404
 4players.de,404,https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/3681/2472/0/Contract_JACK.html,,Games/Monolith/2003 - Contract J.A.C.K..md,20,dead-confirmed-404
 abandonware-forums.org,ssl-error,https://www.abandonware-forums.org/forum/autres/les-aventuriers-de-la-traduction-perdue/799548-the-official-frogger-patch-fr,,Games/Arcade/1981 - Frogger.md,6,live-no-action-needed
 abandonware-forums.org,ssl-error,https://www.abandonware-forums.org/forum/forum-ltf-abandonware-france/requ%C3%AAtes/903740-the-colonel-s-bequest,,Games/Laura Bow/1989 - The Colonel's Bequest.md,52,live-no-action-needed
-abandonwaredos.com,404,https://www.abandonwaredos.com/abandonware-game.php?abandonware=King's+Quest+III+Redux:+To+Heir+is+Human&gid=3491,,Games/Fan Games/2011 - King's Quest III Redux - To Heir is Human.md,19,dead-confirmed-404
+abandonwaredos.com,404,https://www.abandonwaredos.com/abandonware-game.php?abandonware=King's+Quest+III+Redux:+To+Heir+is+Human&gid=3491,http://web.archive.org/web/20260209074846/https://www.abandonwaredos.com/abandonware-game.php?abandonware=King%27s+Quest+III+Redux%3A+To+Heir+is+Human&gid=3491,Games/Fan Games/2011 - King's Quest III Redux - To Heir is Human.md,19,dead-confirmed-404 + wayback-fallback-available
 abandonwaredos.com,404,https://www.abandonwaredos.com/abandonware-game.php?abandonware=Mickey's+Space+Adventure&gid=3163,,Games/Disney/1984 - Mickey's Space Adventure.md,21,dead-confirmed-404
-abandonwaredos.com,404,https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pepper's+Adventures+in+Time&gid=1927,,Games/Standalone/1993 - Pepper's Adventures in Time.md,15,dead-confirmed-404
+abandonwaredos.com,404,https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pepper's+Adventures+in+Time&gid=1927,http://web.archive.org/web/20250820022415/https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pepper's+Adventures+in+Time&gid=1927,Games/Standalone/1993 - Pepper's Adventures in Time.md,15,dead-confirmed-404 + wayback-fallback-available
 abandonwaredos.com,404,https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Colonel's+Bequest&gid=1388,,Games/Laura Bow/1989 - The Colonel's Bequest.md,46,dead-confirmed-404
 abandonwaredos.com,404,https://www.abandonwaredos.com/abandonware-game.php?abandonware=Troll's+Tale&gid=2483,,Games/Standalone/1983 - Troll's Tale.md,19,dead-confirmed-404
 adventureclassicgaming.com,404,http://www.adventureclassicgaming.com/index.php/site/interviews/173/,,Series/Quest for Glory Series.md,4,dead-confirmed-404
 adventureclassicgaming.com,404,http://www.adventureclassicgaming.com/index.php/site/reviews/kings-quest/,,Games/King's Quest/2015 - King's Quest.md,16,dead-confirmed-404
 adventureclassicgaming.com,404,https://adventureclassicgaming.com/index.php/site/reviews/174/,,Games/Quest for Glory/1989 - Quest for Glory I - So You Want to Be a Hero.md,19,dead-confirmed-404
 adventureclassicgaming.com,404,https://adventureclassicgaming.com/index.php/site/reviews/kings_quest_iii_to_heir_is_human/,,Games/King's Quest/1986 - King's Quest III - To Heir Is Human.md,20,dead-confirmed-404
-adventuregamehotspot.com,404,https://adventuregamehotspot.com/,,Publishers/Schnibble Productions.md,15,cloudflare-blocked-but-likely-live
-adventuregamehotspot.com,404,https://adventuregamehotspot.com/,,Games/Gabriel Knight/TBD - Gabriel Knight 4 - Five Hearts.md,12,cloudflare-blocked-but-likely-live
-adventuregamehotspot.com,404,https://adventuregamehotspot.com/,,Games/Cancelled/CXL - Precinct (2013).md,11,cloudflare-blocked-but-likely-live
-adventuregamehotspot.com,404,https://adventuregamehotspot.com/announcement/3108/jane-jensen-releases-gabriel-knight-short-story-five-hearts,,Games/Gabriel Knight/TBD - Gabriel Knight 4 - Five Hearts.md,2,cloudflare-blocked-but-likely-live
-adventuregamehotspot.com,404,https://adventuregamehotspot.com/blog/2219/is-laura-bow-ready-for-another-adventure,,Games/Laura Bow/1989 - The Colonel's Bequest.md,43,cloudflare-blocked-but-likely-live
-adventuregamehotspot.com,404,https://adventuregamehotspot.com/feature/3765/police-quest-3-the-kindred-a-fair-balanced-retrospective,,Games/Police Quest/1991 - Police Quest III - The Kindred.md,15,cloudflare-blocked-but-likely-live
-adventuregamehotspot.com,404,https://adventuregamehotspot.com/feature/4691/police-quest-iv-open-season-a-fair-balanced-retrospective,,Games/Police Quest/1993 - Police Quest - Open Season.md,25,cloudflare-blocked-but-likely-live
-adventuregamehotspot.com,404,https://adventuregamehotspot.com/interview/255/an-interview-with-ken-and-roberta-williams-colossal-cave-sierra-and-more,,Designers/Roberta Williams.md,19,cloudflare-blocked-but-likely-live
-adventuregamehotspot.com,404,https://adventuregamehotspot.com/interview/362/an-interview-with-musiciancomposer-robert-holmes,,Designers/Robert Holmes.md,5,cloudflare-blocked-but-likely-live
-adventuregamehotspot.com,404,https://adventuregamehotspot.com/interview/381/an-interview-with-jane-jensen-legendary-designer-of-the-gabriel-knight-trilogy,,Designers/Jane Jensen.md,10,cloudflare-blocked-but-likely-live
-adventuregamehotspot.com,404,https://adventuregamehotspot.com/interview/381/an-interview-with-jane-jensen-legendary-designer-of-the-gabriel-knight-trilogy-a,,Games/Spiritual Successors/2010 - Gray Matter.md,35,cloudflare-blocked-but-likely-live
-adventuregamehotspot.com,404,https://adventuregamehotspot.com/interview/754/al-lowe-has-a-tech-talk-with-daniel-albu-in-a-leisurely-in-depth-video-interview,,Designers/Al Lowe.md,1,cloudflare-blocked-but-likely-live
+adventuregamehotspot.com,404,https://adventuregamehotspot.com/,,Publishers/Schnibble Productions.md,15,live-confirmed-via-chrome
+adventuregamehotspot.com,404,https://adventuregamehotspot.com/,,Games/Gabriel Knight/TBD - Gabriel Knight 4 - Five Hearts.md,12,live-confirmed-via-chrome
+adventuregamehotspot.com,404,https://adventuregamehotspot.com/,,Games/Cancelled/CXL - Precinct (2013).md,11,live-confirmed-via-chrome
+adventuregamehotspot.com,404,https://adventuregamehotspot.com/announcement/3108/jane-jensen-releases-gabriel-knight-short-story-five-hearts,,Games/Gabriel Knight/TBD - Gabriel Knight 4 - Five Hearts.md,2,live-confirmed-via-chrome
+adventuregamehotspot.com,404,https://adventuregamehotspot.com/blog/2219/is-laura-bow-ready-for-another-adventure,,Games/Laura Bow/1989 - The Colonel's Bequest.md,43,live-confirmed-via-chrome
+adventuregamehotspot.com,404,https://adventuregamehotspot.com/feature/3765/police-quest-3-the-kindred-a-fair-balanced-retrospective,,Games/Police Quest/1991 - Police Quest III - The Kindred.md,15,live-confirmed-via-chrome
+adventuregamehotspot.com,404,https://adventuregamehotspot.com/feature/4691/police-quest-iv-open-season-a-fair-balanced-retrospective,,Games/Police Quest/1993 - Police Quest - Open Season.md,25,live-confirmed-via-chrome
+adventuregamehotspot.com,404,https://adventuregamehotspot.com/interview/255/an-interview-with-ken-and-roberta-williams-colossal-cave-sierra-and-more,,Designers/Roberta Williams.md,19,live-confirmed-via-chrome
+adventuregamehotspot.com,404,https://adventuregamehotspot.com/interview/362/an-interview-with-musiciancomposer-robert-holmes,,Designers/Robert Holmes.md,5,live-confirmed-via-chrome
+adventuregamehotspot.com,404,https://adventuregamehotspot.com/interview/381/an-interview-with-jane-jensen-legendary-designer-of-the-gabriel-knight-trilogy,,Designers/Jane Jensen.md,10,live-confirmed-via-chrome
+adventuregamehotspot.com,404,https://adventuregamehotspot.com/interview/381/an-interview-with-jane-jensen-legendary-designer-of-the-gabriel-knight-trilogy-a,,Games/Spiritual Successors/2010 - Gray Matter.md,35,live-confirmed-via-chrome
+adventuregamehotspot.com,404,https://adventuregamehotspot.com/interview/754/al-lowe-has-a-tech-talk-with-daniel-albu-in-a-leisurely-in-depth-video-interview,,Designers/Al Lowe.md,1,live-confirmed-via-chrome
 adventuregamehotspot.com,404,https://adventuregamehotspot.com/review/20/spaceventure,http://web.archive.org/web/20260305155004/https://adventuregamehotspot.com/review/20/spaceventure,Games/Spiritual Successors/2022 - SpaceVenture.md,1,applied
 adventuregamehotspot.com,404,https://adventuregamehotspot.com/review/415/summer-daze-tillys-tale,http://web.archive.org/web/20260308175533/https://adventuregamehotspot.com/review/415/summer-daze-tillys-tale,Games/Spiritual Successors/2023 - Summer Daze - Tilly's Tale.md,3,applied
 adventuregamer.blogspot.com,404,https://adventuregamer.blogspot.com/2011/08/game-4-kings-quest-ii-romancing-throne.html,,Games/King's Quest/1985 - King's Quest II - Romancing the Throne.md,6,dead-confirmed-404
-adventuregamers.com,404,https://adventuregamers.com/articles/view/15193,,Designers/Scott Murphy.md,44,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/articles/view/17417,,Games/Fan Games/2012 - Space Quest - Incinerations.md,11,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/articles/view/17490,,Designers/Scott Murphy.md,31,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/articles/view/17883,,Games/Spiritual Successors/2010 - Gray Matter.md,18,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/articles/view/18064,,Publishers/Himalaya Studios.md,5,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/articles/view/21053,,Games/Spiritual Successors/2010 - Gray Matter.md,1,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/articles/view/26007,,Publishers/Replay Games.md,5,cloudflare-blocked-but-likely-live
+adventuregamers.com,404,https://adventuregamers.com/articles/view/15193,,Designers/Scott Murphy.md,44,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/articles/view/17417,,Games/Fan Games/2012 - Space Quest - Incinerations.md,11,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/articles/view/17490,,Designers/Scott Murphy.md,31,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/articles/view/17883,,Games/Spiritual Successors/2010 - Gray Matter.md,18,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/articles/view/18064,,Publishers/Himalaya Studios.md,5,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/articles/view/21053,,Games/Spiritual Successors/2010 - Gray Matter.md,1,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/articles/view/26007,,Publishers/Replay Games.md,5,dead-confirmed-via-chrome
 adventuregamers.com,404,https://adventuregamers.com/articles/view/26711,,Publishers/Infamous Quests.md,6,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/articles/view/26878,,Games/Spiritual Successors/2018 - Bolt Riley - A Reggae Adventure.md,6,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/articles/view/27601,,Publishers/Sunlight Games - KISS ltd.md,5,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/articles/view/40041,,Publishers/Himalaya Studios.md,6,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/articles/view/40181,,Publishers/Transolar Games.md,6,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/articles/view/40401,,Publishers/Assemble Entertainment.md,6,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/articles/view/order-of-the-thorne-the-kings-challenge,,Games/Spiritual Successors/2015 - Order of the Thorne - The King's Challenge.md,6,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/articles/view/sierra-legacy,,Publishers/Sierra On-Line.md,10,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/companies/view/30001,,Games/Adiboo/1992 - A.J.'s World of Discovery.md,15,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/companies/view/50,,Games/Coktel/1989 - Legend of Djel.md,2,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/forums/,,Games/Fan Games/2002 - King's Quest II+ - Romancing the Stones.md,15,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/forums/viewthread/15732,,Games/Gobliiins/2026 - Gobliins 6.md,3,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/games/view/14929,,Publishers/AGD Interactive.md,5,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/games/view/17487,,Series/King's Quest Series.md,6,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/games/view/21082,,Publishers/Infamous Adventures.md,5,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/games/view/31147,,Games/Spiritual Successors/2018 - Bolt Riley - A Reggae Adventure.md,3,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/games/view/8089,,Publishers/AGD Interactive.md,4,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/news/view/gobliins6-a-quirky-comeback-adventure,,Games/Gobliiins/2026 - Gobliins 6.md,2,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://adventuregamers.com/presentation/2d-or-2-5d/page/82,,Games/Spiritual Successors/TBD - Order of the Thorne - Fortress of Fire.md,18,cloudflare-blocked-but-likely-live
-adventuregamers.com,404,https://www.adventuregamers.com/articles/view/corey-cole,,Designers/Pablo Ghenis.md,3,cloudflare-blocked-but-likely-live
+adventuregamers.com,404,https://adventuregamers.com/articles/view/26878,,Games/Spiritual Successors/2018 - Bolt Riley - A Reggae Adventure.md,6,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/articles/view/27601,,Publishers/Sunlight Games - KISS ltd.md,5,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/articles/view/40041,,Publishers/Himalaya Studios.md,6,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/articles/view/40181,,Publishers/Transolar Games.md,6,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/articles/view/40401,,Publishers/Assemble Entertainment.md,6,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/articles/view/order-of-the-thorne-the-kings-challenge,,Games/Spiritual Successors/2015 - Order of the Thorne - The King's Challenge.md,6,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/articles/view/sierra-legacy,,Publishers/Sierra On-Line.md,10,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/companies/view/30001,,Games/Adiboo/1992 - A.J.'s World of Discovery.md,15,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/companies/view/50,,Games/Coktel/1989 - Legend of Djel.md,2,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/forums/,,Games/Fan Games/2002 - King's Quest II+ - Romancing the Stones.md,15,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/forums/viewthread/15732,,Games/Gobliiins/2026 - Gobliins 6.md,3,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/games/view/14929,,Publishers/AGD Interactive.md,5,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/games/view/17487,,Series/King's Quest Series.md,6,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/games/view/21082,,Publishers/Infamous Adventures.md,5,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/games/view/31147,,Games/Spiritual Successors/2018 - Bolt Riley - A Reggae Adventure.md,3,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/games/view/8089,,Publishers/AGD Interactive.md,4,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/news/view/gobliins6-a-quirky-comeback-adventure,,Games/Gobliiins/2026 - Gobliins 6.md,2,dead-confirmed-via-chrome
+adventuregamers.com,404,https://adventuregamers.com/presentation/2d-or-2-5d/page/82,,Games/Spiritual Successors/TBD - Order of the Thorne - Fortress of Fire.md,18,dead-confirmed-via-chrome
+adventuregamers.com,404,https://www.adventuregamers.com/articles/view/corey-cole,,Designers/Pablo Ghenis.md,3,dead-confirmed-via-chrome
 agdinteractive.com,404,https://www.agdinteractive.com/games/kq1/about/overview.html,,Games/King's Quest/1984 - King's Quest - Quest for the Crown.md,34,dead-confirmed-404
 agdinteractive.com,404,https://www.agdinteractive.com/games/qfg2/about/about.html,,Games/Quest for Glory/1990 - Quest for Glory II - Trial by Fire.md,21,dead-confirmed-404
 alexbevi.com,404,https://alexbevi.com/blog/2026/03/14/leisure-suit-larry-iii/,,Games/Leisure Suit Larry/1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals.md,11,dead-confirmed-404
@@ -85,10 +85,10 @@ atarimania.com,404,http://www.atarimania.com/list_games_company_sthp_publisher_C
 atarimania.com,404,http://www.atarimania.com/list_games_company_sthp_publisher_Tomahawk_id_313.html,,Publishers/Tomahawk.md,5,dead-confirmed-404
 avid.wiki,404,https://www.avid.wiki/Sierra_Entertainment/Logo_Variations,,Games/SWAT/2007 - SWAT - Target Liberty.md,33,dead-confirmed-404
 bartman2.tripod.com,dns-fail,https://bartman2.tripod.com/files.htm,,Games/NASCAR/1996 - NASCAR Racing 2.md,23,host-down-or-discontinued
-behindthevoiceactors.com,404,https://www.behindthevoiceactors.com/video-games/Kings-Quest-VI-Heir-Today-Gone-Tomorrow/,,"Games/King's Quest/1992 - King's Quest VI - Heir Today, Gone Tomorrow.md",27,bot-blocked-likely-live
+behindthevoiceactors.com,404,https://www.behindthevoiceactors.com/video-games/Kings-Quest-VI-Heir-Today-Gone-Tomorrow/,,"Games/King's Quest/1992 - King's Quest VI - Heir Today, Gone Tomorrow.md",27,live-confirmed-via-chrome
 blog.greatesthierophant.com,dns-fail,https://blog.greatesthierophant.com/,,Games/King's Quest/1990 - King's Quest V - Absence Makes the Heart Go Yonder.md,35,host-down-or-discontinued
 books.google.com,404,https://books.google.com/books?id=6asPBAAAQBAJ,,Games/King's Quest/1986 - King's Quest III - To Heir Is Human.md,24,dead-confirmed-404
-brainbaking.com,dns-fail,https://brainbaking.com/post/2025/09/a-tribute-to-hoyles-official-book-of-games/,,Games/Hoyle/1991 - Hoyle Official Book of Games - Volume 4.md,3,inconclusive-manual-review
+brainbaking.com,dns-fail,https://brainbaking.com/post/2025/09/a-tribute-to-hoyles-official-book-of-games/,,Games/Hoyle/1991 - Hoyle Official Book of Games - Volume 4.md,3,live-confirmed-via-chrome
 c64-wiki.com,404,https://www.c64-wiki.com/wiki/Stunt_Flyer,,Games/Standalone/1985 - Stunt Flyer.md,11,dead-confirmed-404
 cheatcodes.com,404,http://www.cheatcodes.com/swat-3-close-quarters-battle-pc/,,Games/SWAT/1999 - SWAT 3 - Close Quarters Battle.md,17,dead-confirmed-404
 chesstroid.blogspot.com,404,http://chesstroid.blogspot.com/2014/05/commodore-64-revisited-retro-chess-experiment/,,Games/Standalone/1986 - Kempelen.md,14,dead-confirmed-404
@@ -100,12 +100,12 @@ classicreload.com,404,https://classicreload.com/quest-for-glory-ii-vga-remake.ht
 colorcomputerarchive.com,404,https://colorcomputerarchive.com/repo/Documents/Walkthroughs/Sierra%20Games/The%20Black%20Cauldron%20Walkthrough%20(Sierra,,Games/Disney/1986 - The Black Cauldron.md,6,dead-confirmed-404
 computerhistory.org,404,https://www.computerhistory.org/brochures/s/sierra-on-line/,,Publishers/Sierra On-Line.md,8,dead-confirmed-404
 coolpooltest.tripod.com,dns-fail,https://coolpooltest.tripod.com/id6.html,,Games/3D Ultra/2000 - Maximum Pool.md,28,host-down-or-discontinued
-crick.com,ssl-error,https://crick.com/drbrain.html,,Games/Dr. Brain/1995 - The Lost Mind of Dr. Brain.md,4,inconclusive-manual-review
+crick.com,ssl-error,https://crick.com/drbrain.html,,Games/Dr. Brain/1995 - The Lost Mind of Dr. Brain.md,4,live-confirmed-via-chrome
 csoon.com,ssl-error,http://www.csoon.com/issue12/shivers.htm,,Games/Shivers/1995 - Shivers.md,22,live-no-action-needed
 csoon.com,ssl-error,http://www.csoon.com/issue2/KQVII.HTM,,Games/King's Quest/1994 - King's Quest VII - The Princeless Bride.md,29,live-no-action-needed
 csoon.com,ssl-error,http://www.csoon.com/issue6/lastd.html,,Games/Coktel/1995 - The Last Dynasty.md,4,live-no-action-needed
-csoon.com,ssl-error,https://www.csoon.com/issue10/trophy.htm,,Games/Trophy Bass/1995 - Trophy Bass.md,5,inconclusive-manual-review
-csoon.com,ssl-error,https://www.csoon.com/issue19/riserule.htm,,Games/Strategy/1996 - The Rise & Rule of Ancient Empires.md,11,inconclusive-manual-review
+csoon.com,ssl-error,https://www.csoon.com/issue10/trophy.htm,,Games/Trophy Bass/1995 - Trophy Bass.md,5,live-confirmed-via-chrome
+csoon.com,ssl-error,https://www.csoon.com/issue19/riserule.htm,,Games/Strategy/1996 - The Rise & Rule of Ancient Empires.md,11,live-confirmed-via-chrome
 docs.scummvm.org,404,https://docs.scummvm.org/en/latest/other_platforms/steamdeck.html,,Guides/Playing Sierra Games Today.md,3,dead-confirmed-404
 dosdays.co.uk,404,https://www.dosdays.co.uk/games/kings_quest/kq2.php,,Games/King's Quest/1985 - King's Quest II - Romancing the Throne.md,3,dead-confirmed-404
 dosgamesarchive.com,404,https://www.dosgamesarchive.com/download/cohort-fighting-for-rome,,Games/Impressions/1991 - Cohort Fighting for Rome.md,15,dead-confirmed-404
@@ -127,10 +127,10 @@ emuparadise.me,404,https://www.emuparadise.me/ScummVM_Games/Troll's_Tale_(Floppy
 emuparadise.me,404,https://www.emuparadise.me/Sony_Playstation_ISOs/Arthur_to_Astaroth_no_Nazo_Makaimura_-_Incredible_Toons_(Japan,,Games/Incredible Machine/1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons.md,14,site-content-removed-permanently
 emuparadise.me,404,https://www.emuparadise.me/games/geisha,,Games/Coktel/1990 - Geisha.md,20,site-content-removed-permanently
 en.wikipedia.org,404,https://en.wikipedia.org/wiki/Gold_Rush!_(video_game,,Publishers/Sunlight Games - KISS ltd.md,6,dead-confirmed-404
-encoreusa.com,dns-fail,https://www.encoreusa.com/,,Games/Hoyle/2006 - Hoyle Casino.md,12,host-down-or-discontinued
+encoreusa.com,dns-fail,https://www.encoreusa.com/,http://web.archive.org/web/20090725195406/http://www.encoreusa.com/,Games/Hoyle/2006 - Hoyle Casino.md,12,host-down-or-discontinued + wayback-fallback-available
 encoreusa.com,dns-fail,https://www.encoreusa.com/,,Games/Hoyle/2011 - Hoyle Puzzle and Board Games.md,21,host-down-or-discontinued
 engadget.com,404,https://www.engadget.com/the-glory-of-quest-for-glory/,,Games/Quest for Glory/1993 - Quest for Glory IV - Shadows of Darkness.md,7,dead-confirmed-404
-engadget.com,404,https://www.engadget.com/valves-strange-history-of-talent-acquisitions--this-weeks gaming-news-153020318.html,,Games/Valve/1999 - Team Fortress Classic.md,2,inconclusive-manual-review
+engadget.com,404,https://www.engadget.com/valves-strange-history-of-talent-acquisitions--this-weeks gaming-news-153020318.html,,Games/Valve/1999 - Team Fortress Classic.md,2,dead-confirmed-via-chrome
 eurogamer.net,404,https://www.eurogamer.net/homeworld-cataclysm-retrospective,,Games/Homeworld/2000 - Homeworld - Cataclysm.md,44,dead-confirmed-404
 eyeondesign.aiga.org,ssl-error,https://eyeondesign.aiga.org/roberta-williams-is-the-worlds-first-graphic-computer-game-designer-but-shes-famous-for-all-the-wrong-reasons/,http://web.archive.org/web/20260225213902/https://eyeondesign.aiga.org/roberta-williams-is-the-worlds-first-graphic-computer-game-designer-but-shes-famous-for-all-the-wrong-reasons/,Designers/Roberta Williams.md,13,applied
 filfre.net,404,https://www.filfre.net/2012/08/kings-quest/,,Series/King's Quest Series.md,3,dead-confirmed-404
@@ -152,9 +152,9 @@ forums.gmgames.org,4xx-410,https://forums.gmgames.org/files/file/60-fb-pro-98-es
 forums.gmgames.org,4xx-410,https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/,,Games/Front Page Sports/1994 - Front Page Sports - Baseball Pro.md,16,
 forums.gmgames.org,4xx-410,https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/,,Games/Front Page Sports/1997 - Front Page Sports - Football Pro '98.md,23,
 forums.gmgames.org,4xx-410,https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/,,Games/Front Page Sports/1994 - Front Page Sports - Football Pro '95.md,21,
-ftp.apple.asimov.net,ssl-error,https://ftp.apple.asimov.net/images/games/collections/on-line_systems/,,Games/Hi-Res/1980 - Hi-Res Soccer.md,16,inconclusive-manual-review
-gamearchives.net,ssl-error,https://gamearchives.net/front-page-sports-ski-racing/,,Games/Sierra Sports/1998 - Sierra Sports Skiing 1999 Edition.md,13,inconclusive-manual-review
-gamearchives.net,ssl-error,https://gamearchives.net/hoyle-poker-series/,,Games/Hoyle/2005 - Hoyle Texas Hold Em.md,8,inconclusive-manual-review
+ftp.apple.asimov.net,ssl-error,https://ftp.apple.asimov.net/images/games/collections/on-line_systems/,,Games/Hi-Res/1980 - Hi-Res Soccer.md,16,live-confirmed-via-chrome
+gamearchives.net,ssl-error,https://gamearchives.net/front-page-sports-ski-racing/,,Games/Sierra Sports/1998 - Sierra Sports Skiing 1999 Edition.md,13,live-confirmed-via-chrome
+gamearchives.net,ssl-error,https://gamearchives.net/hoyle-poker-series/,,Games/Hoyle/2005 - Hoyle Texas Hold Em.md,8,live-confirmed-via-chrome
 gamepressure.com,404,https://www.gamepressure.com/games/hoyle-swashbucklin-slots/zba66f,,Games/Hoyle/2011 - Hoyle Swashbucklin Slots.md,10,dead-confirmed-404
 gamepressure.com,404,https://www.gamepressure.com/games/return-of-the-incredible-machine-contraptions/z42a3f,,Games/Incredible Machine/2000 - Return of The Incredible Machine - Contraptions.md,36,dead-confirmed-404
 gamerant.com,404,https://gamerant.com/tribes-franchise-history/,,Games/Metaltech/2024 - Tribes 3 - Rivals.md,18,dead-confirmed-404
@@ -163,12 +163,12 @@ gamesfirst.com,404,https://gamesfirst.com/reviews/3d-ultra-minigolf/,,Games/3D U
 gamesindustry.biz,404,https://www.gamesindustry.biz/devolver-digital-acquires-stronghold-developer-firefly-studios,,Designers/Simon Bradbury.md,17,dead-confirmed-404
 gamesindustry.biz,404,https://www.gamesindustry.biz/the-european-games-industry-is-booming,,Publishers/Assemble Entertainment.md,13,dead-confirmed-404
 gamespot.fr,ssl-error,https://www.gamespot.fr,,Games/Homeworld/2015 - Homeworld Remastered Collection.md,40,host-down-or-discontinued
-genotaur.com,404,http://www.genotaur.com/people/doug-johnson,,Designers/Doug Johnson.md,8,dead-confirmed-404
+genotaur.com,404,http://www.genotaur.com/people/doug-johnson,http://web.archive.org/web/20260120141613/http://www.genotaur.com/people/doug-johnson,Designers/Doug Johnson.md,8,dead-confirmed-404 + wayback-fallback-available
 github.com,404,https://github.com/FWGS/xash3d/issues/296,,Games/Valve/2000 - Gunman Chronicles.md,46,dead-confirmed-404
 github.com,404,https://github.com/firebirdblue23/ee-tweaks-mod,,Games/Empire Earth/2002 - Empire Earth - The Art of Conquest.md,34,dead-confirmed-404
 github.com,404,https://github.com/nicfab/otvdm,,Guides/Playing Sierra Games Today.md,7,dead-confirmed-404
 github.com,404,https://github.com/pixjuan/apple-ii-disassembly,,Games/Arcade/1981 - Sabotage.md,15,dead-confirmed-404
-google.com.auforum.cheatmasters.com,ssl-error,https://google.com.auforum.cheatmasters.com/psx2/swatgst.html,,Games/SWAT/2003 - SWAT - Global Strike Team.md,30,inconclusive-manual-review
+google.com.auforum.cheatmasters.com,ssl-error,https://google.com.auforum.cheatmasters.com/psx2/swatgst.html,,Games/SWAT/2003 - SWAT - Global Strike Team.md,30,live-confirmed-via-chrome
 grokipedia.com,404,https://grokipedia.com/page/Outpost,,Games/Outpost/1994 - Outpost.md,10,dead-confirmed-404
 hardcoregaming101.net,404,http://www.hardcoregaming101.net/agd-interactive/,,Games/Fan Games/2002 - King's Quest II+ - Romancing the Stones.md,11,dead-confirmed-404
 hardcoregaming101.net,404,http://www.hardcoregaming101.net/coktel-vision/,,Games/Adiboo/1992 - A.J.'s World of Discovery.md,16,dead-confirmed-404
@@ -192,12 +192,12 @@ ign.com,404,https://www.ign.com/companies/himalaya-studios,,Publishers/Himalaya 
 ign.com,404,https://www.ign.com/companies/infamous-quests,,Publishers/Infamous Quests.md,10,dead-confirmed-404
 ign.com,404,https://www.ign.com/games/3d-ultra-pinball,,Games/3D Ultra/1995 - 3-D Ultra Pinball.md,5,dead-confirmed-404
 ign.com,404,https://www.ign.com/games/tribes-2,,Games/Metaltech/2001 - Tribes 2.md,21,dead-confirmed-404
-indiedb.com,404,https://www.indiedb.com/company/agd-interactive,,Publishers/AGD Interactive.md,15,bot-blocked-likely-live
-indiedb.com,404,https://www.indiedb.com/company/infamous-adventures,,Publishers/Infamous Adventures.md,15,bot-blocked-likely-live
-indiedb.com,404,https://www.indiedb.com/games/fallen-empire-legions,,Games/Spiritual Successors/2008 - Ace of Aces.md,20,bot-blocked-likely-live
-indiedb.com,404,https://www.indiedb.com/games/gobliiins-5,,Publishers/Schnibble Productions.md,13,bot-blocked-likely-live
-indiedb.com,404,https://www.indiedb.com/games/hero-u,,Publishers/Transolar Games.md,15,bot-blocked-likely-live
-indiegogo.com,404,https://www.indiegogo.com/projects/sequel-new-game-themes-by-robert-holmes,,Designers/Robert Holmes.md,20,bot-blocked-likely-live
+indiedb.com,404,https://www.indiedb.com/company/agd-interactive,,Publishers/AGD Interactive.md,15,live-confirmed-via-chrome
+indiedb.com,404,https://www.indiedb.com/company/infamous-adventures,,Publishers/Infamous Adventures.md,15,live-confirmed-via-chrome
+indiedb.com,404,https://www.indiedb.com/games/fallen-empire-legions,,Games/Spiritual Successors/2008 - Ace of Aces.md,20,live-confirmed-via-chrome
+indiedb.com,404,https://www.indiedb.com/games/gobliiins-5,,Publishers/Schnibble Productions.md,13,live-confirmed-via-chrome
+indiedb.com,404,https://www.indiedb.com/games/hero-u,,Publishers/Transolar Games.md,15,live-confirmed-via-chrome
+indiegogo.com,404,https://www.indiegogo.com/projects/sequel-new-game-themes-by-robert-holmes,,Designers/Robert Holmes.md,20,live-confirmed-via-chrome
 infamous-quests.com,ssl-error,https://www.infamous-quests.com/space-quest-ii-vga-remake/,,Games/Fan Games/2011 - Space Quest II VGA Remake.md,18,
 inthetransolarzone.com,dns-fail,https://www.inthetransolarzone.com/,,Publishers/Transolar Games.md,1,host-down-or-discontinued
 jenesuis.net,404,http://www.jenesuis.net/tests/amiga/433-bargon-attack,,Games/Coktel/1992 - Bargon Attack.md,20,dead-confirmed-404
@@ -211,22 +211,22 @@ kotaku.com,404,https://kotaku.com/spaceventure-two-guys-from-andromeda-review-ki
 kotaku.com,404,https://kotaku.com/the-never-ending-wait-for-ricochet-2-1849012445,,Games/Valve/2000 - Ricochet.md,11,dead-confirmed-404
 larrywiki.com,404,https://larrywiki.com/wiki/Police_Quest,,Games/Police Quest/1987 - Police Quest - In Pursuit of the Death Angel.md,29,dead-confirmed-404
 macintoshgarden.org,404,https://macintoshgarden.org/publisher/sierra-line,,Games/Arcade/1982 - Pest Patrol.md,13,dead-confirmed-404
-massgate.org,ssl-error,https://www.massgate.org/,,Games/Standalone/2007 - World in Conflict.md,50,inconclusive-manual-review
+massgate.org,ssl-error,https://www.massgate.org/,,Games/Standalone/2007 - World in Conflict.md,50,live-confirmed-via-chrome
 metacritic.com,404,https://www.metacritic.com/game/pc/gobliiins-5/,,Publishers/Schnibble Productions.md,10,dead-confirmed-404
-mobygames.com,404,https://www.mobygames.com/company/233/dynamix-inc/,,Games/3D Ultra/1997 - 3-D Ultra MiniGolf.md,10,bot-blocked-likely-live
-mobygames.com,404,https://www.mobygames.com/company/26891/gearbox-publishing/,,Publishers/Gearbox Publishing.md,3,bot-blocked-likely-live
-mobygames.com,404,https://www.mobygames.com/company/4009/headgate-studios-inc/,,Games/Front Page Sports/1997 - Front Page Sports Golf - Tour Course Add-On.md,12,bot-blocked-likely-live
-mobygames.com,404,"https://www.mobygames.com/company/berkeley-systems-inc/overview/list,1/",,Publishers/Berkeley Systems.md,14,bot-blocked-likely-live
-mobygames.com,404,https://www.mobygames.com/company/bright-star-technology/,,Games/Education/1982 - Alphabet Blocks.md,16,bot-blocked-likely-live
-mobygames.com,404,https://www.mobygames.com/company/sierra-on-line/,,Games/Hi-Res/1984 - Gelfling Adventure.md,14,bot-blocked-likely-live
+mobygames.com,404,https://www.mobygames.com/company/233/dynamix-inc/,,Games/3D Ultra/1997 - 3-D Ultra MiniGolf.md,10,live-confirmed-via-chrome
+mobygames.com,404,https://www.mobygames.com/company/26891/gearbox-publishing/,,Publishers/Gearbox Publishing.md,3,live-confirmed-via-chrome
+mobygames.com,404,https://www.mobygames.com/company/4009/headgate-studios-inc/,,Games/Front Page Sports/1997 - Front Page Sports Golf - Tour Course Add-On.md,12,live-confirmed-via-chrome
+mobygames.com,404,"https://www.mobygames.com/company/berkeley-systems-inc/overview/list,1/",,Publishers/Berkeley Systems.md,14,live-confirmed-via-chrome
+mobygames.com,404,https://www.mobygames.com/company/bright-star-technology/,,Games/Education/1982 - Alphabet Blocks.md,16,live-confirmed-via-chrome
+mobygames.com,404,https://www.mobygames.com/company/sierra-on-line/,,Games/Hi-Res/1984 - Gelfling Adventure.md,14,live-confirmed-via-chrome
 mocagh.org,404,https://mocagh.org/sierra/interaction-winter92.pdf,,"Games/King's Quest/1992 - King's Quest VI - Heir Today, Gone Tomorrow.md",6,dead-confirmed-404
-moddb.com,404,https://www.moddb.com/games/homeworld-cataclysm/downloads/homeworld-cataclysm-patch-101,,Games/Homeworld/2000 - Homeworld - Cataclysm.md,52,bot-blocked-likely-live
+moddb.com,404,https://www.moddb.com/games/homeworld-cataclysm/downloads/homeworld-cataclysm-patch-101,,Games/Homeworld/2000 - Homeworld - Cataclysm.md,52,live-confirmed-via-chrome
 museumofplay.org,404,https://www.museumofplay.org/games/gabriel-knight-sins-of-the-fathers/,,"Games/King's Quest/1992 - King's Quest VI - Heir Today, Gone Tomorrow.md",25,dead-confirmed-404
 mvpmods.com,404,https://www.mvpmods.com/forums/topic/8719-front-page-sports-96-music-mod/,,Games/Front Page Sports/1996 - Front Page Sports - Baseball Pro '96.md,17,dead-confirmed-404
-neoseeker.com,404,https://www.neoseeker.com/homeworld-cataclysm/faqs/219657-homeworld-cataclysm-faq.html,,Games/Homeworld/2000 - Homeworld - Cataclysm.md,30,bot-blocked-likely-live
+neoseeker.com,404,https://www.neoseeker.com/homeworld-cataclysm/faqs/219657-homeworld-cataclysm-faq.html,,Games/Homeworld/2000 - Homeworld - Cataclysm.md,30,live-confirmed-via-chrome
 neverdiemedia.com,404,https://www.neverdiemedia.com/products/hoyle-puzzle-games-2002,http://web.archive.org/web/20250212111049/https://www.neverdiemedia.com/products/hoyle-puzzle-games-2002,Games/Hoyle/2002 - Hoyle Puzzle Games.md,13,applied
 neverdiemedia.com,404,https://www.neverdiemedia.com/products/hoyle-puzzle-games-2003,,Games/Hoyle/2003 - Hoyle Board Games.md,16,live-no-action-needed
-newgamenetwork.com,4xx-410,https://www.newgamenetwork.com/article/2778/homeworld-3-review/,,Games/Homeworld/2024 - Homeworld 3.md,52,bot-blocked-likely-live
+newgamenetwork.com,4xx-410,https://www.newgamenetwork.com/article/2778/homeworld-3-review/,,Games/Homeworld/2024 - Homeworld 3.md,52,live-confirmed-via-chrome
 nostalgiatrigger.com,4xx-410,https://nostalgiatrigger.com/2017/04/17/retrospectives-part-1-police-quest-in-pursuit-of-the-death-angel-1987/,,Series/Police Quest Series.md,4,
 nostalgiatrigger.com,4xx-410,https://nostalgiatrigger.com/2017/04/17/retrospectives-part-1-police-quest-in-pursuit-of-the-death-angel-1987/,,Games/Police Quest/1992 - Police Quest - In Pursuit of the Death Angel VGA.md,27,
 nyriad.com,dns-fail,https://www.nyriad.com/,,Designers/David Selle.md,20,host-down-or-discontinued
@@ -246,9 +246,9 @@ pcgamer.com,404,https://www.pcgamer.com/leisure-suit-larry-wet-dreams-dont-dry-r
 pcgamer.com,404,https://www.pcgamer.com/mages-initiation-reign-of-the-elements-review/,,Publishers/Himalaya Studios.md,9,dead-confirmed-404
 pcgamer.com,404,https://www.pcgamer.com/quest-for-infamy-review/,,Publishers/Infamous Quests.md,9,dead-confirmed-404
 pcgamer.com,404,https://www.pcgamer.com/valves-forgotten-games/,,Games/Valve/2000 - Ricochet.md,10,dead-confirmed-404
-pcgamingwiki.com,404,https://www.pcgamingwiki.com/wiki/After_Dark,,Games/After Dark/1991 - More After Dark.md,20,bot-blocked-likely-live
-pcgamingwiki.com,404,https://www.pcgamingwiki.com/wiki/Company:AGD_Interactive,,Publishers/AGD Interactive.md,14,bot-blocked-likely-live
-pcgamingwiki.com,404,https://www.pcgamingwiki.com/wiki/Front_Page_Sports:_Ski_Racing,,Games/Front Page Sports/1997 - Front Page Sports - Ski Racing.md,15,bot-blocked-likely-live
+pcgamingwiki.com,404,https://www.pcgamingwiki.com/wiki/After_Dark,,Games/After Dark/1991 - More After Dark.md,20,live-confirmed-via-chrome
+pcgamingwiki.com,404,https://www.pcgamingwiki.com/wiki/Company:AGD_Interactive,,Publishers/AGD Interactive.md,14,live-confirmed-via-chrome
+pcgamingwiki.com,404,https://www.pcgamingwiki.com/wiki/Front_Page_Sports:_Ski_Racing,,Games/Front Page Sports/1997 - Front Page Sports - Ski Racing.md,15,live-confirmed-via-chrome
 planetphillip.com,dns-fail,https://www.planetphillip.com/,,Games/Valve/1998 - Half-Life.md,62,host-down-or-discontinued
 podbean.com,404,https://www.podbean.com/podcast-detail/g78pm-3c19e/The-Retro-Hour-%28Retro-Gaming-Podcast%29,,Designers/Mark Crowe.md,21,dead-confirmed-404
 polygon.com,404,https://www.polygon.com/2013/10/10/4822476/bolt-riley-adventure-game,,Games/Spiritual Successors/2018 - Bolt Riley - A Reggae Adventure.md,11,dead-confirmed-404
@@ -270,10 +270,10 @@ rawg.io,404,https://rawg.io/games/fort-apache,,Games/Impressions/1991 - Fort Apa
 rockpapershotgun.com,404,https://www.rockpapershotgun.com/reggae-adventure-game-bolt-riley-has-a-kickstarter,,Games/Spiritual Successors/2018 - Bolt Riley - A Reggae Adventure.md,5,dead-confirmed-404
 romstation.fr,404,https://www.romstation.fr/games/dos/emmanuelle-a-game-of-eroticism-r57609/,,Games/Coktel/1989 - Emmanuelle.md,6,dead-confirmed-404
 romstation.fr,404,https://www.romstation.fr/games/psx/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-r67733/,,Games/Incredible Machine/1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons.md,7,dead-confirmed-404
-rpgamer.com,404,https://rpgamer.com/games/qfg/qfg1/,,Games/Quest for Glory/1989 - Quest for Glory I - So You Want to Be a Hero.md,20,bot-blocked-likely-live
-rpgamer.com,404,https://rpgamer.com/review/quest-for-glory-ii-trial-by-fire/,,Games/Quest for Glory/1990 - Quest for Glory II - Trial by Fire.md,8,bot-blocked-likely-live
-rpgamer.com,404,https://rpgamer.com/review/quest-for-glory-iii-wages-of-war/,,Games/Quest for Glory/1992 - Quest for Glory III - Wages of War.md,4,bot-blocked-likely-live
-rpgamer.com,404,https://rpgamer.com/review/quest-for-glory-iv-shadows-of-darkness/,,Games/Quest for Glory/1993 - Quest for Glory IV - Shadows of Darkness.md,8,bot-blocked-likely-live
+rpgamer.com,404,https://rpgamer.com/games/qfg/qfg1/,,Games/Quest for Glory/1989 - Quest for Glory I - So You Want to Be a Hero.md,20,live-confirmed-via-chrome
+rpgamer.com,404,https://rpgamer.com/review/quest-for-glory-ii-trial-by-fire/,,Games/Quest for Glory/1990 - Quest for Glory II - Trial by Fire.md,8,live-confirmed-via-chrome
+rpgamer.com,404,https://rpgamer.com/review/quest-for-glory-iii-wages-of-war/,,Games/Quest for Glory/1992 - Quest for Glory III - Wages of War.md,4,live-confirmed-via-chrome
+rpgamer.com,404,https://rpgamer.com/review/quest-for-glory-iv-shadows-of-darkness/,,Games/Quest for Glory/1993 - Quest for Glory IV - Shadows of Darkness.md,8,live-confirmed-via-chrome
 rpgfan.com,404,https://rpgfan.com/soundtracks/quest-for-glory-v-dragon-fire-ost/,,Games/Quest for Glory/1998 - Quest for Glory V - Dragon Fire.md,27,dead-confirmed-404
 sasclan.org,404,https://sasclan.org/forum/public-access/chit-chat/swat-4-tweak-guide-9636,,Games/SWAT/2005 - SWAT 4.md,43,dead-confirmed-404
 sierragamers.com,404,https://www.sierragamers.com/agd-interactive/,,Publishers/AGD Interactive.md,8,dead-confirmed-404
@@ -287,22 +287,22 @@ sierrahelp.com,ssl-error,http://www.sierrahelp.com/Misc/IntroductionToRWAnth.htm
 sierrahelp.com,ssl-error,http://www.sierrahelp.com/forums/viewtopic.php?f=24&t=3989,,Developers/Infamous Quests.md,18,applied-https-upgrade
 sierrahelp.com,404,https://sierrahelp.com/Games/KQ/KQ4.html,,Games/King's Quest/1988 - King's Quest IV - The Perils of Rosella.md,36,dead-confirmed-404
 sierrahelp.com,404,https://sierrahelp.com/Games/PoliceQuest/PQ1Help.html,,Games/Police Quest/1987 - Police Quest - In Pursuit of the Death Angel.md,52,dead-confirmed-404
-sierrahelp.com,ssl-error,https://www.sierrahelp.com/,,Guides/Playing Sierra Games Today.md,4,inconclusive-manual-review
-sierraplanet.net,ssl-error,https://www.sierraplanet.net/kqgames/kings-quest-iv/kq4-game-goodies/kq4-curiosities/,,Games/King's Quest/1988 - King's Quest IV - The Perils of Rosella.md,44,inconclusive-manual-review
+sierrahelp.com,ssl-error,https://www.sierrahelp.com/,,Guides/Playing Sierra Games Today.md,4,live-confirmed-via-chrome
+sierraplanet.net,ssl-error,https://www.sierraplanet.net/kqgames/kings-quest-iv/kq4-game-goodies/kq4-curiosities/,,Games/King's Quest/1988 - King's Quest IV - The Perils of Rosella.md,44,live-confirmed-via-chrome
 spacegamejunkie.com,404,https://spacegamejunkie.com/2017/06/homeworld-cataclysm-emergence-interview/,,Games/Homeworld/2000 - Homeworld - Cataclysm.md,48,dead-confirmed-404
 spacegamejunkie.com,404,https://spacegamejunkie.com/2017/06/homeworld-cataclysm-emergence-interview/,,Developers/Barking Dog Studios.md,23,dead-confirmed-404
 spacequest.net,404,https://spacequest.net/deaths/,,Series/Space Quest Series.md,3,dead-confirmed-404
-spacequest.net,ssl-error,https://www.spacequest.net/archives/sq7/,,Designers/Scott Murphy.md,23,inconclusive-manual-review
-spacequest.net,ssl-error,https://www.spacequest.net/sq1/eastereggs/,,Games/Space Quest/1991 - Space Quest I - Roger Wilco in the Sarien Encounter.md,22,inconclusive-manual-review
-spacequest.net,ssl-error,https://www.spacequest.net/sq1/pointlists/,,Games/Space Quest/1991 - Space Quest I - Roger Wilco in the Sarien Encounter.md,19,inconclusive-manual-review
-spacequest.net,ssl-error,https://www.spacequest.net/sq3/cameos/,,Games/Space Quest/1989 - Space Quest III - The Pirates of Pestulon.md,24,inconclusive-manual-review
-spacequest.net,ssl-error,https://www.spacequest.net/sq3/funfacts/,,Games/Space Quest/1989 - Space Quest III - The Pirates of Pestulon.md,25,inconclusive-manual-review
-spacequest.net,ssl-error,https://www.spacequest.net/sq4/cheatdebug/,,Games/Space Quest/1991 - Space Quest IV - Roger Wilco and the Time Rippers.md,29,inconclusive-manual-review
-spacequest.net,ssl-error,https://www.spacequest.net/sq4/fixes/,,Games/Space Quest/1991 - Space Quest IV - Roger Wilco and the Time Rippers.md,34,inconclusive-manual-review
-spacequest.net,ssl-error,https://www.spacequest.net/sq7/,,Guides/Cancelled Games.md,3,inconclusive-manual-review
-spacequest.net,ssl-error,https://www.spacequest.net/sq7/,,Guides/Sierra History.md,19,inconclusive-manual-review
-spacequest.net,ssl-error,https://www.spacequest.net/sq7/,,Games/Cancelled/CXL - Space Quest VII - Return to Roman Numerals.md,2,inconclusive-manual-review
-speeddemosarchive.com,ssl-error,https://www.speeddemosarchive.com/,,Games/Empire Earth/2001 - Empire Earth.md,12,inconclusive-manual-review
+spacequest.net,ssl-error,https://www.spacequest.net/archives/sq7/,,Designers/Scott Murphy.md,23,live-confirmed-via-chrome
+spacequest.net,ssl-error,https://www.spacequest.net/sq1/eastereggs/,,Games/Space Quest/1991 - Space Quest I - Roger Wilco in the Sarien Encounter.md,22,live-confirmed-via-chrome
+spacequest.net,ssl-error,https://www.spacequest.net/sq1/pointlists/,,Games/Space Quest/1991 - Space Quest I - Roger Wilco in the Sarien Encounter.md,19,live-confirmed-via-chrome
+spacequest.net,ssl-error,https://www.spacequest.net/sq3/cameos/,,Games/Space Quest/1989 - Space Quest III - The Pirates of Pestulon.md,24,live-confirmed-via-chrome
+spacequest.net,ssl-error,https://www.spacequest.net/sq3/funfacts/,,Games/Space Quest/1989 - Space Quest III - The Pirates of Pestulon.md,25,live-confirmed-via-chrome
+spacequest.net,ssl-error,https://www.spacequest.net/sq4/cheatdebug/,,Games/Space Quest/1991 - Space Quest IV - Roger Wilco and the Time Rippers.md,29,live-confirmed-via-chrome
+spacequest.net,ssl-error,https://www.spacequest.net/sq4/fixes/,,Games/Space Quest/1991 - Space Quest IV - Roger Wilco and the Time Rippers.md,34,live-confirmed-via-chrome
+spacequest.net,ssl-error,https://www.spacequest.net/sq7/,,Guides/Cancelled Games.md,3,live-confirmed-via-chrome
+spacequest.net,ssl-error,https://www.spacequest.net/sq7/,,Guides/Sierra History.md,19,live-confirmed-via-chrome
+spacequest.net,ssl-error,https://www.spacequest.net/sq7/,,Games/Cancelled/CXL - Space Quest VII - Return to Roman Numerals.md,2,live-confirmed-via-chrome
+speeddemosarchive.com,ssl-error,https://www.speeddemosarchive.com/,,Games/Empire Earth/2001 - Empire Earth.md,12,live-confirmed-via-chrome
 speedrunwiki.com,dns-fail,https://www.speedrunwiki.com/w/index.php?title=Conquests_of_Camelot:_The_Search_For_The_Grail&mobileaction=toggle_view_desktop,,Games/Conquests/1990 - Conquests of Camelot - The Search for the Grail.md,32,host-down-or-discontinued
 sq-incinerations.com,dns-fail,https://sq-incinerations.com/,,Series/Space Quest Series.md,9,host-down-or-discontinued
 squakenet.com,dns-fail,https://www.squakenet.com/game/hoyle-kids-games/,,Games/Hoyle/2001 - Hoyle Kids Games.md,19,live-no-action-needed
@@ -310,7 +310,7 @@ superriorrealities.com,dns-fail,https://superriorrealities.com/,,Games/Valve/200
 techland.time.com,ssl-error,https://techland.time.com/2012/11/15/all-time-100-video-games/slide/all/,,Games/Leisure Suit Larry/1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA).md,33,host-down-or-discontinued
 techland.time.com,ssl-error,https://techland.time.com/2012/11/15/all-time-100-video-games/slide/kings-quest-1984/,,Games/King's Quest/1984 - King's Quest - Quest for the Crown.md,20,host-down-or-discontinued
 toucharcade.com,404,https://toucharcade.com/2014/11/19/gold-rush-classic-review/,,Publishers/Sunlight Games - KISS ltd.md,11,host-down-or-discontinued
-trueachievements.com,404,https://www.trueachievements.com/news/xbox-game-pass-retro-classics-august-2026,,Games/Dynamix/1991 - The Adventures of Willy Beamish.md,51,bot-blocked-likely-live
+trueachievements.com,404,https://www.trueachievements.com/news/xbox-game-pass-retro-classics-august-2026,,Games/Dynamix/1991 - The Adventures of Willy Beamish.md,51,live-confirmed-via-chrome
 typingtutor.online,dns-fail,https://www.typingtutor.online/,,Games/Education/1993 - Kids' Typing.md,20,host-down-or-discontinued
 uvlist.net,404,https://www.uvlist.net/game-121890-Pest+Patrol,,Games/Arcade/1982 - Pest Patrol.md,15,dead-confirmed-404
 uvlist.net,404,https://www.uvlist.net/game-50389-ready-set-read-with-bananas-jack,,Games/Discovery/1993 - Ready Set Read with Bananas Jack.md,18,dead-confirmed-404
