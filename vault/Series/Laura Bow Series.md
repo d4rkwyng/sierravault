@@ -156,12 +156,12 @@ Despite positive reception, the series ended after two entries as Sierra shifted
 - [[King's Quest Series]] - Williams' flagship fantasy series
 - [[Gabriel Knight Series]] - Another Sierra mystery franchise
 - [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] - Williams' first mystery game
-- [[Mystery House]]
-- [[The Colonel's Bequest]]
-- [[The Dagger of Amon Ra]]
-- [[Mystery House]]
-- [[The Colonel's Bequest]]
-- [[The Dagger of Amon Ra]]
+- [[1980 - Hi-Res Adventure 1 - Mystery House]]
+- [[1989 - The Colonel's Bequest]]
+- [[1992 - The Dagger of Amon Ra]]
+- [[1980 - Hi-Res Adventure 1 - Mystery House]]
+- [[1989 - The Colonel's Bequest]]
+- [[1992 - The Dagger of Amon Ra]]
 ## References
 
 [^ref-1]: [Grok Encyclopedia - The Colonel's Bequest](https://grokipedia.com/page/The_Colonel%27s_Bequest) – Mystery House connection
