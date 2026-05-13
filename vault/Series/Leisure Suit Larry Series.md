@@ -148,32 +148,16 @@ Fans generally distinguish between "true" Larry games (LSL1-7, designed by [[Al 
 
 ## See Also
 
-- [[Al Lowe]] - Series creator
-- [[1981 - Softporn Adventure]] - Text adventure origin
-- [[Space Quest Series]] - Sierra's other comedy franchise
-- [[King's Quest Series]] - Sierra's flagship fantasy series
-- [[2013 - Leisure Suit Larry - Reloaded]]
-- [[1998 - Leisure Suit Larry's Casino]]
-- [[Leisure Suit Larry Series]]
-- [[1998 - Leisure Suit Larry's Casino]]
-- [[1998 - Leisure Suit Larry's Casino]]
-- [[2009 - Leisure Suit Larry - Box Office Bust]]
-- [[2004 - Leisure Suit Larry - Magna Cum Laude]]
-- [[2013 - Leisure Suit Larry - Reloaded]]
-- [[1981 - Softporn Adventure]]
-- [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
-- [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
-- [[2013 - Leisure Suit Larry - Reloaded]]
-- [[1998 - Leisure Suit Larry's Casino]]
-- [[Leisure Suit Larry Series]]
-- [[1998 - Leisure Suit Larry's Casino]]
-- [[1998 - Leisure Suit Larry's Casino]]
-- [[2009 - Leisure Suit Larry - Box Office Bust]]
-- [[2004 - Leisure Suit Larry - Magna Cum Laude]]
-- [[2013 - Leisure Suit Larry - Reloaded]]
-- [[1981 - Softporn Adventure]]
-- [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
-- [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
+- [[Al Lowe]] — Series creator
+- [[1981 - Softporn Adventure]] — Text adventure origin
+- [[1998 - Leisure Suit Larry's Casino]] — Hoyle-based spin-off
+- [[2004 - Leisure Suit Larry - Magna Cum Laude]] — Post-Lowe entry
+- [[2009 - Leisure Suit Larry - Box Office Bust]] — Post-Lowe entry
+- [[2013 - Leisure Suit Larry - Reloaded]] — HD remake of LSL1
+- [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]] — Modern sequel
+- [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]] — Modern sequel
+- [[Space Quest Series]] — Sierra's other comedy franchise
+- [[King's Quest Series]] — Sierra's flagship fantasy series
 
 ## References
 

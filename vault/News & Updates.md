@@ -1,6 +1,6 @@
 ---
 title: "News & Updates"
-updated: "2026-02-11"
+updated: "2026-05-13"
 cssclass: news-page
 ---
 # 📰 News & Updates
@@ -85,14 +85,6 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 ## 📅 Q2 2025 (Apr–Jun)
 
-> [!tip] ScummVM Engine Additions
-> - **Jun 29** — **SLUDGE engine** full support (Out of Order, Life Flashes By, etc.)
-> - **Jun 17** — **The Last Express** ready for testing
-
----
-
-## 📅 Q2 2025 (Apr–Jun)
-
 > [!success] SpaceVenture Early Access
 > **April 1, 2025** — [[2022 - SpaceVenture|SpaceVenture]] launched on Steam Early Access by Two Guys from Andromeda
 > 
@@ -100,6 +92,10 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 > [!tip] Media Coverage
 > - **May 17** — Ars Technica: ["Sierra made the games of my childhood. Are they still fun to play?"](https://arstechnica.com/gaming/2025/05/sierra-made-the-games-of-my-childhood-are-they-still-fun-to-play/) — Retrospective article
+
+> [!tip] ScummVM Engine Additions
+> - **Jun 29** — **SLUDGE engine** full support (Out of Order, Life Flashes By, etc.)
+> - **Jun 17** — **The Last Express** ready for testing
 
 ---
 

@@ -421,7 +421,7 @@ Point-and-click adventures. **Play with:** ScummVM
 
 ---
 
-## Quick Reference
+## Emulator Quick Reference
 
 | Engine Type | Best Emulator/Runtime |
 |-------------|----------------------|

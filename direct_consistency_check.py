@@ -496,6 +496,64 @@ def build_json(results: list) -> dict:
         "pages": pages,
     }
 
+def vault_wide_integrity_scan(vault_root: Path) -> list[tuple[str, list[str]]]:
+    """Run integrity-only checks across every .md in the vault (not just Games/).
+
+    Catches duplicate-content corruption patterns on top-level pages, Reference,
+    Technology, Series, Designers, Developers, Publishers, Guides — files the
+    main per-game scorer doesn't touch.
+
+    Returns list of (relative_path, [issue_messages]) for anything flagged.
+    """
+    findings: list[tuple[str, list[str]]] = []
+    for f in vault_root.rglob("*.md"):
+        if (vault_root / "Games") in f.parents or f.parent == (vault_root / "Games"):
+            continue  # already scored
+        text = f.read_text()
+        fm_text_local = ""
+        body_local = text
+        if text.startswith("---"):
+            end = text.find("\n---", 3)
+            if end > 0:
+                fm_text_local = text[3:end]
+                body_local = text[end + 4:]
+
+        issues = []
+        # Dup YAML keys
+        seen = set()
+        for line in fm_text_local.split("\n"):
+            m = re.match(r'^([a-zA-Z_][\w-]*)\s*:', line)
+            if m and m.group(1) in seen:
+                issues.append(f"Duplicate YAML key: `{m.group(1)}`")
+                break
+            elif m:
+                seen.add(m.group(1))
+        # Dup footnote defs
+        fn_keys = re.findall(r'^\[\^(ref-[\w-]+)\]:', body_local, re.MULTILINE)
+        fn_dups = [k for k in set(fn_keys) if fn_keys.count(k) > 1]
+        if fn_dups:
+            issues.append(f"Duplicate footnote def(s): {fn_dups[:3]}")
+        # Adjacent identical body lines
+        lines = body_local.split("\n")
+        adj = sum(1 for i in range(len(lines) - 1)
+                  if lines[i].strip() and len(lines[i].strip()) >= 10
+                  and lines[i].strip() == lines[i + 1].strip())
+        if adj:
+            issues.append(f"{adj} adjacent duplicate line(s)")
+        # Dup H2 (excluding References-style nav)
+        h2s = re.findall(r'^## (?!Reference|See Also|Related)(?:[^\n]*?\b)(.+)', body_local, re.MULTILINE)
+        h2_dups = [h for h in set(h2s) if h2s.count(h) > 1]
+        if h2_dups:
+            issues.append(f"Duplicate H2 heading(s): {h2_dups[:3]}")
+        # Bare References
+        if re.search(r'^References\s*$', body_local, re.MULTILINE):
+            issues.append("Bare `References` line without ##")
+
+        if issues:
+            findings.append((str(f.relative_to(vault_root)), issues))
+    return findings
+
+
 # Main execution
 REPO_ROOT = Path(__file__).resolve().parent
 vault = REPO_ROOT / "vault/Games"
@@ -542,6 +600,20 @@ print("="*72)
 
 for r in display_failing:
     print(format_page(r, verbose=True))
+
+# Vault-wide integrity scan (non-game pages: Reference, Technology, Series, etc.)
+print("\n" + "="*72)
+print("VAULT-WIDE INTEGRITY SCAN (non-game pages)")
+print("="*72)
+integrity_findings = vault_wide_integrity_scan(REPO_ROOT / "vault")
+if not integrity_findings:
+    print("Clean — no integrity issues found in non-game pages.")
+else:
+    print(f"Found integrity issues in {len(integrity_findings)} non-game files:")
+    for path, issues in integrity_findings:
+        print(f"\n  {path}")
+        for i in issues:
+            print(f"    - {i}")
 
 # Print JSON summary and first 50 pages
 print("\n" + "="*72)
