@@ -246,6 +246,6 @@ The game is documented in multiple gaming databases.[^ref-15][^ref-16]
 [^ref-17]: [PCGamingWiki - Metaltech: Earthsiege](https://www.pcgamingwiki.com/wiki/Metaltech:_Earthsiege) - Technical specifications
 [^ref-18]: [Internet Archive - Metaltech: Earthsiege](https://archive.org/details/metaltech-earthsiege-complete-mr-abandonware) - Game preservation
 [^ref-19]: [MyAbandonware - Metaltech: Earthsiege](https://www.myabandonware.com/game/metaltech-earthsiege-2pi) - User ratings and downloads
-[^ref-20]: [Sierra Gamers - Metaltech](https://www.sierragamers.com/metaltech-earthsiege/) - Series information
+[^ref-20]: [Sierra Gamers - Metaltech](https://www.sierragamers.com/earthsiege/) - Series information
 [^ref-21]: [Starsiege Wiki - Earthsiege](https://starsiege.fandom.com/wiki/Metaltech:_Earthsiege) - Universe and lore details
 [^ref-22]: [TribesNext - Series History](https://www.tribesnext.com/) - Franchise evolution

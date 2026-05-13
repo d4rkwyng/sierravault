@@ -179,7 +179,7 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 
 ### Preservation
 
-- [Internet Archive - Ricochet Demo](https://archive.org/details/ricochet-demo) - Playable demo version[^ref-14]
+- [Internet Archive - Ricochet Demo](https://archive.org/details/Ricochet) - Playable demo version[^ref-14]
 - [My Abandonware](https://www.myabandonware.com/game/ricochet-d59) - Information and screenshots[^ref-5]
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Ricochet) - Technical fixes and compatibility information[^ref-15]
 
@@ -211,7 +211,7 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 [^ref-11]: [Kotaku - The Ricochet 2 Joke](https://kotaku.com/the-never-ending-wait-for-ricochet-2-1849012445) - Cultural legacy and meme status
 [^ref-12]: [ModDB - Ricochet: Source](https://www.moddb.com/mods/ricochet-source) - Fan remake project
 [^ref-13]: [MobyGames - Ricochet](https://www.mobygames.com/game/4481/ricochet/) - Game database entry confirming multiplayer-only status
-[^ref-14]: [Internet Archive - Ricochet](https://archive.org/details/ricochet-demo) - Preserved demo version
+[^ref-14]: [Internet Archive - Ricochet](https://archive.org/details/Ricochet) - Preserved demo version
 [^ref-15]: [PCGamingWiki - Ricochet](https://www.pcgamingwiki.com/wiki/Ricochet) - Technical information and fixes
 [^ref-16]: [Wikipedia - Ricochet (video game)](https://en.wikipedia.org/wiki/Ricochet_(2000_video_game)) - Encyclopedia article
 [^ref-17]: [GameFAQs - Ricochet](https://gamefaqs.gamespot.com/pc/561755-ricochet) - Game database entry

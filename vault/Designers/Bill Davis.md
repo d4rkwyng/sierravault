@@ -142,7 +142,7 @@ The visual quality improvements visible in Sierra's games from 1990 onwards refl
 [^ref-7]: [Trowzers Akimbo - About](https://www.trowzersakimbo.com/html/about.html) — Personal background and early life
 [^ref-8]: [Sierra News Magazine](https://www.sierragamers.com/) — July 1989 hiring announcement
 [^ref-9]: [King's Quest Omnipedia - Bill Davis](https://kingsquest.fandom.com/wiki/Bill_Davis) — Complete Sierra credits and roles
-[^ref-10]: [Sierra/Dynamix News Magazine - Larry's New Look](https://archive.org/details/sierra-news-magazine-summer-1991) — Summer 1991, Leisure Suit Larry cubist style
+[^ref-10]: [Sierra/Dynamix News Magazine - Larry's New Look](https://archive.org/details/interactionmagazine) — Summer 1991, Leisure Suit Larry cubist style
 [^ref-11]: [MobyGames - Bill Davis Credits](https://www.mobygames.com/person/40190/bill-davis/credits/) — 53 credits on 36 games
 [^ref-12]: [Sierra News Online - Trowzers Akimbo: Multiple-Point Perspectives](https://sierranewsonline.com/trowzers-akimbo-sierra-art-trails-2015-2/) — Fine art practice
 [^ref-13]: [Sierra Sun Times - Emmy Award Winning Oakhurst Artist Bill Davis Creates Painting for Valley Children's Hospital](https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/5241-emmy-award-winning-oakhurst-artist-bill-davis-creates-painting-for-valley-children-s-hospital) — Current residence

@@ -255,7 +255,7 @@ This game has been included in[^ref-1]:
 [^ref-15]: [IMDB – King's Quest II](https://www.imdb.com/title/tt0214855/) — User rating 7.1/10 and trivia including Thriller sample and Batmobile easter egg
 [^ref-16]: [HowLongToBeat – King's Quest II](https://howlongtobeat.com/game/5121) — Completion time data: ~3 hours average, 37 minutes fastest
 [^ref-17]: [Choicest Games – King's Quest II Review](https://www.choicestgames.com/2014/04/kings-quest-ii-romancing-throne-review.html) — Modern retrospective rating 4/10
-[^ref-18]: [Sierra Gamers – Roberta Williams Interview](https://www.sierragamers.com/roberta-williams-interview/) — Williams discussing ideas carried over from King's Quest I
+[^ref-18]: [Sierra Gamers – Roberta Williams Interview](https://www.sierragamers.com/roberta-williams/) — Williams discussing ideas carried over from King's Quest I
 [^ref-19]: [Sierra Chest – King's Quest II](https://www.sierrachest.com/index.php?a=games&id=2&title=kings-quest-2) — Hint book credits (Al Lowe), walkthroughs, and maps
 [^ref-20]: [Video Game Music Preservation Foundation – King's Quest II](https://www.vgmpf.com/Wiki/index.php?title=King%27s_Quest_II:_Romancing_the_Throne_(DOS)) — Soundtrack analysis including Michael Jackson's Thriller sample
 [^ref-21]: [IGN – King's Quest II Walkthrough](https://www.ign.com/articles/2003/11/14/kings-quest-ii-romancing-the-throne-walkthrough-371055) — Easter eggs including Batmobile appearance

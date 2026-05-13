@@ -237,7 +237,7 @@ From a historical standpoint, Threshold reflects the Wild West nature of early 1
 [^ref-9]: [Dynamix Fandom – Sierra Entertainment](https://dynamix.fandom.com/wiki/Sierra_Entertainment) – company history, founding information
 [^ref-10]: [Wikipedia – List of Sierra Entertainment video games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – specific platform release dates
 [^ref-11]: [Internet Archive – Apple II Version](https://archive.org/details/a2_Threshold_1981_On_Line_Systems) – preservation, file information
-[^ref-12]: [Creative Computing – David Lubar Review](https://archive.org/stream/creativecomputing-1982-04/Creative_Computing_v08_n04_1982_Apr#page/n55/mode/2up) – April 1982 review praising animation quality
+[^ref-12]: [Creative Computing – David Lubar Review](https://archive.org/details/creativecomputing-1982-04-a/page/n55/mode/2up) – April 1982 review praising animation quality
 [^ref-13]: [Electronic Games Magazine – Atari Review](https://archive.org/details/electronic-games-magazine-1982-11/page/78/mode/2up) – November 1982 review noting graphics quality
 [^ref-14]: [Gamebase64 – Threshold](https://www.gamebase64.com/game.php?id=8076&d=18) – C64 database entry
 [^ref-15]: [Lemon64 – Threshold](https://www.lemon64.com/game/threshold) – C64 community reviews and ratings
