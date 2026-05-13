@@ -11,11 +11,6 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 ## 🔥 Q2 2026 (Apr–May)
 
-> [!info] Jimmy Maher — Rennes-le-Château Conspiracy Deep-Dive (Parts 4 & 5)
-> **April 17, 2026 & May 1, 2026** — *The Digital Antiquarian* published the fourth and fifth installments of its multipart series on the Rennes-le-Château mystery — the real-world conspiracy theory that [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3]] dramatized. Part 4 examines how the fiction-vs-non-fiction line was deliberately blurred; Part 5 unmasks the hoaxers behind the source material.
-> 
-> [The Digital Antiquarian — Part 4 (Apr 17, 2026)](https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/) · [Part 5 (May 1, 2026)](https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/)
-
 > [!example] Quest for Infamy: Roehm to Ruin — Final Voice Recording Booked for May
 > **April 4, 2026** — [[Infamous Quests]]'s Steven "Bt" Alexander confirmed via Patreon that **studio time is booked in May 2026** for **Steve Patrick** to record the remaining Mr. Roehm lines for [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] — the final outstanding production step on the long-awaited prequel. The team has also planned a **RetroGameCon Syracuse (Oct 2026)** showcase to coincide with release.
 > 
@@ -25,30 +20,6 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 ## 🔥 Q1 2026 (Jan–Mar)
 
-> [!info] Josh Mandel AMA — Adventure Game Hotspot Forum
-> **January 15 – March 18, 2026** — [[Josh Mandel|Josh Mandel]] (Freddy Pharkas co-designer, KQ1 VGA producer, Space Quest 6 designer, Callahan's Crosstime Saloon designer) hosted an extended "AMA About Sierra!" thread on the Adventure Game Hotspot community forum. Highlights:
-> - 💼 Freddy Pharkas crunch: 20-hour days, team members sleeping in offices
-> - 🚗 The "Space Quest III-like" rental car arrival at his Sierra job interview when Ken Williams introduced himself
-> - ✍️ "I have always enjoyed the writing side more" — collaborative dialogue with his Golden Age TV-writer father
-> - 🍺 Callahan's affirming, friendship-focused design "was swimming against the tide" for its era
-> 
-> [AMA Thread (AGH Forum)](https://community.adventuregamehotspot.com/showthread.php?pid=5360)
-
-> [!info] Jimmy Maher — Gabriel Knight 3 Reappraisal
-> **February 20, 2026** — *The Digital Antiquarian* published an extended critical reappraisal of [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3]]. Maher argues the game "emerged as an unexpectedly accomplished adventure" despite a nightmarish production at Sierra, and deserves reconsideration beyond its cat-hair-mustache reputation — singling out the *Le Serpent Rouge* sequence as Jane Jensen's best puzzle work.
-> 
-> [The Digital Antiquarian — Gabriel Knight 3](https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/)
-
-> [!info] Jimmy Maher — Homeworld Retrospective
-> **January 2, 2026** — *The Digital Antiquarian* published a retrospective on Sierra-published [[1999 - Homeworld|Homeworld]] (Relic Entertainment), characterizing it as "a seemingly immaculate conception, the full package of technology and design right out of the gate" and "an enduring artistic achievement that has rarely been surpassed."
-> 
-> [The Digital Antiquarian — Homeworld](https://www.filfre.net/2026/01/homeworld/)
-
-> [!example] Infamous Adventures — KQ4 Remake Development Update
-> **January 11, 2026** — The [[Infamous Adventures]] / [[Infamous Quests]] team posted a Patreon "Small Development Update" confirming the [[TBD - King's Quest IV Remake (Infamous Adventures)|King's Quest IV Remake]] has resumed active development: "The team has been really active again and hustling away to finish this up. They have been polishing some things up and doing just some amazing work." Screenshots showed new promotional box art and refined background artwork.
-> 
-> [Infamous Quests Patreon (Jan 11, 2026)](https://www.patreon.com/posts/small-update-147963671)
-
 > [!success] Gobliins 6: The Madmen of the Year 1000 — RELEASED!
 > **February 10, 2026** — [[2026 - Gobliins 6|Gobliins 6]] is out! Pierre Gilhodes brings back Fingus & Winkle 30+ years after Gobliins 2.
 > 
@@ -56,11 +27,6 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > - 🔜 **Steam** — Friday, February 13, 2026
 > 
 > [itch.io](https://pierre-gilhodes.itch.io/gobliins6) · [Steam](https://store.steampowered.com/app/4293620/GOBLiiNS6/) · [Kickstarter Announcement](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4608311)
-
-> [!tip] Gobliins 6 — Release Imminent
-> **February 2, 2026** — Pierre Gilhodes posted a Kickstarter update confirming [[2026 - Gobliins 6|Gobliins 6]] is complete and awaiting release. Keys will be distributed via email with Steam as default, itch.io as alternative.
-> 
-> [Kickstarter Update](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4608311)
 
 > [!tip] Al Lowe Interview — Spillhistorie.no
 > **February 6, 2026** — Norwegian gaming history site Spillhistorie published a new in-depth interview with [[Al Lowe|Al Lowe]], discussing topics beyond Leisure Suit Larry:
@@ -72,6 +38,11 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > 
 > [Read the Full Interview](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/)
 
+> [!tip] Gobliins 6 — Release Imminent
+> **February 2, 2026** — Pierre Gilhodes posted a Kickstarter update confirming [[2026 - Gobliins 6|Gobliins 6]] is complete and awaiting release. Keys will be distributed via email with Steam as default, itch.io as alternative.
+> 
+> [Kickstarter Update](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4608311)
+
 > [!tip] ScummVM v2026.1.0 "Like a Version"
 > **January 31, 2026** — Massive release with 12 new engines and 190+ new games!
 > 
@@ -81,6 +52,11 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > - 📱 SDL3 support, improved Android/iOS builds
 > 
 > [ScummVM Release Notes](https://www.scummvm.org/news/) · [GamingOnLinux Coverage](https://www.gamingonlinux.com/2026/02/scummvm-v2026-1-0-is-a-huge-new-release-with-tons-of-new-supported-games/)
+
+> [!example] Infamous Adventures — KQ4 Remake Development Update
+> **January 11, 2026** — The [[Infamous Adventures]] / [[Infamous Quests]] team posted a Patreon "Small Development Update" confirming the [[TBD - King's Quest IV Remake (Infamous Adventures)|King's Quest IV Remake]] has resumed active development: "The team has been really active again and hustling away to finish this up. They have been polishing some things up and doing just some amazing work." Screenshots showed new promotional box art and refined background artwork.
+> 
+> [Infamous Quests Patreon (Jan 11, 2026)](https://www.patreon.com/posts/small-update-147963671)
 
 > [!success] SCP Amiga Enhancements
 > **January 2026** — The [[2025 - SCP Sierra Conversion Project|Sierra Conversion Project (SCP)]] released enhanced Amiga versions:
@@ -123,17 +99,17 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 ## 📅 Q2 2025 (Apr–Jun)
 
-> [!success] SpaceVenture Early Access
-> **April 1, 2025** — [[2022 - SpaceVenture|SpaceVenture]] launched on Steam Early Access by Two Guys from Andromeda
-> 
-> [Steam Store](https://store.steampowered.com/app/384800/SpaceVenture/)
+> [!tip] ScummVM Engine Additions
+> - **Jun 29** — **SLUDGE engine** full support (Out of Order, Life Flashes By, etc.)
+> - **Jun 17** — **The Last Express** ready for testing
 
 > [!tip] Media Coverage
 > - **May 17** — Ars Technica: ["Sierra made the games of my childhood. Are they still fun to play?"](https://arstechnica.com/gaming/2025/05/sierra-made-the-games-of-my-childhood-are-they-still-fun-to-play/) — Retrospective article
 
-> [!tip] ScummVM Engine Additions
-> - **Jun 29** — **SLUDGE engine** full support (Out of Order, Life Flashes By, etc.)
-> - **Jun 17** — **The Last Express** ready for testing
+> [!success] SpaceVenture Early Access
+> **April 1, 2025** — [[2022 - SpaceVenture|SpaceVenture]] launched on Steam Early Access by Two Guys from Andromeda
+> 
+> [Steam Store](https://store.steampowered.com/app/384800/SpaceVenture/)
 
 ---
 
