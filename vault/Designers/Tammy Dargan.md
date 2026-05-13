@@ -132,5 +132,5 @@ The technical innovations in her games, particularly the transition from traditi
 [^ref-21]: [King's Quest Fandom - KQ7 Development](https://kingsquest.fandom.com/wiki/KQ7_development) — King's Quest VII development credits confirming Special Thanks
 [^ref-22]: [Laura Bow Fandom](https://laurabow.fandom.com/wiki/The_Dagger_of_Amon_Ra) — The Dagger of Amon Ra credits confirming Special Thanks
 [^ref-23]: [IMDB - King's Quest VI Credits](https://www.imdb.com/title/tt0214857/fullcredits/) — King's Quest VI full credits listing
-[^ref-24]: [PC Gamer Sierra Rankings](https://www.pcgamer.com/games/adventure/all-60-sierra-adventure-games-ranked/) — Sierra adventure game analysis noting Dargan was "responsible for the design" of Police Quest: Open Season and SWAT
+[^ref-24]: [PC Gamer Sierra Rankings](https://www.pcgamer.com/best-sierra-adventure-games/) — Sierra adventure game analysis noting Dargan was "responsible for the design" of Police Quest: Open Season and SWAT
 [^ref-35]: [VICE - Reactionary Game](https://www.vice.com/en/article/how-sierra-and-a-disgraced-cop-made-the-most-reactionary-game-of-the-90s/) — Analysis of Police Quest's controversial content and cultural impact

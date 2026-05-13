@@ -80,6 +80,33 @@ Trust this result over curl's status code when they disagree.
 
 This applies even to URLs in `dead-confirmed-404` or `host-down-or-discontinued` states. The fact that the site is gone doesn't invalidate the citation's evidentiary value if Wayback has it.
 
+### WebSearch-based same-site URL recovery
+
+When Wayback has no snapshot, many articles aren't actually gone — the site just renamed the URL. **Big sites reorganize URL schemes periodically** (pcgamer.com moved its Crapshoot columns from `/crapshoot-X/` to `/saturday-crapshoot-X/`, then to `/games/adventure/X/`; adventuregamers.com restructured paths in 2025; kotaku.com has had multiple slug migrations).
+
+Recovery pattern:
+1. From the dead URL, identify the article topic (title slug, keywords)
+2. Search `site:<host> <topic keywords>` via WebSearch
+3. Look for results on the same host with a different URL pattern
+4. Verify the new URL with the chrome_verify check before applying
+5. Apply the replacement to the vault page; tag worklist row as `applied-websearch-recovery`
+
+Verified examples from the 2026-05-13 audit:
+- `pcgamer.com/crapshoot-police-quest...` → `pcgamer.com/saturday-crapshoot-police-quest/`
+- `pcgamer.com/games/adventure/all-60-sierra-adventure-games-ranked/` → `pcgamer.com/best-sierra-adventure-games/`
+- `pcgamer.com/gearbox-buys-homeworld-for-139-million/` → `pcgamer.com/gearbox-now-owns-the-homeworld-franchise/`
+- `pcgamer.com/hero-u-rogue-to-redemption-review/` → `pcgamer.com/how-hero-u-avoided-disaster-to-resurrect-90s-adventure-game-nostalgia/`
+
+### Cross-site replacement (last resort)
+
+When neither Wayback nor same-site search recovers a citation, the article may genuinely be gone. Before removing, check for **equivalent coverage on a different site**:
+
+- An IGN review that's gone might have an equivalent GameSpot or Polygon review
+- A dead pcgamer review might be replaceable with a Computer Gaming World scan from cgwmuseum.org
+- A dead Adventure Gamers article might be at the successor site Adventure Game Hotspot
+
+This preserves the page's evidentiary value (a reviewer thought it had merit) even if the specific source changed. Tag the worklist row as `applied-cross-site-replacement` so the editorial trail is auditable.
+
 ### Tools
 
 - `scripts/classify_dead.py` (Assets/ACTIVE) — multi-strategy curl-based check (bare + browser headers + host probe)
