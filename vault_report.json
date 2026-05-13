@@ -4,7 +4,7 @@
     "passing": 507,
     "failing": 0,
     "pass_rate_pct": 100.0,
-    "average_score": 97.9
+    "average_score": 98.0
   },
   "pages": [
     {
@@ -41,82 +41,6 @@
           "category": "Series Continuity",
           "severity": "error",
           "message": "2 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "2006 - Gin Rummy.md",
-      "series": "XBLA",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 90.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "3 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "2008 - Lost Cities.md",
-      "series": "XBLA",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 90.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "3 unresolved See Also link(s)",
           "points_lost": 4
         }
       ]
@@ -251,70 +175,6 @@
           "category": "Series Continuity",
           "severity": "error",
           "message": "2 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1984 - Wizard of Id's WizMath.md",
-      "series": "Education",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 92.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "2007 - Carcassonne.md",
-      "series": "XBLA",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 92.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "3 unresolved See Also link(s)",
           "points_lost": 4
         }
       ]
@@ -1044,58 +904,6 @@
       ]
     },
     {
-      "filename": "1982 - Lunar Leeper.md",
-      "series": "Arcade",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 18,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1982 - Laf Pak.md",
-      "series": "Arcade",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
       "filename": "1992 - Take a Break! Crosswords.md",
       "series": "Take a Break!",
       "page_type": "standard",
@@ -1417,6 +1225,70 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2006 - Gin Rummy.md",
+      "series": "XBLA",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 94.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2008 - Lost Cities.md",
+      "series": "XBLA",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 94.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores",
           "points_lost": 2
         }
       ]
@@ -2858,6 +2730,32 @@
       ]
     },
     {
+      "filename": "1984 - Wizard of Id's WizMath.md",
+      "series": "Education",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "2005 - Hoyle Board Games.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -3132,7 +3030,7 @@
         {
           "category": "Series Continuity",
           "severity": "error",
-          "message": "5 unresolved See Also link(s)",
+          "message": "3 unresolved See Also link(s)",
           "points_lost": 4
         }
       ]
@@ -3152,7 +3050,7 @@
         {
           "category": "Series Continuity",
           "severity": "error",
-          "message": "5 unresolved See Also link(s)",
+          "message": "3 unresolved See Also link(s)",
           "points_lost": 4
         }
       ]
@@ -3494,6 +3392,32 @@
       ]
     },
     {
+      "filename": "2007 - Carcassonne.md",
+      "series": "XBLA",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "2007 - SWAT - Target Liberty.md",
       "series": "SWAT",
       "page_type": "standard",
@@ -3792,7 +3716,7 @@
         {
           "category": "Series Continuity",
           "severity": "error",
-          "message": "6 unresolved See Also link(s)",
+          "message": "5 unresolved See Also link(s)",
           "points_lost": 4
         }
       ]
@@ -3812,7 +3736,7 @@
         {
           "category": "Series Continuity",
           "severity": "error",
-          "message": "5 unresolved See Also link(s)",
+          "message": "4 unresolved See Also link(s)",
           "points_lost": 4
         }
       ]
@@ -3832,27 +3756,7 @@
         {
           "category": "Series Continuity",
           "severity": "error",
-          "message": "6 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1987 - Space Quest II - Vohaul's Revenge.md",
-      "series": "Space Quest",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 96.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 32,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
+          "message": "5 unresolved See Also link(s)",
           "points_lost": 4
         }
       ]
@@ -4386,6 +4290,26 @@
       ]
     },
     {
+      "filename": "1982 - Lunar Leeper.md",
+      "series": "Arcade",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1981 - Crossfire.md",
       "series": "Arcade",
       "page_type": "standard",
@@ -4396,6 +4320,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1982 - Laf Pak.md",
+      "series": "Arcade",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
       "issues": [
         {
           "category": "References",
@@ -8846,6 +8790,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 33,
+      "issues": []
+    },
+    {
+      "filename": "1987 - Space Quest II - Vohaul's Revenge.md",
+      "series": "Space Quest",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 32,
       "issues": []
     },
     {

@@ -167,9 +167,9 @@ The game's environmental message has proven timeless, with its themes of marine 
 
 ## See Also
 
-- **Series:** [[EcoQuest: The Search for Cetus|EcoQuest Series]]
+- **Series:** [[1991 - EcoQuest - The Search for Cetus|EcoQuest Series]]
 - **Ne(1993)
-- **Related Educational Games:** [[The Mixed-Up Mother Goose|Mixed-Up Mother Goose]], [[Leisure Suit Larry Series]]
+- **Related Educational Games:** [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]], [[Leisure Suit Larry Series]]
 - **Technology:** [[Sierra On-Line]], [[Sierra Creative Interpreter]]
 
 ## References

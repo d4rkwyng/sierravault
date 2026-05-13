@@ -244,7 +244,7 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 
 ## See Also
 
-- **Series:** [[Conquests of Camelot|Conquests Series]]
+- **Series:** [[1990 - Conquests of Camelot - The Search for the Grail|Conquests Series]]
 - **Nes of the Longbow]] (1991)
 - **Creator:** [[Christy Marx]] (designer/writer)
 - **Technology:** [[Sierra On-Line]], [[Sierra Creative Interpreter]]
