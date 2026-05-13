@@ -308,7 +308,7 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 [^ref-33]: [GOG Database – Police Quest](https://www.gogdb.org/product/1207661263) – GOG version info
 [^ref-34]: [Easter Egg Database – Police Quest](https://eeggs.com/items/46877.html) – Get Naked easter egg, traffic stop easter egg
 [^ref-35]: [Police Quest Fandom – PQ3](https://policequest.fandom.com/wiki/Police_Quest_III:_The_Kindred_VGA) – voice cast credits
-[^ref-36]: [The Digital Antiquarian – Police Quest](https://www.filfre.net/2018/11/police-quest/) – Rich DeBaun training tool quote
+[^ref-36]: [The Digital Antiquarian – Police Quest](https://www.filfre.net/2019/07/chief-gates-comes-to-oakhurst-a-cop-drama/) – Rich DeBaun training tool quote
 [^ref-37]: [MobyGames – User Review by Andy Roark](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/user-review/2470100/) – career influence quote, accuracy assessment
 [^ref-38]: [GOG Dreamlist – Police Quest](https://www.gog.com/dreamlist/game/police-quest-in-pursuit-of-the-death-angel-original-1987-version) – GOG release confirmation
 [^ref-39]: [Sarien.net – Police Quest](https://www.sarien.net/policequest) – browser interpreter warning

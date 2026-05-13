@@ -164,7 +164,7 @@ The Coles continued their work after Sierra:
 
 [^ref-1]: [Wikipedia - Quest for Glory](https://en.wikipedia.org/wiki/Quest_for_Glory) – Hero's Quest trademark dispute
 [^ref-2]: [MobyGames - Quest for Glory Series](https://www.mobygames.com/group/398/quest-for-glory-series/) – Series database and genre classification
-[^ref-3]: [The Digital Antiquarian - Quest for Glory](https://www.filfre.net/2018/07/quest-for-glory/) – Character import system analysis
+[^ref-3]: [The Digital Antiquarian - Quest for Glory](https://www.filfre.net/2018/10/quest-for-glory-iii-and-iv/) – Character import system analysis
 [^ref-4]: [Adventure Classic Gaming - Corey Cole Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/173/) – Design philosophy quote
 [^ref-5]: [Kickstarter - Hero-U](https://www.kickstarter.com/projects/transolargames/hero-u-rogue-to-redemption) – Spiritual successor campaign
 [^ref-6]: [Steam - Summer Daze at Hero-U](https://store.steampowered.com/app/1490970/Summer_Daze_at_HeroU/) – Sequel release

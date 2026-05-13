@@ -154,7 +154,7 @@ Combined sales of the Police Quest series—including the SWAT spinoffs develope
 [^ref-16]: [The Fresno Bee (October 18, 1993)](https://www.newspapers.com/article/the-fresno-bee/163960315/) — 20,000 units first month
 [^ref-17]: [Uppercut - Westwood's Blade Runner](https://uppercutcrit.com/3313-2/) — David Leary and Jim Walls as lead designers
 [^ref-18]: [Internet Archive - Blade Runner Credits](https://archive.org/stream/blaserunnerwindows951997westwoodstudiosjewelcaseart/Blade_Runner_Windows95_1997_Westwood_Studios_Behind_the_Scenes_djvu.txt) — Designer and voice credits
-[^ref-19]: [Kotaku - Jim Walls Announcement](https://kotaku.com/jim-walls-announces-live-with-chris-pope-his-return-to-5981282) — February 2, 2013 podcast announcement
+[^ref-19]: [Kotaku - Jim Walls Announcement](https://kotaku.com/guys-police-quest-is-basically-back-796665191) — February 2, 2013 podcast announcement
 [^ref-20]: [Kickstarter - Precinct](https://www.kickstarter.com/projects/precinctgame/precinct) — July 16, 2013 campaign launch
 [^ref-21]: [Kicktraq - Precinct](https://www.kicktraq.com/projects/precinctgame/precinct/) — $500,000 goal
 [^ref-22]: [Reddit - Jim Walls joins Legends of Adventure](https://www.reddit.com/r/Games/comments/1dnj0o5/police_quest_creator_jim_walls_joins_sierra/) — 2024 documentary appearance

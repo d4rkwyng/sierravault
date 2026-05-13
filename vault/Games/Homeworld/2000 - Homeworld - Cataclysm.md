@@ -182,7 +182,7 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [^ref-28]: [Escapist Magazine - Source Code](https://www.escapistmagazine.com/gearbox-would-love-to-re-release-homeworld-cataclysm/) – - Lost source code discussion
 [^ref-29]: [Fearless Revolution Forum](https://fearlessrevolution.com/viewtopic.php?t=2081) – GOG re-release information
 [^ref-30]: [Neoseeker Review](https://www.neoseeker.com/homeworld-cataclysm/faqs/219657-homeworld-cataclysm-faq.html) – Development timeline (8-month period)
-[^ref-31]: [Kotaku - Audio Archiving](https://kotaku.com/homeworld-cataclysm-audio-preservation-1848364291) – Audio production timeline and archiving
+[^ref-31]: [Kotaku - Audio Archiving](https://kotaku.com/how-we-overhauled-the-homeworld-soundtrack-for-a-new-au-1692665327) – Audio production timeline and archiving
 [^ref-32]: [Homeworld Fandom Wiki - Full Credits](https://homeworld.fandom.com/wiki/Homeworld:_Cataclysm/Credits) – Complete voice cast information
 [^ref-33]: [Web Archive - CNET Gamecenter Review](https://web.archive.org/web/20001109214500/http://www.cnet.com/gamecenter/stories/0,10104,2628735,00.html) – Beast virus comparison
 [^ref-34]: [Game Industry Network Review](https://www.gameindustry.com/reviews/pc/homeworld-cataclysm/) – Graphics assessment
@@ -200,7 +200,7 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [^ref-46]: [IMDb - Homeworld: Cataclysm](https://www.imdb.com/title/tt0270228/) – User rating
 [^ref-47]: [RavingLuhn Blog Retrospective](https://ravingluhnblog.wordpress.com/2015/03/15/homeworld-cataclysm-retrospective/) – Genre combination analysis
 [^ref-48]: [Space Game Junkie Interview](https://spacegamejunkie.com/2017/06/homeworld-cataclysm-emergence-interview/) – Chris Stewart interview about development
-[^ref-49]: [Kotaku - Paul Ruskay Interview](https://kotaku.com/homeworld-composer-paul-ruskay-1848364291) – Audio preservation quotes
+[^ref-49]: [Kotaku - Paul Ruskay Interview](https://kotaku.com/how-we-overhauled-the-homeworld-soundtrack-for-a-new-au-1692665327) – Audio preservation quotes
 [^ref-50]: [Angelfire Review - Save Times](https://www.angelfire.com/ab4/testrun2B/cataclysm.html) – Technical performance impressions
 [^ref-4]: [PCGamingWiki - Multiplayer](https://www.pcgamingwiki.com/wiki/Homeworld:_Cataclysm#Multiplayer) – WON.net shutdown date
 [^ref-52]: [ModDB - Patch 1.01](https://www.moddb.com/games/homeworld-cataclysm/downloads/homeworld-cataclysm-patch-101) – Patch notes and compatibility

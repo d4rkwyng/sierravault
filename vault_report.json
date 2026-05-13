@@ -1852,6 +1852,26 @@
       ]
     },
     {
+      "filename": "1990 - Rise of the Dragon.md",
+      "series": "Dynamix",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 95.9,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 33,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "error",
+          "message": "Duplicate reference URL(s): ['https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/']",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "1994 - Battle Bugs.md",
       "series": "Standalone",
       "page_type": "standard",
@@ -6581,19 +6601,6 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 21,
-      "issues": []
-    },
-    {
-      "filename": "1990 - Rise of the Dragon.md",
-      "series": "Dynamix",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 100.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 33,
       "issues": []
     },
     {

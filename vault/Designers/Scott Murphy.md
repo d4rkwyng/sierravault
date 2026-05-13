@@ -140,4 +140,4 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 [^ref-42]: [Game Developer - Sierra Adventure Games](https://www.gamedeveloper.com/design/the-game-design-legacy-of-roberta-williams) — adventure gaming as viable genre
 [^ref-43]: [PC Gamer - Best Adventure Games](https://www.pcgamer.com/the-best-adventure-games-on-pc/) — Space Quest influence on subsequent games
 [^ref-44]: [Adventure Gamers - Hall of Fame](https://adventuregamers.com/articles/view/15193) — Murphy's contributions to puzzle design and narrative
-[^ref-45]: [Kotaku - SpaceVenture Coverage](https://kotaku.com/spaceventure-two-guys-from-andromeda-review-kickstarte-1851540622) — enduring Space Quest popularity and fan community
+[^ref-45]: [Kotaku - SpaceVenture Coverage](https://kotaku.com/spaceventure-space-quest-kickstarter-steam-disaster-1851774747) — enduring Space Quest popularity and fan community

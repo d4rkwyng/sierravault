@@ -185,6 +185,6 @@ The project never reached a state where technical issues in gameplay could be do
 
 [^ref-13]: [Archive.org – Kickstarter Precinct Campaign](https://web.archive.org/web/*/kickstarter.com/projects/precinctgame/precinct*) – Archived campaign pages and development updates
 
-[^ref-14]: [The Digital Antiquarian – Adventure Gaming](https://www.filfre.net/tag/adventure-games/) – Historical coverage of adventure gaming industry trends and Sierra's role
+[^ref-14]: [The Digital Antiquarian – Adventure Gaming](https://www.filfre.net/hall-of-fame/) – Historical coverage of adventure gaming industry trends and Sierra's role
 
 [^ref-15]: [Jim Walls Biography](https://en.wikipedia.org/wiki/Jim_Walls) – Creator background, law enforcement experience, game design philosophy
