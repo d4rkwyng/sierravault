@@ -25,8 +25,8 @@ Used together with [[Corporate Lineage|Corporate Lineage]] and the per-studio De
 | [[On-Line Systems]] | 1979 | Renamed 1982 → Sierra On-Line | Simi Valley → Oakhurst, CA | Founding entity; published Mystery House, Hi-Res Adventures |
 | [[Sierra On-Line]] | 1982 | Acquired by CUC 1996, mothballed 2008 | Oakhurst, CA | Main brand; King's Quest, Space Quest, etc. |
 | [[Yosemite Entertainment]] | 1998 | Closed 2001 | Bellevue, WA | Bellevue-based successor after Oakhurst closure; SWAT 3, Half-Life Counter-Strike |
-| [[Sierra Attractions]] | 1996 (label) | Folded into Sierra Studios | — | Casino/casual sub-label |
-| [[Sierra Studios]] | 1995 (label) | Folded into Vivendi/Activision | — | Mid-tier mainstream label |
+| Sierra Attractions | 1996 (label) | Folded into Sierra Studios | — | Casino/casual sub-label |
+| Sierra Studios | 1995 (label) | Folded into Vivendi/Activision | — | Mid-tier mainstream label |
 
 ## Acquired studios
 
@@ -61,22 +61,22 @@ Used together with [[Corporate Lineage|Corporate Lineage]] and the per-studio De
 
 | Studio | Founded | Sierra relationship | Status | Notes |
 |--------|---------|---------------------|--------|-------|
-| [[Tilted Mill Entertainment]] | 2002 | Sierra-published 2004-2006 | Closed 2015 | Caesar IV, Children of the Nile |
-| [[BreakAway Games]] | 1995 | Sierra-co-developed | Active | Emperor: Rise of the Middle Kingdom |
+| Tilted Mill Entertainment | 2002 | Sierra-published 2004-2006 | Closed 2015 | Caesar IV, Children of the Nile |
+| BreakAway Games | 1995 | Sierra-co-developed | Active | Emperor: Rise of the Middle Kingdom |
 | [[Encore Software]] | 1995 | Sierra-licensed mid-2000s onward | Closed | Hoyle Casino annual entries 2007-2016 |
 
 ## Alumni studios (founded by ex-Sierra staff)
 
 | Studio | Founded | Founders | Status | Notable games |
 |--------|---------|----------|--------|---------------|
-| [[Pinkerton Road]] | 2012 | [[Jane Jensen]], [[Robert Holmes]] | Active | Gabriel Knight 20th Anniversary, Moebius, Gray Matter |
+| Pinkerton Road | 2012 | [[Jane Jensen]], [[Robert Holmes]] | Active | Gabriel Knight 20th Anniversary, Moebius, Gray Matter |
 | [[Phoenix Online Studios]] | 2003 | Cesar Bittar | Active | The Silver Lining (fan KQ), Mage's Initiation, Cognition |
 | [[Phoenix Online Publishing]] | 2013 | Cesar Bittar | Active | Publishing label, includes Cognition, Mage's Initiation, Asylum |
-| [[Hero-U]] (Transolar Games) | 2012 | [[Lori Ann Cole]], [[Corey Cole]] | Active | Hero-U: Rogue to Redemption, Summer Daze |
-| [[Two Guys From Andromeda]] | 2012 | [[Mark Crowe]], [[Scott Murphy]] | Active | SpaceVenture (2022) |
+| Hero-U (Transolar Games) | 2012 | [[Lori Ann Cole]], [[Corey Cole]] | Active | Hero-U: Rogue to Redemption, Summer Daze |
+| Two Guys From Andromeda | 2012 | [[Mark Crowe]], [[Scott Murphy]] | Active | SpaceVenture (2022) |
 | [[Replay Games]] | 2010 | Paul Trowe | Active | LSL: Reloaded (with Al Lowe involvement) |
 | [[Assemble Entertainment]] | 2016 | — | Active (German publisher with LSL license) | LSL: Wet Dreams Don't Dry, Wet Dreams Dry Twice |
-| [[Wide Screen Games]] (France) | — | [[Pierre Gilhodes]] (Coktel alumnus) | Active | Gobliiins 4, 5, 6 |
+| Wide Screen Games (France) | — | [[Pierre Gilhodes]] (Coktel alumnus) | Active | Gobliiins 4, 5, 6 |
 | [[Blackbird Interactive]] | 2010 | Ex-[[Relic Entertainment]] staff | Active (independent) | Homeworld: Deserts of Kharak, Homeworld 3, Hardspace: Shipbreaker |
 
 ## Fan / community studios (Sierra remakes and spiritual successors)
@@ -88,7 +88,7 @@ Used together with [[Corporate Lineage|Corporate Lineage]] and the per-studio De
 | [[Infamous Quests]] | 2014 | Active (spiritual-successor label) | Quest for Infamy series |
 | [[Himalaya Studios]] | 1998 | Active | Al Emmo and the Lost Dutchman's Mine, Mage's Initiation development |
 | [[Schnibble Productions]] | — | — | Various AGS-engine adventures |
-| [[SCP Sierra Conversion Project]] | 2024 | Active | 2025 Amiga conversion bundles |
+| SCP Sierra Conversion Project | 2024 | Active | 2025 Amiga conversion bundles |
 
 ## Licensed remake studios
 

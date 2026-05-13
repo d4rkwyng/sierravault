@@ -71,7 +71,7 @@ Three factors contributed to the franchise's end after 1998:
 2. **Sierra's CUC-era and Vivendi-era cost-cutting** reduced budgets for mid-tier licensed RPGs.
 3. **The RPG market shifted** to action-RPGs (*Diablo*, *Baldur's Gate*), making the Krondor-style turn-based-and-tactical approach less commercially viable.
 
-Feist continued writing novels in the Riftwar Cycle through the 2010s, but no further games were produced under the Sierra brand. [[Tilted Mill Entertainment]] reportedly explored a Krondor revival in the 2010s but no project materialized.[^ref-12]
+Feist continued writing novels in the Riftwar Cycle through the 2010s, but no further games were produced under the Sierra brand. Tilted Mill Entertainment reportedly explored a Krondor revival in the 2010s but no project materialized.[^ref-12]
 
 ## Critical Legacy
 

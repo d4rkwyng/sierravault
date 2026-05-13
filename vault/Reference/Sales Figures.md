@@ -57,7 +57,7 @@ Many SCI-era Sierra adventures fell in this range — commercially viable but no
 
 - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
 - [[1991 - Police Quest III - The Kindred]]
-- [[1992 - Leisure Suit Larry V - Passionate Patti Does a Little Undercover Work]]
+- [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
 - [[1995 - Torin's Passage]]
 - [[1995 - Police Quest - SWAT]]
 - [[1996 - Lighthouse - The Dark Being]]

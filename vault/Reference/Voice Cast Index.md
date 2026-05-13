@@ -35,7 +35,7 @@ Curry's *Gabriel Knight 1* performance is widely cited as one of the best voice 
 
 ### Mark Hamill
 
-- [[1994 - Wing Commander III: Heart of the Tiger]] — (Wing Commander wasn't Sierra; included for context)
+- 1994 - Wing Commander III: Heart of the Tiger — (Wing Commander wasn't Sierra; included for context)
 - *Various Activision/Sierra-imprint titles* — limited Sierra-era work, but reference for retrospective inclusion in Sierra-adjacent talent index.
 
 ### Christopher Lloyd
@@ -121,7 +121,7 @@ Designer and voice actor for his own franchise.
 
 ### William Shatner
 
-- [[2007 - SWAT - Force]] (Activision/Sierra digital imprint era) — Narrator credit per liner notes.
+- [[2006 - SWAT Force]] (Activision/Sierra digital imprint era) — Narrator credit per liner notes.
 
 ---
 

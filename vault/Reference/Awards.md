@@ -39,7 +39,7 @@ The Academy of Interactive Arts & Sciences began as the Interactive Achievement 
 |------|-------|------------------|-------|
 | 1998 | PC Adventure Game of the Year (nominee) | [[1998 - King's Quest - Mask of Eternity\|King's Quest: Mask of Eternity]] | Nominated; lost to The Last Express. |
 | 1999 | Computer RPG of the Year (nominee) | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Nominated. |
-| 1999 | Adventure Game of the Year (winner) | [[1998 - Grim Fandango]] (not Sierra) | Reference: GK1: SOTF was the genre standout the prior cycle. |
+| 1999 | Adventure Game of the Year (winner) | 1998 - Grim Fandango (not Sierra) | Reference: GK1: SOTF was the genre standout the prior cycle. |
 | 2016 | Adventure Game of the Year (nominee) | [[2015 - King's Quest\|King's Quest (2015)]] | The Odd Gentlemen / Sierra Entertainment label revival. |
 | 2014 | Industry Icon Award | [[Roberta Williams]] | Presented at The Game Awards 2014, often grouped with DICE-era recognition. |
 
@@ -81,7 +81,7 @@ The British Academy of Film and Television Arts began its Games Awards in 2003. 
 | Year | Award | Winner / Nominee |
 |------|-------|------------------|
 | 2003 | PC Game | [[2003 - Homeworld 2\|Homeworld 2]] (nominee) |
-| 2007 | Best Audio | [[2007 - Mass Effect]] (not Sierra; for reference) |
+| 2007 | Best Audio | 2007 - Mass Effect (not Sierra; for reference) |
 | 2010 | PC Game (nominee) | [[2010 - Gray Matter\|Gray Matter]] (Jane Jensen) |
 
 ---

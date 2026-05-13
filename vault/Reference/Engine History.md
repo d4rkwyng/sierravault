@@ -56,12 +56,12 @@ Defining games:
 - [[1985 - King's Quest II - Romancing the Throne|King's Quest II]]
 - [[1986 - King's Quest III - To Heir Is Human|King's Quest III]]
 - [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV (AGI version)]] — released in both AGI and SCI during the engine transition
-- [[1986 - Space Quest - The Sarien Encounter|Space Quest 1]], [[1987 - Space Quest II - Chapter II - Vohaul's Revenge|Space Quest 2]]
+- [[1986 - Space Quest - The Sarien Encounter|Space Quest 1]], [[1987 - Space Quest II - Vohaul's Revenge|Space Quest 2]]
 - [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest 1]]
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry 1]]
 - [[1986 - The Black Cauldron|The Black Cauldron]]
 - [[1988 - Manhunter - New York|Manhunter NY]], [[1989 - Manhunter - San Francisco|Manhunter SF]]
-- [[1989 - Gold Rush!|Gold Rush!]]
+- [[1988 - Gold Rush|Gold Rush!]]
 - [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] (AGI)
 - [[1984 - Mickey's Space Adventure|Mickey's Space Adventure]]
 
@@ -117,8 +117,8 @@ Defining games (SCI1):
 Defining games (SCI1.1):
 
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]] — widely considered Sierra's high-water mark
-- [[1992 - Space Quest V - The Next Mutation|Space Quest V]]
-- [[1992 - Leisure Suit Larry V - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry V]]
+- [[1993 - Space Quest V - The Next Mutation|Space Quest V]]
+- [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry V]]
 - [[1991 - EcoQuest - The Search for Cetus|EcoQuest 1]]
 - [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]]
 - [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]]
@@ -162,7 +162,7 @@ Defining games:
 - [[1995 - Torin's Passage|Torin's Passage]]
 - [[1996 - Lighthouse - The Dark Being|Lighthouse: The Dark Being]]
 - [[1997 - Shivers Two - Harvest of Souls|Shivers Two: Harvest of Souls]]
-- [[1996 - Leisure Suit Larry - Love for Sail!|Leisure Suit Larry: Love for Sail!]]
+- [[1996 - Leisure Suit Larry 7 - Love for Sail|Leisure Suit Larry: Love for Sail!]]
 - [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]]
 
 After 1998, Sierra moved away from SCI for its adventure releases. The engine line ended with no SCI4 — instead, [[1998 - King's Quest - Mask of Eternity|Mask of Eternity]] used a completely different engine.

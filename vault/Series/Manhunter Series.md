@@ -20,7 +20,7 @@ The Manhunter series is a two-game post-apocalyptic science-fiction adventure se
 
 The series is unusual within the Sierra catalog for three reasons:
 
-1. **Not Sierra-developed** — Evryware was an external developer; Sierra was strictly the publisher. This makes Manhunter one of the small set of [[Sierra Published]]-lineage adventure games in the vault.
+1. **Not Sierra-developed** — Evryware was an external developer; Sierra was strictly the publisher. This makes Manhunter one of the small set of Sierra Published-lineage adventure games in the vault.
 2. **Wordless protagonist** — the playable character ("Manhunter") never speaks; the entire narrative is conveyed through screens of investigation footage, environmental detail, and the third-person tracker-device UI.
 3. **Originally a planned trilogy** — *Manhunter 3* was announced at the end of *Manhunter: San Francisco* (a cliffhanger ending leading to "Manhunter: Three") but was never developed. See [[CXL - Manhunter 3]] for the cancelled-entry documentation.
 

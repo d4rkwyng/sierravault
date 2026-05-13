@@ -16,7 +16,7 @@ last_updated: "2026-05-11"
 
 ## Overview
 
-The City Builders series — sometimes called the *Caesar III* lineage or the **Impressions city-builder line** — is one of the most influential strategy-game franchises of the 1990s, originating at UK-based [[Impressions Games]] (acquired by Sierra in 1995) and producing nine entries between 1992 and 2023 across the Roman, Egyptian, Greek, and Chinese civilizations.[^ref-1] The series is the formative ancestor of the modern "ancient civilization city-builder" genre, directly inspiring the [[Tilted Mill Entertainment|Tilted Mill]] *Children of the Nile* line, the *Anno* series' historical entries, and indie successors like *Pharaoh: A New Era* (2023) and *Nebuchadnezzar* (2021).[^ref-2]
+The City Builders series — sometimes called the *Caesar III* lineage or the **Impressions city-builder line** — is one of the most influential strategy-game franchises of the 1990s, originating at UK-based [[Impressions Games]] (acquired by Sierra in 1995) and producing nine entries between 1992 and 2023 across the Roman, Egyptian, Greek, and Chinese civilizations.[^ref-1] The series is the formative ancestor of the modern "ancient civilization city-builder" genre, directly inspiring the Tilted Mill *Children of the Nile* line, the *Anno* series' historical entries, and indie successors like *Pharaoh: A New Era* (2023) and *Nebuchadnezzar* (2021).[^ref-2]
 
 [[David Lester]] founded the line with [[1992 - Caesar|Caesar]] (1992) at Impressions Software (the pre-acquisition name), establishing the formula: a single-screen isometric view of a growing settlement; a peace/wealth/prosperity rating triumvirate; managed citizen workforce; military expansion through campaign progression.[^ref-3] [[Simon Bradbury]] joined as co-designer and lead programmer for *Caesar III* (1998), the entry that defined the genre and remains the franchise's most celebrated release.[^ref-4]
 
@@ -53,7 +53,7 @@ The City Builders series — sometimes called the *Caesar III* lineage or the **
 
 ## Post-Sierra Era: Caesar IV and the 2023 remake
 
-By 2006, Impressions Games had been closed by Sierra/Vivendi, but [[Chris Beatrice]] had founded [[Tilted Mill Entertainment]] with much of the original Impressions team. [[2006 - Caesar IV|Caesar IV]] (2006) — published by Sierra, developed by Tilted Mill — moved the series to fully 3D graphics but received mixed reviews; many fans preferred the *Caesar III* formula's clearer presentation.[^ref-12]
+By 2006, Impressions Games had been closed by Sierra/Vivendi, but [[Chris Beatrice]] had founded Tilted Mill Entertainment with much of the original Impressions team. [[2006 - Caesar IV|Caesar IV]] (2006) — published by Sierra, developed by Tilted Mill — moved the series to fully 3D graphics but received mixed reviews; many fans preferred the *Caesar III* formula's clearer presentation.[^ref-12]
 
 After Caesar IV the series went dormant. In 2023, **Triskell Interactive** (a small French studio) developed [[2023 - Pharaoh - A New Era|Pharaoh: A New Era]] as an officially-licensed remake of the 1999 *Pharaoh*, published by Dotemu under a license from Activision Blizzard.[^ref-13] The remake added modern UI conveniences and HD graphics while preserving the original gameplay; it received generally positive reviews and demonstrated that the series' formula still has commercial viability.[^ref-14]
 

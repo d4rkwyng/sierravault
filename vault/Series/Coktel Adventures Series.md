@@ -45,7 +45,7 @@ Before Sierra's 1993 acquisition, Coktel Vision built a French/European adventur
 | 1992 | [[1992 - Gobliins 2 - The Prince Buffoon\|Gobliins 2: The Prince Buffoon]] | Pierre Gilhodes | Second Gobliiins |
 | 1992 | [[1992 - Bargon Attack\|Bargon Attack]] | Various | Sci-fi adventure |
 | 1992 | [[1992 - Ween - The Prophecy\|Ween: The Prophecy]] | Various | Fantasy adventure |
-| 1992 | [[1992 - Inca\|Inca]] | Various | FMV adventure ([[Inca Series]] founding) |
+| 1992 | [[1992 - Inca\|Inca]] | Various | FMV adventure (Inca Series founding) |
 
 ## Sierra Label Era (1993–1999)
 
@@ -100,7 +100,7 @@ For most of Sierra's history Coktel's productions were marketed in France/Europe
 - [[Pierre Gilhodes]] — Gobliiins designer
 - [[Muriel Tramis]] — Coktel designer
 - [[Corporate Lineage]] — Sierra acquisition era
-- [[Inca Series]] — Sub-series within Coktel's catalog (planned)
+- Inca Series — Sub-series within Coktel's catalog (planned)
 
 ## References
 

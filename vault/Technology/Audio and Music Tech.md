@@ -63,7 +63,7 @@ The vault's individual game pages frequently note "MT-32 / AdLib / General MIDI"
 
 General MIDI (1991) standardized instrument assignments (program 1 = Acoustic Grand Piano, etc.) across audio devices, allowing a single MIDI file to play recognizably on any GM-compliant hardware. Sierra adopted GM as the primary mid-tier audio target for SCI1.1 releases.[^ref-11]
 
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V (1990 CD-ROM)]], [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV (CD)]], [[1992 - Space Quest V - The Next Mutation|Space Quest V]], and [[1992 - Leisure Suit Larry V - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry V]] all shipped with GM, MT-32, and AdLib music banks.[^ref-12]
+[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V (1990 CD-ROM)]], [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV (CD)]], [[1993 - Space Quest V - The Next Mutation|Space Quest V]], and [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry V]] all shipped with GM, MT-32, and AdLib music banks.[^ref-12]
 
 ## Generation 6: CD-ROM digital speech and audio (1991–1996)
 

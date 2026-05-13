@@ -20,7 +20,7 @@ The Dynamix catalog is the umbrella for everything produced by **Dynamix, Inc.**
 
 [[Jeff Tunnell]] and [[Damon Slye]] founded Dynamix in 1984 as Tunnell Software, renaming to Dynamix in 1986. The studio's pre-Sierra catalog focused on flight and tank simulators (A-10 Tank Killer, Sword of Kadash); after Sierra acquired the studio in 1990, Dynamix expanded dramatically into adventure (*Heart of China*, *Willy Beamish*), puzzle (*Incredible Machine*), sports (*Front Page Sports*), and mech-combat (*Metaltech/Starsiege*) categories.[^ref-3]
 
-Dynamix's design DNA — physics-fidelity simulation paired with cinematic presentation — survived its 2001 closure: ex-Dynamix staff went on to found [[Papyrus Design Group|Papyrus]] partners, [[GarageGames]] (Jeff Tunnell's post-Sierra studio that produced the Torque engine), and contributed to the founding generation of iRacing.
+Dynamix's design DNA — physics-fidelity simulation paired with cinematic presentation — survived its 2001 closure: ex-Dynamix staff went on to found [[Papyrus Design Group|Papyrus]] partners, GarageGames (Jeff Tunnell's post-Sierra studio that produced the Torque engine), and contributed to the founding generation of iRacing.
 
 Because Dynamix produced so many distinct franchises, this page indexes the studio's output as a **catalog** rather than a single series. Most Dynamix franchises have their own folder in `vault/Games/`; see the Sub-Franchises section for cross-links.
 
@@ -52,13 +52,13 @@ Dynamix's flight-simulator line, the prestige product before Papyrus's NASCAR si
 
 | Year | Title | Setting |
 |------|-------|---------|
-| 1989 | [[1989 - Red Baron\|Red Baron]] | WWI dogfighting (Damon Slye design) |
+| 1989 | [[1990 - Red Baron\|Red Baron]] | WWI dogfighting (Damon Slye design) |
 | 1992 | [[1992 - Aces of the Pacific\|Aces of the Pacific]] | WWII Pacific theater |
 | 1993 | [[1993 - Aces Over Europe\|Aces Over Europe]] | WWII European theater |
 | 1994 | [[1994 - Aces of the Deep\|Aces of the Deep]] | WWII submarine warfare |
 | 1995 | [[1995 - Command Aces of the Deep\|Command Aces of the Deep]] | Strategic submarine command |
-| 1996 | [[1998 - Red Baron II\|Red Baron II]] | Red Baron sequel |
-| 1998 | [[1998 - Red Baron 3-D\|Red Baron 3D]] | 3D-accelerated update |
+| 1996 | [[1997 - Red Baron II\|Red Baron II]] | Red Baron sequel |
+| 1998 | [[1998 - Red Baron 3D\|Red Baron 3D]] | 3D-accelerated update |
 | 2008 | [[2008 - Red Baron Arcade\|Red Baron Arcade]] | XBLA arcade-style revival |
 
 ### A-10 Tank Killer (1989–1996)
@@ -117,7 +117,7 @@ Dynamix self-published or used external publishers before Sierra's 1990 acquisit
 - [[1984 - Sword of Kadash]]
 - [[1989 - A-10 Tank Killer]] — One of the first major Dynamix Sierra-published titles
 - [[1989 - David Wolf - Secret Agent]] — Self-published cinematic adventure
-- [[1989 - Stellar 7]] — Multiple platforms
+- [[1990 - Stellar 7]] — Multiple platforms
 
 ## Studio History
 
@@ -131,11 +131,11 @@ After the 1990 acquisition, Dynamix expanded from ~30 to ~150 staff. The studio 
 
 ### Vivendi era and closure (1996–2001)
 
-After Sierra's 1996 acquisition by CUC, Dynamix continued to produce major releases (*Tribes*, *Starsiege*, *Cyberstorm 2*) but the parent's increasing cost focus reduced creative latitude. [[Jeff Tunnell]] departed in 2000, founding [[GarageGames]] with several ex-Dynamix programmers. Vivendi closed Dynamix in 2001, scattering its remaining staff across the industry.[^ref-8]
+After Sierra's 1996 acquisition by CUC, Dynamix continued to produce major releases (*Tribes*, *Starsiege*, *Cyberstorm 2*) but the parent's increasing cost focus reduced creative latitude. [[Jeff Tunnell]] departed in 2000, founding GarageGames with several ex-Dynamix programmers. Vivendi closed Dynamix in 2001, scattering its remaining staff across the industry.[^ref-8]
 
 ### Legacy (2001–present)
 
-- [[GarageGames]] (2000-2018, Tunnell's successor studio) carried forward Dynamix's "tools for indie developers" ethos through the Torque engine.
+- GarageGames (2000-2018, Tunnell's successor studio) carried forward Dynamix's "tools for indie developers" ethos through the Torque engine.
 - Ex-Dynamix programmers contributed to *iRacing* (founded by ex-Papyrus's [[Dave Kaemmer]], with multiple Dynamix-alum hires).
 - Prophecy Games's 2024 [[2024 - Tribes 3 - Rivals|Tribes 3: Rivals]] was developed by an Activision-licensed team continuing the Dynamix design tradition.
 
@@ -155,7 +155,7 @@ Dynamix titles received consistently strong reviews throughout the Sierra era. N
 - [[Jeff Tunnell]] — Co-founder, lead designer for many entries
 - [[Damon Slye]] — Co-founder, *Red Baron* designer
 - [[Reference/Corporate Lineage|Corporate Lineage]] — Sierra-acquisition context
-- Individual franchise series pages (planned): [[Front Page Sports Series]], [[Aces Series]], [[Incredible Machine Series]], [[Starsiege Series]]
+- Individual franchise series pages (planned): [[Front Page Sports Series]], Aces Series, Incredible Machine Series, Starsiege Series
 
 ## References
 

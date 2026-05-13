@@ -18,7 +18,7 @@ last_updated: "2026-05-12"
 
 The Dr. Brain series is Sierra's longest-running educational-puzzle franchise: 8 titles between 1991 and 2011, starring the eccentric Dr. Elwin Q. Brain — a fictional polymath inventor whose laboratory must be rescued by the player solving a sequence of logic, math, language, music, and pattern-recognition puzzles.[^ref-1] The series was founded by **[[Corey Cole]]** (one half of the husband-wife team behind [[Quest for Glory Series|Quest for Glory]]) in 1991 with [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] and remained one of Sierra's most reliable educational-product lines through the 1990s.[^ref-2]
 
-After [[Knowledge Adventure]] was absorbed into the Sierra family via CUC International in 1996, the Dr. Brain franchise eventually migrated to the [[JumpStart]] platform under Knowledge Adventure's continued operation, with [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain|2011's JumpStart Advanced]] entry being the most recent franchise appearance.[^ref-3]
+After [[Knowledge Adventure]] was absorbed into the Sierra family via CUC International in 1996, the Dr. Brain franchise eventually migrated to the JumpStart platform under Knowledge Adventure's continued operation, with [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain|2011's JumpStart Advanced]] entry being the most recent franchise appearance.[^ref-3]
 
 ## Series Timeline
 

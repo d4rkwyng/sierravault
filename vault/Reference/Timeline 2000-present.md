@@ -61,7 +61,7 @@ For the independent-era chronology, see [[Reference/Timeline 1980-1999|Timeline 
 
 **Major releases:**
 - [[2004 - Hoyle Casino\|Hoyle Casino]] (Sierra)
-- [[2004 - Hoyle Card Games]] (Sierra)
+- [[2003 - Hoyle Card Games]] (Sierra)
 - [[2004 - Hoyle Puzzle Games\|Hoyle Puzzle Games]] (Sierra)
 - *Leisure Suit Larry: Magna Cum Laude* (High Voltage / Vivendi) — Post-Lowe LSL entry (not vault-tracked under Cancelled or main series for editorial reasons)
 
@@ -154,7 +154,7 @@ For the independent-era chronology, see [[Reference/Timeline 1980-1999|Timeline 
 
 **Major releases:**
 - [[2015 - King's Quest\|King's Quest (2015)]] (The Odd Gentlemen / Sierra Entertainment) — Episodic franchise reboot; first chapter July 28, 2015
-- [[2015 - SCP Sierra Conversion Project\|SCP Sierra Conversion Project]] (Amiga remasters)
+- [[2025 - SCP Sierra Conversion Project\|SCP Sierra Conversion Project]] (Amiga remasters)
 - [[2015 - Order of the Thorne - The King's Challenge\|Order of the Thorne: The King's Challenge]] (Infamous Quests)
 - [[2015 - Homeworld Remastered Collection\|Homeworld Remastered Collection]] (Gearbox)
 - [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]] (indie tribute)

@@ -14,7 +14,7 @@ tags: [reference, cancelled, never-released]
 
 This is the curated index of every cancelled Sierra-extended-catalogue game documented in the vault. Each entry below summarizes the title's status, the lead designer (where known), the cancellation date and corporate context, and whether any playable build, screenshots, or design documents survived. For the full per-title page, follow the wiki link.
 
-The vault uses the `CXL -` filename prefix for cancelled games and a lower citation threshold (5+ instead of 15+) in [[../docs/INCLUSION_CRITERIA|INCLUSION_CRITERIA.md]]. Pages of "in-development" status that haven't shipped use the `TBD -` prefix instead and are listed separately at the bottom of this page.
+The vault uses the `CXL -` filename prefix for cancelled games and a lower citation threshold (5+ instead of 15+) in `../docs/INCLUSION_CRITERIA.md` (INCLUSION_CRITERIA.md). Pages of "in-development" status that haven't shipped use the `TBD -` prefix instead and are listed separately at the bottom of this page.
 
 ---
 
@@ -131,7 +131,7 @@ A fourth, smaller pattern: licensed-property cancellations where rights issues k
 - [[Corporate Lineage]] — Corporate context for cancellation eras
 - [[Reference/Timeline 1980-1999|Timeline 1980-1999]] — Specific cancellation dates in chronological context
 - [[Guides/Cancelled Games]] — User-facing cancellation guide (may overlap)
-- [[docs/INCLUSION_CRITERIA|Inclusion Criteria]] — How cancelled games qualify for the vault
+- `docs/INCLUSION_CRITERIA.md` (Inclusion Criteria) — How cancelled games qualify for the vault
 
 ## References
 

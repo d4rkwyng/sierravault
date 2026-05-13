@@ -29,7 +29,7 @@ Unlike the unified SCI engine generations (which Sierra developed in-house and s
 
 | Year | Title | Notes |
 |------|-------|-------|
-| 1989 | [[1989 - Red Baron\|Red Baron]] | Flight sim — early 3Space showcase |
+| 1989 | [[1990 - Red Baron\|Red Baron]] | Flight sim — early 3Space showcase |
 | 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Flight/tank combat |
 | 1990 | [[1990 - Stellar 7\|Stellar 7]] | Tank-combat reissue |
 | 1992 | [[1992 - Aces of the Pacific\|Aces of the Pacific]] | WWII flight |
@@ -38,7 +38,7 @@ Unlike the unified SCI engine generations (which Sierra developed in-house and s
 | 1994 | [[1994 - Metaltech - Earthsiege\|Metaltech: Earthsiege]] | Mech combat |
 | 1996 | [[1996 - Earthsiege 2\|Earthsiege 2]] | Mech combat sequel |
 | 1996 | [[1996 - MissionForce - Cyberstorm\|MissionForce: CyberStorm]] | Turn-based mech tactics |
-| 1998 | [[1998 - Red Baron 3-D\|Red Baron 3D]] | Late-era 3Space with hardware acceleration |
+| 1998 | [[1998 - Red Baron 3D\|Red Baron 3D]] | Late-era 3Space with hardware acceleration |
 | 1998 | [[1998 - Starsiege - Tribes\|Starsiege: Tribes]] | Multiplayer FPS — final major 3Space evolution |
 | 1999 | [[1999 - Starsiege\|Starsiege]] | Mech action |
 | 2001 | [[2001 - Tribes 2\|Tribes 2]] | Multiplayer FPS (Dynamix's last title) |
@@ -163,7 +163,7 @@ Monolith was acquired by Warner Bros. Interactive in 2004, after which subsequen
 **Developer:** Epic Games (licensed by The Odd Gentlemen).
 **Era:** 2015 reboot.
 
-The 2015 [[2015 - King's Quest|King's Quest]] reboot by [[The Odd Gentlemen]] used Unreal Engine 3 — the first time the King's Quest franchise had used a third-party licensed engine. UE3's strengths for the episodic-narrative format included:
+The 2015 [[2015 - King's Quest|King's Quest]] reboot by The Odd Gentlemen used Unreal Engine 3 — the first time the King's Quest franchise had used a third-party licensed engine. UE3's strengths for the episodic-narrative format included:
 
 - **Cinematic camera and cutscene tools** — UE3's Matinee was well-suited to the episodic Telltale-style framing.
 - **Cross-platform support** — Windows, PlayStation 3/4, Xbox 360/One in one engine.

@@ -103,7 +103,7 @@ The current state of major Sierra-lineage IPs (May 2026):
 
 - **Studio profiles** with their own acquisition timelines: [[Dynamix]], [[Coktel Vision]], [[Impressions Games]], [[Papyrus Design Group]], [[Bright Star Technology]], [[Synergistic Software]], [[Yosemite Entertainment]], [[Relic Entertainment]], [[Blackbird Interactive]]
 - **Designer departures during Era 3 transitions**: [[Ken Williams]], [[Roberta Williams]], [[Al Lowe]], [[Jane Jensen]], [[Mark Crowe]], [[Scott Murphy]]
-- **Sierra-lineage YAML values** are defined in [[../docs/STYLE_GUIDE|STYLE_GUIDE.md]] and [[../docs/INCLUSION_CRITERIA|INCLUSION_CRITERIA.md]]
+- **Sierra-lineage YAML values** are defined in `../docs/STYLE_GUIDE.md` (STYLE_GUIDE.md) and `../docs/INCLUSION_CRITERIA.md` (INCLUSION_CRITERIA.md)
 
 ## References
 

@@ -62,7 +62,7 @@ Three entries developed in parallel with Football Pro. Baseball Pro emphasized s
 
 ### Golf (1997)
 
-Standalone golf-sim launch that competed with EA's *Tiger Woods PGA Tour* franchise and Sierra's own [[Sierra Sports Catalog|Sierra Sports]] PGA line. The Tour Course Add-On expanded course count significantly.[^ref-7]
+Standalone golf-sim launch that competed with EA's *Tiger Woods PGA Tour* franchise and Sierra's own Sierra Sports PGA line. The Tour Course Add-On expanded course count significantly.[^ref-7]
 
 ### Ski Racing (1997, 1999)
 
@@ -70,7 +70,7 @@ Two-entry skiing subseries, including the franchise's final release. *Ski Racing
 
 ### Trophy Rivers (1997)
 
-Fly-fishing simulator. Sierra had a separate [[Trophy Bass]] series for fishing, but Trophy Rivers was specifically the Front Page Sports brand applied to fly-fishing simulation.[^ref-9]
+Fly-fishing simulator. Sierra had a separate Trophy Bass series for fishing, but Trophy Rivers was specifically the Front Page Sports brand applied to fly-fishing simulation.[^ref-9]
 
 ## Design Identity
 
