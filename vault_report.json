@@ -1598,26 +1598,6 @@
       ]
     },
     {
-      "filename": "TBD - Gabriel Knight 4 - Five Hearts.md",
-      "series": "Gabriel Knight",
-      "page_type": "tbd",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.9,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 16,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://adventuregamehotspot.com/announcement/3108/jane-jensen-releases-gabriel-knight-short-story-five-hearts']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "1994 - Battle Bugs.md",
       "series": "Standalone",
       "page_type": "standard",
@@ -6121,6 +6101,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 32,
+      "issues": []
+    },
+    {
+      "filename": "TBD - Gabriel Knight 4 - Five Hearts.md",
+      "series": "Gabriel Knight",
+      "page_type": "tbd",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
       "issues": []
     },
     {
