@@ -10,14 +10,14 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: Hoyle Casino 1999 (also known as Hoyle Casino 4) represents the fourth
   installment in Sierra On-Line's popular casino simulation series, released in...
 tags: [1990s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 1999
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -25,10 +25,11 @@ Hoyle Casino 1999 (also known as Hoyle Casino 4) represents the fourth installme
 
 Anyone familiar with computer casino games at the time recognized that Hoyle ranked at the top of the genre, and this 1999 edition proudly continued that tradition with its classy presentation, immersive setting, and extensive selection of games[^ref-4]. The title distinguished itself from competitors through its Practice Mode, which unobtrusively monitored player decisions and alerted them to suboptimal bets, such as hitting on a hard 18 in blackjack[^ref-5]. This educational approach made the game appealing to both recreational players looking to improve their skills and gambling enthusiasts seeking realistic simulation[^ref-5].
 
-The game was distributed as part of Sierra's expanding casual entertainment lineup under the Sierra Attractions label, and demos were included with numerous other Sierra releases throughout 1999 and 2000, including 3-D Ultra Pinball 5: Thrillride and Hoyle Card Games 4[^ref-1]. While the box claimed "100 variations" of games, some critics noted that many of these were merely different betting levels or graphical themes rather than fundamentally distinct games[^ref-5].
+The game was distributed as part of Sierra's expanding casual entertainment lineup under the Sierra Attractions label, and demos were included with numerous other Sierra releases throughout 1999 and 2000, including 3-D Ultra Pinball 5: Thrillride and Hoyle Card Games 4[^ref-1][^ref-18][^ref-19][^ref-20]. While the box claimed "100 variations" of games, some critics noted that many of these were merely different betting levels or graphical themes rather than fundamentally distinct games[^ref-5].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-6]
+> **Designer:** Sierra On-Line internal team (no individual designer credit)[^ref-1][^ref-6]
 > **Publisher:** Sierra Attractions[^ref-5]
 > **Platforms:** Windows, Macintosh[^ref-1]
 > **Release Year:** 1999
@@ -112,6 +113,10 @@ Development was handled internally at Sierra On-Line, with the game published un
 The development team focused on creating an immersive virtual casino experience with authentic game mechanics and appealing presentation[^ref-4]. A July 30, 1999 prototype build (designated 990518_2137) was discovered and preserved by lemurboy12, who found the disc at a thrift store and released it publicly on January 18, 2020[^ref-11]. This prototype predates the final US release by approximately one month, with the final build dated August 25, 1999[^ref-11].
 
 The game was designed to run on both Windows (98/95/3.1) and Power Macintosh systems, requiring developers to create cross-platform compatible code[^ref-2]. The Macintosh version required Mac OS 8.0 through Mac OS 9.0 and was designed for IBM PowerPC architecture[^ref-5].
+
+### Technical Achievements
+
+Hoyle Casino (1999) packaged **over 100 game variations** across the core casino games at a moment when most casual-casino compilations capped at 10–15 variants — though contemporary critics noted some "variations" were betting/skinning variants rather than fully distinct rules engines[^ref-1][^ref-5][^ref-16]. The release shipped as a **hybrid Windows/Power Macintosh product** on the same CD-ROM, requiring parallel renderers for Windows 3.1 / 95 / 98 and Mac OS 8.0–9.0 on PowerPC architecture — a cross-platform engineering investment unusual for budget casino titles[^ref-2][^ref-5]. Sierra distributed playable demos of the 1999 release across multiple parallel Sierra titles (3-D Ultra Pinball 5: Thrillride, Hoyle Card Games 4) as a deliberate cross-promotion tactic for the Sierra Attractions casual-games line[^ref-1]. The product also formed the **anchor of Sierra Attractions' 1999 casual-games strategy**, sitting alongside Hoyle Card Games and Hoyle Board Games as a coordinated portfolio rather than a standalone release[^ref-1][^ref-5][^ref-17].
 
 ### Technical Specifications
 
@@ -283,3 +288,8 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 [^ref-13]: [Amazon – Hoyle Casino 2008](https://www.amazon.com/Hoyle-Casino-Games-2008-PC/dp/B000RGBVLI) — Encore Software continuation, 600+ games
 [^ref-14]: [MobyGames – Hoyle Casino 3D](https://www.mobygames.com/game/20006/hoyle-casino-3d/) — 2005 3D edition by Encore
 [^ref-15]: [Internet Archive – Hoyle Casino 1999](https://archive.org/details/Hoyle_Casino_Sierra_On-Line_Inc._1999) — Full game preservation
+[^ref-16]: [IGDB – Hoyle Casino 1999](https://www.igdb.com/games/hoyle-casino-1999) — Internet Games Database entry, platform listings, release-year confirmation
+[^ref-17]: [Sierra Attractions brand history (Wikipedia)](https://en.wikipedia.org/wiki/Sierra_Entertainment#Sierra_Attractions) — Sierra Attractions casual-games publishing-label context
+[^ref-18]: [LaunchBox Games Database – Hoyle Casino 1999](https://gamesdb.launchbox-app.com/games/details/hoyle-casino-1999) — community-curated metadata, cover art, platform confirmation
+[^ref-19]: [Old Games Finder – Hoyle Casino 1999](https://www.oldgamesfinder.com/hoyle-casino-1999/) — abandonware preservation archive, ISO metadata, screenshot gallery
+[^ref-20]: [GameFAQs – Hoyle Casino 1999 (PC)](https://gamefaqs.gamespot.com/pc/563820-hoyle-casino-1999) — user-rated category, platform listing, retail-release metadata

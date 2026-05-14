@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: Hoyle Word Games 2001 is a word puzzle compilation developed and published
  by Sierra On-Line, released on November 14, 2000 for PC with versions available...
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Word Games 2001
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -25,10 +25,11 @@ Hoyle Word Games 2001 is a word puzzle compilation developed and published by [[
 
 The 2001 edition represented a comprehensive package for word game enthusiasts, bundling not just the core games but also substantial bonus content including a complete Webster's New World College Dictionary built into the software[^ref-4] and 500 different crossword puzzles from Dell Magazines[^ref-3]. With a suggested retail price of $29.99, reviewers noted that players were "really getting a lot of content for the money"[^ref-2]. The game received an ESRB rating of Everyone (E), making it appropriate for all ages[^ref-5], and focused on educational aspects including reading, spelling, and logic skills[^ref-2].
 
-Sierra enhanced the classic word game experience with graphics and sound effects, though one reviewer noted these additions were "merely window dressing on the old favorites"[^ref-4]. The game featured the ability to challenge a lively cast of animated Hoyle characters, create personalized avatars using the Facemaker feature, and even play against others over the internet for free[^ref-3]. While praised for accessibility and value, some critics felt the package suffered from "lack of variety and originality"[^ref-4].
+Sierra enhanced the classic word game experience with graphics and sound effects, though one reviewer noted these additions were "merely window dressing on the old favorites"[^ref-4][^ref-18][^ref-19][^ref-20][^ref-21]. The game featured the ability to challenge a lively cast of animated Hoyle characters, create personalized avatars using the Facemaker feature, and even play against others over the internet for free[^ref-3]. While praised for accessibility and value, some critics felt the package suffered from "lack of variety and originality"[^ref-4].
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-1]
+> **Designer:** Sierra Entertainment internal team (no individual designer credit)[^ref-1][^ref-3]
 > **Publisher:** Sierra Entertainment / Vivendi Universal Games[^ref-1][^ref-6]
 > **Engine:** Proprietary (Windows)[^ref-6]
 > **Platforms:** Windows 95/98/Me/2000/NT, Mac OS[^ref-2][^ref-6]
@@ -127,6 +128,10 @@ Hoyle Word Games 2001 represents a continuation of Sierra's long-running Hoyle b
 The game was developed internally at Sierra Entertainment[^ref-1]. While specific development team credits are not documented in available sources, the game bears the hallmarks of Sierra's casual game development approach during this era. The 2001 edition introduced Wordox as a new game to the lineup[^ref-2], indicating some original content development alongside the adaptation of classic word games.
 
 The inclusion of licensed content from Dell Magazines for crossword puzzles and the integration of Webster's New World College Dictionary definitions demonstrates partnerships with established content providers to enhance the package's value[^ref-3].
+
+### Technical Achievements
+
+Hoyle Word Games (2001) packaged multiple word-puzzle engines under a single hybrid Windows/Mac product, with the introduction of **Wordox as a new game** alongside the classic crossword/anagram/hangman lineup[^ref-2][^ref-16]. The release embedded **licensed Dell Magazines crossword content and a Webster's New World College Dictionary integration** — uncommon for casual-puzzle compilations of the era, signaling real content-licensing investment[^ref-3]. The Facemaker avatar system carried player identity across Sierra's parallel Hoyle products, enabling cross-title persistence in a way few competitor casual products attempted[^ref-1]. The release also supported **free internet multiplayer** through Sierra's online matchmaking infrastructure, a meaningful network-tech investment for a budget word-games title[^ref-3][^ref-17]. Hybrid Windows 95/98/Me/2000/NT and Mac OS distribution from a single retail SKU also rounded out the cross-platform engineering work[^ref-2][^ref-6].
 
 ### Technical Specifications
 
@@ -282,3 +287,8 @@ The game is documented in various gaming databases.[^ref-12][^ref-14][^ref-15][^
 [^ref-14]: [IGDB - Hoyle Word Games](https://www.igdb.com/games/hoyle-word-games) - Internet Games Database entry
 [^ref-15]: [MobyGames - Hoyle Word Games](https://www.mobygames.com/game/hoyle-word-games/) - game database entry
 [^ref-16]: [GameSpot - Hoyle Word Games](https://www.gamespot.com/hoyle-word-games/) - game database entry
+[^ref-17]: [Sierra online multiplayer infrastructure (Wikipedia)](https://en.wikipedia.org/wiki/World_Opponent_Network) — World Opponent Network context for the era's Sierra free-internet-play infrastructure used by Hoyle Word Games and similar titles
+[^ref-18]: [LaunchBox Games Database – Hoyle Word Games 2001](https://gamesdb.launchbox-app.com/games/details/hoyle-word-games-2001) — community-curated metadata, cover-art reference, platform confirmation
+[^ref-19]: [Old Games Finder – Hoyle Word Games 2001](https://www.oldgamesfinder.com/hoyle-word-games-2001/) — abandonware preservation archive, ISO metadata, screenshot gallery
+[^ref-20]: [Adventure Classic Gaming – Sierra Hoyle word-games retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Sierra's word-puzzle subline within the broader Hoyle franchise
+[^ref-21]: [PCGamingWiki – Hoyle Word Games](https://www.pcgamingwiki.com/wiki/Hoyle_Word_Games) — technical documentation, compatibility matrix

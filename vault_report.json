@@ -40,70 +40,6 @@
       ]
     },
     {
-      "filename": "1999 - Hoyle Casino.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2001 - Hoyle Word Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "2004 - Hoyle Casino.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -6174,6 +6110,19 @@
       "issues": []
     },
     {
+      "filename": "1999 - Hoyle Casino.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
       "filename": "2002 - Hoyle Puzzle Games.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -6201,6 +6150,19 @@
     },
     {
       "filename": "2016 - Hoyle Casino Games Collection.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "2001 - Hoyle Word Games.md",
       "series": "Hoyle",
       "page_type": "standard",
       "is_flagship": false,
