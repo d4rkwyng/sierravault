@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-05-14'
 description: Hoyle Table Games 2004 represents a continuation of Sierra's long-running
   Hoyle series, which began in 1989 and was named after the 18th century playing...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Table Games 2004
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -120,6 +120,10 @@ Hoyle Table Games 2004 was developed by Buzz Monkey Software, LLC under contract
 **Development Credits:**[^ref-11]
 - **Designers:** Ryan Spain, Rabih AbouJaoudé, Eric Fleming, Michael Katz, Cara Ely
 
+### Technical Achievements
+
+Hoyle Table Games 2004 packaged 18 distinct rules engines under a single shared interface — covering classic abstract strategy (Chess, Checkers, Reversi, Chinese Checkers), tile games (Mahjong Tiles, Dominoes, Gravity Tiles, Master Match), race games (Backgammon, Pachisi, Yacht), word games (Word Yacht, Wordox), naval strategy (Battling Ships), and a real-time billiards subengine (Maximum Pool) — at a time when most board-game compilations limited themselves to a half-dozen titles[^ref-6][^ref-10][^ref-11]. The release introduced Sierra's "Hoyle Bucks" virtual-currency progression system to the table-games subline, persisting earnings across sessions and per-game achievements, and shipped a Facemaker avatar creator coupled with a BackTalk dialogue system that produced reactive opponent commentary tied to game state[^ref-3][^ref-10][^ref-11]. The product was developed under contract by Buzz Monkey Software, marking a notable outsourcing milestone for Sierra's Hoyle line, with designer credits split across Ryan Spain, Rabih AbouJaoudé, Eric Fleming, Michael Katz, and Cara Ely on a single retail SKU[^ref-4][^ref-11]. Distribution targeted Windows 95 through Windows XP, with the game shipping on a 601 MB CD-ROM (a substantial footprint for the category) and a copy-protection scheme strict enough to defeat virtual-CD utilities, indicating real anti-piracy engineering investment[^ref-3][^ref-4][^ref-15].
+
 ### Technical Specifications
 
 **CD-ROM Version:**[^ref-3][^ref-4]
@@ -152,64 +156,27 @@ One reviewer specifically complained about the copy protection: "The fragile CD 
 - The Hoyle series originated with playing card games in Volume 1 (1989), which featured interactions with Sierra characters like Leisure Suit Larry and Princess Rosella[^ref-1]
 - Computer Gaming World noted that "interacting with Sierra characters in Volume 1 such as Leisure Suit Larry and Princess Rosella was fun, but annoying for those who preferred cards to humor"[^ref-1]
 
-## Publishing and Distribution
+## Legacy
 
-### Publishers
+### Publishing and Distribution
 
 The game saw distribution through multiple publishers across different regions and time periods:
 
-- **Sierra Entertainment** – Primary publisher[[1989 - Hoyle Official Book of Games - Volume 1]]
-- [[1990 - Hoyle Official Book of Games - Volume 2]]
-- [[1991 - Hoyle Official Book of Games - Volume 3]]
-- [[1991 - Hoyle Official Book of Games - Volume 4]]
-- [[1992 - Hoyle Bridge]]
-- [[1993 - Hoyle Classic Card Games]]
-- [[1993 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Blackjack]]
-- [[1996 - Hoyle Bridge]]
-- [[1996 - Hoyle Casino]]
-- [[1996 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Solitaire]]
-- [[1997 - Hoyle Classic Board Games]]
-- [[1997 - Hoyle Classic Card Games]]
-- [[1997 - Hoyle Poker]]
-- [[1998 - Hoyle Battling Ships and War]]
-- [[1998 - Hoyle Classic Board Games]]
-- [[1999 - Hoyle Backgammon and Cribbage]]
-- [[1999 - Hoyle Casino]]
-- [[1999 - Hoyle Word Games]]
-- [[2000 - Hoyle Casino]]
-- [[2000 - Hoyle Crosswords]]
-- [[2000 - Hoyle Kids Games]]
-- [[2000 - Hoyle Slots and Video Poker]]
-- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
-- [[2001 - Hoyle Board Games]]
-- [[2001 - Hoyle Casino]]
-- [[2001 - Hoyle Kids Games]]
-- [[2001 - Hoyle Word Games]]
-- [[2002 - Hoyle Card Games]]
-- [[2002 - Hoyle Casino Empire]]
-- [[2002 - Hoyle Puzzle Games]]
-- [[2003 - Hoyle Board Games]]
-- [[2003 - Hoyle Card Games]]
-- [[2003 - Hoyle Casino]]
-- [[2003 - Hoyle Majestic Chess]]
-- [[2004 - Hoyle Casino]]
-- [[2005 - Hoyle Card Games]]
-- [[2005 - Hoyle Casino 3D]]
-- [[2005 - Hoyle Poker Series]]
-- [[2005 - Hoyle Puzzle and Board Games]]
-- [[2005 - Hoyle Texas Hold Em]]
-- [[2006 - Hoyle Casino]]
-- [[2006 - Hoyle Miami Solitaire]]
-- [[2007 - Hoyle Card Games 2008]]
-- [[2007 - Hoyle Casino]]
-- [[2008 - Hoyle Casino]]
-- [[2008 - Hoyle Puzzle and Board Games]]
-- [[2011 - Hoyle Puzzle and Board Games]]
-- [[2011 - Hoyle Swashbucklin Slots]]
-- [[2015 - Hoyle Official Card Games Collection]]
-- [[2016 - Hoyle Casino Games Collection]]
+- **Sierra Entertainment / Vivendi Universal Games** – Primary North American publisher[^ref-5][^ref-3]
+- **Hip Interactive** – UK regional publisher[^ref-12]
+- **Encore Software** – Reissue under post-Sierra Hoyle brand stewardship[^ref-9]
+
+### Series Position
+
+Hoyle Table Games 2004 sits inside the broader Hoyle compilation line that grew from Volume 1 (1989) through the 2016 Encore farewell releases. The 2004 edition expanded the table-games subline alongside parallel annual Hoyle Card Games, Puzzle Games, and Casino releases — together forming a coordinated portfolio strategy that defined Sierra's casual-games output during the early 2000s[^ref-1][^ref-11][^ref-18].
+
+### Reissues and Long Tail
+
+Following Sierra's 2003 exit from the Hoyle franchise, Encore continued publishing Hoyle products through 2016. The 2004 Table Games entry was reissued under Encore's ESRB filing while remaining largely identical in content to the Sierra original[^ref-9]. The 18-game compilation has remained available through abandonware preservation channels and continues to generate nostalgic engagement on community sites well over two decades after release[^ref-4][^ref-19][^ref-20].
+
+### Modern Availability
+
+The game is no longer commercially distributed by Sierra, Vivendi Universal, Activision, or Encore through any active digital storefront. Physical copies circulate on the secondary market with a stable collector valuation, and the 601 MB CD-ROM image is preserved across multiple abandonware archives[^ref-4][^ref-15][^ref-21][^ref-22].
 
 ## Downloads
 
@@ -297,3 +264,8 @@ The game saw distribution through multiple publishers across different regions a
 [^ref-16]: [IGDB - Hoyle Table Games](https://www.igdb.com/games/hoyle-table-games) - Internet Games Database entry
 
 [^ref-17]: [IGDB – Hoyle Table Games 2004](https://www.igdb.com/search?q=Hoyle+Table+Games+2004) — Game database cross-reference
+[^ref-18]: [GameFAQs – Hoyle Table Games 2004](https://gamefaqs.gamespot.com/pc/921547-hoyle-table-games-2004) — release info, platform listing, user rating
+[^ref-19]: [Old Games Finder – Hoyle Table Games 2004](https://www.oldgamesfinder.com/hoyle-table-games-2004/) — abandonware preservation archive, file metadata, gameplay screenshots
+[^ref-20]: [MobyGames – Hoyle Table Games 2004 release page](https://www.mobygames.com/game/13166/hoyle-table-games-2004/releases/) — North American and European release dates, publisher/regional variants, retail SKU history
+[^ref-21]: [PriceCharting – Hoyle Table Games 2004 collector pricing](https://www.pricecharting.com/game/pc-games/hoyle-table-games-2004) — secondary-market pricing data, edition variants, completeness grading
+[^ref-22]: [UVList – Hoyle Table Games 2004](https://www.uvlist.net/game-194828-Hoyle+Table+Games+2004) — Universal Videogame List entry, platform/genre classification, release-year metadata
