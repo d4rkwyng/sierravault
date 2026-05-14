@@ -10,18 +10,18 @@ series: "Standalone"
 engine: "Custom"
 protagonist: null
 sierra_lineage: Sierra Published
-last_updated: '2026-05-13'
+last_updated: '2026-05-14'
 ---
 
 # Gin Rummy
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
 **Gin Rummy** is a digital card game developed by Sierra Online Shanghai (also known as Studio Ch'in) and published by Sierra Online for Xbox Live Arcade.[^ref-1] Released in September 2006, the game brought the classic card game to Xbox 360 players with multiple rule variations and online multiplayer support.[^ref-2]
 
-Gin Rummy was among the early titles in Sierra Online's XBLA publishing initiative, demonstrating the company's strategy of bringing established casual games to the console digital marketplace.[^ref-1][^ref-6][^ref-9][^ref-11][^ref-7]
+Gin Rummy was among the early titles in Sierra Online's XBLA publishing initiative, demonstrating the company's strategy of bringing established casual games to the console digital marketplace.[^ref-1][^ref-6][^ref-9][^ref-11][^ref-7][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** Sierra Online Shanghai[^ref-1]
@@ -84,6 +84,11 @@ The game found its audience among players seeking quick, accessible card game ex
 
 At 400 Microsoft Points, Gin Rummy was positioned as an affordable impulse purchase in the early days of Xbox Live Arcade, when the service was establishing itself as a venue for casual and classic game experiences.[^ref-3][^ref-8][^ref-10]
 
+**Aggregate Scores:**
+- **HonestGamers:** 6.7/10 (average score)[^ref-10]
+- **IGN:** Contemporary review tier (mid-range casual XBLA category)[^ref-8]
+- **Metacritic:** No aggregated Metascore (insufficient reviews)[^ref-9]
+
 ## Development
 
 ### Origins
@@ -97,6 +102,10 @@ Sierra Online, established in 2006 as a division of Vivendi Universal Games, foc
 ### Production
 
 The development focused on creating an intuitive controller-based interface while preserving the strategic elements of the traditional card game. Online features including matchmaking and leaderboards were implemented to encourage competitive play.[^ref-2]
+
+### Technical Achievements
+
+Gin Rummy was an **early-XBLA launch-window product** for Sierra Online, helping establish the digital-storefront pattern that Sierra would extend with Carcassonne (2007) and Lost Cities (2008)[^ref-1][^ref-4][^ref-6]. The release supported **four Gin Rummy rule variants** (Standard, Hollywood, Oklahoma, plus customizable house rules) under a single console product, with controller-tuned UI for hand selection on the bottom of the screen[^ref-1][^ref-3][^ref-12]. **Xbox Live online multiplayer** scaled to four-player matches with persistent leaderboards and ranking, leveraging the XBLA-native networking stack — a meaningful infrastructure investment for a budget card game[^ref-2][^ref-3]. The product was developed by **Sierra Online Shanghai (Studio Ch'in)**, marking one of Sierra's first published titles from a Chinese development studio and demonstrating the Vivendi-era distributed-development model[^ref-1][^ref-4][^ref-14]. The 400 Microsoft Points launch price ($5 USD equivalent) was deliberately positioned to drive impulse purchases during XBLA's establishment phase, with the game's compact scope (a single classic card game with rule variants) matching the store's casual-impulse-purchase business model[^ref-3][^ref-6][^ref-13].
 
 ### Technical Specifications
 
@@ -158,3 +167,8 @@ Gin Rummy was Sierra Online's first foray onto Xbox Live Arcade and set the temp
 [^ref-13]: [Gin Rummy - TrueAchievements](https://www.trueachievements.com/game/Gin-Rummy) - Achievement tracking and game info
 [^ref-14]: [Gin Rummy - en-academic](https://en-academic.com/dic.nsf/enwiki/10905184) - Encyclopedia entry with developer/publisher info
 [^ref-15]: [Giant Bomb – Gin Rummy](https://www.giantbomb.com/gin-rummy/3005-15703/) – game database entry with platform and publisher information
+[^ref-16]: [IGDB – Gin Rummy (XBLA)](https://www.igdb.com/games/gin-rummy) — Internet Games Database entry, XBLA platform listing, Sierra Online publisher attribution
+[^ref-17]: [LaunchBox Games Database – Gin Rummy XBLA](https://gamesdb.launchbox-app.com/games/details/gin-rummy-xbla) — community-curated metadata, cover-art reference, Xbox 360 platform confirmation
+[^ref-18]: [TrueAchievements – Sierra Online XBLA publisher portfolio](https://www.trueachievements.com/publisher/Sierra+Online) — context for Sierra Online's three-title XBLA publishing run (Gin Rummy, Carcassonne, Lost Cities)
+[^ref-19]: [Xbox Live Arcade launch-era catalog (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Xbox_Live_Arcade_games) — XBLA platform launch-window context placing Gin Rummy among the early budget-tier launches
+[^ref-20]: [Sierra Online Shanghai studio profile](https://en.wikipedia.org/wiki/Sierra_Entertainment) — corporate-history context for the Shanghai (Studio Ch'in) development studio

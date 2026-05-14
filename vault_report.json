@@ -4,7 +4,7 @@
     "passing": 507,
     "failing": 0,
     "pass_rate_pct": 100.0,
-    "average_score": 98.9
+    "average_score": 99.0
   },
   "pages": [
     {
@@ -119,102 +119,6 @@
           "category": "Structure",
           "severity": "error",
           "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1996 - Front Page Sports - Trophy Bass 2.md",
-      "series": "Trophy Bass",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 21,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2006 - Gin Rummy.md",
-      "series": "XBLA",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2008 - Lost Cities.md",
-      "series": "XBLA",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
           "points_lost": 2
         },
         {
@@ -6578,6 +6482,19 @@
       "issues": []
     },
     {
+      "filename": "1996 - Front Page Sports - Trophy Bass 2.md",
+      "series": "Trophy Bass",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
+      "issues": []
+    },
+    {
       "filename": "1995 - Trophy Bass.md",
       "series": "Trophy Bass",
       "page_type": "standard",
@@ -7589,6 +7506,32 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 38,
+      "issues": []
+    },
+    {
+      "filename": "2006 - Gin Rummy.md",
+      "series": "XBLA",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "2008 - Lost Cities.md",
+      "series": "XBLA",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {
