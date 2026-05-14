@@ -10,14 +10,14 @@ series: Hoyle's Official Book of Games
 engine: SCI1
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: Hoyle Official Book of Games Volume 4 was the fourth installment in Sierra
   On-Line's popular Hoyle series, originally released in 1991 and later reissued as...
 tags: [1990s, hoyle-s-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 4
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -86,13 +86,13 @@ While Computer Gaming World noted that "interacting with Sierra characters was f
 
 ## Development
 
-### Origins and Vision
+### Origins
 
 The fourth volume was part of Sierra's ongoing effort to translate classic parlor games to the electronic medium, continuing a tradition that began with Hi-Res Cribbage in 1981[^ref-4]. The development team faced unique challenges working with SCI to implement card games, as the adventure game scripting language wasn't originally designed for this type of gameplay[^ref-10]. Creating convincing AI for sophisticated games like Bridge proved particularly demanding.
 
 Warren Schwader and Robert L. Jerauld led the design effort, working to balance accessibility for casual players with enough depth to satisfy serious card game enthusiasts[^ref-4]. The team's goal was to create software that could serve as both entertainment and education, teaching proper rules while providing challenging opponents.
 
-### Production Process
+### Production
 
 The game was developed using storyboarding methodology borrowed from the film industry, with artists painting character scenes and expressions by hand on paper before digitizing them for the game[^ref-10]. Bill Davis served as creative director during development, overseeing both the artistic direction and the gameplay balance[^ref-10].
 
@@ -103,6 +103,10 @@ Mike Kasprzak served as lead programmer on the project, heading a team of 31 cre
 The game featured full sound card support with original soundtrack composed by Evan Schiller, Rob Atesalp, and Robert Holmes[^ref-4]. Voice acting was provided by Jeff Hoyt, Amy Broomhall, and Kate Myre, among others[^ref-16]. The Windows versions shared their soundtrack with Hoyle Classic Board Games (1997), with only the introduction music being unique[^ref-18].
 
 Sound files were contained in a single file (RESOURCE.AUD), and the game supported both SoundBlaster and AdLib audio configurations[^ref-9]. Some users noted that earlier versions performed better with speech disabled, as the voice synthesis could occasionally cause performance issues on period hardware[^ref-19].
+
+### Technical Achievements
+
+Hoyle Volume 4 (1991) was the first Hoyle release to feature **fully-implemented sophisticated AI** for trick-taking and bidding card games, including a Bridge engine — historically the most computationally challenging card game to AI-simulate due to its complex bidding system[^ref-4][^ref-16]. The development team employed **film-industry storyboarding methodology**, with artists hand-painting character scenes and expressions on paper before digitizing — a production pipeline unusual for casual card-game software of the era[^ref-10]. The product scaled to **31 credited contributors** under lead programmer Mike Kasprzak and creative director Bill Davis, an unusually large team for a 1991 card-game compilation[^ref-10][^ref-16]. The audio production layer included **original orchestral scoring by Evan Schiller, Rob Atesalp, and Robert Holmes**, plus voice acting from Jeff Hoyt, Amy Broomhall, and Kate Myre — substantial audio investment for a card-game product[^ref-4][^ref-16][^ref-18]. The DOS engine targeted both VGA and EGA graphics modes and supported both SoundBlaster and AdLib audio, allowing broad hardware reach[^ref-9].
 
 ### Technical Specifications
 

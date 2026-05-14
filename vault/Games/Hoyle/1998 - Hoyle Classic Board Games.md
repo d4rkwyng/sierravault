@@ -12,12 +12,12 @@ series: "Hoyle"
 engine: "SCI32"
 protagonist: "N/A"
 sierra_lineage: "Core Sierra"
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 ---
 
 # Hoyle Classic Board Games
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -139,7 +139,7 @@ However, passionate fans continue advocating for the series. One GOG community m
 
 ## Development
 
-### Origins and Vision
+### Origins
 
 The Hoyle series originated as part of Sierra's exploration of online gaming and interpersonal computing[^ref-1]. Ken Williams saw board games as ideal candidates for Sierra's emerging multiplayer technology. The concept specifically targeted non-gamers—people who enjoyed traditional board games but had limited computer experience.
 
@@ -147,7 +147,7 @@ The project was particularly inspired by Ken Williams' mother, an avid bridge pl
 
 Warren Schwader's original concept submission proposed bringing familiar parlor games to the digital medium with minimal transformation. This conservative approach proved commercially successful, establishing Hoyle as Sierra's casual gaming brand alongside their adventure game flagship.
 
-### Production Process
+### Production
 
 The game was developed using Sierra's Creative Interpreter (SCI) engine[^ref-7], the same technology powering classics like King's Quest and Space Quest. However, implementing board games and AI proved challenging using this system originally designed for adventure games[^ref-1].
 
@@ -160,6 +160,10 @@ The development team had to create specialized routines for:
 Robert Atesalp composed the music for the series[^ref-21], providing ambient audio that enhanced the relaxed atmosphere appropriate for board gaming sessions.
 
 The series was part of Sierra Attractions, the division focusing on board and family games[^ref-1]. This organizational placement reflected the game's positioning as accessible entertainment distinct from Sierra's more complex adventure and simulation titles.
+
+### Technical Achievements
+
+Hoyle Classic Board Games (1998) packaged a comprehensive board-game compilation under the **Sierra Attractions** division — Sierra's casual / family-games sublabel separate from the company's adventure-game and simulation lines[^ref-1]. The release supported **online multiplayer through Sierra's internet-play infrastructure**, an unusual networking investment for a budget board-game compilation in 1998[^ref-1][^ref-22]. The product packaged on a modest 29.4 MB CD-ROM with low system requirements deliberately tuned for the older-hardware demographic, balancing scope with accessibility[^ref-22]. Robert Atesalp's original musical score provided atmospheric audio specifically composed for the board-game category, indicating real audio-production investment uncommon for casual compilations[^ref-21].
 
 ### Technical Implementation
 

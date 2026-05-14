@@ -10,14 +10,14 @@ series: Hoyle
 engine: SCI32
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: Hoyle Classic Board Games, originally released in 1997, is a collection
   of traditional board games developed by Sierra Entertainment as part of their...
 tags: [1990s, hoyle, sci, sierra]
 ---
 # Hoyle Classic Board Games
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -139,7 +139,7 @@ However, passionate fans continue advocating for the series. One GOG community m
 
 ## Development
 
-### Origins and Vision
+### Origins
 
 The Hoyle series originated as part of Sierra's exploration of online gaming and interpersonal computing[^ref-1]. Ken Williams saw board games as ideal candidates for Sierra's emerging multiplayer technology. The concept specifically targeted non-gamers—people who enjoyed traditional board games but had limited computer experience.
 
@@ -147,7 +147,7 @@ The project was particularly inspired by Ken Williams' mother, an avid bridge pl
 
 Warren Schwader's original concept submission proposed bringing familiar parlor games to the digital medium with minimal transformation. This conservative approach proved commercially successful, establishing Hoyle as Sierra's casual gaming brand alongside their adventure game flagship.
 
-### Production Process
+### Production
 
 The game was developed using Sierra's Creative Interpreter (SCI) engine[^ref-7], the same technology powering classics like King's Quest and Space Quest. However, implementing board games and AI proved challenging using this system originally designed for adventure games[^ref-1].
 
@@ -160,6 +160,10 @@ The development team had to create specialized routines for:
 Robert Atesalp composed the music for the series[^ref-21], providing ambient audio that enhanced the relaxed atmosphere appropriate for board gaming sessions.
 
 The series was part of Sierra Attractions, the division focusing on board and family games[^ref-1]. This organizational placement reflected the game's positioning as accessible entertainment distinct from Sierra's more complex adventure and simulation titles.
+
+### Technical Achievements
+
+Hoyle Classic Board Games (1997) was built on **Sierra's Creative Interpreter (SCI) engine** — the same technology powering King's Quest and Space Quest — repurposed from adventure-game scripting to drive multiple distinct board-game AI engines, multiplayer synchronization, and character-personality systems[^ref-1][^ref-7]. The team had to add specialized routines for board-state management, AI decision-making per game type, and synchronized multiplayer state across an engine originally designed for parser/scripted adventures — an unusual engine-repurposing exercise[^ref-1]. The release was specifically commissioned to target Sierra's emerging online-multiplayer infrastructure (an early Ken Williams thesis that interpersonal computing would carry into the late 1990s), with the target audience explicitly including non-gamers and elderly players[^ref-1][^ref-2]. Robert Atesalp's original music score reinforced the relaxed, contemplative atmosphere that distinguished Hoyle Classic Board Games from competing PC board-game compilations[^ref-21].
 
 ### Technical Implementation
 

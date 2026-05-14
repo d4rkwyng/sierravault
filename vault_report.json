@@ -98,32 +98,6 @@
       ]
     },
     {
-      "filename": "1998 - Hoyle Classic Board Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 22,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "2011 - Hoyle Swashbucklin Slots.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -176,58 +150,6 @@
       ]
     },
     {
-      "filename": "1997 - Hoyle Classic Board Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 22,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2011 - Hoyle Puzzle and Board Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 21,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "2004 - Hoyle Puzzle Games.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -249,32 +171,6 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1991 - Hoyle Official Book of Games - Volume 4.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 22,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
           "points_lost": 2
         }
       ]
@@ -6039,6 +5935,19 @@
       "issues": []
     },
     {
+      "filename": "1998 - Hoyle Classic Board Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
+      "issues": []
+    },
+    {
       "filename": "2003 - Hoyle Majestic Chess.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -6130,6 +6039,19 @@
       "issues": []
     },
     {
+      "filename": "1997 - Hoyle Classic Board Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
+      "issues": []
+    },
+    {
       "filename": "1996 - Hoyle Bridge.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -6182,6 +6104,19 @@
       "issues": []
     },
     {
+      "filename": "2011 - Hoyle Puzzle and Board Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
+      "issues": []
+    },
+    {
       "filename": "1996 - Hoyle Blackjack.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -6218,6 +6153,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 21,
+      "issues": []
+    },
+    {
+      "filename": "1991 - Hoyle Official Book of Games - Volume 4.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
       "issues": []
     },
     {
