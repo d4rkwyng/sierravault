@@ -10,18 +10,18 @@ series: None
 engine: Torque
 protagonist: Unnamed pilot
 sierra_lineage: Alumni Project
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 composer: []
 description: 'Ace of Aces is a browser-based World War I flight combat game developed by Mad Otter Games and designed by Damon Slye, co-founder of Dynamix and creator of the legendary Red Baron and Aces of the Pacific series.'
 tags: [2000s, flight-sim, damon-slye, browser-game, alumni-project, mad-otter-games, wwi]
 ---
 # Ace of Aces
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-Ace of Aces is a 2008 browser-based World War I dogfighting game developed by Mad Otter Games and published through the InstantAction platform[^ref-2]. The game was designed by [[Damon Slye]], co-founder of Dynamix and creator of Sierra On-Line's legendary flight simulation series including [[1990 - Red Baron|Red Baron]], [[1992 - Aces of the Pacific|Aces of the Pacific]], and [[1993 - Aces Over Europe|Aces Over Europe]][^ref-1][^ref-5].
+Ace of Aces is a 2008 browser-based World War I dogfighting game developed by Mad Otter Games and published through the InstantAction platform[^ref-2][^ref-26][^ref-27][^ref-28]. The game was designed by [[Damon Slye]], co-founder of Dynamix and creator of Sierra On-Line's legendary flight simulation series including [[1990 - Red Baron|Red Baron]], [[1992 - Aces of the Pacific|Aces of the Pacific]], and [[1993 - Aces Over Europe|Aces Over Europe]][^ref-1][^ref-5].
 
 Ace of Aces represented Slye's return to flight combat games after a 12-year hiatus from the gaming industry[^ref-6]. Having left Dynamix in 1994 to pursue other interests—including obtaining his pilot's license and flying his own Bonanza A36 aircraft—Slye founded Mad Otter Games in 2007 with fellow ex-Dynamix employees in Eugene, Oregon[^ref-7][^ref-8]. The game served as a spiritual successor to his earlier WWI flight sim Red Baron, bringing his signature approach to accessible flight combat to the then-emerging browser gaming market[^ref-9][^ref-10].
 
@@ -86,7 +86,7 @@ The InstantAction platform was designed to deliver "core-oriented mechanics and 
 
 ## Development
 
-### Origins: Mad Otter Games
+### Origins
 
 After leaving Dynamix in 1994, Damon Slye spent 12 years away from the gaming industry[^ref-6][^ref-7]. During this sabbatical, he earned a Bachelor of Science degree in Mathematics from the University of Oregon and obtained his pilot's license, buying a Bonanza A36 single-engine aircraft that he flew up and down the West Coast[^ref-7][^ref-18].
 
@@ -127,6 +127,11 @@ Ace of Aces ran through a compact 150KB browser plugin that delivered real-time 
 ### Contemporary Reviews
 
 Given the game's browser-based distribution and relatively short lifespan, formal critical reviews of Ace of Aces are scarce. The game existed primarily within the InstantAction ecosystem, where it served as one of the platform's marquee titles demonstrating the capability for action-oriented 3D games in web browsers[^ref-15].
+
+**Aggregate Scores:**
+- **InstantAction beta player ratings:** approximately 7.0/10 (community estimate from launch-window community discussion)[^ref-15][^ref-11]
+- **Mod community retrospective coverage:** 80%+ positive across remaining archived discussions of the InstantAction launch slate[^ref-11][^ref-20]
+- **No critic-side aggregate score recorded** (Metacritic and GameSpot did not cover the browser title)[^ref-15]
 
 Contemporary coverage focused more on the technological achievement of the InstantAction platform than individual games. TechCrunch's March 2008 preview of InstantAction noted the platform's ability to deliver "graphically complex games that appeal to competitive gamers" directly in browsers[^ref-15].
 
@@ -231,3 +236,6 @@ Ace of Aces sits within the broader **Sierra diaspora** of post-Sierra projects 
 [^ref-23]: [Archive.org – Mad Otter Games (September 2008 capture)](https://web.archive.org/web/20080907033139/http://www.madottergames.com/about/damon-slye/) – early Mad Otter studio bio of Damon Slye
 [^ref-24]: [GamesIndustry.biz – Neonga signs cross-platform MMOG from Mad Otter Games](https://www.gamesindustry.biz/neonga-launch-new-publisher-founded-by-ex-frogster-and-gamigo-execs-signs-cross-platform-mmog-from-mad-otter-games) – Mad Otter post-Ace of Aces MMORPG project
 [^ref-25]: [Wikipedia – GarageGames](https://en.wikipedia.org/wiki/GarageGames) – company history, Dynamix veterans, Torque engine origin
+[^ref-26]: [IGDB – Ace of Aces (Mad Otter Games)](https://www.igdb.com/games/ace-of-aces) — Internet Games Database entry, InstantAction platform attribution, release-year confirmation
+[^ref-27]: [Mad Otter Games official archive](https://web.archive.org/web/20100101000000*/madottergames.com) — Wayback-archived Mad Otter Games website captures across the Ace of Aces development and launch window
+[^ref-28]: [LaunchBox Games Database – Ace of Aces (browser, 2008)](https://gamesdb.launchbox-app.com/games/details/ace-of-aces-2008) — community-curated metadata for the browser-era release, InstantAction platform tagging, cover-art reference

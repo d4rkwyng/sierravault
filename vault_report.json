@@ -8,134 +8,6 @@
   },
   "pages": [
     {
-      "filename": "1986 - Wrath of Denethenor.md",
-      "series": "Standalone",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 94.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2000 - Ricochet.md",
-      "series": "Valve",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 94.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Story Summary",
-          "points_lost": 3
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Contemporary Reviews",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2023 - Pharaoh - A New Era.md",
-      "series": "Pharaoh",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2008 - Ace of Aces.md",
-      "series": "Spiritual Successors",
-      "page_type": "spiritual",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "2015 - Order of the Thorne - The King's Challenge.md",
       "series": "Spiritual Successors",
       "page_type": "spiritual",
@@ -4948,6 +4820,19 @@
       "issues": []
     },
     {
+      "filename": "2023 - Pharaoh - A New Era.md",
+      "series": "Pharaoh",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
       "filename": "1999 - Pharaoh.md",
       "series": "Pharaoh",
       "page_type": "standard",
@@ -5741,6 +5626,19 @@
       "issues": []
     },
     {
+      "filename": "1986 - Wrath of Denethenor.md",
+      "series": "Standalone",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
       "filename": "2007 - World in Conflict.md",
       "series": "Standalone",
       "page_type": "standard",
@@ -6027,6 +5925,19 @@
       "issues": []
     },
     {
+      "filename": "2008 - Ace of Aces.md",
+      "series": "Spiritual Successors",
+      "page_type": "spiritual",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
       "filename": "2010 - Gray Matter.md",
       "series": "Spiritual Successors",
       "page_type": "spiritual",
@@ -6271,6 +6182,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 47,
+      "issues": []
+    },
+    {
+      "filename": "2000 - Ricochet.md",
+      "series": "Valve",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {

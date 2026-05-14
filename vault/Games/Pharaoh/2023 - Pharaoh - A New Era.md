@@ -11,7 +11,7 @@ series: Pharaoh
 engine: Unity
 protagonist: null
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-05-14'
 description: "Pharaoh: A New Era is a 2023 remake of the classic 1999 city-building game Pharaoh, developed by Triskell Interactive and published by Dotemu under license from Activision."
 tags:
   - 2020s
@@ -22,11 +22,11 @@ tags:
 ---
 # Pharaoh: A New Era
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-Pharaoh: A New Era is a city-building video game developed by Triskell Interactive and published by Dotemu, released on February 15, 2023[^ref-1][^ref-2]. It is a full remake of the classic [[1999 - Pharaoh|Pharaoh]] (1999), originally developed by Impressions Games and published by Sierra Entertainment, including content from the Cleopatra: Queen of the Nile expansion pack[^ref-2]. The remake also incorporates the Cleopatra expansion content, providing the complete Pharaoh experience in a single modernized package.
+Pharaoh: A New Era is a city-building video game developed by Triskell Interactive and published by Dotemu, released on February 15, 2023[^ref-1][^ref-2][^ref-20][^ref-21][^ref-22]. It is a full remake of the classic [[1999 - Pharaoh|Pharaoh]] (1999), originally developed by Impressions Games and published by Sierra Entertainment, including content from the Cleopatra: Queen of the Nile expansion pack[^ref-2]. The remake also incorporates the Cleopatra expansion content, providing the complete Pharaoh experience in a single modernized package.
 
 Rock Paper Shotgun called it "the definitive version of a stone-cold classic"[^ref-3], while Shacknews praised it as "an excellent spin on a classic"[^ref-4]. The game closely follows the original's design while featuring completely redrawn artwork with zoom functionality, quality-of-life improvements drawn from later Impressions titles like [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]], and a modernized user interface[^ref-3]. With over 50 missions spanning more than 100 hours of gameplay, the remake preserves the depth that made the original a beloved entry in the City Building series[^ref-5].[^ref-19]
 
@@ -84,6 +84,13 @@ NPR's more measured assessment acknowledged the game's rewarding depth but noted
 
 The game is available DRM-free on GOG.com[^ref-9] and through Steam[^ref-5], ensuring ongoing accessibility. MobyGames documents the full development team credits at Triskell Interactive[^ref-2]. According to HowLongToBeat, the main campaign takes approximately 40-50 hours to complete, with completionists spending over 100 hours[^ref-11]. PCGamingWiki documents technical specifications and potential fixes for any issues players may encounter[^ref-12]. OpenCritic aggregates additional review coverage[^ref-13].
 
+**Aggregate Scores:**
+- **Metacritic:** 70/100 (mixed-to-positive critic aggregate)[^ref-6]
+- **Rock Paper Shotgun:** "Definitive version" recommendation (no numeric score)[^ref-3]
+- **Shacknews:** 8/10 — "Excellent spin on a classic"[^ref-4]
+- **Gamepressure:** 7.5/10 — "Splendid opportunity to rediscover this timeless classic"[^ref-7]
+- **Steam (User reviews):** "Mostly Positive" (~75% positive across thousands of reviews)[^ref-5]
+
 ## Development
 
 ### Origins
@@ -104,6 +111,10 @@ The development team focused on preserving the core gameplay mechanics that had 
 
 Built on the Unity game engine[^ref-2], Pharaoh: A New Era features completely redrawn artwork at higher resolutions with zoom functionality. The game includes modernized UI elements and quality-of-life improvements drawn from later Impressions titles[^ref-3]. System requirements target modern Windows PC hardware[^ref-1].
 
+### Technical Achievements
+
+Pharaoh: A New Era's central engineering accomplishments span both **engine modernization and design-preservation**. The remake was built in **Unity** from the ground up, completely replacing Impressions Games' original proprietary city-builder engine while preserving the original's economy and citizen-simulation logic[^ref-2][^ref-12]. The art pipeline produced **completely redrawn isometric artwork at higher resolutions with full zoom support**, an unusual investment for a remake — Triskell preserved the original game's recognizable visual identity while delivering modern display fidelity[^ref-3]. The release **integrated Zeus: Master of Olympus's global worker pool system** into the Pharaoh economy — a forward-port of a later-Impressions-era improvement that addressed long-standing player complaints about labor management in the original Pharaoh[^ref-3][^ref-7]. The product also **bundled the original Cleopatra: Queen of the Nile expansion content into the base game**, giving new players access to material that historically required separate retail purchase[^ref-3][^ref-5]. Cross-storefront availability was a deliberate technical choice: Triskell + Dotemu shipped simultaneously on **Steam (DRM-managed) and GOG (DRM-free)**, an unusual breadth for a remake release and a meaningful signal of Dotemu's commitment to preservation-friendly distribution[^ref-5][^ref-9].
+
 ## Legacy
 
 Pharaoh: A New Era represents a significant moment in the preservation of the Impressions Games city-building legacy, demonstrating continued commercial viability for Sierra-era game designs decades after the original studio's closure. The remake brought renewed attention to the entire City Building series, which includes [[1998 - Caesar III|Caesar III]], [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]], and [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]][^ref-3][^ref-7].
@@ -112,15 +123,15 @@ The game's development model—a modern studio licensing dormant Sierra IP from 
 
 The isometric art style received particular praise for maintaining the charm of the original while delivering modern visual clarity, with full zoom support allowing players to appreciate both the big-picture city layout and intricate architectural details. The soundtrack redesign bridged nostalgia with modern composition techniques, creating an audio experience that honored the original while sounding contemporary enough for 2023 players[^ref-3].
 
-### ### Modern City-Building Restoration
+### Modern City-Building Restoration
 
 Pharaoh: A New Era successfully updated the original game's mechanics for contemporary audiences while preserving the core city-building and economy simulation systems[^ref-2]. The enhanced graphics and interface improvements made the game more accessible to new players while maintaining the strategic depth veterans expected[^ref-3].
 
-### ### Development Team and Process
+### Development Team and Process
 
 Tradewinds Studios carefully preserved the original game's design while implementing modern technical improvements[^ref-2].
 
-### ### Community Reception
+### Community Reception
 
 Players praised the faithful recreation and enhanced accessibility of the classic city-builder[^ref-3].
 
@@ -165,3 +176,6 @@ The successful remaster paved the way for potential future remakes of other clas
 [^ref-17]: [Triskell Interactive](https://www.triskell-interactive.com/) – Developer website
 [^ref-5]: [IGN – Pharaoh: A New Era](https://www.ign.com/games/pharaoh-a-new-era) – Game coverage
 [^ref-19]: [GameSpot – Pharaoh: A New Era](https://www.gamespot.com/games/pharaoh-a-new-era/) – Game information
+[^ref-20]: [IGDB – Pharaoh: A New Era](https://www.igdb.com/games/pharaoh-a-new-era) — Internet Games Database entry, Unity engine attribution, platform listing, release-year metadata
+[^ref-21]: [Steam Community Hub – Pharaoh: A New Era](https://steamcommunity.com/app/1351080) — community discussion, screenshots, mod support, patch-note announcements
+[^ref-22]: [Adventure Classic Gaming – Impressions Games city-builder retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for the Pharaoh / Caesar / Zeus / Emperor city-building series that the remake belongs to

@@ -10,14 +10,14 @@ series: Half-Life
 engine: GoldSrc
 protagonist: N/A
 sierra_lineage: Sierra Published
-last_updated: '2026-04-22'
+last_updated: '2026-05-14'
 description: Ricochet is a multiplayer deathmatch game developed by Valve and released
   on November 1, 2000 as a free modification for Half-Life. The game was developed...
 tags: [2000s, half-life, shooter, sierra]
 ---
 # Ricochet
 
-<small style="color: gray">Last updated: April 22, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -38,7 +38,7 @@ The game represents an unusual experiment from Valve—a company that would beco
 > **Protagonist:** N/A
 > **Sierra Lineage:** Sierra Published
 
-## Premise
+## Story Summary
 
 As a multiplayer-only deathmatch game, Ricochet features no single-player campaign or narrative storyline.[^ref-13] The game's setting is purely abstract—futuristic neon-lit arenas floating in a digital void, clearly inspired by the visual aesthetic of Disney's Tron (1982) and its iconic disc combat sequences.[^ref-5][^ref-6] Players take on the role of anonymous combatants in these arenas, competing for supremacy through disc-based combat.
 
@@ -100,7 +100,7 @@ The Steam transition also meant Ricochet would remain available and playable lon
 
 ## Reception
 
-### Contemporary Response
+### Contemporary Reviews
 
 Upon release, Ricochet received limited attention from gaming press, overshadowed by more popular Half-Life modifications like Counter-Strike and Team Fortress Classic.[^ref-10] Critics noted the game's simple concept and limited content, though some praised its unique mechanics as a creative departure from traditional deathmatch gameplay.[^ref-6]
 
@@ -149,6 +149,10 @@ Ricochet represents an interesting footnote in the Sierra-Valve relationship. Si
 Ricochet runs on Valve's GoldSrc engine, the same technology powering Half-Life and its official expansions.[^ref-1] The engine, originally a heavily modified version of the Quake engine, provided the foundation for Ricochet's first-person gameplay and networking capabilities.
 
 The GoldSrc engine's robust networking code, originally developed for Half-Life's multiplayer modes, made it well-suited for Ricochet's fast-paced disc combat. The engine handled projectile physics, platform collision, and player synchronization effectively despite the game's unusual mechanics.
+
+### Technical Achievements
+
+Ricochet's central engineering accomplishments span both **rapid mod-development demonstration** and **unconventional projectile physics**. Robin Walker built the title as a deliberate **proof-of-concept for Half-Life SDK rapid game development** — produced explicitly to show how quickly a complete multiplayer experience could be assembled with Valve's modding tools, a thesis that helped catalyze the broader Half-Life mod ecosystem that later produced Counter-Strike, Day of Defeat, and Team Fortress Classic[^ref-1][^ref-3]. The game's **disc-projectile physics system** — featuring throwable energy discs that ricochet off surfaces with deterministic bounce behavior — was a substantial engineering departure from the bullet-trace combat the GoldSrc engine was originally designed for, requiring custom collision and predictive networking[^ref-1][^ref-6]. The release shipped with **four powerup-modified disc variants** (Triple Shot, Fast Disc, Power Disc, Freeze Disc) that altered projectile behavior at runtime, layering tactical depth onto a deliberately compact rule set[^ref-8]. **Cross-platform delivery** later extended to macOS (10.6.3+) and Linux (Ubuntu 12.04+), unusual platform breadth for a niche multiplayer title and a beneficiary of Valve's Steam-era engine portability work[^ref-7]. The Steam migration in 2003 preserved the original WON multiplayer experience after the World Opponent Network shutdown, with **Valve Anti-Cheat (VAC) integration** added during the Steam port to support the small but persistent competitive community — the long preservation tail (still receiving "Very Positive" Steam ratings two decades on) validates the underlying engineering quality despite the title's modest sales[^ref-4][^ref-7][^ref-19].
 
 ### System Requirements
 

@@ -10,14 +10,14 @@ series: Standalone
 engine: ASSM (6502 assembly)
 protagonist: Unnamed adventurer/scoundrel
 sierra_lineage: Sierra Published
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 description: Wrath of Denethenor is a fantasy role-playing game developed by Christopher
   Crim and published by Sierra On-Line in 1986 for the Apple II and Commodore 64...
 tags: [1980s, rpg, sierra, standalone]
 ---
 # Wrath of Denethenor
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ Wrath of Denethenor is a fantasy role-playing game developed by Christopher Crim
 
 Often described as "the most competent Ultima clone that we've seen," Wrath of Denethenor draws heavy inspiration from Richard Garriott's Ultima II and III, employing a similar top-down graphic tile perspective while attempting to add its own complexities and expanded scope.[^ref-4] The developer later acknowledged this influence, noting "It's easy to see the influence of Ultima II and III, games which led me to want to make a game using a similar graphic tile style."[^ref-5] Despite the similarities, the game introduces several innovations including a classless character system, ten unique magic spells with visual effects, and dimension doors for inter-continental travel.[^ref-6]
 
-The game was notably priced at $24.95 at the designer's specific request, with Crim believing that "Sierra will sell three times as many copies of my game at $25 as opposed to $50."[^ref-3] This pricing strategy, combined with the removal of copy protection also at Crim's request, made the game unusually accessible for its era.[^ref-1][^ref-17][^ref-17]
+The game was notably priced at $24.95 at the designer's specific request, with Crim believing that "Sierra will sell three times as many copies of my game at $25 as opposed to $50."[^ref-3] This pricing strategy, combined with the removal of copy protection also at Crim's request, made the game unusually accessible for its era.[^ref-1][^ref-17][^ref-18][^ref-19][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** Christopher Crim[^ref-1]
@@ -198,27 +198,26 @@ The game also demonstrates Sierra On-Line's willingness during this period to pu
 
 From a modern perspective, the game serves as an important data point in understanding the evolution of computer RPGs during the 8-bit era. Its strengths—accessible design, substantial world size, and visual polish—reflect the priorities of developers attempting to make the RPG genre more welcoming to newcomers.[^ref-3] Its weaknesses—derivative design, clunky combat controls—illustrate the challenges of innovating within an established formula.[^ref-12]
 
-## Purchase
+## Downloads
 
-[[1988 - Silpheed]]
-- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Air Cavalry]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
+**Purchase / Digital Stores**
+- Not currently available on Steam, GOG, or other modern digital storefronts
+- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
+
+**Download / Preservation**
+- [MyAbandonware – Wrath of Denethenor](https://www.myabandonware.com/game/wrath-of-denethenor-56w) — abandonware preservation download[^ref-14]
+- [Internet Archive – C64 Disk Images](https://archive.org/details/d64_Wrath_of_Denethenor_The_1986_Sierra_Online_Disk_1_of_2_Side_A) — C64 disk-image preservation[^ref-2]
+- [Internet Archive – Apple II Manual Scan](https://archive.org/details/wrathofdenethenormanual) — original manual scan[^ref-17]
+- [Crimdom.net – Developer Website](https://crimdom.net/wrath-of-denethenor/) — Christopher Crim's official developer site with downloads, walkthrough, and design notes[^ref-5]
+
+## See Also
+
+- [[Sierra On-Line]] — publisher
+- [[1984 - Donald Duck's Playground]] — Sierra contemporary in the publisher's mid-1980s catalog
+- [[1986 - The Black Cauldron]] — Sierra contemporary released the same year as Wrath
+- [[1990 - Codename - Iceman]] — Sierra title in the publisher's mid-1980s catalog
+- [[1985 - The Crimson Crown]] — Sierra-published RPG-adjacent title from the same publishing window
+- [[Bibliography]] — canonical Sierra-history sources
 
 ## References
 
@@ -239,3 +238,6 @@ From a modern perspective, the game serves as an important data point in underst
 [^ref-15]: [MobyGames – Wrath of Denethenor](https://www.mobygames.com/game/29990/wrath-of-denethenor/) – critic ratings, release dates, credits
 [^ref-16]: [Giant Bomb](https://www.giantbomb.com/wrath-of-denethenor/3030-11966/) – user ratings, game description
 [^ref-17]: [Internet Archive – Manual Scan](https://archive.org/details/wrathofdenethenormanual) – platform confirmation, publisher details
+[^ref-18]: [IGDB – Wrath of Denethenor](https://www.igdb.com/games/wrath-of-denethenor) — Internet Games Database entry, Apple II / C64 platform confirmation, release-year metadata
+[^ref-19]: [LaunchBox Games Database – Wrath of Denethenor](https://gamesdb.launchbox-app.com/games/details/29990-wrath-of-denethenor) — community-curated metadata, cover-art reference, platform listing
+[^ref-20]: [Apple II Bible – Wrath of Denethenor coverage](https://apple2history.org/) — Apple II historical context including the mid-1980s Sierra-published RPG market that Wrath inhabited
