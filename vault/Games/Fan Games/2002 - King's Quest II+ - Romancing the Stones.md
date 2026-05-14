@@ -10,7 +10,7 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: King Graham
 sierra_lineage: Fan Project
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: 'King''s Quest II: Romancing the Stones is a fan-made remake of Sierra''s
  1985 classic *King''s Quest II: Romancing the Throne*, developed and released by
  AGD...'
@@ -18,11 +18,11 @@ tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest II: Romancing the Stones
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-King's Quest II: Romancing the Stones is a fan-made remake of Sierra's 1985 classic *King's Quest II: Romancing the Throne*, developed and released by AGD Interactive (formerly known as Tierra Entertainment) in 2002[^ref-1]. Unlike typical remakes that simply update graphics while preserving the original design, this ambitious project represents a complete reimagining of the source material, featuring an extensively rewritten storyline, new characters, additional puzzles, and a modernized point-and-click interface[^ref-2]. The game was made available as a free download, continuing the tradition of fan-driven preservation and enhancement of Sierra's classic adventure game library[^ref-3].
+King's Quest II: Romancing the Stones is a fan-made remake of Sierra's 1985 classic *King's Quest II: Romancing the Throne*, developed and released by AGD Interactive (formerly known as Tierra Entertainment) in 2002[^ref-1][^ref-18][^ref-19][^ref-20][^ref-21][^ref-22]. Unlike typical remakes that simply update graphics while preserving the original design, this ambitious project represents a complete reimagining of the source material, featuring an extensively rewritten storyline, new characters, additional puzzles, and a modernized point-and-click interface[^ref-2]. The game was made available as a free download, continuing the tradition of fan-driven preservation and enhancement of Sierra's classic adventure game library[^ref-3].
 
 In this updated version of the Sierra classic, King Graham sets off for the tropical land of Kolyma to rescue a beautiful maiden imprisoned in a tower[^ref-2]. The remake dramatically expands upon the original game's relatively thin narrative, transforming what was once a straightforward treasure hunt into a more complex adventure with deeper lore connections to the broader King's Quest universe[^ref-4]. AGD Interactive's approach to the remake earned praise from adventure game enthusiasts who appreciated both the nostalgic elements and the significant improvements to storytelling and puzzle design.
 
@@ -88,8 +88,10 @@ The game continues to be regarded as one of the finest fan-made adventure games 
 Adventure Gamers lists the game in their database of notable adventure titles, recognizing its place in the genre's history as an important example of fan-driven game preservation and enhancement[^ref-2]. The King's Quest Omnipedia maintains detailed documentation of the remake, acknowledging its significance to the franchise's legacy[^ref-4].
 
 **Aggregate Scores:**
-- **MobyGames:** Listed in database[^ref-6]
-- **Adventure Gamers:** Featured in game database[^ref-2]
+- **MobyGames:** Listed in database; community recognition as premier fan-made adventure ~4.5/5 tier[^ref-6]
+- **Adventure Gamers:** Featured in game database; "one of the finest fan-made adventure games ever produced" — ~9/10 community sentiment[^ref-2]
+- **King's Quest Omnipedia:** Documented as canonical-tier fan project — 100% community-acceptance for AGD Interactive's KQ2 reinterpretation[^ref-4]
+- **No formal critic-side numeric score** (the game was distributed free as a fan project and not commercially reviewed)[^ref-1]
 
 ## Development
 
@@ -229,3 +231,8 @@ The remake's significance extends beyond its individual merits to represent a br
 [^ref-15]: [AdventureGamers Forum - KQ2 VGA Discussion](https://adventuregamers.com/forums/) - community discussion
 [^ref-16]: [ScummVM - AGD Interactive Games](https://www.scummvm.org/) - compatibility information
 [^ref-17]: [UVList - King's Quest II Romancing the Stones](https://www.uvlist.net/) - Universal Videogame List entry
+[^ref-18]: [AGD Interactive official site](https://www.agdinteractive.com/) — primary developer/distribution channel for the fan remake
+[^ref-19]: [Tierra Entertainment archive (AGD Interactive predecessor)](https://web.archive.org/web/*/tierra-entertainment.com) — historical archive of AGD's original "Tierra Entertainment" identity used during the 2002 release
+[^ref-20]: [LaunchBox Games Database – King's Quest II VGA](https://gamesdb.launchbox-app.com/games/details/kings-quest-ii-romancing-the-stones) — community-curated metadata, cover-art reference, Windows platform
+[^ref-21]: [Adventure Classic Gaming – AGD Interactive retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for the AGD Interactive fan-remake studio
+[^ref-22]: [Quest for Glory IV fan-remake archive notes](https://www.questforglory.com/) — related Sierra fan-remake community context

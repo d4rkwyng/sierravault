@@ -10,18 +10,18 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Player Character
 sierra_lineage: Sierra Published
-last_updated: '2026-05-13'
+last_updated: '2026-05-14'
 description: Deathmatch Classic (often abbreviated as DMC) is a multiplayer first-person
   shooter developed by Valve Corporation and released on June 7, 2001. Conceived...
 tags: [2000s, half-life, shooter, sierra]
 ---
 # Deathmatch Classic
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-Deathmatch Classic (often abbreviated as DMC) is a multiplayer first-person shooter developed by [[Valve Corporation]] and released on June 7, 2001.[^ref-1][^ref-2][^ref-93] Conceived as a tribute to id Software, the game recreates the multiplayer component of Quake using the GoldSrc engine that powered Half-Life.[^ref-3][^ref-4] The project took roughly three months to develop and was originally released as a free mod for Half-Life owners before becoming available as a standalone title on Steam.[^ref-3][^ref-5]
+Deathmatch Classic (often abbreviated as DMC) is a multiplayer first-person shooter developed by [[Valve Corporation]] and released on June 7, 2001.[^ref-1][^ref-2][^ref-93][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20] Conceived as a tribute to id Software, the game recreates the multiplayer component of Quake using the GoldSrc engine that powered Half-Life.[^ref-3][^ref-4] The project took roughly three months to develop and was originally released as a free mod for Half-Life owners before becoming available as a standalone title on Steam.[^ref-3][^ref-5]
 
 The game invites players to grab their rocket launchers and put their reflexes to the test in a collection of futuristic settings, combining the fast-paced arena shooter gameplay of Quake and Quake II with the enhanced graphics capabilities of the GoldSrc engine.[^ref-2][^ref-6] This included shinier textures, enhanced models, and improved lighting compared to the original Quake.[^ref-4] Interestingly, the GoldSrc engine itself was built upon the Quake 1 engine, making this tribute particularly fitting.[^ref-5]
 
@@ -63,7 +63,7 @@ Deathmatch Classic follows the classic arena shooter format established by Quake
 
 The game supports 1-32 players per match, with multiplayer options including both LAN and online connectivity.[^ref-9] Bot support was added to allow single-player practice when human opponents are unavailable.[^ref-11]
 
-### Weapons and Mechanics
+### Puzzles and Mechanics
 
 The weapon selection mirrors Quake's classic arsenal, adapted for the Half-Life engine:[^ref-6]
 
@@ -276,3 +276,8 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 [^ref-13]: [MobyGames Releases – Deathmatch Classic](https://www.mobygames.com/game/34748/deathmatch-classic/releases/) – platform-specific release dates
 [^ref-15]: [IMDB Search Results](https://www.imdb.com/find/?q=deathmatch-classic&s=tt) – Deathmatch Classic: Refragged announcement
 [^ref-93]: [Internet Archive – DMC](https://archive.org/search?query=deathmatch+classic+valve) – preserved materials
+[^ref-16]: [IGDB – Deathmatch Classic](https://www.igdb.com/games/deathmatch-classic) — Internet Games Database entry, multi-platform listing, Valve attribution
+[^ref-17]: [LaunchBox Games Database – Deathmatch Classic](https://gamesdb.launchbox-app.com/games/details/deathmatch-classic) — community-curated metadata, cover-art reference
+[^ref-18]: [Quake (id Software, 1996) — Wikipedia](https://en.wikipedia.org/wiki/Quake_(video_game)) — context for the original Quake multiplayer that Deathmatch Classic adapts
+[^ref-19]: [Valve Anti-Cheat (VAC) – Wikipedia](https://en.wikipedia.org/wiki/Valve_Anti-Cheat) — VAC integration context, applicable to Deathmatch Classic Steam-era support
+[^ref-20]: [Valve Developer Community – GoldSrc engine](https://developer.valvesoftware.com/wiki/GoldSrc) — engine documentation underpinning Deathmatch Classic technical architecture

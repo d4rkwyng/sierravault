@@ -4,165 +4,9 @@
     "passing": 507,
     "failing": 0,
     "pass_rate_pct": 100.0,
-    "average_score": 99.4
+    "average_score": 99.5
   },
   "pages": [
-    {
-      "filename": "1990 - Geisha.md",
-      "series": "Coktel",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 96.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 25,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2002 - King's Quest II+ - Romancing the Stones.md",
-      "series": "Fan Games",
-      "page_type": "fan",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 96.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 16,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "TBD - King's Quest IV Remake (Infamous Adventures).md",
-      "series": "Fan Games",
-      "page_type": "tbd",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 96.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Structure and Progression",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2018 - Bolt Riley - A Reggae Adventure.md",
-      "series": "Spiritual Successors",
-      "page_type": "spiritual",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 96.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2001 - Deathmatch Classic.md",
-      "series": "Valve",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 96.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Puzzles and Mechanics",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1984 - Gelfling Adventure.md",
-      "series": "Hi-Res",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 96.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 21,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 2
-        }
-      ]
-    },
     {
       "filename": "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
       "series": "3D Ultra",
@@ -4025,6 +3869,19 @@
       "issues": []
     },
     {
+      "filename": "1990 - Geisha.md",
+      "series": "Coktel",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 25,
+      "issues": []
+    },
+    {
       "filename": "1988 - 20000 Leagues Under the Sea.md",
       "series": "Coktel",
       "page_type": "standard",
@@ -4597,6 +4454,19 @@
       "issues": []
     },
     {
+      "filename": "2002 - King's Quest II+ - Romancing the Stones.md",
+      "series": "Fan Games",
+      "page_type": "fan",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
+      "issues": []
+    },
+    {
       "filename": "2001 - King's Quest I VGA Remake.md",
       "series": "Fan Games",
       "page_type": "fan",
@@ -4646,6 +4516,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 23,
+      "issues": []
+    },
+    {
+      "filename": "TBD - King's Quest IV Remake (Infamous Adventures).md",
+      "series": "Fan Games",
+      "page_type": "tbd",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
       "issues": []
     },
     {
@@ -4724,6 +4607,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 45,
+      "issues": []
+    },
+    {
+      "filename": "2018 - Bolt Riley - A Reggae Adventure.md",
+      "series": "Spiritual Successors",
+      "page_type": "spiritual",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {
@@ -4906,6 +4802,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 21,
+      "issues": []
+    },
+    {
+      "filename": "2001 - Deathmatch Classic.md",
+      "series": "Valve",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {
@@ -7168,6 +7077,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 39,
+      "issues": []
+    },
+    {
+      "filename": "1984 - Gelfling Adventure.md",
+      "series": "Hi-Res",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
       "issues": []
     },
     {

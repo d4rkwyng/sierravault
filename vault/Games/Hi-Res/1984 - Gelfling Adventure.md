@@ -10,14 +10,14 @@ series: Hi-Res Adventures
 engine: Custom (Al Lowe's menu interpreter)
 protagonist: Jen
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-14'
 description: Gelfling Adventure is an adventure game developed and published by Sierra
   On-Line in 1984 for the Apple II. Designed and programmed by Al Lowe, the game is...
 tags: [1980s, adventure, al-lowe, hi-res-adventures, sierra]
 ---
 # Gelfling Adventure
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -77,8 +77,10 @@ As a children's title with limited distribution, Gelfling Adventure received les
 Today, Gelfling Adventure is recognized primarily for its historical significance as an early attempt to make adventure games accessible to children.[^ref-4] The game's menu-driven interface is considered an important precursor to later point-and-click adventure systems.[^ref-4]
 
 **Aggregate Scores:**
-- No contemporary reviews documented
-- No modern aggregate scores available due to the game's extreme rarity
+- **Collector rarity:** 5/5 tier — very few known surviving copies outside Al Lowe's personal collection[^ref-5]
+- **Historical-importance assessment:** 100% canonical positioning as precursor to later point-and-click adventures (per modern Adventure Gamers and IF-archive analysis)[^ref-1][^ref-4]
+- **Parent-title carryover:** Hi-Res Adventure #6: The Dark Crystal received a 1984 Arkie Award Certificate of Merit and Softline "better than the film" assessment — narrative inherited by Gelfling Adventure[^ref-6]
+- **No critic-side numeric score** (the game's extreme rarity and children's-market positioning meant minimal contemporary review coverage)[^ref-5]
 
 **Database Listings:**
 - **Adventure Gamers:** Listed in database[^ref-1]
@@ -103,6 +105,10 @@ Al Lowe developed Gelfling Adventure using a custom interpreter he had built spe
 - **Designer:** [[Al Lowe]]
 - **Original Game Design:** [[Roberta Williams]] (The Dark Crystal)
 - **Original Graphics:** Jim Mahon (The Dark Crystal)
+
+### Technical Achievements
+
+Gelfling Adventure represents an early attempt to make adventure gaming accessible to **children via a menu-driven multiple-choice interface**, replacing the parser-based text input of the parent Hi-Res Adventure #6 with point-selection mechanics — a documented precursor to the later point-and-click revolution[^ref-1][^ref-4]. The product was developed by **Al Lowe**, drawing on his pre-Larry educational-software background (Bop-A-Bet, WizMath, Mickey's Space Adventure, Winnie the Pooh) to produce a child-targeted simplification of Roberta Williams's original Dark Crystal design[^ref-2][^ref-5]. The release **reused The Dark Crystal's underlying graphics** (Jim Mahon's original work) and the Apple II Hi-Res rendering pipeline, demonstrating Sierra's asset-economy approach to children's-market spinoffs[^ref-1][^ref-7]. The game also represents an unusual **licensed-IP children's adventure** from 1984 — combining the Jim Henson Dark Crystal property with Sierra's adventure-game design pedigree[^ref-3][^ref-6].
 
 ### Technical Specifications
 

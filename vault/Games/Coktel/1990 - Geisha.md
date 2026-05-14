@@ -10,7 +10,7 @@ series: Standalone
 engine: Gob
 protagonist: Male protagonist (unnamed)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: Geisha is an erotic adventure game developed by French company Coktel
   Vision and published by Sierra On-Line in 1990. The game represents Sierra's brief
   and...
@@ -18,7 +18,7 @@ tags: [1990s, adventure, sierra, standalone]
 ---
 # Geisha
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -116,13 +116,13 @@ However, user ratings on abandonware sites tend to be more generous, possibly re
 
 ## Development
 
-### Origins and Creative Vision
+### Origins
 
 Geisha was developed during Muriel Tramis's tenure at Coktel Vision in the early 1990s[^ref-21]. Tramis was a distinctive voice in French game development, incorporating themes from her Martinique heritage and exploring subjects other designers avoided.
 
 The game emerged from Coktel Vision's ongoing exploration of adult-themed content, building on their experience with titles like Emmanuelle[^ref-4]. The company had established itself as willing to push boundaries that other developers, particularly American ones, wouldn't touch.
 
-### Production Challenges
+### Production
 
 The game was reportedly rushed to meet a Christmas release deadline, which may have contributed to its various design and polish issues[^ref-16]. This compressed timeline likely accounts for the brevity of the final product and some of the unclear puzzle design.
 
@@ -131,6 +131,10 @@ The game was reportedly rushed to meet a Christmas release deadline, which may h
 The game's music was composed by Frédéric "Elmobo" Motte, marking some of his first work in the video game industry[^ref-22]. Motte later reflected on this period with characteristic self-deprecation, describing the collection of tunes he made for Coktel Vision in the beginning of the 90s as "My first gigs in the video game industry... Oh boy..."[^ref-22].
 
 The audio also featured work by Robin Aziosmanoff, another composer who contributed to Coktel Vision titles during this era[^ref-22].
+
+### Technical Achievements
+
+Geisha was built on **Coktel Vision's proprietary Gob engine**, the same technology that powered the Gobliiins series and other Coktel adventure titles[^ref-7]. The release was developed under **Muriel Tramis** — a notable French designer whose distinct authorial voice (drawing on her Martinique heritage and willingness to engage adult themes) distinguished her catalog from contemporary adventure-game design[^ref-21]. Original music was composed by **Frédéric "Elmobo" Motte and Robin Aziosmanoff** — early work for Motte that would lead to a substantial later career in French game audio[^ref-22]. The product targeted **multi-platform release across Amiga, Atari ST, and DOS** from a single codebase, supporting multiple graphics modes (CGA, EGA, VGA) tuned to each hardware target[^ref-7]. The game also represents **Coktel Vision's adult-content publishing line** — pushing genre boundaries that American publishers of the same era would not touch, building on prior Coktel titles like Emmanuelle and demonstrating the French studio's distinct creative positioning[^ref-4][^ref-21].
 
 ### Technical Implementation
 

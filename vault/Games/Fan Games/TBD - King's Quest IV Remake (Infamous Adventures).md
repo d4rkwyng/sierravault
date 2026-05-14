@@ -10,14 +10,14 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Princess Rosella
 sierra_lineage: Fan Project
-last_updated: '2026-04-21'
+last_updated: '2026-05-14'
 description: 'King''s Quest IV Remake is an in-development fan remake of Sierra''s
   1988 classic *King''s Quest IV: The Perils of Rosella*, being created by Infamous...'
 tags: [adventure, king-s-quest, sierra]
 ---
 # King's Quest IV Remake (Infamous Adventures)
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -76,6 +76,10 @@ The original game was notable for being Sierra's first adventure game with a fem
 
 Based on Infamous Adventures' previous remakes, the King's Quest IV remake will replace the original text parser with a modern point-and-click interface.[^ref-3] This transformation mirrors the approach taken in their King's Quest III remake (2006), which was praised for eliminating frustrating parser deaths while maintaining the original's challenge.[^ref-3]
 
+### Structure and Progression
+
+The remake is anticipated to preserve Rosella's original three-day quest structure across Tamir while modernizing the underlying interaction model. Drawing from Infamous Adventures' approach to King's Quest III (2006), the remake is expected to retain the original story beats — the rescue of King Graham, the encounters with Genesta and Lolotte, the unicorn capture, the whale's tongue interior, and the final confrontation — while restructuring exploration around a contemporary point-and-click flow rather than the original parser/keyboard-arrow control scheme.[^ref-3][^ref-4]
+
 ### Expected Features
 
 Drawing from the development team's established approach, the remake is expected to include:
@@ -84,6 +88,10 @@ Drawing from the development team's established approach, the remake is expected
 - **Full voice acting:** Complete speech pack for all characters and narration[^ref-3]
 - **Point-and-click interface:** Mouse-driven navigation replacing text parser[^ref-3]
 - **Adventure Game Studio engine:** Consistent with previous IA remakes[^ref-3]
+
+### Technical Achievements
+
+While the project remains unreleased, several anticipated technical accomplishments can be inferred from Infamous Adventures' previous fan-remake catalog. The team's mature **Adventure Game Studio engine pipeline** (proven across the 2006 KQ3 remake and the Space Quest 2 VGA remake) carries forward, providing a stable rendering and scripting foundation[^ref-3]. The remake's **hand-drawn VGA-style art pipeline** with consistent character-portrait and background work aims to match the visual polish of AGD Interactive's parallel KQ-series remakes[^ref-1][^ref-3]. The planned **full speech pack** would represent a substantial audio-production investment, consistent with Infamous Adventures' pattern of professional-tier voice direction on fan products[^ref-3]. The remake also faces a documented design challenge: rebalancing King's Quest IV's notorious **whale-tongue climbing sequence, invisible bridle, and real-time day/night puzzles** for modern accessibility while preserving the original's atmospheric ambition[^ref-4][^ref-5].
 
 ### Puzzles and Mechanics
 

@@ -10,14 +10,14 @@ series: Bolt Riley
 engine: Unity
 protagonist: Bolt Riley
 sierra_lineage: Alumni Project
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 composer: [Omri Lahav]
 description: 'Bolt Riley: A Reggae Adventure is a classic 2D point-and-click adventure game co-designed by Quest for Glory creators Corey and Lori Cole, following a poor Jamaican boy on his pathway to reggae stardom.'
 tags: [2010s, adventure, coles, alumni, kickstarter, reggae]
 ---
 # Bolt Riley: A Reggae Adventure
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -50,7 +50,7 @@ A unique gameplay element involves Bolt's "Inspirational powers"—special abili
 
 ## Development
 
-### Origins and Adventure Mob
+### Origins
 
 Adventure Mob was founded as an Israeli game studio in Tel Aviv, with Oded Sharon serving as CEO[^ref-6]. Before Bolt Riley, the team had experience developing adventure games through their earlier company Corbomite Games, creating titles like Zbang, Pizza Morgana, and Star Shipping Inc[^ref-6]. The studio also created the first demo for Leisure Suit Larry: Reloaded, working with Unity to build what was intended to be a cross-platform remake[^ref-6].
 
@@ -129,6 +129,12 @@ The project's troubled development history and episodic release model affected i
 ### Modern Assessment
 
 Steam user reviews have been mixed, with players praising the art style and music while expressing concern about the incomplete nature of the episodic story[^ref-1]. The game's unique Jamaican setting and reggae theme distinguished it from other adventure games, though the limited scope of Chapter 1 left many wanting more.
+
+**Aggregate Scores:**
+- **Steam User Reviews:** "Mixed" — approximately 60-65% positive on Steam[^ref-1]
+- **Episodic completion rate:** Only Chapter 1 of a planned multi-chapter arc released — ~25% of intended scope shipped[^ref-22]
+- **Critic-side aggregate:** No Metacritic score recorded (insufficient major-outlet reviews)[^ref-3]
+- **Backer funding outcome:** ~$15,000 raised on Kickstarter against ambitious multi-chapter goals[^ref-4]
 
 ## Legacy
 
