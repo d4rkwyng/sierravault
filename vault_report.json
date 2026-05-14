@@ -8,38 +8,6 @@
   },
   "pages": [
     {
-      "filename": "2015 - Order of the Thorne - The King's Challenge.md",
-      "series": "Spiritual Successors",
-      "page_type": "spiritual",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Puzzles and Mechanics",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "1999 - 3-D Ultra Lionel TrainTown.md",
       "series": "3D Ultra",
       "page_type": "standard",
@@ -5475,6 +5443,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 32,
+      "issues": []
+    },
+    {
+      "filename": "2015 - Order of the Thorne - The King's Challenge.md",
+      "series": "Spiritual Successors",
+      "page_type": "spiritual",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {

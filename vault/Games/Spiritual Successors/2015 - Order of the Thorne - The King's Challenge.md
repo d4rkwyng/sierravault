@@ -10,7 +10,7 @@ series: Order of the Thorne
 engine: Adventure Game Studio
 protagonist: Finn the Bard
 sierra_lineage: Spiritual Successor
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: '**Order of the Thorne: The King''s Challenge** is a point-and-click
   adventure game developed by Infamous Quests and released in 2015. Described as "a
   classic...'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: The King's Challenge
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -106,7 +106,7 @@ This mechanic draws direct inspiration from LucasArts' classic Loom, featuring "
 
 The lute system adds a creative dimension to puzzle-solving beyond traditional inventory manipulation.
 
-### Classic Adventure Puzzles
+### Puzzles and Mechanics
 
 Beyond the musical elements, the game includes traditional adventure game puzzles involving:
 - Item collection and combination
@@ -142,11 +142,19 @@ User reception has been generally positive among fans of classic Sierra-style ad
 
 The 4.1/5 rating on GOG.com based on 28 reviews and 4.4/5 on itch.io suggests the target audience—fans of classic adventure games—responded favorably to the game's approach.
 
+### Modern Assessment
+
+A decade after release, *The King's Challenge* retains a small but loyal following as a successful proof-of-concept for the Sierra-style fan-revival genre. The **70% MobyGames aggregate** and **4.1/5 GOG user score** remain the page's defining critical metrics[^ref-1][^ref-4]. The game's lasting value lies more in its catalyst role for the broader Infamous Quests catalog (Quest for Infamy, the in-development Roehm to Ruin and Fortress of Fire) than in its standalone commercial performance — a position consistent with bite-sized anthology-launch products generally.[^ref-3][^ref-7]
+
 ## Development
 
-### Studio Background
+### Origins
 
-Order of the Thorne: The King's Challenge was developed by Infamous Quests, an independent studio that began as "originally an amateur developer of VGA game remakes"[^ref-3]. The studio built its reputation by creating fan remakes of classic Sierra games before moving on to original titles.
+Order of the Thorne: The King's Challenge was developed by Infamous Quests, an independent studio that began as "originally an amateur developer of VGA game remakes"[^ref-3]. The studio built its reputation by creating fan remakes of classic Sierra games — Quest for Glory II and King's Quest III VGA fan rebuilds, plus Space Quest 2 VGA work — before moving on to original commercial titles. The King's Challenge was conceived as the first entry in a planned anthology series of bite-sized adventures, with each future entry intended to revisit and expand the "Order of the Thorne" lore from a different angle.[^ref-3][^ref-5]
+
+### Production
+
+The Kickstarter campaign for The King's Challenge launched in 2014 alongside Quest for Infamy: Roehm to Ruin, with both games as joint deliverables.[^ref-5] The crowdfunding allowed the small studio to pursue their vision of creating a classic-style adventure game while involving fans in the development process; Kickstarter backers received various rewards and their involvement is commemorated in the game through Easter eggs.[^ref-5]
 
 ### Crowdfunding
 
