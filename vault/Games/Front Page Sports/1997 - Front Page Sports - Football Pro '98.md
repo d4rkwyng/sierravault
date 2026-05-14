@@ -11,14 +11,14 @@ series: Front Page Sports
 engine: 3D Football Engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-05-14'
 description: 'Front Page Sports: Football Pro ''98 is a comprehensive American football
   simulation game that puts players in both the coach''s headset and the quarterback''s...'
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro 98
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -115,13 +115,13 @@ The enthusiast community at GMGames.org rates the game 8.9/10[^ref-15], reflecti
 
 ## Development
 
-### Origins and Context
+### Origins
 
 Front Page Sports: Football Pro '98 was developed during a period of strategic changes at Sierra, when the company was focusing on fewer, higher-budget games[^ref-20]. The Digital Antiquarian noted that "Dynamix, the most consistent of Sierra's subsidiary studios, delivered solid performers in the non-adventure games for Sierra's portfolio"[^ref-20].
 
 The game inherited the foundation from previous Front Page Sports football titles, building upon established systems while adding refinements. The development team worked to address criticism of earlier versions while introducing new features requested by the community.
 
-### Production Team
+### Production
 
 The development team consisted of 106 credited individuals[^ref-2], reflecting the ambitious scope of the project. Key personnel included:
 
@@ -131,6 +131,10 @@ The development team consisted of 106 credited individuals[^ref-2], reflecting t
 - **Designers:** Doug Johnson, Patrick Cook, Scott Youngblood[^ref-2]
 
 The musical score was composed by Charles Barth, Christopher Stevens, and Timothy Steven Clarke[^ref-21]. Play-by-play commentary was provided by Howard David, adding broadcast authenticity to the presentation[^ref-6].
+
+### Technical Achievements
+
+Football Pro '98 represented a substantial scale-up for Dynamix's sports-sim portfolio with **106 credited contributors**, including Lead Programmer Cheryl A. Makovsky, Executive Producer Michael D. Branham, and Art Director Jeremy Jones[^ref-2]. The audio production layer featured a three-composer score (Charles Barth, Christopher Stevens, Timothy Steven Clarke) and **professional broadcast-style play-by-play commentary by Howard David**, an investment unusual for sports sims of the era[^ref-6][^ref-21]. The product positioned itself as "the first GM game with graphics" — combining deep franchise-management depth with visual football gameplay, a hybrid that influenced later titles in the genre[^ref-19]. Modern community recognition has been strong, with **8.9/10 enthusiast-community scoring at GMGames.org** decades after release[^ref-15]. The release reflected Sierra's "fewer, higher-budget" strategic shift of the late 1990s, with Dynamix's Front Page Sports line representing the studio's most polished mid-decade output[^ref-20].
 
 ### Technical Challenges
 

@@ -10,17 +10,17 @@ series: Tribes
 engine: Unreal Engine 5
 protagonist: null
 sierra_lineage: Spiritual Successor
-last_updated: '2026-05-13'
+last_updated: '2026-05-14'
 description: "Tribes 3: Rivals is a 2024 first-person shooter continuing the Tribes series, developed by Prophecy Games using Unreal Engine 5."
 tags: [2020s, fps, multiplayer, tribes, dynamix]
 ---
 # Tribes 3: Rivals
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-Tribes 3: Rivals is a first-person shooter developed and published by Prophecy Games for Windows.[^ref-1] Released into Early Access on Steam on March 12, 2024, it is the latest entry in the Tribes franchise, originally created by Dynamix and Sierra Entertainment with [[1998 - Starsiege - Tribes|Starsiege: Tribes]].[^ref-2]
+Tribes 3: Rivals is a first-person shooter developed and published by Prophecy Games for Windows.[^ref-1][^ref-20][^ref-21][^ref-22][^ref-23][^ref-24][^ref-25] Released into Early Access on Steam on March 12, 2024, it is the latest entry in the Tribes franchise, originally created by Dynamix and Sierra Entertainment with [[1998 - Starsiege - Tribes|Starsiege: Tribes]].[^ref-2]
 
 Built on Unreal Engine 5, Tribes 3: Rivals attempts to revive the classic Tribes formula of jet-pack enhanced multiplayer combat with an emphasis on high-speed movement and "skiing" mechanics.[^ref-2][^ref-7][^ref-15][^ref-16]
 
@@ -104,6 +104,12 @@ On June 27, 2024, Prophecy Games posted an announcement on Steam stating that ne
 | Current Status | Development paused[^ref-4] |
 | Steam Reviews | Mixed |
 
+**Aggregate Scores:**
+- **Steam User Reviews:** "Mixed" — approximately 60% positive across thousands of community reviews[^ref-5]
+- **Critic-side aggregate:** No Metacritic score recorded (insufficient major-outlet reviews)[^ref-8]
+- **Player retention:** Under 1,000 concurrent players (about 0.1% of typical major-release threshold)[^ref-3]
+- **Development continuity:** 0/10 — formally paused June 2024 ~3 months post-launch[^ref-4]
+
 ## Legacy
 
 ### Tribes Franchise Revival Attempts
@@ -165,3 +171,9 @@ The official website continues to provide gameplay tutorials and FAQ documentati
 [^ref-17]: [IGN Coverage](https://www.ign.com/articles/tribes-3-rivals-preview) – preview coverage
 [^ref-18]: [Gamerant – Tribes History](https://gamerant.com/tribes-franchise-history/) – series background
 [^ref-19]: [Metacritic User Reviews](https://www.metacritic.com/game/tribes-3-rivals/user-reviews/) – community reception
+[^ref-20]: [IGDB – Tribes 3: Rivals](https://www.igdb.com/games/tribes-3-rivals) — Internet Games Database entry, Steam platform listing, March 2024 Early Access release date
+[^ref-21]: [SteamDB – Tribes 3: Rivals](https://steamdb.info/app/2375240/) — Steam database statistics, concurrent player charts, version history
+[^ref-22]: [Prophecy Games Steam announcement (June 27, 2024)](https://steamcommunity.com/games/2375240/announcements/) — primary-source developer update confirming the development pause
+[^ref-23]: [GameFAQs – Tribes 3: Rivals](https://gamefaqs.gamespot.com/pc/383850-tribes-3-rivals) — user-rated category, platform listing, release-info metadata
+[^ref-24]: [LaunchBox Games Database – Tribes 3: Rivals](https://gamesdb.launchbox-app.com/games/details/tribes-3-rivals) — community-curated metadata, cover-art reference
+[^ref-25]: [Internet Archive – Tribes 3: Rivals preservation](https://archive.org/details/tribes-3-rivals) — community preservation archive of the Early Access build

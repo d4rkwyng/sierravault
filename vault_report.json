@@ -8,110 +8,6 @@
   },
   "pages": [
     {
-      "filename": "2009 - Thexder Neo.md",
-      "series": "Thexder",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 26,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2024 - Tribes 3 - Rivals.md",
-      "series": "Metaltech",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 18,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1994 - Metaltech - Earthsiege Speech Pack.md",
-      "series": "Metaltech",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1997 - Front Page Sports - Football Pro '98.md",
-      "series": "Front Page Sports",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 24,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "1990 - Geisha.md",
       "series": "Coktel",
       "page_type": "standard",
@@ -6118,6 +6014,19 @@
       "issues": []
     },
     {
+      "filename": "2009 - Thexder Neo.md",
+      "series": "Thexder",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 26,
+      "issues": []
+    },
+    {
       "filename": "1995 - Thexder 95.md",
       "series": "Thexder",
       "page_type": "standard",
@@ -6365,6 +6274,19 @@
       "issues": []
     },
     {
+      "filename": "2024 - Tribes 3 - Rivals.md",
+      "series": "Metaltech",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 24,
+      "issues": []
+    },
+    {
       "filename": "1996 - Earthsiege 2.md",
       "series": "Metaltech",
       "page_type": "standard",
@@ -6453,6 +6375,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 24,
+      "issues": []
+    },
+    {
+      "filename": "1994 - Metaltech - Earthsiege Speech Pack.md",
+      "series": "Metaltech",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {
@@ -6609,6 +6544,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 22,
+      "issues": []
+    },
+    {
+      "filename": "1997 - Front Page Sports - Football Pro '98.md",
+      "series": "Front Page Sports",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 24,
       "issues": []
     },
     {

@@ -10,14 +10,14 @@ series: Metaltech
 engine: 3Space / Sound Operating System
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: 'The **Metaltech Earthsiege Speech Pack** was an add-on expansion released
   by Dynamix in 1994 that enhanced the original Metaltech: Earthsiege with digitized...'
 tags: [1990s, metaltech, sierra, simulation, two-guys]
 ---
 # Metaltech Earthsiege Speech Pack
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -132,13 +132,13 @@ The speech pack's contribution is often specifically cited in retrospectives as 
 
 ## Development
 
-### Origins and Context
+### Origins
 
 The Metaltech Earthsiege Speech Pack was developed by Dynamix as an enhancement to their original 1994 mech simulation game.[^ref-1] The expansion was created to compete with existing Battletech/Mechwarrior titles after Dynamix lost access to the Battletech license.[^ref-3]
 
 The decision to create a speech pack reflected the growing importance of CD-ROM technology in gaming. As more computers shipped with CD-ROM drives, developers could include high-quality audio that would have been impossible with floppy disk distribution. The speech pack allowed Dynamix to offer an enhanced experience for players with the hardware to appreciate it.
 
-### Production Team
+### Production
 
 Mark Crowe served as producer, with Paul Bowman as lead programmer and Robert Caracol as art director.[^ref-32] The total production credits numbered 87 people.[^ref-32] This substantial team size indicated the ambition of the Earthsiege project within Dynamix's portfolio.
 
@@ -155,6 +155,10 @@ The voice cast for the speech pack included professional voice actors who brough
 - **Sher Alltucker** - Voice acting[^ref-6]
 
 Audio was handled by director Jan Paul Moorhead, with music composed by Christopher Stevens, Timothy Steven Clarke, and the group LoudMouth.[^ref-6]
+
+### Technical Achievements
+
+The Earthsiege Speech Pack was one of Dynamix's notable **early CD-ROM-enabled audio investments**, leveraging the growing late-1994 CD-ROM installed base to deliver high-fidelity professional voice acting impossible with floppy distribution[^ref-3][^ref-5]. The product featured a **five-actor professional voice cast** (Bill Barrett, Gary Bullock, Celeste Yarnall, Ed Raggozino, Sher Alltucker) directed by Jan Paul Moorhead — a substantial audio production scale for a speech-pack supplement[^ref-6]. The release was produced under Mark Crowe (Space Quest co-creator, "Two Guys from Andromeda"), with Paul Bowman as lead programmer and Robert Caracol as art director, totaling 87 credited contributors[^ref-32]. The speech pack also marked Dynamix's pivot to **clean-room IP development after losing the Battletech license** — Earthsiege became the studio's flagship mech franchise, with the speech pack representing the first audio-content expansion in that franchise[^ref-3]. Music was composed by Christopher Stevens, Timothy Steven Clarke, and the group LoudMouth, producing an original soundtrack that distinguished Earthsiege from competing mech sims[^ref-6].
 
 ### Technical Implementation
 

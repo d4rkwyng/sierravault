@@ -10,14 +10,14 @@ series: Thexder
 engine: Microsoft Game SDK
 protagonist: Thexder (Hyper Dual Armor)
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: Thexder Neo is a 2009 remake of the classic 1985 arcade-style shooter
   originally developed by Game Arts. The game features a transforming robot protagonist...
 tags: [2000s, shooter, sierra, thexder]
 ---
 # Thexder Neo
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -129,7 +129,7 @@ However, some players appreciated the approach. One described it as "a pure adap
 
 ## Development
 
-### Origins and Revival Strategy
+### Origins
 
 Thexder Neo represents Square Enix's effort to revive classic gaming properties from their portfolio. The project aimed to "reactivate the original THEXDER game with revamped graphics" while maintaining the core gameplay that defined the 1985 original[^ref-26].
 
@@ -156,6 +156,10 @@ The soundtrack features work from multiple composers:
 - **Hibiki Godai** (opening music)
 
 The game notably includes Ludwig van Beethoven's Moonlight Sonata as ending music[^ref-28], a callback to the original game's use of classical music. This unusual choice—using 18th-century classical music in a futuristic robot shooter—was one of the original Thexder's distinctive characteristics that the remake preserved.
+
+### Technical Achievements
+
+Thexder Neo represents Square Enix's deliberate **ground-up rebuild of the 1985 Game Arts / Sierra-published original**, replacing simple ports with a modern engine while preserving the original gameplay loops[^ref-26][^ref-27]. The product was specifically engineered for the **PlayStation Network as a budget download**, leveraging PSN's small-package distribution model in an era when PSN was still establishing its budget-revival catalog[^ref-26]. Designers Hibiki Godai and Satoshi Uesaka led the rebuild effort with original audio composition included to refresh the late-1980s soundtrack for modern hardware[^ref-26][^ref-27]. The release also represents one of the few **Sierra-published / Game Arts-developed classics** to receive a modern revival, demonstrating Square Enix's strategy for reviving its broader licensed-IP portfolio across the late-2000s PSN launch wave[^ref-26].
 
 ### Technical Implementation
 
