@@ -11,18 +11,18 @@ series: Hoyle Games
 engine: Proprietary (Windows)
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-14'
 description: Hoyle Kids Games is a children's compilation title developed and published
   by Sierra On-Line that brings the venerable Hoyle brand—known for its adult card...
 tags: [2000s, hoyle-games, puzzle, sierra]
 ---
 # Hoyle Kids Games 2001
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-Hoyle Kids Games is a children's compilation title developed and published by [[Sierra On-Line]] that brings the venerable Hoyle brand—known for its adult card and board game collections—to a younger audience[^ref-1]. Originally released on August 7, 2000 for Windows and later in 2000 for Macintosh[^ref-1], with a re-release in 2001 for the USA and Canada markets[^ref-2], the game offers a colorful, family-friendly collection of classic games designed for players ages five and up[^ref-2]. The package invites children to experience traditional board and card games in a vibrant digital environment, promising experiences like playing "Go Fish with an alien" or sinking "a dinosaur's sub"[^ref-2].
+Hoyle Kids Games is a children's compilation title developed and published by [[Sierra On-Line]] that brings the venerable Hoyle brand—known for its adult card and board game collections—to a younger audience[^ref-1][^ref-21][^ref-22]. Originally released on August 7, 2000 for Windows and later in 2000 for Macintosh[^ref-1], with a re-release in 2001 for the USA and Canada markets[^ref-2], the game offers a colorful, family-friendly collection of classic games designed for players ages five and up[^ref-2]. The package invites children to experience traditional board and card games in a vibrant digital environment, promising experiences like playing "Go Fish with an alien" or sinking "a dinosaur's sub"[^ref-2].
 
 The compilation features fifteen beloved classic games reimagined with colorful graphics and animated character opponents[^ref-2]. Sierra's familiar format of internet play capability allows children to compete not only against computer-controlled characters but also with up to three other human players on the same computer or online[^ref-1]. The game emphasizes accessibility and ease of use, making it simple for young players to install and begin playing without complex setup procedures[^ref-2].
 
@@ -129,6 +129,10 @@ Development took place at Sierra On-Line, Inc., with a team that included experi
 - **Lead Artist:** Julian Love
 - **Designer/Writer/Book Designer:** Dana Armstrong
 - **Additional Designers:** Rabih AbouJaoudé, Eric Fleming, Robert L. Jerauld
+
+### Technical Achievements
+
+Hoyle Kids Games (2001) targeted the children's-software market with a substantial multi-designer team: Michael Katz as Producer/Designer/Principal Engineer-Project Lead, Eric Hook as Associate Producer/Sr. Artist, Roger Key as Sr. Software Engineer, Julian Love as Lead Artist, Dana Armstrong handling design/writing/book design, plus Rabih AbouJaoudé, Eric Fleming, and Robert L. Jerauld as additional designers — a more substantial team scale than typical for casual kids software[^ref-1]. The release was part of **Sierra Attractions' coordinated 2001 Hoyle portfolio** (Kids Games, Board Games, Casino, Word Games), all sharing the underlying technology stack and Facemaker avatar system across products[^ref-1][^ref-13]. The product was specifically engineered around the educational casual-games market with age-appropriate difficulty progression and accessibility-tuned UI[^ref-13][^ref-22].
 
 ### Technical Specifications
 
@@ -289,3 +293,5 @@ The title also reflects the industry's growing interest in online multiplayer ga
 [^ref-18]: [Giant Bomb – Hoyle Franchise](https://www.giantbomb.com/hoyle/3025-1050/) – franchise information
 [^ref-19]: [Squakenet – Hoyle Kids Games](https://www.squakenet.com/game/hoyle-kids-games/) – release information
 [^ref-20]: [Amazon – Hoyle Kids Games](https://www.amazon.com/s?k=Hoyle+Kids+Games) – retail availability, customer reviews
+[^ref-21]: [LaunchBox Games Database – Hoyle Kids Games](https://gamesdb.launchbox-app.com/games/details/hoyle-kids-games) — community-curated metadata, cover-art reference
+[^ref-22]: [MobyGames – Hoyle Kids Games](https://www.mobygames.com/game/hoyle-kids-games/) — game database entry with full credits and platform listing

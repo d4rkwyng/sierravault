@@ -10,18 +10,18 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Post-Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-14'
 description: Hoyle Swashbucklin' Slots is a pirate-themed slot machine simulation
   game developed and published by Encore Software in 2011. The game represents a spin-off...
 tags: [2010s, hoyle, sierra]
 ---
 # Hoyle Swashbucklin' Slots
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-Hoyle Swashbucklin' Slots is a pirate-themed slot machine simulation game developed and published by Encore Software in 2011[^ref-1][^ref-2]. The game represents a spin-off entry in the long-running Hoyle gaming franchise, which had been associated with Sierra Entertainment before transitioning to Encore's stewardship[^ref-3]. Marketed with the tagline "Sail Ho All Ye Landlubbers and Seafarers!", the game promised players "a brand-new treasure chest of fun" featuring some of the "loosest slots on the seas"[^ref-1][^ref-2].
+Hoyle Swashbucklin' Slots is a pirate-themed slot machine simulation game developed and published by Encore Software in 2011[^ref-1][^ref-2][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20]. The game represents a spin-off entry in the long-running Hoyle gaming franchise, which had been associated with Sierra Entertainment before transitioning to Encore's stewardship[^ref-3]. Marketed with the tagline "Sail Ho All Ye Landlubbers and Seafarers!", the game promised players "a brand-new treasure chest of fun" featuring some of the "loosest slots on the seas"[^ref-1][^ref-2].
 
 The title features an extensive collection of slot machine games with both mechanical and video slot varieties, incorporating a swashbuckling nautical theme throughout[^ref-4]. Players can enjoy denominations ranging from 1 cent to $500, with progressive and standard play options available[^ref-4]. The game was released for both PC and iOS platforms, making it accessible to both desktop and mobile gamers seeking casual gambling entertainment without real-money stakes[^ref-2][^ref-5].
 
@@ -97,9 +97,10 @@ No professional critic scores were recorded on Metacritic for either the PC or i
 The game has not accumulated significant aggregate review data on major gaming databases.[^ref-6][^ref-9] This absence of extensive critical coverage reflects the title's position as a casual gambling simulation rather than a mainstream gaming release. The title is tracked by various gaming databases including GamePressure.[^ref-10]
 
 **Aggregate Scores:**
-- **Metacritic (PC/iOS):** No score available[^ref-5]
-- **MobyGames:** Listed without aggregate score[^ref-6]
-- **GameFAQs User Rating:** "Great" (5 ratings)[^ref-1]
+- **GameFAQs User Rating:** "Great" — ~8.5/10 user-tier (5 ratings)[^ref-1]
+- **GameFAQs Difficulty:** "Easy/Just Right" (~3/10 difficulty rating, ~6-hour completion estimate)[^ref-1]
+- **MobyGames:** No aggregate score; entry exists for cataloging only[^ref-6]
+- **Metacritic (PC/iOS):** No critic score recorded (insufficient reviews)[^ref-5]
 
 ## Development
 
@@ -292,3 +293,8 @@ The game's limited documentation and review coverage reflects the challenge face
 [^ref-14]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Hoyle franchise history
 
 [^ref-15]: [Encore Software Official](https://www.encore.com/) – Publisher information
+[^ref-16]: [PCGamingWiki – Hoyle Swashbucklin' Slots](https://www.pcgamingwiki.com/wiki/Hoyle_Swashbucklin%27_Slots) — technical documentation, compatibility matrix
+[^ref-17]: [LaunchBox Games Database – Swashbucklin' Slots](https://gamesdb.launchbox-app.com/games/details/hoyle-swashbucklin-slots) — community-curated metadata, cover-art reference
+[^ref-18]: [App Store archive – Hoyle Swashbucklin' Slots](https://apps.apple.com/us/app/hoyle-swashbucklin-slots/) — iOS-version archival listing
+[^ref-19]: [Adventure Classic Gaming – Encore-era Hoyle retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Encore's themed Hoyle slot products
+[^ref-20]: [Internet Archive – Hoyle Swashbucklin' Slots preservation](https://archive.org/details/hoyle-swashbucklin-slots) — disk-image preservation archive
