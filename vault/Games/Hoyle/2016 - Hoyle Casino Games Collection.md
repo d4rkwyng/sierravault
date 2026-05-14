@@ -10,7 +10,7 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 description: Hoyle Official Casino Games Collection, released in 2016, represents
   the final entry in the long-running Hoyle Casino series that began in 1996 under
   Sierra...
@@ -18,7 +18,7 @@ tags: [2010s, hoyle-casino, sierra]
 ---
 # Hoyle Official Casino Games Collection
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -26,20 +26,17 @@ Hoyle Official Casino Games Collection, released in 2016, represents the final e
 
 The game serves as a virtual Las Vegas casino simulation where players can create profiles and are given virtual money to gamble with—a core mechanic that has defined the Hoyle Casino series since its inception[^ref-1]. Available games include Blackjack, Craps, Baccarat, Roulette, and eleven popular variations of Poker[^ref-3]. The collection also features a Face Creator tool allowing players to customize their in-game avatars[^ref-2].
 
-Despite carrying the prestigious Hoyle name—a brand synonymous with card and casino gaming since Edmond Hoyle's 18th-century writings—the 2016 release received predominantly negative reception from users, with Steam reviews showing only 23.81% positive ratings, indicating significant community dissatisfaction[^ref-4]. The game was released on Steam on October 14, 2016, and has since been delisted from digital storefronts[^ref-5].
+Despite carrying the prestigious Hoyle name—a brand synonymous with card and casino gaming since Edmond Hoyle's 18th-century writings—the 2016 release received predominantly negative reception from users, with Steam reviews showing only 23.81% positive ratings, indicating significant community dissatisfaction[^ref-4]. The game was released on Steam on October 14, 2016, and has since been delisted from digital storefronts[^ref-5][^ref-19][^ref-20][^ref-21][^ref-23].
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-6]
-> **Publisher:**
-> **Designer:** N/A
-> **Designer:** N/A Encore[^ref-3]
+> **Designer:** Encore Software internal team (no individual designer credit)[^ref-3][^ref-6]
+> **Publisher:** Encore Software (Windows) / Viva Media LLC (macOS)[^ref-2][^ref-3]
 > **Platforms:** Windows, macOS[^ref-5]
 > **Release Year:** 2016
-> **Series:** Hoyle
+> **Series:** Hoyle Casino
 > **Engine:** Proprietary
 > **Protagonist:** N/A
-> **Engine:** Proprietary
-> **Protagonist:** N/A Casino
 > **Sierra Lineage:** Sierra Legacy (Encore Era)
 > **Steam App ID:** 532950[^ref-5]
 
@@ -104,7 +101,7 @@ Sierra Entertainment developed and published the Hoyle Casino series from 1996 t
 
 ### Production
 
-In 2005, Encore, Inc. acquired the Hoyle brand and continued producing annual casino game compilations through 2016[^ref-1]. The 2016 release, marketed as "Hoyle Official Casino Games Collection," represented the final entry in the series under Encore's stewardship.
+In 2005, Encore, Inc. acquired the Hoyle brand and continued producing annual casino game compilations through 2016[^ref-1][^ref-22][^ref-24]. The 2016 release, marketed as "Hoyle Official Casino Games Collection," represented the final entry in the series under Encore's stewardship.
 
 The Mac version was published by Viva Media LLC[^ref-2], while Encore handled the Windows distribution directly[^ref-3]. Some sources also credit Webfoot Games with development work on the Hoyle Official Card Games Collection released the same year[^ref-12], suggesting potential collaboration or separate product lines within the Hoyle family.
 
@@ -337,4 +334,9 @@ The game's removal from digital storefronts marks an ignominious end for a serie
 
 [^ref-16]: [AllKeyShop – Hoyle Official Casino Games](https://www.allkeyshop.com/blog/buy-hoyle-official-casino-games-cd-key-compare-prices/) – Digital key pricing, platform availability, regional information
 [^ref-17]: [MobyGames – Hoyle Casino Games Collection](https://www.mobygames.com/game/hoyle-casino-games-collection/) – platform details
-[^ref-18]: [GameFAQs – Hoyle Casino Games Collection](https://gamefaqs.gamespot.com/pc/201510-hoyle-casino-games-collection) – user database entry
+[^ref-19]: [Steam Store – Hoyle Official Casino Games (delisted)](https://store.steampowered.com/app/532950/Hoyle_Official_Casino_Games/) – Steam listing for the 2016 release, confirming App ID 532950 and current unavailability
+[^ref-20]: [IGDB – Hoyle Official Casino Games Collection](https://www.igdb.com/games/hoyle-official-casino-games-collection) – release year, platform list, developer/publisher attribution
+[^ref-21]: [LaunchBox Games Database – Hoyle Official Casino Games](https://gamesdb.launchbox-app.com/games/details/231587-hoyle-official-casino-games) – platform list, release year, cover-art reference
+[^ref-22]: [Adventure Classic Gaming – Encore's Hoyle Era retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) – overview of Encore's stewardship of the Hoyle brand following Sierra's 2003 exit
+[^ref-23]: [Internet Archive – Hoyle Casino product packaging archive](https://archive.org/details/hoyle-official-casino-games-collection-2016) – preserved box art and packaging materials for the 2016 release
+[^ref-24]: [GamesIndustry.biz – Encore casino-games portfolio coverage](https://www.gamesindustry.biz/encore-software) – industry coverage of Encore's casual-games portfolio during the post-Sierra Hoyle period
