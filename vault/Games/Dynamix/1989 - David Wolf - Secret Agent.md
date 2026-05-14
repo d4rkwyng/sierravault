@@ -10,18 +10,18 @@ series: David Wolf
 engine: 3Space
 protagonist: David Wolf
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-05-14'
 description: 'David Wolf: Secret Agent is an interactive spy adventure game developed
   by Dynamix and released in 1989. Billed as an "interactive movie," the game was...'
 tags: [1980s, david-wolf, sierra]
 ---
 # David Wolf: Secret Agent
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-David Wolf: Secret Agent is an interactive spy adventure game developed by Dynamix and released in 1989[^ref-1]. Billed as an "interactive movie," the game was designed to have "the look and feel of a James Bond film"[^ref-2] and represented Dynamix's ambitious attempt to create an adult-oriented story with real actors and digitized footage[^ref-3]. The game combined digitized 3-D graphics with action sequences, featuring what Dynamix called a "VCR Interface" that allowed players more control over vital game playing elements[^ref-4].
+David Wolf: Secret Agent is an interactive spy adventure game developed by Dynamix and released in 1989[^ref-1][^ref-19][^ref-20]. Billed as an "interactive movie," the game was designed to have "the look and feel of a James Bond film"[^ref-2] and represented Dynamix's ambitious attempt to create an adult-oriented story with real actors and digitized footage[^ref-3]. The game combined digitized 3-D graphics with action sequences, featuring what Dynamix called a "VCR Interface" that allowed players more control over vital game playing elements[^ref-4].
 
 This was a landmark project for Dynamix—their first self-published game[^ref-5]—and was described as "by far the biggest project Dynamix has ever developed" at the time of release[^ref-6]. The game represented everything Dynamix had learned over their first five years of development, combining digitized actors, rotoscoped animation, and polygon-filled 3D action sequences into what they hoped would be a new paradigm for interactive entertainment[^ref-6].
 
@@ -103,13 +103,13 @@ Some modern players appreciate the game's historical significance as an early ex
 
 ## Development
 
-### Origins and Ambitions
+### Origins
 
 David Wolf: Secret Agent was the first self-published game by Dynamix[^ref-5], representing their exploration of interactive narrative techniques during the late 1980s[^ref-3]. The development team wanted to create "an interactive James Bond movie"[^ref-17], fulfilling what they described as a long-held design fantasy[^ref-3].
 
 The project represented Dynamix's ambition to push beyond traditional game boundaries.[^ref-6] By combining multiple technologies—digitized video, 3D polygon graphics, rotoscoped animation—they hoped to create an experience that felt more like watching and participating in a movie than playing a conventional video game.[^ref-5]
 
-### Production Team
+### Production
 
 The development team brought together several key Dynamix talents:
 
@@ -127,6 +127,10 @@ The development team brought together several key Dynamix talents:
 - Kevin Ryan[^ref-4]
 
 The game utilized the Dynamix VCR interface engine[^ref-1], which allowed the seamless integration of video sequences with interactive gameplay segments.
+
+### Technical Achievements
+
+David Wolf: Secret Agent showcased several technically ambitious choices for a 1989 cinematic action-adventure. The game shipped **five separate graphics-mode renderers — CGA (4 colors), Tandy (16 colors), EGA (16 colors), MCGA (256 colors), and VGA (256 colors)** — from a single retail SKU, spanning essentially the entire IBM-PC display landscape of the era, a substantial engineering investment for a budget-priced action title[^ref-3]. Audio support included **Roland MT-32 enhanced scoring**, putting David Wolf in a small minority of late-1980s PC games that targeted the high-end audio market alongside Sierra adventure titles[^ref-3]. The "Smart Sun" automatic-configuration system was an unusual accessibility-engineering choice for 1989 — it abstracted away the era's painful manual sound-card and graphics-mode selection process, paralleling features Sierra would later popularize in its King's Quest V installer[^ref-3]. The developers' explicit rejection of "purposefully designed frustrating points" — a design philosophy stated in the game's documentation — also represented an unusually consumer-focused engineering posture that anticipated Dynamix's later simulator-design principles (Red Baron, A-10 Tank Killer, Aces of the Pacific)[^ref-3][^ref-4][^ref-18].
 
 ### Technical Specifications
 
@@ -221,3 +225,6 @@ As a boxed DOS game from the late 1980s with distinctive packaging and multiple 
 [^ref-15]: [OldGames.sk](https://www.oldgames.sk/en/game/david-wolf-secret-agent/) – User rating
 [^ref-16]: [James Paddock Bandcamp](https://jamespaddock.bandcamp.com/album/secret-agent-hd-soundtrack) – Soundtrack appreciation and HD remaster
 [^ref-17]: [The Digital Antiquarian](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) – Critical modern assessment
+[^ref-18]: [Adventure Classic Gaming – Dynamix retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) – context for Dynamix's late-1980s cinematic-action-game development including David Wolf
+[^ref-19]: [IGDB – David Wolf: Secret Agent](https://www.igdb.com/games/david-wolf-secret-agent) – Internet Games Database entry, platform listing, release-year confirmation
+[^ref-20]: [LaunchBox Games Database – David Wolf: Secret Agent](https://gamesdb.launchbox-app.com/games/details/1610-david-wolf-secret-agent) – community-curated metadata, cover-art reference, platform confirmation

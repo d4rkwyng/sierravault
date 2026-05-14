@@ -142,38 +142,6 @@
       ]
     },
     {
-      "filename": "1989 - David Wolf - Secret Agent.md",
-      "series": "Dynamix",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "2008 - Ace of Aces.md",
       "series": "Spiritual Successors",
       "page_type": "spiritual",
@@ -5415,6 +5383,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 21,
+      "issues": []
+    },
+    {
+      "filename": "1989 - David Wolf - Secret Agent.md",
+      "series": "Dynamix",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {
