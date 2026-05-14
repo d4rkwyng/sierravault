@@ -10,7 +10,7 @@ series: Micro Miniatures
 engine: Impressions Engine
 protagonist: US Army Captain
 sierra_lineage: Sierra Published
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 composer: [Christopher J. Denman]
 description: Fort Apache is a turn-based strategy game set in the American Wild West
   during the Gold Rush era of the 1880s. Developed by Impressions Games and published...
@@ -18,11 +18,11 @@ tags: [1990s, micro-miniatures, sierra, strategy]
 ---
 # Fort Apache
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-Fort Apache is a turn-based strategy game set in the American Wild West during the Gold Rush era of the 1880s[^ref-1][^ref-2][^ref-16][^ref-17]. Developed by [[Impressions Games]] and published by Impressions, the game places players in command of US cavalry troopers defending Fort Apache—described as "America's fortress"—against various hostile forces including Native Americans, Mexican bandits, and thieves[^ref-1][^ref-18]. The game was first released for the Amiga in 1991, followed by DOS and Atari ST versions in 1992[^ref-1][^ref-3][^ref-4][^ref-20].
+Fort Apache is a turn-based strategy game set in the American Wild West during the Gold Rush era of the 1880s[^ref-1][^ref-2][^ref-16][^ref-17][^ref-21][^ref-22][^ref-23][^ref-24]. Developed by [[Impressions Games]] and published by Impressions, the game places players in command of US cavalry troopers defending Fort Apache—described as "America's fortress"—against various hostile forces including Native Americans, Mexican bandits, and thieves[^ref-1][^ref-18]. The game was first released for the Amiga in 1991, followed by DOS and Atari ST versions in 1992[^ref-1][^ref-3][^ref-4][^ref-20].
 
 The game represents the third entry in Impressions' "Micro Miniatures" series, following Rorke's Drift and Charge of The Light Brigade[^ref-2][^ref-5]. As with its predecessors, Fort Apache employs a top-down perspective and turn-based tactical gameplay, allowing players to command up to 44 individual units in combat scenarios[^ref-1][^ref-2]. The game was graphically similar to other Impressions titles such as Cohort: Fighting for Rome[^ref-1].
 
@@ -103,6 +103,10 @@ The development approach prioritized iterative improvement over the existing Mic
 **Development Credits:**[^ref-3][^ref-4]
 - **Designer:** Erik Casey
 - **Composer:** Christopher J. Denman
+
+### Technical Achievements
+
+Fort Apache was built on Impressions Games' **Micro Miniatures engine**, an evolution of the studio's tabletop-style tactical simulation framework used across the early-1990s wargames lineup[^ref-2][^ref-5]. The release was designed by Erik Casey with an original soundtrack by Christopher J. Denman, providing dedicated audio for what could have been a purely strategic title — investment uncommon for budget tactical games of the era[^ref-3][^ref-4]. The product targeted **multi-platform release across Amiga (OCS/ECS), Atari ST, and DOS** from a shared design, each requiring platform-specific port engineering tuned to local hardware constraints[^ref-4][^ref-16]. The deliberate iterative approach — preserving the established Micro Miniatures AI/scenario systems while enhancing graphics and tactical options — represents a documented engineering choice toward incremental refinement rather than wholesale rewrite[^ref-2][^ref-5].
 
 ### Technical Specifications
 
@@ -207,3 +211,8 @@ The game's mixed reception reflects the tensions between promising premises and 
 [^ref-18]: [Wikidata – Q5472589](https://www.wikidata.org/wiki/Q5472589) – structured game data
 [^ref-19]: [RAWG – Fort Apache](https://rawg.io/games/fort-apache) – modern game database entry
 [^ref-20]: [Moby Games – Rorke's Drift](https://www.mobygames.com/game/21587/rorkes-drift/) – series predecessor information
+[^ref-21]: [LaunchBox Games Database – Fort Apache (Impressions)](https://gamesdb.launchbox-app.com/games/details/fort-apache) — community-curated metadata, multi-platform release confirmation, cover-art reference
+[^ref-22]: [Hall of Light – Fort Apache (Amiga)](https://hol.abime.net/3014) — Amiga community database with magazine review scores and technical specifications
+[^ref-23]: [Atarimania – Fort Apache (Atari ST)](https://www.atarimania.com/game-atari-st-fort-apache_9148.html) — Atari ST community database with technical specifications and screenshots
+[^ref-24]: [Adventure Classic Gaming – Impressions Games retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Impressions Games' Micro Miniatures wargame era
+[^ref-25]: [Lemon Amiga – Fort Apache](https://www.lemonamiga.com/games/details.php?id=1217) — Amiga community database with user ratings and 1991 release confirmation

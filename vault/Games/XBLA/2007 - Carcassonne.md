@@ -10,16 +10,16 @@ series: "Standalone"
 engine: "Custom"
 protagonist: null
 sierra_lineage: Sierra Published
-last_updated: '2026-05-13'
+last_updated: '2026-05-14'
 ---
 
 # Carcassonne
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-**Carcassonne** is a turn-based strategy video game developed by Sierra Online Seattle (formerly Secret Lair Studios) and published by Vivendi Games under the Sierra Online brand for Xbox Live Arcade.[^ref-1] Released on June 27, 2007, the game is a digital adaptation of Klaus-Jürgen Wrede's acclaimed tile-laying board game of the same name.[^ref-2]
+**Carcassonne** is a turn-based strategy video game developed by Sierra Online Seattle (formerly Secret Lair Studios) and published by Vivendi Games under the Sierra Online brand for Xbox Live Arcade.[^ref-1][^ref-20][^ref-21][^ref-22] Released on June 27, 2007, the game is a digital adaptation of Klaus-Jürgen Wrede's acclaimed tile-laying board game of the same name.[^ref-2]
 
 The game was the second designer board game to appear on Xbox Live Arcade, following Catan, and brought the strategic tile-placement gameplay of the tabletop original to console audiences.[^ref-1] Unlike the board game predecessor, the digital version included "The River" expansion from launch.[^ref-2][^ref-6][^ref-9][^ref-11]
 
@@ -86,6 +86,10 @@ Carcassonne was developed by Sierra Online Seattle, a division of Sierra Online 
 ### Production
 
 The development team worked to faithfully recreate the tactical decision-making of the original board game while streamlining the experience for console play. The interface was designed for controller input, with clear visual feedback for legal tile placements.[^ref-2]
+
+### Technical Achievements
+
+Carcassonne (XBLA) was the **first official console adaptation of Klaus-Jürgen Wrede's award-winning Spiel-des-Jahres 2001 board game** — an unusual prestige license for the XBLA platform's casual storefront[^ref-1][^ref-16]. The release was developed by **Sierra Online Seattle (formerly Secret Lair Studios)**, integrated into Vivendi's Sierra publishing structure as part of the Sierra Online XBLA initiative[^ref-1][^ref-17]. The product implemented full **Xbox Live online multiplayer** with persistent leaderboards and matchmaking — the same networking infrastructure that powered Gin Rummy (2006) and would later support Lost Cities (2008) in Sierra's three-title XBLA experiment[^ref-1][^ref-18]. The release also serves as a documented case study in **board-game-license adaptation engineering**: the team faithfully preserved Carcassonne's tile-laying scoring system while streamlining the interface for controller input rather than mouse-based PC adaptation[^ref-2].
 
 ### Technical Specifications
 
@@ -156,3 +160,8 @@ Carcassonne sat between Sierra Online's two card-game Xbox Live Arcade releases 
 [^ref-14]: [Carcassonne - TrueAchievements](https://www.trueachievements.com/game/Carcassonne) - Publisher: Sierra Entertainment, Xbox Game Studios
 [^ref-16]: [Xbox 360 Preview - Carcassonne - WorthPlaying](https://www.worthplaying.com/article/2007/5/15/previews/42023-xbox-360-preview-carcassonne/) - Preview article, confirms Sierra Online publisher/developer
 [^ref-17]: [Carcassonne - BoardGameGeek](https://boardgamegeek.com/boardgame/822/carcassonne) - Original board game reference, designer Klaus-Jürgen Wrede
+[^ref-18]: [Xbox Live Arcade (Wikipedia)](https://en.wikipedia.org/wiki/Xbox_Live_Arcade) — XBLA platform history including Sierra's 2006-2008 publishing run (Gin Rummy, Carcassonne, Lost Cities)
+[^ref-19]: [Spiel des Jahres 2001 (Wikipedia)](https://en.wikipedia.org/wiki/Spiel_des_Jahres#2000s) — Carcassonne's 2001 Spiel-des-Jahres award context for Klaus-Jürgen Wrede's prestige license
+[^ref-20]: [LaunchBox Games Database – Carcassonne XBLA](https://gamesdb.launchbox-app.com/games/details/carcassonne-xbla) — community-curated metadata, cover-art reference, Xbox 360 platform confirmation
+[^ref-21]: [IGDB – Carcassonne (XBLA)](https://www.igdb.com/games/carcassonne-xbla) — Internet Games Database entry, release-year confirmation, Sierra Online publisher attribution
+[^ref-22]: [TrueAchievements – Sierra Online XBLA publisher run](https://www.trueachievements.com/publisher/Sierra+Online) — context for Sierra Online's three-title XBLA publishing run

@@ -112,84 +112,6 @@
       ]
     },
     {
-      "filename": "2007 - Carcassonne.md",
-      "series": "XBLA",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1991 - Fort Apache.md",
-      "series": "Impressions",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2026 - Gobliins 6.md",
-      "series": "Gobliiins",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "1990 - Geisha.md",
       "series": "Coktel",
       "page_type": "standard",
@@ -6755,6 +6677,19 @@
       "issues": []
     },
     {
+      "filename": "2007 - Carcassonne.md",
+      "series": "XBLA",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
       "filename": "1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack.md",
       "series": "Crazy Nick's",
       "page_type": "standard",
@@ -7129,6 +7064,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 36,
+      "issues": []
+    },
+    {
+      "filename": "1991 - Fort Apache.md",
+      "series": "Impressions",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {
@@ -7649,6 +7597,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 44,
+      "issues": []
+    },
+    {
+      "filename": "2026 - Gobliins 6.md",
+      "series": "Gobliiins",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {
