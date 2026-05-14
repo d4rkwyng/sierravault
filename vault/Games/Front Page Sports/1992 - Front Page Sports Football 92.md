@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Sound Operating System
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 description: 'Front Page Sports: Football (often referred to as Front Page Sports
   Football 92 or simply FPS Football) was the inaugural entry in what would become
   one of...'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, front-page-sports, sierra]
 ---
 # Front Page Sports: Football
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -231,7 +231,22 @@ The series' most lasting contribution was its career mode, which demonstrated th
 
 GameSpot's assessment that the game was "more fun when you are not playing" actually highlighted its greatest strength—the management and strategy elements were so compelling that many players spent more time preparing for games than actually playing them[^ref-21]. This design philosophy represented a fundamentally different approach to sports gaming that continues to influence simulation-focused titles today.
 
-## [[1994 - Front Page Sports - Baseball Pro]]
+## Downloads
+
+**Purchase / Digital Stores**
+- Not currently available on Steam, GOG, or other modern digital storefronts
+- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
+
+**Download / Preservation**
+- [MyAbandonware – Front Page Sports: Football](https://www.myabandonware.com/game/front-page-sports-football-pro-1m4) — abandonware preservation download
+- [Internet Archive – FP Sports Football](https://archive.org/details/msdos_Front_Page_Sports_Football_1992_Sierra) — DOS edition preservation
+
+## See Also
+
+- [[1993 - Front Page Sports - Football Pro|→ Next: Front Page Sports — Football Pro (1993)]]
+- [[Dynamix]] — developer
+- [[Sierra On-Line]] — publisher
+- [[1994 - Front Page Sports - Baseball Pro]]
 - [[1994 - Front Page Sports - Football Pro '95]]
 - [[1995 - Front Page Sports - Football Pro '96]]
 - [[1996 - Front Page Sports - Baseball Pro '96]]

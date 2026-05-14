@@ -10,7 +10,7 @@ series: 3-D Ultra Pinball
 engine: 3D Ultra Pinball Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-05-14'
 description: 3-D Ultra Pinball Power! is a comprehensive compilation package released
   by Sierra On-Line in 1999, collecting four of the most acclaimed titles from...
 tags: [1990s, 3-d-ultra-pinball, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra Pinball Power!
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -193,13 +193,18 @@ The series' approach of featuring animation, multiple interconnected tables, and
 
 The commercial success of the series—over half a million copies by 1998[^ref-2]—demonstrated a significant market appetite for accessible, visually impressive pinball games during the multimedia gaming boom. Power! served as both a capstone collection of this successful formula and an entry point for new players discovering the series.
 
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on Steam, GOG, or other modern digital storefronts
+- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
+
+**Download / Preservation**
+- [MobyGames – 3-D Ultra Pinball Power](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/) — full credits, screenshots[^ref-5]
+- [Sierra Chest – 3-D Ultra Pinball Collector's Edition](https://sierrachest.com/index.php?a=games&id=107&title=pinball-collectors-edition&fld=general) — packaging archive[^ref-6]
+
+## See Also
+
 - [[1995 - 3-D Ultra Pinball]]
 - [[1996 - 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra MiniGolf]]

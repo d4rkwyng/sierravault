@@ -10,7 +10,7 @@ series: Hoyle Official Book of Games
 engine: SCI1
 protagonist: Player-selected avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 composer: [Robert Atesalp]
 description: Hoyle Official Book of Games Volume 3, subtitled "Great Board Games,"
   is the third installment in Sierra On-Line's popular series of computer adaptations
@@ -19,7 +19,7 @@ tags: [1990s, hoyle-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 3
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -184,7 +184,22 @@ The series also showcased the flexibility of Sierra's SCI engine technology, pro
 
 Ken Williams himself expressed interest in extending Sierra's core technology to include multiplayer capabilities, suggesting that the social gaming experience represented by the Hoyle series aligned with the company's broader vision for interactive entertainment[^ref-24].
 
-## [[1989 - Hoyle Official Book of Games - Volume 1]]
+## Downloads
+
+**Purchase / Digital Stores**
+- Not currently available on Steam, GOG, or other modern digital storefronts
+- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
+
+**Download / Preservation**
+- [MyAbandonware – Hoyle Official Book of Games Volume 3](https://www.myabandonware.com/game/hoyle-s-official-book-of-games-volume-3-great-board-games-3i9) — abandonware preservation download
+- [Internet Archive – Hoyle Volume 3](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_Vol._3_1991_Sierra) — preservation archive
+
+## See Also
+
+- [[1989 - Hoyle Official Book of Games - Volume 1|← Previous: Volume 1]]
+- [[1990 - Hoyle Official Book of Games - Volume 2|← Previous: Volume 2]]
+- [[1991 - Hoyle Official Book of Games - Volume 4|→ Next: Volume 4]]
+- [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1992 - Hoyle Bridge]]
 - [[1993 - Hoyle Classic Card Games]]
 - [[1993 - Hoyle Official Book of Games - Volume 5]]

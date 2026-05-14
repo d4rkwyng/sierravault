@@ -10,14 +10,14 @@ series: Sierra's Driver's Education
 engine: Proprietary (Dynamix)
 protagonist: Student Driver
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: Driver's Education '98 is an educational driving simulator developed
   by Dynamix and published by Sierra On-Line, with development beginning in 1997 and...
 tags: [1990s, educational, sierra, sierra-s-driver-s-education, simulation]
 ---
 # Driver's Education '98
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -259,11 +259,23 @@ Contemporary assessments praised the game for doing "exactly what it sets out to
 
 The money-back guarantee remains a notable marketing decision that demonstrated genuine confidence in the product's educational value—a rarity in software publishing that speaks to the development team's commitment to creating an effective learning tool rather than merely a profitable product.
 
-## Purchase
+## Downloads
 
-**[[1998 - Sierra Sports - Bass Fishing]]
+**Purchase / Digital Stores**
+- Not currently available on Steam, GOG, or other modern digital storefronts
+- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
+
+**Download / Preservation**
+- [Free Game Downloads Archive – Driver's Education '98](https://free-game-downloads.mosw.com/abandonware/pc/educational_games/games_d/driver_s_education_98.html) — abandonware preservation download[^ref-4]
+- [Old-Games.com – Driver's Education '98](https://www.old-games.com/download/3272/driver-s-education-98) — DOS-era download[^ref-7]
+- [LaunchBox Games Database – Driver's Education '98](https://gamesdb.launchbox-app.com/games/details/105453-drivers-education-98) — game metadata and lesson-content archive[^ref-8]
+
+## See Also
+
+- [[1998 - Sierra Sports - Bass Fishing]]
 - [[1998 - Sierra Sports Skiing 1999 Edition]]
 - [[1999 - Professional Bull Rider]]
+- [[Sierra On-Line]] — publisher (Sierra Sports / Discovery Series label)
 
 ## References
 

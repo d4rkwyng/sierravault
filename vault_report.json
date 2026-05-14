@@ -4,7 +4,7 @@
     "passing": 507,
     "failing": 0,
     "pass_rate_pct": 100.0,
-    "average_score": 99.0
+    "average_score": 99.1
   },
   "pages": [
     {
@@ -36,110 +36,6 @@
           "severity": "error",
           "message": "Missing ### Origins or ### Production",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1999 - 3-D Ultra Pinball - Power.md",
-      "series": "3D Ultra",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1997 - Driver's Education '98.md",
-      "series": "Sierra Sports",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        }
-      ]
-    },
-    {
-      "filename": "2003 - Homeworld 2.md",
-      "series": "Homeworld",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 44,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        }
-      ]
-    },
-    {
-      "filename": "1991 - Hoyle Official Book of Games - Volume 3.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 25,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
         }
       ]
     },
@@ -192,84 +88,6 @@
           "severity": "warning",
           "message": "Reference count below target of 20",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1992 - Front Page Sports Football 92.md",
-      "series": "Front Page Sports",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 24,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        }
-      ]
-    },
-    {
-      "filename": "1984 - Donald Duck's Playground.md",
-      "series": "Disney",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 26,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        }
-      ]
-    },
-    {
-      "filename": "1997 - CART Racing.md",
-      "series": "IndyCar",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 25,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
         }
       ]
     },
@@ -1974,6 +1792,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 16,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1999 - 3-D Ultra Pinball - Power.md",
+      "series": "3D Ultra",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
       "issues": [
         {
           "category": "References",
@@ -4644,26 +4482,6 @@
       ]
     },
     {
-      "filename": "1992 - Police Quest - In Pursuit of the Death Angel VGA.md",
-      "series": "Police Quest",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 99.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 40,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Missing ## References section",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
       "filename": "1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!.md",
       "series": "Leisure Suit Larry",
       "page_type": "standard",
@@ -5207,6 +5025,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 49,
+      "issues": []
+    },
+    {
+      "filename": "1997 - Driver's Education '98.md",
+      "series": "Sierra Sports",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {
@@ -5779,6 +5610,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "2003 - Homeworld 2.md",
+      "series": "Homeworld",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 44,
       "issues": []
     },
     {
@@ -6546,6 +6390,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 17,
+      "issues": []
+    },
+    {
+      "filename": "1991 - Hoyle Official Book of Games - Volume 3.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 25,
       "issues": []
     },
     {
@@ -7329,6 +7186,19 @@
       "issues": []
     },
     {
+      "filename": "1992 - Front Page Sports Football 92.md",
+      "series": "Front Page Sports",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 24,
+      "issues": []
+    },
+    {
       "filename": "1997 - Front Page Sports - Trophy Rivers.md",
       "series": "Front Page Sports",
       "page_type": "standard",
@@ -7914,6 +7784,19 @@
       "issues": []
     },
     {
+      "filename": "1984 - Donald Duck's Playground.md",
+      "series": "Disney",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 26,
+      "issues": []
+    },
+    {
       "filename": "1986 - The Black Cauldron.md",
       "series": "Disney",
       "page_type": "standard",
@@ -8119,6 +8002,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 21,
+      "issues": []
+    },
+    {
+      "filename": "1997 - CART Racing.md",
+      "series": "IndyCar",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 25,
       "issues": []
     },
     {
@@ -8353,6 +8249,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 27,
+      "issues": []
+    },
+    {
+      "filename": "1992 - Police Quest - In Pursuit of the Death Angel VGA.md",
+      "series": "Police Quest",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 40,
       "issues": []
     },
     {

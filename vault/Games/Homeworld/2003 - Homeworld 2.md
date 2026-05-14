@@ -10,7 +10,7 @@ series: Homeworld
 engine: Custom 3D Engine
 protagonist: Karan S'jet
 sierra_lineage: Sierra Published
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 composer: [Paul Ruskay]
 description: Homeworld 2 is a fully three-dimensional real-time strategy game set
   in the depths of space, continuing the epic saga of the Hiigaran people one hundred...
@@ -18,7 +18,7 @@ tags: [2000s, homeworld, sierra, strategy]
 ---
 # Homeworld 2
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -228,9 +228,28 @@ Voice recording for the original game was produced at Studio X Labs, with Campbe
 
 Despite critical praise, Homeworld 2 achieved only modest commercial performance upon its 2003 release, falling short of major financial success due to limited promotion by publisher Sierra Entertainment[^ref-12]. The game leveraged the fanbase established by the original Homeworld but did not significantly expand it[^ref-12]. Approximately 1.2 million units were sold on Steam for the 2015 remastered edition, indicating sustained interest over time[^ref-12].
 
-The franchise changed hands multiple times following release. THQ acquired the Homeworld IP from Sierra/Vivendi in 2007 but subsequently ignored it for years[^ref-39]. When THQ filed for bankruptcy in 2013, the rights were auctioned off. Gearbox Software's Chief Creative Officer Brian Martel, described as having "great love and respect for Relic's brilliant, fun and innovative game," personally spearheaded the acquisition for $1.35 million[^ref-[[1999 - Homeworld]]
-- [[2016 - Homeworld - Deserts of Kharak]]
-- [[2024 - Homeworld 3]]
+The franchise changed hands multiple times following release. THQ acquired the Homeworld IP from Sierra/Vivendi in 2007 but subsequently ignored it for years[^ref-39]. When THQ filed for bankruptcy in 2013, the rights were auctioned off. Gearbox Software's Chief Creative Officer Brian Martel, described as having "great love and respect for Relic's brilliant, fun and innovative game," personally spearheaded the acquisition for $1.35 million[^ref-12].
+
+## Downloads
+
+**Purchase / Digital Stores**
+- [Steam – Homeworld Remastered Collection](https://store.steampowered.com/app/244160/Homeworld_Remastered_Collection/) — official 2015 Gearbox-published remaster bundle including HW1 + HW2 + the originals
+- [GOG.com – Homeworld Remastered Collection](https://www.gog.com/en/game/homeworld_remastered_collection) — DRM-free purchase
+- [GOG.com – Homeworld Classic (originals)](https://www.gog.com/en/game/homeworld_classic) — the original 2003 build available DRM-free
+
+**Download / Preservation**
+- [Homeworld Wiki – Homeworld 2](https://homeworld.fandom.com/wiki/Homeworld_2) — fan-curated archive of mods, patches, and engine notes[^ref-2]
+- [PCGamingWiki – Homeworld 2](https://www.pcgamingwiki.com/wiki/Homeworld_2) — modern-OS compatibility and fix archive
+
+## See Also
+
+- [[1999 - Homeworld|← Previous: Homeworld]]
+- [[2000 - Homeworld - Cataclysm]] — interim expansion from Barking Dog Studios
+- [[2016 - Homeworld - Deserts of Kharak|→ Next: Homeworld — Deserts of Kharak]]
+- [[2024 - Homeworld 3]] — Blackbird Interactive sequel
+- [[Relic Entertainment]] — developer
+- [[Sierra On-Line]] — publisher
+- [[Bibliography]] — canonical Sierra-history sources
 
 ## References
 

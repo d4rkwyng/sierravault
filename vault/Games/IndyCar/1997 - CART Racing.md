@@ -10,14 +10,14 @@ series: IndyCar Racing
 engine: Papyrus Racing Simulation Engine
 protagonist: Player-created driver
 sierra_lineage: Sierra Published
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 description: CART Racing is a 1997 re-release of IndyCar Racing II, developed by Papyrus
   Design Group and published by Sierra On-Line. The game simulates the 1995 season...
 tags: [1990s, indycar-racing, racing, sierra]
 ---
 # CART Racing
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -227,8 +227,24 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 - **CART Flag to Flag / Super Speed Racing** (1999) – A Sega Dreamcast title developed by ZOOM Inc., unrelated to the Papyrus simulation[^ref-24]
 - **CART Fury Championship Racing** (2001) – An arcade and PlayStation 2 title[^ref-25]
 
-## [[1993 - IndyCar Racing]]
+## Downloads
 
+**Purchase / Digital Stores**
+- Not currently available on Steam, GOG, or other modern digital storefronts (licensing complications preclude commercial re-release)[^ref-23]
+- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
+
+**Download / Preservation**
+- [MyAbandonware – CART Racing](https://www.myabandonware.com/game/cart-racing-g6q) — abandonware preservation download[^ref-13]
+- [Internet Archive – CART Racing CD-ROM](https://archive.org/details/cart-racing-cdrom) — disk-image preservation[^ref-1]
+- [CART Racing Headquarters (ICR2.net)](https://www.icr2.net/) — active fan community and mod hub[^ref-2]
+
+## See Also
+
+- [[1993 - IndyCar Racing|← Previous: IndyCar Racing (1993)]]
+- [[Papyrus Design Group]] — developer
+- [[Sierra On-Line]] — publisher (under Sierra Sports label)
+- [[1996 - NASCAR Racing 2]] — Papyrus contemporary on the same simulation engine
+- [[1999 - NASCAR Racing 3]] — Papyrus follow-up on the same simulation engine
 - **Next:** None (series concluded with rebrand)
 
 ## References

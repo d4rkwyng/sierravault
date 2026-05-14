@@ -10,7 +10,7 @@ series: Disney
 engine: AGI
 protagonist: Donald Duck
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-05-14'
 composer: [Al Lowe]
 description: Donald Duck's Playground is an educational video game developed by Sierra
   On-Line in 1984, designed by Al Lowe under license from Walt Disney Productions....
@@ -18,7 +18,7 @@ tags: [1980s, agi, al-lowe, disney, educational, sierra]
 ---
 # Donald Duck's Playground
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -214,10 +214,27 @@ Donald Duck's Playground occupies an important position in the history of educat
 
 The game's influence can be seen in the edutainment boom that followed in the late 1980s and 1990s. By proving that children would engage with educational content when wrapped in entertaining gameplay featuring beloved characters, Donald Duck's Playground helped establish conventions that would be followed by countless titles. However, as the *Data Driven Gamer* notes, the game's limited depth means it holds primarily nostalgic value for modern audiences—"who, let's face it, aren't likely to be impressed by the Commodore 64 any longer."[^ref-15] Nevertheless, its historical significance as an early Disney computer game and as a key title in Al Lowe's pre-Leisure Suit Larry career ensures its place in gaming history.
 
-## Purchase
+## Downloads
 
-[[1984 - Winnie the Pooh in the Hundred Acre Wood]]
-- [[1986 - The Black Cauldron]]
+**Purchase / Digital Stores**
+- Not currently available on Steam, GOG, or other modern digital storefronts
+- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
+
+**Download / Preservation (Freeware)**
+- [Al Lowe's Personal Website – Donald Duck's Playground](https://allowe.com/downloads/games.html) — original designer's freeware download[^ref-1]
+- [MyAbandonware – Donald Duck's Playground](https://www.myabandonware.com/game/donald-duck-s-playground-fk) — multi-platform preservation downloads[^ref-16]
+- [Internet Archive – DOS Version](https://archive.org/details/msdos_donald_ducks_playground_1984_sierra) — DOS edition preservation[^ref-4]
+- [ClassicReload – Browser-Playable](https://classicreload.com/donald-ducks-playground.html) — DOS-era browser emulation[^ref-3]
+
+## See Also
+
+- [[1984 - Mickey's Space Adventure]] — Sierra's parallel Disney-licensed children's adventure released the same year
+- [[1984 - Winnie the Pooh in the Hundred Acre Wood]] — Sierra-Disney collaboration released the same year
+- [[1986 - The Black Cauldron]] — later Sierra-Disney collaboration
+- [[Al Lowe]] — designer/programmer (pre-Leisure Suit Larry career)
+- [[Sierra On-Line]] — developer and publisher
+- [[Adventure Game Interpreter]] — engine used (AGI for ported versions)
+- [[Bibliography]] — canonical Sierra-history sources
 
 ## References
 
