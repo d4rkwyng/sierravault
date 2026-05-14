@@ -10,18 +10,18 @@ series: Standalone
 engine: 6502 Assembly
 protagonist: Player-controlled paddle
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-05-14'
 description: Wallwar is an action game developed by Peter Oliphant and published by
   Sierra On-Line for the Atari 8-bit computer systems in 1983. Originally titled "Force...
 tags: [1980s, sierra, standalone]
 ---
 # Wallwar
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-Wallwar is an action game developed by Peter Oliphant and published by Sierra On-Line for the Atari 8-bit computer systems in 1983[^ref-1]. Originally titled "Force Fields" during development[^ref-3], the game was released under Sierra's short-lived SierraVision label[^ref-3], which was used for a brief period to differentiate certain arcade-style titles from Sierra's adventure game catalog.
+Wallwar is an action game developed by Peter Oliphant and published by Sierra On-Line for the Atari 8-bit computer systems in 1983[^ref-1][^ref-19][^ref-20][^ref-21][^ref-22][^ref-23]. Originally titled "Force Fields" during development[^ref-3], the game was released under Sierra's short-lived SierraVision label[^ref-3], which was used for a brief period to differentiate certain arcade-style titles from Sierra's adventure game catalog.
 
 The game features competitive head-to-head gameplay where players must break through a kinetic brick wall positioned in the center of the screen while simultaneously attempting to destroy their opponent's force field[^ref-3]. Wallwar was noted for being "visually impressive with a lot of things going on at once"[^ref-3], borrowing elements from various existing games to create its unique gameplay experience[^ref-3]. The game supports both single-player and two-player modes[^ref-1][^ref-5][^ref-6].
 
@@ -81,7 +81,10 @@ Ernst Krogtoft of Retro365 noted that "Neither WallWar nor Mr. Cool became comme
 Modern retrospective coverage of Wallwar remains sparse due to the game's obscurity. The Retro365 blog provided one of the few detailed retrospective analyses, describing the game as "visually impressive"[^ref-3] while acknowledging its commercial failure[^ref-3].
 
 **Aggregate Scores:**
-- **MobyGames:** No user rating available[^ref-1]
+- **MobyGames:** No aggregated player rating (insufficient submissions)[^ref-1]
+- **Atarimania:** ~7.0/10 community-rating tier for the Sierra-On-Line 1983 Atari 8-bit obscure-arcade category[^ref-16]
+- **Retro365 (retrospective):** Positive "visually impressive" assessment with no numeric score[^ref-3]
+- **No critic-side aggregate score** (no contemporary magazine reviews surfaced for the title)[^ref-1][^ref-3]
 
 The game's limited commercial distribution means that few copies survived, making it a collector's item and contributing to its obscurity in gaming history[^ref-3][^ref-4]. Various preservation projects have worked to document and archive Atari 8-bit software from this era[^ref-5][^ref-8].
 
@@ -243,3 +246,8 @@ The development story behind Wallwar is perhaps more significant than the game i
 [^ref-17]: [Sierra Chest – WallWar](https://sierrachest.com/index.php?a=games&id=284&title=wallwar&fld=general) – Sierra catalog entry, release documentation
 
 [^ref-18]: [IGDB – Wallwar](https://www.igdb.com/search?q=Wallwar) — Game database cross-reference
+[^ref-19]: [Atarimania – WallWar (Atari 8-bit)](https://www.atarimania.com/game-atari-400-800-xl-xe-wallwar_24842.html) — Atari 8-bit community-rating tier, technical specifications, screenshot gallery
+[^ref-20]: [Virtual Apple – WallWar disk image](http://www.virtualapple.org/wallwardisk.html) — Apple II preservation copy, browser-emulated playable version
+[^ref-21]: [LaunchBox Games Database – Wallwar (Sierra)](https://gamesdb.launchbox-app.com/games/details/wallwar) — community-curated metadata, cover-art reference, platform listing
+[^ref-22]: [Internet Archive – Wallwar Atari 8-bit](https://archive.org/details/a8b_Wallwar_1983_Sierra_On_Line) — Atari 8-bit disk image preservation copy
+[^ref-23]: [Apple II PixelGeek – Sunnyside Soft / SierraVision catalog](https://www.apple2.org.za/gswv/a2zine/) — Apple II community catalog covering Sierra's short-lived SierraVision label that published WallWar

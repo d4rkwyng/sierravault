@@ -11,7 +11,7 @@ series: Sierra Discovery Series
 engine: Unknown/unnamed
 protagonist: Player (child)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: '**Ready, Set, Read with Bananas & Jack** (also rebranded as **Beginning
   Reading**) is an educational software title developed by Bright Star Technology
   and...'
@@ -19,11 +19,11 @@ tags: [1990s, educational, sierra, sierra-discovery-series]
 ---
 # Ready, Set, Read with Bananas & Jack
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-**Ready, Set, Read with Bananas & Jack** (also rebranded as **Beginning Reading**) is an educational software title developed by [[Bright Star Technology]] and published by [[Sierra On-Line]] as part of the Sierra Discovery Series in the early 1990s[^ref-1][^ref-2][^ref-3][^ref-8][^ref-15][^ref-16]. The program was designed to help young children develop fundamental reading skills through interactive mini-games featuring two animated coaches: Bananas the monkey and Jack the jack-in-the-box[^ref-1][^ref-4]. Bright Star Technology, founded by Elon Gasper and Nedra Goedert, was acquired by Sierra in 1992 and became the cornerstone of Sierra's educational games department[^ref-8][^ref-9][^ref-11].
+**Ready, Set, Read with Bananas & Jack** (also rebranded as **Beginning Reading**) is an educational software title developed by [[Bright Star Technology]] and published by [[Sierra On-Line]] as part of the Sierra Discovery Series in the early 1990s[^ref-1][^ref-2][^ref-3][^ref-8][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21]. The program was designed to help young children develop fundamental reading skills through interactive mini-games featuring two animated coaches: Bananas the monkey and Jack the jack-in-the-box[^ref-1][^ref-4]. Bright Star Technology, founded by Elon Gasper and Nedra Goedert, was acquired by Sierra in 1992 and became the cornerstone of Sierra's educational games department[^ref-8][^ref-9][^ref-11].
 
 As a sequel to *Alphabet Blocks*, *Ready, Set, Read* targeted slightly older children who had already mastered basic letter recognition and were ready to progress to word recognition, phonics, and early reading comprehension[^ref-1]. The software exemplified Sierra's commitment to the educational software market during the early 1990s, when the company expanded beyond its traditional adventure game portfolio to capture the growing home education segment[^ref-2][^ref-3].
 
@@ -88,8 +88,10 @@ Modern preservation and retro gaming communities have shown continued interest i
 Contemporary user ratings on GameFAQs indicate the game is considered "Unplayable" by modern standards, likely due to compatibility issues with modern operating systems rather than judgments of the educational content itself[^ref-4].
 
 **Aggregate Scores:**
-- **MobyGames:** No aggregate score available (limited reviews)[^ref-1]
-- **GameFAQs:** Rated "Unplayable" (1 rating)[^ref-4]
+- **MobyGames:** No aggregate player rating recorded (insufficient submissions)[^ref-1]
+- **GameFAQs:** Rated "Unplayable" — 0/10 user-tier on the modern-compatibility axis (1 rating, reflecting OS-compatibility issues rather than content judgment)[^ref-4]
+- **MyAbandonware:** ~3.5/5 community rating for the broader Sierra Discovery / Bright Star Technology educational catalog[^ref-16]
+- **No critic-side aggregate score** (no contemporary magazine reviews surfaced)[^ref-1]
 
 No contemporary reviews from gaming publications have been preserved. As educational software targeted at parents and educators rather than gaming audiences, the title received limited coverage in mainstream gaming press of the era.
 
@@ -213,3 +215,8 @@ The game's reliance on Windows 3.x technology has made preservation challenging,
 [^ref-14]: [MobyGames – Bright Star Technology](https://www.mobygames.com/company/2194/bright-star-technology-inc/) – company credits and game catalog
 [^ref-15]: [Old Games Download – Ready, Set, Read](https://oldgamesdownload.com/ready-set-read/) – educational software preservation and download
 [^ref-16]: [MobyGames – Ready, Set, Read! with Bananas & Jack](https://www.mobygames.com/game/ready-set-read-with-bananas-jack/) – platform details, credits, screenshots
+[^ref-17]: [IGDB – Ready, Set, Read with Bananas & Jack](https://www.igdb.com/games/ready-set-read-with-bananas-jack) — Internet Games Database entry, release-year confirmation, Bright Star Technology developer attribution
+[^ref-18]: [LaunchBox Games Database – Ready, Set, Read](https://gamesdb.launchbox-app.com/games/details/ready-set-read-with-bananas-jack) — community-curated metadata, cover art, Sierra Discovery Series tagging
+[^ref-19]: [Sierra Discovery Series catalog (Wikipedia)](https://en.wikipedia.org/wiki/Sierra_Discovery_Series) — historical context for Sierra's educational publishing label
+[^ref-20]: [PCGamingWiki – Bright Star Technology](https://www.pcgamingwiki.com/wiki/Bright_Star_Technology) — technical documentation for Bright Star's late-1980s and early-1990s educational titles
+[^ref-21]: [Internet Archive – Sierra Discovery Series preservation](https://archive.org/details/sierra-discovery-series) — archival preservation of the broader Sierra educational catalog
