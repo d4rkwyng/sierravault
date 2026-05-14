@@ -11,14 +11,14 @@ series: King's Quest
 engine: Various (cancelled before completion)
 protagonist: [Alexander, Rosella]
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 description: '"King''s Quest IX" is an umbrella term for **multiple cancelled attempts**
   to continue Sierra''s flagship adventure game series following King''s Quest VIII:...'
 tags: [adventure, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest IX (Cancelled)
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 
 ## Overview
@@ -175,6 +175,10 @@ While no King's Quest IX ever reached release, the various attempts generated si
 
 ## Development
 
+### Origins
+
+The notion of a true *King's Quest IX* originated with Roberta Williams herself, who conceived a final mainline entry around 1998–1999 — a concept that would have closed out the eight-game KQ canonical arc that began with the 1984 original.[^ref-1][^ref-5] Sierra's late-1990s corporate instability (CUC → Cendant → Havas → Vivendi) prevented this initial concept from ever entering full production, and Williams' 1999 departure from Sierra (with a five-year non-competition clause) removed the franchise's primary creative voice before the project could be staffed.[^ref-1] Multiple subsequent studios attempted their own visions across the next fifteen years, each blocked by a different combination of corporate instability, genre decline, and (in Silicon Knights' case) legal complications. The "five attempts" narrative documented above captures this lineage from Williams' original concept through Telltale's 2013 cancellation to the 2015 The Odd Gentlemen reboot.[^ref-1][^ref-5][^ref-16]
+
 ### Why No True KQ9?
 
 Several factors contributed to the failure of all attempts:
@@ -202,6 +206,10 @@ This was part of a broader pattern of corporate mismanagement documented by The 
 Game historians note that each cancelled project represented a fundamentally different approach to continuing the franchise—from Williams' traditional adventure game vision to Twins of Change's Zelda-inspired action-adventure to Telltale's episodic format.[^ref-1] This lack of consensus on what a modern King's Quest should be, combined with corporate instability and bad timing, meant that no single vision could survive long enough to reach completion.
 
 The saga of King's Quest IX demonstrates how corporate dysfunction, genre decline, creative departures, and legal complications can combine to prevent a major franchise from moving forward, even with multiple well-funded attempts spanning fifteen years.[^ref-5]
+
+### Technical Achievements
+
+While no shipping product emerged from the *King's Quest IX* lineage, several of the cancelled attempts produced technically notable artifacts. The **Silicon Knights 2007 prototype** was built on **Unreal Engine 3** — Sierra's first attempt to bring the King's Quest franchise into the modern 3D engine era — though the prototype was destroyed by court order following Epic Games' 2012 Unreal Engine 3 source-code lawsuit, making it one of the few major game prototypes formally legally erased from the historical record.[^ref-3] **King's Quest: Twins of Change (1999–2002)** developed by Sierra Seattle was an ambitious **Zelda-inspired 3D action-adventure** with full character animation and tonal voice acting — a notable engineering departure from Williams' parser/iconographic adventure roots.[^ref-1][^ref-2] **The Silver Lining (2010)**, the fan project that eventually shipped after Activision permission negotiations, was built in Unreal-derived technology and remains a documented example of fan-development negotiating IP rights with a Sierra successor publisher.[^ref-4] Finally, **Telltale's 2011–2013 attempt** would have leveraged the studio's mature episodic-narrative engine (Telltale Tool) shortly before that studio's eventual closure — making the unmade KQ IX one of the last "what could have been" Telltale-engine adventures.[^ref-1][^ref-16] The five cumulative attempts spanning fifteen years constitute a unique cross-engine archival case study in franchise-continuation technical engineering.
 
 ### The 2015 Reboot
 

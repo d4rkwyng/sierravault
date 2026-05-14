@@ -168,32 +168,6 @@
       ]
     },
     {
-      "filename": "CXL - King's Quest IX.md",
-      "series": "Cancelled",
-      "page_type": "cancelled",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 96.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 19,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "1992 - Johnny Castaway.md",
       "series": "Dynamix",
       "page_type": "standard",
@@ -6060,6 +6034,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 31,
+      "issues": []
+    },
+    {
+      "filename": "CXL - King's Quest IX.md",
+      "series": "Cancelled",
+      "page_type": "cancelled",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
       "issues": []
     },
     {
