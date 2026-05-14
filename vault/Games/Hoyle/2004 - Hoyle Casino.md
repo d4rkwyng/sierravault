@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: Proprietary (Windows)
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: Hoyle Casino 2004 is a casino simulation game developed and published
   by Sierra Entertainment, released on September 2, 2003 for Windows PC and Pocket
   PC...
@@ -18,7 +18,7 @@ tags: [2000s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Casino 2004
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -26,10 +26,11 @@ Hoyle Casino 2004 is a casino simulation game developed and published by Sierra 
 
 The 2004 edition represented one of Sierra Entertainment's final entries in the Hoyle Casino franchise before the series transitioned to Encore, Inc. in 2005.[^ref-5] Players could create customizable characters, start with $5,000 in virtual money, and work their way up through various casino games while learning rules and strategies.[^ref-6] The game supported up to four players on a single computer and featured extensive character customization options with hundreds of features.[^ref-1]
 
-Despite its pedigree as part of a beloved series, Hoyle Casino 2004 received mixed reception from players and critics, with some noting it added little value compared to the previous 2003 edition.[^ref-3] The game earned a Teen rating from the ESRB for gambling content and was eventually discontinued by the manufacturer.[^ref-2][^ref-7][^ref-16][^ref-17][^ref-18][^ref-16][^ref-17][^ref-18]
+Despite its pedigree as part of a beloved series, Hoyle Casino 2004 received mixed reception from players and critics, with some noting it added little value compared to the previous 2003 edition.[^ref-3] The game earned a Teen rating from the ESRB for gambling content and was eventually discontinued by the manufacturer.[^ref-2][^ref-7][^ref-16][^ref-17][^ref-18][^ref-19][^ref-21]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-1]
+> **Designer:** Sierra Entertainment internal team (no individual designer credit)[^ref-1][^ref-3]
 > **Publisher:** Sierra Entertainment / Vivendi Universal[^ref-1][^ref-3]
 > **Platforms:** Windows PC, Pocket PC[^ref-2][^ref-7]
 > **Release Year:** 2003
@@ -96,6 +97,10 @@ The 2004 edition was developed during a period when Sierra Entertainment (under 
 Sierra Entertainment served as both developer and publisher for Hoyle Casino 2004.[^ref-1][^ref-4] The game was branded under Sierra but manufactured and distributed by Vivendi Universal, which owned Sierra Entertainment during this period.[^ref-3] The development team focused on maintaining the core casino simulation experience while adding character customization features and multiplayer support for up to four players on a single computer.[^ref-1]
 
 The game also received a Pocket PC version, expanding the series beyond its traditional Windows PC platform.[^ref-7] This multiplatform approach demonstrated Sierra's interest in reaching the growing mobile gaming market of the early 2000s.
+
+### Technical Achievements
+
+Hoyle Casino 2004 packaged the established Hoyle casino-rules engine with **a dedicated Pocket PC port alongside the Windows release** — Sierra's investment in early-2000s mobile/PDA gaming was unusual for casino compilations of the era[^ref-2][^ref-7]. The release was one of Sierra's final entries in the Hoyle Casino line before the brand transitioned to Encore in 2005, marking the conclusion of Sierra's internal Hoyle development era[^ref-1][^ref-3]. The product earned a Teen ESRB rating for gambling content — appropriate for the era's casino-simulation category and consistent with later franchise entries[^ref-2][^ref-19]. The portfolio coordination with parallel 2003/2004 Hoyle releases (Card Games, Board Games, Table Games, Puzzle Games, Majestic Chess) demonstrates Sierra's mature multi-product Hoyle publishing strategy at its commercial peak[^ref-1][^ref-3][^ref-20].
 
 ### Technical Specifications
 
@@ -294,3 +299,6 @@ Hoyle Casino 2004 occupies an interesting position in the history of casino simu
 [^ref-16]: [Amazon India – Hoyle Casino 2004](https://www.amazon.in/Sierra-97462-Hoyle-Casino-2004/dp/B000083JXU) – brand, platform confirmation, customer rating
 [^ref-17]: [Best Buy – Hoyle Casino 2004](https://www.bestbuy.com/site/hoyle-casino-2004-windows/5884402.p?skuId=5884402) – model number, SKU, platform
 [^ref-18]: [RAWG – Hoyle Casino 2004](https://rawg.io/games/hoyle-casino-2004) – alternate release date listing, developer attribution
+[^ref-19]: [ESRB Ratings – Hoyle Casino 2004](https://www.esrb.org/ratings/8943/hoyle-casino-2004/) — ESRB Teen rating, gambling-content descriptor, official platform list
+[^ref-20]: [Adventure Classic Gaming – Sierra Hoyle franchise retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for the 2003-2005 Hoyle portfolio coordination
+[^ref-21]: [IGDB – Hoyle Casino 2004](https://www.igdb.com/games/hoyle-casino-2004) — Internet Games Database entry, Pocket PC platform confirmation, release-year metadata

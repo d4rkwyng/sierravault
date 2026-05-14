@@ -40,38 +40,6 @@
       ]
     },
     {
-      "filename": "2004 - Hoyle Casino.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 18,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "1992 - Johnny Castaway.md",
       "series": "Dynamix",
       "page_type": "standard",
@@ -6354,6 +6322,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "2004 - Hoyle Casino.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
       "issues": []
     },
     {
