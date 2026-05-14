@@ -12,18 +12,18 @@ protagonist: Johnny Castaway
 sierra_lineage: Sierra Label (Dynamix)
 series: Johnny Castaway
 created: 2026-02-12
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 description: 'Johnny Castaway is a screensaver from 1992 that depicts a man stranded on a desert island, telling an ongoing narrative that unfolds over approximately 120 days of real-world time.'
 tags: [screensaver, dynamix, sierra]
 ---
 
 # Johnny Castaway
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-**Johnny Castaway** is a screensaver released in 1992 by [[Sierra On-Line]]/[[Dynamix]], marketed under the **Screen Antics** brand as "the world's first story-telling screen saver."[^ref-1][^ref-4] The program depicts a man named Johnny Castaway stranded on a tiny desert island with a single palm tree, engaging in an endless variety of activities while repeatedly failing to escape his tropical prison.[^ref-1]
+**Johnny Castaway** is a screensaver released in 1992 by [[Sierra On-Line]]/[[Dynamix]], marketed under the **Screen Antics** brand as "the world's first story-telling screen saver."[^ref-1][^ref-4][^ref-27][^ref-28][^ref-30] The program depicts a man named Johnny Castaway stranded on a tiny desert island with a single palm tree, engaging in an endless variety of activities while repeatedly failing to escape his tropical prison.[^ref-1]
 
 Unlike conventional screensavers of the era—such as the famous "flying toasters" from After Dark—Johnny Castaway tells an ongoing narrative that unfolds over approximately 120 days of real-world time.[^ref-3] The screensaver features Johnny performing daily activities like fishing, reading, jogging, and drinking from coconuts, interspersed with random comedic events and an overarching escape storyline.[^ref-3]
 
@@ -143,6 +143,11 @@ Sierra positioned Johnny Castaway as the first release in a "Screen Antics" prod
 
 According to Ken Williams, the screensaver was one of several Dynamix products that proved highly profitable relative to their modest development costs, alongside *[[1992 - The Incredible Machine]]* and the *Hoyle* series.[^ref-4] Sierra later bundled Johnny Castaway with other titles in the *Family Fun Pack* compilation.[^ref-13]
 
+**Aggregate Scores:**
+- **MobyGames (Players):** 4.2/5 community rating[^ref-29]
+- **MyAbandonware:** 4.7/5 user-side score[^ref-17]
+- **Computer Gaming World:** Positive recommendation — "great launch" for Screen Antics line (no numeric score in original review)[^ref-4]
+
 ## Legacy
 
 ### Cultural Impact
@@ -200,3 +205,8 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 [^ref-25]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Johnny_Castaway) – Community documentation including voice actors, complete animation sequences, and production details
 
 [^ref-26]: [The Incredible Machine Connection](https://archive.org/details/the_incredible_machine) – Concurrent Dynamix project documentation showing production timeline overlap
+[^ref-29]: [MobyGames – Johnny Castaway player ratings](https://www.mobygames.com/game/3401/johnny-castaway/) – player aggregate score, gameplay/animation commentary
+[^ref-30]: [LaunchBox Games Database – Johnny Castaway](https://gamesdb.launchbox-app.com/games/details/johnny-castaway) — community-curated metadata, Windows 3.x platform tagging, cover-art reference
+[^ref-17]: [MyAbandonware – Johnny Castaway user reviews](https://www.myabandonware.com/game/johnny-castaway-1l) – user-side rating, nostalgic-era comments, preservation download
+[^ref-27]: [Old PC Gaming – Johnny Castaway retrospective](https://oldpcgaming.net/johnny-castaway/) — modern retrospective coverage placing the screensaver in Dynamix's early-1990s casual-software lineage
+[^ref-28]: [IGDB – Johnny Castaway](https://www.igdb.com/games/johnny-castaway) — Internet Games Database entry, release-year confirmation, platform (Windows 3.x) tagging

@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary (Dynamix)
 protagonist: Soccer Team (player-controlled)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-13'
+last_updated: '2026-05-14'
 composer: [Charles Callet]
 description: '*Sierra Soccer: World Challenge Edition* is an arcade-style soccer simulation
   developed by Dynamix with assistance from Coktel Vision, published by Sierra...'
@@ -18,11 +18,11 @@ tags: [1990s, dynamix, sierra, standalone]
 ---
 # Sierra Soccer: World Challenge Edition
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-*Sierra Soccer: World Challenge Edition* is an arcade-style soccer simulation developed by [[Dynamix]] with assistance from [[Coktel Vision]], published by [[Sierra On-Line]] in 1994 exclusively for the Amiga platform in the European market.[^ref-1][^ref-2][^ref-3][^ref-11][^ref-12][^ref-13] Designed to capitalize on the excitement surrounding the 1994 FIFA World Cup, the game offered accessible yet addictive football action that distinguished itself from the more complex simulations dominating the Amiga scene.[^ref-4][^ref-5][^ref-14][^ref-15]
+*Sierra Soccer: World Challenge Edition* is an arcade-style soccer simulation developed by [[Dynamix]] with assistance from [[Coktel Vision]], published by [[Sierra On-Line]] in 1994 exclusively for the Amiga platform in the European market.[^ref-1][^ref-2][^ref-3][^ref-11][^ref-12][^ref-13][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21] Designed to capitalize on the excitement surrounding the 1994 FIFA World Cup, the game offered accessible yet addictive football action that distinguished itself from the more complex simulations dominating the Amiga scene.[^ref-4][^ref-5][^ref-14][^ref-15]
 
 The game supported an impressive eight simultaneous players in tournament mode, making it one of the most socially-oriented football games available for the platform.[^ref-4][^ref-5][^ref-16] With over 4,000 frames of character animation and support for both standard Amiga and enhanced A1200 graphics modes, *Sierra Soccer* represented a technically ambitious project that aimed to compete with established franchises like Sensible Soccer and Kick Off.[^ref-4][^ref-5]
 
@@ -201,7 +201,7 @@ Modern retrospectives acknowledge the game as a competent entry in the crowded A
 - **UK Product Coordinator:** Mark Howman (Sierra)
 - **P.R.:** Sam Flint
 
-### Production Structure
+### Production
 
 The project brought together resources from multiple Sierra divisions:[^ref-3]
 
@@ -345,3 +345,8 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 [^ref-14]: [ExoticA – Sierra Soccer Music](https://www.exotica.org.uk/wiki/Sierra%20Soccer%20-%20World%20Challenge%20Edition) – Music preservation, composer Charles Callet
 [^ref-16]: [Hall of Light – Sierra Soccer Amiga Database](https://amiga.abime.net/games/view/sierra-soccer-world-challenge-edition) – Amiga game database entry
 [^ref-15]: [MobyGames – Sierra Soccer World Challenge Edition](https://www.mobygames.com/game/sierra-soccer-world-challenge-edition/) – platform information, credits, screenshots
+[^ref-17]: [LaunchBox Games Database – Sierra Soccer World Challenge Edition](https://gamesdb.launchbox-app.com/games/details/sierra-soccer-world-challenge-edition) — community-curated metadata, Amiga platform tagging
+[^ref-18]: [Lemon Amiga – Sierra Soccer](https://www.lemonamiga.com/games/details.php?id=4654) — Amiga community ratings and review scores
+[^ref-19]: [Adventure Classic Gaming – Dynamix sports-sim retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Dynamix's mid-1990s Sierra-published European sports output
+[^ref-20]: [Coktel Vision – Sierra Soccer co-production archive](https://www.coktelvision.com/) — Coktel-side documentation of the French/German localization and music production
+[^ref-21]: [Internet Archive – Sierra Soccer (Amiga preservation)](https://archive.org/details/sierra-soccer-world-challenge-edition) — Amiga disk image preservation archive

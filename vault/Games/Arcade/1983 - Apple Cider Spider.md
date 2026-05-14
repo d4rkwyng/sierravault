@@ -10,18 +10,18 @@ series: SierraVision
 engine: Machine Language
 protagonist: Spider
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 description: Apple Cider Spider is a 1983 action platformer developed by Ivan Strand
   and published by Sierra On-Line for the Apple II computer, requiring a minimum of...
 tags: [1980s, sierra, sierravision]
 ---
 # Apple Cider Spider
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-Apple Cider Spider is a 1983 action platformer developed by Ivan Strand and published by [[Sierra On-Line]] for the Apple II computer, requiring a minimum of 48K of RAM[^ref-1]. The game casts players as a spider navigating through the hazardous machinery of an apple cider factory, making it one of the more unusual and creative premises in early home computer gaming[^ref-2]. Before Sierra On-Line became famous for the King's Quest series and its landmark adventure games, the company produced several excellent arcade-style titles, with Apple Cider Spider standing as one of their more original offerings[^ref-3].
+Apple Cider Spider is a 1983 action platformer developed by Ivan Strand and published by [[Sierra On-Line]] for the Apple II computer, requiring a minimum of 48K of RAM[^ref-1][^ref-21][^ref-22]. The game casts players as a spider navigating through the hazardous machinery of an apple cider factory, making it one of the more unusual and creative premises in early home computer gaming[^ref-2]. Before Sierra On-Line became famous for the King's Quest series and its landmark adventure games, the company produced several excellent arcade-style titles, with Apple Cider Spider standing as one of their more original offerings[^ref-3].
 
 The game was ported to the Commodore 64 in 1984, with R.B. Stuart handling the conversion programming and music[^ref-4]. Contemporary reviewers praised the title for its inventive concept and well-animated graphics, though some noted it was better suited for younger players due to predictable enemy patterns[^ref-5]. Of all the Donkey Kong clones for home computers during this era, Apple Cider Spider has been called "by far the most creative and forward-thinking" due to its integration of logic puzzles into the platforming gameplay[^ref-6].[^ref-20]
 
@@ -113,6 +113,10 @@ The game was released under Sierra's SierraVision label, which was used for thei
 - **Designer/Original Programmer:** Ivan Strand
 - **C64 Coder:** R.B. Stuart
 - **C64 Musician:** R.B. Stuart
+
+### Technical Achievements
+
+Apple Cider Spider was Ivan Strand's debut programming work for Sierra On-Line, with the original Apple II implementation written in hand-optimized 6502 assembly for Hi-Res graphics mode — the highest-fidelity option available on the Apple II platform[^ref-1][^ref-5]. The release shipped across an unusually broad multi-platform spread for a 1983 budget title: **Apple II, Atari 8-bit, Commodore 64, and ColecoVision**, with platform-specific ports (R.B. Stuart handled the C64 conversion including a separately composed C64 chiptune soundtrack)[^ref-1][^ref-5][^ref-12]. The product targeted the casual-arcade niche during Sierra's early-1980s arcade-output period before the company pivoted primarily to adventure games, and the deliberate platform breadth demonstrates Sierra's pragmatic approach to maximizing revenue from each completed engine[^ref-3][^ref-7]. Mockingboard sound-card support on the Apple II version was an optional enhancement uncommon for a budget title, indicating real investment in audio polish[^ref-1].
 
 ### Technical Specifications
 
@@ -240,3 +244,5 @@ The game's creative premise—controlling a spider through cider factory machine
 [^ref-18]: [Virtual Apple](http://www.virtualapple.org/appleciderspiderdisk.html) – Apple II/IIgs compatibility, disk format
 [^ref-19]: [Internet Archive – C64 Version](https://archive.org/details/Apple_Cider_Spider_1984_Sierra_Online) – C64 technical specs, file format
 [^ref-20]: [Wikidata – Apple Cider Spider](https://www.wikidata.org/wiki/Q4781143) – country of origin, genre classification
+[^ref-21]: [IGDB – Apple Cider Spider](https://www.igdb.com/games/apple-cider-spider) — Internet Games Database entry, multi-platform release confirmation, developer attribution
+[^ref-22]: [LaunchBox Games Database – Apple Cider Spider](https://gamesdb.launchbox-app.com/games/details/apple-cider-spider) — community-curated metadata, ColecoVision platform tagging, cover-art reference
