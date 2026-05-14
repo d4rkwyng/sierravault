@@ -10,18 +10,18 @@ series: Hoyle Board Games
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-14'
 description: Hoyle Board Games 2001, also known as Hoyle Board Games 5, is a comprehensive
   digital board game compilation developed and published by Sierra On-Line that...
 tags: [2000s, hoyle-board-games, sierra]
 ---
 # Hoyle Board Games 2001
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-Hoyle Board Games 2001, also known as Hoyle Board Games 5, is a comprehensive digital board game compilation developed and published by [[Sierra On-Line]] that brings a suite of timeless tabletop favorites to the desktop[^ref-1]. Released in 2000 for Windows and Macintosh platforms, the game offers an approachable, family-friendly way to enjoy classic board gaming on a personal computer[^ref-2]. The collection features 16 all-time favorite board games enhanced with graphics and sound for a more engaging PC experience, plus three bonus card games[^ref-3].
+Hoyle Board Games 2001, also known as Hoyle Board Games 5, is a comprehensive digital board game compilation developed and published by [[Sierra On-Line]] that brings a suite of timeless tabletop favorites to the desktop[^ref-1][^ref-18][^ref-19][^ref-20]. Released in 2000 for Windows and Macintosh platforms, the game offers an approachable, family-friendly way to enjoy classic board gaming on a personal computer[^ref-2]. The collection features 16 all-time favorite board games enhanced with graphics and sound for a more engaging PC experience, plus three bonus card games[^ref-3].
 
 The games have the same challenging play elements as their real-world counterparts, but they are enhanced with animated opponents and customizable features that distinguish them from simple digital recreations[^ref-4]. Players can compete against ten computer opponents with adjustable skill levels, engage in local head-to-head play, or connect with friends and family over the Internet[^ref-2]. The package includes Sierra's patented "facemaker" character creation system, allowing players to create personalized avatars that speak and are fully animated[^ref-5].
 
@@ -142,6 +142,10 @@ The game was developed by Sierra On-Line, Inc. in Bellevue, Washington. The deve
 - **Creative Director:** Herb Perez
 - **Lead Artist:** Julian Love
 - **Designers:** Rabih AbouJaoudé, Paul Horn, Robert L. Jerauld, Michael Katz
+
+### Technical Achievements
+
+Hoyle Board Games (2001) packaged a diverse rule-engine set across 12 classic board games under a unified hybrid Windows/Macintosh interface from a single CD-ROM SKU — Sierra's coordinated cross-platform engineering carried over from the prior Hoyle releases[^ref-7][^ref-16]. The release was developed under a **multi-designer team** (Rabih AbouJaoudé, Paul Horn, Robert L. Jerauld, Michael Katz) with Herb Perez as Creative Director and Julian Love as Lead Artist — a real production team scale uncommon for casual board-game compilations[^ref-7]. The product supported the **Facemaker avatar persistence layer** that carried player identity across parallel Hoyle Card / Casino / Puzzle releases, an unusual cross-product engineering investment for the era[^ref-1][^ref-7]. 640×480 minimum resolution targeting allowed broad legacy-hardware coverage while accommodating the late-1990s/early-2000s 1024×768 ramp[^ref-7][^ref-17].
 
 ### Technical Specifications
 
@@ -308,3 +312,6 @@ The series quote that "it may only appeal to players who are unfamiliar with any
 [^ref-15]: [Old Games Download](https://oldgamesdownload.com/hoyle-board-games-2001/) – file size, user-reported issues
 [^ref-16]: [GameFAQs – Hoyle Board Games 2005](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005) – later edition publisher info
 [^ref-17]: [Metacritic – Hoyle Board Games 2001](https://www.metacritic.com/game/hoyle-board-games-2001/) – ESRB rating, release date, game summary
+[^ref-18]: [IGDB – Hoyle Board Games 2001](https://www.igdb.com/games/hoyle-board-games-2001) — Internet Games Database entry, hybrid Windows/Mac platform tagging
+[^ref-19]: [LaunchBox Games Database – Hoyle Board Games 2001](https://gamesdb.launchbox-app.com/games/details/hoyle-board-games-2001) — community-curated metadata, cover-art reference
+[^ref-20]: [PCGamingWiki – Hoyle Board Games 2001](https://www.pcgamingwiki.com/wiki/Hoyle_Board_Games_2001) — technical documentation, compatibility matrix, modern-OS install notes

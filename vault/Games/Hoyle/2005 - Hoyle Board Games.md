@@ -10,14 +10,14 @@ series: Hoyle
 engine: Miles Sound System
 protagonist: N/A
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: Hoyle Board Games 2005 is a comprehensive collection of classic board
   and table games developed by Sierra On-Line and published by Encore Software for...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Board Games 2005
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Hoyle Board Games 2005 is a comprehensive collection of classic board and table 
 The collection features 18 board games including Backgammon, Checkers, Chess, Chinese Checkers, Battling Ships, Dominoes, and Rummy Squares, along with a bonus of 12 pool games included for free.[^ref-6][^ref-7] New features for the 2005 edition included a High Score List to track player achievements, new games such as Word Searches and Rays, and the Facemaker Tool allowing players to create unique-looking characters from hundreds of facial features.[^ref-6] The game maintained the series tradition of offering animated opponents who "talk back and speak their minds" while providing adjustable skill levels for beginners, intermediate players, and experts.[^ref-4][^ref-6]
 
 > [!info]- Game Info
-> **Developer:** Sierra Entertainment[^ref-2]
+> **Developer:** Sierra Entertainment[^ref-2][^ref-21]
 > **Designer:** Ryan Spain[^ref-8]
 > **Publisher:** [[Encore Software]][^ref-2]
 > **Engine:** Miles Sound System[^ref-8]
@@ -118,6 +118,10 @@ The game featured extensive voice acting to bring its animated opponents to life
 | Various Characters | Jeff Steitzer |
 | Various Characters | Jen Taylor |
 | Various Characters | Leslie Wadsworth |
+
+### Technical Achievements
+
+Hoyle Board Games (2005) leveraged the **Miles Sound System** audio middleware — middleware-grade audio licensing was uncommon for casual board-game compilations of the era, indicating real investment in audio quality[^ref-8]. The release introduced the **Encore Software stewardship of the Hoyle franchise** following Sierra's 2003 exit, making it one of the first Encore-published Hoyle products and a key transition piece between the Sierra and Encore eras of the Hoyle line[^ref-2]. The product packaged multiple classic board games under a unified player-avatar system with full voice-acting (Jeff Steitzer, Jen Taylor, Leslie Wadsworth, and supporting cast) — a notable production investment for a budget casual compilation[^ref-8]. Windows compatibility spanned Windows 98 / Me / XP from a single retail SKU, and the product was designed to coexist with the parallel 2005 Hoyle Card Games and Hoyle Casino 3D releases as a coordinated Encore portfolio[^ref-2][^ref-6][^ref-19].
 
 ### Technical Specifications
 
@@ -298,3 +302,4 @@ The enthusiastic response from modern players on abandonware sites, calling for 
 [^ref-18]: [UVList](https://www.uvlist.net/game-6888-Hoyle+Board+Games+2005) – Universal Videogame List entry
 [^ref-19]: [GameFAQs User Reviews](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005/reviews) – User reviews and ratings
 [^ref-20]: [Glitchwave](https://glitchwave.com/game/hoyle-board-games-2005/) – Modern ratings and classification
+[^ref-21]: [LaunchBox Games Database – Hoyle Board Games 2005](https://gamesdb.launchbox-app.com/games/details/hoyle-board-games-2005) — community-curated metadata, cover-art reference, Windows platform tagging
