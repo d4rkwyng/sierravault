@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: ''
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 composer: [Christopher Stevens]
 description: 3D Ultra Lionel Traintown is a third-person railroading puzzle game developed
   by Dynamix and published by Sierra Attractions for Windows in 1999. Licensed...
@@ -19,11 +19,11 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3D Ultra Lionel Traintown
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-3D Ultra Lionel Traintown is a third-person railroading puzzle game developed by [[Dynamix]] and published by Sierra Attractions for Windows in 1999[^ref-9]. Licensed by Lionel, LLC, the game was inspired by the once-popular Lionel toy trains and created a virtual environment where trains serve as the main attraction[^ref-2]. The game was designed for anyone but particularly appeals to those interested in trains and puzzles, offering more than 70 challenging assignments across seven distinct play environments[^ref-3].
+3D Ultra Lionel Traintown is a third-person railroading puzzle game developed by [[Dynamix]] and published by Sierra Attractions for Windows in 1999[^ref-9][^ref-23][^ref-24]. Licensed by Lionel, LLC, the game was inspired by the once-popular Lionel toy trains and created a virtual environment where trains serve as the main attraction[^ref-2]. The game was designed for anyone but particularly appeals to those interested in trains and puzzles, offering more than 70 challenging assignments across seven distinct play environments[^ref-3].
 
 Unlike other entries in Sierra's 3D Ultra series which focused on quick bursts of arcade fun (such as Pinball, Pool, and Minigolf), Traintown represented a significant departure into the puzzle genre[^ref-4]. The game features over 30 authentic Lionel model train replicas with animations, allowing players to build and manage elaborate railroad systems without cluttering up their actual basement[^ref-9]. Though its approach is low-key, the game proved to be highly educational, teaching young players about how trains and railroads work, as well as concepts like how food gets from farms to grocery stores[^ref-13].
 
@@ -31,11 +31,13 @@ The game won the Computer Family Entertainment Title of the Year award from the 
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-9]
+> **Designer:** Dynamix internal team (no individual designer credit)[^ref-9]
 > **Publisher:** Sierra Attractions ([[Sierra On-Line]])[^ref-9]
 > **Composer:** Christopher Stevens[^ref-9]
 > **Platforms:** Windows[^ref-9]
 > **Release Year:** 1999 (Original), 2000 (Deluxe)
 > **Series:** 3D Ultra
+> **Protagonist:** N/A (Player-controlled trains; "Whistle Blower" career rank progression)
 > **Sierra Lineage:** Core Sierra
 > **Engine:** 3D Ultra Engine
 
@@ -247,3 +249,5 @@ The game's lasting impact can be measured not in sequels or spiritual successors
 [^ref-20]: [Sound Effects Wiki](https://soundeffects.fandom.com/wiki/3D_Ultra_Lionel_TrainTown) – sound libraries, ESRB rating, European title
 [^ref-21]: [O Gauge Forum](https://o-gaugeforum.com/thread/3523/years-ultra-lionel-traintown-deluxe) – Best Buy availability, difficulty discussion
 [^ref-22]: [Old Games Download](https://oldgamesdownload.com/3d-ultra-lionel-traintown/) – ReadMe file, download sizes
+[^ref-23]: [IGDB – 3-D Ultra Lionel TrainTown Deluxe](https://www.igdb.com/games/3-d-ultra-lionel-traintown-deluxe) — Internet Games Database entry, release-year confirmation, Windows platform tagging
+[^ref-24]: [LaunchBox Games Database – TrainTown Deluxe](https://gamesdb.launchbox-app.com/games/details/3-d-ultra-lionel-traintown-deluxe) — community-curated metadata, cover-art reference
