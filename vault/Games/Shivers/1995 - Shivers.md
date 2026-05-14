@@ -10,14 +10,14 @@ series: Shivers
 engine: SCI32
 protagonist: Unnamed teenager
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 description: Shivers is a first-person horror adventure game released by Sierra On-Line
   in November 1995, marking the company's first foray into first-person adventure...
 tags: [1990s, adventure, sci, shivers, sierra]
 ---
 # Shivers
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -265,7 +265,34 @@ The game's accessibility features, particularly its closed captioning, were rema
 
 Critics remain divided on whether the horror elements succeed—PC Gamer's comparison to "Casper rather than the essence of evil" and PC Games Magazine's "more Scooby-Doo than Psycho" assessment suggest the game works better as a mystery-puzzle experience than true horror[^ref-17][^ref-18]. Yet this may have contributed to its broader appeal and longevity, making it approachable for younger audiences while still providing atmospheric thrills.
 
-The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shivers has aged well in players' memories, even as some modern critics like Just Adventure's Ray Ivey found the "protracted scavenger hunt punctuated with irrelevant puzzles" tedious[^ref-23]. Its cult status is well-earned—Shivers created a unique niche combining museum exploration, mythology, and accessible horror that still resonates with adventure gaming enthusiasts decades later.[^ref-40]References
+The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shivers has aged well in players' memories, even as some modern critics like Just Adventure's Ray Ivey found the "protracted scavenger hunt punctuated with irrelevant puzzles" tedious[^ref-23]. Its cult status is well-earned—Shivers created a unique niche combining museum exploration, mythology, and accessible horror that still resonates with adventure gaming enthusiasts decades later.[^ref-40]
+
+## Downloads
+
+**Purchase / Digital Stores**
+- [GOG.com – Shivers](https://www.gog.com/en/game/shivers) — official digital re-release, runs on modern Windows[^ref-25][^ref-30]
+- [Steam – Shivers](https://store.steampowered.com/app/2148650/Shivers/) — digital edition[^ref-4]
+
+**Download / Preservation**
+- [MyAbandonware – Shivers](https://www.myabandonware.com/game/shivers-3ej) — preservation-quality download with ScummVM compatibility notes[^ref-26]
+- [Internet Archive – Shivers](https://archive.org/details/sierra_shivers) — archival CD-ROM image preservation
+- [PCGamingWiki – Shivers](https://www.pcgamingwiki.com/wiki/Shivers) — modern-OS install guides and patch documentation[^ref-28]
+
+**ScummVM Support**
+- [ScummVM Wiki – Shivers](https://wiki.scummvm.org/index.php?title=Shivers) — modern open-source engine support[^ref-32]
+
+## See Also
+
+- [[1997 - Shivers Two - Harvest of Souls|→ Next: Shivers Two — Harvest of Souls]] — direct sequel[^ref-39][^ref-40]
+- [[Shivers Series]] — series overview
+- [[1995 - Phantasmagoria]] — Sierra's other 1995 horror-adjacent first-person FMV title
+- [[1996 - Lighthouse - The Dark Being]] — Sierra's follow-up first-person puzzle adventure
+- [[Roberta Williams]] — Sierra co-founder during Shivers' production era
+- [[Sierra On-Line]] — publisher
+- [[Sierra Creative Interpreter]] — engine family used for Shivers
+- [[Bibliography]] — canonical Sierra-history sources
+
+## References
 
 [^ref-1]: [Wikipedia – Shivers (video game)](https://en.wikipedia.org/wiki/Shivers_(video_game)) – development history, review scores, accessibility features, release dates
 [^ref-2]: [Adventure Gamers – Shivers](https://adventuregamers.com/article/shivers) – gameplay description, review score, plot summary

@@ -10,7 +10,7 @@ series: Standalone
 engine: 6502 Assembly
 protagonist: Drill Bit/Robotic Arm
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-05-14'
 composer: [Ken Allen]
 description: Oil's Well is an arcade-style maze game developed and published by Sierra
   On-Line, originally released in 1983 for multiple home computer platforms. The...
@@ -18,7 +18,7 @@ tags: [1980s, sierra, standalone]
 ---
 # Oil's Well
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -206,7 +206,30 @@ A modern remake was created by Firestorm Productions, updating the game with con
 
 Oil's Well occupies an interesting position in Sierra On-Line's history as one of their more successful arcade-style games during a period when the company was primarily known for adventure titles. While it was openly derivative of the arcade game *Anteater*, the oil drilling re-theme gave it a distinct identity that resonated with players during the energy-conscious early 1980s.
 
-The game's mechanics—extending a vulnerable "arm" through a maze while timing retractions to avoid enemies—created a unique tension not found in standard Pac-Man clones. As critics noted, the strategic element of route planning combined with reflexive timing requirements gave the game depth beyond simple dot-collection.[^ref-3] The 1990 remake demonstrated Sierra's willingness to revisit earlier successes with enhanced technology, though the updated version received more mixed reception than the nostalgically-remembered original.[^ref-26][^ref-30]References
+The game's mechanics—extending a vulnerable "arm" through a maze while timing retractions to avoid enemies—created a unique tension not found in standard Pac-Man clones. As critics noted, the strategic element of route planning combined with reflexive timing requirements gave the game depth beyond simple dot-collection.[^ref-3] The 1990 remake demonstrated Sierra's willingness to revisit earlier successes with enhanced technology, though the updated version received more mixed reception than the nostalgically-remembered original.[^ref-26][^ref-30]
+
+## Downloads
+
+**Purchase / Digital Stores**
+- Not currently available on Steam, GOG, or other major digital storefronts
+- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
+
+**Download / Preservation**
+- [MyAbandonware – Oil's Well](https://www.myabandonware.com/game/oil-s-well-2jg) — abandonware preservation download[^ref-17]
+- [Internet Archive – MS-DOS Version (1990 remake)](https://archive.org/details/msdos_Oils_Well_1990) — 1990 remake preservation[^ref-5]
+- [Internet Archive – ColecoVision Version](https://archive.org/details/Oils_Well_1984_Sierra_On_Line) — ColecoVision preservation[^ref-11]
+- [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Oils_Well_1983_Sierra_On_Line_US_k_file) — Atari 8-bit preservation[^ref-23]
+- [Classic-Retro-Games – Oil's Well](https://www.classic-retro-games.com/games/action/oils-well-288) — playable browser-emulated edition[^ref-13]
+- [PlayClassic Games – Oil's Well](https://playclassic.games/games/arcade-dos-games-online/play-oils-well-online/) — DOS-era browser emulation[^ref-29]
+
+## See Also
+
+- [[1990 - Oils Well|→ 1990 Remake: Oil's Well]] — Sierra's 1990 EGA-graphics remake by Thomas R. Marcus[^ref-5][^ref-6]
+- [[Sierra On-Line]] — publisher and developer
+- [[Ken Williams]] — Sierra co-founder during Oil's Well's development era
+- [[1990 - Codename - Iceman]] — Sierra contemporary referenced in lore connections[^ref-9]
+
+## References
 
 [^ref-1]: [Wikipedia – Oil's Well](https://en.wikipedia.org/wiki/Oil%27s_Well) – historical overview, awards, development history, critical reception
 [^ref-2]: [MobyGames – Oil's Well (1983)](https://www.mobygames.com/game/1427/oils-well/) – release dates, platforms, credits, ratings

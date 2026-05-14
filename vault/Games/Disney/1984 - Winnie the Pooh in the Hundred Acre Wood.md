@@ -10,14 +10,14 @@ series: Disney Edutainment Series
 engine: Troll's Tale Engine
 protagonist: Player (unnamed child)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 description: '*Winnie the Pooh in the Hundred Acre Wood* is an educational adventure
   game developed by Sierra On-Line in collaboration with Walt Disney Computer Software,...'
 tags: [1980s, adventure, al-lowe, disney-edutainment-series, sierra]
 ---
 # Winnie the Pooh in the Hundred Acre Wood
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -202,7 +202,31 @@ Al Lowe generously released the DOS version of the game as freeware, ensuring it
 
 The game also represents a significant early work for two future Sierra luminaries: Al Lowe, who would go on to create the phenomenally successful *Leisure Suit Larry* franchise, and Mark Crowe, who would co-create the beloved *Space Quest* series.[^ref-20] In this context, the game serves as a fascinating artifact of Sierra's expansion period and the creative development of some of the industry's most important designers.
 
-From a design perspective, the game's innovation of eliminating typing requirements entirely made it genuinely accessible to its target audience of young children in ways that few adventure games of the era could match.[^ref-5] This child-friendly interface philosophy would influence later children's educational software development. The game's emphasis on mapping and spatial reasoning also anticipated later educational game design trends that emphasized learning through exploration.[^ref-27]References
+From a design perspective, the game's innovation of eliminating typing requirements entirely made it genuinely accessible to its target audience of young children in ways that few adventure games of the era could match.[^ref-5] This child-friendly interface philosophy would influence later children's educational software development. The game's emphasis on mapping and spatial reasoning also anticipated later educational game design trends that emphasized learning through exploration.[^ref-27]
+
+## Downloads
+
+**Purchase / Digital Stores**
+- Not currently available on Steam, GOG, or other major digital storefronts
+- [GOG Dreamlist – Winnie the Pooh in the Hundred Acre Wood](https://www.gog.com/dreamlist/game/winnie-the-pooh-in-the-hundred-acre-wood) — community Dreamlist for re-release[^ref-24]
+
+**Download / Preservation**
+- [MyAbandonware – Winnie the Pooh](https://www.myabandonware.com/game/winnie-the-pooh-in-the-hundred-acre-wood-75) — abandonware preservation download[^ref-2]
+- [Internet Archive – DOS Version](https://archive.org/details/msdos_Winnie_the_Pooh_in_the_Hundred_Acre_Wood_1985) — DOS edition preservation[^ref-4]
+- [Internet Archive – Commodore 64 Version](https://archive.org/details/d64_Winnie_the_Pooh_in_the_Hundred_Acre_Wood_1984_Sierra_Online) — C64 disk-image preservation[^ref-29]
+- [DOS Games Archive](https://www.dosgamesarchive.com/download/winnie-the-pooh-in-the-hundred-acre-wood) — freeware DOS download[^ref-7]
+- [ClassicReload – Winnie the Pooh](https://classicreload.com/winnie-the-pooh-in-the-hundred-acre-wood.html) — browser-emulated playable edition[^ref-25]
+- [Play DOS Games – Winnie the Pooh](https://www.playdosgames.com/online/winnie-the-pooh-in-the-hundred-acre-wood/) — DOS-era browser emulation[^ref-28]
+
+## See Also
+
+- [[1984 - Mickey's Space Adventure]] — Sierra's parallel Disney-licensed children's adventure released the same year[^ref-6]
+- [[Al Lowe]] — programmer/designer on this title prior to creating Leisure Suit Larry[^ref-3][^ref-20]
+- [[Mark Crowe]] — artist on this title prior to co-creating the Space Quest series[^ref-20]
+- [[Sierra On-Line]] — developer and publisher
+- [[1986 - The Black Cauldron]] — later Sierra-Disney collaboration
+
+## References
 
 [^ref-1]: [MobyGames – Winnie the Pooh in the Hundred Acre Wood](https://www.mobygames.com/game/7274/winnie-the-pooh-in-the-hundred-acre-wood/) – release dates, developers, publishers, platforms, ratings
 [^ref-2]: [My Abandonware – Winnie the Pooh in the Hundred Acre Wood](https://www.myabandonware.com/game/winnie-the-pooh-in-the-hundred-acre-wood-75) – series context, educational focus, ratings

@@ -226,70 +226,6 @@
       ]
     },
     {
-      "filename": "1983 - Oils Well.md",
-      "series": "Oils Well",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 27,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Missing ## References section",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1984 - Winnie the Pooh in the Hundred Acre Wood.md",
-      "series": "Disney",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 29,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Missing ## References section",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
       "filename": "2023 - Pharaoh - A New Era.md",
       "series": "Pharaoh",
       "page_type": "standard",
@@ -344,38 +280,6 @@
           "severity": "warning",
           "message": "Missing ### Technical Achievements",
           "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1992 - Take a Break! Crosswords.md",
-      "series": "Take a Break!",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Legacy section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Missing ## References section",
-          "points_lost": 1
         },
         {
           "category": "References",
@@ -638,38 +542,6 @@
           "severity": "warning",
           "message": "Reference count below target of 20",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1995 - Shivers.md",
-      "series": "Shivers",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 94.9,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 39,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Missing ## References section",
-          "points_lost": 1
         }
       ]
     },
@@ -5915,6 +5787,19 @@
       "issues": []
     },
     {
+      "filename": "1995 - Shivers.md",
+      "series": "Shivers",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 39,
+      "issues": []
+    },
+    {
       "filename": "1997 - Shivers Two - Harvest of Souls.md",
       "series": "Shivers",
       "page_type": "standard",
@@ -6042,6 +5927,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 23,
+      "issues": []
+    },
+    {
+      "filename": "1992 - Take a Break! Crosswords.md",
+      "series": "Take a Break!",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {
@@ -8099,6 +7997,19 @@
       "issues": []
     },
     {
+      "filename": "1983 - Oils Well.md",
+      "series": "Oils Well",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 27,
+      "issues": []
+    },
+    {
       "filename": "1990 - Oils Well.md",
       "series": "Oils Well",
       "page_type": "standard",
@@ -8343,6 +8254,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 43,
+      "issues": []
+    },
+    {
+      "filename": "1984 - Winnie the Pooh in the Hundred Acre Wood.md",
+      "series": "Disney",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 29,
       "issues": []
     },
     {
