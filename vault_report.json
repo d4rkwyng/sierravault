@@ -8,44 +8,6 @@
   },
   "pages": [
     {
-      "filename": "1999 - NASCAR Craftsman Truck Series Racing.md",
-      "series": "NASCAR",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.8,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "1986 - Wrath of Denethenor.md",
       "series": "Standalone",
       "page_type": "standard",
@@ -201,38 +163,6 @@
           "category": "Structure",
           "severity": "warning",
           "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1995 - Metaltech - Earthsiege Expansion Pack.md",
-      "series": "Metaltech",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
           "points_lost": 2
         }
       ]
@@ -7428,6 +7358,19 @@
       "issues": []
     },
     {
+      "filename": "1995 - Metaltech - Earthsiege Expansion Pack.md",
+      "series": "Metaltech",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
       "filename": "1999 - Starsiege.md",
       "series": "Metaltech",
       "page_type": "standard",
@@ -8365,6 +8308,19 @@
     },
     {
       "filename": "2001 - NASCAR Racing 4.md",
+      "series": "NASCAR",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "1999 - NASCAR Craftsman Truck Series Racing.md",
       "series": "NASCAR",
       "page_type": "standard",
       "is_flagship": false,
