@@ -40,84 +40,6 @@
       ]
     },
     {
-      "filename": "1996 - Hoyle Solitaire.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 22,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        }
-      ]
-    },
-    {
-      "filename": "1989 - Hoyle Official Book of Games - Volume 1.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1996 - NASCAR Racing 2.md",
-      "series": "NASCAR",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 37,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        }
-      ]
-    },
-    {
       "filename": "1999 - 3-D Ultra Lionel TrainTown.md",
       "series": "3D Ultra",
       "page_type": "standard",
@@ -346,58 +268,6 @@
       ]
     },
     {
-      "filename": "TBD - Order of the Thorne - Fortress of Fire.md",
-      "series": "Spiritual Successors",
-      "page_type": "tbd",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 19,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        }
-      ]
-    },
-    {
-      "filename": "TBD - Quest for Infamy - Roehm to Ruin.md",
-      "series": "Spiritual Successors",
-      "page_type": "tbd",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 21,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        }
-      ]
-    },
-    {
       "filename": "1990 - Rise of the Dragon.md",
       "series": "Dynamix",
       "page_type": "standard",
@@ -458,32 +328,6 @@
       ]
     },
     {
-      "filename": "CXL - SWAT - Urban Justice.md",
-      "series": "Cancelled",
-      "page_type": "cancelled",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 96.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Missing ## References section",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
       "filename": "CXL - King's Quest IX.md",
       "series": "Cancelled",
       "page_type": "cancelled",
@@ -506,32 +350,6 @@
           "severity": "warning",
           "message": "Missing ### Technical Achievements",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "CXL - Precinct (2013).md",
-      "series": "Cancelled",
-      "page_type": "cancelled",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 96.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Legacy section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Missing ## References section",
-          "points_lost": 1
         }
       ]
     },
@@ -1396,26 +1214,6 @@
           "severity": "warning",
           "message": "Reception section has no numeric scores",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "CXL - Leisure Suit Larry 8.md",
-      "series": "Cancelled",
-      "page_type": "cancelled",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 97.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
         }
       ]
     },
@@ -2437,26 +2235,6 @@
           "category": "Structure",
           "severity": "error",
           "message": "Missing ### Modern Assessment",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1994 - Aces of the Deep.md",
-      "series": "Aces",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 24,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
           "points_lost": 2
         }
       ]
@@ -5847,6 +5625,32 @@
       "issues": []
     },
     {
+      "filename": "TBD - Order of the Thorne - Fortress of Fire.md",
+      "series": "Spiritual Successors",
+      "page_type": "tbd",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
+      "issues": []
+    },
+    {
+      "filename": "TBD - Quest for Infamy - Roehm to Ruin.md",
+      "series": "Spiritual Successors",
+      "page_type": "tbd",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
+      "issues": []
+    },
+    {
       "filename": "2014 - Quest for Infamy.md",
       "series": "Spiritual Successors",
       "page_type": "spiritual",
@@ -6146,6 +5950,19 @@
       "issues": []
     },
     {
+      "filename": "1994 - Aces of the Deep.md",
+      "series": "Aces",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 24,
+      "issues": []
+    },
+    {
       "filename": "1994 - Spelling Blizzard.md",
       "series": "Discovery",
       "page_type": "standard",
@@ -6341,6 +6158,32 @@
       "issues": []
     },
     {
+      "filename": "CXL - Leisure Suit Larry 8.md",
+      "series": "Cancelled",
+      "page_type": "cancelled",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": []
+    },
+    {
+      "filename": "CXL - SWAT - Urban Justice.md",
+      "series": "Cancelled",
+      "page_type": "cancelled",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": []
+    },
+    {
       "filename": "CXL - Babylon 5 - Into the Fire.md",
       "series": "Cancelled",
       "page_type": "cancelled",
@@ -6364,6 +6207,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 18,
+      "issues": []
+    },
+    {
+      "filename": "CXL - Precinct (2013).md",
+      "series": "Cancelled",
+      "page_type": "cancelled",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
       "issues": []
     },
     {
@@ -6601,6 +6457,19 @@
       "issues": []
     },
     {
+      "filename": "1996 - Hoyle Solitaire.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
+      "issues": []
+    },
+    {
       "filename": "2002 - Hoyle Card Games.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -6624,6 +6493,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 21,
+      "issues": []
+    },
+    {
+      "filename": "1989 - Hoyle Official Book of Games - Volume 1.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {
@@ -8041,6 +7923,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 27,
+      "issues": []
+    },
+    {
+      "filename": "1996 - NASCAR Racing 2.md",
+      "series": "NASCAR",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 37,
       "issues": []
     },
     {

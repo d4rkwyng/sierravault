@@ -10,14 +10,14 @@ series: Quest for Infamy
 engine: Adventure Game Studio
 protagonist: Mr. Roehm
 sierra_lineage: Spiritual Successor
-last_updated: '2026-05-13'
+last_updated: '2026-05-14'
 description: '*Quest for Infamy: Roehm to Ruin* is a point-and-click adventure RPG
   developed by Infamous Quests serving as a prequel to their 2014 title *Quest for...'
 tags: [2020s, adventure, quest-for-infamy, rpg, sierra]
 ---
 # Quest for Infamy: Roehm to Ruin
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -164,7 +164,26 @@ The game itself represents the continuation of a tradition rooted in fan develop
 
 *Quest for Infamy: Roehm to Ruin* represents an interesting case study in independent adventure game development. The extended development timeline—from 2015 announcement to expected 2026 release—illustrates the challenges facing small studios attempting to maintain commercial viability while delivering on crowdfunded promises.[^ref-3]
 
-The game stands as part of a broader movement of Sierra-inspired spiritual successors that emerged in the 2010s.[^ref-9] Adventure Gamers noted that the original *Quest for Infamy* "really channeled those influences and created a surprisingly authentic-feeling new title," suggesting the prequel may maintain this quality.[^ref-11] The deliberate choice to portray an anti-hero rather than a traditional protagonist distinguishes the series within the genre, offering a morally gray perspective uncommon in classic-style adventure games.[^ref-5][^ref-20][[1993 - Blue Force]]
+The game stands as part of a broader movement of Sierra-inspired spiritual successors that emerged in the 2010s.[^ref-9] Adventure Gamers noted that the original *Quest for Infamy* "really channeled those influences and created a surprisingly authentic-feeling new title," suggesting the prequel may maintain this quality.[^ref-11] The deliberate choice to portray an anti-hero rather than a traditional protagonist distinguishes the series within the genre, offering a morally gray perspective uncommon in classic-style adventure games.[^ref-5][^ref-20]
+
+## Downloads
+
+**Development Updates / Patreon**
+- [Infamous Quests Patreon](https://www.patreon.com/infamousquests) — primary backer-update channel including the April 2026 Steve Patrick recording milestone[^ref-3][^ref-13]
+- [itch.io – Quest for Infamy: Roehm to Ruin](https://infamousquests.itch.io/qfi-rtr) — official itch.io project page; early-access builds released to Patreon supporters[^ref-6]
+
+**Purchase / Digital Stores**
+- Not yet released; commercial release remains pending as of mid-2026[^ref-3][^ref-13]
+- [Steam page – pending](https://store.steampowered.com/) — no Steam listing yet
+- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
+
+## See Also
+
+- [[2014 - Quest for Infamy|← Original: Quest for Infamy (2014)]] — original Infamous Quests release that this prequel feeds into
+- [[2015 - Order of the Thorne - The King's Challenge]] — Infamous Quests sister-series release
+- [[TBD - Order of the Thorne - Fortress of Fire]] — Infamous Quests' other in-development title
+- [[Infamous Quests]] — developer
+- [[1993 - Blue Force]]
 - [[2006 - Al Emmo and the Lost Dutchman's Mine]]
 - [[2008 - Ace of Aces]]
 - [[2010 - Gray Matter]]

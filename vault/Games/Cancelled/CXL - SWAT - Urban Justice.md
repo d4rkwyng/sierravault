@@ -10,14 +10,14 @@ series: SWAT
 engine: Takedown 3D
 protagonist: SWAT Officer
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 description: 'SWAT: Urban Justice was an ambitious tactical shooter developed by Sierra
   Entertainment, intended as the fourth installment in the SWAT franchise and the...'
 tags: [shooter, sierra, swat]
 ---
 # SWAT: Urban Justice
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -178,7 +178,15 @@ Due to the limited availability of development materials, no significant fan pro
 
 SWAT: Urban Justice represents a fascinating "what if" in tactical shooter history. The game was being developed during a transformative period for the genre—as IGN's Aaron Boulding noted regarding the similar SWAT: Global Strike Team, "in the time since it was announced for PS2 and Xbox and its recent arrival on those systems, other titles like SOCOM and Rainbow Six 3 have surpassed and improved on what SWAT: GST set out to do."[^ref-10]
 
-The cancellation of Urban Justice and the subsequent commissioning of SWAT 4 from Irrational Games represented a strategic pivot by Vivendi. Rather than continuing with an internal Sierra project that had spent years in development difficulties, the publisher chose to hand the franchise to a studio that would go on to create one of the most References
+The cancellation of Urban Justice and the subsequent commissioning of SWAT 4 from Irrational Games represented a strategic pivot by Vivendi. Rather than continuing with an internal Sierra project that had spent years in development difficulties, the publisher chose to hand the franchise to a studio that would go on to create one of the most acclaimed entries in the SWAT lineage[^ref-6][^ref-11].
+
+## See Also
+
+- [[Police Quest Series]] — parent franchise lineage
+- [[2005 - SWAT 4|SWAT 4 (Irrational Games, 2005)]] — Vivendi's chosen successor after Urban Justice's cancellation
+- [[Sierra On-Line]] — publisher
+
+## References
 
 [^ref-1]: [Police Quest Omnipedia – SWAT: Urban Justice](https://policequest.fandom.com/wiki/SWAT:_Urban_Justice_(cancelled_game)) – cancellation details, easter egg documentation, development timeline
 [^ref-2]: [IGN – SWAT: Urban Justice](https://www.ign.com/games/swat-urban-justice) – game setting, designer credits, feature descriptions

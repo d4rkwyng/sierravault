@@ -10,14 +10,14 @@ series: Aces Series
 engine: 3D-Grafikengine
 protagonist: U-Boat Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-05-14'
 description: Aces of the Deep stands as one of the most acclaimed submarine simulations
   ever created, developed by Dynamix and published by Sierra On-Line in 1994. Set...
 tags: [1990s, aces-series, sierra, simulation]
 ---
 # Aces of the Deep
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -144,22 +144,28 @@ The game's historical research methodology set new standards for the industry, w
 
 Mike Jones reflected on the development challenges, noting that "Software development, especially game development, is still an art"[^ref-11]. The game's preservation continues today through multiple archive sources[^ref-15][^ref-16][^ref-17], ensuring that this landmark simulation remains accessible to new generations of players seeking authentic submarine warfare experiences.[^ref-28]
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
+- Not currently available on GOG, Steam, or other modern digital storefronts
+- [GOG Dreamlist – Aces of the Deep](https://www.gog.com/dreamlist/game/aces-of-the-deep-1994) — community Dreamlist for re-release[^ref-4]
 
-### ### Naval Simulation Authenticity
+**Download / Preservation**
+- [Internet Archive – Aces of the Deep](https://archive.org/details/AcesoftheDeep_1020) — preservation archive[^ref-2]
+- [SierraChest – Aces of the Deep](https://www.sierrachest.com/index.php?a=games&id=212&title=aces-of-the-deep&fld=trailers) — packaging archive and trailer preservation[^ref-6]
+
+### Naval Simulation Authenticity
 
 Aces of the Deep featured accurate submarine capabilities and naval tactics based on historical WWII operations[^ref-2]. The game's torpedo mechanics and depth charge scenarios provided authentic naval combat experiences that distinguished it from surface-focused naval games[^ref-3].
 
-### ### Historical Accuracy
+### Historical Accuracy
 
 Aces of the Deep incorporated authentic WWII submarine specifications and operational procedures[^ref-2].
 
-### ### Multiplayer Features
+### Multiplayer Features
 
 The game supported multiplayer submarine warfare scenarios, allowing competitive play between human-controlled vessels[^ref-3].
+
 ### Submarine Tactics and Strategic Gameplay
 
 Aces of the Deep challenged players to employ authentic submarine warfare tactics including silent running, sonar operations, and evasive maneuvers[^ref-2]. The game featured realistic torpedo guidance and damage assessment systems that reflected historical submarine capabilities[^ref-3]. Campaign missions reflected historical naval operations from the Atlantic and Pacific theaters[^ref-4].

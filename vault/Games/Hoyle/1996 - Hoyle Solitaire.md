@@ -10,7 +10,7 @@ series: Hoyle
 engine: SCI2.1
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 composer: [Robert Atesalp]
 description: Hoyle Solitaire is a comprehensive card game collection developed and
   published by Sierra On-Line in 1996, representing the modernized Windows evolution
@@ -19,7 +19,7 @@ tags: [1990s, hoyle, sci, sierra]
 ---
 # Hoyle Solitaire
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -245,9 +245,18 @@ The 1996 release exemplified the transition of classic DOS games to Windows plat
 
 The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 releases—demonstrates the enduring appeal of well-implemented card games. While contemporary reviews sometimes dismissed card games as offering "no great excitement,"[^ref-3] the consistent sales and passionate fan base proved that Sierra had identified a genuine market need. Hoyle Solitaire succeeded by providing exactly what its audience wanted: a reliable, polished, and comprehensive solitaire experience that many users considered essential software for any computer they owned.[^ref-1]
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on Steam, GOG, or other modern digital storefronts
+- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
+
+**Download / Preservation**
+- [MyAbandonware – Hoyle Solitaire](https://www.myabandonware.com/game/hoyle-solitaire-1xa) — abandonware preservation download
+- [Internet Archive – Hoyle Solitaire](https://archive.org/details/HoyleSolitaire) — disk-image preservation
+
+## See Also
+
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]

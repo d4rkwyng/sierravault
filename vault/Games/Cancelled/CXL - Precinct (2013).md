@@ -10,14 +10,14 @@ series: Police Quest (Spiritual Successor)
 engine: Unity3D
 protagonist: Maxwell Jones
 sierra_lineage: Spiritual Successor
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 description: Precinct was an ambitious crowdfunded police adventure video game announced
   in 2013 by Jim Walls, the creator of Sierra On-Line's legendary Police Quest...
 tags: [2010s, adventure, police-quest-spiritual-successor, sierra]
 ---
 # Precinct
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -164,7 +164,26 @@ As the game was never completed, the entire project effectively represents cut c
 
 ### Technical Issues
 
-The project never reached a state where technical issues in gameplay could be documented. The primary issues were financial and organizational rather than technical, with the Kickstarter campaign failing to generate sufficient momentum before being cancelled[^ref-1].[^ref-9][^ref-15]References
+The project never reached a state where technical issues in gameplay could be documented. The primary issues were financial and organizational rather than technical, with the Kickstarter campaign failing to generate sufficient momentum before being cancelled[^ref-1].[^ref-9][^ref-15]
+
+## Legacy
+
+### Cancellation and Aftermath
+
+The 2013 *Precinct* Kickstarter raised $85,756 of its $500,000 goal before being cancelled on August 6, 2013[^ref-8]. The campaign pivoted briefly to a staged-funding model in September 2013 but never recovered momentum[^ref-3]. The Jim Walls comeback project quietly faded from public discussion thereafter, with Walls returning to retirement from game design.
+
+### Posthumous Echoes
+
+In May 2025, a separate (and unrelated) game titled **The Precinct** released from a different developer; despite the title overlap, that 2025 product has no connection to the 2013 Jim Walls / Sierra Classic Gaming project documented here[^ref-5][^ref-6][^ref-7]. The Sierra-lineage *Precinct* concept therefore exists primarily as a "what if" — a near-miss for a Jim Walls / Police Quest spiritual successor that the post-Kickstarter market never funded[^ref-2][^ref-4].
+
+## See Also
+
+- [[Police Quest Series]] — Jim Walls' original Sierra franchise
+- [[1987 - Police Quest - In Pursuit of the Death Angel]] — Jim Walls' Sierra debut
+- [[Jim Walls]] — designer
+- [[Sierra On-Line]] — publisher of Walls' original Police Quest series
+
+## References
 
 [^ref-1]: [Kicktraq – Precinct Campaign](https://www.kicktraq.com/projects/precinctgame/precinct/) – Campaign dates, cancellation information, contemporary news coverage, platform targets
 [^ref-8]: [Kickstarter – Precinct (Archived Campaign)](https://www.kickstarter.com/projects/precinctgame/precinct) – Primary source: $85,756 pledged of $500,000 goal, 1,870 backers, cancelled Aug 6 2013, team details (Robert Lindsley, Scott Butler, Jason Crawford)

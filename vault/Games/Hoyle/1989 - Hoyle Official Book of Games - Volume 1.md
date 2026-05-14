@@ -10,7 +10,7 @@ series: Hoyle
 engine: SCI0
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 composer: [Robert Atesalp]
 description: 'Hoyle Official Book of Games: Volume 1 is a collection of six classic
   card games developed and published by Sierra On-Line in 1989. The game serves as
@@ -19,11 +19,11 @@ tags: [1980s, hoyle, sci, sierra]
 ---
 # Hoyle Official Book of Games: Volume 1
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-Hoyle Official Book of Games: Volume 1 is a collection of six classic card games developed and published by Sierra On-Line in 1989[^ref-1]. The game serves as a tribute to Edmond Hoyle, the 18th-century authority on card games whose name became synonymous with official game rules[^ref-2]. As the first entry in what would become a long-running series of computerized parlor games, Volume 1 distinguished itself through its excellent graphics, intuitive mouse-based interface, and the novel ability to play against beloved characters from Sierra's adventure game franchises[^ref-3].
+Hoyle Official Book of Games: Volume 1 is a collection of six classic card games developed and published by Sierra On-Line in 1989[^ref-1][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20]. The game serves as a tribute to Edmond Hoyle, the 18th-century authority on card games whose name became synonymous with official game rules[^ref-2]. As the first entry in what would become a long-running series of computerized parlor games, Volume 1 distinguished itself through its excellent graphics, intuitive mouse-based interface, and the novel ability to play against beloved characters from Sierra's adventure game franchises[^ref-3].
 
 The game represents a spiritual sequel to Sierra's earlier Hi-Res Cribbage from 1981, but expanded significantly in scope and presentation[^ref-4]. What set Hoyle apart from other card games of its era was the integration of Sierra's trademark humor and personality, featuring 18 computer opponents including characters like Larry Laffer from Leisure Suit Larry, King Graham from King's Quest, Roger Wilco from Space Quest, and Officer Sonny Bonds from Police Quest[^ref-1]. The game achieved remarkable commercial success, selling over 250,000 copies by 1990[^ref-4].
 
@@ -226,7 +226,17 @@ Modern retrospective analysis tends to view Volume 1 more favorably than its con
 ## Downloads
 
 **Purchase / Digital Stores**
-- No[[1991 - Hoyle Official Book of Games - Volume 3]]
+- Not currently available on Steam, GOG, or other modern digital storefronts
+- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
+
+**Download / Preservation**
+- [MyAbandonware – Hoyle's Official Book of Games Volume 1](https://www.myabandonware.com/game/hoyle-s-official-book-of-games-volume-1-1nb) — abandonware preservation download
+- [Internet Archive – Hoyle Volume 1](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_Vol._1_1989_Sierra) — DOS edition preservation
+
+## See Also
+
+- [[1990 - Hoyle Official Book of Games - Volume 2|→ Next: Volume 2]]
+- [[1991 - Hoyle Official Book of Games - Volume 3]]
 - [[1991 - Hoyle Official Book of Games - Volume 4]]
 - [[1992 - Hoyle Bridge]]
 - [[1993 - Hoyle Classic Card Games]]
@@ -297,3 +307,8 @@ Modern retrospective analysis tends to view Volume 1 more favorably than its con
 [^ref-13]: [Internet Archive – Hoyle Official Book of Games Volume 1](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_1_1989) – preservation copy, DOS version
 [^ref-14]: [Sierra Gamers – Hoyle Series](https://www.sierragamers.com/hoyle-2/) – series history, development context
 [^ref-15]: [Fictional Crossover Fandom – Hoyle's Official Book of Games](https://fictionalcrossover.fandom.com/wiki/Hoyle%27s_Official_Book_of_Games) – character crossover details, game connections
+[^ref-16]: [IGDB – Hoyle Official Book of Games Volume 1](https://www.igdb.com/games/hoyle-official-book-of-games-volume-1) — Internet Games Database entry, platform listing, release-year confirmation
+[^ref-17]: [LaunchBox Games Database – Hoyle Volume 1](https://gamesdb.launchbox-app.com/games/details/759-hoyle-official-book-of-games-volume-1) — community-curated metadata, cover-art reference
+[^ref-18]: [Adventure Classic Gaming – Sierra Hoyle line retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Sierra's Hoyle franchise founding
+[^ref-19]: [Computer Gaming World archive – Hoyle Volume 1 coverage](https://www.cgwmuseum.org/galleries/index.php?year=1990) — period magazine coverage and Sierra-character integration commentary
+[^ref-20]: [Sierra Chest – Hoyle Volume 1 product page](https://sierrachest.com/index.php?a=games&id=420) — packaging archive, retail-edition documentation

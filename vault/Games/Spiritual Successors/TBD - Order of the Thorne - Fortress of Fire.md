@@ -10,14 +10,14 @@ series: Order of the Thorne
 engine: Adventure Game Studio
 protagonist: Patrick (Addy)
 sierra_lineage: Fan Project
-last_updated: '2026-05-13'
+last_updated: '2026-05-14'
 description: '**Order of the Thorne: Fortress of Fire** is an unreleased point-and-click
   adventure game developed by Infamous Quests, intended as the second and likely...'
 tags: [adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: Fortress of Fire
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -168,7 +168,26 @@ No official hint books or strategy guides have been announced for *Fortress of F
 
 The game's prolonged development limbo illustrates the challenges facing nostalgic indie projects: critical acclaim and crowdfunding success do not always translate to sustainable commercial viability[^ref-6]. The developers' candid reflections on creative compromises—particularly the decision to pursue a "family friendly" approach that may have alienated their core audience of adult adventure gaming enthusiasts—offers valuable insight into the tensions between market assumptions and actual player demographics[^ref-5].
 
-The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra adventure formula continues to inspire developers and attract dedicated audiences, even if the commercial realities of modern game development make such projects increasingly difficult to sustain[^ref-12][^ref-14].[^ref-16][[1993 - Blue Force]]
+The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra adventure formula continues to inspire developers and attract dedicated audiences, even if the commercial realities of modern game development make such projects increasingly difficult to sustain[^ref-12][^ref-14][^ref-16].
+
+## Downloads
+
+**Development Updates / Patreon**
+- [Infamous Quests Patreon](https://www.patreon.com/infamousquests) — primary backer-update channel for development status[^ref-5]
+- [itch.io – Fortress of Fire](https://infamousquests.itch.io/ootf-fortress-of-fire) — official itch.io project page; early-access builds released to Patreon supporters[^ref-3]
+
+**Purchase / Digital Stores**
+- Not yet released; commercial release remains TBD as of April 2026[^ref-5]
+- [Steam page – pending](https://store.steampowered.com/) — no Steam listing yet
+- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
+
+## See Also
+
+- [[2015 - Order of the Thorne - The King's Challenge|← Previous in series: The King's Challenge]]
+- [[2014 - Quest for Infamy]] — Infamous Quests' first commercial release
+- [[TBD - Quest for Infamy - Roehm to Ruin]] — Infamous Quests' other in-development title
+- [[Infamous Quests]] — developer
+- [[1993 - Blue Force]]
 - [[2006 - Al Emmo and the Lost Dutchman's Mine]]
 - [[2008 - Ace of Aces]]
 - [[2010 - Gray Matter]]

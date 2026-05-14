@@ -10,14 +10,14 @@ series: NASCAR Racing
 engine: Papyrus Racing Engine (New)
 protagonist: Player Driver
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 description: NASCAR Racing 2 is a racing simulation video game developed by Papyrus
   Design Group and published by Sierra On-Line, released on December 9, 1996 for MS-DOS...
 tags: [1990s, nascar-racing, papyrus, racing, sierra]
 ---
 # NASCAR Racing 2
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -228,14 +228,29 @@ NASCAR Racing 2 represents a pivotal moment in racing simulation history, arrivi
 
 The Papyrus legacy continued to influence racing games long after the studio's closure by Vivendi Universal in May 2003[^ref-20]. David Kaemmer recovered the rights to their racing simulation technology and went on to found iRacing, which continues the hardcore simulation philosophy[^ref-20]. The NASCAR Racing 2003 Season, the final game in the series, developed such a dedicated modding community that it remained actively played decades after release, with developer Steve Myers noting "Having seen the writing on the wall that this was going to be the end, we did release Sandbox, so that the community could build their own tracks"[^ref-15].
 
-## Purchase
+## Downloads
 
-[[1999 - NASCAR Craftsman Truck Series Racing]]
+**Purchase / Digital Stores**
+- Not currently available on Steam, GOG, or other modern digital storefronts (NASCAR licensing complications preclude commercial re-release)
+- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
+
+**Download / Preservation**
+- [Internet Archive – NASCAR Racing 2 (MS-DOS)](https://archive.org/details/msdos_NASCAR_Racing_2_1996) — DOS edition preservation[^ref-2]
+- [DOS Games Archive – NASCAR Racing 2](https://www.dosgamesarchive.com/download/nascar-racing-2) — DOS-era download[^ref-8]
+- [ClassicReload – NASCAR Racing 2](https://classicreload.com/dosx-nascar-2.html) — browser emulation[^ref-7]
+
+## See Also
+
+- [[1994 - NASCAR Racing|← Previous: NASCAR Racing (1994)]]
+- [[1997 - NASCAR Racing 2 - Grand National Series Expansion|→ Next: NASCAR Racing 2 — Grand National Series Expansion]]
+- [[1999 - NASCAR Craftsman Truck Series Racing]]
 - [[1999 - NASCAR Legends]]
 - [[1999 - NASCAR Racing 3]]
 - [[2001 - NASCAR Racing 4]]
 - [[2002 - NASCAR Racing 2002 Season]]
 - [[2003 - NASCAR Racing 2003 Season]]
+- [[Papyrus Design Group]] — developer
+- [[Sierra On-Line]] — publisher
 
 ## References
 

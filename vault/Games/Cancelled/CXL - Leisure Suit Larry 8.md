@@ -10,14 +10,14 @@ series: Leisure Suit Larry
 engine: SCI (planned)
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-05-14'
 description: '**Leisure Suit Larry 8: Lust in Space**, also known by the alternate
   title **Leisure Suit Larry Explores Uranus**, was a planned sequel in the long-running...'
 tags: [adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 8: Lust in Space
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -169,7 +169,14 @@ The Larry series would eventually return, but never with Al Lowe's direct involv
 
 The series has sold over 10 million copies as of 2011, and Sierra co-founder Ken Williams has described Leisure Suit Larry as the company's best-known franchise.[^ref-12] This commercial success makes the cancellation of Al Lowe's planned eighth installment all the more poignant, representing a missed opportunity for the original creator to continue evolving his most famous creation.
 
-[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
+## See Also
+
+- [[Leisure Suit Larry Series]] — series overview
+- [[Al Lowe]] — designer
+- [[Sierra On-Line]] — publisher
+- [[1996 - Leisure Suit Larry 7 - Love for Sail|← Previous canon entry: Leisure Suit Larry 7]]
+- [[2004 - Leisure Suit Larry - Magna Cum Laude|→ Series resumes (without Al Lowe): Magna Cum Laude]]
+- [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
 - [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
 - [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
 - [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
