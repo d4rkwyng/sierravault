@@ -46,58 +46,6 @@
       ]
     },
     {
-      "filename": "1993 - Turbo Learning - Mega Math.md",
-      "series": "Discovery",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.8,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 19,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/3415/turbo-learning-mega-math/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1994 - Playtoons 1 - Uncle Archibald.md",
-      "series": "Playtoons",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.8,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "1999 - NASCAR Craftsman Truck Series Racing.md",
       "series": "NASCAR",
       "page_type": "standard",
@@ -163,32 +111,6 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2025 - SCP Sierra Conversion Project.md",
-      "series": "Fan Games",
-      "page_type": "fan",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 94.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 21,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html', 'https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html']",
-          "points_lost": 5
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
           "points_lost": 2
         }
       ]
@@ -6320,6 +6242,19 @@
       "issues": []
     },
     {
+      "filename": "2025 - SCP Sierra Conversion Project.md",
+      "series": "Fan Games",
+      "page_type": "fan",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
+      "issues": []
+    },
+    {
       "filename": "2011 - Space Quest II VGA Remake.md",
       "series": "Fan Games",
       "page_type": "fan",
@@ -6759,6 +6694,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 28,
+      "issues": []
+    },
+    {
+      "filename": "1993 - Turbo Learning - Mega Math.md",
+      "series": "Discovery",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {
@@ -8436,6 +8384,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 27,
+      "issues": []
+    },
+    {
+      "filename": "1994 - Playtoons 1 - Uncle Archibald.md",
+      "series": "Playtoons",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {

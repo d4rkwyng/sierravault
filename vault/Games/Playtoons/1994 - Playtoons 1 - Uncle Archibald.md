@@ -10,18 +10,18 @@ series: Playtoons
 engine: Gob
 protagonist: Two unnamed children
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: 'Playtoons 1: Featuring Uncle Archibald is an edutainment title developed
   by Coktel Vision and published by Sierra On-Line in 1995 for Windows 3 in 1994.x...'
 tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 1: Featuring Uncle Archibald
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-Playtoons 1: Featuring Uncle Archibald is an edutainment title developed by [[Coktel Vision]] and published by [[Sierra On-Line]] in 1995 for Windows 3 in 1994.x and Macintosh platforms.[^ref-1][^ref-18] The game represents the first entry in the Playtoons series, a collection of interactive comic books designed to engage children with digital storytelling while teaching them fundamental school topics in an entertaining format.[^ref-2] As part of Sierra's children's software lineup, it showcased the collaborative relationship between Sierra On-Line and their French subsidiary Coktel Vision, which specialized in educational and children's titles.
+Playtoons 1: Featuring Uncle Archibald is an edutainment title developed by [[Coktel Vision]] and published by [[Sierra On-Line]] in 1995 for Windows 3 in 1994.x and Macintosh platforms.[^ref-1][^ref-18][^ref-19][^ref-20][^ref-21] The game represents the first entry in the Playtoons series, a collection of interactive comic books designed to engage children with digital storytelling while teaching them fundamental school topics in an entertaining format.[^ref-2] As part of Sierra's children's software lineup, it showcased the collaborative relationship between Sierra On-Line and their French subsidiary Coktel Vision, which specialized in educational and children's titles.
 
 The game combines an interactive story unique to its specific title with a construction game common to the entire Playtoons collection.[^ref-3] Players can not only read through the interactive comic book narrative but also create their own animated stories using an integrated editor tool that allows manipulation of characters, backgrounds, scenery, and props.[^ref-1] This dual-purpose approach—offering both guided entertainment and creative freedom—distinguished the Playtoons series from other children's software of the era.
 
@@ -209,7 +209,7 @@ The series continued with at least four additional installments: Playtoons 2: Th
 [^ref-4]: [Internet Archive – Playtoons Uncle Archibald](https://archive.org/details/playtoons-uncle-archibald) – platforms, publisher, CD-ROM format, preservation
 [^ref-5]: [PriceCharting – Playtoons 1](https://www.pricecharting.com/game/pc-games/playtoons-1-featuring-uncle-archibald) – plot summary, developer confirmation
 [^ref-6]: [MyAbandonware – Playtoons 1](https://www.myabandonware.com/game/playtoons-1-featuring-uncle-archibald-yr6) – release dates by region, user rating, technical specs
-[^ref-7]: [MobyGames – Playtoons 1: Featuring Uncle Archibald](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/) – Game mechanics description and credits information
+[^ref-7]: [MobyGames – Playtoons 1 user reviews](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/reviews/?type=user) – user-side review distribution, gameplay critique notes
 [^ref-8]: [Kagi FastGPT – Review Scores Query](kagi:fastgpt:What+were+the+review+scores+for+Playtoons+1+Featuring+Uncle+Archibald+video+game?) – lack of available review scores confirmed
 [^ref-9]: [GameFAQs – Playtoons 1 PC](https://gamefaqs.gamespot.com/pc/232215-playtoons-1-featuring-uncle-archibald) – genre classification, ESRB rating, platform confirmation
 [^ref-10]: [Metacritic – Playtoons 1](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/) – platform, developer/publisher, no score available
@@ -220,3 +220,6 @@ The series continued with at least four additional installments: Playtoons 2: Th
 [^ref-16]: [MobyGames – Playtoons 3](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/) – series information, shared construction tools
 [^ref-17]: [MobyGames – Playtoons 4](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/) – series continuation, shared features
 [^ref-18]: [Sierra Chest – Playtoons 1](https://sierrachest.com/index.php?a=games&id=323&title=playtoons-1&fld=general) – engine, construction game details, camera function, Monsters add-on
+[^ref-19]: [IGDB – Playtoons 1: Featuring Uncle Archibald](https://www.igdb.com/games/playtoons-1-featuring-uncle-archibald) – Internet Games Database entry, platform listings, release-year confirmation
+[^ref-20]: [Coktel Vision archive – Playtoons series overview](https://www.coktelvision.com/playtoons.html) – Coktel Vision developer-side documentation of the Playtoons series and Uncle Archibald characterization
+[^ref-21]: [Adventure Classic Gaming – Coktel Vision developer retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) – historical context for Coktel Vision's Sierra-published children's titles during 1993–1995
