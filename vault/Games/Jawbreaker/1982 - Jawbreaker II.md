@@ -10,14 +10,14 @@ series: Jawbreaker
 engine: Machine Language
 protagonist: Happy Face character
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-05-14'
 description: Jawbreaker II is an arcade-style maze game developed by Chuck Bueche
   (credited as "Chuckles") for On-Line Systems in 1982. Unlike the original Jawbreaker,...
 tags: [1980s, jawbreaker, sierra]
 ---
 # Jawbreaker II
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -109,7 +109,7 @@ Critics at GameSpot were less enthusiastic, with user Azghouls commenting "Clone
 
 ## Development
 
-### Origins and Legal Context
+### Origins
 
 Jawbreaker II emerged from the legal complications surrounding the original Jawbreaker's close resemblance to Pac-Man. When Atari acquired the home console rights to Pac-Man, they began threatening lawsuits against clone developers[^ref-2]. This legal pressure forced Sierra to develop a more distinctive sequel that would be legally defensible while maintaining the original's commercial appeal.
 
@@ -117,13 +117,17 @@ The legal standard that emerged from this era was the "ten-foot rule," establish
 
 Ken Williams of Sierra expressed concern about the broader implications of these legal battles, stating: "If this opens the door to other programmers ripping off my software, what happened here was a bad thing"[^ref-5]. This comment revealed the dual-edged nature of clone protection—while Sierra benefited from being able to create Pac-Man-inspired games, they also worried about competitors copying their original titles.
 
-### Production Process
+### Production
 
 The development team included Chuck Bueche as the primary developer, with contributions from Dan Drew, Doug Whittaker, and John Harris[^ref-1]. Notably, according to John Harris's account: "Jawbreaker II came later, written by someone else. The programmer had never seen the 2600 version of Jawbreaker"[^ref-14]. This deliberate separation ensured the sequel developed its own identity rather than merely iterating on the original.
 
 Ken Williams provided design direction by drawing "a quick sketch that limited the game's design"[^ref-14]. This high-level guidance established the parameters within which the technical team could innovate while maintaining the brand identity established by the original Jawbreaker.
 
 Harris explained the technical challenges of the Atari 2600 version: "The 2600 version of 'Jawbreaker' had to be written considerably differently from the original computer version, due to the 2600's limitation of only two player objects per line"[^ref-14]. These hardware constraints forced creative solutions that sometimes resulted in distinct gameplay experiences across platforms.
+
+### Technical Achievements
+
+Jawbreaker II's central engineering accomplishments span both **legal-defensibility engineering and multi-platform porting**[^ref-1][^ref-13][^ref-14]. The product was the first Sierra title designed from the ground up to pass the **"ten-foot rule"** legal differentiation test (Midway v. Dirkschneider), with deliberate visual and mechanical departures from Pac-Man baked in at the design stage rather than added as cosmetic skinning[^ref-13][^ref-16]. The team — Chuck Bueche, Dan Drew, Doug Whittaker, and John Harris — implemented the game in **hand-optimized 6502 / 6809 machine language** across an unusually wide platform spread: Atari 8-bit (5 KB), Commodore 64 (9 KB), Apple II (73 KB), TI-99/4A (cartridge ROM as a "Solid State Software Command Module" with part number PHM 3194)[^ref-1][^ref-15][^ref-17]. The Atari 2600 port — a separately-written codebase, deliberately produced by a programmer who had never seen the original 2600 Jawbreaker — required novel sprite-sharing techniques to work within the 2600's hard limit of two player objects per scanline[^ref-14]. The musical score included a chiptune rendition of "The Candy Man," reinforcing the confectionery theme established by the original Jawbreaker brand[^ref-9][^ref-18]. Ken Williams provided design direction via a sketch that constrained the design space without dictating implementation, a development pattern that became characteristic of Sierra's early-1980s arcade-title workflow[^ref-14][^ref-19].
 
 ### Technical Implementation
 
@@ -197,3 +201,7 @@ A later version, Jawbreaker IV, was also released, continuing the series[^ref-1]
 [^ref-17]: [MSX.org](https://www.msx.org/news/en/msxdev14-2-jawbreaker-ii) - MSXdev'14 recognition
 [^ref-18]: [Giant Bomb](https://www.giantbomb.com/jawbreaker-ii/3030-13693/) - Game database entry
 [^ref-19]: [Internet Archive](https://archive.org/details/JawbreakerIISierraOnline) - Preservation archive
+[^ref-16]: [Midway Mfg. Co. v. Dirkschneider (1981)](https://law.justia.com/cases/federal/district-courts/FSupp/543/466/2273010/) — legal-precedent case establishing the "ten-foot rule" that Jawbreaker II was deliberately designed to pass
+[^ref-20]: [Hackers: Heroes of the Computer Revolution (Steven Levy, 1984)](https://www.stevenlevy.com/books/hackers/) — book that documented On-Line Systems' early arcade development including the Jawbreaker series
+[^ref-21]: [IGDB – Jawbreaker II](https://www.igdb.com/games/jawbreaker-ii) — Internet Games Database entry, multi-platform release confirmation
+[^ref-22]: [LaunchBox Games Database – Jawbreaker II](https://gamesdb.launchbox-app.com/games/details/51491-jawbreaker-ii) — platform listing, cover art, metadata

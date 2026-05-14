@@ -270,38 +270,6 @@
       ]
     },
     {
-      "filename": "1982 - Jawbreaker II.md",
-      "series": "Jawbreaker",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "1995 - Front Page Sports - Football Pro '96.md",
       "series": "Front Page Sports",
       "page_type": "standard",
@@ -7618,6 +7586,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 22,
+      "issues": []
+    },
+    {
+      "filename": "1982 - Jawbreaker II.md",
+      "series": "Jawbreaker",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
       "issues": []
     },
     {
