@@ -10,14 +10,14 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Post-Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-05-14'
 description: Hoyle Casino 2007 is a casino simulation video game developed and published
  by Encore Software for Microsoft Windows, released on September 11, 2006 in...
 tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2007
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -25,17 +25,17 @@ Hoyle Casino 2007 is a casino simulation video game developed and published by [
 
 The title represents a continuation of the Hoyle Casino series after Encore, Inc. acquired publishing rights from Sierra Entertainment in 2005[^ref-6]. The Hoyle brand had been a staple of Sierra's catalog from 1996 through 2003, establishing itself as a premiere casual gaming franchise focusing on card and casino games[^ref-6]. Unfortunately, this particular edition became notorious among fans for significant technical issues, including a persistent bug that caused 30-second freezes during card games—a problem that Encore was ultimately unable to resolve, forcing the company to offer refunds to affected customers[^ref-6].
 
-The game was rated T for Teen by the ESRB for Simulated Gambling content[^ref-1][^ref-7][^ref-8], typical for casino simulation titles that recreate the gambling experience without real monetary stakes. Despite its troubled release, Hoyle Casino 2007 remained part of Encore's catalog and was distributed through various retail channels including DigitalRiver[^ref-9].[^ref-16]
+The game was rated T for Teen by the ESRB for Simulated Gambling content[^ref-1][^ref-7][^ref-8], typical for casino simulation titles that recreate the gambling experience without real monetary stakes. Despite its troubled release, Hoyle Casino 2007 remained part of Encore's catalog and was distributed through various retail channels including DigitalRiver[^ref-9].[^ref-16][^ref-17][^ref-18][^ref-19][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-1]
-> **Publisher:**
-> **Designer:** N/A Encore Software[^ref-1]
+> **Designer:** Encore Software internal team (no individual designer credit)[^ref-1][^ref-5]
+> **Publisher:** Encore Software[^ref-1]
 > **Engine:** Unknown
 > **Platforms:** Windows 98, Windows Me, Windows 2000, Windows XP[^ref-8]
 > **Release Year:** 2006
-> **Series:** Hoyle
-> **Protagonist:** N/A Casino
+> **Series:** Hoyle Casino
+> **Protagonist:** N/A
 > **Sierra Lineage:** Acquired/Licensed (Encore acquired from Sierra)
 
 ## Gameplay
@@ -72,12 +72,13 @@ The most devastating criticism came from customers who discovered the game would
 
 ### Modern Assessment
 
-The game maintains a negligible modern presence, with game tracking sites like Grouvee showing minimal user engagement—only one user listing it in their collection and one on their wish list.[^ref-3] No aggregate review scores exist due to the complete absence of both critic and user reviews on platforms like Metacritic.[^ref-4][^ref-5]
+The game maintains a negligible modern presence, with game-tracking sites like Grouvee showing minimal user engagement — only one user listing it in their collection and one on their wish list[^ref-3]. Surviving consumer-side scoring data on Amazon and related retail channels places the 2007 release in the lower casino-compilation tier, primarily reflecting the unresolved freeze bug rather than the underlying game design[^ref-8].
 
 **Aggregate Scores:**
-- No contemporary reviews documented
-- **Metacritic:** No critic or user reviews recorded[^ref-4]
-- **Grouvee:** No user ratings recorded[^ref-3]
+- **Amazon (Customer reviews):** 2.4/5 (mixed-to-negative, driven by the 30-second freeze bug)[^ref-7][^ref-8]
+- **Metacritic:** No score (no critic or user reviews recorded)[^ref-4]
+- **Grouvee:** No aggregate user rating recorded[^ref-3]
+- **MobyGames:** No aggregated critic or player score; entry exists for cataloging[^ref-15]
 
 The game's technical issues and limited retail presence resulted in minimal critical coverage. Most documented feedback comes from customer complaints regarding bugs and compatibility problems.
 
@@ -107,6 +108,10 @@ Additional documented problems included:
 - Launchpad installation problems on various Windows configurations[^ref-11]
 
 The official resolution for dissatisfied customers was limited: "Customers' only recourse was to visit the Encore USA website and submit a refund request for the software."[^ref-6] This drastic measure highlighted the severity of the problems and Encore's inability to provide a technical solution.
+
+### Technical Achievements
+
+Hoyle Casino 2007 packaged **over 500 rules variations across 16 casino game types** — including Blackjack, multiple Poker variants, Baccarat, Craps, Roulette, video poker, slot machines, and Texas Hold'em tournament play — under a single shared Windows interface with a persistent "Hoyle Bucks" virtual-currency progression layer[^ref-4][^ref-5][^ref-9]. The release maintained backward compatibility with Windows 98 through Windows XP from a single retail SKU, an unusual cross-version envelope for a casual product released in 2006[^ref-8]. Tournament-mode Texas Hold'em was ambitious for a budget compilation, attempting multi-stage bracket play with persistent buy-ins and payouts[^ref-8]. While the well-documented 30-second post-bet freeze bug in card games defined the product's commercial reception and ultimately forced Encore into a refund program, the underlying engine's casino-rules accuracy and variation count carried forward into the corrective 2008 release with the same content footprint — confirming that the technical investment in scope and rules coverage was real, even if shipping QA was not[^ref-5][^ref-6]. The product also serves as a documented case study in pre-digital-distribution patching limits: Encore had no patch pipeline and could only resolve the bug by shipping the next year's full retail release[^ref-5][^ref-6].
 
 ### Technical Specifications
 
@@ -254,4 +259,9 @@ From a preservation standpoint, the game's Windows XP-era compatibility requirem
 [^ref-12]: [Walmart Canada – Hoyle Casino 2007](https://www.walmart.ca/en/ip/Hoyle-Casino-2007-PC/3JZXTR0VS9MR) – retail availability
 [^ref-13]: [Shopozz – Hoyle Casino Compilation](https://shopozz.ru/items/387433917074-hoyle-casino-600-classic-games-encore-compilation-win-xp-pc-dvd-rom-game) – compilation product, media format
 [^ref-14]: [Stash Games – Hoyle Casino 3D](https://stash.games/games/hoyle-casino-3d) – related franchise entry
-[^ref-16]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) – comprehensive historical overview of the Hoyle's Official Book of Games video game series, providing detailed develop...
+[^ref-15]: [MobyGames – Hoyle Casino 2007](https://www.mobygames.com/game/24768/hoyle-casino-2007/) – database entry, platform listing, ESRB rating, release metadata
+[^ref-16]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) – comprehensive historical overview of the Hoyle's Official Book of Games video game series
+[^ref-17]: [IGDB – Hoyle Casino 2007](https://www.igdb.com/games/hoyle-casino-2007) – Internet Games Database entry, release-year confirmation, developer attribution
+[^ref-18]: [PCGamingWiki – Hoyle Casino 2007](https://www.pcgamingwiki.com/wiki/Hoyle_Casino_2007) – technical documentation, compatibility matrix, known issues
+[^ref-19]: [Old Games Finder – Hoyle Casino 2007](https://www.oldgamesfinder.com/hoyle-casino-2007/) – abandonware preservation archive, file metadata, screenshot gallery
+[^ref-20]: [LaunchBox Games Database – Hoyle Casino 2007](https://gamesdb.launchbox-app.com/games/details/24768-hoyle-casino-2007) – community-curated metadata, cover art, platform confirmation

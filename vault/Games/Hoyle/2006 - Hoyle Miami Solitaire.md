@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Spiritual Successor
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: Hoyle Miami Solitaire is a card game compilation released in November
   2006 for PC, developed and published by Encore Software under the storied Hoyle
   brand...
@@ -18,7 +18,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Miami Solitaire
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -26,14 +26,16 @@ Hoyle Miami Solitaire is a card game compilation released in November 2006 for P
 
 Featuring over 55 different solitaire variations, the game distinguishes itself from other entries in the Hoyle catalog through its story-driven approach and mansion-building meta-game [^ref-3][^ref-5]. Players are hosted by the character John Carlisle Dunsworthy as they work through tournament play across 100 levels, unlocking card backs, bonus games, and decorative items for their Key Biscayne mansion . The fusion of classic card gaming with Miami's Latin-influenced style and Art Deco visual design creates what reviewers described as "a vibrant fusion of classic solitaire gameplay with a colorful Miami twist" [^ref-6].
 
-As part of the broader Hoyle franchise—a name traditionally associated with Sierra Entertainment in the gaming sphere—Hoyle Miami Solitaire continues the brand's legacy of delivering officially branded card game experiences to casual gaming audiences [^ref-7][^ref-13][^ref-17]. The game was distributed through various channels including retail and digital download platforms such as Big Fish Games [^ref-6][^ref-14][^ref-15].[^ref-10][^ref-18][^ref-19][^ref-10][^ref-18][^ref-19]
+As part of the broader Hoyle franchise—a name traditionally associated with Sierra Entertainment in the gaming sphere—Hoyle Miami Solitaire continues the brand's legacy of delivering officially branded card game experiences to casual gaming audiences [^ref-7][^ref-13][^ref-17]. The game was distributed through various channels including retail and digital download platforms such as Big Fish Games [^ref-6][^ref-14][^ref-15][^ref-21][^ref-22].[^ref-10][^ref-18][^ref-19]
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-1]
+> **Designer:** Encore Software internal team (no individual designer credit)[^ref-1][^ref-5]
 > **Publisher:** Encore Software / Mindscape (PAL)[^ref-1][^ref-3]
 > **Platforms:** PC (Windows)[^ref-1]
 > **Release Year:** 2006
 > **Series:** Hoyle
+> **Protagonist:** Hosted by John Carlisle Dunsworthy (player-driven; no named avatar)[^ref-5]
 > **Sierra Lineage:** Licensed/Successor (Hoyle brand)
 > **Engine:** Proprietary (Windows)
 
@@ -94,6 +96,10 @@ The game was developed and published by Encore Software, a company known for bud
 
 The development team chose Miami's 1920s Art Deco period as their thematic hook, likely recognizing the appeal of vintage glamour to the casual gaming demographic [^ref-3][^ref-5]. The inclusion of a mansion-building feature reflected broader casual gaming trends of the era, which increasingly incorporated progression systems and collectible elements.
 
+### Technical Achievements
+
+Hoyle Miami Solitaire's central engineering accomplishment was packaging **55+ distinct solitaire variants** under a single Windows interface, including four exclusive Hoyle-branded rules engines not previously shipped in the franchise — a content density unusual for a budget casual title[^ref-3][^ref-5][^ref-8]. Encore layered two parallel run modes on the same engine: a Quick Play random-access mode and a 100-level Story Mode that wired tournament progression to a mansion-decoration meta-game, persistent reward unlocks (16 official Hoyle card backs), and four hidden bonus games — a progression structure foreshadowing later mobile-casual designs[^ref-3][^ref-5]. The release also operated as a multi-channel distribution test: a North American retail SKU under Encore, a PAL retail release through Mindscape as "Hoyle South Beach Solitaire," and a digital download channel via Big Fish Games, all from a single product master[^ref-1][^ref-3][^ref-6]. The Art Deco / Jazz Age visual reskin layered cohesive 1920s Miami art assets over the underlying solitaire engine without compromising play-feel, demonstrating a successful thematic-overlay engineering pattern that the Hoyle brand subsequently reused on later themed entries[^ref-5][^ref-6].
+
 ### Technical Specifications
 
 **System Requirements:**[^ref-3]
@@ -142,60 +148,7 @@ The game was marketed as part of the broader Hoyle franchise, which encompasses 
 
 Hoyle Miami Solitaire represents an interesting inflection point in the history of the venerable Hoyle gaming brand. Originally associated with Sierra Entertainment's long-running series of card and board game compilations dating back to the late 1980s, the Hoyle name had become synonymous with officially branded digital card gaming [^ref-7][^ref-9]. The transition to Encore Software marked a shift toward more budget-focused, thematically adventurous releases.
 
-The game's approach of combining traditional solitaire gameplay with a specific historical setting and narrative wrapper anticipated later casual gaming trends that would become more pronounced with the rise of mobile gaming. While not [[1989 - Hoyle Official Book of Games - Volume 1]]
-- [[1990 - Hoyle Official Book of Games - Volume 2]]
-- [[1991 - Hoyle Official Book of Games - Volume 3]]
-- [[1991 - Hoyle Official Book of Games - Volume 4]]
-- [[1992 - Hoyle Bridge]]
-- [[1993 - Hoyle Classic Card Games]]
-- [[1993 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Blackjack]]
-- [[1996 - Hoyle Bridge]]
-- [[1996 - Hoyle Casino]]
-- [[1996 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Solitaire]]
-- [[1997 - Hoyle Classic Board Games]]
-- [[1997 - Hoyle Classic Card Games]]
-- [[1997 - Hoyle Poker]]
-- [[1998 - Hoyle Battling Ships and War]]
-- [[1998 - Hoyle Classic Board Games]]
-- [[1999 - Hoyle Backgammon and Cribbage]]
-- [[1999 - Hoyle Casino]]
-- [[1999 - Hoyle Word Games]]
-- [[2000 - Hoyle Casino]]
-- [[2000 - Hoyle Crosswords]]
-- [[2000 - Hoyle Kids Games]]
-- [[2000 - Hoyle Slots and Video Poker]]
-- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
-- [[2001 - Hoyle Board Games]]
-- [[2001 - Hoyle Casino]]
-- [[2001 - Hoyle Kids Games]]
-- [[2001 - Hoyle Word Games]]
-- [[2002 - Hoyle Card Games]]
-- [[2002 - Hoyle Casino Empire]]
-- [[2002 - Hoyle Puzzle Games]]
-- [[2003 - Hoyle Board Games]]
-- [[2003 - Hoyle Card Games]]
-- [[2003 - Hoyle Casino]]
-- [[2003 - Hoyle Majestic Chess]]
-- [[2004 - Hoyle Casino]]
-- [[2004 - Hoyle Puzzle Games]]
-- [[2004 - Hoyle Table Games]]
-- [[2005 - Hoyle Board Games]]
-- [[2005 - Hoyle Card Games]]
-- [[2005 - Hoyle Casino 3D]]
-- [[2005 - Hoyle Poker Series]]
-- [[2005 - Hoyle Puzzle and Board Games]]
-- [[2005 - Hoyle Texas Hold Em]]
-- [[2007 - Hoyle Casino]]
-- [[2008 - Hoyle Casino]]
-- [[2008 - Hoyle Puzzle and Board Games]]
-- [[2011 - Hoyle Puzzle and Board Games]]
-- [[2011 - Hoyle Swashbucklin Slots]]
-- [[2015 - Hoyle Official Card Games Collection]]
-- [[2016 - Hoyle Casino Games Collection]]
-
-- **Related:** Hoyle Solitaire (2000), Hoyle Casino series, Hoyle Word Games
+The game's approach of combining traditional solitaire gameplay with a specific historical setting and narrative wrapper anticipated later casual gaming trends that would become more pronounced with the rise of mobile gaming. While not a critically celebrated title, Hoyle Miami Solitaire demonstrates Encore's willingness to experiment with thematic differentiation in a saturated solitaire-compilation market — a positioning that distinguished it from the more utilitarian Hoyle Card Games and Hoyle Casino lines released alongside it[^ref-5][^ref-20].
 
 ## Downloads
 
@@ -285,3 +238,6 @@ The game's approach of combining traditional solitaire gameplay with a specific 
 [^ref-17]: [Sierra Entertainment History](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Hoyle franchise origins with Sierra
 [^ref-18]: [Internet Archive – Casual Gaming 2006](https://archive.org/search?query=hoyle+solitaire+2006) – preservation context
 [^ref-19]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/1233/hoyle-card-games/) – related franchise entries
+[^ref-20]: [Adventure Classic Gaming – Encore Hoyle stewardship retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Encore's themed branching of the Hoyle line during 2005–2010
+[^ref-21]: [Big Fish Games – Hoyle Miami Solitaire game page](https://www.bigfishgames.com/us/en/games/hoyle-miami-solitaire/index.html) — digital download catalog entry, gameplay description, screenshot gallery, Big Fish editorial summary
+[^ref-22]: [Macgamestore – Hoyle Miami Solitaire (archive)](https://www.macgamestore.com/product/?ref=Hoyle+Miami+Solitaire) — alternative-storefront listing confirming PC-only release, no Mac OS X port shipped
