@@ -10,7 +10,7 @@ series: Stellar 7
 engine: 3Space
 protagonist: Captain John Alex
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-14'
 description: 'Nova 9: Return of Gir Draxon is a futuristic tank combat game developed
   by Dynamix and published by Sierra On-Line in 1991. As the sequel to Stellar 7,
   the...'
@@ -18,11 +18,11 @@ tags: [1990s, sierra, stellar-7]
 ---
 # Nova 9: Return of Gir Draxon
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-Nova 9: Return of Gir Draxon is a futuristic tank combat game developed by Dynamix and published by Sierra On-Line in 1991[^ref-1]. As the sequel to Stellar 7, the game continues the story of Captain John Alex's battle against the villainous Gir Draxon, an interstellar tyrant seeking to rebuild his shattered empire[^ref-2]. The game was marketed with the bold tagline "Dynamix has just redefined state-of-the-art" and promised players action across nine visually distinct worlds[^ref-3].
+Nova 9: Return of Gir Draxon is a futuristic tank combat game developed by Dynamix and published by Sierra On-Line in 1991[^ref-1][^ref-23]. As the sequel to Stellar 7, the game continues the story of Captain John Alex's battle against the villainous Gir Draxon, an interstellar tyrant seeking to rebuild his shattered empire[^ref-2]. The game was marketed with the bold tagline "Dynamix has just redefined state-of-the-art" and promised players action across nine visually distinct worlds[^ref-3].
 
 Built using Dynamix's 3-Space engine, Nova 9 featured impressive polygon graphics for its time and represented part of Sierra's broader strategy to diversify beyond adventure games into action genres[^ref-4][^ref-5]. The game expanded on its predecessor's formula with enhanced graphics, new gameplay mechanics, and a darker narrative that dealt with personal loss and vengeance.
 
@@ -131,7 +131,7 @@ Nova 9 was developed during Dynamix's productive period under Sierra On-Line, wh
 
 The development team sought to modernize the Stellar 7 experience with enhanced graphics and deeper gameplay mechanics. The addition of puzzle elements represented an attempt to differentiate the sequel from simple arcade-style action.
 
-### Production Team
+### Production
 
 The development team included:
 
@@ -148,6 +148,10 @@ The development team included:
 - Dale Cooper
 
 The music was considered one of the game's highlights, with the Roland/LAPC-1 soundtrack earning particular praise from players with compatible sound hardware[^ref-7][^ref-8].
+
+### Technical Achievements
+
+Nova 9 was built on **Dynamix's 3-Space engine** — the proprietary 3D engine originally developed for the studio's flight simulators — repurposed here for ground-based vehicular combat[^ref-4]. The polygon-graphics output was considered state-of-the-art for 1991 home-computer hardware, with Damon Slye personally driving the engine work[^ref-4][^ref-7]. Audio production featured an original soundtrack by **Christopher Stevens and Dale Cooper**, with the **Roland LAPC-1 / MT-32** mix earning particular praise from players with compatible sound hardware — Dynamix's traditional investment in high-end audio carried into this title[^ref-7][^ref-8]. The release introduced **puzzle elements** to the established Stellar 7 tank-action template, an unusual genre fusion that differentiated the sequel from pure arcade action[^ref-5][^ref-21]. The product also marked the **continuation of the Stellar 7 narrative arc** through the Raven II tank protagonist, demonstrating Dynamix's commitment to franchise continuity uncommon in early-1990s budget action releases[^ref-21].
 
 ### Technical Implementation
 
@@ -245,3 +249,4 @@ While Nova 9 wasn't commercially dominant, its combination of first-person vehic
 [^ref-20]: [Glitchwave](https://glitchwave.com/game/nova-9-the-return-of-gir-draxon/) – Modern rating
 [^ref-21]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/nova-9-return-of-gir-draxon) – Sequel relationship to Stellar 7
 [^ref-22]: [Games That Weren't](https://www.gamesthatwerent.com/gtw64/nova-9-the-revenge-of-raf-torin/) – Planned sequel information
+[^ref-23]: [IGDB – Nova 9: The Return of Gir Draxon](https://www.igdb.com/games/nova-9-the-return-of-gir-draxon) — Internet Games Database entry, multi-platform release confirmation

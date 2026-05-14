@@ -8,58 +8,6 @@
   },
   "pages": [
     {
-      "filename": "1984 - Wizard of Id's WizMath.md",
-      "series": "Education",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1997 - Eat My Dust.md",
-      "series": "Sierra Attractions",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 19,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "2009 - Thexder Neo.md",
       "series": "Thexder",
       "page_type": "standard",
@@ -133,32 +81,6 @@
           "category": "Structure",
           "severity": "warning",
           "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1991 - Nova 9 - The Return of Gir Draxon.md",
-      "series": "Stellar 7",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 96.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 19,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
           "points_lost": 2
         }
       ]
@@ -5364,6 +5286,19 @@
       "issues": []
     },
     {
+      "filename": "1984 - Wizard of Id's WizMath.md",
+      "series": "Education",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
       "filename": "1994 - Spelling Blizzard.md",
       "series": "Discovery",
       "page_type": "standard",
@@ -6235,6 +6170,19 @@
       "issues": []
     },
     {
+      "filename": "1997 - Eat My Dust.md",
+      "series": "Sierra Attractions",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
       "filename": "1985 - Thexder.md",
       "series": "Thexder",
       "page_type": "standard",
@@ -6596,6 +6544,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 30,
+      "issues": []
+    },
+    {
+      "filename": "1991 - Nova 9 - The Return of Gir Draxon.md",
+      "series": "Stellar 7",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {

@@ -10,7 +10,7 @@ series: Sierra Attractions
 engine: Funnybone Racing Engine
 protagonist: Racing Driver
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-05-14'
 description: '**Eat My Dust** is a 3D go-kart racing game developed by Davidson &
   Associates'' Funnybone Interactive and Van Duyne Engineering, published by Sierra
   On-Line...'
@@ -18,11 +18,11 @@ tags: [1990s, racing, sierra, sierra-attractions]
 ---
 # Eat My Dust
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-**Eat My Dust** is a 3D go-kart racing game developed by Davidson & Associates' Funnybone Interactive and Van Duyne Engineering, published by Sierra On-Line for Windows in 1997[^ref-1][^ref-16]. The game was designed as a family-friendly racing title similar to Nintendo's Mario Kart series, featuring cartoon-style graphics and unusual weapon mechanics including golf balls, chickens, and bee nests[^ref-2][^ref-9]. Despite being aimed at younger audiences aged eight and above, the game received mixed to poor reviews from critics who found it to be technically limited compared to more established kart racing games[^ref-3][^ref-11].
+**Eat My Dust** is a 3D go-kart racing game developed by Davidson & Associates' Funnybone Interactive and Van Duyne Engineering, published by Sierra On-Line for Windows in 1997[^ref-1][^ref-16][^ref-21]. The game was designed as a family-friendly racing title similar to Nintendo's Mario Kart series, featuring cartoon-style graphics and unusual weapon mechanics including golf balls, chickens, and bee nests[^ref-2][^ref-9]. Despite being aimed at younger audiences aged eight and above, the game received mixed to poor reviews from critics who found it to be technically limited compared to more established kart racing games[^ref-3][^ref-11].
 
 The game was released under Sierra's Funnybone Interactive label, which focused on family-oriented entertainment software[^ref-4][^ref-17]. Funnybone Interactive was a subsidiary brand used for lighter, more family-friendly titles that didn't fit Sierra's traditional adventure game catalog[^ref-18]. The game featured four distinct racing environments: Alien Asteroid, Bleach Bone Gulch, Super Speedway, and Backroad Rally, each offering three levels of difficulty to accommodate different skill levels[^ref-9][^ref-19].
 
@@ -87,6 +87,10 @@ The development team faced significant challenges in bringing a console-style ka
 
 The creative direction emphasized humor and accessibility, with unusual weapons like golf balls, chickens, and bee nests designed to appeal to younger players[^ref-9][^ref-17]. The four racing environments—Alien Asteroid, Bleach Bone Gulch, Super Speedway, and Backroad Rally—each featured distinct visual themes and track layouts[^ref-9][^ref-19]. Five different vehicle types were included, each with unique handling characteristics to provide gameplay variety[^ref-8].
 
+### Technical Achievements
+
+Eat My Dust ported the console-style **kart-racing genre to PC** at a time when the category was dominated by Nintendo-exclusive titles, requiring custom engine work tuned for Windows 95 hardware[^ref-13][^ref-20]. The release packaged **four visually distinct racing environments** (Alien Asteroid, Bleach Bone Gulch, Super Speedway, Backroad Rally) and **five distinct vehicle types** with unique handling characteristics, each requiring separate physics tuning[^ref-8][^ref-9][^ref-19]. The product's **whimsical weapon system** (golf balls, chickens, bee nests) demonstrated deliberate kid-market differentiation against Mario Kart's mushroom/shell vocabulary[^ref-9][^ref-17]. Windows 95 with Pentium 90 minimum and 16 MB RAM recommended placed the title in the demanding-3D-racing tier of late-1990s PC gaming[^ref-11].
+
 ### Technical Specifications
 
 **Minimum Requirements:**[^ref-11]
@@ -149,3 +153,4 @@ The failure of Eat My Dust and similar experiments contributed to Sierra's event
 [^ref-18]: [Alchetron - Eat My Dust](https://alchetron.com/Eat-My-Dust-(video-game)) – Game overview, developer information
 [^ref-19]: [Retrolorean - Eat My Dust](https://www.retrolorean.com/en/eat-my-dust-6107) – Track listing, game features
 [^ref-20]: [eBay Listing Archive](https://www.ebay.com/itm/395217486746) – Original retail packaging, 1996/1997 release context
+[^ref-21]: [IGDB – Eat My Dust](https://www.igdb.com/games/eat-my-dust) — Internet Games Database entry, Windows 95 platform tagging, release-year confirmation

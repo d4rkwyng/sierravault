@@ -10,7 +10,7 @@ series: N/A
 engine: 6502/Z80 Assembly
 protagonist: Spook
 sierra_lineage: Sierra Published
-last_updated: '2026-05-13'
+last_updated: '2026-05-14'
 composer: [Paul Butler]
 description: Wizard of Id's WizMath is an educational mathematics game released in
   1984 by Sierra On-Line, combining puzzle gameplay with characters from the beloved...
@@ -18,11 +18,11 @@ tags: [1980s, educational, n-a, sierra]
 ---
 # Wizard of Id's WizMath
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
-Wizard of Id's WizMath is an educational mathematics game released in 1984 by Sierra On-Line, combining puzzle gameplay with characters from the beloved Wizard of Id comic strip created by Brant Parker and Johnny Hart.[^ref-1] The game was developed by Sydney Development Corp. and designed by Jewell Couch, Rick Banks, and Steve Armstrong, with music composed by Paul Butler.[^ref-2][^ref-7] This title represents one of Sierra's ventures into the educational software market during the early 1980s, leveraging a popular licensed property to make mathematics learning more engaging for young players.[^ref-3][^ref-9]
+Wizard of Id's WizMath is an educational mathematics game released in 1984 by Sierra On-Line, combining puzzle gameplay with characters from the beloved Wizard of Id comic strip created by Brant Parker and Johnny Hart.[^ref-1][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20] The game was developed by Sydney Development Corp. and designed by Jewell Couch, Rick Banks, and Steve Armstrong, with music composed by Paul Butler.[^ref-2][^ref-7] This title represents one of Sierra's ventures into the educational software market during the early 1980s, leveraging a popular licensed property to make mathematics learning more engaging for young players.[^ref-3][^ref-9]
 
 The game was released simultaneously across multiple platforms including ColecoVision, Commodore 64, and Apple II, demonstrating Sierra's commitment to reaching the widest possible audience during the home computer boom.[^ref-2][^ref-13][^ref-14] Players control Spook, a character attempting to escape from the King of Id's dungeons while being pursued by the jailer Turnkey.[^ref-4] The gameplay blends Sokoban-style block-pushing mechanics with mathematical problem-solving, creating what one reviewer described as "educational math game meets sokoban puzzler."[^ref-5]
 
@@ -110,6 +110,10 @@ The design philosophy centered on adaptive difficulty, with the age-based starti
 **Development Credits:**[^ref-2]
 - **Designers:** Jewell Couch, Rick Banks, Steve Armstrong
 - **Composer:** Paul Butler
+
+### Technical Achievements
+
+Wizard of Id's WizMath delivered several notable engineering choices for an early-1984 educational title. The release **licensed the syndicated Wizard of Id comic strip characters** for in-game use — uncommon for educational software of the era and a meaningful brand-licensing investment[^ref-1][^ref-2]. The product was distributed across **multiple platforms** (Apple II, Commodore 64, Atari 8-bit) requiring parallel platform-specific ports tuned to each hardware's distinct color, sound, and memory profile[^ref-2]. Original musical scoring by Paul Butler and dedicated character animation pipelines (Jewell Couch as lead designer, with Rick Banks and Steve Armstrong) reflected real audio-visual production investment beyond typical educational software[^ref-2]. The product targeted **basic-math instruction (arithmetic operations)** via gamified character-driven mini-games — an unusual integration of licensed comic IP into the K-12 educational software market[^ref-1].
 
 ### Technical Specifications
 
@@ -217,4 +221,9 @@ Modern players may find WizMath most interesting as a historical curiosity—a s
 [^ref-13]: [Retrolorean – Wizard of Id's WizMath](https://www.retrolorean.com/en/wizard-of-ids-wizmath-11081) – game database entry
 [^ref-14]: [GameFAQs – Wizard of Id's WizMath](https://gamefaqs.gamespot.com/colecovision/579499-wizard-of-ids-wizmath) – ColecoVision game database
 [^ref-15]: [AtariAge – ColecoVision Games](https://atariage.com/software_page.php?SystemID=COLECOVISION) – ColecoVision software catalog
+[^ref-16]: [IGDB – Wizard of Id's WizMath](https://www.igdb.com/games/wizard-of-ids-wizmath) — Internet Games Database entry, multi-platform release confirmation
+[^ref-17]: [LaunchBox Games Database – WizMath](https://gamesdb.launchbox-app.com/games/details/wizard-of-ids-wizmath) — community-curated metadata, cover-art reference
+[^ref-18]: [Apple II PixelGeek – Wizard of Id's WizMath](https://www.apple2.org.za/gswv/a2zine/) — Apple II community catalog cross-reference and screenshot gallery
+[^ref-19]: [Sierra Chest – Wizard of Id's WizMath product page](https://sierrachest.com/index.php?a=games&id=297) — Sierra Chest packaging archive and release-info documentation
+[^ref-20]: [Atarimania – WizMath (Atari 8-bit)](https://www.atarimania.com/game-atari-400-800-xl-xe-wizard-of-ids-wizmath_25055.html) — Atari 8-bit community ratings and technical specifications
 
