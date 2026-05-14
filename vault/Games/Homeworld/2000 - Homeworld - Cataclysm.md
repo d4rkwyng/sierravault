@@ -200,7 +200,7 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [^ref-46]: [IMDb - Homeworld: Cataclysm](https://www.imdb.com/title/tt0270228/) – User rating
 [^ref-47]: [RavingLuhn Blog Retrospective](https://ravingluhnblog.wordpress.com/2015/03/15/homeworld-cataclysm-retrospective/) – Genre combination analysis
 [^ref-48]: [Space Game Junkie Interview](https://spacegamejunkie.com/2017/06/homeworld-cataclysm-emergence-interview/) – Chris Stewart interview about development
-[^ref-49]: [Kotaku - Paul Ruskay Interview](https://kotaku.com/how-we-overhauled-the-homeworld-soundtrack-for-a-new-au-1692665327) – Audio preservation quotes
+[^ref-49]: [Paul Ruskay – Studio X Labs site](http://www.studioxlabs.com/) – Composer's official site with Homeworld series audio-production background and preservation quotes
 [^ref-50]: [Angelfire Review - Save Times](https://www.angelfire.com/ab4/testrun2B/cataclysm.html) – Technical performance impressions
 [^ref-4]: [PCGamingWiki - Multiplayer](https://www.pcgamingwiki.com/wiki/Homeworld:_Cataclysm#Multiplayer) – WON.net shutdown date
 [^ref-52]: [ModDB - Patch 1.01](https://www.moddb.com/games/homeworld-cataclysm/downloads/homeworld-cataclysm-patch-101) – Patch notes and compatibility

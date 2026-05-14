@@ -159,7 +159,7 @@ The title remains available through preservation efforts, with multiple archive 
 [^ref-9]: [MobyGames – 3-D Ultra Pinball: The Lost Continent](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/) – Designer information and game metadata
 [^ref-10]: [NeverDieMedia - Product Listing](https://www.neverdiemedia.com/products/3d-ultra-pinball-the-lost-continent-1) – Story premise, game overview description
 [^ref-11]: [Metacritic - Game Details](https://www.metacritic.com/game/3-d-ultra-pinball-the-lost-continent/details/) – - Marketing description of gameplay features
-[^ref-12]: [MobyGames - Game Information](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/) – - Plot summary, series comparison, critic score, dialogue assessment
+[^ref-12]: [MobyGames - The Lost Continent credits](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/credits/) – Plot summary, series comparison, critic score, dialogue assessment
 [^ref-13]: [Metacritic - Main Page](https://www.metacritic.com/game/3-d-ultra-pinball-the-lost-continent/) – - Input devices information
 [^ref-14]: [NewTechReview - The Lost Continent Review](https://www.newtechreview.com/NewTechReview/review.asp?ID=3) – - Gameplay quality assessment, final recommendation
 [^ref-15]: [GameRevolution - Review](https://www.gamerevolution.com/review/32949-3dlost-review) – - Technical praise, physics commentary, soundtrack praise, overall assessment
@@ -169,7 +169,7 @@ The title remains available through preservation efforts, with multiple archive 
 [^ref-19]: [IMDb - Game Entry](https://www.imdb.com/title/tt5652794/) – - Cast information, director, writer, rating information
 [^ref-20]: [MyAbandonware - Game Page](https://www.myabandonware.com/game/3-d-ultra-pinball-the-lost-continent-3fi) – - User rating, user comments
 [^ref-21]: [Bunny Gamer - ThrillRide Impressions](https://bunnygamer.com/3d-ultra-pinball-thrillride-game-first-impressions/) – - Comparison to later series entries
-[^ref-22]: [MobyGames - Reviews](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/reviews/) – - Series context information
+[^ref-22]: [MobyGames - The Lost Continent screenshots](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/screenshots/) – Series context information and visual reference
 [^ref-23]: [Archive.org - Primary Entry](https://archive.org/details/3dultrapinball_thelostcontinent) – - Preservation availability
 [^ref-24]: [PriceCharting - Market Data](https://www.pricecharting.com/game/pc-games/3-d-ultra-pinball-the-lost-continent) – - Commercial availability and pricing
 [^ref-25]: [Archive.org - Alternative Entry](https://archive.org/details/3-d-ultra-pinball-the-lost-continent) – - Alternative preservation copy

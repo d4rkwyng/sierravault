@@ -207,7 +207,7 @@ The cross-title asset sharing system was remarkably forward-thinking, creating a
 [^ref-4]: [MobyGames – Playtoons 1 Featuring Uncle Archibald](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/) – cross-title integration, series description, construction kit details
 [^ref-5]: [SierraChest – Playtoons 2 Box](https://www.sierrachest.com/index.php?a=games&id=325&title=playtoons-2&fld=box&pid=11) – Gob engine, platforms, release date
 [^ref-7]: [Internet Archive – Playtoons 2](https://archive.org/details/playtoons-2) – file size, platforms, ScummVM compatibility, preservation
-[^ref-8]: [MobyGames – Playtoons 2: The Case of the Counterfeit Collaborator](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/) – Release year, developer, regional titles, and game information
+[^ref-8]: [MobyGames – Playtoons 2 credits](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/credits/win3x/) – Release year, developer, regional titles, and credits information
 [^ref-9]: [Kiddle Encyclopedia – Playtoons](https://kids.kiddle.co/Playtoons) – series games list, secret story pages, cartoon creator concept
 [^ref-10]: [Goodreads – The Ghost with the Halloween Hiccups](https://www.goodreads.com/book/show/1507587.The_Ghost_with_the_Halloween_Hiccups) – age appropriateness reference for early readers
 [^ref-11]: [SierraChest – Playtoons 3](https://sierrachest.com/index.php?a=games&id=326&fld=general) – construction kit integration, Monsters add-on, scene creation limits

@@ -157,7 +157,7 @@ The game maintains a cult following among retro gaming enthusiasts, with preserv
 [^ref-15]: [Metacritic - 3D Ultra Minigolf Adventures](https://www.metacritic.com/game/3d-ultra-minigolf-adventures/) – - Professional reviews and ratings aggregation
 [^ref-16]: [MMO Central Forums - User Review](https://www.mmocentralforums.com/forums/showthread.php?t=245391&page=3) – - Detailed user review with scoring breakdown
 [^ref-17]: [MobyGames - Game Entry](https://www.mobygames.com/game/38197/) – - Comprehensive game metadata
-[^ref-18]: [MobyGames - 3-D Ultra Minigolf Deluxe](https://www.mobygames.com/game/38197/3-d-ultra-minigolf-deluxe/) – - Credits and technical specifications
+[^ref-18]: [MobyGames - 3-D Ultra Minigolf Deluxe credits](https://www.mobygames.com/game/38197/3-d-ultra-minigolf-deluxe/credits/) – Credits and technical specifications
 [^ref-19]: [MyAbandonware - 3-D Ultra Minigolf Deluxe](https://www.myabandonware.com/game/3-d-ultra-minigolf-deluxe-duw) – - Download site with user compatibility reports
 [^ref-20]: [MyAbandonware - 3-D Ultra Minigolf](https://www.myabandonware.com/game/3-d-ultra-minigolf-db6) – - User reviews and compatibility information
 [^ref-21]: [Old Games Download - 3-D Ultra Minigolf Deluxe](https://oldgamesdownload.com/3-d-ultra-minigolf-deluxe/) – - Basic game metadata and download information

@@ -200,5 +200,5 @@ A tabletop RPG version was also released by River Horse Games in 2022[^ref-23], 
 [^ref-35]: [Metacritic Critic Reviews](https://www.metacritic.com/game/the-dark-crystal-age-of-resistance-tactics/critic-reviews/?platform=nintendo-switch) – - Comprehensive critic review compilation
 [^ref-36]: [Metacritic Platform Overview](https://www.metacritic.com/game/the-dark-crystal-age-of-resistance-tactics/) – - Multi-platform review aggregation
 [^ref-37]: [Game Dork's Corner Board Game Review](http://www.gamedorkscorner.com/2018/06/board-game-review-jim-hensons-dark.html) – - Related board game assessment for context
-[^ref-38]: [MobyGames – Hi-Res Adventure #6: The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) – Review scores and critical assessments
-[^ref-39]: [MobyGames – Hi-Res Adventure #6: The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) – Release year, developer, and publisher information
+[^ref-38]: [MobyGames – The Dark Crystal reviews](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/reviews/) – Review scores and critical assessments
+[^ref-39]: [MobyGames – The Dark Crystal credits](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/credits/) – Full development credits, release year, developer, and publisher information

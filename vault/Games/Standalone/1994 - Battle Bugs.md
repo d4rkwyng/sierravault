@@ -308,7 +308,7 @@ The PlayStation soundtrack consists of 14 tracks with a total runtime of approxi
 [^ref-12]: [PCGamingWiki – Battle Bugs](https://www.pcgamingwiki.com/wiki/Battle_Bugs) – technical specifications, resolution support, system requirements
 [^ref-13]: [Wikipedia – Battle Bugs](https://en.wikipedia.org/wiki/Battle_Bugs) – Computer Gaming World review citation, victory conditions
 [^ref-14]: [PlayClassic.Games – Battle Bugs](https://playclassic.games/games/real-time-tactics-dos-games-online/play-battle-bugs-online/) – environmental effects, unit types
-[^ref-15]: GOG.com – Battle Bugs not listed on GOG Dreamlist (game available on [Steam](https://store.steampowered.com/app/1462210/Battle_Bugs/) instead)
+[^ref-15]: [GOG.com Dreamlist](https://www.gog.com/dreamlist) – Battle Bugs is not listed on GOG; community Dreamlist context for re-release demand
 [^ref-16]: [OldGames.sk – Battle Bugs](https://www.oldgames.sk/en/game/battle-bugs/download/2483/) – rating, platform information
 [^ref-17]: [My Abandonware – Battle Bugs](https://www.myabandonware.com/game/battle-bugs-1pp) – user rating, technical issues, DOSBox compatibility
 [^ref-18]: [Steemit – Battle Bugs Review](https://steemit.com/gaming/@zulman/90s-games-review-1994-battle-bugs-a-very-unique-real-time-strategy-game) – Epyx company history

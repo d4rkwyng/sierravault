@@ -4,7 +4,7 @@
     "passing": 507,
     "failing": 0,
     "pass_rate_pct": 100.0,
-    "average_score": 99.1
+    "average_score": 99.2
   },
   "pages": [
     {
@@ -68,86 +68,6 @@
           "severity": "warning",
           "message": "Reference count below target of 20",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-      "series": "3D Ultra",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 26,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/', 'https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/reviews/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1998 - 3-D Ultra MiniGolf Deluxe.md",
-      "series": "3D Ultra",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 27,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/38197/3-d-ultra-minigolf-deluxe/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1991 - A-10 Tank Killer v1.5.md",
-      "series": "A-10 Tank Killer",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 27,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/2467/a-10-tank-killer/', 'https://en.wikipedia.org/wiki/A-10_Tank_Killer']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2000 - Homeworld - Cataclysm.md",
-      "series": "Homeworld",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 52,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://kotaku.com/how-we-overhauled-the-homeworld-soundtrack-for-a-new-au-1692665327']",
-          "points_lost": 5
         }
       ]
     },
@@ -244,86 +164,6 @@
           "severity": "warning",
           "message": "Reference count below target of 20",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1995 - Playtoons 2 - The Case of the Counterfeit Collaborator.md",
-      "series": "Playtoons",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1990 - Rise of the Dragon.md",
-      "series": "Dynamix",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.9,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 33,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1994 - Battle Bugs.md",
-      "series": "Standalone",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.9,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 28,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://store.steampowered.com/app/1462210/Battle_Bugs/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1983 - Hi-Res Adventure 6 - The Dark Crystal.md",
-      "series": "Hi-Res",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.9,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 39,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/']",
-          "points_lost": 5
         }
       ]
     },
@@ -4650,6 +4490,19 @@
       "issues": []
     },
     {
+      "filename": "1990 - Rise of the Dragon.md",
+      "series": "Dynamix",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 33,
+      "issues": []
+    },
+    {
       "filename": "1996 - Rama.md",
       "series": "Dynamix",
       "page_type": "standard",
@@ -4790,6 +4643,32 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 21,
+      "issues": []
+    },
+    {
+      "filename": "1997 - 3-D Ultra Pinball - The Lost Continent.md",
+      "series": "3D Ultra",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 26,
+      "issues": []
+    },
+    {
+      "filename": "1998 - 3-D Ultra MiniGolf Deluxe.md",
+      "series": "3D Ultra",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 27,
       "issues": []
     },
     {
@@ -5170,6 +5049,19 @@
       "issues": []
     },
     {
+      "filename": "1994 - Battle Bugs.md",
+      "series": "Standalone",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 28,
+      "issues": []
+    },
+    {
       "filename": "1988 - Silpheed.md",
       "series": "Standalone",
       "page_type": "standard",
@@ -5365,6 +5257,19 @@
       "issues": []
     },
     {
+      "filename": "1991 - A-10 Tank Killer v1.5.md",
+      "series": "A-10 Tank Killer",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 27,
+      "issues": []
+    },
+    {
       "filename": "1989 - A-10 Tank Killer.md",
       "series": "A-10 Tank Killer",
       "page_type": "standard",
@@ -5427,6 +5332,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 56,
+      "issues": []
+    },
+    {
+      "filename": "2000 - Homeworld - Cataclysm.md",
+      "series": "Homeworld",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 52,
       "issues": []
     },
     {
@@ -7718,6 +7636,19 @@
       "issues": []
     },
     {
+      "filename": "1983 - Hi-Res Adventure 6 - The Dark Crystal.md",
+      "series": "Hi-Res",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 39,
+      "issues": []
+    },
+    {
       "filename": "1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece.md",
       "series": "Hi-Res",
       "page_type": "standard",
@@ -7862,6 +7793,19 @@
     },
     {
       "filename": "1994 - Playtoons 1 - Uncle Archibald.md",
+      "series": "Playtoons",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "1995 - Playtoons 2 - The Case of the Counterfeit Collaborator.md",
       "series": "Playtoons",
       "page_type": "standard",
       "is_flagship": false,

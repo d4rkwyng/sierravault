@@ -155,5 +155,5 @@ Despite being banned in Germany due to its violence level and placement on the '
 [^ref-23]: [Archive.org Sierra Collection](https://archive.org/details/sierra-collection-1988-1993) – - Archive listing of Sierra games compilation from 1988-1993
 [^ref-24]: [Sierra Help Wiki - A-10 Tank Killer Series](https://wiki.sierrahelp.com/index.php/A-10_Tank_Killer_Series) – - Wiki page about the A-10 Tank Killer series
 [^ref-25]: [Sierra Help Wiki - A-10 Tank Killer v1.5 Releases](http://wiki.sierrahelp.com/index.php/A-10_Tank_Killer_v1.5_Releases) – - Wiki page about version 1.5 releases
-[^ref-26]: [MobyGames – A-10 Tank Killer](https://www.mobygames.com/game/2467/a-10-tank-killer/) – Aggregated review scores from contemporary gaming publications
-[^ref-27]: [Wikipedia – A-10 Tank Killer](https://en.wikipedia.org/wiki/A-10_Tank_Killer) – Release year, developer, and version history information
+[^ref-26]: [MobyGames – A-10 Tank Killer reviews](https://www.mobygames.com/game/2467/a-10-tank-killer/reviews/) – Aggregated review scores from contemporary gaming publications
+[^ref-27]: [A-10 Tank Killer v1.5 (Wikipedia subsection)](https://en.wikipedia.org/wiki/A-10_Tank_Killer#Sequel_and_v1.5_update) – Release year, developer, and version history information specific to the v1.5 update

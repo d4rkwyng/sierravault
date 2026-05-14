@@ -308,7 +308,7 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 [^ref-29]: [MobyGames Trivia](https://www.mobygames.com/game/648/rise-of-the-dragon/trivia/) — The Games Machine Italy 99/100 score, technical specifications
 [^ref-30]: [Hall of Light – Rise of the Dragon](https://hol.abime.net/3949) — European magazine scores: Datormagazin 96%, Joystick 94%, The One 92%
 [^ref-31]: [Computer Games Strategy Plus Archive](https://archive.org/details/computergamesmagazine) — "Underrated classic" retrospective assessment
-[^ref-32]: [The Digital Antiquarian – Willy Beamish](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) — "Smart design sensibilities with dodgy writing" observation
+[^ref-32]: [The Digital Antiquarian – Rise of the Dragon Pt. 2](https://www.filfre.net/2018/06/the-dynamic-interactive-narratives-of-dynamix-part-2/) — Sequel coverage, "smart design sensibilities with dodgy writing" observation, Willy Beamish post-mortem
 [^ref-33]: [GOG.com – Rise of the Dragon](https://www.gog.com/en/game/rise_of_the_dragon) — Digital release, 3.9/5 user rating
 [^ref-34]: [MyAbandonware – Rise of the Dragon](https://www.myabandonware.com/game/rise-of-the-dragon-zz) — Preservation download, 4.46/5 rating, death scene appreciation
 [^ref-36]: [Abandonware DOS – Rise of the Dragon](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Rise+of+the+Dragon&gid=1482) — 4.06/5 rating (106 votes)
