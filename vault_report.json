@@ -4,47 +4,9 @@
     "passing": 507,
     "failing": 0,
     "pass_rate_pct": 100.0,
-    "average_score": 98.8
+    "average_score": 98.9
   },
   "pages": [
-    {
-      "filename": "1982 - Pest Patrol.md",
-      "series": "Arcade",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.8,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
     {
       "filename": "1999 - NASCAR Craftsman Truck Series Racing.md",
       "series": "NASCAR",
@@ -5654,6 +5616,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 24,
+      "issues": []
+    },
+    {
+      "filename": "1982 - Pest Patrol.md",
+      "series": "Arcade",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {

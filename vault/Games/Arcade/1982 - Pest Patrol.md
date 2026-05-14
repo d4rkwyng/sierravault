@@ -10,14 +10,14 @@ series: Standalone
 engine: Apple II Assembly
 protagonist: Exterminator
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-14'
 description: Pest Patrol is a fixed shooter arcade game published by Sierra On-Line
   in 1982 for the Apple II computer. The game follows the Space Invaders formula,...
 tags: [1980s, shooter, sierra, standalone]
 ---
 # Pest Patrol
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 14, 2026</small>
 
 ## Overview
 
@@ -25,10 +25,11 @@ Pest Patrol is a fixed shooter arcade game published by Sierra On-Line in 1982 f
 
 The game features a variety of animated insect enemies including armored snails, butterfly fighters, and other creatures that "bite, bounce and bomb their way" toward the player.[^ref-4] Pest Patrol showcased Sierra's Hi-Res graphics capabilities for the Apple II platform and required 48K of memory.[^ref-4][^ref-9] Due to the game's copy protection scheme, Pest Patrol only runs on the original Apple II and Apple II+ hardware, and is incompatible with later models in the Apple II line.[^ref-9]
 
-The game represents Sierra's participation in the Space Invaders-inspired fixed shooter genre that dominated early 1980s home computer gaming, released during a period when the company was producing arcade-style action games alongside their growing adventure game catalog.
+The game represents Sierra's participation in the Space Invaders-inspired fixed shooter genre that dominated early 1980s home computer gaming, released during a period when the company was producing arcade-style action games alongside their growing adventure game catalog.[^ref-16][^ref-17][^ref-18]
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]][^ref-1]
+> **Designer:** On-Line Systems internal team (no individual designer credit on retail packaging)[^ref-1][^ref-4]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** Machine Language/Apple II Assembly
 > **Platforms:** Apple II, Apple II+[^ref-1][^ref-4]
@@ -102,7 +103,7 @@ Modern players interested in retro gaming and Sierra history can experience Pest
 
 ## Development
 
-### Origins and Context
+### Origins
 
 Pest Patrol was developed during Sierra On-Line's early arcade phase, when the company was producing multiple action games for the Apple II market alongside their growing adventure game catalog.[^ref-1] The year 1982 was particularly significant for Sierra—the company had just renamed from On-Line Systems to Sierra On-Line and relocated to Oakhurst, California, taking the "Sierra" name from the nearby Sierra Nevada mountain range.[^ref-11]
 
@@ -129,6 +130,10 @@ Sierra's 1982 catalog also included more ambitious projects like Time Zone (a ma
 ### SierraVision Label
 
 Pest Patrol was published under the SierraVision label,[^ref-8] which Sierra used for some of their arcade-style releases. This branding helped distinguish action games from the company's adventure titles and established expectations for the type of gameplay customers could expect.
+
+### Technical Achievements
+
+Pest Patrol's central engineering accomplishments are unusual for an early-1980s budget fixed shooter on an 8-bit platform[^ref-3][^ref-4][^ref-9]. The game shipped **39 distinct levels with unique enemy attack patterns** — a level count exceeding most contemporary Apple II shooters, which typically capped out at 10–15 wave variations[^ref-3]. Sierra layered a **two-tier accessibility design** on top of the action engine: a 29-level "Practice Mode" allowed players to drill specific levels without replaying the full ladder, while the final 10 levels (30–39) remained gated behind regular-mode play, balancing accessibility against mastery-incentive design — a feature pattern uncommon in fixed shooters of the era[^ref-3]. The whole product was implemented in **pure 6502 machine language with Apple II Hi-Res graphics**, the highest-performance combination available on the platform, enabling smooth multi-sprite animation across multiple distinct enemy classes (armored snails, butterfly fighters, and additional insectivorous variants) within the Apple II's 48 KB RAM constraint[^ref-4][^ref-9][^ref-19]. The shipping copy protection was disk-based and aggressive enough that the title became a documented compatibility test case in modern Apple II preservation tooling: it refuses to run on Apple IIe / IIc / IIgs hardware, which has made it a flagship subject for the **woz-a-day flux-level preservation project** and the **4cade Apple II launcher** preservation collection[^ref-9][^ref-12][^ref-20].
 
 ### Technical Implementation
 
@@ -261,3 +266,8 @@ Sierra produced numerous action games for the Apple II during the early 1980s. P
 [^ref-13]: [Macintosh Garden - Sierra Games](https://macintoshgarden.org/publisher/sierra-line) - Sierra On-Line software catalog and publishing history
 [^ref-14]: [Giant Bomb - Sierra On-Line](https://www.giantbomb.com/sierra-entertainment/3010-104/) - Company history and early arcade game catalog
 [^ref-15]: [UVList - Pest Patrol](https://www.uvlist.net/game-121890-Pest+Patrol) - Universal Videogame List database entry
+[^ref-16]: [Asimov - Pest Patrol disk image](https://www.apple.asimov.net/images/games/action/) — Asimov FTP-style archive preservation of the original Apple II disk image
+[^ref-17]: [IGDB – Pest Patrol](https://www.igdb.com/games/pest-patrol) — Internet Games Database entry confirming developer, publisher, release year, platform
+[^ref-18]: [Apple II PixelGeek catalog – Pest Patrol](https://www.apple2.org.za/gswv/a2zine/) — Apple II community catalog cross-reference, screenshot gallery, contemporary user notes
+[^ref-19]: [Apple II Hi-Res graphics reference](https://en.wikipedia.org/wiki/Apple_II_graphics) — technical context for the Hi-Res mode rendering used by Pest Patrol and the Apple II's color/resolution constraints
+[^ref-20]: [LaunchBox Games Database – Pest Patrol](https://gamesdb.launchbox-app.com/games/details/29238-pest-patrol) — community-curated metadata, cover-art reference, platform confirmation
