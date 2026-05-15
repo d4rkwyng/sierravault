@@ -231,7 +231,7 @@ The game has been preserved by various abandonware sites and is considered no lo
 [^ref-16]: [UVList](https://www.uvlist.net/game-208788-Geisha) – Game completion time and content
 [^ref-17]: [UVList](https://www.uvlist.net/game-43209-Geisha) – Review scores compilation
 [^ref-19]: [OldGames.sk](https://www.oldgames.sk/en/game/geisha/) – User rating
-[^ref-20]: [Emuparadise](https://www.emuparadise.me/games/geisha) – User rating
+[^ref-20]: [Hall of Light – Geisha (Amiga)](https://hol.abime.net/2027) – Amiga community user rating, magazine review scores, technical specs (replaces dead Emuparadise URL; Emuparadise removed all abandonware/ROM content in 2018)
 [^ref-21]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/amiga/935242-geisha/faqs/78791/introduction) – Development context
 [^ref-22]: [Elmobo Bandcamp](https://elmobo.bandcamp.com/album/early-years-coktel-vision) – Composer information and quote
 [^ref-23]: [MobyGames](https://mobygames.com/game/dos/geisha/techinfo) – System requirements

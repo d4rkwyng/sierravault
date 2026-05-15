@@ -272,7 +272,7 @@ GameSpot's assessment that the game was "more fun when you are not playing" actu
 [^ref-9]: [VOGONS Forum](http://www.vogons.org/viewtopic.php?t=870) – compatibility issues, user praise
 [^ref-10]: [MyAbandonware – FPS Football Pro '96](https://www.myabandonware.com/game/front-page-sports-football-pro-96-season-bqh) – user reviews, downloads
 [^ref-11]: [MobyGames – FPS Football Pro '96 Season](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/) – technical specs, features
-[^ref-12]: [Emuparadise – FPS Football Pro '96](https://www.emuparadise.me/Abandonware_Games/Front_Page_Sport_Football_Pro_96_Season_(1995)(Sierra_Online)/93409) – ratings, metadata
+[^ref-12]: [Internet Archive – FPS Football Pro '96 Season](https://archive.org/details/msdos_Front_Page_Sports_Football_Pro_96_Season_1995) – preservation copy with ratings, metadata (replaces dead Emuparadise URL; Emuparadise removed all abandonware content in 2018)
 [^ref-13]: [MyAbandonware – FPS Football Pro](https://www.myabandonware.com/game/front-page-sports-football-pro-22k) – user memories, downloads
 [^ref-14]: [GameFAQs – FPS Football Pro '95](https://gamefaqs.gamespot.com/pc/564575-front-page-sports-football-pro-95) – ratings, marketing quote
 [^ref-15]: [Wikipedia – FPS Football Pro '98](https://en.wikipedia.org/wiki/Front_Page_Sports:_Football_Pro_%2798) – release details, sales, developer change

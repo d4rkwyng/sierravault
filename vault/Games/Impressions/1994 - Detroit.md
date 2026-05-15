@@ -214,7 +214,7 @@ Detroit remains notable as one of the few games to tackle the automobile industr
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/detroit-1ln)
 - [DOS Games Archive](https://www.dosgamesarchive.com/download/detroit)
-- [Emuparadise](https://www.emuparadise.me/Abandonware_Games/Detroit_(1993)(Sierra_Online)/93082)
+- [Internet Archive – Detroit](https://archive.org/details/msdos_Detroit_1993)
 - [ClassicReload](https://classicreload.com/detroit.html)
 
 **Manuals & Extras**
@@ -248,7 +248,7 @@ Detroit remains notable as one of the few games to tackle the automobile industr
 [^ref-7]: [Lemon Amiga – Detroit Manual](https://www.lemonamiga.com/games/docs.php?id=467) – game manual text, starting conditions, objectives
 [^ref-8]: [FreeGameEmpire – Detroit](https://www.freegameempire.com/games/Detroit) – interface description, Impressions history, rating
 [^ref-9]: [Game Bytes Issue 20 – Detroit Review](http://www.ibiblio.org/GameBytes/issue20/greviews/detroit.html) – Philip Chiu review, technical requirements, patch information
-[^ref-10]: [Emuparadise – Detroit](https://www.emuparadise.me/Abandonware_Games/Detroit_(1993)(Sierra_Online)/93082) – user rating, file information
+[^ref-10]: [Internet Archive – Detroit (MS-DOS)](https://archive.org/details/msdos_Detroit_1993) – preservation copy with file metadata and version information (replaces dead Emuparadise URL; Emuparadise removed all abandonware/ROM content in 2018)
 [^ref-11]: [Classic DOS Games – Detroit](https://www.classicdosgames.com/game/Detroit.html) – shareware demo information, genre assessment
 [^ref-12]: [Wikipedia – Detroit (video game)](https://en.wikipedia.org/wiki/Detroit_(video_game)) – comprehensive game information, Computer Gaming World review citation, gameplay mechanics, developer credits (Dale Campbell programmer)
 [^ref-13]: [Computer Gaming World Museum – August 1994 (Issue 121)](https://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=121) – original review by Alan Emrich and Petra Schlunk, 2/5 star rating

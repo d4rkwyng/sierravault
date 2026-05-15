@@ -248,7 +248,7 @@ Modern retro gaming enthusiasts have given Aquatron warmer reception than its co
 [^ref-10]: [Virtual Apple – Aquatron](http://www.virtualapple.org/aquatrondisk.html) – controls, system requirements, emulation details
 [^ref-11]: [MobyGames – Screenshots](https://www.mobygames.com/game/atari-8-bit/aquatron/screenshots) – gameplay elements
 [^ref-12]: [MyAbandonware – Aquatron](https://www.myabandonware.com/game/aquatron-agq) – user rating, file sizes, release information
-[^ref-13]: [Emuparadise – Aquatron](https://www.emuparadise.me/Atari_8-bit_Family_ROMs/Aquatron_(1983)(Sierra)/105562) – user rating, basic metadata
+[^ref-13]: [Atarimania – Aquatron (Atari 8-bit)](https://www.atarimania.com/game-atari-400-800-xl-xe-aquatron_2655.html) – user rating, basic metadata, Atari 8-bit platform info (replaces dead Emuparadise URL; Emuparadise removed all abandonware/ROM content in 2018)
 [^ref-14]: [GameFAQs – Aquatron Data](https://gamefaqs.gamespot.com/appleii/216613-aquatron/data) – release date discrepancy, platform information
 [^ref-15]: [Internet Archive – Compilation Disk](https://archive.org/details/a2_Aquatron_1983_Sierra_Neptune_19xx_Gebelli_Software_Plasmania_1983_Sirius_Softwar) – compilation appearances
 [^ref-16]: [Internet Archive – Multi-Game Collection](https://archive.org/details/Compilation-People_PongSlot_MachineAquatronSpy_Strikes_BackVindicator) – compilation with other games

@@ -303,7 +303,7 @@ Legend Entertainment's visual achievement with Shannara showed the studio could 
 [^ref-24]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/10256-shannara/faqs/1675) – combat avoidance advice
 [^ref-25]: [Metzomagic – Shannara Review](https://www.metzomagic.com/showArticle.php?index=126) – Gordon Aplin review, bundled book regional differences, combat criticism, restore bug
 [^ref-27]: [MyAbandonware – Shannara](https://www.myabandonware.com/game/shannara-2t8) – release regions, version differences, rating
-[^ref-28]: [Emuparadise – Shannara](https://www.emuparadise.me/Abandonware_Games/Shannara_(1995)(Legend_Entertainment)/94839) – user rating
+[^ref-28]: [Internet Archive – Shannara (MS-DOS)](https://archive.org/details/msdos_Shannara_1995) – preservation copy with user metadata (replaces dead Emuparadise URL; Emuparadise removed all abandonware content in 2018)
 [^ref-29]: [Free Game Downloads – Shannara](https://free-game-downloads.mosw.com/abandonware/pc/adventure/games_sa_so/shannara.html) – Quest for Glory creators, game description
 [^ref-30]: [GOG Dreamlist – Shannara](https://www.gog.com/dreamlist/game/shannara) – fan comments, re-release requests
 [^ref-31]: [GameCopyWorld – Shannara](https://gamecopyworld.com/games/pc_shannara.shtml) – copy protection status

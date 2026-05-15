@@ -276,7 +276,7 @@ Modern players typically approach the game "more out of historical interest than
 [^ref-14]: [Home of the Underdogs via DanTeam](https://danteam.weebly.com/emmanuelle-pdf-english.html) – critical assessment, recommendation
 [^ref-15]: [OldGames.sk – Emmanuelle](https://www.oldgames.sk/en/game/emmanuelle-a-game-of-eroticism/download/8558/) – user rating, basic metadata
 [^ref-16]: [GamesNostalgia – Emmanuelle](https://gamesnostalgia.com/game/emmanuelle) – color palette details, licensing info, graphics assessment
-[^ref-17]: [Emuparadise – Emmanuelle Amiga](https://www.emuparadise.me/Amiga_ROMs/Emmanuelle/6056) – Amiga version user rating
+[^ref-17]: [Hall of Light – Emmanuelle (Amiga)](https://hol.abime.net/1675) – Amiga version user rating, magazine review scores, technical specs (replaces dead Emuparadise URL; Emuparadise removed all ROM content in 2018)
 [^ref-18]: [RetroGames.cz – Emmanuelle](https://www.retrogames.cz/play_1194-DOS.php) – additional designer credit, file sizes, content rating
 [^ref-19]: [PCGamingWiki – Emmanuelle](https://www.pcgamingwiki.com/wiki/Emmanuelle:_A_Game_of_Eroticism) – system requirements, video modes
 [^ref-20]: [MobyGames – Emmanuelle Screenshots](https://www.mobygames.com/game/3838/emmanuelle-a-game-of-eroticism/screenshots/dos/14567/) – title screen resolution

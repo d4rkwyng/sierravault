@@ -183,7 +183,7 @@ For Al Lowe personally, Troll's Tale represented a significant learning experien
 [^ref-10]: [DOS Games Archive](https://www.dosgamesarchive.com/download/trolls-tale) – - Plot summary and character details
 [^ref-11]: [Wikipedia](https://en.wikipedia.org/wiki/Troll's_Tale) – - Treasure count details
 [^ref-12]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Troll's_Tale) – - Technical specifications including treasure count
-[^ref-13]: [Emuparadise](https://www.emuparadise.me/ScummVM_Games/Troll's_Tale_(Floppy_DOS) – /96030) - Game premise overview
+[^ref-13]: [Internet Archive – Troll's Tale (Apple II)](https://archive.org/details/a2_Trolls_Tale_1983_Sierra) - Game premise overview, preservation copy (replaces dead Emuparadise URL; Emuparadise removed all abandonware/ROM content in 2018)
 [^ref-14]: [Gaming After 40 Blog](http://gamingafter40.blogspot.com/2015/03/adventure-of-week-trolls-tale-1983.html) – - Detailed playthrough with story conclusion
 [^ref-15]: [The Digital Antiquarian](https://www.filfre.net/?s=Troll%27s+Tale) – - Interface design details
 [^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/troll-s-tale-32) – - Parser system review by HOTUD

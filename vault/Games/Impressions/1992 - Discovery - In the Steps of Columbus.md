@@ -249,7 +249,7 @@ The game has been largely forgotten in discussions of colonial-era strategy game
 [^ref-12]: [Amiga Magazine Review Aggregation](http://amr.abime.net/review_24039) – Datormagazin, ACAR, Amiga Mania, Amiga Power, Amiga Format, CU Amiga scores
 [^ref-13]: [Kultboy.com](https://www.kultboy.com/testbericht-uebersicht/3816/) – German magazine reviews including Power Play 23%, Amiga Joker breakdown, user comments
 [^ref-14]: [Amiga Reviews – Amiga Action](http://amr.abime.net/review_37247) – Nick Merritt 65% review
-[^ref-15]: [Emuparadise](https://www.emuparadise.me/Amiga_ROMs/Discovery_-_In_the_Steps_of_Columbus/5977) – User rating 4.4/5
+[^ref-15]: [Hall of Light – Discovery: In the Steps of Columbus](https://hol.abime.net/1357) – Amiga community user rating, magazine review scores, technical specs (replaces dead Emuparadise URL; Emuparadise removed all ROM content in 2018)
 [^ref-16]: [WHDLoad](https://www.whdload.de/games/Discovery.html) – Technical requirements for Amiga installation, version history
 [^ref-17]: [Internet Archive](https://archive.org/details/msdos_Discovery_-_In_the_Steps_of_Columbus_1992) – DOS version preservation, file specifications
 [^ref-18]: [Classic Reload](https://classicreload.com/discovery-in-the-steps-of-columbus.html) – Platform confirmation, release year

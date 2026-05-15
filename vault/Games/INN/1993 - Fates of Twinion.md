@@ -245,7 +245,7 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 [^ref-17]: [Sierra Help - Tips](https://sierrahelp.com/Hints/FatesOfTwinionTips.html) - Forcing mechanic explanation, legendary items
 [^ref-18]: [MobyGames](https://www.mobygames.com/game/1846/fates-of-twinion/) - User ratings
 [^ref-19]: [MobyGames - Ruins of Cawdor](https://www.mobygames.com/game/67088/ruins-of-cawdor/) - Series relationship, engine information
-[^ref-20]: [Emuparadise](https://www.emuparadise.me/Abandonware_Games/Fates_Of_Twinion_V1.0_(1993)(Sierra_Online)/93341) - User rating
+[^ref-20]: [MyAbandonware – Fates of Twinion](https://www.myabandonware.com/game/fates-of-twinion-1u6) - User rating, version metadata, preservation download (replaces dead Emuparadise URL; Emuparadise removed all abandonware content in 2018)
 [^ref-21]: [CRPG Addict - Final Rating](http://crpgaddict.blogspot.com/) - Detailed critique, breadth vs depth analysis
 [^ref-22]: [Reddit - Sierra](https://www.reddit.com/r/Sierra/comments/weq5zl/speedruns_of_shadows_of_yserbius/) - Speedrun community insights
 [^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-fates-of-twinion-1993) - Player memories

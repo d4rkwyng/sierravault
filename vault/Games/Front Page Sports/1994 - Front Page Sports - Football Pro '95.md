@@ -277,7 +277,7 @@ The series' eventual decline following the troubled Football Pro '98 and cancell
 [^ref-13]: [Steam Community – Front Page Sports Football](https://steamcommunity.com/app/316700) – community sentiment, modern assessment
 [^ref-14]: [IGN – Front Page Sports: Football Pro '95](https://www.ign.com/games/front-page-sports-football-pro-95) – "Ten Sports Games That Need To Be Remade" mention
 [^ref-15]: [Football Idiot Forum](https://www.footballidiot.com/forum/viewtopic.php?t=5242) – emulation methods, copy protection, mobile play
-[^ref-16]: [Emuparadise](https://www.emuparadise.me/Abandonware_Games/Front_Page_Sports_Football_Pro_95_(1994)(Sierra_Online)/93411) – user rating, file size
+[^ref-16]: [Old Games Download – Front Page Sports: Football Pro '95](https://oldgamesdownload.com/front-page-sports-football-pro-95-season/) – user rating, file size (replaces dead Emuparadise URL; Emuparadise removed all abandonware content in 2018)
 [^ref-17]: [My Abandonware – Football Pro '95 Season](https://www.myabandonware.com/game/front-page-sports-football-pro-95-season-2ru) – user rating, DOSBox compatibility, "hike" command
 [^ref-18]: [Internet Archive – FBP9611 Patch](https://archive.org/details/FBP9611) – version 1.01 patch notes, bug fixes
 [^ref-19]: [Sierra Help – FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – patch versions, file sizes, feature additions

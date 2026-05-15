@@ -232,7 +232,7 @@ The game demonstrates how established puzzle frameworks could be successfully ad
 [^ref-9]: [MobyGames – Releases Page](https://www.mobygames.com/game/43749/arthur-to-astaroth-no-nazo-makaimura-incredible-toons/releases/) – Dynamix license, release details
 [^ref-10]: [romsfun.com](https://romsfun.com/roms/playstation/arthur-to-astaroth-no-nazo-maikamura-incredible-toons.html) – Sid & Al's connection, 100 puzzles, puzzle editor, Sierra On-Line 1993 release
 [^ref-12]: [Exophase – Achievement Data](https://www.exophase.com/game/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-retro/achievements/) – 100 puzzles, achievement names, progression structure
-[^ref-14]: [Emuparadise](https://www.emuparadise.me/Sony_Playstation_ISOs/Arthur_to_Astaroth_no_Nazo_Makaimura_-_Incredible_Toons_(Japan)/53424-download) – user ratings, file size, platform confirmation
+[^ref-14]: [PSXDataCenter – Arthur to Astaroth no Nazo Makaimura: Incredible Toons](https://psxdatacenter.com/japanese/arthur-astaroth-incredible-toons.html) – PlayStation database with user ratings, file size, platform confirmation (replaces dead Emuparadise URL; Emuparadise removed all ISO/ROM content in 2018)
 [^ref-15]: [Retro Gaming Daily Show – July 2019](https://retrogamingdailyshow.libsyn.com/2019/07) – recommended Japanese Saturn games coverage
 [^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-ne2) – user ratings, file size, download availability
 [^ref-17]: [MobyGames – Screenshots](https://www.mobygames.com/game/43749/arthur-to-astaroth-no-nazo-makaimura-incredible-toons/screenshots/playstation/432796/) – resolution data
