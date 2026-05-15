@@ -158,7 +158,7 @@ The game's commitment to procedural accuracy created a template for serious game
 
 [^ref-1]: [The Games Machine UK Review](https://archive.org/details/the-games-machine) — 4.22/5 stars, "large adventure with more than one solution"
 [^ref-2]: [ScummVM Wiki – Police Quest AGI](https://wiki.scummvm.org/index.php/Police_Quest:_In_Pursuit_of_the_Death_Angel) — Version 1.00G release June 1987
-[^ref-3]: [Sierra Gamers – Tammy Dargan Interview](https://www.sierragamers.com/tammy-dargan/) — "Real life simulation" development philosophy
+[^ref-3]: [Sierra Gamers – Tammy Dargan Interview](https://web.archive.org/web/*/https://www.sierragamers.com/tammy-dargan/) — "Real life simulation" development philosophy
 [^ref-4]: [DOSBox Compatibility – Police Quest](https://www.dosbox.com/wiki/GAMES:Police_Quest) — Version 2.0A release info
 [^ref-5]: [Hall of Light – Police Quest Amiga](https://hol.abime.net/3254) — 1988 Amiga port details
 [^ref-6]: [The Digital Antiquarian – Police Quest Series](https://www.filfre.net/tag/police-quest/) — Walls departure and series direction change

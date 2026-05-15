@@ -39,7 +39,7 @@ The company name "Schnibble" references *The Bizarre Adventures of Woodruff and 
 [^ref-4]: [GOG - Gobliiins 5](https://www.gog.com/game/gobliiins_5_the_morgloton_invasion) - Digital distribution
 [^ref-5]: [Adventure Gamers - Gobliiins 5](https://adventuregamers.com/games/view/gobliiins-5) - Game coverage
 [^ref-6]: [MobyGames - Woodruff and the Schnibble of Azimuth](https://www.mobygames.com/game/4070/the-bizarre-adventures-of-woodruff-and-the-schnibble-of-azimuth/) - Name origin
-[^ref-7]: [Hardcore Gaming 101 - Gobliiins Series](http://www.hardcoregaming101.net/gobliiins/) - Series retrospective
+[^ref-7]: [Hardcore Gaming 101 - Gobliiins Series](https://web.archive.org/web/*/http://www.hardcoregaming101.net/gobliiins/) - Series retrospective
 [^ref-8]: [MobyGames - Pierre Gilhodes](https://www.mobygames.com/person/1088/pierre-gilhodes/) - Series creator
 [^ref-9]: [PC Gamer - Gobliiins 5](https://www.pcgamer.com/) - Modern coverage
 [^ref-10]: [Metacritic - Gobliiins 5](https://www.metacritic.com/game/pc/gobliiins-5/) - Review aggregator

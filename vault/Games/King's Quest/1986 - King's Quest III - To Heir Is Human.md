@@ -273,4 +273,4 @@ However, the game also exemplifies the design philosophy that would eventually f
 [^ref-22]: [Sierra Newsletter Vol 1 No. 3](https://archive.org/details/sierra-newsletter-v1n3-1988) – Spring 1988, development details, game size statistics
 [^ref-23]: [Compute!'s Official Book of King's Quest](https://archive.org/details/computes-official-book-of-kings-quest) – published spell formulas as alternative to manual
 [^ref-24]: [Games vs. Hardware: The History of PC Video Games](https://books.google.com/books?id=6asPBAAAQBAJ) – Bogdan Ion Purcaru (2014), technical advancement context
-[^ref-25]: [Inside the Chest (Sierra Newsletter)](https://archive.org/details/sierra-inside-the-chest-1988) – Fall/Winter 1988, screen count comparison data
+[^ref-25]: [Inside the Chest (Sierra Newsletter)](https://web.archive.org/web/*/https://archive.org/details/sierra-inside-the-chest-1988) – Fall/Winter 1988, screen count comparison data

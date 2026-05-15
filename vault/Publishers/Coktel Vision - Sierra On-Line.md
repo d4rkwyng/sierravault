@@ -41,7 +41,7 @@ The Gobliiins series, Coktel's signature franchise, became part of Sierra's adve
 [^ref-2]: [MobyGames - Coktel Vision](https://www.mobygames.com/company/45/coktel-vision/) - Game database profile
 [^ref-3]: [MobyGames - Gobliiins](https://www.mobygames.com/game/1022/gobliiins/) - Flagship series
 [^ref-4]: [Giant Bomb - Coktel Vision](https://www.giantbomb.com/coktel-vision/3010-45/) - Company overview
-[^ref-5]: [Hardcore Gaming 101 - Gobliiins Series](http://www.hardcoregaming101.net/gobliiins/) - Series retrospective
+[^ref-5]: [Hardcore Gaming 101 - Gobliiins Series](https://web.archive.org/web/*/http://www.hardcoregaming101.net/gobliiins/) - Series retrospective
 [^ref-6]: [The Digital Antiquarian - Sierra in France](https://www.filfre.net/) - Sierra European expansion
 [^ref-7]: [Wikipedia - Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) - Series history
 [^ref-8]: [Adventure Gamers - Coktel Vision Games](https://adventuregamers.com/games/search?keyword=coktel+vision) - Game reviews

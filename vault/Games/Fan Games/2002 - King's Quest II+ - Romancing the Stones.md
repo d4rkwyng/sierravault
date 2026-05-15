@@ -224,7 +224,7 @@ The remake's significance extends beyond its individual merits to represent a br
 [^ref-7]: [Abandonware DOS – King's Quest II+ Romancing the Stones](https://www.abandonwaredos.com/abandonware-game.php?abandonware=King%27s+Quest+II%2B+Romancing+the+Stones) – preservation, download availability
 [^ref-8]: [Internet Archive – King's Quest II Search Results](https://archive.org/search?query=King%27s+Quest+II%2B+Romancing+the+Stones+sierra) – archival preservation, historical documentation: [Giant Bomb - King's Quest II: Romancing the Stones](https://www.giantbomb.com/kings-quest-ii-romancing-the-stones/3030-24287/) - game wiki entry
 [^ref-10]: [IGDB - King's Quest II: Romancing the Stones](https://www.igdb.com/games/kings-quest-ii-romancing-the-stones) - Internet Games Database entry
-[^ref-11]: [Hardcore Gaming 101 - AGD Interactive](http://www.hardcoregaming101.net/agd-interactive/) - retrospective on AGD's remakes
+[^ref-11]: [Hardcore Gaming 101 - AGD Interactive](https://web.archive.org/web/*/http://www.hardcoregaming101.net/agd-interactive/) - retrospective on AGD's remakes
 [^ref-12]: [Sierra Wiki - King's Quest II VGA](https://wiki.sierrahelp.com/index.php/King%27s_Quest_II_VGA) - Sierra community documentation
 [^ref-13]: [GameFAQs - King's Quest II VGA](https://gamefaqs.gamespot.com/pc/562815-kings-quest-ii-romancing-the-stones) - game database entry
 [^ref-14]: [Just Adventure - King's Quest II VGA Review](https://www.justadventure.com/2002/12/01/kings-quest-ii-romancing-the-stones/) - contemporary review

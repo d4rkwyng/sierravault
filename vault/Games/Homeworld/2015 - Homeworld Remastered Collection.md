@@ -371,7 +371,7 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [^ref-14]: [Homeworld Fandom Wiki – Homeworld](https://homeworld.fandom.com/wiki/Homeworld) – Mothership construction, Karan S'jet lore, release dates
 [^ref-15]: [Homeworld Fandom Wiki – Relic Entertainment](https://homeworld.fandom.com/wiki/Relic_Entertainment) – company history, development challenges
 [^ref-16]: [IMDB – Homeworld (1999)](https://www.imdb.com/title/tt0475297/) – voice cast, user rating, release date, Karan quote
-[^ref-17]: [The Digital Antiquarian – Homeworld](https://www.filfre.net/2025/01/homeworld/) – Alex Garden quotes, development timeline, cut content, interface development
+[^ref-17]: [The Digital Antiquarian – Homeworld](https://web.archive.org/web/*/https://www.filfre.net/2025/01/homeworld/) – Alex Garden quotes, development timeline, cut content, interface development
 [^ref-18]: [Internet Archive – Homeworld 2](https://archive.org/details/homeworld-2) – HW2 release date, Vaygr/Hiigaran details
 [^ref-19]: [D.I.C.E. Awards – Homeworld](https://www.interactive.org/games/video_game_details.asp?idAward=2000&idGame=487) – interface description, award nominations
 [^ref-20]: [GameSpot – Original Homeworld Review](http://www.gamespot.com/reviews/homeworld-review/1900-2537718/) – 9/10 score, mission count, multiplayer details

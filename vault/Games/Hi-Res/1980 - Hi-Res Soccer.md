@@ -160,7 +160,7 @@ The game also represents an interesting footnote in Sierra's corporate history, 
 [^ref-3]: [LemonAmiga - Sierra Soccer](https://www.lemonamiga.com/games/details.php?id=2761) – - 1994 Amiga version development details
 [^ref-4]: [Dynamix Wiki - Sierra Soccer: World Challenge Edition](https://dynamix.fandom.com/wiki/Sierra_Soccer:_World_Challenge_Edition) – - World Cup gameplay details
 [^ref-5]: [ESPN Gaming Review](https://www.espn.com/gaming/story/_/id/45545318/rematch-review-sloclap-soccer-simulation) – - Gameplay mechanics details
-[^ref-6]: [Apple2Games Wiki](https://apple2games.com/wiki/Hi-Res_Soccer) – - AI behavior description
+[^ref-6]: [Apple2Games Wiki](https://web.archive.org/web/*/https://apple2games.com/wiki/Hi-Res_Soccer) – - AI behavior description
 [^ref-7]: [MyAbandonware - Sierra Soccer](https://www.myabandonware.com/game/sierra-soccer-world-challenge-edition-7ix) – Modern rating and user reviews
 [^ref-8]: [WHDLoad - Sierra Soccer](http://www.whdload.de/games/SierraSoccer.html) – Technical assessment and Amiga compatibility
 [^ref-9]: [GOG Dreamlist Discussion](https://www.gog.com/dreamlist/game/sierra-online-hires-adventure-set) – Hi-Res series information

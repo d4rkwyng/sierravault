@@ -266,4 +266,4 @@ From a technical standpoint, Sabotage demonstrated what was possible on the limi
 
 [^ref-14]: [UVList – Sabotage](https://www.uvlist.net/game-155721-Sabotage) – Universal videogame list database, platform information
 
-[^ref-15]: [6502 Disassembly – Sabotage Memory Map](https://github.com/pixjuan/apple-ii-disassembly) – Technical analysis, memory documentation, assembly language details
+[^ref-15]: [6502 Disassembly – Sabotage Memory Map](https://web.archive.org/web/*/https://github.com/pixjuan/apple-ii-disassembly) – Technical analysis, memory documentation, assembly language details

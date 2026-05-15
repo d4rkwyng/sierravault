@@ -42,7 +42,7 @@ Unlike commercial publishers, AGD Interactive operates as a non-profit organizat
 [^ref-5]: [Adventure Gamers - Quest for Glory II VGA](https://web.archive.org/web/*/https://adventuregamers.com/games/view/14929) - Remake review
 [^ref-6]: [MobyGames - King's Quest II+](https://www.mobygames.com/game/16308/kings-quest-ii-romancing-the-stones/) - Expanded remake
 [^ref-7]: [MobyGames - King's Quest III Redux](https://www.mobygames.com/game/52817/kings-quest-iii-redux-to-heir-is-human/) - VGA remake
-[^ref-8]: [Sierra Gamers - AGD Interactive](https://www.sierragamers.com/agd-interactive/) - Fan community coverage
+[^ref-8]: [Sierra Gamers - AGD Interactive](https://web.archive.org/web/*/https://www.sierragamers.com/agd-interactive/) - Fan community coverage
 [^ref-9]: [King's Quest Omnipedia - AGD Interactive](https://kingsquest.fandom.com/wiki/AGD_Interactive) - Wiki documentation
 [^ref-10]: [Giant Bomb - AGD Interactive](https://www.giantbomb.com/agd-interactive/3010-7276/) - Company profile
 [^ref-11]: [IGDB - AGD Interactive](https://www.igdb.com/companies/agd-interactive) - Database entry

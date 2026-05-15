@@ -301,6 +301,6 @@ Despite these criticisms, The Art of Conquest has maintained a dedicated fanbase
 [^ref-31]: [Empire Earth Community – Download](https://empireearth.eu/download/) – digital availability, community versions
 [^ref-32]: [Shacknews – Server Shutdown (Wayback Machine)](https://web.archive.org/web/20090531141202/http://www.shacknews.com/onearticle.x/55173) – server shutdown details, date
 [^ref-33]: [ModDB – EPO Mod](https://www.moddb.com/mods/empire-earth-aoc-by-epomod/downloads/empire-earth-the-art-of-conquest-by-epo) – mod features, download statistics
-[^ref-34]: [GitHub – EE Tweaks Mod](https://github.com/firebirdblue23/ee-tweaks-mod) – performance fixes, 4GB patch
+[^ref-34]: [GitHub – EE Tweaks Mod](https://web.archive.org/web/*/https://github.com/firebirdblue23/ee-tweaks-mod) – performance fixes, 4GB patch
 [^ref-35]: [AbeBooks – Strategy Guide](https://www.abebooks.com/9780761539810/Empire-Earth-Art-Conquest-Primas-0761539816/plp) – guide details, ISBN, page count
 [^ref-36]: [Wildfire Games Forum – Review Discussion](https://wildfiregames.com/forum/topic/349-game-review-empire-earth-art-of-conquest/) – community reception, criticism

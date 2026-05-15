@@ -229,7 +229,7 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 [^ref-1]: [MobyGames - 3-D Ultra Pinball](https://www.mobygames.com/game/4508/3-d-ultra-pinball/) — Game credits, developer info, and user reviews
 [^ref-2]: [NewTechReview - 3D Ultra Pinball Review](https://newtechreview.com/reviews/3d-ultra-pinball/) — Review praising Sierra's impact on PC pinball
 [^ref-3]: [GameSpot - 3-D Ultra Pinball](https://www.gamespot.com/games/3-d-ultra-pinball/) — Contemporary coverage of fantasy pinball mechanics
-[^ref-4]: [Sierra Sales Report 1998](https://archive.org/details/sierra-annual-report-1998) — Series sales exceeding 500,000 copies
+[^ref-4]: [Sierra Sales Report 1998](https://web.archive.org/web/*/https://archive.org/details/sierra-annual-report-1998) — Series sales exceeding 500,000 copies
 [^ref-5]: [MobyGames – 3-D Ultra Pinball series page](https://www.mobygames.com/game/4508/3-d-ultra-pinball/) — Overview of series as best-selling pinball franchise (replaces dead IGN URL — IGN games database paths have been restructured)
 [^ref-6]: [MyAbandonware - 3-D Ultra Pinball](https://www.myabandonware.com/game/3-d-ultra-pinball-3fg) — Preservation download with 4.78/5 user rating
 [^ref-7]: [Internet Archive - 3-D Ultra Pinball](https://archive.org/details/3-D_Ultra_Pinball_Sierra_On-Line_S676430_1995) — Preservation copy with documentation

@@ -286,7 +286,7 @@ For stubborn titles, run Windows 98/XP in:
 
 | Problem | Solution |
 |---------|----------|
-| 16-bit installer fails | Use [OTVDM](https://github.com/nicfab/otvdm) or SierraHelp installers |
+| 16-bit installer fails | Use [OTVDM](https://web.archive.org/web/*/https://github.com/nicfab/otvdm) or SierraHelp installers |
 | CD-ROM not detected | Copy all CDs to hard drive, edit INI files |
 | Videos don't play | Install Windows Media Player codecs |
 | Colors are wrong | Run in 256-color mode, use dgVoodoo2 |
@@ -435,4 +435,4 @@ If you want enhanced versions of classic games:
 [^ref-4]: [SierraHelp.com](https://www.sierrahelp.com/) — Community patches and installers
 [^ref-5]: [GOG.com Sierra Collections](https://www.gog.com/games?publishers=sierra-entertainment) — Digital storefronts
 [^ref-6]: [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) — DirectX wrapper for old games
-[^ref-7]: [OTVDM](https://github.com/nicfab/otvdm) — 16-bit Windows app compatibility layer
+[^ref-7]: [OTVDM](https://web.archive.org/web/*/https://github.com/nicfab/otvdm) — 16-bit Windows app compatibility layer
