@@ -10,14 +10,14 @@ series: Phantasmagoria
 engine: SCI32
 protagonist: Curtis Craig
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-05-15'
 description: 'Phantasmagoria: A Puzzle of Flesh is a psychological horror adventure
  game released by Sierra On-Line in 1996. Though technically a sequel to Roberta...'
 tags: [1990s, adventure, phantasmagoria, sci, sierra]
 ---
 # Phantasmagoria: A Puzzle of Flesh
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
@@ -98,7 +98,7 @@ Development took place at Sierra On-Line's headquarters in Bellevue, Washington,
 
 The casting process proved challenging, with the main actor Paul Morgan Stetler being cast very late after the original Los Angeles-based actor dropped out over a contract dispute[^ref-58]. The production employed Screen Actors Guild talent, with actors receiving a minimum of $522 per day for interactive media projects[^ref-59]. The game featured a cast of more than 30 professional actors, including Ragna Sigrunardottir as Therese, Monique Parent as Jocilyn, and Paul Mitri as Trevor[^ref-60]. Composer Gary Spinrad created what reviewers described as a "haunting score" for the game[^ref-61].
 
-### Technical Achievements and Content Control
+### Technical Achievements
 
 A Puzzle of Flesh was built using Sierra's Creative Interpreter version 3 (SCI3) engine, representing the final Sierra game to use the SCI engine entirely[^ref-62]. The game utilized TrueMotion video compression to provide near 30 frames per second video playback[^ref-63]. Rather than simply blurring violent or sexual content for censorship purposes, the developers shot alternate clips specifically for the parental lockout setting[^ref-64]. This innovative approach allowed players to enable parental controls that replaced explicit content with alternative scenes without requiring separate ROM versions or video files.
 

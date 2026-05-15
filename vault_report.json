@@ -28,26 +28,6 @@
       ]
     },
     {
-      "filename": "2000 - Cleopatra - Queen of the Nile.md",
-      "series": "Pharaoh",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 26,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "1994 - Bouncers.md",
       "series": "Dynamix",
       "page_type": "standard",
@@ -603,26 +583,6 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1995 - Caesar II.md",
-      "series": "Caesar",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 32,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
           "points_lost": 2
         }
       ]
@@ -2288,26 +2248,6 @@
       ]
     },
     {
-      "filename": "1996 - Phantasmagoria - A Puzzle of Flesh.md",
-      "series": "Phantasmagoria",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 98.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 78,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "2006 - King's Quest III Remake (Infamous Adventures).md",
       "series": "Fan Games",
       "page_type": "fan",
@@ -2728,26 +2668,6 @@
       ]
     },
     {
-      "filename": "1980 - Hi-Res Adventure 1 - Mystery House.md",
-      "series": "Hi-Res",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 98.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 22,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "1981 - Hi-Res Adventure 3 - Cranston Manor.md",
       "series": "Hi-Res",
       "page_type": "standard",
@@ -3047,6 +2967,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 24,
+      "issues": []
+    },
+    {
+      "filename": "2000 - Cleopatra - Queen of the Nile.md",
+      "series": "Pharaoh",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 26,
       "issues": []
     },
     {
@@ -3843,6 +3776,19 @@
       "issues": []
     },
     {
+      "filename": "1995 - Caesar II.md",
+      "series": "Caesar",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 32,
+      "issues": []
+    },
+    {
       "filename": "1998 - Caesar III.md",
       "series": "Caesar",
       "page_type": "standard",
@@ -4139,6 +4085,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 29,
+      "issues": []
+    },
+    {
+      "filename": "1996 - Phantasmagoria - A Puzzle of Flesh.md",
+      "series": "Phantasmagoria",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 78,
       "issues": []
     },
     {
@@ -7012,6 +6971,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 26,
+      "issues": []
+    },
+    {
+      "filename": "1980 - Hi-Res Adventure 1 - Mystery House.md",
+      "series": "Hi-Res",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
       "issues": []
     },
     {

@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Unnamed protagonist
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-05-15'
 description: Mystery House is a landmark adventure game released by On-Line Systems
   on May 5, 1980. Designed, written, and illustrated by Roberta Williams and programmed...
 tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #1: Mystery House
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
@@ -85,12 +85,12 @@ Modern reviewers acknowledge that the game hasn't weathered as well as purely te
 
 ## Development
 
-### Origins and Inspiration
+### Origins
 At the end of the 1970s, Ken Williams was working to establish a company developing enterprise software for the market-dominating Apple II computer[^ref-7]. One day, he brought a teletype terminal home to work on an accounting program. Browsing through a software catalog, he discovered a game called Colossal Cave Adventure[^ref-7]. Ken purchased the game and introduced it to his wife Roberta, and the couple became engrossed in playing through it together.
 
 After completing Adventure, the Williams couple searched for similar games but found the market underdeveloped[^ref-7]. Roberta decided she could write her own adventure game and conceived the plot for Mystery House, drawing inspiration from Agatha Christie's classic novel "And Then There Were None"[^ref-6][^ref-7]. She was also inspired by the board game Clue, which helped her break away from a linear structure to create a more open-ended mystery[^ref-8].
 
-### Production and Programming
+### Production
 Recognizing that while she knew some programming, she needed someone else to code the game, Roberta convinced her husband Ken to help[^ref-7]. Ken agreed and borrowed his brother's Apple II computer to write the game on. Ken suggested that adding graphical scenes to the otherwise text-based game would make it more interesting for players[^ref-7], a decision that would prove revolutionary for the genre.
 
 To create the graphics, the couple purchased a VersaWriter machine, a device that allowed users to trace over line drawings and convert them to digital format[^ref-9]. Roberta drew seventy scenes for the game by hand[^ref-9], depicting the various rooms and locations within the Victorian mansion. However, Ken discovered that the resulting digital drawings were too large to fit on a 5¼-inch floppy disk[^ref-9].

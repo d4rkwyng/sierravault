@@ -10,14 +10,14 @@ series: Pharaoh
 engine: Pharaoh Engine
 protagonist: Egyptian Governor (player-named)
 sierra_lineage: Sierra Published
-last_updated: '2026-05-13'
+last_updated: '2026-05-15'
 description: '**Cleopatra: Queen of the Nile** is an expansion pack for the city-building
   strategy game Pharaoh, developed by BreakAway Games and published by Sierra...'
 tags: [2000s, pharaoh, sierra]
 ---
 # Cleopatra: Queen of the Nile
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
@@ -200,6 +200,10 @@ The musical score was composed by a team of four composers[^ref-7]:
 - Richard Hayman
 
 The soundtrack evokes ancient Egypt through its instrumentation and melodic choices while maintaining the pleasant, unobtrusive quality appropriate for a city-builder that players might spend hours with.
+
+### Technical Achievements
+
+Cleopatra: Queen of the Nile was built on Impressions Games' **Caesar III city-builder framework**, adapted for the Ancient Egyptian setting via custom engine modifications[^ref-7][^ref-14]. The release was the **first formal expansion to Pharaoh (1999)**, requiring engine extensions for new building types, religion systems, and monument-construction mechanics specific to Egyptian civilization[^ref-7]. The audio production layer featured an **original Egyptian-flavored soundtrack** composed by Henry Beckett and Richard Hayman, designed for long-session city-building rather than typical short-loop game music — substantial audio-production investment uncommon for casual expansions[^ref-7]. The product also introduced a **deepened monument-building system** (pyramids, temples, lighthouses) with multi-stage construction phases requiring labor, materials, and time — extending the Caesar III construction-pipeline framework rather than rewriting it. The product later served as **content baseline for the 2023 Triskell Interactive Pharaoh: A New Era remake**, which integrated Cleopatra expansion content directly into the base remake — demonstrating the expansion's content design durability[^ref-14].
 
 ### Technical Implementation
 

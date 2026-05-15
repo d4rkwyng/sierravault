@@ -10,14 +10,14 @@ series: Caesar
 engine: Custom 2D isometric engine
 protagonist: Roman Governor (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-04-21'
+last_updated: '2026-05-15'
 description: Caesar II is a city-building strategy game that transports players to
   ancient Rome, where they assume the role of a provincial governor seeking to rise...
 tags: [1990s, caesar, impressions, sierra]
 ---
 # Caesar II
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
@@ -111,6 +111,10 @@ The development team focused on addressing limitations of the original Caesar wh
 One of the most challenging aspects of development was integrating the combat system from Cohort 2. This allowed battles to be fought on a tactical level with the player commanding Roman legions directly. The "Caesar Deluxe" and "Caesar Gold" editions of the original game had experimented with this integration, "automatically launching Cohort 2 for battles"[^ref-19], but making it seamless in Caesar II proved difficult.
 
 Voice recording was handled by PolyLang Multimedia Ltd., with translations and re-recording for international versions provided by Coktel Vision[^ref-24]. The game's audio relied on MIDI music rather than CD audio[^ref-25], though the compositions effectively evoked the Roman setting.
+
+### Technical Achievements
+
+Caesar II represented a substantial technical leap from the original Caesar. The release integrated **Smacker Video Technology by RAD Game Tools** for in-game cutscenes and video elements — middleware-grade video compression was uncommon for strategy titles of the 1995 era[^ref-5]. Chris Beatrice's art direction delivered **pre-rendered 3D graphics** for the city-building portion, a notable visual upgrade that distinguished Caesar II from the 2D top-down original[^ref-3]. The most ambitious feat was the **seamless integration of the Cohort 2 tactical combat engine** — the original Caesar Deluxe and Caesar Gold editions had merely "automatically launched Cohort 2" for battles, but Caesar II reworked the integration so combat felt continuous with the city-builder layer[^ref-19]. Audio production scaled internationally: PolyLang Multimedia handled English voice recording while Coktel Vision provided translations and re-recordings for European-language releases — an unusually coordinated localization pipeline[^ref-24]. The product also targeted **multi-platform release (DOS/Windows + Macintosh)** with a 1996 Mac port, with patched 1.01 (March 1997) fixing critical zoom-out crashes via continued post-release engineering support[^ref-5][^ref-25][^ref-27].
 
 ### Version History
 
