@@ -174,5 +174,5 @@ The series' influence can be seen in modern football management games, and its e
 [^ref-18]: [Old-Games.com](https://www.old-games.com/download/6103/front-page-sports-football-pro) – - Development rush assessment
 [^ref-19]: [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – - Technical bug description
 [^ref-20]: [MyAbandonware](https://www.myabandonware.com/search/q/Front+Page+Sports%3A+Football+Pro) – - Series release timeline
-[^ref-21]: [GM Games Forums](https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – - Essential mod recommendation
+[^ref-21]: [GM Games Forums](https://web.archive.org/web/*/https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – - Essential mod recommendation
 [^ref-22]: [Steam Community](https://steamcommunity.com/app/316700) – - Modern platform availability

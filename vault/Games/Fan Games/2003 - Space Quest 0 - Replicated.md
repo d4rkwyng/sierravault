@@ -228,7 +228,7 @@ The game also represents an important artifact of early 2000s fan game developme
 [^ref-3]: [Internet Archive – Space Quest 0 Replicated](https://archive.org/details/SpaceQuest0Replicated) – developer, graphics description, setting details, contemporary praise
 [^ref-4]: [Space Quest Omnipedia – Fan Timeline](https://spacequest.fandom.com/wiki/Fan_timeline) – release dates, timeline placement, series references, Roger's hair color
 [^ref-5]: [Hardcore Gaming 101 – Space Quest VI](http://www.hardcoregaming101.net/space-quest-vi/) – fan game comparison, professionalism assessment
-[^ref-6]: [Home of the Underdogs](https://homeoftheunderdogs.net/game.php?id=4484) – community rating, reviewer quotes, freeware status
+[^ref-6]: [Home of the Underdogs](https://web.archive.org/web/*/https://homeoftheunderdogs.net/game.php?id=4484) – community rating, reviewer quotes, freeware status
 [^ref-7]: [Sierra Classic Gaming – Game Page](https://sierraclassicgaming.com/game/space-quest-0-replicated/) – platform support, system requirements, developer credit
 [^ref-8]: [Jeffry Houser – Space Quest 0 Review](https://www.jeffryhouser.com/index.cfm/2005/10/17/Space-Quest-0-Replicated) – AGI engine details, visual assessment, humor critique, Labion setting
 [^ref-9]: [Jess Morrissette – SQ0 Walkthrough](https://wiw.org/~jess/sq0walk.html) – location list, Easter eggs, gameplay bug workaround

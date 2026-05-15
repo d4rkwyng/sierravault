@@ -279,7 +279,7 @@ GameSpot's assessment that the game was "more fun when you are not playing" actu
 [^ref-16]: [Internet Archive – FPS Football Pro '95 Patch](https://archive.org/details/FBP9611) – patch notes, bug fixes
 [^ref-17]: [Internet Archive – FPS Football Pro '96 Demo](https://archive.org/details/FBPRO96) – preservation, demo version
 [^ref-18]: [Internet Archive – FPS Football Pro '96 Full](https://archive.org/details/msdos_Front_Page_Sports_Football_Pro_96_Season_1995) – full game preservation
-[^ref-19]: [GM Games Forum – VPNFL99 Mod](https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – mod details, contributors
+[^ref-19]: [GM Games Forum – VPNFL99 Mod](https://web.archive.org/web/*/https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – mod details, contributors
 [^ref-20]: [Football Idiot Forum](https://www.footballidiot.com/forum/viewtopic.php?t=5242) – tablet compatibility, user experiences
 [^ref-21]: [GameSpot – FPS Baseball Pro '96 Review](https://www.gamespot.com/reviews/front-page-sports-baseball-pro-96-season-review/1900-2536091/) – management gameplay quote
 [^ref-22]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/90537-front-page-sports-football-pro-96-season) – metadata, ESRB rating

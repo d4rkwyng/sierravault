@@ -282,5 +282,5 @@ The series' eventual decline following the troubled Football Pro '98 and cancell
 [^ref-18]: [Internet Archive – FBP9611 Patch](https://archive.org/details/FBP9611) – version 1.01 patch notes, bug fixes
 [^ref-19]: [Sierra Help – FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – patch versions, file sizes, feature additions
 [^ref-20]: [Steam Store](https://store.steampowered.com/search/?term=Front+Page+Sports%3A+Football+Pro+%2795) – digital re-release date
-[^ref-21]: [GM Games Forum – VPNFL Mod](https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – modding community, VPNFL mod description
+[^ref-21]: [GM Games Forum – VPNFL Mod](https://web.archive.org/web/*/https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – modding community, VPNFL mod description
 [^ref-22]: [Old-Games.com – Football Pro '96](https://www.old-games.com/download/7620/front-page-sports-football-pro) – expansion teams, series progression

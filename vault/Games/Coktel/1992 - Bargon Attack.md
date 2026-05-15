@@ -266,7 +266,7 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 [^ref-10]: [The Adventure Gamer – Introduction](https://advgamer.blogspot.com/2016/11/game-79-bargon-attack-introduction-1992.html) – French gaming context, audio issues, comic origins
 [^ref-11]: [The Adventure Gamer – Paris is Burning](https://advgamer.blogspot.com/2016/12/bargon-attack-paris-is-burning.html) – Paris locations, easter eggs, puzzle criticism
 [^ref-12]: [GameFAQs – jimfish Walkthrough](https://gamefaqs.gamespot.com/pc/576708-bargon-attack/faqs/78841/walkthrough) – in-game quotes, bugs, puzzle commentary
-[^ref-13]: [Home of the Underdogs](http://www.homeoftheunderdogs.net/game.php?id=98) – B-movie inspiration, user rating, critical assessment
+[^ref-13]: [Home of the Underdogs](https://web.archive.org/web/*/http://www.homeoftheunderdogs.net/game.php?id=98) – B-movie inspiration, user rating, critical assessment
 [^ref-14]: [MobyGames – Release Info](https://www.mobygames.com/game/bargon-attack/release-info) – regional releases, platforms, additional programming credits
 [^ref-15]: [Lemon Amiga – Bargon Attack](https://www.lemonamiga.com/games/details.php?id=1659) – Amiga specs, Amiga Joker review, user comments
 [^ref-16]: [GameFAQs – BBB Walkthrough](https://gamefaqs.gamespot.com/pc/576708-bargon-attack/faqs/6449) – version info, linear gameplay, Phase 9 bug

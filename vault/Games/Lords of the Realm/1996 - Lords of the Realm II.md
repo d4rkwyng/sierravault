@@ -328,7 +328,7 @@ The comparison to Total War is apt but also highlights what Lords II does differ
 [^ref-39]: [GameCenter Archive – June 1997](https://web.archive.org/web/20000517073736/http://www.gamecenter.com/News/Item/0,3,1034,00.html) – chart position
 [^ref-40]: [GameSpot Archive – First Half 1997](https://web.archive.org/web/20000307163045/http://headline.gamespot.com/news/97_09/12_toptwenty/index.html) – annual ranking
 [^ref-41]: [GameCenter Archive – December 1996](https://web.archive.org/web/19970718224800/http://www.gamecenter.com/News/Item/0,3,527,00.html) – launch month chart position
-[^ref-42]: [Home of the Underdogs – Siege Pack](https://homeoftheunderdogs.net/game.php?id=4600) – expansion review and rating
+[^ref-42]: [Home of the Underdogs – Siege Pack](https://web.archive.org/web/*/https://homeoftheunderdogs.net/game.php?id=4600) – expansion review and rating
 [^ref-43]: [MyAbandonware – Siege Pack](https://www.myabandonware.com/game/lords-of-the-realm-ii-siege-pack-bdd) – expansion features
 [^ref-44]: [MobyGames – Lords of the Realm Series](https://www.mobygames.com/group/262/lords-of-the-realm-series/) – compilation releases
 [^ref-45]: [Speedrun.com – Lords of the Realm II](https://www.speedrun.com/lords_of_the_realm_ii) – speedrun records, community data

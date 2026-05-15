@@ -184,6 +184,6 @@ For many fans, Front Page Sports Baseball Pro remains the gold standard of baseb
 [^ref-13]: [GameSpot Review](https://www.gamespot.com/reviews/front-page-sports-football-pro-98-review/1900-2536101/) – - Development refinement details
 [^ref-14]: [The Junkyard Forums](https://forums.the-junkyard.net/forum/general/general-discussion/9701-ss-soundtrack#post144548) – - Loudmouth Studios background
 [^ref-15]: [Retro Replay](https://retro-replay.com/db/windows/front-page-sports-football-pro-98/) – - Voice cast information
-[^ref-16]: [GM Games Forums](https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – - Community modifications
+[^ref-16]: [GM Games Forums](https://web.archive.org/web/*/https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – - Community modifications
 [^ref-17]: [Web Archive - OGR News](https://web.archive.org/web/19970606072617/http://www.ogr.com/news/news0597.html) – - '98 version improvements
 [^ref-18]: [Old Games](https://www.old-games.com/download/4645/front-page-sports-baseball-pro) – - Historical significance assessment

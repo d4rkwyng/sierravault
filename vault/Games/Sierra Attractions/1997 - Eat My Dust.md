@@ -136,7 +136,7 @@ The failure of Eat My Dust and similar experiments contributed to Sierra's event
 
 [^ref-1]: [MobyGames - Eat My Dust](https://www.mobygames.com/search/?q=Eat+My+Dust) – - Basic game information and release details
 [^ref-2]: [Internet Archive - Eat My Dust](https://archive.org/details/eat-my-dust) – - Game description and mechanics
-[^ref-3]: [Home of the Underdogs - Eat My Dust](http://www.homeoftheunderdogs.net/game.php?id=4579) – - Critical assessment and comparison to Mario Kart
+[^ref-3]: [Home of the Underdogs - Eat My Dust](https://web.archive.org/web/*/http://www.homeoftheunderdogs.net/game.php?id=4579) – - Critical assessment and comparison to Mario Kart
 [^ref-4]: [Sierra Chest - Eat My Dust](https://sierrachest.com/index.php?a=games&id=509&title=eat-my-dust&fld=walkthrough) – - Sierra company context
 [^ref-5]: [Sierra Gamers - Funnybone Interactive](https://www.sierragamers.com/) – Family entertainment label context
 [^ref-6]: [PCGamingWiki - Eat My Dust](https://www.pcgamingwiki.com/wiki/Eat_My_Dust) – - Platform and technical specifications
