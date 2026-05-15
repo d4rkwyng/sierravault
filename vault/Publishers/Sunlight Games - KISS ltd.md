@@ -37,7 +37,7 @@ Sunlight Games has released both a remaster of the original game and a full sequ
 [^ref-2]: [Steam - Gold Rush! 2](https://store.steampowered.com/app/609490/Gold_Rush_2/) - Sequel release
 [^ref-3]: [MobyGames - Sunlight Games](https://www.mobygames.com/company/24766/sunlight-games/) - Company profile
 [^ref-4]: [GOG - Gold Rush! Anniversary](https://www.gog.com/game/gold_rush_anniversary) - Digital release
-[^ref-5]: [Adventure Gamers - Gold Rush! Anniversary Review](https://adventuregamers.com/articles/view/27601) - Remaster review
+[^ref-5]: [Adventure Gamers - Gold Rush! Anniversary Review](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/27601) - Remaster review
 [^ref-6]: [Wikipedia - Gold Rush! (video game)](https://en.wikipedia.org/wiki/Gold_Rush!_(video_game)) - Original game history
 [^ref-7]: [MobyGames - Gold Rush! (1988)](https://www.mobygames.com/game/1141/gold-rush/) - Original Sierra release
 [^ref-8]: [Hardcore Gaming 101 - Gold Rush!](http://www.hardcoregaming101.net/gold-rush/) - Series retrospective

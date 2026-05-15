@@ -46,7 +46,7 @@ Replay Games ceased operations around 2018 after several years of inactivity fol
 [^ref-2]: [Steam - Leisure Suit Larry: Reloaded](https://store.steampowered.com/app/231910/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards_Reloaded/) - HD remake
 [^ref-3]: [GOG - Leisure Suit Larry: Reloaded](https://www.gog.com/game/leisure_suit_larry_reloaded) - Digital distribution
 [^ref-4]: [MobyGames - Leisure Suit Larry: Reloaded](https://www.mobygames.com/game/61393/leisure-suit-larry-reloaded/) - Database entry
-[^ref-5]: [Adventure Gamers - Larry Reloaded Review](https://adventuregamers.com/articles/view/26007) - Game review
+[^ref-5]: [Adventure Gamers - Larry Reloaded Review](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/26007) - Game review
 [^ref-6]: [Wikipedia - Leisure Suit Larry: Reloaded](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Reloaded) - Game history
 [^ref-7]: [PC Gamer - Larry Reloaded](https://www.pcgamer.com/leisure-suit-larry-reloaded-review/) - Review
 [^ref-8]: [Wikipedia - Al Lowe](https://en.wikipedia.org/wiki/Al_Lowe) - Designer partnership

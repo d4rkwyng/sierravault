@@ -301,8 +301,8 @@ Gobliins 6 has not yet been released. Information on purchase availability will 
 ## References
 
 [^ref-1]: [Kickstarter – Gobliins 6 by Pierre Gilhodes](https://www.kickstarter.com/projects/pierregilhodes/gobliins6) – Campaign details, funding information, development status
-[^ref-2]: [Adventure Gamers – Gobliins 6: A Quirky Comeback Adventure](https://adventuregamers.com/news/view/gobliins6-a-quirky-comeback-adventure) – Game announcement and story details
-[^ref-3]: [Adventure Gamers Forums – Gobliiins 5 and Gobliins 6 Kickstarter](https://adventuregamers.com/forums/viewthread/15732) – Community discussion, AGS engine details
+[^ref-2]: [Adventure Gamers – Gobliins 6: A Quirky Comeback Adventure](https://web.archive.org/web/*/https://adventuregamers.com/news/view/gobliins6-a-quirky-comeback-adventure) – Game announcement and story details
+[^ref-3]: [Adventure Gamers Forums – Gobliiins 5 and Gobliins 6 Kickstarter](https://web.archive.org/web/*/https://adventuregamers.com/forums/viewthread/15732) – Community discussion, AGS engine details
 [^ref-4]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – Series history, naming convention
 [^ref-5]: [itch.io – Pierre Gilhodes](https://pierre-gilhodes.itch.io/) – Developer page
 [^ref-6]: [MobyGames – Pierre Gilhodes](https://www.mobygames.com/person/10718/pierre-gilhodes/) – Developer credits and career history

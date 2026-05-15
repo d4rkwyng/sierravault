@@ -223,5 +223,5 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 [^ref-15]: [King's Quest Omnipedia – King's Quest Style Games](https://kingsquest.fandom.com/wiki/King%27s_Quest_Style_Games) – series categorization among Sierra-inspired games
 [^ref-16]: [Steam Community – The King's Challenge Hub](https://steamcommunity.com/app/425600) – community discussion, bug reports
 [^ref-17]: [Kickstarter – Quest for Infamy Campaign](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que/posts) – company history, campaign success
-[^ref-18]: [Adventure Gamers – 2D/2.5D Games Archive](https://adventuregamers.com/presentation/2d-or-2-5d/page/82) – presentation style categorization
+[^ref-18]: [Adventure Gamers – 2D/2.5D Games Archive](https://web.archive.org/web/*/https://adventuregamers.com/presentation/2d-or-2-5d/page/82) – presentation style categorization
 [^ref-19]: [Infamous Quests Patreon — "Hospital stays etc." (April 4, 2026)](https://www.patreon.com/posts/hospital-stays-154760603) — Steven Alexander confirms studio-time booked for *Roehm to Ruin* voice recording in May 2026, placing *Fortress of Fire* queued behind it; notes ongoing behind-the-scenes asset work during his hospitalization

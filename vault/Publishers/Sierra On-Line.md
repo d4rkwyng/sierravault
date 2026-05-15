@@ -488,7 +488,7 @@ After corporate restructuring in the late 1990s, Sierra On-Line branding gradual
 [^ref-7]: [Wikipedia - Roberta Williams](https://en.wikipedia.org/wiki/Roberta_Williams) - Founder and designer biography
 [^ref-8]: [Computer History Museum - Sierra On-Line](https://www.computerhistory.org/brochures/s/sierra-on-line/) - Historical artifacts
 [^ref-9]: [Hardcore Gaming 101 - Sierra Adventures](http://www.hardcoregaming101.net/company/sierra/) - Game retrospectives
-[^ref-10]: [Adventure Gamers - Sierra Legacy](https://adventuregamers.com/articles/view/sierra-legacy) - Company analysis
+[^ref-10]: [Adventure Gamers - Sierra Legacy](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/sierra-legacy) - Company analysis
 [^ref-11]: [GOG - Sierra Games](https://www.gog.com/games?developers=sierra-entertainment) - Digital preservation catalog
 [^ref-12]: [Wikipedia - Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) - AGI engine history
 [^ref-13]: [Wikipedia - Sierra Creative Interpreter](https://en.wikipedia.org/wiki/Sierra_Creative_Interpreter) - SCI engine history

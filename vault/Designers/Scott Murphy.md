@@ -128,7 +128,7 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 [^ref-28]: [Rock Paper Shotgun - Two Guys Reform](https://www.rockpapershotgun.com/two-guys-from-andromeda-reform-to-make-space-quest) — SpaceVenture development challenges and delays
 [^ref-29]: [IGN - A Year of Adventure: Space Quest I & II](https://www.ign.com/articles/2014/02/24/a-year-of-adventure-3-space-quest-i-ii) — Space Quest establishment of Murphy as creative force
 [^ref-30]: [MobyGames - Space Quest Series](https://www.mobygames.com/group/4/space-quest-series/) — AGI engine usage and series technical details
-[^ref-31]: [Adventure Gamers - Space Quest Retrospective](https://adventuregamers.com/articles/view/17490) — Space Quest's influence on adventure gaming comedy
+[^ref-31]: [Adventure Gamers - Space Quest Retrospective](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/17490) — Space Quest's influence on adventure gaming comedy
 [^ref-32]: [Wikipedia - Space Quest IV](https://en.wikipedia.org/wiki/Space_Quest_IV) — Space Quest IV as pinnacle of series, critical reception
 [^ref-33]: [MobyGames - Space Quest IV](https://www.mobygames.com/game/533/space-quest-iv-roger-wilco-and-the-time-rippers/) — time travel mechanics and puzzle design details
 [^ref-34]: [Computer Gaming World (March 1991)](https://archive.org/details/Computer_Gaming_World_Issue_80) — technical achievements in VGA graphics and Sound Blaster audio
@@ -139,5 +139,5 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 [^ref-41]: [Guys from Andromeda Press Release (2012)](http://guysfromandromeda.com/wp-content/uploads/2012/06/Spaceventure_Press_Release_PDF1.5.pdf) — design approach and iteration philosophy
 [^ref-42]: [Game Developer - Sierra Adventure Games](https://www.gamedeveloper.com/design/the-game-design-legacy-of-roberta-williams) — adventure gaming as viable genre
 [^ref-43]: [PC Gamer - Best Adventure Games](https://www.pcgamer.com/the-best-adventure-games-on-pc/) — Space Quest influence on subsequent games
-[^ref-44]: [Adventure Gamers - Hall of Fame](https://adventuregamers.com/articles/view/15193) — Murphy's contributions to puzzle design and narrative
+[^ref-44]: [Adventure Gamers - Hall of Fame](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/15193) — Murphy's contributions to puzzle design and narrative
 [^ref-45]: [Kotaku - SpaceVenture Coverage](https://kotaku.com/spaceventure-space-quest-kickstarter-steam-disaster-1851774747) — enduring Space Quest popularity and fan community

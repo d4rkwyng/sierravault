@@ -182,10 +182,10 @@ Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
 
 [^ref-1]: [Steam – Bolt Riley: A Reggae Adventure](https://store.steampowered.com/app/331210/Bolt_Riley_A_Reggae_Adventure/) — Official store page, release date, platform info
 [^ref-2]: [Kickstarter – Bolt Riley: A Reggae Adventure](https://www.kickstarter.com/projects/adventuremob/bolt-riley-a-reggae-adventure) — 757 backers, gameplay description, story outline
-[^ref-3]: [Adventure Gamers – Bolt Riley](https://adventuregamers.com/games/view/31147) — Chapter 1 release confirmation, episodic structure
+[^ref-3]: [Adventure Gamers – Bolt Riley](https://web.archive.org/web/*/https://adventuregamers.com/games/view/31147) — Chapter 1 release confirmation, episodic structure
 [^ref-4]: [MobyGames – Leisure Suit Larry: Reloaded](https://www.mobygames.com/game/54983/leisure-suit-larry-reloaded/) — Adventure Mob original involvement
 [^ref-5]: [Rock Paper Shotgun – Bolt Riley Kickstarter](https://www.rockpapershotgun.com/reggae-adventure-game-bolt-riley-has-a-kickstarter) — Cole involvement details, "Coles designed Chapter 2"
-[^ref-6]: [Adventure Gamers Interview – Oded Sharon](https://adventuregamers.com/articles/view/26878) — Unity engine, Noah Falstein introduction, development history
+[^ref-6]: [Adventure Gamers Interview – Oded Sharon](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/26878) — Unity engine, Noah Falstein introduction, development history
 [^ref-7]: [Adventure Mob Official Site](https://web.archive.org/web/20170101000000*/adventuremob.com) — Hand-drawn art, "wacky inventory items, and of course, a rope"
 [^ref-9]: [MobyGames – Bolt Riley Credits](https://www.mobygames.com/game/83611/bolt-riley-a-reggae-adventure/credits/) — Full development team, voice cast, plugins used
 [^ref-10]: [Gamasutra – Bolt Riley Development](https://www.gamasutra.com/view/news/202143/) — Unity 3D choice, cross-platform goals, first Kickstarter results

@@ -43,7 +43,7 @@ The company successfully Kickstarter-funded *Hero-U: Rogue to Redemption* in 201
 [^ref-3]: [Steam - Hero-U: Rogue to Redemption](https://store.steampowered.com/app/375440/HeroU_Rogue_to_Redemption/) - Game release
 [^ref-4]: [GOG - Hero-U: Rogue to Redemption](https://www.gog.com/game/herou_rogue_to_redemption) - Digital distribution
 [^ref-5]: [MobyGames - Hero-U: Rogue to Redemption](https://www.mobygames.com/game/108426/hero-u-rogue-to-redemption/) - Game database
-[^ref-6]: [Adventure Gamers - Hero-U Review](https://adventuregamers.com/articles/view/40181) - Game review
+[^ref-6]: [Adventure Gamers - Hero-U Review](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/40181) - Game review
 [^ref-7]: [Steam - Summer Daze: Tilly's Tale](https://store.steampowered.com/app/1773770/Summer_Daze_Tillys_Tale/) - Visual novel
 [^ref-8]: [PC Gamer - Hero-U](https://www.pcgamer.com/how-hero-u-avoided-disaster-to-resurrect-90s-adventure-game-nostalgia/) - Review
 [^ref-9]: [Wikipedia - Corey Cole](https://en.wikipedia.org/wiki/Corey_Cole) - Founder biography

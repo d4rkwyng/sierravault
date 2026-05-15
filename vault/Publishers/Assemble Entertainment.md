@@ -38,7 +38,7 @@ The new Larry games maintain the series' trademark humor while updating the game
 [^ref-3]: [Steam - Assemble Entertainment](https://store.steampowered.com/publisher/assemble) - Publisher page
 [^ref-4]: [Wikipedia - Leisure Suit Larry: Wet Dreams Don't Dry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don%27t_Dry) - Published game
 [^ref-5]: [GOG - Leisure Suit Larry Wet Dreams Don't Dry](https://www.gog.com/game/leisure_suit_larry_wet_dreams_dont_dry) - Digital release
-[^ref-6]: [Adventure Gamers - Wet Dreams Don't Dry Review](https://adventuregamers.com/articles/view/40401) - Game review
+[^ref-6]: [Adventure Gamers - Wet Dreams Don't Dry Review](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/40401) - Game review
 [^ref-7]: [Steam - Leisure Suit Larry: Wet Dreams Dry Twice](https://store.steampowered.com/app/1373430/Leisure_Suit_Larry__Wet_Dreams_Dry_Twice/) - Sequel release
 [^ref-8]: [MobyGames - Assemble Entertainment](https://www.mobygames.com/company/9569/assemble-entertainment-gmbh/) - Publisher profile and complete game catalog (replaces dead IGN /companies/ URL; IGN's company-profile pages have been deprecated)
 [^ref-9]: [MobyGames - CrazyBunch](https://www.mobygames.com/company/31918/crazybunch/) - Developer partnership

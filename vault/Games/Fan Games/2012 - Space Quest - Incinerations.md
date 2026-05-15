@@ -274,7 +274,7 @@ The game features the return of Beatrice Wankmeister, Roger's love interest from
 [^ref-8]: [ChapterCheats – Game Info](https://www.chaptercheats.com/cheat/pc/287003/space-quest-incinerations/video-walkthrough/198608) – Box of Mystery developer/publisher, January 2012 release
 [^ref-9]: [Telltale Games Community Forum – Release Thread](https://community.telltalegames.com/discussion/28243/space-quest-incinerations-new-fan-game-released) – development details, cut content, death room, animation praise, student status
 [^ref-10]: [Rock, Paper, Shotgun – Coverage](https://www.rockpapershotgun.com/search?q=Space+Quest+Incinerations) – "wonderful surprise" quote, action praise, favorable review
-[^ref-11]: [Adventure Gamers – Following Freeware](https://adventuregamers.com/articles/view/17417) – "one of the best fan made adventure games" quote, commercial sequel comparison
+[^ref-11]: [Adventure Gamers – Following Freeware](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/17417) – "one of the best fan made adventure games" quote, commercial sequel comparison
 [^ref-12]: [IMDb – Plot Summary](https://www.imdb.com/title/tt2216752/plotsummary/) – Chris Ushko synopsis, Xenon job interview, ten-year timeline
 [^ref-13]: [IMDb – Main Page](https://www.imdb.com/title/tt2216752/) – Canada release, January 11 2012, plot summary, director/writer credit
 [^ref-14]: [Neoseeker – Game Page](https://www.neoseeker.com/space-quest-incinerations/) – cinematics length, original characters, multiple endings description

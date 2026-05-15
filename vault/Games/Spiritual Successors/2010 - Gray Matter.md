@@ -202,7 +202,7 @@ Despite its flaws, Gray Matter is remembered as a successful return to form for 
 
 ## References
 
-[^ref-1]: [Adventure Gamers](https://adventuregamers.com/articles/view/21053) – Jane Jensen's reputation and return to adventure gaming
+[^ref-1]: [Adventure Gamers](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/21053) – Jane Jensen's reputation and return to adventure gaming
 [^ref-2]: [Choicest Games](https://www.choicestgames.com/2011/05/gray-matter-review.html) – Plot setup, character introduction, and graphics assessment
 [^ref-3]: [GamesIndustry.biz](https://www.gamesindustry.biz/gray-matter-jane-jensen-s-adventure-signed-by-viva-media-for-north-american-release-next-month) – Game theme description and publisher information
 [^ref-4]: [MobyGames Trivia](https://www.mobygames.com/game/49129/gray-matter/trivia/) – Development history details
@@ -218,7 +218,7 @@ Despite its flaws, Gray Matter is remembered as a successful return to form for 
 [^ref-15]: [Alternative Magazine](https://alternativemagazineonline.co.uk/2011/04/29/interview-in-conversation-with-jane-jensen-game-designer-gabriel-knight-trilogy-gray-matter/) – Thematic exploration
 [^ref-16]: [Game Pressure](https://www.gamepressure.com/graymatter/) – Dual character perspective
 [^ref-17]: [GBHBL](https://www.gbhbl.com/gray-matter-review-xbox-360/) – Interface description and puzzle difficulty
-[^ref-18]: [Adventure Gamers Preview](https://adventuregamers.com/articles/view/17883) – No pixel-hunting gameplay design
+[^ref-18]: [Adventure Gamers Preview](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/17883) – No pixel-hunting gameplay design
 [^ref-19]: [GameFAQs Guide](https://gamefaqs.gamespot.com/xbox360/997937-gray-matter/faqs/62036) – Interactive elements highlighting feature
 [^ref-20]: [TrueAchievements](https://www.trueachievements.com/game/Gray-Matter/walkthrough) – Chapter structure
 [^ref-21]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/gray-matter/) – Character perspective alternation and development history

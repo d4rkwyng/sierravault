@@ -37,8 +37,8 @@ The studio self-publishes their games through digital distribution platforms.[^r
 [^ref-2]: [MobyGames - Himalaya Studios](https://www.mobygames.com/company/10556/himalaya-studios-llc/) - Game database profile
 [^ref-3]: [Steam - Mage's Initiation](https://store.steampowered.com/app/270610/Mages_Initiation_Reign_of_the_Elements/) - Fantasy RPG release
 [^ref-4]: [GOG - Mage's Initiation](https://www.gog.com/game/mages_initiation_reign_of_the_elements) - Digital distribution
-[^ref-5]: [Adventure Gamers - Al Emmo Review](https://adventuregamers.com/articles/view/18064) - Debut game review
-[^ref-6]: [Adventure Gamers - Mage's Initiation Review](https://adventuregamers.com/articles/view/40041) - RPG-adventure review
+[^ref-5]: [Adventure Gamers - Al Emmo Review](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/18064) - Debut game review
+[^ref-6]: [Adventure Gamers - Mage's Initiation Review](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/40041) - RPG-adventure review
 [^ref-7]: [MobyGames - Al Emmo and the Lost Dutchman's Mine](https://www.mobygames.com/game/24935/al-emmo-and-the-lost-dutchmans-mine/) - Western adventure
 [^ref-8]: [Kickstarter - Mage's Initiation](https://www.kickstarter.com/projects/himalaya/mages-initiation) - Funding campaign
 [^ref-9]: [PC Gamer - Mage's Initiation](https://www.pcgamer.com/mages-initiation-reign-of-the-elements-review/) - Review

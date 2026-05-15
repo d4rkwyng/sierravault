@@ -4,9 +4,55 @@
     "passing": 507,
     "failing": 0,
     "pass_rate_pct": 100.0,
-    "average_score": 99.6
+    "average_score": 99.5
   },
   "pages": [
+    {
+      "filename": "1995 - 3-D Ultra Pinball.md",
+      "series": "3D Ultra",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 93.8,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "error",
+          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/4508/3-d-ultra-pinball/']",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1992 - Front Page Sports Football 92.md",
+      "series": "Front Page Sports",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.6,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 24,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "error",
+          "message": "Duplicate reference URL(s): ['https://archive.org/details/msdos_Front_Page_Sports_Football_Pro_96_Season_1995']",
+          "points_lost": 5
+        }
+      ]
+    },
     {
       "filename": "1998 - Leisure Suit Larry's Casino.md",
       "series": "Leisure Suit Larry",
@@ -89,26 +135,6 @@
     },
     {
       "filename": "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-      "series": "3D Ultra",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1995 - 3-D Ultra Pinball.md",
       "series": "3D Ultra",
       "page_type": "standard",
       "is_flagship": false,
@@ -6161,19 +6187,6 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 22,
-      "issues": []
-    },
-    {
-      "filename": "1992 - Front Page Sports Football 92.md",
-      "series": "Front Page Sports",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 100.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 24,
       "issues": []
     },
     {

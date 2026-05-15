@@ -228,7 +228,7 @@ The remake's significance extends beyond its individual merits to represent a br
 [^ref-12]: [Sierra Wiki - King's Quest II VGA](https://wiki.sierrahelp.com/index.php/King%27s_Quest_II_VGA) - Sierra community documentation
 [^ref-13]: [GameFAQs - King's Quest II VGA](https://gamefaqs.gamespot.com/pc/562815-kings-quest-ii-romancing-the-stones) - game database entry
 [^ref-14]: [Just Adventure - King's Quest II VGA Review](https://www.justadventure.com/2002/12/01/kings-quest-ii-romancing-the-stones/) - contemporary review
-[^ref-15]: [AdventureGamers Forum - KQ2 VGA Discussion](https://adventuregamers.com/forums/) - community discussion
+[^ref-15]: [AdventureGamers Forum - KQ2 VGA Discussion](https://web.archive.org/web/*/https://adventuregamers.com/forums/) - community discussion
 [^ref-16]: [ScummVM - AGD Interactive Games](https://www.scummvm.org/) - compatibility information
 [^ref-17]: [UVList - King's Quest II Romancing the Stones](https://www.uvlist.net/) - Universal Videogame List entry
 [^ref-18]: [AGD Interactive official site](https://www.agdinteractive.com/) — primary developer/distribution channel for the fan remake
