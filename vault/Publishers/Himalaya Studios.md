@@ -42,7 +42,7 @@ The studio self-publishes their games through digital distribution platforms.[^r
 [^ref-7]: [MobyGames - Al Emmo and the Lost Dutchman's Mine](https://www.mobygames.com/game/24935/al-emmo-and-the-lost-dutchmans-mine/) - Western adventure
 [^ref-8]: [Kickstarter - Mage's Initiation](https://www.kickstarter.com/projects/himalaya/mages-initiation) - Funding campaign
 [^ref-9]: [PC Gamer - Mage's Initiation](https://www.pcgamer.com/mages-initiation-reign-of-the-elements-review/) - Review
-[^ref-10]: [IGN - Himalaya Studios](https://www.ign.com/companies/himalaya-studios) - Publisher profile
+[^ref-10]: [MobyGames - Himalaya Studios](https://www.mobygames.com/company/8156/himalaya-studios-inc/) - Publisher profile and complete game catalog (replaces dead IGN /companies/ URL; IGN's company-profile pages have been deprecated)
 [^ref-11]: [IndieDB - Himalaya Studios](https://www.indiedb.com/company/himalaya-studios) - Developer profile
 [^ref-12]: [IGDB - Himalaya Studios](https://www.igdb.com/companies/himalaya-studios) - Database entry
 [^ref-13]: [Sierra Gamers - Himalaya Studios](https://www.sierragamers.com/) - Fan community

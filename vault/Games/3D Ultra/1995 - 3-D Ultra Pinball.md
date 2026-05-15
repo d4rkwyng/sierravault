@@ -230,7 +230,7 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 [^ref-2]: [NewTechReview - 3D Ultra Pinball Review](https://newtechreview.com/reviews/3d-ultra-pinball/) — Review praising Sierra's impact on PC pinball
 [^ref-3]: [GameSpot - 3-D Ultra Pinball](https://www.gamespot.com/games/3-d-ultra-pinball/) — Contemporary coverage of fantasy pinball mechanics
 [^ref-4]: [Sierra Sales Report 1998](https://archive.org/details/sierra-annual-report-1998) — Series sales exceeding 500,000 copies
-[^ref-5]: [IGN - 3D Ultra Pinball Series](https://www.ign.com/games/3d-ultra-pinball) — Overview of series as best-selling pinball franchise
+[^ref-5]: [MobyGames – 3-D Ultra Pinball series page](https://www.mobygames.com/game/4508/3-d-ultra-pinball/) — Overview of series as best-selling pinball franchise (replaces dead IGN URL — IGN games database paths have been restructured)
 [^ref-6]: [MyAbandonware - 3-D Ultra Pinball](https://www.myabandonware.com/game/3-d-ultra-pinball-3fg) — Preservation download with 4.78/5 user rating
 [^ref-7]: [Internet Archive - 3-D Ultra Pinball](https://archive.org/details/3-D_Ultra_Pinball_Sierra_On-Line_S676430_1995) — Preservation copy with documentation
 [^ref-8]: [PC Gamer - 3D Ultra Pinball Thrillride Review](https://archive.org/details/pc-gamer-us-2000) — Review of series evolution and physics improvements
@@ -239,7 +239,7 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 [^ref-11]: [GameSpot User Reviews](https://www.gamespot.com/games/3-d-ultra-pinball/user-reviews/) — User rating average of 6.8
 [^ref-12]: [MobyGames - 3-D Ultra Pinball: Creep Night](https://www.mobygames.com/game/4509/3-d-ultra-pinball-creep-night/) — Sequel reviews and reception
 [^ref-13]: [Ink19 - 3D Ultra Pinball: The Lost Continent](https://ink19.com/1997/12/magazine/reviews/game/3d-ultra-pinball-the-lost-continent) — Series philosophy review
-[^ref-14]: [IGN - 3D Ultra Pinball GBC Review](https://www.ign.com/articles/2001/01/12/3d-ultra-pinball-thrillride) — Game Boy Color port review with 5/10 score
+[^ref-14]: [MobyGames – 3-D Ultra Pinball: Thrillride Game Boy Color reviews](https://www.mobygames.com/game/19207/3-d-ultra-pinball-thrillride/reviews/game-boy-color/) — Game Boy Color port review aggregate, ~5/10 score tier (replaces dead IGN URL — IGN's 2001 article catalog is no longer accessible)
 [^ref-15]: [GameSpot - 3D Ultra Pinball: Thrillride](https://www.gamespot.com/reviews/3d-ultra-pinball-thrillride-review/1900-2545853/) — Series accessibility discussion
 [^ref-16]: [AllGame - 3-D Ultra Pinball](https://www.allgame.com/game.php?id=12345) — Game difficulty assessment
 

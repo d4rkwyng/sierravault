@@ -282,7 +282,7 @@ Rosella would return in King's Quest VII: The Princeless Bride, and her rescuer 
 [^ref-9]: [Computer & Video Games #91](https://www.everygamegoing.com/larticle/Kings-Quest-IV-000/43679/) – - Keith Campbell review, gameplay descriptions, animation examples
 [^ref-10]: [Sierra Help - Easter Eggs](https://sierrahelp.com/Misc/EasterEggs/KQEasterEggs.html) – - ~30 fairy tale characters, cross-game references
 [^ref-11]: [Hardcore Gaming 101 - King's Quest IV](http://www.hardcoregaming101.net/kings-quest-iv-the-perils-of-rosella/) – - Story elements, marketing quotes, infamous puzzles
-[^ref-12]: [IGN - Revisiting King's Quest IV](https://www.ign.com/articles/2014/05/26/revisiting-kings-quest-iv-the-perils-of-rosella) – - Corporate concern about female protagonist, fan letters about Graham death
+[^ref-12]: [IGN - Revisiting King's Quest IV (Wayback)](https://web.archive.org/web/2024*/https://www.ign.com/articles/2014/05/26/revisiting-kings-quest-iv-the-perils-of-rosella) – Wayback-preserved 2014 IGN retrospective covering corporate concern about female protagonist and fan letters about Graham's death (live URL 404s; Wayback snapshot remains accessible)
 [^ref-13]: [Internet Archive - King's Quest IV Manual](https://archive.org/details/Kings_Quest_4_-_Manual) – - Full credits, supported verbs, gameplay instructions
 [^ref-14]: [King's Quest Omnipedia - KQ4 AGI DOS](https://kingsquest.fandom.com/wiki/King%27s_Quest_IV:_The_Perils_of_Rosella_(AGI_DOS) – ) - AGI version differences, easter eggs, developer room credits
 [^ref-15]: [StrategyWiki - King's Quest IV](https://strategywiki.org/wiki/King%27s_Quest_IV:_The_Perils_of_Rosella) – - Real-time gameplay, 24-hour span, alternate ending

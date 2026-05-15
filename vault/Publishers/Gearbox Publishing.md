@@ -41,7 +41,7 @@ Gearbox inherited the Homeworld franchise through their 2013 acquisition from TH
 [^ref-6]: [GOG - Homeworld Remastered Collection](https://www.gog.com/game/homeworld_remastered_collection) - Digital release
 [^ref-7]: [Steam - Homeworld 3](https://store.steampowered.com/app/1840080/Homeworld_3/) - New mainline entry
 [^ref-8]: [PC Gamer - THQ Bankruptcy Auction](https://www.pcgamer.com/gearbox-now-owns-the-homeworld-franchise/) - Homeworld acquisition
-[^ref-9]: [IGN - Gearbox Publishing](https://www.ign.com/companies/gearbox-publishing) - Publisher profile
+[^ref-9]: [MobyGames - Gearbox Publishing](https://www.mobygames.com/company/4515/gearbox-publishing-llc/) - Publisher profile and complete game catalog (replaces dead IGN /companies/ URL; IGN's company-profile pages have been deprecated)
 [^ref-10]: [Wikipedia - Embracer Group](https://en.wikipedia.org/wiki/Embracer_Group) - Parent company
 [^ref-11]: [MobyGames - Relic Entertainment](https://www.mobygames.com/company/1543/relic-entertainment-inc/) - Original Homeworld developer
 [^ref-12]: [Polygon - Homeworld Remastered](https://www.polygon.com/2015/2/25/8099099/homeworld-remastered-collection-review) - Remaster coverage

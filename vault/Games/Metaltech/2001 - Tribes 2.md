@@ -157,7 +157,7 @@ The game's environmental design featured complex terrain and verticality that re
 [^ref-16]: [GameSpot - Tribes 2 Review](https://www.gamespot.com/reviews/tribes-2-review/1900-2705268/) - Comprehensive review and analysis
 [^ref-19]: [Eurogamer - Tribes 2 Review](https://www.eurogamer.net/r-tribes2) - Contemporary review and vehicle combat assessment
 [^ref-20]: [Metacritic - Tribes 2](https://www.metacritic.com/game/tribes-2/) - Aggregated scores
-[^ref-21]: [IGN - Tribes 2](https://www.ign.com/games/tribes-2) - Professional review score
+[^ref-21]: [GameSpot - Tribes 2 Review](https://www.gamespot.com/reviews/tribes-2-review/1900-2693903/) - Professional review score (replaces unstable IGN games-database URL; GameSpot review remains live)
 [^ref-22]: [PC Gamer - Tribes 2 Review](https://www.pcgamer.com/tribes-2-review/) - Magazine review score
 [^ref-23]: [MyAbandonware - Tribes 2](https://www.myabandonware.com/game/tribes-2-bhu) - Modern user rating
 [^ref-24]: [IGN - Tribes 2 Lives On](https://www.ign.com/articles/2009/01/06/tribes-2-lives-on) - Community revival project coverage

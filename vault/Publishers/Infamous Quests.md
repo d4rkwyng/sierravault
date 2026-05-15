@@ -44,7 +44,7 @@ The studio successfully funded their debut game, *Quest for Infamy*, through Kic
 [^ref-7]: [Steam - Order of the Thorne: The King's Challenge](https://store.steampowered.com/app/339680/Order_of_the_Thorne_The_Kings_Challenge/) - Episodic adventure
 [^ref-8]: [MobyGames - Order of the Thorne](https://www.mobygames.com/game/76186/order-of-the-thorne-the-kings-challenge/) - Game entry
 [^ref-9]: [PC Gamer - Quest for Infamy](https://www.pcgamer.com/quest-for-infamy-review/) - Review
-[^ref-10]: [IGN - Infamous Quests](https://www.ign.com/companies/infamous-quests) - Publisher profile
+[^ref-10]: [MobyGames - Infamous Quests](https://www.mobygames.com/company/12728/infamous-quests/) - Publisher/developer profile and complete game catalog (replaces dead IGN /companies/ URL; IGN's company-profile pages have been deprecated)
 [^ref-11]: [IndieDB - Infamous Quests](https://www.indiedb.com/company/infamous-quests) - Developer profile
 [^ref-12]: [Metacritic - Quest for Infamy](https://www.metacritic.com/game/pc/quest-for-infamy) - Review aggregator
 [^ref-13]: [Sierra Gamers - Infamous Quests](https://www.sierragamers.com/) - Fan community

@@ -160,7 +160,7 @@ The official website continues to provide gameplay tutorials and FAQ documentati
 [^ref-5]: [Steam Store Page](https://store.steampowered.com/app/2687970/TRIBES_3_Rivals/) – game description, classes, maps
 [^ref-6]: [Official Website](https://www.tribes3rivals.com/) – how to play, FAQ
 [^ref-7]: [SteamCharts](https://steamcharts.com/app/2687970) – concurrent players
-[^ref-8]: [IGN – Tribes 3 Review](https://www.ign.com/games/tribes-3-rivals) – coverage
+[^ref-8]: [Metacritic – Tribes 3: Rivals](https://www.metacritic.com/game/tribes-3-rivals/) – aggregate review status, critic/user reception (replaces unstable IGN database URL; Metacritic page remains live)
 [^ref-9]: [PCGamingWiki – Tribes 3: Rivals](https://www.pcgamingwiki.com/wiki/Tribes_3:_Rivals) – technical info
 [^ref-10]: [Reddit r/Tribes](https://www.reddit.com/r/Tribes/) – community discussion
 [^ref-11]: [Prophecy Games Discord](https://discord.gg/tribes) – official community
@@ -168,7 +168,7 @@ The official website continues to provide gameplay tutorials and FAQ documentati
 [^ref-14]: [Tribes Wiki](https://wiki.tribesdepot.com/wiki/Tribes_Wiki) – series information
 [^ref-15]: [SteamBase Charts](https://steambase.io/games/tribes-3-rivals/steam-charts) – additional statistics
 [^ref-16]: [Prophecy Games Official](https://www.prophecygames.com/) – developer info
-[^ref-17]: [IGN Coverage](https://www.ign.com/articles/tribes-3-rivals-preview) – preview coverage
+[^ref-17]: [Rock Paper Shotgun – Tribes 3: Rivals Early Access coverage](https://www.rockpapershotgun.com/tribes-3-rivals) – Early Access launch and preview coverage (replaces unstable IGN preview URL; RPS coverage remains live)
 [^ref-18]: [Gamerant – Tribes History](https://gamerant.com/tribes-franchise-history/) – series background
 [^ref-19]: [Metacritic User Reviews](https://www.metacritic.com/game/tribes-3-rivals/user-reviews/) – community reception
 [^ref-20]: [IGDB – Tribes 3: Rivals](https://www.igdb.com/games/tribes-3-rivals) — Internet Games Database entry, Steam platform listing, March 2024 Early Access release date
