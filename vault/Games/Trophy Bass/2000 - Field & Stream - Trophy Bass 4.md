@@ -12,7 +12,7 @@ series: Trophy Bass
 engine: null
 protagonist: Angler (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-05-15'
 description: "Field & Stream: Trophy Bass 4 is a fishing simulation developed by Dynamix and published by Sierra Sports in 2000, featuring 25 real lakes, over 30 fish species, and 3D graphics with Force Feedback support."
 tags:
   - 2000s
@@ -23,11 +23,11 @@ tags:
 ---
 # Field & Stream: Trophy Bass 4
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
-Field & Stream: Trophy Bass 4 is a fishing simulation game developed by [[Dynamix]] and published by Sierra Sports, released in May 2000 for Windows[^ref-1][^ref-2]. The fourth entry in the Trophy Bass series, the game expanded on its predecessors with 25 real-world lakes reconstructed across the United States, over 30 species of freshwater game fish including stripers, walleyes, catfish, and muskies, and thousands of rod, reel, and lure combinations[^ref-3][^ref-4].
+Field & Stream: Trophy Bass 4 is a fishing simulation game developed by [[Dynamix]] and published by Sierra Sports, released in May 2000 for Windows[^ref-1][^ref-2][^ref-20][^ref-21]. The fourth entry in the Trophy Bass series, the game expanded on its predecessors with 25 real-world lakes reconstructed across the United States, over 30 species of freshwater game fish including stripers, walleyes, catfish, and muskies, and thousands of rod, reel, and lure combinations[^ref-3][^ref-4].
 
 GameSpot's Stephen Poole awarded the game 8.2/10[^ref-1], while IGN gave it 8/10[^ref-5]. The game earned a 74% aggregate score on GameRankings[^ref-1]. Published under the Field & Stream magazine licensing agreement, Trophy Bass 4 continued Sierra Sports' strategy of targeting outdoor sports enthusiasts alongside traditional gamers, a market segment where the earlier Trophy Bass titles had found significant commercial success[^ref-6].[^ref-16][^ref-17]
 
@@ -35,6 +35,7 @@ GameSpot's Stephen Poole awarded the game 8.2/10[^ref-1], while IGN gave it 8/10
 > **Developer:** [[Dynamix]][^ref-2]
 > **Designer:** Kurt Weber[^ref-2]
 > **Publisher:** Sierra Sports[^ref-1]
+> **Engine:** Dynamix proprietary Trophy Boss fishing-simulation engine (evolved from Trophy Bass 2/3 lineage)[^ref-2][^ref-3]
 > **Platforms:** Windows[^ref-2]
 > **Release Year:** 2000[^ref-1]
 > **Series:** Trophy Bass
@@ -145,3 +146,5 @@ Field & Stream: Trophy Bass 4 is not currently available on modern digital store
 [^ref-17]: [Wikidata – Trophy Bass 4](https://www.wikidata.org/wiki/Q7119131) – Structured metadata
 [^ref-18]: [GameFAQs – Trophy Bass 4](https://gamefaqs.gamespot.com/pc/256377-trophy-bass-4/reviews) – User reviews
 [^ref-19]: [VGMDB – Field & Stream: Trophy Bass 4 Soundtrack](https://vgmdb.net/album/6417) – Composer credits for Neal Grandstaff and Ken Allen
+[^ref-20]: [IGDB – Field & Stream: Trophy Bass 4](https://www.igdb.com/games/field-stream-trophy-bass-4) — Internet Games Database entry, Windows platform tagging
+[^ref-21]: [LaunchBox Games Database – Trophy Bass 4](https://gamesdb.launchbox-app.com/games/details/field-stream-trophy-bass-4) — community-curated metadata, cover-art reference

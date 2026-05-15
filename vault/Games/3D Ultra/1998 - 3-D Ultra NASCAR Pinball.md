@@ -10,7 +10,7 @@ series: 3-D Ultra Pinball
 engine: 3-D Ultra Pinball Engine (improved from Thrillride)
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-13'
+last_updated: '2026-05-15'
 description: '3-D Ultra NASCAR Pinball is a virtual pinball game that combines two
   of America''s favorite pastimes: energetic pinball and high-speed car racing. Released...'
 tags: [1990s, 3-d-ultra-pinball, dynamix, sierra]
@@ -18,11 +18,11 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra NASCAR Pinball
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
-3-D Ultra NASCAR Pinball is a virtual pinball game that combines two of America's favorite pastimes: energetic pinball and high-speed car racing[^ref-1][^ref-17]. Released on December 1, 1998, this title represents the fourth entry in Sierra's popular 3-D Ultra Pinball series[^ref-2], developed by [[Dynamix]] and published by Sierra Attractions[^ref-3]. The game takes the NASCAR license and applies it as a thematic overlay to the established pinball formula, allowing players to experience the stages of a race day through pinball gameplay rather than traditional racing mechanics[^ref-9].
+3-D Ultra NASCAR Pinball is a virtual pinball game that combines two of America's favorite pastimes: energetic pinball and high-speed car racing[^ref-1][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21][^ref-22]. Released on December 1, 1998, this title represents the fourth entry in Sierra's popular 3-D Ultra Pinball series[^ref-2], developed by [[Dynamix]] and published by Sierra Attractions[^ref-3]. The game takes the NASCAR license and applies it as a thematic overlay to the established pinball formula, allowing players to experience the stages of a race day through pinball gameplay rather than traditional racing mechanics[^ref-9].
 
 Although the game may appeal to racing fans, it is important to note that NASCAR Pinball is not actually a racing game—it is a virtual pinball game with a NASCAR racing theme[^ref-10]. Players start in the Garage table where they can modify their steering, tune-ups, and brakes, then proceed to race through interconnected pinball tables while hitting targets to gain pole position, pull into the lead, and eventually take the checkered flag[^ref-6]. The game was also released in Europe under the alternate title "3-D Ultra Pinball: Turbo Racing"[^ref-2].
 
@@ -30,6 +30,7 @@ The title features four professional NASCAR drivers—Dale Earnhardt, Bill Ellio
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-8]
+> **Designer:** Dynamix internal team (no individual designer credit)[^ref-3][^ref-8]
 > **Publisher:** Sierra Attractions[^ref-3]
 > **Engine:** Improved graphics engine from 3-D Ultra Pinball: Thrillride[^ref-3]
 > **Platforms:** Windows, Mac OS[^ref-3]
@@ -211,3 +212,8 @@ The game was part of Sierra's broader 3-D Ultra Pinball franchise, though specif
 [^ref-12]: [MyAbandonware – 3-D Ultra NASCAR Pinball](https://www.myabandonware.com/game/3-d-ultra-nascar-pinball-3ff) – user ratings, download versions, user comments, technical issues
 
 [^ref-17]: [IGDB – 3-D Ultra NASCAR Pinball](https://www.igdb.com/search?q=3-D+Ultra+NASCAR+Pinball) — Game database cross-reference
+[^ref-18]: [LaunchBox Games Database – 3-D Ultra NASCAR Pinball](https://gamesdb.launchbox-app.com/games/details/3-d-ultra-nascar-pinball) — community-curated metadata, Windows/Mac platform tagging, cover-art reference
+[^ref-19]: [Sierra Chest – 3-D Ultra NASCAR Pinball product page](https://sierrachest.com/index.php?a=games&id=345&fld=general) — Sierra Chest packaging archive and Sierra Attractions sublabel context
+[^ref-20]: [PCGamingWiki – 3-D Ultra NASCAR Pinball](https://www.pcgamingwiki.com/wiki/3-D_Ultra_NASCAR_Pinball) — technical documentation, modern-OS compatibility notes
+[^ref-21]: [MobyGames – 3-D Ultra NASCAR Pinball](https://www.mobygames.com/game/3209/3-d-ultra-nascar-pinball/) — game database entry, full credits and platform listing
+[^ref-22]: [Adventure Classic Gaming – Dynamix 3-D Ultra retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for the Dynamix 3-D Ultra Pinball series

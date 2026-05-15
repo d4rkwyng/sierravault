@@ -10,7 +10,7 @@ series: 3-D Ultra Minigolf
 engine: Wanako Engine
 protagonist: Hector, Rosie, Joe, or Kate (player-selected)
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-15'
 description: '*3D Ultra Minigolf Adventures Deluxe* is an arcade-style miniature golf
   game developed by Wanako Games and published by Activision, released on July 23,...'
 tags: [2000s, 3-d-ultra-minigolf, sierra]
@@ -18,11 +18,11 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3D Ultra Minigolf Adventures Deluxe
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
-*3D Ultra Minigolf Adventures Deluxe* is an arcade-style miniature golf game developed by Wanako Games and published by Activision, released on July 23, 2009 for Windows PC via Steam[^ref-1][^ref-2]. The game represents the culmination of the long-running 3-D Ultra Minigolf series, which began with the original *3D Ultra Minigolf* developed by Dynamix and published by Sierra in 1997[^ref-3][^ref-4]. This Deluxe edition combines content from *3D Ultra Minigolf Adventures* (released December 20, 2006) with its *Lost Island* expansion pack (released July 25, 2007) for a comprehensive minigolf experience[^ref-5][^ref-20].
+*3D Ultra Minigolf Adventures Deluxe* is an arcade-style miniature golf game developed by Wanako Games and published by Activision, released on July 23, 2009 for Windows PC via Steam[^ref-1][^ref-2][^ref-21][^ref-22][^ref-23]. The game represents the culmination of the long-running 3-D Ultra Minigolf series, which began with the original *3D Ultra Minigolf* developed by Dynamix and published by Sierra in 1997[^ref-3][^ref-4]. This Deluxe edition combines content from *3D Ultra Minigolf Adventures* (released December 20, 2006) with its *Lost Island* expansion pack (released July 25, 2007) for a comprehensive minigolf experience[^ref-5][^ref-20].
 
 The game offers players 36 challenging holes across three distinct themed environments—Classic Carnival, Old West, and Outer Space—along with an additional 18 holes from the Lost Island expansion, totaling 54 holes of gameplay[^ref-5][^ref-6]. A free demo version distributed via a Taco Bell promotion provided a preview of select holes from the full game[^ref-19]. Players can choose from four playable characters, each featuring distinctive personalities and animations, and compete in matches for up to four players[^ref-7][^ref-12]. The game features carefully crafted 3D courses with sweeping panoramic views, mind-bending course designs, elevated greens, bunkers, bridges, and water hazards among other creative obstacles[^ref-7].
 
@@ -30,6 +30,7 @@ What sets *3D Ultra Minigolf Adventures Deluxe* apart from typical minigolf game
 
 > [!info]- Game Info
 > **Developer:** Wanako Games[^ref-1]
+> **Designer:** Wanako Games internal team (no individual designer credit)[^ref-1][^ref-5]
 > **Publisher:** [[Activision]] (PC), Vivendi Universal Games/Sierra On-Line (original release)[^ref-1][^ref-5]
 > **Engine:** Unknown/unnamed[^ref-5]
 > **Platforms:** Windows PC, Xbox 360[^ref-3][^ref-9]
@@ -243,3 +244,6 @@ The series' evolution from the simple 18-hole original in 1997 to the comprehens
 [^ref-18]: [Internet Archive – 3D Ultra Minigolf Deluxe](https://archive.org/details/3DUltraMinigolfDeluxe_201809) – 1998 version preservation, Dynamix/Sierra publication
 [^ref-19]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: Demos](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=demos) – Taco Bell demo promotion, hole names, demo features
 [^ref-20]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: General](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=general) – content details, development history, Minigolf Maniacs origins
+[^ref-21]: [IGDB – 3D Ultra Minigolf Adventures Deluxe](https://www.igdb.com/games/3d-ultra-minigolf-adventures-deluxe) — Internet Games Database entry, platform listing, release-year confirmation
+[^ref-22]: [LaunchBox Games Database – 3D Ultra Minigolf Adventures Deluxe](https://gamesdb.launchbox-app.com/games/details/3d-ultra-minigolf-adventures-deluxe) — community-curated metadata, cover-art reference
+[^ref-23]: [Wanako Games company profile (MobyGames)](https://www.mobygames.com/company/3987/wanako-games/) — developer company history and additional title attribution

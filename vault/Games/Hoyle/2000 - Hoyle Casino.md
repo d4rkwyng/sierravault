@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-15'
 composer: [Evan Schiller]
 description: Hoyle Casino 2000, also known simply as Hoyle Casino or Hoyle Casino
   5, is a comprehensive casino simulation game released by Sierra On-Line in 2000
@@ -19,7 +19,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Casino 2000
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
@@ -27,10 +27,11 @@ Hoyle Casino 2000, also known simply as Hoyle Casino or Hoyle Casino 5, is a com
 
 The game serves as a spin-off of Hoyle's Official Book of Games series and allows players to begin with $5,000 in virtual currency to try their luck across an impressive array of casino games[^ref-3]. Players can choose from 25 default characters to interact with at various gaming tables, creating a social atmosphere that mimics the experience of a real casino floor[^ref-4]. Short of paying players off in real money, Hoyle Casino 2000 includes everything expected from the exciting world of casino gambling, making it an ideal stress-relief activity for home computer users[^ref-5].
 
-The title proved commercially successful in North America, moving over 230,000 units and generating more than $6 million in revenue within its first year[^ref-4]. Released across multiple platforms including Windows, Macintosh, Sega Dreamcast, and Game Boy Color, the game reached a wide audience of both dedicated PC gamers and console owners looking for a comprehensive gambling simulation[^ref-3].[^ref-12][^ref-13][^ref-15]
+The title proved commercially successful in North America, moving over 230,000 units and generating more than $6 million in revenue within its first year[^ref-4]. Released across multiple platforms including Windows, Macintosh, Sega Dreamcast, and Game Boy Color, the game reached a wide audience of both dedicated PC gamers and console owners looking for a comprehensive gambling simulation[^ref-3].[^ref-12][^ref-13][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-3]
+> **Designer:** Sierra On-Line internal team (no individual designer credit)[^ref-3][^ref-4]
 > **Publisher:** Sierra On-Line, Inc.[^ref-3]
 > **Platforms:** Windows, Macintosh, Sega Dreamcast, Game Boy Color[^ref-4]
 > **Release Year:** 2000[^ref-1]
@@ -278,3 +279,8 @@ The multi-platform release strategy employed for Hoyle Casino 2000 was relativel
 [^ref-13]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/2686/) – game information and details
 [^ref-14]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/45137/hoyle-casino/) – comprehensive game metadata from MobyGames, providing detailed development credits, technical specifications, and gam...
 [^ref-15]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/45135/hoyle-casino/) – database entry from MobyGames with basic game information, limited critic score data, and gameplay description
+[^ref-16]: [IGDB – Hoyle Casino 2000](https://www.igdb.com/games/hoyle-casino-2000) — Internet Games Database entry, multi-platform listing including Dreamcast/GBC
+[^ref-17]: [LaunchBox Games Database – Hoyle Casino 2000](https://gamesdb.launchbox-app.com/games/details/hoyle-casino-2000) — community-curated metadata, cover-art reference, GBC platform tagging
+[^ref-18]: [Sierra Chest – Hoyle Casino 2000 product page](https://sierrachest.com/index.php?a=games&id=420&fld=general) — Sierra Chest packaging archive, release-info documentation
+[^ref-19]: [Adventure Classic Gaming – Sierra Attractions Hoyle line retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Sierra Attractions' multi-platform Hoyle strategy
+[^ref-20]: [Internet Archive – Hoyle Casino 2000 (Dreamcast)](https://archive.org/details/hoyle-casino-2000-dreamcast) — Dreamcast preservation archive

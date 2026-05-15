@@ -10,7 +10,7 @@ series: Playtoons
 engine: Gob Engine
 protagonist: Prince Arthur
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-05-11'
+last_updated: '2026-05-15'
 composer: ['Big Wheels, Charles Callet']
 description: 'Playtoons 3: Secret of the Castle is a children''s creativity and interactive
   storybook game developed by Coktel Vision and published by Sierra On-Line in...'
@@ -18,11 +18,11 @@ tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 3: Secret of the Castle
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
-Playtoons 3: Secret of the Castle is a children's creativity and interactive storybook game developed by [[Coktel Vision]] and published by Sierra On-Line in 1995.[^ref-1][^ref-2] As the third entry in the Playtoons series, the game places the latest multimedia techniques in the hands of youngsters, combining an interactive comic book experience with a powerful animation creation toolkit.[^ref-3] Set in medieval Pendragon Castle, the game follows Prince Arthur and his family as they guard a precious secret threatened by invading barbarian hordes.[^ref-4]
+Playtoons 3: Secret of the Castle is a children's creativity and interactive storybook game developed by [[Coktel Vision]] and published by Sierra On-Line in 1995.[^ref-1][^ref-2][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20] As the third entry in the Playtoons series, the game places the latest multimedia techniques in the hands of youngsters, combining an interactive comic book experience with a powerful animation creation toolkit.[^ref-3] Set in medieval Pendragon Castle, the game follows Prince Arthur and his family as they guard a precious secret threatened by invading barbarian hordes.[^ref-4]
 
 The Playtoons series represents an innovative approach to children's educational software, focusing on teaching school topics in a digital format designed to be more engaging for kids.[^ref-5] Like its predecessors, Secret of the Castle allows players to both experience a pre-made interactive story and create their own animated tales using an integrated editor tool that provides background scenery, props, and characters that can be added to scenes and manipulated.[^ref-6] The game was notable for being the first Playtoons title to implement construction kit backgrounds, items, characters, and animations directly into its story panels, blurring the line between the narrative experience and creative gameplay.[^ref-7]
 
@@ -30,6 +30,7 @@ Released initially in France and Germany in 1995, the game arrived in the United
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
+> **Designer:** Coktel Vision internal team (no individual designer credit)[^ref-1][^ref-7]
 > **Publisher:** [[Sierra On-Line]][^ref-2]
 > **Engine:** Gob Engine[^ref-7]
 > **Platforms:** Windows 3.x, Windows 95, Macintosh[^ref-1][^ref-3]
@@ -226,3 +227,8 @@ The game's approach—offering both consumption and creation modes—anticipated
 [^ref-13]: [Internet Archive – Playtoons 3 Collection](https://archive.org/details/playtoons-3) – game preservation documentation, archive entry
 [^ref-14]: [Grokipedia – Playtoons Series Overview](https://grokipedia.com/page/playtoons) – series history and documentation
 [^ref-15]: [Metacritic – Playtoons 3](https://www.metacritic.com/game/playtoons-3-the-secret-of-the-castle/) – aggregated reviews and critical assessment
+[^ref-16]: [IGDB – Playtoons 3: The Secret of the Castle](https://www.igdb.com/games/playtoons-3-the-secret-of-the-castle) — Internet Games Database entry, multi-platform listing
+[^ref-17]: [LaunchBox Games Database – Playtoons 3](https://gamesdb.launchbox-app.com/games/details/playtoons-3-the-secret-of-the-castle) — community-curated metadata, cover-art reference
+[^ref-18]: [Coktel Vision Playtoons series archive](https://www.coktelvision.com/playtoons.html) — Coktel-side documentation of the Playtoons series including The Secret of the Castle
+[^ref-19]: [Adventure Classic Gaming – Coktel Vision developer retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Coktel Vision's Sierra-published children's titles
+[^ref-20]: [Kiddle Encyclopedia – Playtoons](https://kids.kiddle.co/Playtoons) — series overview including Playtoons 3 plot and characters

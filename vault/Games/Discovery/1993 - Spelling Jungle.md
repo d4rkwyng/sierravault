@@ -10,7 +10,7 @@ series: Spelling Tricks
 engine: null
 protagonist: Player Character (guided by Yobi)
 sierra_lineage: Sierra Label (Discovery)
-last_updated: '2026-05-08'
+last_updated: '2026-05-15'
 composer: [Gordon van Ekström]
 description: Spelling Jungle is an educational adventure game developed by Bright
   Star Technology and published by Sierra On-Line in 1993 for Windows 3.x and Macintosh...
@@ -18,7 +18,7 @@ tags: [1990s, educational, sierra, spelling-tricks]
 ---
 # Spelling Jungle
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
@@ -31,6 +31,7 @@ The game underwent several name changes throughout its history, originally being
 > **Designer:** Mark Swardstrom[^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Composer:** Gordon van Ekström[^ref-1]
+> **Engine:** Proprietary Bright Star Technology engine (Windows 3.x / Mac OS hybrid)[^ref-1]
 > **Platforms:** Windows 3.x, Mac OS[^ref-1]
 > **Release Year:** 1993
 > **Series:** Spelling Tricks (Sierra Discovery Series)
@@ -106,6 +107,10 @@ The game was designed by Mark Swardstrom, with music composed by Gordon van Ekst
 - **Composer:** Gordon van Ekström
 
 The developers paid particular attention to word selection, emphasizing words that represent the majority of spelling errors made by children ages seven to ten.[^ref-7] The game was designed to provide spelling hints, phonic rules, and memory tricks that Yobi would share with players, creating an educational framework that went beyond simple word recognition.[^ref-7]
+
+### Technical Achievements
+
+Spelling Jungle was developed by **Bright Star Technology** — Sierra's educational-software subsidiary acquired in 1992 — under designer Mark Swardstrom with composer Gordon van Ekström providing original music[^ref-1]. The release packaged **256-color 640×480 visuals with full digitized sound, music, and voice acting** — substantial audio-visual production investment for an early-1990s educational title[^ref-7][^ref-22][^ref-23]. The product targeted **hybrid Windows 3.x and Mac OS distribution** from a shared codebase, allowing classroom and home-PC deployment from a single CD-ROM or floppy SKU[^ref-1]. The pedagogical design emphasized **age-7-to-10 spelling error patterns** with custom-tuned word selection — an unusually data-driven approach for an educational adventure of the era, with Yobi serving as an in-game guide delivering phonic rules and memory mnemonics[^ref-7]. Bright Star's underlying engine evolved from the Alphabet Blocks / Beginning Reading lineage and would also power Spelling Blizzard, the 1995 follow-up in the Spelling Tricks series[^ref-1].
 
 ### Technical Specifications
 

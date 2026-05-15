@@ -10,18 +10,18 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-15'
 description: Hoyle Casino 2003 is a comprehensive casino simulation game developed
   and published by Sierra On-Line, released in September 2002 for Windows and Macintosh...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Casino 2003
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
-Hoyle Casino 2003 is a comprehensive casino simulation game developed and published by [[Sierra On-Line]], released in September 2002 for Windows and Macintosh platforms[^ref-1][^ref-2]. As part of Sierra's long-running Hoyle series—which traces its lineage back to Hoyle's Official Book of Games—the 2003 edition continued the franchise's tradition of delivering authentic casino experiences to home computer users[^ref-3]. The game offered over 400 variations of classic casino games set within a realistic Las Vegas environment[^ref-4].
+Hoyle Casino 2003 is a comprehensive casino simulation game developed and published by [[Sierra On-Line]], released in September 2002 for Windows and Macintosh platforms[^ref-1][^ref-2][^ref-20][^ref-21]. As part of Sierra's long-running Hoyle series—which traces its lineage back to Hoyle's Official Book of Games—the 2003 edition continued the franchise's tradition of delivering authentic casino experiences to home computer users[^ref-3]. The game offered over 400 variations of classic casino games set within a realistic Las Vegas environment[^ref-4].
 
 The title featured fourteen standard casino games including Blackjack, Craps, Roulette, Poker, Slots, Baccarat, Caribbean Stud Poker, Three Card Poker, Let It Ride, Pai Gow Poker, Video Blackjack, Video Poker, Horse Racing, and Keno[^ref-5][^ref-6]. Players interacted with ten animated 3D characters, five of which were brand new additions for the 2003 edition[^ref-4][^ref-5]. The game also supported handheld gaming, with Blackjack and Video Poker available for Palm OS and Windows CE devices[^ref-4][^ref-7].
 
@@ -29,6 +29,7 @@ Hoyle Casino 2003 received an ESRB rating of "E for Everyone" with a content des
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-1]
+> **Designer:** Sierra Entertainment internal team (no individual designer credit)[^ref-1][^ref-7]
 > **Publisher:** Sierra Entertainment[^ref-1]
 > **Engine:** Proprietary
 > **Platforms:** Windows, Macintosh, Palm OS, Windows CE[^ref-7][^ref-8]
@@ -288,3 +289,5 @@ The inclusion of handheld device support demonstrated forward-thinking design th
 [^ref-17]: [PriceCharting – Hoyle Casino](https://www.pricecharting.com/game/pc-games/hoyle-casino) – ESRB rating, media format, pricing data, identifiers
 [^ref-18]: [MobyGames – Hoyle Casino Reviews](https://www.mobygames.com/game/245729/hoyle-casino/reviews/) – platform confirmation
 [^ref-19]: [Kanobu.ru – Hoyle Casino 2003](https://kanobu.ru/games/hoyle-casino-2003/reviews/) – release year confirmation
+[^ref-20]: [IGDB – Hoyle Casino 2003](https://www.igdb.com/games/hoyle-casino-2003) — Internet Games Database entry, multi-platform listing, release-year confirmation
+[^ref-21]: [LaunchBox Games Database – Hoyle Casino 2003](https://gamesdb.launchbox-app.com/games/details/hoyle-casino-2003) — community-curated metadata, cover-art reference
