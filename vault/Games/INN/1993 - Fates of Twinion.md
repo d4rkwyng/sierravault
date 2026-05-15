@@ -11,7 +11,7 @@ series: Shadow of Yserbius
 engine: Shadow of Yserbius game engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-05-15'
 composer: [Russell Lieblich]
 description: Fates of Twinion is a fantasy RPG dungeon crawler developed by Sierra
   On-Line and released in 1993. Originally designed as an online multiplayer game
@@ -20,7 +20,7 @@ tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # Fates of Twinion
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
@@ -145,6 +145,10 @@ Bob Blees, Carlos Flores, Paul Lavelle, Fuzz Lokajicek, Alisa Schaefbauer, Rich 
 
 **Special Thanks:**[^ref-8]
 Ken Williams, ImagiNation Network testers, ImagiNation Network friends, Sierra-Online friends
+
+### Technical Achievements
+
+Fates of Twinion was built on the **Shadow of Yserbius engine** that powered its 1992 predecessor, with Yserbius having pioneered first-person dungeon-crawl multiplayer on the ImagiNation Network — Sierra's early online gaming platform[^ref-2][^ref-8]. The release **expanded the persistent online multiplayer dungeon-crawl format** beyond Yserbius's foundation, leveraging Sierra's INN infrastructure to deliver real-time party-based MMO-style gameplay years before commercial massively-multiplayer products like Ultima Online (1997)[^ref-2][^ref-4]. The game shipped with **CD-ROM as a delivery medium** with online-network multiplayer functionality, an unusual hybrid distribution model in 1993[^ref-1]. The production team — including Bob Blees, Carlos Flores, Paul Lavelle, Fuzz Lokajicek, Alisa Schaefbauer, and Rich Waters — represents a substantial Sierra/INN engineering scale-up for the second-generation online RPG[^ref-8]. The franchise serves as an early case study in **commercial subscription-based online gaming** — a model that would dominate MMO gaming a decade later[^ref-2].
 
 ### Technical Specifications
 

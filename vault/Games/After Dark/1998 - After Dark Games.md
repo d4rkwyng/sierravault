@@ -10,14 +10,14 @@ series: After Dark
 engine: Native Windows/Mac
 protagonist: N/A
 sierra_lineage: Sierra Label (Sierra Attractions)
-last_updated: '2026-05-11'
+last_updated: '2026-05-15'
 description: After Dark Games represents a unique entry in Sierra's catalog - a collection
   of eleven mini-games based on the beloved After Dark screensaver series....
 tags: [1990s, after-dark, puzzle, sierra]
 ---
 # After Dark Games
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
@@ -117,6 +117,10 @@ The original After Dark software was created by Jack Eastman and Patrick Beard, 
 The game collection was developed as part of Sierra's acquisition and collaboration with Berkeley Systems.[^ref-7] Sierra had acquired Berkeley Systems and released After Dark Games as part of their Sierra Attractions label, focusing on casual gaming products.[^ref-18]
 
 The production team created original music for each game and took care to produce sharp, clear graphics that matched the charm of the original screensavers.[^ref-5] The developers recognized that the appeal of After Dark lay not in technical sophistication but in personality and accessibility.
+
+### Technical Achievements
+
+After Dark Games leveraged **Sierra's 1997 acquisition of Berkeley Systems** to transform the famously beloved After Dark screensaver characters (Flying Toasters, Bad Dog, Mowin' Man, etc.) into 11 playable casual games — a notable IP-leverage move during the era's emerging casual-games market[^ref-7][^ref-18]. The product packaged **11 distinct game engines** under a unified shared interface, each individually tuned to its source screensaver's character and visual style[^ref-5]. The release featured **original music composed per-game** rather than recycled audio, an unusual production investment for a screensaver-derived casual compilation[^ref-5]. Sierra positioned the product under the **Sierra Attractions casual-games sublabel**, alongside parallel Hoyle releases as part of Sierra's coordinated late-1990s casual-portfolio strategy[^ref-18]. The release demonstrates how Sierra **monetized a culturally iconic but commercially aging brand** — After Dark screensavers had peaked in the early 1990s, and the 1998 Sierra games compilation gave the IP a second commercial life in a different genre[^ref-7][^ref-18].
 
 ### Technical Specifications
 

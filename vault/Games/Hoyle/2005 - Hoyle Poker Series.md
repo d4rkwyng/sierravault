@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-15'
 description: Hoyle Poker Series is a comprehensive poker simulation video game released
   in 2005 for Windows, developed by Sierra Entertainment and published by Encore...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Poker Series
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
@@ -119,6 +119,10 @@ Development of Hoyle Poker Series involved a dedicated team at Sierra Entertainm
 - **Voice Actors:** Jeff Hoyt, Allan Batchelder[^ref-18][^ref-19]
 
 Stephen H. Van Horn served as Executive Producer, bringing extensive experience from his work on previous Hoyle titles spanning 1995-2009[^ref-11]. Michael Katz contributed design work as part of his broader involvement with the Hoyle gaming series[^ref-20].
+
+### Technical Achievements
+
+Hoyle Poker Series represented Sierra Entertainment's poker-focused entry into the established Hoyle line, marking the **transition window from Sierra-internal to Encore-published Hoyle products** in 2005[^ref-1][^ref-11]. The release featured Senior 3D Artist Eric Hook delivering **3D-rendered character portraits** for the poker-table opponents, alongside Software Engineer Eric Tangborn's underlying poker-rules engine[^ref-12][^ref-13]. The product packaged **multiple poker variant rules engines** (Texas Hold'em, Omaha, Seven-Card Stud, and others) under a single shared interface — typical Hoyle-line scope but tuned specifically to the post-Moneymaker poker boom audience[^ref-7]. Voice acting featured **Jeff Hoyt and Allan Batchelder**, with broader Hoyle-line audio continuity carried forward from earlier products[^ref-18][^ref-19]. Stephen H. Van Horn's Executive Producer credit spanning 1995-2009 Hoyle products provides **documented continuity** across the Sierra-to-Encore transition for the franchise's gameplay design[^ref-11].
 
 ### Technical Specifications
 

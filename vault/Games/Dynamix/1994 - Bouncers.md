@@ -10,14 +10,14 @@ series: Standalone
 engine: Proprietary (Dynamix)
 protagonist: Basketball Characters
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-08'
+last_updated: '2026-05-15'
 description: Bouncers is an unconventional arcade basketball game developed by Dynamix
   and published by Sega of America exclusively for the Sega CD in December 1994. The...
 tags: [1990s, dynamix, sierra, standalone]
 ---
 # Bouncers
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
@@ -155,6 +155,10 @@ The development team was led by executive producer [[Jeff Tunnell]], Dynamix's f
 Voice direction was handled by Ginny McSwain, with Sher Alltucker coordinating talent.[^ref-1]
 
 Music and sound effects were composed by Christopher Stevens, Timothy Steven Clarke, Jan Paul Moorhead, and Ken Rogers.[^ref-1][^ref-12] Stevens and Clarke left Dynamix shortly before the game's release to establish LoudMouth, Inc., a game music production company based in Springfield, Oregon.[^ref-2][^ref-12] The music was recorded and mastered at LoudMouth studios, produced by Christopher Stevens and Timothy Clarke.[^ref-12] Tracks from Bouncers were included on the group's 1995 album "Get Loud! vol. 1."[^ref-2]
+
+### Technical Achievements
+
+Bouncers represented Dynamix's experimental **Sega CD-targeted FMV/sports hybrid**, an unusual platform choice for the studio's primarily Sierra-published catalog[^ref-1][^ref-13]. The release leveraged **Sega CD's CD-ROM audio capacity** for full-motion video sequences and an original soundtrack by the **future LoudMouth Inc. team** (Christopher Stevens, Timothy Steven Clarke) plus Jan Paul Moorhead and Ken Rogers — substantial audio-production investment that later became the foundation of LoudMouth's commercial-game-music business[^ref-1][^ref-2][^ref-12]. Voice direction was handled by **Ginny McSwain** (a notable industry-veteran voice director also credited on Dynamix's larger productions), with Sher Alltucker coordinating talent — a real production-team investment for a basketball-styled game[^ref-1]. The product also serves as a notable Dynamix-era artifact documenting the studio's brief Sega CD experimentation before pivoting fully back to Windows PC simulators with the Earthsiege / Front Page Sports lines[^ref-2][^ref-12].
 
 ### Technical Specifications
 

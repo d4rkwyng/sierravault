@@ -10,14 +10,14 @@ series: Shadow of Yserbius
 engine: Multiplayer graphical MUD engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-05-15'
 description: The Shadow of Yserbius was a groundbreaking graphical multi-user dungeon
   (MUD) game that originally launched on The Sierra Network in 1991. Developed by...
 tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # The Shadow of Yserbius
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
@@ -97,13 +97,13 @@ Abandonware France called it "graphically pleasant and very simple to use" and s
 
 ## Development
 
-### Origins and The Sierra Network
+### Origins
 
 Ken Williams conceived The Sierra Network (TSN) as part of Sierra's strategy to expand into multiplayer gaming. As Williams stated in a press release announcing the network test, "Sierra is interested in extending our core product-development technology to have multiplayer capabilities"[^ref-23]. The network launched on October 31, 1990 with around 1,000 volunteer testers in the Los Angeles area, and included classic parlor games like chess and bridge alongside graphical adventures[^ref-4].
 
 The project was technically ambitious for its time. Developer Brian Thomson recalled the challenges: "Ken [Williams] had no idea at the how hardcore gamers would eat his bandwidth"[^ref-24]. The hourly payment model for online access through dial-up connections created both technical and business challenges that Sierra hadn't fully anticipated.
 
-### Production Team
+### Production
 
 The game was developed by Ybarra Productions Inc. in collaboration with Sierra On-Line, with Joe Ybarra and Michael Moore serving as the primary designers[^ref-6]. The development team included Karl Buiter, Richard Aronson, Fred Butts, Scot Amos, and Wendy Barlow[^ref-6]. Music was composed by Aubrey Hodges and Russell Lieblich, creating atmospheric audio that enhanced the dungeon exploration experience[^ref-8].
 

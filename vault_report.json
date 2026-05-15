@@ -4,7 +4,7 @@
     "passing": 507,
     "failing": 0,
     "pass_rate_pct": 100.0,
-    "average_score": 99.5
+    "average_score": 99.6
   },
   "pages": [
     {
@@ -23,26 +23,6 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1994 - Bouncers.md",
-      "series": "Dynamix",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
           "points_lost": 2
         }
       ]
@@ -708,26 +688,6 @@
       ]
     },
     {
-      "filename": "1996 - Silent Thunder - A-10 Tank Killer II.md",
-      "series": "A-10 Tank Killer",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 22,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "1996 - Adiboo - Magical Playland.md",
       "series": "Adiboo",
       "page_type": "standard",
@@ -743,26 +703,6 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1992 - A.J.'s World of Discovery.md",
-      "series": "Adiboo",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
           "points_lost": 2
         }
       ]
@@ -948,26 +888,6 @@
       ]
     },
     {
-      "filename": "1999 - Field & Stream - Trophy Bass 3D.md",
-      "series": "Trophy Bass",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 24,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "2000 - PGA Championship Golf 2000 - Titanium Edition.md",
       "series": "PGA Championship Golf",
       "page_type": "standard",
@@ -1063,26 +983,6 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2005 - Hoyle Poker Series.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 23,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
           "points_lost": 2
         }
       ]
@@ -1408,26 +1308,6 @@
       ]
     },
     {
-      "filename": "1993 - Fates of Twinion.md",
-      "series": "INN",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 23,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
       "filename": "1996 - The Realm Online.md",
       "series": "INN",
       "page_type": "standard",
@@ -1443,26 +1323,6 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1991 - The Shadow of Yserbius.md",
-      "series": "INN",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 23,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
           "points_lost": 2
         }
       ]
@@ -1723,26 +1583,6 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1998 - After Dark Games.md",
-      "series": "After Dark",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 27,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
           "points_lost": 2
         }
       ]
@@ -3204,6 +3044,19 @@
       "issues": []
     },
     {
+      "filename": "1994 - Bouncers.md",
+      "series": "Dynamix",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
       "filename": "1990 - Rise of the Dragon.md",
       "series": "Dynamix",
       "page_type": "standard",
@@ -4127,11 +3980,37 @@
       "issues": []
     },
     {
+      "filename": "1996 - Silent Thunder - A-10 Tank Killer II.md",
+      "series": "A-10 Tank Killer",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
+      "issues": []
+    },
+    {
       "filename": "2003 - Adiboo - Paziral's Secret.md",
       "series": "Adiboo",
       "page_type": "standard",
       "is_flagship": false,
       "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "1992 - A.J.'s World of Discovery.md",
+      "series": "Adiboo",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
       "threshold": 90,
       "score": 100.0,
       "passes": true,
@@ -4985,6 +4864,19 @@
       "issues": []
     },
     {
+      "filename": "1999 - Field & Stream - Trophy Bass 3D.md",
+      "series": "Trophy Bass",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 24,
+      "issues": []
+    },
+    {
       "filename": "1998 - PGA Championship Golf.md",
       "series": "PGA Championship Golf",
       "page_type": "standard",
@@ -5190,6 +5082,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "2005 - Hoyle Poker Series.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 23,
       "issues": []
     },
     {
@@ -5814,6 +5719,32 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 25,
+      "issues": []
+    },
+    {
+      "filename": "1993 - Fates of Twinion.md",
+      "series": "INN",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 23,
+      "issues": []
+    },
+    {
+      "filename": "1991 - The Shadow of Yserbius.md",
+      "series": "INN",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 23,
       "issues": []
     },
     {
@@ -6490,6 +6421,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "1998 - After Dark Games.md",
+      "series": "After Dark",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 27,
       "issues": []
     },
     {

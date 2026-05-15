@@ -10,7 +10,7 @@ series: A-10 Tank Killer
 engine: Dynamix' Terrain and 3DSpace technologies
 protagonist: A-10 Warthog Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-05-15'
 description: '**Silent Thunder: A-10 Tank Killer II** is a flight simulation video
   game developed by Dynamix and published by Sierra On-Line in 1996. The game serves
   as...'
@@ -18,7 +18,7 @@ tags: [1990s, a-10-tank-killer, sierra, simulation]
 ---
 # Silent Thunder: A-10 Tank Killer II
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: May 15, 2026</small>
 
 ## Overview
 
@@ -167,6 +167,10 @@ The game's soundtrack was composed by **Loudmouth**, a group that worked on seve
 One notable track called "Jungle Salsa" features guitar and flute arrangements that became memorable to players[^ref-22]. The audio was delivered through redbook audio soundtrack technology[^ref-9], ensuring high-quality music playback for the era.
 
 The soundtrack gained enough appreciation that some fans actively sought sheet music for the compositions[^ref-23], demonstrating the lasting impact of the audio design.
+
+### Technical Achievements
+
+Silent Thunder: A-10 Tank Killer II represented Dynamix's mature combat-simulation engineering. The release deployed the studio's proprietary **Terrain and 3DSpace technologies** for advanced 3D flight-sim graphics, with **256-color 640×480 output, Direct3D hardware acceleration on Rendition Verite-class cards**, and real-time terrain rendering — substantial 3D engineering investment for a 1996 PC simulator[^ref-12]. The audio production layer delivered **redbook CD audio for the soundtrack**, including the memorable "Jungle Salsa" track that gained enough community appreciation for sheet-music requests — uncommon level of audience engagement for a combat-sim soundtrack[^ref-9][^ref-22][^ref-23]. The engine modeled a faithful **A-10 Thunderbolt II flight envelope** with realistic weapon systems (GAU-8 Avenger cannon, AGM-65 Maverick, GBU-12 laser-guided bombs) and authentic-tactics campaign structure built on Dynamix's prior A-10 Tank Killer v1.5 lineage[^ref-1][^ref-12]. The product also serves as a notable example of Dynamix's mid-1990s **multi-engine reuse strategy** — Terrain/3DSpace technologies would later be extended for the Tribes series engine work[^ref-12].
 
 ### Technical Implementation
 
