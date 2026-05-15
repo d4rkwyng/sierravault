@@ -307,7 +307,7 @@ The game's insistence that players be "cops, not soldiers" challenged the prevai
 [^ref-14]: [GameFAQs Guide by kschang77](https://gamefaqs.gamespot.com/pc/198868-swat-3-close-quarters-battle/faqs/34285) – gameplay philosophy, system requirements, in-game briefing text
 [^ref-15]: [IGN – Holiday Buying Guide 1999](https://www.ign.com/articles/1999/11/15/ignpcs-1999-holiday-buying-guide-action-games) – game description, genre shift from previous titles
 [^ref-16]: [GameRevolution Review](https://www.gamerevolution.com/review/32839-swat-3-close-quarters-battle-review) – review score, gameplay mechanics, randomization system
-[^ref-17]: [CheatCodes.com](http://www.cheatcodes.com/swat-3-close-quarters-battle-pc/) – easter eggs, Matrix reference, hidden content
+[^ref-17]: [CheatCodes.com](https://web.archive.org/web/*/http://www.cheatcodes.com/swat-3-close-quarters-battle-pc/) – easter eggs, Matrix reference, hidden content
 [^ref-18]: [MobyGames – SWAT 3: Close Quarters Battle](https://www.mobygames.com/game/845/swat-3-close-quarters-battle/) – German version changes, Police Quest reference, multiplayer specs
 [^ref-19]: [MobyGames – Tactical GOTY Edition](https://www.mobygames.com/game/8998/swat-3-tactical-game-of-the-year-edition/) – user reviews, Knight Rider quotes
 [^ref-20]: [IGN Review (Archived)](https://web.archive.org/web/20230405102917/https://www.ign.com/articles/1999/12/01/swat-3-close-quarters-battle) – review score, ballistics praise, weapons list

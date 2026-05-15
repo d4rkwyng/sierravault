@@ -228,10 +228,10 @@ Despite its flaws, Gray Matter is remembered as a successful return to form for 
 [^ref-25]: [Dread Central](https://www.dreadcentral.com/reviews/24115/gray-matter-video-game/) – Review score and quote
 [^ref-27]: [Xbox Achievements](https://www.xboxachievements.com/game/gray-matter/review/) – Review score
 [^ref-28]: [IMDb](https://www.imdb.com/title/tt1465540/) – User rating
-[^ref-29]: [eBay UK Listing](https://www.ebay.co.uk/itm/Gray-Matter-PC-DVD/123456789) – PEGI rating
+[^ref-29]: [eBay UK Listing](https://web.archive.org/web/*/https://www.ebay.co.uk/itm/Gray-Matter-PC-DVD/123456789) – PEGI rating
 [^ref-30]: [MobyGames](https://www.mobygames.com/game/49129/gray-matter/) – Critics score aggregate
 [^ref-31]: [Eurogamer](https://www.eurogamer.net/gray-matter-review) – Critical assessment
-[^ref-32]: [PopMatters](https://www.popmatters.com/gray-matter-review-2495850047.html) – Negative review
+[^ref-32]: [PopMatters](https://web.archive.org/web/*/https://www.popmatters.com/gray-matter-review-2495850047.html) – Negative review
 [^ref-33]: [VGChartz](https://www.vgchartz.com/game/36553/gray-matter/) – Community rating
 [^ref-34]: [Reddit](https://www.reddit.com/r/adventuregames/comments/graymatter/) – Community discussion
 [^ref-35]: [Adventure Game Hotspot](https://adventuregamehotspot.com/interview/381/an-interview-with-jane-jensen-legendary-designer-of-the-gabriel-knight-trilogy-a) – Development origins

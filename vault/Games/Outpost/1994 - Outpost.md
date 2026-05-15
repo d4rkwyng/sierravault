@@ -280,7 +280,7 @@ The Outpost controversy presaged later industry debates about "review copies" ve
 
 ## References
 
-[^ref-1]: [Grokipedia – Outpost (1994 video game)](https://grokipedia.com/page/Outpost_(1994_video_game)) – comprehensive development history, reception, sales data, patch information
+[^ref-1]: [Grokipedia – Outpost (1994 video game)](https://web.archive.org/web/*/https://grokipedia.com/page/Outpost_(1994_video_game)) – comprehensive development history, reception, sales data, patch information
 [^ref-2]: [TV Tropes – Outpost](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Outpost) – plot summary, game setting, Vulcan's Hammer background
 [^ref-3]: [Rock Paper Shotgun – DOS Boot: Outpost](https://www.rockpapershotgun.com/dos-boot-outpost-was-the-best-hard-sci-fi-sim-it-also-wasnt-finished) – retrospective analysis, journalism controversy, development history
 [^ref-4]: [Internet Archive – Outpost Manual](https://archive.org/stream/Outpost_-_Manual/Outpost_-_Manual_djvu.txt) – official game manual, designer credits, gameplay instructions
@@ -289,7 +289,7 @@ The Outpost controversy presaged later industry debates about "review copies" ve
 [^ref-7]: [Sierra Gamers – Outpost](https://www.sierragamers.com/outpost/) – story background, setting details
 [^ref-8]: [Outpost Universe Wiki](https://wiki.outpost2.net/doku.php?id=start) – series information, community projects
 [^ref-9]: [MyAbandonware – Outpost](https://www.myabandonware.com/game/outpost-2vv) – user reviews, release history, patch information
-[^ref-10]: [Grokipedia – Outpost](https://grokipedia.com/page/Outpost) – gameplay mechanics, scientific approach
+[^ref-10]: [Grokipedia – Outpost](https://web.archive.org/web/*/https://grokipedia.com/page/Outpost) – gameplay mechanics, scientific approach
 [^ref-11]: [Sierra Help – Outpost Walkthrough](https://sierrahelp.com/Walkthroughs/OutpostWalkthrough.html) – detailed gameplay strategies, mechanics
 [^ref-12]: [Amazon – Sierra Outpost](https://www.amazon.com/Sierra-Outpost/dp/B0002TYABE) – product description, user reviews, compatibility issues
 [^ref-13]: [Amazon – Outpost Official Strategy Guide](https://www.amazon.com/Outpost-Official-Strategy-Guide-Secrets/dp/1559585080) – strategy guide details, user reviews

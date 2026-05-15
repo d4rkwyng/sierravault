@@ -88,7 +88,7 @@ However, Gates' gaming legacy remains inseparable from his reputation as a polar
 [^ref-10]: [Kotaku](https://kotaku.com/cop-who-made-video-games-dies-at-83-5519601) — Initial contact with Sierra Online
 [^ref-11]: [IMDB](https://www.imdb.com/name/nm0309551/trivia/) — Games development timeline and credits
 [^ref-12]: [FMV World](https://fmvworld.com/policequestswat.html) — Technical innovations in full-motion video gaming
-[^ref-13]: [Yahoo Finance](https://finance.yahoo.com/news/2010-04-19-daryl-gates-ex-police-chief-and-police-quest-swat-designer-di.html) — Gates' role in SWAT game development
+[^ref-13]: [Yahoo Finance](https://web.archive.org/web/*/https://finance.yahoo.com/news/2010-04-19-daryl-gates-ex-police-chief-and-police-quest-swat-designer-di.html) — Gates' role in SWAT game development
 [^ref-14]: [IMDB](https://www.imdb.com/title/tt0289401/) — Police Quest: Open Season game details and reception
 [^ref-15]: [Reddit Sierra Discussion](https://www.reddit.com/r/Sierra/comments/1eti6v5/anyone_else_love_police_quest_open_season/) — Fan and critical reception of the game
 [^ref-16]: [The Escapist Magazine](https://www.escapistmagazine.com/Former-LA-Police-Chief-Game-Designer-Daryl-Gates-Dies/) — Marketing and promotional aspects of Gates' involvement

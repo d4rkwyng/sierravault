@@ -217,7 +217,7 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 [^ref-7]: [Sierra Chest – Hi-Res Cribbage](https://sierrachest.com/index.php?a=games&id=447&title=hi-res-cribbage&fld=general) – engine (Machine Language), series classification, genre
 [^ref-8]: [SierraGamers – Hi-Res Cribbage](https://www.sierragamers.com/hi-res-cribbage/) – release number confirmation, 1980 date
 
-[^ref-9]: [VirtualApple – Hi-Res Cribbage](https://www.virtualapple.org/cribbagedisk.html) – playable emulation, Apple II preservation
+[^ref-9]: [VirtualApple – Hi-Res Cribbage](https://web.archive.org/web/*/https://www.virtualapple.org/cribbagedisk.html) – playable emulation, Apple II preservation
 
 [^ref-10]: [Scribd – SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
 

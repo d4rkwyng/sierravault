@@ -282,7 +282,7 @@ The game's limited documentation and review coverage reflects the challenge face
 
 [^ref-9]: [IGDB – Hoyle Swashbucklin' Slots](https://www.igdb.com/games/hoyle-swashbucklin-slots) – Game database listing
 
-[^ref-10]: [GamePressure – Hoyle Swashbucklin' Slots](https://www.gamepressure.com/games/hoyle-swashbucklin-slots/zba66f) – Game information
+[^ref-10]: [GamePressure – Hoyle Swashbucklin' Slots](https://web.archive.org/web/*/https://www.gamepressure.com/games/hoyle-swashbucklin-slots/zba66f) – Game information
 
 [^ref-11]: [Mac Game Store – Hoyle Products](https://www.macgamestore.com/search/?q=hoyle) – Mac distribution information
 

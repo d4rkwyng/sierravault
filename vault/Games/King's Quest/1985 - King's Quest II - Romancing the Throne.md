@@ -240,10 +240,10 @@ This game has been included in[^ref-1]:
 
 [^ref-1]: [MobyGames – King's Quest II: Romancing the Throne](https://www.mobygames.com/game/123/kings-quest-ii-romancing-the-throne/) — Comprehensive database entry with credits, ratings, and platform information
 [^ref-2]: [Wikipedia – King's Quest II: Romancing the Throne](https://en.wikipedia.org/wiki/King%27s_Quest_II:_Romancing_the_Throne) — Detailed article with development history and release information
-[^ref-3]: [DOS Days – King's Quest II](https://www.dosdays.co.uk/games/kings_quest/kq2.php) — Technical specifications, AGI interpreter versions, and development credits
+[^ref-3]: [DOS Days – King's Quest II](https://web.archive.org/web/*/https://www.dosdays.co.uk/games/kings_quest/kq2.php) — Technical specifications, AGI interpreter versions, and development credits
 [^ref-4]: [Hardcore Gaming 101 – King's Quest Series](https://www.hardcoregaming101.net/kings-quest/) — Comprehensive series retrospective with detailed analysis of each game
 [^ref-5]: [IMDB – Romancing the Stone (1984)](https://www.imdb.com/title/tt0088011/) — Robert Zemeckis film that inspired the game's subtitle
-[^ref-6]: [The Adventure Gamer – King's Quest II](https://adventuregamer.blogspot.com/2011/08/game-4-kings-quest-ii-romancing-throne.html) — PISSED rating retrospective scoring 53 points
+[^ref-6]: [The Adventure Gamer – King's Quest II](https://web.archive.org/web/*/https://adventuregamer.blogspot.com/2011/08/game-4-kings-quest-ii-romancing-throne.html) — PISSED rating retrospective scoring 53 points
 [^ref-7]: [Compute! Magazine Archive](https://archive.org/details/compute-magazine) — Contemporary review describing game as "like playing an animated cartoon"
 [^ref-8]: [King's Quest Fandom Wiki](https://kingsquest.fandom.com/wiki/King's_Quest_II:_Romancing_the_Throne) — Story summary, easter eggs, and version details
 [^ref-9]: [GameFAQs – King's Quest II](https://gamefaqs.gamespot.com/pc/565066-kings-quest-ii-romancing-the-throne) — Plot summary and gameplay walkthrough

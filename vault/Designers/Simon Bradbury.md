@@ -145,7 +145,7 @@ With Firefly Studios now part of Devolver Digital and the Stronghold franchise e
 [^ref-14]: [Space Colony - Steam](https://store.steampowered.com/app/297920/Space_Colony_Steam_Edition/) — Game information and credits
 [^ref-15]: [Business Wire - CivCity: Rome Announcement](https://www.businesswire.com/news/home/20060726005534/en/CivCity-Rome-Innovative-City-Builder-Inspired-Sid) — Simon Bradbury quote on Firaxis collaboration
 [^ref-16]: [Wikipedia - Stronghold Kingdoms](https://en.wikipedia.org/wiki/Stronghold_Kingdoms) — Player statistics and game history
-[^ref-17]: [Devolver Digital Acquisition Announcement](https://www.gamesindustry.biz/devolver-digital-acquires-stronghold-developer-firefly-studios) — June 2021 acquisition details
+[^ref-17]: [Devolver Digital Acquisition Announcement](https://web.archive.org/web/*/https://www.gamesindustry.biz/devolver-digital-acquires-stronghold-developer-firefly-studios) — June 2021 acquisition details
 [^ref-18]: [Firefly Studios News](https://fireflyworlds.com/) — Recent releases including Definitive Editions
 [^ref-19]: [RAWG - Simon Bradbury](https://rawg.io/creators/simon-bradbury) — Career overview and game history
 [^ref-20]: [The Making of Games Reddit](https://www.reddit.com/r/TheMakingOfGames/comments/emssrq/simon_bradbury_text_interview_romans_age_of/) — Development philosophy and citizen simulation

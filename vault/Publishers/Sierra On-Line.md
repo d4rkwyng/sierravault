@@ -486,7 +486,7 @@ After corporate restructuring in the late 1990s, Sierra On-Line branding gradual
 [^ref-5]: [Not All Fairy Tales Have Happy Endings: The Rise and Fall of Sierra On-Line](https://www.amazon.com/Not-All-Fairy-Tales-Have/dp/0996983902) - Ken Williams memoir
 [^ref-6]: [Wikipedia - Ken Williams (game developer)](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) - Founder biography
 [^ref-7]: [Wikipedia - Roberta Williams](https://en.wikipedia.org/wiki/Roberta_Williams) - Founder and designer biography
-[^ref-8]: [Computer History Museum - Sierra On-Line](https://www.computerhistory.org/brochures/s/sierra-on-line/) - Historical artifacts
+[^ref-8]: [Computer History Museum - Sierra On-Line](https://web.archive.org/web/*/https://www.computerhistory.org/brochures/s/sierra-on-line/) - Historical artifacts
 [^ref-9]: [Hardcore Gaming 101 - Sierra Adventures](http://www.hardcoregaming101.net/company/sierra/) - Game retrospectives
 [^ref-10]: [Adventure Gamers - Sierra Legacy](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/sierra-legacy) - Company analysis
 [^ref-11]: [GOG - Sierra Games](https://www.gog.com/games?developers=sierra-entertainment) - Digital preservation catalog

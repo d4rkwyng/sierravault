@@ -43,7 +43,7 @@ Sunlight Games has released both a remaster of the original game and a full sequ
 [^ref-8]: [Hardcore Gaming 101 - Gold Rush!](http://www.hardcoregaming101.net/gold-rush/) - Series retrospective
 [^ref-9]: [PC Gamer - Gold Rush remake](https://www.pcgamer.com/gold-rush-anniversary-review/) - Coverage
 [^ref-10]: [IGDB - Sunlight Games](https://www.igdb.com/companies/sunlight-games) - Company profile
-[^ref-11]: [TouchArcade - Gold Rush! Classic](https://toucharcade.com/2014/11/19/gold-rush-classic-review/) - Mobile release
+[^ref-11]: [TouchArcade - Gold Rush! Classic](https://web.archive.org/web/*/https://toucharcade.com/2014/11/19/gold-rush-classic-review/) - Mobile release
 [^ref-12]: [The Digital Antiquarian - Gold Rush](https://web.archive.org/web/*/https://www.filfre.net/2013/10/gold-rush/) - Historical analysis
 [^ref-13]: [Sierra Gamers - Gold Rush](https://www.sierragamers.com/sierra-games/gold-rush/) - Fan community
 [^ref-14]: [Press Kit - Gold Rush! 2](https://www.indiedb.com/games/gold-rush-2) - Development info

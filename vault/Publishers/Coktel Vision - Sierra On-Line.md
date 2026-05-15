@@ -48,7 +48,7 @@ The Gobliiins series, Coktel's signature franchise, became part of Sierra's adve
 [^ref-9]: [MobyGames - Adi Series](https://www.mobygames.com/group/1201/adi-series/) - Educational software
 [^ref-10]: [Lemon Amiga - Coktel Vision](https://www.lemonamiga.com/?mainurl=https%3A//www.lemonamiga.com/games/list.php%3Flist_publisher%3DCoktel%2BVision) - Amiga catalog
 [^ref-11]: [Hall of Light - Coktel Vision](http://hol.abime.net/hol_search.php?Fs_pubname=Coktel+Vision) - European releases
-[^ref-12]: [World of Spectrum - Coktel Vision](https://worldofspectrum.net/pub/sinclair/games-info/c/CoktelVision.txt) - ZX Spectrum releases
+[^ref-12]: [World of Spectrum - Coktel Vision](https://web.archive.org/web/*/https://worldofspectrum.net/pub/sinclair/games-info/c/CoktelVision.txt) - ZX Spectrum releases
 [^ref-13]: [Atari Mania - Coktel Vision](http://www.atarimania.com/list_games_company_sthp_publisher_Coktel-Vision_id_75.html) - Atari ST catalog
 [^ref-14]: [IGN - Sierra Entertainment](https://www.ign.com/companies/sierra-entertainment) - Sierra history
 [^ref-15]: [IGDB - Coktel Vision](https://www.igdb.com/companies/coktel-vision) - Company profile

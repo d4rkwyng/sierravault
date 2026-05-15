@@ -331,7 +331,7 @@ Modern retrospectives consistently place Zeus among the finest city-builders eve
 [^ref-1]: [Wikipedia – Zeus: Master of Olympus](https://en.wikipedia.org/wiki/Zeus:_Master_of_Olympus) – release dates, awards, critical scores, reception, Polish localization
 [^ref-2]: [Amazon – Zeus: Master of Olympus](https://www.amazon.com/Zeus-Master-Olympus-PC/dp/B00004TJ2N) – sales data, series information, interface description
 [^ref-20]: [GameSpot – Zeus Review](https://www.gamespot.com/reviews/zeus-master-of-olympus-review/1900-2646722/) – gameplay description, mythological elements
-[^ref-4]: [4Players.de Review](https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/288/184/0/Zeus_Herrscher_des_Olymp.html) – SimCity comparison, god mechanics, resource requirements
+[^ref-4]: [4Players.de Review](https://web.archive.org/web/*/https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/288/184/0/Zeus_Herrscher_des_Olymp.html) – SimCity comparison, god mechanics, resource requirements
 [^ref-5]: [IGN – Zeus: Master of Olympus Review](https://www.ign.com/articles/2000/11/04/zeus-master-of-olympus) – review score, campaign structure, visual design, reviewer quotes
 [^ref-6]: [Metacritic – Zeus: Master of Olympus](https://www.metacritic.com/game/zeus-master-of-olympus/) – aggregate scores, critical and user ratings
 [^ref-7]: [Rock Paper Shotgun – Have You Played Zeus](https://www.rockpapershotgun.com/have-you-played-zeus-master-of-olympus) – retrospective, Acropolis bundle, hero requirements

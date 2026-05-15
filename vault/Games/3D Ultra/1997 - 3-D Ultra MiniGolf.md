@@ -224,7 +224,7 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 ## References
 
 [^ref-1]: [MobyGames - 3D Ultra Minigolf](https://www.mobygames.com/game/9145/3d-ultra-minigolf/) — Game credits, developer info, platform details
-[^ref-2]: [GamesFirst - 3D Ultra Minigolf Review](https://gamesfirst.com/reviews/3d-ultra-minigolf/) — Contemporary review discussing graphics and gameplay
+[^ref-2]: [GamesFirst - 3D Ultra Minigolf Review](https://web.archive.org/web/*/https://gamesfirst.com/reviews/3d-ultra-minigolf/) — Contemporary review discussing graphics and gameplay
 [^ref-3]: [The Collection Chamber - 3D Ultra Minigolf](https://collectionchamber.blogspot.com/2017/05/3d-ultra-minigolf.html) — Preservation and retrospective analysis
 [^ref-4]: [GameSpot - 3D Ultra Minigolf Adventures](https://www.gamespot.com/games/3d-ultra-minigolf-adventures/) — Series overview and franchise history
 [^ref-5]: [Wikipedia - 3D Ultra Minigolf](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf) — Franchise history, sequels, and fan completion of Minigolf Maniacs

@@ -260,7 +260,7 @@ However, modern assessments acknowledge the game's limitations. As one Metacriti
 ## References
 
 [^ref-1]: [Wikipedia – Team Fortress Classic](https://en.wikipedia.org/wiki/Team_Fortress_Classic) – release dates, awards, ratings, development history
-[^ref-2]: [Engadget – Valve's Strange History of Talent Acquisitions](https://www.engadget.com/valves-strange-history-of-talent-acquisitions--this-weeks gaming-news-153020318.html) – Valve acquisition of Team Fortress developers
+[^ref-2]: [Engadget – Valve's Strange History of Talent Acquisitions](https://web.archive.org/web/*/https://www.engadget.com/valves-strange-history-of-talent-acquisitions--this-weeks gaming-news-153020318.html) – Valve acquisition of Team Fortress developers
 [^ref-3]: [IMDB – Team Fortress Classic](https://www.imdb.com/title/tt5044604/) – ratings, alternate titles, user reviews
 [^ref-4]: [GameSpot – Team Fortress Full Speed Ahead](http://www.gamespot.com/articles/team-fortress-full-speed-ahead/1100-2463316/) – Robin Walker and Scott Lynch quotes, development decisions
 [^ref-5]: [Grokipedia – Team Fortress Classic](https://grokipedia.com/page/Team_Fortress_Classic) – designers, engine, game modes, technical details

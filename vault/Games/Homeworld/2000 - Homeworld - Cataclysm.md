@@ -195,11 +195,11 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [^ref-41]: [Web Archive - CNET Full Review](https://web.archive.org/web/20001018151300/http://www.cnet.com/gamecenter/0-10104-600-2628735.html) – "Game original should have been"
 [^ref-42]: [GameFAQs User Reviews](https://gamefaqs.gamespot.com/pc/303756-homeworld-cataclysm/reviews) – User review scores
 [^ref-43]: [Web Archive - Game Informer](https://web.archive.org/web/20010110074300/http://www.gameinformer.com/reviews/review_detail.cfm?ITEM_ID=3047) – "Doesn't suck" praise
-[^ref-44]: [Eurogamer - Cataclysm Retrospective](https://www.eurogamer.net/homeworld-cataclysm-retrospective) – "Excellent adaptation" assessment
+[^ref-44]: [Eurogamer - Cataclysm Retrospective](https://web.archive.org/web/*/https://www.eurogamer.net/homeworld-cataclysm-retrospective) – "Excellent adaptation" assessment
 [^ref-45]: [ModDB - Homeworld: Cataclysm](https://www.moddb.com/games/homeworld-cataclysm) – Community rating and comments
 [^ref-46]: [IMDb - Homeworld: Cataclysm](https://www.imdb.com/title/tt0270228/) – User rating
-[^ref-47]: [RavingLuhn Blog Retrospective](https://ravingluhnblog.wordpress.com/2015/03/15/homeworld-cataclysm-retrospective/) – Genre combination analysis
-[^ref-48]: [Space Game Junkie Interview](https://spacegamejunkie.com/2017/06/homeworld-cataclysm-emergence-interview/) – Chris Stewart interview about development
+[^ref-47]: [RavingLuhn Blog Retrospective](https://web.archive.org/web/*/https://ravingluhnblog.wordpress.com/2015/03/15/homeworld-cataclysm-retrospective/) – Genre combination analysis
+[^ref-48]: [Space Game Junkie Interview](https://web.archive.org/web/*/https://spacegamejunkie.com/2017/06/homeworld-cataclysm-emergence-interview/) – Chris Stewart interview about development
 [^ref-49]: [Paul Ruskay – Studio X Labs site](http://www.studioxlabs.com/) – Composer's official site with Homeworld series audio-production background and preservation quotes
 [^ref-50]: [Angelfire Review - Save Times](https://www.angelfire.com/ab4/testrun2B/cataclysm.html) – Technical performance impressions
 [^ref-4]: [PCGamingWiki - Multiplayer](https://www.pcgamingwiki.com/wiki/Homeworld:_Cataclysm#Multiplayer) – WON.net shutdown date

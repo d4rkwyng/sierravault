@@ -172,7 +172,7 @@ The community around The Incredible Machine remains active decades after release
 [^ref-30]: [Wikipedia - Return of the Incredible Machine: Contraptions](https://en.wikipedia.org/wiki/Return_of_the_Incredible_Machine%3A_Contraptions) - Review compilation
 [^ref-32]: [MyAbandonware - Return of the Incredible Machine: Contraptions](https://www.myabandonware.com/game/return-of-the-incredible-machine-contraptions-3ph) - Modern player perspective
 [^ref-34]: [Interactive.org - Academy of Interactive Arts & Sciences](https://www.interactive.org/) - Award information
-[^ref-36]: [GamePressure - Return of the Incredible Machine: Contraptions](https://www.gamepressure.com/games/return-of-the-incredible-machine-contraptions/z42a3f) - Development context
+[^ref-36]: [GamePressure - Return of the Incredible Machine: Contraptions](https://web.archive.org/web/*/https://www.gamepressure.com/games/return-of-the-incredible-machine-contraptions/z42a3f) - Development context
 [^ref-38]: [Dynamix Wiki - The Incredible Machine](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) - Development information
 [^ref-42]: [Web Archive - System Requirements](https://web.archive.org/web/20131105101320/http://forums.vgrequirements.info/showthread.php?t=6476) - System requirements
 [^ref-44]: [KHInsider - The Incredible Machine Soundtracks](https://downloads.khinsider.com/game-soundtracks/album/incredible-machine-the-incredible-machine-2) - Composer credits

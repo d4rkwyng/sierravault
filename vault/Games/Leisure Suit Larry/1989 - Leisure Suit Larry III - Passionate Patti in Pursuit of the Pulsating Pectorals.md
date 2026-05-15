@@ -213,7 +213,7 @@ The game is also included in various compilations including the Leisure Suit Lar
 [^ref-7]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/565082-leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the/faqs/23246) – - Setting and plot details
 [^ref-8]: [Reddit Sierra Discussion](https://www.reddit.com/r/Sierra/comments/1ko1sr3/leisure_suit_larry_iii_passionate_patti_in/) – - Character development description
 [^ref-10]: [LarryLaffer.net](http://larrylaffer.net/lslgames/lsl3-general) – - Character interaction and plot development
-[^ref-11]: [Alex Bevilacqua Blog Review](https://alexbevi.com/blog/2026/03/14/leisure-suit-larry-iii/) – - Interface description
+[^ref-11]: [Alex Bevilacqua Blog Review](https://web.archive.org/web/*/https://alexbevi.com/blog/2026/03/14/leisure-suit-larry-iii/) – - Interface description
 [^ref-12]: [GameFAQs Walkthrough by odino](https://gamefaqs.gamespot.com/pc/565082-leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the/faqs/36626) – - Save system recommendations
 [^ref-13]: [Wikipedia Article](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals) – - Age verification system
 [^ref-14]: [IGN Cheats Guide](https://www.ign.com/wikis/pc-cheats/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals_Cheats) – - Quiz bypass method

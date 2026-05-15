@@ -358,7 +358,7 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-3]: [InterAction Magazine Fall 1992 – The Quest for King's Quest VI](https://mocagh.org/sierra/interaction-fall92.pdf) – – 14 months development, video-captured actors, Jane Jensen first adventure was KQ4, Lindsley "100% medal" quote
 [^ref-4]: [Wikipedia – King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) – – $700K budget, 400K first week sales, GameRankings 88.75%, 6,000 messages, Cornell nightingale sounds, hintbook credits
 [^ref-5]: [Dragon Magazine #192 – King's Quest VI Review](https://web.archive.org/web/*/https://archive.org/stream/DragonMagazine192) – – "Best KQ game yet," 15MB hard drive, "astounding" intro, Monkey Island comparisons
-[^ref-6]: [InterAction Magazine Winter 1992](https://mocagh.org/sierra/interaction-winter92.pdf) – – Peter Spear "landmark game" and "era of CD gaming" quotes, 130K first shipment
+[^ref-6]: [InterAction Magazine Winter 1992](https://web.archive.org/web/*/https://mocagh.org/sierra/interaction-winter92.pdf) – – Peter Spear "landmark game" and "era of CD gaming" quotes, 130K first shipment
 [^ref-7]: [The Digital Antiquarian – The Mortgaging of Sierra On-Line](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – – Jimmy Maher article: $1M+ budget, Girl in the Tower radio fiasco, Bright Star acquisition, opening movie specs, Ken Williams quotes
 [^ref-8]: [SCI Wiki – King's Quest VI](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – SCI1.1 engine, version numbers, interpreter details
 [^ref-9]: [Hardcore Gaming 101 – King's Quest VI](http://www.hardcoregaming101.net/kings-quest-vi-heir-today-gone-tomorrow/) – – Plot summary, Cassima backstory as Mordack's slave
@@ -377,7 +377,7 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-22]: [IMDB – King's Quest VI](https://www.imdb.com/title/tt0296259/) – – 8.5/10 rating
 [^ref-23]: [My Abandonware – King's Quest VI](https://www.myabandonware.com/game/king-s-quest-vi-heir-today-gone-tomorrow-1fy) – – 4.44/5 (125 votes), preservation downloads
 [^ref-24]: [HowLongToBeat – King's Quest VI](https://howlongtobeat.com/) – – 78% rating, 6.5h main story, 8.5h completionist
-[^ref-25]: [Strong Museum – Jane Jensen](https://www.museumofplay.org/games/gabriel-knight-sins-of-the-fathers/) – – Jensen joined Sierra 1990, "computer nerds who can write" ad
+[^ref-25]: [Strong Museum – Jane Jensen](https://web.archive.org/web/*/https://www.museumofplay.org/games/gabriel-knight-sins-of-the-fathers/) – – Jensen joined Sierra 1990, "computer nerds who can write" ad
 [^ref-26]: [PCGamingWiki – King's Quest VI](https://www.pcgamingwiki.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – Technical specs, Windows high-res portraits, system requirements
 [^ref-27]: [Behind the Voice Actors – King's Quest VI](https://www.behindthevoiceactors.com/video-games/Kings-Quest-VI-Heir-Today-Gone-Tomorrow/) – – Stuart Rosen voice director, complete cast list
 [^ref-28]: [IMDB – King's Quest VI Full Cast](https://www.imdb.com/title/tt0296259/fullcredits/) – – Voice actor credits

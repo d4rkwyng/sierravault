@@ -184,14 +184,14 @@ The game's commitment to procedural accuracy created a template for serious game
 [^ref-26]: [IMDB – Police Quest (1987)](https://www.imdb.com/title/tt0236084/) — 8.2/10 user rating
 [^ref-27]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/Sonny_Bonds) — Sonny Bonds character, Larry Laffer cameo in PQ2
 [^ref-28]: [IMDB – Police Quest VGA (1992)](https://www.imdb.com/title/tt0236085/) — 7.4/10 rating, Walls wanted poster easter egg
-[^ref-29]: [Leisure Suit Larry Wiki – Police Quest Crossover](https://larrywiki.com/wiki/Police_Quest) — Pimp character in VGA remake
+[^ref-29]: [Leisure Suit Larry Wiki – Police Quest Crossover](https://web.archive.org/web/*/https://larrywiki.com/wiki/Police_Quest) — Pimp character in VGA remake
 [^ref-30]: [Adventure Gamers – Police Quest](https://adventuregamers.com/games/view/17001) — "Interesting experiment" observation, patrol duties description
 [^ref-41]: [MobyGames – Police Quest Ratings](https://www.mobygames.com/game/174/police-quest-in-pursuit-of-the-death-angel/moby-score/) — 75% critics average
 [^ref-42]: [Wikipedia – Jim Walls](https://en.wikipedia.org/wiki/Jim_Walls) — 15-year CHP career, real incident basis
 [^ref-43]: [PCGamingWiki – Police Quest VGA](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) — SCI 1.1 engine, technical specs
 [^ref-44]: [MyAbandonware – Police Quest](https://www.myabandonware.com/game/police-quest-in-pursuit-of-the-death-angel-328) — 4.14/5 rating, "done by the book" quote
 [^ref-46]: [Hardcore Gaming 101 – Police Quest](https://www.hardcoregaming101.net/police-quest/) — Driving difficulty, instant game over crashes
-[^ref-52]: [Sierra Help – Police Quest](https://sierrahelp.com/Games/PoliceQuest/PQ1Help.html) — Manual as "indoctrination guide"
+[^ref-52]: [Sierra Help – Police Quest](https://web.archive.org/web/*/https://sierrahelp.com/Games/PoliceQuest/PQ1Help.html) — Manual as "indoctrination guide"
 [^ref-56]: [MobyGames – Police Quest 1992](https://www.mobygames.com/game/987/police-quest-in-pursuit-of-the-death-angel/) — VGA graphics, point-and-click interface
 [^ref-57]: [Computer Gaming World Archive](https://archive.org/details/Computer_Gaming_World) — "First attempts at authentic realism"
 [^ref-58]: [ScummVM – AGI Engine](https://wiki.scummvm.org/index.php/AGI) — Sound card and graphics support

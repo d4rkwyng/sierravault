@@ -78,7 +78,7 @@ Notable studio acquisitions relevant to this archive:
 [^ref-6]: [Activision Official Site](https://www.activision.com/games) - Game portfolio including King's Quest
 [^ref-7]: [IGN - The History of Activision](https://www.ign.com/articles/2010/10/01/the-history-of-activision) - Early game sales
 [^ref-8]: [MIT - Down From the Top of Its Game: The Story of Infocom](https://web.archive.org/web/20151105165849/http://web.mit.edu/6.933/www/Fall2000/infocom/infocom-paper.pdf) - Infocom acquisition
-[^ref-9]: [Forbes - Activision's Unlikely Hero](https://www.forbes.com/2009/01/15/activision-kotick-games-tech-personal-cz_pb_0115kotick.html) - Bobby Kotick purchase
+[^ref-9]: [Forbes - Activision's Unlikely Hero](https://web.archive.org/web/*/https://www.forbes.com/2009/01/15/activision-kotick-games-tech-personal-cz_pb_0115kotick.html) - Bobby Kotick purchase
 [^ref-10]: [Activision Blizzard - Who We Are](https://www.activisionblizzard.com/who-we-are) - 2008 merger history
 [^ref-11]: [Britannica - Activision](https://www.britannica.com/topic/Activision) - Company founding and early history
 [^ref-12]: [CNBC - Microsoft closes Activision Blizzard deal](https://www.cnbc.com/2023/10/13/microsoft-closes-activision-blizzard-deal-after-regulatory-review.html) - Acquisition completion details

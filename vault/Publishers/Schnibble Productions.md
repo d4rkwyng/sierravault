@@ -42,7 +42,7 @@ The company name "Schnibble" references *The Bizarre Adventures of Woodruff and 
 [^ref-7]: [Hardcore Gaming 101 - Gobliiins Series](https://web.archive.org/web/*/http://www.hardcoregaming101.net/gobliiins/) - Series retrospective
 [^ref-8]: [MobyGames - Pierre Gilhodes](https://www.mobygames.com/person/1088/pierre-gilhodes/) - Series creator
 [^ref-9]: [PC Gamer - Gobliiins 5](https://www.pcgamer.com/) - Modern coverage
-[^ref-10]: [Metacritic - Gobliiins 5](https://www.metacritic.com/game/pc/gobliiins-5/) - Review aggregator
+[^ref-10]: [Metacritic - Gobliiins 5](https://web.archive.org/web/*/https://www.metacritic.com/game/pc/gobliiins-5/) - Review aggregator
 [^ref-11]: [IGDB - Schnibble Productions](https://www.igdb.com/companies/schnibble-productions) - Publisher profile
 [^ref-12]: [Wikipedia - Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) - Original developer
 [^ref-13]: [IndieDB - Gobliiins 5](https://www.indiedb.com/games/gobliiins-5) - Development info

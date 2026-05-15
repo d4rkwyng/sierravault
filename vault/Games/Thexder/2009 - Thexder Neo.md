@@ -248,7 +248,7 @@ Thexder Neo fits within Square Enix's broader strategy of reviving dormant prope
 [^ref-18]: [Metacritic PS3](https://www.metacritic.com/game/playstation-3/thexder-neo) – Gaming Age review details
 [^ref-19]: [GameSpot User Review](https://www.gamespot.com/thexder-neo/user-reviews/2200-179499/) – User review quote
 [^ref-20]: [Altered Gamer](https://www.alteredgamer.com/other-games/62905-thexder-neo-ps3-game-review-retro-remake/) – Review score
-[^ref-23]: [AMR Abime](http://amr.abime.net/review_thexder) – Original game magazine reviews
+[^ref-23]: [AMR Abime](https://web.archive.org/web/*/http://amr.abime.net/review_thexder) – Original game magazine reviews
 [^ref-25]: [MobyGames Reviews](https://www.mobygames.com/game/2857/thexder/) – Player perspective on adaptation
 [^ref-26]: [Archive Today](https://archive.today/20120709022342/http://en.gigazine.net/index.php?/news/comments/20090824_thexder/) – Development goals
 [^ref-27]: [Downloads KH Insider](https://downloads.khinsider.com/game-soundtracks/album/thexder-neo-2009-psp) – Rebuild details

@@ -313,6 +313,6 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 [^ref-34]: [MyAbandonware – Rise of the Dragon](https://www.myabandonware.com/game/rise-of-the-dragon-zz) — Preservation download, 4.46/5 rating, death scene appreciation
 [^ref-36]: [Abandonware DOS – Rise of the Dragon](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Rise+of+the+Dragon&gid=1482) — 4.06/5 rating (106 votes)
 [^ref-38]: [Sierra Archives](https://archive.org/details/sierra-newsletters) — Dynamix acquisition and Sierra On-Line publishing context
-[^ref-39]: [DOS Games Archive – Rise of the Dragon](https://www.dosgamesarchive.com/download/rise-of-the-dragon/) — Technical specifications: VGA 320x200, EGA support
+[^ref-39]: [DOS Games Archive – Rise of the Dragon](https://web.archive.org/web/*/https://www.dosgamesarchive.com/download/rise-of-the-dragon/) — Technical specifications: VGA 320x200, EGA support
 [^ref-42]: [ScummVM Compatibility Page](https://www.scummvm.org/compatibility/) — Testing pipeline addition October 2024
 [^ref-43]: [ScummVM 2026.1.0 Release Notes](https://www.scummvm.org/news/20260131/) — Full DGDS support in "Like a Version" release 

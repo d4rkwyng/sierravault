@@ -289,7 +289,7 @@ The Gobliiins series spans five main entries across three decades, each with a d
 [^ref-22]: [Adventure Classic Gaming – Gobliins 2 Review](http://www.adventureclassicgaming.com/index.php/site/reviews/436/) – character descriptions, technical specs
 [^ref-23]: [IMDB – Gobliiins](https://www.imdb.com/title/tt0473302/) – rating, credits
 [^ref-24]: [Web Archive – Pierre Gilhodes Website](https://web.archive.org/web/20210129133754/http://www.gobliiins.com/Auteur_ru.htm) – developer biography
-[^ref-25]: [Rarewaves – Gobliiins 4 Product Page](https://www.rarewaves.com/products/4260089411920-gobliiins-4) – Pierre Gilhodes quotes, development history
+[^ref-25]: [Rarewaves – Gobliiins 4 Product Page](https://web.archive.org/web/*/https://www.rarewaves.com/products/4260089411920-gobliiins-4) – Pierre Gilhodes quotes, development history
 [^ref-26]: [Grokipedia – Gobliiins](https://grokipedia.com/page/Gobliiins) – technical specifications, design philosophy
 [^ref-27]: [TV Tropes – Gobliiins](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Gobliiins) – character descriptions, easter eggs, trivia
 [^ref-28]: [Video Game Music Preservation Foundation – Gobliiins](https://www.vgmpf.com/Wiki/index.php?title=Gobliiins_(DOS)) – audio specifications, composer credits

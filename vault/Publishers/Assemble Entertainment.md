@@ -45,6 +45,6 @@ The new Larry games maintain the series' trademark humor while updating the game
 [^ref-10]: [PC Gamer - Leisure Suit Larry returns](https://www.pcgamer.com/leisure-suit-larry-wet-dreams-dont-dry-review/) - Series revival coverage
 [^ref-11]: [Metacritic - Wet Dreams Don't Dry](https://www.metacritic.com/game/pc/leisure-suit-larry-wet-dreams-dont-dry) - Review aggregator
 [^ref-12]: [IGDB - Assemble Entertainment](https://www.igdb.com/companies/assemble-entertainment) - Company profile
-[^ref-13]: [GamesIndustry.biz - German Publishers](https://www.gamesindustry.biz/the-european-games-industry-is-booming) - German industry context
+[^ref-13]: [GamesIndustry.biz - German Publishers](https://web.archive.org/web/*/https://www.gamesindustry.biz/the-european-games-industry-is-booming) - German industry context
 [^ref-14]: [Gematsu - Assemble Entertainment News](https://gematsu.com/?s=assemble+entertainment) - Publisher news
 [^ref-15]: [DualShockers - Larry Series Revival](https://www.dualshockers.com/leisure-suit-larry-wet-dreams-dont-dry-review/) - Series coverage

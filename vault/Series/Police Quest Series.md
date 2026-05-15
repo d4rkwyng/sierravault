@@ -175,6 +175,6 @@ Police Quest's insistence on procedural accuracy created a unique tension betwee
 [^ref-1]: [MobyGames - Police Quest Series](https://www.mobygames.com/group/400/police-quest-series/) – Series database and credits
 [^ref-2]: [Wikipedia - Police Quest](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – Police training use and Jim Walls background
 [^ref-3]: [Classic Reload - Police Quest](https://classicreload.com/police-quest-in-pursuit-of-the-death-angel.html) – Procedural gameplay requirements
-[^ref-4]: [Nostalgia Trigger - Police Quest Retrospective](https://nostalgiatrigger.com/2017/04/17/retrospectives-part-1-police-quest-in-pursuit-of-the-death-angel-1987/) – "By the book" design philosophy
+[^ref-4]: [Nostalgia Trigger - Police Quest Retrospective](https://web.archive.org/web/*/https://nostalgiatrigger.com/2017/04/17/retrospectives-part-1-police-quest-in-pursuit-of-the-death-angel-1987/) – "By the book" design philosophy
 [^ref-5]: [Wikipedia - Jim Walls](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – CHP career and Ken Williams meeting
 [^ref-6]: [MobyGames - Police Quest](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/) – InterAction magazine training quote

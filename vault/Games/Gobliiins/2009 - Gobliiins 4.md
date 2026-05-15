@@ -241,7 +241,7 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 [^ref-10]: [IGN – Gobliiins 4 Walkthroughs](https://www.ign.com/games/gobliiins-4/walkthroughs) – plot details
 [^ref-11]: [GameFAQs – Gobliiins 4 Walkthrough](https://gamefaqs.gamespot.com/pc/958639-gobliiins-4/faqs/56390) – gameplay details, story, puzzle philosophy
 [^ref-12]: [Software Informer – Gobliiins 4](https://gobliiins-4.software.informer.com/) – character abilities, technical specs, review score
-[^ref-13]: [Rarewaves – Gobliiins 4 Product Page](https://www.rarewaves.com/products/4260089411920-gobliiins-4) – development background, level count, Snowberry Connection
+[^ref-13]: [Rarewaves – Gobliiins 4 Product Page](https://web.archive.org/web/*/https://www.rarewaves.com/products/4260089411920-gobliiins-4) – development background, level count, Snowberry Connection
 [^ref-14]: [GameBoomers – Gobliiins 4 Review](https://www.gameboomers.com/reviews/Gg/Gobliiins4/Gobliiins4byBecky.htm) – gameplay mechanics, save system, golden teeth, grade
 [^ref-15]: [GameGrin – Gobliiins 4 Review](https://www.gamegrin.com/reviews/gobliiins-4/) – criticism of save system, demographic mismatch
 [^ref-16]: [HonestGamers – Gobliiins 4 Review](http://www.honestgamers.com/7981/pc/gobliiins-4/review.html) – technical issues, Lost Vikings comparison

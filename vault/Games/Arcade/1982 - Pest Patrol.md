@@ -258,12 +258,12 @@ Sierra produced numerous action games for the Apple II during the early 1980s. P
 [^ref-5]: [Virtual Apple - Pest Patrol](http://www.virtualapple.org/pestpatroldisk.html) - online playable version, disk image preservation
 [^ref-6]: [Sierra Gamers - Game List](https://www.sierragamers.com/sierra-games/) - 1982 Sierra catalog context, contemporary releases
 [^ref-7]: [Internet Archive - Apple II Games](https://archive.org/details/apple-ii-games-woz) - preservation, Apple II software collection
-[^ref-8]: [eBay - Pest Patrol SierraVision Listing](https://www.ebay.co.uk/itm/203781868341) - SierraVision label packaging confirmation
+[^ref-8]: [eBay - Pest Patrol SierraVision Listing](https://web.archive.org/web/*/https://www.ebay.co.uk/itm/203781868341) - SierraVision label packaging confirmation
 [^ref-9]: [Internet Archive - Pest Patrol (woz-a-day)](https://archive.org/details/wozaday_Pest_Patrol) - WOZ format disk image, 48K requirement, copy protection compatibility limitations
 [^ref-10]: [Internet Archive - Pest Patrol DOS 3.3](https://archive.org/details/a2_Pest_Patrol_1982_Sierra_cr_Nibbler) - DOS 3.3 disk image, 140 KB disk size, 49 KB used space
 [^ref-11]: [Apple II History - 1982](https://www.apple2history.org/appendix/aha/aha82/) - 1982 Sierra catalog context, Cannonball Blitz, Frogger, Crossfire
 [^ref-12]: [4cade Apple II Launcher - GAMES.CONF](https://github.com/a2-4am/4cade/blob/main/res/GAMES.CONF) - preservation metadata, 1982 confirmation, infinite lives cheat category
-[^ref-13]: [Macintosh Garden - Sierra Games](https://macintoshgarden.org/publisher/sierra-line) - Sierra On-Line software catalog and publishing history
+[^ref-13]: [Macintosh Garden - Sierra Games](https://web.archive.org/web/*/https://macintoshgarden.org/publisher/sierra-line) - Sierra On-Line software catalog and publishing history
 [^ref-14]: [Giant Bomb - Sierra On-Line](https://www.giantbomb.com/sierra-entertainment/3010-104/) - Company history and early arcade game catalog
 [^ref-15]: [UVList - Pest Patrol](https://www.uvlist.net/game-121890-Pest+Patrol) - Universal Videogame List database entry
 [^ref-16]: [Asimov - Pest Patrol disk image](https://www.apple.asimov.net/images/games/action/) — Asimov FTP-style archive preservation of the original Apple II disk image

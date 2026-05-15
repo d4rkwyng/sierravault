@@ -184,7 +184,7 @@ Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
 [^ref-2]: [Kickstarter – Bolt Riley: A Reggae Adventure](https://www.kickstarter.com/projects/adventuremob/bolt-riley-a-reggae-adventure) — 757 backers, gameplay description, story outline
 [^ref-3]: [Adventure Gamers – Bolt Riley](https://web.archive.org/web/*/https://adventuregamers.com/games/view/31147) — Chapter 1 release confirmation, episodic structure
 [^ref-4]: [MobyGames – Leisure Suit Larry: Reloaded](https://www.mobygames.com/game/54983/leisure-suit-larry-reloaded/) — Adventure Mob original involvement
-[^ref-5]: [Rock Paper Shotgun – Bolt Riley Kickstarter](https://www.rockpapershotgun.com/reggae-adventure-game-bolt-riley-has-a-kickstarter) — Cole involvement details, "Coles designed Chapter 2"
+[^ref-5]: [Rock Paper Shotgun – Bolt Riley Kickstarter](https://web.archive.org/web/*/https://www.rockpapershotgun.com/reggae-adventure-game-bolt-riley-has-a-kickstarter) — Cole involvement details, "Coles designed Chapter 2"
 [^ref-6]: [Adventure Gamers Interview – Oded Sharon](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/26878) — Unity engine, Noah Falstein introduction, development history
 [^ref-7]: [Adventure Mob Official Site](https://web.archive.org/web/20170101000000*/adventuremob.com) — Hand-drawn art, "wacky inventory items, and of course, a rope"
 [^ref-9]: [MobyGames – Bolt Riley Credits](https://www.mobygames.com/game/83611/bolt-riley-a-reggae-adventure/credits/) — Full development team, voice cast, plugins used
@@ -197,6 +197,6 @@ Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
 [^ref-18]: [Kicktraq – Bolt Riley Campaign Data](https://www.kicktraq.com/projects/adventuremob/bolt-riley-a-reggae-adventure/) — First campaign $51K, second campaign $31,668 goal
 [^ref-19]: [OUYA – FreeTheGames Fund](https://web.archive.org/web/20140801000000*/ouya.tv/free-the-games-fund) — 7-day campaign strategy
 [^ref-20]: [Omri Lahav – Composer Portfolio](https://omrilahav.com/) — Original soundtrack credits
-[^ref-22]: [Patreon – Adventure Mob](https://www.patreon.com/adventuremob) — Development status, team availability concerns
+[^ref-22]: [Patreon – Adventure Mob](https://web.archive.org/web/*/https://www.patreon.com/adventuremob) — Development status, team availability concerns
 [^ref-23]: [itch.io – Bolt Riley](https://soundguy.itch.io/boltriley) — Alternative purchase option with Steam key
 [^ref-24]: [Humble Bundle – Bolt Riley](https://www.humblebundle.com/store/bolt-riley-a-reggae-adventure) — DRM-free purchase option 

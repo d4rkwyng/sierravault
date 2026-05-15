@@ -212,7 +212,7 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 [^ref-8]: [Ricochet Wiki - Powerups](https://ricochet.fandom.com/wiki/Powerups) - Game mechanics documentation
 [^ref-9]: [ModDB - Half-Life Updates](https://www.moddb.com/games/ricochet/downloads/half-life-updates-pre-post-1100) - Patch history
 [^ref-10]: [PC Gamer - Valve's Forgotten Games](https://www.pcgamer.com/valves-forgotten-games/) - Retrospective on lesser-known Valve titles
-[^ref-11]: [Kotaku - The Ricochet 2 Joke](https://kotaku.com/the-never-ending-wait-for-ricochet-2-1849012445) - Cultural legacy and meme status
+[^ref-11]: [Kotaku - The Ricochet 2 Joke](https://web.archive.org/web/*/https://kotaku.com/the-never-ending-wait-for-ricochet-2-1849012445) - Cultural legacy and meme status
 [^ref-12]: [ModDB - Ricochet: Source](https://www.moddb.com/mods/ricochet-source) - Fan remake project
 [^ref-13]: [MobyGames - Ricochet](https://www.mobygames.com/game/4481/ricochet/) - Game database entry confirming multiplayer-only status
 [^ref-14]: [Internet Archive - Ricochet](https://archive.org/details/Ricochet) - Preserved demo version

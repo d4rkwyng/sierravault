@@ -273,7 +273,7 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 [^ref-17]: [Mr. Bill's Adventureland – Review](https://web.archive.org/web/20140702072624/http://www.mrbillsadventureland.com/reviews/a-b/bargonattackR/bargonattackR.htm) – pixel hunting, technical specs, Wendy Mann review
 [^ref-18]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2024/08/06/bargon-attack/) – modern review, graphics praise, overall criticism
 [^ref-19]: [My Abandonware – Bargon Attack](https://www.myabandonware.com/game/bargon-attack-1cb) – user rating, download availability
-[^ref-20]: [Je Ne Suis – Amiga Review](http://www.jenesuis.net/tests/amiga/433-bargon-attack) – comic magazine origin, French dialogue, Amiga market
+[^ref-20]: [Je Ne Suis – Amiga Review](https://web.archive.org/web/*/http://www.jenesuis.net/tests/amiga/433-bargon-attack) – comic magazine origin, French dialogue, Amiga market
 [^ref-21]: [Official Bargon Attack Website](http://www.bargon-attack.com/) – Claude Marc statement, Roland Oskian credit, development origins
 [^ref-22]: [MobyGames – Specs](https://www.mobygames.com/game/13178/bargon-attack/specs/) – technical requirements, audio support, version differences
 [^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist) – availability status

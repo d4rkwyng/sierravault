@@ -224,7 +224,7 @@ This game has been included in the following collections:
 [^ref-24]: [Metacritic – Quest for Glory V](https://www.metacritic.com/game/pc/quest-for-glory-v-dragon-fire) – user ratings
 [^ref-13]: [Quest for Glory Fandom Wiki – Voice Cast](https://questforglory.fandom.com/wiki/Quest_for_Glory_V%3A_Dragon_Fire#Voice_Cast) – complete voice cast listing
 [^ref-26]: [KHInsider – Quest for Glory V Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/quest-for-glory-v-dragon-fire-windows-gamerip-1998) – soundtrack information, vocalists
-[^ref-27]: [RPGFan – Quest for Glory V Soundtrack Review](https://rpgfan.com/soundtracks/quest-for-glory-v-dragon-fire-ost/) – music review
+[^ref-27]: [RPGFan – Quest for Glory V Soundtrack Review](https://web.archive.org/web/*/https://rpgfan.com/soundtracks/quest-for-glory-v-dragon-fire-ost/) – music review
 [^ref-28]: [TV Tropes – Quest for Glory V](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryV) – detailed trope analysis, gameplay mechanics
 [^ref-29]: [VGMdb – Quest for Glory V](https://vgmdb.net/album/6391) – soundtrack database entry
 [^ref-30]: [ScummVM Wiki – Quest for Glory V](https://wiki.scummvm.org/index.php?title=Quest_for_Glory_V%3A_Dragon_Fire) – technical compatibility

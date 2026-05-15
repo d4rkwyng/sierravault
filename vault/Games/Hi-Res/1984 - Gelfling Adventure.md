@@ -189,7 +189,7 @@ The game is documented in gaming databases and preservation archives.[^ref-12][^
 [^ref-1]: [Adventure Gamers - Gelfling Adventure](https://adventuregamers.com/games/view/40982) - database listing, platform information
 [^ref-2]: [Wikipedia - The Dark Crystal (video game)](https://en.wikipedia.org/wiki/The_Dark_Crystal_(video_game)) - release year, designer, simplified version for younger players
 [^ref-3]: [Al Lowe interviews and articles](https://www.metaljesusrocks.com/tag/al-lowe/) - developer quotes, interpreter development, Sierra career history
-[^ref-4]: [IFWizz - Gelfling Adventure](https://ifwizz.de/gelfling-adventure-(1984-en).html) - 1984 release, multiple choice interface, historical significance
+[^ref-4]: [IFWizz - Gelfling Adventure](https://web.archive.org/web/*/https://ifwizz.de/gelfling-adventure-(1984-en).html) - 1984 release, multiple choice interface, historical significance
 [^ref-5]: [eBay - Gelfling Adventure listing](https://www.ebay.com/itm/266779426749) - rarity information, collector market
 [^ref-6]: [Sierra Wiki - The Dark Crystal](https://sierra.fandom.com/wiki/The_Dark_Crystal) - story details, original game information, awards
 [^ref-7]: [MobyGames - Hi-Res Adventure #6: The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) - credits, related games, platform information

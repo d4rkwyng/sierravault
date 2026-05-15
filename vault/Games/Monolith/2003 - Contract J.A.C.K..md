@@ -330,7 +330,7 @@ The game is currently unavailable through legitimate digital storefronts due to 
 [^ref-17]: [NOLF Wiki – Contract J.A.C.K.](https://nolf.fandom.com/wiki/Contract_J.A.C.K.) – gameplay differences, location details, Man-Handler weapon
 [^ref-18]: [MobyGames – Contract J.A.C.K.](https://www.mobygames.com/game/11245/contract-jack/) – release information, censorship, trivia, awards
 [^ref-19]: [Cheatbook – Contract J.A.C.K. Walkthrough](https://www.cheatbook.de/wfiles/contractjack.htm) – gameplay description
-[^ref-20]: [4Players.de – Contract JACK Review](https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/3681/2472/0/Contract_JACK.html) – enemy quantity comparison to Serious Sam
+[^ref-20]: [4Players.de – Contract JACK Review](https://web.archive.org/web/*/https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/3681/2472/0/Contract_JACK.html) – enemy quantity comparison to Serious Sam
 [^ref-21]: [IMFDB – Contract J.A.C.K.](https://www.imfdb.org/wiki/Contract_J.A.C.K.) – weapon specifications, anachronism notes, technical errors
 [^ref-22]: [GameSpy – Contract J.A.C.K. Review](http://pc.gamespy.com/pc/contract-jack/6344p1.html) – review score, vehicle criticism, asset recycling
 [^ref-23]: [Wayback Machine – Game Informer Review](https://web.archive.org/web/20081004104847/http://www.gameinformer.com/NR/exeres/2F76D890-A6B2-4627-BA3F-943098A2F7DE.htm) – review score 5.5/10, multiplayer availability criticism
@@ -342,7 +342,7 @@ The game is currently unavailable through legitimate digital storefronts due to 
 [^ref-29]: [Amazon.com – Contract J.A.C.K.](https://www.amazon.com/Contract-J-C-K-PC/dp/B0000A4F0R) – customer reviews, product features
 [^ref-30]: [MyAbandonware – Contract J.A.C.K.](https://www.myabandonware.com/game/contract-j-a-c-k-dvt) – user rating, compatibility issues
 [^ref-31]: [Grokipedia – Contract J.A.C.K.](https://grokipedia.com/page/Contract_J.A.C.K.) – development timeline, international releases, sales performance
-[^ref-32]: [Wayback Machine – 4Players.de Review](https://web.archive.org/web/20210711230151/https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/3681/2472/0/Contract_JACK.html) – German bundle, commercial failure context
+[^ref-32]: [Wayback Machine – 4Players.de Review](https://web.archive.org/web/20210711230151/https://web.archive.org/web/*/https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/3681/2472/0/Contract_JACK.html) – German bundle, commercial failure context
 [^ref-33]: [GameSpy – Contract J.A.C.K. Review Page 2](http://pc.gamespy.com/pc/contract-jack/6344p2.html) – cut content, original narrative concept
 [^ref-34]: [IGN – Contract Jack Gold](https://www.ign.com/articles/2003/10/31/contract-jack-gold) – gold status announcement, demo date
 [^ref-35]: [Eurogamer – Contract Jack Demo News](https://www.eurogamer.net/news271003contractjack) – demo availability, FilePlanet protection

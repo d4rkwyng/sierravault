@@ -206,7 +206,7 @@ This game has been included in the following collections:
 - [SpaceQuest.net – Space Quest 6](https://spacequest.net/sq6/) – game information, screenshots, soundtrack[^ref-4]
 - [WiW – Space Quest 6 Point List](https://wiw.org/~jess/sq6pts.html) – complete point list[^ref-11]
 - [Sierra Help – Space Quest 6](https://sierrahelp.com/Games/SpaceQuest/SQ6Help.html) – patches, technical help[^ref-14]
-- [HowLongToBeat – Space Quest 6](https://howlongtobeat.com/game/8868) – completion times[^ref-16]
+- [HowLongToBeat – Space Quest 6](https://web.archive.org/web/*/https://howlongtobeat.com/game/8868) – completion times[^ref-16]
 - [SpaceQuest.net – SQ6 Easter Eggs](https://spacequest.net/sq6/eastereggs/) – hidden features, programmer tributes[^ref-24]
 - [SpaceQuest.net – SQ6 Fun Facts](https://spacequest.net/sq6/funfacts/) – development trivia, behind-the-scenes[^ref-25]
 - [SpaceQuest.net – SQ6 Cameos](https://spacequest.net/sq6/cameos/) – character appearances, sci-fi parodies[^ref-27]
@@ -241,7 +241,7 @@ This game has been included in the following collections:
 [^ref-13]: [ScummVM Wiki – Space Quest 6](https://wiki.scummvm.org/index.php?title=Space_Quest_6) – engine support since ScummVM 2.0.0
 [^ref-14]: [Sierra Help – Space Quest 6](https://sierrahelp.com/Games/SpaceQuest/SQ6Help.html) – system requirements, patches, technical help
 [^ref-15]: [Space Quest Fandom Wiki – Space Quest 6](https://spacequest.fandom.com/wiki/Space_Quest_6:_Roger_Wilco_in_The_Spinal_Frontier) – release date, plot, voice cast, trivia, Charles Martinet, Superman vs Batman reference
-[^ref-16]: [HowLongToBeat – Space Quest 6](https://howlongtobeat.com/game/8868) – completion times
+[^ref-16]: [HowLongToBeat – Space Quest 6](https://web.archive.org/web/*/https://howlongtobeat.com/game/8868) – completion times
 [^ref-17]: [Space Quest Historian – 11 Things You Probably Didn't Know About Space Quest](https://www.youtube.com/watch?v=Hvux-A0oGiM) – Datacorder puzzle origin, hidden messages, localization trivia
 [^ref-18]: [Virtual Broomcloset – Josh Mandel Interview](https://www.wiw.org/~jess/josho.html) – Planet of the Apes ending, Leslie Balfour tagline quote
 [^ref-19]: [Virtual Broomcloset – Leslie Balfour Interview](https://www.wiw.org/~jess/leslie.html) – Popular Janitronics, "In Space Nobody Can Hear You Clean" tagline

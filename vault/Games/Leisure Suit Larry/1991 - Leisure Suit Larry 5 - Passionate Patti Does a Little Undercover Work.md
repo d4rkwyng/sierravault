@@ -149,7 +149,7 @@ The game achieved commercial success despite mixed critical reception, with the 
 [^ref-5]: [SuperCheats Walkthrough](https://www.supercheats.com/pc/walkthroughs/leisuresuitlarry5passionatepattidoesalittleundercoverwork-walkthrough01.txt) – - Plot summary for both characters
 [^ref-6]: [IMDb Trivia Page](https://m.imdb.com/title/tt0273735/trivia/) – - Al Lowe's interactive cartoon concept
 [^ref-7]: [Adventure Classic Gaming Review](https://www.adventureclassicgaming.com/index.php/site/reviews/123/) – - Developer information
-[^ref-8]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2026/11/28/leisure-suit-larry-5/) – - Designer credits
+[^ref-8]: [Alex Bevilacqua Blog](https://web.archive.org/web/*/https://alexbevi.com/blog/2026/11/28/leisure-suit-larry-5/) – - Designer credits
 [^ref-9]: [MobyGames Database](https://www.mobygames.com/game/408/) – - Publisher information
 [^ref-10]: [LemonAmiga Database](https://www.lemonamiga.com/games/details.php?id=1425) – - Platform availability
 [^ref-11]: [Abandonware DOS Search](https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry+5%3A+Passionate+Patti+Does+a+Little+Undercover+Work) – - Release year confirmation

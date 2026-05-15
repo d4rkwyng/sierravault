@@ -213,7 +213,7 @@ The game's reliance on Windows 3.x technology has made preservation challenging,
 [^ref-12]: [VOGONS – Bright Star Games](https://www.vogons.org/) – compatibility discussion and preservation efforts
 [^ref-13]: [Sierra Wiki – Sierra Discovery Series](https://wiki.sierrahelp.com/index.php/Sierra_Discovery_Series) – series overview and catalog
 [^ref-14]: [MobyGames – Bright Star Technology](https://www.mobygames.com/company/2194/bright-star-technology-inc/) – company credits and game catalog
-[^ref-15]: [Old Games Download – Ready, Set, Read](https://oldgamesdownload.com/ready-set-read/) – educational software preservation and download
+[^ref-15]: [Old Games Download – Ready, Set, Read](https://web.archive.org/web/*/https://oldgamesdownload.com/ready-set-read/) – educational software preservation and download
 [^ref-16]: [MobyGames – Ready, Set, Read! with Bananas & Jack](https://www.mobygames.com/game/ready-set-read-with-bananas-jack/) – platform details, credits, screenshots
 [^ref-17]: [IGDB – Ready, Set, Read with Bananas & Jack](https://www.igdb.com/games/ready-set-read-with-bananas-jack) — Internet Games Database entry, release-year confirmation, Bright Star Technology developer attribution
 [^ref-18]: [LaunchBox Games Database – Ready, Set, Read](https://gamesdb.launchbox-app.com/games/details/ready-set-read-with-bananas-jack) — community-curated metadata, cover art, Sierra Discovery Series tagging

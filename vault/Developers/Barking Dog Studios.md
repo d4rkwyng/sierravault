@@ -93,7 +93,7 @@ The tragic loss of Homeworld: Cataclysm's source code prevented its inclusion in
 [^ref-20]: [IGN - Come Out to Play-i-ay](http://www.ign.com/articles/2002/08/01/come-out-to-play-i-ay) — Acquisition announcement and studio details
 [^ref-21]: [Gamasutra - Developer Spinoffs](https://www.gamedeveloper.com/) — Studios founded by former employees
 [^ref-22]: [Polygon - Rockstar Expands Toronto, Closes Vancouver](https://www.polygon.com/gaming/2012/7/9/3147937/rockstar-expands-toronto-studio-to-ontario) — Studio merger
-[^ref-23]: [Space Game Junkie - Homeworld: Cataclysm Interview](https://spacegamejunkie.com/2017/06/homeworld-cataclysm-emergence-interview/) — Chris Stewart quotes on development
+[^ref-23]: [Space Game Junkie - Homeworld: Cataclysm Interview](https://web.archive.org/web/*/https://spacegamejunkie.com/2017/06/homeworld-cataclysm-emergence-interview/) — Chris Stewart quotes on development
 [^ref-24]: [ModDB - Homeworld: Cataclysm](https://www.moddb.com/games/homeworld-cataclysm) — Community ratings and fan reception
 [^ref-25]: [Escapist Magazine - Gearbox on Cataclysm](https://www.escapistmagazine.com/gearbox-would-love-to-re-release-homeworld-cataclysm/) — Lost source code discussion
 [^ref-26]: [Steam Workshop - Cataclysm Remastered Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2106772244) — Fan remaster project

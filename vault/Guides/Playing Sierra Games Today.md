@@ -431,7 +431,7 @@ If you want enhanced versions of classic games:
 
 [^ref-1]: [ScummVM Compatibility List](https://www.scummvm.org/compatibility/) — Official game support status
 [^ref-2]: [DOSBox Staging](https://www.dosbox-staging.org/) — Modern DOSBox fork features
-[^ref-3]: [ScummVM on Steam Deck](https://docs.scummvm.org/en/latest/other_platforms/steamdeck.html) — Installation guide
+[^ref-3]: [ScummVM on Steam Deck](https://web.archive.org/web/*/https://docs.scummvm.org/en/latest/other_platforms/steamdeck.html) — Installation guide
 [^ref-4]: [SierraHelp.com](https://www.sierrahelp.com/) — Community patches and installers
 [^ref-5]: [GOG.com Sierra Collections](https://www.gog.com/games?publishers=sierra-entertainment) — Digital storefronts
 [^ref-6]: [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) — DirectX wrapper for old games

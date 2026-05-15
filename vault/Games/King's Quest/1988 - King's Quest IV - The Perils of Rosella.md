@@ -255,7 +255,7 @@ Rosella would return in King's Quest VII: The Princeless Bride, and her rescuer 
 - [Internet Archive - Original Manual](https://archive.org/details/Kings_Quest_4_-_Manual)[^ref-13]
 - [Xeen Music - MT-32 Soundtrack](https://xeenmusic.bandcamp.com/album/kings-quest-iv-the-perils-of-rosella-soundtrack-mt-32-archival-edition) (Official licensed archival recording)[^ref-28]
 - [Sierra Gamers - Hint Book](https://www.sierragamers.com/kings-quest-4/) (Scans and resources)[^ref-25]
-- [Sierra Help Pages](https://sierrahelp.com/Games/KQ/KQ4.html) (Patches and technical support)[^ref-36]
+- [Sierra Help Pages](https://web.archive.org/web/*/https://sierrahelp.com/Games/KQ/KQ4.html) (Patches and technical support)[^ref-36]
 
 ## See Also
 
@@ -306,7 +306,7 @@ Rosella would return in King's Quest VII: The Princeless Bride, and her rescuer 
 [^ref-33]: [Steam - King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – - 7-game collection availability
 [^ref-34]: [Internet Archive - DOS SCI Version](https://archive.org/details/KingsQuestIVPerilsRosella) – - Preservation download
 [^ref-35]: [ScummVM Wiki - King's Quest IV](https://wiki.scummvm.org/index.php?title=King%27s_Quest_IV) – - Compatibility since ScummVM 0.10.0 (AGI) and 1.2.0 (SCI)
-[^ref-36]: [Sierra Help Pages - King's Quest IV](https://sierrahelp.com/Games/KQ/KQ4.html) – - Patches and technical support
+[^ref-36]: [Sierra Help Pages - King's Quest IV](https://web.archive.org/web/*/https://sierrahelp.com/Games/KQ/KQ4.html) – - Patches and technical support
 [^ref-37]: [VGFacts - King's Quest IV Trivia](https://www.vgfacts.com/game/kingsquestivtheperilsofrosella/) – - "beam me" and "rap kq" easter egg details
 [^ref-38]: [Time Extension - Roberta and Ken Williams Interview](https://www.timeextension.com/features/interview-roberta-and-ken-williams-on-how-colossal-cave-led-to-a-life-of-adventure) – - KQ4 sold 2x prior three games, internal opposition to female protagonist, Roberta's personal connection
 [^ref-39]: [GameSpot - 15 Most Influential Games](https://web.archive.org/web/20050525130158/http://gamespot.com/gamespot/features/pc/most_influential/p13.html) – - 300K-400K copies per game (PC Data), Ron Gilbert quote on KQ influence

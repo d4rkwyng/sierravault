@@ -248,7 +248,7 @@ This game has been included in the following collections:
 [^ref-4]: [IMDB – Quest for Glory IV](https://www.imdb.com/title/tt0420849/) – – voice cast credits
 [^ref-5]: [PCGamingWiki – Quest for Glory: Shadows of Darkness](https://www.pcgamingwiki.com/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – – technical specs
 [^ref-6]: [Grokipedia – Quest for Glory](https://grokipedia.com/page/Quest_for_Glory) – – series development, collections
-[^ref-7]: [Engadget – The glory of Quest For Glory](https://www.engadget.com/the-glory-of-quest-for-glory/) – – retrospective review
+[^ref-7]: [Engadget – The glory of Quest For Glory](https://web.archive.org/web/*/https://www.engadget.com/the-glory-of-quest-for-glory/) – – retrospective review
 [^ref-8]: [RPGamer – Quest for Glory IV Review](https://rpgamer.com/review/quest-for-glory-iv-shadows-of-darkness/) – – retrospective review
 [^ref-9]: [PC Gamer – Saturday Crapshoot: Quest For Glory 4 1/2](http://www.pcgamer.com/saturday-crapshoot-quest-for-glory-4-12/) – – series retrospective
 [^ref-10]: [HowLongToBeat – Quest for Glory IV](https://howlongtobeat.com/game/7483) – – completion times

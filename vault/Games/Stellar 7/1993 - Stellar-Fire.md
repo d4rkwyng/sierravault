@@ -189,7 +189,7 @@ The game's mixed reception reflects broader challenges facing Sega CD developers
 - Not currently available on digital platforms
 
 **Manuals & Extras**
-- [Stellar-Fire Manual PDF](https://r.mprd.se/Sega%20CD/Manuals/Stellar-Fire%20(U).pdf)[^ref-13]
+- [Stellar-Fire Manual PDF](https://web.archive.org/web/*/https://r.mprd.se/Sega%20CD/Manuals/Stellar-Fire%20(U).pdf)[^ref-13]
 
 ## See Also
 
@@ -212,7 +212,7 @@ The game's mixed reception reflects broader challenges facing Sega CD developers
 [^ref-10]: [Every Game Going – Stellar-Fire Review Summary](https://www.everygamegoing.com/larticle/stellar-fire/103026) – Video Game Critic score, marketing claims
 [^ref-11]: [Lukie Games – Stellar-Fire](https://www.lukiegames.com/stellar-fire-sega-cd-game) – customer review, soundtrack praise, current availability
 [^ref-12]: [Dynamix Wiki – Stellar 7 Series](https://dynamix.fandom.com/wiki/Stellar_7_(series)) – series overview, game list, developer information
-[^ref-13]: [MPRD.se – Stellar-Fire Manual PDF](https://r.mprd.se/Sega%20CD/Manuals/Stellar-Fire%20(U).pdf) – original game manual
+[^ref-13]: [MPRD.se – Stellar-Fire Manual PDF](https://web.archive.org/web/*/https://r.mprd.se/Sega%20CD/Manuals/Stellar-Fire%20(U).pdf) – original game manual
 [^ref-14]: [Sega Wiki – Stellar-Fire](https://sega.fandom.com/wiki/Stellar-Fire) – Sega game wiki and series information
 [^ref-15]: [Sega-16 Forums – Stellar Fire Review Thread](https://www.sega-16forums.com/forum/site-content/latest-review/7434-stellar-fire) – Reader discussion of the Sega-16 retrospective review covering reception and gameplay assessment
 
