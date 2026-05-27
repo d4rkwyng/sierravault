@@ -10,14 +10,14 @@ series: Dr. Brain / JumpStart
 engine: JumpStart Engine
 protagonist: Player (Secret Society member)
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-05-27'
 description: '*JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain* is an educational
   adventure game developed and published by Knowledge Adventure in 2011,...'
 tags: [2010s, dr-brain-jumpstart, educational, sierra]
 ---
 # JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 27, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ tags: [2010s, dr-brain-jumpstart, educational, sierra]
 
 The title features the distinctive Dr. Brain character, a bespectacled scientist with red hair who wears a lab coat over a purple shirt and black tie[^ref-4]. With more than 140 games, missions, and adventures teaching various educational concepts, the game offers substantial content for young learners[^ref-5]. The vibrant graphics and immersive storyline were designed to captivate young minds and "foster a love for learning through adventure"[^ref-1]. Players engage with educational activities covering syllables, basic arithmetic, and United States geography, all wrapped in an action-adventure framework[^ref-6]. The game provides a "full version experience, ensuring that players receive complete access to all its features"[^ref-1].
 
-The game represents Knowledge Adventure's approach to the Dr. Brain franchise after acquiring the rights from Sierra, transforming the series into a more action-oriented experience targeted at younger audiences[^ref-7]. The new series is "set in 2326 following a new Dr. Brain, a twenty-something genius instead of an old mad scientist"[^ref-2]. This shift marked a significant departure from the original Sierra Dr. Brain games, which were created by [[Corey Cole]], co-designer of the Quest for Glory series[^ref-2]. The Knowledge Adventure games feature "less education-oriented and more problem-solving puzzles"[^ref-2], moving away from the cerebral focus of the Sierra originals[^ref-7].[^ref-15][^ref-16][^ref-17][^ref-15][^ref-16][^ref-17]
+The game represents Knowledge Adventure's approach to the Dr. Brain franchise after acquiring the rights from Sierra, transforming the series into a more action-oriented experience targeted at younger audiences[^ref-7]. The new series is "set in 2326 following a new Dr. Brain, a twenty-something genius instead of an old mad scientist"[^ref-2]. This shift marked a significant departure from the original Sierra Dr. Brain games, which were created by [[Corey Cole]], co-designer of the Quest for Glory series[^ref-2]. The Knowledge Adventure games feature "less education-oriented and more problem-solving puzzles"[^ref-2], moving away from the cerebral focus of the Sierra originals[^ref-7]. Database listings and fan archives confirm the title's release date and platform availability[^ref-15][^ref-16][^ref-17].
 
 > [!info]- Game Info
 > **Developer:** [[Knowledge Adventure]][^ref-8]
@@ -224,7 +224,7 @@ This transition mirrors broader trends in the educational software market of the
 [^ref-10]: [Kotaku – Game Listing](https://kotaku.com/games/jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain) – game description
 [^ref-12]: [GameFAQs – JumpStart Adventures](https://gamefaqs.gamespot.com/boards/950986-jumpstart-adventures-4th-grade) – user comments, ratings
 [^ref-13]: [MyAbandonware – Dr. Brain Thinking Games](https://www.myabandonware.com/game/dr-brain-thinking-games-iq-adventure-dt0) – user rating, comments
-[^ref-14]: [IGDB - Dr. Brain](https://www.igdb.com/) - IGDB
-[^ref-15]: [MobyGames - JumpStart](https://www.mobygames.com/) - database
-[^ref-16]: [GameFAQs - JumpStart](https://gamefaqs.gamespot.com/) - database
-[^ref-17]: [UVList - Dr. Brain](https://www.uvlist.net/) - Universal List
+[^ref-14]: [IGDB – JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain (2011)](https://www.igdb.com/games/jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain) – database entry, release year, platform, description
+[^ref-15]: [Internet Archive – JumpStart Advanced 3-5: The Adventures of Dr. Brain](https://archive.org/details/world-of-js-3rd-5th) – 2011 JumpStart Games release, preservation copy
+[^ref-16]: [Stash – JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain](https://stash.games/games/jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain) – games tracker entry, description, Secret Society premise
+[^ref-17]: [Dr. Brain Omnipedia Wiki (Fandom) – Adventures of Dr. Brain](https://drbrain.fandom.com/wiki/Adventures_of_Dr._Brain) – fan wiki entry, plot premise, Goo Gords and Henchmen
