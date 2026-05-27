@@ -1928,26 +1928,6 @@
       ]
     },
     {
-      "filename": "1993 - Gabriel Knight - Sins of the Fathers.md",
-      "series": "Gabriel Knight",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 95.8,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 44,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s) \u2014 consolidate into one citation: ['https://www.filfre.net/tag/gabriel-knight/', 'http://www.adventureclassicgaming.com/index.php/site/interviews/179/', 'https://www.pcgamingwiki.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "2014 - Gold Rush Anniversary.md",
       "series": "Gold Rush",
       "page_type": "standard",
@@ -4221,6 +4201,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "1993 - Gabriel Knight - Sins of the Fathers.md",
+      "series": "Gabriel Knight",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 41,
       "issues": []
     },
     {
