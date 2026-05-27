@@ -10,14 +10,14 @@ series: Homeworld
 engine: Modified Homeworld engine
 protagonist: Kiith Somtaaw Fleet Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-05-27'
 description: 'Homeworld: Cataclysm is a standalone real-time strategy sequel to the
   acclaimed Homeworld, developed by Barking Dog Studios and published by Sierra...'
 tags: [2000s, homeworld, sierra, strategy]
 ---
 # Homeworld: Cataclysm
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 27, 2026</small>
 
 ## Overview
 
@@ -88,7 +88,7 @@ New unit types include the Mimic fighter, which can perfectly imitate other unit
 
 ### Modern Assessment
 
-The game maintains an aggregate Metacritic score of 89/100, indicating "universal acclaim"[^ref-18]. Modern retrospective reviews continue to praise the game's improvements over the original Homeworld. Brian Wright of GamePro noted it "shows what can happen when developers listen to the fans and make changes according to their suggestions and complaints"[^ref-1]. Samuel Bass of NextGen called it "one of those rare sequels in which more of the same is definitely a good thing"[^ref-19]. FiringSquad declared "The gameplay of the Homeworld series is now cemented as revolutionary. Games in the future will either draw upon this series as influence, or out and out steal its ideas"[^ref-37].
+The game maintains an aggregate Metacritic score of 89, rated "Generally Favorable" based on 25 critic reviews[^ref-18]. Modern retrospective reviews continue to praise the game's improvements over the original Homeworld. Brian Wright of GamePro noted it "shows what can happen when developers listen to the fans and make changes according to their suggestions and complaints"[^ref-1]. Samuel Bass of NextGen called it "one of those rare sequels in which more of the same is definitely a good thing"[^ref-19]. FiringSquad declared "The gameplay of the Homeworld series is now cemented as revolutionary. Games in the future will either draw upon this series as influence, or out and out steal its ideas"[^ref-37].
 
 The GOG.com re-release as "Homeworld: Emergence" maintains a strong 4.6/5 user rating based on 156 reviews[^ref-3]. Players consistently praise the game's horror atmosphere, with one reviewer noting "it still is the scariest RTS I know"[^ref-3]. On ModDB, the community has given the game a 9.8/10 rating[^ref-45], with users calling it "Best game ever" and "a great sequel to the original game"[^ref-45]. IMDb users have rated the game 8.4/10[^ref-46]. The game is described by many as effectively combining "a space-based strategy game with an organic B-movie horror plot"[^ref-47].
 
@@ -96,7 +96,7 @@ The GOG.com re-release as "Homeworld: Emergence" maintains a strong 4.6/5 user r
 
 ### Origins
 
-Homeworld: Cataclysm began development at Barking Dog Studios, a company founded in 1998 by former Radical Entertainment employees[^ref-19]. The studio initially assisted Relic Entertainment with the original Homeworld before moving on to create what would become Cataclysm[^ref-21]. Mark Hood, Sierra Studios Senior VP, stated "We believe Barking Dog Studios has the talent and experience to make a significant contribution to the Homeworld franchise"[^ref-22].
+Homeworld: Cataclysm began development at Barking Dog Studios, a company founded in 1998 by former Radical Entertainment employees[^ref-21]. The studio initially assisted Relic Entertainment with the original Homeworld before moving on to create what would become Cataclysm[^ref-21]. Mark Hood, Sierra Studios Senior VP, stated "We believe Barking Dog Studios has the talent and experience to make a significant contribution to the Homeworld franchise"[^ref-22].
 
 Originally designed as an add-on to the original Homeworld, the project was expanded into a full standalone title when it exceeded the scope of a typical expansion pack[^ref-23]. The development team was given significant creative freedom to build upon and improve the original Homeworld formula.
 
@@ -112,7 +112,7 @@ The musical score was composed by Greg Sabitz and Paul Ruskay, with Studio X Lab
 
 The game featured impressive technical specifications for its time, supporting resolutions up to 1600x900 for 16:9 monitors and 1440x900 for 16:10 monitors[^ref-26]. Save times were remarkably fast at 0.5-1 seconds even for large maps, a feat that impressed contemporary reviewers who were "stumped" by how developers achieved this performance[^ref-50]. The audio system utilized a proprietary frequency-based engine with real-time filtering capabilities created using RAD Game Tools' Relic Audio Tool (RAT)[^ref-4].
 
-Cataclysm required a Pentium II 266 MHz processor minimum, with 32 MB RAM and 300 MB of storage space[^ref-6]. The game supported up to 8 players in multiplayer mode via the now-defunct WON.net network, which shut down on November 1, 2008[^ref-4]. A patch (version 1.01) was released on December 21, 2000 to resolve balance issues and various bugs, though it rendered previous save files incompatible[^ref-52].
+Cataclysm required a Pentium II 266 MHz processor minimum, with 32 MB RAM and 250 MB of storage space[^ref-4]. The game supported up to 8 players in multiplayer mode via the now-defunct WON.net network, which shut down on November 1, 2008[^ref-4]. A patch (version 1.01) was released on December 21, 2000 to resolve balance issues and various bugs, though it rendered previous save files incompatible[^ref-52].
 
 ## Legacy
 
@@ -122,7 +122,7 @@ According to a 2013 forum post, "Cataclysm's gone. No backups exist of its sourc
 
 Relic didn't consider it canon anyway"[^ref-19].
 
-Code copies had originally existed at Barking Dog, Relic, and Sierra, but "all original code assets are lost - Sierra's gone, Barking Dog's gone"[^ref-48].
+Code copies had originally existed at Barking Dog, Relic, and Sierra, but according to Stewart "Sierra’s would be long gone" and "Barking Dog’s are certainly gone as well"[^ref-48].
 
 Potential backups may exist on Rockstar servers since Barking Dog was acquired by Take-Two Interactive in 2002 and renamed Rockstar Vancouver[^ref-21].
 
@@ -195,11 +195,11 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [^ref-41]: [Web Archive - CNET Full Review](https://web.archive.org/web/20001018151300/http://www.cnet.com/gamecenter/0-10104-600-2628735.html) – "Game original should have been"
 [^ref-42]: [GameFAQs User Reviews](https://gamefaqs.gamespot.com/pc/303756-homeworld-cataclysm/reviews) – User review scores
 [^ref-43]: [Web Archive - Game Informer](https://web.archive.org/web/20010110074300/http://www.gameinformer.com/reviews/review_detail.cfm?ITEM_ID=3047) – "Doesn't suck" praise
-[^ref-44]: [Eurogamer - Cataclysm Retrospective](https://web.archive.org/web/*/https://www.eurogamer.net/homeworld-cataclysm-retrospective) – "Excellent adaptation" assessment
+[^ref-44]: [Eurogamer - Cataclysm Patch Coverage](https://www.eurogamer.net/article-29983) – "Excellent adaptation of the Homeworld formula" assessment
 [^ref-45]: [ModDB - Homeworld: Cataclysm](https://www.moddb.com/games/homeworld-cataclysm) – Community rating and comments
 [^ref-46]: [IMDb - Homeworld: Cataclysm](https://www.imdb.com/title/tt0270228/) – User rating
-[^ref-47]: [RavingLuhn Blog Retrospective](https://web.archive.org/web/*/https://ravingluhnblog.wordpress.com/2015/03/15/homeworld-cataclysm-retrospective/) – Genre combination analysis
-[^ref-48]: [Space Game Junkie Interview](https://web.archive.org/web/*/https://spacegamejunkie.com/2017/06/homeworld-cataclysm-emergence-interview/) – Chris Stewart interview about development
+[^ref-47]: [RavingLuhn - How to Run Homeworld Cataclysm](https://ravingluhnblog.wordpress.com/2017/03/27/how-to-run-homeworld-cataclysm/) – Genre combination analysis ("space-based strategy game with an organic B-movie horror plot")
+[^ref-48]: [Space Game Junkie - What Happened to Homeworld: Cataclysm?](https://www.spacegamejunkie.com/oped/happened-homeworld-cataclysm-part-maybe/) – Brian Rubin's investigation including Chris Stewart email interview
 [^ref-49]: [Paul Ruskay – Studio X Labs site](http://www.studioxlabs.com/) – Composer's official site with Homeworld series audio-production background and preservation quotes
 [^ref-50]: [Angelfire Review - Save Times](https://www.angelfire.com/ab4/testrun2B/cataclysm.html) – Technical performance impressions
 [^ref-4]: [PCGamingWiki - Multiplayer](https://www.pcgamingwiki.com/wiki/Homeworld:_Cataclysm#Multiplayer) – WON.net shutdown date
