@@ -10,7 +10,7 @@ series: Homeworld
 engine: Homeworld 2 Engine
 protagonist: Karan S'jet / Fleet Command
 sierra_lineage: Sierra Published
-last_updated: '2026-03-27'
+last_updated: '2026-05-27'
 composer: [Paul Ruskay]
 description: Homeworld Remastered Collection is a comprehensive restoration of Relic
   Entertainment's groundbreaking space real-time strategy games, released on February...
@@ -18,7 +18,7 @@ tags: [2010s, homeworld, sierra, strategy]
 ---
 # Homeworld Remastered Collection
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 27, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Homeworld Remastered Collection is a comprehensive restoration of [[Relic Entert
 
 The original Homeworld, released September 28, 1999, revolutionized the real-time strategy genre by introducing fully three-dimensional space combat, allowing players to command fleets that could move in all directions—up, down, backward, forward, and to either side—rather than being confined to a traditional two-dimensional plane[^ref-4]. As IGN declared at its original release, "Relic not only tackled space, but may have just changed strategy games forever"[^ref-5]. The game received universal acclaim, achieving a Metacritic score of 93 and earning numerous Game of the Year awards in 1999[^ref-6].
 
-Gearbox Software acquired the Homeworld intellectual property for $1.35 million at THQ's bankruptcy auction in April 2013, rescuing the beloved franchise from legal limbo after the games had spent twelve years in THQ's vaults[^ref-7]. The remastering process took approximately two years, during which the development team worked with original artists and key members of the original development team to rebuild both games using the Homeworld 2 engine, adding support for HD, UHD, and 4K resolutions while maintaining the essence of the originals[^ref-8]. Brian Martel, Gearbox's Chief Creative Officer, emphasized that the studio had "great love and respect for Relic's brilliant, fun and innovative game"[^ref-9].[^ref-62][^ref-63][^ref-64]
+Gearbox Software acquired the Homeworld intellectual property for $1.35 million at THQ's bankruptcy auction in April 2013, rescuing the beloved franchise from legal limbo after the games had spent twelve years in THQ's vaults[^ref-8]. The remastering process took approximately two years, during which the development team worked with original artists and key members of the original development team to rebuild both games using the Homeworld 2 engine, adding support for HD, UHD, and 4K resolutions while maintaining the essence of the originals[^ref-8]. Brian Martel, Gearbox's Chief Creative Officer, emphasized that the studio had "great love and respect for Relic's brilliant, fun and innovative game"[^ref-9].[^ref-62][^ref-63][^ref-64]
 
 > [!info]- Game Info
 > **Developer:** [[Gearbox Software]], Aspyr (Mac)[^ref-1]
@@ -70,7 +70,7 @@ The original Homeworld campaign spans 16 missions that tell a continuous story o
 
 Key campaign missions include:
 - **Return to Kharak** – The devastating discovery of the homeworld's destruction, famously scored to Samuel Barber's "Adagio for Strings"[^ref-22]
-- **Diamond Shoals** – Considered "certainly the most annoying mission of the game" due to asteroid hazards[^ref-22]
+- **Diamond Shoals** – Described in a Steam community guide as "certainly the most annoying mission of the game" due to asteroid hazards[^ref-65]
 - **Gardens of Kadesh** – A challenging encounter with the enigmatic Kadeshi
 - **Supernova Station** – A race against time near a dying star
 - **Tenhauser Gate** – The climactic approach to Hiigara
@@ -93,15 +93,15 @@ Game Informer awarded 8/10, with Daniel Tack praising the collection while notin
 
 ### Original Homeworld Reception (1999)
 
-The original Homeworld achieved legendary status upon its 1999 release, becoming the highest-rated computer game of 1999 on Metacritic with a score of 93[^ref-6]. All Game Guide awarded 100/100, describing it as "Simply one of those titles that makes you say 'Wow.' You'll have to pick your jaw up off the floor when you experience it for the first time"[^ref-6]. Adrenaline Vault also gave 100/100, stating "Beyond the confines of the single player is the best multiplayer strategy game since 'Total Annihilation'"[^ref-6].
+The original Homeworld achieved legendary status upon its 1999 release, becoming the highest-rated computer game of 1999 on Metacritic with a score of 93[^ref-6]. All Game Guide awarded 100/100, describing it as a title that makes you "pick your jaw up off the floor when you experience it for the first time"[^ref-6]. Adrenaline Vault also gave 100/100, calling Homeworld "the best multiplayer strategy game since" Total Annihilation[^ref-6].
 
 GameSpy scored it 93/100, calling it "A truly groundbreaking RTS with no major flaws. The visuals and music are top-notch and the gameplay is on a grand scale. This is the first game I have played where I was truly inspired by the vastness of space"[^ref-6]. PC Gamer gave 93/100, praising the "Engrossing RTS play matched to a vital and visually intense story"[^ref-6]. IGN awarded 95/100, stating "We've rarely played a game with this much substance"[^ref-6].
 
 Eurogamer scored the original 9/10, describing it as "a refreshing new take on the real time strategy genre, abandoning the usual forest, ice, desert and volcanic worlds of most RTS games and instead setting the action in deep space"[^ref-30].
 
 **Aggregate Scores:**
-- **Metacritic (Remastered):** 86/100[^ref-29]
-- **Metacritic (Original):** 93/100[^ref-6]
+- **Metacritic (Remastered):** 86 Metascore[^ref-29]
+- **Metacritic (Original):** 93 Metascore[^ref-6]
 - **GOG User Rating:** 4.7/5[^ref-25]
 - **Steam User Rating:** 8.8/10[^ref-31]
 - **MobyGames (Original):** 8.4/10[^ref-13]
@@ -136,7 +136,7 @@ Development of the original Homeworld took over two years, approximately 28 mont
 
 The game was originally planned to feature non-linear campaign progression with star system navigation, but this was changed to a fixed ladder of scenarios during development[^ref-17]. Other cut features included ship customization, convoy routes, and different unit types between the Kushan and Taiidan fleets[^ref-10]. Sierra was reportedly supportive during the extended development, telling Garden "Prenez le temps nécessaire. Vous y êtes presque, ça serait dommage de tout abandonner si près du but" (Take the time you need. You're almost there, it would be a shame to give up so close to the goal)[^ref-40].
 
-The remastering process by Gearbox took approximately two years, beginning after their April 2013 acquisition[^ref-7]. The team faced significant technical challenges, as the original games were built on entirely different engines. Gearbox programmer noted, "I was a bit surprised when, earlier this year, I was told by a manager at Gearbox we were looking at bidding on the Homeworld franchise"[^ref-41]. The original source code totaled 16.8 GB, with an additional 39 GB from other sources[^ref-42]. Brian Burleson, lead producer, stated "The spirit of the team working on this at Gearbox is very focused on not re-inventing Homeworld"[^ref-42].
+The remastering process by Gearbox took approximately two years[^ref-7], beginning after their April 2013 acquisition[^ref-39]. The team faced significant technical challenges, as the original games were built on entirely different engines. Gearbox programmer noted, "I was a bit surprised when, earlier this year, I was told by a manager at Gearbox we were looking at bidding on the Homeworld franchise"[^ref-41]. The original source code drop from the IP purchase totaled 16.8 gigs, with an additional 39 gigs of missing source recovered from former developers[^ref-42]. Brian Burleson, lead producer, stated "The spirit of the team working on this at Gearbox is very focused on not re-inventing Homeworld"[^ref-42].
 
 **Development Credits (Original Homeworld):**[^ref-32]
 - **Executive Producer/Co-Founder:** Alex Garden
@@ -158,7 +158,7 @@ The remastering process by Gearbox took approximately two years, beginning after
 
 ### Technical Achievements
 
-Homeworld represented a quantum leap in RTS technology. It was the first major fully 3D RTS game, requiring revolutionary innovations in camera control, pathfinding, and user interface design[^ref-17]. The game originally shipped on a single 650MB CD-ROM[^ref-8]; the Remastered Collection expanded to nearly 20GB[^ref-8], reflecting the massive increase in texture resolution and audio quality.
+Homeworld represented a quantum leap in RTS technology. It was the first major fully 3D RTS game, requiring revolutionary innovations in camera control, pathfinding, and user interface design[^ref-17]. The game originally shipped on a single CD with a footprint of around 650 MB[^ref-7]; the Remastered Collection expanded to close to 20GB[^ref-7], reflecting the massive increase in texture resolution and audio quality.
 
 The original game used OpenGL with DirectX support and was compiled with Microsoft Visual Studio 97[^ref-41]. It supported DirectSound, DirectPlay 8, and DirectShow libraries[^ref-41]. The remaster added support for HD, UHD, and 4K resolutions[^ref-3], with the engine rebuilt to use OpenGL 3.3[^ref-25].
 
@@ -202,7 +202,7 @@ Several features were removed during development of the original game:
 - **Non-linear campaign with star system navigation** – changed to fixed mission ladder[^ref-17]
 - **Fifth playable race** – originally planned to have 5 races, only 4 made final game[^ref-13]
 
-The Remastered Collection notably excluded **Homeworld: Cataclysm** (2000), developed by Barking Dog Studios. IGN reported the expansion was omitted "due to lost source materials"[^ref-2], with the source code allegedly lost or incomplete[^ref-11]. Additionally, the **Yes song "Homeworld (The Ladder)"** that originally played during the credits was removed from digital releases due to licensing issues[^ref-17].
+The Remastered Collection notably excluded **Homeworld: Cataclysm** (2000), developed by Barking Dog Studios. IGN reported that Gearbox said too much of the source materials had been "lost or misplaced" to give Cataclysm the full remastering treatment[^ref-2], with the source code allegedly lost or incomplete[^ref-11]. Additionally, the **Yes song "Homeworld (The Ladder)"** that originally played during the credits was removed from digital releases due to licensing issues[^ref-17].
 
 ### Version History
 
@@ -255,11 +255,11 @@ The Remastered Collection notably excluded **Homeworld: Cataclysm** (2000), deve
 
 - **Blade Runner Reference:** Autosave names reference Blade Runner's "Tenhauser Gate"[^ref-13]
 - **"Adagio for Strings":** The famous music in Mission 3: Return to Kharak is Samuel Barber's "Adagio for Strings," available in both string and choral versions[^ref-22]
-- **Yes Connection:** Rock band Yes created the song "Homeworld (The Ladder)" specifically for the game[^ref-13]
+- **Yes Connection:** Rock band Yes created the song "Homeworld / The Ladder" specifically for the game[^ref-13]
 - **175 People:** The final game credits list 175 people who worked on the project[^ref-13]
 - **Company Name Origin:** Relic Entertainment's name was chosen because "it was easy to pronounce"[^ref-39]
 - **DOK Badge:** Added in updates as a reference to Homeworld: Deserts of Kharak[^ref-26]
-- **Battlestar Galactica Influence:** The game so effectively captured the Galactica aesthetic that some critics called it "Battlestar Galactica: The Game in all but name"[^ref-30]. The Eurogamer Gaming Globes noted the storyline "bears resemblance to Battlestar Galactica"[^ref-36]
+- **Battlestar Galactica Influence:** The game so effectively captured the Galactica aesthetic that Eurogamer's review called it "Battlestar Galactica : The Game" in all but name[^ref-30]. The Eurogamer Gaming Globes piece noted the plot "bore more than a passing resemblance to cult 80s TV series Battlestar Galactica"[^ref-36]
 - **Development Location:** Relic was founded above a nightclub in Vancouver[^ref-17]
 - **Alex Garden's Age:** Garden was only 21 years old when he conceived Homeworld in spring 1997, founding the company at age 22[^ref-17]
 - **Peter Molyneux Consultation:** Alex Garden consulted with legendary designer Peter Molyneux about game design[^ref-5]
@@ -275,7 +275,7 @@ The Remastered Collection notably excluded **Homeworld: Cataclysm** (2000), deve
 | Pilot #2 | Ian James Corlett[^ref-16] |
 | Pilot #3 | Jason Wingham[^ref-16] |
 
-The original voice cast was retained for the Remastered Collection, with Gearbox using "high fidelity voice recordings" from the original sessions[^ref-14]. Paul Ruskay noted the audio production included "7,679 files in 1,156 folders" totaling 1.63 GB of data[^ref-48].
+The original voice cast was retained for the Remastered Collection, with Gearbox using "high fidelity voice recordings" from the original sessions[^ref-12]. Paul Ruskay noted the audio production included "7,679 files in 1,156 folders" totaling 1.63 GB of data[^ref-48].
 
 ## Legacy
 
@@ -371,7 +371,7 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [^ref-14]: [Homeworld Fandom Wiki – Homeworld](https://homeworld.fandom.com/wiki/Homeworld) – Mothership construction, Karan S'jet lore, release dates
 [^ref-15]: [Homeworld Fandom Wiki – Relic Entertainment](https://homeworld.fandom.com/wiki/Relic_Entertainment) – company history, development challenges
 [^ref-16]: [IMDB – Homeworld (1999)](https://www.imdb.com/title/tt0475297/) – voice cast, user rating, release date, Karan quote
-[^ref-17]: [The Digital Antiquarian – Homeworld](https://web.archive.org/web/*/https://www.filfre.net/2025/01/homeworld/) – Alex Garden quotes, development timeline, cut content, interface development
+[^ref-17]: [The Digital Antiquarian – Homeworld](https://web.archive.org/web/20260324095619/https://www.filfre.net/2026/01/homeworld/) – Alex Garden quotes, development timeline, cut content, interface development
 [^ref-18]: [Internet Archive – Homeworld 2](https://archive.org/details/homeworld-2) – HW2 release date, Vaygr/Hiigaran details
 [^ref-19]: [D.I.C.E. Awards – Homeworld](https://www.interactive.org/games/video_game_details.asp?idAward=2000&idGame=487) – interface description, award nominations
 [^ref-20]: [GameSpot – Original Homeworld Review](http://www.gamespot.com/reviews/homeworld-review/1900-2537718/) – 9/10 score, mission count, multiplayer details
@@ -418,3 +418,4 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [^ref-62]: [IMDB – Homeworld: Cataclysm](https://www.imdb.com/title/tt0410084/) – Cataclysm details, voice cast
 [^ref-63]: [Polygon – Deserts of Kharak Review](http://www.polygon.com/2016/2/3/10906294/homeworld-deserts-of-kharak-review-pc-gearbox-blackbird) – prequel details, Rachel S'jet
 [^ref-64]: [Gearbox Publishing – Homeworld Mobile Launch](https://www.gearboxpublishing.com/press_release/homeworld-mobile-launches-globally-on-ios-and-android/) – mobile release date, setting
+[^ref-65]: [Steam Community Guide – Homeworld Remastered Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=402082412) – mission-by-mission strategy notes including Diamond Shoals difficulty assessment
