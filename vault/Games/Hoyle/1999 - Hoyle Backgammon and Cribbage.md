@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-27'
 composer: [Evan Schiller]
 description: Hoyle Backgammon & Cribbage is a digital adaptation of two classic board
   and card games released by Sierra On-Line in 1999 for Windows and Macintosh...
@@ -18,11 +18,11 @@ tags: [1990s, hoyle, sierra]
 ---
 # Hoyle Backgammon & Cribbage
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 27, 2026</small>
 
 ## Overview
 
-Hoyle Backgammon & Cribbage is a digital adaptation of two classic board and card games released by [[Sierra On-Line]] in 1999 for Windows and Macintosh platforms.[^ref-1][^ref-2][^ref-13][^ref-14] The game was part of Sierra's long-running Hoyle series, which had been bringing traditional games to home computers since 1989.[^ref-3][^ref-15] Named after 18th century playing card expert Edmond Hoyle, the series was renowned for its accessible yet faithful recreations of beloved tabletop games.[^ref-3][^ref-17]
+Hoyle Backgammon & Cribbage is a digital adaptation of two classic board and card games released by [[Sierra On-Line]] in 1999 for Windows and Macintosh platforms.[^ref-1][^ref-2][^ref-13][^ref-14][^ref-15][^ref-16] The game was part of Sierra's long-running Hoyle series, which had been bringing traditional games to home computers since 1989.[^ref-3][^ref-21] Named after 18th century playing card expert Edmond Hoyle, the series was renowned for its accessible yet faithful recreations of beloved tabletop games.[^ref-3][^ref-22]
 
 The title combined two distinct games: backgammon, the ancient race game where players move markers around the board attempting to bear off all their pieces first, and cribbage, a classic card game involving strategic card play and a distinctive scoring board.[^ref-1] Players could challenge ten different computer-controlled opponents of varying skill levels or compete against friends via internet play, a feature that was becoming increasingly common in late 1990s gaming.[^ref-1]
 
@@ -86,7 +86,7 @@ Due to the limited availability of contemporary gaming magazine reviews in the r
 
 ### Modern Assessment
 
-Modern retrospective assessments of Hoyle Backgammon & Cribbage have been modest. GameFAQs users rated the game as "Fair" based on 2 user ratings.[^ref-5] The game falls within the broader Hoyle series franchise, which maintained a steady following among casual game enthusiasts throughout the late 1990s.[^ref-3][^ref-16]
+Modern retrospective assessments of Hoyle Backgammon & Cribbage have been modest. GameFAQs users rated the game as "Fair" based on 2 user ratings.[^ref-5][^ref-18] The game falls within the broader Hoyle series franchise, which maintained a steady following among casual game enthusiasts throughout the late 1990s.[^ref-3][^ref-19][^ref-20].
 
 **Aggregate Scores:**
 - **MobyGames:** 85% (user rating)[^ref-1]
@@ -264,7 +264,12 @@ The game also serves as a historical artifact of late 1990s gaming, representing
 [^ref-9]: [Giant Bomb – Hoyle's Backgammon & Cribbage](https://giantbomb.com/wiki/Games/Hoyles_Backgammon_And_Cribbage) – release date, platforms, developer, publisher, genre
 [^ref-10]: [Academic Kids Encyclopedia – Sierra Entertainment](https://academickids.com/encyclopedia/index.php/Sierra_Entertainment) – Sierra company information, Hoyle series mention
 [^ref-13]: [Italian Wikipedia – Sierra Entertainment](https://it.wikipedia.org/wiki/Sierra_Entertainment) – Sierra company history
-[^ref-14]: [Bosnian Wikipedia – Sierra Entertainment](https://bs.wikipedia.org/wiki/Sierra_Entertainment) – Sierra founding history, Ken and Roberta Williams[^ref-12]: [Giant Bomb - Hoyle](https://www.giantbomb.com/) - wiki
-[^ref-15]: [GameSpot - Hoyle](https://www.gamespot.com/) - game site
-[^ref-16]: [Metacritic - Hoyle](https://www.metacritic.com/) - review aggregator
-[^ref-17]: [Amazon - Hoyle](https://www.amazon.com/) - retail listing
+[^ref-14]: [Bosnian Wikipedia – Sierra Entertainment](https://bs.wikipedia.org/wiki/Sierra_Entertainment) – Sierra founding history, Ken and Roberta Williams
+[^ref-15]: [Metacritic – Hoyle Backgammon and Cribbage](https://www.metacritic.com/game/hoyle-backgammon-and-cribbage/) – review aggregate page for the 1999 release
+[^ref-16]: [Amazon – Hoyle Backgammon and Cribbage customer reviews](https://www.amazon.com/Hoyle-Backgammon-Cribbage-PC-Mac/product-reviews/B00001JZMQ?reviewerType=all_reviews) – verified-purchase customer feedback for the 1999 PC/Mac release
+[^ref-17]: [eBay – Vintage Hoyle Classic Backgammon & Cribbage (PC 1999)](https://www.ebay.com/itm/356902899968) – physical media listing documenting original 1999 retail packaging
+[^ref-18]: [Internet Archive – Hoyle Classic Games](https://archive.org/details/hoyle-classic-games) – Sierra preservation collection including Backgammon & Cribbage variants
+[^ref-19]: [Internet Archive – Hoyle Classic Games '98 (USA)](https://archive.org/details/hoyle-classic-games-98-usa) – preceding-year Hoyle Classic Games compilation providing series continuity context
+[^ref-20]: [Software Informer – Hoyle Backgammon & Cribbage](https://hoyle-backgammon-cribbage.software.informer.com/) – download repository entry with technical specifications and user ratings
+[^ref-21]: [GameFAQs – Hoyle franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise-level catalog of Sierra's Hoyle releases
+[^ref-22]: [GameFAQs – Hoyle Board Games (review)](https://gamefaqs.gamespot.com/pc/562390-hoyle-board-games/reviews/76927) – contemporary review of sister Hoyle title establishing series critical context
