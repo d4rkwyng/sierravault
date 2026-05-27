@@ -10,22 +10,22 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-05-27'
 description: Hoyle Puzzle Games 2004 is a compilation of puzzle and arcade games developed
   and published by Sierra On-Line, released on September 2, 2003 for Windows PC....
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Puzzle Games 2004
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: May 27, 2026</small>
 
 ## Overview
 
-Hoyle Puzzle Games 2004 is a compilation of puzzle and arcade games developed and published by [[Sierra On-Line]], released on September 2, 2003 for Windows PC[^ref-1][^ref-3][^ref-6][^ref-19][^ref-20][^ref-21][^ref-22][^ref-23][^ref-24]. The collection features 17 action-packed puzzle games designed to exercise players' problem-solving skills through a diverse range of gameplay styles[^ref-4]. Building upon the success of previous Hoyle titles, this edition introduced two new puzzle games—Rays and Word Searches—while retaining beloved classics from the series[^ref-4].
+Hoyle Puzzle Games 2004 is a compilation of puzzle and arcade games developed and published by [[Sierra On-Line]], released on September 2, 2003 for Windows PC[^ref-1][^ref-3][^ref-6][^ref-20][^ref-21][^ref-22][^ref-23][^ref-24][^ref-25][^ref-27]. The collection features 17 action-packed puzzle games designed to exercise players' problem-solving skills through a diverse range of gameplay styles[^ref-4]. Building upon the success of previous Hoyle titles, this edition introduced two new puzzle games—Rays and Word Searches—while retaining beloved classics from the series[^ref-4].
 
 The game combines arcade excitement with traditional puzzle challenges, offering something for every type of player[^ref-3]. Players can challenge themselves with crossword puzzles, word searches, and a variety of tile-based games, all featuring high score tracking and adjustable skill levels[^ref-6]. The collection includes a notable bonus feature: The Incredible Machine: Even More Contraptions, adding significant value to the package[^ref-7].
 
-A standout feature of Hoyle Puzzle Games 2004 is the Facemaker Tool, which allows players to create unique-looking characters from hundreds of customizable features[^ref-6]. The game also includes a free Hoyle Rulebook and Strategy Guide, along with the ability to save and print completed word searches and crossword puzzles as proof of puzzle-solving prowess[^ref-6][^ref-8].[^ref-16][^ref-17][^ref-18]
+A standout feature of Hoyle Puzzle Games 2004 is the Facemaker Tool, which allows players to create unique-looking characters from hundreds of customizable features[^ref-6]. The game also includes a free Hoyle Rulebook and Strategy Guide, along with the ability to save and print completed word searches and crossword puzzles as proof of puzzle-solving prowess[^ref-6][^ref-8].
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-1]
@@ -128,7 +128,7 @@ The 1,000 word puzzles included in the collection, particularly the crossword pu
 
 ### Technical Achievements
 
-Hoyle Puzzle Games (2004) introduced **two new puzzle types — Rays and Word Searches** — to the Hoyle Puzzle Games lineup, requiring new engine work alongside the existing puzzle framework[^ref-4][^ref-8]. The compilation packaged **1,000 word puzzles** including a substantial crossword collection, demanding real content-creation investment beyond the engine itself[^ref-8]. The release continued the value-bundled distribution pattern by **including The Incredible Machine: Even More Contraptions as a complete bonus title** — effectively shipping 16+ games in a single SKU[^ref-7]. The Facemaker avatar layer offered "hundreds of features" worth of customization, demonstrating Sierra's continued investment in the cross-product avatar persistence system that distinguished the Hoyle line from competing casual compilations[^ref-6][^ref-16].
+Hoyle Puzzle Games (2004) introduced **two new puzzle types — Rays and Word Searches** — to the Hoyle Puzzle Games lineup, requiring new engine work alongside the existing puzzle framework[^ref-4][^ref-8][^ref-26][^ref-28]. The compilation packaged **1,000 word puzzles** including a substantial crossword collection, demanding real content-creation investment beyond the engine itself[^ref-8]. The release continued the value-bundled distribution pattern by **including The Incredible Machine: Even More Contraptions as a complete bonus title** — effectively shipping 16+ games in a single SKU[^ref-7]. The Facemaker avatar layer offered "hundreds of features" worth of customization, demonstrating Sierra's continued investment in the cross-product avatar persistence system that distinguished the Hoyle line from competing casual compilations[^ref-6].
 
 ### Technical Specifications
 
@@ -289,13 +289,13 @@ While not a groundbreaking title, Hoyle Puzzle Games 2004 served its intended pu
 [^ref-10]: [RAWG.io – Hoyle Puzzle Games 2004](https://rawg.io/games/hoyle-puzzle-games-2004) – release date, developer, publisher, rankings, website
 [^ref-11]: [HAT.net – Hoyle Puzzle Games 2004](http://www.hat.net/gadgets////computer_and_video_games.pc_games.classic_games_and_retro_arcade.board_games/hoyle_puzzle_games_2004/) – release date, sales rank, CD requirement
 [^ref-12]: [PCReview Forums – Hoyle Puzzle Games 2004](https://www.pcreview.co.uk/threads/hoyle-puzzle-games-2004.510229/) – technical issues, compatibility problems, troubleshooting
-[^ref-13]: [Best Buy – Hoyle Puzzle Games 2004](https://www.bestbuy.com/site/hoyle-puzzle-games-2004-windows/5884457.p?skuId=5884457) – retail availability, platform[^ref-15]: [Giant Bomb - Hoyle Puzzle](https://www.giantbomb.com/) - wiki
-[^ref-16]: [IGDB - Hoyle Puzzle](https://www.igdb.com/) - IGDB
-[^ref-17]: [MobyGames - Hoyle](https://www.mobygames.com/) - database
-[^ref-18]: [GameFAQs - Hoyle](https://gamefaqs.gamespot.com/) - database
-[^ref-19]: [UVList - Hoyle](https://www.uvlist.net/) - Universal List
+[^ref-13]: [Best Buy – Hoyle Puzzle Games 2004](https://www.bestbuy.com/site/hoyle-puzzle-games-2004-windows/5884457.p?skuId=5884457) – retail availability, platform
 [^ref-20]: [LaunchBox Games Database – Hoyle Puzzle Games 2004](https://gamesdb.launchbox-app.com/games/details/hoyle-puzzle-games-2004) — community-curated metadata, cover-art reference, Windows platform tagging
 [^ref-21]: [PCGamingWiki – Hoyle Puzzle Games 2004](https://www.pcgamingwiki.com/wiki/Hoyle_Puzzle_Games) — technical documentation, modern-OS install notes
 [^ref-22]: [Old Games Finder – Hoyle Puzzle Games 2004](https://www.oldgamesfinder.com/hoyle-puzzle-games-2004/) — abandonware preservation archive, ISO metadata
 [^ref-23]: [Adventure Classic Gaming – Sierra Hoyle franchise retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Sierra's 2004 Hoyle portfolio
 [^ref-24]: [Sierra Chest – Hoyle Puzzle Games 2004 product page](https://sierrachest.com/index.php?a=games&id=818) — packaging archive, release-info documentation
+[^ref-25]: [Internet Archive – Sierra Hoyle Puzzle Games 2004 (Windows English)](https://archive.org/details/Sierra_Hoyle_Puzzle_Games_2004_-_Windows_Eng) — preserved Windows ISO of the 2004 release with packaging metadata
+[^ref-26]: [GameZone – Hoyle Puzzle Games 2004 PC Review](https://gamezone.com/reviews/hoyle_puzzle_games_2004_pc_review/) — contemporary critical review with gameplay analysis and value assessment
+[^ref-27]: [MobyGames – Hoyle Table Games 2004 (2003)](https://www.mobygames.com/game/13166/hoyle-table-games-2004/) — sister product in the 2003-released Hoyle 2004 portfolio (Table Games shipped alongside Puzzle Games)
+[^ref-28]: [MobyGames – Hoyle Puzzle Games 2005](https://www.mobygames.com/game/178235/hoyle-puzzle-games-2005/) — direct sequel establishing the Puzzle Games sub-line continuity
