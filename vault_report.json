@@ -2854,7 +2854,7 @@
       "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 21,
+      "ref_count": 20,
       "issues": []
     },
     {
@@ -5079,7 +5079,7 @@
       "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 23,
+      "ref_count": 21,
       "issues": []
     },
     {
