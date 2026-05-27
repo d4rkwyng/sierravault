@@ -10,14 +10,14 @@ series: Adibou
 engine: RenderWare
 protagonist: Adiboo
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-05-11'
+last_updated: '2026-05-27'
 description: Adiboo & Paziral's Secret is a 3D action-adventure platform game released
   in 2003 for PlayStation and 2004 for Windows PC. Developed jointly by Coktel...
 tags: [2000s, adibou, coktel, racing, sierra]
 ---
 # Adiboo & Paziral's Secret
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 27, 2026</small>
 
 ## Overview
 
@@ -243,9 +243,9 @@ The favorable comparison to Crash Bandicoot, while perhaps generous, indicates t
 [^ref-12]: [RomsFun – Adiboo Paziral's Secret](https://romsfun.com/roms/playstation/adiboo-pazirals-secret.html) – file size, developer credits
 [^ref-13]: [GEX.co.uk – PS1 Games](https://gex.co.uk/sell-ps1-games-for-cash/14740-11014-adiboo-paziral-s-secret.html) – product identifier, platform confirmation
 [^ref-14]: [Honest Gamers – Adiboo Paziral's Secret](https://www.honestgamers.com/46661/playstation/adiboo-pazirals-secret/game.html) – release date, developer, publisher confirmation
-[^ref-15]: [Giant Bomb - Adiboo](https://www.giantbomb.com/) – wiki entry and game database
-[^ref-16]: [IGDB - Adiboo Paziral's Secret](https://www.igdb.com/) – game database entry
-[^ref-17]: [GameFAQs - Adiboo](https://gamefaqs.gamespot.com/) – platform and release information
+[^ref-15]: [Giant Bomb – Adiboo & Paziral's Secret](https://www.giantbomb.com/adiboo-pazirals-secret/3030-66363/) – wiki entry, developer/publisher, PlayStation/PC platform data
+[^ref-16]: [IGDB – Adiboo & Paziral's Secret (2003)](https://www.igdb.com/games/adiboo-and-pazirals-secret) – game database entry, release year, platforms
+[^ref-17]: [GameFAQs – Adiboo & Paziral's Secret (PlayStation)](https://gamefaqs.gamespot.com/ps/919091-adiboo-and-pazirals-secret) – PlayStation release information
 [^ref-18]: [PlayStation Store Archives](https://store.playstation.com/) – historical product listing
 [^ref-19]: [Coktel Vision Wiki](https://en.wikipedia.org/wiki/Coktel_Vision) – developer background
 [^ref-20]: [Vivendi Games Archives](https://en.wikipedia.org/wiki/Vivendi_Games) – publisher information
