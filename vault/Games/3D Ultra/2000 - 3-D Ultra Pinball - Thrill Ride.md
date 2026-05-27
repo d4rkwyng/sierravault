@@ -10,7 +10,7 @@ series: 3-D Ultra Pinball
 engine: 3D Ultra Pinball Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-27'
 description: '3-D Ultra Pinball: Thrillride is a pinball simulation game developed
   by Dynamix and published by Sierra On-Line in 2000 for Windows and Macintosh platforms,...'
 tags: [2000s, 3-d-ultra-pinball, sierra]
@@ -18,18 +18,18 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra Pinball: Thrillride
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 27, 2026</small>
 
 ## Overview
 
-3-D Ultra Pinball: Thrillride is a pinball simulation game developed by [[Dynamix]] and published by [[Sierra On-Line]] in 2000 for Windows and Macintosh platforms, with a Game Boy Color version developed by Left Field Productions[^ref-1]. The game represents the fifth and final entry in Sierra's popular 3-D Ultra Pinball franchise, following the previous title 3-D Ultra NASCAR Pinball[^ref-2]. Featuring an amusement park theme based on Pennsylvania's Hersheypark, the game combines traditional pinball mechanics with colorful ride-themed attractions and multiple tables[^ref-3].
+3-D Ultra Pinball: Thrillride is a pinball simulation game developed by [[Dynamix]] and published by [[Sierra On-Line]] in 2000 for Windows and Macintosh platforms, with a Game Boy Color version developed by Left Field Productions[^ref-1][^ref-19]. The game represents the fifth and final entry in Sierra's popular 3-D Ultra Pinball franchise, following the previous title 3-D Ultra NASCAR Pinball[^ref-2][^ref-20]. Featuring an amusement park theme based on Pennsylvania's Hersheypark, the game combines traditional pinball mechanics with colorful ride-themed attractions and multiple tables[^ref-3].
 
 The game was developed as part of a partnership between Sierra, Dynamix, and the Hershey chocolate company, promoting Hersheypark's attractions including their new Lightning Racer coaster by Great Coasters International[^ref-2]. Nothing captures the excitement of amusement parks and the fun of pinball quite like this title, which offers 15 different rides including two mini-tables, Night-time Fantasy mode, and plenty of special surprises[^ref-4]. With its Disney-like fun graphics and gameplay, the ball travels through roller coaster loops, waterfalls, and cascades in a vibrant amusement park setting[^ref-5].
 
-Despite receiving mixed critical reviews that praised its visual presentation while criticizing its lack of difficulty and replay value, the game developed a devoted fanbase who appreciated its accessible gameplay and charming theme park atmosphere[^ref-6]. The title was later republished in Europe by Empire Interactive under their Xplosiv budget label in 2003[^ref-4].[^ref-13][^ref-14][^ref-15]
+Despite receiving mixed critical reviews that praised its visual presentation while criticizing its lack of difficulty and replay value, the game developed a devoted fanbase who appreciated its accessible gameplay and charming theme park atmosphere[^ref-6]. The title was later republished in Europe by Empire Interactive under their Xplosiv budget label in 2003[^ref-4]. The game is documented across multiple gaming databases including Giant Bomb[^ref-13], IGDB[^ref-14], and GameFAQs[^ref-15].
 
 > [!info]- Game Info
-> **Developer:** [[Dynamix]] (PC/Mac), Left Field Productions (Game Boy Color)[^ref-1]
+> **Developer:** [[Dynamix]] (PC/Mac), Left Field Productions (Game Boy Color)[^ref-1][^ref-16]
 > **Designer:** Unknown
 > **Publisher:** [[Sierra On-Line]], Empire (UK budget release)[^ref-4]
 > **Engine:** Unknown (PC), Same engine as [[Disney]]'s Little Mermaid Pinball (GBC)[^ref-7]
@@ -267,5 +267,8 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 [^ref-13]: [Giant Bomb](https://www.giantbomb.com/3-d-ultra-pinball-thrillride/3030-18093/) – game database with wiki info
 [^ref-14]: [IGDB](https://www.igdb.com/games/3-d-ultra-pinball-thrillride) – Internet Game Database entry
 [^ref-15]: [GameFAQs](https://gamefaqs.gamespot.com/pc/196472-3-d-ultra-pinball-thrillride) – game database entry
+[^ref-16]: [MobyGames – 3-D Ultra Pinball: Thrill Ride (PC) credits](https://www.mobygames.com/game/935/3-d-ultra-pinball-thrill-ride/credits/) – Development team credits, Dynamix and Left Field Productions attribution
 [^ref-17]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/3-D_Ultra_Pinball:_Thrillride) – technical compatibility
 [^ref-18]: [GOG Dreamlist](https://www.gog.com/dreamlist) – community requests
+[^ref-19]: [MobyGames – 3-D Ultra Pinball: Thrill Ride (PC)](https://www.mobygames.com/game/935/3-d-ultra-pinball-thrill-ride/) – game metadata, platform releases, alternate-title information
+[^ref-20]: [Kotaku – 3-D Ultra Pinball: Thrillride](https://kotaku.com/games/3-d-ultra-pinball-thrillride) – database entry with game overview and features list
