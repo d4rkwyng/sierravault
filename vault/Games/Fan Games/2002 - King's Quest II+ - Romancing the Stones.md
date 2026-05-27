@@ -10,7 +10,7 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: King Graham
 sierra_lineage: Fan Project
-last_updated: '2026-05-14'
+last_updated: '2026-05-27'
 description: 'King''s Quest II: Romancing the Stones is a fan-made remake of Sierra''s
  1985 classic *King''s Quest II: Romancing the Throne*, developed and released by
  AGD...'
@@ -18,7 +18,7 @@ tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest II: Romancing the Stones
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: May 27, 2026</small>
 
 ## Overview
 
@@ -172,7 +172,7 @@ Romancing the Stones itself represents one of the most significant fan projects 
 
 King's Quest II: Romancing the Stones stands as a landmark achievement in fan game development, demonstrating that dedicated amateur teams could produce work rivaling commercial releases in quality and scope[^ref-1]. The project addressed legitimate criticisms of the original 1985 game—particularly its thin narrative and reliance on fairy tale tropes without deeper development—by creating a substantially expanded experience that better served the King's Quest legacy[^ref-4].
 
-The remake's significance extends beyond its individual merits to represent a broader movement of fan preservation and enhancement of classic adventure games during a period when the commercial genre had largely gone dormant[^ref-2]. AGD Interactive's work helped keep interest in Sierra's adventure games alive during the early 2000s, contributing to the eventual nostalgia-driven revival of the genre. The project remains freely available today, serving as both an accessible entry point for newcomers to the King's Quest series and a nostalgic reimagining for longtime fans[^ref-3]. The game is extensively documented in gaming databases and fan communities.[^ref-10][^ref-11][^ref-12][^ref-13][^ref-14][^ref-15][^ref-16][^ref-17]
+The remake's significance extends beyond its individual merits to represent a broader movement of fan preservation and enhancement of classic adventure games during a period when the commercial genre had largely gone dormant[^ref-2]. AGD Interactive's work helped keep interest in Sierra's adventure games alive during the early 2000s, contributing to the eventual nostalgia-driven revival of the genre. The project remains freely available today, serving as both an accessible entry point for newcomers to the King's Quest series and a nostalgic reimagining for longtime fans[^ref-3]. The game is extensively documented in gaming databases and fan communities.[^ref-10][^ref-11][^ref-12][^ref-13][^ref-14][^ref-16][^ref-17]
 
 ## Purchase
 
@@ -224,15 +224,14 @@ The remake's significance extends beyond its individual merits to represent a br
 [^ref-7]: [Abandonware DOS – King's Quest II+ Romancing the Stones](https://www.abandonwaredos.com/abandonware-game.php?abandonware=King%27s+Quest+II%2B+Romancing+the+Stones) – preservation, download availability
 [^ref-8]: [Internet Archive – King's Quest II Search Results](https://archive.org/search?query=King%27s+Quest+II%2B+Romancing+the+Stones+sierra) – archival preservation, historical documentation: [Giant Bomb - King's Quest II: Romancing the Stones](https://www.giantbomb.com/kings-quest-ii-romancing-the-stones/3030-24287/) - game wiki entry
 [^ref-10]: [IGDB - King's Quest II: Romancing the Stones](https://www.igdb.com/games/kings-quest-ii-romancing-the-stones) - Internet Games Database entry
-[^ref-11]: [Hardcore Gaming 101 - AGD Interactive](https://web.archive.org/web/*/http://www.hardcoregaming101.net/agd-interactive/) - retrospective on AGD's remakes
+[^ref-11]: [Hardcore Gaming 101 - King's Quest II: Romancing the Throne / Stones](https://www.hardcoregaming101.net/kings-quest-ii-romancing-the-throne/) - retrospective covering AGD Interactive's 2002 remake, story changes, and reception
 [^ref-12]: [Sierra Wiki - King's Quest II VGA](https://wiki.sierrahelp.com/index.php/King%27s_Quest_II_VGA) - Sierra community documentation
 [^ref-13]: [GameFAQs - King's Quest II VGA](https://gamefaqs.gamespot.com/pc/562815-kings-quest-ii-romancing-the-stones) - game database entry
-[^ref-14]: [Just Adventure - King's Quest II VGA Review](https://web.archive.org/web/*/https://www.justadventure.com/2002/12/01/kings-quest-ii-romancing-the-stones/) - contemporary review
-[^ref-15]: [AdventureGamers Forum - KQ2 VGA Discussion](https://web.archive.org/web/*/https://adventuregamers.com/forums/) - community discussion
+[^ref-14]: [Metzomagic - King's Quest II: Romancing the Stones Review](https://www.metzomagic.com/showArticle.php?index=463) - contemporary fan-press review awarding 4/5 stars
 [^ref-16]: [ScummVM - AGD Interactive Games](https://www.scummvm.org/) - compatibility information
-[^ref-17]: [UVList - King's Quest II Romancing the Stones](https://www.uvlist.net/) - Universal Videogame List entry
+[^ref-17]: [UVList - About King's Quest II: Romancing the Stones](https://www.uvlist.net/forum/thread/9019) - UVList community thread describing the AGD remake
 [^ref-18]: [AGD Interactive official site](https://www.agdinteractive.com/) — primary developer/distribution channel for the fan remake
-[^ref-19]: [Tierra Entertainment archive (AGD Interactive predecessor)](https://web.archive.org/web/*/tierra-entertainment.com) — historical archive of AGD's original "Tierra Entertainment" identity used during the 2002 release
+[^ref-19]: [DOS Games Archive - Tierra Entertainment / AGD Interactive profile](https://www.dosgamesarchive.com/profile/tierra-entertainment---agd-interactive) — developer profile documenting Tierra Entertainment's rebrand to AGD Interactive and their KQ1/KQ2 fan remakes
 [^ref-20]: [LaunchBox Games Database – King's Quest II VGA](https://gamesdb.launchbox-app.com/games/details/kings-quest-ii-romancing-the-stones) — community-curated metadata, cover-art reference, Windows platform
 [^ref-21]: [Adventure Classic Gaming – AGD Interactive retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for the AGD Interactive fan-remake studio
 [^ref-22]: [Quest for Glory IV fan-remake archive notes](https://www.questforglory.com/) — related Sierra fan-remake community context
