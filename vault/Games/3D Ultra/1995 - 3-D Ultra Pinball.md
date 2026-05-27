@@ -187,7 +187,7 @@ Ron Dulin of GameSpot articulated the distinction between simulation-focused pin
 
 As Ian Koss of Ink19 observed, "The thought of porting pinball to a computer monitor has always left me a bit uneasy. Pinball is as much a tactile experience as it is a test of your reflexes"[^ref-13]. He concluded that while physical sensations cannot be duplicated, Sierra succeeded by "concentrating instead on those that cannot be done in a physical universe"[^ref-13]. This philosophy—embracing digital possibilities rather than mourning physical limitations—defined the series and influenced subsequent fantasy pinball games.
 
-The game's accessibility also drew note, though not always positively[^ref-16]. GameSpot observed that the simplified physics made the game "simply too easy," with one reviewer noting their "first game lasted more than 30 minutes before I finally quit out, and I was only on ball two"[^ref-15][^ref-17]. This accessibility, however, may have contributed to the series' commercial success and family-friendly appeal.
+The game's accessibility also drew note, though not always positively. GameSpot observed that the simplified physics made the game "simply too easy," with one reviewer noting their "first game lasted more than 30 minutes before I finally quit out, and I was only on ball two"[^ref-15][^ref-17]. This accessibility, however, may have contributed to the series' commercial success and family-friendly appeal.
 
 ## Purchase
 
@@ -241,8 +241,7 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 [^ref-13]: [Ink19 - 3D Ultra Pinball: The Lost Continent](https://ink19.com/1997/12/magazine/reviews/game/3d-ultra-pinball-the-lost-continent) — Series philosophy review
 [^ref-14]: [MobyGames – 3-D Ultra Pinball: Thrillride Game Boy Color reviews](https://www.mobygames.com/game/19207/3-d-ultra-pinball-thrillride/reviews/game-boy-color/) — Game Boy Color port review aggregate, ~5/10 score tier (replaces dead IGN URL — IGN's 2001 article catalog is no longer accessible)
 [^ref-15]: [GameSpot - 3D Ultra Pinball: Thrillride](https://www.gamespot.com/reviews/3d-ultra-pinball-thrillride-review/1900-2545853/) — Series accessibility discussion
-[^ref-16]: [AllGame - 3-D Ultra Pinball](https://www.allgame.com/game.php?id=12345) — Game difficulty assessment
-
+[^ref-16]: [Wikipedia – 3-D Ultra Pinball: Creep Night](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball:_Creep_Night) — Sequel article with critical reception data establishing series accessibility patterns (replaces fabricated AllGame placeholder)
 [^ref-17]: [Computer Gaming World - Pinball Review Roundup](https://archive.org/details/Computer_Gaming_World_Issue_150) — Physics comparison with Pro Pinball series
 [^ref-18]: [Wikipedia – 3-D Ultra Pinball](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball) — Series overview describing animation, multi-table simultaneity, and "temporary targets" mechanic; series sales figure of half a million copies by 1998
 [^ref-19]: [BunnyGamer – 3D Ultra Pinball: ThrillRide first impressions](https://bunnygamer.com/3d-ultra-pinball-thrillride-game-first-impressions/) — ElbinoBunny retrospective (September 2017) containing the verbatim "Sierra read my first impressions review from the future" quote
