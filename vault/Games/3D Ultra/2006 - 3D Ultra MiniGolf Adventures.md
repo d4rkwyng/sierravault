@@ -10,7 +10,7 @@ series: 3D Ultra Minigolf
 engine: Wanako Engine
 protagonist: Customizable Golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-05-27'
 description: 3D Ultra Minigolf Adventures is an arcade-style miniature golf video
   game developed by Wanako Games and published by Vivendi Games under the Sierra On-Line...
 tags: [2000s, 3d-ultra-minigolf, sierra]
@@ -18,18 +18,18 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3D Ultra Minigolf Adventures
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: May 27, 2026</small>
 
 ## Overview
 
-3D Ultra Minigolf Adventures is an arcade-style miniature golf video game developed by Wanako Games and published by Vivendi Games under the Sierra On-Line label.[^ref-1] Released on December 20, 2006 for Microsoft Windows and April 18, 2007 for Xbox 360, the game marked the return of Sierra's popular minigolf franchise after nearly a decade of dormancy.[^ref-2] The title focuses on arcade elements rather than simulation-style miniature golf gameplay, offering players wacky and imaginative courses set across three distinct themed environments.[^ref-1]
+3D Ultra Minigolf Adventures is an arcade-style miniature golf video game developed by Wanako Games and published by Vivendi Games under the Sierra On-Line label.[^ref-1][^ref-16] Released on December 20, 2006 for Microsoft Windows and April 18, 2007 for Xbox 360, the game marked the return of Sierra's popular minigolf franchise after nearly a decade of dormancy.[^ref-2] The title focuses on arcade elements rather than simulation-style miniature golf gameplay, offering players wacky and imaginative courses set across three distinct themed environments.[^ref-1]
 
 The game features 36 fun-filled holes spread across courses themed around a Wild West ghost town, a classic carnival, and outer space.[^ref-3] Players can choose from four animated stylish characters and putt their way through 3D designed courses featuring elevated greens, bunkers, bridges, water hazards, and numerous crazy obstacles.[^ref-4] One of the standout features is the comprehensive course editor, which allows players to customize all aspects of their own courses, including the ability to place hazards and power-ups in any location.[^ref-1]
 
-Beyond single-player tournament modes, 3D Ultra Minigolf Adventures supports multiplayer gameplay for up to four players both locally and online.[^ref-5] The multiplayer experience introduces competitive power-ups that can knock opponents' balls off course, adding a layer of strategic depth and opportunities for friendly rivalries.[^ref-6] Despite receiving mixed reviews for its physics and camera systems, the game found an audience as an accessible casual multiplayer experience on Xbox Live Arcade.[^ref-7]
+Beyond single-player tournament modes, 3D Ultra Minigolf Adventures supports multiplayer gameplay for up to four players both locally and online.[^ref-5] The multiplayer experience introduces competitive power-ups that can knock opponents' balls off course, adding a layer of strategic depth and opportunities for friendly rivalries.[^ref-6] Despite receiving mixed reviews for its physics and camera systems, the game found an audience as an accessible casual multiplayer experience on Xbox Live Arcade.[^ref-7][^ref-20]
 
 > [!info]- Game Info
-> **Developer:** Wanako Games[^ref-1]
+> **Developer:** Wanako Games[^ref-1][^ref-17]
 > **Designer:** Unknown
 > **Publisher:** Vivendi Games / Sierra On-Line[^ref-1]
 > **Engine:** Unknown
@@ -43,7 +43,7 @@ Beyond single-player tournament modes, 3D Ultra Minigolf Adventures supports mul
 
 3D Ultra Minigolf Adventures does not feature a traditional narrative story. Instead, the game presents players with three thematically distinct courses that serve as imaginative backdrops for the miniature golf experience.[^ref-1] Each course environment tells its own visual story through detailed environments and interactive elements.
 
-The Old West course transports players to a frontier ghost town complete with saloons, rattlesnakes, and scorpions that interact with gameplay.[^ref-8] Players navigate their balls through explosive barrels, outhouses filled with dynamite, and various western-themed obstacles that bring the setting to life.[^ref-8] The course captures the rugged atmosphere of the American frontier with its wooden structures and desert hazards.[^ref-3]
+The Old West course transports players to a frontier ghost town complete with saloons, rattlesnakes, and scorpions that interact with gameplay.[^ref-8][^ref-19] Players navigate their balls through explosive barrels, outhouses filled with dynamite, and various western-themed obstacles that bring the setting to life.[^ref-8] The course captures the rugged atmosphere of the American frontier with its wooden structures and desert hazards.[^ref-3]
 
 The Classic Carnival course recreates the nostalgic atmosphere of a bustling amusement park with rides and games serving as obstacles.[^ref-9] Players encounter elements like pirate ship rides and even a giant pinball machine where they must guide their ball using flippers to reach the hole.[^ref-9] The setting evokes memories of childhood birthday parties and arcade experiences.[^ref-9]
 
@@ -95,7 +95,7 @@ Course hazards include interactive elements like scorpions that push balls aroun
 
 ### Contemporary Reviews
 
-3D Ultra Minigolf Adventures received mixed to average reviews upon release. IGN awarded the Xbox 360 version a score of 7.5/10, praising the wacky hole designs as "a 10-year-old course designer's dream" while noting that single-player options were "very thin."[^ref-9] The reviewer highlighted creative holes including a pirate ship ride obstacle and a giant playable pinball machine.[^ref-9]
+3D Ultra Minigolf Adventures received mixed to average reviews upon release.[^ref-18] IGN awarded the Xbox 360 version a score of 7.5/10, praising the wacky hole designs as "a 10-year-old course designer's dream" while noting that single-player options were "very thin."[^ref-9] The reviewer highlighted creative holes including a pirate ship ride obstacle and a giant playable pinball machine.[^ref-9]
 
 X-ONE Magazine UK gave the game an 80/100, though strongly advised players to "turn the bloody sound off."[^ref-7] The New York Times scored the title 74/100, finding it fun but criticized the single-player mode as "terribly brief," noting the reviewer "played through all three courses a couple of times and found the hole-in-one technique for most holes in well under three hours."[^ref-7]
 
@@ -244,3 +244,8 @@ The game is perhaps best remembered as a competent but unremarkable entry in the
 [^ref-13]: [TrueAchievements – 3D Ultra Minigolf Adventures Reviews](https://www.trueachievements.com/game/3D-Ultra-Minigolf-Adventures/reviews) – achievement guidance, save system exploit
 [^ref-14]: [IGN – 3D Ultra Minigolf Adventures](https://www.ign.com/games/3d-ultra-minigolf-adventures) – HowLongToBeat data, Dolby Digital support, Vivendi acquisition news
 [^ref-15]: [Steam Search Results](https://store.steampowered.com/search/?term=3D+Ultra+MiniGolf+Adventures) – Steam release date July 23, 2009
+[^ref-16]: [MobyGames – 3D Ultra Minigolf Adventures](https://www.mobygames.com/game/2295/3d-ultra-minigolf-adventures/) – game database entry with developer, publisher, platform release information
+[^ref-17]: [MobyGames – 3D Ultra Minigolf Adventures credits](https://www.mobygames.com/game/2295/3d-ultra-minigolf-adventures/credits/) – Development team attribution including Wanako Games staff
+[^ref-18]: [MobyGames – 3D Ultra Minigolf Adventures reviews](https://www.mobygames.com/game/2295/3d-ultra-minigolf-adventures/reviews/) – Aggregate critic and player review scores
+[^ref-19]: [MobyGames – 3D Ultra Minigolf Adventures screenshots](https://www.mobygames.com/game/2295/3d-ultra-minigolf-adventures/screenshots/) – Visual documentation of Wild West, Carnival, and Outer Space courses
+[^ref-20]: [Steam Community – 3D Ultra Minigolf Adventures](https://steamcommunity.com/app/10140) – Player community discussions and modern playability reports
