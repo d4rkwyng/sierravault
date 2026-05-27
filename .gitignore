@@ -59,3 +59,4 @@ vault/.obsidian/workspace-mobile.json
 # Quality daemon state files
 scripts/quality_results.jsonl
 scripts/quality_state.json
+docs/refs_audit.json
