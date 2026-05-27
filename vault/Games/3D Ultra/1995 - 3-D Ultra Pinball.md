@@ -10,7 +10,7 @@ series: 3-D Ultra Pinball
 engine: Custom Pinball Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-05-27'
 composer: [LoudMouth Productions]
 description: 3-D Ultra Pinball is a pinball simulation game developed by Dynamix and
   published by Sierra On-Line in 1995. The game represented Sierra's first major entry...
@@ -19,7 +19,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra Pinball
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: May 27, 2026</small>
 
 ## Overview
 
@@ -46,7 +46,7 @@ The 3-D Ultra Pinball series went on to sell more than half a million copies by 
 
 3-D Ultra Pinball utilizes standard pinball controls with keyboard input for flipper operation[^ref-8]. The game supports multiplayer modes with same/split-screen capability for up to four players[^ref-1]. Players control left and right flippers to keep the ball in play while attempting to hit various targets, ramps, and special features across the tables.
 
-The games in the series attempt to escape from traditional arcade pinball conventions, featuring animation, multiple tables accessible at once, and "temporary targets" such as spaceships, goblins, and dinosaurs appearing throughout the table[^ref-4]. This approach to pinball design creates a unique hybrid experience between traditional pinball mechanics and video game fantasy elements.
+The games in the series attempt to escape from traditional arcade pinball conventions, featuring animation, multiple tables accessible at once, and "temporary targets" such as spaceships, goblins, and dinosaurs appearing throughout the table[^ref-4][^ref-18]. This approach to pinball design creates a unique hybrid experience between traditional pinball mechanics and video game fantasy elements.
 
 ### Structure and Progression
 
@@ -63,7 +63,7 @@ Players can warp between tables during gameplay, creating a quest-like mode that
 
 The gameplay incorporates fantasy pinball mechanics that would be impossible in a real physical machine[^ref-3]. Tanks can attack the ball during play, comets can fly in and create craters in the middle of the board, and various animated elements interact with gameplay in ways that defy physics[^ref-3]. The mode-based gameplay structure encourages players to complete specific objectives across the interconnected tables[^ref-9].
 
-Despite the innovative design, some critics noted that the physics were subpar and shot paths were predictable enough that "you can actually know when you are about to lose the ball way before it's over"[^ref-9]. One reviewer observed that "once you learn the patterns, you will never die, because you will know exactly where the ball is going"[^ref-9].
+Despite the innovative design, some critics noted that the physics were subpar and shot paths were predictable enough that "you can actually know when you are about to lose the ball way before it's over"[^ref-9][^ref-20]. One reviewer observed that "once you learn the patterns, you will never die, because you will know exactly where the ball is going"[^ref-9][^ref-20].
 
 ## Reception
 
@@ -167,7 +167,7 @@ The series maintained consistent quality throughout its run. Creep Night was pra
 
 The Lost Continent was described as "a fairly good interpretation of a classic game of skill," with critics noting that "Sierra has maintained a good balance by giving up on the things that cannot be duplicated and concentrating instead on those that cannot be done in a physical universe"[^ref-13].
 
-Thrillride received particularly enthusiastic reception from fans, with one reviewer noting "It almost seems as if Sierra read my first impressions review from the future when they created 3D Ultra Pinball: ThrillRide. Every complaint I had regarding the previous game has been corrected in this game"[^ref-8]. The reviewer continued: "It brought a smile to my face within the first several seconds of playing; a smile that stayed with me throughout the duration of the game"[^ref-8].
+Thrillride received particularly enthusiastic reception from fans, with one reviewer noting "It almost seems as if Sierra read my first impressions review from the future when they created 3D Ultra Pinball: ThrillRide. Every complaint I had regarding the previous game has been corrected in this game"[^ref-8][^ref-19]. The reviewer continued: "It brought a smile to my face within the first several seconds of playing; a smile that stayed with me throughout the duration of the game"[^ref-8][^ref-19].
 
 ### Game Boy Color Port
 
@@ -230,7 +230,7 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 [^ref-2]: [NewTechReview - 3D Ultra Pinball Review](https://newtechreview.com/reviews/3d-ultra-pinball/) — Review praising Sierra's impact on PC pinball
 [^ref-3]: [GameSpot - 3-D Ultra Pinball](https://www.gamespot.com/games/3-d-ultra-pinball/) — Contemporary coverage of fantasy pinball mechanics
 [^ref-4]: [Sierra Sales Report 1998](https://web.archive.org/web/*/https://archive.org/details/sierra-annual-report-1998) — Series sales exceeding 500,000 copies
-[^ref-5]: [MobyGames – 3-D Ultra Pinball series page](https://www.mobygames.com/game/4508/3-d-ultra-pinball/) — Overview of series as best-selling pinball franchise (replaces dead IGN URL — IGN games database paths have been restructured)
+[^ref-5]: [Internet Archive – 3-D Ultra Pinball: The Lost Continent (1997)](https://archive.org/details/3-d-ultra-pinball-the-lost-continent-win-mac-sierra-on-line-inc.-1997) — Sierra's preservation entry containing original marketing copy: "bestselling pinball series of all time," "15 interlinked tables," and the Thrustmaster Wizard / Sidewinder / Gravis Gripp controller list
 [^ref-6]: [MyAbandonware - 3-D Ultra Pinball](https://www.myabandonware.com/game/3-d-ultra-pinball-3fg) — Preservation download with 4.78/5 user rating
 [^ref-7]: [Internet Archive - 3-D Ultra Pinball](https://archive.org/details/3-D_Ultra_Pinball_Sierra_On-Line_S676430_1995) — Preservation copy with documentation
 [^ref-8]: [PC Gamer - 3D Ultra Pinball Thrillride Review](https://archive.org/details/pc-gamer-us-2000) — Review of series evolution and physics improvements
@@ -243,4 +243,7 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 [^ref-15]: [GameSpot - 3D Ultra Pinball: Thrillride](https://www.gamespot.com/reviews/3d-ultra-pinball-thrillride-review/1900-2545853/) — Series accessibility discussion
 [^ref-16]: [AllGame - 3-D Ultra Pinball](https://www.allgame.com/game.php?id=12345) — Game difficulty assessment
 
-[^ref-17]: [Computer Gaming World - Pinball Review Roundup](https://archive.org/details/Computer_Gaming_World_Issue_150) — Physics comparison with Pro Pinball series 
+[^ref-17]: [Computer Gaming World - Pinball Review Roundup](https://archive.org/details/Computer_Gaming_World_Issue_150) — Physics comparison with Pro Pinball series
+[^ref-18]: [Wikipedia – 3-D Ultra Pinball](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball) — Series overview describing animation, multi-table simultaneity, and "temporary targets" mechanic; series sales figure of half a million copies by 1998
+[^ref-19]: [BunnyGamer – 3D Ultra Pinball: ThrillRide first impressions](https://bunnygamer.com/3d-ultra-pinball-thrillride-game-first-impressions/) — ElbinoBunny retrospective (September 2017) containing the verbatim "Sierra read my first impressions review from the future" quote
+[^ref-20]: [Fun With Bonus – Throwback Thursday: 3D Ultra Pinball](https://funwithbonus.com/throwback-thursday-3d-ultra-pinball/) — October 2014 retrospective containing the verbatim "once you learn the patterns" gameplay-predictability critique

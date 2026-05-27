@@ -50,6 +50,8 @@ sierravault/
 
 ## Critical Rules
 
+**RULE #0 — REAL REFERENCES ONLY (absolute, non-negotiable).** Never cite a reference unless the source actually exists AND actually contains the claim it is attached to. A URL existing in the research dossier (`Assets/Research/games/<slug>/*.json`) is NOT sufficient — the crawler frequently catches navigation shells, 404 pages, and robots-blocked URLs that contain no real content. Before citing any source, read the dossier file's `source_significance`, `full_text` length, `extracted_facts`, and `key_quotes`. If `source_significance` says "navigation page only" or "no actual content", REJECT the source. For superlatives, specific numbers, or named entities, grep `full_text` for the exact phrase before citing. If the source doesn't support the claim verbatim, either find a source that does or weaken the claim. A page passing the consistency check at 100% does NOT mean its citations are factually correct — the scorer validates structure, not truth. See `~/.claude/projects/-Users-woodd-GitHub-sierravault/memory/feedback_real_references_only.md` for full protocol.
+
 1. **Never publish without dual scoring** - both structural AND LLM scoring must pass
 2. **Never trust GOG links without verification** - use Brave Search: `site:gog.com "Game Title"`
 3. **Never add wiki links to YAML** - plain text only
