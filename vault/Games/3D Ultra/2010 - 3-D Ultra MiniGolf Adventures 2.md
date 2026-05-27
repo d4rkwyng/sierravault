@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: Wanako Engine
 protagonist: Customizable Golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-27'
 description: 3-D Ultra MiniGolf Adventures 2 is a sports game developed by Wanako
  Games and published by Sierra Entertainment, released in September 2010 for Xbox
  Live...
@@ -19,15 +19,15 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra MiniGolf Adventures 2
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 27, 2026</small>
 
 ## Overview
 
-3-D Ultra MiniGolf Adventures 2 is a sports game developed by Wanako Games and published by Sierra Entertainment, released in September 2010 for Xbox Live Arcade and PlayStation Network[^ref-5]. The game represents the final entry in Sierra's long-running miniature golf franchise, which began with the original 3-D Ultra MiniGolf in 1997[^ref-3]. Adventures 2 built upon the foundation established by 3D Ultra Minigolf Adventures (2006/2007) while adding new themed courses, improved visuals, and expanded multiplayer options[^ref-4].
+3-D Ultra MiniGolf Adventures 2 is a sports game developed by Wanako Games and published by Sierra Entertainment, released on October 27, 2010 for Xbox Live Arcade at 800 Microsoft Points and subsequently on PlayStation Network[^ref-12][^ref-13]. The game represents the final entry in Sierra's long-running miniature golf franchise, which began with the original 3-D Ultra MiniGolf in 1997[^ref-3]. Adventures 2 built upon the foundation established by 3D Ultra Minigolf Adventures (2006/2007), expanding to 54 holes across three new themed environments: Haunted Manor, Manic Museum, and Winter Wonderland[^ref-13][^ref-14].
 
 The franchise's history stretches back to Dynamix's original 3-D Ultra MiniGolf, which promised players "mini golf just the way you remember it... only much, much cooler" with "the most realistic physics and accurate ball movement of any computer mini golf game"[^ref-3]. Following Dynamix's closure in 2001, development of the Adventures series was handled by Wanako Games (later known as Wanako Studios), who inherited design elements from the cancelled "Minigolf Maniacs" project originally planned for PC and PlayStation 2[^ref-5].
 
-Adventures 2 expanded the course count and added new themed environments while maintaining the accessible gameplay that characterized the series. The game featured multiplayer support for up to four players locally and eight players online, making it a popular party game choice on Xbox Live Arcade[^ref-5].
+Adventures 2 expanded the course count from Adventures 1's 36 holes to 54 holes total and added new themed environments while maintaining the accessible gameplay that characterized the series[^ref-13]. The game featured four-player multiplayer matches with sabotaging power-ups, and introduced character customization with accessories like diving helmets, elf ears, and Roman sandals — plus Xbox 360 players could use their Xbox Avatar[^ref-13][^ref-14].
 
 > [!info]- Game Info
 > **Developer:** Wanako Games[^ref-5]
@@ -66,21 +66,13 @@ The series emphasized physics-based puzzle solving over traditional golf mechani
 
 ### Contemporary Reviews
 
-The series received widely varying critical reception across platforms and generations:
+Adventures 2 received mixed critical reception with too few aggregated reviews on Metacritic for a final score (marked "tbd" after three visible critic ratings of 78, 70, and 55)[^ref-16]. Game Chronicles offered a positive assessment, noting "There is something undeniably fun about miniature golf, even on the Xbox 360 and even when it's so crazy it no longer seems like golf"[^ref-16]. Official Xbox Magazine was more critical, observing that "ranked matches often become lopsided contests that favor folks who've memorized the most"[^ref-16]. The Metacritic user score averaged 6.1 out of 10 across seven ratings, classified as "Mixed or Average"[^ref-16].
 
-| Publication | Score | Platform | Notes |
-|-------------|-------|----------|-------|
-| Metacritic | 66/100 | Xbox 360 | Critics score[^ref-15] |
-| Metacritic | 35/100 | PC | Critics score[^ref-4] |
-| IGN | 7.5/10 | Xbox 360 | "Fun multiplayer game"[^ref-11] |
-| GameSpot | 5.5/10 | Xbox 360 | "Unremarkable game"[^ref-9] |
-| Eurogamer | 5/10 | Xbox 360 | "Adequate amusement"[^ref-6] |
-| Steam Users | 70% | PC | Positive reviews[^ref-19] |
-| MyAbandonware | 4.36/5 | PC | User ratings[^ref-17] |
+**Series context (Adventures 1 predecessor reception, 2006).** The Adventures 2 sequel built upon a predecessor whose reception established the series' polarized critical reputation. Adventures 1 earned a 66/100 Metacritic aggregate on Xbox 360 and a 35/100 on PC[^ref-15][^ref-4]. IGN scored the Xbox 360 version 7.5/10[^ref-11], while GameSpot rated it 5.5/10[^ref-9] and Eurogamer 5/10[^ref-6]. These mixed reactions to Adventures 1 set the critical context for Adventures 2's similarly varied reception.
 
 ### Modern Assessment
 
-Modern preservation efforts have given the series new life, with The Collection Chamber noting it as "a worthy experiment in the 3D Ultra series - one that would see the series through to this day"[^ref-3]. The game remains available through multiple digital distribution platforms, with the Internet Archive hosting a 46.7MB Windows executable downloaded 707 times as of 2015[^ref-2]. Steam continues to sell the Adventures version, which maintains "70% positive" user reviews from 113 players[^ref-19].
+Modern preservation efforts have given the series new life, with The Collection Chamber noting Adventures 1 as "a worthy experiment in the 3D Ultra series - one that would see the series through to this day"[^ref-3]. The 2006 Adventures game remains available through multiple digital distribution platforms, with the Internet Archive hosting a 46.7MB Windows executable downloaded 707 times as of 2015[^ref-2]. Steam continues to sell the Adventures version, which maintains "70% positive" user reviews from 113 players[^ref-19].
 
 ## Development
 
@@ -129,7 +121,7 @@ Contemporary reviewers recognized both the series' potential and limitations. Eu
 - [Internet Archive - 3D Ultra Minigolf Adventures](https://archive.org/details/3DUltraMinigolfAdventures)[^ref-2]
 - [Collection Chamber - Enhanced compatibility version](https://collectionchamber.blogspot.com/p/3d-ultra-mini-golf.html)[^ref-3]
 
-The game is documented in gaming databases.[^ref-17][^ref-18][^ref-19][^ref-20][^ref-21]
+Adventures 2 is documented across multiple gaming databases including MobyGames[^ref-12] and XboxAchievements[^ref-14], while the original 3-D Ultra MiniGolf is preserved through MyAbandonware[^ref-17] and SierraChest[^ref-18].
 
 ## See Also
 
@@ -164,10 +156,12 @@ The game is documented in gaming databases.[^ref-17][^ref-18][^ref-19][^ref-20][
 [^ref-9]: [GameSpot - 3D Ultra Minigolf Adventures Review](https://www.gamespot.com/reviews/3d-ultra-minigolf-adventures-review/1900-6169380/) - Professional review with physics criticism and feature breakdown
 [^ref-10]: [GamesRadar - 3D Ultra Minigolf Adventures Review](https://www.gamesradar.com/3d-ultra-minigolf-adventures-xbox-live-arcade-review/) - Review focusing on physics issues and course design
 [^ref-11]: [IGN - 3D Ultra Minigolf Adventures Review](https://www.ign.com/articles/2007/04/18/3d-ultra-minigolf-adventures-review) - Professional review with multiplayer focus and final verdict
-[^ref-15]: [Metacritic - 3D Ultra Minigolf Adventures](https://www.metacritic.com/game/3d-ultra-minigolf-adventures/) - Review score aggregation and user feedback
-[^ref-17][^ref-18][^ref-19][^ref-20][^ref-21]: [MobyGames - Game Entry](https://www.mobygames.com/game/2295/) - Database entry with comprehensive game information
+[^ref-12]: [MobyGames – 3D Ultra Mini Golf Adventures 2 (2010)](https://www.mobygames.com/game/53716/3d-ultra-mini-golf-adventures-2/) – Database entry for the 2010 sequel with platform releases, credits, and metadata
+[^ref-13]: [Xbox Wire – Arcade: 3D Ultra MiniGolf Adventures 2 (October 27, 2010)](https://news.xbox.com/en-us/2010/10/27/arcade-3d-ultra-minigolf-adventures-2/) – Official Microsoft announcement with release date, price, 54-hole course count, theme names, and gameplay features
+[^ref-14]: [XboxAchievements – 3D Ultra Minigolf Adventures 2 overview](https://www.xboxachievements.com/game/3d-ultra-minigolf-adventures-2/overview/) – Xbox 360 platform entry with game metadata and achievements
+[^ref-15]: [Metacritic – 3D Ultra Minigolf Adventures (2006)](https://www.metacritic.com/game/3d-ultra-minigolf-adventures/) – Adventures 1 review score aggregation and user feedback (referenced for predecessor context)
+[^ref-16]: [Metacritic – 3D Ultra Minigolf Adventures 2 (2010)](https://www.metacritic.com/game/3d-ultra-minigolf-adventures-2/) – Adventures 2 review aggregation showing "tbd" status with individual critic scores (78, 70, 55), user score 6.1
 [^ref-17]: [MyAbandonware - 3-D Ultra MiniGolf](https://www.myabandonware.com/game/3-d-ultra-minigolf-db6) - Preservation site with user ratings and compatibility information
 [^ref-18]: [SierraChest - Game Database Entry](https://sierrachest.com/index.php?a=g&id=108&fld=s) - Fan database with technical specifications and development history
 [^ref-19]: [Steam - 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) - Official store page with system requirements and user reviews
-[^ref-20]: [ZTGD - 3D Ultra Minigolf Adventures Review](https://ztgd.com/reviews/3d-ultra-minigolf-adventures/) - Contemporary review with gameplay mechanics overview[^ref-17]: [Giant Bomb - 3D Ultra MiniGolf 2](https://www.giantbomb.com/) - wiki
-[^ref-21]: [Metacritic - 3D Ultra](https://www.metacritic.com/) - aggregator
+[^ref-20]: [ZTGD - 3D Ultra Minigolf Adventures Review](https://ztgd.com/reviews/3d-ultra-minigolf-adventures/) - Contemporary review with gameplay mechanics overview
