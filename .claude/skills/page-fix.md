@@ -19,6 +19,28 @@ For **superlatives** ("best-selling of all time", "first ever") and **numeric sp
 
 If you cannot find a real source that contains the claim, **stop and ask the user** — do not fabricate, do not propagate the vault's existing claim into a new citation, do not soften the standard.
 
+## Database-trust exception
+
+Established database sites (MobyGames, Wikipedia, PCGamingWiki, IGDB, LaunchBox, Sierra Chest, GameFAQs, Giant Bomb, MyAbandonware) can be cited without per-page WebFetch verification when the claim is plausibly within the database's coverage scope. These sites have editorial review and stable URL schemes, and they frequently use JS-rendered SPAs that the crawler doesn't execute — producing thin `full_text` in the dossier despite having real content at the URL. Empty `source_significance` is the crawler's silence, not a content verdict.
+
+**When you can apply database-trust:**
+- Citing a MobyGames `/credits/` subpage for development credits
+- Citing a MobyGames `/reviews/` subpage for aggregate reviewer scores
+- Citing a Wikipedia game-overview article for genre/year/platform metadata
+- Citing a PCGamingWiki entry for system requirements / compatibility notes
+- Citing a LaunchBox/IGDB/GameFAQs entry for preservation / database metadata
+- Citing Sierra Chest for Sierra-history metadata (box scans, manuals, etc.)
+
+**When you must NOT apply database-trust (verify content first):**
+- Dossier explicitly flagged `source_significance` as content-empty/navigation-only/404
+- The citation supports a verbatim quoted phrase — grep `full_text` for the exact quote
+- The citation supports a specific numeric claim (sales figures, table counts, dollar amounts, exact dates)
+- The source is primary-tier (interview, official statement, magazine scan, blog) and the dossier extraction is thin — fetch the URL instead
+
+## Autonomy authorization
+
+Once step 3a content-verification passes for every candidate ref AND the planned edits are either structural fixes or corroborating citations (not factual changes to prose), proceed with edits without further user confirmation. Continue to stop and ask when: (a) any verification fails, (b) a claim must be softened or corrected, (c) a structural fix would change content meaning, (d) a source is primary-tier rather than database-tier and the dossier extraction is thin, (e) the page is `CXL-` or `TBD-` prefixed (different threshold and rules).
+
 ## Invocation
 
 `/page-fix <path-or-slug>`

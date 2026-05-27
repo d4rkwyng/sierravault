@@ -2,7 +2,7 @@
 title: Hoyle Slots and Video Poker 2000
 release_year: 2000
 developer: Sierra On-Line
-designer: [Unknown]
+designer: null
 publisher: Sierra Attractions
 genre: Casino
 platforms: [Windows, Mac]
@@ -10,14 +10,14 @@ series: Hoyle Series
 engine: Proprietary (Windows)
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-05-27'
 description: Hoyle Slots and Video Poker 2000 is a casino simulation game released
   by Sierra Attractions in 2000, designed to replicate the Las Vegas casino experience...
 tags: [2000s, hoyle-series, sierra]
 ---
 # Hoyle Slots and Video Poker 2000
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: May 27, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ The game was released during a period when PC gaming was experiencing significan
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-7]
-> **Publisher:**
+> **Publisher:** Sierra Attractions[^ref-7]
 > **Designer:** N/A
 > **Engine:** Unknown
 > **Platforms:** Windows, Macintosh[^ref-3][^ref-5]
@@ -96,7 +96,7 @@ Slot machine play is primarily luck-based, though players must manage their bank
 
 ### Contemporary Reviews
 
-Hoyle Slots and Video Poker 2000 received mixed reception from consumers and reviewers. Amazon customer reviews recorded an average rating of 1.0 out of 5 stars based on limited reviews, suggesting significant dissatisfaction among some purchasers[^ref-3]. However, GameFAQs users rated the game more favorably, with a "Good" aggregate rating based on 2 user reviews[^ref-5].
+Hoyle Slots and Video Poker 2000 received mixed reception from consumers and reviewers. Amazon customer reviews recorded an average rating of 1.0 out of 5 stars based on limited reviews, suggesting significant dissatisfaction among some purchasers[^ref-3]. However, GameFAQs users rated the game more favorably, with a "Good" aggregate rating based on 2 user reviews[^ref-5][^ref-19].
 
 The game was marketed primarily as a casual entertainment product rather than a hardcore gaming experience, positioning it for a demographic that may not have extensively participated in traditional gaming review culture[^ref-2]. Contemporary gaming publications focused more heavily on narrative-driven titles and AAA releases, leaving niche casino simulation games with relatively sparse critical coverage.
 
@@ -120,13 +120,13 @@ Hoyle Slots and Video Poker 2000 emerged as a focused entry in the series, extra
 
 ### Production
 
-Development was handled internally at Sierra On-Line, with publication managed through the Sierra Attractions label[^ref-3][^ref-7]. The game was designed for broad compatibility across Windows operating systems of the era, including Windows 95, 98, 2000, and ME[^ref-2]. A Macintosh version was developed concurrently to maximize market reach[^ref-3].
+Development was handled internally at Sierra On-Line, with publication managed through the Sierra Attractions label[^ref-3][^ref-7][^ref-14]. The game was designed for broad compatibility across Windows operating systems of the era, including Windows 95, 98, 2000, and ME[^ref-2]. A Macintosh version was developed concurrently to maximize market reach[^ref-3].
 
 The production incorporated authentic casino sound effects and visual design to create an immersive gambling atmosphere[^ref-6]. Horse racing announcer speech and various animations were included on the CD-ROM, though some features could be disabled to allow the game to run without the disc in the drive[^ref-4].
 
 ### Technical Achievements
 
-The game featured realistic casino floor recreation with attention to atmospheric detail[^ref-3]. Multiple machine themes provided visual variety, with each slot machine featuring unique graphics appropriate to its theme (alien invasion, safari, diamonds, etc.)[^ref-4]. The audio design incorporated authentic mechanical sounds of slot machines alongside period-appropriate electronic effects.
+The game featured realistic casino floor recreation with attention to atmospheric detail[^ref-3]. Multiple machine themes provided visual variety, with each slot machine featuring unique graphics appropriate to its theme (alien invasion, safari, diamonds, etc.)[^ref-4][^ref-21]. The audio design incorporated authentic mechanical sounds of slot machines alongside period-appropriate electronic effects.
 
 ### Technical Specifications
 
@@ -208,13 +208,13 @@ The Hoyle brand's transition from Sierra to Encore reflected broader industry co
 - No known digital distribution currently available
 
 **Download / Preservation**
-- [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/images/159012-hoyle-slots-and-video-poker) – Image documentation
+- [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/images/159012-hoyle-slots-and-video-poker) – Image documentation[^ref-20]
 - [Sierra Chest](https://sierrachest.com/index.php?a=games&id=578&title=hoyle-slots-video-poker-2&fld=box) – Box and packaging archive
 
 **Manuals & Extras**
 - Original manual included with retail package[^ref-4]
 
-The game is documented in gaming databases.[^ref-9][^ref-10][^ref-11][^ref-12]
+The game is documented across multiple gaming databases including Wikipedia[^ref-9], IGDB[^ref-10], MobyGames[^ref-11], GameFAQs[^ref-12], and Giant Bomb[^ref-13].
 
 ## See Also
 
@@ -283,7 +283,9 @@ The game is documented in gaming databases.[^ref-9][^ref-10][^ref-11][^ref-12]
 [^ref-6]: [Newegg – Hoyle Slots and Video Poker](https://www.newegg.com/encore-software-hoyle-slots-and-video-poker/p/N82E16832196123) – system requirements, ESRB rating, features, listing date
 [^ref-7]: [Sierra Chest – Hoyle Slots & Video Poker](https://sierrachest.com/index.php?a=games&id=578&title=hoyle-slots-video-poker-2&fld=general) – Sierra game archive, release information, packaging documentation
 [^ref-8]: [PCGamingWiki – Hoyle Casino (2000)](https://www.pcgamingwiki.com/wiki/Hoyle_Casino_(2000)) – series listing, perspectives, controls, genre classification
-[^ref-9]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – sales data, publisher transition, bug issues, platform releases[^ref-9]: [Giant Bomb - Hoyle Slots](https://www.giantbomb.com/hoyle-slots-and-video-poker/) - wiki
+[^ref-9]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – Series-level sales data, publisher transition history, technical bug documentation, platform release timeline
+[^ref-13]: [Giant Bomb – Hoyle Slots and Video Poker](https://www.giantbomb.com/hoyle-slots-and-video-poker/) – Wiki entry with game metadata, release information, and platform documentation
+[^ref-14]: [MobyGames – Hoyle Slots & Video Poker (2000) credits](https://www.mobygames.com/game/79577/hoyle-slots-and-video-poker-2000/credits/) – Development team credits, internal Sierra On-Line attribution
 [^ref-10]: [IGDB - Hoyle Slots](https://www.igdb.com/games/hoyle-slots-and-video-poker) - IGDB
 [^ref-11]: [MobyGames - Hoyle Slots](https://www.mobygames.com/game/hoyle-slots-and-video-poker/) - database
 [^ref-12]: [GameFAQs - Hoyle Slots](https://gamefaqs.gamespot.com/) - database
@@ -291,3 +293,6 @@ The game is documented in gaming databases.[^ref-9][^ref-10][^ref-11][^ref-12]
 [^ref-16]: [eBay – Hoyle Slots & Video Poker (Sierra)](https://www.ebay.com/itm/127156491821) – Retail pricing data, physical media information, market availability
 [^ref-17]: [GameFAQs – Hoyle Slots and Video Poker](https://gamefaqs.gamespot.com/pc/549024-hoyle-slots-and-video-poker) – user reviews, game database entry
 [^ref-18]: [Sierra Chest – Hoyle Slots & Video Poker](https://sierrachest.com/index.php?a=games&id=578&title=hoyle-slots-video-poker-2&fld=box) – release date, developer, publisher, UPC
+[^ref-19]: [MobyGames – Hoyle Slots & Video Poker (2000) reviews](https://www.mobygames.com/game/79577/hoyle-slots-and-video-poker-2000/reviews/) – Aggregate reviewer scores and per-publication ratings
+[^ref-20]: [LaunchBox Games Database – Hoyle Slots and Video Poker](https://gamesdb.launchbox-app.com/games/images/159012-hoyle-slots-and-video-poker) – Preservation database image archive with platform metadata
+[^ref-21]: [MobyGames – Hoyle Slots & Video Poker (2000) screenshots](https://www.mobygames.com/game/79577/hoyle-slots-and-video-poker-2000/screenshots/) – Visual documentation of slot machine themes and casino floor environments
