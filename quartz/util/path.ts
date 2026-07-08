@@ -6,7 +6,6 @@ export {
   isRelativeURL,
   isAbsoluteURL,
   getFullSlug,
-  slugifyFilePath,
   simplifySlug,
   joinSegments,
   endsWith,
@@ -23,6 +22,14 @@ export {
   transformLink,
   normalizeHastElement,
 } from "@quartz-community/utils"
+
+// Collapse "---" runs (from " - " in game filenames) into single dashes so URLs
+// aren't so dash-heavy. Applied uniformly — used for both file slugs and wikilink
+// resolution — so internal links still resolve.
+import { slugifyFilePath as _slugifyFilePath } from "@quartz-community/utils"
+export function slugifyFilePath(fp: any, excludeExt?: boolean): any {
+  return _slugifyFilePath(fp, excludeExt).replace(/-{2,}/g, "-")
+}
 
 export type {
   FilePath,
