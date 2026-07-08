@@ -71,3 +71,6 @@ content/
 quarantine/
 _content/
 tsconfig.tsbuildinfo
+
+# Keep Quartz bundled static assets (overrides the *.png image ignore)
+!quartz/static/**
