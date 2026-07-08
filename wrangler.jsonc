@@ -1,8 +1,10 @@
 {
   "name": "sierravault",
+  "main": "src/worker.js",
   "compatibility_date": "2026-07-07",
   "assets": {
     "directory": "./public",
+    "binding": "ASSETS",
     "not_found_handling": "404-page"
   },
   "observability": {
