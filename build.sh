@@ -20,4 +20,4 @@ fs.writeFileSync(p,s);
 
 npx quartz plugin install     # v5: fetch remote plugins to .quartz/
 npx quartz build
-cp public/Welcome.html public/index.html
+cp public/welcome.html public/index.html
