@@ -72,7 +72,7 @@ Bolt Riley's path to release involved multiple crowdfunding attempts. The first 
 
 As Sharon explained the financial situation: "I managed to convince [the initial investors] to let us have one final shot to save the game and that was the Kickstarter."[^ref-6] The initial investors had already contributed over $320,000 to the project's development[^ref-6]. This significant prior investment created pressure to find additional funding to complete the game.
 
-A second Kickstarter campaign in August 2014 took a different approach, running for only seven days to coincide with the OUYA #FreeTheGames fund matching program[^ref-19]. This time, the campaign sought a more modest $31,668 goal[^ref-18]. The campaign ultimately succeeded with 757 backers supporting the project[^ref-2].
+A second Kickstarter campaign in August 2014 took a different approach, running for only seven days to coincide with the OUYA \#FreeTheGames fund matching program[^ref-19]. This time, the campaign sought a more modest $31,668 goal[^ref-18]. The campaign ultimately succeeded with 757 backers supporting the project[^ref-2].
 
 ### Technical Achievements
 

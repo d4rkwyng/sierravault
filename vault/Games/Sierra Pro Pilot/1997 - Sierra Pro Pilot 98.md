@@ -237,7 +237,7 @@ Compatibility with modern Windows versions is limited, requiring DOSBox or virtu
 [^ref-11]: [GameSpot Pro Pilot '99 Review (Archive)](https://web.archive.org/web/20190609005648/https://www.gamespot.com/reviews/pro-pilot-99-review/1900-2545908/) - Educational features assessment
 [^ref-12]: [MobyGames Aircraft Details](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/) - Aircraft fleet and USGS data
 [^ref-13]: [VGChartz](https://www.vgchartz.com/) - Airport count variations
-[^ref-14]: [Research Consolidated Data](internal/research/games/sierra-pro-pilot-98/_consolidated.json) - Bug details and version history
+[^ref-14]: Research Consolidated Data - Bug details and version history
 [^ref-15]: [IGN Review (Archive)](https://web.archive.org/web/20020611073421/http://pc.ign.com/articles/154/154019p1.html) - Contemporary review
 [^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/sierra-pro-pilot-98-the-complete-flight-simulator-gxy) - Modern preservation rating
 [^ref-17]: [MobyGames Reviews](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/reviews/windows/) - Aggregate scoring

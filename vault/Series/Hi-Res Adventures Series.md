@@ -103,7 +103,7 @@ Mystery House was inducted into [[Reference/Awards|various retrospective Hall of
 
 - [[Roberta Williams]] — Series creator (5 of 7 numbered entries)
 - [[Ken Williams]] — Original programmer; co-founder of On-Line Systems
-- [[Bob Davis]] — Hi-Res Adventure 3 and 4 designer; early On-Line employee
+- **Bob Davis** — Hi-Res Adventure 3 and 4 designer; early On-Line employee
 - [[Warren Schwader]] — Cribbage designer; On-Line's first hired programmer
 - [[Sierra On-Line]] — Successor company name
 - [[Adventure Game Interpreter]] — The engine that succeeded the per-title approach

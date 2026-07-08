@@ -353,7 +353,7 @@ For its era, the bot AI represented a genuine technical achievement that would i
 [^ref-19]: [Game Watch (Japan)](https://game.watch.impress.co.jp/docs/20040326/cscz.htm) – Japanese release details, BRZRK review, Turtle Rock CEO quote, system requirements
 [^ref-20]: [Reddit – Patient Gamers Review](https://www.reddit.com/r/patientgamers/comments/erxwpz/a_review_of_a_forgotten_game_counterstrike/) – modern retrospective, development history analysis
 [^ref-21]: [Steam Store – Counter-Strike: Condition Zero](http://www.cs-conditionzero.com/item.php?id=33) – Steam reviews, system requirements, user scores
-[^ref-22]: [Consolidated Research Data](source_1) – user reviews, community feedback
+[^ref-22]: Consolidated Research Data – user reviews, community feedback
 [^ref-23]: [IMDB – Counter-Strike: Condition Zero](https://www.imdb.com/title/tt0466736/) – user ratings, trivia, bugs
 [^ref-24]: [Metacritic – Counter-Strike: Condition Zero](https://www.metacritic.com/game/counter-strike-condition-zero/) – Metascore, user score, review breakdown
 [^ref-25]: [VoodooExtreme Archive (Wayback Machine)](https://web.archive.org/web/20010527020610/http://www.voodooextreme.com/comments.taf?postID=15167&_start=156) – Gabe Newell quotes on single-player vision

@@ -20,7 +20,7 @@ The Spiritual Successors catalog is the vault's umbrella for **18 games that are
 
 The catalog spans three overlapping production threads:
 
-1. **Alumni studios** — Sierra designers founding new companies to make games in their old tradition: [[Pinkerton Road]] (Jane Jensen + Robert Holmes), [[Two Guys From Andromeda]] (Mark Crowe + Scott Murphy), the Coles' [[Hero-U]]/Transolar Games, [[Phoenix Online Studios]], Pierre Gilhodes's independent French studio, and Ken & Roberta Williams's 2023 return.
+1. **Alumni studios** — Sierra designers founding new companies to make games in their old tradition: Pinkerton Road (Jane Jensen + Robert Holmes), Two Guys From Andromeda (Mark Crowe + Scott Murphy), the Coles' [[2018 - Hero-U - Rogue to Redemption|Hero-U]]/Transolar Games, [[Phoenix Online Studios]], Pierre Gilhodes's independent French studio, and Ken & Roberta Williams's 2023 return.
 2. **Fan-developer indie projects** — Studios like [[Infamous Quests]] (post-AGDI alumni making original IPs), [[Himalaya Studios]] (Al Emmo), and various AGS-engine adventure-game indies who grew up on Sierra games.
 3. **Sierra-adjacent indie tributes** — Original games made by indie developers who openly cite Sierra as inspiration but have no Sierra-staff lineage (e.g., Cluck Yegger, Bolt Riley).
 
@@ -121,9 +121,7 @@ The spiritual successors catalog is, in aggregate, **the largest active branch o
 
 ## See Also
 
-- [[Pinkerton Road]] (Jane Jensen studio profile — planned)
-- [[Two Guys From Andromeda]] (Mark Crowe + Scott Murphy — planned)
-- [[Hero-U]] / Transolar Games — Coles studio
+- [[2018 - Hero-U - Rogue to Redemption|Hero-U]] / Transolar Games — Coles studio
 - [[Phoenix Online Studios]]
 - [[Infamous Quests]]
 - [[Roberta Williams]] / [[Ken Williams]] / [[Jane Jensen]] / [[Lori Ann Cole]] / [[Corey Cole]] / [[Mark Crowe]] / [[Scott Murphy]] / [[Al Lowe]] / [[Pierre Gilhodes]] — designer pages

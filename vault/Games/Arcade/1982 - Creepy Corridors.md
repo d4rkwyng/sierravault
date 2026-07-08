@@ -242,7 +242,7 @@ From a design perspective, Creepy Corridors reflects gaming's broader fascinatio
 ## References
 
 [^ref-1]: [MobyGames – Laf Pak](https://www.mobygames.com/game/26233/laf-pak/) – release date, compilation contents, platform, price
-[^ref-2]: [Consolidated Research Notes](internal) – gameplay description, protagonist name, game mechanics
+[^ref-2]: Consolidated Research Notes – gameplay description, protagonist name, game mechanics
 [^ref-3]: [Pix's Origin Adventures – Creepy Corridors](https://www.pixsoriginadventures.co.uk/creepy-corridors/) – sampled speech claim, technical analysis, collision detection issues
 [^ref-4]: [MobyGames – Creepy Corridors](https://www.mobygames.com/game/55566/creepy-corridors/) – VIC-20 release, developer credits, user review, gameplay comparison
 [^ref-5]: [MobyGames – Creepy Corridors User Review](https://www.mobygames.com/game/55566/creepy-corridors/user-review/2421826/) – color scheme, dual objectives, restart function, reviewer quotes

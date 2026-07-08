@@ -78,7 +78,7 @@ The game received mixed to positive reviews from critics and players alike. Prof
 
 ### Modern Assessment
 
-Contemporary criticism focused on the challenge of updating Larry's character for modern audiences. Common Sense Media noted the game was "content to more or less disregard the #MeToo movement, not only allowing Larry to get away with making inappropriate comments to and hit on just about every woman he meets"[^ref-20]. However, Screen Rant's Rob Gordon observed that the game "feels much less predatory than it could do, with characters - both men and women - more accepting to Larry's 'charms'"[^ref-13].
+Contemporary criticism focused on the challenge of updating Larry's character for modern audiences. Common Sense Media noted the game was "content to more or less disregard the \#MeToo movement, not only allowing Larry to get away with making inappropriate comments to and hit on just about every woman he meets"[^ref-20]. However, Screen Rant's Rob Gordon observed that the game "feels much less predatory than it could do, with characters - both men and women - more accepting to Larry's 'charms'"[^ref-13].
 
 User reviews on platforms like GameFAQs were more positive, with one reviewer stating: "While it is a shame that Al Lowe couldn't be a part of this game, I think Crazy Bunch has done an excellent job bringing an old game like Leisure Suit Larry into the 21st century"[^ref-12]. The visual presentation consistently received praise, with multiple reviewers highlighting the "amazing hand-drawn art style"[^ref-15].[^ref-47][^ref-48]
 

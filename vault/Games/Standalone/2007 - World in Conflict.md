@@ -354,7 +354,7 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 [^ref-23]: [PC Zone Magazine Review](https://archive.org) – 92/100 score, Suzy Wallace review
 [^ref-24]: [Kikizo – World in Conflict Review](https://games.kikizo.com/reviews/pc/worldinconflict.asp) – 9/10 score, Ian Dransfield quotes
 [^ref-25]: [The Guardian – World in Conflict Review](https://www.theguardian.com) – Greg Howson quotes
-[^ref-27]: [Kagi FastGPT – Review Scores](kagi:fastgpt) – Metacritic 89/100, Steam percentages
+[^ref-27]: Kagi FastGPT – Review Scores – Metacritic 89/100, Steam percentages
 [^ref-29]: [Eurogamer – Complete Edition Review](https://www.eurogamer.net/world-in-conflict-complete-edition-review) – Ground Control lineage
 [^ref-30]: [Martin Walfisz Interview](https://www.gamedeveloper.com) – Ground Control sales, WiC playerbase statistics
 [^ref-31]: [Nicklas Cederström Interview](https://www.gamesindustry.biz) – "Counter-Strike of RTS" quote

@@ -207,7 +207,7 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 ## References
 
 [^ref-1]: [Adventure Gamers – Order of the Thorne: Fortress of Fire](https://adventuregamers.com/games/order-of-the-thorne-fortress-of-fire) – game description, genre, platform, series info
-[^ref-2]: [Web Search Aggregate](web_search_aggregate) – Kickstarter funding details, development plans, story overview
+[^ref-2]: Web Search Aggregate – Kickstarter funding details, development plans, story overview
 [^ref-3]: [itch.io – Fortress of Fire](https://infamousquests.itch.io/ootf-fortress-of-fire) – game description, gameplay features, development status updates
 [^ref-4]: [King's Quest Omnipedia – Fortress of Fire](https://kingsquest.fandom.com/wiki/The_Order_of_the_Thorne:_The_Fortress_of_Fire) – protagonist Patrick, Sir Caradoc, plot summary
 [^ref-5]: [Infamous Quests Patreon – October 2025 Update](https://www.patreon.com/posts/updates-on-rtr-141274312) – development limbo, design compromises, cut content

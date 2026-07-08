@@ -235,6 +235,6 @@ The game's most significant contribution to gaming history may be its innovative
 [^ref-16]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – absence from Sierra catalog noted
 [^ref-17]: [GameFAQs – Cohort II: Fighting for Rome (Atari ST)](https://gamefaqs.gamespot.com/ast/227088-cohort-ii-fighting-for-rome/data) – Atari ST release information
 [^ref-18]: [GameFAQs – Cohort II (Amiga)](https://gamefaqs.gamespot.com/amiga/980530-cohort-ii/data) – Amiga release information
-[^ref-19]: [Kagi FastGPT Research](kagi:fastgpt) – release year confirmation, platform information
+[^ref-19]: Kagi FastGPT Research – release year confirmation, platform information
 [^ref-20]: [Amazon Product Listing](https://www.amazon.com/Cohort-II/dp/B000E5F86W) – publisher, platform, media format
 [^ref-21]: [Play Classic Games](https://playclassic.games/games/strategy-dos-games-online/play-cohort-ii-online/) – gameplay features description

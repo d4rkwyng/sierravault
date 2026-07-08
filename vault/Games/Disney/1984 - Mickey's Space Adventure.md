@@ -256,7 +256,7 @@ The collaboration between Sierra and Disney established a template for education
 [^ref-20]: [Grouvee User Review – giopep](https://www.grouvee.com/games/13157-mickeys-space-adventure/) – complexity assessment, inventory management
 [^ref-16]: [Sierra Chest Walkthrough](https://www.sierrachest.com/index.php?a=games&id=263&title=mickeys-space-adventure&fld=walkthrough&pid=100) – nine crystals, randomized order, letter mechanic
 [^ref-17]: [Lemon64 – Mickey's Space Adventure](https://www.lemon64.com/game/mickeys-space-adventure) – C64 details, user review, Peter Oliphant credit, joystick support
-[^ref-18]: [Consolidated Research Data](source_1) – nine planets, crystal pieces
+[^ref-18]: Consolidated Research Data – nine planets, crystal pieces
 [^ref-19]: [Pixelated Arcade – Mickey's Space Adventure](https://pixelatedarcade.com/games/mickey-s-space-adventure) – age recommendation, manual contents, designers
 [^ref-21]: [Abandonware DOS – Mickey's Space Adventure](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Mickey's+Space+Adventure&gid=3163) – rating, platform list
 [^ref-22]: [GameFAQs – Commodore 64 Version](https://gamefaqs.gamespot.com/c64/938386-mickeys-space-adventure) – user ratings, difficulty assessment

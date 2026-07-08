@@ -90,13 +90,13 @@ Betrayal at Krondor received widespread critical acclaim upon release, with revi
 
 **Computer Gaming World** named it "a fantasy role-playing game unlike any other" and "a new high-watermark in RPG design," specifically lauding the game's text as "the best I've seen in a fantasy CRPG" and calling it "a rare gem...and has set new standards for others to follow. For once, a game actually lives up to, even exceeds, its advance billing."[^ref-1]
 
-**White Wolf Magazine #38** gave an excellent rating, with Jim Trunzo writing: "Betrayal at Krondor employs one of the easiest and most intuitive interfaces encountered, one that conveniently handles all aspects of the game, from trading to casting magic spells to combat. Graphics and sound are top-notch, character development is logical and fair, combat is beautifully animated, and I have yet to find anything about the game that I don't like. There simply isn't any facet of the game that isn't outstanding."[^ref-1]
+**White Wolf Magazine \#38** gave an excellent rating, with Jim Trunzo writing: "Betrayal at Krondor employs one of the easiest and most intuitive interfaces encountered, one that conveniently handles all aspects of the game, from trading to casting magic spells to combat. Graphics and sound are top-notch, character development is logical and fair, combat is beautifully animated, and I have yet to find anything about the game that I don't like. There simply isn't any facet of the game that isn't outstanding."[^ref-1]
 
 **COMPUTE! Magazine** reviewer Scott A. May declared: "Fired by literary passion and uncommon intelligence, Betrayal at Krondor approaches a new level of realism and enjoyment for computer fantasy role-playing games" and noted it was "amazing that this game, Dynamix's first attempt at fantasy role-playing, towers above the genre."[^ref-5]
 
 **Electronic Games** awarded an impressive 97% score in their June 1993 review by Ed Dille.[^ref-6]
 
-**Dragon magazine #199** offered a more measured assessment, with Sandy Petersen giving 2 out of 5 stars while acknowledging the "well-rendered" visuals and "rather entertaining plot," though criticizing "dull maintenance activities."[^ref-3]
+**Dragon magazine \#199** offered a more measured assessment, with Sandy Petersen giving 2 out of 5 stars while acknowledging the "well-rendered" visuals and "rather entertaining plot," though criticizing "dull maintenance activities."[^ref-3]
 
 **Quandary** (1996) awarded 4.5 out of 5, calling it "no ordinary roleplaying game."[^ref-3]
 

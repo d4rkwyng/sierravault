@@ -196,7 +196,7 @@ The closure of Dynamix by Sierra Entertainment in August 2001, as part of restru
 
 ## References
 
-[^ref-1]: [Kagi FastGPT – Sierra Sports Skiing 1999 Edition](kagi_fastgpt_aggregate) – release date (1998), platforms (Windows), gameplay features, alternate titles, control scheme
+[^ref-1]: Kagi FastGPT – Sierra Sports Skiing 1999 Edition – release date (1998), platforms (Windows), gameplay features, alternate titles, control scheme
 [^ref-2]: [Wikipedia – Front Page Sports: Ski Racing](https://en.wikipedia.org/wiki/Front_Page_Sports:_Ski_Racing) – predecessor game details, Dynamix development, October 1997 release, course locations, racing types, Picabo Street involvement, sequel confirmation
 [^ref-3]: [Metacritic – Sierra Sports Skiing 1999 Edition](https://www.metacritic.com/game/sierra-sports-skiing-1999-edition/) – ESRB rating, platform, developer attribution, lack of review scores
 [^ref-4]: [HandWiki – Front Page Sports: Ski Racing](https://handwiki.org/wiki/Software:Front%20Page%20Sports:%20Ski%20Racing) – comprehensive review scores, Picabo Street tutorial description, gameplay features

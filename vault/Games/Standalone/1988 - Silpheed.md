@@ -122,8 +122,8 @@ Sierra On-Line's involvement brought the game to Western audiences starting in 1
 
 - **Chief Designer:** Takeshi Miyaji
 - **Assistant Designers:** Hiromi Ohba (pen name of Masakuni Mitsuhashi), Osamu Harada
-- **Music #1-#4:** Mecano Associates (Fumihito Kasatani, Nobuyuki Aoshima)
-- **Music #5-#12:** Game Arts music staff (Hiromi Ohba, Hibiki Godai)
+- **Music \#1–\#4:** Mecano Associates (Fumihito Kasatani, Nobuyuki Aoshima)
+- **Music \#5–\#12:** Game Arts music staff (Hiromi Ohba, Hibiki Godai)
 - **Voice of Xacalite:** Masakuni Mitsuhashi
 - **Voice of Wolf Control:** Satoshi Uesaka
 - **Voice of Vince Control:** Yuzo Sunaga, Nia Necoyama

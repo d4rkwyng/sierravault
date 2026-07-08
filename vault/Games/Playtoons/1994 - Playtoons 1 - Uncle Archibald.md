@@ -210,7 +210,7 @@ The series continued with at least four additional installments: Playtoons 2: Th
 [^ref-5]: [PriceCharting – Playtoons 1](https://www.pricecharting.com/game/pc-games/playtoons-1-featuring-uncle-archibald) – plot summary, developer confirmation
 [^ref-6]: [MyAbandonware – Playtoons 1](https://www.myabandonware.com/game/playtoons-1-featuring-uncle-archibald-yr6) – release dates by region, user rating, technical specs
 [^ref-7]: [MobyGames – Playtoons 1 user reviews](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/reviews/?type=user) – user-side review distribution, gameplay critique notes
-[^ref-8]: [Kagi FastGPT – Review Scores Query](kagi:fastgpt:What+were+the+review+scores+for+Playtoons+1+Featuring+Uncle+Archibald+video+game?) – lack of available review scores confirmed
+[^ref-8]: Kagi FastGPT – Review Scores Query – lack of available review scores confirmed
 [^ref-9]: [GameFAQs – Playtoons 1 PC](https://gamefaqs.gamespot.com/pc/232215-playtoons-1-featuring-uncle-archibald) – genre classification, ESRB rating, platform confirmation
 [^ref-10]: [Metacritic – Playtoons 1](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/) – platform, developer/publisher, no score available
 [^ref-11]: [Metacritic – User Reviews](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/user-reviews/) – no user reviews available

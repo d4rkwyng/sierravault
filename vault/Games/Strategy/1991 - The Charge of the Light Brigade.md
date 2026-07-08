@@ -225,7 +225,7 @@ Impressions Games would find greater success with their subsequent city-building
 [^ref-10]: [Warlord Games – The Charge of the Light Brigade Poem](https://www.warlordgames.com/the-charge-of-the-light-brigade-poem/) – Tennyson quotes, historical context
 [^ref-11]: [Metacritic – The Charge of the Light Brigade Details](https://www.metacritic.com/game/the-charge-of-the-light-brigade/details/) – troop numbers, game piece count
 [^ref-12]: [LaunchBox Games Database – The Charge of the Light Brigade](https://gamesdb.launchbox-app.com/games/details/141019-the-charge-of-the-light-brigade) – resolution, formations, two-player mode
-[^ref-13]: [Kagi FastGPT Research](kagi:fastgpt) – order modes, Lords Raglan/Lucan miscommunication
+[^ref-13]: Kagi FastGPT Research – order modes, Lords Raglan/Lucan miscommunication
 [^ref-14]: [Every Game Going – ST Format Review](https://www.everygamegoing.com/larticle/the-charge-of-the-light-brigade-000/49730/) – 52% score, James Leach review, pacing criticism
 [^ref-15]: [Lemon Amiga – The Charge of the Light Brigade](https://www.lemonamiga.com/game/charge-of-the-light-brigade) – Amiga Action, CU Amiga, Games-X scores
 [^ref-16]: [MyAbandonware – The Charge of the Light Brigade](https://www.myabandonware.com/game/the-charge-of-the-light-brigade-141) – file sizes, HOTUD quote, user rating

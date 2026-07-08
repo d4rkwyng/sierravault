@@ -221,7 +221,7 @@ Within Sierra On-Line's history, Early Math demonstrates the company's ambitious
 [^ref-3]: [Encyclopedia.com – Sierra On-Line Inc. Company History](https://www.encyclopedia.com/books/politics-and-business-magazines/sierra-line-inc) – company philosophy, product development goals
 [^ref-4]: [Early Childhood Education and Care – Early Math and Video Games](https://www.earlychildhoodeducationandcare.com/bloggers/2018/9/11/early-math-and-video-games) – educational video game effectiveness research, digital natives concept
 [^ref-5]: [Sierra Chest – Early Math Walkthrough](https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=walkthrough) – NCTM curriculum alignment, talking tutor series, target age, educational objectives
-[^ref-6]: [Consolidated Research Data](N/A) – Loid character description from game documentation
+[^ref-6]: Consolidated Research Data – Loid character description from game documentation
 [^ref-7]: [Family Math – Playing with Math: Using Games to Engage Families](https://familymath.org/2025/04/playing-with-math-using-games-to-engage-families-in-young-childrens-math-learning/) – educational philosophy on math games
 [^ref-8]: [Sierra Gamers Forum – Where Does "Sierra" End?](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Bright Star Technology context, educational game lineup
 [^ref-10]: [Internet Archive – Early Math (Original Entry)](https://archive.org/details/early-ma) – Windows 3.1 platform confirmation, CD-ROM format

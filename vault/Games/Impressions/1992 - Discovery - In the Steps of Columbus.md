@@ -239,7 +239,7 @@ The game has been largely forgotten in discussions of colonial-era strategy game
 
 [^ref-2]: [MobyGames – Discovery: In the Steps of Columbus](https://www.mobygames.com/game/27734/discovery-in-the-steps-of-columbus/) – Developer, publisher, platform information, critic ratings, full credits
 [^ref-3]: [Lemon Amiga – User Review](https://www.lemonamiga.com/games/details.php?id=4730) – Gameplay description comparing to Civilization
-[^ref-4]: [Consolidated Research Data](N/A) – Game description, thematic details, gameplay overview
+[^ref-4]: Consolidated Research Data – Game description, thematic details, gameplay overview
 [^ref-6]: [MyAbandonware – Discovery](https://www.myabandonware.com/game/discovery-in-the-steps-of-columbus-1dx) – User ratings, bug reports, engine derivation from Merchant Colony
 [^ref-7]: [Wikipedia – Discovery: In the Steps of Columbus](https://en.wikipedia.org/wiki/Discovery:_In_the_Steps_of_Columbus) – Platform information, Dragon magazine review citation
 [^ref-8]: [Metacritic – Discovery](https://www.metacritic.com/game/discovery-in-the-steps-of-columbus/) – Game summary description
