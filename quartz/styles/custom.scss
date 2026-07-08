@@ -1,0 +1,19 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+
+// Fix callout content line breaks (Obsidian blockquote syntax)
+.callout-content p {
+  white-space: pre-line;
+}
+
+// Hide Quartz auto-generated date/read time (we use manual Last Updated in content)
+.content-meta {
+  display: none;
+}
+
+// Hide the empty References heading (Quartz moves footnote defs to Footnotes section)
+// We keep the Footnotes section visible instead
+h2#references {
+  display: none;
+}

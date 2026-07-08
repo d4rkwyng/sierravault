@@ -60,3 +60,14 @@ vault/.obsidian/workspace-mobile.json
 scripts/quality_results.jsonl
 scripts/quality_state.json
 docs/refs_audit.json
+
+# Quartz build (Cloudflare Workers)
+node_modules
+public
+public.new/
+public.old/
+.quartz-cache
+content/
+quarantine/
+_content/
+tsconfig.tsbuildinfo
