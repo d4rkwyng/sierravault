@@ -150,6 +150,8 @@ plugins:
     enabled: true
   - source: github:quartz-community/folder-page
     enabled: true
+    options:
+      sort: '(a,b)=>{const ya=a.frontmatter?.release_year,yb=b.frontmatter?.release_year;if(ya&&yb&&ya!==yb)return ya-yb;return (a.frontmatter?.title||a.slug||"").localeCompare(b.frontmatter?.title||b.slug||"",undefined,{numeric:true,sensitivity:"base"});}'
   - source: github:quartz-community/tag-page
     enabled: true
   - source: github:quartz-community/explorer
@@ -158,7 +160,7 @@ plugins:
       title: ""
       folderClickBehavior: collapse
       folderDefaultState: collapsed
-      sortFn: '(a,b)=>{if(a.isFolder&&!b.isFolder)return -1;if(!a.isFolder&&b.isFolder)return 1;return (a.displayName||"").localeCompare(b.displayName||"",undefined,{numeric:true,sensitivity:"base"});}'
+      sortFn: '(a,b)=>{if(a.isFolder&&!b.isFolder)return -1;if(!a.isFolder&&b.isFolder)return 1;const ya=a.data?.frontmatter?.release_year,yb=b.data?.frontmatter?.release_year;if(ya&&yb&&ya!==yb)return ya-yb;return (a.displayName||"").localeCompare(b.displayName||"",undefined,{numeric:true,sensitivity:"base"});}'
     layout:
       position: left
       priority: 50

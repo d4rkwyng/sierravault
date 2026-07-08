@@ -19,5 +19,10 @@ fs.writeFileSync(p,s);
 '
 
 npx quartz plugin install     # v5: fetch remote plugins to .quartz/
+
+# folder-page's `sort` option is a raw fn; let it also accept a string (our
+# config passes a release-year sort so game listings are in chronological order)
+perl -i -pe 's/const sorter = sort \?\?/const sorter = (typeof sort==="string"?(0,eval)("("+sort+")"):sort) ??/' .quartz/plugins/folder-page/dist/index.js .quartz/plugins/folder-page/src/components/PageList.tsx
+
 npx quartz build
 cp public/welcome.html public/index.html

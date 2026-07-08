@@ -693,7 +693,6 @@ iframe.pdf {
 // Explorer: compact and single-line so long names (e.g. sierra-classic-launcher) don't wrap
 .explorer {
   font-size: 0.9rem;
-  text-transform: lowercase;
 }
 .explorer ul li,
 .explorer .folder-title,
@@ -737,3 +736,26 @@ body[data-slug^="blog/"] .content-meta { display: block; }
 .callout-content p { white-space: pre-line; }
 // SierraVault: hide the empty References heading (footnote defs move to Footnotes)
 h2#references { display: none; }
+
+// SierraVault logo in place of the text page-title (invert to white on dark)
+.page-title {
+  margin: 0;
+}
+.page-title a {
+  display: block;
+  width: 190px;
+  height: 62px;
+  max-width: 100%;
+  background: url("/static/logo.webp") left center / contain no-repeat;
+  text-indent: -9999px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+html[saved-theme="dark"] .page-title a {
+  filter: invert(1);
+}
+
+// Hide build-date noise in folder listings (games have no meaningful date)
+.page-listing .meta {
+  display: none;
+}
