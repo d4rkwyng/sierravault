@@ -10,15 +10,20 @@ node sanitize-frontmatter.mjs content/ quarantine
 # Prepend the release year to game titles so the nav shows/sorts by year
 node prefix-year.mjs content
 
-# Welcome page: absolute logo path + last-synced footer
+# Make the Welcome page the real site index so "/" is a first-class page (graph
+# view + OG previews resolve against the root node). Keep aliases so [[Welcome]]
+# links and the old /welcome URL still resolve. Also: absolute logo path +
+# last-synced footer.
 node -e '
-const fs=require("fs"), p="content/Welcome.md";
-let s=fs.readFileSync(p,"utf8");
+const fs=require("fs"), src="content/Welcome.md", dst="content/index.md";
+let s=fs.readFileSync(src,"utf8");
 s=s.replace(/src="sg-logo-roger-graham-400x400\.webp"/g,"src=\"/static/sg-logo-roger-graham-400x400.webp\"");
 s=s.replace(/\n%%GENERATED%%[\s\S]*$/,"");
+if(/^---\n/.test(s)) s=s.replace(/^(---\n[\s\S]*?\n)---\n/, (m,fm)=> /\naliases:/.test(fm) ? m : fm+"aliases: [Welcome, welcome]\n---\n");
+else s="---\naliases: [Welcome, welcome]\n---\n"+s;
 const ts=new Date().toLocaleString("en-US",{timeZone:"America/Denver",dateStyle:"long",timeStyle:"short"});
 s+="\n%%GENERATED%%\n\n---\n*Last synced from GitHub · "+ts+"*\n";
-fs.writeFileSync(p,s);
+fs.writeFileSync(dst,s); fs.unlinkSync(src);
 '
 
 npx quartz plugin install     # v5: fetch remote plugins to .quartz/
@@ -39,5 +44,3 @@ find public -name '*.html' -type f -print0 \
 # ambiguous wikilinks (entity in >1 folder) resolve to a bare /slug that 404s;
 # emit redirect stubs to the canonical page
 node generate-redirect-stubs.mjs
-
-cp public/welcome.html public/index.html
