@@ -102,15 +102,15 @@ The deterministic physics engine remains one of the most technically impressive 
 
 In 2014, original creators Jeff Tunnell and Kevin Ryan reunited to create Contraption Maker, a spiritual successor that represents "a true second-generation game"[^ref-39]. This modern interpretation maintains the original's core appeal while leveraging contemporary technology, as Tunnell noted: "Working on Contraption Maker with modern processors and GPU's, huge memory, connectivity, and high definition monitors is like being in a dream world"[^ref-40]. The reunion demonstrated the enduring significance of the original game and the creators' commitment to preserving their design philosophy for modern audiences.
 
-### ### Puzzle Design Philosophy
+### Puzzle Design Philosophy
 
 The Incredible Machine 2 featured open-ended puzzle design that rewarded creative thinking and experimental problem-solving over memorization[^ref-2]. Multiple solution paths allowed players to approach objectives through different mechanical combinations, encouraging replay and discovery[^ref-3]. The physics engine's realistic simulation of objects and gravity provided intuitive feedback that helped players develop mechanical intuition[^ref-4].
 
-### ### Physics Engine and Mechanics
+### Physics Engine and Mechanics
 
 The sophisticated physics engine simulated realistic object interactions, momentum, and gravity effects that made puzzle solutions intuitive[^ref-2].
 
-### ### Creative Gameplay Loop
+### Creative Gameplay Loop
 
 The game encouraged experimentation with visual feedback that helped players understand mechanical principles through interactive play[^ref-3].
 ### Puzzle Design and Level Progression

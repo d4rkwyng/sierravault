@@ -31,15 +31,20 @@ npx quartz plugin install     # v5: fetch remote plugins to .quartz/
 # folder-page's `sort` option is a raw fn; let it also accept a string (our
 # config passes a release-year sort so game listings are in chronological order)
 perl -i -pe 's/const sorter = sort \?\?/const sorter = (typeof sort==="string"?(0,eval)("("+sort+")"):sort) ??/' .quartz/plugins/folder-page/dist/index.js .quartz/plugins/folder-page/src/components/PageList.tsx
+# fail fast if a plugin update ever changes the line the patch targets
+grep -q 'typeof sort==="string"' .quartz/plugins/folder-page/dist/index.js \
+  || { echo "ERROR: folder-page sort patch no longer applies — plugin changed upstream"; exit 1; }
 
 npx quartz build
 
 # crawl-links resolves internal link targets with the *uncollapsed* slugify, but
 # pages live at collapsed slugs (see quartz/util/path.ts). Collapse dash-runs
 # inside href/data-slug attributes so internal links + hover popovers resolve
-# instead of 404ing. Safe: no page slug or asset filename contains "--".
+# instead of 404ing. Safe for internal targets (no page slug or asset filename
+# contains "--"), and external/scheme'd URLs are left untouched — citation links
+# legitimately contain "--" (e.g. rpgwatch.com/games/diablo--hellfire-238.html).
 find public -name '*.html' -type f -print0 \
-  | xargs -0 perl -i -pe 's/((?:href|data-slug)=")([^"]*)"/my($a,$b)=($1,$2);$b=~s{-{2,}}{-}g;$a.$b.chr(34)/ge'
+  | xargs -0 perl -i -pe 's/((?:href|data-slug)=")([^"]*)"/my($a,$b)=($1,$2);$b=~s{-{2,}}{-}g unless $b=~m{^[a-z][\w+.-]*:|^\/\/}i;$a.$b.chr(34)/ge'
 
 # ambiguous wikilinks (entity in >1 folder) resolve to a bare /slug that 404s;
 # emit redirect stubs to the canonical page

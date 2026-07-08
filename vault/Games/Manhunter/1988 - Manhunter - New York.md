@@ -107,11 +107,11 @@ The game has maintained a dedicated fan following, with users on GOG's wishlist 
 
 Many of the gameplay elements that Manhunter pioneered would later become popular in adventure games developed in the 1990s and 2000s, including "first-person adventures, puzzles of the kind seen in Ripper and Black Dahlia, graphic horror, and 'detective'-based gameplay"[^ref-16]. The game's willingness to embrace mature themes and graphic content proved influential for later horror-themed adventure games. Fan-created unofficial patches have been developed to address minor technical issues, demonstrating the game's enduring appeal among retro gaming enthusiasts[^ref-22]. The game remains notable for being very different from other AGI games in both interface and perspective[^ref-16], establishing itself as an important experimental work in Sierra's catalog.
 
-### ### Mature Narrative Themes
+### Mature Narrative Themes
 
 Manhunter: New York explored darker themes and morally complex storytelling that distinguished it from other Sierra adventure games[^ref-2]. The game's cyberpunk aesthetic and dystopian setting anticipated later game industry trends toward mature narratives[^ref-3].
 
-### ### World Building and Atmosphere
+### World Building and Atmosphere
 
 The detailed New York setting created atmospheric immersion through environmental storytelling[^ref-2].
 

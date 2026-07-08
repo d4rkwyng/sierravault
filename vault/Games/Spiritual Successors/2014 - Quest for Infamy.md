@@ -104,11 +104,11 @@ The success of Quest for Infamy demonstrated the viability of crowdfunded spirit
 
 The game has been ported to modern consoles including Nintendo Switch, PlayStation 4/5, and Xbox platforms, published by Ratalaika Games in 2022[^ref-8]. This console expansion brought the game to audiences beyond traditional PC gamers, though professional console reviews were more critical than user reviews, with TheXboxHub noting voice acting quality issues[^ref-20]. Regardless, the availability on modern platforms ensured that Quest for Infamy reached a new generation of players interested in classic-style adventure games.
 
-### ### Modern Adventure Game Tribute
+### Modern Adventure Game Tribute
 
 Quest for Infamy demonstrated that classic adventure game design remained viable for modern audiences through faithful homage to the Sierra tradition[^ref-2]. The game's success proved ongoing demand for character-driven narrative experiences and point-and-click adventure mechanics[^ref-3].
 
-### ### Development Challenges and Success
+### Development Challenges and Success
 
 The game overcame development hurdles to deliver a production-quality adventure game through community support[^ref-3].
 

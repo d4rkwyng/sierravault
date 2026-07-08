@@ -10,8 +10,17 @@ const PATH = "public/static/contentIndex.json"
 const ci = JSON.parse(fs.readFileSync(PATH, "utf8"))
 const keys = Object.keys(ci)
 
+// Same canonical preference as generate-redirect-stubs.mjs so the graph edge
+// and the HTML redirect stub agree on which duplicate an ambiguous name means.
+const PREF = ["developers", "publishers", "designers", "series", "games", "guides", "technology", "reference"]
+const rank = (slug) => {
+  const i = PREF.indexOf(slug.split("/")[0])
+  return i === -1 ? 99 : i
+}
+
 const byBase = new Map()
 for (const k of keys) {
+  if (k.startsWith("tags/")) continue // never point a content edge at a tag page
   const b = k.split("/").pop()
   ;(byBase.get(b) ?? byBase.set(b, []).get(b)).push(k)
 }
@@ -27,7 +36,8 @@ for (const k of keys) {
     const cands = byBase.get(collapsed.split("/").pop())
     if (cands && cands.length) {
       fixed++
-      return cands[0] // match by basename (folder was dropped in the link)
+      // match by basename (folder was dropped in the link); deterministic pick
+      return [...cands].sort((a, b) => rank(a) - rank(b) || a.localeCompare(b))[0]
     }
     return collapsed
   })

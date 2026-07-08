@@ -101,11 +101,11 @@ Al Lowe has stated that while "Torin wasn't my best-selling game, it's probably 
 Torin's Passage represented Sierra's commitment to combining traditional adventure game design with visual innovation[^ref-2]. The game demonstrated that character-driven narratives could sustain lengthy adventures without sacrificing player engagement through pure puzzle complexity[^ref-3]. Its commercial success justified continued investment in Sierra's adventure game lineup and influenced the direction of subsequent titles in the company's catalog[^ref-2].
 
 
-### ### Art Direction and Visual Storytelling
+### Art Direction and Visual Storytelling
 
 The hand-drawn character designs and backgrounds created a cohesive fantasy world that enhanced emotional engagement with the narrative[^ref-2]. Background animations and character expressions conveyed personality and story beats without relying solely on dialogue, creating a cinematic experience unusual for adventure games of the era[^ref-3].
 
-### ### Soundtrack and Audio Design
+### Soundtrack and Audio Design
 
 The orchestral soundtrack enhanced emotional moments and created atmospheric immersion throughout the fantasy world[^ref-4]. Voice acting performances brought characters to life with distinct personalities and emotional delivery[^ref-2].
 ### Character Development and Narrative

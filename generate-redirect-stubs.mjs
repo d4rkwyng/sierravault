@@ -41,15 +41,21 @@ for (const f of files) {
     const href = m[1]
     if (/^(https?:|#|mailto:|\/static\/)/.test(href)) continue
     if (/\.(png|webp|jpg|jpeg|gif|svg|css|js|json|xml|ico|woff2?|pdf|zip)(\?|$)/i.test(href)) continue
-    const clean = decodeURIComponent(href.split("#")[0].split("?")[0])
+    let clean
+    try {
+      clean = decodeURIComponent(href.split("#")[0].split("?")[0])
+    } catch {
+      continue // malformed percent-encoding in a href — not stub material
+    }
     if (!clean || clean === "/") continue
-    const target = path.normalize(path.join(dir, clean))
+    // absolute internal hrefs resolve from the site root, not the current page
+    const target = path.normalize(clean.startsWith("/") ? path.join(ROOT, clean) : path.join(dir, clean))
     if (fs.existsSync(target + ".html") || fs.existsSync(path.join(target, "index.html")) || fs.existsSync(target)) continue
     const rel = path.relative(ROOT, target)
     if (rel.startsWith("..") || rel.includes(":")) continue
     const cands = byBase.get(path.basename(rel))
     if (!cands || !cands.length) continue
-    const dest = "/" + [...cands].sort((a, b) => rank(a) - rank(b))[0]
+    const dest = "/" + [...cands].sort((a, b) => rank(a) - rank(b) || a.localeCompare(b))[0]
     const stubPath = path.join(ROOT, rel + ".html")
     if (stubbed.has(stubPath) || fs.existsSync(stubPath)) continue
     fs.mkdirSync(path.dirname(stubPath), { recursive: true })

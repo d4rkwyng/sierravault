@@ -109,11 +109,11 @@ While the original game is no longer commercially available, Al Lowe "generously
 
 The game has inspired fan remakes, including an AGS (Adventure Game Studio) version that received positive reception from the adventure gaming community[^ref-18]. Modern players often praise the game's accessibility and note that it may "actually best the King's Quest games" in terms of approachability "even though it's not quite as groundbreaking"[^ref-13]. The longevity of fan interest demonstrates that the game's core design remains sound despite its age and simpler interface compared to modern standards.
 
-### ### Animated Adventure Aesthetics
+### Animated Adventure Aesthetics
 
 The Black Cauldron brought Disney's distinctive animation style to interactive gaming, creating a visual experience that matched contemporary animated films[^ref-2]. Character animation and visual storytelling enhanced player immersion in the fantasy narrative[^ref-3].
 
-### ### Interaction Design
+### Interaction Design
 
 The point-and-click interface provided intuitive exploration and interaction mechanics[^ref-3].
 

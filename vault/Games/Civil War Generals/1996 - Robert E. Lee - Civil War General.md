@@ -115,11 +115,11 @@ Jeffrey Fiske's design philosophy prioritized making the game accessible to Civi
 
 The game's multimedia integration was cutting-edge for 1996. The 140 individual full-motion video clips of Civil War reenactments[^ref-10] provided visual context that enhanced immersion, while the commissioned artwork from renowned Civil War painter Mort Künstler added authentic historical aesthetics. These production decisions elevated Robert E. Lee above typical strategy games of the period by creating a comprehensive educational experience that combined entertainment with genuine historical learning. The complete multimedia encyclopedia feature provided immediate access to historical information without breaking gameplay immersion.
 
-### ### Historical Strategy Game Design
+### Historical Strategy Game Design
 
 Robert E. Lee: Civil War General presented historical battles with authentic unit compositions and historical strategic options[^ref-2]. The game's campaign system allowed players to experience the American Civil War through multiple strategic scenarios[^ref-3].
 
-### ### Simulation Accuracy
+### Simulation Accuracy
 
 The game featured historically accurate battle scenarios with proper unit types and capabilities[^ref-3].
 
