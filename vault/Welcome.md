@@ -132,7 +132,7 @@ Every page follows a consistent structure—overview, story, gameplay, developme
 > 
 > **Research Tools:** Brave Search API, ScraperAPI, DuckDuckGo, Kagi FastGPT, MobyGames, Wikipedia, fan wikis, magazine archives
 > 
-> **Publishing:** Obsidian vault → GitHub → [sierravault.net](https://sierravault.net) via Obsidian Publish | Mirror: [quartz.sierravault.net](https://quartz.sierravault.net)
+> **Publishing:** Obsidian vault → GitHub → [sierravault.net](https://sierravault.net) via Obsidian Publish | Mirror: [mirror.sierravault.net](https://mirror.sierravault.net)
 > 
 > Every claim is traceable to cited sources. If you spot an error, [let us know](#get-in-touch).
 

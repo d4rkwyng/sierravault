@@ -292,7 +292,7 @@ We welcome contributions! See **[CONTRIBUTING.md](CONTRIBUTING.md)** for detaile
 | Resource | URL |
 |----------|-----|
 | **Live Site** | [sierravault.net](https://sierravault.net) |
-| **Quartz Mirror** | [quartz.sierravault.net](https://quartz.sierravault.net) (secondary, self-hosted) |
+| **Quartz Mirror** | [mirror.sierravault.net](https://mirror.sierravault.net) (secondary, self-hosted) |
 | **GitHub Issues** | [Report bugs / Request features](https://github.com/d4rkwyng/sierravault/issues) |
 
 Want to host your own mirror? See the **[Quartz Hosting Guide](docs/QUARTZ.md)**.

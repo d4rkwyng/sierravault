@@ -149,7 +149,7 @@ Only `vault/` contains publishable content. Everything else stays at the repo ro
 
 - [Quartz Documentation](https://quartz.jzhao.xyz/)
 - [SierraVault Main Site](https://sierravault.net)
-- [Quartz Mirror](https://quartz.sierravault.net)
+- [Quartz Mirror](https://mirror.sierravault.net)
 
 ---
 

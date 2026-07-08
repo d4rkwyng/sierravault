@@ -136,5 +136,5 @@ Every game page needs:
 ## Links
 
 - **Live Site:** [sierravault.net](https://sierravault.net)
-- **Quartz Mirror:** [quartz.sierravault.net](https://quartz.sierravault.net)
+- **Quartz Mirror:** [mirror.sierravault.net](https://mirror.sierravault.net)
 - **Style Guide:** [docs/STYLE_GUIDE.md](docs/STYLE_GUIDE.md)
