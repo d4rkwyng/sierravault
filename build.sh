@@ -7,6 +7,9 @@ rm -rf content; mkdir content; cp -R "$VAULT_SRC"/. content/; rm -rf content/.ob
 mkdir -p quarantine
 node sanitize-frontmatter.mjs content/ quarantine
 
+# Prepend the release year to game titles so the nav shows/sorts by year
+node prefix-year.mjs content
+
 # Welcome page: absolute logo path + last-synced footer
 node -e '
 const fs=require("fs"), p="content/Welcome.md";
