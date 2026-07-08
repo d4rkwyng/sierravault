@@ -92,7 +92,7 @@ plugins:
     enabled: true
     order: 70
   - source: github:quartz-community/latex
-    enabled: true
+    enabled: false
     options:
       renderEngine: katex
     order: 80
@@ -230,9 +230,9 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/d4rkwyng
-        X: https://x.com/d4rkwyng
-        Bluesky: https://bsky.app/profile/d4rkwyng.bsky.social
+        GitHub: https://github.com/d4rkwyng/sierravault
+        X: https://x.com/Sierra_Vault
+        Bluesky: https://bsky.app/profile/sierravault.bsky.social
         RSS: /index.xml
   - source: github:quartz-community/recent-notes
     enabled: false
