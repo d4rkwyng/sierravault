@@ -158,7 +158,7 @@ plugins:
       title: ""
       folderClickBehavior: collapse
       folderDefaultState: collapsed
-      sortFn: '(a,b)=>{const x=a.data?.slug||"",y=b.data?.slug||"";const p=s=>s.startsWith("blog/")&&s!=="blog/index";if(!a.isFolder&&!b.isFolder&&p(x)&&p(y))return y.localeCompare(x);if(a.isFolder&&!b.isFolder)return -1;if(!a.isFolder&&b.isFolder)return 1;return (a.displayName||"").localeCompare(b.displayName||"",undefined,{numeric:true,sensitivity:"base"});}'
+      sortFn: '(a,b)=>{if(a.isFolder&&!b.isFolder)return -1;if(!a.isFolder&&b.isFolder)return 1;return (a.displayName||"").localeCompare(b.displayName||"",undefined,{numeric:true,sensitivity:"base"});}'
     layout:
       position: left
       priority: 50
