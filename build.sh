@@ -44,3 +44,6 @@ find public -name '*.html' -type f -print0 \
 # ambiguous wikilinks (entity in >1 folder) resolve to a bare /slug that 404s;
 # emit redirect stubs to the canonical page
 node generate-redirect-stubs.mjs
+
+# graph edges: remap contentIndex link targets to real (collapsed, full-path) slugs
+node fix-graph-links.mjs
