@@ -1,19 +1,21 @@
-@use "./base.scss";
+@use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Internal links: clean colored text instead of the default highlighted box
+a.internal {
+  background-color: transparent;
+  padding: 0;
+  color: var(--secondary);
+  text-decoration: underline;
+  text-decoration-color: var(--tertiary);
+  text-underline-offset: 2px;
 
-// Fix callout content line breaks (Obsidian blockquote syntax)
-.callout-content p {
-  white-space: pre-line;
-}
+  &:hover {
+    text-decoration-color: var(--secondary);
+  }
 
-// Hide Quartz auto-generated date/read time (we use manual Last Updated in content)
-.content-meta {
-  display: none;
-}
-
-// Hide the empty References heading (Quartz moves footnote defs to Footnotes section)
-// We keep the Footnotes section visible instead
-h2#references {
-  display: none;
+  // keep tag pills subtle, not boxed
+  &.tag-link {
+    color: var(--tertiary);
+    text-decoration: none;
+  }
 }

@@ -74,3 +74,6 @@ tsconfig.tsbuildinfo
 
 # Keep Quartz bundled static assets (overrides the *.png image ignore)
 !quartz/static/**
+
+# Quartz v5 remote plugins (fetched by plugin install)
+.quartz/

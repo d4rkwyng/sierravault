@@ -1,25 +1,13 @@
 #!/usr/bin/env bash
-# Build the SierraVault Quartz site.
-# Replicates the deathstar auto-rebuild pipeline for Cloudflare Workers:
-#   fetch content (vault) -> sanitize frontmatter -> fix logo path + timestamp
-#   -> quartz build -> make Welcome.html the homepage (/).
-# Uses only git/node/npm/cp so it runs on CF's build image and macOS alike.
+# Build the SierraVault Quartz (v5 / community) site for Cloudflare Workers.
 set -euo pipefail
-
-# Content lives in this same repo at ./vault (combined repo).
 VAULT_SRC="${VAULT_SRC:-vault}"
 
-# vault/ -> content/ (fresh copy of the vault's *contents*, drop Obsidian config)
-rm -rf content
-mkdir content
-cp -R "$VAULT_SRC"/. content/
-rm -rf content/.obsidian
-
-# Dedupe/quarantine messy YAML so one bad note can't fail the build
+rm -rf content; mkdir content; cp -R "$VAULT_SRC"/. content/; rm -rf content/.obsidian
 mkdir -p quarantine
 node sanitize-frontmatter.mjs content/ quarantine
 
-# Welcome page: absolute logo path + a "last synced" footer (portable, node-only)
+# Welcome page: absolute logo path + last-synced footer
 node -e '
 const fs=require("fs"), p="content/Welcome.md";
 let s=fs.readFileSync(p,"utf8");
@@ -30,8 +18,6 @@ s+="\n%%GENERATED%%\n\n---\n*Last synced from GitHub · "+ts+"*\n";
 fs.writeFileSync(p,s);
 '
 
-# Build
+npx quartz plugin install     # v5: fetch remote plugins to .quartz/
 npx quartz build
-
-# Homepage: / serves the Welcome page
 cp public/Welcome.html public/index.html

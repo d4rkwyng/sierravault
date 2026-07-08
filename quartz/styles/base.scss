@@ -91,10 +91,18 @@ a {
     color: var(--tertiary);
   }
 
-  &.internal {
-    text-decoration: none;
-    background-color: var(--highlight);
-    padding: 0 0.1rem;
+  &.internal,
+  &.internal.alias,
+  &.internal-link {
+    text-decoration: underline;
+    text-decoration-color: currentColor !important;
+    text-underline-offset: 2px;
+
+    &:hover {
+      text-decoration-color: currentColor !important;
+    }
+    background-color: transparent !important;
+    padding: 0 !important;
     border-radius: 5px;
     line-height: 1.4rem;
 
@@ -134,7 +142,7 @@ a {
 }
 
 .desktop-only {
-  display: initial;
+  display: contents;
   &.flex-component {
     display: flex;
   }
@@ -155,7 +163,7 @@ a {
     &.flex-component {
       display: flex;
     }
-    display: initial;
+    display: contents;
   }
 }
 
@@ -229,7 +237,6 @@ a {
     }
 
     & .sidebar.left {
-      padding-left: 2rem;
       z-index: 1;
       grid-area: grid-sidebar-left;
       flex-direction: column;
@@ -310,6 +317,48 @@ a {
   }
 }
 
+// ============================================================================
+// Page Frame Overrides
+// ============================================================================
+
+// Full-width frame: no sidebars, center content spans full width
+.page[data-frame="full-width"] > #quartz-body {
+  grid-template-columns: auto;
+  grid-template-rows: auto auto auto;
+  grid-template-areas:
+    "grid-header"
+    "grid-center"
+    "grid-footer";
+
+  @media all and ($tablet) {
+    grid-template-columns: auto;
+  }
+
+  & .center.full-width {
+    max-width: 100%;
+    min-width: 100%;
+  }
+}
+
+// Minimal frame: no sidebars, no header/footer chrome, body content only + footer
+.page[data-frame="minimal"] > #quartz-body {
+  grid-template-columns: auto;
+  grid-template-rows: auto auto;
+  grid-template-areas:
+    "grid-center"
+    "grid-footer";
+
+  @media all and ($tablet) {
+    grid-template-columns: auto;
+  }
+
+  & .center.minimal {
+    max-width: 100%;
+    min-width: 100%;
+    margin: 0;
+  }
+}
+
 .footnotes {
   margin-top: 2rem;
   border-top: 1px solid var(--lightgray);
@@ -350,7 +399,7 @@ input[type="checkbox"] {
 blockquote {
   margin: 1rem 0;
   border-left: 3px solid var(--secondary);
-  padding-left: 2rem;
+  padding-left: 1rem;
   transition: border-color 0.2s ease;
 }
 
@@ -460,7 +509,7 @@ pre {
   & > code {
     background: none;
     padding: 0;
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     counter-reset: line;
     counter-increment: line 0;
     display: grid;
@@ -612,7 +661,7 @@ ol.overflow {
 
 .transclude {
   ul {
-    padding-left: 2rem;
+    padding-left: 1rem;
   }
 }
 
@@ -640,3 +689,51 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+
+// Explorer: compact and single-line so long names (e.g. sierra-classic-launcher) don't wrap
+.explorer {
+  font-size: 0.9rem;
+  text-transform: lowercase;
+}
+.explorer ul li,
+.explorer .folder-title,
+.explorer li > a {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+// Hide the orphaned explorer collapse chevron (the "Explorer" label is empty)
+button.desktop-explorer.explorer-toggle,
+.explorer .title-button,
+.explorer > .desktop-explorer,
+.explorer .fold {
+  display: none !important;
+}
+// Make the dark/light toggle clearly visible in the toolbar
+.darkmode {
+  display: inline-block;
+  opacity: 1;
+}
+.darkmode svg {
+  fill: var(--darkgray);
+  width: 20px;
+  height: 20px;
+}
+
+// The Dracula theme hides the dark/light toggle; force it back (with day/night icon logic)
+html body button.darkmode { display: inline-block !important; }
+:root[saved-theme="dark"] body button.darkmode > .nightIcon { display: inline !important; }
+:root:not([saved-theme="dark"]) body button.darkmode > .dayIcon { display: inline !important; }
+
+// Date meta only on blog posts (hidden elsewhere so non-blog pages show no build-date)
+.content-meta { display: none; }
+body[data-slug^="blog/"] .content-meta { display: block; }
+
+// Smaller site title in the sidebar
+.page-title { font-size: 1.4rem !important; }
+
+// SierraVault: callout content line breaks (Obsidian blockquote syntax)
+.callout-content p { white-space: pre-line; }
+// SierraVault: hide the empty References heading (footnote defs move to Footnotes)
+h2#references { display: none; }

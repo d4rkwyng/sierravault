@@ -15,9 +15,8 @@ export async function glob(
     await globby(pattern, {
       cwd,
       ignore: ignorePatterns,
-      // We generate content/ at build time and keep it gitignored (it lives in
-      // the separate sierravault content repo). Don't let .gitignore hide it
-      // from the content glob — ignorePatterns still covers .obsidian etc.
+      // content/ is generated at build time and gitignored (lives in vault/);
+      // don't let .gitignore hide it. ignorePatterns still covers .obsidian etc.
       gitignore: false,
     })
   ).map(toPosixPath)
