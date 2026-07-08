@@ -39,7 +39,7 @@ npx quartz build
 # inside href/data-slug attributes so internal links + hover popovers resolve
 # instead of 404ing. Safe: no page slug or asset filename contains "--".
 find public -name '*.html' -type f -print0 \
-  | xargs -0 perl -i -pe 's/((?:href|data-slug)=")([^"]*)"/$1.($2=~s{-{2,}}{-}gr).chr(34)/ge'
+  | xargs -0 perl -i -pe 's/((?:href|data-slug)=")([^"]*)"/my($a,$b)=($1,$2);$b=~s{-{2,}}{-}g;$a.$b.chr(34)/ge'
 
 # ambiguous wikilinks (entity in >1 folder) resolve to a bare /slug that 404s;
 # emit redirect stubs to the canonical page
