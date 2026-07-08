@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="vault/Images/logo/sv-logo-h.webp" alt="SierraVault" width="440">
+</p>
+
 # 🎮 SierraVault
 
 **The definitive documentation archive for Sierra On-Line's gaming legacy.**
@@ -12,7 +16,7 @@
 
 SierraVault is a comprehensive Obsidian-based wiki documenting Sierra On-Line's complete gaming legacy from 1980 to present—flagship adventure series, acquired studios, fan remakes, and spiritual successors from Sierra alumni.
 
-**Live Site:** [sierravault.net](https://sierravault.net) (Obsidian Publish) | **Mirror:** [quartz.sierravault.net](https://quartz.sierravault.net)
+**Live Site:** [sierravault.net](https://sierravault.net) — built with [Quartz](https://quartz.jzhao.xyz) and deployed to Cloudflare Workers, auto-published from this repo on every push.
 
 ### What's Included
 
@@ -113,7 +117,7 @@ flowchart LR
     
     subgraph Publish["4️⃣ Publish"]
         H --> I[Git Commit]
-        I --> J[Obsidian Publish]
+        I --> J[Cloudflare Workers]
     end
 ```
 
@@ -127,7 +131,7 @@ flowchart LR
 | **Generation** | Write comprehensive pages | Claude Opus (AI-assisted) |
 | **Scoring** | Dual-model quality check | Claude + GPT (both must pass 90%) |
 | **Review** | Human editorial approval | Manual verification |
-| **Publish** | Deploy to live site | Git + Obsidian Publish |
+| **Publish** | Deploy to live site | Git push → Cloudflare Workers (Quartz build) |
 
 ---
 
@@ -264,7 +268,7 @@ We welcome contributions! See **[CONTRIBUTING.md](CONTRIBUTING.md)** for detaile
 | Resource | URL |
 |----------|-----|
 | **Live Site** | [sierravault.net](https://sierravault.net) |
-| **Quartz Mirror** | [quartz.sierravault.net](https://quartz.sierravault.net) |
+| **Quartz Mirror** | [quartz.sierravault.net](https://quartz.sierravault.net) (secondary, self-hosted) |
 | **GitHub Issues** | [Report bugs / Request features](https://github.com/d4rkwyng/sierravault/issues) |
 
 Want to host your own mirror? See the **[Quartz Hosting Guide](docs/QUARTZ.md)**.
