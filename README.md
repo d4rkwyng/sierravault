@@ -80,8 +80,18 @@ sierravault/
 │   └── publish.js            # Obsidian Publish scripts
 ├── docs/                     # Documentation
 │   ├── INCLUSION_CRITERIA.md # Game selection criteria
-│   ├── QUARTZ.md             # Self-hosting guide
+│   ├── QUARTZ.md             # Self-hosting a mirror guide
 │   └── STYLE_GUIDE.md        # Content formatting standards
+│
+│   # --- Quartz site (builds sierravault.net on Cloudflare Workers) ---
+├── quartz/                   # Quartz v5 site generator (theme + plugins)
+├── src/worker.js             # Edge redirector: old Obsidian URLs → Quartz slugs
+├── quartz.config.yaml        # Quartz config (theme, plugins, title)
+├── build.sh                  # Build: vault/ → sanitize → quartz build → public/
+├── prefix-year.mjs           # Prepend release year to game titles (nav order)
+├── sanitize-frontmatter.mjs  # Dedupe/quarantine bad YAML before build
+├── wrangler.jsonc            # Cloudflare Workers config
+├── package.json              # Quartz dependencies
 ├── CLAUDE.md                 # AI assistant instructions
 ├── CONTRIBUTING.md           # Contribution guidelines
 ├── LICENSE                   # CC BY-NC license
@@ -222,6 +232,20 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+
+### Build the Site (Quartz)
+
+The live site is [Quartz](https://quartz.jzhao.xyz) deployed to Cloudflare Workers.
+
+```bash
+npm ci
+./build.sh                 # vault/ → content/ → sanitize → quartz build → ./public
+```
+
+`build.sh` copies `vault/` into `content/`, sanitizes frontmatter, prepends
+release years to game titles, and builds. Cloudflare Workers runs the same on
+every push; `src/worker.js` 301-redirects old Obsidian-format links to the new
+slugs. Standard Quartz v5 (community fork).
 
 ### Running Quality Checks
 
