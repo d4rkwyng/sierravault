@@ -119,6 +119,9 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 
 Every page follows a consistent structure—overview, story, gameplay, development, reception, legacy, and references—so you always know where to look. Each entry is backed by **15–40+ citations** from MobyGames, Wikipedia, fan wikis, magazine scans, interviews, and contemporary reviews.
 
+> [!tip] Where This Came From
+> SierraVault grew out of **Sierra Classic Gaming**, my first Sierra fan site back in 2013. You can still see its animated [[splash|splash screen]], and the original site is preserved at **[old.sierraclassicgaming.com](https://old.sierraclassicgaming.com)**.
+
 > [!info] How It's Built
 > This archive evolved through several generations of AI tooling, with human editorial review at every stage:
 > 
