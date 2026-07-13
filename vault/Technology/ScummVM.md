@@ -1,18 +1,18 @@
 ---
 title: "ScummVM"
 type: technology
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 description: "The cross-platform virtual machine that re-implements LucasArts' SCUMM and Sierra's AGI and SCI engines, enabling modern systems to run nearly the entire Sierra adventure catalog."
 tags: [technology, scummvm, agi, sci, preservation, emulation]
 ---
 
 # ScummVM
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
-ScummVM is the open-source virtual machine that re-implements LucasArts' SCUMM scripting engine and, since 2002, [[Adventure Game Interpreter|Sierra's AGI]] and [[Sierra Creative Interpreter|SCI/SCI32]] engines as well.[^ref-1] Despite its name (originally "Script Creation Utility for Maniac Mansion Virtual Machine"), ScummVM has become the de facto preservation platform for the classic adventure-game era, supporting roughly **350 games across 70+ engines** as of the current 2.9.x release line.[^ref-2]
+ScummVM is the open-source virtual machine that re-implements LucasArts' SCUMM scripting engine and, since 2002, [[Adventure Game Interpreter|Sierra's AGI]] and [[Sierra Creative Interpreter|SCI/SCI32]] engines as well.[^ref-1] Despite its name (originally "Script Creation Utility for Maniac Mansion Virtual Machine"), ScummVM has become the de facto preservation platform for the classic adventure-game era, supporting well over **350 games across 80+ engines** as of the 2026 release line — the January 2026 "Like a Version" release alone added 12 engines and 190+ games.[^ref-2][^ref-20]
 
 For the Sierra archive, ScummVM matters for three reasons:
 
@@ -34,12 +34,20 @@ ScummVM was founded in October 2001 by Ludvig Strigeus and Vincent Hamm to repla
 
 ### Recent improvements (2020–2026)
 
-The 2.5–2.9 release line has steadily refined Sierra engine support. Notable additions:
+The 2.5–2.9 release line steadily refined Sierra engine support. Notable additions:
 
 - **Improved Phantasmagoria support** (2.5, 2022) — Resolved several Sierra "Mac SCI32" rendering issues.[^ref-9]
 - **Gabriel Knight 1 enhanced edition support** — Late SCI32 features required for the Anniversary Edition.[^ref-10]
 - **Shivers 1+2 native rendering** — Replaced the legacy QuickTime cinematic playback that had broken on modern systems.[^ref-11]
 - **2025 Amiga port collaboration** — The [[2025 - SCP Sierra Conversion Project|SCP project]] worked with ScummVM contributors to land AGA-optimized AGI and SCI builds on classic Amiga hardware.[^ref-12]
+
+### Year-based quarterly releases (2026– )
+
+In January 2026 the project switched from 2.x version numbers to year-based releases on a quarterly cadence:
+
+- **2026.1.0 "Like a Version"** (January 31, 2026) — Added 12 new engines and 190+ games, including full **Dynamix DGDS engine** support: [[1990 - Rise of the Dragon|Rise of the Dragon]], [[1991 - Heart of China|Heart of China]], and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] are now playable in ScummVM.[^ref-20]
+- **2026.2.0 "Railmonicon"** (March 28, 2026) — Improved PC-speaker emulation (relevant to early AGI titles) and an optimized Coktel Gob-engine renderer, making [[1991 - Gobliiins|Gobliiins]] and Ween noticeably more responsive on weaker platforms.[^ref-21]
+- **2026.3.0 "Carousels & Killer Whales"** (June 20, 2026) — No Sierra-specific changes.[^ref-22]
 
 ## Sierra Games Supported
 
@@ -54,10 +62,13 @@ The current ScummVM 2.9 release supports the following Sierra catalog (non-exhau
 ### SCI2/SCI32 titles (1994–1998)
 [[1994 - King's Quest VII - The Princeless Bride|King's Quest 7]], [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight 1]], [[1995 - The Beast Within - A Gabriel Knight Mystery|Gabriel Knight 2]], [[1995 - Phantasmagoria|Phantasmagoria]], [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria 2]], [[1995 - Shivers|Shivers]], [[1997 - Shivers Two - Harvest of Souls|Shivers 2]], [[1995 - Torin's Passage|Torin's Passage]], [[1996 - Lighthouse - The Dark Being|Lighthouse: The Dark Being]], [[1993 - Police Quest - Open Season|Police Quest 4]], [[1995 - Police Quest - SWAT|Police Quest: SWAT]], [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory 5]], [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]], [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]]
 
+### Dynamix DGDS titles (added 2026)
+[[1990 - Rise of the Dragon|Rise of the Dragon]], [[1991 - Heart of China|Heart of China]], [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — full support since 2026.1.0.[^ref-20]
+
 ### Currently unsupported
 - **[[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]]** — Uses Sierra's 3D engine (modified 3Space), not SCI; runs natively or via Windows compatibility shims.
 - **[[1998 - Caesar III|Caesar III]]** and the Impressions city-builder trilogy — Custom non-SCI engines.
-- **Dynamix and Papyrus titles** — Non-SCI engines (3Space, NASCAR Racing engines).
+- **Remaining Dynamix and Papyrus titles** — Non-DGDS engines (3Space simulations, NASCAR Racing engines).
 - **[[1999 - Homeworld|Homeworld]]** and other Relic-era titles — Custom engines.
 - **[[2015 - King's Quest|King's Quest (2015)]]** — Unreal Engine, runs natively.
 
@@ -122,3 +133,6 @@ The project's open-source nature has also made it a center of gravity for the br
 [^ref-17]: [ScummVM Downloads](https://www.scummvm.org/downloads/) — Official platform builds
 [^ref-18]: [PCGamingWiki — King's Quest: Mask of Eternity](https://www.pcgamingwiki.com/wiki/King%27s_Quest:_Mask_of_Eternity) — Modern compatibility issues
 [^ref-19]: [Sierra Help Wiki — ScummVM patches](https://wiki.sierrahelp.com/index.php/ScummVM_Patches) — Fan patch ecosystem
+[^ref-20]: [ScummVM 2026.1.0 "Like a Version" release announcement](https://www.scummvm.org/news/20260131/) — Year-based versioning, DGDS engine, 190+ new games
+[^ref-21]: [ScummVM 2026.2.0 "Railmonicon" release announcement](https://www.scummvm.org/news/20260328/) — PC-speaker emulation, Gob engine optimization
+[^ref-22]: [ScummVM 2026.3.0 "Carousels & Killer Whales" release announcement](https://www.scummvm.org/news/20260620) — Quarterly release, no Sierra changes

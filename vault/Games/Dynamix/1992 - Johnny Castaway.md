@@ -12,14 +12,14 @@ protagonist: Johnny Castaway
 sierra_lineage: Sierra Label (Dynamix)
 series: Johnny Castaway
 created: 2026-02-12
-last_updated: '2026-05-14'
+last_updated: '2026-07-13'
 description: 'Johnny Castaway is a screensaver from 1992 that depicts a man stranded on a desert island, telling an ongoing narrative that unfolds over approximately 120 days of real-world time.'
 tags: [screensaver, dynamix, sierra]
 ---
 
 # Johnny Castaway
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -158,6 +158,8 @@ Johnny Castaway became an unexpected cult classic. Even Jeff Tunnell was surpris
 
 As a 16-bit Windows 3.1 application, Johnny Castaway cannot run natively on modern 64-bit systems. However, the devoted fan community has developed workarounds for Windows 64-bit, macOS, and Linux.[^ref-1] Browser-based reimplementations have also emerged, including the open-source Castaway project that reverse-engineers the DGDS (Dynamix Game Development System) engine.[^ref-11][^ref-16]
 
+The recreation effort accelerated in 2026 with two new open-source projects: the [Johnny Castaway 2026 Edition](https://github.com/deckarep/Johnny-Castaway-2026-Public) (January 2026) and a [native Swift recreation for modern macOS](https://github.com/d4rkwyng/johnny-castaway-mac) (June 2026), which rebuilds the screensaver's real-time story arcs, gags, and holiday events as a native Mac app.
+
 ### Preservation
 
 The screensaver remains freely available through various preservation efforts, with Screensavers Planet hosting downloads that have been accessed nearly 70,000 times.[^ref-1] YouTube videos showcasing the full storyline have helped introduce Johnny Castaway to new generations of viewers.[^ref-18]
@@ -171,7 +173,7 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 - [Internet Archive](https://archive.org/details/johnny-castaway-screensaver) – Free download and browser-playable version
 - [Screensavers Planet](https://www.screensaversplanet.com/screensavers/johnny-castaway-237/) – Download with installation guides for modern systems
 
-*Last updated: 2026-02-19*
+*Last updated: 2026-07-13*
 
 ## See Also
 

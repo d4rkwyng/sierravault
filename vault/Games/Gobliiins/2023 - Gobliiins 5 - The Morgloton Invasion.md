@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Adventure Game Studio
 protagonist: Oups, Asgard, and Ignatius
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-03-27'
+last_updated: '2026-07-13'
 description: 'Gobliiins 5: The Morgloton Invasion (stylized as GOBLiiiNS 5) is a 2D
   point-and-click adventure game released in 2023, marking the long-awaited return
   of...'
@@ -18,7 +18,7 @@ tags: [2020s, adventure, coktel, gobliiins, sierra]
 ---
 # Gobliiins 5: The Morgloton Invasion
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -197,6 +197,7 @@ Gobliiins 5 also demonstrated that demand exists for traditional 2D adventure ga
 **Purchase / Digital Stores**
 - [Steam](https://store.steampowered.com/app/2475980/) - Full game and free demo
 - [itch.io](https://pierre-gilhodes.itch.io/gobliiins5) - DRM-free purchase
+- **Gobliiins Collection** (PS5 / Xbox Series / Switch) - Red Art Games digital compilation of the first five games, released May 27, 2026 ([announcement](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available))
 
 **Community Resources**
 - [ScummVM](https://www.scummvm.org/) - For cross-platform compatibility

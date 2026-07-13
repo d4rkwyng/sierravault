@@ -1,6 +1,6 @@
 ---
 title: "News & Updates"
-updated: "2026-05-13"
+updated: "2026-07-13"
 cssclass: news-page
 ---
 # 📰 News & Updates
@@ -9,7 +9,43 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 ---
 
-## 🔥 Q2 2026 (Apr–May)
+## 🔥 Q3 2026 (Jul– )
+
+> [!tip] Sierra Documentary — Rough Cut Trimmed to ~2 Hours
+> **July 9, 2026** — On the crowdfund's two-year anniversary, the [[Sierra Documentary - Legends of Adventure|Legends of Adventure]] team confirmed the film is down from its 4h12m rough cut to a **nearly completed two-hour cut**, still targeting a 2026 release. An earlier June 19 update covered the film's original score and merch reveals.
+>
+> [BackerKit Updates](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/updates) · [Bluesky](https://bsky.app/profile/gamelegendsdoc.bsky.social)
+
+---
+
+## 🔥 Q2 2026 (Apr–Jun)
+
+> [!success] Johnny Castaway Comes to Modern macOS
+> **June 10–11, 2026** — A native Swift recreation of [[1992 - Johnny Castaway|Johnny Castaway]], the classic 1992 Sierra/Dynamix screensaver, shipped its first public releases (v0.1.0 through v0.2.5) — real-time story arcs, gags, and holiday events on modern Macs.
+>
+> [GitHub Releases](https://github.com/d4rkwyng/johnny-castaway-mac/releases)
+
+> [!example] SpaceVenture — Patch v2.08.11 + First Major Review
+> **June 10, 2026** — [[2022 - SpaceVenture|SpaceVenture]] received bugfix patch v2.08.11 on Steam. Earlier in the quarter (April 3), Adventure Game Hotspot reviewed the full release at **73%** — "a fairly entertaining experience tailored especially for Space Quest fans," praising the voice work and Ken Allen's soundtrack.
+>
+> [Steam announcements](https://steamcommunity.com/app/1374960/announcements/) · [AGH Review](https://adventuregamehotspot.com/review/6234/spaceventure)
+
+> [!example] June 2026
+> - **Jun 20** — ScummVM 2026.3.0 "Carousels & Killer Whales" released (Nancy Drew 8–9, Noctropolis; no Sierra-specific changes) — [Announcement](https://www.scummvm.org/news/20260620)
+> - **Jun 2** — **College Quest** released — Sierra-inspired AGS adventure set at a 1990s art college, sequel to School Quest — [itch.io](https://ironhide1975.itch.io/college-quest)
+
+> [!success] Gobliiins Collection — First Console Release for the Series
+> **May 27, 2026** — Red Art Games shadow-released the **Gobliiins Collection** for PS5, Xbox Series, and Switch ($24.99) — the first console compilation in series history, bundling [[1991 - Gobliiins|Gobliiins]], [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2]], [[1993 - Goblins Quest 3|Goblins Quest 3]], [[2009 - Gobliiins 4|Gobliiins 4]], and [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]]. Extras include a **new Pierre Gilhodes interview**, a mini-series gallery, and a music player. A physical PS5 edition follows September 24, 2026.
+>
+> [Gematsu](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) · [Nintendo Life](https://www.nintendolife.com/games/switch-eshop/gobliiins_collection) · [Limited Game News (physical)](https://limitedgamenews.com/2026/06/05/gobliiins-collection-playstation-5/)
+
+> [!tip] DOSBox Staging 0.83.0-RC1 — Authentic Roland SC-55 Emulation
+> **May 20, 2026** — Release candidate adds **100% authentic Roland SC-55 emulation** (via Nuked-SC55) — the sound module Sierra's General MIDI-era soundtracks (KQ6, Gabriel Knight, SQ5) were scored for — plus authentic CRT color emulation and disk-noise emulation. Final 0.83.0 still pending.
+>
+> [DOSBox Staging](https://www.dosbox-staging.org/)
+
+> [!example] April 2026
+> - **Apr 19** — [[2026 - Gobliins 6|Gobliins 6]] Version 12 bugfix build posted to itch.io ("two small bugs fixed" — Pierre Gilhodes)
 
 > [!example] Quest for Infamy: Roehm to Ruin — Final Voice Recording Booked for May
 > **April 4, 2026** — [[Infamous Quests]]'s Steven "Bt" Alexander confirmed via Patreon that **studio time is booked in May 2026** for **Steve Patrick** to record the remaining Mr. Roehm lines for [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] — the final outstanding production step on the long-awaited prequel. The team has also planned a **RetroGameCon Syracuse (Oct 2026)** showcase to coincide with release.
@@ -131,7 +167,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > | Project | Team | Status |
 > |---------|------|--------|
 > | [[TBD - King's Quest IV Remake (Infamous Adventures)\|KQ4 Remake]] | Infamous Adventures | 🔨 Active development |
-> | [[TBD - Quest for Infamy - Roehm to Ruin\|Roehm to Ruin]] | Infamous Quests | 🎙️ Voice recording |
+> | [[TBD - Quest for Infamy - Roehm to Ruin\|Roehm to Ruin]] | Infamous Quests | 🎙️ Voice recording *(no public update since Apr 4)* |
 > | [[TBD - Order of the Thorne - Fortress of Fire\|Fortress of Fire]] | Infamous Quests | ⏸️ On hold (~75%) |
 > | [[2025 - SCP Sierra Conversion Project\|SCP Conquests of Longbow]] | DaRaSCo/kikems | 🚧 90% complete |
 

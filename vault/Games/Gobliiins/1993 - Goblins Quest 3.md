@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Gob
 protagonist: Blount
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-05-11'
+last_updated: '2026-07-13'
 composer: [Different tunes from CD-ROM version (composed entirely differently)]
 description: Goblins Quest 3 is the third and final installment in Coktel Vision's
   beloved Gobliiins puzzle-adventure series, released in 1993 for MS-DOS and Amiga...
@@ -18,7 +18,7 @@ tags: [1990s, coktel, gobliiins, puzzle, sierra]
 ---
 # Goblins Quest 3
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -190,6 +190,7 @@ Modern critics recognize the game as "a great finale to a great series," noting 
 **Purchase / Digital Stores**
 - [GOG](https://www.gog.com/game/gobliiins_pack) - Included in Gobliiins Pack
 - [Steam](https://store.steampowered.com) - Available as part of Gobliiins collection
+- **Gobliiins Collection** (PS5 / Xbox Series / Switch) - Red Art Games digital compilation of the first five games, released May 27, 2026 ([announcement](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available))
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/goblin_dos)

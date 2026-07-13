@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Custom 3D
 protagonist: Tchoup, Stucco, Perluis
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-07-13'
 composer: [Didier Sallustro]
 description: Gobliiins 4 is the fourth installment in the beloved puzzle-adventure
   series that began in 1991, marking the franchise's return after a fifteen-year hiatus...
@@ -18,7 +18,7 @@ tags: [2000s, gobliiins, puzzle, sierra]
 ---
 # Gobliiins 4
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -204,8 +204,8 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- Currently unavailable on major digital platforms[^ref-22]
+- **Gobliiins Collection** (PS5 / Xbox Series / Switch) - Red Art Games digital compilation released May 27, 2026 — the game's first digital re-release ([announcement](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available))
+- Not available on GOG or Steam[^ref-22]
 - Retail copies occasionally available through secondary markets
 
 **Download / Preservation**

@@ -10,14 +10,14 @@ series: SpaceVenture
 engine: Unity
 protagonist: Ace Hardway
 sierra_lineage: Alumni Project
-last_updated: '2026-05-11'
+last_updated: '2026-07-13'
 description: SpaceVenture is a science fiction comedy adventure game developed by
   the Two Guys from Andromeda, the original creators of Sierra's classic Space Quest...
 tags: [2020s, adventure, 'null', sierra, two-guys]
 ---
 # SpaceVenture
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 
 ## Overview
@@ -58,7 +58,8 @@ SpaceVenture incorporates the quirky puzzles and offbeat humor that characterize
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Adventure Game Hotspot | 65% | Criticized lack of polish but praised core humor and story[^ref-1] |
+| Adventure Game Hotspot (original release) | 65% | Criticized lack of polish but praised core humor and story[^ref-1] |
+| Adventure Game Hotspot (2026 full release) | 73% | Re-review of the post-Early Access release: "a fairly entertaining experience tailored especially for Space Quest fans that's still plagued by a significant number of unfortunate caveats"[^ref-20] |
 | Chordian.net | 6/10 | Called it "a buggy mess with a daft user interface"[^ref-11] |
 | Impulse Gamer | 4/10 | Noted nostalgic appeal but technical issues[^ref-10] |
 | Steam User Reviews | 92% Very Positive | Current user rating shows strong fan support[^ref-3] |
@@ -110,6 +111,10 @@ As one reviewer summarized: "It feels like the producers just pushed it out the 
 |---------|------|-------|
 | v2.08.01 | December 23, 2025 | Major v2 release with Unity engine upgrade and extensive bug fixes[^ref-18] |
 | v2.08.02 | December 26, 2025 | Patch fixing Pipes scene bug[^ref-3] |
+| v2.08.05 | January 5, 2026 | Minor improvements and bug fixes[^ref-21] |
+| v2.08.09 | January 12, 2026 | Minor improvements (Garage scene, Andromecon cutscene logic)[^ref-21] |
+| v2.08.10 | February 18, 2026 | Native 4K support on capable systems[^ref-21] |
+| v2.08.11 | June 10, 2026 | Bug fixes for reported issues[^ref-21] |
 
 The v2 development cycle involved four phases: transitioning to the latest Unity version, multiple QA testing rounds, beta testing with backers ($30+ pledges), and final release to all eligible backers ($15+ pledges)[^ref-18]. The team also announced plans to add Steam achievements[^ref-3].
 
@@ -190,3 +195,5 @@ The team has continued supporting the game post-release, with v2 updates in late
 [^ref-17]: [IGN](https://www.ign.com/articles/2014/09/15/spaceventure-the-new-game-from-the-creators-of-space-quest) – - Activision contact attempt details
 [^ref-18]: [Kickstarter Update – SpaceVenture v2](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/4278390) – v2 announcement and development phases
 [^ref-19]: [PCGamingWiki – SpaceVenture](https://www.pcgamingwiki.com/wiki/SpaceVenture) – Technical documentation and fixes
+[^ref-20]: [Adventure Game Hotspot – SpaceVenture Review (2026)](https://adventuregamehotspot.com/review/6234/spaceventure) – Sam Amiotte-Beaulieu's 73% review of the post-Early Access full release
+[^ref-21]: [Steam – SpaceVenture Announcements](https://steamcommunity.com/app/1374960/announcements/) – Official patch notes for v2.08.05 through v2.08.11 (2026)

@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Gob
 protagonist: Asgard, Ignatius, and Oups (Hooter, Dwayne, and BoBo in US)
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-03-27'
+last_updated: '2026-07-13'
 description: Gobliiins is a quirky point-and-click adventure/puzzle game developed
   by French studio Coktel Vision and released in 1991. Created by Pierre Gilhodes
   and...
@@ -18,7 +18,7 @@ tags: [1990s, coktel, gobliiins, puzzle, sierra]
 ---
 # Gobliiins
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -245,6 +245,7 @@ The Gobliiins series spans five main entries across three decades, each with a d
 
 **Purchase / Digital Stores**
 - [GOG – Gobliiins Pack](https://www.gog.com/en/game/gobliiins_pack) - Includes first three games
+- **Gobliiins Collection** (PS5 / Xbox Series / Switch) - Red Art Games digital compilation of the first five games, released May 27, 2026 ([announcement](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available))
 
 **Download / Preservation**
 - [Internet Archive – German DOS Release](https://archive.org/details/gobliiins-1991-3.5-de) - Complete with manual

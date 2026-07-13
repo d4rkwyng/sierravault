@@ -3,16 +3,16 @@ title: "Sierra Documentary — Legends of Adventure"
 type: reference
 production_company: "Decently Creative"
 director: "Adam Schoales (editor)"
-status: "Post-production (rough cut complete)"
+status: "Post-production (~2-hour cut, July 2026)"
 announced: 2024
 expected_release: 2026
 subjects: [Ken Williams, Roberta Williams, Sierra On-Line, Adventure Games]
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 ---
 
 # Sierra Documentary — Legends of Adventure
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -40,6 +40,8 @@ This page is a vault-side tracker for the documentary's interviewees, production
 | 2025 | Additional interview shoots with industry figures (including John Romero) | Backerkit community updates[^ref-12] |
 | Late 2025 | "Thanksgiving Update" — new interviews announced | Backerkit Update #32612[^ref-13] |
 | 2026 | **Rough cut completed (4h 12m 38s); editor Adam Schoales leading polish pass** | Backerkit Update #38437[^ref-6] |
+| Jun 19, 2026 | Post-production update: original score/composition underway, enamel-pin merch reveal | Backerkit update, announced via Bluesky[^ref-17] |
+| Jul 9, 2026 | **Rough cut trimmed to a "nearly completed two hour cut"** — announced on the crowdfund's two-year anniversary | Director Will Perkins via Bluesky[^ref-17] |
 | 2026 | Project remains on track for theatrical / streaming release | Backerkit[^ref-6] |
 
 ## Subject Matter
@@ -98,3 +100,4 @@ The documentary is the most significant **single piece of Sierra journalism** in
 [^ref-14]: [Legends of Adventure — Official First Look (YouTube)](https://www.youtube.com/watch?v=0WqaPCJRwko) — Official teaser
 [^ref-15]: [BlizzardWatch — Sierra On-Line documentary crowdfunding (Aug 2024)](https://blizzardwatch.com/2024/08/05/sierra-online-documentary/) — Crowdfunding final-day coverage
 [^ref-16]: [Adventure Gamers — Discussion of Sierra On-Line documentary coverage](https://adventuregamers.com/news/legends-of-adventure-a-sierra-on-line-documentary) — Coverage from the adventure-game press
+[^ref-17]: [Legends of Adventure on Bluesky](https://bsky.app/profile/gamelegendsdoc.bsky.social) — Production updates feed; June 19 post-production update and July 9, 2026 two-hour-cut announcement (dates verified via public Bluesky API)

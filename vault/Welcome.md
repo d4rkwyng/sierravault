@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Sierra Vault"
-updated: "2026-02-11"
+updated: "2026-07-13"
 ---
 # Welcome, Fellow Adventure Seeker
 <img src="sg-logo-roger-graham-400x400.webp" alt="Sierra Vault" width="200" style="float: right; margin: 0 0 10px 10px;">
@@ -76,6 +76,8 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > [!success] Recent Releases & Updates
 > | Date | Project | Team | Status |
 > |------|---------|------|--------|
+> | Jun 2026 | [[1992 - Johnny Castaway\|Johnny Castaway for macOS]] | d4rkwyng | v0.2.5 released — native Swift recreation |
+> | May 2026 | Gobliiins Collection (PS5/Xbox/Switch) | Red Art Games | Released — first console compilation |
 > | Feb 2026 | [[2026 - Gobliins 6\|Gobliins 6: The Madmen of the Year 1000]] | Pierre Gilhodes | Released (itch.io Feb 10, Steam Feb 13) |
 > | Jan 2026 | [[2025 - SCP Sierra Conversion Project\|SCP Amiga Remasters]] | DaRaSCo & kikems | SQ4, KQ5, PQ3 released |
 > | Dec 2025 | [[2022 - SpaceVenture\|SpaceVenture v2]] | Two Guys from Andromeda | Released |
@@ -129,7 +131,8 @@ Every page follows a consistent structure—overview, story, gameplay, developme
 > 2. **ChatGPT** — Expanded content generation and source synthesis
 > 3. **ChatGPT Codex** — Batch processing scripts and validation tooling
 > 4. **Claude Code** — Quality scoring systems and automated fixes
-> 5. **OpenClaw + Claude** — Current system: autonomous content generation, dual-model scoring (Claude + GPT), and continuous quality monitoring with local Ollama models (Llama, Qwen) for validation
+> 5. **OpenClaw + Claude** — Autonomous content generation, dual-model scoring (Claude + GPT), and continuous quality monitoring with local Ollama models (Llama, Qwen) for validation
+> 6. **Claude Code** — Current system: research, content updates, and news monitoring with dual-model scoring (Claude + GPT) and human editorial review
 > 
 > **Human oversight:** Every page reviewed and approved before publishing.
 > 
