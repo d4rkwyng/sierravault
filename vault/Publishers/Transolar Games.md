@@ -5,15 +5,15 @@ founded: 2012
 headquarters: "United States"
 parent_company: null
 founders: ["Corey Cole", "Lori Ann Cole"]
-last_updated: "2026-05-08"
+last_updated: "2026-07-13"
 ---
 # Transolar Games
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
-Transolar Games is an independent game development and publishing company founded by [[Designers/Corey Cole|Corey Cole]] and [[Designers/Lori Ann Cole|Lori Ann Cole]], the legendary Sierra designers responsible for the *Quest for Glory* series.[^ref-1][^ref-6][^ref-11] The company was established to develop and publish new adventure-RPG games in the spirit of their classic Sierra work.[^ref-2][^ref-7][^ref-12]
+Transolar Games is an independent game development and publishing company founded by [[Corey Cole|Corey Cole]] and [[Lori Ann Cole|Lori Ann Cole]], the legendary Sierra designers responsible for the *Quest for Glory* series.[^ref-1][^ref-6][^ref-11] The company was established to develop and publish new adventure-RPG games in the spirit of their classic Sierra work.[^ref-2][^ref-7][^ref-12]
 
 ## Sierra Connection
 
@@ -28,13 +28,13 @@ The company successfully Kickstarter-funded *Hero-U: Rogue to Redemption* in 201
 
 ## Key People
 
-- **[[Designers/Corey Cole|Corey Cole]]** - Co-founder, Lead Designer/Programmer
-- **[[Designers/Lori Ann Cole|Lori Ann Cole]]** - Co-founder, Lead Designer/Writer
+- **[[Corey Cole|Corey Cole]]** - Co-founder, Lead Designer/Programmer
+- **[[Lori Ann Cole|Lori Ann Cole]]** - Co-founder, Lead Designer/Writer
 
 ## Related
 
-- **Original Series:** [[Series/Quest for Glory Series|Quest for Glory Series]]
-- **Designers:** [[Designers/Corey Cole|Corey Cole]], [[Designers/Lori Ann Cole|Lori Ann Cole]]
+- **Original Series:** [[Quest for Glory Series|Quest for Glory Series]]
+- **Designers:** [[Corey Cole|Corey Cole]], [[Lori Ann Cole|Lori Ann Cole]]
 
 ## References
 

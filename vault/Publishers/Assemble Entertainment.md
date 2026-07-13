@@ -4,11 +4,11 @@ type: publisher
 founded: 2016
 headquarters: "Wiesbaden, Germany"
 parent_company: null
-last_updated: "2026-05-08"
+last_updated: "2026-07-13"
 ---
 # Assemble Entertainment
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -28,7 +28,7 @@ The new Larry games maintain the series' trademark humor while updating the game
 ## Related
 
 - **Developer:** CrazyBunch
-- **Original Series Creator:** [[Designers/Al Lowe|Al Lowe]]
+- **Original Series Creator:** [[Al Lowe|Al Lowe]]
 - **Original Publisher:** [[Publishers/Sierra On-Line|Sierra On-Line]]
 
 ## References

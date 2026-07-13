@@ -1,18 +1,18 @@
 ---
 title: "3D Engines"
 type: technology
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 description: "The custom 3D engines used by Sierra-published games — Dynamix's 3Space, Papyrus's NASCAR Racing engine, Relic's Homeworld engine, Valve's GoldSrc partnership, and the Unreal Engine 3 era of the 2015 reboot."
 tags: [technology, 3d-engines, dynamix, papyrus, relic, valve, unreal]
 ---
 
 # 3D Engines
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
-After the SCI engine line ended in 1998, Sierra's catalog ran on a diverse stable of 3D engines — most developed by acquired or partner studios rather than by Sierra itself. This page traces the major non-SCI 3D engines used in the Sierra-extended catalog, their distinguishing technical features, and the games each powered. For pre-1998 SCI-engine technical detail, see [[Reference/Engine History|Engine History]] and [[Sierra Creative Interpreter]].
+After the SCI engine line ended in 1998, Sierra's catalog ran on a diverse stable of 3D engines — most developed by acquired or partner studios rather than by Sierra itself. This page traces the major non-SCI 3D engines used in the Sierra-extended catalog, their distinguishing technical features, and the games each powered. For pre-1998 SCI-engine technical detail, see [[Engine History|Engine History]] and [[Sierra Creative Interpreter]].
 
 Unlike the unified SCI engine generations (which Sierra developed in-house and shipped across most of its 1988–1998 adventure catalog), the post-SCI 3D engines were one-or-two-franchise specialists. Each engine reflects its studio's design priorities: Dynamix's 3Space prioritized flight simulation; Papyrus's NASCAR engine prioritized vehicle physics; Relic's Homeworld engine prioritized space-fleet rendering; Valve's GoldSrc prioritized first-person-shooter responsiveness; Unreal Engine 3 prioritized cinematic episodic narrative.
 
@@ -180,7 +180,7 @@ The engine has been used elsewhere across the industry; this was its sole appear
 - **3Space-Mask** — Modified 3Space for [[1998 - King's Quest - Mask of Eternity|Mask of Eternity]] (above).
 - **NASCAR-derived engines for Front Page Sports** — Dynamix used adapted physics from the NASCAR codebase in some FPS titles.
 
-For pure-2D adventure engines (AGI, SCI), see [[Reference/Engine History|Engine History]] which covers the unified 1980-1998 Sierra engine lineage.
+For pure-2D adventure engines (AGI, SCI), see [[Engine History|Engine History]] which covers the unified 1980-1998 Sierra engine lineage.
 
 ---
 
@@ -197,7 +197,7 @@ For pure-2D adventure engines (AGI, SCI), see [[Reference/Engine History|Engine 
 
 ## See Also
 
-- [[Reference/Engine History|Engine History]] — Full Sierra engine lineage (AGI/SCI plus this 3D catalog)
+- [[Engine History|Engine History]] — Full Sierra engine lineage (AGI/SCI plus this 3D catalog)
 - [[Adventure Game Interpreter]], [[Sierra Creative Interpreter]] — Pre-3D Sierra engines
 - [[ScummVM]] — Preservation VM (focuses on AGI/SCI; doesn't support 3D engines)
 - [[GOG and Steam Re-Releases]] — Where 3D-engine titles are currently available

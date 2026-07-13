@@ -1,14 +1,14 @@
 ---
 title: "Awards"
 type: reference
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 description: "Major industry awards won by Sierra On-Line games and the studio's creators — DICE, GDC, BAFTA, CGW, AIAS Hall of Fame, World Video Game Hall of Fame, and lifetime-achievement honors across four decades."
 tags: [reference, awards, recognition, hall-of-fame]
 ---
 
 # Awards
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -151,10 +151,10 @@ Several primary documents are useful for verifying specific award claims:
 
 ## See Also
 
-- [[Reference/Timeline 1980-1999|Timeline 1980-1999]] — Per-year context for award-winning releases
-- [[Reference/Bibliography|Bibliography]] — Source-verification protocols
+- [[Timeline 1980-1999|Timeline 1980-1999]] — Per-year context for award-winning releases
+- [[Bibliography|Bibliography]] — Source-verification protocols
 - [[Roberta Williams]] — Most-honored Sierra creator
-- [[Reference/Corporate Lineage|Corporate Lineage]] — Award-receiving organizational entities by era
+- [[Corporate Lineage|Corporate Lineage]] — Award-receiving organizational entities by era
 
 ## References
 

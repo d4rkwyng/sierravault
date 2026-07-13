@@ -1,20 +1,20 @@
 ---
 title: "Voice Cast Index"
 type: reference
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 description: "Voice actors who appeared in multiple Sierra games, indexed by performer with their Sierra-catalogue credits. Covers Hollywood A-list talent through staff voice actors."
 tags: [reference, voice-acting, cast, performers]
 ---
 
 # Voice Cast Index
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
 Voice acting in Sierra games evolved from in-house staff recordings (Roberta Williams herself voicing the Witch in the *King's Quest V* CD-ROM) through Hollywood A-list talent (Tim Curry, Mark Hamill, Christopher Lloyd, Loretta Devine). This page indexes the multi-credit voice actors — those who appeared in two or more Sierra-catalogue titles — with their Sierra credits cross-linked to individual game pages.
 
-For single-game voice cast information, see the **Voice Cast** subsection of the relevant game page. For the technical/production context of voice recording at Sierra, see [[Technology/Audio and Music Tech|Audio and Music Tech]].
+For single-game voice cast information, see the **Voice Cast** subsection of the relevant game page. For the technical/production context of voice recording at Sierra, see [[Audio and Music Tech|Audio and Music Tech]].
 
 The list is sorted alphabetically by performer surname. "(uncredited)" notes mark cases where the actor's credit is confirmed via fan-research databases but doesn't appear in official liner notes.
 
@@ -166,8 +166,8 @@ Discrepancies between sources should be noted with "(per Source X)" annotations 
 
 ## See Also
 
-- [[Technology/Audio and Music Tech|Audio and Music Tech]] — Voice recording infrastructure at Sierra
-- [[Reference/Bibliography|Bibliography]] — Source-verification protocols
+- [[Audio and Music Tech|Audio and Music Tech]] — Voice recording infrastructure at Sierra
+- [[Bibliography|Bibliography]] — Source-verification protocols
 - [[Roberta Williams]], [[Josh Mandel]], [[Al Lowe]] — Designer-performers
 
 ## References

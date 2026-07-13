@@ -1,14 +1,14 @@
 ---
 title: "Sales Figures"
 type: reference
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 description: "Known commercial sales data for Sierra games, with sources. Indexed by series and by sales tier."
 tags: [reference, sales, commercial, finance]
 ---
 
 # Sales Figures
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -114,9 +114,9 @@ For the most accurate single-title sales context, the **Sierra IPO prospectus an
 
 ## See Also
 
-- [[Reference/Corporate Lineage|Corporate Lineage]] — Acquisition prices and corporate financials
-- [[Reference/Timeline 1980-1999|Timeline 1980-1999]] — Year-by-year release context
-- [[Reference/Bibliography|Bibliography]] — Primary-source verification protocols
+- [[Corporate Lineage|Corporate Lineage]] — Acquisition prices and corporate financials
+- [[Timeline 1980-1999|Timeline 1980-1999]] — Year-by-year release context
+- [[Bibliography|Bibliography]] — Primary-source verification protocols
 
 ## References
 

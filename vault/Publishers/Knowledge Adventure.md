@@ -4,11 +4,11 @@ type: publisher
 founded: 1991
 headquarters: "Glendale, California, United States"
 parent_company: "Vivendi Universal Games (acquired 2004)"
-last_updated: "2026-05-08"
+last_updated: "2026-07-13"
 ---
 # Knowledge Adventure
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -16,7 +16,7 @@ Knowledge Adventure is an American educational software publisher founded in 199
 
 ## Sierra Connection
 
-After Vivendi's acquisition, Knowledge Adventure continued development of the Dr.[^ref-3] Brain educational game series, which was originally created by Sierra On-Line.[^ref-4] The Dr.[^ref-5] Brain franchise, designed by the [[Designers/Corey Cole|Coles]], featured puzzle games that challenged players with logic, science, and problem-solving activities.[^ref-6]
+After Vivendi's acquisition, Knowledge Adventure continued development of the Dr.[^ref-3] Brain educational game series, which was originally created by Sierra On-Line.[^ref-4] The Dr.[^ref-5] Brain franchise, designed by the [[Corey Cole|Coles]], featured puzzle games that challenged players with logic, science, and problem-solving activities.[^ref-6]
 
 Knowledge Adventure released several Dr.[^ref-7] Brain titles in the late 1990s and 2000s, continuing the legacy of Sierra's educational gaming division.[^ref-8]
 

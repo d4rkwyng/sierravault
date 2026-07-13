@@ -7,12 +7,12 @@ first_release: 1991
 last_release: 1993
 total_games: 2
 genre: "Adventure, Educational"
-last_updated: "2026-05-12"
+last_updated: "2026-07-13"
 ---
 
 # EcoQuest Series
 
-<small style="color: gray">Last updated: May 12, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -77,7 +77,7 @@ Jane Jensen's involvement in *EcoQuest 1* is sometimes overlooked in retrospecti
 - [[Jane Jensen]] — *EcoQuest 1* co-designer; subsequent flagship designer
 - [[Gano Haine]] — Series co-designer
 - [[Sierra On-Line]] — Publisher / developer
-- [[Reference/Engine History|Engine History]] — SCI1.1 era
+- [[Engine History|Engine History]] — SCI1.1 era
 
 ## References
 

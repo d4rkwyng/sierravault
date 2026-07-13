@@ -5,15 +5,15 @@ founded: 1979
 defunct: 2008
 headquarters: "Oakhurst, California / Bellevue, Washington, United States"
 parent_company: "Vivendi Universal Games (1998-2008)"
-last_updated: "2026-05-08"
+last_updated: "2026-07-13"
 ---
 # Sierra On-Line
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
-Sierra On-Line (originally On-Line Systems, later Sierra Entertainment) was the flagship American video game publisher founded in 1979 by [[Designers/Ken Williams|Ken Williams]] and [[Designers/Roberta Williams|Roberta Williams]]. The company pioneered the graphic adventure game genre and published some of the most influential games in PC gaming history, including the King's Quest, Space Quest, Police Quest, Leisure Suit Larry, and Quest for Glory series.[^ref-1]
+Sierra On-Line (originally On-Line Systems, later Sierra Entertainment) was the flagship American video game publisher founded in 1979 by [[Ken Williams|Ken Williams]] and [[Roberta Williams|Roberta Williams]]. The company pioneered the graphic adventure game genre and published some of the most influential games in PC gaming history, including the King's Quest, Space Quest, Police Quest, Leisure Suit Larry, and Quest for Glory series.[^ref-1]
 
 ## Corporate History
 
@@ -39,10 +39,10 @@ Sierra operated several specialized sub-labels for different game genres:
 Sierra acquired and published games from numerous development studios:
 
 - **[[Developers/Dynamix|Dynamix]]** (acquired 1990) - Action, adventure, and simulation
-- **[[Developers/Impressions Games|Impressions Games]]** (acquired 1995) - City-building games
-- **[[Developers/Coktel Vision|Coktel Vision]]** (acquired 1993) - French adventure and educational games
-- **[[Developers/Papyrus Design Group|Papyrus Design Group]]** (acquired 1995) - Racing simulations
-- **[[Developers/Relic Entertainment|Relic Entertainment]]** (partnership) - Strategy games
+- **[[Impressions Games|Impressions Games]]** (acquired 1995) - City-building games
+- **[[Coktel Vision|Coktel Vision]]** (acquired 1993) - French adventure and educational games
+- **[[Papyrus Design Group|Papyrus Design Group]]** (acquired 1995) - Racing simulations
+- **[[Relic Entertainment|Relic Entertainment]]** (partnership) - Strategy games
 - **[[Publishers/Berkeley Systems|Berkeley Systems]]** (acquired 1997) - Screensavers and casual games
 - **Synergistic Software** (acquired) - Sports simulations, RPGs
 - **Valve** (publishing partnership 1998-2001) - First-person shooters

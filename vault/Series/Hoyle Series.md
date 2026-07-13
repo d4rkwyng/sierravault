@@ -7,12 +7,12 @@ first_release: 1989
 last_release: 2016
 total_games: 55
 genre: "Card Games, Casino, Board Games, Puzzle"
-last_updated: "2026-05-11"
+last_updated: "2026-07-13"
 ---
 
 # Hoyle Series
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -103,14 +103,14 @@ These adaptations were less commercially successful than the casino-card line an
 
 Hoyle is the only Sierra-developed series to outlast all four major corporate transitions (Sierra independent → CUC → Vivendi → Activision) without going dormant; entries continued under licensed publishers through 2016, two decades after Sierra's independent era ended. Its commercial endurance contributed materially to Sierra's bottom line in the 1990s when adventure-game revenue was declining,[^ref-9] and its design language — character-driven opponents, rule-accurate gameplay, and a virtual lobby with cross-game cameos — was widely imitated by competitors.
 
-For deeper analysis of the founding era's technical innovations, see the [[Warren Schwader]] designer page; for engine and AI specifics, see [[Technology/Sierra Creative Interpreter|Sierra Creative Interpreter]].
+For deeper analysis of the founding era's technical innovations, see the [[Warren Schwader]] designer page; for engine and AI specifics, see [[Sierra Creative Interpreter|Sierra Creative Interpreter]].
 
 ## See Also
 
 - [[Warren Schwader]] — Founding designer
 - [[Sierra On-Line]] — Publisher / developer
 - [[Corporate Lineage]] — Ownership transitions across the franchise's run
-- [[Reference/Versions|Sierra Game Versions]] — Hoyle interpreter version data
+- [[Versions|Sierra Game Versions]] — Hoyle interpreter version data
 
 ## References
 

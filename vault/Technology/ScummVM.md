@@ -51,7 +51,7 @@ In January 2026 the project switched from 2.x version numbers to year-based rele
 
 ## Sierra Games Supported
 
-The current ScummVM 2.9 release supports the following Sierra catalog (non-exhaustive):
+The current ScummVM release supports the following Sierra catalog (non-exhaustive):
 
 ### AGI-engine titles (pre-1988)
 [[1984 - King's Quest - Quest for the Crown|King's Quest 1]], [[1985 - King's Quest II - Romancing the Throne|King's Quest 2]], [[1986 - King's Quest III - To Heir Is Human|King's Quest 3]], [[1988 - King's Quest IV - The Perils of Rosella|King's Quest 4 (AGI)]], [[1986 - Space Quest - The Sarien Encounter|Space Quest 1]], [[1987 - Space Quest II - Vohaul's Revenge|Space Quest 2]], [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest 1]], [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry 1]], [[1986 - The Black Cauldron|The Black Cauldron]], [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] (DOS port), [[1984 - Mickey's Space Adventure|Mickey's Space Adventure]], [[1988 - Manhunter - New York|Manhunter NY]], [[1989 - Manhunter - San Francisco|Manhunter SF]], [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose AGI]], [[1988 - Gold Rush|Gold Rush!]]
@@ -109,7 +109,7 @@ The project's open-source nature has also made it a center of gravity for the br
 
 - [[Adventure Game Interpreter]] — Sierra's pre-SCI engine (1984–1988)
 - [[Sierra Creative Interpreter]] — The SCI/SCI32 engine family (1988–1998)
-- [[Reference/Versions]] — Per-title interpreter version data
+- [[Versions]] — Per-title interpreter version data
 - [[2025 - SCP Sierra Conversion Project]] — Amiga ports using ScummVM-derived engine code
 
 ## References

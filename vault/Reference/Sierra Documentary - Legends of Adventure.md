@@ -71,7 +71,7 @@ The documentary is the most significant **single piece of Sierra journalism** in
 - [[Roberta Williams]] — primary subject
 - [[Sierra On-Line]] — primary subject
 - [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]] — the Williamses' return project; a major framing device for the documentary's third act
-- [[Reference/Bibliography|Bibliography]] — a long-form moving-image source on Sierra history
+- [[Bibliography|Bibliography]] — a long-form moving-image source on Sierra history
 
 ## See Also
 
@@ -79,8 +79,8 @@ The documentary is the most significant **single piece of Sierra journalism** in
 - [[Roberta Williams]]
 - [[Sierra On-Line]]
 - [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]]
-- [[Reference/Bibliography|Bibliography]] — Sierra-history canonical sources
-- [[Reference/Timeline 2000-present|Timeline 2000-present]] — Sierra's post-acquisition / Williams-return era
+- [[Bibliography|Bibliography]] — Sierra-history canonical sources
+- [[Timeline 2000-present|Timeline 2000-present]] — Sierra's post-acquisition / Williams-return era
 
 ## References
 

@@ -1,20 +1,20 @@
 ---
 title: "GOG and Steam Re-Releases"
 type: technology
-last_updated: "2026-05-11"
+last_updated: "2026-07-13"
 description: "Where to legally buy Sierra games today — the current GOG.com and Steam catalogues by series, with DOSBox/ScummVM packaging notes and bundles guidance."
 tags: [technology, gog, steam, re-releases, preservation, commerce]
 ---
 
 # GOG and Steam Re-Releases
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
 The legal commercial path to playing Sierra adventure games on modern systems runs primarily through two digital storefronts: **GOG.com** (DRM-free) and **Steam**. GOG carries the majority of the Sierra adventure catalogue with pre-packaged DOSBox or ScummVM configurations; Steam carries a smaller subset plus most post-2014 re-releases.[^ref-1][^ref-2]
 
-This page is a snapshot of legal availability as of **May 2026**. The picture changes as Activision Blizzard (now Microsoft Gaming, since the October 2023 close) periodically adjusts back-catalogue licensing — see [[../Reference/Corporate Lineage|Corporate Lineage]] for the IP-rights context.
+This page is a snapshot of legal availability as of **May 2026**. The picture changes as Activision Blizzard (now Microsoft Gaming, since the October 2023 close) periodically adjusts back-catalogue licensing — see [[Corporate Lineage|Corporate Lineage]] for the IP-rights context.
 
 **Verification protocol:** Never trust a GOG link in a citation without first checking the title is actually available — Brave/Google search `site:gog.com "Game Title"` is the recommended verification step.[^ref-3]
 
@@ -144,9 +144,9 @@ When adding a GOG or Steam URL to a vault page's References section, follow thes
 - [[ScummVM]] — Engine virtual machine bundled with GOG packages
 - [[Adventure Game Interpreter]] — Pre-SCI engine used by AGI-era titles
 - [[Sierra Creative Interpreter]] — SCI engine family
-- [[Reference/Corporate Lineage|Corporate Lineage]] — IP ownership transitions
-- [[Reference/Bibliography|Bibliography]] — Source verification protocols
-- [[../Guides/Buying Guide|Buying Guide]] — User-facing storefront recommendations
+- [[Corporate Lineage|Corporate Lineage]] — IP ownership transitions
+- [[Bibliography|Bibliography]] — Source verification protocols
+- [[Buying Guide|Buying Guide]] — User-facing storefront recommendations
 
 ## References
 

@@ -1,14 +1,14 @@
 ---
 title: "Studio Map"
 type: reference
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 description: "Every acquired, partner, alumni, and fan studio in the Sierra extended catalogue, with founding date, status, location, parent company, and notable games. The cross-reference for `developer:` and `publisher:` YAML values."
 tags: [reference, studios, developers, publishers]
 ---
 
 # Studio Map
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -102,8 +102,8 @@ Used together with [[Corporate Lineage|Corporate Lineage]] and the per-studio De
 ## See Also
 
 - [[Corporate Lineage]] — Ownership chain across the Sierra brand
-- [[Reference/Timeline 1980-1999|Timeline 1980-1999]] — Studio founding/acquisition dates in chronological context
-- [[Reference/Bibliography|Bibliography]] — Verification sources for studio claims
+- [[Timeline 1980-1999|Timeline 1980-1999]] — Studio founding/acquisition dates in chronological context
+- [[Bibliography|Bibliography]] — Verification sources for studio claims
 - Individual Developer pages — Linked from each studio above
 
 ## References

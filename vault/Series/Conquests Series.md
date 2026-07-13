@@ -7,12 +7,12 @@ first_release: 1990
 last_release: 1991
 total_games: 2
 genre: "Adventure, Historical / Mythological"
-last_updated: "2026-05-12"
+last_updated: "2026-07-13"
 ---
 
 # Conquests Series
 
-<small style="color: gray">Last updated: May 12, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -79,7 +79,7 @@ No Conquests revival has been announced; the IP sits with Activision Blizzard / 
 
 - [[Christy Marx]] — Series designer
 - [[Sierra On-Line]] — Publisher / developer
-- [[Reference/Engine History|Engine History]] — SCI0/SCI1 era
+- [[Engine History|Engine History]] — SCI0/SCI1 era
 - [[1990 - Conquests of Camelot - The Search for the Grail]], [[1991 - Conquests of the Longbow - The Legend of Robin Hood]] — Individual game pages
 
 ## References

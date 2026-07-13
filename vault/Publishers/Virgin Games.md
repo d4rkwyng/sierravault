@@ -5,11 +5,11 @@ founded: 1983
 defunct: 2003
 headquarters: "London, United Kingdom / Irvine, California, United States"
 parent_company: "Virgin Group (historical)"
-last_updated: "2026-05-08"
+last_updated: "2026-07-13"
 ---
 # Virgin Games
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -29,8 +29,8 @@ Virgin Games published titles developed by studios that later worked with Sierra
 
 ## Related
 
-- **Developer:** [[Developers/Synergistic Software|Synergistic Software]]
-- **Developer:** [[Developers/Papyrus Design Group|Papyrus Design Group]]
+- **Developer:** [[Synergistic Software|Synergistic Software]]
+- **Developer:** [[Papyrus Design Group|Papyrus Design Group]]
 
 ## References
 

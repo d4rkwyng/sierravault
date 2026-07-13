@@ -4,11 +4,11 @@ type: publisher
 founded: 2010
 headquarters: "United States"
 parent_company: "Phoenix Online Studios"
-last_updated: "2026-05-08"
+last_updated: "2026-07-13"
 ---
 # Phoenix Online Publishing
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -18,7 +18,7 @@ Phoenix Online Publishing is the publishing division of Phoenix Online Studios, 
 
 Phoenix Online Publishing has deep roots in Sierra's legacy.[^ref-3][^ref-9][^ref-15] The studio began as the team behind *The Silver Lining*, an ambitious fan-made continuation of the King's Quest series that was eventually released with Activision's blessing in 2010.[^ref-4][^ref-10]
 
-The publishing arm later partnered with legendary Sierra designer [[Designers/Jane Jensen|Jane Jensen]] to publish her post-Sierra projects, including the Gabriel Knight 20th Anniversary Edition remake and original titles through her Pinkerton Road Studio.[^ref-5][^ref-11]
+The publishing arm later partnered with legendary Sierra designer [[Jane Jensen|Jane Jensen]] to publish her post-Sierra projects, including the Gabriel Knight 20th Anniversary Edition remake and original titles through her Pinkerton Road Studio.[^ref-5][^ref-11]
 
 ## Games Published (Sierra Archive)
 
@@ -33,7 +33,7 @@ Phoenix Online's team includes former Sierra fan community members who transitio
 
 ## Related
 
-- **Designer Partner:** [[Designers/Jane Jensen|Jane Jensen]]
+- **Designer Partner:** [[Jane Jensen|Jane Jensen]]
 - **Published Developer:** [[Publishers/Infamous Quests|Infamous Quests]]
 - **Fan Project:** [[2010 - The Silver Lining|The Silver Lining]]
 

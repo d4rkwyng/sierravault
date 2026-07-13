@@ -196,7 +196,7 @@ This page is hand-curated. Every dated entry is verified against at least one pr
 - [English Amiga Board](https://eab.abime.net/) — Amiga community discussion
 - [AGS Forums](https://www.adventuregamestudio.co.uk/forums/) — fan-game releases and dev threads
 
-For the vault's comprehensive research-source list see [[Reference/Bibliography|Bibliography]].
+For the vault's comprehensive research-source list see [[Bibliography|Bibliography]].
 
 ---
 

@@ -7,12 +7,12 @@ first_release: 1995
 last_release: 1997
 total_games: 2
 genre: "Puzzle, Horror"
-last_updated: "2026-05-12"
+last_updated: "2026-07-13"
 ---
 
 # Shivers Series
 
-<small style="color: gray">Last updated: May 12, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -71,7 +71,7 @@ No Shivers revival has been announced. The IP sits with Activision Blizzard / Mi
 - [[Sierra On-Line]] — Publisher / developer
 - [[Phantasmagoria Series]] — Contemporary horror alternative
 - [[Roberta Williams]] — Original *Shivers* consultant
-- [[Reference/Engine History|Engine History]] — SCI2.1/SCI32 era
+- [[Engine History|Engine History]] — SCI2.1/SCI32 era
 
 ## References
 

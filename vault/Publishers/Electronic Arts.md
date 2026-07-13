@@ -4,11 +4,11 @@ type: publisher
 founded: 1982
 headquarters: "Redwood City, California, United States"
 parent_company: null
-last_updated: "2026-05-08"
+last_updated: "2026-07-13"
 ---
 # Electronic Arts
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -35,7 +35,7 @@ Electronic Arts published several games developed by studios that would later be
 ## Related
 
 - **Developer (later Sierra):** [[Developers/Dynamix|Dynamix]]
-- **Developer (later Sierra):** [[Developers/Papyrus Design Group|Papyrus Design Group]]
+- **Developer (later Sierra):** [[Papyrus Design Group|Papyrus Design Group]]
 
 ## References
 

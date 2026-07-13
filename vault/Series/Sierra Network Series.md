@@ -7,12 +7,12 @@ first_release: 1991
 last_release: 1996
 total_games: 3
 genre: "MMO / Online Gaming Platform"
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 ---
 
 # Sierra Network / ImagiNation Network Series
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -107,7 +107,7 @@ The platform itself is preserved primarily through fan-community efforts. The or
 - [[Ken Williams]] — Founder / strategic driver
 - [[Sierra On-Line]] — Parent company
 - [[Hoyle Series]] — Card-game franchise that originated on TSN
-- [[Reference/Corporate Lineage|Corporate Lineage]] — AT&T → AOL transitions
+- [[Corporate Lineage|Corporate Lineage]] — AT&T → AOL transitions
 - [[1991 - The Shadow of Yserbius]], [[1993 - Fates of Twinion]], [[1996 - The Realm Online]] — Individual game pages
 
 ## References

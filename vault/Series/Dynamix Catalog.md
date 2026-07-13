@@ -7,12 +7,12 @@ first_release: 1984
 last_release: 2024
 total_games: 60
 genre: "Multiple (flight sim, mech, adventure, puzzle, sports, action)"
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 ---
 
 # Dynamix Catalog
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -154,7 +154,7 @@ Dynamix titles received consistently strong reviews throughout the Sierra era. N
 - [[Dynamix]] — Developer page (parent profile)
 - [[Jeff Tunnell]] — Co-founder, lead designer for many entries
 - [[Damon Slye]] — Co-founder, *Red Baron* designer
-- [[Reference/Corporate Lineage|Corporate Lineage]] — Sierra-acquisition context
+- [[Corporate Lineage|Corporate Lineage]] — Sierra-acquisition context
 - Individual franchise series pages (planned): [[Front Page Sports Series]], Aces Series, Incredible Machine Series, Starsiege Series
 
 ## References

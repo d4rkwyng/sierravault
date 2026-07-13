@@ -7,12 +7,12 @@ first_release: 1995
 last_release: 1996
 total_games: 2
 genre: "Horror, FMV Adventure"
-last_updated: "2026-05-12"
+last_updated: "2026-07-13"
 ---
 
 # Phantasmagoria Series
 
-<small style="color: gray">Last updated: May 12, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -74,9 +74,9 @@ The series has been continuously available digitally since GOG.com's 2008 re-rel
 - [[Roberta Williams]] — Original designer
 - [[Lorelei Shannon]] — Sequel designer
 - [[Mark Seibert]] — Composer
-- [[Reference/Engine History|Engine History]] — SCI2.1/SCI32 era
+- [[Engine History|Engine History]] — SCI2.1/SCI32 era
 - [[Sierra On-Line]] — Publisher
-- [[Reference/Awards|Awards]] — Phantasmagoria recognition
+- [[Awards|Awards]] — Phantasmagoria recognition
 
 ## References
 

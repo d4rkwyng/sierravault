@@ -5,11 +5,11 @@ founded: 1984
 defunct: 2001
 headquarters: "Eugene, Oregon, United States"
 parent_company: "Sierra On-Line (acquired 1990)"
-last_updated: "2026-05-08"
+last_updated: "2026-07-13"
 ---
 # Dynamix
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -19,7 +19,7 @@ For detailed information about the studio's development history and notable game
 
 ## Publishing History
 
-Before Sierra's acquisition, Dynamix self-published some of their early titles and also worked with other publishers including [[Publishers/Electronic Arts|Electronic Arts]]. After joining Sierra, most Dynamix games were published under the Sierra On-Line or Sierra Studios labels.[^ref-4][^ref-8][^ref-12]
+Before Sierra's acquisition, Dynamix self-published some of their early titles and also worked with other publishers including [[Electronic Arts|Electronic Arts]]. After joining Sierra, most Dynamix games were published under the Sierra On-Line or Sierra Studios labels.[^ref-4][^ref-8][^ref-12]
 
 ## Games Published (Pre-Sierra)
 

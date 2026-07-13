@@ -7,12 +7,12 @@ first_release: 1980
 last_release: 1984
 total_games: 12
 genre: "Adventure (pre-AGI)"
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 ---
 
 # Hi-Res Adventures Series
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -97,7 +97,7 @@ The series's lasting legacy:
 3. **Establishing Roberta Williams's design career** — Her 1980-1983 Hi-Res output is what made her possible as a designer through the AGI/SCI eras.
 4. **Pre-establishing series-thinking** — Hi-Res Adventures were numbered 0-6, an early example of franchise-style sequential branding that would carry into King's Quest, Space Quest, etc.
 
-Mystery House was inducted into [[Reference/Awards|various retrospective Hall of Fame]] recognitions; Roberta Williams was specifically honored at The Game Awards 2014 (Industry Icon Award) for her Hi-Res Adventures founding work alongside her later catalog.[^ref-15]
+Mystery House was inducted into [[Awards|various retrospective Hall of Fame]] recognitions; Roberta Williams was specifically honored at The Game Awards 2014 (Industry Icon Award) for her Hi-Res Adventures founding work alongside her later catalog.[^ref-15]
 
 ## See Also
 
@@ -107,8 +107,8 @@ Mystery House was inducted into [[Reference/Awards|various retrospective Hall of
 - [[Warren Schwader]] — Cribbage designer; On-Line's first hired programmer
 - [[Sierra On-Line]] — Successor company name
 - [[Adventure Game Interpreter]] — The engine that succeeded the per-title approach
-- [[Reference/Timeline 1980-1999]] — Year-by-year founding-era context
-- [[Reference/Corporate Lineage|Corporate Lineage]] — On-Line Systems → Sierra On-Line transition
+- [[Timeline 1980-1999]] — Year-by-year founding-era context
+- [[Corporate Lineage|Corporate Lineage]] — On-Line Systems → Sierra On-Line transition
 
 ## References
 

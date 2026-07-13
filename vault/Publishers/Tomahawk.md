@@ -4,19 +4,19 @@ type: publisher
 founded: null
 headquarters: "France"
 parent_company: null
-last_updated: "2026-05-08"
+last_updated: "2026-07-13"
 ---
 # Tomahawk
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
-Tomahawk was a French video game publisher that worked with [[Developers/Coktel Vision|Coktel Vision]] during the late 1980s and early 1990s.[^ref-1][^ref-5][^ref-9][^ref-13] The company published several Coktel Vision titles in France before Coktel's acquisition by Sierra On-Line in 1993.[^ref-2][^ref-6][^ref-10][^ref-14]
+Tomahawk was a French video game publisher that worked with [[Coktel Vision|Coktel Vision]] during the late 1980s and early 1990s.[^ref-1][^ref-5][^ref-9][^ref-13] The company published several Coktel Vision titles in France before Coktel's acquisition by Sierra On-Line in 1993.[^ref-2][^ref-6][^ref-10][^ref-14]
 
 ## Sierra Connection
 
-Tomahawk served as the original French publisher for many [[Developers/Coktel Vision|Coktel Vision]] games that were later distributed internationally by Sierra On-Line after the studio's acquisition.[^ref-3][^ref-7][^ref-11][^ref-15] These games represent the pre-Sierra era of Coktel Vision's catalog.[^ref-4][^ref-8][^ref-12]
+Tomahawk served as the original French publisher for many [[Coktel Vision|Coktel Vision]] games that were later distributed internationally by Sierra On-Line after the studio's acquisition.[^ref-3][^ref-7][^ref-11][^ref-15] These games represent the pre-Sierra era of Coktel Vision's catalog.[^ref-4][^ref-8][^ref-12]
 
 ## Games Published (Sierra Archive)
 
@@ -29,7 +29,7 @@ Tomahawk served as the original French publisher for many [[Developers/Coktel Vi
 
 ## Related
 
-- **Primary Developer:** [[Developers/Coktel Vision|Coktel Vision]]
+- **Primary Developer:** [[Coktel Vision|Coktel Vision]]
 - **Later Publisher:** [[Publishers/Sierra On-Line|Sierra On-Line]] (after 1993 acquisition)
 
 ## References

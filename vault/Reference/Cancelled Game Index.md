@@ -1,14 +1,14 @@
 ---
 title: "Cancelled Game Index"
 type: reference
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 description: "Every game in the SierraVault Cancelled folder, with cancellation date, lead designer, what made it interesting, and what's recoverable today (playable builds, screenshots, design documents)."
 tags: [reference, cancelled, never-released]
 ---
 
 # Cancelled Game Index
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -129,8 +129,8 @@ A fourth, smaller pattern: licensed-property cancellations where rights issues k
 ## See Also
 
 - [[Corporate Lineage]] — Corporate context for cancellation eras
-- [[Reference/Timeline 1980-1999|Timeline 1980-1999]] — Specific cancellation dates in chronological context
-- [[Guides/Cancelled Games]] — User-facing cancellation guide (may overlap)
+- [[Timeline 1980-1999|Timeline 1980-1999]] — Specific cancellation dates in chronological context
+- [[Cancelled Games]] — User-facing cancellation guide (may overlap)
 - `docs/INCLUSION_CRITERIA.md` (Inclusion Criteria) — How cancelled games qualify for the vault
 
 ## References

@@ -7,12 +7,12 @@ first_release: 1992
 last_release: 1999
 total_games: 14
 genre: "Sports Simulation"
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 ---
 
 # Front Page Sports Series
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -100,7 +100,7 @@ The Front Page Sports brand has not been revived since 1999. The IP currently si
 - [[Dynamix]] — Developer
 - [[Dynamix Catalog]] — Dynamix's full catalog including this series
 - [[Jeff Tunnell]] — Dynamix co-founder
-- [[Reference/Corporate Lineage|Corporate Lineage]] — Sierra/CUC ownership transitions
+- [[Corporate Lineage|Corporate Lineage]] — Sierra/CUC ownership transitions
 - [[CXL - Front Page Sports - Football Pro '99]] — Cancelled franchise entry
 
 ## References

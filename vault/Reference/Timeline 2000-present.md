@@ -1,20 +1,20 @@
 ---
 title: "Timeline 2000–present"
 type: reference
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 description: "Post-acquisition Sierra catalog timeline — Vivendi era through Activision Blizzard mothballing, alumni studios continuing the lineage, and Microsoft Gaming acquisition. Year by year through 2026."
 tags: [reference, timeline, post-sierra-history]
 ---
 
 # Timeline 2000–present
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
 This is the year-by-year chronology of Sierra's post-acquisition era — from the 2000 transition into Vivendi Universal Games through the brand's mothballing, periodic revivals, and absorption into Microsoft Gaming in 2023. Where the 1980s-1990s era is dominated by Sierra-direct releases under stable ownership, this timeline charts a more fragmented landscape: a few large Sierra-published titles in the early 2000s, then a long dormant period punctuated by alumni-led projects and occasional licensed revivals.
 
-For the independent-era chronology, see [[Reference/Timeline 1980-1999|Timeline 1980-1999]]; for ownership context, see [[Reference/Corporate Lineage|Corporate Lineage]].
+For the independent-era chronology, see [[Timeline 1980-1999|Timeline 1980-1999]]; for ownership context, see [[Corporate Lineage|Corporate Lineage]].
 
 ---
 
@@ -236,10 +236,10 @@ Three patterns characterize this period:
 
 ## See Also
 
-- [[Reference/Timeline 1980-1999|Timeline 1980-1999]] — Independent-era chronology
-- [[Reference/Corporate Lineage|Corporate Lineage]] — Ownership transitions
-- [[Reference/Cancelled Game Index|Cancelled Game Index]] — Three CXL- entries from this era (Precinct, Red Baron 2013 Remake, others)
-- [[Reference/Studio Map|Studio Map]] — Every studio's founding/closure context
+- [[Timeline 1980-1999|Timeline 1980-1999]] — Independent-era chronology
+- [[Corporate Lineage|Corporate Lineage]] — Ownership transitions
+- [[Cancelled Game Index|Cancelled Game Index]] — Three CXL- entries from this era (Precinct, Red Baron 2013 Remake, others)
+- [[Studio Map|Studio Map]] — Every studio's founding/closure context
 
 ## References
 

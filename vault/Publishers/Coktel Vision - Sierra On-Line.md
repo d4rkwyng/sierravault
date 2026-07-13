@@ -5,17 +5,17 @@ founded: 1985
 defunct: 2005
 headquarters: "Paris, France"
 parent_company: "Sierra On-Line (acquired 1993)"
-last_updated: "2026-05-08"
+last_updated: "2026-07-13"
 ---
 # Coktel Vision
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
 Coktel Vision was a French video game developer and publisher founded in 1985 by Roland Oskian.[^ref-1][^ref-8][^ref-15] The studio became known for distinctive adventure games with surreal humor, including the Gobliiins series and the Adi educational software line.[^ref-2][^ref-9] Sierra On-Line acquired Coktel Vision in 1993, making it Sierra's primary European development arm.[^ref-3][^ref-10]
 
-For detailed information about the studio's development history, see [[Developers/Coktel Vision|Coktel Vision (Developer)]].
+For detailed information about the studio's development history, see [[Coktel Vision|Coktel Vision (Developer)]].
 
 ## Sierra Connection
 
@@ -31,9 +31,9 @@ The Gobliiins series, Coktel's signature franchise, became part of Sierra's adve
 
 ## Related
 
-- **Developer Page:** [[Developers/Coktel Vision|Coktel Vision]]
+- **Developer Page:** [[Coktel Vision|Coktel Vision]]
 - **Parent Company:** [[Publishers/Sierra On-Line|Sierra On-Line]]
-- **Pre-Sierra Publisher:** [[Publishers/Tomahawk|Tomahawk]] (French releases)
+- **Pre-Sierra Publisher:** [[Tomahawk|Tomahawk]] (French releases)
 
 ## References
 

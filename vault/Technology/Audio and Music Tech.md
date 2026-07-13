@@ -1,14 +1,14 @@
 ---
 title: "Audio and Music Technology"
 type: technology
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 description: "Sierra's audio and music technology evolution: PC speaker → AdLib → Roland MT-32 → General MIDI → CD audio → orchestral scores. The technical and creative arc behind one of computer gaming's most ambitious music programs."
 tags: [technology, audio, music, midi, mt-32, adlib, cd-audio]
 ---
 
 # Audio and Music Technology
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -137,8 +137,8 @@ The recommended setup for music-purist players: ScummVM + Munt + original MT-32 
 
 - [[Adventure Game Interpreter]] — AGI engine audio architecture
 - [[Sierra Creative Interpreter]] — SCI engine audio architecture
-- [[Technology/ScummVM|ScummVM]] — Modern audio playback for original game music
-- [[Reference/Engine History|Engine History]] — Engine generations correlated to audio capabilities
+- [[ScummVM|ScummVM]] — Modern audio playback for original game music
+- [[Engine History|Engine History]] — Engine generations correlated to audio capabilities
 - [[Ken Allen]], [[Mark Seibert]], [[Robert Holmes]] — Designer profiles for the major composers
 
 ## References

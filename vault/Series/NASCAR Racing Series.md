@@ -7,12 +7,12 @@ first_release: 1994
 last_release: 2003
 total_games: 9
 genre: "Racing Simulation"
-last_updated: "2026-05-11"
+last_updated: "2026-07-13"
 ---
 
 # NASCAR Racing Series
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -73,7 +73,7 @@ The NASCAR Racing series received consistent strong reviews throughout its Sierr
 - [[Papyrus Design Group]] — Founding developer
 - [[Dave Kaemmer]] — Chief designer / chief technologist
 - [[Corporate Lineage]] — Sierra acquisition era
-- [[Reference/Bibliography|Bibliography]] — Source verification protocol
+- [[Bibliography|Bibliography]] — Source verification protocol
 - iRacing — Post-Sierra spiritual successor (founded by Kaemmer 2008)
 
 ## References

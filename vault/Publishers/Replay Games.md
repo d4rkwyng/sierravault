@@ -5,11 +5,11 @@ founded: 2011
 defunct: 2018
 headquarters: "Austin, Texas, United States"
 parent_company: null
-last_updated: "2026-05-08"
+last_updated: "2026-07-13"
 ---
 # Replay Games
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -17,7 +17,7 @@ Replay Games was an American video game development and publishing company found
 
 ## Sierra Connection
 
-Replay Games was explicitly founded to acquire and revive classic Sierra adventure game intellectual property.[^ref-3][^ref-10] The company's most notable achievement was partnering with [[Designers/Al Lowe|Al Lowe]] to create *Leisure Suit Larry: Reloaded*, an HD remake of the original 1987 Sierra classic.[^ref-4][^ref-11]
+Replay Games was explicitly founded to acquire and revive classic Sierra adventure game intellectual property.[^ref-3][^ref-10] The company's most notable achievement was partnering with [[Al Lowe|Al Lowe]] to create *Leisure Suit Larry: Reloaded*, an HD remake of the original 1987 Sierra classic.[^ref-4][^ref-11]
 
 The company secured rights to several Sierra properties through negotiations with Codemasters (who had acquired rights from Sierra) and launched successful Kickstarter campaigns to fund their remake projects.[^ref-5][^ref-12]
 
@@ -29,7 +29,7 @@ The company secured rights to several Sierra properties through negotiations wit
 ## Key People
 
 - **Paul Trowe** - Founder, CEO (former Sierra employee)
-- **[[Designers/Al Lowe|Al Lowe]]** - Creative Partner (Leisure Suit Larry creator)
+- **[[Al Lowe|Al Lowe]]** - Creative Partner (Leisure Suit Larry creator)
 
 ## Closure
 
@@ -37,8 +37,8 @@ Replay Games ceased operations around 2018 after several years of inactivity fol
 
 ## Related
 
-- **Partner Designer:** [[Designers/Al Lowe|Al Lowe]]
-- **Original Series:** [[Series/Leisure Suit Larry Series|Leisure Suit Larry Series]]
+- **Partner Designer:** [[Al Lowe|Al Lowe]]
+- **Original Series:** [[Leisure Suit Larry Series|Leisure Suit Larry Series]]
 
 ## References
 

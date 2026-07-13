@@ -1,20 +1,20 @@
 ---
 title: "Engine History"
 type: reference
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 description: "The technical evolution of Sierra On-Line's game engines from 1980 to 2015 — Hi-Res Adventure, AGI, SCI 0/1/1.1/2/3/32, the 3Space-derived Mask of Eternity engine, the Sci Companion era, and the post-Sierra engines used by acquired studios and the 2015 Odd Gentlemen reboot."
 tags: [reference, engines, technology, agi, sci, sci32]
 ---
 
 # Engine History
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
 Sierra On-Line developed and maintained a remarkable progression of in-house adventure-game engines over its independent era — five generations of the Sierra Creative Interpreter alone — plus a separate stable of engines inherited from acquired studios (Dynamix's 3Space, Papyrus's NASCAR simulation engine, Impressions' city-builder engine, Coktel's adventure platform). This page traces the canonical version history with release-year boundaries, the games that defined each generation, and the technical innovations that made the next generation necessary.
 
-For a quick reference of which engine shipped on which page, the `engine:` YAML field in each game page is authoritative. For per-title interpreter version numbers and resource-format details, see [[Reference/Versions|Sierra Game Versions]].
+For a quick reference of which engine shipped on which page, the `engine:` YAML field in each game page is authoritative. For per-title interpreter version numbers and resource-format details, see [[Versions|Sierra Game Versions]].
 
 ---
 
@@ -192,7 +192,7 @@ After the SCI era, Sierra's published catalogue ran on engines developed by acqu
 
 Modern preservation depends on three projects re-implementing these engines:
 
-- **[[Technology/ScummVM|ScummVM]]** — Re-implements AGI, SCI0, SCI1, SCI1.1, SCI2, SCI2.1, and SCI32. Supports the entire Sierra adventure catalogue through Mask of Eternity (which is not supported).
+- **[[ScummVM|ScummVM]]** — Re-implements AGI, SCI0, SCI1, SCI1.1, SCI2, SCI2.1, and SCI32. Supports the entire Sierra adventure catalogue through Mask of Eternity (which is not supported).
 - **DOSBox** — Generic DOS emulation; runs Sierra titles on the original engine binaries. The fallback when ScummVM doesn't have native support.
 - **FreeSCI** — Predecessor to ScummVM's SCI support, now merged into ScummVM.
 
@@ -200,11 +200,11 @@ For modern users, GOG.com's Sierra catalogue bundles either ScummVM or DOSBox pr
 
 ## See Also
 
-- [[Technology/Adventure Game Interpreter|AGI engine deep-dive]]
-- [[Technology/Sierra Creative Interpreter|SCI engine deep-dive]]
-- [[Technology/ScummVM|ScummVM]] — Modern re-implementation
-- [[Reference/Versions|Sierra Game Versions]] — Per-title interpreter version numbers
-- [[Reference/Timeline 1980-1999|Timeline 1980–1999]] — Engine-launch context
+- [[Adventure Game Interpreter|AGI engine deep-dive]]
+- [[Sierra Creative Interpreter|SCI engine deep-dive]]
+- [[ScummVM|ScummVM]] — Modern re-implementation
+- [[Versions|Sierra Game Versions]] — Per-title interpreter version numbers
+- [[Timeline 1980-1999|Timeline 1980–1999]] — Engine-launch context
 - [[Jeff Stephenson]] — Chief SCI architect
 
 ## References

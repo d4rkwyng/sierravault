@@ -7,12 +7,12 @@ first_release: 1993
 last_release: 2026
 total_games: 18
 genre: "Adventure (Sierra-tradition)"
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 ---
 
 # Spiritual Successors Catalog
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -125,9 +125,9 @@ The spiritual successors catalog is, in aggregate, **the largest active branch o
 - [[Phoenix Online Studios]]
 - [[Infamous Quests]]
 - [[Roberta Williams]] / [[Ken Williams]] / [[Jane Jensen]] / [[Lori Ann Cole]] / [[Corey Cole]] / [[Mark Crowe]] / [[Scott Murphy]] / [[Al Lowe]] / [[Pierre Gilhodes]] — designer pages
-- [[Reference/Studio Map|Studio Map]] — full studio cross-reference
-- [[Reference/Corporate Lineage|Corporate Lineage]] — Sierra IP ownership context
-- [[Reference/Timeline 2000-present|Timeline 2000-present]] — chronological context
+- [[Studio Map|Studio Map]] — full studio cross-reference
+- [[Corporate Lineage|Corporate Lineage]] — Sierra IP ownership context
+- [[Timeline 2000-present|Timeline 2000-present]] — chronological context
 
 ## References
 

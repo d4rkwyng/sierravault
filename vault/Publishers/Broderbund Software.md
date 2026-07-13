@@ -5,11 +5,11 @@ founded: 1980
 defunct: 1998
 headquarters: "Novato, California, United States"
 parent_company: "The Learning Company (acquired 1998)"
-last_updated: "2026-05-08"
+last_updated: "2026-07-13"
 ---
 # Broderbund Software
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -28,11 +28,11 @@ Broderbund competed with Sierra in the adventure and strategy game markets durin
 
 ## Legacy
 
-The Broderbund brand continued under various owners after the 1998 acquisition.[^ref-7][^ref-15] Currently, the Broderbund product line is managed by [[Publishers/Encore Software|Encore Software]] under a licensing agreement announced in 2008.[^ref-8]
+The Broderbund brand continued under various owners after the 1998 acquisition.[^ref-7][^ref-15] Currently, the Broderbund product line is managed by [[Encore Software|Encore Software]] under a licensing agreement announced in 2008.[^ref-8]
 
 ## Related
 
-- **Current Brand Manager:** [[Publishers/Encore Software|Encore Software]]
+- **Current Brand Manager:** [[Encore Software|Encore Software]]
 
 ## References
 

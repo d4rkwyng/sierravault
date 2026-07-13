@@ -7,12 +7,12 @@ first_release: 1991
 last_release: 2011
 total_games: 8
 genre: "Educational, Puzzle"
-last_updated: "2026-05-13"
+last_updated: "2026-07-13"
 ---
 
 # Dr. Brain Series
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -84,7 +84,7 @@ The franchise has not been revived as a standalone series since the 2011 JumpSta
 - [[Corey Cole]] — Series creator
 - [[Knowledge Adventure]] — Post-CUC publisher
 - [[Sierra On-Line]] — Original publisher
-- [[Reference/Corporate Lineage|Corporate Lineage]] — Sierra/CUC/Knowledge Adventure transition
+- [[Corporate Lineage|Corporate Lineage]] — Sierra/CUC/Knowledge Adventure transition
 - [[Quest for Glory Series]] — Cole's other Sierra franchise
 
 ## References
