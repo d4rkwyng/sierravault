@@ -11,11 +11,6 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 ## 🔥 Q3 2026 (Jul– )
 
-> [!example] King's Quest V Comes to iPhone & iPad
-> **July 12, 2026** — A new open-source project brings [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] to iOS: a DOSBox wrapper (built on dospad) with point-and-click touch controls and a prebuilt IPA — bring your own copy of the game.
->
-> [GitHub](https://github.com/dmaynard51/kq5-ios)
-
 > [!tip] Sierra Documentary — Rough Cut Trimmed to ~2 Hours
 > **July 9, 2026** — On the crowdfund's two-year anniversary, the [[Sierra Documentary - Legends of Adventure|Legends of Adventure]] team confirmed the film is down from its 4h12m rough cut to a **nearly completed two-hour cut**, still targeting a 2026 release. An earlier June 19 update covered the film's original score and merch reveals.
 >
