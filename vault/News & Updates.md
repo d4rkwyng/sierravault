@@ -21,14 +21,9 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 ## 🔥 Q2 2026 (Apr–Jun)
 
 > [!success] Johnny Castaway Comes to Modern macOS
-> **June 10–11, 2026** — A native Swift recreation of [[1992 - Johnny Castaway|Johnny Castaway]], the classic 1992 Sierra/Dynamix screensaver, shipped its first public releases (v0.1.0 through v0.2.5) — real-time story arcs, gags, and holiday events on modern Macs.
+> **June 10–11, 2026** — A native Swift recreation of [[1992 - Johnny Castaway|Johnny Castaway]], the classic 1992 Sierra/Dynamix screensaver, shipped its first public releases (v0.1.0 through v0.2.5) — real-time story arcs, gags, and holiday events on modern Macs. *(Developed by SierraVault's maintainer.)*
 >
 > [GitHub Releases](https://github.com/d4rkwyng/johnny-castaway-mac/releases)
-
-> [!example] SpaceVenture — Patch v2.08.11 + First Major Review
-> **June 10, 2026** — [[2022 - SpaceVenture|SpaceVenture]] received bugfix patch v2.08.11 on Steam. Earlier in the quarter (April 3), Adventure Game Hotspot reviewed the full release at **73%** — "a fairly entertaining experience tailored especially for Space Quest fans," praising the voice work and Ken Allen's soundtrack.
->
-> [Steam announcements](https://steamcommunity.com/app/1374960/announcements/) · [AGH Review](https://adventuregamehotspot.com/review/6234/spaceventure)
 
 > [!example] June 2026
 > - **Jun 20** — ScummVM 2026.3.0 "Carousels & Killer Whales" released (Nancy Drew 8–9, Noctropolis; no Sierra-specific changes) — [Announcement](https://www.scummvm.org/news/20260620)
@@ -42,6 +37,11 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > **May 20, 2026** — Release candidate adds **100% authentic Roland SC-55 emulation** (via Nuked-SC55) — the sound module Sierra's General MIDI-era soundtracks (KQ6, Gabriel Knight, SQ5) were scored for — plus authentic CRT color emulation and disk-noise emulation. Final 0.83.0 still pending.
 >
 > [DOSBox Staging](https://www.dosbox-staging.org/)
+
+> [!example] SpaceVenture — First Major Post-Release Review: 73%
+> **April 3, 2026** — Adventure Game Hotspot reviewed the full release of [[2022 - SpaceVenture|SpaceVenture]] at **73%** — "a fairly entertaining experience tailored especially for Space Quest fans," praising the voice work and Ken Allen's soundtrack. The game continues to receive fixes (v2.08.11, June 10).
+>
+> [AGH Review](https://adventuregamehotspot.com/review/6234/spaceventure) · [Steam announcements](https://steamcommunity.com/app/1374960/announcements/)
 
 > [!example] Quest for Infamy: Roehm to Ruin — Final Voice Recording Booked for May
 > **April 4, 2026** — [[Infamous Quests]]'s Steven "Bt" Alexander confirmed via Patreon that **studio time is booked in May 2026** for **Steve Patrick** to record the remaining Mr. Roehm lines for [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] — the final outstanding production step on the long-awaited prequel. The team has also planned a **RetroGameCon Syracuse (Oct 2026)** showcase to coincide with release.
@@ -111,29 +111,17 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > [!example] November 2025
 > - [[2021 - King's Quest IV Retold|KQ4 Retold]] VGA + Talkie version updated
 
-> [!example] October 2025
-> - **Oct 20** — ScummVM adds **Hodj 'n' Podj** support (Boffo Games/Bagel engine)
-> - **Oct 17** — ScummVM: **Trick or Treat** (1994 ACA Soft) ready for testing
-> - **Oct 5** — ScummVM: **Tex Murphy: Martian Memorandum** support added
-> - **Oct 2** — ScummVM: **Mort & Phil: A Movie Adventure** ready for testing
-
 ---
 
 ## 📅 Q3 2025 (Jul–Sep)
 
-> [!tip] Major ScummVM Additions
-> - **Aug 29** — **Penumbra: Overture** full support (first-person survival)
-> - **Aug 22** — **World Builder (WAGE) games** — 160+ classic Mac games supported
-> - **Jul 2** — **Adibou 2: Nature & Sciences** (Coktel Vision) support added
+> [!tip] Summer 2025 Updates
+> - **Jul 2** — ScummVM adds **Adibou 2: Nature & Sciences** ([[Coktel Vision]]) support
 > - **Jul** — [[2001 - King's Quest I VGA Remake|KQ1/KQ2 Enhanced]] v4.2 RC1 by AGD Interactive
 
 ---
 
 ## 📅 Q2 2025 (Apr–Jun)
-
-> [!tip] ScummVM Engine Additions
-> - **Jun 29** — **SLUDGE engine** full support (Out of Order, Life Flashes By, etc.)
-> - **Jun 17** — **The Last Express** ready for testing
 
 > [!tip] Media Coverage
 > - **May 17** — Ars Technica: ["Sierra made the games of my childhood. Are they still fun to play?"](https://arstechnica.com/gaming/2025/05/sierra-made-the-games-of-my-childhood-are-they-still-fun-to-play/) — Retrospective article
@@ -166,17 +154,6 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > | [[TBD - Quest for Infamy - Roehm to Ruin\|Roehm to Ruin]] | Infamous Quests | 🎙️ Voice recording *(no public update since Apr 4)* |
 > | [[TBD - Order of the Thorne - Fortress of Fire\|Fortress of Fire]] | Infamous Quests | ⏸️ On hold (~75%) |
 > | [[2025 - SCP Sierra Conversion Project\|SCP Conquests of Longbow]] | DaRaSCo/kikems | 🚧 90% complete |
-
----
-
-## 🌐 Amiga Scene News
-
-> [!info] Recent Amiga Ports & Enhancements
-> The Amiga retro scene remains active with Sierra-adjacent projects:
-> 
-> - **Ghosts'n Goblins AGA** — JOTD working on Amiga AGA edition ([IndieRetroNews](https://www.indieretronews.com/2026/01/ghostsn-goblins-is-also-getting.html))
-> - **Bad Dudes vs DragonNinja AGA** — JOTD teasing updates ([IndieRetroNews](https://www.indieretronews.com/2025/01/hot-news-bad-dudes-vs-dragonninja.html))
-> - **SCP Sierra Enhancements** — KQ5, PQ3, SQ4 enhanced for Amiga OCS
 
 ---
 
