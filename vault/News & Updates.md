@@ -32,7 +32,6 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 > [!example] June 2026
 > - **Jun 20** — ScummVM 2026.3.0 "Carousels & Killer Whales" released (Nancy Drew 8–9, Noctropolis; no Sierra-specific changes) — [Announcement](https://www.scummvm.org/news/20260620)
-> - **Jun 2** — **College Quest** released — Sierra-inspired AGS adventure set at a 1990s art college, sequel to School Quest — [itch.io](https://ironhide1975.itch.io/college-quest)
 
 > [!success] Gobliiins Collection — First Console Release for the Series
 > **May 27, 2026** — Red Art Games shadow-released the **Gobliiins Collection** for PS5, Xbox Series, and Switch ($24.99) — the first console compilation in series history, bundling [[1991 - Gobliiins|Gobliiins]], [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2]], [[1993 - Goblins Quest 3|Goblins Quest 3]], [[2009 - Gobliiins 4|Gobliiins 4]], and [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]]. Extras include a **new Pierre Gilhodes interview**, a mini-series gallery, and a music player. A physical PS5 edition follows September 24, 2026.
@@ -43,9 +42,6 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > **May 20, 2026** — Release candidate adds **100% authentic Roland SC-55 emulation** (via Nuked-SC55) — the sound module Sierra's General MIDI-era soundtracks (KQ6, Gabriel Knight, SQ5) were scored for — plus authentic CRT color emulation and disk-noise emulation. Final 0.83.0 still pending.
 >
 > [DOSBox Staging](https://www.dosbox-staging.org/)
-
-> [!example] April 2026
-> - **Apr 19** — [[2026 - Gobliins 6|Gobliins 6]] Version 12 bugfix build posted to itch.io ("two small bugs fixed" — Pierre Gilhodes)
 
 > [!example] Quest for Infamy: Roehm to Ruin — Final Voice Recording Booked for May
 > **April 4, 2026** — [[Infamous Quests]]'s Steven "Bt" Alexander confirmed via Patreon that **studio time is booked in May 2026** for **Steve Patrick** to record the remaining Mr. Roehm lines for [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] — the final outstanding production step on the long-awaited prequel. The team has also planned a **RetroGameCon Syracuse (Oct 2026)** showcase to coincide with release.
