@@ -275,9 +275,6 @@ On the other hand, the game also exemplifies design philosophies that would even
 - [Internet Archive – Game Manual](https://archive.org/details/vgmuseum_sierra_kq5-manual)
 - [Internet Archive – Alternate Manual](https://archive.org/details/vgmuseum_sierra_kq5-alt-manual)
 
-**Community Tools**
-- [KQ5 on iOS](https://github.com/dmaynard51/kq5-ios) — Open-source DOSBox wrapper (built on dospad) that runs the complete DOS game on iPhone/iPad with point-and-click touch controls; released July 2026. Requires your own copy of the game (no game data included).
-
 ## See Also
 
 - [[1984 - King's Quest - Quest for the Crown]]
