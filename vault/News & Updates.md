@@ -11,10 +11,24 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 ## 🔥 Q3 2026 (Jul– )
 
+> [!example] King's Quest V Comes to iPhone & iPad
+> **July 12, 2026** — A new open-source project brings [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] to iOS: a DOSBox wrapper (built on dospad) with point-and-click touch controls and a prebuilt IPA — bring your own copy of the game.
+>
+> [GitHub](https://github.com/dmaynard51/kq5-ios)
+
 > [!tip] Sierra Documentary — Rough Cut Trimmed to ~2 Hours
 > **July 9, 2026** — On the crowdfund's two-year anniversary, the [[Sierra Documentary - Legends of Adventure|Legends of Adventure]] team confirmed the film is down from its 4h12m rough cut to a **nearly completed two-hour cut**, still targeting a 2026 release. An earlier June 19 update covered the film's original score and merch reveals.
 >
 > [BackerKit Updates](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/updates) · [Bluesky](https://bsky.app/profile/gamelegendsdoc.bsky.social)
+
+> [!success] The Johnny Castaway Renaissance — Now on PlayStation 1
+> **July 5, 2026** — [[1992 - Johnny Castaway|Johnny Castaway]] hit **v1.0.0 on the PlayStation 1**: Hunter Davis's port validates all 63 scenes pixel-perfect against the original Sierra engine. It caps a remarkable wave of 2026 recreations — five independent open-source projects and counting:
+>
+> - 🕹️ **[Johnny Castaway PS1](https://github.com/huntergdavis/johnny-castaway-ps1)** — v1.0.0, July 5
+> - 🦀 **[Wilson Reborn](https://github.com/antigerme/wilson-reborn)** — Rust clone for Windows/Linux/macOS/browser, full-parity goal (v0.3.2, June 26)
+> - 🌐 **[Johnny Reborn HD](https://github.com/bigfnj/johnny-castaway-rebornHD)** — C engine on platform-native APIs incl. web (June 19)
+> - 🍎 **[johnny-castaway-mac](https://github.com/d4rkwyng/johnny-castaway-mac)** — native Swift for macOS (June) *(by SierraVault's maintainer)*
+> - 🖥️ **[Johnny Castaway 2026 Edition](https://github.com/deckarep/Johnny-Castaway-2026-Public)** — January 2026
 
 ---
 

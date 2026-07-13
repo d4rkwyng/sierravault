@@ -10,14 +10,14 @@ series: King's Quest
 engine: SCI1
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-07-13'
 description: 'King''s Quest V: Absence Makes the Heart Go Yonder! marks a pivotal
   turning point in Sierra On-Line''s gaming philosophy, representing one of the most...'
 tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # King's Quest V: Absence Makes the Heart Go Yonder!
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: July 13, 2026</small>
 
 ## Overview
 
@@ -274,6 +274,9 @@ On the other hand, the game also exemplifies design philosophies that would even
 **Manuals & Extras**
 - [Internet Archive – Game Manual](https://archive.org/details/vgmuseum_sierra_kq5-manual)
 - [Internet Archive – Alternate Manual](https://archive.org/details/vgmuseum_sierra_kq5-alt-manual)
+
+**Community Tools**
+- [KQ5 on iOS](https://github.com/dmaynard51/kq5-ios) — Open-source DOSBox wrapper (built on dospad) that runs the complete DOS game on iPhone/iPad with point-and-click touch controls; released July 2026. Requires your own copy of the game (no game data included).
 
 ## See Also
 

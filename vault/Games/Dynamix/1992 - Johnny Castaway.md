@@ -158,7 +158,13 @@ Johnny Castaway became an unexpected cult classic. Even Jeff Tunnell was surpris
 
 As a 16-bit Windows 3.1 application, Johnny Castaway cannot run natively on modern 64-bit systems. However, the devoted fan community has developed workarounds for Windows 64-bit, macOS, and Linux.[^ref-1] Browser-based reimplementations have also emerged, including the open-source Castaway project that reverse-engineers the DGDS (Dynamix Game Development System) engine.[^ref-11][^ref-16]
 
-The recreation effort accelerated in 2026 with two new open-source projects: the [Johnny Castaway 2026 Edition](https://github.com/deckarep/Johnny-Castaway-2026-Public) (January 2026) and a [native Swift recreation for modern macOS](https://github.com/d4rkwyng/johnny-castaway-mac) (June 2026), which rebuilds the screensaver's real-time story arcs, gags, and holiday events as a native Mac app.
+The recreation effort accelerated dramatically in 2026, with at least five independent open-source projects active by mid-year:
+
+- **[Johnny Castaway 2026 Edition](https://github.com/deckarep/Johnny-Castaway-2026-Public)** (January 2026) — modern desktop recreation
+- **[johnny-castaway-mac](https://github.com/d4rkwyng/johnny-castaway-mac)** (June 2026) — native Swift recreation for modern macOS rebuilding the real-time story arcs, gags, and holiday events
+- **[Johnny Reborn HD](https://github.com/bigfnj/johnny-castaway-rebornHD)** (June 2026) — a C engine refactored from jc_reborn to platform-native APIs, targeting Windows, macOS (Cocoa), Linux (X11), and the browser via Emscripten
+- **[Wilson Reborn](https://github.com/antigerme/wilson-reborn)** (v0.3.2, June 2026) — a Rust clone for Windows/Linux/macOS/browser aiming at full parity with every gag, easter egg, and holiday of the original, at modern resolutions (bring-your-own data files)
+- **[Johnny Castaway PS1](https://github.com/huntergdavis/johnny-castaway-ps1)** (v1.0.0, July 5, 2026) — a PlayStation 1 port by Hunter Davis with all 63 scenes validated pixel-perfect against the original Sierra engine, using a hybrid pipeline where a desktop host captures scenes from the real engine into packs the PS1 replays natively
 
 ### Preservation
 
