@@ -51,25 +51,29 @@ Once step 3a content-verification passes for every candidate ref AND the planned
 
 ## Hard paths
 
-- Vault root: `/Users/woodd/GitHub/sierravault/vault`
-- Scorer: `/Users/woodd/Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault/scripts/ACTIVE/consistency_check.py`
-- Research dossiers: `/Users/woodd/Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault/Research/games/<slug>/`
-- Cached report: `/Users/woodd/GitHub/sierravault/vault_report.json`
+- Vault root: `/Users/droid/GitHub/sierravault/vault`
+- Scorer: `${SIERRAVAULT_INTERNAL:-~/Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault}/scripts/ACTIVE/consistency_check.py`
+  (see `.claude/README.md`). On the fleet's `droid` account there is no iCloud
+  Drive at all, so the fallback path doesn't resolve here — set
+  `SIERRAVAULT_INTERNAL` to wherever the private repo actually lives on this
+  machine before running `/page-fix`.
+- Research dossiers: `${SIERRAVAULT_INTERNAL:-~/Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault}/Research/games/<slug>/`
+- Cached report: `/Users/droid/GitHub/sierravault/vault_report.json`
 
-The scorer requires `--vault /Users/woodd/GitHub/sierravault/vault/Games` (its built-in default points to a stale path).
+The scorer requires `--vault /Users/droid/GitHub/sierravault/vault/Games` (its built-in default points to a stale path).
 
 ## Procedure
 
 ### 1. Locate the page
 - Explicit path → use as-is.
-- Slug → `find /Users/woodd/GitHub/sierravault/vault/Games -iname "*<slug>*.md"`. If multiple hits, ask the user.
+- Slug → `find /Users/droid/GitHub/sierravault/vault/Games -iname "*<slug>*.md"`. If multiple hits, ask the user.
 - No arg → `python3 -c "import json; r=json.load(open('vault_report.json')); print(r['pages'][0]['filename'], r['pages'][0]['series'])"`, then build the full path.
 
 ### 2. Score the page
 ```bash
-SCRIPT="/Users/woodd/Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault/scripts/ACTIVE/consistency_check.py"
+SCRIPT="${SIERRAVAULT_INTERNAL:-$HOME/Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault}/scripts/ACTIVE/consistency_check.py"
 python3 "$SCRIPT" \
-  --vault /Users/woodd/GitHub/sierravault/vault/Games \
+  --vault /Users/droid/GitHub/sierravault/vault/Games \
   --file "<absolute-page-path>"
 ```
 Capture: score, threshold, ref_count, the full issue list with severity + points lost.
@@ -175,7 +179,7 @@ to today's date. Also update `last_updated:` in YAML if present.
 ### 9. Verify no regression
 Run the full vault scorer to confirm overall numbers haven't dropped:
 ```bash
-cd /Users/woodd/GitHub/sierravault && python3 run_consistency.py 2>&1 | tail -10
+cd /Users/droid/GitHub/sierravault && python3 run_consistency.py 2>&1 | tail -10
 ```
 The summary should still show 507/507 passing and avg ≥ previous.
 

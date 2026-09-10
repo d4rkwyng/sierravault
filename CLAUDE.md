@@ -22,7 +22,6 @@ sierravault/
 │   ├── Technology/     # Engine documentation
 │   ├── Reference/      # Timelines, indexes
 │   └── Images/         # Logos, favicons
-├── scripts/            # Validation and scoring tools
 ├── templates/          # Page templates
 ├── docs/               # Documentation
 │   ├── STYLE_GUIDE.md
@@ -83,6 +82,11 @@ For detailed guidance on specific tasks:
 
 ## Quick Commands
 
+> **Internal tooling (Assets/ACTIVE — private repo, not in this checkout).** The
+> commands below run from the private research/scoring repo, not from
+> `sierravault` itself — there is no `scripts/` directory here. See
+> `.claude/README.md` for how that repo is located.
+
 ```bash
 # Activate environment
 source .venv/bin/activate
@@ -116,6 +120,8 @@ Every game page needs:
 10. **References** - 15-40+ numbered citations
 
 ## Scoring Process
+
+(Uses the same private Assets/ACTIVE tooling noted under Quick Commands above.)
 
 1. Run structural scoring: `python scripts/score_page.py <path>`
 2. Run LLM scoring: `python scripts/score_page_llm.py <path> --model both`

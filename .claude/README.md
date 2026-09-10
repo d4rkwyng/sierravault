@@ -35,6 +35,6 @@ Claude Code configuration and instructions for SierraVault.
 |------|-------|
 | Project instructions | `/CLAUDE.md` |
 | Game pages | `vault/Games/` |
-| Scripts | `scripts/` |
+| Scripts | `scripts/` (Assets/ACTIVE — private repo, not in this checkout; see note above) |
 | Templates | `templates/` |
 | Documentation | `docs/` |

@@ -4,6 +4,7 @@ SierraVault Page Consistency Checker - Quick Test Script
 Runs consistency checks and saves output to JSON and text format.
 """
 
+import os
 import subprocess
 import sys
 import json
@@ -13,9 +14,17 @@ from pathlib import Path
 print("Installing PyYAML...")
 subprocess.run([sys.executable, "-m", "pip", "install", "pyyaml", "--break-system-packages", "-q"], check=False)
 
-# Copy the script from the assets location
+# Copy the script from the assets location. SIERRAVAULT_INTERNAL (see
+# .claude/README.md) takes priority so this works on machines that don't have
+# the private repo synced via iCloud Drive under this account (e.g. the
+# fleet's `droid` service account, which has no iCloud Drive at all).
 REPO_ROOT = Path(__file__).resolve().parent
-assets_script = Path.home() / "Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault/scripts/ACTIVE/consistency_check.py"
+_internal_root = os.environ.get("SIERRAVAULT_INTERNAL")
+assets_root = (
+    Path(_internal_root) if _internal_root
+    else Path.home() / "Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault"
+)
+assets_script = assets_root / "scripts/ACTIVE/consistency_check.py"
 output_script = REPO_ROOT / "consistency_check.py"
 
 if assets_script.exists():
@@ -23,6 +32,7 @@ if assets_script.exists():
     output_script.write_text(assets_script.read_text())
 else:
     print(f"WARNING: Could not find source script at {assets_script}")
+    print("Set SIERRAVAULT_INTERNAL to the private repo's location (see .claude/README.md).")
     sys.exit(1)
 
 # Make it executable

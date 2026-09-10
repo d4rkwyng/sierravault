@@ -8,10 +8,18 @@ import sys
 import os
 from pathlib import Path
 
-# Set up the path
+# Set up the path. SIERRAVAULT_INTERNAL (see .claude/README.md) takes
+# priority so this works on machines that don't have the private repo synced
+# via iCloud Drive under this account (e.g. the fleet's `droid` service
+# account, which has no iCloud Drive at all).
 REPO_ROOT = Path(__file__).resolve().parent
 vault_games = REPO_ROOT / "vault/Games"
-script_source = Path.home() / "Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault/scripts/ACTIVE/consistency_check.py"
+_internal_root = os.environ.get("SIERRAVAULT_INTERNAL")
+_assets_root = (
+    Path(_internal_root) if _internal_root
+    else Path.home() / "Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault"
+)
+script_source = _assets_root / "scripts/ACTIVE/consistency_check.py"
 
 # First ensure PyYAML is installed
 try:
@@ -47,4 +55,5 @@ if script_source.exists():
 
 else:
     print(f"ERROR: Script not found at {script_source}")
+    print("Set SIERRAVAULT_INTERNAL to the private repo's location (see .claude/README.md).")
     sys.exit(1)

@@ -49,7 +49,6 @@ SierraVault is a comprehensive Obsidian-based wiki documenting Sierra On-Line's 
 sierravault/
 ├── .claude/                  # AI assistant task instructions
 ├── .github/                  # GitHub templates (issues, PRs)
-├── scripts/                  # Scoring and validation tools
 ├── templates/                # Page templates
 ├── vault/                    # Obsidian vault (published content)
 │   ├── .obsidian/            # Obsidian settings
@@ -214,7 +213,7 @@ Every game page follows a consistent format:
 ### Prerequisites
 
 - [Obsidian](https://obsidian.md/) (for viewing/editing)
-- Python 3.10+ (for scripts)
+- Node.js (for building the Quartz site, below)
 - Git
 
 ### Setup
@@ -226,11 +225,6 @@ cd sierravault
 
 # Open vault in Obsidian
 # File → Open Vault → Select sierravault/vault folder
-
-# For scoring scripts (optional)
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
 ```
 
 ### Build the Site (Quartz)
@@ -247,18 +241,14 @@ release years to game titles, and builds. Cloudflare Workers runs the same on
 every push; `src/worker.js` 301-redirects old Obsidian-format links to the new
 slugs. Standard Quartz v5 (community fork).
 
-### Running Quality Checks
+### Quality Checks
 
-```bash
-# Score a single page (structural)
-python scripts/score_page.py "vault/Games/King's Quest/1992 - King's Quest VI.md"
-
-# Dual-model LLM scoring (requires API keys)
-python scripts/score_page_llm.py "vault/Games/Space Quest/1991 - Space Quest IV.md" --model both
-
-# Validate all wiki links
-python scripts/validate_links.py
-```
+Every page is required to pass structural scoring, dual-model (Claude + GPT)
+LLM accuracy scoring, and wiki-link validation before it's merged (see
+[Contributing Guide](CONTRIBUTING.md) for the standards). That scoring and
+validation tooling is internal/maintainer-only and isn't part of this
+repository, so it isn't runnable by cloning here — contributors should
+self-review against the standards instead.
 
 ---
 

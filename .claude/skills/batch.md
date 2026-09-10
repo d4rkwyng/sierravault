@@ -31,7 +31,7 @@ When user says `/batch`, do the following:
 
 ## Research Process
 
-For each game:
+For each game (Assets/ACTIVE — private repo tooling, not in this checkout; see `.claude/README.md`):
 
 ```bash
 source .venv/bin/activate

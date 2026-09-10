@@ -12,7 +12,7 @@ Process Sierra game entries in batch. The user wants to create multiple game ent
    - Create Designer/Developer pages if missing
 3. After all entries created:
    - Update Guide files (Game Index, Series Guide, Release Timeline)
-   - Run `python3 scripts/validate_links.py`
+   - Run `scripts/validate_links.py` (Assets/ACTIVE — private repo; see `.claude/README.md`)
 4. Report summary with links to new pages
 
 ## User input: $ARGUMENTS

@@ -29,12 +29,12 @@ cd sierravault
 
 # Open vault in Obsidian
 # File → Open Vault → Select sierravault/vault folder
-
-# For running scripts (optional)
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
 ```
+
+> This repository contains the vault content, templates, and site-build
+> tooling only. The automated scoring/validation scripts referenced in the
+> quality standards below are internal, maintainer-only tooling and aren't
+> included here — see "Quality Checks" below for what to do instead.
 
 ## ✍️ Content Guidelines
 
@@ -77,18 +77,12 @@ Every game page should have:
 
 ## 🔍 Quality Checks
 
-Before submitting, run these checks:
-
-```bash
-# Check page structure
-python scripts/score_page.py "vault/Games/Your Game/page.md"
-
-# Verify wiki links work
-python scripts/validate_links.py
-
-# Find duplicate references
-python scripts/find_duplicate_refs.py "vault/Games/Your Game/page.md"
-```
+Before submitting, self-review your page against the Minimum Standards table
+above: citation count, no duplicate reference URLs, and every `[[wiki link]]`
+resolving to a real page. There's no public tool in this repo to run these
+checks yourself — maintainers run automated structural scoring, dual-model
+LLM accuracy scoring, and link validation against every PR as part of
+review, so a careful self-review is what's expected before you open one.
 
 ## 📝 Commit Messages
 

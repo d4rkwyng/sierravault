@@ -20,5 +20,11 @@ echo "$(date '+%F %T') - rebuilding $(git rev-parse --short HEAD) -> $(git rev-p
 git reset --hard origin/main --quiet >> "$LOG" 2>&1
 npm ci --no-audit --no-fund >> "$LOG" 2>&1 || { echo "$(date '+%F %T') - npm ci failed, skipping build" >> "$LOG"; exit 1; }
 ./build.sh >> "$LOG" 2>&1
+build_status=$?
 chown -R www-data:www-data "$SITE" 2>/dev/null
-echo "$(date '+%F %T') - done ($(git rev-parse --short HEAD))" >> "$LOG"
+if [ "$build_status" -eq 0 ]; then
+    echo "$(date '+%F %T') - done ($(git rev-parse --short HEAD))" >> "$LOG"
+else
+    echo "$(date '+%F %T') - BUILD FAILED ($(git rev-parse --short HEAD), exit $build_status) - public/ left stale" >> "$LOG"
+    exit 1
+fi
