@@ -67,7 +67,7 @@ sierravault/
 │   ├── Designers/            # 57 designer biographies
 │   ├── Developers/           # 28 studio profiles
 │   ├── Publishers/           # 23 publisher histories
-│   ├── Series/               # 7 series overview pages
+│   ├── Series/               # 24 series overview pages
 │   ├── Guides/               # 19 guides (compatibility, buying, engines)
 │   ├── Technology/           # Engine documentation (AGI, SCI, GoldSrc)
 │   ├── Reference/            # Timelines and indexes
@@ -260,7 +260,7 @@ self-review against the standards instead.
 | Designer Bios | 57 |
 | Developer Profiles | 28 |
 | Publisher Histories | 23 |
-| Series Overviews | 7 |
+| Series Overviews | 24 |
 | Guides | 19 |
 
 ---

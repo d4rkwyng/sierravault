@@ -27,7 +27,7 @@ Claude Code configuration and instructions for SierraVault.
    - Generating or editing pages → `page-format.md`
    - Citation work or scoring issues → `citations.md`
 
-> **Note:** Research data, scoring history, and project state are maintained in a separate private repository (`Proton Drive/Assets/sierravault`). Set `SIERRAVAULT_INTERNAL` env var to point to it, or place it alongside this repo.
+> **Note:** Research data, scoring history, and project state are maintained in a separate private repository. Scripts default to `~/Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault` (iCloud Drive) unless the `SIERRAVAULT_INTERNAL` env var points somewhere else — set it on any machine (e.g. the fleet's `droid` service account) that doesn't have that iCloud Drive path.
 
 ## Key Locations
 
