@@ -18,7 +18,22 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 ---
 
-## 🔥 Q3 2026 (Jul– )
+## 🔥 Q3 2026 (Jul–Sep)
+
+> [!success] AGI-64 & AGI-ANTIC — Sierra's AGI Adventures on Commodore 64 and Atari 8-bit
+> **September 21, 2026** — Mean Hamster Software released **AGI-64** and **AGI-ANTIC**, free tools that build cartridge images for the Commodore 64 and Atari XL/XE from the original DOS files of Sierra's AGI-engine games. You supply the game data from your own copies; no Sierra game data is bundled. The C64 list covers 14 Sierra titles: [[1984 - King's Quest - Quest for the Crown|King's Quest I]], [[1985 - King's Quest II - Romancing the Throne|II]], [[1986 - King's Quest III - To Heir Is Human|III]] and [[1988 - King's Quest IV - The Perils of Rosella|IV]] (AGI edition), [[1986 - Space Quest - The Sarien Encounter|Space Quest I]] and [[1987 - Space Quest II - Vohaul's Revenge|II]], [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest]], [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry]], [[1988 - Manhunter - New York|Manhunter: New York]], [[1989 - Manhunter - San Francisco|Manhunter 2: San Francisco]], [[1986 - The Black Cauldron|The Black Cauldron]], [[1988 - Gold Rush|Gold Rush!]], [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] and [[1984 - Donald Duck's Playground|Donald Duck's Playground]]. It also supports two fan games, Space Quest 0: Replicated and a King's Quest VI AGI demake. AGI-ANTIC launched with King's Quest I, and the project page now lists seven Atari titles. The C64 interpreter was first announced on August 15.
+>
+> [Mean Hamster (Sep 21, 2026)](https://meanhamster.com/news/agi-64-is-now-available) · [Announcement (Aug 15, 2026)](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64) · [AGI-64 project page](https://meanhamster.com/games/agi-64)
+
+> [!note] Tim Curry (1946–2026), the Voice of Gabriel Knight
+> **August 25, 2026** — Tim Curry died at his home in Toluca Lake, Los Angeles, at the age of 80. His death was announced on August 26. For Sierra fans he was the voice of Gabriel Knight himself, the title character of [[1993 - Gabriel Knight - Sins of the Fathers|Sins of the Fathers]] and [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]]. The [[Sierra Documentary - Legends of Adventure|Legends of Adventure]] team paid tribute to "the incomparable Tim Curry, star of stage and screen, and the voice of Gabriel Knight." See also the [[Voice Cast Index]].
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Tim_Curry) · [Time Extension (Aug 26, 2026)](https://www.timeextension.com/news/2026/08/hollywood-legend-and-video-game-star-tim-curry-has-passed-away) · [Legends of Adventure on Bluesky](https://bsky.app/profile/gamelegendsdoc.bsky.social/post/3mtziu52skc2s)
+
+> [!success] Gobliiins Collection Arrives on Nintendo Switch 2
+> **August 6, 2026** — Red Art Games released the **Gobliiins Collection** on Nintendo Switch 2. All five games now run in **4K**, and you can play with **Joy-Con mouse controls**. Owners of the Switch version get the upgrade free and can import their Switch saves.
+>
+> [Nintendo eShop](https://www.nintendo.com/store/products/gobliiins-collection-switch-2/) · [Gematsu](https://gematsu.com/2026/08/gobliiins-collection-now-available-for-switch-2)
 
 > [!tip] Sierra Documentary — Rough Cut Trimmed to ~2 Hours
 > **July 9, 2026** — On the crowdfund's two-year anniversary, the [[Sierra Documentary - Legends of Adventure|Legends of Adventure]] team confirmed the film is down from its 4h12m rough cut to a **nearly completed two-hour cut**, still targeting a 2026 release. An earlier June 19 update covered the film's original score and merch reveals.
@@ -26,7 +41,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > [BackerKit Updates](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/updates) · [Bluesky](https://bsky.app/profile/gamelegendsdoc.bsky.social)
 
 > [!success] The Johnny Castaway Renaissance — Now on PlayStation 1
-> **July 5, 2026** — [[1992 - Johnny Castaway|Johnny Castaway]] hit **v1.0.0 on the PlayStation 1**: Hunter Davis's port validates all 63 scenes pixel-perfect against the original Sierra engine. It caps a remarkable wave of 2026 recreations — five independent open-source projects and counting:
+> **July 5, 2026** — [[1992 - Johnny Castaway|Johnny Castaway]] hit **v1.0.0 on the PlayStation 1**: Hunter Davis's port validates all 63 scenes pixel-perfect against the original Sierra engine. It caps a remarkable run of 2026 recreations — a growing wave of independent open-source projects, including:
 >
 > - 🕹️ **[Johnny Castaway PS1](https://github.com/huntergdavis/johnny-castaway-ps1)** — v1.0.0, July 5
 > - 🦀 **[Wilson Reborn](https://github.com/antigerme/wilson-reborn)** — Rust clone for Windows/Linux/macOS/browser, full-parity goal (v0.3.2, June 26)
@@ -147,7 +162,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > [!success] SpaceVenture Early Access
 > **April 1, 2025** — [[2022 - SpaceVenture|SpaceVenture]] launched on Steam Early Access by Two Guys from Andromeda
 > 
-> [Steam Store](https://store.steampowered.com/app/384800/SpaceVenture/)
+> [Steam Store](https://store.steampowered.com/app/1374960/)
 
 ---
 
