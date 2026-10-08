@@ -10,14 +10,14 @@ series: Leisure Suit Larry
 engine: Proprietary (High Voltage Hot Rod)
 protagonist: Larry Lovage
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-08'
 description: 'Leisure Suit Larry: Magna Cum Laude is the seventh installment in the
   long-running Leisure Suit Larry series, released in October 2004 for Windows,...'
 tags: [2000s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Magna Cum Laude
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 8, 2026</small>
 
 ## Overview
 
@@ -281,7 +281,7 @@ The game was banned entirely in Australia by the OFLC in both its cut and uncut 
 
 The game has been available through digital distribution:
 - **GOG.com:** Released May 14, 2013 as "Leisure Suit Larry: Magna Cum Laude - Uncut and Uncensored"[^ref-36]
-- **Steam:** The game was previously available but has since been delisted[^ref-42]
+- **Steam:** The game was previously available but was removed from the Steam store following Assemble Entertainment's April 30, 2025 announcement; existing owners keep it in their libraries[^ref-46][^ref-42]
 
 ### Cancelled Sequel
 
@@ -370,3 +370,4 @@ The game's poor reception contributed to the series' dormancy until Al Lowe's re
 [^ref-42]: [Reddit – Steam Delisting](https://www.reddit.com/r/pcgaming/comments/1kbs8sa/a_number_of_leisure_suit_larry_games_will_be/) – Steam availability
 [^ref-43]: [GamePressure – Nude Patch](https://www.gamepressure.com/download/leisure-suit-larry-magna-cum-laude-nude-patch/z01870) – patch information, download statistics
 [^ref-44]: [Scribd – Prima Guide](https://www.scribd.com/document/392902090/Leisure-Suit-Larry-Magna-Cum-Laude-Prima-Official-EGuide) – official strategy guide
+[^ref-46]: [Steam News: "Time for Larry to Retire (Just a Little Bit)" (Assemble Entertainment, April 30, 2025)](https://store.steampowered.com/news/app/763970/view/1798454487579791) – announcement that Magna Cum Laude Uncut and Uncensored and LSL 1, 2, 3, 5, 6, 7 leave the Steam store; owners keep them

@@ -10,14 +10,14 @@ series: Leisure Suit Larry
 engine: SCI1
 protagonist: Larry Laffer / Passionate Patti
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-08'
 description: 'Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work,
   released in 1991, stands as the fourth entry in Al Lowe''s infamous adventure series....'
 tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 8, 2026</small>
 
 ## Overview
 
@@ -118,7 +118,7 @@ The game achieved commercial success despite mixed critical reception, with the 
 
 **Purchase / Digital Stores**
 - [GOG – Leisure Suit Larry 1-7 Collection](https://www.gog.com/en/game/leisure_suit_larry) – Includes Larry 5[^ref-36]
-- [Steam](https://store.steampowered.com/app/765860/) – Available for purchase[^ref-37]
+- [Steam](https://store.steampowered.com/app/765860/) – No longer sold: removed from the Steam store following Assemble Entertainment's April 30, 2025 announcement; existing owners keep it in their libraries[^ref-37][^ref-44]
 
 **Preservation / Information**
 - [MyAbandonware page with user comments and ratings](https://www.myabandonware.com/game/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-16w)[^ref-38]
@@ -185,3 +185,4 @@ The game achieved commercial success despite mixed critical reception, with the 
 [^ref-41]: [VGM Rips](https://vgmrips.net/packs/pack/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-ibm-pc-at) – - Audio preservation and technical specs
 [^ref-42]: [Speedrun.com](https://www.speedrun.com/larry5) – - Speedrunning community data
 [^ref-43]: [Reddit Discussion](https://www.reddit.com/r/Sierra/comments/1kru3xu/leisure_suit_larry_5_passionate_patti_does_a/) – - Community discussion and plot summary
+[^ref-44]: [Steam News: "Time for Larry to Retire (Just a Little Bit)" (Assemble Entertainment, April 30, 2025)](https://store.steampowered.com/news/app/763970/view/1798454487579791) – - Announcement that LSL 1, 2, 3, 5, 6, 7 and Magna Cum Laude leave the Steam store; owners keep them

@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: AGI
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-08'
 description: '**Leisure Suit Larry in the Land of the Lounge Lizards** stands as one
   of Sierra On-Line''s most iconic and controversial adventure games. Released in
   1987,...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, agi, al-lowe, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry in the Land of the Lounge Lizards
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 8, 2026</small>
 
 ## Overview
 
@@ -218,7 +218,7 @@ Academic analysis has also examined the series' cultural significance, with the 
 [^ref-33]: [Al Lowe Manuals](https://allowe.com/games/larry/tips-manuals/larry-manuals.html) – - Copy protection commentary
 [^ref-34]: [Guinness World Records](https://www.guinnessworldrecords.com/world-records/88867-best-selling-videogame-hint-book) – - Hint book sales record
 [^ref-35]: [Wikipedia Series](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) – - Ken Williams franchise assessment
-[^ref-36]: [Metro Article](https://metro.co.uk/2026/05/01/super-sexist-leisure-suit-larry-franchise-delisted-steam-23007502/) – - Modern delisting coverage
+[^ref-36]: [Metro Article](https://metro.co.uk/2025/05/01/super-sexist-leisure-suit-larry-franchise-delisted-steam-23007502/) – - Modern delisting coverage
 [^ref-37]: [Steam Community](https://steamcommunity.com/app/763970/discussions/0/600771622034541259/) – - Steam availability discussion
 [^ref-38]: [Internet Archive 1991](https://archive.org/details/msdos_Leisure_Suit_Larry_1_-_Land_of_the_Lounge_Lizards_VGA_1991) – - VGA remake preservation
 [^ref-39]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Leisure+Suit+Larry+1:+In+the+Land+of+the+Lounge+Lizards&gid=1258) – - User ratings and download

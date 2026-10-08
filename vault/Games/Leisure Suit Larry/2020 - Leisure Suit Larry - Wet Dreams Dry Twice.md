@@ -12,14 +12,14 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-08'
 description: 'Leisure Suit Larry: Wet Dreams Dry Twice is a 2020 point-and-click adventure
   game developed by German studio CrazyBunch and published by Assemble...'
 tags: [2020s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Dry Twice
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 8, 2026</small>
 
 ## Overview
 
@@ -116,11 +116,16 @@ The game's impact extends beyond its narrative conclusion, representing a succes
 
 The game also holds historical significance as Jan Rabson's final portrayal of Larry Laffer, ending nearly three decades of voice work on the character[^ref-11]. The game's charitable initiative, where each purchase of the "Save the World Edition" provided two meals for hungry children through a partnership with ShareTheMeal, demonstrated how modern game releases could incorporate social responsibility[^ref-40].
 
+In October 2026, Assemble announced that both Wet Dreams games would leave the Steam store after October 23, 2026, saying only that Larry was "getting ready to hang up his leisure suit"[^ref-62].
+
 ## Downloads
 
 **Purchase / Digital Stores**
 - [GOG.com](https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dry_twice)[^ref-20]
 - [Steam](https://store.steampowered.com/app/1373430/Leisure_Suit_Larry__Wet_Dreams_Dry_Twice/)[^ref-45]
+
+> [!note] Steam delisting announced (October 8, 2026)
+> On October 8, 2026, publisher Assemble Entertainment announced on Steam that *Wet Dreams Don't Dry* and *Wet Dreams Dry Twice* would be sold on Steam only until October 23, 2026, after which both games would be removed from the store. No reason was given, and Assemble said only that "we can't share anything about his future"; the notice does not mention GOG or the console stores.[^ref-62]
 
 **Guides and Resources**
 - [PlayStation Trophies Walkthrough](https://www.playstationtrophies.org/game/leisure-suit-larry-dreams-dont-die-twice/guide/)[^ref-39]
@@ -173,3 +178,4 @@ The game also holds historical significance as Jan Rabson's final portrayal of L
 [^ref-52]: [TrueAchievements Main](https://www.trueachievements.com/game/Leisure-Suit-Larry-Wet-Dreams-Dry-Twice/walkthrough) – - Complete achievement resource
 [^ref-53]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeisureSuitLarryWetDreamsDryTwice) – - Comprehensive gameplay analysis and plot summary
 [^ref-61]: [Wayback Push Square](https://web.archive.org/web/20220418171812/https://www.pushsquare.com/reviews/ps4/leisure_suit_larry_wet_dreams_dry_twice) – - Archived professional review
+[^ref-62]: [Steam News: "Larry Is Retiring Soon" (Assemble Entertainment, October 8, 2026)](https://store.steampowered.com/news/app/1373430/view/1846018067930700) – - Announcement that both Wet Dreams games leave Steam after October 23, 2026

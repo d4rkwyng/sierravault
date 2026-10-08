@@ -1,11 +1,20 @@
 ---
 title: "News & Updates"
-updated: "2026-07-13"
+updated: "2026-10-08"
 cssclass: news-page
 ---
 # 📰 News & Updates
 
 Latest releases, updates, and announcements for Sierra games and fan projects.
+
+---
+
+## 🔥 Q4 2026 (Oct– )
+
+> [!note] Wet Dreams Games Leaving Steam on October 23
+> **October 8, 2026** — Publisher Assemble Entertainment announced that [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Wet Dreams Don't Dry]] and [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|Wet Dreams Dry Twice]] will be sold on Steam **only until October 23, 2026**, after which both will be removed from the store. No reason was given ("we can't share anything about his future"), and the notice mentions Steam only. The classic titles — LSL 1, 2, 3, 5, 6, 7 and Magna Cum Laude — already left Steam after Assemble's earlier **April 30, 2025** announcement; existing owners kept them.
+>
+> [Steam announcement (Oct 8, 2026)](https://store.steampowered.com/news/app/765870/view/1846018067930701) · [Earlier classic-titles notice (Apr 30, 2025)](https://store.steampowered.com/news/app/763970/view/1798454487579791)
 
 ---
 

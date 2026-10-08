@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI32
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-08'
 composer: [Frank Zottoli]
 description: '*Leisure Suit Larry: Love for Sail!* is the sixth and final Leisure
   Suit Larry adventure game written by series creator Al Lowe, released by Sierra
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry: Love for Sail!
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 8, 2026</small>
 
 ## Overview
 
@@ -286,7 +286,7 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 
 **Purchase / Digital Stores**
 - [GOG.com](https://www.gog.com/game/leisure_suit_larry_love_for_sail) – DRM-free, includes extras
-- [Steam](https://store.steampowered.com/app/765890/) – Note: Delisted March 31, 2023[^ref-8]
+- [Steam](https://store.steampowered.com/app/765890/) – No longer sold: removed from the Steam store following Assemble Entertainment's April 30, 2025 announcement; existing owners keep it in their libraries[^ref-8][^ref-44]
 
 **Download / Preservation**
 - [Internet Archive – ISO](https://archive.org/details/mi-lsl-7) – Includes Version 1.2 patch[^ref-42]
@@ -357,3 +357,4 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 [^ref-41]: [Amazon – Official Strategy Guide](https://www.amazon.com/Leisure-Suit-Larry-Official-Strategy/dp/0761508767) – guide details, publication info
 [^ref-42]: [Internet Archive – Game ISO](https://archive.org/details/mi-lsl-7) – preservation copy
 [^ref-43]: [Internet Archive – Manual](https://archive.org/details/Leisure_Suit_Larry_7_-_Manual) – manual preservation
+[^ref-44]: [Steam News: "Time for Larry to Retire (Just a Little Bit)" (Assemble Entertainment, April 30, 2025)](https://store.steampowered.com/news/app/763970/view/1798454487579791) – announcement that LSL 1, 2, 3, 5, 6, 7 and Magna Cum Laude leave the Steam store; owners keep them
