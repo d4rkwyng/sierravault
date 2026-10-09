@@ -97,7 +97,7 @@ The series was conceived as an anthology of standalone adventures set in the fai
 
 Development of *Fortress of Fire* has been characterized by significant delays and shifting priorities. Following the release of *The King's Challenge* in January 2016, work on the sequel proceeded slowly as the Infamous Quests team members took on other employment[^ref-6]. In a 2020 update, the developer acknowledged the slow progress, stating that team members "now work other jobs" but were "assembling assets and building the game in the engine"[^ref-3].
 
-By 2026, the game remained in what the developers described as "a real state of limbo"[^ref-5]. According to developer Steven Alexander's Patreon update from October 2025, the team has "a lot of resources done for Fortress of Fire but a lot more need to be done - mostly animations"[^ref-5]. Alexander added: "I don't know when or if we will finish that game. There is a lot that has been done on it, but we just don't have the team or the budget to really complete it."[^ref-5] The backgrounds are reportedly in the engine, and work has begun on developing the story path and puzzles[^ref-2].
+By October 2025, the game remained in what the developers described as "a real state of limbo"[^ref-5]. According to developer Steven Alexander's Patreon update from October 2025, the team has "a lot of resources done for Fortress of Fire but a lot more need to be done - mostly animations"[^ref-5]. Alexander added: "I don't know when or if we will finish that game. There is a lot that has been done on it, but we just don't have the team or the budget to really complete it."[^ref-5] The backgrounds are reportedly in the engine, and work has begun on developing the story path and puzzles[^ref-2].
 
 In an April 4, 2026 Patreon post, Alexander said studio voice-recording time was booked for May 2026 to finish *Quest for Infamy: Roehm to Ruin*, and that while he was hospitalized for spinal surgery "there have been lots of other people that have been scurrying behind the scenes to make some amazing things." The post did not mention *Fortress of Fire*.[^ref-19]
 
@@ -120,7 +120,7 @@ The game utilizes Adventure Game Studio (AGS), the same engine that powered *Que
 
 ### Cut Content
 
-In a revealing 2026 Patreon post, developer Steven Alexander discussed how the original vision for the *Order of the Thorne* series was significantly altered during production of *The King's Challenge*[^ref-5]. According to Alexander, the team "had story ideas and elements for Order of the Thorne that were more developed and what one might say were more mature"[^ref-5]. 
+In an October 2025 Patreon post, developer Steven Alexander discussed how the original vision for the *Order of the Thorne* series was significantly altered during production of *The King's Challenge*[^ref-5]. According to Alexander, the team "had story ideas and elements for Order of the Thorne that were more developed and what one might say were more mature"[^ref-5]. 
 
 The developers were given "bad counsel" to create a "family friendly" game similar to *King's Quest*, leading to what Alexander described as a "bowdlerized version" of the original design[^ref-5]. Specifically, "the rougher more mature edges were trimmed off, and things like character death were removed from the game"[^ref-5]. The developers have discussed the possibility of creating a "Director's Cut" of *The King's Challenge* that would restore more of the original intent[^ref-5].
 
@@ -130,7 +130,7 @@ The developers were given "bad counsel" to create a "family friendly" game simil
 |---------|------|----------|-------|
 | N/A | Announced 2015 | Windows/Mac/Linux | Kickstarter stretch goal achieved[^ref-2] |
 | In Development | 2020+ | Windows/Mac/Linux | Assets being assembled[^ref-3] |
-| Development Limbo | 2026 | Windows/Mac/Linux | Backgrounds complete, animations needed[^ref-5] |
+| Development Limbo | October 2025 | Windows/Mac/Linux | Backgrounds complete, animations needed[^ref-5] |
 
 ### Technical Issues
 
@@ -177,7 +177,7 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 - [itch.io – Fortress of Fire](https://infamousquests.itch.io/ootf-fortress-of-fire) — official itch.io project page; early-access builds released to Patreon supporters[^ref-3]
 
 **Purchase / Digital Stores**
-- Not yet released; commercial release remains TBD as of April 2026[^ref-5]
+- Not yet released; commercial release remains TBD as of the October 2025 update[^ref-5]
 - [Steam page – pending](https://store.steampowered.com/) — no Steam listing yet
 - [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
 
