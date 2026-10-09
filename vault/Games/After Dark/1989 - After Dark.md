@@ -51,13 +51,15 @@ The later After Dark Classic package, published by Sierra Attractions, documents
 
 ### Structure and Progression
 
-The program is modular. It allowed the development and use of third-party modules, and hundreds of them were created during its peak of popularity[^ref-9]. Berkeley Systems followed the original with further editions, including More After Dark and Before Dark, as well as editions themed around licensed properties such as Star Trek, The Simpsons, Looney Tunes, Marvel and Disney[^ref-9].
+The program is modular. It allowed the development and use of third-party modules, and hundreds of them were created during its peak of popularity[^ref-9]. Berkeley Systems followed the original with further editions, including More After Dark and Before Dark, as well as editions themed around licensed properties such as Star Trek, The Simpsons, Looney Tunes, Marvel and Disney[^ref-9]. In August 1991 TidBITS called More After Dark "the best bargain" of that summer's Macworld Expo. The $39.95 add-on contained 26 display modules, among them Ben Haller's game Lunatic Fringe, and an updater that brought After Dark 2.0 up to version 2.0v for System 7 compatibility[^ref-65]. Some modules came from outside Berkeley: *The Seattle Times* reported in 1993 that the aquarium fish were "the brainchild of two Microsoft wunderkinder, Ed Fries and Tom Saxton"[^ref-64]. Each module carried its own credits, so users could see who wrote it[^ref-66].
 
-Eastman says the team deliberately avoided putting the toasters on a fixed track. Instead it used random numbers drawn from his experience with Monte Carlo simulations in physics, so viewers "couldn't predict" the show[^ref-31].
+Eastman says the team deliberately avoided putting the toasters on a fixed track. Instead it used random numbers drawn from his experience with Monte Carlo simulations in physics, so viewers "couldn't predict" the show[^ref-31]. Patrick Beard later said his favorite module was his own version of the Flying Toasters, and that the option to adjust the brownness of the toast was his idea[^ref-66].
 
 ## Reception
 
 The Flying Toasters made After Dark popular, and Berkeley Systems sold merchandise built around them, such as T-shirts reading "The 51st Flying Toaster Squadron: On a mission to save your screen!"[^ref-9]. In 1994 *Wired* called the flying toaster the "flagship of the popular After Dark screen-savers" and reported that it "earns the company millions of dollars"[^ref-61]. Asked what made After Dark unique, Eastman answered: "Charm; creativity; non-repetitiveness; stupidity"[^ref-31]. He also said the team's philosophy "was to remain 'aggressively stupid'"[^ref-31].
+
+Screensavers had typically circulated as freeware, but After Dark's attention to detail had PC users paying $30 to $40 for it, and according to Mental Floss Berkeley was selling 10,000 copies of After Dark 2.0 every month by 1992[^ref-63]. In September 1993 *The Seattle Times* reported that screen savers had become "one of the top-selling consumer software categories". It said Berkeley Systems "had the category pretty much to itself" for several years and that After Dark "set the standard for Macintosh from office to home"[^ref-64]. The program was popular enough to get its own companion book, Erfert Fenton's *Art of Darkness* (Peachpit Press, 1992), which came with a computer disk for Macintosh users of After Dark[^ref-68].
 
 ## Development
 
@@ -67,7 +69,7 @@ Eastman started After Dark around 1986 as a personal project while working on hi
 
 ### Production
 
-After Dark was written in assembly language and C[^ref-9]. When 1.0 caught on, Wes Boyd's view was that the product needed more artistry, which led to the character-driven modules of 2.0, beginning with the Flying Toasters[^ref-31]. The Windows version came from a collaboration between Berkeley Systems, Eastman and Beard and Bill Stewart and Ian MacDonald of Software Dynamics[^ref-31]. Berkeley Systems' founders Joan Blades and Wes Boyd later created MoveOn.org[^ref-9].
+After Dark was written in assembly language and C[^ref-9]. When 1.0 caught on, Wes Boyd's view was that the product needed more artistry, which led to the character-driven modules of 2.0, beginning with the Flying Toasters[^ref-31]. The Windows version came from a collaboration between Berkeley Systems, Eastman and Beard and Bill Stewart and Ian MacDonald of Software Dynamics[^ref-31]. Software Dynamics had been making similar Windows software under the "Magic" name[^ref-63]. The Computer History Museum holds a 1991 Berkeley Systems package, *After Dark: The Ultimate Screen Saver Collection*, shipped on 5¼-inch and 3½-inch floppy disks[^ref-67]. Berkeley Systems' founders Joan Blades and Wes Boyd later created MoveOn.org[^ref-9].
 
 ### Technical Notes
 
@@ -83,7 +85,7 @@ After Dark 4.0 screensavers are 32-bit, while earlier ones such as After Dark Cl
 
 ## Legacy
 
-The Flying Toasters led to two lawsuits. In 1993 Berkeley Systems sued Delrina over the "Death Toasters" in Delrina's Opus 'n Bill screensaver. A federal judge found the two designs substantially similar and issued a preliminary injunction against Delrina[^ref-60]. In 1994 Jefferson Airplane sued Berkeley Systems, claiming the toasters copied the cover of its 1973 album *Thirty Seconds Over Winterland*[^ref-61]. The band lost because it had not trademarked the album artwork[^ref-62].
+The Flying Toasters led to two lawsuits. In 1993 Berkeley Systems sued Delrina over the "Death Toasters" in Delrina's Opus 'n Bill screensaver. In that module Opus the Penguin shoots down the toasters with a shotgun[^ref-64]. A federal judge found the two designs substantially similar and issued a preliminary injunction against Delrina[^ref-60]. In 1994 Jefferson Airplane sued Berkeley Systems, claiming the toasters copied the cover of its 1973 album *Thirty Seconds Over Winterland*[^ref-61]. The band lost because it had not trademarked the album artwork[^ref-62].
 
 The "Bad Dog" module inspired a *Bad Dog* TV series, first broadcast on Teletoon on 1 March 1999[^ref-9]. Infinisys of Japan released an official Mac OS X version in May 2003, and Vivendi Universal Games released an *After Dark: Flying Toaster* game for cellphones in 2006[^ref-9].
 
@@ -111,3 +113,9 @@ No legitimate store sale and no download link has been verified for the 1989 rel
 [^ref-60]: [Los Angeles Times - Software Parody Is Toast After Court Ruling (11 October 1993)](https://www.latimes.com/archives/la-xpm-1993-10-11-fi-44741-story.html) - Berkeley Systems v. Delrina injunction
 [^ref-61]: [Wired - Another Poppin' Fresh Lawsuit (October 1994)](https://www.wired.com/1994/10/another-poppin-fresh-lawsuit/) - Jefferson Airplane lawsuit
 [^ref-62]: [Macworld - Think Retro: Bring back the Flying Toasters](https://www.macworld.com/article/2879119/think-retro-bring-back-the-flying-toasters.html) - Outcome of the Jefferson Airplane case
+[^ref-63]: [Mental Floss - A Hypnotic History of Screensavers (Jake Rossen, 4 February 2016)](https://www.mentalfloss.com/article/74837/hypnotic-history-screensavers) - Software Dynamics/"Magic" Windows partnership; 10,000 copies of After Dark 2.0 a month by 1992
+[^ref-64]: [The Seattle Times - From Silly To Sublime, There's A Screen Saver For Everyone (21 September 1993)](https://archive.seattletimes.com/archive/19930921/1722187/from-silly-to-sublime-theres-a-screen-saver-for-everyone) - Screen savers as a top-selling category; Berkeley's dominance; Fries/Saxton fish; Opus 'n Bill toaster parody
+[^ref-65]: [TidBITS #76 - The Highlights (12 August 1991)](https://tidbits.com/1991/08/12/the-highlights/) - Macworld Expo coverage of More After Dark (26 modules, $39.95, Lunatic Fringe, 2.0v updater)
+[^ref-66]: [Low End Mac - On Mighty Toaster Wings: More After Dark History (12 February 2007)](https://lowendmac.com/2007/on-mighty-toaster-wings-more-after-dark-history/) - Interview with Patrick Beard: per-module credits, toaster brownness setting
+[^ref-67]: [Computer History Museum - After Dark: The Ultimate Screen Saver Collection (catalog 102690864)](https://www.computerhistory.org/collections/catalog/102690864) - 1991 Berkeley Systems package on 5.25-inch and 3.5-inch floppies
+[^ref-68]: [Internet Archive - Art of Darkness (Erfert Fenton, Peachpit Press, 1992)](https://archive.org/details/artofdarkness00fent) - "The After Dark companion", with disk, for Macintosh After Dark
