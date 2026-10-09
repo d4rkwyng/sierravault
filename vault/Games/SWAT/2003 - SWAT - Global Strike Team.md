@@ -220,7 +220,6 @@ The Armchair Empire review encapsulated the game's mixed legacy: "If you are a t
 - Not currently available on digital storefronts
 
 **Download / Preservation**
-- [RomsPure (Xbox)](https://romspure.cc/roms/microsoft-xbox/swat-global-strike-team/) - ROM preservation
 
 **Online Play Restoration**
 - [Insignia](https://insignia-online.com/) - Xbox Live 1.0 replacement service supporting this title[^ref-35]
@@ -263,7 +262,7 @@ The Armchair Empire review encapsulated the game's mixed legacy: "If you are a t
 [^ref-26]: [IGN – SWAT Goes to Kleaners](https://www.ign.com/articles/2001/08/31/swat-goes-to-kleaners) – development announcement, executive quotes
 [^ref-27]: [Xania.org – SWAT Artwork](https://xania.org/201003/swat-artwork) – engine name origin, technical pipeline
 [^ref-28]: [GameZone Press Release (Archived)](https://web.archive.org/web/20220930111715/https://www.gamezone.com/news/sierra_and_argonaut_games_announce_swat_global_strike_team/) – engine features, Sierra quotes
-[^ref-29]: [RomsPure – SWAT: Global Strike Team](https://romspure.cc/roms/microsoft-xbox/swat-global-strike-team/) – file size
+[^ref-29]: Link removed 2026-10-09: it was a ROM download site. File-size claim pending a real source.
 [^ref-30]: [Cheat Masters – SWAT: GST](https://google.com.auforum.cheatmasters.com/psx2/swatgst.html) – easter egg location
 [^ref-31]: [Reddit – Creepy Gaming Discussion](https://www.reddit.com/r/creepygaming/comments/qn2b6l/swat_global_strike_team_xbox_possible_creepy/) – potential easter egg
 [^ref-32]: [Game Developer – Argonaut Losses Deepen](https://www.gamedeveloper.com/game-platforms/argonaut-losses-deepen) – sales performance
