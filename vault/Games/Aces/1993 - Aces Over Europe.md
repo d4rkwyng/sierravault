@@ -2,18 +2,18 @@
 title: Aces Over Europe
 release_year: 1993
 developer: Dynamix
-designer: [-Modred-, Damon Slye]
+designer: [Damon Slye, Christopher Shen]
 publisher: Sierra On-Line
 genre: Flight Simulation
-platforms: [DOS, IBM PC, DOS, PC, Windows, Windows 16-bit]
+platforms: [DOS]
 series: Aces
 engine: 3Space
 protagonist: WWII European Theater Pilot
 sierra_lineage: Core Sierra
 last_updated: '2026-10-09'
-description: Aces Over Europe stands as one of Dynamix's most ambitious World War
-  II flight simulators, released in 1993 as the follow-up to the acclaimed Aces of
-  the...
+description: Aces Over Europe is a 1993 World War II combat flight simulator from
+  Dynamix, the follow-up to Aces of the Pacific, set in the European Theater with
+  USAAF, RAF and Luftwaffe aircraft.
 tags: [1990s, aces, sierra, simulation]
 ---
 # Aces Over Europe
@@ -22,16 +22,16 @@ tags: [1990s, aces, sierra, simulation]
 
 ## Overview
 
-Aces Over Europe stands as one of Dynamix's most ambitious World War II flight simulators, released in 1993 as the follow-up to the acclaimed Aces of the Pacific[^ref-1]. Promoted by Sierra as Damon Slye's "most accurate and detailed simulation yet"[^ref-2], the game transported players to the European Theater of WWII, spanning from the beaches of Normandy to the war-torn ruins of Berlin[^ref-2]. The simulation allowed pilots to fly for the U.S. Army Air Force, R.A.F., and German Luftwaffe[^ref-2], featuring over 20 meticulously modeled aircraft including the Messerschmitt 262, Supermarine Spitfire IX, Arado-234B, DeHaviland Mosquito VI, and P-47D Thunderbolt[^ref-3].
+Aces Over Europe is a World War II combat flight simulator developed by Dynamix and released in 1993 as the follow-up to Aces of the Pacific[^ref-1]. Its promotional copy billed it as Damon Slye's "most accurate and detailed simulation yet"[^ref-2], and the game transported players to the European Theater of WWII, spanning from the beaches of Normandy to the war-torn ruins of Berlin[^ref-2]. The simulation allowed pilots to fly for the U.S. Army Air Force, R.A.F., and German Luftwaffe[^ref-2], featuring over 20 meticulously modeled aircraft including the Messerschmitt 262, Supermarine Spitfire IX, Arado-234B, DeHaviland Mosquito VI, and P-47D Thunderbolt[^ref-3].
 
-The game was praised by a retrospective GameSpot user as "A solid flight simulator. Very good considering the year it was released. Decent physics model, and just plain fun!"[^ref-4] MobyGames lists an aggregate critic score of 85% based on 17 ratings[^ref-5]. Despite being released in an era before modern graphics standards, the same reviewer noted it "was the best flight sim available 'til Microsoft Combat Flight Simulator came in 1999"[^ref-4]. The game's success helped continue Dynamix's reputation as a leading flight-simulation developer of the early 1990s[^ref-2].[^ref-20]
+The game was praised by a retrospective GameSpot user as "A solid flight simulator. Very good considering the year it was released. Decent physics model, and just plain fun!"[^ref-4] MobyGames lists an aggregate critic score of 85% based on 17 ratings[^ref-5]. Despite being released in an era before modern graphics standards, the same reviewer noted it "was the best flight sim available 'til Microsoft Combat Flight Simulator came in 1999"[^ref-4].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-7]
-> **Designer:** -Modred-, [[Damon Slye]][^ref-2]
+> **Designer:** [[Damon Slye]], Christopher Shen[^ref-29]
 > **Publisher:** [[Sierra On-Line]][^ref-3]
-> **Engine:** 3Space[^ref-2]
-> **Platforms:** DOS, IBM PC, MS-DOS, PC, Windows, Windows 16-bit[^ref-8]
+> **Engine:** 3Space[^ref-29]
+> **Platforms:** DOS[^ref-2][^ref-29]
 > **Release Year:** 1993
 > **Series:** Aces
 > **Protagonist:** WWII European Theater Pilot
@@ -39,24 +39,23 @@ The game was praised by a retrospective GameSpot user as "A solid flight simulat
 
 ## Story Summary
 
-Aces Over Europe placed players in the cockpit during some of the most dramatic dogfighting of World War II, inviting them to "take to the skies" alongside the pilots remembered as the Aces over Europe[^ref-3]. The game promised "all-new aerial battle over land and sea as you strap into the aircraft that made history"[^ref-2] with pilots able to choose their allegiance among the major powers of the European theater. Players could patrol front lines, target supply depots, and face moving ground targets and fortified artillery bunkers[^ref-3] in historically-based scenarios covering the closing years of the European air war[^ref-12].
+Aces Over Europe placed players in the cockpit during some of the most dramatic dogfighting of World War II, inviting them to "take to the skies" alongside the pilots remembered as the Aces over Europe[^ref-3]. The game promised "all-new aerial battle over land and sea as you strap into the aircraft that made history"[^ref-2] with pilots able to choose their allegiance among the major powers of the European theater. Players could patrol front lines, target supply depots, and face moving ground targets and fortified artillery bunkers[^ref-3] in scenarios set in 1944 and 1945, the closing years of the war in Western Europe[^ref-16].
 
-The campaign missions captured iconic moments from the European air war, from tactical air support during the D-Day invasion to long-range bomber escort missions deep into enemy territory[^ref-2]. Players experienced the full spectrum of WWII air combat roles, from fighter-versus-fighter duels to dangerous low-level bombing runs against heavily fortified positions[^ref-3]. The inclusion of aircraft from multiple nations allowed players to experience the air war from different strategic perspectives, understanding both Allied and German aviation doctrines[^ref-2].
+Players fly fighters and fighter-bombers for England, Germany, or the United States, escorting heavy bombers, striking ground troops, or simply seizing control of Europe's skies[^ref-29].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The game supported various input methods including keyboard, mouse, and specialized flight controllers like the Thrustmaster (FCS and/or WCS)[^ref-9]. Players could use analog joysticks for more realistic flight control[^ref-9], and the simulation featured both arcade and realistic difficulty modes. One returning fan recalled the title hit a "sweet spot of fun x complexity x 'realism' x ease to play"[^ref-30], an accessibility that allowed casual gamers to enjoy fast-paced dogfighting using simplified controls, while experienced pilots could engage with full-fidelity navigation, fuel management, and weapon systems[^ref-1].
-The flexible control scheme made the game accessible across different hardware configurations and player skill levels[^ref-9].
+The game supported keyboard, mouse, and specialized flight controllers like the Thrustmaster (FCS and/or WCS)[^ref-9]. Players could also use analog joysticks for flight control[^ref-9]. One returning fan recalled the title hit a "sweet spot of fun x complexity x 'realism' x ease to play"[^ref-30].
 
 ### Structure and Progression
 
-Aces Over Europe offered a wide range of mission types including ground attack, search and destroy, dogfighting, and intercept missions[^ref-11]. The flight model was described as "fun, but was not 6DOF, so you'll have to learn to fly all over again"[^ref-11], differentiating it from more complex modern simulators. The game featured an impressive technical capability of supporting up to 256 planes in the air simultaneously[^ref-12], with 20 flyable aircraft available to players[^ref-12]. Campaign missions allowed players to progress through historically-based sequences, with aircraft selection affecting available tactics and mission success requirements[^ref-2]. Dynamic difficulty scaling ensured both novice and experienced pilots found appropriate challenge levels[^ref-1].
+Aces Over Europe offered a wide range of mission types including ground attack, search and destroy, dogfighting, and intercept missions[^ref-11]. The flight model was described as "fun, but was not 6DOF, so you'll have to learn to fly all over again"[^ref-11], differentiating it from more complex modern simulators. Campaign modes are available for all three sides; the campaigns are not fully dynamic, but offer random missions according to the plane type and squadron chosen[^ref-29].
 
 ### Puzzles and Mechanics
 
-One of the game's most memorable features was its realistic navigation system, which allowed players to fly to recognizable landmarks. As one GOG community member recalled of approaching Paris, "When I finally saw that polygonal Eiffel Tower it simply blew my mind"[^ref-30]. Fans also remember the simulation including environmental details such as bird strikes when flying at low altitude[^ref-13]. The game's record-and-playback feature was praised by another community member as "the absolute best record/playback mission deck and video edit interface" of its era[^ref-30]. Players could record their combat flights and replay them later, creating a tool for analyzing tactics and sharing memorable moments[^ref-30].
+One of the game's most memorable features was its realistic navigation system, which allowed players to fly to recognizable landmarks. As one GOG community member recalled of approaching Paris, "When I finally saw that polygonal Eiffel Tower it simply blew my mind"[^ref-30]. The game's record-and-playback feature was praised by another community member as "the absolute best record/playback mission deck and video edit interface" of its era[^ref-30]. Players could record their combat flights and replay them later, creating a tool for analyzing tactics and sharing memorable moments[^ref-30].
 
 ## Reception
 
@@ -68,63 +67,56 @@ One of the game's most memorable features was its realistic navigation system, w
 | MobyGames Players | 3.9 / 5 | Aggregate based on 25 player ratings[^ref-5] |
 | GameSpot User | 7.8 / 10 | dbjunior92 retrospective review (2005)[^ref-4] |
 
-The aggregate critic score reflected broad acceptance across publications for delivering an ambitious simulation experience that brought authentic World War II aerial combat to consumer hardware[^ref-5].
-
 ### Modern Assessment
 
 Modern retrospective comments have kept the game's reputation alive among flight-sim enthusiasts. One GOG community member wrote that the title "is still one of the best WW2 Flight Simulators ever created in terms of atmosphere, realism and gameplay"[^ref-30]. On a sister wishlist page, a fan wrote that "AoP and AoE have the best game play and immersion in a simple WWII simulator I've played to date"[^ref-31]. The retrospective GameSpot review, however, acknowledged that "by 21st Century standards, this game would be profoundly boring. None of that eye candy we're so used to now. Just basic flying"[^ref-4].
-The game's enduring appeal to flight simulation enthusiasts demonstrates its fundamental design quality and historically accurate representation of WWII air combat operations[^ref-2]. The advanced physics modeling for bombing runs and fuel management remain relevant teaching tools for understanding WWII air combat logistics and tactics[^ref-2].
 
 ## Development
 
 ### Origins
 
-Aces Over Europe emerged from the success of Dynamix's earlier flight simulation, Aces of the Pacific (1992)[^ref-1]. The Pacific theater title's reception "caused Dynamix to create a very similar follow-up Aces Over Europe in 1993"[^ref-1], expanding the series to cover the European front of World War II. The game was part of Dynamix's broader strategy to create comprehensive World War II aviation experiences across different theaters of operation. This expansion reflected publisher Sierra On-Line's confidence in the Aces franchise as a vehicle for ambitious flight simulation development[^ref-1].
+Aces Over Europe emerged from the success of Dynamix's earlier flight simulation, Aces of the Pacific (1992)[^ref-1]. The Pacific theater title's reception "caused Dynamix to create a very similar follow-up Aces Over Europe in 1993"[^ref-1], expanding the series to cover the European front of World War II. The game was part of the Aces line and Dynamix's Great War Planes brand[^ref-29].
 
 ### Production
 
-The game was developed by Dynamix and published by Sierra On-Line[^ref-3][^ref-14], continuing the partnership between the studio and Sierra. Damon Slye served as the primary designer, joined on the design team by Lincoln Hutton, Bob Lindstrom, and Christopher Reese[^ref-6], building upon their experience with previous flight simulators in the series. The development team pursued what GOG's promotional copy describes as Dynamix's "most accurate and detailed simulation yet"[^ref-2], incorporating lessons learned from their previous aviation titles. The game's enhanced bomb-dropping physics and expanded aircraft roster represented substantial development investment in authenticity and player choice[^ref-2]. The inclusion of multiple national air forces allowed Dynamix to showcase the unique characteristics and tactical doctrines of Allied and Axis aviation[^ref-2].
+The game was developed by Dynamix and published by Sierra On-Line[^ref-3][^ref-14], continuing the partnership between the studio and Sierra. Damon Slye was director and designer, with Christopher Shen credited for design and as assistant director; Lincoln Hutton was lead programmer, Mark Peasley art director, and the music was by Timothy Steven Clarke and Christopher Stevens[^ref-29]. The development team pursued what GOG's promotional copy describes as Damon Slye's "most accurate and detailed simulation yet"[^ref-2]. A retrospective GameSpot user review noted that "The bomb dropping physics model was a major improvement over Aces of the Pacific"[^ref-4].
 
 ### Technical Achievements
 
-Aces Over Europe featured several technical improvements over its predecessor, including 256-color VGA graphics with a new "Tall Res" 320 x 400 mode that increased visual fidelity over the standard 320 x 200 of earlier Dynamix sims[^ref-6]. The game supported various sound devices including Sound Blaster, Roland MT-32, Adlib, and PC Speaker[^ref-9]. The simulation required a minimum Intel i486 SX processor, 2 MB of RAM (4 MB recommended), and PC/MS-DOS 5.0[^ref-6][^ref-9]. A German-language wiki notes that engine changes compared to the predecessor were marginal, with minor extensions enabling a higher graphics resolution at 640 x 480[^ref-16].
-
-### Flight Physics and Aircraft Modeling
-
-A notable technical advancement in Aces Over Europe was the enhanced bombing physics model compared to Aces of the Pacific, providing more realistic bomb-dropping mechanics and ballistics[^ref-2]. The flight model itself was engineered for accessibility without sacrificing authenticity, striking a balance between simulation depth and gameplay enjoyment[^ref-2]. Each of the 20+ aircraft featured unique handling characteristics and performance envelopes, requiring players to adapt their tactics based on which fighter or bomber they were flying[^ref-3]. The game's ability to render up to 256 aircraft simultaneously represented cutting-edge technical achievement for the era, enabling dense dogfighting scenarios with multiple squadrons engaging each other[^ref-12].
+Aces Over Europe featured several technical improvements over its predecessor, including 256-color VGA graphics with a new "Tall Res" 320 x 400 mode that increased visual fidelity over the standard 320 x 200 of earlier Dynamix sims[^ref-6]. The game supported various sound devices including Sound Blaster, Roland MT-32, Adlib, and PC Speaker[^ref-9]. The simulation required a minimum Intel i486 SX processor and PC/MS-DOS 5.0, with MobyGames listing 2 MB of RAM as the minimum[^ref-9] and DOS Days listing 4 MB[^ref-6]. A German-language wiki notes that engine changes compared to the predecessor were marginal[^ref-16].
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | 1993 | MS-DOS | Initial release |
-| 1.02 | 1993 | MS-DOS | Patch release[^ref-27] |
+| 1.02 | 1993 | MS-DOS | Version 1.02 disk images preserved on the Internet Archive[^ref-7] |
+| Update | — | MS-DOS | New joystick drivers and other fixes[^ref-20] |
 
 The game has been discussed in community forums[^ref-28] and modern installer support is available through Sierra Help[^ref-27].
 
-### Market Reception and Impact
+## Legacy
 
-The game succeeded in carving out its niche in the competitive flight simulation market of the early 1990s, competing effectively against titles like Microsoft's Flight Simulator and Lawrence Holland's Air Combat Trilogy[^ref-2]. Its strong critical and user reception demonstrated that Dynamix had successfully translated the success of Aces of the Pacific into a compelling sequel that expanded player expectations for WWII simulation scope and accuracy[^ref-2]. The title's inclusion in the Aces Complete Collector's Edition ensured its availability to a broader audience and cemented its place as a significant entry in Sierra's catalog[^ref-17].
+Aces Over Europe became part of several compilation releases, including the "Aces - The Complete Collector's Edition" in 1995[^ref-17], which bundled it with Aces of the Pacific, A-10 Tank Killer and Red Baron[^ref-17]. The compilation also included a special documentary program called "The Aviation Pioneers 1903-1939" that provided historical context for the aircraft and combat scenarios featured in the games[^ref-17].
 
-### Advanced Flight Physics
+The game's record and playback system was fondly remembered by fans. One GOG community comment praised "The Aces Over series had the absolute best record/playback mission deck and video edit interface" of its era[^ref-30].
 
-Aces Over Europe employed a sophisticated flight physics model that balanced accessibility with simulation authenticity, allowing both casual players and experienced pilots to enjoy realistic aircraft behavior[^ref-2]. The bombing mechanics featured improved physics compared to its predecessor, with realistic bomb trajectories and impact effects that required players to lead targets and account for wind conditions[^ref-2]. Fuel management and engine damage systems added strategic complexity to missions[^ref-1].
+The game has been preserved in multiple formats including original floppy disk images[^ref-22] and VCR tape recordings[^ref-21], with media databases documenting its release[^ref-23]. The title has retained a dedicated fanbase, evidenced by more than 1,500 votes on its GOG.com Dreamlist page as of October 2026[^ref-2]. Game media including cover art[^ref-24] and promotional materials[^ref-25] have been preserved, alongside the official strategy guide documentation[^ref-26].
 
-### Gameplay Diversity and Mission Variety
-
-Aces Over Europe offered exceptional mission diversity spanning tactical fighter operations, strategic bomber escort missions, and defensive interceptor sorties[^ref-2]. The game's campaign structure provided meaningful progression while accommodating players with different skill levels and preferences[^ref-1]. Dynamic mission generation ensured replayability beyond the core campaign content[^ref-3].
-
-The comprehensive aircraft roster, detailed mission types, and sophisticated flight physics established Aces Over Europe as a landmark title in early 1990s flight simulation[^ref-2]. Player feedback praised the balance between accessibility and authenticity, creating an experience suitable for both casual gamers and dedicated simulation enthusiasts[^ref-1]. The game's technical achievements in SVGA graphics representation and aircraft modeling set new industry standards for flight simulators released in subsequent years[^ref-9].
+Aces Over Europe also appeared on the German-market "Best Of Sierra No.06" compilation in 1998[^ref-18]. Older community files for the game, compiled largely from flightsim.com, have been preserved on the Internet Archive[^ref-19]. The game is catalogued in the Dynamix studio fan-wiki as part of the Aces series[^ref-29].
 
 ## Downloads
 
+**Purchase / Digital Stores**
+
+Aces Over Europe is not currently sold digitally; it is listed on GOG's Dreamlist, where users vote for games they want added[^ref-2].
+
 **Download / Preservation**
 
-Aces Over Europe's legacy as a significant flight simulation achievement continues to resonate with retro gaming enthusiasts, who regard it as one of the finest WWII flight simulators ever created for consumer hardware[^ref-2].
-
-The game established Dynamix's reputation for uncompromising simulation detail that would define the company's future flight simulator releases[^ref-2]. Strategic implementation of both arcade and realistic flight modes proved the viability of this dual-approach design philosophy[^ref-1].
-
-The game's influence extended to subsequent flight simulators that adopted similar design philosophies balancing authenticity with accessibility[^ref-2].
+- [Internet Archive – Aces Over Europe Demo](https://archive.org/details/AcesOverEurope_1020)[^ref-3]
+- [Internet Archive – Aces Over Europe v1.02 Disk 1](https://archive.org/details/aces-of-europe-v-1.02-dynamix-disk-1)[^ref-7]
+- [Internet Archive – Aces Over Europe floppy image](https://archive.org/details/002778-AcesOverEurope)[^ref-22]
+- [Sierra Help – DOSBox installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html)[^ref-27]
 
 ## See Also
 
@@ -134,48 +126,31 @@ The game's influence extended to subsequent flight simulators that adopted simil
 - [[1990 - Red Baron|Red Baron]] - Related Dynamix flight sim
 - [[1995 - Command Aces of the Deep]]
 
-## Legacy
-
-Aces Over Europe became part of several compilation releases, including the "Aces - The Complete Collector's Edition" in 1995[^ref-17] which bundled all of Dynamix's flight simulators together. This comprehensive collection featured not only Aces Over Europe and Aces of the Pacific but also included A-10 Tank Killer and Red Baron, establishing it as the definitive flight simulation collection for the era[^ref-17]. The compilation also included a special documentary program called "The Aviation Pioneers 1903-1939" that provided historical context for the aircraft and combat scenarios featured in the games[^ref-17].
-
-The game's record and playback system was fondly remembered by fans. One GOG community comment praised "The Aces Over series had the absolute best record/playback mission deck and video edit interface" of its era[^ref-30]. Community fondness for the simulation's environmental details, such as bird strikes when flying at low altitude[^ref-13], reflects Dynamix's commitment to realistic flight modeling.
-
-The game has been preserved in multiple formats including original floppy disk images[^ref-22] and VCR tape recordings[^ref-21], with media databases documenting its release[^ref-23]. The title has retained a dedicated fanbase, evidenced by over 1,456 votes on its GOG.com community wishlist[^ref-2]. Game media including cover art[^ref-24] and promotional materials[^ref-25] have been preserved, alongside the official strategy guide documentation[^ref-26].
-
-Aces Over Europe also appeared on the German-market "Best Of Sierra No.06" compilation in 1998[^ref-18]. Community modifications and scenarios for the game have been preserved through archives like the Internet Archive's Wargamer Depot collection[^ref-19]. The game remains catalogued in the Dynamix studio fan-wiki as a milestone Aces title in the studio's flight-simulator output[^ref-29].
-
-### Physics Model and Simulation Depth
-
-Aces Over Europe employed a sophisticated flight physics model that balanced accessibility with simulation authenticity, allowing both casual players and experienced pilots to enjoy realistic aircraft behavior[^ref-2]. The bombing mechanics featured improved physics compared to its predecessor, with realistic bomb trajectories and impact effects that required players to lead targets and account for wind conditions[^ref-2]. Fuel management and engine damage systems added strategic complexity to missions, forcing pilots to balance aggressive tactics against the need to conserve resources for return flight[^ref-1].
-
 ## References
 
 [^ref-1]: [GOG.com Dreamlist - Aces of the Pacific](https://www.gog.com/dreamlist/game/aces-of-the-pacific) – - Information about Aces Over Europe being a follow-up to Aces of the Pacific
-[^ref-2]: [GOG.com Dreamlist - Aces Over Europe](https://www.gog.com/dreamlist/game/aces-over-europe) – - Game description, designer information, and promotional details
+[^ref-2]: [GOG.com Dreamlist - Aces Over Europe](https://www.gog.com/dreamlist/game/aces-over-europe) – - Promotional game description, DOS platform listing, and Dreamlist vote count
 [^ref-3]: [Internet Archive - Aces Over Europe Demo](https://archive.org/details/AcesOverEurope_1020) – - Game description, aircraft details, and gameplay features
-[^ref-4]: [GameSpot User Reviews](https://www.gamespot.com/aces-over-europe/user-reviews/2200-236058/) – - User review scores and retrospective assessment
+[^ref-4]: [GameSpot User Reviews](https://www.gamespot.com/aces-over-europe/user-reviews/2200-236058/) – - User review scores and retrospective assessment, including bomb-dropping physics comment
 [^ref-5]: [MobyGames - Aces Over Europe MobyRank](https://www.mobygames.com/game/aces-over-europe/mobyrank) – - Aggregated critic and player review scores
-[^ref-6]: [DOS Days - Aces Over Europe (Dynamix, 1993)](https://dosdays.co.uk/topics/Games/game_aceseur.php) – - Technical specifications, designers list, and graphics/Tall Res details
-[^ref-7]: [Internet Archive - Aces Over Europe v1.02 Disk 1](https://archive.org/details/aces-of-europe-v-1.02-dynamix-disk-1) – - Developer information
-[^ref-8]: [MobyGames - Aces Collection Series](https://www.mobygames.com/game/11307/aces-collection-series/) – - Platform compatibility information
-[^ref-9]: [MobyGames - Aces Over Europe Specs](https://www.mobygames.com/game/519/aces-over-europe/specs/) – - Technical specifications and system requirements
+[^ref-6]: [DOS Days - Aces Over Europe (Dynamix, 1993)](https://dosdays.co.uk/topics/Games/game_aceseur.php) – - Technical specifications, RAM requirement, and graphics/Tall Res details
+[^ref-7]: [Internet Archive - Aces Over Europe v1.02 Disk 1](https://archive.org/details/aces-of-europe-v-1.02-dynamix-disk-1) – - "Aces Over Europe v1.02 - Dynamix (1993)" disk image
+[^ref-9]: [MobyGames - Aces Over Europe Specs](https://www.mobygames.com/game/519/aces-over-europe/specs/) – - Technical specifications, input devices, and system requirements
 [^ref-11]: [MobyGames - Aces Over Europe User Review](https://www.mobygames.com/game/dos/aces-over-europe/reviews/reviewerId,25041/) – - Mission types and flight model details
-[^ref-12]: [ModDB - Aces Over Europe Revisited](https://www.moddb.com/games/aces-over-europe/news/aces-over-europe-revisited) – - Technical capabilities regarding aircraft numbers
-[^ref-13]: [GOG.com Dreamlist - European Air War](https://www.gog.com/dreamlist/game/european-air-war) – - Bird strike feature details
 [^ref-14]: [Sierra Gamers - Aces Over Europe](https://www.sierragamers.com/aces-over-europe/) – - Sierra Gamers community page describing setting and gameplay
-[^ref-16]: [Videospiele Fandom Wiki](https://videospiele.fandom.com/wiki/Aces_over_Europe) – - Technical comparison to predecessor
+[^ref-16]: [Videospiele Fandom Wiki](https://videospiele.fandom.com/wiki/Aces_over_Europe) – - 1944–45 setting and technical comparison to predecessor
 [^ref-17]: [Internet Archive - Aces Complete Collector's Edition](https://archive.org/details/AcesTheCompleteCollectorsEditionUSA) – - Compilation release information
 [^ref-18]: [Internet Archive - Best of Sierra Volume 06](https://archive.org/details/best-of-sierra-volume-06-hunter-hunted-aces-over-europe-1998-de.-7z) – - 1998 compilation release details
-[^ref-19]: [Internet Archive - Wargamer Depot Aces Over Europe](https://archive.org/details/wargamer-depot_aces-over-europe) – - Community mod and scenario preservation
-[^ref-20]: [Internet Archive - AOE DOS ZIP](https://archive.org/details/AOE_DOS_ZIP) – - Game patches and updates
+[^ref-19]: [Internet Archive - "Wargamer Scenario Depot: Aces over Europe"](https://archive.org/details/wargamer-depot_aces-over-europe) – - Compilation of older community files, mostly from flightsim.com (the item notes it was never part of the Wargamer Depot)
+[^ref-20]: [Internet Archive - AOE DOS ZIP](https://archive.org/details/AOE_DOS_ZIP) – - "Aces over Europe (new joystick drivers and other fixes)"
 [^ref-21]: [Internet Archive - AOE Tapes](https://archive.org/details/AOETAPES) – - VCR tape files preservation
 [^ref-22]: [Internet Archive - Aces Over Europe 002778](https://archive.org/details/002778-AcesOverEurope) – - Floppy disk image preservation
 [^ref-23]: [IMDb - Aces Over Europe](https://www.imdb.com/title/tt6100830/) – - Basic game metadata and release information
 [^ref-24]: [MobyGames - Aces Over Europe Cover Art](https://www.mobygames.com/game/dos/aces-over-europe/cover-art/gameCoverId,7580) – - Cover art and pricing information
 [^ref-25]: [MobyGames - Aces Over Europe Promo](https://www.mobygames.com/game/519/aces-over-europe/promo/group-111011/image-863022/) – - Promotional materials and catalog information
 [^ref-26]: [The Video Game Library - Strategy Guide](https://www.thevideogamelibrary.org/book/aces-over-europe-official-strategy-guide) – - Official strategy guide information
-[^ref-27]: [Sierra Help - Patches Updates](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – - Modern system compatibility information
+[^ref-27]: [Sierra Help - Patches Updates](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – - Modern system compatibility information (DOSBox installer)
 [^ref-28]: [GOG.com Forum - General Archive](https://www.gog.com/forum/general_archive/aces_over_europe_pacific) – - Community discussion about game availability
-[^ref-29]: [Dynamix Fandom Wiki - Aces Over Europe](https://dynamix.fandom.com/wiki/Aces_Over_Europe) – - Studio fan-wiki entry summarizing the game
+[^ref-29]: [Dynamix Fandom Wiki - Aces Over Europe](https://dynamix.fandom.com/wiki/Aces_Over_Europe) – - Credits (director/designer, assistant director, lead programmer, art director, music), MS-DOS platform, campaign structure, 3Space Games category
 [^ref-30]: [GOG.com Wishlist - Aces Over Europe](https://www.gog.com/wishlist/games/aces_over_europe) – - Community comments containing fan recollections including the record/playback, Eiffel Tower, and "fun x complexity" quotes
 [^ref-31]: [GOG.com Wishlist - Aces of the Pacific](https://www.gog.com/wishlist/games/aces_of_the_pacific) – - Community comments including the "AoP and AoE" immersion quote
