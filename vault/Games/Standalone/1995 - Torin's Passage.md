@@ -26,10 +26,10 @@ tags: [1990s, adventure, al-lowe, 'null', sci, sierra]
 Set in a fantasy world of nested planets called Strata, the game follows young Torin and his shape-shifting companion Boogle on a quest to rescue Torin's adoptive parents from the sorceress Lycentia[^ref-4]. The game features Disney-quality cel animation, oil painted backgrounds, and an original musical score composed by three-time Academy Award winner Michel LeGrand[^ref-5]. Despite its high production values and positive critical reception, Torin's Passage remained a commercial disappointment and marked one of Sierra's final traditional adventure game releases before the company's strategic shift away from the genre[^ref-6].
 
 > [!info]- Game Info
-> **Developer:** [[Sierra On-Line]][^ref-7]
+> **Developer:** [[Sierra On-Line]][^ref-1][^ref-10]
 > **Designer:** [[Al Lowe]], [[Lorelei Shannon]][^ref-8]
 > **Publisher:** Sierra On-Line[^ref-9]
-> **Engine:** SCI2.1[^ref-7]
+> **Engine:** SCI2.1[^ref-7][^ref-10]
 > **Platforms:** DOS, Windows, Macintosh, CD-ROM[^ref-10]
 > **Release Year:** 1995
 > **Series:** Standalone
@@ -86,7 +86,7 @@ The game's music was composed by Michel LeGrand, a three-time Academy Award winn
 
 ### Technical Achievements
 
-Torin's Passage was built using Sierra's SCI2.1 engine, the same version used for Leisure Suit Larry 7[^ref-7]. The game required significant technical resources for its time, with minimum system requirements including a 486/25 MHz processor, 8 MB RAM, SVGA graphics, and a 2x CD-ROM drive[^ref-29]. The animation style was compared to Disney quality, with one review noting "animation of quality that would make Disney proud"[^ref-7].
+Torin's Passage was built using Sierra's SCI2.1 engine (interpreter 2.100.002), the same interpreter version as Space Quest 6; Leisure Suit Larry 7 moved on to SCI3[^ref-7]. The game required significant technical resources for its time, with minimum system requirements including a 486/25 MHz processor, 8 MB RAM, SVGA graphics, and a 2x CD-ROM drive[^ref-29]. PC Gamer described the animation as "a blend of styles inspired by Disney and Warner Bros."[^ref-22]
 
 The game featured innovative video compression using VMD (Video and Music Data) format with a native resolution of 316x158 and a 2:1 aspect ratio[^ref-30]. Players could enable various visual effects, including a "psychedelic mode" accessible by pressing Ctrl-P during gameplay[^ref-31].
 
@@ -166,7 +166,7 @@ Professional voice acting brought characters to life with distinct accents and e
 [^ref-4]: GamesNostalgia - Torin's Passage *(download link removed: the game is sold commercially)* – - Plot summary with Lycentia and Boogle
 [^ref-5]: [Al Lowe's Website - Music Downloads](https://allowe.com/games/torin/music-downloads.html) – - Michel LeGrand composer credit
 [^ref-6]: [Fake Geek Boy - The Last Adventures of Sierra](https://fakegeekboy.wordpress.com/2020/08/05/gogathon-the-last-adventures-of-sierra/) – - Sierra's transition away from adventure games
-[^ref-7]: [Grokipedia - Torin's Passage](https://grokipedia.com/page/Torin%27s_Passage) – - Developer information
+[^ref-7]: [ScummVM Wiki – Sierra Game Versions](https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – - Interpreter versions: Torin's Passage on SCI21 2.100.002, Leisure Suit Larry 7 on SCI3
 [^ref-8]: [MobyGames - Credits](http://www.mobygames.com/game/dos/torins-passage/credits) – - Designer credits
 [^ref-9]: [TVTropes - Torin's Passage](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TorinsPassage) – - Publisher information
 [^ref-10]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Torin%27s_Passage) – - Platform information

@@ -5,15 +5,15 @@ founded: 1987
 defunct: 2000
 headquarters: "Berkeley, California, United States"
 parent_company: "Sierra On-Line (acquired 1997)"
-last_updated: "2026-05-08"
+last_updated: "2026-10-09"
 ---
 # Berkeley Systems
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-Berkeley Systems was an American software company founded in 1987, best known for creating the After Dark screensaver series featuring the iconic "Flying Toasters." Sierra On-Line acquired Berkeley Systems in 1997, integrating their catalog into Sierra's entertainment software lineup.[^ref-1][^ref-4][^ref-7][^ref-10][^ref-13]
+Berkeley Systems was an American software company founded in 1987, best known for creating the After Dark screensaver series featuring the iconic "Flying Toasters." Sierra On-Line acquired Berkeley Systems in 1997, integrating their catalog into Sierra's entertainment software lineup.[^ref-1][^ref-4][^ref-7][^ref-13]
 
 ## Sierra Connection
 
@@ -40,7 +40,6 @@ After Sierra's acquisition in 1997, Berkeley Systems continued operating as a su
 [^ref-7]: [Memory Alpha - Berkeley Systems](https://memory-alpha.fandom.com/wiki/Berkeley_Systems) - Star Trek screensavers
 [^ref-8]: [Jackbox Games Wiki - Berkeley Systems](https://jackboxgames.fandom.com/wiki/Berkeley_Systems) - You Don't Know Jack development
 [^ref-9]: [Retrolorean - Berkeley Systems](https://retrolorean.com/en/publisher/berkeley-systems-inc) - Game catalog
-[^ref-10]: [Grokipedia - Berkeley Systems](https://grokipedia.com/page/Berkeley_Systems) - Company overview
 [^ref-11]: [Wikipedia - Wes Boyd](https://en.wikipedia.org/wiki/Wes_Boyd) - Founder biography
 [^ref-12]: [YouTube - Rise and Fall of Berkeley Systems](https://www.youtube.com/playlist?list=PLSDZxGgHyY40zpXvH8_SHGuhA1WKqUbXZ) - Documentary series
 [^ref-13]: [Everything Allowed Wiki - Berkeley Systems](https://everything-allowed.fandom.com/wiki/Berkeley_Systems) - Company closure in 2000

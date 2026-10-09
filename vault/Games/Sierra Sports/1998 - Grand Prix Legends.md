@@ -10,14 +10,14 @@ series: Papyrus Racing Simulations
 engine: Papy3D
 protagonist: Player-controlled 1967 F1 driver
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: Grand Prix Legends is a computer racing simulator developed by Papyrus
   Design Group and published by Sierra Sports on October 5, 1998. The game meticulously...
 tags: [1990s, papyrus-racing-simulations, racing, sierra]
 ---
 # Grand Prix Legends
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -148,7 +148,7 @@ The choice of 1967 was both a creative decision and a practical challenge. Kaemm
 
 Grand Prix Legends took more than three years to develop, with a full year dedicated solely to physics research and development[^ref-35]. Creative Director Matt Sentell explained: "David's research into the physics model began in 1995, so it was roughly three years, but a full year of that was R&D of the physics alone"[^ref-35]. The development team comprised 25 to 30 people[^ref-1].
 
-The team went to extraordinary lengths to ensure authenticity. Developers drove or were driven on most of the European tracks, visited Mosport in Canada and Watkins Glen in the USA[^ref-35]. For tracks that no longer existed in their 1967 form, the team visited town halls to obtain original blueprints[^ref-1]. The game was officially endorsed by the FIA for its historical accuracy[^ref-36].
+The team went to extraordinary lengths to ensure authenticity. Developers drove or were driven on most of the European tracks, visited Mosport in Canada and Watkins Glen in the USA[^ref-35]. For tracks that no longer existed in their 1967 form, the team visited town halls to obtain original blueprints[^ref-1]. According to DOS Days, the game was endorsed by the FIA, with teams, drivers and cars reproduced from the 1967 championship[^ref-38].
 
 Licensing proved challenging, as Sentell noted: "Licensing is always frustrating because of the uncertainty"[^ref-35]. The team was unable to secure rights from Honda and Cooper, forcing them to rename those cars to "Murasama" and "Coventry" respectively[^ref-23]. Jackie Stewart was also planned to appear in the game but could not be included due to licensing issues[^ref-8].
 
@@ -160,7 +160,6 @@ Licensing proved challenging, as Sentell noted: "Licensing is always frustrating
 - **Designer:** Richard Yasi
 - **Designer:** Matt Matera (track design)
 - **Designer:** Sean Turbitt (track design)
-- **Additional Designer:** Omar Khudari[^ref-36]
 
 ### Technical Achievements
 
@@ -225,7 +224,7 @@ The version 1.1 patch prevented ride height setups lower than 2.5 inches to addr
 
 ### Easter Eggs and Trivia
 
-- **"Driving on Ice":** David Kaemmer famously described the sensation of driving the cars as "driving on ice"[^ref-36]
+- **"Driving on Ice":** In his note in the manual, David Kaemmer wrote that "many people think that it feels like driving on ice," calling it "an apt description"[^ref-3]
 - **Film Inspiration:** The game was inspired by the 1966 film "Grand Prix" starring James Garner[^ref-7]
 - **Jackie Stewart Rumor:** There was a rumor that Jackie Stewart said the simulation was harder to drive than actual 1967 Formula One cars[^ref-13]
 - **Ferrari License:** Ferrari granted official licensing for the Ferrari 312, a notable achievement given their typically restrictive licensing policies[^ref-24]
@@ -353,7 +352,6 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 [^ref-33]: [CD Magazine Archive](https://web.archive.org/web/20030523211749/http://www.cdmag.com/articles/015/048/grandprixl_review.html) – Steve Bauman quotes, Papyrus history, technical specs
 [^ref-34]: [MyAbandonware – Grand Prix Legends](https://www.myabandonware.com/game/grand-prix-legends-9zz) – user ratings, community activity
 [^ref-35]: [Sports Gaming Interview Archive](https://web.archive.org/web/20220523235634/http://www.sports-gaming.com/racing/gpl/interview1.shtml) – Matt Sentell interview, development timeline
-[^ref-36]: [Grokipedia – Grand Prix Legends](https://grokipedia.com/page/Grand_Prix_Legends) – FIA endorsement, Kaemmer quote, development period
 [^ref-37]: [Sierra Sports Press Release Archive](https://web.archive.org/web/19990824162145/http://www.sierrasports.com/sierrasports/pr/grandprix.html) – official launch details, marketing quotes
 [^ref-38]: [DOS Days – Grand Prix Legends](http://www.dosdays.co.uk/topics/Games/game_gpl.php) – version history, engine details, technical specifications
 [^ref-40]: [ZDNet – CGW Awards](https://www.zdnet.com/article/computer-gaming-world-awards/) – Premier Awards, runner-up status

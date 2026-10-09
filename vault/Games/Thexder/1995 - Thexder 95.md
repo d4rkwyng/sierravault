@@ -10,7 +10,7 @@ series: Thexder
 engine: Microsoft Game SDK
 protagonist: Thexder (transforming mech)
 sierra_lineage: Sierra Published
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Christopher Barker]
 description: Thexder 95, also known as Thexder for Windows 95, is a Windows 95 remake
   of the original Thexder game that was developed by Synergistic Software and...
@@ -18,7 +18,7 @@ tags: [1990s, sierra, thexder]
 ---
 # Thexder 95
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -41,7 +41,7 @@ Despite its poor reception, Thexder 95 remains a curious artifact of mid-1990s P
 
 ## Story Summary
 
-The Thexder series follows the story of a transforming robot dispatched to hostile, forbidden facilities overrun by malevolent creations[^ref-7]. In the original narrative, an alien race known as the Nediam inhabit a giant ship resembling an asteroid and are heading straight towards Earth[^ref-8]. The interstellar weapons platform Laevina detects the asteroid Nedium during a routine survey and soon finds itself caught in the grip of the planetoid's ultramagnetic field[^ref-9]. The starship must turn to its Hyper Dual Armor prototype Thexder to escape the deadly situation and save humanity[^ref-9].
+The original Thexder locks its transforming robot inside a mysterious facility, where it must survive 16 levels and disable the central computer "which creates the evil creatures that dwell in this forbidden world"[^ref-18]. In the original narrative, an alien race known as the Nediam inhabit a giant ship resembling an asteroid and are heading straight towards Earth[^ref-8]. The interstellar weapons platform Laevina detects the asteroid Nedium during a routine survey and soon finds itself caught in the grip of the planetoid's ultramagnetic field[^ref-9]. The starship must turn to its Hyper Dual Armor prototype Thexder to escape the deadly situation and save humanity[^ref-9].
 
 Thexder itself is described as a "hyper dual-armor robot-jet transformer" designed as a super-assault vehicle capable of transforming between robot and fighter forms at any time[^ref-10][^ref-11]. In robot form, the mech is equipped with a beam rifle and particle barrier, while its jet mode boasts a maximum speed of Mach 4.1[^ref-12]. The robot's primary mission is to destroy the central computer controlling the hostile forces, navigating through 16 levels of increasingly dangerous maze-like environments[^ref-5][^ref-13].
 
@@ -114,7 +114,7 @@ Development of Thexder 95 utilized Microsoft's Game SDK, which was the precursor
 
 Thexder 95's use of Microsoft's Game SDK represented an early adoption of what would become industry-standard development tools[^ref-1]. The multi-window interface, while ultimately unpopular, demonstrated innovative thinking about how games could leverage the Windows operating environment[^ref-1]. The game supported the then-new Windows 95 operating system exclusively, making it inaccessible to users of earlier DOS-based systems[^ref-26].
 
-The original Thexder had been notable for its smooth animation and high-speed scrolling on 8-bit computers[^ref-7][^ref-10]. The PC-88 version featured 48 animation patterns for the robot protagonist and 72 patterns for enemies, achieved through clever data compression that fit 480 screens into limited memory[^ref-7][^ref-27]. Thexder 95 attempted to modernize these elements for Windows 95 hardware but struggled to match the elegance of the original's design within its constraints[^ref-2].
+The original Thexder had been notable for its animation and seamless scrolling on 8-bit computers[^ref-10][^ref-27]. On the PC-88 original, the robot alone had 48 animation patterns and all 72 enemy types were animated, while the maps ran to 480 screens, which required heavy work on data compression[^ref-27]. Thexder 95 attempted to modernize these elements for Windows 95 hardware but struggled to match the elegance of the original's design within its constraints[^ref-2].
 
 ### Technical Specifications
 
@@ -231,7 +231,6 @@ The game also suffered from timing issues. By 1995, the transforming robot conce
 [^ref-4]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Ken Williams acquisition of rights from Game Arts
 [^ref-5]: [ClassicReload – Thexder](https://classicreload.com/thexder.html) – Sales data, Sierra best-seller status, publisher history
 [^ref-6]: [PixelatedArcade – Thexder](https://pixelatedarcade.com/games/thexder) – One million copies worldwide sales figure
-[^ref-7]: [Grokipedia – Thexder](https://grokipedia.com/page/Thexder) – Animation patterns, development time, story details
 [^ref-8]: [PixelatedArcade – Fire Hawk](https://www.pixelatedarcade.com/games/fire-hawk-thexder-the-second-contact) – Nediam alien race story
 [^ref-9]: [IGN – Thexder Neo](https://www.ign.com/games/thexder-neo) – Laevina and Nedium story elements
 [^ref-10]: [Atari Magazines – Compute! Review](https://www.atarimagazines.com/compute/issue94/P21_1_REVIEWS_THEXDER.php) – Gameplay mechanics, enemy count, level structure

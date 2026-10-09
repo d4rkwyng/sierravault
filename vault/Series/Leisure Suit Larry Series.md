@@ -7,12 +7,12 @@ first_release: 1987
 last_release: 2020
 total_games: 13
 genre: "Adventure, Comedy"
-last_updated: "2026-05-13"
+last_updated: "2026-10-09"
 ---
 
 # Leisure Suit Larry Series
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -45,7 +45,7 @@ Distinguished by its adult-oriented humor, self-deprecating protagonist, and sha
 Lowe's approach transformed what could have been a simple graphical update into something entirely new:
 
 - **Larry as satirical target** - The joke is always on Larry, never the player
-- **Women portrayed as smarter** - As Lowe noted, women in the games are "smarter, better read, more knowledgeable, and hipper" than Larry[^ref-6]
+- **Women portrayed as smarter** - Lowe has long argued that, next to Larry, "the women were always smarter, better read, more knowledgeable, and hipper"[^ref-6]
 - **Self-deprecating humor** - Larry's failures are funnier than his successes
 - **Period-specific comedy** - Each game satirizes contemporary dating culture
 
@@ -166,6 +166,6 @@ Fans generally distinguish between "true" Larry games (LSL1-7, designed by [[Al 
 [^ref-3]: [Al Lowe Biography](https://allowe.com/al/bio1.html) – Career history and "adult" genre creation
 [^ref-4]: [Sierra Gamers - Al Lowe](https://www.sierragamers.com/al-lowe/) – Pre-Larry Sierra work
 [^ref-5]: [Adventure Classic Gaming - Al Lowe Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/124/) – Leisure suit origin quote
-[^ref-6]: [Grokipedia - Leisure Suit Larry](https://grokipedia.com/page/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards) – Women portrayed smarter quote
+[^ref-6]: [The Digital Antiquarian – Leisure Suit Larry in the Land of the Lounge Lizards](https://www.filfre.net/2015/08/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – Al Lowe's "women were always smarter" defence of the series
 [^ref-7]: [Guinness World Records - Best-Selling Hint Book](https://www.guinnessworldrecords.com/world-records/88867-best-selling-videogame-hint-book) – Hint book sales record
 [^ref-8]: [Critical Hits Anthology](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) – Academic analysis reference

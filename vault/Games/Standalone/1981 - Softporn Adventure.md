@@ -31,7 +31,7 @@ Despite its commercial success and historical significance, Softporn Adventure r
 > **Developer:** Blue Sky Software[^ref-2]
 > **Designer:** [[Chuck Benton]][^ref-2]
 > **Publisher:** [[On-Line Systems]][^ref-2]
-> **Engine:** Applesoft BASIC[^ref-9]
+> **Engine:** Applesoft BASIC[^ref-7][^ref-14]
 > **Platforms:** Apple II, Atari 8-bit, MS-DOS[^ref-7]
 > **Release Year:** 1981
 > **Series:** Standalone
@@ -259,7 +259,6 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 [^ref-6]: [Time Magazine / Yahoo Finance – The Odd History of the First Erotic Computer Game](https://finance.yahoo.com/news/odd-history-first-erotic-computer-114500394.html) – Time magazine coverage, sales data, disco bouncer hazard
 [^ref-7]: [Wikipedia – Softporn Adventure](https://en.wikipedia.org/wiki/Softporn_Adventure) – Softline review quotes, sales impact, reception
 [^ref-8]: [Ars Technica – History of Graphic Adventures](https://arstechnica.com/gaming/2011/01/history-of-graphic-adventures/) – Al Lowe remake, AGI version, Larry Laffer introduction
-[^ref-9]: [Grokipedia – Softporn Adventure](https://grokipedia.com/page/Softporn_Adventure) – Applesoft BASIC engine, technical specifications
 [^ref-11]: [Data Driven Gamer – Softporn Adventure](https://datadrivengamer.blogspot.com/2019/11/game-109-softporn-adventure.html) – game manual premise, dystopian setting
 [^ref-12]: [IGN – Talking Leisure Suit Larry with Al Lowe](https://www.ign.com/articles/2014/12/26/talking-leisure-suit-larry-with-al-lowe) – "leisure suit" quote origin, remake context
 [^ref-13]: [Hardcore Gaming 101 – Softporn Adventure](http://www.hardcoregaming101.net/softporn-adventure-las-vegas/) – game objective, starting location

@@ -2,7 +2,7 @@
 title: Team Fortress Classic
 release_year: 1999
 developer: Valve Corporation
-designer: [Robin Walker, John Cook, Ian Caughley]
+designer: [Robin Walker, John Cook]
 publisher: Sierra Studios
 genre: FPS
 platforms: [Windows, macOS, Linux]
@@ -18,19 +18,19 @@ tags: [1990s, shooter, sierra, team-fortress]
 ---
 # Team Fortress Classic
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
 Team Fortress Classic is a class-based multiplayer first-person shooter developed and released by Valve Corporation in April 1999.[^ref-1] Originally created as a free add-on for Half-Life owners, the game represents a pivotal moment in gaming history when Valve hired the original creators of the popular Quake Team Fortress mod and brought them to work on an official commercial release.[^ref-2] The game puts two teams against each other in online multiplayer matches, with each team member choosing from nine distinct character classes, each possessing unique skills, weapons, and tactical roles.[^ref-3]
 
-The modification focused on one central philosophy: "the only way you'll win is by working as a team."[^ref-4] Team Fortress Classic emphasizes coordination and strategy between opposing factions, rewarding organized teams over individual skill.[^ref-5] PC Gamer US declared it "more fun and more addictive than any other multiplayer-only title released in 1999, and didn't cost owners of Half-Life a single penny."[^ref-1] The game has been described as one of the most popular online action games of all time, featuring character classes ranging from Medic to Spy to Demolition Man in a unique style of online team warfare.[^ref-6]
+The modification focused on one central philosophy: "the only way you'll win is by working as a team."[^ref-4] PC Gamer US declared it "more fun and more addictive than any other multiplayer-only title released in 1999, and didn't cost owners of Half-Life a single penny."[^ref-1] The game has been described as one of the most popular online action games of all time, featuring character classes ranging from Medic to Spy to Demolition Man in a unique style of online team warfare.[^ref-6]
 
 Team Fortress Classic served as a crucial bridge between the original Quake mod and the eventual Team Fortress 2, demonstrating Valve's commitment to nurturing modding communities and recognizing exceptional talent.[^ref-2] The game was included in the book *1001 Video Games You Must Play Before You Die*, cementing its status as a historically significant title in the first-person shooter genre.[^ref-7][^ref-40]
 
 > [!info]- Game Info
 > **Developer:** [[Valve Corporation]][^ref-1]
-> **Designer:** Robin Walker, John Cook, Ian Caughley[^ref-5]
+> **Designer:** Robin Walker, John Cook[^ref-1][^ref-5]
 > **Publisher:** Sierra Studios[^ref-1]
 > **Engine:** GoldSrc[^ref-1]
 > **Platforms:** Windows, macOS, Linux[^ref-1]
@@ -116,10 +116,9 @@ Team Fortress Classic was developed to promote Half-Life's software development 
 
 The release was briefly delayed. Jenni from Valve announced: "The release of Team Fortress Classic... has been delayed a week so that we can fix a few bugs and have time to test the fixes."[^ref-25]
 
-**Development Credits:**[^ref-5]
+**Development Credits:**[^ref-1]
 - **Designer:** Robin Walker
 - **Designer:** John Cook
-- **Designer:** Ian Caughley
 
 ### Technical Achievements
 
@@ -263,7 +262,7 @@ However, modern assessments acknowledge the game's limitations. As one Metacriti
 [^ref-2]: [Engadget – Valve's Strange History of Talent Acquisitions](https://www.engadget.com/valves-strange-history-of-talent-acquisitions--this-weeks-gaming-news-153020318.html) – Valve acquisition of Team Fortress developers
 [^ref-3]: [IMDB – Team Fortress Classic](https://www.imdb.com/title/tt5044604/) – ratings, alternate titles, user reviews
 [^ref-4]: [GameSpot – Team Fortress Full Speed Ahead](http://www.gamespot.com/articles/team-fortress-full-speed-ahead/1100-2463316/) – Robin Walker and Scott Lynch quotes, development decisions
-[^ref-5]: [Grokipedia – Team Fortress Classic](https://grokipedia.com/page/Team_Fortress_Classic) – designers, engine, game modes, technical details
+[^ref-5]: [Wikipedia – GoldSrc](https://en.wikipedia.org/wiki/GoldSrc) – GoldSrc as a heavily modified Quake engine; TFC developed primarily by two of the Quake Team Fortress developers
 [^ref-6]: [Steam Store – Team Fortress Classic](https://store.steampowered.com/app/20/Team_Fortress_Classic/) – system requirements, pricing, user reviews
 [^ref-7]: [MobyGames – Team Fortress Classic](https://www.mobygames.com/game/1793/team-fortress-classic/) – awards, ratings, technical specs, trivia
 [^ref-8]: [TV Tropes – Team Fortress Classic](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TeamFortressClassic) – visual style, backstory context

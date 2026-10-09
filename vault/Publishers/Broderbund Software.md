@@ -5,25 +5,24 @@ founded: 1980
 defunct: 1998
 headquarters: "Novato, California, United States"
 parent_company: "The Learning Company (acquired 1998)"
-last_updated: "2026-07-13"
+last_updated: "2026-10-09"
 ---
 # Broderbund Software
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-Broderbund Software (originally Brøderbund) was a major American software publisher founded in 1980 by Doug and Gary Carlston.[^ref-1][^ref-9] The company was known for educational software (*Carmen Sandiego* series, *The Print Shop*) and games (*Prince of Persia*, *Myst*).[^ref-2][^ref-10] Broderbund was acquired by The Learning Company in 1998.[^ref-3][^ref-11]
+Broderbund Software (originally Brøderbund) was a major American software publisher founded in 1980 by Doug and Gary Carlston.[^ref-1][^ref-9] The company was known for educational software (*Carmen Sandiego* series, *The Print Shop*) and games (*Prince of Persia*, *Myst*).[^ref-2][^ref-5][^ref-10] Broderbund was acquired by The Learning Company in 1998.[^ref-3][^ref-11]
 
 ## Sierra Connection
 
-Broderbund competed with Sierra in the adventure and strategy game markets during the 1980s and early 1990s.[^ref-4][^ref-12] The company published several strategy games that share thematic elements with Sierra's offerings, including games by developers who also worked with Sierra.[^ref-5][^ref-13]
+Broderbund competed with Sierra in the adventure and strategy game markets during the 1980s and early 1990s.[^ref-4][^ref-12] The two companies were also close: Brøderbund "forged a special bond with On-Line Systems," and on a 1981 whitewater-rafting trip Doug Carlston and Ken Williams seriously discussed merging them before deciding it wouldn't make sense.[^ref-9]
 
 **Notable Connection:** After Activision lost the rights to Cyan's *Myst*, Broderbund published the game in 1993, making it one of the best-selling PC games of all time.[^ref-6][^ref-14]
 
 ## Games Published (Sierra Archive)
 
-- **1987** — [[1987 - The Ancient Art of War at Sea|The Ancient Art of War at Sea]] — Developer: Evryware
 - **1990** — [[1979 - Galactic Empire|Galactic Empire]] — Developer: Coktel Vision
 
 ## Legacy
@@ -48,6 +47,5 @@ The Broderbund brand continued under various owners after the 1998 acquisition.[
 [^ref-10]: [DOS Games Archive - Brøderbund Software](https://www.dosgamesarchive.com/profile/broderbund-software/) - Carmen Sandiego and early hits
 [^ref-11]: [Company Histories - Broderbund Software](https://www.company-histories.com/Broderbund-Software-Company-History.html) - Mattel acquisition
 [^ref-12]: [Wikipedia - Mattel Interactive](https://en.wikipedia.org/wiki/Mattel_Interactive) - Learning Company acquisition
-[^ref-13]: [Grokipedia - Broderbund](https://grokipedia.com/page/Broderbund) - Company overview
 [^ref-14]: [Broderbund Official Site](https://www.broderbund.com/) - Current brand presence
 [^ref-15]: [Games Database - Brøderbund Publisher](https://www.gamesdatabase.org/publisher-br%C3%B8derbund_software) - Published games catalog

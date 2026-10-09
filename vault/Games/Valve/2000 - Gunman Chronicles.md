@@ -122,7 +122,7 @@ User reviews frequently express frustration at the game's unavailability: "Perfe
 
 Gunman Chronicles has one of the most unusual development histories in gaming. The project began life as a Doom II mod created by Herbert "Herb" Flower;[^ref-44][^ref-36] Flower ported it to the Build and Quake engines, and in its Quake form it was a deathmatch mod titled "Gunmanship 101."[^ref-36][^ref-1] After a stint on Quake II, it settled on Valve's GoldSrc engine as a Half-Life total conversion.[^ref-1][^ref-2]
 
-The development team consisted of modders from across the globe, including contributors from Italy, Ukraine, and Germany, most of whom were only 16-17 years old.[^ref-3] They coordinated their work entirely online using ICQ chat and FTP file transfers—a remarkable feat of distributed development for the late 1990s.[^ref-22] Most team members never met each other in person during the entire project.[^ref-26]
+The development team consisted of modders from across the globe, including contributors from Italy, Ukraine, and Germany; according to Herb Flower, the team were all 16-17 years old.[^ref-36] They coordinated their work entirely online using ICQ chat and FTP file transfers—a remarkable feat of distributed development for the late 1990s.[^ref-22] Most team members never met each other in person during the entire project.[^ref-26]
 
 ### Production
 
@@ -295,7 +295,6 @@ Despite its troubled development and lukewarm critical reception, Gunman Chronic
 
 [^ref-1]: [Wikipedia – Gunman Chronicles](https://en.wikipedia.org/wiki/Gunman_Chronicles) – release dates, developer, publisher, engine, platforms, reception scores
 [^ref-2]: [MobyGames – Gunman Chronicles](https://www.mobygames.com/game/2612/gunman-chronicles/) – technical specs, ratings, trivia about development and German censorship
-[^ref-3]: [Grokipedia – Gunman Chronicles](https://grokipedia.com/page/Gunman_Chronicles) – team age, ICQ coordination, Valve investment
 [^ref-5]: [Amazon US – Gunman Chronicles](https://www.amazon.com/Gunman-Chronicles-PC/dp/B00004ZBO4) – customer reviews, physics innovation quote
 [^ref-6]: [Internet Archive – Zomb's Lair](https://archive.org/details/GunmanChronicles-ZombsLair) – Xash3D engine, preservation project
 [^ref-7]: [Gunman Chronicles Official Website](https://www.gunmanchronicles.com/) – game description, Xenome backstory

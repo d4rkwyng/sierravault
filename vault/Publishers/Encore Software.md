@@ -4,11 +4,11 @@ type: publisher
 founded: 1994
 headquarters: "San Francisco Bay Area, California, United States"
 parent_company: null
-last_updated: "2026-05-08"
+last_updated: "2026-10-09"
 ---
 # Encore Software
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -20,7 +20,7 @@ Encore is particularly notable in the Sierra Games archive for their continuatio
 
 ### Founding and Early Growth (1994-2000)
 
-Mike Bell and Michael Wegmann founded Encore Software Inc.[^ref-5] in 1994, initially finding success with bundled previously released software.[^ref-2][^ref-7] By 1998, Encore began developing original content, entering the educational market with titles like "Math Advantage" and bundles such as "Family MegaHits."[^ref-3][^ref-8] The company grew an average of 80% per year during its first six years, earning recognition from Inc. Magazine as one of the fastest-growing privately held companies.[^ref-3][^ref-9]
+Mike Bell and Michael Wegmann founded Encore Software Inc.[^ref-5] in 1994, initially finding success with bundled previously released software.[^ref-2][^ref-7] By 1998, Encore began developing original content and entered the educational market,[^ref-1][^ref-3] with titles such as the *Math Advantage* series.[^ref-8] The company grew an average of 80% per year during its first six years, earning recognition from Inc. Magazine as one of the fastest-growing privately held companies.[^ref-3][^ref-9]
 
 ### Navarre Acquisition and Expansion (2002-2008)
 
@@ -62,7 +62,7 @@ Encore Software continues to operate as an interactive software publisher, selli
 [^ref-5]: [Retrolorean - Encore Software, Inc.](https://retrolorean.com/en/publisher/encore-software-inc) - Game catalog
 [^ref-6]: [Encore Official Site - Games](https://www.encore.com/games) - Current game catalog
 [^ref-7]: [MobyGames - Encore, Inc. History](https://www.mobygames.com/company/1334/encore-inc/history/) - JoWooD partnership details
-[^ref-8]: [Grokipedia - Encore, Inc.](https://grokipedia.com/page/Encore,_Inc.) - Company description
+[^ref-8]: [Duke Gifted Letter – Product Tips: Math Software (Spring 2001)](https://dukegiftedletter.com/articles/vol1no3_pt.html) - Math Advantage 2001 by Encore Software
 [^ref-9]: [Encore Card Games Collection](https://www.encore.com/encore-card-games-collection) - Product information
 [^ref-10]: [Encore Contact Page](https://www.encore.com/contact-us/) - Company location
 [^ref-11]: [Encore Classic Puzzle & Board Games](https://www.encore.com/encore-classic-puzzle-board-games-download-windows) - Product catalog

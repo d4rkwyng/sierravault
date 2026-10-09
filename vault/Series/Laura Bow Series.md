@@ -16,7 +16,7 @@ last_updated: '2026-10-09'
 
 ## Overview
 
-The Laura Bow series represents [[Roberta Williams]]' return to the mystery genre that launched her career with Mystery House (1980).[^ref-1][^ref-8] Spanning just two games—The Colonel's Bequest (1989) and The Dagger of Amon Ra (1992)—the series pioneered innovative storytelling techniques that influenced interactive narrative design for decades.[^ref-2] Set in the 1920s, these games follow journalism student Laura Bow through atmospheric murder mysteries that prioritize observation and deduction over traditional puzzle-solving.
+The Laura Bow series represents [[Roberta Williams]]' return to the mystery genre that launched her career with Mystery House (1980).[^ref-7][^ref-8] Spanning just two games—The Colonel's Bequest (1989) and The Dagger of Amon Ra (1992)—the series pioneered innovative storytelling techniques that influenced interactive narrative design for decades.[^ref-2] Set in the 1920s, these games follow journalism student Laura Bow through atmospheric murder mysteries that prioritize observation and deduction over traditional puzzle-solving.
 
 What distinguished Laura Bow from other Sierra adventures was its revolutionary real-time progression system, where events occurred whether the player witnessed them or not.[^ref-3] This design created what many consider the first successful computer adaptation of the classic Agatha Christie murder mystery format.[^ref-4]
 
@@ -164,7 +164,6 @@ Despite positive reception, the series ended after two entries as Sierra shifted
 - [[1992 - The Dagger of Amon Ra]]
 ## References
 
-[^ref-1]: [Grok Encyclopedia - The Colonel's Bequest](https://grokipedia.com/page/The_Colonel%27s_Bequest) – Mystery House connection
 [^ref-2]: [Adventure Gamers - Laura Bow](https://web.archive.org/web/20250609194755/https://adventuregamers.com/article/laura_bow_the_colonels_bequest) – Innovative storytelling analysis
 [^ref-3]: [Hardcore Gaming 101 - The Colonel's Bequest](http://www.hardcoregaming101.net/the-colonels-bequest/) – Real-time progression system
 [^ref-4]: [Lemon Amiga - The Colonel's Bequest Review](https://www.lemonamiga.com/games/reviews/view.php?id=326) – Agatha Christie comparison

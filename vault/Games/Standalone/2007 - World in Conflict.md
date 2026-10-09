@@ -40,7 +40,7 @@ The game's single-player campaign was crafted by best-selling author and Cold Wa
 
 ## Story Summary
 
-The game is set in an alternate 1989 where the Soviet Union, facing certain economic collapse, elects to take military action rather than see the communist bloc dissolve peacefully.[^ref-17] Several months before the game begins, Warsaw Pact forces staged a desperate invasion of Western Europe, forcing NATO to commit most of its military resources to the European theater.[^ref-9] The narrative opens as a Soviet invasion force launches a surprise attack on Seattle, Washington, exploiting America's depleted homeland defenses.[^ref-10]
+The game is set in an alternate 1989 in which an impending economic collapse, and the failure to obtain aid diplomatically from the West, leads the Soviet Union to invade Western Europe.[^ref-1] Several months before the game begins, Warsaw Pact forces staged a desperate invasion of Western Europe, forcing NATO to commit most of its military resources to the European theater.[^ref-9] The narrative opens as a Soviet invasion force launches a surprise attack on Seattle, Washington, exploiting America's depleted homeland defenses.[^ref-10]
 
 Players assume the role of Lieutenant Parker, a company commander in the United States Army, working alongside characters including the bumbling Captain Bannon, the steadfast Colonel Sawyer, and French officer Sabatier.[^ref-26] As Alec Baldwin's narration establishes: "War can be fascinating to watch on TV but up close and personal it's a whole other story. Imagine your office building blown to pieces, your car thrown about like a discarded glove, and your friend lying on a street, his body torn to bloody shreds. That was the reality in Seattle on that fateful day in the fall of '89."[^ref-12]
 
@@ -52,7 +52,7 @@ The expansion pack, Soviet Assault, adds six new missions that allow players to 
 
 ### Interface and Controls
 
-World in Conflict fundamentally reimagines the real-time strategy genre by removing base construction and resource harvesting entirely.[^ref-4] As lead designer Magnus Jansén explained, the game has "a strong focus on unit tactics, action, team play, and destruction" with "no resource-gathering, so every second not spent fighting the enemy over a piece of land is a second wasted."[^ref-16] Players deploy units directly to the battlefield using a limited pool of reinforcement points that regenerate over time, creating constant tactical decisions about force composition and timing.[^ref-17]
+World in Conflict fundamentally reimagines the real-time strategy genre by removing base construction and resource harvesting entirely.[^ref-4] As lead designer Magnus Jansén explained, the game has "a strong focus on unit tactics, action, team play, and destruction" with "no resource-gathering, so every second not spent fighting the enemy over a piece of land is a second wasted."[^ref-16] Players spend a set pool of reinforcement points to purchase units, which are then airdropped onto the battlefield, creating constant tactical decisions about force composition and timing.[^ref-1]
 
 The MassTech engine provides a full 360-degree range of camera control, allowing players to zoom from strategic overview down into the heart of battle.[^ref-6] The game supports both DirectX 9 and DirectX 10 graphics APIs, with the latter enabling advanced visual effects and dual-monitor support in multiplayer mode.[^ref-4] Controls utilize standard keyboard and mouse input with an intuitive interface designed to minimize micromanagement and maximize combat engagement.[^ref-18]
 
@@ -70,7 +70,7 @@ Players earn tactical aid points through combat performance, which can be spent 
 
 Rather than traditional puzzles, World in Conflict challenges players with tactical problems requiring mastery of combined arms warfare.[^ref-20] Players select from four distinct combat roles—Infantry, Armor, Support, and Air—each with unique unit rosters and tactical advantages.[^ref-36] As Magnus Jansén noted, "Infantry, for instance, is at its peak when they can hide in forests and houses, so when all cover has been incinerated you may wish to change roles."[^ref-16]
 
-The reinforcement point system creates strategic depth: when units are destroyed, their points return to the pool after a delay, encouraging players to preserve forces while maintaining offensive pressure.[^ref-17] Tactical aids provide escalating support options, from precision airstrikes to carpet bombing, each requiring accumulated points earned through capturing objectives and destroying enemies.[^ref-4] The fully destructible environments mean that tactical situations evolve dynamically—forests can be burned away, buildings collapsed, and entire city blocks leveled, fundamentally altering the battlefield.[^ref-6]
+The reinforcement point system creates strategic depth: when units are destroyed, their points are refunded so the player can bring in more units.[^ref-1] Tactical aids provide escalating support options, from precision airstrikes to carpet bombing, each requiring accumulated points earned through capturing objectives and destroying enemies.[^ref-4] The fully destructible environments mean that tactical situations evolve dynamically—forests can be burned away, buildings collapsed, and entire city blocks leveled, fundamentally altering the battlefield.[^ref-6]
 
 ## Reception
 
@@ -84,7 +84,7 @@ Kikizo's Ian Dransfield gave 9/10, stating "Certainly one of the best PC release
 
 ### Modern Assessment
 
-World in Conflict has retained its reputation as a landmark title in the real-time tactics genre. The game is "regarded as a benchmark for the real-time tactics genre, influencing subsequent titles with its emphasis on pure tactical depth over economic simulation."[^ref-17] YouTube retrospectives in 2025 have called it the "greatest RTS of all time."[^ref-17]
+World in Conflict has retained its reputation as a landmark title in the real-time tactics genre. It was included in the book *1001 Video Games You Must Play Before You Die*.[^ref-1]
 
 PC Gamer's modern retrospective noted that "World in Conflict never quite received the dues it deserved" despite its innovations, particularly praising the "surprisingly affecting solo campaign and some top-drawer nuclear explosions."[^ref-26] The game appears in Tony Mott's *1001 Video Games You Must Play Before You Die*, cementing its status as a classic.[^ref-18]
 
@@ -168,7 +168,7 @@ The 1.010 patch was significant for removing SecuROM copy protection entirely, e
 
 ### Technical Issues
 
-The game experienced several compatibility issues on modern systems. Users reported that "Below 30 fps, numerous homing projectiles may miss their targets or fail to perform altogether," making adequate frame rates essential for proper gameplay.[^ref-42] Startup crashes occurred on systems with more than eight CPU threads, requiring community patches to resolve.[^ref-17]
+The game experienced several compatibility issues on modern systems. Users reported that "Below 30 fps, numerous homing projectiles may miss their targets or fail to perform altogether," making adequate frame rates essential for proper gameplay.[^ref-42] The game can crash on startup on systems with more than eight CPU threads; workarounds include a high-thread-count fix distributed via GOG support or reducing the number of active cores or threads.[^ref-17]
 
 Windows 10 compatibility proved problematic for some users, with Steam reviewer Qinshi noting "As of 2016 and Windows 10, this game does not work."[^ref-43] The GOG version also experienced launch failures on certain configurations.[^ref-44] Community developer LuKeStorm created an unofficial patch in 2024 addressing these issues, including a Large Address Aware flag to allow the game to address more than 2GB of virtual memory.[^ref-44]
 
@@ -225,7 +225,7 @@ Alec Baldwin provided extensive narration for mission briefings, establishing th
 
 ### Sales and Commercial Impact
 
-World in Conflict topped weekly sales charts in North America, Germany, and Australia during its debut week, demonstrating strong initial commercial performance.[^ref-47] GameStop's Bob McKenzie noted "World in Conflict is one of the hottest-selling PC games today as it appeals to fans of many genres, from first-person-shooter to RPG to sim."[^ref-48] However, the game's long-term commercial performance was affected by piracy and market saturation in the strategy genre.[^ref-17]
+World in Conflict topped weekly sales charts in North America, Germany, and Australia during its debut week, demonstrating strong initial commercial performance.[^ref-47] GameStop's Bob McKenzie noted "World in Conflict is one of the hottest-selling PC games today as it appeals to fans of many genres, from first-person-shooter to RPG to sim."[^ref-48]
 
 Despite critical acclaim, Martin Walfisz reflected that "World In Conflict is the most played RTS aside from the ones we really have no stats for, namely the Blizzard games," suggesting the game found a dedicated audience even if mainstream success proved elusive.[^ref-30] Following the Activision-Vivendi merger in 2008, Sierra Entertainment was effectively dissolved, and Ubisoft acquired Massive Entertainment along with the World in Conflict intellectual property on November 10, 2008.[^ref-49]
 
@@ -337,7 +337,7 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 [^ref-5]: [Eurogamer – World in Conflict Review](http://www.eurogamer.net/article.php?article_id=83539) – 9/10 score, Dan Whitehead quotes
 [^ref-6]: [D.I.C.E. Awards Database](https://www.interactive.org/games/video_game_details.asp?idAward=2008&idGame=937) – Larry Bond credit, MassTech engine, camera features
 [^ref-7]: [GamesIndustry.biz – World in Conflict Goes Gold](https://www.gamesindustry.biz/sierra-entertainments-world-in-conflict-goes-gold) – Martin Tremblay quote, editions, pricing
-[^ref-17]: [Grokipedia – World in Conflict](https://grokipedia.com/page/World_in_Conflict) – alternate history premise, gameplay mechanics
+[^ref-17]: [PCGamingWiki – World in Conflict](https://www.pcgamingwiki.com/wiki/World_in_Conflict) – startup crash on systems with more than 8 threads and fixes
 [^ref-9]: [The Daily Omnivore – World in Conflict Analysis](https://thedailyomnivore.net) – campaign structure, plot summary
 [^ref-10]: [CNET – World in Conflict Review](https://www.cnet.com/reviews/world-in-conflict-review/) – David Power review, storyline details
 [^ref-26]: [PC Gamer – World in Conflict Retrospective](https://www.pcgamer.com) – character names, campaign description

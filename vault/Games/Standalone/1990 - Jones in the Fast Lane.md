@@ -21,7 +21,7 @@ tags: [1990s, sci, sierra, simulation, standalone]
 
 ## Overview
 
-Jones in the Fast Lane is a life simulation game developed by Sierra On-Line and released in 1990[^ref-1]. The game represents a unique departure from Sierra's typical adventure game formula, combining elements of board games with life simulation in what designer Bill Davis described as "the game you'll bring out when friends drop by, or when the family just can't take one more evening of Trivial Pursuit"[^ref-2]. Built using Sierra's SCI (Sierra Creative Interpreter) engine[^ref-3], the game presents players with a satirical take on the pursuit of the American Dream[^ref-4].
+Jones in the Fast Lane is a life simulation game developed by Sierra On-Line and released in 1990[^ref-1]. The game represents a unique departure from Sierra's typical adventure game formula, combining elements of board games with life simulation in what designer Bill Davis described as "the game you'll bring out when friends drop by, or when the family just can't take one more evening of Trivial Pursuit"[^ref-2]. Built using Sierra's SCI (Sierra Creative Interpreter) engine[^ref-3], the game roots its gameplay in everyday life "with a satirical twist"[^ref-13].
 
 Somewhere between a conventional board game and a computer adventure game lies Jones in the Fast Lane, a tricky trip through real life[^ref-collection]. COMPUTE! magazine observed that "while essentially a board game played on a computer, Jones is a compelling diversion enhanced by appealing graphics and clever asides"[^ref-collection]. The game is structured as a turn-based strategy simulation where players compete to achieve various life goals including money, happiness, education, and career advancement[^ref-5].
 
@@ -50,7 +50,7 @@ The game includes humorous scenarios and random weekend events, such as the memo
 
 ### Interface and Controls
 
-The game can be controlled using both mouse and keyboard, with players clicking on locations and objects to interact and using on-screen prompts to make decisions that shape their character's life[^ref-13]. The interface resembles a traditional board game, with the board representing the city where players live[^ref-7]. Time serves as the primary resource, with exactly 168 hours available per weekly turn[^ref-4].
+The game can be controlled using both mouse and keyboard, with players clicking on locations and objects to interact and using on-screen prompts to make decisions that shape their character's life[^ref-13]. The interface resembles a traditional board game, with the board representing the city where players live[^ref-7]. Time serves as the primary resource: each turn represents one week of the character's life, and moving between locations, working, studying and resting all use up the time remaining in that turn[^ref-2].
 
 The graphics are "a mix of cartoonish and digitized characters, very reminiscent of some of the best Sierra point & click adventures"[^ref-collection]. Sierra recruited realistic-looking characters for the game, using rotoscoped animation techniques[^ref-9] that give the game its distinctive visual style.
 
@@ -179,7 +179,6 @@ The game's satirical take on the American Dream resonates differently in differe
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/370/jones-in-the-fast-lane/) – Basic game information and release details
 [^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/Jones_in_the_Fast_Lane) – Designer quote about game's intended audience
 [^ref-3]: [DOS Days](https://www.dosdays.co.uk/topics/Games/game_jones.php) – Technical engine information
-[^ref-4]: [Grokipedia](https://grokipedia.com/page/Jones_in_the_Fast_Lane) – Game description as satirical take on American Dream
 [^ref-5]: [Giant Bomb](https://www.giantbomb.com/jones-in-the-fast-lane/3030-12766/) – Gameplay mechanics and objectives
 [^ref-6]: [Internet Archive](https://archive.org/details/jones-in-the-fast-lane-dos) – Game genre classification
 [^ref-7]: [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/jones-in-the-fast-lane) – Board game interface description

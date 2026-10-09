@@ -10,18 +10,18 @@ series: Standalone
 engine: Custom 3D polygon engine
 protagonist: SA-08 Silpheed pilot
 sierra_lineage: Third-Party Published
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: Silpheed is a groundbreaking vertical scrolling shooter that debuted
   on the Japanese NEC PC-8801 on December 5, 1986, before being brought to Western...
 tags: [1980s, shooter, sierra, standalone]
 ---
 # Silpheed
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-Silpheed is a groundbreaking vertical scrolling shooter that debuted on the Japanese NEC PC-8801 on December 5, 1986, before being brought to Western audiences by Sierra On-Line in 1988-1989.[^ref-1][^ref-2] Developed by Game Arts, the game pioneered the use of real-time 3D polygonal graphics and a tilted third-person perspective, making it one of the most technically ambitious titles of the 8-bit era.[^ref-3][^ref-4] The game was notable for being one of the first to use music as a major selling point, featuring a phenomenal soundtrack that pushed perceptions of what computer game audio could achieve.[^ref-5][^ref-6]
+Silpheed is a groundbreaking vertical scrolling shooter that debuted on the Japanese NEC PC-8801 on December 5, 1986, before being brought to Western audiences by Sierra On-Line in 1988-1989.[^ref-1][^ref-2] Developed by Game Arts, the game pioneered the use of real-time 3D polygonal graphics and a tilted third-person perspective, making it one of the most technically ambitious titles of the 8-bit era.[^ref-1][^ref-3] The game was notable for being one of the first to use music as a major selling point, featuring a phenomenal soundtrack that pushed perceptions of what computer game audio could achieve.[^ref-5][^ref-6]
 
 In Silpheed, the player pilots a spaceship through twenty levels of increasing difficulty in a pseudo-3D vertically scrolling field, shooting everything in their path while collecting power-ups and new weapons.[^ref-5][^ref-7] The game introduced the novel concept of sectional damage to the shooter genre, allowing different parts of the ship to be damaged independently.[^ref-8] This defining moment in shooter history is considered "one of the rare games that can sell on the merits of its 'bells and whistles' alone," combining classic arcade fun with more depth than typical action-oriented games of its time.[^ref-9][^ref-10]
 
@@ -31,7 +31,7 @@ Sierra On-Line brought Silpheed to Western markets as part of their strategy to 
 > **Developer:** Game Arts[^ref-1]
 > **Designer:** Takeshi Miyaji, Masakuni Mitsuhashi, Osamu Harada[^ref-14]
 > **Publisher:** Sierra On-Line (NA), Game Arts (JP)[^ref-2]
-> **Engine:** Custom 3D polygon engine[^ref-4]
+> **Engine:** Custom 3D polygon engine[^ref-1]
 > **Platforms:** PC-8801, FM-77AV, MS-DOS, Apple IIgs, TRS-80 CoCo, Sega CD, Nintendo Switch[^ref-1][^ref-15]
 > **Release Year:** 1986 (JP), 1988-1989 (NA)
 > **Series:** Silpheed
@@ -50,7 +50,7 @@ When the player takes the controls of the Super Air Fighter SA-08 Silpheed proto
 
 ### Interface and Controls
 
-Silpheed employs a tilted third-person perspective that was revolutionary for its time, creating a pseudo-3D visual experience on hardware that predated true 3D rendering capabilities.[^ref-3][^ref-4] The game uses keyboard controls on PC platforms, with the DOS version later receiving joystick support in updated releases.[^ref-8][^ref-14] Players navigate their spacecraft across the screen while firing weapons at incoming enemies, with the oblique viewpoint creating unique challenges for spatial awareness and distance judgment.[^ref-16]
+Silpheed employs a tilted third-person perspective that was revolutionary for its time, creating a pseudo-3D visual experience on hardware that predated true 3D rendering capabilities.[^ref-1][^ref-3] The game uses keyboard controls on PC platforms, with the DOS version later receiving joystick support in updated releases.[^ref-8][^ref-14] Players navigate their spacecraft across the screen while firing weapons at incoming enemies, with the oblique viewpoint creating unique challenges for spatial awareness and distance judgment.[^ref-16]
 
 The control scheme allows players to move in all directions while continuously firing at enemies, following the traditional vertical shooter template but enhanced by the 3D graphical presentation.[^ref-5] The game features digitized speech in all versions except the TRS-80 CoCo port, adding voice communications from mission control during gameplay.[^ref-16][^ref-25]
 
@@ -112,7 +112,7 @@ Game Preservation Society founder Joseph Redon emphasized the remarkable efficie
 
 ### Production
 
-Development of Silpheed took place during Japan's economic bubble period, when 50,000 copies sold was considered a successful game.[^ref-33] The technical challenges of creating real-time 3D polygonal graphics on 8-bit hardware were substantial, requiring innovative programming techniques to achieve the game's distinctive visual style.[^ref-4]
+Development of Silpheed took place during Japan's economic bubble period, when 50,000 copies sold was considered a successful game.[^ref-33]
 
 The TRS-80 CoCo port presented particular challenges. Programmer Robert Lindsley, who was only 17 years old at the time, recalled: "My entire life for the next three months was creating and entering hex codes into the Tandy CoCo 3. I was working 16 hour days and loving it."[^ref-16] The CoCo version required severe size reduction to fit both CoCo 1/2 and CoCo 3 versions on a single 16K ROM cartridge, resulting in missing features including fortress/planetside levels and music.[^ref-16]
 
@@ -132,9 +132,9 @@ Sierra On-Line's involvement brought the game to Western audiences starting in 1
 
 ### Technical Achievements
 
-Silpheed represented a landmark technical achievement for its era. Despite the rather limited hardware of 8-bit computers, the game featured real-time 3D polygonal graphics and a tilted third-person perspective that created a convincing sense of depth.[^ref-3][^ref-4] AllGame reviewer Kyle Knight noted: "Silpheed manages to create some fairly convincing 3D graphics through the use of shading and clever design work."[^ref-8]
+Silpheed represented a landmark technical achievement for its era. Despite the rather limited hardware of 8-bit computers, the game featured real-time 3D polygonal graphics and a tilted third-person perspective that created a convincing sense of depth.[^ref-1][^ref-3] AllGame reviewer Kyle Knight noted: "Silpheed manages to create some fairly convincing 3D graphics through the use of shading and clever design work."[^ref-8]
 
-The game was one of the first to prominently feature music as a selling point, with the soundtrack becoming as important as the gameplay itself.[^ref-5][^ref-6] The original PC-88 version utilized the Yamaha YM2203 FM synthesis chip, producing 6 audio voices in mono.[^ref-4] Featured Article from the era declared: "If you're lucky enough to own an MT-32, your starship-blasting experience will be augmented by some of the most catchy music ever to be heard in a PC action game."[^ref-14]
+The game was one of the first to prominently feature music as a selling point, with the soundtrack becoming as important as the gameplay itself.[^ref-5][^ref-6] The original PC-88 version targeted the PC-8801mkII SR,[^ref-1] whose Yamaha YM2203 sound chip provided mono output[^ref-4] across six channels (three FM, three SSG).[^ref-53] Featured Article from the era declared: "If you're lucky enough to own an MT-32, your starship-blasting experience will be augmented by some of the most catchy music ever to be heard in a PC action game."[^ref-14]
 
 The sectional damage system was an innovation for the shooter genre, moving beyond simple health bars to create more nuanced ship survival mechanics.[^ref-8] Additionally, Silpheed was reportedly the first game to feature digitized Japanese voice acting in its original release.[^ref-33]
 
@@ -147,10 +147,9 @@ The sectional damage system was an innovation for the shooter genre, moving beyo
 - **Audio:** Roland MT-32, CMS Game Blaster, Ad Lib music card, IBM music card, PC Speaker
 - **Price:** $34.95 (MSRP at launch)
 
-**PC-8801 Version:**[^ref-4][^ref-37]
-- **Audio:** YM2203 FM synthesis chip
-- **Audio Voices:** 6 voices in mono
-- **Storage:** 2 floppy disks
+**PC-8801 Version:**[^ref-1][^ref-4][^ref-37][^ref-53]
+- **Target hardware:** PC-8801mkII SR
+- **Audio:** YM2203 (OPN) sound chip, six channels (3 FM + 3 SSG), mono
 
 **Apple IIgs Version:**[^ref-10]
 - **Release:** July 1989
@@ -289,7 +288,7 @@ The game's influence extended beyond its immediate commercial success. The tilte
 [^ref-1]: [Wikipedia – Silpheed](https://en.wikipedia.org/wiki/Silpheed) – release dates, platform history, review scores, awards, development credits
 [^ref-2]: [Abandonware DOS – Silpheed](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Silpheed&gid=1055) – release information, rating, genre classification
 [^ref-3]: [ClassicReload – Silpheed](https://classicreload.com/silpheed.html) – technical specifications, 3D graphics description
-[^ref-4]: [Grokipedia – Silpheed](https://grokipedia.com/page/Silpheed) – hardware specifications, development context, platform history
+[^ref-4]: [Wikipedia – PC-8800 series](https://en.wikipedia.org/wiki/PC-8800_series) – PC-8801mkII SR improved sound; FM (YM2203) mono audio
 [^ref-5]: [Internet Archive – MS-DOS Silpheed](https://archive.org/details/msdos_Silpheed_1988) – gameplay description, music as selling point
 [^ref-6]: [Arksquare – Silpheed Soundtrack](https://arksquare.net/detail.php?cdno=SCDC-00521) – soundtrack release information
 [^ref-7]: [GameFAQs – Silpheed FAQ by Billy Lee](https://gamefaqs.gamespot.com/pc/579259-silpheed/faqs/11899) – gameplay mechanics, power-ups, development history, bundling information
@@ -329,3 +328,4 @@ The game's influence extended beyond its immediate commercial success. The tilte
 [^ref-50]: [Hardcore Gaming 101 – Silpheed PS2](http://www.hardcoregaming101.net/silpheed-ps2/) – The Lost Planet development, Treasure involvement
 [^ref-51]: [Wikipedia – Project Sylpheed](https://en.wikipedia.org/wiki/Project_Sylpheed) – spiritual successor information
 [^ref-52]: [Engadget – Silpheed Alternative](https://www.engadget.com/2011-08-08-silpheed-alternative-menace-from-beyond-the-stars-hits-android.html) – Android release
+[^ref-53]: [Wikipedia – Yamaha YM2203](https://en.wikipedia.org/wiki/Yamaha_YM2203) – six-channel (3 FM and 3 SSG) OPN sound chip used in NEC computers

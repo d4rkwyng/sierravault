@@ -116,7 +116,7 @@ The development drew heavily from the U.S. Army's SIMNET (Simulation Networking)
 
 The development team at Sphere, Inc. was led by designer Gilman Louie, who served as one of the principal architects of the simulation.[^ref-8] Co-designers Steve Perrin and R. Anton Widjaja worked alongside Louie to craft the game's tactical systems and mission structure.[^ref-8] The team collaborated with 26 credited individuals who contributed to various aspects of the final product.[^ref-4]
 
-Programming duties were handled by Eng An Jio, Sky Chang, Jinda Pan, and Billy Sutyono, who implemented the game's complex simulation systems.[^ref-8] The team faced significant challenges in creating a single-player experience that could simulate the coordination between four crew members, a problem that required innovative interface design solutions.[^ref-16]
+Programming duties were handled by Eng An Jio, Sky Chang, Jinda Pan, and Billy Sutyono, who implemented the game's complex simulation systems.[^ref-8]
 
 **Development Credits:**[^ref-8]
 - **Designer:** Gilman Louie
@@ -260,5 +260,4 @@ The simulation's lasting significance lies in its ambitious scope—offering gam
 [^ref-13]: [UVList – Abrams Battle Tank](https://www.uvlist.net/game-164665-Abrams+Battle+Tank) – review scores, technical specs, graphics hardware, M1 service date
 [^ref-14]: My Abandonware – Abrams Battle Tank *(download link removed: the game is sold commercially)* – user ratings, veteran review quote
 [^ref-15]: [Steam Community Discussion](https://steamcommunity.com/app/410550/discussions/0/490125737466050582/) – M1 Tank Platoon comparison, AI praise
-[^ref-16]: [Grokipedia – Abrams Battle Tank](https://grokipedia.com/page/Abrams_Battle_Tank) – development challenges, multi-crew coordination
 [^ref-17]: [Steam Community Guides](https://steamcommunity.com/app/410550/guides/) – user-created keyboard control guide
