@@ -5,11 +5,11 @@ birth_year: null
 death_year: 2011
 notable_games: ["King's Quest V", "King's Quest VI", "Leisure Suit Larry 2", "Leisure Suit Larry 5", "Phantasmagoria"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Carlos Escobar
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -105,7 +105,7 @@ Bridget McKenna recalled: "He was such a character, and so much a part of our ev
 [^ref-3]: [Al Lowe's Website - Carlos Says Memorial](http://www.allowe.com/Humor/book/Carlos%20Says.htm) via [Larry Laffer.net](http://larrylaffer.net/non-lsl-games/in-memory-carlos-escobar) — "Carlos Sez" quotes and Al Lowe's tribute
 [^ref-4]: [Sierra Wiki - Leisure Suit Larry 2](https://sierra.fandom.com/wiki/Leisure_Suit_Larry_Goes_Looking_for_Love) — Carlos Easter egg explanation
 [^ref-5]: [Carlos Escobar Memorial Facebook Group](https://www.facebook.com/groups/158786124205430/) via Sierra Gamers — Colleague tributes and death date (July 4, 2011)
-[^ref-6]: [Internet Archive - King's Quest I IIGS](https://archive.org/details/wozaday_Kings_Quest_IIgs) — Apple IIGS port credits (Escobar programming, Al Lowe music)
+[^ref-6]: Internet Archive - King's Quest I IIGS *(download link removed: the game is sold commercially)* — Apple IIGS port credits (Escobar programming, Al Lowe music)
 [^ref-7]: [King's Quest Omnipedia - King's Quest V](https://kingsquest.fandom.com/wiki/King%27s_Quest_V:_Absence_Makes_the_Heart_Go_Yonder!) — KQ5 programming team
 [^ref-8]: [Wikipedia - King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) — KQ6 development information
 [^ref-9]: [MobyGames - King's Quest V Credits](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits/) — KQ5 programming credits

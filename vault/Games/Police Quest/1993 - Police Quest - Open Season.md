@@ -153,7 +153,6 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 - Available on GOG as part of Police Quest Collection[^ref-40]
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/daryl-f-gates-police-quest-open-season-22w)[^ref-21]
 - [Internet Archive - Manual](https://archive.org/details/Police_Quest_4_-_Manual)[^ref-41]
 - [Internet Archive - Video Review](https://archive.org/details/live-wire-police-quest-open-season)[^ref-42]
 
@@ -166,9 +165,9 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 
 ## References
 
-[^ref-1]: [Abandonware DOS - Police Quest: Open Season](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Police+Quest:+Open+Season&gid=1571) – - Game details, ratings, and user comments
-[^ref-2]: [ClassicReload - Police Quest: Open Season](https://classicreload.com/dosx-daryl-f-gates-police-quest-open-season.html) – - Game description and basic information
-[^ref-3]: [Best DOS Games - Police Quest: Open Season](https://bestdosgames.com/games/daryl-f-gates-police-quest-open-season) – - Gameplay descriptions and historical context
+[^ref-1]: Abandonware DOS - Police Quest: Open Season *(download link removed: the game is sold commercially)* – - Game details, ratings, and user comments
+[^ref-2]: ClassicReload - Police Quest: Open Season *(download link removed: the game is sold commercially)* – - Game description and basic information
+[^ref-3]: Best DOS Games - Police Quest: Open Season *(download link removed: the game is sold commercially)* – - Gameplay descriptions and historical context
 [^ref-4]: [The Digital Antiquarian](https://www.filfre.net/?s=Daryl+F.+Gates+Police+Quest%3A+Open+Season) – - Historical analysis of Ken Williams' vision and development philosophy
 [^ref-6]: [Police Quest Fandom - Transcript](https://policequest.fandom.com/wiki/PQ4CD_transcript) – - Game script and crime scene descriptions
 [^ref-7]: [The Toybox Blog](http://thetoybox1138.blogspot.com/2013/02/sierra-adventure-games-sierra.html) – - Plot summary and content descriptions
@@ -184,7 +183,7 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 [^ref-17]: [GameSpot User Review](https://www.gamespot.com/police-quest-collection/user-reviews/2200-260780/) – - User review on gameplay mechanics and issues
 [^ref-18]: [Wikipedia - Police Quest: Open Season](https://en.wikipedia.org/wiki/Police_Quest:_Open_Season) – - Development notes and writing process
 [^ref-20]: [IMDb - Main Entry](https://www.imdb.com/title/tt0289401/) – - Cast, crew, and user ratings
-[^ref-21]: [My Abandonware](https://www.myabandonware.com/game/daryl-f-gates-police-quest-open-season-22w) – - User ratings and community comments
+[^ref-21]: My Abandonware *(download link removed: the game is sold commercially)* – - User ratings and community comments
 [^ref-22]: [Just Games Retro](https://www.justgamesretro.com/dos/police-quest-open-season) – - Retrospective review and gameplay analysis
 [^ref-23]: Adventure Gamers Review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - Modern retrospective assessment
 [^ref-24]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2024/04/25/police-quest-open-season/) – - Personal retrospective review
@@ -193,9 +192,9 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 [^ref-27]: Adventure Gamers Search Results *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - Jim Walls departure information
 [^ref-28]: [Sierra Chest - Walkthrough](https://sierrachest.com/index.php?a=games&id=23&title=police-quest-4&fld=walkthrough&pid=101) – - Game development background
 [^ref-30]: [MobyGames User Review - Katakis](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2433116/) – - Technical innovation details
-[^ref-31]: [MyAbandonware Search](https://www.myabandonware.com/search/q/Daryl+F.+Gates+Police+Quest%3A+Open+Season) – - Technical specifications
+[^ref-31]: MyAbandonware Search *(download link removed: the game is sold commercially)* – - Technical specifications
 [^ref-32]: [Sierra Gamers - Police Quest 4](https://www.sierragamers.com/police-quest-4/) – - Technology and development resources
-[^ref-33]: [Abandonware DOS Search](https://www.abandonwaredos.com/search.php?search=Daryl+F.+Gates+Police+Quest%3A+Open+Season) – - Platform and release information
+[^ref-33]: Abandonware DOS Search *(download link removed: the game is sold commercially)* – - Platform and release information
 [^ref-34]: [MobyGames User Review - jTrippy](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2302018/) – - Voice acting and dialogue information
 [^ref-35]: [HowLongToBeat Search](https://howlongtobeat.com/?q=Daryl+F.+Gates+Police+Quest%3A+Open+Season) – - Technical engine information
 [^ref-36]: [MobyGames User Review Analysis](https://www.mobygames.com/game/149/) – - Technical achievement comparisons

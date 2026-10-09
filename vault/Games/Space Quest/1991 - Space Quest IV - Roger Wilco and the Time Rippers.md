@@ -255,7 +255,7 @@ Sierra's original Amiga port of Space Quest IV was widely considered one of the 
 
 In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion Project (SCP)]]—a Spanish fan group led by DaRaSCo—released an enhanced OCS version that reconstructs the palette and graphics.[^ref-46] DaRaSCo spent considerable time finding a more consistent palette that works across all game screens while maintaining the spirit of the original DOS VGA graphics. The enhancement also includes MIDI support via Roland MT-32.[^ref-46]
 
-**Download:** [Space Quest IV OCS Enhanced (MEGA)](https://mega.nz/file/KtEj3IrD#S1uejpsbD2Vr8E5kldTYX3R2BqdNv3vtlIP4z9SBJPU)[^ref-46]
+**Download:** Space Quest IV OCS Enhanced (MEGA)[^ref-46]
 
 ## Downloads
 
@@ -266,9 +266,6 @@ In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion P
 
 **Download / Preservation**
 
-- [Internet Archive – Space Quest IV](https://archive.org/details/msdos_Space_Quest_IV_-_Roger_Wilco_and_the_Time_Rippers_1991)
-- [My Abandonware – Space Quest IV](https://www.myabandonware.com/game/space-quest-iv-roger-wilco-and-the-time-rippers-1xm)
-- [DOS.Zone – Play in Browser](https://dos.zone/space-quest-iv-roger-wilco-and-the-time-rippers/)
 
 **Manuals & Extras**
 
@@ -321,11 +318,11 @@ In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion P
 [^ref-5]: [Space Quest Fandom Wiki – Space Quest IV Multimedia](https://spacequest.fandom.com/wiki/Space_Quest_IV%3A_Roger_Wilco_and_the_Time_Rippers_Multimedia) – CD-ROM version, plot details
 [^ref-6]: [MobyGames – Space Quest IV](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/) – developer, publisher, platforms, credits, ratings
 [^ref-7]: [GOG – Space Quest 4+5+6](https://www.gog.com/en/game/space_quest_4_5_6) – purchase, user reviews
-[^ref-8]: [My Abandonware – Space Quest IV](https://www.myabandonware.com/game/space-quest-iv-roger-wilco-and-the-time-rippers-1xm) – platforms, availability
+[^ref-8]: My Abandonware – Space Quest IV *(download link removed: the game is sold commercially)* – platforms, availability
 [^ref-9]: [HowLongToBeat – Space Quest IV](https://howlongtobeat.com/game/8866) – completion times
 [^ref-10]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
 [^ref-11]: [Dynamix Fandom Wiki – Mark Crowe](https://dynamix.fandom.com/wiki/Mark_Crowe) – designer biography
-[^ref-12]: [Internet Archive – Space Quest IV](https://archive.org/details/msdos_Space_Quest_IV_-_Roger_Wilco_and_the_Time_Rippers_1991) – preservation, historical versions
+[^ref-12]: Internet Archive – Space Quest IV *(download link removed: the game is sold commercially)* – preservation, historical versions
 [^ref-13]: [PCGamingWiki – Space Quest IV](https://www.pcgamingwiki.com/wiki/Space_Quest_IV%3A_Roger_Wilco_and_the_Time_Rippers) – technical specs, fixes
 [^ref-14]: [WiW – Two Guys from Andromeda Interview](https://wiw.org/~jess/2guysint.html) – development history
 [^ref-15]: [Adventure Classic Gaming – Space Quest IV](https://www.adventureclassicgaming.com/) – gameplay analysis

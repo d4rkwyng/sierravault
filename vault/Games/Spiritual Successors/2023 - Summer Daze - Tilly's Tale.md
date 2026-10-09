@@ -10,7 +10,7 @@ series: Hero-U
 engine: Unity and Ink
 protagonist: Tilly Appleberry
 sierra_lineage: Spiritual Successor
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Brandon Blume]
 description: '*Summer Daze: Tilly''s Tale* is a visual novel adventure game developed
   and published by Transolar Games, released on March 28, 2023 for PC platforms and...'
@@ -18,7 +18,7 @@ tags: [2020s, coles, hero-u, sierra]
 ---
 # Summer Daze: Tilly's Tale
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 
 ## Overview
@@ -280,5 +280,5 @@ As [[Corey Cole]] noted, he and Lori "are pushing 70, and spending more time on 
 [^ref-15]: [Metacritic – Critic Reviews](https://www.metacritic.com/game/summer-daze-tillys-tale/critic-reviews/) – Adventure Gamers review quote, Adventure Game Hotspot score
 [^ref-16]: [Steambase – Summer Daze: Tilly's Tale](https://steambase.io/games/summer-daze-tillys-tale/reviews) – player score, platform support including Steam Deck
 [^ref-17]: [RPGFan – Cole Interview](https://www.rpgfan.com/feature/lori-and-corey-cole-interview-on-hero-u-and-summer-daze-part-1/) – five-game Hero-U series plan, development approach quote
-[^ref-18]: [PCGamesTorrents](https://pcgamestorrents.com/summer-daze-tillys-tale-tenoke.html) – Zehra Fazal credits, technical requirements
+[^ref-18]: PCGamesTorrents *(download link removed: the game is sold commercially)* – Zehra Fazal credits, technical requirements
 [^ref-19]: [IsThereAnyDeal – Summer Daze: Tilly's Tale](https://isthereanydeal.com/game/summer-daze-tillys-tale/info/) – last update date, genre tags, Steam review count

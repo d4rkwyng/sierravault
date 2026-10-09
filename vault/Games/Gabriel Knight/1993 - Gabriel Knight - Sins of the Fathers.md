@@ -362,8 +362,6 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 - [Steam – 20th Anniversary Edition](https://store.steampowered.com/app/262000/)
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/gk-1_20220905)
-- [MyAbandonware](https://www.myabandonware.com/game/gabriel-knight-sins-of-the-fathers-22m)
 
 **Manuals & Extras**
 - Manual PDF (36 pages) included with GOG release[^ref-20]
@@ -383,10 +381,10 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-5]: [The Digital Antiquarian – Gabriel Knight](https://www.filfre.net/tag/gabriel-knight/) — Jimmy Maher's historical analysis: Jensen's 1990 hiring, "Schattenjäger" lore, Ken Williams "carte blanche," engine-migration troubles
 [^ref-6]: Adventure Gamers – Gabriel Knight Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Complete game guide
 [^ref-7]: [Behind The Voice Actors – Gabriel Knight](https://www.behindthevoiceactors.com/video-games/gabriel-knight-sins-of-the-fathers/) — Full voice cast credits
-[^ref-8]: [Internet Archive – Gabriel Knight](https://archive.org/details/gk-1_20220905) — Preservation copy and documentation
+[^ref-8]: Internet Archive – Gabriel Knight *(download link removed: the game is sold commercially)* — Preservation copy and documentation
 [^ref-9]: [DOSBox Wiki – Gabriel Knight](https://www.dosbox.com/wiki/GAMES:Gabriel_Knight:_Sins_of_the_Fathers) — Technical compatibility info
 [^ref-10]: [Sierra Chest – Gabriel Knight 1: Sins of the Fathers (Walkthrough)](https://sierrachest.com/index.php?a=games&id=532&title=gabriel-knight-1-remake&fld=walkthrough&pid=100) — Day-by-day walkthrough with date stamps (June 18-28, 1993), point totals, and Steam achievement notes
-[^ref-11]: [ClassicReload – Gabriel Knight](https://classicreload.com/gabriel-knight-sins-of-the-fathers.html) — Browser playable version
+[^ref-11]: ClassicReload – Gabriel Knight *(download link removed: the game is sold commercially)* — Browser playable version
 [^ref-12]: [Discogs – Gabriel Knight Soundtrack](https://www.discogs.com/release/10668870-Robert-Holmes-Gabriel-Knight-Sins-of-the-Fathers-20th-Anniversary-Edition-Original-Soundtrack) — Robert Holmes music credits
 [^ref-13]: [PCGamingWiki – Gabriel Knight: Sins of the Fathers](https://www.pcgamingwiki.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — Technical specs, fixes, and compatibility (including 64-bit Windows warning for the Windows 3.x release)
 [^ref-14]: [Hardcore Gaming 101 – Gabriel Knight](https://www.hardcoregaming101.net/gabriel-knight/) — Series retrospective
@@ -398,7 +396,7 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-20]: [GOG Manual Documentation](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) — 36-page manual PDF
 [^ref-21]: [Eurogamer – Gabriel Knight Mobile](https://www.eurogamer.net/articles/2015-07-23-gabriel-knight-sins-of-the-fathers-remake-now-on-ios-and-android) — iOS/Android release coverage
 [^ref-22]: [AllTinker – GK Speech Fix (itch.io)](https://alltinker.itch.io/gk-speech-fix) — DPCM audio fix community patch and technical explanation
-[^ref-23]: [MyAbandonware – Gabriel Knight](https://www.myabandonware.com/game/gabriel-knight-sins-of-the-fathers-22m) — Preservation download
+[^ref-23]: MyAbandonware – Gabriel Knight *(download link removed: the game is sold commercially)* — Preservation download
 [^ref-24]: [GameFAQs – Gabriel Knight: Sins of the Fathers Easter Eggs](https://gamefaqs.gamespot.com/pc/562666-gabriel-knight-sins-of-the-fathers/faqs) — Contributed Easter egg explanations including the "I Only Have Eyes for You" reference
 [^ref-25]: [KHInsider – Gabriel Knight Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/gabriel-knight-pc-rip) — Original soundtrack preservation
 [^ref-26]: [GameFAQs – Gabriel Knight: Sins of the Fathers FAQ/Walkthrough](https://gamefaqs.gamespot.com/pc/562666-gabriel-knight-sins-of-the-fathers/faqs/1857) — Original-release walkthrough confirming the 342-point maximum score for the 1993 version
@@ -410,7 +408,7 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 
 [^ref-33]: [Sierra Gamers – Gabriel Knight](https://www.sierragamers.com/gabriel-knight/) — Development history and legacy
 [^ref-35]: [MobyGames – Gabriel Knight Reviews]((link removed: it led to a different game's page)reviews/) — User reviewer commentary (Vohaul, Unicorn Lynx, Eurythmic) on bugginess of original release, "finest Sierra adventure ever made," "proof that computer games can be an artform"
-[^ref-36]: [GamesNostalgia – Gabriel Knight: Sins of the Fathers](https://gamesnostalgia.com/game/gabriel-knight-sins-of-the-fathers) — Retrospective with 85/100 editorial-aggregate score; "sophisticated storytelling and genuine sense of dread" quotation
+[^ref-36]: GamesNostalgia – Gabriel Knight: Sins of the Fathers *(download link removed: the game is sold commercially)* — Retrospective with 85/100 editorial-aggregate score; "sophisticated storytelling and genuine sense of dread" quotation
 [^ref-37]: [Just Adventure – Gabriel Knight Review (Katie Scarlett, archived)](https://web.archive.org/web/20080511224951/http://justadventure.com/reviews/GK1/GK1_Review.shtm) — "Myst push-the-button, flip-the-switch" passage and grade-A review
 [^ref-39]: [Quandary – Gabriel Knight Review by Rosemary Young (archived)](https://web.archive.org/web/20080623200454/http://www.quandaryland.com/jsp/dispArticle.jsp?index=180) — "All time favourites" and "Dumb cursor... but very satisfying" passages
 [^ref-40]: [Reddit – Jane Jensen IAmA (archived)](https://web.archive.org/web/20140121092619/http://www.reddit.com/r/IAmA/comments/tla3z/i_am_jane_jensen_creator_of_gabriel_knight_gray/c4nl8ew) — Jensen citing Angel Heart as GK1 inspiration and Downtown (Abbey) as Anglophile Adventure inspiration

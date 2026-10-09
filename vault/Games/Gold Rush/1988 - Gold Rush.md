@@ -10,14 +10,14 @@ series: Gold Rush
 engine: AGI
 protagonist: Jerrod Wilson
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-10-09'
 description: Gold Rush! is a graphic adventure game developed by Sierra On-Line and
   released in 1988, set during the California Gold Rush of 1848-1849. The game...
 tags: [1980s, adventure, agi, 'null', sierra]
 ---
 # Gold Rush!
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -139,9 +139,6 @@ The game contains at least one documented Easter egg: a reference to the "Boston
 - [Steam - Gold Rush! Anniversary](https://store.steampowered.com/app/319230/Gold_Rush_Anniversary/)
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/msdos_Gold_Rush_1988)
-- [MyAbandonware](https://www.myabandonware.com/game/gold-rush-g8)
-- [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Gold+Rush!&gid=324)
 
 ## See Also
 
@@ -163,7 +160,7 @@ The game contains at least one documented Easter egg: a reference to the "Boston
 [^ref-10]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/564731-gold-rush/faqs/37856) – Points system information
 [^ref-11]: [GOG Community](https://www.gog.com/dreamlist/game/gold-rush) – Death mechanics and community comments
 [^ref-12]: [Choicest Games](https://www.choicestgames.com/2019/10/gold-rush-classic-review.html) – Review and Dragon magazine score
-[^ref-13]: [MyAbandonware](https://www.myabandonware.com/game/gold-rush-g8) – HOTUD review and score
+[^ref-13]: MyAbandonware *(download link removed: the game is sold commercially)* – HOTUD review and score
 [^ref-14]: [Steam Store](https://store.steampowered.com/app/308000/Gold_Rush_Classic/) – User review percentage
 [^ref-15]: [Filfre.net](https://www.filfre.net/?s=Gold+Rush) – Development context
 [^ref-16]: [3rd-Strike Review](https://3rd-strike.com/gold-rush-2-review/) – Creative liberty information

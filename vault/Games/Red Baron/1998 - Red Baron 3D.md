@@ -12,14 +12,14 @@ series: Red Baron
 engine: 3-Space 2.0
 protagonist: WWI Fighter Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: Red Baron 3D is a World War I combat flight simulation developed by Dynamix
   and published by Sierra Entertainment in 1998. The game is essentially a heavily...
 tags: [1990s, red-baron, sierra, simulation]
 ---
 # Red Baron 3D
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -116,7 +116,6 @@ The game's comprehensive manual featured rich illustrated content about World Wa
 - Available through various digital distributors
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/SierraRedBaron3D)
 
 ## See Also
 
@@ -142,7 +141,7 @@ The game's comprehensive manual featured rich illustrated content about World Wa
 [^ref-10]: [Archive.org Manual](https://archive.org/stream/Red_Baron_3D_-_Manual/Red_Baron_3D_-_Manual_djvu.txt) – - Game design philosophy
 [^ref-11]: [GameRevolution Review](https://www.gamerevolution.com/review/32974-red-baron-ii-review) – - Control requirements
 [^ref-12]: [Never Die Media](https://www.neverdiemedia.com/products/red-baron-3-d) – - Multiplayer capacity
-[^ref-13]: [My Abandonware](https://www.myabandonware.com/game/red-baron-3-d-d7m) – - Game modes
+[^ref-13]: My Abandonware *(download link removed: the game is sold commercially)* – - Game modes
 [^ref-14]: [Wings of Honour](https://www.wingsofhonour.com/redbaron3d/html_woh_redbaron3d_about.en.html) – - Flight simulation complexity
 [^ref-15]: [jeuxvideo.com](https://www.jeuxvideo.com/articles/0000/00000257_test.htm) – - Historical accuracy description
 [^ref-16]: [GameSpot Review](https://www.gamespot.com/reviews/red-baron-3d-review/1900-2532771/) – - Review score and assessment
@@ -150,7 +149,7 @@ The game's comprehensive manual featured rich illustrated content about World Wa
 [^ref-19]: [GameSpot Red Baron II Review](https://www.gamespot.com/reviews/red-baron-ii-review/1900-2532770/) – - Launch criticism
 [^ref-20]: [Web Archive - Allgame Review](https://web.archive.org/web/20141116011345/http://www.allgame.com/game.php?id=17656&tab=review) – - Development philosophy
 [^ref-21]: [IGN News](https://www.ign.com/articles/1998/08/25/sierra-fixes-plane-game) – - Patch improvements
-[^ref-22]: [Archive.org Preservation](https://archive.org/details/SierraRedBaron3D) – - Graphics requirements
+[^ref-22]: Archive.org Preservation *(download link removed: the game is sold commercially)* – - Graphics requirements
 [^ref-23]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Red_Baron_3D) – - Graphics improvements
 [^ref-24]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/RedBaronDynamix) – - Critical reception history
 [^ref-25]: [Kotaku](https://kotaku.com/man-uses-17-year-old-coupon-for-frozen-pizza-bundled-wi-1539878046) – - Pizza coupon story

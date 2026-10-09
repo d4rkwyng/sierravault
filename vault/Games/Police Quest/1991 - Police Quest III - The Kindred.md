@@ -253,9 +253,6 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 - [Steam – Police Quest Collection](https://store.steampowered.com/app/494740/Police_Quest_Collection/)
 
 **Download / Preservation**
-- [Internet Archive – Police Quest 3 Floppy Images](https://archive.org/details/001657-PoliceQuest3TheKindred)[^ref-23]
-- [Internet Archive – Game Files](https://archive.org/details/RESOURCE.001)[^ref-2]
-- [My Abandonware](https://www.myabandonware.com/game/police-quest-3-the-kindred-1b9)[^ref-17]
 
 **Manuals & Extras**
 - [Manual PDF at Internet Archive](https://archive.org/details/Police_Quest_3_-_Manual)[^ref-29]
@@ -271,28 +268,28 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest III: The Kindred](https://en.wikipedia.org/wiki/Police_Quest_3%3A_The_Kindred) – development history, critical reception, sales data, Sega CD cancellation
-[^ref-2]: [Internet Archive – RESOURCE.001](https://archive.org/details/RESOURCE.001) – plot summary, character progression, platform information
-[^ref-3]: [ClassicReload – Police Quest III](https://classicreload.com/police-quest-3-the-kindred.html) – interface changes, Jim Walls departure, Daryl Gates succession
+[^ref-2]: Internet Archive – RESOURCE.001 *(download link removed: the game is sold commercially)* – plot summary, character progression, platform information
+[^ref-3]: ClassicReload – Police Quest III *(download link removed: the game is sold commercially)* – interface changes, Jim Walls departure, Daryl Gates succession
 [^ref-4]: [Adventure Classic Gaming – Review](http://www.adventureclassicgaming.com/index.php/site/reviews/741) – Scott Bruner retrospective, technical specifications, Jane Jensen involvement, digitized characters
 [^ref-5]: [GameFAQs – Game Data](https://gamefaqs.gamespot.com/pc/564774-police-quest-3-the-kindred/data) – official marketing descriptions, Jan Hammer soundtrack, training tool claims, compilation appearances
-[^ref-6]: [Abandonware DOS – Computer Gaming World Quote](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Police+Quest+3:+The+Kindred&gid=1421) – J.D. Lambright review, replayability praise
+[^ref-6]: Abandonware DOS – Computer Gaming World Quote *(download link removed: the game is sold commercially)* – J.D. Lambright review, replayability praise
 [^ref-7]: [PCGamingWiki – Police Quest III](https://www.pcgamingwiki.com/wiki/Police_Quest_III:_The_Kindred) – SCI1 engine, platform information, localization data
 [^ref-8]: [MobyGames – Police Quest III](https://www.mobygames.com/game/148/police-quest-3-the-kindred/) – release dates, credits, user reviews, technical specifications, cut content
-[^ref-9]: [PlayClassic Games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-police-quest-3-kindred-online/) – plot summary, gameplay features
+[^ref-9]: PlayClassic Games *(download link removed: the game is sold commercially)* – plot summary, gameplay features
 [^ref-10]: [Abandonware DOS – Manual](https://www.abandonwaredos.com/docawd.php?sf=police_quest3-manual.txt&st=manual&sg=Police+Quest+3:+The+Kindred&idg=1421) – manual quotes, police procedures, character background
-[^ref-11]: [Best DOS Games](https://bestdosgames.com/games/police-quest-3-the-kindred) – gameplay mechanics description
+[^ref-11]: Best DOS Games *(download link removed: the game is sold commercially)* – gameplay mechanics description
 [^ref-12]: [GameFAQs – Walkthrough by odino](https://gamefaqs.gamespot.com/pc/564774-police-quest-3-the-kindred/faqs/38010) – timing issues, compatibility warnings, driving mechanics
 [^ref-13]: [Adventure Gamers – Review](http://web.archive.org/web/20211119232837/https://adventuregamers.com/articles/view/18524) – retrospective analysis, development troubles, interface critique
 [^ref-14]: [Amiga Magazine Rack Reviews](http://amr.abime.net/review_39769) – compilation of contemporary magazine scores across platforms
 [^ref-15]: [Adventure Game Hotspot – Space Quest Historian Retrospective](https://adventuregamehotspot.com/feature/3765/police-quest-3-the-kindred-a-fair-balanced-retrospective) – harsh modern critique, rushed development assessment
 [^ref-16]: [IMDB](https://www.imdb.com/find/?q=Police+Quest+3%3A+The+Kindred&s=tt) – user ratings
-[^ref-17]: [My Abandonware](https://www.myabandonware.com/game/police-quest-3-the-kindred-1b9) – user reviews, sound driver issues, aggregate rating
+[^ref-17]: My Abandonware *(download link removed: the game is sold commercially)* – user reviews, sound driver issues, aggregate rating
 [^ref-18]: [Steam Community – Walkthrough Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=832973270) – Jim Walls background, Sonny Bonds final appearance
 [^ref-19]: [TV Tropes – Police Quest 3](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PoliceQuest3TheKindred) – easter eggs, memorable quotes, bugs, trivia
-[^ref-20]: [Free Game Downloads – User Reviews](https://free-game-downloads.mosw.com/abandonware/pc/adventure/games_p_r/police_quest_3_the_kindred.html) – Miami Vice comparison, stability issues
+[^ref-20]: Free Game Downloads – User Reviews *(download link removed: the game is sold commercially)* – Miami Vice comparison, stability issues
 [^ref-21]: [VGMdb – Audio Credits](https://vgmdb.net/release/29272) – composer information, sound credits, fan arrangement album
 [^ref-22]: [SierraHelp – PQ3 Help](https://sierrahelp.com/Games/PoliceQuest/PQ3Help.html) – system requirements, known bugs, troubleshooting
-[^ref-23]: [Internet Archive – Floppy Images](https://archive.org/details/001657-PoliceQuest3TheKindred) – version information, media format
+[^ref-23]: Internet Archive – Floppy Images *(download link removed: the game is sold commercially)* – version information, media format
 [^ref-24]: [GOG Database](https://www.gogdb.org/product/1207661293) – modern release version information
 [^ref-25]: [SEC.gov – Sierra On-Line 10-K Filing](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – official sales figures
 [^ref-26]: [Compiware Forum – German Patch](https://www.compiware-forum.de/forum/thread/45577-police-quest-collection-german-patch/) – fan localization information

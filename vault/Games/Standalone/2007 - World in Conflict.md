@@ -10,14 +10,14 @@ series: World in Conflict
 engine: MassTech
 protagonist: Lieutenant Parker
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: World in Conflict is a real-time tactics video game developed by Swedish
   studio Massive Entertainment and published by Sierra Entertainment under Vivendi...
 tags: [2000s, sierra, world-in-conflict]
 ---
 # World in Conflict
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -364,7 +364,7 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 [^ref-37]: [WorthPlaying – Ubisoft Statement](https://worthplaying.com) – console version cancellation
 [^ref-38]: [Patches-Scrolls – World in Conflict](https://www.patches-scrolls.com/world_in_conflict.php) – version history
 [^ref-39]: [GameCopyWorld – World in Conflict](https://gamecopyworld.com/games/pc_world_in_conflict.shtml) – patch versions, DRM info
-[^ref-40]: [FilePlanet – Patch 1.010](https://www.fileplanet.com/archive/p-40766/World-in-Conflict-Patch-v1-000-v1-010) – DRM removal, patch details
+[^ref-40]: FilePlanet – Patch 1.010 *(download link removed: the game is sold commercially)* – DRM removal, patch details
 [^ref-41]: [GamePressure – Patch 1.011](https://www.gamepressure.com/download.asp?ID=24042) – new maps, balance changes
 [^ref-42]: [ModDB – WIC Modern Warfare Mod](https://www.moddb.com/mods/wicmw) – framerate requirements, mod details
 [^ref-43]: [Steam User Reviews](https://store.steampowered.com) – Windows 10 compatibility issues

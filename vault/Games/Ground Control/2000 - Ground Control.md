@@ -10,7 +10,7 @@ series: Ground Control
 engine: Direct3D 7
 protagonist: Major Sarah Parker / Deacon Jarrod Stone
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Ola Strandh]
 description: Ground Control is a groundbreaking real-time tactics game developed by
   Swedish studio Massive Entertainment and published by Sierra Studios in 2000. Set
@@ -19,7 +19,7 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -243,8 +243,6 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 - [Steam - Ground Control Anthology](https://store.steampowered.com/app/254820/Ground_Control_Anthology/)
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/Sierra_Ground_Control_Win95_2000_Eng)
-- [MyAbandonware](https://www.myabandonware.com/game/ground-control-3eo)
 
 **Manuals & Extras**
 - [Manual PDF - Internet Archive](https://archive.org/details/manual_Ground_Control)
@@ -260,7 +258,7 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 [^ref-1]: [Wikipedia – Ground Control](https://en.wikipedia.org/wiki/Ground_Control_(video_game)) – release dates, developer, publisher, Metacritic score, designers, composer
 [^ref-2]: [Wikipedia – Ground Control](https://en.m.wikipedia.org/wiki/Ground_Control_(video_game)) – gameplay mechanics, plot summary, setting
 [^ref-3]: [GameSpot – Ground Control Review](https://www.gamespot.com/reviews/ground-control-review/1900-2588769/) – review score, gameplay analysis, technical details
-[^ref-4]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?gid=2187) – GameSpy quote, genre classification
+[^ref-4]: Abandonware DOS *(download link removed: the game is sold commercially)* – GameSpy quote, genre classification
 [^ref-5]: [Cision Press Release](https://news.cision.com/massive-entertainment/) – development team size, Sierra partnership, Walfisz quote
 [^ref-6]: [Massive Entertainment – 20 Years of Ground Control](https://www.massive.se/blog/games-technology/20-years-of-ground-control/) – development history, Walfisz and Strandh quotes, innovation context
 [^ref-7]: [CNN/IDG Review](https://www.cnn.com/2000/TECH/computing/06/21/ground.control.idg/index.html) – Brian Wright review quotes, interface praise, graphics assessment
@@ -274,7 +272,7 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 [^ref-15]: [CNET Download](https://download.cnet.com/ground-control-1-0-0-7-to-1-0-0-8-patch/3000-2121_4-10236478.html) – patch notes, version information
 [^ref-16]: [Rock Paper Shotgun – Massive Interview](https://www.rockpapershotgun.com/massive-on-ground-control-and-world-in-conflict) – Walfisz interview, development insights, commercial performance
 [^ref-17]: [Bjoreman Review](https://www.bjoreman.com/old/games/gc.htm) – dropship mechanics, squad system, gameplay details
-[^ref-18]: [MyAbandonware – Ground Control](https://www.myabandonware.com/game/ground-control-3eo) – unit types, resolution, features, user rating
+[^ref-18]: MyAbandonware – Ground Control *(download link removed: the game is sold commercially)* – unit types, resolution, features, user rating
 [^ref-19]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/914166-ground-control/faqs/16750) – gameplay mechanics, terrain importance
 [^ref-20]: [Internet Archive – Ground Control Manual](https://archive.org/details/manual_Ground_Control) – game manual, faction info, mechanics
 [^ref-21]: [IGN – Ground Control Review](https://www.ign.com/articles/2000/06/13/ground-control) – review score, Editors' Choice, save criticism
@@ -287,7 +285,7 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 [^ref-28]: [IMDB Search Results](https://www.imdb.com/find/?q=Ground+Control&s=tt) – user rating
 [^ref-29]: [GOG – Ground Control Anthology](https://www.gog.com/en/game/ground_control_expansion) – user rating, game description
 [^ref-31]: [Massive Entertainment – Project Page](https://www.massive.se/project/ground-control/) – studio culture quote
-[^ref-33]: [Internet Archive – Sierra Ground Control](https://archive.org/details/Sierra_Ground_Control_Win95_2000_Eng) – file size
+[^ref-33]: Internet Archive – Sierra Ground Control *(download link removed: the game is sold commercially)* – file size
 [^ref-34]: [GameCopyWorld](https://gamecopyworld.com/games/pc_ground_control_2.shtml) – version numbers, copy protection
 [^ref-35]: [GameSpot – Dark Conspiracy Q&A](https://www.gamespot.com/articles/ground-control-dark-conspiracy-qanda/1100-2628134/) – expansion development, Tom Smith interview
 [^ref-36]: [GOG Database](https://www.gogdb.org/product/1207658776) – GOG version info, pricing

@@ -246,7 +246,7 @@ Like other Sierra SCI games, King's Quest V received an Amiga port that suffered
 
 In January 2026, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion Project (SCP)]]—a Spanish fan group led by kikems (AmigaWave) and DaRaSCo—released an OCS remaster that brings the Amiga version closer to the PC VGA graphics quality.[^ref-54] The enhancement includes improved palettes and MIDI support via Roland MT-32/mt32-pi.[^ref-54]
 
-**Download:** [King's Quest V OCS Remaster (MEGA)](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80A59kU3-8XYBrqIS1XXeZCA4ZULpM)[^ref-54]
+**Download:** King's Quest V OCS Remaster (MEGA)[^ref-54]
 
 ### Related Publications
 
@@ -267,9 +267,6 @@ On the other hand, the game also exemplifies design philosophies that would even
 - Steam – King's Quest Collection
 
 **Download / Preservation**
-- [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Kings_Quest_V_-_Absence_Makes_the_Heart_Go_Yonder_1990)
-- [Internet Archive – CD-ROM Version](https://archive.org/details/kings-quest-v-absence-makes-the-heart-go-yonder-1990.-7z)
-- [Internet Archive – Spanish Version](https://archive.org/details/kings-quest-v-absence-makes-the-heart-go-yonder)
 
 **Manuals & Extras**
 - [Internet Archive – Game Manual](https://archive.org/details/vgmuseum_sierra_kq5-manual)
@@ -290,8 +287,8 @@ On the other hand, the game also exemplifies design philosophies that would even
 ## References
 
 [^ref-1]: [Adventure Classic Gaming – King's Quest V Review](http://www.adventureclassicgaming.com/index.php/site/reviews/70/) – technical specifications, awards, review score, development milestones
-[^ref-2]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Kings_Quest_V_-_Absence_Makes_the_Heart_Go_Yonder_1990) – plot summary, interface description, MobyGames content
-[^ref-3]: [Abandonware DOS – 1991 CODiE Awards](https://www.abandonwaredos.com/news-item.php?idn=449) – awards, historical significance
+[^ref-2]: Internet Archive – MS-DOS Version *(download link removed: the game is sold commercially)* – plot summary, interface description, MobyGames content
+[^ref-3]: Abandonware DOS – 1991 CODiE Awards *(download link removed: the game is sold commercially)* – awards, historical significance
 [^ref-4]: [AGD Interactive Forums](https://www.agdinteractive.com/forum/viewtopic.php?t=13087) – hand-painted background techniques
 [^ref-5]: [Computer Gaming World Museum – Issue 80](http://www.cgwmuseum.org/galleries/index.php?year=1991&pub=2&id=80) – Scorpia review
 [^ref-6]: [Wikipedia – King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) – comprehensive development, sales, awards, platform information
@@ -302,7 +299,7 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-11]: [Internet Archive – NES Longplay](https://archive.org/details/NESLongplay493KingsQuestV) – plot description, gameplay elements
 [^ref-12]: [Computer Hope Walkthrough](https://www.computerhope.com/games/games/kq5.htm) – gameplay mechanics, interface description
 [^ref-13]: Adventure Gamers – King's Quest VI Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Cassima introduction, series connections
-[^ref-14]: [Internet Archive – SoftKey Version](https://archive.org/details/Kings_Quest_V_SoftKey_USA) – interface description, gameplay mechanics
+[^ref-14]: Internet Archive – SoftKey Version *(download link removed: the game is sold commercially)* – interface description, gameplay mechanics
 [^ref-15]: [The Digital Antiquarian – Sierra at the Cusp of the Multimedia Age](https://www.filfre.net/2018/01/sierra-at-the-cusp-of-the-multimedia-age/) – sales data, development methodology, marketing
 [^ref-16]: Adventure Gamers – King's Quest V Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – progression, puzzle descriptions
 [^ref-17]: [Choicest Games – King's Quest V Review](https://www.choicestgames.com/2021/09/kings-quest-v-review.html) – modern review, technical achievements
@@ -324,7 +321,7 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-33]: [Internet Archive – King's Quest V Manual](https://archive.org/details/kings-quest-v-manual) – release information
 [^ref-34]: [GameFAQs – NES Reviews](https://gamefaqs.gamespot.com/nes/587388-kings-quest-v/reviews) – NES version details, unused dialogue
 [^ref-35]: [Great Hierophant – FM Towns](https://blog.greatesthierophant.com/) – FM Towns Japanese/English versions
-[^ref-36]: [Internet Archive – USA Version](https://archive.org/details/kings-quest-v-absence-makes-the-heart-go-yonder-usa) – Windows 3.1 release
+[^ref-36]: [Internet Archive – USA Version]((download link removed: the game is sold commercially)-usa) – Windows 3.1 release
 [^ref-37]: [Telltale Community Forums](https://community.telltale.com/discussion/23636/kings-quest-collection-steam-version-help-needed) – Steam version issues, patches
 [^ref-38]: [Sierra Help Pages](https://sierrahelp.com/) – technical troubleshooting, error messages
 [^ref-39]: [The Easter Egg Archive – King's Quest V](https://eeggs.com/tree/7451.html) – sled/cape easter egg descriptions
@@ -334,8 +331,8 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-43]: [GOG – King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6) – digital release, user reviews
 [^ref-44]: [AGD Interactive](https://www.agdinteractive.com/) – fan remake community
 [^ref-45]: [AGD Interactive Forums – AGI Version](http://www.agdinteractive.com/forum/viewtopic.php?t=11943) – fan AGI project
-[^ref-46]: [Internet Archive – Spanish Version](https://archive.org/details/kings-quest-v-absence-makes-the-heart-go-yonder) – localization
-[^ref-47]: [Internet Archive – French Collection](https://archive.org/details/jeu-king_quest) – international versions
+[^ref-46]: Internet Archive – Spanish Version *(download link removed: the game is sold commercially)* – localization
+[^ref-47]: Internet Archive – French Collection *(download link removed: the game is sold commercially)* – international versions
 [^ref-48]: [King's Quest Omnipedia – NES Manual](https://kingsquest.fandom.com/wiki/King's_Quest_V_Instruction_Booklet_(NES)) – manual author credit
 [^ref-49]: [Sierra Hint Book Reference](https://archive.org/) – hint book availability
 [^ref-50]: [King's Quest Omnipedia – Nintendo Power Review](https://kingsquest.fandom.com/wiki/King's_Quest_V_Nintendo_Power_Review) – strategy guide publication

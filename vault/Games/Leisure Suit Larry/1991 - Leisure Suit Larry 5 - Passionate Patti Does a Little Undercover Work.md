@@ -121,7 +121,6 @@ The game achieved commercial success despite mixed critical reception, with the 
 - [Steam](https://store.steampowered.com/app/765860/) – No longer sold: removed from the Steam store following Assemble Entertainment's April 30, 2025 announcement; existing owners keep it in their libraries[^ref-37][^ref-44]
 
 **Preservation / Information**
-- [MyAbandonware page with user comments and ratings](https://www.myabandonware.com/game/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-16w)[^ref-38]
 - [Internet Archive manual preservation](https://archive.org/details/Leisure_Suit_Larry_5_-_Manual)[^ref-39]
 - [Technical documentation at PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work)[^ref-40]
 
@@ -152,7 +151,7 @@ The game achieved commercial success despite mixed critical reception, with the 
 [^ref-8]: [Alex Bevilacqua Blog](https://web.archive.org/web/*/https://alexbevi.com/blog/2026/11/28/leisure-suit-larry-5/) – - Designer credits
 [^ref-9]: [MobyGames Database](https://www.mobygames.com/game/408/) – - Publisher information
 [^ref-10]: [LemonAmiga Database](https://www.lemonamiga.com/games/details.php?id=1425) – - Platform availability
-[^ref-11]: [Abandonware DOS Search](https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry+5%3A+Passionate+Patti+Does+a+Little+Undercover+Work) – - Release year confirmation
+[^ref-11]: Abandonware DOS Search *(download link removed: the game is sold commercially)* – - Release year confirmation
 [^ref-12]: [TV Tropes Page](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeisureSuitLarry5PassionatePattiDoesALittleUndercoverWork) – - SCI1 engine information
 [^ref-13]: [Walkthrough King Guide](https://www.walkthroughking.com/text/leisuresuitlarry5.aspx) – - Opening narrative description
 [^ref-14]: [Archived Hardcore Gaming 101](https://web.archive.org/web/20140613063251/http://www.hardcoregaming101.net/lsl/lsl3.htm) – - Plot premise explanation
@@ -162,7 +161,7 @@ The game achieved commercial success despite mixed critical reception, with the 
 [^ref-18]: [CheatCC Article](https://www.cheatcc.com/articles/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-cheats-cheat-codes-for-pc/) – - Interface system change
 [^ref-19]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/564421-leisure-suit-larry-5-passionate-patti-does-a-little/faqs/38088) – - Zipper icon and interface elements
 [^ref-20]: [IGN Walkthrough/FAQ](https://www.ign.com/articles/2003/05/27/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-walkthroughfaq-410383) – - Linear structure description
-[^ref-21]: [Classic Reload Page](https://classicreload.com/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work.html) – - Character switching mechanics
+[^ref-21]: Classic Reload Page *(download link removed: the game is sold commercially)* – - Character switching mechanics
 [^ref-22]: [GamePressure Database](https://www.gamepressure.com/games/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-wo/za13a5) – - Episode structure information
 [^ref-23]: [GameFAQs Review](https://gamefaqs.gamespot.com/pc/564421-leisure-suit-larry-5-passionate-patti-does-a-little/faqs/36676) – - Death and failure state removal
 [^ref-24]: [Gamer Walkthroughs](https://gamerwalkthroughs.com/leisure-suit-larry-5/) – - Difficulty assessment
@@ -174,12 +173,12 @@ The game achieved commercial success despite mixed critical reception, with the 
 [^ref-30]: [MobyGames DOS Reviews](https://www.mobygames.com/game/408/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-w/reviews/dos/) – - User review criticism
 [^ref-31]: [MIDI Music Adventures](https://www.midimusicadventures.com/queststudios/digital-soundtracks/lsl5/) – - Craig Safan composer information
 [^ref-32]: [Al Lowe's Clues and Cheats](https://allowe.com/games/larry/tips-manuals/clues-cheats.html) – - Copy protection information
-[^ref-33]: [Play Classic Games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-online/) – - Age verification system
+[^ref-33]: Play Classic Games *(download link removed: the game is sold commercially)* – - Age verification system
 [^ref-34]: [SEC Filing](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – - Sierra series sales figures
 [^ref-35]: [Newspaper Archive](https://newspaperarchive.com/nashua-telegraph-nov-15-1991-p-15/) – - 1991 sales data
 [^ref-36]: [GOG Database](https://www.gogdb.org/product/1207662073) – - GOG availability information
 [^ref-37]: [Steam Community](https://steamcommunity.com/app/765860) – - Steam release information
-[^ref-38]: [MyAbandonware](https://www.myabandonware.com/game/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-16w) – - Abandonware preservation and ratings
+[^ref-38]: MyAbandonware *(download link removed: the game is sold commercially)* – - Abandonware preservation and ratings
 [^ref-39]: [Internet Archive Manual](https://archive.org/details/Leisure_Suit_Larry_5_-_Manual) – - Manual preservation project
 [^ref-40]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work) – - Technical compatibility information
 [^ref-41]: [VGM Rips](https://vgmrips.net/packs/pack/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-ibm-pc-at) – - Audio preservation and technical specs

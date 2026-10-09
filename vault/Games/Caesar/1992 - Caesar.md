@@ -10,14 +10,14 @@ series: Caesar
 engine: Impressions City Builder
 protagonist: Roman Governor (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-10-09'
 description: Caesar, released in October 1992, stands as a groundbreaking entry in
  the city-building genre, marking the first successful adaptation of SimCity's urban...
 tags: [1990s, caesar, sierra]
 ---
 # Caesar
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -141,7 +141,7 @@ Caesar is part of Caesar's series of city-building simulation games developed by
 
 ## References
 
-[^ref-1]: https://www.abandonwaredos.com/search.php?search=Caesar - Search results showing Caesar (1992) in alphabetical listing
+[^ref-1]: (download link removed: the game is sold commercially) - Search results showing Caesar (1992) in alphabetical listing
 [^ref-2]: https://www.amigareviews.leveluphost.com/caesar.htm - Contemporary Amiga gaming magazine reviews with detailed gameplay analysis
 [^ref-3]: https://sierrachest.com/index.php?a=person&id=10&fld=general - Primary biographical source from David Lester
 [^ref-4]: https://amigareviews.leveluphost.com/db_gameindex.php?start=c - Games database with review scores from multiple publications
@@ -154,7 +154,7 @@ Caesar is part of Caesar's series of city-building simulation games developed by
 [^ref-11]: https://www.lemonamiga.com/games/docs.php?id=273 - Original game manual from documentation archive
 [^ref-12]: https://archive.org/stream/Caesar_IV_Prima_Official_eGuide/Caesar_IV_Prima_Official_eGuide_djvu.txt - Prima Games strategy guide
 [^ref-13]: https://archive.org/details/Caesar4_201403 - Internet Archive preservation record
-[^ref-14]: https://archive.org/details/msdos_Caesar_1992 - Internet Archive game preservation page
+[^ref-14]: (download link removed: the game is sold commercially) - Internet Archive game preservation page
 [^ref-15]: https://store.steampowered.com/app/517790/Caesar_3/ - Steam store page with game features
 [^ref-16]: https://www.caesar2.com/caesar-ii-city-walkthrough-tutorial/ - Fan-created strategy guide with mechanics
 [^ref-17]: https://caesar3.heavengames.com/ - Fan community website with historical information
@@ -164,8 +164,8 @@ Caesar is part of Caesar's series of city-building simulation games developed by
 [^ref-21]: https://www.caesar2.com/caesar-ii-city-walkthrough-tutorial/ - Comprehensive fan strategy guide
 [^ref-22]: https://caesar4.heavengames.com/ - Fan community website for Caesar IV
 [^ref-23]: https://www.cheaters-heaven.com/trainers/29520-caesar-iii-nocd-fix-crack-for-the-sierra.html - Technical modification site
-[^ref-24]: https://archive.org/details/msdos_Caesar_1992 - Official game description from preservation page
-[^ref-25]: https://classicreload.com/caesar.html - Basic game catalog entry
+[^ref-24]: (download link removed: the game is sold commercially) - Official game description from preservation page
+[^ref-25]: (download link removed: the game is sold commercially) - Basic game catalog entry
 [^ref-26]: https://en.wikipedia.org/wiki/Caesar_(video_game) - Wikipedia article with contemporary review sources
 [^ref-27]: https://amr.abime.net/review_678 - Archive of contemporary reviews with specific scores
 [^ref-28]: https://amigareviews.leveluphost.com/caesar.htm - Multiple Amiga magazine reviews
@@ -182,7 +182,7 @@ Caesar is part of Caesar's series of city-building simulation games developed by
 [^ref-39]: https://en.wikipedia.org/wiki/Caesar_III - Wikipedia article with development history
 [^ref-40]: https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt - SEC filing with official sales data
 [^ref-41]: https://www.filfre.net/?s=Caesar - Historical analysis of strategy game development
-[^ref-42]: https://freegogpcgames.com/963/caesar-iv/ - Technical specifications from distribution site
+[^ref-42]: (download link removed: the game is sold commercially) - Technical specifications from distribution site
 [^ref-43]: https://www.mobygames.com/game/3146/caesar/releases/ - Database of platform releases
 [^ref-44]: https://www.gog.com/forum/caesar_series/widescreen - Community forum technical discussions
 [^ref-45]: https://github.com/Keriew/augustus - Augustus open-source project repository

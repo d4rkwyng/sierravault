@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Barney Calhoun
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'Half-Life: Blue Shift is the second expansion pack to Valve''s acclaimed
   1998 first-person shooter Half-Life, developed by Gearbox Software and published by
   Sierra Entertainment in 2001.'
@@ -18,7 +18,7 @@ tags: [2000s, half-life, shooter, sierra]
 ---
 # Half-Life: Blue Shift
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -314,7 +314,7 @@ The expansion is notably the only Half-Life game without any boss fights, distin
 [^ref-29]: [Computer and Video Games Review (Archive)](https://web.archive.org/web/20090315015941/http://www.computerandvideogames.com/article.php?id=3790) – review score, analysis
 [^ref-30]: [Neoseeker – Blue Shift Review](https://www.neoseeker.com/Articles/Games/Reviews/halflifeblueshift/) – critical review
 [^ref-31]: [IMDb – Blue Shift User Reviews](https://www.imdb.com/title/tt0363259/reviews/) – user ratings
-[^ref-32]: [My Abandonware – Blue Shift](https://www.myabandonware.com/game/half-life-blue-shift-d52) – availability status, ratings
+[^ref-32]: My Abandonware – Blue Shift *(download link removed: the game is sold commercially)* – availability status, ratings
 [^ref-33]: [ModDB – Blue Shift Dreamcast Soundtrack](https://www.moddb.com/games/half-life-blue-shift/addons/dreamcast-soundtrack) – mod information, community rating
 [^ref-34]: [Speed Demos Archive – Blue Shift](https://speeddemosarchive.com/HalfLifeBlueShift.html) – development background
 [^ref-35]: [IGN – ECTS 2000 Hands-On (Archive)](https://web.archive.org/web/20221029231631/https://www.ign.com/articles/2000/09/02/ects-2000-hands-on-with-half-life) – Marc Laidlaw involvement, development details

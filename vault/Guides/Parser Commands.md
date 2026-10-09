@@ -4,12 +4,12 @@ type: guide
 topic: "Text Parser Interface"
 engines: ["AGI", "SCI0", "SCI1"]
 years_covered: "1984-1993"
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 
 # Sierra Parser Commands Guide
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -282,7 +282,7 @@ All AGI and SCI parser games are fully supported[^ref-agi][^ext-scummvm-agi].
 [^ext-ign-lsl2]: [IGN – Revisiting Leisure Suit Larry](https://www.ign.com/articles/2014/11/28/revisiting-leisure-suit-larry) – Parser responses praised as aging gracefully
 [^ext-acg-lsl3]: [Adventure Classic Gaming – LSL3 Review](https://www.adventureclassicgaming.com/index.php/site/reviews/355/) – Positioning requirements, interface rigidity
 [^ext-ign-allowe]: [IGN – Talking Leisure Suit Larry with Al Lowe](https://www.ign.com/articles/talking-leisure-suit-larry-with-al-lowe) – Al Lowe on parser vs point-and-click accessibility
-[^ext-abandonwaredos-gr]: [Abandonware DOS – Gold Rush!](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Gold+Rush!&gid=324) – Real-time parser mechanic
+[^ext-abandonwaredos-gr]: Abandonware DOS – Gold Rush! – Real-time parser mechanic
 [^ext-steam-grann]: [Steam – Gold Rush! Anniversary](https://store.steampowered.com/app/319230/Gold_Rush_Anniversary/) – Dual interface system description
 [^ext-mobygames-lsl7]: [MobyGames – Leisure Suit Larry 7](https://www.mobygames.com/game/1102/leisure-suit-larry-love-for-sail/) – Hybrid interface, parser memory feature
 [^ext-tcrf-sq1]: [The Cutting Room Floor – Space Quest I](https://tcrf.net/Space_Quest:_Chapter_I_-_The_Sarien_Encounter_(1986)) – Ken Williams easter egg, hidden content

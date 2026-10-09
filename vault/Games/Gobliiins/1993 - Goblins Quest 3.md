@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Gob
 protagonist: Blount
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-07-13'
+last_updated: '2026-10-09'
 composer: [Different tunes from CD-ROM version (composed entirely differently)]
 description: Goblins Quest 3 is the third and final installment in Coktel Vision's
   beloved Gobliiins puzzle-adventure series, released in 1993 for MS-DOS and Amiga...
@@ -18,7 +18,7 @@ tags: [1990s, coktel, gobliiins, puzzle, sierra]
 ---
 # Goblins Quest 3
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -193,9 +193,6 @@ Modern critics recognize the game as "a great finale to a great series," noting 
 - **Gobliiins Collection** (PS5 / Xbox Series / Switch) - Red Art Games digital compilation of the first five games, released May 27, 2026 ([announcement](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available))
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/goblin_dos)
-- [MyAbandonware](https://www.myabandonware.com/game/goblins-quest-3-1zc)
-- [DOS Games Archive](https://www.dosgamesarchive.com/download/goblins-quest-3/)
 
 **Manuals & Extras**
 - [Sierra Chest Walkthrough](https://sierrachest.com/index.php?a=games&id=146&title=goblins-3&fld=walkthrough)
@@ -213,22 +210,22 @@ Modern critics recognize the game as "a great finale to a great series," noting 
 ## References
 
 [^ref-1]: [Wikipedia – Goblins Quest 3](https://en.wikipedia.org/wiki/Goblins_Quest_3) – release dates, platforms, reviews, awards, technical specifications, series information
-[^ref-2]: [Abandonware DOS – Goblins 3](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Goblins+3&gid=2244) – Electronic Games review quotes, user ratings, developer/publisher information
+[^ref-2]: Abandonware DOS – Goblins 3 *(download link removed: the game is sold commercially)* – Electronic Games review quotes, user ratings, developer/publisher information
 [^ref-3]: [Adventure Classic Gaming – Goblins Quest 3 Review](http://www.adventureclassicgaming.com/index.php/site/reviews/448/) – Jess Beebe review, Sierra acquisition context, CD-ROM vs floppy differences
-[^ref-4]: [DOS Games Archive – Goblins Quest 3](https://www.dosgamesarchive.com/download/goblins-quest-3/) – Sierra marketing quote, technical specifications, ScummVM compatibility
+[^ref-4]: DOS Games Archive – Goblins Quest 3 *(download link removed: the game is sold commercially)* – Sierra marketing quote, technical specifications, ScummVM compatibility
 [^ref-5]: [MobyGames – Goblins Quest 3](http://www.mobygames.com/game/goblins-quest-3) – full development credits, publication review scores, user ratings, trivia
 [^ref-6]: [PCGamingWiki – Goblins Quest 3](https://www.pcgamingwiki.com/wiki/Goblins_Quest_3) – Gob engine identification, release date, publisher information
-[^ref-7]: [Internet Archive – Goblins Quest 3](https://archive.org/details/goblin_dos) – plot summary, gameplay description, supporting characters
+[^ref-7]: Internet Archive – Goblins Quest 3 *(download link removed: the game is sold commercially)* – plot summary, gameplay description, supporting characters
 [^ref-8]: [Sierra Chest – Goblins 3](https://sierrachest.com/index.php?a=games&id=146&title=goblins-3&fld=general) – story details, werewolf mechanics, designer credits
 [^ref-9]: [IGN – Goblins Quest 3](https://www.ign.com/games/goblins-quest-3) – game summary, story elements
 [^ref-10]: [Sierra Gamers – Goblins Quest 3](https://www.sierragamers.com/goblins-quest-3/) – plot overview, character details
-[^ref-11]: [Classic Reload – Goblins Quest 3](https://classicreload.com/goblins-quest-3.html) – level count, sidekick characters, series connection to Gobliins 2
+[^ref-11]: Classic Reload – Goblins Quest 3 *(download link removed: the game is sold commercially)* – level count, sidekick characters, series connection to Gobliins 2
 [^ref-12]: [GameFAQs – Goblins Quest 3 Review by Tastii](https://gamefaqs.gamespot.com/pc/564709-goblins-quest-3/reviews/11232) – user review, technical specifications, gameplay mechanics
 [^ref-13]: [Jefklak's Codex – Goblins Quest 3](https://jefklakscodex.com/games/pc/goblins-quest-3/) – box quote, version comparisons, joker system
 [^ref-14]: [GameFAQs – Goblins Quest 3 Walkthrough](https://gamefaqs.gamespot.com/pc/564709-goblins-quest-3/faqs/1944) – level names, potion mechanics, puzzle solutions
 [^ref-15]: [Gamer Walkthroughs – Goblins 3](https://gamerwalkthroughs.com/goblins-3/) – gameplay difficulty quote, location count
-[^ref-16]: [Play Classic Games – Goblins 3](https://playclassic.games/games/puzzle-solving-dos-games-online/play-goblins-3-online/) – transformation mechanics, Quest suffix explanation
-[^ref-17]: [MyAbandonware – Goblins Quest 3](https://www.myabandonware.com/game/goblins-quest-3-1zc) – user ratings, regional release dates
+[^ref-16]: Play Classic Games – Goblins 3 *(download link removed: the game is sold commercially)* – transformation mechanics, Quest suffix explanation
+[^ref-17]: MyAbandonware – Goblins Quest 3 *(download link removed: the game is sold commercially)* – user ratings, regional release dates
 [^ref-18]: [Amazon – Goblins Quest 3](https://www.amazon.com/Goblins-Quest-3-PC-DOS/dp/B0006ZL4YK) – customer ratings, product description
 [^ref-19]: [Encyclopedia Gamia Archive – Gobliiins](https://gamia-archive.fandom.com/wiki/Gobliiins) – Pierre Gilhodes artistic contribution, series history
 [^ref-20]: [Wayback Machine – Gobliiins.com Author Page](https://web.archive.org/web/20210129133754/http://www.gobliiins.com/Auteur_ru.htm) – Pierre Gilhodes biography

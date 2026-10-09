@@ -217,7 +217,6 @@ This game has been included in the following collections:
 
 **Download / Preservation**
 
-- [Internet Archive – Quest for Glory: Shadows of Darkness](https://archive.org/details/quest-for-glory-shadows-of-darkness-usa)
 
 **Manuals & Extras**
 
@@ -242,7 +241,7 @@ This game has been included in the following collections:
 ## References
 
 [^ref-1]: [Wikipedia – Quest for Glory: Shadows of Darkness](https://en.wikipedia.org/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – – history, plot, gameplay, development, reception
-[^ref-2]: [Archive.org – Quest for Glory: Shadows of Darkness](https://archive.org/details/quest-for-glory-shadows-of-darkness-usa) – – preservation
+[^ref-2]: Archive.org – Quest for Glory: Shadows of Darkness *(download link removed: the game is sold commercially)* – – preservation
 [^ref-3]: [Sierra Fandom Wiki – Quest for Glory IV](https://sierra.fandom.com/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – – detailed game information
 [^ref-4]: [IMDB – Quest for Glory IV](https://www.imdb.com/title/tt0420849/) – – voice cast credits
 [^ref-5]: [PCGamingWiki – Quest for Glory: Shadows of Darkness](https://www.pcgamingwiki.com/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – – technical specs

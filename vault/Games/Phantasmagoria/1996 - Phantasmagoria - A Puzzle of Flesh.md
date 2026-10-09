@@ -128,18 +128,18 @@ Phantasmagoria: A Puzzle of Flesh is the second installment in the Phantasmagori
 
 ## References
 
-[^ref-1]: https://www.abandonwaredos.com/abandonware-game.php?abandonware=Phantasmagoria:+A+Puzzle+of+Flesh&gid=3475 - Basic metadata and user rating
+[^ref-1]: (download link removed: the game is sold commercially) - Basic metadata and user rating
 [^ref-2]: https://absolutehorror.fandom.com/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Plot summary and relationship to predecessor
-[^ref-3]: https://freegogpcgames.com/1927/phantasmagoria-2-a-puzzle-of-flesh/ - Plot synopsis and character information
+[^ref-3]: (download link removed: the game is sold commercially) - Plot synopsis and character information
 [^ref-4]: https://www.latimes.com/archives/la-xpm-1996-11-30-ca-4190-story.html - Production budget and cast size details
 [^ref-5]: https://web.archive.org/web/20200724154851/http://www.latimes.com/archives/la-xpm-1996-11-30-ca-4190-story.html - Production location and filming details
 [^ref-6]: https://absolutehorror.fandom.com/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Commercial performance and censorship information
 [^ref-7]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Developer and publisher information
 [^ref-8]: https://web.archive.org/web/20080224014444/http://la-aventura.net/entrevistas/lorelei-en - Designer interview and development details
 [^ref-9]: https://www.mobygames.com/game/1216/phantasmagoria-a-puzzle-of-flesh/specs/ - Platform and technical specifications
-[^ref-10]: https://freegogpcgames.com/1927/phantasmagoria-2-a-puzzle-of-flesh/ - Character background information
+[^ref-10]: (download link removed: the game is sold commercially) - Character background information
 [^ref-11]: https://web.archive.org/web/19961219235404/http://www.sierra.com/entertainment/phantas2/ - Official promotional description of supernatural events
-[^ref-12]: https://freegogpcgames.com/1927/phantasmagoria-2-a-puzzle-of-flesh/ - Basic plot progression description
+[^ref-12]: (download link removed: the game is sold commercially) - Basic plot progression description
 [^ref-13]: https://www.sierrachest.com/index.php?a=games&id=41&fld=general - Detailed plot summary
 [^ref-14]: https://web.archive.org/web/20080224014444/http://la-aventura.net/entrevistas/lorelei-en - Title meaning explanation from creator
 [^ref-15]: https://alchetron.com/Phantasmagoria:-A-Puzzle-of-Flesh - Character details and cast information

@@ -6,11 +6,11 @@ defunct: 2004
 headquarters: "Cambridge, Massachusetts, USA"
 notable_games: ["Caesar III", "Pharaoh", "Zeus: Master of Olympus"]
 parent_company: "Sierra On-Line (1995-2004)"
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Impressions Games
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -112,7 +112,7 @@ Many former Impressions Games employees went on to found or join other notable g
 [^ref-8]: [Academic Kids](https://academickids.com/encyclopedia/index.php/Impressions_Games) — Educational resource and company overview
 [^ref-9]: [Grokipedia](https://grokipedia.com/page/Impressions_Games) — Company history and development details
 [^ref-10]: [Sierra Wiki](https://sierra.fandom.com/wiki/Sierra_Entertainment) — Sierra acquisition and partnership details
-[^ref-11]: [Internet Archive](https://archive.org/details/pharaoh-usa) — Game preservation and historical record
+[^ref-11]: Internet Archive *(download link removed: the game is sold commercially)* — Game preservation and historical record
 [^ref-12]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Company:Impressions_Games) — Technical information and game compatibility
 [^ref-13]: [ModDB](https://www.moddb.com/company/impressions-games) — Modding community and game support
 [^ref-14]: [Giant Bomb](https://www.giantbomb.com/impressions-games/3010-413/) — Developer database and game information

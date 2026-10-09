@@ -142,8 +142,6 @@ The game's commitment to procedural accuracy created a template for serious game
 - Steam search results indicate availability[^ref-62]
 
 **Download / Preservation**
-- [MyAbandonware - Police Quest: In Pursuit of the Death Angel](https://www.myabandonware.com/game/police-quest-in-pursuit-of-the-death-angel-328)[^ref-44]
-- [Classic Reload - Browser playable version](https://classicreload.com/police-quest-in-pursuit-of-the-death-angel.html)[^ref-11]
 - [Internet Archive - Police Quest Collection Manual](https://archive.org/details/Police_Quest_Collection_-_Manual)[^ref-8]
 - [Internet Archive - Police Quest Hint Book](https://archive.org/stream/Police_Quest_1_Hint_Book/Police_Quest_1_Hint_Book_djvu.txt)[^ref-25]
 
@@ -166,7 +164,7 @@ The game's commitment to procedural accuracy created a template for serious game
 [^ref-8]: [Internet Archive – Police Quest Collection Manual](https://archive.org/details/Police_Quest_Collection_-_Manual) — Original manual documentation
 [^ref-9]: [ANTIC Magazine Review](https://www.atarimagazines.com/v7n3/stgamesgallery.html) — Manual memorization requirement critique
 [^ref-10]: [Choicest Games – Police Quest Review](https://www.choicestgames.com/2019/08/police-quest-in-pursuit-of-death-angel.html) — 6/10 score, procedural focus critique
-[^ref-11]: [ClassicReload – Police Quest](https://classicreload.com/police-quest-in-pursuit-of-the-death-angel.html) — Browser playable version, jail weapon procedure
+[^ref-11]: ClassicReload – Police Quest *(download link removed: the game is sold commercially)* — Browser playable version, jail weapon procedure
 [^ref-12]: [DOS Days – Police Quest](https://www.dosdays.co.uk/topics/Games/game_pq1.php) — First Sierra DOS release without copy protection
 [^ref-13]: [Easter Egg Archive – Police Quest](https://eeggs.com/items/46877.html) — Hidden secrets documentation
 [^ref-14]: [Easter Eggs – Police Quest Tree](https://eeggs.com/tree/9317.html) — Additional easter eggs
@@ -189,7 +187,7 @@ The game's commitment to procedural accuracy created a template for serious game
 [^ref-41]: [MobyGames – Police Quest VGA Reviews](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/reviews/) — Tammy Dargan led VGA remake after Walls left Sierra; player reviews of the 1992 remake
 [^ref-42]: [Wikipedia – Jim Walls](https://en.wikipedia.org/wiki/Jim_Walls) — 15-year CHP career, real incident basis
 [^ref-43]: [PCGamingWiki – Police Quest VGA](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) — SCI 1.1 engine, technical specs
-[^ref-44]: [MyAbandonware – Police Quest](https://www.myabandonware.com/game/police-quest-in-pursuit-of-the-death-angel-328) — 4.14/5 rating, "done by the book" quote
+[^ref-44]: MyAbandonware – Police Quest *(download link removed: the game is sold commercially)* — 4.14/5 rating, "done by the book" quote
 [^ref-46]: [Hardcore Gaming 101 – Police Quest](https://www.hardcoregaming101.net/police-quest/) — Driving difficulty, instant game over crashes
 [^ref-52]: [Just Games Retro – Police Quest 1](https://www.justgamesretro.com/dos/police-quest-1) — In-game reference to "LPD Indoctrination Guide" and Felony Stop Procedures
 [^ref-56]: [MobyGames – Police Quest VGA Remake (1992)](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/) — VGA graphics, point-and-click interface

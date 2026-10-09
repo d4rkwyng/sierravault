@@ -245,8 +245,6 @@ Modern adventure game enthusiasts continue to discover and appreciate the series
 
 **Download / Preservation**
 - [Internet Archive – Demo Version](https://archive.org/details/Gobliins2ThePrinceBuffoonDemo)
-- [MyAbandonware](https://www.myabandonware.com/game/gobliins-2-the-prince-buffoon-2jc)
-- [Games Nostalgia](https://gamesnostalgia.com/game/gobliins-2-the-prince-buffoon)
 
 **Manuals & Extras**
 - [Lemon Amiga – Walkthrough](https://www.lemonamiga.com/games/docs.php?id=727)
@@ -272,19 +270,19 @@ Modern adventure game enthusiasts continue to discover and appreciate the series
 [^ref-8]: [Adventure Gamers – Gobliins 2 Walkthrough](https://web.archive.org/web/20231202061654/https://adventuregamers.com/walkthrough/gobliins-2-the-prince-buffoon) – system requirements, promotional description
 [^ref-9]: [Lilura1 Blog – Goblins Games](https://lilura1.blogspot.com/2022/04/Goblins-Games-Coktel-Vision-1991-93-IBM-PC-MS-DOS.html) – technical specs, install size, resolution
 [^ref-10]: [Academic Encyclopedia – Gobliins 2](https://en-academic.com/dic.nsf/enwiki/379428) – character descriptions for Fingus and Winkle
-[^ref-11]: [Play Classic Games – Gobliins 2](https://playclassic.games/games/puzzle-solving-dos-games-online/play-gobliins-2-prince-buffoon-online/) – character personality descriptions
+[^ref-11]: Play Classic Games – Gobliins 2 *(download link removed: the game is sold commercially)* – character personality descriptions
 [^ref-12]: [Gamer Walkthroughs – Gobliins 2](https://gamerwalkthroughs.com/gobliins-2/) – walkthrough introduction quote about Fingus and Winkle
 [^ref-13]: [Internet Archive – Gobliins 2 Demo](https://archive.org/details/Gobliins2ThePrinceBuffoonDemo) – promotional description
 [^ref-14]: [Walkthrough King – Gobliins 2](https://www.walkthroughking.com/text/gobliins2.aspx) – gameplay description
-[^ref-15]: [DOSGames.com – Gobliins 2](https://dosgames.com/game/gobliins-2/) – interface, resolution
+[^ref-15]: DOSGames.com – Gobliins 2 *(download link removed: the game is sold commercially)* – interface, resolution
 [^ref-16]: [Jefklak's Codex – Gobliins 2](https://jefklakscodex.com/games/pc/gobliins-2/) – Joker hint system, Coktel Vision history, ScummVM support
 [^ref-18]: [Downloads Khinsider – Gobliins 2 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/gobliins-2-original-game-rip) – track listing, user review quote
 [^ref-19]: [Sierra Chest – Gobliins 2 Walkthrough](https://www.sierrachest.com/index.php?a=games&id=145&fld=walkthrough) – goblins cannot die quote
 [^ref-20]: [The Spoiler – Gobliins 2 Solution](https://the-spoiler.com/OTHER/Coktel/gobliins.2.1.html) – difficulty description, character colors
 [^ref-21]: [Web Archive – MobyGames 2008](https://web.archive.org/web/20080227191053/http://www.mobygames.com/game/gobliins-2-the-prince-buffoon) – Amiga Action score, release information
 [^ref-22]: [Gamicus – Gobliiins](https://gamicus.gamepedia.com/Gobliiins) – Dragon magazine review, Powerplay scores, easter eggs
-[^ref-23]: [MyAbandonware – Gobliins 2](https://www.myabandonware.com/game/gobliins-2-the-prince-buffoon-2jc) – user rating, HOTUD review quotes, DOSBox support
-[^ref-24]: [Games Nostalgia – Gobliins 2](https://gamesnostalgia.com/game/gobliins-2-the-prince-buffoon) – aggregate score, version information, reviewer quotes
+[^ref-23]: MyAbandonware – Gobliins 2 *(download link removed: the game is sold commercially)* – user rating, HOTUD review quotes, DOSBox support
+[^ref-24]: Games Nostalgia – Gobliins 2 *(download link removed: the game is sold commercially)* – aggregate score, version information, reviewer quotes
 [^ref-25]: [IMDB – Gobliins 2](https://www.imdb.com/find/?q=Gobliins+2&s=tt) – IMDB rating
 [^ref-26]: [Lemon Amiga – Gobliins 2 Docs](https://www.lemonamiga.com/games/docs.php?id=727) – user rating, walkthrough
 [^ref-28]: [Sierra Gamers – Gobliins 2](https://www.sierragamers.com/gobliins-2/) – series context
@@ -293,7 +291,7 @@ Modern adventure game enthusiasts continue to discover and appreciate the series
 [^ref-31]: [VGMPF – Gobliins 2 DOS](https://vgmpf.com/Wiki/index.php?title=Gobliins_2:_The_Prince_Buffoon_(DOS)) – audio devices, regional release dates
 [^ref-32]: [VGMPF – Gobliins 2 Amiga](https://www.vgmpf.com/Wiki/index.php?title=Gobliins_2:_The_Prince_Buffoon_(AMI)) – Paula chip, music information
 [^ref-33]: [MobyGames – Goblins Quest 3](http://www.mobygames.com/game/goblins-quest-3) – goblinish speech description, series information
-[^ref-34]: [Retrogames.cz – Gobliins 2](https://www.retrogames.cz/play_546-DOS.php) – CD version censorship
+[^ref-34]: Retrogames.cz – Gobliins 2 *(download link removed: the game is sold commercially)* – CD version censorship
 [^ref-35]: [VOGONS Forum – Gobliins 2 DOSBox Issues](https://www.vogons.org/viewtopic.php?t=11540) – version compatibility, black screen issue
 [^ref-36]: [GameFAQs – Gobliins 2](https://gamefaqs.gamespot.com/pc/564708-gobliins-2-the-prince-buffoon/faqs) – 2009 version update
 [^ref-37]: [Sierra Help – Gobliiins Series Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/GobliiinsSeriesUpdates.html) – patch information

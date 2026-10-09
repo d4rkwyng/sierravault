@@ -282,9 +282,6 @@ The game's real-time elements and possibility of unwinnable states reflect early
 - [ScummVM Downloads](https://www.scummvm.org/downloads/)
 
 **Download / Preservation**
-- [Internet Archive – DOS CD Version](https://archive.org/details/willy-beamish-doscd)
-- [Internet Archive – Standard Version](https://archive.org/details/adventures-of-willy-beamish)
-- [MyAbandonware](https://www.myabandonware.com/game/the-adventures-of-willy-beamish-1wq)
 
 **Manuals & Extras**
 - [Game Manual – Internet Archive](https://archive.org/details/AdventuresOfWillyBeamishManual)
@@ -310,11 +307,11 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-2]: [Adventure Game Database – Willy Beamish](https://adventuregamedb.com/g/the_adventures_of_willy_beamish) – game description, time mechanics
 [^ref-3]: [Amiga Wiki – The Adventures of Willy Beamish](https://amiga.fandom.com/wiki/The_Adventures_of_Willy_Beamish) – development history, review scores, Tunnell quote
 [^ref-4]: [Wikipedia – The Adventures of Willy Beamish](https://en.wikipedia.org/wiki/The_Adventures_of_Willy_Beamish) – sales data, cancelled sequel, technical innovations
-[^ref-5]: [Internet Archive – DOS CD Version](https://archive.org/details/willy-beamish-doscd) – file size, version information
+[^ref-5]: Internet Archive – DOS CD Version *(download link removed: the game is sold commercially)* – file size, version information
 [^ref-6]: [Adventure Classic Gaming – Kevin Ryan Interview](https://www.adventureclassicgaming.com/index.php/site/features/268/) – Rene Garcia credits, DGDS description, last Dynamix adventure
 [^ref-7]: [GOG.com – The Adventures of Willy Beamish](https://www.gog.com/en/game/the_adventures_of_willy_beamish) – user reviews, system requirements
-[^ref-8]: [Abandonware DOS – Willy Beamish](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+adventures+of+Willy+Beamish&gid=1778) – designers, audio options, CD version changes, wristwatch trivia
-[^ref-9]: [ClassicReload – Willy Beamish](https://classicreload.com/the-adventures-of-willy-beamish.html) – DGDS engine, cartoon animation pioneer
+[^ref-8]: Abandonware DOS – Willy Beamish *(download link removed: the game is sold commercially)* – designers, audio options, CD version changes, wristwatch trivia
+[^ref-9]: ClassicReload – Willy Beamish *(download link removed: the game is sold commercially)* – DGDS engine, cartoon animation pioneer
 [^ref-10]: [Lemon Amiga – Walkthrough](https://www.lemonamiga.com/games/docs.php?id=37) – opening scene, target audience description
 [^ref-11]: [Pixelated Arcade – Willy Beamish](https://pixelatedarcade.com/games/the-adventures-of-willy-beamish) – Nintari Championship plot
 [^ref-12]: [Sierra Chest – Technical](https://www.sierrachest.com/index.php?a=games&id=337&title=willy-beamish&fld=tech) – system requirements, timed sequence bugs
@@ -322,7 +319,7 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-14]: [Adventure Gamer Blog – Willy Beamish Introduction](https://advgamer.blogspot.com/2015/10/game-60-adventures-of-willy-beamish.html) – grandfather ghost, Sierra acquisition
 [^ref-16]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=337&title=willy-beamish&fld=walkthrough&pid=120) – Tootsweet plot, Gordon's job
 [^ref-18]: [The Digital Antiquarian](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) – Trouble-O-meter, design criticism, commercial success
-[^ref-19]: [Best DOS Games – Willy Beamish](https://bestdosgames.com/games/the-adventures-of-willy-beamish) – point-and-click interface
+[^ref-19]: Best DOS Games – Willy Beamish *(download link removed: the game is sold commercially)* – point-and-click interface
 [^ref-20]: [GameFAQs – Sega CD Walkthrough](https://gamefaqs.gamespot.com/segacd/587919-the-adventures-of-willy-beamish/faqs/28803) – Horny character, game controls
 [^ref-21]: [IMDb – The Adventures of Willy Beamish](https://www.imdb.com/title/tt0292893/) – user rating, designers, communication gameplay
 [^ref-22]: [Alex Bevilacqua – Game Review](https://www.alexbevi.com/blog/2024/02/12/the-adventures-of-willy-beamish/) – cartoony style, emotional depth
@@ -337,7 +334,7 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-31]: [Sega Wiki – Willy Beamish](https://sega.fandom.com/wiki/The_Adventures_of_Willy_Beamish) – GameFan score, development process, Infinite Laser Dog
 [^ref-32]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/the-adventures-of-willy-beamish/) – visual praise, loading time criticism, Sega CD changes
 [^ref-33]: [Sega-16 – Review](https://www.sega-16.com/2005/10/adventures-of-willy-beamish/) – 8/10 score, "too short" criticism
-[^ref-34]: [MyAbandonware – Willy Beamish](https://www.myabandonware.com/game/the-adventures-of-willy-beamish-1wq) – user rating
+[^ref-34]: MyAbandonware – Willy Beamish *(download link removed: the game is sold commercially)* – user rating
 [^ref-35]: [Neoseeker – Walkthrough](https://www.neoseeker.com/the-adventures-of-willy-beamish/faqs/125982-adventures-willy-beamish-b.html) – Tunnell's Incredible Machine connection
 [^ref-36]: [Sega-16 – Behind the Design](https://www.sega-16.com/2007/03/behind-the-design-adventures-of-willy-beamish/) – development size, Ernest Adams quote, Tunnell regret
 [^ref-37]: [Retro365 – Dynamix's Adventures](https://retro365.blog/2024/08/23/dynamixs-adventures/) – man-hours, animation count, text count

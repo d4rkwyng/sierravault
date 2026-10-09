@@ -10,14 +10,14 @@ series: Conquests
 engine: SCI1
 protagonist: Robin Hood
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: '*Conquests of the Longbow: The Legend of Robin Hood* is a graphic adventure
   game developed and published by Sierra On-Line in 1991, representing the second...'
 tags: [1990s, adventure, conquests, sci, sierra]
 ---
 # Conquests of the Longbow: The Legend of Robin Hood
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -270,8 +270,6 @@ The game's focus on historical accuracy and cultural research also distinguishes
 - [GOG.com](https://www.gog.com/en/game/conquests_of_the_longbow) - Windows (ScummVM)
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/conquests-of-the-longbow-the-legend-of-robin-hood-0mhz) - DOS version
-- [MyAbandonware](https://www.myabandonware.com/game/conquests-of-the-longbow-the-legend-of-robin-hood-22f) - DOS and Amiga versions
 
 **Manuals & Extras**
 - [Manual PDF (Internet Archive)](https://archive.org/details/Conquests_of_the_Longbow_-_Manual)
@@ -288,15 +286,15 @@ The game's focus on historical accuracy and cultural research also distinguishes
 ## References
 
 [^ref-1]: [Wikipedia – Conquests of the Longbow](https://en.wikipedia.org/wiki/Conquests_of_the_Longbow:_The_Legend_of_Robin_Hood) – release dates, platforms, awards, design details, bibliography, British English usage
-[^ref-2]: [Abandonware DOS – Conquests of the Longbow](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Conquests+of+the+Longbow:+The+Legend+of+Robin+Hood&gid=2399) – gameplay description, user ratings, manual trivia
+[^ref-2]: Abandonware DOS – Conquests of the Longbow *(download link removed: the game is sold commercially)* – gameplay description, user ratings, manual trivia
 [^ref-3]: [GOG.com – Conquests of the Longbow](https://www.gog.com/en/game/conquests_of_the_longbow) – product description, user reviews, technical requirements
 [^ref-4]: [Adventure Classic Gaming – Cheats/Walkthrough](http://www.adventureclassicgaming.com/index.php/site/cheats/492/) – design philosophy quotes, easter eggs, bugs
-[^ref-5]: [PlayClassic.games – Conquests of the Longbow](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-conquests-longbow-legend-robin-hood-online/) – game structure, mechanics, endings
-[^ref-6]: [MyAbandonware – Conquests of the Longbow](https://www.myabandonware.com/game/conquests-of-the-longbow-the-legend-of-robin-hood-22f) – release dates, user ratings, trivia
+[^ref-5]: PlayClassic.games – Conquests of the Longbow *(download link removed: the game is sold commercially)* – game structure, mechanics, endings
+[^ref-6]: MyAbandonware – Conquests of the Longbow *(download link removed: the game is sold commercially)* – release dates, user ratings, trivia
 [^ref-7]: [Glitchwave – Conquests of the Longbow](https://glitchwave.com/game/conquests-of-the-longbow-the-legend-of-robin-hood/) – user ratings, user review quotes
 [^ref-8]: [Adventure Gamers – Review (Archived)](https://web.archive.org/web/20230115122019/https://adventuregamers.com/articles/view/18204) – retrospective review, score, analysis
 [^ref-9]: [Choicest Games – Review](https://www.choicestgames.com/2022/01/conquests-of-longbow-legend-of-robin.html) – engine details, composer credits, gameplay analysis
-[^ref-10]: [OldGames.sk – Conquests of the Longbow](https://www.oldgames.sk/en/game/conquests-of-the-longbow-the-legend-of-robin-hood/download/724/) – ratings, platform info, series info
+[^ref-10]: OldGames.sk – Conquests of the Longbow *(download link removed: the game is sold commercially)* – ratings, platform info, series info
 [^ref-11]: [IMDB – Conquests of the Longbow](https://www.imdb.com/title/tt0455403/) – release date, ratings, plot summary, easter eggs
 [^ref-12]: [MobyGames – Conquests of the Longbow](https://www.mobygames.com/game/1967/conquests-of-the-longbow-the-legend-of-robin-hood/) – credits, aggregate rating, technical specs, easter eggs, cut content
 [^ref-13]: [Sierra Help Wiki – Technical](http://wiki.sierrahelp.com/index.php/Conquests_of_the_Longbow:_The_Legend_of_Robin_Hood_Technical) – system requirements, patches, known bugs
@@ -304,8 +302,8 @@ The game's focus on historical accuracy and cultural research also distinguishes
 [^ref-16]: [Amiga Magazine Rack (Archived)](https://web.archive.org/web/20220321190700/http://amr.abime.net/review_25678) – contemporary review scores compilation
 [^ref-17]: [Amiga Reviews (Archived)](https://web.archive.org/web/20220321191036/https://amigareviews.leveluphost.com/conquesl.htm#conquestsofthelongbowaj) – Amiga version review, technical issues
 [^ref-18]: [Lemon Amiga – Review](https://www.lemonamiga.com/games/reviews/view.php?id=504) – Amiga version analysis, designer quote, technical problems
-[^ref-19]: [RetroGames.cz – Conquests of the Longbow](https://www.retrogames.cz/play_636-DOS.php) – executive designer credits
-[^ref-20]: [Internet Archive – DOS Version](https://archive.org/details/conquests-of-the-longbow-the-legend-of-robin-hood-0mhz) – preservation info, technical specs
+[^ref-19]: RetroGames.cz – Conquests of the Longbow *(download link removed: the game is sold commercially)* – executive designer credits
+[^ref-20]: Internet Archive – DOS Version *(download link removed: the game is sold commercially)* – preservation info, technical specs
 [^ref-21]: [VGMdb – Sierra Soundtrack Collection](https://vgmdb.net/album/2241) – soundtrack recording details
 [^ref-22]: [The Sierra Chest – Conquests of the Longbow](https://sierrachest.com/index.php?a=games&id=141&title=conquests-of-the-longbow&fld=music) – release date, music track listing
 [^ref-23]: [Speedrun.com – Conquests of the Longbow](https://www.speedrun.com/conquests_of_the_longbow_the_legend_of_robin_hood) – speedrun data, version differences
@@ -313,4 +311,4 @@ The game's focus on historical accuracy and cultural research also distinguishes
 [^ref-25]: [The Digital Antiquarian](https://www.filfre.net/?s=Conquests+of+the+Longbow%3A+The+Legend+of+Robin+Hood) – Sierra business strategy context
 [^ref-26]: [Speedrun.com – Guide](https://www.speedrun.com/conquests_of_the_longbow_the_legend_of_robin_hood/guides/5px6w) – speedrun strategies, Snowy Skips
 [^ref-27]: [Reddit r/Sierra – 4K Rendering Post](https://www.reddit.com/r/Sierra/comments/16g07ln/conquests_of_the_longbow_rendered_in_4k_simulated/) – fan project
-[^ref-28]: [Best DOS Games – Conquests of the Longbow](https://bestdosgames.com/games/conquests-of-the-longbow-the-legend-of-robin-hood) – modern relevance assessment
+[^ref-28]: Best DOS Games – Conquests of the Longbow *(download link removed: the game is sold commercially)* – modern relevance assessment

@@ -10,13 +10,13 @@ series: Tribes
 engine: Unreal Engine 5
 protagonist: null
 sierra_lineage: Spiritual Successor
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: "Tribes 3: Rivals is a 2024 first-person shooter continuing the Tribes series, developed by Prophecy Games using Unreal Engine 5."
 tags: [2020s, fps, multiplayer, tribes, dynamix]
 ---
 # Tribes 3: Rivals
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -176,4 +176,4 @@ The official website continues to provide gameplay tutorials and FAQ documentati
 [^ref-22]: [Prophecy Games Steam announcement (June 27, 2024)](https://steamcommunity.com/games/2375240/announcements/) — primary-source developer update confirming the development pause
 [^ref-23]: [GameFAQs – Tribes 3: Rivals](https://gamefaqs.gamespot.com/pc/383850-tribes-3-rivals) — user-rated category, platform listing, release-info metadata
 [^ref-24]: [LaunchBox Games Database – Tribes 3: Rivals](https://gamesdb.launchbox-app.com/games/details/tribes-3-rivals) — community-curated metadata, cover-art reference
-[^ref-25]: [Internet Archive – Tribes 3: Rivals preservation](https://archive.org/details/tribes-3-rivals) — community preservation archive of the Early Access build
+[^ref-25]: Internet Archive – Tribes 3: Rivals preservation *(download link removed: the game is sold commercially)* — community preservation archive of the Early Access build

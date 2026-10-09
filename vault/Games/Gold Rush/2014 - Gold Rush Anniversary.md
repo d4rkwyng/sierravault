@@ -288,5 +288,5 @@ The game's mixed reception highlights the challenges facing remakes of vintage a
 [^ref-12]: [FireFlower Games – Gold Rush Anniversary](https://fireflowergames.com/products/gold-rush-anniversary) – product description, system requirements
 [^ref-13]: [Metacritic – Gold Rush Anniversary](https://www.metacritic.com/game/gold-rush-anniversary/) – aggregated critic scores, user reviews
 [^ref-14]: [Steam Community – Gold Rush Anniversary](https://steamcommunity.com/app/319230) – community discussions, bug reports, cut content
-[^ref-15]: [Poly.Play – Gold Rush Special Edition](https://polyplay.xyz/Gold-Rush_1) – collector's edition contents, bundled releases
+[^ref-15]: Poly.Play – Gold Rush Special Edition *(download link removed: the game is sold commercially)* – collector's edition contents, bundled releases
 [^ref-16]: [Steam Community – Gold Rush! 2 Reviews](https://steamcommunity.com/app/609100/reviews/?browsefilter=toprated) – sequel information, engine details

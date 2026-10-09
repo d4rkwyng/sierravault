@@ -173,8 +173,6 @@ This game has been included in the following collections:
 
 **Download / Preservation**
 
-- [Internet Archive – Quest for Glory V: Dragon Fire](https://archive.org/details/quest-for-glory-v-sierra-1998)[^ref-2]
-- [My Abandonware – Quest for Glory V](https://www.myabandonware.com/game/quest-for-glory-v-dragon-fire-3p4)[^ref-11]
 
 **Manuals & Extras**
 
@@ -199,7 +197,7 @@ This game has been included in the following collections:
 ## References
 
 [^ref-1]: [Wikipedia – Quest for Glory V: Dragon Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_V%3A_Dragon_Fire) – – history, plot, gameplay, development, reception
-[^ref-2]: [Archive.org – Quest for Glory V](https://archive.org/details/quest-for-glory-v-sierra-1998) – – preservation
+[^ref-2]: Archive.org – Quest for Glory V *(download link removed: the game is sold commercially)* – – preservation
 [^ref-3]: [MobyGames – Quest for Glory V: Dragon Fire](https://www.mobygames.com/game/174/quest-for-glory-v-dragon-fire/) – – credits, ratings, screenshots
 [^ref-4]: [Sierra Fandom Wiki – Quest for Glory V](https://sierra.fandom.com/wiki/Quest_for_Glory_V%3A_Dragon_Fire) – – detailed game information
 [^ref-5]: [PC Gamer – Saturday Crapshoot: Quest For Glory 4 1/2](http://www.pcgamer.com/saturday-crapshoot-quest-for-glory-4-12/) – – series retrospective
@@ -208,7 +206,7 @@ This game has been included in the following collections:
 [^ref-8]: [GameFAQs – Quest for Glory V](https://gamefaqs.gamespot.com/pc/43361-quest-for-glory-v-dragon-fire) – – user reviews, guides
 [^ref-9]: [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) – – purchase, user reviews
 [^ref-10]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750) – – purchase, user reviews
-[^ref-11]: [My Abandonware – Quest for Glory V](https://www.myabandonware.com/game/quest-for-glory-v-dragon-fire-3p4) – – platforms, availability
+[^ref-11]: My Abandonware – Quest for Glory V *(download link removed: the game is sold commercially)* – – platforms, availability
 [^ref-12]: [PCGamingWiki – Quest for Glory V](https://www.pcgamingwiki.com/wiki/Quest_for_Glory_V%3A_Dragon_Fire) – – technical specs
 [^ref-32]: [Quest for Glory Fandom Wiki](https://questforglory.fandom.com/wiki/Quest_for_Glory_V%3A_Dragon_Fire) – – series information
 [^ref-14]: [Hardcore Gaming 101 – Quest for Glory](http://www.hardcoregaming101.net/quest-for-glory/) – – series retrospective

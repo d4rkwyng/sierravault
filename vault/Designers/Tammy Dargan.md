@@ -119,7 +119,7 @@ The technical innovations in her games, particularly the transition from traditi
 [^ref-8]: [Adventure Gamers](https://web.archive.org/web/20230420024751/https://adventuregamers.com/articles/view/34318) — Women in Sierra adventure games article
 [^ref-9]: [Game Developer](https://www.gamedeveloper.com/design/postmortem-sierra-s-i-swat3-close-quarters-battle-i-) — SWAT3 postmortem development article
 [^ref-10]: [Police Quest Fandom - PQ4 Development](https://policequest.fandom.com/wiki/PQ4_development) — Police Quest 4 development history
-[^ref-11]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?gid=1571) — Game information and credits
+[^ref-11]: Abandonware DOS *(download link removed: the game is sold commercially)* — Game information and credits
 [^ref-12]: [IMDB Bio](https://www.imdb.com/name/nm1010950/bio/) — Professional biography
 [^ref-13]: [Giant Bomb](https://www.giantbomb.com/tammy-dargan/3040-870/) — Game developer profile
 [^ref-14]: [IGN Interview June 1999](https://www.ign.com/articles/1999/06/16/swat-3-close-quarters-battle-interview) — SWAT 3 development interview

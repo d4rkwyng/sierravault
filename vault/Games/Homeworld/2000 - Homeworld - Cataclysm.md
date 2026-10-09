@@ -140,8 +140,6 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 - [GOG.com - Homeworld: Emergence](https://www.gog.com/game/homeworld_emergence)
 
 **Download / Preservation**
-- [Internet Archive - Homeworld Cataclysm](https://archive.org/details/HWCata)
-- [MyAbandonware - Homeworld: Cataclysm](https://www.myabandonware.com/game/homeworld-cataclysm-cyy)
 
 ## See Also
 
@@ -166,9 +164,9 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [^ref-11]: [IGN Review](https://www.ign.com/articles/2000/09/13/homeworld-cataclysm) – - Beast mechanics and gameplay description
 [^ref-12]: [Game Over Review](https://www.game-over.net/reviews/pc/Homeworld:_Cataclysm.html) – - Story coherence and narrative assessment
 [^ref-13]: [Game Industry Review](https://www.gameindustry.com/reviews/game-review/homeworld-cataclysm-is-a-stunning-sequel/) – - Tutorial system description
-[^ref-14]: [MyAbandonware](https://www.myabandonware.com/game/homeworld-cataclysm-cyy) – - Mothership mobility mechanics
+[^ref-14]: MyAbandonware *(download link removed: the game is sold commercially)* – - Mothership mobility mechanics
 [^ref-15]: [GameFAQs Strategy Analysis](https://gamefaqs.gamespot.com/pc/303756-homeworld-cataclysm/faqs/75064) – - Strategic options comparison
-[^ref-16]: [Internet Archive Description](https://archive.org/details/HWCata) – - Beast conversion mechanics
+[^ref-16]: Internet Archive Description *(download link removed: the game is sold commercially)* – - Beast conversion mechanics
 [^ref-17]: [Eurogamer Review](https://www.eurogamer.net/r-hwc) – - Home base management complexity
 [^ref-18]: [Metacritic Aggregation](https://www.metacritic.com/game/homeworld-cataclysm/) – - Adrenaline Vault perfect score
 [^ref-19]: [Wikipedia - Review Scores](https://en.wikipedia.org/wiki/Homeworld%3A_Cataclysm) – - PC Gamer US score

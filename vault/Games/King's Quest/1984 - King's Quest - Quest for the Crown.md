@@ -240,9 +240,6 @@ This game has been included in[^ref-8][^ref-9]:
 - [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – Complete classic series bundle[^ref-24]
 
 **Download / Preservation**
-- [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Kings_Quest_I_-_Quest_for_the_Crown_1987) – Browser playable[^ref-35]
-- [Internet Archive – PCjr Version](https://archive.org/details/kings-quest-1-pcjr) – Original 1984 release[^ref-35]
-- [My Abandonware – King's Quest](https://www.myabandonware.com/game/king-s-quest-47) – Preservation downloads[^ref-36]
 - [AGD Interactive VGA Remake](https://www.agdinteractive.com/games/kq1/about/overview.html) – Free fan remake with voice acting[^ref-34]
 
 **Manuals & Extras**
@@ -303,8 +300,8 @@ This game has been included in[^ref-8][^ref-9]:
 [^ref-32]: [KQ Omnipedia – Sales Data](https://kingsquest.fandom.com/wiki/Sales_data) – – 7 million series copies
 [^ref-33]: [Sierra Help – KQ1 SCI Remake](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI_remake%29) – – 1990 remake details
 [^ref-34]: [AGD Interactive – King's Quest I](https://www.agdinteractive.com/games/kq1/about/overview.html) – – VGA remake, downloads, endorsement
-[^ref-35]: [Internet Archive – King's Quest](https://archive.org/details/msdos_Kings_Quest_I_-_Quest_for_the_Crown_1987) – – Preservation
-[^ref-36]: [My Abandonware – King's Quest](https://www.myabandonware.com/game/king-s-quest-47) – – Preservation downloads
+[^ref-35]: Internet Archive – King's Quest *(download link removed: the game is sold commercially)* – – Preservation
+[^ref-36]: My Abandonware – King's Quest *(download link removed: the game is sold commercially)* – – Preservation downloads
 [^ref-37]: [The King's Quest Companion](https://archive.org/details/kingsquestcompan00spea) – – Peter Spear hint book
 [^ref-38]: [PCGamingWiki – King's Quest](https://www.pcgamingwiki.com/wiki/King%27s_Quest:_Quest_for_the_Crown) – – Technical fixes
 [^ref-39]: [Nerdly Pleasures – The Evolution of King's Quest](http://nerdlypleasures.blogspot.com/2017/04/the-evolution-of-kings-quest.html) – – Definitive 8-version history with exact dates, AGI interpreter versions, copy protection schemes, technical specs

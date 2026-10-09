@@ -287,7 +287,7 @@ Order of the Thorne exists within Infamous Quests' broader catalog of Sierra-ins
 [^ref-10]: [Hardcore Gamer](https://hardcoregamer.com/reviews/review-order-of-the-thorne-the-kings-challenge/194762/) – Character motivation details
 [^ref-11]: [itch.io](https://infamousquests.itch.io/oott-the-kings-challenge) – User reviews and prize description
 [^ref-12]: [itch.io Sale Page](https://itch.io/s/29971/the-order-of-the-thorne-try-it) – Story premise hint
-[^ref-13]: [FreeGOGPCGames](https://freegogpcgames.com/224/1-the-order-of-the-thorne-the-kings-challenge/) – Game length estimate
+[^ref-13]: FreeGOGPCGames *(download link removed: the game is sold commercially)* – Game length estimate
 [^ref-14]: [Indie Retro News](https://www.indieretronews.com/2016/01/order-of-throne-kings-challenge-sierra.html) – Musical gameplay mechanics
 [^ref-15]: [Phoenix Online Studios](https://store.postudios.com/products/order-of-the-thorne-the-kings-challenge) – Lute gameplay description
 [^ref-16]: [GuiaZone](https://guiazone.blogspot.com/2016/02/order-of-thorne-kings-challenge.html) – Loom comparison

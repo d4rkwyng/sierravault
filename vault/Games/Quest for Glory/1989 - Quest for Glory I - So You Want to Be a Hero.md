@@ -194,7 +194,6 @@ This game has been included in the following collections:
 **Download / Preservation**
 
 - [Internet Archive – Quest for Glory Manual](https://archive.org/details/Quest_for_Glory_Manual)[^ref-11]
-- [My Abandonware – Hero's Quest](https://www.myabandonware.com/game/hero-s-quest-so-you-want-to-be-a-hero-25k)[^ref-2]
 
 **Manuals & Extras**
 
@@ -218,7 +217,7 @@ This game has been included in the following collections:
 
 ## References
 [^ref-1]: [Wikipedia – Quest for Glory: So You Want to Be a Hero](https://en.wikipedia.org/wiki/Quest_for_Glory%3A_So_You_Want_to_Be_a_Hero) – history, plot, gameplay, development, reception
-[^ref-2]: [My Abandonware – Hero's Quest](https://www.myabandonware.com/game/hero-s-quest-so-you-want-to-be-a-hero-25k) – platforms, availability
+[^ref-2]: My Abandonware – Hero's Quest *(download link removed: the game is sold commercially)* – platforms, availability
 [^ref-3]: [Sierra Fandom Wiki – Quest for Glory I VGA](https://sierra.fandom.com/wiki/Quest_for_Glory_I%3A_So_You_Want_to_Be_a_Hero_%28VGA%29) – VGA remake details, SCI1.1 engine
 [^ref-4]: [Sierra Fandom Wiki – Quest for Glory I EGA](https://sierra.fandom.com/wiki/Quest_for_Glory%3A_So_You_Want_to_Be_a_Hero_%28EGA%29) – original release details, plot, gameplay
 [^ref-5]: [Grokipedia – Quest for Glory](https://grokipedia.com/page/Quest_for_Glory) – series development history, creators, gameplay mechanics
@@ -239,7 +238,7 @@ This game has been included in the following collections:
 [^ref-20]: [RPGamer – Quest for Glory Reviews](https://rpgamer.com/games/qfg/qfg1/) – modern retrospective reviews
 [^ref-21]: HowLongToBeat – Quest for Glory I *(link removed: it led to a different game's page)* – completion times
 [^ref-22]: [Speedrun.com – Quest for Glory I](https://www.speedrun.com/qfg1) – speedrun leaderboards
-[^ref-23]: [Abandonware DOS – Quest for Glory](https://www.abandonwaredos.com/abandonware-game.php?abandonession=quest-for-glory-i-so-you-want-to-be-a-hero) – user ratings
+[^ref-23]: Abandonware DOS – Quest for Glory *(download link removed: the game is sold commercially)* – user ratings
 [^ref-24]: [GameFAQs – Hero's Quest](https://gamefaqs.gamespot.com/pc/562667-heros-quest-so-you-want-to-be-a-hero) – user reviews, guides
 [^ref-25]: [TV Tropes – Quest for Glory I](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryI) – trope analysis, design details
 [^ref-26]: IMDB – Quest for Glory (VGA) *(link removed: it led to a different game's page)* – VGA remake credits

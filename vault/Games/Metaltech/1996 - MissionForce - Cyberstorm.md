@@ -10,14 +10,14 @@ series: Earthsiege/Starsiege
 engine: Dynamix 3Space
 protagonist: Corporation Commander (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'MissionForce: CyberStorm is a turn-based strategy game developed by
   Dynamix and published by Sierra On-Line in 1996. Set in the Earthsiege/Starsiege...'
 tags: [1990s, earthsiege-starsiege, sierra, strategy]
 ---
 # MissionForce: CyberStorm
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -143,8 +143,6 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 - [GOG.com](https://www.gog.com/game/missionforce_cyberstorm)
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/missionforce-cyberstorm-a2q)
-- [Internet Archive](https://archive.org/details/missionforce-cyberstorm)
 
 ## See Also
 
@@ -164,7 +162,7 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 ## References
 
 [^ref-1]: [Wikipedia - MissionForce: CyberStorm](https://en.wikipedia.org/wiki/MissionForce:_CyberStorm) – - Release date and developer information
-[^ref-2]: [MyAbandonware](https://www.myabandonware.com/game/missionforce-cyberstorm-a2q) – - Gameplay style comparison
+[^ref-2]: MyAbandonware *(download link removed: the game is sold commercially)* – - Gameplay style comparison
 [^ref-3]: [Amazon Strategy Guide](https://www.amazon.com/MissionForce-CyberStorm-Official-Strategy-Secrets/dp/0761508732) – - Game description
 [^ref-4]: [The Obscuritory](https://obscuritory.com/strategy/missionforce-cyberstorm/) – - Critical assessment
 [^ref-5]: [Old PC Gaming](https://oldpcgaming.net/missionforce-cyberstorm/) – - Core gameplay mechanics
@@ -173,7 +171,7 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 [^ref-8]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/MissionForce:_CyberStorm) – - Platform compatibility
 [^ref-9]: [GameSpot Review](http://www.gamespot.com/pc/strategy/missionforcecyberstorm/review.html) – - Story setup
 [^ref-10]: [StrategyWiki](https://strategywiki.org/wiki/MissionForce:_CyberStorm) – - Plot overview
-[^ref-11]: [Internet Archive](https://archive.org/details/missionforce-cyberstorm) – - Narrative premise
+[^ref-11]: Internet Archive *(download link removed: the game is sold commercially)* – - Narrative premise
 [^ref-12]: [Reddit Discussion](https://www.reddit.com/r/Games/comments/5pi5k5/missionforce_cyberstorm_running_on_modern_windows/) – - Basic gameplay description
 [^ref-13]: [KHInsider](https://downloads.khinsider.com/game-soundtracks/album/missionforce-cyberstorm/change_log) – - Progression mechanics
 [^ref-14]: [GameFAQs Guide](https://gamefaqs.gamespot.com/pc/197957-missionforce-cyberstorm/faqs/52075) – - Juggernaut description

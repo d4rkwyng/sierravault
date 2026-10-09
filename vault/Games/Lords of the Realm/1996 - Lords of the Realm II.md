@@ -10,7 +10,7 @@ series: Lords of the Realm
 engine: DOS4GW
 protagonist: Player-controlled Lord
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Keith Zizza]
 description: Lords of the Realm II is a medieval strategy game that masterfully blends
   turn-based resource management with real-time combat, set against a rich...
@@ -18,7 +18,7 @@ tags: [1990s, impressions, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm II
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -272,8 +272,6 @@ The comparison to Total War is apt but also highlights what Lords II does differ
 - [Steam – Lords of the Realm II](https://store.steampowered.com/app/397350/Lords_of_the_Realm_II/)
 
 **Download / Preservation**
-- [Internet Archive – Lords of the Realm II](https://archive.org/details/lords-of-the-realm-2)
-- [MyAbandonware – Lords of the Realm II](https://www.myabandonware.com/game/lords-of-the-realm-ii-3m9)
 
 **Manuals & Documentation**
 - [Game Manual PDF (Internet Archive)](https://archive.org/download/Lords_of_the_Realm_II_-_Manual/Lords_of_the_Realm_II_-_Manual.pdf)
@@ -290,7 +288,7 @@ The comparison to Total War is apt but also highlights what Lords II does differ
 
 [^ref-1]: [MobyGames – Lords of the Realm II](https://www.mobygames.com/game/998/lords-of-the-realm-ii/) – developer, publisher, platforms, ratings, technical specifications
 [^ref-2]: [Sierra Gamers Forum – Where Does Sierra End](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Impressions acquisition, first major Sierra release
-[^ref-3]: [Internet Archive – Lords of the Realm II](https://archive.org/details/lords-of-the-realm-2) – game description, core gameplay elements
+[^ref-3]: Internet Archive – Lords of the Realm II *(download link removed: the game is sold commercially)* – game description, core gameplay elements
 [^ref-4]: [Gamicus Wiki – Lords of the Realm II](https://gamicus.fandom.com/wiki/Lords_of_the_Realm_II) – gameplay features, no fantasy elements, population management, bugs, Hamas trivia
 [^ref-5]: [Steam Store – Lords of the Realm II](https://store.steampowered.com/app/397350/Lords_of_the_Realm_II/) – user reviews, PC Gamer quote, system requirements
 [^ref-6]: [Wikipedia – Lords of the Realm II](https://en.wikipedia.org/wiki/Lords_of_the_Realm_II) – release dates, designers, sales data, development quotes
@@ -300,10 +298,10 @@ The comparison to Total War is apt but also highlights what Lords II does differ
 [^ref-10]: [GameFAQs Strategy Guide by brian_sulpher](https://gamefaqs.gamespot.com/pc/197801-lords-of-the-realm-ii/faqs/33216) – game introduction quote, unit types
 [^ref-11]: [ModDB – Lords of the Realm II](https://www.moddb.com/games/lords-of-the-realm-ii) – game description, steward feature
 [^ref-12]: [AllGame Archive Review](https://web.archive.org/web/20141116100835/https://www.allgame.com/game.php?id=15121&tab=review) – AI opponents, maps, voice acting
-[^ref-13]: [MyAbandonware – Lords of the Realm II](https://www.myabandonware.com/game/lords-of-the-realm-ii-3m9) – HOTUD quotes, voice acting praise, user rating
+[^ref-13]: MyAbandonware – Lords of the Realm II *(download link removed: the game is sold commercially)* – HOTUD quotes, voice acting praise, user rating
 [^ref-14]: [OpenLotR2 Documentation – Part 5](https://openlotr2.readthedocs.io/en/latest/game/Part-5.html) – battle mechanics, happiness revolt threshold
 [^ref-15]: [GOG Store – Lords of the Realm: Royal Edition](https://www.gog.com/en/game/lords_of_the_realm_royal_edition) – game description, user reviews, campaign settings
-[^ref-16]: [Games Nostalgia – Lords of the Realm II](https://gamesnostalgia.com/game/lords-of-the-realm-ii) – interface simplicity, remake assessment, version info
+[^ref-16]: Games Nostalgia – Lords of the Realm II *(download link removed: the game is sold commercially)* – interface simplicity, remake assessment, version info
 [^ref-17]: [Wikipedia – Lords of the Realm (1994)](https://en.wikipedia.org/wiki/Lords_of_the_Realm) – awards, PC Gamer US quote, The One review
 [^ref-18]: [Steam Community Guide by Sir Edward](https://steamcommunity.com/sharedfiles/filedetails/?id=1128722561) – micromanagement advice, multiplayer limitations, maximum population
 [^ref-19]: [Metacritic – Lords of the Realm II](https://www.metacritic.com/game/lords-of-the-realm-ii/) – PC Gamer score, TotalGames score, GameSpot score, Adrenaline Vault quote, user reviews
@@ -329,7 +327,7 @@ The comparison to Total War is apt but also highlights what Lords II does differ
 [^ref-40]: [GameSpot Archive – First Half 1997](https://web.archive.org/web/20000307163045/http://headline.gamespot.com/news/97_09/12_toptwenty/index.html) – annual ranking
 [^ref-41]: [GameCenter Archive – December 1996](https://web.archive.org/web/19970718224800/http://www.gamecenter.com/News/Item/0,3,527,00.html) – launch month chart position
 [^ref-42]: [Home of the Underdogs – Siege Pack](https://web.archive.org/web/*/https://homeoftheunderdogs.net/game.php?id=4600) – expansion review and rating
-[^ref-43]: [MyAbandonware – Siege Pack](https://www.myabandonware.com/game/lords-of-the-realm-ii-siege-pack-bdd) – expansion features
+[^ref-43]: MyAbandonware – Siege Pack *(download link removed: the game is sold commercially)* – expansion features
 [^ref-44]: [MobyGames – Lords of the Realm Series](https://www.mobygames.com/group/262/lords-of-the-realm-series/) – compilation releases
 [^ref-45]: [Speedrun.com – Lords of the Realm II](https://www.speedrun.com/lords_of_the_realm_ii) – speedrun records, community data
 [^ref-46]: [Amazon – Lords of the Realm II Manual](https://www.amazon.com/Lords-Realm-II-Guide-Manual/dp/B000ILEU2K) – manual review

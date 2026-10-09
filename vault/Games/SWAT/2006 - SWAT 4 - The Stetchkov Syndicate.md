@@ -10,7 +10,7 @@ series: SWAT
 engine: Vengeance Engine (Unreal Engine 2)
 protagonist: SWAT Team Leader
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Antonio Gambale]
 description: 'SWAT 4: The Stetchkov Syndicate is an expansion pack for the critically
   acclaimed tactical first-person shooter SWAT 4, developed by Irrational Games and...'
@@ -18,7 +18,7 @@ tags: [2000s, shooter, sierra, swat]
 ---
 # SWAT 4: The Stetchkov Syndicate
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -260,7 +260,6 @@ Tragically, The Stetchkov Syndicate would prove to be the final entry in the SWA
 - [GOG.com – SWAT 4: Gold Edition](https://www.gog.com/en/game/swat_4_gold_edition)
 
 **Download / Preservation**
-- [Internet Archive – SWAT 4: The Stetchkov Syndicate (European)](https://archive.org/details/swat-4-exp)
 
 **Manuals & Extras**
 - [Game Manual (DjVu Text)](https://archive.org/stream/SWAT_4_-_The_Stetchkov_Syndicate_-_Manual/SWAT_4_-_The_Stetchkov_Syndicate_-_Manual_djvu.txt)
@@ -293,7 +292,7 @@ Tragically, The Stetchkov Syndicate would prove to be the final entry in the SWA
 [^ref-7]: [GOG.com – SWAT 4: Gold Edition](https://www.gog.com/en/game/swat_4_gold_edition) – user reviews, digital availability, server shutdown notice
 [^ref-8]: [IMDB – SWAT 4: The Stetchkov Syndicate Credits](https://m.imdb.com/title/tt0808452/fullcredits/composer) – voice cast, production credits
 [^ref-9]: [Wikipedia – SWAT 4 (Main Article)](https://en.wikipedia.org/wiki/SWAT_4%3A_The_Stetchkov_Syndicate) – Metacritic score, sales data, awards, design philosophy
-[^ref-11]: [GameFabrique – SWAT 4: The Stetchkov Syndicate](https://gamefabrique.com/games/swat-4-the-stetchkov-syndicate/) – Russian syndicate theme, gameplay additions
+[^ref-11]: GameFabrique – SWAT 4: The Stetchkov Syndicate *(download link removed: the game is sold commercially)* – Russian syndicate theme, gameplay additions
 [^ref-12]: [Cult Classic Corner – Game Review](https://cultclassiccornervideogames.wordpress.com/2019/04/29/swat-4-the-stetchkov-syndicate-2006-game-review/) – AI issues, bugs, environmental details
 [^ref-13]: [Sierra Chest – Music](https://sierrachest.com/index.php?a=games&id=75&title=swat-4-stetchkov-syndicate&fld=music) – mission location names from soundtrack
 [^ref-14]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/73270-swat-4-the-stetchkov-syndicate) – expansion features, release dates, ESRB rating
@@ -315,7 +314,7 @@ Tragically, The Stetchkov Syndicate would prove to be the final entry in the SWA
 [^ref-30]: [MobyGames – Technical Specs](https://www.mobygames.com/game/21450/swat-4-the-stetchkov-syndicate/specs/) – system requirements, supported resolutions
 [^ref-31]: [GameCopyWorld – SWAT 4](https://gamecopyworld.com/games/pc_swat_4.shtml) – patch dates, SecuROM protection
 [^ref-32]: [GamePressure – SEF Community Mod](https://www.gamepressure.com/download.asp?ID=76834) – mod description, bug mentions, cut content restoration
-[^ref-33]: [Internet Archive – European Version](https://archive.org/details/swat-4-exp) – March 10, 2006 EU release date
+[^ref-33]: Internet Archive – European Version *(download link removed: the game is sold commercially)* – March 10, 2006 EU release date
 [^ref-34]: [IGN – SWAT 4 Review](https://www.ign.com/articles/2005/03/31/swat-4) – AI inconsistency quote, sound glitch, 9/10 score
 [^ref-35]: [MobyGames – Gold Edition](https://www.mobygames.com/game/swat-4-gold-edition) – media types, compilation info
 [^ref-36]: [GamePressure – SAS Mod](https://www.gamepressure.com/download/swat-4-the-stetchkov-syndicate-sas-mod-v11/z0c3f4) – mod features and description

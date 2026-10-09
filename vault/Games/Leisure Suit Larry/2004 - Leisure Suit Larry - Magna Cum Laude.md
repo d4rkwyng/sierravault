@@ -311,7 +311,6 @@ The game's poor reception contributed to the series' dormancy until Al Lowe's re
 - [GOG](https://www.gog.com/en/game/leisure_suit_larry_magna_cum_laude_uncut_and_uncensored) - Uncut and Uncensored version
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/LeisureSuitLarryMagnaCumLaude_922)
 
 ## See Also
 
@@ -332,7 +331,7 @@ The game's poor reception contributed to the series' dormancy until Al Lowe's re
 
 [^ref-1]: [Wikipedia – Leisure Suit Larry: Magna Cum Laude](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) – release dates, ratings, awards, development history, version information
 [^ref-2]: [MobyGames – Leisure Suit Larry: Magna Cum Laude](https://www.mobygames.com/game/15118/leisure-suit-larry-magna-cum-laude/) – developer credits, awards, trivia, user reviews
-[^ref-3]: [Internet Archive – Game Preservation](https://archive.org/details/LeisureSuitLarryMagnaCumLaude_922) – release date, developer, story description
+[^ref-3]: Internet Archive – Game Preservation *(download link removed: the game is sold commercially)* – release date, developer, story description
 [^ref-4]: [Hardcore Gaming 101 – Leisure Suit Larry: Magna Cum Laude](http://www.hardcoregaming101.net/leisure-suit-larry-magna-cum-laude/) – development history, gameplay analysis
 [^ref-5]: [Al Lowe's Website – Magna Cum Laude](https://web.archive.org/web/20180504234238/http://allowe.com/games/larry/history-of-larry/magna-cum-laude.html) – creator's perspective, development exclusion, critical assessment
 [^ref-6]: [eBay Product Listings](https://www.ebay.com/p/30580734) – developer info, inspiration, platform details

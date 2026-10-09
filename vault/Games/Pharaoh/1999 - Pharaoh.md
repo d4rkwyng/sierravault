@@ -10,14 +10,14 @@ series: Impressions City Building Series
 engine: Caesar III engine (modified)
 protagonist: Egyptian Governor (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-04-21'
+last_updated: '2026-10-09'
 description: Pharaoh is a city-building simulation game set in ancient Egypt, developed
   by Impressions Games and published by Sierra Studios in 1999. As the fourth game...
 tags: [1990s, impressions-city-building-series, sierra]
 ---
 # Pharaoh
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -140,8 +140,6 @@ The game's influence extends to the broader city-building genre, establishing co
 - [Steam - Pharaoh: A New Era](https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/)
 
 **Download / Preservation**
-- [Internet Archive - Pharaoh](https://archive.org/details/pharaoh_202104)
-- [Internet Archive - Pharaoh + Cleopatra](https://archive.org/details/pharaohcleopatrausarereleasealt)
 
 ## See Also
 
@@ -152,7 +150,7 @@ The game's influence extends to the broader city-building genre, establishing co
 ## References
 
 [^ref-1]: [Wikipedia - Pharaoh (video game)](https://en.wikipedia.org/wiki/Pharaoh_(video_game) – ) - Basic game information, developer, publisher, release year
-[^ref-2]: [Internet Archive - Pharaoh](https://archive.org/details/pharaohcleopatrausarereleasealt) – - Game description and series information
+[^ref-2]: Internet Archive - Pharaoh *(download link removed: the game is sold commercially)* – - Game description and series information
 [^ref-3]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Pharaoh) – - Engine and technical details
 [^ref-4]: [Common Sense Media Review](https://www.commonsensemedia.org/game-reviews/pharaoh-a-new-era) – - Development consultation with Egyptologists
 [^ref-5]: [Caesar3 Heaven Games Forum](https://caesar3.heavengames.com/cgi-bin/forums/display.cgi?action=ct&f=1,4992,575,all) – - Composer quotes about game scope
@@ -166,7 +164,7 @@ The game's influence extends to the broader city-building genre, establishing co
 [^ref-13]: [Strategy Wiki - Pharaoh](https://strategywiki.org/wiki/Pharaoh) – - Control scheme and interface
 [^ref-14]: [GameSpot Review](https://www.gamespot.com/reviews/pharaoh-review/1900-2545838/) – - Egyptian-specific gameplay mechanics
 [^ref-15]: [Caesar3 Heaven Games Mechanics Forum](https://caesar3.heavengames.com/cgi-bin/caeforumscgi/display.cgi?action=ct&f=25,7976,0,365) – - Walker movement and bazaar range data
-[^ref-16]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pharaoh&gid=1871) – - User comment about monument construction times
+[^ref-16]: Abandonware DOS *(download link removed: the game is sold commercially)* – - User comment about monument construction times
 [^ref-17]: [IGN Review](https://www.ign.com/articles/1999/11/13/pharaoh) – - Contemporary review score and assessment
 [^ref-18]: [Archived GameRankings](https://web.archive.org/web/20190525131840/https://www.gamerankings.com/pc/198289-pharaoh/index.html) – - Aggregate review score
 [^ref-19]: [Jeuxvideo.com Review](https://www.jeuxvideo.com/articles/0000/00000335_test.htm) – - French review score

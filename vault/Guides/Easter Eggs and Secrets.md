@@ -1,7 +1,7 @@
 ---
 title: "Easter Eggs and Secrets"
 type: guide
-last_updated: "2026-05-11"
+last_updated: '2026-10-09'
 ---
 # Easter Eggs and Secrets: Sierra's Hidden Treasures
 
@@ -251,7 +251,7 @@ Some easter eggs only appear on return visits:
 
 [^ref-15]: [[Sierra Deaths]] – King's Quest II Williams message
 
-[^ref-16]: [ClassicReload – Leisure Suit Larry 7](https://classicreload.com/leisure-suit-larry-love-for-sail.html) – Where's Dildo? system details
+[^ref-16]: ClassicReload – Leisure Suit Larry 7 *(download link removed: the game is sold commercially)* – Where's Dildo? system details
 
 [^ref-17]: [Al Lowe's Official Hints Page](https://allowe.com/games/larry/tips-manuals/lsl7-hints.html) – Easter egg descriptions, developer commentary
 

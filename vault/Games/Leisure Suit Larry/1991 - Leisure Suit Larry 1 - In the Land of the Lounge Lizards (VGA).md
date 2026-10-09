@@ -281,8 +281,6 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 - [GOG.com](https://www.gog.com/) – Available as part of Leisure Suit Larry collections
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/msdos_Leisure_Suit_Larry_1_-_Land_of_the_Lounge_Lizards_VGA_1991) – Playable in browser
-- [My Abandonware](https://www.myabandonware.com/game/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards-2wt) – Note: Currently marked as commercially available
 
 **Compatibility**
 - ScummVM provides full compatibility for modern systems[^ref-28]
@@ -306,7 +304,7 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 
 [^ref-1]: [MobyGames – Leisure Suit Larry 1 VGA](https://www.mobygames.com/game/413/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards/) – release dates, credits, trivia, ratings, technical specifications
 
-[^ref-2]: [Abandonware DOS – Leisure Suit Larry 1](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Leisure+Suit+Larry+1:+In+the+Land+of+the+Lounge+Lizards&gid=1258) – awards, ratings, platform information
+[^ref-2]: Abandonware DOS – Leisure Suit Larry 1 *(download link removed: the game is sold commercially)* – awards, ratings, platform information
 
 [^ref-3]: [Adventure Classic Gaming – Review](https://web.archive.org/web/20121028154514/http://www.adventureclassicgaming.com/index.php/site/reviews/264/) – technical comparison, review score, development history
 
@@ -316,7 +314,7 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 
 [^ref-6]: [PCGamingWiki – Leisure Suit Larry](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards) – engine information, technical specifications, compatibility
 
-[^ref-7]: [DOS Games Archive – Leisure Suit Larry 1](https://www.dosgamesarchive.com/download/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards/) – official game description
+[^ref-7]: DOS Games Archive – Leisure Suit Larry 1 *(download link removed: the game is sold commercially)* – official game description
 
 [^ref-8]: [Adventure Gamers – Walkthrough by Tom Hayes](https://web.archive.org/web/20211028011429/https://adventuregamers.com/walkthrough/full/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards-vga) – game locations, structure
 
@@ -340,7 +338,7 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 
 [^ref-18]: [IMDB – Leisure Suit Larry 1 VGA](https://www.imdb.com/title/tt0289277/) – user rating, trivia
 
-[^ref-19]: [My Abandonware – Leisure Suit Larry 1](https://www.myabandonware.com/game/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards-2wt) – user ratings, release information
+[^ref-19]: My Abandonware – Leisure Suit Larry 1 *(download link removed: the game is sold commercially)* – user ratings, release information
 
 [^ref-20]: [Esquire – Leisure Suit Larry and Me (Archived)](https://web.archive.org/web/20160704192626/http://www.esquire.com/entertainment/a26554/leisure-suit-larry-and-me/) – development anecdotes, sales figures, character design
 
@@ -350,13 +348,13 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 
 [^ref-23]: [MIDI Music Adventures – LSL1 Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/lsl1/) – soundtrack details, audio specifications
 
-[^ref-24]: [Internet Archive – Leisure Suit Larry 1 VGA](https://archive.org/details/msdos_Leisure_Suit_Larry_1_-_Land_of_the_Lounge_Lizards_VGA_1991) – game description, audio features
+[^ref-24]: Internet Archive – Leisure Suit Larry 1 VGA *(download link removed: the game is sold commercially)* – game description, audio features
 
 [^ref-25]: [Sierra Help Pages – LSL1 VGA Help](https://sierrahelp.com/Games/LeisureSuitLarry/LSL1VGAHelp.html) – system requirements, technical issues
 
 [^ref-26]: [MobyGames – User Review by Katakis](https://www.mobygames.com/game/413/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards/user-review/2373564/) – version differences, removed features
 
-[^ref-27]: [Games Nostalgia – Leisure Suit Larry 1](https://gamesnostalgia.com/game/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards) – version information, bugs
+[^ref-27]: Games Nostalgia – Leisure Suit Larry 1 *(download link removed: the game is sold commercially)* – version information, bugs
 
 [^ref-28]: [Steam Community – Leisure Suit Larry](https://steamcommunity.com/app/763970) – compatibility notes, ScummVM support
 
@@ -370,7 +368,7 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 
 [^ref-33]: [TIME – All-TIME 100 Video Games](https://techland.time.com/2012/11/15/all-time-100-video-games/slide/all/) – award recognition
 
-[^ref-34]: [Internet Archive – Greatest Hits and Misses](https://archive.org/details/leisuresuitlarrysgreatesthitsandmissesusa) – compilation contents
+[^ref-34]: Internet Archive – Greatest Hits and Misses *(download link removed: the game is sold commercially)* – compilation contents
 
 [^ref-35]: [GOG Database](https://www.gogdb.org/product/1207662033) – digital distribution information
 

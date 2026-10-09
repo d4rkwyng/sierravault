@@ -10,7 +10,7 @@ series: 3D Ultra Minigolf
 engine: Wanako Engine
 protagonist: Customizable Golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-05-27'
+last_updated: '2026-10-09'
 description: 3D Ultra Minigolf Adventures is an arcade-style miniature golf video
   game developed by Wanako Games and published by Vivendi Games under the Sierra On-Line...
 tags: [2000s, 3d-ultra-minigolf, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3D Ultra Minigolf Adventures
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -239,7 +239,7 @@ The game is perhaps best remembered as a competent but unremarkable entry in the
 [^ref-8]: [ZTGD – 3D Ultra Minigolf Adventures](https://ztgd.com/reviews/3d-ultra-minigolf-adventures/) – course descriptions, visuals, sound criticism
 [^ref-9]: [IGN – 3D Ultra Minigolf Adventures Review](https://www.ign.com/articles/2007/04/18/3d-ultra-minigolf-adventures-review) – Jonathan Miller review, hole descriptions, tournament modes
 [^ref-10]: [GamesRadar – 3D Ultra Mini Golf Adventures Review](https://www.gamesradar.com/3d-ultra-minigolf-adventures-xbox-live-arcade-review/) – control options, physics criticism
-[^ref-11]: [Collection Chamber – 3D Ultra Minigolf](https://collectionchamber.blogspot.com/p/3d-ultra-mini-golf.html) – original series description, gameplay features
+[^ref-11]: Collection Chamber – 3D Ultra Minigolf *(download link removed: the game is sold commercially)* – original series description, gameplay features
 [^ref-12]: [Eurogamer – 3D Ultra Minigolf Adventures Review](https://www.eurogamer.net/3d-ultra-minigolf-adventures-review) – critical assessment, character options
 [^ref-13]: [TrueAchievements – 3D Ultra Minigolf Adventures Reviews](https://www.trueachievements.com/game/3D-Ultra-Minigolf-Adventures/reviews) – achievement guidance, save system exploit
 [^ref-14]: [IGN – 3D Ultra Minigolf Adventures](https://www.ign.com/games/3d-ultra-minigolf-adventures) – HowLongToBeat data, Dolby Digital support, Vivendi acquisition news

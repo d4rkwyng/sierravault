@@ -10,14 +10,14 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded is a
   2013 HD remake of Al Lowe''s classic 1987 Sierra adventure game. The project was...'
 tags: [2010s, adventure, al-lowe, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -139,7 +139,7 @@ The game was eventually delisted from Steam and other digital platforms[^ref-15]
 ## References
 
 [^ref-1]: [3rd World Geeks Review](https://3rdworldgeeks.com/2013/11/20/ill-review-anything-leisure-suit-larry-reloaded/) – - Gameplay length and overall assessment
-[^ref-3]: [Abandonware DOS Search](https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry%3A+Reloaded) – - No content about Reloaded specifically
+[^ref-3]: Abandonware DOS Search *(download link removed: the game is sold commercially)* – - No content about Reloaded specifically
 [^ref-8]: [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/leisure-suit-larry-reloaded/) – - Comprehensive voice cast information
 [^ref-9]: [Financial Post](http://business.financialpost.com/2013/01/16/steam-greenlights-their-fourth-set-of-games-with-the-communitys-help/) – - Steam Greenlight approval context
 [^ref-12]: [Choicest Games Game Review](https://www.choicestgames.com/2014/09/leisure-suit-larry-reloaded-review.html) – - Detailed scoring breakdown

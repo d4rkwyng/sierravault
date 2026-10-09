@@ -10,14 +10,14 @@ series: Moebius
 engine: Unity
 protagonist: Malachi Rector
 sierra_lineage: Spiritual Successor
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: 'Moebius: Empire Rising is a point-and-click adventure game developed
   by Pinkerton Road Studios and published by Phoenix Online Publishing in 2014. Created...'
 tags: [2010s, adventure, jane-jensen, moebius, sierra]
 ---
 # Moebius: Empire Rising
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -158,7 +158,7 @@ While Moebius did not achieve the critical success of Jensen's Gabriel Knight se
 [^ref-1]: [IMDb](https://www.imdb.com/title/tt4054536/) – - Game credits and basic information
 [^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/Moebius:_Empire_Rising) – - Kickstarter funding details
 [^ref-3]: [Wikipedia](https://en.wikipedia.org/wiki/Moebius%3A_Empire_Rising) – - Character description
-[^ref-4]: [FreeGOGPCGames](https://freegogpcgames.com/27163/moebius-empire-rising/) – - Game description
+[^ref-4]: FreeGOGPCGames *(download link removed: the game is sold commercially)* – - Game description
 [^ref-5]: [MobyGames](https://www.mobygames.com/game/67586/moebius-empire-rising/) – - Gameplay mechanics
 [^ref-6]: [Game Critics](https://gamecritics.com/tayo-stalnaker/moebius-empire-rising-review/) – - Genre description
 [^ref-7]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Moebius:_Empire_Rising) – - Platform information

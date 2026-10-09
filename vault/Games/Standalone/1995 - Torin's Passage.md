@@ -124,8 +124,6 @@ The game's artistic achievement combined high-quality animation with detailed ba
 - [GOG.com](https://www.gog.com/en/game/torins_passage)
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/torin-s-passage-33b)
-- [Internet Archive](https://archive.org/details/msdos_Torins_Passage_1995)
 
 ## See Also
 
@@ -165,7 +163,7 @@ Professional voice acting brought characters to life with distinct accents and e
 [^ref-1]: [MobyGames - Torin's Passage](https://www.mobygames.com/game/1228/torins-passage/) – - Release year and developer information
 [^ref-2]: [Wikipedia - Torin's Passage](https://en.wikipedia.org/wiki/Torin%27s_Passage) – - Family-friendly design philosophy
 [^ref-3]: [Al Lowe's Website - About Torin](https://allowe.com/games/torin/about-torin.html) – - Mrs. Doubtfire inspiration quote
-[^ref-4]: [GamesNostalgia - Torin's Passage](https://gamesnostalgia.com/game/torins-passage) – - Plot summary with Lycentia and Boogle
+[^ref-4]: GamesNostalgia - Torin's Passage *(download link removed: the game is sold commercially)* – - Plot summary with Lycentia and Boogle
 [^ref-5]: [Al Lowe's Website - Music Downloads](https://allowe.com/games/torin/music-downloads.html) – - Michel LeGrand composer credit
 [^ref-6]: [Fake Geek Boy - The Last Adventures of Sierra](https://fakegeekboy.wordpress.com/2020/08/05/gogathon-the-last-adventures-of-sierra/) – - Sierra's transition away from adventure games
 [^ref-7]: [Grokipedia - Torin's Passage](https://grokipedia.com/page/Torin%27s_Passage) – - Developer information
@@ -180,7 +178,7 @@ Professional voice acting brought characters to life with distinct accents and e
 [^ref-16]: Adventure Gamers Review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - Interface description
 [^ref-17]: [Amazon Customer Reviews](https://www.amazon.com/Torins-Passage-Sierra-Online/dp/B000VP5BPI) – - Built-in hint system
 [^ref-18]: [Sierra Help Wiki](https://wiki.sierrahelp.com/index.php/Torin%27s_Passage_Technical) – - Game structure information
-[^ref-19]: [Old-Games.com Review](https://www.old-games.com/download/8498/torin-s-passage) – - Chapter selection feature
+[^ref-19]: Old-Games.com Review *(download link removed: the game is sold commercially)* – - Chapter selection feature
 [^ref-20]: [GameFAQs User Review](https://gamefaqs.gamespot.com/pc/199073-torins-passage/reviews/58953) – - Puzzle design assessment
 [^ref-21]: [GameSpot Review](http://www.gamespot.com/pc/adventure/torinspassage/review.html) – - Difficulty assessment quote
 [^ref-22]: [PC Gamer Archive](https://web.archive.org/web/20000308113833/http://www.pcgamer.com/reviews/1081.html) – - Score and review notes

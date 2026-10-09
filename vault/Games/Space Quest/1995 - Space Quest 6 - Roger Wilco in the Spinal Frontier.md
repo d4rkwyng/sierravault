@@ -190,8 +190,6 @@ This game has been included in the following collections:
 
 **Download / Preservation**
 
-- [Internet Archive – Space Quest 6](https://archive.org/details/space-quest-6-roger-wilco-in-the-spinal-frontier)[^ref-10]
-- [My Abandonware – Space Quest 6](https://www.myabandonware.com/game/space-quest-6-roger-wilco-in-the-spinal-frontier-333)[^ref-8]
 
 **Manuals & Extras**
 
@@ -233,9 +231,9 @@ This game has been included in the following collections:
 [^ref-5]: [PCGamingWiki – Space Quest 6](https://www.pcgamingwiki.com/wiki/Space_Quest_6%3A_Roger_Wilco_in_The_Spinal_Frontier) – technical specs, fixes
 [^ref-6]: [MobyGames – Space Quest 6](https://www.mobygames.com/game/145/space-quest-6-roger-wilco-in-the-spinal-frontier/) – developer, publisher, platforms, credits, 7.5 MobyScore, 73% critics
 [^ref-7]: [GOG – Space Quest 4+5+6](https://www.gog.com/en/game/space_quest_4_5_6) – purchase, user reviews
-[^ref-8]: [My Abandonware – Space Quest 6](https://www.myabandonware.com/game/space-quest-6-roger-wilco-in-the-spinal-frontier-333) – platforms, availability
+[^ref-8]: My Abandonware – Space Quest 6 *(download link removed: the game is sold commercially)* – platforms, availability
 [^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
-[^ref-10]: [Internet Archive – Space Quest 6](https://archive.org/details/space-quest-6-roger-wilco-in-the-spinal-frontier) – preservation, historical versions
+[^ref-10]: Internet Archive – Space Quest 6 *(download link removed: the game is sold commercially)* – preservation, historical versions
 [^ref-11]: [WiW – Space Quest 6 Point List](https://wiw.org/~jess/sq6pts.html) – complete point list
 [^ref-12]: [SpaceQuest.net – Space Quest 6 Credits](https://spacequest.net/sq6/credits.php) – voice cast, development team, composers
 [^ref-13]: [ScummVM Wiki – Space Quest 6](https://wiki.scummvm.org/index.php?title=Space_Quest_6) – engine support since ScummVM 2.0.0

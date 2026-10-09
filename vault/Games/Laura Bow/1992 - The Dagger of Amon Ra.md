@@ -10,7 +10,7 @@ series: Laura Bow
 engine: SCI 1.1
 protagonist: Laura Bow
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 composer: [Christopher G. Braymen]
 description: '*The Dagger of Amon Ra* is a murder mystery adventure game developed
   and published by Sierra On-Line in 1992, serving as the second and final installment
@@ -19,7 +19,7 @@ tags: [1990s, adventure, laura-bow, roberta-williams, sci, sierra]
 ---
 # The Dagger of Amon Ra
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -298,8 +298,6 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 - [GOG.com](https://www.gog.com/en/game/the_dagger_of_amon_ra) - ScummVM-based version
 
 **Download / Preservation**
-- [Internet Archive – DOS Version](https://archive.org/details/msdos_Laura_Bow_2_-_The_Dagger_of_Amon_Ra_1992)
-- [MyAbandonware](https://www.myabandonware.com/game/the-dagger-of-amon-ra-1wr)
 
 **Manuals & Extras**
 - [Game Manual (Archive.org)](https://archive.org/stream/Laura_Bow_Dagger_Of_Amon_Ra_Manual/Laura_Bow_Dagger_Of_Amon_Ra_Manual_djvu.txt)
@@ -327,7 +325,7 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 [^ref-12]: [The Adventurers' Guild – Final Rating](https://advgamer.blogspot.com/2017/10/the-dagger-of-amon-ra-final-rating.html) – detailed scoring, bugs documentation, dead man walking scenarios
 [^ref-13]: [Grokipedia – The Dagger of Amon Ra](https://grokipedia.com/page/The_Dagger_of_Amon_Ra) – voice cast, sales data, multiple endings
 [^ref-14]: [Archive.org – Apple Manual](https://archive.org/stream/Laura_Bow_Dagger_Of_Amon_Ra_Manual/Laura_Bow_Dagger_Of_Amon_Ra_Manual_djvu.txt) – gameplay instructions, Ask icon, notebook system
-[^ref-15]: [Play Classic Games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-dagger-amon-ra-online/) – interface description
+[^ref-15]: Play Classic Games *(download link removed: the game is sold commercially)* – interface description
 [^ref-9]: [Sierra Chest – Walkthrough](https://www.sierrachest.com/index.php?a=games&id=34&fld=walkthrough) – interface mechanics
 [^ref-17]: [Campo Santo Quarterly Review](https://quarterly.camposanto.com/selected-stories-from-the-days-of-laura-bow-5302099438a7) – developer interviews, Leslie Balfour quote, copy protection details
 [^ref-18]: [MIDI Music Adventures – Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/dagger-of-amon-ra/) – act titles, character names, locations
@@ -335,8 +333,8 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 [^ref-20]: [Sierra Planet – Walkthrough](http://www.sierraplanet.net/other-sierra-games/laura-bow-2/game-walkthrough/) – copy protection details, character notes
 [^ref-21]: [Laura Bow Fandom Wiki](https://laurabow.fandom.com/wiki/The_Dagger_of_Amon_Ra) – CD-ROM version changes, development credits
 [^ref-22]: [IMDb – The Dagger of Amon Ra](https://www.imdb.com/title/tt0363758/) – user ratings, cast list
-[^ref-23]: [OldGames.sk – Laura Bow 2](https://www.oldgames.sk/en/game/laura-bow-2-the-dagger-of-amon-ra/download/2227/) – rating, Tulane University detail
-[^ref-24]: [MyAbandonware](https://www.myabandonware.com/game/the-dagger-of-amon-ra-1wr) – user ratings, user quotes
+[^ref-23]: OldGames.sk – Laura Bow 2 *(download link removed: the game is sold commercially)* – rating, Tulane University detail
+[^ref-24]: MyAbandonware *(download link removed: the game is sold commercially)* – user ratings, user quotes
 [^ref-25]: [PC Gamer – 30 Years Later](https://www.pcgamer.com/30-years-later-sierras-laura-bow-mysteries-are-still-a-treasure/) – Josh Mandel quotes, development origins, Leyendecker inspiration
 [^ref-26]: [The Digital Antiquarian](https://www.filfre.net/?s=The+Dagger+of+Amon+Ra) – Roberta Williams executive designer role
 [^ref-27]: [TV Tropes – The Dagger of Amon Ra](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheDaggerofAmonRa) – CD-ROM changes, third game announcement, budget constraints quote

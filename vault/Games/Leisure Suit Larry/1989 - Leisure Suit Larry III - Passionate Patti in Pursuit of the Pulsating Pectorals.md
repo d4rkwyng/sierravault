@@ -184,7 +184,6 @@ The game is also included in various compilations including the Leisure Suit Lar
 - Previously available on ZOOM Platform (delisted March 31, 2023)[^ref-32]
 
 **Preservation Archives**
-- [MyAbandonware](https://www.myabandonware.com/game/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsating-pectorals-27s) - User rating 4.44/5[^ref-22]
 - [Internet Archive](https://archive.org/details/Leisure_Suit_Larry_3_-_Manual) - Manual preservation[^ref-25]
 
 ## See Also
@@ -207,7 +206,7 @@ The game is also included in various compilations including the Leisure Suit Lar
 [^ref-1]: [Adventure Classic Gaming Review](https://www.adventureclassicgaming.com/index.php/site/reviews/355/) – - Release date and basic information
 [^ref-2]: [Adventure Gamers – Leisure Suit Larry 3 review](https://web.archive.org/web/20091017082200/http://www.adventuregamers.com/article/id%2C367) – - Series information and adult content return
 [^ref-3]: [MobyGames Database Entry](https://www.mobygames.com/game/412/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsat/) – - Technical specifications and engine details
-[^ref-4]: [PlayClassic Games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsating-pectorals-online/) – - Dual protagonist gameplay mechanics
+[^ref-4]: PlayClassic Games *(download link removed: the game is sold commercially)* – - Dual protagonist gameplay mechanics
 [^ref-5]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals) – - Platform compatibility information
 [^ref-6]: [Reddit Adventure Games Discussion](https://www.reddit.com/r/adventuregames/comments/1josmwn/blog_post_leisure_suit_larry_iii_passionate_patti/) – - Story timeline connection
 [^ref-7]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/565082-leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the/faqs/23246) – - Setting and plot details
@@ -223,14 +222,14 @@ The game is also included in various compilations including the Leisure Suit Lar
 [^ref-18]: [Retro Replay Review](https://retro-replay.com/db/dos/leisure-suit-larry-triple-pack/) – - Dual protagonist mechanics
 [^ref-19]: [Adventure Classic Gaming Archive](https://web.archive.org/web/20230512154254/https://www.adventureclassicgaming.com/index.php/site/reviews/355/) – - Traditional mechanics description
 [^ref-21]: [Adventure Gamers Archive](https://web.archive.org/web/20091017082200/http://www.adventuregamers.com/article/id%2C367) – - Final assessment quote
-[^ref-22]: [MyAbandonware Page](https://www.myabandonware.com/game/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsating-pectorals-27s) – - User rating
+[^ref-22]: MyAbandonware Page *(download link removed: the game is sold commercially)* – - User rating
 [^ref-23]: [Metacritic Page](https://www.metacritic.com/game/leisure-suit-larry-iii-passionate-patti-in-pursui/) – - User rating information
 [^ref-24]: [Al Lowe Official Website](https://allowe.com/games/larry/tips-manuals/larry-manuals.html) – - Development credits
 [^ref-25]: [Internet Archive Manual](https://archive.org/details/Leisure_Suit_Larry_3_-_Manual) – - Documentation preservation
 [^ref-26]: [Al Lowe Archive Article](https://web.archive.org/web/20040203141037/http://www.allowe.com/AL/adventuredead.htm) – - Sales figures
 [^ref-27]: [Speedrun.com Leaderboards](https://www.speedrun.com/larry3) – - Modern community engagement
 [^ref-28]: [GOG Support Page](https://support.gog.com/hc/en-us/articles/213523609-Leisure-Suit-Larry-3-Passionate-Patti-in-Pursuit-of-the-Pulsating-Pectorals) – - Digital distribution
-[^ref-29]: [Abandonware DOS Search](https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry+III%3A+Passionate+Patti+in+Pursuit+of+the+Pulsating+Pectorals) – - Archive availability
+[^ref-29]: Abandonware DOS Search *(download link removed: the game is sold commercially)* – - Archive availability
 [^ref-30]: [Steam Community Discussion](https://steamcommunity.com/app/765850) – - Modern compatibility
 [^ref-31]: [ScummVM Wiki](https://wiki.scummvm.org/index.php/Leisure_Suit_Larry_Iii_Passionate_Patti_In_Pursuit_Of_The_Pulsating_Pectorals) – - Access restrictions noted
 [^ref-32]: [MobyGames Collection Entry](https://www.mobygames.com/game/27943/leisure-suit-larry-collection/) – - Distribution history

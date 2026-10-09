@@ -199,7 +199,6 @@ Jim Walls would continue at Sierra with Police Quest 3 before departing the comp
 
 **Download / Preservation**
 - [Internet Archive – Manual](https://archive.org/stream/Codename_Iceman_Manual/Codename_Iceman_Manual_djvu.txt) - Game manual[^ref-12]
-- [PlayClassic.games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-code-name-iceman-online/) - Browser playable version[^ref-7]
 
 **Manuals & Extras**
 - [Sierra Gamers – Manual Download](https://www.sierragamers.com/codename-iceman/) - Manual PDF, maps, and hint book[^ref-10]
@@ -242,7 +241,7 @@ Jim Walls would continue at Sierra with Police Quest 3 before departing the comp
 [^ref-4]: [GOG.com – Codename: ICEMAN](https://www.gog.com/en/game/codename_iceman) – product description, user ratings, marketing text
 [^ref-5]: [Time Extension – Codename: Iceman Fanmade Prequel](https://www.timeextension.com/news/2024/11/sierras-brutally-difficult-adventure-codename-iceman-just-got-a-hilarious-fanmade-prequel) – difficulty reputation, fan project details
 [^ref-6]: [Police Quest Omnipedia – Codename: Iceman](https://policequest.fandom.com/wiki/Codename:_Iceman) – development credits, engine info, release date
-[^ref-7]: [PlayClassic.games – Codename: ICEMAN](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-code-name-iceman-online/) – gameplay description, interface details
+[^ref-7]: PlayClassic.games – Codename: ICEMAN *(download link removed: the game is sold commercially)* – gameplay description, interface details
 [^ref-8]: [The Adventurers' Guild – Codename: ICEMAN Final Rating](https://advgamer.blogspot.com/2012/11/game-25-codename-iceman-final-rating.html) – detailed gameplay critique, parser issues, puzzle analysis
 [^ref-9]: [ST Format – Codename: Iceman Review](https://www.everygamegoing.com/larticle/codename-iceman-000/49056/) – contemporary review, technical issues, Atari ST performance
 [^ref-10]: [Sierra Gamers – Codename Iceman](https://www.sierragamers.com/codename-iceman/) – download resources, manual availability

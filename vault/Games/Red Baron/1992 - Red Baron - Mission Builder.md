@@ -10,7 +10,7 @@ series: Red Baron
 engine: 3Space
 protagonist: Player-created WWI pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Cayanie Music]
 description: 'Red Baron: Mission Builder is an expansion pack for the critically acclaimed
   World War I combat flight simulator Red Baron, developed by Dynamix and...'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, red-baron, sierra, simulation]
 ---
 # Red Baron: Mission Builder
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -246,9 +246,6 @@ The Mission Builder expansion demonstrated forward-thinking design philosophy, r
 - [Steam – Red Baron Pack](https://store.steampowered.com/app/263940/Red_Baron_Pack/)
 
 **Download / Preservation**
-- [Internet Archive – Red Baron Mission Builder (3.5" 1992)](https://archive.org/details/red-baron-mission-builder-3.5-1992)
-- [Internet Archive – Red Baron Mission Builder (German)](https://archive.org/details/002245-RedBaronMissionBuilder)
-- [MyAbandonware – Red Baron Mission Builder](https://www.myabandonware.com/game/red-baron-mission-builder-3e0)
 
 **Manuals & Extras**
 - [Internet Archive – Red Baron Manual Collection](https://archive.org/details/red_baron1_manual/rb3d_manual)
@@ -266,8 +263,8 @@ The Mission Builder expansion demonstrated forward-thinking design philosophy, r
 ## References
 
 [^ref-2]: [MobyGames – Red Baron: Mission Builder](https://www.mobygames.com/game/2722/red-baron-mission-builder/) – developer, publisher, release date, credits
-[^ref-3]: [MyAbandonware – Red Baron: Mission Builder](https://www.myabandonware.com/game/red-baron-mission-builder-3e0) – expansion requirement, rating, regions
-[^ref-4]: [MyAbandonware – Red Baron](https://www.myabandonware.com/game/red-baron-zs) – reviews, campaign system, freeware release
+[^ref-3]: MyAbandonware – Red Baron: Mission Builder *(download link removed: the game is sold commercially)* – expansion requirement, rating, regions
+[^ref-4]: MyAbandonware – Red Baron *(download link removed: the game is sold commercially)* – reviews, campaign system, freeware release
 [^ref-5]: [Internet Archive – Red Baron Manual Collection](https://archive.org/details/red_baron1_manual/rb3d_manual) – developer, documentation
 [^ref-6]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – release dates, awards, platforms, historical coverage
 [^ref-7]: [Wikipedia – Red Baron: Mission Builder](https://en.wikipedia.org/wiki/Red_Baron%3A_Mission_Builder) – sales data, Damon Slye quote, Warren Spector quote
@@ -280,7 +277,7 @@ The Mission Builder expansion demonstrated forward-thinking design philosophy, r
 [^ref-15]: [Rock Paper Shotgun – The Flare Path: Slye and the Familiar Stone](https://www.rockpapershotgun.com/2013/10/25/the-flare-path-slye-and-the-familiar-stone/) – Damon Slye interview, development history
 [^ref-16]: [Internet Archive – Sierra Press Release (Red Baron II)](https://web.archive.org/web/20010110043600/http://www.sierra.com/corp/pr/press/3c1a4/1,1891,3c1a4,00.html?brandid=6&prid=60&productid=288) – sales data, technical features, configuration options
 [^ref-17]: [Glitchwave – Red Baron Franchise](https://glitchwave.com/franchise/red-baron/) – user rating
-[^ref-18]: [Internet Archive – Red Baron Mission Builder (German)](https://archive.org/details/002245-RedBaronMissionBuilder) – media type, platform, genre
+[^ref-18]: Internet Archive – Red Baron Mission Builder (German) *(download link removed: the game is sold commercially)* – media type, platform, genre
 [^ref-19]: [Sierra Classic Gaming – Red Baron Mission Builder](https://sierraclassicgaming.com/game/red-baron-mission-builder/) – complete technical specifications
 [^ref-21]: [Kickstarter – Red Baron by Mad Otter Games](http://www.kickstarter.com/projects/madottergames/red-baron) – campaign dates, developer
 [^ref-22]: [Sierra Chest – Red Baron: Mission Builder](https://sierrachest.com/index.php?a=games&id=382&title=red-baron-mission-builder&fld=general) – engine, release date, series information

@@ -10,7 +10,7 @@ series: Ground Control
 engine: Asura / MassTech
 protagonist: Captain Jacob Angelus
 sierra_lineage: Sierra Published
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Ola Strandh]
 description: 'Ground Control II: Operation Exodus is a real-time tactics video game
   developed by Massive Entertainment and published by Vivendi Universal Games in 2004....'
@@ -18,7 +18,7 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control II: Operation Exodus
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -268,8 +268,6 @@ Massive Entertainment would later develop World in Conflict (2007) and eventuall
 - [Steam](https://store.steampowered.com/app/254840/Ground_Control_II_Operation_Exodus/) - Digital release[^ref-13]
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/gc2-pl) - Polish retail release preservation[^ref-38]
-- [MyAbandonware](https://www.myabandonware.com/game/ground-control-ii-operation-exodus-d2w) - Game archive[^ref-29]
 
 **Patches & Mods**
 - [ModDB](https://www.moddb.com/games/ground-control-ii) - Patches and fan site kit[^ref-14]
@@ -307,13 +305,13 @@ Massive Entertainment would later develop World in Conflict (2007) and eventuall
 [^ref-19]: [ReviewGraveyard](http://www.reviewgraveyard.com/reviews/game/04-06-25_GroundControl-PC.htm) – Ray Thompson review, line-of-sight mechanics
 [^ref-20]: [GamePro Review (Archived)](https://web.archive.org/web/20050204115949/http://gamepro.com/computer/pc/games/reviews/36651.shtml) – Star Dingo review, gameplay mechanics
 [^ref-21]: [Rebellion Official Page](https://rebellion.com/games/ground-control-ii/) – multiplayer specifications, tagline
-[^ref-22]: [Old-Games.com](https://www.old-games.com/download/9348/ground-control-ii-operation-exodus) – game overview, mechanics description
+[^ref-22]: Old-Games.com *(download link removed: the game is sold commercially)* – game overview, mechanics description
 [^ref-24]: [GOG.com Store Page](https://www.gog.com/en/game/ground_control_2_operation_exodus) – game description, requirements
 [^ref-25]: [Game Informer Review (Archived)](https://web.archive.org/web/20080418002100/http://www.gameinformer.com/NR/exeres/4143EA2E-D9CA-43FD-9DD1-E7D7CE423FDA.htm) – Adam Biessener, Matt Miller scores
 [^ref-26]: [Eurogamer Review (Archived)](https://web.archive.org/web/20161030152544/http://www.eurogamer.net/articles/r_groundcontrol2_pc) – Rob Fahey review, multiplayer concerns
 [^ref-27]: [Reddit – Games the World Forgot](https://www.reddit.com/r/Games/comments/20rlib/games_the_world_forgot_ground_control_ii/) – retrospective discussion, sales performance
 [^ref-28]: [IMDB – Ground Control II](https://www.imdb.com/title/tt0428595/) – user rating, voice cast, dialogue quotes
-[^ref-29]: [MyAbandonware](https://www.myabandonware.com/game/ground-control-ii-operation-exodus-d2w) – regional releases, user rating
+[^ref-29]: MyAbandonware *(download link removed: the game is sold commercially)* – regional releases, user rating
 [^ref-30]: [GOG Database](https://www.gogdb.org/product/1207658782) – GOG release date, bonus content, file sizes
 [^ref-31]: [ModDB – Patch 1.0.0.7 to 1.0.0.8](https://www.moddb.com/games/ground-control-ii/downloads/patch-1-0-0-7-to-1-0-0-8) – patch notes, known issues
 [^ref-32]: [MobyGames – Special Edition](https://www.mobygames.com/game/30221/ground-control-ii-operation-exodus-special-edition/) – Special Edition contents
@@ -322,5 +320,5 @@ Massive Entertainment would later develop World in Conflict (2007) and eventuall
 [^ref-35]: [HookedGamers Cheats](https://www.hookedgamers.com/pc/ground_control_ii_operation_exodus/cheats.html) – cheat codes
 [^ref-36]: [GameSpot – June 2004 Best Games](http://www.gamespot.com/features/6101893/index.html) – PC Game of the Month
 [^ref-37]: [Steam Search](https://store.steampowered.com/search/?term=Ground+Control+II%3A+Operation+Exodus) – Steam release date
-[^ref-38]: [Internet Archive – Polish Release](https://archive.org/details/gc2-pl) – CD Projekt budget release details
+[^ref-38]: Internet Archive – Polish Release *(download link removed: the game is sold commercially)* – CD Projekt budget release details
 [^ref-39]: [Prima Official eGuide (Archive.org)](https://archive.org/stream/Ground_Control_2_Operation_Exodus_Prima_Official_eGuide/) – strategy guide quotes, tactical philosophy

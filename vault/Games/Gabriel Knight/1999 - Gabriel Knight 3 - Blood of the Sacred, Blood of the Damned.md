@@ -131,9 +131,6 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 - [Steam](https://store.steampowered.com/app/497360/) - Digital distribution platform[^ref-72]
 
 **Download / Preservation**
-- [My Abandonware](https://www.myabandonware.com/game/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned-cso) - Free download with user reviews[^ref-57]
-- [Internet Archive](https://archive.org/details/gk-31) - Preserved game files including manual and ISOs[^ref-7]
-- [OldGames.sk](https://www.oldgames.sk/en/game/gabriel-knight-3/download/4870/) - Retro gaming archive[^ref-60]
 
 ## See Also
 
@@ -145,7 +142,7 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 
 
 [^ref-3]: Adventure Gamers *(site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Third-party walkthrough guide with gameplay information
-[^ref-7]: https://archive.org/details/gk-31 - Internet Archive preservation page with game ISOs and manual images
+[^ref-7]: (download link removed: the game is sold commercially) - Internet Archive preservation page with game ISOs and manual images
 [^ref-9]: https://www.behindthevoiceactors.com/video-games/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/ - Voice acting database with official cast credits
 [^ref-10]: http://bonny.ploeg.ws/gk3secret.html - Analysis of cut content and unused assets through game file extraction
 [^ref-11]: http://bonny.ploeg.ws/gk3.html - Comprehensive fan walkthrough with complete point system and cast list
@@ -157,7 +154,7 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 [^ref-18]: [The Digital Antiquarian — Gabriel Knight 3: Blood of the Sacred, Blood of the Damned](https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/) — Jimmy Maher's Feb 20, 2026 reappraisal essay; argues GK3 deserves reconsideration beyond its cat-hair-mustache reputation, praises Le Serpent Rouge puzzle and atmospheric storytelling, and Da Vinci Code connections
 [^ref-93]: [The Digital Antiquarian — The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction](https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/) — Apr 17, 2026 follow-up examining GK3's engagement with the real-world Rennes-le-Château mystery
 [^ref-94]: [The Digital Antiquarian — The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain](https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/) — May 1, 2026 follow-up unwinding the historical hoax that GK3 dramatized
-[^ref-19]: https://freegogpcgames.com/451/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/ - Third-party distribution site with basic game information
+[^ref-19]: (download link removed: the game is sold commercially) - Third-party distribution site with basic game information
 [^ref-20]: https://gabrielknight.fandom.com/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned - Comprehensive wiki entry with detailed plot synopsis and cast list
 [^ref-21]: https://www.game-over.net/review/dec99/gk3/index.html - Contemporary Game Over review from December 1999
 [^ref-27]: https://www.gamerevolution.com/review/32896-gabriel-knight-3-review - Contemporary GameRevolution review with 9/10 score
@@ -173,9 +170,9 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 [^ref-52]: https://www.mobygames.com/game/484/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/reviews/ - MobyGames player reviews spanning 2001-2016
 [^ref-53]: https://www.mobygames.com/game/484/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/specs/ - MobyGames technical specifications and ratings
 [^ref-54]: https://www.mobygames.com/game/484/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/ - Comprehensive MobyGames entry with detailed credits and trivia
-[^ref-57]: https://www.myabandonware.com/game/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned-cso - My Abandonware site with user reviews and download
+[^ref-57]: (download link removed: the game is sold commercially) - My Abandonware site with user reviews and download
 [^ref-59]: https://www.nexusmods.com/bloodofthesacredbloodofthedamned/mods/1 - Community mod for compatibility fixes
-[^ref-60]: https://www.oldgames.sk/en/game/gabriel-knight-3/download/4870/ - OldGames.sk retro gaming archive
+[^ref-60]: (download link removed: the game is sold commercially) - OldGames.sk retro gaming archive
 [^ref-61]: https://www.pcgamingwiki.com/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned - PCGamingWiki technical reference with system requirements
 [^ref-63]: https://www.reddit.com/r/adventuregames/comments/1halt82/gabriel_knight_3_clunky_but_worth_it_review/ - Reddit user review discussing gameplay and visuals
 [^ref-66]: https://www.sierrachest.com/index.php?a=games&id=39&fld=eggs - Sierra Chest documentation of Easter eggs and console commands

@@ -10,7 +10,7 @@ series: Counter-Strike
 engine: GoldSrc
 protagonist: Player-controlled Terrorist or Counter-Terrorist operatives
 sierra_lineage: Sierra Published
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'Half-Life: Counter-Strike is a 2000 tactical first-person shooter game
   developed by Valve Corporation and published by Sierra Studios that began life as
   a...'
@@ -18,7 +18,7 @@ tags: [2000s, counter-strike, shooter, sierra]
 ---
 # Half-Life: Counter-Strike
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -289,9 +289,6 @@ From a design perspective, Counter-Strike's success stemmed from its elegant sim
 - [Steam – Counter-Strike 2](https://store.steampowered.com/app/730/) - Current free-to-play successor
 
 **Download / Preservation**
-- [Internet Archive – Counter-Strike 1.3 Offline](https://archive.org/details/counter-strike-13_offline_2005) - Archived retail version
-- [Internet Archive – Spanish CD Version](https://archive.org/details/hlcs-10spa) - Preserved Spanish release
-- [My Abandonware](https://www.myabandonware.com/game/half-life-counter-strike-d6s) - Note: redirects to Steam as game is commercially available
 
 **Manuals & Extras**
 - [Internet Archive – Counter-Strike Manual](https://archive.org/details/counter-strike-manual) - Digitized original manual
@@ -336,7 +333,7 @@ From a design perspective, Counter-Strike's success stemmed from its elegant sim
 [^ref-24]: [Academia.edu – Counter-Strike Research](https://www.academia.edu/230698) – academic analysis, player statistics
 [^ref-25]: [MobyGames – User Reviews](https://www.mobygames.com/game/2726/half-life-counter-strike/reviews/) – player perspectives, ratings
 [^ref-26]: [IMDb – Half-Life: Counter-Strike](https://www.imdb.com/title/tt0275393/) – voice cast, user ratings
-[^ref-27]: [My Abandonware – Half-Life: Counter-Strike](https://www.myabandonware.com/game/half-life-counter-strike-d6s) – user ratings, preservation status
+[^ref-27]: My Abandonware – Half-Life: Counter-Strike *(download link removed: the game is sold commercially)* – user ratings, preservation status
 [^ref-28]: [Gamasutra – Interview with Minh Le (Archived)](https://web.archive.org/web/20190423220435/https://www.gamasutra.com/view/feature/131481/interview_with_minh_le.php) – development timeline, creator quotes
 [^ref-29]: [CS Nation Year One (Archived)](https://web.archive.org/web/20000815235300/http://csnation.counter-strike.net/features/csy1/) – Beta 1 details, early development
 [^ref-30]: [Counter-Strike.net Retrospective (Archived)](https://web.archive.org/web/20010603073148/http://www.counter-strike.net/retro.html) – naming process, early beta history
@@ -346,7 +343,7 @@ From a design perspective, Counter-Strike's success stemmed from its elegant sim
 [^ref-34]: [Neoseeker Wiki – Half-Life: Counter-Strike](https://halflife.neoseeker.com/wiki/Half-Life:_Counter-Strike) – system requirements, Steam pricing
 [^ref-36]: [Xbox GameSpy – Counter-Strike Review](http://xbox.gamespy.com/xbox/counter-strike/6362p1.html) – Xbox release date, review
 [^ref-37]: [MobyGames – Patch History](https://www.mobygames.com/game/2726/half-life-counter-strike/patches/) – patch version dates
-[^ref-38]: [Internet Archive – Counter-Strike 1.3 Offline](https://archive.org/details/counter-strike-13_offline_2005) – compatibility instructions
+[^ref-38]: Internet Archive – Counter-Strike 1.3 Offline *(download link removed: the game is sold commercially)* – compatibility instructions
 [^ref-39]: [MobyGames – Half-Life Platinum Collection](https://www.mobygames.com/game/6130/half-life-platinum-collection/) – compilation contents, localization issues
 [^ref-40]: [Esports-Video – Militia Map](https://esports-video.com/maps-counter-strike-militia/) – map easter eggs
 [^ref-41]: [Academic Block – Counter-Strike Overview](https://www.academicblock.com/life-and-leisure/top-video-games/counter-strike) – easter eggs, gameplay details

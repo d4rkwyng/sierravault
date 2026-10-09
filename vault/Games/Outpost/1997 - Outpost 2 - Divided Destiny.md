@@ -10,14 +10,14 @@ series: Outpost
 engine: Proprietary (C++/DirectX)
 protagonist: Colony Commander (Plymouth or Eden)
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-10-09'
 description: 'Outpost 2: Divided Destiny is a real-time strategy game developed by
   Dynamix and published by Sierra On-Line in 1997. Unlike traditional real-time strategy...'
 tags: [1990s, outpost, sierra, strategy]
 ---
 # Outpost 2: Divided Destiny
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -148,8 +148,6 @@ The game's themes of environmental disaster, resource scarcity, and human surviv
 - [GOG.com](https://www.gog.com/en/game/outpost_2_divided_destiny)
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/outpost-2-divided-destiny-e3n)
-- [Internet Archive](https://archive.org/details/outpost2divideddestiny)
 
 ## See Also
 
@@ -163,9 +161,9 @@ The game's themes of environmental disaster, resource scarcity, and human surviv
 [^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/Outpost_2:_Divided_Destiny) – - Gameplay mechanics description
 [^ref-3]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Outpost2) – - Background story and setting
 [^ref-4]: [Outpost2.net Community Wiki](https://wiki.outpost2.net/doku.php?id=outpost_2:outpost_2) – - Game lore and technical details
-[^ref-5]: [MyAbandonware](https://www.myabandonware.com/game/outpost-2-divided-destiny-e3n) – - Game focus and narrative premise
+[^ref-5]: MyAbandonware *(download link removed: the game is sold commercially)* – - Game focus and narrative premise
 [^ref-6]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/198243-outpost-2-divided-destiny/faqs/74500) – - Mission briefings and plot details
-[^ref-7]: [Abandonware Games](https://abandonwaregames.net/game/outpost-2-divided-destiny) – - Game narrative description
+[^ref-7]: Abandonware Games *(download link removed: the game is sold commercially)* – - Game narrative description
 [^ref-8]: [GOG.com](https://www.gog.com/en/game/outpost_2_divided_destiny) – - Platform support information
 [^ref-9]: [Tropedia Fandom](https://tropedia.fandom.com/wiki/Outpost_2) – - Plot summary and setting
 [^ref-10]: [Medium Retrospective](https://medium.com/@theorycraft/nostalgia-trip-outpost-2-divided-destiny-14f6f148f28f) – - Backstory and narrative context
@@ -176,7 +174,7 @@ The game's themes of environmental disaster, resource scarcity, and human surviv
 [^ref-15]: [Archive.org Manual](https://archive.org/stream/Outpost_2_Manual/Outpost_2_Manual_djvu.txt) – - Campaign structure details
 [^ref-16]: [GameFAQs Guide](https://gamefaqs.gamespot.com/pc/198243-outpost-2-divided-destiny/faqs/10966) – - Mission map specifications
 [^ref-17]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Outpost_2:_Divided_Destiny) – - Multiplayer specifications
-[^ref-18]: [GameFabrique](https://gamefabrique.com/games/outpost-2-divided-destiny/) – - Combat criticism and review
+[^ref-18]: GameFabrique *(download link removed: the game is sold commercially)* – - Combat criticism and review
 [^ref-19]: [GameSpot Review](https://www.gamespot.com/reviews/outpost-2-divided-destiny-review/1900-2543568/) – - Professional review and criticism
 [^ref-20]: [Metacritic](https://www.metacritic.com/game/outpost-2-divided-destiny/) – - User score aggregate
 [^ref-21]: [Outpost2.net](https://www.outpost2.net/) – - Community support and ongoing development

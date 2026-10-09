@@ -213,8 +213,6 @@ This game has been included in[^ref-1]:
 - [Steam – King's Quest Collection](https://store.steampowered.com/app/10100)[^ref-27]
 
 **Download / Preservation**
-- [Internet Archive – King's Quest II](https://archive.org/details/msdos_Kings_Quest_II_-_Romancing_the_Throne_1985)[^ref-28]
-- [DOS Zone – Browser Play](https://dos.zone/kings-quest-ii-romancing-the-throne-1987/)[^ref-29]
 
 **Manuals & Extras**
 - [Sierra Help Pages – King's Quest II](https://sierrahelp.com/Games/KingsQuest/KQ2Help.html) – technical support, patches[^ref-30]
@@ -265,8 +263,8 @@ This game has been included in[^ref-1]:
 [^ref-25]: [Polygon – King's Quest 2015 Chapter 3](https://www.polygon.com/2016/4/26/11509712/kings-quest-chapter-3-once-upon-a-climb-review) — Coverage of "Once Upon a Climb" reimagining Valanice rescue
 [^ref-26]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) — Digital release with 4.1/5 rating (41 reviews)
 [^ref-27]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100) — Digital collection with 86% Very Positive rating (306 reviews)
-[^ref-28]: [Internet Archive – King's Quest II (1985)](https://archive.org/details/msdos_Kings_Quest_II_-_Romancing_the_Throne_1985) — Preservation copy of original DOS release
-[^ref-29]: [DOS Zone – King's Quest II](https://dos.zone/kings-quest-ii-romancing-the-throne-1987/) — Browser-playable version
+[^ref-28]: Internet Archive – King's Quest II (1985) *(download link removed: the game is sold commercially)* — Preservation copy of original DOS release
+[^ref-29]: DOS Zone – King's Quest II *(download link removed: the game is sold commercially)* — Browser-playable version
 [^ref-30]: [Sierra Help Pages – King's Quest II](https://sierrahelp.com/Games/KingsQuest/KQ2Help.html) — Technical support and patch information
 [^ref-31]: [PCGamingWiki – King's Quest II](https://www.pcgamingwiki.com/wiki/King%27s_Quest_II:_Romancing_the_Throne) — Modern compatibility fixes and technical information
 [^ref-32]: [Classic Gaming – King's Quest II Analysis](https://classicgaming.gamespy.com/View.php?view=Games.Detail&id=135) — Technical innovations including first opening cutscene

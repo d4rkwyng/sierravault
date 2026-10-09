@@ -11,14 +11,14 @@ series: Krondor
 engine: True3D
 protagonist: Squire James
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: Return to Krondor is a fantasy role-playing game released in November
   1998, serving as the direct sequel to the critically acclaimed Betrayal at Krondor...
 tags: [1990s, krondor, rpg, sierra]
 ---
 # Return to Krondor
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -260,7 +260,6 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 - [Steam](https://store.steampowered.com/app/564960/Return_to_Krondor/)
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/ReturnToKrondorUSA)
 
 **Manuals & Extras**
 - [Game Manual (Internet Archive)](https://archive.org/details/returntokrondormanual)
@@ -285,13 +284,13 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 [^ref-9]: [Prima Strategy Guide (Amazon)](https://www.amazon.com/Return-Krondor-Primas-Official-Strategy/dp/0761507094) – character names, chapter count
 [^ref-10]: [TV Tropes – Return to Krondor](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ReturntoKrondor) – trivia, character dialogue, development notes
 [^ref-11]: [Pyramid Magazine Review](http://www.sjgames.com/pyramid/sample.html?id=545) – character descriptions, plot elements
-[^ref-12]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Return+to+Krondor&gid=2830) – game description, user rating
+[^ref-12]: Abandonware DOS *(download link removed: the game is sold commercially)* – game description, user rating
 [^ref-13]: [Internet Archive – Game Manual](https://archive.org/stream/Return_to_Krondor/Return_to_Krondor_djvu.txt) – gameplay description, difficulty settings
 [^ref-14]: [GameIndustry.com Review](https://www.gameindustry.com/reviews/game-review/return-to-krondor-lives-up-to-its-reputation/) – camera system comparison
 [^ref-15]: [UESP Review](http://en.uesp.net/reviews/retkrondrev.shtml) – technical details, voice acting assessment
 [^ref-16]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Return_to_Krondor) – technical issues, controls, compatibility
 [^ref-17]: [Crydee.com – Return to Krondor](https://www.crydee.com/raymond-feist/games/computer-based/return-to-krondor) – features, system requirements
-[^ref-18]: [Internet Archive – USA Release](https://archive.org/details/ReturnToKrondorUSA) – gameplay mechanics, exploration description
+[^ref-18]: Internet Archive – USA Release *(download link removed: the game is sold commercially)* – gameplay mechanics, exploration description
 [^ref-19]: [Angelfire Walkthrough](https://www.angelfire.com/hero/tjekanefir/rkrondor.htm) – gameplay details, chapter structure
 [^ref-20]: [IGN Review](https://www.ign.com/articles/1999/01/29/return-to-krondor) – score, gameplay features
 [^ref-21]: [GameSpot Review](https://www.gamespot.com/reviews/return-to-krondor-review/1900-2532792/) – score, technical assessment

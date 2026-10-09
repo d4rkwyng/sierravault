@@ -10,14 +10,14 @@ series: Caesar
 engine: 2D isometric graphics engine
 protagonist: Roman Governor (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: Caesar III is a city-building strategy game that transports players to
  the Roman Empire, where they serve as a provincial governor tasked with building...
 tags: [1990s, caesar, sierra]
 ---
 # Caesar III
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -141,7 +141,6 @@ Caesar III inspired numerous spiritual successors and influenced the development
 - [Steam](https://store.steampowered.com/app/517790/Caesar_3/)
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/caesar-iii-8yd)
 
 ## See Also
 
@@ -151,11 +150,11 @@ Caesar III inspired numerous spiritual successors and influenced the development
 
 ## References
 
-[^ref-1]: [Abandonware DOS - Caesar III Search](https://www.abandonwaredos.com/search.php?search=Caesar+III) – - Basic game listing information
+[^ref-1]: Abandonware DOS - Caesar III Search *(download link removed: the game is sold commercially)* – - Basic game listing information
 [^ref-2]: [Amazon - Caesar 3 PC Product Page](https://www.amazon.com/Caesar-3-PC/dp/B000031KJX) – - GameSpot review excerpts and customer reviews
 [^ref-3]: [Ann4761 Tripod - Caesar III Fan Site](https://ann4761.tripod.com/index-caesar.html) – - Gameplay tips and fan community information
 [^ref-4]: [Arcade Attack - Simon Bradbury Interview](https://www.arcadeattack.co.uk/simon-bradbury-sierra/) – - Developer insights and personal assessment
-[^ref-7]: [Internet Archive - Caesar III USA](https://archive.org/details/CaesarIIIUSA) – - Detailed gameplay description
+[^ref-7]: Internet Archive - Caesar III USA *(download link removed: the game is sold commercially)* – - Detailed gameplay description
 [^ref-8]: [Internet Archive - Caesar III Manual Text](https://archive.org/stream/Caesar_III_Manual/Caesar_III_Manual_djvu.txt) – - Official game design philosophy
 [^ref-9]: [Internet Archive - Caesar III Demo](https://archive.org/details/CaesarIiiDemo) – - Demo version with mechanics overview
 [^ref-10]: [Internet Archive - Caesar III Strategy Guide](https://archive.org/details/caesar-iii-strategy-guide) – - Prima's Official Strategy Guide metadata
@@ -163,7 +162,7 @@ Caesar III inspired numerous spiritual successors and influenced the development
 [^ref-12]: [Caesar3 Heaven Games - Walkthroughs](https://caesar3.heavengames.com/strategy/walkthroughs/) – - Campaign structure and level progression
 [^ref-13]: [Caesar3 Heaven Games - Itchy Interview](https://caesar3.heavengames.com/info/itchy-interview/) – - QA Manager development insights
 [^ref-19]: [Wikipedia - Caesar III](https://en.wikipedia.org/wiki/Caesar_III) – - Comprehensive development history and reviews
-[^ref-23]: [Free GOG PC Games - Caesar III](https://freegogpcgames.com/680/caesar-iii/) – - Game information and system requirements
+[^ref-23]: Free GOG PC Games - Caesar III *(download link removed: the game is sold commercially)* – - Game information and system requirements
 [^ref-24]: [GameFAQs - Caesar III User Review](https://gamefaqs.gamespot.com/pc/63635-caesar-iii/reviews/15325) – - Individual player perspective with scores
 [^ref-26]: [GamePressure - Caesar III Patch](https://www.gamepressure.com/download/caesar-iii-1010-patch/z012ece) – - Technical update details
 [^ref-27]: [Game Revolution - Caesar 3](https://www.gamerevolution.com/game/caesar-3) – - Game information and mechanics description
@@ -179,7 +178,7 @@ Caesar III inspired numerous spiritual successors and influenced the development
 [^ref-47]: [MobyGames - Great Empires Collection II](https://www.mobygames.com/game/7527/the-great-empires-collection-ii/) – - Compilation analysis and series evolution
 [^ref-48]: [MobyGames - Caesar III Credits](https://www.mobygames.com/game/1567/caesar-iii/credits/windows/) – - Development team information
 [^ref-49]: [ModDB - Caesar III Downloads](https://www.moddb.com/games/caesar-iii/downloads) – - Community modifications and current availability
-[^ref-53]: [MyAbandonware - Caesar III Search](https://www.myabandonware.com/search/q/Caesar+III) – - Game database search results
+[^ref-53]: MyAbandonware - Caesar III Search *(download link removed: the game is sold commercially)* – - Game database search results
 [^ref-59]: [PC IGN Articles Archive](http://pc.ign.com/articles/160/160142p1.html) – - No Caesar III content found
 [^ref-63]: [Reddit - Augustus Walkthrough](https://www.reddit.com/r/impressionsgames/comments/wfusuu/caesar_iii_augustus_mod_31_walkthrough_capua/) – - Mod walkthrough community post
 [^ref-67]: [Sierra Chest - Caesar 3 General](https://sierrachest.com/index.php?a=games&id=91&title=caesar-3&fld=general) – - Fan site database entry with basic metadata

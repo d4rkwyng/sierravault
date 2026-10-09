@@ -132,8 +132,6 @@ The game's influence extends to the community of adventure game enthusiasts who 
 - [GOG.com](https://www.gog.com/en/game/lighthouse_the_dark_being)
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/lighthouse-the-dark-being-3m3)
-- [Internet Archive](https://archive.org/details/lighthouse-cd-1)
 
 ## See Also
 
@@ -168,14 +166,14 @@ The game's influence extends to the community of adventure game enthusiasts who 
 
 [^ref-1]: [MobyGames Database](https://www.mobygames.com/game/266/lighthouse-the-dark-being/) – Basic game information and credits
 [^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/Lighthouse:_The_Dark_Being) – Development origin story with Ken Williams
-[^ref-3]: [Archive.org Game Description](https://archive.org/details/lighthouse-cd-1) – Game tagline "Outwit Evil in a Supernatural Mechanical World"
+[^ref-3]: Archive.org Game Description *(download link removed: the game is sold commercially)* – Game tagline "Outwit Evil in a Supernatural Mechanical World"
 [^ref-4]: [The Obscuritory Review](https://obscuritory.com/adventure/lighthouse-the-dark-being/) – Analysis of game's position in the genre
 [^ref-5]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Lighthouse:_The_Dark_Being) – Platform compatibility information
 [^ref-6]: [MobyGames Review](https://www.mobygames.com/game/266/lighthouse-the-dark-being/reviews/) – Plot description by Katakis
 [^ref-7]: [Archive.org Manual](https://archive.org/details/lighthouse-the-dark-being-manual) – Official game manual plot description
-[^ref-8]: [Classic Reload](https://classicreload.com/lighthouse-the-dark-being.html) – Game plot summary
+[^ref-8]: Classic Reload *(download link removed: the game is sold commercially)* – Game plot summary
 [^ref-9]: [Sierra Gamers](https://www.sierragamers.com/lighthouse/) – Game overview with character count
-[^ref-10]: [Old-Games.com](https://www.old-games.com/download/7839/lighthouse-the-dark-being) – Visual description of parallel world
+[^ref-10]: Old-Games.com *(download link removed: the game is sold commercially)* – Visual description of parallel world
 [^ref-11]: [VideoGameGeek](https://videogamegeek.com/videogame/91618/lighthouse-the-dark-being) – Scientific reference in plot
 [^ref-12]: [Retrolorean](https://retrolorean.com/en/lighthouse-the-dark-being-6873) – Gameplay mechanics description
 [^ref-13]: [Archive.org Patch Notes](https://archive.org/details/LITE2PAT) – Cursor highlighting feature description
@@ -186,8 +184,8 @@ The game's influence extends to the community of adventure game enthusiasts who 
 [^ref-18]: [GameSpot Review](https://www.gamespot.com/reviews/lighthouse-review/1900-2535697/) – Rebecca Anderson's review and graphics description
 [^ref-19]: [Web Archive GameRankings](https://web.archive.org/web/20191209001525/https://www.gamerankings.com/pc/197785-lighthouse-the-dark-being/index.html) – Historical review compilation
 [^ref-20]: [GOG.com](https://www.gog.com/en/game/lighthouse_the_dark_being) – User review aggregate
-[^ref-21]: [MyAbandonware](https://www.myabandonware.com/game/lighthouse-the-dark-being-3m3) – User rating
-[^ref-22]: [Collection Chamber Blog](https://collectionchamber.blogspot.com/2015/11/lighthouse-the-dark-being.html) – Jon Bock as first-time game designer
+[^ref-21]: MyAbandonware *(download link removed: the game is sold commercially)* – User rating
+[^ref-22]: Collection Chamber Blog *(download link removed: the game is sold commercially)* – Jon Bock as first-time game designer
 [^ref-23]: [Behind the Voice Actors](https://www.behindthevoiceactors.com/video-games/lighthouse-the-dark-being/) – Voice cast information
 [^ref-24]: [DOSBox Wiki](https://www.dosbox.com/wiki/GAMES:Lighthouse:_The_Dark_Being) – Installation difficulty notes
 [^ref-25]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LighthouseTheDarkBeing) – Myst clone comparison

@@ -149,8 +149,6 @@ This game has been included in the following collections:
 
 **Download / Preservation**
 
-- [Internet Archive – Quest for Glory II](https://archive.org/details/quest-for-glory-ii-trial-by-fire-disk-4-of-9)[^ref-2]
-- [My Abandonware – Quest for Glory II](https://www.myabandonware.com/game/quest-for-glory-ii-trial-by-fire-12j)[^ref-6]
 - [AGD Interactive – Quest for Glory II VGA Remake](https://www.agdinteractive.com/games/qfg2/) – free fan remake[^ref-5]
 
 **Manuals & Extras**
@@ -176,11 +174,11 @@ This game has been included in the following collections:
 ## References
 
 [^ref-1]: [Wikipedia – Quest for Glory II: Trial by Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_II%3A_Trial_by_Fire) – – history, plot, gameplay, development, reception
-[^ref-2]: [Archive.org – Quest for Glory II](https://archive.org/details/quest-for-glory-ii-trial-by-fire-disk-4-of-9) – – preservation, disk images
+[^ref-2]: Archive.org – Quest for Glory II *(download link removed: the game is sold commercially)* – – preservation, disk images
 [^ref-3]: [Sierra Fandom Wiki – Quest for Glory II](https://sierra.fandom.com/wiki/Quest_for_Glory_II%3A_Trial_by_Fire) – – detailed game information
 [^ref-4]: RPG Codex Interview – Corey Cole *(link removed: it led to a different game's page)* – – development history
 [^ref-5]: [AGD Interactive – Quest for Glory II VGA](https://www.agdinteractive.com/games/qfg2/) – – fan remake
-[^ref-6]: [My Abandonware – Quest for Glory II](https://www.myabandonware.com/game/quest-for-glory-ii-trial-by-fire-12j) – – platforms, availability
+[^ref-6]: My Abandonware – Quest for Glory II *(download link removed: the game is sold commercially)* – – platforms, availability
 [^ref-7]: [GameFAQs – Quest for Glory II](https://gamefaqs.gamespot.com/pc/562671-quest-for-glory-ii-trial-by-fire) – – user reviews, guides
 [^ref-8]: [RPGamer – Quest for Glory II Review](https://rpgamer.com/review/quest-for-glory-ii-trial-by-fire/) – – modern review
 [^ref-9]: Adventure Gamers – Quest for Glory II *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – – modern review

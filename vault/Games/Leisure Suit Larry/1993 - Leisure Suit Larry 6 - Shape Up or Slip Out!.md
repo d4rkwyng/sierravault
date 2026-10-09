@@ -167,7 +167,6 @@ The game remains available through digital distribution platforms, included in t
 - [GOG – Leisure Suit Larry 1-7 Collection](https://www.gog.com/en/game/leisure_suit_larry) – Includes Larry 6[^ref-74]
 
 **Download / Preservation**
-- [My Abandonware](https://www.myabandonware.com/game/leisure-suit-larry-6-shape-up-or-slip-out-2ws) - Community preservation with user ratings[^ref-75]
 - [Archive.org](https://archive.org/details/Leisure_Suit_Larry_6_-_Manual) - Game manual and documentation[^ref-76]
 
 ## See Also
@@ -187,10 +186,10 @@ The game remains available through digital distribution platforms, included in t
 
 ## References
 
-[^ref-1]: https://gamesnostalgia.com/game/leisure-suit-larry-6-shape-up-or-slip-out - Gaming nostalgia website noting this is the fifth entry despite being numbered 6
+[^ref-1]: (download link removed: the game is sold commercially) - Gaming nostalgia website noting this is the fifth entry despite being numbered 6
 [^ref-2]: https://www.mobygames.com/game/407/leisure-suit-larry-6-shape-up-or-slip-out/ - Comprehensive database entry with technical specifications and voice acting details
 [^ref-3]: https://advgamer.blogspot.com/2023/08/leisure-suit-larry-6-shape-up-or-slip.html - Al Lowe quote from game manual about design intentions
-[^ref-4]: https://classicreload.com/leisure-suit-larry-6-shape-up-or-slip-out.html - Plot summary and game setting information
+[^ref-4]: (download link removed: the game is sold commercially) - Plot summary and game setting information
 [^ref-5]: https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeisureSuitLarry6ShapeUpOrSlipOut - Narrator opening quote from game
 [^ref-6]: [Adventure Gamers – Walkthrough by Tom Hayes](https://web.archive.org/web/20250516053646/https://adventuregamers.com/walkthrough/full/leisure-suit-larry-6-shape-up-or-slip-out) - Walkthrough author assessment calling it "one of the very best Larry games"
 [^ref-7]: https://hardcoregaming101.net/leisure-suit-larry-6-shape-up-or-slip-out/ - Retrospective review noting it's "definitely one of the better games in the series"
@@ -207,14 +206,14 @@ The game remains available through digital distribution platforms, included in t
 [^ref-18]: https://advgamer.blogspot.com/2024/01/leisure-suit-larry-6-shape-up-or-slip.html - Detailed character name analysis including Cavaricchi Vuarnet
 [^ref-19]: https://tcrf.net/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out! - Technical preservation wiki with engine information
 [^ref-20]: https://ign.com/articles/2003/05/28/leisure-suit-larry-6-shape-up-or-slip-out-walkthroughfaq-410268 - IGN FAQ explaining point-and-click mechanics
-[^ref-21]: https://playminigames.net/game/leisure-suit-larry-6-shape-up-or-slip-out! - Gaming website noting always-visible icon bar
-[^ref-22]: https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-leisure-suit-larry-6-shape-up-or-slip-out-online/ - Interface improvement details from Larry 5
+[^ref-21]: (download link removed: the game is sold commercially) - Gaming website noting always-visible icon bar
+[^ref-22]: (download link removed: the game is sold commercially) - Interface improvement details from Larry 5
 [^ref-23]: https://gamefaqs.gamespot.com/pc/564422-leisure-suit-larry-6-shape-up-or-slip-out/faqs/38126 - GameFAQs walkthrough describing tram navigation system
 [^ref-24]: https://gamerwalkthroughs.com/leisure-suit-larry-6/ - Four-day structure description
 [^ref-25]: https://supercheats.com/pc/walkthroughs/leisuresuitlarry6shapeuporslipout-walkthrough02.txt - Non-linear task progression details
 [^ref-26]: [Adventure Gamers – Walkthrough by Tom Hayes](https://web.archive.org/web/20250516053646/https://adventuregamers.com/walkthrough/full/leisure-suit-larry-6-shape-up-or-slip-out) - Comparison to previous Larry games' structure
 [^ref-27]: https://adventureclassicgaming.com/index.php/site/reviews/153/ - Review discussing return of death scenarios
-[^ref-28]: https://classicreload.com/leisure-suit-larry-6-shape-up-or-slip-out.html - Description of "Try Again" button feature
+[^ref-28]: (download link removed: the game is sold commercially) - Description of "Try Again" button feature
 [^ref-29]: https://3rdworldgeeks.com/2025/11/20/ill-review-anything-leisure-suit-larry-6-shape-up-or-slip-out/ - Modern review praising elimination of traditional Sierra frustrations
 [^ref-30]: https://mobygames.com/game/407/leisure-suit-larry-6-shape-up-or-slip-out/reviews/ - User review by Unicorn Lynx praising puzzle design
 [^ref-31]: http://bonny.ploeg.ws/lsl6.htm - Walkthrough detailing individual character problems and solutions
@@ -233,8 +232,8 @@ The game remains available through digital distribution platforms, included in t
 [^ref-44]: https://3rdworldgeeks.com/2025/11/20/ill-review-anything-leisure-suit-larry-6-shape-up-or-slip-out/ - Modern retrospective review assessment
 [^ref-45]: https://3rdworldgeeks.com/2025/11/20/ill-review-anything-leisure-suit-larry-6-shape-up-or-slip-out/ - Praise for character graphics quality
 [^ref-46]: https://mobygames.com/game/407/leisure-suit-larry-6-shape-up-or-slip-out/reviews/ - Modern user review comparison to Larry 5
-[^ref-47]: https://myabandonware.com/game/leisure-suit-larry-6-shape-up-or-slip-out-2ws - User rating based on 47 votes
-[^ref-48]: https://playminigames.net/game/leisure-suit-larry-6-shape-up-or-slip-out! - User aggregate rating
+[^ref-47]: (download link removed: the game is sold commercially) - User rating based on 47 votes
+[^ref-48]: (download link removed: the game is sold commercially) - User aggregate rating
 [^ref-49]: https://web.archive.org/web/20040203141037/http://www.allowe.com/AL/adventuredead.htm - Al Lowe archived writing about Sierra's initial reluctance
 [^ref-50]: https://advgamer.blogspot.com/2023/08/leisure-suit-larry-6-shape-up-or-slip.html - Design document quotes about returning to original formula
 [^ref-51]: https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeisureSuitLarry6ShapeUpOrSlipOut - Al Lowe's multiple roles in development
@@ -261,7 +260,7 @@ The game remains available through digital distribution platforms, included in t
 [^ref-72]: https://gogdb.org/product/1207662083 - GOG database showing inclusion in compilation
 [^ref-73]: https://dosbox.com/wiki/GAMES:Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out! - DOSBox compatibility documentation
 [^ref-74]: https://gogdb.org/product/1207662093 - GOG distribution information
-[^ref-75]: https://myabandonware.com/game/leisure-suit-larry-6-shape-up-or-slip-out-2ws - Community preservation site with ratings
+[^ref-75]: (download link removed: the game is sold commercially) - Community preservation site with ratings
 [^ref-76]: https://archive.org/details/Leisure_Suit_Larry_6_-_Manual - Internet Archive manual preservation
 [^ref-77]: https://www.behindthevoiceactors.com/video-games/leisure-suit-larry-6-shape-up-or-slip-out/ - Behind The Voice Actors database with voice director and complete cast listing
 [^ref-78]: https://www.sierrachest.com/index.php?a=games&id=28&fld=general - Sierra Chest documenting original VGA floppy release details

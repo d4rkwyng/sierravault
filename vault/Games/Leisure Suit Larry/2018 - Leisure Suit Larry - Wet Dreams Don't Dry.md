@@ -181,7 +181,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-36]: [GOG Store Page](https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dont_dry) – - Digital distribution availability
 [^ref-37]: [Steam Store Page](https://store.steampowered.com/app/765870/) – - Steam availability
 [^ref-38]: [TheXboxHub Console News](https://www.thexboxhub.com/wet-dreams-dont-dry-as-leisure-suit-larry-comes-to-xbox-one/) – - Console platform availability
-[^ref-39]: [Abandonware DOS Search](https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry) – - Abandonware availability check
+[^ref-39]: Abandonware DOS Search *(download link removed: the game is sold commercially)* – - Abandonware availability check
 [^ref-40]: Adventure Gamers Search *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - Adventure gaming coverage
 [^ref-41]: [The Digital Antiquarian Search](https://www.filfre.net/?s=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry) – - Gaming history coverage
 [^ref-42]: [GameFAQs Lance Guide](https://gamefaqs.gamespot.com/ps4/261667-leisure-suit-larry-wet-dreams-dont-dry/faqs/79679/lance) – - Character-specific walkthrough

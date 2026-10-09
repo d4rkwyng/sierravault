@@ -251,7 +251,6 @@ The game's legacy extends beyond entertainment into actual law enforcement train
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/Police_Quest_2_Manual_JAP) - Japanese PC-98 manual
-- [MyAbandonware](https://www.myabandonware.com/game/police-quest-2-the-vengeance-kn) - DOS, Amiga, Atari ST versions
 
 **Manuals & Extras**
 - [MOCAGH – Police Quest 2 Manual](https://www.mocagh.org/sierra/pq2-manual.pdf)
@@ -267,16 +266,16 @@ The game's legacy extends beyond entertainment into actual law enforcement train
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest II: The Vengeance](https://en.wikipedia.org/wiki/Police_Quest_II:_The_Vengeance) – release dates, platforms, composer, sales data, reviews, development history, Japanese version details
-[^ref-2]: [Abandonware DOS – Police Quest 2](https://www.abandonwaredos.com/abandonware-game.php?gid=1298) – Computer Gaming World review quotes, Jim Walls background, trivia about real-life basis
+[^ref-2]: Abandonware DOS – Police Quest 2 *(download link removed: the game is sold commercially)* – Computer Gaming World review quotes, Jim Walls background, trivia about real-life basis
 [^ref-3]: [Adventure Gamers – Police Quest 2: The Vengeance](https://web.archive.org/web/20250626184246/https://adventuregamers.com/article/police_quest_2_the_vengeance) – retrospective review, SCI engine details, Easter eggs, Jim Walls typing ability
-[^ref-4]: [ClassicReload – Police Quest 2](https://classicreload.com/police-quest-2-the-vengeance.html) – interface description, police procedures requirement
-[^ref-5]: [Best DOS Games – Police Quest 2](https://bestdosgames.com/games/police-quest-2-the-vengeance) – realism quotes, gameplay description
+[^ref-4]: ClassicReload – Police Quest 2 *(download link removed: the game is sold commercially)* – interface description, police procedures requirement
+[^ref-5]: Best DOS Games – Police Quest 2 *(download link removed: the game is sold commercially)* – realism quotes, gameplay description
 [^ref-6]: [MobyGames – Police Quest 2: The Vengeance](https://www.mobygames.com/game/147/police-quest-2-the-vengeance/) – credits, ratings, platforms, Easter eggs, official description
 [^ref-7]: [Amazon – Police Quest 2 Atari ST](https://www.amazon.com/Police-Quest-2-Vengeance-Atari-ST/dp/B000AD9MNI) – customer reviews, product description
 [^ref-8]: [IGN – Police Quest 2: The Vengeance](https://www.ign.com/games/police-quest-2-the-vengeance) – user rating, game description
 [^ref-9]: [TV Tropes – Police Quest 2: The Vengeance](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PoliceQuest2TheVengeance) – Easter eggs, Japanese version details, in-game quotes
-[^ref-10]: [PlayClassic Games – Police Quest 2](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-police-quest-2-vengeance-online/) – forensics focus, SCI engine improvements
-[^ref-11]: [My Abandonware – Police Quest 2](https://www.myabandonware.com/game/police-quest-2-the-vengeance-kn) – user reviews, technical details, release versions
+[^ref-10]: PlayClassic Games – Police Quest 2 *(download link removed: the game is sold commercially)* – forensics focus, SCI engine improvements
+[^ref-11]: My Abandonware – Police Quest 2 *(download link removed: the game is sold commercially)* – user reviews, technical details, release versions
 [^ref-12]: [WalkthroughKing – Police Quest 2](https://www.walkthroughking.com/text/policequest2.aspx) – plot summary, game description
 [^ref-13]: [MobyGames Reviews – Police Quest 2 DOS](https://www.mobygames.com/game/147/police-quest-2-the-vengeance/reviews/dos/) – player reviews, technical issues, gameplay features
 [^ref-14]: [GameFAQs – Police Quest 2 Walkthrough](https://gamefaqs.gamespot.com/pc/564773-police-quest-2-the-vengeance/faqs/37121) – gameplay mechanics, Easter eggs, "Let's Roll" trivia

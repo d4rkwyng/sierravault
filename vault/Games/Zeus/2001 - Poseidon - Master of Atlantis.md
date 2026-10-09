@@ -10,7 +10,7 @@ series: City Building Series
 engine: Zeus Engine
 protagonist: Atlantean Leader (player-named)
 sierra_lineage: Sierra Published
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Henry Beckett]
 description: 'Poseidon: Master of Atlantis is the official expansion pack for Zeus:
   Master of Olympus, developed by Impressions Games and published by Sierra...'
@@ -18,7 +18,7 @@ tags: [2000s, city-building-series, sierra]
 ---
 # Poseidon: Master of Atlantis
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -258,7 +258,6 @@ Within the broader context of strategy gaming, Zeus and Poseidon represent a ref
 - [GOG – Zeus + Poseidon](https://www.gog.com/en/game/zeus_poseidon) - DRM-free digital version[^ref-7]
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/poseidon-zeus-official-expansion-dos) - Preservation archive[^ref-18]
 
 **Patches**
 - [Patch 2.1](https://www.gamepressure.com/download/poseidon-zeus-official-expansion-v21-patch/zb4cd) - Official bug fix patch[^ref-17]
@@ -274,8 +273,8 @@ Within the broader context of strategy gaming, Zeus and Poseidon represent a ref
 [^ref-1]: [MobyGames – Poseidon: Zeus Official Expansion](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/) – developer, publisher, designer, composer, platform, rating, technical information
 [^ref-2]: [Amazon – Zeus Expansion Poseidon](https://www.amazon.com/Zeus-Expansion-Poseidon-PC/dp/B00005B44T) – product description, release date, episode count, Adventure Editor feature
 [^ref-3]: [eBay Product Listing](https://www.ebay.com/itm/154464147118) – developer, publisher, gameplay description, geographical scope, ESRB rating
-[^ref-4]: [GameFabrique – Poseidon: Zeus Official Expansion](https://gamefabrique.com/games/poseidon-zeus-official-expansion/) – mythological background, review score, technical specifications, episode count
-[^ref-5]: [FreeGOGPCGames](https://freegogpcgames.com/419/1-zeus-poseidon/) – gameplay features, episode count, system requirements
+[^ref-4]: GameFabrique – Poseidon: Zeus Official Expansion *(download link removed: the game is sold commercially)* – mythological background, review score, technical specifications, episode count
+[^ref-5]: FreeGOGPCGames *(download link removed: the game is sold commercially)* – gameplay features, episode count, system requirements
 [^ref-6]: [eBay Product Listing](https://www.ebay.com/p/50800073) – publisher confirmation, geographical scope
 [^ref-7]: [GOG – Zeus + Poseidon](https://www.gog.com/en/game/zeus_poseidon) – rating, system requirements, release date, description
 [^ref-8]: [Tripod Walkthrough – Birth of Atlantis](https://kheitmann-1.tripod.com/zeus/walkthru/poracle-walkthrough-print-birthofatlantis.htm) – episode details, resource availability, gameplay challenges, mythological figures
@@ -288,7 +287,7 @@ Within the broader context of strategy gaming, Zeus and Poseidon represent a ref
 [^ref-15]: [GamePressure – Poseidon](https://www.gamepressure.com/games/poseidon-zeus-official-expansion/z3247f) – rating, orichalc resource, episode count, system requirements
 [^ref-16]: [MobyGames – Release Information](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/releases/) – release dates by region, retail price
 [^ref-17]: [GamePressure – Patch 2.1](https://www.gamepressure.com/download/poseidon-zeus-official-expansion-v21-patch/zb4cd) – patch notes, bug fixes, release date
-[^ref-18]: [MyAbandonware – Poseidon](https://www.myabandonware.com/game/poseidon-zeus-official-expansion-dos) – release regions, patch versions, expansion requirement
+[^ref-18]: MyAbandonware – Poseidon *(download link removed: the game is sold commercially)* – release regions, patch versions, expansion requirement
 [^ref-19]: [MobyGames – Search Results](https://www.mobygames.com/search/?q=Poseidon%3A+Zeus+Official+Expansion) – alternate international titles
 [^ref-20]: [GOGDB – Zeus + Poseidon](https://www.gogdb.org/product/1207659039) – GOG release date, download size, version information
 [^ref-21]: [VGTimes](https://www.vgtimes.com/games/poseidon-zeus-official-expansion/?amp=1) – genre classification, alternate titles

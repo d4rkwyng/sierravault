@@ -10,7 +10,7 @@ series: Conquests
 engine: SCI0
 protagonist: King Arthur
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 composer: [Mark Seibert]
 description: '*Conquests of Camelot: The Search for the Grail* is an adventure game
   released in March 1990 by Sierra On-Line that places players in control of King
@@ -19,7 +19,7 @@ tags: [1990s, adventure, conquests, sci, sierra]
 ---
 # Conquests of Camelot: The Search for the Grail
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -237,7 +237,6 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 
 **Download / Preservation**
 - [Internet Archive – Manual](https://archive.org/details/Conquests_of_Camelot_-_The_Search_for_the_Grail_-_Manual)
-- [My Abandonware](https://www.myabandonware.com/game/conquests-of-camelot-the-search-for-the-grail-1vl)
 
 **Manuals & Extras**
 - [Liber Ex Doctrina Manual](https://archive.org/stream/vgmuseum_sierra_camelot-manual/camelot-manual_djvu.txt)
@@ -254,7 +253,7 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 
 [^ref-1]: [Wikipedia – Conquests of Camelot: The Search for the Grail](https://en.wikipedia.org/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – release dates, reviews, credits, series information
 [^ref-2]: [The Adventure Gamer Blog](https://advgamer.blogspot.com/2013/11/game-38-conquests-of-camelot.html) – development credits, Marx background, design philosophy quotes
-[^ref-3]: [PlayClassic.games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-conquests-camelot-search-grail-online/) – gameplay mechanics, scoring system, interface details
+[^ref-3]: PlayClassic.games *(download link removed: the game is sold commercially)* – gameplay mechanics, scoring system, interface details
 [^ref-4]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – Merlin narration, historical research, version info
 [^ref-5]: [GOG.com – Conquests of Camelot](https://www.gog.com/en/game/conquests_of_camelot) – user reviews, ratings, system requirements
 [^ref-6]: [PCGamingWiki – Conquests of Camelot](https://www.pcgamingwiki.com/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – engine info, technical specifications, video modes
@@ -268,10 +267,10 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 [^ref-16]: [Lemon Amiga – Review](https://www.lemonamiga.com/games/reviews/view.php?id=481) – Amiga performance issues, difficulty settings, review score
 [^ref-17]: [AmigaLove](https://www.amigalove.com/games.php?game_id=41) – Amiga port quality, graphics analysis, historical accuracy
 [^ref-18]: [Metzomagic.com – Gordon Aplin Review](https://www.metzomagic.com/showArticle.php?index=698) – retrospective analysis, legacy assessment
-[^ref-19]: [My Abandonware](https://www.myabandonware.com/game/conquests-of-camelot-the-search-for-the-grail-1vl) – HOTUD review quotes, user ratings
+[^ref-19]: My Abandonware *(download link removed: the game is sold commercially)* – HOTUD review quotes, user ratings
 [^ref-20]: [IMDB – Conquests of Camelot](https://www.imdb.com/title/tt0455402/) – user rating, Latin graffiti trivia
 [^ref-21]: [Lemon Amiga – Game Page](https://www.lemonamiga.com/games/docs.php?id=367) – aggregate user rating
-[^ref-22]: [OldGames.sk](https://www.oldgames.sk/en/game/conquests-of-camelot-the-search-for-the-grail/download/1528/) – user rating
+[^ref-22]: OldGames.sk *(download link removed: the game is sold commercially)* – user rating
 [^ref-23]: [Conquests Fandom – Development](https://conquests.fandom.com/wiki/Conquests_of_Camelot_development) – title changes, cut content, version differences
 [^ref-24]: [Sierra Help – Soundtrack Collection](https://sierrahelp.com/Music/SierraSoundtrackCollection.html) – Mark Seibert composer notes
 [^ref-8]: [Sierra Chest – Easter Eggs](https://www.sierrachest.com/index.php?a=games&id=140&fld=eggs) – Monty Python references, designer references

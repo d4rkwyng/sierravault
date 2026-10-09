@@ -225,9 +225,6 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 - [ScummVM Downloads](https://www.scummvm.org/downloads/)
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/msdos_Heart_of_China_1991) - MS-DOS version
-- [MyAbandonware](https://www.myabandonware.com/game/heart-of-china-167) - Multiple platform versions
-- [Macintosh Repository](https://www.macintoshrepository.org/3983-heart-of-china) - Mac version
 
 **Manuals & Extras**
 - [Heart of China Hint Book](https://archive.org/stream/Heart_of_China_Hint_Book/Heart_of_China_Hint_Book_djvu.txt) - Internet Archive
@@ -250,7 +247,7 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 
 [^ref-2]: [GOG.com – Heart of China](https://www.gog.com/en/game/heart_of_china) – user reviews, version history, system requirements
 [^ref-3]: [Wikipedia – Heart of China](https://en.wikipedia.org/wiki/Heart_of_China) – developer, publisher, release information, design credits
-[^ref-4]: [Collection Chamber – Heart of China](https://collectionchamber.blogspot.com/2016/11/heart-of-china.html) – visual analysis, High Road to China comparison, gameplay critique
+[^ref-4]: Collection Chamber – Heart of China *(download link removed: the game is sold commercially)* – visual analysis, High Road to China comparison, gameplay critique
 [^ref-5]: [Adventure Classic Gaming – Heart of China Review](http://www.adventureclassicgaming.com/index.php/site/reviews/283/) – film inspirations, multiple solutions, graphics modes
 [^ref-6]: [MobyGames – Heart of China User Review](https://www.mobygames.com/game/164/heart-of-china/user-review/2585095/) – production details, Damon Slye appearance, Dynamix adventure exit
 [^ref-7]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – DGDS engine, related games
@@ -263,16 +260,16 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 [^ref-14]: [Advgamer Blog – Heart of China Won](https://advgamer.blogspot.com/2016/08/heart-of-china-won.html) – ending description
 [^ref-15]: [Walkthrough King – Heart of China](https://www.walkthroughking.com/text/heartofchina.aspx) – interface description, Rise of the Dragon comparison
 [^ref-16]: [Adventure Classic Gaming – Archived Review](https://web.archive.org/web/20080509092504/http://www.adventureclassicgaming.com/index.php/site/reviews/283/) – technical requirements, review score
-[^ref-18]: [MyAbandonware – Heart of China](https://www.myabandonware.com/game/heart-of-china-167) – HOTUD quotes, user reviews
+[^ref-18]: MyAbandonware – Heart of China *(download link removed: the game is sold commercially)* – HOTUD quotes, user reviews
 [^ref-19]: [Hardcore Gaming 101 – Heart of China](http://www.hardcoregaming101.net/heart-of-china/) – Indiana Jones comparison, arcade sequences
-[^ref-20]: [Abandonware DOS – Heart of China](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Heart+of+China&gid=2105) – PC Review score and quote
+[^ref-20]: Abandonware DOS – Heart of China *(download link removed: the game is sold commercially)* – PC Review score and quote
 [^ref-21]: [Thimbleweed Park Forums – Heart of China GOG Release](https://forums.thimbleweedpark.com/t/heart-of-china-just-released-on-gog-how-frustrating-is-this-game/1992) – GOG release date, player opinions
 [^ref-22]: [IMDB – Heart of China](https://www.imdb.com/find/?q=Heart+of+China&s=tt) – IMDB rating
-[^ref-23]: [OldGames.sk – Heart of China](https://www.oldgames.sk/en/game/heart-of-china/download/1778/) – rating, DGDS engine confirmation
+[^ref-23]: OldGames.sk – Heart of China *(download link removed: the game is sold commercially)* – rating, DGDS engine confirmation
 [^ref-24]: [Amiga Reviews – Heart of China](https://www.amigareviews.leveluphost.com/heartofc.htm) – 93% review score
-[^ref-25]: [Macintosh Repository – Heart of China](https://www.macintoshrepository.org/3983-heart-of-china) – Mac system requirements
+[^ref-25]: Macintosh Repository – Heart of China *(download link removed: the game is sold commercially)* – Mac system requirements
 [^ref-26]: [PCGamingWiki – Heart of China](https://www.pcgamingwiki.com/wiki/Heart_of_China) – Windows version specs, DOSBox bundling
 [^ref-27]: [The Cutting Room Floor – Heart of China](https://tcrf.net/Heart_of_China) – debug menu documentation
-[^ref-28]: [Internet Archive – Heart of China](https://archive.org/details/msdos_Heart_of_China_1991) – platform information, game description
+[^ref-28]: Internet Archive – Heart of China *(download link removed: the game is sold commercially)* – platform information, game description
 [^ref-29]: [Quest Studios – Heart of China Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/hoc/) – composer credits, audio specifications
 [^ref-30]: [HG101 Kontek – Heart of China](https://hg101.kontek.net/heartofchina/heartofchina.htm) – detailed retrospective, design analysis: [ScummVM News – v2026.1.0 Release](https://www.scummvm.org/news/20260131/) – Full support for Heart of China added

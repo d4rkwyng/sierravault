@@ -10,7 +10,7 @@ series: Lords Series
 engine: GameScript (PostScript-based)
 protagonist: Player-created Lord
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Keith Zizza]
 description: 'Lords of Magic: Special Edition is a fantasy strategy game that combines
   turn-based exploration with real-time combat and resource management, set in the...'
@@ -18,7 +18,7 @@ tags: [1990s, impressions, lords-series, sierra, strategy]
 ---
 # Lords of Magic: Special Edition
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -291,8 +291,6 @@ The game's ongoing availability on modern digital platforms and the active moddi
 - [Steam](https://store.steampowered.com/app/404040/Lords_of_Magic_Special_Edition/)
 
 **Download / Preservation**
-- [Internet Archive (1998 Special Edition)](https://archive.org/details/lordsofmagicusaspecialedition)
-- [Internet Archive (2000 Rerelease)](https://archive.org/details/lordsofmagicusaspecialeditionrerelease)
 
 **Patches & Mods**
 - [Unofficial 3.02 Patch](https://impz.proboards.com/thread/1769/release-lom-se-unofficial-patch)
@@ -307,7 +305,7 @@ The game's ongoing availability on modern digital platforms and the active moddi
 ## References
 
 [^ref-1]: [Amazon – Lords of Magic Special Edition](https://www.amazon.com/Lords-Magic-Special-Jewel-Case-pc/dp/B00001NFS5) – product description, developer, publisher, game features
-[^ref-2]: [Internet Archive – Lords of Magic Special Edition](https://archive.org/details/lordsofmagicusaspecialedition) – game description, included content, release date
+[^ref-2]: Internet Archive – Lords of Magic Special Edition *(download link removed: the game is sold commercially)* – game description, included content, release date
 [^ref-3]: [GOG.com – Lords of Magic Special Edition](https://www.gog.com/en/game/lords_of_magic_special_eddition) – user ratings, system requirements, game description
 [^ref-4]: [GOG Unlocked](https://gogunlocked.com/lords-of-magic-special-edition-free-download/) – story setting description
 [^ref-5]: [Wikipedia – Lords of Magic](https://en.wikipedia.org/wiki/Lords_of_Magic) – release dates, designers, faiths, spells, artifacts, gameplay mechanics
@@ -329,7 +327,7 @@ The game's ongoing availability on modern digital platforms and the active moddi
 [^ref-21]: [GameCenter Review (Wayback Machine)](https://web.archive.org/web/20000816095951/http://www.gamecenter.com/Reviews/Item/0,6,0-1502,00.html) – score, bugs quote
 [^ref-22]: [CD Magazine Review (Wayback Machine)](https://web.archive.org/web/20030704201910/http://www.cdmag.com/articles/009/154/lords_magic_review.html) – bugs list, reviewer quote
 [^ref-23]: [GameRankings – Special Edition (Wayback Machine)](https://web.archive.org/web/20190525174157/https://www.gamerankings.com/pc/70167-lords-of-magic-special-edition/index.html) – aggregate scores, individual publication scores
-[^ref-24]: [My Abandonware – Lords of Magic Special Edition](https://www.myabandonware.com/game/lords-of-magic-special-edition-crp) – user ratings, Games Domain review quotes
+[^ref-24]: My Abandonware – Lords of Magic Special Edition *(download link removed: the game is sold commercially)* – user ratings, Games Domain review quotes
 [^ref-26]: [GameRankings – Original (Wayback Machine)](https://web.archive.org/web/20190609005743/https://www.gamerankings.com/pc/46090-lords-of-magic/index.html) – aggregate score
 [^ref-27]: [MobyGames – Lords of Magic Special Edition](https://www.mobygames.com/game/537/lords-of-magic-special-edition/) – credits, aggregate score, user review
 [^ref-28]: [Sierra Help – Patches and Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/LordsOfTheRealmUpdates.html) – version history, system requirements

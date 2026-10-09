@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI 1.1
 protagonist: The Hero (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Mark Seibert]
 description: 'Quest for Glory I: So You Want to Be a Hero (VGA Remake) is a 1992 enhanced
   version of Sierra On-Line''s groundbreaking 1989 adventure/RPG hybrid originally...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory I: So You Want to Be a Hero (VGA Remake)
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -317,9 +317,6 @@ RPG Codex summarized the series' lasting appeal: "Quest for Glory uniquely succe
 - [Steam – Quest for Glory Collection](https://store.steampowered.com/search/?term=Quest+for+Glory)
 
 **Download / Preservation**
-- [Internet Archive – Quest for Glory Collection Series](https://archive.org/details/QuestForGloryCollectionSeriesUSA)
-- [Internet Archive – VGA Remake](https://archive.org/details/qfg1_hero)
-- [MyAbandonware](https://www.myabandonware.com/game/quest-for-glory-i-so-you-want-to-be-a-hero-1kc)
 
 **Emulation Requirements**
 - ScummVM or DOSBox recommended for modern systems[^ref-16]
@@ -342,9 +339,9 @@ RPG Codex summarized the series' lasting appeal: "Quest for Glory uniquely succe
 [^ref-2]: [MobyGames – Quest for Glory I VGA](https://www.mobygames.com/game/16075/quest-for-glory-i-so-you-want-to-be-a-hero/) – credits, ratings, trivia, easter eggs, technical specifications
 [^ref-34]: [IGN – Revisiting Quest for Glory I & II](http://www.ign.com/articles/2014/11/03/revisiting-quest-for-glory-i-ii) – development history, genre analysis
 [^ref-4]: [Destructoid – Quest for Glory Developers Interview](http://www.destructoid.com/quest-for-glory-developers-only-approached-once-for-a-remake-135372.phtml) – VGA remake costs and sales, Corey Cole quotes
-[^ref-5]: [ClassicReload – Quest for Glory I](https://classicreload.com/quest-for-glory-i-so-you-want-to-be-a-hero.html) – "three games in one" marketing, gameplay description
+[^ref-5]: ClassicReload – Quest for Glory I *(download link removed: the game is sold commercially)* – "three games in one" marketing, gameplay description
 [^ref-6]: [Engadget – The Glory of Quest for Glory](https://www.engadget.com/2012/05/17/the-glory-of-quest-for-glory/) – retrospective analysis, series overview, Rowan Kaiser quotes
-[^ref-7]: [Internet Archive – QFG1 VGA](https://archive.org/details/qfg1_hero) – SCI 1.1 engine information, release date
+[^ref-7]: Internet Archive – QFG1 VGA *(download link removed: the game is sold commercially)* – SCI 1.1 engine information, release date
 [^ref-8]: [IMDB – Quest for Glory I Plot](https://www.imdb.com/title/tt0420848/) – plot description, setting details
 [^ref-9]: [IMDB – Quest for Glory I VGA](https://www.imdb.com/title/tt0445657/) – plot details, trivia
 [^ref-10]: [RPGamer – Quest for Glory I Review (Tyler Willis)](https://web.archive.org/web/20160304211159/http://www.rpgamer.com/games/qfg/qfg1/reviews/qfg1strev1.html) – opening text, review
@@ -357,24 +354,24 @@ RPG Codex summarized the series' lasting appeal: "Quest for Glory uniquely succe
 [^ref-26]: [Indie Retro News – Quest for Glory I Review](https://www.indieretronews.com/2020/08/quest-for-glory-i-classic-sierra.html) – retrospective analysis
 [^ref-18]: [GameFAQs – Quest for Glory I EGA FAQ](https://gamefaqs.gamespot.com/pc/564775-quest-for-glory-i-so-you-want-to-be-a-hero/faqs/1988) – gameplay tips, skill system
 [^ref-19]: [StrategyWiki – Gameplay](https://strategywiki.org/wiki/Quest_for_Glory_I:_So_You_Want_to_Be_a_Hero/Gameplay) – class flexibility
-[^ref-20]: [MyAbandonware – Quest for Glory I Reviews](https://www.myabandonware.com/game/quest-for-glory-i-so-you-want-to-be-a-hero-1kc) – user reviews
+[^ref-20]: MyAbandonware – Quest for Glory I Reviews *(download link removed: the game is sold commercially)* – user reviews
 [^ref-21]: [The Adventurers' Guild Blog](https://advgamer.blogspot.com/2017/10/quest-for-glory-i-so-you-want-to-be.html) – Corey Cole "walking dead" quote
 [^ref-22]: [COMPUTE! Issue 149 Review](https://www.atarimagazines.com/compute/issue149/126_Quest_for_Glory_I.php) – Alfred C. Giovetti review, clay animation details, technical specs
 [^ref-23]: [Macworld 1995 Game Hall of Fame](https://web.archive.org/web/20030108175638/http://www.macworld.com/1995/01/features/143.html) – Steven Levy review, award
 [^ref-24]: [Amiga Reviews](https://www.amigareviews.leveluphost.com/questgl2.htm) – Amiga version criticism
 [^ref-25]: [RPGamer – Quest for Glory I Retroview](https://web.archive.org/web/20170805141031/http://rpgamer.com/games/qfg/qfg1/reviews/qfg1strev2.html) – Michael Baker review, technical details
 [^ref-27]: [MobyGames – Quest for Glory 1-5 Collection](https://www.mobygames.com/game/55944/quest-for-glory-1-5/) – compilation info, ratings
-[^ref-31]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Quest+for+glory+1:+So+you+want+to+be+a+hero&gid=1336) – ratings, basic info
-[^ref-32]: [GamesNostalgia](https://gamesnostalgia.com/game/quest-for-glory-i-so-you-want-to-be-a-hero) – editorial rating, version info
+[^ref-31]: Abandonware DOS *(download link removed: the game is sold commercially)* – ratings, basic info
+[^ref-32]: GamesNostalgia *(download link removed: the game is sold commercially)* – editorial rating, version info
 [^ref-33]: [Quest for Glory Wiki – EGA Development](https://questforglory.fandom.com/wiki/QFG1EGA_development) – cut content, development history, Lori/Corey Cole quotes
 [^ref-35]: [RPG Codex – Corey Cole Interview](http://www.rpgcodex.net/article.php?id=8549) – budget information, design philosophy
 [^ref-36]: [Transolar – Lori Cole Development Story](https://web.archive.org/web/20190624073155/http://www.transolar.com/TSHerosquestnew.html) – personal development account
 [^ref-37]: [Adventure Gamers – Cole Interview](https://web.archive.org/web/20150421221306/http://www.adventuregamers.com/articles/view/23214/page3) – Ken Williams skepticism, development anecdotes
 [^ref-38]: [MobyGames – Hero's Quest Original](https://www.mobygames.com/game/168/heros-quest-so-you-want-to-be-a-hero/) – development stats, awards, credits
 [^ref-39]: [Quest for Glory Wiki – Mac Version](https://questforglory.fandom.com/wiki/Quest_for_Glory_I:_So_You_Want_to_Be_a_Hero_(Mac)) – Mac credits, easter eggs
-[^ref-40]: [PlayClassic.games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-quest-glory-want-hero-online/) – clay animation description
+[^ref-40]: PlayClassic.games *(download link removed: the game is sold commercially)* – clay animation description
 [^ref-41]: [GameSpot – Cheats and Easter Eggs](https://www.gamespot.com/games/quest-for-glory-i-so-you-want-to-be-a-hero/cheats/) – easter eggs, platform list
-[^ref-42]: [Internet Archive – Quest for Glory Collection](https://archive.org/details/QuestForGloryCollectionSeriesUSA) – compilation contents
+[^ref-42]: Internet Archive – Quest for Glory Collection *(download link removed: the game is sold commercially)* – compilation contents
 [^ref-43]: [GitHub – QFG1 Bug Fix Project](https://github.com/8bitKittyKat/qfg1ega-bugfix) – mana bug documentation
 [^ref-44]: [Speedrun.com Forums](https://www.speedrun.com/quest_for_glory_so_you_want_to_be_a_hero_vga/forums/gbv7x) – technical requirements, stat glitch info
 [^ref-45]: [GameFAQs – Game FAQs Page](https://gamefaqs.gamespot.com/pc/564775-quest-for-glory-i-so-you-want-to-be-a-hero/faqs) – death message trivia

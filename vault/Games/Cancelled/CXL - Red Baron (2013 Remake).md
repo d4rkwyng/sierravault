@@ -10,14 +10,14 @@ series: Red Baron
 engine: Unreleased
 protagonist: Player-created WWI pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: Red Baron 2013 Remake was an ambitious but ultimately unsuccessful attempt
   by Damon Slye, the original creator of the Red Baron franchise, to revive the...
 tags: [2010s, dynamix, red-baron, sierra, simulation]
 ---
 # Red Baron 2013 Remake
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -215,8 +215,6 @@ The original Red Baron continues to be celebrated as a notable achievement. One 
 - [Steam](https://store.steampowered.com/app/263940/) - Red Baron Pack (includes Red Baron and Red Baron 3D)
 
 **Download / Preservation**
-- [DOS Games Archive](https://www.dosgamesarchive.com/download/red-baron) - Original 1990 version[^ref-8]
-- [GamesNostalgia](https://gamesnostalgia.com/game/red-baron) - MS-DOS version 1.1 and 1.31[^ref-5]
 
 **Related Resources**
 - [Red Baron Game Official Site](https://www.redbarongame.com/) - Remake project page (historical)[^ref-7]
@@ -235,10 +233,10 @@ The original Red Baron continues to be celebrated as a notable achievement. One 
 [^ref-2]: [Dynamix Fandom Wiki – Red Baron Series](https://dynamix.fandom.com/wiki/Red_Baron_(series)) – IP acquisition date, Kickstarter launch date, series history
 [^ref-3]: [MobyGames – Red Baron Reviews](https://www.mobygames.com/game/1766/red-baron/reviews/) – User reviews, critic scores, platform information
 [^ref-4]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – Release dates, awards, sales figures, review scores
-[^ref-5]: [GamesNostalgia – Red Baron](https://gamesnostalgia.com/game/red-baron) – Kickstarter amount raised, freeware release, editorial score
+[^ref-5]: GamesNostalgia – Red Baron *(download link removed: the game is sold commercially)* – Kickstarter amount raised, freeware release, editorial score
 [^ref-6]: [Sierra Classic Gaming – Red Baron Remake](https://sierraclassicgaming.com/game/red-baron-remake/) – System requirements, planned release date, Steam Greenlight
 [^ref-7]: [Red Baron Game Official Site](https://www.redbarongame.com/) – Development philosophy, team credits, business model
-[^ref-8]: [DOS Games Archive – Red Baron](https://www.dosgamesarchive.com/download/red-baron) – Official game description, mission types
+[^ref-8]: DOS Games Archive – Red Baron *(download link removed: the game is sold commercially)* – Official game description, mission types
 [^ref-9]: [Sierra Gamers – Red Baron](https://www.sierragamers.com/red-baron/) – Aircraft count, mission variety, release date
 [^ref-10]: [CD Projekt Red Forums – Red Baron Kickstarter Thread](https://forums.cdprojektred.com/index.php?threads/remake-of-the-red-baron-is-on-kickstarter.17147/) – Linux support, DRM-free plans
 [^ref-11]: [Steam Community – Red Baron Reviews](https://steamcommunity.com/app/263940/reviews/?browsefilter=toprated) – User testimonials, joystick compatibility, technical issues

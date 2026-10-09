@@ -10,14 +10,14 @@ series: Caesar
 engine: Custom 2D isometric engine
 protagonist: Roman Governor (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-05-15'
+last_updated: '2026-10-09'
 description: Caesar II is a city-building strategy game that transports players to
   ancient Rome, where they assume the role of a provincial governor seeking to rise...
 tags: [1990s, caesar, impressions, sierra]
 ---
 # Caesar II
 
-<small style="color: gray">Last updated: May 15, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -142,9 +142,7 @@ An active fan community has maintained interest in Caesar II through dedicated w
 - [GOG.com - $5.99](https://www.gog.com/en/game/caesar_ii)[^ref-20]
 
 **Download / Preservation**
-- [Internet Archive - Full Game](https://archive.org/details/msdos_Caesar_2_1995)[^ref-34]
 - [Internet Archive - Demo Version](https://archive.org/details/CaesarII_1020)[^ref-35]
-- [MyAbandonware](https://www.myabandonware.com/game/caesar-ii-2at)[^ref-36]
 
 **Patches & Fixes**
 - [Windows v1.01 Patch - ModDB](https://www.moddb.com/games/caesar-ii/downloads/caesar-ii-v101-windows-patch)[^ref-27]
@@ -165,7 +163,7 @@ An active fan community has maintained interest in Caesar II through dedicated w
 [^ref-4]: [Ars Technica - History of City Building Games](https://arstechnica.com/gaming/2015/10/from-simcity-to-well-simcity-the-history-of-city-building-games/) – Caesar II features and improvements over original
 [^ref-5]: [MobyGames - Caesar II](https://www.mobygames.com/game/1588/caesar-ii/) – Technical specifications, platforms, credits, genres
 [^ref-6]: [Flash of Steel - Caesar Series Analysis](https://flashofsteel.com/index.php/2008/04/04/caesar-series-1993-2006/) – Simon Bradbury email interview on origins and development challenges
-[^ref-7]: [ClassicReload - Caesar II](https://classicreload.com/caesar-ii.html) – Game setting and victory conditions
+[^ref-7]: ClassicReload - Caesar II *(download link removed: the game is sold commercially)* – Game setting and victory conditions
 [^ref-8]: [ATPM - Caesar II Review](http://www.atpm.com/3.02/page11.shtml) – February 1997 Macintosh review
 [^ref-10]: [GameFAQs - Caesar II Data](https://gamefaqs.gamespot.com/pc/63635-caesar-iii/data) – Official game description
 [^ref-11]: [Reddit - Caesar II Discussion](https://www.reddit.com/r/impressionsgames/comments/1bty0i7/i_feel_caesar_ii_is_the_best_of_the_caesar_series/) – Player perspective on three-map system
@@ -185,9 +183,9 @@ An active fan community has maintained interest in Caesar II through dedicated w
 [^ref-28]: [Sierra Help - Caesar Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/CaesarSeriesUpdates.html) – Official patch availability
 [^ref-29]: [VGChartz - Caesar II Sales](https://www.vgchartz.com/game/228497/caesar-ii/sales) – Sales tracking data
 [^ref-30]: [SEC.gov - Sierra On-Line 10-K Filing](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – Official corporate sales documentation
-[^ref-31]: [Internet Archive - City Building Series](https://archive.org/details/CaesarIIUSA) – Series information and influence
+[^ref-31]: Internet Archive - City Building Series *(download link removed: the game is sold commercially)* – Series information and influence
 [^ref-32]: [IGN - Caesar IV Review](https://www.ign.com/articles/2006/10/17/caesar-iv-review) – Later series development by Tilted Mill
 [^ref-33]: [Caesar2.com - City Walkthrough](https://www.caesar2.com/caesar-ii-city-walkthrough-tutorial/) – Active fan community and strategies
-[^ref-34]: [Internet Archive - Caesar 2 DOS](https://archive.org/details/msdos_Caesar_2_1995) – Game preservation
+[^ref-34]: Internet Archive - Caesar 2 DOS *(download link removed: the game is sold commercially)* – Game preservation
 [^ref-35]: [Internet Archive - Caesar II Demo](https://archive.org/details/CaesarII_1020) – Demo version archive
-[^ref-36]: [MyAbandonware - Caesar II](https://www.myabandonware.com/game/caesar-ii-2at) – User reviews and compatibility information
+[^ref-36]: MyAbandonware - Caesar II *(download link removed: the game is sold commercially)* – User reviews and compatibility information

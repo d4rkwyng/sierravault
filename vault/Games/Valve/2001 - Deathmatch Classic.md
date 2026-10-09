@@ -10,14 +10,14 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Player Character
 sierra_lineage: Sierra Published
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Deathmatch Classic (often abbreviated as DMC) is a multiplayer first-person
   shooter developed by Valve Corporation and released on June 7, 2001. Conceived...
 tags: [2000s, half-life, shooter, sierra]
 ---
 # Deathmatch Classic
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -272,10 +272,10 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 [^ref-9]: [Glitchwave – Deathmatch Classic](https://glitchwave.com/game/deathmatch-classic/) – ratings, player modes, multiplayer options
 [^ref-10]: [PCGamingWiki – Deathmatch Classic](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic) – technical specifications, system requirements, bug documentation
 [^ref-11]: [Steam Community Hub – Deathmatch Classic](https://steamcommunity.com/app/40) – community discussions, bundling information, bot support
-[^ref-12]: [My Abandonware – Deathmatch Classic](https://www.myabandonware.com/game/deathmatch-classic-daz) – user ratings, alternative name DMC
+[^ref-12]: My Abandonware – Deathmatch Classic *(download link removed: the game is sold commercially)* – user ratings, alternative name DMC
 [^ref-13]: [MobyGames Releases – Deathmatch Classic](https://www.mobygames.com/game/34748/deathmatch-classic/releases/) – platform-specific release dates
 [^ref-15]: [IMDB Search Results](https://www.imdb.com/find/?q=deathmatch-classic&s=tt) – Deathmatch Classic: Refragged announcement
-[^ref-93]: [Internet Archive – DMC](https://archive.org/search?query=deathmatch+classic+valve) – preserved materials
+[^ref-93]: Internet Archive – DMC *(download link removed: the game is sold commercially)* – preserved materials
 [^ref-16]: [IGDB – Deathmatch Classic](https://www.igdb.com/games/deathmatch-classic) — Internet Games Database entry, multi-platform listing, Valve attribution
 [^ref-17]: [LaunchBox Games Database – Deathmatch Classic](https://gamesdb.launchbox-app.com/games/details/deathmatch-classic) — community-curated metadata, cover-art reference
 [^ref-18]: [Quake (id Software, 1996) — Wikipedia](https://en.wikipedia.org/wiki/Quake_(video_game)) — context for the original Quake multiplayer that Deathmatch Classic adapts

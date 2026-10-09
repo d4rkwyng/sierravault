@@ -138,7 +138,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > [!example] December 2025
 > - **Dec 24** — [[2022 - SpaceVenture|SpaceVenture]] exits Early Access — full release on Steam
 > - **Dec** — [[2025 - SCP Sierra Conversion Project|SCP]] releases **Space Quest IV OCS Enhanced** for Amiga
->   - [IndieRetroNews](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html) · [Download](https://mega.nz/file/KtEj3IrD#S1uejpsbD2Vr8E5kldTYX3R2BqdNv3vtlIP4z9SBJPU) · [English Amiga Board](https://eab.abime.net/showthread.php?t=122018)
+>   - [IndieRetroNews](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html) · Download · [English Amiga Board](https://eab.abime.net/showthread.php?t=122018)
 > - **Dec** — [[2026 - Gobliins 6|Gobliins 6]] translation enters final stretch ([ROM-Game.fr](https://www.rom-game.fr/news/6483-Gobliins+6.html))
 
 > [!example] November 2025

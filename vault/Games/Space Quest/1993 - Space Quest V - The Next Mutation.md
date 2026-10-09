@@ -216,9 +216,6 @@ This game has been included in the following collections:
 
 **Download / Preservation**
 
-- [Internet Archive – Space Quest V](https://archive.org/details/space-quest-v-the-next-mutation-1993)[^ref-11]
-- [My Abandonware – Space Quest V](https://www.myabandonware.com/game/space-quest-v-the-next-mutation-20i)[^ref-7]
-- [DOS.Zone – Play in Browser](https://dos.zone/space-quest-v-the-next-mutation/)[^ref-32]
 
 **Manuals & Extras**
 
@@ -260,11 +257,11 @@ This game has been included in the following collections:
 [^ref-4]: [Space Quest Fandom Wiki – SQ5 Development](https://spacequest.fandom.com/wiki/SQ5_development) – detailed development history
 [^ref-5]: [MobyGames – Space Quest V](https://www.mobygames.com/game/144/space-quest-v-the-next-mutation/) – developer, publisher, platforms, credits, 8.1 MobyScore, 82% critics
 [^ref-6]: [GOG – Space Quest 4+5+6](https://www.gog.com/en/game/space_quest_4_5_6) – purchase, user reviews
-[^ref-7]: [My Abandonware – Space Quest V](https://www.myabandonware.com/game/space-quest-v-the-next-mutation-20i) – platforms, availability
+[^ref-7]: My Abandonware – Space Quest V *(download link removed: the game is sold commercially)* – platforms, availability
 [^ref-8]: [HowLongToBeat – Space Quest V](https://howlongtobeat.com/game/8867) – completion times
 [^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
 [^ref-10]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Sierra acquisitions, collections
-[^ref-11]: [Internet Archive – Space Quest V](https://archive.org/details/space-quest-v-the-next-mutation-1993) – preservation, historical versions
+[^ref-11]: Internet Archive – Space Quest V *(download link removed: the game is sold commercially)* – preservation, historical versions
 [^ref-12]: [PCGamingWiki – Space Quest V](https://www.pcgamingwiki.com/wiki/Space_Quest_V%3A_The_Next_Mutation) – technical specs, fixes
 [^ref-13]: [WiW – Space Quest V Point List](https://wiw.org/~jess/sq5pts.html) – complete point list
 [^ref-14]: [Space Quest Historian – 11 Things You Probably Didn't Know About Space Quest](https://www.youtube.com/watch?v=Hvux-A0oGiM) – aptitude test skip, Lukaszuk planet naming, warp drive failsafe
@@ -285,4 +282,4 @@ This game has been included in the following collections:
 [^ref-29]: [SpaceQuest.net – SQ5 Cameos](https://spacequest.net/sq5/cameos/) – Worf/Woof parody, guards playing Missile Command and Asteroids, SQ3 Skull Fighter, Enterprise engine, Flash Gordon and Einstein on grade master
 [^ref-30]: [SpaceQuest.net – SQ5 Plot Inconsistencies](https://spacequest.net/sq5/plotinconsis/) – Magazine contradictions, StarCon Crest design issue, Cliffy spacesuit plot hole, shield inconsistencies, garbage collection paradox
 [^ref-31]: Adventure Gamers – Space Quest V *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – "Very good" rating, "best story and characters," 6-8 hours completion, "one of the worst mazes ever," improved VGA graphics
-[^ref-32]: [DOS.Zone – Space Quest V](https://dos.zone/space-quest-v-the-next-mutation/) – play in browser
+[^ref-32]: DOS.Zone – Space Quest V *(download link removed: the game is sold commercially)* – play in browser

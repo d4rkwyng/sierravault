@@ -10,14 +10,14 @@ series: Lords of the Realm
 engine: Impressions Strategy Engine
 protagonist: Faith Champion (player-selected)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: Lords of Magic is a turn-based fantasy strategy game that combines elements
   of role-playing games with traditional empire building mechanics. Developed by...
 tags: [1990s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of Magic
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -115,8 +115,6 @@ The Special Edition release in 2000 attempted to address many of the original ga
 - [GOG.com](https://www.gog.com/en/game/lords_of_magic_special_eddition)
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/lords-of-magic-special-edition-crp)
-- [Internet Archive](https://archive.org/details/lordsofmagicusaspecialeditionrerelease)
 
 ## See Also
 
@@ -159,5 +157,5 @@ The Special Edition release in 2000 attempted to address many of the original ga
 [^ref-34]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Lords_of_Magic) – - Engine and platform information
 [^ref-35]: [ModDB](https://www.moddb.com/mods/gszero) – - Community mod description
 [^ref-36]: [GameSpot](https://www.gamespot.com/reviews/lords-of-magic-special-edition-review/1900-2535719/) – - Competitive comparison
-[^ref-37]: [MyAbandonware](https://www.myabandonware.com/game/lords-of-magic-special-edition-crp) – - Modern assessment quote
+[^ref-37]: MyAbandonware *(download link removed: the game is sold commercially)* – - Modern assessment quote
 [^ref-19]: [GameFAQs Community Guide](https://gamefaqs.gamespot.com/pc/70167-lords-of-magic-special-edition/faqs/30063) – - Chaos and Water faith strategic analysis

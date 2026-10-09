@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: Custom engine with cell and portal technologies
 protagonist: LAPD SWAT Element Leader
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Gary Spinrad]
 description: 'SWAT 3: Close Quarters Battle is a tactical squad-based first-person
   shooter that revolutionized the Police Quest franchise by transforming the series
@@ -19,7 +19,7 @@ tags: [1990s, police-quest-swat, shooter, sierra]
 ---
 # SWAT 3: Close Quarters Battle
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -271,7 +271,6 @@ The game's insistence that players be "cops, not soldiers" challenged the prevai
 
 **Download / Preservation**
 - [Internet Archive – SWAT 3: Close Quarters Battle Demo](https://archive.org/details/Swat3CloseQuartersBattleDemo)
-- [Internet Archive – Tactical Game of the Year Edition](https://archive.org/details/SWAT3CloseQuartersBattleUSATacticalGameOfTheYearEdition)
 
 **Patches & Fixes**
 - [Sierra Help – SWAT Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/SWATUpdates.html)
@@ -303,7 +302,7 @@ The game's insistence that players be "cops, not soldiers" challenged the prevai
 [^ref-10]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/SWAT_3:_Close_Quarters_Battle) – game opening text, setting, development notes
 [^ref-11]: [IMDB – SWAT 3](https://www.imdb.com/title/tt0487963/) – user rating, terrorist groups, trivia about anachronism
 [^ref-12]: [Prima Games Strategy Guide (Internet Archive)](https://archive.org/stream/SWAT_3_Close_Quarter_Battle_Prima_Official_eGuide/SWAT_3_Close_Quarter_Battle_Prima_Official_eGuide_djvu.txt) – mission briefings, objectives
-[^ref-13]: [Internet Archive – Tactical Game of the Year Edition](https://archive.org/details/SWAT3CloseQuartersBattleUSATacticalGameOfTheYearEdition) – mission types, version details, Advanced Tactics CD
+[^ref-13]: Internet Archive – Tactical Game of the Year Edition *(download link removed: the game is sold commercially)* – mission types, version details, Advanced Tactics CD
 [^ref-14]: [GameFAQs Guide by kschang77](https://gamefaqs.gamespot.com/pc/198868-swat-3-close-quarters-battle/faqs/34285) – gameplay philosophy, system requirements, in-game briefing text
 [^ref-15]: [IGN – Holiday Buying Guide 1999](https://www.ign.com/articles/1999/11/15/ignpcs-1999-holiday-buying-guide-action-games) – game description, genre shift from previous titles
 [^ref-16]: [GameRevolution Review](https://www.gamerevolution.com/review/32839-swat-3-close-quarters-battle-review) – review score, gameplay mechanics, randomization system

@@ -10,14 +10,14 @@ series: Lords of the Realm
 engine: AIL / Miles Sound System
 protagonist: Player-controlled Lord
 sierra_lineage: Sierra Published
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: Lords of the Realm is a medieval turn-based strategy game developed by
   Impressions Games and released in 1994. Set in 1268 A.D. during a time when the...
 tags: [1990s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -225,7 +225,6 @@ Today, Lords of the Realm is recognized as a foundational title that helped defi
 ## Downloads
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/lords-of-the-realm-2wu)
 
 ## See Also
 
@@ -235,11 +234,11 @@ Today, Lords of the Realm is recognized as a foundational title that helped defi
 
 ## References
 
-[^ref-1]: [Internet Archive – Lords of the Realm (DOS)](https://archive.org/details/msdos_Lords_of_the_Realm_1994) – release date, game description, gameplay mechanics
-[^ref-2]: [Games Nostalgia – Lords of the Realm](https://gamesnostalgia.com/game/lords-of-the-realm) – ratings, version history, historical significance, Total War comparison
+[^ref-1]: Internet Archive – Lords of the Realm (DOS) *(download link removed: the game is sold commercially)* – release date, game description, gameplay mechanics
+[^ref-2]: Games Nostalgia – Lords of the Realm *(download link removed: the game is sold commercially)* – ratings, version history, historical significance, Total War comparison
 [^ref-3]: [The Escapist – Lords of the Realm: Worthy of the Throne](https://www.escapistmagazine.com/lords-of-the-realm-worthy-of-the-throne/) – gameplay description, retrospective analysis
 [^ref-4]: [Wikipedia – Lords of the Realm](https://en.wikipedia.org/wiki/Lords_of_the_Realm) – release dates, designers, composers, awards, ratings, historical background PDF
-[^ref-5]: [MyAbandonware – Lords of the Realm](https://www.myabandonware.com/game/lords-of-the-realm-2wu) – user ratings, development history, designer information, M. Evan Brooks quote
+[^ref-5]: MyAbandonware – Lords of the Realm *(download link removed: the game is sold commercially)* – user ratings, development history, designer information, M. Evan Brooks quote
 [^ref-6]: [MobyGames – Lords of the Realm](https://www.mobygames.com/game/4303/lords-of-the-realm/) – ratings, technical specs, awards, engine, credits
 [^ref-7]: [PCGamingWiki – Lords of the Realm](https://www.pcgamingwiki.com/wiki/Lords_of_the_Realm) – platform releases, technical specifications, version history
 [^ref-8]: [Sierra Chest – Lords of the Realm II Walkthrough](https://sierrachest.com/index.php?a=games&id=162&fld=walkthrough) – story overview, game opening
@@ -248,14 +247,14 @@ Today, Lords of the Realm is recognized as a foundational title that helped defi
 [^ref-11]: [GOG.com – Lords of the Realm Royal Edition](https://www.gog.com/en/game/lords_of_the_realm_royal_edition) – user ratings, game description, bundle contents
 [^ref-12]: [Web Archive – Allgame Review](https://web.archive.org/web/20110203081251/http://www.allgame.com/game.php?id=13350&tab=review) – controls, interface description, review
 [^ref-13]: [Grokipedia – Lords of the Realm](https://grokipedia.com/page/Lords_of_the_Realm) – technical specifications, publishers, county count
-[^ref-14]: [Internet Archive – Lords of the Realm II](https://archive.org/details/lords-of-the-realm-2) – gameplay mechanics
+[^ref-14]: Internet Archive – Lords of the Realm II *(download link removed: the game is sold commercially)* – gameplay mechanics
 [^ref-15]: [Sierra Gamers – Lords of the Realm 3](https://www.sierragamers.com/lords-of-the-realm-3/) – battle description
 [^ref-16]: [Amiga Magazine Rack – Lords of the Realm Reviews](https://amr.abime.net/review_28219) – contemporary magazine reviews and scores
 [^ref-18]: [Steam Store – Lords of the Realm](https://store.steampowered.com/app/254920/Lords_of_the_Realm/) – user reviews, awards
 [^ref-19]: [Rock Paper Shotgun – Have You Played Lords of the Realm](https://www.rockpapershotgun.com/have-you-played-lords-of-the-realm) – gameplay analysis, message easter egg
 [^ref-20]: [Lilura1 Blog – Lords of the Realm Review](https://lilura1.blogspot.com/2022/04/Lords-of-the-Realm-IBM-PC-MS-DOS-1994-Impressions-Games-Original-Version.html) – technical specifications, development credits
 [^ref-21]: [OpenRetro.org – Lords of the Realm (Amiga)](https://openretro.org/amiga/lords-of-the-realm) – Amiga Format rating
-[^ref-22]: [SquakNet – Lords of the Realm](https://www.squakenet.com/game/lords-of-the-realm/) – gameplay description
+[^ref-22]: SquakNet – Lords of the Realm *(download link removed: the game is sold commercially)* – gameplay description
 [^ref-23]: [Lemon Amiga – Lords of the Realm](https://www.lemonamiga.com/game/lords-of-the-realm) – development credits, art direction, documentation
 [^ref-24]: [Sierra Help – Lords of the Realm Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/LordsOfTheRealmUpdates.html) – patch versions
 [^ref-26]: [Microsoft Learn – 16-bit Application Support](https://learn.microsoft.com/en-us/answers/questions/2410263/unsupported-16-bit-application-lords-of-the-realm) – compatibility information

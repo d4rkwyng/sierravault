@@ -304,7 +304,6 @@ As GameFabrique's reggie noted, "Best advice is to pretend Al Emmo is a lost gem
 - [GamersGate](https://www.gamersgate.com/) - Enhanced Edition[^ref-25]
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/al-emmo-and-the-lost-dutchmans-mine-usa) - USA CD-ROM preservation[^ref-31]
 - [ModDB](https://www.moddb.com/games/al-emmo-and-the-lost-dutchmans-mine/downloads) - Demo and information[^ref-26]
 
 **Demos & Trials**
@@ -348,7 +347,7 @@ As GameFabrique's reggie noted, "Best advice is to pretend Al Emmo is a lost gem
 [^ref-17]: [Adventure Gamers – Review (Archived)](https://web.archive.org/web/20121121014738/http://www.adventuregamers.com/articles/view/17815) – 3.5 star rating, detailed critique, resolution specifications
 [^ref-18]: [Metacritic – Aggregate Scores](https://www.metacritic.com/game/al-emmo-and-the-lost-dutchmans-mine/) – professional review scores, Metascore, publication ratings
 [^ref-19]: [RPGFan – Review](https://www.rpgfan.com/review/al-emmo-and-the-lost-dutchmans-mine/) – detailed scoring breakdown, humor criticism, Mage's Initiation reference
-[^ref-20]: [GameFabrique – Review](https://gamefabrique.com/games/al-emmo-and-the-lost-dutchmans-mine/) – user rating, nostalgic appeal analysis
+[^ref-20]: GameFabrique – Review *(download link removed: the game is sold commercially)* – user rating, nostalgic appeal analysis
 [^ref-21]: [IMDB – Al Emmo](https://www.imdb.com/find/?q=Al+Emmo+and+the+Lost+Dutchman%27s+Mine&s=tt) – user rating, vote count
 [^ref-22]: [Game Pressure – Database Entry](https://www.gamepressure.com/games/al-emmo-and-lost-dutchmans-mine/zdfd3) – Steam score, technical specifications
 [^ref-23]: [Software Informer – Product Page](https://al-emmo-and-the-lost-dutchman-s-mine.software.informer.com/) – user ratings, version history, file size
@@ -359,4 +358,4 @@ As GameFabrique's reggie noted, "Best advice is to pretend Al Emmo is a lost gem
 [^ref-28]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/pc/932543-al-emmo-and-the-lost-dutchmans-mine/faqs/51963) – studio background, commercial release context
 [^ref-29]: [UHS Hints – Al Emmo](https://www.uhs-hints.com/uhsweb/alemmo.php) – hint system availability
 [^ref-30]: [GOG Dreamlist – Community Comments](https://www.gog.com/dreamlist/game/al-emmo-and-the-lost-dutchmans-mine) – fan testimonials, AGDI legacy references
-[^ref-31]: [Internet Archive – Al Emmo USA](https://archive.org/details/al-emmo-and-the-lost-dutchmans-mine-usa) – preservation data, file specifications
+[^ref-31]: Internet Archive – Al Emmo USA *(download link removed: the game is sold commercially)* – preservation data, file specifications

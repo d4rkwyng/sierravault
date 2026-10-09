@@ -11,14 +11,14 @@ series: Quest for Infamy
 engine: Adventure Game Studio
 protagonist: Mr. Roehm
 sierra_lineage: Spiritual Successor
-last_updated: '2026-04-21'
+last_updated: '2026-10-09'
 description: Quest for Infamy is a hybrid point-and-click adventure game and RPG developed
   by Infamous Quests and released in 2014. The game was created as a spiritual...
 tags: [2010s, adventure, 'null', rpg, sierra]
 ---
 # Quest for Infamy
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -159,7 +159,7 @@ The successful Kickstarter campaign demonstrated that there remained significant
 [^ref-11]: [itch.io - Infamous Quests](https://infamousquests.itch.io/quest-for-infamy) – - Official game features description
 [^ref-12]: [RPGFan Review](https://www.rpgfan.com/review/quest-for-infamy/) – - Interface and gameplay analysis
 [^ref-13]: [Quest for Infamy About Page](https://questforinfamy.com/about-qfi) – - Technical requirements and control information
-[^ref-14]: [FreeGOGPCGames](https://freegogpcgames.com/8622/quest-for-infamy/) – - Character class options
+[^ref-14]: FreeGOGPCGames *(download link removed: the game is sold commercially)* – - Character class options
 [^ref-15]: [OpenCritic](https://opencritic.com/game/642/quest-for-infamy/reviews) – - Combat system criticism
 [^ref-16]: [Metacritic](https://www.metacritic.com/game/quest-for-infamy/) – - Professional review scores and quotes
 [^ref-17]: [OpenCritic](https://opencritic.com/game/642/quest-for-infamy) – - GamingTrend review

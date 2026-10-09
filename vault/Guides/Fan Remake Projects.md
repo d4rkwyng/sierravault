@@ -1,11 +1,11 @@
 ---
 title: "Fan Remake Projects"
 type: guide
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Fan Remake Projects
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 When Sierra Entertainment stopped making classic adventure games, the fan community stepped in. These dedicated groups have spent decades creating faithful VGA remakes, enhanced editions, and spiritual successors to Sierra's beloved franchises—all available for free.
 
@@ -205,8 +205,6 @@ The [[2025 - SCP Sierra Conversion Project|SCP Sierra Conversion Project]] enhan
 
 **Released Enhancements:**
 
-- **Dec 2025** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV - Roger Wilco and the Time Rippers]] — Game: Space Quest IV OCS Enhanced, Download: [MEGA](https://mega.nz/file/KtEj3IrD#S1uejpsbD2Vr8E5kldTYX3R2BqdNv3vtlIP4z9SBJPU)
-- **Jan 2026** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V - Absence Makes the Heart Go Yonder]] — Game: King's Quest V OCS Remaster, Download: [MEGA](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80A59kU3-8XYBrqIS1XXeZCA4ZULpM)
 - **Jan 2026** — [[1991 - Police Quest III - The Kindred|Police Quest III - The Kindred]] — Game: Police Quest III Enhancement, Download: Contact SCP
 
 **In Development:**

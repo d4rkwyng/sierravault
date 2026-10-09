@@ -10,14 +10,14 @@ series: Standalone
 engine: Proprietary (Epyx)
 protagonist: Player as Bug General
 sierra_lineage: Sierra Published
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: Battle Bugs is a unique real-time tactics video game developed by Epyx,
   Inc. and published by Sierra On-Line in 1994 for MS-DOS. The game presents a...
 tags: [1990s, sierra, standalone]
 ---
 # Battle Bugs
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -257,9 +257,7 @@ The PlayStation soundtrack consists of 14 tracks with a total runtime of approxi
 - [Steam](https://store.steampowered.com/app/1462210/Battle_Bugs/) - Available for €4.99[^ref-3]
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/msdos_Battle_Bugs_1994) - Playable in browser[^ref-25]
 - [Internet Archive - Manual](https://archive.org/details/battle-bugs-manual)[^ref-26]
-- [ClassicReload](https://classicreload.com/battle-bugs.html) - Browser-playable version[^ref-2]
 
 **Manuals & Extras**
 - [DOS Games Archive - Manual](https://www.dosgamesarchive.com/docawd.php?sf=battle_bugs_manual.txt) - Text version[^ref-10]
@@ -297,20 +295,20 @@ The PlayStation soundtrack consists of 14 tracks with a total runtime of approxi
 ## References
 
 [^ref-1]: [MobyGames – Battle Bugs](https://www.mobygames.com/game/308/battle-bugs/) – credits, ratings, development details, trivia
-[^ref-2]: [ClassicReload – Battle Bugs](https://classicreload.com/battle-bugs.html) – gameplay description, strategic elements
+[^ref-2]: ClassicReload – Battle Bugs *(download link removed: the game is sold commercially)* – gameplay description, strategic elements
 [^ref-3]: [Steam Store – Battle Bugs](https://store.steampowered.com/app/1462210/Battle_Bugs/) – release date, developer credits, review scores, Dennis Caswell background
 [^ref-4]: [Amazon – Battle Bugs](https://www.amazon.com/IBM-Battle-Bugs/dp/B000BK6H9W) – product description, Winston Anthill quotes, customer reviews
 [^ref-5]: [MobyGames – Battle Bugs Releases](https://www.mobygames.com/game/308/battle-bugs/releases/) – release dates by region/platform, publisher details, sound credits
 [^ref-8]: [Sierra Chest – Battle Bugs Walkthrough](https://www.sierrachest.com/index.php?a=games&id=391&title=battle-bugs&fld=walkthrough) – narrative context, gameplay mechanics
-[^ref-7]: [DOS Games Archive – Battle Bugs](https://www.dosgamesarchive.com/download/battle-bugs) – campaign structure, Worlds, difficulty progression
+[^ref-7]: DOS Games Archive – Battle Bugs *(download link removed: the game is sold commercially)* – campaign structure, Worlds, difficulty progression
 [^ref-9]: [Game Bytes Magazine Issue 21 (1994)](http://www.ibiblio.org/GameBytes/issue21/greviews/bbugs2.html) – Kevin T. Neely review, technical specifications, gameplay description
 [^ref-10]: [DOS Games Archive – Manual](https://www.abandonwaredos.com/docawd.php?sf=battle_bugs_manual.txt&st=manual&sg=Battle+Bugs&idg=104) – Command TV interface, resolution modes, bug statistics
 [^ref-12]: [PCGamingWiki – Battle Bugs](https://www.pcgamingwiki.com/wiki/Battle_Bugs) – technical specifications, resolution support, system requirements
 [^ref-13]: [Wikipedia – Battle Bugs](https://en.wikipedia.org/wiki/Battle_Bugs) – Computer Gaming World review citation, victory conditions
-[^ref-14]: [PlayClassic.Games – Battle Bugs](https://playclassic.games/games/real-time-tactics-dos-games-online/play-battle-bugs-online/) – environmental effects, unit types
+[^ref-14]: PlayClassic.Games – Battle Bugs *(download link removed: the game is sold commercially)* – environmental effects, unit types
 [^ref-15]: [GOG.com Dreamlist](https://www.gog.com/dreamlist) – Battle Bugs is not listed on GOG; community Dreamlist context for re-release demand
-[^ref-16]: [OldGames.sk – Battle Bugs](https://www.oldgames.sk/en/game/battle-bugs/download/2483/) – rating, platform information
-[^ref-17]: [My Abandonware – Battle Bugs](https://www.myabandonware.com/game/battle-bugs-1pp) – user rating, technical issues, DOSBox compatibility
+[^ref-16]: OldGames.sk – Battle Bugs *(download link removed: the game is sold commercially)* – rating, platform information
+[^ref-17]: My Abandonware – Battle Bugs *(download link removed: the game is sold commercially)* – user rating, technical issues, DOSBox compatibility
 [^ref-18]: [Steemit – Battle Bugs Review](https://steemit.com/gaming/@zulman/90s-games-review-1994-battle-bugs-a-very-unique-real-time-strategy-game) – Epyx company history
 [^ref-19]: [Vintage Computing – Retro Scan](https://www.vintagecomputing.com/index.php/archives/1132/retro-scan-of-the-week-battle-bugs) – Wired magazine advertisement
 [^ref-20]: [MobyGames – Battle Bugs Specs](https://www.mobygames.com/game/308/battle-bugs/specs/) – audio device support, PlayStation specifications
@@ -318,7 +316,7 @@ The PlayStation soundtrack consists of 14 tracks with a total runtime of approxi
 [^ref-22]: [GameFAQs – Battle Bugs FAQ](https://gamefaqs.gamespot.com/pc/565086-battle-bugs/faqs/16689) – AMC walkthrough details
 [^ref-23]: [Neoseeker – Battle Bugs FAQ](https://www.neoseeker.com/battlebugs/faqs/49273-battle-bugs.html) – walkthrough, level strategies
 [^ref-24]: [KHInsider – Battle Bugs Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/battle-bugs-psx-soundtrack) – soundtrack track count, runtime
-[^ref-25]: [Internet Archive – Battle Bugs](https://archive.org/details/msdos_Battle_Bugs_1994) – preservation, browser playability
+[^ref-25]: Internet Archive – Battle Bugs *(download link removed: the game is sold commercially)* – preservation, browser playability
 [^ref-26]: [Internet Archive – Battle Bugs Manual](https://archive.org/details/battle-bugs-manual) – manual preservation
 [^ref-27]: [Free Game Empire – Manual](https://www.freegameempire.com/games/Battle-Bugs/manual) – bug statistics, interface documentation
 [^ref-28]: [Neoseeker – Battle Bugs](https://www.neoseeker.com/battlebugs/) – release date, system requirements

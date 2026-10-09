@@ -10,14 +10,14 @@ series: City Building Series
 engine: Modified Caesar III engine
 protagonist: Player as Greek city governor
 sierra_lineage: Sierra Published
-last_updated: '2026-05-27'
+last_updated: '2026-10-09'
 description: 'Zeus: Master of Olympus is a city-building simulation game set in the
   mythological world of ancient Greece, released by Sierra Studios in October 2000....'
 tags: [2000s, city-building-series, sierra]
 ---
 # Zeus: Master of Olympus
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -315,8 +315,6 @@ Modern retrospectives consistently place Zeus among the finest city-builders eve
 - [Steam](https://store.steampowered.com/app/566050/Zeus__Poseidon/) - Zeus + Poseidon bundle
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/ZeusMasterOfOlympusUSA) - Original USA release
-- [MyAbandonware](https://www.myabandonware.com/game/zeus-master-of-olympus-dor) - Game information and downloads
 
 **Patches & Mods**
 - [Nexus Mods – Resolution Customizer](https://www.nexusmods.com/zeusmasterofolympus/mods/1) - Custom resolution support
@@ -337,14 +335,14 @@ Modern retrospectives consistently place Zeus among the finest city-builders eve
 [^ref-7]: [Rock Paper Shotgun – Have You Played Zeus](https://www.rockpapershotgun.com/have-you-played-zeus-master-of-olympus) – retrospective, Acropolis bundle, hero requirements
 [^ref-8]: [IGN – Poseidon Expansion Review](https://www.ign.com/articles/2001/07/03/zeus-official-expansion-poseidon) – expansion release date, campaign depth
 [^ref-9]: [MobyGames – Zeus: Master of Olympus](https://www.mobygames.com/game/2640/zeus-master-of-olympus/) – designer credits, walker name easter eggs, difficulty preview
-[^ref-10]: [Internet Archive – Zeus](https://archive.org/details/ZeusMasterOfOlympusUSA) – engine information, housing system, walker mechanics
+[^ref-10]: Internet Archive – Zeus *(download link removed: the game is sold commercially)* – engine information, housing system, walker mechanics
 [^ref-11]: [CD Magazine Review (archived)](https://web.archive.org/web/20030525183115/http://www.cdmag.com/articles/030/146/zues_review.html) – Heroic Age setting, reviewer quotes, historical accuracy commentary
 [^ref-12]: [Nerd Bacon – Zeus Review](https://nerdbacon.com/zeus-master-olympus-pc/) – mythology integration, campaign objectives, military system
 [^ref-13]: [GamePro Review (archived)](https://web.archive.org/web/20051220020954/http://gamepro.com/computer/pc/games/reviews/7184.shtml) – accessibility, review score, newcomer suitability
 [^ref-14]: [Eurogamer Review](https://www.eurogamer.net/r-zeus) – 2D isometric engine, camera rotation
 [^ref-15]: [The Digital Antiquarian (Filfre.net)](https://www.filfre.net/?s=Zeus%3A+Master+of+Olympus) – improvements over Pharaoh
 [^ref-16]: [GameFAQs Strategy Guide](https://gamefaqs.gamespot.com/pc/291596-zeus-master-of-olympus/faqs/9573) – adventure/episode structure, Enhancement Pack, adventure editor
-[^ref-17]: [Abandonware DOS – Zeus](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Zeus:+Master+of+Olympus&gid=2372) – user ratings, expansion info, GameSpy quote
+[^ref-17]: Abandonware DOS – Zeus *(download link removed: the game is sold commercially)* – user ratings, expansion info, GameSpy quote
 [^ref-18]: [GameRevolution Review](https://www.gamerevolution.com/review/33315-zeus-master-of-olympus-review) – citizen simulation, walker purpose
 [^ref-19]: [Eurogamer Review (archived)](https://web.archive.org/web/20010413124523/http://www.eurogamer.net/content/r_zeus) – combat assessment, city management focus
 [^ref-21]: [Computer Gaming World (archived)](https://web.archive.org/web/20010406003947/http://www.zdnet.com/cgw/stories/main/0,11529,2669153,00.html) – review score, technical specifications, identity critique
@@ -352,7 +350,7 @@ Modern retrospectives consistently place Zeus among the finest city-builders eve
 [^ref-23]: [Rock Paper Shotgun – Best Management Games](https://www.rockpapershotgun.com/best-management-games) – modern ranking, lasting appeal assessment
 [^ref-24]: [Metacritic User Reviews](https://www.metacritic.com/game/zeus-master-of-olympus/user-reviews/) – user score, combat criticism, modern compatibility issues
 [^ref-25]: [IMDB – Zeus: Master of Olympus](https://www.imdb.com/title/tt0414704/) – user rating, narrator credit
-[^ref-26]: [MyAbandonware – Zeus](https://www.myabandonware.com/game/zeus-master-of-olympus-dor) – user rating, regional releases, version info
+[^ref-26]: MyAbandonware – Zeus *(download link removed: the game is sold commercially)* – user rating, regional releases, version info
 [^ref-27]: [GameZone Press Release (archived)](https://web.archive.org/web/20010306090116/http://www.gamezone.com/news/10_16_00_06_10PM.htm) – Chris Beatrice quote, design philosophy
 [^ref-28]: [TV Tropes – Zeus: Master of Olympus](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ZeusMasterOfOlympus) – Xena influence, character quotes, cheat codes
 [^ref-29]: [IMDB Credits Page](https://m.imdb.com/title/tt0414704/fullcredits/composer?ref_=m_ttfc_4) – full development credits, voice cast

@@ -274,8 +274,6 @@ The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shive
 - [Steam – Shivers](https://store.steampowered.com/app/2148650/Shivers/) — digital edition[^ref-4]
 
 **Download / Preservation**
-- [MyAbandonware – Shivers](https://www.myabandonware.com/game/shivers-3ej) — preservation-quality download with ScummVM compatibility notes[^ref-26]
-- [Internet Archive – Shivers](https://archive.org/details/sierra_shivers) — archival CD-ROM image preservation
 - [PCGamingWiki – Shivers](https://www.pcgamingwiki.com/wiki/Shivers) — modern-OS install guides and patch documentation[^ref-28]
 
 **ScummVM Support**
@@ -318,7 +316,7 @@ The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shive
 [^ref-22]: [Coming Soon Magazine – Shivers Review](http://www.csoon.com/issue12/shivers.htm) – 89% score, graphics praise
 [^ref-23]: [Web Archive – Just Adventure Review](https://web.archive.org/web/20111031132518/http://www.justadventure.com/reviews/Shivers/Shivers_Review2.shtm) – C grade, Ray Ivey review, cut content
 [^ref-24]: [IMDB – Shivers](https://www.imdb.com/title/tt0192604/) – 8.4/10 rating, cast information
-[^ref-26]: [My Abandonware – Shivers](https://www.myabandonware.com/game/shivers-3ej) – user rating, ScummVM compatibility
+[^ref-26]: My Abandonware – Shivers *(download link removed: the game is sold commercially)* – user rating, ScummVM compatibility
 [^ref-27]: [MobyGames – Shivers Credits](https://www.mobygames.com/game/663/shivers/credits) – full development credits, voice cast
 [^ref-28]: [PCGamingWiki – Shivers](https://www.pcgamingwiki.com/wiki/Shivers) – engine version, technical specifications, compatibility
 [^ref-29]: [The Cutting Room Floor – Shivers](https://tcrf.net/Shivers) – cut content, unused assets, regional releases

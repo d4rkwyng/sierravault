@@ -10,7 +10,7 @@ series: Krondor
 engine: 3Space
 protagonist: Gorath, Locklear, Owyn, James, Patrus, Pug
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Jan Paul Moorhead]
 description: Betrayal at Krondor is a groundbreaking role-playing game developed by
   Dynamix and published by Sierra On-Line, released on June 22, 1993 for MS-DOS. Set
@@ -19,7 +19,7 @@ tags: [1990s, dynamix, krondor, rpg, sierra]
 ---
 # Betrayal at Krondor
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -281,8 +281,6 @@ Betrayal at Krondor spawned both official and unofficial successors:
 - [Steam – Betrayal Collection](https://store.steampowered.com/app/559640/Betrayal_Collection/)
 
 **Download / Preservation**
-- [Internet Archive – Betrayal at Krondor (1993)](https://archive.org/details/msdos_Betrayal_at_Krondor_1993)
-- [DOS Games Archive](https://www.dosgamesarchive.com/download/betrayal-at-krondor/)
 
 **Manuals & Extras**
 - [Scribd – Official Manual](https://www.scribd.com/doc/92544684/Betrayal-at-Krondor-Manual)
@@ -297,7 +295,7 @@ Betrayal at Krondor spawned both official and unofficial successors:
 ## References
 
 [^ref-1]: [Wikipedia – Betrayal at Krondor](https://en.wikipedia.org/wiki/Betrayal_at_Krondor) – release date, developers, publishers, awards, version history, technical specifications, trivia
-[^ref-2]: [Internet Archive – Betrayal at Krondor (1993)](https://archive.org/details/msdos_Betrayal_at_Krondor_1993) – plot summary, Feist involvement
+[^ref-2]: Internet Archive – Betrayal at Krondor (1993) *(download link removed: the game is sold commercially)* – plot summary, Feist involvement
 [^ref-3]: [Betrayal Fandom Wiki](https://betrayal.fandom.com/wiki/Betrayal_at_Krondor) – contemporary reviews from Pelit, Dragon, Quandary, Computer Gaming World
 [^ref-4]: [Official Raymond E. Feist Website](https://www.crydee.com/raymond-feist/games/computer-based/betrayal-at-krondor) – chapter structure, gameplay features
 [^ref-5]: [COMPUTE! Magazine Issue 159](https://www.atarimagazines.com/compute/issue159/110_Betrayal_at_Krondor.php) – 3Space engine, technical details, Scott A. May review

@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary (DOS)
 protagonist: Player-created Knight
 sierra_lineage: Sierra Published
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [David Milner]
 description: 'Conqueror: A.D. 1086 is an ambitious hybrid strategy, role-playing,
   and action game released in 1995, developed by Software Sorcery and published by
@@ -19,7 +19,7 @@ tags: [1990s, rpg, sierra, standalone, strategy]
 ---
 # Conqueror: A.D. 1086
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -230,9 +230,6 @@ Despite its critical reception as a game where presentation exceeded substance, 
 - [GOG.com](https://www.gog.com/game/conqueror_ad_1086) - Digital release with DOSBox
 
 **Download / Preservation**
-- [Internet Archive – German Retail CD](https://archive.org/details/conqueror-ad-1086-1995-german-retail-cd)
-- [MyAbandonware](https://www.myabandonware.com/game/conqueror-a-d-1086-32f)
-- [ClassicReload – Browser Playable](https://classicreload.com/conqueror-ad-1086.html)
 
 **Manuals & Extras**
 - German manual and booklet available through Internet Archive preservation[^ref-17]
@@ -263,10 +260,10 @@ Despite its critical reception as a game where presentation exceeded substance, 
 [^ref-2]: [Wikipedia – Conqueror A.D. 1086](https://en.wikipedia.org/wiki/Conqueror_A.D._1086) – release dates, contemporary review scores, gameplay mechanics, victory conditions
 [^ref-3]: [336GameReviews – Conqueror A.D. 1086 Review](https://www.336gamereviews.com/conqueror-a-d-1086-review/) – modern review score, Mount & Blade comparison, bug documentation
 [^ref-4]: [GameFAQs – Conqueror 1086 AD](https://gamefaqs.gamespot.com/pc/574792-conqueror-1086-ad) – technical specifications, user ratings, gameplay features, genre
-[^ref-5]: [My Abandonware – Conqueror A.D. 1086](https://www.myabandonware.com/game/conqueror-a-d-1086-32f) – user ratings, contemporary review quotes, technical issues, DOSBox compatibility
+[^ref-5]: My Abandonware – Conqueror A.D. 1086 *(download link removed: the game is sold commercially)* – user ratings, contemporary review quotes, technical issues, DOSBox compatibility
 [^ref-6]: [GOG.com Forum – Release Thread](https://www.gog.com/forum/general/release_conqueror_ad_1086_71dd0) – 2017 release date, developer history, gameplay details, user memories
 [^ref-7]: [PCGamingWiki – Conqueror: A.D. 1086](https://www.pcgamingwiki.com/wiki/Conqueror:_A.D._1086) – system requirements, middleware, availability, genre classifications
-[^ref-8]: [Retrogames.onl – Conqueror 1086](https://www.retrogames.onl/2022/07/conqueror-1086-dos.html) – historical setting, player backstory, genre description
+[^ref-8]: Retrogames.onl – Conqueror 1086 *(download link removed: the game is sold commercially)* – historical setting, player backstory, genre description
 [^ref-9]: [NeverDieMedia – Product Listing](https://www.neverdiemedia.com/products/conqueror-a-d-1086-w-manual) – gameplay sections, combat descriptions, graphics quality
 [^ref-10]: [GOG.com – Game Description](https://www.gog.com/game/conqueror_ad_1086) – official marketing description
 [^ref-12]: [GameFAQs – Fan Guide by mikel123456](https://gamefaqs.gamespot.com/pc/574792-conqueror-1086-ad/faqs/66730) – character attributes, DOSBox settings, pricing, gameplay length, fan assessment
@@ -274,9 +271,9 @@ Despite its critical reception as a game where presentation exceeded substance, 
 [^ref-14]: [IGN – Conqueror 1086 A.D. Cheats](https://www.ign.com/wikis/pc-cheats/Conqueror_1086_A.D._Cheats) – jousting exploit, life after death exploit
 [^ref-15]: [Giant Bomb – Conqueror: A.D. 1086](https://www.giantbomb.com/conqueror-ad-1086/3030-7086/) – user ratings, victory conditions, basic game description
 [^ref-16]: [MobyGames – Covers/Releases](https://www.mobygames.com/game/4658/conqueror-ad-1086/covers/) – regional releases, packaging formats
-[^ref-17]: [Internet Archive – German Retail CD](https://archive.org/details/conqueror-ad-1086-1995-german-retail-cd) – documentation contents, media format, preservation
+[^ref-17]: Internet Archive – German Retail CD *(download link removed: the game is sold commercially)* – documentation contents, media format, preservation
 [^ref-18]: [IMDB – Conqueror: A.D. 1086](https://www.imdb.com/title/tt0427090/) – complete voice cast listing, release date
-[^ref-19]: [ClassicReload – Conqueror AD 1086](https://classicreload.com/conqueror-ad-1086.html) – gameplay description, victory conditions
+[^ref-19]: ClassicReload – Conqueror AD 1086 *(download link removed: the game is sold commercially)* – gameplay description, victory conditions
 [^ref-20]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/85600-conqueror-ad-1086) – ESRB rating, gameplay description, genre
 [^ref-21]: [ChapterCheats – Conqueror 1086 AD](https://www.chaptercheats.com/cheats/pc/1137/conqueror-1086-ad-cheat-codes) – ESRB rating, genre, hint contribution
 [^ref-22]: [KHInsider – Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/conqueror-ad-1086-msdos-gamerip-1995) – audio track count, total duration

@@ -180,7 +180,6 @@ Despite its flaws, Gray Matter is remembered as a successful return to form for 
 - GOG.com (currently delisted)[^ref-42]
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/gray-matter)[^ref-43]
 
 ## See Also
 
@@ -238,7 +237,7 @@ Despite its flaws, Gray Matter is remembered as a successful return to form for 
 [^ref-36]: [IGN](https://www.ign.com/articles/2008/04/02/gray-matter-development-taken-over-by-wizarbox-for-release-in-2009) – Developer change information
 [^ref-37]: [GamesIndustry.biz](https://www.gamesindustry.biz/gray-matter-english-voice-recordings-complete-march-2010-release-now-envisaged) – Voice recording completion and cast information
 [^ref-38]: [KHInsider](https://downloads.khinsider.com/game-soundtracks/album/gray-matter-original-soundtrack-2010) – Soundtrack composition details
-[^ref-39]: [FreeGOGPCGames](https://freegogpcgames.com/1551/gray-matter/) – Technical engine specifications
+[^ref-39]: FreeGOGPCGames *(download link removed: the game is sold commercially)* – Technical engine specifications
 [^ref-41]: [MobyGames](https://www.mobygames.com/game/49129/gray-matter/releases/) – International releases
 [^ref-42]: [Web Archive](https://web.archive.org/web/20180603122043/https:/www.gog.com/game/gray_matter) – GOG.com archived listing
-[^ref-43]: [Internet Archive](https://archive.org/details/gray-matter) – Preservation listing
+[^ref-43]: Internet Archive *(download link removed: the game is sold commercially)* – Preservation listing

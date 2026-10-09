@@ -134,7 +134,7 @@ The series maintains an active fan community decades after the original games:
 > - **KQ8 (Mask of Eternity)** - GOG only, not included in Steam collection
 > - **KQ1** - GOG includes 1987 AGI version only; Steam includes 1990 SCI remake
 > - **KQ4** - Released with both AGI and SCI versions in 1988; digital releases include SCI version
-> - For the original 1984 PCjr version, see the [Internet Archive](https://archive.org/details/kings-quest-1-pcjr)
+> - For the original 1984 PCjr version, see the Internet Archive
 
 ### Compatibility
 - **[ScummVM](https://www.scummvm.org/)** - Supports all AGI and SCI entries (KQ1-7)

@@ -11,7 +11,7 @@ series: Caesar
 engine: Titan Engine
 protagonist: Roman Provincial Governor (player)
 sierra_lineage: Sierra Published
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: Caesar IV is a city-building simulation game developed by Tilted Mill
   Entertainment and published by Sierra Entertainment, released in September 2006
   after...
@@ -19,7 +19,7 @@ tags: [2000s, caesar, sierra]
 ---
 # Caesar IV
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -281,7 +281,7 @@ For players seeking Roman city-building experiences, Caesar IV remains relevant 
 [^ref-3]: [Internet Archive – Caesar IV Demo](https://archive.org/details/Caesar4_201403) – official game description, player role
 [^ref-4]: [MobyGames – Caesar IV](https://www.mobygames.com/game/24324/caesar-iv/) – development credits, publisher list, bundled content, server shutdown date, user reviews
 [^ref-5]: [GamesIndustry.biz – Vivendi Announces Caesar IV](https://www.gamesindustry.biz/vivendi-universal-games-announces-development-of-sierra-entertainments-caesartm-iv) – announcement, Bret Berry quotes, sales figures
-[^ref-8]: [FreeGOGPCGames – Caesar IV](https://freegogpcgames.com/963/caesar-iv/) – gameplay hours, feature list
+[^ref-8]: FreeGOGPCGames – Caesar IV *(download link removed: the game is sold commercially)* – gameplay hours, feature list
 [^ref-9]: [Metacritic – Caesar IV Critic Reviews](https://www.metacritic.com/game/caesar-iv/critic-reviews/?platform=pc) – aggregate score, review distribution, publication quotes
 [^ref-10]: [Grokipedia – Caesar IV](https://grokipedia.com/page/Caesar_IV) – historical eras, development timeline
 [^ref-11]: [Caesar IV Heaven – Walkthroughs](https://caesar4.heavengames.com/gameinfo/walkthroughs/) – campaign structure, scenario lists, Roma availability

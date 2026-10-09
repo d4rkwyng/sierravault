@@ -1,7 +1,7 @@
 ---
 title: "Cancelled Games"
 type: guide
-last_updated: "2026-05-11"
+last_updated: '2026-10-09'
 ---
 # Sierra's Cancelled Games: The Ones That Got Away
 
@@ -254,6 +254,6 @@ The tragedy is that many of these games could have been great. The talent was th
 [^ref-20]: [Manhunter Wiki – Manhunter 3: London](https://manhunter.fandom.com/wiki/Manhunter_3:_London) – cancelled game information
 [^ref-21]: [Sierra Gamers Forums – Why was there never a third game?](https://www.sierragamers.com/forums/topic/why-was-there-never-a-third-game/) – Ken Williams explanation
 [^ref-22]: [AGD Interactive Forums – Manhunter 3: London coming soon](http://www.agdinteractive.com/forum/viewtopic.php?t=12634) – 2008 revival information
-[^ref-24]: [GamesNostalgia – Red Baron](https://gamesnostalgia.com/game/red-baron) – Kickstarter amount raised
+[^ref-24]: GamesNostalgia – Red Baron *(download link removed: the game is sold commercially)* – Kickstarter amount raised
 [^ref-25]: [IGN – SWAT: Urban Justice Developer Diary #5](https://www.ign.com/articles/2002/05/01/swat-urban-justice-developer-diary-5) – Evan Buehler sound design
 [^ref-26]: [Wiw.org – Old SQ7 Archive](http://www.wiw.org/~jess/old_sq7.html) – Christmas Eve cancellation quote

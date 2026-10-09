@@ -139,7 +139,6 @@ Fan communities continue to create content inspired by The Colonel's Bequest, in
 - [GOG](https://www.gog.com/en/game/the_colonels_bequest)
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/the-colonel-s-bequest-oq)
 
 ## See Also
 
@@ -160,9 +159,9 @@ Fan communities continue to create content inspired by The Colonel's Bequest, in
 [^ref-7]: [MobyGames - Releases](https://www.mobygames.com/game/461/the-colonels-bequest/releases/) – - Platform release information
 [^ref-8]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/The_Colonel%27s_Bequest) – - Technical engine details
 [^ref-9]: [Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=33&fld=general) – - Opening setting description
-[^ref-10]: [Play Classic Games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-the-colonels-bequest-online/) – - Character background information
+[^ref-10]: Play Classic Games *(download link removed: the game is sold commercially)* – - Character background information
 [^ref-11]: [Archive.org Description](https://archive.org/details/CBQUEST) – - Plot setup details
-[^ref-12]: [Archive.org Manual](https://archive.org/details/msdos_Laura_Bow_1_-_The_Colonels_Bequest_1989) – - Story background from game documentation
+[^ref-12]: Archive.org Manual *(download link removed: the game is sold commercially)* – - Story background from game documentation
 [^ref-13]: [Adventure Classic Gaming Review](https://www.adventureclassicgaming.com/index.php/site/reviews/99/) – - Plot analysis and character descriptions
 [^ref-14]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/565069-the-colonels-bequest-a-laura-bow-mystery/faqs/12834) – - Gameplay mechanics explanation
 [^ref-15]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/The_Colonel's_Bequest) – - Complete character descriptions
@@ -175,7 +174,7 @@ Fan communities continue to create content inspired by The Colonel's Bequest, in
 [^ref-22]: [Gaming After 40 Blog](http://gamingafter40.blogspot.com/2009/09/adventure-of-week-sierras-colonels.html) – - Graphics quality assessment
 [^ref-23]: [Giant Bomb](https://www.giantbomb.com/laura-bow-2-the-dagger-of-amon-ra/3030-22199/) – - Voice acting technical achievement context
 [^ref-24]: [Ben Shoof Analysis](https://www.benshoof.org/blog/super-sleuth) – - Real-time system technical analysis
-[^ref-25]: [My Abandonware Review](https://www.myabandonware.com/game/the-colonel-s-bequest-oq) – - Replay value discussion
+[^ref-25]: My Abandonware Review *(download link removed: the game is sold commercially)* – - Replay value discussion
 [^ref-26]: [PC Gamer Retrospective](https://www.pcgamer.com/30-years-later-sierras-laura-bow-mysteries-are-still-a-treasure/) – - Developer interview about real-time design
 [^ref-27]: [Sierra Chest Walkthrough](https://sierrachest.com/index.php?a=games&id=33&title=laura-bow-1&fld=walkthrough&pid=100) – - Scoring system details
 [^ref-28]: [Adventure Classic Gaming](https://www.adventureclassicgaming.com/index.php/site/reviews/270/) – - Gameplay mechanics comparison to other Sierra games
@@ -196,7 +195,7 @@ Fan communities continue to create content inspired by The Colonel's Bequest, in
 [^ref-43]: [Adventure Game Hotspot](https://adventuregamehotspot.com/blog/2219/is-laura-bow-ready-for-another-adventure) – - Influence on later adventure games
 [^ref-44]: [SCI Programming Community](https://sciprogramming.com/community/index.php?topic=1556.0) – - Easter egg discovery documentation
 [^ref-45]: [The Cutting Room Floor](https://tcrf.net/The_Colonel's_Bequest) – - Unused content documentation
-[^ref-46]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Colonel's+Bequest&gid=1388) – - 1993 reissue improvements
+[^ref-46]: Abandonware DOS *(download link removed: the game is sold commercially)* – - 1993 reissue improvements
 [^ref-47]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/The_Colonel's_Bequest) – - Modern compatibility and preservation
 [^ref-48]: [Virtual Moose Blog](https://virtualmoose.org/2023/01/) – - Influence on modern games like The Crimson Diamond
 [^ref-49]: [MobyGames Dagger](https://www.mobygames.com/game/462/the-dagger-of-amon-ra/) – - Sequel development and creative oversight

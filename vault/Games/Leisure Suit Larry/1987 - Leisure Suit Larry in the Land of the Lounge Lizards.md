@@ -193,7 +193,7 @@ Academic analysis has also examined the series' cultural significance, with the 
 [^ref-8]: [Wikipedia Article](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards) – - Publisher information
 [^ref-9]: [GameFAQs Database](https://gamefaqs.gamespot.com/pc/565080-leisure-suit-larry-in-the-land-of-the-lounge-lizards/data) – - Platform release information
 [^ref-10]: [AGI Specifications](http://www.agidev.com/articles/agispec/agispecs-2.html) – - Technical engine documentation
-[^ref-11]: [Archive.org Game Description](https://archive.org/details/msdos_Leisure_Suit_Larry_1_-_Land_of_the_Lounge_Lizards_1987) – - Character description
+[^ref-11]: Archive.org Game Description *(download link removed: the game is sold commercially)* – - Character description
 [^ref-12]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2022/12/19/leisure-suit-larry/) – - Game objective description
 [^ref-13]: [GOG.com Page](https://www.gog.com/en/game/leisure_suit_larry) – - Lost Wages description
 [^ref-14]: [Adventure Classic Gaming Review](http://www.adventureclassicgaming.com/index.php/site/reviews/264/) – - Location descriptions
@@ -220,5 +220,5 @@ Academic analysis has also examined the series' cultural significance, with the 
 [^ref-35]: [Wikipedia Series](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) – - Ken Williams franchise assessment
 [^ref-36]: [Metro Article](https://metro.co.uk/2025/05/01/super-sexist-leisure-suit-larry-franchise-delisted-steam-23007502/) – - Modern delisting coverage
 [^ref-37]: [Steam Community](https://steamcommunity.com/app/763970/discussions/0/600771622034541259/) – - Steam availability discussion
-[^ref-38]: [Internet Archive 1991](https://archive.org/details/msdos_Leisure_Suit_Larry_1_-_Land_of_the_Lounge_Lizards_VGA_1991) – - VGA remake preservation
-[^ref-39]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Leisure+Suit+Larry+1:+In+the+Land+of+the+Lounge+Lizards&gid=1258) – - User ratings and download
+[^ref-38]: Internet Archive 1991 *(download link removed: the game is sold commercially)* – - VGA remake preservation
+[^ref-39]: Abandonware DOS *(download link removed: the game is sold commercially)* – - User ratings and download

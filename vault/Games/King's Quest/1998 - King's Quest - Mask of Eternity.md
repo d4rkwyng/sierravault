@@ -292,9 +292,7 @@ Despite its flaws, some players discovered genuine enjoyment in the game's hybri
 - [GOG.com – King's Quest 7+8](https://www.gog.com/en/game/kings_quest_7_8)
 
 **Download / Preservation**
-- [Internet Archive – King's Quest: Mask of Eternity](https://archive.org/details/kings-quest-mask-of-eternity_202104)
 - [Internet Archive – Demo Version](https://archive.org/details/MASKDEMO)
-- [MyAbandonware](https://www.myabandonware.com/game/king-s-quest-mask-of-eternity-3a7)
 
 **Technical Support**
 - [PCGamingWiki – Compatibility Fixes](https://www.pcgamingwiki.com/wiki/King%27s_Quest:_Mask_of_Eternity)
@@ -340,7 +338,7 @@ Despite its flaws, some players discovered genuine enjoyment in the game's hybri
 [^ref-25]: [MobyGames – Windows Reviews](https://www.mobygames.com/game/136/kings-quest-mask-of-eternity/reviews/windows/) – user reviews, bug reports
 [^ref-26]: [GOG.com – King's Quest 7+8](https://www.gog.com/en/game/kings_quest_7_8) – user reviews, system requirements
 [^ref-27]: [Reddit – r/Sierra Discussion](https://www.reddit.com/r/Sierra/comments/1exg0zy/what_do_you_think_of_kings_quest_8_mask_of/) – fan opinions
-[^ref-28]: [MyAbandonware – KQ8 Entry](https://www.myabandonware.com/game/king-s-quest-mask-of-eternity-3a7) – user reviews, compatibility notes
+[^ref-28]: MyAbandonware – KQ8 Entry *(download link removed: the game is sold commercially)* – user reviews, compatibility notes
 [^ref-29]: [IMDB – King's Quest: Mask of Eternity](https://www.imdb.com/find/?q=King%27s+Quest%3A+Mask+of+Eternity&s=tt) – user rating
 [^ref-30]: [Internet Archive – Adventure Gamer Review (1999)](https://web.archive.org/web/19991122022616/http://www.adventuregamer.com/reviews/sierra/eternity.shtml) – Darris Hupp review, development timeline
 [^ref-31]: [Internet Archive – RPG Vault 1998 Awards](https://web.archive.org/web/20030323165206/http://rpgvaultarchive.ign.com/features/specials/awards98.shtml) – Best 3D Engine award

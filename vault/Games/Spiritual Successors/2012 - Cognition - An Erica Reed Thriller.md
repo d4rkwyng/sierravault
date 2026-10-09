@@ -197,7 +197,6 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 ## Downloads
 
 **Download / Preservation**
-- [Old-Games.com](https://www.old-games.com/download/12027/cognition-an-erica-reed-thriller) - Windows-compatible version[^ref-26]
 - Available through GOG with modern system compatibility
 
 **Bonus Content**
@@ -245,4 +244,4 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 [^ref-21]: [MobyGames GOTY Edition](https://www.mobygames.com/game/68533/cognition-game-of-the-year-edition/) - Critics rating, bonus content
 [^ref-22]: [Steam Community Discussions](https://steamcommunity.com/app/242780/discussions/) - Technical issues reported
 [^ref-25]: [Phoenix Online Store - Soundtrack](https://store.postudios.com/) - Music credits, Austin Haynes description
-[^ref-26]: [Old-Games.com](https://www.old-games.com/download/12027/cognition-an-erica-reed-thriller) - System compatibility
+[^ref-26]: Old-Games.com *(download link removed: the game is sold commercially)* - System compatibility

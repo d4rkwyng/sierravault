@@ -10,7 +10,7 @@ series: Homeworld
 engine: Homeworld 2 Engine
 protagonist: Karan S'jet / Fleet Command
 sierra_lineage: Sierra Published
-last_updated: '2026-05-27'
+last_updated: '2026-10-09'
 composer: [Paul Ruskay]
 description: Homeworld Remastered Collection is a comprehensive restoration of Relic
   Entertainment's groundbreaking space real-time strategy games, released on February...
@@ -18,7 +18,7 @@ tags: [2010s, homeworld, sierra, strategy]
 ---
 # Homeworld Remastered Collection
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -358,7 +358,7 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [^ref-1]: [2K Games – Homeworld Remastered Collection](http://web.archive.org/web/20260504045441/https://2k.com/games/homeworld/homeworld-remastered-collection/) – release date, platforms, developers, ESRB rating, technical specs
 [^ref-2]: [IGN – Homeworld Remastered Collection Review](https://archive.today/20150225000233/http://www.ign.com/articles/2015/02/24/homeworld-remastered-collection-review) – 9.0/10 score, Dan Stapleton review, Cataclysm exclusion, technical issues
 [^ref-3]: [2K Games – Homeworld Official Site](http://web.archive.org/web/20260504045441/https://2k.com/games/homeworld/) – publisher info, resolution support, marketing quotes
-[^ref-4]: [Internet Archive – Homeworld ISO](https://archive.org/details/hw-1_20211101) – original release date, plot summary, gameplay features
+[^ref-4]: Internet Archive – Homeworld ISO *(download link removed: the game is sold commercially)* – original release date, plot summary, gameplay features
 [^ref-5]: [IGN – Original Homeworld Review (1999)](http://www.ign.com/articles/1999/10/01/homeworld) – Game of the Year status, Alex Garden quotes, difficulty assessment
 [^ref-6]: [Metacritic – Homeworld Critic Reviews](https://www.metacritic.com/game/homeworld/critic-reviews/?platform=pc) – 93 Metascore, individual publication scores, review excerpts
 [^ref-7]: [Engadget – Gearbox Homeworld Remastered Interview](https://www.engadget.com/2015-02-04-gearbox-homeworld-remastered-interview.html) – acquisition details, file size comparison, development timeline
@@ -372,7 +372,7 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [^ref-15]: [Homeworld Fandom Wiki – Relic Entertainment](https://homeworld.fandom.com/wiki/Relic_Entertainment) – company history, development challenges
 [^ref-16]: [IMDB – Homeworld (1999)](https://www.imdb.com/title/tt0475297/) – voice cast, user rating, release date, Karan quote
 [^ref-17]: [The Digital Antiquarian – Homeworld](https://web.archive.org/web/20260324095619/https://www.filfre.net/2026/01/homeworld/) – Alex Garden quotes, development timeline, cut content, interface development
-[^ref-18]: [Internet Archive – Homeworld 2](https://archive.org/details/homeworld-2) – HW2 release date, Vaygr/Hiigaran details
+[^ref-18]: Internet Archive – Homeworld 2 *(download link removed: the game is sold commercially)* – HW2 release date, Vaygr/Hiigaran details
 [^ref-19]: [D.I.C.E. Awards – Homeworld](https://www.interactive.org/games/video_game_details.asp?idAward=2000&idGame=487) – interface description, award nominations
 [^ref-20]: [GameSpot – Original Homeworld Review](http://www.gamespot.com/reviews/homeworld-review/1900-2537718/) – 9/10 score, mission count, multiplayer details
 [^ref-21]: [Game Informer – Homeworld Remastered Review](https://www.gameinformer.com/games/homeworld_remastered/b/pc/archive/2015/03/03/reliving-the-sci-fi-past.aspx) – 8/10 score, persistent fleet, technical issues

@@ -182,8 +182,6 @@ The Beast Within's commercial success, reaching fourth place in January 1996's b
 - [Steam – Gabriel Knight 2: The Beast Within](https://store.steampowered.com/app/496760/) – Digital purchase
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/the-beast-within-a-gabriel-knight-mystery-3gu) - Abandonware preservation site
-- [Internet Archive](https://archive.org/details/TheBeastWithinAGabrielKnightMysteryUSAEurope) - Historical software preservation
 
 ## See Also
 
@@ -193,12 +191,12 @@ The Beast Within's commercial success, reaching fourth place in January 1996's b
 
 ## References
 
-[^ref-1]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=The+Beast+Within%3A+A+Gabriel+Knight+Mystery) – - Game database search results
+[^ref-1]: AbandonwareDOS Search *(download link removed: the game is sold commercially)* – - Game database search results
 [^ref-2]: [Adventure Classic Gaming Interview with Jane Jensen](http://www.adventureclassicgaming.com/index.php/site/interviews/179/) – - Development insights and creative process
 [^ref-3]: [Adventure Classic Gaming Interview with Dean Erickson](http://www.adventureclassicgaming.com/index.php/site/interviews/206/) – - Behind-the-scenes production information
 [^ref-4]: Adventure Gamers Search *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - General adventure gaming coverage
 [^ref-5]: Adventure Gamers Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - Comprehensive gameplay guide and story details
-[^ref-6]: [Internet Archive Game Entry](https://archive.org/details/TheBeastWithinAGabrielKnightMysteryUSAEurope) – - Basic metadata and game description
+[^ref-6]: Internet Archive Game Entry *(download link removed: the game is sold commercially)* – - Basic metadata and game description
 [^ref-7]: [Fan Walkthrough and Analysis](http://bonny.ploeg.ws/gk2.html) – - Detailed German translations and critical review
 [^ref-8]: [Hartford Courant 1996 Article](https://www.courant.com/1996/04/01/computer-games-no-longer-just-for-children/) – - Contemporary commercial success documentation
 [^ref-9]: [Death by Troggles Review](https://deathbytroggles.com/2013/01/18/43-the-beast-within-a-gabriel-knight-mystery/) – - Fan review and analysis
@@ -229,9 +227,9 @@ The Beast Within's commercial success, reaching fourth place in January 1996's b
 [^ref-35]: [MobyGames Search](https://www.mobygames.com/search/?q=The+Beast+Within%3A+A+Gabriel+Knight+Mystery) – - Database search results
 [^ref-36]: [MobyGames Patches](https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/patches/) – - Technical patch information
 [^ref-37]: [MobyGames Reviews](https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/reviews/) – - Player review collection
-[^ref-38]: [MyAbandonware Search](https://www.myabandonware.com/search/q/The+Beast+Within%3A+A+Gabriel+Knight+Mystery) – - Abandonware site search
-[^ref-39]: [MyAbandonware Game Page](https://www.myabandonware.com/game/the-beast-within-a-gabriel-knight-mystery-3gu) – - Detailed game analysis
-[^ref-40]: [OldGames.sk Entry](https://www.oldgames.sk/en/game/gabriel-knight-2-the-beast-within/download/4734/) – - Game database with ratings
+[^ref-38]: MyAbandonware Search *(download link removed: the game is sold commercially)* – - Abandonware site search
+[^ref-39]: MyAbandonware Game Page *(download link removed: the game is sold commercially)* – - Detailed game analysis
+[^ref-40]: OldGames.sk Entry *(download link removed: the game is sold commercially)* – - Game database with ratings
 [^ref-41]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery) – - Technical reference and compatibility
 [^ref-42]: [Reddit Sierra Discussion](https://www.reddit.com/r/Sierra/comments/1nsjqfi/the_beast_within_a_gabriel_knight_mystery_1995/) – - Community discussion
 [^ref-43]: [Reddit DOS Gaming](https://www.reddit.com/r/dosgaming/comments/1is6363/the_beast_within_a_gabriel_knight_mystery_yagim/) – - DOS gaming community post

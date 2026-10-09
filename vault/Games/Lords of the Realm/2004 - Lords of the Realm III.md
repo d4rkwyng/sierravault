@@ -11,14 +11,14 @@ series: Lords of the Realm
 engine: Full 3D engine
 protagonist: Medieval Lord (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-10-09'
 description: '**Lords of the Realm III** is a medieval themed real-time strategy computer
   game released in 2004. Developed by Impressions Games and published by Sierra...'
 tags: [2000s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm III
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -117,7 +117,6 @@ The game's budget pricing strategy ($19.99 at launch) helped establish a precede
 - [GOG.com](https://www.gog.com/en/game/lords_of_the_realm_3)
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/lords-of-the-realm-3_202204)
 
 ## See Also
 
@@ -130,7 +129,7 @@ The game's budget pricing strategy ($19.99 at launch) helped establish a precede
 
 ## References
 
-[^ref-1]: [Internet Archive](https://archive.org/details/lords-of-the-realm-3_202204) – - Game overview and release date
+[^ref-1]: Internet Archive *(download link removed: the game is sold commercially)* – - Game overview and release date
 [^ref-2]: [Wikipedia - Lords of the Realm III](https://en.wikipedia.org/wiki/Lords_of_the_Realm_III) – - Development and publisher information
 [^ref-3]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LordsOfTheRealm3) – - Series position and gameplay overview
 [^ref-4]: [MobyGames](https://www.mobygames.com/game/24614/lords-of-the-realm-iii/) – - Historical setting and time period

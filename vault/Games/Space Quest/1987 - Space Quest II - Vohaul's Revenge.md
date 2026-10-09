@@ -153,8 +153,6 @@ This game has been included in the following collections:
 
 **Download / Preservation**
 
-- [Internet Archive – Space Quest II: Vohaul's Revenge](https://archive.org/details/wozaday_Space_Quest_II_Vohauls_Revenge)[^ref-10]
-- [DOS.Zone – Play in Browser](https://dos.zone/space-quest-ii-vohaul-s-revenge/)[^ref-18]
 - [Sarien.net – Play in Browser](https://sarien.net/spacequest2) – JavaScript AGI interpreter with multiplayer[^ref-24]
 - [Infamous Adventures – Space Quest II VGA Remake](https://infamousadventures.itch.io/space-quest-ii-vga-remake) – free fan remake with voice acting[^ref-27]
 
@@ -193,7 +191,7 @@ This game has been included in the following collections:
 [^ref-7]: [GOG – Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) – purchase, user reviews
 [^ref-8]: [HowLongToBeat – Space Quest II](https://howlongtobeat.com/game/8864) – completion times
 [^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
-[^ref-10]: [Internet Archive – Space Quest II](https://archive.org/details/wozaday_Space_Quest_II_Vohauls_Revenge) – preservation, historical versions
+[^ref-10]: Internet Archive – Space Quest II *(download link removed: the game is sold commercially)* – preservation, historical versions
 [^ref-11]: [PCGamingWiki – Space Quest II](https://www.pcgamingwiki.com/wiki/Space_Quest_II%3A_Chapter_II_-_Vohaul%27s_Revenge) – technical specs, fixes
 [^ref-12]: [StrategyWiki – Space Quest II](https://strategywiki.org/wiki/Space_Quest_II) – game guide
 [^ref-13]: [AGI Wiki – Space Quest II](http://agiwiki.sierrahelp.com/index.php/Space_Quest_II%3A_Vohaul%27s_Revenge) – engine details
@@ -201,7 +199,7 @@ This game has been included in the following collections:
 [^ref-15]: [Hardcore Gaming 101 – Space Quest](http://www.hardcoregaming101.net/space-quest/) – retrospective analysis
 [^ref-16]: [Space Quest FAQ](https://wiw.org/~jess/sqfaq.html) – FREE Mating Whistle error
 [^ref-17]: [Virtual Broomcloset – Publications Archive](https://wiw.org/~jess/publications.html) – manuals, hint books
-[^ref-18]: [DOS.Zone – Space Quest II](https://dos.zone/space-quest-ii-vohaul-s-revenge/) – play in browser
+[^ref-18]: DOS.Zone – Space Quest II *(download link removed: the game is sold commercially)* – play in browser
 [^ref-19]: Adventure Gamers – Space Quest II *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – review, Vohaul brothers backstory, maze descriptions, dead ends
 [^ref-20]: [TVTropes – Space Quest II](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestIIVohaulsRevenge) – parodies, easter eggs, notable deaths, parser humor
 [^ref-21]: [The Cutting Room Floor – Space Quest II](https://tcrf.net/Space_Quest_II:_Vohaul%27s_Revenge) – debug mode, unused graphics, cut content, source code leak

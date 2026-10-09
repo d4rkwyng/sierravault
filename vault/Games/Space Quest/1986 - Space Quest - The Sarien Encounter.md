@@ -193,8 +193,6 @@ This game has been included in the following collections:
 
 **Download / Preservation**
 
-- [Internet Archive – Space Quest: The Sarien Encounter](https://archive.org/details/wozaday_Space_Quest)[^ref-12]
-- [My Abandonware – Space Quest: The Sarien Encounter](https://www.myabandonware.com/game/space-quest-chapter-i-the-sarien-encounter-8z)[^ref-13]
 - [Sarien.net – Play in Browser](https://sarien.net/spacequest1) – JavaScript AGI interpreter with multiplayer[^ref-25]
 
 **Manuals & Extras**
@@ -239,8 +237,8 @@ This game has been included in the following collections:
 [^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
 [^ref-10]: [HowLongToBeat – Space Quest I](https://howlongtobeat.com/game/8863) – completion times
 [^ref-11]: [WiW – Two Guys from Andromeda Interview](https://wiw.org/~jess/2guysint.html) – development history, design philosophy
-[^ref-12]: [Internet Archive – Space Quest: The Sarien Encounter](https://archive.org/details/wozaday_Space_Quest) – preservation, historical versions
-[^ref-13]: [My Abandonware – Space Quest I](https://www.myabandonware.com/game/space-quest-chapter-i-the-sarien-encounter-8z) – platforms, availability
+[^ref-12]: Internet Archive – Space Quest: The Sarien Encounter *(download link removed: the game is sold commercially)* – preservation, historical versions
+[^ref-13]: My Abandonware – Space Quest I *(download link removed: the game is sold commercially)* – platforms, availability
 [^ref-14]: [MobyGames – Space Quest I](https://www.mobygames.com/game/114/space-quest-chapter-i-the-sarien-encounter/) – Oct 1986; 69% critics; DOS/Amiga 1986, Atari ST/Mac/Apple II 1987; Sierra On-Line developer/publisher
 [^ref-15]: [PCGamingWiki – Space Quest: The Sarien Encounter](https://www.pcgamingwiki.com/wiki/Space_Quest%3A_The_Sarien_Encounter) – technical specs, fixes, copy protection (AGI uses CPC Copy Protection DRM, floppy disk check, manual lookup)
 [^ref-16]: [Sierra Help – Space Quest 1 AGI](https://sierrahelp.com/Games/SpaceQuest/SQ1AGIHelp.html) – patches, technical help

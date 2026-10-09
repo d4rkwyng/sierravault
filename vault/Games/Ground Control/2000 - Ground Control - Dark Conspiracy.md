@@ -10,7 +10,7 @@ series: Ground Control
 engine: DirectX 7
 protagonist: Major Sarah Parker
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Ola Strandh]
 description: 'Ground Control: Dark Conspiracy is an expansion pack for the critically
   acclaimed real-time tactics game Ground Control, developed by High Voltage Software...'
@@ -18,7 +18,7 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control: Dark Conspiracy
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -235,7 +235,6 @@ The game's legacy is preserved through digital distribution on platforms like GO
 - [GOG.com – Ground Control Anthology](https://www.gog.com/en/game/ground_control_expansion)
 
 **Download / Preservation**
-- [Old-Games.com](https://www.old-games.com/download/6548/ground-control-dark-conspiracy)
 
 **Resources**
 - [GameFAQs Strategy Guides](https://gamefaqs.gamespot.com/pc/371478-ground-control-dark-conspiracy/faqs)
@@ -258,7 +257,7 @@ The game's legacy is preserved through digital distribution on platforms like GO
 [^ref-8]: [MobyGames – Ground Control](https://www.mobygames.com/game/1714/ground-control/) – gameplay mechanics description
 [^ref-9]: [MobyGames – Ground Control: Dark Conspiracy Credits](https://www.mobygames.com/game/11173/ground-control-dark-conspiracy/credits/windows/) – development credits, composer, trivia
 [^ref-10]: [UVList – Ground Control: Dark Conspiracy](https://www.uvlist.net/game-171043-Ground+Control+Dark+Conspiracy) – technical specs, international reviews
-[^ref-11]: [Old-Games.com – Ground Control: Dark Conspiracy](https://www.old-games.com/download/6548/ground-control-dark-conspiracy) – development details, story context
+[^ref-11]: Old-Games.com – Ground Control: Dark Conspiracy *(download link removed: the game is sold commercially)* – development details, story context
 [^ref-12]: [GameFAQs – Ground Control: Dark Conspiracy FAQs](https://gamefaqs.gamespot.com/pc/371478-ground-control-dark-conspiracy/faqs/18551) – faction information, version history
 [^ref-13]: [GameFAQs – Ground Control: Dark Conspiracy](https://gamefaqs.gamespot.com/pc/371478-ground-control-dark-conspiracy) – user ratings, game length
 [^ref-14]: [Neoseeker – Ground Control: Dark Conspiracy](https://www.neoseeker.com/groundcontroldc/) – Phoenix Mercenaries faction details

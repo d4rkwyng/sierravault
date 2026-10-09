@@ -10,7 +10,7 @@ series: Krondor Series
 engine: Updated version of Betrayal at Krondor engine
 protagonist: Aren
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: Betrayal in Antara is a 1997 role-playing game developed and published
   by Sierra On-Line as a spiritual successor to the acclaimed 1993 title Betrayal
   at...
@@ -18,7 +18,7 @@ tags: [1990s, krondor-series, rpg, sierra]
 ---
 # Betrayal in Antara
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -123,7 +123,6 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 ## Downloads
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/betrayal-in-antara-d7p)
 
 ## See Also
 
@@ -133,7 +132,7 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 ## References
 
 [^ref-1]: [Wikipedia - Betrayal in Antara](https://en.wikipedia.org/wiki/Betrayal_in_Antara) – - Basic game information and development details
-[^ref-2]: [Internet Archive - Betrayal in Antara USA](https://archive.org/details/BetrayalInAntaraUSA) – - Game engine details and technical specifications
+[^ref-2]: Internet Archive - Betrayal in Antara USA *(download link removed: the game is sold commercially)* – - Game engine details and technical specifications
 [^ref-3]: [Crydee.com - Raymond E. Feist FAQ](https://www.crydee.com/raymond-feist/faq/2589/is-betrayal-at-antara-by-dynamix-based-in-midkemia) – - Author's clarification on game relationship
 [^ref-4]: [The Digital Antiquarian](https://www.filfre.net/?s=Betrayal+in+Antara) – - Development context and licensing issues
 [^ref-5]: [Archive.org - Game Manual](https://archive.org/stream/vgmuseum_sierra_antara-manual/antara-manual_djvu.txt) – - Designer introduction and development story
@@ -151,15 +150,15 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 [^ref-17]: [GameSpot Review](https://www.gamespot.com/reviews/betrayal-in-antara-review/1900-2537979/) – - Professional review and critique
 [^ref-18]: [MobyGames Reviews](https://www.mobygames.com/game/695/betrayal-in-antara/reviews/) – - Player reviews and critiques
 [^ref-19]: [IMDb - Betrayal in Antara](https://www.imdb.com/find/?q=Betrayal+in+Antara&s=tt) – - User rating information
-[^ref-20]: [OldGames.sk - Betrayal in Antara](https://www.oldgames.sk/en/game/betrayal-in-antara/download/6118) – - Community rating and game description
+[^ref-20]: OldGames.sk - Betrayal in Antara *(download link removed: the game is sold commercially)* – - Community rating and game description
 [^ref-21]: [RPG Codex Forum](https://rpgcodex.net/forums/threads/betrayal-in-antara-fix-for-xp.41740/) – - Community discussion and assessment
-[^ref-22]: [MyAbandonware - Betrayal in Antara](https://www.myabandonware.com/game/betrayal-in-antara-d7p) – - User comments about technical issues
+[^ref-22]: MyAbandonware - Betrayal in Antara *(download link removed: the game is sold commercially)* – - User comments about technical issues
 [^ref-23]: [MobyGames - Game Credits](https://www.mobygames.com/game/695/) – - Composer credits
 [^ref-24]: [Archive.org - Patch ANTAR110](https://archive.org/details/ANTAR110) – - Official patch documentation
 [^ref-25]: [Patches Scrolls](https://www.patches-scrolls.com/betrayal_in_antara.php) – - Patch archive information
 [^ref-26]: [Archive.org - Game Manual](https://archive.org/details/betrayal-antara-manual) – - Preservation documentation
 [^ref-27]: [Sierra Chest - Betrayal in Antara](https://sierrachest.com/index.php?a=games&id=208&title=betrayal-in-antara&fld=demos) – - Game preservation and demos
 [^ref-29]: [GameSpot Review Archive](http://www.gamespot.com/pc/rpg/betrayalinantara/review.html) – - Alternative review URL
-[^ref-30]: [GameFabrique Review](https://gamefabrique.com/games/betrayal-in-antara/) – - Gaming site review and analysis
+[^ref-30]: GameFabrique Review *(download link removed: the game is sold commercially)* – - Gaming site review and analysis
 [^ref-31]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/196753-betrayal-in-antara/faqs/2206) – - Complete gameplay guide
 [^ref-32]: [Next Generation Magazine](https://en.wikipedia.org/wiki/Betrayal_in_Antara#Reception) – - "Doom II" sequel comparison review

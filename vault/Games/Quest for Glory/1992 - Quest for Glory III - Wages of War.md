@@ -144,7 +144,6 @@ This game has been included in the following collections:
 **Download / Preservation**
 
 - [Internet Archive – Quest for Glory III Demo](https://archive.org/details/QuestForGloryIiiWagesOfWarDemo)[^ref-2]
-- [My Abandonware – Quest for Glory III](https://www.myabandonware.com/game/quest-for-glory-iii-wages-of-war-1k9)[^ref-11]
 
 **Manuals & Extras**
 
@@ -178,7 +177,7 @@ This game has been included in the following collections:
 [^ref-8]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750) – – purchase, user reviews
 [^ref-9]: [HowLongToBeat – Quest for Glory III](https://howlongtobeat.com/game/7481) – – completion times
 [^ref-10]: [GameFAQs – Quest for Glory III](https://gamefaqs.gamespot.com/pc/562690-quest-for-glory-iii-wages-of-war) – – user reviews, guides
-[^ref-11]: [My Abandonware – Quest for Glory III](https://www.myabandonware.com/game/quest-for-glory-iii-wages-of-war-1k9) – – platforms, availability
+[^ref-11]: My Abandonware – Quest for Glory III *(download link removed: the game is sold commercially)* – – platforms, availability
 [^ref-12]: [PCGamingWiki – Quest for Glory III](https://www.pcgamingwiki.com/wiki/Quest_for_Glory_III%3A_Wages_of_War) – – technical specs
 [^ref-13]: [Quest for Glory Fandom Wiki](https://questforglory.fandom.com/wiki/Quest_for_Glory_III%3A_Wages_of_War) – – series information
 [^ref-14]: [Hardcore Gaming 101 – Quest for Glory](http://www.hardcoregaming101.net/quest-for-glory/) – – series retrospective
@@ -190,4 +189,4 @@ This game has been included in the following collections:
 [^ref-20]: [TV Tropes – Quest for Glory III](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryIII) – trope analysis, easter eggs
 [^ref-21]: [ScummVM Wiki – Quest for Glory III](https://wiki.scummvm.org/index.php?title=Quest_for_Glory_III%3A_Wages_of_War) – technical compatibility
 [^ref-22]: [The Cutting Room Floor – Quest for Glory III](https://tcrf.net/Quest_for_Glory_III%3A_Wages_of_War) – unused content
-[^ref-23]: [Games Nostalgia – Quest for Glory III](https://gamesnostalgia.com/game/quest-for-glory-iii-wages-of-war) – preservation
+[^ref-23]: Games Nostalgia – Quest for Glory III *(download link removed: the game is sold commercially)* – preservation

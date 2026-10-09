@@ -10,7 +10,7 @@ series: Homeworld
 engine: Custom 3D Engine
 protagonist: Karan S'jet
 sierra_lineage: Sierra Published
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 composer: [Paul Ruskay]
 description: Homeworld 2 is a fully three-dimensional real-time strategy game set
   in the depths of space, continuing the epic saga of the Hiigaran people one hundred...
@@ -18,7 +18,7 @@ tags: [2000s, homeworld, sierra, strategy]
 ---
 # Homeworld 2
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -255,7 +255,7 @@ The franchise changed hands multiple times following release. THQ acquired the H
 
 [^ref-1]: [Wikipedia – Homeworld 2](https://en.wikipedia.org/wiki/Homeworld_2) – release dates, story details, technical specifications, awards nomination
 [^ref-2]: [Homeworld Wiki – Homeworld 2](https://homeworld.fandom.com/wiki/Homeworld_2) – development history, bugs, voice cast, reception
-[^ref-3]: [Internet Archive – Homeworld 2 USA](https://archive.org/details/Homeworld2USA) – story description, engine details
+[^ref-3]: Internet Archive – Homeworld 2 USA *(download link removed: the game is sold commercially)* – story description, engine details
 [^ref-4]: [WSGF](https://www.wsgf.org/) – 3D gameplay uniqueness
 [^ref-5]: [Giant Bomb – Homeworld 2](https://www.giantbomb.com/homeworld-2/3030-9473/) – gameplay mechanics, release info
 [^ref-6]: [Interactive.org – Homeworld 2](https://www.interactive.org/games/video_game_details.asp?idGame=317) – technical features, game description, multiplayer specs
@@ -290,7 +290,7 @@ The franchise changed hands multiple times following release. THQ acquired the H
 [^ref-38]: [Steam Community Forums](https://store.steampowered.com/) – voice actress change, modding tools
 [^ref-39]: [Ars Technica – Gearbox Acquires Homeworld](https://arstechnica.com/gaming/2013/04/going-once-going-twice-gearbox-picks-up-homeworld-in-thq-auction/) – THQ acquisition history
 [^ref-40]: [Gearbox Software – Homeworld Acquisition Announcement](http://www.gearboxsoftware.com/community/articles/1029/homeworld-acquisition-and-plans/) – Brian Martel quote, acquisition details
-[^ref-41]: [Free GOG PC Games – Homeworld Remastered Collection](https://freegogpcgames.com/1016/homeworld-remastered-collection/) – technical specs, multiplayer details
+[^ref-41]: Free GOG PC Games – Homeworld Remastered Collection *(download link removed: the game is sold commercially)* – technical specs, multiplayer details
 [^ref-42]: [Standard of Entertainment – Homeworld 2 Strategy Guide](http://hw2.standardof.net/p/homeworld-2-remastered-strategy-guide.html) – patch info, modding tools
 [^ref-43]: [ModDB – Dynamic Deathmatch Mod](https://www.moddb.com/mods/dynamic-deathmatch-mod) – mod details, features
 [^ref-44]: [Homeworld Archives – Prima Official eGuide](https://homeworldarchives.com/media/Homeworld_2_Prima_Official_eGuide.pdf) – strategy guide existence

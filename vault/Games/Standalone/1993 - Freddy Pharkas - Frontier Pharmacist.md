@@ -10,7 +10,7 @@ series: Freddy Pharkas
 engine: SCI1.1
 protagonist: Freddy Pharkas
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-10-09'
 description: '**Freddy Pharkas: Frontier Pharmacist** is a comic Old West adventure
   game created by Al Lowe and Josh Mandel at Sierra On-Line. Released in 1993 for
   DOS...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, al-lowe, freddy-pharkas, sci, sierra]
 ---
 # Freddy Pharkas: Frontier Pharmacist
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -162,8 +162,6 @@ By using the Keypad keys with activated NumLock, players can play goofy noises f
 - [GOG.com](https://www.gog.com/en/game/freddy_pharkas_frontier_pharmacist)
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/freddy-pharkas-frontier-pharmacist-1zb)
-- [Internet Archive](https://archive.org/details/msdos_Freddy_Pharkas_Frontier_Pharmacist_1993)
 
 ## See Also
 
@@ -202,17 +200,17 @@ By using the Keypad keys with activated NumLock, players can play goofy noises f
 [^ref-4]: [Wikipedia](https://en.wikipedia.org/wiki/Freddy_Pharkas:_Frontier_Pharmacist) – Computer Gaming World review quote, sequel explanation
 [^ref-5]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Freddy_Pharkas:_Frontier_Pharmacist) – Engine and version information
 [^ref-6]: [MobyGames](https://www.mobygames.com/game/1785/freddy-pharkas-frontier-pharmacist/) – Platform information, awards
-[^ref-7]: [Archive.org](https://archive.org/details/msdos_Freddy_Pharkas_Frontier_Pharmacist_1993) – Release year confirmation
-[^ref-8]: [Archive.org](https://archive.org/details/freddy_pharkas) – Character backstory
+[^ref-7]: Archive.org *(download link removed: the game is sold commercially)* – Release year confirmation
+[^ref-8]: Archive.org *(download link removed: the game is sold commercially)* – Character backstory
 [^ref-9]: [GameFAQs](https://gamefaqs.gamespot.com/mac/658252-freddy-pharkas-frontier-pharmacist/reviews/157467) – Character background description, review score
-[^ref-10]: [Play Classic Games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-freddy-pharkas-frontier-pharmacist-online/) – Game premise
+[^ref-10]: Play Classic Games *(download link removed: the game is sold commercially)* – Game premise
 [^ref-11]: [Adventure Gamer Blog](https://advgamer.blogspot.com/2020/07/freddy-pharkas-frontier-pharmacist_14.html) – Specific gameplay challenges
 [^ref-12]: [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=837981641) – Gameplay mechanics description
 [^ref-13]: [Sierra Music Central](http://www.sierramusiccentral.com/fpfpcd.html) – Audio specifications
 [^ref-14]: [Freddy Pharkas Website](https://www.freddypharkas.com/walkthrough.html) – Point system information
 [^ref-15]: [UHS Hints](https://www.uhs-hints.com/uhsweb/fpfp.php) – Game structure
 [^ref-16]: [MobyGames User Review](https://www.mobygames.com/game/1785/freddy-pharkas-frontier-pharmacist/user-review/2284818/) – Manual and gameplay mechanics
-[^ref-17]: [MyAbandonware](https://www.myabandonware.com/game/freddy-pharkas-frontier-pharmacist-1zb) – Core gameplay description, rating
+[^ref-17]: MyAbandonware *(download link removed: the game is sold commercially)* – Core gameplay description, rating
 [^ref-18]: [GOG](https://www.gog.com/en/game/freddy_pharkas_frontier_pharmacist) – User review average
 [^ref-19]: [Larry Laffer Net](http://larrylaffer.net/non-lsl-games/al-lowe-games/freddy-pharkas) – Al Lowe quote about game concept origin
 [^ref-20]: [Adventure Gamer Blog](https://advgamer.blogspot.com/2020/06/game-121-freddy-pharkas-frontier.html) – Al Lowe quote about Western games

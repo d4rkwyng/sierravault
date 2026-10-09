@@ -248,7 +248,6 @@ Rosella would return in King's Quest VII: The Princeless Bride, and her rescuer 
 - [Steam - King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) (7-game collection)[^ref-33]
 
 **Download / Preservation**
-- [Internet Archive - DOS SCI Version](https://archive.org/details/KingsQuestIVPerilsRosella)[^ref-34]
 - [ScummVM Wiki - King's Quest IV](https://wiki.scummvm.org/index.php?title=King%27s_Quest_IV) (Compatibility info)[^ref-35]
 
 **Manuals & Extras**
@@ -304,7 +303,7 @@ Rosella would return in King's Quest VII: The Princeless Bride, and her rescuer 
 [^ref-31]: [Unicorn Tales Development](https://unicorntales.org/kq4-perilsofrosella-remake/forum/) – - 3D remake in development, December 2025 status
 [^ref-32]: [GOG - King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6) – - Digital availability, ScummVM, DRM-free
 [^ref-33]: [Steam - King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – - 7-game collection availability
-[^ref-34]: [Internet Archive - DOS SCI Version](https://archive.org/details/KingsQuestIVPerilsRosella) – - Preservation download
+[^ref-34]: Internet Archive - DOS SCI Version *(download link removed: the game is sold commercially)* – - Preservation download
 [^ref-35]: [ScummVM Wiki - King's Quest IV](https://wiki.scummvm.org/index.php?title=King%27s_Quest_IV) – - Compatibility since ScummVM 0.10.0 (AGI) and 1.2.0 (SCI)
 [^ref-36]: [Sierra Help Pages - King's Quest IV](https://web.archive.org/web/*/https://sierrahelp.com/Games/KQ/KQ4.html) – - Patches and technical support
 [^ref-37]: [VGFacts - King's Quest IV Trivia](https://www.vgfacts.com/game/kingsquestivtheperilsofrosella/) – - "beam me" and "rap kq" easter egg details

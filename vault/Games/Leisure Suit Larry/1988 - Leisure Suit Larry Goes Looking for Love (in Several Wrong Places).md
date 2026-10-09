@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI0
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Al Lowe]
 description: '*Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)*
   is the second game in Al Lowe''s landmark comedy adventure series, released by Sierra...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -235,9 +235,6 @@ The game's emphasis on linear storytelling and elaborate plot over the original'
 - ~~[Steam](https://store.steampowered.com/app/765840/)~~ – No longer available in Steam store[^ref-27]
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/msdos_Leisure_Suit_Larry_2_-_Goes_looking_for_Love_in_Several_Wrong_Places_1988) – Playable in browser[^ref-11]
-- [MyAbandonware](https://www.myabandonware.com/game/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places-h5) – DOS, Amiga, Atari ST versions[^ref-26]
-- [ClassicReload](https://classicreload.com/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places.html) – Browser emulation[^ref-8]
 
 **Manuals & Extras**
 - [Manual PDF](https://archive.org/details/Leisure_Suit_Larry_2_Manual) – Original game manual (8 pages)[^ref-39]
@@ -263,18 +260,18 @@ The game's emphasis on linear storytelling and elaborate plot over the original'
 [^ref-1]: [MobyGames – Leisure Suit Larry Goes Looking for Love](https://www.mobygames.com/game/409/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places/) – ratings, credits, releases, trivia, awards
 [^ref-2]: [Alex Bevilacqua Blog – Retrospective Review](https://alexbevi.com/blog/2023/02/01/leisure-suit-larry-2/) – engine details, platforms, modern critique
 [^ref-3]: [Adventure Classic Gaming – Review](http://www.adventureclassicgaming.com/index.php/site/reviews/144/) – copy protection details, ratings, Al Lowe quotes
-[^ref-26]: [MyAbandonware – User Reviews](https://www.myabandonware.com/game/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places-h5) – retailer complaints, development context
+[^ref-26]: MyAbandonware – User Reviews *(download link removed: the game is sold commercially)* – retailer complaints, development context
 [^ref-5]: [IGN – Revisiting Leisure Suit Larry](https://www.ign.com/articles/2014/11/28/revisiting-leisure-suit-larry) – sales history, development origins, parser analysis
 [^ref-6]: [Wikipedia – Leisure Suit Larry Goes Looking for Love](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_Goes_Looking_for_Love_(in_Several_Wrong_Places)) – contemporary reviews, sales data, ratings
 [^ref-7]: [Last Day Deaf – Retrospective](https://lastdaydeaf.com/leisure-suit-larry-goes-looking-for-love-in-several-wrong-placesdev-sierra-on-line-ms-dos-1988/) – location count, death compilation, commercial success
-[^ref-8]: [ClassicReload – Game Page](https://classicreload.com/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places.html) – linear progression, death penalty mechanics
+[^ref-8]: ClassicReload – Game Page *(download link removed: the game is sold commercially)* – linear progression, death penalty mechanics
 [^ref-9]: [Sierra Chest – General Information](https://www.sierrachest.com/index.php?a=games&id=25&fld=general) – criticism of toned-down humor, Patti character details
 [^ref-10]: [LarryLaffer.net – LSL2 General](http://larrylaffer.net/lslgames/lsl2-general) – opening plot summary
-[^ref-11]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Leisure_Suit_Larry_2_-_Goes_looking_for_Love_in_Several_Wrong_Places_1988) – release date, platforms, basic description
+[^ref-11]: Internet Archive – MS-DOS Version *(download link removed: the game is sold commercially)* – release date, platforms, basic description
 [^ref-12]: [IGN – Walkthrough](https://www.ign.com/articles/2003/11/14/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places-walkthrough-436544) – plot summary, Easter egg descriptions
 [^ref-13]: [SierraGamers – LSL2 Page](https://www.sierragamers.com/leisure-suit-larry-2/) – KGB plot, Dr. Nonookee storyline
 [^ref-15]: [IMDB – Movie Connections](https://www.imdb.com/title/tt0273733/movieconnections/) – Easter eggs, cameos, parody references
-[^ref-16]: [PlayClassic Games – Game Description](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-leisure-suit-larry-goes-looking-for-love-in-several-wrong-places-online/) – puzzle count, death frequency
+[^ref-16]: PlayClassic Games – Game Description *(download link removed: the game is sold commercially)* – puzzle count, death frequency
 [^ref-17]: [GameFAQs – Syrain Walkthrough](https://gamefaqs.gamespot.com/pc/565081-leisure-suit-larry-goes-looking-for-love-in-several-wrong/faqs/14025) – user review, cheat codes, graphics humor
 [^ref-18]: [Quest Studios – Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/lsl2/) – Roland MT-32 music details
 [^ref-19]: [IMDB – Trivia](https://www.imdb.com/title/tt0273733/) – Ken Williams parodies, character details
@@ -285,10 +282,10 @@ The game's emphasis on linear storytelling and elaborate plot over the original'
 [^ref-27]: [Steam Store – Dutch Page](https://store.steampowered.com/app/765840/Leisure_Suit_Larry_2__Looking_For_Love_In_Several_Wrong_Places/?l=dutch) – 2017 re-release, system requirements, user reviews
 [^ref-28]: [SuperCheats – FAQ](https://www.supercheats.com/pc/walkthroughs/leisuresuitlarrygoeslookingforloveinseveralwrongplaces-walkthrough01.txt) – Al Lowe design decision quote
 [^ref-29]: [Just Games Retro – Review](https://www.justgamesretro.com/dos/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places) – floppy count, cut content, Easter eggs
-[^ref-30]: [RetroGames.cz – Game Page](https://www.retrogames.cz/play_1114-DOS.php) – additional designer credits
+[^ref-30]: RetroGames.cz – Game Page *(download link removed: the game is sold commercially)* – additional designer credits
 [^ref-31]: [PCGamingWiki – LSL2](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_Goes_Looking_for_Love_(in_Several_Wrong_Places)) – video modes, copy protection bypass, technical details
 [^ref-32]: [Al Lowe Official Site – Clues and Cheats](https://allowe.com/games/larry/tips-manuals/clues-cheats.html) – parser bug explanation, version differences
-[^ref-33]: [Internet Archive – Greatest Hits and Misses](https://archive.org/details/leisuresuitlarrysgreatesthitsandmissesusa) – compilation contents, bonus materials
+[^ref-33]: Internet Archive – Greatest Hits and Misses *(download link removed: the game is sold commercially)* – compilation contents, bonus materials
 [^ref-34]: [MobyGames – Collection Series](https://www.mobygames.com/game/718/leisure-suit-larry-collection-series/) – 1997 compilation details
 [^ref-35]: [Al Lowe Official Site – Troubleshooting](https://allowe.com/games/troubleshooting.html) – technical bugs, support quote
 [^ref-36]: [MobyGames – 2006 Collection](https://www.mobygames.com/game/27943/leisure-suit-larry-collection/) – later compilation release

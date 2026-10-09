@@ -10,14 +10,14 @@ series: Half-Life
 engine: GoldSrc
 protagonist: N/A
 sierra_lineage: Sierra Published
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Ricochet is a multiplayer deathmatch game developed by Valve and released
   on November 1, 2000 as a free modification for Half-Life. The game was developed...
 tags: [2000s, half-life, shooter, sierra]
 ---
 # Ricochet
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -184,7 +184,6 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 ### Preservation
 
 - [Internet Archive - Ricochet Demo](https://archive.org/details/Ricochet) - Playable demo version[^ref-14]
-- [My Abandonware](https://www.myabandonware.com/game/ricochet-d59) - Information and screenshots[^ref-5]
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Ricochet) - Technical fixes and compatibility information[^ref-15]
 
 ## See Also
@@ -206,7 +205,7 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 [^ref-2]: [ModDB - Ricochet](https://www.moddb.com/games/ricochet) - Mod database entry with release information
 [^ref-3]: [The Cutting Room Floor - Ricochet](https://tcrf.net/Ricochet) - Development background and unused content
 [^ref-4]: [Combine OverWiki - Sierra Entertainment](https://combineoverwiki.net/wiki/Sierra_Entertainment) - Sierra-Valve publishing relationship
-[^ref-5]: [My Abandonware - Ricochet](https://www.myabandonware.com/game/ricochet-d59) - Gameplay description and history
+[^ref-5]: My Abandonware - Ricochet *(download link removed: the game is sold commercially)* - Gameplay description and history
 [^ref-6]: [Steam Community Guide - Ricochet Master's Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=137883201) - Detailed gameplay mechanics
 [^ref-7]: [Steam - Ricochet](https://store.steampowered.com/app/60/Ricochet/) - Official store page with reviews and system requirements
 [^ref-8]: [Ricochet Wiki - Powerups](https://ricochet.fandom.com/wiki/Powerups) - Game mechanics documentation

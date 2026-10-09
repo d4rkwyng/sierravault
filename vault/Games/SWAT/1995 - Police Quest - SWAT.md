@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: SCI 2.1
 protagonist: Unnamed SWAT Recruit ('SWAT-Pup')
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Dan Kehler]
 description: 'Police Quest: SWAT, officially titled *Daryl F. Gates'' Police Quest:
   SWAT*, is the fifth installment in Sierra On-Line''s Police Quest series and the
@@ -19,7 +19,7 @@ tags: [1990s, police-quest-swat, sci, sierra, simulation]
 ---
 # Police Quest: SWAT
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -248,8 +248,6 @@ The title "truly did signal the end of the franchise" in terms of adventure gami
 - [Steam – Police Quest: SWAT](https://store.steampowered.com/app/560350/Police_Quest_SWAT/)
 
 **Download / Preservation**
-- [Internet Archive – Police Quest SWAT Disc 1](https://archive.org/details/police-quest-swat-disc-1)
-- [My Abandonware](https://www.myabandonware.com/game/daryl-f-gates-police-quest-swat-cii)
 
 **Manuals & Extras**
 - [Police Quest: SWAT Manual (Archive.org)](https://archive.org/details/Police_Quest_SWAT_-_Manual)
@@ -274,7 +272,7 @@ The title "truly did signal the end of the franchise" in terms of adventure gami
 [^ref-1]: [Wikipedia – Police Quest: SWAT](https://en.wikipedia.org/wiki/Police_Quest:_SWAT) – release dates, platforms, review scores, sales data, technical details
 [^ref-2]: [MobyGames – Daryl F. Gates' Police Quest: SWAT](https://www.mobygames.com/game/150/daryl-f-gates-police-quest-swat/) – credits, ratings, technical specifications, genre classification
 [^ref-3]: [GOG.com – Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) – product description, user reviews, Gates biography, actor testimony
-[^ref-4]: [Internet Archive – Police Quest SWAT Disc 1](https://archive.org/details/police-quest-swat-disc-1) – game description, technical info, SCI2 engine details
+[^ref-4]: Internet Archive – Police Quest SWAT Disc 1 *(download link removed: the game is sold commercially)* – game description, technical info, SCI2 engine details
 [^ref-5]: [Gamasutra – SWAT 3 Postmortem (Archive.today)](https://archive.today/20120731163252/http://www.gamasutra.com/view/feature/3436/postmortem_sierras_swat3_close_.php) – Jim Napier quotes, development insights, sales figures
 [^ref-6]: [PCGamingWiki – Police Quest: SWAT](https://www.pcgamingwiki.com/wiki/Police_Quest:_SWAT) – engine version, system requirements, release dates, technical specifications
 [^ref-7]: [Computer Game Review (March 1996) via Wayback Machine](https://web.archive.org/web/19961019081500/http://www.nuke.com/cgr/reviews/9603/swat/swat.htm) – review scores, SVGA specifications, SWAT-Pup terminology

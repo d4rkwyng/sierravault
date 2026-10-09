@@ -268,7 +268,6 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 - [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/)
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/msdos_Kings_Quest_VII_-_The_Princeless_Bride_1994)
 
 **Patches**
 - [Official King's Quest VII Patch](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/KingsQuestUpdates.html) – For versions 1.4 and 1.51[^ref-22]

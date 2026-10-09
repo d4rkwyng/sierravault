@@ -10,7 +10,7 @@ series: Electronic Battlefield System
 engine: Modified Falcon AT Engine
 protagonist: M1A1 Abrams Tank Commander
 sierra_lineage: Sierra Published
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: 'Tank: The M1A1 Abrams Battle Tank Simulation was a serious attempt to
   model modern armored warfare, placing the player directly in the commander''s seat
   of...'
@@ -18,7 +18,7 @@ tags: [1980s, electronic-battlefield-system, sierra, simulation]
 ---
 # Tank: The M1A1 Abrams Battle Tank Simulation
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 
 ## Overview
@@ -212,8 +212,6 @@ The simulation's lasting significance lies in its ambitious scope—offering gam
 - [Steam](https://store.steampowered.com/app/410550/Tank_M1A1_Abrams_Battle_Simulation/) - Available with DOSBox wrapper
 
 **Download / Preservation**
-- [My Abandonware](https://www.myabandonware.com/game/tank-the-m1a1-abrams-battle-tank-simulation-1a3) - DOS version
-- [Classic Reload](https://classicreload.com/tank-the-m1a1-abrams-battle-tank-simulation.html) - Browser playable
 
 ## See Also
 
@@ -247,20 +245,20 @@ The simulation's lasting significance lies in its ambitious scope—offering gam
 
 ## References
 
-[^ref-1]: [Classic Games – Tank: The M1A1 Abrams Battle Tank Simulation](https://www.classicgames.me/tank-the-m1a1-abrams-battle-tank-simulation.html) – game overview, realism focus, gameplay description
+[^ref-1]: Classic Games – Tank: The M1A1 Abrams Battle Tank Simulation *(download link removed: the game is sold commercially)* – game overview, realism focus, gameplay description
 [^ref-2]: [Wikipedia – Tank: The M1A1 Abrams Battle Tank Simulation](https://en.wikipedia.org/wiki/Tank%3A_The_M1A1_Abrams_Battle_Tank_Simulation) – developer, publisher, reviews, Electronic Battlefield System, M. Evan Brooks quote, Paul Rigby quote, scenarios
 [^ref-3]: [Metacritic – Tank M1A1 Abrams Battle Simulation](https://www.metacritic.com/game/tank-m1a1-abrams-battle-simulation/) – vehicle counts, gameplay modes
 [^ref-4]: [MobyGames – Tank: The M1A1 Abrams Battle Tank Simulation](https://www.mobygames.com/game/1626/tank-the-m1a1-abrams-battle-tank-simulation/) – developer, engine, release dates, critics score, SIMNET, mission count, features
-[^ref-5]: [My Abandonware – Tank: The M1A1 Abrams Battle Tank Simulation](https://www.myabandonware.com/game/tank-the-m1a1-abrams-battle-tank-simulation-1a3) – HOTUD rating, strategy emphasis, training mission
+[^ref-5]: My Abandonware – Tank: The M1A1 Abrams Battle Tank Simulation *(download link removed: the game is sold commercially)* – HOTUD rating, strategy emphasis, training mission
 [^ref-6]: [Steam Store – Tank M1A1 Abrams Battle Simulation](https://store.steampowered.com/app/410550/Tank_M1A1_Abrams_Battle_Simulation/) – release date, system requirements, user reviews, scalable complexity quote
-[^ref-7]: [XTC Abandonware – Abrams Battle Tank](https://www.xtcabandonware.com/game/132/abrams-battle-tank) – difficulty quote, controls, mission description
+[^ref-7]: XTC Abandonware – Abrams Battle Tank *(download link removed: the game is sold commercially)* – difficulty quote, controls, mission description
 [^ref-8]: [MobyGames – Tank Credits](https://www.mobygames.com/game/1626/tank-the-m1a1-abrams-battle-tank-simulation/credits/dos/) – designers, programmers, development team
 [^ref-9]: [PCGamingWiki – Tank: M1A1 Abrams Battle Simulation](https://www.pcgamingwiki.com/wiki/Tank%3A_M1A1_Abrams_Battle_Simulation) – technical specs, platforms, publishers, multiplayer options
-[^ref-10]: [Squakenet – Tank: The M1A1 Abrams Battle Tank Simulation](https://www.squakenet.com/game/tank-the-m1a1-abrams-battle-tank-simulation/) – gameplay description, Falcon series comparison
+[^ref-10]: Squakenet – Tank: The M1A1 Abrams Battle Tank Simulation *(download link removed: the game is sold commercially)* – gameplay description, Falcon series comparison
 [^ref-11]: [Giant Bomb – Abrams Battle Tank](https://www.giantbomb.com/abrams-battle-tank/3030-18337/) – crew positions, ammunition types
 [^ref-12]: [Reddit – r/tipofmyjoystick Tank Discussion](https://www.reddit.com/r/tipofmyjoystick/comments/12afau0/msdoswin_19902000_1st_person_tank_simulator/) – player recollections, interface challenges
 [^ref-13]: [UVList – Abrams Battle Tank](https://www.uvlist.net/game-164665-Abrams+Battle+Tank) – review scores, technical specs, graphics hardware, M1 service date
-[^ref-14]: [My Abandonware – Abrams Battle Tank](https://www.myabandonware.com/game/abrams-battle-tank-ee) – user ratings, veteran review quote
+[^ref-14]: My Abandonware – Abrams Battle Tank *(download link removed: the game is sold commercially)* – user ratings, veteran review quote
 [^ref-15]: [Steam Community Discussion](https://steamcommunity.com/app/410550/discussions/0/490125737466050582/) – M1 Tank Platoon comparison, AI praise
 [^ref-16]: [Grokipedia – Abrams Battle Tank](https://grokipedia.com/page/Abrams_Battle_Tank) – development challenges, multi-crew coordination
 [^ref-17]: [Steam Community Guides](https://steamcommunity.com/app/410550/guides/) – user-created keyboard control guide

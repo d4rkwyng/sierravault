@@ -10,7 +10,7 @@ series: Red Baron
 engine: Custom flight physics engine
 protagonist: Player-created WWI pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Cayanie Music]
 description: Red Baron is a World War I flight combat simulation created and developed
   by Dynamix in 1990, placing players in the pilot's seat of actual World War I...
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, red-baron, sierra, simulation]
 ---
 # Red Baron
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -241,9 +241,6 @@ Red Baron also represented an important step in the maturation of flight simulat
 - [GOG](https://www.gog.com) – Check availability
 
 **Download / Preservation**
-- [MyAbandonware – Red Baron](https://www.myabandonware.com/game/red-baron-zs)
-- [Games Nostalgia](https://gamesnostalgia.com/game/red-baron)
-- [Retrogames.cz](https://www.retrogames.cz/play_1289-DOS.php)
 
 **Manuals & Extras**
 - [Internet Archive – Red Baron Manual](https://archive.org/stream/Red_Baron_-_Manual/Red_Baron_-_Manual_djvu.txt)
@@ -262,13 +259,13 @@ Red Baron also represented an important step in the maturation of flight simulat
 
 [^ref-1]: [Dynamix Fandom Wiki – Red Baron Series](https://dynamix.fandom.com/wiki/Red_Baron_(series)) – series overview, development history, awards
 [^ref-2]: [Grokipedia – Red Baron (1990)](https://grokipedia.com/page/Red_Baron_(1990_video_game)) – technical details, Damon Slye quotes, engine information
-[^ref-3]: [Games Nostalgia – Red Baron](https://gamesnostalgia.com/game/red-baron) – release versions, ratings, aircraft count
+[^ref-3]: Games Nostalgia – Red Baron *(download link removed: the game is sold commercially)* – release versions, ratings, aircraft count
 [^ref-4]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – sales data, awards, development history, Warren Spector quote
 [^ref-5]: [Sierra Gamers – Red Baron](https://www.sierragamers.com/red-baron/) – aircraft count, game description
-[^ref-6]: [MyAbandonware – Red Baron](https://www.myabandonware.com/game/red-baron-zs) – user ratings, freeware release, reviews
+[^ref-6]: MyAbandonware – Red Baron *(download link removed: the game is sold commercially)* – user ratings, freeware release, reviews
 [^ref-7]: [GameSpot – Red Baron II Review](https://www.gamespot.com/reviews/red-baron-ii-review/1900-2532770/) – Denny Atkin review, gameplay mechanics, flight physics
 [^ref-8]: [Eurogamer – Retrospective: Red Baron](https://www.eurogamer.net/retrospective-red-baron-article) – gameplay details, career mode, historical features
-[^ref-9]: [Retrogames.cz – Red Baron](https://www.retrogames.cz/play_1289-DOS.php) – credits, mission types, aircraft list
+[^ref-9]: Retrogames.cz – Red Baron *(download link removed: the game is sold commercially)* – credits, mission types, aircraft list
 [^ref-10]: [Steam Store – Red Baron Pack](https://store.steampowered.com/app/263940/Red_Baron_Pack/) – WWI pilot quote, ratings
 [^ref-11]: [Sierra Help – Red Baron Help](https://sierrahelp.com/Games/RedBaron/RedBaronHelp.html) – system requirements, technical specifications, sound support
 [^ref-12]: [IGN – Red Baron Walkthrough](https://www.ign.com/articles/2003/10/07/red-baron-809195-walkthrough-453349) – vector graphics, arcade version history

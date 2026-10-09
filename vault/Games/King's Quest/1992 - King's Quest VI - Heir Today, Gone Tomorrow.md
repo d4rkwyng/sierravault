@@ -324,7 +324,6 @@ This game has been included in[^ref-20][^ref-21]:
 - [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – Complete classic series bundle
 
 **Download / Preservation**
-- [Internet Archive – MS-DOS CD Version](https://archive.org/details/msdos_Kings_Quest_VI_-_Heir_Today_Gone_Tomorrow_1992) – Browser playable
 
 **Fan Projects**
 - [King's Quest VI AGI Demake](https://kq6agi.com/) – Brandon Kouri's 18-year AGI recreation (2024)
@@ -384,4 +383,4 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-34]: [KQ Omnipedia – Various Articles](https://kingsquest.fandom.com/) – – Hintbook details, novelization, Royal Family supplement by Lorelei Shannon
 [^ref-35]: [The Cutting Room Floor – King's Quest VI](https://tcrf.net/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – Debug Script 911, unused Shamir portrait, Ferryman dialogue, early Cassima voice
 [^ref-36]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – – Digital distribution
-[^ref-37]: [Internet Archive – King's Quest VI](https://archive.org/details/msdos_Kings_Quest_VI_-_Heir_Today_Gone_Tomorrow_1992) – – Browser-playable preservation
+[^ref-37]: Internet Archive – King's Quest VI *(download link removed: the game is sold commercially)* – – Browser-playable preservation

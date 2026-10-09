@@ -10,14 +10,14 @@ series: Homeworld
 engine: Custom 3D engine with RAT audio engine
 protagonist: Karan S'jet / The Kushan Fleet
 sierra_lineage: Sierra Published
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: Homeworld is a groundbreaking real-time strategy game released on September
   28, 1999, that revolutionized the RTS genre by introducing fully...
 tags: [1990s, homeworld, sierra, strategy]
 ---
 # Homeworld
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -291,7 +291,6 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 - [Steam – Homeworld Remastered Collection](https://store.steampowered.com/app/244160/)
 
 **Download / Preservation**
-- [Internet Archive – Homeworld](https://archive.org/details/hw-1_20211101)
 
 **Manuals & Extras**
 - [ModDB – Homeworld Manual](https://www.moddb.com/games/homeworld/downloads/homeworld-manual)
@@ -308,7 +307,7 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 ## References
 
 [^ref-1]: [Wikipedia – Homeworld](https://en.wikipedia.org/wiki/Homeworld) – release date, developer, platforms, Alex Garden quote about genre
-[^ref-2]: [Internet Archive – Homeworld](https://archive.org/details/hw-1_20211101) – plot description, Taiidan Empire destruction
+[^ref-2]: Internet Archive – Homeworld *(download link removed: the game is sold commercially)* – plot description, Taiidan Empire destruction
 [^ref-3]: [Grokipedia – Homeworld](https://grokipedia.com/page/Homeworld) – sales figures, awards, development team, technical specs, Metacritic score
 [^ref-4]: [2K Games – Homeworld Franchise](https://2k.com/games/homeworld/) – franchise description quote
 [^ref-5]: [Interactive.org – Homeworld](https://www.interactive.org/games/video_game_details.asp?idAward=2000&idGame=487) – AIAS nominations, gameplay features

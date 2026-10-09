@@ -10,7 +10,7 @@ series: Diablo
 engine: Diablo engine
 protagonist: The Hero (Warrior, Rogue, Sorcerer, or Monk)
 sierra_lineage: Sierra Label (Synergistic)
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Matt Uelmen (original Diablo music)]
 description: 'Diablo: Hellfire is the only official expansion pack released for Blizzard
   Entertainment''s groundbreaking 1996 action RPG Diablo. Released on November 24,...'
@@ -18,7 +18,7 @@ tags: [1990s, diablo, rpg, sierra]
 ---
 # Diablo: Hellfire
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -294,5 +294,5 @@ From a historical perspective, Hellfire represents an interesting case study in 
 [^ref-11]: [Cynical Gaming Blog – Diablo Hellfire Review](https://cynicalgamingblog.wordpress.com/2024/06/27/old-review-archive-diablo-hellfire-review/) – Retrospective assessment, StarCraft dungeon controversy, multiplayer patch, hidden classes
 [^ref-12]: [Metacritic – Diablo Hellfire Bundle](https://www.metacritic.com/game/diablo-hellfire-bundle/user-reviews/) – User score aggregate, review breakdown percentages
 [^ref-13]: [GameFAQs – Diablo Hellfire Bundle Review](https://gamefaqs.gamespot.com/pc/935320-diablo-hellfire-bundle/reviews/87644) – User review score, Butcher quote, gameplay longevity assessment
-[^ref-14]: [Internet Archive – Diablo Hellfire Bundle](https://archive.org/details/diablohellfire) – game media preservation and original disc images
+[^ref-14]: Internet Archive – Diablo Hellfire Bundle *(download link removed: the game is sold commercially)* – game media preservation and original disc images
 [^ref-15]: [MobyGames – Diablo: Hellfire](https://www.mobygames.com/game/diablo-hellfire/) – complete game credits, platform information, screenshots, user ratings

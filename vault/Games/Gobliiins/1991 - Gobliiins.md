@@ -248,11 +248,8 @@ The Gobliiins series spans five main entries across three decades, each with a d
 - **Gobliiins Collection** (PS5 / Xbox Series / Switch) - Red Art Games digital compilation of the first five games, released May 27, 2026 ([announcement](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available))
 
 **Download / Preservation**
-- [Internet Archive – German DOS Release](https://archive.org/details/gobliiins-1991-3.5-de) - Complete with manual
-- [DOS Games Archive](https://www.dosgamesarchive.com/download/gobliiins)
 
 **Manuals & Extras**
-- [Retrogames.cz](https://www.retrogames.cz/play_515-DOS.php) - Browser emulation and documentation
 
 ## See Also
 
@@ -267,21 +264,21 @@ The Gobliiins series spans five main entries across three decades, each with a d
 ## References
 
 [^ref-1]: [MobyGames – Gobliiins](https://www.mobygames.com/game/1154/gobliiins/) – developer credits, ratings, platform releases, trivia, awards
-[^ref-2]: [Abandonware France – Coktel Vision History](https://www.abandonware-france.org/ltf_abandon/ltf_infos_fic.php?id=103372) – designer credits, development history
+[^ref-2]: Abandonware France – Coktel Vision History *(download link removed: the game is sold commercially)* – designer credits, development history
 [^ref-3]: [Neoseeker – Gobliiins Walkthrough](https://www.neoseeker.com/gobliiins/faqs/85009-a.html) – gameplay mechanics, genre description
-[^ref-4]: [DOS.Zone – Gobliiins](https://dos.zone/gobliiins/) – game description
+[^ref-4]: DOS.Zone – Gobliiins *(download link removed: the game is sold commercially)* – game description
 [^ref-5]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – release dates, ratings, awards, series information
 [^ref-6]: [Reddit r/Sierra – Gobliiins Discussion](https://www.reddit.com/r/Sierra/comments/1nv3ob0/gobliiins_1991_full_game/) – plot summary, level structure
 [^ref-7]: [Lemon Amiga – Gobliiins](https://www.lemonamiga.com/games/details.php?id=458) – review scores, credits, engine information
 [^ref-8]: [GOG.com – Gobliiins Pack](https://www.gog.com/en/game/gobliiins_pack) – user reviews, technical requirements, game description
 [^ref-9]: [PCGamingWiki – Gobliiins](https://www.pcgamingwiki.com/wiki/Gobliiins) – engine, technical specifications, compatibility
-[^ref-10]: [DOS Games Archive – Gobliiins](https://www.dosgamesarchive.com/download/gobliiins) – plot summary
-[^ref-11]: [Classic DOS Games – Gobliiins](https://www.classicdosgames.com/game/Gobliiins.html) – gameplay mechanics, version information
-[^ref-12]: [Retrogames.cz – Gobliiins](https://www.retrogames.cz/play_515-DOS.php) – character name differences, credits
+[^ref-10]: DOS Games Archive – Gobliiins *(download link removed: the game is sold commercially)* – plot summary
+[^ref-11]: Classic DOS Games – Gobliiins *(download link removed: the game is sold commercially)* – gameplay mechanics, version information
+[^ref-12]: Retrogames.cz – Gobliiins *(download link removed: the game is sold commercially)* – character name differences, credits
 [^ref-13]: [Gamer Walkthroughs – Gobliiins](https://gamerwalkthroughs.com/gobliiins-1-walkthrough/) – character descriptions, gameplay
 [^ref-14]: [MobyGames – Goblins Quest 3](http://www.mobygames.com/game/goblins-quest-3) – series information, copy protection, language
 [^ref-15]: [Family Friendly Gaming – Gobliiins Review](https://www.familyfriendlygaming.com/Reviews/2012/Gobliiins.html) – iOS review, rating
-[^ref-16]: [Games Nostalgia – Gobliiins](https://gamesnostalgia.com/game/gobliiins) – gameplay mechanics
+[^ref-16]: Games Nostalgia – Gobliiins *(download link removed: the game is sold commercially)* – gameplay mechanics
 [^ref-17]: [GameFAQs – Gobliiins Walkthrough](https://gamefaqs.gamespot.com/pc/564707-gobliiins/faqs/1942) – level structure
 [^ref-18]: [The Adventurers' Guild – Gobliins 2 Review](https://advgamer.blogspot.com/2020/02/gobliins-2-final-rating.html) – puzzle design analysis
 [^ref-19]: [LaunchBox Games Database – Gobliiins 4](https://gamesdb.launchbox-app.com/games/details/57336-gobliiins-4) – IT Reviews quote
@@ -301,7 +298,7 @@ The Gobliiins series spans five main entries across three decades, each with a d
 [^ref-33]: [ScummVM – Gobliiins Compatibility](https://scummvm.org/compatibility/1.5.0/gob:gob1/) – technical issues
 [^ref-34]: [ScummVM – Snowberry Press Release](https://www.scummvm.org/press/snowberry) – ScummVM support quotes
 [^ref-35]: [Sierra Chest – Goblins Quest 3](https://sierrachest.com/index.php?a=games&id=146&fld=general) – series history, Sierra publishing
-[^ref-36]: [Internet Archive – German DOS Release](https://archive.org/details/gobliiins-1991-3.5-de) – manual, copy protection documentation
+[^ref-36]: Internet Archive – German DOS Release *(download link removed: the game is sold commercially)* – manual, copy protection documentation
 [^ref-37]: [Rock Paper Shotgun – Have You Played Gobliiins](https://www.rockpapershotgun.com/have-you-played-the-gobliiins-series) – retrospective quotes
 [^ref-38]: [Kickstarter – GOBLiiiNS5](https://www.kickstarter.com/projects/pierregilhodes/gobliiins5-pc) – crowdfunding details
 [^ref-39]: [Gamer Walkthroughs – Gobliins 2](https://gamerwalkthroughs.com/gobliins-2/) – plot summary

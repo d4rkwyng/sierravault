@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI32
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-08'
+last_updated: '2026-10-09'
 composer: [Frank Zottoli]
 description: '*Leisure Suit Larry: Love for Sail!* is the sixth and final Leisure
   Suit Larry adventure game written by series creator Al Lowe, released by Sierra
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry: Love for Sail!
 
-<small style="color: gray">Last updated: October 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -289,9 +289,7 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 - [Steam](https://store.steampowered.com/app/765890/) – No longer sold: removed from the Steam store following Assemble Entertainment's April 30, 2025 announcement; existing owners keep it in their libraries[^ref-8][^ref-44]
 
 **Download / Preservation**
-- [Internet Archive – ISO](https://archive.org/details/mi-lsl-7) – Includes Version 1.2 patch[^ref-42]
 - [Internet Archive – Manual](https://archive.org/details/Leisure_Suit_Larry_7_-_Manual)[^ref-43]
-- [MyAbandonware](https://www.myabandonware.com/game/leisure-suit-larry-love-for-sail-3m1) – No longer available (game removed from abandonware status)[^ref-24]
 
 **Manuals & Extras**
 - [Manual PDF at Internet Archive](https://archive.org/details/Leisure_Suit_Larry_7_-_Manual)
@@ -324,8 +322,8 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 [^ref-7]: [The Sierra Chest – Leisure Suit Larry 7](https://www.sierrachest.com/index.php?a=games&id=29&fld=general) – designers, voice cast, features
 [^ref-8]: [PCGamingWiki – Leisure Suit Larry: Love for Sail!](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Love_for_Sail!) – platform releases, technical issues, resolution specs
 [^ref-9]: [Steam Store Page](https://steamcommunity.com/app/765890) – plot summary, opening scenario
-[^ref-10]: [ClassicReload](https://classicreload.com/leisure-suit-larry-love-for-sail.html) – series continuity, hidden content, pop culture references
-[^ref-11]: [DOS Games Archive](https://www.dosgamesarchive.com/download/leisure-suit-larry-love-for-sail) – gameplay description, Al Lowe attribution
+[^ref-10]: ClassicReload *(download link removed: the game is sold commercially)* – series continuity, hidden content, pop culture references
+[^ref-11]: DOS Games Archive *(download link removed: the game is sold commercially)* – gameplay description, Al Lowe attribution
 [^ref-12]: [GameCenter.com – Review (Archived)](https://web.archive.org/web/19970205031454/http://gamecenter.com/Reviews/Item/0,6,403,00.html) – Barry Brenesal review quotes, ship description
 [^ref-13]: [Al Lowe's Official Easter Eggs Page](https://allowe.com/games/larry/tips-manuals/lsl7-eggs.html) – Easter egg triggers, secret ending requirements, point system
 [^ref-14]: [A Force For Good – Retrospective Review](https://forceforgood.co.uk/adventure/leisure-suit-larry-love-for-sail/) – interface critique, humor assessment
@@ -338,8 +336,8 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 [^ref-21]: [MobyGames – Leisure Suit Larry: Love for Sail!](https://www.mobygames.com/game/381/leisure-suit-larry-love-for-sail/) – aggregate score, credits, trivia, novelization
 [^ref-22]: [IMDB – Leisure Suit Larry: Love for Sail!](https://www.imdb.com/title/tt0221340/) – user rating, voice cast, Bond reference trivia
 [^ref-23]: [Metacritic](https://www.metacritic.com/game/leisure-suit-larry-love-for-sail/) – user score, Polish voice cast
-[^ref-24]: [MyAbandonware](https://www.myabandonware.com/game/leisure-suit-larry-love-for-sail-3m1) – user rating, alternate titles, availability status
-[^ref-25]: [BestDOSGames](https://bestdosgames.com/games/leisure-suit-larry-love-for-sail) – rating percentage
+[^ref-24]: MyAbandonware *(download link removed: the game is sold commercially)* – user rating, alternate titles, availability status
+[^ref-25]: BestDOSGames *(download link removed: the game is sold commercially)* – rating percentage
 [^ref-26]: [Rock Paper Shotgun – Gaming Made Me: Leisure Suit Larry 1](https://www.rockpapershotgun.com/2011/02/26/gaming-made-me-leisure-suit-larry-1/) – series origins, Richard Cobbett assessment
 [^ref-27]: [Al Lowe's Official Hints Page](https://allowe.com/games/larry/tips-manuals/lsl7-hints.html) – Easter egg descriptions, developer commentary
 [^ref-28]: [IMDB – Full Credits](https://www.imdb.com/title/tt0221340/fullcredits/) – complete voice cast, crew credits, LA West animation
@@ -355,6 +353,6 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 [^ref-39]: [MobyGames – Leisure Suit Larry Collection](https://www.mobygames.com/game/27943/leisure-suit-larry-collection/) – 2006 compilation
 [^ref-40]: [Speedrun.com – Larry 7](https://www.speedrun.com/larry7) – speedrun records, community data
 [^ref-41]: [Amazon – Official Strategy Guide](https://www.amazon.com/Leisure-Suit-Larry-Official-Strategy/dp/0761508767) – guide details, publication info
-[^ref-42]: [Internet Archive – Game ISO](https://archive.org/details/mi-lsl-7) – preservation copy
+[^ref-42]: Internet Archive – Game ISO *(download link removed: the game is sold commercially)* – preservation copy
 [^ref-43]: [Internet Archive – Manual](https://archive.org/details/Leisure_Suit_Larry_7_-_Manual) – manual preservation
 [^ref-44]: [Steam News: "Time for Larry to Retire (Just a Little Bit)" (Assemble Entertainment, April 30, 2025)](https://store.steampowered.com/news/app/763970/view/1798454487579791) – announcement that LSL 1, 2, 3, 5, 6, 7 and Magna Cum Laude leave the Steam store; owners keep them
