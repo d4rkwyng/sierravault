@@ -282,7 +282,7 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 [^ref-10]: [Abandonware DOS – Manual](https://www.abandonwaredos.com/docawd.php?sf=police_quest3-manual.txt&st=manual&sg=Police+Quest+3:+The+Kindred&idg=1421) – manual quotes, police procedures, character background
 [^ref-11]: [Best DOS Games](https://bestdosgames.com/games/police-quest-3-the-kindred) – gameplay mechanics description
 [^ref-12]: [GameFAQs – Walkthrough by odino](https://gamefaqs.gamespot.com/pc/564774-police-quest-3-the-kindred/faqs/38010) – timing issues, compatibility warnings, driving mechanics
-[^ref-13]: Adventure Gamers – Review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – retrospective analysis, development troubles, interface critique
+[^ref-13]: [Adventure Gamers – Review](http://web.archive.org/web/20211119232837/https://adventuregamers.com/articles/view/18524) – retrospective analysis, development troubles, interface critique
 [^ref-14]: [Amiga Magazine Rack Reviews](http://amr.abime.net/review_39769) – compilation of contemporary magazine scores across platforms
 [^ref-15]: [Adventure Game Hotspot – Space Quest Historian Retrospective](https://adventuregamehotspot.com/feature/3765/police-quest-3-the-kindred-a-fair-balanced-retrospective) – harsh modern critique, rushed development assessment
 [^ref-16]: [IMDB](https://www.imdb.com/find/?q=Police+Quest+3%3A+The+Kindred&s=tt) – user ratings
