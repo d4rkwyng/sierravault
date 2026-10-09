@@ -71,9 +71,9 @@ Infamous Adventures (later Infamous Quests) creates VGA remakes and original adv
 
 - **2014** — [[2014 - Quest for Infamy|Quest for Infamy]] — Status: Released, Download: [Steam](https://store.steampowered.com/app/264560/Quest_for_Infamy/)
 - **2015** — [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne - The King's Challenge]] — Status: Released, Download: [Steam](https://store.steampowered.com/app/317340/Order_of_the_Thorne__The_Kings_Challenge/)
-- TBD — Quest for Infamy: Roehm to Ruin — In Development — —
-- TBD — Order of the Thorne: Fortress of Fire — ~75% complete — —
-- TBD — King's Quest IV Remake — In Development — —
+- TBD — Quest for Infamy: Roehm to Ruin — Voice recording unfinished; developer reports waning momentum (Jul 2026)[^ref-6] — —
+- TBD — Order of the Thorne: Fortress of Fire — In limbo — no team or budget to finish (Oct 2025)[^ref-7] — —
+- TBD — King's Quest IV Remake — Unverified — only source is a patron-only post (Jan 2026); separate from Magic Quest Entertainment's KQ4 Retold[^ref-8] — —
 
 **Notes:**
 - Space Quest II VGA filled a gap that AGDI left when they cancelled their SQ2 remake[^ref-2]
@@ -167,7 +167,7 @@ Many original Sierra designers have created spiritual successors through crowdfu
 
 - [[2018 - Hero-U - Rogue to Redemption|Hero-U - Rogue to Redemption]] — Status: Released 2018, Platform: Steam, GOG
 - [[2023 - Summer Daze - Tilly's Tale|Summer Daze - Tilly's Tale]] — Status: Released 2023, Platform: Steam
-- Hero-U Sequel — Seeking funding — —
+- Hero-U Sequel — Shelved — Coles making Summer Daze games instead; Ifeyo's Adventure expected late spring/early summer 2027 (Sep 2026)[^ref-9] — —
 
 ### Jane Jensen (Gabriel Knight)
 
@@ -176,7 +176,7 @@ Many original Sierra designers have created spiritual successors through crowdfu
 - [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]] — Status: Released 2014, Platform: Steam, GOG
 - [[2014 - Moebius - Empire Rising|Moebius - Empire Rising]] — Status: Released 2014, Platform: Steam, GOG
 - [[2010 - Gray Matter|Gray Matter]] — Status: Released 2010, Platform: Steam, GOG
-- Gabriel Knight 4: Five Hearts — Awaiting MS approval — —
+- Gabriel Knight 4: Five Hearts — Pitch only; no Microsoft approval as of Dec 2025[^ref-10] — —
 
 ### Ken & Roberta Williams (Colossal Cave)
 
@@ -211,8 +211,7 @@ The [[2025 - SCP Sierra Conversion Project|SCP Sierra Conversion Project]] enhan
 
 | Game | Progress |
 |------|----------|
-| Conquests of the Longbow | 90% |
-| Space Quest IV (Full Remaster) | 75% |
+| Conquests of the Longbow | ~90% (Jan 2026); release promised "soon", still unreleased[^ref-11][^ref-12] |
 
 **Technical Approach:**
 - Uses Amiga-native tools (ImageFX, PPaint, Adpro)
@@ -310,3 +309,10 @@ Most fan remakes operate under unofficial tolerance or negotiated fan licenses:
 [^ref-3]: [Adventure Gamers – KQ2+ Review (archived)](https://web.archive.org/web/20031211034253/http://www.adventuregamers.com/underground/gameinfo.php?id=213) — 2002 AGS Awards
 [^ref-4]: [Polygon – Best Fan Remakes](http://www.polygon.com/2014/8/6/5975145/best-games-of-july-2014-the-besties) — QFG2 VGA praise
 [^ref-5]: [Just Adventure – State of Adventure Gaming (archived)](https://web.archive.org/web/20100317114154/http://justadventure.com/articles/State_of_Adventure_Gaming/Oct-01/October_01.shtm) — KQ8 sales boost after KQ1 VGA release
+[^ref-6]: [Infamous Quests on Bluesky (Jul 21, 2026)](https://bsky.app/profile/infamousquests.bsky.social/post/3mr4upnsfpc2t) — Steven Alexander: desire to work on video games "has been in a waning phase all year"; last Roehm to Ruin project post was the [April 4, 2026 Patreon update](https://www.patreon.com/posts/hospital-stays-154760603) booking May studio time
+[^ref-7]: [Infamous Quests Patreon — "Updates on RtR and Fortress of Fire" (Oct 15, 2025, public post)](https://www.patreon.com/posts/updates-on-rtr-141274312) — "I don't know when or if we will finish that game… we just don't have the team or the budget to really complete it"
+[^ref-8]: [Infamous Quests Patreon — "Small Development Update" (Jan 11, 2026)](https://www.patreon.com/posts/small-update-147963671) — patron-only post; the only source for recent KQ4 remake activity
+[^ref-9]: [Summer Daze at Hero-U — BackerKit project updates ("What We Did Last Summer… and What We're Doing for Next Summer", Sep 16, 2026)](https://summerdaze.backerkit.com/hosted_preorders/project_updates) — Coles lacked resources for the planned Hero-U sequels and changed course to Summer Daze; Ifeyo's Adventure expected late spring or early summer 2027
+[^ref-10]: [Matt Chat 565 — Jane Jensen, creator of Gabriel Knight (YouTube, Dec 2025)](https://www.youtube.com/watch?v=UKI8t6KgAHc) — Jensen says the GK4 pitch to Microsoft got no response: "We never heard a thing back"
+[^ref-11]: [IndieRetroNews — Police Quest III Amiga enhancement by SCP (Jan 5, 2026)](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html) — lists Conquests of the Longbow (90%) under development
+[^ref-12]: [English Amiga Board — "Space Quest IV enhanced by SCP", post #62 by Darasco (Feb 17, 2026)](https://eab.abime.net/showthread.php?t=122018&page=4) — "soon when we release Conquest of Longbow, we will also release the graphics injection tool"

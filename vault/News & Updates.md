@@ -1,6 +1,6 @@
 ---
 title: "News & Updates"
-updated: "2026-10-08"
+updated: "2026-10-09"
 cssclass: news-page
 ---
 # 📰 News & Updates
@@ -178,15 +178,15 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 ## 🚀 Upcoming & In Development
 
 > [!abstract] Alumni Projects
-> - Hero-U Sequel — Corey & Lori Cole — 💰 Seeking funding
+> - Hero-U Sequel — Corey & Lori Cole — 🗄️ Shelved; the Coles are making Summer Daze games instead ([BackerKit, Sep 16, 2026](https://summerdaze.backerkit.com/hosted_preorders/project_updates))
 
 > [!abstract] Fan Projects
 > | Project | Team | Status |
 > |---------|------|--------|
-> | [[TBD - King's Quest IV Remake (Infamous Adventures)\|KQ4 Remake]] | Infamous Adventures | 🔨 Active development |
-> | [[TBD - Quest for Infamy - Roehm to Ruin\|Roehm to Ruin]] | Infamous Quests | 🎙️ Voice recording *(no public update since Apr 4)* |
-> | [[TBD - Order of the Thorne - Fortress of Fire\|Fortress of Fire]] | Infamous Quests | ⏸️ On hold (~75%) |
-> | [[2025 - SCP Sierra Conversion Project\|SCP Conquests of Longbow]] | DaRaSCo/kikems | 🚧 90% complete |
+> | [[TBD - King's Quest IV Remake (Infamous Adventures)\|KQ4 Remake]] | Infamous Adventures | ❓ Unverified — only source is a [patron-only post](https://www.patreon.com/posts/small-update-147963671) (Jan 2026) |
+> | [[TBD - Quest for Infamy - Roehm to Ruin\|Roehm to Ruin]] | Infamous Quests | 🎙️ Voice recording unfinished; developer reports [waning momentum](https://bsky.app/profile/infamousquests.bsky.social/post/3mr4upnsfpc2t) (Jul 2026) |
+> | [[TBD - Order of the Thorne - Fortress of Fire\|Fortress of Fire]] | Infamous Quests | ⏸️ In limbo — [no team or budget to finish](https://www.patreon.com/posts/updates-on-rtr-141274312) (Oct 2025) |
+> | [[2025 - SCP Sierra Conversion Project\|SCP Conquests of Longbow]] | DaRaSCo/kikems | 🚧 [~90%](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html) (Jan 2026); release promised ["soon"](https://eab.abime.net/showthread.php?t=122018&page=4), still unreleased |
 
 ---
 

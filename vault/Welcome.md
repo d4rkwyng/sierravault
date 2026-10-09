@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Sierra Vault"
-updated: "2026-07-13"
+updated: "2026-10-09"
 ---
 # Welcome, Fellow Adventure Seeker
 <img src="sg-logo-roger-graham-400x400.webp" alt="Sierra Vault" width="200" style="float: right; margin: 0 0 10px 10px;">
@@ -96,13 +96,12 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > [!note] In Development
 > | Project | Team | Status |
 > |---------|------|--------|
-> | [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] | Infamous Quests | Voice recording final phase |
-> | [[2025 - SCP Sierra Conversion Project\|SCP Conquests of the Longbow]] | DaRaSCo & kikems | ~90% complete |
-> | [[TBD - King's Quest IV Remake (Infamous Adventures)\|King's Quest IV Remake]] | Infamous Adventures | Active development |
-> | [[2025 - SCP Sierra Conversion Project\|SCP Space Quest IV Full Remaster]] | DaRaSCo & kikems | ~75% complete |
-> | [[TBD - Order of the Thorne - Fortress of Fire\|Order of the Thorne: Fortress of Fire]] | Infamous Quests | On hold — ~75% complete |
-> | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4: Five Hearts]] | Jane Jensen | Awaiting MS approval |
-> | Hero-U Sequel | Corey & Lori Cole | Seeking funding |
+> | [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] | Infamous Quests | Voice recording unfinished; developer reports waning momentum (Jul 2026) |
+> | [[2025 - SCP Sierra Conversion Project\|SCP Conquests of the Longbow]] | DaRaSCo & kikems | ~90% (Jan 2026); release promised "soon", still unreleased |
+> | [[TBD - King's Quest IV Remake (Infamous Adventures)\|King's Quest IV Remake]] | Infamous Adventures | Unverified — only source is a patron-only post (Jan 2026) |
+> | [[TBD - Order of the Thorne - Fortress of Fire\|Order of the Thorne: Fortress of Fire]] | Infamous Quests | In limbo — no team or budget to finish (Oct 2025) |
+> | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4: Five Hearts]] | Jane Jensen | Pitch only; no Microsoft approval as of Dec 2025 |
+> | Hero-U Sequel | Corey & Lori Cole | Shelved — Coles making Summer Daze games instead (Sep 2026) |
 > | *Questing for Glory* (Quest for Glory history book) | Bitmap Books, with Lori & Corey Cole | Slated for November 2026 |
 
 ---

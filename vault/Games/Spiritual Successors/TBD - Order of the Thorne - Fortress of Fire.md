@@ -33,7 +33,7 @@ Infamous Quests, founded in 2012 by Steven Alexander and Shawn Mills, built thei
 > **Publisher:** Infamous Quests[^ref-1]
 > **Engine:** Adventure Game Studio[^ref-7]
 > **Platforms:** Windows, Mac, Linux[^ref-9]
-> **Release Year:** Unreleased (In Development)
+> **Release Year:** Unreleased (development in limbo)
 > **Series:** Order of the Thorne
 > **Protagonist:** Patrick (Addy)[^ref-4]
 > **Sierra Lineage:** Fan-Made Spiritual Successor
@@ -97,9 +97,9 @@ The series was conceived as an anthology of standalone adventures set in the fai
 
 Development of *Fortress of Fire* has been characterized by significant delays and shifting priorities. Following the release of *The King's Challenge* in January 2016, work on the sequel proceeded slowly as the Infamous Quests team members took on other employment[^ref-6]. In a 2020 update, the developer acknowledged the slow progress, stating that team members "now work other jobs" but were "assembling assets and building the game in the engine"[^ref-3].
 
-By 2026, the game remained in what the developers described as "a real state of limbo"[^ref-5]. According to developer Steven Alexander's Patreon update from October 2025, the team has "a lot of resources done for Fortress of Fire but a lot more need to be done - mostly animations"[^ref-5]. The backgrounds are reportedly in the engine, and work has begun on developing the story path and puzzles[^ref-2].
+By 2026, the game remained in what the developers described as "a real state of limbo"[^ref-5]. According to developer Steven Alexander's Patreon update from October 2025, the team has "a lot of resources done for Fortress of Fire but a lot more need to be done - mostly animations"[^ref-5]. Alexander added: "I don't know when or if we will finish that game. There is a lot that has been done on it, but we just don't have the team or the budget to really complete it."[^ref-5] The backgrounds are reportedly in the engine, and work has begun on developing the story path and puzzles[^ref-2].
 
-In an April 4, 2026 Patreon post, Alexander confirmed that the team's near-term production priority remained *Quest for Infamy: Roehm to Ruin* — with studio voice-recording time booked for May 2026 to finish that title — placing *Fortress of Fire* queued behind it. Alexander noted that "lots of other people have been scurrying behind the scenes" on the studio's projects during his hospitalization for spinal surgery, suggesting some asset work continued, but no specific *Fortress of Fire* milestone was attached to the post.[^ref-19]
+In an April 4, 2026 Patreon post, Alexander said studio voice-recording time was booked for May 2026 to finish *Quest for Infamy: Roehm to Ruin*, and that while he was hospitalized for spinal surgery "there have been lots of other people that have been scurrying behind the scenes to make some amazing things." The post did not mention *Fortress of Fire*.[^ref-19]
 
 **Development Credits:**[^ref-7]
 - **Project Lead:** Steven "Blackthorne" Alexander
@@ -224,4 +224,4 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 [^ref-16]: [Steam Community – The King's Challenge Hub](https://steamcommunity.com/app/425600) – community discussion, bug reports
 [^ref-17]: [Kickstarter – Quest for Infamy Campaign](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que/posts) – company history, campaign success
 [^ref-18]: Adventure Gamers – 2D/2.5D Games Archive *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – presentation style categorization
-[^ref-19]: [Infamous Quests Patreon — "Hospital stays etc." (April 4, 2026)](https://www.patreon.com/posts/hospital-stays-154760603) — Steven Alexander confirms studio-time booked for *Roehm to Ruin* voice recording in May 2026, placing *Fortress of Fire* queued behind it; notes ongoing behind-the-scenes asset work during his hospitalization
+[^ref-19]: [Infamous Quests Patreon — "Hospital stays etc." (April 4, 2026)](https://www.patreon.com/posts/hospital-stays-154760603) — Steven Alexander confirms studio-time booked for *Roehm to Ruin* voice recording in May 2026; notes behind-the-scenes work by others during his hospitalization; does not mention *Fortress of Fire*

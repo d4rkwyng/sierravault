@@ -1,6 +1,6 @@
 ---
 title: 'Quest for Infamy: Roehm to Ruin'
-release_year: 2026
+release_year: null
 developer: Infamous Quests
 designer: [Steven Alexander, Shawn Mills]
 publisher: Infamous Quests
@@ -31,7 +31,7 @@ The prequel was first announced alongside *Order of the Thorne: The King's Chall
 > **Publisher:** Infamous Quests[^ref-6]
 > **Engine:** Adventure Game Studio[^ref-7]
 > **Platforms:** Windows[^ref-6]
-> **Release Year:** 2026 (pending final voice work)
+> **Release Year:** TBD (pending final voice work)
 > **Series:** Quest for Infamy
 > **Protagonist:** Mr. Roehm
 > **Sierra Lineage:** Sierra Spiritual Successor
@@ -116,7 +116,7 @@ The game is built using Adventure Game Studio (AGS), a popular engine for creati
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Demo | April 2015 | Windows | Kickstarter demo release[^ref-11] |
-| Final | 2026 (pending) | Windows | Awaiting voice recording completion[^ref-3] |
+| Final | TBD (pending) | Windows | Awaiting voice recording completion[^ref-3] |
 
 ### Technical Issues
 
@@ -139,7 +139,7 @@ The game features multiple story paths with different endings based on player ch
 |-----------|-------------|
 | Mr. Roehm | Steve Patrick |
 
-Voice recording for the lead character remains the final production milestone before release.[^ref-3] A January 2026 Patreon update from Infamous Quests noted the recording session with Steve Patrick was "expected to be completed soon,"[^ref-13] and an April 4, 2026 follow-up confirmed studio time had been **booked for May 2026** to get Steve Patrick into the studio and finish recording the remaining Mr. Roehm lines. The developer also signalled an intent to showcase the completed game at **RetroGameCon Syracuse, NY in October 2026**.[^ref-21]
+Voice recording for the lead character remains the final production milestone before release.[^ref-3] A January 2026 Patreon update from Infamous Quests noted the recording session with Steve Patrick was "expected to be completed soon,"[^ref-13] and an April 4, 2026 follow-up confirmed studio time had been **booked for May 2026** to get Steve Patrick into the studio and finish recording the remaining Mr. Roehm lines. The developer also signalled an intent to showcase the completed game at **RetroGameCon Syracuse, NY in October 2026**.[^ref-21] No further project update has appeared on Patreon since. In July 2026, Alexander wrote on Bluesky that his desire to work on video games "has been in a waning phase all year,"[^ref-22] and the next day that most of the crew he made games with "have moved on with their lives" and "I find my heart not in it as much as it used to be."[^ref-23]
 
 ## Legacy
 
@@ -162,7 +162,7 @@ The game itself represents the continuation of a tradition rooted in fan develop
 
 ### Critical Perspective
 
-*Quest for Infamy: Roehm to Ruin* represents an interesting case study in independent adventure game development. The extended development timeline—from 2015 announcement to expected 2026 release—illustrates the challenges facing small studios attempting to maintain commercial viability while delivering on crowdfunded promises.[^ref-3]
+*Quest for Infamy: Roehm to Ruin* represents an interesting case study in independent adventure game development. The extended development timeline—from 2015 announcement to a still-unscheduled release—illustrates the challenges facing small studios attempting to maintain commercial viability while delivering on crowdfunded promises.[^ref-3]
 
 The game stands as part of a broader movement of Sierra-inspired spiritual successors that emerged in the 2010s.[^ref-9] Adventure Gamers noted that the original *Quest for Infamy* "really channeled those influences and created a surprisingly authentic-feeling new title," suggesting the prequel may maintain this quality.[^ref-11] The deliberate choice to portray an anti-hero rather than a traditional protagonist distinguishes the series within the genre, offering a morally gray perspective uncommon in classic-style adventure games.[^ref-5][^ref-20]
 
@@ -223,3 +223,5 @@ The game stands as part of a broader movement of Sierra-inspired spiritual succe
 [^ref-19]: [Kickstarter – Quest for Infamy Original Campaign](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que/posts) – original funding, backer comments
 [^ref-20]: [Steam Community – Quest for Infamy Discussion](https://steamcommunity.com/app/264560/discussions/0/1735463620082204491/) – sequel interest, community engagement
 [^ref-21]: [Infamous Quests Patreon — "Hospital stays etc." (April 4, 2026)](https://www.patreon.com/posts/hospital-stays-154760603) — Steven Alexander confirms May 2026 studio time booked for Steve Patrick voice recording; RetroGameCon Syracuse showcase planned for October 2026
+[^ref-22]: [Infamous Quests (Steven Alexander) on Bluesky (July 21, 2026)](https://bsky.app/profile/infamousquests.bsky.social/post/3mr4upnsfpc2t) — recovery update; "my desire to do so has been in a waning phase all year"
+[^ref-23]: [Infamous Quests (Steven Alexander) on Bluesky (July 22, 2026)](https://bsky.app/profile/infamousquests.bsky.social/post/3mrakewn53k2n) — "Most of the crew that I made my games with have moved on with their lives… I find my heart not in it as much as it used to be"

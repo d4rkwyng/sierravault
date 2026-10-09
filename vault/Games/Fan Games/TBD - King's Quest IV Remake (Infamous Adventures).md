@@ -23,7 +23,7 @@ tags: [adventure, king-s-quest, sierra]
 
 King's Quest IV Remake is an in-development fan remake of Sierra's 1988 classic *King's Quest IV: The Perils of Rosella*, being created by [[Infamous Adventures]]. The project continues the team's tradition of producing high-quality VGA remakes of classic Sierra adventure games, following their earlier releases of [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III]] (2006) and [[2011 - Space Quest II VGA Remake|Space Quest II VGA]] (2011).[^ref-1]
 
-After completing their Space Quest II remake in 2011, Infamous Adventures shifted focus to commercial development under the [[Infamous Quests]] label, releasing *Quest for Infamy* in 2014. The team has since returned to fan remake work, with the KQ4 project seeing renewed activity through the Infamous Adventures Discord community.[^ref-2] As of January 2026, the game remains in active development with no confirmed release date.[^ref-1][^ref-13][^ref-14][^ref-15]
+After completing their Space Quest II remake in 2011, Infamous Adventures shifted focus to commercial development under the [[Infamous Quests]] label, releasing *Quest for Infamy* in 2014. The team has since returned to fan remake work, with the KQ4 project seeing renewed activity through the Infamous Adventures Discord community.[^ref-2] Its current status is unverified: the only source for recent activity is a January 2026 Infamous Quests Patreon update that is visible to patrons only, and no public Infamous Quests post since has named the remake. No release date has been announced.[^ref-1][^ref-13][^ref-14][^ref-15]
 
 **Note:** This project is distinct from other King's Quest IV fan remakes, including "King's Quest IV Retold" by DrSlash (2021) and the "KQ4 Retold VGA + Talkie" patch by Magic Quest Entertainment (2025).
 
@@ -56,7 +56,7 @@ Sierra's marketing also highlighted Roberta Williams as the game's creator, with
 
 ### Current Status
 
-In January 2026, the Infamous Quests Patreon posted a development update stating: "The team has been really active again and hustling away to finish this up. They have been polishing some things up and doing just some amazing work."[^ref-1] The update included screenshots showing promotional box art being developed and background artwork improvements.[^ref-1]
+The only recent source is a patron-only post, so the details below cannot be publicly checked. In January 2026, the Infamous Quests Patreon posted a development update stating: "The team has been really active again and hustling away to finish this up. They have been polishing some things up and doing just some amazing work."[^ref-1] The update included screenshots showing promotional box art being developed and background artwork improvements.[^ref-1]
 
 Community response has been positive, with one backer commenting that the screenshots "look like what Sierra would have released for a remake of the game."[^ref-1] The Patreon author noted the team's renewed enthusiasm: "It makes me want to finish our King's Quest III gold remake that we had back a while ago. CONSIDERING THAT OUR KING'S QUEST III Remake is 20 years old this year!!"[^ref-1]
 
@@ -162,7 +162,7 @@ The Infamous Adventures team's renewed activity in 2025-2026, with regular Disco
 - [Infamous Quests Patreon](https://www.patreon.com/infamousquests) – Development updates[^ref-1]
 - Previous IA releases: King's Quest III VGA (2006), Space Quest II VGA (2011)[^ref-3]
 
-**Development Status:** In active development as of January 2026.[^ref-1][^ref-2]
+**Development Status:** Unverified — the only source is a patron-only Patreon post (January 2026).[^ref-1] Separate from Magic Quest Entertainment's [[2021 - King's Quest IV Retold|King's Quest IV Retold]].
 
 ## See Also
 
@@ -184,7 +184,7 @@ The Infamous Adventures team's renewed activity in 2025-2026, with regular Disco
 
 ## References
 
-[^ref-1]: [Infamous Quests Patreon – Small Development Update](https://www.patreon.com/posts/small-update-147963671) – January 2026 development update with screenshots, team quotes, and community comments
+[^ref-1]: [Infamous Quests Patreon – Small Development Update](https://www.patreon.com/posts/small-update-147963671) – January 2026 development update with screenshots, team quotes, and community comments (patron-only post)
 [^ref-2]: [Infamous Quests Patreon – Working on Stuff](https://www.patreon.com/infamousquests) – September 2025 post mentioning "infamous adventures discord has been going crazy crazy lately" with renewed team activity
 [^ref-3]: [Infamous Adventures itch.io](https://infamousadventures.itch.io/) – Previous remakes including King's Quest III (2006, 4.9/5) and Space Quest II (2011, 4.8/5), download pages, user ratings
 [^ref-4]: [Hardcore Gaming 101 – King's Quest IV](http://www.hardcoregaming101.net/kings-quest-iv-the-perils-of-rosella/) – Original game analysis, whale tongue section, hidden bridle, fan remake status, designer Roberta Williams, SCI/AGI versions

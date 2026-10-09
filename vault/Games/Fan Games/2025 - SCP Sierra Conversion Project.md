@@ -10,13 +10,13 @@ series: Multiple Sierra Series
 engine: SCI (Enhanced Graphics)
 protagonist: null
 sierra_lineage: Fan Project
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: 'The Sierra Conversion Project (SCP) is a Spanish fan group dedicated to enhancing and remastering Sierra''s notoriously poor Amiga ports with improved graphics, palettes, and presentation.'
 tags: [2020s, amiga, enhancement, fan-project, remaster, sierra]
 ---
 # SCP - Sierra Conversion Project
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -116,12 +116,11 @@ The project gained international visibility through coverage on IndieRetroNews, 
 
 ### Ongoing Development
 
-As of March 2026, the SCP continues development on additional game enhancements, with Conquests of the Longbow estimated at 90% completion and plans for an extended Space Quest IV full remaster beyond the initial release.[^ref-2]
+On January 5, 2026, the SCP listed Conquests of the Longbow at 90% completion; the Space Quest IV entry on the same list (75%) was completed as the OCS Enhanced release on January 15, 2026.[^ref-2] On February 17, 2026, team member Darasco wrote on the English Amiga Board that "soon when we release Conquest of Longbow, we will also release the graphics injection tool."[^ref-22] As of October 2026 the Longbow enhancement remains unreleased.
 
 ## Projects in Development
 
-- **[[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]]** — Progress: 90%, Notes: Near completion[^ref-2]
-- **Space Quest IV** (Full Remaster) — 75% — Extended enhancement beyond initial release[^ref-2]
+- **[[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]]** — Progress: ~90% (Jan 2026), Notes: Release promised "soon" (Feb 2026), still unreleased[^ref-2][^ref-22]
 
 ## Technical Approach
 
@@ -277,3 +276,5 @@ Original Sources — [KQ5 on MEGA](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80
 [^ref-19]: [Space Quest Collection on GOG](https://www.gog.com/en/game/space_quest_123_collection) — official commercial release of Space Quest 1–3 on GOG; Space Quest IV is also available individually as the source for the SCP Amiga enhancement.
 [^ref-20]: [GenerationAmiga – SCP King's Quest V Amiga OCS Enhanced edition coverage](http://www.generationamiga.com/2026/01/kings-quest-v-amiga-ocs-enhanced/) — secondary coverage of the SCP KQ5 Amiga release with screenshots, download links, and crew credits.
 [^ref-21]: [English Amiga Board — Amiga preservation community](https://eab.abime.net/) — broader community context for Amiga port enhancement and preservation discussion that surrounds the SCP project's reception.
+
+[^ref-22]: English Amiga Board. "Space Quest IV enhanced by SCP," post #62 by Darasco, February 17, 2026. "Soon when we release Conquest of Longbow, we will also release the graphics injection tool." [https://eab.abime.net/showthread.php?t=122018&page=4](https://eab.abime.net/showthread.php?t=122018&page=4)
