@@ -5,13 +5,13 @@ developer: Unreleased (Pitched by Jane Jensen with Israeli indie team)
 designer: [Jane Jensen]
 publisher: None (Rights held by Microsoft via Activision)
 genre: Adventure
-platforms: [Planned 2D]
+platforms: [TBD]
 series: Gabriel Knight
 engine: Unreleased
 protagonist: Gabriel Knight
 sierra_lineage: Post-Sierra
 last_updated: '2026-10-09'
-composer: 'Robert Holmes[^ref-6][^ref-15]'
+composer: [Robert Holmes]
 description: 'Gabriel Knight 4: Five Hearts is an unreleased adventure game concept
   developed by Jane Jensen, the original creator of the Gabriel Knight series. Rather...'
 tags: [adventure, gabriel-knight, jane-jensen, sierra]
@@ -22,59 +22,57 @@ tags: [adventure, gabriel-knight, jane-jensen, sierra]
 
 ## Overview
 
-Gabriel Knight 4: Five Hearts is an unreleased adventure game concept developed by [[Jane Jensen]], the original creator of the Gabriel Knight series.[^ref-1][^ref-8] Rather than a completed video game, Five Hearts exists as both a pitch document for a potential fourth installment in the beloved supernatural mystery franchise and as a published short story serving as the opening chapter of what Jensen envisions for Gabriel Knight's return.[^ref-2][^ref-9] The project represents Jensen's ongoing efforts since the late 1990s to continue the adventures of the Schattenjäger (Shadow Hunter), a quest that has spanned decades and multiple corporate ownership changes.[^ref-3][^ref-10]
+Gabriel Knight 4: Five Hearts is an unreleased adventure game concept developed by [[Jane Jensen]], the original creator of the Gabriel Knight series.[^ref-1] Rather than a completed video game, Five Hearts exists as both a pitch document for a potential fourth installment in the beloved supernatural mystery franchise and as a published short story serving as the opening chapter of what Jensen envisions for Gabriel Knight's return.[^ref-2][^ref-18] Jensen has hoped for a fourth game since at least 2003, when she described a ghost-themed sequel.[^ref-1]
 
-The pitch was developed in cooperation with an indie development team from Israel that reached out to Jensen and her husband, composer Robert Holmes.[^ref-4][^ref-11] Jensen has been actively attempting to gain the attention of Microsoft, which acquired the Gabriel Knight intellectual property through its purchase of Activision.[^ref-1][^ref-12] As of a February 26, 2025 interview with industry figure Amir Satvat, Jensen confirmed she was "currently trying to see what we can do about the license right now... now that it's under Microsoft" and was "really hoping to get that game in development sometime in the next few years."[^ref-16] Despite fan enthusiasm and Jensen's continued creative work on the franchise, the game remains in licensing limbo as of February 2025, with no public response from Microsoft to date.[^ref-4][^ref-16] In a December 2025 Matt Chat interview, Jensen said her team's pitch had gone to Microsoft by email "three or four times" and through an industry lawyer, without reply: "We never heard a thing back." As of December 2025 the project remains a pitch only, with no Microsoft approval.[^ref-17]
+The pitch was developed in cooperation with an indie development team from Israel that reached out to Jensen and her husband, composer Robert Holmes.[^ref-4] Jensen has been actively attempting to gain the attention of Microsoft, which acquired the Gabriel Knight intellectual property through its purchase of Activision.[^ref-1][^ref-4] In July 2024 Jensen said she "would like to make it a full game", adding: "Now that the licenses are with Microsoft, I think there's at least a chance of that. Who knows."[^ref-18] As of December 2025, Jensen was still trying to get Microsoft's attention for the pitch, "unsuccessfully so far".[^ref-4][^ref-20] In a December 2025 Matt Chat interview, Jensen said her team's pitch had gone to Microsoft by email "three or four times" and through an industry lawyer, without reply: "We never heard a thing back." As of December 2025 the project remains a pitch only, with no Microsoft approval.[^ref-17]
 
-**Working title evolution:** The project began as "Five Hearts" — both the working title of the game pitch and the title of a free illustrated short story Jensen released on November 19, 2024 via her husband Robert Holmes's website as a backer reward.[^ref-2] By the Satvat interview in February 2025, Jensen had renamed the in-development game pitch to **Thief of Hearts**, while "Five Hearts" remains the title of the published short-story prologue.[^ref-16]
+**Working title:** "Five Hearts" is both the working title of the game pitch[^ref-4][^ref-20] and the title of an illustrated short story Jensen published in November 2024 on her husband Robert Holmes's website. It was first offered as a reward for backers of his "Son of Sequel" Kickstarter and is now a free download.[^ref-2][^ref-18][^ref-19]
 
-The proposed game would continue the series' tradition of blending supernatural horror with detective fiction, this time taking Gabriel to Salzburg, Austria, where serial killings involving removed hearts serve as both a literal mystery and a metaphorical exploration of Gabriel's own emotional journey.[^ref-4][^ref-14] The concept demonstrates Jensen's ambition to evolve the franchise while maintaining the mature storytelling that earned her the title of "the interactive Anne Rice" from Computer Gaming World.[^ref-1]
+The proposed game would continue the series' tradition of blending supernatural horror with detective fiction, this time taking Gabriel to Salzburg, Austria, where serial killings involving removed hearts serve as both a literal mystery and a metaphorical exploration of Gabriel's own emotional journey.[^ref-4] The concept demonstrates Jensen's ambition to evolve the franchise while maintaining the mature storytelling that earned her the title of "the interactive Anne Rice" from Computer Gaming World.[^ref-1]
 
 > [!info]- Game Info
 > **Developer:** Unreleased (Pitched with Israeli indie team)[^ref-4]
 > **Designer:** [[Jane Jensen]][^ref-1]
 > **Publisher:** Rights held by Microsoft via [[Activision]][^ref-1]
 > **Engine:** Unknown (Expected 2D)[^ref-4]
-> **Platforms:** Planned 2D format[^ref-4]
+> **Platforms:** TBD (expected 2D presentation)[^ref-4]
 > **Release Year:** Unreleased
 > **Series:** Gabriel Knight
 > **Protagonist:** Gabriel Knight
-> **Sierra Lineage:** Post-Sierra Revival Attempt
+> **Sierra Lineage:** Post-Sierra
 
 ## Story Summary
 
-Gabriel Knight 4: Five Hearts opens with Gabriel at Schloss Ritter, the ancestral home of the Schattenjäger lineage in Germany, where he finds himself struggling with his writing.[^ref-2] The story takes a dramatic turn when Grace Nakimura, Gabriel's research assistant and longtime romantic interest, has mysteriously disappeared, leaving behind only a letter signed with five hearts—the cryptic symbol that gives the game its title.[^ref-2]
+Gabriel Knight 4: Five Hearts opens with Gabriel at Schloss Ritter, the ancestral home of the Schattenjäger lineage in Germany, where he finds himself struggling with his writing.[^ref-2] The story takes a dramatic turn when Grace Nakimura, Gabriel's research assistant and longtime romantic interest, has mysteriously disappeared, leaving behind only an uncharacteristic letter to her parents, signed off with five hearts.[^ref-2]
 
-The main investigation takes Gabriel to Salzburg, Austria, where a series of brutal serial killings has terrorized the city.[^ref-4] The victims are discovered with their hearts surgically removed, a gruesome detail that connects to a broader supernatural conspiracy.[^ref-4] According to Jensen, the story involves a cursed ceremonial dagger from Salzburg, suggesting connections to Austrian folklore and occult traditions.[^ref-2]
+The main investigation takes Gabriel to Salzburg, Austria, where a series of brutal serial killings has terrorized the city.[^ref-4] The victims are discovered with their hearts surgically removed, a gruesome detail that connects to a broader supernatural conspiracy.[^ref-4] In the short story, an American expatriate living in Salzburg believes she has been cursed by an ancient ceremonial dagger she bought from an antique shop, and Gabriel travels there to retrieve it.[^ref-2]
 
-Jensen has described the narrative as "very metaphorical about, of course, Gabriel's heart," indicating that the mystery serves dual purposes—both as an external investigation and as an internal journey exploring Gabriel's emotional development and capacity for love.[^ref-4] This thematic depth continues the series' tradition of using supernatural mysteries as vehicles for character exploration.
+Jensen describes a metaphorical layer to the plot, which deals with Gabriel's own heart.[^ref-4]
 
-The proposed game would feature two distinct paths based on player choices: a ruthless approach or a compassionate approach to dealing with spirits encountered during the investigation.[^ref-4] This branching narrative structure suggests Jensen's intention to give players meaningful agency in determining Gabriel's moral character and the story's ultimate resolution.
+The proposed game would feature two distinct paths based on player choices: a ruthless approach or a compassionate approach to dealing with spirits encountered during the investigation.[^ref-4]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Based on Jensen's pitch presentations, Gabriel Knight 4 was expected to be developed as a 2D adventure game, likely utilizing a point-and-click interface consistent with the series' heritage.[^ref-4] The choice of 2D development suggests a return to the artistic style of the first two Gabriel Knight games rather than the 3D approach used in Blood of the Sacred, Blood of the Damned.
+The game is expected to be 2D, and Jensen would like to bring on a "younger designer" to help make it.[^ref-4] No interface details have been described.
 
 ### Structure and Progression
 
 The game was planned to feature a branching narrative system with two primary paths:[^ref-4]
 
-- **Ruthless Path:** Players taking a harder approach to dealing with supernatural entities and suspects
-- **Compassionate Path:** Players choosing empathy and understanding when interacting with spirits
-
-This dual-path system would have represented an evolution of the series' storytelling, offering greater player agency than previous entries while maintaining the investigation-focused structure fans expected.
+- **Ruthless Path:** Gabriel is ruthless toward "the spirits" he encounters
+- **Compassionate Path:** Gabriel is compassionate toward them
 
 ### Puzzles and Mechanics
 
-While specific puzzle details have not been revealed, Jensen's previous Gabriel Knight games established a template of research-heavy investigation puzzles, inventory combination challenges, and environmental exploration.[^ref-1] The involvement of a cursed ceremonial dagger suggests artifact-based puzzles would play a significant role.[^ref-2]
+While specific puzzle details have not been revealed, Jensen's previous Gabriel Knight games established a template of research-heavy investigation puzzles, inventory combination challenges, and environmental exploration.[^ref-1]
 
 ## Reception
 
 ### Contemporary Reviews
 
-As an unreleased project, Gabriel Knight 4: Five Hearts has no formal reviews. However, the announcement of Jensen's continued efforts to develop the game has generated significant enthusiasm within the adventure gaming community.[^ref-2]
+As an unreleased project, Gabriel Knight 4: Five Hearts has no formal reviews.
 
 ### Modern Assessment
 
@@ -97,20 +95,18 @@ Early hints of a fourth game appeared within Gabriel Knight 3 itself, where play
 
 The current iteration of Gabriel Knight 4 emerged from an unexpected collaboration. An indie development team from Israel reached out to Jensen and Robert Holmes, expressing interest in working together to pitch a new Gabriel Knight game.[^ref-4] This partnership allowed Jensen to develop a formal pitch document despite not controlling the intellectual property rights.
 
-Jensen has written the first chapter of the new Gabriel Knight story, which has been released as the short story "Five Hearts."[^ref-1] According to Jensen, she has conceptualized material for both Gabriel Knight 4 and Gabriel Knight 5, demonstrating her long-term vision for the franchise.[^ref-1] Jensen has also expressed a desire to bring on a younger designer to help develop the game, suggesting an awareness that the project would benefit from fresh perspectives.[^ref-4]
+Jensen has written the first chapter of the new Gabriel Knight story, which has been released as the short story "Five Hearts."[^ref-1][^ref-18] According to Jensen, she has conceptualized material for both Gabriel Knight 4 and Gabriel Knight 5, demonstrating her long-term vision for the franchise.[^ref-1] Jensen has also expressed a desire to bring on a younger designer to help develop the game, suggesting an awareness that the project would benefit from fresh perspectives.[^ref-4]
 
 Jensen shared details about the pitch on the Matt Chat show, where she discussed the Salzburg setting, the heart-removal serial killings, and the metaphorical dimensions of the narrative.[^ref-4]
 
-In a February 26, 2025 interview with Amir Satvat, Jensen described the project's origin: she had a dream during the summer of 2024 that was "a full Gabriel Knight story," which inspired both the "Five Hearts" short story she wrote for Robert Holmes's Kickstarter and the broader game pitch (now titled *Thief of Hearts*) she has been shopping to Microsoft.[^ref-16] Jensen confirmed in the same interview that licensing pursuit is ongoing and that she hopes to bring the game into development "sometime in the next few years."[^ref-16]
-
 **Development Credits:**[^ref-1][^ref-4]
 - **Creator/Designer:** Jane Jensen
-- **Composer:** [[Robert Holmes]]
+- **Pitch partner:** [[Robert Holmes]] (series composer; the Israeli team approached Jensen and Holmes)
 - **Development Partner:** Israeli indie team (unnamed)
 
 ### Technical Achievements
 
-The planned 2D format represents a deliberate creative choice rather than a technical limitation.[^ref-4] Jensen's decision to pursue 2D development suggests a desire to recapture the atmospheric visual style of the original Gabriel Knight: Sins of the Fathers and The Beast Within, both of which used 2D presentation to achieve distinctive artistic visions.
+The game is expected to be 2D.[^ref-4] No technical details have been announced.
 
 ### Technical Specifications
 
@@ -118,7 +114,7 @@ The planned 2D format represents a deliberate creative choice rather than a tech
 - **Format:** 2D adventure game
 - **Development Platform:** Unknown
 - **Resolution:** Unknown
-- **Audio:** Music by Robert Holmes expected[^ref-1]
+- **Audio:** Not announced (Holmes composed the earlier games and released the short story)[^ref-1][^ref-19]
 
 ### Cut Content
 
@@ -128,9 +124,8 @@ The project itself could be considered "cut content" in a sense, as Jensen has b
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Short Story | November 19, 2024 (per Adventure Game Hotspot) | Text | "Five Hearts" opening-chapter PDF released free via Robert Holmes Music site[^ref-2] |
-| Pitch ("Five Hearts") | 2024 | Concept | Initial pitch presented to Microsoft (no response)[^ref-4] |
-| Pitch ("Thief of Hearts") | February 2025 | Concept | Renamed; licensing pursuit ongoing per Jensen[^ref-16] |
+| Short Story | November 2024 | Text | "Five Hearts" opening chapter; first a "Son of Sequel" Kickstarter backer reward, now a free download from Robert Holmes's site[^ref-2][^ref-18][^ref-19] |
+| Pitch ("Five Hearts") | Revealed December 2025 (Matt Chat) | Concept | Jensen seeking Microsoft's interest, unsuccessfully so far[^ref-4][^ref-20] |
 | Pitch status | December 2025 | Concept | Pitch only; no Microsoft response or approval, per Jensen on Matt Chat[^ref-17] |
 
 ### Technical Issues
@@ -140,18 +135,13 @@ Not applicable for an unreleased game.
 ### Easter Eggs and Trivia
 
 - **GK4 Easter Egg in GK3:** In Gabriel Knight 3, players can search "gk4" in the SIDNEY computer interface to find an entry about ghosts, foreshadowing the planned fourth game's supernatural focus[^ref-1]
-- **Jane Jensen's Dream Inspiration:** Jensen has stated "I had this dream with the complete plot," suggesting the Five Hearts concept came to her in a vision similar to how other Gabriel Knight stories developed[^ref-5]
-- **Five Hearts Symbolism:** The title refers to Grace's farewell letter to Gabriel, signed with five hearts, creating an emotional mystery alongside the literal serial killings[^ref-2]
-- **Salzburg Setting:** The Austrian city was chosen for its rich history and connection to European occult traditions[^ref-4]
+- **Dream origin:** In mid-2024 Jensen said: "I had this dream […] with the complete plot for a new Gabriel Knight story", which she wrote down that morning.[^ref-18]
+- **Five Hearts Symbolism:** Grace's only clue is an uncharacteristic letter to her parents, signed with five hearts.[^ref-2]
+- **Salzburg Setting:** Both the short story and the game pitch are set in Salzburg, Austria.[^ref-2][^ref-4]
 
 ### Multiple Endings
 
-The game was planned to feature branching paths based on player choices:[^ref-4]
-
-- **Path Variable:** Whether player takes ruthless or compassionate approach to spirits
-- **Outcome:** Different endings based on accumulated choices throughout the investigation
-
-The "best" ending requirements have not been revealed, though Jensen's emphasis on the metaphorical nature of Gabriel's heart journey suggests that the compassionate path may lead to more positive resolutions.
+Two paths are planned, with Gabriel either ruthless or compassionate toward "the spirits" he encounters; how they affect the ending hasn't been described.[^ref-4]
 
 ## Legacy
 
@@ -168,7 +158,7 @@ The existing Gabriel Knight games have been preserved through digital distributi
 
 ### Fan Projects
 
-The devoted Gabriel Knight fan community has maintained interest in the series through fan sites like gkpages.altervista.org, which preserves historical interviews and documentation related to the franchise.[^ref-3] Fan enthusiasm has been a driving factor in Jensen's continued efforts to develop the fourth game.
+The devoted Gabriel Knight fan community has maintained interest in the series through fan sites like gkpages.altervista.org, which preserves historical interviews and documentation related to the franchise.[^ref-3]
 
 ### Related Publications
 
@@ -176,17 +166,15 @@ The devoted Gabriel Knight fan community has maintained interest in the series t
 - **"Five Hearts"** by Jane Jensen – Opening chapter of Gabriel Knight 4, available from Robert Holmes' website[^ref-2]
 
 **Historical Documentation:**
-- **"A Love Letter to Adventure Gaming"** by Jane Jensen – 1999 farewell piece published by The Adrenaline Vault[^ref-3]
+- **"A Love Letter To: Sierra"** by Jane Jensen. Published by The Adrenaline Vault on October 4, 1999.[^ref-3]
 
 ### Critical Perspective
-
-Gabriel Knight 4: Five Hearts represents one of the most prolonged development sagas in adventure gaming history. The project's quarter-century journey from planned sequel to unrealized pitch reflects broader industry trends: the decline of adventure games in the late 1990s, the fragmentation of classic gaming IP through corporate acquisitions, and the challenges independent developers face when attempting to revive beloved franchises.[^ref-3]
 
 Jensen's continued dedication to the series demonstrates both the creative's attachment to her most celebrated work and the enduring appeal of the Gabriel Knight formula. Computer Gaming World's declaration of Jensen as "the interactive Anne Rice" proved prescient—like Rice's vampire novels, the Gabriel Knight series has developed a devoted following that spans decades and transcends the medium's evolution.[^ref-1]
 
 The critical question surrounding Gabriel Knight 4 is whether modern audiences would embrace a continuation of a 1990s adventure game series with a protagonist whose attitudes toward women have aged poorly.[^ref-4] Jensen's stated desire to bring on a younger designer suggests an awareness that the franchise may need updating to succeed with contemporary players while honoring its supernatural mystery roots.
 
-Grace Nakimura's character, described by USgamer as "one of the best, most realistic female characters in game history" who is "more likable than Knight and more intelligent and resourceful," may hold the key to the series' modernization.[^ref-1] Her mysterious disappearance in Five Hearts positions her as central to the narrative, potentially allowing Jensen to explore and develop the character who critics have long considered the series' greatest strength.
+Grace Nakimura has been called "one of the best, most realistic female characters in game history" (USgamer's Pete Davison, 2013), and GameSpot wrote that she was "more likable" than Gabriel and more "intelligent and resourceful".[^ref-1] Her mysterious disappearance in Five Hearts positions her as central to the narrative, potentially allowing Jensen to explore and develop the character who critics have long considered the series' greatest strength.
 
 ## Downloads
 
@@ -212,10 +200,8 @@ Grace Nakimura's character, described by USgamer as "one of the best, most reali
 
 [^ref-1]: [Wikipedia – Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight) – Series overview, voice cast, planned GK4 details, IP ownership, Easter egg in GK3, Jensen's "interactive Anne Rice" designation
 [^ref-2]: [Adventure Game Hotspot – Jane Jensen Releases Gabriel Knight Short Story Five Hearts](https://adventuregamehotspot.com/announcement/3108/jane-jensen-releases-gabriel-knight-short-story-five-hearts) – Short story announcement, plot details about Grace's disappearance, cursed dagger, appeal to Microsoft
-[^ref-3]: [GK Pages – Jane Jensen Love Letter](https://gkpages.altervista.org/Interviews/JaneLoveLetter.html) – Jensen's 1999 departure from Sierra, adventure game industry decline, historical context
+[^ref-3]: [GK Pages – Jane Jensen, "A Love Letter To: Sierra" (The Adrenaline Vault, October 4, 1999)](https://gkpages.altervista.org/Interviews/JaneLoveLetter.html) – Jensen's 1999 farewell piece; adventure game industry decline, historical context
 [^ref-4]: [ResetEra – Jane Jensen Shares Details on New Gabriel Knight 4 Pitch](https://www.resetera.com/threads/jane-jensen-shares-details-on-new-gabriel-knight-4-pitch.1375390/) – Matt Chat interview details, Salzburg setting, dual paths, Israeli indie team collaboration, Microsoft licensing difficulties, community reactions
-[^ref-5]: [Grokipedia – Jane Jensen Video Game Designer](https://grokipedia.com/page/jane_jensen_video_game_designer) – Jensen biography, dream inspiration quote, Five Hearts as potential GK4 opening
-[^ref-6]: [PekoeBlaze – Gabriel Knight: Sins of the Fathers Review](https://pekoeblaze.wordpress.com/2016/03/09/review-gabriel-knight-sins-of-the-fathers-retro-computer-game/) – Voice acting praise, New Orleans setting, Tim Curry performance, game structure
 [^ref-7]: [Game Developer – Remaking Gabriel Knight: A 20th Anniversary Postmortem](https://www.gamedeveloper.com/audio/remaking-i-gabriel-knight-i-a-20th-anniversary-postmortem) – Anniversary edition development details, budget, team size, Unity engine
 [^ref-8]: [Sierra Fandom Wiki – Gabriel Knight](https://sierra.fandom.com/wiki/Gabriel_Knight) – Series wiki information
 [^ref-9]: [MobyGames – Gabriel Knight Series](https://www.mobygames.com/group/1267/gabriel-knight/) – Series database entry
@@ -228,6 +214,9 @@ Grace Nakimura's character, described by USgamer as "one of the best, most reali
 [^ref-13]: [Jane Jensen Official Site](http://www.janejensen.com/) – Creator portfolio, project information
 
 [^ref-14]: [Unseen64 – Gabriel Knight 4](https://www.unseen64.net/) – Cancelled game documentation and development history
-[^ref-16]: [Amir Satvat — "My Interview With Jane Jensen" (YouTube, Feb 26, 2025)](https://www.youtube.com/watch?v=QfAAQp_IOWg) — 32-minute interview; Jensen confirms she is currently pursuing the Microsoft-held license, names the in-development game pitch **Thief of Hearts** (with "Five Hearts" being the related short story), describes the summer-2024 dream-origin of the story, and states she hopes to begin development "sometime in the next few years"
+[^ref-16]: [Amir Satvat — "My Interview With Jane Jensen" (YouTube, Feb 26, 2025)](https://www.youtube.com/watch?v=QfAAQp_IOWg) — interview with Jane Jensen; content not yet verified against a transcript, so not currently cited
 [^ref-17]: [Matt Chat 565 — "Mc565: Jane Jensen, creator of Gabriel Knight" (YouTube, December 2025)](https://www.youtube.com/watch?v=UKI8t6KgAHc) — Jensen describes the unreleased GK4 pitch set in Salzburg, made with a team in Israel; says Microsoft never responded to repeated emails or an industry lawyer: "We never heard a thing back"
+[^ref-18]: [Time Extension – "I Had This Dream With The Complete Plot" – Jane Jensen Has Written A Story For Gabriel Knight 4](https://www.timeextension.com/news/2024/07/i-had-this-dream-with-the-complete-plot-jane-jensen-has-written-a-story-for-gabriel-knight-4) — July 2024; dream-origin quote, "Son of Sequel" backer release, "would like to make it a full game"
+[^ref-19]: [Robert Holmes Music – Five Hearts](https://robertholmesmusic.com/five-hearts/) — download page for Jensen's "Five Hearts" short story with concept sketches
+[^ref-20]: [Multiplayer.it – Gabriel Knight 4 è un progetto già avviato dall'autrice Jane Jensen (Giorgio Melani, December 7, 2025)](https://multiplayer.it/notizie/gabriel-knight-4-e-un-progetto-gia-avviato-dallautrice-jane-jensen-che-spera-di-poterlo-concludere.html) — Italian coverage of the Matt Chat interview: project called Five Hearts, Salzburg setting, heart-removing serial killer, no Microsoft interest so far
 
