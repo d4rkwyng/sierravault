@@ -2,10 +2,10 @@
 title: 'Quest for Glory V: Dragon Fire'
 release_year: 1998
 developer: Yosemite Entertainment
-designer: [Lori Ann Cole, Corey Cole]
+designer: [Lori Ann Cole]
 publisher: Sierra FX
 genre: Action RPG
-platforms: [Windows]
+platforms: [Windows, Mac]
 series: Quest for Glory
 engine: Custom 3D
 protagonist: The Hero
@@ -22,7 +22,7 @@ tags: [1990s, coles, quest-for-glory, rpg, sierra]
 <small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
-Quest for Glory V: Dragon Fire is the fifth and final game in the Quest for Glory series, developed by Yosemite Entertainment and published by Sierra FX on December 8, 1998 for Windows[^ref-1][^ref-2][^ref-32].
+Quest for Glory V: Dragon Fire is the fifth and final game in the Quest for Glory series, developed by Yosemite Entertainment and published by Sierra FX for Windows and Macintosh in late 1998 (Wikipedia gives December 8; GameRankings and Metacritic list November 30)[^ref-1][^ref-21][^ref-24].
 
 Designed primarily by [[Lori Ann Cole]] (with [[Corey Cole]] handling programming), the game marks a significant departure from its predecessors by being primarily an action role-playing game rather than a traditional adventure-RPG hybrid[^ref-1][^ref-6].
 
@@ -30,19 +30,19 @@ The game was always planned as part of the series (whereas Wages of War original
 
 Dragon Fire features polygonal 3D characters over pre-rendered 2D backgrounds, making it one of the earliest adopters of a 3D character creation system, predating EverQuest and Asheron's Call[^ref-1].
 
-The soundtrack by Emmy-winning composer Chance Thomas was released on CD, selling 50,000 copies and generating $500,000 in revenue prior to the game's launch[^ref-1].[^ref-29][^ref-31]
+Chance Thomas' soundtrack was released alongside a demo before the game's launch; according to Wikipedia that product sold 50,000 copies and made $500,000[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** Yosemite Entertainment[^ref-1]
-> **Designer:** [[Lori Ann Cole]], [[Corey Cole]][^ref-1]
+> **Designer:** [[Lori Ann Cole]][^ref-1]
 > **Publisher:** Sierra FX[^ref-1]
 > **Producer:** Jay D. Usher[^ref-1]
 > **Programmer:** Eric Lengyel, Larry Scott[^ref-1]
 > **Artist:** Jon Bock, Terry Robinson[^ref-1]
 > **Composer:** Chance Thomas[^ref-1]
 > **Engine:** Custom 3D engine[^ref-1]
-> **Platforms:** Windows[^ref-1]
-> **Release Year:** December 8, 1998[^ref-1]
+> **Platforms:** Windows, Macintosh[^ref-1]
+> **Release Year:** 1998 (December 8 per Wikipedia; November 30 per GameRankings and Metacritic)[^ref-1][^ref-21][^ref-24]
 > **Series:** Quest for Glory
 > **Protagonist:** The Hero
 > **Sierra Lineage:** Core Sierra
@@ -71,12 +71,12 @@ Unlike the first four games, which were mostly adventure games incorporating rol
 
 ### Structure and Progression
 - Seven Rites of Rulership serve as main quest progression[^ref-1][^ref-4]
-- Open world exploration of Silmaria and surrounding areas[^ref-4]
+- Many quests are optional or can be completed in different ways[^ref-3]
 - Multiple character classes with different solutions[^ref-4]
 - Non-linear quest completion within each Rite[^ref-4]
 
 ### Puzzles and Mechanics
-- Romance options with multiple characters including Katrina and Erana[^ref-1][^ref-4]
+- The Hero can marry one of four women (Elsa, Katrina, Erana or Nawar), depending partly on his class[^ref-3]
 - Branching story paths affecting character fates[^ref-1]
 - Real-time action combat replacing turn-based or side-scrolling systems[^ref-1]
 - Cut features due to deadline pressures: bow weapons, playable Elsa/Magnum Opus, multiplayer[^ref-1][^ref-4]
@@ -91,7 +91,7 @@ Next Generation summarized the game as "a fine contribution to the genre that is
 ### Modern Assessment
 Adam Rosenberg of G4TV considers Quest for Glory V: Dragon Fire the best entry in the series[^ref-1]. Griffin McElroy of Polygon positively characterized the game as "fan service" for fans of its predecessors[^ref-1]. However, Rowan Kaizer of Engadget considers this entry the worst of the series, largely due to its use of primitive 3D graphics[^ref-1]. Richard Cobbett of PC Gamer considers the game a "stumble" due to the 3D graphics and arcade action gameplay[^ref-1][^ref-5].
 
-Adventure Gamers rated the game 3/5 (Decent), noting "The fifth Quest for Glory has some questionable design issues, but it's still a decent title with enough entertaining elements to enjoy a Hero's final quest"[^ref-6]. Just Adventure gave it an A- grade[^ref-21], while Quandary rated it 3/5[^ref-21]. PC Zone UK was more critical with 68/100[^ref-21]. HowLongToBeat reports the main story takes approximately 15 hours to complete, with completionist runs taking about 42 hours[^ref-7]. GameFAQs users rated it "Great" with 72 ratings[^ref-8]. The speedrun community has achieved completion times as low as 21 minutes through exploit routing[^ref-22].
+Adventure Gamers rated it 3/5, concluding that it "has some questionable design issues, but it's still a decent title with enough entertaining elements to enjoy a Hero's final quest"[^ref-6][^ref-21]. Just Adventure gave it an A- grade[^ref-21], while Quandary rated it 3/5[^ref-21]. PC Zone UK was more critical with 68/100[^ref-21]. HowLongToBeat users report about 15½ hours for the main story and about 28½ hours with extras (small sample, as of October 2026)[^ref-7]. GameFAQs users rated it "Great" with 72 ratings[^ref-8]. On Speedrun.com the fastest Any% run is about 2 minutes (using a wrong warp); Any% without wrong warps is about 4½ minutes, and an All Rites run takes about 27 minutes[^ref-22].
 
 - **GameSpot:** 7.4/10 (Good)[^ref-17]
 - **IGN:** 6.6/10[^ref-18]
@@ -99,13 +99,13 @@ Adventure Gamers rated the game 3/5 (Decent), noting "The fifth Quest for Glory 
 - **Adventure Classic Gaming:** 4/5 (Very Good)[^ref-20]
 - **CNET Gamecenter:** Adventure Game of Year nominee (1998)[^ref-1]
 - **Just Adventure:** A-[^ref-21]
-- **MobyGames:** 7.6/10 MobyScore, Critics 77%[^ref-3]
-- **Adventure Gamers:** 3/5 (Decent)[^ref-6]
-- **IMDB:** 8.5/10[^ref-23]
-- **Metacritic Users:** 8.5/10 (21 ratings)[^ref-24]
-- **GOG:** 4.9/5 (collection, 196 reviews)[^ref-9]
-- **Steam:** Very Positive (95% positive, 374 reviews, collection)[^ref-10]
-- **HowLongToBeat:** 15 hours main story, 42 hours completionist[^ref-7]
+- **MobyGames:** Moby Score 7.6; critics 77% (35 reviews)[^ref-3]
+- **Adventure Gamers:** 3/5[^ref-21]
+- **IMDb:** 8.5/10 (93 votes)[^ref-23]
+- **Metacritic Users:** 8.5/10 (21 ratings, as of Jan 2026)[^ref-24]
+- **GOG:** 4.9/5 (Quest for Glory 1-5 collection)[^ref-9]
+- **Steam:** Very Positive (95% of 400 Steam-purchaser reviews, collection; as of Oct 2026)[^ref-10]
+- **HowLongToBeat:** 15½ hours main story, 28½ hours with extras[^ref-7]
 - **GameFAQs:** "Great" (72 ratings)[^ref-8]
 
 ## Development
@@ -137,7 +137,7 @@ Quest for Glory V features full voice acting with a notable cast[^ref-13][^ref-2
 
 ### Music
 
-Emmy-winning composer Chance Thomas created the game's celebrated soundtrack[^ref-1][^ref-26]. The soundtrack was released separately on CD prior to the game's launch, selling 50,000 copies and generating $500,000 in revenue[^ref-1]. Jenny Jordan provided vocals for "The Dance of Mystery and Intrigue" and "The Rite of Destiny," while Thomas himself performed the vocal chant for "The Rite of Peace"[^ref-26]. RPGFan praised the orchestral score as one of the game's strongest elements[^ref-27].[^ref-30]
+Emmy-winning composer Chance Thomas created the game's celebrated soundtrack[^ref-1][^ref-26]. The soundtrack was released alongside a demo prior to the game's launch; according to Wikipedia, that product sold 50,000 copies and made $500,000[^ref-1]. Jenny Jordan provided vocals for "The Dance of Mystery and Intrigue" and "The Rite of Destiny," while Thomas himself performed the vocal chant for "The Rite of Peace"[^ref-26]. RPGFan praised the orchestral score as one of the game's strongest elements[^ref-27].[^ref-30]
 
 ### Technical Achievements
 - First and only Quest for Glory game with 3D polygonal characters[^ref-1]
@@ -145,7 +145,7 @@ Emmy-winning composer Chance Thomas created the game's celebrated soundtrack[^re
 - Emmy-winning composer Chance Thomas created the soundtrack[^ref-1]
 - New graphics engine programmed by Eric Lengyel[^ref-1]
 - One of the earliest games with a 3D character creation system, predating EverQuest and Asheron's Call[^ref-1]
-- Platform release: December 8, 1998 Windows[^ref-1]
+- Platform release: 1998, Windows and Macintosh[^ref-1][^ref-3]
 
 ## Legacy
 
@@ -153,7 +153,7 @@ Quest for Glory V: Dragon Fire represents a divisive conclusion to the beloved s
 
 The game's setting, inspired by ancient Greek myths and legends, introduces Silmaria as a land reminiscent of classical Greece with elements like the Rites of Rulership, Atlantis mythology, and creatures such as the Hydra and Cerberus[^ref-28].
 
-Despite mixed reception, the game provided closure to the Hero's journey with numerous characters returning for the finale—including Elsa von Spielburg, Erasmus, Rakeesh, and villains like Bruno and Baba Yaga[^ref-1][^ref-4][^ref-28].
+Despite mixed reception, the game provided closure to the Hero's journey with numerous characters returning for the finale—including Elsa von Spielburg, Erasmus, Rakeesh, Katrina, Erana, and Bruno, who is revealed as the assassin[^ref-1].
 
 Dragon Fire was a nominee for CNET Gamecenter's 1998 "Adventure Game of the Year" award, demonstrating that the game was well-received by contemporary critics despite later reassessments[^ref-1].
 
@@ -201,7 +201,7 @@ This game has been included in the following collections:
 [^ref-3]: [MobyGames – Quest for Glory V: Dragon Fire](https://www.mobygames.com/game/174/quest-for-glory-v-dragon-fire/) – – credits, ratings, screenshots
 [^ref-4]: [Sierra Fandom Wiki – Quest for Glory V](https://sierra.fandom.com/wiki/Quest_for_Glory_V%3A_Dragon_Fire) – – detailed game information
 [^ref-5]: [PC Gamer – Saturday Crapshoot: Quest For Glory 4 1/2](http://www.pcgamer.com/saturday-crapshoot-quest-for-glory-4-12/) – – series retrospective
-[^ref-6]: Adventure Gamers – Quest for Glory V *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – – modern review, rating
+[^ref-6]: [Adventure Gamers – Quest for Glory V: Dragon Fire review (archived 2021)](https://web.archive.org/web/20210305204328/https://adventuregamers.com/articles/view/17510) – – modern review, rating
 [^ref-7]: [HowLongToBeat – Quest for Glory V](https://howlongtobeat.com/game/7482) – – completion times
 [^ref-8]: [GameFAQs – Quest for Glory V](https://gamefaqs.gamespot.com/pc/43361-quest-for-glory-v-dragon-fire) – – user reviews, guides
 [^ref-9]: [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) – – purchase, user reviews
@@ -215,14 +215,14 @@ This game has been included in the following collections:
 [^ref-17]: [GameSpot – Quest for Glory V Review](https://www.gamespot.com/reviews/quest-for-glory-v-dragon-fire-review/1900-2532652/) – 7.4/10 review by Elliott Chin
 [^ref-18]: [IGN – Quest for Glory V: Dragon Fire](https://www.ign.com/articles/1998/12/22/quest-for-glory-v-dragon-fire) – 6.6/10 review by Trent C. Ward
 [^ref-19]: [RPGamer – Quest for Glory V Review (Archive)](https://web.archive.org/web/20030210132916/http://www.rpgamer.com/games/qfg/qfg5/reviews/qfg5strev1.html) – 9/10 review by Joshua Darien Maciel
-[^ref-20]: [Adventure Classic Gaming – QFG V Review](https://web.archive.org/web/19990508131234/http://www.adventureclassicgaming.com/index.php/site/reviews/242/) – 4/5 review by Greg Wallace
-[^ref-21]: [Game Rankings Archive](https://web.archive.org/web/20080913230549/http://www.gamerankings.com/htmlpages2/43361.asp) – aggregated review scores
-[^ref-22]: [Speedrun.com – Quest for Glory V](https://www.speedrun.com/qfg5) – speedrun leaderboards
-[^ref-23]: [IMDB – Quest for Glory V: Dragon Fire](https://www.imdb.com/title/tt0420850/) – voice cast credits, ratings
+[^ref-20]: [Adventure Classic Gaming – Quest for Glory V: Dragon Fire](http://www.adventureclassicgaming.com/index.php/site/reviews/100/) – 4/5 review by Greg Wallace (28 March 1999)
+[^ref-21]: [GameRankings – Quest for Glory V: Dragon Fire (archived 2014)](https://web.archive.org/web/20141208010756/http://www.gamerankings.com/pc/43361-quest-for-glory-v-dragon-fire/index.html) – aggregated review scores, release date
+[^ref-22]: [Speedrun.com – Quest for Glory V: Dragon Fire](https://www.speedrun.com/quest_for_glory_v_dragon_fire) – speedrun leaderboards (checked October 2026)
+[^ref-23]: [IMDb – Quest for Glory V: Dragon Fire](https://www.imdb.com/title/tt0286908/) – voice cast credits, ratings (8.5/10 from 93 votes, January 2026)
 [^ref-24]: [Metacritic – Quest for Glory V](https://www.metacritic.com/game/pc/quest-for-glory-v-dragon-fire) – user ratings
 [^ref-13]: [Quest for Glory Fandom Wiki – Voice Cast](https://questforglory.fandom.com/wiki/Quest_for_Glory_V%3A_Dragon_Fire#Voice_Cast) – complete voice cast listing
-[^ref-26]: [KHInsider – Quest for Glory V Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/quest-for-glory-v-dragon-fire-windows-gamerip-1998) – soundtrack information, vocalists
-[^ref-27]: [RPGFan – Quest for Glory V Soundtrack Review](https://web.archive.org/web/*/https://rpgfan.com/soundtracks/quest-for-glory-v-dragon-fire-ost/) – music review
+[^ref-26]: [KHInsider – Quest for Glory 5: Dragon Fire Original Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/quest-for-glory-5-dragon-fire-original-soundtrack) – soundtrack information, vocalists
+[^ref-27]: [RPGFan – Quest for Glory V: Dragon Fire Original Music Soundtrack](https://www.rpgfan.com/music-review/quest-for-glory-v-dragon-fire-original-music-soundtrack/) – music review
 [^ref-28]: [TV Tropes – Quest for Glory V](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryV) – detailed trope analysis, gameplay mechanics
 [^ref-29]: VGMdb – Quest for Glory V *(link removed: it led to a different game's page)* – soundtrack database entry
 [^ref-30]: [ScummVM Wiki – Quest for Glory V](https://wiki.scummvm.org/index.php?title=Quest_for_Glory_V%3A_Dragon_Fire) – technical compatibility

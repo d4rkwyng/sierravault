@@ -23,15 +23,15 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ## Overview
 Quest for Glory: Shadows of Darkness is a 1993 adventure game/role-playing video game hybrid, the fourth installment in the Quest for Glory series by [[Sierra On-Line]][^ref-1][^ref-2].
 
-Designed by [[Lori Ann Cole]] and [[Corey Cole]], it was the first and only game in the series to drop the roman numerals from the title[^ref-1].
+Designed by [[Lori Ann Cole]] and [[Corey Cole]], it was the first and only game in the series to drop the roman numerals from the title[^ref-27].
 
-Set in Mordavia, a world described as "a mix of Slavic folklore and Lovecraftian horror," the game features darker themes while maintaining the series' trademark humor[^ref-1][^ref-3].
+Set in Mordavia, a world described as "a mix of Slavic folklore and Lovecraftian horror," the game features darker themes while maintaining the series' trademark humor[^ref-1][^ref-3][^ref-7].
 
 Released in December 1993 on floppy discs and re-released on CD-ROM in September 1994, the CD version featured full voice acting including John Rhys-Davies as the Narrator[^ref-1][^ref-4].
 
 According to Corey Cole, the game was developed with a budget of $750,000[^ref-1].
 
-The floppy disc version was released with inadequate testing and is considered "almost unplayable," though the CD re-release addressed many issues[^ref-1].[^ref-13][^ref-14][^ref-15]
+The floppy disc version was released with inadequate testing and is considered "almost unplayable," though the CD re-release addressed many issues[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -66,7 +66,7 @@ The gameplay continued with Quest for Glory III's graphical, point-and-click int
 - Point-and-click interface continuing from QFG III[^ref-1]
 - New side-scrolling combat perspective[^ref-1][^ref-3]
 - Option for automatic computer-controlled combat[^ref-1]
-- SVGA graphics with 256-color VGA[^ref-1][^ref-5]
+- Graphics: Wikipedia says the game "was developed with SVGA graphics"; PCGamingWiki and Sierra Fandom describe it as 256-colour VGA[^ref-1][^ref-5]
 
 ### Structure and Progression
 - Set in Mordavia, a valley surrounded by mountains[^ref-3][^ref-6]
@@ -76,33 +76,31 @@ The gameplay continued with Quest for Glory III's graphical, point-and-click int
 
 ### Puzzles and Mechanics
 - Notable Tarot card sequence using imagery from the Russian tarot of St. Petersburg[^ref-1]
-- Multiple romances available depending on character actions[^ref-3]
 - Dark Rituals collection as main quest progression[^ref-1]
-- Vampiric rabbits as a Monty Python reference[^ref-1]
+- Vampiric rabbits reminiscent of Monty Python and the Holy Grail[^ref-1]
 
 ## Reception
 
 ### Contemporary Reviews
 Computer Gaming World said in March 1994, "Offering a unique mix of dark mystery and light humor, Shadows of Darkness is another award winning adventure"[^ref-1]. Scorpia in April 1994 was less positive, liking the automatic combat option but disliking the "weak to obscure" puzzles and describing the end boss as "a letdown"[^ref-1]. She especially criticized the bugs, describing the game as perhaps "the sloppiest product ever released by Sierra" and requiring multiple patches[^ref-1].
 
-Jim Trunzo reviewed the game in White Wolf #43 (May 1994), giving it a "Very Good" evaluation and stating "If you simply want some challenging fun presented in a gothic setting, try the newest Quest for Glory"[^ref-1]. The game received an ESRB rating of "Kids to Adults"[^ref-18].
+Jim Trunzo reviewed the game in White Wolf #43 (May 1994), giving it a "Very Good" evaluation and stating "If you simply want some challenging fun presented in a gothic setting, try the newest Quest for Glory"[^ref-1]. The game was rated K-A (Kids to Adults) by the ESRB[^ref-19].
 
 ### Modern Assessment
-Rowan Kaizer of Engadget and Ryan Stevens of GameTrailers consider it the best entry of the entire series[^ref-1][^ref-7]. Michael Baker for RPGamer considers it "worth money even twenty years on," scoring it 4 out of 5 stars[^ref-1][^ref-8]. Adam Rosenberg of G4TV considers Shadows of Darkness "the most elaborate and well-designed" entry in the series[^ref-1]. PC Gamer's Richard Cobbett considers the game "absolutely wonderful"[^ref-1][^ref-9].
+Rowan Kaiser of Engadget and Ryan Stevens of GameTrailers consider it the best entry of the entire series[^ref-1][^ref-7]. Michael Baker for RPGamer considers it "worth money even twenty years on," scoring it 4 out of 5 stars[^ref-1][^ref-8]. Adam Rosenberg of G4TV considers Shadows of Darkness "the most elaborate and well-designed" entry in the series[^ref-1]. PC Gamer's Richard Cobbett considers the game "absolutely wonderful"[^ref-1][^ref-9].
 
-In 2011, Adventure Gamers named Shadows of Darkness the 23rd-best adventure game ever released[^ref-1]. IMDB users rate it 8.7/10, one of the highest-rated adventure games on the platform[^ref-4]. MobyGames critics average 79%[^ref-19]. The CRPG Addict gave it 47/100, a respectable score in their stringent system[^ref-20]. HowLongToBeat reports the main story takes approximately 13 hours to complete, with completionist runs taking about 24 hours[^ref-10]. Speedrunners have achieved completion times under 20 minutes[^ref-21].[^ref-26]
+In 2011, Adventure Gamers named Shadows of Darkness the 23rd-best adventure game ever released[^ref-1]. IMDb users rate it 8.7/10 (229 votes)[^ref-4]. MobyGames critics average 76% (16 reviews)[^ref-19]. The CRPG Addict gave it a final rating of 47, ranking it in the top 8% of the games he had rated at the time[^ref-20]. HowLongToBeat reports the main story takes approximately 13½ hours to complete, with completionist runs taking about 22½ hours (as of October 2026)[^ref-10]. On Speedrun.com the fastest Any% run is about 15 minutes, and Any% No Major Skips about 22 minutes[^ref-21].
 
 - **Adventure Gamers:** #23 best adventure game of all time[^ref-1]
 - **White Wolf Magazine:** "Very Good" (May 1994)[^ref-1]
 - **RPGamer:** 4/5 stars[^ref-8]
 - **Engadget/GameTrailers:** Best entry in series[^ref-1][^ref-7]
-- **IMDB:** 8.7/10[^ref-4]
-- **MobyGames:** 79% Critics[^ref-19]
-- **CRPG Addict:** 47/100[^ref-20]
-- **GOG:** 4.9/5 (collection, 196 ratings)[^ref-11]
-- **Steam:** Very Positive (95% positive, 374 reviews, collection)[^ref-12]
-- **HowLongToBeat:** 13 hours main story, 24 hours completionist[^ref-10]
-- **GameFAQs:** "Excellent" (91 ratings)[^ref-22]
+- **IMDb:** 8.7/10[^ref-4]
+- **MobyGames:** 76% Critics (16 reviews)[^ref-19]
+- **CRPG Addict:** 47[^ref-20]
+- **GOG:** 4.9/5 (Quest for Glory 1-5 collection)[^ref-11]
+- **Steam:** Very Positive (95% of 400 Steam-purchaser reviews, collection; as of Oct 2026)[^ref-12]
+- **HowLongToBeat:** 13½ hours main story, 22½ hours completionist[^ref-10]
 
 ## Development
 
@@ -113,9 +111,9 @@ The CD-ROM version was the first game in the series to feature voice actors, inc
 
 ### Voice Cast
 
-The CD-ROM version featured an impressive voice cast including several notable voice actors[^ref-4].
+The CD-ROM version featured an impressive voice cast including several notable voice actors[^ref-4][^ref-28].
 
-**Principal Cast:**[^ref-4]
+**Principal Cast:**[^ref-4][^ref-28]
 
 | Actor | Characters |
 |-------|------------|
@@ -128,7 +126,7 @@ The CD-ROM version featured an impressive voice cast including several notable v
 | Susan Silo | Baba Yaga |
 | Neil Ross | Erasmus |
 
-**Supporting Cast:**[^ref-4]
+**Supporting Cast:**[^ref-4][^ref-28]
 
 | Actor | Characters |
 |-------|------------|
@@ -144,7 +142,7 @@ The CD-ROM version featured an impressive voice cast including several notable v
 
 ### Technical Achievements
 - First Quest for Glory game with full voice acting (CD version)[^ref-1]
-- SVGA graphics developed for enhanced visuals[^ref-1]
+- Graphics: Wikipedia says SVGA; PCGamingWiki and Sierra Fandom describe 256-colour VGA[^ref-1][^ref-5]
 - New side-scrolling combat system[^ref-1]
 - Development budget of $750,000[^ref-1]
 - Original soundtrack by Aubrey Hodges with reprises of Hero's Theme and Grieg's "Anitra's Dance"[^ref-1]
@@ -158,7 +156,7 @@ The game draws heavily from Eastern European mythology and cosmic horror[^ref-23
 - Baba Yaga, a recurring series villain, is based on the Slavic witch from folklore[^ref-1]
 - The game incorporates Boris Karloff and Peter Lorre parodies while maintaining humor[^ref-1]
 - Tarot card sequences use imagery from the Russian tarot of St. Petersburg[^ref-1][^ref-23]
-- Vampiric rabbits appear as a Monty Python reference[^ref-1]
+- Vampiric rabbits reminiscent of Monty Python and the Holy Grail appear[^ref-1]
 
 ### Version History
 
@@ -166,7 +164,8 @@ The game draws heavily from Eastern European mythology and cosmic horror[^ref-23
 |---------|------|----------|-------|[^ref-24]
 | 1.0 | December 1993 | DOS | Original floppy release, notorious for bugs[^ref-1] |
 | CD-ROM | September 1994 | DOS, Windows 3.x | Full voice acting, many bug fixes[^ref-1][^ref-5] |
-| GOG/Steam | May 10, 2012 | Windows (DOSBox) | Digital re-release with NewRisingSun patches[^ref-5] |
+| GOG | May 10, 2012 | Windows (DOSBox) | Digital re-release with NewRisingSun patches[^ref-5] |
+| Steam | August 29, 2016 | Windows (DOSBox) | Quest for Glory 1-5 collection[^ref-12] |
 
 **Known Issues (Original Release):**[^ref-1]
 - Floppy version described as "perhaps the sloppiest product ever released by Sierra" (Scorpia, CGW)
@@ -180,26 +179,26 @@ The game draws heavily from Eastern European mythology and cosmic horror[^ref-23
 
 ## Trivia
 
-- This was the only game in the Quest for Glory series to drop the Roman numerals from its title[^ref-1]
+- This was the only game in the Quest for Glory series to drop the Roman numerals from its title[^ref-27]
 - The Dark One Avoozl is an obvious Cthulhu pastiche, likely referencing the Slavic deity Chernobog[^ref-1][^ref-23]
-- The vampiric killer rabbits are a reference to Monty Python and the Holy Grail's "Killer Rabbit of Caerbannog"[^ref-1]
+- The game's vampiric rabbits are reminiscent of Monty Python and the Holy Grail[^ref-1]
 - The game incorporates Boris Karloff and Peter Lorre parodies to maintain humor despite its dark themes[^ref-1]
 - Tarot card sequences in the game use imagery from the Russian tarot of St. Petersburg[^ref-1][^ref-23]
 - The floppy disc version was so buggy that Scorpia of Computer Gaming World called it "perhaps the sloppiest product ever released by Sierra"[^ref-1]
 - Voice actor John Rhys-Davies (known for Indiana Jones and Lord of the Rings) took more than three weeks to record his narration[^ref-1]
-- Jennifer Hale (Mass Effect's Commander Shepard, among many other roles) voiced the character Katrina[^ref-4]
-- The development budget was $750,000, significantly higher than earlier entries in the series[^ref-1]
-- Players can become a full Paladin in this game if they choose fighter and perform heroic deeds, a path that carries into [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V]][^ref-3]
-- The game features a romance subplot where the hero can develop a relationship with Katrina[^ref-3]
-- Bill Farmer, best known as the voice of Goofy, voiced the character Leshy[^ref-4]
-- Jim Cummings (Winnie the Pooh, Darkwing Duck) voices Boris Stovich[^ref-4]
+- Jennifer Hale (Mass Effect's Commander Shepard, among many other roles) voiced the character Katrina[^ref-1][^ref-4]
+- The development budget was about $750,000, the same as Quest for Glory III's[^ref-29]
+- The Paladin is a bonus character type available only to players who have completed one of the first three Quest for Glory games[^ref-30]
+- Katrina, a mysterious young woman who repeatedly helps the Hero, is a central figure of the story[^ref-1]
+- Bill Farmer, best known as the voice of Goofy, voiced the character Leshy[^ref-1][^ref-4]
+- Jim Cummings (Winnie the Pooh, Darkwing Duck) voices Boris Stovich[^ref-4][^ref-28]
 - The game's atmosphere was directly inspired by gothic fiction and "old horror movies and books about vampires and werewolves"[^ref-1]
 
 ## Legacy
 
-Quest for Glory: Shadows of Darkness is widely considered one of the best games in the series and among the finest adventure-RPG hybrids ever made[^ref-1][^ref-7]. The game's blend of Slavic folklore and Lovecraftian horror created a unique atmosphere that set it apart from both previous entries and contemporary games[^ref-1][^ref-3]. The title change (dropping the "IV") was the only time in the series this occurred[^ref-1].
+Several modern critics, including Engadget's Rowan Kaiser and GameTrailers' Ryan Stevens, consider Shadows of Darkness the best entry in the series[^ref-1][^ref-7], and Adventure Gamers ranked it the 23rd-best adventure game of all time in 2011[^ref-1]. The game's blend of Slavic folklore and Lovecraftian horror created a unique atmosphere that set it apart from both previous entries and contemporary games[^ref-1][^ref-3]. The title change (dropping the "IV") was the only time in the series this occurred[^ref-27].
 
-The troubled release of the floppy version, described by Scorpia as "perhaps the sloppiest product ever released by Sierra," became a cautionary tale about rushed game development[^ref-1]. Despite these issues, the game's reputation has only grown over time, with modern critics consistently ranking it among the finest adventure games ever made[^ref-1][^ref-7].
+The troubled floppy release, which Scorpia called perhaps "the sloppiest product ever released by Sierra", was followed a year later by a much-improved CD version[^ref-1].
 
 ### Collections
 
@@ -243,10 +242,10 @@ This game has been included in the following collections:
 [^ref-1]: [Wikipedia – Quest for Glory: Shadows of Darkness](https://en.wikipedia.org/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – – history, plot, gameplay, development, reception
 [^ref-2]: Archive.org – Quest for Glory: Shadows of Darkness *(download link removed: the game is sold commercially)* – – preservation
 [^ref-3]: [Sierra Fandom Wiki – Quest for Glory IV](https://sierra.fandom.com/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – – detailed game information
-[^ref-4]: [IMDB – Quest for Glory IV](https://www.imdb.com/title/tt0420849/) – – voice cast credits
+[^ref-4]: [IMDb – Quest for Glory IV: Shadows of Darkness](https://www.imdb.com/title/tt0210246/) – – voice cast credits, user rating (8.7/10 from 229 votes, January 2026)
 [^ref-5]: [PCGamingWiki – Quest for Glory: Shadows of Darkness](https://www.pcgamingwiki.com/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – – technical specs
 [^ref-6]: [Grokipedia – Quest for Glory](https://grokipedia.com/page/Quest_for_Glory) – – series development, collections
-[^ref-7]: [Engadget – The glory of Quest For Glory](https://web.archive.org/web/*/https://www.engadget.com/the-glory-of-quest-for-glory/) – – retrospective review
+[^ref-7]: [Engadget – The glory of Quest For Glory](https://www.engadget.com/2012/05/17/the-glory-of-quest-for-glory/) – – retrospective review, Rowan Kaiser
 [^ref-8]: [RPGamer – Quest for Glory IV Review](https://rpgamer.com/review/quest-for-glory-iv-shadows-of-darkness/) – – retrospective review
 [^ref-9]: [PC Gamer – Saturday Crapshoot: Quest For Glory 4 1/2](http://www.pcgamer.com/saturday-crapshoot-quest-for-glory-4-12/) – – series retrospective
 [^ref-10]: [HowLongToBeat – Quest for Glory IV](https://howlongtobeat.com/game/7483) – – completion times
@@ -256,10 +255,14 @@ This game has been included in the following collections:
 [^ref-14]: [Quest for Glory Fandom Wiki](https://questforglory.fandom.com/wiki/Quest_for_Glory_IV%3A_Shadows_of_Darkness) – – series information
 [^ref-15]: [Hardcore Gaming 101 – Quest for Glory](http://www.hardcoregaming101.net/quest-for-glory/) – – series retrospective
 [^ref-18]: ESRB Rating *(link removed: it led to a different game's page)* – "Kids to Adults" rating
-[^ref-19]: MobyGames – Quest for Glory IV *(link removed: it led to a different game's page)* – critic reviews, credits
-[^ref-20]: [CRPG Addict – Quest for Glory IV](https://crpgaddict.blogspot.com/2021/09/quest-for-glory-iv-shadows-of-darkness.html) – detailed analysis
-[^ref-21]: [Speedrun.com – Quest for Glory IV](https://www.speedrun.com/qfg4) – speedrun leaderboards
+[^ref-19]: [MobyGames – Quest for Glory: Shadows of Darkness](https://www.mobygames.com/game/119/quest-for-glory-shadows-of-darkness/) – critic reviews, credits, ESRB rating
+[^ref-20]: [CRPG Addict – Quest for Glory: Shadows of Darkness](http://crpgaddict.blogspot.com/2021/09/quest-for-glory-shadows-of-darkness.html) – final rating 47, ranking 407/444
+[^ref-21]: [Speedrun.com – Quest for Glory: Shadows of Darkness](https://www.speedrun.com/qfg4) – speedrun leaderboards (checked October 2026)
 [^ref-22]: GameFAQs – Quest for Glory IV *(link removed: it led to a different game's page)* – user reviews, guides
 [^ref-23]: [TV Tropes – Quest for Glory IV](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryIV) – trope analysis, cultural references
 [^ref-24]: [ScummVM Wiki – Quest for Glory IV](https://wiki.scummvm.org/index.php?title=Quest_for_Glory%3A_Shadows_of_Darkness) – technical compatibility
 [^ref-26]: [RPGFan – Quest for Glory IV Soundtrack](https://rpgfan.com/soundtracks/quest-for-glory-iv-shadows-of-darkness/) – music review
+[^ref-27]: [Digital Antiquarian – Quest for Glory III and IV](https://www.filfre.net/2018/10/quest-for-glory-iii-and-iv/) – the dropped Roman numeral
+[^ref-28]: [Gamia Archive – Quest for Glory: Shadows of Darkness](https://gamia-archive.fandom.com/wiki/Quest_for_Glory:_Shadows_of_Darkness) – voice cast list
+[^ref-29]: [RPG Codex – Corey Cole interview](http://www.rpgcodex.net/article.php?id=8549) – series budgets
+[^ref-30]: [Quest for Glory Fandom Wiki – QFG4 Technical Manual](https://questforglory.fandom.com/wiki/QFG4_Technical_Manual) – Paladin as a bonus character type

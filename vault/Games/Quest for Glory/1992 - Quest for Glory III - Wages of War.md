@@ -31,7 +31,7 @@ Set in Fricana, a land inspired by central African ecosystems, the game explores
 
 According to Corey Cole, the game was developed with a budget of $750,000[^ref-1].
 
-Lori Cole was responsible for "90% of the design work" while also supervising the VGA remake of Quest for Glory I[^ref-1].[^ref-20][^ref-22][^ref-23]
+Corey Cole has said that "Lori did 90%+ of the design work"[^ref-24], which she did while also supervising the VGA remake of Quest for Glory I[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -42,7 +42,7 @@ Lori Cole was responsible for "90% of the design work" while also supervising th
 > **Programmer:** Oliver Brelsford[^ref-1]
 > **Artist:** [[Andy Hoyos]][^ref-1]
 > **Composer:** Rudy Helm[^ref-1]
-> **Engine:** SCI1.1 (Sierra Creative Interpreter)[^ref-1][^ref-3]
+> **Engine:** SCI1.1 (Sierra Creative Interpreter)[^ref-3][^ref-12]
 > **Platforms:** MS-DOS[^ref-1]
 > **Release Year:** August 1992[^ref-1]
 > **Series:** Quest for Glory
@@ -74,58 +74,56 @@ Like previous installments, the game offers three standard character classes: Wa
 ### Puzzles and Mechanics
 - Characters who proved honorable in QFG II can be imported as Paladins[^ref-1][^ref-3]
 - Any saved character can be changed to a different class, including Paladin, before starting[^ref-1]
-- Magic Users can create a magical staff that allows spellcasting without mana cost[^ref-3]
-- Only game in series without houses to steal from or a Thieves' Guild[^ref-3]
-- Due to a programming oversight, it is impossible to achieve a perfect score[^ref-1]
+- Magic Users can create a magical staff; while it is summoned, spells cost no mana (but spell skills don't improve)[^ref-3]
+- The only game in the series with a single place to steal from (Chief Laibon's hut) and no Thieves' Guild[^ref-25]
+- Wikipedia attributes the impossibility of a perfect score to a programming oversight[^ref-1]; the Quest for Glory wiki says the 500-point maximum is intentional and that bugs make it unreachable for every class[^ref-13]
 
 ## Reception
 
 ### Contemporary Reviews
-Computer Gaming World gave the game a positive review in January 1993[^ref-1]. Dragon magazine awarded the game 5 out of 5 stars in April 1993[^ref-1]. White Wolf Magazine's Jim Trunzo rated it 4/5 in January/February 1993[^ref-1]. In August 1994, PC Gamer US ranked Quest for Glory III as the 28th best computer game ever[^ref-1].
+Computer Gaming World (Jeff James, January 1993) praised the "sumptuous" VGA graphics and soundtrack[^ref-1]. PC Mag's Neil J. Rubenking called it a "perfect blend" of role-playing and adventure gaming[^ref-1]. Dragon magazine awarded the game 5 out of 5 stars in April 1993[^ref-1]. White Wolf Magazine's Jim Trunzo rated it 4/5 in January/February 1993[^ref-1]. In August 1994, PC Gamer US ranked Quest for Glory III as the 28th best computer game ever[^ref-1].
 
 ### Modern Assessment
-Michael Baker for RPGamer gave the game 3 out of 5 stars, feeling it "could have been much more involved and exciting than it actually was" and criticizing the combat system and VGA graphics utilization compared to the EGA graphics of the previous entry[^ref-1][^ref-4]. Richard Cobbett of PC Gamer considers the title "a bit of a filler of a game"[^ref-1][^ref-5].
+Michael Baker for RPGamer gave the game 3 out of 5 stars, feeling it "could have been much more involved and exciting than it actually was" and criticizing the combat system and VGA graphics utilization compared to the EGA graphics of the previous entry[^ref-1]. Richard Cobbett of PC Gamer called it "a bit of a filler game"[^ref-5].
 
-Adventure Gamers rated the game 3/5 (Decent), calling it "certainly not a bad game, but there are few notable positive aspects, making Wages of War the weakest game in the series"[^ref-6]. The Adventure Gamer blog gave it 68/100 using their PISSED rating system[^ref-17]. IMDB users rate it 8.1/10[^ref-18]. HowLongToBeat reports the main story takes approximately 8 hours to complete, with completionist runs taking about 15 hours[^ref-9]. Speedrunners have achieved completion times under 12 minutes[^ref-19].
+Adventure Gamers' Martijn van Es gave it 3 out of 5 stars in 2007, writing: "Certainly not a bad game, but there are few notable positive aspects, making Wages of War the weakest game in the series"[^ref-6]. The Adventure Gamer blog gave it 68/100 using their PISSED rating system[^ref-17]. IMDb users rate it 7.9/10 (94 votes)[^ref-18]. HowLongToBeat reports the main story takes approximately 8 hours to complete, with completionist runs taking about 10 hours (as of October 2026)[^ref-9]. On Speedrun.com, the fastest Any% run is under 8 minutes (7m50s)[^ref-19].
 
 - **Dragon Magazine:** 5/5 stars (1993)[^ref-1]
 - **White Wolf Magazine:** 4/5 (1993)[^ref-1]
 - **PC Gamer US:** #28 Best Computer Game Ever (1994)[^ref-1]
-- **Adventure Gamers:** 3/5 (Decent)[^ref-6]
-- **RPGamer:** 3/5 stars[^ref-4]
+- **Adventure Gamers:** 3/5 stars (2007)[^ref-6]
+- **RPGamer:** 3/5 stars[^ref-1]
 - **The Adventure Gamer:** 68/100[^ref-17]
-- **IMDB:** 8.1/10[^ref-18]
-- **GOG:** 4.9/5 (collection, 195 ratings)[^ref-7]
-- **Steam:** Very Positive (95% positive, 374 reviews, collection)[^ref-8]
-- **HowLongToBeat:** 8 hours main story, 15 hours completionist[^ref-9]
-- **GameFAQs:** "Great" (66 ratings)[^ref-10]
+- **IMDb:** 7.9/10[^ref-18]
+- **GOG:** 4.9/5 (Quest for Glory 1-5 collection)[^ref-7]
+- **Steam:** Very Positive (95% of 400 Steam-purchaser reviews, collection; as of Oct 2026)[^ref-8]
+- **HowLongToBeat:** 8 hours main story, 10 hours completionist[^ref-9]
+- **GameFAQs:** "Great"[^ref-10]
 
 ## Development
 
 ### Production
-The game was created using Sierra's SCI1.1 interpreter, marking the first VGA game in the series[^ref-1][^ref-3]. Development budget was $750,000[^ref-1]. Lori Cole handled 90% of the design work while simultaneously supervising the VGA remake of Quest for Glory I[^ref-1]. The game contains cameos by Sanford and Son as merchants in Tarna, and Laurel and Hardy as French Foreign Legion soldiers[^ref-3].
+The game was created using Sierra's SCI1.1 interpreter[^ref-3][^ref-12], marking the first VGA game in the series[^ref-1]. Development budget was $750,000[^ref-1]. The game contains cameos by Sanford and Son as merchants in Tarna, and Laurel and Hardy as French Foreign Legion soldiers[^ref-3][^ref-26].
 
 ### Technical Achievements
 - First Quest for Glory game with VGA graphics[^ref-1][^ref-3]
 - First in series to use point-and-click interface[^ref-1][^ref-3]
 - Introduced overworld map system for travel[^ref-1]
 - Development budget of $750,000[^ref-1]
-- Lori Cole handled 90% of design work while supervising the VGA remake of Quest for Glory I[^ref-1]
 - Platform release: August 1992 MS-DOS[^ref-1]
 
 ### Easter Eggs and Cameos
 The game contains several pop culture references[^ref-20]:[^ref-21]
-- Sanford and Son appear as merchants in Tarna[^ref-3]
-- Laurel and Hardy appear as French Foreign Legion soldiers[^ref-3]
-- Due to a programming oversight, it is impossible to achieve a perfect score in the game[^ref-1]
+- Sanford and Son appear as merchants in Tarna[^ref-3][^ref-26]
+- Laurel and Hardy appear as French Foreign Legion soldiers[^ref-3][^ref-26]
 
 ## Legacy
 
-Quest for Glory III holds a significant place in the series' technical evolution as the transitional game that moved the franchise from text parser to point-and-click interface, and from EGA to VGA graphics[^ref-1][^ref-3]. These innovations established the visual and interface standards for the remainder of the series. The game's overworld map system for travel between locations also represented a departure from the interconnected screens of previous entries, influencing the design of subsequent installments[^ref-1].
+Quest for Glory III holds a significant place in the series' technical evolution as the transitional game that moved the franchise from text parser to point-and-click interface, and from EGA to VGA graphics[^ref-1][^ref-3]. The game's overworld map for travel between locations was a departure from the interconnected screens of previous entries[^ref-1].
 
-The game is notable for being the only entry in the series without a Thieves' Guild or houses to rob, making it the least favorable for Thief characters[^ref-3]. This design choice reflected the African-inspired setting where such Western guild structures would be anachronistic. The game was originally intended to be "Shadows of Darkness" with the villain Ad Avis, but the Coles changed direction to a lighter African-themed adventure to appeal to new audiences[^ref-1]. The dramatic cliffhanger ending, with the Hero disappearing into darkness, directly sets up the events of Quest for Glory: Shadows of Darkness[^ref-1][^ref-3].
+The game is notable for being the only entry in the series with a single place to steal from (Chief Laibon's hut) and no Thieves' Guild, making it the least favorable for Thief characters[^ref-3][^ref-25]. The game was originally intended to be "Shadows of Darkness" with the villain Ad Avis, but the Coles changed direction to a lighter African-themed adventure to appeal to new audiences[^ref-1]. The dramatic cliffhanger ending, with the Hero disappearing into darkness, directly sets up the events of Quest for Glory: Shadows of Darkness[^ref-1][^ref-3].
 
-While often considered a transitional entry by modern critics—with solid mechanics but a less engaging plot compared to predecessors—Quest for Glory III served as an important bridge between the EGA era and the fully-realized VGA games that followed[^ref-1][^ref-5][^ref-6]. The Quest for Glory series as a whole pioneered the hybrid adventure-RPG genre, blending puzzle-solving narratives with character progression systems, and QFG III's technical innovations helped establish this formula for future titles[^ref-3].
+While often considered a transitional entry by modern critics—with solid mechanics but a less engaging plot compared to predecessors—Quest for Glory III served as an important bridge between the EGA era and the fully-realized VGA games that followed[^ref-1][^ref-5][^ref-6].
 
 ### Collections
 
@@ -170,9 +168,9 @@ This game has been included in the following collections:
 [^ref-1]: [Wikipedia – Quest for Glory III: Wages of War](https://en.wikipedia.org/wiki/Quest_for_Glory_III%3A_Wages_of_War) – – history, plot, gameplay, development, reception
 [^ref-2]: [Archive.org – Quest for Glory III Demo](https://archive.org/details/QuestForGloryIiiWagesOfWarDemo) – – preservation
 [^ref-3]: [Sierra Fandom Wiki – Quest for Glory III](https://sierra.fandom.com/wiki/Quest_for_Glory_III%3A_Wages_of_War) – – detailed game information
-[^ref-4]: [RPGamer – Quest for Glory III Review](https://rpgamer.com/review/quest-for-glory-iii-wages-of-war/) – – retrospective review
+[^ref-4]: RPGamer – Quest for Glory III Review *(link removed: the page is gone and no archived copy was verified)* – – retrospective review
 [^ref-5]: [PC Gamer – Saturday Crapshoot: Quest For Glory 4 1/2](http://www.pcgamer.com/saturday-crapshoot-quest-for-glory-4-12/) – – series retrospective
-[^ref-6]: Adventure Gamers – Quest for Glory III *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – – modern review
+[^ref-6]: [Adventure Gamers – Quest for Glory III: Wages of War review (archived 2013)](https://web.archive.org/web/20131014081100/http://www.adventuregamers.com/articles/view/18064) – – 3 stars, Martijn van Es, November 23, 2007
 [^ref-7]: [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) – – purchase, user reviews
 [^ref-8]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750) – – purchase, user reviews
 [^ref-9]: [HowLongToBeat – Quest for Glory III](https://howlongtobeat.com/game/7481) – – completion times
@@ -183,10 +181,13 @@ This game has been included in the following collections:
 [^ref-14]: [Hardcore Gaming 101 – Quest for Glory](http://www.hardcoregaming101.net/quest-for-glory/) – – series retrospective
 [^ref-15]: [Digital Antiquarian – Quest for Glory III and IV](https://www.filfre.net/2018/10/quest-for-glory-iii-and-iv/) – – historical analysis
 [^ref-16]: [StrategyWiki – Quest for Glory III](https://strategywiki.org/wiki/Quest_for_Glory_III) – walkthrough, game guide
-[^ref-17]: [The Adventure Gamer Blog – QFG III Review](https://advgamer.blogspot.com/2018/03/game-105-quest-for-glory-iii-wages-of.html) – detailed playthrough analysis
-[^ref-18]: IMDB – Quest for Glory III *(link removed: it led to a different game's page)* – user ratings
-[^ref-19]: [Speedrun.com – Quest for Glory III](https://www.speedrun.com/qfg3) – speedrun leaderboards
+[^ref-17]: [The Adventure Gamer Blog – Quest for Glory III: Wages of War – Final Rating](https://advgamer.blogspot.com/2018/05/quest-for-glory-iii-wages-of-war-final.html) – PISSED rating, 68
+[^ref-18]: [IMDb – Quest for Glory III: Wages of War](https://www.imdb.com/title/tt0420850/) – user ratings
+[^ref-19]: [Speedrun.com – Quest for Glory III: Wages of War](https://www.speedrun.com/quest_for_glory_iii_wages_of_war) – speedrun leaderboards (checked October 2026)
 [^ref-20]: [TV Tropes – Quest for Glory III](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryIII) – trope analysis, easter eggs
 [^ref-21]: [ScummVM Wiki – Quest for Glory III](https://wiki.scummvm.org/index.php?title=Quest_for_Glory_III%3A_Wages_of_War) – technical compatibility
 [^ref-22]: [The Cutting Room Floor – Quest for Glory III](https://tcrf.net/Quest_for_Glory_III%3A_Wages_of_War) – unused content
 [^ref-23]: Games Nostalgia – Quest for Glory III *(download link removed: the game is sold commercially)* – preservation
+[^ref-24]: [Adventure Gamers – Lori and Corey Cole interview, page 3 (archived 2015)](https://web.archive.org/web/20150421221306/http://www.adventuregamers.com/articles/view/23214/page3) – Corey Cole on the design split
+[^ref-25]: ClassicReload – Quest for Glory III *(download link removed: the game is sold commercially)* – Thief content, cameos
+[^ref-26]: [MobyGames – Quest for Glory III: Wages of War](https://www.mobygames.com/game/173/quest-for-glory-iii-wages-of-war/) – trivia, cameos
