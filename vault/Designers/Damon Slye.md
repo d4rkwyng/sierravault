@@ -90,7 +90,8 @@ The influence of Slye's work can be seen in the continued popularity and evoluti
 - 1986 — Arcticfox — Designer, Programmer
 - 1987 — Skyfox II: The Cygnus Conflict — Creator
 - 1989 — Project Firestart — Designer
-- **1989** — [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation|Tank: The M1A1 Abrams Battle Tank Simulation]] — Role: Director
+- **1989** — [[1989 - Abrams Battle Tank|Abrams Battle Tank]] — Role: Designer
+- **1989** — [[1989 - MechWarrior|MechWarrior]] — Dynamix (Activision)
 - 1989 — Deathtrack — Actor (as "Sly")
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Role: Producer, Flight Model
 - **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Director

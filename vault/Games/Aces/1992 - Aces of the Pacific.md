@@ -109,7 +109,7 @@ Version 1.2 included significant upgrades and all-new features, while the WWII: 
 | 1.0 | 1992 | Initial release on floppy disk[^ref-15] |
 | 1.2 | 1993 | Performance, AI, sound, and aircraft improvements[^ref-16] |
 | CD-ROM | 1994 | Compilation release with enhanced content[^ref-21] |
-| WWII: 1946 | 1994 | Expansion with alternate history scenarios[^ref-22] |
+| [[1992 - Aces of the Pacific - WWII 1946\|WWII: 1946]] | 1992 | Expansion with alternate history scenarios[^ref-22] |
 
 The Sierra Chest archives provide extensive documentation of the game's various releases, including promotional materials[^ref-23][^ref-24] and collectible memorabilia[^ref-25].
 

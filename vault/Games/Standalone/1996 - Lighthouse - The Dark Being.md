@@ -144,7 +144,6 @@ The game's influence extends to the community of adventure game enthusiasts who 
 - [[1986 - Wrath of Denethenor]]
 - [[1987 - 3-D Helicopter Simulator]]
 - [[1988 - Silpheed]]
-- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
 - [[1990 - Codename - Iceman]]
 - [[1990 - Jones in the Fast Lane]]
 - [[1990 - Zeliard]]

@@ -215,7 +215,6 @@ For modern players, 3-D Helicopter Simulator serves primarily as a historical cu
 - [[1986 - Kempelen]]
 - [[1986 - Wrath of Denethenor]]
 - [[1988 - Silpheed]]
-- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
 - [[1990 - Codename - Iceman]]
 - [[1990 - Jones in the Fast Lane]]
 - [[1990 - Zeliard]]

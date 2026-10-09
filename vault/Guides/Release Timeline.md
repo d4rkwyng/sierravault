@@ -115,6 +115,7 @@ Sierra (renamed from On-Line Systems in 1982) created the graphic adventure genr
 
 ### 1989
 - [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Series: A-10 Tank Killer, Type: Flight Simulation
+- [[1989 - Abrams Battle Tank|Abrams Battle Tank]] — Developer: Dynamix, Type: Vehicle Simulation
 - [[1989 - After Dark|After Dark]] — Series: After Dark, Type: Screensaver/Puzzle Collection
 - [[1989 - Asterix - Operation Getafix|Asterix - Operation Getafix]] — Series: Asterix, Type: Action-Adventure
 - Caveman Ugh-lympics — Sports
@@ -131,9 +132,9 @@ Sierra (renamed from On-Line Systems in 1982) created the graphic adventure genr
 - **[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]** — Series: Leisure Suit Larry, Type: Adventure
 - [[1989 - Manhunter - San Francisco|Manhunter - San Francisco]] — Series: Manhunter, Type: Adventure
 - Project Firestart — Survival Horror
+- [[1989 - MechWarrior|MechWarrior]] — Developer: Dynamix, Type: Vehicle Simulation
 - **[[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I - So You Want to Be a Hero]]** — Series: Quest for Glory, Type: Adventure
 - **[[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III - The Pirates of Pestulon]]** — Series: Space Quest, Type: Adventure
-- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation|Tank - The M1A1 Abrams Battle Tank Simulation]] — Series: Electronic Battlefield System, Type: Vehicle Simulation
 - **[[1989 - The Colonel's Bequest|The Colonel's Bequest]]** — Series: Laura Bow, Type: Adventure
 - [[CXL - SWAT - Urban Justice|Urban Justice]] — Series: SWAT, Type: Tactical First-Person Shooter
 
@@ -192,6 +193,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 
 ### 1992
 - [[1992 - A.J.'s World of Discovery|A.J.'s World of Discovery]] — Series: Adibou, Type: Educational
+- [[1992 - Aces of the Pacific - WWII 1946|Aces of the Pacific - WWII 1946]] — Series: Aces, Type: Expansion
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] — Series: Aces Series, Type: Flight Simulation
 - [[1992 - Air Bucks|Air Bucks]] — Series: Bucks, Type: Business Simulation
 - [[1992 - Air Force Commander|Air Force Commander]] — Series: Air Force Commander, Type: Strategy/Simulation
@@ -506,6 +508,7 @@ Sierra was acquired by Vivendi, then absorbed into Activision. Adventure game de
 - [[2004 - Hoyle Table Games|Hoyle Table Games]] — Series: Hoyle, Type: Board Game
 - **[[2004 - Leisure Suit Larry - Magna Cum Laude|Leisure Suit Larry - Magna Cum Laude]]** — Series: Leisure Suit Larry, Type: Action-Adventure
 - [[2004 - Lords of the Realm III|Lords of the Realm III]] — Series: Lords of the Realm, Type: Real-Time Strategy
+- [[2004 - Tribes - Vengeance|Tribes - Vengeance]] — Series: Tribes, Type: First-Person Shooter
 
 ### 2005
 - [[2005 - Hoyle Board Games|Hoyle Board Games]] — Series: Hoyle, Type: Strategy / Board Games

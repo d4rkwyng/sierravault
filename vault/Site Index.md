@@ -763,7 +763,6 @@ This archive contains **507 game pages** across 74 categories.
 - **1986** — [[1986 - Kempelen|Kempelen]] — Last Updated: 2026-01-17
 - **1986** — [[1986 - Wrath of Denethenor|Wrath of Denethenor]] — Last Updated: 2026-01-11
 - **1987** — [[1987 - 3-D Helicopter Simulator|3-D Helicopter Simulator]] — Last Updated: 2026-01-22
-- **1989** — [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation|Tank: The M1A1 Abrams Battle Tank Simulation]] — Last Updated: 2026-01-22
 - **1993** — [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas: Frontier Pharmacist]] — Last Updated: 2026-01-09
 - **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Last Updated: 2026-01-09
 - **1993** — [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping: A Talking Book I Can Read]] — Last Updated: 2026-01-09
