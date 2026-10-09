@@ -2,7 +2,7 @@
 title: 'Police Quest: In Pursuit of the Death Angel (VGA Remake)'
 release_year: 1992
 developer: Sierra On-Line
-designer: [Jim Walls, Tammy Dargan]
+designer: [Jim Walls]
 publisher: Sierra On-Line
 genre: Adventure
 platforms: [DOS]
@@ -21,15 +21,16 @@ tags: [1990s, adventure, police-quest, sci, sierra]
 
 ## Overview
 
-Police Quest: In Pursuit of the Death Angel VGA Remake is a 1992 enhanced remake of Sierra On-Line's 1987 police procedural adventure game.[^ref-1][^ref-42] The remake utilized Sierra's SCI 1.1 engine to deliver 256-color VGA graphics, digitized sound effects, and an interactive point-and-click interface, replacing the original's text parser and EGA graphics.[^ref-2] This technological overhaul brought the realistic police simulation to a new generation of players while maintaining the core gameplay philosophy of strict adherence to authentic law enforcement procedures.[^ref-3]
+Police Quest: In Pursuit of the Death Angel VGA Remake is a 1992 enhanced remake of Sierra On-Line's 1987 police procedural adventure game.[^ref-1] The remake utilized Sierra's SCI 1.1 engine to deliver 256-color VGA graphics, digitized sound effects, and an interactive point-and-click interface, replacing the original's text parser and EGA graphics.[^ref-2] This technological overhaul brought the realistic police simulation to a new generation of players while maintaining the core gameplay philosophy of strict adherence to authentic law enforcement procedures.[^ref-3]
 
 The game places players in the role of Sonny Bonds, a patrol officer in the fictional city of Lytton, California, who must work his way up from routine traffic stops to take down a notorious drug lord known as the Death Angel.[^ref-4] What distinguished Police Quest from Sierra's other adventure franchises was its unflinching commitment to realism—designed by former California Highway Patrol officer [[Jim Walls]], the game required players to follow actual police protocols or face severe consequences.[^ref-5] Producer Tammy Dargan stated that "it was our intention to create a real life simulation, to explore the feelings that are part of the police experience."[^ref-6]
 
-The remake was part of Sierra's broader initiative to update their classic AGI-era titles with modern graphics and interfaces, similar to their remakes of Leisure Suit Larry, King's Quest, and Space Quest.[^ref-2] While Jim Walls had left Sierra by the time of the remake's release, his original design philosophy remained intact, creating what many consider the definitive version of this pioneering law enforcement simulation.[^ref-7]
+The remake was part of Sierra's broader initiative to update their classic AGI-era titles with modern graphics and interfaces, similar to their remakes of Leisure Suit Larry, King's Quest, and Space Quest.[^ref-2] While Jim Walls had left Sierra by the time of the remake's release, his original design philosophy remained intact.[^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Designer:** [[Jim Walls]], [[Tammy Dargan]][^ref-8]
+> **Designer:** [[Jim Walls]] (original design)[^ref-22]
+> **Producer:** [[Tammy Dargan]][^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI 1.1[^ref-9]
 > **Platforms:** MS-DOS[^ref-1]
@@ -54,7 +55,7 @@ The climax of the game involves Sonny going undercover to apprehend the Death An
 
 The 1992 VGA remake replaced the original game's text parser with Sierra's iconic point-and-click interface.[^ref-2] Players interact with the game world using icon-based commands corresponding to Walk, Look, Touch, and Talk actions.[^ref-1] This modernized approach made the game more accessible while retaining the depth of interaction that Sierra's adventures were known for.[^ref-16]
 
-The driving sequences feature an overhead view of Lytton's streets, with players controlling Sonny's patrol car directly.[^ref-17] These segments proved challenging for many players, as "your tiny game car does not have the maneuverability of your full-sized real one, and other drivers will go exactly where they want whether you happen to be in the way or not."[^ref-18] The remake's driving controls remained difficult, with particular issues when traveling south, where "the left/right controls become confusing."[^ref-19]
+Driving was simplified in the remake: the player no longer steers; the car drives automatically and the player only chooses turns and brakes at stop signs.[^ref-1] (In the 1987 original, driving was notoriously hard: "your tiny game car does not have the maneuverability of your full-sized real one".[^ref-18])
 
 ### Structure and Progression
 
@@ -75,7 +76,7 @@ Failure to follow proper procedure results in penalties ranging from point deduc
 - Properly securing weapons and evidence[^ref-3]
 - Following correct traffic stop procedures[^ref-20]
 
-The game includes a poker mini-game that requires winning to progress through certain story beats.[^ref-19] The game also features multiple solutions to some situations, providing replay value for players who want to explore different approaches.[^ref-010]
+The original's mandatory poker mini-game was made optional in the remake.[^ref-1] The game also features multiple solutions to some situations, providing replay value for players who want to explore different approaches.[^ref-10]
 
 ## Reception
 
@@ -83,23 +84,20 @@ The game includes a poker mini-game that requires winning to progress through ce
 
 The original 1987 release received generally positive reviews that carried through to the remake's reception. Computer Gaming World's Michael S. Chaut praised some of the graphics as "the most terrific this reviewer has ever seen."[^ref-22] Antic magazine's Rick Teverbaugh noted that "there is a strong sense of actually becoming the cop on the beat," praising the game as "well-drawn, colorful and fun to play--or just to watch being played."[^ref-23]
 
-The Games Machine UK gave the original a positive assessment, stating that "the parser can deal with most likely inputs, and interaction is very good," though noting that "the car is tricky to control at first and the sound lets the game down slightly."[^ref-010] Atari ST User awarded Police Quest II 9/10, calling it "excellent in every respect — the graphics, plot, detail, humour and story telling are of first rate quality."[^ref-24]
+The Games Machine UK gave the original a positive assessment, stating that "the parser can deal with most likely inputs, and interaction is very good," though noting that "the car is tricky to control at first and the sound lets the game down slightly."[^ref-10]
 
 Not all reviews were uncritical. Macworld's Keith McCandless observed that the game "plays like a long version of a routine cop TV show, and you can't lose if you just follow the manual. The game begs for a challenging mystery."[^ref-22] Contemporary reviews were generally "positive about the game's graphics but were critical of the easy puzzles which revolved around following the police procedures manual bundled with the game."[^ref-25]
 
 ### Modern Assessment
 
-Modern retrospectives have offered mixed evaluations of the game's design choices. Alex Bevilacqua's 2022 review scored the game 67%, noting that "Sierra really tried hard to make this an accurate police operations and process simulator, but that results in long segments just being boring."[^ref-26] He added that "it was not as much fun as I remember it being."[^ref-26]
+Modern retrospectives have offered mixed evaluations of the game's design choices. Alex Bevilacqua's 2022 review scored the game 67%, noting that "Sierra really tried hard to make this an accurate police operations and process simulator, but that results in long segments just being boring."[^ref-5] He added that "it was not as much fun as I remember it being."[^ref-5]
 
 The VGA remake specifically has been praised for its visual improvements. One reviewer called the hand-painted backgrounds "stunning" and declared it "an excellent Sierra remake well worth playing, even if you never played the original."[^ref-7] The nostalgia trigger retrospective noted that "this was and still is one of the toughest and frustrating games out there" due to the strict procedural requirements.[^ref-27]
 
 **Aggregate Scores:**
-- **MobyGames:** 75% critics average (10 ratings)[^ref-1]
-- **IMDB:** 7.4/10 (47 ratings) for remake; 8.2/10 (119 ratings) for original[^ref-2]
-- **Lemon Amiga:** 9/10[^ref-18]
-- **Games Nostalgia:** 77/100 (9 editorial reviews)[^ref-28]
-- **My Abandonware:** 4.14/5[^ref-16]
-- **Just Games Retro:** 4.5/5 (2 votes)[^ref-29]
+- **MobyGames:** 75% critics average (10 ratings, as of January 2026)[^ref-7]
+- **IMDb:** 7.4/10 (47 ratings) for the remake[^ref-2]
+- **Games Nostalgia (1987 original):** 77/100 (9 editorial reviews)[^ref-28]
 
 ## Development
 
@@ -107,7 +105,7 @@ The VGA remake specifically has been praised for its visual improvements. One re
 
 The Police Quest series originated from a chance meeting between Sierra CEO Ken Williams and California Highway Patrol officer Jim Walls in 1985.[^ref-22] Walls was on administrative leave following a traumatic shooting incident when Williams recognized his potential as a consultant who could bring authentic law enforcement experience to a video game.[^ref-27] After Walls retired from the CHP in 1986, development began in earnest on what would become one of Sierra's most distinctive franchises.[^ref-22]
 
-Walls brought 15 years of police force experience to the project, basing many game incidents on actual situations he encountered during his time in the CHP.[^ref-22] The protagonist Sonny Bonds was loosely based on Walls' own son, also named Sonny.[^ref-22] This personal connection infused the game with an authenticity that set it apart from other adventure titles of the era.[^ref-30]
+Walls brought 15 years of police force experience to the project, basing many game incidents on actual situations he encountered during his time in the CHP.[^ref-22] The protagonist Sonny Bonds was named after Jim Walls' son.[^ref-19] This personal connection infused the game with an authenticity that set it apart from other adventure titles of the era.[^ref-30]
 
 ### Production
 
@@ -119,7 +117,9 @@ For the remake, Sierra consolidated the various game documents from the original
 
 **Development Credits:**[^ref-1]
 - **Original Designer:** Jim Walls
-- **Remake Producer/Director:** Tammy Dargan
+- **Producer:** Tammy Dargan
+- **Creative Director:** Bill Davis
+- **Art Director:** James Larsen
 - **Original Programmers:** [[Al Lowe]], Greg Rowland, [[Ken Williams]], [[Scott Murphy]]
 - **Original Artists:** [[Mark Crowe]], Gerald Moore
 - **Composer (Original):** Margaret Lowe
@@ -129,13 +129,13 @@ For the remake, Sierra consolidated the various game documents from the original
 
 The VGA remake represented a significant technological leap over the original AGI version.[^ref-6] The original used 160x200 EGA resolution with 16 colors, while the remake featured high-resolution 256-color VGA graphics with hand-painted backgrounds.[^ref-6] The transition from text parser to point-and-click interface made the game accessible to players unfamiliar with Sierra's earlier command-line adventures.[^ref-2]
 
-The remake also featured digitized sound effects and improved music support, though one reviewer noted that "music sounds better through Sound Blaster than Roland MT-32."[^ref-7] The use of video-captured human actors for character animations added a level of visual fidelity unprecedented in the original release.[^ref-6]
+The remake also featured digitized sound effects and improved music support;[^ref-2] MobyGames reviewer Katakis, who usually prefers the Roland MT-32, found this game's music sounds better through the Sound Blaster.[^ref-1] The use of video-captured human actors for character animations added a level of visual fidelity unprecedented in the original release.[^ref-6]
 
 ### Technical Specifications
 
 **VGA Remake Version:**[^ref-9]
 - **Graphics:** 256-color VGA
-- **Sound:** Sound Blaster, General MIDI support
+- **Sound:** PC speaker, AdLib, Sound Blaster, Roland MT-32[^ref-29]
 - **CPU:** Intel 286 minimum, 386 recommended
 - **RAM:** 640 KB minimum, 1 MB recommended
 - **Storage:** 7 MB hard drive space
@@ -179,38 +179,23 @@ Additionally, reviewers noted that the remake's ending "skips a vital scene that
 
 The original AGI version suffered from several technical problems on newer hardware. The game is speed-sensitive and "runs too fast on newer computers," requiring slowdown utilities or DOSBox configuration.[^ref-32] Audio hardware detection issues also plague the original on faster PCs.[^ref-32]
 
-The driving segments presented significant challenges across all versions. Players reported that approximately "80% of deaths came from crashing in driving sections."[^ref-29] The game would end instantly if players failed to stop at red lights, and attempting legal right turns on red sometimes resulted in unfair game overs.[^ref-29]
+Reviewing the 1987 original, Just Games Retro wrote that "the vast majority of deaths I had in the entire game were in the driving section", including game overs for running red lights or making a legal right turn on red.[^ref-26]
 
 One walkthrough author noted that players will be "confronted with what is probably the worst parsing problem in any Sierra game" when trying to interact with certain characters, though this was primarily an issue in the AGI text-parser version.[^ref-18]
 
 ### Easter Eggs and Trivia
 
-The game contains numerous hidden interactions and easter eggs that reward curious players:
+The game contains numerous hidden interactions and easter eggs that reward curious players. In the 1987 AGI original (text-parser eggs not possible in the point-and-click remake):
 
 - Typing "Get Naked" while in police uniform produces the comedic response "What's a naked?" before causing problems[^ref-34]
 - Entering programmers' names (Al Lowe, Ken Williams, Jim Walls) in the crime computer produces amusing results[^ref-17]
 - A newspaper in the briefing room contains an article about Daventry (from King's Quest) being under siege by a three-headed dragon[^ref-17]
 - When chicken feathers fall on the ground, typing "pick up feather" results in the reply "Do that in King's Quest III"[^ref-17]
-- The pimp character from Leisure Suit Larry in the Land of the Lounge Lizards makes a cameo appearance[^ref-17]
 - In the original AGI version, typing "HAVE SEX" during a traffic stop with a female driver gives you a phone number (which turns out to be the police chief's wife) and results in game over[^ref-34]
 
-The game was notable for being the first Sierra game released on DOS without copy protection.[^ref-30] It was also one of the first PC games to use actual profanity (including the word "Crap") along with censored profanity symbols in 1987.[^ref-30]
+In the remake, the undercover "pimp suit" from the original was renamed a "leisure suit", a nod to Leisure Suit Larry.[^ref-43]
 
-The original featured unique typing shortcuts (o for "open", c for "close", d for "door") that were specific to this game only in Sierra's catalog.[^ref-30]
-
-## Voice Cast
-
-The 1992 VGA remake did not include voice acting, distinguishing it from later Sierra CD-ROM releases. However, the subsequent Police Quest III: The Kindred (1991) featured voice performances that carried over the characterizations from this game:
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Sonny Bonds | Christopher Daniel Barnes |
-| Marie Bonds | Cheryl Loyd |
-| Pat Morales | Patty Lang |
-| Captain Tate | Robert Tapp |
-| D.A. Mr. Cannon | Ken Williams |
-
-Note: These credits are from Police Quest III and represent the voice characterizations of recurring series characters.[^ref-35]
+The 1987 original was the first Sierra game to ship without copy protection; the remake, by contrast, has a copy-protection check partway through.[^ref-11][^ref-7] The original was also one of the first PC games to use the word "Crap" (with profanity symbols), and it had unique typing shortcuts (o = open, c = close, d = door).[^ref-11]
 
 ## Legacy
 
@@ -218,13 +203,13 @@ Note: These credits are from Police Quest III and represent the voice characteri
 
 The Police Quest series achieved significant commercial success for Sierra. The first four Police Quest adventure games totaled 850,000 sales by late 1995.[^ref-22] Combined sales of the entire Police Quest series (including the SWAT spin-offs) surpassed 1.2 million units by the end of March 1996.[^ref-22]
 
-The game's unique approach to adventure gaming helped establish Sierra's reputation for diverse, innovative titles during the late 1980s and early 1990s. As the company's SEC filing noted, Police Quest represented a successful expansion beyond their fantasy-oriented King's Quest and humor-driven Leisure Suit Larry franchises.[^ref-22]
+The game's unique approach to adventure gaming helped establish Sierra's reputation for diverse, innovative titles during the late 1980s and early 1990s.
 
 ### Police Training Applications
 
-Perhaps the most remarkable aspect of Police Quest's legacy was its adoption as an actual law enforcement training tool. Rich DeBaun wrote in InterAction magazine that "Police Quest has proven to be a practical, effective training tool officers enjoy using. It safely demonstrates to rookies the consequences of failing to observe proper police procedures and can serve as a valuable refresher course for experienced officers."[^ref-36]
+Perhaps the most remarkable aspect of Police Quest's legacy was its adoption as an actual law enforcement training tool. Of the 1987 original, Rich DeBaun wrote in InterAction magazine that "Police Quest has proven to be a practical, effective training tool officers enjoy using. It safely demonstrates to rookies the consequences of failing to observe proper police procedures and can serve as a valuable refresher course for experienced officers."[^ref-11][^ref-22]
 
-Law and Order Magazine praised the game as "a serious training tool... Luck does not play a part in successfully completing the program. The simulation is based on skill and knowledge... The depth of training is enormous."[^ref-30] The Allegan City Police Department in Michigan was specifically documented as using the game for officer training.[^ref-25]
+Law and Order Magazine praised the game as "a serious training tool... Luck does not play a part in successfully completing the program. The simulation is based on skill and knowledge... The depth of training is enormous."[^ref-11] The game was apparently used for officer training at the Allegan City Police Department in Michigan.[^ref-25]
 
 One user who became a police officer wrote: "As the game that made me interested in law enforcement, and eventually led me to a career in the field, this game holds a very special place for me. The attention to actual police procedure, while not perfect down to the details, is very accurate and to my knowledge, the most accurate to be presented in a computer game to date."[^ref-37]
 
@@ -233,7 +218,7 @@ One user who became a police officer wrote: "As the game that made me interested
 Police Quest: In Pursuit of the Death Angel has been included in numerous Sierra compilation releases:
 
 - **Police Quest Collection** – Bundled with other Police Quest titles
-- **GOG.com Police Quest Collection** – Digital release including both AGI original and VGA remake[^ref-38]
+- **GOG.com Police Quest Collection** – Digital release including both AGI original and VGA remake[^ref-16]
 - **Sierra Adventure Games Collection** – Various retail compilations
 
 ### Fan Projects
@@ -246,20 +231,21 @@ The Sarien.net project created a browser-based interpreter allowing players to e
 
 - **LPD Indoctrination Guide:** Included with the game, containing authentic police procedures, radio codes, and penal violations[^ref-19]
 - **The Gazette:** Remake-specific newspaper publication consolidating game documents including poker guide and city map[^ref-1]
-- **Police Quest Casebook (Novel):** Based on game events[^ref-40]
+- **The Police Quest Casebook** (Peter Scisco, Osborne McGraw-Hill, 1993): Sierra-authorized guide to the first three games[^ref-44]
+- **Novels:** *Police Quest: In Pursuit of the Death Angel* and *Death Angel, Sweet Angel*[^ref-40]
 
 ### Critical Perspective
 
-Police Quest: In Pursuit of the Death Angel represents a pivotal moment in adventure gaming history when Sierra demonstrated that the genre could extend beyond fantasy and science fiction into realistic simulation territory.[^ref-29] As one retrospective noted, "Police Quest represents an interesting experiment in changing what adventure games were all about."[^ref-29]
+Just Games Retro, reviewing the original, notes that Sierra and others had previously built adventures around cartoonish, comedic properties, and that "Police Quest represents an interesting experiment in changing what adventure games were all about."[^ref-26]
 
-The game's unflinching commitment to procedural accuracy created a unique tension between entertainment and education that has rarely been replicated. While some critics argued that "the game has about as much use in preparing you to be a policeman as The Oregon Trail has in preparing you to set off from Independence, Missouri in a wagon,"[^ref-29] the documented use of the game in actual police training suggests otherwise.
+The game's unflinching commitment to procedural accuracy created a unique tension between entertainment and education that has rarely been replicated. While Just Games Retro argued that "the game has about as much use in preparing you to be a policeman as The Oregon Trail has in preparing you to set off from Independence, Missouri in a wagon,"[^ref-26] the documented use of the game in actual police training suggests otherwise.
 
-The VGA remake stands as both a technical achievement and a historical artifact, capturing Sierra's transition from parser-based adventures to the point-and-click era. While Jim Walls' departure from Sierra meant he had no direct involvement in the remake, the game remains faithful to his original vision of bringing authentic law enforcement experience to computer gaming. As one reviewer summarized: "There was something supremely cool about stepping behind the badge and actually digging into police work."[^ref-41]
+The VGA remake stands as both a technical achievement and a historical artifact, capturing Sierra's transition from parser-based adventures to the point-and-click era. While Jim Walls' departure from Sierra meant he had no direct involvement in the remake, the game remains faithful to his original vision of bringing authentic law enforcement experience to computer gaming. As one reviewer summarized: "There was something supremely cool about stepping behind the badge and actually digging into police work."[^ref-13]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG – Police Quest Collection](https://www.gog.com/game/police_quest_1_2_3_4) – Includes both AGI original and VGA remake
+- [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – Includes both AGI original and VGA remake
 
 **Download / Preservation**
 
@@ -283,28 +269,28 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 [^ref-4]: [Gamer Walkthroughs – Police Quest](https://gamerwalkthroughs.com/police-quest-pursuit-of-the-death-angel/) – plot summary, real-world procedures
 [^ref-5]: [Alex Bevilacqua Blog – Police Quest 1](https://alexbevi.com/blog/2022/03/15/police-quest-1/) – training tool use, procedural requirements
 [^ref-6]: [Adventure Classic Gaming – Review](http://www.adventureclassicgaming.com/index.php/site/reviews/67/) – Dargan quote, technical comparison, system specs
-[^ref-7]: [MobyGames – User Review by Katakis](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/reviews/) – remake assessment, cut content, non-canonical status
+[^ref-7]: [MobyGames – User Review by Katakis](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/reviews/) – remake assessment, cut content, non-canonical status, copy-protection check; critics average 75% from 10 ratings (January 2026 capture)
 [^ref-8]: My Abandonware – Police Quest VGA *(download link removed: the game is sold commercially)* – designer credits
 [^ref-9]: [PCGamingWiki – Police Quest](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – engine info, system requirements, GOG release date
-[^ref-11]: [Police Quest Fandom Wiki – AGI DOS Version](https://policequest.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(AGI_DOS/Tandy)) – drug crisis plot, training publication quotes
+[^ref-11]: [Police Quest Fandom Wiki – AGI DOS Version](https://policequest.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(AGI_DOS/Tandy)) – drug crisis plot, training publication quotes, first Sierra game without copy protection, "Crap", typing shortcuts
 [^ref-12]: [Walkthroughking – Police Quest](https://www.walkthroughking.com/text/policequest.aspx) – plot details, series overview
 [^ref-13]: [Nerds That Geek – Review](https://nerdsthatgeek.com/gaming/nerds-that-geek-game-review-police-quest-in-pursuit-of-the-death-angel) – emotional story elements
 [^ref-14]: Adventure Gamers – Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Death Angel investigation
 [^ref-15]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel/faqs/19345) – climax details
-[^ref-16]: [GOG – Police Quest Collection](https://www.gog.com/game/police_quest_1_2_3_4) – commercial availability, collection info
+[^ref-16]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – commercial availability, collection info
 [^ref-17]: [MobyGames – Original Game Entry](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/) – easter eggs, driving view, original credits
 [^ref-18]: [Lemon Amiga – Walkthrough](https://www.lemonamiga.com/games/docs.php?id=1243) – driving difficulty quotes, parsing problems
-[^ref-19]: [Retro Freak Reviews – Police Quest I](https://retrofreakreviews.com/2017/02/15/police-quest-i-review/) – manual detail, driving controls, poker requirement
+[^ref-19]: [Retro Freak Reviews – Police Quest I](https://retrofreakreviews.com/2017/02/15/police-quest-i-review/) – manual detail, Sonny Bonds named after Jim Walls' son
 [^ref-20]: [IMDB – Original Game Description](https://www.imdb.com/title/tt0289399/) – patrol duties, procedural requirements
 [^ref-10]: Abandonware DOS – Police Quest *(download link removed: the game is sold commercially)* – Games Machine UK review quote, multiple solutions
 [^ref-22]: [Wikipedia – Police Quest: In Pursuit of the Death Angel](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – development history, sales data, contemporary reviews, source code preservation
 [^ref-23]: [Antic Magazine Vol. 7 No. 3](https://www.atarimagazines.com/v7n3/stgamesgallery.html) – Teverbaugh review quotes
 [^ref-24]: [Police Quest Fandom – PQ2](https://policequest.fandom.com/wiki/Police_Quest_II:_The_Vengeance_(MS-DOS)) – Atari ST User review quote
 [^ref-25]: [Choicest Games – Review](https://www.choicestgames.com/2019/08/police-quest-in-pursuit-of-death-angel.html) – contemporary review criticism, Allegan PD training use
-[^ref-26]: [Just Games Retro – Police Quest 1](https://www.justgamesretro.com/dos/police-quest-1) – 67% score, retrospective analysis
+[^ref-26]: [Just Games Retro – Police Quest 1](https://www.justgamesretro.com/dos/police-quest-1) – review of the 1987 original: driving deaths, Oregon Trail comparison, "interesting experiment"
 [^ref-27]: [Nostalgia Trigger – Retrospective](https://web.archive.org/web/*/https://nostalgiatrigger.com/2017/04/17/retrospectives-part-1-police-quest-in-pursuit-of-the-death-angel-1987/) – difficulty quote, Ken Williams recruitment
 [^ref-28]: Games Nostalgia – Police Quest *(download link removed: the game is sold commercially)* – aggregate score, version info
-[^ref-29]: [DOS Days – Police Quest](https://www.dosdays.co.uk/topics/Games/game_pq1.php) – driving deaths, Oregon Trail comparison, historical significance
+[^ref-29]: [DOS Days – Police Quest](https://www.dosdays.co.uk/topics/Games/game_pq1.php) – 1992 SCI release audio support (PC Speaker, Ad Lib, Sound Blaster, Roland MT-32)
 [^ref-30]: [Sierra Chest – Police Quest](https://www.sierrachest.com/index.php?a=games&id=20) – no copy protection, profanity, shortcuts
 [^ref-31]: [Adventure Gamer Blog – PQ4 Analysis](https://advgamer.blogspot.com/2024/10/game-149-police-quest-open-season.html) – Jim Walls departure quote
 [^ref-32]: [ScummVM Wiki – Police Quest 1](https://wiki.scummvm.org/index.php/Police_Quest:_In_Pursuit_of_the_Death_Angel) – AGI version history, technical specs
@@ -313,7 +299,8 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 [^ref-35]: [Police Quest Fandom – PQ3](https://policequest.fandom.com/wiki/Police_Quest_III:_The_Kindred_VGA) – voice cast credits
 [^ref-36]: [The Digital Antiquarian – Police Quest](https://www.filfre.net/2019/07/chief-gates-comes-to-oakhurst-a-cop-drama/) – Rich DeBaun training tool quote
 [^ref-37]: [MobyGames – User Review by Andy Roark](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/user-review/2470100/) – career influence quote, accuracy assessment
-[^ref-38]: [GOG Dreamlist – Police Quest](https://www.gog.com/dreamlist/game/police-quest-in-pursuit-of-the-death-angel-original-1987-version) – GOG release confirmation
 [^ref-39]: [Sarien.net – Police Quest](https://www.sarien.net/policequest) – browser interpreter warning
 [^ref-40]: [Police Quest Fandom – Disambiguation](https://policequest.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – novel reference
 [^ref-41]: [Hardcore Gaming 101 – Police Quest](http://www.hardcoregaming101.net/police-quest/) – stepping behind badge quote
+[^ref-43]: [Sierra Fandom – Police Quest: In Pursuit of the Death Angel (SCI)](https://sierra.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(SCI)) – "pimp suit" renamed "leisure suit"
+[^ref-44]: [Internet Archive – The Police Quest Casebook](https://archive.org/details/the-police-quest-casebook) – Peter Scisco, Osborne McGraw-Hill, 1993; Sierra-authorized edition for the first three games

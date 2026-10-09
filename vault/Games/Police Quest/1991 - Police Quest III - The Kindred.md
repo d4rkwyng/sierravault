@@ -2,7 +2,7 @@
 title: 'Police Quest III: The Kindred'
 release_year: 1991
 developer: Sierra On-Line
-designer: [Jim Walls, Jane Jensen]
+designer: [Jim Walls]
 publisher: Sierra On-Line
 genre: Adventure
 platforms: [DOS, Amiga]
@@ -25,13 +25,14 @@ tags: [1990s, adventure, jane-jensen, police-quest, sci, sierra]
 
 Police Quest III: The Kindred is a 1991 police procedural adventure game developed and published by Sierra On-Line, marking the third installment in the Police Quest series and the final entry designed by former California Highway Patrol officer [[Jim Walls]][^ref-1]. The game continues the story of Detective Sergeant Sonny Bonds in the fictional city of Lytton, now grown into a fully-fledged metropolis with an increased crime rate to match[^ref-2]. Unlike its text-parser predecessors, Police Quest III introduced a completely mouse-driven point-and-click interface, representing Sierra's transition to their new generation of adventure games[^ref-3].
 
-The game was notable for being the first Sierra title to extensively utilize digitized character technology in the VGA era, with close-up images showcasing pixelated versions of actual actors[^ref-4]. Composer Jan Hammer, famous for his work on the Miami Vice television soundtrack, provided the game's "searing music-card compatible stereo soundtrack," lending the game a contemporary cop drama atmosphere[^ref-5]. Sierra marketed the Police Quest series as "the most accurate simulation of police action you can get," claiming it was "so realistic it's used by police departments across the country as a training tool"[^ref-5].
+Adventure Gamers called it "the first Sierra game to really make use of this technology in the VGA era," referring to its digitized close-ups of real actors[^ref-13]. Composer Jan Hammer, famous for his work on the Miami Vice television soundtrack, provided the game's "searing music-card compatible stereo soundtrack," lending the game a contemporary cop drama atmosphere[^ref-5]. Sierra marketed the Police Quest series as "the most accurate simulation of police action you can get," claiming it was "so realistic it's used by police departments across the country as a training tool"[^ref-5].
 
-The development of Police Quest III was marked by significant behind-the-scenes turmoil, as [[Jim Walls]] departed Sierra during the late stages of production under circumstances that "have still not been publicly explained"[^ref-3]. [[Jane Jensen]], who would later achieve fame as the creator of the Gabriel Knight series, was brought in to finalize the writing for the unfinished game, marking her first writing assignment at Sierra[^ref-4]. Despite these difficulties, contemporary reviews praised the game as "the best of the series to date," though later retrospectives have been considerably more critical of its rushed development and incomplete feel[^ref-6].
+The development of Police Quest III was marked by behind-the-scenes turmoil. Accounts of [[Jim Walls]]' departure differ: Wikipedia says he left "during the late development stages" with the game unfinished, as does Adventure Gamers ("substantially unfinished")[^ref-1][^ref-13], while the Digital Antiquarian says he left "shortly after completing" it, to join Tsunami Media[^ref-30]. Walls himself has said only that "circumstances" led him to leave[^ref-1]. [[Jane Jensen]], who would later achieve fame as the creator of the Gabriel Knight series, was brought in to finalize the writing for the unfinished game, marking her first writing assignment at Sierra[^ref-4]. Despite these difficulties, contemporary reviews praised the game as "the best of the series to date," though later retrospectives have been considerably more critical of its rushed development and incomplete feel[^ref-6].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Designer:** [[Jim Walls]], [[Jane Jensen]][^ref-4]
+> **Designer:** [[Jim Walls]][^ref-1]
+> **Writer:** [[Jane Jensen]] (finalized the script)[^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI1[^ref-7]
 > **Platforms:** MS-DOS, Amiga[^ref-1]
@@ -79,9 +80,9 @@ Key locations and investigation phases include:
 
 Police Quest III combines traditional adventure game inventory puzzles with police-procedural mechanics that demand attention to proper law enforcement protocols[^ref-11]. Players must conduct computer work, use facial composite software to create suspect sketches, and analyze murder patterns using maps[^ref-9]. Evidence collection and proper handling procedures remain crucial, as in previous entries.
 
-The game features a driving system that allows players to patrol Lytton's expanded streets, though this mechanic proved controversial. Adventure Classic Gaming noted that "plainly speaking, driving around in the town of Lytton is a disaster"[^ref-4]. The system requires players to navigate while maintaining appropriate speeds, with the inability to turn when driving faster than 55 mph[^ref-12]. Adventure Gamers memorably stated: "You haven't played Police Quest 3 until you've driven straight into the river immediately after leaving the station, for lack of understanding how quickly you must click to successfully turn"[^ref-13].
+The game features a driving system that allows players to patrol Lytton's expanded streets, though this mechanic proved controversial. Adventure Classic Gaming noted that "plainly speaking, driving around in the town of Lytton is a disaster"[^ref-4]. One walkthrough warns that it is impossible to turn when driving faster than 55 miles per hour[^ref-12]. Adventure Gamers memorably stated: "You haven't played Police Quest 3 until you've driven straight into the river immediately after leaving the station, for lack of understanding how quickly you must click to successfully turn"[^ref-13].
 
-The game's ending depends on player choices throughout, including seemingly minor decisions. One reviewer noted that the "final ending trigger can fail if you issue warning rather than ticket on very first day," demonstrating the game's sometimes obscure cause-and-effect relationships[^ref-13].
+The game's ending depends on player choices throughout, including seemingly minor decisions. Adventure Gamers notes that the "good ending" depends on a series of easy-to-miss, unrepeatable events, and that the whole series "will fail to trigger if you issue a warning rather than a ticket to someone driving slow in the fast lane on the very first day of the game"[^ref-13].
 
 ## Reception
 
@@ -91,7 +92,7 @@ Police Quest III received mixed to positive reviews upon release, with critical 
 
 French magazine Génération 4 gave the PC version 93% in November 1991, with reviewer Didier Latil[^ref-14]. Joystick magazine similarly awarded 90%, reviewed by Dany Boolauck in the same month[^ref-14]. Swedish publication Datormagazin gave the Amiga version a remarkable 95% in May 1992, reviewed by Göran Fröjdh[^ref-14].
 
-However, not all reviews were enthusiastic. Zero magazine gave a more modest 79% in January 1992, reviewed by Mike Gerrard[^ref-14]. Dragon magazine was notably harsh, awarding only 2 out of 5 stars in February 1992, reviewed by Hartley Lesser, Patricia Lesser, and Kirk Lesser[^ref-1]. German publication PC Games noted that "interest on the part of the gamer fell slightly" compared to previous entries[^ref-1]. Amiga Joker gave 64% in June-July 1992, reviewed by Joachim Nettelbeck[^ref-14].
+However, not all reviews were enthusiastic. Zero magazine gave a more modest 79% in January 1992, reviewed by Mike Gerrard[^ref-14]. Dragon magazine was notably harsh, awarding only 2 out of 5 stars in February 1992, reviewed by Hartley Lesser, Patricia Lesser, and Kirk Lesser[^ref-1]. Amiga Joker gave 64% in June-July 1992, reviewed by Joachim Nettelbeck[^ref-14].
 
 Later budget re-releases saw even more polarized reception. Amiga Action awarded 92% in December 1994[^ref-14], while CU Amiga Magazine gave 90% in February 1995[^ref-14]. However, Amiga Power gave only 51% in January 1995, reviewed by Paul Mellerick[^ref-14], and The One Amiga was particularly critical with just 32% in February 1995, reviewed by Harry Attrill[^ref-14].
 
@@ -104,24 +105,24 @@ Adventure Gamers similarly awarded 2 stars, stating that "The Kindred is simply 
 However, fan reception has remained warmer. User reviews on MobyGames include praise such as "This is my favorite PQ game, it combines my favorite part of PQ1 (the regular mundane cop stuff) with all of PQ2's detective stuff, adds great graphics, a great soundtrack, and a great story, and makes a nearly perfect game"[^ref-8]. Another user noted "PQ3 remains my favorite of the series. It combines the elements of both of the previous games"[^ref-8].
 
 **Aggregate Scores:**
-- **MobyGames Critics:** 75-76% (24 ratings)[^ref-8]
+- **MobyGames Critics:** 75% (24 ratings; as of Jan 2026)[^ref-8]
 - **MobyGames Players:** 3.7/5[^ref-8]
-- **IMDB:** 7.6/10 (82 votes)[^ref-16]
+- **IMDb:** 7.6/10 (82 votes; as of Jan 2026)[^ref-16]
 - **My Abandonware:** 4.2/5 (80 votes)[^ref-17]
 
 ## Development
 
 ### Origins
 
-Police Quest III: The Kindred emerged as the continuation of Sierra's successful police procedural adventure series, designed to showcase the company's new SCI1 engine and VGA graphics capabilities[^ref-7]. The game's events were based partially on actual experiences from Jim Walls' career as a California Highway Patrol officer, continuing the series' emphasis on authenticity[^ref-18]. As Walls noted in promotional materials: "I managed to survive them. Let's see if YOU can do as well under pressure"[^ref-19].
+Police Quest III was built on Sierra's SCI1 engine and is completely mouse-driven[^ref-1]. The game's events were based partially on actual experiences from Jim Walls' career as a California Highway Patrol officer, continuing the series' emphasis on authenticity[^ref-18]. As Walls noted in promotional materials: "I managed to survive them. Let's see if YOU can do as well under pressure"[^ref-19].
 
 Sierra sought to give the game a contemporary cop drama feel, hiring Jan Hammer specifically because of his iconic Miami Vice soundtrack work[^ref-5]. User reviews noted that "Sierra was trying for a Miami Vice type game" with this entry[^ref-20].
 
 ### Production
 
-The development of Police Quest III was significantly disrupted by Jim Walls' departure from Sierra during the late stages of production. The circumstances of his leaving "have still not been publicly explained" according to ClassicReload.com[^ref-3]. Adventure Gamers noted that "series creator Jim Walls left under controversial circumstances with game substantially unfinished"[^ref-13]. Unusually, Mark Crowe received credit as Director while Jim Walls received only fifth billing as Designer, suggesting a complicated production history[^ref-13].
+The development of Police Quest III was significantly disrupted by Jim Walls' departure from Sierra, though sources disagree on whether he left before or shortly after the game was finished[^ref-1][^ref-30]. Adventure Gamers noted that "series creator Jim Walls left under controversial circumstances with game substantially unfinished"[^ref-13]. Unusually, Mark Crowe received credit as Director while Jim Walls received only fifth billing as Designer, suggesting a complicated production history[^ref-13].
 
-Jane Jensen was brought in to finalize the writing, marking her first professional assignment at Sierra before she went on to write King's Quest VI and create the Gabriel Knight series[^ref-4][^ref-8]. The Space Quest Historian described the game as "rushed out the door before it was ready," characterizing it as a "botched production"[^ref-15].
+Jane Jensen was brought in to finalize the writing, marking her first professional assignment at Sierra before she went on to write King's Quest VI and create the Gabriel Knight series[^ref-4][^ref-8]. Adventure Game Hotspot, introducing the Space Quest Historian's retrospective, called it "a case of botched production and rushing the product out the door before it was ready"[^ref-15].
 
 **Development Credits:**[^ref-8]
 - **Designer:** James Walls
@@ -157,7 +158,7 @@ The game supported multiple sound cards including AdLib, Game Blaster, Roland MT
 
 ### Cut Content
 
-A CD-ROM version of Police Quest III with full speech was planned but "never came to fruition"[^ref-8]. This would have added voice acting to the entire game, similar to Sierra's later CD-ROM enhanced releases of other titles. The cancellation of this version meant Police Quest III remained a text-only experience, unlike the subsequent Police Quest: Open Season which featured full voice acting.
+A CD-ROM version of Police Quest III with full speech was planned but "never came to fruition"[^ref-8]. The cancellation meant Police Quest III shipped without voice acting.
 
 ### Version History
 
@@ -209,18 +210,18 @@ The game features variations in its ending based on player actions throughout th
 
 ### Sales and Commercial Impact
 
-Police Quest III contributed to the overall success of Sierra's Police Quest franchise. According to Sierra On-Line's SEC 10-K filing from March 1996, "the first four Police Quest games totaled 850,000 sales by late 1995"[^ref-1]. By the end of March 1996, "combined sales of the Police Quest series surpassed 1.2 million units"[^ref-25]. The filing described the series as one where "a cop fights cunning and dangerous criminals and solves intriguing cases while following correct police procedures"[^ref-25].
+Police Quest III contributed to the overall success of Sierra's Police Quest franchise. The first four Police Quest games totaled 850,000 sales by late 1995, per PC Games[^ref-1]. Sierra's 1996 10-K says the series had sold "more than 1.2 million copies" across its titles[^ref-25]. The filing described the series as one where "a cop fights cunning and dangerous criminals and solves intriguing cases while following correct police procedures"[^ref-25].
 
 The game received the Enchanted Realms Distinctive Adventure Award in January 1992 (issue #9)[^ref-8].
 
 ### Collections
 
 Police Quest III has been included in several compilation releases:
-- **Police Quest Collection** (1997)[^ref-5]
+- **Police Quest Collection**[^ref-5]
 - **Police Quest Collection Series**[^ref-5]
 - **SWAT Career Pack**[^ref-5]
 
-The game remains available digitally through GOG.com and Steam as part of the Police Quest Collection, running via DOSBox emulation[^ref-7].
+The game remains available on GOG and Steam in the Police Quest Collection[^ref-32][^ref-33].
 
 ### Fan Projects
 
@@ -228,7 +229,7 @@ A German language patch was created by fan "BumbleBee" specifically for the Stea
 
 ### Amiga Port & SCP Enhancement
 
-Sierra's Amiga port of Police Quest III, released in 1992 via U.S. Gold and re-released in 1994 via Kixx XL, suffered from the same graphical compromises that plagued all Sierra SCI engine Amiga conversions.[^ref-8][^ref-14]
+Sierra's Amiga port of Police Quest III, released in 1992 via U.S. Gold and re-released in 1994 via Kixx XL.[^ref-8][^ref-14]
 
 In January 2026, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion Project (SCP)]] released an enhanced version with all graphics improved and tested to completion—the first SCP project to achieve full completion.[^ref-31] Graphics were modified by kikems with assistance from DaRaSCo using Amiga-native tools including ImageFX, PPaint, and Adpro.[^ref-31] As team member Estrayk noted: "kikems used Amiga tools to prove that Sierra didn't do better in those years because they didn't want to, not because the tools didn't exist."[^ref-31]
 
@@ -242,14 +243,14 @@ In January 2026, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion Pr
 
 ### Critical Perspective
 
-Police Quest III occupies a complicated position in Sierra's adventure game history. On one hand, it represented significant technical advancement with its VGA graphics, digitized characters, and streamlined point-and-click interface[^ref-4]. Computer Gaming World's assessment that it was "the best of the series to date" reflected genuine appreciation for these improvements[^ref-6]. The game's contemporary review scores, ranging from 79% to 95% in major publications, indicated solid commercial and critical success upon release[^ref-14].
+Police Quest III occupies a complicated position in Sierra's adventure game history. On one hand, it represented significant technical advancement with its VGA graphics, digitized characters, and streamlined point-and-click interface[^ref-4]. Computer Gaming World's assessment that it was "the best of the series to date" reflected genuine appreciation for these improvements[^ref-6]. Contemporary scores ranged from 64% (Amiga Joker) to 95% (Datormagazin) for the original release[^ref-14].
 
 However, the troubled development left lasting scars. The departure of Jim Walls, whose real-world police experience had been central to the series' identity, and the rushed completion by Jane Jensen (talented though she was) resulted in a game that many retrospective critics view as fundamentally incomplete[^ref-15]. Adventure Classic Gaming's assessment—technically polished but creatively bankrupt—encapsulates the modern critical consensus[^ref-4]. The game marked the effective end of an era: Walls never returned to Sierra, and the subsequent Police Quest: Open Season under Daryl Gates' guidance represented a dramatic departure in tone and approach that proved even more controversial[^ref-30].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_1234)
+- [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection)
 - [Steam – Police Quest Collection](https://store.steampowered.com/app/494740/Police_Quest_Collection/)
 
 **Download / Preservation**
@@ -267,7 +268,7 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 
 ## References
 
-[^ref-1]: [Wikipedia – Police Quest III: The Kindred](https://en.wikipedia.org/wiki/Police_Quest_3%3A_The_Kindred) – development history, critical reception, sales data, Sega CD cancellation
+[^ref-1]: [Wikipedia – Police Quest III: The Kindred](https://en.wikipedia.org/wiki/Police_Quest_3%3A_The_Kindred) – development history, Walls' departure, Jane Jensen finalizing the writing, SCI1/mouse-driven, critical reception, sales data, Sega CD cancellation
 [^ref-2]: Internet Archive – RESOURCE.001 *(download link removed: the game is sold commercially)* – plot summary, character progression, platform information
 [^ref-3]: ClassicReload – Police Quest III *(download link removed: the game is sold commercially)* – interface changes, Jim Walls departure, Daryl Gates succession
 [^ref-4]: [Adventure Classic Gaming – Review](http://www.adventureclassicgaming.com/index.php/site/reviews/741) – Scott Bruner retrospective, technical specifications, Jane Jensen involvement, digitized characters
@@ -282,7 +283,7 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 [^ref-13]: [Adventure Gamers – Review](http://web.archive.org/web/20211119232837/https://adventuregamers.com/articles/view/18524) – retrospective analysis, development troubles, interface critique
 [^ref-14]: [Amiga Magazine Rack Reviews](http://amr.abime.net/review_39769) – compilation of contemporary magazine scores across platforms
 [^ref-15]: [Adventure Game Hotspot – Space Quest Historian Retrospective](https://adventuregamehotspot.com/feature/3765/police-quest-3-the-kindred-a-fair-balanced-retrospective) – harsh modern critique, rushed development assessment
-[^ref-16]: [IMDB](https://www.imdb.com/find/?q=Police+Quest+3%3A+The+Kindred&s=tt) – user ratings
+[^ref-16]: [IMDb – Police Quest III: The Kindred](https://www.imdb.com/title/tt0289398/) – user rating (7.6/10, 82 votes in a January 2026 capture)
 [^ref-17]: My Abandonware *(download link removed: the game is sold commercially)* – user reviews, sound driver issues, aggregate rating
 [^ref-18]: [Steam Community – Walkthrough Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=832973270) – Jim Walls background, Sonny Bonds final appearance
 [^ref-19]: [TV Tropes – Police Quest 3](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PoliceQuest3TheKindred) – easter eggs, memorable quotes, bugs, trivia
@@ -296,5 +297,7 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 [^ref-27]: [Internet Archive – Hint Book](https://archive.org/stream/Police_Quest_3_Hint_Book/Police_Quest_3_Hint_Book_djvu.txt) – official hint book
 [^ref-28]: [Internet Archive – Collection Manual](https://archive.org/stream/Police_Quest_Collection_-_Manual/Police_Quest_Collection_-_Manual_djvu.txt) – compilation manual
 [^ref-29]: [Internet Archive – Manual PDF](https://archive.org/details/Police_Quest_3_-_Manual) – original manual metadata
-[^ref-30]: [The Digital Antiquarian](https://www.filfre.net/?s=Police+Quest+3%3A+The+Kindred) – Daryl Gates controversy, Ken Williams response
+[^ref-30]: [The Digital Antiquarian – Chief Gates Comes to Oakhurst](https://www.filfre.net/2019/07/chief-gates-comes-to-oakhurst-a-cop-drama/) – Walls leaving "shortly after completing" PQ3 for Tsunami Media, Daryl Gates controversy
 [^ref-31]: [IndieRetroNews – Police Quest III Amiga Enhancement](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html) – SCP first complete project, kikems/DaRaSCo, Amiga-native tools proof
+[^ref-32]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – digital availability
+[^ref-33]: [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) – digital availability (released Aug 29, 2016)
