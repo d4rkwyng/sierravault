@@ -2,10 +2,10 @@
 title: 'King''s Quest II: Romancing the Stones'
 release_year: 2002
 developer: AGD Interactive
-designer: [Britney Brimhall, Chris Warren]
+designer: [Britney Brimhall, Chris Warren, Daniel Stacey]
 publisher: AGD Interactive
 genre: Adventure
-platforms: [Windows]
+platforms: [Windows, Macintosh]
 series: King's Quest
 engine: Adventure Game Studio
 protagonist: King Graham
@@ -15,6 +15,7 @@ description: 'King''s Quest II: Romancing the Stones is a fan-made remake of Sie
  1985 classic *King''s Quest II: Romancing the Throne*, developed and released by
  AGD...'
 tags: [2000s, adventure, king-s-quest, sierra]
+composer: [Tom Lewandowski, Dianne Lewandowski]
 ---
 # King's Quest II: Romancing the Stones
 
@@ -22,181 +23,144 @@ tags: [2000s, adventure, king-s-quest, sierra]
 
 ## Overview
 
-King's Quest II: Romancing the Stones is a fan-made remake of Sierra's 1985 classic *King's Quest II: Romancing the Throne*, developed and released by AGD Interactive (formerly known as Tierra Entertainment) in 2002[^ref-1][^ref-18][^ref-19][^ref-20][^ref-21][^ref-22]. Unlike typical remakes that simply update graphics while preserving the original design, this ambitious project represents a complete reimagining of the source material, featuring an extensively rewritten storyline, new characters, additional puzzles, and a modernized point-and-click interface[^ref-2]. The game was made available as a free download, continuing the tradition of fan-driven preservation and enhancement of Sierra's classic adventure game library[^ref-3].
+King's Quest II: Romancing the Stones is a fan-made remake of Sierra's 1985 classic *King's Quest II: Romancing the Throne*, developed and released free of charge by AGD Interactive (then known as Tierra Entertainment) on December 3, 2002[^ref-1][^ref-23][^ref-19]. Unlike the group's earlier King's Quest I remake, which was a content-wise identical presentation upgrade, Romancing the Stones redesigns the original game with a rewritten plot, additional puzzles, new characters and locations including a town, and a point-and-click interface[^ref-26]. Hardcore Gaming 101 describes it as "practically an entirely new game that takes the original and runs in a whole different direction"[^ref-11].
 
-In this updated version of the Sierra classic, King Graham sets off for the tropical land of Kolyma to rescue a beautiful maiden imprisoned in a tower[^ref-2]. The remake dramatically expands upon the original game's relatively thin narrative, transforming what was once a straightforward treasure hunt into a more complex adventure with deeper lore connections to the broader King's Quest universe[^ref-4]. AGD Interactive's approach to the remake earned praise from adventure game enthusiasts who appreciated both the nostalgic elements and the significant improvements to storytelling and puzzle design.
+The original premise is kept: newly crowned King Graham travels to the land of Kolyma to rescue the maiden Valanice from a quartz tower and make her his queen[^ref-5]. Around that skeleton the remake builds a much larger story, with new characters, rival factions and ties to the wider King's Quest series[^ref-26][^ref-25].
 
-The project represents one of the most notable achievements in Sierra fan game development, demonstrating how dedicated communities could breathe new life into beloved classics while respecting their legacy[^ref-1]. The game was developed using Adventure Game Studio, allowing the team to create a polished, professional-quality experience despite being a non-commercial release[^ref-3].
+The game was built with Adventure Game Studio[^ref-1][^ref-23]. It swept the 2002 AGS Awards, winning Best Game, Best Story, Best Animation, Best Music, Best Scripting and Best AGS Documentation[^ref-27], and was later updated into a 2009 Enhanced Edition (version 3.0) with redrawn backgrounds and full narration[^ref-23][^ref-24].
 
 > [!info]- Game Info
 > **Developer:** [[AGD Interactive]][^ref-1]
-> **Designer:** Britney Brimhall, Chris Warren, Eriq Chang[^ref-3]
+> **Designer:** Britney Brimhall, Christopher Warren (plot: Daniel Stacey)[^ref-24]
 > **Publisher:** AGD Interactive[^ref-1]
-> **Engine:** Adventure Game Studio[^ref-4]
-> **Platforms:** Windows[^ref-3]
+> **Engine:** Adventure Game Studio[^ref-23]
+> **Platforms:** Windows; Mac (from v3.1, 2010)[^ref-3][^ref-23]
 > **Release Year:** 2002[^ref-1]
 > **Series:** King's Quest
 > **Protagonist:** King Graham
-> **Sierra Lineage:** Fan Remake
+> **Sierra Lineage:** Fan Project
+> **Composer:** Tom and Dianne Lewandowski[^ref-24]
 
 ## Story Summary
 
-The story begins with newly crowned King Graham feeling lonely of heart following his heroic adventures in the original King's Quest[^ref-5]. Despite having achieved glory and secured his kingdom, the young monarch yearns for companionship and seeks a suitable bride to share his throne. His quest leads him to journey to the distant realm of Kolyma, a tropical land filled with danger and mystery[^ref-2].
+The story begins with newly crowned King Graham, lonely of heart following his heroic adventures in the original King's Quest[^ref-5]. In the remake, Daventry's new prime minister, Gervain, suggests that Graham look outside Daventry for a bride, and Graham travels to Kolyma after seeing an image of a maiden trapped in a tower in his magic mirror[^ref-26]. Where the original had Graham simply appear on Kolyma's shores, the remake has him arrive by boat after a new introduction[^ref-11].
 
-Upon arriving in Kolyma, Graham discovers that a beautiful maiden named Valanice is held captive in an enchanted tower, imprisoned by the schemes of an evil witch[^ref-4]. The remake significantly expands this premise, weaving in additional plot elements and characters that connect to the broader King's Quest mythology. Graham must navigate the treacherous landscape, confronting various fairy tale creatures and overcoming magical obstacles to reach his beloved[^ref-5].
+Kolyma itself is reworked into a forested nation once ruled by the Counts of Kolyma, most of which has fallen into ruin, with a town added to the north[^ref-26][^ref-11]. The remake introduces the Black Cloak Society, a group of evil mages led by a mysterious figure called The Father, and Graham must contend with them, the witch Hagatha, and a werewolf brotherhood while working to free Valanice[^ref-26]. Characters from the 1985 game are reimagined: Count Dracula becomes Caldaur, a vampire lord who is redeemed with Graham's help, and Little Red Riding Hood becomes Possum, Caldaur's granddaughter[^ref-26][^ref-11].
 
-The enhanced storyline introduces new antagonists and supporting characters that were absent from the original 1985 release, providing greater narrative depth and motivation for the player's actions throughout the game[^ref-4]. The Father Neptune subplot and various fairy tale encounters are reimagined to create a more cohesive adventure that feels worthy of the King's Quest name.
-
-Graham's ultimate goal remains rescuing Valanice and making her his queen, but the journey to accomplish this is considerably more elaborate than in the original game, with the remake adding layers of story that enhance emotional investment in the outcome[^ref-2].
+The game also contains references to Graham's past and future, including an appearance by Connor, the protagonist of *King's Quest: Mask of Eternity*[^ref-26][^ref-11]. AGD Interactive says that while the fairy-tale elements of the original were retained, "some real connections have been drawn between the characters. They relate to each other and have personal histories"[^ref-25].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Romancing the Stones abandons the text parser interface of the original 1985 game in favor of a modern point-and-click system[^ref-4]. This interface style, reminiscent of later Sierra SCI games, allows players to interact with the game world through intuitive mouse controls. The cursor changes to indicate different actions such as walking, looking, talking, and using inventory items, making the game more accessible to contemporary players unfamiliar with typing commands[^ref-1].
+Romancing the Stones abandons the text parser of the original 1985 game in favor of the familiar Sierra point-and-click interface[^ref-5]. Wikipedia describes the interface as functionally identical to an advanced SCI game engine, with VGA graphics and digital sound, including full speech for all characters[^ref-26].
 
 ### Structure and Progression
 
-The game follows a non-linear exploration structure typical of classic adventure games, with players free to explore the various regions of Kolyma while gathering items and solving puzzles[^ref-4]. The remake retains the general geographic layout of the original while adding new areas and significantly expanding existing locations.
-
-Key areas in the game include:
-
-- **The Beach:** Graham's arrival point in Kolyma, featuring encounters with various characters
-- **The Forest:** A sprawling woodland area containing numerous puzzles and dangers
-- **The Mountains:** Treacherous terrain leading to key story locations
-- **The Tower:** Valanice's prison and the ultimate destination of Graham's quest
-- **Various Fairy Tale Locations:** Expanded areas featuring characters from folklore and legend
+AGD Interactive considerably altered the map: "Kolyma now feels like a land with a geography that makes sense," with entirely new areas to explore[^ref-25]. Hardcore Gaming 101 notes that the land is technically a bit smaller and no longer wraps around, but the swamp is now its own maze and a small town has been added to the north[^ref-11].
 
 ### Puzzles and Mechanics
 
-The puzzle design in Romancing the Stones represents a significant improvement over the original game[^ref-4]. While the 1985 version featured relatively straightforward item collection and usage, the remake introduces more complex challenges that require careful observation and logical thinking. Inventory-based puzzles form the core of the gameplay, with players collecting items throughout Kolyma and determining their proper applications[^ref-1].
+Instead of three keys, Graham must now find three stones, hence the change in subtitle[^ref-11]. The original's magical door becomes a talking rock formation in the side of a mountain, the underwater section with King Neptune is expanded to include a seahorse-riding arcade sequence, and new puzzles are added, such as reuniting a talking baby pumpkin with its family[^ref-11]. Some elements of the original, such as the fairy, were removed[^ref-11]. The rickety bridge that in the original could collapse after too many crossings and leave the game unwinnable no longer collapses in the remake[^ref-11].
 
-The game eliminates many of the arbitrary deaths and dead-end situations that plagued the original release, creating a more player-friendly experience while maintaining appropriate challenge levels[^ref-4]. New puzzles unique to the remake help integrate the expanded storyline elements.
+AGD Interactive's FAQ says players who know the original should not expect an easy time: "there will be many extra things to experience; puzzle extensions, plot twists, fleshed out characters, local history"[^ref-25].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Upon its release in 2002, King's Quest II: Romancing the Stones was received enthusiastically by the adventure gaming community[^ref-1]. As a free fan project, it was not subject to traditional commercial review coverage, but gaming websites and fan communities praised the ambitious scope of the remake and the quality of its execution[^ref-4].
-
-Adventure game enthusiasts particularly appreciated the significant improvements to the narrative and puzzle design compared to the original 1985 release[^ref-2]. The game was recognized as one of the premier examples of how fan developers could honor classic franchises while addressing their limitations.
+As a free fan project, Romancing the Stones received limited commercial review coverage. Within the Adventure Game Studio community, it won six categories at the 2002 AGS Awards: Best Game Created with AGS, Best Story, Best Animation, Best Music, Best Scripting and Best AGS Documentation[^ref-27]. Wikipedia's article on AGD Interactive reports that Sierra fans greeted the KQ1 and KQ2 remakes with enthusiasm[^ref-1].
 
 ### Modern Assessment
 
-The game continues to be regarded as one of the finest fan-made adventure games ever produced[^ref-1]. Modern retrospectives highlight the remarkable achievement of the AGD Interactive team in creating a polished, professional-quality experience without commercial backing[^ref-4].
+*GamesRadar* listed the game as one of the top thirty free downloadable games[^ref-26]. Hardcore Gaming 101 concluded that "there's no doubt that the remake is a more engrossing, and ultimately much more enjoyable product," while noting that "some fans have expressed annoyance with the way the writers played with the King's Quest canon"[^ref-11]. Reviewing AGD Interactive's later *King's Quest III Redux* in 2011, the Waterloo-Cedar Falls *Courier* summarized the KQ2 remake as "adding several new puzzles and an actual plot," but criticized Redux's plot, a continuation of the KQ2 remake's, for trying to cram previously unconnected events into "a neat little box with a ribbon and a bow"[^ref-28].
 
-Adventure Gamers lists the game in their database of notable adventure titles, recognizing its place in the genre's history as an important example of fan-driven game preservation and enhancement[^ref-2]. The King's Quest Omnipedia maintains detailed documentation of the remake, acknowledging its significance to the franchise's legacy[^ref-4].
-
-**Aggregate Scores:**
-- **MobyGames:** Listed in database; community recognition as premier fan-made adventure ~4.5/5 tier[^ref-6]
-- **Adventure Gamers:** Featured in game database; "one of the finest fan-made adventure games ever produced" — ~9/10 community sentiment[^ref-2]
-- **King's Quest Omnipedia:** Documented as canonical-tier fan project — 100% community-acceptance for AGD Interactive's KQ2 reinterpretation[^ref-4]
-- **No formal critic-side numeric score** (the game was distributed free as a fan project and not commercially reviewed)[^ref-1]
+By September 2010, AGD Interactive reported the remake had been downloaded over 510,400 times[^ref-23]. MobyGames and LaunchBox both catalogue the game, with MobyGames listing Windows, Linux and Macintosh releases[^ref-6][^ref-20].
 
 ## Development
 
 ### Origins
 
-The development of Romancing the Stones began under the banner of Tierra Entertainment, which would later rebrand as AGD Interactive[^ref-1]. The team's motivation stemmed from a desire to modernize a beloved classic that many felt had not aged well compared to later entries in the King's Quest series[^ref-3]. While the original King's Quest II was notable for its time, its thin story and simple puzzle design made it a prime candidate for reimagining.
+AGD Interactive was founded in 2001 by Britney Brimhall and Christopher Warren as Tierra Entertainment; its first release was a remake of King's Quest I in August 2001[^ref-1]. According to AGD Interactive, many people regarded King's Quest II as the King's Quest game most in need of an update, since players felt the puzzles did not vary widely from the first game and the storyline was sparse[^ref-5]. Sierra had made no plans to give it an official upgrade after the commercial failure of its own SCI remake of King's Quest I[^ref-5].
 
-The developers chose not merely to update the graphics and interface but to fundamentally rethink the game's narrative structure[^ref-4]. This ambitious approach required creating substantial new content while maintaining the spirit of the original adventure. The project built upon the team's experience with their earlier King's Quest I remake, applying lessons learned to create an even more ambitious project[^ref-1].
+The team retitled the game *Romancing the Stones*: "Aside from bringing it closer to the film from which the original title was derived, the new title more accurately reflects the revamped plot"[^ref-25]. Wikipedia notes the project was meant as a "retelling" of the game, a form of fan fiction[^ref-26]. On December 10, 2003, a year after release, the group stopped using the Tierra name and became AGD Interactive[^ref-1].
 
 ### Production
 
-Development was conducted by a dedicated volunteer team working in their spare time[^ref-3]. The collaborative nature of the project brought together artists, programmers, writers, and musicians from across the adventure gaming fan community. AGD Interactive utilized Adventure Game Studio as their development platform, which provided the tools necessary to create a polished point-and-click adventure without requiring custom engine development[^ref-1].
+**Development Team**[^ref-24]
+- **Britney Brimhall** ("Anonymous Game Developer #1") – dialogue pictures and backgrounds
+- **Christopher Warren** ("Anonymous Game Developer #2") – backgrounds, animations, voice casting and scripting
+- **Daniel Stacey** – plot writer
+- **Tom and Dianne Lewandowski** – original score
+- **Brandon Klassen** ("Relight") – opening 3D cutscene
+- **John Paul Selwood, Emily Selwood and Johan Botes** – background overhaul for version 3.0
 
-**Development Credits:**[^ref-3]
-- **Britney Brimhall** – Team Lead/Designer
-- **Chris Warren** – Designer
-- **Eriq Chang** – Background Art/Production Art
-- **Stijn Van Empel** – Team Member
-- **Brandon Klassen** – Team Member
-- **Johan Botes** – Team Member
-- **John Paul Selwood** – Team Member
-- **Emily Selwood** – Team Member
-- **Sean Nichols** – Team Member
-- **Tom & Dianne Lewandowski** – Contributors
+### Voice Cast
+
+| Role | Actor |
+|------|-------|
+| King Graham | Josh Mandel[^ref-24] |
+| Count Caldaur | Richard Aronson[^ref-24] |
+| Narrator (v3.0) | John Bell[^ref-24] |
+
+Josh Mandel also voiced Graham in Sierra's official CD-ROM full-speech versions of *King's Quest V* and *VI*[^ref-26].
 
 ### Technical Achievements
 
-The remake features hand-painted VGA-style backgrounds that significantly enhance the visual presentation compared to the original's 16-color AGI graphics[^ref-3]. The art style pays homage to Sierra's later SCI-era games while maintaining a distinct aesthetic identity. Character animations were created specifically for the project, bringing Graham and the inhabitants of Kolyma to life with fluid movement[^ref-1].
-
-The game includes a fully orchestrated musical score that enhances the atmosphere of each location[^ref-4]. Sound design elements help create an immersive experience that was impossible with the original's limited PC speaker audio capabilities.
+The remake replaced the original's 16-color AGI graphics with 256-color graphics with a point-and-click interface, MIDI music and full voice acting, roughly in the style of King's Quest V[^ref-11][^ref-5]. AGD Interactive describes the Lewandowskis' contribution as "an absolutely breathtaking original score"[^ref-24]. AGD Interactive's published statistics for the game list 5,500 sprites, 77 inventory items and 56 characters[^ref-23]. The Adventure Game Studio database entry credits the current version with a fully narrated audio track of over 3,800 lines and lip-synced character speech portraits[^ref-29].
 
 ### Technical Specifications
 
-**Windows Version:**[^ref-3]
-- **Resolution:** 320x200 (scaled)
-- **Colors:** 256 colors
-- **Audio:** Windows-compatible sound systems
-- **Engine:** Adventure Game Studio
+- **Resolution:** 320x200[^ref-29]
+- **Engine:** Adventure Game Studio[^ref-23]
+- **Windows (v3.1):** Windows ME/2000/XP/Vista/7, 233 MHz Pentium or higher, 16 MB RAM, DirectX 5 or above, about 410 MB disk space[^ref-3]
+- **Mac (v3.1):** Mac OS X 10.4.11–10.6, Intel Core CPU, 512 MB RAM, Apple's X11 required, about 590 MB disk space[^ref-3]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 2002 | Windows | Initial release[^ref-1] |
-| 2.0 | 2003 | Windows | Retitled edition with enhancements[^ref-1] |
-| 3.0 | 2009 | Windows | Major update with improvements |
-| 3.1 | Sept 2010 | Windows | Music/speech packs integrated, numerous enhancements |
-| 3.1b | Nov 2010 | Windows | Minor patch for small issues |
+| 1.0 | December 3, 2002 | Windows | Initial release[^ref-23] |
+| 1.1 | December 17, 2002 | Windows | Fixed small bugs reported in the first release[^ref-23] |
+| 2.0 | April 2, 2003 | Windows | Released alongside the first voice pack[^ref-23] |
+| 3.0 | March 14, 2009 | Windows | Enhanced Edition: music and speech packs included, redrawn backgrounds, narration[^ref-23][^ref-24] |
+| 3.1 | September 1, 2010 | Windows, Mac | First Mac release; minor bug fixes[^ref-23] |
 
-The game received multiple updates following its initial release, with AGD Interactive continuing to polish and improve the experience based on player feedback[^ref-3]. Version 3.1 included the music and speech packs as part of the game download, though saved games from older versions are not compatible. AGD Interactive announced re-release of enhanced editions in their October 2024 newsletter.
+Wikipedia lists later builds 3.1b and 3.1c without dates[^ref-26]. Saved games from earlier versions are not compatible with version 3.1, and the release no longer supports translation packs[^ref-3].
 
 ### Easter Eggs and Trivia
 
-- The game's subtitle "Romancing the Stones" is a play on the original game's subtitle "Romancing the Throne," itself a reference to the film "Romancing the Stone"[^ref-4]
-- Various references to other King's Quest games are woven throughout the expanded storyline[^ref-1]
-- The developers included homages to Sierra's adventure gaming legacy throughout the game world[^ref-3]
+- The subtitle "Romancing the Stones" refers to the three stones that replace the original's three keys, and to the film *Romancing the Stone*, from which the original subtitle was derived[^ref-11][^ref-25]
+- Cedric from *King's Quest V* appears as an Easter egg if the player makes the right choices in the Cloud Spirit's trial, voiced by Richard Aronson[^ref-26]
+- An April Fools' Day "voice pack" announcement on AGD Interactive's forums preceded the real voice pack's release the next day, April 2, 2003[^ref-23]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-As a free fan project, Romancing the Stones did not generate direct commercial revenue[^ref-1]. However, its success demonstrated the viability of fan-developed adventure games and helped establish AGD Interactive as a respected name in the fan game community[^ref-3]. The project's positive reception encouraged the team to continue developing remakes of other Sierra classics.
+As a freeware project, Romancing the Stones generated no direct revenue; AGD Interactive reported more than 510,400 downloads by September 2010[^ref-23]. Brimhall and Warren later co-founded Himalaya Studios, a commercial company for original adventure games[^ref-1].
 
 ### Collections
 
-The game remains available as a free download from AGD Interactive's official website, ensuring continued accessibility for new players discovering the classic King's Quest series[^ref-3]. It is also preserved on various abandonware and archive sites[^ref-7].
+The game remains available as a free download from AGD Interactive's official website[^ref-3][^ref-18].
 
 ### Fan Projects
 
-Romancing the Stones itself represents one of the most significant fan projects in adventure gaming history[^ref-1]. The success of this remake, along with AGD Interactive's King's Quest I and King's Quest III remakes, inspired other fan developers to pursue similar projects for beloved Sierra titles[^ref-4]. The team later went on to develop Quest for Glory II: Trial by Fire, further cementing their reputation[^ref-1].
-
-### Related Publications
-
-- **Original King's Quest II Manual:** Documentation for the 1985 original provides context for the remake's setting[^ref-4]
-- **AGD Interactive Documentation:** The team provided gameplay guidance on their website[^ref-3]
-
-### Critical Perspective
-
-King's Quest II: Romancing the Stones stands as a landmark achievement in fan game development, demonstrating that dedicated amateur teams could produce work rivaling commercial releases in quality and scope[^ref-1]. The project addressed legitimate criticisms of the original 1985 game—particularly its thin narrative and reliance on fairy tale tropes without deeper development—by creating a substantially expanded experience that better served the King's Quest legacy[^ref-4].
-
-The remake's significance extends beyond its individual merits to represent a broader movement of fan preservation and enhancement of classic adventure games during a period when the commercial genre had largely gone dormant[^ref-2]. AGD Interactive's work helped keep interest in Sierra's adventure games alive during the early 2000s, contributing to the eventual nostalgia-driven revival of the genre. The project remains freely available today, serving as both an accessible entry point for newcomers to the King's Quest series and a nostalgic reimagining for longtime fans[^ref-3]. The game is extensively documented in gaming databases and fan communities.[^ref-10][^ref-11][^ref-12][^ref-13][^ref-14][^ref-16][^ref-17]
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+AGD Interactive's *King's Quest III Redux* (2011) continues the non-canon plot and lore established in Romancing the Stones[^ref-1][^ref-28]. The team also remade *Quest for Glory II: Trial by Fire*, released in August 2008[^ref-1].
 
 ## Downloads
 
 **Download / Freeware**
-- [AGD Interactive](http://www.agdinteractive.com/games/kq2/about/about.html) – Free download from the developers
+- [AGD Interactive Official Download](https://www.agdinteractive.com/games/kq2/download/download.html) – free download from the developers (Windows and Mac)[^ref-3]
 - Not on GOG or Steam (freeware fan game)
-
-**Download / Preservation**
-- [AGD Interactive Official Download](https://www.agdinteractive.com/games/kq2/download/download.html)[^ref-3]
-- [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=King%27s+Quest+II%2B+Romancing+the+Stones)[^ref-7]
-- [Internet Archive](https://archive.org/search?query=King%27s+Quest+II%2B+Romancing+the+Stones+sierra)[^ref-8]
 
 **SierraVault Mirror:**
 - [Windows (v3.1c)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest2VGA/Kq2vga31c.exe) – 309 MB
 - [Mac (v3.1c)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest2VGA/Kq2vga31c.dmg) – 782 MB
 
 **Manuals & Extras**
-- [AGD Interactive Game Information](https://www.agdinteractive.com/games/kq2/about/about.html)[^ref-5]
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+- [AGD Interactive – About the Game](https://www.agdinteractive.com/games/kq2/about/about.html)[^ref-5]
+- [AGD Interactive – FAQ](https://www.agdinteractive.com/games/kq2/faq/faq.html)[^ref-25]
 
 ## See Also
 
@@ -215,23 +179,18 @@ The remake's significance extends beyond its individual merits to represent a br
 
 ## References
 
-[^ref-1]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) – developer history, project information, team background
-[^ref-2]: Adventure Gamers – King's Quest II: Romancing the Stones *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – game description, setting, database listing
-[^ref-3]: [AGD Interactive – King's Quest II Download Page](https://www.agdinteractive.com/games/kq2/download/download.html) – download availability, team credits, technical information
-[^ref-4]: [King's Quest Omnipedia – King's Quest II: Romancing the Stones](https://kingsquest.fandom.com/wiki/King%27s_Quest_II:_Romancing_the_Stones) – detailed game information, story details, gameplay elements
-[^ref-5]: [AGD Interactive – About King's Quest II](https://www.agdinteractive.com/games/kq2/about/about.html) – game history, story premise, development background
-[^ref-6]: MobyGames – King's Quest II: Romancing the Stones *(link removed: it led to a different game's page)* – database listing, game information
-[^ref-7]: [Abandonware DOS – King's Quest II+ Romancing the Stones](https://www.abandonwaredos.com/abandonware-game.php?abandonware=King%27s+Quest+II%2B+Romancing+the+Stones) – preservation, download availability
-[^ref-8]: [Internet Archive – King's Quest II Search Results](https://archive.org/search?query=King%27s+Quest+II%2B+Romancing+the+Stones+sierra) – archival preservation, historical documentation: [Giant Bomb - King's Quest II: Romancing the Stones](https://www.giantbomb.com/kings-quest-ii-romancing-the-stones/3030-24287/) - game wiki entry
-[^ref-10]: [IGDB - King's Quest II: Romancing the Stones](https://www.igdb.com/games/kings-quest-ii-romancing-the-stones) - Internet Games Database entry
-[^ref-11]: [Hardcore Gaming 101 - King's Quest II: Romancing the Throne / Stones](https://www.hardcoregaming101.net/kings-quest-ii-romancing-the-throne/) - retrospective covering AGD Interactive's 2002 remake, story changes, and reception
-[^ref-12]: [Sierra Wiki - King's Quest II VGA](https://wiki.sierrahelp.com/index.php/King%27s_Quest_II_VGA) - Sierra community documentation
-[^ref-13]: [GameFAQs - King's Quest II VGA](https://gamefaqs.gamespot.com/pc/562815-kings-quest-ii-romancing-the-stones) - game database entry
-[^ref-14]: [Metzomagic - King's Quest II: Romancing the Stones Review](https://www.metzomagic.com/showArticle.php?index=463) - contemporary fan-press review awarding 4/5 stars
-[^ref-16]: [ScummVM - AGD Interactive Games](https://www.scummvm.org/) - compatibility information
-[^ref-17]: [UVList - About King's Quest II: Romancing the Stones](https://www.uvlist.net/forum/thread/9019) - UVList community thread describing the AGD remake
-[^ref-18]: [AGD Interactive official site](https://www.agdinteractive.com/) — primary developer/distribution channel for the fan remake
-[^ref-19]: [DOS Games Archive - Tierra Entertainment / AGD Interactive profile](https://www.dosgamesarchive.com/profile/tierra-entertainment---agd-interactive) — developer profile documenting Tierra Entertainment's rebrand to AGD Interactive and their KQ1/KQ2 fan remakes
-[^ref-20]: [LaunchBox Games Database – King's Quest II VGA](https://gamesdb.launchbox-app.com/games/details/kings-quest-ii-romancing-the-stones) — community-curated metadata, cover-art reference, Windows platform
-[^ref-21]: [Adventure Classic Gaming – AGD Interactive retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for the AGD Interactive fan-remake studio
-[^ref-22]: [Quest for Glory IV fan-remake archive notes](https://www.questforglory.com/) — related Sierra fan-remake community context
+[^ref-1]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) – founding as Tierra Entertainment (2001), December 3, 2002 release, 2003 rename, Himalaya Studios, KQ3 Redux and QfG2 remakes
+[^ref-3]: [AGD Interactive – King's Quest II Download Page](https://www.agdinteractive.com/games/kq2/download/download.html) – v3.1 download, save compatibility, Windows and Mac system requirements
+[^ref-5]: [AGD Interactive – About King's Quest II](https://www.agdinteractive.com/games/kq2/about/about.html) – game history, story premise, reasons for the remake
+[^ref-6]: [MobyGames – King's Quest II: Romancing the Stones](https://www.mobygames.com/game/8028/kings-quest-ii-romancing-the-stones/) – database entry; Windows, Linux and Macintosh releases
+[^ref-11]: [Hardcore Gaming 101 – King's Quest II: Romancing the Throne](https://www.hardcoregaming101.net/kings-quest-ii-romancing-the-throne/) – retrospective covering AGD Interactive's 2002 remake, story and puzzle changes
+[^ref-18]: [AGD Interactive official site](https://www.agdinteractive.com/) — developer and distribution site for the free remakes
+[^ref-19]: [DOS Games Archive – Tierra Entertainment / AGD Interactive profile](https://www.dosgamesarchive.com/profile/tierra-entertainment---agd-interactive) — developer profile listing the KQ1 VGA (2001) and KQ2 (2002) freeware remakes
+[^ref-20]: [LaunchBox Games Database – King's Quest II: Romancing the Stones (2002)](https://gamesdb.launchbox-app.com/games/details/24731) — database entry, Windows, homebrew
+[^ref-23]: [AGD Interactive – King's Quest II Release Information](https://www.agdinteractive.com/games/kq2/about/aboutrelease.html) – version dates, AGS statistics, download count
+[^ref-24]: [AGD Interactive – King's Quest II Development Team](https://www.agdinteractive.com/games/kq2/about/aboutdev.html) – team credits, composers, voice actors
+[^ref-25]: [AGD Interactive – King's Quest II FAQ](https://www.agdinteractive.com/games/kq2/faq/faq.html) – title change, map and plot changes
+[^ref-26]: [Wikipedia – King's Quest II: Romancing the Stones](https://en.wikipedia.org/wiki/King%27s_Quest_II:_Romancing_the_Stones) – plot, characters, development, version history, GamesRadar listing
+[^ref-27]: [Adventure Game Studio Wiki – AGS Awards 2002](https://www.adventuregamestudio.co.uk/wiki/AGS_Awards_2002) – award results for games released in 2002
+[^ref-28]: [Waterloo-Cedar Falls Courier – 'King's Quest' fan games recall – and rewrite – the good old days](https://wcfcourier.com/entertainment/games/article_05062ecb-5bcf-5fab-8fb9-c77dddfde71c.html) – Alan Simmer, March 3, 2011
+[^ref-29]: [Adventure Game Studio – King's Quest II+ VGA](https://www.adventuregamestudio.co.uk/site/games/game/144/) – AGS games database entry: release date, 320x200 graphics, narration
