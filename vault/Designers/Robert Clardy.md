@@ -123,10 +123,10 @@ In 2017, Clardy published his autobiography, "Cyber Jack: The Adventures of Robe
 
 | Year | Title | Publisher | Role |
 |------|-------|-----------|------|
-| 1988 | J.R.R. Tolkien's War in Middle Earth | Melbourne House | Director |
-| 1990 | Spirit of Excalibur | Virgin Games | Director |
-| 1991 | Vengeance of Excalibur | Virgin Games | Director |
-| 1991 | Conan: The Cimmerian | Virgin Games | Director |
+| 1988 | [[1989 - J.R.R. Tolkien's War in Middle Earth\|J.R.R. Tolkien's War in Middle Earth]] | Melbourne House | Director |
+| 1990 | [[1990 - Spirit of Excalibur\|Spirit of Excalibur]] | Virgin Games | Director |
+| 1991 | [[1991 - Vengeance of Excalibur\|Vengeance of Excalibur]] | Virgin Games | Director |
+| 1991 | [[1991 - Conan - The Cimmerian\|Conan: The Cimmerian]] | Virgin Games | Director |
 | 1993 | Warriors of Legend | Synergistic Software | Director, Original Design |
 
 ### Other Synergistic Software Games (1981–1997)

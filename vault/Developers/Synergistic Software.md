@@ -64,6 +64,13 @@ Following Synergistic Software's closure, many of their team members went on to 
 
 ## Games
 
+### In This Archive (Pre-Acquisition, published by others)
+
+- **1989** — [[1989 - J.R.R. Tolkien's War in Middle Earth|J.R.R. Tolkien's War in Middle Earth]] — Strategy (Melbourne House)
+- **1990** — [[1990 - Spirit of Excalibur|Spirit of Excalibur]] — Strategy/RPG (Virgin)
+- **1991** — [[1991 - Vengeance of Excalibur|Vengeance of Excalibur]] — Strategy/RPG (Virgin)
+- **1991** — [[1991 - Conan - The Cimmerian|Conan: The Cimmerian]] — Action/Adventure (Virgin)
+
 ### In This Archive (Sierra-Published)
 
 - 1993 — The Beverly Hillbillies — Adventure
@@ -73,9 +80,6 @@ Following Synergistic Software's closure, many of their team members went on to 
 - **1997** — [[1997 - Diablo - Hellfire|Diablo: Hellfire]] — Genre: Action RPG
 
 ### Other Notable Games (not in archive)
-- Spirit of Excalibur — 1990 (Virgin Games)
-- Conan: The Cimmerian — 1991 (Virgin Games)
-- Vengeance of Excalibur — 1991 (Virgin Games)
 - Laser Surgeon: The Microscopic Mission — 1987 (Activision)
 
 ## References

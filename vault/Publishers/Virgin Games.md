@@ -19,7 +19,7 @@ Virgin Games (later Virgin Interactive Entertainment) was a video game publishin
 
 Virgin Games published titles developed by studios that later worked with Sierra:
 
-**Synergistic Software:** Virgin published *Spirit of Excalibur* (1990), *Vengeance of Excalibur* (1991), and *Conan: The Cimmerian* (1991) before Synergistic was acquired by Sierra in 1996.[^ref-3][^ref-7][^ref-11][^ref-15]
+**Synergistic Software:** Virgin published *[[1990 - Spirit of Excalibur|Spirit of Excalibur]]* (1990), *[[1991 - Vengeance of Excalibur|Vengeance of Excalibur]]* (1991), and *[[1991 - Conan - The Cimmerian|Conan: The Cimmerian]]* (1991) before Synergistic was acquired by Sierra in 1996.[^ref-3][^ref-7][^ref-11][^ref-15]
 
 **Papyrus Design Group:** Virgin Interactive published the original *NASCAR Racing* (1994) before Papyrus was acquired by Sierra in 1995.[^ref-4][^ref-8][^ref-12]
 
