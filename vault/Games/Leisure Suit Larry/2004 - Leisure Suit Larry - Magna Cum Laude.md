@@ -10,14 +10,14 @@ series: Leisure Suit Larry
 engine: Proprietary (High Voltage Hot Rod)
 protagonist: Larry Lovage
 sierra_lineage: Core Sierra
-last_updated: '2026-10-08'
+last_updated: '2026-10-09'
 description: 'Leisure Suit Larry: Magna Cum Laude is the seventh installment in the
   long-running Leisure Suit Larry series, released in October 2004 for Windows,...'
 tags: [2000s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Magna Cum Laude
 
-<small style="color: gray">Last updated: October 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -352,7 +352,7 @@ The game's poor reception contributed to the series' dormancy until Al Lowe's re
 [^ref-20]: [Game Informer Review (Archived)](https://web.archive.org/web/20081203205839/http://www.gameinformer.com/NR/exeres/ED20FE12-E630-4842-A734-0287DE150FC8.htm) – gameplay mechanics, voice acting praise
 [^ref-21]: [GameRevolution Review](https://www.gamerevolution.com/review/32909-leisure-suit-larry-magna-cum-laude-review) – negative review, mini-game criticism
 [^ref-22]: [GameSpy Guide](http://pc.gamespy.com/pc/leisure-suit-larry-magna-cum-laude/guide/page_2.html) – mini-game descriptions, difficulty system
-[^ref-23]: [GameCritics Review](https://gamecritics.com/brad-gallaway/1622/) – Brad Gallaway review, 3.5/10
+[^ref-23]: [GameCritics Review](http://web.archive.org/web/20190920094357/https://gamecritics.com/brad-gallaway/1622/) – Brad Gallaway review, 3.5/10
 [^ref-24]: [Metacritic – Xbox Reviews](https://www.metacritic.com/game/leisure-suit-larry-magna-cum-laude/critic-reviews/?platform=xbox) – Game Chronicles score
 [^ref-26]: [Eurogamer Review](https://www.eurogamer.net/articles/r_leisuresuitlarry_ps2) – Kristan Reed review, 7/10, technical issues
 [^ref-27]: [IGN Review](https://www.ign.com/articles/2004/10/04/leisure-suit-larry-magna-cum-laude-3) – Steve Butts review, 7.2/10, easter eggs
