@@ -4,140 +4,94 @@ release_year: 1989
 developer: Berkeley Systems
 designer: [Jack Eastman, Patrick Beard]
 publisher: Berkeley Systems
-genre: Puzzle
-platforms: [Apple Macintosh, Microsoft Windows, DOS, Windows 95, Windows 98, Windows
-    Me, Windows XP, Mac OS Classic, Java mobile phone (J2ME), Android, iOS, itch.io]
+genre: Screensaver
+platforms: [Apple Macintosh, Microsoft Windows, DOS]
 series: After Dark
-engine: Native Mac/Windows
+engine: Assembly language and C
 protagonist: N/A
-sierra_lineage: Sierra Published
-last_updated: '2026-05-08'
-description: After Dark represents one of the most iconic screensaver collections
-  in computing history, originally created by Berkeley Systems for Apple Macintosh
-  in...
-tags: [1980s, after-dark, puzzle, sierra]
+sierra_lineage: Acquired Franchise
+last_updated: '2026-10-09'
+description: After Dark is the screensaver series Berkeley Systems introduced for
+  the Macintosh in 1989 and for Windows in 1991, home of the Flying Toasters; Sierra
+  acquired Berkeley Systems in 1997.
+tags: [1980s, after-dark, screensaver, sierra]
 ---
 # After Dark
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-After Dark represents one of the most iconic screensaver collections in computing history, originally created by Berkeley Systems for Apple Macintosh in 1989[^ref-9] and later ported to Microsoft Windows in 1991[^ref-10]. What began as a personal project by engineer Jack Eastman[^ref-31] evolved into a cultural phenomenon that would spawn merchandise, legal battles, and eventually a collection of desktop games published in 1998[^ref-4]. The software package became legendary for its "Flying Toasters" screensaver, which Eastman conceived during a sleep-deprived programming session when his mind "put wings on" a kitchen toaster he was looking at[^ref-31].
+After Dark is a series of screensaver software introduced by Berkeley Systems for the Apple Macintosh in 1989 and for Microsoft Windows in 1991[^ref-9][^ref-10]. It began as a personal project by Jack Eastman, who "actually never intended it to see the light of day"[^ref-31], and was created by Eastman together with Patrick Beard[^ref-31]. Its best-known module, Flying Toasters, came from a late-night session in which Eastman's "sleep-deprived brain put wings on" a toaster he spotted in his kitchen[^ref-31].
 
-Berkeley Systems maintained a philosophy of remaining "aggressively stupid"[^ref-31] throughout the development process, prioritizing charm, creativity, non-repetitiveness, and deliberate simplicity over technical complexity[^ref-31]. This approach proved remarkably successful, with the screensavers appearing on "just about every single office computer in existence"[^ref-42] during their peak popularity. The franchise eventually expanded beyond screensavers into merchandise, legal disputes, and multiple game collections that would continue well into the 2020s across various platforms including modern mobile devices and indie gaming platforms[^ref-11][^ref-32].
+After Dark was not a Sierra product when it was created. It was developed and published by Berkeley Systems eight years before Sierra had any stake in it. Sierra On-Line, then owned by CUC International, acquired Berkeley Systems in April 1997[^ref-58][^ref-59]. Sierra then repackaged the major versions under names such as After Dark Classic, After Dark Deluxe and After Dark Midnight Edition, and ended the line in the early 2000s[^ref-31].
 
 > [!info]- Game Info
 > **Developer:** [[Berkeley Systems]][^ref-9]
-> **Designer:** Jack Eastman, Patrick Beard[^ref-10]
-> **Publisher:** Berkeley Systems[^ref-9]
-> **Engine:** Native Mac/Windows[^ref-9]
-> **Platforms:** Apple Macintosh, Microsoft Windows, DOS, Windows 95, Windows 98, Windows Me, Mac OS Classic, Java mobile phone (J2ME), Android, iOS, itch.io[^ref-3][^ref-8][^ref-15]
+> **Designer:** Jack Eastman, Patrick Beard[^ref-31]
+> **Publisher:** Berkeley Systems[^ref-31]
+> **Engine:** Assembly language and C[^ref-9]
+> **Platforms:** Apple Macintosh, Microsoft Windows, DOS[^ref-9]
 > **Release Year:** 1989
 > **Series:** After Dark
 > **Protagonist:** N/A
-> **Sierra Lineage:** Sierra Published
+> **Sierra Lineage:** Acquired Franchise
 
 ## Story Summary
 
-The After Dark universe encompasses multiple distinct narratives depending on the specific iteration. The original Berkeley Systems screensaver collection featured no overarching story, instead presenting whimsical animated scenes like flying toasters and dancing geometric shapes[^ref-24]. However, the 1998 After Dark Games collection incorporated "objects and characters from the screen savers"[^ref-18] into playable mini-games with their own simple premises.
-
-Later independent interpretations took darker turns. The 2004 J2ME mobile game "After Dark: Under the Moonlight" centered on a haunted Portland mansion where "no one ever came back from that place," following a boy and girl who must "overcome all evil creations in this mansion to unveil the secret of the past"[^ref-15]. The horror-themed itch.io versions focus on cooperative survival, where players must work together as a father and daughter who "cannot beat the game alone"[^ref-11] while navigating supernatural threats that require keeping lights on and maintaining vigilance[^ref-51].
+After Dark is screensaver software and has no story. Its modules are animated scenes. Version 1.0 consisted of "line-art stuff: water ripples, worms crawling around the screen, rainfall, stars," and version 2.0 added characters with more personality, including the Flying Toasters[^ref-31].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The original After Dark functioned as a screensaver system with customizable activation timers and module selection[^ref-52]. Users could configure individual screensavers through a control panel interface, with the software detecting CPU activity to prevent activation during active use[^ref-24]. The system supported both keyboard and mouse input devices[^ref-34] and featured an "EcoLogic power management for Energy Star monitors" along with a "Randomizer feature to cycle through multiple screensavers"[^ref-52].
+After Dark blanks the screen after a period of inactivity. Eastman's original Mac version worked by patching operating-system calls "to notice periods of inactivity, stay on top of all windows, notice the mouse moving, and so forth"[^ref-31], because the Mac OS of the time had no built-in concept of a screensaver[^ref-31].
 
-The 1998 After Dark Games collection offered "no complicated set-up" with the promise to "just start playing"[^ref-13], featuring eleven individual games accessible through a main menu interface. Each game utilized standard mouse and keyboard controls appropriate to its genre, from Pac-Man-style movement in "Mowin' Maniac"[^ref-18] to puzzle-solving mechanics in various other titles[^ref-20]. Modern iterations on platforms like itch.io require cooperative play between two players, with distinct character abilities where "father can jump higher, daughter can crouch lower"[^ref-11].
+The later After Dark Classic package, published by Sierra Attractions, documents a setup screen with sleep time, Sleep Corners, a SystemIQ activity monitor that makes the program sensitive to CPU load and com-port activity, EcoLogic power management for Energy Star monitors, and a Randomizer for cycling through several displays[^ref-52].
 
 ### Structure and Progression
 
-After Dark's structure varies dramatically across versions. The original screensaver collection operated on a modular system where users could install and customize dozens of individual animated displays[^ref-9]. Berkeley Systems allowed for "development and use of third-party modules, with hundreds created at height of popularity"[^ref-24], expanding the base package significantly beyond its initial offerings.
+The program is modular. It allowed the development and use of third-party modules, and hundreds of them were created during its peak of popularity[^ref-9]. Berkeley Systems followed the original with further editions, including More After Dark and Before Dark, as well as editions themed around licensed properties such as Star Trek, The Simpsons, Looney Tunes, Marvel and Disney[^ref-9].
 
-The 1998 games collection contained eleven distinct mini-games including "Hula Girl, Fish Shtick, Roof Rats, Solitaire, Roger Dodger, Zapper, Mowin' Maniac, Bad Dog 911, Toaster Run, Foggy Boxes, and MooShu"[^ref-38]. Players could access any game individually without linear progression requirements[^ref-43]. More recent interpretations incorporate meta-gaming elements where players must "manipulate game files directly to progress through puzzles"[^ref-55] and experience automatic game restarts as "normal" behavior[^ref-55].
-
-### Puzzles and Mechanics
-
-The original After Dark screensavers featured hidden interactive elements accessible through specific key combinations. Players could press Caps Lock during certain screensavers to unlock "alternate colors and backgrounds" or even play "Rock, Paper, Scissors" against the CPU[^ref-13]. Setting the system date to December 25th while using voyeur wallpaper would make Santa appear[^ref-13], demonstrating the developers' attention to seasonal easter eggs.
-
-The games collection emphasized simple mechanics reminiscent of classic arcade titles. "Mowin' Maniac" was described as nothing more than "a variant [of Pac-Man] with a lawnmower theme"[^ref-18], while other games were criticized as "blatant rip-off[s] of better-known games"[^ref-20]. Despite this criticism, the "sheer simplicity of these games helped make them as engaging and addictive as the mega-selling 40-hour sagas with souped-up 3-D sound and state-of-the-art computer graphics"[^ref-9]. Modern horror iterations incorporate survival mechanics where players must complete tasks like watering plants and feeding pets while avoiding supernatural threats[^ref-51].
+Eastman says the team deliberately avoided putting the toasters on a fixed track. Instead it used random numbers drawn from his experience with Monte Carlo simulations in physics, so viewers "couldn't predict" the show[^ref-31].
 
 ## Reception
 
-### Contemporary Reviews
-
-After Dark received mixed critical reception throughout its various incarnations. GameSpot's Nicole Freeman gave After Dark Games a harsh 5.5/10 score in April 2000, criticizing the collection as containing "games that just don't bring any life to the desktop puzzle genre" where "each game is either a blatant rip-off of better-known games"[^ref-20]. However, customer reception proved more positive, with Amazon customers rating the collection 4.1/5 stars[^ref-3] and one long-term user stating they "have had hours and hours of fun with it" over "5 or 6 years"[^ref-3].
-
-| Publication | Score | Notes |
-|-------------|-------|-------|
-| GameSpot | 5.5/10 | "games that just don't bring any life to the desktop puzzle genre"[^ref-20] |
-| Amazon Customers | 4.1/5 | Based on customer reviews[^ref-3] |
-| GameFAQs Users | Great (17 ratings) | User community assessment[^ref-14] |
-| MobyGames Critics | 76% | Professional critic aggregate[^ref-38] |
-| MyAbandonware Users | 4.23/5 | Retro gaming community rating[^ref-41] |
-| RAWG Users | Exceptional | Most users rated as "Exceptional"[^ref-46] |
-
-### Modern Assessment
-
-Contemporary retrospective coverage has been more appreciative of After Dark's cultural impact. The New York Times' J.C. Herz praised how the "sheer simplicity of these games helped make them as engaging and addictive as the mega-selling 40-hour sagas"[^ref-9], while Computer Gaming World noted that "if nothing else, it makes for a good time-killer"[^ref-9]. Modern users on platforms like Reddit express strong nostalgia, with one user successfully running the games on Windows 10 despite compatibility challenges[^ref-49].
-
-The speedrunning community has embraced After Dark Games, maintaining active leaderboards on speedrun.com with multiple categories and competitive players[^ref-53][^ref-54]. This ongoing competitive interest demonstrates the enduring appeal of the simple mechanics that critics once dismissed. Independent developers continue creating new interpretations, with itch.io versions receiving ratings of 4.3/5 stars[^ref-11][^ref-32] and players praising innovative cooperative mechanics despite technical limitations from university project constraints[^ref-11].
+The Flying Toasters made After Dark popular, and Berkeley Systems sold merchandise built around them, such as T-shirts reading "The 51st Flying Toaster Squadron: On a mission to save your screen!"[^ref-9]. In 1994 *Wired* called the flying toaster the "flagship of the popular After Dark screen-savers" and reported that it "earns the company millions of dollars"[^ref-61]. Asked what made After Dark unique, Eastman answered: "Charm; creativity; non-repetitiveness; stupidity"[^ref-31]. He also said the team's philosophy "was to remain 'aggressively stupid'"[^ref-31].
 
 ## Development
 
 ### Origins
 
-After Dark originated as an unintended personal project by engineer Jack Eastman, who "actually never intended it to see the light of day"[^ref-31]. The software began as an "assembly language hack of Mac OS in 1986, required patching OS calls for screen saver functionality"[^ref-24] during Eastman's PhD thesis work. The iconic Flying Toasters concept emerged during a late-night programming session when Eastman's "sleep-deprived brain put wings on" a kitchen toaster he was looking at[^ref-31]. This creation process embodied Berkeley Systems' core philosophy to remain "aggressively stupid"[^ref-31] while prioritizing "charm; creativity; non-repetitiveness; stupidity"[^ref-31].
-
-Berkeley Systems founders Joan Blades and Wes Boyd would later gain additional fame by creating MoveOn.org[^ref-9], demonstrating their continued involvement in projects that captured public attention. The company's approach to After Dark development utilized "Monte Carlo simulation knowledge for randomization"[^ref-31] and allowed extensive third-party module creation, resulting in "hundreds of third-party modules" being "created during peak popularity"[^ref-9]. The software's success led to merchandising opportunities, including t-shirts bearing slogans like "The 51st Flying Toaster Squadron: On a mission to save your screen!"[^ref-9]
+Eastman started After Dark around 1986 as a personal project while working on his Ph.D. thesis at the Lawrence Berkeley Laboratory, where he taught himself to program the Macintosh[^ref-31]. Patrick Beard, a programmer in the laboratory's astrophysics group, helped him work out the systems programming[^ref-31]. Eastman wrote the screensaver in assembly language because "It was the only way to hack the OS calls in those days"[^ref-31]. After he graduated in 1990, he joined Berkeley Systems as VP Engineering[^ref-31].
 
 ### Production
 
-The original After Dark was "written in assembly language and C"[^ref-9] and progressed through multiple major versions from the initial 1989 Macintosh release through After Dark 4.0 in 1996[^ref-9]. The development team included designer Patrick Beard alongside Jack Eastman[^ref-10], with the software expanding from "line-art only modules" in version 1.0 to featuring the breakthrough Flying Toasters in version 2.0[^ref-24]. Berkeley Systems was eventually "acquired by Sierra On-Line division of CUC International in 1997"[^ref-9], though "After Dark was not actually a Sierra game - it was developed and published by Berkeley Systems"[^ref-24].
+After Dark was written in assembly language and C[^ref-9]. When 1.0 caught on, Wes Boyd's view was that the product needed more artistry, which led to the character-driven modules of 2.0, beginning with the Flying Toasters[^ref-31]. The Windows version came from a collaboration between Berkeley Systems, Eastman and Beard and Bill Stewart and Ian MacDonald of Software Dynamics[^ref-31]. Berkeley Systems' founders Joan Blades and Wes Boyd later created MoveOn.org[^ref-9].
 
-The 1998 After Dark Games collection represented a different production approach, transforming screensaver concepts into playable mini-games. This collection incorporated "objects and characters from the screen savers"[^ref-18] and featured "sharp, clear graphics, and each game has original music"[^ref-42]. Modern independent interpretations have involved university projects with "limited development time"[^ref-11] and collaborations between artists like npckc and musicians like sdhizumi[^ref-51], demonstrating how the After Dark concept continues inspiring new creators across different platforms and contexts.
+### Technical Notes
 
-### Technical Achievements
-
-After Dark represented significant technical innovation for its era, particularly in screen saver functionality and modular architecture. The software required sophisticated "assembly language hack of Mac OS in 1986" implementation to properly "patch OS calls for screen saver functionality"[^ref-24] before operating systems natively supported such features. The modular design allowed extensive customization, with the system supporting "development and use of third-party modules, with hundreds created at height of popularity"[^ref-9] through a standardized .ad module format[^ref-24].
-
-The software included advanced features like "SystemIQ Activity Monitor for CPU load detection"[^ref-52] to prevent inappropriate activation during system use, along with "EcoLogic power management for Energy Star monitors"[^ref-52] for energy efficiency.
-
-Technical specifications varied across versions, with After Dark 4.0 supporting "32-bit" architecture while "earlier versions" used "16-bit"[^ref-57] implementation.
-
-Modern compatibility remains challenging, with After Dark 4.0 and "After Dark 10th Anniversary" versions working on "Windows 10" while "After Dark Classic/3.0" remains incompatible with modern systems[^ref-57].
-
-The screensaver files themselves use a clever technical approach where ".scr files are actually .exe files"[^ref-57], allowing execution while maintaining the screensaver file extension convention.
+After Dark 4.0 screensavers are 32-bit, while earlier ones such as After Dark Classic and 3.0 are 16-bit. As a result, 4.0 works on Windows 10 and 11, but the older versions do not, because Microsoft has disabled 16-bit support by default since roughly Windows 7[^ref-57].
 
 ### Version History
 
-Documented versions referenced in source material:
-
-- **version 1.0** — see contemporaneous sources cited in this page
-- **version 2.0** — see contemporaneous sources cited in this page
+- **1.0 (1989)**: Macintosh release with line-art modules[^ref-9][^ref-31]
+- **Windows (1991)**: first Windows release[^ref-9]
+- **2.0**: added the Flying Toasters and other character modules[^ref-31]
+- **4.0 (1996)**: latest release in Wikipedia's infobox; it brought back Eastman's original toaster art as "ProtoToasters"[^ref-9][^ref-31]
+- **Sierra era (from 1997)**: repackaged as After Dark Classic, Deluxe, Midnight Edition and others[^ref-31]
 
 ## Legacy
 
-After Dark's cultural impact extended far beyond its original screensaver functionality, establishing Berkeley Systems as a significant force in desktop computing culture. The Flying Toasters became so iconic that they inspired legal battles, including lawsuits "against Delrina Corporation in 1993" and "by Jefferson Airplane in 1994"[^ref-9] over design similarities and alleged inspiration from the band's album artwork. The franchise spawned a television series, with the "Bad Dog screensaver" inspiring "a TV series that aired on Teletoon in 1999"[^ref-9], demonstrating the characters' broad entertainment appeal beyond computing.
+The Flying Toasters led to two lawsuits. In 1993 Berkeley Systems sued Delrina over the "Death Toasters" in Delrina's Opus 'n Bill screensaver. A federal judge found the two designs substantially similar and issued a preliminary injunction against Delrina[^ref-60]. In 1994 Jefferson Airplane sued Berkeley Systems, claiming the toasters copied the cover of its 1973 album *Thirty Seconds Over Winterland*[^ref-61]. The band lost because it had not trademarked the album artwork[^ref-62].
 
-The technical influence of After Dark proved substantial, with the software appearing on "just about every single office computer in existence"[^ref-42] during its peak and establishing screensavers as a standard computing expectation.
+The "Bad Dog" module inspired a *Bad Dog* TV series, first broadcast on Teletoon on 1 March 1999[^ref-9]. Infinisys of Japan released an official Mac OS X version in May 2003, and Vivendi Universal Games released an *After Dark: Flying Toaster* game for cellphones in 2006[^ref-9].
 
-However, the "common nineties computing myth about screensavers preventing screen burn-in was complete nonsense unless monitor manufactured in mid-eighties"[^ref-41], meaning After Dark's popularity transcended its stated utility purpose.
-
-Modern preservation efforts continue through platforms like myabandonware.com[^ref-41] and speedrunning communities maintaining active competition[^ref-53][^ref-54], while independent developers create new interpretations on itch.io[^ref-11][^ref-32] and mobile platforms[^ref-15], ensuring the After Dark concept remains relevant decades after its original creation.
+Under Sierra, Berkeley Systems and Sierra Attractions also released *After Dark Games* (1998), a collection of games built on the screensaver characters. It has its own page: [[1998 - After Dark Games]][^ref-9].
 
 ## Downloads
 
-**Purchase / Digital Stores**
-- Available through various e-commerce retailers[^ref-42]
-- GOG.com wishlist page exists but not officially available[^ref-22]
-
-**Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/after-dark-games-3fu) - After Dark Games collection[^ref-41]
-- [Internet Archive](https://archive.org/details/after-dark-games-1998-berkeley-systems-mac-pc) - 1998 Berkeley Systems release[^ref-4]
-- [Internet Archive](https://archive.org/details/after-dark-games) - Additional preservation copy[^ref-6]
+No legitimate store sale and no download link has been verified for the 1989 release. For the 1998 game collection, see [[1998 - After Dark Games]].
 
 ## See Also
 
@@ -147,33 +101,13 @@ Modern preservation efforts continue through platforms like myabandonware.com[^r
 
 ## References
 
-[^ref-3]: [Amazon - After Dark Games](https://www.amazon.com/After-Dark-Games-mac-pc/dp/B00001N2OU) - Customer reviews and product information, GameSpot review coverage
-[^ref-4]: [Internet Archive - After Dark Games 1998](https://archive.org/details/after-dark-games-1998-berkeley-systems-mac-pc) - Archived software package with metadata
-[^ref-6]: [Internet Archive - After Dark Games](https://archive.org/details/after-dark-games) - Additional archived copy of software
-[^ref-8]: [Apple Discussions - After Dark Compatibility](https://discussions.apple.com/thread/966505) - Mac Intel compatibility forum discussion
-[^ref-9]: [Wikipedia - After Dark Software](https://en.wikipedia.org/wiki/After_Dark_(software))) - Comprehensive software history and details
+[^ref-9]: [Wikipedia - After Dark Software](https://en.wikipedia.org/wiki/After_Dark_(software)) - Comprehensive software history and details
 [^ref-10]: [Encyclopedia.pub - After Dark History](https://encyclopedia.pub/entry/history/show/75652) - Detailed encyclopedia entry on screensaver software
-[^ref-11]: [Fazedor de Jogos - After Dark](https://fazedordejogos.itch.io/after-dark) - Developer's itch.io page with game information
-[^ref-13]: [GameFAQs - After Dark Games Cheats](https://gamefaqs.gamespot.com/pc/189342-after-dark-games/cheats) - Easter eggs and hidden features guide
-[^ref-14]: [GameFAQs - After Dark Games Main](https://gamefaqs.gamespot.com/pc/189342-after-dark-games) - Database entry with user ratings
-[^ref-15]: [GameFAQs - After Dark Mobile Walkthrough](https://gamefaqs.gamespot.com/mobile/254266-after-dark-under-the-moonlight/faqs/76733/introduction) - J2ME mobile game guide
-[^ref-18]: [LaunchBox Games DB - After Dark Games](https://gamesdb.launchbox-app.com/games/details/129638-after-dark-games) - Comprehensive game database entry
-[^ref-20]: [GameSpot - After Dark Games Review](https://www.gamespot.com/reviews/after-dark-games-review/1900-2537844/) - Professional review with numerical score
-[^ref-22]: [GOG - After Dark Games Wishlist](https://www.gog.com/dreamlist) - User wishlist page
-[^ref-24]: [HandWiki - After Dark Software](https://handwiki.org/wiki/Software:After_Dark) - Technical wiki documentation
 [^ref-31]: [Low End Mac - After Dark Story](https://lowendmac.com/2007/aggressively-stupid-the-story-behind-after-dark/) - Creator interview with Jack Eastman
-[^ref-32]: [Luiz Felipe - After Dark](https://luizfelipemb.itch.io/after-dark) - Independent developer's itch.io page
-[^ref-34]: [Macintosh Repository - After Dark Games](https://www.macintoshrepository.org/3569-after-dark-games) - Mac software repository with technical specs
-[^ref-38]: [MobyGames - After Dark Games](https://www.mobygames.com/game/4821/after-dark-games/) - Detailed database entry with reviews
-[^ref-41]: [MyAbandonware - After Dark Games](https://www.myabandonware.com/game/after-dark-games-3fu) - Game page with detailed review
-[^ref-42]: [Never Die Media - After Dark Games](https://www.neverdiemedia.com/products/after-dark-games) - E-commerce product listing
-[^ref-43]: [Old-Games.com - After Dark Games](https://www.old-games.com/download/8862/after-dark-games) - Retro gaming site with detailed review
-[^ref-46]: [RAWG - After Dark Games](https://rawg.io/games/after-dark-games) - Game database with user ratings
-[^ref-49]: [Reddit - Retro Gaming](https://www.reddit.com/r/retrogaming/comments/xfznis/after_dark_games/) - Technical compatibility discussion
-[^ref-51]: [sdhizumi - Pet Shop Soundtrack](https://sdhizumi.bandcamp.com/album/a-pet-shop-after-dark-soundtrack) - Horror game soundtrack
-[^ref-52]: [Sierra Chest - After Dark Classic](https://sierrachest.com/index.php?a=games&id=830&title=after-dark-classic&fld=walkthrough) - Technical documentation
-[^ref-53]: [Speedrun.com - Individual Run](https://www.speedrun.com/adg/runs/z0p9ee4y) - Speedrunning community data
-[^ref-54]: [Speedrun.com - After Dark Games](https://www.speedrun.com/adg) - Leaderboards and statistics
-[^ref-55]: [Steam Community - Walkthrough Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2876250945) - Meta-gaming mechanics guide
-
+[^ref-52]: [Sierra Chest - After Dark Classic](https://sierrachest.com/index.php?a=games&id=830&title=after-dark-classic&fld=walkthrough) - After Dark Classic setup documentation
 [^ref-57]: [SuperUser - Windows 10 Compatibility](https://superuser.com/questions/1027614/is-after-dark-compatible-for-windows-10) - Technical support discussion
+[^ref-58]: [Wired - Berkeley Systems Acquired by CUC (1 April 1997)](https://www.wired.com/1997/04/berkeley-systems-acquired-by-cuc/) - Acquisition of Berkeley Systems by CUC International, Sierra's parent
+[^ref-59]: [FundingUniverse - Sierra On-Line, Inc. History](https://www.fundinguniverse.com/company-histories/sierra-on-line-inc-history/) - "In April 1997, the firm purchased Berkeley Systems"
+[^ref-60]: [Los Angeles Times - Software Parody Is Toast After Court Ruling (11 October 1993)](https://www.latimes.com/archives/la-xpm-1993-10-11-fi-44741-story.html) - Berkeley Systems v. Delrina injunction
+[^ref-61]: [Wired - Another Poppin' Fresh Lawsuit (October 1994)](https://www.wired.com/1994/10/another-poppin-fresh-lawsuit/) - Jefferson Airplane lawsuit
+[^ref-62]: [Macworld - Think Retro: Bring back the Flying Toasters](https://www.macworld.com/article/2879119/think-retro-bring-back-the-flying-toasters.html) - Outcome of the Jefferson Airplane case

@@ -10,14 +10,14 @@ series: Standalone
 engine: 6502 Assembly
 protagonist: Sammy Lightfoot
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: '**Sammy Lightfoot** is a multi-level platform game—or "climbing game,"
   as the genre was called in the United States in 1983—developed and published by...'
 tags: [1980s, sierra, standalone]
 ---
 # Sammy Lightfoot
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -206,11 +206,6 @@ Sammy Lightfoot occupies an interesting position in Sierra's history as one of t
 
 The game's legacy is primarily one of curiosity—a footnote in Sierra's extensive catalog that occasionally resurfaces in retrospectives of 1980s platform games. Its comparison to *Donkey Kong* was both flattering and limiting; while the game successfully captured the spirit of the arcade hit, it struggled to establish its own identity beyond that comparison.[^ref-3] Modern players who encounter Sammy Lightfoot typically note the distinctive character design (particularly that memorable pompadour) before moving on to more polished examples of the genre. Nevertheless, for historians of Sierra's early years, the game provides valuable insight into the company's development practices and the constraints that shaped game design in 1983.
 
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
 
 ## Downloads
 
