@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player Avatar
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Hoyle Puzzle and Board Games 2011 is a compilation of classic board games,
  card games, and puzzle games released by Encore Software for Windows and...
 tags: [2010s, hoyle, sierra]
@@ -174,7 +174,6 @@ The technical issues plaguing the release—from 64-bit compatibility problems t
 
 **Download / Preservation**
 - [Macintosh Repository](https://www.macintoshrepository.org/32166-hoyle-puzzle-board-games-2011) – Mac/PC Hybrid version[^ref-2]
-- [My Abandonware](https://www.myabandonware.com/game/hoyle-puzzle-board-games-hzo) – Windows version[^ref-1]
 
 The game is documented in gaming databases.[^ref-14][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21][^ref-22]
 
@@ -238,7 +237,7 @@ The game is documented in gaming databases.[^ref-14][^ref-15][^ref-16][^ref-17][
 
 ## References
 
-[^ref-1]: [My Abandonware – Hoyle Puzzle & Board Games](https://www.myabandonware.com/game/hoyle-puzzle-board-games-hzo) – user ratings, developer credits, download information, user testimonials
+[^ref-1]: My Abandonware – Hoyle Puzzle & Board Games *(link removed: the page is the 2008 edition and offers a no-CD crack)* – user ratings, developer credits, download information, user testimonials
 [^ref-2]: [Macintosh Repository – Hoyle Puzzle & Board Games 2011](https://www.macintoshrepository.org/32166-hoyle-puzzle-board-games-2011) – Mac compatibility, release year, file size, platform information
 [^ref-3]: [Metacritic – Hoyle Puzzle and Board Games 2011](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2011/) – release date, publisher, ESRB rating, game summary
 [^ref-4]: [Gamesmen Australia – PC Hoyle Puzzle & Board Games 2011](https://www.gamesmen.com.au/pc-hoyle-puzzle-board-games-2011) – PAL release date, system requirements, publisher, pricing, product specifications
