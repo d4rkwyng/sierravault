@@ -114,7 +114,7 @@ Development took place at Coktel Vision's French studios, with the team designin
 
 ### Technical Achievements
 
-Gobliiins utilized Coktel Vision's proprietary "Gob" engine, which would continue to power subsequent entries in the series.[^ref-9] The game featured 256-color VGA graphics at 320x200 resolution, showcasing detailed character sprites and hand-painted backgrounds.[^ref-26]
+Gobliiins utilized Coktel Vision's proprietary "Gob" engine, which would continue to power subsequent entries in the series.[^ref-9] The DOS version supported CGA, EGA and VGA display modes at a 320×200 resolution.[^ref-26]
 
 Pierre Gilhodes's angular, cartoonish art style gave the game a distinctive look that set it apart from contemporaries, featuring characters "who are more like pixies or gnomes than your typical goblin."[^ref-27]
 
@@ -282,7 +282,7 @@ The Gobliiins series spans six games released between 1991 and 2026, each with a
 [^ref-23]: [IMDB – Gobliiins](https://www.imdb.com/title/tt0473302/) – rating, credits
 [^ref-24]: [Web Archive – Pierre Gilhodes Website](https://web.archive.org/web/20210129133754/http://www.gobliiins.com/Auteur_ru.htm) – developer biography
 [^ref-25]: [Rarewaves – Gobliiins 4 Product Page](https://web.archive.org/web/20250317012548/https://www.rarewaves.com/products/4260089411920-gobliiins-4) – Pierre Gilhodes quotes, development history
-[^ref-26]: [Grokipedia – Gobliiins](https://grokipedia.com/page/Gobliiins) – technical specifications, design philosophy
+[^ref-26]: [PCGamingWiki – Gobliiins](https://www.pcgamingwiki.com/wiki/Gobliiins) – DOS modes CGA, EGA, VGA; 320x200 only
 [^ref-27]: [TV Tropes – Gobliiins](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Gobliiins) – character descriptions, easter eggs, trivia
 [^ref-28]: [Video Game Music Preservation Foundation – Gobliiins](https://www.vgmpf.com/Wiki/index.php?title=Gobliiins_(DOS)) – audio specifications, composer credits
 [^ref-29]: [Discogs – Charles Callet Gobliiins 1 & 2](https://www.discogs.com/release/3694705-Charles-Callet-Gobliins-1-2) – soundtrack release, languages
