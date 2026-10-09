@@ -280,7 +280,7 @@ Despite these criticisms, The Art of Conquest has maintained a dedicated fanbase
 [^ref-10]: [eBay – Product Listing](https://www.ebay.com/p/9990) – user reviews, product specifications, customer perspectives
 [^ref-11]: [Neoseeker – Cheats](https://www.neoseeker.com/empireearth-aoc/cheats/pc/) – cheat codes, gameplay tips
 [^ref-12]: [eBay – Listing Details](https://www.ebay.com/itm/325370247754) – technical specifications, player count
-[^ref-13]: [Vipansoft – Download Page](https://empire-earth-the-art-of-conquest.vipansoft.com/download) – variable difficulty information
+[^ref-13]: Vipansoft – Download Page *(link removed: unofficial download site for a game sold on GOG)* – variable difficulty information
 [^ref-14]: [SuperCheats – Powers Walkthrough](https://www.supercheats.com/pc/walkthroughs/empireearth-walkthrough04.txt) – civilization powers system, costs, epoch restrictions
 [^ref-15]: [Metacritic – Reviews](https://www.metacritic.com/game/empire-earth-the-art-of-conquest/) – GameZone review quote, aggregate data
 [^ref-16]: [Metacritic – Critic Reviews](https://www.metacritic.com/game/empire-earth-the-art-of-conquest/critic-reviews/) – multiple review scores, ActionTrip critique
