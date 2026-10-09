@@ -146,8 +146,9 @@ The official website continues to provide gameplay tutorials and FAQ documentati
 - [[1996 - MissionForce - Cyberstorm]]
 - [[1998 - Cyberstorm 2 - Corporate Wars]]
 - [[1999 - Starsiege]]
+- [[2004 - Tribes - Vengeance]]
 
-- Tribes: Vengeance (2004) – Irrational Games/Vivendi
+- [[2004 - Tribes - Vengeance|Tribes: Vengeance]] (2004) – Irrational Games/Vivendi
 - Tribes: Ascend (2012) – Hi-Rez Studios
 - **Tribes 3: Rivals** (2024) – Prophecy Games
 

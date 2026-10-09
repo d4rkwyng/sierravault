@@ -130,6 +130,7 @@ His later advocacy for independent game development through GarageGames helped e
 - **1993** — [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] — Role: Producer
 - **1993** — [[1993 - Betrayal at Krondor|Betrayal at Krondor]] — Role: Executive Producer
 - **1994** — [[1994 - Bouncers|Bouncers]] — Role: Producer
+- **1994** — [[1994 - Lode Runner - The Legend Returns|Lode Runner: The Legend Returns]] — Role: Executive Producer
 - **1994** — [[1994 - The Incredible Machine 2|The Incredible Machine 2]] — Role: Producer
 - **1994** — [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] — Role: Producer
 - **1995** — [[1995 - The Incredible Machine 3.0|The Incredible Machine 3.0]] — Role: Producer

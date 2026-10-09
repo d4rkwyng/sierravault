@@ -215,10 +215,12 @@ Point-and-click adventures. **Play with:** ScummVM
 **Play with:** DOSBox
 
 - **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]]
+- **1989** — [[1989 - MechWarrior|MechWarrior]]
 - **1990** — [[1990 - Red Baron|Red Baron]]
 - **1990** — [[1990 - Stellar 7|Stellar 7]]
 - **1991** — [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9]]
 - **1992** — [[1992 - Aces of the Pacific|Aces of the Pacific]]
+- **1992** — [[1992 - Aces of the Pacific - WWII 1946|Aces of the Pacific: WWII: 1946]]
 - **1992** — [[1992 - Red Baron - Mission Builder|Red Baron: Mission Builder]]
 - **1993** — [[1993 - Aces Over Europe|Aces Over Europe]]
 - **1993** — [[1993 - Betrayal at Krondor|Betrayal at Krondor]]
@@ -271,7 +273,7 @@ Point-and-click adventures. **Play with:** ScummVM
 
 **Play with:** DOSBox (early), Windows compatibility (later)
 
-- Indianapolis 500 — 1989 — Custom 3D
+- **1989** — [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]] — Engine: Custom 3D
 - **1993** — [[1993 - IndyCar Racing|IndyCar Racing]] — Engine: Racing 1.0
 - **1994** — [[1994 - NASCAR Racing|NASCAR Racing]] — Engine: Racing 1.0
 - **1995** — [[1995 - IndyCar Racing II|IndyCar Racing II]] — Engine: Racing 2.0

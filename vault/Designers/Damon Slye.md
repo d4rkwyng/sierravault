@@ -61,7 +61,7 @@ The game's development philosophy balanced authenticity with entertainment value
 
 ### Aces of the Pacific (1992)
 
-[[1992 - Aces of the Pacific|Aces of the Pacific]] continued Slye's dominance in the flight simulation genre, taking players back to World War II Pacific theater aerial combat.[^ref-2] As lead designer and director, Slye created a game featuring a wide variety of historically accurate fighter aircraft from both American and Japanese forces.[^ref-7] The game featured historical missions, real flying aces, and detailed realism features including changes in weather, sunspots, and blackouts.[^ref-2] Aces of the Pacific was followed by the expansion "WWII: 1946" and the European theater companion [[1993 - Aces Over Europe|Aces Over Europe]] in 1993, completing the Aces series that further solidified the Great War Planes franchise.[^ref-7]
+[[1992 - Aces of the Pacific|Aces of the Pacific]] continued Slye's dominance in the flight simulation genre, taking players back to World War II Pacific theater aerial combat.[^ref-2] As lead designer and director, Slye created a game featuring a wide variety of historically accurate fighter aircraft from both American and Japanese forces.[^ref-7] The game featured historical missions, real flying aces, and detailed realism features including changes in weather, sunspots, and blackouts.[^ref-2] Aces of the Pacific was followed by the expansion "[[1992 - Aces of the Pacific - WWII 1946|WWII: 1946]]" and the European theater companion [[1993 - Aces Over Europe|Aces Over Europe]] in 1993, completing the Aces series that further solidified the Great War Planes franchise.[^ref-7]
 
 ## Design Philosophy
 
@@ -100,6 +100,7 @@ The influence of Slye's work can be seen in the continued popularity and evoluti
 - **1991** — [[1991 - Heart of China|Heart of China]] — Role: Actor (as British Guard)
 - **1991** — [[1991 - A-10 Tank Killer v1.5|A-10 Tank Killer v1.5]] — Role: Contributor
 - **1992** — [[1992 - Aces of the Pacific|Aces of the Pacific]] — Role: Lead Designer, Director
+- **1992** — [[1992 - Aces of the Pacific - WWII 1946|Aces of the Pacific: WWII: 1946]] — Role: Designer
 - **1992** — [[1992 - Red Baron - Mission Builder|Red Baron: Mission Builder]] — Role: Producer
 - **1993** — [[1993 - Stellar 7 - Draxon's Revenge|Stellar 7: Draxon's Revenge]] — Role: Original Designer
 - **1993** — [[1993 - Aces Over Europe|Aces Over Europe]] — Role: Designer, Director

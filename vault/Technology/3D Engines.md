@@ -31,8 +31,10 @@ Unlike the unified SCI engine generations (which Sierra developed in-house and s
 |------|-------|-------|
 | 1989 | [[1990 - Red Baron\|Red Baron]] | Flight sim — early 3Space showcase |
 | 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Flight/tank combat |
+| 1989 | [[1989 - MechWarrior\|MechWarrior]] | BattleTech mech combat (Activision-published) |
 | 1990 | [[1990 - Stellar 7\|Stellar 7]] | Tank-combat reissue |
 | 1992 | [[1992 - Aces of the Pacific\|Aces of the Pacific]] | WWII flight |
+| 1992 | [[1992 - Aces of the Pacific - WWII 1946\|Aces of the Pacific: WWII: 1946]] | Aces of the Pacific expansion |
 | 1993 | [[1993 - Aces Over Europe\|Aces Over Europe]] | WWII flight |
 | 1994 | [[1994 - Aces of the Deep\|Aces of the Deep]] | Submarine sim |
 | 1994 | [[1994 - Metaltech - Earthsiege\|Metaltech: Earthsiege]] | Mech combat |

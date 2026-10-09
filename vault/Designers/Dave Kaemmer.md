@@ -73,7 +73,7 @@ Professional drivers and racing industry figures have consistently praised Kaemm
 
 ### Papyrus Design Group / Sierra On-Line (1989–2003)
 
-- 1989 — Indianapolis 500: The Simulation — Designer/Programmer
+- **1989** — [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]] — Role: Designer/Programmer
 - **1993** — [[1993 - IndyCar Racing|IndyCar Racing]] — Role: Designer/Programmer
 - **1994** — [[1994 - NASCAR Racing|NASCAR Racing]] — Role: Designer/Programmer
 - **1995** — [[1995 - IndyCar Racing II|IndyCar Racing II]] — Role: Designer/Programmer

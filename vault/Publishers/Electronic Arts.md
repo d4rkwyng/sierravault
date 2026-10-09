@@ -20,7 +20,7 @@ Electronic Arts published several games developed by studios that would later be
 
 **Dynamix Games:** Before Dynamix was acquired by Sierra in 1990, EA published several of their early titles including *Arcticfox* (1986), *Skyfox II: The Cygnus Conflict* (1987), *Caveman Ugh-lympics* (1989), and *Project Firestart* (1989).[^ref-4][^ref-9][^ref-14]
 
-**Papyrus Design Group:** EA published *Indianapolis 500: The Simulation* (1989), developed by Papyrus Design Group, which was later acquired by Sierra.[^ref-5][^ref-10][^ref-15]
+**Papyrus Design Group:** EA published *[[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]]* (1989), developed by Papyrus Design Group, which was later acquired by Sierra.[^ref-5][^ref-10][^ref-15]
 
 ## Games Published (Sierra Archive)
 
@@ -28,9 +28,10 @@ Electronic Arts published several games developed by studios that would later be
 |------|------|-----------|
 | 1986 | Arcticfox | Dynamix |
 | 1987 | Skyfox II: The Cygnus Conflict | Dynamix |
+| 1989 | [[1989 - Abrams Battle Tank\|Abrams Battle Tank]] | Dynamix |
 | 1989 | Caveman Ugh-lympics | Dynamix |
 | 1989 | Project Firestart | Dynamix |
-| 1989 | Indianapolis 500: The Simulation | Papyrus Design Group |
+| 1989 | [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500: The Simulation]] | Papyrus Design Group |
 
 ## Related
 

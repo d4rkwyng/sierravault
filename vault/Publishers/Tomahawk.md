@@ -25,6 +25,7 @@ Tomahawk served as the original French publisher for many [[Coktel Vision|Coktel
 - **1989** — [[1989 - ESS - European Space Simulator|ESS: European Space Simulator]] — Developer: Coktel Vision
 - **1989** — [[1989 - Legend of Djel|Legend of Djel]] — Developer: Coktel Vision
 - **1990** — [[1990 - Cougar Force|Cougar Force]] — Developer: Coktel Vision
+- **1990** — [[1990 - Galactic Empire|Galactic Empire]] — Developer: Coktel Vision / MDO
 - **1991** — [[1991 - Fascination|Fascination]] — Developer: Coktel Vision
 
 ## Related

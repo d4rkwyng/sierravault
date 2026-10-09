@@ -68,9 +68,11 @@ The studio's commitment to technical excellence and willingness to experiment wi
 - 1986 — Arcticfox — Vehicle Simulation
 - 1987 — Skyfox II: The Cygnus Conflict — Space Combat
 - **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Genre: Flight Simulation
+- **1989** — [[1989 - Abrams Battle Tank|Abrams Battle Tank]] — Genre: Vehicle Simulation
 - 1989 — Caveman Ugh-lympics — Sports/Comedy
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Genre: Action/Adventure
 - 1989 — Deathtrack — Racing/Combat
+- **1989** — [[1989 - MechWarrior|MechWarrior]] — Genre: Vehicle Simulation/Role-Playing
 - 1989 — Project Firestart — Action/Horror
 - 1990 — F-14 Tomcat — Flight Simulation
 - **1990** — [[1990 - Red Baron|Red Baron]] — Genre: Flight Simulation
@@ -79,6 +81,7 @@ The studio's commitment to technical excellence and willingness to experiment wi
 - **1991** — [[1991 - Heart of China|Heart of China]] — Genre: Adventure
 - **1991** — [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] — Genre: Tank Combat
 - **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Genre: Adventure
+- **1992** — [[1992 - Aces of the Pacific - WWII 1946|Aces of the Pacific: WWII: 1946]] — Genre: Flight Simulation
 - **1992** — [[1992 - Front Page Sports Football 92|Front Page Sports Football 92]] — Genre: Sports
 - **1992** — [[1992 - Johnny Castaway|Johnny Castaway]] — Genre: Screen Saver
 - **1992** — [[1992 - The Incredible Machine|The Incredible Machine]] — Genre: Puzzle

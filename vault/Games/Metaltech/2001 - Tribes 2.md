@@ -138,6 +138,7 @@ Server-side scripting allowed communities to create unique game variants and bal
 - [[1996 - MissionForce - Cyberstorm]]
 - [[1998 - Cyberstorm 2 - Corporate Wars]]
 - [[1998 - Starsiege - Tribes]]
+- [[2004 - Tribes - Vengeance]]
 - [[2024 - Tribes 3 - Rivals]]
 
 The game's environmental design featured complex terrain and verticality that rewarded skillful movement and positioning[^ref-2].

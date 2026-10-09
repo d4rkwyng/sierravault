@@ -178,6 +178,7 @@ The game's classification as a "Pac Man variant" by multiple sources reflects bo
 - [[1981 - Crossfire]]
 - [[1981 - Frogger]]
 - [[1981 - Gobbler]]
+- [[1981 - Pegasus II]]
 - [[1981 - Sabotage]]
 - [[1981 - Threshold]]
 - [[1982 - Cannonball Blitz]]

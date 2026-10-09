@@ -208,6 +208,7 @@ From a historical standpoint, Threshold reflects the Wild West nature of early 1
 - [[1981 - Crossfire]]
 - [[1981 - Frogger]]
 - [[1981 - Gobbler]]
+- [[1981 - Pegasus II]]
 - [[1981 - Sabotage]]
 - [[1982 - Cannonball Blitz]]
 - [[1982 - Creepy Corridors]]

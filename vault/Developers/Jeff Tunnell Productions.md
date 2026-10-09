@@ -70,6 +70,7 @@ The company's emphasis on player experimentation and discovery learning helped l
 
 - **1992** — [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]] — Genre: Educational/Simulation
 - **1993** — [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] — Genre: Educational/Puzzle
+- **1994** — [[1994 - Lode Runner - The Legend Returns|Lode Runner: The Legend Returns]] — Genre: Puzzle-platform
 - **2011** — [[2011 - The Incredible Machine (2011)|The Incredible Machine (2011)]] — Genre: Puzzle/Simulation
 
 ## References

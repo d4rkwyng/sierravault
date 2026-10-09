@@ -225,6 +225,7 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 - [[1989 - Emmanuelle]]
 - [[1989 - Legend of Djel]]
 - [[1990 - Cougar Force]]
+- [[1990 - Galactic Empire]]
 - [[1990 - Geisha]]
 - [[1991 - A.G.E.]]
 - [[1991 - E.S.S. Mega]]

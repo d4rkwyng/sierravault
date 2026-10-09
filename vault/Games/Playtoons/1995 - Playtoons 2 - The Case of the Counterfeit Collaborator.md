@@ -197,7 +197,7 @@ The cross-title asset sharing system was remarkably forward-thinking, creating a
 - Playtoons 2: The Case of the Counterfeit Collaborator (1995)[^ref-1]
 - Playtoons 3: The Secret of the Castle (1995)[^ref-16]
 - Playtoons 4: The Mandarin Prince (1995)[^ref-17]
-- Playtoons 5: The Stone of Wakan (1995)[^ref-9]
+- [[1995 - Playtoons 5 - The Stone of Wakan|Playtoons 5: The Stone of Wakan]] (1995)[^ref-9]
 
 ## References
 

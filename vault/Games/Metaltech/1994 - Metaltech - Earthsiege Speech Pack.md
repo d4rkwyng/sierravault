@@ -226,6 +226,7 @@ The game is documented in multiple gaming databases.[^ref-15][^ref-16]
 - [[1999 - Starsiege]]
 - [[2001 - Tribes 2]]
 - [[2002 - Tribes - Aerial Assault]]
+- [[2004 - Tribes - Vengeance]]
 - [[2024 - Tribes 3 - Rivals]]
 
 - **Base Game:** [[1994 - Metaltech - Earthsiege]] (required)

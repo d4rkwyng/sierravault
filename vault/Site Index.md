@@ -4,7 +4,7 @@ last_updated: "2026-05-13"
 ---
 # Site Index
 
-<small style="color: gray">Last generated: May 13, 2026</small>
+<small style="color: gray">Last generated: October 9, 2026</small>
 
 ## Vault Navigation
 
@@ -61,11 +61,11 @@ Tier-1 flagship series plus umbrella overviews for major non-flagship lines.
 
 ## Overview
 
-This archive contains **507 game pages** across 74 categories.
+This archive contains **507 game pages** across 76 categories.
 
 - [[#3D Ultra|3D Ultra]] — Pages: 17
 - [[#A-10 Tank Killer|A-10 Tank Killer]] — Pages: 3
-- [[#Aces|Aces]] — Pages: 4
+- [[#Aces|Aces]] — Pages: 5
 - [[#Adiboo|Adiboo]] — Pages: 4
 - [[#After Dark|After Dark]] — Pages: 3
 - [[#Arcade|Arcade]] — Pages: 19
@@ -79,7 +79,7 @@ This archive contains **507 game pages** across 74 categories.
 - [[#Discovery|Discovery]] — Pages: 4
 - [[#Disney|Disney]] — Pages: 4
 - [[#Dr. Brain|Dr. Brain]] — Pages: 8
-- [[#Dynamix|Dynamix]] — Pages: 12
+- [[#Dynamix|Dynamix]] — Pages: 14
 - [[#EcoQuest|EcoQuest]] — Pages: 2
 - [[#Education|Education]] — Pages: 9
 - [[#Empire Earth|Empire Earth]] — Pages: 2
@@ -96,16 +96,17 @@ This archive contains **507 game pages** across 74 categories.
 - [[#Impressions|Impressions]] — Pages: 17
 - [[#Inca|Inca]] — Pages: 2
 - [[#Incredible Machine|Incredible Machine]] — Pages: 10
-- [[#IndyCar|IndyCar]] — Pages: 3
+- [[#IndyCar|IndyCar]] — Pages: 4
 - [[#Jawbreaker|Jawbreaker]] — Pages: 2
 - [[#King's Quest|King's Quest]] — Pages: 10
 - [[#Krondor|Krondor]] — Pages: 3
 - [[#Laura Bow|Laura Bow]] — Pages: 2
 - [[#Leisure Suit Larry|Leisure Suit Larry]] — Pages: 13
+- [[#Lode Runner|Lode Runner]] — Pages: 2
 - [[#Lords of Magic|Lords of Magic]] — Pages: 2
 - [[#Lords of the Realm|Lords of the Realm]] — Pages: 4
 - [[#Manhunter|Manhunter]] — Pages: 2
-- [[#Metaltech|Metaltech]] — Pages: 11
+- [[#Metaltech|Metaltech]] — Pages: 12
 - [[#Mixed Up|Mixed Up]] — Pages: 4
 - [[#Monolith|Monolith]] — Pages: 3
 - [[#NASCAR|NASCAR]] — Pages: 9
@@ -114,7 +115,7 @@ This archive contains **507 game pages** across 74 categories.
 - [[#PGA Championship Golf|PGA Championship Golf]] — Pages: 5
 - [[#Phantasmagoria|Phantasmagoria]] — Pages: 2
 - [[#Pharaoh|Pharaoh]] — Pages: 2
-- [[#Playtoons|Playtoons]] — Pages: 4
+- [[#Playtoons|Playtoons]] — Pages: 5
 - [[#Police Quest|Police Quest]] — Pages: 5
 - [[#Power Chess|Power Chess]] — Pages: 3
 - [[#Quest for Glory|Quest for Glory]] — Pages: 6
@@ -129,6 +130,7 @@ This archive contains **507 game pages** across 74 categories.
 - [[#Standalone|Standalone]] — Pages: 28
 - [[#Stellar 7|Stellar 7]] — Pages: 4
 - [[#Strategy|Strategy]] — Pages: 10
+- [[#Synergistic|Synergistic]] — Pages: 4
 - [[#Take a Break!|Take a Break!]] — Pages: 2
 - [[#Thexder|Thexder]] — Pages: 4
 - [[#Trophy Bass|Trophy Bass]] — Pages: 4
@@ -169,6 +171,7 @@ This archive contains **507 game pages** across 74 categories.
 ## Aces
 
 - **1992** — [[1992 - Aces of the Pacific|Aces of the Pacific]] — Last Updated: 2026-01-09
+- **1992** — [[1992 - Aces of the Pacific - WWII 1946|Aces of the Pacific: WWII: 1946]] — Last Updated: 2026-10-09
 - **1993** — [[1993 - Aces Over Europe|Aces Over Europe]] — Last Updated: 2026-01-09
 - **1994** — [[1994 - Aces of the Deep|Aces of the Deep]] — Last Updated: 2026-01-09
 - **1995** — [[1995 - Command Aces of the Deep|Command Aces of the Deep]] — Last Updated: 2026-01-09
@@ -190,6 +193,7 @@ This archive contains **507 game pages** across 74 categories.
 
 - **1981** — [[1981 - Crossfire|Crossfire]] — Last Updated: 2026-01-10
 - **1981** — [[1981 - Gobbler|Gobbler]] — Last Updated: 2026-01-17
+- **1981** — [[1981 - Pegasus II|Pegasus II]] — Last Updated: 2026-10-09
 - **1981** — [[1981 - Sabotage|Sabotage]] — Last Updated: 2026-01-17
 - **1981** — [[1981 - Threshold|Threshold]] — Last Updated: 2026-01-22
 - **1982** — [[1982 - Cannonball Blitz|Cannonball Blitz]] — Last Updated: 2026-01-10
@@ -245,6 +249,7 @@ This archive contains **507 game pages** across 74 categories.
 - **1989** — [[1989 - Emmanuelle|Emmanuelle: A Game of Eroticism]] — Last Updated: 2026-01-11
 - **1989** — [[1989 - Legend of Djel|Legend of Djel]] — Last Updated: 2026-01-09
 - **1990** — [[1990 - Cougar Force|Cougar Force]] — Last Updated: 2026-01-11
+- **1990** — [[1990 - Galactic Empire|Galactic Empire]] — Last Updated: 2026-10-09
 - **1990** — [[1990 - Geisha|Geisha]] — Last Updated: 2026-01-09
 - **1991** — [[1991 - A.G.E.|A.G.E.]] — Last Updated: 2026-01-18
 - **1991** — [[1991 - E.S.S. Mega|E.S.S. Mega]] — Last Updated: 2026-01-18
@@ -297,7 +302,9 @@ This archive contains **507 game pages** across 74 categories.
 ## Dynamix
 
 - **1984** — [[1984 - Sword of Kadash|Sword of Kadash]] — Last Updated: 2026-01-11
+- **1989** — [[1989 - Abrams Battle Tank|Abrams Battle Tank]] — Last Updated: 2026-10-09
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Last Updated: 2026-01-09
+- **1989** — [[1989 - MechWarrior|MechWarrior]] — Last Updated: 2026-10-09
 - **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Last Updated: 2026-01-10
 - **1991** — [[1991 - Heart of China|Heart of China]] — Last Updated: 2026-01-10
 - **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Last Updated: 2026-01-22
@@ -514,6 +521,7 @@ This archive contains **507 game pages** across 74 categories.
 
 ## IndyCar
 
+- **1989** — [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]] — Last Updated: 2026-10-09
 - **1993** — [[1993 - IndyCar Racing|IndyCar Racing]] — Last Updated: 2026-01-09
 - **1995** — [[1995 - IndyCar Racing II|IndyCar Racing II]] — Last Updated: 2026-01-09
 - **1997** — [[1997 - CART Racing|CART Racing]] — Last Updated: 2026-01-22
@@ -563,6 +571,11 @@ This archive contains **507 game pages** across 74 categories.
 - **2018** — [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Leisure Suit Larry: Wet Dreams Don't Dry]] — Last Updated: 2026-01-09
 - **2020** — [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|Leisure Suit Larry: Wet Dreams Dry Twice]] — Last Updated: 2026-01-09
 
+## Lode Runner
+
+- **1994** — [[1994 - Lode Runner - The Legend Returns|Lode Runner: The Legend Returns]] — Last Updated: 2026-10-09
+- **1995** — [[1995 - Lode Runner On-Line - The Mad Monks' Revenge|Lode Runner On-Line: The Mad Monks' Revenge]] — Last Updated: 2026-10-09
+
 ## Lords of Magic
 
 - **1997** — [[1997 - Lords of Magic|Lords of Magic]] — Last Updated: 2026-01-09
@@ -593,6 +606,7 @@ This archive contains **507 game pages** across 74 categories.
 - **1999** — [[1999 - Starsiege|Starsiege]] — Last Updated: 2026-01-10
 - **2001** — [[2001 - Tribes 2|Tribes 2]] — Last Updated: 2026-01-09
 - **2002** — [[2002 - Tribes - Aerial Assault|Tribes: Aerial Assault]] — Last Updated: 2026-01-18
+- **2004** — [[2004 - Tribes - Vengeance|Tribes: Vengeance]] — Last Updated: 2026-10-09
 
 ## Mixed Up
 
@@ -653,6 +667,7 @@ This archive contains **507 game pages** across 74 categories.
 - **1995** — [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator|Playtoons 2: The Case of the Counterfeit Collaborator]] — Last Updated: 2026-01-11
 - **1995** — [[1995 - Playtoons 3 - The Secret of the Castle|Playtoons 3: Secret of the Castle]] — Last Updated: 2026-01-17
 - **1995** — [[1995 - Playtoons 4 - The Mandarine Prince|Playtoons 4: The Mandarine Prince]] — Last Updated: 2026-01-17
+- **1995** — [[1995 - Playtoons 5 - The Stone of Wakan|Playtoons 5: The Stone of Wakan]] — Last Updated: 2026-10-09
 
 ## Police Quest
 
@@ -794,6 +809,13 @@ This archive contains **507 game pages** across 74 categories.
 - **1996** — [[1996 - Space Bucks|Space Bucks]] — Last Updated: 2026-01-09
 - **1996** — [[1996 - The Rise & Rule of Ancient Empires|The Rise & Rule of Ancient Empires]] — Last Updated: 2026-01-16
 - **1997** — [[1996 - Birthright - The Gorgon's Alliance|Birthright: The Gorgon's Alliance]] — Last Updated: 2026-01-09
+
+## Synergistic
+
+- **1989** — [[1989 - J.R.R. Tolkien's War in Middle Earth|J.R.R. Tolkien's War in Middle Earth]] — Last Updated: 2026-10-09
+- **1990** — [[1990 - Spirit of Excalibur|Spirit of Excalibur]] — Last Updated: 2026-10-09
+- **1991** — [[1991 - Conan - The Cimmerian|Conan: The Cimmerian]] — Last Updated: 2026-10-09
+- **1991** — [[1991 - Vengeance of Excalibur|Vengeance of Excalibur]] — Last Updated: 2026-10-09
 
 ## Take a Break!
 

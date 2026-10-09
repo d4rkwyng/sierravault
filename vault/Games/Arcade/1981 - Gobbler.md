@@ -188,6 +188,7 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 
 - [[1981 - Crossfire]]
 - [[1981 - Frogger]]
+- [[1981 - Pegasus II]]
 - [[1981 - Sabotage]]
 - [[1981 - Threshold]]
 - [[1982 - Cannonball Blitz]]

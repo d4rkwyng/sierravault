@@ -259,7 +259,7 @@ That lineage resurfaced with NASCAR 25 in 2025, produced by iRacing, "known in a
 - [[2002 - NASCAR Racing 2002 Season]]
 - [[2003 - NASCAR Racing 2003 Season]]
 
-- ← Previous: Indianapolis 500 - The Simulation
+- [[1989 - Indianapolis 500 - The Simulation|← Previous: Indianapolis 500 - The Simulation]]
 
 ## References
 

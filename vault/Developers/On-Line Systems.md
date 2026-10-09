@@ -69,6 +69,7 @@ The company's evolution into Sierra On-Line created one of the most influential 
 - **1980** — [[1980 - Hi-Res Soccer|Hi-Res Soccer]] — Genre: Sports Simulation
 - **1981** — [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] — Genre: Adventure
 - **1981** — [[1981 - Jawbreaker|Jawbreaker]] — Genre: Arcade
+- **1981** — [[1981 - Pegasus II|Pegasus II]] — Genre: Shooter
 - **1981** — [[1981 - Threshold|Threshold]] — Genre: Shoot 'em up
 - **1982** — [[1982 - Cannonball Blitz|Cannonball Blitz]] — Genre: Arcade
 - **1982** — [[1982 - Adventure in Serenia|Adventure in Serenia]] — Genre: Adventure

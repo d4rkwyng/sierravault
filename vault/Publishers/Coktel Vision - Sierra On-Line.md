@@ -28,6 +28,7 @@ The Gobliiins series, Coktel's signature franchise, became part of Sierra's adve
 - **1991** — [[1991 - Gobliiins|Gobliiins]] — Series: Gobliiins
 - **1992** — [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2: The Prince Buffoon]] — Series: Gobliiins
 - **1993** — [[1993 - Goblins Quest 3|Goblins Quest 3]] — Series: Gobliiins
+- **1995** — [[1995 - Playtoons 5 - The Stone of Wakan|Playtoons 5: The Stone of Wakan]] — Series: Playtoons
 
 ## Related
 

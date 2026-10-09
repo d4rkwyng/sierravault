@@ -37,6 +37,7 @@ Before Sierra's 1993 acquisition, Coktel Vision built a French/European adventur
 | 1989 | [[1989 - ESS - European Space Simulator\|E.S.S.: European Space Simulator]] | Various | Sim |
 | 1989 | [[1989 - Legend of Djel\|Legend of Djel]] | Muriel Tramis | Caribbean-set adventure |
 | 1990 | [[1990 - Cougar Force\|Cougar Force]] | Various | Action |
+| 1990 | [[1990 - Galactic Empire\|Galactic Empire]] | François Nédélec, Frédéric Chauvelot | Sci-fi |
 | 1990 | [[1990 - Geisha\|Geisha]] | Various | Japan-set adventure |
 | 1991 | [[1991 - Gobliiins\|Gobliiins]] | Pierre Gilhodes | **Founds the Gobliiins franchise** |
 | 1991 | [[1991 - A.G.E.\|A.G.E.]] | Various | Sci-fi |

@@ -232,7 +232,9 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 ## See Also
 
 - [[1984 - Sword of Kadash]]
+- [[1989 - Abrams Battle Tank]]
 - [[1989 - David Wolf - Secret Agent]]
+- [[1989 - MechWarrior]]
 - [[1990 - Rise of the Dragon]]
 - [[1991 - The Adventures of Willy Beamish]]
 - [[1992 - Johnny Castaway]]

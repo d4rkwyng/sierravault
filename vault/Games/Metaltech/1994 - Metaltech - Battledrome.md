@@ -242,6 +242,7 @@ From a modern perspective, the game deserves recognition as a pioneer in competi
 - [[1999 - Starsiege]]
 - [[2001 - Tribes 2]]
 - [[2002 - Tribes - Aerial Assault]]
+- [[2004 - Tribes - Vengeance]]
 - [[2024 - Tribes 3 - Rivals]]
 
 - **Related:** [[1994 - Metaltech - Earthsiege]]

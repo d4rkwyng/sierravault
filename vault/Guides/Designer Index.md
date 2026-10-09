@@ -106,7 +106,7 @@ Architects of Sierra's expansion beyond adventure games.
 
 | Name | Notable Work |
 |------|--------------|
-| [[Robert Clardy]] | Spirit of Excalibur, Thexder 95, Birthright, Conan |
+| [[Robert Clardy]] | [[1990 - Spirit of Excalibur\|Spirit of Excalibur]], Thexder 95, Birthright, [[1991 - Conan - The Cimmerian\|Conan]] |
 
 ### Other Studios
 

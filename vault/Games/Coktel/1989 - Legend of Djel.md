@@ -140,6 +140,7 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 - [[1989 - ESS - European Space Simulator]]
 - [[1989 - Emmanuelle]]
 - [[1990 - Cougar Force]]
+- [[1990 - Galactic Empire]]
 - [[1990 - Geisha]]
 - [[1991 - A.G.E.]]
 - [[1991 - E.S.S. Mega]]

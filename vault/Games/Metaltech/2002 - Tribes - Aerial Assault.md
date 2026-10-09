@@ -206,6 +206,7 @@ Tribes: Aerial Assault occupies a unique position in gaming history as a [[1994 
 - [[1998 - Starsiege - Tribes]]
 - [[1999 - Starsiege]]
 - [[2001 - Tribes 2]]
+- [[2004 - Tribes - Vengeance]]
 - [[2024 - Tribes 3 - Rivals]]
 
 ## References

@@ -63,6 +63,7 @@ For the independent-era chronology, see [[Timeline 1980-1999|Timeline 1980-1999]
 - [[2004 - Hoyle Casino\|Hoyle Casino]] (Sierra)
 - [[2003 - Hoyle Card Games]] (Sierra)
 - [[2004 - Hoyle Puzzle Games\|Hoyle Puzzle Games]] (Sierra)
+- [[2004 - Tribes - Vengeance\|Tribes: Vengeance]] (Irrational Games / Sierra)
 - *Leisure Suit Larry: Magna Cum Laude* (High Voltage / Vivendi) — Post-Lowe LSL entry (not vault-tracked under Cancelled or main series for editorial reasons)
 
 **Corporate:** [[Papyrus Design Group]] and [[Impressions Games]] closed by Vivendi. The acquired-studio era effectively ends.[^ref-4]

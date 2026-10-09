@@ -82,6 +82,7 @@ Coktel Vision showed that a French studio's games could travel. Sierra published
 - **1993** — [[1993 - Lost in Time|Lost in Time]] — Genre: Adventure
 - **1994** — [[1994 - Playtoons 1 - Uncle Archibald|Playtoons 1: Uncle Archibald]] — Genre: Educational
 - **1995** — [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator|Playtoons 2: The Case of the Counterfeit Collaborator]] — Genre: Educational
+- **1995** — [[1995 - Playtoons 5 - The Stone of Wakan|Playtoons 5: The Stone of Wakan]] — Genre: Adventure
 - **1995** — [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|The Bizarre Adventures of Woodruff and the Schnibble]] — Genre: Adventure
 - **1995** — [[1995 - The Last Dynasty|The Last Dynasty]] — Genre: Adventure
 - **1996** — [[1996 - Urban Runner|Urban Runner]] — Genre: Adventure

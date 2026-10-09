@@ -137,6 +137,7 @@ The technical innovations pioneered by Sierra, including their AGI and SCI game 
 - **1980** — [[1980 - Hi-Res Soccer|Hi-Res Soccer]] — Genre: Sports
 - **1981** — [[1981 - Crossfire|Crossfire]] — Genre: Arcade
 - **1981** — [[1981 - Jawbreaker|Jawbreaker]] — Genre: Arcade
+- **1981** — [[1981 - Pegasus II|Pegasus II]] — Genre: Arcade
 - **1981** — [[1981 - Threshold|Threshold]] — Genre: Arcade
 - **1981** — [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] — Genre: Adventure
 - **1982** — [[1982 - Cannonball Blitz|Cannonball Blitz]] — Genre: Arcade

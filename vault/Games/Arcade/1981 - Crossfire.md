@@ -220,6 +220,7 @@ The game's influence can be seen in its innovative control scheme and its achiev
 
 - [[1981 - Frogger]]
 - [[1981 - Gobbler]]
+- [[1981 - Pegasus II]]
 - [[1981 - Sabotage]]
 - [[1981 - Threshold]]
 - [[1982 - Cannonball Blitz]]

@@ -42,6 +42,7 @@ The mech-combat-to-multiplayer-FPS arc that became one of Dynamix's most influen
 | 1999 | [[1999 - Starsiege\|Starsiege]] | Mech combat (series prequel) |
 | 2001 | [[2001 - Tribes 2\|Tribes 2]] | Multiplayer FPS |
 | 2002 | [[2002 - Tribes - Aerial Assault\|Tribes: Aerial Assault]] | PS2 port |
+| 2004 | [[2004 - Tribes - Vengeance\|Tribes: Vengeance]] | First-person shooter (Irrational Games) |
 | 2024 | [[2024 - Tribes 3 - Rivals\|Tribes 3: Rivals]] | Multiplayer FPS (Prophecy Games revival) |
 
 *Starsiege: Tribes* (1998) is widely credited with founding the jet-pack-shooter subgenre that influenced *Halo*, *Call of Duty: Modern Warfare*'s movement systems, and many subsequent games.[^ref-4]
@@ -54,6 +55,7 @@ Dynamix's flight-simulator line, the prestige product before Papyrus's NASCAR si
 |------|-------|---------|
 | 1989 | [[1990 - Red Baron\|Red Baron]] | WWI dogfighting (Damon Slye design) |
 | 1992 | [[1992 - Aces of the Pacific\|Aces of the Pacific]] | WWII Pacific theater |
+| 1992 | [[1992 - Aces of the Pacific - WWII 1946\|Aces of the Pacific: WWII: 1946]] | Alternate-history 1946 expansion |
 | 1993 | [[1993 - Aces Over Europe\|Aces Over Europe]] | WWII European theater |
 | 1994 | [[1994 - Aces of the Deep\|Aces of the Deep]] | WWII submarine warfare |
 | 1995 | [[1995 - Command Aces of the Deep\|Command Aces of the Deep]] | Strategic submarine command |
@@ -115,8 +117,10 @@ Three highly-regarded adventure games using Dynamix's proprietary cinematic engi
 Dynamix self-published or used external publishers before Sierra's 1990 acquisition.
 
 - [[1984 - Sword of Kadash]]
+- [[1989 - Abrams Battle Tank]] — Published by Electronic Arts
 - [[1989 - A-10 Tank Killer]] — One of the first major Dynamix Sierra-published titles
 - [[1989 - David Wolf - Secret Agent]] — Self-published cinematic adventure
+- [[1989 - MechWarrior]] — Published by Activision
 - [[1990 - Stellar 7]] — Multiple platforms
 
 ## Studio History

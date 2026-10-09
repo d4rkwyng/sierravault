@@ -197,6 +197,8 @@ As a boxed DOS game from the late 1980s with distinctive packaging and multiple 
 - [[1990 - Rise of the Dragon]] - Similar Dynamix action-adventure
 - [[1991 - Heart of China]] - Another Dynamix cinematic adventure
 - [[1984 - Sword of Kadash]]
+- [[1989 - Abrams Battle Tank]]
+- [[1989 - MechWarrior]]
 - [[1991 - The Adventures of Willy Beamish]]
 - [[1992 - Johnny Castaway]]
 - [[1992 - Quarky & Quaysoo's Turbo Science]]

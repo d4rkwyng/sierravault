@@ -157,6 +157,7 @@ Starsiege: Tribes established the blueprint for team-based objective shooters, i
 - [[1996 - MissionForce - Cyberstorm]]
 - [[2001 - Tribes 2]]
 - [[2002 - Tribes - Aerial Assault]]
+- [[2004 - Tribes - Vengeance]]
 - [[2024 - Tribes 3 - Rivals]]
 
 ## References

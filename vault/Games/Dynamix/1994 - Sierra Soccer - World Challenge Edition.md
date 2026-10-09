@@ -317,7 +317,9 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 ## See Also
 
 - [[1984 - Sword of Kadash]]
+- [[1989 - Abrams Battle Tank]]
 - [[1989 - David Wolf - Secret Agent]]
+- [[1989 - MechWarrior]]
 - [[1990 - Rise of the Dragon]]
 - [[1991 - Heart of China]]
 - [[1991 - The Adventures of Willy Beamish]]

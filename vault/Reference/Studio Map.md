@@ -37,7 +37,7 @@ Used together with [[Corporate Lineage|Corporate Lineage]] and the per-studio De
 | [[Coktel Vision]] | 1985 | 1993 | Discontinued late 1990s | Paris, France | Gobliiins, Inca, Lost in Time, Bizarre Adventures of Woodruff |
 | [[Impressions Games]] | 1989 | 1995 | Closed 2004 | Cambridge, UK / Boston, MA | Caesar, Pharaoh, Zeus, Emperor, Lords of the Realm |
 | [[Papyrus Design Group]] | 1987 | 1995 | Closed 2004 | Watertown, MA | NASCAR Racing series, IndyCar Racing, Grand Prix Legends |
-| [[Synergistic Software]] | 1978 | 1996 | Closed 1999 | Bellevue, WA | Conan, War in Middle Earth, Birthright |
+| [[Synergistic Software]] | 1978 | 1996 | Closed 1999 | Bellevue, WA | [[1991 - Conan - The Cimmerian\|Conan]], [[1989 - J.R.R. Tolkien's War in Middle Earth\|War in Middle Earth]], Birthright |
 | [[Knowledge Adventure]] | 1991 | 1996 (via CUC) | Active (as JumpStart) | Glendale, CA | JumpStart educational series, Adi/Adibou (with Coktel) |
 | [[Berkeley Systems]] | 1987 | 1997 (via CUC) | Folded into Sierra | Berkeley, CA | After Dark screensavers |
 

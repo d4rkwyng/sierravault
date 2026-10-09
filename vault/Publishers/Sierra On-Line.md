@@ -75,6 +75,7 @@ This section lists all games published under Sierra On-Line and its subsidiaries
 - **1981** — [[1981 - Threshold|Threshold]] — Notes: Arcade shooter
 - **1981** — [[1981 - Jawbreaker|Jawbreaker]] — Notes: Pac-Man style
 - **1981** — [[1981 - Gobbler|Gobbler]] — Notes: Olaf Lubeck
+- **1981** — [[1981 - Pegasus II|Pegasus II]] — Notes: Olaf Lubeck
 - **1981** — [[1981 - Sabotage|Sabotage]] — Notes: Mark Allen
 - **1982** — [[1982 - Cannonball Blitz|Cannonball Blitz]] — Notes: Donkey Kong style
 - **1982** — [[1981 - Frogger|Frogger]] — Notes: Licensed port
@@ -212,6 +213,7 @@ This section lists all games published under Sierra On-Line and its subsidiaries
 - **1990** — [[1990 - Red Baron|Red Baron]] — Notes: WWI combat
 - **1991** — [[1991 - A-10 Tank Killer v1.5|A-10 Tank Killer 1.5]] — Notes: Updated
 - **1992** — [[1992 - Aces of the Pacific|Aces of the Pacific]] — Notes: WWII Pacific
+- **1992** — [[1992 - Aces of the Pacific - WWII 1946|Aces of the Pacific: WWII: 1946]] — Notes: Expansion
 - **1992** — [[1992 - Red Baron - Mission Builder|Red Baron Mission Builder]] — Notes: Expansion
 - **1993** — [[1993 - Aces Over Europe|Aces Over Europe]] — Notes: WWII Europe
 - **1994** — [[1994 - Aces of the Deep|Aces of the Deep]] — Notes: U-boat sim
@@ -277,6 +279,7 @@ This section lists all games published under Sierra On-Line and its subsidiaries
 - **1995** — [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator|Playtoons 2]] — Notes: Children's
 - **1995** — [[1995 - Playtoons 3 - The Secret of the Castle|Playtoons 3]] — Notes: Children's
 - **1995** — [[1995 - Playtoons 4 - The Mandarine Prince|Playtoons 4]] — Notes: Children's
+- **1995** — [[1995 - Playtoons 5 - The Stone of Wakan|Playtoons 5]] — Notes: Children's
 - **1995** — [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|Woodruff and the Schnibble]] — Notes: Comedy adventure
 - **1996** — [[1996 - Urban Runner|Urban Runner]] — Notes: FMV thriller
 
@@ -338,6 +341,10 @@ This section lists all games published under Sierra On-Line and its subsidiaries
 - **1997** — [[1997 - Hoyle Classic Board Games|Hoyle Classic Board Games]] — Notes: Board games
 - **1998** — [[1998 - Hoyle Battling Ships and War|Hoyle Battling Ships]] — Notes: Strategy games
 - **1999-2008** — See [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle]] series — Game: *Multiple annual Hoyle releases*
+
+#### Lode Runner (Presage Software)
+- **1994** — [[1994 - Lode Runner - The Legend Returns|Lode Runner: The Legend Returns]] — Notes: Remake
+- **1995** — [[1995 - Lode Runner On-Line - The Mad Monks' Revenge|Lode Runner On-Line: The Mad Monks' Revenge]] — Notes: Enhanced edition
 
 ### Late Era (1996-1999)
 
@@ -436,6 +443,7 @@ This section lists all games published under Sierra On-Line and its subsidiaries
 - **2002** — [[2002 - No One Lives Forever 2|No One Lives Forever 2]] — Notes: Sequel
 - **2003** — [[2003 - Contract J.A.C.K.|Contract J.A.C.K.]] — Notes: NOLF spin-off
 - **2004** — [[2004 - Ground Control II - Operation Exodus|Ground Control II]] — Notes: RTS sequel
+- **2004** — [[2004 - Tribes - Vengeance|Tribes: Vengeance]] — Notes: Irrational FPS
 - **2005** — [[2005 - SWAT 4|SWAT 4]] — Notes: Tactical shooter
 - **2006** — [[2006 - SWAT 4 - The Stetchkov Syndicate|SWAT 4 expansion]] — Notes: Add-on
 - **2007** — [[2007 - World in Conflict|World in Conflict]] — Notes: RTS

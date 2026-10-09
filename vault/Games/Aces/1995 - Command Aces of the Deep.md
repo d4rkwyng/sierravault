@@ -127,6 +127,7 @@ Despite being released over two decades ago, the game maintains a dedicated foll
 
 - [[1990 - Red Baron|Red Baron]] - Related Dynamix flight sim
 - [[1992 - Aces of the Pacific]]
+- [[1992 - Aces of the Pacific - WWII 1946]]
 - [[1993 - Aces Over Europe]]
 
 ## References

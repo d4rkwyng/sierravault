@@ -208,6 +208,7 @@ The development story behind Wallwar is perhaps more significant than the game i
 - [[1981 - Crossfire]]
 - [[1981 - Frogger]]
 - [[1981 - Gobbler]]
+- [[1981 - Pegasus II]]
 - [[1981 - Sabotage]]
 - [[1981 - Threshold]]
 - [[1982 - Cannonball Blitz]]

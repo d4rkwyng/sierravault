@@ -264,6 +264,7 @@ The game's legacy is complicated by its commercial failure, which contributed to
 - [[1996 - MissionForce - Cyberstorm]]
 - [[1998 - Cyberstorm 2 - Corporate Wars]]
 - [[2002 - Tribes - Aerial Assault]]
+- [[2004 - Tribes - Vengeance]]
 - [[2024 - Tribes 3 - Rivals]]
 
 ## References

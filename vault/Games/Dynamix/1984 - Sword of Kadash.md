@@ -200,7 +200,9 @@ While modern critics have been harsh on the game's punishing difficulty and repe
 
 ## See Also
 
+- [[1989 - Abrams Battle Tank]]
 - [[1989 - David Wolf - Secret Agent]]
+- [[1989 - MechWarrior]]
 - [[1990 - Rise of the Dragon]]
 - [[1991 - Heart of China]]
 - [[1991 - The Adventures of Willy Beamish]]

@@ -205,6 +205,7 @@ The game's aggressive copy protection and its taunting hidden message to cracker
 - [[1981 - Crossfire]]
 - [[1981 - Frogger]]
 - [[1981 - Gobbler]]
+- [[1981 - Pegasus II]]
 - [[1981 - Sabotage]]
 - [[1981 - Threshold]]
 - [[1982 - Creepy Corridors]]

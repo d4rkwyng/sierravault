@@ -270,7 +270,9 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 ## See Also
 
 - [[1984 - Sword of Kadash]]
+- [[1989 - Abrams Battle Tank]]
 - [[1989 - David Wolf - Secret Agent]]
+- [[1989 - MechWarrior]]
 - [[1991 - Heart of China]]
 - [[1991 - The Adventures of Willy Beamish]]
 - [[1992 - Johnny Castaway]]

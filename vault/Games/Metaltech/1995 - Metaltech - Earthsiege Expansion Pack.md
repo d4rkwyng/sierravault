@@ -291,6 +291,7 @@ While *MechWarrior 2* would ultimately become the genre's defining title, *Earth
 - [[1999 - Starsiege]]
 - [[2001 - Tribes 2]]
 - [[2002 - Tribes - Aerial Assault]]
+- [[2004 - Tribes - Vengeance]]
 - [[2024 - Tribes 3 - Rivals]]
 
 - **Related:** [[1994 - Metaltech - Earthsiege Speech Pack]]

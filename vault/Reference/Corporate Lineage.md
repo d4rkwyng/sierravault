@@ -43,7 +43,7 @@ Through the late 1980s and 1990s, Sierra established flagship adventure franchis
 - **1993**: Acquired [[Coktel Vision]] (French adventure/edutainment publisher).[^ref-12]
 - **1995**: Acquired [[Impressions Games]] (UK-based historical strategy developer of Caesar, Pharaoh, Lords of the Realm).[^ref-13]
 - **1995**: Acquired [[Papyrus Design Group]] (NASCAR/IndyCar racing simulators).[^ref-14]
-- **1996**: Acquired [[Synergistic Software]] (Conan, War in Middle Earth).[^ref-15]
+- **1996**: Acquired [[Synergistic Software]] ([[1991 - Conan - The Cimmerian|Conan]], [[1989 - J.R.R. Tolkien's War in Middle Earth|War in Middle Earth]]).[^ref-15]
 
 Sierra went public on NASDAQ on December 7, 1988, with the ticker SIER.[^ref-16] By 1996, the company was generating roughly USD 150 million in annual revenue and was a logical acquisition target for any rollup looking to enter consumer software.[^ref-17]
 
