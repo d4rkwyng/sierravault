@@ -126,6 +126,7 @@ Sierra (renamed from On-Line Systems in 1982) created the graphic adventure genr
 - [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk - Thexder - The Second Contact]] — Series: Thexder, Type: Run and Gun / Shooter
 - [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games - Volume 1]] — Series: Hoyle, Type: Card Games
 - [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500 - The Simulation]] — Developer: Papyrus, Type: Racing Simulation
+- [[1989 - J.R.R. Tolkien's War in Middle Earth|J.R.R. Tolkien's War in Middle Earth]] — Developer: Synergistic, Type: Strategy
 - [[1989 - Legend of Djel|Legend of Djel]] — Series: Ween, Type: Adventure
 - **[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]** — Series: Leisure Suit Larry, Type: Adventure
 - [[1989 - Manhunter - San Francisco|Manhunter - San Francisco]] — Series: Manhunter, Type: Adventure
@@ -156,6 +157,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1990 - Red Baron|Red Baron]] — Series: Red Baron, Type: Flight Simulation
 - [[1990 - Rise of the Dragon|Rise of the Dragon]] — Series: Dynamix Adventures, Type: Adventure
 - **[[1990 - Roberta Williams' King's Quest I - Quest for the Crown|Roberta Williams' King's Quest I - Quest for the Crown]]** — Series: King's Quest, Type: Adventure
+- [[1990 - Spirit of Excalibur|Spirit of Excalibur]] — Developer: Synergistic, Type: Strategy/RPG
 - [[1990 - Stellar 7|Stellar 7]] — Series: Stellar 7, Type: Tank Simulation / Shooter
 - [[1990 - Zeliard|Zeliard]] — Type: Action RPG
 
@@ -164,6 +166,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1991 - A.G.E.|A.G.E.]] — Series: Galactic Empire, Type: Action Simulation
 - [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Series: Dr. Brain, Type: Educational Puzzle
 - [[1991 - Cohort Fighting for Rome|Cohort Fighting for Rome]] — Series: Cohort, Type: Strategy/Tactics
+- [[1991 - Conan - The Cimmerian|Conan - The Cimmerian]] — Developer: Synergistic, Type: Action/Adventure
 - [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow - The Legend of Robin Hood]] — Series: Conquests, Type: Adventure
 - [[1991 - E.S.S. Mega|E.S.S. Mega]] — Series: E.S.S., Type: Simulation
 - [[1991 - EcoQuest - The Search for Cetus|EcoQuest - The Search for Cetus]] — Series: EcoQuest, Type: Educational Adventure
@@ -185,6 +188,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - **[[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV - Roger Wilco and the Time Rippers]]** — Series: Space Quest, Type: Adventure
 - [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Type: Adventure
 - [[1991 - The Charge of the Light Brigade|The Charge of the Light Brigade]] — Series: Micro Miniatures, Type: Strategy/Tactics
+- [[1991 - Vengeance of Excalibur|Vengeance of Excalibur]] — Developer: Synergistic, Type: Strategy/RPG
 
 ### 1992
 - [[1992 - A.J.'s World of Discovery|A.J.'s World of Discovery]] — Series: Adibou, Type: Educational
