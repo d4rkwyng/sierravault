@@ -23,11 +23,11 @@ tags: [1990s, adventure, conquests, sci, sierra]
 
 ## Overview
 
-*Conquests of Camelot: The Search for the Grail* is an adventure game released in March 1990 by Sierra On-Line that places players in control of King Arthur during a quest to find the Holy Grail and rescue three missing Knights of the Round Table.[^ref-1][^ref-33] Designed by screenwriter [[Christy Marx]] with visuals created by Australian cartoonist [[Peter Ledger]], the game represents a sophisticated attempt to blend Arthurian legend with historical authenticity and pagan mythology.[^ref-2] Set in the ninth century, the narrative begins as Camelot falls under a curse of famine and drought caused by the love triangle between Arthur, Queen Gwenhyver, and Sir Launcelot.[^ref-3]
+*Conquests of Camelot: The Search for the Grail* is an adventure game released in March 1990 by Sierra On-Line that places players in control of King Arthur during a quest to find the Holy Grail and rescue three missing Knights of the Round Table.[^ref-1] Designed by screenwriter [[Christy Marx]] with visuals created by Australian cartoonist [[Peter Ledger]],[^ref-30] the game represents a sophisticated attempt to blend Arthurian legend with historical authenticity and pagan mythology.[^ref-2] Set in the ninth century, the narrative begins as Camelot falls under a curse of famine and drought caused by the love triangle between Arthur, Queen Gwenhyver, and Sir Launcelot.[^ref-3]
 
-The game distinguished itself from other adventure titles of its era through its extensive research into medieval history, mythology, and religious traditions.[^ref-4] As Marx explained in the game's documentation: "The trick with writing a story or game based upon a popular set of legends is to walk that thin line between tradition and originality. What I've striven to do with this game is to balance history and myth, fact and imagination, entertainment and information."[^ref-2] This approach created what one reviewer described as "a more subtle, complex and powerful vision of Arthur than anything you've seen before."[^ref-5]
+The game distinguished itself from other adventure titles of its era through its extensive research into medieval history, mythology, and religious traditions.[^ref-4] As Marx explained in the game's documentation: "The trick with writing a story or game based upon a popular set of legends is to walk that thin line between tradition and originality. What I've striven to do with this game is to balance history and myth, fact and imagination, entertainment and information."[^ref-2] Sierra's own product description promised "a more sophisticated, complex and powerful view of Arthur than any you may have seen before."[^ref-5]
 
-*Conquests of Camelot* was the first entry in what would become Sierra's Conquests series, followed only by *Conquests of the Longbow: The Legend of Robin Hood* in 1991.[^ref-1] The game marked Christy Marx's debut as a game designer for Sierra, though she had previously established herself as a writer for animated television series including *Spider-Man and His Amazing Friends*, *G.I. Joe*, and *Teenage Mutant Ninja Turtles*.[^ref-2][^ref-30][^ref-31][^ref-32][^ref-30][^ref-31][^ref-32]
+*Conquests of Camelot* was the first entry in what would become Sierra's Conquests series, followed only by *Conquests of the Longbow: The Legend of Robin Hood* in 1991.[^ref-1] The game marked Christy Marx's debut as a game designer for Sierra, though she had previously established herself as a writer for animated television series including *Spider-Man and His Amazing Friends*, *G.I. Joe*, and *Teenage Mutant Ninja Turtles*.[^ref-2]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -44,7 +44,7 @@ The game distinguished itself from other adventure titles of its era through its
 
 The narrative opens at a dark time for Camelot. The legendary castle has fallen under a curse brought about by the love triangle between King Arthur, his wife Gwenhyver, and the knight Launcelot.[^ref-3] Famine and drought plague the kingdom as a direct consequence of this betrayal, and the once-glorious court has entered a period of decline.[^ref-7] Arthur experiences a vision of the Holy Grail covered by a silver cloth, which prompts three of his finest knights—Gawaine, Launcelot, and Galahad—to depart on a quest to find the sacred relic.[^ref-3] When none of the knights return, Arthur must embark on his own journey to locate both his missing companions and the Grail itself.[^ref-7]
 
-The player guides Arthur through a series of diverse locations beginning in England. The quest first takes Arthur to Glastonbury Tor, where he encounters a mad monk and must navigate the mysteries of the ancient site.[^ref-8] The Lake of the Moor presents encounters with supernatural entities including the Lady of the Lake and the goddess of ice, requiring Arthur to demonstrate both physical courage and spiritual wisdom.[^ref-9] The Southampton docks serve as the departure point for the longer journey ahead, where Arthur must secure passage on a ship bound for the Holy Land.[^ref-10]
+The player guides Arthur through a series of diverse locations beginning in England. The quest first takes Arthur to Glastonbury Tor, where he encounters a mad monk who serves the "Old Ones" and claims to have the Grail.[^ref-1] At Ot Moor, the Lady of the Lake, frozen by the curse, challenges Arthur to a riddle in order to rescue the imprisoned Launcelot.[^ref-1] The Southampton docks serve as the departure point for the longer journey ahead, where Arthur must secure passage on a ship bound for the Holy Land.[^ref-10]
 
 Arthur's quest eventually leads him across Europe to Gaza and through the treacherous desert toward Jerusalem.[^ref-3] The Holy Land sections involve navigating the bazaars of Jerusalem, exploring ancient catacombs beneath the city, and ultimately reaching the Temple of Aphrodite where the Grail is hidden.[^ref-9] Throughout his journey, Arthur encounters the fates of his missing knights and must make moral choices that affect both his scoring and the ultimate outcome of his quest.[^ref-11] The game presents an alternate historical reality where pagan deities genuinely existed but were gradually overshadowed by Christian worship, creating a world where faith and myth intertwine.[^ref-3]
 
@@ -63,11 +63,11 @@ The game notably uses lesser-known historical spellings for character names and 
 The game progresses through a series of distinct geographical areas, each presenting unique challenges and story elements:
 
 - **Camelot Castle:** The opening area where Arthur gathers supplies and information before departing on his quest[^ref-9]
-- **Glastonbury Tor:** An ancient site featuring encounters with a mad monk and connections to pagan Britain[^ref-8]
-- **Lake of the Moor:** Supernatural encounters including the Lady of the Lake and an ice maiden[^ref-9]
+- **Glastonbury Tor:** An ancient site featuring encounters with a mad monk and connections to pagan Britain[^ref-1][^ref-4]
+- **Ot Moor:** A frozen lake where the Lady of the Lake, turned to ice by the curse, holds Launcelot captive[^ref-1][^ref-16]
 - **Southampton Docks:** Departure point requiring securing passage to the Holy Land[^ref-10]
 - **Gaza:** The port of arrival in the Middle East[^ref-9]
-- **The Desert:** A dangerous crossing featuring wildlife encounters and hallucinations[^ref-9]
+- **The Desert:** A crossing made with a hired guide, including an oasis whose water should not be drunk[^ref-9]
 - **Jerusalem:** Including the bazaar, back alleys, and religious sites[^ref-9]
 - **The Catacombs:** Underground passages beneath Jerusalem[^ref-9]
 - **Temple of Aphrodite:** The final location housing the Grail[^ref-9]
@@ -84,11 +84,11 @@ Action sequences punctuate the adventure gameplay, including jousting tournament
 
 ### Contemporary Reviews
 
-*Conquests of Camelot* received strong reviews upon release, with critics praising its sophisticated approach to Arthurian mythology and polished presentation. Theo Clarke of *Games International* awarded the game 9/10 for both gameplay and graphics in the July 1990 issue, noting that "Conquests of Camelot has a delicacy that is unusual in this field. There is little overt humour but a gentle wit pervades the game."[^ref-1] Clarke further described it as "a refreshing, challenging adventure game which should appeal strongly to those with a taste for medieval romance."[^ref-1]
+*Conquests of Camelot* received generally positive reviews upon release.[^ref-30] Theo Clarke of *Games International* awarded the game 9/10 for both gameplay and graphics in the July 1990 issue, noting that "Conquests of Camelot has a delicacy that is unusual in this field. There is little overt humour but a gentle wit pervades the game."[^ref-1] Clarke further described it as "a refreshing, challenging adventure game which should appeal strongly to those with a taste for medieval romance."[^ref-1]
 
-*Dragon* magazine's August 1990 review by Hartley, Patricia and Kirk Lesser gave the game 4½ out of 5 stars, calling it "a beautifully crafted animated adventure. Sierra, long recognized as a leader in the animated adventure market, continues to lead the way with offerings such as this colorful journey to the time of King Arthur."[^ref-1] The reviewers concluded emphatically: "Conquests of Camelot is yet another 'must buy' from the talented folk at Sierra."[^ref-1]
+*Dragon* magazine's August 1990 review by Hartley, Patricia and Kirk Lesser gave the game 4½ out of 5 stars, calling it "a beautifully crafted animated adventure. Sierra, long recognized as a leader in the animated adventure market, continues to lead the way with offerings such as this colorful journey to the time of King Arthur."[^ref-1] The reviewers concluded emphatically: "Conquests of Camelot is yet another 'must buy' from the talented folk at Sierra."[^ref-1] Not every review was favorable: in the July–August 1990 *Computer Gaming World*, Scorpia judged the EGA graphics inferior to those of previous Sierra games and did not recommend the game to experienced adventurers because of the low difficulty of its puzzles.[^ref-1]
 
-Reviewers particularly appreciated the game's "refreshing medieval setting and its almost cinematic quality," though some felt it was "too easy when compared to previous Sierra titles."[^ref-5] The AmigaLove review noted that the game "was pretty unique in that it took the legends and tried quite hard to stick to them as 'historically accurate' as possible, without straying too far into pure fantasy."[^ref-17]
+Reviewers particularly appreciated the game's "refreshing medieval setting and its almost cinematic quality," though some felt it was "too easy when compared to previous Sierra titles."[^ref-30] The AmigaLove review noted that the game "was pretty unique in that it took the legends and tried quite hard to stick to them as 'historically accurate' as possible, without straying too far into pure fantasy."[^ref-17]
 
 ### Modern Assessment
 
@@ -114,11 +114,11 @@ Steve Wilkins of Lemon Amiga gave the game 9/10 overall in a December 2019 retro
 
 *Conquests of Camelot* originated from Christy Marx's desire to create an adventure game that would treat Arthurian legend with greater depth and historical authenticity than previous depictions. As she explained: "Rather than adhere slavishly (and boringly) to specific stories, I drew upon the essence of the Arthurian legends and other mythologies to create a blend which I think will challenge you and entertain you at the same time."[^ref-2] The game was developed during a period when Sierra was expanding its library of adventure titles beyond the established King's Quest and Space Quest franchises.
 
-Marx brought her background in television writing to the project, having previously scripted episodes of major animated series. Her experience in creating serialized narratives translated well to the adventure game format, allowing her to weave complex storylines with historical and mythological research.[^ref-2] The collaboration with Peter Ledger, her husband at the time, created a unified artistic vision where the writing and visual design complemented each other throughout development.[^ref-2]
+Marx brought her background in television writing to the project, having previously scripted episodes of major animated series. Her experience in creating serialized narratives translated well to the adventure game format, allowing her to weave complex storylines with historical and mythological research.[^ref-2] The collaboration with Peter Ledger, her husband, created a unified artistic vision where the writing and visual design complemented each other throughout development.[^ref-2]
 
 ### Production
 
-The development team structure placed Marx in charge of writing and structural design while Ledger handled visual design and illustrations.[^ref-1] The programming team was led by David Slayback, with assistance from Robert Fischbach, Doug Oldfield, Jerry Shaw, and Eric Hart.[^ref-2] Additional animators on the project included Douglas Herring, Kenn Nishiuye, Andy Horos, and Jennifer Shontz.[^ref-2]
+The development team structure placed Marx in charge of writing and structural design while Ledger handled visual design and illustrations.[^ref-1] The programming team was led by David Slayback, with assistance from Robert Fischbach, Doug Oldfield, Jerry Shaw, and Eric Hart.[^ref-2] Additional animators on the project included Douglas Herring, Kenn Nishiuye, Andy Hoyos, and Jennifer Shontz.[^ref-31]
 
 The game underwent significant revision between its demonstration version shown in Sierra's 1989 video catalog and the final release. Early versions featured notable differences including a cyan-colored parser input text box and different graphical elements such as swastika corner symbols on the dock screen (later removed).[^ref-23] The original working title was "King Arthur and the Search for the Grail," which changed to "Conquest of Camelot" (without the 's') before settling on the final title.[^ref-23] The original era setting was 900 AD, later changed to 800 AD in the final version.[^ref-23]
 
@@ -127,15 +127,15 @@ The game underwent significant revision between its demonstration version shown 
 - **Visual Designer:** Peter Ledger
 - **Lead Programmer:** David Slayback
 - **Programmers:** Robert Fischbach, Doug Oldfield, Jerry Shaw, Eric Hart
-- **Animators:** Douglas Herring, Kenn Nishiuye, Andy Horos, Jennifer Shontz
+- **Animators:** Douglas Herring, Kenn Nishiuye, Andy Hoyos, Jennifer Shontz[^ref-31]
 - **Composer:** [[Mark Seibert]]
 - **Producer:** [[Guruka Singh Khalsa]]
 
 ### Technical Achievements
 
-*Conquests of Camelot* utilized Sierra's Creative Interpreter (SCI) engine, specifically the SCI0 version which had replaced the older AGI engine in the late 1980s.[^ref-6] The game supported multiple video modes including Hercules, CGA, MCGA, EGA, Tandy/PCjr, and VGA, making it accessible across a wide range of IBM PC compatibles.[^ref-6] The Amiga and Atari ST versions were ports of the DOS original, with the Amiga version described as "a rough 16-color rip from DOS EGA graphics. To that end, they are quite detailed, but exceptionally blocky and a bit garish."[^ref-17]
+*Conquests of Camelot* utilized Sierra's Creative Interpreter (SCI) engine, specifically the SCI0 version.[^ref-6] SCI had replaced the older Adventure Game Interpreter (AGI) engine in the late 1980s.[^ref-30] The game supported multiple video modes including Hercules, CGA, MCGA, EGA, Tandy/PCjr, and VGA, making it accessible across a wide range of IBM PC compatibles.[^ref-6] The Amiga and Atari ST versions were ports of the DOS original, with the Amiga version described as "a rough 16-color rip from DOS EGA graphics. To that end, they are quite detailed, but exceptionally blocky and a bit garish."[^ref-17]
 
-The music by Mark Seibert drew on his background in early music studies. As he noted in the Sierra Soundtrack Collection liner notes: "I enjoyed writing the music for this game. At school, I spend much of my time studying early music, since I was a guitar major."[^ref-24] The soundtrack was composed for Roland MT-32 sound module with additional support for other MIDI devices. Seibert recalled: "Much of the music for the opening and other sections of this game were written while I was out playing golf."[^ref-24] He also noted: "Glastonbury Tor was one of my favorite places in the game. The music and pictures were kind of strangely peaceful."[^ref-24]
+The music by Mark Seibert drew on his background in early music studies. As he noted in the Sierra Soundtrack Collection liner notes: "I enjoyed writing the music for this game. At school, I spend much of my time studying early music, since I was a guitar major."[^ref-24] The DOS version supports the Roland MT-32 alongside AdLib and other sound devices.[^ref-11] Seibert recalled: "Much of the music for the opening and other sections of this game were written while I was out playing golf."[^ref-24] He also noted: "Glastonbury Tor was one of my favorite places in the game. The music and pictures were kind of strangely peaceful."[^ref-24]
 
 ### Technical Specifications
 
@@ -143,13 +143,13 @@ The music by Mark Seibert drew on his background in early music studies. As he n
 - **Minimum Requirements:** MS-DOS 2.0, Intel 8088, 512 KB RAM
 - **Recommended:** MS-DOS 6.22, Intel 8086, 640 KB RAM
 - **Video:** Hercules, CGA, MCGA, EGA, Tandy/PCjr, VGA supported
-- **Audio:** Roland MT-32, Sound Blaster, Ad Lib
-- **Media:** 3.5" Floppy Disk, 5.25" Floppy Disk
+- **Audio:** Roland MT-32, AdLib, Game Blaster (CMS), IBM Music Feature Card, Tandy/PCjr, PC speaker[^ref-11]
+- **Media:** 3.5" Floppy Disk, 5.25" Floppy Disk[^ref-11]
 
-**Amiga Version:**[^ref-17]
-- **Disks:** 6 floppy disks
-- **Colors:** 16-color EGA palette
-- **Note:** Performs poorly without accelerator hardware; recommended with 68020/68030 processor and hard drive
+**Amiga Version:**
+- **Disks:** 6 floppy disks[^ref-16]
+- **Colors:** 16-color graphics converted from the DOS EGA version[^ref-17]
+- **Note:** Performs poorly without accelerator hardware; recommended with 68020/68030 processor and hard drive[^ref-16]
 
 **Windows (ScummVM) Version:**[^ref-6]
 - **OS:** Windows 7/8/10
@@ -166,20 +166,20 @@ The development process resulted in various graphical elements being redrawn bet
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | January 1990 | MS-DOS, Amiga, Atari ST | Initial release[^ref-1] |
+| 1.0 | 1990 (sources differ: March per Wikipedia, January per Choicest Games) | MS-DOS | Initial release; Amiga and Atari ST versions also released[^ref-1][^ref-30] |
 | 1.001 | 1990 | MS-DOS | Updated version[^ref-4] |
 | ScummVM Release | May 4, 2017 | Windows | Modern compatibility through Activision/GOG[^ref-6] |
 
-**SCI Interpreter Versions:**[^ref-6]
+**SCI Interpreter Versions:**[^ref-4][^ref-6]
 
 | Game Version | Interpreter | Type | Notes |
 |--------------|-------------|------|-------|
 | 1.0 | SCI0 | Early SCI | Initial release |
-| 1.001 | SCI0 | Early SCI | Bug fixes |
+| 1.001 | SCI0 | Early SCI | Updated release |
 
 ### Technical Issues
 
-The Amiga version suffered from performance issues on standard hardware. As Lemon Amiga reviewer Steve Wilkins noted: "you should run the program on an enhanced Amiga including a hard drive and a 68020/68030 processor (or use 'WinUAE'). Provided that you play the adventure with the right performance, a score of 9 seems to me justified. However, without HD and a fast processor/turbo board 'Conquests of Camelot' cannot unfold its full potential and two points hence should be substracted."[^ref-16] The jousting sequences were "extremely slow on standard Amiga without turbo board."[^ref-16]
+The Amiga version suffered from performance issues on standard hardware. As Lemon Amiga reviewer Steve Wilkins noted: "you should run the program on an enhanced Amiga including a hard drive and a 68020/68030 processor (or use 'WinUAE'). Provided that you play the adventure with the right performance, a score of 9 seems to me justified. However, without HD and a fast processor/turbo board 'Conquests of Camelot' cannot unfold its full potential and two points hence should be substracted."[^ref-16] Wilkins also found the 3D jousting duel with the Black Knight especially troublesome on a standard Amiga without a turbo board: "this '3D' section is amazingly slow; actually it's almost unplayable."[^ref-16]
 
 A rare "Out of heap" error has been documented, requiring a save game workaround.[^ref-4] Additionally, a bug makes it impossible to fully maximize Skill points according to some analyses—the game lists a possible total of 368 skill points, but the hint book stated this is incorrect and the max is 362, though walkthroughs have achieved 367.[^ref-9]
 
@@ -187,24 +187,24 @@ A rare "Out of heap" error has been documented, requiring a save game workaround
 
 The game contains numerous hidden references and Easter eggs, many paying tribute to Monty Python's *Holy Grail*:
 
-- **Monty Python Treasury Dance:** Type "HAM AND JAM AND SPAM A LOT" (case sensitive) in the treasury room, and three soldiers will appear dancing to a cheerful tune. The sequence concludes with the text "In memory of Graham Chapman," honoring the Monty Python member who died on October 4, 1989.[^ref-8]
+- **Monty Python Treasury Dance:** Type "HAM AND JAM AND SPAM A LOT" in the treasury room, and three soldiers will appear dancing to a cheerful tune. The sequence concludes with the text "In memory of Graham Chapman," honoring the Monty Python member who died on October 4, 1989.[^ref-8]
 - **"Watery Tart" Reference:** Queen Gwenhyver refers to the Lady of the Lake as "The Watery Tart," directly quoting the famous Monty Python and the Holy Grail line: "You can't expect to wield some supreme executive power, just because some watery tart threw a sword at you."[^ref-8]
-- **Latin Graffiti:** On a wall in the dirty alley in Jerusalem, Latin text reads "PRO BONUM TEMPUS APPELA BERTA" (for a good time, call Berta), possibly referencing Roberta Williams. When examined, the game message states: "Let us simply say that it is someone's crude idea of a joke."[^ref-20]
+- **Latin Graffiti:** On a wall in the dirty alley in Jerusalem, Latin text reads "PRO BONUM TEMPUS APPELA BERTA" (for a good time, call Berta), possibly referencing Roberta Williams.[^ref-8] When examined, the game message states: "Let us simply say that it is someone's crude idea of a joke."[^ref-20]
 - **Designer Names in Greek:** At Southampton dock, typing "LOOK NAME" reveals "It is Greek for Kristi," and "LOOK KRISTI" shows "Peter loves Christie and Christie loves Peter," referencing designers Christy Marx and Peter Ledger.[^ref-8]
-- **A sign in Jerusalem reads "LEDGER" in Greek letters, honoring illustrator Peter Ledger.[^ref-11]
+- **Ledger Sign:** A sign in Jerusalem reads "LEDGER" in Greek letters, honoring illustrator Peter Ledger.[^ref-11]
 - **Producer Reference:** At Ismael's antiquities shop, a man claims to have "hairs from the beard of Guruka Singh" and mentions "the difficulty of shaving a Sikh," referencing producer Guruka Singh Khalsa.[^ref-8]
 - **Roland MT-32 Messages:** The Roland MT-32 displays messages including "Conquest of Camelot" and "(It's Only A Model)"—another Monty Python reference. When quitting the game, it displays "HAM&JAM&SPAMALOT."[^ref-11]
 - **Hidden Runes:** The runes in the game actually contain the words "Stormbringer," "death is all," and "beware cursed is the wielder Thor" rather than the official translation about five stone poets.[^ref-11]
 
 ### Multiple Endings
 
-The game features multiple endings based on Arthur's accumulated scores in the three categories of Skill, Wisdom, and Soul.[^ref-11] The moral choices Arthur makes throughout the game—including whether to show mercy to defeated enemies or kill them—affect the Soul score and influence the final judgment.[^ref-10] Higher scores in all three categories lead to more favorable endings, while deficiencies in any area can result in Arthur facing negative consequences despite completing the quest.
+The player needs to score in all three categories (Skill, Wisdom, and Soul) to obtain the Grail and win the game.[^ref-9] The moral choices Arthur makes throughout the game—including whether to show mercy to defeated enemies or kill them—affect the Soul score,[^ref-10] and failure to achieve a high Soul score leads to a bad ending.[^ref-11]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-While specific sales figures are not documented in available sources, *Conquests of Camelot* was considered a commercial success that warranted a follow-up title. The game was eventually republished by Activision through digital distribution platforms, making it available to modern audiences through GOG.com.[^ref-5]
+Specific sales figures are not documented in available sources. The game was eventually republished by Activision through digital distribution platforms, making it available to modern audiences through GOG.com.[^ref-5]
 
 ### Collections
 
@@ -214,7 +214,7 @@ The game has been included in various compilations over the years:
 
 ### Fan Projects
 
-Fan communities have maintained interest in the game through resources like Quest Studios, which created enhanced digital soundtrack recordings "from the original Roland MT-32 score with Sound Canvas and Yamaha XG enhancements" exclusively for members in spring 2006.[^ref-27] Sierra Music Central has preserved and catalogued the game's music as part of their broader effort to document Sierra soundtracks.[^ref-28]
+Fan communities have maintained interest in the game through resources like Quest Studios, which created enhanced digital soundtrack recordings "from the original Roland MT-32 score with Sound Canvas and Yamaha XG enhancements" exclusively for members in spring 2006.[^ref-27] Sierra Music Central lists one track from the game, "The Ice Maiden," as part of its broader catalogue of Sierra soundtracks.[^ref-28]
 
 The speedrunning community has embraced the game, with the current Any% world record standing at 10 minutes 50 seconds and the 100% record at 17 minutes 32 seconds, both held by player SantaClaus.[^ref-29]
 
@@ -243,8 +243,8 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 
 ## See Also
 
-- **Series:** [[1990 - Conquests of Camelot - The Search for the Grail|Conquests Series]]
-- **Nes of the Longbow]] (1991)
+- **Series:** [[Conquests Series]]
+- **Sequel:** [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]] (1991)
 - **Creator:** [[Christy Marx]] (designer/writer)
 - **Technology:** [[Sierra On-Line]], [[Sierra Creative Interpreter]]
 - **Related Adventure Games:** [[King's Quest Series]] (medieval fantasy), [[Quest for Glory Series]] (adventure-RPG hybrid)
@@ -278,6 +278,5 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 [^ref-27]: [Quest Studios – Digital Soundtracks](https://www.midimusicadventures.com/queststudios/digital-soundtracks/camelot/) – fan soundtrack project
 [^ref-28]: [Sierra Music Central](http://www.sierramusiccentral.com/camelot.html) – music preservation
 [^ref-29]: [Speedrun.com](https://www.speedrun.com/conquests_of_camelot_the_search_for_the_grail) – speedrun records
-[^ref-30]: [Choicest Games](https://www.choicestgames.com/2020/12/conquests-of-camelot-search-for-grail.html) – EGA graphics, Monty Python references
-[^ref-31]: [Conquests Fandom Wiki](https://conquests.fandom.com/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – platforms, version info, bug documentation
-[^ref-32]: [Speedrun Wiki](https://www.speedrunwiki.com/w/index.php?title=Conquests_of_Camelot:_The_Search_For_The_Grail&mobileaction=toggle_view_desktop) – speedrun categories, statistics
+[^ref-30]: [Choicest Games](https://www.choicestgames.com/2020/12/conquests-of-camelot-search-for-grail.html) – Marx and Ledger backgrounds, reception summary, SCI/AGI context, January 1990 release date
+[^ref-31]: [Conquests Fandom Wiki](https://conquests.fandom.com/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – platforms, version info, full credits
