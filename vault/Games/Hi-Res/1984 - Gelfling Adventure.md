@@ -2,17 +2,18 @@
 title: Gelfling Adventure
 release_year: 1984
 developer: Sierra On-Line
-designer: [Al Lowe]
+designer: [Al Lowe, Michael MacChesney, Rae Lynn MacChesney]
 publisher: Sierra On-Line
 genre: Adventure
 platforms: [Apple II]
 series: Hi-Res Adventures
-engine: Custom (Al Lowe's menu interpreter)
+engine: Custom (Al Lowe's interpreter)
 protagonist: Jen
 sierra_lineage: Core Sierra
 last_updated: '2026-10-09'
-description: Gelfling Adventure is an adventure game developed and published by Sierra
-  On-Line in 1984 for the Apple II. Designed and programmed by Al Lowe, the game is...
+description: Gelfling Adventure is a 1984 Apple II children's adventure from Sierra
+  On-Line, a simplified, multiple-choice version of Hi-Res Adventure #6 The Dark Crystal
+  programmed by Al Lowe with text by Michael and Rae Lynn MacChesney.
 tags: [1980s, adventure, al-lowe, hi-res-adventures, sierra]
 ---
 # Gelfling Adventure
@@ -21,131 +22,110 @@ tags: [1980s, adventure, al-lowe, hi-res-adventures, sierra]
 
 ## Overview
 
-Gelfling Adventure is an adventure game developed and published by Sierra On-Line in 1984 for the Apple II.[^ref-1] Designed and programmed by Al Lowe, the game is a simplified version of Hi-Res Adventure #6: The Dark Crystal, intended specifically for younger players.[^ref-2] Rather than requiring players to type text commands, Gelfling Adventure uses a menu-driven multiple choice interface that allows children to select actions from a list of options.[^ref-3]
+Gelfling Adventure is an adventure game published by Sierra On-Line in 1984 for the Apple II.[^ref-1] It is a simplified version of Hi-Res Adventure #6: The Dark Crystal, intended for younger players,[^ref-2][^ref-6] and was produced by Sierra "in conjunction with Henson Associates and Christopher Cerf Associates."[^ref-22] Al Lowe programmed it; the text and educational concepts were written by Michael MacChesney and Rae Lynn MacChesney.[^ref-22][^ref-7]
 
-The game shares the same graphics and storyline as The Dark Crystal but features simplified puzzles and a more accessible interface.[^ref-2] Al Lowe created the game using a custom interpreter he had developed, describing it as "multiple choice questions for little kids."[^ref-3] This interface approach was notably innovative for its time, predating and arguably influencing the point-and-click adventure genre that would later flourish.[^ref-4]
+Rather than requiring players to type text commands, Gelfling Adventure uses a multiple-choice interface: "The entire game is controlled with the space bar and return key," and players do not need to know how to type.[^ref-22] The game reuses The Dark Crystal's graphics and storyline with simpler, menu-oriented puzzles and options.[^ref-1] Lowe built it with an interpreter he had already written for his earlier games, describing the result as "multiple choice questions for little kids."[^ref-3]
 
-Gelfling Adventure is considered extremely rare today, with very few copies known to exist.[^ref-5] The game represents an important early experiment in making adventure games accessible to younger audiences.[^ref-9][^ref-10]
+The Museum of Computer Adventure Game History calls it "one of the rarest Sierra On-Line games ever produced, presumably due to low sales."[^ref-23]
 
 > [!info]- Game Info
-> **Developer:** [[Sierra On-Line]][^ref-1]
-> **Designer:** [[Al Lowe]][^ref-2]
+> **Developer:** [[Sierra On-Line]] (with Henson Associates and Christopher Cerf Associates)[^ref-22]
+> **Designer:** Programmed by [[Al Lowe]]; text and educational concepts by Michael MacChesney and Rae Lynn MacChesney[^ref-22]
 > **Publisher:** Sierra On-Line[^ref-1]
-> **Engine:** Custom menu interpreter by Al Lowe[^ref-3]
+> **Engine:** Al Lowe's own adventure interpreter[^ref-3]
 > **Platforms:** Apple II[^ref-1]
 > **Release Year:** 1984[^ref-2]
 > **Series:** Hi-Res Adventures (companion to #6)[^ref-6]
-> **Protagonist:** Jen the Gelfling[^ref-6]
+> **Protagonist:** Jen the Gelfling[^ref-22]
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-Gelfling Adventure is based on Jim Henson's 1982 fantasy film The Dark Crystal, sharing the same narrative as Sierra's earlier Hi-Res Adventure #6.[^ref-6] The story is set in Thra, a distant world illuminated by three suns that periodically align in an event known as "The Great Conjunction."[^ref-6]
+Gelfling Adventure is an interactive story based on Jim Henson's fantasy film The Dark Crystal, sharing its narrative with Sierra's earlier Hi-Res Adventure #6.[^ref-22][^ref-1] The Dark Crystal is set in Thra, a world with three suns that come together in an event known as "The Great Conjunction."[^ref-6]
 
-Players control Jen, believed to be the last survivor of the Gelflings, a gentle race of beings.[^ref-6] Jen was raised by the wise Mystics after his clan was destroyed by the cruel Skeksis, who rule the land through the power of the corrupted Dark Crystal.[^ref-6] An ancient prophecy foretells that a Gelfling will end the Skeksis' reign by healing the Crystal before the next Great Conjunction.[^ref-6]
-
-The player must guide Jen on his quest to find the missing shard of the Dark Crystal and restore it to wholeness, thereby breaking the Skeksis' power and restoring balance to the world of Thra.[^ref-6] Along the way, Jen encounters various characters from the film, including Aughra the wise seer and Kira, a female Gelfling who joins his quest.[^ref-7]
+Players guide Jen, "last known survivor of the Gelfling race," on a journey to mend the broken Dark Crystal.[^ref-22] Only by finding the missing crystal shard and restoring it can Jen overthrow the Skeksis, "the evil tribe that has gained control of Jen's planet," while outwitting their cruel servants, the Garthim.[^ref-22] The manual's "Gelfling Glossary" introduces the characters Jen meets, including Ursu, one of the Old Ones and Jen's teacher; Aughra, "one of the wisest creatures"; the Pod People; and Kira, a Gelfling girl.[^ref-22]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Gelfling Adventure's most distinctive feature is its menu-driven interface, which replaced the text parser used in The Dark Crystal.[^ref-2] Instead of typing commands like "LOOK" or "TAKE SHARD," players select their actions from a list of multiple choice options presented on screen.[^ref-3] This made the game accessible to younger children who might struggle with spelling or the vocabulary required by traditional text adventures.[^ref-3]
-
-Al Lowe developed this interface using a custom interpreter he had built, which he later refined for other children's titles.[^ref-3] The system was considered innovative for its era, with some historians noting it as "basically a rougher version of what Lucasfilm Games will create for Labyrinth and will later evolve into the SCUMM system."[^ref-4]
+Gelfling Adventure's most distinctive feature is its multiple-choice interface, which replaces the text parser used in The Dark Crystal.[^ref-24] "All the instructions needed for the game appear on the disk itself, and adventurers don't have to know how to type in order to play. The entire game is controlled with the space bar and return key."[^ref-22] Hardcore Gaming 101 describes the result as a "Choose Your Own Adventure" experience,[^ref-24] and the Museum of Computer Adventure Game History likewise calls it "more like a Choose Your Own Adventure than a Text Adventure."[^ref-23]
 
 ### Structure and Progression
 
-The game follows a linear structure appropriate for its young target audience, guiding players through the major story beats of The Dark Crystal film.[^ref-2] Puzzles are simplified compared to the original Hi-Res Adventure version, with fewer options and more straightforward solutions.[^ref-2]
+The manual pitches the game at children who can read "at the fourth grade level," stating that no help or supervision should be needed.[^ref-22] It is designed to build vocabulary and to practise reading-comprehension skills such as "identifying details, making inferences, predicting outcomes, and drawing conclusions," along with mapping and glossary use.[^ref-22] One example given: Jen cannot defeat the Garthim unless he takes along some pebbles, although the game never states their importance outright.[^ref-22]
 
-The game uses the same graphics as Hi-Res Adventure #6: The Dark Crystal, which were originally created by Jim Mahon.[^ref-6] These illustrations depict scenes from Jen's journey across Thra, from the Valley of the Mystics to the Skeksis' castle.[^ref-6]
+The game uses the same graphics as Hi-Res Adventure #6: The Dark Crystal; Lowe recalled that "we didn't have to redraw their pictures."[^ref-3] The manual credits graphics director Jim Mahon and graphic artists Carl Potts, Michelle Prichard and Greg Rowland.[^ref-22]
 
-### Puzzles and Mechanics
+### Package Contents
 
-As a children's adventure game, Gelfling Adventure features puzzles designed to be solvable by younger players without frustration.[^ref-2] The multiple choice format ensures that players always have a clear set of available actions, eliminating the "guess the verb" problem common to text adventures of the era.[^ref-3]
-
-The simplified approach made adventure gaming accessible to a new audience while maintaining the atmospheric storytelling of The Dark Crystal.[^ref-4]
+The package contained one 5¼" floppy disk, a booklet and a fold-out poster.[^ref-1] The manual describes the extras as a "Gelfling Glossary" (an illustrated lexicon of terms in the game), "a large poster map of the faraway world of the Dark Crystal," and a compass decal to place on the monitor as a "direction guide."[^ref-22] The museum's copy is a clamshell package filed under Sierra's Educational Series.[^ref-23]
 
 ## Reception
 
 ### Contemporary Reviews
 
-As a children's title with limited distribution, Gelfling Adventure received less critical attention than its parent game, Hi-Res Adventure #6: The Dark Crystal.[^ref-6] The Dark Crystal itself had been praised by Softline magazine as better than the film, with "delightful" graphics, and received a Certificate of Merit for "1984 Best Computer Adventure" at the 5th annual Arkie Awards.[^ref-6]
+No contemporary review of Gelfling Adventure itself was found in the sources consulted. Its parent game, Hi-Res Adventure #6: The Dark Crystal, was rated by Softline as better than the film, with "delightful" graphics, and received a Certificate of Merit for "1984 Best Computer Adventure" at the 5th annual Arkie Awards.[^ref-2]
 
 ### Modern Assessment
 
-Today, Gelfling Adventure is recognized primarily for its historical significance as an early attempt to make adventure games accessible to children.[^ref-4] The game's menu-driven interface is considered an important precursor to later point-and-click adventure systems.[^ref-4]
-
-**Aggregate Scores:**
-- **Collector rarity:** 5/5 tier — very few known surviving copies outside Al Lowe's personal collection[^ref-5]
-- **Historical-importance assessment:** 100% canonical positioning as precursor to later point-and-click adventures (per modern Adventure Gamers and IF-archive analysis)[^ref-1][^ref-4]
-- **Parent-title carryover:** Hi-Res Adventure #6: The Dark Crystal received a 1984 Arkie Award Certificate of Merit and Softline "better than the film" assessment — narrative inherited by Gelfling Adventure[^ref-6]
-- **No critic-side numeric score** (the game's extreme rarity and children's-market positioning meant minimal contemporary review coverage)[^ref-5]
+Hardcore Gaming 101 notes that its main difference from The Dark Crystal is "stripping away the text parser," but adds: "Considering how easy the normal version of the game is to begin with, Gelfling Adventure seems superfluous."[^ref-24]
 
 **Database Listings:**
 - **Adventure Gamers:** Listed in database[^ref-1]
-- **MobyGames:** Referenced as alternate version of The Dark Crystal[^ref-7]
-- **IFWizz:** Listed as 1984 multiple choice text adventure[^ref-4]
-
-The game is considered extremely rare in the collector market, with very few copies known to exist outside of Al Lowe's personal collection.[^ref-5] This scarcity has prevented meaningful aggregate review data from being compiled.
+- **MobyGames:** Listed as an alternate title of The Dark Crystal, "Gelfling Adventure: a Junior Adventure Game for Ages 9 & Up"[^ref-7]
+- **IFWizz:** Listed as a 1984 multiple choice text adventure with graphics[^ref-4]
+- **LaunchBox Games Database:** Listed as an Apple II release[^ref-26]
 
 ## Development
 
 ### Origins
 
-Gelfling Adventure originated from Sierra's desire to make their adventure game catalog accessible to younger players.[^ref-2] Following the success of Hi-Res Adventure #6: The Dark Crystal (1983), which was designed by Roberta Williams, Sierra tasked Al Lowe with creating a simplified version for children.[^ref-2]
+Gelfling Adventure followed Hi-Res Adventure #6: The Dark Crystal (1983), which was designed by Roberta Williams.[^ref-2] Sierra produced it "in conjunction with Henson Associates and Christopher Cerf Associates."[^ref-22]
 
-Al Lowe had joined Sierra in 1982 as employee number 20, and would go on to work at the company for 16 years designing, writing, programming, and coding music for games.[^ref-3] Gelfling Adventure was one of his early projects at the company, predating his more famous work on the Leisure Suit Larry series.[^ref-3]
+Al Lowe joined Sierra in 1982 as employee number 20, and he would spend 16 years there designing, writing, programming and coding music for games.[^ref-3] His earlier credits include Bop-A-Bet and Dragon's Keep (1982, Sunnyside Soft) and Troll's Tale (1983, Sierra On-Line), all of which predate his later Leisure Suit Larry series.[^ref-25]
 
 ### Production
 
-Al Lowe developed Gelfling Adventure using a custom interpreter he had built specifically for menu-driven children's games.[^ref-3] This interpreter would later be refined for other Sierra children's titles.[^ref-3] In an interview, Lowe explained: "It uses the same graphics as The Dark Crystal, we didn't have to redraw their pictures, but I made the game using that interpreter, that I was telling you about, that I built, so that it was multiple choice questions for little kids."[^ref-3]
+Lowe had built his own engine and database manager so that he could produce more than one adventure game; Troll's Tale, he said, "used the same engine."[^ref-3] He reused it for Gelfling Adventure: "It uses the same graphics as The Dark Crystal, we didn't have to redraw their pictures, but I made the game using that interpreter, that I was telling you about, that I built, so that it was multiple choice questions for little kids."[^ref-3]
 
-**Development Credits:**[^ref-2][^ref-3]
-- **Designer:** [[Al Lowe]]
-- **Original Game Design:** [[Roberta Williams]] (The Dark Crystal)
-- **Original Graphics:** Jim Mahon (The Dark Crystal)
-
-### Technical Achievements
-
-Gelfling Adventure represents an early attempt to make adventure gaming accessible to **children via a menu-driven multiple-choice interface**, replacing the parser-based text input of the parent Hi-Res Adventure #6 with point-selection mechanics — a documented precursor to the later point-and-click revolution[^ref-1][^ref-4]. The product was developed by **Al Lowe**, drawing on his pre-Larry educational-software background (Bop-A-Bet, WizMath, Mickey's Space Adventure, Winnie the Pooh) to produce a child-targeted simplification of Roberta Williams's original Dark Crystal design[^ref-2][^ref-5]. The release **reused The Dark Crystal's underlying graphics** (Jim Mahon's original work) and the Apple II Hi-Res rendering pipeline, demonstrating Sierra's asset-economy approach to children's-market spinoffs[^ref-1][^ref-7]. The game also represents an unusual **licensed-IP children's adventure** from 1984 — combining the Jim Henson Dark Crystal property with Sierra's adventure-game design pedigree[^ref-3][^ref-6].
+**Development Credits** (from the manual):[^ref-22][^ref-7]
+- **Based on a story by:** Jim Henson
+- **Programmed by:** [[Al Lowe]]
+- **Text and educational concepts by:** Michael MacChesney and Rae Lynn MacChesney
+- **Edited by:** Christopher Cerf, Louise Gikow and Sheila Kinney
+- **Graphics director:** Jim Mahon
+- **Graphic artists:** Carl Potts, Michelle Prichard and Greg Rowland
+- **Dark Crystal map:** Bruce McNally
+- **Title screens:** Christopher Cerf Associates
+- **Project manager for Henson Associates:** Sheila Kinney
+- **Project manager for Sierra On-Line:** Bonnie Mcleish
+- **Original game design (The Dark Crystal):** [[Roberta Williams]][^ref-2]
 
 ### Technical Specifications
 
-**Apple II Version:**[^ref-1][^ref-4]
+**Apple II Version:**[^ref-1][^ref-22]
 - **Platform:** Apple II
-- **Interface:** Menu-driven multiple choice
+- **Media:** One 5¼" floppy disk
+- **Interface:** Multiple choice, controlled with the space bar and return key
 - **Graphics:** Shared with Hi-Res Adventure #6
-
-### Version History
-
-| Version | Date | Platform | Notes |
-|---------|------|----------|-------|
-| 1.0 | 1984 | Apple II | Initial release[^ref-2] |
 
 ### Easter Eggs and Trivia
 
-- Gelfling Adventure is considered one of the rarest Sierra titles, with very few copies known to exist[^ref-5]
-- The menu interface predates the point-and-click adventure genre by several years[^ref-4]
-- Al Lowe's interpreter for this game was refined and used in subsequent Sierra children's titles[^ref-3]
-- The game shares all graphics with Hi-Res Adventure #6: The Dark Crystal[^ref-3]
-- Al Lowe would later become famous for creating the Leisure Suit Larry series[^ref-3]
+- MOCAGH calls it one of the rarest Sierra On-Line games ever produced[^ref-23]
+- In a 2018 video tour of his collection, Lowe produced his copy, and Metal Jesus called it "extremely rare"[^ref-3]
+- The game shares its graphics with Hi-Res Adventure #6: The Dark Crystal[^ref-3]
+- Al Lowe would later become famous for creating the Leisure Suit Larry series[^ref-25]
 
 ## Legacy
 
 ### Historical Significance
 
-Gelfling Adventure represents an important early experiment in making adventure games accessible to younger audiences.[^ref-4] The menu-driven interface Al Lowe developed was ahead of its time, anticipating the evolution away from text parsers that would define the adventure game genre's future.[^ref-4]
-
-The game's interface has been compared favorably to later innovations, with historians noting similarities to the system Lucasfilm Games would develop for Labyrinth (1986) and later refine into the SCUMM engine.[^ref-4]
+Gelfling Adventure was Sierra's adaptation of one of its own adventure games for younger players. It replaced typed commands with multiple-choice selections and was marketed with explicit reading-skill goals.[^ref-2][^ref-22]
 
 ### Collector's Market
 
-Gelfling Adventure is considered extremely rare in the collector market.[^ref-5] One seller noted that "the only other copy I've ever seen was the one Al Lowe himself sold a few years back."[^ref-5] Complete copies with original packaging command premium prices when they occasionally surface.[^ref-5]
-
-### Critical Perspective
-
-While overshadowed by its parent game and Al Lowe's later work, Gelfling Adventure deserves recognition for its innovative approach to children's gaming. The game demonstrated that adventure game narratives could be made accessible to younger players without completely abandoning the genre's storytelling strengths.
+Original copies are scarce: MOCAGH describes the game as "one of the rarest Sierra On-Line games ever produced, presumably due to low sales,"[^ref-23] and in a 2018 video Lowe's own boxed copy was presented as "extremely rare."[^ref-3]
 
 ## Purchase
 
@@ -161,14 +141,10 @@ While overshadowed by its parent game and Al Lowe's later work, Gelfling Adventu
 
 **Preservation / Emulation**
 - [Internet Archive - Gelfling Adventure](https://archive.org/details/GelflingAdventure4amCrack) - Playable via Apple IIe emulator[^ref-11]
+- [Gelfling Adventure manual (MOCAGH PDF)](https://mocagh.org/sierra/gelfling-manual.pdf)[^ref-22]
 - [Adventure Gamers Database](https://web.archive.org/web/20211117124624/https://adventuregamers.com/games/view/40982)[^ref-1]
-- [MobyGames - The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) - References Gelfling Adventure[^ref-7]
+- [MobyGames - The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) - Lists Gelfling Adventure as an alternate title[^ref-7]
 - [Sierra Gamers - Gelfling Adventure](https://www.sierragamers.com/gelfling-adventure/)[^ref-8]
-
-**Collector's Market**
-- Extremely rare; original copies occasionally appear on eBay[^ref-5]
-
-The game is documented in gaming databases and preservation archives.[^ref-12][^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21]
 
 ## See Also
 
@@ -186,24 +162,16 @@ The game is documented in gaming databases and preservation archives.[^ref-12][^
 
 ## References
 
-[^ref-1]: [Adventure Gamers - Gelfling Adventure](https://web.archive.org/web/20211117124624/https://adventuregamers.com/games/view/40982) - database listing, platform information
-[^ref-2]: [Wikipedia - The Dark Crystal (video game)](https://en.wikipedia.org/wiki/The_Dark_Crystal_(video_game)) - release year, designer, simplified version for younger players
-[^ref-3]: [Al Lowe interviews and articles](https://www.metaljesusrocks.com/tag/al-lowe/) - developer quotes, interpreter development, Sierra career history
-[^ref-4]: [IFWizz - Gelfling Adventure](https://ifwizz.de/gelfling-adventure-(1984-en).html) - 1984 release, multiple choice interface, historical significance
-[^ref-5]: [eBay - Gelfling Adventure listing](https://www.ebay.com/itm/266779426749) - rarity information, collector market
-[^ref-6]: [Sierra Wiki - The Dark Crystal](https://sierra.fandom.com/wiki/The_Dark_Crystal) - story details, original game information, awards
-[^ref-7]: [MobyGames - Hi-Res Adventure #6: The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) - credits, related games, platform information
+[^ref-1]: [Adventure Gamers - Gelfling Adventure](https://web.archive.org/web/20211117124624/https://adventuregamers.com/games/view/40982) - database listing, platform, package contents, menu-oriented simplified version
+[^ref-2]: [Wikipedia - The Dark Crystal (video game)](https://en.wikipedia.org/wiki/The_Dark_Crystal_(video_game)) - 1984 release for younger players; Dark Crystal designer, Softline and Arkie reception
+[^ref-3]: [Metal Jesus Rocks - Ex-Sierra Game Developer is selling Original Source Code!](https://www.metaljesusrocks.com/pc-games/ex-sierra-game-developer-is-selling-original-source-code-buy-a-piece-of-history/) - Al Lowe interview transcript: interpreter, Troll's Tale engine, Sierra career
+[^ref-4]: [IFWizz - Gelfling Adventure](https://ifwizz.de/gelfling-adventure-(1984-en).html) - 1984 multiple choice text adventure with graphics, shared Dark Crystal graphics
+[^ref-6]: [Sierra Wiki - The Dark Crystal](https://sierra.fandom.com/wiki/The_Dark_Crystal) - simplified version by Al Lowe for a younger audience; Thra setting
+[^ref-7]: [MobyGames - Hi-Res Adventure #6: The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) - Gelfling Adventure aka title and credits
 [^ref-8]: [Sierra Gamers - Gelfling Adventure](https://www.sierragamers.com/gelfling-adventure/) - Sierra catalog listing
-[^ref-9]: [Dark Crystal Fandom Wiki](https://darkcrystal.fandom.com/wiki/The_Dark_Crystal_(computer_game)) - film tie-in information
-[^ref-10]: [Muppet Wiki - The Dark Crystal (computer game)](https://muppet.fandom.com/wiki/The_Dark_Crystal_(computer_game)) - Jim Henson connection
-[^ref-11]: [Internet Archive - Gelfling Adventure](https://archive.org/details/GelflingAdventure4amCrack) - preserved Apple II disk image, playable via emulator
-[^ref-12]: [Giant Bomb - Gelfling Adventure](https://www.giantbomb.com/the-dark-crystal/) - Dark Crystal games
-[^ref-13]: [IGDB - Gelfling Adventure](https://www.igdb.com/games/gelfling-adventure) - IGDB entry
-[^ref-14]: [MobyGames - Sierra 1984](https://www.mobygames.com/company/sierra-on-line/) - Sierra catalog
-[^ref-15]: My Abandonware - Gelfling *(link removed: it led to a different game's page)* - preservation
-[^ref-16]: [GameFAQs - Gelfling](https://gamefaqs.gamespot.com/) - database
-[^ref-17]: [UVList - Gelfling](https://www.uvlist.net/) - Universal Videogame List
-[^ref-18]: [Internet Archive - Gelfling](https://archive.org/) - preservation
-[^ref-19]: [Apple II History](https://www.apple2history.org/) - historical context
-[^ref-20]: [Dark Crystal Wiki](https://darkcrystal.fandom.com/) - franchise information
-[^ref-21]: [Retro Games Archive](https://archive.org/details/software?query=gelfling) - preservation
+[^ref-11]: [Internet Archive - Gelfling Adventure](https://archive.org/details/GelflingAdventure4amCrack) - preserved Apple II disk image, playable via emulator; credits the MacChesneys as writers
+[^ref-22]: [MOCAGH - Gelfling Adventure manual (PDF)](https://mocagh.org/sierra/gelfling-manual.pdf) - credits, controls, reading level, educational goals, glossary, package contents
+[^ref-23]: [MOCAGH - Gelfling Adventure display case](https://mocagh.org/loadpage.php?getgame=gelfling) - rarity, Educational Series, clamshell packaging
+[^ref-24]: [Hardcore Gaming 101 - The Dark Crystal](https://www.hardcoregaming101.net/dark-crystal-the/) - Gelfling Adventure's parser-free "Choose Your Own Adventure" design
+[^ref-25]: [Wikipedia - Al Lowe](https://en.wikipedia.org/wiki/Al_Lowe) - credits list: Gelfling Adventure (programmer), Bop-A-Bet, Dragon's Keep, Troll's Tale
+[^ref-26]: [LaunchBox Games Database - Gelfling Adventure](https://gamesdb.launchbox-app.com/games/details/84957-gelfling-adventure) - Apple II database listing
