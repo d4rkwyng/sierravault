@@ -274,7 +274,7 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 [^ref-9]: [PCGamingWiki – Police Quest](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – engine info, system requirements, GOG release date
 [^ref-11]: [Police Quest Fandom Wiki – AGI DOS Version](https://policequest.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(AGI_DOS/Tandy)) – drug crisis plot, training publication quotes, first Sierra game without copy protection, "Crap", typing shortcuts
 [^ref-12]: [Walkthroughking – Police Quest](https://www.walkthroughking.com/text/policequest.aspx) – plot details, series overview
-[^ref-13]: [Nerds That Geek – Review](https://nerdsthatgeek.com/gaming/nerds-that-geek-game-review-police-quest-in-pursuit-of-the-death-angel) – emotional story elements
+[^ref-13]: Nerds That Geek – Review *(link removed: the site now carries gambling spam)* – emotional story elements
 [^ref-14]: Adventure Gamers – Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Death Angel investigation
 [^ref-15]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel/faqs/19345) – climax details
 [^ref-16]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – commercial availability, collection info

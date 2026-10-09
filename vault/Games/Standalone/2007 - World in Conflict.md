@@ -348,7 +348,7 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 [^ref-16]: [Eurogamer – World in Conflict Preview](https://www.eurogamer.net/news050406worldinconflict) – Magnus Jansén quotes on design philosophy
 [^ref-18]: [MobyGames – World in Conflict](https://www.mobygames.com/game/30129/world-in-conflict/) – awards, credits, 90% rating, technical specs
 [^ref-19]: [Massive Entertainment Official](https://www.massive.se/project/world-in-conflict/) – 20 campaign missions total
-[^ref-20]: [Nerds That Geek Retrospective](https://nerdsthatgeek.com/gaming/reflections-of-a-third-world-war-a-world-in-conflict-retrospective) – combined arms gameplay
+[^ref-20]: Nerds That Geek Retrospective *(link removed: the site now carries gambling spam)* – combined arms gameplay
 [^ref-36]: [Giant Bomb – World in Conflict Soviet Assault](https://www.giantbomb.com/world-in-conflict-soviet-assault/3030-20952/) – unit classes, game modes
 [^ref-22]: [IGN – World in Conflict Review](https://www.ign.com/articles/2007/09/08/world-in-conflict-review) – 9.3/10 score, Dan Adams quotes
 [^ref-23]: [PC Zone Magazine Review](https://archive.org) – 92/100 score, Suzy Wallace review

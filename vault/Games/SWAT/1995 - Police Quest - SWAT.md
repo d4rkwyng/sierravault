@@ -277,7 +277,7 @@ The title "truly did signal the end of the franchise" in terms of adventure gami
 [^ref-6]: [PCGamingWiki – Police Quest: SWAT](https://www.pcgamingwiki.com/wiki/Police_Quest:_SWAT) – engine version, system requirements, release dates, technical specifications
 [^ref-7]: [Computer Game Review (March 1996) via Wayback Machine](https://web.archive.org/web/19961019081500/http://www.nuke.com/cgr/reviews/9603/swat/swat.htm) – review scores, SVGA specifications, SWAT-Pup terminology
 [^ref-8]: [Police Quest: SWAT Manual (Archive.org)](https://archive.org/stream/Police_Quest_SWAT_-_Manual/Police_Quest_SWAT_-_Manual_djvu.txt) – gameplay instructions, tactical procedures, team concept philosophy
-[^ref-9]: [Nerds That Geek – Police Quest: SWAT Review](https://nerdsthatgeek.com/gaming/nerds-that-geek-game-review-police-quest-swat) – story criticism, FMV praise, franchise assessment
+[^ref-9]: Nerds That Geek – Police Quest: SWAT Review *(link removed: the site now carries gambling spam)* – story criticism, FMV praise, franchise assessment
 [^ref-10]: [Police Quest Omnipedia – Police Quest: SWAT](https://policequest.fandom.com/wiki/Police_Quest:_SWAT) – mission descriptions, training structure, multimedia explosion context
 [^ref-11]: [GOG.com Forum – Does Police Quest SWAT 1 Ever End?](https://www.gog.com/forum/police_quest_series/does_police_quest_swat_1_ever_end_might_contain_spoilers) – game structure, randomization, career paths
 [^ref-12]: [GameSpot – Police Quest: SWAT Review](https://www.gamespot.com/reviews/police-quest-swat-review/1900-2545886/) – Ron Dulin review, interface criticism, 3.7/10 score
