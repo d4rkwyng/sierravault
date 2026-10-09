@@ -10,7 +10,7 @@ series: Half-Life
 engine: Source
 protagonist: Gordon Freeman
 sierra_lineage: Sierra Published
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 composer: [Kelly Bailey]
 description: Half-Life 2 is a first-person shooter developed and published by Valve
   Corporation, released on November 16, 2004 for Windows PC. Representing one of the...
@@ -18,7 +18,7 @@ tags: [2000s, half-life, shooter, sierra]
 ---
 # Half-Life 2
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -360,7 +360,6 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 
 **Community Resources**
 - [Combine OverWiki](https://combineoverwiki.net/) - Comprehensive fan wiki
-- [HalfLife2.net](https://www.halflife2.net/) - Community forums
 - [Half-Life 2: Beta Archive](https://hl2-beta.ru/) - Preservation of development content
 
 ## See Also

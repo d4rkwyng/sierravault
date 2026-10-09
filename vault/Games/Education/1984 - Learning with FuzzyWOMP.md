@@ -10,14 +10,14 @@ series: Sierra Educational
 engine: 6502 Assembly
 protagonist: Fuzzywomp
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: Learning With Fuzzywomp is an educational software package developed
   and published by Sierra On-Line in 1984 for the Apple II computer. Designed...
 tags: [1980s, educational, sierra, sierra-educational]
 ---
 # Learning With Fuzzywomp
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -210,5 +210,5 @@ In the context of Sierra On-Line's history, Learning With Fuzzywomp demonstrates
 [^ref-11]: [Giant Bomb – International Releases](https://www.giantbomb.com/learning-with-fuzzywomp/3030-6933/releases/) – release information, platform details
 [^ref-12]: [MobyGames – Learning with Leeper](https://www.mobygames.com/game/56058/learning-with-leeper/) – predecessor game, Sierra educational software context
 [^ref-13]: [Azygram – Learning with FuzzyWOMP](https://azygram.com/games/d/learning-with-fuzzywomp-575087) – game database entry, metadata
-[^ref-14]: [RedKingsDream – Learning with Fuzzywomp](https://redkingsdream.com/) – educational skills analysis, family testing review
+[^ref-14]: RedKingsDream – Learning with Fuzzywomp *(link removed: the domain now serves gambling spam)* – educational skills analysis, family testing review
 [^ref-15]: [Vintage Sierra – Learning with Fuzzy Womp](https://web.archive.org/web/vintage-sierra.net/learning-with-fuzzy-womp/) – Sierra collector community documentation
