@@ -148,7 +148,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 
 ## References
 
-[^ref-3]: [Adventure Gamers Review](https://web.archive.org/web/20250613164919/https://adventuregamers.com/article/leisure-suit-larry-wet-dreams-dry-twice) – - Detailed review with 4.5/5 stars rating and gameplay analysis
+[^ref-3]: [Adventure Gamers Review](https://web.archive.org/web/20250609232910/https://adventuregamers.com/article/leisure-suit-larry-wet-dreams-dry-twice) – - Detailed review with 4.5/5 stars rating and gameplay analysis
 [^ref-7]: [Collider Release Announcement](https://collider.com/leisure-suit-larry-2020-game-release-date-trailer/) – - Gaming news article with developer quotes
 [^ref-8]: [KHInsider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/leisure-suit-larry-wet-dreams-dry-twice-2021) – - Complete soundtrack listing with user feedback
 [^ref-10]: [Wikipedia Mobile](https://en.m.wikipedia.org/wiki/Leisure_Suit_Larry:_Wet_Dreams_Dry_Twice) – - Comprehensive game information and reception scores
