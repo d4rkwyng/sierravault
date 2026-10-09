@@ -155,7 +155,7 @@ The game was delisted from Steam on November 24, 2017[^ref-15], though it remain
 [^ref-36]: [God is a Geek Review](https://www.godisageek.com/2013/08/leisure-suit-larry-reloaded-review/) – - Dated humor criticism
 [^ref-37]: [GOG Store Page](https://www.gog.com/en/game/leisure_suit_larry_reloaded) – - Current availability and user reviews
 [^ref-40]: [IMDb Database Entry](https://www.imdb.com/title/tt2446570/) – - Cast information and plot description
-[^ref-41]: [JayIsGames Review](https://jayisgames.com/review/leisure-suit-larry-reloaded.php) – - Character understanding praise
+[^ref-41]: [JayIsGames Review](https://web.archive.org/web/20150316123439/http://jayisgames.com/review/leisure-suit-larry-reloaded.php) – - Character understanding praise
 [^ref-42]: [Kickstarter Campaign](http://www.kickstarter.com/projects/leisuresuitlarry/make-leisure-suit-larry-come-again) – - Crowdfunding success details
 [^ref-44]: [Mash Those Buttons Review](https://mashthosebuttons.com/review/leisure-suit-larry-reloaded-review/) – - Modernization analysis and interaction system praise
 [^ref-45]: [Metacritic PC Reviews](https://www.metacritic.com/game/leisure-suit-larry-reloaded/critic-reviews/?platform=pc) – - Aggregated critical scores
