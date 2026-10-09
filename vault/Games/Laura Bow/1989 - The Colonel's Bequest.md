@@ -162,7 +162,7 @@ Fan communities continue to create content inspired by The Colonel's Bequest, in
 [^ref-10]: Play Classic Games *(download link removed: the game is sold commercially)* – - Character background information
 [^ref-11]: [Archive.org Description](https://archive.org/details/CBQUEST) – - Plot setup details
 [^ref-12]: Archive.org Manual *(download link removed: the game is sold commercially)* – - Story background from game documentation
-[^ref-13]: [Adventure Classic Gaming Review](https://www.adventureclassicgaming.com/index.php/site/reviews/99/) – - Plot analysis and character descriptions
+[^ref-13]: [Adventure Classic Gaming Review](https://www.adventureclassicgaming.com/index.php/site/reviews/270/) – - Plot analysis and character descriptions
 [^ref-14]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/565069-the-colonels-bequest-a-laura-bow-mystery/faqs/12834) – - Gameplay mechanics explanation
 [^ref-15]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/The_Colonel's_Bequest) – - Complete character descriptions
 [^ref-16]: [MoeGamer Analysis](https://moegamer.net/2024/11/30/the-colonels-bequest-a-bold-experiment-with-the-interactive-mystery-format/) – - Detailed gameplay mechanics explanation
@@ -203,7 +203,7 @@ Fan communities continue to create content inspired by The Colonel's Bequest, in
 [^ref-51]: [NineZyme Website](http://ninezyme.com/) – - Modern sequel development approach
 [^ref-52]: [Abandonware Forums](https://www.abandonware-forums.org/forum/forum-ltf-abandonware-france/requ%C3%AAtes/903740-the-colonel-s-bequest) – - HD patch and fan modification discussion
 [^ref-53]: [Speedrun.com](https://www.speedrun.com/colonelsbequest) – - Active speedrunning community and leaderboards
-[^ref-54]: [Ars Technica](https://web.archive.org/web/*/https://arstechnica.com/gaming/2026/10/roberta-williams-the-colonels-bequest-was-a-different-type-of-adventure-game/) – - Contemporary influence recognition
+[^ref-54]: [Ars Technica](https://arstechnica.com/gaming/2025/10/roberta-williams-the-colonels-bequest-was-a-different-type-of-adventure-game/) – - Contemporary influence recognition
 [^ref-55]: [VOGONS Technical Forum](https://www.vogons.org/viewtopic.php?t=68808) – - MT-32 audio fix discussion
 [^ref-56]: [Walkthrough King](https://www.walkthroughking.com/text/colonelsbequest.aspx) – - Complete gameplay guide
 [^ref-57]: [Sierra Help](https://sierrahelp.com/Walkthroughs/LauraBow1Walkthrough.html) – - Detailed walkthrough with Act structure
