@@ -20,13 +20,13 @@ tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 <small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
-Space Quest 6: Roger Wilco in the Spinal Frontier is a point-and-click adventure game developed and published by [[Sierra On-Line]], released on July 11, 1995 for MS-DOS and Windows, with a Macintosh version released in 1996[^ref-6][^ref-2]. Designed by [[Josh Mandel]] and [[Scott Murphy]], this is the sixth and final game in the Space Quest series[^ref-15][^ref-3]. The game ran on Sierra's SCI32 engine, featuring Super VGA graphics with 256 colors at 640×480 resolution—a significant visual upgrade from previous entries[^ref-3][^ref-15]. Gary Owens returned as narrator once again[^ref-12][^ref-22]. The game's subtitle refers to the final portion, where Roger must undergo miniaturization and enter the body of a shipmate, a spoof of the 1987 film Innerspace[^ref-4].
+Space Quest 6: Roger Wilco in the Spinal Frontier is a point-and-click adventure game developed and published by [[Sierra On-Line]], released in mid-1995 for MS-DOS and Windows (Sierra Chest gives July 11, 1995)[^ref-2], with a Macintosh version following in 1996[^ref-6]. Designed by [[Josh Mandel]] and [[Scott Murphy]], this is the sixth and final game in the Space Quest series[^ref-15][^ref-3]. The game ran on Sierra's SCI32 engine, featuring Super VGA graphics with 256 colors at 640×480 resolution—a significant visual upgrade from previous entries[^ref-3][^ref-15]. Gary Owens returned as narrator once again[^ref-12][^ref-22]. The final portion, in which Roger is miniaturized and enters a shipmate's body, spoofs *Fantastic Voyage* and *Innerspace*; a rejected title was "Roger Wilco in Innard Space"[^ref-28][^ref-22].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-6]
 > **Designer:** [[Josh Mandel]], [[Scott Murphy]][^ref-6]
 > **Publisher:** Sierra On-Line[^ref-6]
-> **Engine:** SCI32 (Rev 2.100.002)[^ref-3][^ref-13]
+> **Engine:** SCI32 (interpreter 2.100.002)[^ref-3][^ref-36]
 > **Platforms:** MS-DOS, Windows, Macintosh
 > **Release Year:** 1995
 > **Series:** Space Quest
@@ -34,17 +34,17 @@ Space Quest 6: Roger Wilco in the Spinal Frontier is a point-and-click adventure
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
-The game begins with Roger Wilco facing trial for his actions during Space Quest V[^ref-4][^ref-15]. He is demoted to a second-class janitor aboard the SCS DeepShip 86[^ref-4][^ref-22]. Later, Commander Kielbasa of the DeepShip awards the crew shore leave on the planet Polysorbate LX while an elderly woman named Sharpei plots Roger's demise[^ref-4].
+The game begins with Roger Wilco facing trial for his actions during Space Quest V[^ref-4][^ref-15]. He is demoted to a second-class janitor aboard the SCS DeepShip 86[^ref-4][^ref-22]. After serving under Commander Kielbasa aboard the DeepShip 86, Roger is awarded shore leave on the pleasure planet Polysorbate LX, unaware that sinister forces are moving against him[^ref-22][^ref-2].
 
 Having defeated the diabolical pukoid mutants in Space Quest V, Captain Roger Wilco triumphantly returns to StarCon headquarters—only to be court-martialed due to breaking StarCon regulations while saving the galaxy[^ref-4][^ref-15]. After being stripped of his rank and demoted to janitor, Roger is assigned to the DeepShip 86, an exploration vessel[^ref-4].
 
 After a few days onboard, the crew is allowed shore leave on Polysorbate LX[^ref-4]. While beaming down to the surface, the transporter malfunctions and Roger finds himself literally stuck[^ref-4]. He must check in at the Dew Beam Inn, where StarCon was supposed to have made a reservation—but the manager knows nothing about any StarCon reservation, forcing Roger to pay 300 buckazoids for the room himself[^ref-4].
 
-Sharpei intends to use Roger's body to extend her own life as part of "Project Immortality"[^ref-4]. Roger is rescued several times by Stellar Santiago, a humanoid alien who becomes a friend and love interest[^ref-15]. Eventually, Sharpei manages to capture Stellar instead and attempts to use nanites to transfer her consciousness into Stellar's body[^ref-4]. Roger uses miniaturization technology to shrink to a tiny size and thwart Sharpei's nanite robots from within Stellar's body[^ref-4]. The game concludes with Roger and Stellar reunited and Stellar hinting at Roger's "next assignment"[^ref-4].
+Sharpei, the elderly widow of Admiral Blundtphang, is behind a scheme called "Project Immortality"[^ref-2][^ref-35]. Roger is twice rescued by corpsman Stellar Santiago, who has strong feelings for him[^ref-2]. Stellar is presumed dead after a trap in Sharpei's quarters, but Sharpei has taken her as part of a plan to prolong her own life with nanomachines. Roger is miniaturized and enters Stellar's body to destroy the nanotechnology[^ref-2][^ref-26].
 
 ## Gameplay
 
-Space Quest 6 ran on the SCI32 engine Rev 2.100.002, featuring Super VGA graphics with 256 colors at 640×480 resolution[^ref-3][^ref-15]. The graphics style was more cartoonish than previous games, incorporating an ample amount of 3D-rendered images[^ref-3][^ref-22].
+Space Quest 6 ran on the SCI32 engine (interpreter 2.100.002)[^ref-36], featuring Super VGA graphics with 256 colors at 640×480 resolution[^ref-3][^ref-15]. The graphics adopted a more cartoon-like, feature-animation style than earlier entries[^ref-3], with 3D-rendered art and animation by Chris Willis and Michael Hutchison[^ref-12].
 
 ### Interface and Controls
 - Unlike other SCI games, Space Quest 6 did not have the interface in a pull-down bar at the top of the screen[^ref-3][^ref-15]
@@ -53,8 +53,8 @@ Space Quest 6 ran on the SCI32 engine Rev 2.100.002, featuring Super VGA graphic
 
 ### Structure and Progression
 - The game takes place across multiple locations including the SCS DeepShip 86, the planet Polysorbate LX, and eventually inside Stellar's body[^ref-4][^ref-22]
-- The final portion involves miniaturization and exploring the interior of a human body, spoofing Innerspace[^ref-22]
-- The game's original subtitle was "Where in Corpsman Santiago is Roger Wilco?" but was changed due to legal threats from the makers of Carmen Sandiego products[^ref-22]
+- The final portion involves miniaturization and exploring the interior of a human body, a la *Fantastic Voyage*[^ref-22]
+- Stellar's surname may be a nod to Broderbund's Carmen Sandiego games, and the narrator's opening line "In a deserted warehouse just outside the galaxy" may poke at that series' openings[^ref-28]
 
 ### Puzzles and Mechanics
 - Due to management issues, many hints were omitted from the game, making several puzzles harder to solve than originally intended[^ref-3][^ref-15]
@@ -65,22 +65,21 @@ Space Quest 6 ran on the SCI32 engine Rev 2.100.002, featuring Super VGA graphic
 ## Reception
 
 ### Contemporary Reviews
-Charles Ardai in Computer Gaming World (October 1995) wrote that "the graphics are better than in any previous Space Quest" and praised Gary Owens for contributing "his inimitable narration"[^ref-22]. He noted the game "opens with space janitor Roger Wilco publicly being stripped to his jock strap" and features "fairly funny gag every few scenes"[^ref-22].
+Charles Ardai in Computer Gaming World (October 1995) wrote that "the graphics are better than in any previous Space Quest" and praised Gary Owens for contributing "his inimitable narration"[^ref-22]. He noted the game "opens with space janitor Roger Wilco publicly being stripped to (and finally of) his jock strap," while CGW's editors' summary box promised "a fairly funny gag every few scenes"[^ref-22].
 
-PC Gamer US's Gary Meredith (Issue 16, September 1995) wrote that the game "takes a couple of steps backwards as far as the graphics and voice-overs are concerned," criticizing the "annoying narration" and "Disney-esque" animation[^ref-31]. He concluded it's "not the best of the Space Quest series, but it's something fans of the previous games will definitely want to check out"[^ref-31].
+PC Gamer US's Gary Meredith (Issue 16, September 1995) wrote that the game, "despite a couple of steps backwards as far as the graphics and voice-overs are concerned, will satisfy the perverted, dark needs of twisted Space Quest fans," listing "Annoying narration" among its lows and calling the look "a little too Disney-esque"[^ref-31]. He concluded it's "not the best of the Space Quest series, but it's something fans of the previous games will definitely want to check out"[^ref-31].
 
-A critic for Next Generation (Issue 10, October 1995) dismissed Space Quest 6 as "essentially identical to the previous five installments" aside from specific puzzles, giving it three out of five stars and concluding: "If you liked the first five, you'll want this. If not, you probably aren't even reading this review"[^ref-32].
+A critic for Next Generation (Issue 10, October 1995) wrote that "If you've played one of the earlier installments, you've played Space Quest 6. The only thing different are the puzzles," giving it three out of five stars and concluding: "If you liked the first five, you'll want this. If not, you probably aren't even reading this review"[^ref-32].
 
 ### Modern Assessment
 Adventure Gamers rated the game "Underwhelming," calling it "certainly the weakest game in the franchise"[^ref-29]. The review praised the "great graphics" and "excellent narration" by Gary Owens, but criticized the "aimless design," "weak plot and characters," and "fun-killingly difficult" puzzles[^ref-29]. The reviewer noted the Datacorder puzzle required external documentation not included in the Space Quest Collection, and estimated completion time at "more than 12 hours"[^ref-29].
 
-The game holds a MobyScore of 7.5/10 with 73% positive critic reviews and ratings from 91 players[^ref-6]. On GOG, the Space Quest 4+5+6 collection has a 4.3/5 rating[^ref-7]. My Abandonware users rate it 3.93/5 from 70 votes[^ref-8].
+As of October 2026, the game holds a MobyScore of 7.5/10, with an average critic score of 73% (21 ratings) and 92 player ratings[^ref-6]. On GOG, the Space Quest 4+5+6 collection is rated 4.6/5 from 770 ratings[^ref-7]. My Abandonware users rate it 3.93/5 from 70 votes[^ref-8].
 
 - **Adventure Gamers:** "Underwhelming" – great graphics, excellent narration, aimless design, difficult puzzles[^ref-29]
-- **MobyGames:** 7.5/10 MobyScore, 73% critics (91 player ratings)[^ref-6]
-- **GOG:** 4.3/5 (collection)[^ref-7]
-- **Steam:** Very Positive (312 reviews, collection)[^ref-9]
-- **HowLongToBeat:** approximately 6 hours main story[^ref-16]
+- **MobyGames:** 7.5/10 MobyScore, 73% critic average (21), 92 player ratings (as of October 2026)[^ref-6]
+- **GOG:** 4.6/5 (770 ratings, collection, as of October 2026)[^ref-7]
+- **Steam:** Very Positive, 85% of 335 Steam-purchaser reviews positive (collection, as of October 2026)[^ref-9]
 
 ## Development
 
@@ -88,7 +87,7 @@ The game holds a MobyScore of 7.5/10 with 73% positive critic reviews and rating
 The game features extensive voice acting[^ref-12][^ref-33]:
 - **Gary Owens** as Narrator
 - **William Hall** as Roger Wilco
-- **Carol Bach Rita** as Stellar Santiago and Sysinny
+- **Carol Bach Y Rita** as Stellar Santiago, Sharpei, Wriggley and Sys Inny
 - **Lucille Bliss** as Waitron
 - **Roger Jackson** as Hotel Manager
 - **Denny Delk** as Jebba the Hop
@@ -98,38 +97,35 @@ The game features extensive voice acting[^ref-12][^ref-33]:
 - **Jarion Monroe** as Blaine Rohmer and Doctor Beleauxs
 - **Charles Martinet** as Pa Conshohocken and Ray Trace (who later became famous as the voice of Super Mario)[^ref-15]
 
-Music was directed by Dan Kehler with compositions by Neal Grandstaff[^ref-12][^ref-33].
+Music was directed by Dan Kehler and composed by Dan Kehler and Neal Grandstaff[^ref-12][^ref-3].
 
 ### Origins
-Josh Mandel designed the majority of Space Quest 6, with Scott Murphy on board in a "creative consultant" capacity[^ref-18]. For the ending, Mandel was seeking "a twist on the end of Planet of the Apes"[^ref-18]. However, Mandel had to leave the project shortly before completion due to internal strife with Sierra[^ref-18]. Sierra asked Scott Murphy to complete the game, and then—reportedly against Murphy's wishes—promoted SQ6 as if the former "Guy from Andromeda" was solely responsible for it[^ref-18].
+Josh Mandel initially headed Space Quest 6, with Scott Murphy acting as a creative consultant[^ref-26]. For the ending, Mandel was seeking "a twist on the end of Planet of the Apes"[^ref-18]. When the game was nearing completion, Mandel had to leave the project because of management problems, and Murphy took over[^ref-25]; Sierra Chest notes a lack of communication and "reportedly even strife"[^ref-2]. Marketing then sold the game as a "Scott Murphy solo job," which Murphy says he knew nothing about until he got his packaged copy[^ref-25].
 
 As a result of this change in designers, some puzzles—primarily in the later stages of the game—were poorly implemented due to lack of communication[^ref-3][^ref-15].
 
-The infamous Datacorder puzzle, which requires looking up hints in the manual, was not intended as copy protection—the hints were supposed to be in the cut comic book CD. A few weeks before shipping, Mandel called Murphy to ask about the comic book; Murphy replied they never finished it, not realizing it contained the puzzle hints.
+The infamous Datacorder puzzle, which requires looking up hints in the manual, was not intended as copy protection—the hints were supposed to be in the cut comic book CD. A few weeks before shipping, Mandel called Murphy to ask about the comic book; Murphy replied they never finished it, not realizing it contained the puzzle hints[^ref-25].
 
-With the deadline looming, they hastily put the solution in the manual instead[^ref-17].
+With the deadline looming, they hastily put the solution in the manual instead[^ref-25].
 
-In a 2006 interview, Mandel spoke candidly about his disappointment: "One of the inventory items cut was a comic book CD in Nigel's room that was fully readable and had all the hints to the Datacorder puzzle.
-
-From a writing and design standpoint, it was fully finished. I think it would've been one of the greatest parody sequences in the SQ series"[^ref-18].
+In a 2006 interview, Mandel spoke candidly about his disappointment: "One of the inventory items cut was a comic book CD in Nigel's room that was fully readable and had all the hints to the Datacorder puzzle. From a writing and design standpoint, it was fully finished, and I know that Barry Smith had started the artwork. … I think it would've been one of the greatest parody sequences in the SQ series."[^ref-34]
 
 The romantic interest Stellar Santiago provides a continuity dilemma, since the woman who bore Roger a son (according to Space Quest IV's narrative) was Beatrice Wankmeister[^ref-3]. The game appears to downplay Space Quest V, with very few references made to the previous entry[^ref-3]. A notable plot inconsistency involves Roger receiving credit for the "successful return of the SCS Eureka," despite that ship being destroyed in the previous game[^ref-15].
-
-A cinema scene in the game randomly displays the title "Superman vs Batman" in 1995—remarkably, 21 years before the 2016 film *Batman v Superman: Dawn of Justice* actually released[^ref-15].
 
 Leslie Balfour wrote the Popular Janitronics magazine included with the game[^ref-19]. She also coined the series tagline "In Space, Nobody Can Hear You Clean"—which Josh Mandel called "the best tagline Sierra ever had"[^ref-18][^ref-19].
 
 ### Technical Achievements
-- Ran on SCI32 engine Rev 2.100.002, the last version of the SCI engine[^ref-3][^ref-13]
+- Ran on SCI32, the last generation of Sierra's SCI engine (interpreter 2.100.002, SCI2.1 "middle")[^ref-3][^ref-36]
 - Super VGA graphics with 256 colors at 640×480 resolution[^ref-3][^ref-15]
-- First Space Quest to use SCUMM-style verb bar interface instead of pull-down menus[^ref-3][^ref-15]
-- More cartoonish graphics style with 3D-rendered images[^ref-3][^ref-22]
+- Replaced the SCI pull-down bar at the top of the screen with a verb bar along the bottom, like LucasArts' SCUMM games[^ref-3]
+- More cartoon-like, feature-animation graphics style[^ref-3], with 3D art by Chris Willis and Michael Hutchison[^ref-12]
 - Full voice acting with Gary Owens returning as narrator[^ref-12][^ref-22]
-- Platform releases: July 11, 1995 DOS and Windows, 1996 Macintosh[^ref-6][^ref-2]
-- Fully supported in ScummVM since version 2.0.0[^ref-13]
+- Platform releases: mid-1995 DOS and Windows (July 11, 1995 per Sierra Chest), 1996 Macintosh[^ref-2][^ref-6]
+- Supported in ScummVM since version 2.0.0, rated "Good" on ScummVM's compatibility list[^ref-13][^ref-37]
+- NewRisingSun's unofficial SQ6_NRS patch fixes timer bugs including a non-responsive Endodroid Runner/Elmo Pug[^ref-3]
 - System requirements: DOS 5.0+, 486/25 processor, 8MB RAM, 5MB hard drive space, 2x CD-ROM[^ref-14][^ref-22]
-- **Hidden message:** In the Information Superhighway office, clicking the Look cursor on the background seven times triggers Gary Owens to add "Wow! This makes my nipples hard" to the standard description[^ref-17]
-- **Localization trivia:** The game was fully dubbed in German and French; Scott Murphy voiced his own cameo in both languages despite not speaking either, phonetically reading the translated lines[^ref-17]
+- **Hidden message:** In the cyberspace office, the Look (eye) cursor on the background gives "You saw it here first. A preview of the famed information superhighway. Wow!"; after six or seven more clicks the narrator says "Wow! This makes my nipples hard!" instead[^ref-24]
+- **Localization trivia:** The game was fully dubbed in German and French; Scott Murphy, who plays himself in a cameo argument with the director, also recorded his lines in French and German for the dubbed versions, and later apologized to speakers of either language[^ref-25]
 
 ### Easter Eggs and Trivia
 - **Shuttle movie viewer:** In the shuttle, turn power on → open glove box → press Movies → press red button on right steering wheel to access all SVGA cutscenes[^ref-24]
@@ -142,6 +138,7 @@ Leslie Balfour wrote the Popular Janitronics magazine included with the game[^re
 - **KQ6 music:** The music in Sharpei's Quarters is the same as the evil genie theme from King's Quest 6[^ref-25]
 - **Original magazine name:** Josh wanted the documentation called "Janitalia: The Magazine of Space Janitors" but management changed it to "Popular Janitronics"[^ref-25]
 - **Roger's room souvenirs:** Contains items from SQ1-SQ4 (hint book, Star Generator remote, Labion Terror Beast whistle, Sierra rejection letter) but notably nothing from SQ5[^ref-26]
+- **"Superman vs Batman":** While Roger walks the streets of Polysorbate LX, the cinema marquee may randomly show "Superman vs Batman", 21 years before *Batman v Superman: Dawn of Justice* (2016)[^ref-15]
 - **Rotting fish Chekhov's Gun:** The seemingly useless fish Roger carries for most of the game is what ultimately defeats Sharpei—she eats it as "brain food" and dies[^ref-26]
 
 ### Cameo Appearances
@@ -157,6 +154,8 @@ Leslie Balfour wrote the Popular Janitronics magazine included with the game[^re
 - **King's Quest VI:** Looking in the mirror, the narrator describes "a brunette overacting in a stone tower" and Roger squeals "Mother, mother, come quick!"[^ref-28]
 - **Wired magazine:** The Popular Tecktronics CD-ROM mentions an e-mail magazine called "Mired"[^ref-28]
 - **Stooge Fighter III:** Street Fighter II parody with Three Stooges characters[^ref-26]
+- **2001: A Space Odyssey:** In the intro, Admiral Toolman throws Roger's underpants into the air and they become the DeepShip 86[^ref-28]
+- **Star Wars:** Jebba the Hop spoofs Jabba the Hutt[^ref-28]
 - **Sci-fi author drinks:** Beverages named after authors like "Heinleineken"[^ref-29]
 
 ### Plot Inconsistencies
@@ -171,7 +170,7 @@ According to Sierra On-Line's SEC filing, combined sales of the Space Quest seri
 
 In 2011, fan developers released [[2011 - Space Quest - Vohaul Strikes Back|Space Quest: Vohaul Strikes Back]], the first original Space Quest game of comparable scale since SQ6. Developed over nine years using Adventure Game Studio, it won the 2011 AGS Award for Best Non-Player Character and received positive reviews from Rock Paper Shotgun and Adventure Gamers[^ref-21]. A second fan sequel, Space Quest: Incinerations, followed in January 2012[^ref-21].
 
-Sierra created a special CD-ROM version of Space Quest 6's demonstration game, which was distributed with Sierra's Interaction Magazine and PC Gamer Disc 9[^ref-2]. The game's ending, with Stellar hinting at Roger's "next assignment," suggested plans for a sequel that never materialized as Sierra shifted away from adventure games[^ref-3].
+A self-contained demo with its own story and puzzles not found in the final game was distributed with Sierra's InterAction Magazine[^ref-2] and on PC Gamer's August 1995 cover CD (Disc 9)[^ref-38]. Although Space Quest 7 was in development, it was never completed or released[^ref-2].
 
 ### Collections
 
@@ -204,7 +203,6 @@ This game has been included in the following collections:
 - [SpaceQuest.net – Space Quest 6](https://spacequest.net/sq6/) – game information, screenshots, soundtrack[^ref-4]
 - [WiW – Space Quest 6 Point List](https://wiw.org/~jess/sq6pts.html) – complete point list[^ref-11]
 - [Sierra Help – Space Quest 6](https://sierrahelp.com/Games/SpaceQuest/SQ6Help.html) – patches, technical help[^ref-14]
-- [HowLongToBeat – Space Quest 6](https://web.archive.org/web/*/https://howlongtobeat.com/game/8868) – completion times[^ref-16]
 - [SpaceQuest.net – SQ6 Easter Eggs](https://spacequest.net/sq6/eastereggs/) – hidden features, programmer tributes[^ref-24]
 - [SpaceQuest.net – SQ6 Fun Facts](https://spacequest.net/sq6/funfacts/) – development trivia, behind-the-scenes[^ref-25]
 - [SpaceQuest.net – SQ6 Cameos](https://spacequest.net/sq6/cameos/) – character appearances, sci-fi parodies[^ref-27]
@@ -229,7 +227,7 @@ This game has been included in the following collections:
 [^ref-3]: [Sierra Fandom Wiki – Space Quest 6](https://sierra.fandom.com/wiki/Space_Quest_6%3A_The_Spinal_Frontier) – engine details, interface, SCUMM-style verb bar, puzzle issues
 [^ref-4]: [SpaceQuest.net – Space Quest 6 Story](https://spacequest.net/sq6/) – plot summary, game information
 [^ref-5]: [PCGamingWiki – Space Quest 6](https://www.pcgamingwiki.com/wiki/Space_Quest_6%3A_Roger_Wilco_in_The_Spinal_Frontier) – technical specs, fixes
-[^ref-6]: [MobyGames – Space Quest 6](https://www.mobygames.com/game/145/space-quest-6-roger-wilco-in-the-spinal-frontier/) – developer, publisher, platforms, credits, 7.5 MobyScore, 73% critics
+[^ref-6]: [MobyGames – Space Quest 6](https://www.mobygames.com/game/145/space-quest-6-roger-wilco-in-the-spinal-frontier/) – developer, publisher, platforms, credits, 7.5 MobyScore, 73% critic average
 [^ref-7]: [GOG – Space Quest 4+5+6](https://www.gog.com/en/game/space_quest_4_5_6) – purchase, user reviews
 [^ref-8]: My Abandonware – Space Quest 6 *(download link removed: the game is sold commercially)* – platforms, availability
 [^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
@@ -239,7 +237,6 @@ This game has been included in the following collections:
 [^ref-13]: [ScummVM Wiki – Space Quest 6](https://wiki.scummvm.org/index.php?title=Space_Quest_6) – engine support since ScummVM 2.0.0
 [^ref-14]: [Sierra Help – Space Quest 6](https://sierrahelp.com/Games/SpaceQuest/SQ6Help.html) – system requirements, patches, technical help
 [^ref-15]: [Space Quest Fandom Wiki – Space Quest 6](https://spacequest.fandom.com/wiki/Space_Quest_6:_Roger_Wilco_in_The_Spinal_Frontier) – release date, plot, voice cast, trivia, Charles Martinet, Superman vs Batman reference
-[^ref-16]: [HowLongToBeat – Space Quest 6](https://web.archive.org/web/*/https://howlongtobeat.com/game/8868) – completion times
 [^ref-17]: [Space Quest Historian – 11 Things You Probably Didn't Know About Space Quest](https://www.youtube.com/watch?v=Hvux-A0oGiM) – Datacorder puzzle origin, hidden messages, localization trivia
 [^ref-18]: [Virtual Broomcloset – Josh Mandel Interview](https://www.wiw.org/~jess/josho.html) – Planet of the Apes ending, Leslie Balfour tagline quote
 [^ref-19]: [Virtual Broomcloset – Leslie Balfour Interview](https://www.wiw.org/~jess/leslie.html) – Popular Janitronics, "In Space Nobody Can Hear You Clean" tagline
@@ -257,3 +254,8 @@ This game has been included in the following collections:
 [^ref-31]: [PC Gamer US Issue 16, September 1995](https://archive.org/details/pc-gamer-issue-16-september-1995) – Gary Meredith review: "not the best of the Space Quest series," "annoying narration," "Disney-esque" animation
 [^ref-32]: [Next Generation Issue 10, October 1995](https://archive.org/details/nextgen-issue-010) – 3/5 stars: "If you liked the first five, you'll want this. If not, you probably aren't even reading this review"
 [^ref-33]: [IMDB – Space Quest 6: Roger Wilco in the Spinal Frontier](https://www.imdb.com/title/tt0348081/) – full cast and crew credits
+[^ref-34]: [Adventure Classic Gaming – Josh Mandel interview (Philip Jong, 24 April 2006), archived](https://web.archive.org/web/20150925122909/http://www.adventureclassicgaming.com/index.php/site/interviews/196/) – cut comic book CD with the Datacorder hints
+[^ref-35]: [The Video Game Library – Space Quest 6 Official Player's Guide](https://www.thevideogamelibrary.org/book/space-quest-6-roger-wilco-in-the-spinal-frontier-official-player-s-guide) – Sharpei's "Project Immortality" plot
+[^ref-36]: [SCI Wiki – Space Quest 6: The Spinal Frontier](https://sciwiki.sierrahelp.com/index.php/Space_Quest_6:_The_Spinal_Frontier) – SCI2.1 (middle), interpreter 2.100.002, 1995/06/20
+[^ref-37]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – Space Quest 6 rated "Good"
+[^ref-38]: [PC Gamer US Issue 15, August 1995](https://archive.org/details/pc-gamer-issue-15-august-1995) – cover CD demo of Space Quest 6, "its own little adventure, with puzzles that aren't found in the final game"

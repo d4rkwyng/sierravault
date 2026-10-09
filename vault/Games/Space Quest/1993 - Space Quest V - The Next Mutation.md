@@ -41,24 +41,24 @@ The game was released on floppy disk only; early plans for a CD-ROM "talkie" ver
 > **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Story Summary
-Following the events of Space Quest IV, lowly janitor Roger Wilco applies for a place at Starcon Academy, hoping to become a captain on his own ship[^ref-18]. While at the Academy, Roger makes an enemy of Raems T. Quirk—a toupee-wearing commander in charge of Starcon's most prized ship, the SCS Goliath, and a rather blatant spoof of Captain James T. Kirk[^ref-2][^ref-18].
+After the events of Space Quest IV, Roger Wilco enrolls at Starcon Academy in the hope of one day captaining his own ship[^ref-1]. There he makes an enemy of Raems T. Quirk, a toupee-wearing commander of Starcon's flagship, the SCS Goliath, and an unsubtle send-up of Captain James T. Kirk[^ref-1].
 
-During an aptitude test, which Roger cheats through, Starcon is visited by Ambassador Beatrice Wankmeister—the very woman Roger is set to have a relationship with, after learning of her from his future son in Space Quest IV[^ref-18]. Beatrice requests an escort to investigate bizarre cases of toxic dumping across the galaxy; Quirk offers to assist her using the Goliath[^ref-5]. Meanwhile, Roger successfully achieves his dream and is given command of his own ship, the garbage scow SCS Eureka, which looks and functions like an oversized vacuum cleaner[^ref-2][^ref-5].
+While Roger cheats his way through an aptitude test, Starcon receives Ambassador Beatrice Wankmeister, the woman his future son told him about in Space Quest IV[^ref-1]. She wants an escort to look into strange incidents of toxic dumping around the galaxy, and Quirk volunteers the Goliath[^ref-1]. Roger, meanwhile, gets his wish and is given a command of his own: the garbage scow SCS Eureka, which looks and works like a giant vacuum cleaner[^ref-1].
 
-Working alongside his crew, the Eureka works to clean up rubbish, picking up a facehugger creature that Roger takes on as a pet[^ref-5]. They also intercept a transmission on a Starcon frequency concerning a collection from an unknown figure[^ref-2]. After collecting rubbish in orbit over a jungle planet, the Eureka comes under attack by a homicidal gynoid named WD40, sent by the same company that came after Roger in Space Quest III[^ref-18].
+On garbage runs with his crew, Roger picks up a facehugger that he adopts as a pet, and the Eureka intercepts a Starcon-frequency transmission about a pickup from an unknown party[^ref-1]. After a collection stop above a jungle planet, the ship is attacked by WD40, a murderous gynoid sent by the same company that hounded Roger in Space Quest III[^ref-1].
 
-When the crew take a moment to relax at a "space bar," Roger finds his chief engineer Cliffy—a parody of Scotty from Star Trek—engaged in a bar brawl with some of the Goliath's crew[^ref-2]. Quirk arrests Cliffy, forcing Roger to break him out[^ref-2]. Later, Roger investigates a colony and finds the colonists have become mutants; a canister found nearby belongs to a genetics company, and a log entry reveals the colony was attacked after being visited by the Goliath[^ref-5].
+During shore leave at a "space bar", Roger's chief engineer Cliffy, a parody of Star Trek's Scotty, gets into a brawl with members of the Goliath's crew; Quirk has him arrested, and Roger has to break him out[^ref-1]. Later, Roger finds the colonists of a deserted settlement turned into mutants, with a genetics company's canister nearby and a log saying the attack came after a visit from the Goliath[^ref-1].
 
-The Eureka receives an SOS from Quirk revealing his ship is under attack by mutants[^ref-2]. Responding, the crew find an escape pod containing Beatrice, who reveals the ship was hit by mutants and that Quirk and the crew were mutated as a result[^ref-5]. Roger puts her into cryo-sleep to slow her own mutation until he can find a cure[^ref-2]. Tracking down the genetics company, Roger discovers scientists created a terraforming virus that mutated and started attacking living creatures[^ref-5]. The experiment was ended, but the lead scientist had Quirk bribed to dump the vats of virus around the galaxy[^ref-2]. Roger ultimately defeats Quirk, cures Beatrice, and saves the galaxy once again[^ref-18].
+An SOS arrives from Quirk, whose ship is under attack[^ref-1]. The Eureka finds an escape pod carrying Beatrice, who explains that mutants struck the Goliath and that Quirk and his crew have been mutated; Roger puts her into cryo-sleep to slow her own mutation until he can find a cure[^ref-1]. At the genetics company he learns that a terraforming virus developed there mutated and began attacking living things, and that Quirk was bribed to dump the leftover vats around the galaxy[^ref-1]. Roger ultimately defeats Quirk, cures Beatrice, and saves the galaxy once again[^ref-1].
 
 ## Gameplay
 
 Space Quest V was developed using Sierra Creative Interpreter 1.1 (SCI1.1), featuring 256-color VGA graphics[^ref-3][^ref-4]. The game continues the point-and-click interface introduced in Space Quest IV.
 
 ### Interface and Controls
-- Uses the same point-and-click icon interface as Space Quest IV[^ref-2]
+- Uses a point-and-click icon interface like Space Quest IV's, with an added command version of the Talk icon for giving orders; CGW found the new black-and-white icons hard to see against some backgrounds[^ref-17]
 - The game features a command bridge where Roger can give orders to his crew[^ref-5]
-- Commands include interactions with officers, such as "activate cloaking device"[^ref-17]
+- From the captain's chair Roger can issue commands such as "Cloak ship," "Fire," and "Hail planet"[^ref-17]
 - No voice acting—the game was released on floppy disk only[^ref-3][^ref-18]
 
 ### Structure and Progression
@@ -82,18 +82,18 @@ The game was welcomed by critics as a fun addition to the series, although it di
 ### Modern Assessment
 Adventure Gamers rated the game "Very good," calling it "an impressive attempt to move the series into the next generation" with "the best story and characters of the series so far"[^ref-31]. The review praised the "colorful and interesting locations" and "variety of well-crafted puzzles," while noting the lack of voice acting and "one of the worst mazes ever" as negatives[^ref-31]. The site estimated completion time at 6-8 hours, calling it "the lengthiest in the series so far"[^ref-31].
 
-The game holds a MobyScore of 8.1/10 with 82% positive critic reviews and ratings from 88 players[^ref-5]. On GOG, the Space Quest 4+5+6 collection has a 4.3/5 rating[^ref-6]. My Abandonware users rate it 4.6/5 from 62 votes[^ref-7]. HowLongToBeat reports the main story takes approximately 5.9 hours to complete[^ref-8].
+The game holds a MobyScore of 8.1 from 90 player ratings[^ref-5]. On GOG, the Space Quest 4+5+6 collection has a 4.6/5 rating (38 reviews)[^ref-6]. My Abandonware users rate it 4.6/5 from 62 votes[^ref-7]. HowLongToBeat reports the main story takes approximately 5.9 hours to complete[^ref-8].
 
 - **Adventure Gamers:** "Very good" – best story/characters, improved graphics, challenging maze[^ref-31]
-- **MobyGames:** 8.1/10 MobyScore, 82% critics (88 player ratings)[^ref-5]
-- **GOG:** 4.3/5 (collection)[^ref-6]
-- **Steam:** Very Positive (312 reviews, collection)[^ref-9]
+- **MobyGames:** 8.1 MobyScore (90 player ratings)[^ref-5]
+- **GOG:** 4.6/5 (38 reviews, collection)[^ref-6]
+- **Steam:** Very Positive, 85% of 335 reviews (collection)[^ref-9]
 - **HowLongToBeat:** 5.9 hours main story[^ref-8]
 
 ## Development
 
 ### Origins
-In 1991, Mark Crowe relocated to Eugene, Oregon when his wife got a job there, and he transferred from Sierra's Oakhurst headquarters to the Dynamix subsidiary[^ref-16]. According to Crowe: "SQ4 had been a particularly stressful development (I still consider it to be my masterpiece product) and I was ready to move on to something different... I was impressed with the work Jeff Tunnel was doing at Dynamix"[^ref-28]. This move separated the "Two Guys from Andromeda," and Scott Murphy never worked with Crowe on another Space Quest game[^ref-28].
+In 1991, Mark Crowe and his wife decided to move their young family to Oregon, and he transferred from Sierra's Oakhurst headquarters to its Dynamix subsidiary in Eugene[^ref-16]. According to Crowe: "SQ4 had been a particularly stressful development (I still consider it to be my masterpiece product) and I was ready to move on to something different... I was impressed with the work Jeff Tunnel was doing at Dynamix"[^ref-28]. This move separated the "Two Guys from Andromeda," and Scott Murphy never worked with Crowe on another Space Quest game[^ref-28].
 
 Josh Mandel (later co-designer of Space Quest 6) was initially working on a design for SQ5 at Sierra, but Crowe was asked to take over the project at Dynamix[^ref-28]. Although Crowe had ideas for games using Dynamix's own adventure development system, Sierra CEO Ken Williams mandated that Dynamix use Sierra's SCI engine instead[^ref-28].
 
@@ -116,9 +116,9 @@ A CD-ROM version with voice acting was planned and hinted in the Hintbook and so
 - Featured product placement for Sprint telephone company[^ref-18]
 - Released February 5, 1993 for MS-DOS on floppy disk only[^ref-2][^ref-18]
 - **Aptitude test skip:** Selecting the last option for every question allows Roger to pass the StarCon Aptitude Test without cheating—likely a QA feature left in by mistake[^ref-14]
-- **Planet name trivia:** "Lukaszuk II" is not a jab at LucasArts but a tribute to Polish programmer brothers Darius and Piotr Lukaszuk who worked at Dynamix[^ref-14]
+- **Planet name trivia:** "Lukaszuk II" may be a mispronounced jab at LucasArts, but it may also refer to two Dynamix employees, Piotr and Derek Lukaszuk[^ref-24]
 - **End-game failsafe:** If players forget to install the warp drive on the Goliath, the game mercifully teleports them to the engine room for a second chance instead of killing them outright[^ref-14]
-- Runs at 320x200 resolution with 256 colors; fully supported in ScummVM since version 1.2.0[^ref-21]
+- Supports EGA and MCGA/VGA (256 colours)[^ref-35]; rated "Excellent" (no known issues) by ScummVM, first listed in the 1.2.0 compatibility chart[^ref-36][^ref-37]
 - **Floppy installation note:** SCI games have significant variation in resource file naming; for floppy versions with split files, RESOURCE.p0* files must be concatenated to RESOURCE.000 and RESOURCE.a0* to RESOURCE.AUD[^ref-21]
 
 ### Version History
@@ -127,8 +127,9 @@ A CD-ROM version with voice acting was planned and hinted in the Hintbook and so
 |---------|------|----------|-------|
 | 1.0 | February 5, 1993 | DOS | Original floppy release[^ref-2][^ref-18] |
 | CD-ROM | Cancelled | — | Planned "talkie" version with voice acting never released[^ref-3][^ref-4] |
-| GOG/Steam | 2012 | Windows (DOSBox) | Included in Space Quest Collection[^ref-6][^ref-9] |
-| ScummVM | 1.2.0+ | Multi-platform | Full compatibility added[^ref-21] |
+| Steam | September 1, 2006 | Windows | Space Quest Collection[^ref-9] |
+| GOG | February 11, 2010 | Windows (ScummVM) | Space Quest 4+5+6[^ref-6][^ref-12] |
+| ScummVM | 1.2.0+ | Multi-platform | Full compatibility added[^ref-36] |
 
 **SCI Interpreter:**[^ref-21]
 - Engine: Sierra Creative Interpreter 1.1 (SCI1.1)
@@ -182,8 +183,8 @@ A CD-ROM version with voice acting was planned and hinted in the Hintbook and so
 - **Audio initialization:** "Unable to Initialize Audio Hardware" error on modern systems; use DOSBox or AUDBLAST.DRV patch[^ref-26]
 
 ### International Versions
-- **Russian localization:** Flash Gordon references changed to Boris Yeltsin, Soviet movie music replaced some themes, "buckazoid" translated to "babking," and transporter controls differed[^ref-23]
-- **32-color Amiga version:** Skipped the crest scrubbing sequence due to color palette limitations[^ref-23]
+- **Russian localization:** Flash Gordon references changed to Boris Yeltsin, Soviet movie music replaced some themes, "buckazoid" translated to "babking," and transporter controls differed[^ref-28]
+- **32-color Amiga version:** A 32-colour Amiga version reportedly exists; it lets you skip the crest scrubbing sequence[^ref-28]
 
 ### Plot Inconsistencies
 - **Magazine contradiction:** The Space Piston magazine (SQ4) features an interview with Roger about his adventures, but the Galactic Inquirer (SQ5) states nobody has heard from Roger since he began working on the Arcada[^ref-30]
@@ -196,15 +197,14 @@ A CD-ROM version with voice acting was planned and hinted in the Hintbook and so
 
 According to Sierra On-Line's SEC filing, combined sales of the Space Quest series surpassed 1.2 million units by the end of March 1996[^ref-19]. Space Quest V was one of several Sierra games given away as a reward for signing up for service with Sprint[^ref-18][^ref-20].
 
-The game also features a reference to AT&T, with dialogue where one character denounces MCI's "Friends & Aliens" plan as "just not worth it"[^ref-2]. After Space Quest V, Mark Crowe and Scott Murphy would reunite for Space Quest 6: The Spinal Frontier in 1995[^ref-2].
+The game also features a reference to AT&T, with dialogue where one character denounces MCI's "Friends & Aliens" plan as "just not worth it"[^ref-2]. After Space Quest V, Mark Crowe and Scott Murphy never again worked together on a Space Quest game; Murphy co-designed Space Quest 6 (1995) with Josh Mandel at Sierra[^ref-28].
 
 ### Collections
 
 This game has been included in the following collections:
-- Space Quest: Collector's Edition (a.k.a. Roger Wilco Unclogged)[^ref-10]
-- Space Quest Saga (The)[^ref-10]
-- [Space Quest Collection (XP)](https://store.steampowered.com/app/10110)[^ref-9][^ref-10]
-- Space Quest: Collection Series[^ref-10]
+- Space Quest: Collector's Edition (1994; re-released 1995 as Roger Wilco Unclogged)[^ref-33]
+- Space Quest: Collection Series (1997)[^ref-34]
+- [Space Quest Collection (XP)](https://store.steampowered.com/app/10110) (2006)[^ref-9]
 - [Space Quest 4+5+6](https://www.gog.com/en/game/space_quest_4_5_6)[^ref-6]
 
 ## Downloads
@@ -255,7 +255,7 @@ This game has been included in the following collections:
 [^ref-2]: [Dynamix Fandom Wiki – Space Quest V](https://dynamix.fandom.com/wiki/Space_Quest_V%3A_The_Next_Mutation) – development, plot, technical details
 [^ref-3]: [SpaceQuest.net – Space Quest 5 Game Information](https://spacequest.net/sq5/gameinfo.php) – development process, team details, $69.99 price
 [^ref-4]: [Space Quest Fandom Wiki – SQ5 Development](https://spacequest.fandom.com/wiki/SQ5_development) – detailed development history
-[^ref-5]: [MobyGames – Space Quest V](https://www.mobygames.com/game/144/space-quest-v-the-next-mutation/) – developer, publisher, platforms, credits, 8.1 MobyScore, 82% critics
+[^ref-5]: [MobyGames – Space Quest V](https://www.mobygames.com/game/144/space-quest-v-the-next-mutation/) – developer, publisher, platforms, credits, 8.1 MobyScore
 [^ref-6]: [GOG – Space Quest 4+5+6](https://www.gog.com/en/game/space_quest_4_5_6) – purchase, user reviews
 [^ref-7]: My Abandonware – Space Quest V *(download link removed: the game is sold commercially)* – platforms, availability
 [^ref-8]: [HowLongToBeat – Space Quest V](https://howlongtobeat.com/game/8867) – completion times
@@ -273,7 +273,7 @@ This game has been included in the following collections:
 [^ref-20]: [Sierra Fandom Wiki – Space Quest V](https://sierra.fandom.com/wiki/Space_Quest_V:_The_Next_Mutation) – release date, developer, "somewhat altered sense of humor"
 [^ref-21]: [ScummVM Wiki – Space Quest V](https://wiki.scummvm.org/index.php?title=Space_Quest_V) – 320x200 resolution, 256 colors, ScummVM 1.2.0 support, floppy resource file concatenation notes
 [^ref-22]: [TV Tropes – Space Quest V](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestVTheNextMutation) – Star Wars/Elvis/Pac-Man cameos, 2001 homage, punny planet names, EGA anti-frustration, aptitude test foreshadowing, Genetix/Dynamix logo joke, series continuity error, Captain Quirk full name
-[^ref-23]: [SpaceQuest.net – SQ5 Easter Eggs](https://spacequest.net/sq5/eastereggs/) – Astro Chicken cameo, Russian localization details, Amiga version differences
+[^ref-23]: [SpaceQuest.net – SQ5 Easter Eggs](https://spacequest.net/sq5/eastereggs/) – Astro Chicken cameo
 [^ref-24]: [SpaceQuest.net – SQ5 Spoofs & References](https://spacequest.net/sq5/spoofref/) – Star Trek episode parodies, Aliens/Spaceballs/Hitchhiker's Guide references, Dynamix in-game references
 [^ref-25]: [SpaceQuest.net – SQ5 Cheats & Debug](https://spacequest.net/sq5/cheatdebug/) – Alt+C hotspot viewer, death message viewer bug, debug commands
 [^ref-26]: [Sierra Help – Space Quest V](https://sierrahelp.com/Games/SpaceQuest/SQ5Help.html) – EVA pod speed bug, cloaking device bug, audio driver fixes, patches
@@ -283,3 +283,8 @@ This game has been included in the following collections:
 [^ref-30]: [SpaceQuest.net – SQ5 Plot Inconsistencies](https://spacequest.net/sq5/plotinconsis/) – Magazine contradictions, StarCon Crest design issue, Cliffy spacesuit plot hole, shield inconsistencies, garbage collection paradox
 [^ref-31]: Adventure Gamers – Space Quest V *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – "Very good" rating, "best story and characters," 6-8 hours completion, "one of the worst mazes ever," improved VGA graphics
 [^ref-32]: DOS.Zone – Space Quest V *(download link removed: the game is sold commercially)* – play in browser
+[^ref-33]: [MobyGames – Space Quest: Collector's Edition](https://www.mobygames.com/game/937/space-quest-collectors-edition/) – 1994 compilation of the first five games; 1995 re-release title "Roger Wilco Unclogged"
+[^ref-34]: [MobyGames – Space Quest: Collection Series](https://www.mobygames.com/game/2817/space-quest-collection-series/) – 1997 compilation including Space Quest V
+[^ref-35]: [DOS Days – Space Quest V](https://www.dosdays.co.uk/topics/Games/game_sq5.php) – graphics support for EGA or MCGA/VGA
+[^ref-36]: [ScummVM – Compatibility (1.2.0)](https://www.scummvm.org/compatibility/1.2.0/) – Space Quest V rated "Excellent"
+[^ref-37]: [ScummVM – Compatibility: Space Quest V](https://www.scummvm.org/compatibility/2026.3.0/sci:sq5/) – support level "Excellent", no known issues

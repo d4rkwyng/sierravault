@@ -26,7 +26,7 @@ Designed by [[Mark Crowe]] and [[Scott Murphy]], the game is the sequel to Space
 
 Space Quest II was the last game in the series to use Sierra's AGI engine before the transition to SCI for future titles[^ref-3][^ref-4].
 
-The game was a commercial success, selling over 100,000 copies and earning the SPA Gold Medal from the Software Publishers Association[^ref-1][^ref-5].
+The game was listed fourth in Sierra's Top 5 Bestsellers, which Wikipedia takes to mean it sold over 100,000 copies and earned the Software Publishers Association's Gold Medal[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-6]
@@ -40,13 +40,13 @@ The game was a commercial success, selling over 100,000 copies and earning the S
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
-Several months after saving his home world of Xenon from the dangers of the Sariens, Roger Wilco accepts a position as Head Janitor aboard Xenon Orbital Station 4 as his fame fades into obscurity[^ref-3]. Contacted by his superiors to clean up a mess on a recently arrived shuttle, Roger finds himself ambushed in the station's hangar bay, where he is knocked out and abducted by unknown assailants[^ref-3].
+Some months after rescuing Xenon from the Sariens, Roger Wilco's fame has faded, and he has taken a job as Head Janitor on Xenon Orbital Station 4[^ref-1]. Sent to clean up after a newly docked shuttle, he is jumped in the hangar bay, knocked unconscious and carried off[^ref-1].
 
-When Roger regains consciousness, he finds himself a prisoner on an asteroid base orbiting the jungle planet of Labion, run by Sludge Vohaul—a former scientist of Xenon[^ref-3]. Vohaul reveals he was the creator of the Star Generator, but was exiled by Xenon when he sought to have the technology used as a weapon rather than for peace[^ref-6]. Eager for revenge, he attempted to use the Sariens to steal the generator, but was infuriated when Roger thwarted his plan[^ref-3]. Despite the setback, Vohaul is now creating an army of genetically cloned insurance salesmen to help him eradicate life on Xenon[^ref-3][^ref-6].
+Roger wakes as a captive on an asteroid base circling the jungle planet Labion, the lair of Sludge Vohaul, a scientist formerly of Xenon[^ref-1]. Vohaul explains that he invented the Star Generator and was exiled for wanting it used as a weapon; he had sent the Sariens to steal it, and Roger ruined that plan[^ref-1]. He now intends to wipe out life on Xenon with an army of cloned insurance salesmen[^ref-1].
 
-To punish Roger for his actions, Vohaul sends him to the mines on Labion as a slave[^ref-3]. However, during transport over the jungles, a malfunction on the transport craft causes it to crash, killing Roger's guards[^ref-3]. Escaping detection by Vohaul's goons, Roger makes his way through the jungle to a landing pad and steals a shuttle[^ref-3]. When Vohaul hijacks its controls, Roger is brought back to the asteroid base[^ref-6].
+As punishment, Vohaul ships Roger off to the Labion mines as a slave labourer, but the transport crashes in the jungle and his guards are killed[^ref-1]. Evading Vohaul's henchmen, Roger crosses the jungle, reaches a landing pad and steals a shuttle, only for Vohaul to take remote control of it and fly him back to the asteroid[^ref-1].
 
-With little choice, Roger sneaks around the base and enters Vohaul's control room, where the scientist decides to keep him imprisoned more permanently—shrinking Roger down and trapping him in a glass jar[^ref-6]. Roger manages to break out and infiltrate a life-support machine that has helped keep Vohaul alive[^ref-6]. Disconnecting it, Roger kills Vohaul, restores himself to normal size, activates a self-destruct sequence, and escapes in a pod as the base is destroyed[^ref-6]. Finding the pod cannot keep him alive forever, Roger enters cryosleep to conserve oxygen while awaiting rescue[^ref-6].
+Sneaking through the base to Vohaul's control room, Roger is shrunk and sealed in a glass jar[^ref-1]. He escapes, climbs inside the life-support machine that has kept Vohaul alive, and shuts it off, killing him[^ref-1]. Restored to normal size, Roger triggers the base's self-destruct and flees in an escape pod; with limited air, he puts himself into cryosleep to await rescue[^ref-1].
 
 ## Gameplay
 
@@ -69,7 +69,7 @@ Space Quest II uses the same AGI engine as the original game, featuring 16-color
 - Computer Gaming World noted some objects' unclear descriptions were particularly problematic with CGA graphics[^ref-30]
 - The hidden location of a gem was criticized as "ridiculously illogical" since the entrance to the underwater cave is not shown on screen[^ref-30]
 - The game contains two mazes: a single-screen maze with passages only 2-3 pixels wide (touching the sides kills Roger instantly, reminiscent of the board game "Operation"), and a multi-screen maze in near-total darkness requiring mapping to navigate[^ref-19]
-- Typical of Sierra games, numerous dead ends exist where missing an item or making wrong choices renders the game unwinnable—including an alien kiss that poisons Roger, killing him much later if not addressed[^ref-19]
+- Typical of Sierra games, numerous dead ends exist where missing an item or making wrong choices renders the game unwinnable—including an alien's seemingly harmless kiss with long-term effects on Roger's health[^ref-19]
 
 ## Reception
 
@@ -78,15 +78,15 @@ Space Quest II was a commercial success from launch, receiving significant prais
 
 Computer Gaming World stated: "Though the game is similar to the original Space Quest, the addition of more detailed animation, more difficult puzzles, an improved parser (hurrah!), and greater scope makes a good game even better"[^ref-30]. Antic warned of the difficulty, stating that the ST version "is trickier than the original and graphically superior"[^ref-29]. Macworld wrote that "as in the original game, Space Quest II succeeds with the humor of its animation and scripting"[^ref-31].
 
-Space Quest II was listed number four in Sierra's Top 5 Bestsellers, indicating sales over 100,000 copies and earning the SPA Gold Medal from the Software Publishers Association[^ref-1][^ref-5].
+Space Quest II was listed number four in Sierra's Top 5 Bestsellers, from which it is assumed that it sold over 100,000 copies and earned the SPA Gold Medal from the Software Publishers Association[^ref-1][^ref-5].
 
 ### Modern Assessment
-Adventure Gamers noted that while the text parser may frustrate modern gamers, "it can also yield very rewarding puzzles" and praised the game's humor, including a memorable multi-species public restroom "designed to accommodate all possibilities"[^ref-19]. The game holds a MobyScore of 7.2/10 with 70% positive critic reviews and ratings from 111 players[^ref-6]. On GOG, the Space Quest 1+2+3 collection has a 4.3/5 rating from 577 users[^ref-7]. HowLongToBeat reports the main story takes approximately 2.8 hours to complete[^ref-8].
+Adventure Gamers noted that while the text parser may frustrate modern gamers, "it can also yield very rewarding puzzles" and praised the game's humor, including a memorable multi-species public restroom "designed to accommodate all possibilities"[^ref-19]. The game holds a MobyScore of 7.2 from 113 player ratings, with a 70% average across 16 critic reviews[^ref-6]. On GOG, the Space Quest 1+2+3 collection has a 4.3/5 rating from 578 users[^ref-7]. HowLongToBeat reports the main story takes approximately 2.8 hours to complete[^ref-8].
 
-- **MobyGames:** 7.2/10 MobyScore, 70% critics (111 player ratings)[^ref-6]
-- **GOG:** 4.3/5 (577 ratings, collection)[^ref-7]
-- **Steam:** Very Positive (312 reviews, collection)[^ref-9]
-- **GameFAQs:** 3.68/5 (77 ratings), rated "Tough" difficulty[^ref-22]
+- **MobyGames:** 7.2 MobyScore; critics average 70% (16)[^ref-6]
+- **GOG:** 4.3/5 (578 ratings, collection)[^ref-7]
+- **Steam:** Very Positive, 85% of 335 reviews (collection)[^ref-9]
+- **GameFAQs:** rated "Good" (77 ratings), difficulty "Tough"[^ref-22]
 - **HowLongToBeat:** 2.8 hours main story[^ref-8]
 
 ## Development
@@ -110,38 +110,36 @@ The original game came with: a box, two 3.5" game disks or three 5.25" disks (ve
 ### Debug Modes and Cut Content
 - **Debug mode:** Typing DBG or BACKSTAGE enables debug commands including teleport (TP), position setting (POS), and inventory manipulation (GET OBJECT); TESTER displays Roger's coordinates; CLOCK shows game time[^ref-21]
 - **Unused content:** Data mining revealed unused graphics including walking animations for blonde technicians and Roger's boss, a pink slug creature, an Atari 2600-style bird, and ruins of two spaceships intended for Labion[^ref-21]
-- **Cut content:** A death message reading "Too bad you've failed miserably and doomed all your people to a horrible death" was removed; a Stevie Wonder joke was replaced; toilet paper humor was cut "for matters of taste"[^ref-21]
-- **Source code leak:** Versions 2.0D and 2.0F accidentally shipped with ~70% of Sierra's AGI interpreter source code left on disk 1 due to improper formatting of the master disk—the same mistake occurred with King's Quest III v2.14[^ref-21]
+- **Cut content:** A death message reading "Too bad you've failed miserably and doomed all your people to a horrible death" was removed; a Stevie Wonder joke was replaced; toilet-paper humor was possibly cut "due to matters of taste"[^ref-21]
+- **Source code leak:** Disk 1 of the 720KB versions 2.0D and 2.0F carried about 70% of Sierra's AGI interpreter source code in its "free" space, because the master disk wasn't formatted before use; a few more files turned up on disk 1 of King's Quest III v2.14. It went unnoticed until 2016[^ref-33][^ref-34]
 
 ### Easter Eggs and Trivia
-- **Easter eggs:** When caught in a hunter's snare, Roger dreams he's Larry Laffer from Leisure Suit Larry; a hidden pit trap responds to "look at trap" with the narrator sarcastically replying "What trap? I don't see any trap!"[^ref-20]; typing "cheat" displays an alternative ending screen with 255/250 points[^ref-26]; Scott Murphy secretly added a message mocking Mark Crowe that appears when players attempt an inappropriate action with a corpse[^ref-26]
+- **Easter eggs:** When caught in a hunter's snare, Roger dreams he's Larry Laffer from Leisure Suit Larry; a hidden pit trap responds to "look at trap" with "What trap? I don't see any trap! Hey guys, do you see any trap here? Nope, no trap here!" (as quoted in a MobyGames user review)[^ref-37]; typing "cheat" displays an alternative ending screen with 255/250 points[^ref-26]; Scott Murphy secretly added a message mocking Mark Crowe that appears when players attempt an inappropriate action with a corpse[^ref-26]
 - **Parser humor:** One puzzle requires literally typing "the word" when told to "say the word"[^ref-20]
 - **Notable deaths:** A floor waxer squishes Roger into a pancake; lighting a lighter in the bathroom causes a methane explosion that destroys part of the asteroid[^ref-20]
 - **Sci-fi parodies:** Vohaul's ape-like guards resemble Planet of the Apes; an alien's kiss leads to a chestburster-style death parodying Alien; the escape pod ending mirrors Alien's finale with Roger entering cryosleep hoping for rescue[^ref-20]
-- **Printing error:** The game's original packaging advertised a "FREE Mating Whistle" mail-in offer, but Sierra never actually created the whistles—Mark Crowe took the blame for this oversight[^ref-16]
+- **Continuity gaffe:** The in-game order form Roger mails off reads "Free Mating Whistle", yet in later games the Gippazoid Novelty Company sends bill collectors after him for not paying. Mark Crowe joked: "Perhaps a billing computer malfunction at Gippazoid?" and admitted, "I'm afraid I'm responsible for the mail fraud scheme."[^ref-16]
 - **Pop culture note:** Sludge Vohaul provides the page image for TVTropes' "Dark Lord on Life Support" entry[^ref-20]
 
 ### Version History
 
-Documented versions referenced in source material:
-
-- **Version 2.0** — see contemporaneous sources cited in this page
-- **v2.14** — see contemporaneous sources cited in this page
+- **2.0A** (interpreter 2.912, 1988), **2.0C** (2.915 / 2.917), **2.0D** (2.936), **2.0F** (2.936; latest)[^ref-13]
+- Apple II: version 2.0A, interpreter 0.089[^ref-35]
 
 ## Legacy
 
-According to Sierra On-Line, combined sales of the Space Quest series surpassed 1.2 million units by the end of March 1996[^ref-32]. Space Quest II established Sludge Vohaul as the series' recurring arch-nemesis, a role he would continue to play throughout the franchise[^ref-3].
+According to Sierra On-Line, combined sales of the Space Quest series surpassed 1.2 million units by the end of March 1996[^ref-32]. Space Quest II established Sludge Vohaul as Roger's "accidental arch-nemesis"[^ref-36].
 
-In 2011, [[Infamous Adventures]] released a fan remake of Space Quest II on December 31, featuring VGA-style graphics, a full voice cast, and extended content[^ref-27]. The project was announced on April 1, 2007 and took over five years to complete[^ref-27]. Version 2.0 was released on January 1, 2020 with bug fixes, graphical refinements, and new hidden content including a Space Quest III easter egg[^ref-27]. The remake is available for Windows, macOS (including Apple Silicon), and Linux as a free download[^ref-27]. The game was followed by Space Quest III: The Pirates of Pestulon in 1989, which transitioned the series to the SCI engine[^ref-4].
+In 2011, [[Infamous Adventures]] released a fan remake of Space Quest II on December 31, featuring VGA-style graphics, a full voice cast, and extended content[^ref-27]. The project was announced on April 1, 2007 and released on New Year's Eve 2011, nearly five years later[^ref-1]. Version 2.0 was released on January 1, 2020 with bug fixes, graphical refinements, and new hidden content including a Space Quest III easter egg[^ref-27]. The remake is available for Windows, macOS (including Apple Silicon), and Linux as a free download[^ref-27]. The game was followed by Space Quest III: The Pirates of Pestulon in 1989, which transitioned the series to the SCI engine[^ref-4].
 
 ### Collections
 
 This game has been included in the following collections:
-- Space Quest: Collector's Edition (a.k.a. Roger Wilco Unclogged)[^ref-2]
-- Space Quest Saga (The)[^ref-2]
-- [Space Quest Collection (XP)](https://store.steampowered.com/app/10110)[^ref-2][^ref-9]
-- Space Quest: Collection Series[^ref-2]
-- Space Quest Trilogy (The)[^ref-2]
+- Space Quest: Collector's Edition (a.k.a. Roger Wilco Unclogged)[^ref-38]
+- Space Quest Saga (The)[^ref-39]
+- [Space Quest Collection (XP)](https://store.steampowered.com/app/10110)[^ref-42][^ref-9]
+- Space Quest: Collection Series[^ref-41]
+- Space Quest Trilogy (The)[^ref-40]
 - [Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3)[^ref-7]
 
 ## Downloads
@@ -196,8 +194,8 @@ This game has been included in the following collections:
 [^ref-12]: [StrategyWiki – Space Quest II](https://strategywiki.org/wiki/Space_Quest_II) – game guide
 [^ref-13]: [AGI Wiki – Space Quest II](http://agiwiki.sierrahelp.com/index.php/Space_Quest_II%3A_Vohaul%27s_Revenge) – engine details
 [^ref-14]: [WiW – Two Guys from Andromeda Interview](https://wiw.org/~jess/2guysint.html) – development history
-[^ref-15]: [Hardcore Gaming 101 – Space Quest](http://www.hardcoregaming101.net/space-quest/) – retrospective analysis
-[^ref-16]: [Space Quest FAQ](https://wiw.org/~jess/sqfaq.html) – FREE Mating Whistle error
+[^ref-15]: [Hardcore Gaming 101 – Space Quest II](http://www.hardcoregaming101.net/space-quest-ii/) – Kurt Kalata, September 11, 2017
+[^ref-16]: [Space Quest FAQ](https://wiw.org/~jess/sqfaq.html) – "Free Mating Whistle" order form, Mark Crowe's response
 [^ref-17]: [Virtual Broomcloset – Publications Archive](https://wiw.org/~jess/publications.html) – manuals, hint books
 [^ref-18]: DOS.Zone – Space Quest II *(download link removed: the game is sold commercially)* – play in browser
 [^ref-19]: Adventure Gamers – Space Quest II *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – review, Vohaul brothers backstory, maze descriptions, dead ends
@@ -214,3 +212,13 @@ This game has been included in the following collections:
 [^ref-30]: [Computer Gaming World – July 1988 (Issue 49)](https://archive.org/details/Computer_Gaming_World_Issue_49) – Douglas Seacat review: "improved parser (hurrah!)", "greater scope", CGA graphics issues, "ridiculously illogical" gem puzzle
 [^ref-31]: [Macworld – March 1989](https://archive.org/details/MacWorld_8903_March_1989) – "Animated Adventure Games" review, p.183: "succeeds with the humor of its animation and scripting"
 [^ref-32]: [SEC Filing – Sierra On-Line 10-K (March 1996)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "Space Quest... sold more than 1.2 million copies in this series"
+[^ref-33]: [Lance Ewing – "Do you own this Space Quest 2 disk?" (May 22, 2024)](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html) – AGI source code in the unused space of SQ2 2.0D/2.0F disk 1
+[^ref-34]: [GitHub – lanceewing/agi](https://github.com/lanceewing/agi) – recovered AGI interpreter source; extra files from King's Quest III v2.14 disk 1; first discovered October 2016
+[^ref-35]: [Internet Archive – Space Quest II (woz-a-day collection)](https://archive.org/details/wozaday_Space_Quest_II_Vohauls_Revenge) – Apple II version 2.0A, interpreter 0.089
+[^ref-36]: [Hardcore Gaming 101 – Space Quest I](https://www.hardcoregaming101.net/space-quest-i/) – series overview: Sludge Vohaul as "Roger's accidental arch-nemesis"
+[^ref-37]: [MobyGames – Space Quest II user reviews](https://www.mobygames.com/game/128/space-quest-ii-chapter-ii-vohauls-revenge/reviews/) – player review quoting the "look at trap" response
+[^ref-38]: [MobyGames – Space Quest: Collector's Edition](https://www.mobygames.com/game/937/space-quest-collectors-edition/) – contents include Space Quest II
+[^ref-39]: [MobyGames – The Space Quest Saga: Roger Wilco](https://www.mobygames.com/game/3815/the-space-quest-saga-roger-wilco/) – contents include Space Quest II
+[^ref-40]: [MobyGames – The Space Quest Trilogy](https://www.mobygames.com/game/4106/the-space-quest-trilogy-roger-wilco-the-other-world-series/) – contents include Space Quest II
+[^ref-41]: [MobyGames – Space Quest: Collection Series](https://www.mobygames.com/game/2817/space-quest-collection-series/) – contents include Space Quest II
+[^ref-42]: [MobyGames – Space Quest Collection](https://www.mobygames.com/game/25916/space-quest-collection/) – contents include Space Quest II
