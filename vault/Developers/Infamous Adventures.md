@@ -81,7 +81,7 @@ The studio's influence extends beyond their own releases, as their success with 
 [^ref-13]: [Wikipedia](https://en.wikipedia.org/wiki/Infamous_Adventures) — Comprehensive company overview
 [^ref-14]: [GameBoomers Forum](https://www.gameboomers.com/forum/ubbthreads.php/topics/116926/1) — Fan community discussions
 [^ref-15]: [MobyGames](https://www.mobygames.com/company/8321/infamous-adventures/) — Complete game database and company profile
-[^ref-16]: [Adventure Gamers Giveaway](https://web.archive.org/web/20250625004719/https://adventuregamers.com/article/the-sierra-adventure-the-story-of-sierra-on-line-giveaway) — Sierra gaming history context
+[^ref-16]: Adventure Gamers Giveaway *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no clean pre-sale archived copy found)* — Sierra gaming history context
 [^ref-17]: [Games Industry Search](https://www.gamesindustry.biz/search?q=Infamous+Adventures) — Industry coverage and news
 [^ref-18]: [Sierra Classic Gaming](https://sierraclassicgaming.com/developer/infamous-adventures/) — Developer profile and game analysis
 [^ref-19]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Company:Infamous_Adventures) — Technical information and compatibility

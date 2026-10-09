@@ -225,7 +225,7 @@ The SCI remake was included in several Sierra compilations:[^ref-2]
 [^ref-4]: [King's Quest Omnipedia – KQ1 MS-DOS](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_(MS-DOS) – ) – Development, changes, reception
 [^ref-5]: [Adventure Gamers – KQ1 SCI](https://web.archive.org/web/20230322163058/https://adventuregamers.com/games/view/36653) – – Plot description
 [^ref-6]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) – – Story summary
-[^ref-7]: [Adventure Gamers – King's Quest review](https://web.archive.org/web/20250613164940/https://adventuregamers.com/games/kings-quest-quest-for-the-crown) – – SCI remake improvements, interface
+[^ref-7]: Adventure Gamers – King's Quest review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no clean pre-sale archived copy found)* – – SCI remake improvements, interface
 [^ref-8]: [King's Quest Omnipedia – KQ1SCI development](https://kingsquest.fandom.com/wiki/KQ1SCI_development) – – Josh Mandel quotes, cut content
 [^ref-9]: [Adventure Classic Gaming – KQ1 Review](http://www.adventureclassicgaming.com/index.php/site/reviews/120) – – 5/5 review, Roberta Williams quotes
 [^ref-10]: [Sierra Wiki – KQ1 SCI](https://sierra.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_(SCI) – ) – Puzzle changes

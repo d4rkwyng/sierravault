@@ -238,7 +238,7 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 
 [^ref-1]: [MobyGames – The Prophecy](https://www.mobygames.com/game/6218/the-prophecy/) – developer, designer, publisher, platform, technical specifications
 [^ref-2]: [Best DOS Games – The Prophecy](https://bestdosgames.com/games/the-prophecy) – artistic comparisons, CD edition details, visual style analysis
-[^ref-3]: [Adventure Gamers – Ween: The Prophecy](https://web.archive.org/web/20250626184339/https://adventuregamers.com/games/ween-the-prophecy) – review score, system requirements, critical assessment
+[^ref-3]: Adventure Gamers – Ween: The Prophecy *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no clean pre-sale archived copy found)* – review score, system requirements, critical assessment
 [^ref-4]: [Internet Archive – Ween: The Prophecy Full Game](https://archive.org/details/msdos_Ween_-_The_Prophecy_1993) – plot description, branching paths, gameplay structure
 [^ref-5]: [Internet Archive – The Prophecy Demo](https://archive.org/details/TheProphecy_1020) – graphic style, interface description
 [^ref-6]: [Wikipedia – The Prophecy (video game)](https://en.wikipedia.org/wiki/The_Prophecy_(video_game)) – review scores, gameplay mechanics, trivia

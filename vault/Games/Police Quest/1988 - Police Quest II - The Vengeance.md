@@ -267,7 +267,7 @@ The game's legacy extends beyond entertainment into actual law enforcement train
 
 [^ref-1]: [Wikipedia – Police Quest II: The Vengeance](https://en.wikipedia.org/wiki/Police_Quest_II:_The_Vengeance) – release dates, platforms, composer, sales data, reviews, development history, Japanese version details
 [^ref-2]: Abandonware DOS – Police Quest 2 *(download link removed: the game is sold commercially)* – Computer Gaming World review quotes, Jim Walls background, trivia about real-life basis
-[^ref-3]: [Adventure Gamers – Police Quest 2: The Vengeance](https://web.archive.org/web/20250626184246/https://adventuregamers.com/article/police_quest_2_the_vengeance) – retrospective review, SCI engine details, Easter eggs, Jim Walls typing ability
+[^ref-3]: [Adventure Gamers – Police Quest 2: The Vengeance](https://web.archive.org/web/20250609145841/https://adventuregamers.com/article/police_quest_2_the_vengeance) – retrospective review, SCI engine details, Easter eggs, Jim Walls typing ability
 [^ref-4]: ClassicReload – Police Quest 2 *(download link removed: the game is sold commercially)* – interface description, police procedures requirement
 [^ref-5]: Best DOS Games – Police Quest 2 *(download link removed: the game is sold commercially)* – realism quotes, gameplay description
 [^ref-6]: [MobyGames – Police Quest 2: The Vengeance](https://www.mobygames.com/game/147/police-quest-2-the-vengeance/) – credits, ratings, platforms, Easter eggs, official description

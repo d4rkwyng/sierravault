@@ -99,4 +99,4 @@ No Conquests revival has been announced; the IP sits with Activision Blizzard / 
 [^ref-13]: [GOG.com — Conquests of Camelot](https://www.gog.com/en/game/conquests_of_camelot) — Current availability
 [^ref-14]: [GOG.com — Conquests of the Longbow](https://www.gog.com/en/game/conquests_of_the_longbow) — Current availability
 [^ref-15]: [The Digital Antiquarian — Conquests](https://www.filfre.net/?s=Conquests+of+Camelot) — Long-form analysis
-[^ref-16]: [Adventure Gamers — Christy Marx feature](https://web.archive.org/web/20250630235200/https://adventuregamers.com/) — Designer profile (Cloudflare-protected; view in browser)
+[^ref-16]: Adventure Gamers — Christy Marx feature *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no clean pre-sale archived copy found)* — Designer profile (Cloudflare-protected; view in browser)

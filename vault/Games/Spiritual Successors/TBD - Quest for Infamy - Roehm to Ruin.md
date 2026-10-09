@@ -211,7 +211,7 @@ The game stands as part of a broader movement of Sierra-inspired spiritual succe
 [^ref-7]: [Wikipedia – Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) – company founding, Quest for Infamy Kickstarter, Time Magazine mention
 [^ref-8]: [Steam News – Quest for Infamy Prequel Announcement](https://store.steampowered.com/news/app/264560/view/2870438037408794565) – April 2015 announcement, story premise
 [^ref-9]: [King's Quest Omnipedia – King's Quest Style Games](https://kingsquest.fandom.com/wiki/King%27s_Quest_Style_Games) – genre classification, Sierra inspiration
-[^ref-10]: [Adventure Gamers – Quest for Infamy (2014)](https://web.archive.org/web/20250626184158/https://adventuregamers.com/games/quest-for-infamy) – review score, pros and cons, release info
+[^ref-10]: Adventure Gamers – Quest for Infamy (2014) *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no clean pre-sale archived copy found)* – review score, pros and cons, release info
 [^ref-11]: [Cliqist – Infamous Quests Kickstarter Coverage](http://cliqist.com/2015/04/04/two-new-games-infamous-quests/) – demo availability, funding progress, dual project concept
 [^ref-12]: [Steam Community – Quest for Infamy](https://steamcommunity.com/app/264560/allnews/) – news announcements, version updates
 [^ref-13]: [Infamous Quests Patreon – January 2026 Update](https://www.patreon.com/posts/small-update-147963671) – Steve Patrick recording session, near-completion status

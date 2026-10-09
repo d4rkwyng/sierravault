@@ -72,7 +72,7 @@ The most important secondary sources — extended retrospectives, oral histories
 
 - **[The Digital Antiquarian (filfre.net)](https://www.filfre.net)** — Jimmy Maher's gold-standard long-form history of the adventure-game era. Multi-part Sierra coverage including the Williams' founding, AGI development, every flagship series. Cite for: business history, design context, era atmosphere.[^ref-filfre]
 - **[Hardcore Gaming 101](http://www.hardcoregaming101.net)** — Encyclopedic series articles on Sierra franchises (King's Quest, Space Quest, Quest for Glory, etc.). Cite for: gameplay analysis, version comparison, modern reception.[^ref-hg101]
-- **[Adventure Gamers](https://web.archive.org/web/20250630235200/https://adventuregamers.com/)** — Genre-specialist review site; archive includes reviews of every released Sierra adventure. (Note: site reorganized URLs in 2025, breaking many citations — see `../docs/dead_urls_worklist.md` (dead-URL worklist).)[^ref-advgamers]
+- **Adventure Gamers** — Genre-specialist review site; archive includes reviews of every released Sierra adventure. (Note: site reorganized URLs in 2025, breaking many citations — see `../docs/dead_urls_worklist.md` (dead-URL worklist).)[^ref-advgamers]
 - **[Adventure Game Hotspot](https://adventuregamehotspot.com)** — Successor site to Adventure Gamers staff, founded after the 2022 reorganization. Hosts new reviews, interviews, retrospectives.[^ref-aghotspot]
 - **[Sierra Gamers (sierragamers.com)](https://www.sierragamers.com)** — Ken Williams' fan-community site, hosts oral-history interviews with former Sierra staff. Primary source on personalities and personal histories.[^ref-sierragamers]
 - **[SpaceQuest.net](https://www.spacequest.net)** — Comprehensive fan site for Space Quest including detailed easter eggs, cameos, plot inconsistencies, and the cancelled Space Quest 7 documentation. Subpages: `eastereggs`, `spoofref`, `cheatdebug`, `funfacts`, `cameos`, `plotinconsis`, `cancelled`.[^ref-spacequestnet]
@@ -177,7 +177,7 @@ Before adding a citation to a vault page:
 [^ref-iadosgames]: [Internet Archive DOS games](https://archive.org/details/softwarelibrary_msdos_games) — Browser preservation
 [^ref-filfre]: [The Digital Antiquarian](https://www.filfre.net) — Jimmy Maher's history
 [^ref-hg101]: [Hardcore Gaming 101](http://www.hardcoregaming101.net) — Series retrospectives
-[^ref-advgamers]: [Adventure Gamers](https://web.archive.org/web/20250630235200/https://adventuregamers.com/) — Adventure-game review site
+[^ref-advgamers]: Adventure Gamers *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no clean pre-sale archived copy found)* — Adventure-game review site
 [^ref-aghotspot]: [Adventure Game Hotspot](https://adventuregamehotspot.com) — Adventure Gamers successor
 [^ref-sierragamers]: [Sierra Gamers](https://www.sierragamers.com) — Williams' fan-community site
 [^ref-spacequestnet]: [Space Quest.net](https://www.spacequest.net) — Space Quest fan site

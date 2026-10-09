@@ -217,7 +217,7 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 [^ref-9]: [itch.io – Sierra Style Adventures Collection](https://itch.io/c/1738056/sierra-style-adventures) – genre categorization
 [^ref-10]: [Metacritic – The King's Challenge](https://www.metacritic.com/game/the-order-of-the-thorne-the-kings-challenge/) – review scores, critic aggregates, user ratings
 [^ref-11]: [Steam – The King's Challenge](https://store.steampowered.com/app/425600/The_Order_of_the_Thorne__The_Kings_Challenge/) – release date, user reviews, publisher info
-[^ref-12]: [Adventure Gamers – The King's Challenge Review](https://web.archive.org/web/20250626184147/https://adventuregamers.com/games/order-of-the-thorne-the-kings-challenge) – anthology series description, Golden Age comparison
+[^ref-12]: [Adventure Gamers – The King's Challenge Review](https://web.archive.org/web/20250610144744/https://adventuregamers.com/games/order-of-the-thorne-the-kings-challenge) – anthology series description, Golden Age comparison
 [^ref-13]: [Cliqist – The King's Challenge Review](http://cliqist.com/2016/02/02/order-of-the-thorne-the-kings-challenge-plays-a-wonderful-melody/) – series background, Kickstarter history, gameplay praise
 [^ref-14]: [RPG Codex – Order of the Thorne Discussion](https://mail.rpgcodex.net/forums/goto/post?id=4646798) – developer interaction, fan reception
 [^ref-15]: [King's Quest Omnipedia – King's Quest Style Games](https://kingsquest.fandom.com/wiki/King%27s_Quest_Style_Games) – series categorization among Sierra-inspired games

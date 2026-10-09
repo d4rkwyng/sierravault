@@ -122,4 +122,4 @@ Used together with [[Corporate Lineage|Corporate Lineage]] and the per-studio De
 [^ref-12]: [The Strong Museum](https://www.museumofplay.org) — Museum-level studio archives
 [^ref-13]: [Sierra Gamers — Studio interviews](https://www.sierragamers.com) — Ex-staff oral histories
 [^ref-14]: [Halcyon Days](https://dadgum.com/halcyon/) — Early-era studio interviews
-[^ref-15]: [Adventure Gamers — Studio retrospectives](https://web.archive.org/web/20250630235200/https://adventuregamers.com/) — Adventure-genre studio coverage (Cloudflare-protected; view in browser)
+[^ref-15]: Adventure Gamers — Studio retrospectives *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no clean pre-sale archived copy found)* — Adventure-genre studio coverage (Cloudflare-protected; view in browser)
