@@ -6,15 +6,15 @@ defunct: null
 headquarters: "Tokyo, Japan"
 notable_games: ["Lunar: The Silver Star", "Grandia", "Thexder"]
 parent_company: "GungHo Online Entertainment"
-last_updated: "2026-05-08"
+last_updated: "2026-10-09"
 ---
 # Game Arts
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-Game Arts Co., Ltd. is a legendary Japanese video game development studio founded in 1985, renowned for creating some of the most beloved JRPGs and innovative action games in gaming history[^ref-1]. The company emerged during the golden age of Japanese game development, establishing itself as a pioneer in cinematic storytelling, advanced graphics technology, and emotionally resonant gameplay experiences that would influence generations of developers[^ref-2]. Founded by Yoichi Miyaji, Game Arts quickly gained recognition for technically ambitious titles that pushed hardware limitations, beginning with the transforming mecha shooter Thexder and evolving into masterful RPG experiences like the Lunar and Grandia series[^ref-3].
+Game Arts Co., Ltd. is a Japanese video game developer and publisher founded in 1985. It began with the action game Thexder and is best known in the West for the Lunar and Grandia role-playing series and the Gungriffon vehicle-simulation games[^ref-1]. The company emerged during the golden age of Japanese game development, establishing itself as a pioneer in cinematic storytelling, advanced graphics technology, and emotionally resonant gameplay experiences that would influence generations of developers[^ref-2]. Founded by Yoichi Miyaji, Game Arts quickly gained recognition for technically ambitious titles that pushed hardware limitations, beginning with the transforming mecha shooter Thexder and evolving into masterful RPG experiences like the Lunar and Grandia series[^ref-3].
 
 Throughout its nearly four-decade existence, Game Arts has maintained a reputation for crafting games with exceptional production values, memorable soundtracks, and innovative gameplay mechanics that often anticipated industry trends[^ref-4]. The studio's commitment to storytelling excellence and technical innovation has made it a respected name among both developers and players, particularly in the JRPG community where their titles are considered classics[^ref-5]. Despite facing various ownership changes and industry challenges over the years, Game Arts continues to operate under GungHo Online Entertainment, preserving its legacy while adapting to modern gaming landscapes[^ref-6].
 
@@ -34,7 +34,7 @@ The Sierra partnership allowed Game Arts to gain international exposure while ma
 
 ### Later Years and Continued Operation
 
-In the 1990s, Game Arts shifted focus toward role-playing games, creating what many consider their masterpieces: the Lunar and Grandia series[^ref-20]. These games featured extensive voice acting, animated cutscenes, and emotional storytelling that raised the bar for JRPG presentation[^ref-1]. The Lunar series, in particular, became legendary for its production values and memorable characters, influencing countless other developers[^ref-2].
+In the 1990s, Game Arts shifted focus toward role-playing games, creating what many consider their masterpieces: the Lunar and Grandia series[^ref-20]. Lunar: The Silver Star was designed as a "different kind of RPG" that used the CD-ROM format for full-motion video, high-quality audio and voice acting, built around animated story sequences overseen by artist Toshiyuki Kubooka[^ref-21]. The Lunar series, in particular, became legendary for its production values and memorable characters, influencing countless other developers[^ref-2].
 
 The company eventually became part of GungHo Online Entertainment, allowing them to continue operations while benefiting from larger corporate resources[^ref-3]. Despite industry changes and the challenges facing traditional JRPG developers, Game Arts has maintained its commitment to quality game development, occasionally releasing new titles and remasters that honor their legacy[^ref-4]. Their influence on the gaming industry, particularly in the realm of cinematic storytelling and technical innovation, remains significant even as the studio has scaled back from its peak production years[^ref-5].
 
@@ -56,7 +56,7 @@ Grandia represented Game Arts' evolution of their RPG design philosophy, featuri
 
 Yoichi Miyaji, the founder and longtime president of Game Arts, served as the driving creative force behind the company's most successful titles[^ref-18]. His vision of creating cinematic gaming experiences shaped the studio's development philosophy and led to their reputation for high production values[^ref-19]. Miyaji's leadership during the company's formative years established the foundation for their later success with RPG titles[^ref-20].
 
-Noriyuki Iwadare, the composer responsible for many of Game Arts' most memorable soundtracks, created musical scores that became inseparable from the gaming experiences themselves[^ref-1]. His work on the Lunar and Grandia series demonstrated how video game music could achieve the emotional depth and complexity of film scores[^ref-2]. Iwadare's compositions often featured full orchestral arrangements and vocal themes that enhanced the narrative impact of key story moments[^ref-3].
+Noriyuki Iwadare composed for Game Arts' Lunar and Grandia series, winning Best Game Music awards for Lunar: The Silver Star (1991), Grandia (1997) and Grandia 2 (2000)[^ref-22]. His work on the Lunar and Grandia series demonstrated how video game music could achieve the emotional depth and complexity of film scores[^ref-2]. Iwadare's compositions often featured full orchestral arrangements and vocal themes that enhanced the narrative impact of key story moments[^ref-3].
 
 ## Legacy
 
@@ -88,7 +88,7 @@ The technical innovations pioneered by Game Arts, particularly in their early ac
 
 ## References
 
-[^ref-1]: [Grokipedia - Game Arts](https://grokipedia.com/page/Game_Arts) — comprehensive company overview and history
+[^ref-1]: [Game Arts - Wikipedia](https://en.wikipedia.org/wiki/Game_Arts) — founded 1985; Thexder; Lunar, Grandia and Gungriffon
 [^ref-2]: [JuegoStudio - AAA Game Art Services](https://www.juegostudio.com/game-art-services/aaa-game-art-studio) — context on game development industry
 [^ref-3]: [Amazon - Untold History of Japanese Game Developers](https://www.amazon.com/Untold-History-Japanese-Game-Developers/dp/0992926025) — detailed coverage of Japanese game development studios
 [^ref-4]: [Reddit JRPG Discussion](https://www.reddit.com/r/JRPG/comments/14hcosb/what_happened_to_game_arts_the_company_that/) — community discussion on Game Arts' current status
@@ -108,3 +108,5 @@ The technical innovations pioneered by Game Arts, particularly in their early ac
 [^ref-18]: [Wikipedia - Game Arts](https://en.wikipedia.org/wiki/Game_Arts) — authoritative encyclopedia entry
 [^ref-19]: [Game Arts Official Website](https://www.gamearts.co.jp/en/) — official company information
 [^ref-20]: [YouTube Documentary](https://www.youtube.com/watch?v=Q-hd1WdW_ug) — video documentary coverage
+[^ref-21]: [Lunar: The Silver Star - Wikipedia](https://en.wikipedia.org/wiki/Lunar:_The_Silver_Star) — design goals, FMV and voice acting, Kubooka's animated sequences
+[^ref-22]: [Noriyuki Iwadare - Wikipedia](https://en.wikipedia.org/wiki/Noriyuki_Iwadare) — Lunar and Grandia composer; Best Game Music awards 1991, 1997, 2000

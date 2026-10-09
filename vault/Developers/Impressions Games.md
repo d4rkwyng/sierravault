@@ -22,7 +22,7 @@ The studio's greatest achievements came through their city-building series, part
 
 ### Founding and Early Years
 
-Impressions Games was established in 1989 by David Lester, who had previously worked in the gaming industry and recognized the potential for more sophisticated strategy and simulation games.[^ref-7] The company initially focused on creating complex strategy games that appealed to serious gamers seeking depth and historical authenticity.[^ref-8] Their early catalog included titles such as "Merchant Colony" (1991) and "The Charge of the Light Brigade" (1991), which demonstrated their commitment to historical themes and strategic gameplay.[^ref-9]
+Impressions Games was established in 1989 by David Lester, who had previously worked in the gaming industry and recognized the potential for more sophisticated strategy and simulation games.[^ref-7] The company initially focused on creating complex strategy games that appealed to serious gamers seeking depth and historical authenticity.[^ref-8] Their early catalog included "Charge of the Light Brigade" (1991), which they developed, and "Merchant Colony" (1991), which they published, reflecting the studio's focus on historical strategy.[^ref-9]
 
 During the early 1990s, Impressions Games developed a reputation for producing high-quality strategy titles across various historical periods and themes.[^ref-10] Games like "Air Bucks" (1992), which simulated airline management, and "Conquest of Japan" (1992) showcased the studio's versatility in tackling different subjects while maintaining their focus on strategic depth.[^ref-11] The company's breakthrough came with the original "Caesar" in 1993, which established their expertise in ancient Roman themes and city-building mechanics.[^ref-12]
 
@@ -48,7 +48,7 @@ Building on the success of "Caesar III," "Pharaoh" transported players to ancien
 
 ### Zeus: Master of Olympus (2000)
 
-"Zeus: Master of Olympus" represented the culmination of Impressions Games' city-building series, featuring the most sophisticated graphics and gameplay mechanics the studio had ever created.[^ref-7] Set in ancient Greece, the game introduced mythological elements including interactions with Greek gods and legendary creatures, adding a fantastical dimension to the established city-building formula.[^ref-8] The title was widely regarded as a masterpiece of game design, combining historical authenticity with engaging mythology to create an unforgettable gaming experience.[^ref-9]
+"Zeus: Master of Olympus" represented the culmination of Impressions Games' city-building series, featuring the most sophisticated graphics and gameplay mechanics the studio had ever created.[^ref-7] Set in ancient Greece, the game introduced mythological elements including interactions with Greek gods and legendary creatures, adding a fantastical dimension to the established city-building formula.[^ref-8] It received "generally favorable reviews" according to Metacritic and was nominated for PC Strategy Game of the Year at the 4th Annual Interactive Achievement Awards.[^ref-21]
 
 ### Lords of the Realm II (1996)
 
@@ -110,7 +110,7 @@ Many former Impressions Games employees went on to found or join other notable g
 [^ref-6]: [Ranker](https://www.ranker.com/list/impressions-games-games-list/reference) — Comprehensive game listings
 [^ref-7]: [Museum Digital](https://global.museum-digital.org/people/12263) — Cultural and historical impact
 [^ref-8]: [Academic Kids](https://academickids.com/encyclopedia/index.php/Impressions_Games) — Educational resource and company overview
-[^ref-9]: [Grokipedia](https://grokipedia.com/page/Impressions_Games) — Company history and development details
+[^ref-9]: [Impressions Games - Wikipedia](https://en.wikipedia.org/wiki/Impressions_Games) — Company history; lists of games developed and published
 [^ref-10]: [Sierra Wiki](https://sierra.fandom.com/wiki/Sierra_Entertainment) — Sierra acquisition and partnership details
 [^ref-11]: Internet Archive *(download link removed: the game is sold commercially)* — Game preservation and historical record
 [^ref-12]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Company:Impressions_Games) — Technical information and game compatibility
@@ -122,3 +122,4 @@ Many former Impressions Games employees went on to found or join other notable g
 [^ref-18]: [GG Deals](https://gg.deals/games/developed-by-impressions-games/) — Modern availability and pricing information
 [^ref-19]: [Steam](https://store.steampowered.com/search/?developer=Impressions+Games) — Current digital distribution and player reviews
 [^ref-20]: [MobyGames](https://www.mobygames.com/company/102/impressions-games/) — Complete development history and credits
+[^ref-21]: [Zeus: Master of Olympus - Wikipedia](https://en.wikipedia.org/wiki/Zeus:_Master_of_Olympus) — Metacritic "generally favorable"; AIAS PC Strategy Game of the Year nominee

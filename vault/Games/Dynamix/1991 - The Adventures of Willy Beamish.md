@@ -231,7 +231,7 @@ The "best" ending requires maintaining good standing with parents while successf
 | Ghost Beamish (Grandfather) | Stan Boyd[^ref-46] |
 | Guard | Dave Lund[^ref-46] |
 
-The CD-ROM version features 42 voiced characters.[^ref-47] Jimmy Maher of The Digital Antiquarian described the voice performances as featuring "some of the most annoying children's voices ever recorded."[^ref-18]
+For the CD port, according to Sega-16's development history, "each of the forty-two characters was cast and recorded by professional voice actors."[^ref-47] Jimmy Maher of The Digital Antiquarian described the voice performances as featuring "some of the most annoying children's voices ever recorded."[^ref-18]
 
 ## Legacy
 
@@ -346,7 +346,7 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-44]: [MobyGames – Trivia](https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/trivia) – awards, packaging, version differences
 [^ref-45]: [TV Tropes – Willy Beamish](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheAdventuresOfWillyBeamish) – easter eggs, speed bugs, cult status
 [^ref-46]: [Behind the Voice Actors – Willy Beamish](https://www.behindthevoiceactors.com/video-games/the-adventures-of-willy-beamish/) – complete voice cast
-[^ref-47]: [Grokipedia – Willy Beamish](https://grokipedia.com/page/The_Adventures_of_Willy_Beamish) – 42 voiced characters, development team size
+[^ref-47]: [Sega-16 – Behind the Design: Adventures of Willy Beamish](https://www.sega-16.com/2007/03/behind-the-design-adventures-of-willy-beamish/) – forty-two characters voiced by professional actors for the CD port
 [^ref-48]: [Entertainment Weekly Archive](https://web.archive.org/web/20150925055018/http://www.ew.com/article/1993/08/20/videogames-latest-location) – retail price
 [^ref-49]: [Gaming History 101](https://gaminghistory101.com/2012/11/07/willy-beamish/) – secondary market prices
 [^ref-50]: [ComicBook.com – Xbox Game Pass](https://comicbook.com/gaming/news/xbox-game-pass-sega-cd-new-games/) – Activision acquisition

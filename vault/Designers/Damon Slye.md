@@ -15,7 +15,7 @@ last_updated: '2026-10-09'
 
 Damon Slye (born June 15, 1962) is an American video game designer and programmer who played a pivotal role in pioneering 3D graphics and flight simulation games during the golden age of PC gaming.[^ref-1] Best known as the co-founder of Dynamix and creator of legendary titles like Red Baron and Stellar 7, Slye helped establish many of the technical and design standards that would define vehicular simulation games for decades to come.[^ref-2] His innovative work with 3D rendering technology and immersive combat mechanics set new benchmarks for realism in flight simulation games, bridging the gap between 2D and full 3D gaming during the industry's crucial transition period of the late 1980s and early 1990s.[^ref-3]
 
-Educated at the University of Oregon, Slye co-founded Dynamix in 1984 (initially as Software Entertainment Company) and led the company through its acquisition by Sierra On-Line in 1990.[^ref-4] During his decade-long tenure at Dynamix, he created some of the most influential simulation games of the era before leaving the company in May 1994.[^ref-5] After a 12-year hiatus during which he pursued various interests including completing his Bachelor of Science degree and obtaining his pilot's license, Slye returned to game development in 2006 and co-founded Mad Otter Games in 2007.[^ref-6]
+Slye co-founded Dynamix with Jeff Tunnell in Eugene, Oregon, in 1984, and Sierra On-Line bought the company in 1990.[^ref-4] During his decade-long tenure at Dynamix, he created some of the most influential simulation games of the era before leaving the company in May 1994.[^ref-5] After a 12-year hiatus during which he pursued various interests including completing his Bachelor of Science degree and obtaining his pilot's license, Slye returned to game development in 2006 and co-founded Mad Otter Games in 2007.[^ref-6]
 
 ## Career
 
@@ -33,7 +33,7 @@ One of Slye's most significant technical contributions was the co-creation of th
 
 Slye designed and directed a dozen games during his eleven years at Dynamix, ranging from 3D action games to modern and historical flight simulators.[^ref-7] His Great War Planes series—including [[1989 - A-10 Tank Killer|A-10 Tank Killer]], [[1990 - Red Baron|Red Baron]], [[1992 - Aces of the Pacific|Aces of the Pacific]], and [[1993 - Aces Over Europe|Aces Over Europe]]—became legendary in the simulation gaming community.[^ref-2]
 
-When Sierra On-Line acquired Dynamix in 1990, Slye retained his key leadership role and continued to drive innovation at the studio.[^ref-4] Under Sierra's umbrella, Dynamix expanded its reach and resources while maintaining the creative independence that had made it successful.[^ref-14] As one industry observer noted: "Few game studios of the 80s and 90s tackled a wider set of genres with as much success and innovative spirit as Dynamix."[^ref-3]
+Sierra On-Line bought Dynamix in 1990, while Red Baron was in development; it became the first game in Dynamix's "Great Warplanes" flight-simulator series published by Sierra.[^ref-4] Under Sierra's umbrella, Dynamix expanded its reach and resources while maintaining the creative independence that had made it successful.[^ref-14] As one industry observer noted: "Few game studios of the 80s and 90s tackled a wider set of genres with as much success and innovative spirit as Dynamix."[^ref-3]
 
 ### Later Career
 
@@ -112,7 +112,7 @@ The influence of Slye's work can be seen in the continued popularity and evoluti
 [^ref-1]: [Damon Slye - Wikipedia](https://en.wikipedia.org/wiki/Damon_Slye) — Basic biographical information and career overview
 [^ref-2]: [Legendary Game Designers: Damon Slye](https://gamesnostalgia.com/story/193/legendary-game-designers-damon-slye) — Career achievements and game development contributions
 [^ref-3]: [Damon Slye Interview - Video Game Newsroom Time Machine](https://videogamenewsroomtimemachine.libsyn.com/damon-slye-interview) — Industry impact and Dynamix's innovative spirit
-[^ref-4]: [Dynamix - Grokipedia](https://grokipedia.com/page/Dynamix) — Company founding and Sierra acquisition details
+[^ref-4]: [Dynamix - Wikipedia](https://en.wikipedia.org/wiki/Dynamix) — Founded 1984 in Eugene by Tunnell and Slye; bought by Sierra in 1990 during Red Baron's development
 [^ref-5]: [Where Are They Now: Damon Slye](https://www.choicestgames.com/2014/09/where-are-they-now-damon-slye.html) — Career sabbatical and burnout information
 [^ref-6]: [Running a Successful Indie Studio with Damon Slye](https://indiegamebusiness.com/running-a-successful-indie-studio-with-industry-veteran-and-dynamix-co-founder-damon-slye/) — Return to industry and Mad Otter Games founding
 [^ref-7]: [Damon Slye - Dynamix Wiki](https://dynamix.fandom.com/wiki/Damon_Slye) — Comprehensive career overview with gameography and early career details

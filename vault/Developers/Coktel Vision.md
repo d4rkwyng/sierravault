@@ -16,7 +16,7 @@ last_updated: '2026-10-09'
 
 Coktel Vision was a French video game development studio founded in 1985 in Paris, France, that became renowned for creating some of the most distinctive and eccentric adventure games of the 1990s.[^ref-1][^ref-2] The company specialized in point-and-click adventure games with unique artistic styles, innovative gameplay mechanics, and often surreal or mature themes that set them apart from their contemporaries.[^ref-3][^ref-4] Under the leadership of founders Roland Oskian and others, Coktel Vision developed a reputation for pushing creative boundaries in interactive entertainment, producing everything from adult-oriented adventures to whimsical children's games.[^ref-5][^ref-6]
 
-The studio gained international recognition after being acquired by American publisher Sierra On-Line in 1993, which provided them with greater distribution channels and resources to reach global audiences.[^ref-7][^ref-8] During their two-decade existence, Coktel Vision created over 30 games, including the beloved Gobliiins series, the time-travel epic Lost in Time, and various educational titles under the Playtoons brand.[^ref-9][^ref-10] Their games were characterized by hand-drawn artwork, complex puzzles, and a distinctly European sensibility that made them stand out in the predominantly American adventure game market of the era.[^ref-11][^ref-12]
+American publisher Sierra On-Line acquired the studio in a deal finalised on 29 October 1993. Sierra then published Coktel's popular French titles worldwide, while Coktel localised Sierra's games and published them through its Tomahawk label.[^ref-7][^ref-8] During their two-decade existence, Coktel Vision created over 30 games, including the beloved Gobliiins series, the time-travel epic Lost in Time, and various educational titles under the Playtoons brand.[^ref-9][^ref-10] Their games were characterized by hand-drawn artwork, complex puzzles, and a distinctly European sensibility that made them stand out in the predominantly American adventure game market of the era.[^ref-11][^ref-12]
 
 ## History
 
@@ -58,7 +58,7 @@ Roland Oskian served as one of Coktel Vision's co-founders and remained a drivin
 
 ## Legacy
 
-Coktel Vision's impact on the adventure game genre extends far beyond their commercial success, as they demonstrated that European developers could create games with distinctly non-American sensibilities that still appealed to international audiences.[^ref-4][^ref-8] Their willingness to explore mature themes, experiment with unconventional gameplay mechanics, and maintain high artistic standards influenced a generation of adventure game developers who sought to push the boundaries of interactive entertainment.[^ref-5][^ref-18] The studio's technical innovations, particularly in areas like multi-character coordination and time-travel mechanics, can be seen in many modern adventure games and puzzle games.[^ref-12][^ref-21]
+Coktel Vision showed that a French studio's games could travel. Sierra published its popular titles worldwide, and its lead designer Muriel Tramis explored political and social themes, such as imperialism and slavery, that were unusual for the time.[^ref-4][^ref-8] Their willingness to explore mature themes, experiment with unconventional gameplay mechanics, and maintain high artistic standards influenced a generation of adventure game developers who sought to push the boundaries of interactive entertainment.[^ref-5][^ref-18] The studio's technical innovations, particularly in areas like multi-character coordination and time-travel mechanics, can be seen in many modern adventure games and puzzle games.[^ref-12][^ref-21]
 
 ## Games
 
@@ -94,7 +94,7 @@ Coktel Vision's impact on the adventure game genre extends far beyond their comm
 [^ref-5]: [Reddit Sierra Community](https://www.reddit.com/r/Sierra/comments/1hrpfka/coktel_visions_games_have_such_unique_eccentric/) — Community analysis of games' unique qualities
 [^ref-6]: [Avid Wiki](https://www.avid.wiki/Coktel_Studio) — Studio information and key personnel
 [^ref-7]: [Glitchwave](https://glitchwave.com/game-company/coktel-vision/) — Company profile and game ratings
-[^ref-8]: [Grokipedia](https://grokipedia.com/page/Coktel_Vision) — Comprehensive company information
+[^ref-8]: [Coktel Vision - Wikipedia](https://en.wikipedia.org/wiki/Coktel_Vision) — Sierra acquisition (finalised 29 October 1993), worldwide publishing of Coktel titles, Muriel Tramis's themes
 [^ref-9]: [Internet Archive](https://archive.org/details/lost-in-time-usa) — Lost in Time game documentation
 [^ref-10]: [Abandonware DOS](https://www.abandonwaredos.com/retro-game-company.php?cmp=87&n=coktel-vision) — Complete game catalog and company history
 [^ref-11]: [Giant Bomb](https://www.giantbomb.com/search/?q=Coktel+Vision&filter=company) — Game database and reviews

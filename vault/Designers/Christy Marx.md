@@ -5,11 +5,11 @@ birth_year: 1952
 death_year: null
 notable_games: ["Conquests of Camelot", "Conquests of the Longbow", "Jem and the Holograms"]
 companies: ["Sierra On-Line", "Marvel Comics", "Sunbow Productions", "Zynga"]
-last_updated: "2026-05-08"
+last_updated: "2026-10-09"
 ---
 # Christy Marx
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ Marx's path to Sierra On-Line came through an unexpected phone call in late 1988
 
 Marx spent her first months at Sierra playing every company game and interviewing programmers, artists, and designers to understand the technology's capabilities and limitations.[^ref-5] She compiled everything into what would now be called a game design document—a systematic approach that impressed the more freewheeling Sierra team.[^ref-2] When Ken and Roberta asked about creating an original IP, Marx requested partial ownership, which they declined.[^ref-5] Instead, they proposed a King Arthur game, which Marx embraced enthusiastically given her love of mythology and legends.[^ref-5]
 
-Conquests of Camelot: The Search for the Grail (1990) became Marx's debut game, featuring extensive research into Arthurian legends, real locations like the Chalice Well and Glastonbury Tor, and goddess mythology woven throughout the narrative.[^ref-5] The game used Sierra's parser-based interface and the limited 16-color palette of the era, which frustrated Ledger as an artist but challenged Marx as a designer.[^ref-5] Despite these constraints, the game earned the Best Computer Adventure Game award from Video magazine in 1990.[^ref-3]
+Conquests of Camelot: The Search for the Grail (1990) became Marx's debut game, featuring extensive research into Arthurian legends, real locations like the Chalice Well and Glastonbury Tor, and goddess mythology woven throughout the narrative.[^ref-5] The game used Sierra's parser-based interface and the limited 16-color palette of the era, which frustrated Ledger as an artist but challenged Marx as a designer.[^ref-5] Despite these constraints, the game was named Best Computer Adventure Game of 1990 by Video Games & Computer Entertainment magazine.[^ref-3]
 
 For the sequel, Marx originally planned a game based on Greek goddess mythology, but when several Robin Hood movies were announced, Roberta Williams suggested capitalizing on the trend.[^ref-5] Marx researched Robin Hood's evolution from trickster ballads to the legendary figure with Maid Marian and King Richard, incorporating real locations like Nottingham's ancient pub and the sandstone tunnels beneath the castle.[^ref-5] Conquests of the Longbow: The Legend of Robin Hood (1991) marked a technological leap to point-and-click interface and 256 colors, and was voted Best Adventure Game of 1992 by Computer Game Review and Enchanted Realms.[^ref-13]
 
@@ -71,7 +71,7 @@ Marx views constraints as creative challenges rather than limitations. "No matte
 
 ## Legacy
 
-Christy Marx's influence extends across multiple entertainment industries. In animation, she created one of the most beloved series of the 1980s and was the first woman honored with the Animation Writers Caucus Animation Award.[^ref-3] In gaming, her Conquests series demonstrated how television writers could successfully transition to interactive media while maintaining narrative sophistication.[^ref-8]
+Christy Marx's influence extends across multiple entertainment industries. In animation, she created one of the most beloved series of the 1980s and received the Writers Guild of America's Animation Writers Caucus Animation Award in 2000 for her contributions to animation writing.[^ref-3] In gaming, her Conquests series demonstrated how television writers could successfully transition to interactive media while maintaining narrative sophistication.[^ref-8]
 
 Her author's guide "Writing for Animation, Comics, and Games" has become an essential resource for aspiring writers in visual media, covering narrative design principles that apply across mediums.[^ref-14] The book reflects her unique career spanning comics, animation, and games, offering insights unavailable from writers who specialized in only one medium.[^ref-16]
 
@@ -103,7 +103,7 @@ Marx remains active in the gaming and writing communities, maintaining her Subst
 
 [^ref-1]: [Wikipedia - Christy Marx](https://en.wikipedia.org/wiki/Christy_Marx) — comprehensive biographical information and animation credits
 [^ref-2]: [Polygon - From G.I. Joe to Zynga: the three-decade career of Christy Marx](https://www.polygon.com/features/2013/6/26/4429774/gi-joe-zynga-christy-marx/) — extensive career profile and interview covering comics, animation, Sierra, and Zynga years
-[^ref-3]: [Grokipedia - Christy Marx](https://grokipedia.com/page/Christy_Marx) — awards including Animation Writers Caucus Award and Best Computer Adventure Game
+[^ref-3]: [Wikipedia - Christy Marx (Awards)](https://en.wikipedia.org/wiki/Christy_Marx#Awards) — 2000 WGA Animation Writers Caucus Animation Award; VG&CE Best Computer Adventure Game 1990 for Conquests of Camelot
 [^ref-4]: [Sierra Gamers - Christy Marx](https://www.sierragamers.com/christy-marx/) — Sierra game credits and biography
 [^ref-5]: [GOG.com Interview](https://www.gog.com/forum/general/interview_with_the_creator_of_the_conquests_adventures_aa1c3/page1) — 2017 interview about the Conquests games, research process, and Sierra years
 [^ref-6]: [ReBoot Wiki - Christy Marx](https://reboot.fandom.com/wiki/Christy_Marx) — first woman to receive Animation Writers Caucus Award

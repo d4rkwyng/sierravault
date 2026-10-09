@@ -9,7 +9,7 @@ platforms: [Arcade, Atari 2600, Atari 5200, Atari 8-bit, Apple II, C64, ColecoVi
   Intellivision, PC Booter, Mac, Game Boy, Game Boy Color, Genesis, SNES, PlayStation,
   Windows, Nintendo Switch, PlayStation 4, Xbox 360, iOS, Android]
 series: Frogger
-engine: Modified Namco Galaxian hardware
+engine: Galaxian-derived arcade hardware
 protagonist: Frogger (the frog)
 sierra_lineage: Sierra Published
 last_updated: '2026-10-09'
@@ -19,7 +19,7 @@ tags: [1980s, frogger, sierra]
 ---
 # Frogger
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ Frogger has earned lasting recognition as one of the greatest video games ever m
 > **Developer:** Konami[^ref-1]
 > **Designer:** Takahide Harima, Takeshi Hara, Keiichi Miyoshi[^ref-8]
 > **Publisher:** Sega/Gremlin (Arcade), [[Sierra On-Line]] (Home Computers), Parker Brothers (Cartridges)[^ref-1]
-> **Engine:** Modified Namco Galaxian hardware[^ref-8]
+> **Engine:** Galaxian-derived arcade hardware[^ref-36]
 > **Platforms:** Arcade, Atari 2600, Atari 5200, Atari 8-bit, Apple II, Commodore 64, ColecoVision, Intellivision, PC Booter, Macintosh, Game Boy, Game Boy Color, Genesis, SNES, PlayStation, Windows, Nintendo Switch, PlayStation 4, Xbox 360, iOS, Android[^ref-9]
 > **Release Year:** 1981 (Arcade), 1983 (Sierra Home Ports)
 > **Series:** Frogger
@@ -114,14 +114,14 @@ Konami completed development in Japan, and Sega gained exclusive worldwide manuf
 
 Despite its eventual success, Frogger initially faced skepticism from industry executives. Sega/Gremlin management reportedly dismissed the game as "too cute" and "basic," suggesting it was merely a "women and kids game"[^ref-21]. Market researcher Elizabeth Falconer championed the title, convincing executives to proceed by referencing how "these executives have rejected Pac-Man before, and the game became a hit even if they didn't like its gameplay"[^ref-11].
 
-**Development Credits:**[^ref-8]
+**Development Credits** (from a Konami staff list made public in 2025; graphics artist unknown):[^ref-8]
 - **Director/Leader:** Takeshi Hara
 - **Programmers:** Takeshi Hara, Takahide Harima, Keiichi Miyoshi
 - **Sound:** Takahide Harima, Hirokazu Fujinaka, Shigeru Fukutake, Masahiro Inoue
 
 ### Technical Achievements
 
-The arcade cabinet featured sophisticated hardware for its time, running on two Z80 microprocessors at 3.072 MHz with sound handled by a separate Z80 at 1.78975 MHz and a General Instrument AY-3-8910 sound chip[^ref-8]. The display output at 224 x 256 pixels in vertical orientation with 32 colors available[^ref-8].
+The arcade board uses two Z80 microprocessors and a single General Instrument AY-3-8910 programmable sound generator[^ref-10]. MAME emulates it as Galaxian-derived hardware, with a second Z80 dedicated to sound and the monitor rotated to a vertical orientation[^ref-36].
 
 Frogger was notable for featuring continuous background music during gameplay, drawing from Japanese anime themes and traditional songs[^ref-1]. The main stage music is from the anime series "Araiguma Rascal" (Rascal the Raccoon), while the intro uses "Inu no Omawarisan" (The Dog Policeman)[^ref-22]. American releases added "Yankee Doodle" and "Camptown Races" to the musical mix[^ref-5].
 
@@ -293,7 +293,7 @@ The 1997 3D remake by Hasbro Interactive—developed by SCE Studio Cambridge—a
 [^ref-5]: [Digital Spy – 10 Things About Frogger](https://www.digitalspy.com/videogames/a796330/10-things-you-didnt-know-about-frogger/) – trivia, marketing budget, death count
 [^ref-6]: [Abandonware Forums – French Frogger Patch](https://www.abandonware-forums.org/forum/autres/les-aventuriers-de-la-traduction-perdue/799548-the-official-frogger-patch-fr) – Sierra PC port details, platform list
 [^ref-7]: [IGN – Frogger Gameshow](https://www.ign.com/articles/frogger-gameshow-series-coming-to-peacock) – cultural references, sequel count
-[^ref-8]: [Grokipedia – Frogger](https://grokipedia.com/page/Frogger) – development credits, technical specifications, hardware details
+[^ref-8]: [Time Extension – Flashback: Who Created The Arcade Classic Frogger?](https://www.timeextension.com/features/flashback-who-created-the-arcade-classic-frogger) – development credits from Konami's internal staff list
 [^ref-9]: [MobyGames – Frogger (1981)](https://www.mobygames.com/game/1540/frogger/) – platforms, ratings, credits, trivia
 [^ref-10]: [Arcade Museum – Frogger](https://www.arcade-museum.com/Videogame/frogger) – technical specs, bugs, easter eggs
 [^ref-11]: [Medium – Great Games: Frogger](https://medium.com/portraits-in-pixel/great-games-frogger-b97b15bef2c) – development origins, publishing challenges
@@ -320,3 +320,4 @@ The 1997 3D remake by Hasbro Interactive—developed by SCE Studio Cambridge—a
 [^ref-33]: [Konami Cross Media – Frogger](https://www.konami.com/crossmedia/us/en/products/frogger/) – official brand overview
 [^ref-34]: [Giant Bomb – Frogger](https://www.giantbomb.com/frogger/3030-11903/) – platform list, publisher details
 [^ref-35]: [KHInsider – Frogger Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/frogger-arcade-gamerip-1981) – music track identification
+[^ref-36]: [MAME source – galaxian.cpp (Galaxian-derived hardware driver)](https://github.com/mamedev/mame/blob/master/src/mame/galaxian/galaxian.cpp) – Frogger driver: Galaxian-derived board, sound Z80 + one AY-8910, ROT90 display

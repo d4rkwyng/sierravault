@@ -85,7 +85,7 @@ Caesar received generally positive reviews from gaming publications, with scores
 | CU Amiga | 79% | Stephen Kelly, December 1992[^ref-27] |
 | Amiga Joker | 65% | Max Magenauer, December 1992[^ref-27] |
 
-Computer Gaming World's review was particularly influential, with reviewer M. Evan Brooks noting that Caesar "provided more engaging 'game' elements than SimCity" and "wished for more buttons to push, knobs to adjust and wires to reroute"[^ref-29]. The magazine concluded that "Caesar provides that rare quality in strategy gaming — an experience whose rewards prove equal to its challenges"[^ref-26].
+Computer Gaming World's June 1993 review by Allen Greenberg recommended Caesar to SimCity fans who "wished for more buttons to push, knobs to adjust and wires to reroute"[^ref-29]. The magazine concluded that "Caesar provides that rare quality in strategy gaming — an experience whose rewards prove equal to its challenges"[^ref-26].
 
 The German gaming press was notably divided, with one reviewer dismissing it as "ein frecher 'Sim City'-Klon!" (a cheeky SimCity clone)[^ref-30]. However, most English-language publications recognized the game's innovations, with PC Gamer UK later ranking Caesar and its sequel as the 96th best computer game, noting that "Impressions keep on keeping on... but have never managed to regain the dizzy peak they climbed with their handsome brace of think-'em-ups"[^ref-26].
 
@@ -121,7 +121,7 @@ Caesar's impact on the gaming industry extends far beyond its original 1992 rele
 
 The series spawned multiple sequels, with Caesar III (1998) becoming particularly celebrated as "the definitive ancient city builder"[^ref-48]. As Simon Bradbury reflected, "Personally Caesar 3 remains my favourite. It was the most accomplished, polished and it benefitted greatly from the experience of coding and designing the previous two games"[^ref-36]. The franchise eventually expanded to include Pharaoh, Zeus, and Emperor, establishing Impressions Games as the premier developer of historical city builders[^ref-49].
 
-Modern analysis recognizes Caesar as foundational to the city-building genre's evolution. Gaming historians note that it "provided more engaging 'game' elements than SimCity" and established "a pivotal shift from open-ended designs like SimCity, introducing mission-based progression"[^ref-50]. The game's influence persists in contemporary titles and continues to inspire new development projects, including Tilted Mill Entertainment's later work on Caesar IV and ongoing community projects[^ref-51].
+Caesar spawned three direct sequels and several spin-offs set in other ancient civilizations, together known as the City Building series[^ref-50]. CGW's original review had already judged that "Caesar goes far beyond its Sim-City origins"[^ref-29]. The game's influence persists in contemporary titles and continues to inspire new development projects, including Tilted Mill Entertainment's later work on Caesar IV and ongoing community projects[^ref-51].
 
 Educational applications have also recognized Caesar's value. While not explicitly designed as educational software, the game's historical authenticity has made it a subject of academic interest in discussions of game-based learning and historical simulation[^ref-52]. The series' commitment to historical accuracy, combined with engaging gameplay mechanics, created a model that continues to influence both entertainment and educational software development. The game continues to be documented in gaming databases and Sierra's corporate history.
 
@@ -169,7 +169,7 @@ Caesar is part of Caesar's series of city-building simulation games developed by
 [^ref-26]: https://en.wikipedia.org/wiki/Caesar_(video_game) - Wikipedia article with contemporary review sources
 [^ref-27]: https://amr.abime.net/review_678 - Archive of contemporary reviews with specific scores
 [^ref-28]: https://amigareviews.leveluphost.com/caesar.htm - Multiple Amiga magazine reviews
-[^ref-29]: https://grokipedia.com/page/Caesar_(video_game) - Comprehensive article with review citations
+[^ref-29]: https://archive.org/details/Computer_Gaming_World_Issue_107 - Computer Gaming World #107 (June 1993), pp. 126–127: "Good Impressions of Caesar" review by Allen Greenberg
 [^ref-30]: https://amigareviews.leveluphost.com/caesar.htm - German reviewer criticism
 [^ref-31]: https://downloads.khinsider.com/game-soundtracks/album/caesar-iii-1998 - Soundtrack archive with technical details
 [^ref-32]: https://www.arcadeattack.co.uk/chris-beatrice-sierra/ - Chris Beatrice interview reflection
@@ -190,7 +190,7 @@ Caesar is part of Caesar's series of city-building simulation games developed by
 [^ref-47]: https://www.arcadeattack.co.uk/chris-beatrice-sierra/ - Chris Beatrice on Age of Empires influence
 [^ref-48]: https://gamecompanies.com/companies/sierra - Company overview mentioning Caesar
 [^ref-49]: https://reddit.com/r/impressionsgames/comments/1kr94nz/tilted_mill_is_back/ - Community discussion of series
-[^ref-50]: https://grokipedia.com/page/Caesar_(video_game) - Analysis of gameplay innovations
+[^ref-50]: https://en.wikipedia.org/wiki/Caesar_(video_game) - Sequels and spin-offs forming the City Building series
 [^ref-51]: https://gamefaqs.gamespot.com/pc/929476-caesar-iv/faqs - GameFAQs basic information
 [^ref-52]: https://gamefaqs.gamespot.com/pc/929476-caesar-iv/faqs/49292 - Fan walkthrough guide
 [^ref-90]: https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Caesar - TV Tropes article on Caesar series with version history

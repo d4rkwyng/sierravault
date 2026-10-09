@@ -10,14 +10,14 @@ series: Disney
 engine: AGI
 protagonist: Taran
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: The Black Cauldron is a 1986 adventure game developed by Sierra On-Line
   in collaboration with Disney. Created by designer Al Lowe, who would later become...
 tags: [1980s, adventure, agi, al-lowe, 'null', roberta-williams, sierra]
 ---
 # The Black Cauldron
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -52,7 +52,7 @@ This interface was designed because "Disney felt that the best way to recoup the
 
 ### Structure and Progression
 
-The game featured "seventy three-dimensional screens more detailed than any seen before, in up to 16 colors" with characters that could "pass in front of trees, behind rocks, and around other characters"[^ref-10]. Built on Sierra's AGI (Adventure Game Interpreter) engine, the game used vector-based graphics that provided smooth character animation and perspective-accurate environments[^ref-11].
+The game featured "seventy three-dimensional screens more detailed than any seen before, in up to 16 colors" with characters that could "pass in front of trees, behind rocks, and around other characters"[^ref-10]. It was built on Sierra's AGI (Adventure Game Interpreter) engine, which, like Sierra's earlier Hi-Res Adventures, drew its scenes with vector graphics: polygons drawn on screen and then colored[^ref-28].
 
 Players could explore the world of Prydain, collecting items, solving puzzles, and interacting with characters from the Disney film. The game included survival elements, with messages like "Your throat is dry" appearing to remind players to find food and water[^ref-9]. The scoring system encouraged creative problem-solving and deviation from the film's plot, with "multiple solutions and variable scoring" allowing players to "follow the movie's storyline, or use your imagination to maximize your score"[^ref-10].
 
@@ -91,9 +91,9 @@ The development team included Al Lowe as the primary designer, with contribution
 
 ### Technical Achievements
 
-The Black Cauldron utilized Sierra's AGI engine to create what the marketing described as "slickly drawn images with accurate perspective" featuring a "lifelike animated character"[^ref-11]. The game supported multiple graphics modes including CGA, EGA, VGA, Hercules, and Tandy/PCjr graphics[^ref-8], with particularly impressive results on the higher-end systems. The Apple IIgs version featured enhanced audio capabilities using the ES5503 sound chip[^ref-25].
+Reviewing the Atari ST version, Antic's Matthew Loveless found that, although the pictures were "in a chunky low-resolution mode", "the images are slickly drawn with accurate perspective and subtle shading", with Taran "a lifelike animated character"[^ref-11]. The game supported multiple graphics modes including CGA, EGA, VGA, Hercules, and Tandy/PCjr graphics[^ref-8], with particularly impressive results on the higher-end systems. The Apple IIgs version featured enhanced audio capabilities using the ES5503 sound chip[^ref-25].
 
-The game required only 256K of memory and ran on systems as basic as the Intel 8088, making it accessible to a wide range of computer users[^ref-8]. Despite some performance issues, particularly "slow screen loading when transitioning" on certain platforms like the Atari ST[^ref-11], the game generally delivered on its technical promises.
+The game required only 256K of memory and ran on systems as basic as the Intel 8088, making it accessible to a wide range of computer users[^ref-8]. There were performance issues, though. On the Atari ST, Antic noted that "the adjacent screen is loaded in slowly" whenever Taran walked off the edge of a screen[^ref-11].
 
 ## Legacy
 
@@ -143,12 +143,12 @@ The game's puzzles maintained appropriate difficulty for the target family audie
 [^ref-3]: [Wikipedia - The Black Cauldron (video game)](https://en.wikipedia.org/wiki/The_Black_Cauldron_(video_game) – ) - Interface innovation details
 [^ref-4]: [Al Lowe's Website](https://allowe.com/downloads/games.html) – - First-hand development account
 [^ref-5]: [Archive.org - Black Cauldron MS-DOS](https://archive.org/details/msdos_Black_Cauldron_The_1986) – - Platform information
-[^ref-6]: [Color Computer Archive - Walkthrough](https://colorcomputerarchive.com/repo/Documents/Walkthroughs/Sierra%20Games/The%20Black%20Cauldron%20Walkthrough%20(Sierra) – .txt) - Plot summary
+[^ref-6]: [Color Computer Archive - Walkthrough](https://colorcomputerarchive.com/repo/Documents/Walkthroughs/Sierra%20Games/The%20Black%20Cauldron%20Walkthrough%20(Sierra).txt) – - Plot summary
 [^ref-7]: [DOS Games Archive - The Black Cauldron](https://www.dosgamesarchive.com/download/the-black-cauldron/) – - Al Lowe quote and freeware status
 [^ref-8]: [PCGamingWiki - The Black Cauldron](https://www.pcgamingwiki.com/wiki/The_Black_Cauldron) – - Technical specifications
 [^ref-9]: [HonestGamers - The Black Cauldron Review](http://www.honestgamers.com/13367/pc/the-black-cauldron/review.html) – - Gameplay mechanics and critical review
 [^ref-10]: [GOG.com - The Black Cauldron Wishlist](https://www.gog.com/dreamlist/game/the-black-cauldron-1986) – - Product description
-[^ref-11]: [Grokipedia - The Black Cauldron](https://grokipedia.com/page/The_Black_Cauldron_(video_game) – ) - Engine and graphics details
+[^ref-11]: [Antic Vol. 5 No. 12 (April 1987) - ST Product News: Black Cauldron review](https://www.atarimagazines.com/v5n12/STProductNews.html) – - Matthew Loveless's Atari ST review: graphics, animation, slow screen loading
 [^ref-12]: [Gamer Walkthroughs - The Black Cauldron](https://gamerwalkthroughs.com/the-black-cauldron/) – - Design philosophy
 [^ref-13]: [Hardcore Gaming 101 - The Black Cauldron](http://www.hardcoregaming101.net/the-black-cauldron/) – - Modern assessment
 [^ref-14]: [MobyGames - The Black Cauldron Trivia](https://www.mobygames.com/game/194/the-black-cauldron/trivia/) – - Easter eggs and commands
@@ -165,3 +165,4 @@ The game's puzzles maintained appropriate difficulty for the target family audie
 [^ref-25]: [VGMRips - The Black Cauldron Apple IIgs](https://vgmrips.net/packs/pack/the-black-cauldron-apple-iigs) – - Audio specifications
 [^ref-26]: [IGDB - The Black Cauldron](https://www.igdb.com/games/the-black-cauldron--1) – - Industry partnership historical significance
 [^ref-27]: [Wikipedia - History of Video Games](https://en.wikipedia.org/wiki/History_of_video_games) – - Early Disney game business strategy
+[^ref-28]: [Wikipedia - Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) – - AGI vector graphics; The Black Cauldron listed among AGI games

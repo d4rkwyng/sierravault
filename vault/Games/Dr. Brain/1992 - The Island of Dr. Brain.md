@@ -10,7 +10,7 @@ series: Dr. Brain
 engine: SCI1.1
 protagonist: Unnamed Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Rob Atesalp]
 description: The Island of Dr. Brain is an educational puzzle adventure game released
   in 1992 by Sierra On-Line as part of the Sierra Discovery Series. As the second...
@@ -18,7 +18,7 @@ tags: [1990s, dr-brain, educational, sci, sierra]
 ---
 # The Island of Dr. Brain
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -53,7 +53,7 @@ The game notably marks the first time Dr. Brain speaks directly to the player in
 
 ### Interface and Controls
 
-The Island of Dr. Brain utilizes Sierra's point-and-click adventure interface, combining educational puzzles with exploration mechanics.[^ref-2] Players navigate environments using mouse controls, with keyboard support also available.[^ref-16] The game employs a first-person and third-person mixed perspective, which was somewhat unusual for Sierra games of this era.[^ref-17] The interface encourages players to click on everything in the environment, as interactive objects often contain witty responses and hidden jokes.[^ref-18]
+The Island of Dr. Brain utilizes Sierra's point-and-click adventure interface, combining educational puzzles with exploration mechanics.[^ref-2] Players navigate environments using mouse controls, with keyboard support also available.[^ref-16] The game employs a first-person and third-person mixed perspective, which was somewhat unusual for Sierra games of this era.[^ref-17] As one MobyGames player review notes, clicking on objects in the environment can bring them to life or "produce a witty response or even a joke."[^ref-18]
 
 ### Structure and Progression
 
@@ -253,7 +253,7 @@ The series would continue under different developers, with Knowledge Adventure e
 [^ref-15]: [MobyGames – User Review by Katakis](https://www.mobygames.com/game/1524/the-island-of-dr-brain/user-review/2426846/) – development history, first speaking Dr. Brain, CD-ROM comment
 [^ref-16]: [MobyGames – The Island of Dr. Brain](https://www.mobygames.com/game/1524/the-island-of-dr-brain/) – composer, technical specs, user reviews, manual title
 [^ref-17]: [Free Game Empire – Island of Dr. Brain](https://www.freegameempire.com/games/Island-of-Dr-Brain) – perspective, game type, Sierra history
-[^ref-18]: [Grokipedia – Dr. Brain Series](https://grokipedia.com/page/Dr._Brain) – series overview, graphics, target age
+[^ref-18]: [MobyGames – The Island of Dr. Brain player review by Katakis](https://www.mobygames.com/game/1524/the-island-of-dr-brain/user-review/2426846/) – clickable objects with witty responses and jokes
 [^ref-19]: [The Digital Antiquarian – Dr. Brain](https://www.filfre.net/2018/02/dr-brain/) – Corey Cole quotes, sales figures, development insights
 [^ref-20]: [TV Tropes – Dr. Brain](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DrBrain) – edutainment assessment, easter eggs, Knowledge Adventure changes
 [^ref-21]: [GOG Dreamlist – The Island of Dr. Brain](https://www.gog.com/dreamlist/game/the-island-of-dr-brain) – fan quotes, continued interest

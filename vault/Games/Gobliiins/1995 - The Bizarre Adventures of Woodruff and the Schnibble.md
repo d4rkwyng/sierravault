@@ -10,7 +10,7 @@ series: Standalone (Gobliiins spiritual successor)
 engine: Gob
 protagonist: Woodruff
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Charles Callet]
 description: '*The Bizarre Adventures of Woodruff and the Schnibble* (known in Europe
   as *Woodruff and the Schnibble of Azimuth*) is a point-and-click adventure game...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coktel, sierra, standalone-gobliiins-spiritual-successo
 ---
 # The Bizarre Adventures of Woodruff and the Schnibble
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ tags: [1990s, adventure, coktel, sierra, standalone-gobliiins-spiritual-successo
 
 Despite its cartoon façade, *The Bizarre Adventures of Woodruff and the Schnibble* has a surprisingly deep and complex plot, exploring themes of xenophobia, racism, and cultural interaction beneath its whimsical exterior.[^ref-3] The game shares the visual style, gameplay, and offbeat humor of Coktel Vision's beloved *Gobliiins* series, though it is not officially part of that franchise.[^ref-4] Created by artist [[Pierre Gilhodes]], who also designed the *Gobliiins* games, the title features hand-painted backgrounds and animation that reviewers compared favorably to Disney quality.[^ref-5] Both Woodruff and the world he finds himself in are not only unique, but twisted and charming at the same time—making this one of the most distinctive point-and-click experiences of the 1990s.[^ref-3]
 
-The game achieved critical acclaim upon release, with *PC Gamer* awarding it 90% and *Strategy Plus* calling it "so addictive, you may lose your job."[^ref-1] However, despite praise from critics, it never became particularly popular or financially successful, remaining a cult classic among adventure game enthusiasts.[^ref-6] One notable aspect was that it was a full CD "talkie," featuring real voice acting for all characters—a first for Coktel Vision, which had previously used gibberish speech—but controversially included no subtitles.[^ref-6]
+The game achieved critical acclaim upon release, with *PC Gamer* awarding it 90% and *Strategy Plus* calling it "so addictive, you may lose your job."[^ref-1] However, despite praise from critics, it never became particularly popular or financially successful, remaining a cult classic among adventure game enthusiasts.[^ref-6] One notable aspect was that it was a full CD "talkie," using real voices for speech, but it included no subtitles.[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
@@ -73,7 +73,7 @@ Players must collect various Boozook syllables throughout the game, each grantin
 
 ### Puzzles and Mechanics
 
-The puzzles in *Woodruff and the Schnibble* are infamously difficult, to the point where people who are new to adventure gaming will be completely stuck.[^ref-7] The game reinvents the concept of "moon logic," turns it on its head, and then burns whatever rules it decided to follow a minute ago.[^ref-19] Reviewers described the puzzles as ranging from "tricky" to "insanely hard," requiring precise sequences of actions that might not make sense in real life.[^ref-5]
+The puzzles in *Woodruff and the Schnibble* are infamously difficult, to the point where people who are new to adventure gaming will be completely stuck.[^ref-7] The game reinvents the concept of "moon logic," turns it on its head, and then burns whatever rules it decided to follow a minute ago.[^ref-19] Gamer's Zone, though positive overall, complained about the often ludicrously hard puzzles, a criticism echoed in other reviews.[^ref-5]
 
 The inventory system allows players to collect numerous items, with some items containing sub-inventories of their own.[^ref-15] Players can collect objects such as nuts, boots, bottle-openers, and the essential Meteozon watch.[^ref-20] A notable mechanic involves Woodruff gaining plant-growing powers, which must be used at specific moments to solve environmental puzzles.[^ref-21]
 
@@ -87,7 +87,7 @@ The game makes liberal use of made-up words and absurdist humor throughout its p
 
 In Germany, *PC Player* magazine gave the game a special award, humorously naming it "Tongue Twister of the Year 1995" in reference to its unwieldy title.[^ref-22] Contemporary reception highlighted the stunning hand-painted backgrounds and Disney-quality animation, though critics noted the controversial lack of subtitles despite being a full voice-acted production.[^ref-6]
 
-Some reviewers found the puzzle difficulty to be a significant barrier. One critic noted the game was "difficult to play and even more difficult to comprehend," while others simply called the puzzles "tricky or insanely hard."[^ref-5] Donald St. John wrote in his review: "This offbeat strategy exercise isn't a place to look for pretty pictures. But if you like spending lots of hours in a weird little world, Woodruff and the Schnibble may just be for you."[^ref-23]
+Some reviewers found the puzzle difficulty to be a significant barrier. Hardcore Gaming 101 found the game "difficult to play, and even more difficult to comprehend,"[^ref-15] and a MobyGames player review called most of the puzzles "insanely hard."[^ref-7] Donald St. John wrote in his review: "This offbeat strategy exercise isn't a place to look for pretty pictures. But if you like spending lots of hours in a weird little world, Woodruff and the Schnibble may just be for you."[^ref-23]
 
 ### Modern Assessment
 
@@ -127,9 +127,9 @@ The production utilized the proprietary Gob engine that had powered the *Gobliii
 
 ### Technical Achievements
 
-*Woodruff and the Schnibble* was the first Coktel Vision game to feature SVGA graphics, running at 640x480 resolution with 256 colors—a significant upgrade from their previous releases.[^ref-7] The game targeted Windows 3.1 as its primary platform, utilizing the WinG API for enhanced graphics acceleration.[^ref-5] Some hand-painted backgrounds are stunning, and the game makes good use of hardware scaling for character animations.[^ref-7]
+*Woodruff and the Schnibble* was the first Coktel Vision game to feature SVGA graphics, running at 640x480 resolution with 256 colors—a significant upgrade from their previous releases.[^ref-7] The game was first released for Windows 3.1, in December 1994.[^ref-5] Some hand-painted backgrounds are stunning, and the game makes good use of hardware scaling for character animations.[^ref-7]
 
-The audio design took an unusual approach: there is virtually no background music while playing the game, just ambient sound effects that blend in with the current scene.[^ref-7] This minimalist approach to music was contrasted by full voice acting throughout the game—a first for Coktel Vision, which had previously relied on gibberish speech in titles like *Gobliiins*.[^ref-5] The voice cast delivered their performances entirely without subtitles, a controversial decision that made the game inaccessible to hearing-impaired players and those who preferred text.[^ref-6]
+The audio design took an unusual approach: there is virtually no background music while playing the game, just ambient sound effects that blend in with the current scene.[^ref-7] In contrast to the sparse music, the game is a full CD "talkie" with real voices for its speech.[^ref-6] Reviewers of the time, notably Gamer's Zone, also complained about the lack of original music and the repetitive background sound effects.[^ref-5] The voice cast delivered their performances entirely without subtitles, a controversial decision that made the game inaccessible to hearing-impaired players and those who preferred text.[^ref-6]
 
 ### Technical Specifications
 
@@ -157,7 +157,7 @@ Some dummied-out content from the game can be found documented on The Cutting Ro
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | May 1, 1994 | Windows 3.x | Initial French release as *Woodruff et le Schnibble d'Azimuth*[^ref-5] |
+| 1.0 | December 1994 | Windows 3.1 | Initial release as *Woodruff and the Schnibble of Azimuth*[^ref-5] |
 | 1.0 (US) | April 7, 1995 | Windows 3.x | North American release as *The Bizarre Adventures of Woodruff and the Schnibble*[^ref-9] |
 | Update | April 24, 1995 | Windows 3.x | Fixes all known issues with the game[^ref-32] |
 | 1.0 (Germany) | 1996 | Windows 3.x | German localization[^ref-19] |
@@ -196,7 +196,7 @@ The game was originally a 16-bit Windows program, meaning it does not run native
 
 ## Voice Cast
 
-The game features a fully voiced cast—the first Coktel Vision title to use real voice acting rather than gibberish speech.[^ref-5] The French voice cast included notable actors:
+The game features a fully voiced cast. The English voice actors have never been identified, but the French version features well-known actors:[^ref-5]
 
 | Character | Voice Actor |
 |-----------|-------------|
@@ -211,7 +211,7 @@ The voice performances were delivered without subtitle support, meaning players 
 
 ### Sales and Commercial Impact
 
-Although the game was praised by many critics, it never became particularly popular or financially successful.[^ref-6] Market data from resale platforms shows modest commercial results, with only 3-4 transactions recorded annually at prices ranging between $12-$101 depending on condition.[^ref-5] The game has maintained collectible status among adventure gaming enthusiasts, with sealed copies commanding premium prices up to $250.[^ref-33]
+Although the game was praised by many critics, it never became particularly popular or financially successful.[^ref-6] The game has maintained collectible status among adventure gaming enthusiasts, with sealed copies commanding premium prices up to $250.[^ref-33]
 
 The game left an indelible mark on video game history, inspiring many adventure game developers worldwide despite its commercial underperformance.[^ref-29] Its cult status has only grown over time, with dedicated fans repeatedly requesting the game's availability on digital distribution platforms.
 
@@ -268,7 +268,7 @@ The tension between whimsy and underlying peril makes the journey simultaneously
 [^ref-2]: [Best DOS Games – Woodruff and the Schnibble](https://bestdosgames.com/games/the-bizarre-adventures-of-woodruff-and-the-schnibble) – overview, creative significance
 [^ref-3]: [Adventure Classic Gaming – Review](https://www.adventureclassicgaming.com/index.php/site/reviews/382/) – ratings, plot analysis, technical specifications, bugs
 [^ref-4]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/the-bizarre-adventures-of-woodruff-and-the-schnibble) – regional titles, Gobliiins relationship, development context
-[^ref-5]: [Grokipedia – Woodruff and the Schnibble](https://grokipedia.com/page/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – aggregate reviews, technical specs, trivia, Easter eggs
+[^ref-5]: [Wikipedia – The Bizarre Adventures of Woodruff and the Schnibble (Reception)](https://en.wikipedia.org/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble#Reception) – December 1994 Windows 3.1 release, Computer Game Review 88/87/85, Gamer's Zone criticisms, French voice cast
 [^ref-6]: [OldGames.sk](https://www.oldgames.sk/en/game/woodruff-and-the-schnibble-of-azimuth/download/9784/) – ratings, voice acting details, commercial performance
 [^ref-7]: [MobyGames – Woodruff and the Schnibble](https://www.mobygames.com/game/2871/the-bizarre-adventures-of-woodruff-and-the-schnibble/) – credits, ratings, technical details, version history
 [^ref-8]: [PCGamingWiki – Woodruff and the Schnibble](https://www.pcgamingwiki.com/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – engine info, system requirements

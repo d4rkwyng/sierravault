@@ -2,19 +2,19 @@
 title: "Headgate Studios"
 type: developer
 founded: 1992
-defunct: 2008
+defunct: 2017
 headquarters: "Salt Lake City, Utah, United States"
 notable_games: ["Front Page Sports: Golf", "PGA Championship Golf series", "MySims series"]
-parent_company: "Electronic Arts (2006-2008)"
-last_updated: "2026-05-08"
+parent_company: "Electronic Arts (2006-2017)"
+last_updated: "2026-10-09"
 ---
 # Headgate Studios
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-Headgate Studios was an American video game development company founded in 1992 in Salt Lake City, Utah, that specialized in sports simulation games, particularly golf titles.[^ref-1] The studio carved out a significant niche in the PC sports gaming market during the 1990s and early 2000s, developing critically acclaimed golf simulations that competed directly with established franchises.[^ref-2] After operating independently for over a decade, Headgate Studios was acquired by Electronic Arts in 2006 and subsequently rebranded as EA Salt Lake, where the team shifted focus to casual gaming for Nintendo's emerging Wii platform before the studio's closure in 2008.[^ref-3]
+Headgate Studios was an American video game development company founded in 1992 in Salt Lake City, Utah, that specialized in sports simulation games, particularly golf titles.[^ref-1] The studio carved out a significant niche in the PC sports gaming market during the 1990s and early 2000s, developing critically acclaimed golf simulations that competed directly with established franchises.[^ref-2] After a period under Sierra On-Line (1996–1999) and several years developing for Electronic Arts, Headgate Studios was acquired by EA in 2006 and renamed EA Salt Lake. The team shifted its focus to Nintendo's Wii, and EA closed the studio in April 2017.[^ref-3][^ref-19]
 
 The company was best known for its realistic golf simulations, including the Front Page Sports: Golf series and the PGA Championship Golf franchise, which featured authentic PGA Tour courses and professional golfer endorsements.[^ref-4] Under EA's ownership, the studio successfully transitioned to developing family-friendly titles like MySims for the Nintendo Wii, demonstrating remarkable adaptability in an industry known for rapid technological and market changes.[^ref-5]
 
@@ -32,7 +32,7 @@ The studio's breakthrough came through its partnership with Sierra On-Line, one 
 
 Under the Sierra partnership, Headgate Studios developed Front Page Sports: Golf in 1997, which became one of the most critically acclaimed golf simulations of its era.[^ref-15] The game featured advanced 3D graphics, realistic physics modeling, and authentic course designs that set new standards for golf gaming on PC platforms.[^ref-16] The success of Front Page Sports: Golf established Headgate Studios as a premier developer of sports simulations and led to additional projects within the Front Page Sports franchise.[^ref-17]
 
-The studio's relationship with Sierra continued through several successful releases, including the Front Page Sports Golf: Tour Course Add-On in 1997, which expanded the original game with additional professional courses and gameplay features.[^ref-18] This expansion content model proved highly successful and became a template for future Headgate Studios releases, allowing the company to extend the lifespan of its core games while generating additional revenue streams.[^ref-19]
+The studio's relationship with Sierra continued through several successful releases, including the Front Page Sports Golf: Tour Course Add-On in 1997, which expanded the original game with additional professional courses and gameplay features.[^ref-18]
 
 ### Later Years and EA Acquisition
 
@@ -54,7 +54,7 @@ The development team invested significant resources in course design and authent
 
 ### PGA Championship Golf 1999 Edition (1999)
 
-Building on the success of Front Page Sports: Golf, PGA Championship Golf 1999 Edition marked Headgate Studios' evolution toward officially licensed professional golf content.[^ref-17] The game featured authentic PGA Tour courses, professional golfer likenesses, and official tournament formats that provided players with the most realistic professional golf experience available on PC platforms at the time.[^ref-18] Advanced AI systems created challenging computer opponents that adapted to player skill levels, while enhanced graphics engines delivered improved visual fidelity and smoother gameplay performance.[^ref-19]
+Building on the success of Front Page Sports: Golf, PGA Championship Golf 1999 Edition marked Headgate Studios' evolution toward officially licensed professional golf content.[^ref-17] The game featured authentic PGA Tour courses, professional golfer likenesses, and official tournament formats that provided players with the most realistic professional golf experience available on PC platforms at the time.[^ref-18]
 
 The PGA licensing agreement allowed Headgate Studios to access exclusive content and promotional opportunities that significantly expanded the game's market appeal.[^ref-20] Professional golfers provided motion capture data and consultation during development, ensuring that swing mechanics and player animations accurately reflected real-world professional techniques.[^ref-1] The game's success led to annual sequels and established the PGA Championship Golf franchise as one of the premier golf gaming series of the early 2000s.[^ref-2]
 
@@ -74,7 +74,7 @@ The transition from independent development to EA ownership resulted in signific
 
 Headgate Studios' impact on sports gaming, particularly golf simulations, extended well beyond the company's relatively brief existence.[^ref-15] The studio's commitment to realistic physics modeling and authentic course design influenced subsequent golf games from major publishers, establishing technical and design standards that remained relevant throughout the 2000s.[^ref-16] The Front Page Sports: Golf and PGA Championship Golf series demonstrated that independent developers could compete successfully against major publishers in specialized gaming niches with sufficient focus and technical expertise.[^ref-17]
 
-The studio's acquisition by EA and subsequent closure represents a common pattern in the gaming industry where successful independent developers are absorbed by larger companies seeking specific capabilities or market positions.[^ref-18] According to industry analysis, "The End Game: How Top Developers Sold Their Studios" identified Headgate Studios as an example of how market consolidation affected specialized development talent and niche gaming content.[^ref-19] The transformation from EA Salt Lake's sports simulation expertise to casual gaming development for the Wii platform illustrates the rapid technological and market changes that defined the gaming industry during the 2000s.[^ref-20]
+The studio's acquisition by EA and subsequent closure represents a common pattern in the gaming industry where successful independent developers are absorbed by larger companies seeking specific capabilities or market positions.[^ref-18] Electronic Arts acquired Headgate on December 1, 2006, renamed it EA Salt Lake, and redirected the studio toward games for Nintendo's Wii; EA closed it in April 2017.[^ref-19] The transformation from EA Salt Lake's sports simulation expertise to casual gaming development for the Wii platform illustrates the rapid technological and market changes that defined the gaming industry during the 2000s.[^ref-20]
 
 ## Games
 
@@ -104,5 +104,5 @@ The studio's acquisition by EA and subsequent closure represents a common patter
 [^ref-16]: [Wikipedia - Headgate Studios](https://en.wikipedia.org/wiki/Headgate_Studios) — Encyclopedia entry and basic information
 [^ref-17]: [My Abandonware - Headgate Studios Inc](https://www.myabandonware.com/browse/developer/headgate-studios-inc-3zx/) — Game preservation and developer history
 [^ref-18]: [Interactive Arts & Sciences Academy - Game Developer Details](https://www.interactive.org/games/game_developer_details.asp?idAward=2003&idGameDeveloper=202) — Industry recognition and awards
-[^ref-19]: [Grokipedia - EA Salt Lake](https://grokipedia.com/page/EA_Salt_Lake) — Studio information and development history
+[^ref-19]: [EA Salt Lake - Wikipedia](https://en.wikipedia.org/wiki/EA_Salt_Lake) — 2006 EA acquisition, renaming, Wii focus, 2017 closure
 [^ref-20]: [Gust - Headgate Studios Inc Company Profile](https://gust.com/companies/headgate-studios-inc) — Business database and corporate information

@@ -6,16 +6,16 @@ defunct: 2005
 headquarters: "Cambridge, Massachusetts, USA"
 notable_games: ["Empire Earth", "Empires: Dawn of the Modern World", "Rise and Fall: Civilizations at War"]
 parent_company: "Independent"
-last_updated: "2026-05-08"
+last_updated: "2026-10-09"
 ---
 
 # Stainless Steel Studios
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-Stainless Steel Studios (SSSI) was an American video game developer founded in October 1997 by Rick Goodman and Dara-Lynn Pelechatz in Cambridge, Massachusetts.[^ref-1] The studio specialized in real-time strategy games and is best known for creating Empire Earth, an ambitious RTS spanning 500,000 years of human history that won GameSpy's PC Game of the Year award in 2001 and sold over two million copies worldwide.[^ref-2] Founded by the lead designer of the original Age of Empires, Stainless Steel Studios aimed to "become the industry's premier developer in real-time strategy games."[^ref-3]
+Stainless Steel Studios (SSSI) was an American video game developer founded in October 1997 by Rick Goodman and Dara-Lynn Pelechatz in Cambridge, Massachusetts.[^ref-1] The studio specialized in real-time strategy games and is best known for creating Empire Earth, an ambitious RTS spanning 500,000 years of human history that won GameSpy's PC Game of the Year award in 2001 and sold over one million units worldwide by 2002.[^ref-2] Founded by the lead designer of the original Age of Empires, Stainless Steel Studios aimed to "become the industry's premier developer in real-time strategy games."[^ref-3]
 
 The company's unusual name originated during a flight back from California when Goodman opened a Sky Mall catalog and randomly pointed to an item—a stainless steel shower head—declaring it would be the company's name.[^ref-1] The studio's logo, designed in collaboration with Jam Design, featured a silver ball with a salamander on top.[^ref-1] Despite critical and commercial success with their debut title, the studio quietly ceased operations in November 2005 after funding cuts from publisher Midway Games, their most important client at the time.[^ref-4]
 
@@ -31,7 +31,7 @@ In early interviews, Goodman articulated his ambitious vision: "This is a real-t
 
 Development of Empire Earth required building the Titan engine from scratch, capable of rendering fully 3D environments and hundreds of units simultaneously using DirectX 7 technology.[^ref-6] Goodman hand-picked talented designers, artists, and programmers for the development team, and also enlisted a "strike team of 20 top Age of Empires players" to participate in development and balancing.[^ref-7] A notable addition to the team was Damon "Stratus" Gauthier, a StarCraft tournament veteran brought in on January 18, 2001, specifically for multiplayer balancing.[^ref-2]
 
-The game appeared at E3 2000 and E3 2001, generating significant interest among RTS enthusiasts.[^ref-2] Empire Earth was released on November 13, 2001, in the United States and achieved remarkable commercial success. The game sold over one million copies worldwide by early 2002, surpassing two million units by 2005.[^ref-8] In the United States alone, it generated $16.7 million in revenue by August 2006, ranking as the 41st best-selling computer game from January 2000 to August 2006.[^ref-2]
+The game appeared at E3 2000 and E3 2001, generating significant interest among RTS enthusiasts.[^ref-2] Empire Earth was released on November 13, 2001, in the United States and achieved remarkable commercial success. The game sold over one million units worldwide by 2002.[^ref-8] In the United States alone, it generated $16.7 million in revenue by August 2006, ranking as the 41st best-selling computer game from January 2000 to August 2006.[^ref-2]
 
 ### Critical Reception and Awards
 
@@ -72,13 +72,13 @@ The fan community has kept Empire Earth alive through projects like NeoEE (neoee
 ## References
 
 [^ref-1]: [GameSpy Retro - Developer Origins Page 8](https://web.archive.org/web/20070609133153/http://www.gamespy.com/articles/697/697083p8.html) — Founding story and company name origin
-[^ref-2]: [Wikipedia - Empire Earth](https://en.wikipedia.org/wiki/Empire_Earth_(video_game))) — Sales figures, release dates, and development history
+[^ref-2]: [Wikipedia - Empire Earth](https://en.wikipedia.org/wiki/Empire_Earth_(video_game)) — Sales figures, release dates, and development history
 [^ref-3]: [Artho.com - Rick Goodman Press Release](http://artho.com/age/rick2.html) — May 1998 announcement and developer vision
 [^ref-4]: [Gamasutra - Stainless Steel Studios Closes](https://www.gamedeveloper.com/game-platforms/report-stainless-steel-studios-closes-doors) — Studio closure announcement
 [^ref-5]: [Hardcore Gaming 101 - Empire Earth](http://www.hardcoregaming101.net/empire-earth/) — Rick Goodman's background and studio goals
 [^ref-6]: [GameDev.net Forum Discussion](https://www.gamedev.net/forums/topic/712329-how-was-empire-earth-able-to-render-hundreds-of-3d-models-on-the-screen-when-it-had-no-access-to-shaders/) — Titan engine technical details
 [^ref-7]: [Empire Earth Community - Overview](https://empireearth.eu/overview/) — Development history and fan community
-[^ref-8]: [Grokipedia - Empire Earth](https://grokipedia.com/page/Empire_Earth) — Sales milestones and version history
+[^ref-8]: [Wikipedia - Empire Earth (Sales)](https://en.wikipedia.org/wiki/Empire_Earth_(video_game)#Sales) — Over 1 million units sold globally by 2002
 [^ref-9]: [Metacritic - Empire Earth](https://www.metacritic.com/game/empire-earth/) — Aggregate scores and GameSpy award
 [^ref-10]: [Amazon UK - Empire Earth](https://www.amazon.co.uk/Sierra-Best-Sellers-Empire-Earth/dp/B0000DG3RC) — GameSpy review quote
 [^ref-11]: [IGN - Empire Earth Review](https://www.ign.com/articles/2001/11/30/empire-earth) — Steve Butts review and Editor's Choice

@@ -84,7 +84,7 @@ Caesar II received strong critical acclaim upon its 1995 release, with reviewers
 | PC Zone | 92/100 | High praise for gameplay depth[^ref-1] |
 | Computer Gaming World | 4/5 stars | "Surpassed the original with SVGA graphics and an actual combat module" (Arinn Dembo)[^ref-1] |
 | Next Generation | 4/5 stars | "Innovative mix of SimCity-type building strategy and wargame campaign"[^ref-1] |
-| Average Critic Score | 82% | Based on multiple reviews[^ref-19] |
+| Average Critic Score | 82% | MobyGames critics average, 20 ratings[^ref-19] |
 
 Computer Gaming World's editors named Caesar II runner-up for their 1995 Strategy Game of the Year award, noting that it "surpassed the original with SVGA graphics and an actual combat module" and "could have won had the competition not been so strong"[^ref-1]. PC Games Magazine's Steve Klett called it "SimCity with Centurions, not to mention great graphics and excellent game play"[^ref-14] and concluded that "this entertaining and highly addictive game is a must-have for strategy and simulation fans"[^ref-14].
 
@@ -108,13 +108,13 @@ Sierra On-Line acquired Impressions Games in 1995, bringing the developer under 
 
 The development team focused on addressing limitations of the original Caesar while expanding the scope and visual fidelity of the sequel. Chris Beatrice led the art direction, creating the pre-rendered 3D graphics that distinguished the game visually[^ref-3]. The technical implementation used Smacker Video Technology by RAD Game Tools for cutscenes and other video elements[^ref-5].
 
-One of the most challenging aspects of development was integrating the combat system from Cohort 2. This allowed battles to be fought on a tactical level with the player commanding Roman legions directly. The "Caesar Deluxe" and "Caesar Gold" editions of the original game had experimented with this integration, "automatically launching Cohort 2 for battles"[^ref-19], but making it seamless in Caesar II proved difficult.
+One of the most challenging aspects of development was integrating the combat system from Cohort 2. This allowed battles to be fought on a tactical level with the player commanding Roman legions directly. An updated edition of the original, Caesar Deluxe, had already "automatically launched a version of Cohort 2 whenever the player engaged in battle"[^ref-37]. Simon Bradbury later admitted that integrating Cohort "was a nightmare for us"[^ref-6].
 
 Voice recording was handled by PolyLang Multimedia Ltd., with translations and re-recording for international versions provided by Coktel Vision[^ref-24]. The game's audio relied on MIDI music rather than CD audio[^ref-25], though the compositions effectively evoked the Roman setting.
 
 ### Technical Achievements
 
-Caesar II represented a substantial technical leap from the original Caesar. The release integrated **Smacker Video Technology by RAD Game Tools** for in-game cutscenes and video elements — middleware-grade video compression was uncommon for strategy titles of the 1995 era[^ref-5]. Chris Beatrice's art direction delivered **pre-rendered 3D graphics** for the city-building portion, a notable visual upgrade that distinguished Caesar II from the 2D top-down original[^ref-3]. The most ambitious feat was the **seamless integration of the Cohort 2 tactical combat engine** — the original Caesar Deluxe and Caesar Gold editions had merely "automatically launched Cohort 2" for battles, but Caesar II reworked the integration so combat felt continuous with the city-builder layer[^ref-19]. Audio production scaled internationally: PolyLang Multimedia handled English voice recording while Coktel Vision provided translations and re-recordings for European-language releases — an unusually coordinated localization pipeline[^ref-24]. The product also targeted **multi-platform release (DOS/Windows + Macintosh)** with a 1996 Mac port, with patched 1.01 (March 1997) fixing critical zoom-out crashes via continued post-release engineering support[^ref-5][^ref-25][^ref-27].
+Caesar II represented a substantial technical leap from the original Caesar. The release integrated **Smacker Video Technology by RAD Game Tools** for in-game cutscenes and video elements — middleware-grade video compression was uncommon for strategy titles of the 1995 era[^ref-5]. Chris Beatrice's art direction delivered **pre-rendered 3D graphics** for the city-building portion, a notable visual upgrade that distinguished Caesar II from the 2D top-down original[^ref-3]. The most ambitious feat was **building tactical combat into the game itself**. Caesar Deluxe had simply launched a separate version of Cohort 2 for battles[^ref-37], while Caesar II, in Computer Gaming World's words, "surpassed the original with SVGA graphics and an actual combat module"[^ref-1]. Audio production scaled internationally: PolyLang Multimedia handled English voice recording while Coktel Vision provided translations and re-recordings for European-language releases — an unusually coordinated localization pipeline[^ref-24]. The product also targeted **multi-platform release (DOS/Windows + Macintosh)** with a 1996 Mac port, with patched 1.01 (March 1997) fixing critical zoom-out crashes via continued post-release engineering support[^ref-5][^ref-25][^ref-27].
 
 ### Version History
 
@@ -172,7 +172,7 @@ An active fan community has maintained interest in Caesar II through dedicated w
 [^ref-15]: [Caesar2.com - FAQ](https://www.caesar2.com/caesar-ii-faq/) – Game structure and progression overview
 [^ref-16]: [TV Tropes - Caesar Video Game](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Caesar) – Housing class system mechanics
 [^ref-17]: [GameSpot - Caesar II User Reviews](https://www.gamespot.com/caesar-ii/user-reviews/2200-474414/) – Historical significance as first city builder with military
-[^ref-19]: [Grokipedia - Caesar II](https://grokipedia.com/page/Caesar_II) – Average critic score compilation
+[^ref-19]: [MobyGames - Caesar II](https://www.mobygames.com/game/1588/caesar-ii/) – Critics average score: 82% (based on 20 ratings)
 [^ref-20]: [GOG.com - Caesar II](https://www.gog.com/en/game/caesar_ii) – Current digital availability and user ratings
 [^ref-21]: [Companies Made Simple - David Lester Interview](https://www.companiesmadesimple.com/blogs/inspiration-start-up-stories/real-business-case-study-david-lester) – Sales figures and development focus
 [^ref-22]: [MobyGames - Great Empires Collection II](https://www.mobygames.com/game/7527/the-great-empires-collection-ii/) – Sierra acquisition of Impressions
@@ -189,3 +189,4 @@ An active fan community has maintained interest in Caesar II through dedicated w
 [^ref-34]: Internet Archive - Caesar 2 DOS *(download link removed: the game is sold commercially)* – Game preservation
 [^ref-35]: [Internet Archive - Caesar II Demo](https://archive.org/details/CaesarII_1020) – Demo version archive
 [^ref-36]: MyAbandonware - Caesar II *(download link removed: the game is sold commercially)* – User reviews and compatibility information
+[^ref-37]: [Wikipedia - Caesar (video game)](https://en.wikipedia.org/wiki/Caesar_(video_game)) – Caesar Deluxe automatically launched Cohort 2 for battles

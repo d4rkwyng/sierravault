@@ -5,11 +5,11 @@ birth_year: 1946
 death_year: null
 notable_games: ["Leisure Suit Larry in the Land of the Lounge Lizards", "Torin's Passage", "Freddy Pharkas: Frontier Pharmacist", "The Black Cauldron"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-05-08"
+last_updated: "2026-10-09"
 ---
 # Al Lowe
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -69,7 +69,7 @@ Freddy Pharkas represented Lowe's attempt to create a comedy adventure game outs
 
 Al Lowe's approach to game design was fundamentally rooted in accessibility and entertainment value rather than technical showmanship or niche appeal. His philosophy centered on creating games that would appeal to the broadest possible audience while still maintaining sophisticated humor and engaging gameplay mechanics.[^ref-10] He believed strongly in the power of comedy to make games more memorable and enjoyable, but always emphasized that the humor should serve the gameplay rather than overshadowing it.
 
-Lowe's commitment to technical innovation was always in service of better storytelling and user experience. His development of animation tools and programming techniques was motivated by a desire to create smoother, more engaging interactive experiences rather than technical achievement for its own sake.[^ref-12] This practical approach to technology made him particularly effective at finding solutions to development challenges that other designers might overlook or dismiss as impossible given the available tools.
+Lowe has stressed how primitive Sierra's early tools were: art was built in a vector drawing program one clicked line at a time, years before Photoshop or scanners reached the studio, and what set King's Quest apart was its system of screen depth bands, which Sierra called "priorities".[^ref-12]
 
 His experience working with corporate oversight on licensed properties reinforced his belief in the importance of creative control and understanding the unique requirements of interactive entertainment.[^ref-17] He recognized that game development required different approaches than other media and that external interference from those who didn't understand the medium could be particularly damaging to the final product.
 
@@ -133,7 +133,7 @@ Lowe's preservation of Sierra's development history through his personal archive
 [^ref-9]: [Al Lowe's Game Designs](https://allowe.com/games/game-designs.html) — Complete list of games and roles
 [^ref-10]: [CGG Podcast](https://www.cggpodcast.com/e/al-lowe/) — Career progression at Sierra
 [^ref-11]: [Game Developer - Playing Catch Up](https://www.gamedeveloper.com/game-platforms/playing-catch-up-al-lowe) — Work on King's Quest series
-[^ref-12]: [Grokipedia](https://grokipedia.com/page/Al_Lowe) — Graphics development challenges quote
+[^ref-12]: [Game Developer - In-Depth: Al Lowe Talks Early-Days Adventure Genre Challenges](https://www.gamedeveloper.com/game-platforms/in-depth-al-lowe-talks-early-days-adventure-genre-challenges-in-new-book) — Lowe on vector drawing tools, no scanners, and "priorities"; source of the "one tiny line at a time" quote
 [^ref-13]: [YouTube Tech Talk](https://www.youtube.com/watch?v=C3O0buqVrEc) — Animation techniques and Disney influence
 [^ref-14]: [PC Gamer](https://www.pcgamer.com/leisure-suit-larry-creator-al-lowe-is-selling-his-archive-including-sierra-source-code/) — Development tools and Sierra archive
 [^ref-15]: [Pantheon World](https://pantheon.world/profile/person/Al_Lowe) — Challenges finding computer artists

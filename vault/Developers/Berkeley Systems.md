@@ -6,11 +6,11 @@ defunct: 2000
 headquarters: "Berkeley, California, USA"
 notable_games: ["After Dark", "Head Rush"]
 parent_company: "CUC Software (later Cendant)"
-last_updated: "2026-05-08"
+last_updated: "2026-10-09"
 ---
 # Berkeley Systems
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -34,7 +34,7 @@ The You Don't Know Jack series became Berkeley Systems' flagship product, earnin
 
 ### Acquisition and Later Years
 
-In April 1997, Berkeley Systems was acquired by CUC Software (later renamed Cendant) in a deal that valued the company at approximately $14 million, reflecting the significant value of their intellectual property and market position.[^ref-2][^ref-17] The acquisition was part of CUC's strategy to expand their portfolio of consumer software products and capitalize on the growing market for entertainment software.[^ref-4][^ref-13] Under CUC's ownership, Berkeley Systems continued to develop and publish games, including "Head Rush" in 1998, which applied their multimedia expertise to educational content, and "After Dark Games" in 1998, which transformed their screensaver properties into interactive games.[^ref-5][^ref-14]
+In April 1997, Berkeley Systems was acquired by CUC International and placed under its Sierra On-Line division, in a deal Wikipedia puts at $13.8 million (the terms were not disclosed at the time).[^ref-2][^ref-16][^ref-17] The acquisition was part of CUC's strategy to expand their portfolio of consumer software products and capitalize on the growing market for entertainment software.[^ref-4][^ref-13] Under CUC's ownership, Berkeley Systems continued to develop and publish games, including "Head Rush" in 1998, which applied their multimedia expertise to educational content, and "After Dark Games" in 1998, which transformed their screensaver properties into interactive games.[^ref-5][^ref-14]
 
 However, the acquisition ultimately marked the beginning of the end for Berkeley Systems as an independent creative force.[^ref-11][^ref-12] The company's original founders and key creative personnel gradually departed, and the distinctive culture that had produced their most innovative work began to dissipate under corporate ownership.[^ref-15][^ref-19] By 2000, Berkeley Systems had effectively ceased operations as a distinct entity, with their intellectual properties scattered among various corporate successors and their creative team dispersed throughout the industry.[^ref-10][^ref-11] The You Don't Know Jack franchise would later be acquired by other companies and continue in various forms, but the original Berkeley Systems approach to irreverent, high-quality multimedia entertainment had come to an end.[^ref-7]
 
@@ -87,7 +87,7 @@ The flying toaster from After Dark became one of the most enduring symbols of 19
 [^ref-14]: [Berkeley Systems - CBInsights](https://www.cbinsights.com/company/berkeley-systems) — Business intelligence and company data
 [^ref-15]: [Berkeley Systems - Everything Allowed Wiki](https://everything-allowed.fandom.com/wiki/Berkeley_Systems) — Additional game details and company information
 [^ref-16]: [Berkeley Systems Acquisition - LA Times](https://www.latimes.com/archives/la-xpm-1997-04-10-fi-47219-story.html) — Newspaper coverage of CUC acquisition
-[^ref-17]: [Berkeley Systems - Grokipedia](https://grokipedia.com/page/Berkeley_Systems) — Extended company profile and history
+[^ref-17]: [Berkeley Systems - Wikipedia](https://en.wikipedia.org/wiki/Berkeley_Systems) — Acquired by the Sierra On-Line division of CUC International in 1997 for $13.8 million
 [^ref-18]: [Berkeley Systems Game Site Launch - CNET](https://www.cnet.com/news/short-take-berkeley-systems-launches-game-based-site/) — Coverage of web initiatives and online gaming
 [^ref-19]: [Berkeley Systems - Academic Dictionary](https://en-academic.com/dic.nsf/enwiki/671727) — Academic reference on company significance
 [^ref-20]: [Berkeley Systems News Brief - IGN](https://www.ign.com/articles/1999/05/25/news-briefs-322) — Late-period company news and development updates
