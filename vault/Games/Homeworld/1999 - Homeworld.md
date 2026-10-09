@@ -2,12 +2,12 @@
 title: Homeworld
 release_year: 1999
 developer: Relic Entertainment
-designer: [Alex Garden, Erin Daly, Luke Moloney]
+designer: [Erin Daly]
 publisher: Sierra Studios
 genre: Real-Time Strategy
 platforms: [Windows, Mac OS X]
 series: Homeworld
-engine: Custom 3D engine with RAT audio engine
+engine: Custom 3D engine (audio mixed with Relic Audio Tool)
 protagonist: Karan S'jet / The Kushan Fleet
 sierra_lineage: Sierra Published
 last_updated: '2026-10-09'
@@ -29,9 +29,9 @@ The game was Relic Entertainment's first title, developed by a small team workin
 
 > [!info]- Game Info
 > **Developer:** [[Relic Entertainment]][^ref-1]
-> **Designer:** Alex Garden, Erin Daly, Luke Moloney[^ref-3]
+> **Designer:** Erin Daly (director: Alex Garden; lead programmer: Luke Moloney)[^ref-3]
 > **Publisher:** Sierra Studios[^ref-1]
-> **Engine:** Custom 3D engine with RAT audio engine[^ref-3]
+> **Engine:** Custom 3D engine; audio mixed with the Relic Audio Tool (RAT)[^ref-38]
 > **Platforms:** Windows, Mac OS X[^ref-1]
 > **Release Year:** 1999
 > **Series:** Homeworld
@@ -105,15 +105,15 @@ GameSpot's Kevin VanOrd gave the remaster 8/10, praising how it "beautifully cap
 
 ### Origins
 
-Relic Entertainment was founded in May 1997 in Vancouver, Canada, specifically to develop Homeworld.[^ref-3] The company was started by Alex Garden and Luke Moloney, who set up their office above a nightclub in Vancouver's Yaletown district.[^ref-7] The project began with nothing more than two whiteboard presentations and no working demo.[^ref-7]
+Relic Entertainment was founded in Vancouver, Canada, on June 1, 1997, and began work on Homeworld as its first game.[^ref-3] The company was started by Alex Garden and Luke Moloney, who set up their office above a nightclub in Vancouver's Yaletown district.[^ref-7] The project began with nothing more than two whiteboard presentations and no working demo.[^ref-7]
 
 The creative vision was clear from the start. Garden asked: "Wouldn't it be great if you could have a 3D game that looked like you were watching Star Wars but had a story line like Battlestar Galactica?"[^ref-7] Indeed, the game was originally intended to be a licensed Battlestar Galactica adaptation, but Relic failed to obtain the rights, leading them to create their own original universe.[^ref-9] The influences remained evident in the final product, with the game described as "Battlestar Galactica: The Game in all but name."[^ref-14]
 
-Surprisingly, the genre itself wasn't initially planned. "There's no sort of design philosophy behind it. The fact that it's real-time strategy was almost a fluke," Garden later admitted.[^ref-1] The team drew additional inspiration from Star Control II and Wing Commander in crafting their space opera.[^ref-3]
+Surprisingly, the genre itself wasn't initially planned. "There's no sort of design philosophy behind it. The fact that it's real-time strategy was almost a fluke," Garden later admitted.[^ref-1] Garden also drew on what he saw as the limitations of the cockpit-view space game Star Wars: X-Wing vs. TIE Fighter, choosing instead to have the player command a whole fleet from an external view.[^ref-3]
 
 ### Production
 
-Development spanned 28 months, with the game built by a team of around 20 people.[^ref-7] Garden's philosophy guided the project: "Figure out what you're good at, assume you're lousy at everything else, hire people to do all the things you're lousy at, and get out of their way."[^ref-7] Production exceeded initial estimates by three times, but the team remained focused on quality.[^ref-3]
+Development spanned 28 months, with the game built by a team of around 20 people.[^ref-7] Garden's philosophy guided the project: "Figure out what you're good at, assume you're lousy at everything else, hire people to do all the things you're lousy at, and get out of their way."[^ref-7]
 
 The development approach was unconventional—the team built Homeworld as a multiplayer game first to establish core gameplay mechanics without worrying about AI considerations.[^ref-7] The original vision included a non-linear campaign where players could pick battles and guide their fleet from star system to star system, but this was later changed to a fixed scenario structure.[^ref-7]
 
@@ -129,9 +129,9 @@ The development approach was unconventional—the team built Homeworld as a mult
 
 ### Technical Achievements
 
-Homeworld was the first real-time strategy game to feature a fully 3D environment where players could move units in all three spatial dimensions.[^ref-3] The game used OpenGL for rendering and Microsoft Visual Studio 97 for development, with audio powered by DirectSound and the Miles Sound System.[^ref-27] A proprietary audio engine called RAT (Relic Audio Tool) was developed specifically for the game.[^ref-3]
+Maximum PC later wrote that Homeworld "did what no game had successfully done before: create a truly three-dimensional space-combat strategy game," with units moving in all three spatial dimensions.[^ref-3] The game used OpenGL for rendering and Microsoft Visual Studio 97 for development, with audio powered by DirectSound and the Miles Sound System.[^ref-27] Relic's in-house Relic Audio Tool (RAT) served as the game's audio mix system, and was reused years later for the Remastered soundtrack work.[^ref-38]
 
-The game demanded serious hardware for its time. "Homeworld is far and away the best-looking RTS game ever," noted contemporary reviews.[^ref-18] The visual design earned praise for its quality: "animation of quality that would make Disney proud."[^ref-3]
+The game demanded serious hardware for its time. "Homeworld is far and away the best-looking RTS game ever," noted contemporary reviews.[^ref-18] GameSpot's Michael Ryan said it had "some of the most impressive graphics ever."[^ref-3]
 
 ### Technical Specifications
 
@@ -157,7 +157,6 @@ The original development plans included five playable races, but the T-mat race 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | Sept 28, 1999 | Windows | Initial release[^ref-1] |
-| 1.01 | Shortly after launch | Windows | Initial patch[^ref-3] |
 | 1.03 | Sept 16, 1999 | Windows | Early fixes[^ref-28] |
 | 1.04 | Oct 21, 1999 | Windows | AI pathfinding and multiplayer fixes[^ref-28] |
 | 1.05 | March 27, 2000 | Windows | Final patch - Windows XP compatibility[^ref-9] |
@@ -206,7 +205,7 @@ A significant bug in Level 7 "Gardens of Kadesh" could make the mission impossib
 
 ### Sales and Commercial Impact
 
-Homeworld achieved remarkable commercial success, selling over 250,000 copies in its first three months and over half a million copies in its first year.[^ref-9] The game peaked at number one on UK sales charts in October 1999.[^ref-3] This success was particularly impressive for a first title from a newly formed studio working in an experimental new genre space.
+Homeworld achieved remarkable commercial success, selling more than 250,000 copies in its initial weeks and over 500,000 in its first six months.[^ref-3] It debuted third on Germany's computer game sales chart for October 1999 and earned an ELSPA "Silver" sales award, indicating at least 100,000 copies sold in the United Kingdom.[^ref-3] This success was particularly impressive for a first title from a newly formed studio working in an experimental new genre space.
 
 ### Awards
 
@@ -308,7 +307,7 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 
 [^ref-1]: [Wikipedia – Homeworld](https://en.wikipedia.org/wiki/Homeworld) – release date, developer, platforms, Alex Garden quote about genre
 [^ref-2]: Internet Archive – Homeworld *(download link removed: the game is sold commercially)* – plot description, Taiidan Empire destruction
-[^ref-3]: [Grokipedia – Homeworld](https://grokipedia.com/page/Homeworld) – sales figures, awards, development team, technical specs, Metacritic score
+[^ref-3]: [Wikipedia – Homeworld (Development, Reception)](https://en.wikipedia.org/wiki/Homeworld#Reception) – Metacritic 93 / highest-rated PC game of 1999, 500,000 sold in six months, founding date, credits, inspirations, awards, ELSPA Silver
 [^ref-4]: [2K Games – Homeworld Franchise](https://2k.com/games/homeworld/) – franchise description quote
 [^ref-5]: [Interactive.org – Homeworld](https://www.interactive.org/games/video_game_details.asp?idAward=2000&idGame=487) – AIAS nominations, gameplay features
 [^ref-6]: [Engadget – Homeworld Remastered Review](https://www.engadget.com/2015/02/24/homeworld-remastered-review/) – historical significance quote, Yes song removal

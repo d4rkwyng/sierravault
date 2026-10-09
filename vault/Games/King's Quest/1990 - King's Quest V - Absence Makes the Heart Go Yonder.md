@@ -31,7 +31,7 @@ King's Quest V became a commercial phenomenon, selling over 500,000 copies;[^ref
 > **Developer:** [[Sierra On-Line]][^ref-2]
 > **Design/Writing:** [[Roberta Williams]][^ref-2]
 > **Publisher:** Sierra On-Line[^ref-2]
-> **Engine:** SCI1 (Sierra Creative Interpreter version 1)[^ref-9]
+> **Engine:** SCI1 (Sierra Creative Interpreter version 1)[^ref-1]
 > **Platforms:** MS-DOS, Windows, Amiga, Macintosh, NES, FM Towns, NEC PC-9801[^ref-6]
 > **Release Year:** 1990
 > **Series:** King's Quest
@@ -95,13 +95,13 @@ Hardcore Gaming 101 noted that "despite its popularity at the time, [the game] h
 
 ### Origins
 
-Development on King's Quest V commenced in late 1989 as Sierra sought to push the boundaries of what was possible in adventure gaming.[^ref-9] [[Roberta Williams]], who had created the original King's Quest in 1984, returned as sole designer and director with an ambitious vision to revolutionize the series.[^ref-2] The game marked a return to the land of Serenia, first seen in Sierra's earlier title Wizard and the Princess.[^ref-26]
+With King's Quest V, Sierra sought to push the boundaries of what was possible in adventure gaming. [[Roberta Williams]], who had created the original King's Quest in 1984, returned as sole designer and director with an ambitious vision to revolutionize the series.[^ref-2] The game marked a return to the land of Serenia, first seen in Sierra's earlier title Wizard and the Princess.[^ref-26]
 
 Sierra's creative director Bill Davis introduced new storyboarding methodologies borrowed from the film industry to manage the ambitious project. "We are going to take some of the techniques that have been used in the film industry to manage gigantic feature projects and apply them here," Davis explained.[^ref-15]
 
 ### Production
 
-The game represented Sierra's most ambitious production to date, with an unprecedented budget of approximately one million dollars.[^ref-9] The art direction was revolutionary: background scenes were hand-drawn and painted by professional artists, then scanned into the computer—a significant departure from how Sierra had previously created game graphics.[^ref-4] Character animations employed rotoscoping techniques inspired by Disney animation from The Little Mermaid, using live actors as the framework for character sprites.[^ref-6]
+The game represented Sierra's most ambitious production to date, with a budget of around one million dollars.[^ref-6] The art direction was revolutionary: background scenes were hand-drawn and painted by professional artists, then scanned into the computer—a significant departure from how Sierra had previously created game graphics.[^ref-4] Character animations employed rotoscoping techniques inspired by Disney animation from The Little Mermaid, using live actors as the framework for character sprites.[^ref-6]
 
 The game was built on the new SCI1 interpreter.[^ref-1] [[Corey Cole]], credited under Development System, later explained that SCI in general "included a scripting language, graphic and sound features, the parser, ways to animate characters, and so on," and that his own earlier work converting SCI to the Atari ST became the core of the Amiga and Macintosh versions.[^ref-28]
 
@@ -163,9 +163,9 @@ Several planned versions of the game were cancelled during development. A Sega C
 | PC-98 | November 9, 1991 | NEC PC-9801 | Japanese market[^ref-56] |
 | Windows 3.x | 1992 | Windows | Windows port[^ref-56] |
 
-**SCI Interpreter Versions:**[^ref-9]
-- **Floppy version:** SCI1 interpreter
-- **CD-ROM version:** SCI1 interpreter with audio extensions
+**SCI Interpreter Versions:**
+- **Floppy version:** SCI1 interpreter — "the first adventure game to feature Sierra On-Line's SCI interpreter version 1"[^ref-1]
+- **CD-ROM version:** fully voiced "talkie" release[^ref-6]
 
 ### Technical Issues
 
@@ -292,7 +292,6 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-6]: [Wikipedia – King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) – comprehensive development, sales, awards, platform information
 [^ref-7]: [King's Quest Omnipedia – King's Quest V](https://kingsquest.fandom.com/wiki/King's_Quest_V:_Absence_Makes_the_Heart_Go_Yonder) – Roberta Williams quote on the icon interface (Reception section)
 [^ref-8]: [Hardcore Gaming 101 – King's Quest V](http://www.hardcoregaming101.net/kings-quest-v-absence-makes-the-heart-go-yonder/) – retrospective analysis, version comparisons
-[^ref-9]: [Grokipedia – King's Quest V](https://grokipedia.com/page/King%27s_Quest_V) – SCI1 engine, sales data, technical details
 [^ref-10]: [DOS Days – King's Quest V](https://www.dosdays.co.uk/topics/Games/game_kq5.php) – technical specifications, installation details
 [^ref-11]: [Internet Archive – NES Longplay](https://archive.org/details/NESLongplay493KingsQuestV) – plot description, gameplay elements
 [^ref-12]: [Computer Hope Walkthrough](https://www.computerhope.com/games/games/kq5.htm) – gameplay mechanics, interface description

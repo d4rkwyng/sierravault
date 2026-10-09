@@ -21,7 +21,7 @@ tags: [1990s, lords-of-the-realm, sierra, strategy]
 
 ## Overview
 
-Lords of Magic is a turn-based fantasy strategy game that combines elements of role-playing games with traditional empire building mechanics[^ref-1]. Developed by Impressions Games and published by Sierra On-Line in 1997, the game is set in the fantasy world of Urak, a once-peaceful land now fractured by chaos and threatened by the evil sorcerer Balkoth[^ref-2]. The game deftly blends turn-based adventure and exploration with real-time combat for what was marketed as "a captivating role playing experience"[^ref-3].
+Lords of Magic is a turn-based fantasy strategy game, intended to combine elements of Heroes of Might and Magic II and Lords of the Realm II, in which turn-based map play switches to real-time battles[^ref-1]. Developed by Impressions Games and published by Sierra On-Line in 1997, the game is set in the fantasy world of Urak, a once-peaceful land now fractured by chaos and threatened by the evil sorcerer Balkoth[^ref-2]. The game deftly blends turn-based adventure and exploration with real-time combat for what was marketed as "a captivating role playing experience"[^ref-3].
 
 Lords of Magic allows players to choose from eight different faiths - Life, Death, Order, Chaos, Fire, Water, Earth, and Air - each with unique characteristics, units, and magical abilities[^ref-4]. The main objective is to defeat Balkoth, Lord of Death, by any means necessary while managing resources, exploring the world, and engaging in both diplomacy and warfare[^ref-5]. The game was later re-released as Lords of Magic: Special Edition in 2000, which included the original game plus the Legends of Urak Quest Pack expansion[^ref-6].
 
@@ -122,7 +122,7 @@ The Special Edition release in 2000 attempted to address many of the original ga
 
 ## References
 
-[^ref-1]: [Grokipedia](https://grokipedia.com/page/Lords_of_Magic) – - Game description as turn-based strategy with real-time combat elements
+[^ref-1]: [Wikipedia – Lords of Magic](https://en.wikipedia.org/wiki/Lords_of_Magic) – - "a turn-based strategy … game"; "intended to combine elements of Heroes of Might and Magic II and Lords of the Realm II"; battles switch to real-time
 [^ref-2]: [ModDB](https://www.moddb.com/games/lords-of-magic-special-edition/downloads/lords-of-magic-ost) – - Game backstory and setting description
 [^ref-3]: [Internet Archive](https://archive.org/details/LordsofMagic_1020) – - Official game marketing description
 [^ref-4]: [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=573789702) – - Faith system details

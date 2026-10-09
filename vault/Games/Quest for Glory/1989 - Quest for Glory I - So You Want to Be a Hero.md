@@ -58,10 +58,10 @@ The game advertised itself as "three games in one" since it was the first Sierra
 - The original EGA version uses a text parser interface where players type commands for the character to perform[^ref-1]
 - The 1992 VGA remake uses Sierra's point-and-click SCI1.1 interface[^ref-3][^ref-4]
 - Players can explore all of the game at once and solve quests in any order[^ref-1]
-- Character saves can be exported to carry over attributes and backstory to later installments in the series[^ref-4][^ref-5]
+- Character saves can be exported to carry over the character, including skills and wealth, to later installments in the series[^ref-4][^ref-5]
 
 ### Structure and Progression
-- The game is set in the valley barony of Spielburg, encompassing the central town with its tavern and shops, surrounding forests, and hazardous areas like caves and swamps[^ref-4][^ref-5]
+- The game is set in the valley barony of Spielburg, cursed by the ogress Baba Yaga and ravaged by monsters and brigands[^ref-1][^ref-5]
 - Time passes in the game; the situation can be different between day and night, with scenery adjusted to match[^ref-1]
 - The main character must eat on a regular basis and becomes tired from running and fighting, requiring rest and sleep[^ref-1]
 - Skills improve through use rather than gaining levels through combat[^ref-1]
@@ -70,7 +70,7 @@ The game advertised itself as "three games in one" since it was the first Sierra
 - Character class largely determines starting equipment, how puzzles can be solved, and what quests are available[^ref-1][^ref-4]
 - Class distinctions are not absolute; players can add skills to a character to complete quests related to other classes[^ref-1]
 - Key quests involve freeing Elsa von Spielburg from the curse that made her the brigand leader, lifting the bear curse on Barnard, and dealing with the brigands[^ref-1]
-- Challenges emphasize class-specific strategies, such as spellcasting to bypass obstacles or lockpicking hidden paths[^ref-5]
+- Each class has its own way to solve puzzles: faced with a closed door, a thief can pick the lock, a magic user can cast an open spell, and a fighter can knock it down[^ref-5]
 
 ## Reception
 
@@ -99,9 +99,9 @@ Adventure Classic Gaming's Don Rayner gave the 1992 VGA remake 4/5 (Very Good), 
 ## Development
 
 ### Origins
-The Quest for Glory series originated from the creative vision of Corey Cole, a programmer and designer with expertise in role-playing game systems, and his wife Lori Ann Cole, an artist and co-designer[^ref-5]. The game was first proposed to Sierra On-Line in August 1988 under the working title *Hero's Quest: How to Be a Hero*[^ref-29]. The core design philosophy centered on merging Sierra's tradition of parser-driven adventure games with RPG staples such as character stats, skill progression, and tactical combat[^ref-5].
+The Quest for Glory series was designed by Corey and Lori Ann Cole; Lori pitched it to Sierra as a "rich, narrative-driven, role-playing experience"[^ref-5]. The game was first proposed to Sierra On-Line in August 1988 under the working title *Hero's Quest: How to Be a Hero*[^ref-29]. The game established the series' trademark mix of graphical adventure gaming with role-playing elements[^ref-1].
 
-According to Corey Cole, the original Quest for Glory game cost $150,000 to make, while the VGA remake cost almost as much as a full VGA entry[^ref-1]. The development team worked to create a game that would appeal to both adventure game fans and RPG enthusiasts, implementing systems that had never been combined in this way before[^ref-5].
+According to Corey Cole, the original Quest for Glory game cost $150,000 to make, while the VGA remake cost almost as much as a full VGA entry[^ref-1].
 
 ### Cut Content and Design Challenges
 Many planned features were cut during development due to time and budget constraints, including four different races (gnome, elf, human, centaur), a female player character option, a goblin maze dungeon, and the ability for magic users to have a familiar[^ref-1]. The game was originally titled "Hero's Quest" but was renamed to "Quest for Glory" in 1990 due to trademark conflicts with Milton Bradley's HeroQuest board game[^ref-1][^ref-4][^ref-25]. The idea for Quest for Glory was that the game should "be as much about story as it was about combat and exploration"[^ref-1].
@@ -215,7 +215,7 @@ This game has been included in the following collections:
 [^ref-2]: My Abandonware – Hero's Quest *(download link removed: the game is sold commercially)* – platforms, availability
 [^ref-3]: [Sierra Fandom Wiki – Quest for Glory I VGA](https://sierra.fandom.com/wiki/Quest_for_Glory_I%3A_So_You_Want_to_Be_a_Hero_%28VGA%29) – VGA remake details, SCI1.1 engine
 [^ref-4]: [Sierra Fandom Wiki – Quest for Glory I EGA](https://sierra.fandom.com/wiki/Quest_for_Glory%3A_So_You_Want_to_Be_a_Hero_%28EGA%29) – original release details, plot, gameplay
-[^ref-5]: [Grokipedia – Quest for Glory](https://grokipedia.com/page/Quest_for_Glory) – series development history, creators, gameplay mechanics
+[^ref-5]: [Wikipedia – Quest for Glory (series)](https://en.wikipedia.org/wiki/Quest_for_Glory) – designers, Lori Cole's pitch, character import system, class-specific puzzle solutions, Spielburg setting, Anthology (1996) and Collection Series (1997)
 [^ref-6]: [PCGamingWiki – Quest for Glory: So You Want to Be a Hero](https://www.pcgamingwiki.com/wiki/Quest_for_Glory%3A_So_You_Want_to_Be_a_Hero) – technical specs, availability
 [^ref-7]: [Computer Gaming World – 1990 Awards](http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=74) – Adventure Game of the Year, 150 Best Games list
 [^ref-8]: [Adventure Gamers – Quest for Glory I: So You Want To Be A Hero review (archived 2014)](https://web.archive.org/web/20140804102348/http://www.adventuregamers.com/articles/view/17989) – 3.5 stars, Martijn van Es, October 20, 2006

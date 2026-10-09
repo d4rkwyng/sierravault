@@ -63,7 +63,7 @@ The game operates on a turn-based system where each turn represents a single sea
 - **Autumn:** Harvest time; gathering resources for the coming winter
 - **Winter:** Survival season; armies cannot campaign effectively; population at risk from starvation
 
-Players begin with control of a single county and must expand their domain by conquering neighboring territories. The game features 32 counties across England and Wales, each with different characteristics affecting their productivity and strategic value.[^ref-13] Victory is achieved by capturing all territories and eliminating rival lords, ultimately claiming the throne.
+Players begin with control of a single county and must expand their domain by conquering neighboring territories. The kingdom map has 32 counties to contest,[^ref-6] with the player cast as a noble lord of England or Wales in 1268.[^ref-20] Victory is achieved by capturing all territories and eliminating rival lords, ultimately claiming the throne.
 
 ### Puzzles and Mechanics
 
@@ -107,7 +107,7 @@ Games Nostalgia designated it as a "must-play for any strategy fan" and "a good 
 
 ### Origins
 
-Lords of the Realm emerged from the creative vision of [[David Lester]], founder of Impressions Games, who sought to create a comprehensive medieval governance simulation.[^ref-13] The game represented a departure from the "spreadsheet-style syndrome" that had characterized many of Impressions' previous titles, offering a more accessible and visually engaging experience while maintaining strategic depth.[^ref-5]
+Lords of the Realm was conceived by [[David Lester]], founder of Impressions Games,[^ref-13] and designed by David and Chris Lester, with programming by Simon Bradbury.[^ref-20] The game represented a departure from the "spreadsheet-style syndrome" that had characterized many of Impressions' previous titles, offering a more accessible and visually engaging experience while maintaining strategic depth.[^ref-5]
 
 Lester's genuine interest in his country's heritage deeply influenced the game's design. Similar to Kou Shibusawa's Nobunaga's Ambition, Lords of the Realm is described as "not only a labor of love, but a highly personal game where the designer's genuine interest in his country's heritage are fully borne by the game's excellence."[^ref-5] The development team aimed to create an authentic representation of thirteenth-century politics and combat while keeping the gameplay engaging and accessible.[^ref-22]
 
@@ -127,7 +127,7 @@ The game shipped on four 3.5" 1.44MB high-density diskettes, with an install siz
 
 ### Technical Achievements
 
-Lords of the Realm featured VGA 256-color graphics at 320x200 resolution, which was standard for DOS games of the era.[^ref-13] The game supported an impressive array of audio hardware for its time, including Aria, AdLib, AdLib Gold, Sound Blaster, Sound Blaster Pro 1/2, Roland MT-32, and Roland SCC-1.[^ref-20]
+Lords of the Realm displays in 256-color VGA at 320x200 and requires 585K of free conventional memory, using XMS memory for overlays.[^ref-20] The game supported an impressive array of audio hardware for its time, including Aria, AdLib, AdLib Gold, Sound Blaster, Sound Blaster Pro 1/2, Roland MT-32, and Roland SCC-1.[^ref-20]
 
 The game included a custom castle design tool that allowed players to create their own fortifications, a feature that added significant replay value and personalization to the experience.[^ref-6] The real-time battle system, while optional (players could let the computer resolve conflicts), offered tactical depth in commanding various troop types across diverse terrain.
 
@@ -147,10 +147,10 @@ The game included a custom castle design tool that allowed players to create the
 - **Disk Space:** 2 MB minimum
 - **Additional Content:** Intro FMV, voices, Germany map, improved multiplayer
 
-**Minimum System Requirements (DOS):**[^ref-13]
-- **Processor:** Intel 386
-- **RAM:** 4 MB
-- **Operating System:** DOS 3.0-3.3
+**Minimum System Requirements (DOS):**[^ref-20]
+- **Memory:** 585K free conventional memory; XMS used for overlays
+- **Graphics:** 256-color VGA (320x200)
+- **Media:** four 3.5" 1.44MB HD diskettes
 
 ### Version History
 
@@ -246,7 +246,7 @@ Today, Lords of the Realm is recognized as a foundational title that helped defi
 [^ref-10]: [Impressions Games Fandom Wiki – Lords of the Realm](https://impressionsgames.fandom.com/wiki/Lords_of_the_Realm) – seasonal mechanics, player count
 [^ref-11]: [GOG.com – Lords of the Realm Royal Edition](https://www.gog.com/en/game/lords_of_the_realm_royal_edition) – user ratings, game description, bundle contents
 [^ref-12]: [Web Archive – Allgame Review](https://web.archive.org/web/20110203081251/http://www.allgame.com/game.php?id=13350&tab=review) – controls, interface description, review
-[^ref-13]: [Grokipedia – Lords of the Realm](https://grokipedia.com/page/Lords_of_the_Realm) – technical specifications, publishers, county count
+[^ref-13]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – "a British video game developer founded by David Lester"
 [^ref-14]: Internet Archive – Lords of the Realm II *(download link removed: the game is sold commercially)* – gameplay mechanics
 [^ref-15]: [Sierra Gamers – Lords of the Realm 3](https://www.sierragamers.com/lords-of-the-realm-3/) – battle description
 [^ref-16]: [Amiga Magazine Rack – Lords of the Realm Reviews](https://amr.abime.net/review_28219) – contemporary magazine reviews and scores

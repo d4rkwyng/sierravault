@@ -122,7 +122,7 @@ The 2000 Dreamcast port was announced in October of that year, with Sierra's SVP
 
 ### Technical Achievements
 
-The series showcased Sierra's expertise in graphical presentation, evolving from 2D rendered environments in the mid-1990s to hybrid 3D graphics by 2000, and full 3D immersive environments with Hoyle Casino 3D in 2005[^ref-33]. The games featured detailed animations for card dealing, dice rolling, and slot machine spinning that enhanced the simulation authenticity[^ref-22].
+The series' presentation was revised across near-annual editions from 1996 onward, culminating in Hoyle Casino 3D in 2005[^ref-33]. The games featured detailed animations for card dealing, dice rolling, and slot machine spinning that enhanced the simulation authenticity[^ref-22].
 
 Multiplayer functionality expanded throughout the series, with Hoyle Casino 2000 supporting internet play through Won.net servers[^ref-34], and later versions offering tournament play against both AI opponents and human players. The Face Creator utility allowed players to design custom avatars with adjustable facial features, adding personalization to the casino experience[^ref-12].
 
@@ -339,7 +339,7 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 [^ref-30]: [Sierra Chest – Hoyle Casino 6 Music](https://sierrachest.com/index.php?a=games&fld=music&id=810&title=hoyle-casino-6) – music recycling
 [^ref-31]: [IGN – Hoyle Casino Dreamcast Announcement](https://www.ign.com/articles/2000/10/04/hoyle-casino-gets-dealt-to-retailers) – Steve Van Horn quote, platform expansion
 [^ref-32]: [A Secret Area – Hoyle Casino GBC](https://asecretarea.com/2014/12/18/hoyle-casino-game-boy-color/) – Pulsar Interactive developer info
-[^ref-33]: [Grokipedia – Hoyle Casino](https://grokipedia.com/page/Hoyle_Casino) – graphics evolution, version history
+[^ref-33]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – editions list: "Hoyle Casino (1996) … Hoyle Casino (2004), Hoyle Casino 3D (2005)"
 [^ref-34]: [MobyGames – Hoyle Casino (1999)](https://www.mobygames.com/game/45137/hoyle-casino/) – Won.net online play, word games
 [^ref-35]: [Old PC Gaming – Hoyle Casino Games 4 Review](https://oldpcgaming.net/hoyle-casino-games-4-review/) – system requirements
 [^ref-36]: [Macworld – Hoyle Casino 2008](https://www.macworld.com/article/190285/casino-4.html) – Mac system requirements

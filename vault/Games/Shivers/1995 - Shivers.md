@@ -60,7 +60,7 @@ A unique feature for its time was the inclusion of closed captions for all video
 
 The game divides into two main sections: first finding the hidden entrance to the museum, then exploring its vast interior[^ref-2]. Unlike linear adventure games, Shivers offers a nonlinear design where players can explore most areas in any order, backtracking freely as needed[^ref-3].
 
-The museum contains approximately 80 distinct room designs spread across four floors plus basement areas[^ref-13]. Key locations include:
+The museum's rooms are divided into sections, each with a completely different look and each based on a historical legend[^ref-3]. Key locations include:
 
 - **Main Hall:** Central hub connecting to most museum wings
 - **Library:** Contains research materials and clues
@@ -121,7 +121,7 @@ The Ixupi mythology drew inspiration from multiple cultural sources. "The Ixupi 
 
 Development of Shivers presented significant challenges for the Sierra team. As the first Sierra first-person adventure game, the team faced "steep learning curves as many were inexperienced in 3d modeling or adventure game design, and it was first time SCI language was used for 1st-person adventure game"[^ref-1]. Roberta Williams served as creative consultant while simultaneously working on Phantasmagoria[^ref-1].
 
-The art production was remarkably labor-intensive. Art director Ron Spears led a team of 8-9 artists who created the game's visuals using traditional painting techniques[^ref-13]. "All artworks are original paintings except for a few wire frame models. Most are painted traditionally with watercolors or gouache"[^ref-3]. Over 2,500 individual background shots were created, scanned, and compiled using 3D Studio for room construction[^ref-3]. Blue screen film sequences were shot using Ultimatte technology for the live-action video elements[^ref-3].
+The art production was remarkably labor-intensive. Each room was assigned to one of a team of ten artists, with the art director ensuring continuity and consistency[^ref-1]; Ron Spears is credited as art director[^ref-27]. "All artworks are original paintings except for a few wire frame models. Most are painted traditionally with watercolors or gouache"[^ref-3]. Over 2,500 individual background shots were created, scanned, and compiled using 3D Studio for room construction[^ref-3]. Blue screen film sequences were shot using Ultimatte technology for the live-action video elements[^ref-3].
 
 Sound designer and composer Guy Whitmore handled multiple audio roles that would typically be divided among several specialists in film production: "If you look at movie credits, you'd see sound designers, a composer, sound editors, an orchestrator, a sound coordinator, and foley artists. So far in the computer industry, at least where the industry is right now, all those roles are often rolled into one person"[^ref-1]. The soundtrack incorporated various atmospheric elements, including "mumblings from a Hamlet performance" for the abandoned theatre area[^ref-1].
 
@@ -304,7 +304,6 @@ The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shive
 [^ref-10]: [Web Archive – Adventure Gamers Review](https://web.archive.org/web/20100715131847/http://www.adventuregamers.com/article/id,113/) – game quotes, review analysis
 [^ref-11]: [Sierra Help Pages – Shivers Walkthrough](https://sierrahelp.com/Walkthroughs/Shivers1Walkthrough.html) – Ixupi types, location list, gameplay mechanics
 [^ref-12]: [Web Archive – MacUser Review](https://web.archive.org/web/20010107225300/http://macuser.zdnet.com/mu_1296/personal/gameroom.html) – negative review, gameplay description
-[^ref-13]: [Grokipedia – Shivers](https://grokipedia.com/page/Shivers_(video_game)) – team size, room count, technical specifications
 [^ref-25]: [GOG.com – Shivers User Reviews](https://www.gog.com/en/game/shivers) – gameplay mechanics, user testimonials
 [^ref-15]: [Walkthrough King – Shivers](https://www.walkthroughking.com/text/shivers.aspx) – inventory system, gameplay tips
 [^ref-16]: [The Spoiler – Shivers Walkthrough](https://the-spoiler.com/ADVENTURE/Sierra/shivers.1.html) – point system, Easter eggs, version differences

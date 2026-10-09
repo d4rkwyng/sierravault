@@ -7,17 +7,17 @@ publisher: Sierra On-Line
 genre: Puzzle
 platforms: [Windows, Mac OS, Palm OS]
 series: The Incredible Machine
-engine: Custom 2D physics engine
+engine: Custom physics engine
 protagonist: None (player-driven)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'The Incredible Machine: Even More Contraptions is a puzzle game released
   in 2001, serving as the eighth and final installment in the beloved Incredible...'
 tags: [2000s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine: Even More Contraptions
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ Although the game applies properties of physics to problem solving, it is so del
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
 > **Designers:** [[Brian Hahn]], Neil Witkin, Jared W. Eden, [[Richard Tunnell]], Garrett Turner[^ref-1]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
-> **Engine:** Custom 2D physics engine[^ref-7]
+> **Engine:** Custom physics engine[^ref-3]
 > **Platforms:** Windows, Mac OS, Palm OS[^ref-1]
 > **Release Year:** 2001
 > **Series:** The Incredible Machine
@@ -102,7 +102,7 @@ Absolute Games (Russia) gave Return of the Incredible Machine: Contraptions 80%,
 
 ### Modern Assessment
 
-The Contraptions series (2000–2001), including both Return of the Incredible Machine: Contraptions and Even More Contraptions, received mixed reviews averaging around 7/10.[^ref-7] Critics praised the shift to 3D visuals and enhanced edutainment value but offered criticism for occasionally dated physics simulations and less intuitive controls compared to the 2D originals.[^ref-7]
+GameSpot scored Even More Contraptions 7.6/10, calling its point-and-click interface intuitive and noting that "while the game's two-dimensional graphics won't impress players who are used to the latest 3D technology, they do a good job of representing the contraptions in a colorful cartoon style."[^ref-7]
 
 Hardcore Gaming 101's retrospective noted that "After the long wait between The Incredible Machine 2/3, ROTIM's a bit of a disappointment" while acknowledging that "Even More Contraptions is pretty much an expansion pack to ROTIM, but except for the first 50 tutorial puzzles from the original, the puzzles are brand-new."[^ref-11]
 
@@ -249,7 +249,7 @@ A speedrunning community has developed around the game, with active competition 
 
 The Incredible Machine: Even More Contraptions represents both the culmination and conclusion of one of gaming's most beloved educational puzzle franchises. Its family-friendly quality led to widespread popularity in homes and schools alike, introducing countless children to basic physics concepts through engaging, hands-on experimentation.[^ref-9]
 
-The game's design philosophy of offering multiple solutions to each puzzle fostered creativity and critical thinking, distinguishing it from more rigid puzzle games of the era.[^ref-16] While critics noted that the Contraptions series felt somewhat dated compared to the innovative 2D originals, the core gameplay loop remained compelling enough to earn strong reviews and passionate fan devotion.[^ref-7]
+The game's design philosophy of offering multiple solutions to each puzzle fostered creativity and critical thinking, distinguishing it from more rigid puzzle games of the era.[^ref-16] Even with graphics that looked modest beside contemporary 3D games, the core gameplay loop was strong enough to earn GameSpot's 7.6.[^ref-7]
 
 The series' influence can be seen in numerous physics-based puzzle games that followed, from Crazy Machines to the mobile hit Cut the Rope. The fact that original creator Kevin Ryan returned to develop Contraption Maker decades later speaks to the enduring appeal of the Rube Goldberg puzzle concept. As one reviewer noted, the game excels at challenging players to develop "brain muscles rather than finger muscles"—a design philosophy that remains relevant in an era increasingly concerned with meaningful educational gaming.[^ref-20]
 
@@ -295,7 +295,7 @@ The series' influence can be seen in numerous physics-based puzzle games that fo
 
 [^ref-6]: [IGN – Return of the Incredible Machine: Contraptions Review](https://www.ign.com/articles/2000/09/15/return-of-the-incredible-machine-contraptions) – Martin Reyes review, score
 
-[^ref-7]: [Grokipedia – The Incredible Machine](https://grokipedia.com/page/The_Incredible_Machine) – series overview, mixed reviews analysis, engine info
+[^ref-7]: [GameSpot – The Incredible Machine: Even More Contraptions Review](https://www.gamespot.com/reviews/the-incredible-machine-even-more-contraptions-revi/1900-2816397/) – score 7.6; "two-dimensional graphics won't impress players who are used to the latest 3D technology"
 
 [^ref-8]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) – series history, developers, IP rights
 

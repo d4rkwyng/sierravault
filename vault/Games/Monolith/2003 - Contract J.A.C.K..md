@@ -17,7 +17,7 @@ tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # Contract J.A.C.K.
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -127,7 +127,7 @@ Gaming Pastime's retrospective noted that "Contract J.A.C.K. tells the weakest a
 
 ### Origins
 
-Production on Contract J.A.C.K. began in early 2003, with Monolith publicly announcing the project on July 9, 2003.[^ref-31] The game was developed within a remarkably short four-month public development window, with most of the *NOLF 2* team involved in production.[^ref-10] Lead designer Craig Hubbard characterized the project as offering players a chance to "explore the dark side of the No One Lives Forever universe."[^ref-2]
+Contract J.A.C.K. was revealed in July 2003; a GameSpot Q&A dated July 9, 2003 introduced the "soon-to-be-announced next game in the series" as a stand-alone prequel.[^ref-10] The game was developed within a remarkably short four-month public development window, with most of the *NOLF 2* team involved in production.[^ref-10] Lead designer Craig Hubbard characterized the project as offering players a chance to "explore the dark side of the No One Lives Forever universe."[^ref-2]
 
 The decision to create a pure action game appears to have been influenced by the commercial underperformance of the previous *NOLF* titles. As one German publication noted, despite critical acclaim, "both NOLF parts remained commercially unsuccessful."[^ref-32] Monolith's response was to redesign gameplay mechanics entirely, shifting from stealth-based gameplay to "pure action."[^ref-32]
 
@@ -248,7 +248,7 @@ The game contains numerous references to the broader *No One Lives Forever* seri
 
 ### Sales and Commercial Impact
 
-Contract J.A.C.K. underperformed commercially, failing to generate sufficient momentum to continue the *No One Lives Forever* franchise.[^ref-31] The game's budget price point of $29.99 reflected expectations of modest sales compared to a full-priced release.[^ref-4] Shortly after the game's release, it was frequently found in bargain bins at prices below those of the previous *NOLF* games combined.[^ref-3]
+4Players noted that although both earlier *NOLF* games had been praised by critics, neither had achieved commercial success, and suggested this prompted Monolith's change of approach.[^ref-32] The game's budget price point of $29.99 reflected expectations of modest sales compared to a full-priced release.[^ref-4] Shortly after the game's release, it was frequently found in bargain bins at prices below those of the previous *NOLF* games combined.[^ref-3]
 
 The commercial and critical failure of Contract J.A.C.K. effectively ended the *No One Lives Forever* series. Monolith moved on to develop *F.E.A.R.* and *Condemned: Criminal Origins* in 2005, both of which achieved greater commercial and critical success.[^ref-27] The studio was subsequently absorbed into Warner Bros. Interactive Entertainment.[^ref-39]
 
@@ -341,7 +341,6 @@ The game is currently unavailable through legitimate digital storefronts due to 
 [^ref-28]: [MobyGames – LithTech Jupiter Engine Group](https://www.mobygames.com/group/4132/3d-engine-lithtech-jupiter/) – engine listing, MobyGames score
 [^ref-29]: [Amazon.com – Contract J.A.C.K.](https://www.amazon.com/Contract-J-C-K-PC/dp/B0000A4F0R) – customer reviews, product features
 [^ref-30]: [MyAbandonware – Contract J.A.C.K.](https://www.myabandonware.com/game/contract-j-a-c-k-dvt) – user rating, compatibility issues
-[^ref-31]: [Grokipedia – Contract J.A.C.K.](https://grokipedia.com/page/Contract_J.A.C.K.) – development timeline, international releases, sales performance
 [^ref-32]: [Wayback Machine – 4Players.de Review](https://www.4p.de/test/contract_jack/3032166) – German bundle, commercial failure context
 [^ref-33]: [GameSpy – Contract J.A.C.K. Review Page 2](http://pc.gamespy.com/pc/contract-jack/6344p2.html) – cut content, original narrative concept
 [^ref-34]: [IGN – Contract Jack Gold](https://www.ign.com/articles/2003/10/31/contract-jack-gold) – gold status announcement, demo date

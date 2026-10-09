@@ -198,7 +198,6 @@ Academic analysis has also examined the series' cultural significance, with the 
 [^ref-13]: [GOG.com Page](https://www.gog.com/en/game/leisure_suit_larry) – - Lost Wages description
 [^ref-14]: [Adventure Classic Gaming Review](http://www.adventureclassicgaming.com/index.php/site/reviews/264/) – - Location descriptions
 [^ref-15]: [DOS Days](https://dosdays.co.uk/topics/Games/game_lsl.php) – - Character analysis
-[^ref-16]: [Grokipedia](https://grokipedia.com/page/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards) – - Creator's defense of character portrayal
 [^ref-17]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards) – - Technical specifications
 [^ref-18]: [IGN Retrospective](https://www.ign.com/articles/2014/11/28/revisiting-leisure-suit-larry) – - Parser response analysis
 [^ref-19]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – - Text parser examples

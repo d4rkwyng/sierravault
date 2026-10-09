@@ -10,14 +10,14 @@ series: Homeworld
 engine: Unreal Engine 4
 protagonist: Imogen S'Jet
 sierra_lineage: Sierra Published
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: Homeworld 3 is a real-time strategy game developed by Blackbird Interactive
   and published by Gearbox Publishing, released on May 13, 2024 for Windows PC....
 tags: [2020s, homeworld, sierra, strategy]
 ---
 # Homeworld 3
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ Tactical, beautiful, and wholly unique, Homeworld 3 returns the award-winning fr
 > **Developer:** [[Blackbird Interactive]][^ref-1]
 > **Designers:** Rob Cunningham, Lance Mueller, Aaron Kambeitz, Rory McGuire[^ref-8]
 > **Publisher:** [[Gearbox Publishing]][^ref-1]
-> **Engine:** Unreal Engine 4.27[^ref-9]
+> **Engine:** Unreal Engine 4 (build 4.27.2)[^ref-9]
 > **Platforms:** Windows (Steam, Epic Games Store)[^ref-1]
 > **Release Year:** 2024
 > **Series:** Homeworld
@@ -110,7 +110,7 @@ The game experienced a significant disconnect between professional critic scores
 - **Epic Games Store:** 69% positive[^ref-1]
 - **IMDb:** 6.3/10[^ref-37]
 
-The stark contrast between critical praise and player dissatisfaction centered on several issues. Players criticized the story's quality, with many feeling it failed to match the emotional resonance of earlier entries.[^ref-16] The streamlined mechanics that critics appreciated were seen by series veterans as oversimplification, and technical issues at launch including AI pathfinding problems and multiplayer functionality bugs further dampened reception.[^ref-9]
+The stark contrast between critical praise and player dissatisfaction centered on several issues. Players criticized the story's quality, with many feeling it failed to match the emotional resonance of earlier entries.[^ref-16] The streamlined mechanics that critics appreciated were seen by series veterans as oversimplification, and technical issues at launch, including what Digital Trends called "egregious pathfinding problems and combat AI woes" and co-op disconnections, further dampened reception.[^ref-33]
 
 By late 2024, the game's concurrent player count on Steam had dropped to fewer than 50 players, leading the developer to announce that Update 1.3 would be the final major content update.[^ref-38]
 
@@ -153,7 +153,7 @@ The game underwent multiple delays from its original Q4 2022 target date. The fi
 
 ### Technical Achievements
 
-Homeworld 3 was built on Unreal Engine 4.27, enabling visual fidelity that previous entries could only dream of achieving.[^ref-9] The game features real-time ship damage, dynamic ship destruction, and situationally responsive audio that reacts to the battlefield state.[^ref-11]
+Homeworld 3 was built on Unreal Engine 4 (engine build 4.27.2).[^ref-9] The game features real-time ship damage, dynamic ship destruction, and situationally responsive audio that reacts to the battlefield state.[^ref-11]
 
 The terrain system represents the game's most significant technical innovation. As Rob Cunningham explained: "When we made Homeworld 1, the big deal to us at the time was this thing was in 3D and it was in empty space. The problem was the space: there was just so much space. We had some asteroids, but that was it."[^ref-42] The megalithic structures that now populate battlespaces required sophisticated physics calculations for line-of-sight determination and projectile collision.
 
@@ -188,22 +188,18 @@ While no significant cut content has been publicly documented, the game's evolut
 | Version | Date | Notes |
 |---------|------|-------|
 | 1.0 | May 13, 2024 | Global release[^ref-1] |
-| 1.02 | May 16, 2024 | Hotfix for multiplayer, login errors, carrier behaviors[^ref-9] |
 | 1.1 | June 11, 2024 | Over 100 bug fixes and gameplay improvements[^ref-16] |
 | 1.2 | October 2024 | Pre-November content preparation[^ref-31] |
 | 1.3 | November 21, 2024 | Final major update with combat overhaul, 45+ artifacts, new Reinforce ability, balance changes[^ref-53] |
 
 ### Technical Issues
 
-The game launched with several notable technical problems that contributed to negative player reception:[^ref-9]
+Reviewers reported several technical problems at launch:
 
-- Day-one multiplayer functionality issues requiring hotfix
-- AI pathfinding problems causing units to collide or take inefficient routes
-- Ships sometimes ignoring orders or responding with delay
-- Frame rate drops below 60fps during crowded combat scenarios
-- Units occasionally spawning in inaccessible areas
-- Camera accidentally panning inside megastructures
-- Blue radial effects obscuring battlefield visibility
+- "Egregious pathfinding problems and combat AI woes"[^ref-33]
+- Ships ignoring granular orders, such as waypoints, and flying into enemy fire[^ref-64]
+- Co-op War Games sessions disconnecting mid-match, forfeiting rewards and XP[^ref-33]
+- Maps with "a bright hazy glare" that made resources hard to see[^ref-33]
 
 ### Easter Eggs and Trivia
 
@@ -226,14 +222,14 @@ The game launched with several notable technical problems that contributed to ne
 
 ### Sales and Commercial Impact
 
-Sales data indicates Homeworld 3 achieved moderate commercial success despite its mixed reception. Steam revenue estimates suggest approximately 170,000 units sold on Steam by late 2024, generating around $7.6 million in gross revenue.[^ref-9] Including the Year One Pass DLC, which sold an estimated 25,600 units, total Steam revenue likely approached $8.5 million before platform fees.[^ref-56]
+Third-party revenue calculators estimate the Year One Pass DLC at roughly 25,600 units sold on Steam.[^ref-56]
 
 The game launched at $59.99 for the Standard Edition, with premium editions ranging up to $174.99 for the Collector's Edition, which included physical ship models, a lithograph, and a keychain.[^ref-57] Early access for Fleet Command and Collector's Edition pre-orders began May 10, 2024, three days before the general release.[^ref-24]
 
 ### Awards
 
-- **Best Technology & Innovation** at the 2026 Canadian Game Awards[^ref-9]
-- Shortlisted for **Best Strategy Game** at the 2024 TIGA Awards[^ref-9]
+- **Best Technology/Innovation** at the Canadian Game Awards 2025[^ref-65]
+- Finalist, **Strategy** category, TIGA Games Industry Awards 2024[^ref-66]
 - Named **#8 on PC Gaming Show's Most Wanted list** prior to release[^ref-58]
 
 ### Collections and DLC
@@ -296,7 +292,7 @@ Perhaps most telling is Rob Cunningham's own framing of the project. When asked 
 [^ref-6]: [Blackbird Interactive – Projects Page](https://blackbirdinteractive.com/projects/) – official game description
 [^ref-7]: [CGMagazine – Homeworld 3 Review](https://www.cgmagonline.com/review/game/homeworld-3-pc-review/) – gameplay assessment, story summary
 [^ref-8]: [MobyGames – Homeworld 3 Credits](https://www.mobygames.com/game/223801/homeworld-3/) – full credits, technical details
-[^ref-9]: [Grokipedia – Homeworld 3](https://grokipedia.com/page/Homeworld_3) – engine, sales data, version history, awards, technical issues
+[^ref-9]: [PCGamingWiki – Homeworld 3 (engine note)](https://www.pcgamingwiki.com/wiki/Homeworld_3) – "Unreal Engine 4 engine build: 4.27.2"
 [^ref-10]: [Hardcore Gamer – Homeworld 3 Preview](https://hardcoregamer.com/blackbird-interactive-looks-to-revive-a-strategy-classic-with-homeworld-3/) – franchise history, setting
 [^ref-11]: [Gamers Heroes – Launch Announcement](https://www.gamersheroes.com/gaming-news/sci-fi-epic-homeworld-3-now-available/) – story details, features
 [^ref-12]: [Gearbox Publishing – Story Trailer Press Release](https://www.gearboxpublishing.com/press_release/homeworld-3-reveals-the-next-chapter-in-the-award-winning-homeworld-franchise-with-new-story-trailer/) – character details, enemy faction
@@ -344,3 +340,6 @@ Perhaps most telling is Rob Cunningham's own framing of the project. When asked 
 [^ref-60]: [MobyGames – Kalan Raiders Pack](https://www.mobygames.com/game/229172/homeworld-3-kalan-raiders-fleet-pack/) – DLC release date
 [^ref-61]: [Homeworld Universe – Update 1.3](https://www.homeworlduniverse.com/update-1-3-available-now-somtaaw-and-taiidan-faction-dlcs-available-now/) – faction DLC
 [^ref-63]: [Geek Sleep Rinse Repeat – Review](https://geeksleeprinserepeat.com/2024/05/31/homeworld-3-review/) – visual assessment
+[^ref-64]: [TechRadar – Homeworld 3 Review](https://www.techradar.com/gaming/homeworld-3-review/) – "I watch as my pilots ignore my granular orders and fly straight into the turrets' line of fire"
+[^ref-65]: [Screen Rant – The Canadian Game Awards 2025: All Winners & Nominees](https://screenrant.com/canadian-game-awards-all-winners/) – Best Technology/Innovation: "WINNER: Homeworld 3 (Blackbird Interactive)"
+[^ref-66]: [Game Developer – TIGA Games Industry Awards 2024 finalists](https://www.gamedeveloper.com/press-release/tiga-games-industry-awards-2024-finalists-shortlist-revealed-) – Strategy: "Blackbird Interactive/Gearbox Publishing: Homeworld 3"

@@ -26,7 +26,7 @@ Lords of the Realm II is a medieval strategy game that masterfully blends turn-b
 
 What distinguished Lords of the Realm II from many medieval strategy games of its era was its commitment to historical authenticity over fantasy elements—the game features no magic, no supernatural forces, and no technology tree.[^ref-4] Instead, players must carefully manage food, population, and happiness levels to build their power base while avoiding Malthusian population crashes.[^ref-4] PC Gamer praised the game as offering "the best of two worlds, adding the real time combat model of a WarCraft II to the turn-based strategic elements of a Civilization."[^ref-5]
 
-The game achieved significant commercial success, selling over 2.5 million copies and generating nearly $3 million in revenue by 1998.[^ref-6] It consistently appeared in PC games best-seller charts throughout 1997, reaching as high as number 9 in January of that year.[^ref-7] Steam user reviews remain overwhelmingly positive decades later, with 96% of 1,517 reviews recommending the game as of November 2025.[^ref-8][^ref-49]
+The game achieved significant commercial success, selling over 2.5 million copies and generating nearly $3 million in revenue by 1998.[^ref-6] It consistently appeared in PC games best-seller charts throughout 1997, reaching as high as number 9 in January of that year.[^ref-7] Steam user reviews remain overwhelmingly positive decades later, with 96% of 1,642 reviews positive as of October 2026.[^ref-5]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -89,12 +89,12 @@ The Adrenaline Vault gave a score of 70%, noting that "The AI in this game faile
 
 ### Modern Assessment
 
-Modern retrospectives have been increasingly favorable, with many considering the game ahead of its time. One user review on Metacritic declared it "Simply way ahead of its time, a defining piece of the Grand Strategy Genre, featuring more polished and complex gameplay than titles from the Total War series offer 15 years later."[^ref-19] Steam user reviews show an overwhelming 96% positive rating from over 1,500 reviews.[^ref-8]
+Modern retrospectives have been increasingly favorable, with many considering the game ahead of its time. One user review on Metacritic declared it "Simply way ahead of its time, a defining piece of the Grand Strategy Genre, featuring more polished and complex gameplay than titles from the Total War series offer 15 years later."[^ref-19] Steam user reviews show an overwhelming 96% positive rating from over 1,600 reviews.[^ref-5]
 
 Home of the Underdogs called it "one of the most underrated strategy games of all time" and "the best game designed by David Lester, prolific designer and founder of Impressions."[^ref-13] Modern players appreciate that despite dated mechanics, they remain "rock solid, and the art style is timeless."[^ref-27]
 
 **Aggregate Scores:**
-- **Metacritic:** 77/100 (6 critic reviews)[^ref-8]
+- **Metacritic:** 77/100 (6 critic reviews)[^ref-19]
 - **MobyGames:** 80% (Critics)[^ref-1]
 - **MyAbandonware:** 4.67/5[^ref-13]
 - **Steam:** 96% positive (1,517 reviews)[^ref-5]
@@ -124,7 +124,7 @@ Composer Keith Zizza worked on the game's soundtrack during the spring and summe
 
 The game utilized the DOS4GW extender to overcome conventional memory limitations on DOS systems.[^ref-9] It combined a turn-based strategic layer with real-time tactical battles, a design approach that would later become standard in games like the Total War series.[^ref-24]
 
-The visual presentation featured 256-color SVGA graphics at 640x480 resolution, with the county management screens using drag bars and clear visual feedback systems.[^ref-8] The real-time battles provided a Warcraft-style isometric view of the battlefield.[^ref-20]
+The visual presentation featured 256-color square-pixel SVGA graphics at 640x480 resolution.[^ref-50] The real-time battles provided a Warcraft-style isometric view of the battlefield.[^ref-20]
 
 ### Technical Specifications
 
@@ -140,7 +140,7 @@ The visual presentation featured 256-color SVGA graphics at 640x480 resolution, 
 **Windows 95 Version:**[^ref-29]
 - **Resolution:** 640x480, 256 colors (full screen)
 - **Minimum OS:** Windows 95
-- **DirectX:** DirectX 3.0 required[^ref-8]
+- **DirectX:** DirectX 3 minimum[^ref-29]
 - **Multiplayer:** LAN, Modem, Null-modem cable (2 players online, 1-5 offline)
 
 **Macintosh Version:**[^ref-29]
@@ -293,7 +293,6 @@ The comparison to Total War is apt but also highlights what Lords II does differ
 [^ref-5]: [Steam Store – Lords of the Realm II](https://store.steampowered.com/app/397350/Lords_of_the_Realm_II/) – user reviews, PC Gamer quote, system requirements
 [^ref-6]: [Wikipedia – Lords of the Realm II](https://en.wikipedia.org/wiki/Lords_of_the_Realm_II) – release dates, designers, sales data, development quotes
 [^ref-7]: [GameCenter Archive – January 1997 Best Sellers](https://web.archive.org/web/19970331224133/http://www.gamecenter.com/News/Item/0,3,661,00.html) – chart position
-[^ref-8]: [Grokipedia – Lords of the Realm II](https://grokipedia.com/page/Lords_of_the_Realm_II) – Metacritic score, technical specifications, Steam reviews
 [^ref-9]: [DOSBox Wiki – Lords of the Realm II](https://www.dosbox.com/wiki/GAMES:Lords_of_the_Realm_II) – engine, game type description
 [^ref-10]: [GameFAQs Strategy Guide by brian_sulpher](https://gamefaqs.gamespot.com/pc/197801-lords-of-the-realm-ii/faqs/33216) – game introduction quote, unit types
 [^ref-11]: [ModDB – Lords of the Realm II](https://www.moddb.com/games/lords-of-the-realm-ii) – game description, steward feature
@@ -333,4 +332,4 @@ The comparison to Total War is apt but also highlights what Lords II does differ
 [^ref-46]: [Amazon – Lords of the Realm II Manual](https://www.amazon.com/Lords-Realm-II-Guide-Manual/dp/B000ILEU2K) – manual review
 [^ref-47]: [Metacritic – Lords of the Realm III](https://www.metacritic.com/game/lords-of-the-realm-iii/) – sequel reception, critical quotes
 [^ref-48]: [IGN – Lords of the Realm III Preview](https://www.ign.com/articles/2003/08/26/lords-of-the-realm-iii-preview) – sequel development changes
-[^ref-49]: [TV Tropes – Lords of the Realm 2](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LordsOfTheRealm2) – series comparison, Earl character, combat changes
+[^ref-50]: [Lilura1 – Lords of the Realm (with LotR2 notes)](https://lilura1.blogspot.com/2022/04/Lords-of-the-Realm-IBM-PC-MS-DOS-1994-Impressions-Games-Original-Version.html) – "Lords of the Realm 2 displays in 256-color square-pixel SVGA 640x480"

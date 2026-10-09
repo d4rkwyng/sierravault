@@ -52,7 +52,7 @@ The narrative unfolds across two separate 15-mission campaigns, one for each fac
 
 ### Interface and Controls
 
-Ground Control features what was described as "a remarkably easy-to-use interface" that wrapped intense tactical combat in one of the most impressive 3D engines ever seen in a computer game at the time.[^ref-7] Managing combat was streamlined by issuing commands to squads rather than individual troops, significantly reducing the micromanagement burden that plagued many RTS games.[^ref-7] The fully 3D engine allowed players to rotate, zoom, and tilt the camera freely, viewing the battlefield from virtually any angle.[^ref-14]
+Ground Control features what was described as "a remarkably easy-to-use interface" that wrapped intense tactical combat in one of the most impressive 3D engines ever seen in a computer game at the time.[^ref-7] Managing combat was streamlined by issuing commands to squads rather than individual troops, significantly reducing the micromanagement burden that plagued many RTS games.[^ref-7] The fully 3D engine gave players full control over the camera, letting them view the battlefield from any angle, from a bird's-eye view down to a single unit's ground-level perspective.[^ref-14]
 
 The game supports keyboard and mouse controls, with improved joystick support added in later patches.[^ref-15] The minimalistic UI design allowed players to focus on the tactical action rather than navigating complex menus, contributing to the game's accessibility.[^ref-16]
 
@@ -124,7 +124,7 @@ The development goal was straightforward, according to Walfisz: "Our goal with G
 
 ### Technical Achievements
 
-Ground Control was "one of the first games, if not the first, to take advantage of full 3D rendering for strategic gameplay."[^ref-6] The game's fully 3D engine rendered each unit with remarkable detail and realistic animations.[^ref-3] The engine supported dynamic lighting, detailed terrain with tactical significance, and a fully controllable camera that allowed players to view battles from any angle.[^ref-14]
+Ground Control was "one of the first games, if not the first, to take advantage of full 3D rendering for strategic gameplay."[^ref-6] The game's fully 3D engine rendered each unit with remarkable detail and realistic animations.[^ref-3] GameSpot noted realistic lighting effects that distinguished battles fought at different times of day,[^ref-3] terrain such as high ground carried real tactical weight, and the fully controllable camera let players view battles from any angle.[^ref-14]
 
 The graphics were so impressive that CNN/IDG declared Ground Control "simply one of the most beautiful games you are likely to see this year."[^ref-7] The game featured support for both NVIDIA and 3dfx graphics cards, with GeForce Transform & Lighting acceleration for additional visual enhancement.[^ref-22] The engine could run in 32-bit color with hardware acceleration or fall back to software rendering for compatibility.[^ref-22]
 
@@ -164,7 +164,6 @@ Modern compatibility issues include startup crashes on Windows 10, which can be 
 ### Easter Eggs and Trivia
 
 - The character "Major Tom" is likely a reference to David Bowie's song "Space Oddity"[^ref-27]
-- The Crayven Corporation's motto is "We Bring New Worlds to Life"[^ref-14]
 - Ground Control supports drop-in multiplayer similar to FPS games, an unusual feature for RTS games of the era[^ref-18]
 - The game includes mission and map editors for creating custom content[^ref-18]
 - The base game was released as a free download in June 2004 to promote the release of Ground Control II[^ref-27]
@@ -268,7 +267,7 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 [^ref-11]: [Amazon – Ground Control](https://www.amazon.com/Ground-Control-pc/dp/B00004KD64) – product description, story elements, platform info
 [^ref-12]: [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/Ground-Control/) – release date, character/actor information
 [^ref-13]: [IMDB – Ground Control Full Credits](https://www.imdb.com/title/tt0416787/fullcredits/) – voice cast, production credits
-[^ref-14]: [Grokipedia – Ground Control](https://grokipedia.com/page/Ground_Control_(video_game)) – camera controls, 3D rendering, review scores
+[^ref-14]: [Wikipedia – Ground Control (Gameplay)](https://en.wikipedia.org/wiki/Ground_Control_(video_game)#Gameplay) – full camera control from any angle; high ground as tactical vantage point
 [^ref-15]: [CNET Download](https://download.cnet.com/ground-control-1-0-0-7-to-1-0-0-8-patch/3000-2121_4-10236478.html) – patch notes, version information
 [^ref-16]: [Rock Paper Shotgun – Massive Interview](https://www.rockpapershotgun.com/massive-on-ground-control-and-world-in-conflict) – Walfisz interview, development insights, commercial performance
 [^ref-17]: [Bjoreman Review](https://www.bjoreman.com/old/games/gc.htm) – dropship mechanics, squad system, gameplay details

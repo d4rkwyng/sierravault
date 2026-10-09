@@ -10,7 +10,7 @@ series: Playtoons
 engine: Gob Engine
 protagonist: Prince Arthur
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-05-15'
+last_updated: '2026-10-09'
 composer: ['Big Wheels, Charles Callet']
 description: 'Playtoons 3: Secret of the Castle is a children''s creativity and interactive
   storybook game developed by Coktel Vision and published by Sierra On-Line in...'
@@ -18,7 +18,7 @@ tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 3: Secret of the Castle
 
-<small style="color: gray">Last updated: May 15, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -225,7 +225,7 @@ The game's approach—offering both consumption and creation modes—anticipated
 [^ref-11]: [Abandonware France – Playtoons 3](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1225) – French release information, game preservation archive
 [^ref-12]: [SensCritique – Playtoons 3 Game Review](https://www.senscritique.com/jeuvideo/playtoons_3_le_secret_du_chateau/408375) – community reviews and ratings
 [^ref-13]: [Internet Archive – Playtoons 3 Collection](https://archive.org/details/playtoons-3) – game preservation documentation, archive entry
-[^ref-14]: [Grokipedia – Playtoons Series Overview](https://grokipedia.com/page/playtoons) – series history and documentation
+[^ref-14]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview: players make animations using characters, backgrounds and props "from either a single game or a mixture from the full series"
 [^ref-15]: [Metacritic – Playtoons 3](https://www.metacritic.com/game/playtoons-3-the-secret-of-the-castle/) – aggregated reviews and critical assessment
 [^ref-16]: [IGDB – Playtoons 3: The Secret of the Castle](https://www.igdb.com/games/playtoons-3-the-secret-of-the-castle) — Internet Games Database entry, multi-platform listing
 [^ref-17]: [LaunchBox Games Database – Playtoons 3](https://gamesdb.launchbox-app.com/games/details/playtoons-3-the-secret-of-the-castle) — community-curated metadata, cover-art reference

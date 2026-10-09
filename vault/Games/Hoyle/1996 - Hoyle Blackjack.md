@@ -7,18 +7,18 @@ publisher: Sierra Entertainment
 genre: Casino
 platforms: [DOS, Windows, Mac]
 series: Hoyle
-engine: SCI32
+engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Hoyle Blackjack was a comprehensive blackjack simulation developed by
   Sierra On-Line that brought "all the challenge and fun of casino blackjack home
   with...
-tags: [1990s, hoyle, sci, sierra, simulation]
+tags: [1990s, hoyle, sierra, simulation]
 ---
 # Hoyle Blackjack
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -36,7 +36,7 @@ The tagline "ANTE UP FOR AUTHENTIC CASINO BLACKJACK!" captured the game's appeal
 > **Release Year:** 1996
 > **Series:** Hoyle
 > **Sierra Lineage:** Core Sierra
-> **Engine:** SCI32
+> **Engine:** Proprietary (Windows)
 > **Protagonist:** N/A
 
 ## Story Summary
@@ -139,11 +139,9 @@ The musical score was composed by Evan Schiller, Jonathan Cunningham, and Robert
 
 ### Technical Achievements
 
-Hoyle Blackjack stood apart from contemporary casino software by **running on Sierra's SCI32 engine** — the same technology powering the company's high-end adventure-game catalog of the era — rather than on a generic card-game framework, allowing the title to leverage Sierra's mature animated-character pipeline, voice-playback infrastructure, and 256-color graphical interface for what was structurally a budget casino product[^ref-6][^ref-18]. The release packaged **16 distinct blackjack rule variants** with deep customization (splitting depth, doubling rules, insurance, dealer hit-on-soft-17, deck count, surrender variants) tuned to recreate specific real-world casino house rules — a level of rules-engine flexibility unusual in 1996 casino software[^ref-1][^ref-3]. A built-in **blackjack strategy calculator and three-mode learning progression** (Tutorial, Practice, Tournament) layered education on top of play, doubling the product as a strategy-training tool[^ref-7]. The title also shipped **multiplayer support for up to four human players via internet or modem** plus a persistent $5,000-chip + $5,000-bank banking system that tracked money management across sessions — both rare features for budget casino titles of the era[^ref-6][^ref-11]. Sierra paired the technical layer with a fully voice-acted casino-table cast (Pat Cashman, Rodney Sherwood, James Parker, and supporting performers), producing what GameSpot called a simulation that "captures many of the elements of gambling in a real casino" — a benchmark for the budget casino category[^ref-4][^ref-5][^ref-6].
+Hoyle Blackjack built its table around talking computer opponents, letting players adjust how chatty the dealer and opponents were, pick a male or female dealer, and play against "colorful opponents each with their own personality"[^ref-6]. The release packaged **16 distinct blackjack rule variants** with deep customization (splitting depth, doubling rules, insurance, dealer hit-on-soft-17, deck count, surrender variants) tuned to recreate specific real-world casino house rules — a level of rules-engine flexibility unusual in 1996 casino software[^ref-1][^ref-3]. A built-in **blackjack strategy calculator and three-mode learning progression** (Tutorial, Practice, Tournament) layered education on top of play, doubling the product as a strategy-training tool[^ref-7]. The title also shipped **multiplayer support for up to four human players via internet or modem** plus a persistent $5,000-chip + $5,000-bank banking system that tracked money management across sessions — both rare features for budget casino titles of the era[^ref-6][^ref-11]. Sierra paired the technical layer with a fully voice-acted casino-table cast (Pat Cashman, Rodney Sherwood, James Parker, and supporting performers), producing what GameSpot called a simulation that "captures many of the elements of gambling in a real casino" — a benchmark for the budget casino category[^ref-4][^ref-5][^ref-6].
 
 ### Technical Implementation
-
-The game utilized Sierra's Creative Interpreter (SCI) engine[^ref-6], the same technology powering Sierra's classic adventure games. This engine provided the framework for animated characters, voice playback, and the graphical interface.
 
 **System Requirements (1996 Version)**[^ref-6]:
 - Processor: 66MHz 486 (Pentium recommended)
@@ -156,13 +154,13 @@ The game utilized Sierra's Creative Interpreter (SCI) engine[^ref-6], the same t
 - RAM: 32MB
 - Operating System: Windows 95/98/Me/2000/XP
 
-The game pioneered "animated avatars and social elements in casino software"[^ref-18], establishing patterns that would influence later casino game development. The character animation and voice acting were sophisticated for 1996 casino games, setting a quality standard for the genre.
+The game's cast of voiced opponents — among them "the sultry Kathryn, the suave James Bond wannabe Sterling, the beer-drinking worker Jack, and the purse-clutching Mrs. O'Shea" — gave the table its personality.[^ref-6]
 
 ## Legacy
 
 ### Series Evolution
 
-The Hoyle series evolved significantly over its two-decade run, expanding "to include more than 600 variations across 16 core casino games"[^ref-18]. Hoyle Blackjack contributed to this growth by establishing the template for standalone casino game releases within the broader Hoyle umbrella.
+The Hoyle series evolved significantly over its two-decade run. Hoyle Blackjack contributed to this growth by establishing the template for standalone casino game releases within the broader Hoyle umbrella.
 
 The franchise went through multiple iterations including Hoyle Casino 98, Hoyle Casino 99, Hoyle Casino 2000, and Hoyle Casino 2004[^ref-6]. Each version added features, improved graphics, and expanded the game selection while maintaining the core Hoyle identity.
 
@@ -179,7 +177,7 @@ The reorganization reflected broader changes in the gaming industry and Sierra's
 
 ### Preservation and Availability
 
-The original 1996 version remains accessible through Internet Archive preservation efforts[^ref-5]. Later versions received retail re-releases through Encore Software, though these faced criticism for compatibility issues with modern operating systems[^ref-1][^ref-20][^ref-21][^ref-22][^ref-23].
+The original 1996 version remains accessible through Internet Archive preservation efforts[^ref-5]. Later versions received retail re-releases through Encore Software, though these faced criticism for compatibility issues with modern operating systems[^ref-1][^ref-21][^ref-22][^ref-23].
 
 The game's influence on casino game design persists in modern software, though contemporary offerings have far surpassed the technical capabilities of the 1996 original. The Hoyle brand name continues to carry weight among players seeking authentic card game experiences.
 
@@ -269,9 +267,7 @@ The game's influence on casino game design persists in modern software, though c
 [^ref-13]: [Amazon Review Quote](https://www.amazon.com/Hoyle-Craps-Blackjack-PC-Mac/dp/B00001JWML) - GameSpot review citation
 [^ref-15]: [GOG Community](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) - User enthusiasm for Hoyle series
 [^ref-16]: [Company Histories](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) - Sierra business strategy and diversification
-[^ref-18]: [Grokipedia](https://grokipedia.com/page/Hoyle_Casino) - Technical innovations and series statistics
 [^ref-19]: [GameSpot News](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) - 2006 corporate restructuring
-[^ref-20]: [PCGamingWiki – Hoyle Blackjack](https://www.pcgamingwiki.com/wiki/Hoyle_Blackjack) — technical documentation, compatibility matrix, SCI32 engine notes
 [^ref-21]: [IGDB – Hoyle Blackjack](https://www.igdb.com/games/hoyle-blackjack) — Internet Games Database entry, platform listings, release-year confirmation
 [^ref-22]: [LaunchBox Games Database – Hoyle Blackjack 1996](https://gamesdb.launchbox-app.com/games/details/45133-hoyle-blackjack) — community-curated metadata, cover art, platform confirmation
 [^ref-23]: [Old Games Finder – Hoyle Blackjack](https://www.oldgamesfinder.com/hoyle-blackjack/) — abandonware preservation archive, ISO metadata, screenshot gallery

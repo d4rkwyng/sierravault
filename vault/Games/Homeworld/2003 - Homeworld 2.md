@@ -44,7 +44,7 @@ Despite receiving critical acclaim for its lavish graphics and atmospheric prese
 
 The story of Homeworld 2 begins in the year 9625 GSY (115 AHL), approximately one hundred years after the Kushan—now known as Hiigarans—reclaimed their ancestral homeworld at the conclusion of the original Homeworld[^ref-2]. The Hiigarans have rebuilt their civilization, but dark clouds are gathering over Hiigara as a new threat emerges from the galactic fringes[^ref-2]. Karan S'jet, the fleet commander who guided her people home, remains neurally integrated with the Mothership, ready to once again lead her people against overwhelming odds[^ref-32].
 
-The central conflict revolves around three ancient artifacts known as the Hyperspace Cores—relics of the mysterious Progenitor race that once dominated the galaxy[^ref-1]. The Hiigarans possess the second Core, while the Vaygr warlord Makaan has obtained the third, uniting the warrior clans under his banner with promises of galactic conquest[^ref-3]. Religious beings throughout the galaxy consider the discovery of the Third Core to announce the End Times, during which Sajuuk—thought to be an immensely powerful being—will return[^ref-1]. The quest for the mythical first Core and the awakening of Sajuuk drives the narrative forward across fifteen missions[^ref-12].
+The central conflict revolves around three ancient artifacts known as the Hyperspace Cores—relics of the mysterious Progenitor race that once dominated the galaxy[^ref-1]. The Hiigarans possess the second Core, while the Vaygr warlord Makaan has obtained the third, uniting the warrior clans under his banner with promises of galactic conquest[^ref-3]. Religious beings throughout the galaxy consider the discovery of the Third Core to announce the End Times, during which Sajuuk—thought to be an immensely powerful being—will return[^ref-1]. The quest for the mythical first Core and the awakening of Sajuuk drives the narrative forward across fifteen missions[^ref-48].
 
 Homeworld 2 chronicles the valiant journey of the Mothership and its crew into the oldest regions of the galaxy to confront their new foe and discover the truth behind their exile[^ref-6]. The story takes players through encounters with ancient Progenitor ruins, including the wreckage of a massive Progenitor ship that broke into the Karos Graveyard ten thousand years ago[^ref-2]. Along the way, the Hiigarans must unravel the mysteries surrounding Sajuuk and the true purpose of the Hyperspace Cores while fending off Makaan's relentless Vaygr armada.
 
@@ -60,7 +60,7 @@ The control scheme emphasizes accessibility while maintaining strategic depth, w
 
 ### Structure and Progression
 
-The single-player campaign comprises fifteen missions organized across four chapters, each presenting increasingly challenging scenarios that test the player's ability to manage resources, construct ships, and execute tactical maneuvers[^ref-12]. Unlike many RTS games, Homeworld 2 features a persistent fleet that carries over between missions—ships constructed and preserved in one engagement remain available in subsequent battles, creating meaningful strategic decisions about force composition[^ref-17].
+The single-player campaign comprises fifteen missions, each testing the player's ability to manage resources, construct ships, and execute tactical maneuvers[^ref-48]. Unlike many RTS games, Homeworld 2 features a persistent fleet that carries over between missions—ships constructed and preserved in one engagement remain available in subsequent battles, creating meaningful strategic decisions about force composition[^ref-17].
 
 The game employs a controversial dynamic difficulty system that adjusts enemy fleet composition based on the player's performance[^ref-16]. Rather than offering selectable difficulty levels, Relic implemented a system where doing well in one mission results in harder opposition in the next[^ref-18]. This design choice proved divisive, with some players appreciating the adaptive challenge while others found it created peculiar difficulty spikes that made early missions among the hardest in the game[^ref-2].
 
@@ -224,11 +224,9 @@ Voice recording for the original game was produced at Studio X Labs, with Campbe
 
 ## Legacy
 
-### Sales and Commercial Impact
+### Ownership After Release
 
-Despite critical praise, Homeworld 2 achieved only modest commercial performance upon its 2003 release, falling short of major financial success due to limited promotion by publisher Sierra Entertainment[^ref-12]. The game leveraged the fanbase established by the original Homeworld but did not significantly expand it[^ref-12]. Approximately 1.2 million units were sold on Steam for the 2015 remastered edition, indicating sustained interest over time[^ref-12].
-
-The franchise changed hands multiple times following release. THQ acquired the Homeworld IP from Sierra/Vivendi in 2007 but subsequently ignored it for years[^ref-39]. When THQ filed for bankruptcy in 2013, the rights were auctioned off. Gearbox Software's Chief Creative Officer Brian Martel, described as having "great love and respect for Relic's brilliant, fun and innovative game," personally spearheaded the acquisition for $1.35 million[^ref-12].
+The franchise changed hands multiple times following release. THQ acquired the Homeworld IP from Sierra/Vivendi in 2007 but subsequently ignored it for years[^ref-39]. When THQ filed for bankruptcy in 2013, the rights were auctioned off. Gearbox Software's Chief Creative Officer Brian Martel, described as having "great love and respect for Relic's brilliant, fun and innovative game," personally spearheaded the acquisition, which Gearbox won at auction for $1.35 million[^ref-39][^ref-12].
 
 ## Downloads
 
@@ -263,7 +261,7 @@ The franchise changed hands multiple times following release. THQ acquired the H
 [^ref-8]: [Interactive.org – D.I.C.E. Awards 2004](https://www.interactive.org/awards/award_category_details.asp?idAward=2004&idGameAwardType=34) – award nomination
 [^ref-9]: [MobyGames – Homeworld 2](https://www.mobygames.com/game/10403/homeworld-2/) – credits, ratings, development info
 [^ref-32]: [Macworld – Homeworld 2](https://www.macworld.com/article/1031525/homeworld2.html) – story continuation
-[^ref-12]: [Grokipedia – Homeworld 2](https://grokipedia.com/page/Homeworld_2) – mission count, sales data, IP acquisition price
+[^ref-12]: [Polygon – Gearbox releasing remakes of Homeworld and Homeworld 2](https://www.polygon.com/2013/7/20/4540132/gearbox-releasing-remakes-of-homeworld-and-homeworld-2-for-windows-pc/) – "bought the Homeworld IP for $1.35 million in April"; Brian Martel statement
 [^ref-13]: [Glitchwave – Homeworld 2](https://glitchwave.com/game/homeworld-2/) – critical analysis, art direction, ratings
 [^ref-14]: [IGN – Homeworld 2 Review](https://www.ign.com/articles/2003/09/17/homeworld2-review) – review, system requirements
 [^ref-15]: [Homeworld Wiki – Homeworld 2 Manual](https://homeworld.fandom.com/wiki/Homeworld_2_Manual) – manual contents, technical specs
@@ -297,3 +295,4 @@ The franchise changed hands multiple times following release. THQ acquired the H
 [^ref-45]: [Eurogamer – Relic Looking at Homeworld 3](http://www.eurogamer.net/articles/relic-definitely-looking-at-homeworld-3) – Jonny Ebbert quote
 [^ref-46]: [Gearbox Publishing – Homeworld 3](https://www.gearboxpublishing.com/game/homeworld-3/) – sequel details, timeline
 [^ref-47]: [Homeworld Universe – Deserts of Kharak](https://www.homeworlduniverse.com/games/homeworld-deserts-of-kharak/) – prequel information
+[^ref-48]: [Standard of Entertainment – Homeworld 2 Guides](https://standardof.net/games/homeworld-2-guides/) – "Single Player Campaign (15 Missions)"

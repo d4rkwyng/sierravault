@@ -69,7 +69,7 @@ The gameplay continued with Quest for Glory III's graphical, point-and-click int
 - Graphics: Wikipedia says the game "was developed with SVGA graphics"; PCGamingWiki and Sierra Fandom describe it as 256-colour VGA[^ref-1][^ref-5]
 
 ### Structure and Progression
-- Set in Mordavia, a valley surrounded by mountains[^ref-3][^ref-6]
+- Set in the distant land of Mordavia, plagued with undead, "a mix of Slavic folklore and Lovecraftian horror"[^ref-1]
 - Day-night cycle with time-sensitive events[^ref-3]
 - Multiple character classes with different solutions[^ref-3]
 - Character import from previous Quest for Glory games[^ref-3]
@@ -226,7 +226,6 @@ This game has been included in the following collections:
 - [Hardcore Gaming 101 – Quest for Glory](http://www.hardcoregaming101.net/quest-for-glory/) – series retrospective
 - [Digital Antiquarian – Quest for Glory III and IV](https://www.filfre.net/2018/10/quest-for-glory-iii-and-iv/) – historical article
 - [HowLongToBeat – Quest for Glory IV](https://howlongtobeat.com/game/7483) – completion times
-- [Grokipedia – Quest for Glory](https://grokipedia.com/page/Quest_for_Glory) – series overview
 - [StrategyWiki – Quest for Glory IV](https://strategywiki.org/wiki/Quest_for_Glory_IV) – game guide
 
 ## See Also
@@ -244,7 +243,7 @@ This game has been included in the following collections:
 [^ref-3]: [Sierra Fandom Wiki – Quest for Glory IV](https://sierra.fandom.com/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – – detailed game information
 [^ref-4]: [IMDb – Quest for Glory IV: Shadows of Darkness](https://www.imdb.com/title/tt0210246/) – – voice cast credits, user rating (8.7/10 from 229 votes, January 2026)
 [^ref-5]: [PCGamingWiki – Quest for Glory: Shadows of Darkness](https://www.pcgamingwiki.com/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – – technical specs
-[^ref-6]: [Grokipedia – Quest for Glory](https://grokipedia.com/page/Quest_for_Glory) – – series development, collections
+[^ref-6]: [Wikipedia – Quest for Glory (Compilations)](https://en.wikipedia.org/wiki/Quest_for_Glory) – – "Quest for Glory Anthology (1996) … Quest for Glory Collection Series (1997), a re-release of Anthology"
 [^ref-7]: [Engadget – The glory of Quest For Glory](https://www.engadget.com/2012/05/17/the-glory-of-quest-for-glory/) – – retrospective review, Rowan Kaiser
 [^ref-8]: [RPGamer – Quest for Glory IV Review](https://rpgamer.com/review/quest-for-glory-iv-shadows-of-darkness/) – – retrospective review
 [^ref-9]: [PC Gamer – Saturday Crapshoot: Quest For Glory 4 1/2](http://www.pcgamer.com/saturday-crapshoot-quest-for-glory-4-12/) – – series retrospective

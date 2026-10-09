@@ -88,7 +88,7 @@ Despite mixed critical reception, some players have praised specific aspects of 
 
 ### Origins
 
-Lords of the Realm III emerged from Impressions Games' desire to modernize the beloved Lords of the Realm franchise for contemporary audiences[^ref-14]. The development team, led by Chris Beatrice and other veterans from the studio, sought to evolve the series from its turn-based roots into the increasingly popular real-time strategy genre[^ref-19]. The game was designed as what some described as an "arcade-like answer to Activision's Medieval Total War"[^ref-20].
+Lords of the Realm III emerged from Impressions Games' desire to modernize the beloved Lords of the Realm franchise for contemporary audiences[^ref-14]. The development team, led by Chris Beatrice and other veterans from the studio, sought to evolve the series from its turn-based roots into the increasingly popular real-time strategy genre[^ref-19]. IGN's review later judged the result "best understood as an arcade-like answer to Activision's Medieval Total War"[^ref-18].
 
 ### Production
 
@@ -148,7 +148,6 @@ The game's budget pricing strategy ($19.99 at launch) helped establish a precede
 [^ref-17]: [Community PC Gaming Wiki](https://community.pcgamingwiki.com/files/file/310-lords-of-the-realm-iii-patch-english/) – - AI improvements in patches
 [^ref-18]: [IGN Review](http://www.ign.com/articles/2004/03/30/lords-of-the-realm-3-review) – - Review score and criticism
 [^ref-19]: [MobyGames - Impressions Games](https://www.mobygames.com/company/102/impressions-games/) – - Development team background
-[^ref-20]: [Grokipedia](https://grokipedia.com/page/Lords_of_the_Realm_III) – - Development positioning
 [^ref-21]: [GameFAQs FAQ](https://gamefaqs.gamespot.com/pc/537419-lords-of-the-realm-iii/faqs/31565) – - Design philosophy
 [^ref-22]: [ModDB Patch Notes](https://www.moddb.com/games/lords-of-the-realm-iii/downloads/patch-1-1-125) – - Graphics card compatibility
 [^ref-23]: [WorthPlaying](https://worthplaying.com/article/2004/2/20/news/15389-lords-of-the-realm-iii-update-patch-available-now/) – - Patch improvements

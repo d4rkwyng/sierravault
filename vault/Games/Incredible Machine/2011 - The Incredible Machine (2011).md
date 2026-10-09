@@ -7,10 +7,10 @@ publisher: Sierra On-Line
 genre: Puzzle
 platforms: [DOS, Mac, Windows, FM Towns, PC-98, 3DO, iOS]
 series: The Incredible Machine
-engine: Custom 2D Physics Simulation
+engine: Custom Physics Simulation
 protagonist: None (Player as inventor)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Christopher Stevens]
 description: The Incredible Machine is a groundbreaking physics-based puzzle game
   that challenges players to build elaborate Rube Goldberg-style contraptions to solve...
@@ -18,7 +18,7 @@ tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -32,7 +32,7 @@ The Incredible Machine was selected for inclusion in the book "1001 Video Games 
 > **Developer:** [[Jeff Tunnell]] Productions[^ref-1]
 > **Designer:** [[Kevin Ryan]], Jeff Tunnell[^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** Custom 2D Physics Simulation[^ref-7]
+> **Engine:** Custom Physics Simulation[^ref-3]
 > **Platforms:** DOS, Macintosh, Windows, FM Towns, PC-98, 3DO, iOS[^ref-1]
 > **Release Year:** 1992
 > **Series:** The Incredible Machine
@@ -133,7 +133,7 @@ The game's physics engine was notable for its time. Using integer-based calculat
 
 The engine simulated realistic physical properties including gravity, momentum, air pressure, and object collisions[^ref-3]. With 45 different parts available, the system had to track complex interactions between multiple moving objects simultaneously[^ref-16]. The technical achievement was particularly impressive given the hardware limitations of early 1990s computers, which required the game to run on systems as modest as an Intel 386SX processor with only 640 KB of RAM[^ref-30].
 
-The game supported multiple graphics modes including EGA and VGA, and could run in VGA 640x448 resolution with 16 colors[^ref-30]. Sound support included AdLib sound cards for enhanced audio[^ref-7].
+The game supported multiple graphics modes including EGA and VGA, and could run in VGA 640x448 resolution with 16 colors[^ref-30]. Hardcore Gaming 101 called the DOS version "the weakest of the versions, with Adlib quality music," noting the Macintosh version sounded better[^ref-7].
 
 ### Technical Specifications
 
@@ -297,7 +297,7 @@ As Jeff Tunnell reflected on the franchise's 30th anniversary, "Working on Contr
 [^ref-4]: [GamesIndustry.biz – PushButton Labs Acquisition](https://www.gamesindustry.biz/the-incredible-machine-physics-puzzle-ip-acquired-by-pushbutton-labs-series-now-available-from-gog-com) – Jeff Tunnell quote, sales data, patent info
 [^ref-5]: [Wikipedia – The Incredible Machine (1993)](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game)) – development budget, sales figures, review scores, awards, CGW quotes
 [^ref-6]: [IGN – Return of the Incredible Machine: Contraptions](https://www.ign.com/games/return-of-the-incredible-machine-contraptions) – IGN review, rating
-[^ref-7]: [Grokipedia – The Incredible Machine](https://grokipedia.com/page/The_Incredible_Machine) – technical specs, hardware requirements, engine details
+[^ref-7]: [Hardcore Gaming 101 – The Incredible Machine (series)](https://www.hardcoregaming101.net/incrediblemachine/incrediblemachine.htm) – "The DOS version is the weakest of the versions, with Adlib quality music"
 [^ref-8]: [Hardcore Gaming 101 – The Incredible Machine](http://www.hardcoregaming101.net/the-incredible-machine-the-even-more-incredible-machine/) – puzzle count, gameplay analysis
 [^ref-9]: [Sierra Chest – The Incredible Machine 2 Walkthrough](https://sierrachest.com/index.php?a=games&id=229&title=incredible-machine-2&fld=walkthrough) – Professor Tim quotes
 [^ref-10]: [Pocket Gamer – iPad Review](https://www.pocketgamer.com/the-incredible-machine/the-incredible-machine-ipad-review/) – gameplay descriptions

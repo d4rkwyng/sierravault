@@ -10,7 +10,7 @@ series: Earthsiege / Metaltech
 engine: Darkstar
 protagonist: Harabec Weathers (Human Campaign) / Prometheus (Cybrid Campaign)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Timothy Steven Clarke (Loudmouth Studios)]
 description: Starsiege is a mecha-style vehicle simulation game developed by Dynamix
   and published by Sierra On-Line, released on March 24, 1999, for Microsoft Windows....
@@ -18,13 +18,13 @@ tags: [1990s, earthsiege-metaltech, sierra, simulation]
 ---
 # Starsiege
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
 Starsiege is a mecha-style vehicle simulation game developed by [[Dynamix]] and published by [[Sierra On-Line]], released on March 24, 1999, for Microsoft Windows.[^ref-1] As the sixth and final installment in the Earthsiege/Metaltech universe, the game represents the culmination of a long-running series that had established itself as the primary competition to the renowned MechWarrior franchise.[^ref-2] Set in the year 2829, Starsiege depicts the climactic conflict between humanity and the artificially intelligent Cybrid war machines across multiple planets in the solar system, offering players the unprecedented opportunity to experience the war from both human and Cybrid perspectives.[^ref-3]
 
-The game arrived at a pivotal moment for the mech simulation genre, beating competitors MechWarrior 3, Heavy Gear II, and Slave Zero to market.[^ref-4] Starsiege featured impressive 3D graphics powered by the Darkstar engine—the same technology that would drive the groundbreaking Starsiege: Tribes multiplayer shooter released just months earlier.[^ref-5] The game shipped with an extensive 184-page manual and a 152-page full-color Compendium detailing the game's rich backstory, demonstrating the significant investment Sierra and Dynamix made in world-building.[^ref-6] Mark Hamill provided voice acting for key characters, lending Hollywood star power to the production.[^ref-7]
+The game arrived at a pivotal moment for the mech simulation genre, beating competitors MechWarrior 3, Heavy Gear II, and Slave Zero to market.[^ref-4] Starsiege's 3D graphics ran on the Darkstar engine[^ref-40]—the same engine behind the Starsiege: Tribes multiplayer shooter, released three months earlier in December 1998.[^ref-5] The game shipped with an extensive 184-page manual and a 152-page full-color Compendium detailing the game's rich backstory, demonstrating the significant investment Sierra and Dynamix made in world-building.[^ref-6] Mark Hamill provided voice acting for key characters, lending Hollywood star power to the production.[^ref-7]
 
 Despite receiving generally favorable reviews and being positioned as a flagship title by Sierra—who hailed it as "one of the greatest 3D games they would ever release"—Starsiege struggled commercially, selling only approximately 36,000 units in the United States by the end of July 1999 against 250,000 units shipped to retailers.[^ref-8] The game's underperformance contributed to the eventual closure of Dynamix, leaving many fans yearning for a sequel that would never materialize.[^ref-42] In 2015, Hi-Rez Studios released Starsiege as freeware, preserving this ambitious mech combat simulation for future generations.[^ref-10]
 
@@ -32,7 +32,7 @@ Despite receiving generally favorable reviews and being positioned as a flagship
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** [[David Selle]][^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** Darkstar[^ref-5]
+> **Engine:** Darkstar[^ref-40]
 > **Platforms:** Windows 95/98/NT 4.0[^ref-11]
 > **Release Year:** 1999
 > **Series:** Earthsiege / Metaltech
@@ -107,7 +107,7 @@ The development team aimed to "redefine the genre with a comprehensive story and
 
 ### Production
 
-Development began approximately in 1997 and spanned roughly two years.[^ref-5] The team leveraged the Darkstar engine, which was simultaneously being used for the development of Starsiege: Tribes, allowing for shared technological advancement between the two projects.[^ref-5] Sierra promoted Starsiege heavily in their in-house magazine, positioning it as a flagship title for the company.[^ref-33]
+The game was announced in May 1998.[^ref-1] It was built on the Darkstar engine,[^ref-40] which Dynamix also used for Starsiege: Tribes.[^ref-5] Sierra promoted Starsiege heavily in their in-house magazine, positioning it as a flagship title for the company.[^ref-33]
 
 One significant technical decision during development was the abandonment of Direct3D support. Lead programmer Rick Overman, who had seven years of experience at Dynamix, explained the controversial choice: "I refuse to compromise the look and feel of Starsiege because a third-party interface is lacking."[^ref-34] Microsoft made two trips to Dynamix to help resolve Direct3D problems, but without success.[^ref-34] Overman stated that "OpenGL has a more complete feature set and is more stable than Direct3D," and that choosing OpenGL meant "Starsiege will look better and run better on more hardware cards."[^ref-34]
 
@@ -272,7 +272,7 @@ The game's legacy is complicated by its commercial failure, which contributed to
 [^ref-2]: [GameSpot – Starsiege Review](https://www.gamespot.com/reviews/starsiege-review/1900-2535855/) – Greg Kasavin review, 7.3/10 score, gameplay criticisms
 [^ref-3]: [All The Tropes – Starsiege](https://allthetropes.org/wiki/Starsiege) – backstory, retcon details, easter eggs, narrative overview
 [^ref-4]: [CD-Mag Strategy Plus – Starsiege Review (Archive)](https://web.archive.org/web/20030703102113/http://www.cdmag.com/articles/019/016/starsiege_review.html) – Tom Chick review, comparison to competitors
-[^ref-5]: [Grokipedia – Starsiege](https://grokipedia.com/page/Starsiege) – Darkstar engine, development timeline, technical specifications
+[^ref-5]: [PCGamingWiki – Starsiege: Tribes](https://www.pcgamingwiki.com/wiki/Starsiege:_Tribes) – "Engines Darkstar · Release dates Windows December 23, 1998"
 [^ref-6]: [Amazon.com – Starsiege PC](https://www.amazon.com/Starsiege-PC/dp/B00001IVU8) – manual page count, Compendium details, voice cast
 [^ref-7]: [IGN – Starsiege Review](https://www.ign.com/articles/1999/04/07/starsiege) – Mark Hamill voice role, 7.7/10 score, gameplay details
 [^ref-8]: [CNET Gamecenter (Archive)](https://web.archive.org/web/20000823051159/http://gamecenter.com/Reviews/Item/0,6,0-2573,00.html) – Mark Asher quote on commercial failure, Dynamix closure
@@ -305,7 +305,7 @@ The game's legacy is complicated by its commercial failure, which contributed to
 [^ref-37]: [The Junkyard Forums – SS Soundtrack](https://forums.the-junkyard.net/forum/general/general-discussion/9701-ss-soundtrack#post144548) – composer details, voice cast
 [^ref-38]: [Sierra Help – Metaltech Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/MetaltechUpdates.html) – patch history, Windows 2000 issues
 [^ref-39]: [Reddit r/starsiege – Windows 10 Compatibility](https://www.reddit.com/r/starsiege/comments/hfg1hx/music_in_starsiege_complete_on_windows_10/) – modern compatibility issues
-[^ref-40]: [PCGamingWiki – Starsiege](https://www.pcgamingwiki.com/wiki/Starsiege) – technical issues, freeware details
+[^ref-40]: [PCGamingWiki – Starsiege](https://www.pcgamingwiki.com/wiki/Starsiege) – technical issues, freeware details, engine ("Engines Darkstar")
 [^ref-41]: [Reddit r/starsiege – Nursery Rhyme](https://www.reddit.com/r/starsiege/comments/eus9xf/starsiege_on_windows_10/) – fan reactions
 [^ref-42]: [GoPetition – A Call for Starsiege 2](https://www.gopetition.com/petitions/a-call-for-the-development-of-starsiege-2.html) – fan petition, community perspective
 [^ref-43]: [Wired – Sierra Shuffle Rocks Gamers](https://www.wired.com/1999/09/sierra-shuffle-rocks-gamers/) – Dynamix layoffs, Dave Grenewetzki quotes
