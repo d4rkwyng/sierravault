@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Headgate Golf Engine
 protagonist: Golfer (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 composer: [Charles Barth]
 description: 'Front Page Sports Golf Tour Course Add On was a series of expansion
   packs released for Front Page Sports: Golf, Sierra On-Line''s ambitious golf simulation...'
@@ -18,7 +18,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Golf Tour Course Add On
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -264,5 +264,5 @@ For 1997, the combination of innovative controls, online multiplayer through SIG
 [^ref-11]: [Wikipedia – Headgate Studios](https://en.wikipedia.org/wiki/Headgate_Studios) – studio history, Sierra acquisition, game development
 [^ref-12]: [MobyGames – Headgate Studios](https://www.mobygames.com/company/4009/headgate-studios-inc/) – company credits, game portfolio, developer history
 [^ref-13]: [Abandonware DOS – Front Page Sports: Golf](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Front+Page+Sports%3A+Golf) – alternate titles, download availability
-[^ref-14]: [ESRB – Front Page Sports: Golf](https://www.esrb.org/ratings/36162/front-page-sports-golf/) – ESRB rating, content descriptors
+[^ref-14]: ESRB – Front Page Sports: Golf *(link removed: it led to a different game's page)* – ESRB rating, content descriptors
 [^ref-15]: [Sierra Gamers – Front Page Sports](https://www.sierragamers.com/front-page-sports/) – series information, Sierra publishing history

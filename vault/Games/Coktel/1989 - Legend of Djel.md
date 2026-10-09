@@ -156,16 +156,16 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 [^ref-2]: Adventure Gamers - Coktel Vision *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Developer profile including Legend of Djel
 [^ref-3]: [Adventures Index Blog](http://adventures-index10.blogspot.com/2008/03/legend-of-djel-tomahawk-1989-home.html) - Basic game information and plot description
 [^ref-4]: [The Adventurers' Guild](https://advgamer.blogspot.com/2016/12/missed-classic-legend-of-djel-won-with.html) - Retrospective review with detailed scoring breakdown
-[^ref-5]: [The Adventurers' Guild](https://advgamer.blogspot.com/2016/12/missed-classic-33-geisha-1990.html) - Review providing gameplay context and development background
+[^ref-5]: The Adventurers' Guild *(link removed: it led to a different game's page)* - Review providing gameplay context and development background
 [^ref-6]: [The Adventurers' Guild](https://advgamer.blogspot.com/2016/12/missed-classic-31-legend-of-djel-1989.html) - Comprehensive game background and gameplay mechanics
 [^ref-7]: [Amiga Magazine Rack](http://amr.abime.net/review_1852) - Contemporary reviews from multiple Amiga publications
 [^ref-8]: [Amiga Magazine Rack](http://amr.abime.net/review_26388) - Preview from Amiga Computing magazine 1989
 [^ref-12]: [Wikipedia](https://en.wikipedia.org/wiki/Legend_of_Djel) - Comprehensive article with contemporary gaming magazine references
 [^ref-18]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/72249-legend-of-djel) - Database entry with review commentary
 [^ref-38]: [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=3317) - Comprehensive game database with technical details and user commentary
-[^ref-21]: [Lemon Amiga – Legend of Djel](https://www.lemonamiga.com/games/details.php?id=577) – Amiga version details
+[^ref-21]: Lemon Amiga – Legend of Djel *(link removed: it led to a different game's page)* – Amiga version details
 [^ref-25]: [MobyGames](https://www.mobygames.com/game/3839/legend-of-djel/) - Comprehensive game metadata and ratings
-[^ref-26]: [MobyGames](https://www.mobygames.com/game/6218/the-prophecy/) - Related game profile with development context
+[^ref-26]: MobyGames *(link removed: it led to a different game's page)* - Related game profile with development context
 [^ref-28]: [MobyGames](https://www.mobygames.com/game/legend-of-djel/techinfo) - Technical specifications across platforms
 [^ref-30]: [MyAbandonware](https://www.myabandonware.com/game/legend-of-djel-ou) - Preservation site with user reviews
 [^ref-33]: [SierraHelp](https://sierrahelp.com/Walkthroughs/LegendOfDjelWalkthrough.html) - Comprehensive walkthrough with gameplay instructions

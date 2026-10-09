@@ -10,14 +10,14 @@ series: David Wolf
 engine: 3Space
 protagonist: David Wolf
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: 'David Wolf: Secret Agent is an interactive spy adventure game developed
   by Dynamix and released in 1989. Billed as an "interactive movie," the game was...'
 tags: [1980s, david-wolf, sierra]
 ---
 # David Wolf: Secret Agent
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -227,4 +227,4 @@ As a boxed DOS game from the late 1980s with distinctive packaging and multiple 
 [^ref-17]: [The Digital Antiquarian](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) – Critical modern assessment
 [^ref-18]: [Adventure Classic Gaming – Dynamix retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) – context for Dynamix's late-1980s cinematic-action-game development including David Wolf
 [^ref-19]: [IGDB – David Wolf: Secret Agent](https://www.igdb.com/games/david-wolf-secret-agent) – Internet Games Database entry, platform listing, release-year confirmation
-[^ref-20]: [LaunchBox Games Database – David Wolf: Secret Agent](https://gamesdb.launchbox-app.com/games/details/1610-david-wolf-secret-agent) – community-curated metadata, cover-art reference, platform confirmation
+[^ref-20]: LaunchBox Games Database – David Wolf: Secret Agent *(link removed: it led to a different game's page)* – community-curated metadata, cover-art reference, platform confirmation

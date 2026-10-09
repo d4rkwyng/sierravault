@@ -376,7 +376,7 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 
 ## References
 
-[^ref-1]: [MobyGames – Gabriel Knight: Sins of the Fathers](https://www.mobygames.com/game/542/gabriel-knight-sins-of-the-fathers/) — Comprehensive database with credits, ratings, and release info
+[^ref-1]: MobyGames – Gabriel Knight: Sins of the Fathers *(link removed: it led to a different game's page)* — Comprehensive database with credits, ratings, and release info
 [^ref-2]: [Wikipedia – Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — Development history, plot summary, critical reception
 [^ref-3]: [Adventure Classic Gaming – Gabriel Knight: Sins of the Fathers Review](http://www.adventureclassicgaming.com/index.php/site/reviews/16/) — Retrospective review of the original 1993 release
 [^ref-4]: [Adventure Classic Gaming – Jane Jensen Interview (2003)](http://www.adventureclassicgaming.com/index.php/site/interviews/179/) — Designer insights on game creation; women/older audience demographic; GK novelization reflections
@@ -391,7 +391,7 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-13]: [PCGamingWiki – Gabriel Knight: Sins of the Fathers](https://www.pcgamingwiki.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — Technical specs, fixes, and compatibility (including 64-bit Windows warning for the Windows 3.x release)
 [^ref-14]: [Hardcore Gaming 101 – Gabriel Knight](https://www.hardcoregaming101.net/gabriel-knight/) — Series retrospective
 [^ref-15]: [Computer Gaming World Archive](https://archive.org/details/Computer_Gaming_World) — Contemporary reviews
-[^ref-16]: [IMDB – Gabriel Knight (1993)](https://www.imdb.com/title/tt0250473/) — User ratings and cast info
+[^ref-16]: IMDB – Gabriel Knight (1993) *(link removed: it led to a different game's page)* — User ratings and cast info
 [^ref-17]: [Episodic Content Magazine – Gabriel Knight Chapter 2 (Jane Jensen interview)](https://episodiccontentmag.com/2015/10/13/gabrielknight_ch2/) — Jensen's design process, "more extensive interface," sleeping bag anecdote, 100-150/300-400 page design docs
 [^ref-18]: [Steam – Gabriel Knight: Sins of the Fathers](https://store.steampowered.com/app/262000/Gabriel_Knight_Sins_of_the_Fathers/) — Steam availability and reviews
 [^ref-19]: [Gabriel Knight Patches](https://erolfi.wordpress.com/gabriel-knight-installers-and-patches/) — Fan patches and fixes
@@ -409,7 +409,7 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-32]: [Computer Gaming World 1994 Awards](https://archive.org/details/Computer_Gaming_World_Issue_116) — Adventure Game of the Year
 
 [^ref-33]: [Sierra Gamers – Gabriel Knight](https://www.sierragamers.com/gabriel-knight/) — Development history and legacy
-[^ref-35]: [MobyGames – Gabriel Knight Reviews](https://www.mobygames.com/game/542/gabriel-knight-sins-of-the-fathers/reviews/) — User reviewer commentary (Vohaul, Unicorn Lynx, Eurythmic) on bugginess of original release, "finest Sierra adventure ever made," "proof that computer games can be an artform"
+[^ref-35]: [MobyGames – Gabriel Knight Reviews]((link removed: it led to a different game's page)reviews/) — User reviewer commentary (Vohaul, Unicorn Lynx, Eurythmic) on bugginess of original release, "finest Sierra adventure ever made," "proof that computer games can be an artform"
 [^ref-36]: [GamesNostalgia – Gabriel Knight: Sins of the Fathers](https://gamesnostalgia.com/game/gabriel-knight-sins-of-the-fathers) — Retrospective with 85/100 editorial-aggregate score; "sophisticated storytelling and genuine sense of dread" quotation
 [^ref-37]: [Just Adventure – Gabriel Knight Review (Katie Scarlett, archived)](https://web.archive.org/web/20080511224951/http://justadventure.com/reviews/GK1/GK1_Review.shtm) — "Myst push-the-button, flip-the-switch" passage and grade-A review
 [^ref-39]: [Quandary – Gabriel Knight Review by Rosemary Young (archived)](https://web.archive.org/web/20080623200454/http://www.quandaryland.com/jsp/dispArticle.jsp?index=180) — "All time favourites" and "Dumb cursor... but very satisfying" passages

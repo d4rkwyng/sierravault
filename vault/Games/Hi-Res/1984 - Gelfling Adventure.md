@@ -200,7 +200,7 @@ The game is documented in gaming databases and preservation archives.[^ref-12][^
 [^ref-12]: [Giant Bomb - Gelfling Adventure](https://www.giantbomb.com/the-dark-crystal/) - Dark Crystal games
 [^ref-13]: [IGDB - Gelfling Adventure](https://www.igdb.com/games/gelfling-adventure) - IGDB entry
 [^ref-14]: [MobyGames - Sierra 1984](https://www.mobygames.com/company/sierra-on-line/) - Sierra catalog
-[^ref-15]: [My Abandonware - Gelfling](https://www.myabandonware.com/game/gelfling-adventure-49) - preservation
+[^ref-15]: My Abandonware - Gelfling *(link removed: it led to a different game's page)* - preservation
 [^ref-16]: [GameFAQs - Gelfling](https://gamefaqs.gamespot.com/) - database
 [^ref-17]: [UVList - Gelfling](https://www.uvlist.net/) - Universal Videogame List
 [^ref-18]: [Internet Archive - Gelfling](https://archive.org/) - preservation

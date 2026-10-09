@@ -11,7 +11,7 @@ series: Pharaoh
 engine: Unity
 protagonist: null
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: "Pharaoh: A New Era is a 2023 remake of the classic 1999 city-building game Pharaoh, developed by Triskell Interactive and published by Dotemu under license from Activision."
 tags:
   - 2020s
@@ -22,7 +22,7 @@ tags:
 ---
 # Pharaoh: A New Era
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -167,9 +167,9 @@ The successful remaster paved the way for potential future remakes of other clas
 [^ref-7]: [Gamepressure – Pharaoh: A New Era Review](https://www.gamepressure.com/editorials/reviews/pharaoh-new-era-review-pyramids-built-on-nostalgia/zb60e) – "Splendid opportunity to rediscover this timeless classic"
 [^ref-8]: [NPR – Best New Games](https://www.npr.org/2023/03/03/1160656371/npr-staff-review-the-best-new-games) – Mixed review, bugs noted, mobile-game aesthetics
 [^ref-9]: [GOG.com – Pharaoh: A New Era](https://www.gog.com/en/game/pharaoh_a_new_era) – DRM-free purchase, store listing
-[^ref-11]: [HowLongToBeat – Pharaoh: A New Era](https://howlongtobeat.com/game/108973) – 40-50 hour campaign, 100+ hours completionist
+[^ref-11]: HowLongToBeat – Pharaoh: A New Era *(link removed: it led to a different game's page)* – 40-50 hour campaign, 100+ hours completionist
 [^ref-12]: [PCGamingWiki – Pharaoh: A New Era](https://www.pcgamingwiki.com/wiki/Pharaoh:_A_New_Era) – Technical specifications, fixes
-[^ref-13]: [OpenCritic – Pharaoh: A New Era](https://opencritic.com/game/14558/pharaoh-a-new-era) – Review aggregation
+[^ref-13]: OpenCritic – Pharaoh: A New Era *(link removed: it led to a different game's page)* – Review aggregation
 [^ref-14]: [IGN – Reviving the Past Interview](https://sea.ign.com/pharaoh-pc/164100/news/reviving-the-past-with-the-folks-behind-the-upcoming-pharaoh-a-new-era-remake) – Development origins, Dotemu pitch, Activision licensing
 [^ref-15]: [Reddit – r/impressionsgames](https://www.reddit.com/r/impressionsgames/) – Community discussion and feedback
 [^ref-16]: [Dotemu – Official Page](https://www.dotemu.com/games/pharaoh-a-new-era/) – Publisher information

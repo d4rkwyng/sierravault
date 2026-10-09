@@ -10,7 +10,7 @@ series: 3-D Ultra Pinball
 engine: Custom Pinball Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-27'
+last_updated: '2026-10-09'
 composer: [LoudMouth Productions]
 description: 3-D Ultra Pinball is a pinball simulation game developed by Dynamix and
   published by Sierra On-Line in 1995. The game represented Sierra's first major entry...
@@ -19,7 +19,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra Pinball
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -237,7 +237,7 @@ The game's accessibility also drew note, though not always positively. GameSpot 
 [^ref-9]: [GameFAQs - 3-D Ultra Pinball](https://gamefaqs.gamespot.com/pc/197855-3-d-ultra-pinball) — Game description and quest mode details
 [^ref-10]: [MobyGames - 3-D Ultra Pinball Scores](https://www.mobygames.com/game/4508/3-d-ultra-pinball/ratings/) — Aggregate critic and player ratings
 [^ref-11]: [GameSpot User Reviews](https://www.gamespot.com/games/3-d-ultra-pinball/user-reviews/) — User rating average of 6.8
-[^ref-12]: [MobyGames - 3-D Ultra Pinball: Creep Night](https://www.mobygames.com/game/4509/3-d-ultra-pinball-creep-night/) — Sequel reviews and reception
+[^ref-12]: MobyGames - 3-D Ultra Pinball: Creep Night *(link removed: it led to a different game's page)* — Sequel reviews and reception
 [^ref-13]: [Ink19 - 3D Ultra Pinball: The Lost Continent](https://ink19.com/1997/12/magazine/reviews/game/3d-ultra-pinball-the-lost-continent) — Series philosophy review
 [^ref-14]: [MobyGames – 3-D Ultra Pinball: Thrillride Game Boy Color reviews](https://www.mobygames.com/game/19207/3-d-ultra-pinball-thrillride/reviews/game-boy-color/) — Game Boy Color port review aggregate, ~5/10 score tier (replaces dead IGN URL — IGN's 2001 article catalog is no longer accessible)
 [^ref-15]: [GameSpot - 3D Ultra Pinball: Thrillride](https://www.gamespot.com/reviews/3d-ultra-pinball-thrillride-review/1900-2545853/) — Series accessibility discussion

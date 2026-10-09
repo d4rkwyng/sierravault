@@ -11,14 +11,14 @@ series: Front Page Sports
 engine: 3D Football Engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: 'Front Page Sports: Football Pro ''98 is a comprehensive American football
   simulation game that puts players in both the coach''s headset and the quarterback''s...'
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro 98
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -230,7 +230,7 @@ The series influenced subsequent sports games' approach to franchise modes, thou
 [^ref-11]: [NeverDieMedia](https://www.neverdiemedia.com/products/front-page-sports-football-pro-98) - Interface improvements
 [^ref-12]: [AllVideoClassicGames](https://www.allvideoclassicgames.com/) - Game modes description
 [^ref-13]: [Web Archive - CDMag Review](https://web.archive.org/web/20030704202248/http://www.cdmag.com/articles/010/104/fps_football_98_review.html) - Career mode praise
-[^ref-14]: [GameFAQs](https://gamefaqs.gamespot.com/pc/198181-front-page-sports-football-pro-98) - Network play features
+[^ref-14]: GameFAQs *(link removed: it led to a different game's page)* - Network play features
 [^ref-15]: [GMGames](https://gmgames.org/front-page-sports-football-fb-pro-98/) - Enthusiast community rating
 [^ref-16]: [Old-Games.com](https://old-games.com/) - Dan Marino box art commentary
 [^ref-17]: [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-football-pro-22k) - User ratings

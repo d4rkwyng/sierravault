@@ -10,7 +10,7 @@ series: Cohort
 engine: Proprietary (Impressions)
 protagonist: Roman Legion Commander
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'Cohort: Fighting for Rome is a real-time tactical war game developed
   by Impressions Games and released in 1991 for DOS, Amiga, and Atari ST platforms.
   The...'
@@ -18,7 +18,7 @@ tags: [1990s, cohort, impressions, sierra, strategy]
 ---
 # Cohort: Fighting for Rome
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -254,9 +254,9 @@ The game is documented in various gaming databases.[^ref-7][^ref-8][^ref-9][^ref
 [^ref-8]: [IGDB – Cohort: Fighting for Rome](https://www.igdb.com/games/cohort-fighting-for-rome) – Internet Games Database entry
 [^ref-9]: [GameFAQs – Cohort: Fighting for Rome](https://gamefaqs.gamespot.com/pc/563614-cohort-fighting-for-rome) – game database entry with user information
 [^ref-10]: [UVList – Cohort: Fighting for Rome](https://www.uvlist.net/game-6539-Cohort+Fighting+for+Rome) – Universal Videogame List entry
-[^ref-11]: [My Abandonware – Cohort](https://www.myabandonware.com/game/cohort-fighting-for-rome-1jl) – abandonware archive, screenshots, download
+[^ref-11]: My Abandonware – Cohort *(link removed: it led to a different game's page)* – abandonware archive, screenshots, download
 [^ref-12]: [MobyGames – Cohort](https://www.mobygames.com/game/cohort-fighting-for-rome/) – game database entry
 [^ref-13]: [Hall of Light – Cohort: Fighting for Rome (Amiga)](https://hol.abime.net/2051) – Amiga version details, platform-specific information, HOL database entry
-[^ref-14]: [Lemon Amiga – Cohort: Fighting for Rome](https://www.lemonamiga.com/games/details.php?id=347) – Amiga platform review, user ratings, screenshots
+[^ref-14]: Lemon Amiga – Cohort: Fighting for Rome *(link removed: it led to a different game's page)* – Amiga platform review, user ratings, screenshots
 [^ref-15]: [DOS Games Archive – Cohort: Fighting for Rome](https://web.archive.org/web/*/https://www.dosgamesarchive.com/download/cohort-fighting-for-rome) – developer/publisher confirmation, category listing, download availability
 [^ref-16]: [World of Spectrum – Micro Miniatures Series](https://worldofspectrum.org/archive/software?company=impressions) – Impressions Games catalog, series context, contemporary release information

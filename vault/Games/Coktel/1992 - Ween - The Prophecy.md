@@ -252,7 +252,7 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 [^ref-14]: [Lemon Amiga – Reviews](https://www.lemonamiga.com/games/reviews/view.php?id=332) – user reviews, version comparison, cut content
 [^ref-15]: [GameFAQs – The Prophecy Walkthrough](https://gamefaqs.gamespot.com/pc/567180-the-prophecy/faqs/15201) – playtime estimate, character quotes
 [^ref-16]: [UV List – Ween: The Prophecy](https://www.uvlist.net/game-43148-Ween+The+Prophecy) – magazine review scores, platform details, language support
-[^ref-17]: [OldGames – The Prophecy](https://www.oldgames.sk/en/game/robocop/download/10874/) – rating, regional information
+[^ref-17]: OldGames – The Prophecy *(link removed: it led to a different game's page)* – rating, regional information
 [^ref-18]: [VGMPF Wiki – Ween: The Prophecy](https://www.vgmpf.com/Wiki/index.php?title=Ween:_The_Prophecy_(DOS)) – audio technical details, music file information
 [^ref-19]: [DOS Nostalgia – Ween: The Prophecy Soundtrack](https://www.dosnostalgia.com/2014/07/ween-the-prophecy-full-adlib-soundtrack/) – composer credit, regional title variations
 [^ref-20]: [PCGamingWiki – The Prophecy](https://www.pcgamingwiki.com/wiki/The_Prophecy) – engine, minimum requirements, ScummVM compatibility

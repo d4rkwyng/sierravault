@@ -10,14 +10,14 @@ series: Standalone
 engine: SCI1
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: Jones in the Fast Lane is a life simulation game developed by Sierra
   On-Line and released in 1990. The game represents a unique departure from Sierra's...
 tags: [1990s, sci, sierra, simulation, standalone]
 ---
 # Jones in the Fast Lane
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -200,7 +200,7 @@ The game's satirical take on the American Dream resonates differently in differe
 [^ref-22]: [The Digital Antiquarian](https://www.filfre.net/2018/01/sierra-at-the-cusp-of-the-multimedia-age/) – Software Publishers Association award
 [^ref-23]: [MyAbandonware](https://www.myabandonware.com/game/jones-in-the-fast-lane-1xb) – User ratings
 [^ref-24]: [IMDb Search](https://www.imdb.com/find/?q=Jones+in+the+Fast+Lane&s=tt) – IMDb ratings
-[^ref-25]: [Steam Community](https://steamcommunity.com/app/829660/reviews/?browsefilter=toprated) – Modern Steam reviews
+[^ref-25]: Steam Community *(link removed: it led to a different game's page)* – Modern Steam reviews
 [^ref-26]: [Sierra Fandom](https://sierra.fandom.com/wiki/Jones_in_the_Fast_Lane) – Original board game development
 [^ref-27]: [Space Quest Fandom](https://spacequest.fandom.com/wiki/SCI) – SCI engine information
 [^ref-28]: [MobyGames Credits](https://www.mobygames.com/game/1004/jones-in-the-fast-lane-cd-rom/credits/dos/) – Voice cast information

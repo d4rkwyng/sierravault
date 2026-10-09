@@ -10,14 +10,14 @@ series: The Incredible Machine
 engine: Custom 2D physics simulation engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: The Incredible Machine 2, released in 1994, stands as one of the most
   innovative puzzle games of the 1990s, challenging players to "arrange a given...
 tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine 2
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -126,7 +126,6 @@ The integrated level editor and exceptional puzzle design made it a landmark tit
 ## Downloads
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/the-incredible-machine-2-2vk)
 
 ## See Also
 
@@ -182,7 +181,7 @@ The Incredible Machine 2 featured expertly balanced level design that introduced
 [^ref-34]: [MobyGames TIM 2](https://www.mobygames.com/game/1605/the-incredible-machine-2/) – - Series progression and sequel development
 [^ref-35]: [MobyGames Sid & Al's](https://www.mobygames.com/game/3116/sid-als-incredible-toons/) – - Spin-off game information and cartoon adaptation
 [^ref-36]: [Sierra Fandom Dynamix](https://sierra.fandom.com/wiki/Dynamix) – - Patent information and corporate development
-[^ref-37]: [The Chieftain STEM Education](https://www.chieftain.com/story/special/2018/04/24/young-4-h-leader-makes/9383565007/) – - Educational impact and modern STEM applications
+[^ref-37]: The Chieftain STEM Education *(link removed: it led to a different game's page)* – - Educational impact and modern STEM applications
 [^ref-38]: [GOG User Reviews](https://www.gog.com/game/the_incredible_machine_mega_pack) – - Modern influence on indie gaming
 [^ref-39]: [PC GamesN Contraption Maker](https://www.pcgamesn.com/contraption-maker/contraption-maker-second-generation-incredible-machine-out-now-steam) – - Spiritual successor development and family connection
 [^ref-40]: [Web Archive Developer Blog](https://web.archive.org/web/20140727015927/http://contraptionmaker.com/old-team-exciting-new-product/) – - Jeff Tunnell quote on modern development capabilities

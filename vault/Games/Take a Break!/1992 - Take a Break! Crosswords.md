@@ -10,7 +10,7 @@ series: Take a Break!
 engine: Proprietary (DOS)
 protagonist: ''
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 composer: [Tom McMail]
 description: Take a Break! Crosswords is a puzzle video game developed by Dynamix
   and N8 Productions, published by Sierra On-Line in 1992 for Windows 3.x. The game
@@ -19,7 +19,7 @@ tags: [1990s, puzzle, sierra, take-a-break]
 ---
 # Take a Break! Crosswords
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -154,7 +154,7 @@ Take a Break! Crosswords represents a deliberate move by Dynamix and Sierra into
 
 [^ref-1]: [MobyGames – Take a Break! Crosswords](https://www.mobygames.com/game/25412/take-a-break-crosswords/) – developer, publisher, designer, composer, voice cast, platforms, ratings, puzzle specifications, Wanda character details
 [^ref-2]: [Dynamix Fandom Wiki – Take a Break! Crosswords](https://dynamix.fandom.com/wiki/Take_a_Break!_Crosswords) – Dell Magazine license, 375 puzzles, puzzle sizes, difficulty levels, gameplay features, Wanda character
-[^ref-7]: [Retro365 Blog – 3-D Ultra Pinball Article](https://retro365.blog/2025/02/16/3-d-ultra-pinball-revitalizing-a-classic-game-in-the-multimedia-age/) – Take a Break! series context, Dynamix development
+[^ref-7]: Retro365 Blog – 3-D Ultra Pinball Article *(link removed: it led to a different game's page)* – Take a Break! series context, Dynamix development
 [^ref-4]: [Web Archive – Presage Software](https://web.archive.org/web/19970614015203/http://www.presage.com/pTABXWords.html) – Macintosh version development by Presage
 [^ref-5]: [Wikipedia – Take a Break! Crosswords](https://en.wikipedia.org/wiki/Take_a_Break%21_Crosswords) – Presage Software Macintosh development, release dates
 [^ref-6]: [Wikipedia – Take a Break! Crosswords (alternate)](https://en.wikipedia.org/wiki/Take_a_Break!_Crosswords) – Compute! Magazine quote, The Oregonian quote, 750 puzzles, themed puzzles, 65-page dictionary, Computer Game Review score

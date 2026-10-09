@@ -11,7 +11,7 @@ series: Ultima
 engine: Custom (Assembly Language)
 protagonist: The Stranger
 sierra_lineage: Sierra Published
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: 'Ultima II: The Revenge of the Enchantress is a fantasy role-playing
   game designed and programmed by Richard Garriott, released on August 24, 1982. The
   game...'
@@ -19,7 +19,7 @@ tags: [1980s, rpg, sierra, ultima]
 ---
 # Ultima II: The Revenge of the Enchantress
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -223,7 +223,7 @@ The game's historical significance lies in several areas: it demonstrated that R
 
 **Download / Preservation**
 - [MobyGames Entry](https://www.mobygames.com/game/880/ultima-ii-the-revenge-of-the-enchantress/)
-- [MyAbandonware](https://www.myabandonware.com/game/ultima-ii-the-revenge-of-the-enchantress-64)[^ref-6]
+- MyAbandonware[^ref-6]
 
 **Manuals & Extras**
 - Cloth map included with original retail release[^ref-1]
@@ -239,9 +239,9 @@ The game's historical significance lies in several areas: it demonstrated that R
 [^ref-3]: [Ultima Codex Wiki – Ultima II](https://wiki.ultimacodex.com/wiki/Ultima_II) – release dates, technical specifications by platform, publishing conflicts, trivia, bugs, development history
 [^ref-4]: [GOG.com – Ultima 1+2+3](https://www.gog.com/en/game/ultima_1_2_3) – user reviews, version updates, technical information, modern reception
 [^ref-5]: [PCGamingWiki – Ultima II: The Revenge of the Enchantress](https://www.pcgamingwiki.com/wiki/Ultima_II:_The_Revenge_of_the_Enchantress) – technical specifications, system requirements, compatibility issues, digital release dates
-[^ref-6]: [MyAbandonware – Ultima II: The Revenge of the Enchantress](https://www.myabandonware.com/game/ultima-ii-the-revenge-of-the-enchantress-64) – platform information, screenshots, download availability
+[^ref-6]: MyAbandonware – Ultima II: The Revenge of the Enchantress *(link removed: it led to a different game's page)* – platform information, screenshots, download availability
 [^ref-7]: [GameFAQs – Ultima II: Revenge of the Enchantress](https://gamefaqs.gamespot.com/pc/564795-ultima-ii-revenge-of-the-enchantress) – game database entry, platform coverage
-[^ref-8]: [RPGWatch – Ultima 2](https://www.rpgwatch.com/games/ultima-2.html) – RPG database entry, genre classification
+[^ref-8]: RPGWatch – Ultima 2 *(link removed: it led to a different game's page)* – RPG database entry, genre classification
 [^ref-9]: [Giant Bomb – Ultima II: The Revenge of the Enchantress](https://www.giantbomb.com/ultima-ii-revenge-of-the-enchantress/3030-12824/) – game database entry, user reviews, platform information
 [^ref-10]: [IGDB – Ultima II: The Revenge of the Enchantress](https://www.igdb.com/games/ultima-ii-the-revenge-of-the-enchantress) – game database entry, release information
 [^ref-11]: [Scribd – The Official Book of Ultima](https://www.scribd.com/doc/48188850/The-Official-Book-of-Ultima) – official strategy guide, historical documentation

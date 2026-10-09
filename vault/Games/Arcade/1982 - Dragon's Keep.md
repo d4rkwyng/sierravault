@@ -10,14 +10,14 @@ series: Hi-Res Learning
 engine: The Graphics Magician
 protagonist: Unnamed Child
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: Dragon's Keep is a children's educational adventure game originally developed
   by SunnySide Soft and later published by Sierra On-Line. The game was designed...
 tags: [1980s, adventure, agi, al-lowe, hi-res-learning, sierra]
 ---
 # Dragon's Keep
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -250,7 +250,7 @@ From a modern perspective, Dragon's Keep demonstrates Sierra's early commitment 
 [^ref-6]: [Internet Archive – Apple II 4am Crack](https://archive.org/details/DragonsKeep4amCrack) – credits, Apple II release date, preservation details
 [^ref-7]: [Pixelated Arcade – Dragon's Keep](https://www.pixelatedarcade.com/games/dragons-keep) – complete credits by platform, control information, packaging details
 [^ref-8]: [Gaming After 40 – Dragon's Keep Playthrough](http://gamingafter40.blogspot.com/2013/11/adventure-of-week-dragons-keep-1984.html) – detailed gameplay analysis, technical notes, related games
-[^ref-9]: [MyAbandonware – Dragon's Keep](https://www.myabandonware.com/game/dragon-s-keep-gs) – user comments and engine observations
+[^ref-9]: MyAbandonware – Dragon's Keep *(link removed: it led to a different game's page)* – user comments and engine observations
 [^ref-10]: [My Abandonware – Dragon's Keep](https://www.myabandonware.com/game/dragon-s-keep-4v3) – user rating, personal testimonials
 [^ref-11]: [Glitchwave – Dragon's Keep](https://glitchwave.com/game/dragons-keep-a-hi-res-learning-game/) – version history, ratings, technical specifications
 [^ref-12]: [Giant Bomb – Dragon's Keep](https://www.giantbomb.com/dragons-keep/3030-10510/) – user ratings, series classification

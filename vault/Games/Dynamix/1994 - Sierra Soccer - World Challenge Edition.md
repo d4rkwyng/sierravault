@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary (Dynamix)
 protagonist: Soccer Team (player-controlled)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 composer: [Charles Callet]
 description: '*Sierra Soccer: World Challenge Edition* is an arcade-style soccer simulation
   developed by Dynamix with assistance from Coktel Vision, published by Sierra...'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, sierra, standalone]
 ---
 # Sierra Soccer: World Challenge Edition
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -346,7 +346,7 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 [^ref-16]: [Hall of Light – Sierra Soccer Amiga Database](https://amiga.abime.net/games/view/sierra-soccer-world-challenge-edition) – Amiga game database entry
 [^ref-15]: [MobyGames – Sierra Soccer World Challenge Edition](https://www.mobygames.com/game/sierra-soccer-world-challenge-edition/) – platform information, credits, screenshots
 [^ref-17]: [LaunchBox Games Database – Sierra Soccer World Challenge Edition](https://gamesdb.launchbox-app.com/games/details/sierra-soccer-world-challenge-edition) — community-curated metadata, Amiga platform tagging
-[^ref-18]: [Lemon Amiga – Sierra Soccer](https://www.lemonamiga.com/games/details.php?id=4654) — Amiga community ratings and review scores
+[^ref-18]: Lemon Amiga – Sierra Soccer *(link removed: it led to a different game's page)* — Amiga community ratings and review scores
 [^ref-19]: [Adventure Classic Gaming – Dynamix sports-sim retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Dynamix's mid-1990s Sierra-published European sports output
 [^ref-20]: [Coktel Vision – Sierra Soccer co-production archive](https://www.coktelvision.com/) — Coktel-side documentation of the French/German localization and music production
 [^ref-21]: [Internet Archive – Sierra Soccer (Amiga preservation)](https://archive.org/details/sierra-soccer-world-challenge-edition) — Amiga disk image preservation archive

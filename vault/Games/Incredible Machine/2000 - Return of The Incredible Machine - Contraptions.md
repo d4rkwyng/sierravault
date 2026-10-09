@@ -10,14 +10,14 @@ series: The Incredible Machine
 engine: Physics simulation engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: '**Return of the Incredible Machine: Contraptions** is a 2000 puzzle
   strategy game that revitalized the beloved Incredible Machine series after a five-year...'
 tags: [2000s, puzzle, sierra, the-incredible-machine]
 ---
 # Return of the Incredible Machine: Contraptions
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -155,13 +155,13 @@ The community around The Incredible Machine remains active decades after release
 
 [^ref-1]: [New York Times - Game Theory; Contraptions' Hardest Puzzle](https://www.nytimes.com/2000/09/07/technology/game-theory-contraptions-hardest-puzzle-how-to-stop.html) - Contemporary review noting five-year gap
 [^ref-2]: [Archive.org - Return of the Incredible Machine](https://archive.org/details/return-of-the-incredible-machine-contraptions) - Official game marketing copy
-[^ref-5]: [Old-Games.com - Return of the Incredible Machine: Contraptions](https://www.old-games.com/download/4685/return-of-incredible-machine-contraptions) - Game features summary
+[^ref-5]: Old-Games.com - Return of the Incredible Machine: Contraptions *(link removed: it led to a different game's page)* - Game features summary
 [^ref-6]: [GameSpot - Return of the Incredible Machine: Contraptions Review](https://www.gamespot.com/reviews/return-of-the-incredible-machine-contraptions-revi/1900-2616799/) - Gameplay overview and objectives
 [^ref-8]: [MobyGames - Return of the Incredible Machine: Contraptions](https://www.mobygames.com/game/4087/return-of-the-incredible-machine-contraptions/) - Developer information
 [^ref-9]: [Reddit - Contraption Maker AMA with Kevin Ryan](https://www.reddit.com/r/Games/comments/18ew4pv/contraption_maker_kevin_ryan_modern_version_of/) - Designer information
 [^ref-11]: [GOG.com - The Incredible Machine Mega Pack](https://www.gog.com/game/the_incredible_machine_mega_pack) - Platform listings
 [^ref-13]: [TV Tropes - The Incredible Machine](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheIncredibleMachine) - Example game objective
-[^ref-14]: [IMDb - Return of the Incredible Machine: Contraptions](https://www.imdb.com/title/tt0394543/) - Voice cast information
+[^ref-14]: IMDb - Return of the Incredible Machine: Contraptions *(link removed: it led to a different game's page)* - Voice cast information
 [^ref-15]: [Game Over Online - Return of TIM Review](https://web.archive.org/web/20001109201500/http://www.game-over.net/reviews.php?id=389) - Interface and parts count
 [^ref-16]: [PCGamingWiki - Return of the Incredible Machine: Contraptions](https://www.pcgamingwiki.com/wiki/Return_of_the_Incredible_Machine:_Contraptions) - Technical interface features
 [^ref-17]: [IGN - Return of the Incredible Machine: Contraptions](https://www.ign.com/games/return-of-the-incredible-machine-contraptions) - Control scheme description

@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-15'
+last_updated: '2026-10-09'
 description: Hoyle Poker Series is a comprehensive poker simulation video game released
   in 2005 for Windows, developed by Sierra Entertainment and published by Encore...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Poker Series
 
-<small style="color: gray">Last updated: May 15, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -273,7 +273,7 @@ The broader Hoyle series legacy, however, remains significant in gaming history.
 [^ref-5]: [MyAbandonware – Hoyle Poker](https://www.myabandonware.com/game/hoyle-poker-dk4) – 1997 version details, GamesDomain review, system requirements, bugs, bundled book information
 [^ref-6]: [Amazon UK – Hoyle Poker Series (Encore)](https://www.amazon.co.uk/Encore-33036-Hoyle-Poker-Series/dp/B00094OT2M) – release date, publisher, customer reviews, platform compatibility, tutorial features
 [^ref-7]: [Metacritic – Hoyle Poker Series](https://www.metacritic.com/game/hoyle-poker-series/) – release date, developer, publisher, no reviews available
-[^ref-8]: [RAWG.io – Hoyle Poker Series](https://rawg.io/games/new-vegas-games/suggestions) – release date, developer/publisher, ranking information
+[^ref-8]: RAWG.io – Hoyle Poker Series *(link removed: it led to a different game's page)* – release date, developer/publisher, ranking information
 [^ref-9]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise history, developer/publisher list, game descriptions, version information
 [^ref-10]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – developer, publisher, release year
 [^ref-11]: [MobyGames – Stephen H. Van Horn](https://www.mobygames.com/person/11750/stephen-h-van-horn/credits/) – Executive Producer credit, career information

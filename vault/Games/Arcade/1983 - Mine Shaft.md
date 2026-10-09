@@ -10,14 +10,14 @@ series: None
 engine: 6502 Assembly
 protagonist: Unnamed Miner
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: Mine Shaft is an arcade-style action game developed and published by
   Sierra On-Line in 1983 for the Apple II and PC Booter platforms. The game was also...
 tags: [1980s, none, sierra]
 ---
 # Mine Shaft
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -169,7 +169,7 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 
 **Download / Preservation**
 - [MobyGames](https://www.mobygames.com/game/79/mine-shaft/) - Game information and screenshots
-- [MyAbandonware](https://www.myabandonware.com/game/mine-shaft-5n) - Download available[^ref-2]
+- MyAbandonware - Download available[^ref-2]
 - [Internet Archive (MS-DOS)](https://archive.org/details/msdos_Mine_Shaft_1983) - Playable in browser[^ref-5]
 - [Internet Archive (IBM PC Floppy)](https://archive.org/details/000308-MineShaft) - Original floppy preservation[^ref-6] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-12][^ref-13][^ref-15]
 
@@ -198,9 +198,9 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 ## References
 
 [^ref-1]: [MobyGames – Mine Shaft](https://www.mobygames.com/game/79/mine-shaft/) – developer, publisher, platforms, release dates, technical specifications, ratings, reviews, trivia, bugs, programming credits
-[^ref-2]: [MyAbandonware – Mine Shaft](https://www.myabandonware.com/game/mine-shaft-5n) – platform information, screenshots, download availability
+[^ref-2]: MyAbandonware – Mine Shaft *(link removed: it led to a different game's page)* – platform information, screenshots, download availability
 [^ref-3]: [Sierra Chest – Mine Shaft](https://www.sierrachest.com/index.php?a=games&id=459&title=mine-shaft) – Sierra game database entry
-[^ref-4]: [GameFAQs – Mine Shaft](https://gamefaqs.gamespot.com/apple2/577478-mine-shaft) – Apple II platform entry, game database
+[^ref-4]: GameFAQs – Mine Shaft *(link removed: it led to a different game's page)* – Apple II platform entry, game database
 [^ref-5]: [Internet Archive – Mine Shaft (MS-DOS)](https://archive.org/details/msdos_Mine_Shaft_1983) – playable version, game description
 [^ref-6]: [Internet Archive – Mine Shaft IBM PC Floppy](https://archive.org/details/000308-MineShaft) – IBM PC floppy image preservation
 [^ref-7]: [Scribd – SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog

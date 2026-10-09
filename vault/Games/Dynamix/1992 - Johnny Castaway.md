@@ -12,14 +12,14 @@ protagonist: Johnny Castaway
 sierra_lineage: Sierra Label (Dynamix)
 series: Johnny Castaway
 created: 2026-02-12
-last_updated: '2026-07-13'
+last_updated: '2026-10-09'
 description: 'Johnny Castaway is a screensaver from 1992 that depicts a man stranded on a desert island, telling an ongoing narrative that unfolds over approximately 120 days of real-world time.'
 tags: [screensaver, dynamix, sierra]
 ---
 
 # Johnny Castaway
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -215,6 +215,6 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 [^ref-26]: [The Incredible Machine Connection](https://archive.org/details/the_incredible_machine) – Concurrent Dynamix project documentation showing production timeline overlap
 [^ref-29]: [MobyGames – Johnny Castaway player ratings](https://www.mobygames.com/game/3401/johnny-castaway/) – player aggregate score, gameplay/animation commentary
 [^ref-30]: [LaunchBox Games Database – Johnny Castaway](https://gamesdb.launchbox-app.com/games/details/johnny-castaway) — community-curated metadata, Windows 3.x platform tagging, cover-art reference
-[^ref-17]: [MyAbandonware – Johnny Castaway user reviews](https://www.myabandonware.com/game/johnny-castaway-1l) – user-side rating, nostalgic-era comments, preservation download
+[^ref-17]: MyAbandonware – Johnny Castaway user reviews *(link removed: it led to a different game's page)* – user-side rating, nostalgic-era comments, preservation download
 [^ref-27]: [Old PC Gaming – Johnny Castaway retrospective](https://oldpcgaming.net/johnny-castaway/) — modern retrospective coverage placing the screensaver in Dynamix's early-1990s casual-software lineage
 [^ref-28]: [IGDB – Johnny Castaway](https://www.igdb.com/games/johnny-castaway) — Internet Games Database entry, release-year confirmation, platform (Windows 3.x) tagging

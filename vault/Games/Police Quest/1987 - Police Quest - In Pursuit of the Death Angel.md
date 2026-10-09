@@ -181,9 +181,9 @@ The game's commitment to procedural accuracy created a template for serious game
 [^ref-23]: [GOG Dreamlist – Police Quest](https://www.gog.com/dreamlist/game/police-quest-in-pursuit-of-the-death-angel) — Community wishlist
 [^ref-24]: [GOG – Police Quest Collection](https://www.gog.com/game/police_quest_1_2_3_4) — Digital collection availability
 [^ref-25]: [Internet Archive – Police Quest Hint Book](https://archive.org/stream/Police_Quest_1_Hint_Book/Police_Quest_1_Hint_Book_djvu.txt) — Original hint book
-[^ref-26]: [IMDB – Police Quest (1987)](https://www.imdb.com/title/tt0236084/) — 8.2/10 user rating
+[^ref-26]: IMDB – Police Quest (1987) *(link removed: it led to a different game's page)* — 8.2/10 user rating
 [^ref-27]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/Sonny_Bonds) — Sonny Bonds character, Larry Laffer cameo in PQ2
-[^ref-28]: [IMDB – Police Quest VGA (1992)](https://www.imdb.com/title/tt0236085/) — 7.4/10 rating, Walls wanted poster easter egg
+[^ref-28]: IMDB – Police Quest VGA (1992) *(link removed: it led to a different game's page)* — 7.4/10 rating, Walls wanted poster easter egg
 [^ref-29]: [Sierra Fandom Wiki – Police Quest VGA (SCI)](https://sierra.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(SCI)) — "Pimp suit" renamed "leisure suit" in VGA remake referencing Leisure Suit Larry
 [^ref-30]: [Adventure Gamers – Police Quest](https://web.archive.org/web/20160717190806/http://www.adventuregamers.com/games/view/17001) — "Interesting experiment" observation, patrol duties description
 [^ref-41]: [MobyGames – Police Quest VGA Reviews](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/reviews/) — Tammy Dargan led VGA remake after Walls left Sierra; player reviews of the 1992 remake

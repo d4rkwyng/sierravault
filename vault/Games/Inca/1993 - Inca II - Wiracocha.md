@@ -132,7 +132,6 @@ Inca II stands as a fascinating example of 1990s multimedia gaming ambition, rep
 ## Downloads
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/inca-ii-wiracocha-6oh)
 
 ## See Also
 

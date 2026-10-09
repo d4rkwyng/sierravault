@@ -10,14 +10,14 @@ series: Aces Series
 engine: 3Space
 protagonist: WWII Pacific Theater Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: Aces of the Pacific is a World War II combat flight simulator developed
   by Dynamix and published by Sierra On-Line in 1992. Created by renowned flight sim...
 tags: [1990s, aces-series, sierra, simulation]
 ---
 # Aces of the Pacific
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -116,7 +116,6 @@ The Sierra Chest archives provide extensive documentation of the game's various 
 ## Downloads
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/aces-of-the-pacific-1th)
 
 ## See Also
 

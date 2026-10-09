@@ -11,14 +11,14 @@ series: Hoyle Series
 engine: Unknown/unnamed
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: Hoyle Kids Games 2000 is a compilation of classic children's games released
   by Sierra On-Line in September 2000 as part of their long-running Hoyle game...
 tags: [2000s, hoyle-series, sierra]
 ---
 # Hoyle Kids Games 2000
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -313,7 +313,7 @@ The game's emphasis on character personality through opponents like Marvin the T
 [^ref-3]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, context for Hoyle Kids Games titles
 [^ref-4]: [Sierra Chest – Hoyle Kids Games (Publications)](https://sierrachest.com/index.php?a=games&id=581&title=hoyle-kids-games&fld=publications) – Sierra catalog reference, publication data
 [^ref-5]: [Sierra Chest – Hoyle Kids Games](https://sierrachest.com/dodfdf/index.php?a=games&id=581&title=hoyle-kids-games&fld=screenshots) – platform information, engine, release dates, series info
-[^ref-6]: [Steam Community – Hoyle Kids Games Character Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3420245702) – character bios, voice actor speculation, trivia
+[^ref-6]: Steam Community – Hoyle Kids Games Character Guide *(link removed: it led to a different game's page)* – character bios, voice actor speculation, trivia
 [^ref-7]: [UVList – Hoyle Kids Games (Windows)](https://www.uvlist.net/game-225807-Hoyle+Kids+Games) – technical specifications, resolution options
 [^ref-8]: [MobyGames – Michael Katz](https://www.mobygames.com/person/9065/michael-katz/) – producer credit confirmation
 [^ref-9]: [MobyGames – Jeff Hoyt](https://www.mobygames.com/person/9095/jeff-hoyt/) – script writer credit

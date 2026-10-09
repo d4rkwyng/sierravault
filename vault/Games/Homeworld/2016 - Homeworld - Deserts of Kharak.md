@@ -10,7 +10,7 @@ series: Homeworld
 engine: Unity 5
 protagonist: Rachel S'jet
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: 'Homeworld: Deserts of Kharak is a real-time strategy game that serves
   as a prequel to the classic Homeworld series, taking place over a century before
   the...'
@@ -18,7 +18,7 @@ tags: [2010s, homeworld, sierra, strategy]
 ---
 # Homeworld: Deserts of Kharak
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -204,5 +204,5 @@ The guide features eleven sections covering different story aspects with develop
 [^ref-56]: [Gearbox Software Pre-order](https://www.gearboxsoftware.com/2015/12/homeworld-deserts-of-kharak-announced/) – Pre-order bonus
 [^ref-57]: [GOGDB - Languages](https://www.gogdb.org/product/1461763013) – Supported language list
 [^ref-59]: [Speedrun.com](https://www.speedrun.com/homeworld_deserts_of_kharak) – Speedrun statistics
-[^ref-61]: [Steam Reviews - Expedition Guide](https://store.steampowered.com/app/428810/Homeworld_Deserts_of_Kharak__Expedition_Guide/) – Manual comparison praise
+[^ref-61]: Steam Reviews - Expedition Guide *(link removed: it led to a different game's page)* – Manual comparison praise
 [^ref-62]: [Fists of Heaven - Expedition Guide Review](https://www.fistsofheaven.com/homeworld-deserts-of-kharak-expedition-guide-review/) – Guide content overview

@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI2.1
 protagonist: Princess Rosella, Queen Valanice
 sierra_lineage: Core Sierra
-last_updated: '2026-10-08'
+last_updated: '2026-10-09'
 description: 'King''s Quest VII: The Princeless Bride represents a dramatic stylistic
   departure for Sierra''s flagship adventure series. Released on November 22, 1994,
   the...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # King's Quest VII: The Princeless Bride
 
-<small style="color: gray">Last updated: October 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -304,7 +304,7 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 [^ref-15]: [GameSpot – King's Quest VII](https://www.gamespot.com/games/kings-quest-vii-the-princeless-bride/) – – user rating 7.7
 [^ref-16]: [Glitchwave – King's Quest VII](https://glitchwave.com/game/kings-quest-vii-the-princeless-bride/) – – 3.21/5.0 rating, #98 for 1994
 [^ref-17]: [GOG.com – King's Quest 7+8](https://www.gog.com/en/game/kings_quest_7_8) – – 4/5 rating (78 reviews), $9.99
-[^ref-18]: [IMDB – King's Quest VII Credits](https://www.imdb.com/title/tt0293808/fullcredits/) – – 129 animators, full production credits
+[^ref-18]: IMDB – King's Quest VII Credits *(link removed: it led to a different game's page)* – – 129 animators, full production credits
 [^ref-19]: [ScummVM Wiki – King's Quest VII](https://wiki.scummvm.org/index.php?title=King%27s_Quest_VII) – – 640×480 resolution, 256 colors
 [^ref-20]: [MobyGames Trivia – King's Quest VII](https://www.mobygames.com/game/135/roberta-williams-kings-quest-vii-the-princeless-bride/trivia/) – – Disney-style 3 fingers, Graham cut, alternate titles
 [^ref-21]: [The Cutting Room Floor – King's Quest VII](https://tcrf.net/King%27s_Quest_VII:_The_Princeless_Bride) – – version differences, debug mode, cut content, unused content

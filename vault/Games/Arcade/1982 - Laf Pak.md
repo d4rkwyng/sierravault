@@ -10,14 +10,14 @@ series: Standalone
 engine: Apple II Assembly
 protagonist: Various (compilation)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: Laf Pak is a compilation of four action games developed by Chuck Bueche
   and published by On-Line Systems for the Apple II in 1982. The collection bundles...
 tags: [1980s, sierra, standalone]
 ---
 # Laf Pak
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -264,7 +264,7 @@ The technical innovation of sampled speech in Creepy Corridors, while largely fo
 [^ref-14]: [SierraVault Game List (Scribd)](https://www.scribd.com/document/311126976/SierraVault-Game-List) – Sierra catalog inclusion, release year confirmation
 [^ref-15]: [Giant Bomb](https://www.giantbomb.com/laf-pak/3030-42356/) – Game database entry
 [^ref-16]: [IGDB](https://www.igdb.com/games/laf-pak) – Internet Game Database entry
-[^ref-17]: [Wikidata](https://www.wikidata.org/wiki/Q6469116) – Structured metadata
+[^ref-17]: Wikidata *(link removed: it led to a different game's page)* – Structured metadata
 [^ref-18]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Laf_Pak) – Wiki information
 [^ref-19]: [UVList](https://www.uvlist.net/game-183814-laf-pak) – Universal Videogame List
 [^ref-20]: [Internet Archive](https://archive.org/details/laf-pak-apple-ii) – Game preservation

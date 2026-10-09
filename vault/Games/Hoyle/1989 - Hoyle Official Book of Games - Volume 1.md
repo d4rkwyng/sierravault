@@ -10,7 +10,7 @@ series: Hoyle
 engine: SCI0
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 composer: [Robert Atesalp]
 description: 'Hoyle Official Book of Games: Volume 1 is a collection of six classic
   card games developed and published by Sierra On-Line in 1989. The game serves as
@@ -19,7 +19,7 @@ tags: [1980s, hoyle, sci, sierra]
 ---
 # Hoyle Official Book of Games: Volume 1
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -230,7 +230,6 @@ Modern retrospective analysis tends to view Volume 1 more favorably than its con
 - [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
 
 **Download / Preservation**
-- [MyAbandonware – Hoyle's Official Book of Games Volume 1](https://www.myabandonware.com/game/hoyle-s-official-book-of-games-volume-1-1nb) — abandonware preservation download
 - [Internet Archive – Hoyle Volume 1](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_Vol._1_1989_Sierra) — DOS edition preservation
 
 ## See Also
@@ -308,7 +307,7 @@ Modern retrospective analysis tends to view Volume 1 more favorably than its con
 [^ref-14]: [Sierra Gamers – Hoyle Series](https://www.sierragamers.com/hoyle-2/) – series history, development context
 [^ref-15]: [Fictional Crossover Fandom – Hoyle's Official Book of Games](https://fictionalcrossover.fandom.com/wiki/Hoyle%27s_Official_Book_of_Games) – character crossover details, game connections
 [^ref-16]: [IGDB – Hoyle Official Book of Games Volume 1](https://www.igdb.com/games/hoyle-official-book-of-games-volume-1) — Internet Games Database entry, platform listing, release-year confirmation
-[^ref-17]: [LaunchBox Games Database – Hoyle Volume 1](https://gamesdb.launchbox-app.com/games/details/759-hoyle-official-book-of-games-volume-1) — community-curated metadata, cover-art reference
+[^ref-17]: LaunchBox Games Database – Hoyle Volume 1 *(link removed: it led to a different game's page)* — community-curated metadata, cover-art reference
 [^ref-18]: [Adventure Classic Gaming – Sierra Hoyle line retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Sierra's Hoyle franchise founding
 [^ref-19]: [Computer Gaming World archive – Hoyle Volume 1 coverage](https://www.cgwmuseum.org/galleries/index.php?year=1990) — period magazine coverage and Sierra-character integration commentary
 [^ref-20]: [Sierra Chest – Hoyle Volume 1 product page](https://sierrachest.com/index.php?a=games&id=420) — packaging archive, retail-edition documentation

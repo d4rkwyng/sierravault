@@ -178,7 +178,7 @@ This game has been included in the following collections:
 [^ref-1]: [Wikipedia – Quest for Glory II: Trial by Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_II%3A_Trial_by_Fire) – – history, plot, gameplay, development, reception
 [^ref-2]: [Archive.org – Quest for Glory II](https://archive.org/details/quest-for-glory-ii-trial-by-fire-disk-4-of-9) – – preservation, disk images
 [^ref-3]: [Sierra Fandom Wiki – Quest for Glory II](https://sierra.fandom.com/wiki/Quest_for_Glory_II%3A_Trial_by_Fire) – – detailed game information
-[^ref-4]: [RPG Codex Interview – Corey Cole](https://rpgcodex.net/content.php?id=8976) – – development history
+[^ref-4]: RPG Codex Interview – Corey Cole *(link removed: it led to a different game's page)* – – development history
 [^ref-5]: [AGD Interactive – Quest for Glory II VGA](https://www.agdinteractive.com/games/qfg2/) – – fan remake
 [^ref-6]: [My Abandonware – Quest for Glory II](https://www.myabandonware.com/game/quest-for-glory-ii-trial-by-fire-12j) – – platforms, availability
 [^ref-7]: [GameFAQs – Quest for Glory II](https://gamefaqs.gamespot.com/pc/562671-quest-for-glory-ii-trial-by-fire) – – user reviews, guides
@@ -192,8 +192,8 @@ This game has been included in the following collections:
 [^ref-15]: [Hardcore Gaming 101 – Quest for Glory](http://www.hardcoregaming101.net/quest-for-glory/) – – series retrospective
 [^ref-16]: [Digital Antiquarian – Quest for Glory III and IV](https://www.filfre.net/2018/10/quest-for-glory-iii-and-iv/) – – historical analysis
 [^ref-17]: [StrategyWiki – Quest for Glory II](https://strategywiki.org/wiki/Quest_for_Glory_II) – walkthrough, game guide
-[^ref-18]: [Lemon Amiga – Quest for Glory II Reviews](https://www.lemonamiga.com/games/details.php?id=890) – Amiga magazine reviews
-[^ref-19]: [IMDB – Quest for Glory II](https://www.imdb.com/title/tt0420844/) – user ratings
+[^ref-18]: Lemon Amiga – Quest for Glory II Reviews *(link removed: it led to a different game's page)* – Amiga magazine reviews
+[^ref-19]: IMDB – Quest for Glory II *(link removed: it led to a different game's page)* – user ratings
 [^ref-20]: [Speedrun.com – Quest for Glory II](https://www.speedrun.com/qfg2) – speedrun leaderboards
 [^ref-21]: [AGD Interactive – Quest for Glory II VGA](https://www.agdinteractive.com/games/qfg2/about/about.html) – remake details
 [^ref-22]: [TV Tropes – Quest for Glory II](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryII) – trope analysis, easter eggs

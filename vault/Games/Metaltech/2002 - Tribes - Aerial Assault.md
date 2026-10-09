@@ -10,7 +10,7 @@ series: Tribes
 engine: Tribes Engine (PS2 port)
 protagonist: Player-created warrior
 sierra_lineage: Sierra Published
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 composer: [Timothy Steven Clark]
 description: 'Tribes: Aerial Assault is an online multiplayer first-person shooter
   developed by Inevitable Entertainment and published by Sierra On-Line for the...'
@@ -18,7 +18,7 @@ tags: [2000s, shooter, sierra, tribes]
 ---
 # Tribes: Aerial Assault
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -217,7 +217,7 @@ Tribes: Aerial Assault occupies a unique position in gaming history as a [[1994 
 [^ref-5]: [Neoseeker – Tribes: Aerial Assault](https://www.neoseeker.com/tribes-aerial/) – release date, user reviews, server specifications, network adapter information
 [^ref-6]: [Tribes Aerial Assault Community Website](https://tribesaerialassault.com/) – designer nicknames, composer credit, community servers, expanded platform support, series history
 [^ref-7]: [Internet Archive – Tribes: Aerial Assault](https://archive.org/details/tribes-aerial-assault) – disc preservation, original media
-[^ref-8]: [Wikidata – Tribes: Aerial Assault](https://www.wikidata.org/wiki/Q652527) – structured data, identifiers
+[^ref-8]: Wikidata – Tribes: Aerial Assault *(link removed: it led to a different game's page)* – structured data, identifiers
 [^ref-9]: [Wikipedia – Tribes (video game series)](https://en.wikipedia.org/wiki/Tribes_(video_game_series)) – franchise context, series chronology
 [^ref-10]: [IGN – Tribes: Aerial Assault](https://www.ign.com/games/tribes-aerial-assault) – review score, game database
 [^ref-11]: [MetaCritic – Tribes: Aerial Assault](https://www.metacritic.com/game/tribes-aerial-assault/) – aggregate review scores

@@ -237,7 +237,7 @@ This game has been included in the following collections:
 - [SpaceQuest.net – SQ5 Spoofs & References](https://spacequest.net/sq5/spoofref/) – Star Trek, Star Wars, pop culture parodies[^ref-24]
 - [SpaceQuest.net – SQ5 Cheats & Debug](https://spacequest.net/sq5/cheatdebug/) – debug commands, hidden features[^ref-25]
 - [Sierra Help – Space Quest V](https://sierrahelp.com/Games/SpaceQuest/SQ5Help.html) – patches, speed fixes, compatibility[^ref-26]
-- [GameFAQs – Space Quest V](https://gamefaqs.gamespot.com/pc/564696-space-quest-v-the-next-mutation) – user ratings, FAQs[^ref-27]
+- GameFAQs – Space Quest V – user ratings, FAQs[^ref-27]
 - [SpaceQuest.net – SQ5 Fun Facts](https://spacequest.net/sq5/funfacts/) – development stories, behind-the-scenes[^ref-28]
 - [SpaceQuest.net – SQ5 Cameos](https://spacequest.net/sq5/cameos/) – character appearances, references[^ref-29]
 - [SpaceQuest.net – SQ5 Plot Inconsistencies](https://spacequest.net/sq5/plotinconsis/) – continuity notes[^ref-30]
@@ -280,7 +280,7 @@ This game has been included in the following collections:
 [^ref-24]: [SpaceQuest.net – SQ5 Spoofs & References](https://spacequest.net/sq5/spoofref/) – Star Trek episode parodies, Aliens/Spaceballs/Hitchhiker's Guide references, Dynamix in-game references
 [^ref-25]: [SpaceQuest.net – SQ5 Cheats & Debug](https://spacequest.net/sq5/cheatdebug/) – Alt+C hotspot viewer, death message viewer bug, debug commands
 [^ref-26]: [Sierra Help – Space Quest V](https://sierrahelp.com/Games/SpaceQuest/SQ5Help.html) – EVA pod speed bug, cloaking device bug, audio driver fixes, patches
-[^ref-27]: [GameFAQs – Space Quest V](https://gamefaqs.gamespot.com/pc/564696-space-quest-v-the-next-mutation) – user ratings, walkthroughs, FAQs
+[^ref-27]: GameFAQs – Space Quest V *(link removed: it led to a different game's page)* – user ratings, walkthroughs, FAQs
 [^ref-28]: [SpaceQuest.net – SQ5 Fun Facts](https://spacequest.net/sq5/funfacts/) – Mark Crowe quotes on SQ4 stress and Dynamix move, Josh Mandel's earlier SQ5 design, Ken Williams SCI mandate, Sean Murphy CD-ROM cancellation quote
 [^ref-29]: [SpaceQuest.net – SQ5 Cameos](https://spacequest.net/sq5/cameos/) – Worf/Woof parody, guards playing Missile Command and Asteroids, SQ3 Skull Fighter, Enterprise engine, Flash Gordon and Einstein on grade master
 [^ref-30]: [SpaceQuest.net – SQ5 Plot Inconsistencies](https://spacequest.net/sq5/plotinconsis/) – Magazine contradictions, StarCon Crest design issue, Cliffy spacesuit plot hole, shield inconsistencies, garbage collection paradox

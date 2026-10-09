@@ -10,14 +10,14 @@ series: Shadow of Yserbius
 engine: Multiplayer graphical MUD engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-05-15'
+last_updated: '2026-10-09'
 description: The Shadow of Yserbius was a groundbreaking graphical multi-user dungeon
   (MUD) game that originally launched on The Sierra Network in 1991. Developed by...
 tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # The Shadow of Yserbius
 
-<small style="color: gray">Last updated: May 15, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -192,7 +192,7 @@ Several bugs and design issues were documented during the game's lifespan:
 [^ref-7]: [Archive.org](https://archive.org/details/msdos_Shadow_of_Yserbius_1993) – Publisher information
 [^ref-8]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Shadow+of+Yserbius&gid=2142) – Platform and technical details
 [^ref-9]: [Archive.org Manual](https://archive.org/stream/Shadow_of_Yserbius_-_Manual/Shadow_of_Yserbius_-_Manual_djvu.txt) – Game description
-[^ref-10]: [MobyGames](https://www.mobygames.com/game/1846/fates-of-twinion/) – Game premise
+[^ref-10]: MobyGames *(link removed: it led to a different game's page)* – Game premise
 [^ref-11]: [MedievaLands](https://www.medievalands.com/) – Game setting description and remake information
 [^ref-14]: [GameSpot](https://www.gamespot.com/the-shadow-of-yserbius/user-reviews/2200-246384/) – Multiplayer mechanics and user review
 [^ref-17]: [IPFS Archive](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Shadow_of_Yserbius.html) – Computer Gaming World review
@@ -203,6 +203,6 @@ Several bugs and design issues were documented during the game's lifespan:
 [^ref-23]: [Filfre.net](https://www.filfre.net/?s=Shadow+of+Yserbius) – Ken Williams press release
 [^ref-24]: [MassivelyOP](https://massivelyop.com/2019/06/22/the-game-archaeologist-sierras-fates-of-twinion-and-ruins-of-cawdor/) – Brian Thomson and Richard Aronson quotes
 [^ref-25]: [MobyGames](https://www.mobygames.com/game-group/shadow-of-yserbius-series) – Series information
-[^ref-26]: [MobyGames](https://www.mobygames.com/game/67088/ruins-of-cawdor/) – Ruins of Cawdor details
+[^ref-26]: MobyGames *(link removed: it led to a different game's page)* – Ruins of Cawdor details
 [^ref-28]: [Archive.org](https://archive.org/details/20220303_20220303_0527) – Technical specifications
 [^ref-29]: [MedievaLands News](https://medievalands.com/news/) – Bug documentation from various updates

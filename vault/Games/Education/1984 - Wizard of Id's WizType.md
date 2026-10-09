@@ -10,7 +10,7 @@ series: Wizard of Id
 engine: 6502 Assembly
 protagonist: The Wizard
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: Wizard of Id's WizType is an educational typing game released in 1984
  by Sierra On-Line, designed to give keyboard novices lessons on improving their
  typing...
@@ -18,7 +18,7 @@ tags: [1980s, educational, sierra, wizard-of-id]
 ---
 # Wizard of Id's WizType
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -235,7 +235,7 @@ From a historical perspective, WizType demonstrates how early educational softwa
 [^ref-8]: [Apple II History – 1984](https://www.apple2history.org/appendix/aha/aha84/) – Apple II software catalog, educational software context
 [^ref-9]: [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Wizard_of_Ids_Wiztype_1984_Sierra_On_Line_US) – Atari version preservation
 [^ref-10]: [Internet Archive – C64 Manual](https://archive.org/details/Wizard_of_Ids_Wiztype_1984_Sierra_On-Line) – Commodore 64 documentation
-[^ref-11]: [Wikidata – Wizard of Id's WizType](https://www.wikidata.org/wiki/Q56335067) – structured data, identifiers
+[^ref-11]: Wikidata – Wizard of Id's WizType *(link removed: it led to a different game's page)* – structured data, identifiers
 [^ref-12]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
 
 [^ref-13]: [Giant Bomb – Wizard of Id's WizType](https://www.giantbomb.com/wizard-of-ids-wiztype/3030-16784/) – Game database entry, platform details, genre classification

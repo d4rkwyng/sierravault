@@ -129,7 +129,6 @@ PGA Championship Golf 2000 utilized official PGA Tour licensing to provide authe
 ## Downloads
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/pga-championship-golf-2000-titanium-edition-8s1)
 
 ## See Also
 

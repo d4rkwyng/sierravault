@@ -10,14 +10,14 @@ series: Standalone
 engine: ASSM (6502 assembly)
 protagonist: Unnamed adventurer/scoundrel
 sierra_lineage: Sierra Published
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Wrath of Denethenor is a fantasy role-playing game developed by Christopher
   Crim and published by Sierra On-Line in 1986 for the Apple II and Commodore 64...
 tags: [1980s, rpg, sierra, standalone]
 ---
 # Wrath of Denethenor
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -239,5 +239,5 @@ From a modern perspective, the game serves as an important data point in underst
 [^ref-16]: [Giant Bomb](https://www.giantbomb.com/wrath-of-denethenor/3030-11966/) – user ratings, game description
 [^ref-17]: [Internet Archive – Manual Scan](https://archive.org/details/wrathofdenethenormanual) – platform confirmation, publisher details
 [^ref-18]: [IGDB – Wrath of Denethenor](https://www.igdb.com/games/wrath-of-denethenor) — Internet Games Database entry, Apple II / C64 platform confirmation, release-year metadata
-[^ref-19]: [LaunchBox Games Database – Wrath of Denethenor](https://gamesdb.launchbox-app.com/games/details/29990-wrath-of-denethenor) — community-curated metadata, cover-art reference, platform listing
+[^ref-19]: LaunchBox Games Database – Wrath of Denethenor *(link removed: it led to a different game's page)* — community-curated metadata, cover-art reference, platform listing
 [^ref-20]: [Apple II Bible – Wrath of Denethenor coverage](https://apple2history.org/) — Apple II historical context including the mid-1980s Sierra-published RPG market that Wrath inhabited

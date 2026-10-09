@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: High-resolution SVGA graphics engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: '*Front Page Sports: Football Pro ''96* was a comprehensive American
   football simulation game developed by Dynamix and published by Sierra On-Line in
   late...'
@@ -18,7 +18,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro '96
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -303,4 +303,4 @@ The game is preserved through various abandonware archives and remains playable 
 [^ref-29]: [Internet Archive – Software preservation](https://archive.org/details/msdos_Front_Page_Sports_Football_Pro_96_Season_1995) – DOS version archive
 [^ref-27]: [Adventure Classic Gaming – Dynamix sports-sim retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) – context for Dynamix's mid-1990s Sierra-published sports-simulation portfolio
 [^ref-28]: [IGDB – Front Page Sports: Football Pro '96](https://www.igdb.com/games/front-page-sports-football-pro-96) – Internet Games Database entry, NFL-license confirmation, platform listing
-[^ref-30]: [LaunchBox Games Database – Front Page Sports: Football Pro '96](https://gamesdb.launchbox-app.com/games/details/29283-front-page-sports-football-pro-96) – community-curated metadata, cover-art reference, platform confirmation
+[^ref-30]: LaunchBox Games Database – Front Page Sports: Football Pro '96 *(link removed: it led to a different game's page)* – community-curated metadata, cover-art reference, platform confirmation

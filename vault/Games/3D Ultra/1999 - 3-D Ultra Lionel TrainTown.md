@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 composer: [Christopher Stevens]
 description: 3D Ultra Lionel Traintown is a third-person railroading puzzle game developed
   by Dynamix and published by Sierra Attractions for Windows PC in 1999....
@@ -19,7 +19,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3D Ultra Lionel Traintown
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -262,6 +262,6 @@ In retrospect, the game represents an interesting moment in edutainment history�
 [^ref-17]: [CodeWeavers Compatibility](https://www.codeweavers.com/compatibility/crossover/3d-ultra-lionel-traintown-deluxe) – CrossOver compatibility ratings
 [^ref-18]: [O Gauge Forum](https://o-gaugeforum.com/thread/3523/years-ultra-lionel-traintown-deluxe) – retail availability, difficulty progression
 [^ref-19]: [IGDB – 3-D Ultra Lionel TrainTown](https://www.igdb.com/games/3-d-ultra-lionel-traintown) — Internet Games Database entry, Windows platform tagging, release-year confirmation
-[^ref-20]: [LaunchBox Games Database – 3-D Ultra Lionel TrainTown](https://gamesdb.launchbox-app.com/games/details/3-d-ultra-lionel-traintown) — community-curated metadata, cover-art reference
+[^ref-20]: LaunchBox Games Database – 3-D Ultra Lionel TrainTown *(link removed: it led to a different game's page)* — community-curated metadata, cover-art reference
 [^ref-21]: [Lionel Trains official archive](https://www.lionel.com/) — Lionel-side documentation of the licensed partnership with Sierra/Dynamix
 [^ref-22]: [PCGamingWiki – 3-D Ultra Lionel TrainTown](https://www.pcgamingwiki.com/wiki/3-D_Ultra_Lionel_TrainTown) — technical documentation, compatibility matrix, modern-OS install notes

@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: Player-controlled golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-05-27'
+last_updated: '2026-10-09'
 description: 3D Ultra Minigolf is a miniature golf simulation game released in 1997
   by Sierra On-Line, developed by Dynamix and Jeff Tunnell Productions. The game marked...
 tags: [1990s, 3d-ultra, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3D Ultra Minigolf
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -224,7 +224,7 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 
 ## References
 
-[^ref-1]: [MobyGames - 3D Ultra Minigolf](https://www.mobygames.com/game/9145/3d-ultra-minigolf/) — Game credits, developer info, platform details
+[^ref-1]: MobyGames - 3D Ultra Minigolf *(link removed: it led to a different game's page)* — Game credits, developer info, platform details
 [^ref-2]: [GamesFirst - 3D Ultra Minigolf Review](https://web.archive.org/web/*/https://gamesfirst.com/reviews/3d-ultra-minigolf/) — Contemporary review discussing graphics and gameplay
 [^ref-3]: [The Collection Chamber - 3D Ultra Minigolf](https://collectionchamber.blogspot.com/2017/05/3d-ultra-minigolf.html) — Preservation and retrospective analysis
 [^ref-4]: [GameSpot - 3D Ultra Minigolf Adventures](https://www.gamespot.com/games/3d-ultra-minigolf-adventures/) — Series overview and franchise history
@@ -235,7 +235,7 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 [^ref-9]: [Internet Archive - 3-D Ultra Minigolf (1997)](https://archive.org/details/3-d-ultra-minigolf) — Preservation copy of the original 1997 Dynamix/Sierra release
 [^ref-10]: [MobyGames - Dynamix](https://www.mobygames.com/company/233/dynamix-inc/) — Developer history and closure
 [^ref-11]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) — Studio closure in 2001
-[^ref-12]: [Minigolf Maniacs Freeware](https://www.myabandonware.com/game/minigolf-maniacs-gx0) — Fan completion of cancelled sequel
+[^ref-12]: Minigolf Maniacs Freeware *(link removed: it led to a different game's page)* — Fan completion of cancelled sequel
 [^ref-13]: [MobyGames – 3-D Ultra Minigolf (1997)](https://www.mobygames.com/game/2295/3-d-ultra-minigolf/) — Canonical MobyGames database record for the 1997 original
 [^ref-14]: [MobyGames – 3-D Ultra Minigolf (1997) credits](https://www.mobygames.com/game/2295/3-d-ultra-minigolf/credits/) — Development team attribution, Dynamix and Jeff Tunnell Productions personnel
 [^ref-15]: [MobyGames – 3-D Ultra Minigolf (1997) reviews](https://www.mobygames.com/game/2295/3-d-ultra-minigolf/reviews/) — Aggregate critic and player reviews of the 1997 release

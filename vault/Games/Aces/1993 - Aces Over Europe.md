@@ -10,7 +10,7 @@ series: Aces
 engine: 3Space
 protagonist: WWII European Theater Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-05-27'
+last_updated: '2026-10-09'
 description: Aces Over Europe stands as one of Dynamix's most ambitious World War
   II flight simulators, released in 1993 as the follow-up to the acclaimed Aces of
   the...
@@ -18,7 +18,7 @@ tags: [1990s, aces, sierra, simulation]
 ---
 # Aces Over Europe
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -119,7 +119,6 @@ The comprehensive aircraft roster, detailed mission types, and sophisticated fli
 ## Downloads
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/aces-over-europe-o3e)
 
 Aces Over Europe's legacy as a significant flight simulation achievement continues to resonate with retro gaming enthusiasts, who regard it as one of the finest WWII flight simulators ever created for consumer hardware[^ref-2].
 

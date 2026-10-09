@@ -11,7 +11,7 @@ series: Sierra Discovery Series
 engine: Bright Star Engine
 protagonist: Bananas (monkey) and Jack (jack-in-the-box)
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Gordon van Ekström]
 description: Ready, Set, Read with Bananas & Jack is an educational software title
   developed by Bright Star Technology and published by Sierra On-Line in 1993 as part
@@ -20,7 +20,7 @@ tags: [1990s, educational, sierra, sierra-discovery-series]
 ---
 # Ready, Set, Read with Bananas & Jack
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -219,7 +219,7 @@ The game's obscurity in modern times reflects the ephemeral nature of much educa
 [^ref-14]: [Reddit – Tip of My Tongue (Monkey Game)](https://www.reddit.com/r/tipofmytongue/comments/vwt0a/tomt_game_a_childrens_pc_game_starring_a_monkey/) – character descriptions, gameplay memories
 [^ref-15]: [Giant Bomb](https://www.giantbomb.com/bright-star-technology/3010-3859/) – Bright Star company information
 [^ref-16]: [IGDB](https://www.igdb.com/companies/bright-star-technology) – Internet Game Database entry
-[^ref-17]: [Wikidata](https://www.wikidata.org/wiki/Q52153991) – Structured metadata
+[^ref-17]: Wikidata *(link removed: it led to a different game's page)* – Structured metadata
 [^ref-18]: [UVList](https://www.uvlist.net/game-50389-ready-set-read-with-bananas-jack) – Universal Videogame List
 [^ref-19]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Bright_Star_Technology) – Wiki information
 [^ref-20]: [Internet Archive](https://archive.org/details/sierra-sneak-peeks-2) – Demo preservation

@@ -10,14 +10,14 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Hoyle Casino 1999 (also known as Hoyle Casino 4) represents the fourth
   installment in Sierra On-Line's popular casino simulation series, released in...
 tags: [1990s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 1999
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -281,10 +281,10 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 [^ref-6]: [MyAbandonware – Hoyle Casino](https://www.myabandonware.com/game/hoyle-casino-hzg) — Preservation download, 4/5 rating, developer credits
 [^ref-7]: [PCGamingWiki – Hoyle Casino 1999](https://www.pcgamingwiki.com/wiki/Hoyle_Casino_1999) — DRM info, animation skip behavior, version history
 [^ref-8]: [Amazon Listing – Hoyle Casino 1999](https://www.amazon.com/Hoyle-Casino-1999-PC/dp/B00001KRTG) — Game count (22 video poker, 8 poker styles), multiplayer issues
-[^ref-9]: [GameFAQs – Hoyle Casino 2001](https://gamefaqs.gamespot.com/pc/933501-hoyle-casino-2001) — "Outstanding" rating, series continuation info
+[^ref-9]: GameFAQs – Hoyle Casino 2001 *(link removed: it led to a different game's page)* — "Outstanding" rating, series continuation info
 [^ref-10]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) — Sales data ($6.15M, 230K units), series history, 2007 bug description
 [^ref-11]: [Internet Archive – Prototype Build](https://archive.org/details/9905182137) — July 30, 1999 prototype discovered by lemurboy12
-[^ref-12]: [GameFAQs Cheats](https://gamefaqs.gamespot.com/pc/563820-hoyle-casino-1999/cheats) — "Break The Bank" exploit documentation
+[^ref-12]: GameFAQs Cheats *(link removed: it led to a different game's page)* — "Break The Bank" exploit documentation
 [^ref-13]: [Amazon – Hoyle Casino 2008](https://www.amazon.com/Hoyle-Casino-Games-2008-PC/dp/B000RGBVLI) — Encore Software continuation, 600+ games
 [^ref-14]: [MobyGames – Hoyle Casino 3D](https://www.mobygames.com/game/20006/hoyle-casino-3d/) — 2005 3D edition by Encore
 [^ref-15]: [Internet Archive – Hoyle Casino 1999](https://archive.org/details/Hoyle_Casino_Sierra_On-Line_Inc._1999) — Full game preservation
@@ -292,4 +292,4 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 [^ref-17]: [Sierra Attractions brand history (Wikipedia)](https://en.wikipedia.org/wiki/Sierra_Entertainment#Sierra_Attractions) — Sierra Attractions casual-games publishing-label context
 [^ref-18]: [LaunchBox Games Database – Hoyle Casino 1999](https://gamesdb.launchbox-app.com/games/details/hoyle-casino-1999) — community-curated metadata, cover art, platform confirmation
 [^ref-19]: [Old Games Finder – Hoyle Casino 1999](https://www.oldgamesfinder.com/hoyle-casino-1999/) — abandonware preservation archive, ISO metadata, screenshot gallery
-[^ref-20]: [GameFAQs – Hoyle Casino 1999 (PC)](https://gamefaqs.gamespot.com/pc/563820-hoyle-casino-1999) — user-rated category, platform listing, retail-release metadata
+[^ref-20]: GameFAQs – Hoyle Casino 1999 (PC) *(link removed: it led to a different game's page)* — user-rated category, platform listing, retail-release metadata

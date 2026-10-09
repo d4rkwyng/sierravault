@@ -220,7 +220,7 @@ The remake's significance extends beyond its individual merits to represent a br
 [^ref-3]: [AGD Interactive – King's Quest II Download Page](https://www.agdinteractive.com/games/kq2/download/download.html) – download availability, team credits, technical information
 [^ref-4]: [King's Quest Omnipedia – King's Quest II: Romancing the Stones](https://kingsquest.fandom.com/wiki/King%27s_Quest_II:_Romancing_the_Stones) – detailed game information, story details, gameplay elements
 [^ref-5]: [AGD Interactive – About King's Quest II](https://www.agdinteractive.com/games/kq2/about/about.html) – game history, story premise, development background
-[^ref-6]: [MobyGames – King's Quest II: Romancing the Stones](https://www.mobygames.com/game/13406/kings-quest-ii-romancing-the-stones/) – database listing, game information
+[^ref-6]: MobyGames – King's Quest II: Romancing the Stones *(link removed: it led to a different game's page)* – database listing, game information
 [^ref-7]: [Abandonware DOS – King's Quest II+ Romancing the Stones](https://www.abandonwaredos.com/abandonware-game.php?abandonware=King%27s+Quest+II%2B+Romancing+the+Stones) – preservation, download availability
 [^ref-8]: [Internet Archive – King's Quest II Search Results](https://archive.org/search?query=King%27s+Quest+II%2B+Romancing+the+Stones+sierra) – archival preservation, historical documentation: [Giant Bomb - King's Quest II: Romancing the Stones](https://www.giantbomb.com/kings-quest-ii-romancing-the-stones/3030-24287/) - game wiki entry
 [^ref-10]: [IGDB - King's Quest II: Romancing the Stones](https://www.igdb.com/games/kings-quest-ii-romancing-the-stones) - Internet Games Database entry

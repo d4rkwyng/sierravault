@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI2
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Aubrey Hodges]
 description: 'Quest for Glory: Shadows of Darkness is a 1993 adventure game/role-playing
   video game hybrid, the fourth installment in the Quest for Glory series by Sierra...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory: Shadows of Darkness
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 Quest for Glory: Shadows of Darkness is a 1993 adventure game/role-playing video game hybrid, the fourth installment in the Quest for Glory series by [[Sierra On-Line]][^ref-1][^ref-2].
@@ -218,7 +218,6 @@ This game has been included in the following collections:
 **Download / Preservation**
 
 - [Internet Archive – Quest for Glory: Shadows of Darkness](https://archive.org/details/quest-for-glory-shadows-of-darkness-usa)
-- [My Abandonware – Quest for Glory IV](https://www.myabandonware.com/game/quest-for-glory-shadows-of-darkness-fh)
 
 **Manuals & Extras**
 
@@ -254,14 +253,14 @@ This game has been included in the following collections:
 [^ref-10]: [HowLongToBeat – Quest for Glory IV](https://howlongtobeat.com/game/7483) – – completion times
 [^ref-11]: [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) – – purchase, user reviews
 [^ref-12]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750) – – purchase, user reviews
-[^ref-13]: [My Abandonware – Quest for Glory IV](https://www.myabandonware.com/game/quest-for-glory-shadows-of-darkness-fh) – – platforms, availability
+[^ref-13]: My Abandonware – Quest for Glory IV *(link removed: it led to a different game's page)* – – platforms, availability
 [^ref-14]: [Quest for Glory Fandom Wiki](https://questforglory.fandom.com/wiki/Quest_for_Glory_IV%3A_Shadows_of_Darkness) – – series information
 [^ref-15]: [Hardcore Gaming 101 – Quest for Glory](http://www.hardcoregaming101.net/quest-for-glory/) – – series retrospective
-[^ref-18]: [ESRB Rating](https://www.esrb.org/ratings/26723/Quest+for+Glory%3A+Shadows+of+Darkness/) – "Kids to Adults" rating
-[^ref-19]: [MobyGames – Quest for Glory IV](https://www.mobygames.com/game/172/quest-for-glory-shadows-of-darkness/) – critic reviews, credits
+[^ref-18]: ESRB Rating *(link removed: it led to a different game's page)* – "Kids to Adults" rating
+[^ref-19]: MobyGames – Quest for Glory IV *(link removed: it led to a different game's page)* – critic reviews, credits
 [^ref-20]: [CRPG Addict – Quest for Glory IV](https://crpgaddict.blogspot.com/2021/09/quest-for-glory-iv-shadows-of-darkness.html) – detailed analysis
 [^ref-21]: [Speedrun.com – Quest for Glory IV](https://www.speedrun.com/qfg4) – speedrun leaderboards
-[^ref-22]: [GameFAQs – Quest for Glory IV](https://gamefaqs.gamespot.com/pc/562693-quest-for-glory-shadows-of-darkness) – user reviews, guides
+[^ref-22]: GameFAQs – Quest for Glory IV *(link removed: it led to a different game's page)* – user reviews, guides
 [^ref-23]: [TV Tropes – Quest for Glory IV](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryIV) – trope analysis, cultural references
 [^ref-24]: [ScummVM Wiki – Quest for Glory IV](https://wiki.scummvm.org/index.php?title=Quest_for_Glory%3A_Shadows_of_Darkness) – technical compatibility
 [^ref-26]: [RPGFan – Quest for Glory IV Soundtrack](https://rpgfan.com/soundtracks/quest-for-glory-iv-shadows-of-darkness/) – music review

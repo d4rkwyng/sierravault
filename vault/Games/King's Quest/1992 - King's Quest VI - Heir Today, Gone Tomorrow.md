@@ -325,7 +325,6 @@ This game has been included in[^ref-20][^ref-21]:
 
 **Download / Preservation**
 - [Internet Archive – MS-DOS CD Version](https://archive.org/details/msdos_Kings_Quest_VI_-_Heir_Today_Gone_Tomorrow_1992) – Browser playable
-- [My Abandonware – King's Quest VI](https://www.myabandonware.com/game/king-s-quest-vi-heir-today-gone-tomorrow-1fy) – Preservation downloads
 
 **Fan Projects**
 - [King's Quest VI AGI Demake](https://kq6agi.com/) – Brandon Kouri's 18-year AGI recreation (2024)
@@ -333,7 +332,6 @@ This game has been included in[^ref-20][^ref-21]:
 
 **Manuals & Extras**
 - [Sierra Chest – King's Quest VI](https://www.sierrachest.com/index.php?a=games&id=6) – Walkthrough, maps, memorabilia
-- [MobyGames – King's Quest VI](https://www.mobygames.com/game/455/kings-quest-vi-heir-today-gone-tomorrow/) – Covers, screenshots, credits
 - [MOCAGH – KQ6 Hintbook](https://mocagh.org/) – Official hint book scans
 - [Sierra Help – KQ6](https://sierrahelp.com/Games/KingsQuest/KQ6.html) – Patches, saves, technical support
 - [PCGamingWiki – King's Quest VI](https://www.pcgamingwiki.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – Technical fixes
@@ -371,9 +369,9 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-17]: [The Inventory – Jane Jensen Interview 2003](https://gkpages.altervista.org/Interviews/JJ_2003_TheInventory_2.html) – – Cliffs of Logic credit, "huge pad of paper" design method, collaboration dynamics, Roberta as mentor, career impact
 [^ref-18]: [StrategyWiki – KQ6 Walkthrough](https://strategywiki.org/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – Three spells: Make Rain, Charm Creature, Magic Paint
 [^ref-19]: [PC Gamer – Every Sierra Adventure Ranked (2020)](https://www.pcgamer.com/) – – KQ6 ranked #3 of 63 Sierra adventures, highest KQ game
-[^ref-20]: [MobyGames – King's Quest VI](https://www.mobygames.com/game/455/kings-quest-vi-heir-today-gone-tomorrow/) – – 8.1 MobyScore, 83% critics, 27 reviews, credits, platforms
+[^ref-20]: MobyGames – King's Quest VI *(link removed: it led to a different game's page)* – – 8.1 MobyScore, 83% critics, 27 reviews, credits, platforms
 [^ref-21]: [GOG.com – King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6) – – 4.6/5 rating, ScummVM-powered, user reviews
-[^ref-23]: [My Abandonware – King's Quest VI](https://www.myabandonware.com/game/king-s-quest-vi-heir-today-gone-tomorrow-1fy) – – 4.44/5 (125 votes), preservation downloads
+[^ref-23]: My Abandonware – King's Quest VI *(link removed: it led to a different game's page)* – – 4.44/5 (125 votes), preservation downloads
 [^ref-24]: [HowLongToBeat – King's Quest VI](https://howlongtobeat.com/) – – 78% rating, 6.5h main story, 8.5h completionist
 [^ref-25]: [Strong Museum – Jane Jensen](https://web.archive.org/web/*/https://www.museumofplay.org/games/gabriel-knight-sins-of-the-fathers/) – – Jensen joined Sierra 1990, "computer nerds who can write" ad
 [^ref-26]: [PCGamingWiki – King's Quest VI](https://www.pcgamingwiki.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – Technical specs, Windows high-res portraits, system requirements

@@ -185,7 +185,7 @@ This game has been included in the following collections:
 [^ref-15]: [Digital Antiquarian – Quest for Glory III and IV](https://www.filfre.net/2018/10/quest-for-glory-iii-and-iv/) – – historical analysis
 [^ref-16]: [StrategyWiki – Quest for Glory III](https://strategywiki.org/wiki/Quest_for_Glory_III) – walkthrough, game guide
 [^ref-17]: [The Adventure Gamer Blog – QFG III Review](https://advgamer.blogspot.com/2018/03/game-105-quest-for-glory-iii-wages-of.html) – detailed playthrough analysis
-[^ref-18]: [IMDB – Quest for Glory III](https://www.imdb.com/title/tt0420846/) – user ratings
+[^ref-18]: IMDB – Quest for Glory III *(link removed: it led to a different game's page)* – user ratings
 [^ref-19]: [Speedrun.com – Quest for Glory III](https://www.speedrun.com/qfg3) – speedrun leaderboards
 [^ref-20]: [TV Tropes – Quest for Glory III](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryIII) – trope analysis, easter eggs
 [^ref-21]: [ScummVM Wiki – Quest for Glory III](https://wiki.scummvm.org/index.php?title=Quest_for_Glory_III%3A_Wages_of_War) – technical compatibility

@@ -10,7 +10,7 @@ series: Codename (standalone)
 engine: SCI0
 protagonist: Johnny Westland
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Mark Seibert]
 description: 'Codename: ICEMAN is a graphical adventure game made with the SCI engine
   and published by Sierra On-Line in 1990. The lead designer was Jim Walls, a former...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, codename-standalone, sci, sierra]
 ---
 # Codename: ICEMAN
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 
 ## Overview
@@ -248,11 +248,11 @@ Jim Walls would continue at Sierra with Police Quest 3 before departing the comp
 [^ref-10]: [Sierra Gamers – Codename Iceman](https://www.sierragamers.com/codename-iceman/) – download resources, manual availability
 [^ref-11]: [AGDInteractive Forum – Codename: ICEMAN Discussion](http://www.agdinteractive.com/forum/viewtopic.php?t=14656) – community discussion, Jim Walls career context
 [^ref-12]: [Internet Archive – Codename Iceman Manual](https://archive.org/stream/Codename_Iceman_Manual/Codename_Iceman_Manual_djvu.txt) – manual preservation
-[^ref-13]: [MobyGames](https://www.mobygames.com/game/1012/codename-iceman/) – comprehensive game database entry with credits and specs
+[^ref-13]: MobyGames *(link removed: it led to a different game's page)* – comprehensive game database entry with credits and specs
 [^ref-14]: [Giant Bomb](https://www.giantbomb.com/codename-iceman/3030-13887/) – game database with community information
 [^ref-15]: [IGDB](https://www.igdb.com/games/codename-iceman) – Internet Game Database entry
-[^ref-16]: [Wikidata](https://www.wikidata.org/wiki/Q2591925) – structured metadata
+[^ref-16]: Wikidata *(link removed: it led to a different game's page)* – structured metadata
 [^ref-17]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Codename:_ICEMAN) – technical compatibility information
-[^ref-18]: [MyAbandonware](https://www.myabandonware.com/game/codename-iceman-1au) – preservation and download site
+[^ref-18]: MyAbandonware *(link removed: it led to a different game's page)* – preservation and download site
 [^ref-19]: [UVList](https://www.uvlist.net/game-155604-codename-iceman) – Universal Videogame List entry
 [^ref-20]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Codename:_ICEMAN) – wiki with detailed information

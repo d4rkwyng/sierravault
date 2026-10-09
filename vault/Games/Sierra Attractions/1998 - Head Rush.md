@@ -10,7 +10,7 @@ series: You Don't Know Jack
 engine: Proprietary (Jellyvision)
 protagonist: N/A
 sierra_lineage: Sierra Published
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: Head Rush, also known as *You Don't Know Jack Headrush*, is a trivia
   video game released on August 31, 1998 that serves as a teen-oriented spin-off of
   the...
@@ -18,7 +18,7 @@ tags: [1990s, sierra, you-don-t-know-jack]
 ---
 # Head Rush
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -223,7 +223,7 @@ In retrospect, Head Rush serves as a time capsule of late 1990s teen culture, wi
 [^ref-12]: [Macintosh Repository – Head Rush](https://www.macintoshrepository.org/5804-head-rush) – Mac platform support, file sizes, OS compatibility
 [^ref-13]: [Dynamix Fandom Wiki – Sierra Entertainment](https://dynamix.fandom.com/wiki/Sierra_Entertainment) – Sierra publishing history, company structure
 [^ref-14]: [Wikipedia – You Don't Know Jack (franchise)](https://en.wikipedia.org/wiki/You_Don%27t_Know_Jack_(franchise)) – series history, release dates, franchise overview
-[^ref-15]: [GameFAQs – You Don't Know Jack: Head Rush](https://gamefaqs.gamespot.com/pc/195879-you-dont-know-jack-head-rush) – release information, platform data
+[^ref-15]: GameFAQs – You Don't Know Jack: Head Rush *(link removed: it led to a different game's page)* – release information, platform data
 [^ref-16]: [Internet Archive – YDKJ Series](https://archive.org/search?query=you+don%27t+know+jack+headrush) – preservation, historical downloads
 [^ref-17]: Steam Store – You Don't Know Jack HeadRush (removed from store) – formerly available at app/252880, no longer listed
 [^ref-18]: [Jellyvision/Jackbox Games](https://www.jackboxgames.com/) – developer history, company information

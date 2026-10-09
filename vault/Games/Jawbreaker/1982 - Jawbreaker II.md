@@ -10,14 +10,14 @@ series: Jawbreaker
 engine: Machine Language
 protagonist: Happy Face character
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Jawbreaker II is an arcade-style maze game developed by Chuck Bueche
   (credited as "Chuckles") for On-Line Systems in 1982. Unlike the original Jawbreaker,...
 tags: [1980s, jawbreaker, sierra]
 ---
 # Jawbreaker II
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -204,4 +204,4 @@ A later version, Jawbreaker IV, was also released, continuing the series[^ref-1]
 [^ref-16]: [Midway Mfg. Co. v. Dirkschneider (1981)](https://law.justia.com/cases/federal/district-courts/FSupp/543/466/2273010/) — legal-precedent case establishing the "ten-foot rule" that Jawbreaker II was deliberately designed to pass
 [^ref-20]: [Hackers: Heroes of the Computer Revolution (Steven Levy, 1984)](https://www.stevenlevy.com/books/hackers/) — book that documented On-Line Systems' early arcade development including the Jawbreaker series
 [^ref-21]: [IGDB – Jawbreaker II](https://www.igdb.com/games/jawbreaker-ii) — Internet Games Database entry, multi-platform release confirmation
-[^ref-22]: [LaunchBox Games Database – Jawbreaker II](https://gamesdb.launchbox-app.com/games/details/51491-jawbreaker-ii) — platform listing, cover art, metadata
+[^ref-22]: LaunchBox Games Database – Jawbreaker II *(link removed: it led to a different game's page)* — platform listing, cover art, metadata

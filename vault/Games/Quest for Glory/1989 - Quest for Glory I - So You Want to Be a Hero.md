@@ -237,11 +237,11 @@ This game has been included in the following collections:
 [^ref-18]: [Amiga Reviews Archive](https://amigareviews.leveluphost.com/qfg.htm) – Amiga version reviews
 [^ref-19]: [Adventure Classic Gaming – Quest for Glory I Review](https://adventureclassicgaming.com/index.php/site/reviews/174/) – 4/5 review by Don Rayner
 [^ref-20]: [RPGamer – Quest for Glory Reviews](https://rpgamer.com/games/qfg/qfg1/) – modern retrospective reviews
-[^ref-21]: [HowLongToBeat – Quest for Glory I](https://howlongtobeat.com/game/7479) – completion times
+[^ref-21]: HowLongToBeat – Quest for Glory I *(link removed: it led to a different game's page)* – completion times
 [^ref-22]: [Speedrun.com – Quest for Glory I](https://www.speedrun.com/qfg1) – speedrun leaderboards
 [^ref-23]: [Abandonware DOS – Quest for Glory](https://www.abandonwaredos.com/abandonware-game.php?abandonession=quest-for-glory-i-so-you-want-to-be-a-hero) – user ratings
 [^ref-24]: [GameFAQs – Hero's Quest](https://gamefaqs.gamespot.com/pc/562667-heros-quest-so-you-want-to-be-a-hero) – user reviews, guides
 [^ref-25]: [TV Tropes – Quest for Glory I](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryI) – trope analysis, design details
-[^ref-26]: [IMDB – Quest for Glory (VGA)](https://www.imdb.com/title/tt0420843/) – VGA remake credits
+[^ref-26]: IMDB – Quest for Glory (VGA) *(link removed: it led to a different game's page)* – VGA remake credits
 [^ref-27]: [ScummVM Wiki – Quest for Glory I](https://wiki.scummvm.org/index.php?title=Quest_for_Glory:_So_You_Want_To_Be_A_Hero) – technical compatibility
 [^ref-28]: [The Cutting Room Floor – Quest for Glory I](https://tcrf.net/Quest_for_Glory:_So_You_Want_to_Be_a_Hero) – unused content

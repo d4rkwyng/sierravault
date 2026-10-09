@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Sound Operating System
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: 'Front Page Sports: Football (often referred to as Front Page Sports
   Football 92 or simply FPS Football) was the inaugural entry in what would become
   one of...'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, front-page-sports, sierra]
 ---
 # Front Page Sports: Football
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -238,7 +238,6 @@ GameSpot's assessment that the game was "more fun when you are not playing" actu
 - [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
 
 **Download / Preservation**
-- [MyAbandonware – Front Page Sports: Football](https://www.myabandonware.com/game/front-page-sports-football-pro-1m4) — abandonware preservation download
 - [Internet Archive – FP Sports Football](https://archive.org/details/msdos_Front_Page_Sports_Football_1992_Sierra) — DOS edition preservation
 
 ## See Also

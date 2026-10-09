@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: Proprietary (Windows)
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Hoyle Casino 2004 is a casino simulation game developed and published
   by Sierra Entertainment, released on September 2, 2003 for Windows PC and Pocket
   PC...
@@ -18,7 +18,7 @@ tags: [2000s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Casino 2004
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -299,6 +299,6 @@ Hoyle Casino 2004 occupies an interesting position in the history of casino simu
 [^ref-16]: [Amazon India – Hoyle Casino 2004](https://www.amazon.in/Sierra-97462-Hoyle-Casino-2004/dp/B000083JXU) – brand, platform confirmation, customer rating
 [^ref-17]: [Best Buy – Hoyle Casino 2004](https://www.bestbuy.com/site/hoyle-casino-2004-windows/5884402.p?skuId=5884402) – model number, SKU, platform
 [^ref-18]: [RAWG – Hoyle Casino 2004](https://rawg.io/games/hoyle-casino-2004) – alternate release date listing, developer attribution
-[^ref-19]: [ESRB Ratings – Hoyle Casino 2004](https://www.esrb.org/ratings/8943/hoyle-casino-2004/) — ESRB Teen rating, gambling-content descriptor, official platform list
+[^ref-19]: ESRB Ratings – Hoyle Casino 2004 *(link removed: it led to a different game's page)* — ESRB Teen rating, gambling-content descriptor, official platform list
 [^ref-20]: [Adventure Classic Gaming – Sierra Hoyle franchise retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for the 2003-2005 Hoyle portfolio coordination
 [^ref-21]: [IGDB – Hoyle Casino 2004](https://www.igdb.com/games/hoyle-casino-2004) — Internet Games Database entry, Pocket PC platform confirmation, release-year metadata

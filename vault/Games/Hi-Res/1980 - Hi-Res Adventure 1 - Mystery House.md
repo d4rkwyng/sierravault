@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Unnamed protagonist
 sierra_lineage: Core Sierra
-last_updated: '2026-05-15'
+last_updated: '2026-10-09'
 description: Mystery House is a landmark adventure game released by On-Line Systems
   on May 5, 1980. Designed, written, and illustrated by Roberta Williams and programmed...
 tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #1: Mystery House
 
-<small style="color: gray">Last updated: May 15, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -153,7 +153,7 @@ In 2009, Mystery House was ported to iOS, introducing the pioneering title to a 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Mystery_House) – Comprehensive article on Mystery House
 [^ref-2]: [Sierra Help Pages](https://www.sierrahelp.com/Misc/IntroductionToRWAnth.html) – Ken Williams' introduction to The Roberta Williams Anthology
 [^ref-3]: [Chicago Sun-Times](https://web.archive.org/web/20150402104248/http://www.highbeam.com/doc/1P2-3915183.html) – 1988 interview: "Mom goes on-line with adventurous computer games"
-[^ref-4]: [Google Books – Horror in Video Games](https://books.google.com/books?id=VnAoDwAAQBAJ) – Rouse III, Richard (2009). "Match Made in Hell: The Inevitable Success of the Horror Genre in Video Games" in Horror in Video Games: Essays on the Fusion of Fear and Play. McFarland. ISBN 978-0-7864547-9-2
+[^ref-4]: Google Books – Horror in Video Games *(link removed: it led to a different game's page)* – Rouse III, Richard (2009). "Match Made in Hell: The Inevitable Success of the Horror Genre in Video Games" in Horror in Video Games: Essays on the Fusion of Fear and Play. McFarland. ISBN 978-0-7864547-9-2
 [^ref-5]: [Computer Gaming World](http://www.cgwmuseum.org/) – Mark Marlow's 1982 review, Vol. 1, No. 2
 [^ref-6]: [American Journal of Play](https://www.journalofplay.org/) – Nooney, Laine (2017). "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game"
 [^ref-7]: [Amazon – Once Upon a Point and Click](https://www.amazon.com/dp/B01N6Y5XKJ) – Craddock, David L. (2017). Once Upon a Point and Click. Chapter 1: Interactive Page-Turners

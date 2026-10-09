@@ -10,7 +10,7 @@ series: N/A
 engine: 6502/Z80 Assembly
 protagonist: Spook
 sierra_lineage: Sierra Published
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 composer: [Paul Butler]
 description: Wizard of Id's WizMath is an educational mathematics game released in
   1984 by Sierra On-Line, combining puzzle gameplay with characters from the beloved...
@@ -18,7 +18,7 @@ tags: [1980s, educational, n-a, sierra]
 ---
 # Wizard of Id's WizMath
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -213,7 +213,7 @@ Modern players may find WizMath most interesting as a historical curiosity—a s
 [^ref-5]: [Lemon64 – Wizard of Id's WizMath](https://www.lemon64.com/game/wizard-of-ids-wizmath) – Commodore 64 information, user review by Frightmare, developer credit for Sigma Development Group
 [^ref-6]: [PriceCharting – Wizard of Id's Wiz Math](https://www.pricecharting.com/game/colecovision/wizard-of-id's-wiz-math) – sales data, pricing history, early release date information, collector market data
 [^ref-7]: [MobyGames – Wizard of Id's WizMath Credits](https://www.mobygames.com/game/41277/wizard-of-ids-wizmath/credits/colecovision/) – ColecoVision version development credits
-[^ref-8]: [Wikidata – Wizard of Id's WizMath](https://www.wikidata.org/wiki/Q20198953) – structured data, identifiers
+[^ref-8]: Wikidata – Wizard of Id's WizMath *(link removed: it led to a different game's page)* – structured data, identifiers
 [^ref-9]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
 [^ref-10]: [Apple II Bits – Wizard of Id](https://www.apl2bits.net/2014/02/03/wizard-of-id/) – context on Wizard of Id Sierra games
 [^ref-11]: [Sierra Gamers – Wizard of Id WizMath](https://www.sierragamers.com/wizard-of-id-wizmath/) – Sierra fan community entry

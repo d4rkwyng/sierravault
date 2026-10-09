@@ -10,14 +10,14 @@ series: Pharaoh
 engine: Pharaoh Engine
 protagonist: Egyptian Governor (player-named)
 sierra_lineage: Sierra Published
-last_updated: '2026-05-15'
+last_updated: '2026-10-09'
 description: '**Cleopatra: Queen of the Nile** is an expansion pack for the city-building
   strategy game Pharaoh, developed by BreakAway Games and published by Sierra...'
 tags: [2000s, pharaoh, sierra]
 ---
 # Cleopatra: Queen of the Nile
 
-<small style="color: gray">Last updated: May 15, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -311,4 +311,4 @@ The monument-building mechanics, in particular, provided a distinctive hook that
 [^ref-23]: [PC Gaming Wiki Community](https://community.pcgamingwiki.com/files/file/1762-cleopatra-widescreen-fix/) – Widescreen patch availability
 [^ref-24]: [GameSpot](https://www.gamespot.com/reviews/pharaoh-review/1900-2545838/) – Game comparison quote
 [^ref-25]: [GamePressure](https://www.gamepressure.com/download.asp?ID=58848) – Community patches
-[^ref-27]: [Amazon](https://www.amazon.com/Cleopatra-Queen-of-the-Nile/dp/B00004W4QK) – Customer reviews
+[^ref-27]: Amazon *(link removed: it led to a different game's page)* – Customer reviews

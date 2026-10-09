@@ -10,7 +10,7 @@ series: Micro Miniatures
 engine: Impressions Engine
 protagonist: US Army Captain
 sierra_lineage: Sierra Published
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 composer: [Christopher J. Denman]
 description: Fort Apache is a turn-based strategy game set in the American Wild West
   during the Gold Rush era of the 1880s. Developed by Impressions Games and published...
@@ -18,7 +18,7 @@ tags: [1990s, micro-miniatures, sierra, strategy]
 ---
 # Fort Apache
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -207,12 +207,12 @@ The game's mixed reception reflects the tensions between promising premises and 
 [^ref-9]: [GameFAQs – Fort Apache](https://gamefaqs.gamespot.com/pc/564432-fort-apache) – game database entry
 [^ref-10]: [Hall of Light – Fort Apache](https://hol.abime.net/1653) – Amiga database with technical details
 [^ref-16]: [ClassicReload – Fort Apache](https://classicreload.com/fort-apache.html) – browser emulation
-[^ref-17]: [Abandonware France – Fort Apache](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2315) – French preservation site
-[^ref-18]: [Wikidata – Q5472589](https://www.wikidata.org/wiki/Q5472589) – structured game data
+[^ref-17]: Abandonware France – Fort Apache *(link removed: it led to a different game's page)* – French preservation site
+[^ref-18]: Wikidata – Q5472589 *(link removed: it led to a different game's page)* – structured game data
 [^ref-19]: [RAWG – Fort Apache](https://rawg.io/games/fort-apache) – modern game database entry
 [^ref-20]: [Moby Games – Rorke's Drift](https://www.mobygames.com/game/21587/rorkes-drift/) – series predecessor information
 [^ref-21]: [LaunchBox Games Database – Fort Apache (Impressions)](https://gamesdb.launchbox-app.com/games/details/fort-apache) — community-curated metadata, multi-platform release confirmation, cover-art reference
 [^ref-22]: [Hall of Light – Fort Apache (Amiga)](https://hol.abime.net/3014) — Amiga community database with magazine review scores and technical specifications
 [^ref-23]: [Atarimania – Fort Apache (Atari ST)](https://www.atarimania.com/game-atari-st-fort-apache_9148.html) — Atari ST community database with technical specifications and screenshots
 [^ref-24]: [Adventure Classic Gaming – Impressions Games retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Impressions Games' Micro Miniatures wargame era
-[^ref-25]: [Lemon Amiga – Fort Apache](https://www.lemonamiga.com/games/details.php?id=1217) — Amiga community database with user ratings and 1991 release confirmation
+[^ref-25]: Lemon Amiga – Fort Apache *(link removed: it led to a different game's page)* — Amiga community database with user ratings and 1991 release confirmation

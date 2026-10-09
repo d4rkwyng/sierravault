@@ -10,7 +10,7 @@ series: 3-D Ultra Pinball
 engine: 3-D Ultra Pinball Engine (improved from Thrillride)
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-15'
+last_updated: '2026-10-09'
 description: '3-D Ultra NASCAR Pinball is a virtual pinball game that combines two
   of America''s favorite pastimes: energetic pinball and high-speed car racing. Released...'
 tags: [1990s, 3-d-ultra-pinball, dynamix, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra NASCAR Pinball
 
-<small style="color: gray">Last updated: May 15, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -212,7 +212,7 @@ The game was part of Sierra's broader 3-D Ultra Pinball franchise, though specif
 [^ref-12]: [MyAbandonware – 3-D Ultra NASCAR Pinball](https://www.myabandonware.com/game/3-d-ultra-nascar-pinball-3ff) – user ratings, download versions, user comments, technical issues
 
 [^ref-17]: [IGDB – 3-D Ultra NASCAR Pinball](https://www.igdb.com/search?q=3-D+Ultra+NASCAR+Pinball) — Game database cross-reference
-[^ref-18]: [LaunchBox Games Database – 3-D Ultra NASCAR Pinball](https://gamesdb.launchbox-app.com/games/details/3-d-ultra-nascar-pinball) — community-curated metadata, Windows/Mac platform tagging, cover-art reference
+[^ref-18]: LaunchBox Games Database – 3-D Ultra NASCAR Pinball *(link removed: it led to a different game's page)* — community-curated metadata, Windows/Mac platform tagging, cover-art reference
 [^ref-19]: [Sierra Chest – 3-D Ultra NASCAR Pinball product page](https://sierrachest.com/index.php?a=games&id=345&fld=general) — Sierra Chest packaging archive and Sierra Attractions sublabel context
 [^ref-20]: [PCGamingWiki – 3-D Ultra NASCAR Pinball](https://www.pcgamingwiki.com/wiki/3-D_Ultra_NASCAR_Pinball) — technical documentation, modern-OS compatibility notes
 [^ref-21]: [MobyGames – 3-D Ultra NASCAR Pinball](https://www.mobygames.com/game/3209/3-d-ultra-nascar-pinball/) — game database entry, full credits and platform listing

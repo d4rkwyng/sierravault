@@ -266,4 +266,4 @@ The 1988 release also demonstrates the ongoing appeal of Verne's prescient visio
 [^ref-21]: [Metacritic – Extended Edition](https://www.metacritic.com/game/20-000-leagues-under-the-sea---extended-edition---/) – release date, new features
 [^ref-22]: [MobyGames – Living a Book Version](https://www.mobygames.com/game/91531/20000-leagues-under-the-sea/) – release dates, developer philosophy, platform information
 [^ref-23]: [Internet Archive – Russian Reader](https://archive.org/details/isbn_9781535018203) – educational publication information
-[^ref-24]: [MobyGames – 20,000 Leagues Under the Sea](https://www.mobygames.com/game/25082/20000-leagues-under-the-sea/) – genre information
+[^ref-24]: MobyGames – 20,000 Leagues Under the Sea *(link removed: it led to a different game's page)* – genre information

@@ -10,14 +10,14 @@ series: N/A
 engine: Impressions Engine
 protagonist: N/A
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: Front Lines is a tactical wargame set in the "near" future, developed
   and published by Impressions Games in 1994. The game presents a hypothetical military...
 tags: [1990s, impressions, n-a, sierra, strategy]
 ---
 # Front Lines
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -233,7 +233,7 @@ The game is documented in gaming databases.[^ref-7][^ref-8][^ref-9][^ref-10]
 [^ref-6]: [Old-Games.com – Front Lines](https://www.old-games.com/download/5258/front-lines) – version differences, file sizes, compatibility information, modem multiplayer, geographical features, AI turn times, animation criticism, Warlords/C&C comparison, user reviews
 [^ref-7]: [Giant Bomb – Front Lines](https://www.giantbomb.com/front-lines/3030-36710/) – game wiki entry with community ratings
 [^ref-8]: [IGDB – Front Lines](https://www.igdb.com/games/front-lines) – Internet Games Database entry
-[^ref-9]: [GameFAQs – Front Lines](https://gamefaqs.gamespot.com/pc/563739-front-lines) – game database entry with user reviews
+[^ref-9]: GameFAQs – Front Lines *(link removed: it led to a different game's page)* – game database entry with user reviews
 [^ref-10]: [UVList – Front Lines](https://www.uvlist.net/game-8395-Front+Lines) – Universal Videogame List entry
 [^ref-11]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – company history, game catalog listing Front Lines (1994), founder David Lester, Sierra acquisition 1995
 [^ref-12]: [Home of the Underdogs – Front Lines](https://web.archive.org/web/*/homeoftheunderdogs.net/game.php?id=858) – detailed review, Perfect General comparison, gameplay analysis, two thumbs up rating

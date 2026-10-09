@@ -10,14 +10,14 @@ series: Standalone
 engine: Proprietary (Impressions)
 protagonist: Ship Captain (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-04-21'
+last_updated: '2026-10-09'
 description: High Seas Trader is a naval strategy and trading simulation game that
   puts players in the role of a young impoverished nobleman who must take to the high...
 tags: [1990s, sierra, standalone, strategy]
 ---
 # High Seas Trader
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -163,7 +163,7 @@ Modern retrospectives acknowledge that while the game "aged better on nostalgia 
 [^ref-23]: [Vogons](http://www.vogons.org/viewtopic.php?t=4363) – - CD-ROM technical details
 [^ref-24]: [Vogons](https://www.vogons.org/viewtopic.php?f=33&t=55942) – - Sound card limitations
 [^ref-25]: [Cheatbook](https://www.cheatbook.de/files/highsea.htm) – - Save game modification
-[^ref-26]: [MobyGames](https://www.mobygames.com/game/3817/patrician-ii-quest-for-power/) – - Genre comparison
+[^ref-26]: MobyGames *(link removed: it led to a different game's page)* – - Genre comparison
 [^ref-27]: [Reddit Gaming Suggestions](https://www.reddit.com/r/gamingsuggestions/comments/18opokn/looking_for_modern_version_of_high_seas_trader/) – - Modern gaming community discussion
 [^ref-28]: [ClassicReload.com - High Seas Trader](https://www.classicreload.com/high-seas-trader.html) – - Educational value and historical learning
 [^ref-29]: [Strategy Gaming Archives](https://www.strategyarchive.com/high-seas-trader/) – - Economic simulation legacy and community appreciation

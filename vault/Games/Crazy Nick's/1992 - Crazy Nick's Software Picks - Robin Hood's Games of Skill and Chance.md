@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks
 engine: SCI1.1
 protagonist: Robin Hood
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'Crazy Nick''s Software Picks: Robin Hood''s Games of Skill and Chance
   is a mini-game compilation released by Sierra On-Line in 1992 for DOS. The game
   features...'
@@ -18,7 +18,7 @@ tags: [1990s, crazy-nick-s-software-picks, sci, sierra, strategy]
 ---
 # Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -231,7 +231,7 @@ The game's modest reception and relative obscurity compared to its source materi
 [^ref-12]: [RAWG – Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance](https://rawg.io/games/crazy-nicks-software-picks-robin-hoods-games-of-sk) – release date, developer, publisher, platform
 [^ref-13]: [Giant Bomb](https://www.giantbomb.com/crazy-nicks-software-picks/3025-5267/) – Game database with series information
 [^ref-14]: [IGDB](https://www.igdb.com/games/crazy-nicks-software-picks-robin-hoods-games-of-skill-and-chance) – Internet Game Database entry
-[^ref-15]: [GameFAQs](https://gamefaqs.gamespot.com/pc/563827-crazy-nicks-software-picks) – Game database entry
+[^ref-15]: GameFAQs *(link removed: it led to a different game's page)* – Game database entry
 [^ref-16]: [Wikidata](https://www.wikidata.org/wiki/Q28687789) – Structured metadata
 [^ref-17]: [Internet Archive](https://archive.org/details/msdos_Crazy_Nicks_Software_Picks_-_Robin_Hoods_Games_of_Skill_and_Chance_1992) – Playable preservation copy
 [^ref-18]: [UVList](https://www.uvlist.net/game-217098-crazy-nicks-software-picks-robin-hoods-games-of-skill-and-chance) – Universal Videogame List

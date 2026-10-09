@@ -171,7 +171,7 @@ The remake's success lies not merely in its technical achievements but in its ph
 
 **Download / Preservation**
 - [AGD Interactive Official Site](https://www.agdinteractive.com/games/qfg2/) - Official free download[^ref-3]
-- [MyAbandonware](https://www.myabandonware.com/game/quest-for-glory-ii-vga-remake-bz3) - Alternative download[^ref-12]
+- MyAbandonware - Alternative download[^ref-12]
 - [ClassicReload](https://classicreload.com/quest-for-glory-ii-vga-remake.html) - Browser playable version[^ref-13]
 
 **SierraVault Mirror:**
@@ -210,7 +210,7 @@ The remake's success lies not merely in its technical achievements but in its ph
 [^ref-9]: [AGD Interactive – King's Quest II Page](https://www.agdinteractive.com/games/kq2/about/about.html) – download statistics, development background, team history
 [^ref-10]: [Sierra Fandom Wiki – Quest for Glory II VGA Remake](https://sierra.fandom.com/wiki/Quest_for_Glory_II_VGA_Remake) – gameplay details, character classes, series information
 [^ref-11]: [Wikipedia – Quest for Glory II: Trial by Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_II:_Trial_by_Fire#VGA_remake) – VGA remake section, historical context
-[^ref-12]: [MyAbandonware – Quest for Glory II VGA Remake](https://www.myabandonware.com/game/quest-for-glory-ii-vga-remake-bz3) – download availability, platform information
+[^ref-12]: MyAbandonware – Quest for Glory II VGA Remake *(link removed: it led to a different game's page)* – download availability, platform information
 [^ref-13]: [ClassicReload – Quest for Glory II VGA Remake](https://classicreload.com/quest-for-glory-ii-vga-remake.html) – browser playable version, preservation
 [^ref-14]: [Sierra Help Wiki – Quest for Glory II VGA Remake](https://wiki.sierrahelp.com/index.php/Quest_for_Glory_II_VGA_Remake) – technical support, compatibility guides
 [^ref-15]: [Abandonware DOS – Quest for Glory II VGA Remake](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Quest+for+Glory+II+VGA+Remake) – genre classification, user ratings, download information

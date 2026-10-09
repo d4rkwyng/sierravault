@@ -10,14 +10,14 @@ series: Homeworld
 engine: Modified Homeworld engine
 protagonist: Kiith Somtaaw Fleet Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-05-27'
+last_updated: '2026-10-09'
 description: 'Homeworld: Cataclysm is a standalone real-time strategy sequel to the
   acclaimed Homeworld, developed by Barking Dog Studios and published by Sierra...'
 tags: [2000s, homeworld, sierra, strategy]
 ---
 # Homeworld: Cataclysm
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -190,14 +190,14 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [^ref-36]: [Internet Archive Description](https://archive.org/details/homeworld-cataclysm-manual) – Support modules description
 [^ref-37]: [Web Archive - FiringSquad Review](https://web.archive.org/web/20001202180200/http://www.firingsquad.com/games/homeworldcataclysm/) – Revolutionary gameplay praise
 [^ref-38]: [Web Archive - GameSpy Review](https://web.archive.org/web/20001018193900/http://www.gamespy.com/reviews/september00/homeworldcataclysm/) – Campaign praise
-[^ref-39]: [Game Over Online Review](https://www.game-over.net/reviews.php?id=461&page=reviews) – Story coherence assessment
+[^ref-39]: Game Over Online Review *(link removed: it led to a different game's page)* – Story coherence assessment
 [^ref-40]: [Web Archive - Electric Playground Review](https://web.archive.org/web/20001109122900/http://www.elecplay.com/reviews/pc/homeworldcataclysm.html) – Aliens comparison
 [^ref-41]: [Web Archive - CNET Full Review](https://web.archive.org/web/20001018151300/http://www.cnet.com/gamecenter/0-10104-600-2628735.html) – "Game original should have been"
 [^ref-42]: [GameFAQs User Reviews](https://gamefaqs.gamespot.com/pc/303756-homeworld-cataclysm/reviews) – User review scores
 [^ref-43]: [Web Archive - Game Informer](https://web.archive.org/web/20010110074300/http://www.gameinformer.com/reviews/review_detail.cfm?ITEM_ID=3047) – "Doesn't suck" praise
 [^ref-44]: [Eurogamer - Cataclysm Patch Coverage](https://www.eurogamer.net/article-29983) – "Excellent adaptation of the Homeworld formula" assessment
 [^ref-45]: [ModDB - Homeworld: Cataclysm](https://www.moddb.com/games/homeworld-cataclysm) – Community rating and comments
-[^ref-46]: [IMDb - Homeworld: Cataclysm](https://www.imdb.com/title/tt0270228/) – User rating
+[^ref-46]: IMDb - Homeworld: Cataclysm *(link removed: it led to a different game's page)* – User rating
 [^ref-47]: [RavingLuhn - How to Run Homeworld Cataclysm](https://ravingluhnblog.wordpress.com/2017/03/27/how-to-run-homeworld-cataclysm/) – Genre combination analysis ("space-based strategy game with an organic B-movie horror plot")
 [^ref-48]: [Space Game Junkie - What Happened to Homeworld: Cataclysm?](https://www.spacegamejunkie.com/oped/happened-homeworld-cataclysm-part-maybe/) – Brian Rubin's investigation including Chris Stewart email interview
 [^ref-49]: [Paul Ruskay – Studio X Labs site](http://www.studioxlabs.com/) – Composer's official site with Homeworld series audio-production background and preservation quotes

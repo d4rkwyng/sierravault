@@ -10,14 +10,14 @@ series: Standalone
 engine: Proprietary (Dynamix)
 protagonist: Basketball Characters
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-15'
+last_updated: '2026-10-09'
 description: Bouncers is an unconventional arcade basketball game developed by Dynamix
   and published by Sega of America exclusively for the Sega CD in December 1994. The...
 tags: [1990s, dynamix, sierra, standalone]
 ---
 # Bouncers
 
-<small style="color: gray">Last updated: May 15, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -258,13 +258,13 @@ The game demonstrates both the creative ambition and technical limitations of mi
 [^ref-8]: [Games Database - Bouncers](https://www.gamesdatabase.org/game/sega-cd/bouncers) - Game description and character information
 [^ref-9]: [Comics Beat - John Garvin Interview](https://www.comicsbeat.com/) - Garvin career progression from Dynamix to Bend Studio
 [^ref-10]: [IMDb - Bouncers](https://www.imdb.com/title/tt0402072/) - Game classification, user ratings
-[^ref-11]: [GameFAQs - Bouncers Review](https://gamefaqs.gamespot.com/segacd/586434-bouncers/reviews) - User review by vgc2000
+[^ref-11]: [GameFAQs - Bouncers Review]((link removed: it led to a different game's page)/reviews) - User review by vgc2000
 [^ref-12]: [VGMdb - Bouncers](https://vgmdb.net/release/20733) - Soundtrack information, Get Loud! vol. 1 album, composer credits
 [^ref-13]: [Sega Retro - Bouncers Manual](https://segaretro.org/File:Bouncers_mcd_us_manual.pdf) - Scanned US manual (24 pages)
 [^ref-14]: [Giant Bomb - Bouncers](https://www.giantbomb.com/bouncers/3030-26282/) - Game wiki and community content
 [^ref-15]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) - Sierra acquisition, subsidiary history
 [^ref-16]: [RetroGamer - Dynamix History](https://www.retrogamer.net/retro_games/dynamix/) - Dynamix studio history and game catalog
-[^ref-17]: [GameFAQs - Bouncers](https://gamefaqs.gamespot.com/segacd/586434-bouncers) - Game database entry, user reviews
+[^ref-17]: GameFAQs - Bouncers *(link removed: it led to a different game's page)* - Game database entry, user reviews
 [^ref-18]: [UVList - Bouncers](https://www.uvlist.net/game-9137-Bouncers) - Universal Videogame List database entry
 [^ref-19]: [eBay - Bouncers Listing](https://www.ebay.com/sch/i.html?_nkw=bouncers+sega+cd) - Product description and market information
 [^ref-20]: [Price Charting - Bouncers](https://www.pricecharting.com/game/sega-cd/bouncers) - Collector pricing and market data

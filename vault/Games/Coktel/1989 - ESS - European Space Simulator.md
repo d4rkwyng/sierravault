@@ -10,7 +10,7 @@ series: E.S.S.
 engine: Coktel's game engine
 protagonist: Space shuttle commander
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: E.S.S. (European Space Simulator) is a space shuttle simulation game
   developed by Coktel Vision and Inférence, published by Tomahawk in 1989. Described
   as...
@@ -18,7 +18,7 @@ tags: [1980s, coktel, e-s-s, sierra, simulation]
 ---
 # E.S.S.: European Space Simulator
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -254,7 +254,7 @@ For modern players, E.S.S. holds value primarily as a historical curiosity—"on
 ## References
 
 [^ref-1]: [MobyGames – E.S.S.](https://www.mobygames.com/game/50218/ess/) – developer, publisher, platforms, release dates, ratings, gameplay description
-[^ref-2]: [Home of the Underdogs via MyAbandonware](https://www.myabandonware.com/game/e-s-s-mega-14z) – critical assessment, graphics comparison, historical significance
+[^ref-2]: Home of the Underdogs via MyAbandonware *(link removed: it led to a different game's page)* – critical assessment, graphics comparison, historical significance
 [^ref-3]: [LaunchBox Games Database – E.S.S.](https://gamesdb.launchbox-app.com/games/details/87685-ess) – gameplay mechanics, setting, release date
 [^ref-4]: [Lemon Amiga – E.S.S.](https://www.lemonamiga.com/games/details.php?id=2375) – magazine reviews, user comments, technical specs, credits
 [^ref-5]: [Wikipedia – E.S.S. Mega](https://en.wikipedia.org/wiki/E.S.S._Mega) – sequel information, review scores, platforms, gameplay features

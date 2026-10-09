@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 composer: [Evan Schiller]
 description: Hoyle Battling Ships And War is a digital board game compilation released
   by Sierra On-Line in 1998, featuring computerized versions of the classic naval...
@@ -18,7 +18,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Battling Ships And War
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -311,4 +311,4 @@ The collaboration between experienced Sierra personnel on this title, including 
 [^ref-17]: [MyAbandonware – Hoyle Battling Ships and War user reviews](https://www.myabandonware.com/game/hoyle-battling-ships-and-war-djz/reviews) – user-side rating (4.0/5), nostalgic-era comments, abandonware download metadata
 [^ref-18]: [Hoyle's Official Book of Games (Wikipedia)](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series chronology placing Battling Ships And War within Sierra's late-1990s Hoyle release schedule
 [^ref-19]: [IGDB – Hoyle Battling Ships and War](https://www.igdb.com/games/hoyle-battling-ships-and-war) – Internet Games Database entry, platform listings, release-year confirmation, genre tagging
-[^ref-20]: [GameFAQs – Hoyle Battling Ships and War](https://gamefaqs.gamespot.com/pc/575378-hoyle-battling-ships-and-war) – cross-platform release entry, user-rating placeholder, retail-listing confirmation
+[^ref-20]: GameFAQs – Hoyle Battling Ships and War *(link removed: it led to a different game's page)* – cross-platform release entry, user-rating placeholder, retail-listing confirmation

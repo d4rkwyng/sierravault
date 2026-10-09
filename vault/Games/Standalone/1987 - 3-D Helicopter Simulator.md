@@ -10,7 +10,7 @@ series: Standalone
 engine: Custom 3D Polygon Engine
 protagonist: Apache Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: 3-D Helicopter Simulator is a combat flight simulation game released
   by Sierra On-Line in September 1987 for DOS systems. The game placed players in
   the...
@@ -18,7 +18,7 @@ tags: [1980s, sierra, simulation, standalone]
 ---
 # 3-D Helicopter Simulator
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 
 ## Overview
@@ -255,7 +255,7 @@ For modern players, 3-D Helicopter Simulator serves primarily as a historical cu
 
 [^ref-10]: [Sierra Gamers – 3D Helicopter Sim](https://www.sierragamers.com/3d-helicopter-sim/) – designer credit (Joe Wofford), version information, Mobygames description citation
 [^ref-11]: [Internet Archive – 3-D Helicopter Simulator](https://archive.org/details/msdos_Sierras_3-D_Helicopter_Simulator_1987) – preservation copy and download
-[^ref-12]: [MyAbandonware – 3-D Helicopter Simulator](https://www.myabandonware.com/game/sierra-s-3-d-helicopter-simulator-50z) – user ratings and preservation
+[^ref-12]: MyAbandonware – 3-D Helicopter Simulator *(link removed: it led to a different game's page)* – user ratings and preservation
 [^ref-13]: [Hall of Light – 3-D Helicopter Simulator](https://hol.abime.net/5270) – Amiga database entry with technical specs
 [^ref-14]: [Lemon64 Database](https://www.lemon64.com/) – C64 gaming database reference
 [^ref-15]: [IGDB – 3-D Helicopter Simulator](https://www.igdb.com/games/sierras-3-d-helicopter-simulator) – game database entry

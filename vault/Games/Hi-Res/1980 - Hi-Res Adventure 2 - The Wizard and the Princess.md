@@ -11,7 +11,7 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: The Wanderer
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'Hi-Res Adventure #2: The Wizard and the Princess (also known as The
   Wizard and the Princess with a leading article) is a graphic adventure game written
   for...'
@@ -19,7 +19,7 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #2: The Wizard and the Princess
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -187,6 +187,6 @@ According to Wizard and the Princess, Harlin had divided the continent of Sereni
 [^ref-19]: [Internet Archive – Ares Magazine](https://archive.org/details/aresmagazine) – Chadwick, Ian. Ares Magazine #11 – Review calling it "most amazing, intriguing, fascinating"
 [^ref-20]: [King's Quest Wiki](https://kingsquest.fandom.com/wiki/Wizard_and_the_Princess) – Industry influence and King's Quest connections
 [^ref-21]: [Internet Archive – PC Magazine](https://archive.org/details/PC-Mag-1984-01-24) – Wiswell, Phil (January 24, 1984). "Coming Soon: Games For The PCjr". pp. 142–145
-[^ref-22]: [Amazon – The King's Quest Companion](https://www.amazon.com/dp/0078817617) – 2nd Edition – Expanded lore and wanderer's fate
+[^ref-22]: Amazon – The King's Quest Companion *(link removed: it led to a different game's page)* – 2nd Edition – Expanded lore and wanderer's fate
 [^ref-23]: [Old Games Download](https://oldgamesdownload.com/hi-res-adventure-2-the-wizard-and-the-princess/) – Game preservation and description
 [^ref-24]: [VGTimes](https://vgtimes.com/games/hi-res-adventure-2-the-wizard-and-the-princess/) – Modern retrospective rating

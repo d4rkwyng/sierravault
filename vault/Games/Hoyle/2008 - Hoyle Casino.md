@@ -10,14 +10,14 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Hoyle Casino 2008 represents a continuation of the long-running Hoyle
  casino game franchise, marketed as "the best-selling casino game of all time."...
 tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2008
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -260,6 +260,6 @@ The game is documented in gaming databases.[^ref-13][^ref-14][^ref-15][^ref-16][
 [^ref-16]: [Amazon - Hoyle Casino 2008](https://www.amazon.com/) - retail listing
 [^ref-17]: [UVList - Hoyle Casino](https://www.uvlist.net/) - Universal Videogame List
 [^ref-18]: [Price Charting - Hoyle](https://www.pricecharting.com/) - collector pricing
-[^ref-19]: [ESRB Ratings – Hoyle Casino 2008](https://www.esrb.org/ratings/22898/hoyle-casino-2008/) – ESRB rating, gambling-content descriptor, platform list, publisher attribution
+[^ref-19]: ESRB Ratings – Hoyle Casino 2008 *(link removed: it led to a different game's page)* – ESRB rating, gambling-content descriptor, platform list, publisher attribution
 [^ref-20]: [GameFAQs – Hoyle Casino 2008 (PC)](https://gamefaqs.gamespot.com/pc/943572-hoyle-casino-2008) – PC release-date confirmation, user-rated category, developer/publisher attribution
 [^ref-21]: [Apple Gamer Magazine archive – Hoyle Casino 2008 on Mac OS X](https://archive.org/details/apple-gamer-magazine-back-issues) – contemporary Apple-platform coverage confirming first Hoyle Casino Mac OS X release

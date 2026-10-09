@@ -12,7 +12,7 @@ series: Trophy Bass
 engine: null
 protagonist: Angler (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-15'
+last_updated: '2026-10-09'
 description: "Field & Stream: Trophy Bass 4 is a fishing simulation developed by Dynamix and published by Sierra Sports in 2000, featuring 25 real lakes, over 30 fish species, and 3D graphics with Force Feedback support."
 tags:
   - 2000s
@@ -23,7 +23,7 @@ tags:
 ---
 # Field & Stream: Trophy Bass 4
 
-<small style="color: gray">Last updated: May 15, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -114,7 +114,7 @@ The game is not available on modern digital platforms like Steam or GOG[^ref-12]
 Field & Stream: Trophy Bass 4 is not currently available on modern digital storefronts.
 
 **Download / Preservation**
-- [MyAbandonware – Field & Stream: Trophy Bass 4](https://www.myabandonware.com/game/field-stream-trophy-bass-4-dax) – Preservation download[^ref-9]
+- MyAbandonware – Field & Stream: Trophy Bass 4 – Preservation download[^ref-9]
 - [Internet Archive – Trophy Bass 4](https://archive.org/details/trophy-bass-4-fishing-full-standalone) – Full game preservation[^ref-14]
 
 **Manuals & Extras**
@@ -135,7 +135,7 @@ Field & Stream: Trophy Bass 4 is not currently available on modern digital store
 [^ref-5]: [IGN – Field & Stream: Trophy Bass 4](https://www.ign.com/games/field-stream-trophy-bass-4) – 8/10 review score
 [^ref-6]: [The Digital Antiquarian – Trophy Bass](https://www.filfre.net/?s=Trophy+Bass) – Commercial success analysis, Wal-Mart sales
 [^ref-8]: [GameSpot – Field & Stream: Trophy Bass 4 Review](http://www.gamespot.com/pc/sports/fieldstreamtrophybass4/review.html) – 8.2/10 by Stephen Poole, 640x480, Force Feedback, WON.net, multimedia tips
-[^ref-9]: [MyAbandonware – Field & Stream: Trophy Bass 4](https://www.myabandonware.com/game/field-stream-trophy-bass-4-dax) – 4.75/5 rating, preservation download
+[^ref-9]: MyAbandonware – Field & Stream: Trophy Bass 4 *(link removed: it led to a different game's page)* – 4.75/5 rating, preservation download
 [^ref-10]: [CNET Download – Trophy Bass 4](https://download.cnet.com/trophy-bass-4/3000-7536_4-10006451.html) – 4.2/5 user rating
 [^ref-11]: [MobyGames – Trophy Bass Series](https://www.mobygames.com/search/?q=Trophy+Bass) – Series timeline
 [^ref-12]: [Steam Search – Trophy Bass](https://store.steampowered.com/search/?term=Trophy+Bass) – Not available on Steam
@@ -143,8 +143,8 @@ Field & Stream: Trophy Bass 4 is not currently available on modern digital store
 [^ref-14]: [Internet Archive – Trophy Bass 4](https://archive.org/details/trophy-bass-4-fishing-full-standalone) – Full game preservation
 [^ref-15]: [SierraChest – Trophy Bass 4](https://sierrachest.com/index.php?a=games&id=584) – Box art, release documentation
 [^ref-16]: [ESRB – Trophy Bass 4](https://www.esrb.org/) – Rated E for Everyone
-[^ref-17]: [Wikidata – Trophy Bass 4](https://www.wikidata.org/wiki/Q7119131) – Structured metadata
+[^ref-17]: Wikidata – Trophy Bass 4 *(link removed: it led to a different game's page)* – Structured metadata
 [^ref-18]: [GameFAQs – Trophy Bass 4](https://gamefaqs.gamespot.com/pc/256377-trophy-bass-4/reviews) – User reviews
-[^ref-19]: [VGMDB – Field & Stream: Trophy Bass 4 Soundtrack](https://vgmdb.net/album/6417) – Composer credits for Neal Grandstaff and Ken Allen
+[^ref-19]: VGMDB – Field & Stream: Trophy Bass 4 Soundtrack *(link removed: it led to a different game's page)* – Composer credits for Neal Grandstaff and Ken Allen
 [^ref-20]: [IGDB – Field & Stream: Trophy Bass 4](https://www.igdb.com/games/field-stream-trophy-bass-4) — Internet Games Database entry, Windows platform tagging
 [^ref-21]: [LaunchBox Games Database – Trophy Bass 4](https://gamesdb.launchbox-app.com/games/details/field-stream-trophy-bass-4) — community-curated metadata, cover-art reference

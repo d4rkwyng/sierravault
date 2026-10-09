@@ -10,7 +10,7 @@ series: Metaltech
 engine: Custom 3D engine
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: 'The *Metaltech Earthsiege Expansion Pack* was an add-on expansion for
   the original *Metaltech: Earthsiege*, developed by Dynamix and released in 1995.
   The...'
@@ -18,7 +18,7 @@ tags: [1990s, metaltech, sierra, simulation, two-guys]
 ---
 # Metaltech Earthsiege Expansion Pack
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -314,6 +314,6 @@ While *MechWarrior 2* would ultimately become the genre's defining title, *Earth
 [^ref-47]: [MobyGames – Metaltech - Earthsiege Expansion Pack](https://www.mobygames.com/game/24568/) – game information and details
 [^ref-48]: [Adventure Classic Gaming – Dynamix simulation portfolio retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) – historical context for Dynamix's mid-1990s mech-combat output and the Earthsiege franchise positioning
 [^ref-49]: [IGDB – Metaltech: Earthsiege Expansion Pack](https://www.igdb.com/games/metaltech-earthsiege-expansion-pack) – Internet Games Database entry, base-game dependency confirmation, platform listing
-[^ref-50]: [LaunchBox Games Database – Metaltech: Earthsiege Expansion Pack](https://gamesdb.launchbox-app.com/games/details/24568-metaltech-earthsiege-expansion-pack) – community-curated metadata, cover-art reference, system-requirement metadata
+[^ref-50]: LaunchBox Games Database – Metaltech: Earthsiege Expansion Pack *(link removed: it led to a different game's page)* – community-curated metadata, cover-art reference, system-requirement metadata
 [^ref-51]: [Sierra Chest – Earthsiege Expansion Pack product page](https://sierrachest.com/index.php?a=games&id=183) – Sierra Chest packaging archive and release-info documentation
 [^ref-25]: [FASA Corporation – Battletech licensing history](https://en.wikipedia.org/wiki/BattleTech) — historical context for the Battletech IP loss that motivated Dynamix's clean-room Earthsiege design

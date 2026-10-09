@@ -10,14 +10,14 @@ series: Standalone
 engine: 6502 Assembly
 protagonist: Player (Stunt Pilot)
 sierra_lineage: Sierra Published
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: Stunt Flyer is a stunt-flying simulation released for the Commodore 64
   in September 1985. The game places players in control of a small prop-plane at an...
 tags: [1980s, sierra, simulation, standalone]
 ---
 # Stunt Flyer
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -177,7 +177,7 @@ However, this commitment to realism came at the cost of accessibility. The steep
 - Not currently available on modern digital storefronts
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/stunt-flyer-c94)[^ref-6]
+- MyAbandonware[^ref-6]
 
 **Community Resources**
 - [Lemon64](https://www.lemon64.com/game/stunt-flyer)[^ref-2]
@@ -220,9 +220,9 @@ However, this commitment to realism came at the cost of accessibility. The steep
 [^ref-3]: [Retro365 – Stunt Flyer: The First Game from Europe](https://retro365.blog/2023/05/24/stunt-flyer-the-first-game-from-europe/) – development history, designer credit, Pitts Special aircraft basis, flight curve analysis, competition details, manual information, transatlantic development collaboration
 [^ref-4]: [Sierra Gamers Forum – Stunt Flyer Discussion](https://www.sierragamers.com/forums/topic/list-of-sierra-products/) – Sierra product catalog context
 [^ref-5]: [Space Quest Fandom Wiki – Stunt Flyer](https://spacequest.fandom.com/wiki/Stunt_Flyer) – Space Quest 4 parody reference, cut content, restoration by NewRisingSun
-[^ref-6]: [MyAbandonware – Stunt Flyer](https://www.myabandonware.com/game/stunt-flyer-c94) – 1993 DOS version by Softlair Computer Productions (unrelated title)
+[^ref-6]: MyAbandonware – Stunt Flyer *(link removed: it led to a different game's page)* – 1993 DOS version by Softlair Computer Productions (unrelated title)
 [^ref-7]: [Sierra Gamers – Stunt Flyer](https://www.sierragamers.com/stunt-flyer/) – Sierra fan community entry, publisher information
-[^ref-8]: [Wikidata – Stunt Flyer](https://www.wikidata.org/wiki/Q81154917) – structured data, identifiers
+[^ref-8]: Wikidata – Stunt Flyer *(link removed: it led to a different game's page)* – structured data, identifiers
 [^ref-9]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
 [^ref-10]: [The Sierra Chest – Stunt Flyer](https://sierrachest.com/index.php?a=games&id=359&fld=general) – Sierra game database entry
 [^ref-11]: [C64-Wiki – Stunt Flyer](https://www.c64-wiki.com/wiki/Stunt_Flyer) – Commodore 64 game database

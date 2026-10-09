@@ -10,14 +10,14 @@ series: Standalone
 engine: 6502 Assembly
 protagonist: Player-controlled paddle
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Wallwar is an action game developed by Peter Oliphant and published by
   Sierra On-Line for the Atari 8-bit computer systems in 1983. Originally titled "Force...
 tags: [1980s, sierra, standalone]
 ---
 # Wallwar
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -229,12 +229,12 @@ The development story behind Wallwar is perhaps more significant than the game i
 [^ref-1]: [MobyGames – Wallwar](https://www.mobygames.com/game/122898/wallwar/) – publisher, platform, release date, technical specifications, player count, input devices
 [^ref-3]: [Retro365 – Bits from my Personal Collection: WallWar, Mr. Cool – Peter Oliphant, from Handhelds to the Personal Computer](https://retro365.blog/2021/11/10/bits-from-my-personal-collection-wallwar-mr-cool-peter-oliphant-from-handhelds-to-the-personal-computer/) – development history, Peter Oliphant credits, original title, SierraVision label, gameplay description, legal challenges, Ken Williams offer, commercial performance, Matt Chat interview source
 [^ref-4]: [Internet Archive – Wallwar (1982)](https://archive.org/details/a8b_WallWar_1982_Sierra_On_Line_US_k_file) – preservation entry, Atari platform, 1982 date reference, ATRUtil k-file disk format, US region
-[^ref-5]: [Atari Mania – WallWar](https://www.atarimania.com/game-atari-400-800-xl-xe-wallwar_6908.html) – Atari game database entry, platform compatibility
+[^ref-5]: Atari Mania – WallWar *(link removed: it led to a different game's page)* – Atari game database entry, platform compatibility
 [^ref-6]: [GameFAQs – WallWar](https://gamefaqs.gamespot.com/atari8/930547-wallwar) – game database entry, developer/publisher confirmation
 [^ref-7]: [Giant Bomb – Sierra On-Line](https://www.giantbomb.com/sierra-entertainment/3010-104/) – company history and early game catalog
 [^ref-8]: [Atari Archives](https://www.atariarchives.org/) – Atari 8-bit software preservation and documentation
 [^ref-9]: [The Sierra Chest – WallWar](https://www.sierrachest.com/index.php?a=games&id=271) – Sierra game catalog entry
-[^ref-10]: [My Abandonware – WallWar](https://www.myabandonware.com/game/wallwar-a9o) – abandonware archive and download availability
+[^ref-10]: My Abandonware – WallWar *(link removed: it led to a different game's page)* – abandonware archive and download availability
 [^ref-11]: [IGDB – WallWar](https://www.igdb.com/games/wallwar) – Internet Games Database entry
 [^ref-12]: [UVList – WallWar](https://www.uvlist.net/game-81697-Wallwar) – Universal Videogame List database entry
 
@@ -246,7 +246,7 @@ The development story behind Wallwar is perhaps more significant than the game i
 [^ref-17]: [Sierra Chest – WallWar](https://sierrachest.com/index.php?a=games&id=284&title=wallwar&fld=general) – Sierra catalog entry, release documentation
 
 [^ref-18]: [IGDB – Wallwar](https://www.igdb.com/search?q=Wallwar) — Game database cross-reference
-[^ref-19]: [Atarimania – WallWar (Atari 8-bit)](https://www.atarimania.com/game-atari-400-800-xl-xe-wallwar_24842.html) — Atari 8-bit community-rating tier, technical specifications, screenshot gallery
+[^ref-19]: Atarimania – WallWar (Atari 8-bit) *(link removed: it led to a different game's page)* — Atari 8-bit community-rating tier, technical specifications, screenshot gallery
 [^ref-20]: [Virtual Apple – WallWar disk image](http://www.virtualapple.org/wallwardisk.html) — Apple II preservation copy, browser-emulated playable version
 [^ref-21]: [LaunchBox Games Database – Wallwar (Sierra)](https://gamesdb.launchbox-app.com/games/details/wallwar) — community-curated metadata, cover-art reference, platform listing
 [^ref-22]: [Internet Archive – Wallwar Atari 8-bit](https://archive.org/details/a8b_Wallwar_1983_Sierra_On_Line) — Atari 8-bit disk image preservation copy

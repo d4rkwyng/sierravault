@@ -10,14 +10,14 @@ series: Standalone
 engine: Apple II Assembly
 protagonist: Exterminator
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Pest Patrol is a fixed shooter arcade game published by Sierra On-Line
   in 1982 for the Apple II computer. The game follows the Space Invaders formula,...
 tags: [1980s, shooter, sierra, standalone]
 ---
 # Pest Patrol
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -270,4 +270,4 @@ Sierra produced numerous action games for the Apple II during the early 1980s. P
 [^ref-17]: [IGDB – Pest Patrol](https://www.igdb.com/games/pest-patrol) — Internet Games Database entry confirming developer, publisher, release year, platform
 [^ref-18]: [Apple II PixelGeek catalog – Pest Patrol](https://www.apple2.org.za/gswv/a2zine/) — Apple II community catalog cross-reference, screenshot gallery, contemporary user notes
 [^ref-19]: [Apple II Hi-Res graphics reference](https://en.wikipedia.org/wiki/Apple_II_graphics) — technical context for the Hi-Res mode rendering used by Pest Patrol and the Apple II's color/resolution constraints
-[^ref-20]: [LaunchBox Games Database – Pest Patrol](https://gamesdb.launchbox-app.com/games/details/29238-pest-patrol) — community-curated metadata, cover-art reference, platform confirmation
+[^ref-20]: LaunchBox Games Database – Pest Patrol *(link removed: it led to a different game's page)* — community-curated metadata, cover-art reference, platform confirmation
