@@ -101,7 +101,6 @@ Sierra (renamed from On-Line Systems in 1982) created the graphic adventure genr
 - **[[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest - In Pursuit of the Death Angel]]** — Series: Police Quest, Type: Adventure
 - Skyfox II - The Cygnus Conflict — Skyfox — Space Combat Simulation
 - **[[1987 - Space Quest II - Vohaul's Revenge|Space Quest II - Vohaul's Revenge]]** — Series: Space Quest, Type: Adventure
-- [[1987 - The Ancient Art of War at Sea|The Ancient Art of War at Sea]] — Series: The Ancient Art of War, Type: Real-Time Strategy
 
 ### 1988
 - [[1988 - 20000 Leagues Under the Sea|20000 Leagues Under the Sea]] — Type: Adventure
@@ -185,7 +184,6 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - **[[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV - Roger Wilco and the Time Rippers]]** — Series: Space Quest, Type: Adventure
 - [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Type: Adventure
 - [[1991 - The Charge of the Light Brigade|The Charge of the Light Brigade]] — Series: Micro Miniatures, Type: Strategy/Tactics
-- [[1991 - V for Victory - D-Day Utah Beach|V for Victory - D-Day Utah Beach]] — Series: V for Victory, Type: Turn-Based Strategy Wargame
 
 ### 1992
 - [[1992 - A.J.'s World of Discovery|A.J.'s World of Discovery]] — Series: Adibou, Type: Educational
@@ -522,13 +520,13 @@ Sierra was acquired by Vivendi, then absorbed into Activision. Adventure game de
 
 ### 2007
 - [[2007 - 3D Ultra Minigolf Adventures Deluxe|3D Ultra Minigolf Adventures Deluxe]] — Series: 3-D Ultra Minigolf, Type: Sports
+- [[2007 - Hoyle Card Games 2008|Hoyle Card Games 2008]] — Series: Hoyle, Type: Card Game / Board Game
 - [[2007 - Hoyle Casino|Hoyle Casino]] — Series: Hoyle Casino, Type: Casino Simulation
+- [[2007 - Hoyle Casino 2008|Hoyle Casino 2008]] — Series: Hoyle Casino, Type: Gambling/Casino
 - [[2007 - SWAT - Target Liberty|SWAT - Target Liberty]] — Series: Police Quest/SWAT, Type: Tactical Shooter
 - [[2007 - World in Conflict|World in Conflict]] — Series: World in Conflict, Type: Real-Time Tactics
 
 ### 2008
-- [[2007 - Hoyle Card Games 2008|Hoyle Card Games]] — Series: Hoyle, Type: Card Game / Board Game
-- [[2007 - Hoyle Casino 2008|Hoyle Casino]] — Series: Hoyle Casino, Type: Gambling/Casino
 - [[2008 - Hoyle Puzzle and Board Games|Hoyle Puzzle and Board Games]] — Series: Hoyle, Type: Puzzle/Board Game Compilation
 - **[[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]]** *(Fan)* — Series: Quest for Glory, Type: Adventure/RPG
 - [[2008 - Red Baron Arcade|Red Baron Arcade]] — Series: Red Baron, Type: Arcade Flight Combat Simulator
@@ -547,10 +545,10 @@ Sierra as a development entity was gone, but fans kept classics alive with remak
 ### 2010
 - [[2010 - 3-D Ultra MiniGolf Adventures 2|3-D Ultra MiniGolf Adventures 2]] — Series: 3D Ultra, Type: Sports
 - [[2010 - Gray Matter|Gray Matter]] — Type: Adventure
+- [[2010 - Hoyle Puzzle and Board Games 2011|Hoyle Puzzle and Board Games 2011]] — Series: Hoyle, Type: Puzzle
 - [[2010 - The Silver Lining|The Silver Lining]] *(Fan)* — Type: Adventure
 
 ### 2011
-- [[2010 - Hoyle Puzzle and Board Games 2011|Hoyle Puzzle and Board Games]] — Series: Hoyle, Type: Puzzle
 - [[2011 - Hoyle Swashbucklin Slots|Hoyle Swashbucklin Slots]] — Series: Hoyle, Type: Gambling
 - [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain|JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]] — Series: Dr. Brain / JumpStart, Type: Edutainment
 - **[[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux - To Heir is Human]]** *(Fan)* — Series: King's Quest, Type: Adventure

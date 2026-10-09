@@ -90,13 +90,13 @@ For the independent-era chronology, see [[Timeline 1980-1999|Timeline 1980-1999]
 **Major releases:**
 - [[2007 - Carcassonne\|Carcassonne]] (XBLA / Sierra)
 - [[2007 - Hoyle Casino\|Hoyle Casino]] (Sierra / Encore)
+- [[2007 - Hoyle Casino 2008\|Hoyle Casino 2008]] (Sierra / Encore)
 - [[2007 - 3D Ultra Minigolf Adventures Deluxe\|3D Ultra MiniGolf Adventures Deluxe]] (Sierra)
 
 ## 2008
 
 **Major releases:**
 - [[2008 - Lost Cities\|Lost Cities]] (Sierra digital)
-- [[2008 - Hoyle Casino\|Hoyle Casino]] (Sierra / Encore)
 - [[2008 - Hoyle Puzzle and Board Games\|Hoyle Puzzle and Board Games]] (Sierra / Encore)
 - [[2008 - Red Baron Arcade\|Red Baron Arcade]] (XBLA)
 - [[2008 - Ace of Aces\|Ace of Aces]] (XBLA)

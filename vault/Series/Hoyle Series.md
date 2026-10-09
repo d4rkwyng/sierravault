@@ -63,10 +63,10 @@ After Schwader's last Sierra credit on *Hoyle Classic Card Games* (1993), the se
 | 2006 | [[2006 - Hoyle Miami Solitaire\|Hoyle Miami Solitaire]] | |
 | 2007 | [[2007 - Carcassonne\|Carcassonne]] | Licensed tile-game adaptation |
 | 2007 | [[2007 - Hoyle Casino\|Hoyle Casino]] | |
-| 2008 | [[2008 - Hoyle Casino\|Hoyle Casino]] | |
+| 2007 | [[2007 - Hoyle Casino 2008\|Hoyle Casino 2008]] | |
 | 2008 | [[2008 - Hoyle Puzzle and Board Games\|Hoyle Puzzle and Board Games]] | |
 | 2008 | [[2008 - Lost Cities\|Lost Cities]] | Licensed Reiner Knizia adaptation |
-| 2011 | [[2011 - Hoyle Puzzle and Board Games\|Hoyle Puzzle and Board Games]] | Post-Sierra rebranding era |
+| 2010 | [[2010 - Hoyle Puzzle and Board Games 2011\|Hoyle Puzzle and Board Games 2011]] | Post-Sierra rebranding era |
 | 2011 | [[2011 - Hoyle Swashbucklin Slots\|Hoyle Swashbucklin' Slots]] | |
 | 2016 | [[2016 - Hoyle Casino Games Collection\|Hoyle Casino Games Collection]] | Final entry to date |
 
