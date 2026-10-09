@@ -252,7 +252,7 @@ Community preservation efforts maintain access to the game through abandonware a
 [^ref-25]: [MyAbandonware](https://www.myabandonware.com/game/field-stream-trophy-bass-4-g4c) - User rating 4.75/5
 [^ref-26]: [MyAbandonware](https://www.myabandonware.com/game/field-stream-trophy-bass-3d-e8z) - User rating 4.6/5
 [^ref-27]: [eBay Listings](https://www.ebay.com/) - User satisfaction and ESRB rating
-[^ref-31]: [Internet Archive](https://archive.org/details/trophy-bass-4-fishing-full-standalone) - 3dfx Glide support
+[^ref-31]: Link removed 2026-10-09: it was a full-game download of a different game (Trophy Bass 4). Claim pending a real source.
 [^ref-32]: [Vogons Forum](https://www.vogons.org/) - Installation requirements
 [^ref-33]: [NeverDieMedia](https://www.neverdiemedia.com/products/trophy-bass-4) - Trophy Bass 4 content description
 [^ref-34]: [Giant Bomb](https://www.giantbomb.com/field-stream-trophy-bass-3d/3030-26498/) - Game database entry
