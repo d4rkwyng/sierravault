@@ -80,7 +80,6 @@ As MobyGames reviewer Travis Owens noted: "If you had played this online, you we
 | MobyGames | 6.6/10 | Aggregate user rating[^ref-6] |
 | MyAbandonware | 4.67/5 | User rating from HOTUD[^ref-18] |
 | Abandonware DOS | 3.68/5 | User rating[^ref-8] |
-| Emuparadise | 5/5 | User rating[^ref-20] |
 | GameSpot | 7.6/10 | User review by TheDervish[^ref-14] |
 
 The dichotomy between online and offline reviews highlighted the game's fundamental design as a multiplayer experience. Computer Gaming World stated that "there is no way that in the age of Lands of Lore, Riftwar, and Ultima VIII: Pagan, you can take ... Yserbius seriously as a stand-alone game"[^ref-5].
@@ -197,7 +196,6 @@ Several bugs and design issues were documented during the game's lifespan:
 [^ref-14]: [GameSpot](https://www.gamespot.com/the-shadow-of-yserbius/user-reviews/2200-246384/) – Multiplayer mechanics and user review
 [^ref-17]: [IPFS Archive](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Shadow_of_Yserbius.html) – Computer Gaming World review
 [^ref-18]: [MyAbandonware](https://www.myabandonware.com/game/shadow-of-yserbius-2aw) – User rating and HOTUD review
-[^ref-20]: [Internet Archive – Shadow of Yserbius](https://archive.org/details/msdos_Shadow_of_Yserbius_1991) – Preservation copy with user metadata (replaces dead Emuparadise URL; Emuparadise removed all abandonware content in 2018)
 [^ref-21]: [Abandonware France](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=4857) – French review
 [^ref-22]: [Reddit](https://www.reddit.com/r/Sierra/comments/weq5zl/speedruns_of_shadows_of_yserbius/) – Speedrunning information
 [^ref-23]: [Filfre.net](https://www.filfre.net/?s=Shadow+of+Yserbius) – Ken Williams press release

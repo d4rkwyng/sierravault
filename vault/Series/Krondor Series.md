@@ -7,12 +7,12 @@ first_release: 1993
 last_release: 1998
 total_games: 3
 genre: "Role-Playing"
-last_updated: "2026-05-13"
+last_updated: "2026-10-09"
 ---
 
 # Krondor Series
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -38,7 +38,7 @@ The founding entry. Developed by Dynamix under designer [[John Cutter]] and writ
 - **Riddled chests, lockpick mini-game** — design elements that became Dynamix signatures.
 - **Word-puzzle locks** — narrative riddles that required reading Feist's books or careful in-game text attention.
 
-**Reception:** *Computer Gaming World* RPG of the Year (1993); 5/5 from Adventure Classic Gaming; widely cited on retrospective best-RPG lists.[^ref-4] Re-released on GOG.com in 2010 (free for the first year) and remains continuously available.[^ref-5]
+**Reception:** Won *Computer Gaming World*'s Role-Playing Game of the Year award in June 1994, and *Computer Games Strategy Plus* named it 1993's best role-playing game.[^ref-4] Re-released on GOG.com in 2010 (free for the first year) and remains continuously available.[^ref-5]
 
 ## Betrayal in Antara (1997)
 
@@ -61,7 +61,7 @@ The series finale — a direct sequel to *Betrayal at Krondor*, this time with f
 - **Recorded voice acting** throughout.
 - Returning characters: Squire James, Owyn, Locklear, plus new protagonists.
 
-**Reception:** Generally positive but the abandonment of turn-based combat alienated some Krondor purists; the 3D-rendered art was criticized as less atmospheric than the original's painted backdrops.[^ref-9] Sold modestly. Available on GOG.com.[^ref-10]
+**Reception:** Above-average reviews overall. *Computer Games Strategy Plus* called it "a stunning return to form for the Krondor series" with "some of the juiciest turn-based battles ever to grace a role-playing game", while *Computer Gaming World*'s Petra Schlunk found it "a lightweight RPG" that failed to match *Betrayal at Krondor*. CNET Gamecenter reported in December 1998 that it was "selling well".[^ref-9] Available on GOG.com.[^ref-10]
 
 ## Why the Series Ended
 
@@ -78,7 +78,6 @@ Feist continued writing novels in the Riftwar Cycle through the 2010s, but no fu
 *Betrayal at Krondor* (1993) is the most-cited entry in the series and the one that defines its reputation:
 
 - **"Best CRPG of the 90s" inclusions** — IGN, PC Gamer, RPG Codex retrospectives have all listed *Betrayal at Krondor* in their top tier.
-- **Influence on later licensed RPGs** — *Baldur's Gate*, *Knights of the Old Republic*, and *The Witcher* trace some of their licensed-author-collaboration model to the Krondor-Feist partnership.[^ref-13]
 - **Modding community** — Active modding community has produced HD texture packs, scripting fixes, and translation patches over the past 30 years.[^ref-14]
 
 ## See Also
@@ -94,16 +93,15 @@ Feist continued writing novels in the Riftwar Cycle through the 2010s, but no fu
 [^ref-1]: [Wikipedia — Betrayal at Krondor](https://en.wikipedia.org/wiki/Betrayal_at_Krondor) — Series introduction
 [^ref-2]: [Computer Gaming World Museum — 1993 RPG of the Year](http://www.cgwmuseum.org/galleries/index.php?year=1993) — Award documentation
 [^ref-3]: [Raymond E. Feist — Krondor: The Betrayal](https://en.wikipedia.org/wiki/Krondor:_The_Betrayal) — Novelization of the game's plot
-[^ref-4]: [Adventure Classic Gaming — Betrayal at Krondor review](http://www.adventureclassicgaming.com/index.php/site/reviews/betrayal_at_krondor/) — 5/5 review
+[^ref-4]: [Wikipedia — Betrayal at Krondor](https://en.wikipedia.org/wiki/Betrayal_at_Krondor) — CGW Role-Playing Game of the Year (June 1994), Strategy Plus best RPG of 1993
 [^ref-5]: [GOG.com — Betrayal at Krondor](https://www.gog.com/en/game/betrayal_at_krondor) — Current commercial availability
 [^ref-6]: [Wikipedia — Betrayal in Antara](https://en.wikipedia.org/wiki/Betrayal_in_Antara) — Spin-off overview
 [^ref-7]: [GameSpot — Betrayal in Antara review](https://www.gamespot.com/reviews/betrayal-in-antara-review/) — Contemporary review
 [^ref-8]: [Wikipedia — Return to Krondor](https://en.wikipedia.org/wiki/Return_to_Krondor) — Sequel overview
-[^ref-9]: [Adventure Classic Gaming — Return to Krondor review](http://www.adventureclassicgaming.com/index.php/site/reviews/return_to_krondor/) — Critical analysis
+[^ref-9]: [Wikipedia — Return to Krondor](https://en.wikipedia.org/wiki/Return_to_Krondor) — reception section (Strategy Plus, CGW, CNET Gamecenter)
 [^ref-10]: [GOG.com — Return to Krondor](https://www.gog.com/en/game/return_to_krondor) — Current commercial availability
 [^ref-11]: [Sierra Gamers — Krondor oral history](https://www.sierragamers.com) — Designer interviews on series cancellation
 [^ref-12]: [Tilted Mill Entertainment](https://en.wikipedia.org/wiki/Tilted_Mill_Entertainment) — Post-Sierra Krondor revival exploration
-[^ref-13]: [IGN — Best 90s CRPGs](https://www.ign.com/articles/best-90s-crpgs) — Genre retrospective
 [^ref-14]: [Krondor Modding Community — Patches and tools](https://www.moddb.com/games/betrayal-at-krondor) — Modern preservation projects
 [^ref-15]: [The Digital Antiquarian — Dynamix RPGs](https://www.filfre.net/?s=Krondor) — Long-form Krondor history
 [^ref-16]: [MobyGames — Krondor series](https://www.mobygames.com/group/13186/krondor-series/) — Comprehensive catalog

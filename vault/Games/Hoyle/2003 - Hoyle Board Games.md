@@ -375,7 +375,7 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 
 [^ref-15]: [Internet Archive – Hoyle Board Games](https://archive.org/details/HOYLEBOARD) – Game preservation, archive documentation, playable version
 
-[^ref-16]: [NeverDieMedia – Hoyle Puzzle Games 2003](https://www.neverdiemedia.com/products/hoyle-puzzle-games-2003) – Related software, publication documentation, series information
+[^ref-16]: [NeverDieMedia – Hoyle Puzzle Games 2003](https://web.archive.org/web/20240807053003/https://www.neverdiemedia.com/products/hoyle-puzzle-games-2003) – Related software, publication documentation, series information
 
 [^ref-17]: [IGDB search – Hoyle Board Games 2003](https://www.igdb.com/search?q=Hoyle+Board+Games+2003) — Game database cross-reference
 [^ref-18]: [PCGamingWiki search – Hoyle Board Games 2003](https://www.pcgamingwiki.com/w/index.php?search=Hoyle+Board+Games+2003) — Technical and compatibility documentation

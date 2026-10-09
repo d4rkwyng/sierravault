@@ -303,7 +303,7 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 **Community Resources**
 - [GPLWorld.de](http://www.gplworld.de/) – Mods, demos, and community[^ref-43]
 - [GPL Addons at The Fastlane](https://gpladdons.the-fastlane.co.uk/) – Utilities and modifications[^ref-50]
-- [GPL Wiki](http://wiki.grandprixlegends.info/) – Technical documentation[^ref-23]
+- [GPL Wiki (archived)](https://web.archive.org/web/20260828082406/https://wiki.grandprixlegends.info/) – Technical documentation[^ref-23]
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Grand_Prix_Legends) – Compatibility fixes[^ref-9]
 
 **Manuals & Extras**
@@ -340,7 +340,7 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 [^ref-20]: [GPL FAQ](http://alison.hine.net/gpl/faq.htm) – difficulty levels, gameplay mechanics
 [^ref-21]: [SIRA Simracing – GPL Guide](https://www.sira-simracing.com/post/grand-prix-legends-game-guide) – game modes, driver aids, iRacing history
 [^ref-22]: [GameSpot – History of Papyrus](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – Kaemmer quotes on design philosophy, European sales
-[^ref-23]: [GPL Wiki – FAQ and Troubleshooting](http://wiki.grandprixlegends.info/index.php?title=GPL_FAQ_and_troubleshooting_guide) – frame rate limitation, compatibility issues
+[^ref-23]: [GPL Wiki – FAQ and Troubleshooting](https://web.archive.org/web/20251107160905/https://wiki.grandprixlegends.info/index.php?title=GPL_FAQ_and_troubleshooting_guide) – frame rate limitation, compatibility issues
 [^ref-24]: [Race Sim Central – Ferrari Licensed](https://racesimcentral.net/ferrari-licensed-for-grand-prix-legends/) – Ferrari licensing, car specifications, retail price
 [^ref-25]: [Old PC Gaming – GPL Review](https://oldpcgaming.net/grand-prix-legends-review/) – physics description, difficulty analysis
 [^ref-26]: [RavSim – GPL 20th Anniversary](https://ravsim.com/2018/12/08/grand-prix-legends-is-20-a-legacy-that-created-a-genre/) – physics engine details
@@ -365,4 +365,4 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 [^ref-48]: [VROC League Page](http://www.vroc.net/html/common/leagues.htm) – online community history, league listings
 [^ref-49]: [Internet Archive – Grand Prix Legends](https://archive.org/details/grand-prix-legends) – preservation, download availability
 [^ref-50]: [GPL Addons – The Fastlane](https://gpladdons.the-fastlane.co.uk/utilities_list.php?goto=9) – utility tools, mod repository
-[^ref-51]: [GPL Wiki – Main Page](http://wiki.grandprixlegends.info/index.php?title=Main_Page) – licensing name changes, track accuracy
+[^ref-51]: [GPL Wiki – Main Page](https://web.archive.org/web/20251107163102/https://wiki.grandprixlegends.info/index.php?title=Main_Page) – licensing name changes, track accuracy

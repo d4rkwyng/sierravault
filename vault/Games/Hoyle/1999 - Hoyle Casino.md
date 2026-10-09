@@ -88,7 +88,7 @@ The Practice Mode serves as the game's primary educational mechanic, analyzing p
 
 GameOver awarded Hoyle Casino 1999 a score of 80% in their contemporary review, with reviewer Prolix providing detailed scoring across multiple categories: Graphics received 18/20, Sound scored 8/15, Gameplay earned 28/30, and Fun Factor achieved 18/20[^ref-4]. The multiplayer mode received a disappointing 0/5, reflecting significant limitations in that feature[^ref-4]. Prolix affirmed that "Anyone who knows anything about computer casino games will tell you Hoyle ranks at the top" and praised the professional quality of all included games[^ref-4].
 
-Owen W. Linzmayer reviewed the Macintosh version for MacAddict magazine in June 1999 (Issue 033, page 63), noting that "What makes Hoyle Casino better than other parlor game programs is its Practice Mode"[^ref-5]. However, Linzmayer also criticized the game's pacing, stating that "Hard-core betters, on the other hand, will find gameplay too slow even if they turn off the optional (and annoying) character animations and commentary"[^ref-5]. He also noted the inability to fine-tune certain features like house rake and betting structure as a limitation[^ref-5].
+Owen W. Linzmayer reviewed the Macintosh version for MacAddict magazine in June 1999 (Issue 034, page 63), noting that "What makes Hoyle Casino better than other parlor game programs is its Practice Mode"[^ref-5]. However, Linzmayer also criticized the game's pacing, stating that "Hard-core betters, on the other hand, will find gameplay too slow even if they turn off the optional (and annoying) character animations and commentary"[^ref-5]. He also noted the inability to fine-tune certain features like house rake and betting structure as a limitation[^ref-5].
 
 MacAddict magazine described the demo as "addictive" and praised the realistic gameplay, noting "Game play in each area is realistic (you even feed money into the slots!). Even the different dealers are all animated"[^ref-3].
 
@@ -180,7 +180,7 @@ The Hoyle Casino series continued with annual releases following the 1999 editio
 
 - **Hoyle Casino 2000** – Released for Windows and Mac OS (Classic)[^ref-7]
 - **Hoyle Casino 2001** – Released November 14, 2000 (Europe) by Sierra Entertainment[^ref-9]
-- **Hoyle Casino 2008** – Released October 1, 2007 by Encore Software, featuring 600+ classic games[^ref-13]
+- **Hoyle Casino Games (2007)** – Published by Encore, Inc., which took over the series after 2005[^ref-13]
 - **Hoyle Casino 3D** – Released January 3, 2005 by Encore Software[^ref-14]
 
 The series eventually transitioned from Sierra Entertainment to Encore, Inc. as publisher[^ref-10]. Encore continued releasing new editions through at least 2016, though the later versions suffered from quality issues[^ref-10].
@@ -277,15 +277,15 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 [^ref-2]: [PriceCharting – Hoyle Casino 1999](https://www.pricecharting.com/game/pc-games/hoyle-casino-1999) — UPC, ASIN, game count claims, and price tracking
 [^ref-3]: [Classic Mac Demos – Hoyle Casino 1999](https://classicmacdemos.com/hoyle-casino-1999) — Demo distribution, animated dealers, and slot machine gameplay
 [^ref-4]: [GameOver – Hoyle Casino 1999 Review](https://www.game-over.com/reviews/pc/hoylecasino99.html) — 80% score with detailed category breakdown, "cheat factor" concerns
-[^ref-5]: [MacAddict Issue 033 Review](https://archive.org/details/MacAddict_033_1999-06) — Owen Linzmayer review, Practice Mode praise, pacing criticism
+[^ref-5]: [MacAddict Issue 034 (June 1999) Review](https://archive.org/details/MacAddict-034-199906) — Owen Linzmayer review, Practice Mode praise, pacing criticism
 [^ref-6]: [MyAbandonware – Hoyle Casino](https://www.myabandonware.com/game/hoyle-casino-hzg) — Preservation download, 4/5 rating, developer credits
-[^ref-7]: [PCGamingWiki – Hoyle Casino 1999](https://www.pcgamingwiki.com/wiki/Hoyle_Casino_1999) — DRM info, animation skip behavior, version history
+[^ref-7]: [PCGamingWiki – Hoyle Casino (2000)](https://www.pcgamingwiki.com/wiki/Hoyle_Casino_(2000)) — DRM info, animation skip behavior, version history (PCGW documents the 2000 edition; no separate 1999 page)
 [^ref-8]: [Amazon Listing – Hoyle Casino 1999](https://www.amazon.com/Hoyle-Casino-1999-PC/dp/B00001KRTG) — Game count (22 video poker, 8 poker styles), multiplayer issues
 [^ref-9]: GameFAQs – Hoyle Casino 2001 *(link removed: it led to a different game's page)* — "Outstanding" rating, series continuation info
 [^ref-10]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) — Sales data ($6.15M, 230K units), series history, 2007 bug description
 [^ref-11]: [Internet Archive – Prototype Build](https://archive.org/details/9905182137) — July 30, 1999 prototype discovered by lemurboy12
 [^ref-12]: GameFAQs Cheats *(link removed: it led to a different game's page)* — "Break The Bank" exploit documentation
-[^ref-13]: [Amazon – Hoyle Casino 2008](https://www.amazon.com/Hoyle-Casino-Games-2008-PC/dp/B000RGBVLI) — Encore Software continuation, 600+ games
+[^ref-13]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) — series list; "After 2005, publication of the series moved to Encore, Inc."
 [^ref-14]: [MobyGames – Hoyle Casino 3D](https://www.mobygames.com/game/20006/hoyle-casino-3d/) — 2005 3D edition by Encore
 [^ref-15]: [Internet Archive – Hoyle Casino 1999](https://archive.org/details/Hoyle_Casino_Sierra_On-Line_Inc._1999) — Full game preservation
 [^ref-16]: [IGDB – Hoyle Casino 1999](https://www.igdb.com/games/hoyle-casino-1999) — Internet Games Database entry, platform listings, release-year confirmation

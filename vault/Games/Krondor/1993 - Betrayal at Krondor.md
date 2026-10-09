@@ -314,7 +314,7 @@ Betrayal at Krondor spawned both official and unofficial successors:
 [^ref-19]: [CRPG Revisited](http://crpgrevisited.blogspot.com/2013/04/betrayal-at-krondor-revisited.html) – skill system comparison to Morrowind
 [^ref-20]: [The Digital Antiquarian](https://www.filfre.net/2019/10/betrayal-at-krondor/) – development history, Feist quotes, budget issues
 [^ref-21]: [MobyGames – Unicorn Lynx Review](https://www.mobygames.com/game/285/betrayal-at-krondor/user-review/2460737/) – BioWare influence, critical analysis
-[^ref-22]: [IGN – Top 100 RPGs](https://www.ign.com/lists/top-100-rpgs/92) – Chris Reed quotes, ranking
+[^ref-22]: [IGN – Top 100 RPGs (archived)](https://web.archive.org/web/20260116000133/https://www.ign.com/lists/top-100-rpgs/92) – Chris Reed quotes, ranking
 [^ref-23]: [MobyGames Reviews Page](https://www.mobygames.com/game/285/betrayal-at-krondor/reviews/) – community reviews, bug reports
 [^ref-24]: [MobyGames – Betrayal at Krondor](https://www.mobygames.com/game/285/betrayal-at-krondor/) – credits, ratings, awards, technical specs
 [^ref-25]: [IMDB – Betrayal at Krondor](https://www.imdb.com/title/tt0375599/) – user ratings and reviews

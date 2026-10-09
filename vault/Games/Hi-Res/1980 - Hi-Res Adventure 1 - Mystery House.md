@@ -155,8 +155,8 @@ In 2009, Mystery House was ported to iOS, introducing the pioneering title to a 
 [^ref-3]: [Chicago Sun-Times](https://web.archive.org/web/20150402104248/http://www.highbeam.com/doc/1P2-3915183.html) – 1988 interview: "Mom goes on-line with adventurous computer games"
 [^ref-4]: Google Books – Horror in Video Games *(link removed: it led to a different game's page)* – Rouse III, Richard (2009). "Match Made in Hell: The Inevitable Success of the Horror Genre in Video Games" in Horror in Video Games: Essays on the Fusion of Fear and Play. McFarland. ISBN 978-0-7864547-9-2
 [^ref-5]: [Computer Gaming World](http://www.cgwmuseum.org/) – Mark Marlow's 1982 review, Vol. 1, No. 2
-[^ref-6]: [American Journal of Play](https://www.journalofplay.org/) – Nooney, Laine (2017). "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game"
-[^ref-7]: [Amazon – Once Upon a Point and Click](https://www.amazon.com/dp/B01N6Y5XKJ) – Craddock, David L. (2017). Once Upon a Point and Click. Chapter 1: Interactive Page-Turners
+[^ref-6]: [American Journal of Play](https://www.museumofplay.org/app/uploads/2022/01/10-1-Article-3-Lets-begin-again.pdf) – Nooney, Laine (2017). "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game"
+[^ref-7]: [Goodreads – Once Upon a Point & Click](https://www.goodreads.com/en/book/show/35908473-once-upon-a-point-click) – Craddock, David L. (2017). Once Upon a Point and Click. Chapter 1: Interactive Page-Turners
 [^ref-8]: [Amazon – High Score!](https://www.amazon.com/dp/0072231726) – DeMaria, Rusel; Wilson, Johnny L. (2003). High Score!: The Illustrated History of Electronic Games. McGraw-Hill/Osborne. ISBN 0-07-223172-6
 [^ref-9]: [The Digital Antiquarian](https://www.filfre.net/2011/10/mystery-house-part-1/) – Jimmy Maher's "Mystery House, Part 1"
 [^ref-10]: [Chicago Tribune](https://www.newspapers.com/clip/90910838/chicago-tribune/) – Dennis Lynch (1989). "Sierra disks offer epic adventures"

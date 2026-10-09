@@ -196,7 +196,7 @@ The series influenced subsequent sports games' approach to franchise modes, thou
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-football-pro-22k)[^ref-17]
-- [Internet Archive](https://archive.org/details/msdos_Front_Page_Sports_Football_Pro_98_1997) - DOS version preservation
+- [Internet Archive](https://archive.org/details/football-pro-98-sierra) - CD-ROM ISO preservation
 - [GMGames Community](https://gmgames.org/front-page-sports-football-fb-pro-98/) - Active modding community[^ref-15]
 
 ## See Also
@@ -227,7 +227,7 @@ The series influenced subsequent sports games' approach to franchise modes, thou
 [^ref-8]: [Wikipedia](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Football_Pro_%2798) - Review scores compilation
 [^ref-9]: [Web Archive - Press Release](https://web.archive.org/web/19990901152908/http://www.idle.com/~mpogpr/viewpr.cgi?item=68) - Publisher information
 [^ref-10]: [ClassicReload](https://classicreload.com/front-page-sports-football-pro.html) - Game overview
-[^ref-11]: [NeverDieMedia](https://www.neverdiemedia.com/products/front-page-sports-football-pro-98) - Interface improvements
+[^ref-11]: [NeverDieMedia](https://web.archive.org/web/20260218023219/https://www.neverdiemedia.com/products/front-page-sports-football-pro-98) - Interface improvements
 [^ref-12]: [AllVideoClassicGames](https://www.allvideoclassicgames.com/) - Game modes description
 [^ref-13]: [Web Archive - CDMag Review](https://web.archive.org/web/20030704202248/http://www.cdmag.com/articles/010/104/fps_football_98_review.html) - Career mode praise
 [^ref-14]: GameFAQs *(link removed: it led to a different game's page)* - Network play features

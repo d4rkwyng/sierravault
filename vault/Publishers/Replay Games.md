@@ -19,7 +19,7 @@ Replay Games was an American video game development and publishing company found
 
 Replay Games was explicitly founded to acquire and revive classic Sierra adventure game intellectual property.[^ref-3][^ref-10] The company's most notable achievement was partnering with [[Al Lowe|Al Lowe]] to create *Leisure Suit Larry: Reloaded*, an HD remake of the original 1987 Sierra classic.[^ref-4][^ref-11]
 
-The company secured rights to several Sierra properties through negotiations with Codemasters (who had acquired rights from Sierra) and launched successful Kickstarter campaigns to fund their remake projects.[^ref-5][^ref-12]
+The company secured rights to several Sierra properties through negotiations with Codemasters (who had acquired rights from Sierra) and launched successful Kickstarter campaigns to fund their remake projects.[^ref-5]
 
 ## Games Published (Sierra Archive)
 
@@ -33,7 +33,7 @@ The company secured rights to several Sierra properties through negotiations wit
 
 ## Closure
 
-Replay Games ceased operations around 2018 after several years of inactivity following their initial releases.[^ref-6][^ref-13] Plans for *Leisure Suit Larry: Reloaded 2* and other Sierra remakes were never realized.[^ref-7][^ref-14]
+Replay Games ceased operations around 2018 after several years of inactivity following their initial releases.[^ref-6][^ref-13] Plans for *Leisure Suit Larry: Reloaded 2* and other Sierra remakes were never realized.[^ref-14]
 
 ## Related
 
@@ -48,12 +48,10 @@ Replay Games ceased operations around 2018 after several years of inactivity fol
 [^ref-4]: [MobyGames - Leisure Suit Larry: Reloaded](https://www.mobygames.com/game/61393/leisure-suit-larry-reloaded/) - Database entry
 [^ref-5]: Adventure Gamers - Larry Reloaded Review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Game review
 [^ref-6]: [Wikipedia - Leisure Suit Larry: Reloaded](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Reloaded) - Game history
-[^ref-7]: [PC Gamer - Larry Reloaded](https://www.pcgamer.com/leisure-suit-larry-reloaded-review/) - Review
 [^ref-8]: [Wikipedia - Al Lowe](https://en.wikipedia.org/wiki/Al_Lowe) - Designer partnership
 [^ref-9]: [Al Lowe's Humor Site](http://www.allowe.com/) - Designer involvement
 [^ref-10]: [Metacritic - Larry Reloaded](https://www.metacritic.com/game/pc/leisure-suit-larry-reloaded) - Review aggregator
 [^ref-11]: [IGN - Leisure Suit Larry Reloaded](https://www.ign.com/games/leisure-suit-larry-reloaded) - Game info
-[^ref-12]: [Polygon - Larry Reloaded Coverage](https://www.polygon.com/gaming/2012/4/3/2924497/leisure-suit-larry-reloaded-kickstarter) - Kickstarter coverage
 [^ref-13]: [Sierra Gamers - Larry Reloaded](https://www.sierragamers.com/) - Fan community
 [^ref-14]: [IGDB - Replay Games](https://www.igdb.com/companies/replay-games-llc) - Publisher profile
 [^ref-15]: [MobyGames - Fester Mudd](https://www.mobygames.com/game/66176/fester-mudd-curse-of-the-gold-episode-1/) - Original adventure

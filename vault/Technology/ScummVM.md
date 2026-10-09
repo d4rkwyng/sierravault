@@ -1,14 +1,14 @@
 ---
 title: "ScummVM"
 type: technology
-last_updated: "2026-07-13"
+last_updated: "2026-10-09"
 description: "The cross-platform virtual machine that re-implements LucasArts' SCUMM and Sierra's AGI and SCI engines, enabling modern systems to run nearly the entire Sierra adventure catalog."
 tags: [technology, scummvm, agi, sci, preservation, emulation]
 ---
 
 # ScummVM
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -39,7 +39,6 @@ The 2.5–2.9 release line steadily refined Sierra engine support. Notable addit
 - **Improved Phantasmagoria support** (2.5, 2022) — Resolved several Sierra "Mac SCI32" rendering issues.[^ref-9]
 - **Gabriel Knight 1 enhanced edition support** — Late SCI32 features required for the Anniversary Edition.[^ref-10]
 - **Shivers 1+2 native rendering** — Replaced the legacy QuickTime cinematic playback that had broken on modern systems.[^ref-11]
-- **2025 Amiga port collaboration** — The [[2025 - SCP Sierra Conversion Project|SCP project]] worked with ScummVM contributors to land AGA-optimized AGI and SCI builds on classic Amiga hardware.[^ref-12]
 
 ### Year-based quarterly releases (2026– )
 
@@ -125,7 +124,6 @@ The project's open-source nature has also made it a center of gravity for the br
 [^ref-9]: [ScummVM 2.5 release notes](https://www.scummvm.org/news/20211011/) — Phantasmagoria refinements
 [^ref-10]: [ScummVM 2.7 release notes](https://www.scummvm.org/news/20230322/) — GK1 enhanced edition
 [^ref-11]: [ScummVM 2.7 release notes](https://www.scummvm.org/news/20230322/) — Shivers QuickTime replacement
-[^ref-12]: [SCP Project announcement](https://github.com/SCPProject/scummvm) — Amiga ScummVM collaboration
 [^ref-13]: [ScummVM source code — SCI engine](https://github.com/scummvm/scummvm/tree/master/engines/sci) — Reference implementation
 [^ref-14]: [ScummVM Wiki — How ScummVM works](https://wiki.scummvm.org/index.php?title=How_to_play) — User-facing architecture overview
 [^ref-15]: [GOG.com — Sierra catalog](https://www.gog.com/en/games?developers=sierra-on-line) — Bundled ScummVM/DOSBox configurations

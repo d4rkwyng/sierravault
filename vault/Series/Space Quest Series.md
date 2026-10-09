@@ -145,14 +145,14 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 ### Official & Fan Remakes
 
 - **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] — Developer: Sierra On-Line, Download: Official remake
-- **2011** — [[2011 - Space Quest II VGA Remake|SQ2 VGA Remake]] — Developer: Infamous Adventures, Download: [IA](https://www.infamous-adventures.com/sq2/)
+- **2011** — [[2011 - Space Quest II VGA Remake|SQ2 VGA Remake]] — Developer: Infamous Adventures, Download: [IA](https://infamousadventures.itch.io/space-quest-ii-vga-remake)
 
 ### Fan Sequels
 
-- **2001** — [[2001 - Space Quest - The Lost Chapter|The Lost Chapter]] — Developer: Vonster D. Monster, Download: [Download](http://sq.vonster.com/)
-- **2003** — [[2003 - Space Quest 0 - Replicated|SQ0: Replicated]] — Developer: Vonster D. Monster, Download: [Download](http://sq.vonster.com/)
-- **2011** — [[2011 - Space Quest - Vohaul Strikes Back|Vohaul Strikes Back]] — Developer: Infamous Quests, Download: [Download](http://www.vohaulstrikesback.com/)
-- **2012** — [[2012 - Space Quest - Incinerations|Incinerations]] — Developer: Infamous Quests, Download: [Download](http://sq-incinerations.com/)
+- **2001** — [[2001 - Space Quest - The Lost Chapter|The Lost Chapter]] — Developer: Vonster D. Monster, Download: [SpaceQuest.net](https://spacequest.net/misc/fanfiction/fangames/)
+- **2003** — [[2003 - Space Quest 0 - Replicated|SQ0: Replicated]] — Developer: Vonster D. Monster, Download: [SpaceQuest.net](https://spacequest.net/misc/fanfiction/fangames/)
+- **2011** — [[2011 - Space Quest - Vohaul Strikes Back|Vohaul Strikes Back]] — Developer: Infamous Quests, Download: [Download](https://www.sqvsb.com/)
+- **2012** — [[2012 - Space Quest - Incinerations|Incinerations]] — Developer: Infamous Quests, Download: [Download](https://boxofmystery.com/games/incinerations/)
 
 ### Spiritual Successors
 
@@ -204,4 +204,4 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 [^ref-6]: [SpaceQuest.net - Space Quest 7](https://spacequest.net/sq7/) – Cancelled sequel history
 [^ref-7]: [Kickstarter - SpaceVenture](https://www.kickstarter.com/projects/guysfromandromeda/two-guys-spaceventure-by-the-creators-of-space-que) – Spiritual successor campaign
 [^ref-8]: [SpaceQuest.net](https://spacequest.net/) – Premier fan community site
-[^ref-9]: [Space Quest: Incinerations](https://sq-incinerations.com/) – Fan game project
+[^ref-9]: [Space Quest: Incinerations](https://boxofmystery.com/games/incinerations/) – Fan game project

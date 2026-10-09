@@ -276,6 +276,6 @@ The game's acquisition by Sierra On-Line shortly after release placed it within 
 [^ref-12]: [Giant Bomb – Casino De Luxe](https://giantbomb.com/wiki/Games/Casino_De_Luxe) – Release date, platform information, genre classification, cover art notes
 [^ref-13]: [Kotaku – Best of Sierra Nr. 7](https://kotaku.com/games/best-of-sierra-nr-7) – Compilation inclusion confirmation (July/August 1998)
 [^ref-14]: [Computer Game Review – September 1995](https://archive.org/details/computer-game-review-september-1995/page/n55/mode/1up) – Frank Snyder, Ted Chapman, Tasos Kaiafas review (85/100), p. 56
-[^ref-15]: [GamesNostalgia – David Lester Profile](https://gamesnostalgia.com/story/156/legendary-game-designers-david-lester) – Designer biography, Casino De Luxe conceived by Lester
+[^ref-15]: [GamesNostalgia – David Lester Profile](https://gamesnostalgia.net/person/david-lester) – Designer biography; says Lester "would also have a hand in making Casino De Luxe"
 [^ref-16]: [Sierra Buyer's Guide Spring 1996](https://archive.org/details/RetroGamingProductCatalogs/Sierra%20Buyer%27s%20Guide%20%28Spring%201996%29/page/n27/mode/1up) – Official Sierra catalog listing (p. 28)
 [^ref-17]: [Joystick Magazine – November 1995 (Issue 65)](https://archive.org/details/joystick065/page/n89/mode/1up) – French review by Moulinex (100/200), p. 90

@@ -88,15 +88,14 @@ The XBLA-era revival (2006–2010) of *3D Ultra MiniGolf Adventures* demonstrate
 [^ref-1]: [MobyGames — 3-D Ultra series](https://www.mobygames.com/group/4244/3-d-ultra-series/) — Full series listing
 [^ref-2]: [Wikipedia — Jeff Tunnell](https://en.wikipedia.org/wiki/Jeff_Tunnell) — Founder career, JTP sub-label
 [^ref-3]: [Wikipedia — 3-D Ultra NASCAR Pinball](https://en.wikipedia.org/wiki/3-D_Ultra_NASCAR_Pinball) — Crossover with Papyrus NASCAR catalog
-[^ref-4]: [Wikipedia — 3D Ultra MiniGolf Adventures](https://en.wikipedia.org/wiki/3D_Ultra_MiniGolf_Adventures) — XBLA-era revival
+[^ref-4]: [Wikipedia — 3D Ultra MiniGolf Adventures](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_Adventures) — XBLA-era revival
 [^ref-5]: [GarageGames history](https://en.wikipedia.org/wiki/GarageGames) — Tunnell's post-Dynamix venture
 [^ref-6]: [The Digital Antiquarian — Dynamix](https://www.filfre.net/?s=Dynamix) — Dynamix's role in Sierra catalog
 [^ref-7]: [Sierra Chest — 3-D Ultra series](https://www.sierrachest.com/index.php?a=games&fld=series&id=3d-ultra) — Per-title metadata
-[^ref-8]: [IGN — 3D Ultra MiniGolf Adventures 2 review](https://www.ign.com/articles/2010/06/22/3d-ultra-minigolf-adventures-2-review) — Final-entry critical reception
 [^ref-9]: [GameSpot — 3-D Ultra Pinball review](https://www.gamespot.com/reviews/3-d-ultra-pinball-review/) — Founding-entry reception
-[^ref-10]: [PCGamingWiki — 3-D Ultra Pinball series](https://www.pcgamingwiki.com/wiki/Series:3-D_Ultra_Pinball) — Technical specifications
+[^ref-10]: [PCGamingWiki — 3-D Ultra series](https://www.pcgamingwiki.com/wiki/Series:3-D_Ultra) — Series entry list
 [^ref-11]: [MobyGames — Jeff Tunnell Productions](https://www.mobygames.com/company/2308/jeff-tunnell-productions/) — Sub-label credits
 [^ref-12]: [Hardcore Gaming 101 — Dynamix](http://www.hardcoregaming101.net/dynamix/) — Dynamix studio history
-[^ref-13]: [Lionel Trains licensing announcement](https://en.wikipedia.org/wiki/3-D_Ultra_Lionel_TrainTown) — Licensing deal
+[^ref-13]: [Wikipedia — 3D Ultra Lionel Traintown](https://en.wikipedia.org/wiki/3D_Ultra_Lionel_Traintown) — "licensed by Lionel, LLC"
 [^ref-14]: [Traxxas — Brand history](https://traxxas.com/about) — RC manufacturer behind Radio Control Racers Deluxe
 [^ref-15]: [MobyGames — Maximum Pool](https://www.mobygames.com/game/3942/maximum-pool/) — Cool Pool rebranding history

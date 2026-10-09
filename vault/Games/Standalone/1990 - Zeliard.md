@@ -291,7 +291,7 @@ The game's legacy is somewhat bittersweet. Despite passionate fan advocacy and l
 [^ref-12]: [GameFAQs – Zeliard Walkthrough](https://gamefaqs.gamespot.com/pc/575849-zeliard/faqs/9990) – town/cavern listings, boss names, item listings, fan club reference
 [^ref-13]: [Cheatbook – Zeliard Boss Guide](https://www.cheatbook.de/wfiles/zeliardboss.htm) – boss strategies, El Pollo Diablo quote, inventory limit
 [^ref-14]: [GameFAQs – Zeliard FAQs](https://gamefaqs.gamespot.com/pc/575849-zeliard/faqs) – Jashiin quote, community maps
-[^ref-15]: [Zeliard Game Tripod – About](https://zeliardgame.tripod.com/about/index.html) – controls, gameplay quote
+[^ref-15]: [Zeliard Game Tripod – About](https://web.archive.org/web/20260420045339/https://zeliardgame.tripod.com/about/index.html) – controls, gameplay quote
 [^ref-16]: [VOGONS Forum – Zeliard Discussion](https://www.vogons.org/viewtopic.php?p=1383593) – joystick issues, version 2.0 fix
 [^ref-17]: [MobyGames – Zeliard Trivia](https://www.mobygames.com/game/189/zeliard/trivia/) – F1 key functionality, screen redrawing technique, PC Speaker channels
 [^ref-18]: [CRPG Addict – Zeliard: Not Enough Dexterity](http://crpgaddict.blogspot.com/2011/01/zeliard-not-enough-dexterity.html) – death penalty, color-coded doors, boss descriptions
@@ -308,6 +308,6 @@ The game's legacy is somewhat bittersweet. Despite passionate fan advocacy and l
 [^ref-29]: [PC Gamer – Worst PC Game Box Art](https://www.pcgamer.com/the-worst-pc-game-box-art-ever/) – box art criticism quote
 [^ref-30]: [VJ Army – Zeliard](https://vjarmy.com/archives/2013/06/zeliard.php) – Japanese gaming exposure, Game Arts legacy
 [^ref-31]: [GOG Dreamlist – Zeliard](https://www.gog.com/dreamlist/game/zeliard) – digital availability status
-[^ref-32]: [Zeliard Game Tripod – Projects](https://zeliardgame.tripod.com/projects/index.html) – ending criticism, fan project efforts, no sequel
+[^ref-32]: [Zeliard Game Tripod – Projects](https://web.archive.org/web/20260123000335/https://zeliardgame.tripod.com/projects/index.html) – ending criticism, fan project efforts, no sequel
 [^ref-34]: [KHInsider – Zeliard MT-32 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/zeliard-msdos-pc88-sharp-x1-gamerip-1987) – MT-32 recording details, track listing
 [^ref-35]: [Abandonware DOS – Zeliard FAQ](https://www.abandonwaredos.com/docawd.php?sf=zeliardfaq.txt&st=manual&sg=Zeliard&idg=849) – gameplay description, secret locations, items, banking system

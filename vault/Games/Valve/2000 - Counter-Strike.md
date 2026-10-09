@@ -340,7 +340,7 @@ From a design perspective, Counter-Strike's success stemmed from its elegant sim
 [^ref-31]: [Eurogamer – Counter-Strike 1.0 Release](http://www.eurogamer.net/articles/article_29710) – beta labeling, retail transition
 [^ref-32]: [GameSpot – Counter-Strike 1.0 Released](https://www.gamespot.com/articles/counter-strike-10-released/1100-2652037/) – release announcement, file sizes
 [^ref-33]: [HL2-Beta.ru – Beta 7.0 Documentation](https://hl2-beta.ru/index.php?action=downloads;sa=view;down=56) – version changelog, map additions
-[^ref-34]: [Neoseeker Wiki – Half-Life: Counter-Strike](https://halflife.neoseeker.com/wiki/Half-Life:_Counter-Strike) – system requirements, Steam pricing
+[^ref-34]: [Neoseeker Wiki – Half-Life: Counter-Strike (archived)](https://web.archive.org/web/20181030055514/http://halflife.neoseeker.com/wiki/Half-Life:_Counter-Strike) – system requirements, Steam pricing
 [^ref-36]: [Xbox GameSpy – Counter-Strike Review](http://xbox.gamespy.com/xbox/counter-strike/6362p1.html) – Xbox release date, review
 [^ref-37]: [MobyGames – Patch History](https://www.mobygames.com/game/2726/half-life-counter-strike/patches/) – patch version dates
 [^ref-38]: Internet Archive – Counter-Strike 1.3 Offline *(download link removed: the game is sold commercially)* – compatibility instructions

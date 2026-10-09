@@ -16,7 +16,7 @@ last_updated: '2026-10-09'
 
 Coktel Vision was a French video game development studio founded in 1985 in Paris, France, that became renowned for creating some of the most distinctive and eccentric adventure games of the 1990s.[^ref-1][^ref-2] The company specialized in point-and-click adventure games with unique artistic styles, innovative gameplay mechanics, and often surreal or mature themes that set them apart from their contemporaries.[^ref-3][^ref-4] Under the leadership of founders Roland Oskian and others, Coktel Vision developed a reputation for pushing creative boundaries in interactive entertainment, producing everything from adult-oriented adventures to whimsical children's games.[^ref-5][^ref-6]
 
-American publisher Sierra On-Line acquired the studio in a deal finalised on 29 October 1993. Sierra then published Coktel's popular French titles worldwide, while Coktel localised Sierra's games and published them through its Tomahawk label.[^ref-7][^ref-8] During their two-decade existence, Coktel Vision created over 30 games, including the beloved Gobliiins series, the time-travel epic Lost in Time, and various educational titles under the Playtoons brand.[^ref-9][^ref-10] Their games were characterized by hand-drawn artwork, complex puzzles, and a distinctly European sensibility that made them stand out in the predominantly American adventure game market of the era.[^ref-11][^ref-12]
+American publisher Sierra On-Line acquired the studio in a deal finalised on 29 October 1993. Sierra then published Coktel's popular French titles worldwide, while Coktel localised Sierra's games and published them through its Tomahawk label.[^ref-7][^ref-8] During their two-decade existence, Coktel Vision created over 30 games, including the beloved Gobliiins series, the time-travel epic Lost in Time, and various educational titles under the Playtoons brand.[^ref-10] Their games were characterized by hand-drawn artwork, complex puzzles, and a distinctly European sensibility that made them stand out in the predominantly American adventure game market of the era.[^ref-11][^ref-12]
 
 ## History
 
@@ -30,7 +30,7 @@ The studio's early catalog revealed their willingness to explore mature and cont
 
 The pivotal moment in Coktel Vision's history came in 1993 when they were acquired by Sierra On-Line, the legendary American publisher known for their King's Quest and Space Quest series.[^ref-7][^ref-20] This acquisition, announced in May 1994, was part of Sierra's strategy to expand their international presence and diversify their game portfolio with European talent.[^ref-16] Under Sierra's umbrella, Coktel Vision maintained creative autonomy while gaining access to superior marketing, distribution, and localization resources that allowed their games to reach audiences worldwide.[^ref-21]
 
-The Sierra years proved to be Coktel Vision's most productive and critically acclaimed period. The Gobliiins series, which began in 1991, found new audiences through Sierra's distribution network and became one of the most beloved puzzle-adventure franchises of the 1990s.[^ref-1][^ref-3] Games like "Lost in Time" (1993) and "The Bizarre Adventures of Woodruff and the Schnibble" (1995) showcased the studio's ability to create complex, multi-layered adventures that appealed to both casual players and hardcore adventure game enthusiasts.[^ref-9][^ref-11]
+The Sierra years proved to be Coktel Vision's most productive and critically acclaimed period. The Gobliiins series, which began in 1991, found new audiences through Sierra's distribution network and became one of the most beloved puzzle-adventure franchises of the 1990s.[^ref-1][^ref-3] Games like "Lost in Time" (1993) and "The Bizarre Adventures of Woodruff and the Schnibble" (1995) showcased the studio's ability to create complex, multi-layered adventures that appealed to both casual players and hardcore adventure game enthusiasts.[^ref-11]
 
 ### Later Years and Closure
 
@@ -42,11 +42,11 @@ Despite their efforts to remain relevant, Coktel Vision struggled to maintain pr
 
 ### Gobliiins (1991)
 
-The original Gobliiins launched in 1991 and became Coktel Vision's most recognizable and commercially successful franchise.[^ref-1][^ref-9] The game featured three distinct goblin characters—Oups, Ignatius, and Asghan—each with unique abilities that players had to coordinate to solve elaborate puzzles. The innovative three-character mechanics, combined with Pierre Gilhodes's distinctive artwork and whimsical humor, created an adventure game unlike anything else on the market.[^ref-3][^ref-11] The series would eventually span four games, with each entry refining the formula while maintaining the charming aesthetic and challenging puzzle design that made the original so beloved.
+The original Gobliiins launched in 1991 and became Coktel Vision's most recognizable and commercially successful franchise.[^ref-1] The game featured three distinct goblin characters—Oups, Ignatius, and Asghan—each with unique abilities that players had to coordinate to solve elaborate puzzles. The innovative three-character mechanics, combined with Pierre Gilhodes's distinctive artwork and whimsical humor, created an adventure game unlike anything else on the market.[^ref-3][^ref-11] The series would eventually span four games, with each entry refining the formula while maintaining the charming aesthetic and challenging puzzle design that made the original so beloved.
 
 ### Lost in Time (1993)
 
-"Lost in Time" represented Coktel Vision at their creative peak, delivering a complex time-travel narrative that spanned multiple historical periods and featured some of the most sophisticated puzzle design of the era.[^ref-9][^ref-19] The game's intricate plot involved a man searching for his missing fiancée across different time periods, from medieval castles to futuristic dystopias. With its mature themes, sophisticated artwork, and challenging gameplay, "Lost in Time" demonstrated Coktel Vision's ability to create adventure games that rivaled the best offerings from American studios while maintaining their distinctive European sensibility.[^ref-12][^ref-17]
+"Lost in Time" represented Coktel Vision at their creative peak, delivering a complex time-travel narrative that spanned multiple historical periods and featured some of the most sophisticated puzzle design of the era.[^ref-19] The game's intricate plot involved a man searching for his missing fiancée across different time periods, from medieval castles to futuristic dystopias. With its mature themes, sophisticated artwork, and challenging gameplay, "Lost in Time" demonstrated Coktel Vision's ability to create adventure games that rivaled the best offerings from American studios while maintaining their distinctive European sensibility.[^ref-12][^ref-17]
 
 ### The Bizarre Adventures of Woodruff and the Schnibble (1995)
 
@@ -97,7 +97,6 @@ Coktel Vision showed that a French studio's games could travel. Sierra published
 [^ref-6]: [Avid Wiki](https://www.avid.wiki/Coktel_Studio) — Studio information and key personnel
 [^ref-7]: [Glitchwave](https://glitchwave.com/game-company/coktel-vision/) — Company profile and game ratings
 [^ref-8]: [Coktel Vision - Wikipedia](https://en.wikipedia.org/wiki/Coktel_Vision) — Sierra acquisition (finalised 29 October 1993), worldwide publishing of Coktel titles, Muriel Tramis's themes
-[^ref-9]: [Internet Archive](https://archive.org/details/lost-in-time-usa) — Lost in Time game documentation
 [^ref-10]: [Abandonware DOS](https://www.abandonwaredos.com/retro-game-company.php?cmp=87&n=coktel-vision) — Complete game catalog and company history
 [^ref-11]: [Giant Bomb](https://www.giantbomb.com/search/?q=Coktel+Vision&filter=company) — Game database and reviews
 [^ref-12]: [Games Database](https://www.gamesdatabase.org/all_developer_games-coktel_vision) — Developer game listings

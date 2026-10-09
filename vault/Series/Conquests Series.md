@@ -31,7 +31,7 @@ The series produced exactly two games. A third Conquests entry was reportedly pi
 
 ## Conquests of Camelot: The Search for the Grail (1990)
 
-Christy Marx's first major Sierra design. The player is **King Arthur**, who must lead a personal quest to find his missing knights (Galahad, Lancelot, Gawain) and ultimately retrieve the Holy Grail. The game spans Britain, the deserts of the Holy Land, and finally a mystical Grail Castle.[^ref-5]
+Christy Marx's first major Sierra design. The player is **King Arthur**, who must lead a personal quest to find his missing knights (Galahad, Lancelot, Gawain) and ultimately retrieve the Holy Grail. The quest crosses England and then follows Galahad's trail to Gaza and Jerusalem, ending at the ancient Temple of Aphrodite, where the goddess directs Arthur to the Grail.[^ref-5]
 
 **Design innovations:**
 - **Mounted combat sequences** with horseback duels and lance jousting.
@@ -44,7 +44,7 @@ Christy Marx's first major Sierra design. The player is **King Arthur**, who mus
 
 ## Conquests of the Longbow: The Legend of Robin Hood (1991)
 
-Marx's second Conquests entry and the more widely-celebrated of the two. The player is Robin Hood, leading the Sherwood Forest outlaws during King Richard's absence on Crusade. The game spans 14 in-game days, each with multiple available activities (rob travelers, train men, woo Marian, raid Nottingham, etc.), and the player's choices over those days determine the ending.[^ref-8]
+Marx's second Conquests entry and the more widely-celebrated of the two. The player is Robin Hood, leading the Sherwood Forest outlaws during King Richard's absence on Crusade. Gameplay is divided into days, each with tasks that must be completed before advancing; leaving vital tasks undone, along with the ransom money raised and the number of outlaws still alive, determines which of four endings the player receives.[^ref-8]
 
 **Design innovations:**
 - **Day-by-day open structure** — Unusual for Sierra; each in-game day allowed multiple activities and gameplay tracks.
@@ -69,7 +69,7 @@ What unifies the two games:
 
 The Conquests series occupies a distinctive niche in Sierra's catalog as the company's most "serious-historical-fiction" titles — Marx's literary approach distinguishes them from the broader adventure-game humor and fantasy tradition.
 
-*Conquests of the Longbow* in particular has appeared in multiple "underrated Sierra games" retrospectives and is widely considered the high point of medieval-themed adventure gaming.[^ref-11] Both games are available on GOG.com individually.
+Both games are available on GOG.com individually.
 
 Christy Marx went on to work on multiple subsequent Sierra titles (including writing for *Quest for Glory III*) and later returned to television and comics writing. She is one of the most-credited female designers from the Sierra golden era.[^ref-12]
 
@@ -88,13 +88,12 @@ No Conquests revival has been announced; the IP sits with Activision Blizzard / 
 [^ref-2]: [Wikipedia — Conquests of the Longbow](https://en.wikipedia.org/wiki/Conquests_of_the_Longbow:_The_Legend_of_Robin_Hood) — Second entry overview
 [^ref-3]: [Christy Marx — Official site](https://www.christymarx.com) — Designer biography and writing credits
 [^ref-4]: [MobyGames — Conquests group](https://www.mobygames.com/group/conquests-series/) — Series catalog
-[^ref-5]: [Adventure Classic Gaming — Conquests of Camelot review](http://www.adventureclassicgaming.com/index.php/site/reviews/conquests_of_camelot/) — Design analysis
+[^ref-5]: [Wikipedia — Conquests of Camelot: The Search for the Grail](https://en.wikipedia.org/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) — plot summary
 [^ref-6]: [Sierra Chest — Conquests of Camelot](https://www.sierrachest.com/index.php?a=games&id=conquests-camelot) — Production details
 [^ref-7]: [Computer Gaming World — Camelot review (1990)](http://www.cgwmuseum.org/galleries/index.php?year=1990) — Contemporary critical reception
-[^ref-8]: [Adventure Classic Gaming — Longbow review](http://www.adventureclassicgaming.com/index.php/site/reviews/conquests_of_the_longbow/) — Design analysis (5/5)
+[^ref-8]: [Wikipedia — Conquests of the Longbow: The Legend of Robin Hood](https://en.wikipedia.org/wiki/Conquests_of_the_Longbow:_The_Legend_of_Robin_Hood) — gameplay (days, scoring, four endings)
 [^ref-9]: [Hardcore Gaming 101 — Conquests](http://www.hardcoregaming101.net/conquests/) — Series retrospective
 [^ref-10]: [Computer Gaming World — Longbow review (1991)](http://www.cgwmuseum.org) — 5/5 review documentation
-[^ref-11]: [PC Gamer — Underrated Sierra games](https://www.pcgamer.com/best-sierra-games) — Modern retrospective
 [^ref-12]: [Sierra Gamers — Christy Marx interview](https://www.sierragamers.com/christy-marx) — Designer oral history
 [^ref-13]: [GOG.com — Conquests of Camelot](https://www.gog.com/en/game/conquests_of_camelot) — Current availability
 [^ref-14]: [GOG.com — Conquests of the Longbow](https://www.gog.com/en/game/conquests_of_the_longbow) — Current availability

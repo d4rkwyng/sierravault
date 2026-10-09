@@ -338,7 +338,7 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 [^ref-32]: [Homeworld 2 Complex](http://www.homeworld2complex.com/index1.htm) – mod statistics, community praise
 [^ref-33]: [ModDB – Homeworld Remastered Players Patch](https://www.moddb.com/mods/homeworld-remastered-players-patch) – community patch features
 [^ref-34]: [ModDB – Homeworld Manual](https://www.moddb.com/games/homeworld/downloads/homeworld-manual) – original manual
-[^ref-35]: [Gearbox Publishing – Homeworld 3 Announcement](https://www.gearboxpublishing.com/press_release/homeworld-3-reveals-the-next-chapter-in-the-award-winning-homeworld-franchise-with-new-story-trailer/) – Rob Cunningham quote
+[^ref-35]: [Gearbox Publishing – Homeworld 3 Announcement (archived)](https://web.archive.org/web/20260211005626/https://www.gearboxpublishing.com/press_release/homeworld-3-reveals-the-next-chapter-in-the-award-winning-homeworld-franchise-with-new-story-trailer/) – Rob Cunningham quote
 [^ref-36]: [Black Screen Records – Homeworld Remastered Soundtrack](https://blackscreenrecords.com/products/homeworld-remastered) – Paul Ruskay background, DAT tapes
 [^ref-37]: [Black Screen Records – Homeworld 2 Remastered Soundtrack](https://blackscreenrecords.com/products/homeworld-2-remastered) – musical influences
 [^ref-38]: [Kotaku – Homeworld Soundtrack Overhaul](https://kotaku.com/how-we-overhauled-the-homeworld-soundtrack-for-a-new-au-1692665327) – Paul Ruskay quotes, audio asset statistics

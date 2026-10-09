@@ -10,18 +10,18 @@ series: Hoyle Board Games
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Hoyle Board Games 2001, also known as Hoyle Board Games 5, is a comprehensive
   digital board game compilation developed and published by Sierra On-Line that...
 tags: [2000s, hoyle-board-games, sierra]
 ---
 # Hoyle Board Games 2001
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-Hoyle Board Games 2001, also known as Hoyle Board Games 5, is a comprehensive digital board game compilation developed and published by [[Sierra On-Line]] that brings a suite of timeless tabletop favorites to the desktop[^ref-1][^ref-18][^ref-19][^ref-20]. Released in 2000 for Windows and Macintosh platforms, the game offers an approachable, family-friendly way to enjoy classic board gaming on a personal computer[^ref-2]. The collection features 16 all-time favorite board games enhanced with graphics and sound for a more engaging PC experience, plus three bonus card games[^ref-3].
+Hoyle Board Games 2001, also known as Hoyle Board Games 5, is a comprehensive digital board game compilation developed and published by [[Sierra On-Line]] that brings a suite of timeless tabletop favorites to the desktop[^ref-1][^ref-18][^ref-19]. Released in 2000 for Windows and Macintosh platforms, the game offers an approachable, family-friendly way to enjoy classic board gaming on a personal computer[^ref-2]. The collection features sixteen classic board games, augmented by multimedia and full-color graphics[^ref-3].
 
 The games have the same challenging play elements as their real-world counterparts, but they are enhanced with animated opponents and customizable features that distinguish them from simple digital recreations[^ref-4]. Players can compete against ten computer opponents with adjustable skill levels, engage in local head-to-head play, or connect with friends and family over the Internet[^ref-2]. The package includes Sierra's patented "facemaker" character creation system, allowing players to create personalized avatars that speak and are fully animated[^ref-5].
 
@@ -61,8 +61,8 @@ Hoyle Board Games 2001 features an extensive collection of 16 classic board game
 
 **Puzzle Games:**
 - **Line 'Em Up** – Similar to Connect Four[^ref-7]
-- **Master Match** – Logic deduction game similar to Mastermind, new to this edition[^ref-3]
-- **Rummy Squares** – Tile placement game similar to Rummikub, new to this edition[^ref-3]
+- **Master Match** – Code-breaking logic game similar to Mastermind[^ref-3]
+- **Rummy Squares** – Tile game derived from the Turkish game Okey[^ref-3]
 - **Placer Racer** – Similar to Puzzle Bobble[^ref-7]
 
 **Mahjong Games:**
@@ -71,10 +71,6 @@ Hoyle Board Games 2001 features an extensive collection of 16 classic board game
 - **Gravity Tiles** – Alternative game mode using Mahjong tiles[^ref-7]
 
 The package also includes three card games as bonus content[^ref-6].
-
-### New Additions
-
-This recently upgraded edition added two new games compared to previous versions: Master Match and Rummy Squares[^ref-3]. These additions expanded the collection from 14 games in the 1998 edition to 16 games in the 2001 version[^ref-3].
 
 ## Gameplay
 
@@ -109,7 +105,7 @@ Hoyle Board Games 2001 received generally positive reviews from critics and play
 
 The review noted that "board game fans will appreciate the graphics and easy interface found in Hoyle Board Games, though some of the opponents' chatter may be a bit off-putting"[^ref-5]. However, Soete concluded that "the only real drawback is that if you're not new to the Hoyle Board Game series, you may not find much reason to upgrade to this version"[^ref-5].
 
-Children's Technology Review praised the educational value of the collection, noting that "this great program now offers 16 all-time favorite board games" and emphasized that "obviously, this is a product the whole family can enjoy"[^ref-3]. The review highlighted the game's focus on strategy, game play, and logic as educational elements[^ref-3].
+Macworld's Danilo Campos called it "a job very well done," noting that play is "simple and intuitive" and that the collection includes a manual, both electronic and hard copy, "detailing the rules and histories of all its games"[^ref-3].
 
 ### Later Editions Reception
 
@@ -129,7 +125,7 @@ The game has maintained a positive reputation among retro gaming enthusiasts, wi
 
 ### Origins
 
-Hoyle Board Games 2001 represents the fifth installment in Sierra's Hoyle Board Games series, following the successful 1998 edition[^ref-1]. The Hoyle series had been a long-running Sierra property, with board game compilations dating back to the early 1990s[^ref-14]. The development team sought to create an accessible family gaming experience that would appeal to both newcomers and fans of the previous editions[^ref-3].
+Hoyle Board Games 2001 represents the fifth installment in Sierra's Hoyle Board Games series, following the successful 1998 edition[^ref-1]. The Hoyle series had been a long-running Sierra property, with board game compilations dating back to the early 1990s[^ref-14].
 
 ### Production
 
@@ -197,7 +193,7 @@ The game is also known as Hoyle Board Games 5, indicating its position as the fi
 
 ### Sales and Commercial Impact
 
-Hoyle Board Games 2001 was released at a retail price of $29.99 and came packaged with a free Hoyle rule book and strategy guide[^ref-3]. The game was one of several Hoyle titles released by Sierra during this period, demonstrating the commercial viability of the board game compilation format[^ref-10].
+Hoyle Board Games 2001 shipped with a manual, in both electronic and hard-copy form, covering the rules and histories of all its games[^ref-3]. The game was one of several Hoyle titles released by Sierra during this period, demonstrating the commercial viability of the board game compilation format[^ref-10].
 
 ### Collections and Related Titles
 
@@ -211,7 +207,7 @@ The game was also part of a larger Hoyle ecosystem that included card game colle
 
 ### Related Publications
 
-- **Hoyle Rule Book and Strategy Guide:** Included free with purchase of the game[^ref-3]
+- **Manual:** Electronic and hard-copy manual covering the rules and histories of all included games[^ref-3]
 
 ### Critical Perspective
 
@@ -297,7 +293,7 @@ The series quote that "it may only appeal to players who are unfamiliar with any
 
 [^ref-1]: [MobyGames – Hoyle Board Games 2001](https://www.mobygames.com/game/31043/hoyle-board-games-2001/) – developer, publisher, credits, release dates, ratings, alternate titles, platforms
 [^ref-2]: [Software Informer – Hoyle Board Games 2001](https://hoyle-board-games-2001.software.informer.com/) – game features, developer info, description
-[^ref-3]: [Children's Technology Review](http://matthewjdimatteo.com/ctr/review.php?id=5611) – game count, price, new games, educational value
+[^ref-3]: [Macworld – Hands on with Hoyle Board Games](https://www.macworld.com/article/164966/hoyle-2.html) – Danilo Campos, Feb 15, 2001; sixteen games incl. Master Match and Rummy Squares, manual, verdict
 [^ref-4]: [GameFAQs – Hoyle Board Games 1998](https://gamefaqs.gamespot.com/pc/928577-hoyle-board-games-1998) – product description, multiplayer features
 [^ref-5]: [GameSpot Review by Tim Soete (December 2000)](https://www.gamespot.com/reviews/hoyle-board-games/1900-2664994/) – review score 7/10, facemaker feature, gameplay analysis
 [^ref-6]: [IGN – Hoyle Board Games 2001](https://www.ign.com/games/hoyle-board-games-2001) – release date, game list, developer, publisher
@@ -314,4 +310,3 @@ The series quote that "it may only appeal to players who are unfamiliar with any
 [^ref-17]: [Metacritic – Hoyle Board Games 2001](https://www.metacritic.com/game/hoyle-board-games-2001/) – ESRB rating, release date, game summary
 [^ref-18]: [IGDB – Hoyle Board Games 2001](https://www.igdb.com/games/hoyle-board-games-2001) — Internet Games Database entry, hybrid Windows/Mac platform tagging
 [^ref-19]: [LaunchBox Games Database – Hoyle Board Games 2001](https://gamesdb.launchbox-app.com/games/details/hoyle-board-games-2001) — community-curated metadata, cover-art reference
-[^ref-20]: [PCGamingWiki – Hoyle Board Games 2001](https://www.pcgamingwiki.com/wiki/Hoyle_Board_Games_2001) — technical documentation, compatibility matrix, modern-OS install notes

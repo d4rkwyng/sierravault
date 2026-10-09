@@ -81,7 +81,7 @@ The company's emphasis on player experimentation and discovery learning helped l
 [^ref-4]: [BoardGameGeek - Jeff Tunnell Productions](https://boardgamegeek.com/videogamedeveloper/16384/jeff-tunnell-productions) — Game catalog and details
 [^ref-5]: [Games Industry Search](https://www.gamesindustry.biz/search?q=Jeff+Tunnell+Productions) — Industry coverage and analysis
 [^ref-6]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Jeff_Tunnell_Productions) — Sierra relationship and publishing details
-[^ref-7]: [Games Nostalgia](https://gamesnostalgia.com/games/developer/jeff+tunnell+productions) — Game library and historical context
+[^ref-7]: [Games Nostalgia](https://gamesnostalgia.net/games/company/jeff-tunnell-productions) — Game library and historical context
 [^ref-8]: [YouTube Playlist](https://www.youtube.com/playlist?list=PLAACE54344D008E7F) — Video content and gameplay demonstrations
 [^ref-9]: [PeoplePill - Jeff Tunnell](https://peoplepill.com/i/jeff-tunnell/) — Biographical information
 [^ref-10]: [MobyGames - Jeff Tunnell Productions](https://www.mobygames.com/company/1897/jeff-tunnell-productions/) — Comprehensive game database entry

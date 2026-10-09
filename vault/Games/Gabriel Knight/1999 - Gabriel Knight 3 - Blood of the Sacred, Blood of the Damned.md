@@ -122,7 +122,7 @@ The infamous "cat hair mustache" puzzle became a touchstone for discussions abou
 
 Preservation efforts by various fan communities and digital distribution platforms ensure its availability for future players and researchers[^ref-7][^ref-38][^ref-39].
 
-Modern compatibility efforts through community patches and tools like dgVoodoo demonstrate the dedicated fanbase that continues to support and play the game decades after release[^ref-36][^ref-59][^ref-74]. The game remains available through digital platforms like GOG and Steam, though often requiring community-created fixes for modern systems[^ref-38][^ref-75].
+Modern compatibility efforts through community patches and tools like dgVoodoo demonstrate the dedicated fanbase that continues to support and play the game decades after release[^ref-36][^ref-59]. The game remains available through digital platforms like GOG and Steam, though often requiring community-created fixes for modern systems[^ref-38][^ref-75].
 
 ## Downloads
 
@@ -179,7 +179,6 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 [^ref-70]: https://www.speedrun.com/gk3_blood - Speedrunning leaderboard showing competitive completion times
 [^ref-71]: https://steamcommunity.com/sharedfiles/filedetails/?id=3264152998 - Steam Community fan walkthrough guide
 [^ref-72]: https://steamcommunity.com/app/497360/reviews/?browsefilter=toprated - Steam Community user reviews for digital re-release
-[^ref-74]: https://steamsolo.com/guide/gabriel-knight-3-several-fixes-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/ - Technical troubleshooting guide for modern systems
 [^ref-75]: https://store.steampowered.com/search/?term=Gabriel+Knight+3%3A+Blood+of+the+Sacred%2C+Blood+of+the+Damned - Steam store search results
 [^ref-78]: https://tcrf.net/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned - The Cutting Room Floor wiki documenting hidden content and unused assets
 [^ref-80]: https://www.uhs-hints.com/uhsweb/gk3.php - UHS hints showing game structure organized into 3 days

@@ -9,7 +9,7 @@ last_updated: "2026-10-09"
 ---
 # Doug Johnson
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -57,7 +57,7 @@ His writing and speaking on educational technology topics established him as a p
 
 ### Front Page Sports: Football Pro '97 (1996)
 
-Johnson's role as Lead Designer on Front Page Sports: Football Pro '97 represented the pinnacle of his sports gaming career and showcased his ability to manage complex simulation systems while maintaining engaging gameplay.[^ref-1] The game was part of the acclaimed Front Page Sports series, which was known for its statistical depth and realistic portrayal of professional football. Johnson's leadership on this project required coordinating multiple development disciplines while ensuring that the final product met both the technical standards expected by simulation enthusiasts and the entertainment value required for commercial success.[^ref-6]
+Johnson's role as Lead Designer on Front Page Sports: Football Pro '97 represented the pinnacle of his sports gaming career and showcased his ability to manage complex simulation systems while maintaining engaging gameplay.[^ref-1] The game was part of the acclaimed Front Page Sports series, which was known for its statistical depth and realistic portrayal of professional football.
 
 The development of Football Pro '97 took place during a particularly competitive period in sports gaming, with multiple publishers vying for dominance in the football simulation market. Johnson's design approach emphasized authentic statistical modeling while ensuring that gameplay remained accessible to players who might not be deeply familiar with football strategy.[^ref-1] This balance between simulation accuracy and playability became a hallmark of his design philosophy and contributed to the game's positive reception among both critics and players.
 
@@ -119,7 +119,6 @@ Johnson's recognition through various awards, including the IBM Excellence in Ma
 [^ref-3]: [LinkedIn - Doug Johnson](https://www.linkedin.com/in/dojohnso/) — Professional background and self-description as hands-on tech leader
 [^ref-4]: [Education World - Doug Johnson](https://www.educationworld.com/a_tech/columnists/johnson/johnson021.shtml) — Educational philosophy and quotes about games in education
 [^ref-5]: [Doug Johnson Portfolio](http://dougjohnson.squarespace.com/) — Personal website and professional portfolio
-[^ref-6]: [Retro Gamer - Doug Johnson](https://www.retrogamer.net/?s=Doug+Johnson) — Gaming industry coverage and historical context
 [^ref-7]: [Giant Bomb - Doug Johnson](https://www.giantbomb.com/search/?q=Doug+Johnson&filter=person) — Gaming database and industry information
 [^ref-8]: [Genotaur - Doug Johnson](http://web.archive.org/web/20260120141613/http://www.genotaur.com/people/doug-johnson) — Professional profile and career information
 [^ref-9]: [LinkedIn - Doug Johnson Peoria](https://www.linkedin.com/in/doug-johnson-peoria/) — Additional professional background

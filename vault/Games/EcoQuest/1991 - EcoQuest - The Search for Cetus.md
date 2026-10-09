@@ -185,12 +185,12 @@ The game's environmental message has proven timeless, with its themes of marine 
 [^ref-11]: [IGN](https://www.ign.com/articles/2002/09/03/ecoquest-the-search-for-cetus-walkthroughfaq-369792) – Main plot premise
 [^ref-12]: [Play Classic Games](https://playclassic.games/games/adventure-dos-games-online/play-ecoquest-search-cetus-online/) – Plot synopsis
 [^ref-13]: [MyAbandonware](https://www.myabandonware.com/game/ecoquest-the-search-for-cetus-1ra) – Plot summary and HOTUD review
-[^ref-14]: [The Spoiler](https://the-spoiler.com/ADVENTURE/Sierra/ecoquest.1.html) – Interface information
+[^ref-14]: [The Spoiler](https://www.justadventure.com/walkthrough/ecoquest/) – Interface information
 [^ref-15]: [DOSBox Wiki](https://www.dosbox.com/wiki/GAMES:EcoQuest:_The_Search_for_Cetus) – Engine information
 [^ref-16]: [GitHub - Doomlazer/EQ1-CDR](https://github.com/Doomlazer/EQ1-CDR) – Version history and restoration details
 [^ref-17]: [Alex Bevi](https://alexbevi.com/blog/2024/02/28/ecoquest/) – Difficulty design and modern review
 [^ref-18]: [IGN Walkthrough](https://www.ign.com/articles/2003/11/14/ecoquest-the-search-for-cetus-walkthrough-435827) – No death/unwinnable states
-[^ref-19]: [The Spoiler](https://the-spoiler.com/ADVENTURE/Sierra/eco.quest.2.html) – Scoring system details
+[^ref-19]: [The Spoiler](https://www.justadventure.com/walkthrough/eco-quest-2/) – Scoring system details
 [^ref-20]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=EcoQuest:+The+Search+for+Cetus&gid=2593) – Community rating
 [^ref-21]: [IMDb](https://www.imdb.com/find/?q=EcoQuest%3A+The+Search+for+Cetus&s=tt) – IMDb rating
 [^ref-22]: Adventure Gamers Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Modern assessment

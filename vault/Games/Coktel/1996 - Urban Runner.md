@@ -246,7 +246,7 @@ The game's spiritual connection to Lost in Time and its intended role in a large
 [^ref-10]: [PCGamingWiki – Urban Runner](https://www.pcgamingwiki.com/wiki/Urban_Runner) – engine, system requirements, technical specifications
 [^ref-11]: [Alex Bevilacqua Blog – Urban Runner](https://alexbevi.com/blog/2023/02/15/urban-runner/) – plot summary, acting critique, actor background
 [^ref-12]: [Sierra Chest – Urban Runner Walkthrough](https://www.sierrachest.com/index.php?a=games&id=181&title=urban-runner-lost-in-town&fld=walkthrough&pid=130) – storyline details, character names, puzzle information
-[^ref-13]: [The Spoiler – Urban Runner Walkthrough](https://the-spoiler.com/ADVENTURE/Sierra/urban.runner.1.html) – hint system, multiple endings, difficulty assessment
+[^ref-13]: [The Spoiler – Urban Runner Walkthrough](https://www.justadventure.com/walkthrough/urban-runner/) – hint system, multiple endings, difficulty assessment
 [^ref-14]: [OldGames.sk – Urban Runner](https://www.oldgames.sk/en/game/urban-runner/download/4796/) – game structure, Clue/Action turns, rating
 [^ref-15]: [Sierra Help – Urban Runner Walkthrough](https://sierrahelp.com/Walkthroughs/UrbanRunnerWalkthrough.html) – gameplay guidance, save advice
 [^ref-16]: [Adventure Gamers – Urban Runner](https://web.archive.org/web/20230109053907/https://adventuregamers.com/games/view/16680) – review score, system requirements, gameplay assessment

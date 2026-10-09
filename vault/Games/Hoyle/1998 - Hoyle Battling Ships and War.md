@@ -86,7 +86,7 @@ No major-outlet reviews from contemporary gaming publications have been document
 
 **Aggregate Scores:**
 - **MobyGames (Players):** 3.4/5 (casual-compilation tier)[^ref-1][^ref-16]
-- **MyAbandonware (Users):** 4.0/5 (community rating)[^ref-17]
+- **MyAbandonware (Users):** 5/5 from 2 votes (community rating, October 2026)[^ref-17]
 - **No critic-side aggregate score documented** (Metacritic and GameSpot did not cover the release)[^ref-2]
 
 Modern assessment of Hoyle Battling Ships And War is limited, as the game exists primarily as a historical artifact from Sierra's casual gaming catalog. The game's compatibility with modern systems presents challenges, requiring specific emulation settings or legacy Windows environments to run[^ref-2][^ref-6].
@@ -308,7 +308,7 @@ The collaboration between experienced Sierra personnel on this title, including 
 [^ref-14]: [Old Games Download – Hoyle Battling Ships and War](https://oldgamesdownload.com/hoyle-battling-ships-and-war/) – abandonware preservation and download resources
 [^ref-15]: [Internet Archive – Hoyle Board Games](https://archive.org/details/HOYLEBOARD) – digital preservation and original media archives
 [^ref-16]: [MobyGames – Hoyle Battling Ships and War reviews/ratings](https://www.mobygames.com/game/78846/hoyle-battling-ships-and-war/reviews/) – community-rating aggregate dataset, player score (3.4/5), discussion threads
-[^ref-17]: [MyAbandonware – Hoyle Battling Ships and War user reviews](https://www.myabandonware.com/game/hoyle-battling-ships-and-war-djz/reviews) – user-side rating (4.0/5), nostalgic-era comments, abandonware download metadata
+[^ref-17]: [MyAbandonware – Hoyle Battling Ships and War](https://www.myabandonware.com/game/hoyle-battling-ships-and-war-djz) – user rating (5/5, 2 votes as of 2026-10-09), download metadata
 [^ref-18]: [Hoyle's Official Book of Games (Wikipedia)](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series chronology placing Battling Ships And War within Sierra's late-1990s Hoyle release schedule
 [^ref-19]: [IGDB – Hoyle Battling Ships and War](https://www.igdb.com/games/hoyle-battling-ships-and-war) – Internet Games Database entry, platform listings, release-year confirmation, genre tagging
 [^ref-20]: GameFAQs – Hoyle Battling Ships and War *(link removed: it led to a different game's page)* – cross-platform release entry, user-rating placeholder, retail-listing confirmation

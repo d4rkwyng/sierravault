@@ -76,7 +76,7 @@ The impact of their work extends beyond just game development, as they have fost
 
 [^ref-1]: [Game Pressure - Infamous Quests](https://www.gamepressure.com/companies/infamous-quests/z8122c) — Company overview and game listings
 [^ref-2]: [Games Industry - Infamous Quests Search](https://www.gamesindustry.biz/search?q=Infamous+Quests) — Industry news and coverage
-[^ref-3]: [Infamous Quests Official Website](https://www.infamous-quests.com/) — Official company information and announcements
+[^ref-3]: [Infamous Quests on itch.io](https://infamousquests.itch.io/) — Official company information and announcements
 [^ref-4]: [YouTube - Infamous Quests Video](https://www.youtube.com/watch?v=e-6QJcKhj2w) — Development videos and gameplay footage
 [^ref-5]: [Patreon - Infamous Quests](https://www.patreon.com/cw/InfamousQuests) — Crowdfunding and community support information
 [^ref-6]: [True Achievements - Infamous Quests](https://www.trueachievements.com/developer/Infamous-Quests/games) — Game achievements and development details

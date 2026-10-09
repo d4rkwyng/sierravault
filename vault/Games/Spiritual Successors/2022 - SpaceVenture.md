@@ -153,7 +153,6 @@ The team has continued supporting the game post-release, with v2 updates in late
 - [Steam - $24.99](https://store.steampowered.com/app/1374960/SpaceVenture/)[^ref-3]
 
 **Preservation**
-- [PCGamingWiki](https://www.pcgamingwiki.com/wiki/SpaceVenture) – Technical fixes and compatibility information[^ref-19]
 
 ## See Also
 
@@ -194,6 +193,5 @@ The team has continued supporting the game post-release, with v2 updates in late
 [^ref-16]: [Time Extension](https://www.timeextension.com/news/2022/09/10-years-later-space-quest-successor-spaceventure-emerges-from-development-hell) – - Development challenges commentary
 [^ref-17]: [IGN](https://www.ign.com/articles/2014/09/15/spaceventure-the-new-game-from-the-creators-of-space-quest) – - Activision contact attempt details
 [^ref-18]: [Kickstarter Update – SpaceVenture v2](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/4278390) – v2 announcement and development phases
-[^ref-19]: [PCGamingWiki – SpaceVenture](https://www.pcgamingwiki.com/wiki/SpaceVenture) – Technical documentation and fixes
 [^ref-20]: [Adventure Game Hotspot – SpaceVenture Review (2026)](https://adventuregamehotspot.com/review/6234/spaceventure) – Sam Amiotte-Beaulieu's 73% review of the post-Early Access full release
 [^ref-21]: [Steam – SpaceVenture Announcements](https://steamcommunity.com/app/1374960/announcements/) – Official patch notes for v2.08.05 through v2.08.11 (2026)

@@ -300,7 +300,7 @@ The team's approach of receiving official licensing before distribution set an i
 **Preservation:**
 - [Internet Archive – Spanish Version](https://archive.org/details/kings-quest-i-quest-for-the-crown)[^ref-35]
 - [MyAbandonware](https://www.myabandonware.com/game/king-s-quest-quest-for-the-crown-c1e)[^ref-21]
-- [GamesNostalgia](https://gamesnostalgia.com/game/kings-quest-i-vga-remake)[^ref-20]
+- [GamesNostalgia](https://gamesnostalgia.net/game/kings-quest-i-vga-remake)[^ref-20]
 - [Adventure Game Studio Database](https://www.adventuregamestudio.co.uk/site/games/game/36/)[^ref-19]
 
 **Manuals & Extras:**
@@ -343,7 +343,7 @@ The team's approach of receiving official licensing before distribution set an i
 [^ref-17]: [King's Quest Fandom – Enhanced Edition](https://kingsquest.fandom.com/wiki/King's_Quest_I:_Quest_for_the_Crown_Enhanced_Edition) – No Dead-Ends mode description
 [^ref-18]: [MobyGames – KQ1 VGA](https://www.mobygames.com/game/6418/kings-quest-quest-for-the-crown/) – ratings, credits, Royal Quest parody origin
 [^ref-19]: [Adventure Game Studio Database](https://www.adventuregamestudio.co.uk/site/games/game/36/) – AGS Awards, user reviews, technical specs
-[^ref-20]: [GamesNostalgia – KQ1 VGA Remake](https://gamesnostalgia.com/game/kings-quest-i-vga-remake) – editorial score, download information
+[^ref-20]: [GamesNostalgia – KQ1 VGA Remake](https://gamesnostalgia.net/game/kings-quest-i-vga-remake) – editorial score, download information
 [^ref-21]: [MyAbandonware – KQ1 VGA](https://www.myabandonware.com/game/king-s-quest-quest-for-the-crown-c1e) – user ratings, HOTUD quotes
 [^ref-22]: [Metacritic – KQ1 VGA](https://www.metacritic.com/game/kings-quest-i-quest-for-the-crown-vga/) – user score, user reviews
 [^ref-23]: [IMDB – Britney Brimhall](https://www.imdb.com/name/nm1881735/) – voice credit, IMDB rating

@@ -93,14 +93,14 @@ The technical achievements of AGD Interactive have also contributed to the broad
 [^ref-9]: [Gamicus - AGD Interactive](https://gamicus.fandom.com/wiki/AGD_Interactive) — Developer profile and game catalog
 [^ref-10]: [AGD Interactive About Page](https://www.agdinteractive.com/about/about.html) — Official company history and mission statement
 [^ref-11]: [IGDB - AGD Interactive Company Profile](https://www.igdb.com/companies/agd-interactive) — Database entry with company statistics
-[^ref-12]: [Games Nostalgia - AGD Interactive Games](https://gamesnostalgia.com/games/developer/agd+interactive) — Game collection and developer overview
+[^ref-12]: [Games Nostalgia - AGD Interactive Games](https://gamesnostalgia.net/games/company/agd-interactive) — Game collection and developer overview
 [^ref-13]: [Adventure Classic Gaming Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/403/) — Developer interview and industry insights
 [^ref-14]: [MobyGames - AGD Interactive LLC](https://www.mobygames.com/company/2734/agd-interactive-llc/) — Comprehensive game database and company information
 [^ref-15]: [Wikidata - AGD Interactive](https://www.wikidata.org/wiki/Q3643494) — Structured data about the company
 [^ref-16]: [Tracxn - AGD Interactive Company Profile](https://tracxn.com/d/companies/agd-interactive/__xYHqLfJdrIff72i6vYAe5cdmldxoANZrCeQLHcZM4Nw) — Business profile and company metrics
 [^ref-17]: [Giant Bomb - AGD Interactive](https://www.giantbomb.com/agd-interactive/3010-2225/) — Gaming database profile and game listings
 [^ref-18]: [RZ Feeser Blog - AGD Interactive Studios](https://www.rzfeeser.com/blog/agd-interactive-studios-adventure-games-live-again) — Industry analysis and company impact
-[^ref-19]: [Sierra Classic Gaming - AGD Interactive](https://sierraclassicgaming.com/developer/agd-interactive/) — Developer profile focused on Sierra connections
+[^ref-19]: [Sierra Classic Gaming - AGD Interactive (archived)](https://web.archive.org/web/20260606203833/http://sierraclassicgaming.com/developer/agd-interactive/) — Developer profile focused on Sierra connections
 [^ref-20]: [Gamia Archive - AGD Interactive](https://gamia-archive.fandom.com/wiki/AGD_Interactive) — Archived gaming wiki entry with historical information
 [^ref-21]: [Wikipedia - [[Himalaya Studios]]](https://en.wikipedia.org/wiki/Himalaya_Studios) — [[Himalaya Studios]] founding and relationship to AGDI
 [^ref-22]: [[Himalaya Studios]] Official Website](https://www.himalayastudios.com/about.php) — Company background and original game development

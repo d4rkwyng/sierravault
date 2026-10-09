@@ -27,7 +27,7 @@ Hoyle Casino 2000, also known simply as Hoyle Casino or Hoyle Casino 5, is a com
 
 The game serves as a spin-off of Hoyle's Official Book of Games series and allows players to begin with $5,000 in virtual currency to try their luck across an impressive array of casino games[^ref-3]. Players can choose from 25 default characters to interact with at various gaming tables, creating a social atmosphere that mimics the experience of a real casino floor[^ref-4]. Short of paying players off in real money, Hoyle Casino 2000 includes everything expected from the exciting world of casino gambling, making it an ideal stress-relief activity for home computer users[^ref-5].
 
-The title proved commercially successful in North America, moving over 230,000 units and generating more than $6 million in revenue within its first year[^ref-4]. Released across multiple platforms including Windows, Macintosh, Sega Dreamcast, and Game Boy Color, the game reached a wide audience of both dedicated PC gamers and console owners looking for a comprehensive gambling simulation[^ref-3].[^ref-12][^ref-13][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20]
+The title proved commercially successful in North America, moving over 230,000 units and generating more than $6 million in revenue within its first year[^ref-4]. Released across multiple platforms including Windows, Macintosh, Sega Dreamcast, and Game Boy Color, the game reached a wide audience of both dedicated PC gamers and console owners looking for a comprehensive gambling simulation[^ref-3].[^ref-12][^ref-13][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-3]
@@ -283,4 +283,3 @@ The multi-platform release strategy employed for Hoyle Casino 2000 was relativel
 [^ref-17]: [LaunchBox Games Database – Hoyle Casino 2000](https://gamesdb.launchbox-app.com/games/details/hoyle-casino-2000) — community-curated metadata, cover-art reference, GBC platform tagging
 [^ref-18]: [Sierra Chest – Hoyle Casino 2000 product page](https://sierrachest.com/index.php?a=games&id=420&fld=general) — Sierra Chest packaging archive, release-info documentation
 [^ref-19]: [Adventure Classic Gaming – Sierra Attractions Hoyle line retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Sierra Attractions' multi-platform Hoyle strategy
-[^ref-20]: [Internet Archive – Hoyle Casino 2000 (Dreamcast)](https://archive.org/details/hoyle-casino-2000-dreamcast) — Dreamcast preservation archive

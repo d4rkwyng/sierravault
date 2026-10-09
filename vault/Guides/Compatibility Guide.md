@@ -10,9 +10,9 @@ This guide highlights essential fixes, installers, and configuration tips for ru
 ## Essential Sources
 - [SierraHelp.com](https://www.sierrahelp.com/) – Community-made installers, DOSBox/ScummVM wrappers, and patch mirrors for nearly every Sierra release.
 - [ScummVM](https://www.scummvm.org/) – Preferred runtime for AGI/SCI games; includes bug fixes, mouse enhancements, and digital audio support.
-- [DOSBox Staging](https://dosbox-staging.github.io/) – Modern DOSBox fork with enhanced features for games not supported by ScummVM.
+- [DOSBox Staging](https://www.dosbox-staging.org/) – Modern DOSBox fork with enhanced features for games not supported by ScummVM.
 - [SpaceQuest.net](https://spacequest.net/) – Series-specific fixes for *Space Quest* releases.
-- [QuestForMoreGlory.com](https://www.questformoreglory.com/) – Hero import utilities and fan fixes for *Quest for Glory*.
+- [QuestForMoreGlory.com (archived)](https://web.archive.org/web/20250713163631/http://questformoreglory.com/) – Hero import utilities and fan fixes for *Quest for Glory*.
 
 ## Steam Deck Compatibility
 
@@ -115,8 +115,8 @@ ScummVM provides dedicated engines for Sierra games with **Excellent** compatibi
 
 ## DOSBox Staging
 
-**Current version:** Check [dosbox-staging.github.io](https://dosbox-staging.github.io/) for the latest release
-- [Download page](https://dosbox-staging.github.io/)
+**Current version:** Check [dosbox-staging.org](https://www.dosbox-staging.org/) for the latest release
+- [Download page](https://www.dosbox-staging.org/download/)
 - Modern fork with improved accuracy, pixel shaders, and built-in MIDI support
 
 ### Key Features for Sierra Games
@@ -132,7 +132,7 @@ Use SierraHelp's pre-configured DOSBox profiles when available.
 
 ### Known Issues
 - **16-bit installers fail** – Windows 11 has no 16-bit subsystem. Use:
-  - [OTVDM](https://github.com/nicfab/otvdm) – 16-bit thunking layer for running `SETUP.EXE`
+  - [OTVDM (winevdm)](https://github.com/otya128/winevdm) – 16-bit thunking layer for running `SETUP.EXE`
   - SierraHelp's modern installers (bundle DOSBox/ScummVM)
   - Extract directly with 7-Zip, configure manually
 - **High DPI scaling** – Some SCI32 games have UI issues at 4K. Set compatibility mode to "System (Enhanced)" DPI settings
@@ -211,8 +211,8 @@ For original Macintosh Sierra games:
 ## External References
 - [ScummVM Downloads](https://www.scummvm.org/downloads/) – Official builds for all platforms
 - [ScummVM Compatibility](https://www.scummvm.org/compatibility/) – Full game support list with ratings
-- [DOSBox Staging](https://dosbox-staging.github.io/) – Modern DOSBox fork
+- [DOSBox Staging](https://www.dosbox-staging.org/) – Modern DOSBox fork
 - [SierraHelp.com](https://www.sierrahelp.com/) – Community patches and installers
 - [CrossOver](https://www.codeweavers.com/crossover) – Wine-based Windows compatibility layer for macOS/Linux
-- [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/) – DirectX wrapper for older Windows games
-- [OTVDM](https://github.com/nicfab/otvdm) – 16-bit Windows app compatibility layer
+- [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) – DirectX wrapper for older Windows games
+- [OTVDM (winevdm)](https://github.com/otya128/winevdm) – 16-bit Windows app compatibility layer

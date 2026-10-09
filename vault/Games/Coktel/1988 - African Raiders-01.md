@@ -241,7 +241,7 @@ The disparity between contemporary reviews (averaging around 58-64%) and modern 
 [^ref-6]: [Amiga Reviews – African Raiders-01](https://www.amigareviews.leveluphost.com/africanr.htm) – multiple magazine reviews, gameplay mechanics, price information
 [^ref-7]: [Abandonware DOS – African Raiders-01](https://www.abandonwaredos.com/abandonware-game.php?abandonware=African+Raiders-01&gid=987) – user ratings, designer credits, review quotes
 [^ref-8]: [Lemon Amiga – African Raiders-01](https://www.lemonamiga.com/games/details.php?id=1517) – magazine reviews, technical specs, user reviews, bug documentation
-[^ref-10]: [Online Classic Games – African Raiders-01](https://onlineclassicgames.com/game/african-raiders-01/) – gameplay description, trivia about real drivers
+[^ref-10]: [Online Classic Games – African Raiders-01](https://playold.games/games/african-raiders-01) – gameplay description, rival drivers, rally stages
 [^ref-11]: [Play Classic Games – African Raiders-01](https://playclassic.games/games/racing-driving-dos-games-online/play-african-raiders-01-online/) – gameplay mechanics, stage distances
 [^ref-12]: [Free Game Empire – African Raiders-01](https://www.freegameempire.com/games/African-Raiders-01) – technical specs, user rating, gameplay description
 [^ref-13]: [My Abandonware – African Raiders-01](https://www.myabandonware.com/game/african-raiders-01-kx) – VGA configuration, map requirement, user reviews, file size

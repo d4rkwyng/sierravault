@@ -252,7 +252,7 @@ The game's combination of solitaire and Mahjong reflected the growing interest i
 [^ref-11]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise overview, series context
 [^ref-12]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – publisher history, company background
 [^ref-13]: [Wikipedia – Hoyle's Games](https://en.wikipedia.org/wiki/Hoyle%27s_Games) – historical Hoyle brand context
-[^ref-14]: [PCGamingWiki – Hoyle Series](https://www.pcgamingwiki.com/wiki/Series:Hoyle) – technical compatibility information
+[^ref-14]: [PCGamingWiki – Hoyle's Official Book of Games series](https://www.pcgamingwiki.com/wiki/Series:Hoyle%27s_Official_Book_of_Games) – technical compatibility information
 [^ref-15]: [MyAbandonware – Hoyle Games](https://www.myabandonware.com/search/q/hoyle+solitaire) – preservation archives
 [^ref-16]: [Internet Archive – Hoyle Games](https://archive.org/search?query=hoyle+solitaire+mahjong) – digital preservation
 [^ref-17]: [IGDB – Hoyle Solitaire](https://www.igdb.com/search?type=1&q=hoyle+solitaire) – game database

@@ -184,7 +184,7 @@ Based on contemporary documentation:[^ref-4]
 
 ### Download / Preservation
 
-- [Internet Archive – ISO Image](https://archive.org/details/leisure-suit-larrys-casino-usa) – Redump verified copy, 438.1 MB[^ref-12]
+- [Internet Archive – Disc Image](https://archive.org/details/Nova_LSL-Casino_USA) – Redump-verified copy (redump.org disc 80152)[^ref-12]
 
 ### Physical Media
 
@@ -210,12 +210,12 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 [^ref-9]: [The Sierra Network – Wikipedia](https://en.wikipedia.org/wiki/The_Sierra_Network) – History of TSN/ImagiNatioN and the LarryLand virtual environment concept
 [^ref-10]: [Al Lowe – Wikipedia](https://en.wikipedia.org/wiki/Al_Lowe) – Career timeline including departure from Sierra in February 1999
 [^ref-11]: [Leisure Suit Larry's Casino – GOG.com](https://www.gog.com/) – Game not available for digital purchase; no release on platform
-[^ref-12]: [Leisure Suit Larry's Casino (USA) – Internet Archive](https://archive.org/details/leisure-suit-larrys-casino-usa) – Redump-verified disc image for preservation and download
+[^ref-12]: [Leisure Suit Larry's Casino (USA) – Internet Archive](https://archive.org/details/Nova_LSL-Casino_USA) – Redump-verified disc image for preservation and download
 
 [^ref-13]: [PCGamingWiki – Leisure Suit Larry's Casino (1998)](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry's_Casino_(1998)) – Technical documentation, bugs, fixes, game information
 
 [^ref-14]: [Hardcore Gaming 101 – Leisure Suit Larry (Assorted)](http://www.hardcoregaming101.net/leisure-suit-larry-assorted/) – Series history, spinoff documentation, context and analysis
 
-[^ref-15]: [The Spoiler – Leisure Suit Larry's Casino Walkthrough](https://the-spoiler.com/ADVENTURE/Sierra/leisure.suit.larry.casino.1.html) – Game guide, feature documentation, gameplay details
+[^ref-15]: [The Spoiler – Leisure Suit Larry's Casino Walkthrough](https://www.justadventure.com/walkthrough/leisure-suit-larrys-casino-cheats-2/) – Game guide, feature documentation, gameplay details
 
 [^ref-16]: [Leisure Suit Larry – Wikipedia](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) – Series history: Ultimate Pleasure Pack contents, LarryLand (1992) on The Sierra Network

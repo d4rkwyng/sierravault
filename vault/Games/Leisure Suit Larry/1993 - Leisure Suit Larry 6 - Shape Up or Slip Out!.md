@@ -194,12 +194,12 @@ The game remains available through digital distribution platforms, included in t
 [^ref-8]: https://en.wikipedia.org/wiki/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out! - Wikipedia article with developer information
 [^ref-9]: https://allowe.com/games/larry/tips-manuals/larry-manuals.html - Official Al Lowe website confirming his designer role
 [^ref-10]: https://www.sierrachest.com/index.php?a=games&id=28&fld=general - Sierra Chest database with publisher information
-[^ref-11]: https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out! - Technical documentation with platform availability
+[^ref-11]: [PCGamingWiki – Leisure Suit Larry 6: Shape Up or Slip Out!](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out!) - Technical documentation with platform availability
 [^ref-12]: [Adventure Gamers – Walkthrough by Tom Hayes](https://web.archive.org/web/20250516053646/https://adventuregamers.com/walkthrough/full/leisure-suit-larry-6-shape-up-or-slip-out) - Complete walkthrough with plot setup details
 [^ref-13]: https://backloggd.com/u/MegaTheRealOne/review/1339112 - User review noting absence of Passionate Patti
 [^ref-14]: https://advgamer.blogspot.com/2023/12/leisure-suit-larry-6-shape-up-or-slip.html - Analysis of Al Lowe's design document and clean slate approach
 [^ref-15]: https://reddit.com/r/Sierra/comments/1ktgdcd/leisure_suit_larry_6_shape_up_or_slip_out_1993/ - Reddit discussion of game objectives
-[^ref-16]: https://dosbox.com/wiki/GAMES:Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out! - DOSBox wiki description of Shamara Payne character
+[^ref-16]: [DOSBox Wiki – Leisure Suit Larry 6: Shape Up or Slip Out!](https://www.dosbox.com/wiki/GAMES:Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out!) - DOSBox wiki description of Shamara Payne character
 [^ref-17]: https://mobygames.com/game/407/leisure-suit-larry-6-shape-up-or-slip-out/trivia/ - MobyGames trivia section detailing wine-based character names
 [^ref-18]: https://advgamer.blogspot.com/2024/01/leisure-suit-larry-6-shape-up-or-slip.html - Detailed character name analysis including Cavaricchi Vuarnet
 [^ref-19]: https://tcrf.net/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out! - Technical preservation wiki with engine information
@@ -242,13 +242,13 @@ The game remains available through digital distribution platforms, included in t
 [^ref-56]: https://advgamer.blogspot.com/2023/12/leisure-suit-larry-6-shape-up-or-slip.html - Design document artistic specifications
 [^ref-57]: https://allowe.com/downloads/music-larry.html - Al Lowe's musical contributions including saxophone performance
 [^ref-58]: https://allowe.com/downloads/music-larry.html - Josh Mandel collaboration on "Cell Block Love"
-[^ref-59]: https://pcgamingwiki.com/wiki/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out! - Technical specifications for VGA version
+[^ref-59]: [PCGamingWiki – Leisure Suit Larry 6: Shape Up or Slip Out!](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out!) - Technical specifications for VGA version
 [^ref-60]: https://sierrahelp.com/Games/LeisureSuitLarry/LSL6Help.html - System requirements and graphics capabilities
 [^ref-61]: https://hardcoregaming101.net/leisure-suit-larry-6-shape-up-or-slip-out/ - Assessment of voice acting as first in series
 [^ref-62]: https://backloggd.com/u/MegaTheRealOne/review/1339112 - User review praising full voice acting implementation
 [^ref-63]: https://behindthevoiceactors.com/video-games/leisure-suit-larry-6-shape-up-or-slip-out/ - Professional voice cast and direction information
 [^ref-64]: https://sierrahelp.com/Games/LeisureSuitLarry/LSL6Help.html - Complete system requirements documentation
-[^ref-65]: https://pcgamingwiki.com/wiki/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out! - Audio compatibility and sound card support
+[^ref-65]: [PCGamingWiki – Leisure Suit Larry 6: Shape Up or Slip Out!](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out!) - Audio compatibility and sound card support
 [^ref-66]: https://sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt - Sierra On-Line SEC filing mentioning Larry series success
 [^ref-67]: https://web.archive.org/web/20040203141037/http://www.allowe.com/AL/adventuredead.htm - Sales figures confirming quarter-million copies sold
 [^ref-68]: https://mobygames.com/game/27943/leisure-suit-larry-collection/ - Collection information showing continued Sierra support
@@ -256,12 +256,12 @@ The game remains available through digital distribution platforms, included in t
 [^ref-70]: https://speedrun.com/larry6 - Speedrunning community leaderboard and engagement metrics
 [^ref-71]: https://speedrun.com/larry6/runs/m35r0pgy - Individual speedrun record with optimization details
 [^ref-72]: https://gogdb.org/product/1207662083 - GOG database showing inclusion in compilation
-[^ref-73]: https://dosbox.com/wiki/GAMES:Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out! - DOSBox compatibility documentation
+[^ref-73]: [DOSBox Wiki – Leisure Suit Larry 6: Shape Up or Slip Out!](https://www.dosbox.com/wiki/GAMES:Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out!) - DOSBox compatibility documentation
 [^ref-74]: https://gogdb.org/product/1207662093 - GOG distribution information
 [^ref-75]: (download link removed: the game is sold commercially) - Community preservation site with ratings
 [^ref-76]: https://archive.org/details/Leisure_Suit_Larry_6_-_Manual - Internet Archive manual preservation
 [^ref-77]: https://www.behindthevoiceactors.com/video-games/leisure-suit-larry-6-shape-up-or-slip-out/ - Behind The Voice Actors database with voice director and complete cast listing
 [^ref-78]: https://www.sierrachest.com/index.php?a=games&id=28&fld=general - Sierra Chest documenting original VGA floppy release details
 [^ref-79]: https://www.hardcoregaming101.net/leisure-suit-larry-6-shape-up-or-slip-out/ - Technical details on SVGA CD-ROM version enhancements
-[^ref-80]: https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out! - PCGamingWiki documenting Windows 3.x release
+[^ref-80]: [PCGamingWiki – Leisure Suit Larry 6: Shape Up or Slip Out!](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out!) - PCGamingWiki documenting Windows 3.x release
 [^ref-81]: https://www.mobygames.com/game/407/leisure-suit-larry-6-shape-up-or-slip-out/trivia/ - MobyGames trivia noting cancelled 3DO version

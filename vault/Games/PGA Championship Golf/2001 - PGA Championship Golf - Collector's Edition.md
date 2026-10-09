@@ -265,7 +265,7 @@ The game's legacy within Sierra's catalog is bittersweet. The PGA Championship G
 - Not currently available on major digital storefronts
 
 **Download / Preservation**
-- [Internet Archive – PGA Championship Golf 2000](https://archive.org/details/pc-pga-championship-golf-2000) – ISO images (2 CD)[^ref-31]
+- [Internet Archive – PGA Championship Golf Collector's Edition](https://archive.org/details/PGACGCE) – ISO images (2 CD)[^ref-31]
 - [MyAbandonware – PGA Championship Golf 2000](https://www.myabandonware.com/game/pga-championship-golf-2000-a5h)[^ref-21]
 
 **Patches & Updates**
@@ -311,4 +311,4 @@ The game's legacy within Sierra's catalog is bittersweet. The PGA Championship G
 [^ref-28]: [Sierra Help – PGA Championship Golf Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PGAChampionshipGolfUpdates.html) – patch version history, system requirements
 [^ref-29]: [Dynamix Golf Blog](https://dynamixgolf.wordpress.com/about/) – Larry Nelson quote on golf simulators
 [^ref-30]: [eBay – PGA Championship Golf 2000 Manual](https://www.ebay.com/itm/312059619303) – instruction manual listing
-[^ref-31]: [Internet Archive – PGA Championship Golf 2000](https://archive.org/details/pc-pga-championship-golf-2000) – preservation archive, file size
+[^ref-31]: [Internet Archive – PGA Championship Golf Collector's Edition CD-ROM ISO](https://archive.org/details/PGACGCE) – preservation archive, two CD images

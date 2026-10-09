@@ -288,6 +288,6 @@ The game also holds historical significance as one of the earlier adventure game
 [^ref-22]: [VGMPF – Lost in Time (DOS)](https://www.vgmpf.com/Wiki/index.php?title=Lost_in_Time_(DOS)) – audio specifications, unused tracks, composer credit
 [^ref-23]: [PCGamingWiki – Lost in Time](https://www.pcgamingwiki.com/wiki/Lost_in_Time) – minimum and recommended requirements, Gob engine
 [^ref-24]: [VOGONS Forum – Lost in Time](http://www.vogons.org/viewtopic.php?t=9728) – DOSBox compatibility issues, CVS fix information
-[^ref-25]: [The Spoiler – Lost in Time Walkthrough](https://the-spoiler.com/ADVENTURE/Coktel/lost.in.time.3.html) – difficulty testimonial
+[^ref-25]: [The Spoiler – Lost in Time Walkthrough](https://www.justadventure.com/walkthrough/lost-in-time-2/) – difficulty testimonial
 [^ref-26]: [Internet Archive – Lost in Time (Alternative)](https://archive.org/details/lost-in-time) – ESRB rating, language support
 [^ref-27]: [Internet Archive – Lost in Time Manual](https://archive.org/details/lost-time-manual) – original manual preservation

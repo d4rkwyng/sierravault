@@ -192,7 +192,7 @@ This game has been included in the following collections:
 [^ref-18]: [Lemon Amiga – Quest for Glory II: Trial by Fire](https://www.lemonamiga.com/games/details.php?id=1463) – Amiga magazine reviews
 [^ref-19]: [IMDb – Quest for Glory II: Trial by Fire](https://www.imdb.com/title/tt0420849/) – user ratings
 [^ref-20]: [Speedrun.com – Quest for Glory II: Trial By Fire](https://www.speedrun.com/quest_for_glory_ii_trial_by_fire) – speedrun leaderboards (checked October 2026)
-[^ref-21]: [AGD Interactive – Quest for Glory II VGA](https://www.agdinteractive.com/games/qfg2/about/about.html) – remake details
+[^ref-21]: [AGD Interactive – Quest for Glory II VGA](https://www.agdinteractive.com/games/qfg2/homepage/homepage.html) – remake details
 [^ref-22]: [TV Tropes – Quest for Glory II](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryII) – trope analysis, easter eggs
 [^ref-23]: [ScummVM Wiki – Quest for Glory II](https://wiki.scummvm.org/index.php?title=Quest_for_Glory_II%3A_Trial_by_Fire) – technical compatibility
 [^ref-24]: [The Cutting Room Floor – Quest for Glory II](https://tcrf.net/Quest_for_Glory_II%3A_Trial_by_Fire) – unused content

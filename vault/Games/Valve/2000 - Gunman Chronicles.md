@@ -331,7 +331,7 @@ Despite its troubled development and lukewarm critical reception, Gunman Chronic
 [^ref-42]: GameCopyWorld *(link removed: no-CD/crack site)* – regional release dates, version numbers
 [^ref-43]: [Next Dimension – Steam Patch](http://www.nextdimension.org/gunmantosteam/) – patch details, version dates
 [^ref-44]: [The Cutting Room Floor](https://tcrf.net/Gunman_Chronicles) – Impulse 99 easter egg, development history
-[^ref-45]: [Sounds Resource](https://www.sounds-resource.com/pc_computer/gunmanchronicles/) – alternative game names
+[^ref-45]: [Sounds Resource](https://sounds.spriters-resource.com/pc_computer/gunmanchronicles/) – alternative game names
 [^ref-46]: [GitHub – Xash3D Issue #296: Running Gunman Chronicles (Wayback)](https://web.archive.org/web/20200905065722/https://github.com/FWGS/xash3d/issues/296/) – Xash3D compatibility discussion
 [^ref-47]: [ModDB – Sandbot](https://www.moddb.com/games/gunman-chronicles/downloads/sandbot-v042) – bot mod, accuracy complaints
 [^ref-48]: [Speedrun.com Resources](https://www.speedrun.com/gmc/resources) – speedrun tools

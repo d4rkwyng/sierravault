@@ -223,8 +223,8 @@ The game has been preserved through abandonware archives and the Internet Archiv
 [^ref-13]: [IGDB - NASCAR Craftsman Truck](https://www.igdb.com/games/nascar-craftsman-truck-series-racing) - IGDB
 [^ref-14]: [GameFAQs - NASCAR Craftsman](https://gamefaqs.gamespot.com/pc/198362-nascar-craftsman-truck-series-racing) - database
 [^ref-15]: [MobyGames - NASCAR Craftsman](https://www.mobygames.com/game/nascar-craftsman-truck-series-racing/) - database
-[^ref-16]: [David Kaemmer – iRacing founder profile](https://en.wikipedia.org/wiki/David_Kaemmer) — Papyrus co-founder career history, post-Sierra iRacing leadership, design-philosophy continuity from NASCAR Racing line
+[^ref-16]: [Wikipedia – Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — founded 1987 by David Kaemmer and Omar Khudari; NASCAR Racing line incl. NASCAR Racing 1999 Edition and Craftsman Truck Series Racing; NR2003 code later acquired by FIRST (later iRacing)
 [^ref-17]: [NASCAR Craftsman Truck Series (Wikipedia)](https://en.wikipedia.org/wiki/NASCAR_Craftsman_Truck_Series) — historical context for the truck series, established in 1995, that the game simulated
 [^ref-18]: [Sierra Sports brand history](https://en.wikipedia.org/wiki/Sierra_Entertainment#Sports_titles) — Sierra Sports publishing-strategy context for targeted-segment NASCAR releases
-[^ref-19]: [Internet Archive – NASCAR Craftsman Truck Series Racing](https://archive.org/details/nascar-craftsman-truck-series-racing) — digital preservation archive of the PC release
+[^ref-19]: [Internet Archive – NASCAR Craftsman Truck Series Racing](https://archive.org/details/NascarCraftsmanTruckSeriesRacing) — digital preservation archive of the PC release
 [^ref-20]: [PCGamingWiki – NASCAR Craftsman Truck Series Racing](https://www.pcgamingwiki.com/wiki/NASCAR_Craftsman_Truck_Series_Racing) — technical documentation, compatibility matrix, modern-OS install notes

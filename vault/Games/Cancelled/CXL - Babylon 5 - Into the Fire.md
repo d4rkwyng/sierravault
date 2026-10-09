@@ -199,7 +199,7 @@ The cancellation came at a particularly unfortunate moment—the game was demons
 
 **Download / Preservation**
 - [My Abandonware – Alpha Version](https://www.myabandonware.com/game/babylon-5-into-the-fire-cky) - 202 MB download[^ref-7]
-- [X-Bomber Archive](https://www.xbomber.co.uk/?dir=Other/Games%20-%20Babylon%205%20Into%20the%20Fire) - Alpha versions and soundtrack information[^ref-8]
+- [X-Bomber Archive](https://xbomber.com/?dir=Other/Games%20-%20Babylon%205%20Into%20the%20Fire) - Alpha versions and soundtrack information[^ref-8]
 
 **Related Fan Games**
 - Babylon Project (FreeSpace mod/standalone) - Free alternative[^ref-7]
@@ -221,7 +221,7 @@ The cancellation came at a particularly unfortunate moment—the game was demons
 [^ref-5]: [Springbringer – Babylon 5: Into the Fire Blog](https://www.springbringer.com/web/fantasya/blog1.html) – promotional materials, alpha release information, Christopher Franke music details
 [^ref-6]: [Frontier Forums – Babylon 5: Into the Fire Discussion](https://forums.frontier.co.uk/threads/babylon-5-into-the-fire-abandoned-1999-space-game.61329/) – fan recollections, voice recording details, cast information
 [^ref-7]: [My Abandonware – Babylon 5: Into the Fire](https://www.myabandonware.com/game/babylon-5-into-the-fire-cky) – download information, user ratings, version details
-[^ref-8]: [X-Bomber – Babylon 5: Into the Fire Archive](https://www.xbomber.co.uk/?dir=Other/Games%20-%20Babylon%205%20Into%20the%20Fire) – soundtrack information, alpha downloads
+[^ref-8]: [X-Bomber – Babylon 5: Into the Fire Archive](https://xbomber.com/?dir=Other/Games%20-%20Babylon%205%20Into%20the%20Fire) – soundtrack information, alpha downloads
 [^ref-9]: [The Digital Antiquarian – Space Sims Comments](https://www.filfre.net/2025/11/the-space-sims-last-hurrah/) – technical requirements for running demo
 [^ref-10]: [B5TV Forums – Into the Fire Discussion](https://www.b5tv.com/threads/into-the-fire-aborted-video-game.42560/) – Suanne Brown voice acting details, completion status
 [^ref-11]: [Abandonware DOS – Babylon 5 Games Search](https://www.abandonwaredos.com/search.php?search=Babylon+5%3A+Into+the+Fire) – reference to fan-made alternative

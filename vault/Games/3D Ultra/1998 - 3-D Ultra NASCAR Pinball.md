@@ -22,7 +22,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 
 ## Overview
 
-3-D Ultra NASCAR Pinball is a virtual pinball game that combines two of America's favorite pastimes: energetic pinball and high-speed car racing[^ref-1][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21][^ref-22]. Released on December 1, 1998, this title represents the fourth entry in Sierra's popular 3-D Ultra Pinball series[^ref-2], developed by [[Dynamix]] and published by Sierra Attractions[^ref-3]. The game takes the NASCAR license and applies it as a thematic overlay to the established pinball formula, allowing players to experience the stages of a race day through pinball gameplay rather than traditional racing mechanics[^ref-9].
+3-D Ultra NASCAR Pinball is a virtual pinball game that combines two of America's favorite pastimes: energetic pinball and high-speed car racing[^ref-1][^ref-17][^ref-18][^ref-19][^ref-21][^ref-22]. Released on December 1, 1998, this title represents the fourth entry in Sierra's popular 3-D Ultra Pinball series[^ref-2], developed by [[Dynamix]] and published by Sierra Attractions[^ref-3]. The game takes the NASCAR license and applies it as a thematic overlay to the established pinball formula, allowing players to experience the stages of a race day through pinball gameplay rather than traditional racing mechanics[^ref-9].
 
 Although the game may appeal to racing fans, it is important to note that NASCAR Pinball is not actually a racing game—it is a virtual pinball game with a NASCAR racing theme[^ref-10]. Players start in the Garage table where they can modify their steering, tune-ups, and brakes, then proceed to race through interconnected pinball tables while hitting targets to gain pole position, pull into the lead, and eventually take the checkered flag[^ref-6]. The game was also released in Europe under the alternate title "3-D Ultra Pinball: Turbo Racing"[^ref-2].
 
@@ -214,6 +214,5 @@ The game was part of Sierra's broader 3-D Ultra Pinball franchise, though specif
 [^ref-17]: [IGDB – 3-D Ultra NASCAR Pinball](https://www.igdb.com/search?q=3-D+Ultra+NASCAR+Pinball) — Game database cross-reference
 [^ref-18]: LaunchBox Games Database – 3-D Ultra NASCAR Pinball *(link removed: it led to a different game's page)* — community-curated metadata, Windows/Mac platform tagging, cover-art reference
 [^ref-19]: [Sierra Chest – 3-D Ultra NASCAR Pinball product page](https://sierrachest.com/index.php?a=games&id=345&fld=general) — Sierra Chest packaging archive and Sierra Attractions sublabel context
-[^ref-20]: [PCGamingWiki – 3-D Ultra NASCAR Pinball](https://www.pcgamingwiki.com/wiki/3-D_Ultra_NASCAR_Pinball) — technical documentation, modern-OS compatibility notes
 [^ref-21]: [MobyGames – 3-D Ultra NASCAR Pinball](https://www.mobygames.com/game/3209/3-d-ultra-nascar-pinball/) — game database entry, full credits and platform listing
 [^ref-22]: [Adventure Classic Gaming – Dynamix 3-D Ultra retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for the Dynamix 3-D Ultra Pinball series

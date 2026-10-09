@@ -17,7 +17,7 @@ Brian Mark Hahn (born May 3, 1959) is an American graphics artist, designer, and
 
 Hahn's contributions to gaming extend far beyond puzzle design.[^ref-7] His work at Dynamix encompassed adventure games like [[1990 - Rise of the Dragon|Rise of the Dragon]], [[1991 - Heart of China|Heart of China]], and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]], sports titles like the Trophy Bass series, and casual games including the 3-D Ultra Minigolf franchise.[^ref-2][^ref-9] He is also credited with creating the beloved Johnny Castaway screensaver (1992), one of the most iconic desktop diversions of the Windows 3.1 era.[^ref-1][^ref-10]
 
-Remarkably, Hahn remains active in the game industry after a 16-year hiatus.[^ref-2] From 2018 to 2023, he worked as an FX Artist at ZeniMax Online Studios on six major expansions for The Elder Scrolls Online, bringing his career total to over 40 games across 38+ years.[^ref-2][^ref-11] His biography notes that his specialty is "getting people excited about an idea and having a positive, upbeat attitude.[^ref-8] He loves collaboration and encourages lots of communication and team-building."[^ref-3][^ref-12]
+Remarkably, Hahn remains active in the game industry after a 16-year hiatus.[^ref-2] From 2018 to 2023, he worked as an FX Artist at ZeniMax Online Studios on six major expansions for The Elder Scrolls Online, bringing his career total to over 40 games across 38+ years.[^ref-2][^ref-11] His biography notes that his specialty is "getting people excited about an idea and having a positive, upbeat attitude.[^ref-8] He loves collaboration and encourages lots of communication and team-building."[^ref-3]
 
 ## Career
 
@@ -196,7 +196,6 @@ The enduring popularity of his work, particularly The Incredible Machine series,
 [^ref-9]: [Sega Wiki - The Adventures of Willy Beamish](https://sega.fandom.com/wiki/The_Adventures_of_Willy_Beamish) — Hahn's collaboration with Sheri Wheeler on character design
 [^ref-10]: [Wikipedia - The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine_(series)) — Overview of the franchise Hahn helped create
 [^ref-11]: [The Elder Scrolls Online Credits](https://www.mobygames.com/game/elder-scrolls-online/) — Hahn's FX Artist contributions to ESO expansions
-[^ref-12]: [VGMPF - Brian Hahn](https://vgmpf.com/Wiki/index.php?title=Brian_Hahn) — Music and sound design credits
 [^ref-13]: [GarageGames Archive](https://www.garagegames.com/) — Post-Dynamix work on Marble Blast
 [^ref-14]: [Sierra Gamers - Dynamix Staff](https://www.sierragamers.com/dynamix/) — Dynamix company history and key personnel
 [^ref-15]: [Giant Bomb - Brian Hahn](https://www.giantbomb.com/brian-hahn/3040-35996/) — Game credits database

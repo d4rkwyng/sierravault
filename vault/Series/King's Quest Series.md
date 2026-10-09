@@ -144,14 +144,14 @@ The series maintains an active fan community decades after the original games:
 
 - **2001** — [[2001 - King's Quest I VGA Remake|KQ1 VGA Remake]] — Developer: AGD Interactive, Download: [AGDI](https://www.agdinteractive.com/games/kq1/)
 - **2002** — [[2002 - King's Quest II+ - Romancing the Stones|KQ2+ Romancing the Stones]] — Developer: AGD Interactive, Download: [AGDI](https://www.agdinteractive.com/games/kq2/)
-- **2006** — [[2006 - King's Quest III Remake (Infamous Adventures)|KQ3 Remake (IA)]] — Developer: Infamous Adventures, Download: [IA](https://www.infamous-adventures.com/kq3/)
+- **2006** — [[2006 - King's Quest III Remake (Infamous Adventures)|KQ3 Remake (IA)]] — Developer: Infamous Adventures, Download: [IA](https://infamousadventures.itch.io/kings-quest-iii-vga-remake)
 - **2011** — [[2011 - King's Quest III Redux - To Heir is Human|KQ3 Redux]] — Developer: AGD Interactive, Download: [AGDI](https://www.agdinteractive.com/games/kq3/)
-- **2021** — [[2021 - King's Quest IV Retold|KQ4 Retold]] — Developer: IIGS Team, Download: [Download](https://kq4retold.com/)
+- **2021** — [[2021 - King's Quest IV Retold|KQ4 Retold]] — Developer: IIGS Team, Download: [AGS](https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/)
 - **TBD** — [[TBD - King's Quest IV Remake (Infamous Adventures)|KQ4 Remake (IA)]] — Developer: Infamous Adventures, Download: In development
 
 ### Fan Sequels
 
-- **2010-2012** — [[2010 - The Silver Lining|The Silver Lining]] — Developer: Phoenix Online Studios, Link: [POS](https://www.postudios.com/tsl/)
+- **2010-2012** — [[2010 - The Silver Lining|The Silver Lining]] — Developer: Phoenix Online Studios, Link: [POS](https://www.postudios.com/company/games/thesilverlining/)
 
 ## See Also
 
@@ -202,4 +202,4 @@ The series maintains an active fan community decades after the original games:
 [^ref-6]: Adventure Gamers - King's Quest VI Review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Critical acclaim and series peak assessment
 [^ref-7]: [Ars Technica - History of Graphic Adventures](https://arstechnica.com/gaming/2011/01/history-of-graphic-adventures/) – Genre pioneering analysis
 [^ref-8]: [AGD Interactive](https://www.agdinteractive.com/) – Official AGDI remake information
-[^ref-9]: [Phoenix Online Studios - The Silver Lining](https://www.postudios.com/tsl/) – Fan sequel project history
+[^ref-9]: [Phoenix Online Studios - The Silver Lining](https://www.postudios.com/company/games/thesilverlining/) – Fan sequel project history

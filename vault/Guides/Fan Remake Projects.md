@@ -57,15 +57,15 @@ AGDI founded **Himalaya Studios** for original commercial games:
 ### Infamous Adventures / Infamous Quests
 
 **Founded:** ~2006
-**Website:** [infamous-adventures.com](http://www.infamous-adventures.com/) (now redirects to [Itch.io](https://infamousadventures.itch.io/))
+**Website:** [infamousadventures.itch.io](https://infamousadventures.itch.io/) (formerly infamous-adventures.com, which now redirects there)
 **Status:** Active
 
 Infamous Adventures (later Infamous Quests) creates VGA remakes and original adventure games. Known for their Space Quest II and King's Quest III remakes.
 
 **Released Remakes:**
 
-- **2006** — [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III Remake (Infamous Adventures)]] — Original: [[1986 - King's Quest III - To Heir Is Human|King's Quest III - To Heir Is Human]], Download: [Itch.io](https://infamousadventures.itch.io/kq3)
-- **2011** — [[2011 - Space Quest II VGA Remake|Space Quest II VGA Remake]] — Original: [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II - Vohaul's Revenge]], Download: [Itch.io](https://infamousadventures.itch.io/sq2)
+- **2006** — [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III Remake (Infamous Adventures)]] — Original: [[1986 - King's Quest III - To Heir Is Human|King's Quest III - To Heir Is Human]], Download: [Itch.io](https://infamousadventures.itch.io/kings-quest-iii-vga-remake)
+- **2011** — [[2011 - Space Quest II VGA Remake|Space Quest II VGA Remake]] — Original: [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II - Vohaul's Revenge]], Download: [Itch.io](https://infamousadventures.itch.io/space-quest-ii-vga-remake)
 
 **Original Games:**
 
@@ -92,7 +92,7 @@ Originally created "King's Quest IX: Every Cloak Has a Silver Lining" as a fan s
 
 **Released Games:**
 
-- **2010–2014** — [[2010 - The Silver Lining|The Silver Lining]] — Episodes: 4 of 5 planned, Download: [postudios.com](https://postudios.com/games/the-silver-lining/)
+- **2010–2014** — [[2010 - The Silver Lining|The Silver Lining]] — Episodes: 4 of 5 planned, Download: [postudios.com](https://www.postudios.com/company/games/thesilverlining/)
 - **2012–2013** — [[2012 - Cognition - An Erica Reed Thriller|Cognition - An Erica Reed Thriller]] — Episodes: 4 episodes, Download: [Steam](https://store.steampowered.com/app/242780/Cognition_An_Erica_Reed_Thriller/)
 
 **The Silver Lining History:**
@@ -108,10 +108,10 @@ Originally created "King's Quest IX: Every Cloak Has a Silver Lining" as a fan s
 
 Multiple teams have created Space Quest fan games over the years:
 
-- **2001** — [[2001 - Space Quest - The Lost Chapter|Space Quest - The Lost Chapter]] — Creator: Fan team, Download: [SpaceQuest.net](https://spacequest.net/fanprojects/)
-- **2003** — [[2003 - Space Quest 0 - Replicated|Space Quest 0 - Replicated]] — Creator: Vonster Productions, Download: [SpaceQuest.net](https://spacequest.net/fanprojects/)
-- **2011** — [[2011 - Space Quest - Vohaul Strikes Back|Space Quest - Vohaul Strikes Back]] — Creator: Fan team, Download: [SpaceQuest.net](https://spacequest.net/fanprojects/)
-- **2012** — [[2012 - Space Quest - Incinerations|Space Quest - Incinerations]] — Creator: Frostbite Games, Download: [SpaceQuest.net](https://spacequest.net/fanprojects/)
+- **2001** — [[2001 - Space Quest - The Lost Chapter|Space Quest - The Lost Chapter]] — Creator: Fan team, Download: [SpaceQuest.net](https://spacequest.net/misc/fanfiction/fangames/)
+- **2003** — [[2003 - Space Quest 0 - Replicated|Space Quest 0 - Replicated]] — Creator: Vonster Productions, Download: [SpaceQuest.net](https://spacequest.net/misc/fanfiction/fangames/)
+- **2011** — [[2011 - Space Quest - Vohaul Strikes Back|Space Quest - Vohaul Strikes Back]] — Creator: Fan team, Download: [SpaceQuest.net](https://spacequest.net/misc/fanfiction/fangames/)
+- **2012** — [[2012 - Space Quest - Incinerations|Space Quest - Incinerations]] — Creator: Frostbite Games, Download: [SpaceQuest.net](https://spacequest.net/misc/fanfiction/fangames/)
 
 **Space Quest: Vohaul Strikes Back** notably contains 60-70 unique death scenes, continuing the series' tradition of creative player deaths.
 

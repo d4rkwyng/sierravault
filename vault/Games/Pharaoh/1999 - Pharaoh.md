@@ -158,7 +158,7 @@ The game's influence extends to the broader city-building genre, establishing co
 [^ref-7]: [GOG.com - Pharaoh + Cleopatra](https://www.gog.com/en/game/pharaoh_cleopatra) – - Platform availability
 [^ref-8]: [Pharaoh Heaven Games](https://pharaoh.heavengames.com/walkthroughs/) – - Campaign structure and mission count
 [^ref-9]: [TV Tropes - Pharaoh](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Pharaoh) – - Easter eggs including Moses appearance
-[^ref-10]: [The Spoiler - Pharaoh Guide](https://the-spoiler.com/STRATEGY/Impressions.games/pharaoh.1.html) – - Religious system mechanics
+[^ref-10]: [The Spoiler - Pharaoh Guide](https://strategygamers.com/walkthrough/pharaoh) – - Religious system mechanics
 [^ref-11]: [MobyGames - Pharaoh](https://www.mobygames.com/game/538/pharaoh/) – - Technical specifications and graphics details
 [^ref-12]: [Eurogamer Review](https://www.eurogamer.net/pharaoh) – - Walker system criticism
 [^ref-13]: [Strategy Wiki - Pharaoh](https://strategywiki.org/wiki/Pharaoh) – - Control scheme and interface

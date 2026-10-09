@@ -58,7 +58,7 @@ The building system allows players to designate areas for housing development ra
 
 ### Structure and Progression
 
-The game is structured around a career progression system with multiple campaign paths[^ref-12]. After completing two introductory scenarios, players can choose between peaceful development-focused missions or campaigns that incorporate military challenges[^ref-3]. Each scenario has specific victory conditions related to population size, prosperity levels, cultural development, and favor ratings with Rome and the gods[^ref-59].
+The game is structured around a career progression system with multiple campaign paths[^ref-12]. At the start of each assignment, players choose between a 'peaceful' map, which has more stringent victory requirements and hazards such as earthquakes and fires, and a 'military' map, which adds the risk of enemy invasion[^ref-19]. Each scenario has specific victory conditions related to population size, prosperity levels, cultural development, and favor ratings with Rome and the gods[^ref-59].
 
 The progression system introduces new building types and challenges gradually, implementing what the developers called a technique that "allows us to introduce elements of the game step by step, thereby teaching players how to play without forcing them to play through something called a tutorial"[^ref-9]. This approach helps players master increasingly complex city management challenges while maintaining engagement throughout the campaign.
 
@@ -152,7 +152,6 @@ Caesar III inspired numerous spiritual successors and influenced the development
 
 [^ref-1]: Abandonware DOS - Caesar III Search *(download link removed: the game is sold commercially)* – - Basic game listing information
 [^ref-2]: [Amazon - Caesar 3 PC Product Page](https://www.amazon.com/Caesar-3-PC/dp/B000031KJX) – - GameSpot review excerpts and customer reviews
-[^ref-3]: [Ann4761 Tripod - Caesar III Fan Site](https://ann4761.tripod.com/index-caesar.html) – - Gameplay tips and fan community information
 [^ref-4]: [Arcade Attack - Simon Bradbury Interview](https://www.arcadeattack.co.uk/simon-bradbury-sierra/) – - Developer insights and personal assessment
 [^ref-7]: Internet Archive - Caesar III USA *(download link removed: the game is sold commercially)* – - Detailed gameplay description
 [^ref-8]: [Internet Archive - Caesar III Manual Text](https://archive.org/stream/Caesar_III_Manual/Caesar_III_Manual_djvu.txt) – - Official game design philosophy

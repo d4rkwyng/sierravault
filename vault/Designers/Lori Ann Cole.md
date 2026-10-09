@@ -106,7 +106,7 @@ Cole's commitment to cultural diversity and authentic representation in game wor
 [^ref-15]: https://www.choicestgames.com/2013/08/top-10-pc-game-developers-9-corey-and.html — Developer ranking and career assessment
 [^ref-16]: https://tigerchainsaw.com/2020/03/17/quest-for-glory-1-review/ — Game review and impact analysis
 [^ref-17]: https://vndb.org/s23169 — Game database information and credits
-[^ref-18]: https://www.retrogamer.net/?s=Lori+Ann+Cole — Retro gaming coverage and legacy discussion
+[^ref-18]: [Quest for Glory Wiki – Interview with Lori Ann Cole and Mishell Baker](https://questforglory.fandom.com/wiki/Interview_with_Lori_Ann_Cole_and_Mishell_Baker) — Cole: "My concept of Paladin was slightly different. A Paladin was someone who does what is right regardless of the laws or other people's opinion."
 [^ref-19]: https://www.wired.com/2019/02/geeks-guide-game-design/ — Modern game design influence and legacy
 [^ref-20]: https://www.sierragamers.com/forums/topic/interview-with-lori-ann-cole-and-corey-cole/ — Joint interview with husband and collaborator
 [^ref-21]: https://en.wikipedia.org/wiki/The_Coles — Wikipedia article on The Coles with complete game credits

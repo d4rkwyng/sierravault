@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: Maximum Pool is a pool simulation video game developed by Dynamix and
   published by Sierra On-Line under their Sierra Sports label for Windows and Dreamcast...
 tags: [2000s, 3d-ultra, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # Maximum Pool
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -186,7 +186,7 @@ Some Amazon reviewers were particularly enthusiastic, with one declaring it the 
 
 Maximum Pool represents an important milestone in cross-platform gaming, demonstrating successful implementation of online multiplayer across three different platforms (Windows, Macintosh, and Dreamcast) in an era when such connectivity was technologically challenging[^ref-5]. This achievement foreshadowed the cross-platform play features that would become standard in later generations.
 
-The game's approach to balancing accessibility with simulation depth influenced subsequent pool games, establishing design patterns for the genre. While some players continued to prefer the predecessor Cool Pool, Maximum Pool represented a refinement of the formula with enhanced features and broader platform support[^ref-28].
+The game's approach to balancing accessibility with simulation depth influenced subsequent pool games, establishing design patterns for the genre.
 
 ### Server Shutdown and Community Preservation
 
@@ -258,5 +258,4 @@ Modern players can run the Windows version through compatibility modes, though s
 [^ref-25]: [Amazon Customer Reviews](https://www.amazon.com/Sierra-Sports-Maximum-Pool-PC/dp/B00004TJCJ) - User ratings and enthusiasm
 [^ref-26]: [DreamcastLive.net](https://dreamcastlive.net/maximum-pool/) - Modern retrospective and community ratings
 [^ref-27]: [Glitchwave](https://glitchwave.com/) - Modern critical assessment
-[^ref-28]: [Cool Pool Test Site](https://coolpooltest.tripod.com/id6.html) - Player preference comparisons
 [^ref-29]: [LoneBullet Patch Archive](https://www.lonebullet.com/patches/download-sierra-pool-room-server-patch-3d-ultra-cool-pool-patch-free-9366.htm) - Server shutdown date and community patch

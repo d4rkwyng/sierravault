@@ -233,7 +233,7 @@ The game also illustrates the challenges faced by flight simulation developers i
 [^ref-6]: [IGN Review – Curse You! Red Baron](https://www.ign.com/articles/1999/08/06/curse-you-red-baron) – review score, criticism, technical issues
 [^ref-7]: [VOGONS Forum – Red Baron Technical Discussion](https://www.vogons.org/viewtopic.php?t=98123) – 3Space engine, joystick issues, compatibility
 [^ref-8]: [Amazon – Curse You! Red Baron](https://www.amazon.com/Curse-You-Red-Baron-PC/dp/B00001LCDN) – product description, customer reviews, platforms
-[^ref-9]: [Sierra Classic Gaming – Curse You! Red Baron](https://sierraclassicgaming.com/game/curse-you-red-baron/) – system requirements, release date, related games
+[^ref-9]: [Sierra Classic Gaming – Curse You! Red Baron (archived)](https://web.archive.org/web/20260606193933/https://sierraclassicgaming.com/game/curse-you-red-baron/) – system requirements, release date, related games
 [^ref-10]: [Giant Bomb – Curse You! Red Baron](https://www.giantbomb.com/curse-you-red-baron/3030-12973/) – developer, publisher, user ratings, features
 [^ref-11]: [Amazon Spain – Curse You! Red Baron](https://www.amazon.com/-/es/Curse-You-Red-Baron-PC/dp/B00001LCDN) – customer reviews, Children's Software Revue quote
 [^ref-12]: [GameFAQs – Curse You! Red Baron](https://gamefaqs.gamespot.com/pc/915885-curse-you-red-baron) – user ratings, release year

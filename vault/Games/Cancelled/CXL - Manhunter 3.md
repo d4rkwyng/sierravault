@@ -204,7 +204,7 @@ The intellectual property's current ownership by Activision has led to periodic 
 [^ref-7]: [Sierra Wiki – Manhunter](https://sierra.fandom.com/wiki/Manhunter) – series overview, current IP ownership, game list
 [^ref-8]: [MobyGames – Manhunter: New York](https://www.mobygames.com/game/8752/manhunter-new-york/) – Original game details, Evryware developers, sales figures, gameplay mechanics
 [^ref-9]: [MobyGames – Manhunter 2: San Francisco](https://www.mobygames.com/game/8753/manhunter-2-san-francisco/) – Sequel details, reception, AGI engine information, cliffhanger ending
-[^ref-10]: [Wikipedia – Manhunter (video game series)](https://en.wikipedia.org/wiki/Manhunter_(video_game_series)) – Series overview, cancelled third game, developer information
+[^ref-10]: [Wikipedia – Manhunter 2: San Francisco](https://en.wikipedia.org/wiki/Manhunter_2:_San_Francisco) – cliffhanger ending toward London; Activision holds the Manhunter rights
 [^ref-11]: Adventure Gamers – Manhunter Series *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Adventure gaming community coverage of series and cancelled game
 [^ref-12]: [Giant Bomb - Manhunter](https://www.giantbomb.com/manhunter/3025-29633/) – Series database with game information and historical notes
 [^ref-13]: [Sierra Help Wiki - AGI Documentation](https://wiki.sierrahelp.com/index.php/Adventure_Game_Interpreter) – Technical documentation on AGI engine used in Manhunter series

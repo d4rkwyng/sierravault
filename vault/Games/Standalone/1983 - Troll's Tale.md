@@ -10,14 +10,14 @@ series: Standalone
 engine: Pre-AGI
 protagonist: Young child adventurer
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-10-09'
 description: Troll's Tale is a children's adventure game developed by Al Lowe and
   published by Sierra On-Line in 1983. Originally created as one of Al Lowe's earliest...
 tags: [1980s, adventure, agi, al-lowe, sierra, standalone]
 ---
 # Troll's Tale
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 
 ## Overview
@@ -39,7 +39,7 @@ Sierra acquired Troll's Tale from Sunnysoft along with Dragon's Keep and Bop-A-B
 
 ## Story Summary
 
-The game's premise centers around an evil troll who has stolen all the treasures belonging to Mark, the Dwarf King[^ref-9][^ref-10]. The player's quest is to locate and recover these hidden treasures, which are described variously as 15 or 16 treasures throughout different sources[^ref-9][^ref-11][^ref-12]. The troll has scattered these valuable items across the fantasy landscape, and only the player can help restore them to their rightful owner[^ref-13].
+The game's premise centers around an evil troll who has stolen all the treasures belonging to Mark, the Dwarf King[^ref-9][^ref-10]. The player's quest is to locate and recover these hidden treasures, which are described variously as 15 or 16 treasures throughout different sources[^ref-9][^ref-11][^ref-12]. The troll has scattered these valuable items across the fantasy landscape, and only the player can help restore them to their rightful owner[^ref-11].
 
 The adventure culminates when the player confronts the troll directly. In a playful twist typical of children's games, the solution involves pulling the troll's tail, as King Mark (disguised as a guard) declares: "Pull the Troll's Tail and we end the Troll's Tale!"[^ref-14]. This playful pun encapsulates the game's approach—using wordplay and gentle humor to create an engaging experience for young players while teaching basic problem-solving skills. The treasure hunt structure provides clear goals and rewards, encouraging thorough exploration while keeping complexity appropriate for the target audience. The fantasy setting, populated with elves, dwarves, and magical creatures, fires the imagination while remaining accessible to children encountering adventure games for the first time.
 
@@ -86,7 +86,6 @@ Troll's Tale came packaged with a paper map and stickers[^ref-4], providing tang
 |-------------|-------|-------|
 | Abandonware DOS | 3.64/5.00 | User ratings on retro gaming site[^ref-19] |
 | DOSGames.com | 2.5/5 | Critical assessment[^ref-9] |
-| Emuparadise | 4.86/5 | High user rating[^ref-13] |
 | MobyGames | 67% | Community aggregate score[^ref-7] |
 | MyAbandonware | 4.33/5 | Reviewer HOTUD assessment[^ref-16] |
 | OldGames | 40% | Lower critical score[^ref-8] |
@@ -182,7 +181,6 @@ For Al Lowe personally, Troll's Tale represented a significant learning experien
 [^ref-10]: [DOS Games Archive](https://www.dosgamesarchive.com/download/trolls-tale) – - Plot summary and character details
 [^ref-11]: [Wikipedia](https://en.wikipedia.org/wiki/Troll's_Tale) – - Treasure count details
 [^ref-12]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Troll's_Tale) – - Technical specifications including treasure count
-[^ref-13]: [Internet Archive – Troll's Tale (Apple II)](https://archive.org/details/a2_Trolls_Tale_1983_Sierra) - Game premise overview, preservation copy (replaces dead Emuparadise URL; Emuparadise removed all abandonware/ROM content in 2018)
 [^ref-14]: [Gaming After 40 Blog](http://gamingafter40.blogspot.com/2015/03/adventure-of-week-trolls-tale-1983.html) – - Detailed playthrough with story conclusion
 [^ref-15]: [The Digital Antiquarian](https://www.filfre.net/?s=Troll%27s+Tale) – - Interface design details
 [^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/troll-s-tale-32) – - Parser system review by HOTUD

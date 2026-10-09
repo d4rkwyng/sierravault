@@ -278,6 +278,6 @@ The Mission Builder expansion demonstrated forward-thinking design philosophy, r
 [^ref-16]: [Internet Archive – Sierra Press Release (Red Baron II)](https://web.archive.org/web/20010110043600/http://www.sierra.com/corp/pr/press/3c1a4/1,1891,3c1a4,00.html?brandid=6&prid=60&productid=288) – sales data, technical features, configuration options
 [^ref-17]: [Glitchwave – Red Baron Franchise](https://glitchwave.com/franchise/red-baron/) – user rating
 [^ref-18]: Internet Archive – Red Baron Mission Builder (German) *(download link removed: the game is sold commercially)* – media type, platform, genre
-[^ref-19]: [Sierra Classic Gaming – Red Baron Mission Builder](https://sierraclassicgaming.com/game/red-baron-mission-builder/) – complete technical specifications
+[^ref-19]: [Sierra Classic Gaming – Red Baron Mission Builder (archived)](https://web.archive.org/web/20260310124014/https://sierraclassicgaming.com/game/red-baron-mission-builder/) – complete technical specifications
 [^ref-21]: [Kickstarter – Red Baron by Mad Otter Games](http://www.kickstarter.com/projects/madottergames/red-baron) – campaign dates, developer
 [^ref-22]: [Sierra Chest – Red Baron: Mission Builder](https://sierrachest.com/index.php?a=games&id=382&title=red-baron-mission-builder&fld=general) – engine, release date, series information

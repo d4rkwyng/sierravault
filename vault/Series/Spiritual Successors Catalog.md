@@ -7,12 +7,12 @@ first_release: 1993
 last_release: 2026
 total_games: 18
 genre: "Adventure (Sierra-tradition)"
-last_updated: "2026-07-13"
+last_updated: "2026-10-09"
 ---
 
 # Spiritual Successors Catalog
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -81,7 +81,7 @@ The Williams' 2023 return to game development with [[2023 - Colossal Cave 3D Adv
 
 ### Pierre Gilhodes (Wide Screen Games)
 
-[[Pierre Gilhodes]], creator of the Gobliiins puzzle-adventure series at [[Coktel Vision]], independently continued the series after Coktel's wind-down: *Gobliiins 4* (2009), *Gobliiins 5: The Morgloton Invasion* (2023), and *Gobliins 6* (2026). These are listed in the [[Coktel Adventures Series]] page rather than here.[^ref-10]
+[[Pierre Gilhodes]], whose artwork defined the Gobliiins puzzle-adventure series at [[Coktel Vision]], continued the series after Coktel's wind-down: *Gobliiins 4* (2009, co-designed with Muriel Tramis), *Gobliiins 5: The Morgloton Invasion* (2023), and *GOBLiiNS6* (2026). These are listed in the [[Coktel Adventures Series]] page rather than here.[^ref-10]
 
 ### Jim Walls (Precinct — cancelled)
 
@@ -138,9 +138,9 @@ The spiritual successors catalog is, in aggregate, **the largest active branch o
 [^ref-5]: [Guys From Andromeda official site](https://www.guysfromandromeda.com) — Two Guys studio
 [^ref-6]: [Hero-U official site](https://www.hero-u.com) — Coles studio
 [^ref-7]: [Phoenix Online Studios](https://postudios.com) — Studio site
-[^ref-8]: [Infamous Quests](http://www.infamous-quests.com) — Studio site
+[^ref-8]: [Infamous Quests](https://infamousquests.itch.io/) — Studio site
 [^ref-9]: [Kotaku — Williams Colossal Cave interview](https://kotaku.com/sierra-roberta-williams-kings-quest-interview-feature-1849192779) — Williams return coverage
-[^ref-10]: [Wide Screen Games](https://www.widescreen-games.com) — Pierre Gilhodes studio
+[^ref-10]: [Wikipedia — Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) — series history incl. Gobliiins 4 (2009), 5 (2023), GOBLiiNS6 (2026)
 [^ref-11]: [MobyGames — spiritual successor coverage](https://www.mobygames.com) — Cross-referenced game database
 [^ref-12]: [PC Gamer — Hero-U feature](https://www.pcgamer.com/how-hero-u-avoided-disaster-to-resurrect-90s-adventure-game-nostalgia/) — Hero-U retrospective
 [^ref-13]: [The Digital Antiquarian — Sierra alumni](https://www.filfre.net) — Long-form alumni coverage

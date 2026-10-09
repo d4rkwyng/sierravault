@@ -87,7 +87,7 @@ Computer Gaming World said in March 1994, "Offering a unique mix of dark mystery
 Jim Trunzo reviewed the game in White Wolf #43 (May 1994), giving it a "Very Good" evaluation and stating "If you simply want some challenging fun presented in a gothic setting, try the newest Quest for Glory"[^ref-1]. The game was rated K-A (Kids to Adults) by the ESRB[^ref-19].
 
 ### Modern Assessment
-Rowan Kaiser of Engadget and Ryan Stevens of GameTrailers consider it the best entry of the entire series[^ref-1][^ref-7]. Michael Baker for RPGamer considers it "worth money even twenty years on," scoring it 4 out of 5 stars[^ref-1][^ref-8]. Adam Rosenberg of G4TV considers Shadows of Darkness "the most elaborate and well-designed" entry in the series[^ref-1]. PC Gamer's Richard Cobbett considers the game "absolutely wonderful"[^ref-1][^ref-9].
+Rowan Kaiser of Engadget and Ryan Stevens of GameTrailers consider it the best entry of the entire series[^ref-1][^ref-7]. Michael Baker for RPGamer considers it "worth the money even twenty years on," scoring it 4 out of 5 stars[^ref-1][^ref-8]. Adam Rosenberg of G4TV considers Shadows of Darkness "the most elaborate and well-designed" entry in the series[^ref-1]. PC Gamer's Richard Cobbett considers the game "absolutely wonderful"[^ref-1][^ref-9].
 
 In 2011, Adventure Gamers named Shadows of Darkness the 23rd-best adventure game ever released[^ref-1]. IMDb users rate it 8.7/10 (229 votes)[^ref-4]. MobyGames critics average 76% (16 reviews)[^ref-19]. The CRPG Addict gave it a final rating of 47, ranking it in the top 8% of the games he had rated at the time[^ref-20]. HowLongToBeat reports the main story takes approximately 13½ hours to complete, with completionist runs taking about 22½ hours (as of October 2026)[^ref-10]. On Speedrun.com the fastest Any% run is about 15 minutes, and Any% No Major Skips about 22 minutes[^ref-21].
 
@@ -245,7 +245,7 @@ This game has been included in the following collections:
 [^ref-5]: [PCGamingWiki – Quest for Glory: Shadows of Darkness](https://www.pcgamingwiki.com/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – – technical specs
 [^ref-6]: [Wikipedia – Quest for Glory (Compilations)](https://en.wikipedia.org/wiki/Quest_for_Glory) – – "Quest for Glory Anthology (1996) … Quest for Glory Collection Series (1997), a re-release of Anthology"
 [^ref-7]: [Engadget – The glory of Quest For Glory](https://www.engadget.com/2012/05/17/the-glory-of-quest-for-glory/) – – retrospective review, Rowan Kaiser
-[^ref-8]: [RPGamer – Quest for Glory IV Review](https://rpgamer.com/review/quest-for-glory-iv-shadows-of-darkness/) – – retrospective review
+[^ref-8]: [RPGamer – Quest for Glory IV: Shadows of Darkness Retroview (archived)](https://web.archive.org/web/20150811092427/http://www.rpgamer.com/games/qfg/qfg4/reviews/qfg4strev1.html) – – retrospective review
 [^ref-9]: [PC Gamer – Saturday Crapshoot: Quest For Glory 4 1/2](http://www.pcgamer.com/saturday-crapshoot-quest-for-glory-4-12/) – – series retrospective
 [^ref-10]: [HowLongToBeat – Quest for Glory IV](https://howlongtobeat.com/game/7483) – – completion times
 [^ref-11]: [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) – – purchase, user reviews
