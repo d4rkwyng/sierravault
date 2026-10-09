@@ -290,5 +290,5 @@ The remake's reception illustrates the challenges inherent in updating beloved c
 [^ref-32]: [IMDB – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://www.imdb.com/find/?q=Gabriel+Knight%3A+Sins+of+the+Fathers+-+20th+Anniversary+Edition&s=tt) – user rating, vote count
 [^ref-33]: [Gamepressure – Gabriel Knight 20th Anniversary Edition](https://www.gamepressure.com/games/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition/z239f0) – user score, release dates, platform information
 [^ref-35]: [GOG Database](https://www.gogdb.org/product/1207666433) – version history, patch dates
-[^ref-36]: MobyGames – Gabriel Knight 3 *(link removed: it led to a different game's page)* – series continuity, easter eggs
+[^ref-36]: [MobyGames – Gabriel Knight 3](https://www.mobygames.com/game/484/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/) – series continuity, easter eggs
 [^ref-37]: [Speedrun.com – Gabriel Knight Remake](https://www.speedrun.com/gk1_remake/guides) – speedrunning community
