@@ -61,7 +61,7 @@ Tier-1 flagship series plus umbrella overviews for major non-flagship lines.
 
 ## Overview
 
-This archive contains **507 game pages** across 76 categories.
+This archive contains **517 game pages** across 76 categories.
 
 - [[#3D Ultra|3D Ultra]] — Pages: 17
 - [[#A-10 Tank Killer|A-10 Tank Killer]] — Pages: 3
