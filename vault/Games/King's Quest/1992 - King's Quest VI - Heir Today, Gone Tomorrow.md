@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI1.1
 protagonist: Prince Alexander
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-08'
 composer: [Christopher G. Braymen]
 description: 'King''s Quest VI: Heir Today, Gone Tomorrow is widely regarded as the
   finest entry in Sierra''s flagship adventure series, representing a remarkable leap...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, jane-jensen, king-s-quest, roberta-williams, sci, sierr
 ---
 # King's Quest VI: Heir Today, Gone Tomorrow
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 8, 2026</small>
 
 ## Overview
 
@@ -106,7 +106,6 @@ George Starostin's 2021 retrospective gave 4/5, describing it as "one of the bes
 **Other Ratings:**
 - Adventure Gamers: 4.5/5 (Excellent)[^ref-1]
 - GOG: 4.6/5 (52 reviews for KQ 4+5+6 bundle)[^ref-21]
-- IMDB: 8.5/10[^ref-22]
 - My Abandonware: 4.44/5 (125 votes)[^ref-23]
 - HowLongToBeat: 78% user rating, 6.5 hours main story, 8.5 hours completionist[^ref-24]
 
@@ -158,7 +157,7 @@ John Shroades created 80 background paintings for the game[^ref-4]. The Windows 
 
 The CD-ROM version marked a significant leap in Sierra's voice production, featuring professional actors rather than office staff[^ref-7][^ref-12]. Stuart Rosen served as voice director[^ref-27].
 
-**Principal Cast:**[^ref-27][^ref-28]
+**Principal Cast:**[^ref-27]
 | Actor | Characters |
 |-------|------------|
 | Robby Benson | Prince Alexander |
@@ -374,13 +373,11 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-19]: [PC Gamer – Every Sierra Adventure Ranked (2020)](https://www.pcgamer.com/) – – KQ6 ranked #3 of 63 Sierra adventures, highest KQ game
 [^ref-20]: [MobyGames – King's Quest VI](https://www.mobygames.com/game/455/kings-quest-vi-heir-today-gone-tomorrow/) – – 8.1 MobyScore, 83% critics, 27 reviews, credits, platforms
 [^ref-21]: [GOG.com – King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6) – – 4.6/5 rating, ScummVM-powered, user reviews
-[^ref-22]: [IMDB – King's Quest VI](https://www.imdb.com/title/tt0296259/) – – 8.5/10 rating
 [^ref-23]: [My Abandonware – King's Quest VI](https://www.myabandonware.com/game/king-s-quest-vi-heir-today-gone-tomorrow-1fy) – – 4.44/5 (125 votes), preservation downloads
 [^ref-24]: [HowLongToBeat – King's Quest VI](https://howlongtobeat.com/) – – 78% rating, 6.5h main story, 8.5h completionist
 [^ref-25]: [Strong Museum – Jane Jensen](https://web.archive.org/web/*/https://www.museumofplay.org/games/gabriel-knight-sins-of-the-fathers/) – – Jensen joined Sierra 1990, "computer nerds who can write" ad
 [^ref-26]: [PCGamingWiki – King's Quest VI](https://www.pcgamingwiki.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – Technical specs, Windows high-res portraits, system requirements
 [^ref-27]: [Behind the Voice Actors – King's Quest VI](https://www.behindthevoiceactors.com/video-games/Kings-Quest-VI-Heir-Today-Gone-Tomorrow/) – – Stuart Rosen voice director, complete cast list
-[^ref-28]: [IMDB – King's Quest VI Full Cast](https://www.imdb.com/title/tt0296259/fullcredits/) – – Voice actor credits
 [^ref-29]: [Discogs – Girl in the Tower Promo CD](https://www.discogs.com/release/14528268) – – Jane Jensen lyrics, Mark Seibert composer, Jeff Hill co-producer
 [^ref-30]: [Discogs – An Ode to the Isles Vinyl](https://www.discogs.com/release/31112489) – – 2024 Two Guys Records release, Troels Pleimert drums, Error 47 cover, promo CD market values
 [^ref-31]: [Space Quest Historian – KQ6 EP](https://spacequesthistorian.bandcamp.com/album/kings-quest-vi-a-fair-and-balanced-ep) – – Chris Braymen verified composer credits, Mark Seibert "Alex Pining" theme
