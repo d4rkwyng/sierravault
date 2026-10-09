@@ -1,39 +1,39 @@
 ---
 title: Hoyle Puzzle and Board Games 2011
-release_year: 2011
+release_year: 2010
 developer: Encore Software
-designer: [Warren Schwader (series creator)]
+designer: []
 publisher: Encore Software
 genre: Board Game
 platforms: [Windows, Mac]
 series: Hoyle
-engine: Proprietary (Windows)
+engine: null
 protagonist: Player Avatar
 sierra_lineage: Post-Sierra
 last_updated: '2026-10-09'
-description: Hoyle Puzzle and Board Games 2011 is a compilation of classic board games,
- card games, and puzzle games released by Encore Software for Windows and...
+description: Hoyle Puzzle and Board Games 2011 is a compilation of 30 board, card,
+ word and puzzle games released by Encore Software for Windows and Mac in August 2010.
 tags: [2010s, hoyle, sierra]
 ---
 # Hoyle Puzzle and Board Games 2011
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-Hoyle Puzzle and Board Games 2011 is a compilation of classic board games, card games, and puzzle games released by Encore Software for Windows and Macintosh platforms[^ref-1][^ref-2]. Despite its "2011" branding, the game was actually released in August 2010 in North America and November 2010 in PAL regions[^ref-3][^ref-4]. The collection features 30 varieties of games along with a bonus match-3 game called Boonka with over 60 levels, making it one of the most comprehensive entries in the long-running Hoyle series[^ref-5][^ref-6].
+Hoyle Puzzle and Board Games 2011 is a compilation of classic board, card, word and puzzle games released by Encore Software for Windows and Macintosh.[^ref-2][^ref-3][^ref-23] Despite its "2011" branding, it was released in August 2010 in North America and November 2010 in PAL regions.[^ref-3][^ref-4] The collection features 30 varieties of games along with a bonus match-3 game called Boonka with over 60 levels; the box copy promised "more games than ever!"[^ref-4][^ref-24]
 
-The Hoyle series traces its roots back to Sierra On-Line's 1989 release of Hoyle's Official Book of Games, which was named after the 18th century playing card expert Edmond Hoyle[^ref-7]. The series originally used trademarks and designs from the Hoyle brand of playing cards under license from Brown & Bigelow[^ref-7]. Following Sierra's dissolution, the Hoyle brand transitioned to Encore Software, which continued producing annual compilations[^ref-1][^ref-8]. The 2011 edition emphasizes that all games are "designed with rules according to HOYLE, the Official Name in Gaming"[^ref-4][^ref-6].
+The Hoyle series traces its roots back to Sierra On-Line's 1989 release of Hoyle's Official Book of Games, which was named after the 18th century playing card expert Edmond Hoyle.[^ref-7] Some titles in the series used trademarks and designs from the Hoyle brand of playing cards under license from Brown & Bigelow.[^ref-7] Encore Software took over publishing the series from 2005 to 2016, during a period of yearly releases.[^ref-7] The 2011 edition advertises that all games are "designed with rules according to HOYLE, the Official Name in Gaming."[^ref-4][^ref-6]
 
-The game features the HOYLE Face Creator system, allowing players to design their own custom avatars to use against AI opponents or other players on the same computer[^ref-5][^ref-9]. Players can earn HOYLE Bucks, an in-game currency used to unlock rewards and game bonuses, customize card backs, and personalize their gaming experience[^ref-5][^ref-6]. The collection spans multiple genres including word games, strategy games, card games, board games, family favorites, brain teasers, and memory games[^ref-6].
+The game features the HOYLE Face Creator, allowing players to design their own avatars to play against computer opponents or other players on the same computer.[^ref-4][^ref-9] Players earn HOYLE Bucks, an in-game currency that the ESRB describes as buying "items such as costumes, ornaments, and trinkets," and can customize card backs and characters.[^ref-4][^ref-23] Retail copy groups the games as word games, strategy games, card games, board games, family favorites, brain teasers and memory games.[^ref-6]
 
 > [!info]- Game Info
-> **Developer:** [[Encore Software]][^ref-1]
-> **Designer:** [[Warren Schwader]] (series creator)[^ref-7]
-> **Publisher:** Encore Software (NA), Mindscape (PAL), Zoo Games[^ref-1][^ref-4][^ref-10]
-> **Engine:** Proprietary
-> **Platforms:** Windows, Macintosh[^ref-2][^ref-4]
-> **Release Year:** 2010
+> **Developer:** [[Encore Software]][^ref-4]
+> **Designer:** Unknown
+> **Publisher:** Encore Software (NA), Mindscape (PAL), Zoo Games[^ref-3][^ref-4][^ref-10]
+> **Engine:** Unknown
+> **Platforms:** Windows, Macintosh[^ref-4][^ref-23]
+> **Release Year:** 2010[^ref-3]
 > **Series:** Hoyle
 > **Protagonist:** Player Avatar
 > **Sierra Lineage:** Post-Sierra
@@ -41,141 +41,112 @@ The game features the HOYLE Face Creator system, allowing players to design thei
 ## Games Included
 
 ### Board Games
-The collection includes several classic board game adaptations designed for solo play against AI or multiplayer on a single computer[^ref-5]. Traditional offerings include Backgammon, Checkers, Chinese Checkers, Chess, Dominoes, Pachisi, and Reversi[^ref-9]. These represent the core board gaming experience that has defined the Hoyle series since its third volume in 1991[^ref-7].
+The collection includes classic board games for solo play against the computer or for several players on one computer.[^ref-4] Traditional offerings include Backgammon, Checkers, Chinese Checkers, Chess, Dominoes, Pachisi and Reversi.[^ref-9] Board games have been part of the Hoyle series since its third volume in 1991.[^ref-7]
 
-### Strategy and Puzzle Games
-The 2011 edition features an array of strategy and puzzle games including Battling Ships, Bump 'em, Crazy Contraptions, various tile games, Master Match, Maze Racer, Maze Raider, Panic, Placer Racer, Rays, Rummy Squares, Star Collector, Time Breaker, and Zilch[^ref-9]. The game also includes Sudoku puzzles, Mahjongg, and Hangman for word game enthusiasts[^ref-3].
+### Strategy, Puzzle and Word Games
+The full game list also includes Battling Ships, Bump 'em, Crazy Contraptions, a set of tile games (Edge, Gravity, Mahjong, Memory and Slide Tiles), Master Match, Maze Racer, Maze Raider, Panic, Placer Racer, Rays, Rummy Squares, Star Collector, Time Breaker, Yacht and Zilch.[^ref-9] The word games are Anagrams, Crosswords, Hangman, Word Searches, Word Yacht and Wordox, and the Big Bang games are Echo, Fallacy, NovaSweeper, Reaction, Sudoku and Remembrance.[^ref-9] Retail copy highlights Chess, Mahjongg, Chinese Checkers, Hangman, Battling Ships and Sudoku.[^ref-6][^ref-24]
 
 ### Card Games
-Solitaire variants are represented through the Solitaire Arcade mode, along with Heartwild Solitaire from Sandlot Games, which is advertised as "all new" for this edition[^ref-3]. The series has a strong history with card games dating back to the original 1989 volume, which sold over 250,000 copies[^ref-7].
+The Solitaire Arcade covers 3 Towers, Best 21, Fast 21, Pick 2 and Sum 11.[^ref-9] Metacritic's summary also advertises "the all new Heartwild Solitaire from Sandlot Games."[^ref-3] The series' card-game history dates back to the original 1989 volume, which had sold over 250,000 copies by 1990.[^ref-7]
 
 ### Bonus Content
-The game includes Boonka, a match-3 bonus game featuring over 60 levels and 15 unique power-ups[^ref-5]. This bonus content adds significant replay value beyond the core game collection.
+Boonka is a match-3 bonus game with "over 60 fast-paced levels, 15 powerful, level-changing power-ups and bonuses, 3 unique game modes."[^ref-4][^ref-24] According to a retailer listing, it launches separately through its own "Play Boonka" shortcut.[^ref-9]
 
 ## Gameplay
 
 ### Interface and Controls
-Hoyle Puzzle and Board Games 2011 uses a point-and-click interface appropriate for its variety of game types[^ref-6]. Players navigate through a menu system to select their desired game, customize their avatar using the HOYLE Face Creator, and adjust settings for card backs and character appearances[^ref-5][^ref-9]. The interface is designed for accessibility, with one reviewer noting it offers "easier navigation compared to 2012 version"[^ref-5].
+Players pick games from a menu, create an avatar with the HOYLE Face Creator, and customize card backs and characters.[^ref-4][^ref-9] One buyer who compared the 2011 and 2012 editions preferred 2011 for "easier (for me) navigation from game to game," noting that its main menu "is a list of all of the games." The same buyer found that rules and how-to information were mostly in the PDF guides rather than in the game itself.[^ref-5]
 
 ### Structure and Progression
-The game employs a rewards and bonuses system where players earn HOYLE Bucks by playing games[^ref-5]. These virtual credits can be spent in the Hoyle Bucks catalog to unlock customization options and game bonuses[^ref-5]. The progression system encourages players to explore all 30 game varieties to maximize their earnings.
+Players earn HOYLE Bucks by playing and spend them in a catalog of extras.[^ref-5][^ref-23] The same buyer called the catalog "pretty much just a bunch of silly stuff," such as hats, decorations and food for the player's character, and said it was not needed for play.[^ref-5]
 
 ### Multiplayer Options
-Players can challenge friends and family on one computer or play against the "witty and personable HOYLE characters"[^ref-9]. This continues the series tradition of AI opponents, though unlike the original Sierra releases, the 2011 edition does not feature famous Sierra game characters as opponents[^ref-7]. The original volumes famously featured humorous computer opponents drawn from other Sierra video game series, including Leisure Suit Larry and Princess Rosella[^ref-7].
+Players can "Challenge your friends and family on one computer or play against the witty and personable HOYLE characters."[^ref-4][^ref-9] The early Sierra volumes of the series had instead featured humorous computer opponents drawn from other Sierra series.[^ref-7]
 
 ## Reception
 
 ### Contemporary Reviews
-The game received minimal critical attention from mainstream gaming publications. Metacritic lists the title but shows no critic reviews were aggregated[^ref-11]. The ESRB rated the game "E for Everyone," indicating its family-friendly content[^ref-3][^ref-10].
+Mainstream gaming publications gave the game little attention. Metacritic lists the title but has no critic reviews aggregated, and it has no user reviews.[^ref-3][^ref-11] The ESRB rated it E for Everyone, with descriptors for Comic Mischief and Tobacco Reference.[^ref-23]
 
 ### Modern Assessment
-User reviews have been generally positive despite the lack of professional critical coverage. My Abandonware users rated the game 4.31 out of 5 based on 26 votes[^ref-1]. Customer reviews describe it as "a good batch of quick games you can play when you just want to take a 5- or 10-minute break from your work"[^ref-5]. One enthusiastic user declared "It is the best games I have played. Love them all" while another stated "One of my favorite games to play!"[^ref-1].
+Surviving buyer reviews are mixed. One buyer called it "a good batch of quick games you can play when you just want to take a 5- or 10-minute break from your work." Another, whose anti-virus software objected to bundled extras during installation, returned it and recommended avoiding "the new version of this product."[^ref-5]
 
 ### Version Comparisons
-User comparisons between the 2011 and 2012 editions note that the 2011 version includes 10 games not present in the 2012 version, while the 2012 version contains only 2 games not in the 2011 edition[^ref-5]. This makes the 2011 release arguably the more comprehensive package for collectors seeking the widest game selection.
+The same buyer who compared the free trials of the 2011 and 2012 editions counted ten games in the 2011 version that are not in 2012, against two in 2012 that are not in 2011.[^ref-5]
 
 **Aggregate Scores:**
-- **My Abandonware:** 4.31/5 (26 votes)[^ref-1]
-- **Metacritic:** No critic score available[^ref-11]
+- **Metacritic:** No critic score available[^ref-3]
 
 ## Development
 
 ### Origins
-The Hoyle series began in 1989 with Sierra On-Line's release of Hoyle's Official Book of Games Volume 1[^ref-7]. The original game was designed by [[Warren Schwader]] with music by Rob Atesalp, and used the Sierra Creative Interpreter (SCI) engine[^ref-7]. Working with SCI to implement card games and to code artificial intelligence for the characters proved challenging during the original development[^ref-7].
+The Hoyle series began in 1989 with Sierra On-Line's Hoyle's Official Book of Games Volume 1.[^ref-7] That original game was designed by [[Warren Schwader]], with music by Rob Atesalp, and used the Sierra Creative Interpreter (SCI) engine.[^ref-7]
 
 ### Production
-By 2010, the Hoyle brand had transitioned from Sierra to Encore Software, which continued the annual release tradition[^ref-1][^ref-8]. Development involved contributions from multiple studios including Dynamix, Inc. and Freeverse, Inc.[^ref-1]. The game was distributed through various publishers including Encore Software in North America, Mindscape in Australia, and Zoo Games[^ref-4][^ref-10].
-
-### Series Evolution
-The transition from Sierra to Encore marked a significant shift in the series' character. The original Sierra releases featured humorous computer opponents drawn from other Sierra video game series, with Computer Gaming World noting that "interacting with Sierra characters in Volume 1 such as Leisure Suit Larry and Princess Rosella was fun, but annoying for those who preferred cards to humor"[^ref-7]. One customer support inquiry lamented: "I never encountered any issues with Hoyle games when they were produced by Sierra"[^ref-8].
+By 2010 the Hoyle brand was published by Encore Software, which had taken over the series in 2005.[^ref-7] The Australian retailer Gamesmen lists Encore Software as developer and Mindscape as the PAL publisher, and Blu-ray.com lists Zoo Games as a publisher.[^ref-4][^ref-10] No individual development credits for this edition were found. MobyGames credits the preceding "2010" edition, which has a near-identical game list, to Encore Software and Freeverse, Inc.[^ref-26]
 
 ### Technical Achievements
-
-Hoyle Puzzle and Board Games (2011) represents a notable **multi-publisher regional release** — Encore Software handled North America, Mindscape took Australia, and Zoo Games covered additional territories from a single development effort[^ref-4][^ref-10]. The release continued the **multi-studio collaboration model** seen in the 2008 edition (Encore as primary, with contributions from Dynamix and Freeverse), allowing post-Sierra Dynamix engine modules to remain in continuous reuse a decade after Dynamix's 2001 closure[^ref-1]. The 2011 release was substantively differentiated from the 2012 edition: it contains **10 games not present in the 2012 version** while the 2012 only contains 2 games not in 2011, making 2011 the more comprehensive package by a wide margin — a reverse-version-bloat pattern uncommon in annual-release franchises[^ref-5]. The product remained playable across modern Windows generations, indicating continued compatibility-engineering investment from Encore's small ongoing-support team[^ref-1][^ref-5].
+The retail release came on a hybrid Mac/PC install disc, and the Mac version is a Universal Binary.[^ref-2] The publisher supplied the manual on the disc rather than as a printed booklet.[^ref-9]
 
 ### Technical Specifications
 
-**Windows Version:**[^ref-4][^ref-6]
-- **Operating System:** Windows XP (Home & Pro) SP3, Windows Vista SP1, Windows 7
-- **Processor:** Pentium IV 2.4 GHz processor or faster (Pentium III 450MHz minimum for basic operation)
-- **RAM:** 512 MB (1 GB for Windows Vista & Windows 7)
-- **Display:** 1024x768, 16-bit color, 64MB VRAM
-- **Storage:** 3 GB Hard Disk Space (1 GB minimum)
-- **Drive:** DVD-ROM drive
-- **Internet:** 33.6 Kbps modem or faster for online features
+**US retail box (Newegg listing):**[^ref-24]
+- **Windows:** Windows XP (Home & Pro) SP3, Windows Vista SP1 or Windows 7; Pentium III 450 MHz (800 MHz for Vista); 128 MB RAM (512 MB for Vista and Windows 7); 1 GB hard disk space; 640x480 16-bit color; DVD-ROM drive
+- **Mac:** OS X 10.4.10–10.6; G3, G4, G5 or Intel processor, 867 MHz or higher; 512 MB RAM; 32 MB VRAM (ATI Rage cards not supported); 1 GB hard drive space; DVD-ROM drive
 
-**Macintosh Version:**[^ref-2][^ref-4]
-- **Operating System:** Mac OS X 10.4.11 through 10.6 (compatible up to 10.14)
-- **Processor:** Intel Core Solo 1.5 GHz or higher
-- **RAM:** 512 MB, 64MB VRAM
-- **Storage:** 3 GB hard drive space
-- **Drive:** DVD-ROM drive
-- **Binary Type:** OSX Universal Binary
+**PAL retail box (Gamesmen listing):**[^ref-4]
+- **Windows:** Windows XP (Home & Pro) SP3, Windows Vista SP1 or Windows 7; Pentium IV 2.4 GHz or faster; 512 MB RAM (1 GB for Vista and Windows 7); 1024x768 16-bit color, 64 MB VRAM; 3 GB hard disk space; DVD-ROM drive
+- **Mac:** OS X 10.4.11–10.6; Intel Core Solo, 1.5 GHz or higher; 512 MB RAM, 64 MB VRAM; 3 GB hard drive space; DVD-ROM drive
+
+Both listings require a 33.6 Kbps modem or faster for internet features.[^ref-4][^ref-24] Macintosh Repository lists the Mac build as running from Mac OS 10.4 up to 10.14.[^ref-2]
 
 **Download Version:**[^ref-6]
 - **File Size:** 844,736 KB (approximately 825 MB)
+- **Requirements:** Pentium III 450 MHz (800 MHz for Vista), 128 MB RAM (512 MB for Vista and Windows 7), 1 GB hard disk space
 - **Distributor:** Arvato digital services Canada, Inc.
 
 ### Technical Issues
-The game suffered from several compatibility issues, particularly on 64-bit Windows systems[^ref-12]. Users reported complete system freezing when attempting to launch the game on Windows 7 64-bit, requiring hard reboots[^ref-12]. Tech support specialists suggested these issues might stem from compatibility problems requiring Windows XP mode to resolve[^ref-12].
+One user who bought the download version reported that it froze a 64-bit Windows 7 PC on launch, forcing a power-off. Windows' own compatibility troubleshooter suggested Windows XP (SP2) mode, but that did not fix it either.[^ref-12]
 
-Specific gameplay bugs were documented including audio issues in the Zilch game where "voices and sounds quit on second dice roll but return on third roll"[^ref-8]. The Pachisi game exhibited "difficulty placing tokens on circled spots versus regular spaces"[^ref-8]. These issues persisted across both Windows 7 and Windows XP systems[^ref-8].
+A JustAnswer question from a user of an earlier Encore edition, who asked whether "the 2011 version" had fixed the problems, described Zilch's voices and sounds stopping on the second dice roll and returning on the third. The same user had trouble placing Pachisi tokens on circled spots, on both Windows 7 and Windows XP. That user also wrote: "I never encountered any issues with Hoyle games when they were produced by Sierra."[^ref-8] Both games were also in the preceding edition.[^ref-26]
 
-The Hoyle Bucks catalog contained bugs including "blank entries that say 'Buy Now' for zero bucks"[^ref-5]. Perhaps most concerning, users reported that "anti-virus and malware detectors flag installation as 'unwanted software'"[^ref-5], with one user noting their "anti-virus program screamed about that which was installed anyway so we let it excise the offending portions of the program"[^ref-5].
-
-Display issues were also reported, including the game appearing off-center on widescreen displays, and some users found a NoCD crack necessary to run the game properly[^ref-1].
+One buyer found four catalog pages of blank entries offered with "Buy Now" for zero Hoyle Bucks.[^ref-5] Another reported that anti-virus and malware scanners flagged the installation disc as "unwanted software." That buyer opted out of the bundled extras offered during installation, but the anti-virus program still objected and removed parts of what was installed.[^ref-5] Retail listings advise disabling antivirus and firewall software before installing.[^ref-4][^ref-24]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Retail | August 19, 2010 | PC | Initial North American release[^ref-3] |
-| PAL Retail | November 4, 2010 | PC/Mac | Australian/PAL region release[^ref-4] |
-| Download | 2011 | PC | Digital distribution version[^ref-6] |
-| Encore Classic Puzzle & Board Games | 2020 | PC | Re-released under new name[^ref-7] |
+| Retail | August 19, 2010 | PC/Mac | Initial North American release (Encore Software)[^ref-3][^ref-24] |
+| PAL Retail | November 4, 2010 | PC/Mac | Australian/PAL release (Mindscape)[^ref-4] |
+| Download | Undated | Windows | Download version labelled "version 2011", distributed by Arvato[^ref-6] |
 
 ### Easter Eggs and Trivia
-- The entire Hoyle series is named after Edmond Hoyle, an 18th century playing card expert who authored authoritative rules for various games[^ref-7]
-- The original Sierra releases used trademarks and designs from the Hoyle brand of playing cards under license from Brown & Bigelow[^ref-7]
-- The 2011 version was included in a Mac/PC hybrid disc format[^ref-2]
-- Despite the "2011" branding, the game was released in 2010[^ref-3][^ref-4]
-- The retail version includes the manual on disc rather than as a physical booklet[^ref-9]
+- The entire Hoyle series is named after Edmond Hoyle, an 18th century playing card expert.[^ref-7]
+- The ESRB notes that one Hoyle Bucks item is a poster of a swimsuit model captioned "Rrrrrowr! This bathing beauty is making cat lovers left and right," and that one character is depicted with a cigar in his mouth.[^ref-23]
+- The retail version ships on a hybrid Mac/PC disc.[^ref-2]
+- Despite the "2011" branding, the game was released in 2010.[^ref-3][^ref-4]
+- The retail version includes the manual on the disc rather than as a physical booklet.[^ref-9]
 
 ## Legacy
 
 ### Sales and Commercial Impact
-While specific sales figures for the 2011 edition are not available, the Hoyle series has historically been a strong performer. The original 1989 Sierra release sold over 250,000 copies, establishing the franchise as a viable product line[^ref-7]. The continued annual releases through 2011 and beyond demonstrate ongoing commercial viability for the brand.
+No sales figures for the 2011 edition have been found. The original 1989 Sierra release had sold over 250,000 copies by 1990.[^ref-7]
 
 ### Collections and Re-releases
-Hoyle Puzzle & Board Games 2011 was re-released in 2020 as "Encore Classic Puzzle & Board Games," demonstrating the game's continued relevance even a decade after its original release[^ref-7]. The game has been available through various retailers including Office Depot (digital download), traditional gaming retailers, and Australian distributor Gamesmen[^ref-4][^ref-6].
+Wikipedia lists the next edition, Hoyle Puzzle & Board Games [2012] (released 2011), as re-released in 2020 as Encore Classic Puzzle & Board Games.[^ref-7] That product went on sale on Steam on September 15, 2020, published by Encore Software and developed by webfoot.[^ref-25] No source ties the re-release to this 2011-branded edition. At retail, this edition was sold through outlets including Office Depot (as a download) and the Australian retailer Gamesmen.[^ref-4][^ref-6]
 
 ### Preservation Status
-The game is currently available through software preservation sites including Macintosh Repository, where it is hosted as a four-part download totaling approximately 1.6GB[^ref-2]. My Abandonware also hosts the title with a 1.3 GB download size[^ref-1]. The Australian retailer listing notes the product is "No Longer Available" through official channels, indicating the game has entered the abandonware category[^ref-4].
+The Gamesmen listing now shows the product as "No Longer Available."[^ref-4]
 
 ### Related Publications
-- **On-Disc Manual:** PDF manual included on installation disc[^ref-9]
-
-### Critical Perspective
-Hoyle Puzzle and Board Games 2011 represents the final era of the long-running Hoyle series under the Encore Software banner before the brand's eventual transition to budget re-releases. While it lacks the charm of the original Sierra releases—which featured beloved characters like Leisure Suit Larry as card game opponents—the 2011 edition offers the most comprehensive collection of games in the series' history.
-
-The game occupies an unusual position in gaming history: it's neither a well-received title nor a commercial failure, but rather a utilitarian compilation serving a niche audience of casual gamers and board game enthusiasts. Computer Gaming World's early assessment that the original Hoyle games were "really children's games and offer no great excitement" remains somewhat applicable to the 2011 edition[^ref-7], though the expanded game selection and customization options provide more value than earlier volumes.
-
-The technical issues plaguing the release—from 64-bit compatibility problems to antivirus false positives—reflect the challenges of maintaining legacy software in an evolving computing environment. These issues contributed to the game's relatively quiet reception compared to the enthusiastic response the original Sierra releases generated in the early 1990s.
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+- **On-Disc Manual:** The manual is supplied on the installation disc.[^ref-9]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- No longer available through official retail channels[^ref-4]
+- Not sold on GOG or Steam. The successor collection, [Encore Classic Puzzle & Board Games](https://store.steampowered.com/app/1217380/) (2020), is on Steam; Wikipedia identifies it as a re-release of the 2012 edition.[^ref-7][^ref-25]
 
-**Download / Preservation**
-- [Macintosh Repository](https://www.macintoshrepository.org/32166-hoyle-puzzle-board-games-2011) – Mac/PC Hybrid version[^ref-2]
-
-The game is documented in gaming databases.[^ref-14][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21][^ref-22]
+The game is also listed in IGDB.[^ref-14]
 
 ## See Also
 
@@ -237,24 +208,19 @@ The game is documented in gaming databases.[^ref-14][^ref-15][^ref-16][^ref-17][
 
 ## References
 
-[^ref-1]: My Abandonware – Hoyle Puzzle & Board Games *(link removed: the page is the 2008 edition and offers a no-CD crack)* – user ratings, developer credits, download information, user testimonials
-[^ref-2]: [Macintosh Repository – Hoyle Puzzle & Board Games 2011](https://www.macintoshrepository.org/32166-hoyle-puzzle-board-games-2011) – Mac compatibility, release year, file size, platform information
-[^ref-3]: [Metacritic – Hoyle Puzzle and Board Games 2011](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2011/) – release date, publisher, ESRB rating, game summary
-[^ref-4]: [Gamesmen Australia – PC Hoyle Puzzle & Board Games 2011](https://www.gamesmen.com.au/pc-hoyle-puzzle-board-games-2011) – PAL release date, system requirements, publisher, pricing, product specifications
-[^ref-5]: [Desertcart – Encore Hoyle Puzzle & Board Games 2011](https://gambia.desertcart.com/products/13211446-encore-hoyle-puzzle-board-games-2011) – game features, user reviews, technical issues, version comparisons
-[^ref-6]: [Office Depot – Hoyle Puzzle and Board Games 2011](https://www.officedepot.com/a/products/350023/Hoyle-Puzzle-and-Board-Games-2011/) – technical specifications, game categories, download version details, product description
-[^ref-7]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, original developers, designers, composers, sales data, re-release information, series trivia
-[^ref-8]: [JustAnswer – Hoyle Puzzle Board Games Zilch Issue](https://www.justanswer.com/computer/4i597-hoyle-puzzle-board-games-zilch-when-go-second.html) – gameplay bugs, audio issues, Sierra comparison, user testimonials
-[^ref-9]: [PicClick – Hoyle Puzzle & Board Games](https://picclick.com/Hoyle-Puzzle-Board-Games-NEW-30-BONUS-297923452528.html) – included games list, game features, system requirements, manual information
+[^ref-2]: [Macintosh Repository – Hoyle Puzzle & Board Games 2011](https://www.macintoshrepository.org/32166-hoyle-puzzle-board-games-2011) – year 2010, hybrid Mac/PC install disc, OS X Universal Binary, Mac OS 10.4 to 10.14
+[^ref-3]: [Metacritic – Hoyle Puzzle and Board Games 2011](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2011/) – August 19, 2010 release date, Encore Software, rated E, Heartwild Solitaire, no critic reviews
+[^ref-4]: [Gamesmen Australia – PC Hoyle Puzzle & Board Games 2011](https://www.gamesmen.com.au/pc-hoyle-puzzle-board-games-2011) – PAL release date 4 November 2010, Mindscape publisher, Encore developer, PAL system requirements, product description
+[^ref-5]: [Desertcart – Encore Hoyle Puzzle & Board Games 2011](https://gambia.desertcart.com/products/13211446-encore-hoyle-puzzle-board-games-2011) – product description, mirrored customer reviews (2011 vs 2012 comparison, Hoyle Bucks catalog, anti-virus complaint)
+[^ref-6]: [Office Depot – Hoyle Puzzle and Board Games 2011](https://www.officedepot.com/a/products/350023/Hoyle-Puzzle-and-Board-Games-2011/) – download version: size, distributor, requirements, game categories, product description
+[^ref-7]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, Volume 1 credits and sales, Encore era, list of editions and the 2020 re-release of the [2012] edition
+[^ref-8]: [JustAnswer – Hoyle Puzzle Board Games Zilch Issue](https://www.justanswer.com/computer/4i597-hoyle-puzzle-board-games-zilch-when-go-second.html) – a user's question about Zilch/Pachisi bugs in an earlier Encore edition
+[^ref-9]: [PicClick – Hoyle Puzzle & Board Games](https://picclick.com/Hoyle-Puzzle-Board-Games-NEW-30-BONUS-297923452528.html) – full game list, features, manual on disc (Australian retail listing)
 [^ref-10]: [Blu-ray.com – Hoyle Puzzle and Board Games 2011](https://www.blu-ray.com/Hoyle-Puzzle-and-Board-Games-2011-PC/480598/) – publisher (Zoo Games), ESRB rating
-[^ref-11]: [Metacritic – User Reviews](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2011/user-reviews/) – absence of user reviews noted
-[^ref-12]: [JustAnswer – Windows 7 64-bit Compatibility](https://www.justanswer.com/computer/59hvr-downloaded-installed-hoyle-puzzle-board-games-2011.html) – compatibility issues, system freezing, technical troubleshooting: [Giant Bomb - Hoyle Puzzle Games](https://www.giantbomb.com/hoyle-puzzle-games/) - wiki
-[^ref-14]: [IGDB - Hoyle Puzzle Games](https://www.igdb.com/games/hoyle-puzzle-and-board-games) - IGDB
-[^ref-15]: [MobyGames - Hoyle Puzzle](https://www.mobygames.com/game/hoyle-puzzle-and-board-games/) - database
-[^ref-16]: [GameSpot - Hoyle Games](https://www.gamespot.com/) - database
-[^ref-17]: [UVList - Hoyle Puzzle](https://www.uvlist.net/) - Universal Videogame List
-[^ref-18]: [My Abandonware - Hoyle](https://www.myabandonware.com/) - preservation
-[^ref-19]: [Amazon - Hoyle Puzzle](https://www.amazon.com/) - retail listing
-[^ref-20]: [Price Charting - Hoyle](https://www.pricecharting.com/) - collector pricing
-[^ref-21]: [Encore Software Official](https://www.encoreusa.com/) - publisher info
-[^ref-22]: [Steam - Hoyle Games](https://store.steampowered.com/) - platform info
+[^ref-11]: [Metacritic – User Reviews](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2011/user-reviews/) – no user reviews
+[^ref-12]: [JustAnswer – Windows 7 64-bit Compatibility](https://www.justanswer.com/computer/59hvr-downloaded-installed-hoyle-puzzle-board-games-2011.html) – one user's Windows 7 64-bit launch freeze and troubleshooting steps
+[^ref-14]: [IGDB – Hoyle Puzzle & Board Games 2011 (2010)](https://www.igdb.com/games/hoyle-puzzle-and-board-games-2011) – database entry
+[^ref-23]: [ESRB – Hoyle Puzzle and Board 2011](https://www.esrb.org/ratings/29338/hoyle-puzzle-and-board-2011/) – E rating, Comic Mischief and Tobacco Reference descriptors, Encore Software, Mac/Windows, Hoyle Bucks items
+[^ref-24]: [Newegg – Hoyle Puzzle & Board Games 2011](https://www.newegg.com/encore-software-hoyle-puzzle-board-games-2011/p/N82E16832196553) – US retail system requirements, Boonka, product description, first listed August 18, 2010
+[^ref-25]: [Steam – Encore Classic Puzzle & Board Games](https://store.steampowered.com/app/1217380/) – September 15, 2020 release, Encore Software LLC publisher, webfoot developer
+[^ref-26]: [MobyGames – Hoyle Puzzle & Board Games (2009)](https://www.mobygames.com/game/236680/hoyle-puzzle-board-games/) – the preceding "2010" edition: Encore/Freeverse developer credit and game list
