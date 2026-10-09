@@ -86,7 +86,6 @@ Many former Evryware team members went on to contribute to other significant gam
 
 ## Games
 
-- **1987** — [[1987 - The Ancient Art of War at Sea|The Ancient Art of War at Sea]] — Genre: Strategy
 - **1988** — [[1988 - Manhunter - New York|Manhunter: New York]] — Genre: Adventure
 - **1989** — [[1989 - Manhunter - San Francisco|Manhunter: San Francisco]] — Genre: Adventure
 - **Unknown** — [[CXL - Manhunter 3|CXL: Manhunter 3]] — Genre: Adventure

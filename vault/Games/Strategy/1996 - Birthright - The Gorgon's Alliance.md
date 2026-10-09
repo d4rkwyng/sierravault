@@ -124,9 +124,7 @@ Technical preservation efforts have expanded beyond simple compatibility fixes[^
 ## See Also
 
 - [[1979 - Galactic Empire]]
-- [[1987 - The Ancient Art of War at Sea]]
 - [[1991 - The Charge of the Light Brigade]]
-- [[1991 - V for Victory - D-Day Utah Beach]]
 - [[1993 - Global Domination]]
 - [[1994 - Alien Legacy]]
 - [[1995 - High Seas Trader]]

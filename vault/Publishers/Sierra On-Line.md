@@ -284,7 +284,6 @@ This section lists all games published under Sierra On-Line and its subsidiaries
 - **1991** — [[1991 - Cohort Fighting for Rome|Cohort: Fighting for Rome]] — Notes: Strategy
 - **1991** — [[1991 - Fort Apache|Fort Apache]] — Notes: Western strategy
 - **1991** — [[1991 - Merchant Colony|Merchant Colony]] — Notes: Trade sim
-- **1991** — [[1991 - V for Victory - D-Day Utah Beach|V for Victory: Utah Beach]] — Notes: Wargame
 - **1992** — [[1992 - Air Bucks|Air Bucks]] — Notes: Airline sim
 - **1992** — [[1992 - Air Force Commander|Air Force Commander]] — Notes: Strategy
 - 1992 — Crime City — Management sim

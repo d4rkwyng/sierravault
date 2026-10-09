@@ -788,9 +788,7 @@ This archive contains **507 game pages** across 74 categories.
 
 ## Strategy
 
-- **1987** — [[1987 - The Ancient Art of War at Sea|The Ancient Art of War at Sea]] — Last Updated: 2025-01-23
 - **1991** — [[1991 - The Charge of the Light Brigade|The Charge of the Light Brigade]] — Last Updated: 2026-01-10
-- **1991** — [[1991 - V for Victory - D-Day Utah Beach|V for Victory: Battleset 1 - D-Day Utah Beach - 1944]] — Last Updated: 2026-01-11
 - **1993** — [[1993 - Global Domination|Global Domination]] — Last Updated: 2026-01-10
 - **1994** — [[1994 - Alien Legacy|Alien Legacy]] — Last Updated: 2026-01-10
 - **1995** — [[1995 - High Seas Trader|High Seas Trader]] — Last Updated: 2026-01-09
