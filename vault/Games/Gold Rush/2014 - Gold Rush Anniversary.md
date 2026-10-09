@@ -279,7 +279,7 @@ The game's mixed reception highlights the challenges facing remakes of vintage a
 [^ref-2]: [Steam Store – Gold Rush! Anniversary](https://store.steampowered.com/app/319230/Gold_Rush_Anniversary/) – release date, user reviews, technical specifications, game description
 [^ref-3]: [GoldRush-Game.com – Official Developer Website](https://www.goldrush-game.com/) – comprehensive release timeline, version history, development updates
 [^ref-4]: [Apple App Store – Gold Rush Anniversary HD](https://apps.apple.com/us/app/gold-rush-anniversary-hd/id951054338) – iOS specifications, version history, technical features
-[^ref-5]: Adventure Gamers – Gold Rush Remake Review *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – critical review, graphics assessment, completion time
+[^ref-5]: Adventure Gamers – Gold Rush Remake Review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – critical review, graphics assessment, completion time
 [^ref-6]: [Gold Rush! Wiki – Anniversary Edition](https://gold-rush.fandom.com/wiki/Gold_Rush!_Anniversary) – game structure, route information, HD features
 [^ref-7]: [Just Adventure – Gold Rush Anniversary Review](https://www.justadventure.com/2014/11/18/gold-rush-anniversary-review/) – review score, pricing criticism, technical issues
 [^ref-8]: [Wikipedia – Gold Rush!](https://en.wikipedia.org/wiki/Gold_Rush!) – original game history, designer credits, AGI engine information

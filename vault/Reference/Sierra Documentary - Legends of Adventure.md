@@ -85,7 +85,7 @@ The documentary is the most significant **single piece of Sierra journalism** in
 ## References
 
 [^ref-1]: [Legends of Adventure — Official Site](https://thelegendsofadventure.com/) — Production team description, subject framing, contact and IMDB/Letterboxd links
-[^ref-2]: Adventure Gamers — Legends of Adventure: A Sierra On-Line Documentary *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — July 2024 announcement, project premise
+[^ref-2]: Adventure Gamers — Legends of Adventure: A Sierra On-Line Documentary *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — July 2024 announcement, project premise
 [^ref-3]: [Backerkit — Legends of Adventure project hub](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure) — Campaign archive, reward tiers, backer count
 [^ref-4]: [Backerkit — Legends of Adventure community](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/community) — Ongoing backer discussion and update index
 [^ref-5]: [Legends of Adventure — YouTube channel](https://www.youtube.com/@gamelegendsdoc) — Official trailers and update videos
@@ -99,5 +99,5 @@ The documentary is the most significant **single piece of Sierra journalism** in
 [^ref-13]: [Backerkit Update #32612 — "Thanksgiving Update with More Exciting Interviews"](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/updates/32612) — Late-2025 production update announcing additional interview slate
 [^ref-14]: [Legends of Adventure — Official First Look (YouTube)](https://www.youtube.com/watch?v=0WqaPCJRwko) — Official teaser
 [^ref-15]: [BlizzardWatch — Sierra On-Line documentary crowdfunding (Aug 2024)](https://blizzardwatch.com/2024/08/05/sierra-online-documentary/) — Crowdfunding final-day coverage
-[^ref-16]: Adventure Gamers — Discussion of Sierra On-Line documentary coverage *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Coverage from the adventure-game press
+[^ref-16]: Adventure Gamers — Discussion of Sierra On-Line documentary coverage *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Coverage from the adventure-game press
 [^ref-17]: [Legends of Adventure on Bluesky](https://bsky.app/profile/gamelegendsdoc.bsky.social) — Production updates feed; June 19 post-production update and July 9, 2026 two-hour-cut announcement (dates verified via public Bluesky API)

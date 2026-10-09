@@ -293,7 +293,7 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 [^ref-11]: [Police Quest Fandom Wiki – AGI DOS Version](https://policequest.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(AGI_DOS/Tandy)) – drug crisis plot, training publication quotes
 [^ref-12]: [Walkthroughking – Police Quest](https://www.walkthroughking.com/text/policequest.aspx) – plot details, series overview
 [^ref-13]: [Nerds That Geek – Review](https://nerdsthatgeek.com/gaming/nerds-that-geek-game-review-police-quest-in-pursuit-of-the-death-angel) – emotional story elements
-[^ref-14]: Adventure Gamers – Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Death Angel investigation
+[^ref-14]: Adventure Gamers – Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Death Angel investigation
 [^ref-15]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel/faqs/19345) – climax details
 [^ref-16]: [GOG – Police Quest Collection](https://www.gog.com/game/police_quest_1_2_3_4) – commercial availability, collection info
 [^ref-17]: [MobyGames – Original Game Entry](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/) – easter eggs, driving view, original credits

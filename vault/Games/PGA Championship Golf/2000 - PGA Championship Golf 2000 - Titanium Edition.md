@@ -143,7 +143,7 @@ The realistic golf swing mechanics and statistical accuracy made it a favorite a
 ## References
 
 [^ref-1]: [Abandonware DOS - PGA Championship Golf 2000 Search](https://www.abandonwaredos.com/search.php?search=PGA+Championship+Golf+2000%3A+Titanium+Edition) – - Search results page for game archives
-[^ref-2]: Adventure Gamers Search *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – - Adventure game database search
+[^ref-2]: Adventure Gamers Search *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - Adventure game database search
 [^ref-3]: [Amazon UK Product Listing](https://www.amazon.co.uk/PGA-Championship-Golf-2000-Titanium/dp/B00WFESJAM) – - Commercial availability information
 [^ref-4]: [eBay Product Listing 404255759776](https://www.ebay.com/itm/404255759776) – - Detailed game description and features
 [^ref-5]: [eBay Product Page 6484578](https://www.ebay.com/p/6484578) – - Game specifications and platform details

@@ -246,7 +246,7 @@ This game has been included in the following collections:
 [^ref-16]: [Sierra Help – Space Quest 1 AGI](https://sierrahelp.com/Games/SpaceQuest/SQ1AGIHelp.html) – patches, technical help
 [^ref-17]: [ScummVM Wiki – Space Quest](https://wiki.scummvm.org/index.php?title=Space_Quest) – platforms include MS-DOS, Tandy 1000, PCjr, Apple II, Apple IIgs, Amiga, Atari ST, Mac; AGI support since ScummVM 0.10.0; Amiga used extended palette
 [^ref-18]: [The Cutting Room Floor – Space Quest I (1986)](https://tcrf.net/Space_Quest:_Chapter_I_-_The_Sarien_Encounter_(1986)) – debug mode, unused graphics, cut items, version differences
-[^ref-19]: Adventure Gamers – Space Quest I *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – review, "Good" rating, pros/cons
+[^ref-19]: Adventure Gamers – Space Quest I *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – review, "Good" rating, pros/cons
 [^ref-20]: [Space Quest Historian – 11 Things You Probably Didn't Know About Space Quest](https://www.youtube.com/watch?v=Hvux-A0oGiM) – Ken Williams easter egg, development trivia
 [^ref-21]: [Virtual Broomcloset – Mark Crowe Interview](https://www.wiw.org/~jess/markcrowe.html) – development origins, influences, Ken Williams quote on parodies
 [^ref-22]: [Virtual Broomcloset – Scott Murphy Interview](https://www.wiw.org/~jess/scott.html) – influences, Two Guys name origin, development history

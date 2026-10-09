@@ -186,11 +186,11 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 [^ref-20]: [IMDb - Main Entry](https://www.imdb.com/title/tt0289401/) – - Cast, crew, and user ratings
 [^ref-21]: [My Abandonware](https://www.myabandonware.com/game/daryl-f-gates-police-quest-open-season-22w) – - User ratings and community comments
 [^ref-22]: [Just Games Retro](https://www.justgamesretro.com/dos/police-quest-open-season) – - Retrospective review and gameplay analysis
-[^ref-23]: Adventure Gamers Review *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – - Modern retrospective assessment
+[^ref-23]: Adventure Gamers Review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - Modern retrospective assessment
 [^ref-24]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2024/04/25/police-quest-open-season/) – - Personal retrospective review
 [^ref-25]: [Adventure Game Hotspot](https://adventuregamehotspot.com/feature/4691/police-quest-iv-open-season-a-fair-balanced-retrospective) – - Critical retrospective analysis
 [^ref-26]: [MobyGames User Reviews](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/reviews/) – - Multiple user review compilation
-[^ref-27]: Adventure Gamers Search Results *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – - Jim Walls departure information
+[^ref-27]: Adventure Gamers Search Results *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - Jim Walls departure information
 [^ref-28]: [Sierra Chest - Walkthrough](https://sierrachest.com/index.php?a=games&id=23&title=police-quest-4&fld=walkthrough&pid=101) – - Game development background
 [^ref-30]: [MobyGames User Review - Katakis](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2433116/) – - Technical innovation details
 [^ref-31]: [MyAbandonware Search](https://www.myabandonware.com/search/q/Daryl+F.+Gates+Police+Quest%3A+Open+Season) – - Technical specifications

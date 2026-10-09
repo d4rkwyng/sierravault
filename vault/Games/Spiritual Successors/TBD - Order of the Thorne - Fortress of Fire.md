@@ -206,7 +206,7 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 
 ## References
 
-[^ref-1]: Adventure Gamers – Order of the Thorne: Fortress of Fire *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – game description, genre, platform, series info
+[^ref-1]: Adventure Gamers – Order of the Thorne: Fortress of Fire *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – game description, genre, platform, series info
 [^ref-2]: Web Search Aggregate – Kickstarter funding details, development plans, story overview
 [^ref-3]: [itch.io – Fortress of Fire](https://infamousquests.itch.io/ootf-fortress-of-fire) – game description, gameplay features, development status updates
 [^ref-4]: [King's Quest Omnipedia – Fortress of Fire](https://kingsquest.fandom.com/wiki/The_Order_of_the_Thorne:_The_Fortress_of_Fire) – protagonist Patrick, Sir Caradoc, plot summary
@@ -223,5 +223,5 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 [^ref-15]: [King's Quest Omnipedia – King's Quest Style Games](https://kingsquest.fandom.com/wiki/King%27s_Quest_Style_Games) – series categorization among Sierra-inspired games
 [^ref-16]: [Steam Community – The King's Challenge Hub](https://steamcommunity.com/app/425600) – community discussion, bug reports
 [^ref-17]: [Kickstarter – Quest for Infamy Campaign](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que/posts) – company history, campaign success
-[^ref-18]: Adventure Gamers – 2D/2.5D Games Archive *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – presentation style categorization
+[^ref-18]: Adventure Gamers – 2D/2.5D Games Archive *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – presentation style categorization
 [^ref-19]: [Infamous Quests Patreon — "Hospital stays etc." (April 4, 2026)](https://www.patreon.com/posts/hospital-stays-154760603) — Steven Alexander confirms studio-time booked for *Roehm to Ruin* voice recording in May 2026, placing *Fortress of Fire* queued behind it; notes ongoing behind-the-scenes asset work during his hospitalization

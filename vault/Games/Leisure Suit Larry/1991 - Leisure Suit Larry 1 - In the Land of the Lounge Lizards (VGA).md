@@ -318,9 +318,9 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 
 [^ref-7]: [DOS Games Archive – Leisure Suit Larry 1](https://www.dosgamesarchive.com/download/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards/) – official game description
 
-[^ref-8]: GameFAQs – Walkthrough by Tom Hayes *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – game locations, structure
+[^ref-8]: GameFAQs – Walkthrough by Tom Hayes *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – game locations, structure
 
-[^ref-9]: Adventure Gamers – Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – gameplay mechanics, interface description
+[^ref-9]: Adventure Gamers – Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – gameplay mechanics, interface description
 
 [^ref-10]: [GameFAQs – Walkthrough by Michael Tyler](https://gamefaqs.gamespot.com/pc/917513-leisure-suit-larry-1-in-the-land-of-the-lounge-lizards/faqs/22837) – easter eggs, points, trivia
 

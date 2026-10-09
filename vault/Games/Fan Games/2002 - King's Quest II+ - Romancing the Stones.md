@@ -216,7 +216,7 @@ The remake's significance extends beyond its individual merits to represent a br
 ## References
 
 [^ref-1]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) – developer history, project information, team background
-[^ref-2]: Adventure Gamers – King's Quest II: Romancing the Stones *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – game description, setting, database listing
+[^ref-2]: Adventure Gamers – King's Quest II: Romancing the Stones *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – game description, setting, database listing
 [^ref-3]: [AGD Interactive – King's Quest II Download Page](https://www.agdinteractive.com/games/kq2/download/download.html) – download availability, team credits, technical information
 [^ref-4]: [King's Quest Omnipedia – King's Quest II: Romancing the Stones](https://kingsquest.fandom.com/wiki/King%27s_Quest_II:_Romancing_the_Stones) – detailed game information, story details, gameplay elements
 [^ref-5]: [AGD Interactive – About King's Quest II](https://www.agdinteractive.com/games/kq2/about/about.html) – game history, story premise, development background

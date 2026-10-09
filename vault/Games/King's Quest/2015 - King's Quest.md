@@ -197,7 +197,7 @@ This game is not available on GOG[^ref-7].
 [^ref-3]: [MobyGames – King's Quest: The Complete Collection](https://www.mobygames.com/game/74033/kings-quest-the-complete-collection/) – developer, publisher, platforms, gameplay description
 [^ref-4]: [GameFAQs – King's Quest: The Complete Collection](https://gamefaqs.gamespot.com/pc/134276-kings-quest-the-complete-collection) – developer, release date, user reviews
 [^ref-5]: [Steam – King's Quest](https://store.steampowered.com/app/345390) – purchase, availability
-[^ref-6]: Adventure Gamers – King's Quest (2015) *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – review, rating
+[^ref-6]: Adventure Gamers – King's Quest (2015) *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – review, rating
 [^ref-7]: [GOG Search – King's Quest 2015](https://www.gog.com/games?query=king%27s%20quest%202015) – GOG availability check (not available)
 [^ref-8]: [ScummVM Wiki – King's Quest](https://wiki.scummvm.org/index.php/AGIWiki/King%27s_Quest) – series details
 [^ref-9]: [IGN – King's Quest: A Knight to Remember Review](https://www.ign.com/articles/2015/07/28/kings-quest-a-knight-to-remember-review) – 8/10 review by Leif Johnson, Christopher Lloyd voice acting praise

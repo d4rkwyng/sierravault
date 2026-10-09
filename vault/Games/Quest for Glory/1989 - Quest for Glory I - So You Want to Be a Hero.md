@@ -224,7 +224,7 @@ This game has been included in the following collections:
 [^ref-5]: [Grokipedia – Quest for Glory](https://grokipedia.com/page/Quest_for_Glory) – series development history, creators, gameplay mechanics
 [^ref-6]: [PCGamingWiki – Quest for Glory: So You Want to Be a Hero](https://www.pcgamingwiki.com/wiki/Quest_for_Glory%3A_So_You_Want_to_Be_a_Hero) – technical specs, availability
 [^ref-7]: [Computer Gaming World – 1990 Awards](http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=74) – Adventure Game of the Year, 150 Best Games list
-[^ref-8]: Adventure Gamers – Quest for Glory I *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – modern review
+[^ref-8]: Adventure Gamers – Quest for Glory I *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – modern review
 [^ref-9]: [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) – purchase, user reviews
 [^ref-10]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750) – purchase, user reviews
 [^ref-11]: [Internet Archive – Quest for Glory Manual](https://archive.org/details/Quest_for_Glory_Manual) – preservation, documentation

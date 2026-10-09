@@ -175,4 +175,4 @@ Dynamix titles received consistently strong reviews throughout the Sierra era. N
 [^ref-14]: [VOGONS — Dynamix games](https://www.vogons.org) — Community preservation
 [^ref-15]: [PCGamingWiki — Dynamix series](https://www.pcgamingwiki.com/wiki/Dynamix) — Technical reference
 [^ref-16]: [Sierra Gamers — Jeff Tunnell interview](https://www.sierragamers.com/jeff-tunnell/) — Oral history
-[^ref-17]: Adventure Gamers — Dynamix retrospective *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Adventure-genre coverage (Cloudflare-protected; view in browser)
+[^ref-17]: Adventure Gamers — Dynamix retrospective *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Adventure-genre coverage (Cloudflare-protected; view in browser)

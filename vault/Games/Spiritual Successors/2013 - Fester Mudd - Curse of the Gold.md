@@ -244,7 +244,7 @@ Riot Pixels perhaps summarized it best: "Yep, we've already seen everything Fest
 ## References
 
 [^ref-2]: [Adventure Classic Gaming – Fester Mudd Review](http://www.adventureclassicgaming.com/index.php/site/reviews/794/) – developer, publisher, platform information
-[^ref-3]: Adventure Gamers – Fester Mudd *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – interface description, review score, Easter eggs
+[^ref-3]: Adventure Gamers – Fester Mudd *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – interface description, review score, Easter eggs
 [^ref-4]: [Cult of Mac – Fester Mudd Review](https://www.cultofmac.com/news/got-a-dollar-then-check-out-this-hilarious-game-fester-mudd-curse-of-the-gold-on-the-app-store) – iOS details, plot summary, pricing
 [^ref-5]: [Destructoid – Fester Mudd Review](https://www.destructoid.com/reviews/review-fester-mudd-curse-of-the-gold-episode-one/) – release date, Mandel collaboration, review score, technical details
 [^ref-6]: [PR Newswire – Fester Mudd Press Release](https://enmobile.prnasia.com/releases/global/-75982.shtml) – official announcement, Trowe quote, features list

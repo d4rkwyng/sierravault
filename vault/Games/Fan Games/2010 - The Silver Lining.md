@@ -197,7 +197,7 @@ The project's legacy extends beyond The Silver Lining itself, as Phoenix Online 
 
 [^ref-1]: [HandWiki – The Silver Lining (video game)](https://handwiki.org/wiki/Software:The_Silver_Lining_(video_game)) – Development history, legal issues, release information, episode details
 [^ref-2]: [Phoenix Online Studios Archive – TSL Trilogy](https://www.postudios.com/archivedTSL/trilogy/) – Technical specifications, download statistics, production scope, demo release date
-[^ref-3]: Adventure Gamers – The Silver Lining Series *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Series overview, developer information, story premise
+[^ref-3]: Adventure Gamers – The Silver Lining Series *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Series overview, developer information, story premise
 [^ref-4]: [MobyGames – The Silver Lining Search Results](https://www.mobygames.com/search/?q=The+Silver+Lining&type=game) – Episode release dates, platform information
 [^ref-5]: [King's Quest Omnipedia – The Silver Lining](https://kingsquest.fandom.com/wiki/The_Silver_Lining) – Fan wiki documentation, categorization
 [^ref-6]: [PCGamingWiki – The Silver Lining](https://www.pcgamingwiki.com/wiki/The_Silver_Lining) – Technical information, platform, genre classification

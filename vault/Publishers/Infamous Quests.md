@@ -40,7 +40,7 @@ The studio successfully funded their debut game, *Quest for Infamy*, through Kic
 [^ref-3]: [Kickstarter - Quest for Infamy](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-the-adventure-game-to-end-all-adv) - Funding campaign
 [^ref-4]: [Steam - Quest for Infamy](https://store.steampowered.com/app/264560/Quest_for_Infamy/) - Game release
 [^ref-5]: [GOG - Quest for Infamy](https://www.gog.com/game/quest_for_infamy) - Digital distribution
-[^ref-6]: Adventure Gamers - Quest for Infamy Review *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* - Game review
+[^ref-6]: Adventure Gamers - Quest for Infamy Review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Game review
 [^ref-7]: [Steam - Order of the Thorne: The King's Challenge](https://store.steampowered.com/app/339680/Order_of_the_Thorne_The_Kings_Challenge/) - Episodic adventure
 [^ref-8]: [MobyGames - Order of the Thorne](https://www.mobygames.com/game/76186/order-of-the-thorne-the-kings-challenge/) - Game entry
 [^ref-9]: [PC Gamer - Quest for Infamy](https://www.pcgamer.com/quest-for-infamy-review/) - Review

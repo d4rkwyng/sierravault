@@ -279,7 +279,7 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 [^ref-30]: [IMDB – Softporn Adventure](https://www.imdb.com/title/tt0442702/) – user rating, credits
 [^ref-31]: [GameFAQs – Softporn Adventure Stats](https://gamefaqs.gamespot.com/atari8bit/952715-softporn-adventure/stats) – user ratings, rankings
 [^ref-32]: [MyAbandonware – Softporn Adventure](https://www.myabandonware.com/game/softporn-adventure-19f) – HOTUD review, parser criticism vs Infocom
-[^ref-33]: Adventure Gamers – Softporn Adventure *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – community rating, publication details
+[^ref-33]: Adventure Gamers – Softporn Adventure *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – community rating, publication details
 [^ref-35]: [RetroMania.gg – Softporn Adventure](https://retromania.gg/games/dos/softporn-adventure) – trade show discovery, publishing difficulties
 [^ref-36]: [Retro365 Blog – Softporn](https://retro365.blog/2018/06/24/a-bit-from-my-personal-collection-softporn/) – sales timeline, company impact, advertising difficulties
 [^ref-37]: [Every Game Going – Softporn Adventure](https://www.everygamegoing.com/litem/Softporn-Adventure/148784/) – Atari release date, technical specifications

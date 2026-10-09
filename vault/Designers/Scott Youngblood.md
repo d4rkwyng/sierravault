@@ -133,4 +133,4 @@ The technical innovations required to support Tribes' large-scale battles and co
 [^ref-17]: [MobyGames Credits](https://www.mobygames.com/person/40327/scott-youngblood/credits/) — Complete game credits listing
 [^ref-18]: [Sierra Easter Eggs](https://sierrahelp.com/Misc/EasterEggs/SQEasterEggs.html) — Early Sierra involvement
 [^ref-19]: [Ten Ton Hammer Interview](https://www.tentonhammer.com/articles/an-interview-with-red-5-s-scott-youngblood-and-rob-garrett) — Detailed interview about career and philosophy
-[^ref-20]: Adventure Gamers *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Additional game industry references
+[^ref-20]: Adventure Gamers *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Additional game industry references

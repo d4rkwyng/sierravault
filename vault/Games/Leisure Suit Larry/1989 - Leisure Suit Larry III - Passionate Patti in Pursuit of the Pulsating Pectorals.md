@@ -205,7 +205,7 @@ The game is also included in various compilations including the Leisure Suit Lar
 ## References
 
 [^ref-1]: [Adventure Classic Gaming Review](https://www.adventureclassicgaming.com/index.php/site/reviews/355/) – - Release date and basic information
-[^ref-2]: Adventure Gamers Database *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – - Series information and adult content return
+[^ref-2]: Adventure Gamers Database *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - Series information and adult content return
 [^ref-3]: [MobyGames Database Entry](https://www.mobygames.com/game/412/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsat/) – - Technical specifications and engine details
 [^ref-4]: [PlayClassic Games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsating-pectorals-online/) – - Dual protagonist gameplay mechanics
 [^ref-5]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals) – - Platform compatibility information

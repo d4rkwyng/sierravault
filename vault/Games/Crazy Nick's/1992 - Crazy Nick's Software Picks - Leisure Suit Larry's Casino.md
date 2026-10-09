@@ -279,7 +279,7 @@ From a preservation standpoint, the title remains notable as one of five budget 
 
 [^ref-16]: [MobyGames – Leisure Suit Larry's Casino (1998)](https://www.mobygames.com/game/1707/leisure-suit-larrys-casino/) – distinct 1998 Windows release information
 
-[^ref-17]: Adventure Gamers – Leisure Suit Larry VGA Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – VGA remake background information
+[^ref-17]: Adventure Gamers – Leisure Suit Larry VGA Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – VGA remake background information
 
 [^ref-18]: [MobyGames – Leisure Suit Larry 6: Shape Up or Slip Out!](https://www.mobygames.com/game/407/leisure-suit-larry-6-shape-up-or-slip-out/) – subsequent series entry information
 

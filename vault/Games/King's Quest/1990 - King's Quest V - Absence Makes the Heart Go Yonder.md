@@ -301,10 +301,10 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-10]: [DOS Days – King's Quest V](https://www.dosdays.co.uk/topics/Games/game_kq5.php) – technical specifications, installation details
 [^ref-11]: [Internet Archive – NES Longplay](https://archive.org/details/NESLongplay493KingsQuestV) – plot description, gameplay elements
 [^ref-12]: [Computer Hope Walkthrough](https://www.computerhope.com/games/games/kq5.htm) – gameplay mechanics, interface description
-[^ref-13]: Adventure Gamers – King's Quest VI Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Cassima introduction, series connections
+[^ref-13]: Adventure Gamers – King's Quest VI Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Cassima introduction, series connections
 [^ref-14]: [Internet Archive – SoftKey Version](https://archive.org/details/Kings_Quest_V_SoftKey_USA) – interface description, gameplay mechanics
 [^ref-15]: [The Digital Antiquarian – Sierra at the Cusp of the Multimedia Age](https://www.filfre.net/2018/01/sierra-at-the-cusp-of-the-multimedia-age/) – sales data, development methodology, marketing
-[^ref-16]: Adventure Gamers – King's Quest V Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – progression, puzzle descriptions
+[^ref-16]: Adventure Gamers – King's Quest V Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – progression, puzzle descriptions
 [^ref-17]: [Choicest Games – King's Quest V Review](https://www.choicestgames.com/2021/09/kings-quest-v-review.html) – modern review, technical achievements
 [^ref-18]: [KHInsider – King's Quest V Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/king-s-quest-5-soundtrack) – track listing, location themes
 [^ref-19]: [GameFAQs – NES Walkthrough](https://gamefaqs.gamespot.com/nes/587388-kings-quest-v/faqs/46976) – point system, NES version differences
@@ -340,5 +340,5 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-49]: [Sierra Hint Book Reference](https://archive.org/) – hint book availability
 [^ref-50]: [King's Quest Omnipedia – Nintendo Power Review](https://kingsquest.fandom.com/wiki/King's_Quest_V_Nintendo_Power_Review) – strategy guide publication
 [^ref-51]: [TV Tropes – King's Quest V](https://tvtropes.org/) – design criticism
-[^ref-53]: Adventure Gamers – King's Quest VI Introduction *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Alexander and Cassima connection
+[^ref-53]: Adventure Gamers – King's Quest VI Introduction *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Alexander and Cassima connection
 [^ref-54]: [IndieRetroNews – King's Quest V Amiga OCS Remaster](https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html) – SCP enhancement release, kikems/AmigaWave, DaRaSCo, MEGA download

@@ -37,7 +37,7 @@ Like [[Publishers/AGD Interactive|AGD Interactive]], Infamous Adventures operate
 [^ref-2]: [MobyGames - Infamous Adventures](https://www.mobygames.com/company/15714/infamous-adventures/) - Game database profile
 [^ref-3]: [Wikipedia - Infamous Adventures](https://en.wikipedia.org/wiki/Infamous_Adventures) - Company history
 [^ref-4]: [Adventure Gamers - Space Quest II VGA](https://web.archive.org/web/20220105144442/https://adventuregamers.com/games/view/16908) - Remake coverage
-[^ref-5]: Adventure Gamers - King's Quest III VGA *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* - Remake review
+[^ref-5]: Adventure Gamers - King's Quest III VGA *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Remake review
 [^ref-6]: [MobyGames - Space Quest II VGA](https://www.mobygames.com/game/47276/space-quest-ii-vohaul-revisited/) - VGA remake entry
 [^ref-7]: [MobyGames - King's Quest III VGA](https://www.mobygames.com/game/52818/kings-quest-iii-to-heir-is-human-vga/) - Remake entry
 [^ref-8]: [Sierra Gamers - Infamous Adventures](https://www.sierragamers.com/) - Fan community coverage

@@ -72,7 +72,7 @@ The studio's influence extends beyond their own releases, as their success with 
 [^ref-4]: [King's Quest Fandom Wiki](https://kingsquest.fandom.com/wiki/King's_Quest:_Kingdom_of_Sorrow_(Infamous_Adventures)) — Documentation of fan projects
 [^ref-5]: [Gamicus Wiki](https://gamicus.fandom.com/wiki/Infamous_Adventures) — Company background and game listings
 [^ref-6]: [Giant Bomb](https://www.giantbomb.com/search/?q=Infamous+Adventures&filter=company) — Developer database and game information
-[^ref-7]: Adventure Gamers Book Review *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Historical context of adventure gaming
+[^ref-7]: Adventure Gamers Book Review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Historical context of adventure gaming
 [^ref-8]: [Wikidata](https://www.wikidata.org/wiki/Q6028784) — Structured data about the company
 [^ref-9]: [Games Nostalgia](https://gamesnostalgia.com/games/developer/infamous+adventures) — Developer profile and game catalog
 [^ref-10]: [Gamezebo Development Story](https://www.gamezebo.com/news/from-dialysis-to-development-quest-for-infamys-12-year-journey/) — Quest for Infamy development challenges

@@ -200,7 +200,7 @@ The remake's success lies not merely in its technical achievements but in its ph
 
 ## References
 
-[^ref-1]: Adventure Gamers – Quest for Glory II VGA Remake *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – game description, release date, developer information, rating
+[^ref-1]: Adventure Gamers – Quest for Glory II VGA Remake *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – game description, release date, developer information, rating
 [^ref-3]: [AGD Interactive Official Website](https://www.agdinteractive.com/) – version 2.0 release, Mac availability, award-winning status, developer background
 [^ref-4]: [Engadget News Article](https://www.engadget.com/2008-08-25-quest-for-glory-ii-vga-remake-released.html) – development timeline, 256-color graphics, character reveals
 [^ref-5]: [Adventure Game Studio – Quest for Glory II VGA Remake](https://www.adventuregamestudio.co.uk/play/game/1072/) – engine, awards, panel rating, user reviews, combat difficulty

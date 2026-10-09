@@ -203,7 +203,7 @@ This game has been included in the following collections:
 [^ref-3]: [MobyGames – Quest for Glory V: Dragon Fire](https://www.mobygames.com/game/174/quest-for-glory-v-dragon-fire/) – – credits, ratings, screenshots
 [^ref-4]: [Sierra Fandom Wiki – Quest for Glory V](https://sierra.fandom.com/wiki/Quest_for_Glory_V%3A_Dragon_Fire) – – detailed game information
 [^ref-5]: [PC Gamer – Saturday Crapshoot: Quest For Glory 4 1/2](http://www.pcgamer.com/saturday-crapshoot-quest-for-glory-4-12/) – – series retrospective
-[^ref-6]: Adventure Gamers – Quest for Glory V *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – – modern review, rating
+[^ref-6]: Adventure Gamers – Quest for Glory V *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – – modern review, rating
 [^ref-7]: [HowLongToBeat – Quest for Glory V](https://howlongtobeat.com/game/7482) – – completion times
 [^ref-8]: [GameFAQs – Quest for Glory V](https://gamefaqs.gamespot.com/pc/43361-quest-for-glory-v-dragon-fire) – – user reviews, guides
 [^ref-9]: [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) – – purchase, user reviews

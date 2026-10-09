@@ -284,5 +284,5 @@ This game has been included in the following collections:
 [^ref-28]: [SpaceQuest.net – SQ5 Fun Facts](https://spacequest.net/sq5/funfacts/) – Mark Crowe quotes on SQ4 stress and Dynamix move, Josh Mandel's earlier SQ5 design, Ken Williams SCI mandate, Sean Murphy CD-ROM cancellation quote
 [^ref-29]: [SpaceQuest.net – SQ5 Cameos](https://spacequest.net/sq5/cameos/) – Worf/Woof parody, guards playing Missile Command and Asteroids, SQ3 Skull Fighter, Enterprise engine, Flash Gordon and Einstein on grade master
 [^ref-30]: [SpaceQuest.net – SQ5 Plot Inconsistencies](https://spacequest.net/sq5/plotinconsis/) – Magazine contradictions, StarCon Crest design issue, Cliffy spacesuit plot hole, shield inconsistencies, garbage collection paradox
-[^ref-31]: Adventure Gamers – Space Quest V *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – "Very good" rating, "best story and characters," 6-8 hours completion, "one of the worst mazes ever," improved VGA graphics
+[^ref-31]: Adventure Gamers – Space Quest V *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – "Very good" rating, "best story and characters," 6-8 hours completion, "one of the worst mazes ever," improved VGA graphics
 [^ref-32]: [DOS.Zone – Space Quest V](https://dos.zone/space-quest-v-the-next-mutation/) – play in browser

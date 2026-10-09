@@ -175,7 +175,7 @@ The game's environmental message has proven timeless, with its themes of marine 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/EcoQuest%3A_The_Search_for_Cetus) – Game description and educational focus
 [^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/EcoQuest:_The_Search_for_Cetus) – Marine conservation introduction
 [^ref-3]: [Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=42&fld=general) – Release date information
-[^ref-4]: Adventure Gamers *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Character description and development details
+[^ref-4]: Adventure Gamers *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Character description and development details
 [^ref-5]: [MobyGames](https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/reviews/) – SAGA_ review on game design approach
 [^ref-6]: [Archive.org](https://archive.org/details/eco-quest-1-the-search-for-cetus) – Developer information
 [^ref-7]: [Filfre.net](https://www.filfre.net/?s=EcoQuest%3A+The+Search+for+Cetus) – Jane Jensen's early work context
@@ -193,7 +193,7 @@ The game's environmental message has proven timeless, with its themes of marine 
 [^ref-19]: [The Spoiler](https://the-spoiler.com/ADVENTURE/Sierra/eco.quest.2.html) – Scoring system details
 [^ref-20]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=EcoQuest:+The+Search+for+Cetus&gid=2593) – Community rating
 [^ref-21]: [IMDb](https://www.imdb.com/find/?q=EcoQuest%3A+The+Search+for+Cetus&s=tt) – IMDb rating
-[^ref-22]: Adventure Gamers Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Modern assessment
+[^ref-22]: Adventure Gamers Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Modern assessment
 [^ref-23]: [MobyGames Reviews](https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/) – Tomer Gabel and Mickey Gabel reviews
 [^ref-24]: [Sierra Music Central](http://www.sierramusiccentral.com/eq.html) – Composer credits
 [^ref-25]: [Collection Chamber](https://collectionchamber.blogspot.com/p/ecoquest-search-for-cetus.html) – Series legacy assessment

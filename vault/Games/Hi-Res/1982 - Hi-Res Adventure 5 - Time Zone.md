@@ -220,7 +220,7 @@ For Sierra specifically, Time Zone represented an important learning experience.
 [^ref-6]: [Blue Renga – Time Zone Ultimate](https://bluerenga.blog/2022/02/27/time-zone-ultimate/) – Roberta Williams quotes, gameplay mechanics, platform information
 [^ref-7]: [Sierra Help – Time Zone Walkthrough](https://sierrahelp.com/Walkthroughs/TimeZoneWalkthrough.html) – time periods, locations, gameplay structure
 [^ref-8]: [Sierra Gamers – Time Zone](https://www.sierragamers.com/time-zone/) – interface details, save system, series information
-[^ref-9]: Adventure Gamers – Time Zone Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – gameplay assessment, technical specifications, pricing
+[^ref-9]: Adventure Gamers – Time Zone Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – gameplay assessment, technical specifications, pricing
 [^ref-10]: [MyAbandonware – Time Zone](https://www.myabandonware.com/game/time-zone-7mv) – user reviews, file information, platform details
 [^ref-11]: [Internet Archive – Time Zone v1.1 (WOZ-a-Day)](https://archive.org/details/wozaday_Time_Zone_v11) – development credits, technical specifications
 [^ref-12]: [Internet Archive – Time Zone Complete Package](https://archive.org/details/on-line-time-zone-a2-1.1-ph) – version information, disk format, preservation notes

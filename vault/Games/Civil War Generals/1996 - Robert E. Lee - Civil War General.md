@@ -139,7 +139,7 @@ Historical accuracy in unit representation and battle scenarios enhanced educati
 ## References
 
 [^ref-1]: [Abandonware DOS Search Results](https://www.abandonwaredos.com/search.php?search=Robert+E.+Lee%3A+Civil+War+General) - General reference listing
-[^ref-2]: Adventure Gamers Search *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* - Website homepage reference
+[^ref-2]: Adventure Gamers Search *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Website homepage reference
 [^ref-3]: [All Video Classic Games Product Page](https://www.allvideoclassicgames.com/products/robert-e-lee-civil-war-general-1clk-windows-10-8-7-vista-xp-install) - Comprehensive game details and historical context
 [^ref-4]: [Archive Today - CUC Acquisition](https://archive.today/20180514174700/http://www.spokesman.com/stories/1996/feb/21/cuc-to-acquire-sierra-on-line-in-deal-worth-at/) - Sierra On-Line acquisition details
 [^ref-5]: [Chapter Cheats](https://www.chaptercheats.com/cheats/pc/369088/robert-e-lee-civil-war-general-cheat-codes) - Basic game information and release date

@@ -129,7 +129,7 @@ The Mixed-Up series represents Sierra's notable effort in educational adventure 
 ## References
 
 [^ref-1]: [AbandonwareDOS Search Results](https://www.abandonwaredos.com/search.php?search=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Basic search listing
-[^ref-2]: Adventure Gamers - SCI Remake Entry *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* - Game database information and description
+[^ref-2]: Adventure Gamers - SCI Remake Entry *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Game database information and description
 [^ref-3]: [Adventure Gamers - Database Entry](https://web.archive.org/web/20231130082512/https://adventuregamers.com/games/view/36614) - Additional game metadata and description
 [^ref-4]: [AdvGamer Blog - Pepper's Adventures Analysis](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) - Sierra Discovery Series context and development information
 [^ref-5]: [Internet Archive - MS-DOS 1991 Version](https://archive.org/details/msdos_Mixed-Up_Mother_Goose_1991) - Game preservation with metadata and gameplay description

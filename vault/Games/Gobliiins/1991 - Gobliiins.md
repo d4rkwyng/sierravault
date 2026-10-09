@@ -306,7 +306,7 @@ The Gobliiins series spans five main entries across three decades, each with a d
 [^ref-38]: [Kickstarter – GOBLiiiNS5](https://www.kickstarter.com/projects/pierregilhodes/gobliiins5-pc) – crowdfunding details
 [^ref-39]: [Gamer Walkthroughs – Gobliins 2](https://gamerwalkthroughs.com/gobliins-2/) – plot summary
 [^ref-40]: [Digital Spy – Gobliiins 4 Review](https://www.digitalspy.com/videogames/a152852/gobliiins-4-pc/) – development history
-[^ref-41]: Adventure Gamers – Gobliiins 4 *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – review quote
+[^ref-41]: Adventure Gamers – Gobliiins 4 *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – review quote
 [^ref-42]: [Steam – GOBLiiiNS5](https://store.steampowered.com/app/2475980/GOBLiiiNS5/) – game description, technical specs
 [^ref-43]: [Speedrun.com – Gobliiins](https://www.speedrun.com/gobliiins) – speedrunning community
 [^ref-44]: [Virtual Moose – Gobliiins Guide](https://virtualmoose.org/2023/06/02/an-intro-guide-to-gobliiins/) – series overview, recommendations

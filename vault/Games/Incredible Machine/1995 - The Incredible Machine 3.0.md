@@ -255,4 +255,4 @@ The game's description as "a puzzle game par excellence and beyond" reflects its
 [^ref-17]: [Internet Archive – DOS Manual](https://archive.org/details/the-incredible-machine-dos-manual) – original documentation preservation
 [^ref-18]: [Internet Archive – Original 1992 Release](https://archive.org/details/the_incredible_machine_1992) – series origins, historical preservation
 [^ref-19]: [Steam Store Search](https://store.steampowered.com/search/?term=The+Incredible+Machine+3.0) – digital availability status
-[^ref-20]: Adventure Gamers – TIM Search *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – genre classification, community coverage
+[^ref-20]: Adventure Gamers – TIM Search *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – genre classification, community coverage

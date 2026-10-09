@@ -113,7 +113,7 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 [^ref-11]: [Retro Gamer Coverage](https://www.retrogamer.net/?s=Scott+Murphy) — King's Quest contributions and AGI engine work
 [^ref-12]: [WikiMili Biography](https://wikimili.com/en/Scott_Murphy_(video_game_designer))) — comprehensive career information
 [^ref-13]: [Indie Retro News Review](https://www.indieretronews.com/2019/08/space-quest-i-review-classic-sci-fi.html) — Space Quest creation and development details
-[^ref-14]: Adventure Gamers Search *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Two Guys from Andromeda partnership information
+[^ref-14]: Adventure Gamers Search *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Two Guys from Andromeda partnership information
 [^ref-15]: [CelebsAgeWiki](https://www.celebsagewiki.com/scott-murphy-video-game-designer) — partnership with Mark Crowe details
 [^ref-16]: [LinkedIn - Mark Crowe](https://www.linkedin.com/in/mark-crowe-71354965/) — collaborator information and Space Quest development
 [^ref-17]: [Giant Bomb Search](https://www.giantbomb.com/search/?q=Scott+Murphy&filter=person) — technical innovations and game development details
@@ -139,5 +139,5 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 [^ref-41]: [Guys from Andromeda Press Release (2012)](http://guysfromandromeda.com/wp-content/uploads/2012/06/Spaceventure_Press_Release_PDF1.5.pdf) — design approach and iteration philosophy
 [^ref-42]: [Game Developer - Sierra Adventure Games](https://www.gamedeveloper.com/design/the-game-design-legacy-of-roberta-williams) — adventure gaming as viable genre
 [^ref-43]: [PC Gamer - Best Adventure Games](https://www.pcgamer.com/the-best-adventure-games-on-pc/) — Space Quest influence on subsequent games
-[^ref-44]: Adventure Gamers - Hall of Fame *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Murphy's contributions to puzzle design and narrative
+[^ref-44]: Adventure Gamers - Hall of Fame *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Murphy's contributions to puzzle design and narrative
 [^ref-45]: [Kotaku - SpaceVenture Coverage](https://kotaku.com/spaceventure-space-quest-kickstarter-steam-disaster-1851774747) — enduring Space Quest popularity and fan community

@@ -153,13 +153,13 @@ Phantasmagoria: A Puzzle of Flesh is the second installment in the Phantasmagori
 [^ref-23]: https://gamefaqs.gamespot.com/pc/198286-phantasmagoria-a-puzzle-of-flesh/faqs/2194 - Chapter structure from complete walkthrough
 [^ref-24]: https://web.archive.org/web/19971022230858/http://www.game-revolution.com/games/pc/p2.htm - Puzzle design criticism
 [^ref-25]: https://the-spoiler.com/ADVENTURE/Sierra/phantasmagoria2.1.html - Therapy session mechanics description
-[^ref-26]: Adventure Gamers *(page lost after the site's 2025 sale, no archived copy)* - Inventory management analysis
+[^ref-26]: Adventure Gamers *(site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Inventory management analysis
 [^ref-27]: https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PhantasmagoriaAPuzzleOfFlesh - Multiple endings information
 [^ref-28]: https://sierrachest.com/index.php?a=games&id=41&title=phantasmagoria-2&fld=eggs - Easter egg documentation and point system
 [^ref-29]: https://www.gamespot.com/reviews/phantasmagoria-2-a-puzzle-of-flesh-review/1900-2545835/ - Puzzle design criticism
 [^ref-30]: https://web.archive.org/web/19970711131644/http://www.pcgames.com/reviews/adventure/phant.html - Specific puzzle criticism example
 [^ref-31]: http://www.adventureclassicgaming.com/index.php/site/reviews/11/ - Movie vs game experience criticism
-[^ref-32]: Adventure Gamers *(page lost after the site's 2025 sale, no archived copy)* - Inventory system analysis
+[^ref-32]: Adventure Gamers *(site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Inventory system analysis
 [^ref-33]: https://www.pcgamingwiki.com/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Interface and interaction details
 [^ref-34]: https://gamefaqs.gamespot.com/pc/198286-phantasmagoria-a-puzzle-of-flesh/reviews/75559 - Challenge level criticism
 [^ref-35]: https://www.gamespot.com/reviews/phantasmagoria-2-a-puzzle-of-flesh-review/1900-2545835/ - GameSpot review score and negative assessment
@@ -171,7 +171,7 @@ Phantasmagoria: A Puzzle of Flesh is the second installment in the Phantasmagori
 [^ref-41]: https://web.archive.org/web/20061128002940/http://www.justadventure.com:80/reviews/Phantasmagoria_2/Phantasmagoria_2_Review.shtm - Just Adventure review score
 [^ref-42]: https://glaad.org/commemorating-piece-lgbtq-gaming-history-phantasmagoria-puzzle-flesh/ - GLAAD analysis of LGBTQ representation
 [^ref-43]: https://glaad.org/commemorating-piece-lgbtq-gaming-history-phantasmagoria-puzzle-flesh/ - Progressive representation assessment
-[^ref-44]: Adventure Gamers *(page lost after the site's 2025 sale, no archived copy)* - Modern retrospective review
+[^ref-44]: Adventure Gamers *(site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Modern retrospective review
 [^ref-45]: https://bloody-disgusting.com/video-games/3416238/20-years-later-overlooked-genius-phantasmagoria-puzzle-flesh/ - 20-year retrospective analysis
 [^ref-46]: https://www.mobygames.com/game/1216/phantasmagoria-a-puzzle-of-flesh/reviews/ - User review compilation
 [^ref-47]: https://absolutehorror.fandom.com/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Anthology series concept

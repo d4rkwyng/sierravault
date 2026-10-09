@@ -226,7 +226,7 @@ The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One s
 [^ref-20]: [GOG Search Results](https://www.gog.com/en/games?query=The+Time+Warp+of+Dr.+Brain) – - Not available on GOG
 [^ref-21]: [Internet Archive](https://archive.org/details/the-time-warp-of-dr-brain_mac) – - Mac version preservation
 [^ref-22]: [Abandonware DOS](https://www.abandonwaredos.com/search.php?search=The+Time+Warp+of+Dr.+Brain) – - Search results page
-[^ref-23]: Adventure Gamers *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – - Search results page
+[^ref-23]: Adventure Gamers *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - Search results page
 [^ref-24]: [Games Nostalgia](https://gamesnostalgia.com/search?query=The+Time+Warp+of+Dr.+Brain) – - Basic platform information
 [^ref-25]: [Gamewise - Main Page](http://gamewise.co/games/38741/The-Time-Warp-of-Dr-Brain) – - Basic release information
 [^ref-26]: [Gamewise - Walkthrough](http://gamewise.co/games/38741/The-Time-Warp-of-Dr-Brain/Walkthrough) – - Game classification

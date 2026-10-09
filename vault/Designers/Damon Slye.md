@@ -124,6 +124,6 @@ The influence of Slye's work can be seen in the continued popularity and evoluti
 [^ref-13]: [Adventure Classic Gaming Interview](http://www.adventureclassicgaming.com/index.php/site/features/268/) — 3Space engine's impact on simulation titles
 [^ref-14]: [Damon Slye - Academic Dictionary](https://en-academic.com/dic.nsf/enwiki/10712698) — Sierra years and continued creative independence
 [^ref-15]: [Damon Slye - Giant Bomb](https://www.giantbomb.com/damon-slye/3040-26697/) — Stellar 7's innovative 3D tank combat
-[^ref-16]: Adventure Gamers Search - Damon Slye *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Arcticfox development and evolution
+[^ref-16]: Adventure Gamers Search - Damon Slye *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Arcticfox development and evolution
 [^ref-17]: [Damon Slye - IMDb](https://www.imdb.com/name/nm1893094/) — Professional recognition and awards
 [^ref-18]: [Interesting People #13: Damon Slye on Red Baron](https://steemit.com/gaming/@badastroza/interesting-people-13-damon-slye-on-the-making-of-red-baron) — Red Baron as masterwork and influence

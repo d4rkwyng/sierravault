@@ -186,7 +186,7 @@ Players who enjoyed similar titles often draw comparisons to LucasArts' Day of t
 [^ref-6]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/pepper-s-adventures-in-time/) – Design team details, Josh Mandel quote
 [^ref-7]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Pepper's_Adventures_in_Time) – Platform details
 [^ref-8]: [Classic Reload](https://classicreload.com/peppers-adventures-in-time.html) – Plot synopsis
-[^ref-9]: Adventure Gamers Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Story details
+[^ref-9]: Adventure Gamers Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Story details
 [^ref-10]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PeppersAdventuresInTime) – Plot description
 [^ref-11]: [Adventure Blog](https://advgamer.blogspot.com/2024/09/peppers-adventures-in-time-can-you.html) – Character switching mechanics
 [^ref-12]: [UHS Hints](https://www.uhs-hints.com/uhsweb/pepper.php) – Game structure

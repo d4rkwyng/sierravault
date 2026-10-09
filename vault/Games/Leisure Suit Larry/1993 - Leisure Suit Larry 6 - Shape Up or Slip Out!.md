@@ -192,13 +192,13 @@ The game remains available through digital distribution platforms, included in t
 [^ref-3]: https://advgamer.blogspot.com/2023/08/leisure-suit-larry-6-shape-up-or-slip.html - Al Lowe quote from game manual about design intentions
 [^ref-4]: https://classicreload.com/leisure-suit-larry-6-shape-up-or-slip-out.html - Plot summary and game setting information
 [^ref-5]: https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeisureSuitLarry6ShapeUpOrSlipOut - Narrator opening quote from game
-[^ref-6]: Adventure Gamers *(page lost after the site's 2025 sale, no archived copy)* - Walkthrough author assessment calling it "one of the very best Larry games"
+[^ref-6]: Adventure Gamers *(site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Walkthrough author assessment calling it "one of the very best Larry games"
 [^ref-7]: https://hardcoregaming101.net/leisure-suit-larry-6-shape-up-or-slip-out/ - Retrospective review noting it's "definitely one of the better games in the series"
 [^ref-8]: https://en.wikipedia.org/wiki/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out! - Wikipedia article with developer information
 [^ref-9]: https://allowe.com/games/larry/tips-manuals/larry-manuals.html - Official Al Lowe website confirming his designer role
 [^ref-10]: https://www.sierrachest.com/index.php?a=games&id=28&fld=general - Sierra Chest database with publisher information
 [^ref-11]: https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out! - Technical documentation with platform availability
-[^ref-12]: Adventure Gamers *(page lost after the site's 2025 sale, no archived copy)* - Complete walkthrough with plot setup details
+[^ref-12]: Adventure Gamers *(site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Complete walkthrough with plot setup details
 [^ref-13]: https://backloggd.com/u/MegaTheRealOne/review/1339112 - User review noting absence of Passionate Patti
 [^ref-14]: https://advgamer.blogspot.com/2023/12/leisure-suit-larry-6-shape-up-or-slip.html - Analysis of Al Lowe's design document and clean slate approach
 [^ref-15]: https://reddit.com/r/Sierra/comments/1ktgdcd/leisure_suit_larry_6_shape_up_or_slip_out_1993/ - Reddit discussion of game objectives
@@ -212,7 +212,7 @@ The game remains available through digital distribution platforms, included in t
 [^ref-23]: https://gamefaqs.gamespot.com/pc/564422-leisure-suit-larry-6-shape-up-or-slip-out/faqs/38126 - GameFAQs walkthrough describing tram navigation system
 [^ref-24]: https://gamerwalkthroughs.com/leisure-suit-larry-6/ - Four-day structure description
 [^ref-25]: https://supercheats.com/pc/walkthroughs/leisuresuitlarry6shapeuporslipout-walkthrough02.txt - Non-linear task progression details
-[^ref-26]: Adventure Gamers *(page lost after the site's 2025 sale, no archived copy)* - Comparison to previous Larry games' structure
+[^ref-26]: Adventure Gamers *(site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Comparison to previous Larry games' structure
 [^ref-27]: https://adventureclassicgaming.com/index.php/site/reviews/153/ - Review discussing return of death scenarios
 [^ref-28]: https://classicreload.com/leisure-suit-larry-6-shape-up-or-slip-out.html - Description of "Try Again" button feature
 [^ref-29]: https://3rdworldgeeks.com/2025/11/20/ill-review-anything-leisure-suit-larry-6-shape-up-or-slip-out/ - Modern review praising elimination of traditional Sierra frustrations

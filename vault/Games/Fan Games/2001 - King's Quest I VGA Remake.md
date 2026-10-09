@@ -326,7 +326,7 @@ The team's approach of receiving official licensing before distribution set an i
 
 [^ref-1]: [AGD Interactive – Release History](https://www.agdinteractive.com/games/kq1/about/aboutrelease.html) – version dates, download statistics, technical specifications
 [^ref-2]: [AGD Interactive – About KQ1](https://www.agdinteractive.com/games/kq1/about/about.html) – development history, download statistics, Sierra remake failure
-[^ref-3]: Adventure Gamers – Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – interface description, review quotes
+[^ref-3]: Adventure Gamers – Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – interface description, review quotes
 [^ref-4]: [AGD Interactive – Hints Guide](https://www.agdinteractive.com/games/kq1/hints/hints.html) – game guide, interface details, version information
 [^ref-5]: [Alchetron – KQ1 AGD Interactive](https://alchetron.com/King's-Quest-I:-Quest-for-the-Crown-(AGD-Interactive)) – voice cast, licensing, GamesRadar ranking
 [^ref-6]: [AGD Interactive Forum – v4.2 Announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=27004) – engine upgrade, compatibility fixes

@@ -295,7 +295,7 @@ The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shive
 ## References
 
 [^ref-1]: [Wikipedia – Shivers (video game)](https://en.wikipedia.org/wiki/Shivers_(video_game)) – development history, review scores, accessibility features, release dates
-[^ref-2]: Adventure Gamers – Shivers *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – gameplay description, review score, plot summary
+[^ref-2]: Adventure Gamers – Shivers *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – gameplay description, review score, plot summary
 [^ref-3]: [Adventure Classic Gaming – Shivers Review](http://www.adventureclassicgaming.com/index.php/site/reviews/26/) – technical specifications, production details, development history
 [^ref-4]: [Steam Community – Shivers Review](https://steamcommunity.com/sharedfiles/filedetails/?id=1287341472) – artwork details, composer credits, trivia
 [^ref-5]: [Balmoral Software – Shivers](http://www.balmoralsoftware.com/shivers/shivers.htm) – randomization system, gameplay mechanics

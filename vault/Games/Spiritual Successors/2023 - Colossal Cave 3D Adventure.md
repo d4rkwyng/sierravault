@@ -275,7 +275,7 @@ The result is a game that functions as a playable museum piece, offering younger
 ## References
 
 [^ref-1]: [Colossal Cave 3D – Official News Archive](https://colossalcave3d.com/news/) – development background, release dates, Williams quotes
-[^ref-2]: Adventure Gamers – Colossal Cave 3D Review *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – review score, gameplay analysis, platforms
+[^ref-2]: Adventure Gamers – Colossal Cave 3D Review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – review score, gameplay analysis, platforms
 [^ref-3]: [80 Level – Sierra Founders Remaking Colossal Cave](https://80.lv/articles/sierra-founders-are-remaking-colossal-cave-adventure-for-pc-and-vr) – development origins, Unity engine, Ken Williams quotes
 [^ref-4]: [Wikipedia – Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) – original game history, technical specifications, cultural impact
 [^ref-5]: [Colossal Cave 3D – Official Website](http://colossalcave3d.com/) – user testimonials, gameplay features, language support

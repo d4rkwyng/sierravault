@@ -112,7 +112,7 @@ Currently maintaining an active online presence through his website and Substack
 [^ref-7]: [Neal Hallford Website](https://www.nealhallford.com/) — Radio drama production history
 [^ref-8]: [Wikipedia Entry](https://en.wikipedia.org/wiki/Neal_Hallford) — Educational background
 [^ref-9]: [MobyGames Credits](https://www.mobygames.com/person/4269/neal-hallford/credits/) — Complete game development timeline
-[^ref-10]: Adventure Gamers Search Results *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Industry context and game design approach
+[^ref-10]: Adventure Gamers Search Results *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Industry context and game design approach
 [^ref-11]: [Giant Bomb Profile](https://www.giantbomb.com/search/?q=Neal+Hallford&filter=person) — Early game development work
 [^ref-12]: [Academic Encyclopedia Entry](https://en-academic.com/dic.nsf/enwiki/2409084) — Betrayal at Krondor development
 [^ref-13]: [Retro Rents Podcast](https://retrorents.podbean.com/e/the-retro-rents-ep071-neal-hallford-from-krondor-to-movies/) — Krondor series development discussion

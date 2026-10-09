@@ -144,7 +144,7 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 ## References
 
 
-[^ref-3]: Adventure Gamers *(page lost after the site's 2025 sale, no archived copy)* - Third-party walkthrough guide with gameplay information
+[^ref-3]: Adventure Gamers *(site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Third-party walkthrough guide with gameplay information
 [^ref-7]: https://archive.org/details/gk-31 - Internet Archive preservation page with game ISOs and manual images
 [^ref-9]: https://www.behindthevoiceactors.com/video-games/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/ - Voice acting database with official cast credits
 [^ref-10]: http://bonny.ploeg.ws/gk3secret.html - Analysis of cut content and unused assets through game file extraction

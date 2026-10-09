@@ -202,8 +202,8 @@ The game stands as part of a broader movement of Sierra-inspired spiritual succe
 
 ## References
 
-[^ref-1]: Adventure Gamers – Quest for Infamy Series *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – series overview, prequel description, plot summary
-[^ref-2]: Adventure Gamers – Quest for Infamy: Roehm to Ruin *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – game details, Gamescom coverage, developer info
+[^ref-1]: Adventure Gamers – Quest for Infamy Series *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – series overview, prequel description, plot summary
+[^ref-2]: Adventure Gamers – Quest for Infamy: Roehm to Ruin *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – game details, Gamescom coverage, developer info
 [^ref-3]: [Infamous Quests Patreon – Development Updates](https://www.patreon.com/posts/updates-on-rtr-141274312) – development status, voice acting progress, team changes
 [^ref-4]: [Kickstarter – Order of the Thorne & Roehm to Ruin Campaign](https://www.kickstarter.com/projects/infamousquests/order-of-the-thorne-and-roehm-to-ruin-by-infamous) – funding totals, backer count, campaign dates
 [^ref-5]: [Hardcore Gaming 101 – Quest for Infamy](http://www.hardcoregaming101.net/quest-for-infamy/) – developer history, design philosophy, anti-hero concept

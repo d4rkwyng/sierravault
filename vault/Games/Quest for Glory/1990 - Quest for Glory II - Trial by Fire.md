@@ -183,7 +183,7 @@ This game has been included in the following collections:
 [^ref-6]: [My Abandonware – Quest for Glory II](https://www.myabandonware.com/game/quest-for-glory-ii-trial-by-fire-12j) – – platforms, availability
 [^ref-7]: [GameFAQs – Quest for Glory II](https://gamefaqs.gamespot.com/pc/562671-quest-for-glory-ii-trial-by-fire) – – user reviews, guides
 [^ref-8]: [RPGamer – Quest for Glory II Review](https://rpgamer.com/review/quest-for-glory-ii-trial-by-fire/) – – modern review
-[^ref-9]: Adventure Gamers – Quest for Glory II *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – – modern review
+[^ref-9]: Adventure Gamers – Quest for Glory II *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – – modern review
 [^ref-10]: [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) – – purchase, user reviews
 [^ref-11]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750) – – purchase, user reviews
 [^ref-12]: [HowLongToBeat – Quest for Glory II](https://howlongtobeat.com/game/7480) – – completion times

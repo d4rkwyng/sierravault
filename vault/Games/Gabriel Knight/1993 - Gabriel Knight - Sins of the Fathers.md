@@ -381,7 +381,7 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-3]: [Adventure Classic Gaming – Gabriel Knight: Sins of the Fathers Review](http://www.adventureclassicgaming.com/index.php/site/reviews/16/) — Retrospective review of the original 1993 release
 [^ref-4]: [Adventure Classic Gaming – Jane Jensen Interview (2003)](http://www.adventureclassicgaming.com/index.php/site/interviews/179/) — Designer insights on game creation; women/older audience demographic; GK novelization reflections
 [^ref-5]: [The Digital Antiquarian – Gabriel Knight](https://www.filfre.net/tag/gabriel-knight/) — Jimmy Maher's historical analysis: Jensen's 1990 hiring, "Schattenjäger" lore, Ken Williams "carte blanche," engine-migration troubles
-[^ref-6]: Adventure Gamers – Gabriel Knight Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Complete game guide
+[^ref-6]: Adventure Gamers – Gabriel Knight Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Complete game guide
 [^ref-7]: [Behind The Voice Actors – Gabriel Knight](https://www.behindthevoiceactors.com/video-games/gabriel-knight-sins-of-the-fathers/) — Full voice cast credits
 [^ref-8]: [Internet Archive – Gabriel Knight](https://archive.org/details/gk-1_20220905) — Preservation copy and documentation
 [^ref-9]: [DOSBox Wiki – Gabriel Knight](https://www.dosbox.com/wiki/GAMES:Gabriel_Knight:_Sins_of_the_Fathers) — Technical compatibility info

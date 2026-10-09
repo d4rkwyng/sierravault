@@ -141,7 +141,7 @@ Inca II stands as a fascinating example of 1990s multimedia gaming ambition, rep
 ## References
 
 [^ref-1]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - Search results page with limited game information
-[^ref-2]: Adventure Gamers Search *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – - General adventure gaming website search page
+[^ref-2]: Adventure Gamers Search *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - General adventure gaming website search page
 [^ref-3]: [Internet Archive - Inca 2](https://archive.org/details/inca-2-mr-abandonware) – - Downloadable version with DOSBox compatibility for modern systems
 [^ref-4]: [The Digital Antiquarian](https://www.filfre.net/?s=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - Blog search results showing no posts found
 [^ref-5]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/inca-ii) – - User community wishlist with player comments and experiences

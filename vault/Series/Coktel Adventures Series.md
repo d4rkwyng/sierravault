@@ -115,7 +115,7 @@ For most of Sierra's history Coktel's productions were marketed in France/Europe
 [^ref-9]: [MobyGames — Pierre Gilhodes credits](https://www.mobygames.com/person/12849/pierre-gilhodes/) — Designer career
 [^ref-10]: [MobyGames — Muriel Tramis credits](https://www.mobygames.com/person/8290/muriel-tramis/) — Designer career
 [^ref-11]: [Hardcore Gaming 101 — Gobliiins](http://www.hardcoregaming101.net/gobliiins/) — Series retrospective
-[^ref-12]: Adventure Gamers — Coktel Vision retrospective *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Studio history
+[^ref-12]: Adventure Gamers — Coktel Vision retrospective *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Studio history
 [^ref-13]: [Sierra Chest — Coktel Vision](https://www.sierrachest.com/index.php?a=games&fld=publisher&id=coktel-vision) — Catalog
 [^ref-14]: [Computer Gaming World Museum — Gobliiins review](http://www.cgwmuseum.org/galleries/index.php?year=1991) — Contemporary CGW review
 [^ref-15]: [Polygon — Gobliiins legacy](https://www.polygon.com/the-strange-world-of-gobliiins) — Modern retrospective

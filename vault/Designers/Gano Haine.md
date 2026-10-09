@@ -89,7 +89,7 @@ Haine's work also stands as a testament to the unique creative environment that 
 [^ref-3]: [Gano Haine - RocketReach Profile](https://rocketreach.co/gano-haine-email_39168280) — Educational background and professional credentials
 [^ref-4]: [Gano Haine - MobyGames](https://www.mobygames.com/person/3084/gano-haine/credits/) — Complete game development credits and career information
 [^ref-5]: [How Sierra and a Disgraced Cop Made the Most Reactionary Game of the '90s - VICE](https://www.vice.com/en/article/how-sierra-and-a-disgraced-cop-made-the-most-reactionary-game-of-the-90s/) — Teaching background and Sierra career details
-[^ref-6]: Adventure Gamers Search Results *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — CompuServe forum activity and game criticism work
+[^ref-6]: Adventure Gamers Search Results *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — CompuServe forum activity and game criticism work
 [^ref-7]: [The Digital Antiquarian - October 19, 2018](https://www.filfre.net/2018/10/19/) — All-female design team collaboration with Jane Jensen
 [^ref-8]: [Walker's Research Executive Profile](http://www.walkersresearch.com/profilePages/Show_Executive_Title/Executiveprofile/G/Gano__Haine_400136921.html) — Professional background and career achievements
 [^ref-9]: [MobyGames Developer Profile](https://www.mobygames.com/person/3084/gano-haine/) — Sierra's gender balance and design team composition

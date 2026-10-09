@@ -208,5 +208,5 @@ The game's influence extended beyond its immediate series. The similar World at 
 [^ref-11]: [Metacritic – V for Victory](https://www.metacritic.com/game/v-for-victory-d-day-utah-beach/) – developer, publisher, genre classification
 [^ref-12]: [IMDB – V for Victory](https://www.imdb.com/find/?q=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944&s=tt) – release year confirmation
 [^ref-18]: [AbandonwareDOS – Search](https://www.abandonwaredos.com/search.php?search=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – historical context
-[^ref-19]: AdventureGamers – Search *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – series identification
+[^ref-19]: AdventureGamers – Search *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – series identification
 [^ref-20]: [HowLongToBeat – Search](https://howlongtobeat.com/?q=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – game title confirmation

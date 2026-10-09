@@ -298,7 +298,7 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 [^ref-14]: [ClassicReload – Rise of the Dragon](https://classicreload.com/rise-of-the-dragon.html) — Mayor Vincenzi dialogue and browser-playable version
 [^ref-15]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/564613-rise-of-the-dragon/faqs/17845) — Plot details, Deng Hwang conspiracy, fortune cookie puzzle
 [^ref-16]: [The Digital Antiquarian – Dynamix Adventures](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) — Dragon transformation, Blade Runner character design homage
-[^ref-17]: Adventure Gamers Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Karyn relationship, death scenarios, puzzle solutions
+[^ref-17]: Adventure Gamers Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Karyn relationship, death scenarios, puzzle solutions
 [^ref-18]: [OldGames.sk – Rise of the Dragon](https://www.oldgames.sk/game/rise-of-the-dragon/) — Cyberpunk influences, 74% rating
 [^ref-21]: [Amiga Magazine Rack – Amiga Power Review](https://amr.abime.net/review_9052) — Jonathan Davies 79% review, "cinemathingumy" quote
 [^ref-22]: [GameFAQs – Sega CD Version](https://gamefaqs.gamespot.com/segacd/587987-rise-of-the-dragon/faqs) — Time mechanics and internal clock details

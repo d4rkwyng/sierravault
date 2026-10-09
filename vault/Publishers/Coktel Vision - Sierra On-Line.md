@@ -44,7 +44,7 @@ The Gobliiins series, Coktel's signature franchise, became part of Sierra's adve
 [^ref-5]: [Hardcore Gaming 101 - Gobliiins Series](https://web.archive.org/web/*/http://www.hardcoregaming101.net/gobliiins/) - Series retrospective
 [^ref-6]: [The Digital Antiquarian - Sierra in France](https://www.filfre.net/) - Sierra European expansion
 [^ref-7]: [Wikipedia - Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) - Series history
-[^ref-8]: Adventure Gamers - Coktel Vision Games *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* - Game reviews
+[^ref-8]: Adventure Gamers - Coktel Vision Games *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Game reviews
 [^ref-9]: [MobyGames - Adi Series](https://www.mobygames.com/group/1201/adi-series/) - Educational software
 [^ref-10]: [Lemon Amiga - Coktel Vision](https://www.lemonamiga.com/?mainurl=https%3A//www.lemonamiga.com/games/list.php%3Flist_publisher%3DCoktel%2BVision) - Amiga catalog
 [^ref-11]: [Hall of Light - Coktel Vision](http://hol.abime.net/hol_search.php?Fs_pubname=Coktel+Vision) - European releases
