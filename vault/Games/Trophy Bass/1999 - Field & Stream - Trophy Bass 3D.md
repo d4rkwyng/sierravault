@@ -2,37 +2,38 @@
 title: Field & Stream Trophy Bass 3D
 release_year: 1999
 developer: Dynamix
-designer: [Kurt Weber, Randy Dersham]
+designer: [Kurt Weber]
 publisher: Sierra Sports
 genre: Sports
-platforms: [Microsoft Windows, PC]
+platforms: [Microsoft Windows]
 series: Trophy Bass
-engine: Trophy Bass 3D Engine
+engine: null
 protagonist: Angler (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-15'
-composer: [': Timothy Steven Clarke']
+last_updated: '2026-10-09'
+composer: [Timothy Steven Clarke]
 description: '**Field & Stream: Trophy Bass 3D** is a fishing video game developed
-  by Dynamix and published by Sierra Sports for Microsoft Windows in 1999. The game...'
+  by Dynamix and published by Sierra Sports for Microsoft Windows in 1999, the third
+  game in the Trophy Bass series, featuring 15 tournament lakes and more than 30 fish species.'
 tags: [1990s, sierra, simulation, trophy-bass]
 ---
 # Field & Stream Trophy Bass 3D
 
-<small style="color: gray">Last updated: May 15, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-**Field & Stream: Trophy Bass 3D** is a fishing video game developed by Dynamix and published by Sierra Sports for Microsoft Windows in 1999[^ref-1]. The game brought three-dimensionality to a genre that was predominantly filled with 2D titles, featuring "The Bass Are Back In Extraordinary 3D Detail" as its marketing tagline[^ref-2]. As part of Sierra's licensed sports game series using the Field & Stream magazine brand[^ref-3], Trophy Bass 3D combined traditional fishing game mechanics with enhanced 3D graphics and realistic fishing environments[^ref-4].
+**Field & Stream: Trophy Bass 3D** is a fishing video game developed by Dynamix and published by Sierra Sports for Microsoft Windows in 1999, and the third game in the Trophy Bass series[^ref-1]. Its marketing tagline was "The Bass Are Back In Extraordinary 3D Detail"[^ref-2]. It was one of Sierra's games under the Field & Stream magazine license[^ref-17]. Trophy Bass 3D dropped the top-down view of the first two games for two "in-boat" viewpoints, first person and behind the boat, plus an underwater LureCam[^ref-21].
 
-The game offers an "ultimate fishing experience right to your desktop" with unparalleled 3D details of 15 tournament lakes and over 30 species of fish featuring improved artificial intelligence[^ref-3]. Players can immerse themselves in the world of professional bass fishing through comprehensive simulation that considers weather, season, water conditions, and many other factors that affect how real bass behave[^ref-4]. The game was fully sponsored by B.A.S.S. (Bass Anglers Sportsman Society), lending authenticity to its tournament modes[^ref-10].
+The box promised to bring "the ultimate fishing experience right to your desktop" with 3D detail of 15 tournament lakes and over 30 species of fish with improved artificial intelligence[^ref-3]. Video tips came from four bass pros, including Denny Brauer[^ref-37], whom the demo's description calls the "1998 FLW Angler of the year"[^ref-18].
 
-As the third installment in the Trophy Bass series, following Trophy Bass (1995) and Trophy Bass 2 Deluxe, the game represented a significant technological leap forward. Strategy Plus declared that "Sierra has finally released a game worthy of a gamer's time and energy"[^ref-6], while Old PC Gaming noted that "unlike some other fishing titles, here you get to explore real-world fishing meccas"[^ref-7].
+Strategy Plus declared that "Sierra has finally released a game worthy of a gamer's time and energy," adding that "unlike some other fishing titles, here you get to explore real-world fishing meccas"[^ref-6].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
-> **Designer:** Kurt Weber, [[Randy Dersham]][^ref-17]
+> **Designer:** Kurt Weber[^ref-10]
+> **Original Concept:** [[Randy Dersham]][^ref-10]
 > **Publisher:** Sierra Sports[^ref-1]
-> **Engine:** Trophy Bass 3D Engine[^ref-1]
 > **Platforms:** Microsoft Windows[^ref-1]
 > **Release Year:** 1999[^ref-1]
 > **Series:** Trophy Bass
@@ -41,60 +42,46 @@ As the third installment in the Trophy Bass series, following Trophy Bass (1995)
 
 ## Story Summary
 
-Field & Stream Trophy Bass 3D is a fishing simulation that focuses on realistic angling experiences rather than narrative storytelling. Players assume the role of an aspiring bass fishing professional, competing in tournaments, building a career, and exploring famous fishing destinations across North America. The game captures the lifestyle and competitive spirit of professional bass fishing, with players pursuing fame and glory on the tournament circuit.
+Field & Stream Trophy Bass 3D is a fishing simulation with no narrative. The player fishes alone on trips, enters tournaments, or plays a full career season[^ref-6]. A career is four tournaments with points accumulated across them. A top-five finish earns a place in a fifth event, the Sierra Classic, and the overall champion takes home the Angler of the Year Trophy[^ref-6].
 
-Players can choose their lure, reel, location, and other equipment to compete in B.A.S.S. Masters tournaments, start a career, or simply spend a peaceful afternoon at their chosen lake[^ref-9]. The game features professional bass fishing pros including Denny Brauer, Larry Nixon, Kevin VanDam, and George Cochran who provide guidance, tips, and expertise through video segments[^ref-9]. Penny Berryman also contributed professional fishing knowledge to the experience[^ref-10].
+Professional advice comes from the game's credited bass pros, Denny Brauer, Larry Nixon, Kevin VanDam and Penny Berryman[^ref-10], through video tips[^ref-37].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The game supports both keyboard and mouse input[^ref-6], with an optional Microsoft SideWinder Force Feedback Pro controller for enhanced tactile feedback during fish fights[^ref-12]. The force feedback feature simulates the resistance and tension of battling a hooked fish, adding physical immersion to the experience.
+The game is played with the mouse[^ref-36]. The only force-feedback controller it supports is the Microsoft SideWinder Force Feedback Pro, which GameCenter noted lets you "feel those bad boys fighting wildly as you pull back on the rod"[^ref-21].
 
-Players navigate through various fishing locations using topographical and photo mapping systems[^ref-17]. The mapping interface includes waypoint navigation features that allow anglers to mark productive fishing spots and return to them later[^ref-14]. A LureCam perspective provides a unique underwater view following the lure, allowing players to observe fish reactions and refine their technique[^ref-14].
+Players can map out a fishing hole with a topographical or photo map, set weather and water conditions, and navigate an outboard to waypoints across the virtual map[^ref-20]. The LureCam "lets you watch your lure from the minute it hits the water until you reel it back into the boat"[^ref-21].
 
-The interface includes comprehensive fishing guides and professional video tips from the featured bass pros to help players master different techniques[^ref-15]. The video manual covers topics ranging from basic casting to advanced strategies for different conditions.
+A video manual covers everything "from tips on finding fish to handling the strike, equipment and lures, and advice from master fisherman"[^ref-12].
 
 ### Structure and Progression
 
-Trophy Bass 3D offers multiple game modes catering to different play styles[^ref-16]:
+GamePro listed the modes as "quick fish, single player, single player tournaments and careers, and multi-player"[^ref-12].
 
-**Quick Fish**: Immediate access to recreational fishing without tournament pressure. Ideal for learning the mechanics or simply relaxing with a virtual fishing session.
+- **Fishing trips**: one-off lake expeditions[^ref-6].
+- **Tournaments**: three-day competitions against other anglers. Players must reach the weigh-in by a set time at the end of each day or forfeit part of the catch[^ref-6]. In single-player you can set the tournament's rules[^ref-21].
+- **Career**: four tournaments plus the Sierra Classic for top-five finishers[^ref-6].
+- **Multiplayer**: fishing trips and tournaments over WON (Internet), modem and LAN[^ref-6].
 
-**Single Player**: Custom fishing sessions with full control over location, time, weather, and equipment. Players can experiment with different approaches without competitive consequences.
-
-**Single Player Tournaments**: Structured competition against AI opponents following B.A.S.S. tournament rules. These events test skills against the clock and other anglers.
-
-**Career Mode**: The most comprehensive mode where players build a professional fishing career, progressing through increasingly prestigious tournaments while managing equipment and reputation.
-
-**Multiplayer**: Enhanced online tournament play through WON.Net enables multiplayer fishing competitions with friends and family globally[^ref-3]. The game also supports LAN and modem connections for local multiplayer[^ref-17].
+Difficulty can be set to easy, medium or hard, and nine separate skills can be adjusted individually through a custom menu[^ref-6].
 
 ### Fishing Mechanics
 
-The core gameplay revolves around realistic fishing simulation with "improved fish AI and fight models" that "put every angler's skills to the test"[^ref-18]. Players must consider multiple environmental factors to successfully locate and catch fish:
-
-- **Weather Conditions**: Rain, sun, wind, and cloud cover all affect fish behavior and feeding patterns
-- **Water Temperature**: Different species prefer different temperature ranges, affecting their depth and activity
-- **Season**: Spring spawning, summer feeding patterns, fall transitions, and winter dormancy all factor into strategy
-- **Time of Day**: Dawn and dusk typically offer the best fishing, with midday requiring different approaches
-- **Water Clarity**: Murky water versus clear water demands different lure choices and presentations[^ref-4]
-
-The game features over 1,000 different fishing gadgets including various rods, reels, lines, and lures[^ref-3]. Lure selection is crucial—different bass prefer different presentations depending on conditions. The comprehensive tackle box allows anglers to match the hatch and experiment with various combinations.
+The demo promised "Improved fish AI and fight models" that "put every angler's skills to the test"[^ref-18]. Players choose from "hundreds of combinations of tackle, rods, reels, lures and live baits"[^ref-17]. Spinning, casting and flipping rods are available with adjustable weights and lines[^ref-6]. PC Accelerator noted brand-name gear from Berkley, Abu Garcia and Excalibur among others[^ref-37]. Weather effects include rain and clouds[^ref-21].
 
 ### Tournament Lakes and Fish Species
 
-Trophy Bass 3D includes 15 fully modeled tournament lakes representing famous fishing destinations across North America[^ref-20]:
+The game has 15 tournament lakes and more than 30 species of fish[^ref-20]. Named lakes include:
 
-The lakes feature authentic underwater topography, structure, and vegetation. Notable locations include:
+- **Lake Champlain** (Vermont/Quebec), stocked with warm-water walleye and pike and cold-water Atlantic salmon and lake trout[^ref-6]
+- **Lake Okeechobee** (Florida), "jammed with all manner of aquatic plantlife and largemouth bass"[^ref-6]
+- **Sam Rayburn Reservoir** (Texas)[^ref-21]
+- **Lake Mead** (Nevada) and **High Rock Lake** (North Carolina)[^ref-21]
+- **Lake St. Clair** (Michigan)[^ref-6]
 
-- **Lake Champlain** (Vermont/Quebec border) - Famous for its smallmouth and largemouth bass populations
-- **Lake Okeechobee** (Florida) - Premier destination for trophy largemouth bass
-- **Sam Rayburn Reservoir** (Texas) - Legendary bass fishing lake known for big catches
-- Various other premier bass fishing destinations[^ref-7]
-
-Different environments feature distinct fish populations based on real-world geography. Warm-water areas contain pike and bass, cold Atlantic waters feature salmon and lake trout, and southern lakes like Okeechobee are bass paradise[^ref-7].
-
-The game includes over 30 species of fish beyond just bass, creating a diverse and realistic aquatic ecosystem[^ref-20]. While bass are the primary target for tournaments, encountering other species adds realism and variety to recreational fishing sessions.
+Strategy Plus notes that bass, crappies and catfish all have to be coaxed into biting[^ref-6].
 
 ## Reception
 
@@ -102,126 +89,92 @@ The game includes over 30 species of fish beyond just bass, creating a diverse a
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| IGN | 8/10 | Praised realistic simulation aspects[^ref-4] |
-| GameCenter | 8/10 | Appreciated underwater 3D effects[^ref-21] |
-| GameRankings | 70% | Aggregate score from 1999[^ref-1] |
-| Strategy Plus | 3.5/5 | "Sierra has finally released a game worthy of a gamer's time"[^ref-6] |
-| GamePro | Graphics: 4.0, Sound: 3.0, Control: 2.0 | Noted great 3D effects but mixed overall results[^ref-12] |
-| GamePressure | 7.8/10 | Praised comprehensive simulation[^ref-22] |
-| MobyGames Critics | 84% | Strong critical consensus[^ref-17] |
+| GameCenter | 7/10 | Eric Conley, September 30, 1999[^ref-21] |
+| Strategy Plus | 3.5/5 | Brett Todd, August 31, 1999[^ref-6] |
+| GamePro | Graphics: 4.0, Sound: 3.0, Control: 2.0 | Michael Lafferty[^ref-12] |
+| PC Accelerator | 5/10 | October 1999[^ref-35][^ref-37] |
+| GameRankings | 70% | Based on 5 reviews[^ref-35] |
+| MobyGames Critics | 84% | Based on 2 ratings[^ref-17] |
 
 ### Critical Analysis
 
-GameCenter's Eric Conley highlighted the innovative underwater perspective, noting that "Sierra takes you underwater to see the action in the latest installment of its popular Trophy Bass series"[^ref-21]. The 3D engine allowed players to observe fish behavior and watch strikes in real-time, a feature that set Trophy Bass 3D apart from competitors.
+GameCenter's Eric Conley summed it up as "Sierra takes you underwater to see the action in the latest installment of its popular Trophy Bass series," and wrote that Sierra Sports "has a firm lock on the championship crown of this rather unlikely game genre." He criticised "pretty severe graphical pop-ups and draw-ins for trees and scenery" and "occasional multiplayer lockups and crashes"[^ref-21].
 
-Strategy Plus reviewer Brett Todd offered measured praise, calling it a significant improvement over previous fishing games while acknowledging the niche appeal: "If you're one of the many whom equate computer fishing with shoving hot needles under your fingernails, this game will not change your mind"[^ref-6]. The review emphasized that Trophy Bass 3D excelled within its genre without necessarily converting non-enthusiasts.
+Strategy Plus reviewer Brett Todd praised the AI and variety of lakes but found the graphics "merely average despite supporting 3D acceleration," noting that "Much of the game remains 2D sprites." He warned: "If you're one of the many whom equate computer fishing with shoving hot needles under your fingernails, this game will not change your mind"[^ref-6].
 
-GamePro's Michael Lafferty noted that "Sierra's most recent cast into the world of sportsman games hooks only average results in a well-stocked lake, despite the great 3D effects"[^ref-12]. The review particularly criticized the control scheme while praising the visual presentation.
+GamePro's Michael Lafferty called the LureCam "the best feature of this program," but concluded that "Sierra's most recent cast into the world of sportsman games hooks only average results in a well-stocked lake, despite the great 3D effects"[^ref-12].
 
-Old PC Gaming's retrospective offered insight into the game's appeal: "Fishing sims are usually low key, and while that's certainly the case with Trophy Bass 3D as well, there's still a lot to experience nonetheless." The review praised the "sheer authenticity of the design" and noted that "gameplay is nice and relaxing, considering its glacier-like pace"[^ref-7].
+PC Accelerator was the harshest. It called the game "as detailed a licensed fishing sim as we've seen" but said it "still lacks sorely in the fun-o-meter"[^ref-37].
 
 ### Modern Assessment
 
-Modern retrospective reviews have been mixed, with some noting that the game is aimed more at fishing enthusiasts than typical gamers[^ref-24]. GameFabrique's review stated that "Trophy Bass 4 isn't fun, although it's probably not aiming to appeal to the usual gamer"[^ref-24]—criticism that arguably applies to the entire series' approach of prioritizing simulation authenticity over arcade accessibility.
+Old PC Gaming's retrospective opens: "Fishing sims are usually low key, and while that’s certainly the case with Trophy Bass 3D as well, there’s still a lot to experience nonetheless," and adds that "Gameplay is nice and relaxing, considering its glacier-like pace"[^ref-7].
 
-However, the game has maintained a dedicated following among fishing simulation enthusiasts. User ratings remain strong across preservation platforms:
-- MyAbandonware: 4.6/5 to 4.75/5[^ref-25][^ref-26]
-- GameFAQs: "Outstanding" overall rating[^ref-2]
-- eBay seller ratings consistently positive[^ref-27]
-
-The game's appeal to its target audience—fishing enthusiasts seeking a virtual alternative during off-seasons or inclement weather—remains strong decades after release.
+User ratings:
+- MyAbandonware: 4.6/5 from 10 votes[^ref-26]
+- GameFAQs: "Outstanding" from 12 ratings[^ref-2]
 
 ## Development
 
 ### Origins
 
-The game was developed as part of Sierra's expansion into licensed sports gaming, utilizing the prestigious Field & Stream magazine brand to create authentic fishing experiences[^ref-3]. Trophy Bass 3D was the third major entry in the Trophy Bass series, building upon the foundation established by the original 1995 release and subsequent expansions.
-
-Dynamix, Sierra's Oregon-based development studio known for their simulation expertise, led development with a focus on pushing visual boundaries while maintaining simulation authenticity. The decision to render both above and underwater environments in 3D represented a significant technical investment that distinguished Trophy Bass 3D from competitors still using 2D sprites[^ref-21].
+Trophy Bass 3D followed Trophy Bass and Trophy Bass 2 Deluxe[^ref-20]. Sierra billed its new features as "new camera angles and spiffier graphics"[^ref-20]. The game shipped to retail in the U.S. and Canada in early July 1999[^ref-20]. MobyGames gives a release date of June 16, 1999[^ref-17].
 
 ### Production
 
-The development featured an extensive team of 102 credited individuals, reflecting the ambitious scope of the project[^ref-10]. Key creative leadership included:
+MobyGames credits 202 people (161 professional roles and 41 thanks)[^ref-10]. Key credits:
 
-- **Lead Designer**: Kurt Weber
-- **Designer**: Randy Dersham
-- **Composer**: Timothy Steven Clarke[^ref-17]
+- **Director**: Steven D. Letsom
+- **Designer**: Kurt Weber
+- **Original Concept**: Randy Dersham
+- **Producer**: Mike Jacob
+- **Music**: Timothy Steven Clarke, Score! Music & Sound Design[^ref-10]
 
-The voice cast brought authentic fishing expertise through professional bass anglers:
-- **Denny Brauer**: Bass Fishing Pro/Advisor
-- **Larry Nixon**: Bass Fishing Pro
-- **Kevin VanDam**: Bass Fishing Pro
-- **George Cochran**: Bass Fishing Pro
-- **Penny Berryman**: Professional Angler[^ref-10]
-
-Additional voice work included John MacDonald as the Male Angler, Shelly James as the Female Angler, and Bill Barrett as the Narrator[^ref-10].
+Credited bass fishing pros are Denny Brauer, Larry Nixon, Kevin VanDam and Penny Berryman[^ref-10]. Voice talent included John MacDonald as the Male Angler, Shelly James as the Female Angler and Bill Barrett as the Narrator[^ref-10].
 
 ### Technical Achievements
 
-The game featured enhanced 3D graphics with support for 3dfx Glide acceleration[^ref-31], representing a significant technical advancement for fishing simulations of the era. The graphics engine rendered realistic water effects, underwater visibility variations, and detailed fish models that responded to environmental conditions.
-
-The dual-perspective system—showing both above and below water views—required careful optimization to maintain performance while delivering visual fidelity. The LureCam feature provided an innovative viewpoint that became a signature element of the series[^ref-14].
-
-Network support included:
-- WON.Net online tournaments
-- LAN multiplayer
-- Modem-to-modem connections[^ref-17]
-
-The game shipped on CD-ROM with approximately 50MB minimum installation requirement[^ref-32].
+The game supports Direct3D, Glide and OpenGL, and requires a 3D accelerator[^ref-36]. GamePro found motion "excellent and natural while in Glide mode", but added: "When I switched to my 3D card only, the play slowed noticeably"[^ref-12]. PC Accelerator called the motion-captured fisherman good-looking but the water and surroundings "mostly unimpressive"[^ref-37]. Multiplayer runs over Internet, LAN and modem[^ref-36]. The install was 360 MB[^ref-37].
 
 ### System Requirements
 
-**Minimum Requirements**[^ref-11]:
+**Minimum Requirements**[^ref-6][^ref-36]:
 - Operating System: Windows 95/98
-- Processor: Pentium-class CPU
-- RAM: 32MB (64MB recommended)
-- Graphics: 3D accelerator recommended (3dfx Glide support)
-- Storage: 50MB minimum
+- Processor: Pentium, 166 MHz
+- RAM: 32 MB
+- Graphics: 3D accelerator (Direct3D, Glide or OpenGL), DirectX 6
 - Media: CD-ROM drive
 
-**ESRB Rating**: E for Everyone[^ref-27]
+PC Accelerator's "ideal" system was a Pentium II 233 with 64 MB RAM and a 3D card[^ref-37].
+
+**ESRB Rating**: E for Everyone[^ref-12][^ref-36]
 
 ### Version History
 
-Documented versions referenced in source material:
-
-- **v1.0** — see contemporaneous sources cited in this page
+| Version | Notes |
+|---------|-------|
+| 1.0 | Original release |
+| 1.2 | Via the 1.2.0.0 update, which "will apply to both version 1.0 and version 1.2"[^ref-38] |
 
 ## Legacy
 
 ### Series Continuation
 
-Field & Stream Trophy Bass 3D established a foundation for later entries in the series. Trophy Bass 4 (2000) built directly upon this release, including 15 lakes from Trophy Bass 3D, seven lakes from the Trophy Bass 3D Lakes Expansion Pack, and three new tournament lakes[^ref-33]. This approach ensured players could continue enjoying familiar fishing spots while exploring new destinations.
+Trophy Bass 4 (2000) built directly on this release, including the 15 lakes from Trophy Bass 3D, seven lakes from the Trophy Bass 3D Lakes Expansion Pack, and three new tournament lakes[^ref-33].
 
-The Lakes Expansion Pack extended the original game's content with additional tournament venues, demonstrating Sierra's commitment to supporting the title post-launch[^ref-33].
+### Preservation
 
-### Industry Impact
-
-The game's focus on realistic simulation and authentic fishing environments influenced subsequent fishing game development[^ref-34]. The underwater 3D perspective pioneered by Trophy Bass 3D became standard in later fishing simulations, demonstrating the value of showing players what happens beneath the surface.
-
-The licensing partnership with Field & Stream magazine established a template for sports simulation authenticity through media brand associations. This approach lent credibility and attracted the target fishing enthusiast demographic.
-
-### Compatibility and Preservation
-
-The game faced increasing compatibility challenges with newer Windows versions as PC architecture evolved. Common issues include:
-- Menu pop-ups not displaying without additional mouse clicks
-- Pop-up menus extending off-screen at high resolutions
-- Disk space detection errors with certain patch versions[^ref-31]
-
-The v1.0.0.4 patch introduced a disk space detection bug that can prevent the game from launching on modern systems with large drives. The Windows Application Compatibility Toolkit can resolve this issue[^ref-32].
-
-Community preservation efforts maintain access to the game through abandonware archives. The demo version remains available through Internet Archive for those wanting to sample the experience before seeking the full release[^ref-18].
+The game is not sold on modern digital stores. MyAbandonware lists it as "still available and playable with some tinkering"[^ref-26], and the demo is preserved on the Internet Archive[^ref-18].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Currently unavailable on modern digital platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist for digital re-release
+- Not currently sold on GOG or Steam
 
 **Download / Preservation**
 - [Internet Archive - Demo Version](https://archive.org/details/FieldStreamTrophyBass3dDemo)
 - [MyAbandonware](https://www.myabandonware.com/game/field-stream-trophy-bass-3d-e8z)
-- [Sierra Help - Patches](https://sierrahelp.com/) - Official patches for versions 1.0 and 1.2
+- [Sierra Help - Trophy Bass Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TrophyBassUpdates.html) - Trophy Bass 3D 1.2.0.0 update
 
 ## See Also
 
@@ -232,27 +185,20 @@ Community preservation efforts maintain access to the game through abandonware a
 
 ## References
 
-[^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Field_%26_Stream%3A_Trophy_Bass_3D) - Basic game information, release year, developer, publisher
+[^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Field_%26_Stream%3A_Trophy_Bass_3D) - Developer, publisher, platform, release year, third in series, GameRankings 70%
 [^ref-2]: [GameFAQs](https://gamefaqs.gamespot.com/pc/199122-field-and-stream-trophy-bass-3d) - Official game tagline and user ratings
-[^ref-3]: [VideoGameGeek](https://videogamegeek.com/videogame/161752/field-and-stream-trophy-bass-3d) - Official product description
-[^ref-4]: [IGN Review](https://www.ign.com/games/field-stream-trophy-bass-4) - Gameplay mechanics and environmental factors
-[^ref-6]: [Web Archive - Strategy Plus](https://web.archive.org/web/20030709104649/http://www.cdmag.com/articles/022/116/tbass3d_review.html) - Review quote and analysis
-[^ref-7]: [Old PC Gaming](https://oldpcgaming.net/field-stream-trophy-bass-3d/) - Real-world fishing locations and retrospective
-[^ref-9]: [MobyGames - Trophy Bass](https://www.mobygames.com/game/4831/trophy-bass/) - Game mode descriptions and professional endorsements
-[^ref-10]: [MobyGames Credits](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/credits/windows/) - Complete voice cast
-[^ref-12]: [Web Archive - GamePro](https://web.archive.org/web/20050409172904/http://gamepro.com/computer/pc/games/reviews/624.shtml) - Review scores and force feedback
-[^ref-14]: [Sierra Chest](https://sierrachest.com/) - LureCam and navigation features
-[^ref-15]: [Amazon Product Page](https://www.amazon.com/) - Video tips feature
-[^ref-17]: [MobyGames Technical](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/) - Multiplayer options
-[^ref-18]: [Internet Archive Demo](https://archive.org/details/FieldStreamTrophyBass3dDemo) - Enhanced fish AI description
-[^ref-20]: [Web Archive - CD Magazine](https://web.archive.org/web/20030709120412/http://www.cdmag.com/articles/021/024/trophy_bass_3d.html) - Lake and fish species count
-[^ref-21]: [Web Archive - GameCenter](https://web.archive.org/web/20000816093054/http://www.gamecenter.com/Reviews/Item/0,6,0-3211,00.html) - Underwater 3D effects review
-[^ref-22]: [GamePressure](https://www.gamepressure.com/) - Review score
-[^ref-24]: [GameFabrique Review](https://gamefabrique.com/games/field-and-stream-trophy-bass-4/) - Modern assessment quote
-[^ref-25]: [MyAbandonware](https://www.myabandonware.com/game/field-stream-trophy-bass-4-g4c) - User rating 4.75/5
+[^ref-3]: [VideoGameGeek](https://videogamegeek.com/videogame/161752/field-and-stream-trophy-bass-3d) - Back-of-box product description
+[^ref-6]: [Web Archive - Strategy Plus](https://web.archive.org/web/20030709104649/http://www.cdmag.com/articles/022/116/tbass3d_review.html) - Brett Todd review, 3.5/5, modes, lakes, requirements
+[^ref-7]: [Old PC Gaming](https://oldpcgaming.net/field-stream-trophy-bass-3d/) - Retrospective
+[^ref-10]: [MobyGames Credits](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/credits/windows/) - Full credits (202 people), bass pros, voice cast
+[^ref-12]: [Web Archive - GamePro](https://web.archive.org/web/20050409172904/http://gamepro.com/computer/pc/games/reviews/624.shtml) - Michael Lafferty review, sub-scores, modes, video manual, ESRB
+[^ref-17]: [MobyGames](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/) - Description, release date, critic average, Field & Stream licensees group
+[^ref-18]: [Internet Archive Demo](https://archive.org/details/FieldStreamTrophyBass3dDemo) - Demo description (fish AI, Denny Brauer)
+[^ref-20]: [Web Archive - CD Magazine](https://web.archive.org/web/20030709120412/http://www.cdmag.com/articles/021/024/trophy_bass_3d.html) - "Lands In Stores" news, July 6, 1999: lakes, species, mapping, waypoints
+[^ref-21]: [Web Archive - GameCenter](https://web.archive.org/web/20000816093054/http://www.gamecenter.com/Reviews/Item/0,6,0-3211,00.html) - Eric Conley review, 7/10, viewpoints, LureCam, SideWinder support
 [^ref-26]: [MyAbandonware](https://www.myabandonware.com/game/field-stream-trophy-bass-3d-e8z) - User rating 4.6/5
-[^ref-27]: [eBay Listings](https://www.ebay.com/) - User satisfaction and ESRB rating
-[^ref-31]: Link removed 2026-10-09: it was a full-game download of a different game (Trophy Bass 4). Claim pending a real source.
-[^ref-32]: [Vogons Forum](https://www.vogons.org/) - Installation requirements
 [^ref-33]: [NeverDieMedia](https://www.neverdiemedia.com/products/trophy-bass-4) - Trophy Bass 4 content description
-[^ref-34]: [Giant Bomb](https://www.giantbomb.com/field-stream-trophy-bass-3d/3030-26498/) - Game database entry
+[^ref-35]: [Web Archive - GameRankings](https://web.archive.org/web/20190602182117/https://www.gamerankings.com/pc/199122-trophy-bass-3d/index.html) - 70% from 5 reviews; PC Accelerator 5/10, Gamecenter 7/10
+[^ref-36]: [MobyGames Specs](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/specs/) - Windows 95, Pentium, 32 MB, Direct3D/Glide/OpenGL, 3D accelerator, multiplayer options, ESRB
+[^ref-37]: [Internet Archive - PC Accelerator #14 (October 1999), p. 109](https://archive.org/details/PCXL14Oct1999/page/n107/mode/2up) - Trophy Bass 3D review
+[^ref-38]: [Sierra Help - Trophy Bass Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TrophyBassUpdates.html) - Trophy Bass 3D 1.2.0.0 update
