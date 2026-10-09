@@ -152,7 +152,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-7]: [IMDb Trivia](https://www.imdb.com/title/tt9175418/trivia/) – - Al Lowe involvement details
 [^ref-8]: [MobyGames Credits](https://www.mobygames.com/game/116522/leisure-suit-larry-wet-dreams-dont-dry/credits/windows/) – - Design team credits
 [^ref-9]: [PC Gamer Article](https://www.pcgamer.com/watch-a-gameplay-trailer-for-leisure-suit-larry-wet-dreams-dont-dry/) – - Timber app mechanics
-[^ref-10]: Adventure Gamers Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - Game structure overview
+[^ref-10]: [Adventure Gamers Walkthrough](https://web.archive.org/web/20231202212705/https://adventuregamers.com/walkthrough/full/leisure-suit-larry-wet-dreams-dont-dry) – - Game structure overview
 [^ref-11]: [PlayStation Trophies Guide](https://www.playstationtrophies.org/game/leisure-suit-larry-wet-dreams-dont-dry-na/guide/) – - Point-and-click gameplay confirmation
 [^ref-12]: [GameFAQs Review](https://gamefaqs.gamespot.com/pc/239556-leisure-suit-larry-wet-dreams-dont-dry/reviews/169633) – - Interface and mechanics description
 [^ref-13]: [Screen Rant Review](https://screenrant.com/leisure-suit-larry-wet-dreams-dont-die-review/) – - Social media parody elements
