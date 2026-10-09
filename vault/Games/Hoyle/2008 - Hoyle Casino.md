@@ -261,5 +261,5 @@ The game is documented in gaming databases.[^ref-13][^ref-14][^ref-15][^ref-16][
 [^ref-17]: [UVList - Hoyle Casino](https://www.uvlist.net/) - Universal Videogame List
 [^ref-18]: [Price Charting - Hoyle](https://www.pricecharting.com/) - collector pricing
 [^ref-19]: ESRB Ratings – Hoyle Casino 2008 *(link removed: it led to a different game's page)* – ESRB rating, gambling-content descriptor, platform list, publisher attribution
-[^ref-20]: [GameFAQs – Hoyle Casino 2008 (PC)](https://gamefaqs.gamespot.com/pc/943572-hoyle-casino-2008) – PC release-date confirmation, user-rated category, developer/publisher attribution
+[^ref-20]: [GameFAQs – Hoyle Casino 2008 (PC)](https://gamefaqs.gamespot.com/pc/943485-hoyle-casino-2008) – PC release-date confirmation, user-rated category, developer/publisher attribution
 [^ref-21]: [Apple Gamer Magazine archive – Hoyle Casino 2008 on Mac OS X](https://archive.org/details/apple-gamer-magazine-back-issues) – contemporary Apple-platform coverage confirming first Hoyle Casino Mac OS X release
