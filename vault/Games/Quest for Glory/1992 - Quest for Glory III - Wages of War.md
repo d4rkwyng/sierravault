@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI1.1
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Rudy Helm]
 description: 'Quest for Glory III: Wages of War is a 1992 hybrid adventure/role-playing
   game developed and published by Sierra On-Line for MS-DOS. Designed by Corey Cole...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory III: Wages of War
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 Quest for Glory III: Wages of War is a 1992 hybrid adventure/role-playing game developed and published by [[Sierra On-Line]] for MS-DOS[^ref-1][^ref-2].
@@ -173,7 +173,7 @@ This game has been included in the following collections:
 [^ref-3]: [Sierra Fandom Wiki – Quest for Glory III](https://sierra.fandom.com/wiki/Quest_for_Glory_III%3A_Wages_of_War) – – detailed game information
 [^ref-4]: [RPGamer – Quest for Glory III Review](https://rpgamer.com/review/quest-for-glory-iii-wages-of-war/) – – retrospective review
 [^ref-5]: [PC Gamer – Saturday Crapshoot: Quest For Glory 4 1/2](http://www.pcgamer.com/saturday-crapshoot-quest-for-glory-4-12/) – – series retrospective
-[^ref-6]: [Adventure Gamers – Quest for Glory III](https://adventuregamers.com/games/quest-for-glory-iii-wages-of-war) – – modern review
+[^ref-6]: Adventure Gamers – Quest for Glory III *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – – modern review
 [^ref-7]: [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) – – purchase, user reviews
 [^ref-8]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750) – – purchase, user reviews
 [^ref-9]: [HowLongToBeat – Quest for Glory III](https://howlongtobeat.com/game/7481) – – completion times

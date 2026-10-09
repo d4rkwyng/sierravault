@@ -10,14 +10,14 @@ series: Leisure Suit Larry
 engine: SCI1
 protagonist: Larry Laffer / Passionate Patti
 sierra_lineage: Core Sierra
-last_updated: '2026-10-08'
+last_updated: '2026-10-09'
 description: 'Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work,
   released in 1991, stands as the fourth entry in Al Lowe''s infamous adventure series....'
 tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work
 
-<small style="color: gray">Last updated: October 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -143,7 +143,7 @@ The game achieved commercial success despite mixed critical reception, with the 
 ## References
 
 [^ref-1]: [3rd World Geeks Review](https://3rdworldgeeks.com/2025/09/18/ill-review-anything-leisure-suit-larry-5/) – - Release year and series information
-[^ref-2]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work) – - Numbering explanation and game background
+[^ref-2]: Adventure Gamers Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – - Numbering explanation and game background
 [^ref-3]: [IGN Al Lowe Interview](https://www.ign.com/articles/talking-leisure-suit-larry-with-al-lowe) – - Interface system change details
 [^ref-4]: [Wikipedia Article](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work) – - Character control mechanics
 [^ref-5]: [SuperCheats Walkthrough](https://www.supercheats.com/pc/walkthroughs/leisuresuitlarry5passionatepattidoesalittleundercoverwork-walkthrough01.txt) – - Plot summary for both characters

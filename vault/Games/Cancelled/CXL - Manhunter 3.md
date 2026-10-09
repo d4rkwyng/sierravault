@@ -10,14 +10,14 @@ series: Manhunter
 engine: AGI
 protagonist: The Manhunter / New Manhunter
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'Manhunter 3: London is a cancelled post-apocalyptic adventure game that
   was planned as the third installment in the Manhunter series. The game was to be...'
 tags: [adventure, agi, manhunter, sierra]
 ---
 # Manhunter 3: London
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -205,7 +205,7 @@ The intellectual property's current ownership by Activision has led to periodic 
 [^ref-8]: [MobyGames – Manhunter: New York](https://www.mobygames.com/game/8752/manhunter-new-york/) – Original game details, Evryware developers, sales figures, gameplay mechanics
 [^ref-9]: [MobyGames – Manhunter 2: San Francisco](https://www.mobygames.com/game/8753/manhunter-2-san-francisco/) – Sequel details, reception, AGI engine information, cliffhanger ending
 [^ref-10]: [Wikipedia – Manhunter (video game series)](https://en.wikipedia.org/wiki/Manhunter_(video_game_series)) – Series overview, cancelled third game, developer information
-[^ref-11]: [Adventure Gamers – Manhunter Series](https://adventuregamers.com/search/?q=Manhunter) – Adventure gaming community coverage of series and cancelled game
+[^ref-11]: Adventure Gamers – Manhunter Series *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Adventure gaming community coverage of series and cancelled game
 [^ref-12]: [Giant Bomb - Manhunter](https://www.giantbomb.com/manhunter/3025-29633/) – Series database with game information and historical notes
 [^ref-13]: [Sierra Help Wiki - AGI Documentation](https://wiki.sierrahelp.com/index.php/Adventure_Game_Interpreter) – Technical documentation on AGI engine used in Manhunter series
 [^ref-14]: [IGDB – Manhunter Series](https://www.igdb.com/search?q=Manhunter) – Series database information and metadata

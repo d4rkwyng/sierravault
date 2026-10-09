@@ -10,7 +10,7 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Sir Graham
 sierra_lineage: Fan Project
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'King''s Quest I: Quest for the Crown VGA Remake is a fan-made reimagining
   of Roberta Williams'' legendary 1984 adventure game, released on August 7, 2001
   by...'
@@ -18,7 +18,7 @@ tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest I: Quest for the Crown VGA Remake
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -326,7 +326,7 @@ The team's approach of receiving official licensing before distribution set an i
 
 [^ref-1]: [AGD Interactive – Release History](https://www.agdinteractive.com/games/kq1/about/aboutrelease.html) – version dates, download statistics, technical specifications
 [^ref-2]: [AGD Interactive – About KQ1](https://www.agdinteractive.com/games/kq1/about/about.html) – development history, download statistics, Sierra remake failure
-[^ref-3]: [Adventure Gamers – Walkthrough](https://adventuregamers.com/walkthroughs/kings-quest-i-quest-for-the-crown-vga) – interface description, review quotes
+[^ref-3]: Adventure Gamers – Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – interface description, review quotes
 [^ref-4]: [AGD Interactive – Hints Guide](https://www.agdinteractive.com/games/kq1/hints/hints.html) – game guide, interface details, version information
 [^ref-5]: [Alchetron – KQ1 AGD Interactive](https://alchetron.com/King's-Quest-I:-Quest-for-the-Crown-(AGD-Interactive)) – voice cast, licensing, GamesRadar ranking
 [^ref-6]: [AGD Interactive Forum – v4.2 Announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=27004) – engine upgrade, compatibility fixes
@@ -347,7 +347,7 @@ The team's approach of receiving official licensing before distribution set an i
 [^ref-21]: [MyAbandonware – KQ1 VGA](https://www.myabandonware.com/game/king-s-quest-quest-for-the-crown-c1e) – user ratings, HOTUD quotes
 [^ref-22]: [Metacritic – KQ1 VGA](https://www.metacritic.com/game/kings-quest-i-quest-for-the-crown-vga/) – user score, user reviews
 [^ref-23]: [IMDB – Britney Brimhall](https://www.imdb.com/name/nm1881735/) – voice credit, IMDB rating
-[^ref-24]: [Adventure Gamers – Interview](https://adventuregamers.com/articles/view/17533) – developer backgrounds, Tierra name origin
+[^ref-24]: [Adventure Gamers – Interview](https://web.archive.org/web/20210127143256/https://adventuregamers.com/articles/view/17533) – developer backgrounds, Tierra name origin
 [^ref-25]: [Sierra Chest – KQ1 VGA](https://sierrachest.com/index.php?a=games&id=533&fld=general) – founder identification, version history
 [^ref-26]: [zSprawl Blog Review](http://zsprawl.com/wp/2011/04/game-review-kings-quest-vga-remake/) – resolution support, graphical options
 [^ref-27]: [King's Quest Fandom – Tierra Version](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_(Tierra)) – cut content, differences from original

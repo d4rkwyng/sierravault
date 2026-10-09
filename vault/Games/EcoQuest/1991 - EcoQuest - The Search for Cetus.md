@@ -10,14 +10,14 @@ series: EcoQuest
 engine: SCI1
 protagonist: Adam Greene
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: '**EcoQuest: The Search for Cetus** is an educational adventure game
   designed to teach about the importance of environmental ethics and marine conservation....'
 tags: [1990s, ecoquest, educational, jane-jensen, sci, sierra]
 ---
 # EcoQuest: The Search for Cetus
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -175,7 +175,7 @@ The game's environmental message has proven timeless, with its themes of marine 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/EcoQuest%3A_The_Search_for_Cetus) – Game description and educational focus
 [^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/EcoQuest:_The_Search_for_Cetus) – Marine conservation introduction
 [^ref-3]: [Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=42&fld=general) – Release date information
-[^ref-4]: [Adventure Gamers](https://adventuregamers.com/article/ecoquest_the_search_for_cetus) – Character description and development details
+[^ref-4]: Adventure Gamers *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Character description and development details
 [^ref-5]: [MobyGames](https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/reviews/) – SAGA_ review on game design approach
 [^ref-6]: [Archive.org](https://archive.org/details/eco-quest-1-the-search-for-cetus) – Developer information
 [^ref-7]: [Filfre.net](https://www.filfre.net/?s=EcoQuest%3A+The+Search+for+Cetus) – Jane Jensen's early work context
@@ -193,7 +193,7 @@ The game's environmental message has proven timeless, with its themes of marine 
 [^ref-19]: [The Spoiler](https://the-spoiler.com/ADVENTURE/Sierra/eco.quest.2.html) – Scoring system details
 [^ref-20]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=EcoQuest:+The+Search+for+Cetus&gid=2593) – Community rating
 [^ref-21]: [IMDb](https://www.imdb.com/find/?q=EcoQuest%3A+The+Search+for+Cetus&s=tt) – IMDb rating
-[^ref-22]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/ecoquest-the-search-for-cetus) – Modern assessment
+[^ref-22]: Adventure Gamers Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Modern assessment
 [^ref-23]: [MobyGames Reviews](https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/) – Tomer Gabel and Mickey Gabel reviews
 [^ref-24]: [Sierra Music Central](http://www.sierramusiccentral.com/eq.html) – Composer credits
 [^ref-25]: [Collection Chamber](https://collectionchamber.blogspot.com/p/ecoquest-search-for-cetus.html) – Series legacy assessment

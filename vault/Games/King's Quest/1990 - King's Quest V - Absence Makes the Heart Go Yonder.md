@@ -10,14 +10,14 @@ series: King's Quest
 engine: SCI1
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-07-13'
+last_updated: '2026-10-09'
 description: 'King''s Quest V: Absence Makes the Heart Go Yonder! marks a pivotal
   turning point in Sierra On-Line''s gaming philosophy, representing one of the most...'
 tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # King's Quest V: Absence Makes the Heart Go Yonder!
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -301,16 +301,16 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-10]: [DOS Days – King's Quest V](https://www.dosdays.co.uk/topics/Games/game_kq5.php) – technical specifications, installation details
 [^ref-11]: [Internet Archive – NES Longplay](https://archive.org/details/NESLongplay493KingsQuestV) – plot description, gameplay elements
 [^ref-12]: [Computer Hope Walkthrough](https://www.computerhope.com/games/games/kq5.htm) – gameplay mechanics, interface description
-[^ref-13]: [Adventure Gamers – King's Quest VI Walkthrough](https://adventuregamers.com/walkthroughs/kings-quest-vi-heir-today-gone-tomorrow) – Cassima introduction, series connections
+[^ref-13]: Adventure Gamers – King's Quest VI Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Cassima introduction, series connections
 [^ref-14]: [Internet Archive – SoftKey Version](https://archive.org/details/Kings_Quest_V_SoftKey_USA) – interface description, gameplay mechanics
 [^ref-15]: [The Digital Antiquarian – Sierra at the Cusp of the Multimedia Age](https://www.filfre.net/2018/01/sierra-at-the-cusp-of-the-multimedia-age/) – sales data, development methodology, marketing
-[^ref-16]: [Adventure Gamers – King's Quest V Walkthrough](https://adventuregamers.com/walkthroughs/kings-quest-v-absence-makes-the-heart-go-yonder) – progression, puzzle descriptions
+[^ref-16]: Adventure Gamers – King's Quest V Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – progression, puzzle descriptions
 [^ref-17]: [Choicest Games – King's Quest V Review](https://www.choicestgames.com/2021/09/kings-quest-v-review.html) – modern review, technical achievements
 [^ref-18]: [KHInsider – King's Quest V Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/king-s-quest-5-soundtrack) – track listing, location themes
 [^ref-19]: [GameFAQs – NES Walkthrough](https://gamefaqs.gamespot.com/nes/587388-kings-quest-v/faqs/46976) – point system, NES version differences
 [^ref-20]: [eBay – King's Quest V Listings](https://www.ebay.com/shop/kings-quest-v?_nkw=kings+quest+v) – version history, platform releases
 [^ref-21]: [Reddit Discussion](https://www.reddit.com/) – puzzle criticism, player experiences
-[^ref-22]: [Adventure Gamers – King's Quest V Game Page](https://adventuregamers.com/games/view/16044) – rating, system requirements, review
+[^ref-22]: [Adventure Gamers – King's Quest V Game Page](https://web.archive.org/web/20230814193134/https://adventuregamers.com/games/view/16044) – rating, system requirements, review
 [^ref-23]: [GameCola – King's Quest V Review](https://gamecola.net/2013/11/kings-quest-v-absence-makes-the-heart-go-yonder-pc/) – modern critique, voice acting comments
 [^ref-24]: [The Adventurer's Guild – Final Rating](https://advgamer.blogspot.com/2015/04/game-52-kings-quest-v-final-rating.html) – retrospective score
 [^ref-25]: [IMDB – King's Quest V Trivia](https://www.imdb.com/title/tt0212279/trivia) – easter eggs, title pun, contest winners
@@ -340,5 +340,5 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-49]: [Sierra Hint Book Reference](https://archive.org/) – hint book availability
 [^ref-50]: [King's Quest Omnipedia – Nintendo Power Review](https://kingsquest.fandom.com/wiki/King's_Quest_V_Nintendo_Power_Review) – strategy guide publication
 [^ref-51]: [TV Tropes – King's Quest V](https://tvtropes.org/) – design criticism
-[^ref-53]: [Adventure Gamers – King's Quest VI Introduction](https://adventuregamers.com/walkthroughs/full/kings-quest-vi-heir-today-gone-tomorrow) – Alexander and Cassima connection
+[^ref-53]: Adventure Gamers – King's Quest VI Introduction *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Alexander and Cassima connection
 [^ref-54]: [IndieRetroNews – King's Quest V Amiga OCS Remaster](https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html) – SCP enhancement release, kikems/AmigaWave, DaRaSCo, MEGA download

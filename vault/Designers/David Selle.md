@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Metaltech: EarthSiege", "EarthSiege 2", "Starsiege"]
 companies: ["Dynamix", "Sony Computer Entertainment America", "WildStudios"]
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # David Selle
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -99,7 +99,7 @@ Selle's influence continues through his educational work and business developmen
 [^ref-1]: [Dynamix Wiki](https://dynamix.fandom.com/wiki/David_Selle) — Career timeline and Dynamix employment details
 [^ref-2]: [GOG Space Quest Collection](https://www.gog.com/en/game/space_quest_1_2_3) — Space Quest series information
 [^ref-3]: [IDCrawl Profile](https://www.idcrawl.com/david-selle) — Personal and professional background
-[^ref-4]: [Adventure Gamers Search](https://adventuregamers.com/search?query=David+Selle) — Adventure game contributions
+[^ref-4]: Adventure Gamers Search *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Adventure game contributions
 [^ref-5]: [Abandonware DOS - Willy Beamish](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+adventures+of+Willy+Beamish&gid=1778) — Game credits and role information
 [^ref-6]: [IMDB Profile](https://www.imdb.com/name/nm1038890/) — Filmography and game credits
 [^ref-7]: [Space Quest Wiki](https://spacequest.fandom.com/wiki/David_Selle) — Space Quest V development details

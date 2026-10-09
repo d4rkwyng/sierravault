@@ -7,12 +7,12 @@ first_release: 1984
 last_release: 2024
 total_games: 60
 genre: "Multiple (flight sim, mech, adventure, puzzle, sports, action)"
-last_updated: "2026-07-13"
+last_updated: '2026-10-09'
 ---
 
 # Dynamix Catalog
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -175,4 +175,4 @@ Dynamix titles received consistently strong reviews throughout the Sierra era. N
 [^ref-14]: [VOGONS — Dynamix games](https://www.vogons.org) — Community preservation
 [^ref-15]: [PCGamingWiki — Dynamix series](https://www.pcgamingwiki.com/wiki/Dynamix) — Technical reference
 [^ref-16]: [Sierra Gamers — Jeff Tunnell interview](https://www.sierragamers.com/jeff-tunnell/) — Oral history
-[^ref-17]: [Adventure Gamers — Dynamix retrospective](https://adventuregamers.com/articles/dynamix-history) — Adventure-genre coverage (Cloudflare-protected; view in browser)
+[^ref-17]: Adventure Gamers — Dynamix retrospective *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Adventure-genre coverage (Cloudflare-protected; view in browser)

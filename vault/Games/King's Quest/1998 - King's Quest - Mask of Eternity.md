@@ -10,14 +10,14 @@ series: King's Quest
 engine: 3Space (modified)
 protagonist: Connor
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: 'King''s Quest: Mask of Eternity represents a dramatic departure for
   Sierra''s flagship adventure series, marking the first time in the franchise''s...'
 tags: [1990s, adventure, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest: Mask of Eternity
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -315,7 +315,7 @@ Despite its flaws, some players discovered genuine enjoyment in the game's hybri
 ## References
 
 [^ref-1]: [Wikipedia – King's Quest: Mask of Eternity](https://en.wikipedia.org/wiki/King%27s_Quest:_Mask_of_Eternity) – release dates, development history, sales data, awards, technical specifications
-[^ref-2]: [Adventure Gamers – King's Quest: Mask of Eternity Review](https://adventuregamers.com/walkthrough/kings-quest-mask-of-eternity) – review scores, system requirements, gameplay analysis
+[^ref-2]: [Adventure Gamers – King's Quest: Mask of Eternity Review](https://web.archive.org/web/20240424145402/https://adventuregamers.com/walkthrough/kings-quest-mask-of-eternity) – review scores, system requirements, gameplay analysis
 [^ref-3]: [AGD Interactive Forum – KQ8 Remake Discussion](https://www.agdinteractive.com/forum/viewtopic.php?t=14738) – Roberta Williams quotes, cut content, development history
 [^ref-4]: [The Digital Antiquarian](https://www.filfre.net/?s=King%27s+Quest%3A+Mask+of+Eternity) – release date context, Sierra corporate history
 [^ref-7]: [Internet Archive – MASK Demo](https://archive.org/details/MASKDEMO) – official marketing description

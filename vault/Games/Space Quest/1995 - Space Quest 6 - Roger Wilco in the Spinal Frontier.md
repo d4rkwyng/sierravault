@@ -10,14 +10,14 @@ series: Space Quest
 engine: SCI32
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: 'Space Quest 6: Roger Wilco in the Spinal Frontier is a point-and-click
   adventure game developed and published by Sierra On-Line, released on July 11, 1995...'
 tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest 6: Roger Wilco in the Spinal Frontier
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 Space Quest 6: Roger Wilco in the Spinal Frontier is a point-and-click adventure game developed and published by [[Sierra On-Line]], released on July 11, 1995 for MS-DOS and Windows, with a Macintosh version released in 1996[^ref-6][^ref-2]. Designed by [[Josh Mandel]] and [[Scott Murphy]], this is the sixth and final game in the Space Quest series[^ref-15][^ref-3]. The game ran on Sierra's SCI32 engine, featuring Super VGA graphics with 256 colors at 640×480 resolution—a significant visual upgrade from previous entries[^ref-3][^ref-15]. Gary Owens returned as narrator once again[^ref-12][^ref-22]. The game's subtitle refers to the final portion, where Roger must undergo miniaturization and enter the body of a shipmate, a spoof of the 1987 film Innerspace[^ref-4].
@@ -213,7 +213,7 @@ This game has been included in the following collections:
 - [SpaceQuest.net – SQ6 Spoofs & References](https://spacequest.net/sq6/spoofref/) – pop culture references[^ref-28]
 - [SpaceQuest.net – SQ6 Plot Inconsistencies](https://spacequest.net/sq6/plotinconsis/) – continuity errors[^ref-30]
 - [TV Tropes – Space Quest VI](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestVI) – tropes, trivia[^ref-26]
-- [Adventure Gamers – Space Quest 6](https://adventuregamers.com/games/space-quest-6-roger-wilco-in-the-spinal-frontier) – review, walkthrough[^ref-29]
+- Adventure Gamers – Space Quest 6 – review, walkthrough[^ref-29]
 - [IMDB – Space Quest 6](https://www.imdb.com/title/tt0348081/) – full cast and crew credits[^ref-33]
 
 ## See Also
@@ -254,7 +254,7 @@ This game has been included in the following collections:
 [^ref-26]: [TV Tropes – Space Quest VI](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestVI) – Arrested for Heroism opening, Fantastic Voyage Plot, Guide Dang It datacorder, rotting fish Chekhov's Gun, Roger's room souvenirs, Interactive Narrator
 [^ref-27]: [SpaceQuest.net – SQ6 Cameos](https://spacequest.net/sq6/cameos/) – Gabriel Norton/Knight parody, SQ4 centerfold alien, Star Trek/Alien/Battlestar/Thunderbirds/Star Wars shuttles, Storm Poopers, Pelvis Brelsford
 [^ref-28]: [SpaceQuest.net – SQ6 Spoofs & References](https://spacequest.net/sq6/spoofref/) – Wayne's World, Robocop, King's Quest VI mirror, Mired/Wired magazine, datacorder chips
-[^ref-29]: [Adventure Gamers – Space Quest 6](https://adventuregamers.com/games/space-quest-6-roger-wilco-in-the-spinal-frontier) – "Underwhelming" rating, "weakest game in the franchise," great graphics, excellent narration, aimless design, difficult puzzles, 12+ hours
+[^ref-29]: Adventure Gamers – Space Quest 6 *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – "Underwhelming" rating, "weakest game in the franchise," great graphics, excellent narration, aimless design, difficult puzzles, 12+ hours
 [^ref-30]: [SpaceQuest.net – SQ6 Plot Inconsistencies](https://spacequest.net/sq6/plotinconsis/) – cigar stump paradox, holo-chaplain transport, SCS Eureka credit error, Autobucks card contradiction
 [^ref-31]: [PC Gamer US Issue 16, September 1995](https://archive.org/details/pc-gamer-issue-16-september-1995) – Gary Meredith review: "not the best of the Space Quest series," "annoying narration," "Disney-esque" animation
 [^ref-32]: [Next Generation Issue 10, October 1995](https://archive.org/details/nextgen-issue-010) – 3/5 stars: "If you liked the first five, you'll want this. If not, you probably aren't even reading this review"

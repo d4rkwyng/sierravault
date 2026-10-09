@@ -10,14 +10,14 @@ series: Dynamix Adventures
 engine: Dynamix Game Development System (DGDS)
 protagonist: Jake 'Lucky' Masters
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: Heart of China is a 1991 adventure game developed by Dynamix and published
  by Sierra On-Line, representing one of the studio's most ambitious attempts at...
 tags: [1990s, adventure, dgds, dynamix, dynamix-adventures, sierra]
 ---
 # Heart of China
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -257,7 +257,7 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 [^ref-8]: [MobyGames – Heart of China](https://www.mobygames.com/game/164/heart-of-china/) – platforms, ratings, cast size, version information
 [^ref-9]: [Reddit – r/Sierra](https://www.reddit.com/r/Sierra/comments/1oex8xn/heart_of_china_full_game/) – story synopsis
 [^ref-10]: [GameFAQs – Heart of China Walkthrough](https://gamefaqs.gamespot.com/pc/564612-heart-of-china/faqs/1503) – story locations, Jake Masters background
-[^ref-11]: [Adventure Gamers – Heart of China Walkthrough](https://adventuregamers.com/walkthroughs/heart-of-china) – playable characters, multiple endings
+[^ref-11]: Adventure Gamers – Heart of China Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – playable characters, multiple endings
 [^ref-12]: [Sierra Chest – Heart of China Walkthrough](https://sierrachest.com/index.php?a=games&id=375&title=heart-of-china&fld=walkthrough) – locations, character switching
 [^ref-13]: [Lemon Amiga – Heart of China Review](https://www.lemonamiga.com/games/reviews/view.php?id=399) – Romance Meter, Amiga technical specs, Red Baron demo
 [^ref-14]: [Advgamer Blog – Heart of China Won](https://advgamer.blogspot.com/2016/08/heart-of-china-won.html) – ending description

@@ -10,14 +10,14 @@ series: Standalone
 engine: Applesoft BASIC
 protagonist: Unnamed male protagonist
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: Softporn Adventure is a comedic, adult-oriented text adventure game released
   in 1981, notable for being the only pure text adventure ever published by...
 tags: [1980s, adventure, sierra, standalone]
 ---
 # Softporn Adventure
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -279,7 +279,7 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 [^ref-30]: [IMDB – Softporn Adventure](https://www.imdb.com/title/tt0442702/) – user rating, credits
 [^ref-31]: [GameFAQs – Softporn Adventure Stats](https://gamefaqs.gamespot.com/atari8bit/952715-softporn-adventure/stats) – user ratings, rankings
 [^ref-32]: [MyAbandonware – Softporn Adventure](https://www.myabandonware.com/game/softporn-adventure-19f) – HOTUD review, parser criticism vs Infocom
-[^ref-33]: [Adventure Gamers – Softporn Adventure](https://adventuregamers.com/games/softporn-adventure) – community rating, publication details
+[^ref-33]: Adventure Gamers – Softporn Adventure *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – community rating, publication details
 [^ref-35]: [RetroMania.gg – Softporn Adventure](https://retromania.gg/games/dos/softporn-adventure) – trade show discovery, publishing difficulties
 [^ref-36]: [Retro365 Blog – Softporn](https://retro365.blog/2018/06/24/a-bit-from-my-personal-collection-softporn/) – sales timeline, company impact, advertising difficulties
 [^ref-37]: [Every Game Going – Softporn Adventure](https://www.everygamegoing.com/litem/Softporn-Adventure/148784/) – Atari release date, technical specifications

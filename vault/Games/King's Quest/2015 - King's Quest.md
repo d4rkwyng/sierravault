@@ -10,14 +10,14 @@ series: King's Quest
 engine: Unreal Engine 3
 protagonist: Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen
   and published by Activision under the revived Sierra Entertainment brand for...
 tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen and published by [[Activision]] under the revived Sierra Entertainment brand for Windows, PlayStation 3, PlayStation 4, Xbox 360, and Xbox One[^ref-1][^ref-3][^ref-13].
@@ -176,7 +176,7 @@ This game is not available on GOG[^ref-7].
 - [Wikipedia – King's Quest (2015)](https://en.wikipedia.org/wiki/King%27s_Quest_%282015_video_game%29) – encyclopedia article[^ref-1]
 - [PCGamingWiki – King's Quest (2015)](https://www.pcgamingwiki.com/wiki/King%27s_Quest_%282015%29) – technical fixes[^ref-2]
 - [GameFAQs – King's Quest: The Complete Collection](https://gamefaqs.gamespot.com/pc/134276-kings-quest-the-complete-collection) – user reviews, completion times[^ref-4]
-- [Adventure Gamers – King's Quest (2015)](https://adventuregamers.com/games/kings-quest-2015) – reviews[^ref-6]
+- Adventure Gamers – King's Quest (2015) – reviews[^ref-6]
 - [ScummVM Wiki – King's Quest](https://wiki.scummvm.org/index.php/AGIWiki/King%27s_Quest) – series information[^ref-8]
 
 ## See Also
@@ -197,7 +197,7 @@ This game is not available on GOG[^ref-7].
 [^ref-3]: [MobyGames – King's Quest: The Complete Collection](https://www.mobygames.com/game/74033/kings-quest-the-complete-collection/) – developer, publisher, platforms, gameplay description
 [^ref-4]: [GameFAQs – King's Quest: The Complete Collection](https://gamefaqs.gamespot.com/pc/134276-kings-quest-the-complete-collection) – developer, release date, user reviews
 [^ref-5]: [Steam – King's Quest](https://store.steampowered.com/app/345390) – purchase, availability
-[^ref-6]: [Adventure Gamers – King's Quest (2015)](https://adventuregamers.com/games/kings-quest-2015) – review, rating
+[^ref-6]: Adventure Gamers – King's Quest (2015) *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – review, rating
 [^ref-7]: [GOG Search – King's Quest 2015](https://www.gog.com/games?query=king%27s%20quest%202015) – GOG availability check (not available)
 [^ref-8]: [ScummVM Wiki – King's Quest](https://wiki.scummvm.org/index.php/AGIWiki/King%27s_Quest) – series details
 [^ref-9]: [IGN – King's Quest: A Knight to Remember Review](https://www.ign.com/articles/2015/07/28/kings-quest-a-knight-to-remember-review) – 8/10 review by Leif Johnson, Christopher Lloyd voice acting praise

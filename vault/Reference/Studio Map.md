@@ -1,14 +1,14 @@
 ---
 title: "Studio Map"
 type: reference
-last_updated: "2026-07-13"
+last_updated: '2026-10-09'
 description: "Every acquired, partner, alumni, and fan studio in the Sierra extended catalogue, with founding date, status, location, parent company, and notable games. The cross-reference for `developer:` and `publisher:` YAML values."
 tags: [reference, studios, developers, publishers]
 ---
 
 # Studio Map
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -122,4 +122,4 @@ Used together with [[Corporate Lineage|Corporate Lineage]] and the per-studio De
 [^ref-12]: [The Strong Museum](https://www.museumofplay.org) — Museum-level studio archives
 [^ref-13]: [Sierra Gamers — Studio interviews](https://www.sierragamers.com) — Ex-staff oral histories
 [^ref-14]: [Halcyon Days](https://dadgum.com/halcyon/) — Early-era studio interviews
-[^ref-15]: [Adventure Gamers — Studio retrospectives](https://adventuregamers.com) — Adventure-genre studio coverage (Cloudflare-protected; view in browser)
+[^ref-15]: [Adventure Gamers — Studio retrospectives](https://web.archive.org/web/20250630235200/https://adventuregamers.com/) — Adventure-genre studio coverage (Cloudflare-protected; view in browser)

@@ -5,11 +5,11 @@ birth_year: 1959
 death_year: null
 notable_games: ["Space Quest series", "Police Quest III: The Kindred", "Earthsiege series", "Godzilla trilogy", "Rampage: Total Destruction"]
 companies: ["Sierra On-Line", "Dynamix", "Pipeworks Software", "Guys From Andromeda"]
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Mark Crowe
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -176,7 +176,7 @@ The enduring popularity of Space Quest, decades after the series concluded, spea
 [^ref-3]: [Adventure Game Fan Fair - Mark Crowe](https://adventuregamefanfair.com/guests/mark-crowe/) — Two Guys from Andromeda background
 [^ref-4]: [Dev Game Club Interview - Mark Crowe](https://www.devgameclub.com/blog/2018/4/25/dgc-ep-110-interview-with-mark-crowe) — Design philosophy and career insights
 [^ref-5]: [MobyGames - Mark Crowe](https://www.mobygames.com/person/2192/mark-crowe/) — Comprehensive game credits (146 credits across 47 games)
-[^ref-6]: [Adventure Gamers - Mark Crowe Interview](https://adventuregamers.com/article/mark_crowe) — Early career and entry into gaming industry
+[^ref-6]: [Adventure Gamers - Mark Crowe Interview](https://web.archive.org/web/20250610050515/https://adventuregamers.com/article/mark_crowe) — Early career and entry into gaming industry
 [^ref-7]: [Game Developer - How Space Quest's Creative Duo Buried the Hatchet](https://www.gamedeveloper.com/business/how-em-space-quest-em-s-creative-duo-buried-the-hatchet-after-20-years-apart) — Partnership details and career history
 [^ref-8]: [Choicest Games - Where Are They Now: Mark Crowe](https://www.choicestgames.com/2014/08/where-are-they-now-mark-crowe.html) — Career beginnings
 [^ref-9]: [Adventure Classic Gaming - Mark Crowe & Scott Murphy Interview](https://www.adventureclassicgaming.com/index.php/site/interviews/729/) — Design philosophy and Pipeworks career

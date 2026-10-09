@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI1.1
 protagonist: Prince Alexander
 sierra_lineage: Core Sierra
-last_updated: '2026-10-08'
+last_updated: '2026-10-09'
 composer: [Christopher G. Braymen]
 description: 'King''s Quest VI: Heir Today, Gone Tomorrow is widely regarded as the
   finest entry in Sierra''s flagship adventure series, representing a remarkable leap...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, jane-jensen, king-s-quest, roberta-williams, sci, sierr
 ---
 # King's Quest VI: Heir Today, Gone Tomorrow
 
-<small style="color: gray">Last updated: October 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -352,7 +352,7 @@ This game has been included in[^ref-20][^ref-21]:
 
 ## References
 
-[^ref-1]: [Adventure Gamers – King's Quest VI](https://adventuregamers.com/games/kings-quest-vi-heir-today-gone-tomorrow) – – 4.5/5 Excellent rating, #3 Top 20 All-Time, "best game Sierra gave us" verdict
+[^ref-1]: [Adventure Gamers – King's Quest VI](https://web.archive.org/web/20250609194811/https://adventuregamers.com/games/kings-quest-vi-heir-today-gone-tomorrow) – – 4.5/5 Excellent rating, #3 Top 20 All-Time, "best game Sierra gave us" verdict
 [^ref-2]: [TV Tropes – King's Quest VI](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestVIHeirTodayGoneTomorrow) – – Jane Jensen credit for quality, darker tone, character name origins, Robin Hood costume reference
 [^ref-3]: [InterAction Magazine Fall 1992 – The Quest for King's Quest VI](https://mocagh.org/sierra/interaction-fall92.pdf) – – 14 months development, video-captured actors, Jane Jensen first adventure was KQ4, Lindsley "100% medal" quote
 [^ref-4]: [Wikipedia – King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) – – $700K budget, 400K first week sales, GameRankings 88.75%, 6,000 messages, Cornell nightingale sounds, hintbook credits

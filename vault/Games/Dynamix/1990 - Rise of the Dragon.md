@@ -10,7 +10,7 @@ series: Dynamix Adventures
 engine: Dynamix Game Development System (DGDS)
 protagonist: William 'Blade' Hunter
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: Rise of the Dragon is a cyberpunk graphic adventure game developed by
   Dynamix and published by Sierra On-Line in 1990. Set in a dystopian Los Angeles
   in the...
@@ -18,7 +18,7 @@ tags: [1990s, adventure, dgds, dynamix, dynamix-adventures, sierra]
 ---
 # Rise of the Dragon
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -298,12 +298,12 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 [^ref-14]: [ClassicReload – Rise of the Dragon](https://classicreload.com/rise-of-the-dragon.html) — Mayor Vincenzi dialogue and browser-playable version
 [^ref-15]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/564613-rise-of-the-dragon/faqs/17845) — Plot details, Deng Hwang conspiracy, fortune cookie puzzle
 [^ref-16]: [The Digital Antiquarian – Dynamix Adventures](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) — Dragon transformation, Blade Runner character design homage
-[^ref-17]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/rise-of-the-dragon) — Karyn relationship, death scenarios, puzzle solutions
+[^ref-17]: Adventure Gamers Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Karyn relationship, death scenarios, puzzle solutions
 [^ref-18]: [OldGames.sk – Rise of the Dragon](https://www.oldgames.sk/game/rise-of-the-dragon/) — Cyberpunk influences, 74% rating
 [^ref-21]: [Amiga Magazine Rack – Amiga Power Review](https://amr.abime.net/review_9052) — Jonathan Davies 79% review, "cinemathingumy" quote
 [^ref-22]: [GameFAQs – Sega CD Version](https://gamefaqs.gamespot.com/segacd/587987-rise-of-the-dragon/faqs) — Time mechanics and internal clock details
 [^ref-23]: [Hardcore Gaming 101 – Rise of the Dragon](http://www.hardcoregaming101.net/rise-of-the-dragon/) — "Disposable pulp detective novel" assessment, arcade sequence criticism
-[^ref-25]: [Adventure Gamers – Rise of the Dragon](https://adventuregamers.com/games/rise-of-the-dragon) — 2.5/5 rating, "INSANELY frustrating" player comments
+[^ref-25]: [Adventure Gamers – Rise of the Dragon](https://web.archive.org/web/20250610101430/https://adventuregamers.com/games/rise-of-the-dragon) — 2.5/5 rating, "INSANELY frustrating" player comments
 [^ref-26]: [PC Gaming Wiki – Rise of the Dragon](https://www.pcgamingwiki.com/wiki/Rise_of_the_Dragon) — Arcade sequence skip option after five deaths
 [^ref-29]: [MobyGames Trivia](https://www.mobygames.com/game/648/rise-of-the-dragon/trivia/) — The Games Machine Italy 99/100 score, technical specifications
 [^ref-30]: [Hall of Light – Rise of the Dragon](https://hol.abime.net/3949) — European magazine scores: Datormagazin 96%, Joystick 94%, The One 92%

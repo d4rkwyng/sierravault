@@ -11,14 +11,14 @@ series: Gobliiins
 engine: Adventure Game Studio
 protagonist: Fingus, Winkle
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: '*Gobliins 6: The Madmen of the Year 1000* is a 2026 2D puzzle adventure game that serves as
   a direct sequel to *Gobliins 2: The Prince Buffoon*, reuniting the beloved duo Fingus...'
 tags: [adventure, gobliiins, puzzle, sierra]
 ---
 # Gobliins 6: The Madmen of the Year 1000
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -301,8 +301,8 @@ Gobliins 6 has not yet been released. Information on purchase availability will 
 ## References
 
 [^ref-1]: [Kickstarter – Gobliins 6 by Pierre Gilhodes](https://www.kickstarter.com/projects/pierregilhodes/gobliins6) – Campaign details, funding information, development status
-[^ref-2]: [Adventure Gamers – Gobliins 6: A Quirky Comeback Adventure](https://web.archive.org/web/*/https://adventuregamers.com/news/view/gobliins6-a-quirky-comeback-adventure) – Game announcement and story details
-[^ref-3]: [Adventure Gamers Forums – Gobliiins 5 and Gobliins 6 Kickstarter](https://web.archive.org/web/*/https://adventuregamers.com/forums/viewthread/15732) – Community discussion, AGS engine details
+[^ref-2]: [Adventure Gamers – Gobliins 6: A Quirky Comeback Adventure](https://web.archive.org/web/20241023012845/https://adventuregamers.com/news/view/gobliins6-a-quirky-comeback-adventure) – Game announcement and story details
+[^ref-3]: [Adventure Gamers Forums – Gobliiins 5 and Gobliins 6 Kickstarter](https://web.archive.org/web/20230420223433/https://adventuregamers.com/forums/viewthread/15732/) – Community discussion, AGS engine details
 [^ref-4]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – Series history, naming convention
 [^ref-5]: [itch.io – Pierre Gilhodes](https://pierre-gilhodes.itch.io/) – Developer page
 [^ref-6]: [MobyGames – Pierre Gilhodes](https://www.mobygames.com/person/10718/pierre-gilhodes/) – Developer credits and career history
@@ -311,7 +311,7 @@ Gobliins 6 has not yet been released. Information on purchase availability will 
 [^ref-9]: [RPG Codex – Gobliins 6 discussion](https://rpgcodex.net/forums/threads/gobliins6-by-pierre-gilhodes.151592/) – Detailed community analysis
 [^ref-10]: [Adventure-Treff – Gobliins 6](https://www.adventure-treff.de/forum/topic/26046) – German community coverage
 [^ref-11]: [Facebook – Pierre Gilhodes status update](https://www.facebook.com/groups/144759398597) – December 15, 2025 development status
-[^ref-12]: [Adventure Gamers – Gobliiins 6 Game Details](https://adventuregamers.com/games/gobliiins-6) – Game database entry with plot details
+[^ref-12]: Adventure Gamers – Gobliiins 6 Game Details *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Game database entry with plot details
 [^ref-13]: [Kickstarter – Gobliins 6 Update #8: Imminent game release](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4600616) – February 2, 2026 release announcement
 [^ref-14]: [Steam – GOBLiiNS6](https://store.steampowered.com/app/4293620/GOBLiiNS6/) – store page, user reviews, release date, system requirements
 [^ref-15]: [Indie Retro News – GOBLiiNS6](https://www.indieretronews.com/2026/02/gobliins6-retro-classic-gobliiins-are.html) – release coverage, retro gaming community reception

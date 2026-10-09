@@ -10,7 +10,7 @@ series: Laura Bow
 engine: SCI0
 protagonist: Laura Bow
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: 'The Colonel''s Bequest: A Laura Bow Mystery stands as one of Sierra
   On-Line''s most innovative and atmospheric adventure games, released in 1989 under
   the...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, laura-bow, roberta-williams, sci, sierra]
 ---
 # The Colonel's Bequest
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -153,7 +153,7 @@ Fan communities continue to create content inspired by The Colonel's Bequest, in
 
 [^ref-1]: [MobyGames - The Colonel's Bequest](https://www.mobygames.com/game/461/the-colonels-bequest/) – - Game database with comprehensive technical specifications and credits
 [^ref-2]: [Wikipedia - The Colonel's Bequest](https://en.wikipedia.org/wiki/The_Colonel's_Bequest) – - Plot summary and historical context
-[^ref-3]: [Adventure Gamers](https://adventuregamers.com/article/laura_bow_the_colonels_bequest) – - Analysis of innovative gameplay approach
+[^ref-3]: [Adventure Gamers](https://web.archive.org/web/20250609194755/https://adventuregamers.com/article/laura_bow_the_colonels_bequest) – - Analysis of innovative gameplay approach
 [^ref-4]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/the-colonels-bequest/) – - Technical analysis of real-time progression system
 [^ref-5]: [Atari Magazines - Roberta's Bequest Interview](https://www.atarimagazines.com/startv4n8/robertas_bequest.php) – - Primary source interview with Roberta Williams from START Magazine
 [^ref-6]: [Lemon Amiga Review](https://www.lemonamiga.com/games/reviews/view.php?id=326) – - Comparison to Agatha Christie mysteries

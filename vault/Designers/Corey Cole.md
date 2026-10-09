@@ -5,11 +5,11 @@ birth_year: 1955
 death_year: null
 notable_games: ["Quest for Glory series", "Castle of Dr. Brain", "Hero-U: Rogue to Redemption"]
 companies: ["Sierra On-Line", "Transolar Games"]
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Corey Cole
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -124,7 +124,7 @@ His work at Sierra On-Line during the company's golden age also contributed to e
 [^ref-14]: [Giant Bomb](https://www.giantbomb.com/search/?q=Corey+Cole&filter=person) — game database entries and development information
 [^ref-15]: [Hero-U Official Website](http://www.hero-u.com/) — current projects and game development updates
 [^ref-16]: [YouTube Interview](https://www.youtube.com/watch?v=X2t9SEMn5sk) — video interview with development insights
-[^ref-17]: [Adventure Gamers Interview](https://adventuregamers.com/articles/view/17520) — detailed discussion of adventure game development
+[^ref-17]: [Adventure Gamers Interview](https://web.archive.org/web/20220407063816/https://adventuregamers.com/articles/view/17520) — detailed discussion of adventure game development
 [^ref-18]: [Wikipedia - Corey Cole](https://en.wikipedia.org/wiki/Corey_Cole) — biographical information and career timeline
 [^ref-19]: [Hardcore Gaming 101 Interview](http://www.hardcoregaming101.net/interview-with-corey-cole/) — comprehensive interview covering game design philosophy
 [^ref-20]: [Hero-U: Rogue to Redemption](https://www.hero-u.com/RtR/) — spiritual successor development and design concepts

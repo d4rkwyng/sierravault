@@ -7,11 +7,11 @@ headquarters: "United States"
 notable_games: ["King's Quest III Remake", "Space Quest II VGA Remake"]
 parent_company: null
 successor_company: "Infamous Quests"
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Infamous Adventures
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -72,7 +72,7 @@ The studio's influence extends beyond their own releases, as their success with 
 [^ref-4]: [King's Quest Fandom Wiki](https://kingsquest.fandom.com/wiki/King's_Quest:_Kingdom_of_Sorrow_(Infamous_Adventures)) — Documentation of fan projects
 [^ref-5]: [Gamicus Wiki](https://gamicus.fandom.com/wiki/Infamous_Adventures) — Company background and game listings
 [^ref-6]: [Giant Bomb](https://www.giantbomb.com/search/?q=Infamous+Adventures&filter=company) — Developer database and game information
-[^ref-7]: [Adventure Gamers Book Review](https://adventuregamers.com/article/book-reviews-the-sierra-adventure-and-not-all-fairy-tales-have-happy-ending) — Historical context of adventure gaming
+[^ref-7]: Adventure Gamers Book Review *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Historical context of adventure gaming
 [^ref-8]: [Wikidata](https://www.wikidata.org/wiki/Q6028784) — Structured data about the company
 [^ref-9]: [Games Nostalgia](https://gamesnostalgia.com/games/developer/infamous+adventures) — Developer profile and game catalog
 [^ref-10]: [Gamezebo Development Story](https://www.gamezebo.com/news/from-dialysis-to-development-quest-for-infamys-12-year-journey/) — Quest for Infamy development challenges
@@ -81,7 +81,7 @@ The studio's influence extends beyond their own releases, as their success with 
 [^ref-13]: [Wikipedia](https://en.wikipedia.org/wiki/Infamous_Adventures) — Comprehensive company overview
 [^ref-14]: [GameBoomers Forum](https://www.gameboomers.com/forum/ubbthreads.php/topics/116926/1) — Fan community discussions
 [^ref-15]: [MobyGames](https://www.mobygames.com/company/8321/infamous-adventures/) — Complete game database and company profile
-[^ref-16]: [Adventure Gamers Giveaway](https://adventuregamers.com/article/the-sierra-adventure-the-story-of-sierra-on-line-giveaway) — Sierra gaming history context
+[^ref-16]: [Adventure Gamers Giveaway](https://web.archive.org/web/20250625004719/https://adventuregamers.com/article/the-sierra-adventure-the-story-of-sierra-on-line-giveaway) — Sierra gaming history context
 [^ref-17]: [Games Industry Search](https://www.gamesindustry.biz/search?q=Infamous+Adventures) — Industry coverage and news
 [^ref-18]: [Sierra Classic Gaming](https://sierraclassicgaming.com/developer/infamous-adventures/) — Developer profile and game analysis
 [^ref-19]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Company:Infamous_Adventures) — Technical information and compatibility

@@ -10,7 +10,7 @@ series: Police Quest
 engine: SCI0
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Mark Seibert]
 description: 'Police Quest II: The Vengeance is an adventure game developed and published
   by Sierra On-Line in November 1988, serving as the direct sequel to Police...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest II: The Vengeance
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -268,7 +268,7 @@ The game's legacy extends beyond entertainment into actual law enforcement train
 
 [^ref-1]: [Wikipedia – Police Quest II: The Vengeance](https://en.wikipedia.org/wiki/Police_Quest_II:_The_Vengeance) – release dates, platforms, composer, sales data, reviews, development history, Japanese version details
 [^ref-2]: [Abandonware DOS – Police Quest 2](https://www.abandonwaredos.com/abandonware-game.php?gid=1298) – Computer Gaming World review quotes, Jim Walls background, trivia about real-life basis
-[^ref-3]: [Adventure Gamers – Police Quest 2: The Vengeance](https://adventuregamers.com/article/police_quest_2_the_vengeance) – retrospective review, SCI engine details, Easter eggs, Jim Walls typing ability
+[^ref-3]: [Adventure Gamers – Police Quest 2: The Vengeance](https://web.archive.org/web/20250626184246/https://adventuregamers.com/article/police_quest_2_the_vengeance) – retrospective review, SCI engine details, Easter eggs, Jim Walls typing ability
 [^ref-4]: [ClassicReload – Police Quest 2](https://classicreload.com/police-quest-2-the-vengeance.html) – interface description, police procedures requirement
 [^ref-5]: [Best DOS Games – Police Quest 2](https://bestdosgames.com/games/police-quest-2-the-vengeance) – realism quotes, gameplay description
 [^ref-6]: [MobyGames – Police Quest 2: The Vengeance](https://www.mobygames.com/game/147/police-quest-2-the-vengeance/) – credits, ratings, platforms, Easter eggs, official description

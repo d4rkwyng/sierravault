@@ -10,14 +10,14 @@ series: Coktel
 engine: Gob
 protagonist: Bob
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-05-27'
+last_updated: '2026-10-09'
 description: Bargon Attack is a French point-and-click adventure game released in
   1992 by Coktel Vision, one of the lesser-known titles from the studio best remembered...
 tags: [1990s, adventure, coktel, sierra]
 ---
 # Bargon Attack
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -264,7 +264,7 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 [^ref-6]: [Hardcore Gaming 101 – Bargon Attack](http://www.hardcoregaming101.net/bargon-attack/) – English translation quality, puzzle criticism, gameplay analysis
 [^ref-7]: [Atari Legend – Bargon Attack](https://www.atarilegend.com/games/bargon-attack) – development credits, designer info, composer credit
 [^ref-8]: [ScummVM Wiki – Bargon Attack](https://wiki.scummvm.org/index.php?title=Bargon_Attack) – engine info, compatibility, required files
-[^ref-9]: [Adventure Gamers – Bargon Attack](https://adventuregamers.com/games/view/23886) – plot premise, game description
+[^ref-9]: [Adventure Gamers – Bargon Attack](https://web.archive.org/web/20230322171548/https://adventuregamers.com/games/view/23886) – plot premise, game description
 [^ref-10]: [The Adventure Gamer – Introduction](https://advgamer.blogspot.com/2016/11/game-79-bargon-attack-introduction-1992.html) – French gaming context, audio issues, comic origins
 [^ref-11]: [The Adventure Gamer – Paris is Burning](https://advgamer.blogspot.com/2016/12/bargon-attack-paris-is-burning.html) – Paris locations, easter eggs, puzzle criticism
 [^ref-12]: [GameFAQs – jimfish Walkthrough](https://gamefaqs.gamespot.com/pc/576708-bargon-attack/faqs/78841/walkthrough) – in-game quotes, bugs, puzzle commentary

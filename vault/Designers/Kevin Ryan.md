@@ -5,11 +5,11 @@ birth_year: 1961
 death_year: null
 notable_games: ["The Incredible Machine", "Arcticfox", "Puzzle Poker"]
 companies: ["Dynamix", "Sierra", "Top Meadow"]
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Kevin Ryan
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -114,7 +114,7 @@ Beyond his technical and creative contributions, Ryan's reputation as a collabor
 [^ref-4]: [Game Developer Interview](https://www.gamedeveloper.com/game-platforms/interview-slye-and-the-dynamix-of-game-development) — Damon Slye quote about Kevin Ryan
 [^ref-5]: [Retro Gamer Search Results](https://www.retrogamer.net/?s=Kevin+Ryan) — Industry context and early development
 [^ref-6]: [Reddit Sierra Online Legacy Discussion](https://www.reddit.com/r/Games/comments/a3mtec/legacy_of_sierra_online/) — Career contributions and impact
-[^ref-7]: [Adventure Gamers Search](https://adventuregamers.com/search?query=Kevin+Ryan) — Sierra years projects and approach
+[^ref-7]: Adventure Gamers Search *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Sierra years projects and approach
 [^ref-8]: [Marble Blast Fandom Wiki](https://marbleblast.fandom.com/wiki/Kevin_Ryan) — Game design philosophy and approach
 [^ref-9]: [Steam Top Meadow Developer Page](https://store.steampowered.com/developer/topm/) — Top Meadow founding and role
 [^ref-10]: [Giant Bomb Search Results](https://www.giantbomb.com/search/?q=Kevin+Ryan&filter=person) — The Incredible Machine significance

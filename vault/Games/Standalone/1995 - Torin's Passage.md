@@ -10,14 +10,14 @@ series: Standalone
 engine: SCI2.1
 protagonist: Torin
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-10-09'
 description: '**Torin''s Passage** is a point-and-click adventure game designed by
   Al Lowe and released by Sierra On-Line in 1995. Unlike Lowe''s adult-oriented Leisure...'
 tags: [1990s, adventure, al-lowe, 'null', sci, sierra]
 ---
 # Torin's Passage
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -177,7 +177,7 @@ Professional voice acting brought characters to life with distinct accents and e
 [^ref-13]: [Al Lowe's Website - Worlds of Strata](https://allowe.com/games/torin/the-worlds-of-strata.html) – - Phenocryst and world structure
 [^ref-14]: [UHS Hints](https://www.uhs-hints.com/uhsweb/torin.php) – - List of game worlds
 [^ref-15]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/torins-passage/) – - Lycentia character analysis
-[^ref-16]: [Adventure Gamers Review](https://adventuregamers.com/article/torins_passage) – - Interface description
+[^ref-16]: Adventure Gamers Review *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – - Interface description
 [^ref-17]: [Amazon Customer Reviews](https://www.amazon.com/Torins-Passage-Sierra-Online/dp/B000VP5BPI) – - Built-in hint system
 [^ref-18]: [Sierra Help Wiki](https://wiki.sierrahelp.com/index.php/Torin%27s_Passage_Technical) – - Game structure information
 [^ref-19]: [Old-Games.com Review](https://www.old-games.com/download/8498/torin-s-passage) – - Chapter selection feature

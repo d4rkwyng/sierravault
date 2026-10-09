@@ -10,14 +10,14 @@ series: Lighthouse
 engine: SCI32
 protagonist: null
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: 'Lighthouse: The Dark Being is a first-person adventure game developed
   and published by Sierra On-Line in 1996. The game was conceived when Sierra''s Ken...'
 tags: [1990s, adventure, lighthouse, sci, sierra]
 ---
 # Lighthouse: The Dark Being
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -181,7 +181,7 @@ The game's influence extends to the community of adventure game enthusiasts who 
 [^ref-13]: [Archive.org Patch Notes](https://archive.org/details/LITE2PAT) – Cursor highlighting feature description
 [^ref-14]: [MobyGames User Review](https://www.mobygames.com/game/266/lighthouse-the-dark-being/user-review/2593203/) – Multiple paths and endings description
 [^ref-15]: [SierraChest Walkthrough](https://sierrachest.com/index.php?a=games&id=148&title=lighthouse&fld=walkthrough&pid=100) – No point system confirmation
-[^ref-16]: [Adventure Gamers Review](https://adventuregamers.com/walkthrough/lighthouse-the-dark-being) – Maze section proportion
+[^ref-16]: [Adventure Gamers Review](https://web.archive.org/web/20231203111922/https://adventuregamers.com/walkthrough/lighthouse-the-dark-being) – Maze section proportion
 [^ref-17]: [Web Archive PC Gamer Review](https://web.archive.org/web/20000310123648/http://www.pcgamer.com/reviews/628.html) – PC Gamer score and assessment
 [^ref-18]: [GameSpot Review](https://www.gamespot.com/reviews/lighthouse-review/1900-2535697/) – Rebecca Anderson's review and graphics description
 [^ref-19]: [Web Archive GameRankings](https://web.archive.org/web/20191209001525/https://www.gamerankings.com/pc/197785-lighthouse-the-dark-being/index.html) – Historical review compilation

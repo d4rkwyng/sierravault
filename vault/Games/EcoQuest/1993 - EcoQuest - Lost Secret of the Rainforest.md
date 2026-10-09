@@ -10,7 +10,7 @@ series: EcoQuest
 engine: SCI1.1
 protagonist: Adam Greene
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 composer: [Dan Kehler]
 description: '*EcoQuest 2: Lost Secret of the Rainforest* is an educational adventure
   game developed and published by Sierra On-Line in 1993 as the sequel to *EcoQuest:...'
@@ -18,7 +18,7 @@ tags: [1990s, ecoquest, educational, sci, sierra]
 ---
 # EcoQuest 2: Lost Secret of the Rainforest
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -238,7 +238,7 @@ The game's emphasis on consequences for environmental destruction—whether thro
 [^ref-15]: [Classic Gamer Hub – EcoQuest 2 Review](https://classicgamerhub.com/ecoquest-2-lost-secret-of-the-rainforest-pc-1993-review-the-quest-that-runs-on-eco-points/) – Discovery Series history, Paquita description, critical analysis
 [^ref-16]: [Let's Play Archive – EcoQuest 2 Update 12](https://lparchive.org/EcoQuest-2-Lost-Secret-of-the-Rainforest/Update%2012/) – face paint puzzle, ceremony sequence
 [^ref-17]: [The Adventurers' Guild – Final Rating](https://advgamer.blogspot.com/2021/03/lost-secrets-of-rainforest-final-rating.html) – puzzle criticism, timed sequences, overall assessment
-[^ref-18]: [Adventure Gamers – EcoQuest 2](https://adventuregamers.com/games/view/16661) – review score, pros and cons, verdict
+[^ref-18]: [Adventure Gamers – EcoQuest 2](https://web.archive.org/web/20240419083147/https://adventuregamers.com/games/view/16661) – review score, pros and cons, verdict
 [^ref-19]: [MobyGames – User Review by Tomer Gabel](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/user-review/2333725/) – gameplay praise, General MIDI
 [^ref-20]: [MyAbandonware – Lost Secret of the Rainforest](https://www.myabandonware.com/game/lost-secret-of-the-rainforest-1rb) – user rating, copy protection note
 [^ref-21]: [The Digital Antiquarian – Chief Gates Comes to Oakhurst](https://www.filfre.net/?s=Lost+Secret+of+the+Rainforest) – Gano Haine reference, Sierra development context

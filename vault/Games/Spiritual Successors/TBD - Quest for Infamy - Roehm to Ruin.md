@@ -10,14 +10,14 @@ series: Quest for Infamy
 engine: Adventure Game Studio
 protagonist: Mr. Roehm
 sierra_lineage: Spiritual Successor
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: '*Quest for Infamy: Roehm to Ruin* is a point-and-click adventure RPG
   developed by Infamous Quests serving as a prequel to their 2014 title *Quest for...'
 tags: [2020s, adventure, quest-for-infamy, rpg, sierra]
 ---
 # Quest for Infamy: Roehm to Ruin
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -202,8 +202,8 @@ The game stands as part of a broader movement of Sierra-inspired spiritual succe
 
 ## References
 
-[^ref-1]: [Adventure Gamers – Quest for Infamy Series](https://adventuregamers.com/gameseries/quest_for_infamy) – series overview, prequel description, plot summary
-[^ref-2]: [Adventure Gamers – Quest for Infamy: Roehm to Ruin](https://adventuregamers.com/games/quest-for-infamy-roehm-to-ruin) – game details, Gamescom coverage, developer info
+[^ref-1]: Adventure Gamers – Quest for Infamy Series *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – series overview, prequel description, plot summary
+[^ref-2]: Adventure Gamers – Quest for Infamy: Roehm to Ruin *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – game details, Gamescom coverage, developer info
 [^ref-3]: [Infamous Quests Patreon – Development Updates](https://www.patreon.com/posts/updates-on-rtr-141274312) – development status, voice acting progress, team changes
 [^ref-4]: [Kickstarter – Order of the Thorne & Roehm to Ruin Campaign](https://www.kickstarter.com/projects/infamousquests/order-of-the-thorne-and-roehm-to-ruin-by-infamous) – funding totals, backer count, campaign dates
 [^ref-5]: [Hardcore Gaming 101 – Quest for Infamy](http://www.hardcoregaming101.net/quest-for-infamy/) – developer history, design philosophy, anti-hero concept
@@ -211,7 +211,7 @@ The game stands as part of a broader movement of Sierra-inspired spiritual succe
 [^ref-7]: [Wikipedia – Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) – company founding, Quest for Infamy Kickstarter, Time Magazine mention
 [^ref-8]: [Steam News – Quest for Infamy Prequel Announcement](https://store.steampowered.com/news/app/264560/view/2870438037408794565) – April 2015 announcement, story premise
 [^ref-9]: [King's Quest Omnipedia – King's Quest Style Games](https://kingsquest.fandom.com/wiki/King%27s_Quest_Style_Games) – genre classification, Sierra inspiration
-[^ref-10]: [Adventure Gamers – Quest for Infamy (2014)](https://adventuregamers.com/games/quest-for-infamy) – review score, pros and cons, release info
+[^ref-10]: [Adventure Gamers – Quest for Infamy (2014)](https://web.archive.org/web/20250626184158/https://adventuregamers.com/games/quest-for-infamy) – review score, pros and cons, release info
 [^ref-11]: [Cliqist – Infamous Quests Kickstarter Coverage](http://cliqist.com/2015/04/04/two-new-games-infamous-quests/) – demo availability, funding progress, dual project concept
 [^ref-12]: [Steam Community – Quest for Infamy](https://steamcommunity.com/app/264560/allnews/) – news announcements, version updates
 [^ref-13]: [Infamous Quests Patreon – January 2026 Update](https://www.patreon.com/posts/small-update-147963671) – Steve Patrick recording session, near-completion status

@@ -10,14 +10,14 @@ series: Gold Rush!
 engine: Unity
 protagonist: Jake Wilson
 sierra_lineage: Spiritual Successor
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: Gold Rush! 2 is a point-and-click adventure game developed and published
   by Sunlight Games, released on April 28, 2017 for Windows, with Mac, Linux, iOS,...
 tags: [2010s, adventure, gold-rush, sierra]
 ---
 # Gold Rush! 2
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -243,13 +243,13 @@ The game's short length (completable in under three hours) and easy puzzles posi
 
 [^ref-6]: [Just Adventure – Gold Rush! 2 Review](https://www.justadventure.com/2018/04/12/gold-rush-review/) – C grade review, gameplay length, bug reports, voice acting criticism, system requirements
 
-[^ref-7]: [Adventure Gamers – Gold Rush! 2](https://adventuregamers.com/games/gold-rush-2) – 2 star review, release date, publisher information, critical quotes
+[^ref-7]: Adventure Gamers – Gold Rush! 2 *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – 2 star review, release date, publisher information, critical quotes
 
 [^ref-8]: [Raijin.gg – Game Description](https://raijin.gg/app/609100/Gold_Rush_2/reviews) – story summary, Steam review aggregation
 
 [^ref-9]: [Steam Community – User Reviews](https://steamcommunity.com/app/609100/reviews/?browsefilter=toprated) – player feedback, technical issues, gameplay length, trading cards
 
-[^ref-10]: [Adventure Gamers – Gold Rush! Anniversary](https://adventuregamers.com/games/gold-rush-remake) – remake review, original game features, graphics comparison
+[^ref-10]: Adventure Gamers – Gold Rush! Anniversary *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – remake review, original game features, graphics comparison
 
 [^ref-11]: [Metacritic – Gold Rush! 2](https://www.metacritic.com/game/gold-rush-2/) – aggregated score 40/100, platforms, release date
 

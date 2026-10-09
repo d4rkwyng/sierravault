@@ -10,14 +10,14 @@ series: Bolt Riley
 engine: Unity
 protagonist: Bolt Riley
 sierra_lineage: Alumni Project
-last_updated: '2026-05-27'
+last_updated: '2026-10-09'
 composer: [Omri Lahav]
 description: 'Bolt Riley: A Reggae Adventure is a classic 2D point-and-click adventure game co-designed by Quest for Glory creators Corey and Lori Cole, following a poor Jamaican boy on his pathway to reggae stardom.'
 tags: [2010s, adventure, coles, alumni, kickstarter, reggae]
 ---
 # Bolt Riley: A Reggae Adventure
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -182,7 +182,7 @@ Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
 
 [^ref-1]: [Steam – Bolt Riley: A Reggae Adventure](https://store.steampowered.com/app/331210/Bolt_Riley_A_Reggae_Adventure/) — Official store page, release date, platform info
 [^ref-2]: [Kickstarter – Bolt Riley: A Reggae Adventure](https://www.kickstarter.com/projects/adventuremob/bolt-riley-a-reggae-adventure) — 757 backers, gameplay description, story outline
-[^ref-3]: [Adventure Gamers – Bolt Riley: A Reggae Adventure – Chapter 1 review](https://adventuregamers.com/article/bolt_riley_a_reggae_adventure_chapter_1) — Chapter 1 release confirmation, episodic structure
+[^ref-3]: Adventure Gamers – Bolt Riley: A Reggae Adventure – Chapter 1 review *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Chapter 1 release confirmation, episodic structure
 [^ref-4]: [MobyGames – Leisure Suit Larry: Reloaded](https://www.mobygames.com/game/54983/leisure-suit-larry-reloaded/) — Adventure Mob original involvement
 [^ref-5]: [Rock Paper Shotgun – Bolt Riley Is A Reggae Adventure Game Kickstartering](https://web.archive.org/web/20131102021912/http://www.rockpapershotgun.com/2013/10/31/bolt-riley-is-a-reggae-adventure-game-kickstartering/) — Cole involvement details, second-chapter collaboration, Hero-U focus
 [^ref-6]: [Alternative Magazine Online – In Conversation With Oded Sharon (Bolt Riley Kickstarter)](https://alternativemagazineonline.co.uk/2013/11/20/interview-in-conversation-with-oded-sharon-bolt-riley-a-reggae-adventure-game-kickstarter/) — Unity engine, Noah Falstein introduction, Coles collaboration quote, childhood-computing background

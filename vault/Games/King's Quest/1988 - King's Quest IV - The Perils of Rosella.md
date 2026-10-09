@@ -10,7 +10,7 @@ series: King's Quest
 engine: AGI/SCI0
 protagonist: Princess Rosella
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [William Goldstein]
 description: 'King''s Quest IV: The Perils of Rosella marked a watershed moment in
   gaming history when it launched in September 1988. As the first PC game to support
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest IV: The Perils of Rosella
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -271,7 +271,7 @@ Rosella would return in King's Quest VII: The Princeless Bride, and her rescuer 
 
 ## References
 
-[^ref-1]: [Adventure Gamers - King's Quest IV](https://adventuregamers.com/games/kings-quest-iv-the-perils-of-rosella) – - Review score (3.5/5), groundbreaking firsts, editorial verdict
+[^ref-1]: Adventure Gamers - King's Quest IV *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – - Review score (3.5/5), groundbreaking firsts, editorial verdict
 [^ref-2]: [Strong Museum of Play - The Perils of Rosella and the Genius of Roberta](https://www.museumofplay.org/blog/the-perils-of-rosella-and-the-genius-of-roberta/) – - First female protagonist claim, Williams collection donation
 [^ref-3]: [SCI Wiki - King's Quest IV](https://sciwiki.sierrahelp.com/index.php/King's_Quest_IV:_The_Perils_of_Rosella) – - Version history, interpreter numbers, graphics differences between releases
 [^ref-4]: [MobyGames - King's Quest IV](https://www.mobygames.com/game/129/kings-quest-iv-the-perils-of-rosella/) – - Moby Score 7.7, credits, platform releases, trivia

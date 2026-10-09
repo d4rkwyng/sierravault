@@ -10,14 +10,14 @@ series: Shivers
 engine: SCI32
 protagonist: Unnamed teenager
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Shivers is a first-person horror adventure game released by Sierra On-Line
   in November 1995, marking the company's first foray into first-person adventure...
 tags: [1990s, adventure, sci, shivers, sierra]
 ---
 # Shivers
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -295,7 +295,7 @@ The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shive
 ## References
 
 [^ref-1]: [Wikipedia – Shivers (video game)](https://en.wikipedia.org/wiki/Shivers_(video_game)) – development history, review scores, accessibility features, release dates
-[^ref-2]: [Adventure Gamers – Shivers](https://adventuregamers.com/article/shivers) – gameplay description, review score, plot summary
+[^ref-2]: Adventure Gamers – Shivers *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – gameplay description, review score, plot summary
 [^ref-3]: [Adventure Classic Gaming – Shivers Review](http://www.adventureclassicgaming.com/index.php/site/reviews/26/) – technical specifications, production details, development history
 [^ref-4]: [Steam Community – Shivers Review](https://steamcommunity.com/sharedfiles/filedetails/?id=1287341472) – artwork details, composer credits, trivia
 [^ref-5]: [Balmoral Software – Shivers](http://www.balmoralsoftware.com/shivers/shivers.htm) – randomization system, gameplay mechanics

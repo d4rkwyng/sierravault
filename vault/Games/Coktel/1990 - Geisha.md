@@ -10,7 +10,7 @@ series: Standalone
 engine: Gob
 protagonist: Male protagonist (unnamed)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Geisha is an erotic adventure game developed by French company Coktel
   Vision and published by Sierra On-Line in 1990. The game represents Sierra's brief
   and...
@@ -18,7 +18,7 @@ tags: [1990s, adventure, sierra, standalone]
 ---
 # Geisha
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -222,7 +222,7 @@ The game has been preserved by various abandonware sites and is considered no lo
 [^ref-7]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Geisha) – Platform and engine information
 [^ref-8]: [GameFAQs](https://gamefaqs.gamespot.com/pc/928267-geisha/faqs/78791/plot) – Opening quote from game manual
 [^ref-9]: [Wikipedia](https://en.wikipedia.org/wiki/Geisha_(video_game)) – Basic plot description
-[^ref-10]: [Adventure Gamers](https://adventuregamers.com/games/view/24171) – Game plot description
+[^ref-10]: [Adventure Gamers](https://web.archive.org/web/20221204012621/https://adventuregamers.com/games/view/24171) – Game plot description
 [^ref-11]: [OldGames](https://www.oldgames.sk/en/game/geisha/download/1754/) – Plot summary and setting description
 [^ref-12]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2023/03/23/geisha/) – Modern review and plot confusion
 [^ref-13]: [Internet Archive](https://archive.org/details/msdos_Geisha_1990) – Plot summary from Mobygames source

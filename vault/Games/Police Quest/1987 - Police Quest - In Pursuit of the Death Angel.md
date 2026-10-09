@@ -10,14 +10,14 @@ series: Police Quest
 engine: AGI
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-05-27'
+last_updated: '2026-10-09'
 description: 'Police Quest: In Pursuit of the Death Angel stands as a pioneering
   entry in Sierra On-Line''s adventure game catalog, representing one of the company''s...'
 tags: [1980s, adventure, agi, police-quest, sierra]
 ---
 # Police Quest: In Pursuit of the Death Angel
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -185,7 +185,7 @@ The game's commitment to procedural accuracy created a template for serious game
 [^ref-27]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/Sonny_Bonds) — Sonny Bonds character, Larry Laffer cameo in PQ2
 [^ref-28]: [IMDB – Police Quest VGA (1992)](https://www.imdb.com/title/tt0236085/) — 7.4/10 rating, Walls wanted poster easter egg
 [^ref-29]: [Sierra Fandom Wiki – Police Quest VGA (SCI)](https://sierra.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(SCI)) — "Pimp suit" renamed "leisure suit" in VGA remake referencing Leisure Suit Larry
-[^ref-30]: [Adventure Gamers – Police Quest](https://adventuregamers.com/games/view/17001) — "Interesting experiment" observation, patrol duties description
+[^ref-30]: [Adventure Gamers – Police Quest](https://web.archive.org/web/20160717190806/http://www.adventuregamers.com/games/view/17001) — "Interesting experiment" observation, patrol duties description
 [^ref-41]: [MobyGames – Police Quest VGA Reviews](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/reviews/) — Tammy Dargan led VGA remake after Walls left Sierra; player reviews of the 1992 remake
 [^ref-42]: [Wikipedia – Jim Walls](https://en.wikipedia.org/wiki/Jim_Walls) — 15-year CHP career, real incident basis
 [^ref-43]: [PCGamingWiki – Police Quest VGA](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) — SCI 1.1 engine, technical specs

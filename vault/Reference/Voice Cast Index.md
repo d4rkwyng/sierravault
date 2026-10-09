@@ -1,14 +1,14 @@
 ---
 title: "Voice Cast Index"
 type: reference
-last_updated: "2026-07-13"
+last_updated: '2026-10-09'
 description: "Voice actors who appeared in multiple Sierra games, indexed by performer with their Sierra-catalogue credits. Covers Hollywood A-list talent through staff voice actors."
 tags: [reference, voice-acting, cast, performers]
 ---
 
 # Voice Cast Index
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -183,7 +183,7 @@ Discrepancies between sources should be noted with "(per Source X)" annotations 
 [^ref-mobygames-vc]: [MobyGames — Voice cast indexes](https://www.mobygames.com) — Cross-reference for voice credits
 [^ref-imdb-games]: [IMDb — Sierra games](https://www.imdb.com) — Hollywood-talent crossover documentation
 [^ref-rps-kq-vc]: [Rock Paper Shotgun — King's Quest 2015 voice cast](https://www.rockpapershotgun.com/kings-quest-2015-cast) — Voice cast details
-[^ref-vc-history]: [Adventure Gamers — voice acting history](https://adventuregamers.com) — Voice-acting era retrospective (Cloudflare-protected; view in browser)
+[^ref-vc-history]: [Adventure Gamers — voice acting history](https://web.archive.org/web/20250630235200/https://adventuregamers.com/) — Voice-acting era retrospective (Cloudflare-protected; view in browser)
 [^ref-kq6-vc]: [Wikipedia — King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) — Voice cast documentation
 [^ref-gk1-vc]: [Wikipedia — Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — Tim Curry casting
 [^ref-curry-iv]: [Twin Galaxies — Tim Curry interview](https://www.twingalaxies.com) — Voice-direction recollections

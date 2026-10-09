@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Police Quest: Open Season", "Police Quest: SWAT", "SWAT 3: Close Quarters Battle"]
 companies: ["Sierra On-Line", "Yosemite Entertainment", "Sierra Studios"]
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Tammy Dargan
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -116,7 +116,7 @@ The technical innovations in her games, particularly the transition from traditi
 [^ref-5]: [Adventure Gamer Blog](https://advgamer.blogspot.com/2024/10/game-149-police-quest-open-season.html) — Police Quest: Open Season analysis and development details
 [^ref-6]: [IGN Interview 1999](https://www.ign.com/articles/1999/11/03/swat-3-close-quarters-battle-interview-2) — SWAT 3 development interview
 [^ref-7]: [Police Quest Fandom](https://policequest.fandom.com/wiki/Tammy_Dargan) — Biography and career information
-[^ref-8]: [Adventure Gamers](https://adventuregamers.com/articles/view/34318) — Women in Sierra adventure games article
+[^ref-8]: [Adventure Gamers](https://web.archive.org/web/20230420024751/https://adventuregamers.com/articles/view/34318) — Women in Sierra adventure games article
 [^ref-9]: [Game Developer](https://www.gamedeveloper.com/design/postmortem-sierra-s-i-swat3-close-quarters-battle-i-) — SWAT3 postmortem development article
 [^ref-10]: [Police Quest Fandom - PQ4 Development](https://policequest.fandom.com/wiki/PQ4_development) — Police Quest 4 development history
 [^ref-11]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?gid=1571) — Game information and credits

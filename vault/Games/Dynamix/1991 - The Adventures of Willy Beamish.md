@@ -10,14 +10,14 @@ series: Standalone
 engine: Dynamix Game Development System (DGDS)
 protagonist: Willy Beamish
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: The Adventures of Willy Beamish is a graphic adventure game developed
  by Dynamix and published by Sierra On-Line in 1991. The game puts players in control...
 tags: [1990s, adventure, dgds, dynamix, sierra, standalone]
 ---
 # The Adventures of Willy Beamish
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -326,10 +326,10 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-20]: [GameFAQs – Sega CD Walkthrough](https://gamefaqs.gamespot.com/segacd/587919-the-adventures-of-willy-beamish/faqs/28803) – Horny character, game controls
 [^ref-21]: [IMDb – The Adventures of Willy Beamish](https://www.imdb.com/title/tt0292893/) – user rating, designers, communication gameplay
 [^ref-22]: [Alex Bevilacqua – Game Review](https://www.alexbevi.com/blog/2024/02/12/the-adventures-of-willy-beamish/) – cartoony style, emotional depth
-[^ref-23]: [Adventure Gamers – Walkthrough](https://adventuregamers.com/walkthroughs/the-adventures-of-willy-beamish) – four-day structure
+[^ref-23]: Adventure Gamers – Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – four-day structure
 [^ref-24]: [Fake Geek Boy Blog](https://fakegeekboy.wordpress.com/2020/08/20/gogathon-the-early-adventures-of-dynamix/) – unwinnable states criticism
 [^ref-25]: [Walkthrough King – Willy Beamish](https://www.walkthroughking.com/text/adventuresofwillybeamish.aspx) – timer mechanics, puzzle structure
-[^ref-26]: [Adventure Gamers – Review](https://adventuregamers.com/article/the_adventures_of_willy_beamish) – 3.5 stars, action scene frustrations
+[^ref-26]: Adventure Gamers – Review *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – 3.5 stars, action scene frustrations
 [^ref-27]: [IMDb – Trivia](https://m.imdb.com/title/tt0292893/trivia/) – Leona Humpford parody, pop culture references
 [^ref-28]: [Amiga Magazine Reviews Archive](https://amr.abime.net/review_3973) – comprehensive review scores across publications
 [^ref-29]: [Dynamix Wiki – Willy Beamish](https://dynamix.fandom.com/wiki/The_Adventures_of_Willy_Beamish) – CGW quote, ACE score

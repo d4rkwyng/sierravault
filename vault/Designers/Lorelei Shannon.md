@@ -5,11 +5,11 @@ birth_year: 1965
 death_year: null
 notable_games: ["Phantasmagoria: A Puzzle of Flesh", "King's Quest VII: The Princeless Bride", "Laura Bow 2: The Dagger of Amon Ra"]
 companies: ["Sierra On-Line", "Seagull Scientific", "FreeWave Technologies"]
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Lorelei Shannon
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -103,7 +103,7 @@ Today, Shannon is remembered as part of a generation of pioneering female game d
 [^ref-4]: [Sierra Gamers Profile](https://www.sierragamers.com/lorelei-shannon/) — Overview of Sierra On-Line contributions
 [^ref-5]: [LinkedIn Profile](https://www.linkedin.com/in/lorelei-shannon-1858835/) — Professional experience and technical expertise
 [^ref-6]: [LinkedIn Profile](https://www.linkedin.com/in/lorelei-shannon/) — Educational background
-[^ref-7]: [Adventure Gamers Search](https://adventuregamers.com/search?query=Lorelei+Shannon) — Career development and reputation at Sierra
+[^ref-7]: Adventure Gamers Search *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Career development and reputation at Sierra
 [^ref-8]: [Adventure Gamer Blog](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) — Analysis of King's Quest VII development
 [^ref-9]: [GOG Forum Interview](https://www.gog.com/forum/phantasmagoria_series/interview_with_lorelei_shannon_director_of_phantasmagoria_2) — Quote about working with Roberta Williams
 [^ref-10]: [IMDB Profile](https://www.imdb.com/name/nm1117034/) — Later career projects and acting work

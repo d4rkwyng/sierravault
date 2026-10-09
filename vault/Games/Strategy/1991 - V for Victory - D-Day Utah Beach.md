@@ -10,14 +10,14 @@ series: V for Victory
 engine: Atomic Games Wargame Engine
 protagonist: Allied Commander
 sierra_lineage: Sierra Published
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: 'V for Victory: Battleset 1 - D-Day Utah Beach - 1944 is a turn-based
   strategy wargame developed by Atomic Games, Inc. and published by Three-Sixty Pacific,...'
 tags: [1990s, sierra, strategy, v-for-victory]
 ---
 # V for Victory: Battleset 1 - D-Day Utah Beach - 1944
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -208,5 +208,5 @@ The game's influence extended beyond its immediate series. The similar World at 
 [^ref-11]: [Metacritic – V for Victory](https://www.metacritic.com/game/v-for-victory-d-day-utah-beach/) – developer, publisher, genre classification
 [^ref-12]: [IMDB – V for Victory](https://www.imdb.com/find/?q=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944&s=tt) – release year confirmation
 [^ref-18]: [AbandonwareDOS – Search](https://www.abandonwaredos.com/search.php?search=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – historical context
-[^ref-19]: [AdventureGamers – Search](https://adventuregamers.com/search/?q=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – series identification
+[^ref-19]: AdventureGamers – Search *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – series identification
 [^ref-20]: [HowLongToBeat – Search](https://howlongtobeat.com/?q=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – game title confirmation

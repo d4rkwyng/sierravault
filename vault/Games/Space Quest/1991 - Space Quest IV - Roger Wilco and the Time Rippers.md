@@ -10,14 +10,14 @@ series: Space Quest
 engine: SCI1
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: 'Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure
   game developed and published by Sierra On-Line, released in March 1991 for MS-DOS...'
 tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest IV: Roger Wilco and the Time Rippers
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure game developed and published by [[Sierra On-Line]], released in March 1991 for MS-DOS with subsequent ports to Windows, Macintosh, Amiga, and PC-98[^ref-6][^ref-2].
@@ -357,7 +357,7 @@ In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion P
 [^ref-44]: [Dragon Magazine – September 1991 (Issue 173)](https://archive.org/download/dragon-magazine/Dragon%20Magazine%20%23173%5Bocr%5D_djvu.txt) – Lesser family review: "humor in this graphic adventure is brilliant", "attention to detail is meticulous", "animation and music are... amazing", "a great addition to a great series of games"
 [^ref-45]: [SCI Wiki – Space Quest IV](http://sciwiki.sierrahelp.com/index.php?title=Space_Quest_IV:_Roger_Wilco_and_the_Time_Rippers) – SCI interpreter versions, release dates, patches
 [^ref-46]: [IndieRetroNews – Space Quest IV Amiga OCS Enhanced](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html) – SCP enhancement release, DaRaSCo, palette reconstruction, MEGA download
-[^ref-47]: [Adventure Gamers – Mark Crowe Interview](https://adventuregamers.com/article/mark_crowe) – 2002 interview: "Space Quest 4... our masterpiece," Gary Owens casting, Sequel Police puzzle regret, VGA graphics milestone
+[^ref-47]: [Adventure Gamers – Mark Crowe Interview](https://web.archive.org/web/20250610050515/https://adventuregamers.com/article/mark_crowe) – 2002 interview: "Space Quest 4... our masterpiece," Gary Owens casting, Sequel Police puzzle regret, VGA graphics milestone
 [^ref-48]: [Rock Paper Shotgun – Have You Played Space Quest IV](https://www.rockpapershotgun.com/have-you-played-space-quest-iv-roger-wilco-and-the-time-rippers) – Retrospective: "really, really funny," "five jokes written for every detail," Gary Owens delivery
 [^ref-49]: [Eurogamer – Retrospective: Space Quest IV](https://www.eurogamer.net/retrospective-space-quest-iv) – "SQ4 is about gags everywhere," parser vs icon interface debate, development tensions
 [^ref-50]: [Hardcore Gaming 101 – Space Quest IV](http://www.hardcoregaming101.net/space-quest-iv/) – Comprehensive retrospective: Gary Owens narration, "Two Guys' favorite," CD-ROM changes, Radio Shock legal issues

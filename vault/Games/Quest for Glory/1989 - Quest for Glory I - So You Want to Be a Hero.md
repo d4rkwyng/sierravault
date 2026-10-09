@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI0 (EGA), SCI1.1 (VGA)
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Mark Seibert]
 description: 'Quest for Glory: So You Want to Be a Hero (originally released as Hero''s
   Quest: So You Want to Be a Hero) is a 1989 adventure game/role-playing game hybrid...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory: So You Want to Be a Hero
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 Quest for Glory: So You Want to Be a Hero (originally released as Hero's Quest: So You Want to Be a Hero) is a 1989 adventure game/role-playing game hybrid designed by [[Lori Ann Cole]] and [[Corey Cole]], and published by [[Sierra On-Line]] for MS-DOS[^ref-1][^ref-2].
@@ -224,7 +224,7 @@ This game has been included in the following collections:
 [^ref-5]: [Grokipedia – Quest for Glory](https://grokipedia.com/page/Quest_for_Glory) – series development history, creators, gameplay mechanics
 [^ref-6]: [PCGamingWiki – Quest for Glory: So You Want to Be a Hero](https://www.pcgamingwiki.com/wiki/Quest_for_Glory%3A_So_You_Want_to_Be_a_Hero) – technical specs, availability
 [^ref-7]: [Computer Gaming World – 1990 Awards](http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=74) – Adventure Game of the Year, 150 Best Games list
-[^ref-8]: [Adventure Gamers – Quest for Glory I](https://adventuregamers.com/games/quest-for-glory-i-so-you-want-to-be-a-hero) – modern review
+[^ref-8]: Adventure Gamers – Quest for Glory I *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – modern review
 [^ref-9]: [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) – purchase, user reviews
 [^ref-10]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750) – purchase, user reviews
 [^ref-11]: [Internet Archive – Quest for Glory Manual](https://archive.org/details/Quest_for_Glory_Manual) – preservation, documentation

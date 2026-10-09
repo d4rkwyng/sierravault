@@ -10,7 +10,7 @@ series: Mage's Initiation
 engine: Adventure Game Studio
 protagonist: D'arc
 sierra_lineage: Spiritual Successor
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 composer: [Brandon Blume]
 description: 'Mage''s Initiation: Reign of the Elements is an adventure/RPG hybrid
   developed and published by Himalaya Studios, released on January 30, 2019 for Windows,...'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, mage-s-initiation, rpg, sierra]
 ---
 # Mage's Initiation: Reign of the Elements
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -280,7 +280,7 @@ The game has a small but dedicated speedrunning community. The current Any% worl
 ## References
 
 [^ref-1]: [MobyGames – Mage's Initiation: Reign of the Elements](https://www.mobygames.com/game/121392/mages-initiation-reign-of-the-elements/) – release dates, developer/publisher credits, engine, platforms, critics average
-[^ref-2]: [Adventure Gamers – Hands-on Preview](https://adventuregamers.com/articles/view/36793) – release date, development timeline, combat system, violence optional feature
+[^ref-2]: [Adventure Gamers – Hands-on Preview](https://web.archive.org/web/20220510074415/https://adventuregamers.com/articles/view/36793) – release date, development timeline, combat system, violence optional feature
 [^ref-3]: [Adventure Gamers – Review (Archived)](https://web.archive.org/web/20190603085211/https://adventuregamers.com/articles/view/37028) – development length comparison, awards, walking pace criticism
 [^ref-4]: [Kicktraq – Campaign Data](http://www.kicktraq.com/projects/2112639455/mages-initiation-a-classic-sierra-style-adventure/) – funding amount, backer count, campaign dates
 [^ref-5]: [Arcade Attack – Developer Interview](https://www.arcadeattack.co.uk/mages-initiation/) – development timeline, Harry Potter inspiration, fan poll, developer quotes, legal history

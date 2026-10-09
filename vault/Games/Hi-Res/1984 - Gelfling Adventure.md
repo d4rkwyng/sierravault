@@ -10,14 +10,14 @@ series: Hi-Res Adventures
 engine: Custom (Al Lowe's menu interpreter)
 protagonist: Jen
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Gelfling Adventure is an adventure game developed and published by Sierra
   On-Line in 1984 for the Apple II. Designed and programmed by Al Lowe, the game is...
 tags: [1980s, adventure, al-lowe, hi-res-adventures, sierra]
 ---
 # Gelfling Adventure
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -161,7 +161,7 @@ While overshadowed by its parent game and Al Lowe's later work, Gelfling Adventu
 
 **Preservation / Emulation**
 - [Internet Archive - Gelfling Adventure](https://archive.org/details/GelflingAdventure4amCrack) - Playable via Apple IIe emulator[^ref-11]
-- [Adventure Gamers Database](https://adventuregamers.com/games/view/40982)[^ref-1]
+- [Adventure Gamers Database](https://web.archive.org/web/20211117124624/https://adventuregamers.com/games/view/40982)[^ref-1]
 - [MobyGames - The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) - References Gelfling Adventure[^ref-7]
 - [Sierra Gamers - Gelfling Adventure](https://www.sierragamers.com/gelfling-adventure/)[^ref-8]
 
@@ -186,7 +186,7 @@ The game is documented in gaming databases and preservation archives.[^ref-12][^
 
 ## References
 
-[^ref-1]: [Adventure Gamers - Gelfling Adventure](https://adventuregamers.com/games/view/40982) - database listing, platform information
+[^ref-1]: [Adventure Gamers - Gelfling Adventure](https://web.archive.org/web/20211117124624/https://adventuregamers.com/games/view/40982) - database listing, platform information
 [^ref-2]: [Wikipedia - The Dark Crystal (video game)](https://en.wikipedia.org/wiki/The_Dark_Crystal_(video_game)) - release year, designer, simplified version for younger players
 [^ref-3]: [Al Lowe interviews and articles](https://www.metaljesusrocks.com/tag/al-lowe/) - developer quotes, interpreter development, Sierra career history
 [^ref-4]: [IFWizz - Gelfling Adventure](https://web.archive.org/web/*/https://ifwizz.de/gelfling-adventure-(1984-en).html) - 1984 release, multiple choice interface, historical significance

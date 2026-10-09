@@ -10,7 +10,7 @@ series: Space Quest (Fan Game)
 engine: Adventure Game Studio
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: 'Space Quest: Incinerations is an ambitious fan-made sequel to Sierra''s
   beloved Space Quest series, released on January 11, 2012 by Chris Ushko under his
   Box...'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, sierra, space-quest-fan-game]
 ---
 # Space Quest: Incinerations
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -267,14 +267,14 @@ The game features the return of Beatrice Wankmeister, Roger's love interest from
 [^ref-1]: [Metacritic – Space Quest: Incinerations](https://www.metacritic.com/game/space-quest-incinerations/) – developer, publisher information
 [^ref-2]: [GameFAQs – User Review by Menbailee](https://gamefaqs.gamespot.com/pc/660661-space-quest-incinerations/reviews/149760) – 9.2/10 rating, Chris Ushko credit, release date, resolution, critical praise
 [^ref-3]: [AGD Interactive Forum – Release Announcement](http://www.agdinteractive.com/forum/viewtopic.php?t=15617) – six-year development, cinematics, music, 3D graphics, Datadog quotes
-[^ref-4]: [Adventure Gamers – Game Database](https://adventuregamers.com/games/view/17400) – release date, plot description, Following Freeware coverage
+[^ref-4]: [Adventure Gamers – Game Database](https://web.archive.org/web/20240222084405/https://adventuregamers.com/games/view/17400) – release date, plot description, Following Freeware coverage
 [^ref-5]: [MobyGames – Space Quest: Incinerations](https://www.mobygames.com/game/146101/space-quest-incinerations/) – platforms, engine, ratings, technical specs, timeline placement
 [^ref-6]: [GameFAQs – Game Page](https://gamefaqs.gamespot.com/pc/660661-space-quest-incinerations) – plot description, Doomtron character, government storyline
 [^ref-7]: [Space Quest Omnipedia – Incinerations](https://spacequest.fandom.com/wiki/Space_Quest:_Incinerations) – composers, development history, Maya/Premiere/After Effects, G4TV feature, multiple endings, AGS page rating
 [^ref-8]: [ChapterCheats – Game Info](https://www.chaptercheats.com/cheat/pc/287003/space-quest-incinerations/video-walkthrough/198608) – Box of Mystery developer/publisher, January 2012 release
 [^ref-9]: [Telltale Games Community Forum – Release Thread](https://community.telltalegames.com/discussion/28243/space-quest-incinerations-new-fan-game-released) – development details, cut content, death room, animation praise, student status
 [^ref-10]: [Rock, Paper, Shotgun – Coverage](https://www.rockpapershotgun.com/search?q=Space+Quest+Incinerations) – "wonderful surprise" quote, action praise, favorable review
-[^ref-11]: [Adventure Gamers – Following Freeware](https://web.archive.org/web/*/https://adventuregamers.com/articles/view/17417) – "one of the best fan made adventure games" quote, commercial sequel comparison
+[^ref-11]: Adventure Gamers – Following Freeware *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – "one of the best fan made adventure games" quote, commercial sequel comparison
 [^ref-12]: [IMDb – Plot Summary](https://www.imdb.com/title/tt2216752/plotsummary/) – Chris Ushko synopsis, Xenon job interview, ten-year timeline
 [^ref-13]: [IMDb – Main Page](https://www.imdb.com/title/tt2216752/) – Canada release, January 11 2012, plot summary, director/writer credit
 [^ref-14]: [Neoseeker – Game Page](https://www.neoseeker.com/space-quest-incinerations/) – cinematics length, original characters, multiple endings description

@@ -10,14 +10,14 @@ series: Al Emmo
 engine: Adventure Game Studio
 protagonist: Al Emmo
 sierra_lineage: Spiritual Successor
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: Al Emmo and the Lost Dutchman's Mine is a point-and-click adventure game
   developed and published by Himalaya Studios, released on September 5, 2006 for...
 tags: [2000s, adventure, al-emmo, sierra]
 ---
 # Al Emmo and the Lost Dutchman's Mine
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -333,7 +333,7 @@ As GameFabrique's reggie noted, "Best advice is to pretend Al Emmo is a lost gem
 [^ref-2]: [Adventure Game Studio Wiki – Al Emmo Press Release](https://www.adventuregamestudio.co.uk/wiki/Al_Emmo_and_the_Lost_Dutchman's_Mine) – development history, studio background, release announcement
 [^ref-3]: [Adventure Classic Gaming – Review](http://www.adventureclassicgaming.com/index.php/site/reviews/629/) – comprehensive review, development team size, character parodies, version history, Britney Brimhall quotes
 [^ref-4]: [Just Adventure – Review](https://www.justadventure.com/2016/02/04/al-emmo-and-the-lost-dutchman-s-mine/) – gameplay mechanics, interface description, story structure, nine-act format
-[^ref-5]: [Adventure Gamers – Preview](https://adventuregamers.com/articles/view/17921) – development timeline, composers, cutscene format, screen count
+[^ref-5]: [Adventure Gamers – Preview](https://web.archive.org/web/20210710190435/https://adventuregamers.com/articles/view/17921) – development timeline, composers, cutscene format, screen count
 [^ref-6]: [Steam Store Page](https://store.steampowered.com/app/296850/Al_Emmo_and_the_Lost_Dutchmans_Mine/) – technical specifications, feature list, animation frames, background count
 [^ref-7]: [Himalaya Studios Forum – Enhanced Edition Announcement](http://www.himalayastudios.com/forum/index.php?topic=1002.0) – version 4.0 changelog, new voice actors, bug fixes, Easter eggs
 [^ref-8]: [MobyGames – Al Emmo Full Credits](https://www.mobygames.com/game/25432/al-emmo-and-the-lost-dutchmans-mine/) – complete voice cast, designers, publishers, platforms, ratings

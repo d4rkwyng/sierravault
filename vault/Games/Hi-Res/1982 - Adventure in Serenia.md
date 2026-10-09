@@ -11,14 +11,14 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: Adventure in Serenia stands as a pivotal title in adventure gaming history,
   representing "the first of On-Line Systems' pictorial adventures for the IBM...
 tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Adventure in Serenia
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -140,7 +140,7 @@ From a design perspective, Adventure in Serenia helped pioneer open-world concep
 ## References
 
 [^ref-1]: [Abandonware DOS - Adventure in Serenia](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Adventure+in+Serenia&gid=2484) – - User ratings, historical context, and game description
-[^ref-2]: [Adventure Gamers - Adventure in Serenia](https://adventuregamers.com/games/view/22352) – - Basic game information and plot description
+[^ref-2]: [Adventure Gamers - Adventure in Serenia](https://web.archive.org/web/20220426132707/https://adventuregamers.com/games/view/22352) – - Basic game information and plot description
 [^ref-3]: [Internet Archive - Adventure in Serenia 1982](https://archive.org/details/msdos_Adventure_in_Serenia_1982) – - Preservation entry with game metadata and plot details
 [^ref-4]: [Internet Archive - Adventure in Serenia Floppy](https://archive.org/details/000130-AdventureInSerenia) – - IBM PC floppy disk preservation record
 [^ref-5]: [Classic Reload - Adventure in Serenia](https://classicreload.com/adventure-in-serenia.html) – - Game listing with basic platform and year information

@@ -10,14 +10,14 @@ series: Standalone
 engine: SCI1.1
 protagonist: Pepper Pumpernickel
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-10-09'
 description: Pepper's Adventures in Time is an educational adventure game released
   by Sierra On-Line in 1993. Developed by Brightstar, a Seattle-based company acquired...
 tags: [1990s, educational, 'null', sci, sierra]
 ---
 # Pepper's Adventures in Time
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -186,7 +186,7 @@ Players who enjoyed similar titles often draw comparisons to LucasArts' Day of t
 [^ref-6]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/pepper-s-adventures-in-time/) – Design team details, Josh Mandel quote
 [^ref-7]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Pepper's_Adventures_in_Time) – Platform details
 [^ref-8]: [Classic Reload](https://classicreload.com/peppers-adventures-in-time.html) – Plot synopsis
-[^ref-9]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/peppers-adventures-in-time) – Story details
+[^ref-9]: Adventure Gamers Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Story details
 [^ref-10]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PeppersAdventuresInTime) – Plot description
 [^ref-11]: [Adventure Blog](https://advgamer.blogspot.com/2024/09/peppers-adventures-in-time-can-you.html) – Character switching mechanics
 [^ref-12]: [UHS Hints](https://www.uhs-hints.com/uhsweb/pepper.php) – Game structure

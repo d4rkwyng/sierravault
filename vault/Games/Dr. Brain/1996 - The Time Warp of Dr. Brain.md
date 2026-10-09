@@ -10,14 +10,14 @@ series: Dr. Brain
 engine: Sierra Educational Engine
 protagonist: Dr. Brain
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: The Time Warp of Dr. Brain is an educational puzzle adventure game developed
   by Sierra On-Line in 1996. The fourth installment in the Dr. Brain series, the...
 tags: [1990s, dr-brain, educational, sierra]
 ---
 # The Time Warp of Dr. Brain
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -226,7 +226,7 @@ The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One s
 [^ref-20]: [GOG Search Results](https://www.gog.com/en/games?query=The+Time+Warp+of+Dr.+Brain) – - Not available on GOG
 [^ref-21]: [Internet Archive](https://archive.org/details/the-time-warp-of-dr-brain_mac) – - Mac version preservation
 [^ref-22]: [Abandonware DOS](https://www.abandonwaredos.com/search.php?search=The+Time+Warp+of+Dr.+Brain) – - Search results page
-[^ref-23]: [Adventure Gamers](https://adventuregamers.com/search/?q=The+Time+Warp+of+Dr.+Brain) – - Search results page
+[^ref-23]: Adventure Gamers *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – - Search results page
 [^ref-24]: [Games Nostalgia](https://gamesnostalgia.com/search?query=The+Time+Warp+of+Dr.+Brain) – - Basic platform information
 [^ref-25]: [Gamewise - Main Page](http://gamewise.co/games/38741/The-Time-Warp-of-Dr-Brain) – - Basic release information
 [^ref-26]: [Gamewise - Walkthrough](http://gamewise.co/games/38741/The-Time-Warp-of-Dr-Brain/Walkthrough) – - Game classification

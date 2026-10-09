@@ -196,7 +196,7 @@ This page is hand-curated. Every dated entry is verified against at least one pr
 
 - [The Digital Antiquarian](https://www.filfre.net/) — Jimmy Maher's long-form Sierra history and game-by-game retrospectives
 - [Adventure Game Hotspot](https://adventuregamehotspot.com/) — interviews, AMAs, feature pieces, reviews
-- [Adventure Gamers](https://adventuregamers.com/) — reviews and release announcements
+- [Adventure Gamers](https://web.archive.org/web/20250630235200/https://adventuregamers.com/) — reviews and release announcements
 - [ScummVM news](https://www.scummvm.org/news/) — engine compatibility and preservation milestones
 - [IndieRetroNews](https://www.indieretronews.com/) — Amiga / retro-scene coverage
 - [English Amiga Board](https://eab.abime.net/) — Amiga community discussion

@@ -7,12 +7,12 @@ first_release: 1984
 last_release: 2015
 total_games: 10
 genre: "Adventure"
-last_updated: "2026-05-13"
+last_updated: '2026-10-09'
 ---
 
 # King's Quest Series
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -199,7 +199,7 @@ The series maintains an active fan community decades after the original games:
 [^ref-3]: [The Digital Antiquarian - King's Quest](https://www.filfre.net/2013/07/popcorn-and-peanuts/) – IBM PCjr development history
 [^ref-4]: [MobyGames - King's Quest IV](https://www.mobygames.com/game/131/kings-quest-iv-the-perils-of-rosella/) – First major female protagonist claim
 [^ref-5]: [Wikipedia - King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) – Commercial success and sales data
-[^ref-6]: [Adventure Gamers - King's Quest VI Review](https://web.archive.org/web/*/https://adventuregamers.com/games/view/17487) – Critical acclaim and series peak assessment
+[^ref-6]: Adventure Gamers - King's Quest VI Review *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Critical acclaim and series peak assessment
 [^ref-7]: [Ars Technica - History of Graphic Adventures](https://arstechnica.com/gaming/2011/01/history-of-graphic-adventures/) – Genre pioneering analysis
 [^ref-8]: [AGD Interactive](https://www.agdinteractive.com/) – Official AGDI remake information
 [^ref-9]: [Phoenix Online Studios - The Silver Lining](https://www.postudios.com/tsl/) – Fan sequel project history

@@ -10,14 +10,14 @@ series: Space Quest
 engine: AGI
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: 'Space Quest II: Chapter II – Vohaul''s Revenge is a graphic adventure
   game developed and published by Sierra On-Line, released on November 14, 1987 for...'
 tags: [1980s, adventure, agi, sierra, space-quest, two-guys]
 ---
 # Space Quest II: Vohaul's Revenge
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 Space Quest II: Chapter II – Vohaul's Revenge is a graphic adventure game developed and published by [[Sierra On-Line]], released on November 14, 1987 for MS-DOS with subsequent ports to Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-3][^ref-6].
@@ -202,7 +202,7 @@ This game has been included in the following collections:
 [^ref-16]: [Space Quest FAQ](https://wiw.org/~jess/sqfaq.html) – FREE Mating Whistle error
 [^ref-17]: [Virtual Broomcloset – Publications Archive](https://wiw.org/~jess/publications.html) – manuals, hint books
 [^ref-18]: [DOS.Zone – Space Quest II](https://dos.zone/space-quest-ii-vohaul-s-revenge/) – play in browser
-[^ref-19]: [Adventure Gamers – Space Quest II](https://adventuregamers.com/games/space-quest-ii-vohauls-revenge) – review, Vohaul brothers backstory, maze descriptions, dead ends
+[^ref-19]: Adventure Gamers – Space Quest II *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – review, Vohaul brothers backstory, maze descriptions, dead ends
 [^ref-20]: [TVTropes – Space Quest II](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestIIVohaulsRevenge) – parodies, easter eggs, notable deaths, parser humor
 [^ref-21]: [The Cutting Room Floor – Space Quest II](https://tcrf.net/Space_Quest_II:_Vohaul%27s_Revenge) – debug mode, unused graphics, cut content, source code leak
 [^ref-22]: [GameFAQs – Space Quest II](https://gamefaqs.gamespot.com/pc/565075-space-quest-ii-chapter-ii-vohauls-revenge) – user ratings, difficulty rating, guides

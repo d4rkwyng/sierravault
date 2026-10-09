@@ -10,7 +10,7 @@ series: King's Quest
 engine: AGI
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-10-09'
 composer: [Al Lowe]
 description: 'King''s Quest II: Romancing the Throne is the second installment in
   the King''s Quest series, released in May 1985 for IBM PC and PCjr. Designed by
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest II: Romancing the Throne
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -247,7 +247,7 @@ This game has been included in[^ref-1]:
 [^ref-7]: [Compute! Magazine Archive](https://archive.org/details/compute-magazine) — Contemporary review describing game as "like playing an animated cartoon"
 [^ref-8]: [King's Quest Fandom Wiki](https://kingsquest.fandom.com/wiki/King's_Quest_II:_Romancing_the_Throne) — Story summary, easter eggs, and version details
 [^ref-9]: [GameFAQs – King's Quest II](https://gamefaqs.gamespot.com/pc/565066-kings-quest-ii-romancing-the-throne) — Plot summary and gameplay walkthrough
-[^ref-10]: [Adventure Gamers – King's Quest II Review](https://adventuregamers.com/games/view/15451) — Modern retrospective rating 3/5 "Decent"
+[^ref-10]: [Adventure Gamers – King's Quest II Review](https://web.archive.org/web/20220509044152/https://adventuregamers.com/games/view/15451) — Modern retrospective rating 3/5 "Decent"
 [^ref-11]: [ScummVM Wiki – AGI](https://wiki.scummvm.org/index.php/AGI) — Technical details on walking speed and version differences
 [^ref-12]: [The King's Quest Companion by Peter Spear](https://archive.org/details/kingsquestcompan00spea) — Official companion book with 185-point breakdown and Derek Karlavaegen narrative
 [^ref-13]: [Gaming After 40 – King's Quest II](https://gamingafter40.blogspot.com/2010/03/adventure-of-week-kings-quest-ii-1985.html) — Detailed retrospective discussing bridge mechanics

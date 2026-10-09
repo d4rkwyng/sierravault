@@ -10,14 +10,14 @@ series: Inca
 engine: Gob
 protagonist: Atahualpa
 sierra_lineage: Sierra Published
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: 'Inca II: Nations of Immortality is the sequel to Inca, the surreal space
   combat/adventure game with a fantasy take on Incan mythologies. Developed by Coktel...'
 tags: [1990s, adventure, inca, sierra]
 ---
 # Inca II: Nations of Immortality
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -141,7 +141,7 @@ Inca II stands as a fascinating example of 1990s multimedia gaming ambition, rep
 ## References
 
 [^ref-1]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - Search results page with limited game information
-[^ref-2]: [Adventure Gamers Search](https://adventuregamers.com/search/?q=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - General adventure gaming website search page
+[^ref-2]: Adventure Gamers Search *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – - General adventure gaming website search page
 [^ref-3]: [Internet Archive - Inca 2](https://archive.org/details/inca-2-mr-abandonware) – - Downloadable version with DOSBox compatibility for modern systems
 [^ref-4]: [The Digital Antiquarian](https://www.filfre.net/?s=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - Blog search results showing no posts found
 [^ref-5]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/inca-ii) – - User community wishlist with player comments and experiences

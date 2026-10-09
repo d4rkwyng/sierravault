@@ -4,11 +4,11 @@ type: publisher
 founded: null
 headquarters: "France"
 parent_company: null
-last_updated: "2026-07-13"
+last_updated: '2026-10-09'
 ---
 # Schnibble Productions
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -37,7 +37,7 @@ The company name "Schnibble" references *The Bizarre Adventures of Woodruff and 
 [^ref-2]: [MobyGames - Gobliiins 5](https://www.mobygames.com/game/201389/gobliiins-5/) - Database entry
 [^ref-3]: [Wikipedia - Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) - Series history
 [^ref-4]: [GOG - Gobliiins 5](https://www.gog.com/game/gobliiins_5_the_morgloton_invasion) - Digital distribution
-[^ref-5]: [Adventure Gamers - Gobliiins 5](https://adventuregamers.com/games/view/gobliiins-5) - Game coverage
+[^ref-5]: Adventure Gamers - Gobliiins 5 *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* - Game coverage
 [^ref-6]: [MobyGames - Woodruff and the Schnibble of Azimuth](https://www.mobygames.com/game/4070/the-bizarre-adventures-of-woodruff-and-the-schnibble-of-azimuth/) - Name origin
 [^ref-7]: [Hardcore Gaming 101 - Gobliiins Series](https://web.archive.org/web/*/http://www.hardcoregaming101.net/gobliiins/) - Series retrospective
 [^ref-8]: [MobyGames - Pierre Gilhodes](https://www.mobygames.com/person/1088/pierre-gilhodes/) - Series creator

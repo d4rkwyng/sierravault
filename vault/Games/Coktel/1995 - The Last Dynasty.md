@@ -10,14 +10,14 @@ series: Coktel
 engine: Gob
 protagonist: Mel Raauq
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: The Last Dynasty is a hybrid action-adventure game developed by Coktel
   Vision and published by Sierra On-Line in 1995. The game ambitiously combines space...
 tags: [1990s, adventure, coktel, sierra]
 ---
 # The Last Dynasty
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -233,7 +233,7 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 
 [^ref-6]: [Wikipedia – The Last Dynasty](https://en.wikipedia.org/wiki/The_Last_Dynasty) – developer, publisher, platform, release year, review scores
 [^ref-2]: [MobyGames – The Last Dynasty](https://www.mobygames.com/game/1230/the-last-dynasty/) – gameplay description, credits, technical specs, ratings, version info, trivia
-[^ref-3]: [Adventure Gamers – The Last Dynasty](https://adventuregamers.com/games/the-last-dynasty) – game description, perspective, controls, genre classification
+[^ref-3]: [Adventure Gamers – The Last Dynasty](https://web.archive.org/web/20250626184354/https://adventuregamers.com/games/the-last-dynasty) – game description, perspective, controls, genre classification
 [^ref-4]: [Coming Soon Magazine – The Last Dynasty Review](http://www.csoon.com/issue6/lastd.html) – review score, production budget, technical requirements, gameplay features
 [^ref-5]: [Internet Archive – Dynasty Demo](https://archive.org/details/dynasty_zip) – demo description, gameplay features
 [^ref-7]: [PCGamingWiki – The Last Dynasty](https://www.pcgamingwiki.com/wiki/The_Last_Dynasty) – engine, technical specifications, compatibility info

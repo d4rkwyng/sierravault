@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI0
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: 'Released in September 1990, **Roberta Williams'' King''s Quest I: Quest
   for the Crown** is Sierra On-Line''s official SCI engine remake of their landmark
   1984...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # Roberta Williams' King's Quest I: Quest for the Crown
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -223,9 +223,9 @@ The SCI remake was included in several Sierra compilations:[^ref-2]
 [^ref-2]: [MobyGames – Roberta Williams' King's Quest I](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/) – – Credits, reviews, scores
 [^ref-3]: [SCI Wiki – King's Quest I SCI](https://sciwiki.sierrahelp.com/index.php/King's_Quest_I:_Quest_for_the_Crown_(SCI_remake) – ) – Interpreter versions, technical specs
 [^ref-4]: [King's Quest Omnipedia – KQ1 MS-DOS](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_(MS-DOS) – ) – Development, changes, reception
-[^ref-5]: [Adventure Gamers – KQ1 SCI](https://adventuregamers.com/games/view/36653) – – Plot description
+[^ref-5]: [Adventure Gamers – KQ1 SCI](https://web.archive.org/web/20230322163058/https://adventuregamers.com/games/view/36653) – – Plot description
 [^ref-6]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) – – Story summary
-[^ref-7]: [Adventure Gamers – King's Quest review](https://adventuregamers.com/games/kings-quest-quest-for-the-crown) – – SCI remake improvements, interface
+[^ref-7]: [Adventure Gamers – King's Quest review](https://web.archive.org/web/20250613164940/https://adventuregamers.com/games/kings-quest-quest-for-the-crown) – – SCI remake improvements, interface
 [^ref-8]: [King's Quest Omnipedia – KQ1SCI development](https://kingsquest.fandom.com/wiki/KQ1SCI_development) – – Josh Mandel quotes, cut content
 [^ref-9]: [Adventure Classic Gaming – KQ1 Review](http://www.adventureclassicgaming.com/index.php/site/reviews/120) – – 5/5 review, Roberta Williams quotes
 [^ref-10]: [Sierra Wiki – KQ1 SCI](https://sierra.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_(SCI) – ) – Puzzle changes

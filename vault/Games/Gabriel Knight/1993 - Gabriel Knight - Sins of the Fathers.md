@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: SCI2
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-10-08'
+last_updated: '2026-10-09'
 composer: [Robert Holmes]
 description: 'Gabriel Knight: Sins of the Fathers is a point-and-click adventure game
   developed and published by Sierra On-Line, released on December 17, 1993. Designed...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers
 
-<small style="color: gray">Last updated: October 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -381,7 +381,7 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-3]: [Adventure Classic Gaming – Gabriel Knight: Sins of the Fathers Review](http://www.adventureclassicgaming.com/index.php/site/reviews/16/) — Retrospective review of the original 1993 release
 [^ref-4]: [Adventure Classic Gaming – Jane Jensen Interview (2003)](http://www.adventureclassicgaming.com/index.php/site/interviews/179/) — Designer insights on game creation; women/older audience demographic; GK novelization reflections
 [^ref-5]: [The Digital Antiquarian – Gabriel Knight](https://www.filfre.net/tag/gabriel-knight/) — Jimmy Maher's historical analysis: Jensen's 1990 hiring, "Schattenjäger" lore, Ken Williams "carte blanche," engine-migration troubles
-[^ref-6]: [Adventure Gamers – Gabriel Knight Walkthrough](https://adventuregamers.com/walkthroughs/gabriel-knight-sins-of-the-fathers) — Complete game guide
+[^ref-6]: Adventure Gamers – Gabriel Knight Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Complete game guide
 [^ref-7]: [Behind The Voice Actors – Gabriel Knight](https://www.behindthevoiceactors.com/video-games/gabriel-knight-sins-of-the-fathers/) — Full voice cast credits
 [^ref-8]: [Internet Archive – Gabriel Knight](https://archive.org/details/gk-1_20220905) — Preservation copy and documentation
 [^ref-9]: [DOSBox Wiki – Gabriel Knight](https://www.dosbox.com/wiki/GAMES:Gabriel_Knight:_Sins_of_the_Fathers) — Technical compatibility info
@@ -404,7 +404,7 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-26]: [GameFAQs – Gabriel Knight: Sins of the Fathers FAQ/Walkthrough](https://gamefaqs.gamespot.com/pc/562666-gabriel-knight-sins-of-the-fathers/faqs/1857) — Original-release walkthrough confirming the 342-point maximum score for the 1993 version
 [^ref-27]: [Sierra Help – Gabriel Knight](https://sierrahelp.com/Games/GabrielKnight/GK1Help.html) — Technical support and patches
 [^ref-29]: [Gabriel Knight Fandom Wiki](https://gabrielknight.fandom.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — Detailed plot and character info
-[^ref-30]: [Adventure Gamers – Gabriel Knight](https://adventuregamers.com/games/view/17109) — Modern ratings and reviews
+[^ref-30]: [Adventure Gamers – Gabriel Knight](https://web.archive.org/web/20170429165920/http://www.adventuregamers.com:80/games/view/17109) — Modern ratings and reviews
 [^ref-31]: [Jane Jensen Official Site](https://www.janejensen.com/) — Designer biography and works
 [^ref-32]: [Computer Gaming World 1994 Awards](https://archive.org/details/Computer_Gaming_World_Issue_116) — Adventure Game of the Year
 

@@ -6,11 +6,11 @@ defunct: 2005
 headquarters: "Paris, France"
 notable_games: ["Gobliiins", "Lost in Time", "The Bizarre Adventures of Woodruff and the Schnibble"]
 parent_company: "Sierra On-Line (1993-2005)"
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Coktel Vision
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -103,7 +103,7 @@ Coktel Vision's impact on the adventure game genre extends far beyond their comm
 [^ref-14]: [Sierra Gamers](https://www.sierragamers.com/coktel-vision/) — Dedicated Coktel Vision section
 [^ref-15]: [Games Industry](https://www.gamesindustry.biz/search?q=Coktel+Vision) — Industry news and analysis
 [^ref-16]: [Les Echos](https://www.lesechos.fr/1994/05/lamericain-sierra-on-line-absorbe-coktel-vision-881547) — French news report on Sierra acquisition
-[^ref-17]: [Adventure Gamers](https://adventuregamers.com/companies/view/910) — Adventure game community company profile
+[^ref-17]: [Adventure Gamers](https://web.archive.org/web/20240104105627/https://adventuregamers.com/companies/view/910) — Adventure game community company profile
 [^ref-18]: [Wikidata](https://www.wikidata.org/wiki/Q2981951) — Structured company data
 [^ref-19]: [IGN](https://www.ign.com/games/producer/coktel-vision) — Game reviews and producer information
 [^ref-20]: [HobbyDB](https://www.hobbydb.com/marketplaces/hobbydb/subjects/coktel-vision-developer) — Collectibles and company merchandise information

@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Gob
 protagonist: Ween
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Charles Callet]
 description: '*The Prophecy* (known as *Ween: The Prophecy* in Europe) is a first-person
   point-and-click adventure game developed by Coktel Vision and published by Sierra...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coktel, gobliiins, sierra]
 ---
 # The Prophecy
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -238,7 +238,7 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 
 [^ref-1]: [MobyGames – The Prophecy](https://www.mobygames.com/game/6218/the-prophecy/) – developer, designer, publisher, platform, technical specifications
 [^ref-2]: [Best DOS Games – The Prophecy](https://bestdosgames.com/games/the-prophecy) – artistic comparisons, CD edition details, visual style analysis
-[^ref-3]: [Adventure Gamers – Ween: The Prophecy](https://adventuregamers.com/games/ween-the-prophecy) – review score, system requirements, critical assessment
+[^ref-3]: [Adventure Gamers – Ween: The Prophecy](https://web.archive.org/web/20250626184339/https://adventuregamers.com/games/ween-the-prophecy) – review score, system requirements, critical assessment
 [^ref-4]: [Internet Archive – Ween: The Prophecy Full Game](https://archive.org/details/msdos_Ween_-_The_Prophecy_1993) – plot description, branching paths, gameplay structure
 [^ref-5]: [Internet Archive – The Prophecy Demo](https://archive.org/details/TheProphecy_1020) – graphic style, interface description
 [^ref-6]: [Wikipedia – The Prophecy (video game)](https://en.wikipedia.org/wiki/The_Prophecy_(video_game)) – review scores, gameplay mechanics, trivia

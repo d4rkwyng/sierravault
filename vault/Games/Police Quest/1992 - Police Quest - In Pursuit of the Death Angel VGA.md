@@ -10,14 +10,14 @@ series: Police Quest
 engine: SCI1.1
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: 'Police Quest: In Pursuit of the Death Angel VGA Remake is a 1992 enhanced
   remake of Sierra On-Line''s 1987 police procedural adventure game....'
 tags: [1990s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest: In Pursuit of the Death Angel (VGA Remake)
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -293,7 +293,7 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 [^ref-11]: [Police Quest Fandom Wiki – AGI DOS Version](https://policequest.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(AGI_DOS/Tandy)) – drug crisis plot, training publication quotes
 [^ref-12]: [Walkthroughking – Police Quest](https://www.walkthroughking.com/text/policequest.aspx) – plot details, series overview
 [^ref-13]: [Nerds That Geek – Review](https://nerdsthatgeek.com/gaming/nerds-that-geek-game-review-police-quest-in-pursuit-of-the-death-angel) – emotional story elements
-[^ref-14]: [Adventure Gamers – Walkthrough](https://adventuregamers.com/walkthroughs/police-quest-in-pursuit-of-the-death-angel) – Death Angel investigation
+[^ref-14]: Adventure Gamers – Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – Death Angel investigation
 [^ref-15]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel/faqs/19345) – climax details
 [^ref-16]: [GOG – Police Quest Collection](https://www.gog.com/game/police_quest_1_2_3_4) – commercial availability, collection info
 [^ref-17]: [MobyGames – Original Game Entry](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/) – easter eggs, driving view, original credits

@@ -10,14 +10,14 @@ series: Fester Mudd
 engine: Unity
 protagonist: Fester Mudd
 sierra_lineage: Spiritual Successor
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: 'Fester Mudd: Curse of the Gold is a point-and-click adventure game developed
   by Finnish indie studio Prank Ltd. and published by Replay Games in 2013....'
 tags: [2010s, adventure, fester-mudd, sierra]
 ---
 # Fester Mudd: Curse of the Gold
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -244,7 +244,7 @@ Riot Pixels perhaps summarized it best: "Yep, we've already seen everything Fest
 ## References
 
 [^ref-2]: [Adventure Classic Gaming – Fester Mudd Review](http://www.adventureclassicgaming.com/index.php/site/reviews/794/) – developer, publisher, platform information
-[^ref-3]: [Adventure Gamers – Fester Mudd](https://adventuregamers.com/games/fester-mudd-curse-of-the-gold) – interface description, review score, Easter eggs
+[^ref-3]: Adventure Gamers – Fester Mudd *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – interface description, review score, Easter eggs
 [^ref-4]: [Cult of Mac – Fester Mudd Review](https://www.cultofmac.com/news/got-a-dollar-then-check-out-this-hilarious-game-fester-mudd-curse-of-the-gold-on-the-app-store) – iOS details, plot summary, pricing
 [^ref-5]: [Destructoid – Fester Mudd Review](https://www.destructoid.com/reviews/review-fester-mudd-curse-of-the-gold-episode-one/) – release date, Mandel collaboration, review score, technical details
 [^ref-6]: [PR Newswire – Fester Mudd Press Release](https://enmobile.prnasia.com/releases/global/-75982.shtml) – official announcement, Trowe quote, features list

@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Gobliiins", "The Bizarre Adventures of Woodruff and the Schnibble", "Gobliiins 5: The Morgloton Invasion"]
 companies: ["Coktel Vision", "Sierra", "Wizarbox", "Société Pollene"]
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Pierre Gilhodes
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -123,7 +123,7 @@ The ongoing development of new entries in the Gobliiins series demonstrates the 
 [^ref-2]: [Jeuxvideo.com Woodruff Retrospective](https://www.jeuxvideo.com/videos/chroniques/701013/retro-decouverte-woodruff-et-le-schnibble-d-azimuth.htm) — Description of his work as unique phenomenon in gaming and creator of Woodruff
 [^ref-3]: [Obligement Interview](http://obligement.free.fr/articles/itwgilhodes.php) — Information about his background in desktop publishing and drawing
 [^ref-4]: [Pierre Gilhodes itch.io Profile](https://itch.io/profile/pierre-gilhodes) — Current independent developer status and technical limitations
-[^ref-5]: [Adventure Gamers Company Profile](https://adventuregamers.com/companies/view/46478) — Career timeline and company associations
+[^ref-5]: [Adventure Gamers Company Profile](https://web.archive.org/web/20220814213146/https://adventuregamers.com/companies/view/46478) — Career timeline and company associations
 [^ref-6]: [MobyGames Pierre Gilhodes Profile](https://www.mobygames.com/person/10718/pierre-gilhodes/) — Complete game credits and career progression
 [^ref-7]: [Advgamer Blog Inca Introduction](https://advgamer.blogspot.com/2019/07/game-110-inca-1992-introduction.html) — Context of his work during the Coktel Vision/Sierra era
 [^ref-8]: [IMDb Filmography](https://www.imdb.com/name/nm1976367/) — Complete list of credited works and timeline

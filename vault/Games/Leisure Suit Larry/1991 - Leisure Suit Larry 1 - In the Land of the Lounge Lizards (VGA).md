@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI1
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Al Lowe]
 description: 'Leisure Suit Larry 1: In the Land of the Lounge Lizards VGA is a 1991
   remake of Sierra On-Line''s influential 1987 adult comedy adventure game, featuring
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra, two-guys]
 ---
 # Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -318,9 +318,9 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 
 [^ref-7]: [DOS Games Archive – Leisure Suit Larry 1](https://www.dosgamesarchive.com/download/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards/) – official game description
 
-[^ref-8]: [GameFAQs – Walkthrough by Tom Hayes](https://adventuregamers.com/walkthroughs/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards-vga) – game locations, structure
+[^ref-8]: GameFAQs – Walkthrough by Tom Hayes *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – game locations, structure
 
-[^ref-9]: [Adventure Gamers – Walkthrough](https://adventuregamers.com/walkthroughs/full/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards-vga) – gameplay mechanics, interface description
+[^ref-9]: Adventure Gamers – Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – gameplay mechanics, interface description
 
 [^ref-10]: [GameFAQs – Walkthrough by Michael Tyler](https://gamefaqs.gamespot.com/pc/917513-leisure-suit-larry-1-in-the-land-of-the-lounge-lizards/faqs/22837) – easter eggs, points, trivia
 

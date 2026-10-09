@@ -5,11 +5,11 @@ founded: 2012
 headquarters: "United States"
 parent_company: null
 predecessor_company: "Infamous Adventures"
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Infamous Quests
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -40,7 +40,7 @@ The studio successfully funded their debut game, *Quest for Infamy*, through Kic
 [^ref-3]: [Kickstarter - Quest for Infamy](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-the-adventure-game-to-end-all-adv) - Funding campaign
 [^ref-4]: [Steam - Quest for Infamy](https://store.steampowered.com/app/264560/Quest_for_Infamy/) - Game release
 [^ref-5]: [GOG - Quest for Infamy](https://www.gog.com/game/quest_for_infamy) - Digital distribution
-[^ref-6]: [Adventure Gamers - Quest for Infamy Review](https://adventuregamers.com/articles/view/26711) - Game review
+[^ref-6]: Adventure Gamers - Quest for Infamy Review *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* - Game review
 [^ref-7]: [Steam - Order of the Thorne: The King's Challenge](https://store.steampowered.com/app/339680/Order_of_the_Thorne_The_Kings_Challenge/) - Episodic adventure
 [^ref-8]: [MobyGames - Order of the Thorne](https://www.mobygames.com/game/76186/order-of-the-thorne-the-kings-challenge/) - Game entry
 [^ref-9]: [PC Gamer - Quest for Infamy](https://www.pcgamer.com/quest-for-infamy-review/) - Review

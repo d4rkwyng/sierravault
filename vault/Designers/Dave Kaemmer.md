@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Indianapolis 500", "NASCAR Racing", "Grand Prix Legends"]
 companies: ["Papyrus Design Group", "Sierra On-Line", "iRacing"]
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Dave Kaemmer
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -102,7 +102,7 @@ Professional drivers and racing industry figures have consistently praised Kaemm
 [^ref-7]: [B Sim Racing: Dave Kaemmer Coverage](https://www.bsimracing.com/tag/dave-kaemmer/) — Early computing influences
 [^ref-8]: [iRacing Paddock Book](https://www.booksamillion.com/p/iRacing-Paddock/Dave-Kaemmer/9781451546675) — Papyrus founding details
 [^ref-9]: [Podcast365: Dave Kaemmer Interview](https://podcast365.de/folgen/iracing-downshift/episode-5-the-dave-kaemmer-interview-lTRIZWzQVS) — Design vision and philosophy
-[^ref-10]: [Adventure Gamers: Dave Kaemmer Search](https://adventuregamers.com/search?query=Dave+Kaemmer) — Game development approach
+[^ref-10]: Adventure Gamers: Dave Kaemmer Search *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — Game development approach
 [^ref-11]: [Autoweek: How a book helped take iRacing to the next level](https://www.autoweek.com/racing/more-racing/a31737380/how-a-book-about-racetracks-helped-take-iracing-to-the-next-level/) — Design influences and methodology
 [^ref-12]: [Retro Gamer: Dave Kaemmer Coverage](https://www.retrogamer.net/?s=Dave+Kaemmer) — Sierra acquisition timeline
 [^ref-13]: [The Shop Magazine: iRacing acquires NASCAR Sprint Car developer](https://theshopmag.com/news/iracing-acquires-nascar-sprint-car-video-game-developer/) — Industry partnerships and acquisitions

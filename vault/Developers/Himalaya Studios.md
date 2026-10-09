@@ -7,11 +7,11 @@ headquarters: "Arizona, United States"
 notable_games: ["Al Emmo and the Lost Dutchman's Mine", "Mage's Initiation: Reign of the Elements"]
 parent_company: null
 related_companies: ["AGD Interactive"]
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Himalaya Studios
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -85,7 +85,7 @@ Through their dedication to preserving adventure game design principles while up
 [^ref-11]: [Giant Bomb Wiki - Companies/Himalaya Studios LLC](https://www.giantbomb.com/wiki/Companies/Himalaya_Studios_LLC) — Detailed company information
 [^ref-12]: [Wikidata - Himalaya Studios](https://www.wikidata.org/wiki/Q5764967) — Structured data about the company
 [^ref-13]: [Gust - Himalaya Studios Inc](https://gust.com/companies/himalaya_studios_inc) — Startup and business information
-[^ref-14]: [Adventure Gamers - First Game Announcement](https://adventuregamers.com/news/himalaya_studios_first_game_announced) — News coverage of early announcements
+[^ref-14]: Adventure Gamers - First Game Announcement *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — News coverage of early announcements
 [^ref-15]: [Reddit AMA - Development Team](https://www.reddit.com/r/IAmA/comments/1aeyg7/we_are_the_development_team_behind_the_kings/) — Developer insights and community interaction
 [^ref-16]: [Kickstarter - Mage's Initiation Updates](https://www.kickstarter.com/projects/2112639455/mages-initiation-a-classic-sierra-style-adventure/posts/2119058) — Development updates and backer communications
 [^ref-17]: [GamePressure - Himalaya Studios](https://www.gamepressure.com/companies/himalaya-studios/z08f2) — Company profile and game information

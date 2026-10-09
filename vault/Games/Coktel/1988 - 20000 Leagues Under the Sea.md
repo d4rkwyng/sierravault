@@ -10,7 +10,7 @@ series: None
 engine: Proprietary (Coktel Vision)
 protagonist: Professor Arronax
 sierra_lineage: Sierra Published
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 composer: ['René-Guy Tramis (original compositions), Johann Sebastian Bach (classical
     music)']
 description: 20,000 Leagues Under the Sea is a first-person adventure game developed
@@ -19,7 +19,7 @@ tags: [1980s, adventure, none, sierra]
 ---
 # 20,000 Leagues Under the Sea
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -243,7 +243,7 @@ The 1988 release also demonstrates the ongoing appeal of Verne's prescient visio
 
 ## References
 
-[^ref-1]: [Adventure Gamers – 20,000 Leagues Under the Sea](https://adventuregamers.com/games/view/16140) – release date, developer, publisher, gameplay perspective, themes
+[^ref-1]: [Adventure Gamers – 20,000 Leagues Under the Sea](https://web.archive.org/web/20231204203945/https://adventuregamers.com/games/view/16140) – release date, developer, publisher, gameplay perspective, themes
 [^ref-2]: [LaunchBox Games Database – 20,000 Leagues Under the Sea](https://gamesdb.launchbox-app.com/games/details/61083-20000-leagues-under-the-sea) – platform information, regional titles, gameplay description, story premise
 [^ref-3]: [Common Sense Media – Book Review](https://www.commonsensemedia.org/book-reviews/20000-leagues-under-the-sea) – Jules Verne translation statistics
 [^ref-4]: [MobyGames – 20,000 Leagues Under the Sea (1988)](https://www.mobygames.com/game/6396/20000-leagues-under-the-sea/) – technical specifications, credits, ratings, gameplay mechanics, real-time description

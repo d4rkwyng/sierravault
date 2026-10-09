@@ -11,14 +11,14 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-08'
+last_updated: '2026-10-09'
 description: 'Leisure Suit Larry: Wet Dreams Don''t Dry represents the ninth installment
   in the legendary Leisure Suit Larry series and marks the first proper return to...'
 tags: [2010s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Don't Dry
 
-<small style="color: gray">Last updated: October 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -152,7 +152,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-7]: [IMDb Trivia](https://www.imdb.com/title/tt9175418/trivia/) – - Al Lowe involvement details
 [^ref-8]: [MobyGames Credits](https://www.mobygames.com/game/116522/leisure-suit-larry-wet-dreams-dont-dry/credits/windows/) – - Design team credits
 [^ref-9]: [PC Gamer Article](https://www.pcgamer.com/watch-a-gameplay-trailer-for-leisure-suit-larry-wet-dreams-dont-dry/) – - Timber app mechanics
-[^ref-10]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/leisure-suit-larry-wet-dreams-dont-dry) – - Game structure overview
+[^ref-10]: Adventure Gamers Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – - Game structure overview
 [^ref-11]: [PlayStation Trophies Guide](https://www.playstationtrophies.org/game/leisure-suit-larry-wet-dreams-dont-dry-na/guide/) – - Point-and-click gameplay confirmation
 [^ref-12]: [GameFAQs Review](https://gamefaqs.gamespot.com/pc/239556-leisure-suit-larry-wet-dreams-dont-dry/reviews/169633) – - Interface and mechanics description
 [^ref-13]: [Screen Rant Review](https://screenrant.com/leisure-suit-larry-wet-dreams-dont-die-review/) – - Social media parody elements
@@ -182,7 +182,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-37]: [Steam Store Page](https://store.steampowered.com/app/765870/) – - Steam availability
 [^ref-38]: [TheXboxHub Console News](https://www.thexboxhub.com/wet-dreams-dont-dry-as-leisure-suit-larry-comes-to-xbox-one/) – - Console platform availability
 [^ref-39]: [Abandonware DOS Search](https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry) – - Abandonware availability check
-[^ref-40]: [Adventure Gamers Search](https://adventuregamers.com/search/?q=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry) – - Adventure gaming coverage
+[^ref-40]: Adventure Gamers Search *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – - Adventure gaming coverage
 [^ref-41]: [The Digital Antiquarian Search](https://www.filfre.net/?s=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry) – - Gaming history coverage
 [^ref-42]: [GameFAQs Lance Guide](https://gamefaqs.gamespot.com/ps4/261667-leisure-suit-larry-wet-dreams-dont-dry/faqs/79679/lance) – - Character-specific walkthrough
 [^ref-43]: [GameFAQs Xbox Review](https://gamefaqs.gamespot.com/xboxone/300734-leisure-suit-larry-wet-dreams-dont-dry/reviews/173859) – - Xbox One version assessment

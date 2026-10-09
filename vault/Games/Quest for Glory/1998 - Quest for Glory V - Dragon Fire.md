@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: Custom 3D
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 composer: [Chance Thomas]
 description: 'Quest for Glory V: Dragon Fire is the fifth and final game in the Quest
   for Glory series, developed by Yosemite Entertainment and published by Sierra FX
@@ -19,7 +19,7 @@ tags: [1990s, coles, quest-for-glory, rpg, sierra]
 ---
 # Quest for Glory V: Dragon Fire
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 Quest for Glory V: Dragon Fire is the fifth and final game in the Quest for Glory series, developed by Yosemite Entertainment and published by Sierra FX on December 8, 1998 for Windows[^ref-1][^ref-2][^ref-32].
@@ -203,7 +203,7 @@ This game has been included in the following collections:
 [^ref-3]: [MobyGames – Quest for Glory V: Dragon Fire](https://www.mobygames.com/game/174/quest-for-glory-v-dragon-fire/) – – credits, ratings, screenshots
 [^ref-4]: [Sierra Fandom Wiki – Quest for Glory V](https://sierra.fandom.com/wiki/Quest_for_Glory_V%3A_Dragon_Fire) – – detailed game information
 [^ref-5]: [PC Gamer – Saturday Crapshoot: Quest For Glory 4 1/2](http://www.pcgamer.com/saturday-crapshoot-quest-for-glory-4-12/) – – series retrospective
-[^ref-6]: [Adventure Gamers – Quest for Glory V](https://adventuregamers.com/games/quest-for-glory-v-dragon-fire) – – modern review, rating
+[^ref-6]: Adventure Gamers – Quest for Glory V *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – – modern review, rating
 [^ref-7]: [HowLongToBeat – Quest for Glory V](https://howlongtobeat.com/game/7482) – – completion times
 [^ref-8]: [GameFAQs – Quest for Glory V](https://gamefaqs.gamespot.com/pc/43361-quest-for-glory-v-dragon-fire) – – user reviews, guides
 [^ref-9]: [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) – – purchase, user reviews

@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Gob
 protagonist: Asgard, Ignatius, and Oups (Hooter, Dwayne, and BoBo in US)
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-07-13'
+last_updated: '2026-10-09'
 description: Gobliiins is a quirky point-and-click adventure/puzzle game developed
   by French studio Coktel Vision and released in 1991. Created by Pierre Gilhodes
   and...
@@ -18,7 +18,7 @@ tags: [1990s, coktel, gobliiins, puzzle, sierra]
 ---
 # Gobliiins
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -306,7 +306,7 @@ The Gobliiins series spans five main entries across three decades, each with a d
 [^ref-38]: [Kickstarter – GOBLiiiNS5](https://www.kickstarter.com/projects/pierregilhodes/gobliiins5-pc) – crowdfunding details
 [^ref-39]: [Gamer Walkthroughs – Gobliins 2](https://gamerwalkthroughs.com/gobliins-2/) – plot summary
 [^ref-40]: [Digital Spy – Gobliiins 4 Review](https://www.digitalspy.com/videogames/a152852/gobliiins-4-pc/) – development history
-[^ref-41]: [Adventure Gamers – Gobliiins 4](https://adventuregamers.com/article/gobliiins_4) – review quote
+[^ref-41]: Adventure Gamers – Gobliiins 4 *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – review quote
 [^ref-42]: [Steam – GOBLiiiNS5](https://store.steampowered.com/app/2475980/GOBLiiiNS5/) – game description, technical specs
 [^ref-43]: [Speedrun.com – Gobliiins](https://www.speedrun.com/gobliiins) – speedrunning community
 [^ref-44]: [Virtual Moose – Gobliiins Guide](https://virtualmoose.org/2023/06/02/an-intro-guide-to-gobliiins/) – series overview, recommendations

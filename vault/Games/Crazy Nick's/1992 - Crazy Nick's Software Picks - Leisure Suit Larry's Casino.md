@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI1.1
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'Crazy Nick''s Software Picks: Leisure Suit Larry''s Casino is a budget
   gambling title released by Sierra On-Line on June 5, 1992 for MS-DOS. The game was
   part...'
@@ -18,7 +18,7 @@ tags: [1990s, leisure-suit-larry, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Leisure Suit Larry's Casino
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -279,7 +279,7 @@ From a preservation standpoint, the title remains notable as one of five budget 
 
 [^ref-16]: [MobyGames – Leisure Suit Larry's Casino (1998)](https://www.mobygames.com/game/1707/leisure-suit-larrys-casino/) – distinct 1998 Windows release information
 
-[^ref-17]: [Adventure Gamers – Leisure Suit Larry VGA Walkthrough](https://adventuregamers.com/walkthroughs/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards-vga) – VGA remake background information
+[^ref-17]: Adventure Gamers – Leisure Suit Larry VGA Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – VGA remake background information
 
 [^ref-18]: [MobyGames – Leisure Suit Larry 6: Shape Up or Slip Out!](https://www.mobygames.com/game/407/leisure-suit-larry-6-shape-up-or-slip-out/) – subsequent series entry information
 

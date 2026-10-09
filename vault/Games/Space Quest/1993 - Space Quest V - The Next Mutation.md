@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI1.1
 protagonist: Roger Wilco
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: 'Space Quest V: Roger Wilco – The Next Mutation is a graphic adventure
   game developed by Dynamix and published by Sierra On-Line, released on February
   5,...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, dynamix, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest V: The Next Mutation
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 Space Quest V: Roger Wilco – The Next Mutation is a graphic adventure game developed by [[Dynamix]] and published by [[Sierra On-Line]], released on February 5, 1993 for MS-DOS[^ref-5][^ref-18].
@@ -242,7 +242,7 @@ This game has been included in the following collections:
 - [SpaceQuest.net – SQ5 Cameos](https://spacequest.net/sq5/cameos/) – character appearances, references[^ref-29]
 - [SpaceQuest.net – SQ5 Plot Inconsistencies](https://spacequest.net/sq5/plotinconsis/) – continuity notes[^ref-30]
 - [Guys From Andromeda – SQ5 Screenshot Walkthrough](http://guysfromandromeda.com/wp-content/uploads/2024/09/SQ5-Pics.zip) – visual walkthrough (ZIP)
-- [Adventure Gamers – Space Quest V](https://adventuregamers.com/games/space-quest-v-the-next-mutation) – review, walkthrough[^ref-31]
+- Adventure Gamers – Space Quest V – review, walkthrough[^ref-31]
 
 ## See Also
 
@@ -284,5 +284,5 @@ This game has been included in the following collections:
 [^ref-28]: [SpaceQuest.net – SQ5 Fun Facts](https://spacequest.net/sq5/funfacts/) – Mark Crowe quotes on SQ4 stress and Dynamix move, Josh Mandel's earlier SQ5 design, Ken Williams SCI mandate, Sean Murphy CD-ROM cancellation quote
 [^ref-29]: [SpaceQuest.net – SQ5 Cameos](https://spacequest.net/sq5/cameos/) – Worf/Woof parody, guards playing Missile Command and Asteroids, SQ3 Skull Fighter, Enterprise engine, Flash Gordon and Einstein on grade master
 [^ref-30]: [SpaceQuest.net – SQ5 Plot Inconsistencies](https://spacequest.net/sq5/plotinconsis/) – Magazine contradictions, StarCon Crest design issue, Cliffy spacesuit plot hole, shield inconsistencies, garbage collection paradox
-[^ref-31]: [Adventure Gamers – Space Quest V](https://adventuregamers.com/games/space-quest-v-the-next-mutation) – "Very good" rating, "best story and characters," 6-8 hours completion, "one of the worst mazes ever," improved VGA graphics
+[^ref-31]: Adventure Gamers – Space Quest V *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – "Very good" rating, "best story and characters," 6-8 hours completion, "one of the worst mazes ever," improved VGA graphics
 [^ref-32]: [DOS.Zone – Space Quest V](https://dos.zone/space-quest-v-the-next-mutation/) – play in browser

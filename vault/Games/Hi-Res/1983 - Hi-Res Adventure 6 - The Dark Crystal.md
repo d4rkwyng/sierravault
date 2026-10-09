@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Jen
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'Hi-Res Adventure #6: The Dark Crystal stands as a landmark achievement
   in early adventure gaming and film adaptation, representing Sierra On-Line''s...'
 tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #6: The Dark Crystal
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -163,7 +163,7 @@ A tabletop RPG version was also released by River Horse Games in 2022[^ref-23], 
 
 ## References
 
-[^ref-1]: [Adventure Gamers - The Dark Crystal](https://adventuregamers.com/games/view/34905) – - Game title, developer, designer, publisher information and story description
+[^ref-1]: [Adventure Gamers - The Dark Crystal](https://web.archive.org/web/20231203120126/https://adventuregamers.com/games/view/34905) – - Game title, developer, designer, publisher information and story description
 [^ref-2]: [Alex Bevilacqua Blog - The Dark Crystal Review](https://alexbevi.com/blog/2023/12/08/the-dark-crystal/) – - Technical details, ADL engine information, review score, and development insights
 [^ref-3]: [Internet Archive - Hi-Res Adventure #6](https://archive.org/details/cssa8d_Hi_Res_Adventure_6_The_Dark_Crystal_1984_SierraVenture_US) – - Atari 8-bit preservation, copy protection details, technical specifications
 [^ref-4]: [Blue Renga Blog - Development History](https://bluerenga.blog/2025/07/01/the-dark-crystal-1983/) – - Roberta Williams quotes, Henson collaboration details, development history

@@ -8,12 +8,12 @@ last_release: 2014
 total_games: 4
 unreleased_games: 1
 genre: "Adventure, Horror"
-last_updated: "2026-05-13"
+last_updated: '2026-10-09'
 ---
 
 # Gabriel Knight Series
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -181,7 +181,7 @@ Jensen has been actively working on a fourth Gabriel Knight game titled "Five He
 
 [^ref-1]: [MyAbandonware - Gabriel Knight](https://www.myabandonware.com/game/gabriel-knight-sins-of-the-fathers-22m) – HOTUD review quote on literary quality
 [^ref-2]: [Wikipedia - Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight%3A_Sins_of_the_Fathers) – Series overview and Schattenjäger concept
-[^ref-3]: [Adventure Gamers - Gabriel Knight Review](https://adventuregamers.com/games/view/15492) – Critical acclaim assessment
+[^ref-3]: [Adventure Gamers - Gabriel Knight Review](https://web.archive.org/web/20240527150445/https://adventuregamers.com/games/view/15492) – Critical acclaim assessment
 [^ref-4]: [Only Solitaire - Gabriel Knight Review](https://onlysolitaire.substack.com/p/game-review-gabriel-knight-sins-of) – CGW award "double billing" quote
 [^ref-5]: [Wikipedia - Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight%3A_Sins_of_the_Fathers) – Ken Williams creative freedom quote
 [^ref-6]: [The Digital Antiquarian - Gabriel Knight](https://www.filfre.net/?s=Gabriel+Knight%3A+Sins+of+the+Fathers) – Ken Williams "something happier" quote

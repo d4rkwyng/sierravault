@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI0
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 composer: [Mark Seibert]
 description: 'Quest for Glory II: Trial by Fire is a 1990 adventure/role-playing game
   developed and published by Sierra On-Line for MS-DOS and Amiga. Designed by Lori
@@ -19,7 +19,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory II: Trial by Fire
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 Quest for Glory II: Trial by Fire is a 1990 adventure/role-playing game developed and published by [[Sierra On-Line]] for MS-DOS and Amiga[^ref-1][^ref-2].
@@ -183,7 +183,7 @@ This game has been included in the following collections:
 [^ref-6]: [My Abandonware – Quest for Glory II](https://www.myabandonware.com/game/quest-for-glory-ii-trial-by-fire-12j) – – platforms, availability
 [^ref-7]: [GameFAQs – Quest for Glory II](https://gamefaqs.gamespot.com/pc/562671-quest-for-glory-ii-trial-by-fire) – – user reviews, guides
 [^ref-8]: [RPGamer – Quest for Glory II Review](https://rpgamer.com/review/quest-for-glory-ii-trial-by-fire/) – – modern review
-[^ref-9]: [Adventure Gamers – Quest for Glory II](https://adventuregamers.com/games/quest-for-glory-ii-trial-by-fire) – – modern review
+[^ref-9]: Adventure Gamers – Quest for Glory II *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – – modern review
 [^ref-10]: [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) – – purchase, user reviews
 [^ref-11]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750) – – purchase, user reviews
 [^ref-12]: [HowLongToBeat – Quest for Glory II](https://howlongtobeat.com/game/7480) – – completion times

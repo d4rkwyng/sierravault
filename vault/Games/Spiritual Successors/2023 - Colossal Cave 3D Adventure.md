@@ -12,7 +12,7 @@ series: Standalone
 engine: Unity
 protagonist: Unnamed Adventurer
 sierra_lineage: Spiritual Successor
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: Colossal Cave 3D Adventure is a fully immersive 3D and VR reimagining
   of the seminal 1976 text adventure game created by William Crowther and Don Woods,
   developed by Cygnus Entertainment and designed by Sierra founders Ken and Roberta Williams.
@@ -20,7 +20,7 @@ tags: [2020s, adventure, roberta-williams, sierra, standalone]
 ---
 # Colossal Cave 3D Adventure
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 
 ## Overview
@@ -275,7 +275,7 @@ The result is a game that functions as a playable museum piece, offering younger
 ## References
 
 [^ref-1]: [Colossal Cave 3D – Official News Archive](https://colossalcave3d.com/news/) – development background, release dates, Williams quotes
-[^ref-2]: [Adventure Gamers – Colossal Cave 3D Review](https://adventuregamers.com/games/colossal-cave-3d) – review score, gameplay analysis, platforms
+[^ref-2]: Adventure Gamers – Colossal Cave 3D Review *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – review score, gameplay analysis, platforms
 [^ref-3]: [80 Level – Sierra Founders Remaking Colossal Cave](https://80.lv/articles/sierra-founders-are-remaking-colossal-cave-adventure-for-pc-and-vr) – development origins, Unity engine, Ken Williams quotes
 [^ref-4]: [Wikipedia – Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) – original game history, technical specifications, cultural impact
 [^ref-5]: [Colossal Cave 3D – Official Website](http://colossalcave3d.com/) – user testimonials, gameplay features, language support

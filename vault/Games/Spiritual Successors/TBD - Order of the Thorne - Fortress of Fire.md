@@ -10,14 +10,14 @@ series: Order of the Thorne
 engine: Adventure Game Studio
 protagonist: Patrick (Addy)
 sierra_lineage: Fan Project
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: '**Order of the Thorne: Fortress of Fire** is an unreleased point-and-click
   adventure game developed by Infamous Quests, intended as the second and likely...'
 tags: [adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: Fortress of Fire
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -206,7 +206,7 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 
 ## References
 
-[^ref-1]: [Adventure Gamers – Order of the Thorne: Fortress of Fire](https://adventuregamers.com/games/order-of-the-thorne-fortress-of-fire) – game description, genre, platform, series info
+[^ref-1]: Adventure Gamers – Order of the Thorne: Fortress of Fire *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – game description, genre, platform, series info
 [^ref-2]: Web Search Aggregate – Kickstarter funding details, development plans, story overview
 [^ref-3]: [itch.io – Fortress of Fire](https://infamousquests.itch.io/ootf-fortress-of-fire) – game description, gameplay features, development status updates
 [^ref-4]: [King's Quest Omnipedia – Fortress of Fire](https://kingsquest.fandom.com/wiki/The_Order_of_the_Thorne:_The_Fortress_of_Fire) – protagonist Patrick, Sir Caradoc, plot summary
@@ -217,11 +217,11 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 [^ref-9]: [itch.io – Sierra Style Adventures Collection](https://itch.io/c/1738056/sierra-style-adventures) – genre categorization
 [^ref-10]: [Metacritic – The King's Challenge](https://www.metacritic.com/game/the-order-of-the-thorne-the-kings-challenge/) – review scores, critic aggregates, user ratings
 [^ref-11]: [Steam – The King's Challenge](https://store.steampowered.com/app/425600/The_Order_of_the_Thorne__The_Kings_Challenge/) – release date, user reviews, publisher info
-[^ref-12]: [Adventure Gamers – The King's Challenge Review](https://adventuregamers.com/games/order-of-the-thorne-the-kings-challenge) – anthology series description, Golden Age comparison
+[^ref-12]: [Adventure Gamers – The King's Challenge Review](https://web.archive.org/web/20250626184147/https://adventuregamers.com/games/order-of-the-thorne-the-kings-challenge) – anthology series description, Golden Age comparison
 [^ref-13]: [Cliqist – The King's Challenge Review](http://cliqist.com/2016/02/02/order-of-the-thorne-the-kings-challenge-plays-a-wonderful-melody/) – series background, Kickstarter history, gameplay praise
 [^ref-14]: [RPG Codex – Order of the Thorne Discussion](https://mail.rpgcodex.net/forums/goto/post?id=4646798) – developer interaction, fan reception
 [^ref-15]: [King's Quest Omnipedia – King's Quest Style Games](https://kingsquest.fandom.com/wiki/King%27s_Quest_Style_Games) – series categorization among Sierra-inspired games
 [^ref-16]: [Steam Community – The King's Challenge Hub](https://steamcommunity.com/app/425600) – community discussion, bug reports
 [^ref-17]: [Kickstarter – Quest for Infamy Campaign](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que/posts) – company history, campaign success
-[^ref-18]: [Adventure Gamers – 2D/2.5D Games Archive](https://web.archive.org/web/*/https://adventuregamers.com/presentation/2d-or-2-5d/page/82) – presentation style categorization
+[^ref-18]: Adventure Gamers – 2D/2.5D Games Archive *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – presentation style categorization
 [^ref-19]: [Infamous Quests Patreon — "Hospital stays etc." (April 4, 2026)](https://www.patreon.com/posts/hospital-stays-154760603) — Steven Alexander confirms studio-time booked for *Roehm to Ruin* voice recording in May 2026, placing *Fortress of Fire* queued behind it; notes ongoing behind-the-scenes asset work during his hospitalization

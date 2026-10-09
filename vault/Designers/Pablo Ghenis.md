@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Quest for Glory II", "Space Quest IV"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Pablo Ghenis
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -85,7 +85,7 @@ His 60 credits across 22 games reflects not the limitations of his contributions
 
 [^ref-1]: [MobyGames - Pablo Ghenis](https://www.mobygames.com/person/2786/pablo-ghenis/) — Complete credits listing (60 credits on 22 games)
 [^ref-2]: [Sierra Entertainment History](https://www.sierrachest.com/) — Sierra development team structure
-[^ref-3]: [Corey Cole Interview - SCI Engine](https://web.archive.org/web/*/https://www.adventuregamers.com/articles/view/corey-cole) — SCI development team information
+[^ref-3]: Corey Cole Interview - SCI Engine *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* — SCI development team information
 [^ref-4]: [MobyGames - SCI Games](https://www.mobygames.com/group/148/games-using-sci/) — Games using Sierra's SCI engine
 [^ref-5]: [MobyGames - Codename: Iceman Credits](https://www.mobygames.com/game/436/code-name-iceman/) — Iceman programming credits
 [^ref-6]: [MobyGames - LSL2 Credits](https://www.mobygames.com/game/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places/) — LSL2 additional design credit

@@ -10,7 +10,7 @@ series: Ween
 engine: C Code
 protagonist: Djel
 sierra_lineage: Sierra Published
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: Legend of Djel is a fantasy adventure game released in 1989 by French
   developer Coktel Vision and published by Tomahawk, a sister company launched in
   early...
@@ -18,7 +18,7 @@ tags: [1980s, adventure, sierra, ween]
 ---
 # Legend of Djel
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -153,7 +153,7 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 ## References
 
 [^ref-1]: [AbandonwareDOS - Legend of Djel](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Legend+of+Djel&gid=1574) - Game listing and download
-[^ref-2]: [Adventure Gamers - Coktel Vision](https://web.archive.org/web/*/https://adventuregamers.com/companies/view/50) - Developer profile including Legend of Djel
+[^ref-2]: Adventure Gamers - Coktel Vision *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* - Developer profile including Legend of Djel
 [^ref-3]: [Adventures Index Blog](http://adventures-index10.blogspot.com/2008/03/legend-of-djel-tomahawk-1989-home.html) - Basic game information and plot description
 [^ref-4]: [The Adventurers' Guild](https://advgamer.blogspot.com/2016/12/missed-classic-legend-of-djel-won-with.html) - Retrospective review with detailed scoring breakdown
 [^ref-5]: [The Adventurers' Guild](https://advgamer.blogspot.com/2016/12/missed-classic-33-geisha-1990.html) - Review providing gameplay context and development background

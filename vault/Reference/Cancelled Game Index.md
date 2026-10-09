@@ -1,14 +1,14 @@
 ---
 title: "Cancelled Game Index"
 type: reference
-last_updated: "2026-07-13"
+last_updated: '2026-10-09'
 description: "Every game in the SierraVault Cancelled folder, with cancellation date, lead designer, what made it interesting, and what's recoverable today (playable builds, screenshots, design documents)."
 tags: [reference, cancelled, never-released]
 ---
 
 # Cancelled Game Index
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -142,6 +142,6 @@ A fourth, smaller pattern: licensed-property cancellations where rights issues k
 [^ref-5]: [MobyGames — Sierra company cancellation entries](https://www.mobygames.com/company/3/sierra-entertainment-inc/) — Cross-reference for documentation
 [^ref-6]: [Ken Williams' memoir](https://www.amazon.com/Not-All-Fairy-Tales-Endings/dp/B086BPDYRX) — Primary source on the CUC-era project cancellations
 [^ref-7]: [Halcyon Days — Warren Schwader Interview](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) — Mentions cancellation patterns under CUC
-[^ref-8]: [Adventure Gamers — Cancellation retrospectives](https://adventuregamers.com) — Various Adventure Gamers cancellation articles (Cloudflare-protected; view in browser)
+[^ref-8]: [Adventure Gamers — Cancellation retrospectives](https://web.archive.org/web/20250630235200/https://adventuregamers.com/) — Various Adventure Gamers cancellation articles (Cloudflare-protected; view in browser)
 [^ref-9]: [Polygon — Babylon 5: Into the Fire cancellation](https://www.polygon.com/babylon-5-game-cancellation) — Modern retrospective
 [^ref-10]: [Kickstarter — Precinct campaign](https://www.kickstarter.com/projects/jimwalls/precinct) — Failed funding campaign documentation

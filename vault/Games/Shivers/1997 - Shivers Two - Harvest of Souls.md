@@ -10,14 +10,14 @@ series: Shivers
 engine: Vision 360
 protagonist: Trip Cyclone band member (unnamed)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: 'Shivers Two: Harvest of Souls is a horror adventure game developed and
   published by Sierra On-Line in 1997. Set in the mysterious desert town of Cyclone,...'
 tags: [1990s, adventure, shivers, sierra]
 ---
 # Shivers Two: Harvest of Souls
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -147,7 +147,7 @@ Despite technical obsolescence, the game continues to attract interest from retr
 
 [^ref-1]: [Adventure Classic Gaming Review](http://www.adventureclassicgaming.com/index.php/site/reviews/12/&lang=en) – - Developer, publisher, platform, and release date information
 [^ref-2]: [Internet Archive - Full Game](https://archive.org/details/shiverstwoharvestofsoulsusa) – - Plot summary and game description
-[^ref-3]: [Adventure Gamers Review](https://adventuregamers.com/games/view/15605) – - Gameplay mechanics, technical specifications, and critical assessment
+[^ref-3]: [Adventure Gamers Review](https://web.archive.org/web/20240529064336/https://adventuregamers.com/games/view/15605) – - Gameplay mechanics, technical specifications, and critical assessment
 [^ref-4]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/198631-shivers-two-harvest-of-souls/faqs/14212) – - Core gameplay mechanics and cultural themes
 [^ref-5]: [Adventure Classic Gaming Review (Alternative)](http://www.adventureclassicgaming.com/index.php/site/reviews/12/) – - Engine details, system requirements, and reviewer quotes
 [^ref-6]: [AbeBooks Strategy Guide](https://www.abebooks.com/9780761510727/Shivers-Harvest-Souls-Strategy-Guide-0761510729/plp) – - Strategy guide features and music video clues

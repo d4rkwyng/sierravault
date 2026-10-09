@@ -10,14 +10,14 @@ series: Mixed-Up
 engine: SCI0
 protagonist: Player-chosen child character
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
+last_updated: '2026-10-09'
 description: Mixed-Up Mother Goose (SCI Remake), released in 1990, stands as Sierra
  On-Line's enhanced remake of their beloved children's adventure game originally...
 tags: [1990s, adventure, educational, mixed-up, roberta-williams, sci, sierra]
 ---
 # Mixed-Up Mother Goose
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -129,8 +129,8 @@ The Mixed-Up series represents Sierra's notable effort in educational adventure 
 ## References
 
 [^ref-1]: [AbandonwareDOS Search Results](https://www.abandonwaredos.com/search.php?search=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Basic search listing
-[^ref-2]: [Adventure Gamers - SCI Remake Entry](https://adventuregamers.com/games/roberta-williams-mixed-up-mother-goose-sci-remake) - Game database information and description
-[^ref-3]: [Adventure Gamers - Database Entry](https://adventuregamers.com/games/view/36614) - Additional game metadata and description
+[^ref-2]: Adventure Gamers - SCI Remake Entry *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* - Game database information and description
+[^ref-3]: [Adventure Gamers - Database Entry](https://web.archive.org/web/20231130082512/https://adventuregamers.com/games/view/36614) - Additional game metadata and description
 [^ref-4]: [AdvGamer Blog - Pepper's Adventures Analysis](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) - Sierra Discovery Series context and development information
 [^ref-5]: [Internet Archive - MS-DOS 1991 Version](https://archive.org/details/msdos_Mixed-Up_Mother_Goose_1991) - Game preservation with metadata and gameplay description
 [^ref-6]: [Museum of Play Archives - Sierra On-Line Collection](https://archives.museumofplay.org/repositories/3/resources/18) - Historical documentation of Sierra's game catalog

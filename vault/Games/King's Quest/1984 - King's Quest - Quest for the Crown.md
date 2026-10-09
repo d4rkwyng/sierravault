@@ -11,7 +11,7 @@ series: King's Quest
 engine: AGI
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'King''s Quest: Quest for the Crown is a landmark adventure game that
   pioneered the animated graphic adventure genre and established Sierra On-Line as
   the...'
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest: Quest for the Crown
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -289,7 +289,7 @@ This game has been included in[^ref-8][^ref-9]:
 [^ref-18]: [KQ Omnipedia – KQ1AGI Development](https://kingsquest.fandom.com/wiki/KQ1AGI_development) – – COMPUTE! Oct 1984 Williams quote, Tandy 1000, chiclet keyboard
 [^ref-19]: [Electronic Gaming Monthly – Issue 3, 1989](https://archive.org/details/Electronic_Gaming_Monthly_03/page/n11) – – Sega Master System 6/10 average
 [^ref-20]: [TIME – All-TIME 100 Video Games](https://techland.time.com/2012/11/15/all-time-100-video-games/slide/kings-quest-1984/) – – Recognition, Sierra legacy, graphics praise
-[^ref-21]: [Adventure Gamers – King's Quest](https://adventuregamers.com/games/kings-quest-quest-for-the-crown) – – #10 Top 20 All-Time, 3/5 review, 1990 remake features
+[^ref-21]: [Adventure Gamers – King's Quest](https://web.archive.org/web/20250613164940/https://adventuregamers.com/games/kings-quest-quest-for-the-crown) – – #10 Top 20 All-Time, 3/5 review, 1990 remake features
 [^ref-22]: [RetroFreak Reviews – King's Quest I](https://retrofreakreviews.com/2017/02/01/kings-quest-i-review/) – – Modern criticism, colorization comparison
 [^ref-23]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) – – Purchase, 4.1/5 user rating
 [^ref-24]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100) – – Purchase, Very Positive (87%)

@@ -10,14 +10,14 @@ series: Gabriel Knight
 engine: G-Engine
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: 'Gabriel Knight 3: Blood of the Sacred, Blood of the Damned is the third
   and final installment in Jane Jensen''s acclaimed Gabriel Knight adventure series,...'
 tags: [1990s, adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight 3: Blood of the Sacred, Blood of the Damned
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -144,7 +144,7 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 ## References
 
 
-[^ref-3]: https://adventuregamers.com/walkthroughs/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned - Third-party walkthrough guide with gameplay information
+[^ref-3]: Adventure Gamers *(page lost after the site's 2025 sale, no archived copy)* - Third-party walkthrough guide with gameplay information
 [^ref-7]: https://archive.org/details/gk-31 - Internet Archive preservation page with game ISOs and manual images
 [^ref-9]: https://www.behindthevoiceactors.com/video-games/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/ - Voice acting database with official cast credits
 [^ref-10]: http://bonny.ploeg.ws/gk3secret.html - Analysis of cut content and unused assets through game file extraction

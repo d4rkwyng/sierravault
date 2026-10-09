@@ -10,7 +10,7 @@ series: Space Quest
 engine: Adventure Game Studio
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-05-27'
+last_updated: '2026-10-09'
 description: 'Space Quest: Vohaul Strikes Back is a non-commercial fan-made sequel
   to Sierra On-Line''s beloved Space Quest series, developed by a volunteer team known
   as...'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, sierra, space-quest]
 ---
 # Space Quest: Vohaul Strikes Back
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -312,7 +312,7 @@ The developers describe the game as combining elements of "SQ5 and 6" in its vis
 [^ref-11]: [Adventure Gamers – Freeware Roundup (Archived)](https://web.archive.org/web/20130121021414/http://www.adventuregamers.com/articles/view/18650) – Steve Brown review, visual analysis, story setup
 [^ref-12]: [TV Tropes – Space Quest: Vohaul Strikes Back](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestVohaulStrikesBack) – plot details, trope analysis, Star Wars reference
 [^ref-13]: [Adventurespel.nl – Walkthrough](https://www.adventurespel.nl/games/walk/spquest.htm) – story background, gameplay details, hamster wheel trivia
-[^ref-14]: [Adventure Gamers – Game Database](https://adventuregamers.com/games/view/16272) – genre classification, presentation style, plot summary
+[^ref-14]: [Adventure Gamers – Game Database](https://web.archive.org/web/20240309041820/https://adventuregamers.com/games/view/16272) – genre classification, presentation style, plot summary
 [^ref-15]: [MobyGames – Space Quest: Vohaul Strikes Back](https://www.mobygames.com/game/97968/space-quest-vohaul-strikes-back/) – credits, ratings, voice pack status
 [^ref-10]: [Sierra Chest – Music Tracks](https://sierrachest.com/index.php?a=games&id=426&title=space-quest-vohaul-strikes-back&fld=music) – complete soundtrack listing, location names
 [^ref-18]: [Just Adventure – Fan Games Review (Archived)](http://web.archive.org/web/20120318231725/http://justadventure.com/article/99/reviews-roger-these-two-space-quest-fan-made-games-the-sequel) – Greg Collins review, score, technical issues

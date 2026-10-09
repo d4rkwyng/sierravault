@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Stronghold", "Caesar III", "Lords of the Realm II", "CivCity: Rome"]
 companies: ["Firefly Studios", "Impressions Games", "Sierra On-Line", "Tynesoft"]
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Simon Bradbury
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -157,5 +157,5 @@ With Firefly Studios now part of Devolver Digital and the Stronghold franchise e
 [^ref-26]: [LinkedIn - Firefly Studios](https://www.linkedin.com/company/firefly-studios-limited) — Company profile and industry impact
 [^ref-27]: [Retro Gamer Coverage](https://www.retrogamer.net/) — Historical perspective on classic strategy games
 [^ref-28]: [Steam Community - Stronghold](https://steamcommunity.com/app/40950) — Active player community and modding scene
-[^ref-29]: [Adventure Gamers](https://adventuregamers.com/) — Industry coverage and developer profiles
+[^ref-29]: [Adventure Gamers](https://web.archive.org/web/20250630235200/https://adventuregamers.com/) — Industry coverage and developer profiles
 [^ref-30]: [PocketGamer.biz - Simon Bradbury](https://pocketgamer.biz/people/1292/simon-bradbury) — Industry profile and career evolution

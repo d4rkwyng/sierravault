@@ -5,11 +5,11 @@ birth_year: 1951
 death_year: null
 notable_games: ["King's Quest IV", "Space Quest III", "Manhunter: New York", "Ringworld: Revenge of the Patriarch", "Blue Force"]
 companies: ["Sierra On-Line", "Tsunami Media", "Triton Interactive", "Legend Entertainment", "Legacy Software"]
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Bob Heitman
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -152,7 +152,7 @@ Corey Cole, who worked under Heitman at Sierra before hiring him for Shannara, d
 [^ref-7]: [Edenwaith - Reverse Engineering AGI](https://www.edenwaith.com/blog/index.php?p=87) — AGI development credits and technical analysis
 [^ref-8]: [MobyGames - SCI Engine](https://www.mobygames.com/group/6528/game-engine-sierras-creative-interpreter-sci/) — SCI engine history and first game
 [^ref-9]: [Adventure Classic Gaming - Corey Cole Interview](https://advgamer.blogspot.com/2018/07/interview-with-corey-cole.html) — Bob Heitman as programming manager, Shannara collaboration
-[^ref-10]: [Adventure Gamers - Conquests of the Longbow Excerpt](https://adventuregamers.com/article/conquests-of-the-longbow-an-excerpt-from-the-sierra-adventure-the-story-of) — Heitman's production management at Sierra
+[^ref-10]: [Adventure Gamers - Conquests of the Longbow Excerpt](https://web.archive.org/web/20250625012514/https://adventuregamers.com/article/conquests-of-the-longbow-an-excerpt-from-the-sierra-adventure-the-story-of) — Heitman's production management at Sierra
 [^ref-11]: [MobyGames - Ringworld: Revenge of the Patriarch](https://www.mobygames.com/game/4027/ringworld-revenge-of-the-patriarch/) — Game designer credit
 [^ref-12]: [ScummVM Wiki - TsAGE Games](https://wiki.scummvm.org/index.php/Category:TsAGE_Games) — Complete list of TsAGE engine games
 [^ref-13]: [MobyGames - Star Trek: Judgment Rites](https://www.mobygames.com/game/482/star-trek-judgment-rites/) — Additional system programmer credit

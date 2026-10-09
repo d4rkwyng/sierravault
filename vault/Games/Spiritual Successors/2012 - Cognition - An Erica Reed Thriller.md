@@ -10,7 +10,7 @@ series: Cognition
 engine: Unity
 protagonist: Erica Reed
 sierra_lineage: Alumni Project
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 composer: ['The atmospheric music was composed by Austin Haynes, Matthew Florianz,
     and Robert Holmes.']
 description: '**Cognition: An Erica Reed Thriller** is a four-part episodic point-and-click
@@ -19,7 +19,7 @@ tags: [2010s, adventure, cognition, jane-jensen, sierra]
 ---
 # Cognition: An Erica Reed Thriller
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -240,7 +240,7 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 [^ref-15]: [Steam Community Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=252409615) - Episode release dates, César Bittar roles
 [^ref-17]: [Softonic Review](https://cognition-an-erica-reed-thriller-episode-1-the-hangman.en.softonic.com/) - Softonic rating and description
 [^ref-18]: [1000 Guías Blogspot](https://1000guias.blogspot.com/) - Spanish walkthrough with ability description
-[^ref-19]: [Adventure Gamers](https://adventuregamers.com/games/view/15706) - Review score and series potential quote
+[^ref-19]: [Adventure Gamers](https://web.archive.org/web/20240521163557/https://adventuregamers.com/games/view/15706) - Review score and series potential quote
 [^ref-20]: [IMDb Episode Ratings](https://m.imdb.com/name/nm4817490/?ref_=m_tt_mv) - Episode ratings breakdown
 [^ref-21]: [MobyGames GOTY Edition](https://www.mobygames.com/game/68533/cognition-game-of-the-year-edition/) - Critics rating, bonus content
 [^ref-22]: [Steam Community Discussions](https://steamcommunity.com/app/242780/discussions/) - Technical issues reported

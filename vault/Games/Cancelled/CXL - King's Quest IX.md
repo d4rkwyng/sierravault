@@ -11,14 +11,14 @@ series: King's Quest
 engine: Various (cancelled before completion)
 protagonist: [Alexander, Rosella]
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: '"King''s Quest IX" is an umbrella term for **multiple cancelled attempts**
   to continue Sierra''s flagship adventure game series following King''s Quest VIII:...'
 tags: [adventure, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest IX (Cancelled)
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 
 ## Overview
@@ -280,7 +280,7 @@ Much of what is known about these cancelled projects comes from fan community ef
 [^ref-6]: [IGN – King's Quest: A Knight to Remember Release Date Announced](https://www.ign.com/articles/2015/06/30/kings-quest-a-knight-to-remember-release-date-announced) – 2015 reboot announcement
 [^ref-7]: [King's Quest Omnipedia – Roberta Williams](https://kingsquest.fandom.com/wiki/Roberta_Williams) – career history, departure from Sierra, non-compete agreement
 [^ref-8]: [Wikipedia – King's Quest (2015 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)) – 2015 reboot, not considered KQ9
-[^ref-9]: [Adventure Gamers – King's Quest Coverage](https://adventuregamers.com/search/?q=King%27s+Quest+IX) – King's Quest franchise history
+[^ref-9]: Adventure Gamers – King's Quest Coverage *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – King's Quest franchise history
 [^ref-10]: [Game Informer – Sierra's New King's Quest Won't Be Point-and-Click](https://www.gameinformer.com/b/news/archive/2014/08/16/sierra-s-new-king-s-quest-won-t-be-a-point-and-click-adventure.aspx) – 2015 reboot genre shift
 [^ref-11]: [Polygon – King's Quest Review](https://www.polygon.com/2015/7/28/9035975/kings-quest-review-chapter-1-xbox-one-ps4-pc) – 2015 reboot reception
 [^ref-12]: [MobyGames – King's Quest Series](https://www.mobygames.com/game/group:58/king-s-quest-series/) – series catalog, release history

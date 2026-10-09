@@ -12,14 +12,14 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-08'
+last_updated: '2026-10-09'
 description: 'Leisure Suit Larry: Wet Dreams Dry Twice is a 2020 point-and-click adventure
   game developed by German studio CrazyBunch and published by Assemble...'
 tags: [2020s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Dry Twice
 
-<small style="color: gray">Last updated: October 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -148,7 +148,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 
 ## References
 
-[^ref-3]: [Adventure Gamers Review](https://adventuregamers.com/article/leisure-suit-larry-wet-dreams-dry-twice) – - Detailed review with 4.5/5 stars rating and gameplay analysis
+[^ref-3]: [Adventure Gamers Review](https://web.archive.org/web/20250613164919/https://adventuregamers.com/article/leisure-suit-larry-wet-dreams-dry-twice) – - Detailed review with 4.5/5 stars rating and gameplay analysis
 [^ref-7]: [Collider Release Announcement](https://collider.com/leisure-suit-larry-2020-game-release-date-trailer/) – - Gaming news article with developer quotes
 [^ref-8]: [KHInsider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/leisure-suit-larry-wet-dreams-dry-twice-2021) – - Complete soundtrack listing with user feedback
 [^ref-10]: [Wikipedia Mobile](https://en.m.wikipedia.org/wiki/Leisure_Suit_Larry:_Wet_Dreams_Dry_Twice) – - Comprehensive game information and reception scores

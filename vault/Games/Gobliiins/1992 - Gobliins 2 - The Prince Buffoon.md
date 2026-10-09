@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Gob
 protagonist: Fingus and Winkle
 sierra_lineage: Sierra Published
-last_updated: '2026-07-13'
+last_updated: '2026-10-09'
 composer: [Charles Callet]
 description: 'Gobliins 2: The Prince Buffoon is a puzzle-solving adventure game developed
   by French studio Coktel Vision and published by Sierra On-Line in 1992. As the...'
@@ -18,7 +18,7 @@ tags: [1990s, gobliiins, puzzle, sierra]
 ---
 # Gobliins 2: The Prince Buffoon
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -269,7 +269,7 @@ Modern adventure game enthusiasts continue to discover and appreciate the series
 [^ref-5]: [Amiga Reviews – Gobliins](https://www.amigareviews.leveluphost.com/gobliins.htm) – Amiga Power review quotes, scores, technical specifications
 [^ref-6]: [All The Tropes – Gobliins 2](https://allthetropes.org/wiki/Gobliins_2:_The_Prince_Buffoon) – Pierre Gilhodes contribution, platforms
 [^ref-7]: [PCGamingWiki – Gobliins 2](https://www.pcgamingwiki.com/wiki/Gobliins_2:_The_Prince_Buffoon) – Gob engine, technical specifications, system requirements
-[^ref-8]: [Adventure Gamers – Gobliins 2 Walkthrough](https://adventuregamers.com/walkthrough/gobliins-2-the-prince-buffoon) – system requirements, promotional description
+[^ref-8]: [Adventure Gamers – Gobliins 2 Walkthrough](https://web.archive.org/web/20231202061654/https://adventuregamers.com/walkthrough/gobliins-2-the-prince-buffoon) – system requirements, promotional description
 [^ref-9]: [Lilura1 Blog – Goblins Games](https://lilura1.blogspot.com/2022/04/Goblins-Games-Coktel-Vision-1991-93-IBM-PC-MS-DOS.html) – technical specs, install size, resolution
 [^ref-10]: [Academic Encyclopedia – Gobliins 2](https://en-academic.com/dic.nsf/enwiki/379428) – character descriptions for Fingus and Winkle
 [^ref-11]: [Play Classic Games – Gobliins 2](https://playclassic.games/games/puzzle-solving-dos-games-online/play-gobliins-2-prince-buffoon-online/) – character personality descriptions

@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V: Absence Makes the Heart Go Yonder", "Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work", "Space Quest IV: Roger Wilco and the Time Rippers", "Conquests of Camelot: The Search for the Grail", "Quest for Glory II: Trial by Fire"]
 companies: ["Sierra On-Line", "SikhNet", "Sun & Son"]
-last_updated: "2026-05-08"
+last_updated: '2026-10-09'
 ---
 # Guruka Singh Khalsa
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -143,4 +143,4 @@ The enduring popularity of the games he helped create testifies to the lasting v
 [^ref-14]: [RAWG - Guruka Singh Khalsa](https://rawg.io/creators/guruka-singh-khalsa) — Space Quest IV production credit
 [^ref-15]: [RAWG - Leisure Suit Larry 5](https://rawg.io/games/leisure-suit-larry-5-passionate-patti-does-a-lit-2) — Production credits and development details
 [^ref-16]: [Metacritic - Guruka Singh Khalsa](https://www.metacritic.com/person/guruka-singh-khalsa?filter-options=games) — Legacy and professional gaming credits
-[^ref-17]: [Adventure Gamers - Sierra Retrospective](https://adventuregamers.com/articles/view/a_sierra_restrospective_part_1_the_pioneers_of_adventure) — Early game development culture and practices
+[^ref-17]: [Adventure Gamers - Sierra Retrospective](https://web.archive.org/web/20240417005952/https://adventuregamers.com/articles/view/a_sierra_restrospective_part_1_the_pioneers_of_adventure) — Early game development culture and practices

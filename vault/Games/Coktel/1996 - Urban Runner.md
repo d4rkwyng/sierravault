@@ -10,14 +10,14 @@ series: Lost in... (spiritual)
 engine: Gob
 protagonist: Max Gardner
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: Urban Runner is an interactive movie adventure game developed by Coktel
   Vision and published by Sierra On-Line in 1996. Spanning four CD-ROMs and marketed...
 tags: [1990s, adventure, coktel, lost-in-spiritual, sierra]
 ---
 # Urban Runner
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -248,7 +248,7 @@ The game's spiritual connection to Lost in Time and its intended role in a large
 [^ref-13]: [The Spoiler – Urban Runner Walkthrough](https://the-spoiler.com/ADVENTURE/Sierra/urban.runner.1.html) – hint system, multiple endings, difficulty assessment
 [^ref-14]: [OldGames.sk – Urban Runner](https://www.oldgames.sk/en/game/urban-runner/download/4796/) – game structure, Clue/Action turns, rating
 [^ref-15]: [Sierra Help – Urban Runner Walkthrough](https://sierrahelp.com/Walkthroughs/UrbanRunnerWalkthrough.html) – gameplay guidance, save advice
-[^ref-16]: [Adventure Gamers – Urban Runner](https://adventuregamers.com/games/view/16680) – review score, system requirements, gameplay assessment
+[^ref-16]: [Adventure Gamers – Urban Runner](https://web.archive.org/web/20230109053907/https://adventuregamers.com/games/view/16680) – review score, system requirements, gameplay assessment
 [^ref-17]: [APKPure – Urban Runner](https://m.apkpure.com/urban-runner/com.puregames.urbanrunner) – gameplay mechanics description (unrelated Android game)
 [^ref-18]: [TV Tropes – Urban Runner](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrbanRunner) – hardware requirements, B-movie aesthetic, graphics specifications
 [^ref-19]: [VGTimes – Urban Runner](https://vgtimes.com/games/urban-runner/) – alternative titles, rating, genre classification

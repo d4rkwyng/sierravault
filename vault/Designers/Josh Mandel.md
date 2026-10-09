@@ -5,11 +5,11 @@ birth_year: 1958
 death_year: null
 notable_games: ["King's Quest I: Quest for the Crown (1990 remake)", "Space Quest 6: Roger Wilco in the Spinal Frontier", "Freddy Pharkas: Frontier Pharmacist", "Callahan's Crosstime Saloon"]
 companies: ["Sierra On-Line", "Legend Entertainment", "Sir-Tech", "Sega", "Vicarious Visions"]
-last_updated: "2026-05-13"
+last_updated: '2026-10-09'
 ---
 # Josh Mandel
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -182,7 +182,7 @@ Between January 15 and March 18, 2026, Mandel hosted an extended **"AMA About Si
 [^ref-4]: [Adventure Classic Gaming Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/196/) — Career progression and beta-testing origins
 [^ref-5]: [MobyGames Credits](https://www.mobygames.com/person/260/josh-mandel/credits/) — Complete game credits and roles
 [^ref-6]: [Space Quest Fandom](https://spacequest.fandom.com/wiki/Josh_Mandel) — First voice of King Graham and Space Quest 6 design
-[^ref-7]: [Adventure Gamers Interview](https://adventuregamers.com/articles/view/24002) — Industry recognition as underrated designer
+[^ref-7]: [Adventure Gamers Interview](https://web.archive.org/web/20241116062553/https://adventuregamers.com/articles/view/24002) — Industry recognition as underrated designer
 [^ref-8]: [TV Tropes - Josh Mandel](https://tvtropes.org/pmwiki/pmwiki.php/Creator/JoshMandel) — Cultural impact and design philosophy
 [^ref-9]: [Aventura y CÍA Interview](https://www.aventuraycia.com/entrevistas/en/josh-mandel/) — Post-Sierra career at Legend, Sir-Tech, Sega, and Vicarious Visions
 [^ref-10]: [Reddit Sierra Interview](https://www.reddit.com/r/Sierra/comments/157s5r6/interview_with_sierras_josh_mandel/) — Acting aspirations and career background
@@ -192,7 +192,7 @@ Between January 15 and March 18, 2026, Mandel hosted an extended **"AMA About Si
 [^ref-14]: [YouTube Sierra Documentary](https://www.youtube.com/watch?v=42OEFdBNKwE) — Playboy Club and comedy club career
 [^ref-15]: [Seattle Retro Gamer Interview](http://www.seattleretrogamer.com/2011/10/youtube-interview-with-josh-mandel-from.html) — Advertising career and awards
 [^ref-16]: [Tales From The Collection - Josh Mandel](https://talesfromthecollection.com/josh-mandel/) — First encounter with Colossal Cave Adventure
-[^ref-17]: [Adventure Gamers Sierra Retrospective](https://adventuregamers.com/articles/view/a_sierra_restrospective_part_1_the_pioneers_of_adventure) — Ken Williams quote at Christmas party
+[^ref-17]: [Adventure Gamers Sierra Retrospective](https://web.archive.org/web/20240417005952/https://adventuregamers.com/articles/view/a_sierra_restrospective_part_1_the_pioneers_of_adventure) — Ken Williams quote at Christmas party
 [^ref-18]: [Retro Kompott Interview](https://steadyhq.com/en/retrokompott/posts/83a7753a-a4b2-4516-93cf-a738d20d0102) — Mandel's reaction to Sierra culture
 [^ref-19]: [Wikipedia - Freddy Pharkas: Frontier Pharmacist](https://en.wikipedia.org/wiki/Freddy_Pharkas:_Frontier_Pharmacist) — Co-designed with Al Lowe
 [^ref-23]: [Wikipedia - Josh Mandel](https://en.wikipedia.org/wiki/Josh_Mandel_(video_game_designer)) — Career overview, KQ1 as first major project establishing his reputation at Sierra

@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: Custom (Dynamix)
 protagonist: N/A (Player-controlled contraptions)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Christopher Stevens]
 description: The Incredible Machine 3.0 (also referred to as The Incredible Machine
   Version 3.0) is a puzzle video game developed by Dynamix and published by Sierra...
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine 3.0
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -255,4 +255,4 @@ The game's description as "a puzzle game par excellence and beyond" reflects its
 [^ref-17]: [Internet Archive – DOS Manual](https://archive.org/details/the-incredible-machine-dos-manual) – original documentation preservation
 [^ref-18]: [Internet Archive – Original 1992 Release](https://archive.org/details/the_incredible_machine_1992) – series origins, historical preservation
 [^ref-19]: [Steam Store Search](https://store.steampowered.com/search/?term=The+Incredible+Machine+3.0) – digital availability status
-[^ref-20]: [Adventure Gamers – TIM Search](https://adventuregamers.com/search/?q=The+Incredible+Machine+3.0) – genre classification, community coverage
+[^ref-20]: Adventure Gamers – TIM Search *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – genre classification, community coverage

@@ -7,12 +7,12 @@ first_release: 1989
 last_release: 1992
 total_games: 2
 genre: "Adventure, Mystery"
-last_updated: "2026-05-13"
+last_updated: '2026-10-09'
 ---
 
 # Laura Bow Series
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -165,7 +165,7 @@ Despite positive reception, the series ended after two entries as Sierra shifted
 ## References
 
 [^ref-1]: [Grok Encyclopedia - The Colonel's Bequest](https://grokipedia.com/page/The_Colonel%27s_Bequest) – Mystery House connection
-[^ref-2]: [Adventure Gamers - Laura Bow](https://adventuregamers.com/article/laura_bow_the_colonels_bequest) – Innovative storytelling analysis
+[^ref-2]: [Adventure Gamers - Laura Bow](https://web.archive.org/web/20250609194755/https://adventuregamers.com/article/laura_bow_the_colonels_bequest) – Innovative storytelling analysis
 [^ref-3]: [Hardcore Gaming 101 - The Colonel's Bequest](http://www.hardcoregaming101.net/the-colonels-bequest/) – Real-time progression system
 [^ref-4]: [Lemon Amiga - The Colonel's Bequest Review](https://www.lemonamiga.com/games/reviews/view.php?id=326) – Agatha Christie comparison
 [^ref-5]: [Atari Magazines - Roberta's Bequest Interview](https://www.atarimagazines.com/startv4n8/robertas_bequest.php) – START Magazine interview quotes

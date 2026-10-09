@@ -10,14 +10,14 @@ series: Quest for Glory
 engine: Adventure Game Studio
 protagonist: The Hero
 sierra_lineage: Fan Project
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'Quest for Glory II VGA Remake is a fan-made recreation of Sierra On-Line''s
   classic 1990 adventure-RPG hybrid *Quest for Glory II: Trial by Fire*, developed...'
 tags: [2000s, adventure, quest-for-glory, rpg, sierra]
 ---
 # Quest for Glory II VGA Remake
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -200,7 +200,7 @@ The remake's success lies not merely in its technical achievements but in its ph
 
 ## References
 
-[^ref-1]: [Adventure Gamers – Quest for Glory II VGA Remake](https://adventuregamers.com/games/view/quest-for-glory-ii-vga-remake) – game description, release date, developer information, rating
+[^ref-1]: Adventure Gamers – Quest for Glory II VGA Remake *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – game description, release date, developer information, rating
 [^ref-3]: [AGD Interactive Official Website](https://www.agdinteractive.com/) – version 2.0 release, Mac availability, award-winning status, developer background
 [^ref-4]: [Engadget News Article](https://www.engadget.com/2008-08-25-quest-for-glory-ii-vga-remake-released.html) – development timeline, 256-color graphics, character reveals
 [^ref-5]: [Adventure Game Studio – Quest for Glory II VGA Remake](https://www.adventuregamestudio.co.uk/play/game/1072/) – engine, awards, panel rating, user reviews, combat difficulty

@@ -11,7 +11,7 @@ series: Gabriel Knight
 engine: SCI2.1
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-05-27'
+last_updated: '2026-10-09'
 description: 'The Beast Within: A Gabriel Knight Mystery stands as one of the most
  ambitious and critically acclaimed adventure games of the mid-1990s. Released in
  1995...'
@@ -19,7 +19,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # The Beast Within: A Gabriel Knight Mystery
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -196,8 +196,8 @@ The Beast Within's commercial success, reaching fourth place in January 1996's b
 [^ref-1]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=The+Beast+Within%3A+A+Gabriel+Knight+Mystery) – - Game database search results
 [^ref-2]: [Adventure Classic Gaming Interview with Jane Jensen](http://www.adventureclassicgaming.com/index.php/site/interviews/179/) – - Development insights and creative process
 [^ref-3]: [Adventure Classic Gaming Interview with Dean Erickson](http://www.adventureclassicgaming.com/index.php/site/interviews/206/) – - Behind-the-scenes production information
-[^ref-4]: [Adventure Gamers Search](https://adventuregamers.com/search/?q=The+Beast+Within%3A+A+Gabriel+Knight+Mystery) – - General adventure gaming coverage
-[^ref-5]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/the-beast-within-a-gabriel-knight-mystery) – - Comprehensive gameplay guide and story details
+[^ref-4]: Adventure Gamers Search *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – - General adventure gaming coverage
+[^ref-5]: Adventure Gamers Walkthrough *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – - Comprehensive gameplay guide and story details
 [^ref-6]: [Internet Archive Game Entry](https://archive.org/details/TheBeastWithinAGabrielKnightMysteryUSAEurope) – - Basic metadata and game description
 [^ref-7]: [Fan Walkthrough and Analysis](http://bonny.ploeg.ws/gk2.html) – - Detailed German translations and critical review
 [^ref-8]: [Hartford Courant 1996 Article](https://www.courant.com/1996/04/01/computer-games-no-longer-just-for-children/) – - Contemporary commercial success documentation

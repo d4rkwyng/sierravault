@@ -10,14 +10,14 @@ series: Crazy Nick's Software Picks, Laura Bow
 engine: SCI1.1
 protagonist: Laura Bow (opponent)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'Crazy Nick''s Software Picks: Parlor Games with Laura Bow is a budget
   compilation title released by Sierra On-Line in 1992 as part of their Crazy Nick''s...'
 tags: [1990s, crazy-nick-s-software-picks-laura-bow, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Parlor Games with Laura Bow
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -243,6 +243,6 @@ As a historical artifact, the game documents the budget software market of the e
 [^ref-11]: [GOG.com – Dreamlist Entry](https://www.gog.com/dreamlist/game/crazy-nick-s-software-picks-parlor-games-with-laura-bow) – community wishlist votes
 [^ref-12]: [PCGamingWiki – Crazy Nick's Series](https://www.pcgamingwiki.com/wiki/Series:Crazy_Nick's_Software_Picks) – series overview, publisher information
 [^ref-13]: [MobyGames – Crazy Nick's Software Picks - Parlor Games with Laura Bow](https://www.mobygames.com/game/95473/) – game information and details
-[^ref-14]: [Adventure Gamers – Crazy Nick's Software Picks - Parlor Games with Laura Bow](https://adventuregamers.com/search/?q=Crazy+Nick%27s+Software+Picks%3A+Parlor+Games+with+Laura+Bow) – no relevant content found - the provided source appears to be a general Adventure Gamers website homepage/navigation ...
+[^ref-14]: Adventure Gamers – Crazy Nick's Software Picks - Parlor Games with Laura Bow *(Adventure Gamers; page lost after the site's 2025 sale, no archived copy)* – no relevant content found - the provided source appears to be a general Adventure Gamers website homepage/navigation ...
 [^ref-15]: [Sierra Chest – Crazy Nick's Software Picks - Parlor Games with Laura Bow](https://sierrachest.com/hcl87/gfx/games/ActionPack/box/index.php?a=games&id=718&title=crazy-nick-larry&fld=music) – fan database/archive entry containing basic game metadata and music track information
 [^ref-16]: [GOG.com – Crazy Nick's Software Picks - Parlor Games with Laura Bow](https://www.gog.com/en/games?query=Crazy+Nick%27s+Software+Picks%3A+Parlor+Games+with+Laura+Bow) – GOG.com search results page - contains no specific information about 'Crazy Nick's Software Picks: Parlor Games with ...
