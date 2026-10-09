@@ -360,7 +360,6 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 
 **Community Resources**
 - [Combine OverWiki](https://combineoverwiki.net/) - Comprehensive fan wiki
-- [Half-Life 2: Beta Archive](https://hl2-beta.ru/) - Preservation of development content
 
 ## See Also
 
