@@ -24,13 +24,13 @@ tags: [1990s, adventure, jane-jensen, king-s-quest, roberta-williams, sci, sierr
 
 King's Quest VI: Heir Today, Gone Tomorrow is widely regarded as the finest entry in Sierra's flagship adventure series, representing a remarkable leap forward in storytelling, puzzle design, and production values[^ref-1][^ref-2].
 
-Released on October 13, 1992, the game marked a pivotal collaboration between series creator Roberta Williams and newcomer Jane Jensen, whose partnership would reshape Sierra's approach to adventure game design[^ref-3].
+Released on October 13, 1992,[^ref-42] the game marked a pivotal collaboration between series creator Roberta Williams and newcomer Jane Jensen, whose partnership would reshape Sierra's approach to adventure game design[^ref-3].
 
 Prince Alexander journeys to the Land of the Green Isles to rescue Princess Cassima from the schemes of the sinister Vizier Abdul Alhazred, exploring five distinct islands drawn from fairy tale and mythological traditions[^ref-4].
 
 Dragon Magazine declared it "the best King's Quest game yet and certainly one of the best adventure games on the market"[^ref-5].
 
-With a budget exceeding $700,000, professional voice acting, and Sierra's first implementation of lip-sync technology, the game became a landmark release that dominated sales charts through Christmas 1992 and proved "the era of CD game playing is upon us"[^ref-6][^ref-7].[^ref-36][^ref-37]
+With a budget of about $700,000[^ref-40], professional voice acting, and Sierra's first implementation of lip-sync technology[^ref-7], the game became a landmark release that dominated sales charts through Christmas 1992 and, in one critic's words, proved "the era of CD game playing is upon us"[^ref-39].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-4]
@@ -59,13 +59,13 @@ Alexander must not only rescue Cassima but uncover the truth about her parents' 
 
 King's Quest VI employs the refined point-and-click interface Sierra developed for SCI games, with an overhead icon bar accessed by moving the cursor to the screen top or right-clicking to cycle through cursors[^ref-12][^ref-15]. Players interact using walk, look, hand, and talk icons, with inventory items usable directly on the game world[^ref-1]. The implementation represents a marked improvement over King's Quest V, with far more objects yielding custom responses—looking at, touching, or talking to the same item often produces different dialogue[^ref-12].
 
-George Starostin's retrospective praised the refinement: "Many more actions with real consequences—most objects allow different dialog lines depending on whether you look, use, or talk to them"[^ref-12]. Notably, the game contains no arcade sequences whatsoever, representing "the ideal standard for adventure game" design according to the same review[^ref-12].
+George Starostin's retrospective praised the refinement: "there are now many more actions with real consequences: many, if not most, of the objects scattered around the screen allow for different dialog lines from the Narrator depending on whether you look at them, «use» them or even talk to them"[^ref-12]. He called it "an ideal standard for an adventure game in that it features absolutely no arcade sequences whatsoever"[^ref-12].
 
 ### Structure and Progression
 
-The game world spans five islands navigated via a magic map that only functions when Alexander stands on a shore[^ref-9]. Each island is relatively compact, typically comprising no more than half a dozen screens, but puzzles interlock across locations—solving challenges on one island often requires objects or information gathered from another, similar to the design approach of LucasArts' Monkey Island 2, released the same year[^ref-12].
+The game world spans five islands navigated via a magic map that only functions when Alexander stands on a shore[^ref-9]. Each island is relatively compact, usually no more than half a dozen screens[^ref-9], but puzzles interlock across locations—solving challenges on one island often requires objects gathered on another, much as in LucasArts' Monkey Island 2, released the same year[^ref-12].
 
-A sophisticated point system tracks completion, with 231 total points available but only 116 required to finish the game[^ref-16]. This reflects the game's signature feature: nearly half of all content is entirely optional[^ref-3][^ref-5]. The design offers two major paths—a "short path" yielding between 116-184 points and requiring less exploration, versus a "long path" worth 179-231 points that involves rescuing Cassima's parents from the Land of the Dead, freeing the enslaved genie, and recovering all stolen treasures[^ref-14][^ref-16].
+A sophisticated point system tracks completion, with 231 total points available but only 116 required to finish the game[^ref-41]. This reflects the game's signature feature: roughly half of the game's puzzles are optional[^ref-41][^ref-5]. The design offers two major paths—a quicker "short path" and a "long path" that involves rescuing Cassima's parents from the Land of the Dead, freeing the enslaved genie, and recovering all stolen treasures; only the long path reaches the full 231 points[^ref-14][^ref-41].
 
 Lead programmer Robert Lindsley emphasized this nonlinear design in InterAction Magazine: "It's a very deep game. Players are going to see a lot of things they've never seen before. You're going to be able to play this game two or three times over. It's not linear at all. In fact, if anyone ever makes it through the game, if you ever solve it 100%, let us know. We'll give you a medal"[^ref-3].
 
@@ -85,19 +85,19 @@ The game does contain dead ends and death scenarios—criticized by some reviewe
 
 Contemporary reviews were overwhelmingly positive. Dragon Magazine's 1993 review declared: "Let's not mince words—KQ6 is, simply, the best King's Quest game yet and it is certainly one of the best adventure games on the market. It has enormous replay value, and it is challenging enough to keep the most avid player hooked for many days"[^ref-5]. The review particularly praised the "astounding" introduction with its "truly cinematic" 3D graphics[^ref-5].
 
-Peter Spear, writing in InterAction Magazine, proclaimed: "King's Quest VI is not just good, it is a landmark game... the proof that the era of CD game playing is upon us"[^ref-6]. He elaborated: "King's Quest VI represents a fin de siècle, the end of an era. It is a game that should have been—needed to be—first published on CD-ROM. Kill your hard drives!"[^ref-7]
+Peter Spear, reviewing it for QuestBusters (November 1992), proclaimed: "KQ6 is not just good, it's a landmark game," adding that "King's Quest VI is the proof that the era of CD game playing is upon us." He went on: "KQ6 represents a fin de siecle, the end of an era. It is a game that should have been – needed to be – first published on CD-ROM… Kill your hard drives!"[^ref-39]
 
-The Amiga port, released in 1994 by Revolution Software, received mixed reviews reflecting the compromises necessary for the platform. CU Amiga scored it 89% calling it "a welcome and slick addition to the genre"[^ref-15]. Amiga Computing awarded 86% with a Gold Award, praising graphics "on par with Monkey Island 2 and Fate of Atlantis"[^ref-15]. However, Amiga Format gave only 69%, criticizing it as "adventure-by-numbers" where "It's like Monkey Island never happened"[^ref-15]. Amiga Power scored 70%, wishing "Sierra check their watches and suddenly realise it is 1994"[^ref-15].
+The Amiga port, released around the turn of 1994 by Revolution Software, received mixed reviews reflecting the compromises necessary for the platform. CU Amiga scored it 93%, calling it "a welcome and slick addition to the genre"[^ref-15]. Amiga Computing awarded 86%, praising graphics "on a par with Monkey Island 2 and The Fate of Atlantis"[^ref-15]. However, Amiga Format gave only 69%, criticizing it as "adventure-by-numbers" where "It's like Monkey Island never happened"[^ref-15]. Amiga Power scored 70%, wishing "Sierra check their watches and suddenly realise it is 1994"[^ref-15].
 
 ### Modern Assessment
 
-Modern retrospectives consistently rank King's Quest VI among Sierra's finest achievements. Adventure Gamers awarded 4.5/5, declaring: "If you only play one King's Quest game, make it this one. It's the only game in the series where story and gameplay come together in perfect balance, and after a decade of working to get it right, it's one of the best games Sierra gave us"[^ref-1]. The site ranked it #3 in their Top 20 Adventure Games of All-Time in 2004[^ref-1].
+Modern retrospectives consistently rank King's Quest VI among Sierra's finest achievements. Adventure Gamers awarded 4.5/5, declaring: "If you only play one King's Quest game, make it this one. It's the only game in the series where story and gameplay come together in perfect balance, and after a decade of working to get it right, it's one of the best games Sierra gave us"[^ref-1]. The site ranked it #3 in its Top 20 Adventure Games of All-Time (a list compiled in 2001 and republished in 2004)[^ref-38].
 
 PC Gamer's 2020 retrospective ranking of all 63 Sierra graphical adventures placed King's Quest VI at #3 overall—the highest-ranked King's Quest game, trailing only Gabriel Knight: Sins of the Fathers and Space Quest IV[^ref-19].
 
 Hardcore Gaming 101 called it "a remarkable improvement in almost every possible manner" over its predecessor, concluding: "King's Quest VI is almost in an entirely different league than its predecessors or sequels... easily one of Sierra's best"[^ref-9].
 
-George Starostin's 2021 retrospective gave 4/5, describing it as "one of the best designed digital fairy tales ever told—probably the very best one in the family-friendly category" that achieved "a level of depth and complexity that put it at least on the Princess Bride level of entertainment"[^ref-12]. He particularly praised the Land of the Dead sequence as "the single most emotionally heavy moment in King's Quest history—perhaps the only time the game taking itself seriously managed to have me impressed rather than amused"[^ref-12].
+George Starostin's 2021 retrospective described it as "one of the best designed digital fairy tales ever told—probably the very best one in the family-friendly category" that achieved "a level of depth and complexity that put it at least on the Princess Bride level of entertainment"[^ref-12]. He particularly praised the Land of the Dead sequence as "the single most emotionally heavy moment in King's Quest history—perhaps the only time in its history when the game taking itself seriously managed to have me impressed rather than amused"[^ref-12].
 
 **Aggregate Scores:**
 - GameRankings: 88.75% (4 reviews)[^ref-4]
@@ -105,23 +105,22 @@ George Starostin's 2021 retrospective gave 4/5, describing it as "one of the bes
 
 **Other Ratings:**
 - Adventure Gamers: 4.5/5 (Excellent)[^ref-1]
-- GOG: 4.6/5 (52 reviews for KQ 4+5+6 bundle)[^ref-21]
+- GOG: 4.6/5 (KQ 4+5+6 bundle)[^ref-21]
 - My Abandonware: 4.44/5 (125 votes)[^ref-23]
-- HowLongToBeat: 78% user rating, 6.5 hours main story, 8.5 hours completionist[^ref-24]
 
 ## Development
 
 ### Origins
 
-In May 1991, Roberta Williams began designing King's Quest VI, knowing from the outset it would focus on Prince Alexander's pursuit of Princess Cassima[^ref-3]. However, Williams was simultaneously serving as executive designer on Laura Bow II: The Dagger of Amon Ra, and by her own admission was "getting a little tired of playing the 'Queen of Daventry' for the nation's schoolchildren"[^ref-7].
+Roberta Williams and co-designer Jane Jensen first met to discuss the design in May 1991, and Williams began laying out the story in June[^ref-41][^ref-3]. However, Williams was simultaneously serving as executive designer on Laura Bow II: The Dagger of Amon Ra, and, as Jimmy Maher put it, was "getting a little tired of playing the Queen of Daventry for the nation's schoolchildren"[^ref-7].
 
 Williams sought a collaborator for practical and strategic reasons. "I took on a co-designer for a couple of reasons," she explained. "I wanted to train Jane because I didn't want Sierra to be dependent on me. Someone else needs to know how to do a 'proper' adventure game. We're all doing a good job from a technology standpoint, but not on design. In my opinion, the best way to learn it properly is side by side"[^ref-7].
 
-Jane Jensen had joined Sierra in 1990 after seeing an ad in a Los Angeles newspaper for "computer nerds who can write"[^ref-25]. Her first design credit came on EcoQuest: The Search for Cetus, co-designed with Gano Haine[^ref-7]. King's Quest IV: The Perils of Rosella was the first adventure game Jensen ever played[^ref-3].
+Jane Jensen had come to Sierra as a writer, working on Police Quest III and EcoQuest[^ref-45]. Her first design credit came on EcoQuest: The Search for Cetus, co-designed with Gano Haine[^ref-7]. King's Quest IV: The Perils of Rosella was the first adventure game Jensen ever played[^ref-3].
 
 ### Production
 
-Development spanned fourteen months from May 1991 to September 1992, with a team exceeding twenty people[^ref-3][^ref-4]. The budget reached at least $700,000—equivalent to approximately $1,568,485 in 2024 dollars—with some sources indicating costs pushed past $1 million as production expanded[^ref-4][^ref-7].
+Development took fourteen months, with Williams putting the crew at more than twenty people (the hint book speaks of a "thirteen person development team" beyond the designers)[^ref-40][^ref-41]. The budget reached at least $700,000—equivalent to approximately $1,568,485 in 2024 dollars—with some sources indicating costs pushed past $1 million as production expanded[^ref-4][^ref-7].
 
 The design process began at Williams' home. Jensen recalled: "We sat down at her house with a huge pad of paper—that was her method of design. She already knew the game would be about King Graham's son, Alexander, and his quest to the Green Isles to meet and save Cassima. Most of the rest was brainstormed between us"[^ref-17].
 
@@ -143,15 +142,15 @@ Jensen wrote over 6,000 messages for the game—reportedly four times the script
 - **Additional QA:** Mike Brosius, John Ratcliffe
 - **Technical Support:** Rob Koeppel
 
-The opening movie was created by Kronos Digital Entertainment, led by Stanley Liu and Albert Co[^ref-4][^ref-7]. Originally rendered on cutting-edge graphics workstations at 1.2 GB and 10 minutes duration, it was compressed to 6 MB (2 minutes) for floppy release and 60 MB (6 minutes) for CD-ROM[^ref-7].
+The opening movie was created by Kronos Digital Entertainment, led by Stanley Liu and Albert Co[^ref-41]. Originally rendered on cutting-edge graphics workstations at 1.2 GB and 10 minutes duration, it was compressed to 6 MB (2 minutes) for floppy release and 60 MB (6 minutes) for CD-ROM[^ref-7].
 
 ### Technical Achievements
 
-King's Quest VI was Sierra's first adventure game to feature lip-syncing technology, acquired through Sierra's July 1992 purchase of Bright Star Technology for $1 million[^ref-7]. The technology was developed by Elon Gasper, described as "a genius ex-college professor specializing in linguistics"[^ref-7]. This enabled character portraits to synchronize with voice acting, though only the CD-ROM version featured full voice acting throughout.
+King's Quest VI was Sierra's first adventure game to feature lip-syncing technology, acquired through Sierra's July 1992 purchase of Bright Star Technology for $1 million[^ref-7]. The technology came from Bright Star founder Elon Gasper, whom Ken Williams described as "a genius ex-college professor specializing in linguistics"[^ref-46]. This enabled character portraits to synchronize with voice acting, though only the CD-ROM version featured full voice acting throughout.
 
 The game employed video-captured actors for realistic character animation, with over 2,000 character actions recorded via motion capture[^ref-3][^ref-4]. Technical advances included "scaling" technology allowing characters to change size based on screen position for correct perspective, and "pather" technology enabling intelligent obstacle avoidance[^ref-3].
 
-John Shroades created 80 background paintings for the game[^ref-4]. The Windows CD-ROM version featured enhanced high-resolution (640x400) character portraits during dialogue sequences[^ref-12][^ref-26].
+John Shroades created 80 background paintings for the game[^ref-4]. The Windows version featured high-resolution character portraits[^ref-9].
 
 ### Voice Cast
 
@@ -185,17 +184,18 @@ The love theme "Girl in the Tower" became an unusual case study in video game ma
 
 Ken Williams envisioned the song becoming a radio hit comparable to popular movie tie-in ballads of the era[^ref-7]. Sierra sent promotional CD singles to radio stations nationwide and included an 8-page pamphlet in every game box with phone numbers for major radio stations, urging customers to call and request the song[^ref-7].
 
-The campaign backfired spectacularly. Jimmy Maher recounted: "Program directors called Ken to complain, made vague legal threats about FCC laws. Ken agreed to pull pamphlet from future boxes"[^ref-7]. Williams later defended the effort: "In my opinion, the radio stations were the criminals for ignoring their customers, something I believe no business should ever do. Oh, well... the song was great"[^ref-7].
+The campaign backfired spectacularly. Jimmy Maher recounts that many program directors called Ken to complain and "sometimes issued vague legal threats regarding obscure Federal Communications Commission laws"; Ken finally "agreed to pull the pamphlet from future King's Quest VI boxes"[^ref-7]. Williams later defended the effort: "In my opinion, the radio stations were the criminals for ignoring their customers, something I believe no business should ever do. Oh, well... the song was great"[^ref-7].
 
-George Starostin was less charitable, calling it a "horrendous power ballad"[^ref-12]. However, the song gained a second life through Sierra self-parody—Space Quest VI featured a "Girl In The Shower" joke, and Leisure Suit Larry VI included the song as a phone number easter egg[^ref-11][^ref-31].
+George Starostin was less charitable, calling it a "horrendous power ballad"[^ref-12]. However, the song gained a second life through Sierra self-parody—Space Quest 6 has Sir Elton John play "Girl in the Tower" on piano during a morph gag, and Leisure Suit Larry 6 plays it under a "Girl in the Shower" joke[^ref-48].
 
 ### Technical Specifications
 
-**CD-ROM Version:**[^ref-26]
-- **Resolution:** 320x200, 256 colors (640x400 for character portraits in Windows version)
-- **Audio:** Roland MT-32, General MIDI, Sound Blaster, Ad Lib, PC Speaker
-- **Disk Space:** 15+ MB hard drive installation (entire game)
-- **RAM:** 2 MB (DOS), 4 MB (Windows)
+**Launch Specifications (1992):**[^ref-42]
+- **Graphics:** 256-color VGA and 16-color EGA on the same set of disks
+- **Media:** Nine 3.5" or eleven 5.25" disks
+- **Audio:** All major sound cards supported
+- **System:** 286 or better with a hard disk required; mouse recommended
+- **Price:** $79.95 suggested retail
 
 **Floppy Version:**[^ref-5][^ref-7]
 - **Disks:** 9 high-density (3.5") or equivalent
@@ -210,10 +210,10 @@ George Starostin was less charitable, calling it a "horrendous power ballad"[^re
 | 1.000 (German) | November 18, 1992 | DOS Floppy | German localization[^ref-8] |
 | 1.000 (French) | 1992 | DOS Floppy | French localization[^ref-8] |
 | 1.000 (Spanish) | July 5, 1994 | DOS CD | Spanish localization[^ref-8] |
-| CD-ROM | September 11, 1994 | DOS | Full voice acting, high-res portraits[^ref-26] |
+| CD-ROM | 1993 | DOS/Windows | Full voice acting, extended intro[^ref-4][^ref-40] |
 | 1.034 (Windows CD) | September 11, 1994 | Windows 3.x | Windows version with MIDI support[^ref-8] |
-| Amiga | 1993 | Amiga | Revolution Software port using Virtual Theatre engine[^ref-15][^ref-32] |
-| Macintosh | 1994 | Mac | Virtual Theatre engine (non-SCI)[^ref-8] |
+| Amiga | Dec 1993 / early 1994 | Amiga | Revolution Software port using Virtual Theatre engine[^ref-15][^ref-32] |
+| Macintosh | 1993 | Mac | Mac port; engine attribution varies between sources[^ref-20] |
 
 **SCI Interpreter Versions:**[^ref-8]
 
@@ -229,27 +229,27 @@ George Starostin was less charitable, calling it a "horrendous power ballad"[^re
 
 The Amiga version was developed by Revolution Software, later renowned for the Broken Sword series[^ref-15][^ref-32]. Rather than porting the SCI engine, Revolution used their proprietary Virtual Theatre engine—the same technology powering Beneath a Steel Sky[^ref-32]. The game shipped on 10 floppy disks with hard drive installation strongly recommended[^ref-15].
 
-The port made significant compromises. Graphics were limited to 32 colors rather than the original's 256, though Sierra claimed the results were good enough to cancel a planned AGA 256-color version[^ref-15]. CU Amiga noted Alexander moved "fast—a veritable Linford Christie"[^ref-15]. Many puzzles, locations, and characters were removed or altered from the original[^ref-4]. Voice acting was omitted, with music and sound effects only[^ref-15]. The game is not supported by ScummVM due to its non-SCI engine[^ref-32].
+The port made significant compromises. Graphics were limited to 32 colors rather than the original's 256, though Sierra claimed the results were good enough to cancel a planned AGA 256-color version[^ref-15]. CU Amiga noted Alexander moved "fast—a veritable Linford Christie"[^ref-15]. Fandom's KQ Omnipedia notes that a number of puzzles, animations, and locations were cut or altered to reduce the disk count, though CU Amiga judged that "almost everything seen in the PC version has been put into this version"[^ref-47][^ref-15]. Voice acting was omitted, with music and sound effects only[^ref-15]. The game is not supported by ScummVM due to its non-SCI engine[^ref-32].
 
 ## Legacy
 
-King's Quest VI is consistently cited as the fan-favorite entry in the series. A ResetEra discussion noted that "Roberta Williams mentioned that fans frequently bring it up with her when they want to talk about the series"[^ref-33]. The Digital Antiquarian observed: "The consensus among fans today is that this is the best overall King's Quest"[^ref-7].
+King's Quest VI is consistently cited as the fan-favorite entry in the series. The Digital Antiquarian observed: "The consensus among fans today is that this is the best overall King's Quest"[^ref-7].
 
 More significantly, King's Quest VI launched Jane Jensen's career as a lead designer. George Starostin stated plainly: "Without King's Quest VI, there would be no Gabriel Knight—it was only due to this game's major success that Jane Jensen, a relative newcomer to the Sierra planet, was given the green light to pursue her own creative vision to the fullest"[^ref-12]. Jensen confirmed: "What happened was that I showed, to Sierra, that I could carry and complete an adventure game, and that was what gave me the opportunity. Basically I did a good job so they gave me a shot at my own title"[^ref-17].
 
-Critics attribute much of the game's quality to Jensen's involvement. TV Tropes notes: "This is because most of its design was done by Jane Jensen, rather than series starter Roberta Williams"[^ref-2]. David Trivette observed in The Official Book of King's Quest: "There is a darkness to the scenes not found in earlier quests. Overall the sixth has an ominous tone"[^ref-2].
+Critics attribute much of the game's quality to Jensen's involvement. TV Tropes notes: "This is because most of its design was done by Jane Jensen, rather than series starter Roberta Williams"[^ref-2]. Williams herself described the split differently: "Jane Jensen wrote all the script, and we worked on the story line and characters together"[^ref-43]. Donald B. Trivette observed in The Official Book of King's Quest (1993 edition): "There's also a darkness in the scenes and characters not found in earlier quests. Overall the sixth quest has an ominous tone"[^ref-43].
 
 ### Commercial Performance
 
-King's Quest VI became Sierra's biggest success of 1992. It shipped approximately 400,000 copies in its first week and topped DOS game sales charts from October through December[^ref-4][^ref-7]. It was the first computer game certified gold (100,000 units) by the Software Publishers Association before shipping, based on pre-orders alone[^ref-7].
+King's Quest VI became Sierra's biggest success of 1992. According to Ken Williams, it sold around 400,000 copies in its first week[^ref-4][^ref-44], and it topped DOS game sales charts from October through December[^ref-4][^ref-7]. It was the first computer game certified gold (100,000 units) by the Software Publishers Association before shipping, based on pre-orders alone[^ref-7].
 
-Sierra duplicated over one million disks for the first shipment—130,000 copies flew out the door on the October 13, 1992 ship date[^ref-6]. By November 1993, the CD-ROM version ranked as the 5th best-selling CD-ROM game[^ref-4]. PC Data tracked 300,000-400,000 units sold in the US by 2000[^ref-4].
+Sierra duplicated a million and a half disks in the two weeks before the October 13, 1992 launch, which came with an unprecedented number of pre-orders[^ref-42]. By November 1993, the CD-ROM version ranked as the 5th best-selling CD-ROM game[^ref-4]. PC Data tracked 300,000-400,000 units sold in the US by 2000[^ref-4].
 
 ### Soundtrack Releases
 
-The original soundtrack was composed by Christopher Braymen, with additional contributions from Dan Kehler and Mark Seibert[^ref-31]. Nightingale recordings were licensed from the Library of Natural Sounds at Cornell Laboratory of Ornithology[^ref-4].
+The original soundtrack was composed by Christopher Braymen, with additional contributions from Dan Kehler and Mark Seibert[^ref-31]. Nightingale recordings were licensed from the Library of Natural Sounds at Cornell Laboratory of Ornithology[^ref-41].
 
-In March 2024, Two Guys Records released "King's Quest VI - An Ode to the Isles," a two-LP vinyl reorchestration featuring Erik Elsom, Chris Braymen, and Error 47[^ref-30]. The release included a new cover of "Girl in the Tower" and featured Troels Pleimert (Space Quest Historian) on drums[^ref-30]. The original 1992 promo CD single of "Girl in the Tower" now commands $28-50 on the collector market[^ref-30].
+In 2024, Two Guys Records and Magic Map Studio released "King's Quest VI – An Ode to the Isles," a two-LP rearrangement of Chris Braymen's score, with violinist Erik Elsom and a bonus "Girl in the Tower" cover by Error 47[^ref-30]. The release included a new cover of "Girl in the Tower" and featured Troels Pleimert (Space Quest Historian) on drums[^ref-30].
 
 ### Multiple Endings
 
@@ -271,18 +271,16 @@ The "best" ending requires sending the ring via Sing-Sing the nightingale, befri
 - Golden bridle finder (King's Quest IV)
 - Tongue climbing gear (King's Quest IV)
 - Bridge repair kit (King's Quest II)
-- Owl Courage Potion "for spineless owls" (Cedric from King's Quest V)
+- Owl courage potion (a nod to Cedric from King's Quest V)
 - Stair traction pads (various AGI-era games)
 
-**Name Origins:**[^ref-2][^ref-34]
-- **Abdul Alhazred:** Named after H.P. Lovecraft's "Mad Arab," author of the Necronomicon
-- **Shamir Shamazel:** Corruption of Yiddish "schlemiel" and "schlimazel" (unlucky screw-up); also references the Laverne & Shirley opening credits
-- **Lord of the Dead/Samhain:** Named after the Celtic festival of the dead; in-game lore states he was once a mortal cursed by the gods
-- **Cassima:** Derives from Cassim, Ali Baba's brother in Arabian Nights
+**Name Origins:**
+- **Abdul Alhazred:** Named after the author of the fictional Necronomicon[^ref-4]
+- **Shamir Shamazel:** Corruption of Yiddish "schlemiel" and "schlimazel" (unlucky screw-up)[^ref-2]
+- **Lord of the Dead/Samhain:** Shares its name with the Gaelic festival Samhain; in-game, the Arch Druid says he was once a man who insulted the gods and was sentenced to rule the Underworld[^ref-51]
 
-**Visual References:**[^ref-2]
-- Alexander's costume was based on Kevin Costner's wardrobe in Robin Hood: Prince of Thieves
-- The catacombs theme incorporates the Dies Irae Gregorian chant
+**Visual References:**
+- Alexander's costume was based on Kevin Costner's wardrobe in Robin Hood: Prince of Thieves[^ref-52]
 
 **Unused Content (TCRF):**[^ref-35]
 - Debug Script 911 was accidentally left in Spanish and Italian releases despite being cut from the final English game
@@ -291,22 +289,22 @@ The "best" ending requires sending the ring via Sing-Sing the nightingale, befri
 - An earlier, lower-quality Cassima voice recording exists in the DOS floppy version
 
 **Other Trivia:**
-- If Alexander falls at the Cliffs of Logic three times, he complains and tells the player to stop[^ref-11]
-- KQ6 references appear in Torin's Passage (Girl in the Tower behind theater curtain), Space Quest IV (cut room using KQ6 art), Leisure Suit Larry 6 (phone number plays the song), and King's Quest 2015 (tapestry in Gwendolyn's room)[^ref-11]
+- If Alexander falls from the first steps of the Cliffs of Logic three times, he tells the player to "Quit making me fall!"[^ref-50]
+- KQ6 references appear in Torin's Passage (Girl in the Tower behind theater curtain), Space Quest IV (cut room using KQ6 art), Leisure Suit Larry 6 ("Girl in the Shower" gag), and King's Quest 2015 (tapestry in Gwendolyn's room)[^ref-11][^ref-48]
 
 ### Fan Games
 
-**King's Quest VI AGI Demake (2024):** Brandon Kouri released a remarkable fan project that recreates King's Quest VI using Sierra's original 1980s AGI engine and text parser interface[^ref-33]. Development spanned 18 years (2006-2024), with the first stable version released August 16, 2024[^ref-33]. Described as "likely one of the largest and most complex AGI games ever made," every background was hand-traced from the original and all text was copied verbatim[^ref-33]. The project runs in DOSBox and is freely available.
+**King's Quest VI AGI Demake (2024):** Brandon Kouri released a remarkable fan project that recreates King's Quest VI using Sierra's original 1980s AGI engine and text parser interface[^ref-33]. Development spanned 18 years (2006-2024), released in August 2024 (the current build is dated August 30, 2024)[^ref-33]. Built with AGI Studio and WinAGI, it features 16-color graphics and a typing interface, and is freely available[^ref-33].
 
 ### Related Publications
 
-**Guidebook to the Land of the Green Isles:** Written by Jane Jensen and illustrated by John Shroades, this copy protection manual is presented as the travel journal of Derek Karlavaegen[^ref-13]. The 25+ page guidebook includes island descriptions, the Ancient Ones' alphabet puzzle key, Logic Cliffs riddles, and the Mali Mellin genie legend[^ref-13].
+**Guidebook to the Land of the Green Isles:** Written by Jane Jensen and illustrated by John Shroades, this copy protection manual is presented as the travel journal of Derek Karlavaegen[^ref-13]. The guidebook includes island descriptions, the Ancient Ones' alphabet, Logic Cliffs riddles, and the Mali Mellin genie legend[^ref-13].
 
-**King's Quest VI Hintbook:** Written by Lorelei Shannon and designed by Mark Empey, the 106-page official hint book included "The Royal Family: A Celebration," a supplementary text written in-universe by "Bryanne Eridiphal" for King Graham's 25th anniversary[^ref-4][^ref-34].
+**King's Quest VI Hintbook:** Written by Lorelei Shannon and designed by Mark Empey, the 106-page official hint book included "The Royal Family: A Celebration," a supplementary text written in-universe by "Bryanne Eridiphal" for King Graham's 25th anniversary[^ref-41].
 
-**The King's Quest Companion:** Peter Spear's hint book series included a novelization of King's Quest VI titled "Heir Today, Gone Tomorrow: From the Chronicles of Daventry, Part VI" by eluki bes shahar, narrated by Derek Karlavaegen[^ref-34].
+**The King's Quest Companion:** Peter Spear's hint book series included a novelization of King's Quest VI titled "Heir Today, Gone Tomorrow: From the Chronicles of Daventry, Part VI" by eluki bes shahar, narrated by Derek Karlavaegen[^ref-49].
 
-**The Official Book of King's Quest VI:** Donald B. Trivette's strategy guide included an extensive interview with Roberta Williams discussing design philosophy[^ref-6].
+**The Official Book of King's Quest (3rd edition, 1993):** Donald B. Trivette's series guide, updated to cover KQ6, included an interview with Roberta Williams about the game[^ref-43].
 
 ### Collections
 
@@ -349,11 +347,11 @@ This game has been included in[^ref-20][^ref-21]:
 
 ## References
 
-[^ref-1]: [Adventure Gamers – King's Quest VI](https://web.archive.org/web/20250609194811/https://adventuregamers.com/games/kings-quest-vi-heir-today-gone-tomorrow) – – 4.5/5 Excellent rating, #3 Top 20 All-Time, "best game Sierra gave us" verdict
+[^ref-1]: [Adventure Gamers – King's Quest VI Review (Emily Morganti, 2008)](https://web.archive.org/web/20130901003811/http://www.adventuregamers.com/articles/view/18166/page2) – – 4.5/5 rating, "one of the best games Sierra gave us" verdict
 [^ref-2]: [TV Tropes – King's Quest VI](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestVIHeirTodayGoneTomorrow) – – Jane Jensen credit for quality, darker tone, character name origins, Robin Hood costume reference
 [^ref-3]: [InterAction Magazine Fall 1992 – The Quest for King's Quest VI](https://mocagh.org/sierra/interaction-fall92.pdf) – – 14 months development, video-captured actors, Jane Jensen first adventure was KQ4, Lindsley "100% medal" quote
 [^ref-4]: [Wikipedia – King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) – – $700K budget, 400K first week sales, GameRankings 88.75%, 6,000 messages, Cornell nightingale sounds, hintbook credits
-[^ref-5]: [Dragon Magazine #192 – King's Quest VI Review](https://web.archive.org/web/*/https://archive.org/stream/DragonMagazine192) – – "Best KQ game yet," 15MB hard drive, "astounding" intro, Monkey Island comparisons
+[^ref-5]: [Dragon Magazine #192 (April 1993), pp. 57–58 – King's Quest VI Review](https://web.archive.org/web/20150319223820/http://annarchive.com/files/Drmg192.pdf) – – "Best KQ game yet," 15MB hard drive, "astounding" intro, Monkey Island comparisons
 [^ref-6]: [InterAction Magazine Winter 1992](https://web.archive.org/web/*/https://mocagh.org/sierra/interaction-winter92.pdf) – – Peter Spear "landmark game" and "era of CD gaming" quotes, 130K first shipment
 [^ref-7]: [The Digital Antiquarian – The Mortgaging of Sierra On-Line](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – – Jimmy Maher article: $1M+ budget, Girl in the Tower radio fiasco, Bright Star acquisition, opening movie specs, Ken Williams quotes
 [^ref-8]: [SCI Wiki – King's Quest VI](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – SCI1.1 engine, version numbers, interpreter details
@@ -366,21 +364,34 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-15]: [Amiga Magazine Reviews](https://amigareviews.leveluphost.com/kingsqu6.htm) – – CU Amiga: "walk, talk, touch, look" four commands, right-click scrolls
 [^ref-16]: [KQ Omnipedia – Point System](https://kingsquest.fandom.com/wiki/KQ6_points) – – 231 total, 116 minimum, short/long path ranges
 [^ref-17]: [The Inventory – Jane Jensen Interview 2003](https://gkpages.altervista.org/Interviews/JJ_2003_TheInventory_2.html) – – Cliffs of Logic credit, "huge pad of paper" design method, collaboration dynamics, Roberta as mentor, career impact
-[^ref-18]: [StrategyWiki – KQ6 Walkthrough](https://strategywiki.org/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – Three spells: Make Rain, Charm Creature, Magic Paint
-[^ref-19]: [PC Gamer – Every Sierra Adventure Ranked (2020)](https://www.pcgamer.com/) – – KQ6 ranked #3 of 63 Sierra adventures, highest KQ game
-[^ref-20]: MobyGames – King's Quest VI *(link removed: it led to a different game's page)* – – 8.1 MobyScore, 83% critics, 27 reviews, credits, platforms
+[^ref-18]: [Adventure Classic Gaming – King's Quest VI Walkthrough](https://www.adventureclassicgaming.com/index.php/site/cheats/592/) – – Three spells: Make Rain, Charming a Creature of the Night, Magic Paint
+[^ref-19]: [PC Gamer – Every Sierra Graphical Adventure Game, Ranked (Alexis Ong, 2020)](https://www.pcgamer.com/best-sierra-adventure-games/2/) – – KQ6 ranked #3 of 63 Sierra adventures, highest KQ game
+[^ref-20]: [MobyGames – King's Quest VI](https://www.mobygames.com/game/131/kings-quest-vi-heir-today-gone-tomorrow/) – – 8.1 MobyScore, 83% critics, 27 reviews, credits, platforms, release dates
 [^ref-21]: [GOG.com – King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6) – – 4.6/5 rating, ScummVM-powered, user reviews
-[^ref-23]: My Abandonware – King's Quest VI *(link removed: it led to a different game's page)* – – 4.44/5 (125 votes), preservation downloads
-[^ref-24]: [HowLongToBeat – King's Quest VI](https://howlongtobeat.com/) – – 78% rating, 6.5h main story, 8.5h completionist
-[^ref-25]: [Strong Museum – Jane Jensen](https://web.archive.org/web/*/https://www.museumofplay.org/games/gabriel-knight-sins-of-the-fathers/) – – Jensen joined Sierra 1990, "computer nerds who can write" ad
+[^ref-23]: [My Abandonware – King's Quest VI](https://www.myabandonware.com/game/king-s-quest-vi-heir-today-gone-tomorrow-220) – – 4.44/5 (125 votes)
 [^ref-26]: [PCGamingWiki – King's Quest VI](https://www.pcgamingwiki.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – Technical specs, Windows high-res portraits, system requirements
 [^ref-27]: [Behind the Voice Actors – King's Quest VI](https://www.behindthevoiceactors.com/video-games/Kings-Quest-VI-Heir-Today-Gone-Tomorrow/) – – Stuart Rosen voice director, complete cast list
 [^ref-29]: [Discogs – Girl in the Tower Promo CD](https://www.discogs.com/release/14528268) – – Jane Jensen lyrics, Mark Seibert composer, Jeff Hill co-producer
 [^ref-30]: [Discogs – An Ode to the Isles Vinyl](https://www.discogs.com/release/31112489) – – 2024 Two Guys Records release, Troels Pleimert drums, Error 47 cover, promo CD market values
 [^ref-31]: [Space Quest Historian – KQ6 EP](https://spacequesthistorian.bandcamp.com/album/kings-quest-vi-a-fair-and-balanced-ep) – – Chris Braymen verified composer credits, Mark Seibert "Alex Pining" theme
 [^ref-32]: [ScummVM Wiki – King's Quest VI](https://wiki.scummvm.org/index.php/King%27s_Quest_VI) – – SCI support since v1.2.0, Amiga Virtual Theatre not supported, Revolution conversion
-[^ref-33]: [KQ6 AGI Demake](https://kq6agi.com/) – – Brandon Kouri, 18 years development (2006-2024), August 2024 release, "largest AGI game," hand-traced backgrounds
+[^ref-33]: [KQ6 AGI Demake](https://kq6agi.com/) – – Brandon Kouri, 18 years development (2006-2024), build dated 8/30/24, AGI Studio/WinAGI, 16-color typing interface
 [^ref-34]: [KQ Omnipedia – Various Articles](https://kingsquest.fandom.com/) – – Hintbook details, novelization, Royal Family supplement by Lorelei Shannon
 [^ref-35]: [The Cutting Room Floor – King's Quest VI](https://tcrf.net/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – Debug Script 911, unused Shamir portrait, Ferryman dialogue, early Cassima voice
 [^ref-36]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – – Digital distribution
 [^ref-37]: Internet Archive – King's Quest VI *(download link removed: the game is sold commercially)* – – Browser-playable preservation
+[^ref-38]: [Adventure Gamers – Top 20 Adventure Games of All-Time](https://web.archive.org/web/20240625144354/https://adventuregamers.com/articles/view/17572) – – Evan Dickens, April 2, 2004; list dates to 2001; KQ6 at #3
+[^ref-39]: [QuestBusters, November 1992 – King's Quest VI review by Peter Spear](https://mocagh.org/questbusters/qbustersIX11.pdf) – – "landmark game," "era of CD game playing," "fin de siecle"
+[^ref-40]: [New York Times – Sound Bytes; The Queen of Gaming Reigns at Sierra On-Line (December 20, 1992)](https://www.nytimes.com/1992/12/20/business/sound-bytes-the-queen-of-gaming-reigns-at-sierra-on-line.html) – – Roberta Williams: about $700,000, over 20 people for 14 months, CD-ROM version due in February
+[^ref-41]: [King's Quest VI Official Hint Book (Sierra, 1992)](https://mocagh.org/sierra/kq6-hintbook.pdf) – – Development timeline, credits (Albert Co, Cornell nightingale songs, Lorelei Shannon, Mark Empey), 231 maximum / 116 minimum points, "about 50% of the puzzles" optional
+[^ref-42]: [PR Newswire – King's Quest VI Ships Gold (October 13, 1992)](https://web.archive.org/web/20170826072541/https://www.thefreelibrary.com/KING%27S+QUEST+VI+SHIPS+GOLD%3b+HOTTEST+TITLE+FOR+CHRISTMAS+%2792+TOPS...-a012647586) – – Launch date, 1.5 million disks duplicated, pre-orders, launch specifications
+[^ref-43]: [Donald B. Trivette – The Official Book of King's Quest, 3rd ed. (Compute Books, 1993)](https://www.mocagh.org/sierra/officialkq3rd.pdf) – – Roberta Williams interview on KQ6, "ominous tone" observation
+[^ref-44]: [Polygon – The History of King's Quest (2015)](http://www.polygon.com/2015/7/28/9023667/kings-quest-history) – – Ken Williams 2003 forum post: "around 400,000 copies" in first week
+[^ref-45]: [Wikipedia – Jane Jensen (video game designer)](https://en.wikipedia.org/wiki/Jane_Jensen_(video_game_designer)) – – Writer on Police Quest III and EcoQuest
+[^ref-46]: [Wikipedia – Elon Gasper](https://en.wikipedia.org/wiki/Elon_Gasper) – – Ken Williams's "genius ex-college professor" description
+[^ref-47]: [KQ Omnipedia – King's Quest VI (Amiga)](https://kingsquest.fandom.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow_(Amiga)) – – Puzzles, animations, and locations cut or altered for disk count
+[^ref-48]: [KQ Omnipedia – Girl in the Tower](https://kingsquest.fandom.com/wiki/Girl_in_the_Tower) – – Space Quest 6, Leisure Suit Larry 6, and Torin's Passage references
+[^ref-49]: [KQ Omnipedia – Heir Today, Gone Tomorrow: From the Chronicles of Daventry, Part VI](https://kingsquest.fandom.com/wiki/Heir_Today,_Gone_Tomorrow:_From_the_Chronicles_of_Daventry,_Part_VI) – – eluki bes shahar novelization, Derek Karlavaegen narration
+[^ref-50]: [KQ Omnipedia – King's Quest VI](https://kingsquest.fandom.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – Logic Cliffs "Quit making me fall!" trivia
+[^ref-51]: [KQ Omnipedia – Samhain](https://kingsquest.fandom.com/wiki/Samhain) – – Arch Druid's account of Samhain's curse
+[^ref-52]: [Tropedia – King's Quest VI](https://tropedia.fandom.com/wiki/King%27s_Quest_VI) – – Alexander's outfit based on Kevin Costner's in Robin Hood: Prince of Thieves
