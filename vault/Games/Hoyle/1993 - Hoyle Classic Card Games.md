@@ -5,142 +5,146 @@ developer: Sierra On-Line
 designer: [Warren Schwader]
 publisher: Sierra On-Line
 genre: Card Game
-platforms: [DOS, Windows, Mac, Game Boy Color]
+platforms: [DOS, Windows, Mac]
 series: Hoyle
 engine: SCI1.1
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
-description: Hoyle Classic Card Games is part of Sierra On-Line's popular Hoyle series
-  of card and board game compilations, originally released in 1993 for MS-DOS with...
+last_updated: '2026-10-09'
+description: Hoyle Classic Card Games (Hoyle 4) is Sierra On-Line's 1993 VGA remake
+  of Hoyle's Official Book of Games Volume 1, with eight card games, speech and Sierra
+  characters as opponents.
 tags: [1990s, hoyle, sci, sierra]
 ---
 # Hoyle Classic Card Games
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-Hoyle Classic Card Games is part of Sierra On-Line's popular Hoyle series of card and board game compilations, originally released in 1993 for MS-DOS with updated versions following through 1997[^ref-1][^ref-2]. The game represents a digital adaptation of eight classic card games, featuring the signature blend of traditional gameplay and Sierra's characteristic humorous characters that made the series distinctive[^ref-2][^ref-5]. Following the success of the earlier volumes in the series, which had sold over 250,000 copies by 1990, this release continued Sierra's tradition of bringing "games 'of skill and chance'" to the personal computer market[^ref-3].
+Hoyle Classic Card Games, also known as Hoyle 4, is the fourth installment in Sierra On-Line's Hoyle series, released in 1993 for DOS, Windows 3.x and Macintosh[^ref-2][^ref-8]. It was a remake of 1989's Hoyle's Official Book of Games: Volume 1, rebuilt with VGA support, speech and an original soundtrack[^ref-3][^ref-4]. The collection offers eight card games: Bridge, Euchre, Old Maid, Gin Rummy, Hearts, Cribbage, Crazy Eights and Klondike[^ref-2]. Sierra's box copy billed it as "Eight Great Games, Now Including Bridge and Euchre!"[^ref-19].
 
-The game was developed using Sierra's Creative Interpreter (SCI) engine, though the development team found that "working with SCI to implement card games and to code artificial intelligence for the characters proved challenging"[^ref-3]. Despite these technical hurdles, the final product offered players a comprehensive collection that included Bridge, Euchre, Old Maid, Gin Rummy, Hearts, Cribbage, Crazy Eights, and Klondike solitaire[^ref-4]. The Windows version expanded the game list further, adding Spades, Canasta, and Poker to bring the total to eleven playable card games[^ref-11].
+The game was designed and programmed by Warren Schwader, who had created the original Hoyle volumes, with Robert Holmes as producer, director and composer[^ref-2][^ref-3]. It was built on Sierra's Creative Interpreter (SCI)[^ref-2], and it is the last volume in the series to feature animated characters from other Sierra titles[^ref-2][^ref-15].
+
+This page covers the 1993 SCI game. Sierra released a different Windows CD-ROM game under the same name in 1997, which "is neither compatible with DOS nor does it use the SCI engine"[^ref-24]; see [[1997 - Hoyle Classic Card Games]].
 
 > [!info]- Game Info
-> **Developer:** [[Sierra On-Line]][^ref-1]
-> **Designer:** [[Warren Schwader]][^ref-5]
-> **Publisher:** Sierra On-Line[^ref-1]
-> **Platforms:** DOS, Windows, Macintosh, Game Boy Color[^ref-6]
-> **Release Year:** 1993
+> **Developer:** [[Sierra On-Line]][^ref-2]
+> **Designer:** [[Warren Schwader]][^ref-2]
+> **Publisher:** Sierra On-Line[^ref-2]
+> **Engine:** SCI1.1[^ref-8][^ref-20]
+> **Platforms:** DOS, Windows 3.x, Macintosh[^ref-2][^ref-8]
+> **Release Year:** 1993[^ref-2]
 > **Series:** Hoyle
-> **Sierra Lineage:** Core Sierra
-> **Engine:** SCI1.1
 > **Protagonist:** N/A
+> **Sierra Lineage:** Core Sierra
+> **Producer / Composer:** Robert Holmes[^ref-2]
 
 ## Story Summary
 
-While Hoyle Classic Card Games does not follow a traditional narrative structure, it features Sierra's beloved animated characters serving as opponents across the various card games. Each character has "five unique expressions in full speech," bringing personality and humor to what might otherwise be straightforward card gameplay[^ref-4]. The game includes both Sierra Characters, who are fully voiced, and Classic Characters, though technical issues in some versions meant that "the 'Classic Characters' do not speak" despite speech bubbles appearing[^ref-7].
+Hoyle Classic Card Games has no narrative. Its personality comes from the opponents at the table. The player chooses from 18 characters in two sets[^ref-3][^ref-18]. The "Classic Characters" are original characters made with digitized actors and sepia toning to look like old photographs: Dinky, Scout, Crazy Jack, Trudy, Josephine, Billy Joe, Chip, Winthorp and Fairbanks[^ref-3][^ref-18]. The "Sierra Characters" are guests from other Sierra games: King Graham, Pepper, Willy Beamish, Larry Laffer, Quarky, Laura Bow, Adam, Roger Wilco and Dr. Brain[^ref-3][^ref-18]. Adam appears in his look from EcoQuest 2: Lost Secret of the Rainforest[^ref-4].
 
-The characters engage players with witty dialogue and reactions during gameplay, maintaining Sierra's tradition of injecting humor into their game products. However, as Computer Gaming World noted in their review of the series, "interacting with Sierra characters was fun, but annoying for those who preferred cards to humor"[^ref-3].
+Each character has five unique expressions in full speech, such as reactions to a play or responses to a compliment or taunt. A few more text messages relate to the game in progress, but the characters do not hold conversations with each other[^ref-3][^ref-4]. Loading screens show the Classic characters making silly comments about whichever game is loading[^ref-3][^ref-15].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Hoyle Classic Card Games utilizes a point-and-click interface optimized for mouse control, with keyboard support also available[^ref-8]. The game features VGA graphics with 256-color support, providing clear and attractive visuals for card play[^ref-9]. Players interact with the games through Sierra's established interface design, which includes an interface tutorial and game-specific glossary with customization options[^ref-1]. Multiple interface themes were available, including "home menu, cozy cabin, and spaceship" visual settings that players could choose to personalize their experience[^ref-5].
+The game uses a point-and-click interface, and it can be controlled with the mouse or the keyboard[^ref-2][^ref-8]. The DOS version supports EGA and VGA graphics[^ref-8], and the box advertised an "all-new collection of 256-color card games"[^ref-19]. Players can read the basic rules for each game, and the game also includes an interface tutorial, a glossary of game-specific terms and a range of options[^ref-2]. The card faces and table backdrop can be customized[^ref-15].
 
 ### Structure and Progression
 
-The game offers eight different card games, each playable independently: Bridge, Euchre, Old Maid, Gin Rummy, Hearts, Cribbage, Crazy Eights, and Klondike[^ref-4]. As the marketing materials proclaimed, "Eight Great Games, Now Including Bridge and Euchre!" highlighting the inclusion of these more complex card games that required more sophisticated AI programming[^ref-10]. The Windows version expanded this to eleven games by adding Spades, Canasta, and Poker[^ref-11].
-
-Players can choose their opponents from a roster of 18 animated characters, divided between Sierra Characters (fully voiced crossover appearances from other Sierra games) and Classic Characters (original creations for the Hoyle series)[^ref-4]. Each character has "five unique expressions in full speech," bringing personality and variety to gameplay sessions[^ref-4]. Characters possess their own skills and strengths in various games, encouraging players to experiment with different opponents.
+The eight games are independent. Bridge and Euchre were new to the series, and the other six came from Volume 1[^ref-18][^ref-4]. The box promised "18 animated opponents with their own personalities and skill levels" and "characters that actually speak"[^ref-19].
 
 ### Puzzles and Mechanics
 
-Each card game follows traditional rules, with the artificial intelligence providing challenging gameplay across different skill levels. The AI programming was particularly noteworthy given the technical constraints of the SCI engine. Later versions included network multiplayer capabilities, with "Network Multiplayer available for Hearts, Spades, Gin Rummy and Poker," though this "can only be accessed through the Windows version"[^ref-5]. The game also supported local multiplayer for certain games, allowing friends to gather around a single computer.
+Each game has its own rule options[^ref-18]:
 
-GameSpot's Kevin Hunsanger noted that "Sierra does a nice job of bringing classic card games to the PC with Hoyle Classic; the graphics are simple and attractive, and gameplay is quite often challenging"[^ref-11]. Poker mode provided players with $5,000 per session to test their skills, though one reviewer noted "there's little not to recommend here outside the limited Poker variations, which could have at least included Texas Hold 'Em"[^ref-11].
+**Bridge**: Four players. The dummy can be set to Never Dummy, Can Be Dummy or Double Dummy[^ref-18]. Bridge was designed and programmed by Richard Aronson, with Bridge programming by Jerry Shaw and additional Bridge programming by Corey Cole[^ref-2].
 
-### Card Game Details
+**Euchre**: Four players. An optional rule forces the dealer to call trump at the end of the second round, and games can be played to 5, 7 or 10 points[^ref-18].
 
-**Bridge**: The most complex card game in the collection, featuring full bidding systems and play conventions. The AI opponents demonstrate solid understanding of bridge strategy, making it suitable for practice sessions. A later patch added "Bridge internet play and a Bridge four-deal game variation"[^ref-17].
+**Hearts**: Four players. Options set who leads the first trick, how cards are passed (alternating, always left, or no passing), whether the Queen of Spades breaks Hearts, and whether Hearts can be broken on the first trick[^ref-18].
 
-**Hearts**: A classic trick-avoidance game where players try to avoid taking hearts and the Queen of Spades. Features the "shoot the moon" mechanic where collecting all penalty cards reverses scoring[^ref-4].
+**Gin Rummy**: Two players. Oklahoma Gin is included as a variant, in which the first upcard sets the knocking count[^ref-18].
 
-**Gin Rummy**: Two-player knock rummy with standard rules, allowing players to compete against AI opponents or other players over network in later versions[^ref-5][^ref-11].
+**Cribbage**: Two players, with an optional "Muggins" rule[^ref-18].
 
-**Cribbage**: Traditional 2-player cribbage with authentic pegboard scoring display. Includes proper muggins rules and scoring animations[^ref-4].
+**Crazy Eights**: Four players. Options limit how many cards can be drawn from the stock, and a "Very Crazy Eights" variant adds special rules for certain cards[^ref-18].
 
-**Klondike**: The classic solitaire variant, allowing players to practice card skills without opponents. This game would later be expanded in Hoyle Volume 2, which featured 28 different solitaire variations[^ref-3].
+**Old Maid**: Four players, with a choice of a Standard or Kid's deck[^ref-18].
 
-**Euchre**: A partnership trick-taking game popular in the Midwest United States, notable for its inclusion alongside Bridge as one of the more strategic offerings[^ref-10].
-
-**Crazy Eights**: A simpler card game suitable for all ages, where players try to empty their hands by matching the previous card's suit or rank[^ref-4].
-
-**Old Maid**: A classic children's game included to round out the family-friendly collection[^ref-4].
+**Klondike**: One player. Options include Flip 1 or Flip 3, limits on passes through the stock, and cumulative or basic scoring[^ref-18].
 
 ## Reception
 
 ### Contemporary Reviews
 
-| Publication | Score | Notes |
+MobyGames lists a critics' average of 70%, based on six ratings[^ref-2]. No contemporary review text has been located for this page yet.
+
+| Source | Score | Notes |
 |-------------|-------|-------|
-| GameSpot | 7/10 | "Sierra does a nice job of bringing classic card games to the PC"[^ref-11] |
-| MobyGames | 70% | General user rating[^ref-2] |
-| Abandonware DOS | 3.93/5.00 | Retrospective rating[^ref-9] |
+| MobyGames | 70% | Critics' average, 6 ratings[^ref-2] |
+| MobyGames | 4.6/5 | Players' average, 4 ratings[^ref-2] |
 
 ### Modern Assessment
 
-Modern retrospectives have been generally positive, with MyAbandonware users rating it 4.4/5[^ref-12]. GameSpot's Kevin Hunsanger noted that "from Gin Rummy to Spades, Hoyle Classic offers eleven different card games, enough to keep players in the chips for hours"[^ref-11]. However, the game faces compatibility challenges on modern systems, as noted by customers who reported "it's a great game, but extremely old and will not run on most systems"[^ref-13].
+On abandonware sites, users rate the game 4.03/5 on Abandonware DOS (32 votes)[^ref-9] and 4.45/5 on MyAbandonware (26 votes)[^ref-12]. Brainbaking's 2025 retrospective on the series credits Hoyle 4 with "more shiny colours, Adlib-compatible musical tones, and a few more characters/games." It also notes that Sierra "yet again put in effort to up the charm ante by digitizing some of the compliments and taunts"[^ref-15]. A GOG Community Wishlist entry for the game drew 373 votes, and one commenter wrote: "Hoyle games are gems! They are the best!"[^ref-21].
 
 ## Development
 
 ### Origins
 
-Hoyle Classic Card Games emerged from Sierra's broader strategy to expand beyond adventure games into family-friendly entertainment. As the fourth volume in the series, it served as a semi-remake of the original 1989 Hoyle Volume I while incorporating the technical advancements of the early 1990s[^ref-2]. The series was part of Ken Williams' vision for interpersonal computing and online gaming, as he stated: "Sierra is interested in extending our core product-development technology to have multiplayer capabilities"[^ref-14].
+Sierra licensed the Hoyle name from the playing-card maker Brown & Bigelow[^ref-3][^ref-15]. The brand traces back to Edmond Hoyle, who "meticulously recorded and explained all games 'of skill and chance' he encountered from as early as 1672"[^ref-15]. Sierra's box copy played on the phrase: "For years, 'according to Hoyle' has meant 'by the book'; the definitive way to enjoy a great game of cards"[^ref-19][^ref-10].
 
-Sierra licensed the Hoyle brand from card manufacturers Brown & Bigelow, drawing on the historical authority of Edmond Hoyle, who "meticulously recorded and explained all games 'of skill and chance' he encountered from as early as 1672"[^ref-15]. The brand name carried significant weight—"according to Hoyle" had become a cultural phrase meaning "by the book; the definitive way to enjoy a great game of cards"[^ref-11].
+The series began in 1989 with Volume 1, which Warren Schwader pitched to Ken Williams and then designed and programmed in SCI. Wikipedia notes that for that first volume, "working with SCI to implement card games and to code artificial intelligence for the characters proved challenging"[^ref-3]. Volume 1 sold over 250,000 copies by 1990[^ref-3]. Hoyle Classic Card Games remade that first volume four years later[^ref-3][^ref-15].
 
 ### Production
 
-The development team faced significant technical challenges adapting card games to Sierra's adventure game engine. The SCI scripting language, while powerful for narrative adventures, required considerable innovation to handle card game logic and AI behavior—the Wikipedia article on the series notes that "working with SCI to implement card games and to code artificial intelligence for the characters proved challenging"[^ref-3]. The team included voice actors Jeff Hoyt, Amy Broomhall, and Kate Myre, with music composed by Evan Schiller, Rob Atesalp, and Robert Holmes[^ref-5].
+MobyGames credits 60 people on the DOS version[^ref-2]. Key credits[^ref-2]:
 
-The game was notable as the last volume in the series to feature animated characters from other Sierra titles[^ref-1]. These crossover characters, which had been a hallmark of the series since Volume 1, provided familiar faces for Sierra fans while adding personality to what might otherwise be straightforward card gameplay. However, as Computer Gaming World noted in their review of the series, "interacting with Sierra characters was fun, but annoying for those who preferred cards to humor"[^ref-3].
+| Role | Name |
+|------|------|
+| Executive Producer | Ken Williams |
+| Producer, Director & Composer | Robert Holmes |
+| Designer & Senior Programmer | Warren Schwader |
+| Art, Design & Senior Artist | Cindy Walker |
+| Senior Programmer & Digital Audio | Tom DeSalvo |
+| Bridge Design & Programming | Richard Aronson |
+| Art, Animation & Lip Sync | Donald Waller |
+| Music Arrangement & Programming | Dan Kehler |
 
 ### Technical Achievements
 
-The game featured VGA graphics support with 256-color depth, full speech synthesis, and an original soundtrack - significant upgrades from earlier entries in the series[^ref-16]. All speech content was contained in a single RESOURCE.AUD file, demonstrating efficient audio compression techniques for the era[^ref-7]. The game supported various graphics modes including EGA and VGA, with compatibility across systems with and without sound cards[^ref-9].
+The game runs on SCI1.1[^ref-8]. Its DOS requirements were an Intel 286 with 640 KB of RAM and EGA or VGA graphics, and the Windows 3.x version needed Windows 3.1 and 2 MB of RAM[^ref-8]. Even the floppy releases include digitized speech, which ScummVM notes for both its DOS/Windows and Macintosh floppy entries ("Although this is a floppy game, it does have speech")[^ref-20]. All of the game's speech is stored in a single RESOURCE.AUD file[^ref-7].
 
-A known technical issue affected some versions: "Although the 'Sierra Characters' in the game speak and are fully voiced, the 'Classic Characters' do not speak. Although speech bubbles appear, there is no sound produced"[^ref-7]. This issue persisted across different sound card selections in DOSBox emulation, suggesting it was a data rather than configuration problem.
+In a 2007 Vogons thread, a player running the game in DOSBox reported that the Sierra Characters spoke but the Classic Characters did not: "Although speech bubbles appear, there is no sound produced"[^ref-7]. The player was using an abandonware copy, and a reply suggested that downloaded versions often have speech files stripped out to save space. The thread never settled whether this was a fault in the game itself[^ref-7].
 
 ### Version History
 
-| Game Version | Date | Platform | Notes |
+| Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Hoyle Volume 1 | 1989 | DOS | Original series entry, 6 card games[^ref-3] |
-| Hoyle Volume 2 | 1990 | DOS | 28 solitaire games[^ref-3] |
-| Hoyle Volume 3 | 1991 | DOS | 6 board games[^ref-3] |
-| Hoyle Classic Card Games | 1993 | DOS | 8 games, VGA support, full speech[^ref-1] |
-| Hoyle Classic Card Games | 1997 | Windows 3.x | Windows port with enhanced graphics[^ref-12] |
-| HOYLEPAT | Various | DOS/Win | Patch adding Bridge internet play and four-deal variation[^ref-17] |
-| Hoyle Card Games | 2002 | Windows | Series continuation by Encore[^ref-3] |
+| Hoyle's Official Book of Games: Volume 1 | 1989 | DOS | Original series entry, remade by this game[^ref-3] |
+| Hoyle's Official Book of Games: Volume 2 | 1990 | DOS | 28 solitaire games[^ref-3] |
+| Demo | — | DOS | Two English DOS demo builds are catalogued by ScummVM[^ref-20] |
+| 2.000 | 1993[^ref-2] | DOS / Windows 3.x | Floppy release with speech; VERSION file reports "2.000"[^ref-20] |
+| 2.0 | 1993[^ref-2] | Macintosh | Floppy release with speech[^ref-20] |
+| HOYLEPAT | — | Windows | Official patch that makes it "easier to access the icon bar" when playing through Windows[^ref-17] |
 
 ## Legacy
 
-Hoyle Classic Card Games represented the last volume in the series to feature animated characters from other Sierra titles, marking the end of an era for the franchise[^ref-1]. The success of the Hoyle series contributed to Sierra's expansion into online gaming through The Sierra Network, where "many of our testers had never touched a computer before, but were suddenly averaging 20 hours per week and more on TSN"[^ref-14]. The first volume alone "sold over 250,000 copies by 1990"[^ref-3], demonstrating strong market demand for digital card games.
+Hoyle Classic Card Games was the last Hoyle volume to feature Sierra's own characters. Later releases replaced them with "more general but equally goofy ones"[^ref-15]. The next major release, Hoyle Classic Games (Hoyle 5, 1995), was the series' first CD-ROM edition[^ref-3]. Sierra published the series through 2003, and Encore Software took over publishing from 2005 to 2016[^ref-3].
 
-The game received various patches and updates, including one that "adds Bridge internet play and a Bridge four-deal game variation," demonstrating Sierra's commitment to supporting the product post-launch[^ref-17]. A notable update for Spades added the feature where "cards now slide to trick taker's hand," improving the visual feedback during gameplay[^ref-17].
+ScummVM's SCI engine supports the game (as "hoyle4") for its DOS/Windows and Macintosh releases[^ref-20].
 
 ### Modern Availability
 
-The game faces significant compatibility challenges on modern systems. As one Amazon customer noted, "it's a great game, but extremely old and will not run on most systems"[^ref-13]. The Windows 3.x version specifically "does not work on 64-bit versions of Windows"[^ref-8], requiring DOSBox or similar emulation solutions. Despite these technical hurdles, fan interest remains strong, with GOG community members noting "Hoyle games are gems! They are the best!"[^ref-14].
-
-The series continued with multiple sequels and iterations, eventually transitioning to developers like Encore and Sandbox Studios as Sierra's focus shifted in the late 1990s. The Hoyle brand continues to be licensed for card game collections, with releases appearing through 2015, demonstrating the enduring appeal of the digital card game format that Sierra pioneered.
+The game is not sold on GOG. It appears there only as a Dreamlist entry, where users can vote to bring it to the store[^ref-22]. PCGamingWiki warns that the Windows 3.x release does not work on 64-bit versions of Windows, but says it may be playable through ScummVM[^ref-8]. The Internet Archive hosts a browser-playable DOS version[^ref-1].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-classic-card-games) - Community Dreamlist
-- Available on Amazon (legacy physical copies)[^ref-13]
+- Not currently sold digitally. [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-classic-card-games) entry only[^ref-22]
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-classic-card-games-2av)
@@ -148,8 +152,8 @@ The series continued with multiple sequels and iterations, eventually transition
 
 ## See Also
 
-- [[1996 - Hoyle Solitaire|← Previous: Hoyle Solitaire]]
-- [[1997 - Hoyle Poker|→ Next: Hoyle Poker]]
+- [[1992 - Hoyle Bridge|← Previous: Hoyle Bridge]]
+- [[1993 - Hoyle Official Book of Games - Volume 5|→ Next: Hoyle Official Book of Games - Volume 5]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
@@ -206,20 +210,20 @@ The series continued with multiple sequels and iterations, eventually transition
 
 ## References
 
-[^ref-1]: [Archive.org](https://archive.org/details/msdos_Hoyle_Classic_Card_Games_1993) – - Basic release information
-[^ref-2]: [MobyGames](https://www.mobygames.com/game/30264/hoyle-classic-card-games/) – - Game description and Sierra character integration
-[^ref-3]: [Wikipedia](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – - Series sales figures and Edmond Hoyle background
-[^ref-4]: [EcoQuest Fandom](https://ecoquest.fandom.com/wiki/Hoyle_Classic_Card_Games) – - Complete game list
-[^ref-5]: [MobyGames](https://www.mobygames.com/game/203390/hoyle-classic-card-games/) – - Designer credit
-[^ref-6]: [MobyGames](https://www.mobygames.com/search/?q=Hoyle+Classic+Card+Games) – - Platform availability
-[^ref-7]: [Vogons.org](https://www.vogons.org/viewtopic.php?t=14793) – - Technical issues with character speech
-[^ref-8]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Hoyle_Classic_Card_Games) – - Input device information
-[^ref-9]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Hoyle+Classic+Card+Games&gid=1924) – - Graphics specifications
-[^ref-10]: [GameFAQs](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – - Marketing description
-[^ref-11]: [GameSpot](https://www.gamespot.com/reviews/hoyle-classic-card-games-review/1900-2537742/) – - Review score and quote
-[^ref-12]: [MyAbandonware](https://www.myabandonware.com/game/hoyle-classic-card-games-2av) – - Modern user rating
-[^ref-13]: [Amazon](https://www.amazon.com/Hoyle-Classic-Card-Games-Pc/dp/B000DZLXR6) – - Customer compatibility feedback
-[^ref-14]: [Filfre.net](https://www.filfre.net/?s=Hoyle+Classic+Card+Games) – - Ken Williams quote on multiplayer strategy
-[^ref-15]: [Brainbaking.com](https://brainbaking.com/post/2026/09/a-tribute-to-hoyles-official-book-of-games/) – - Edmond Hoyle historical background
-[^ref-16]: [Archive.org](https://archive.org/details/HoyleCCG) – - Technical features description
-[^ref-17]: [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – - Bridge internet play patch details
+[^ref-1]: [Internet Archive – Hoyle Classic Card Games (1993, MS-DOS)](https://archive.org/details/msdos_Hoyle_Classic_Card_Games_1993) – - browser-playable DOS emulation item
+[^ref-2]: [MobyGames – Hoyle Classic Card Games (1993)](https://www.mobygames.com/game/30264/hoyle-classic-card-games/) – - description, eight-game list, platforms, credits, SCI group, critics and players averages
+[^ref-3]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – - Hoyle 4 section (remake, characters, speech), Volume 1 development and sales, Brown & Bigelow license, Hoyle 5, Encore era
+[^ref-4]: [EcoQuest Omnipedia (Fandom) – Hoyle Classic Card Games](https://ecoquest.fandom.com/wiki/Hoyle_Classic_Card_Games) – - 1993 semi-remake of Volume I, five speech expressions per character, Adam's appearance
+[^ref-7]: [VOGONS – Hoyle Classic Card Games Sound Issue](https://www.vogons.org/viewtopic.php?t=14793) – - 2007 user report on Classic Characters' speech, RESOURCE.AUD, abandonware-copy reply
+[^ref-8]: [PCGamingWiki – Hoyle Classic Card Games](https://www.pcgamingwiki.com/wiki/Hoyle_Classic_Card_Games) – - SCI1.1, 1993 release dates, EGA/VGA, system requirements, 64-bit warning, ScummVM note
+[^ref-9]: [Abandonware DOS – Hoyle Classic Card Games](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Hoyle+Classic+Card+Games&gid=1924) – - user rating 4.03/5 (32 votes)
+[^ref-10]: [GameFAQs – Hoyle franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – - 1993 box blurb ("Eight Great Games…", "according to Hoyle")
+[^ref-12]: [MyAbandonware – Hoyle Classic Card Games](https://www.myabandonware.com/game/hoyle-classic-card-games-2av) – - user rating 4.45/5 (26 votes)
+[^ref-15]: [Brain Baking – A Tribute to Hoyle's Official Book of Games](https://brainbaking.com/post/2025/09/a-tribute-to-hoyles-official-book-of-games/) – - Edmond Hoyle and 1672, Brown & Bigelow, Hoyle 4 retrospective, end of Sierra characters
+[^ref-17]: [Sierra Help Pages – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – - HOYLEPAT icon-bar patch
+[^ref-18]: [Giant Bomb – Hoyle Classic Card Games](https://www.giantbomb.com/hoyle-classic-card-games/3030-16932/) – - per-game rule options, 18 characters (Sierra and Classic sets)
+[^ref-19]: [GameFAQs – Hoyle Classic Card Games (PC, 1993)](https://gamefaqs.gamespot.com/pc/197583-hoyle-classic-card-games) – - box description: eight games, 256-color, 18 animated opponents, speech
+[^ref-20]: [ScummVM – SCI detection tables (engines/sci/detection_tables.h)](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) – - "hoyle4" DOS/Win and Macintosh floppy entries with speech, DOS demos
+[^ref-21]: [GOG Community Wishlist – Sierra: Hoyle Classic Card Games](https://www.gog.com/wishlist/games/sierra_hoyle_classic_card_games/1000) – - 373 votes, "Hoyle games are gems!" comment
+[^ref-22]: [GOG Dreamlist – Hoyle Classic Card Games](https://www.gog.com/dreamlist/game/hoyle-classic-card-games) – - Dreamlist vote entry; not sold on GOG
+[^ref-24]: [Internet Archive – Hoyle Classic Card Games (1997 Windows CD)](https://archive.org/details/HoyleCCG) – - distinguishes the 1997 Windows game from the DOS SCI game
