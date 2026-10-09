@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary (DOS)
 protagonist: Player-created company president
 sierra_lineage: Sierra Published
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 composer: ['Christopher J. Denman, Jason P. Rinaldi']
 description: Detroit is a turn-based business simulation game that places players
   in charge of a fledgling automobile company starting in 1908, the year the Ford
@@ -243,7 +243,7 @@ Detroit remains notable as one of the few games to tackle the automobile industr
 [^ref-2]: [DOS Games Archive – Detroit](https://www.dosgamesarchive.com/download/detroit) – publisher, description, demo information, German title "Rüsselsheim"
 [^ref-3]: [ClassicReload – Detroit](https://classicreload.com/detroit.html) – gameplay description, historical events, failure state
 [^ref-4]: [AbandonwareGames.net – Detroit](https://abandonwaregames.net/game/detroit) – user rating, game description, platforms
-[^ref-5]: [Home of the Underdogs – Detroit](https://web.archive.org/web/*/homeoftheunderdogs.net) – Air Bucks comparison, design philosophy
+[^ref-5]: [Home of the Underdogs – Detroit](https://homeoftheunderdogs.net/game.php?id=304) – Air Bucks comparison, design philosophy
 [^ref-6]: [GOG.com – Detroit Wishlist](https://www.gog.com/dreamlist/game/detroit) – user comments, fan reception, sequel project
 [^ref-7]: [Lemon Amiga – Detroit Manual](https://www.lemonamiga.com/games/docs.php?id=467) – game manual text, starting conditions, objectives
 [^ref-8]: [FreeGameEmpire – Detroit](https://www.freegameempire.com/games/Detroit) – interface description, Impressions history, rating

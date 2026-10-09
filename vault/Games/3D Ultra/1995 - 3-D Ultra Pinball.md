@@ -229,7 +229,7 @@ The game's accessibility also drew note, though not always positively. GameSpot 
 [^ref-1]: [MobyGames - 3-D Ultra Pinball](https://www.mobygames.com/game/4508/3-d-ultra-pinball/) — Game credits, developer info, and user reviews
 [^ref-2]: [NewTechReview - 3D Ultra Pinball Review](https://newtechreview.com/reviews/3d-ultra-pinball/) — Review praising Sierra's impact on PC pinball
 [^ref-3]: [GameSpot - 3-D Ultra Pinball](https://www.gamespot.com/games/3-d-ultra-pinball/) — Contemporary coverage of fantasy pinball mechanics
-[^ref-4]: [Sierra Sales Report 1998](https://web.archive.org/web/*/https://archive.org/details/sierra-annual-report-1998) — Series sales exceeding 500,000 copies
+[^ref-4]: Sierra Sales Report 1998 *(no archived copy found)* — Series sales exceeding 500,000 copies
 [^ref-5]: [Internet Archive – 3-D Ultra Pinball: The Lost Continent (1997)](https://archive.org/details/3-d-ultra-pinball-the-lost-continent-win-mac-sierra-on-line-inc.-1997) — Sierra's preservation entry containing original marketing copy: "bestselling pinball series of all time," "15 interlinked tables," and the Thrustmaster Wizard / Sidewinder / Gravis Gripp controller list
 [^ref-6]: [MyAbandonware - 3-D Ultra Pinball](https://www.myabandonware.com/game/3-d-ultra-pinball-3fg) — Preservation download with 4.78/5 user rating
 [^ref-7]: [Internet Archive - 3-D Ultra Pinball](https://archive.org/details/3-D_Ultra_Pinball_Sierra_On-Line_S676430_1995) — Preservation copy with documentation

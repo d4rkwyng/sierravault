@@ -10,7 +10,7 @@ series: None
 engine: 6502 Assembly
 protagonist: Unnamed pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: Aquatron is a horizontally scrolling shooter developed by Justin Gray
   and published by Sierra On-Line in 1983 for Apple II and Atari 8-bit computers.
   The...
@@ -240,7 +240,7 @@ Modern retro gaming enthusiasts have given Aquatron warmer reception than its co
 [^ref-1]: [Wikipedia – Aquatron (video game)](https://en.wikipedia.org/wiki/Aquatron_(video_game))) – release dates, developer, publisher, contemporary reviews, naming history
 [^ref-2]: [Wikipedia – Aquatron](https://en.wikipedia.org/wiki/Aquatron_%28video_game%29) – designer credits, review quotes, development history
 [^ref-3]: [Atarimania – Aquatron](http://www.atarimania.com/game-atari-400-800-xl-xe-aquatron_300.html) – user reviews, technical details, bugs, development notes
-[^ref-7]: [Apple2Games Wiki – Aquatron](https://web.archive.org/web/*/https://www.apple2games.com/wiki/Aquatron) – gameplay description, historical context
+[^ref-7]: [Apple2Games Wiki – Aquatron](https://web.archive.org/web/20250819204500/https://www.apple2games.com/wiki/Aquatron) – gameplay description, historical context
 [^ref-5]: [MobyGames – Aquatron](https://www.mobygames.com/game/68492/aquatron/) – gameplay description, platforms, ratings, publisher
 [^ref-6]: [Retro365 Blog – Aquatron: Late to the Party](https://retro365.blog/2021/10/31/bits-from-my-personal-collection-aquatron-late-to-the-party/) – development history, SierraVision, naming difficulties, market context
 [^ref-8]: [Internet Archive – Woz-a-day Aquatron](https://archive.org/details/wozaday_Aquatron) – game description, preservation details, system requirements

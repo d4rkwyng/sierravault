@@ -43,7 +43,7 @@ The original Stronghold, released in 2001, achieved critical and commercial succ
 
 Beyond the Stronghold series, Firefly Studios has developed diverse titles under Bradbury's leadership. Space Colony (2003) brought the studio's simulation expertise to a sci-fi setting.[^ref-14] CivCity: Rome (2006) represented a collaboration with Firaxis Games and 2K Games, blending Civilization-inspired mechanics with detailed city-building.[^ref-15] Stronghold Kingdoms (2012) marked Firefly's entry into browser-based MMO gaming, eventually attracting over eight million registered players.[^ref-16]
 
-In June 2021, Firefly Studios was acquired by Devolver Digital, though the studio continues to operate independently with Bradbury and Ouellette as key leadership.[^ref-17] Recent releases have included definitive editions of classic titles: Stronghold: Definitive Edition (2023) and Stronghold Crusader: Definitive Edition (2025), bringing the beloved franchise to new generations of players.[^ref-18]
+In November 2021, as it went public, Devolver Digital announced it had acquired Firefly Studios, though the studio continues to operate independently with Bradbury and Ouellette as key leadership.[^ref-17] Recent releases have included definitive editions of classic titles: Stronghold: Definitive Edition (2023) and Stronghold Crusader: Definitive Edition (2025), bringing the beloved franchise to new generations of players.[^ref-18]
 
 ## Notable Works
 
@@ -145,7 +145,7 @@ With Firefly Studios now part of Devolver Digital and the Stronghold franchise e
 [^ref-14]: [Space Colony - Steam](https://store.steampowered.com/app/297920/Space_Colony_Steam_Edition/) — Game information and credits
 [^ref-15]: [Business Wire - CivCity: Rome Announcement](https://www.businesswire.com/news/home/20060726005534/en/CivCity-Rome-Innovative-City-Builder-Inspired-Sid) — Simon Bradbury quote on Firaxis collaboration
 [^ref-16]: [Wikipedia - Stronghold Kingdoms](https://en.wikipedia.org/wiki/Stronghold_Kingdoms) — Player statistics and game history
-[^ref-17]: [Devolver Digital Acquisition Announcement](https://web.archive.org/web/*/https://www.gamesindustry.biz/devolver-digital-acquires-stronghold-developer-firefly-studios) — June 2021 acquisition details
+[^ref-17]: [Devolver Digital Acquisition Announcement](https://www.gematsu.com/2021/11/devolver-digital-acquires-dodge-roll-nerial-and-firefly-studios-as-it-goes-public) — November 2021 acquisition announcement
 [^ref-18]: [Firefly Studios News](https://fireflyworlds.com/) — Recent releases including Definitive Editions
 [^ref-19]: [RAWG - Simon Bradbury](https://rawg.io/creators/simon-bradbury) — Career overview and game history
 [^ref-20]: [The Making of Games Reddit](https://www.reddit.com/r/TheMakingOfGames/comments/emssrq/simon_bradbury_text_interview_romans_age_of/) — Development philosophy and citizen simulation

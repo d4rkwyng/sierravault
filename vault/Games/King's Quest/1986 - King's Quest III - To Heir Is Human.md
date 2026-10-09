@@ -269,6 +269,6 @@ However, the game also exemplifies the design philosophy that would eventually f
 [^ref-20]: [Adventure Classic Gaming – King's Quest III Review](https://www.adventureclassicgaming.com/index.php/site/reviews/88/) – Rosella sequel inspiration, retrospective analysis
 [^ref-21]: [Time Magazine – The 50 Best Video Games of All Time (Wayback, Aug 2016)](https://web.archive.org/web/20160826010703/http://time.com/4458554/best-video-games-all-time/) – August 2016, ranked King's Quest III at #50
 [^ref-22]: [Sierra Newsletter Vol. 1 No. 3](https://archive.org/details/003_Sierra_Newsletter_Volume_1_Number_3_Spring_1988) – Spring 1988, Apple II release, five double-sided disks, "second largest game"
-[^ref-24]: [Games vs. Hardware: The History of PC Video Games](https://web.archive.org/web/*/https://books.google.com/books?id=6asPBAAAQBAJ) – Bogdan Ion Purcaru (2014), technical advancement context
+[^ref-24]: Games vs. Hardware: The History of PC Video Games *(no archived copy found)* – Bogdan Ion Purcaru (2014), technical advancement context
 [^ref-25]: ["Roberta Williams on King's Quest" (reprinted from QuestBusters), Sierra Newsletter Vol. 1 No. 4, Winter 1988, p. 14](https://archive.org/details/004_Sierra_Newsletter_Volume_1_Number_4_Winter_1988) – room counts for King's Quest I–III
 [^ref-26]: [DOS Days – King's Quest III](https://www.dosdays.co.uk/topics/Games/game_kq3.php) – version dates, AGI interpreter versions, disks, graphics support, system requirements

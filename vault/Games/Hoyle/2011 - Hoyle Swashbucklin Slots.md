@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Hoyle Swashbucklin' Slots is a pirate-themed slot machine simulation
   game developed and published by Encore Software in 2011. The game represents a spin-off...
 tags: [2010s, hoyle, sierra]
@@ -282,7 +282,7 @@ The game's limited documentation and review coverage reflects the challenge face
 
 [^ref-9]: [IGDB – Hoyle Swashbucklin' Slots](https://www.igdb.com/games/hoyle-swashbucklin-slots) – Game database listing
 
-[^ref-10]: [GamePressure – Hoyle Swashbucklin' Slots](https://web.archive.org/web/*/https://www.gamepressure.com/games/hoyle-swashbucklin-slots/zba66f) – Game information
+[^ref-10]: GamePressure – Hoyle Swashbucklin' Slots *(no archived copy found)* – Game information
 
 [^ref-11]: [Mac Game Store – Hoyle Products](https://www.macgamestore.com/search/?q=hoyle) – Mac distribution information
 

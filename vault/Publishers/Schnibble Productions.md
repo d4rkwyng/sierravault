@@ -39,10 +39,10 @@ The company name "Schnibble" references *The Bizarre Adventures of Woodruff and 
 [^ref-4]: [GOG - Gobliiins 5](https://www.gog.com/game/gobliiins_5_the_morgloton_invasion) - Digital distribution
 [^ref-5]: Adventure Gamers - Gobliiins 5 *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Game coverage
 [^ref-6]: [MobyGames - Woodruff and the Schnibble of Azimuth](https://www.mobygames.com/game/4070/the-bizarre-adventures-of-woodruff-and-the-schnibble-of-azimuth/) - Name origin
-[^ref-7]: [Hardcore Gaming 101 - Gobliiins Series](https://web.archive.org/web/*/http://www.hardcoregaming101.net/gobliiins/) - Series retrospective
+[^ref-7]: Hardcore Gaming 101 - Gobliiins Series *(no archived copy found)* - Series retrospective
 [^ref-8]: [MobyGames - Pierre Gilhodes](https://www.mobygames.com/person/1088/pierre-gilhodes/) - Series creator
 [^ref-9]: [PC Gamer - Gobliiins 5](https://www.pcgamer.com/) - Modern coverage
-[^ref-10]: [Metacritic - Gobliiins 5](https://web.archive.org/web/*/https://www.metacritic.com/game/pc/gobliiins-5/) - Review aggregator
+[^ref-10]: [Metacritic - Gobliiins 5](https://www.metacritic.com/game/gobliiins5/) - Review aggregator
 [^ref-11]: [IGDB - Schnibble Productions](https://www.igdb.com/companies/schnibble-productions) - Publisher profile
 [^ref-12]: [Wikipedia - Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) - Original developer
 [^ref-13]: [IndieDB - Gobliiins 5](https://www.indiedb.com/games/gobliiins-5) - Development info

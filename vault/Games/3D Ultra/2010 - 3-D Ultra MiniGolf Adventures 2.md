@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: Wanako Engine
 protagonist: Customizable Golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-05-27'
+last_updated: '2026-10-09'
 description: 3-D Ultra MiniGolf Adventures 2 is a sports game developed by Wanako
  Games and published by Sierra Entertainment, released in September 2010 for Xbox
  Live...
@@ -152,7 +152,7 @@ Adventures 2 is documented across multiple gaming databases including MobyGames[
 [^ref-5]: [Wikipedia - 3D Ultra Minigolf Series](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) - Complete series overview, development history, platform releases
 [^ref-6]: [Eurogamer - 3D Ultra Minigolf Adventures Review](https://www.eurogamer.net/3d-ultra-minigolf-adventures-review) - Professional review with score and detailed analysis
 [^ref-7]: [GameFAQs - 3D Ultra Minigolf Adventures User Review](https://gamefaqs.gamespot.com/pc/939807-3d-ultra-minigolf-adventures/reviews/118653) - User review with technical criticism and gameplay praise
-[^ref-8]: [GameFirst - 3D Mini Golf Review](https://web.archive.org/web/*/http://gamesfirst.com/reviews/craig/3DMini/3dmini.htm) - Archival review with course descriptions and hidden features
+[^ref-8]: [GameFirst - 3D Mini Golf Review](https://web.archive.org/web/20110528081221/http://www.gamesfirst.com/reviews/craig/3DMini/3dmini.htm) - Archival review with course descriptions and hidden features
 [^ref-9]: [GameSpot - 3D Ultra Minigolf Adventures Review](https://www.gamespot.com/reviews/3d-ultra-minigolf-adventures-review/1900-6169380/) - Professional review with physics criticism and feature breakdown
 [^ref-10]: [GamesRadar - 3D Ultra Minigolf Adventures Review](https://www.gamesradar.com/3d-ultra-minigolf-adventures-xbox-live-arcade-review/) - Review focusing on physics issues and course design
 [^ref-11]: [IGN - 3D Ultra Minigolf Adventures Review](https://www.ign.com/articles/2007/04/18/3d-ultra-minigolf-adventures-review) - Professional review with multiplayer focus and final verdict

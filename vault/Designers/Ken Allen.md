@@ -5,7 +5,7 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Space Quest I VGA", "Space Quest IV", "The Colonel's Bequest", "Descent", "Ringworld: Revenge of the Patriarch"]
 companies: ["Sierra On-Line", "Tsunami Media", "Interplay Productions", "Parallax Software", "Westwood Studios", "Atari", "THQ", "Midway Games", "Trion Worlds"]
-last_updated: "2026-05-08"
+last_updated: "2026-10-09"
 ---
 # Ken Allen
 
@@ -169,7 +169,7 @@ His 2022 return to Space Quest-style composition for SpaceVenture demonstrated t
 [^ref-5]: [Guys from Andromeda Podcast Episode 3](https://guysfromandromeda.com/blog/podcast-episode-3-guest-host-ken-allen/) — detailed Sierra career timeline, Tsunami Media work, and personal interview
 [^ref-6]: [LinkedIn - Ken Allen](https://www.linkedin.com/in/mrkenallen/) — professional career history and current employment
 [^ref-7]: [Video Game Music Preservation Foundation - Ken Allen](https://vgmpf.com/Wiki/index.php?title=Ken_Allen) — comprehensive game credits and career timeline
-[^ref-8]: [Sierra Gamers - Ken Allen](https://web.archive.org/web/*/https://www.sierragamers.com/ken-allen/) — Sierra On-Line career details
+[^ref-8]: Sierra Gamers - Ken Allen *(no archived copy found)* — Sierra On-Line career details
 [^ref-9]: [Kickstarter - Under the Half Dome](https://www.kickstarter.com/projects/mrkenallen/under-the-half-dome-an-album-by-sierra-composer-ke) — album project details and fan engagement
 [^ref-10]: [The Grig Post Interview with Ken Allen](https://thegrigpost.blogspot.com/2013/02/interview-with-ken-allen.html) — Space Quest IV composition details, SpaceVenture reunion, and compositional process
 [^ref-11]: [Space Quest Historian - Ken Allen Interview](https://spacequesthistorian.com/) — Space Quest series music composition insights

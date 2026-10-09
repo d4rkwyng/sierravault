@@ -12,7 +12,7 @@ series: Frogger
 engine: Modified Namco Galaxian hardware
 protagonist: Frogger (the frog)
 sierra_lineage: Sierra Published
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: Frogger is one of the most iconic and recognizable arcade games of the
   1980s, originally developed by Konami and licensed for worldwide distribution by...
 tags: [1980s, frogger, sierra]
@@ -314,7 +314,7 @@ The 1997 3D remake by Hasbro Interactive—developed by SCE Studio Cambridge—a
 [^ref-27]: [Easter Egg Archive – Star Office Frogger](https://eeggs.com/items/4041.html) – hidden game activation
 [^ref-28]: [Museum of Play – Hall of Fame Finalists](https://www.museumofplay.org/press-release/world-video-game-hall-of-fame-reveals-12-finalists/) – 2025 finalist announcement
 [^ref-29]: [Wikipedia – Frogger (1997)](https://en.wikipedia.org/wiki/Frogger_(1997_video_game)) – sales data, reviews, development
-[^ref-30]: [Apple II Games – Ribbit](https://web.archive.org/web/*/https://apple2games.com/wiki/Ribbit) – clone history, legal dispute
+[^ref-30]: [Apple II Games – Ribbit](https://web.archive.org/web/20240716023404/https://apple2games.com/wiki/Ribbit) – clone history, legal dispute
 [^ref-31]: [C64-Wiki – Frogger Arcade (Homebrew)](https://www.c64-wiki.com/wiki/Frogger_Arcade) – fan remake details
 [^ref-32]: [Retro365 – Frogger Licensing History](https://retro365.blog/2023/02/01/bits-from-my-personal-collection-frogger-finally-an-officially-licensed-game/) – John Harris development, Sierra ports
 [^ref-33]: [Konami Cross Media – Frogger](https://www.konami.com/crossmedia/us/en/products/frogger/) – official brand overview

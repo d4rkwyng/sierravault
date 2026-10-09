@@ -41,14 +41,14 @@ The Gobliiins series, Coktel's signature franchise, became part of Sierra's adve
 [^ref-2]: [MobyGames - Coktel Vision](https://www.mobygames.com/company/45/coktel-vision/) - Game database profile
 [^ref-3]: [MobyGames - Gobliiins](https://www.mobygames.com/game/1022/gobliiins/) - Flagship series
 [^ref-4]: [Giant Bomb - Coktel Vision](https://www.giantbomb.com/coktel-vision/3010-45/) - Company overview
-[^ref-5]: [Hardcore Gaming 101 - Gobliiins Series](https://web.archive.org/web/*/http://www.hardcoregaming101.net/gobliiins/) - Series retrospective
+[^ref-5]: Hardcore Gaming 101 - Gobliiins Series *(no archived copy found)* - Series retrospective
 [^ref-6]: [The Digital Antiquarian - Sierra in France](https://www.filfre.net/) - Sierra European expansion
 [^ref-7]: [Wikipedia - Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) - Series history
 [^ref-8]: Adventure Gamers - Coktel Vision Games *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Game reviews
 [^ref-9]: [MobyGames - Adi Series](https://www.mobygames.com/group/1201/adi-series/) - Educational software
 [^ref-10]: [Lemon Amiga - Coktel Vision](https://www.lemonamiga.com/?mainurl=https%3A//www.lemonamiga.com/games/list.php%3Flist_publisher%3DCoktel%2BVision) - Amiga catalog
 [^ref-11]: [Hall of Light - Coktel Vision](http://hol.abime.net/hol_search.php?Fs_pubname=Coktel+Vision) - European releases
-[^ref-12]: [World of Spectrum - Coktel Vision](https://web.archive.org/web/*/https://worldofspectrum.net/pub/sinclair/games-info/c/CoktelVision.txt) - ZX Spectrum releases
+[^ref-12]: World of Spectrum - Coktel Vision *(no archived copy found)* - ZX Spectrum releases
 [^ref-13]: [Atari Mania - Coktel Vision](http://www.atarimania.com/list_games_company_sthp_publisher_Coktel-Vision_id_75.html) - Atari ST catalog
 [^ref-14]: [IGN - Sierra Entertainment](https://www.ign.com/companies/sierra-entertainment) - Sierra history
 [^ref-15]: [IGDB - Coktel Vision](https://www.igdb.com/companies/coktel-vision) - Company profile

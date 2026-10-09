@@ -288,7 +288,7 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 [^ref-24]: [Police Quest Fandom – PQ2](https://policequest.fandom.com/wiki/Police_Quest_II:_The_Vengeance_(MS-DOS)) – Atari ST User review quote
 [^ref-25]: [Choicest Games – Review](https://www.choicestgames.com/2019/08/police-quest-in-pursuit-of-death-angel.html) – contemporary review criticism, Allegan PD training use
 [^ref-26]: [Just Games Retro – Police Quest 1](https://www.justgamesretro.com/dos/police-quest-1) – review of the 1987 original: driving deaths, Oregon Trail comparison, "interesting experiment"
-[^ref-27]: [Nostalgia Trigger – Retrospective](https://web.archive.org/web/*/https://nostalgiatrigger.com/2017/04/17/retrospectives-part-1-police-quest-in-pursuit-of-the-death-angel-1987/) – difficulty quote, Ken Williams recruitment
+[^ref-27]: [Nostalgia Trigger – Retrospective](https://web.archive.org/web/20250730193348/https://nostalgiatrigger.com/2017/04/17/retrospectives-part-1-police-quest-in-pursuit-of-the-death-angel-1987/) – difficulty quote, Ken Williams recruitment
 [^ref-28]: Games Nostalgia – Police Quest *(download link removed: the game is sold commercially)* – aggregate score, version info
 [^ref-29]: [DOS Days – Police Quest](https://www.dosdays.co.uk/topics/Games/game_pq1.php) – 1992 SCI release audio support (PC Speaker, Ad Lib, Sound Blaster, Roland MT-32)
 [^ref-30]: [Sierra Chest – Police Quest](https://www.sierrachest.com/index.php?a=games&id=20) – no copy protection, profanity, shortcuts

@@ -5,7 +5,7 @@ birth_year: null
 death_year: null
 notable_games: ["Front Page Sports: Football Pro '97", "Red Baron 3D", "Front Page Sports: Baseball Pro '98"]
 companies: ["Burnsville-Eagan-Savage Schools", "Spartz"]
-last_updated: "2026-05-08"
+last_updated: "2026-10-09"
 ---
 # Doug Johnson
 
@@ -124,7 +124,7 @@ Johnson's recognition through various awards, including the IBM Excellence in Ma
 [^ref-8]: [Genotaur - Doug Johnson](http://web.archive.org/web/20260120141613/http://www.genotaur.com/people/doug-johnson) — Professional profile and career information
 [^ref-9]: [LinkedIn - Doug Johnson Peoria](https://www.linkedin.com/in/doug-johnson-peoria/) — Additional professional background
 [^ref-10]: [Aleteia Interview](https://aleteia.org/2019/05/16/exclusive-interview-with-doug-johnson-husband-of-abby-johnson-of-unplanned-fame/) — Personal background and philosophy quotes
-[^ref-11]: [Kinship Radio Staff](https://web.archive.org/web/*/https://kinshipradio.org/home/staff-doug-johnson/) — Professional role and background
+[^ref-11]: [Kinship Radio Staff](https://web.archive.org/web/20251210181337/https://kinshipradio.org/home/staff-doug-johnson/) — Professional role and background
 [^ref-12]: [Ohio Supercomputer Center](https://www.osc.edu/staff/doug-johnson) — Technical leadership role
 [^ref-13]: [CGMag Online](https://www.cgmagonline.com/?s=Doug+Johnson) — Gaming industry coverage
 [^ref-14]: [IMDB - Doug Johnson](https://www.imdb.com/name/nm1949809/) — Professional entertainment industry profile

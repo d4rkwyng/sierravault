@@ -10,7 +10,7 @@ series: Space Quest
 engine: AGS (Adventure Game Studio)
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'Space Quest II VGA Remake is a fan-made graphical remake of the classic
  1987 Sierra On-Line adventure game "Space Quest II: Vohaul''s Revenge," originally...'
 tags: [2010s, adventure, sierra, space-quest, two-guys]
@@ -232,7 +232,7 @@ The game is well-documented in gaming databases and preservation archives.[^ref-
 [^ref-14]: [RAWG.io – Space Quest II VGA Remake](https://rawg.io/games/space-quest-ii-vga-remake) – Platform information, game description: [Giant Bomb - Space Quest II VGA Remake](https://www.giantbomb.com/space-quest-ii-vga-remake/) - game wiki entry
 [^ref-16]: [IGDB - Space Quest II VGA](https://www.igdb.com/games/space-quest-ii-vga) - Internet Games Database entry
 [^ref-17]: [Sierra Wiki - Space Quest II VGA](https://wiki.sierrahelp.com/) - Sierra community documentation
-[^ref-18]: [Infamous Adventures – Space Quest II VGA](https://web.archive.org/web/*/https://www.infamous-quests.com/space-quest-ii-vga-remake/) – developer page
+[^ref-18]: [Infamous Adventures – Space Quest II VGA](https://infamousadventures.itch.io/space-quest-ii-vga-remake) – developer page
 [^ref-19]: [Sierra Chest – Space Quest II VGA Remake](https://sierrachest.com/index.php?a=games&id=450&title=space-quest-ii-vga-remake&fld=general) – fan game catalog entry
 [^ref-20]: [MobyGames – Space Quest II VGA Remake](https://www.mobygames.com/game/space-quest-ii-vga-remake/) – game database
 [^ref-21]: [ScummVM - Infamous Adventures](https://www.scummvm.org/) - compatibility information

@@ -236,7 +236,7 @@ The game is documented in gaming databases.[^ref-7][^ref-8][^ref-9][^ref-10]
 [^ref-9]: GameFAQs – Front Lines *(link removed: it led to a different game's page)* – game database entry with user reviews
 [^ref-10]: [UVList – Front Lines](https://www.uvlist.net/game-8395-Front+Lines) – Universal Videogame List entry
 [^ref-11]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – company history, game catalog listing Front Lines (1994), founder David Lester, Sierra acquisition 1995
-[^ref-12]: [Home of the Underdogs – Front Lines](https://web.archive.org/web/*/homeoftheunderdogs.net/game.php?id=858) – detailed review, Perfect General comparison, gameplay analysis, two thumbs up rating
+[^ref-12]: [Home of the Underdogs – Front Lines](https://homeoftheunderdogs.net/game.php?id=2392) – detailed review, Perfect General comparison, gameplay analysis, two thumbs up rating
 [^ref-13]: [DOS Games Archive – Front Lines](https://www.dosgamesarchive.com/download/front-lines) – developer/publisher information, download availability, category classification
 [^ref-14]: [Retro CDN – Front Lines Screenshots](https://retrocdn.net/Front_Lines) – box art, screenshots, visual documentation
 [^ref-15]: [Hall of Light – Front Lines (cancelled Amiga)](https://hol.abime.net/3196) – Amiga version details, cancellation information, Andrew Prime credited as coder
