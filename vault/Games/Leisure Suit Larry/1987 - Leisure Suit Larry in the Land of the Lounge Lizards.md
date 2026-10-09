@@ -209,7 +209,7 @@ Academic analysis has also examined the series' cultural significance, with the 
 [^ref-24]: [IGN Reloaded Review](https://www.ign.com/articles/2013/07/10/leisure-suit-larry-reloaded-review) – - Gambling mechanics criticism
 [^ref-25]: [The Digital Antiquarian](https://www.filfre.net/2015/08/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – - Adventure design analysis
 [^ref-26]: [AMR Archive](https://amr.abime.net/review_23091) – - The Games Machine score
-[^ref-27]: Adventure Gamers *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - Retrospective review conclusion
+[^ref-27]: [Adventure Gamers – Leisure Suit Larry 1 review](https://web.archive.org/web/20131015094958/http://www.adventuregamers.com/articles/view/17681) – - Retrospective review conclusion
 [^ref-28]: [Eurogamer Review](https://www.eurogamer.net/leisure-suit-larry-reloaded-review) – - Modern criticism of remake
 [^ref-29]: [Al Lowe Theme Creation](http://www.allowe.com/Larry/themecreation.htm) – - Theme song inspiration
 [^ref-30]: [Al Lowe Website](https://allowe.com/games/larry/inside-stories/sierra-history.html) – - Remote development practices
