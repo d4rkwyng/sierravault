@@ -356,7 +356,7 @@ Modern retrospectives consistently place Zeus among the finest city-builders eve
 [^ref-29]: [IMDB Credits Page](https://m.imdb.com/title/tt0414704/fullcredits/composer?ref_=m_ttfc_4) – full development credits, voice cast
 [^ref-30]: [PCGamingWiki – Zeus](https://www.pcgamingwiki.com/wiki/Zeus:_Master_of_Olympus) – system requirements, publishers
 [^ref-31]: [Nexus Mods – Resolution Customizer](https://www.nexusmods.com/zeusmasterofolympus/mods/1) – default resolutions, technical limitations, known issues
-[^ref-32]: [GameCopyWorld – Zeus](https://gamecopyworld.com/games/pc_zeus.shtml) – version numbers, copy protection
+[^ref-32]: GameCopyWorld – Zeus *(link removed: no-CD/crack site)* – version numbers, copy protection
 [^ref-33]: [Sierra Help – Zeus Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/ZeusUpdates.html) – patch notes, bug fixes
 [^ref-34]: [Neoseeker Forums](https://www.neoseeker.com/forums/483/t634197-zeus-master-of-olympus-enhancement-patch-problem/) – regional patch compatibility issues
 [^ref-35]: [EEggs.com – Hidden Music](https://eeggs.com/items/19737.html) – Ekplixi.mp3 easter egg, Greek translation

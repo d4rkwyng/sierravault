@@ -10,14 +10,14 @@ series: Empire Earth
 engine: Titan
 protagonist: Civilization Leader (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: 'Empire Earth: The Art of Conquest is the official expansion pack for
   the real-time strategy game Empire Earth, developed by Mad Doc Software and published...'
 tags: [2000s, empire-earth, sierra, strategy]
 ---
 # Empire Earth: The Art of Conquest
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -290,7 +290,7 @@ Despite these criticisms, The Art of Conquest has maintained a dedicated fanbase
 [^ref-20]: [Scribd – Document Summary](https://www.scribd.com/doc/158008462/fdffgghghgg) – Space Age buildings and features
 [^ref-21]: [PCGamingWiki – Empire Earth](https://www.pcgamingwiki.com/wiki/Empire_Earth) – technical specifications, known bugs, patch information
 [^ref-22]: [GameSpy (Wayback Machine)](https://web.archive.org/web/20070205214950/http://pc.gamespy.com/pc/empire-earth-the-art-of-conquest/) – multiplayer specifications
-[^ref-23]: [GameCopyWorld](https://gamecopyworld.com/games/pc_empire_earth_aoc.shtml) – copy protection information
+[^ref-23]: GameCopyWorld *(link removed: no-CD/crack site)* – copy protection information
 [^ref-24]: [Empire Earth Community – Help](https://empireearth.eu/help/) – technical issues, networking ports, DirectX information
 [^ref-25]: [GameFAQs – Review](https://gamefaqs.gamespot.com/pc/561395-empire-earth-the-art-of-conquest/reviews/48407) – cut content, audio issues
 [^ref-26]: [GameFAQs – FAQs Page](https://gamefaqs.gamespot.com/pc/561395-empire-earth-the-art-of-conquest/faqs) – alternate titles, planned features

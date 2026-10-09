@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Custom 3D
 protagonist: Tchoup, Stucco, Perluis
 sierra_lineage: Post-Sierra
-last_updated: '2026-07-13'
+last_updated: '2026-10-09'
 composer: [Didier Sallustro]
 description: Gobliiins 4 is the fourth installment in the beloved puzzle-adventure
   series that began in 1991, marking the franchise's return after a fifteen-year hiatus...
@@ -18,7 +18,7 @@ tags: [2000s, gobliiins, puzzle, sierra]
 ---
 # Gobliiins 4
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -254,7 +254,7 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 [^ref-23]: [Neoseeker – Gobliiins 4](https://www.neoseeker.com/gobliiins-4/) – Gilhodes return, development background
 [^ref-24]: [MobyGames – Gobliiins (Original)](http://www.mobygames.com/game/atari-st/gobliiins) – original game credits, series history
 [^ref-25]: [Wayback Machine – Gobliiins.com Author Page](https://web.archive.org/web/20210129133754/http://www.gobliiins.com/Auteur_ru.htm) – development credits, Gilhodes biography
-[^ref-26]: [GameCopyWorld – Gobliiins 4](https://gamecopyworld.com/games/pc_gobliiins_4.shtml) – protection, languages, version info
+[^ref-26]: GameCopyWorld – Gobliiins 4 *(link removed: no-CD/crack site)* – protection, languages, version info
 [^ref-27]: [Games4PCDownload – Gobliiins 4](http://games4pcdownload.blogspot.com/2017/04/download-pc-games-gobliiins-4.html) – recommended system requirements
 [^ref-28]: [Reddit – Gobliiins 4 Technical Issues](https://www.reddit.com/r/adventuregames/comments/1dpg254/gobliiins_4_wont_work/) – compatibility problems
 [^ref-29]: [Sierra Help – Gobliiins Series Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/GobliiinsSeriesUpdates.html) – available patches

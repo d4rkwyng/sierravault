@@ -286,7 +286,7 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 [^ref-29]: [GOG – Ground Control Anthology](https://www.gog.com/en/game/ground_control_expansion) – user rating, game description
 [^ref-31]: [Massive Entertainment – Project Page](https://www.massive.se/project/ground-control/) – studio culture quote
 [^ref-33]: Internet Archive – Sierra Ground Control *(download link removed: the game is sold commercially)* – file size
-[^ref-34]: [GameCopyWorld](https://gamecopyworld.com/games/pc_ground_control_2.shtml) – version numbers, copy protection
+[^ref-34]: GameCopyWorld *(link removed: no-CD/crack site)* – version numbers, copy protection
 [^ref-35]: [GameSpot – Dark Conspiracy Q&A](https://www.gamespot.com/articles/ground-control-dark-conspiracy-qanda/1100-2628134/) – expansion development, Tom Smith interview
 [^ref-36]: [GOG Database](https://www.gogdb.org/product/1207658776) – GOG version info, pricing
 [^ref-37]: [ModDB – Windows 10 Crash Fix](https://www.moddb.com/mods/ground-control-windows-10-crash-fix/downloads/patch25) – compatibility patch

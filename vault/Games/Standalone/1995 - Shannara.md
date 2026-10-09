@@ -10,7 +10,7 @@ series: Shannara (standalone)
 engine: Legend Entertainment's graphic adventure system
 protagonist: Jak Ohmsford
 sierra_lineage: Spiritual Successor
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 composer: [George Alistair Sanger]
 description: Shannara is a first-person point-and-click adventure game released in
   December 1995, based on Terry Brooks' bestselling fantasy novel series of the same...
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, shannara-standalone, sierra]
 ---
 # Shannara
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -306,7 +306,7 @@ Legend Entertainment's visual achievement with Shannara showed the studio could 
 [^ref-28]: [Internet Archive – Shannara (MS-DOS)](https://archive.org/details/msdos_Shannara_1995) – preservation copy with user metadata (replaces dead Emuparadise URL; Emuparadise removed all abandonware content in 2018)
 [^ref-29]: [Free Game Downloads – Shannara](https://free-game-downloads.mosw.com/abandonware/pc/adventure/games_sa_so/shannara.html) – Quest for Glory creators, game description
 [^ref-30]: [GOG Dreamlist – Shannara](https://www.gog.com/dreamlist/game/shannara) – fan comments, re-release requests
-[^ref-31]: [GameCopyWorld – Shannara](https://gamecopyworld.com/games/pc_shannara.shtml) – copy protection status
+[^ref-31]: GameCopyWorld – Shannara *(link removed: no-CD/crack site)* – copy protection status
 [^ref-32]: [MoneyInc – Best Selling Fantasy Books](https://moneyinc.com/best-selling-fantasy-books-of-all-time/) – Shannara series sales figures
 [^ref-33]: [ClassicReload – Shannara](https://classicreload.com/shannara.html) – browser playable version, developer info
 [^ref-34]: [Internet Archive – Shannara](https://archive.org/details/shannara-0mhz) – preservation, eXoDOS source

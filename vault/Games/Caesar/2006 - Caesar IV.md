@@ -312,7 +312,7 @@ For players seeking Roman city-building experiences, Caesar IV remains relevant 
 [^ref-39]: [MetroWest Daily News – Tilted Mill Profile](https://www.metrowestdailynews.com/story/business/2007/03/04/framingham-video-game-maker-recreates/41323910007/) – sales figures, budget, audience demographics
 [^ref-40]: [Keith Zizza Portfolio – Caesar IV](https://www.keithzizza.net/caesar-iv) – audio development, soundtrack details, Universal Music licensing
 [^ref-41]: [KHInsider – Caesar IV Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/caesar-iv-windows-gamerip-2006) – track listing, audio specifications
-[^ref-42]: [GameCopyWorld – Caesar IV](https://gamecopyworld.com/games/pc_caesar_4.shtml) – copy protection, version dates
+[^ref-42]: GameCopyWorld – Caesar IV *(link removed: no-CD/crack site)* – copy protection, version dates
 [^ref-43]: [GameWatcher – Patch 1.1](https://www.gamewatcher.com/downloads/caesar-iv-download/patch-1-1--78) – patch date, online fix
 [^ref-44]: [GOGDB – Caesar IV](https://www.gogdb.org/product/1460037487) – GOG release date, version, pricing
 [^ref-45]: [Caesar III Heaven Forums – Server Shutdown](https://caesar3.heavengames.com/cgi-bin/caeforumscgi/display.cgi?action=st&fn=46&tn=6803) – Keith Heitmann announcement, Activision merger

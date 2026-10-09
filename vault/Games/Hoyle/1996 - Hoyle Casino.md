@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: Proprietary (Windows)
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Evan Schiller]
 description: Hoyle Casino is a casino simulation video game series originally developed
   and published by Sierra On-Line beginning in 1996, marking a significant...
@@ -18,7 +18,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Casino
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -348,7 +348,7 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 [^ref-39]: [Internet Archive – Hoyle Casino 98](https://archive.org/details/HoyleCasino98Version1.1.0.5SierraOn-Line1998) – version number
 [^ref-42]: [Internet Archive – Hoyle Casino 2004 Manual](https://archive.org/stream/hoyle-casino-2004/HoyleCasino2004_Manual_djvu.txt) – PC-Data sales claim, Palm support
 [^ref-43]: [Metacritic – Hoyle Casino 3D](https://www.metacritic.com/game/hoyle-casino-3d/) – release date, ESRB rating
-[^ref-44]: [GameCopyWorld – Hoyle Casino 2008](https://gamecopyworld.com/games/pc_hoyle_casino_2008.shtml) – SecuROM protection, release date
+[^ref-44]: GameCopyWorld – Hoyle Casino 2008 *(link removed: no-CD/crack site)* – SecuROM protection, release date
 [^ref-45]: [MobyGames – Hoyle Casino Games (2008)](https://www.mobygames.com/game/230559/hoyle-casino-games/) – Freeverse developer
 [^ref-46]: [Sierra Help – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – version patches, bug fixes
 [^ref-47]: [SourceForge – DxWnd Casino Empire Thread](https://sourceforge.net/p/dxwnd/discussion/general/thread/23561786/) – compatibility issues

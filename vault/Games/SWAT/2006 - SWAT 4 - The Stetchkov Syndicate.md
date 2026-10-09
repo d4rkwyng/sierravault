@@ -312,7 +312,7 @@ Tragically, The Stetchkov Syndicate would prove to be the final entry in the SWA
 [^ref-28]: [Glitchwave – Game Page](https://glitchwave.com/game/swat-4-the-stetchkov-syndicate/) – 4.00/5.0 rating
 [^ref-29]: [1UP/CGW Review (Archived)](https://web.archive.org/web/20060616203151/http://cgw.1up.com/do/reviewPage?cId=3140092&did=4) – "best tactical shooter" quote, non-lethal design philosophy
 [^ref-30]: [MobyGames – Technical Specs](https://www.mobygames.com/game/21450/swat-4-the-stetchkov-syndicate/specs/) – system requirements, supported resolutions
-[^ref-31]: [GameCopyWorld – SWAT 4](https://gamecopyworld.com/games/pc_swat_4.shtml) – patch dates, SecuROM protection
+[^ref-31]: GameCopyWorld – SWAT 4 *(link removed: no-CD/crack site)* – patch dates, SecuROM protection
 [^ref-32]: [GamePressure – SEF Community Mod](https://www.gamepressure.com/download.asp?ID=76834) – mod description, bug mentions, cut content restoration
 [^ref-33]: Internet Archive – European Version *(download link removed: the game is sold commercially)* – March 10, 2006 EU release date
 [^ref-34]: [IGN – SWAT 4 Review](https://www.ign.com/articles/2005/03/31/swat-4) – AI inconsistency quote, sound glitch, 9/10 score

@@ -10,14 +10,14 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: '**Hoyle Casino: Poker**, released in 1997, represents Sierra''s first
   dedicated foray into the world of poker gaming. Set in a virtual Las Vegas casino...'
 tags: [1990s, hoyle-casino, sierra]
 ---
 # Hoyle Casino: Poker
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -260,7 +260,7 @@ The combination of multiple poker variants, AI opponents with distinct styles, a
 [^ref-7]: [MobyGames - Hoyle Casino](https://mobygames.com/game/hoyle-casino) – Starting money and game premise details
 [^ref-8]: [MobyGames - Hoyle Poker Series](https://www.mobygames.com/game/56707/hoyle-poker-series/) – Technical specifications and multiplayer details
 [^ref-9]: [Amazon - Hoyle Poker Series](https://www.amazon.com/Encore-705381103158-Hoyle-Poker-Series/dp/B0007ZF3GY) – Product features and user ratings
-[^ref-10]: [GameCopyWorld](https://gamecopyworld.com/games/pc_hoyle_poker_series.shtml) – Game variants and series information
+[^ref-10]: GameCopyWorld *(link removed: no-CD/crack site)* – Game variants and series information
 [^ref-11]: [MobyGames - Hoyle Poker Series](https://mobygames.com/game/hoyle-poker-series) – Single player mode description
 [^ref-12]: [Internet Archive - Hoyle Poker USA](https://archive.org/details/hoyle-poker-usa) – Multiple poker variations and annual releases
 [^ref-13]: [MobyGames - Various Hoyle entries](https://www.mobygames.com/search/?q=Hoyle+Poker) – User score ranges

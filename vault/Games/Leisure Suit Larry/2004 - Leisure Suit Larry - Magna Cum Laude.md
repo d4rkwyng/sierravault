@@ -362,7 +362,7 @@ The game's poor reception contributed to the series' dormancy until Al Lowe's re
 [^ref-33]: [GameFAQs User Review](https://gamefaqs.gamespot.com/ps2/919126-leisure-suit-larry-magna-cum-laude/reviews/172987) – Al Lowe quotes, technical issues
 [^ref-34]: [MobyGames User Review – Tony Denis](https://www.mobygames.com/game/15118/leisure-suit-larry-magna-cum-laude/user-review/2673954/) – voice acting praise, gameplay criticism
 [^ref-35]: [PCGamingWiki – Technical Info](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) – system requirements, known issues
-[^ref-37]: [GameCopyWorld](https://gamecopyworld.com/games/pc_leisure_suit_larry_mcl.shtml) – copy protection information
+[^ref-37]: GameCopyWorld *(link removed: no-CD/crack site)* – copy protection information
 [^ref-38]: [Easter Egg Database](https://eeggs.com/items/47033.html) – Interocitor easter egg details
 [^ref-40]: [CheatCC Guide](https://www.cheatcc.com/articles/leisure-suit-larry-magna-cum-laude-cheats-codes-cheat-codes-walkthrough-guide-faq-unlockables-for-pc-pc/) – character name references
 [^ref-41]: [Ringostrack Soundtrack Database](https://ringostrack.com/movie/leisure-suit-larry-magna-cum-laude/58071) – complete soundtrack listing

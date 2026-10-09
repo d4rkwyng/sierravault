@@ -363,7 +363,7 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 [^ref-34]: [MobyGames – World in Conflict Credits](https://www.mobygames.com/game/30129/world-in-conflict/credits/windows/) – full development team, motion capture studios
 [^ref-37]: [WorthPlaying – Ubisoft Statement](https://worthplaying.com) – console version cancellation
 [^ref-38]: [Patches-Scrolls – World in Conflict](https://www.patches-scrolls.com/world_in_conflict.php) – version history
-[^ref-39]: [GameCopyWorld – World in Conflict](https://gamecopyworld.com/games/pc_world_in_conflict.shtml) – patch versions, DRM info
+[^ref-39]: GameCopyWorld – World in Conflict *(link removed: no-CD/crack site)* – patch versions, DRM info
 [^ref-40]: FilePlanet – Patch 1.010 *(download link removed: the game is sold commercially)* – DRM removal, patch details
 [^ref-41]: [GamePressure – Patch 1.011](https://www.gamepressure.com/download.asp?ID=24042) – new maps, balance changes
 [^ref-42]: [ModDB – WIC Modern Warfare Mod](https://www.moddb.com/mods/wicmw) – framerate requirements, mod details

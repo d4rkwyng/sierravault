@@ -10,14 +10,14 @@ series: Standalone
 engine: GoldSrc
 protagonist: Major Archer
 sierra_lineage: Sierra Published
-last_updated: '2026-05-27'
+last_updated: '2026-10-09'
 description: Gunman Chronicles is a first-person shooter released in November 2000
   that represents one of gaming's most remarkable mod-to-retail transformations....
 tags: [2000s, shooter, sierra, standalone]
 ---
 # Gunman Chronicles
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -329,7 +329,7 @@ Despite its troubled development and lukewarm critical reception, Gunman Chronic
 [^ref-39]: [PCGamingWiki – Gunman Chronicles](https://www.pcgamingwiki.com/wiki/Gunman_Chronicles) – technical issues, DRM, Steam key activation
 [^ref-40]: [Steam Community Discussion](https://steamcommunity.com/app/70/discussions/0/1746720717348696940/) – crash bug, demo levels
 [^ref-41]: [Web Archive – IGN Database](https://web.archive.org/web/20160322023425/http://www.ign.com/games/gunman-chronicles/gcn-855781) – cancelled GameCube version
-[^ref-42]: [GameCopyWorld](https://gamecopyworld.com/games/pc_gunman_chronicles.shtml) – regional release dates, version numbers
+[^ref-42]: GameCopyWorld *(link removed: no-CD/crack site)* – regional release dates, version numbers
 [^ref-43]: [Next Dimension – Steam Patch](http://www.nextdimension.org/gunmantosteam/) – patch details, version dates
 [^ref-44]: [The Cutting Room Floor](https://tcrf.net/Gunman_Chronicles) – Impulse 99 easter egg, development history
 [^ref-45]: [Sounds Resource](https://www.sounds-resource.com/pc_computer/gunmanchronicles/) – alternative game names
