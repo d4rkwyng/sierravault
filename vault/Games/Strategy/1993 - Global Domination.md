@@ -184,7 +184,6 @@ This article focuses specifically on the 1993 Impressions Games title.
 
 ## See Also
 
-- [[1979 - Galactic Empire]]
 - [[1991 - The Charge of the Light Brigade]]
 - [[1994 - Alien Legacy]]
 - [[1995 - High Seas Trader]]

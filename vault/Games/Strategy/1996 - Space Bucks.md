@@ -182,7 +182,6 @@ Impressions Games would go on to achieve greater success with their city-buildin
 
 ## See Also
 
-- [[1979 - Galactic Empire]]
 - [[1991 - The Charge of the Light Brigade]]
 - [[1993 - Global Domination]]
 - [[1994 - Alien Legacy]]

@@ -103,7 +103,7 @@ In 2024, Dersham directed "Oregon's Boat," a documentary film about the McKenzie
 - **1993** — [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] — Role: Studio Head
 - **1994** — [[1994 - The Incredible Machine 2|The Incredible Machine 2]] — Role: Studio Head
 - **1994** — [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] — Role: Windows & Macintosh Producer
-- 1994 — Lode Runner: The Legend Returns (1994) — Producer
+- 1994 — [[1994 - Lode Runner - The Legend Returns|Lode Runner: The Legend Returns]] (1994) — Producer
 - **1995** — [[1995 - Trophy Bass|Trophy Bass]] — Role: Designer/Producer
 - **1995** — [[1995 - The Incredible Machine 3.0|The Incredible Machine 3]] — Role: Executive Producer
 - **1996** — [[1996 - Front Page Sports - Trophy Bass 2|Front Page Sports: Trophy Bass 2]] — Role: Designer/Producer

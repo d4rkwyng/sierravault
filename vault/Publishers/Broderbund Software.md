@@ -23,7 +23,6 @@ Broderbund competed with Sierra in the adventure and strategy game markets durin
 
 ## Games Published (Sierra Archive)
 
-- **1990** — [[1979 - Galactic Empire|Galactic Empire]] — Developer: Coktel Vision
 
 ## Legacy
 

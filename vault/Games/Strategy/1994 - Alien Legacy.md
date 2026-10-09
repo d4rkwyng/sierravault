@@ -268,7 +268,6 @@ The game's troubled release exemplifies the pressures facing mid-90s developers,
 
 ## See Also
 
-- [[1979 - Galactic Empire]]
 - [[1991 - The Charge of the Light Brigade]]
 - [[1993 - Global Domination]]
 - [[1995 - High Seas Trader]]

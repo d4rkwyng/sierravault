@@ -123,7 +123,6 @@ Technical preservation efforts have expanded beyond simple compatibility fixes[^
 
 ## See Also
 
-- [[1979 - Galactic Empire]]
 - [[1991 - The Charge of the Light Brigade]]
 - [[1993 - Global Domination]]
 - [[1994 - Alien Legacy]]

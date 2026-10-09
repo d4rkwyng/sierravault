@@ -70,6 +70,7 @@ Coktel Vision showed that a French studio's games could travel. Sierra published
 - **1989** — [[1989 - Legend of Djel|Legend of Djel]] — Genre: Adventure
 - **1990** — [[1990 - Cougar Force|Cougar Force]] — Genre: Action
 - **1990** — [[1990 - Geisha|Geisha]] — Genre: Adventure
+- **1990** — [[1990 - Galactic Empire|Galactic Empire]] — Genre: Action-Adventure
 - **1991** — [[1991 - Fascination|Fascination]] — Genre: Adventure
 - **1991** — [[1991 - Gobliiins|Gobliiins]] — Genre: Adventure
 - **1992** — [[1992 - Bargon Attack|Bargon Attack]] — Genre: Adventure

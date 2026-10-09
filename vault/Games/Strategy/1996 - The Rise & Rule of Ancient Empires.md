@@ -182,7 +182,6 @@ From a development perspective, the game is notable as an example of Impressions
 
 ## See Also
 
-- [[1979 - Galactic Empire]]
 - [[1991 - The Charge of the Light Brigade]]
 - [[1993 - Global Domination]]
 - [[1994 - Alien Legacy]]

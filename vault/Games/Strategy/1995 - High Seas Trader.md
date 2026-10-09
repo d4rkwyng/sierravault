@@ -126,7 +126,6 @@ Modern retrospectives acknowledge that while the game "aged better on nostalgia 
 
 ## See Also
 
-- [[1979 - Galactic Empire]]
 - [[1991 - The Charge of the Light Brigade]]
 - [[1993 - Global Domination]]
 - [[1994 - Alien Legacy]]

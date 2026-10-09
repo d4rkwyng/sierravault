@@ -145,7 +145,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot - The Search for the Grail]] — Series: Conquests, Type: Adventure
 - [[1990 - Cougar Force|Cougar Force]] — Type: Action
 - F-14 Tomcat — Flight Simulation
-- [[1979 - Galactic Empire|Galactic Empire]] — Series: Galactic Saga, Type: Strategy
+- [[1990 - Galactic Empire|Galactic Empire]] — Developer: Coktel Vision, Type: Action-Adventure
 - [[1990 - Geisha|Geisha]] — Type: Adventure
 - [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games - Volume 2]] — Series: Hoyle Official Book of Games, Type: Card/Tile
 - **[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V - Absence Makes the Heart Go Yonder]]** — Series: King's Quest, Type: Adventure
@@ -259,6 +259,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1994 - Front Page Sports - Baseball Pro|Front Page Sports - Baseball Pro]] — Series: Front Page Sports, Type: Sports
 - [[1994 - Front Page Sports - Football Pro '95|Front Page Sports - Football Pro '95]] — Series: Front Page Sports, Type: Sports Simulation
 - **[[1994 - King's Quest VII - The Princeless Bride|King's Quest VII - The Princeless Bride]]** — Series: King's Quest, Type: Adventure
+- [[1994 - Lode Runner - The Legend Returns|Lode Runner - The Legend Returns]] — Series: Lode Runner, Type: Puzzle/Platform
 - [[1994 - Lords of the Realm|Lords of the Realm]] — Series: Lords of the Realm, Type: Strategy
 - [[1994 - Metaltech - Battledrome|Metaltech - Battledrome]] — Series: Metaltech, Type: Simulation / Mech Combat
 - [[1994 - Metaltech - Earthsiege|Metaltech - Earthsiege]] — Series: Metaltech, Type: Simulation
@@ -284,6 +285,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1995 - High Seas Trader|High Seas Trader]] — Type: Naval Strategy/Trading Simulation
 - [[1996 - Hoyle Solitaire|Hoyle Solitaire]] — Series: Hoyle, Type: Puzzle / Card Game
 - [[1995 - IndyCar Racing II|IndyCar Racing II]] — Series: IndyCar Racing, Type: Racing Simulation
+- [[1995 - Lode Runner On-Line - The Mad Monks' Revenge|Lode Runner On-Line - The Mad Monks' Revenge]] — Series: Lode Runner, Type: Puzzle/Platform
 - [[1995 - Metaltech - Earthsiege Expansion Pack|Metaltech - Earthsiege Expansion Pack]] — Series: Earthsiege
 - [[1995 - Mixed-Up Mother Goose Deluxe|Mixed-Up Mother Goose Deluxe]] — Series: Mixed-Up Mother Goose, Type: Educational Adventure
 - **[[1995 - Phantasmagoria|Phantasmagoria]]** — Series: Phantasmagoria, Type: Adventure
