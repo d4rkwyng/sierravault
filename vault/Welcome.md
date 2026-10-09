@@ -76,6 +76,9 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > [!success] Recent Releases & Updates
 > | Date | Project | Team | Status |
 > |------|---------|------|--------|
+> | Sep 2026 | AGI-64 & AGI-ANTIC | Mean Hamster Software | Released — Sierra's AGI games on Commodore 64 and Atari 8-bit (bring your own game files) |
+> | Aug 2026 | Gobliiins Collection (Nintendo Switch 2) | Red Art Games | Released — 4K, free upgrade for Switch owners |
+> | Jul 2026 | [[1992 - Johnny Castaway\|Johnny Castaway for PlayStation 1]] | Hunter Davis | v1.0.0 released |
 > | Jun 2026 | [[1992 - Johnny Castaway\|Johnny Castaway for macOS]] | d4rkwyng | v0.2.5 released — native Swift recreation |
 > | May 2026 | Gobliiins Collection (PS5/Xbox/Switch) | Red Art Games | Released — first console compilation |
 > | Feb 2026 | [[2026 - Gobliins 6\|Gobliins 6: The Madmen of the Year 1000]] | Pierre Gilhodes | Released (itch.io Feb 10, Steam Feb 13) |
@@ -100,6 +103,7 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > | [[TBD - Order of the Thorne - Fortress of Fire\|Order of the Thorne: Fortress of Fire]] | Infamous Quests | On hold — ~75% complete |
 > | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4: Five Hearts]] | Jane Jensen | Awaiting MS approval |
 > | Hero-U Sequel | Corey & Lori Cole | Seeking funding |
+> | *Questing for Glory* (Quest for Glory history book) | Bitmap Books, with Lori & Corey Cole | Slated for November 2026 |
 
 ---
 
