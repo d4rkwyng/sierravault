@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: SCI2
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-05-27'
+last_updated: '2026-10-08'
 composer: [Robert Holmes]
 description: 'Gabriel Knight: Sins of the Fathers is a point-and-click adventure game
   developed and published by Sierra On-Line, released on December 17, 1993. Designed...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 8, 2026</small>
 
 ## Overview
 
@@ -317,8 +317,8 @@ Despite critical acclaim, "the game was not a commercial success" upon initial r
 - **Computer Gaming World Adventure Game of the Year (June 1994)** - Shared with Day of the Tentacle[^ref-1]
 - **Computer Game Review 1994 Adventure Game of the Year**[^ref-1]
 - **CES 1993 Best of Show**[^ref-1]
-- **Adventure Gamers' 20 Best Adventure Games** (retrospective)[^ref-28]
-- **Honorable Mention in The A.V. Club's Top 100 Games of All-Time** (retrospective)[^ref-28]
+- **Adventure Gamers' 20 Best Adventure Games** (retrospective)
+- **Honorable Mention in The A.V. Club's Top 100 Games of All-Time** (retrospective)
 
 ### Collections
 
@@ -403,7 +403,6 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-25]: [KHInsider – Gabriel Knight Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/gabriel-knight-pc-rip) — Original soundtrack preservation
 [^ref-26]: [GameFAQs – Gabriel Knight: Sins of the Fathers FAQ/Walkthrough](https://gamefaqs.gamespot.com/pc/562666-gabriel-knight-sins-of-the-fathers/faqs/1857) — Original-release walkthrough confirming the 342-point maximum score for the 1993 version
 [^ref-27]: [Sierra Help – Gabriel Knight](https://sierrahelp.com/Games/GabrielKnight/GK1Help.html) — Technical support and patches
-[^ref-28]: [Abandonware DOS – Gabriel Knight](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Gabriel+Knight&gid=3321) — User ratings and downloads
 [^ref-29]: [Gabriel Knight Fandom Wiki](https://gabrielknight.fandom.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — Detailed plot and character info
 [^ref-30]: [Adventure Gamers – Gabriel Knight](https://adventuregamers.com/games/view/17109) — Modern ratings and reviews
 [^ref-31]: [Jane Jensen Official Site](https://www.janejensen.com/) — Designer biography and works
