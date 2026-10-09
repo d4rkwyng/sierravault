@@ -3,35 +3,35 @@ title: "Leisure Suit Larry's Casino"
 release_year: 1998
 developer: Sierra On-Line
 designer: [Al Lowe]
-publisher: Sierra Entertainment
+publisher: Sierra On-Line
 genre: Casino
 platforms: [Windows]
 series: Leisure Suit Larry
 engine: "Custom (Hoyle-based)"
 protagonist: Larry Laffer
 sierra_lineage: Spinoff
-last_updated: '2026-05-08'
-description: "*Leisure Suit Larry's Casino* is a casino simulation spinoff released by Sierra Entertainment in 1998, featuring Larry Laffer as the manager of his own gambling resort with both single-player and online multiplayer gameplay."
+last_updated: '2026-10-09'
+description: "*Leisure Suit Larry's Casino* is a casino simulation spinoff released by Sierra On-Line in 1998, featuring Larry Laffer as the manager of his own gambling resort with both single-player and online multiplayer gameplay."
 tags: [1990s, casino, al-lowe, leisure-suit-larry, sierra, spinoff, multiplayer]
 ---
 # Leisure Suit Larry's Casino
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-*Leisure Suit Larry's Casino* is a casino simulation game developed and published by Sierra Entertainment, released on June 30, 1998 for Windows.[^ref-1] The game represents a spinoff from the main Leisure Suit Larry adventure series, placing the iconic Larry Laffer in the role of casino manager rather than the hapless romantic protagonist of the adventure games.[^ref-2] Designed and directed by series creator [[Al Lowe]], the game built upon the foundation of Sierra's earlier casino software, particularly the *Hoyle* card game series and the earlier *Crazy Nick's Software Picks: Leisure Suit Larry's Casino*.[^ref-3]
+*Leisure Suit Larry's Casino* is a casino simulation game developed and published by Sierra On-Line, released on June 30, 1998 for Windows.[^ref-1] The game represents a spinoff from the main Leisure Suit Larry adventure series, placing the iconic Larry Laffer in the role of casino manager rather than the hapless romantic protagonist of the adventure games.[^ref-2] Designed and directed by series creator [[Al Lowe]], the game built upon the foundation of Sierra's earlier casino software, particularly the *Hoyle* card game series and the earlier *Crazy Nick's Software Picks: Leisure Suit Larry's Casino*.[^ref-3]
 
-The game offered players a virtual gambling resort experience complete with five casino games, three party games, a full gift shop, three restaurants, three bars, and various surprises.[^ref-4] Characters from the adventure games, particularly *Leisure Suit Larry 7: Love for Sail!*, appeared as selectable player avatars and non-player characters throughout the casino.[^ref-5] At launch, the game featured online multiplayer functionality through Sierra's WON (World Opponent Network), allowing players to compete against each other for free via Cendant's (Sierra's parent company at the time) online service.[^ref-4]
+The game offered players a virtual gambling resort experience complete with five casino games, three party games, a full gift shop, three restaurants, three bars, and various surprises.[^ref-2] Characters from the adventure games, particularly *Leisure Suit Larry 7: Love for Sail!*, appeared as selectable player avatars and non-player characters throughout the casino.[^ref-5] At launch, the game featured online multiplayer functionality through Sierra's WON (World Opponent Network), allowing players to compete against each other for free via Cendant's (Sierra's parent company at the time) online service.[^ref-4]
 
-The origins of *Leisure Suit Larry's Casino* trace back to an earlier Al Lowe design concept called "LarryLand," which was partially implemented on The Sierra Network (TSN), later known as ImagiNatioN (INN).[^ref-3] When the LarryLand concept remained largely unused, Lowe repurposed the idea using the Hoyle games as a technical foundation to create the standalone casino product.[^ref-3] The game was included in *Leisure Suit Larry: The Ultimate Pleasure Pack* (1999), a four-CD compilation that collected the entire Larry series up to that point.[^ref-7][^ref-6][^ref-13][^ref-14]
+The origins of *Leisure Suit Larry's Casino* trace back to an earlier Al Lowe design concept called "LarryLand," which was partially implemented on The Sierra Network (TSN), later known as ImagiNatioN (INN).[^ref-3] When the LarryLand concept remained largely unused, Lowe repurposed the idea using the Hoyle games as a technical foundation to create the standalone casino product.[^ref-3] The game was included in *Leisure Suit Larry: The Ultimate Pleasure Pack* (1999), a four-CD compilation that added *Larry's Casino* and the full *Love for Sail!* to the contents of the earlier Larry collection.[^ref-16]
 
 > [!info]- Game Info
 > **Developer:** Sierra On-Line[^ref-1]
 > **Designer:** [[Al Lowe]][^ref-1]
-> **Publisher:** Sierra Entertainment[^ref-1]
+> **Publisher:** Sierra On-Line[^ref-2]
 > **Engine:** Custom (Hoyle-based)[^ref-3]
-> **Platforms:** Windows[^ref-4]
+> **Platforms:** Windows[^ref-2]
 > **Release Year:** 1998[^ref-1]
 > **Series:** Leisure Suit Larry
 > **Protagonist:** Larry Laffer
@@ -42,7 +42,7 @@ The origins of *Leisure Suit Larry's Casino* trace back to an earlier Al Lowe de
 
 ### Interface and Controls
 
-*Leisure Suit Larry's Casino* presents a 2D point-and-click interface rendered in SVGA graphics, with players navigating Larry's casino resort through various themed rooms and game areas.[^ref-4] The game supports both mouse-driven interaction for casino games and keyboard input for the online chat and social features. Single-player mode allows play against computer-controlled opponents, while the online mode through WON enables real-time multiplayer with other players.[^ref-5]
+*Leisure Suit Larry's Casino* presents a 2D point-and-click interface with an isometric view of Larry's casino resort, with players navigating through various themed rooms and game areas.[^ref-2] The game supports both mouse-driven interaction for casino games and keyboard input for the online chat and social features. Single-player mode allows play against computer-controlled opponents, while the online mode through WON enables real-time multiplayer with other players.[^ref-5]
 
 ### Casino Games
 
@@ -74,11 +74,11 @@ Players earned "Larrybucks" through their gambling wins, which could be spent on
 - Visits to the Quiki-Wed Chapel for virtual weddings with other players
 - Various items from the gift shop
 
-The casino also featured three restaurants and three bars where players could socialize and spend their virtual currency.[^ref-4]
+The casino also featured three restaurants and three bars where players could socialize and spend their virtual currency.[^ref-2]
 
 ### Characters
 
-Players could select their online persona from a roster of characters drawn primarily from *Leisure Suit Larry 7: Love for Sail!*, with Cavaricchi Vuarnet from *Leisure Suit Larry 6: Shape Up or Slip Out!* also available.[^ref-5] The game featured voice acting from the adventure series cast, with Jan Rabson reprising his role as Larry Laffer.[^ref-1][^ref-15]
+Players could select their online persona from a roster of characters drawn primarily from *Leisure Suit Larry 7: Love for Sail!*, with Cavaricchi Vuarnet from *Leisure Suit Larry 6: Shape Up or Slip Out!* also available.[^ref-5] The game featured voice acting from the adventure series cast, with Jan Rabson reprising his role as Larry Laffer.[^ref-1]
 
 ## Voice Cast
 
@@ -99,17 +99,17 @@ Source: IMDB[^ref-1]
 
 Contemporary reviews of *Leisure Suit Larry's Casino* were mixed. IGN reviewer Chris Buckman noted that the game was "much better than those budget titles" referring to Sierra's earlier casino compilations, but cautioned that "how much you enjoy it depends on what you're looking for in a gambling simulation."[^ref-5] The review praised the online social features but criticized the lack of customization options standard in most casino simulations, such as the inability to set the number of players at a table in single-player mode.[^ref-5]
 
-Metacritic described the game as "a match made in sleaze heaven," acknowledging the natural fit between the Leisure Suit Larry franchise and casino gaming.[^ref-8] The game currently holds a 6.6/10 user rating on IMDB based on 29 ratings.[^ref-1]
+Metacritic described the game as "a match made in sleaze heaven," acknowledging the natural fit between the Leisure Suit Larry franchise and casino gaming.[^ref-8]
 
 The game appealed primarily to fans of the Leisure Suit Larry adventure games who enjoyed the characters and humor, and to those interested in the free online multiplayer casino experience.[^ref-5] However, players seeking a comprehensive casino simulation with detailed tutorials and strategy options were advised to look elsewhere.[^ref-5]
 
 ### Modern Assessment
 
-The game holds a 6.6/10 user rating on IMDB based on 29 ratings[^ref-1], reflecting its niche appeal as a casino spinoff rather than a full adventure game entry. With the WON online service long defunct, modern players can only experience the single-player component, which strips away what was arguably the game's strongest feature — its social multiplayer environment.[^ref-3]
+With the WON online service long defunct, modern players can only experience the single-player component, which strips away what was arguably the game's strongest feature — its social multiplayer environment.[^ref-3]
 
 **Known Scores:**
 - **IMDB:** 6.6/10 (29 ratings)[^ref-1]
-- **MobyGames:** Listed[^ref-2]
+- **MobyGames:** critics 69% (10 ratings); players 3.4/5 (11 ratings)[^ref-2]
 
 ## Development
 
@@ -121,13 +121,13 @@ When the LarryLand concept was only partially implemented and largely unused on 
 
 ### Production
 
-The game was directed and written by Al Lowe, making it one of his final projects at Sierra before his departure on February 22, 1999.[^ref-10] Production took place during Sierra's transition period following its acquisition by CUC International in 1996, which later merged with HFS Corporation to form Cendant.[^ref-7]
+The game was directed and written by Al Lowe, making it one of his final projects at Sierra before his departure on February 22, 1999.[^ref-10] The credits list Cheryl Sweeney as producer, Al Lowe as voice casting director and Gary Spinrad for music and sound effects.[^ref-2] Production took place during Sierra's transition period following its acquisition by CUC International in 1996, which later merged with HFS Corporation to form Cendant.[^ref-7]
 
 The game's online component utilized WON (World Opponent Network), Cendant's free online gaming service that Sierra games used during this era.[^ref-4] This represented Sierra's continued investment in online gaming technology following the original Sierra Network experiment.
 
 ### Technical Achievements
 
-Built on a custom engine derived from Sierra's successful *Hoyle* card game series, *Leisure Suit Larry's Casino* was one of the earliest Sierra titles to integrate real-time multiplayer functionality into a casual game product.[^ref-3][^ref-4] The game supported online play through Sierra's WON (World Opponent Network) service, which was free to players via Cendant's online platform — an ambitious feature for a 1998 casual title.[^ref-4] The SVGA graphics engine rendered the casino environments and character animations at a higher resolution than the earlier Hoyle games, while the chat and social features required custom network code developed alongside the casino simulation.[^ref-5] Six returning voice actors from *Leisure Suit Larry 7: Love for Sail!* were integrated into the character roster, requiring audio synchronization across both single-player and live multiplayer sessions.[^ref-1]
+Built on a custom engine derived from Sierra's successful *Hoyle* card game series, *Leisure Suit Larry's Casino* supported online play through Sierra's WON (World Opponent Network), free to players via Cendant's online platform.[^ref-3][^ref-4] Six returning voice actors from *Leisure Suit Larry 7: Love for Sail!* were integrated into the character roster, requiring audio synchronization across both single-player and live multiplayer sessions.[^ref-1]
 
 ### Easter Eggs
 
@@ -138,16 +138,16 @@ Al Lowe himself appears in the game as a man in a barrel running past the slot m
 ### Collections
 
 *Leisure Suit Larry's Casino* was included in the following compilation release:[^ref-7]
-- **Leisure Suit Larry: The Ultimate Pleasure Pack** (1999) – A four-CD collection containing the entire Larry series to date
+- **Leisure Suit Larry: The Ultimate Pleasure Pack** (1999) – A four-CD collection that added *Larry's Casino* and the full *Love for Sail!* to the earlier Larry collection's contents[^ref-16]
 
-The game was also released as part of *Best of Sierra Nr. 17* (2000) in Europe.[^ref-4]
+The game was also included in *Best of Sierra Nr. 17* (2000).[^ref-2]
 
 ### Related Products
 
 The game has connections to Sierra's earlier Larry-themed casino software:
 
 - **Crazy Nick's Software Picks: Leisure Suit Larry's Casino** (1992) – An earlier budget release containing only three games (Slot Machine, Blackjack, and Poker), where money earned carried over between games[^ref-3]
-- **LarryLand** (1992) – The original TSN virtual environment concept[^ref-9]
+- **LarryLand** (1992) – The original TSN virtual environment concept[^ref-9][^ref-16]
 
 ### Online Service Shutdown
 
@@ -217,3 +217,5 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 [^ref-14]: [Hardcore Gaming 101 – Leisure Suit Larry (Assorted)](http://www.hardcoregaming101.net/leisure-suit-larry-assorted/) – Series history, spinoff documentation, context and analysis
 
 [^ref-15]: [The Spoiler – Leisure Suit Larry's Casino Walkthrough](https://the-spoiler.com/ADVENTURE/Sierra/leisure.suit.larry.casino.1.html) – Game guide, feature documentation, gameplay details
+
+[^ref-16]: [Leisure Suit Larry – Wikipedia](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) – Series history: Ultimate Pleasure Pack contents, LarryLand (1992) on The Sierra Network

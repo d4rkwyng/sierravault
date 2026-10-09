@@ -1,7 +1,7 @@
 ---
 title: 'Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded'
 release_year: 2013
-developer: Replay Games
+developer: N-Fusion Interactive
 designer: [Al Lowe, Josh Mandel]
 publisher: Replay Games
 genre: Adventure
@@ -21,12 +21,12 @@ tags: [2010s, adventure, al-lowe, leisure-suit-larry, sierra]
 
 ## Overview
 
-Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded is a 2013 HD remake of Al Lowe's classic 1987 Sierra adventure game[^ref-18][^ref-82]. The project was successfully crowdfunded through Kickstarter, raising $655,182 from 14,081 backers against a $500,000 goal[^ref-42]. Developed by Replay Games in collaboration with original creator Al Lowe[^ref-18], the remake features completely redrawn HD graphics, full voice acting, and an expanded soundtrack by Grammy-nominated composer Austin Wintory[^ref-59].
+Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded is a 2013 HD remake of Al Lowe's classic 1987 Sierra adventure game[^ref-18]. The project was successfully crowdfunded through Kickstarter, raising $655,182 from 14,081 backers against a $500,000 goal[^ref-42]. Developed by N-Fusion Interactive and published by Replay Games, with original creator Al Lowe as designer[^ref-18], the remake features completely redrawn HD graphics, full voice acting, and an expanded soundtrack by Grammy-nominated composer Austin Wintory[^ref-59].
 
 The game follows the misadventures of Larry Laffer, a "40-year-old virgin in pursuit of losing his virginity"[^ref-40] as he navigates the seedy nightlife of Lost Wages (a thinly veiled Las Vegas parody)[^ref-40]. While maintaining the core gameplay and humor of the original, Reloaded introduces new content including an entirely new character named Jasmine[^ref-21], expanded locations, and additional puzzles[^ref-15]. As Al Lowe explained, "One of our goals with doing this remake was not to do a remake. We didn't just want to port the game over with higher-res and better graphics. We wanted to do a much better game and it gave me a chance to fix some of the puzzles that I've hated for twenty-five years"[^ref-18].
 
 > [!info]- Game Info
-> **Developer:** [[Replay Games]][^ref-18]
+> **Developer:** N-Fusion Interactive[^ref-18]
 > **Designer:** [[Al Lowe]], [[Josh Mandel]][^ref-18]
 > **Publisher:** Replay Games[^ref-18]
 > **Platforms:** PC, Mac, Linux, Android, iOS[^ref-37]
@@ -46,13 +46,13 @@ The remake expands on the original's narrative with additional character interac
 
 ### Interface and Controls
 
-Leisure Suit Larry: Reloaded employs a modern point-and-click interface, a significant improvement over the original 1987 version's text parser system[^ref-17]. Like the 1991 SCI remake, "the game employs a point-and-click interface over the original 1987 version's text parser"[^ref-17]. The interface supports multiple interaction types - "the game consists of a variety of puzzles, which can be solved by looking at, picking up, licking, talking to or using items on a variety of objects and people in the game"[^ref-17].
+Leisure Suit Larry: Reloaded employs a modern point-and-click interface, a significant improvement over the original 1987 version's text parser system[^ref-17]. Like the 1991 SCI remake, it replaces the original's text parser with point-and-click controls[^ref-18]. Puzzles are solved by looking at, picking up, licking, talking to or using items on the game's objects and people[^ref-18].
 
 One of the most praised aspects of the remake is its comprehensive interaction system. As noted by Mash Those Buttons, "the writers wrote a specific reaction (and narrated it) for every single command used on every single item"[^ref-44]. This attention to detail means that virtually every object in the game has unique responses when examined or interacted with, maintaining the series' tradition of humorous descriptions and commentary[^ref-44].
 
 ### Structure and Progression
 
-The game maintains the original's episodic structure while expanding content significantly. Players can complete the core experience in approximately 2-3 hours[^ref-1], though the remake includes additional content that extends gameplay beyond the original's scope[^ref-1]. The taxi system remains central to navigation, with optimization guides noting "You can get through using the taxi just seven times"[^ref-23] for efficient completion.
+The game maintains the original's episodic structure while expanding content significantly. A returning fan finished it in about two and a half hours[^ref-1]; a first-time reviewer logged six hours[^ref-12]. Even so, the remake includes additional content that extends gameplay beyond the original's scope[^ref-1]. The taxi system remains central to navigation, with optimization guides noting "You can get through using the taxi just seven times"[^ref-23] for efficient completion.
 
 Achievement integration adds modern gaming elements, with Steam Community guides detailing specific requirements for unlocking various achievements[^ref-67]. The game includes easter eggs referencing Sierra On-Line history[^ref-74], connecting the remake to its adventure gaming heritage.
 
@@ -60,13 +60,13 @@ Achievement integration adds modern gaming elements, with Steam Community guides
 
 The remake preserves classic adventure game puzzle design while addressing some problematic elements from the original. Al Lowe used the opportunity to "fix some of the puzzles that I've hated for twenty-five years"[^ref-18]. However, some reviews noted that certain frustrating elements remained, with Mash Those Buttons observing that "some rotten things followed this game on its trip to modernity"[^ref-44].
 
-Key gameplay elements include inventory management, character dialogue trees, and environmental puzzle solving. The infamous age verification system returns, with players needing to answer questions about 1970s and 1980s pop culture to access the game[^ref-13]. Attempting to bypass this check with CTRL + ALT + X results in the game displaying "CHEATER, CHEATER. CHEATER!!!"[^ref-13].
+Key gameplay elements include inventory management, character dialogue trees, and environmental puzzle solving. The infamous age verification system returns, with a new set of adult-trivia questions (Y2K, Steve Fossett, Hannibal Lecter and the like) to access the game[^ref-13]. The old CTRL + ALT + X shortcut still skips the quiz; the game simply brands you "CHEATER, CHEATER. CHEATER!!!" and lets you play[^ref-13].
 
 ## Reception
 
 ### Contemporary Reviews
 
-The 2013 remake received mixed to negative reviews from critics, achieving a Metacritic score of 56/100[^ref-45]. GameSpot awarded it 4/10, with reviewer Jason Venter noting the game was "not having enough new gameplay to hide the fact that the original Leisure Suit Larry game was every bit as shallow as its sexually frustrated protagonist"[^ref-18]. Game Informer's Jeff Cork gave it 6/10, observing that "Newcomers may find the gameplay and core concept as chafing as a pair of sweaty polyester slacks"[^ref-24].
+The 2013 remake received "mixed or average" reviews, with a Metacritic score of 56/100[^ref-18]. GameSpot awarded it 4/10, with reviewer Jason Venter noting the game was "not having enough new gameplay to hide the fact that the original Leisure Suit Larry game was every bit as shallow as its sexually frustrated protagonist"[^ref-18]. Game Informer's Jeff Cork gave it 6/10, observing that "Newcomers may find the gameplay and core concept as chafing as a pair of sweaty polyester slacks"[^ref-24].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
@@ -79,7 +79,7 @@ The 2013 remake received mixed to negative reviews from critics, achieving a Met
 
 ### Modern Assessment
 
-User reception among GOG customers was more positive, with 61 reviews averaging 4/5 stars[^ref-37]. Kickstarter backers were notably more satisfied, with one supporter stating "I contributed $125 to make this game happen, 6 times the price of the game itself, and I'm so happy I did it"[^ref-22]. Another backer claimed "I have not heard of a SINGLE kickstarter backer who was disappointed in Al Lowe's work here"[^ref-22].
+User reception among GOG customers was more positive, with 66 reviews averaging 4/5 stars (October 2026)[^ref-37]. Kickstarter backers were notably more satisfied, with one supporter stating "I contributed $125 to make this game happen, 6 times the price of the game itself, and I'm so happy I did it"[^ref-22]. Another backer claimed "I have not heard of a SINGLE kickstarter backer who was disappointed in Al Lowe's work here"[^ref-22].
 
 The game found particular appreciation among adventure game enthusiasts who understood its historical context. JayIsGames reviewer Tricky noted that "these guys get Larry... the obliviousness, the dorkiness, and all those other attributes that ensure this loser stays just that much more loveable than pathetic"[^ref-41]. However, broader gaming audiences were less receptive, with many reviews highlighting how the humor and gameplay felt dated in 2013[^ref-33].
 
@@ -87,13 +87,13 @@ The game found particular appreciation among adventure game enthusiasts who unde
 
 ### Origins
 
-The remake project began when Replay Games, founded by Paul Trowe, acquired the rights to the Leisure Suit Larry franchise[^ref-76]. However, traditional publishers showed no interest in funding development[^ref-34]. As Al Lowe explained, "Replay Games had the rights to Leisure Suit Larry for months and was unable to find a publisher interested in funding development. Had Paul Trowe and I not stumbled into Tim Shaffer at a conference, we might still be hunting for funding"[^ref-34].
+The remake project began when Replay Games, founded by Paul Trowe, licensed the rights to remake Leisure Suit Larry from IP holder Codemasters[^ref-15]. However, traditional publishers showed no interest in funding development[^ref-34]. As Al Lowe explained, "Replay Games had the rights to Leisure Suit Larry for months and was unable to find a publisher interested in funding development. Had Paul Trowe and I not stumbled into Tim Shaffer at a conference, we might still be hunting for funding"[^ref-34].
 
-The Kickstarter campaign launched in 2012 with the provocative title "Make Leisure Suit Larry come again!"[^ref-45], playing on the series' reputation for innuendo[^ref-45]. The campaign successfully raised $655,182 from 14,081 backers, exceeding the $500,000 goal[^ref-42]. This funding model proved crucial, as Al Lowe noted that Kickstarter made the project possible when traditional funding had failed[^ref-34].
+The Kickstarter campaign launched in 2012 with the provocative title "Make Leisure Suit Larry come again!"[^ref-42], playing on the series' reputation for innuendo. The campaign successfully raised $655,182 from 14,081 backers, exceeding the $500,000 goal[^ref-42]. This funding model proved crucial, as Al Lowe noted that Kickstarter made the project possible when traditional funding had failed[^ref-34].
 
 ### Production
 
-Development was handled by N-Fusion Interactive, with Al Lowe serving as creative consultant[^ref-79]. The team aimed to create more than a simple graphics update, incorporating voice acting throughout and expanding content significantly[^ref-79]. Jan Rabson provided the voice of Larry Laffer[^ref-8], while a full cast brought the supporting characters to life[^ref-8].
+Development was handled by N-Fusion Interactive, with the remake headed by original designer Al Lowe and co-designer Josh Mandel[^ref-83]. The team aimed to create more than a simple graphics update, incorporating voice acting throughout and expanding content significantly[^ref-79]. Jan Rabson provided the voice of Larry Laffer and Brad Venable voiced the Narrator[^ref-8][^ref-12], while a full cast brought the supporting characters to life[^ref-8].
 
 The game faced multiple delays during development, with Paul Trowe explaining "Due to the pure number of bugs found in the PC version alone (Mac version is being tested now, but not via Steam), we're having to delay the game, yet again, until the end of June"[^ref-55]. The development team emphasized quality over speed, with Trowe stating "We have ONE SHOT at getting this game right, and it will set the bar for quality for all future Larry games to come"[^ref-55].
 
@@ -103,23 +103,20 @@ Austin Wintory composed an entirely new jazz-influenced soundtrack[^ref-59]. The
 
 The remake was built using the Unity engine[^ref-57], enabling cross-platform deployment across PC, Mac, Linux, Android, and iOS[^ref-37]. However, technical issues plagued the initial release, particularly on mobile platforms. The Android version was pulled shortly after launch to "fix error"[^ref-60], with Replay Games providing no specific timeline for the corrected version[^ref-60].
 
-The game featured full HD graphics completely redrawn from the original pixel art[^ref-32]. While some reviews praised the visual improvements, others noted inconsistency in the art style[^ref-24]. Game Informer's Jeff Cork observed "The game looks pretty darn good overall, though it lacks consistency"[^ref-24].
+The game was rebuilt and animated from scratch in HD[^ref-24]. While some reviews praised the visual improvements, others noted inconsistency in the art style[^ref-24]. Game Informer's Jeff Cork observed "The game looks pretty darn good overall, though it lacks consistency"[^ref-24].
 
 ## Legacy
 
-Despite mixed critical reception, Leisure Suit Larry: Reloaded served an important role in demonstrating the viability of crowdfunded remakes of classic adventure games. The project preceded and likely influenced other successful Kickstarter campaigns for Sierra remakes and spiritual successors[^ref-63]. However, the game's commercial performance was modest, leading to questions about future projects in the series[^ref-63].
+Despite mixed critical reception, Leisure Suit Larry: Reloaded served an important role in demonstrating the viability of crowdfunded remakes of classic adventure games. Wikipedia notes it appeared to be the first Kickstarter-funded game to ship[^ref-18].
 
 The remake highlighted the challenges of updating decades-old humor and gameplay for modern audiences. While longtime fans and Kickstarter backers generally appreciated the faithful recreation[^ref-22], broader gaming audiences found the content dated and problematic[^ref-33]. This tension between nostalgia and modern sensibilities became a recurring theme in reviews[^ref-44].
 
-The game was eventually delisted from Steam and other digital platforms[^ref-15], though it remains available through GOG[^ref-37]. The delisting was attributed to licensing complications and publisher controversies[^ref-81], making it increasingly difficult for new players to experience this chapter in adventure gaming history[^ref-15].
+The game was delisted from Steam on November 24, 2017[^ref-15], though it remains available on GOG[^ref-37]. Delisted Games attributes the removal most likely to an expired license from Codemasters, rather than to the contemporaneous controversy around Replay's president[^ref-15].
 
 ## Downloads
 
 **Purchase / Digital Stores**
 - [GOG.com](https://www.gog.com/en/game/leisure_suit_larry_reloaded) - Currently available[^ref-37]
-
-**Download / Preservation**
-- No abandonware sites currently host this 2013 remake, as it remains under copyright protection[^ref-3]
 
 ## See Also
 
@@ -139,7 +136,6 @@ The game was eventually delisted from Steam and other digital platforms[^ref-15]
 ## References
 
 [^ref-1]: [3rd World Geeks Review](https://3rdworldgeeks.com/2013/11/20/ill-review-anything-leisure-suit-larry-reloaded/) – - Gameplay length and overall assessment
-[^ref-3]: Abandonware DOS Search *(download link removed: the game is sold commercially)* – - No content about Reloaded specifically
 [^ref-8]: [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/leisure-suit-larry-reloaded/) – - Comprehensive voice cast information
 [^ref-9]: [Financial Post](http://business.financialpost.com/2013/01/16/steam-greenlights-their-fourth-set-of-games-with-the-communitys-help/) – - Steam Greenlight approval context
 [^ref-12]: [Choicest Games Game Review](https://www.choicestgames.com/2014/09/leisure-suit-larry-reloaded-review.html) – - Detailed scoring breakdown
@@ -174,4 +170,4 @@ The game was eventually delisted from Steam and other digital platforms[^ref-15]
 [^ref-76]: [Archived NY Post Interview](https://web.archive.org/web/20121108084927/http://www.nypost.com/p/blogs/gamereport/leisure_suit_larry_creator_making_Z6I5YvLcAW15aqgSFTSx9N) – - Al Lowe and Paul Trowe interview about Kickstarter
 [^ref-79]: [Archived Replay Games Product Page](https://web.archive.org/web/20140724142903/https://www.replaygamesinc.com/store/index/products/item/leisure-suit-larry-reloaded) – - Official product details
 [^ref-81]: [Archived Delisted Games Entry](https://web.archive.org/web/20260827025329/https://delistedgames.com/leisure-suit-larry-reloaded/) – - Steam removal documentation
-[^ref-82]: [Steam Community OST](https://steamcommunity.com/sharedfiles/filedetails?id=167468330&insideModal=1) – - Removed content, no research data
+[^ref-83]: [GameSpot – Leisure Suit Larry Reloaded out June 27](https://www.gamespot.com/articles/leisure-suit-larry-reloaded-out-june-27/1100-6410796/) – - Remake headed by Al Lowe with co-designer Josh Mandel

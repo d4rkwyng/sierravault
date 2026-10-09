@@ -21,9 +21,9 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 
 ## Overview
 
-Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work, released in 1991, stands as the fourth entry in Al Lowe's infamous adventure series[^ref-1]. Despite being numbered as the fifth game, there was never a Leisure Suit Larry 4, which Al Lowe skipped intentionally as a marketing gag and narrative device[^ref-2]. The game marked a significant departure for the series, being the first to abandon the text parser interface in favor of a fully icon-based point-and-click system[^ref-3].
+Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work, released in 1991, stands as the fourth entry in Al Lowe's infamous adventure series[^ref-1]. Despite being numbered as the fifth game, there was never a Leisure Suit Larry 4, which Al Lowe skipped intentionally as a marketing gag and narrative device[^ref-4]. The game marked a significant departure for the series, being the first to abandon the text parser interface in favor of a fully icon-based point-and-click system[^ref-3].
 
-This adventure game alternates control between series protagonist Larry Laffer and Passionate Patti, each following separate storylines that eventually converge[^ref-4]. Larry has been assigned by his boss to scout models for the company's upcoming release "America's Sexiest Home Videos," while Patti works undercover for the FBI to catch a criminal known as Mr. Big[^ref-5]. The game was designed as what creator Al Lowe described as an "interactive cartoon," explaining why neither character can die during gameplay[^ref-6].
+This adventure game alternates control between series protagonist Larry Laffer and Passionate Patti, each following separate storylines that eventually converge[^ref-4]. Larry has been assigned by his boss to scout models for the company's upcoming release "America's Sexiest Home Videos," while Patti works undercover for the FBI on a case that leads to the mobster Julius Biggs[^ref-4]. The game was designed as what creator Al Lowe described as an "interactive cartoon," explaining why neither character can die during gameplay[^ref-6].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-7]
@@ -38,7 +38,7 @@ This adventure game alternates control between series protagonist Larry Laffer a
 
 ## Story Summary
 
-The plot begins with Larry Laffer being assigned a dream job: traveling across the United States to visit three of America's sexiest women for his company's video production[^ref-13]. His boss figures that since Larry is so pathetic with women, any woman willing to get with him must be the perfect candidate for their adult video show[^ref-14]. Meanwhile, Passionate Patti is working undercover for the FBI, investigating organized crime connections in the pornography industry[^ref-15].
+The plot begins with Larry Laffer being assigned a dream job: traveling across the United States to visit three of America's sexiest women for his company's video production[^ref-13]. His boss figures that since Larry is so pathetic with women, any woman willing to get with him must be the perfect candidate for their adult video show[^ref-14]. Meanwhile, the FBI recruits Passionate Patti to go undercover and find out how organized crime has infiltrated the entertainment industry through subliminal messages hidden in rock and rap recordings[^ref-4].
 
 The game's premise cleverly incorporates the mystery of the missing Leisure Suit Larry 4 into its narrative. Larry has supposedly forgotten his fourth adventure due to amnesia caused by the villainous Julius Biggs, who stole the "missing floppies" containing the fourth game[^ref-16]. This tongue-in-cheek explanation became part of the series mythology, with Larry 4 forever referred to as "The Case of the Missing Floppies"[^ref-17].[^ref-43]
 
@@ -48,11 +48,11 @@ The game's premise cleverly incorporates the mystery of the missing Leisure Suit
 
 Leisure Suit Larry 5 introduced the series' first fully mouse-driven interface, abandoning the text parser system that had defined earlier entries[^ref-18]. Al Lowe later reflected that this change had unexpected consequences: "I put the same amount of puzzles in Larry 5 as in Larry 3 but people solved the game much faster because they didn't have to guess which words we wanted them to type"[^ref-3]. The new system featured what the developers cheekily described as a "no-typing 'grope and click' interface for quick-feel, one-hand action scoring"[^ref-7].
 
-The game introduced several unique interface elements, including the infamous "Zipper" icon for erotic actions and the "Bodily Function Keys"[^ref-19]. According to Al Lowe, these sound effect keys were added just three days before shipping: "We added these about three days before we shipped because it was late at night, we were tired, we were high on caffeine and pizza, we were all Letterman fans, it seemed like a good idea at the time, and we could"[^ref-7].
+The game introduced several unique interface elements, including the infamous "Zipper" icon for erotic actions[^ref-4] and the "Bodily Function Keys"[^ref-7]. According to Al Lowe, these sound effect keys were added just three days before shipping: "We added these about three days before we shipped because it was late at night, we were tired, we were high on caffeine and pizza, we were all Letterman fans, it seemed like a good idea at the time, and we could"[^ref-7].
 
 ### Structure and Progression
 
-Unlike previous Larry games, Leisure Suit Larry 5 is notably more linear in structure[^ref-20]. Players alternate between controlling Larry and Patti as they travel to different locations across the United States, with the narrative switching perspectives when characters board airplanes[^ref-21]. The game is structured around separate episodes for each character, eventually bringing their storylines together for the climax[^ref-22].
+Unlike previous Larry games, Leisure Suit Larry 5 is notably more linear in structure[^ref-20]. Players alternate between controlling Larry and Patti as they travel to different locations across the United States, with the narrative switching perspectives when characters board airplanes[^ref-29]. The game is structured around separate episodes for each character, eventually bringing their storylines together for the climax[^ref-22].
 
 A significant aspect of the game's design was the removal of death and failure states. As one reviewer noted, "Unlike the previous Larry games, you cannot die in game nor get stuck. There are always ways out of a situation"[^ref-23]. This design decision aligned with Al Lowe's vision of creating an interactive cartoon experience[^ref-6].
 
@@ -70,7 +70,6 @@ The game received mixed reviews upon release, with significant variation between
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Adventure Classic Gaming | 4/5 (Very Good) | "Best game in the Leisure Suit Larry series"[^ref-7] |
 | Amiga Action | 92% | April 1992[^ref-10] |
 | Amiga Computing | 91% | July 1992[^ref-10] |
 | Computer Gaming World | Positive | "thoroughly enjoyable game"[^ref-4] |
@@ -82,7 +81,7 @@ Computer Gaming World's J.D. Lambright called it a "thoroughly enjoyable game" i
 
 ### Modern Assessment
 
-Contemporary retrospective reviews have been more critical. Modern gaming sites have given scores ranging from 4/10 to 7/10[^ref-28][^ref-29]. Alex Bevilacqua's blog review gave it 55%, noting that "playing this game sort of felt like I was 'going through the motions'. There wasn't much challenge, the game world felt very small and there wasn't much to explore"[^ref-8].
+Contemporary retrospective reviews have been more critical, though not uniformly. Adventure Classic Gaming's 1999 review rated it 4/5, with the reviewer writing, "Among all the titles in the Leisure Suit Larry series, my favorite is Leisure Suit Larry 5"[^ref-7]. Alex Bevilacqua's blog review gave it 55%, noting that "playing this game sort of felt like I was 'going through the motions'. There wasn't much challenge, the game world felt very small and there wasn't much to explore"[^ref-8].
 
 MobyGames user reviews have been particularly harsh, with one reviewer stating "Larry 5 is unabashedly, mind-numbingly, infuriatingly easy" and criticizing that "all the puzzles in the game are there only to score extra points"[^ref-30]. Another user compared the game's quality to Larry's romantic failures: "Larry 5 is to adventure games (Larry legacy included) what Larry is to women"[^ref-26].
 
@@ -90,21 +89,23 @@ MobyGames user reviews have been particularly harsh, with one reviewer stating "
 
 ### Origins
 
-Al Lowe originally intended the Leisure Suit Larry series to be a trilogy ending with Larry 3[^ref-1]. When pressured to continue the series, he faced a creative challenge since Larry 3's ending had seemingly concluded the character's story arc[^ref-8]. His solution was audacious: "Don't make Larry 4. Skip to Larry 5"[^ref-28].
+Al Lowe originally intended the Leisure Suit Larry series to be a trilogy ending with Larry 3[^ref-1]. When pressured to continue the series, he faced a creative challenge since Larry 3's ending had seemingly concluded the character's story arc[^ref-45]. His solution, as Just Games Retro puts it: "Don't make Larry 4. Skip to Larry 5."[^ref-28]
 
-This decision solved what Lowe called the "mind share problem" - how to grab people's attention and make them wonder if they had missed something[^ref-8]. The concept was incorporated into the game's plot, with Larry suffering from amnesia about his "fourth adventure" due to the villainous actions of Julius Biggs[^ref-15].
+This decision solved what Lowe called the "mind share problem" - how to grab people's attention and make them wonder if they had missed something[^ref-45]. The concept was incorporated into the game's plot, with Larry suffering from amnesia about his "fourth adventure" due to the villainous actions of Julius Biggs[^ref-15].
 
 ### Production
 
-The game was developed using Sierra's SCI1 engine, marking the first Larry title to feature 256-color VGA graphics[^ref-12]. The production team included director Bill Davis alongside Al Lowe, producer Guruka Singh Khalsa and Ken Williams, programmer Brian K. Hughes, and artist Jane Cardinal[^ref-9].
+The game was developed using Sierra's SCI1 engine, marking the first Larry title to feature 256-color VGA graphics[^ref-12]. The production team included director Bill Davis alongside Al Lowe, producer Guruka Singh Khalsa, programmer Brian K. Hughes, and artist Jane Cardinal[^ref-4].
 
-Craig Safan, an Emmy-nominated composer known for writing the Cheers theme song, provided the musical score[^ref-31]. The soundtrack was later preserved digitally, featuring Roland MT-32 score with Sound Canvas enhancements[^ref-31].
+Craig Safan, an Emmy-nominated Hollywood composer whose credits include the TV series Cheers, The Last Starfighter and A Nightmare on Elm Street 4, provided the musical score[^ref-7]. The soundtrack was later preserved digitally, featuring Roland MT-32 score with Sound Canvas enhancements[^ref-31].
 
 ### Technical Achievements
 
-Leisure Suit Larry 5 featured several technical firsts for the series. It was the first to use hand-painted backgrounds that were then digitized for the computer[^ref-7]. The game also introduced Sierra's full icon-based interface system to the Larry series, though this change had unexpected consequences for gameplay difficulty[^ref-3].
+Leisure Suit Larry 5 featured several technical firsts for the series. All of its graphics were hand-painted and then digitized[^ref-7]. The game also introduced Sierra's full icon-based interface system to the Larry series, though this change had unexpected consequences for gameplay difficulty[^ref-3].
 
-The game included copy protection through its airline booking system, requiring players to consult the included travel brochure[^ref-32]. Additionally, it featured an age verification system to prevent minors from accessing adult content[^ref-33].[^ref-41]
+The game included copy protection through its airline booking system, requiring players to look up AeroDork Airline ticket codes in the game's documentation[^ref-32].
+
+US telephone company Sprint paid to be featured in the game: whenever Larry or Patti make a phone call, it goes through Sprint, and MobyGames suggests Sierra may have been the first company to place an advertisement in a computer game[^ref-9].
 
 ## Legacy
 
@@ -148,7 +149,7 @@ The game achieved commercial success despite mixed critical reception, with the 
 [^ref-5]: [SuperCheats Walkthrough](https://www.supercheats.com/pc/walkthroughs/leisuresuitlarry5passionatepattidoesalittleundercoverwork-walkthrough01.txt) – - Plot summary for both characters
 [^ref-6]: [IMDb Trivia Page](https://m.imdb.com/title/tt0273735/trivia/) – - Al Lowe's interactive cartoon concept
 [^ref-7]: [Adventure Classic Gaming Review](https://www.adventureclassicgaming.com/index.php/site/reviews/123/) – - Developer information
-[^ref-8]: [Alex Bevilacqua Blog](https://web.archive.org/web/*/https://alexbevi.com/blog/2026/11/28/leisure-suit-larry-5/) – - Designer credits
+[^ref-8]: [Alex Bevilacqua – Leisure Suit Larry 5 (Nov 28, 2025)](https://alexbevi.com/blog/2025/11/28/leisure-suit-larry-5/) – - Retrospective review, 55% score
 [^ref-9]: [MobyGames Database](https://www.mobygames.com/game/408/) – - Publisher information
 [^ref-10]: [LemonAmiga Database](https://www.lemonamiga.com/games/details.php?id=1425) – - Platform availability
 [^ref-11]: Abandonware DOS Search *(download link removed: the game is sold commercially)* – - Release year confirmation
@@ -185,3 +186,4 @@ The game achieved commercial success despite mixed critical reception, with the 
 [^ref-42]: [Speedrun.com](https://www.speedrun.com/larry5) – - Speedrunning community data
 [^ref-43]: [Reddit Discussion](https://www.reddit.com/r/Sierra/comments/1kru3xu/leisure_suit_larry_5_passionate_patti_does_a/) – - Community discussion and plot summary
 [^ref-44]: [Steam News: "Time for Larry to Retire (Just a Little Bit)" (Assemble Entertainment, April 30, 2025)](https://store.steampowered.com/news/app/763970/view/1798454487579791) – - Announcement that LSL 1, 2, 3, 5, 6, 7 and Magna Cum Laude leave the Steam store; owners keep them
+[^ref-45]: [Al Lowe – Is LSL5 LSL4?](https://allowe.com/games/larry/inside-stories/is-lsl5-lsl4.html) – - Lowe on the airtight Larry 3 ending and the "mind share" problem

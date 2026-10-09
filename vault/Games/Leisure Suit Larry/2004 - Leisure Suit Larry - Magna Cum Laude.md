@@ -7,9 +7,9 @@ publisher: Vivendi Universal Games
 genre: Action-Adventure
 platforms: [Windows, PS2, Xbox]
 series: Leisure Suit Larry
-engine: Proprietary (High Voltage Hot Rod)
+engine: Proprietary
 protagonist: Larry Lovage
-sierra_lineage: Core Sierra
+sierra_lineage: Late Sierra
 last_updated: '2026-10-09'
 description: 'Leisure Suit Larry: Magna Cum Laude is the seventh installment in the
   long-running Leisure Suit Larry series, released in October 2004 for Windows,...'
@@ -21,7 +21,7 @@ tags: [2000s, adventure, leisure-suit-larry, sierra]
 
 ## Overview
 
-Leisure Suit Larry: Magna Cum Laude is the seventh installment in the long-running Leisure Suit Larry series, released in October 2004 for Windows, PlayStation 2, and Xbox.[^ref-1][^ref-45] Developed by High Voltage Software and published by Vivendi Universal Games under the Sierra Entertainment label, the game marked a dramatic departure from the point-and-click adventure format that defined the original series.[^ref-2] Rather than continuing the story of series protagonist Larry Laffer, the game introduced his nephew, Larry Lovage, a perpetual college student at Walnut Log Community College attempting to win a spot on a reality dating show called "Swingles."[^ref-3]
+Leisure Suit Larry: Magna Cum Laude is the seventh installment in the long-running Leisure Suit Larry series, released in October 2004 for Windows, PlayStation 2, and Xbox.[^ref-1] Developed by High Voltage Software and published by Vivendi Universal Games under the Sierra Entertainment label, the game marked a dramatic departure from the point-and-click adventure format that defined the original series.[^ref-2] Rather than continuing the story of series protagonist Larry Laffer, the game introduced his nephew, Larry Lovage, a perpetual college student at Walnut Log Community College attempting to win a spot on a reality dating show called "Swingles."[^ref-3]
 
 The game represented a significant shift in both gameplay and tone, abandoning the adventure game elements in favor of a collection of mini-games while embracing a more explicit approach to adult humor.[^ref-4] Notably, series creator Al Lowe had no involvement in the game's development despite initial promises from Sierra, leading him to publicly denounce the title.[^ref-5] The game was inspired by the humor found in contemporary teen comedy films such as American Pie and There's Something About Mary, targeting a younger demographic than the original series.[^ref-6]
 
@@ -42,7 +42,7 @@ Despite the controversial departure from series traditions, the game received mi
 
 Larry Lovage is a seventh-year junior at Walnut Log Community College, a hapless young man who has learned everything he knows about romance from his uncle, Larry Laffer—the famous polyester-clad fellow who starred in the previous games.[^ref-3] When the reality dating show "Swingles" comes to campus seeking contestants, Larry sees his opportunity to finally achieve romantic success and live up to his uncle's legendary reputation.[^ref-9]
 
-The game follows Larry as he attempts to woo approximately fifteen different female characters across the college campus and surrounding areas, collecting "confidence points" and tokens to unlock his path to the Swingles competition.[^ref-10] His romantic pursuits take him through over twenty locations including the girls' dormitory, fraternity houses, a nightclub, the campus library, and various other college hotspots.[^ref-11] Along the way, Larry encounters his Uncle Larry, who appears as a cameo character offering guidance and serving as the game's help system voiceover.[^ref-5]
+The game follows Larry as he attempts to woo sixteen college girls across the college campus and surrounding areas, collecting "confidence points" and tokens to unlock his path to the Swingles competition.[^ref-10] His romantic pursuits take him through over twenty locations including the girls' dormitory, fraternity houses, a nightclub, the campus library, and various other college hotspots.[^ref-11] Along the way, Larry encounters his Uncle Larry, who appears as a cameo character offering guidance and serving as the game's help system voiceover.[^ref-5]
 
 The narrative culminates with Larry's appearance on the Swingles dating show, where his choices throughout the game determine which of three possible endings he receives.[^ref-3] The women available for the final selection are limited to Barbara Jo, Morgan, and Suzie, with the outcome depending on Larry's accumulated confidence and which romantic pursuits he successfully completed.[^ref-12]
 
@@ -90,7 +90,7 @@ The game allows players to "Wimp Out" of difficult mini-games by paying tokens, 
 Leisure Suit Larry: Magna Cum Laude received extremely polarized reviews upon release, with critics divided on whether its humor justified its shallow gameplay mechanics.
 
 **Positive Reviews:**
-- Warcry gave the PS2 version 94/100, praising: "Where else can I get the chance to score with the head of anthropology and a Russian exchange student all in the same day?"[^ref-24]
+- Warcry gave the PS2 version 94/100, praising: "Where else can I get the chance to score with the head of anthropology and a Russian exchange student all in the same day?"[^ref-48]
 - Game Chronicles awarded 92/100 for Xbox, stating: "Larry makes the transition to next-gen console perfectly and creates his own little naughty slice of niche-genre pie. If you love to laugh you'll love this game."[^ref-24]
 - GameSpot's Alex Navarro gave the PC version 7.2/10, calling it "Without a doubt, this is the funniest game to come out so far this year."[^ref-7]
 - Eurogamer's Kristan Reed scored it 7/10, describing it as "Far from being among the worst games of the year, it's closer to being the most unlikely success story of the year, by a mile."[^ref-26]
@@ -112,9 +112,9 @@ Modern retrospectives have generally been unkind to Magna Cum Laude, viewing it 
 
 **Aggregate Scores:**
 - **Metacritic:** 59/100 (PC), 60/100 (PS2), 62/100 (Xbox)[^ref-1]
-- **MobyGames:** 61% critic average[^ref-2]
-- **IMDB:** 5.9/10 (344 ratings)[^ref-30]
-- **GOG User Reviews:** 2.6/5 (92 users)[^ref-36]
+- **MobyGames:** 60% critic average (42 ratings)[^ref-2]
+- **IMDB:** 5.9/10[^ref-30]
+- **GOG User Reviews:** 2.6/5 (113 reviews, October 2026)[^ref-9]
 - **HowLongToBeat:** 61% user rating[^ref-32]
 
 **Awards and Dubious Honors:**[^ref-2]
@@ -135,11 +135,11 @@ High Voltage Software, previously known for the Hunter: The Reckoning series, wa
 
 ### Production
 
-Al Lowe has extensively documented his exclusion from the project on his personal website. According to Lowe, he was in discussions with Sierra employees for approximately two years regarding involvement in the new Larry game, but the company stopped contacting him during a period of downsizing.[^ref-5] When he finally saw the game, Lowe compared the experience to "receiving a ransom video from your son's kidnappers. You're happy he's still alive, but at the same time, he's being tortured."[^ref-33]
+Al Lowe has extensively documented his exclusion from the project on his personal website. According to Lowe, off and on over two years, various Sierra employees led him to think the company wanted him involved in the game's development, but nothing came of it and the company stopped contacting him during a period of downsizing.[^ref-5] When he finally saw the game, Lowe compared the experience to "receiving a ransom video from your son's kidnappers. You're happy he's still alive, but at the same time, he's being tortured."[^ref-33]
 
 Most controversially, Lowe revealed: "They wanted me to sign a contract stating that I would never publicly say anything negative about the game—before I'd even seen it!"[^ref-33] After refusing these terms, Lowe proceeded to publicly criticize the game, stating: "Those who seek 3D boobs, profanity, and fart jokes will be pleased. Those who fondly remember my games will be severely disappointed."[^ref-5]
 
-The game's dialogue was written by Cary Okmin and a partner, separate from the original series' creative team.[^ref-5] Working titles for the project reportedly included "Lust in Space" and "Welcome to Uranus."[^ref-2]
+Writer Cary Okmin wrote to Lowe in April 2004 to thank him, having finished his work on the game a year earlier;[^ref-5] MobyGames credits the writing and design to Matthew Entin and Edward Kuehnel.[^ref-2]
 
 **Development Credits:**[^ref-2]
 - **Design Directors:** Duncan McPherson, Tom Smith
@@ -186,8 +186,7 @@ The game suffers from several technical problems that persist to modern day:
 |---------|------|----------|-------|
 | 1.0 (Cut) | October 5, 2004 | Windows, PS2, Xbox | Initial North American release, M-rated[^ref-8] |
 | Uncut and Uncensored | October 26, 2004 | Windows | AO-rated version with full nudity[^ref-8] |
-| European Release | October 29, 2004 | Windows | Cut version[^ref-8] |
-| European Release | November 5, 2004 | PS2, Xbox | Both cut and uncut versions available[^ref-8] |
+| European Release | Oct/Nov 2004 | Windows, PS2, Xbox | Released unedited on all three systems[^ref-1] |
 | GOG Release | May 14, 2013 | Windows | Digital distribution of Uncut version[^ref-36] |
 
 **Copy Protection:** SecuROM v5 (retail PC version)[^ref-37]
@@ -203,10 +202,10 @@ The game contains numerous references to both the original Leisure Suit Larry se
 - **Interocitor Machine:** In Napoleon's room in the library, there's a machine called an Interocitor taken from the film "This Island Earth," a reference beloved by MST3K fans[^ref-38]
 - **Black Sabbath References:** The Delta Iota Omicron fraternity members have nicknames (Supernaut, Sweet Leaf, War Pigs) referencing Black Sabbath songs, with the fraternity name itself referencing Ronnie James Dio[^ref-2]
 - **Goldfinger Parody:** The character Tilly says "No, Mister Lovage, I expect you to die," parodying the famous James Bond villain line[^ref-15]
-- **Lefty's Too:** The bar in the game is a duplicate of Lefty's Bar from the first Leisure Suit Larry remake[^ref-12]
-- **Alumni Pictures:** The sorority house features EGA-style portraits of women from earlier games in the series[^ref-12]
+- **Lefty's Too:** The bar in the game is a duplicate of Lefty's Bar from the first Leisure Suit Larry remake[^ref-47]
+- **Alumni Pictures:** The sorority house features EGA-style portraits of women from earlier games in the series[^ref-47]
 - **Lou Diamond Phillips:** The convenience store's adult section has an area devoted to the actor[^ref-27]
-- **Porn Fairy:** A hidden character scattered across 10 locations who gives money, secret tokens, or mini-game help items[^ref-17]
+- **Porn Fairy:** A hidden character, patterned after Ron Jeremy[^ref-4]
 
 **Character Name References:**[^ref-40]
 The game's female characters are named after famous TV shows including:
@@ -229,7 +228,6 @@ The game features three different endings depending on player choices and accumu
 | Character | Voice Actor |
 |-----------|-------------|
 | Larry Lovage | Tim Dadabo |
-| Larry Laffer (Cameo/Help Voice) | [[Al Lowe]] |
 | Swingles Announcer | George Adams |
 | Ione | Natalie Berg |
 | Analisa Gambozinni | Mary Jo Bolduc |
@@ -285,7 +283,7 @@ The game has been available through digital distribution:
 
 ### Cancelled Sequel
 
-A sequel titled "Leisure Suit Larry 2: Island Tale" (working title: "Leisure Suit Larry: Cocoa Butter") was in development by High Voltage Software for PC, PlayStation 2, Xbox, and PlayStation Portable.[^ref-30] The game would have featured Larry Lovage shipwrecked on the San Areolas Islands. Voice actors Tim Dadabo and Melanie Harrison had recorded voice-overs before the project was cancelled.[^ref-30]
+A sequel titled "Leisure Suit Larry 2: Island Tale" (working title: "Leisure Suit Larry: Cocoa Butter") was in development by High Voltage Software for the PC, PlayStation, Xbox, and PlayStation Portable systems.[^ref-30] The game would have featured Larry Lovage shipwrecked on the San Areolas Islands. Voice actors Tim Dadabo and Melanie Harrison had recorded voice-overs before the project was cancelled.[^ref-30]
 
 ### Fan Projects
 
@@ -370,3 +368,5 @@ The game's poor reception contributed to the series' dormancy until Al Lowe's re
 [^ref-43]: [GamePressure – Nude Patch](https://www.gamepressure.com/download/leisure-suit-larry-magna-cum-laude-nude-patch/z01870) – patch information, download statistics
 [^ref-44]: [Scribd – Prima Guide](https://www.scribd.com/document/392902090/Leisure-Suit-Larry-Magna-Cum-Laude-Prima-Official-EGuide) – official strategy guide
 [^ref-46]: [Steam News: "Time for Larry to Retire (Just a Little Bit)" (Assemble Entertainment, April 30, 2025)](https://store.steampowered.com/news/app/763970/view/1798454487579791) – announcement that Magna Cum Laude Uncut and Uncensored and LSL 1, 2, 3, 5, 6, 7 leave the Steam store; owners keep them
+[^ref-47]: [TV Tropes – Leisure Suit Larry: Magna Cum Laude](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeisureSuitLarryMagnaCumLaude) – Lefty's Too bar, EGA portraits in the sorority house
+[^ref-48]: [Metacritic – PS2 Reviews](https://www.metacritic.com/game/leisure-suit-larry-magna-cum-laude/critic-reviews/?platform=playstation-2) – Warcry score

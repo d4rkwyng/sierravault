@@ -47,7 +47,7 @@ After being dumped by Eve, Larry finds his fortune steadily improving as he wins
 
 The adventure takes Larry from Los Angeles to a luxury cruise liner, through a tropical resort, and ultimately to the volcanic island lair of the villainous Dr. Nonookee—whose name is itself a pun on "no nookie," reflecting Larry's perpetual romantic misfortune.[^ref-15] Along the way, Larry encounters numerous femme fatales, all of whom are either undercover agents wanting his microfiche, secretly want him dead for wacky reasons, or will inevitably lead him to some sort of fatal hijinx.[^ref-7] Unlike the first game where the objective was straightforward—get Larry laid—here "Larry has absolutely no idea what is happening" as the plot unfolds around him.[^ref-1]
 
-The story culminates with Larry rescuing a young woman named Kalalau (later known as "Polyester Patti," who would become "Passionate Patti" in subsequent games) from Dr. Nonookee's clutches.[^ref-9] Interestingly, Patti appears as a blonde in this game but would become dark-haired in future installments.[^ref-9] The evil doctor and his volcanic lair are direct parodies of James Bond films, particularly *Dr. No* and *You Only Live Twice*.[^ref-15]
+The story culminates with Larry infiltrating Dr. Nonookee's volcano to win the hand of Kalalau, the chief's daughter; his accidental defeat of Nonookee frees the women he had hypnotized, among them "Polyester Patti," who returns as Passionate Patti in later games.[^ref-6] Interestingly, Patti appears as a blonde in this game but would become dark-haired in future installments.[^ref-9] The evil doctor and his volcanic lair are direct parodies of James Bond films, particularly *Dr. No* and *You Only Live Twice*.[^ref-15]
 
 ## Gameplay
 
@@ -65,7 +65,7 @@ Unlike the original's more open-ended design, the sequel follows a linear story 
 - **Cruise Ship:** A luxury liner where Larry must navigate social situations and avoid deadly women
 - **Tropical Resort:** Features a vegetation maze containing a peacock from King's Quest IV's Genesta's island[^ref-15]
 - **Airport:** Where Princess Rosella from King's Quest IV appears as a barbershop attendant in a cross-promotional cameo[^ref-15]
-- **Airplane:** Larry encounters Ken from Lefty's Bar and a chatterer barber who parodies Sierra CEO Ken Williams[^ref-19]
+- **Airplane:** A fellow passenger recognises Larry from Lefty's Bar[^ref-20]; a chatterer barber parodies Sierra CEO Ken Williams[^ref-19]
 - **Nontoonyt Island:** Dr. Nonookee's secret volcanic base and the game's climax[^ref-13]
 
 ### Puzzles and Mechanics
@@ -74,7 +74,7 @@ There are fewer puzzles in this installment than in the previous game; however, 
 
 The game features numerous dead-end situations where players can become stuck without notification if they forget to perform certain actions before proceeding to the next location.[^ref-1] "Having unintuitive puzzles, dead ends and repeated game overs are just staples of these early Sierra Online games," observed one modern reviewer.[^ref-2] Al Lowe's own advice, printed in the official book, was simply: "Save early and often!"[^ref-22]
 
-One notable gameplay quirk involves the text parser—"The clever and often funny parser responses are also probably the only parts of the game that have aged gracefully."[^ref-5] Typing certain commands yields humorous responses, such as the game's reaction to inappropriate suggestions: "The whole idea was to stop doing that, Larry!"[^ref-23]
+One notable gameplay quirk involves the text parser—"The clever and often funny parser responses are also probably the only parts of the game that have aged gracefully."[^ref-5] Typing certain commands yields humorous responses, a tradition carried over from the first game.
 
 ## Reception
 
@@ -84,19 +84,19 @@ The game received strong reviews upon release, with critics praising its expande
 
 *Commodore User* awarded the game 9 out of 10, describing it as "Not only an adventure, but a complete entertainment package."[^ref-24] *Computer and Video Games* gave it 90%, calling it "A superb piece of all-round entertainment, particularly, but not exclusively, suited to adventure players."[^ref-24] *PC Format* noted that "The three Larry games so far plumb new depths in computer entertainment — they're crude, suggestive, full of innuendo and double entendres and designed to appeal to the worst aspects of human nature — you'll love 'em."[^ref-6]
 
-*Amiga Action* awarded 74% in March 1990, while *CU Amiga Magazine* gave it 84% in a retrospective review in April 1994.[^ref-6]
+*Amiga Action* awarded 74%, while *CU Amiga Magazine* gave the 1994 budget re-release 84%.[^ref-6]
 
 ### Modern Assessment
 
 Modern critics have been more mixed in their assessment, particularly regarding the toned-down humor. Adventure Classic Gaming's Zack Howe concluded that while it "may not be the best game in the Leisure Suit Larry series, it is still a humorous and an entertaining title to play," awarding it 3 out of 5 overall with 4 out of 5 for gameplay.[^ref-3] GameFAQs user Syrain gave it 7/10, calling it "Better, Longer and Funnier than the first."[^ref-17]
 
-A 2023 retrospective awarded the game 64%, praising its technical improvements but criticizing its "frustratingly vague puzzles" and design requiring exact character positioning for interactions.[^ref-2] "The biggest problem with this game is WHY is Larry doing any of the things he is doing? In the first game, the objective was simple: get Larry laid. All the actions & jokes stemmed from that. In this game, Larry has no idea what is happening."[^ref-1]
+A 2023 retrospective awarded the game 64%, praising its technical improvements but criticizing its "frustratingly vague puzzles" and design requiring exact character positioning for interactions.[^ref-2] One MobyGames user review put it bluntly: "The biggest problem with this game is WHY is Larry doing any of the things he is doing? In the first game, the objective was simple: get Larry laid. All the actions & jokes stemmed from that. In this game, Larry has no idea what is happening."[^ref-1]
 
 **Aggregate Scores:**
 - **MobyGames Critics:** 77%[^ref-1]
-- **IMDB:** 7.2/10 (147 ratings)[^ref-19]
+- **IMDB:** 7.2/10 (151 ratings, June 2026)[^ref-19]
 - **MyAbandonware Users:** 4.71/5 (52 votes)[^ref-26]
-- **Steam User Reviews:** 65% positive (126 reviews)[^ref-27]
+- **Steam User Reviews:** Mixed, 63% of 133 (Oct 2026; no longer sold on Steam)[^ref-27]
 - **Power Play (1990):** #3 Best Adventure of 1989[^ref-1]
 
 ## Development
@@ -109,7 +109,7 @@ Al Lowe faced pressure to clean up Larry's act for the sequel. "After the origin
 
 ### Production
 
-Development utilized Sierra's new SCI engine, making this one of the earliest titles to showcase its capabilities.[^ref-7] The game spanned six floppy disks—a significant expansion from its predecessor.[^ref-29] Al Lowe served as designer, programmer, and composer, handling the music using Roland MT-32 support with Sound Canvas enhancements.[^ref-18]
+Development utilized Sierra's new SCI engine, making this one of the earliest titles to showcase its capabilities.[^ref-7] The game spanned six floppy disks—a significant expansion from its predecessor.[^ref-29] Al Lowe served as designer, programmer, and composer, writing a score for the Roland MT-32.[^ref-18]
 
 The game's copy protection system was innovative for its time. "In Larry 2 we tried something a little different from our original protection of requiring a distribution disk," Al Lowe explained. "We included the pictures of girls from Larry's 'little black book.' The game shows you one when it starts up, and you enable play by completing her phone number. The pictures, by the way, are intentionally bad in the book so that they can't be Xeroxed easily."[^ref-3]
 
@@ -118,16 +118,14 @@ One unexpected result of the development cycle was Josh Mandel's hiring by Sierr
 **Development Credits:**[^ref-1][^ref-24]
 - **Designer:** [[Al Lowe]]
 - **Composer:** Al Lowe
-- **Additional Music:** [[Mark Seibert]]
-- **Artists:** Bonnie Borucki, Douglas Herring
-- **Programmers:** Robert W. Lindsley, Dan Foy, Jim Heintz, Bill Skirvin
-- **Additional Design:** Pablo Ghenis, Stuart Goldstein[^ref-30]
+- **Programming:** Al Lowe (SCI development system: Pablo Ghenis, Stuart Goldstein, Robert E. Heitman, Jeff Stephenson)
+- **Art:** Bonnie Borucki, Douglas Herring, William D. Skirvin
 
 ### Technical Achievements
 
 The game represented a significant technical leap for Sierra. It was the first Larry game to support sound cards including AdLib, Roland MT-32, and the Game Blaster.[^ref-1] The SCI engine enabled 320x200 resolution graphics and full mouse support for navigation, though the text parser remained for commands.[^ref-2]
 
-The game's 75 unique locations nearly doubled the content of its predecessor.[^ref-7] However, Al Lowe admitted that deadline pressures forced compromises—"Originally intended more player control at climax but deadline forced 'auto pilot' ending."[^ref-1] He later acknowledged he "ran out of time and floppy space, making final area a non-interactive cut scene."[^ref-29]
+The game's 75 unique locations nearly doubled the content of its predecessor.[^ref-7] However, deadline pressures forced compromises: Lowe had wanted the player "much more in control of the action at the climax," but as shipping deadlines neared he "was forced to go for a more 'auto pilot' ending."[^ref-1] He later acknowledged he "ran out of time and floppy space, making final area a non-interactive cut scene."[^ref-29]
 
 ### Technical Specifications
 
@@ -154,26 +152,18 @@ The game's ending was originally planned to give players more control during the
 |---------|------|----------|-------|
 | 1.000.011 | October 27, 1988 | DOS | Initial disk release; birthday cheat does not work[^ref-32] |
 | 1.002.000 | 1988 | DOS | Later floppy release; birthday cheat functional[^ref-32] |
-| 1.2 | 1989 | Amiga/Atari ST | Platform ports[^ref-1] |
+| — | 1989 | Amiga/Atari ST | Platform ports[^ref-1] |
 | Collection | 1994 | DOS/Windows | Included in Greatest Hits and Misses[^ref-33] |
 | Collection | 1997 | DOS/Windows | Leisure Suit Larry Collection Series[^ref-34] |
-| Steam | December 18, 2017 | Windows | Digital re-release via Assemble Entertainment[^ref-27] |
+| Steam | December 18, 2017 | Windows | Digital re-release via Assemble Entertainment (removed from sale 2025)[^ref-27] |
 
-**SCI Interpreter Versions:**[^ref-31]
-
-| Game Version | Interpreter | Notes |
-|--------------|-------------|-------|
-| 1.000.011 | SCI0 | Initial release |
-| 1.002.000 | SCI0 | Updated release with cheat fix |
+**SCI Interpreter Versions:** Later copies (version 1.002.000, also in the Larry collections) accept Al Lowe's 0724 phone-number cheat; the original disk version 1.000.011 does not.[^ref-32]
 
 ### Technical Issues
 
 The game shipped with a notorious parser bug that still generates support emails decades later. "The day before the game shipped, the system programmer in charge of 'the parser' fixed a bug that I'd been complaining about for days. He assured me he changed nothing else. I foolishly added the new code to the game," Al Lowe explained. The bug causes commands like "PUT BAG BOTTLE" to fail because the parser incorrectly treats "bag" as a verb rather than a noun—players must type "PUT THE BAG IN BOTTLE" instead.[^ref-32] "16 years later, I'm still answering emails about a bug I swear I didn't create!"[^ref-32]
 
 Other documented issues include:
-- **48/get error:** Game locks up after using menu more than 20 times[^ref-35]
-- **Fart lockup:** "This problem arises from not eating enough bean dip. Restore a previous saved game before the bean dip, and click on the bean dip three separate times, then Larry's fart won't lock up the system."[^ref-35]
-- **Balcony lockup:** Sound card conflict causing freeze[^ref-35]
 - **Dead-end situations:** Player can become permanently stuck if they forget certain items before proceeding[^ref-1]
 
 Al Lowe ruefully notes that modern technical support offers no help: "Once upon a time you could have phoned Sierra's technical support staff if you had trouble with a game. Now, Vivendi Games' tech desk will just laugh at you if you need help with anything before Magna Cum Laude."[^ref-35]
@@ -185,14 +175,14 @@ The game is packed with references to other Sierra games and inside jokes:
 - **Copy Protection Bypass:** Entering 0724 (Al Lowe's birthday, July 24th) skips the copy protection and activates a cheat mode in later versions[^ref-17][^ref-31]
 - **Boss Key:** Pressing Ctrl-B makes Larry disappear—a "panic button" for players caught gaming at work[^ref-3]
 - **Police Quest Reference:** Looking through a fence hole at the Quikie Mart shows people playing Police Quest[^ref-15]
-- **Space Quest IV Reference:** One background is described as looking like it belongs in Space Quest IV[^ref-12]
+- **Space Quest IV Reference:** One background is described as looking like it belongs in Space Quest IV[^ref-20]
 - **King's Quest IV Cameos:** Princess Rosella appears as a barbershop attendant at the airport; a peacock from Genesta's island appears in the resort maze[^ref-15]
 - **Ken Williams Parodies:** The chatterer barber on the airplane and Chief Keneewauwau of Nontoonyt Island are both parodies of Sierra's CEO[^ref-19]
-- **Programmer Joke:** If Larry makes it with Maria the maid, her brother Carlos arrives and shoots him—an inside joke about programmer Carlos Escobar[^ref-15]
-- **"Hairy Reams" Salon:** A reference to adult film star Harry Reems[^ref-15]
+- **Programmer Joke:** If Larry makes it with Maria the maid, her brother Carlos arrives and shoots him—an inside joke about programmer Carlos Escobar[^ref-40]
+- **"Hairy Reams" Salon:** A reference to adult film star Harry Reems[^ref-40]
 - **Recurring Barbershop:** The same barbershop appears in every area as a running gag[^ref-29]
 - **Goldfinger Homage:** If Larry follows Dr. Nonookee's henchwomen, he ends up tied to a table and cut in half by a laser beam[^ref-15]
-- **Original Larry Alley:** One location "looks exactly like the alley from the original Leisure Suit Larry game"[^ref-12]
+- **Original Larry Alley:** One location "looks exactly like the alley from the original Leisure Suit Larry game"[^ref-20]
 - **Tribal Programming Test:** Larry's initiation test uses partially disassembled 8088 code from MS-DOS 3.3 COMMAND.COM[^ref-1]
 
 ## Legacy
@@ -208,11 +198,11 @@ The game has been included in numerous compilation releases:
 - **Leisure Suit Larry's Greatest Hits and Misses** (1994): Included alongside Larry 1-3, 5-6, plus bonus content including The Laffer Utilities, Larry's Casino, and video interviews with Al Lowe[^ref-33]
 - **Leisure Suit Larry Collection Series** (1997): Five-game compilation with Larry 1 VGA remake[^ref-34]
 - **Leisure Suit Larry Collection** (2006): Windows compilation released by Sierra Entertainment[^ref-36]
-- **Steam Release** (December 2017): Digital distribution by Assemble Entertainment[^ref-27]
+- **Steam Release** (December 2017): Digital distribution by Assemble Entertainment (removed from sale 2025)[^ref-27]
 
 ### Fan Projects
 
-The game maintains an active speedrunning community, with the current Any% record standing at 22 minutes 22 seconds held by swimfan.[^ref-37] The leaderboard shows 15 total runs by 7 players across MS-DOS and Amiga platforms, with ScummVM being the most popular emulation method.[^ref-38]
+The game maintains an active speedrunning community, with the current Any% record standing at 22 minutes 22 seconds held by swimfan.[^ref-37] The leaderboard lists 16 runs by 7 players; the 100% record is 23:01 by SantaClaus.[^ref-37]
 
 ### Related Publications
 
@@ -231,7 +221,7 @@ The game's emphasis on linear storytelling and elaborate plot over the original'
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG – Leisure Suit Larry 1-7 Collection](https://www.gog.com/en/game/leisure_suit_larry) – Includes Larry 2
+- [GOG – Leisure Suit Larry (Greatest Hits and Misses: LSL 1–3, 5, 6)](https://www.gog.com/en/game/leisure_suit_larry) – Includes Larry 2
 - ~~[Steam](https://store.steampowered.com/app/765840/)~~ – No longer available in Steam store[^ref-27]
 
 **Download / Preservation**
@@ -279,7 +269,7 @@ The game's emphasis on linear storytelling and elaborate plot over the original'
 [^ref-22]: [GameFAQs – FastaKilla Walkthrough](https://gamefaqs.gamespot.com/pc/565081-leisure-suit-larry-goes-looking-for-love-in-several-wrong/faqs/8143) – Al Lowe save advice quote
 [^ref-23]: [MobyGames – Land of the Lounge Lizards](https://www.mobygames.com/game/379/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – first game sales, piracy, parser responses
 [^ref-24]: [Every Game Going – Amiga Version](https://www.everygamegoing.com/litem/Leisure-Suit-Larry-2-Goes-Looking-For-Love-In-Several-Wrong-Places/171184/) – UK release, credits, review excerpts
-[^ref-27]: [Steam Store – Dutch Page](https://store.steampowered.com/app/765840/Leisure_Suit_Larry_2__Looking_For_Love_In_Several_Wrong_Places/?l=dutch) – 2017 re-release, system requirements, user reviews
+[^ref-27]: [Steam Store](https://store.steampowered.com/app/765840/) – 2017 re-release, system requirements, user reviews
 [^ref-28]: [SuperCheats – FAQ](https://www.supercheats.com/pc/walkthroughs/leisuresuitlarrygoeslookingforloveinseveralwrongplaces-walkthrough01.txt) – Al Lowe design decision quote
 [^ref-29]: [Just Games Retro – Review](https://www.justgamesretro.com/dos/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places) – floppy count, cut content, Easter eggs
 [^ref-30]: RetroGames.cz – Game Page *(download link removed: the game is sold commercially)* – additional designer credits
@@ -292,3 +282,4 @@ The game's emphasis on linear storytelling and elaborate plot over the original'
 [^ref-37]: [Speedrun.com – Leaderboard](https://www.speedrun.com/larry2) – current records, runner statistics
 [^ref-38]: [Speedrun.com – BillBull Run](https://www.speedrun.com/larry2/runs/mk9wll3z) – speedrun community details
 [^ref-39]: [Internet Archive – Manual](https://archive.org/details/Leisure_Suit_Larry_2_Manual) – manual metadata
+[^ref-40]: [IMDb – Trivia](https://m.imdb.com/title/tt0273733/trivia/) – Carlos Escobar inside joke, "Hairy Reams" salon

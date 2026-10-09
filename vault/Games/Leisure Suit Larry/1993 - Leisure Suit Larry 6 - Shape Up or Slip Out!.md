@@ -5,7 +5,7 @@ developer: Sierra On-Line
 designer: [Al Lowe]
 publisher: Sierra On-Line
 genre: Adventure
-platforms: [DOS, Windows, Mac, 3DO]
+platforms: [DOS, Windows, Mac]
 series: Leisure Suit Larry
 engine: SCI1.1
 protagonist: Larry Laffer
@@ -23,13 +23,13 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 
 Leisure Suit Larry 6: Shape Up or Slip Out! is paradoxically the fifth installment in Al Lowe's acclaimed adult adventure game series[^ref-1]. Released by Sierra On-Line in 1993, this entry marked a significant technical leap for the franchise, being the first Larry game to feature full voice acting and SVGA graphics in its enhanced CD-ROM version[^ref-2]. The game represents what Al Lowe described as "a return to the original" Larry formula, focusing on "more babes, more silly situations to humiliate Larry, and more babes"[^ref-3].
 
-Set entirely at the luxurious La Costa Lotta health spa resort, the game follows Larry Laffer as he attempts to romance eight women during his two-week vacation[^ref-4]. After winning his trip on the television game show "Stallions," Larry finds himself in what the narrator describes as an "exclusive health spa, filled with gorgeous women"[^ref-5]. The game was praised for its improved production values and puzzle design, with many considering it one of the best entries in the series[^ref-6][^ref-7].
+Set entirely at the luxurious La Costa Lotta health spa resort, the game follows Larry Laffer as he attempts to romance eight women during his two-week vacation[^ref-4]. After losing on the television game show "Stallions" and taking home the runner-up prize, a trip to La Costa Lotta, Larry finds himself in what the narrator describes as an "exclusive health spa, filled with gorgeous women"[^ref-5]. The game was praised for its improved production values and puzzle design, with many considering it one of the best entries in the series[^ref-6][^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-8]
 > **Designer:** [[Al Lowe]][^ref-9]
 > **Publisher:** Sierra On-Line[^ref-10]
-> **Platforms:** DOS, Windows, Macintosh, 3DO[^ref-11]
+> **Platforms:** DOS, Windows, Macintosh[^ref-11]
 > **Release Year:** 1993
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Core Sierra
@@ -38,7 +38,7 @@ Set entirely at the luxurious La Costa Lotta health spa resort, the game follows
 
 ## Story Summary
 
-The game opens with Larry Laffer having won a luxury vacation at La Costa Lotta resort after appearing on the television game show "Stallions"[^ref-12]. Notably, the game makes no reference to the events of Leisure Suit Larry 5, with Larry once again single and the character of Passionate Patti completely absent[^ref-13]. This clean slate approach was intentional, as Al Lowe wanted to provide players with immediate access to the game world without requiring knowledge of previous entries[^ref-14].
+The game opens with Larry Laffer having won a stay at La Costa Lotta as the consolation prize for losing on the game show "Stallions"[^ref-8]. Notably, the game makes no reference to the events of Leisure Suit Larry 5, with Larry once again single and the character of Passionate Patti completely absent[^ref-13].
 
 Larry's goal at the resort is straightforward: meet and seduce the various women staying at La Costa Lotta[^ref-15]. Each successful romantic encounter provides Larry with an object that he can later offer to Shamara Payne, a New Age enthusiast who represents the game's ultimate challenge[^ref-16]. The women Larry meets are creatively named after varieties of wine, including Burgundy Bodine, Charlotte Donay (Chardonnay), Rose, and Gammie Boysulay (Gamay Beaujolais)[^ref-17]. Only Cavaricchi Vuarnet breaks this pattern, being named after the sunglasses brand[^ref-18].
 
@@ -46,7 +46,7 @@ Larry's goal at the resort is straightforward: meet and seduce the various women
 
 ### Interface and Controls
 
-Larry 6 utilizes Sierra's SCI (Sierra Creative Interpreter) engine, specifically SCI 1.1 for the original VGA version and SCI 2.0 for the enhanced SVGA CD-ROM release[^ref-19]. The game features a point-and-click interface where players move the cursor around the screen and click to perform actions[^ref-20]. Unlike most Sierra games of the era, the icon bar remains visible at all times, providing constant access to the game's interaction options[^ref-21].
+Larry 6 utilizes Sierra's SCI (Sierra Creative Interpreter) engine, specifically SCI 1.1 for the original VGA version and SCI 2.1 for the SVGA CD-ROM release[^ref-11]. The game features a point-and-click interface where players move the cursor around the screen and click to perform actions[^ref-20]. Unlike most Sierra games of the era, the icon bar remains visible at all times, providing constant access to the game's interaction options[^ref-21].
 
 The interface was refined from Larry 5, with the "Use" command being divided into separate "Use" and "Pick Up" functions for greater precision[^ref-22]. Players navigate Larry through the resort using a combination of walking and the resort's tram system, which provides transportation between different areas of the sprawling La Costa Lotta facility[^ref-23].
 
@@ -54,7 +54,7 @@ The interface was refined from Larry 5, with the "Use" command being divided int
 
 The game is structured around four days at the resort, though players have considerable freedom in how they approach their objectives[^ref-24]. Unlike the linear progression of some adventure games, most tasks can be completed in any order except for the final encounter[^ref-25]. This non-linear design was praised by reviewers, with one noting that it created "a fun adventure based in one large location" rather than "a dull adventure spread over a variety of locations"[^ref-26].
 
-One significant design change was Sierra's decision to reintroduce death scenarios, reversing their policy from Larry 5[^ref-27]. However, these deaths were implemented purely for comedic effect, with a "Try Again" button allowing players to immediately retry without loading a saved game[^ref-28]. This approach maintained the humor while eliminating the frustration traditionally associated with Sierra's "dead ends"[^ref-29].
+Deaths returned after their absence in Larry 5[^ref-29], though so gently, with an instant "Try Again", that one reviewer counted it among the first Sierra adventures "in which you cannot die!"[^ref-27] However, these deaths were implemented purely for comedic effect, with a "Try Again" button allowing players to immediately retry without loading a saved game[^ref-28]. This approach maintained the humor while eliminating the frustration traditionally associated with Sierra's "dead ends"[^ref-29].
 
 ### Puzzles and Mechanics
 
@@ -91,25 +91,23 @@ Modern adventure game enthusiasts have highlighted the game's superior puzzle de
 
 ### Origins
 
-The development of Larry 6 came at a crucial time for both Al Lowe and Sierra On-Line. According to Lowe's archived writings, Sierra had initially told him they were "not currently interested in another Leisure Suit Larry adventure game" despite the fact that his "latest adventure (like all of its predecessors) had sold over a quarter-million copies"[^ref-49]. This commercial success ultimately convinced the company to greenlight another Larry adventure.
-
-Al Lowe approached Larry 6 with specific design goals informed by the mixed reception of Larry 5. In his design document, he explained his intention to create "a return to the original" formula, providing "no long auto-pilot cartoons, no Passionate Patti to provide political-correctness, no involved heavy plot. Just more babes, more silly situations to humiliate Larry, and more babes"[^ref-50].
+Al Lowe approached Larry 6 with specific design goals informed by the mixed reception of Larry 5. In the game's manual, he described it as "In some ways, a return to the original," providing "no long auto-pilot cartoons, no Passionate Patti to provide political-correctness, no involved heavy plot. Just more babes, more silly situations to humiliate Larry, and more babes"[^ref-50].
 
 ### Production
 
 The game's development team included several key Sierra personnel. Al Lowe served as designer, writer, director, and producer[^ref-51]. The voice cast was led by Jan Rabson as Larry Laffer and Neil Ross as the narrator[^ref-52]. The supporting cast included notable voice actors such as Mary Kay Bergman, who voiced multiple characters including Cav Vuarnet and Char Donay[^ref-53].
 
-The game's visual design was handled by Bil Skirvin and his team of artists, who created what Al Lowe described as "beautiful women" for the game's female characters[^ref-54]. The artistic approach contrasted "hand-drawn background art and cartoonish characters," which one reviewer noted "adds a distinctive flavor to the game"[^ref-55]. The design document specifically called for "Toon-like buildings set in photo-realistic backgrounds with unrealistic Toon people contrasted with realistic, beautiful 'Vargas girls'"[^ref-56].
+The game's visual design was handled by Bil Skirvin and his team of artists, who created what Al Lowe described as "beautiful women" for the game's female characters[^ref-54]. The artistic approach contrasted "hand-drawn background art and cartoonish characters," which one reviewer noted "adds a distinctive flavor to the game"[^ref-55]. The design document specifically called for "Toon-like buildings set in photo-realistic backgrounds with unrealistic Toon people contrasted with realistic, beautiful 'Vargas girls'"[^ref-18].
 
-Al Lowe also composed the game's music, performing alto saxophone on the opening theme[^ref-57]. The soundtrack included collaborations with Josh Mandel, particularly on the song "Cell Block Love," which featured a concept by Mandel about Marie from the Police Quest series falling in love with Sonny[^ref-58].
+Dan Kehler composed and arranged the music; Al Lowe wrote the Larry theme and played alto saxophone on the opening[^ref-8][^ref-57]. The soundtrack included collaborations with Josh Mandel, particularly on the song "Cell Block Love," which featured a concept by Mandel about Marie from the Police Quest series falling in love with Sonny[^ref-58].
 
 ### Technical Achievements
 
-Larry 6 represented a significant technical advancement for the series. The original 1993 release used VGA graphics at 320x240 resolution in 256-color mode[^ref-59]. However, the 1994 CD-ROM version featured SVGA graphics at 640x480 resolution, making it one of the first Larry games to utilize high-resolution graphics[^ref-60].
+Larry 6 represented a significant technical advancement for the series. The original 1993 floppy release used 320x200 VGA graphics in 256 colors; the CD edition added an SVGA 640x480 mode[^ref-8]. However, the 1994 CD-ROM version featured SVGA graphics at 640x480 resolution, making it one of the first Larry games to utilize high-resolution graphics[^ref-60].
 
-The CD-ROM version's most significant innovation was the addition of full voice acting throughout the game[^ref-61]. This made Larry 6 the first game in the series to feature complete spoken dialogue, a substantial enhancement that was widely praised by reviewers[^ref-62]. The voice work was directed by professional voice actors and featured high production values that set a new standard for the series[^ref-63].
+The CD-ROM version's most significant innovation was the addition of full voice acting throughout the game[^ref-61]. This made Larry 6 the first game in the series to feature complete spoken dialogue, a substantial enhancement that was widely praised by reviewers[^ref-62]. Al Lowe directed the voice work, which featured high production values that set a new standard for the series[^ref-63].
 
-System requirements for the enhanced version included MS-DOS 5.0 or Windows 3.1, a 486DX33 processor, 8 MB RAM, and a double-speed CD-ROM drive[^ref-64]. The game supported various sound cards, with SoundBlaster compatibility being standard[^ref-65].
+System requirements for the enhanced version included MS-DOS 5.0 or Windows 3.1, a 486DX33 processor, 8 MB RAM, and a double-speed CD-ROM drive[^ref-10]. The game supported various sound cards, with SoundBlaster compatibility being standard[^ref-65].
 
 ### Voice Cast
 
@@ -137,27 +135,27 @@ The CD-ROM version marked Larry 6 as the first game in the series to feature ful
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| VGA Floppy | December 1993 | DOS | Original release, 320x200 resolution[^ref-78] |
+| VGA Floppy | November 6, 1993 | DOS | Original release, 320x200 resolution[^ref-78] |
 | SVGA CD-ROM | 1994 | DOS/Windows | Full voice acting, 640x480 resolution[^ref-79] |
 | Windows 3.x | 1994 | Windows | High-resolution Windows release[^ref-80] |
-| Macintosh | 1995 | Mac OS | Mac port[^ref-39] |
+| Macintosh | January 1994 | Mac OS | Mac port[^ref-2] |
 
 **SCI Interpreter Versions:**[^ref-19]
 
 | Game Version | Engine | Notes |
 |--------------|--------|-------|
 | VGA 1.0 | SCI1.1 | Original floppy release, SCI0-style interface |
-| SVGA CD | SCI2.0 | Enhanced CD-ROM with voice acting |
+| SVGA CD | SCI2.1 | Enhanced CD-ROM with voice acting |
 
-**Cancelled Versions:** A 3DO version was planned but never released.[^ref-81]
+**Cancelled Versions:** A design-document art plan quoted on the Adventure Gamer blog called for assets to be converted for 3DO as well as DOS/Windows/CD-ROM, but no 3DO version was released.[^ref-14]
 
 ## Legacy
 
-Larry 6's influence on the series and adventure gaming more broadly has been significant. The game's success demonstrated that adult-themed adventure games could achieve both critical acclaim and commercial success when backed by strong puzzle design and high production values[^ref-66]. Its sales performance helped convince Sierra to continue the Larry franchise through the mid-1990s[^ref-67].
+Larry 6's influence on the series and adventure gaming more broadly has been significant. The game's success demonstrated that adult-themed adventure games could achieve both critical acclaim and commercial success when backed by strong puzzle design and high production values[^ref-66].
 
-The game's technical innovations, particularly its use of full voice acting and SVGA graphics, established new standards for Sierra's adventure game productions[^ref-68]. Many subsequent Sierra titles adopted similar approaches to voice acting and visual design[^ref-69].
+The game's technical innovations, particularly its use of full voice acting and SVGA graphics, established new standards for Sierra's adventure game productions[^ref-68].
 
-Modern speedrunning communities have embraced Larry 6, with dedicated leaderboards tracking completion times and optimization strategies[^ref-70]. The current speedrun record demonstrates the game's continued appeal to competitive players decades after its release[^ref-71].
+Modern speedrunning communities have embraced Larry 6, with dedicated leaderboards tracking completion times and optimization strategies[^ref-70]. The Any% record stands at 22:08 (swimfan, 2024); the linked 2019 100% run by chopheavymetal (23:57) ranks second in its category[^ref-70][^ref-71].
 
 The game remains available through digital distribution platforms, included in the Leisure Suit Larry: Greatest Hits and Misses collection[^ref-72]. Its technical compatibility has been maintained through DOSBox support and modern operating system patches[^ref-73].
 

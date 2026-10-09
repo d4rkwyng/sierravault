@@ -2,7 +2,7 @@
 title: 'Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)'
 release_year: 1991
 developer: Sierra On-Line
-designer: [Al Lowe, Mark Crowe]
+designer: [Al Lowe]
 publisher: Sierra On-Line
 genre: Adventure
 platforms: [DOS, Amiga, Mac]
@@ -11,11 +11,11 @@ engine: SCI1
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
 last_updated: '2026-10-09'
-composer: [Al Lowe]
+composer: [Christopher Braymen, Al Lowe]
 description: 'Leisure Suit Larry 1: In the Land of the Lounge Lizards VGA is a 1991
   remake of Sierra On-Line''s influential 1987 adult comedy adventure game, featuring
   256-color VGA graphics and a point-and-click interface.'
-tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra, two-guys]
+tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)
 
@@ -31,7 +31,7 @@ Despite its risqué reputation, the game's actual content was remarkably tame. A
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Designer:** [[Al Lowe]], [[Mark Crowe]], [[Chuck Benton]][^ref-5]
+> **Designer:** [[Al Lowe]] (art design: Bil Skirvin; based on the 1987 game by Lowe, Mark Crowe and Chuck Benton)[^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI1 (Sierra Creative Interpreter)[^ref-6]
 > **Platforms:** MS-DOS, Amiga, Macintosh[^ref-1]
@@ -42,7 +42,7 @@ Despite its risqué reputation, the game's actual content was remarkably tame. A
 
 ## Story Summary
 
-Larry Laffer is a 40-year-old virgin who has spent his entire adult life living with his mother. When she passes away, Larry decides it's finally time to venture out into the world and find love.[^ref-2] Armed with his polyester leisure suit (of the "highest quality—100% manmade material, permanent press too!"), at least 11 gold chains, and freshly-capped teeth, Larry arrives in the seedy city of Lost Wages with one goal: to lose his virginity before midnight.[^ref-7]
+Larry Laffer is a 40-year-old virgin who has spent his entire adult life living with his mother. When she sells her house and leaves on an indefinite cruise around the world, the suddenly homeless Larry decides it's finally time to find love.[^ref-13] Armed with his polyester leisure suit (of the "highest quality—100% manmade material, permanent press too!"), at least 11 gold chains, and freshly-capped teeth, Larry arrives in the seedy city of Lost Wages with one goal: to lose his virginity before midnight.[^ref-18]
 
 The adventure begins at Lefty's Bar, a dive establishment that the game describes as being "like a wax museum, without a pulse!"[^ref-3] Here, Larry must navigate the sleazy underbelly of the city, encountering prostitutes, pimps, and various colorful characters. His journey takes him through multiple locations including a convenience store, a casino, a disco, a wedding chapel, and ultimately to the penthouse of the beautiful Eve.[^ref-8]
 
@@ -69,7 +69,7 @@ Keyboard shortcuts include F5 for Save, F7 for Load, and Ctrl-Q to quit.[^ref-12
 
 ### Structure and Progression
 
-The game is set entirely within the city of Lost Wages over a single evening, with the player having approximately seven real-time hours to complete their objective.[^ref-13] The city consists of several distinct locations connected by taxi travel:
+The game is set entirely within the city of Lost Wages over a single evening, with the player having eight real-time hours (seven in the 1987 original) to complete their objective.[^ref-5] The city consists of several distinct locations connected by taxi travel:
 
 - **Lefty's Bar** – The seedy starting location where Larry must acquire essential items and information
 - **Convenience Store (Quicki-Mart)** – Where Larry can purchase necessary supplies
@@ -88,33 +88,33 @@ Puzzles in the VGA remake remain largely faithful to the original, focusing on i
 The game features several notable mechanics:
 - **Money Management** – Larry starts with limited funds and must gamble carefully at the casino to afford his romantic pursuits
 - **Time Pressure** – The midnight deadline creates urgency
-- **Death Sequences** – Like other Sierra games, Larry can die in numerous ways, though death scenes are played for comedy with characters from other Sierra games appearing in a "resurrection" sequence[^ref-5]
+- **Death Sequences** – Like other Sierra games, Larry can die in numerous ways, though death scenes are played for comedy: where the 1987 original sent Larry to a Sierra lab alongside other Sierra characters, the remake throws his remains into a blender and reforms him[^ref-5]
 - **Breath Spray Mechanic** – Larry must regularly use breath spray or NPCs will react negatively to him[^ref-14]
 
-A unique feature is the "Boss Key" function, which when pressed makes the game display what appears to be a business graph—though the game playfully responds: "when you panic, I forget everything!" requiring a reload.[^ref-13]
+The 1987 original's "Boss Key", which flashed up a fake business graph and then forced a reload because "when you panic, I forget everything!", is a well-known feature of the original EGA release.[^ref-31][^ref-13]
 
 ## Reception
 
 ### Contemporary Reviews
 
-The original 1987 release received positive reviews that largely carried over to the VGA remake's reputation. Computer Gaming World praised the game, stating it "is a lot of fun to play and is very humorous... with good graphics, good design, and good fun provided, who needs 'good taste'?"[^ref-5] The Games Machine awarded the original an 83% score.[^ref-5]
+The original 1987 release received positive reviews that largely carried over to the VGA remake's reputation. Computer Gaming World praised the game, stating it "is a lot of fun to play and is very humorous... with good graphics, good design, and good fun provided, who needs 'good taste'?"[^ref-5] The Games Machine awarded the original an 83% score.[^ref-5] *Macworld*, reviewing the 1987 Macintosh original, wrote: "At its best, Leisure Suit Larry surprises you with clever animations that make you laugh… at its worst, the game is offensive."[^ref-15][^ref-5]
 
-The VGA remake received mixed reception upon release. Amiga Action gave the 1991 VGA remake a strong 90% score.[^ref-5] However, Amiga Format was less enthusiastic, awarding only 53%.[^ref-5] Macworld offered a balanced assessment: "At its best, Leisure Suit Larry surprises you with clever animations that make you laugh… at its worst, the game is offensive."[^ref-15]
+The VGA remake received mixed reception upon release. Amiga Action gave the 1991 VGA remake a strong 90% score.[^ref-5] However, Amiga Format was less enthusiastic, awarding only 53%.[^ref-5]
 
 ### Modern Assessment
 
-Modern critics have largely embraced the game as a classic of the genre. Adventure Gamers awarded the game 3.5 out of 5 stars, with reviewer Rob Michaud calling it "a bonafide gaming classic, a must-play for adventure history buffs as well as those who just like risqué humor."[^ref-16]
+Modern critics have largely embraced the game as a classic of the genre. Adventure Gamers, reviewing the original 1987 version, awarded it 3.5 out of 5 stars, with reviewer Rob Michaud calling it "a bonafide gaming classic, a must-play for adventure history buffs as well as those who just like risqué humor."[^ref-16]
 
 Adventure Classic Gaming gave the VGA remake a perfect 5 out of 5, with Marshall Ratliff noting that despite the graphics being "both grainy and pixelated," they "strangely work in this game to give the feel of an old stag film."[^ref-3]
 
 Some users have criticized the VGA remake compared to the original. MobyGames user steve mcgarry stated bluntly: "The Original is far superior."[^ref-14] Common complaints include an inaccurate mouse pointer and slower gameplay compared to the text parser version.[^ref-14]
 
 **Aggregate Scores:**
-- **GameRankings:** 81% (4 reviews)[^ref-17]
+- **GameRankings:** 81% (4 reviews; 1987 original)[^ref-17]
 - **MobyGames Critics:** 75%[^ref-1]
 - **IMDB:** 7.8/10[^ref-18]
 - **My Abandonware:** 4.32/5 (82 votes)[^ref-19]
-- **Abandonware DOS:** 4.25/5 (479 votes)[^ref-2]
+- **Abandonware DOS:** 4.24/5 (490 votes, October 2026; 1987 original)[^ref-2]
 
 ## Development
 
@@ -122,13 +122,13 @@ Some users have criticized the VGA remake compared to the original. MobyGames us
 
 The Leisure Suit Larry series has its roots in Sierra's 1981 text adventure Softporn Adventure, created by Chuck Benton.[^ref-11] This text-only game was remarkably successful for its time—at a point when Apple had only shipped 100,000 Apple II computers, Sierra had sold 25,000 copies of Softporn.[^ref-11] Time magazine even featured the game in their first computer entertainment column.[^ref-16]
 
-By the mid-1980s, Sierra CEO Ken Williams approached [[Al Lowe]] about updating Softporn with modern graphics. The timing coincided with Sierra losing their Disney license in 1986, leaving Lowe—who had been working on Disney educational titles—seeking a new project.[^ref-5] When Lowe reviewed the original Softporn, he found it hopelessly dated. As he told Ken Williams: "Ken, that game is so out of touch it should be wearing a leisure suit."[^ref-20]
+By the mid-1980s, Sierra CEO Ken Williams approached [[Al Lowe]] about updating Softporn with modern graphics. The timing coincided with Sierra losing their Disney license in 1986, leaving Lowe—who had been working on Disney educational titles—seeking a new project.[^ref-5] When Lowe reviewed the original Softporn, he found it hopelessly dated. As he told Ken Williams: "Ken, that game is so out of touch it should be wearing a leisure suit."[^ref-37]
 
 This offhand comment sparked the entire concept. Williams loved the idea, and Lowe set about reimagining the game with a comedic twist. Rather than a straight adaptation, Lowe decided to make the protagonist a "loser who thinks he's really with it but who really is out of it, who wants to be a ladies' man but never will be, naive, a little dumb, but still likable."[^ref-11] The character was designed so that "anybody playing the game would be able to feel superior to" him.[^ref-20]
 
 ### Production
 
-The original 1987 game was developed in approximately six months—three months of programming followed by three months of testing and refinement.[^ref-15] Lowe worked primarily from his home for the project.[^ref-21] Artist Mark Crowe, who would later co-create the Space Quest series, created all the graphics in just four weeks while simultaneously working on Space Quest I, completing the art during weekends and evenings.[^ref-22]
+The original 1987 game was written in about three months, followed by two months of beta testing and refinement; Lowe later said he feared he had "blown six months of my life."[^ref-22] Lowe worked primarily from his home for the project.[^ref-21] Artist Mark Crowe, who would later co-create the Space Quest series, created all the graphics in just four weeks while simultaneously working on Space Quest I, completing the art during weekends and evenings.[^ref-22]
 
 The character's name came from multiple sources. "Larry" was suggested because it sounded appropriately nerdy, while "Laffer" was borrowed from economist Arthur Laffer.[^ref-1] Larry's distinctive large nose was actually a technical limitation—with only one pixel available for facial features on the small character sprite, adding that single dot created an enormous proboscis. "If he had no dot, he had no nose," Lowe explained.[^ref-20]
 
@@ -138,8 +138,7 @@ The game was notably the first Sierra title to utilize beta testing through Comp
 - **Game Designer:** Al Lowe
 - **Original Concept:** Chuck Benton (Softporn Adventure)
 - **Character Design:** Mark Crowe, Al Lowe
-- **Composer:** Al Lowe
-- **Additional Music (VGA):** Christopher G. Braymen
+- **Music:** Christopher G. Braymen (score); Al Lowe (theme song); Mark Seibert (music director)[^ref-1][^ref-23]
 
 ### Technical Achievements
 
@@ -147,7 +146,7 @@ The VGA remake represented a significant technical upgrade from the original. Th
 
 - **Enhanced Graphics:** 256-color VGA graphics replaced the original's 16-color EGA palette[^ref-1]
 - **Icon-Based Interface:** Point-and-click controls replaced the text parser[^ref-1]
-- **Improved Audio:** Support for advanced sound formats including Roland MT-32, Sound Canvas, and Sound Blaster[^ref-23]
+- **Improved Audio:** Support for Roland MT-32/LAPC-1/CM-32L, AdLib, Sound Blaster and Pro Audio Spectrum[^ref-25]
 - **More Music:** Substantially expanded soundtrack compared to the original[^ref-24]
 
 The VGA remake also updated some content for contemporary relevance—references to Libya on credit cards were changed to Iraq following the Gulf War, and dialogue was modified accordingly (the condom purchase response changed from "Thanks a lot, big mouth!" to "Thanks a lot, Saddam!").[^ref-1]
@@ -161,7 +160,7 @@ The VGA remake also updated some content for contemporary relevance—references
 - **Storage:** 3.5 MB hard drive space
 - **Graphics:** VGA (256 colors)
 - **Audio:** Thunderboard Pro Aud Spectrum, AdLib, MT-32/LAPC-1/CM-32L, or Sound Blaster
-- **Input:** Mouse required
+- **Input:** Mouse recommended; keyboard and joystick also supported
 - **Media:** 3.5" Floppy Disk
 
 **Original EGA Version (1987):**[^ref-3]
@@ -183,8 +182,8 @@ A Sega CD version of the game was announced but never released.[^ref-5] The orig
 | VGA 1.0 | July 1991 | MS-DOS | SCI1 remake, $59.95 retail ($25 upgrade)[^ref-5] |
 | VGA 1.0 | 1991 | Amiga | VGA remake port[^ref-1] |
 | VGA 1.0 | 1992 | Macintosh | VGA remake port[^ref-1] |
-| 1.1 | Unknown | MS-DOS | Version update[^ref-27] |
-| 1.31 | Unknown | MS-DOS | Version update[^ref-27] |
+| VGA 2.0 | 26 June 1991 | MS-DOS | SCI remake[^ref-39] |
+| VGA 2.1 | 4 July 1991 | MS-DOS | Update[^ref-39] |
 
 **SCI Interpreter Versions:**[^ref-6]
 
@@ -206,17 +205,17 @@ Modern players can resolve most issues using ScummVM, which provides full compat
 
 ### Easter Eggs and Trivia
 
-The game is packed with hidden content and self-referential humor:[^ref-38]
+The game is packed with hidden content and self-referential humor:
 
 - **Ken Williams Cameo:** Sierra CEO Ken Williams appears as a patron in Lefty's Bar and again at the game's conclusion.[^ref-13]
-- **Sierra Staff at Disco:** The disco scene features cartoon versions of the game development team.[^ref-10]
+- **Sierra Staff at Disco:** The disco scene features cartoon versions of the game development team.[^ref-13]
 - **Star Trek Parody:** Graffiti in Lefty's restroom reads "Scott me up, Beamie!"[^ref-29]
 - **King's Quest Reference:** Using the magic ring triggers the message: "Slipping the magic ring onto your finger gives you powers far beyond those of... Oops. Wrong game."[^ref-29]
-- **Steve Jobs Reference:** The naked man in a barrel selling apples outside the casino is implied to be Steve Wozniak (or Jobs).[^ref-13]
+- **Apple Reference:** The broke man in a barrel selling an apple is implied to be Apple co-founder Steve Wozniak.[^ref-13]
 - **Gertrude Stein Quote:** The rose description references her famous line "A rose is a rose, is a rose, is a rose."[^ref-1]
-- **Moose Head:** The moose head in Lefty's Bar is attached to a real moose, and references King's Quest 3.[^ref-30]
+- **Moose Head:** The moose head on the wall in Lefty's Bar turns out to be attached to a real moose.[^ref-14]
 - **Fawn's Portrait:** The close-up of Fawn at the disco is based on a Guess clothing advertisement featuring Claudia Schiffer.[^ref-18]
-- **Text Parser Responses:** The original version (and preserved in the remake) responds to various inappropriate commands humorously. Typing "masturbate" yields: "The whole idea was to stop doing that, Larry!"[^ref-22]
+- **Text Parser Responses (1987 original only):** The original's parser responded humorously to inappropriate commands; the remake replaced typing with icons.[^ref-3]
 - **Condom Size:** Regardless of what size condom Larry requests at the convenience store, it's always announced as "super-small sized."[^ref-10]
 - **Age Verification Bypass:** Pressing Alt-X in the original (Ctrl-Alt-X in the remake) skips the age verification questions.[^ref-5]
 
@@ -239,10 +238,10 @@ The game's success proved especially remarkable given the rampant piracy it suff
 ### Awards
 
 - **1988 CODiE Awards:** Best Adventure or Fantasy/Role Playing Program (1987 original)[^ref-2]
-- **ACE Magazine (February 1991):** Greatest Games of All Time, Arcade Adventures section[^ref-1]
-- **Computer Gaming World (November 1996):** #69 on "50 Best Games of All Time" list[^ref-1]
-- **Computer Gaming World (November 1996):** #5 Funniest Computer Game[^ref-1]
-- **TIME Magazine (2012):** Selected for All-TIME 100 Video Games list[^ref-33]
+- **ACE Magazine (February 1991):** Greatest Games of All Time, Arcade Adventures section (1987 original)[^ref-1]
+- **Computer Gaming World #148 (November 1996):** #69 on "150 Best Games of All Time" (1987 original)[^ref-5]
+- **Computer Gaming World (November 1996):** #5 Funniest Computer Game (1987 original)[^ref-1]
+- **TIME Magazine (2012):** Selected for All-TIME 100 Video Games list (1987 original)[^ref-33]
 
 ### Collections
 
@@ -253,11 +252,11 @@ The VGA remake has appeared in numerous compilations:
 
 The game is currently available digitally through GOG.com as part of collections, published by Codemasters.[^ref-35]
 
-### Fan Projects
+### Official Remake
 
-The most significant modern revival came in 2013 with Leisure Suit Larry: Reloaded, a complete HD remake developed by N-Fusion Interactive and published by Replay Games.[^ref-2] Funded through Kickstarter for $655,000, the project brought back original creator Al Lowe and co-designer Josh Mandel.[^ref-36]
+The most significant modern revival came in 2013 with Leisure Suit Larry: Reloaded, a complete HD remake developed by N-Fusion Interactive and published by Replay Games.[^ref-2] Funded through Kickstarter with over $655,000[^ref-31], the project brought back original designer Al Lowe and writer Josh Mandel.[^ref-36]
 
-The Reloaded version featured completely redrawn HD graphics, full voice acting (with Jan Rabson returning as Larry), an expanded script with new jokes, a dialogue tree system similar to Monkey Island, new puzzles, and even a new female character to pursue.[^ref-36] As Al Lowe explained the philosophy: "We didn't just want to port the game over with higher-res and better graphics. We wanted to do a much better game... our whole goal was to break every walkthrough that's on the Internet."[^ref-37]
+The Reloaded version featured completely redrawn HD graphics, full voice acting (with Jan Rabson, Larry's voice since LSL6, returning)[^ref-31], an expanded script with new jokes, a dialogue tree system similar to Monkey Island, new puzzles, and even a new female character to pursue.[^ref-36] As Al Lowe explained the philosophy: "We didn't just want to port the game over with higher-res and better graphics. We wanted to do a much better game... our whole goal was to break every walkthrough that's on the Internet."[^ref-37]
 
 ### Related Publications
 
@@ -377,3 +376,5 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 [^ref-37]: [NY Post – Al Lowe Interview (Archived)](https://web.archive.org/web/20121108084927/http://www.nypost.com/p/blogs/gamereport/leisure_suit_larry_creator_making_Z6I5YvLcAW15aqgSFTSx9N) – remake development philosophy
 
 [^ref-38]: [Al Lowe's Website – Theme Creation](https://web.archive.org/web/20130114052540/http://www.allowe.com/Larry/themecreation.htm) – music composition details
+
+[^ref-39]: [DOS Days – Leisure Suit Larry 1 (VGA)](https://www.dosdays.co.uk/topics/Games/game_lsl_vga.php) – known versions: 2.0 (26 June 1991), 2.1 (4 July 1991)
