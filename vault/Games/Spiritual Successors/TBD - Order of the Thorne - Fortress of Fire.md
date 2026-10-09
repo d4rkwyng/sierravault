@@ -5,7 +5,7 @@ developer: Infamous Quests
 designer: [Steven Alexander, Shawn Mills, James Broom]
 publisher: Infamous Quests
 genre: Adventure
-platforms: [Windows, Mac, Linux]
+platforms: [Windows, Mac, Linux, Android]
 series: Order of the Thorne
 engine: Adventure Game Studio
 protagonist: Patrick (Addy)
@@ -21,18 +21,18 @@ tags: [adventure, order-of-the-thorne, sierra]
 
 ## Overview
 
-**Order of the Thorne: Fortress of Fire** is an unreleased point-and-click adventure game developed by [[Infamous Quests]], intended as the second and likely final installment in the *Order of the Thorne* fantasy anthology series[^ref-1]. First announced in 2015 following a successful Kickstarter campaign that raised $30,944, the game was designed as a direct sequel to *The King's Challenge* (2016) and promised to deliver a thrilling conclusion to the adventures in the magical land of Uir[^ref-2][^ref-3].
+**Order of the Thorne: Fortress of Fire** is an unreleased point-and-click adventure game developed by [[Infamous Quests]], intended as the second and likely final installment in the *Order of the Thorne* fantasy anthology series[^ref-1]. First announced in 2015 after a successful Kickstarter campaign that raised $30,944 plus additional funds via PayPal[^ref-7], the game was billed as "the thrilling conclusion" to *The King's Challenge* (2016), set in the fantasy realm of Uir[^ref-3][^ref-20].
 
-The game represents a significant departure from its predecessor, shifting focus from Finn the Bard to a new protagonist named Patrick, a young squire serving under the veteran knight Sir Caradoc of the Order of the Thorne[^ref-4]. The title was originally announced for release around 2020 but has remained in development limbo for years, with the developers acknowledging in 2025 that significant work remains to complete the project[^ref-5][^ref-6].
+The game represents a significant departure from its predecessor, shifting focus from Finn the Bard to a new protagonist named Patrick, a young squire serving under the veteran knight Sir Caradoc of the Order of the Thorne[^ref-4]. Its itch.io page once listed it as "Coming in 2020"[^ref-3], but it has remained in development limbo for years, with the developer acknowledging in October 2025 that significant work remains to complete the project[^ref-5].
 
-Infamous Quests, founded in 2012 by Steven Alexander and Shawn Mills, built their reputation on VGA remakes of classic Sierra adventures including *Space Quest II* and *King's Quest III* before transitioning to commercial development[^ref-7]. Their first original commercial title, *Quest for Infamy* (2014), established the studio's commitment to nostalgic adventure gaming, and *Fortress of Fire* was conceived as part of an ambitious expansion of their fantasy gaming universe[^ref-8].[^ref-13][^ref-15][^ref-18][^ref-13][^ref-15][^ref-18]
+Infamous Quests, founded in 2012 by Steven Alexander and Shawn Mills, had previously founded Infamous Adventures, an amateur group that remade Sierra adventure games of the early 1990s[^ref-7], including free remakes of *King's Quest III* and *Space Quest 2*[^ref-13]. Their first original commercial title, *Quest for Infamy* (2014), was followed in March 2015 by the announcement of *Order of the Thorne*, "the first in a planned anthology series of games"[^ref-8].
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Quests]][^ref-7]
 > **Designer:** Steven Alexander, Shawn Mills, James Broom[^ref-7]
 > **Publisher:** Infamous Quests[^ref-1]
 > **Engine:** Adventure Game Studio[^ref-7]
-> **Platforms:** Windows, Mac, Linux[^ref-9]
+> **Platforms:** PC, Mac, Linux, Android (planned)[^ref-1]
 > **Release Year:** Unreleased (development in limbo)
 > **Series:** Order of the Thorne
 > **Protagonist:** Patrick (Addy)[^ref-4]
@@ -40,31 +40,27 @@ Infamous Quests, founded in 2012 by Steven Alexander and Shawn Mills, built thei
 
 ## Story Summary
 
-*Fortress of Fire* continues the fantasy narrative established in *The King's Challenge*, picking up after the events that concluded Finn the Bard's adventure in the land of Uir[^ref-2]. The story follows the protagonist and companions as they journey through the Glass Mountains toward the Valley of Sunlight, where a mysterious fortress has become the focal point of dark events threatening the magical realm[^ref-3].
+*Fortress of Fire* is the second title in the *Order of the Thorne* anthology, set like *The King's Challenge* in the fantasy realm of Uir[^ref-20]. On the developer's official site, the story begins when Aoife, Grand Master of the Order of the Thorne, hears reports of disturbing happenings in the Land of Sunlight: Brother Eoin, a monk sent to investigate the old monastery in the valley, has not been heard from, and a massive fortress is rumoured to have appeared there overnight. She sends Sir Caradoc to investigate[^ref-20]. (The game's itch.io page carries a different, apparently earlier blurb in which Finn the Bard and his friends cross the Glass Mountains on their way to the Valley of Sunlight[^ref-3].)
 
-The primary protagonist is Patrick, nicknamed "Addy," who serves as a young squire to Sir Caradoc, a seasoned veteran knight of the Order of the Thorne[^ref-4]. When Sir Caradoc becomes waylaid during their journey to explore the mysterious "Fortress of Fire," Patrick must rise to the occasion and embark on a quest to rescue his master[^ref-4]. This narrative shift allows the game to explore themes of duty, growth, and heroism from a different perspective than the bardic adventures of the first installment.
+The primary protagonist is Patrick, nicknamed "Addy," who serves as a young squire to Sir Caradoc, a seasoned veteran knight of the Order of the Thorne[^ref-4]. At the caves that mark the entrance to the land, the pair are set upon by an enemy; Caradoc is captured and Patrick, knocked unconscious, wakes to find only his master's sword. He takes it up and sets out to rescue him[^ref-20][^ref-4].
 
-The Land of Sunlight, once a vibrant and magical region, has found its homes blighted and dark under an unknown threat[^ref-2]. Players must uncover the enemy's plans and find a way to save both the valley and the entire magical world of Uir from the encroaching darkness[^ref-3]. The fortress itself serves as the central location and primary obstacle, requiring Patrick to work his way through a dark and desolate land, solving puzzles and riddles while meeting fantastic characters[^ref-4].
+The Land of Sunlight is now "a dark, desolate place with a massive fortress rising into the sky"[^ref-20], and the itch.io description has players "discover the plans of the enemies within" to save the valley and "the mystical world of Uir"[^ref-3]. The fortress itself serves as the central location and primary obstacle, requiring Patrick to work his way through a dark and desolate land, solving puzzles and riddles while meeting fantastic characters[^ref-4].
 
-The story was designed to provide closure to the *Order of the Thorne* anthology while expanding the lore and world-building established in the first game[^ref-1]. However, according to later developer commentary, the original vision for the series included more mature and developed story elements that were scaled back during the production of *The King's Challenge*[^ref-5].[^ref-17][^ref-17]
+Adventure Gamers described it as "the second (and likely) final adventure" in the anthology[^ref-1]. According to later developer commentary, the original vision for the series included more mature and developed story elements that were scaled back during the production of *The King's Challenge*, and the team wanted *Fortress of Fire* "to not be held back by those things"[^ref-5].
 
 ## Gameplay
 
 ### Interface and Controls
 
-*Fortress of Fire* utilizes traditional point-and-click adventure mechanics consistent with the Sierra-inspired design philosophy that defines Infamous Quests' catalog[^ref-3]. The game features a third-person perspective with stylized 2D art presentation, maintaining visual consistency with its predecessor[^ref-1]. The control scheme supports both mouse-based point-and-click interaction and touch controls for potential portable platforms[^ref-1].
+*Fortress of Fire* utilizes traditional point-and-click adventure mechanics consistent with the Sierra-inspired design philosophy that defines Infamous Quests' catalog[^ref-3]. Adventure Gamers lists a third-person perspective, stylized art and "2D or 2.5D" presentation[^ref-1][^ref-18]. The control scheme supports both mouse-based point-and-click interaction and touch controls for potential portable platforms[^ref-1].
 
 ### Structure and Progression
 
-The game follows Patrick's journey from the Glass Mountains to the Valley of Sunlight and ultimately into the Fortress of Fire itself[^ref-3]. The progression system involves:
-
-- **Glass Mountains:** The initial journey phase where Patrick and companions travel toward their destination
-- **Valley of Sunlight:** The blighted region that serves as the primary exploration area
-- **The Fortress of Fire:** The climactic location where Patrick must rescue Sir Caradoc[^ref-4]
+Based on the published story setup, the game follows Patrick from the caves at the entrance to the Land of Sunlight, through the darkened valley and its old monastery, toward the fortress where Sir Caradoc is held[^ref-20][^ref-4]. No detailed level or chapter structure has been published.
 
 ### Puzzles and Mechanics
 
-Like its predecessor, *Fortress of Fire* emphasizes puzzle-solving as its core gameplay mechanic[^ref-3]. Players must solve puzzles and riddles while navigating the game world[^ref-4]. The game was designed to feature musical puzzle-solving elements, with the protagonist's lute serving as a problem-solving tool—a mechanic carried over from Finn's adventures in *The King's Challenge*[^ref-3]. However, with Patrick as the protagonist rather than Finn the Bard, the implementation of musical mechanics may differ from the first installment.
+Players must solve puzzles and riddles while navigating the game world[^ref-4]. The itch.io page's Finn-era blurb promises magical songs played on "Finn's lute to solve problems and deal with enemies"[^ref-3]; the official site's Patrick-centred description does not mention musical puzzles[^ref-20].
 
 ## Reception
 
@@ -76,28 +72,28 @@ As *Fortress of Fire* remains unreleased, no contemporary reviews exist for this
 
 ### Modern Assessment
 
-The user reception for *The King's Challenge* was notably more positive than critical reception, with Steam showing "Very Positive" reviews (85% positive from 100 user reviews)[^ref-11] and a Metacritic User Score of 8.0 based on 7 ratings[^ref-10].
+The user reception for *The King's Challenge* was notably more positive than critical reception, with Steam showing "Very Positive" reviews (85% positive from 102 user reviews)[^ref-11] and a Metacritic User Score of 8.0 based on 7 ratings[^ref-10].
 
-The developer has acknowledged in retrospective commentary that the reception to *The King's Challenge* "wasn't what we hoped it would be at the time"[^ref-5]. This lukewarm commercial performance has been cited as a contributing factor to the prolonged development of *Fortress of Fire*[^ref-5].
+The developer has acknowledged in retrospective commentary that the reception to *The King's Challenge* "wasn't what we hoped it would be at the time"[^ref-5]. He also wrote that the game's "financial turnout" was "way under expectations", after which "most folks moved on to other jobs"[^ref-5].
 
 **Aggregate Scores (The King's Challenge):**
 - **Metacritic:** 71/100 (6 critic reviews)[^ref-10]
 - **Metacritic User Score:** 8.0/10 (7 ratings)[^ref-10]
-- **Steam:** 85% Positive (100 reviews)[^ref-11]
+- **Steam:** 85% Positive (102 reviews)[^ref-11]
 
 ## Development
 
 ### Origins
 
-*Fortress of Fire* emerged from Infamous Quests' ambitious 2015 Kickstarter campaign, which sought funding for both a new *Order of the Thorne* adventure and a prequel to *Quest for Infamy* titled *Roehm to Ruin*[^ref-7][^ref-8]. The campaign successfully concluded on May 3, 2015, raising $30,944 plus additional funds via PayPal, which allowed the team to announce *Fortress of Fire* as a stretch goal achievement—the third game to emerge from the campaign[^ref-2].
+*Fortress of Fire* emerged from Infamous Quests' ambitious 2015 Kickstarter campaign, which sought funding for both a new *Order of the Thorne* adventure and a prequel to *Quest for Infamy* titled *Roehm to Ruin*[^ref-7][^ref-8]. The campaign successfully concluded on May 3, 2015, raising $30,944 plus additional funds via PayPal, which allowed the team to announce *Fortress of Fire* as a third game alongside the two promised in the original pitch[^ref-7]; Cliqist summarised the campaign as "two new games (three with stretch goals)"[^ref-13].
 
-The series was conceived as an anthology of standalone adventures set in the fairy realm of Uir, with each installment featuring different protagonists and stories while sharing the same magical world[^ref-1][^ref-12]. This approach allowed the developers to explore various characters and narrative tones within a unified setting, similar to classic anthology adventure series.
+The developer described *Order of the Thorne* as "our planned anthology featuring adventure games set in the fantasy realm of Uir"[^ref-20][^ref-12]; *The King's Challenge* starred Finn the Bard, while *Fortress of Fire* switches to Patrick the squire[^ref-20].
 
 ### Production
 
-Development of *Fortress of Fire* has been characterized by significant delays and shifting priorities. Following the release of *The King's Challenge* in January 2016, work on the sequel proceeded slowly as the Infamous Quests team members took on other employment[^ref-6]. In a 2020 update, the developer acknowledged the slow progress, stating that team members "now work other jobs" but were "assembling assets and building the game in the engine"[^ref-3].
+Development of *Fortress of Fire* has been characterized by significant delays and shifting priorities. Following the release of *The King's Challenge* in January 2016, work on the sequel proceeded slowly. A September 2019 Kickstarter update said, "We have most backgrounds done, and about 60% of the animations. Music is all done. It will probably be a year before that is completed at this pace," adding that the team all had "different full time jobs now"[^ref-21]; the official site's front page that year likewise said "FoF is at least a year away"[^ref-22]. In a March 2021 reply on itch.io, the developer wrote that "it's slow going, as we are all working other jobs now but we're assembling assets and building the game in the engine"[^ref-3].
 
-By October 2025, the game remained in what the developers described as "a real state of limbo"[^ref-5]. According to developer Steven Alexander's Patreon update from October 2025, the team has "a lot of resources done for Fortress of Fire but a lot more need to be done - mostly animations"[^ref-5]. Alexander added: "I don't know when or if we will finish that game. There is a lot that has been done on it, but we just don't have the team or the budget to really complete it."[^ref-5] The backgrounds are reportedly in the engine, and work has begun on developing the story path and puzzles[^ref-2].
+By October 2025, the game remained in what the developers described as "a real state of limbo"[^ref-5]. According to developer Steven Alexander's Patreon update from October 2025, the team has "a lot of resources done for Fortress of Fire but a lot more need to be done - mostly animations"[^ref-5]. Alexander added: "I don't know when or if we will finish that game. There is a lot that has been done on it, but we just don't have the team or the budget to really complete it."[^ref-5]
 
 In an April 4, 2026 Patreon post, Alexander said studio voice-recording time was booked for May 2026 to finish *Quest for Infamy: Roehm to Ruin*, and that while he was hospitalized for spinal surgery "there have been lots of other people that have been scurrying behind the scenes to make some amazing things." The post did not mention *Fortress of Fire*.[^ref-19]
 
@@ -108,55 +104,53 @@ In an April 4, 2026 Patreon post, Alexander said studio voice-recording time was
 
 ### Technical Achievements
 
-The game utilizes Adventure Game Studio (AGS), the same engine that powered *Quest for Infamy* and *The King's Challenge*[^ref-7]. This engine choice reflects the studio's commitment to creating authentic retro-style adventures with hand-painted backgrounds in 320x200 resolution, consistent with the Golden Age aesthetic that defined Sierra's classic adventure games[^ref-12].
+The game utilizes Adventure Game Studio (AGS), the same engine that powered *Quest for Infamy* and *The King's Challenge*[^ref-7]. The official site lists "hand drawn backgrounds and animations" and "an original soundtrack with fully voiced characters" among its planned features, and planned distribution "through Steam and other online platforms"[^ref-20]. No target resolution has been published.
 
 ### Technical Specifications
 
-**Planned Specifications:**[^ref-1][^ref-3]
-- **Resolution:** 320x200 (scaled for modern displays)
-- **Art Style:** Stylized 2D hand-painted backgrounds
+**Planned Specifications:**[^ref-1][^ref-20]
+- **Art Style:** Hand-drawn backgrounds and animations; stylized, 2D or 2.5D
 - **Engine:** Adventure Game Studio
-- **Distribution:** Internet Download
+- **Distribution:** Internet download
 
 ### Cut Content
 
 In an October 2025 Patreon post, developer Steven Alexander discussed how the original vision for the *Order of the Thorne* series was significantly altered during production of *The King's Challenge*[^ref-5]. According to Alexander, the team "had story ideas and elements for Order of the Thorne that were more developed and what one might say were more mature"[^ref-5]. 
 
-The developers were given "bad counsel" to create a "family friendly" game similar to *King's Quest*, leading to what Alexander described as a "bowdlerized version" of the original design[^ref-5]. Specifically, "the rougher more mature edges were trimmed off, and things like character death were removed from the game"[^ref-5]. The developers have discussed the possibility of creating a "Director's Cut" of *The King's Challenge* that would restore more of the original intent[^ref-5].
+The developers were given "(bad) counsel to make a 'family friendly' game, like King's Quest", leading to what Alexander described as "a bowlderized [sic] version of what we initially designed"[^ref-5]. Specifically, "the rougher more mature edges were trimmed off, and things like character death were removed from the game"[^ref-5]. He has talked about "what it would be like if we went back and remade The King's Challenge with more of the original intent, but you can't change the past"[^ref-5].
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| N/A | Announced 2015 | Windows/Mac/Linux | Kickstarter stretch goal achieved[^ref-2] |
-| In Development | 2020+ | Windows/Mac/Linux | Assets being assembled[^ref-3] |
-| Development Limbo | October 2025 | Windows/Mac/Linux | Backgrounds complete, animations needed[^ref-5] |
+| N/A | Announced 2015 | TBD | Third game announced after Kickstarter success[^ref-7] |
+| In Development | September 2019 | TBD | Most backgrounds, ~60% of animations and all music done[^ref-21] |
+| In Development | March 2021 | TBD | Assets being assembled in the engine[^ref-3] |
+| Development Limbo | October 2025 | TBD | Many resources done; more needed, mostly animations[^ref-5] |
 
 ### Technical Issues
 
-As the game remains unreleased, no technical issues have been documented. The prolonged development has been attributed to resource constraints rather than technical challenges, with team members working other jobs while developing the game in their spare time[^ref-3][^ref-5].
+As the game remains unreleased, no technical issues have been documented. The prolonged development has been attributed to resource constraints rather than technical challenges, with team members working other jobs while developing the game in their spare time[^ref-3][^ref-21][^ref-5].
 
 ### Easter Eggs and Trivia
 
 While specific easter eggs for *Fortress of Fire* cannot be documented due to the game's unreleased status, the *Order of the Thorne* series was designed to exist within Infamous Quests' shared universe, potentially containing references to *Quest for Infamy* and the studio's earlier Sierra remakes[^ref-7][^ref-8].
 
-The developers have discussed potentially combining *The King's Challenge* and *Fortress of Fire* into a single unified game called simply "Order of the Thorne" upon the sequel's completion[^ref-2].
-
 ## Legacy
 
 ### Sales and Commercial Impact
 
-The commercial performance of *The King's Challenge* significantly impacted the development trajectory of *Fortress of Fire*. In July 2016, Infamous Quests announced they would be stepping back from adventure game development after completing their remaining committed projects (*Roehm to Ruin* and *Fortress of Fire*), citing insufficient revenue from Kickstarter campaigns and game sales to cover development costs[^ref-6].
+The commercial performance of *The King's Challenge* significantly impacted the development trajectory of *Fortress of Fire*. In July 2016, Infamous Quests announced they would be stepping back from adventure game development after completing their remaining committed projects (*Roehm to Ruin* and *Fortress of Fire*), citing insufficient revenue from Kickstarter campaigns and game sales to cover development costs[^ref-6][^ref-14].
 
-Despite successful crowdfunding campaigns, including the 2012 campaign that raised $63,281 for *Quest for Infamy*[^ref-7], the financial returns proved unsustainable for full-time development[^ref-6]. The developer noted that "the people that play adventure games now and in particular point and click adventure games are not families" and that targeting a family-friendly audience may have been a strategic misstep[^ref-5].
+Despite successful crowdfunding campaigns, including the 2012 campaign that raised $63,281 for *Quest for Infamy*[^ref-7][^ref-17], the financial returns proved unsustainable for full-time development[^ref-6]. The developer noted that "the people that play adventure games now and in particular point and click adventure games are not families" and that targeting a family-friendly audience may have been a strategic misstep[^ref-5].
 
 ### Collections
 
-The developers have discussed plans to eventually release a combined version containing both *The King's Challenge* and *Fortress of Fire* as a single complete anthology[^ref-2].
+No collection or combined release has been announced.
 
 ### Fan Projects
 
-Community members have expressed ongoing interest in the game's completion, with comments on the itch.io page spanning from 2021 to 2026 inquiring about development progress[^ref-3]. Early access to development versions has been made available to Patreon supporters[^ref-3].
+Community members have expressed ongoing interest in the game's completion, with comments on the itch.io page spanning from 2020 to 2025 inquiring about development progress[^ref-3], and the King's Quest Omnipedia still lists it as a follow-up "apparently still in development"[^ref-15]. The itch.io page invites players to "Support us on Patreon and get early access!"[^ref-3]
 
 ### Related Publications
 
@@ -168,18 +162,16 @@ No official hint books or strategy guides have been announced for *Fortress of F
 
 The game's prolonged development limbo illustrates the challenges facing nostalgic indie projects: critical acclaim and crowdfunding success do not always translate to sustainable commercial viability[^ref-6]. The developers' candid reflections on creative compromises—particularly the decision to pursue a "family friendly" approach that may have alienated their core audience of adult adventure gaming enthusiasts—offers valuable insight into the tensions between market assumptions and actual player demographics[^ref-5].
 
-The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra adventure formula continues to inspire developers and attract dedicated audiences, even if the commercial realities of modern game development make such projects increasingly difficult to sustain[^ref-12][^ref-14][^ref-16].
+The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra adventure formula continues to inspire developers and attract dedicated audiences, even if the commercial realities of modern game development make such projects increasingly difficult to sustain[^ref-9][^ref-14][^ref-16].
 
 ## Downloads
 
 **Development Updates / Patreon**
 - [Infamous Quests Patreon](https://www.patreon.com/infamousquests) — primary backer-update channel for development status[^ref-5]
-- [itch.io – Fortress of Fire](https://infamousquests.itch.io/ootf-fortress-of-fire) — official itch.io project page; early-access builds released to Patreon supporters[^ref-3]
+- [itch.io – Fortress of Fire](https://infamousquests.itch.io/ootf-fortress-of-fire) — official itch.io project page; offers early access to Patreon supporters[^ref-3]
 
 **Purchase / Digital Stores**
 - Not yet released; commercial release remains TBD as of the October 2025 update[^ref-5]
-- [Steam page – pending](https://store.steampowered.com/) — no Steam listing yet
-- [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
 
 ## See Also
 
@@ -206,8 +198,7 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 
 ## References
 
-[^ref-1]: Adventure Gamers – Order of the Thorne: Fortress of Fire *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – game description, genre, platform, series info
-[^ref-2]: Web Search Aggregate – Kickstarter funding details, development plans, story overview
+[^ref-1]: [Adventure Gamers – Order of the Thorne: Fortress of Fire (archived 2023-07-31)](https://web.archive.org/web/20230731044045/https://adventuregamers.com/games/view/30858) – "second (and likely) final adventure", platforms, perspective, control, media
 [^ref-3]: [itch.io – Fortress of Fire](https://infamousquests.itch.io/ootf-fortress-of-fire) – game description, gameplay features, development status updates
 [^ref-4]: [King's Quest Omnipedia – Fortress of Fire](https://kingsquest.fandom.com/wiki/The_Order_of_the_Thorne:_The_Fortress_of_Fire) – protagonist Patrick, Sir Caradoc, plot summary
 [^ref-5]: [Infamous Quests Patreon – October 2025 Update](https://www.patreon.com/posts/updates-on-rtr-141274312) – development limbo, design compromises, cut content
@@ -217,11 +208,14 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 [^ref-9]: [itch.io – Sierra Style Adventures Collection](https://itch.io/c/1738056/sierra-style-adventures) – genre categorization
 [^ref-10]: [Metacritic – The King's Challenge](https://www.metacritic.com/game/the-order-of-the-thorne-the-kings-challenge/) – review scores, critic aggregates, user ratings
 [^ref-11]: [Steam – The King's Challenge](https://store.steampowered.com/app/425600/The_Order_of_the_Thorne__The_Kings_Challenge/) – release date, user reviews, publisher info
-[^ref-12]: [Adventure Gamers – The King's Challenge Review](https://web.archive.org/web/20250610144744/https://adventuregamers.com/games/order-of-the-thorne-the-kings-challenge) – anthology series description, Golden Age comparison
+[^ref-12]: [Adventure Gamers – The King's Challenge Game Details](https://web.archive.org/web/20250610144744/https://adventuregamers.com/games/order-of-the-thorne-the-kings-challenge) – anthology series description
 [^ref-13]: [Cliqist – The King's Challenge Review](http://cliqist.com/2016/02/02/order-of-the-thorne-the-kings-challenge-plays-a-wonderful-melody/) – series background, Kickstarter history, gameplay praise
 [^ref-14]: [RPG Codex – Order of the Thorne Discussion](https://mail.rpgcodex.net/forums/goto/post?id=4646798) – developer interaction, fan reception
 [^ref-15]: [King's Quest Omnipedia – King's Quest Style Games](https://kingsquest.fandom.com/wiki/King%27s_Quest_Style_Games) – series categorization among Sierra-inspired games
 [^ref-16]: [Steam Community – The King's Challenge Hub](https://steamcommunity.com/app/425600) – community discussion, bug reports
-[^ref-17]: [Kickstarter – Quest for Infamy Campaign](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que/posts) – company history, campaign success
-[^ref-18]: Adventure Gamers – 2D/2.5D Games Archive *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – presentation style categorization
+[^ref-17]: [Kickstarter – Quest for Infamy Campaign](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que/posts) – 1,656 backers pledged $63,281
+[^ref-18]: [Adventure Gamers – Fortress of Fire game details (archived 2023-07-31)](https://web.archive.org/web/20230731044045/https://adventuregamers.com/games/view/30858) – Presentation: "2D or 2.5D"; Graphic Style: "Stylized art"
 [^ref-19]: [Infamous Quests Patreon — "Hospital stays etc." (April 4, 2026)](https://www.patreon.com/posts/hospital-stays-154760603) — Steven Alexander confirms studio-time booked for *Roehm to Ruin* voice recording in May 2026; notes behind-the-scenes work by others during his hospitalization; does not mention *Fortress of Fire*
+[^ref-20]: [Infamous Quests – Order of the Thorne: Fortress of Fire (official site, archived 2019-12-12)](https://web.archive.org/web/20191212014129/http://www.infamous-quests.com/home/games/fortress-of-fire/) – Patrick and Sir Caradoc, Land of Sunlight story, features, AGS, Steam plans, anthology FAQ
+[^ref-21]: [Infamous Quests – Kickstarter update mirrored on BackerKit (Sep 28, 2019)](https://infamousquestsgames.backerkit.com/hosted_preorders/project_updates) – "most backgrounds done, and about 60% of the animations. Music is all done"; team on full-time jobs
+[^ref-22]: [Infamous Quests – official home page (archived 2019-12-23)](https://web.archive.org/web/20191223002133/http://www.infamous-quests.com/home/) – "FoF is at least a year away"

@@ -3,7 +3,7 @@ title: Half-Life 2
 release_year: 2004
 developer: Valve Corporation
 designer: [Gabe Newell, Marc Laidlaw, David Speyrer]
-publisher: Valve Corporation
+publisher: Valve Corporation (Steam); Sierra Entertainment (PC retail); Electronic Arts (Xbox)
 genre: FPS
 platforms: [Windows, Xbox, Xbox 360, PlayStation 3, Mac OS X, Linux, Nvidia Shield]
 series: Half-Life
@@ -24,20 +24,20 @@ tags: [2000s, half-life, shooter, sierra]
 
 Half-Life 2 is a first-person shooter developed and published by Valve Corporation, released on November 16, 2004 for Windows PC[^ref-1]. Representing one of the most anticipated sequels in gaming history, the game continued the story of theoretical physicist Gordon Freeman, who awakens from stasis to find Earth under the control of an interdimensional empire known as the Combine[^ref-8]. The game was built on Valve's proprietary Source engine, which debuted alongside it and featured advanced physics simulation through the integrated Havok physics engine[^ref-3].
 
-Development of Half-Life 2 took five years and cost an estimated $40 million, with the team spending nearly every cent earned from the original Half-Life on its sequel[^ref-4]. The project faced numerous challenges including a devastating source code leak in October 2003, legal battles with publisher Vivendi Universal Games, and a missed release date that caused significant embarrassment for Valve[^ref-5]. Despite these setbacks, the game launched to universal critical acclaim and commercial success, selling 12 million copies by 2011[^ref-3].
+Development of Half-Life 2 took five years and cost an estimated $40 million[^ref-3]. The project faced numerous challenges including a devastating source code leak in October 2003, legal battles with publisher Vivendi Universal Games, and a missed release date that caused significant embarrassment for Valve[^ref-3]. Despite these setbacks, the game launched to universal critical acclaim and commercial success, selling 12 million copies by 2011[^ref-3].
 
-Half-Life 2's release marked a pivotal moment in PC gaming history as it was the first major title to require Valve's Steam digital distribution platform, fundamentally transforming how games would be sold and delivered in the years to come[^ref-6]. The game's innovative approach to physics-based gameplay, environmental storytelling, and facial animation technology set new standards for the first-person shooter genre and influenced countless games that followed[^ref-7].
+Half-Life 2's release marked a pivotal moment in PC gaming history as it was the first major title to require Valve's Steam digital distribution platform, fundamentally transforming how games would be sold and delivered in the years to come[^ref-6]. At retail, the PC version was distributed by Vivendi Universal Games through its Sierra Entertainment subsidiary[^ref-3]—GameSpot described Sierra at launch as "the Vivendi Universal subsidiary that is publishing the Half-Life 2 game"[^ref-29]—until a 2005 settlement under which Vivendi stopped distributing retail packaged Valve games by August 31, 2005[^ref-3]. The game's innovative approach to physics-based gameplay, environmental storytelling, and facial animation technology set new standards for the first-person shooter genre and influenced countless games that followed[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** Valve Corporation[^ref-1]
 > **Designer:** Gabe Newell, Marc Laidlaw, David Speyrer[^ref-8]
-> **Publisher:** Valve Corporation (Steam), Vivendi Universal Games (Retail)[^ref-1]
+> **Publisher:** Valve Corporation (Steam)[^ref-1]; Sierra Entertainment / Vivendi Universal Games (PC retail, 2004–2005)[^ref-3][^ref-29]; Electronic Arts (Xbox)[^ref-30]
 > **Engine:** Source (with Havok physics)[^ref-3]
 > **Platforms:** Windows, Xbox, Xbox 360, PlayStation 3, Mac OS X, Linux, Nvidia Shield[^ref-3]
 > **Release Year:** 2004
 > **Series:** Half-Life
 > **Protagonist:** Gordon Freeman
-> **Sierra Lineage:** Sierra Published (Original Half-Life)
+> **Sierra Lineage:** Sierra Published (PC retail)[^ref-3]
 
 ## Story Summary
 
@@ -70,7 +70,7 @@ Half-Life 2's campaign spans approximately 12-20 hours depending on playstyle an
 - **Highway 17:** Coastal vehicle combat along treacherous roads
 - **Sandtraps:** Beach combat featuring Antlions and the pheropod mechanic
 - **Nova Prospekt:** Prison infiltration and Combine facility assault
-- **Entanglement:** Teleportation mishap and journey through time
+- **Entanglement:** Escape from Nova Prospekt by teleporter, arriving back at Kleiner's Lab a week later[^ref-3]
 - **Anticitizen One:** Urban warfare in City 17
 - **"Follow Freeman!":** Leading the rebellion through city streets
 - **Our Benefactors:** Assault on the Citadel
@@ -88,11 +88,11 @@ Valve's approach to player training uses what they termed "show, don't tell," in
 
 Half-Life 2 received universal critical acclaim upon release, with many publications declaring it one of the greatest games ever made. IGN awarded the game 9.7 out of 10, calling it "simply put, the best single-player shooter ever released for the PC" and "a masterpiece—a work of art in the genre"[^ref-14]. The reviewer noted that "Half-Life 2 doesn't do anything particularly new; it doesn't really innovate in many ways. But what it does is set a new height for all other designers of first-person shooters to reach."[^ref-14]
 
-Edge Magazine described the game as a "magnificent, breathtaking paragon"[^ref-17]. Eurogamer praised it as "subtle and sublime"[^ref-17]. The New York Times declared "This is the game you have to buy. Do not finish reading this review, just run out and get it right now. This dystopia is beautifully realized... With expressive eyes and emotive faces, these people look far more real than those in any other game."[^ref-1]
+The New York Times declared "This is the game you have to buy. Do not finish reading this review, just run out and get it right now. This dystopia is beautifully realized... With expressive eyes and emotive faces, these people look far more real than those in any other game."[^ref-1]
 
 PC Gamer noted that the game "forged the framework for the next generation of games" and praised the graphics: "The first time you see ribbed glass blurring the ominous shape of a soldier on the other side, or any time that you happen to be moving through water, you will see next-generation visuals implemented in a casual, capable manner."[^ref-1] Maximum PC awarded an unprecedented 11 on their rating scale which peaked at 10, declaring it the "best game ever made"[^ref-10].
 
-Not all reviews were uniformly positive. One critic noted that "I think this is probably the worst teammate AI I've seen in an FPS since 'Daikatana'"[^ref-17], though such criticisms were rare among the otherwise glowing coverage.
+Not all reviews were uniformly positive. Netjak's reviewer wrote, "I think this is probably the worst teammate AI I've seen in an FPS since 'Daikatana'"[^ref-17], though such criticisms were rare among the otherwise glowing coverage.
 
 ### Modern Assessment
 
@@ -101,17 +101,16 @@ Half-Life 2's reputation has only grown over the two decades since its release. 
 **Aggregate Scores:**
 - **Metacritic:** 96/100 (based on 81 reviews)[^ref-17]
 - **IMDb:** 9.4/10[^ref-8]
-- **Amazon Customer Reviews:** 4.7/5[^ref-19]
 
-The game won over 39 Game of the Year awards from various publications[^ref-3] and continues to be cited as one of the most influential first-person shooters ever created. Modern retrospectives acknowledge both its achievements and its age, with Eurogamer noting "the 'classic' moniker almost instantly embalms them, gradually fossilising to a few forever-parroted talking points while the living entity is obscured."[^ref-7][^ref-41][^ref-41]
+The game won over 39 Game of the Year awards from various publications[^ref-3] and continues to be cited as one of the most influential first-person shooters ever created. Modern retrospectives acknowledge both its achievements and its age, with Eurogamer noting "the 'classic' moniker almost instantly embalms them, gradually fossilising to a few forever-parroted talking points while the living entity is obscured."[^ref-7]
 
 ## Development
 
 ### Origins
 
-Development of Half-Life 2 began in June 1999, immediately following the success of the original Half-Life[^ref-4]. Gabe Newell articulated the team's ambitious vision: "Why spend four years of your life building something that isn't innovative and is basically pointless? If Half-Life 2 isn't viewed as the best PC game of all time, it's going to completely bum out most of the guys on this team."[^ref-3]
+Development of Half-Life 2 began in June 1999, six months after the release of the original Half-Life[^ref-3]. Gabe Newell articulated the team's ambitious vision: "Why spend four years of your life building something that isn't innovative and is basically pointless? If Half-Life 2 isn't viewed as the best PC game of all time, it's going to completely bum out most of the guys on this team."[^ref-3]
 
-Valve's approach to game development challenged industry conventions. As Newell explained: "On the surface, we should have failed. Realistically, both Mike and I thought we would get about a year into it, realize we'd made horrible mistakes, and go back to our friends at Microsoft and ask for our jobs back."[^ref-20] The company hired extensively from online DOOM and Quake modding scenes, with many employees having no prior professional game industry experience[^ref-20].
+Valve's approach to game development had challenged industry conventions from the start. Recalling the company's 1996 founding, Newell said: "On the surface, we should have failed. Realistically, both Mike and I thought we would get about a year into it, realize we'd made horrible mistakes, and go back to our friends at Microsoft and ask for our jobs back."[^ref-20] To make the original Half-Life, the founders hired a few dozen designers, programmers and artists, many with no prior professional games-industry experience, drawing on the online DOOM and Quake modding communities[^ref-20].
 
 The creative team wanted to expand beyond the original's achievements. "It sounds really goofy, but what we wanted to do was broaden the emotional palette in games," Newell stated[^ref-4]. Art director Viktor Antonov suggested the Eastern European setting that would become City 17, giving the game its distinctive visual identity[^ref-3].
 
@@ -119,22 +118,22 @@ The creative team wanted to expand beyond the original's achievements. "It sound
 
 Half-Life 2's five-year development was marked by significant challenges. The team of approximately 82 developers, or around 100 including voice actors, worked at a cost of approximately $1 million per month[^ref-3][^ref-4]. Valve employed a "cabal" design process, breaking the team into groups working on separate areas of the game[^ref-21].
 
-The development used Valve's "Club Zero" bug tracking system and maintained a tradition of breaking scanner piñatas to celebrate milestones[^ref-4]. By March 2002, the team had completed a proof of concept, though it ultimately failed to meet their standards[^ref-4]. Gabe Newell announced at E3 2003: "We're going to launch the product at E3 and we're going to ship it on September 30, 2003."[^ref-4] This date would prove impossible to meet.
+The development used Valve's "Club Zero" bug tracking system and maintained a tradition of breaking scanner piñatas to celebrate milestones[^ref-4]. By March 2002, the team had completed a proof of concept, though it ultimately failed to meet their standards[^ref-4]. In March 2003, ahead of E3, Gabe Newell announced: "We're going to launch the product at E3 and we're going to ship it on September 30, 2003."[^ref-4] This date would prove impossible to meet.
 
-The game's development philosophy emphasized Newell's principle that "Late is just for a little while. Suck is forever."[^ref-20] Initial prototypes explored unusual mechanics including a "glue gun," "toilet crossing" puzzles, and "skeet shooting" segments[^ref-15]. Senior Software Engineer Jay Stelly noted the challenge of "turning your designers into 'gameplay engineers', so they use engineering methods to create, test and improve their gameplay constructs."[^ref-15]
+Valve had already lived by Newell's maxim from the original Half-Life's own delay: "Late is just for a little while. Suck is forever."[^ref-20] Initial prototypes explored unusual mechanics including a "glue gun," "toilet crossing" puzzles, and "skeet shooting" segments[^ref-15]. In a GDC talk, Senior Software Engineer Jay Stelly recommended turning designers into "gameplay engineers" who use engineering methods to create, test and improve their gameplay constructs[^ref-15].
 
-**Development Credits:**[^ref-4][^ref-8]
-- **Project Lead:** Gabe Newell
-- **Lead Designer:** David Speyrer
-- **Writer:** Marc Laidlaw
-- **Senior Software Engineers:** John Guthrie, Dario Casali, Tom Leonard, Steve Bond, Jay Stelly
-- **Art Director:** Viktor Antonov
+**Development Credits:**
+- **Director:** David Speyrer[^ref-8]
+- **Writer:** Marc Laidlaw[^ref-8]
+- **Level Designers (one cabal):** John Guthrie, Steve Bond, Dario Casali, Tom Leonard[^ref-4]
+- **Senior Software Engineer:** Jay Stelly[^ref-15]
+- **Art Director:** Viktor Antonov[^ref-4]
 - **Composer:** Kelly Bailey
 - **Voice Production:** Pure Audio
 
 ### Technical Achievements
 
-Half-Life 2 debuted Valve's Source engine, which was developed simultaneously with the game[^ref-3]. The engine integrated the Havok physics system, enabling unusual environmental interaction. "Integrating physics into a game is hard both from a technology and game design standpoint," Jay Stelly explained, noting that "very few games had done physics gameplay before Half-Life 2."[^ref-15]
+Half-Life 2 debuted Valve's Source engine, which was developed simultaneously with the game[^ref-3]. The engine integrated the Havok physics system, enabling unusual environmental interaction. Reporting on Jay Stelly's GDC talk, Game Developer wrote that Valve "learned that integrating physics into a game is hard both from a technology and game design standpoint", and that physics gameplay was something "very few games had done" before[^ref-15].
 
 The facial animation system represented a breakthrough in character expression. Eurogamer later assessed that even years after release, these animations remained "still best-in-class, outstripping even LA Noire for simple believability"[^ref-7]. The Source engine supported advanced features including realistic water rendering, high dynamic range lighting, and detailed shader effects[^ref-22].
 
@@ -166,9 +165,9 @@ Writer Marc Laidlaw and the narrative team pioneered environmental storytelling 
 
 The most devastating setback occurred on October 2, 2003, when German hacker Axel Gembe successfully infiltrated Valve's network and downloaded the game's source code[^ref-25]. The leak was publicly confirmed when Gabe Newell acknowledged: "Yes, the source code that has been posted is the HL-2 source code."[^ref-25]
 
-The leaked code reportedly represented "about a third of the total game" and included anti-piracy and network security systems[^ref-26]. The damage was estimated at $250 million[^ref-25]. Gembe later wrote to Newell: "I am so very sorry for what I did to you. You are my favourite developer, and I will always buy your games."[^ref-25]
+The leaked code reportedly represented "about a third of the total game" and included anti-piracy and network security systems[^ref-26]. When Gembe was arrested, he was told he was charged with causing "damages in excess of $250 million"[^ref-25]. Gembe later wrote to Newell: "I am so very sorry for what I did to you. You are my favourite developer, and I will always buy your games."[^ref-25]
 
-Newell described the aftermath: "We were paralyzed. We knew we weren't going to make the date we promised, and that was going to be a huge fiasco and really embarrassing. But we didn't have a new date to give people either."[^ref-3] Valve worked with the FBI to set up a sting operation; Gembe was eventually convicted in Germany and sentenced to two years probation[^ref-27].
+Newell described the aftermath: "We were paralyzed. We knew we weren't going to make the date we promised, and that was going to be a huge fiasco and really embarrassing. But we didn't have a new date to give people either."[^ref-3] Valve worked with the FBI to set up a sting operation; Gembe was eventually convicted in Germany and sentenced to two years probation[^ref-27][^ref-43].
 
 ### Legal Battles
 
@@ -258,21 +257,21 @@ Voice production by Pure Audio[^ref-36]. One critic noted that "if there's one t
 
 ### Sales and Commercial Impact
 
-Half-Life 2 achieved significant commercial success. The game sold 1.7 million retail copies in less than two months after launch, with particularly strong sales in Germany, UK, France, Italy, Spain, and Scandinavia[^ref-38]. By 2008, retail sales reached 6.5 million units[^ref-39]. Forbes reported in 2011 that "Steam's sci-fi shoot-'em-up thriller Half-Life 2 has sold 12 million copies since 2004"[^ref-40]. Including Steam sales, total ownership exceeded 10 million PC players by 2017, with estimates of approximately 15 million total including digital distribution[^ref-10][^ref-17].
+Half-Life 2 achieved significant commercial success. The game sold 1.7 million retail copies in less than two months after launch, with particularly strong sales in Germany, UK, France, Italy, Spain, and Scandinavia[^ref-38]. By 2008, retail sales reached 6.5 million units[^ref-39]. Forbes reported in 2011 that "Steam's sci-fi shoot-'em-up thriller Half-Life 2 has sold 12 million copies since 2004"[^ref-40]. Steam sales have not been disclosed; the Half-Life fan wiki speculates the total "may be around 15 million including retail and Steam"[^ref-10].
 
-The game's requirement of Steam authentication proved transformative for the industry. "By selling games directly over the Web, Valve is experimenting with a model that could substantially transform the video game business, which now rivals Hollywood in annual revenue," observed GameSpot at launch[^ref-29]. Reports indicated that "in the year following the game's release, Steam sales were roughly equivalent to 25% of retail sales, but that proportion is known to have increased since."[^ref-39]
+The game's requirement of Steam authentication proved transformative for the industry. GameSpot observed at launch that "by selling the games directly over the Web, the company is experimenting with a model that could substantially transform the video game business, which now rivals Hollywood in annual revenue"[^ref-29]. Reports indicated that "in the year following the game's release, Steam sales were roughly equivalent to 25% of retail sales, but that proportion is known to have increased since."[^ref-39]
 
 ### Awards
 
-Half-Life 2 won an unprecedented number of awards[^ref-41]:
+Half-Life 2 earned 39 Game of the Year awards[^ref-3]; IMDb's awards listing records 28 wins and 13 nominations[^ref-41].
 
-**BAFTA Games Awards (2005):**
-- Best Action and Adventure Game
-- Best PC Game
-- Best Animation
-- Best Art Direction
-- Best Story
-- Artistic Achievement
+**BAFTA Games Awards (2005):**[^ref-3]
+- Best Game
+- PC
+- Action Game
+- Animation
+- Art Direction
+- Online Multiplayer
 
 **D.I.C.E. Interactive Achievement Awards (2005):**
 - Game of the Year
@@ -307,7 +306,7 @@ Half-Life 2 won an unprecedented number of awards[^ref-41]:
 
 Half-Life 2 was re-released as part of The Orange Box compilation on October 10, 2007, alongside Half-Life 2: Episode One, Half-Life 2: Episode Two, Portal, and Team Fortress 2[^ref-34]. This compilation sold over 3 million copies by November 2008[^ref-34]. IGN declared: "There's never been a package on a console like The Orange Box... If there's one must buy game of the year, it is, without a doubt, The Orange Box."[^ref-42]
 
-The compilation faced criticism for its PlayStation 3 port, which was outsourced to Electronic Arts and suffered from technical issues. Gabe Newell had previously called "the PS3 a total disaster"[^ref-43], though he later stated: "I think the people who have The Orange Box on the PS3 are going to be happy with their game experience."[^ref-34]
+The compilation faced criticism for its PlayStation 3 port, which was outsourced to Electronic Arts and suffered from technical issues. Gabe Newell had once called the PlayStation 3 a "total disaster"[^ref-40], though he later stated: "I think the people who have The Orange Box on the PS3 are going to be happy with their game experience."[^ref-34]
 
 ### 20th Anniversary Update
 
@@ -323,8 +322,8 @@ The Source engine's modding tools spawned an extensive community of fan creation
 
 - **Garry's Mod:** A physics sandbox that became commercially successful
 - **Black Mesa:** A complete fan remake of the original Half-Life in the Source engine, described as "what we had all hoped Half-Life: Source would have been"[^ref-45]
-- **Minerva: Metastasis:** Praised as "the best Half-Life game Valve never made," this mod by Adam Foster told an original story in the Half-Life 2 universe[^ref-46]. Foster was later hired by Valve.
-- **Missing Information:** A mod recreating cut content from the leaked beta, with the team noting it was created "for our own admiration and interest in the old content"[^ref-45]
+- **Minerva: Metastasis:** Called "the best Half-Life game Valve never made" by Polygon, this mod by Adam Foster told an original story in the Half-Life 2 universe[^ref-46]. Foster was later hired by Valve.
+- **Missing Information:** A mod recreating cut content from the leaked beta, with the team noting it was created "for our own admiration and interest in the old content"[^ref-51]
 - **Half-Life 2: VR Mod:** A free VR adaptation that adds "full room-scale VR gameplay to the seminal 2004 shooter"[^ref-47]
 
 ### Related Publications
@@ -341,9 +340,9 @@ Critics praised the music's integration with gameplay, noting that "energetic te
 
 ### Critical Perspective
 
-Half-Life 2's influence on the gaming industry cannot be overstated. The game demonstrated that first-person shooters could tell sophisticated stories through environmental design and player agency rather than cutscenes, establishing principles that inform game design to this day. As one analysis noted: "Around twenty years ago, people would have laughed if you told them that videogames would end up at the Smithsonian, but the Half-Life team really did want to make games that were more than just throwaway toys."[^ref-20]
+Half-Life 2's influence on the gaming industry cannot be overstated. The game demonstrated that first-person shooters could tell sophisticated stories through environmental design and player agency rather than cutscenes, establishing principles that inform game design to this day. Valve artist Steve Theodore, quoted by The Digital Antiquarian, recalled of the original Half-Life team: "Around twenty years ago, people would have laughed if you told them that videogames would end up at the Smithsonian, but the Half-Life team really did want to make games that were more than just throwaway toys."[^ref-20]
 
-The game's physics implementation proved equally influential. Jay Stelly observed that "creating good game designs actually boils down to improving the training of the player more efficiently and allowing him to prove his skills in more creative ways"[^ref-15]. The Gravity Gun became an icon of creative game design, showing how a single mechanic could transform both combat and puzzle-solving.
+The game's physics implementation proved equally influential. Stelly's GDC talk framed good game design as training the player in new mechanics efficiently and then letting them prove their skills in more creative ways[^ref-15]. The Gravity Gun became an icon of creative game design, showing how a single mechanic could transform both combat and puzzle-solving.
 
 Perhaps most significantly, Half-Life 2's role in launching Steam fundamentally changed game distribution. What began as a controversial authentication requirement became the dominant platform for PC gaming. The legal battles with Vivendi established important precedents for developer rights in the digital age, with industry observers noting the dispute "is likely to have profound implications on future developer/publisher relations throughout the industry."[^ref-28]
 
@@ -351,7 +350,7 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+- [Steam](https://store.steampowered.com/app/220/HalfLife_2/) - Official digital distribution
 
 ## Downloads
 
@@ -386,15 +385,15 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 [^ref-7]: [Eurogamer – Half-Life 2: 10 Years On](https://www.eurogamer.net/articles/2014-11-16-half-life-2-10-years-on) – retrospective analysis, facial animation, storytelling
 [^ref-8]: [IMDb – Half-Life 2 Full Credits](https://www.imdb.com/title/tt0374692/) – cast, crew, designer credits, trivia
 [^ref-10]: [Half-Life Wiki – Half-Life 2](https://half-life.fandom.com/wiki/Half-Life_2) – gameplay chapters, version history, cut content
-[^ref-11]: [StrategyWiki – Half-Life 2](https://strategywiki.org/) – interface description, game structure
+[^ref-11]: [StrategyWiki – Half-Life 2](https://strategywiki.org/wiki/Half-Life_2) – interface description, game structure
 [^ref-12]: [Celjaded – Half-Life 2 Retrospective](https://www.celjaded.com/half-life-2-retrospective/) – campaign length, HUD description, physics engine
 [^ref-13]: [Eurogamer – Half-Life 2 Steam Deck Update](https://www.eurogamer.net/articles/2022-01-27-half-life-2s-ui-is-getting-steam-deck-ready) – UI updates, modern display issues
 [^ref-14]: [IGN – Half-Life 2 Review](https://www.ign.com/articles/2004/11/15/half-life-2-review) – 9.7/10 score, gameplay analysis, test system specs
 [^ref-15]: [Game Developer – Physical Gameplay in Half-Life 2](https://www.gamedeveloper.com/design/post-gdc-physical-gameplay-in-i-half-life-2-i-) – physics design, GDC presentation, Jay Stelly quotes
 [^ref-16]: [GamesRadar – Half-Life 2 Review](http://www.gamesradar.com/half-life-2-review/) – varied gameplay types
-[^ref-17]: [Grokipedia – Half-Life 2](https://grokipedia.com/page/Half-Life_2) – Metacritic score, critical quotes, sales data
-[^ref-19]: [Amazon – Half-Life 2 Prima Official Game Guide](https://www.amazon.com/Half-Life-Prima-Official-Game-Guide/dp/0761543627) – guide details, customer reviews
-[^ref-20]: [The Digital Antiquarian – Half-Life History](https://www.filfre.net/?s=Half-Life+2) – Valve founding, development philosophy, Steve Theodore quote
+[^ref-17]: [Metacritic – Half-Life 2 (PC)](https://www.metacritic.com/game/half-life-2/) – Metascore 96 based on 81 critic reviews; netjak "Daikatana" teammate-AI quote
+[^ref-19]: [Amazon – Half-Life 2 Prima Official Game Guide](https://www.amazon.com/Half-Life-Prima-Official-Game-Guide/dp/0761543627) – guide details (author, page count, coverage)
+[^ref-20]: [The Digital Antiquarian – Half-Life](https://www.filfre.net/2024/12/half-life/) – Valve founding, early hiring, "Late is just for a little while", Steve Theodore epigraph
 [^ref-21]: [GamesRadar – Making of Half-Life 2](https://www.gamesradar.com/making-of-half-life-2/) – cabal design process
 [^ref-22]: [Advances in Real-Time Rendering – Source Engine](https://advances.realtimerendering.com/s2006/Mitchell-ShadingInValvesSourceEngine.pdf) – technical shading presentation
 [^ref-23]: [GamesRadar – Half-Life 2 Storytelling](https://www.gamesradar.com/how-half-life-2-set-still-unbettered-standards-for-video-game-story-telling-with-a-hero-who-never-says-a-word/) – narrative analysis
@@ -411,17 +410,18 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 [^ref-34]: [Half-Life Wiki – The Orange Box](https://half-life.fandom.com/wiki/The_Orange_Box) – compilation details, PS3 issues
 [^ref-35]: [Easter Egg Database – Episode 2](https://eeggs.com/tree/11573.html) – Lost reference, Episode 2 easter eggs
 [^ref-36]: [Behind The Voice Actors – Half-Life 2](https://www.behindthevoiceactors.com/video-games/half-life-2/) – complete voice cast
-[^ref-37]: [Superior Realities – Half-Life 2 Review](https://superriorrealities.com/) – voice acting praise
+[^ref-37]: [Superior Realities – Retro Review: Half-Life 2 Trilogy](https://superior-realities.com/2013/10/06/retro-review-half-life-2-trilogy/) – voice acting praise
 [^ref-38]: [GamesIndustry.biz – Half-Life 2 Sales](https://www.gamesindustry.biz/half-life-2-sells-17-million-units-through-retail) – early retail performance
 [^ref-39]: [Game Developer – Valve Retail Sales Analysis](https://www.gamedeveloper.com/game-platforms/analysis-valve-s-lifetime-retail-sales-for-i-half-life-counter-strike-i-franchises) – lifetime sales data
 [^ref-40]: [Forbes – Valve Profile](https://www.forbes.com/forbes/2011/0228/technology-gabe-newell-videogames-valve-online-mayhem.html) – 12 million sales figure
-[^ref-41]: [IMDb – Half-Life 2 Awards](https://www.imdb.com/title/tt0374692/awards/) – comprehensive awards listing
-[^ref-42]: [IGN – The Orange Box Review](https://www.ign.com/) – Orange Box praise
-[^ref-43]: [Eurogamer – Gembe Interview](https://www.eurogamer.net/articles/2011-02-21-the-boy-who-stole-half-life-2-article) – Newell PS3 quote
+[^ref-41]: [IMDb – Half-Life 2 Awards](https://www.imdb.com/title/tt0374692/awards/) – awards listing (28 wins, 13 nominations)
+[^ref-42]: [IGN – The Orange Box Review (Xbox 360)](https://www.ign.com/articles/2007/10/10/the-orange-box-review-2) – Hilary Goldstein, Orange Box praise
+[^ref-43]: [Eurogamer – The Boy Who Stole Half-Life 2](https://www.eurogamer.net/articles/2011-02-21-the-boy-who-stole-half-life-2-article) – Gembe leak story
 [^ref-44]: [Game World Observer – Anniversary Player Count](https://gameworldobserver.com/2024/11/18/half-life-2-record-64k-concurrent-players-anniversary) – Steam player records
-[^ref-45]: [ModDB – Black Mesa / Missing Information](https://moddb.com/) – fan project descriptions
-[^ref-46]: [PC Gamer – Minerva: Metastasis](https://www.pcgamer.com/) – mod praise, Adam Foster hiring
-[^ref-47]: [TechSpot – Half-Life 2 VR Mod](https://www.techspot.com/) – VR mod description
+[^ref-45]: [ModDB – Black Mesa](https://www.moddb.com/mods/black-mesa) – "what we had all hoped half life source would have been"
+[^ref-46]: [Polygon – Minerva: Metastasis is the best Half-Life game Valve never made](https://www.polygon.com/what-to-play/482810/minerva-metastasis-half-life-2-mod) – mod praise, Adam Foster hired by Valve
+[^ref-47]: [TechSpot – Half-Life 2 VR Mod adds Episode One support](https://www.techspot.com/news/97985-well-regarded-half-life-2-vr-mod-adds.html) – "full room-scale VR gameplay to the seminal 2004 shooter"
 [^ref-48]: [Amazon – Source SDK Game Development Essentials](https://www.amazon.com/Source-SDK-Game-Development-Essentials/dp/184969592X) – modding guide
 [^ref-49]: [KHInsider – Half-Life 2 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/half-life-2-official-soundtrack) – track listings, musical analysis
 [^ref-50]: [Half-Life Wiki – Soundtrack](https://half-life.fandom.com/wiki/Half-Life_2_soundtrack) – soundtrack release details
+[^ref-51]: [ModDB – Missing Information](https://www.moddb.com/mods/missing-information) – "for our own admiration and interest in the old content"
