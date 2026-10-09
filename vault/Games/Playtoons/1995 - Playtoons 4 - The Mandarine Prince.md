@@ -186,7 +186,7 @@ The Playtoons series as a whole represented Coktel Vision's attempt to create a 
 - [[1994 - Playtoons 1 - Uncle Archibald]]
 - [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator]]
 
-- **Next:** Playtoons 5: The Stone of Wakan
+- **Next:** [[1995 - Playtoons 5 - The Stone of Wakan|Playtoons 5: The Stone of Wakan]]
 
 ## References
 

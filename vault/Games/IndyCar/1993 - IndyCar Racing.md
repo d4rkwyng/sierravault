@@ -21,7 +21,7 @@ tags: [1990s, indycar-racing, papyrus, racing, sierra]
 
 ## Overview
 
-IndyCar Racing is a racing simulation video game developed by [[Papyrus Design Group]] and released in 1993 for MS-DOS.[^ref-1] Following the success of their groundbreaking Indianapolis 500: The Simulation (1989), Papyrus set out to create what many consider "the motor sports aficionado's dream come true" and "the only current driving sim where 180 mph feels like 180 mph."[^ref-2] The game was intended as a realistic simulation of CART IndyCar Racing, featuring contemporary drivers, chassis, and engines from the 1993 racing season.[^ref-3]
+IndyCar Racing is a racing simulation video game developed by [[Papyrus Design Group]] and released in 1993 for MS-DOS.[^ref-1] Following the success of their groundbreaking [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]] (1989), Papyrus set out to create what many consider "the motor sports aficionado's dream come true" and "the only current driving sim where 180 mph feels like 180 mph."[^ref-2] The game was intended as a realistic simulation of CART IndyCar Racing, featuring contemporary drivers, chassis, and engines from the 1993 racing season.[^ref-3]
 
 With an official license from CART, IndyCar Racing offered eight real track names and designs with authentic sponsors and logos, putting players behind the wheel against real IndyCar drivers on circuits including Michigan International, Nazareth PA, Laguna Seca, Portland International, Milwaukee, Loudon NH, Toronto, and Long Beach.[^ref-1][^ref-4] The game arrived "hot on the heels of Geoff Crammond's excellent Formula One Grand Prix," establishing Papyrus as one of the leading developers in sim racing—a legacy that continues to this day.[^ref-5][^ref-6]
 
@@ -234,7 +234,7 @@ The game's influence extends beyond its own success. Papyrus went on to create N
 
 - [[1997 - CART Racing]]
 
-- **Previous:** Indianapolis 500: The Simulation (1989)
+- **Previous:** [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]] (1989)
 
 ## References
 

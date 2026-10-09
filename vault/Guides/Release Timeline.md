@@ -30,6 +30,7 @@ Sierra (renamed from On-Line Systems in 1982) created the graphic adventure genr
 - [[1981 - Hi-Res Adventure 3 - Cranston Manor|Hi-Res Adventure 3 - Cranston Manor]] — Series: Hi-Res Adventure, Type: Adventure
 - [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Hi-Res Adventure 4 - Ulysses and the Golden Fleece]] — Series: Hi-Res Adventure, Type: Adventure
 - [[1981 - Jawbreaker|Jawbreaker]] — Series: Jawbreaker, Type: Action
+- [[1981 - Pegasus II|Pegasus II]] — Type: Arcade Shooter
 - [[1981 - Sabotage|Sabotage]] — Type: Fixed Shooter
 - [[1981 - Softporn Adventure|Softporn Adventure]] — Type: Text Adventure
 - [[1981 - Threshold|Threshold]] — Type: Fixed Shooter
@@ -124,7 +125,7 @@ Sierra (renamed from On-Line Systems in 1982) created the graphic adventure genr
 - [[1989 - Emmanuelle|Emmanuelle]] — Series: Emmanuelle (loosely), Type: Adventure
 - [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk - Thexder - The Second Contact]] — Series: Thexder, Type: Run and Gun / Shooter
 - [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games - Volume 1]] — Series: Hoyle, Type: Card Games
-- Indianapolis 500 - The Simulation — Indianapolis 500 — Racing Simulation
+- [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500 - The Simulation]] — Developer: Papyrus, Type: Racing Simulation
 - [[1989 - Legend of Djel|Legend of Djel]] — Series: Ween, Type: Adventure
 - **[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]** — Series: Leisure Suit Larry, Type: Adventure
 - [[1989 - Manhunter - San Francisco|Manhunter - San Francisco]] — Series: Manhunter, Type: Adventure
@@ -292,6 +293,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator|Playtoons 2 - The Case of the Counterfeit Collaborator]] — Series: Playtoons, Type: Interactive Storybook
 - [[1995 - Playtoons 3 - The Secret of the Castle|Playtoons 3 - The Secret of the Castle]] — Series: Playtoons, Type: Creativity / Interactive Storybook
 - [[1995 - Playtoons 4 - The Mandarine Prince|Playtoons 4 - The Mandarine Prince]] — Series: Playtoons, Type: Adventure
+- [[1995 - Playtoons 5 - The Stone of Wakan|Playtoons 5 - The Stone of Wakan]] — Series: Playtoons, Type: Educational
 - **[[1995 - Police Quest - SWAT|Police Quest - SWAT]]** — Series: Police Quest / SWAT, Type: Tactical Simulation
 - [[1995 - Powerhouse|Powerhouse]] — Type: Strategy / Business Simulation
 - [[1995 - Shannara|Shannara]] — Series: Shannara (standalone), Type: Adventure
