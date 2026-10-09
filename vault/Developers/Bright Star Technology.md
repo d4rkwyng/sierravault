@@ -72,7 +72,7 @@ Contemporary educational game developers continue to reference Bright Star Techn
 
 - **1982** — [[1982 - Alphabet Blocks|Alphabet Blocks]] — Genre: Educational
 - **1983** — [[1983 - Early Math|Early Math]] — Genre: Educational
-- **1993** — [[1993 - Ready Set Read with Bananas Jack|Ready Set Read with Bananas Jack]] — Genre: Educational
+- **1993** — [[1992 - Ready, Set, Read with Bananas & Jack|Ready, Set, Read with Bananas & Jack]] — Genre: Educational
 - **1993** — [[1993 - Spelling Jungle|Spelling Jungle]] — Genre: Educational
 - **1994** — [[1994 - Spelling Blizzard|Spelling Blizzard]] — Genre: Educational
 - **1995** — [[1995 - The Lost Mind of Dr. Brain|The Lost Mind of Dr. Brain]] — Genre: Puzzle/Educational

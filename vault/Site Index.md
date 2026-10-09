@@ -276,7 +276,7 @@ This archive contains **517 game pages** across 76 categories.
 
 ## Discovery
 
-- **1993** — [[1993 - Ready Set Read with Bananas Jack|Ready, Set, Read with Bananas & Jack]] — Last Updated: 2026-01-13
+- **1992** — [[1992 - Ready, Set, Read with Bananas & Jack|Ready, Set, Read with Bananas & Jack]] — Last Updated: 2026-10-09
 - **1993** — [[1993 - Spelling Jungle|Spelling Jungle]] — Last Updated: 2026-01-09
 - **1993** — [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] — Last Updated: 2026-01-22
 - **1994** — [[1994 - Spelling Blizzard|Spelling Blizzard]] — Last Updated: 2026-01-23

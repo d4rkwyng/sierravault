@@ -243,7 +243,6 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Type: Educational Adventure
 - **[[1993 - Police Quest - Open Season|Police Quest - Open Season]]** — Series: Police Quest, Type: Adventure
 - **[[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV - Shadows of Darkness]]** — Series: Quest for Glory, Type: Adventure
-- [[1993 - Ready Set Read with Bananas Jack|Ready Set Read with Bananas Jack]] — Series: Sierra Discovery Series, Type: Edutainment
 - [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] — Series: The Incredible Machine, Type: Puzzle
 - [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]] — Series: Educational Interactive Storybooks, Type: Educational
 - **[[1993 - Space Quest V - The Next Mutation|Space Quest V - The Next Mutation]]** — Series: Space Quest, Type: Adventure

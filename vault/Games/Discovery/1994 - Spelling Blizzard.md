@@ -204,7 +204,7 @@ The Spelling Jungle series ultimately consisted of only two games, with no furth
 
 ## See Also
 
-- [[1993 - Ready Set Read with Bananas Jack]]
+- [[1992 - Ready, Set, Read with Bananas & Jack]]
 - [[1993 - Spelling Jungle]]
 - [[1993 - Turbo Learning - Mega Math]]
 
