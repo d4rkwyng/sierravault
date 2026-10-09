@@ -462,9 +462,9 @@ This archive contains **507 game pages** across 74 categories.
 - **2005** — [[2005 - Hoyle Texas Hold Em|Hoyle Texas Hold 'Em 2005]] — Last Updated: 2026-01-16
 - **2006** — [[2007 - Hoyle Casino|Hoyle Casino 2007]] — Last Updated: 2026-01-15
 - **2006** — [[2006 - Hoyle Miami Solitaire|Hoyle Miami Solitaire]] — Last Updated: 2026-01-15
-- **2007** — [[2008 - Hoyle Casino|Hoyle Casino 2008]] — Last Updated: 2026-01-22
+- **2007** — [[2007 - Hoyle Casino 2008|Hoyle Casino 2008]] — Last Updated: 2026-01-22
 - **2007** — [[2008 - Hoyle Puzzle and Board Games|Hoyle Puzzle and Board Games 2008]] — Last Updated: 2026-01-15
-- **2010** — [[2011 - Hoyle Puzzle and Board Games|Hoyle Puzzle and Board Games 2011]] — Last Updated: 2026-01-15
+- **2010** — [[2010 - Hoyle Puzzle and Board Games 2011|Hoyle Puzzle and Board Games 2011]] — Last Updated: 2026-01-15
 - **2011** — [[2011 - Hoyle Swashbucklin Slots|Hoyle Swashbucklin' Slots]] — Last Updated: 2026-01-16
 - **2015** — [[2015 - Hoyle Official Card Games Collection|Hoyle Official Card Games Collection 2015]] — Last Updated: 2026-01-15
 - **2016** — [[2016 - Hoyle Casino Games Collection|Hoyle Official Casino Games Collection]] — Last Updated: 2026-01-15

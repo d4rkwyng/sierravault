@@ -528,7 +528,7 @@ Sierra was acquired by Vivendi, then absorbed into Activision. Adventure game de
 
 ### 2008
 - [[2007 - Hoyle Card Games 2008|Hoyle Card Games]] — Series: Hoyle, Type: Card Game / Board Game
-- [[2008 - Hoyle Casino|Hoyle Casino]] — Series: Hoyle Casino, Type: Gambling/Casino
+- [[2007 - Hoyle Casino 2008|Hoyle Casino]] — Series: Hoyle Casino, Type: Gambling/Casino
 - [[2008 - Hoyle Puzzle and Board Games|Hoyle Puzzle and Board Games]] — Series: Hoyle, Type: Puzzle/Board Game Compilation
 - **[[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]]** *(Fan)* — Series: Quest for Glory, Type: Adventure/RPG
 - [[2008 - Red Baron Arcade|Red Baron Arcade]] — Series: Red Baron, Type: Arcade Flight Combat Simulator
@@ -550,7 +550,7 @@ Sierra as a development entity was gone, but fans kept classics alive with remak
 - [[2010 - The Silver Lining|The Silver Lining]] *(Fan)* — Type: Adventure
 
 ### 2011
-- [[2011 - Hoyle Puzzle and Board Games|Hoyle Puzzle and Board Games]] — Series: Hoyle, Type: Puzzle
+- [[2010 - Hoyle Puzzle and Board Games 2011|Hoyle Puzzle and Board Games]] — Series: Hoyle, Type: Puzzle
 - [[2011 - Hoyle Swashbucklin Slots|Hoyle Swashbucklin Slots]] — Series: Hoyle, Type: Gambling
 - [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain|JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]] — Series: Dr. Brain / JumpStart, Type: Edutainment
 - **[[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux - To Heir is Human]]** *(Fan)* — Series: King's Quest, Type: Adventure

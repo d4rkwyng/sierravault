@@ -202,7 +202,7 @@ The game is also listed in IGDB.[^ref-14]
 - [[2006 - Hoyle Miami Solitaire]]
 - [[2007 - Hoyle Card Games 2008]]
 - [[2007 - Hoyle Casino]]
-- [[2008 - Hoyle Casino]]
+- [[2007 - Hoyle Casino 2008]]
 - [[2015 - Hoyle Official Card Games Collection]]
 - [[2016 - Hoyle Casino Games Collection]]
 

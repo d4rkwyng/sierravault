@@ -221,8 +221,8 @@ The game is documented in various gaming databases and preservation archives.[^r
 
 ## See Also
 
-- [[2008 - Hoyle Casino|← Previous: Hoyle Casino]]
-- [[2011 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
+- [[2007 - Hoyle Casino 2008|← Previous: Hoyle Casino]]
+- [[2010 - Hoyle Puzzle and Board Games 2011|→ Next: Hoyle Puzzle and Board Games]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]

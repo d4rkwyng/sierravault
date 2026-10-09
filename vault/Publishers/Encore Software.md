@@ -44,9 +44,9 @@ Encore Software acquired publishing rights to the Hoyle series, originally creat
 - **2006** — [[2006 - Hoyle Miami Solitaire|Hoyle Miami Solitaire]] — Notes: Solitaire compilation
 - **2007** — [[2007 - Hoyle Casino|Hoyle Casino]] — Notes: Annual update
 - **2008** — [[2007 - Hoyle Card Games 2008|Hoyle Card Games]] — Notes: Card game collection
-- **2008** — [[2008 - Hoyle Casino|Hoyle Casino]] — Notes: Casino games update
+- **2007** — [[2007 - Hoyle Casino 2008|Hoyle Casino 2008]] — Notes: Casino games update
 - **2008** — [[2008 - Hoyle Puzzle and Board Games|Hoyle Puzzle and Board Games]] — Notes: Puzzle compilation
-- **2011** — [[2011 - Hoyle Puzzle and Board Games|Hoyle Puzzle and Board Games]] — Notes: Updated edition
+- **2010** — [[2010 - Hoyle Puzzle and Board Games 2011|Hoyle Puzzle and Board Games 2011]] — Notes: Updated edition
 - **2011** — [[2011 - Hoyle Swashbucklin Slots|Hoyle Swashbucklin' Slots]] — Notes: Pirate-themed slots
 
 ## Current Status

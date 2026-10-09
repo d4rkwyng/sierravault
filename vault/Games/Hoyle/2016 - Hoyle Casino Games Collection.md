@@ -307,9 +307,9 @@ The game's removal from digital storefronts marks an ignominious end for a serie
 - [[2006 - Hoyle Miami Solitaire]]
 - [[2007 - Hoyle Card Games 2008]]
 - [[2007 - Hoyle Casino]]
-- [[2008 - Hoyle Casino]]
+- [[2007 - Hoyle Casino 2008]]
 - [[2008 - Hoyle Puzzle and Board Games]]
-- [[2011 - Hoyle Puzzle and Board Games]]
+- [[2010 - Hoyle Puzzle and Board Games 2011]]
 - [[2011 - Hoyle Swashbucklin Slots]]
 
 - **Series Origin:** [[1996 - Hoyle Casino]]

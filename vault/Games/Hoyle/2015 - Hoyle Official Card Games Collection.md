@@ -291,9 +291,9 @@ Historically, the Hoyle series holds significance as one of Sierra's earliest ca
 - [[2006 - Hoyle Miami Solitaire]]
 - [[2007 - Hoyle Card Games 2008]]
 - [[2007 - Hoyle Casino]]
-- [[2008 - Hoyle Casino]]
+- [[2007 - Hoyle Casino 2008]]
 - [[2008 - Hoyle Puzzle and Board Games]]
-- [[2011 - Hoyle Puzzle and Board Games]]
+- [[2010 - Hoyle Puzzle and Board Games 2011]]
 
 - **1989:** Hoyle Official Book of Games Volume 1 (Sierra On-Line)[^ref-1]
 - **1990:** Hoyle Official Book of Games Volume 2 - 28 solitaire games (Sierra On-Line)[^ref-1]

@@ -188,7 +188,7 @@ From a preservation standpoint, the game's Windows XP-era compatibility requirem
 ## See Also
 
 - [[2007 - Hoyle Card Games 2008|← Previous: Hoyle Card Games 2008]]
-- [[2008 - Hoyle Casino|→ Next: Hoyle Casino]]
+- [[2007 - Hoyle Casino 2008|→ Next: Hoyle Casino]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
@@ -238,7 +238,7 @@ From a preservation standpoint, the game's Windows XP-era compatibility requirem
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]
 - [[2008 - Hoyle Puzzle and Board Games]]
-- [[2011 - Hoyle Puzzle and Board Games]]
+- [[2010 - Hoyle Puzzle and Board Games 2011]]
 - [[2011 - Hoyle Swashbucklin Slots]]
 - [[2015 - Hoyle Official Card Games Collection]]
 - [[2016 - Hoyle Casino Games Collection]]
