@@ -36,7 +36,7 @@ The Adventures of Willy Beamish was the last adventure game created by Dynamix, 
 > **Release Year:** 1991
 > **Series:** Standalone
 > **Protagonist:** Willy Beamish
-> **Sierra Lineage:** Sierra Subsidiary (Dynamix)
+> **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Story Summary
 
@@ -44,7 +44,7 @@ The game begins at Carbuncle Elementary School on the last day of the school yea
 
 Willy lives with his neurotic yuppie parents, Gordon and Sheila Beamish, and his two sisters in the city of Frumpton.[^ref-12] He contends with his annoying parents, his tag-along sister Brianna, meddling teachers, and a babysitter from hell named Dana.[^ref-13] There's also his grandfather's ghost who claims to be Willy's "best friend" and won't stop haunting him, offering supernatural guidance throughout his adventures.[^ref-14] Willy's most prized possession is his pet jumping frog named Horny, whom he hopes to enter in the local frog-jumping contest.[^ref-20]
 
-When Willy's father Gordon is hired as the new PR manager for Tootsweet, a local candy company, the summer holiday takes an unexpected turn.[^ref-16] Willy uncovers a sinister plot involving the villainous Leona Humpford—a character parodying real estate magnate Leona Helmsley—and her henchman Louis Stoole, who plan to blow the city's sewer system sky high.[^ref-27] The summer becomes a race against time as Willy must save Horny, rescue his father, and prevent the entire city from facing a "foul-smelling catastrophe."[^ref-16]
+When Willy's father Gordon is hired as the new PR manager for Tootsweet, the local producer of artificial sweetener, the summer holiday takes an unexpected turn.[^ref-16][^ref-4] Willy uncovers a sinister plot involving the villainous Leona Humpford—a character parodying real estate magnate Leona Helmsley—and her henchman Louis Stoole, who plan to blow the city's sewer system sky high.[^ref-27][^ref-7] The summer becomes a race against time as Willy must save Horny, rescue his father, and prevent the entire city from facing a "foul-smelling catastrophe."[^ref-55]
 
 Throughout the game, Willy must navigate through approximately fifty locations, skateboarding and sneaking through various scenarios while trying to avoid the trouble that could land him in detention hall or, worse yet, military school.[^ref-13] The stakes are personal as well as civic—if Willy accumulates too much trouble with his parents, represented by an on-screen "Trouble-O-meter," he'll be shipped off to boarding school, ending the game.[^ref-18]
 
@@ -58,7 +58,7 @@ The game features extensive dialogue trees, as much of the gameplay revolves aro
 
 ### Structure and Progression
 
-The game spans four days of Willy's summer vacation, beginning on the last day of school and progressing through increasingly complex scenarios.[^ref-23] Unlike many adventure games of the era, in-game time progresses even if no action is taken, meaning many puzzles must be solved within certain time frames or require being in the right place at the right time.[^ref-2]
+The game spans four days of Willy's summer vacation, beginning on the last day of school and progressing through increasingly complex scenarios.[^ref-32] Unlike many adventure games of the era, in-game time progresses even if no action is taken, meaning many puzzles must be solved within certain time frames or require being in the right place at the right time.[^ref-2]
 
 - **Day One:** The final day of school at Carbuncle Elementary, featuring detention escape and getting home safely
 - **Day Two:** Exploring the neighborhood, dealing with family dynamics, and discovering the Tootsweet conspiracy
@@ -69,23 +69,23 @@ The game offers multiple story paths and decision points that can lead to differ
 
 ### Puzzles and Mechanics
 
-The Adventures of Willy Beamish features a distinctive "Trouble-O-meter" mechanic that tracks Willy's standing with his parents.[^ref-18] Bad decisions, misbehavior, or getting caught in compromising situations fill the meter. If it reaches maximum, Willy's parents ship him off to military school, resulting in a game over. This creates an additional layer of strategy where players must balance solving puzzles with maintaining family harmony.
+The Adventures of Willy Beamish features a distinctive "Trouble-O-meter" mechanic that tracks Willy's standing with his parents.[^ref-18] Bad decisions, misbehavior, or getting caught in compromising situations fill the meter. If it reaches maximum, Willy's parents ship him off to boarding school, resulting in a game over.[^ref-18] This creates an additional layer of strategy where players must balance solving puzzles with maintaining family harmony.
 
-The puzzle design combines traditional inventory-based challenges with timed sequences and conversational choices.[^ref-25] Players must manage Willy's pet frog Horny, remembering to feed him regularly—if properly cared for, Horny will help Willy out in a pinch during crucial moments.[^ref-13] Some action scenes may prove frustrating, as they require precise timing or quick reflexes.[^ref-26]
+The puzzle design combines traditional inventory-based challenges with timed sequences and conversational choices.[^ref-25] Players must manage Willy's pet frog Horny, remembering to feed him regularly—if properly cared for, Horny will help Willy out in a pinch during crucial moments.[^ref-13] Some action scenes may prove frustrating.[^ref-26]
 
-The game includes several references to real-world personalities, transformed into puzzle elements: Chef Julia Childish (parodying Julia Child) and news anchor Stan Lather (parodying Dan Rather) appear on the family television, while radio host Lush Limberger on KTOK parodies Rush Limbaugh.[^ref-27] Players must pay attention to these broadcasts for clues essential to progression.
+The game includes several references to real-world personalities, transformed into puzzle elements: Chef Julia Childish (parodying Julia Child) and news anchor Stan Lather (parodying Dan Rather) appear on the family television, while radio host Lush Limberger on KTOK parodies Rush Limbaugh.[^ref-32][^ref-27] Players must pay attention to these broadcasts for clues essential to progression.
 
 ## Reception
 
 ### Contemporary Reviews
 
-The Adventures of Willy Beamish received mixed to positive reviews upon release, with critics praising its innovative visual style while expressing reservations about certain gameplay elements. Aktueller Software Markt awarded the game 83% in February 1992, calling it "a refreshing newcomer!"[^ref-3] Datormagazin gave an exceptionally high score of 96%, praising the game's cartoon aesthetic.[^ref-28]
+The Adventures of Willy Beamish received mixed to positive reviews upon release, with critics praising its innovative visual style while expressing reservations about certain gameplay elements. Aktueller Software Markt awarded the game 83% in February 1992, calling it "a refreshing newcomer!"[^ref-3] Datormagazin gave the game 4/5 in December 1991 and 96% in February 1992.[^ref-28]
 
-Amiga Action scored the game 91%, with reviewer Alan Bunker appreciating its ambition.[^ref-28] Génération 4 gave it 90% in November 1991, followed by 84% in their February 1992 issue.[^ref-28] Joystick magazine awarded 89% in December 1991.[^ref-28] The One for Amiga Games rated it 84%.[^ref-28]
+Amiga Action (reviewer Alan Bunker) scored the game 91%.[^ref-28] Génération 4 gave it 90% in November 1991, followed by 84% in their February 1992 issue.[^ref-28] Joystick magazine awarded 89% in December 1991.[^ref-28] The One for Amiga Games rated it 84%.[^ref-28]
 
-However, not all reviews were positive. CU Amiga gave a lower score of 48%, with Steve Merrett criticizing technical issues.[^ref-28] Amiga Joker scored it 42%, the lowest major publication review.[^ref-28] Amiga Format gave 44%, while Amiga Power awarded a middling 69%.[^ref-28] Amiga Computing settled at 78%.[^ref-28]
+However, not all reviews were positive. CU Amiga (reviewer Steve Merrett) gave a lower score of 48%.[^ref-28] Amiga Joker scored it 42%, the lowest major publication review.[^ref-28] Amiga Format gave 44%, while Amiga Power awarded a middling 69%.[^ref-28] Amiga Computing settled at 78%.[^ref-28]
 
-Computer Gaming World's Charles Ardai noted that "this is a game best played with the voices turned off," criticizing the voice acting quality while acknowledging that "the acting adds little to the game, and it is fair to say that some of the voices are miscast."[^ref-29] Advanced Computer Entertainment gave 795/1000, concluding that "as an adventure in itself, its long term appeal is in question."[^ref-29]
+Reviewing the CD-ROM version in Computer Gaming World in 1993, Charles Ardai criticized the voice acting and concluded, "This is a game best played with the voices turned off."[^ref-29] In 1994 the magazine added that "the acting adds little to the game, and it is fair to say that some of the voices are miscast."[^ref-29] Advanced Computer Entertainment gave 795/1000, concluding that "as an adventure in itself, its long term appeal is in question."[^ref-29]
 
 Mean Machines Sega reviewed the Sega CD version and awarded 68%, stating it was "a welcome concept in console games" but "let down by being far too slow (due to disc access) and sluggish to control."[^ref-30] GameFan Magazine gave the Sega CD version 85% in April 1993, praising the crisp graphics, voice acting, and animation while noting it was "long, but at the same time limited."[^ref-31]
 
@@ -110,32 +110,31 @@ Hardcore Gaming 101's retrospective praised the visual presentation: "Its bright
 
 The concept for The Adventures of Willy Beamish originated with [[Jeff Tunnell]], who wanted to create an interactive Saturday morning cartoon on a computer.[^ref-3] Tunnell, who had founded Dynamix and would later design puzzle classics such as The Incredible Machine, envisioned a game that would capture the spirit and visual style of animated television programming while providing meaningful player interaction.[^ref-35]
 
-Development began in 1990, shortly after Dynamix was purchased by Sierra On-Line.[^ref-14] The acquisition brought resources but also expectations—Sierra wanted adventure games, and Dynamix suddenly found themselves creating story-driven content alongside their simulation expertise.[^ref-14] The project represented an ambitious attempt to push the boundaries of what adventure games could look like and feel like.
+Tunnell started the concept in 1990,[^ref-3] around the time Dynamix was purchased by Sierra On-Line.[^ref-14] The acquisition brought resources but also expectations—Sierra wanted adventure games, and Dynamix suddenly found themselves creating story-driven content alongside their simulation expertise.[^ref-14] The project represented an ambitious attempt to push the boundaries of what adventure games could look like and feel like.
 
 Tunnell collaborated with Sheri Wheeler, an artist who had previously worked with Disney and Filmation, to establish the game's distinctive visual style.[^ref-36] Together they developed detailed storyboards following the process established in Dynamix's earlier adventures Rise of the Dragon and Heart of China.[^ref-31] The game would feature animated cels created by hand in black and white, then scanned and colored using paint software.[^ref-31]
 
 ### Production
 
-The development of Willy Beamish was a massive undertaking involving a team of approximately fifty people working for over a year.[^ref-36] The project required an estimated 11,000 man-hours to complete, with seven full-time animators creating the hand-drawn artwork.[^ref-37] The final game contained over 80 scenes, 12,500 animations, and 26,000 pieces of text.[^ref-37]
+The development of Willy Beamish was a massive undertaking: according to Sega-16, "seven full-time animators and a team of forty members worked almost non-stop for a year to complete the project."[^ref-36][^ref-37] The later Sega CD port took another full year and "involved more than fifty people."[^ref-36]
 
 One of the key artists was Rene Garcia, described by Dynamix owner-partner Kevin Ryan as "a very nice elderly gentleman who just previously had worked on Disney's The Little Mermaid. He had also worked on the original Scooby-Doo and The Flintstones cartoon series back in the 1960s. He did most if not all of the backgrounds for the game."[^ref-6] This connection to classic animation gave the game an authentic cartoon aesthetic that set it apart from competitors.
 
 The dialogue, puzzles, and character backgrounds were enhanced by bringing in television professionals Tony Perutz from NBC and Meryl Perutz from Family Home Entertainment/DIC.[^ref-31] Their experience with prime-time sitcom writing helped establish the game's comedic tone and character dynamics.[^ref-18] The combination of animation expertise and television writing talent created a product that genuinely felt like an interactive cartoon.
 
-**Development Credits:**[^ref-21]
-- **Director:** Jeff Tunnell
-- **Designer:** [[Jeff Tunnell]], David Selle, Tom Brooke
-- **Writers:** Tony Perutz, Meryl Perutz
-- **Programmer:** Louie McCrady
-- **Lead Artist:** Shawn Sharp
-- **Background Artist:** Rene Garcia
-- **Animation Design:** [[Brian Hahn]], Sheri Wheeler
+**Development Credits:**[^ref-4][^ref-3]
+- **Director:** [[Jeff Tunnell]][^ref-21]
+- **Writers:** Tony Perutz, Meryl Perutz, David Selle, Tom Brooke[^ref-4]
+- **Programmer:** Louie McCrady[^ref-4]
+- **Art Director:** Shawn Sharp[^ref-3]
+- **Backgrounds:** Rene Garcia[^ref-6]
+- **Character Design:** [[Brian Hahn]], Sheri Wheeler[^ref-3]
 
 ### Technical Achievements
 
 The Adventures of Willy Beamish was built using the Dynamix Game Development System (DGDS), a proprietary engine that Dynamix had developed for their adventure games.[^ref-9] According to Kevin Ryan, the DGDS "allowed non-programmers to set triggers, create conversation trees, set up animations, and control story branches," enabling the development process to be "very iterative and organic."[^ref-6]
 
-The game's visual presentation was groundbreaking for its time, featuring hand-painted backgrounds and character animation that closely resembled traditional cartoon production.[^ref-32] Hand-painted scenes were scanned and colored digitally, combining traditional artistry with emerging computer graphics technology.[^ref-36] The 256-color VGA graphics represented the cutting edge of PC visual capability in 1991.[^ref-6]
+The game's visual presentation was groundbreaking for its time, featuring hand-painted backgrounds and character animation that closely resembled traditional cartoon production.[^ref-32] Hand-painted scenes were scanned and colored digitally, combining traditional artistry with emerging computer graphics technology.[^ref-36]
 
 The original floppy disk version offered MT-32 sound and music support alongside Soundblaster and Pro Audio Spectrum compatibility.[^ref-8] The CD-ROM version released in 1992 added full voice acting with animated lip-sync, though it paradoxically eliminated the MT-32 option that many enthusiasts considered superior.[^ref-38] The CD version also featured animated character portraits replacing the static images of the floppy release.[^ref-8]
 
@@ -158,7 +157,6 @@ The original floppy disk version offered MT-32 sound and music support alongside
 **Sega CD Version (1993):**[^ref-30]
 - **Media:** CD-ROM
 - **Colors:** 64 colors (reduced from PC)[^ref-32]
-- **Storage:** More than 500 MB of assets[^ref-36]
 
 ### Cut Content
 
@@ -168,22 +166,22 @@ A sequel was planned but ultimately canceled. The proposed follow-up would have 
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | March 1991 | MS-DOS (Floppy) | Initial release with MT-32 support[^ref-12] |
-| 1.0 | 1991 | Amiga | Port with reduced color palette[^ref-1] |
+| 1.0 | 1991 | MS-DOS (Floppy) | Initial release with MT-32 support; MobyGames dates the first DOS release to September 25, 1991 (Sierra Chest lists March 10, 1991)[^ref-1][^ref-54] |
+| 1.0 | 1992 | Amiga | Port with reduced color palette[^ref-1] |
 | CD-ROM | 1992 | MS-DOS | Added voice acting, animated portraits, extended intro[^ref-8] |
 | 1.0 | 1992 | Macintosh | Mac port[^ref-1] |
 | 1.0 | March 25, 1993 | Sega CD | Console port by Infinite Laser Dog[^ref-31] |
-| 1.00 CS | March 14, 2019 | Windows (DOSBox) | GOG.com release[^ref-43] |
+| GOG | March 2, 2017 | Windows (DOSBox) | GOG.com release (build 1.00 CS followed on March 14, 2019)[^ref-43] |
 
 **DGDS Engine Versions:**[^ref-9]
 
-The game used the Dynamix Game Development System (DGDS), which was also employed in Rise of the Dragon and Heart of China. The DGDS was the third and final adventure game engine developed by Dynamix before the studio shifted focus to simulation titles.[^ref-12]
+The game used the Dynamix Game Development System (DGDS), which was also employed in Rise of the Dragon and Heart of China. Willy Beamish was the third game built on DGDS, following Rise of the Dragon and Heart of China,[^ref-54] and the last adventure game Dynamix developed before the team was moved onto Space Quest V.[^ref-32]
 
 ### Technical Issues
 
 The Sega CD version suffered from notorious loading times, with players experiencing several seconds of wait for every action.[^ref-32] Former Electronic Arts programmer Ernest Adams speculated that "what made Willy Beamish take so long to load wasn't the polling aspect but badly laid-out files on the CD."[^ref-36] Jeff Tunnell himself later admitted he "never would have even attempted at porting Adventures of Willy Beamish if he had known how things would turn out."[^ref-36]
 
-Early editions of the Sega CD game were known to completely freeze up during certain scenes due to a manufacturing glitch.[^ref-1] The Sega CD version also featured washed-out colors compared to the PC original, with visible differences in details like auditorium seat colors and stage design.[^ref-44]
+Early editions of the Sega CD game were known to completely freeze up during certain scenes.[^ref-1][^ref-31] The DOS and Sega CD versions also used slightly different color palettes, the DOS version's being generally lighter, with visible differences in details like auditorium seat colors and stage design.[^ref-44]
 
 On modern systems, timed sequences such as the babysitter chase, escaping the Cripes, or freeing the frogs may cause problems due to speed differences from original hardware.[^ref-12] The Chef Childish puzzle and fire hydrant puzzle are particularly notorious for being based on system speed, potentially becoming uncompletable on faster computers.[^ref-45]
 
@@ -237,9 +235,9 @@ For the CD port, according to Sega-16's development history, "each of the forty-
 
 ### Sales and Commercial Impact
 
-The Adventures of Willy Beamish sold 80,000 copies in the United States by early 1992.[^ref-4] According to The Digital Antiquarian, it was "a solid hit that racked up numbers in the ballpark of one of Sierra's more popular numbered adventure series."[^ref-18] The game was successful enough to warrant a CD-ROM talkie re-release in 1993 and a Sega CD port, expanding its reach to console audiences.[^ref-18]
+The Adventures of Willy Beamish sold 80,000 copies in the United States by early 1992.[^ref-4] According to The Digital Antiquarian, it was "a solid hit that racked up numbers in the ballpark of one of Sierra's more popular numbered adventure series."[^ref-18] The game was successful enough to warrant a CD-ROM talkie re-release (1992 per MobyGames;[^ref-1] The Digital Antiquarian dates it to 1993[^ref-18]) and a Sega CD port, expanding its reach to console audiences.
 
-The Sega CD version retailed for $59.95 upon release.[^ref-48] Current secondary market prices for the Sega CD version range from $6-10 for used copies to $88 for new sealed copies.[^ref-49]
+The Sega CD version retailed for $59.95 upon release.[^ref-48] As of 2012, secondary market prices for the Sega CD version ranged from $6-10 for used copies to $88 for new sealed copies.[^ref-49]
 
 ### Awards
 
@@ -277,7 +275,7 @@ The game's real-time elements and possibility of unwinnable states reflect early
 - [GOG.com](https://www.gog.com/en/game/the_adventures_of_willy_beamish) – Includes both floppy and CD versions
 
 **ScummVM Support**
-- Full support added in ScummVM v2026.1.0 "Like a Version" (January 31, 2026)
+- Support added in ScummVM v2026.1.0 "Like a Version" (January 31, 2026)[^ref-56]
 - Allows the game to run natively on modern systems including Windows, macOS, Linux, iOS, and Android
 - [ScummVM Downloads](https://www.scummvm.org/downloads/)
 
@@ -319,40 +317,41 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-12]: [Sierra Chest – Technical](https://www.sierrachest.com/index.php?a=games&id=337&title=willy-beamish&fld=tech) – system requirements, timed sequence bugs
 [^ref-13]: [eBay – Product Description](https://www.ebay.com/p/60651386) – 50 locations, military school, Horny gameplay
 [^ref-14]: [Adventure Gamer Blog – Willy Beamish Introduction](https://advgamer.blogspot.com/2015/10/game-60-adventures-of-willy-beamish.html) – grandfather ghost, Sierra acquisition
-[^ref-16]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=337&title=willy-beamish&fld=walkthrough&pid=120) – Tootsweet plot, Gordon's job
+[^ref-16]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=337&title=willy-beamish&fld=walkthrough&pid=120) – Tootsweet plot, Gordon's PR manager job
 [^ref-18]: [The Digital Antiquarian](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) – Trouble-O-meter, design criticism, commercial success
 [^ref-19]: Best DOS Games – Willy Beamish *(download link removed: the game is sold commercially)* – point-and-click interface
 [^ref-20]: [GameFAQs – Sega CD Walkthrough](https://gamefaqs.gamespot.com/segacd/587919-the-adventures-of-willy-beamish/faqs/28803) – Horny character, game controls
 [^ref-21]: [IMDb – The Adventures of Willy Beamish](https://www.imdb.com/title/tt0292893/) – user rating, designers, communication gameplay
 [^ref-22]: [Alex Bevilacqua – Game Review](https://www.alexbevi.com/blog/2024/02/12/the-adventures-of-willy-beamish/) – cartoony style, emotional depth
-[^ref-23]: Adventure Gamers – Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – four-day structure
 [^ref-24]: [Fake Geek Boy Blog](https://fakegeekboy.wordpress.com/2020/08/20/gogathon-the-early-adventures-of-dynamix/) – unwinnable states criticism
 [^ref-25]: [Walkthrough King – Willy Beamish](https://www.walkthroughking.com/text/adventuresofwillybeamish.aspx) – timer mechanics, puzzle structure
-[^ref-26]: Adventure Gamers – Review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – 3.5 stars, action scene frustrations
-[^ref-27]: [IMDb – Trivia](https://m.imdb.com/title/tt0292893/trivia/) – Leona Humpford parody, pop culture references
-[^ref-28]: [Amiga Magazine Reviews Archive](https://amr.abime.net/review_3973) – comprehensive review scores across publications
-[^ref-29]: [Dynamix Wiki – Willy Beamish](https://dynamix.fandom.com/wiki/The_Adventures_of_Willy_Beamish) – CGW quote, ACE score
+[^ref-26]: [Adventure Gamers – Review (Wayback Machine, January 2013)](https://web.archive.org/web/20130118102913/http://www.adventuregamers.com/games/view/16436) – 3.5 stars, verdict quotes (pre-2025-sale archived copy)
+[^ref-27]: [IMDb – Trivia](https://m.imdb.com/title/tt0292893/trivia/) – Leona Helmsley parody, Nintari, Dyna-Mix, Darbie, Lush Limberger
+[^ref-28]: [Amiga Magazine Reviews Archive](https://amr.abime.net/review_3973) – review scores, issues and reviewers across publications
+[^ref-29]: [Dynamix Wiki – Willy Beamish](https://dynamix.fandom.com/wiki/The_Adventures_of_Willy_Beamish) – CGW quotes (Ardai 1993; magazine 1994), ACE score
 [^ref-30]: [Every Game Going – Mean Machines Sega Review](https://www.everygamegoing.com/larticle/The-Adventures-Of-Willy-Beamish-000/31691) – 68% score, loading time criticism
 [^ref-31]: [Sega Wiki – Willy Beamish](https://sega.fandom.com/wiki/The_Adventures_of_Willy_Beamish) – GameFan score, development process, Infinite Laser Dog
-[^ref-32]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/the-adventures-of-willy-beamish/) – visual praise, loading time criticism, Sega CD changes
+[^ref-32]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/the-adventures-of-willy-beamish/) – visual praise, four-day structure, real-life parodies, loading times, Sega CD changes
 [^ref-33]: [Sega-16 – Review](https://www.sega-16.com/2005/10/adventures-of-willy-beamish/) – 8/10 score, "too short" criticism
 [^ref-34]: MyAbandonware – Willy Beamish *(download link removed: the game is sold commercially)* – user rating
 [^ref-35]: [Neoseeker – Walkthrough](https://www.neoseeker.com/the-adventures-of-willy-beamish/faqs/125982-adventures-willy-beamish-b.html) – Tunnell's Incredible Machine connection
-[^ref-36]: [Sega-16 – Behind the Design](https://www.sega-16.com/2007/03/behind-the-design-adventures-of-willy-beamish/) – development size, Ernest Adams quote, Tunnell regret
-[^ref-37]: [Retro365 – Dynamix's Adventures](https://retro365.blog/2024/08/23/dynamixs-adventures/) – man-hours, animation count, text count
+[^ref-36]: [Sega-16 – Behind the Design](https://www.sega-16.com/2007/03/behind-the-design-adventures-of-willy-beamish/) – original team (seven animators, forty members, one year), Sega CD port team (fifty-plus), Ernest Adams quote, Tunnell regret
+[^ref-37]: [Retro365 – Dynamix's Adventures](https://retro365.blog/2024/08/23/dynamixs-adventures/) – seven full-time animators (its man-hour/scene/animation figures are for Rise of the Dragon, not this game)
 [^ref-38]: [VOGONS – MT-32 Discussion](https://www.vogons.org/viewtopic.php?t=44389) – CD version audio limitations
 [^ref-39]: [Pixelated Arcade – Tech Specs](https://www.pixelatedarcade.com/games/the-adventures-of-willy-beamish/techspecs) – floppy version requirements
 [^ref-40]: [Amiga Reviews](https://www.amigareviews.leveluphost.com/willybea.htm) – 12 disk count, price
 [^ref-42]: [Sierra Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Tunnell departure
-[^ref-43]: [GOGDB – Willy Beamish](https://www.gogdb.org/product/1405562076) – GOG version history
-[^ref-44]: [MobyGames – Trivia](https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/trivia) – awards, packaging, version differences
+[^ref-43]: [GOGDB – Willy Beamish](https://www.gogdb.org/product/1405562076) – GOG release date (2017-03-02), build history
+[^ref-44]: [MobyGames – Trivia](https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/trivia) – awards, packaging, DOS vs. Sega CD palette differences
 [^ref-45]: [TV Tropes – Willy Beamish](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheAdventuresOfWillyBeamish) – easter eggs, speed bugs, cult status
 [^ref-46]: [Behind the Voice Actors – Willy Beamish](https://www.behindthevoiceactors.com/video-games/the-adventures-of-willy-beamish/) – complete voice cast
 [^ref-47]: [Sega-16 – Behind the Design: Adventures of Willy Beamish](https://www.sega-16.com/2007/03/behind-the-design-adventures-of-willy-beamish/) – forty-two characters voiced by professional actors for the CD port
 [^ref-48]: [Entertainment Weekly Archive](https://web.archive.org/web/20150925055018/http://www.ew.com/article/1993/08/20/videogames-latest-location) – retail price
 [^ref-49]: [Gaming History 101](https://gaminghistory101.com/2012/11/07/willy-beamish/) – secondary market prices
 [^ref-50]: [ComicBook.com – Xbox Game Pass](https://comicbook.com/gaming/news/xbox-game-pass-sega-cd-new-games/) – Activision acquisition
-[^ref-51]: [TrueAchievements – Retro Classics](https://www.trueachievements.com/news/xbox-game-pass-retro-classics-august-2026) – first Sega CD game on Game Pass
+[^ref-51]: [TrueAchievements – Retro Classics August 2025](https://www.trueachievements.com/news/xbox-game-pass-retro-classics-august-2025) – first Sega CD game in the Retro Classics app
 [^ref-52]: [Reddit – Nostalgia](https://www.reddit.com/r/nostalgia/comments/1c0s0aq/one_of_my_favorite_computer_games_the_adventures/) – fan memories
-[^ref-53]: [Internet Archive – Hint Book](https://archive.org/stream/extras_msdos_Adventures_of_Willy_Beamish_The_1991) – hint book existence: [ScummVM News – v2026.1.0 Release](https://www.scummvm.org/news/20260131/) – Full support for The Adventures of Willy Beamish added
-[^ref-54]: [Sierra Chest – Willy Beamish](https://www.sierrachest.com/index.php?a=games&id=337) – release date, Frumpton setting, mature themes
+[^ref-53]: [Internet Archive – Hint Book](https://archive.org/stream/extras_msdos_Adventures_of_Willy_Beamish_The_1991) – hint book existence
+[^ref-54]: [Sierra Chest – Willy Beamish](https://www.sierrachest.com/index.php?a=games&id=337) – release date, Frumpton setting, mature themes, third DGDS game
+[^ref-55]: [GOG.com News – Release: The Adventures of Willy Beamish (Wayback Machine, March 2017)](https://web.archive.org/web/20170327151907/https://www.gog.com/news/release_the_adventures_of_willy_beamish) – "foul-smelling catastrophe" plot summary
+[^ref-56]: [ScummVM News – v2026.1.0 "Like a Version"](https://www.scummvm.org/news/20260131/) – Willy Beamish listed under Newly Supported Games
