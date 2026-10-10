@@ -52,13 +52,13 @@ The narrative takes players through iconic New York City locations including Cen
 
 SWAT: Target Liberty employs an isometric diagonal-down perspective rather than the first-person view of its PC predecessors, a design decision made to accommodate the PSP's limited controls and screen size.[^ref-25] The game controls are simplified compared to the PC SWAT titles, with players able to perform tactical actions using intuitive button combinations.[^ref-15] Movement is controlled with the analog stick while various face buttons handle actions like shooting, taking cover, and issuing commands to squad members.[^ref-10]
 
-The game includes a unique first-person sniper view that activates at certain points, allowing players to pick off distant threats. However, critics noted that "given the overhead perspective's limited field of vision, it was disorienting to suddenly shift to a first-person view of something that had been offscreen a second ago."[^ref-2] Players can access a cheat code entry screen by pausing the game and holding L + R + Triangle + Left, which unlocks various gameplay modifications including invincibility and infinite ammunition.[^ref-16]
+The game includes a unique first-person sniper view that activates at certain points, allowing players to pick off distant threats. However, critics noted that "given the overhead perspective's limited field of vision, it was disorienting to suddenly shift to a first-person view of something that had been offscreen a second ago."[^ref-2] Players can access a cheat code entry screen by pausing the game and holding L + R + Triangle + Left, which unlocks various gameplay modifications including invincibility and infinite ammunition.[^ref-32]
 
 ### Structure and Progression
 
 Players take command of Officer Kurt Wolfe and can select two additional SWAT team members to accompany them on every mission.[^ref-1] Before each operation, players choose their squadmates from a roster of officers with distinct nicknames including "Hollywood," "Python," "Subway," and "Gramps," each possessing unique qualities and stats.[^ref-17] These team members can be assigned to "Blue" and "Red" teams for tactical purposes during missions.[^ref-12]
 
-Each SWAT member is unique and has their own set of qualities and stats that may be upgraded after each level, including skills like accuracy, observation, and interrogation ability.[^ref-18] The experience system rewards players for subduing enemies rather than killing them, encouraging tactical restraint over lethal force.[^ref-17] Completing missions cleanly—by restraining suspects and rescuing hostages without casualties—earns bonus team points that can be spent on upgrades.[^ref-5]
+Each SWAT member is unique and has their own attributes and stats, which can be upgraded after every level.[^ref-9] The experience system rewards players for subduing enemies rather than killing them, encouraging tactical restraint over lethal force.[^ref-17] Completing missions cleanly—by restraining suspects and rescuing hostages without casualties—earns bonus team points that can be spent on upgrades.[^ref-5]
 
 The main campaign can be completed in approximately 5-6 hours, with some sources indicating up to 7 hours for the main story and 11 hours for completionists.[^ref-19] Critics noted that "the game itself is not especially hard, so you'll find yourself breezing through most of the levels without even losing a guy."[^ref-11]
 
@@ -125,7 +125,6 @@ The ad-hoc multiplayer supported up to four players in various cooperative and c
 
 **UMD Version:**[^ref-9]
 - **Media:** UMD
-- **File Size:** 553.57 MB[^ref-18]
 - **Perspective:** Diagonal-down isometric
 - **Multiplayer:** Ad-hoc wireless, up to 4 players[^ref-10]
 - **ESRB Rating:** Teen (Blood, Language, Violence)[^ref-9]
@@ -156,8 +155,8 @@ The game's targeting system received criticism for being "clunky," and the camer
 
 ### Easter Eggs and Trivia
 
-- **Cheat Codes:** The game includes numerous cheat codes accessible by pausing and holding L + R + Triangle + Left to display the entry screen. Available cheats include invincibility for officers, players, and civilians; weapon access; infinite ammunition; and character visibility modifications.[^ref-16]
-- **Remixed Credits:** A special "remixed credits" cheat is available as an easter egg.[^ref-16]
+- **Cheat Codes:** The game includes numerous cheat codes accessible by pausing and holding L + R + Triangle + Left to display the entry screen. Available cheats include invincibility for officers, players, and civilians; weapon access; infinite ammunition; and character visibility modifications.[^ref-32]
+- **Remixed Credits:** A special "remixed credits" cheat is available as an easter egg.[^ref-32]
 - **Hard Mode:** Completing the game on easy or medium difficulty unlocks hard mode.[^ref-32]
 - **SWAT Training Videos:** Real SWAT training documentary footage can be unlocked by completing missions, providing educational context for the game's tactical procedures.[^ref-20]
 - **Sierra Logo Variation:** The game features a unique Sierra Entertainment logo intro with "a dark blue tinted camera static applied to the logo, to which the mountain forms far quicker than normal. The final result of the logo zooms in rather than fading in, and it begins to flicker, which soon causes the screen to flicker as well (with the fuzzy lines seen on Analog TV), and then it cuts to the opening movie."[^ref-33]
@@ -248,9 +247,7 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 [^ref-12]: [TV Tropes – SWAT: Target Liberty](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SWATTargetLiberty) – Kurt Wolfe/Boss connection, Hammer of God terrorists, team composition
 [^ref-13]: [VGChartz – Game Summary](https://www.vgchartz.com/game/12293/swat-target-liberty/) – New York locations, script writer, skill upgrade system
 [^ref-15]: [Amazon – UK Import](https://www.amazon.com/SWAT-Target-Liberty-PSP-Activision-Blizzard/dp/B000WGZDY0) – VonShrender user review on simplified controls
-[^ref-16]: [Cheat Code Central](https://www.cheatcc.com/articles/swat-target-liberty-cheats-codes-cheat-codes-walkthrough-guide-faq-unlockables-for-psp-psp/) – cheat code access, available cheats, remixed credits easter egg
 [^ref-17]: [IGN – Review](https://www.ign.com/articles/2007/10/18/swat-target-liberty) – Sam Bishop review, 4.5 score, squad member nicknames, AI criticism
-[^ref-18]: [ROMsPure – Game Info](https://romspure.cc/roms/sony-psp/swat-target-liberty/) – file size, stat upgrades, download statistics
 [^ref-19]: [IGN – Game Page](https://www.ign.com/games/swat-target-liberty) – game length estimates, top-down view description
 [^ref-20]: [Games Asylum – Review](https://www.gamesasylum.com/2007/11/24/swat-target-liberty/) – door entry techniques, SWAT training videos, tactical options
 [^ref-21]: [MobyGames – SWAT Elite Troops](https://www.mobygames.com/game/32960/swat-elite-troops/) – mission types, gameplay description
@@ -264,5 +261,5 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 [^ref-29]: [Game Companies Database](https://gamecompanies.com/games/swat-target-liberty) – 3G Studios developer info, Police Quest universe connection
 [^ref-30]: [Wikidata – SWAT: Target Liberty](https://www.wikidata.org/wiki/Q3944006) – PEGI rating, platform listings
 [^ref-31]: [VGChartz – Sales Data](https://www.vgchartz.com/game/12293/swat-target-liberty/cheats) – worldwide sales figures, regional breakdown, PSN release
-[^ref-32]: [GameFAQs – Cheats](https://gamefaqs.gamespot.com/psp/939011-swat-target-liberty/cheats) – hard mode unlock condition
+[^ref-32]: [GameFAQs – SWAT: Target Liberty Cheats](https://gamefaqs.gamespot.com/psp/939011-swat-target-liberty/cheats) – cheat entry (L + R + Triangle + Left), invincibility, infinite ammo, Remixed Credits, hard mode unlock
 [^ref-33]: [AVID Wiki – Sierra Logo Variations](https://www.avid.wiki/Sierra_Entertainment/Logo_Variations) – unique logo intro description
