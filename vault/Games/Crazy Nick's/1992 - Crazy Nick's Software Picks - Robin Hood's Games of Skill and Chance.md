@@ -181,7 +181,7 @@ The game was released as part of the Crazy Nick's Software Picks series, which c
 
 ### Fan Projects
 
-No significant fan remake or modification projects have been documented for this specific title. The game can be run through ScummVM, which provides compatibility with Sierra's SCI engine games on modern systems[^ref-6]. ScummVM 2.1 and later versions support cloud saves on third-party cloud storage services[^ref-6]. The game is preserved on the Internet Archive[^ref-17] and documented in various gaming databases[^ref-13][^ref-14][^ref-15][^ref-16][^ref-18][^ref-19][^ref-20].
+No significant fan remake or modification projects have been documented for this specific title. The game can be run through ScummVM, which provides compatibility with Sierra's SCI engine games on modern systems[^ref-6]. ScummVM 2.1 and later versions support cloud saves on third-party cloud storage services[^ref-6]. The game is documented in various gaming databases[^ref-13][^ref-14][^ref-15][^ref-16][^ref-18][^ref-19][^ref-20].
 
 ### Related Publications
 
@@ -233,7 +233,6 @@ The game's modest reception and relative obscurity compared to its source materi
 [^ref-14]: [IGDB](https://www.igdb.com/games/crazy-nicks-software-picks-robin-hoods-games-of-skill-and-chance) – Internet Game Database entry
 [^ref-15]: GameFAQs *(link removed: it led to a different game's page)* – Game database entry
 [^ref-16]: [Wikidata](https://www.wikidata.org/wiki/Q28687789) – Structured metadata
-[^ref-17]: [Internet Archive](https://archive.org/details/msdos_Crazy_Nicks_Software_Picks_-_Robin_Hoods_Games_of_Skill_and_Chance_1992) – Playable preservation copy
 [^ref-18]: [UVList](https://www.uvlist.net/game-217098-crazy-nicks-software-picks-robin-hoods-games-of-skill-and-chance) – Universal Videogame List
 [^ref-19]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Crazy_Nick%27s_Software_Picks) – Wiki information
 [^ref-20]: [LaunchBox Games DB](https://gamesdb.launchbox-app.com/games/details/85635) – Game database with metadata

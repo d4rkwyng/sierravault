@@ -292,7 +292,7 @@ As Jeff Tunnell reflected on the franchise's 30th anniversary, "Working on Contr
 ## References
 
 [^ref-1]: [MobyGames – The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) – developer, publisher, platforms, awards, ratings, release dates, Easter eggs
-[^ref-2]: [Games Nostalgia – Incredible Machine](https://gamesnostalgia.com/game/incredible-machine) – critical assessment, file sizes, version info
+[^ref-2]: [Games Nostalgia – Incredible Machine](https://gamesnostalgia.net/game/incredible-machine) – critical assessment, file sizes, version info
 [^ref-3]: [Academic Kids Encyclopedia](https://academickids.com/encyclopedia/index.php/The_Incredible_Machine) – physics engine details, deterministic simulation, awards, patent info
 [^ref-4]: [GamesIndustry.biz – PushButton Labs Acquisition](https://www.gamesindustry.biz/the-incredible-machine-physics-puzzle-ip-acquired-by-pushbutton-labs-series-now-available-from-gog-com) – Jeff Tunnell quote, sales data, patent info
 [^ref-5]: [Wikipedia – The Incredible Machine (1993)](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game)) – development budget, sales figures, review scores, awards, CGW quotes

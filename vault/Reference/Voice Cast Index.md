@@ -182,7 +182,7 @@ Discrepancies between sources should be noted with "(per Source X)" annotations 
 [^ref-btva]: [Behind The Voice Actors — Sierra games](https://www.behindthevoiceactors.com) — Voice-actor database
 [^ref-mobygames-vc]: [MobyGames — Voice cast indexes](https://www.mobygames.com) — Cross-reference for voice credits
 [^ref-imdb-games]: [IMDb — Sierra games](https://www.imdb.com) — Hollywood-talent crossover documentation
-[^ref-rps-kq-vc]: [Rock Paper Shotgun — King's Quest 2015 voice cast](https://www.rockpapershotgun.com/kings-quest-2015-cast) — Voice cast details
+[^ref-rps-kq-vc]: [Game Informer — Great Scott! Christopher Lloyd And Other Famous Voices Join King's Quest Cast](https://gameinformer.com/games/kings_quest/b/xbox360/archive/2015/05/11/great-scott-christopher-lloyd-and-other-famous-voices-join-king-s-quest-cast) — King's Quest (2015) voice cast announcement
 [^ref-vc-history]: Adventure Gamers — voice acting history *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no clean pre-sale archived copy found)* — Voice-acting era retrospective (Cloudflare-protected; view in browser)
 [^ref-kq6-vc]: [Wikipedia — King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) — Voice cast documentation
 [^ref-gk1-vc]: [Wikipedia — Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — Tim Curry casting

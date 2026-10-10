@@ -263,5 +263,5 @@ For submarine enthusiasts, Fast Attack remains a notable historical artifact, of
 [^ref-15]: [eBay Product Listing](https://www.ebay.com/p/56677913) – ESRB rating, media format
 [^ref-16]: [Kotaku – Fast Attack](https://kotaku.com/games/fast-attack-high-tech-submarine-warfare) – game description
 [^ref-17]: [Metacritic – Fast Attack](https://www.metacritic.com/game/fast-attack-high-tech-submarine-warfare/) – genre classification
-[^ref-18]: [Never Die Media – Product Page](https://www.neverdiemedia.com/products/fast-attack-high-tech-submarine-warfare) – game description, compatibility
+[^ref-18]: [Never Die Media – Product Page](https://web.archive.org/web/20250522152930/https://www.neverdiemedia.com/products/fast-attack-high-tech-submarine-warfare) (archived) – game description, compatibility
 [^ref-20]: [MobyGames – Reviews](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/reviews/) – aggregate review scores

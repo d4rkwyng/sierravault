@@ -10,7 +10,7 @@ series: PGA Championship Golf
 engine: TrueSwing 3
 protagonist: Custom Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: PGA Championship Golf 2000 stands as one of the most comprehensive and
   critically acclaimed golf simulations ever released for the PC platform. Developed
   by...
@@ -18,7 +18,7 @@ tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -147,7 +147,7 @@ The game featured improved graphics over its predecessor, though it remained sof
 
 **Media:**[^ref-24]
 - **Discs:** 2 CD-ROMs
-- **File Size:** 596.7MB (full installation)
+- **Disc images:** ~293 MB (CD 1, Install) and ~650 MB (CD 2, Courses)
 
 **Retail Price:**[^ref-8]
 - **Launch:** $35.95
@@ -240,7 +240,7 @@ The legacy of PGA Championship Golf 2000 extends beyond Sierra. When Headgate St
 - Not currently available on digital storefronts
 
 **Download / Preservation**
-- [Internet Archive – PGA Championship Golf 2000](https://archive.org/details/pc-pga-championship-golf-2000)[^ref-24]
+- [Internet Archive – Sierra PGA Championship Golf 99](https://archive.org/details/Sierra_PGA_Championship_Golf_99_Win95_1999_Eng)[^ref-24]
 - [MyAbandonware – PGA Championship Golf 2000](https://www.myabandonware.com/game/pga-championship-golf-2000-a5h)[^ref-19]
 
 **Patches & Updates**
@@ -278,7 +278,7 @@ The legacy of PGA Championship Golf 2000 extends beyond Sierra. When Headgate St
 [^ref-21]: [SportPlanet Interview](https://web.archive.org/web/20010501103026/http://www.sportplanet.com/features/interviews/pgac2000/) – Mike Jacob interview, ReadyPlay, development goals
 [^ref-22]: [Filfre.net – Golf Game History](https://www.filfre.net/?s=PGA+Championship+Golf) – Michael Boone quote on early development
 [^ref-23]: [CDMag – Beta Testers Wanted](https://web.archive.org/web/20030525180012/http://www.cdmag.com/articles/027/103/pga2000.html) – beta testing requirements
-[^ref-24]: [Internet Archive – PGA Championship Golf 2000](https://archive.org/details/pc-pga-championship-golf-2000) – file size, disc count
+[^ref-24]: [Internet Archive – Sierra PGA Championship Golf 99 (Win95)(1999)](https://archive.org/details/Sierra_PGA_Championship_Golf_99_Win95_1999_Eng) – two-CD set (Install, Courses), disc image sizes
 [^ref-25]: [Sierra Help – Patches](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PGAChampionshipGolfUpdates.html) – version history, patch details
 [^ref-26]: [CDMag – PGA 2000 Patch](https://web.archive.org/web/20030525180922/http://www.cdmag.com/articles/029/066/pga2000.html) – patch details, bug fixes
 [^ref-27]: [GameSpot – Collector's Edition](http://www.gamespot.com/pc/sports/pgachampionshipgolf2000/news_2775868.html) – 12 new courses, 32 total

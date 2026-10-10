@@ -39,7 +39,7 @@ However, it was Grand Prix Legends in 1998 that perhaps best exemplified Kaemmer
 
 After leaving Papyrus in 2002, Kaemmer embarked on his most ambitious project yet: founding iRacing, an online racing simulation service that would revolutionize competitive sim racing.[^ref-18] Now a 57-year-old resident of suburban Boston, Massachusetts, Kaemmer continued to push the boundaries of what was possible in racing simulation technology.[^ref-19] At iRacing, he has continued to refine his approach to tire modeling and physics simulation, with industry experts noting: "He's a genius at developing the tyre model. He's doing things with the tyre model that even tyre manufacturers don't attempt to do."[^ref-20]
 
-iRacing represents the culmination of Kaemmer's decades-long pursuit of ultimate realism in racing simulation, combining advanced physics modeling with competitive online racing and official partnerships with major racing series including NASCAR and Formula One.[^ref-1] The service has become the premier destination for serious sim racers and professional drivers looking to practice and compete in virtual environments that closely mirror real-world racing conditions.
+iRacing represents the culmination of Kaemmer's decades-long pursuit of ultimate realism in racing simulation, combining advanced physics modeling with competitive online racing and official partnerships with major racing series such as NASCAR.[^ref-1] The service has become the premier destination for serious sim racers and professional drivers looking to practice and compete in virtual environments that closely mirror real-world racing conditions.
 
 ## Notable Works
 
@@ -93,7 +93,7 @@ Professional drivers and racing industry figures have consistently praised Kaemm
 ## References
 
 
-[^ref-1]: [Podcast Episode 5: The Dave Kaemmer Interview](https://podcastone.com/episode/Episode-5-The-Dave-Kaemmer-Interview) — Career overview and achievements
+[^ref-1]: [iRacing Downshift #5: The Dave Kaemmer Interview](https://www.iracing.com/iracing-downshift-5-the-dave-kaemmer-interview/) — "simracing legend", "For over 30 years, Dave has pushed simracing forward"
 [^ref-2]: [Motorsport Magazine: The man who made iRacing](https://www.motorsportmagazine.com/archive/article/october-2021/106/the-man-who-made-iracing-dave-kaemmers-smash-hit/) — Biography and education details
 [^ref-3]: [YouTube Interview with Dave Kaemmer](https://www.youtube.com/watch?v=Xd6ZtQkKUM4) — Industry recognition quotes
 [^ref-4]: [DOS Games Archive: Papyrus Design Group](https://www.dosgamesarchive.com/profile/papyrus-design-group/) — Design philosophy quotes
@@ -104,7 +104,7 @@ Professional drivers and racing industry figures have consistently praised Kaemm
 [^ref-9]: [Podcast365: Dave Kaemmer Interview](https://podcast365.de/folgen/iracing-downshift/episode-5-the-dave-kaemmer-interview-lTRIZWzQVS) — Design vision and philosophy
 [^ref-10]: Adventure Gamers: Dave Kaemmer Search *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Game development approach
 [^ref-11]: [Autoweek: How a book helped take iRacing to the next level](https://www.autoweek.com/racing/more-racing/a31737380/how-a-book-about-racetracks-helped-take-iracing-to-the-next-level/) — Design influences and methodology
-[^ref-12]: [Retro Gamer: Dave Kaemmer Coverage](https://www.retrogamer.net/?s=Dave+Kaemmer) — Sierra acquisition timeline
+[^ref-12]: [Wikipedia — Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — Sierra On-Line acquired Papyrus in late 1995
 [^ref-13]: [The Shop Magazine: iRacing acquires NASCAR Sprint Car developer](https://theshopmag.com/news/iracing-acquires-nascar-sprint-car-video-game-developer/) — Industry partnerships and acquisitions
 [^ref-14]: [GameSpot: History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) — Development history and challenges
 [^ref-15]: [iRacing.com: Dave Kaemmer Tag](https://www.iracing.com/tag/dave-kaemmer/) — NASCAR Racing series impact

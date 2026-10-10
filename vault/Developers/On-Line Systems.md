@@ -34,7 +34,7 @@ By 1982, the rapid growth and success of On Line Systems led to a significant re
 
 Under the Sierra banner, the company continued to push technological boundaries with increasingly sophisticated adventure games. The development of the Adventure Game Interpreter (AGI) engine allowed for more complex puzzles, better graphics, and enhanced storytelling capabilities.[^ref-17] This period saw the creation of some of Sierra's most beloved franchises, including King's Quest, Space Quest, and Leisure Suit Larry, all of which traced their lineage back to the foundational work done during the On Line Systems era.[^ref-18]
 
-The company's headquarters eventually moved from the Williams' home in Coarsegold to larger facilities that could accommodate their growing team of developers, artists, and support staff.[^ref-19] This expansion allowed Sierra On-Line to take on more ambitious projects and establish itself as a major force in the software entertainment industry, but the core vision established during the On Line Systems days remained central to their identity.[^ref-20]
+The company's headquarters eventually moved from the Williams' home in Coarsegold to larger facilities that could accommodate their growing team of developers, artists, and support staff.[^ref-19] This expansion allowed Sierra On-Line to take on more ambitious projects and establish itself as a major force in the software entertainment industry, but the core vision established during the On Line Systems days remained central to their identity.
 
 ## Notable Games
 
@@ -87,7 +87,7 @@ The company's evolution into Sierra On-Line created one of the most influential 
 [^ref-8]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Sierra_Entertainment) — Detailed game development history
 [^ref-9]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems) — Complete games catalog
 [^ref-10]: [BoardGameGeek - On-Line Systems Publisher](https://boardgamegeek.com/videogamepublisher/38147/on-line-systems) — Publishing details and game releases
-[^ref-11]: [OBS Global - Online Business Systems](https://www.obsglobal.com/uncategorized/online-business-systems-joins-cgi/) — Corporate acquisitions and business development
+[^ref-11]: [The Digital Antiquarian — Mystery House, Part 1](https://www.filfre.net/2011/10/mystery-house-part-1/) and [On-Line Systems is Born](https://www.filfre.net/2011/10/on-line-systems-is-born/) — Mystery House's traced line-drawn pictures; Ken Williams's business drive
 [^ref-12]: [Avid Wiki - Sierra Entertainment](https://www.avid.wiki/Sierra_Entertainment) — Technical specifications and development tools
 [^ref-13]: [HistoryLink - Sierra Entertainment](https://www.historylink.org/File/20919) — Pacific Northwest gaming industry development
 [^ref-14]: [Reference for Business - Sierra On-Line Inc](https://www.referenceforbusiness.com/history2/98/Sierra-On-Line-Inc.html) — Business strategy and market expansion
@@ -96,4 +96,3 @@ The company's evolution into Sierra On-Line created one of the most influential 
 [^ref-17]: [Giant Bomb - On-Line Systems](https://www.giantbomb.com/search/?q=On-Line+Systems&filter=company) — Game database and development details
 [^ref-18]: [CGI - Online Business Systems Acquisition](https://www.cgi.com/en/cgi-expands-winnipeg-presence-canadian-footprint-acquisition-online-business-systems) — Modern business acquisitions
 [^ref-19]: [BoardGameGeek - On-Line Systems Developer](https://boardgamegeek.com/videogamedeveloper/38147/on-line-systems) — Development team and creative process
-[^ref-20]: [On-Line Systems Contact](https://www.on-linesystems.com/contact-us) — Current operational status and contact information

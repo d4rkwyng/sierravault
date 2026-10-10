@@ -236,7 +236,7 @@ The game is preserved in multiple archives and databases, with documentation ava
 [^ref-6]: [MobyGames – User Review by Katakis](https://www.mobygames.com/game/10343/hi-res-adventure-4-ulysses-and-the-golden-fleece/user-review/2536897/) – parser system, technical specs, Hercules reference, C64 version notes
 [^ref-7]: [Internet Archive – ScummVM 2.0.0 Release Notes](https://archive.org/details/scummvm-2.0.0) – ScummVM support, modern platform compatibility
 [^ref-10]: [Sierra Gamers – Ulysses and the Golden Fleece](https://www.sierragamers.com/ulysses-and-the-golden-fleece/) – engine details, interface description, package versions
-[^ref-9]: [Consolidated Research Sources](https://sierragamersarchive.com) – game description, quest objectives
+[^ref-9]: [Sierra Gamers – Ulysses and the Golden Fleece](https://www.sierragamers.com/ulysses-and-the-golden-fleece/) – game description, quest objectives
 [^ref-11]: [PixelatedArcade – Hi-Res Adventure #4](https://pixelatedarcade.com/games/hi-res-adventure-4-ulysses-and-the-golden-fleece) – gameplay mechanics, save system, IBM implementers, copy protection
 [^ref-12]: [MyAbandonware – Hi-Res Adventure #4](https://www.myabandonware.com/game/hi-res-adventure-4-ulysses-and-the-golden-fleece-1s6) – user rating, file size, technical perspectives
 [^ref-13]: [Internet Archive – Sierra On-Line Hi-Res Adventures Catalog](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) – Apple platform, catalog documentation

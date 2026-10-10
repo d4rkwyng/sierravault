@@ -208,7 +208,7 @@ Today, the Pro Pilot series serves as a historical artifact documenting Sierra's
 [^ref-4]: [MobyGames – Sierra Pro Pilot '98](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/) – developer credits, technical specifications, critic scores, installation issues
 [^ref-5]: [GOG.COM – Dreamlist Entry](https://www.gog.com/dreamlist/game/sierra-pro-pilot-98-the-complete-flight-simulator-1997) – aircraft list, gameplay features, community interest
 [^ref-6]: [Airliners.net Forum Discussion](https://www.airliners.net/forum/viewtopic.php?t=793785) – user experiences, technical issues, legacy compatibility, pricing history
-[^ref-7]: [Redump Wiki – Sierra/Vivendi Publisher List](http://wiki.redump.org/index.php?title=Sierra_/_Vivendi_USA_-_Publisher_List) – catalog information, preservation status
+[^ref-7]: [Redump Wiki – Sierra/Vivendi Publisher List](https://web.archive.org/web/20260615183649/http://wiki.redump.org/index.php?title=Sierra_/_Vivendi_USA_-_Publisher_List) – catalog information, preservation status
 [^ref-8]: [Steam Store Search](https://store.steampowered.com/search/?term=Sierra+Pro+Pilot+USA) – digital availability status
 [^ref-9]: [GOG.com Search](https://www.gog.com/en/games?query=Sierra+Pro+Pilot+USA) – digital availability status
 [^ref-10]: [Dynamix Press Release (Archived)](https://web.archive.org/web/19980627112336/http://www.dynamix.com/pr/pp-pr.html) – December 5, 1997 announcement, official feature list

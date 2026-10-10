@@ -143,7 +143,7 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 [^ref-10]: [Amazon - Sierra Betrayal in Antara](https://www.amazon.com/Sierra-Betrayal-in-Antara/dp/B00083B6DE) – - Customer reviews and game features
 [^ref-11]: [PC Gaming Wiki - Betrayal in Antara](https://www.pcgamingwiki.com/wiki/Betrayal_in_Antara) – - Technical specifications and system requirements
 [^ref-12]: [GOG Forum - Betrayal in Antara Guide](https://www.gog.com/forum/krondor_series/betrayal_in_antara_what_you_need_to_know) – - Gameplay mechanics information
-[^ref-13]: [The Spoiler Centre - Betrayal in Antara Tips](https://the-spoiler.com/RPG/Sierra/betrayal.in.antara.2.html) – - Gameplay tips and character development
+[^ref-13]: [The Spoiler Centre - Betrayal in Antara Tips](https://rpggamers.com/walkthrough/betrayal-in-antara-hints-2) – - Gameplay tips and character development
 [^ref-14]: [Easter Eggs Database](https://eeggs.com/items/31623.html) – - Cheat codes and cultural references
 [^ref-15]: [KHInsider - Betrayal in Antara Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/betrayal-in-antara-1997-windows) – - Audio file details and soundtrack information
 [^ref-16]: [Metacritic - Betrayal in Antara](https://www.metacritic.com/game/betrayal-in-antara/) – - User review aggregation

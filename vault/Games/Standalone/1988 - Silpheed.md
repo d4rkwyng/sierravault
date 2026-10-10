@@ -306,7 +306,7 @@ The game's influence extended beyond its immediate commercial success. The tilte
 [^ref-21]: [GameFAQs Review by Kuro-chan_101](https://gamefaqs.gamespot.com/pc/579259-silpheed/reviews/157232) – level count, gameplay description
 [^ref-23]: [MobyGames Ad Blurbs](https://www.mobygames.com/game/167/silpheed/adblurbs/) – marketing descriptions, enemy types
 [^ref-25]: [MobyGames Credits](https://www.mobygames.com/game/167/silpheed/credits/pc88/) – voice cast information
-[^ref-27]: [The Spoiler – Silpheed FAQ](https://the-spoiler.com/ACTION/Sierra/silpheed.1.html) – Easter Egg power-up description
+[^ref-27]: [The Spoiler – Silpheed FAQ](https://coregamers.com/walkthrough/silpheed-superdogfighter) – Easter Egg power-up description
 [^ref-29]: [Amiga Magazine Rack – ACE Review](https://amr.abime.net/review_6922) – ACE magazine score and date
 [^ref-30]: [IGN – Silpheed Review (2008)](https://www.ign.com/articles/2008/07/24/silpheed-review) – retrospective analysis and score
 [^ref-31]: [IMDB – Silpheed](https://www.imdb.com/find/?q=Silpheed&s=tt) – user rating

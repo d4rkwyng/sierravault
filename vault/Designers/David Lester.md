@@ -111,7 +111,7 @@ Lester's post-Impressions work at Firefly Studios continued his legacy in strate
 
 ## References
 
-[^ref-1]: [Games Nostalgia - Legendary Designers: David Lester](https://gamesnostalgia.com/story/156/legendary-game-designers-david-lester) — Comprehensive profile covering career history, game development credits, and design philosophy
+[^ref-1]: [Games Nostalgia - Legendary Designers: David Lester](https://gamesnostalgia.net/person/david-lester) — Comprehensive profile covering career history, game development credits, and design philosophy
 [^ref-2]: [Companies Made Simple - David Lester Case Study](https://www.companiesmadesimple.com/blogs/inspiration-start-up-stories/real-business-case-study-david-lester) — Detailed business interview with direct quotes, sales figures, and career timeline
 [^ref-3]: [Reddit - Impressions Games Community](https://www.reddit.com/r/impressionsgames/) — Community discussions about Impressions Games titles and history
 [^ref-4]: [Wikipedia - Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) — Founding date, Sierra acquisition, financial performance, and complete game catalog
@@ -125,4 +125,4 @@ Lester's post-Impressions work at Firefly Studios continued his legacy in strate
 [^ref-12]: [MobyGames - Lords of the Realm II Credits](https://www.mobygames.com/game/973/lords-of-the-realm-ii/credits/) — Designer credit alongside Chris Beatrice and Simon Bradbury
 [^ref-13]: [GOG - Caesar III](https://www.gog.com/en/game/caesar_3) — Game availability and continued commercial presence
 [^ref-14]: [GOG - Lords of the Realm II](https://www.gog.com/en/game/lords_of_the_realm_royal_edition) — Game availability in Royal Edition
-[^ref-15]: [Wikipedia - Stronghold Series](https://en.wikipedia.org/wiki/Stronghold_(video_game_series)) — Firefly Studios franchise and 7M+ sales
+[^ref-15]: [Wikipedia - Stronghold (series)](https://en.wikipedia.org/wiki/Stronghold_(series)) — Firefly Studios' Stronghold franchise (7M+ studio sales figure is from ref-5)

@@ -54,7 +54,7 @@ The technical achievements of Half-Life were equally impressive, with the game's
 
 ### Counter-Strike (2000)
 
-Originally developed as a mod for Half-Life by Minh Le and Jess Cliffe, Counter-Strike was acquired and officially developed by Valve, becoming one of the most influential competitive multiplayer games ever created[^ref-6]. The tactical team-based shooter pitted counter-terrorists against terrorists in round-based matches that emphasized strategy, communication, and precise gunplay over fast-paced action[^ref-7]. Valve's decision to hire the original mod creators and provide official support transformed Counter-Strike from a community project into a global esports phenomenon[^ref-8].
+Originally developed as a mod for Half-Life by Minh Le and Jess Cliffe, Counter-Strike was acquired and officially developed by Valve, becoming one of the most influential competitive multiplayer games ever created[^ref-6]. The tactical team-based shooter pitted counter-terrorists against terrorists in round-based matches that emphasized strategy, communication, and precise gunplay over fast-paced action[^ref-21]. Valve's decision to hire the original mod creators and provide official support transformed Counter-Strike from a community project into a global esports phenomenon[^ref-8].
 
 The game's impact on competitive gaming cannot be overstated - Counter-Strike established many of the conventions that modern esports titles still follow today, from its economy system where players purchase weapons and equipment to its emphasis on map knowledge and team coordination[^ref-9]. The franchise has continued to evolve through Counter-Strike: Source and Counter-Strike: Global Offensive, maintaining its position as one of the world's most popular competitive games[^ref-10].
 
@@ -111,7 +111,7 @@ The company's influence on game development practices, particularly their iterat
 [^ref-4]: [PESTEL Analysis - Valve Software Owners](https://pestel-analysis.com/blogs/owners/valvesoftware) — Ownership and business model analysis
 [^ref-5]: [MobyGames - Valve Corporation](https://www.mobygames.com/company/126/valve-corporation/) — Comprehensive game development history
 [^ref-6]: [IGN - Valve's Hardware Lineup](https://www.ign.com/articles/valves-next-gen-hardware-lineup-is-finally-confirmed-heres-everything-announced) — Hardware development initiatives
-[^ref-7]: [Academia Lab - Valve Corporation](https://academia-lab.com/enciclopedia/corporacion-de-valvulas/) — Academic analysis of company impact
+[^ref-7]: [Wikipedia - Steam (service)](https://en.wikipedia.org/wiki/Steam_(service)) — Largest PC game distribution platform (est. 75% market share as of 2013)
 [^ref-8]: [Business Model Navigator - Valve Case](https://businessmodelnavigator.com/case-firm?id=104) — Business model analysis
 [^ref-9]: [Avid Wiki - Valve Corporation](https://www.avid.wiki/Valve_Corporation) — Detailed company history
 [^ref-10]: [Sierra Gamers - Games Database](https://www.sierragamers.com/games/) — Sierra publishing relationship history
@@ -125,3 +125,4 @@ The company's influence on game development practices, particularly their iterat
 [^ref-18]: [Court Listener - Valve v. Sierra Opinion](https://www.courtlistener.com/opinion/2335905/valve-corp-v-sierra-entertainment-inc/) — Legal case documentation
 [^ref-19]: [Court Listener - Valve v. Sierra Docket](https://www.courtlistener.com/docket/4409951/valve-corporation-v-sierra-entertainment/?page=2) — Legal proceedings documentation
 [^ref-20]: [Vlex - Valve Corp v. Sierra Case](https://case-law.vlex.com/vid/valve-corp-v-sierra-893332739) — Legal case analysis and outcomes
+[^ref-21]: [Wikipedia - Counter-Strike (video game)](https://en.wikipedia.org/wiki/Counter-Strike_(video_game)) — Counter-Terrorists vs. Terrorists, objective-based rounds

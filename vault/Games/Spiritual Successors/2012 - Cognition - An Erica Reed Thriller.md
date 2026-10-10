@@ -190,8 +190,6 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 **Purchase / Digital Stores**
 - [Steam](https://store.steampowered.com/app/242780/Cognition_An_Erica_Reed_Thriller/) - Complete Season
 - [GOG.com](https://www.gog.com/game/cognition_an_erica_reed_thriller) - Game of the Year Edition
-- [iOS App Store](https://apps.apple.com/app/cognition-episode-1) - Mobile version
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.postudios.cognitionep1) - Android version
 - [Phoenix Online Store](https://store.postudios.com/) - Direct purchase with soundtrack[^ref-25]
 
 ## Downloads

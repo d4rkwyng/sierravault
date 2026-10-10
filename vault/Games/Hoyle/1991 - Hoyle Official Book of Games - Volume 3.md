@@ -191,7 +191,8 @@ Ken Williams himself expressed interest in extending Sierra's core technology to
 - [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
 
 **Download / Preservation**
-- [Internet Archive – Hoyle Volume 3](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_Vol._3_1991_Sierra) — preservation archive
+- [Internet Archive – Hoyle Official Book of Games: Volume 3 Demo](https://archive.org/details/HoyleOfficialBookofGamesVolume3_1020) — playable demo (six board games)
+- [Internet Archive – Hoyle Volume 3 paper instructions](https://archive.org/details/hoyle-offical-book-of-games-v3-instructions) — manual and box-insert scans
 
 ## See Also
 

@@ -22,7 +22,7 @@ tags: [1990s, dynamix, sierra, standalone]
 
 ## Overview
 
-*Sierra Soccer: World Challenge Edition* is an arcade-style soccer simulation developed by [[Dynamix]] with assistance from [[Coktel Vision]], published by [[Sierra On-Line]] in 1994 exclusively for the Amiga platform in the European market.[^ref-1][^ref-2][^ref-3][^ref-11][^ref-12][^ref-13][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21] Designed to capitalize on the excitement surrounding the 1994 FIFA World Cup, the game offered accessible yet addictive football action that distinguished itself from the more complex simulations dominating the Amiga scene.[^ref-4][^ref-5][^ref-14][^ref-15]
+*Sierra Soccer: World Challenge Edition* is an arcade-style soccer simulation developed by [[Dynamix]] with assistance from [[Coktel Vision]], published by [[Sierra On-Line]] in 1994 exclusively for the Amiga platform in the European market.[^ref-1][^ref-2][^ref-3][^ref-11][^ref-12][^ref-13][^ref-17][^ref-18][^ref-19] Designed to capitalize on the excitement surrounding the 1994 FIFA World Cup, the game offered accessible yet addictive football action that distinguished itself from the more complex simulations dominating the Amiga scene.[^ref-4][^ref-5][^ref-14][^ref-15]
 
 The game supported an impressive eight simultaneous players in tournament mode, making it one of the most socially-oriented football games available for the platform.[^ref-4][^ref-5][^ref-16] With over 4,000 frames of character animation and support for both standard Amiga and enhanced A1200 graphics modes, *Sierra Soccer* represented a technically ambitious project that aimed to compete with established franchises like Sensible Soccer and Kick Off.[^ref-4][^ref-5]
 
@@ -311,7 +311,7 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 - [MyAbandonware – Sierra Soccer](https://www.myabandonware.com/game/sierra-soccer-world-challenge-edition-7ix) – Amiga ADF download[^ref-1]
 - [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=2761) – ADF download, music, screenshots[^ref-6]
 - [OpenRetro Game Database](https://openretro.org/amiga/sierra-soccer-world-challenge-edition) – Technical information, credits[^ref-5]
-- [GamesNostalgia](https://gamesnostalgia.com/download/sierra-soccer-world-challenge-edition/2199) – Download with Windows compatibility[^ref-7]
+- [GamesVoyager (formerly GamesNostalgia downloads)](https://gamesvoyager.com/files/sierra-soccer-world-challenge-edition) – Download with Windows compatibility[^ref-7]
 - [ExoticA](https://www.exotica.org.uk/wiki/Sierra%20Soccer%20-%20World%20Challenge%20Edition) – Music preservation[^ref-6]
 
 ## See Also
@@ -338,7 +338,7 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 [^ref-4]: [LaunchBox Games Database – Sierra Soccer](https://gamesdb.launchbox-app.com/games/details/73025-sierra-soccer-world-challenge-edition) – 4000+ animation frames, 8-player support, A1200 3D crowd
 [^ref-5]: [OpenRetro – Sierra Soccer: World Challenge Edition](https://openretro.org/amiga/sierra-soccer-world-challenge-edition) – Gameplay details, controls, player attributes, formations, cheats
 [^ref-6]: [Lemon Amiga – Sierra Soccer](https://www.lemonamiga.com/games/details.php?id=2761) – Full credits, magazine reviews, preservation, ADF files, music
-[^ref-7]: [GamesNostalgia – Sierra Soccer](https://gamesnostalgia.com/download/sierra-soccer-world-challenge-edition/2199) – Download preservation
+[^ref-7]: [GamesVoyager (GamesNostalgia) – Sierra Soccer](https://gamesvoyager.com/files/sierra-soccer-world-challenge-edition) – Download preservation
 [^ref-8]: [Amiga Magazine Rack – Sierra Soccer Reviews](https://amr.abime.net/review_10090) – Multiple magazine scores compilation
 [^ref-9]: [The One Amiga Review (June 1994)](https://amr.abime.net/review_9395) – Simon Byron reviewer, 83% score
 [^ref-11]: [Hall of Light – Sierra Soccer](https://hol.abime.net/5150) – Amiga games database entry
@@ -350,5 +350,3 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 [^ref-17]: [LaunchBox Games Database – Sierra Soccer World Challenge Edition](https://gamesdb.launchbox-app.com/games/details/sierra-soccer-world-challenge-edition) — community-curated metadata, Amiga platform tagging
 [^ref-18]: Lemon Amiga – Sierra Soccer *(link removed: it led to a different game's page)* — Amiga community ratings and review scores
 [^ref-19]: [Adventure Classic Gaming – Dynamix sports-sim retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Dynamix's mid-1990s Sierra-published European sports output
-[^ref-20]: [Coktel Vision – Sierra Soccer co-production archive](https://www.coktelvision.com/) — Coktel-side documentation of the French/German localization and music production
-[^ref-21]: [Internet Archive – Sierra Soccer (Amiga preservation)](https://archive.org/details/sierra-soccer-world-challenge-edition) — Amiga disk image preservation archive

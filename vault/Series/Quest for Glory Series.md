@@ -7,12 +7,12 @@ first_release: 1989
 last_release: 1998
 total_games: 6
 genre: "Adventure RPG"
-last_updated: "2026-05-13"
+last_updated: "2026-10-09"
 ---
 
 # Quest for Glory Series
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ What set Quest for Glory apart was its character import system—players could t
 
 ## The Coles' Vision
 
-[[Corey Cole]] and [[Lori Ann Cole]] designed Quest for Glory to answer a simple question: "What if you could actually become the hero in an adventure game?"[^ref-4] Drawing from their backgrounds in tabletop RPGs and adventure gaming, they created a system where:
+[[Corey Cole]] and [[Lori Ann Cole]] designed Quest for Glory as a hybrid of adventure game and role-playing game[^ref-1], creating a system where:
 
 - **Character classes** (Fighter, Magic User, Thief, Paladin) offered different solutions
 - **Stats improved through use** - cast spells to raise magic, climb to build strength
@@ -165,7 +165,6 @@ The Coles continued their work after Sierra:
 [^ref-1]: [Wikipedia - Quest for Glory](https://en.wikipedia.org/wiki/Quest_for_Glory) – Hero's Quest trademark dispute
 [^ref-2]: [MobyGames - Quest for Glory Series](https://www.mobygames.com/group/398/quest-for-glory-series/) – Series database and genre classification
 [^ref-3]: [The Digital Antiquarian - Quest for Glory](https://www.filfre.net/2018/10/quest-for-glory-iii-and-iv/) – Character import system analysis
-[^ref-4]: [Adventure Classic Gaming - Corey Cole Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/173/) – Design philosophy quote
 [^ref-5]: [Kickstarter - Hero-U](https://www.kickstarter.com/projects/transolargames/hero-u-rogue-to-redemption) – Spiritual successor campaign
 [^ref-6]: [Steam - Summer Daze at Hero-U](https://store.steampowered.com/app/1490970/Summer_Daze_at_HeroU/) – Sequel release
 [^ref-7]: [Quest for Glory Omnipedia](https://questforglory.fandom.com/) – Fan wiki

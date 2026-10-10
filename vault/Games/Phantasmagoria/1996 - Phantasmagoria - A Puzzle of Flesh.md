@@ -40,7 +40,7 @@ Developed on a budget of $4.5 million with a cast of more than 30 professional a
 
 Curtis Craig is a quiet young man working as a technical writer for WynTech Industries corporation who has been out of a mental hospital for exactly one year[^ref-10]. Despite having a steady job and a lovely girlfriend named Jocilyn, Curtis begins experiencing strange and terrifying events around him - photographs bleed, rats speak, and his computer develops a vicious mind of its own[^ref-11]. As Curtis begins to doubt his own sanity and the very fabric of reality, a series of brutal murders begins to occur[^ref-12].
 
-Following a trail of hallucinations, blood, sex and murder victims, Curtis discovers he is not who he always thought he was[^ref-13]. The title "Puzzle of Flesh" refers to the puzzle of who Curtis really is, and the fact that his flesh is not his own[^ref-14]. Throughout his journey, Curtis encounters various characters including his therapist Dr. Marek, his co-worker Trevor Barnes, and the mysterious demonic entity known as the Hecatomb[^ref-15]. The game explores themes of identity, mental illness, sexuality, and supernatural horror as Curtis unravels the truth about his past and confronts the forces seeking to control him[^ref-16].
+Following a trail of hallucinations, blood, sex and murder victims, Curtis discovers he is not who he always thought he was[^ref-13]. The title "Puzzle of Flesh" refers to the puzzle of who Curtis really is, and the fact that his flesh is not his own[^ref-14]. Throughout his journey, Curtis encounters various characters including his therapist Dr. Harburg, his co-worker Trevor Barnes, and the mysterious demonic entity known as the Hecatomb[^ref-15]. The game explores themes of identity, mental illness, sexuality, and supernatural horror as Curtis unravels the truth about his past and confronts the forces seeking to control him[^ref-16].
 
 ## Gameplay
 
@@ -52,7 +52,7 @@ The game follows Sierra's traditional chapter-by-chapter structure, divided into
 
 ### Structure and Progression
 
-The game spans five chapters, each focusing on different aspects of Curtis's deteriorating mental state and the supernatural events surrounding him[^ref-23]. Players progress through the story by triggering specific plot events and completing relatively simple puzzles, though reviewers noted that many puzzles felt arbitrary or illogical[^ref-24]. The therapy sessions with Dr. Marek serve as a unique gameplay element where inventory objects are used to bring up discussion topics, providing backstory and character development[^ref-25].
+The game spans five chapters, each focusing on different aspects of Curtis's deteriorating mental state and the supernatural events surrounding him[^ref-23]. Players progress through the story by triggering specific plot events and completing relatively simple puzzles, though reviewers noted that many puzzles felt arbitrary or illogical[^ref-24]. The therapy sessions with Dr. Harburg serve as a unique gameplay element where inventory objects are used to bring up discussion topics, providing backstory and character development[^ref-25].
 
 Unlike traditional Sierra adventures, A Puzzle of Flesh features minimal inventory management and focuses heavily on narrative progression through full-motion video sequences[^ref-26]. The game includes multiple possible endings based on player choices, though the overall story arc remains largely fixed[^ref-27]. Easter eggs are scattered throughout the game, with a total of 480 possible Easter Egg points that can be discovered through exploration[^ref-28].
 
@@ -106,7 +106,7 @@ The video files were stored as DuckMotion (DUK) files, which are playable in mod
 
 ### Regional Censorship and Controversy
 
-The game faced significant censorship in multiple European and Oceanic territories due to its explicit content, being outright banned in some regions while severely modified in others[^ref-77]. This widespread international censorship reflected the game's willingness to depict mature themes including drug use, sexual violence, and psychological horror—topics that conservative ratings boards and government agencies considered inappropriate for interactive media at that time[^ref-78].
+The game faced significant censorship in multiple European and Oceanic territories due to its explicit content, being outright banned in some regions while severely modified in others[^ref-77]. The game was banned in Singapore and heavily censored in Australia[^ref-77].
 
 ## Legacy
 
@@ -152,7 +152,7 @@ Phantasmagoria: A Puzzle of Flesh is the second installment in the Phantasmagori
 [^ref-22]: http://www.adventureclassicgaming.com/index.php/site/reviews/11/ - Gameplay criticism and movie comparison
 [^ref-23]: https://gamefaqs.gamespot.com/pc/198286-phantasmagoria-a-puzzle-of-flesh/faqs/2194 - Chapter structure from complete walkthrough
 [^ref-24]: https://web.archive.org/web/19971022230858/http://www.game-revolution.com/games/pc/p2.htm - Puzzle design criticism
-[^ref-25]: https://the-spoiler.com/ADVENTURE/Sierra/phantasmagoria2.1.html - Therapy session mechanics description
+[^ref-25]: https://www.justadventure.com/walkthrough/phantasmagoria2/ - Therapy session mechanics description
 [^ref-26]: Adventure Gamers *(site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Inventory management analysis
 [^ref-27]: https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PhantasmagoriaAPuzzleOfFlesh - Multiple endings information
 [^ref-28]: https://sierrachest.com/index.php?a=games&id=41&title=phantasmagoria-2&fld=eggs - Easter egg documentation and point system
@@ -205,4 +205,3 @@ Phantasmagoria: A Puzzle of Flesh is the second installment in the Phantasmagori
 [^ref-75]: https://www.reddit.com/r/HorrorGames/comments/18g14j6/phantasmagoria_a_puzzle_of_flesh/ - Cult following discussion
 [^ref-76]: https://bloody-disgusting.com/video-games/3416238/20-years-later-overlooked-genius-phantasmagoria-puzzle-flesh/ - Influence on later horror games
 [^ref-77]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh#Reception_and_Censorship – Regional censorship and international bans
-[^ref-78]: https://www.eurogamer.net/articles/2021-08-12-how-phantasmagoria-2-tackled-mature-themes – European censorship history and regional restrictions

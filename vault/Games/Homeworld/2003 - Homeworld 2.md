@@ -293,6 +293,6 @@ The franchise changed hands multiple times following release. THQ acquired the H
 [^ref-43]: [ModDB – Dynamic Deathmatch Mod](https://www.moddb.com/mods/dynamic-deathmatch-mod) – mod details, features
 [^ref-44]: [Homeworld Archives – Prima Official eGuide](https://homeworldarchives.com/media/Homeworld_2_Prima_Official_eGuide.pdf) – strategy guide existence
 [^ref-45]: [Eurogamer – Relic Looking at Homeworld 3](http://www.eurogamer.net/articles/relic-definitely-looking-at-homeworld-3) – Jonny Ebbert quote
-[^ref-46]: [Gearbox Publishing – Homeworld 3](https://www.gearboxpublishing.com/game/homeworld-3/) – sequel details, timeline
+[^ref-46]: [Gearbox Publishing – Homeworld 3](https://web.archive.org/web/20240510233543/https://www.gearboxpublishing.com/game/homeworld-3/) (archived) – sequel details, timeline
 [^ref-47]: [Homeworld Universe – Deserts of Kharak](https://www.homeworlduniverse.com/games/homeworld-deserts-of-kharak/) – prequel information
 [^ref-48]: [Standard of Entertainment – Homeworld 2 Guides](https://standardof.net/games/homeworld-2-guides/) – "Single Player Campaign (15 Missions)"

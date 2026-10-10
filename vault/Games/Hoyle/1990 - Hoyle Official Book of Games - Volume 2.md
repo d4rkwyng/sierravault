@@ -207,7 +207,7 @@ The game's comprehensive collection of 28 solitaire variants provided substantia
 **Download / Preservation**
 - [ClassicReload](https://classicreload.com/hoyle-official-book-of-games-volume-2.html) - Browser-based play[^ref-6]
 - [Old Games Download](https://oldgamesdownload.com/hoyle-official-book-of-games-volume-2-solitaire/) - Multi-platform downloads[^ref-5]
-- [MyAbandonware](https://www.myabandonware.com/game/hoyle-official-book-of-games-volume-2-16v) - DOS version[^ref-10]
+- [MyAbandonware](https://www.myabandonware.com/game/hoyle-official-book-of-games-volume-2-solitaire-1vr) - DOS version[^ref-10]
 - [Internet Archive](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_2_1990) - Preservation copy[^ref-9]
 
 ## See Also
@@ -279,7 +279,7 @@ The game's comprehensive collection of 28 solitaire variants provided substantia
 [^ref-7]: [AbeBooks – Hoyle's Rules of Games](https://www.abebooks.com/9780451157386/Hoyles-Rules-Games-Play-Hoyle-0451157389/plp) – Hoyle brand publishing history, 28 solitaire varieties mention
 [^ref-8]: [ScummVM Wiki – Hoyle's Official Book of Games series](https://wiki.scummvm.org/index.php/Hoyle%27s_Official_Book_of_Games_series) – engine compatibility, series overview
 [^ref-9]: [Internet Archive – Hoyle Official Book of Games Volume 2](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_2_1990) – preservation copy, DOS version
-[^ref-10]: [MyAbandonware – Hoyle Official Book of Games Volume 2](https://www.myabandonware.com/game/hoyle-official-book-of-games-volume-2-16v) – download, platform list, user ratings
+[^ref-10]: [MyAbandonware – Hoyle Official Book of Games Volume 2](https://www.myabandonware.com/game/hoyle-official-book-of-games-volume-2-solitaire-1vr) – download, platform list, user ratings
 [^ref-11]: [Sierra Gamers – Hoyle Series](https://www.sierragamers.com/hoyle-2/) – series history, development context
 [^ref-12]: [Fictional Crossover Fandom – Hoyle's Official Book of Games](https://fictionalcrossover.fandom.com/wiki/Hoyle%27s_Official_Book_of_Games) – series connections
 [^ref-13]: [UVList – Hoyle Official Book of Games Volume 2](https://www.uvlist.net/game-48836-Hoyle+Official+Book+of+Games+Volume+2) – release information, technical data

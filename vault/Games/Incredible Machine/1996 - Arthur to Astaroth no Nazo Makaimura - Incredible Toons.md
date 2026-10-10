@@ -10,20 +10,20 @@ series: The Incredible Machine / Ghosts 'n Goblins
 engine: TIM Engine
 protagonist: Arthur
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'Arthur to Astaroth no Nazo Makaimura: Incredible Toons is a Japan-exclusive
   puzzle game released on August 30, 1996, for both the Sony PlayStation and Sega...'
 tags: [1990s, dynamix, puzzle, sierra, the-incredible-machine-ghosts-n-goblins]
 ---
 # Arthur to Astaroth no Nazo Makaimura: Incredible Toons
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
 Arthur to Astaroth no Nazo Makaimura: Incredible Toons is a Japan-exclusive puzzle game released on August 30, 1996, for both the Sony PlayStation and Sega Saturn[^ref-1][^ref-2]. The game represents a unique crossover between two distinct franchises: [[Dynamix|Dynamix's]] *The Incredible Machine* series and Capcom's beloved *Ghosts 'n Goblins* (known as *Makaimura* in Japan)[^ref-3][^ref-4]. This unusual collaboration resulted in a physics-based puzzle experience featuring the knight Arthur and the demonic creatures from Capcom's action platformer series, including chibi versions of Red Arremers and Astaroth[^ref-5].
 
-The game stands out as the only entry in *The Incredible Machine* franchise to feature an actual plot, distinguishing it from the purely mechanical puzzle focus of its predecessors[^ref-3][^ref-6]. Players must help Arthur navigate through increasingly complex puzzle chambers by placing various machines, traps, cogwheels, and other contraptions to fulfill specific objectives such as guiding Arthur to the exit[^ref-7]. The combination of the whimsical Rube Goldberg-style mechanics with the gothic fantasy setting of the Ghosts 'n Goblins universe creates a surprisingly humorous and engaging puzzle experience[^ref-6][^ref-7].
+The game stands out as the only entry in *The Incredible Machine* franchise to feature an actual plot, distinguishing it from the purely mechanical puzzle focus of its predecessors[^ref-3][^ref-6]. Players must help Arthur navigate through increasingly complex puzzle chambers by placing various machines, traps, cogwheels, and other contraptions to fulfill specific objectives such as guiding Arthur to the exit. The combination of the whimsical Rube Goldberg-style mechanics with the gothic fantasy setting of the Ghosts 'n Goblins universe creates a surprisingly humorous and engaging puzzle experience[^ref-6].
 
 Developed by Magical Formation Co., Ltd. under license from Dynamix, the game was published by Capcom exclusively for the Japanese market[^ref-1][^ref-9]. It features remixed music from the Ghosts 'n Goblins series and includes 100 puzzles along with an editor for creating custom puzzle designs[^ref-6][^ref-10]. The game has achieved cult status among collectors and retro gaming enthusiasts as one of the more obscure spinoffs in both franchises' histories[^ref-5].[^ref-22][^ref-23]
 
@@ -40,11 +40,11 @@ Developed by Magical Formation Co., Ltd. under license from Dynamix, the game wa
 
 ## Story Summary
 
-The game's narrative centers on the demon Satan, the recurring antagonist from the Ghosts 'n Goblins series who has repeatedly kidnapped Princess Prin-Prin[^ref-7]. Frustrated by Arthur's persistent heroism in rescuing the princess time and again, Satan devises a new scheme to finally defeat the valiant knight[^ref-7]. Rather than confronting Arthur directly in battle, Satan forms a pact with the powerful demon Astaroth to create a series of fiendish contraptions and impossible puzzles designed to prevent Arthur from ever reaching the princess[^ref-7].
+The game's narrative centers on the demon Satan, the recurring antagonist from the Ghosts 'n Goblins series who has repeatedly kidnapped Princess Prin-Prin. Frustrated by Arthur's persistent heroism in rescuing the princess time and again, Satan devises a new scheme to finally defeat the valiant knight. Rather than confronting Arthur directly in battle, Satan forms a pact with the powerful demon Astaroth to create a series of fiendish contraptions and impossible puzzles designed to prevent Arthur from ever reaching the princess.
 
-Astaroth, drawing upon his demonic ingenuity, designs elaborate mechanical traps and physics-based challenges that would confound even the most determined hero[^ref-7]. These are not ordinary obstacles but intricate Rube Goldberg-style mechanisms featuring cogwheels, conveyor belts, bombs, and various other hazardous devices[^ref-7]. The demons believe that by creating puzzles so complex and seemingly impossible, they can keep Arthur trapped forever while the princess remains their captive[^ref-7].
+Astaroth, drawing upon his demonic ingenuity, designs elaborate mechanical traps and physics-based challenges that would confound even the most determined hero. These are not ordinary obstacles but intricate Rube Goldberg-style mechanisms featuring cogwheels, conveyor belts, bombs, and various other hazardous devices. The demons believe that by creating puzzles so complex and seemingly impossible, they can keep Arthur trapped forever while the princess remains their captive.
 
-However, the player assumes the role of a benevolent force working to aid Arthur in his quest[^ref-6]. By carefully analyzing each puzzle chamber and strategically placing the available mechanical components, the player must help Arthur navigate through Astaroth's devious creations[^ref-7]. The narrative provides context for what would otherwise be abstract puzzle challenges, giving players an emotional stake in solving each level as they work to reunite the knight with his beloved princess[^ref-7].
+However, the player assumes the role of a benevolent force working to aid Arthur in his quest[^ref-6]. By carefully analyzing each puzzle chamber and strategically placing the available mechanical components, the player must help Arthur navigate through Astaroth's devious creations. The narrative provides context for what would otherwise be abstract puzzle challenges, giving players an emotional stake in solving each level as they work to reunite the knight with his beloved princess.
 
 ## Gameplay
 
@@ -52,7 +52,7 @@ However, the player assumes the role of a benevolent force working to aid Arthur
 
 Arthur to Astaroth no Nazo Makaimura employs a point-and-select interface that allows players to manipulate objects within each puzzle chamber[^ref-1]. The game supports both gamepad and mouse control options, providing flexibility in how players interact with the puzzle elements[^ref-1]. Players view the action from a side perspective with 2D scrolling, allowing them to survey the entire puzzle layout before and during execution[^ref-1].
 
-The core gameplay loop involves examining the pre-set elements of each puzzle, then selecting from available items to place strategically within the environment[^ref-7]. Once the player has positioned all their chosen components, they activate the puzzle to watch the chain reaction unfold in real-time[^ref-7]. If the setup fails to achieve the objective, players can reset and try a different configuration[^ref-7].
+The core gameplay loop involves examining the pre-set elements of each puzzle, then selecting from available items to place strategically within the environment[^ref-7]. Once the player has positioned all their chosen components, they activate the puzzle to watch the chain reaction unfold in real-time. If the setup fails to achieve the objective, players can reset and try a different configuration.
 
 ### Structure and Progression
 
@@ -81,11 +81,11 @@ The game features 100 distinct puzzles organized in sequential groups of five, c
 
 ### Puzzles and Mechanics
 
-The puzzle design draws directly from The Incredible Machine formula, requiring players to create chain reactions using various mechanical components[^ref-7][^ref-10]. Available items include machines, traps, cogwheels, and numerous other contraptions that interact with physics-based rules[^ref-7]. The objective varies by puzzle but often involves getting Arthur to reach an exit point or accomplishing specific goals within the chamber[^ref-7].
+The puzzle design draws directly from The Incredible Machine formula, requiring players to create chain reactions using various mechanical components[^ref-7][^ref-10]. Available items include machines, traps, cogwheels, and numerous other contraptions that interact with physics-based rules. The objective varies by puzzle but often involves getting Arthur to reach an exit point or accomplishing specific goals within the chamber.
 
 Notably, some puzzles take a dark comedic turn by requiring players to actually kill Arthur rather than save him, adding variety to the objectives[^ref-6]. The game incorporates items from the Ghosts 'n Goblins series, including the iconic armor power-up that Arthur requires to move[^ref-6]. This integration of franchise elements into puzzle mechanics creates unique challenges not found in other Incredible Machine titles.
 
-Unlike other games in The Incredible Machine series, this title notably lacks Head-to-Head puzzles and Freeform Machine mode[^ref-3][^ref-6]. The focus remains entirely on single-player puzzle completion, though the inclusion of a puzzle editor allows for creative expression and custom challenge creation[^ref-7][^ref-10].
+Unlike other games in The Incredible Machine series, this title notably lacks Head-to-Head puzzles and Freeform Machine mode[^ref-3][^ref-6]. The focus remains entirely on single-player puzzle completion, though the inclusion of a puzzle editor allows for creative expression and custom challenge creation[^ref-10].
 
 ## Reception
 
@@ -95,13 +95,12 @@ Due to its Japan-exclusive release, Arthur to Astaroth no Nazo Makaimura receive
 
 ### Modern Assessment
 
-The game has garnered positive retrospective assessments from players who have discovered it through emulation and import collecting. GameFAQs users have rated the game as "Great" based on 18 ratings[^ref-2]. The game has been described as "really a lot of fun and quite humorous" by multiple sources evaluating its gameplay[^ref-6][^ref-7].
+The game has garnered positive retrospective assessments from players who have discovered it through emulation and import collecting. GameFAQs users have rated the game as "Great" based on 18 ratings[^ref-2]. The game has been described as "really a lot of fun and quite humorous" by multiple sources evaluating its gameplay[^ref-6].
 
-On Emuparadise, the game achieved a notably high user rating of 4.87 out of 5 based on 23 votes, suggesting strong appreciation among those who have played it[^ref-14]. The Retro Gaming Daily Show podcast featured the game in a 2019 episode recommending Japanese-only Sega Saturn titles worth playing[^ref-15].
+The Retro Gaming Daily Show podcast featured the game in a 2019 episode recommending Japanese-only Sega Saturn titles worth playing[^ref-15].
 
 **Aggregate Scores:**
 - **GameFAQs:** "Great" (18 ratings)[^ref-2]
-- **Emuparadise:** 4.87/5 (23 votes)[^ref-14]
 - **MobyGames:** 3.0/5[^ref-1]
 - **MyAbandonware:** 3.5/5 (4 votes)[^ref-16]
 
@@ -111,7 +110,7 @@ On Emuparadise, the game achieved a notably high user rating of 4.87 out of 5 ba
 
 Arthur to Astaroth no Nazo Makaimura emerged from a licensing arrangement between Capcom and Sierra On-Line's subsidiary Dynamix[^ref-1][^ref-9]. The game is based on Sid & Al's Incredible Toons, which Dynamix developed and Sierra On-Line released in 1993[^ref-7][^ref-10]. Capcom recognized an opportunity to leverage the proven puzzle mechanics of The Incredible Machine series while incorporating characters from their popular Ghosts 'n Goblins franchise[^ref-3][^ref-4].
 
-The decision to create a narrative-driven version of The Incredible Machine formula was unprecedented for the series[^ref-3][^ref-6]. While previous entries focused purely on mechanical puzzle-solving without story context, this collaboration allowed for the integration of established characters and a plot motivation for the challenges[^ref-7]. This creative choice helped differentiate the game from its predecessors while appealing to fans of the Makaimura series.
+The decision to create a narrative-driven version of The Incredible Machine formula was unprecedented for the series[^ref-3][^ref-6]. While previous entries focused purely on mechanical puzzle-solving without story context, this collaboration allowed for the integration of established characters and a plot motivation for the challenges. This creative choice helped differentiate the game from its predecessors while appealing to fans of the Makaimura series.
 
 ### Production
 
@@ -128,14 +127,14 @@ The developers integrated visual and audio assets from the Ghosts 'n Goblins uni
 
 The game maintained the 2D side-scrolling perspective characteristic of The Incredible Machine series while rendering characters in the distinctive Ghosts 'n Goblins art style[^ref-1]. Screenshots indicate the PlayStation version ran at 320x240 resolution[^ref-17].
 
-The inclusion of a puzzle editor feature allowed players to create and save their own custom levels, extending the game's longevity beyond the 100 included puzzles[^ref-7][^ref-10]. This was a significant technical implementation for a console release of the era.
+The inclusion of a puzzle editor feature allowed players to create and save their own custom levels, extending the game's longevity beyond the 100 included puzzles[^ref-10]. This was a significant technical implementation for a console release of the era.
 
 ### Technical Specifications
 
 **PlayStation Version:**[^ref-10][^ref-14]
 - **Resolution:** 320x240[^ref-17]
 - **Media:** CD-ROM
-- **File Size:** ~238-404 MB[^ref-10][^ref-14]
+- **File Size:** ~238-404 MB[^ref-10]; ~500 MB .bin/.cue disc image (19 tracks: 1 data, 18 audio)[^ref-14]
 - **Players:** 1
 
 **Sega Saturn Version:**[^ref-2][^ref-18]
@@ -156,7 +155,7 @@ Unlike the standard Incredible Machine games, this title was released without He
 
 ### Technical Issues
 
-No significant bugs or technical issues have been documented in available sources. The game has been reported to work with the Mednafen emulator for PlayStation emulation[^ref-7].
+No significant bugs or technical issues have been documented in available sources. The game has been reported to work with the Mednafen emulator for PlayStation emulation.
 
 ### Easter Eggs and Trivia
 
@@ -178,7 +177,7 @@ Arthur to Astaroth no Nazo Makaimura has not been included in any official game 
 
 ### Fan Projects
 
-No significant fan projects, remakes, or translations have been documented. The game remains accessible primarily through original hardware or emulation, with ROM distributions available through various preservation sites[^ref-14][^ref-20].
+No significant fan projects, remakes, or translations have been documented. The game remains accessible primarily through original hardware or emulation, with ROM distributions available through various preservation sites[^ref-20].
 
 ### Related Publications
 
@@ -228,11 +227,11 @@ The game demonstrates how established puzzle frameworks could be successfully ad
 [^ref-4]: [IGN – Game Database Entry](https://www.ign.com/games/arthur-to-astaroth-no-nazomakaimura-incredible-toons) – developer credits, Japan-only release, Ghosts 'n Goblins connection
 [^ref-5]: [Tumblr – mendelpalace](https://mendelpalace.tumblr.com/post/167596522294/arthur-to-astaroth-no-nazo-makaimura-incredible) – discovery of obscure spinoff, chibi character descriptions
 [^ref-6]: [LaunchBox Games Database – PlayStation Version](https://gamesdb.launchbox-app.com/games/details/91608-arthur-to-astaroth-no-nazo-maikamura-incredible-toons) – plot uniqueness, gameplay features, puzzle editor
-[^ref-7]: [RomStation](https://www.romstation.fr/games/psx/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-r67733/) – gameplay description, mechanics, objectives
+[^ref-7]: [Hardcore Gaming 101 – Ghosts 'n Goblins, page 6: Nazo Makaimura](https://web.archive.org/web/20091231040708/http://www.hardcoregaming101.net/gng/gng6.htm) (archived) – Capcom licensed Dynamix's Incredible Toons engine; build-a-machine gameplay
 [^ref-9]: [MobyGames – Releases Page](https://www.mobygames.com/game/43749/arthur-to-astaroth-no-nazo-makaimura-incredible-toons/releases/) – Dynamix license, release details
 [^ref-10]: [romsfun.com](https://romsfun.com/roms/playstation/arthur-to-astaroth-no-nazo-maikamura-incredible-toons.html) – Sid & Al's connection, 100 puzzles, puzzle editor, Sierra On-Line 1993 release
 [^ref-12]: [Exophase – Achievement Data](https://www.exophase.com/game/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-retro/achievements/) – 100 puzzles, achievement names, progression structure
-[^ref-14]: [PSXDataCenter – Arthur to Astaroth no Nazo Makaimura: Incredible Toons](https://psxdatacenter.com/japanese/arthur-astaroth-incredible-toons.html) – PlayStation database with user ratings, file size, platform confirmation (replaces dead Emuparadise URL; Emuparadise removed all ISO/ROM content in 2018)
+[^ref-14]: [PSXDataCenter – Arthur To Astaroth No Nazo Maikamura - Incredible Toons (SLPS-00363)](https://psxdatacenter.com/games/J/A/SLPS-00363.html) – PlayStation release data: Capcom/Dynamix, 30 August 1996, ~500 MB disc image
 [^ref-15]: [Retro Gaming Daily Show – July 2019](https://retrogamingdailyshow.libsyn.com/2019/07) – recommended Japanese Saturn games coverage
 [^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-ne2) – user ratings, file size, download availability
 [^ref-17]: [MobyGames – Screenshots](https://www.mobygames.com/game/43749/arthur-to-astaroth-no-nazo-makaimura-incredible-toons/screenshots/playstation/432796/) – resolution data

@@ -38,7 +38,7 @@ The company successfully Kickstarter-funded *Hero-U: Rogue to Redemption* in 201
 
 ## References
 
-[^ref-1]: [Transolar Games - Official Site](https://www.inthetransolarzone.com/) - Company and games
+[^ref-1]: [Hero-U: Rogue to Redemption – Transolar Games official game site](https://www.hero-u.com/RtR/) - Corey Cole as Transolar Games President; Lori Cole "a founder of Transolar Games"
 [^ref-2]: [Kickstarter - Hero-U: Rogue to Redemption](https://www.kickstarter.com/projects/transolargames/hero-u-rogue-to-redemption) - Funding campaign
 [^ref-3]: [Steam - Hero-U: Rogue to Redemption](https://store.steampowered.com/app/375440/HeroU_Rogue_to_Redemption/) - Game release
 [^ref-4]: [GOG - Hero-U: Rogue to Redemption](https://www.gog.com/game/herou_rogue_to_redemption) - Digital distribution

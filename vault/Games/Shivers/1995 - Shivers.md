@@ -306,7 +306,7 @@ The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shive
 [^ref-12]: [Web Archive – MacUser Review](https://web.archive.org/web/20010107225300/http://macuser.zdnet.com/mu_1296/personal/gameroom.html) – negative review, gameplay description
 [^ref-25]: [GOG.com – Shivers User Reviews](https://www.gog.com/en/game/shivers) – gameplay mechanics, user testimonials
 [^ref-15]: [Walkthrough King – Shivers](https://www.walkthroughking.com/text/shivers.aspx) – inventory system, gameplay tips
-[^ref-16]: [The Spoiler – Shivers Walkthrough](https://the-spoiler.com/ADVENTURE/Sierra/shivers.1.html) – point system, Easter eggs, version differences
+[^ref-16]: [The Spoiler – Shivers Walkthrough](https://www.justadventure.com/walkthrough/shivers/) – point system, Easter eggs, version differences
 [^ref-17]: [Web Archive – PC Gamer Review](https://web.archive.org/web/20000226082838/http://www.pcgamer.com/reviews/940.html) – 84% score, Steve Poole review
 [^ref-18]: [Web Archive – PC Games Magazine Review](https://web.archive.org/web/19961018113737/http://www.pcgamesmag.com/games/Feb96/shivers296.html) – Hermann Peterscheck review, sound design praise
 [^ref-19]: [GameSpot – Shivers Review](http://www.gamespot.com/pc/adventure/shivers/review.html) – 6.6/10 score, Ron Dulin review

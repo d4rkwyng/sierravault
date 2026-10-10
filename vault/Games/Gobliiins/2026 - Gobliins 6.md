@@ -316,7 +316,7 @@ Gobliins 6 has not yet been released. Information on purchase availability will 
 [^ref-14]: [Steam – GOBLiiNS6](https://store.steampowered.com/app/4293620/GOBLiiNS6/) – store page, user reviews, release date, system requirements
 [^ref-15]: [Indie Retro News – GOBLiiNS6](https://www.indieretronews.com/2026/02/gobliins6-retro-classic-gobliiins-are.html) – release coverage, retro gaming community reception
 [^ref-16]: [IGDB – Gobliins 6](https://www.igdb.com/games/gobliins-6) — Internet Games Database entry, Steam/itch.io platform listing, February 2026 release confirmation
-[^ref-17]: [Pierre Gilhodes – designer profile](https://en.wikipedia.org/wiki/Pierre_Gilhodes) — Gobliiins-series creator biography providing context for the sixth-entry comeback
+[^ref-17]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) — "the look of the series and its characters were created by French artist Pierre Gilhodes"; context for the sixth-entry comeback
 [^ref-18]: [LaunchBox Games Database – Gobliins 6](https://gamesdb.launchbox-app.com/games/details/gobliins-6) — community-curated metadata, cover-art reference
 [^ref-19]: [Adventure Game Studio (engine) – Wikipedia](https://en.wikipedia.org/wiki/Adventure_Game_Studio) — context for the AGS engine that powers Gobliins 6 and Gobliiins 5
-[^ref-20]: [itch.io – GOBLiiNS6](https://pierregilhodes.itch.io/gobliins6) — itch.io listing, primary direct-from-developer distribution channel
+[^ref-20]: [itch.io – GOBLiiNS6](https://pierre-gilhodes.itch.io/gobliins6) — itch.io listing, primary direct-from-developer distribution channel

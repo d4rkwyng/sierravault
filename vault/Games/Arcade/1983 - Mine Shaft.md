@@ -171,7 +171,7 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 - [MobyGames](https://www.mobygames.com/game/79/mine-shaft/) - Game information and screenshots
 - MyAbandonware - Download available[^ref-2]
 - [Internet Archive (MS-DOS)](https://archive.org/details/msdos_Mine_Shaft_1983) - Playable in browser[^ref-5]
-- [Internet Archive (IBM PC Floppy)](https://archive.org/details/000308-MineShaft) - Original floppy preservation[^ref-6] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-12][^ref-13][^ref-15]
+- [Internet Archive (IBM PC Floppy)](https://archive.org/details/000308-MineShaft) - Original floppy preservation[^ref-6] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-15]
 
 
 ## See Also
@@ -210,9 +210,7 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 [^ref-10]: [Sierra Gamers – Mine Shaft](https://www.sierragamers.com/mine-shaft/) – Sierra fan community game entry
 [^ref-11]: [Abandonware DOS – Mine Shaft](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Mine+Shaft&gid=2471) – DOS game preservation
 
-[^ref-12]: [Wikipedia – Mine Shaft](https://en.wikipedia.org/wiki/Mine_Shaft) – Video game history, arcade game classification
 
-[^ref-13]: [Retro Gamer Archive – Sierra Games](https://www.retrogamer.net/) – Historical gaming magazine archive, Sierra coverage
 
 
 [^ref-15]: [Nerdly Pleasures – Early PC Game Miscellaneous Notability](https://nerdlypleasures.blogspot.com/2016/04/early-pc-game-miscellaneous-notablility.html) – Early Sierra arcade games, historical analysis, platform documentation

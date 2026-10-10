@@ -268,4 +268,4 @@ The technical innovation of sampled speech in Creepy Corridors, while largely fo
 [^ref-17]: Wikidata *(link removed: it led to a different game's page)* – Structured metadata
 [^ref-18]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Laf_Pak) – Wiki information
 [^ref-19]: [UVList](https://www.uvlist.net/game-183814-laf-pak) – Universal Videogame List
-[^ref-20]: [Internet Archive](https://archive.org/details/laf-pak-apple-ii) – Game preservation
+[^ref-20]: [Internet Archive – Laf Pak (woz-a-day collection)](https://archive.org/details/wozaday_Laf_Pak) – Game preservation; "a 1982 compilation of action games written by Chuck Bueche (Chuckles) and published by On-Line Systems"

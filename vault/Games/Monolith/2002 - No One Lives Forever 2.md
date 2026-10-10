@@ -311,7 +311,7 @@ Perhaps most tragically, NOLF 2's legal limbo serves as a cautionary tale about 
 - Not available for legal purchase on any digital storefront
 
 **Download / Preservation**
-- [NOLF Revival Project](http://nolfrevival.tk/) - Community-maintained patched version
+- [NOLF Revival Project](https://web.archive.org/web/20160612044541/http://nolfrevival.tk/) (archived; original domain gone) - Community-maintained patched version
 - [MyAbandonware](https://www.myabandonware.com/game/no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way-3nv) - Abandonware download[^ref-31]
 - [Internet Archive](https://archive.org/details/no-one-lives-forever-2-a-spy-in-h.a.r.m.s-way) - Archived disc images and manual[^ref-47]
 - [ModDB](https://www.moddb.com/games/no-one-lives-forever-2-a-spy-in-harm) - Patches and toolkit downloads[^ref-45]

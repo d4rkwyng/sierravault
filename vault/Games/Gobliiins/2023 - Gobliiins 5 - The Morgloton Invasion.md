@@ -229,7 +229,7 @@ Gobliiins 5 also demonstrated that demand exists for traditional 2D adventure ga
 [^ref-11]: [Virtual Moose – Intro Guide to Gobliiins](https://virtualmoose.org/2023/06/02/an-intro-guide-to-gobliiins/) – series overview, puzzle vs. plot focus
 [^ref-14]: [Walkthrough King – Gobliiins 5](https://www.walkthroughking.com/text/gobliiins5.aspx) – gameplay mechanics, story elements
 [^ref-13]: [MobyGames – Gobliiins 4](https://www.mobygames.com/game/40608/gobliiins-4/) – series context, gameplay description
-[^ref-15]: [Indie Retro News – Gobliiins 5 Announcement](https://www.indieretronews.com/2023/05/gobliiins-5-retro-classic-gobliiins-is.html) – level count, return to 2D
+[^ref-15]: [Indie Retro News – Gobliiins 5 Announcement](https://web.archive.org/web/20250822160347/https://www.indieretronews.com/2023/05/gobliiins-5-retro-classic-gobliiins-is.html) – level count, return to 2D
 [^ref-16]: [RPG Codex Forums – Player Reviews](https://rpgcodex.net/forums/threads/gobliiins-5-by-pierre-gilhodes-woodruff-soon%E2%84%A2.111621/page-3) – gameplay length, quality assessment, technical observations
 [^ref-17]: [Steam Community – Gobliiins 5](https://steamcommunity.com/app/2475980) – user reviews, technical issues, community feedback
 [^ref-18]: [GOG.com – Gobliiins 5 Wishlist](https://www.gog.com/dreamlist/game/gobliiins-5) – community reception, animation praise

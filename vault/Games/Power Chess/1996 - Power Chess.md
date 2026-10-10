@@ -127,8 +127,8 @@ Despite its innovations, the series was discontinued after 1998, and the game is
 ## References
 
 [^ref-1]: [Wikipedia - Power Chess](https://en.wikipedia.org/wiki/Power_Chess) – - Game overview and adaptive AI description
-[^ref-2]: [Ask MetaFilter](https://ask.metafilter.com/298024/Chess-Game-with-Built-in-Tutor) – - Royal court metaphor and Queen tutor role
-[^ref-4]: [ElISoftware.org](http://elisoftware.org/w/index.php/Power_Chess_98_(PC,_CD-ROM) – _Sierra_-_1997_USA,_Canada_Release) - Larry Christiansen quote on innovation
+[^ref-2]: [Ask MetaFilter](https://web.archive.org/web/20211106054700/https://ask.metafilter.com/298024/Chess-Game-with-Built-in-Tutor) – - Royal court metaphor and Queen tutor role
+[^ref-4]: [Eli's Software Encyclopedia – Power Chess 98 (PC, CD-ROM) Sierra - 1997 USA, Canada Release](https://elisoftware.org/wiki/Power_Chess_98_(PC,_CD-ROM)_Sierra_-_1997_USA,_Canada_Release) - packaging description ("The King always plays just a bit better than you")
 [^ref-5]: [MobyGames - Power Chess 98](https://www.mobygames.com/game/38740/power-chess-98/) – - Developer information
 [^ref-6]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=410&title=power-chess&fld=box) – - Publisher information
 [^ref-7]: [UVList.net](https://www.uvlist.net/game-45045-Power+Chess+2.0) – - Platform compatibility information

@@ -158,7 +158,6 @@ As one modern reviewer observed, "Police Quest represents an interesting experim
 [^ref-1]: Abandonware DOS – Police Quest 1 *(download link removed: the game is sold commercially)* — Quotes The Games Machine (UK) review, "large adventure with more than one solution"; no TGM scan located
 [^ref-2]: [ScummVM Wiki – Police Quest AGI](https://wiki.scummvm.org/index.php/Police_Quest:_In_Pursuit_of_the_Death_Angel) — Version 1.00G release June 1987
 [^ref-3]: [Nostalgia Trigger – Police Quest Retrospective](https://web.archive.org/web/20250730193348/https://nostalgiatrigger.com/2017/04/17/retrospectives-part-1-police-quest-in-pursuit-of-the-death-angel-1987/) — Driving difficulty, "a crash is an instant Game Over" (archived; live page now 404)
-[^ref-4]: [DOSBox Compatibility – Police Quest](https://www.dosbox.com/wiki/GAMES:Police_Quest) — Version 2.0A release info
 [^ref-5]: [Hall of Light – Police Quest Amiga](https://hol.abime.net/3254) — 1988 Amiga port details
 [^ref-6]: [The Digital Antiquarian – Police Quest Series](https://www.filfre.net/tag/police-quest/) — Walls departure and series direction change
 [^ref-7]: [Alex Bevi – Police Quest Review](https://alexbevi.com/blog/2022/03/15/police-quest-1/) — 67% retrospective rating (played the DOS SCI remake), training tool discussion

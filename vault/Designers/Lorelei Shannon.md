@@ -57,7 +57,7 @@ The project represented Shannon's ability to work within established franchises 
 
 ### Laura Bow 2: The Dagger of Amon Ra (1991)
 
-Shannon's earliest major creative contribution came with her additional written material for [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]], where she also provided voice acting work.[^ref-3] This murder mystery adventure allowed Shannon to demonstrate her facility with period dialogue and complex plotting, skills that would serve her well in later projects.[^ref-16] Her work on the game helped establish the atmospheric and narrative depth that made it one of Sierra's most critically acclaimed adventure games.[^ref-17]
+Shannon's earliest major creative contribution came with her additional written material for [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]], where she also provided voice acting work.[^ref-3] This murder mystery adventure allowed Shannon to demonstrate her facility with period dialogue and complex plotting, skills that would serve her well in later projects. Her work on the game helped establish the atmospheric and narrative depth that made it one of Sierra's most critically acclaimed adventure games.[^ref-17]
 
 ## Design Philosophy
 
@@ -75,7 +75,7 @@ Her approach to character development and dialogue writing influenced a generati
 
 The technical and creative skills Shannon developed during her gaming career also translated successfully into her later work in technical writing and documentation, where colleagues consistently praised her ability to communicate complex information clearly and effectively.[^ref-5] Her career trajectory demonstrates the versatility of skills developed in game design and the ways that creative professionals can successfully transition between different industries while maintaining their core competencies.[^ref-20]
 
-Today, Shannon is remembered as part of a generation of pioneering female game designers, including Roberta Williams and Jane Jensen, who helped establish adventure gaming as a legitimate artistic medium capable of sophisticated storytelling and thematic exploration.[^ref-13] Her willingness to take creative risks and explore difficult subject matter continues to inspire game developers interested in pushing the boundaries of interactive entertainment.[^ref-16]
+Today, Shannon is remembered as part of a generation of pioneering female game designers, including Roberta Williams and Jane Jensen, who helped establish adventure gaming as a legitimate artistic medium capable of sophisticated storytelling and thematic exploration.[^ref-13] Her willingness to take creative risks and explore difficult subject matter continues to inspire game developers interested in pushing the boundaries of interactive entertainment.
 
 ## Games
 
@@ -112,7 +112,6 @@ Today, Shannon is remembered as part of a generation of pioneering female game d
 [^ref-13]: [Reddit Discussion](https://www.reddit.com/r/WitchesVsPatriarchy/comments/11pil4s/roberta_williams_jane_jensen_and_lorelei_shannon/) — Modern recognition and cult following
 [^ref-14]: [Quest for Glory Wiki](https://questforglory.fandom.com/wiki/Quest_For_Glory_Collections) — Information about Sierra game development
 [^ref-15]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/space-quest-movie/) — Discussion of Sierra game narratives
-[^ref-16]: [Retro Gamer Search](https://www.retrogamer.net/?s=Lorelei+Shannon) — Analysis of early career work
 [^ref-17]: [Shadow Covenant Blog](http://shadowcovenant.com/blog/tag/kings-quest-space-quest-quest-for-glory-police-quest-leisure-suit-larry-laura-bow-colonels-bequest-dagger-of-amon-ra-gabriel-knight-graphical-adventures-games-of-my-life/) — Critical reception of Laura Bow 2
 [^ref-18]: [Giant Bomb Search](https://www.giantbomb.com/search/?q=Lorelei+Shannon&filter=person) — Character development and representation
 [^ref-19]: [Wikipedia Entry](https://en.wikipedia.org/wiki/Lorelei_Shannon) — Impact on adventure gaming genre

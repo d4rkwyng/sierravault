@@ -244,11 +244,7 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Free download from [AGD Interactive](https://www.agdinteractive.com/games/kq3/kq3.html) — Official site (DRM-free, no purchase required)
-
-**Download / Preservation**
-- [Internet Archive — KQ3 Redux](https://archive.org/details/agdi-kings-quest-3-redux)
-- [MyAbandonware — KQ3 Redux](https://www.myabandonware.com/game/kings-quest-iii-redux-to-heir-is-human-13ze)
+- Free download from [AGD Interactive](https://www.agdinteractive.com/games/kq3/) — Official site (DRM-free, no purchase required)
 
 ## See Also
 

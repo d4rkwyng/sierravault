@@ -19,7 +19,7 @@ For detailed information about the studio's history, notable games, and key peop
 
 ## Publishing Philosophy
 
-Unlike commercial publishers, AGD Interactive operates as a non-profit organization, releasing all of their remakes for free.[^ref-3][^ref-8][^ref-13] This approach allows them to maintain creative independence while avoiding licensing complexities that would arise with commercial development.[^ref-4][^ref-9][^ref-14] Their games are distributed directly through their website and various abandonware/freeware archives.[^ref-5][^ref-10][^ref-15]
+Unlike commercial publishers, AGD Interactive operates as a non-profit organization, releasing all of their remakes for free.[^ref-3][^ref-8][^ref-13] This approach allows them to maintain creative independence while avoiding licensing complexities that would arise with commercial development.[^ref-4][^ref-9] Their games are distributed directly through their website and various abandonware/freeware archives.[^ref-5][^ref-10][^ref-15]
 
 ## Games Published
 
@@ -48,5 +48,4 @@ Unlike commercial publishers, AGD Interactive operates as a non-profit organizat
 [^ref-11]: [IGDB - AGD Interactive](https://www.igdb.com/companies/agd-interactive) - Database entry
 [^ref-12]: [Adventure Game Studio - AGDI Games](https://www.adventuregamestudio.co.uk/) - Development tools
 [^ref-13]: [Quest for Glory - Fan Remakes](https://questforglory.fandom.com/wiki/Quest_for_Glory_II:_Trial_by_Fire_VGA) - QFG II documentation
-[^ref-14]: [PCGamingWiki - AGD Interactive](https://www.pcgamingwiki.com/wiki/Company:AGD_Interactive) - Technical database
 [^ref-15]: [IndieDB - AGD Interactive](https://www.indiedb.com/company/agd-interactive) - Developer profile

@@ -22,7 +22,7 @@ tags: [1990s, coktel, educational, playtoons, sierra]
 
 ## Overview
 
-Playtoons 3: Secret of the Castle is a children's creativity and interactive storybook game developed by [[Coktel Vision]] and published by Sierra On-Line in 1995.[^ref-1][^ref-2][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20] As the third entry in the Playtoons series, the game places the latest multimedia techniques in the hands of youngsters, combining an interactive comic book experience with a powerful animation creation toolkit.[^ref-3] Set in medieval Pendragon Castle, the game follows Prince Arthur and his family as they guard a precious secret threatened by invading barbarian hordes.[^ref-4]
+Playtoons 3: Secret of the Castle is a children's creativity and interactive storybook game developed by [[Coktel Vision]] and published by Sierra On-Line in 1995.[^ref-1][^ref-2][^ref-16][^ref-17][^ref-19][^ref-20] As the third entry in the Playtoons series, the game places the latest multimedia techniques in the hands of youngsters, combining an interactive comic book experience with a powerful animation creation toolkit.[^ref-3] Set in medieval Pendragon Castle, the game follows Prince Arthur and his family as they guard a precious secret threatened by invading barbarian hordes.[^ref-4]
 
 The Playtoons series represents an innovative approach to children's educational software, focusing on teaching school topics in a digital format designed to be more engaging for kids.[^ref-5] Like its predecessors, Secret of the Castle allows players to both experience a pre-made interactive story and create their own animated tales using an integrated editor tool that provides background scenery, props, and characters that can be added to scenes and manipulated.[^ref-6] The game was notable for being the first Playtoons title to implement construction kit backgrounds, items, characters, and animations directly into its story panels, blurring the line between the narrative experience and creative gameplay.[^ref-7]
 
@@ -229,6 +229,5 @@ The game's approach—offering both consumption and creation modes—anticipated
 [^ref-15]: [Metacritic – Playtoons 3](https://www.metacritic.com/game/playtoons-3-the-secret-of-the-castle/) – aggregated reviews and critical assessment
 [^ref-16]: [IGDB – Playtoons 3: The Secret of the Castle](https://www.igdb.com/games/playtoons-3-the-secret-of-the-castle) — Internet Games Database entry, multi-platform listing
 [^ref-17]: [LaunchBox Games Database – Playtoons 3](https://gamesdb.launchbox-app.com/games/details/playtoons-3-the-secret-of-the-castle) — community-curated metadata, cover-art reference
-[^ref-18]: [Coktel Vision Playtoons series archive](https://www.coktelvision.com/playtoons.html) — Coktel-side documentation of the Playtoons series including The Secret of the Castle
 [^ref-19]: [Adventure Classic Gaming – Coktel Vision developer retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Coktel Vision's Sierra-published children's titles
 [^ref-20]: [Kiddle Encyclopedia – Playtoons](https://kids.kiddle.co/Playtoons) — series overview including Playtoons 3 plot and characters

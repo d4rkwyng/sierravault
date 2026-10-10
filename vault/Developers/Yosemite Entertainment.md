@@ -6,12 +6,12 @@ defunct: 1999
 headquarters: "Oakhurst, California, USA"
 notable_games: ["Quest for Glory V: Dragon Fire", "The Realm Online", "Babylon 5: Into the Fire"]
 parent_company: "Sierra On-Line"
-last_updated: "2026-05-08"
+last_updated: "2026-10-09"
 ---
 
 # Yosemite Entertainment
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -35,7 +35,7 @@ The studio also maintained and developed content for The Realm Online, Sierra's 
 
 ### Cancelled Projects
 
-Two of Yosemite Entertainment's most ambitious projects were cancelled during the studio's closure. Babylon 5: Into the Fire was a space combat simulator based on the award-winning television series, featuring original cast members and approximately 65% complete when cancelled.[^ref-13] The game promised to deliver unprecedented scale with up to 1,000 simultaneous ships in battle and all major wars from the Babylon 5 universe.[^ref-14]
+Two of Yosemite Entertainment's most ambitious projects were cancelled during the studio's closure. Babylon 5: Into the Fire was a space combat simulator based on the award-winning television series, featuring original cast members and approximately 65% complete when cancelled.[^ref-13] According to Sierra, the game was to feature more than 1,000 different ships and 200 unique locations.[^ref-14]
 
 Middle-earth Online represented an early attempt to bring J.R.R. Tolkien's world to the MMORPG genre, predating The Lord of the Rings Online by nearly a decade.[^ref-15] The project featured controversial but authentic design decisions including permanent character death and strict Elven population limitations, intended to create a more faithful Middle-earth experience.[^ref-16] After Yosemite's closure, the project was eventually transferred to Turbine, where it evolved into The Lord of the Rings Online.[^ref-15]
 
@@ -47,7 +47,7 @@ The closure had devastating effects on Sierra's creative talent. Legendary desig
 
 ## Key People
 
-The studio's projects were led by veteran Sierra developers who had contributed to the company's classic titles. Lori Ann Cole and Corey Cole, creators of the Quest for Glory series, led the development of Dragon Fire, bringing their unique blend of adventure gameplay and RPG mechanics to a 3D environment.[^ref-10] Randy Littlejohn, Christy Marx, and Dan Foy designed Babylon 5: Into the Fire, with Marx bringing her extensive experience in television writing and game design.[^ref-14] Daniel James served as designer on Middle-earth Online, developing the controversial but authentic design philosophy that would distinguish the project.[^ref-16]
+The studio's projects were led by veteran Sierra developers who had contributed to the company's classic titles. Lori Ann Cole and Corey Cole, creators of the Quest for Glory series, led the development of Dragon Fire, bringing their unique blend of adventure gameplay and RPG mechanics to a 3D environment.[^ref-10] Christy Marx, bringing her experience in television writing and game design, was involved with Sierra's Babylon 5 game, according to series creator J. Michael Straczynski.[^ref-18] Daniel James served as designer on Middle-earth Online, developing the controversial but authentic design philosophy that would distinguish the project.[^ref-16]
 
 ## Legacy
 
@@ -68,13 +68,14 @@ Quest for Glory V: Dragon Fire stands as the studio's most significant achieveme
 [^ref-3]: [GameSpy Retro - Developer Origins](https://web.archive.org/web/20070609133112/http://www.gamespy.com/articles/697/697083p17.html) — Sierra's original headquarters in Oakhurst, California
 [^ref-4]: [Vice - How Sierra Was Captured, Then Killed](https://www.vice.com/en/article/inside-story-sierra-online-death-cuc-cendant-fraud/) — CUC International accounting scandal and Sierra restructuring
 [^ref-5]: [Wikipedia - Quest for Glory V: Dragon Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_V:_Dragon_Fire) — Game development at Yosemite Entertainment
-[^ref-7]: [Interaction Magazine Archive](https://archive.org/details/sierra-interaction-magazine) — Sierra's move to Bellevue, Washington
+[^ref-7]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — Sierra's move to Bellevue, Washington; Oakhurst location renamed Yosemite Entertainment
 [^ref-9]: [The Digital Antiquarian](https://www.filfre.net/) — Sierra's creative legacy in Oakhurst
 [^ref-10]: [MobyGames - Quest for Glory V](https://www.mobygames.com/game/quest-for-glory-v-dragon-fire/) — Development credits and game information
 [^ref-11]: [The Realm Online Wiki](https://realmserver.com/) — Game maintenance and development history
 [^ref-12]: [Kotaku - The Realm Online History](https://kotaku.com/) — $50 million funding for The Realm development
 [^ref-13]: [Babylon 5 Into the Fire Fan Site](https://www.b5itf.com/) — Development status at cancellation
-[^ref-14]: [IGN - Babylon 5: Into the Fire Preview](https://www.ign.com/articles/1999/02/17/sierra-announces-babylon-5-into-the-fire) — Game features and development team
+[^ref-14]: [Tom's Hardware - Best Games Never Published Part 3: Babylon 5](https://www.tomshardware.com/picturestory/46-best-games-never-published-part-3-babylon-5.html) — Planned features (1,000+ ships, 200 locations) and 1999 cancellation
 [^ref-15]: [Wikipedia - The Lord of the Rings Online](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_Online) — Middle-earth Online development history
 [^ref-16]: [GameSpot - Middle-earth Online Preview](https://www.gamespot.com/) — Design philosophy and controversial features
-[^ref-17]: [Next Generation Magazine](https://archive.org/details/nextgenerationmagazine) — Codemasters hiring former Yosemite staff
+[^ref-17]: [Wikipedia - Codemasters](https://en.wikipedia.org/wiki/Codemasters) — Oakhurst studio in Sierra's abandoned offices, hiring laid-off Yosemite staff (marked citation needed there)
+[^ref-18]: [JMS on CompuServe, Oct 1997 (b5jms archive)](https://lists.fsl.cs.sunysb.edu/pipermail/b5jms/1997-October/002239.html) — "The other game is still being developed... Christy Marx is involved, though."

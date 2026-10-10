@@ -40,7 +40,7 @@ Sierra-affiliated games currently in development or recently updated.
 - **Team:** [[Jane Jensen]]
 - **Status:** Pitch only; no Microsoft approval as of Dec 2025.
 - **Latest:** (Dec 2025) [Matt Chat 565](https://www.youtube.com/watch?v=UKI8t6KgAHc): Jensen described a GK4 pitch set in Salzburg, with two paths through the story, put together with a team in Israel. Microsoft owns the IP (via Activision); she said repeated emails and an industry lawyer got no response — "We never heard a thing back." Published "Five Hearts" short story Nov 2024.
-- **Follow:** [GK4Ever.com](https://www.gk4ever.com/)
+- **Follow:** [GK4Ever.com](https://web.archive.org/web/20241013045516/http://www.gk4ever.com/) (archived; domain no longer resolves)
 
 ---
 
@@ -69,7 +69,7 @@ Sierra-affiliated games currently in development or recently updated.
 - **Team:** [[Infamous Quests]]
 - **Status:** Voice recording unfinished; developer reports waning momentum.
 - **Latest:** (Jul 2026) The last project post, [Patreon (Apr 4, 2026)](https://www.patreon.com/posts/hospital-stays-154760603), said studio time was booked in May to finish Steve Patrick's Mr. Roehm lines. In July Steven Alexander wrote on Bluesky that his desire to work on games "has been in a waning phase all year" ([Jul 21](https://bsky.app/profile/infamousquests.bsky.social/post/3mr4upnsfpc2t)) and "I find my heart not in it as much as it used to be" ([Jul 22](https://bsky.app/profile/infamousquests.bsky.social/post/3mrakewn53k2n)).
-- **Follow:** [Patreon](https://www.patreon.com/InfamousQuests) · [itch.io](https://infamousadventures.itch.io/qfi-rtr)
+- **Follow:** [Patreon](https://www.patreon.com/InfamousQuests) · [itch.io](https://infamousquests.itch.io/qfi-rtr)
 
 ---
 
@@ -79,7 +79,7 @@ Sierra-affiliated games currently in development or recently updated.
 - **Team:** [[Infamous Quests]]
 - **Status:** Episode 2 of trilogy. In limbo — no team or budget to finish.
 - **Latest:** (Oct 2025) [Patreon (public post)](https://www.patreon.com/posts/updates-on-rtr-141274312): "I don't know when or if we will finish that game. There is a lot that has been done on it, but we just don't have the team or the budget to really complete it." Remaining work is "mostly animations."
-- **Follow:** [Patreon](https://www.patreon.com/InfamousQuests) · [itch.io](https://infamousadventures.itch.io/ootf-fortress-of-fire)
+- **Follow:** [Patreon](https://www.patreon.com/InfamousQuests) · [itch.io](https://infamousquests.itch.io/ootf-fortress-of-fire)
 
 ---
 

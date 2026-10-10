@@ -7,16 +7,16 @@ first_release: 1991
 last_release: 2011
 total_games: 8
 genre: "Educational, Puzzle"
-last_updated: "2026-07-13"
+last_updated: "2026-10-09"
 ---
 
 # Dr. Brain Series
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-The Dr. Brain series is Sierra's longest-running educational-puzzle franchise: 8 titles between 1991 and 2011, starring the eccentric Dr. Elwin Q. Brain — a fictional polymath inventor whose laboratory must be rescued by the player solving a sequence of logic, math, language, music, and pattern-recognition puzzles.[^ref-1] The series was founded by **[[Corey Cole]]** (one half of the husband-wife team behind [[Quest for Glory Series|Quest for Glory]]) in 1991 with [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] and remained one of Sierra's most reliable educational-product lines through the 1990s.[^ref-2]
+The Dr. Brain series is Sierra's longest-running educational-puzzle franchise: 8 titles between 1991 and 2011, built around a series of puzzles the player solves to aid characters named Dr. Brain, who changed from title to title (the first two Sierra games star the elderly absent-minded professor Dr. Thaddeus Egghead Brain).[^ref-1] The series was founded by **[[Corey Cole]]** (one half of the husband-wife team behind [[Quest for Glory Series|Quest for Glory]]) in 1991 with [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] and remained one of Sierra's most reliable educational-product lines through the 1990s.[^ref-2]
 
 After [[Knowledge Adventure]] was absorbed into the Sierra family via CUC International in 1996, the Dr. Brain franchise eventually migrated to the JumpStart platform under Knowledge Adventure's continued operation, with [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain|2011's JumpStart Advanced]] entry being the most recent franchise appearance.[^ref-3]
 
@@ -61,7 +61,7 @@ Historical-puzzles entry. Dr. Brain has scattered through time and the player vi
 
 After CUC's 1996 acquisition of Sierra and Knowledge Adventure, the Dr. Brain franchise was transitioned from Sierra On-Line direct to Knowledge Adventure development. The 1998 *Thinking Games* duo (*IQ Adventure*, *Puzzle Madness*) was rebranded as "Dr. Brain Thinking Games" and aimed at a slightly different educational-market segment.[^ref-9]
 
-*Action Reaction* (1999) was the final dedicated-franchise entry. The 2011 *JumpStart Advanced* release absorbed Dr. Brain into Knowledge Adventure's *JumpStart* educational platform as one character among many.[^ref-10]
+*Action Reaction* (1999) was the final dedicated-franchise entry. Dr. Brain was later carried under Knowledge Adventure's *JumpStart* brand, which hosted the *Adventures of Dr. Brain* game manual on its site.[^ref-10]
 
 ## Series Design Identity
 
@@ -89,7 +89,7 @@ The franchise has not been revived as a standalone series since the 2011 JumpSta
 
 ## References
 
-[^ref-1]: [Wikipedia — Dr. Brain series](https://en.wikipedia.org/wiki/Dr._Brain_(series)) — Series overview
+[^ref-1]: [Wikipedia — Dr. Brain](https://en.wikipedia.org/wiki/Dr._Brain) — Series overview
 [^ref-2]: [MobyGames — Dr. Brain group](https://www.mobygames.com/group/dr-brain-series/) — Series catalog
 [^ref-3]: [Wikipedia — Knowledge Adventure](https://en.wikipedia.org/wiki/Knowledge_Adventure) — Publisher transition
 [^ref-4]: [Wikipedia — Castle of Dr. Brain](https://en.wikipedia.org/wiki/Castle_of_Dr._Brain) — Founding entry
@@ -98,10 +98,9 @@ The franchise has not been revived as a standalone series since the 2011 JumpSta
 [^ref-7]: [Wikipedia — The Lost Mind of Dr. Brain](https://en.wikipedia.org/wiki/The_Lost_Mind_of_Dr._Brain) — CD-ROM entry
 [^ref-8]: [Wikipedia — The Time Warp of Dr. Brain](https://en.wikipedia.org/wiki/The_Time_Warp_of_Dr._Brain) — Historical-puzzles entry
 [^ref-9]: [MobyGames — Dr. Brain Thinking Games](https://www.mobygames.com/game/dr-brain-thinking-games-iq-adventure/) — Knowledge Adventure rebranding
-[^ref-10]: [JumpStart — official site](https://www.jumpstart.com) — Franchise absorption documentation
+[^ref-10]: [JumpStart — Adventures of Dr. Brain game manual](https://web.archive.org/web/20211021083859/https://www.jumpstart.com/customercare/game-manual/adventures-of-dr-brain) (archived; jumpstart.com no longer resolves) — Dr. Brain under the JumpStart brand
 [^ref-11]: [The Digital Antiquarian — educational software era](https://www.filfre.net/?s=Dr.+Brain) — Era retrospective
 [^ref-12]: [Adventure Classic Gaming — Dr. Brain review series](http://www.adventureclassicgaming.com) — Per-title reviews
 [^ref-13]: [Sierra Chest — Dr. Brain](https://www.sierrachest.com/index.php?a=games&fld=series&id=dr-brain) — Catalog
 [^ref-14]: [Sierra Help — Dr. Brain](https://wiki.sierrahelp.com/index.php/Dr._Brain) — Compatibility resources
-[^ref-15]: [Hardcore Gaming 101 — Dr. Brain](http://www.hardcoregaming101.net/dr-brain/) — Series retrospective
 [^ref-16]: [Computer Gaming World Museum — Castle of Dr. Brain review](http://www.cgwmuseum.org/galleries/index.php?year=1991) — Contemporary review

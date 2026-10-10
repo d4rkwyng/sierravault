@@ -7,18 +7,18 @@ first_release: 1980
 last_release: 1984
 total_games: 12
 genre: "Adventure (pre-AGI)"
-last_updated: "2026-07-13"
+last_updated: "2026-10-09"
 ---
 
 # Hi-Res Adventures Series
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
 The Hi-Res Adventures series is the foundational catalog of [[Roberta Williams|Roberta Williams's]] adventure-game design career and the original release line that built **On-Line Systems** (later [[Sierra On-Line]]) from a Williams-family side project into the dominant adventure-game publisher of the early 1980s.[^ref-1] Spanning 1980 to 1983, the series produced **seven numbered Hi-Res Adventures** plus a handful of sibling Hi-Res-branded sports/casino titles and one franchise-licensed entry. Mystery House (1980) is widely cited as the **first home computer adventure game with graphics** — predating the AGI engine, the [[Adventure Game Interpreter|AGI]]-era *King's Quest*, and effectively founding the graphic-adventure genre.[^ref-2]
 
-The Hi-Res Adventures predated Sierra's [[Adventure Game Interpreter|AGI]] standardized engine — each title was a hand-crafted BASIC + 6502 assembly program with custom vector-drawing routines for the Apple II's high-resolution graphics mode (hence "Hi-Res").[^ref-3] This meant slower development, more platform-specific quirks, and no walking character — but the visual leap from text-only adventures (Adventure, Zork) was the genre-defining moment. By 1983 the engine model had outgrown the format, leading directly to AGI and *King's Quest* in 1984.[^ref-4]
+The Hi-Res Adventures predated Sierra's [[Adventure Game Interpreter|AGI]] standardized engine — each title was a hand-crafted program with custom drawing routines for the Apple II's high-resolution graphics mode (hence "Hi-Res"); *Mystery House* itself was written in 100% assembly language at a time when most commercial software was still coded in BASIC.[^ref-3] This meant slower development, more platform-specific quirks, and no walking character — but the visual leap from text-only adventures (Adventure, Zork) was the genre-defining moment. By 1983 the engine model had outgrown the format, leading directly to AGI and *King's Quest* in 1984.[^ref-4]
 
 ## Series Timeline
 
@@ -46,7 +46,7 @@ The Hi-Res Adventures predated Sierra's [[Adventure Game Interpreter|AGI]] stand
 
 ## Mystery House (1980) — the founding entry
 
-[[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] is the most historically significant entry in the entire Sierra catalog. Roberta Williams designed it in early 1980 after playing *Colossal Cave Adventure* on the family Apple II and recognizing the genre's potential. Ken Williams programmed the engine. The game shipped in May 1980 on cassette tapes Ken hand-duplicated.[^ref-5]
+[[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] is the most historically significant entry in the entire Sierra catalog. Roberta Williams designed it in early 1980 after playing *Colossal Cave Adventure* on a remote mainframe terminal Ken had at the house, and Ken programmed it. On-Line Systems was born in earnest in May 1980, shipping the game on floppy disks packaged in Ziploc bags.[^ref-5]
 
 **Key innovations:**
 - **First adventure game with graphics** — line-art illustrations of each room accompanied the text parser interface.
@@ -58,7 +58,7 @@ The game's commercial success enabled the Williams to scale up: rent office spac
 
 ## The Wizard and the Princess (1980)
 
-Roberta Williams's second adventure and the company's first major commercial hit. Set in the fairy-tale kingdom of Serenia, the game added **color graphics** and a much more expansive world than Mystery House. Sold approximately 60,000 copies and was the title that funded Sierra's mid-1981 office relocation from the Williams home to Coarsegold/Oakhurst.[^ref-7]
+Roberta Williams's second adventure and the company's first major commercial hit. Set in the fairy-tale kingdom of Serenia, the game added **color graphics** and a much more expansive world than Mystery House. It eventually sold over 60,000 copies, dwarfing Mystery House's 10,000, and by the end of 1980 Ken and Roberta had rented their first office space near their new home in Coarsegold.[^ref-7]
 
 Notably, the IBM PC port of *Wizard and the Princess* was renamed [[1982 - Adventure in Serenia|Adventure in Serenia]] (1982) to avoid trademark issues with IBM's own "wizard" branding.[^ref-8]
 
@@ -66,7 +66,7 @@ Notably, the IBM PC port of *Wizard and the Princess* was renamed [[1982 - Adven
 
 [[1982 - Hi-Res Adventure 5 - Time Zone|Time Zone]] (1982) was Roberta Williams's most ambitious Hi-Res Adventure. Spanning **39 game regions across multiple historical periods and the future**, the game shipped on **six 5.25-inch floppy disks** — the largest single computer game ever released at the time. The design called for traveling through Ancient Egypt, Medieval Europe, the American Wild West, and a far-future space-faring civilization, all interconnected via a time-travel mechanic.[^ref-9]
 
-The game was ahead of its time technically (it pushed the Apple II's storage to its limits) but commercially less successful than its predecessors — too sprawling and difficult for the audience that had loved Wizard and the Princess. Time Zone marked the practical limit of the per-title custom-engine approach and pushed Sierra toward the standardized [[Adventure Game Interpreter|AGI]] development model.[^ref-10]
+The game was ahead of its time technically (it pushed the Apple II's storage to its limits) but a commercial failure: sales were very disappointing, and planned Atari 400/800 ports were quietly shelved.[^ref-10]
 
 ## The Dark Crystal (1983) and franchise licensing
 
@@ -88,7 +88,7 @@ The lack of a standardized engine was both the era's strength (each title could 
 
 ## Critical reception and legacy
 
-The Hi-Res Adventures were critically acclaimed in their era. Mystery House and Wizard and the Princess won "Game of the Year" recognition from Softalk magazine (the leading Apple II publication of the time).[^ref-13] By 1982, every Hi-Res entry to date had received favorable reviews in Softalk, Computer Gaming World, and Compute! Magazine.[^ref-14]
+The Hi-Res Adventures were critically acclaimed in their era. Softalk magazine's sales chart for September 1980 already showed The Wizard and the Princess as the second-best-selling piece of Apple II software, behind only VisiCalc.[^ref-13] By 1982, every Hi-Res entry to date had received favorable reviews in Softalk, Computer Gaming World, and Compute! Magazine.[^ref-14]
 
 The series's lasting legacy:
 
@@ -114,17 +114,17 @@ Mystery House was inducted into [[Awards|various retrospective Hall of Fame]] re
 
 [^ref-1]: [Wikipedia — Hi-Res Adventures](https://en.wikipedia.org/wiki/Hi-Res_Adventure) — Series overview
 [^ref-2]: [Smithsonian Magazine — Roberta Williams](https://www.smithsonianmag.com/smart-news/1980s-roberta-williams-brought-graphic-adventure-games-home-180962160/) — Mystery House as founding adventure-with-graphics
-[^ref-3]: [The Digital Antiquarian — Hi-Res Adventures](https://www.filfre.net/2011/12/sierras-launch/) — Engine architecture history
+[^ref-3]: [The Digital Antiquarian — On-Line Systems is Born](https://www.filfre.net/2011/10/on-line-systems-is-born/) — Mystery House written in 100% assembly language
 [^ref-4]: [Wikipedia — Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) — AGI as Hi-Res successor
-[^ref-5]: [Adventure Classic Gaming — Mystery House](http://www.adventureclassicgaming.com/index.php/site/reviews/mystery_house/) — Founding-entry analysis
+[^ref-5]: [The Digital Antiquarian — On-Line Systems is Born](https://www.filfre.net/2011/10/on-line-systems-is-born/) and [Ken and Roberta](https://www.filfre.net/2011/10/ken-and-roberta/) — Founding, May 1980 launch, Ziploc-bag packaging; Adventure on Ken's remote terminal
 [^ref-6]: Ken Williams, *Not All Fairy Tales Have Happy Endings* (2020) — Sales figures and revenue context
-[^ref-7]: [The Digital Antiquarian — Wizard and the Princess](https://www.filfre.net/2011/12/sierras-launch/) — Sales and office-move context
+[^ref-7]: [The Digital Antiquarian — The Wizard and the Princess, Part 2](https://www.filfre.net/2011/10/the-wizard-and-the-princess-part-2/) — Sales and office-move context
 [^ref-8]: [MobyGames — Adventure in Serenia](https://www.mobygames.com/game/3242/adventure-in-serenia/) — IBM port renaming
 [^ref-9]: [Wikipedia — Time Zone (video game)](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) — Six-disk production details
-[^ref-10]: [Hardcore Gaming 101 — Sierra On-Line](http://www.hardcoregaming101.net/sierra-on-line/) — Time Zone retrospective
+[^ref-10]: [The Digital Antiquarian — Time Zone: Aftermath](https://www.filfre.net/2012/06/time-zone-aftermath/) — Time Zone's commercial failure
 [^ref-11]: [Wikipedia — The Dark Crystal (video game)](https://en.wikipedia.org/wiki/The_Dark_Crystal_(video_game)) — Henson license
 [^ref-12]: [Sierra Help Wiki — Hi-Res era engines](https://wiki.sierrahelp.com/index.php/Hi-Res_Adventures) — Technical reference
-[^ref-13]: [Softalk Magazine archives](https://archive.org/details/softalkv01-v04) — Era reviews
+[^ref-13]: [The Digital Antiquarian — The Wizard and the Princess, Part 2](https://www.filfre.net/2011/10/the-wizard-and-the-princess-part-2/) — Softalk sales chart, September 1980
 [^ref-14]: [Computer Gaming World Museum](https://www.cgwmuseum.org) — Era CGW review collection
 [^ref-15]: [The Game Awards 2014 — Industry Icon](https://thegameawards.com) — Williams recognition
 [^ref-16]: [The Strong Museum — Mystery House Hall of Fame](https://www.museumofplay.org) — Museum recognition

@@ -23,13 +23,13 @@ tags: [screensaver, dynamix, sierra]
 
 ## Overview
 
-**Johnny Castaway** is a screensaver released in 1992 by [[Sierra On-Line]]/[[Dynamix]], marketed under the **Screen Antics** brand as "the world's first story-telling screen saver."[^ref-1][^ref-4][^ref-27][^ref-28][^ref-30] The program depicts a man named Johnny Castaway stranded on a tiny desert island with a single palm tree, engaging in an endless variety of activities while repeatedly failing to escape his tropical prison.[^ref-1]
+**Johnny Castaway** is a screensaver released in 1992 by [[Sierra On-Line]]/[[Dynamix]], marketed under the **Screen Antics** brand as "the world's first story-telling screen saver."[^ref-1][^ref-4][^ref-28][^ref-30] The program depicts a man named Johnny Castaway stranded on a tiny desert island with a single palm tree, engaging in an endless variety of activities while repeatedly failing to escape his tropical prison.[^ref-1]
 
 Unlike conventional screensavers of the era—such as the famous "flying toasters" from After Dark—Johnny Castaway tells an ongoing narrative that unfolds over approximately 120 days of real-world time.[^ref-3] The screensaver features Johnny performing daily activities like fishing, reading, jogging, and drinking from coconuts, interspersed with random comedic events and an overarching escape storyline.[^ref-3]
 
 Much like the castaways of *Gilligan's Island*, Johnny repeatedly comes tantalizingly close to rescue, only to remain stranded due to various unfortunate accidents.[^ref-4] The screensaver reads the computer's system clock, cycling through day and night sequences and recognizing major U.S. holidays with special themed animations.[^ref-1]
 
-The product shipped on a single 3½-inch floppy disk and required a 386SX processor running Windows 3.1.[^ref-1] A letter accompanying the original disk pleaded: *"Stop everything! Only when you quit working, do I have a chance to escape this forsaken island. So please, do it for me—kill some time to save an old salt!"*[^ref-3][^ref-19][^ref-21][^ref-23][^ref-20]
+The product shipped on a single 3½-inch floppy disk and required a 386SX processor running Windows 3.1.[^ref-1] A letter accompanying the original disk pleaded: *"Stop everything! Only when you quit working, do I have a chance to escape this forsaken island. So please, do it for me—kill some time to save an old salt!"*[^ref-3][^ref-19][^ref-23][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -131,7 +131,7 @@ The screensaver shipped in November 1992, with a stable version 1.02 released in
 
 ### Screen Antics Brand
 
-Sierra positioned Johnny Castaway as the first release in a "Screen Antics" product line. However, the brand began and ended with Johnny—though the ROI was excellent, the budget was so minimal that a sequel wasn't deemed worthwhile. Sierra also acquired After Dark's parent company around this time, making that team the de facto screensaver division.[^ref-3][^ref-22][^ref-25][^ref-26]
+Sierra positioned Johnny Castaway as the first release in a "Screen Antics" product line. However, the brand began and ended with Johnny—though the ROI was excellent, the budget was so minimal that a sequel wasn't deemed worthwhile. Sierra also acquired After Dark's parent company around this time, making that team the de facto screensaver division.[^ref-3][^ref-22][^ref-25]
 
 ## Reception
 
@@ -204,7 +204,6 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 
 [^ref-20]: [The Digital Antiquarian – Dynamix History](https://www.filfre.net/tag/dynamix/) – Comprehensive history of Dynamix and Sierra's screensaver division, including Johnny Castaway's commercial performance
 
-[^ref-21]: [Windows 3.1 Gaming Archive – Screensavers](https://archive.org/details/windows-3.1-games) – Historical documentation of Windows 3.1 applications including Johnny Castaway
 
 [^ref-22]: [Mobygames – Johnny Castaway](https://www.mobygames.com/game/johnny-castaway/) – Game database entry with complete credits, development details, and historical context
 
@@ -212,9 +211,7 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 
 [^ref-25]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Johnny_Castaway) – Community documentation including voice actors, complete animation sequences, and production details
 
-[^ref-26]: [The Incredible Machine Connection](https://archive.org/details/the_incredible_machine) – Concurrent Dynamix project documentation showing production timeline overlap
 [^ref-29]: [MobyGames – Johnny Castaway player ratings](https://www.mobygames.com/game/3401/johnny-castaway/) – player aggregate score, gameplay/animation commentary
 [^ref-30]: [LaunchBox Games Database – Johnny Castaway](https://gamesdb.launchbox-app.com/games/details/johnny-castaway) — community-curated metadata, Windows 3.x platform tagging, cover-art reference
 [^ref-17]: MyAbandonware – Johnny Castaway user reviews *(link removed: it led to a different game's page)* – user-side rating, nostalgic-era comments, preservation download
-[^ref-27]: [Old PC Gaming – Johnny Castaway retrospective](https://oldpcgaming.net/johnny-castaway/) — modern retrospective coverage placing the screensaver in Dynamix's early-1990s casual-software lineage
 [^ref-28]: [IGDB – Johnny Castaway](https://www.igdb.com/games/johnny-castaway) — Internet Games Database entry, release-year confirmation, platform (Windows 3.x) tagging

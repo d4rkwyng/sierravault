@@ -192,7 +192,7 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 - Physical copies occasionally available through secondary markets and auction sites[^ref-4]
 
 **Manuals & Extras**
-- Physical copies occasionally available through secondary markets[^ref-4] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-11][^ref-12][^ref-13][^ref-15][^ref-16][^ref-18][^ref-19]
+- Physical copies occasionally available through secondary markets[^ref-4] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-11][^ref-12][^ref-13][^ref-15][^ref-16][^ref-19]
 
 
 ## See Also
@@ -267,7 +267,6 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 [^ref-13]: [NeverDieMedia – Hoyle Puzzle Games 2002](http://web.archive.org/web/20250212111049/https://www.neverdiemedia.com/products/hoyle-puzzle-games-2002) – retail distribution documentation
 [^ref-15]: [LaunchBox Games Database – Sierra Entertainment Games](https://gamesdb.launchbox-app.com/developers/games/2391-sierra-entertainment) – Sierra game catalog and chronology
 [^ref-16]: [MobyGames – Hoyle Puzzle Games](https://www.mobygames.com/game/hoyle-puzzle-games-2002/) – game catalog information
-[^ref-18]: [PCGamingWiki – Hoyle Puzzle Games](https://www.pcgamingwiki.com/wiki/Hoyle_Puzzle_Games) – technical documentation
 [^ref-19]: [GameFAQs – Hoyle Puzzle Games](https://gamefaqs.gamespot.com/pc/915461-hoyle-puzzle-games-2002) – user reviews and ratings
 [^ref-20]: [GameSpot – Hoyle Puzzle Games Review](https://www.gamespot.com/reviews/hoyle-puzzle-games-review/1900-2895664/) – Contemporary professional review of the 2002 puzzle compilation, calling it an enjoyable single-player puzzle collection
 [^ref-21]: [Adventure Classic Gaming – Hoyle compilations retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) – historical context for Sierra's casual-games portfolio of which the Hoyle line was a central pillar

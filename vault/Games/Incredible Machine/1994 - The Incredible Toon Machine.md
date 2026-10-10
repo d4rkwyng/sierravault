@@ -255,7 +255,7 @@ The game demonstrated that the Rube Goldberg puzzle concept could be successfull
 [^ref-22]: [GameFAQs – Even More Contraptions FAQ](https://gamefaqs.gamespot.com/pc/536228-the-incredible-machine-even-more-contraptions/faqs/36199) – difficulty comparison
 [^ref-23]: [MobyGames – The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) – CGW awards, 1001 Video Games book
 [^ref-24]: [IGN Cheats – The Incredible Toon Machine](https://www.ign.com/wikis/pc-cheats/The_Incredible_Toon_Machine_Cheats) – "WIND" password for secret puzzles
-[^ref-25]: [Games Nostalgia – The Incredible Machine](https://gamesnostalgia.com/game/incredible-machine) – "most original puzzle games" quote, physics teaching
+[^ref-25]: [Games Nostalgia – The Incredible Machine](https://gamesnostalgia.net/game/incredible-machine) – "most original puzzle games" quote, physics teaching
 [^ref-26]: [MyAbandonware – Sid & Al's Incredible Toons](https://www.myabandonware.com/game/sid-al-s-incredible-toons-1md) – HOTUD rating, "catapulted the already addictive concept" quote
 [^ref-27]: [I ❤ Old Games Review](https://iheartoldgames.wordpress.com/2016/10/21/review-the-incredible-machine/) – review score, Tom & Jerry comparison
 [^ref-28]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Jeff Tunnell Productions founding, Sierra Discovery Series

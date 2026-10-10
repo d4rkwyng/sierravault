@@ -108,7 +108,7 @@ The game was originally titled "Super Stud Adventure" during development.[^ref-5
 
 ### Production
 
-Benton self-published the game under his own company name, Blue Sky Software, initially producing approximately 1,000 copies and selling only about 100.[^ref-5] He had difficulty finding a mainstream publisher due to the adult content, as computer magazines refused to carry advertisements for the game.[^ref-36] The breakthrough came when Ken Williams discovered the game at a trade show (AppleFest) and decided to give it a chance with On-Line Systems.[^ref-35]
+Benton self-published the game under his own company name, Blue Sky Software, initially producing approximately 1,000 copies and selling only about 100.[^ref-5] He had difficulty finding a mainstream publisher due to the adult content, as computer magazines refused to carry advertisements for the game.[^ref-36] The breakthrough came in 1981, when Benton was selling the game at a trade show and encountered Ken Williams, who eventually decided to release it through On-Line Systems.[^ref-35]
 
 Upon acquisition by On-Line Systems, Benton rewrote portions of the game for publication.[^ref-5] The game's success was immediate—it temporarily doubled On-Line's sales and caused work to halt at the company office as employees became absorbed in playing it.[^ref-36] By October 1981, approximately 4,000 copies had been sold, eventually reaching an estimated 50,000 copies over its commercial lifetime.[^ref-36]
 
@@ -268,7 +268,7 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 [^ref-19]: [Gamer Walkthroughs – Softporn Adventure](https://gamerwalkthroughs.com/softporn-adventure/) – three locations, Leisure Suit Larry connection
 [^ref-21]: [IFDB – Softporn Adventure](https://ifdb.org/viewgame?id=iumkhjn240gq59ws) – user ratings, puzzle content assessment, parser issues
 [^ref-22]: [GitHub – Softporn Modern Port](https://github.com/xandark/softporn-modern-port) – error messages, Pascal port history, game objectives
-[^ref-23]: [Games Nostalgia – Softporn Adventure](https://gamesnostalgia.com/game/softporn-adventure) – casino gameplay, blackjack learning
+[^ref-23]: [Games Nostalgia – Softporn Adventure](https://gamesnostalgia.net/game/softporn-adventure) – casino gameplay, blackjack learning
 [^ref-24]: [GameFAQs – Softporn Adventure Review](https://gamefaqs.gamespot.com/pc/564423-softporn-adventure/reviews/446) – review score, locations, critical assessment
 [^ref-25]: [ANTIC Magazine – December 1982 Review](https://www.atarimagazines.com/v1n5/productreviews.html) – Davey Saba review, price ($29.95), economy details
 [^ref-26]: [The Digital Antiquarian – Softporn](https://www.filfre.net/2012/02/softporn/) – development philosophy, playtesting, cut content, hate mail
@@ -278,7 +278,7 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 [^ref-31]: [GameFAQs – Softporn Adventure Stats](https://gamefaqs.gamespot.com/atari8bit/952715-softporn-adventure/stats) – user ratings, rankings
 [^ref-32]: [MyAbandonware – Softporn Adventure](https://www.myabandonware.com/game/softporn-adventure-19f) – HOTUD review, parser criticism vs Infocom
 [^ref-33]: Adventure Gamers – Softporn Adventure *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – community rating, publication details
-[^ref-35]: [RetroMania.gg – Softporn Adventure](https://retromania.gg/games/dos/softporn-adventure) – trade show discovery, publishing difficulties
+[^ref-35]: [Wikipedia – Softporn Adventure](https://en.wikipedia.org/wiki/Softporn_Adventure) – programming exercise not meant for commercial release; trade-show meeting with Ken Williams (replaces retromania.gg, now redirecting to an unrelated site)
 [^ref-36]: [Retro365 Blog – Softporn](https://retro365.blog/2018/06/24/a-bit-from-my-personal-collection-softporn/) – sales timeline, company impact, advertising difficulties
 [^ref-37]: [Every Game Going – Softporn Adventure](https://www.everygamegoing.com/litem/Softporn-Adventure/148784/) – Atari release date, technical specifications
 [^ref-38]: [IFWiki – Softporn Adventure](https://www.ifwiki.org/Softporn_Adventure) – Z-code port by Patrick Kellum

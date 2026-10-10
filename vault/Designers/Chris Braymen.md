@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest VI", "Quest for Glory II", "EcoQuest"]
 companies: ["Sierra On-Line", "Sculptured Software", "Kodiak Interactive", "Sony", "Disney Interactive", "WB Games"]
-last_updated: "2026-05-08"
+last_updated: "2026-10-09"
 ---
 # Chris Braymen
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ During his nearly four-year tenure at Sierra, Braymen contributed to some of the
 
 His most prominent Sierra work came with King's Quest VI: Heir Today, Gone Tomorrow (1992), where he served as the primary composer.[^ref-7] The game's soundtrack, including atmospheric pieces for the Land of the Dead and the various islands, helped establish the game's fairy-tale atmosphere.[^ref-8] The soundtrack has been praised for its emotional depth, with Braymen quoting the Gregorian chant "Dies Irae" in the theme that plays when Prince Alexander is captured in the Catacombs of the Isle of the Sacred Mountain.[^ref-9]
 
-Braymen also served as composer on Laura Bow II: The Dagger of Amon Ra (1992), creating memorable pieces including "Dr. Carter's Murder" which was later used in the Ben Jordan: Paranormal Investigator Deluxe Edition.[^ref-10] His final Sierra project was Gabriel Knight: Sins of the Fathers (1993), where he worked on sound design alongside Orpheus Hanley, Robert Holmes, and Mark Seibert.[^ref-11]
+Braymen also served as lead composer on Laura Bow II: The Dagger of Amon Ra (1992).[^ref-10] His final Sierra project was Gabriel Knight: Sins of the Fathers (1993), where he worked on sound design alongside Orpheus Hanley, Robert Holmes, and Mark Seibert.[^ref-11]
 
 Other notable Sierra credits include Castle of Dr. Brain, Conquests of the Longbow, Mixed-Up Fairy Tales, and Leisure Suit Larry 5 and 6.[^ref-1]
 
@@ -69,7 +69,7 @@ As primary composer on [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King
 
 ### Laura Bow II: The Dagger of Amon Ra (1992)
 
-Braymen composed the soundtrack for [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]], creating atmospheric music for the 1920s museum murder mystery setting.[^ref-10] His piece "Dr. Carter's Murder" achieved later recognition when it was used in the Ben Jordan: Paranormal Investigator Deluxe Edition in 2006.[^ref-10]
+Braymen composed the soundtrack for [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]], creating atmospheric music for the 1920s museum murder mystery setting.[^ref-10]
 
 ### EcoQuest: The Search for Cetus (1991)
 
@@ -137,7 +137,7 @@ The Space Quest Historian podcast has featured Braymen verifying composer credit
 [^ref-7]: [MobyGames - King's Quest VI](https://www.mobygames.com/game/131/kings-quest-vi-heir-today-gone-tomorrow/) — KQ6 composer credits
 [^ref-8]: [King's Quest Fandom Wiki - KQ6 Music](https://kingsquest.fandom.com/wiki/King%27s_Quest_VI) — KQ6 soundtrack information
 [^ref-9]: [MobyGames - King's Quest VI Trivia](https://www.mobygames.com/game/131/kings-quest-vi-heir-today-gone-tomorrow/trivia/) — Dies Irae musical quotation
-[^ref-10]: [VGMPF - Laura Bow II](https://vgmpf.com/Wiki/index.php?title=Laura_Bow_in_The_Dagger_of_Amon_Ra) — Dagger of Amon Ra music credits and Ben Jordan reuse
+[^ref-10]: [VGMPF - Chris Braymen](https://www.vgmpf.com/Wiki/index.php?title=Chris_Braymen) — Credits: Laura Bow in The Dagger of Amon Ra (DOS), Lead Composer; Gabriel Knight: Sins of the Fathers, sound
 [^ref-11]: [MobyGames - Gabriel Knight Credits](https://www.mobygames.com/game/gabriel-knight-sins-of-the-fathers/) — GK1 audio credits
 [^ref-12]: [Space Quest Historian Podcast](https://spacequesthistorian.bandcamp.com/) — Sierra music preservation project
 [^ref-13]: [LinkedIn - Chris Braymen](https://www.linkedin.com/in/chrisbraymen) — Professional career history

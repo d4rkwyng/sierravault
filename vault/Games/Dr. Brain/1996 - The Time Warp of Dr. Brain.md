@@ -171,7 +171,7 @@ Technical specifications included support for 68K and PowerPC architectures on M
 
 The Time Warp of Dr. Brain represents the end of an era for the original Dr. Brain series, as it was "the final Dr. Brain game before being sold to Knowledge Adventure"[^ref-1]. As a direct sequel to The Lost Mind of Dr. Brain[^ref-39], it marked the conclusion of Sierra's involvement with the franchise. The series was later "revived by Knowledge Adventure with three additional games"[^ref-39]. 
 
-Upon completing all 10 puzzles, "Dr. Brain is seen passing the starting screen in his time travelling machine, and returning home through a space-time rift"[^ref-40]. Despite mixed modern reception, the game has found preservation through various abandonware sites and continues to be remembered fondly by some players who experienced it as children[^ref-41]. One player noted "I feel like this is definitely one of the forgotten entries in this series, which is a shame"[^ref-41]. Additional documentation exists through Wikidata's structured metadata[^ref-34], WikiMili's comprehensive game details[^ref-35], and Reddit's Sierra community discussions[^ref-36]. The MobyGames database provides both search functionality[^ref-37] and a primary entry for the title[^ref-38].
+Upon completing all 10 puzzles, "Dr. Brain is seen passing the starting screen in his time travelling machine, and returning home through a space-time rift"[^ref-40]. Despite mixed modern reception, the game has found preservation through various abandonware sites and continues to be remembered fondly by some players who experienced it as children[^ref-41]. One player noted "I feel like this is definitely one of the forgotten entries in this series, which is a shame"[^ref-41]. Additional documentation exists through Wikidata's structured metadata[^ref-34] and Reddit's Sierra community discussions[^ref-36]. The MobyGames database provides both search functionality[^ref-37] and a primary entry for the title[^ref-38].
 
 The game's educational approach, incorporating "Gardner's theory of multiple intelligences"[^ref-8], reflected Sierra's commitment to creating games that were both entertaining and pedagogically sound.
 
@@ -238,7 +238,6 @@ The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One s
 [^ref-32]: [Never Die Media](https://www.neverdiemedia.com/products/the-time-warp-of-dr-brain) – - Product description
 [^ref-33]: [Wayback Machine - Sierra Product Page](https://web.archive.org/web/19961219233717/http://www.sierra.com/cgi-bin/store/product-description?9311810300) – - Original marketing materials
 [^ref-34]: [Wikidata](https://www.wikidata.org/wiki/Q7769345) – - Official metadata entry
-[^ref-35]: [WikiMili](https://wikimili.com/en/The_Time_Warp_of_Dr._Brain) – - Comprehensive game details
 [^ref-36]: [Reddit - Sierra Community](https://www.reddit.com/r/Sierra/comments/qwdzzq/ripping_sprites_from_the_time_warp_of_dr_brain/) – - Technical discussion forum
 [^ref-37]: [MobyGames Search](https://www.mobygames.com/search/?q=The+Time+Warp+of+Dr.+Brain) – - Database search results
 [^ref-38]: [MobyGames Main Entry](https://www.mobygames.com/game/6885/) – - Primary database entry

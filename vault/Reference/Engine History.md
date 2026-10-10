@@ -1,14 +1,14 @@
 ---
 title: "Engine History"
 type: reference
-last_updated: "2026-07-13"
+last_updated: "2026-10-09"
 description: "The technical evolution of Sierra On-Line's game engines from 1980 to 2015 — Hi-Res Adventure, AGI, SCI 0/1/1.1/2/3/32, the 3Space-derived Mask of Eternity engine, the Sci Companion era, and the post-Sierra engines used by acquired studios and the 2015 Odd Gentlemen reboot."
 tags: [reference, engines, technology, agi, sci, sci32]
 ---
 
 # Engine History
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -24,7 +24,7 @@ For a quick reference of which engine shipped on which page, the `engine:` YAML 
 **Platform:** Apple II family (later Apple II GS).
 **Era:** Pre-AGI.
 
-The original Hi-Res Adventures (Roberta Williams' first six titles plus a handful of contemporary On-Line products) weren't built on a unified engine. Each was a hand-crafted BASIC program with assembly subroutines for vector-drawn graphics and text-parser input.[^ref-1] The graphics were stored as drawing-instruction streams (move, draw, fill) executed by an interpreter — extremely compact compared to bitmap storage and one of the keys that let Sierra fit *Time Zone* on 6 disks.[^ref-2]
+The original Hi-Res Adventures (Roberta Williams' first six titles plus a handful of contemporary On-Line products) weren't built on a unified engine. Each was a hand-crafted BASIC program with assembly subroutines for vector-drawn graphics and text-parser input.[^ref-1] For *Time Zone*, some 1,400 pencil sketches were traced on Apple's Graphics Tablet with the tools Ken had built for *The Wizard and the Princess*, filled with color, and stored on disk in a highly compressed format; even so, the game grew to twelve disk sides.[^ref-2]
 
 Defining games:
 
@@ -210,7 +210,7 @@ For modern users, GOG.com's Sierra catalogue bundles either ScummVM or DOSBox pr
 ## References
 
 [^ref-1]: Ken Williams, *Not All Fairy Tales Have Happy Endings* (2020) — Hi-Res Adventures architecture
-[^ref-2]: [The Digital Antiquarian — Hi-Res Adventures](https://www.filfre.net/2011/12/sierras-launch/) — Time Zone disk-size context
+[^ref-2]: [The Digital Antiquarian — Time Zone](https://www.filfre.net/2012/06/time-zone/) — Time Zone picture pipeline and disk-size context
 [^ref-3]: [Strong Museum — King's Quest Hall of Fame](https://www.museumofplay.org/games/kings-quest/) — IBM PCjr commission
 [^ref-4]: [ScummVM Wiki — AGI](https://wiki.scummvm.org/index.php?title=AGI) — Animation architecture
 [^ref-5]: [Wikipedia — AGI](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) — Cross-platform interpreter design

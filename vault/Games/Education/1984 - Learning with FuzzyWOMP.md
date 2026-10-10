@@ -151,7 +151,7 @@ Learning With Fuzzywomp has not been documented as part of any major compilation
 
 ### Fan Projects
 
-No significant fan projects, remakes, or modifications have been documented for Learning With Fuzzywomp. The game exists primarily as a historical artifact of early educational software development, preserved by vintage computing enthusiasts and software archivists.[^ref-5][^ref-6][^ref-7][^ref-13]
+No significant fan projects, remakes, or modifications have been documented for Learning With Fuzzywomp. The game exists primarily as a historical artifact of early educational software development, preserved by vintage computing enthusiasts and software archivists.[^ref-5][^ref-6][^ref-7]
 
 ### Related Publications
 
@@ -209,6 +209,5 @@ In the context of Sierra On-Line's history, Learning With Fuzzywomp demonstrates
 [^ref-10]: [Wikidata – Learning with FuzzyWOMP](https://www.wikidata.org/wiki/Q2350175) – structured data entry, identifier references
 [^ref-11]: [Giant Bomb – International Releases](https://www.giantbomb.com/learning-with-fuzzywomp/3030-6933/releases/) – release information, platform details
 [^ref-12]: [MobyGames – Learning with Leeper](https://www.mobygames.com/game/56058/learning-with-leeper/) – predecessor game, Sierra educational software context
-[^ref-13]: [Azygram – Learning with FuzzyWOMP](https://azygram.com/games/d/learning-with-fuzzywomp-575087) – game database entry, metadata
 [^ref-14]: RedKingsDream – Learning with Fuzzywomp *(link removed: the domain now serves gambling spam)* – educational skills analysis, family testing review
-[^ref-15]: [Vintage Sierra – Learning with Fuzzy Womp](https://web.archive.org/web/vintage-sierra.net/learning-with-fuzzy-womp/) – Sierra collector community documentation
+[^ref-15]: [Vintage Sierra – Learning with Fuzzy Womp](https://web.archive.org/web/20140915205524/http://www.vintage-sierra.net/childrens/fuzzywomp.php) – Sierra collector community documentation

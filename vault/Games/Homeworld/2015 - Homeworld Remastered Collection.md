@@ -373,7 +373,7 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [^ref-22]: [GameFAQs – Homeworld Walkthrough](https://gamefaqs.gamespot.com/pc/141615-homeworld/faqs/45211) – mission details, Adagio for Strings info, bugs
 [^ref-24]: [Game-Over.net – Homeworld Review](https://www.game-over.net/review/oct99/homeworld/) – 92% score, ship counts, playable races
 [^ref-25]: [GOG.com – Homeworld Remastered Collection](https://www.gog.com/en/game/homeworld_remastered_collection) – technical specs, multiplayer details, content list
-[^ref-26]: [Gearbox Zendesk – Update Information](https://gearboxsoftware.zendesk.com/hc/en-us/articles/205281840-Homeworld-Remastered-Collection-Update-Information) – patch notes, formation rewrite, update history
+[^ref-26]: [Gearbox Entertainment Support – Update Information](https://support.gearboxsoftware.com/hc/en-us/articles/205281840-Homeworld-Remastered-Collection-Update-Information) – patch notes, formation rewrite, update history
 [^ref-27]: [PC Gamer – Homeworld Remastered Review](http://www.pcgamer.com/homeworld-remastered-review/) – 92/100 score, Tom Senior quotes
 [^ref-28]: [GameSpot – Homeworld Remastered Collection Review](https://archive.today/20170306173625/http://www.gamespot.com/reviews/homeworld-remastered-collection-review/1900-6416056/) – 8/10 score, Kevin VanOrd review, gameplay changes
 [^ref-29]: [Metacritic – Homeworld Remastered Collection](https://www.metacritic.com/game/homeworld-remastered-collection/critic-reviews/?platform=pc) – 86 Metascore, individual scores

@@ -228,7 +228,7 @@ From a modern perspective, the game serves as an important data point in underst
 [^ref-5]: [Crimdom.net – Developer Website](https://crimdom.net/wrath-of-denethenor/) – first-hand development account, design philosophy, sales estimates
 [^ref-6]: [Sierra Help Wiki](https://wiki.sierrahelp.com/index.php/Wrath_of_Denethenor) – technical details, engine information, features
 [^ref-7]: [VideoGameGeek](https://videogamegeek.com/videogame/217058/wrath-of-denethenor) – game description, setting background
-[^ref-8]: [Eli Software Encyclopedia](https://www.elisoftware.org/w/index.php?title=Wrath_Of_Denethenor_(Apple_II,_5_1/4%22_Disk)_Sierra_-_1986_USA,_Canada_Release) – package description, features, enemy types, technical specs
+[^ref-8]: [Eli Software Encyclopedia](https://elisoftware.org/wiki/Wrath_Of_Denethenor_(Apple_II,_5_1/4%22_Disk)_Sierra_-_1986_USA,_Canada_Release) – package description, features, enemy types, technical specs
 [^ref-9]: [Internet Archive – Manual Text](https://archive.org/stream/vgmuseum_sierra_denethenor-manual/denethenor-manual_djvu.txt) – storyline, credits, world details
 [^ref-10]: [Crimdom.net – Walkthrough](https://crimdom.net/wrath-of-denethenor/the-wrath-of-denethenor-walkthrough/) – protagonist quotes, gameplay details
 [^ref-11]: [Lemon64 – Game Page](https://www.lemon64.com/game/wrath-of-denethenor) – user comments, technical specs, ratings

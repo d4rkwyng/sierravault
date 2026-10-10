@@ -23,7 +23,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 
 ## Overview
 
-3D Ultra Lionel Traintown is a third-person railroading puzzle game developed by [[Dynamix]] and published by Sierra Attractions for Windows PC in 1999[^ref-1][^ref-19][^ref-20][^ref-21][^ref-22]. Licensed by Lionel, LLC, the game draws inspiration from the once-popular Lionel toy trains to create a virtual environment where trains are the main attraction[^ref-2]. Unlike other entries in Sierra's 3D Ultra series that focused on quick bursts of arcade fun, Traintown represented a departure into puzzle-oriented gameplay, making it a worthy and distinctive entry in the franchise[^ref-3].
+3D Ultra Lionel Traintown is a third-person railroading puzzle game developed by [[Dynamix]] and published by Sierra Attractions for Windows PC in 1999[^ref-1][^ref-19][^ref-20][^ref-21]. Licensed by Lionel, LLC, the game draws inspiration from the once-popular Lionel toy trains to create a virtual environment where trains are the main attraction[^ref-2]. Unlike other entries in Sierra's 3D Ultra series that focused on quick bursts of arcade fun, Traintown represented a departure into puzzle-oriented gameplay, making it a worthy and distinctive entry in the franchise[^ref-3].
 
 The game features over 70 challenging assignments across seven different play environments, including a desert, the arctic, a living room, and even the moon[^ref-1]. Players control locomotives to deliver various cargos from one place to another, with each level featuring its own narrated scenario rather than aimless train movement[^ref-2]. The gameplay spans from simple deliveries to more complex tasks like clearing avalanches off tracks before passenger trains arrive[^ref-4]. Educational elements are woven throughout, developing in young players an appreciation for how trains and railroads work, as well as how goods are transported in the real world[^ref-14].
 
@@ -264,4 +264,3 @@ In retrospect, the game represents an interesting moment in edutainment history�
 [^ref-19]: [IGDB – 3-D Ultra Lionel TrainTown](https://www.igdb.com/games/3-d-ultra-lionel-traintown) — Internet Games Database entry, Windows platform tagging, release-year confirmation
 [^ref-20]: LaunchBox Games Database – 3-D Ultra Lionel TrainTown *(link removed: it led to a different game's page)* — community-curated metadata, cover-art reference
 [^ref-21]: [Lionel Trains official archive](https://www.lionel.com/) — Lionel-side documentation of the licensed partnership with Sierra/Dynamix
-[^ref-22]: [PCGamingWiki – 3-D Ultra Lionel TrainTown](https://www.pcgamingwiki.com/wiki/3-D_Ultra_Lionel_TrainTown) — technical documentation, compatibility matrix, modern-OS install notes

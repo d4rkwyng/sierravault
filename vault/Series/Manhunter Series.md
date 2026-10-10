@@ -7,16 +7,16 @@ first_release: 1988
 last_release: 1989
 total_games: 2
 genre: "Adventure, Science Fiction"
-last_updated: "2026-05-13"
+last_updated: "2026-10-09"
 ---
 
 # Manhunter Series
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-The Manhunter series is a two-game post-apocalyptic science-fiction adventure series developed by **Evryware** (the husband-wife-and-sister team of Dave Murry, Barry Murry, and Dee Dee Murry) and published by Sierra On-Line in 1988 and 1989.[^ref-1] The series is one of Sierra's darkest and most thematically unusual properties — set on Earth after an alien race called the Orbs has subjugated humanity, the player is a "Manhunter" forced to investigate other humans on behalf of the alien overlords, with a heavy ambient dread of authoritarianism and resistance.[^ref-2]
+The Manhunter series is a two-game post-apocalyptic science-fiction adventure series developed by **Evryware** (Dave Murry, Barry Murry, and Dee Dee Murry) and published by Sierra On-Line in 1988 and 1989.[^ref-1] The series is one of Sierra's darkest and most thematically unusual properties — set on Earth after an alien race called the Orbs has subjugated humanity, the player is a "Manhunter" forced to investigate other humans on behalf of the alien overlords, with a heavy ambient dread of authoritarianism and resistance.[^ref-2]
 
 The series is unusual within the Sierra catalog for three reasons:
 
@@ -40,7 +40,7 @@ Set in 2004, two years after the alien Orbs have invaded Earth and pacified huma
 - **No spoken dialog** — Manhunter has no voice; narrative communicated entirely through investigation interfaces, environmental detail, and the supplementary game manual ("Manhunter's Manual"), which contained essential backstory.
 - **Tracker-device UI** — Players spent significant time in a route-tracing minigame, plotting paths across maps of NYC.
 - **Real NYC landmarks** as locations — Statue of Liberty, Central Park, etc., reimagined as Orb-occupied territory.
-- **Action sequences** — Brief reflex-based mini-games (chase scenes) interspersed with investigation.[^ref-4]
+- **Action sequences** — Arcade sequences mixed in with the adventure investigation; Adventure Classic Gaming found them frustrating and loosely tied to the plot.[^ref-4]
 
 **Reception:** Strong critical reception. Computer Gaming World's Charles Ardai called it "one of the most original adventure games in years." Won several "Adventure of the Year" mentions. Sold respectably but was not a Sierra mega-hit.[^ref-5]
 
@@ -52,9 +52,9 @@ Direct sequel set immediately after *Manhunter: New York*. The protagonist has f
 - **Refined investigation UI** — AGI v3 engine improvements allowed more detailed crime-scene examination.
 - **More action sequences** — including a memorable chase across the Golden Gate Bridge.
 - **Branching paths** — multiple solutions to some investigations.
-- **Cliffhanger ending** — set up the cancelled *Manhunter 3*.[^ref-6]
+- **Cliffhanger ending** — Phil Cook escapes in an Orb ship bound for London with the player clinging to its hull; no third game followed.[^ref-6]
 
-**Reception:** Generally positive but not as widely celebrated as the first entry. Critics felt it lacked the original's surprise factor, though the chase sequences and improved investigation puzzles were praised.[^ref-7]
+**Reception:** Mixed. Adventure Classic Gaming rated it 3 of 5, saying it corrected some of the first game's mistakes but that its arcade sequences "unduly detract from the adventure element" and its puzzles were "still much too simple"; *Computer and Video Games* gave it 61%, criticizing the mix of adventure and arcade elements.[^ref-7][^ref-6]
 
 ## Manhunter 3 (Cancelled)
 
@@ -86,13 +86,13 @@ The series is currently available digitally on GOG.com as part of the Sierra Adv
 
 ## References
 
-[^ref-1]: [Wikipedia — Manhunter series](https://en.wikipedia.org/wiki/Manhunter_(video_game_series)) — Series overview
+[^ref-1]: [Wikipedia — Manhunter: New York](https://en.wikipedia.org/wiki/Manhunter:_New_York) — Developer Evryware, Murry credits, Sierra On-Line publisher
 [^ref-2]: [MobyGames — Manhunter group](https://www.mobygames.com/group/manhunter/) — Catalog
 [^ref-3]: [Wikipedia — Manhunter: New York](https://en.wikipedia.org/wiki/Manhunter:_New_York) — Game-mechanics overview
-[^ref-4]: [Adventure Classic Gaming — Manhunter: New York review](http://www.adventureclassicgaming.com/index.php/site/reviews/manhunter_new_york/) — Design analysis
+[^ref-4]: [Adventure Classic Gaming — Manhunter: New York review](https://web.archive.org/web/20160123051849/http://www.adventureclassicgaming.com/index.php/site/reviews/162/) (archived) — Design analysis
 [^ref-5]: [Computer Gaming World — Manhunter review (1988)](http://www.cgwmuseum.org/galleries/index.php?year=1988) — Charles Ardai review
-[^ref-6]: [Wikipedia — Manhunter: San Francisco](https://en.wikipedia.org/wiki/Manhunter:_San_Francisco) — Sequel overview
-[^ref-7]: [Adventure Classic Gaming — Manhunter: San Francisco review](http://www.adventureclassicgaming.com/index.php/site/reviews/manhunter_san_francisco/) — Sequel analysis
+[^ref-6]: [Wikipedia — Manhunter 2: San Francisco](https://en.wikipedia.org/wiki/Manhunter_2:_San_Francisco) — Sequel overview, ending, CVG 61%
+[^ref-7]: [Adventure Classic Gaming — Manhunter 2: San Francisco review](https://web.archive.org/web/20130508065520/http://www.adventureclassicgaming.com/index.php/site/reviews/183/) (archived) — Sequel analysis, 3 of 5
 [^ref-8]: [Sierra Gamers — Manhunter retrospective](https://www.sierragamers.com) — Cancellation context
 [^ref-9]: [Hardcore Gaming 101 — Manhunter](http://www.hardcoregaming101.net/manhunter/) — Series retrospective
 [^ref-10]: [GOG.com — Sierra Adventure Pack](https://www.gog.com/en/games?developers=sierra-on-line) — Current commercial availability

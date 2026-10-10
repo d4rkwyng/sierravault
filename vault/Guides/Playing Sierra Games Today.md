@@ -402,7 +402,6 @@ See [[Buying Guide]] for detailed purchasing recommendations.
 - **[SierraHelp.com](https://www.sierrahelp.com/)** — Patches, installers, troubleshooting
 - **[The Sierra Chest](https://www.sierrachest.com/)** — Manuals, documentation, history
 - **[SpaceQuest.net](https://spacequest.net/)** — Space Quest specific resources
-- **[Quest for More Glory](https://www.questformoreglory.com/)** — QFG tools and guides
 
 ### Technical Resources
 

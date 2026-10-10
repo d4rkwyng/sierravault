@@ -10,14 +10,14 @@ series: NASCAR Racing
 engine: Modified NASCAR 2 engine
 protagonist: NASCAR Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: NASCAR Racing 3 is a comprehensive NASCAR simulation developed by Papyrus
   Design Group and published by Sierra Sports in 1999. The game represents the third...
 tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 3
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -111,7 +111,7 @@ The game received a Craftsman Truck Series Expansion Pack in 2000, adding new ve
 
 NASCAR Racing 3's modding community has created extensive modifications including updated car sets, new tracks, and enhanced graphics, helping maintain the game's relevance decades after release[^ref-16]. Over two decades later, players continue to create new content, with contemporary mods updating the game to reflect modern NASCAR configurations and introducing fictional scenarios. The game's lasting appeal is evidenced by continued community activity and modern gaming platform wishlists requesting its re-release[^ref-16].
 
-Modern players comparing NASCAR Racing 3 to subsequent NASCAR games often note that "22 years and this title still holds up remarkably well. Nothing released since has measured up to the quality of this game"[^ref-16], a testament to the timeless quality of its simulation foundation and design philosophy. The game remains a benchmark against which modern racing simulations are measured.[^ref-27]
+Modern players comparing NASCAR Racing 3 to subsequent NASCAR games often note that "22 years and this title still holds up remarkably well. Nothing released since has measured up to the quality of this game"[^ref-16], a testament to the timeless quality of its simulation foundation and design philosophy.
 
 ## Downloads
 
@@ -163,4 +163,3 @@ Modern players comparing NASCAR Racing 3 to subsequent NASCAR games often note t
 [^ref-24]: [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-3-cow) – - Long-term impact and community assessment
 [^ref-25]: [MyAbandonware Expansion](https://www.myabandonware.com/game/nascar-racing-3-craftsman-truck-series-expansion-pack-dpv) – - Expansion pack information
 [^ref-26]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_3) – - Patch version information
-[^ref-27]: [Classic Racing Simulator Database](https://classicracingsims.net/NASCAR_Racing_3/) – - Modding community legacy and contemporary appreciation

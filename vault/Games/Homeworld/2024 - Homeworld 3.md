@@ -55,7 +55,7 @@ The story explores themes of legacy, discovery, and sacrifice as Imogen must pro
 
 Homeworld 3 maintains the series' signature fully 3D space combat, allowing players to command their fleets across all axes of movement in vast, open battlespaces.[^ref-17] The development team worked extensively to make the controls more accessible than previous entries, with CEO Rob Cunningham noting: "It's way easier to play Homeworld 3 than it was to play Homeworld 1."[^ref-17] The game offers multiple control schemes including traditional mouse-based camera control and a new WASD camera option for players who prefer that style.[^ref-18]
 
-The interface builds upon the classic Homeworld control scheme while introducing modern quality-of-life improvements.[^ref-21] Players can issue commands to individual ships or grouped squadrons, with the ability to assign formations, attack patterns, and movement orders through an intuitive command system.[^ref-6] However, some critics noted that unit responsiveness could be inconsistent, with Eurogamer observing that ships sometimes "ignore orders or respond lazily" compared to the snappy, responsive controls of earlier games in the series.[^ref-20]
+The interface builds upon the classic Homeworld control scheme while introducing modern quality-of-life improvements.[^ref-21] Players can issue commands to individual ships or grouped squadrons, with the ability to assign formations, attack patterns, and movement orders through an intuitive command system. However, some critics noted that unit responsiveness could be inconsistent, with Eurogamer observing that ships sometimes "ignore orders or respond lazily" compared to the snappy, responsive controls of earlier games in the series.[^ref-20]
 
 ### Structure and Progression
 
@@ -157,7 +157,7 @@ Homeworld 3 was built on Unreal Engine 4 (engine build 4.27.2).[^ref-9] The game
 
 The terrain system represents the game's most significant technical innovation. As Rob Cunningham explained: "When we made Homeworld 1, the big deal to us at the time was this thing was in 3D and it was in empty space. The problem was the space: there was just so much space. We had some asteroids, but that was it."[^ref-42] The megalithic structures that now populate battlespaces required sophisticated physics calculations for line-of-sight determination and projectile collision.
 
-The fully simulated ballistics system means every projectile is individually tracked and can be blocked by intervening objects, creating tactical opportunities impossible in earlier games.[^ref-3] Game Director Lance Mueller noted that "The convenient cover in mission three specifically is to set up the hard counters and soft counters of the game. Terrain is supposed to be more of a creator of soft counters."[^ref-49]
+The fully simulated ballistics system means every projectile is individually tracked and can be blocked by intervening objects, creating tactical opportunities impossible in earlier games.[^ref-3] Game Director Lance Mueller noted that "Terrain creates a soft counter for the hard counters in the game, too."[^ref-49]
 
 Brennan Massicotte, discussing ship design, explained the art team's approach: "The Mothership is a great example because it retains so much of the core idea, but feels like a flying knife chiseled out of stealth angles."[^ref-50] Karl Gryc added: "We put a lot of effort into ensuring everything felt true to scale while also being aesthetically pleasing."[^ref-50]
 
@@ -204,7 +204,7 @@ Reviewers reported several technical problems at launch:
 ### Easter Eggs and Trivia
 
 - The game is dedicated to the memory of Alex Gomersall (1981-2022)[^ref-8]
-- The Mothership's default position is lying flat but can be rotated to its classic "space-banana" orientation from previous games[^ref-49]
+- Following a fan request, the Mothership Khar-Kushan can rotate 90 degrees on its axis to switch between vertical ("banana") and horizontal ("croissant") orientations[^ref-67]
 - An asteroid mission was included as a deliberate homage to Homeworld 1[^ref-54]
 - The original Homeworld was inspired by Battlestar Galactica and Star Wars[^ref-10]
 - Samuel Barber's "Adagio for Strings" served as the musical pillar of the original Homeworld; composer Paul Ruskay noted: "Without Adagio, Homeworld would simply not have had the emotional impact"[^ref-55]
@@ -271,7 +271,7 @@ Perhaps most telling is Rob Cunningham's own framing of the project. When asked 
 
 **Official Resources**
 - [Homeworld Universe Official Site](https://www.homeworlduniverse.com/)
-- [Gearbox Publishing Game Page](https://www.gearboxpublishing.com/game/homeworld-3/)
+- [Homeworld Official Site (2K)](https://2k.com/games/homeworld/)
 
 ## See Also
 
@@ -286,19 +286,19 @@ Perhaps most telling is Rob Cunningham's own framing of the project. When asked 
 
 [^ref-1]: [Wikipedia – Homeworld 3](https://en.wikipedia.org/wiki/Homeworld_3) – release dates, platforms, ratings, development history, crowdfunding details
 [^ref-17]: [PC Gamer – Homeworld 3 Director Interview](https://www.gamesradar.com/homeworld-3-director-says-hes-been-waiting-20-years-to-make-his-dream-strategy-game/) – development timeline, original vision
-[^ref-3]: [Gearbox Publishing – Fleet Command Online Press Release](https://www.gearboxpublishing.com/press_release/fleet-command-online-homeworld-3-to-launch-worldwide-in-q4-2022/) – gameplay features, development philosophy
+[^ref-3]: [Gearbox Publishing – Fleet Command Online Press Release](https://web.archive.org/web/20220627153729/https://www.gearboxpublishing.com/press_release/fleet-command-online-homeworld-3-to-launch-worldwide-in-q4-2022/) (archived; original gearboxpublishing.com URL now redirects to 2k.com) – gameplay features, development philosophy
 [^ref-4]: [Gaming Bolt – Homeworld 3 Interview](https://gamingbolt.com/homeworld-3-interview-megaliths-story-war-games-and-more) – story premise, design philosophy
 [^ref-5]: [GameSpot – Units and Ships Guide](https://www.gamespot.com/gallery/homeworld-3-units-ships-campaign-guide/2900-5370/) – story context, gameplay mechanics
-[^ref-6]: [Blackbird Interactive – Projects Page](https://blackbirdinteractive.com/projects/) – official game description
+[^ref-6]: [Blackbird Interactive – Homeworld 3](https://www.blackbirdinteractive.com/homeworld3) – official game description
 [^ref-7]: [CGMagazine – Homeworld 3 Review](https://www.cgmagonline.com/review/game/homeworld-3-pc-review/) – gameplay assessment, story summary
 [^ref-8]: [MobyGames – Homeworld 3 Credits](https://www.mobygames.com/game/223801/homeworld-3/) – full credits, technical details
 [^ref-9]: [PCGamingWiki – Homeworld 3 (engine note)](https://www.pcgamingwiki.com/wiki/Homeworld_3) – "Unreal Engine 4 engine build: 4.27.2"
 [^ref-10]: [Hardcore Gamer – Homeworld 3 Preview](https://hardcoregamer.com/blackbird-interactive-looks-to-revive-a-strategy-classic-with-homeworld-3/) – franchise history, setting
 [^ref-11]: [Gamers Heroes – Launch Announcement](https://www.gamersheroes.com/gaming-news/sci-fi-epic-homeworld-3-now-available/) – story details, features
-[^ref-12]: [Gearbox Publishing – Story Trailer Press Release](https://www.gearboxpublishing.com/press_release/homeworld-3-reveals-the-next-chapter-in-the-award-winning-homeworld-franchise-with-new-story-trailer/) – character details, enemy faction
+[^ref-12]: [Gearbox Publishing – Story Trailer Press Release](https://web.archive.org/web/20240221054955/https://www.gearboxpublishing.com/press_release/homeworld-3-reveals-the-next-chapter-in-the-award-winning-homeworld-franchise-with-new-story-trailer/) (archived) – character details, enemy faction
 [^ref-13]: [Charlie INTEL – Campaign Length](https://www.charlieintel.com/games/how-long-to-beat-homeworld-3-full-mission-list-324226/) – mission count, completion time
 [^ref-14]: [TV Tropes – Homeworld 3](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Homeworld3) – writer quotes, critical reception
-[^ref-15]: [Gearbox Publishing – Official Game Page](https://www.gearboxpublishing.com/game/homeworld-3/) – story summary, gameplay features
+[^ref-15]: [Gearbox Publishing – Official Game Page](https://web.archive.org/web/20240510233543/https://www.gearboxpublishing.com/game/homeworld-3/) (archived) – story summary, gameplay features
 [^ref-16]: [PCGamesN – Big Update](https://www.pcgamesn.com/homeworld-3/big-update) – reception, patch notes, story criticism
 [^ref-18]: [Game Rant – Difficulty and Cover System Interview](https://gamerant.com/homeworld-3-difficulty-changes-cover-system-good/) – terrain mechanics, control improvements
 [^ref-21]: [Gamepressure – Beginner's Guide](https://www.gamepressure.com/newsroom/homeworld-3-guide-tips-for-beginners/z56d6e) – gameplay tips, mechanics
@@ -310,7 +310,7 @@ Perhaps most telling is Rob Cunningham's own framing of the project. When asked 
 [^ref-26]: [Gaming Cypher – Gamescom Coverage](https://gamingcypher.com/homeworld-3-brings-iconic-sci-fi-storytelling-and-3d-strategic-experience-to-the-modern-era/) – cover mechanics
 [^ref-27]: [Game Rant – Fleet Comparison Guide](https://gamerant.com/homeworld-3-hiigaran-fleet-or-incarnate-fleet/) – faction details
 [^ref-29]: [OpenCritic – Homeworld 3](https://opencritic.com/game/16052/homeworld-3) – aggregated reviews
-[^ref-31]: [PC Gamer – DLC Update](https://www.pcgamer.com/games/strategy/homeworld-3-will-get-two-of-its-dlc-packs-this-november-rather-than-in-2026/) – Steam ratings, PC Gamer score
+[^ref-31]: [PC Gamer – DLC Update](https://www.pcgamer.com/games/strategy/homeworld-3-will-get-two-of-its-dlc-packs-this-november-rather-than-in-2025/) – Steam ratings, PC Gamer score
 [^ref-32]: [GamesRadar – Homeworld 3 Review](https://www.gamesradar.com/games/real-time-strategy/homeworld-3-review/) – review score and quotes
 [^ref-33]: [Digital Trends – Review](https://www.digitaltrends.com/gaming/homeworld-3-review-pc/) – critical assessment
 [^ref-34]: [Inverse – Homeworld 3 Review](https://www.inverse.com/gaming/homeworld-3-review) – positive review
@@ -327,7 +327,7 @@ Perhaps most telling is Rob Cunningham's own framing of the project. When asked 
 [^ref-54]: [Inverse – Developer Interview](https://www.inverse.com/gaming/homeworld-3-interview-rts-future-campaign-work-week) – four-day work week
 [^ref-47]: [Engadget – Delay Announcement](https://www.engadget.com/homeworld-3-delay-gearbox-interactive-blackbird-rts-165808680.html) – quality priorities
 [^ref-48]: [Gematsu – May 2024 Delay](https://www.gematsu.com/2024/02/homeworld-3-delayed-to-may-13) – final release date
-[^ref-49]: [Polygon – Preview](https://www.polygon.com/24143797/homeworld-3-preview-impressions-blackbird-interactive) – terrain mechanics, mothership orientation
+[^ref-49]: [GamesBeat – After 20 years, get ready for Homeworld 3's massive sci-fi fleet battles](https://gamesbeat.com/after-20-years-get-ready-for-homeworld-3s-massive-sci-fi-fleet-battles/) – Lance Mueller interview, terrain mechanics
 [^ref-50]: [Aftermath – Concept Art Interview](https://aftermath.site/homeworld-3-concept-art-making-of) – art direction quotes
 [^ref-51]: [PCGamingWiki – Homeworld 3](https://www.pcgamingwiki.com/wiki/Homeworld_3) – system requirements
 [^ref-52]: [New Game Network – Review](https://www.newgamenetwork.com/article/2778/homeworld-3-review/) – War Games criticism
@@ -343,3 +343,4 @@ Perhaps most telling is Rob Cunningham's own framing of the project. When asked 
 [^ref-64]: [TechRadar – Homeworld 3 Review](https://www.techradar.com/gaming/homeworld-3-review/) – "I watch as my pilots ignore my granular orders and fly straight into the turrets' line of fire"
 [^ref-65]: [Screen Rant – The Canadian Game Awards 2025: All Winners & Nominees](https://screenrant.com/canadian-game-awards-all-winners/) – Best Technology/Innovation: "WINNER: Homeworld 3 (Blackbird Interactive)"
 [^ref-66]: [Game Developer – TIGA Games Industry Awards 2024 finalists](https://www.gamedeveloper.com/press-release/tiga-games-industry-awards-2024-finalists-shortlist-revealed-) – Strategy: "Blackbird Interactive/Gearbox Publishing: Homeworld 3"
+[^ref-67]: [CGMagazine – Homeworld 3 Collector's Edition Available for Pre-Order Now](https://www.cgmagonline.com/newswire/homeworld-3-collectors-edition-available-for-pre-order-now) – Mothership rotation: "vertical (banana) and horizontal (croissant) orientation"

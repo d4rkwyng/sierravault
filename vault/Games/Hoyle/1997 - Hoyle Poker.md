@@ -89,7 +89,7 @@ Each opponent has their own patterns, tells, and playing tendencies. The box cla
 
 Bluffing works both ways in Hoyle Poker. If you have a good hand, you need to resist the temptation to raise right away.[^ref-5] If you do, you will often cause most of the other players to fold immediately, resulting in a smaller pot. The pot will be much bigger if you trick some of the opponents to come along with you through deceptive betting patterns.
 
-Reading opponents and managing bankrolls form the core strategic elements. The game includes more than a dozen poker variations to provide variety and replay value, and learning the optimal strategies for each variant adds long-term depth.[^ref-12]
+Reading opponents and managing bankrolls form the core strategic elements.
 
 ### Multiplayer Options
 
@@ -189,7 +189,7 @@ The combination of multiple poker variants, AI opponents with distinct styles, a
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-poker-dk4) - Windows and Windows 3.x versions (403-439 MB)[^ref-5]
 - [Internet Archive - Friday Night Hoyle Poker](https://archive.org/details/friday-night-hoyle-poker_202209)
-- [Internet Archive - Hoyle Poker USA](https://archive.org/details/hoyle-poker-usa)
+- [Internet Archive - Hoyle Poker 1998 Sierra CD](https://archive.org/details/hoyle-poker-1998-sierra-cd)
 
 ## See Also
 
@@ -262,7 +262,6 @@ The combination of multiple poker variants, AI opponents with distinct styles, a
 [^ref-9]: [Amazon - Hoyle Poker Series](https://www.amazon.com/Encore-705381103158-Hoyle-Poker-Series/dp/B0007ZF3GY) – Product features and user ratings
 [^ref-10]: GameCopyWorld *(link removed: no-CD/crack site)* – Game variants and series information
 [^ref-11]: [MobyGames - Hoyle Poker Series](https://mobygames.com/game/hoyle-poker-series) – Single player mode description
-[^ref-12]: [Internet Archive - Hoyle Poker USA](https://archive.org/details/hoyle-poker-usa) – Multiple poker variations and annual releases
 [^ref-13]: [MobyGames - Various Hoyle entries](https://www.mobygames.com/search/?q=Hoyle+Poker) – User score ranges
 [^ref-14]: [Old PC Gaming Review](https://oldpcgaming.net/hoyle-friday-night-poker-review/) – Modern retrospective assessment
 [^ref-15]: [GameSpot - Sierra Plans](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – Sierra's product lineup strategy

@@ -253,7 +253,7 @@ The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 
 
 **Download / Preservation**
 - [MyAbandonware – Hoyle Solitaire](https://www.myabandonware.com/game/hoyle-solitaire-1xa) — abandonware preservation download
-- [Internet Archive – Hoyle Solitaire](https://archive.org/details/HoyleSolitaire) — disk-image preservation
+- [Internet Archive – Hoyle Solitaire (1996)](https://archive.org/details/win3_hoylesol_202209) — disk-image preservation
 
 ## See Also
 
@@ -331,6 +331,5 @@ The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 
 [^ref-19]: [GameSpot – Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – Sierra Attractions division, Hoyle license positioning
 [^ref-20]: [GameSpot – Sierra Reorganizes Its Operations](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) – Vivendi/Sierra restructuring, Bellevue Studio
 [^ref-21]: [ScummVM Wiki – Supported Games](https://wiki.scummvm.org/) – Hoyle series support
-[^ref-22]: [Internet Archive – Hoyle Solitaire USA Rerelease](https://archive.org/details/hoyle-solitaire-usa) – 1998 rerelease metadata
 [^ref-23]: [Classic Reload – Hoyle Solitaire](https://classicreload.com/hoyle-solitaire.html) – browser emulation, 1996 release
 [^ref-24]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/1163/hoyle-card-games/) – 1999 card games, character descriptions

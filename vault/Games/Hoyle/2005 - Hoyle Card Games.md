@@ -160,7 +160,7 @@ The game has remained available on the secondary market, with price tracking dat
 
 ### Collections
 
-Hoyle Card Games 2005 was released as a standalone product and was later distributed by Encore, Inc. as part of their budget gaming catalog[^ref-7][^ref-11]. The game has since become available through abandonware distribution channels, reflecting its transition from commercial product to gaming history artifact[^ref-11][^ref-12][^ref-18]. The game is also documented in various gaming databases including GameFAQs[^ref-15] and PCGamingWiki[^ref-20], which provide technical compatibility information for modern systems. Additional metadata is preserved through Squakenet[^ref-21], and content rating context is available through the ESRB[^ref-19].
+Hoyle Card Games 2005 was released as a standalone product and was later distributed by Encore, Inc. as part of their budget gaming catalog[^ref-7][^ref-11]. The game has since become available through abandonware distribution channels, reflecting its transition from commercial product to gaming history artifact[^ref-11][^ref-12][^ref-18]. The game is also documented in various gaming databases including GameFAQs[^ref-15]. Additional metadata is preserved through Squakenet[^ref-21], and content rating context is available through the ESRB[^ref-19].
 
 ### Content Ratings
 
@@ -264,5 +264,4 @@ In the broader context of the Hoyle series, the 2005 edition marked one of the f
 [^ref-17]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – publisher background, company history
 [^ref-18]: [Internet Archive – Hoyle Games](https://archive.org/search?query=hoyle+card+games+2005) – preservation archives
 [^ref-19]: [ESRB – Rating Information](https://www.esrb.org) – content rating context
-[^ref-20]: [PCGamingWiki – Hoyle Series](https://www.pcgamingwiki.com/wiki/Series:Hoyle) – technical compatibility information
 [^ref-21]: [Squakenet – Hoyle Card Games](https://www.squakenet.com/game/hoyle-card-games-2005/) – release data, platform info
