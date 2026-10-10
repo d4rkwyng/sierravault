@@ -65,7 +65,6 @@ A collaborative effort between kikems/AmigaWave and DaRaSCo, this remaster bring
 
 Like the other SCP enhancements, the King's Quest V remaster includes MIDI support via Roland MT-32/mt32-pi.[^ref-4]
 
-**Download:** [MEGA](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80A59kU3-8XYBrqIS1XXeZCA4ZULpM)[^ref-4]
 
 ### Space Quest IV OCS Enhanced (January 15, 2026)
 
@@ -73,7 +72,6 @@ The third SCP release reconstructs the palette and graphics of [[1991 - Space Qu
 
 DaRaSCo spent considerable time finding a more consistent palette that works across all game screens while maintaining the spirit of the original DOS VGA graphics.[^ref-3] The enhancement also includes MIDI support via Roland MT-32.[^ref-3]
 
-**Download:** [MEGA](https://mega.nz/file/KtEj3IrD#S1uejpsbD2Vr8E5kldTYX3R2BqdNv3vtlIP4z9SBJPU)[^ref-3]
 
 ## Gameplay
 
@@ -197,19 +195,15 @@ Their work also serves as historical documentation, demonstrating that the tools
 
 **Purchase / Digital Stores**
 
-The SCP enhancement patches are distributed free of charge by the project team — they are not for sale and require an existing legal copy of the source Sierra game to apply. Original Sierra games can still be purchased commercially:
+The SCP releases are complete enhanced builds of the Amiga games rather than patches, and the original games are still sold commercially, so SierraVault does not host or link to them. The original games can be bought here:
 
 | Store | Link | Notes |
 |-------|------|-------|
-| GOG (King's Quest V) | [King's Quest 4+5+6 on GOG](https://www.gog.com/en/game/kings_quest_4_5_6) | Source DOS VGA copy required for KQ5 enhancement[^ref-17] |
-| GOG (Police Quest III) | [Police Quest Collection on GOG](https://www.gog.com/en/game/police_quest_collection) | Source DOS copy required for PQ3 enhancement[^ref-18] |
-| GOG (Space Quest IV) | [Space Quest 4+5+6 on GOG](https://www.gog.com/en/game/space_quest_4_5_6) | Source DOS copy required for SQ4 enhancement[^ref-19] |
+| GOG (King's Quest V) | [King's Quest 4+5+6 on GOG](https://www.gog.com/en/game/kings_quest_4_5_6) | Original DOS VGA release[^ref-17] |
+| GOG (Police Quest III) | [Police Quest Collection on GOG](https://www.gog.com/en/game/police_quest_collection) | Original DOS release[^ref-18] |
+| GOG (Space Quest IV) | [Space Quest 4+5+6 on GOG](https://www.gog.com/en/game/space_quest_4_5_6) | Original DOS release[^ref-19] |
 
-**Free fan downloads (SCP patches and enhanced builds):**
-
-SierraVault Mirror — [King's Quest V OCS Remaster](https://files.sierravault.net/FanGames/SCP_Amiga/KQ5_OCS_Remaster_SCP.lha) (93 MB), [Police Quest III Enhancement](https://files.sierravault.net/FanGames/SCP_Amiga/PQ3_Enhancement_SCP.lha) (49 MB), [Space Quest IV OCS Enhanced](https://files.sierravault.net/FanGames/SCP_Amiga/SQ4_OCS_Enhanced_SCP.lha) (59 MB).
-
-Original Sources — [KQ5 on MEGA](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80A59kU3-8XYBrqIS1XXeZCA4ZULpM)[^ref-4], [PQ3 on MEGA](https://mega.nz/file/vsFCUTYL#r6VCTRi0IMbCpF-fGpZrFyZ1ntS5nynf0gy14gIvGlY)[^ref-2], and [SQ4 on MEGA](https://mega.nz/file/KtEj3IrD#S1uejpsbD2Vr8E5kldTYX3R2BqdNv3vtlIP4z9SBJPU)[^ref-3].
+**SCP releases:** see the project's threads on the English Amiga Board, listed under External Links below.
 
 ## External Links
 
