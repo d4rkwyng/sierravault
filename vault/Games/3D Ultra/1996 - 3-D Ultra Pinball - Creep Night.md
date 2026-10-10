@@ -104,7 +104,7 @@ Creep Night's influence can be seen in its approach to video pinball design, pri
 
 ### Later Releases and Adaptability
 
-The game's cross-platform success led to a Portuguese language version that included support for multiple other languages[^ref-13], demonstrating its international appeal. A German re-release followed in 2005, showing the game's longevity and continued market demand decades after its original release[^ref-5]. The game's extensive configurability became a defining feature—Chuck Miller of Gamecenter highlighted how "A belfry of configurable preferences, multiple skill-level adjustments, and a brood of toggleable detail options make Creep Night one of the most adaptable pinball games to scare up attention"[^ref-14]. This adaptability meant both novice players and pinball enthusiasts could tailor the experience to their skill level and preferences.[^ref-21]
+The game's cross-platform success led to a Portuguese language version that included support for multiple other languages[^ref-7], demonstrating its international appeal. A German re-release followed in 2005, showing the game's longevity and continued market demand decades after its original release[^ref-5]. The game's extensive configurability became a defining feature—Chuck Miller of Gamecenter highlighted how "A belfry of configurable preferences, multiple skill-level adjustments, and a brood of toggleable detail options make Creep Night one of the most adaptable pinball games to scare up attention"[^ref-14]. This adaptability meant both novice players and pinball enthusiasts could tailor the experience to their skill level and preferences.[^ref-21]
 
 ## Downloads
 
@@ -151,7 +151,6 @@ The game's cross-platform success led to a Portuguese language version that incl
 [^ref-9]: [GOG Dreamlist - 3-D Ultra Pinball: Creep Night](https://www.gog.com/dreamlist/game/3-d-ultra-pinball-creep-night-1996) - Community request for digital re-release
 [^ref-10]: [Internet Archive - 3-D Ultra Pinball Creep Night Sierra 1996](https://archive.org/details/3-D_Ultra_Pinball_Creep_Night_Sierra_1996) - Original game preservation with download statistics
 [^ref-12]: [3-D Ultra Pinball Wikipedia](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball) - Series overview information
-[^ref-13]: [Game Fabrique - 3-D Ultra Pinball: Creep Night](https://gamefabrique.com/games/3-d-ultra-pinball-creep-night/) - Game database entry
 [^ref-14]: [GamePressure - 3D Ultra Pinball: Creep Night](https://www.gamepressure.com/games/3d-ultra-pinball-creep-night/zf3c54) - Game information database
 [^ref-15]: [GameSpot User Review #1](https://www.gamespot.com/3-d-ultra-pinball-creep-night/user-reviews/2200-29165/) - Individual user review entry
 [^ref-16]: [GameSpot User Review #2](https://www.gamespot.com/3d-ultra-pinball-creep-night/user-reviews/2200-50731/) - Additional user review entry
