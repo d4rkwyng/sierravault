@@ -5,11 +5,11 @@ birth_year: 1958
 death_year: null
 notable_games: ["Rise of the Dragon", "Heart of China", "The Incredible Machine", "Trophy Bass"]
 companies: ["Dynamix", "Sierra On-Line", "Electronic Arts", "Playdom", "Disney Interactive", "Zynga"]
-last_updated: "2026-05-08"
+last_updated: "2026-10-09"
 ---
 # Randy Dersham
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -69,7 +69,7 @@ The Trophy Bass franchise represents perhaps Dersham's most personally meaningfu
 
 Dersham's approach to game development centers on collaborative leadership and creative empowerment. As he describes his role: "My day job is as an executive in the computer games industry helping great games get made by very talented people."[^ref-4] This philosophy emphasizes his function as an enabler rather than a dictator, focusing on creating environments where creative teams can flourish while maintaining business objectives and production schedules.
 
-Professional colleagues consistently praise Dersham's management style, with one noting that he is "known for his expertise in building and leading high-performing teams towards a common goal, blending operational efficiency with creative innovation."[^ref-7] His specialties include business start-ups, company culture development, free-to-play game mechanics, innovative game design, competitive product strategy, product management, service operations, and studio organization.[^ref-7]
+His professional profile describes him as "known for his expertise in building and leading high-performing teams towards a common goal, blending operational efficiency with creative innovation."[^ref-7] His specialties include business start-ups, company culture development, free-to-play game mechanics, innovative game design, competitive product strategy, product management, service operations, and studio organization.[^ref-7]
 
 ## Legacy
 
@@ -127,7 +127,7 @@ In 2024, Dersham directed "Oregon's Boat," a documentary film about the McKenzie
 [^ref-4]: [Wooden Boat People Profile](http://woodenboatpeople.org/profile/2he24akna7y2z) — Personal philosophy, hobbies, boat collection
 [^ref-5]: [McKenzie Guides Profile](http://mckenzieguides.com/guides-and-outfitters/dersham-randy/) — Tatman Wooden Boats partnership
 [^ref-6]: [Oregon Fly Fishing Blog Interview](https://oregonflyfishingblog.com/2009/01/30/qa-wooden-mckenzie-drift-boats-with-randy-dersham/) — Family, Eagle Rock Lodge, boat construction
-[^ref-7]: [Clay.earth Profile](https://clay.earth/profile/randy-dersham) — Education, career overview, management expertise
+[^ref-7]: [Mesh (formerly Clay) Profile](https://me.sh/profile/randy-dersham) — Education, career overview, management expertise
 [^ref-8]: [IMDb Profile](https://www.imdb.com/name/nm1715854/) — Arcticfox (1986), Rise of the Dragon, Heart of China credits
 [^ref-9]: [Sierra Wiki - Randy Dersham](https://wiki.sierrahelp.com/index.php/Randy_Dersham) — Art management roles, Trophy Bass design
 [^ref-10]: [ContactOut Profile](https://contactout.com/Randy-Dersham-1809504) — Complete career timeline 1989-2024
@@ -140,4 +140,4 @@ In 2024, Dersham directed "Oregon's Boat," a documentary film about the McKenzie
 [^ref-17]: [LinkedIn Post](https://www.linkedin.com/posts/randydersham_1-billion-mobile-title-disney-tsum-tsum-activity-6398538905544728576-3xFC) — Disney Tsum Tsum involvement
 [^ref-18]: [MusicBrainz](https://musicbrainz.org/release/8a0e9ebf-205b-4a14-9e68-85c68c74d157) — Incredible Machine series credits
 [^ref-19]: [McKenzie River Reflections](https://www.mckenzieriverreflectionsnewspaper.com/story/2024/12/05/news/oregons-boat-premieres/7474.html) — "Oregon's Boat" documentary premiere
-[^ref-20]: [Travel McKenzie River Interview](https://travelmckenzieriver.com/2025/04/25/interview-with-randy-dersham-director-of-oregons-boat/) — Documentary background, film career
+[^ref-20]: [Travel McKenzie River Interview](https://web.archive.org/web/20250517112659/https://travelmckenzieriver.com/2025/04/25/interview-with-randy-dersham-director-of-oregons-boat/) — Documentary background, film career

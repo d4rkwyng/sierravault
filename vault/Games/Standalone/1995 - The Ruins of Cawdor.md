@@ -200,7 +200,7 @@ The game's Macbeth-inspired setting distinguished it from typical fantasy fare, 
 - [MyAbandonware](https://www.myabandonware.com/game/ruins-of-cawdor-cbm)[^ref-16]
 - [Classic Reload](https://classicreload.com/ruins-of-cawdor.html)[^ref-1]
 - [Old-Games.com](https://www.old-games.com/download/7344/ruins-of-cawdor)[^ref-21]
-- [Games Nostalgia](https://gamesnostalgia.com/game/ruins-of-cawdor)[^ref-19]
+- [Games Nostalgia](https://gamesnostalgia.net/game/ruins-of-cawdor)[^ref-19]
 
 **Digital Wishlist**
 - [GOG Dreamlist](https://www.gog.com/dreamlist)[^ref-22]
@@ -251,7 +251,7 @@ The game's Macbeth-inspired setting distinguished it from typical fantasy fare, 
 [^ref-16]: [MyAbandonware – Ruins of Cawdor](https://www.myabandonware.com/game/ruins-of-cawdor-cbm) – user rating, file size, preservation
 [^ref-17]: [LaunchBox Games Database – Ruins of Cawdor](https://gamesdb.launchbox-app.com/games/details/97448-ruins-of-cawdor) – resolution, technical specs
 [^ref-18]: [Internet Archive – Ruins of Cawdor](https://archive.org/details/msdos_Ruins_of_Cawdor_1995) – file size, preservation
-[^ref-19]: [Games Nostalgia – Ruins of Cawdor](https://gamesnostalgia.com/game/ruins-of-cawdor) – version info, download details
+[^ref-19]: [Games Nostalgia – Ruins of Cawdor (archived)](https://web.archive.org/web/20260207072809/https://gamesnostalgia.com/game/ruins-of-cawdor) – version info ("MS-DOS version 1.1"), download details; site has since moved to gamesnostalgia.net
 [^ref-20]: [Alchetron – Eric and the Dread Gazebo](https://alchetron.com/Eric-and-the-Dread-Gazebo) – Richard Aronson background, anecdote history
 [^ref-21]: [Old-Games.com – Ruins of Cawdor](https://www.old-games.com/download/7344/ruins-of-cawdor) – download, file size
 [^ref-22]: [GOG Dreamlist – The Ruins of Cawdor](https://www.gog.com/dreamlist/game/the-ruins-of-cawdor-1995) – wishlist entry

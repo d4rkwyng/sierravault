@@ -241,7 +241,7 @@ As a historical artifact, the game documents the budget software market of the e
 [^ref-9]: [CDRomance – Crazy Nick's Software Picks Series](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) – download statistics, ScummVM compatibility, series information
 [^ref-10]: [MyAbandonware – Alternative Entry](https://www.myabandonware.com/game/crazy-nick-s-software-picks-parlor-games-with-laura-bow-36u) – file size, distribution issues
 [^ref-11]: [GOG.com – Dreamlist Entry](https://www.gog.com/dreamlist/game/crazy-nick-s-software-picks-parlor-games-with-laura-bow) – community wishlist votes
-[^ref-12]: [PCGamingWiki – Crazy Nick's Series](https://www.pcgamingwiki.com/wiki/Series:Crazy_Nick's_Software_Picks) – series overview, publisher information
+[^ref-12]: [PCGamingWiki – Crazy Nick's Series](https://www.pcgamingwiki.com/wiki/Series:Crazy_Nick%27s_Software_Picks) – series overview, publisher information
 [^ref-13]: [MobyGames – Crazy Nick's Software Picks - Parlor Games with Laura Bow](https://www.mobygames.com/game/95473/) – game information and details
 [^ref-14]: Adventure Gamers – Crazy Nick's Software Picks - Parlor Games with Laura Bow *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – no relevant content found - the provided source appears to be a general Adventure Gamers website homepage/navigation ...
 [^ref-15]: [Sierra Chest – Crazy Nick's Software Picks - Parlor Games with Laura Bow](https://sierrachest.com/hcl87/gfx/games/ActionPack/box/index.php?a=games&id=718&title=crazy-nick-larry&fld=music) – fan database/archive entry containing basic game metadata and music track information

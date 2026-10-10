@@ -98,7 +98,7 @@ Impressions Games was known for focusing on historical accuracy and educational 
 
 High Seas Trader implemented several technical innovations for its time, most notably the first-person 3D sailing perspective that replaced traditional top-down naval strategy interfaces[^ref-4]. The game utilized LBM file formats for graphics and required CD-ROM support, with the setup assuming the CD would be mounted as drive D[^ref-23]. The audio system supported multiple sound card configurations, though the setup program only allowed setting one sound card at a time, preventing SB/MIDI combinations that could provide both sound effects and quality music simultaneously[^ref-24].
 
-The game faced some technical limitations, including a notable graphics bug where a single pixel would float above enemy ships that developers forgot to fix[^ref-15]. Players could modify saved games using hex editing tools, allowing for adjustments to crew composition and financial resources[^ref-25]. The game supports DOSBox emulation for modern systems, though some users have reported compatibility issues with CD-ROM mounting[^ref-23].
+Players could modify saved games using hex editing tools, allowing for adjustments to crew composition and financial resources[^ref-25]. The game supports DOSBox emulation for modern systems, though some users have reported compatibility issues with CD-ROM mounting[^ref-23].
 
 ## Legacy
 
@@ -112,7 +112,7 @@ The game's educational value extends beyond just entertainment. As one reviewer 
 
 The title represents an important entry in Sierra's diverse portfolio during the mid-1990s expansion period, demonstrating the company's commitment to publishing innovative strategy games from acquired studios[^ref-22]. Despite mixed contemporary reviews, the game has found new appreciation among retro gaming enthusiasts who value its historical detail and unique approach to naval trading simulation[^ref-15]. The game's influence can be seen in later maritime trading games, and it continues to be discussed in forums dedicated to classic strategy gaming[^ref-27].
 
-Modern retrospectives acknowledge that while the game "aged better on nostalgia than in playability"[^ref-5], it remains an important historical artifact documenting both game design experimentation and the broader economic simulation genre that thrived during the 1990s.[^ref-29]
+Modern retrospectives note that the game "aged better on nostalgia than in playability".[^ref-5]
 
 ## Downloads
 
@@ -149,7 +149,7 @@ Modern retrospectives acknowledge that while the game "aged better on nostalgia 
 [^ref-12]: [Free Game Empire](https://www.freegameempire.com/games/High-Seas-Trader) – - Combat elements
 [^ref-13]: [OldGames.sk](https://www.oldgames.sk/en/game/high-seas-trader/download/8239/) – - Progression system
 [^ref-14]: [Old Games Download](https://oldgamesdownload.com/high-seas-trader/) – - Gameplay activities
-[^ref-15]: [Games Nostalgia](https://gamesnostalgia.com/game/high-seas-trader) – - Business expansion objective
+[^ref-15]: [Games Nostalgia](https://gamesnostalgia.net/game/high-seas-trader) – - Business expansion objective
 [^ref-16]: [Jeuxvideo.com](https://www.jeuxvideo.com/wikis-soluce-astuces/patch-sur-sauvegarde-pour-modifier-l-equipage/202673) – - Crew management
 [^ref-17]: [Reddit High Seas Trader](https://www.reddit.com/r/highseastrader/) – - Supply management discussion
 [^ref-18]: [Squakenet](https://www.squakenet.com/game/high-seas-trader/) – - Combat system description
@@ -163,4 +163,3 @@ Modern retrospectives acknowledge that while the game "aged better on nostalgia 
 [^ref-26]: MobyGames *(link removed: it led to a different game's page)* – - Genre comparison
 [^ref-27]: [Reddit Gaming Suggestions](https://www.reddit.com/r/gamingsuggestions/comments/18opokn/looking_for_modern_version_of_high_seas_trader/) – - Modern gaming community discussion
 [^ref-28]: [ClassicReload.com - High Seas Trader](https://www.classicreload.com/high-seas-trader.html) – - Educational value and historical learning
-[^ref-29]: [Strategy Gaming Archives](https://www.strategyarchive.com/high-seas-trader/) – - Economic simulation legacy and community appreciation

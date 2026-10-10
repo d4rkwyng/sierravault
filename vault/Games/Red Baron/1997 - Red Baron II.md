@@ -10,7 +10,7 @@ series: Red Baron
 engine: 3Space
 protagonist: Player-created WWI pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 composer: [Charles (Chuck) Barth]
 description: Red Baron II is a World War I combat flight simulation developed by Dynamix
   and published by Sierra On-Line in December 1997. The game arrived seven years...
@@ -18,13 +18,13 @@ tags: [1990s, red-baron, sierra, simulation]
 ---
 # Red Baron II
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
 Red Baron II is a World War I combat flight simulation developed by [[Dynamix]] and published by [[Sierra On-Line]] in December 1997[^ref-1]. The game arrived seven years after the critically acclaimed original Red Baron, which had been voted the fourth best PC game in 1996 and won Computer Gaming World's Simulation of the Year award in 1991[^ref-2]. As the much-anticipated sequel, Red Baron II allowed players to take to the European skies in authentic WWI aircraft, engaging in spectacular aerial dogfights across the battlefields of Flanders, Marne, Verdun, and Alsace[^ref-3].
 
-The game offered three primary modes of play: instant action dogfights, single missions, and a comprehensive career mode spanning the entire war[^ref-4]. Players could enlist with the British Royal Flying Corps, French Aéronautique Militaire, German Luftstreitkräfte, or American Air Service, flying a wide variety of fighter craft—known historically as "scouts"—from both the Allied and Central Powers[^ref-5]. Featuring over 40 WWI vintage aircraft with 22 being directly flyable, the simulation emphasized historical authenticity with pseudo-realistic flight mechanics including weapon malfunction, flak, engine damage, and pilot injury[^ref-1].
+The game offered quick-combat dogfights, single missions with a mission generator, and a dynamic campaign covering the Western Front from 1916 through 1918[^ref-1]. Players could enlist with the British Royal Flying Corps, French Aéronautique Militaire, German Luftstreitkräfte, or American Air Service, flying a wide variety of fighter craft—known historically as "scouts"—from both the Allied and Central Powers[^ref-5]. Featuring over 40 WWI vintage aircraft with 22 being directly flyable, the simulation emphasized historical authenticity with pseudo-realistic flight mechanics including weapon malfunction, flak, engine damage, and pilot injury[^ref-1].
 
 Despite the long development period and tremendous anticipation, Red Baron II's release was marred by significant technical issues that drew heavy criticism from players and reviewers alike[^ref-6]. Sierra was heavily criticized for releasing the game in what many considered an unfinished state, lacking 3D acceleration support and containing numerous bugs[^ref-7]. However, Dynamix spent the following year working on patches that would eventually transform the troubled release into Red Baron 3D, which many came to regard as the best World War I simulation of its era[^ref-8].[^ref-35][^ref-35]
 
@@ -55,7 +55,7 @@ Red Baron II was designed as an accessible flight simulation that could introduc
 
 ### Structure and Progression
 
-The game featured four distinct play modes[^ref-4]:
+The game featured four distinct play modes[^ref-1]:
 
 - **Fly Now:** Instant action dogfighting for immediate combat
 - **Single Mission:** Individual combat scenarios with specific objectives
@@ -246,7 +246,7 @@ The game's significance extends beyond its troubled launch. It preserved the acc
 [^ref-1]: [Wikipedia – Red Baron II](https://en.wikipedia.org/wiki/Red_Baron_II) – release dates, development credits, ratings, awards, pizza coupon trivia
 [^ref-2]: [MobyGames – Red Baron (1990)](https://www.mobygames.com/game/1766/red-baron/) – original game awards, historical context
 [^ref-3]: [eBay Product Listing](https://www.ebay.com/p/54071746) – aircraft count, medal systems, control methods
-[^ref-4]: [Games Nostalgia – Red Baron](https://gamesnostalgia.com/game/red-baron) – game modes, Kickstarter information
+[^ref-4]: [Games Nostalgia – Red Baron](https://gamesnostalgia.net/game/red-baron) – original Red Baron (1990); 2013 Kickstarter remake raised only $40,493 and was canceled
 [^ref-5]: [Sierra Gamers – Red Baron 2](https://www.sierragamers.com/red-baron-2/) – campaign features, squadron dynamics
 [^ref-6]: [GameSpot – Red Baron II Review](https://www.gamespot.com/reviews/red-baron-ii-review/1900-2532770/) – review score, technical criticism
 [^ref-7]: [IGN – Sierra Fixes Plane Game](https://www.ign.com/articles/1998/08/25/sierra-fixes-plane-game) – patch details, release criticism

@@ -291,7 +291,7 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 [^ref-16]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Return_to_Krondor) – technical issues, controls, compatibility
 [^ref-17]: [Crydee.com – Return to Krondor](https://www.crydee.com/raymond-feist/games/computer-based/return-to-krondor) – features, system requirements
 [^ref-18]: Internet Archive – USA Release *(download link removed: the game is sold commercially)* – gameplay mechanics, exploration description
-[^ref-19]: [Angelfire Walkthrough](https://www.angelfire.com/hero/tjekanefir/rkrondor.htm) – gameplay details, chapter structure
+[^ref-19]: [Angelfire Walkthrough](https://web.archive.org/web/20250904022449/https://www.angelfire.com/hero/tjekanefir/rkrondor.htm) – gameplay details, chapter structure
 [^ref-20]: [IGN Review](https://www.ign.com/articles/1999/01/29/return-to-krondor) – score, gameplay features
 [^ref-21]: [GameSpot Review](https://www.gamespot.com/reviews/return-to-krondor-review/1900-2532792/) – score, technical assessment
 [^ref-22]: [CNET Gamecenter Review (Archived)](https://web.archive.org/web/20000823093208/http://gamecenter.com/Reviews/Item/0,6,0-2367,00.html) – Arinn Dembo review

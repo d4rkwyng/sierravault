@@ -10,14 +10,14 @@ series: Asterix
 engine: Proprietary (Coktel Vision)
 protagonist: Asterix
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: 'Asterix: Operation Getafix is an action-adventure game released in 1989
   by French developer Coktel Vision, based on the beloved Franco-Belgian comic series...'
 tags: [1980s, adventure, asterix, coktel, sierra]
 ---
 # Asterix: Operation Getafix
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -82,7 +82,7 @@ User communities have been more forgiving, with Abandonware DOS users rating the
 
 **Aggregate Scores:**
 - **MobyGames:** 6.3/10 (Moby Score), 3.4/5 (7 player ratings)[^ref-1]
-- **Games Nostalgia:** 56/100 (11 editorial reviews aggregated)[^ref-6]
+- **Games Nostalgia:** GN Score 56%[^ref-6]
 - **Lemon Amiga:** 5.19/10 (user average), 70% (magazine average)[^ref-8]
 - **Abandonware DOS:** 3.96/5 (28 votes)[^ref-4]
 - **MyAbandonware:** 4.26/5 (23 votes)[^ref-7]
@@ -233,7 +233,7 @@ The game's mixed reception highlights a recurring challenge in licensed game dev
 [^ref-3]: [Hardcore Gaming 101 – Asterix Games](https://www.hardcoregaming101.net/asterix/) — Coktel Vision comic adaptations, flying fish gag, controls
 [^ref-4]: [Abandonware DOS – Asterix: Operation Getafix](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Asterix+Operation+Getafix&gid=866) — 3.96/5 user rating, "wild boar wearing gloves" review
 [^ref-5]: [Lemon Amiga – Asterix: Operation Getafix](https://www.lemonamiga.com/games/details.php?id=114) — Plot details, 5.19/10 rating, potion combinations
-[^ref-6]: [Games Nostalgia – Asterix: Operation Getafix](https://gamesnostalgia.com/game/asterix-operation-getafix) — 56/100 aggregate, graphics praise, action criticism
+[^ref-6]: [Games Nostalgia – Asterix: Operation Getafix](https://gamesnostalgia.net/game/asterix-operation-getafix) — GN Score 56%, graphics praise, action criticism
 [^ref-7]: [MyAbandonware – Asterix: Operation Getafix](https://www.myabandonware.com/game/asterix-operation-getafix-ld) — 4.26/5 rating, "most obscure Coktel Vision game"
 [^ref-8]: [Lemon Amiga Reviews](https://www.lemonamiga.com/games/reviews.php?id=114) — Muriel Tramis concept credit, control criticism, 70% magazine average
 [^ref-9]: [Wikipedia – Asterix](https://en.wikipedia.org/wiki/Asterix) — 50 BC setting, village lore, Les Éditions Albert René

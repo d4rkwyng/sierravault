@@ -102,7 +102,7 @@ The Steam transition also meant Ricochet would remain available and playable lon
 
 ### Contemporary Reviews
 
-Upon release, Ricochet received limited attention from gaming press, overshadowed by more popular Half-Life modifications like Counter-Strike and Team Fortress Classic.[^ref-10] Critics noted the game's simple concept and limited content, though some praised its unique mechanics as a creative departure from traditional deathmatch gameplay.[^ref-6]
+Critics noted the game's simple concept and limited content, though some praised its unique mechanics as a creative departure from traditional deathmatch gameplay.[^ref-6]
 
 The competition was fierce: Counter-Strike was rapidly becoming the most popular multiplayer game in the world, and Team Fortress Classic had an established community. Ricochet's abstract aesthetic and unusual mechanics struggled to attract players away from these more conventional shooters.
 
@@ -120,7 +120,7 @@ Modern retrospectives often frame Ricochet as a curiosity from Valve's early exp
 
 ### Cultural Legacy and Memes
 
-Ricochet has become something of an infamous curiosity in Valve's catalog, frequently cited as the company's least successful commercial release.[^ref-10] The game achieved meme status within gaming communities, with "Ricochet 2" becoming a running joke about Valve's reluctance to develop sequels—a reference that Valve's Gabe Newell has himself acknowledged in interviews.[^ref-11]
+The game achieved meme status within gaming communities, with "Ricochet 2" becoming a running joke about Valve's reluctance to develop sequels—a reference that Valve's Gabe Newell has himself acknowledged in interviews.[^ref-11]
 
 The Ricochet 2 joke emerged from Valve's notorious reluctance to release sequels, particularly Half-Life 3. When asked about sequel development, Newell and other Valve representatives would sometimes deflect by mentioning "Ricochet 2," playing on the absurdity of prioritizing a sequel to their least-played game over more anticipated projects.
 
@@ -210,7 +210,6 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 [^ref-7]: [Steam - Ricochet](https://store.steampowered.com/app/60/Ricochet/) - Official store page with reviews and system requirements
 [^ref-8]: [Ricochet Wiki - Powerups](https://ricochet.fandom.com/wiki/Powerups) - Game mechanics documentation
 [^ref-9]: [ModDB - Half-Life Updates](https://www.moddb.com/games/ricochet/downloads/half-life-updates-pre-post-1100) - Patch history
-[^ref-10]: [PC Gamer - Valve's Forgotten Games](https://www.pcgamer.com/valves-forgotten-games/) - Retrospective on lesser-known Valve titles
 [^ref-11]: [Kotaku - The Ricochet 2 Joke](https://kotaku.com/gabe-newell-updates-interviewer-on-the-status-of-wink-5903627) - Cultural legacy and meme status
 [^ref-12]: [ModDB - Ricochet: Source](https://www.moddb.com/mods/ricochet-source) - Fan remake project
 [^ref-13]: [MobyGames - Ricochet](https://www.mobygames.com/game/4481/ricochet/) - Game database entry confirming multiplayer-only status

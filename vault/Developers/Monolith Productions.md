@@ -6,11 +6,11 @@ defunct: 2025
 headquarters: "Kirkland, Washington, USA"
 notable_games: ["Blood", "No One Lives Forever", "F.E.A.R.", "Middle-earth: Shadow of Mordor"]
 parent_company: "Warner Bros. Games"
-last_updated: "2026-05-08"
+last_updated: "2026-10-09"
 ---
 # Monolith Productions
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -28,7 +28,7 @@ The studio's first major project was Blood, released in 1997, which utilized the
 
 ### Sierra Era
 
-Monolith Productions entered into a significant partnership with Sierra On-Line during the late 1990s, which provided the studio with the resources and publishing support needed to develop their most ambitious projects.[^ref-12] Under this arrangement, Sierra published several of Monolith's most celebrated games, including the No One Lives Forever series, which showcased the studio's ability to create games that transcended traditional genre boundaries by combining spy fiction, comedy, and sophisticated gameplay mechanics.[^ref-13]
+Monolith Productions worked with Sierra On-Line as a publisher, most visibly on *Aliens versus Predator 2* (2001), which Sierra published with Fox Interactive.[^ref-12] Under this arrangement, Sierra published several of Monolith's most celebrated games, including the No One Lives Forever series, which showcased the studio's ability to create games that transcended traditional genre boundaries by combining spy fiction, comedy, and sophisticated gameplay mechanics.[^ref-13]
 
 During the Sierra era, Monolith developed their proprietary LithTech engine, which became one of the most advanced game engines of its time and was licensed to other developers.[^ref-14] This period saw the release of critically acclaimed titles such as No One Lives Forever (2000) and its sequel A Spy in H.A.R.M.'s Way (2002), which earned widespread praise for their innovative design, memorable characters, and technical achievements.[^ref-15] The studio also developed Contract J.A.C.K. (2003) and began work on the F.E.A.R. project, which would later become one of their most successful franchises.[^ref-16]
 
@@ -102,7 +102,7 @@ Many former Monolith employees went on to found other successful gaming companie
 [^ref-9]: [Reddit - Gaming Companies Discussion](https://www.reddit.com/r/Xenoblade_Chronicles/comments/1iyq1i8/hey_are_there_two_gaming_companies_with_the_name/) — Studio name disambiguation
 [^ref-10]: [MobyGames - Monolith Productions](https://www.mobygames.com/company/804/monolith-productions-inc/) — Complete game development history
 [^ref-11]: [Blood Wiki](https://blood-wiki.org/index.php/Monolith_Productions) — Information about Blood game development
-[^ref-12]: [Archive.org - Alien vs Predator 2](https://archive.org/details/alien-versus-predator-2) — Game preservation and development details
+[^ref-12]: [Wikipedia - Aliens versus Predator 2](https://en.wikipedia.org/wiki/Aliens_versus_Predator_2) — Developed by Monolith; published by Sierra On-Line and Fox Interactive
 [^ref-13]: [LinkedIn - Monolith Productions](https://www.linkedin.com/company/monolith-productions) — Professional network and company information
 [^ref-14]: [F.E.A.R. Fandom](https://fear.fandom.com/wiki/Monolith_Productions) — F.E.A.R. series development information
 [^ref-15]: [Polygon - Warner Bros Games Studio Closure](https://www.polygon.com/news/529310/warner-bros-games-monolith-productions-multiversus-studio-closure/) — Recent closure announcement

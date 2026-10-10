@@ -1,14 +1,14 @@
 ---
 title: "GOG and Steam Re-Releases"
 type: technology
-last_updated: "2026-07-13"
+last_updated: "2026-10-09"
 description: "Where to legally buy Sierra games today — the current GOG.com and Steam catalogues by series, with DOSBox/ScummVM packaging notes and bundles guidance."
 tags: [technology, gog, steam, re-releases, preservation, commerce]
 ---
 
 # GOG and Steam Re-Releases
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -22,7 +22,7 @@ This page is a snapshot of legal availability as of **May 2026**. The picture ch
 
 ## GOG.com Sierra catalogue
 
-GOG carries roughly **40 distinct Sierra-published titles** as of May 2026, mostly bundled into thematic collections. The packages typically ship with DOSBox preconfigured for AGI titles, ScummVM for SCI-engine titles, and native Windows binaries for SCI32 and later. Each title has been patched for compatibility with modern Windows 10/11, macOS, and Linux through GOG's compatibility-shim layer.[^ref-4]
+GOG carries roughly **40 distinct Sierra-published titles** as of May 2026, mostly bundled into thematic collections. The packages typically ship with DOSBox preconfigured for AGI titles, ScummVM for SCI-engine titles, and native Windows binaries for SCI32 and later.
 
 ### Adventure flagship series on GOG
 
@@ -153,11 +153,10 @@ When adding a GOG or Steam URL to a vault page's References section, follow thes
 [^ref-1]: [GOG.com — Sierra catalogue](https://www.gog.com/en/games?developers=sierra-on-line) — Official Sierra listings
 [^ref-2]: [Steam — Sierra catalogue](https://store.steampowered.com/developer/Sierra) — Steam Sierra listings
 [^ref-3]: [Brave Search](https://search.brave.com) — Recommended verification engine for GOG/Steam URL checks
-[^ref-4]: [GOG.com — Modern Windows compatibility](https://support.gog.com/hc/en-us/articles/360021502493) — Compatibility-shim documentation
 [^ref-5]: [Internet Archive — DOS games library](https://archive.org/details/softwarelibrary_msdos_games) — Preservation fallback
 [^ref-6]: [Steam — King's Quest (2015)](https://store.steampowered.com/app/345390/Kings_Quest/) — 2015 reboot
 [^ref-7]: [Pinkerton Road — Gabriel Knight 20th Anniversary](https://pinkertonroad.com/gabriel-knight/) — Licensed remake page
-[^ref-8]: [Activision — King's Quest (2015) imprint announcement](https://news.activision.com/king-s-quest-announcement) — Sierra Entertainment digital imprint relaunch
+[^ref-8]: [Activision Blog — Sierra Returns with Geometry Wars 3: Dimensions, King's Quest, and More](https://blog.activision.com/more-games/archives/sierra-returns-with-geometry-wars-3-dimensions-kings-quest-and-more) — Sierra Entertainment digital imprint relaunch
 [^ref-9]: [Replay Games — LSL: Reloaded](http://www.replaygamesinc.com/) — Crowdfunded HD remake
 [^ref-10]: [Dotemu — Pharaoh: A New Era](https://www.dotemu.com/games/pharaoh-a-new-era/) — 2023 licensed remake
 [^ref-11]: [GOG.com Dreamlist — Sierra entries](https://www.gog.com/dreamlist/search?query=Sierra) — Community wishlist

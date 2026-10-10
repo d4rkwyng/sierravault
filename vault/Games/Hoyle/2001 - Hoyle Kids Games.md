@@ -11,14 +11,14 @@ series: Hoyle Games
 engine: Proprietary (Windows)
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Hoyle Kids Games is a children's compilation title developed and published
   by Sierra On-Line that brings the venerable Hoyle brand—known for its adult card...
 tags: [2000s, hoyle-games, puzzle, sierra]
 ---
 # Hoyle Kids Games 2001
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -196,7 +196,7 @@ The game is currently available through abandonware distribution sites and prese
 ### Critical Perspective
 Hoyle Kids Games represents Sierra's effort to leverage an established brand name for the children's educational software market that flourished in the late 1990s and early 2000s[^ref-1][^ref-5][^ref-7]. While it lacks the narrative depth of Sierra's adventure game titles, the compilation successfully adapted traditional games for a digital format accessible to young children[^ref-2][^ref-8]. The game's emphasis on character customization through the Facemaker utility and the inclusion of whimsical animated opponents demonstrated understanding of what engaged young players during this era[^ref-1][^ref-2].
 
-The title also reflects the industry's growing interest in online multiplayer gaming, bringing internet play capabilities to a children's product at a time when such features were still novel[^ref-1][^ref-11][^ref-16]. Though overshadowed by Sierra's more famous adventure game franchises, Hoyle Kids Games served an important role in the company's portfolio, providing family-friendly content that expanded their market reach beyond traditional gaming audiences[^ref-2][^ref-5][^ref-14][^ref-17][^ref-18]. The game is documented across various databases including IGDB[^ref-17], Squakenet[^ref-19], and retail platforms[^ref-20].
+The title also reflects the industry's growing interest in online multiplayer gaming, bringing internet play capabilities to a children's product at a time when such features were still novel[^ref-1][^ref-16]. Though overshadowed by Sierra's more famous adventure game franchises, Hoyle Kids Games served an important role in the company's portfolio, providing family-friendly content that expanded their market reach beyond traditional gaming audiences[^ref-2][^ref-5][^ref-17][^ref-18]. The game is documented across various databases including IGDB[^ref-17] and retail platforms[^ref-20].
 
 ## Downloads
 
@@ -211,7 +211,6 @@ The title also reflects the industry's growing interest in online multiplayer ga
 
 **Additional Resources**
 - [MobyGames](https://www.mobygames.com/game/49352/hoyle-kids-games/) - Game database entry[^ref-1]
-- [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Series:Hoyle) - Technical information[^ref-11]
 
 ## See Also
 
@@ -284,14 +283,11 @@ The title also reflects the industry's growing interest in online multiplayer ga
 [^ref-8]: [Gamepressure – Hoyle Kids Games](https://www.gamepressure.com/games/hoyle-kids-games/zcf2d) – game database entry, features, rating
 [^ref-9]: [Sierra Chest – Hoyle Series](https://sierrachest.com/index.php?a=groups&id=42) – series documentation, Sierra historical context
 [^ref-10]: [UVList – Hoyle Kids Games](https://www.uvlist.net/game-166961-Hoyle+Kids+Games) – platform data, release information
-[^ref-11]: [PCGamingWiki – Hoyle Series](https://www.pcgamingwiki.com/wiki/Series:Hoyle) – technical information, compatibility
 [^ref-12]: [Hoyle Casino Wikipedia](https://en.wikipedia.org/wiki/Hoyle_Casino) – Hoyle series commercial context
 [^ref-13]: [GameSpot – Sierra Games](https://www.gamespot.com/profile/sierra/games/) – Sierra publisher information
-[^ref-14]: [Steam Community – Hoyle Discussion](https://steamcommunity.com/app/245780/discussions/) – community interest in Hoyle series
 [^ref-16]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – publisher history, company background
 [^ref-17]: [IGDB – Hoyle Kids Games](https://www.igdb.com/games/hoyle-kids-games) – game database entry
 [^ref-18]: [Giant Bomb – Hoyle Franchise](https://www.giantbomb.com/hoyle/3025-1050/) – franchise information
-[^ref-19]: [Squakenet – Hoyle Kids Games](https://www.squakenet.com/game/hoyle-kids-games/) – release information
 [^ref-20]: [Amazon – Hoyle Kids Games](https://www.amazon.com/s?k=Hoyle+Kids+Games) – retail availability, customer reviews
 [^ref-21]: [LaunchBox Games Database – Hoyle Kids Games](https://gamesdb.launchbox-app.com/games/details/hoyle-kids-games) — community-curated metadata, cover-art reference
 [^ref-22]: [MobyGames – Hoyle Kids Games](https://www.mobygames.com/game/hoyle-kids-games/) — game database entry with full credits and platform listing

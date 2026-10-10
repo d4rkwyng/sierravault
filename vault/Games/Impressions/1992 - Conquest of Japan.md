@@ -10,7 +10,7 @@ series: N/A
 engine: Micro Miniatures
 protagonist: Daimyo (player-controlled lord)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-05-08'
+last_updated: '2026-10-09'
 description: Conquest of Japan is a military-historical strategy game developed and
   published by Impressions Games in 1992, set during the tumultuous Sengoku period
   of...
@@ -18,7 +18,7 @@ tags: [1990s, impressions, n-a, sierra, strategy]
 ---
 # Conquest of Japan
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -113,7 +113,7 @@ Developer Phil Steinmeyer, associated with Impressions Games' catalog, later ref
 
 The game featured a dual-layer strategic and tactical system that was ambitious for its time.[^ref-14] The strategic map offered an isometric, top-down perspective of the island of Honshu, while tactical battles employed the Micro Miniatures engine for detailed unit combat.[^ref-1] The randomization of city positions for each new game added replayability, and the innovative mechanic of disbanding armies upon city capture provided unique strategic considerations.[^ref-16]
 
-The graphics were praised when viewed at strategic distances but criticized upon closer examination.[^ref-3] One reviewer from Online Classic Games noted that "Graphics, by the way, really great even in strategic mode and tactical – even more so. Units drawn very clearly, and it's not just 'figures', and very 'real' samurai. The artists have worked on glory."[^ref-21]
+The graphics were praised when viewed at strategic distances but criticized upon closer examination.[^ref-3] One reviewer at Online Classic Games (now Playold.games) noted that "Graphics, by the way, really great even in strategic mode and tactical – even more so. Units drawn very clearly, and it's not just 'figures', and very 'real' samurai. The artists have worked on glory."[^ref-21]
 
 ### Technical Specifications
 
@@ -254,7 +254,7 @@ The game represents Impressions Games' continued experimentation with historical
 [^ref-19]: [MyAbandonware – Conquest of Japan](https://www.myabandonware.com/game/conquest-of-japan-1db) – user rating, file sizes, alternate title
 
 [^ref-20]: [Lemon Amiga – Conquest of Japan](https://www.lemonamiga.com/games/details.php?id=1887) – Edcom developer, Amiga specs
-[^ref-21]: [Online Classic Games – Conquest of Japan](https://onlineclassicgames.com/game/conquest-of-japan/) – graphics praise quote
+[^ref-21]: [Playold.games (formerly Online Classic Games) – Conquest of Japan](https://playold.games/games/conquest-of-japan) – graphics praise quote
 [^ref-22]: [MyAbandonware – Play Online](https://www.myabandonware.com/game/conquest-of-japan-1db/play-1db) – DOSBox compatibility
 
 [^ref-23]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Conquest+of+Japan) – alternate title confirmation

@@ -1,18 +1,18 @@
 ---
 title: "Audio and Music Technology"
 type: technology
-last_updated: "2026-07-13"
+last_updated: "2026-10-09"
 description: "Sierra's audio and music technology evolution: PC speaker → AdLib → Roland MT-32 → General MIDI → CD audio → orchestral scores. The technical and creative arc behind one of computer gaming's most ambitious music programs."
 tags: [technology, audio, music, midi, mt-32, adlib, cd-audio]
 ---
 
 # Audio and Music Technology
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-From 1980 PC-speaker beeps to 1995 Hollywood-orchestra scores recorded on CD-ROM, Sierra On-Line drove computer-game audio forward harder than any other publisher of its era. The company's investment in music — at one point reportedly the second-largest music-licensing budget in the entertainment software industry — produced a soundscape that defined a generation of adventure games and trained a generation of composers (Mark Seibert, Ken Allen, Robert Holmes, Ben Houge, Aubrey Hodges) for AAA work to follow.[^ref-1][^ref-2]
+From 1980 PC-speaker beeps to 1995 Hollywood-orchestra scores recorded on CD-ROM, Sierra On-Line drove computer-game audio forward harder than any other publisher of its era. The company's investment in music produced a soundscape that defined a generation of adventure games and trained a generation of composers (Mark Seibert, Ken Allen, Robert Holmes, Ben Houge, Aubrey Hodges) for AAA work to follow.[^ref-1]
 
 This page traces the eight-generation audio-tech arc from the 1980 Apple II through the late-1990s SCI32 CD-ROM era. For per-game audio specifics, see the individual game pages' Development → Voice Cast and Technical Achievements sections.
 
@@ -39,7 +39,7 @@ The IBM PCjr ([[Adventure Game Interpreter|AGI]]'s launch platform for [[1984 - 
 **Hardware:** AdLib Music Synthesizer Card (Yamaha YM3812 OPL2 chip) — 9 FM-synthesis voices.
 **SCI0 engine support:** Full AdLib music playback with multi-voice composition.
 
-The AdLib card (released 1987) was the first widely-adopted PC audio card and became the de facto sound standard until the early 1990s. Its 9-voice FM-synthesis chip enabled actual music composition with chords, harmonies, and instrument variety.[^ref-6]
+The AdLib card (released 1987) was the first add-on sound card for IBM compatibles to achieve widespread acceptance and became the first de facto standard for PC audio, until the Sound Blaster overshadowed it; Sierra's *King's Quest IV* was the first game to support it. Its 9-voice FM-synthesis chip enabled actual music composition with chords, harmonies, and instrument variety.[^ref-6]
 
 Sierra was an early and aggressive AdLib supporter. [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV (SCI)]] (1988) was widely cited as the first home computer game with a "Hollywood-orchestra-style score" specifically arranged for AdLib's instrument capabilities. The score was composed by William Goldstein (the Hollywood composer behind *Fame* and *Beverly Hills Cop III*) — at the time a remarkable departure for a computer-game publisher.[^ref-7]
 
@@ -85,7 +85,7 @@ For the highest-profile titles, Sierra commissioned live-orchestra recordings:
 
 - **[[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]]** (1993) — Robert Holmes's score, the first Sierra title widely cited as having a "feature-film-quality" score.[^ref-16]
 - **[[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within]]** (1995) — Robert Holmes; live orchestra, opera vocalists recorded.
-- **[[1995 - Phantasmagoria|Phantasmagoria]]** (1995) — Mark Seibert; recorded chorus from the Skywalker Sound facilities.[^ref-17]
+- **[[1995 - Phantasmagoria|Phantasmagoria]]** (1995) — Mark Seibert and Jay Usher; the opening theme's neo-Gregorian chant was performed by a 135-voice choir.[^ref-17]
 - **[[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]]** (1998) — Ben Houge, Kevin Manthei, Mark Seibert; combined orchestral and electronic. Inspired a 12-minute "Daventry Suite" orchestral tribute composition by Donald M. Wilson of Bowling Green State University.[^ref-18]
 
 This era produced soundtracks that achieved cult status independent of the games themselves — *KQ6* and *Gabriel Knight* soundtracks have been re-released on streaming services and remain influential.[^ref-19]
@@ -129,7 +129,7 @@ For users running classic Sierra games today via [[ScummVM]] or DOSBox:
 - **SCI2/SCI32 titles** — Original MIDI + Red Book audio tracks supported.
 - **CD-ROM games** — Original speech tracks supported in their original form.
 
-The recommended setup for music-purist players: ScummVM + Munt + original MT-32 ROMs (legally extracted from hardware) for SCI music; original CD-ROM speech tracks for digital audio.[^ref-24]
+The recommended setup for music-purist players: ScummVM's built-in MT-32 emulation, which requires the original MT-32 ROMs taken from the player's own module, for SCI music; original CD-ROM speech tracks for digital audio.[^ref-24]
 
 ---
 
@@ -144,11 +144,10 @@ The recommended setup for music-purist players: ScummVM + Munt + original MT-32 
 ## References
 
 [^ref-1]: [The Digital Antiquarian — Sierra audio budgets](https://www.filfre.net/?s=Sierra+audio) — Music-licensing budget context
-[^ref-2]: [Adventure Classic Gaming — Sierra music retrospective](http://www.adventureclassicgaming.com/index.php/site/features/sierra-music/) — Composer profiles
 [^ref-3]: [Wikipedia — PC speaker](https://en.wikipedia.org/wiki/PC_speaker) — Technical limits
 [^ref-4]: [Wikipedia — Apple IIGS](https://en.wikipedia.org/wiki/Apple_IIGS) — Ensoniq audio chip
 [^ref-5]: [Wikipedia — Texas Instruments SN76489](https://en.wikipedia.org/wiki/Texas_Instruments_SN76489) — Tandy/PCjr audio chip
-[^ref-6]: [Wikipedia — AdLib (audio card)](https://en.wikipedia.org/wiki/Ad_Lib,_Inc.) — OPL2 chip, market adoption
+[^ref-6]: [Wikipedia — Ad Lib, Inc.](https://en.wikipedia.org/wiki/AdLib) — OPL2 chip, market adoption, King's Quest IV first supporting game
 [^ref-7]: [Wikipedia — King's Quest IV: The Perils of Rosella](https://en.wikipedia.org/wiki/King%27s_Quest_IV) — William Goldstein score documentation
 [^ref-8]: [VOGONS — Sierra AdLib title list](https://www.vogons.org) — Community-documented audio support
 [^ref-9]: [Wikipedia — Roland MT-32](https://en.wikipedia.org/wiki/Roland_MT-32) — Specifications, retail price
@@ -159,12 +158,12 @@ The recommended setup for music-purist players: ScummVM + Munt + original MT-32 
 [^ref-14]: [Wikipedia — Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — Music production details
 [^ref-15]: [Sierra Gamers — Voice cast oral histories](https://www.sierragamers.com) — Voice-actor recruitment stories
 [^ref-16]: [Robert Holmes — Official site](https://www.robertholmes.com) — Composer site (linked from Pinkerton Road)
-[^ref-17]: [Wikipedia — Phantasmagoria](https://en.wikipedia.org/wiki/Phantasmagoria_(1995_video_game)) — Music production at Skywalker Sound
+[^ref-17]: [Wikipedia — Phantasmagoria (video game)](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game)) — Composers and 135-voice choir
 [^ref-18]: [GameSpot — Daventry Suite tribute composition](https://www.gamespot.com/articles/kings-quest-inspires-tune/1100-2446807/) — Donald M. Wilson orchestral tribute
 [^ref-19]: [VGMdb — Sierra On-Line soundtracks](https://vgmdb.net) — Soundtrack release database
 [^ref-20]: [Munt — MT-32 emulator](https://github.com/munt/munt) — Open-source MT-32 emulator project
 [^ref-21]: [Wwise — King's Quest 2015 case study](https://www.audiokinetic.com/customers/the-odd-gentlemen-kings-quest/) — Modern audio middleware adoption
 [^ref-22]: [MobyGames — Aubrey Hodges credits](https://www.mobygames.com/person/aubrey-hodges/) — Post-Sierra AAA career
 [^ref-23]: [ScummVM Wiki — MT-32 setup](https://wiki.scummvm.org/index.php?title=MT-32) — Munt integration guide
-[^ref-24]: [PCGamingWiki — Sierra audio fixes](https://www.pcgamingwiki.com/wiki/Roland_MT-32) — Modern setup guidance
+[^ref-24]: [ScummVM Documentation — Understanding the audio settings](https://docs.scummvm.org/en/latest/advanced_topics/understand_audio.html) — MT-32 emulation and ROM requirements
 [^ref-25]: [The Digital Antiquarian — King's Quest IV music](https://www.filfre.net/2018/01/sierra-at-the-cusp-of-the-multimedia-age/) — Music-budget and Hollywood-composer context

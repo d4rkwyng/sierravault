@@ -25,7 +25,7 @@ Hoyle Casino 2007 is a casino simulation video game developed and published by [
 
 The title represents a continuation of the Hoyle Casino series after Encore, Inc. acquired publishing rights from Sierra Entertainment in 2005[^ref-6]. The Hoyle brand had been a staple of Sierra's catalog from 1996 through 2003, establishing itself as a premiere casual gaming franchise focusing on card and casino games[^ref-6]. Unfortunately, this particular edition became notorious among fans for significant technical issues, including a persistent bug that caused 30-second freezes during card games—a problem that Encore was ultimately unable to resolve, forcing the company to offer refunds to affected customers[^ref-6].
 
-The game was rated T for Teen by the ESRB for Simulated Gambling content[^ref-1][^ref-7][^ref-8], typical for casino simulation titles that recreate the gambling experience without real monetary stakes. Despite its troubled release, Hoyle Casino 2007 remained part of Encore's catalog and was distributed through various retail channels including DigitalRiver[^ref-9].[^ref-16][^ref-17][^ref-18][^ref-19][^ref-20]
+The game was rated T for Teen by the ESRB for Simulated Gambling content[^ref-1][^ref-7][^ref-8], typical for casino simulation titles that recreate the gambling experience without real monetary stakes. Despite its troubled release, Hoyle Casino 2007 remained part of Encore's catalog and was distributed through various retail channels including DigitalRiver[^ref-9].[^ref-16][^ref-17][^ref-19][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-1]
@@ -262,6 +262,5 @@ From a preservation standpoint, the game's Windows XP-era compatibility requirem
 [^ref-15]: [MobyGames – Hoyle Casino 2007](https://www.mobygames.com/game/24768/hoyle-casino-2007/) – database entry, platform listing, ESRB rating, release metadata
 [^ref-16]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) – comprehensive historical overview of the Hoyle's Official Book of Games video game series
 [^ref-17]: [IGDB – Hoyle Casino 2007](https://www.igdb.com/games/hoyle-casino-2007) – Internet Games Database entry, release-year confirmation, developer attribution
-[^ref-18]: [PCGamingWiki – Hoyle Casino 2007](https://www.pcgamingwiki.com/wiki/Hoyle_Casino_2007) – technical documentation, compatibility matrix, known issues
 [^ref-19]: [Old Games Finder – Hoyle Casino 2007](https://www.oldgamesfinder.com/hoyle-casino-2007/) – abandonware preservation archive, file metadata, screenshot gallery
 [^ref-20]: LaunchBox Games Database – Hoyle Casino 2007 *(link removed: it led to a different game's page)* – community-curated metadata, cover art, platform confirmation

@@ -307,7 +307,7 @@ The game's focus on historical accuracy and cultural research also distinguishes
 [^ref-21]: [VGMdb – Sierra Soundtrack Collection](https://vgmdb.net/album/2241) – soundtrack recording details
 [^ref-22]: [The Sierra Chest – Conquests of the Longbow](https://sierrachest.com/index.php?a=games&id=141&title=conquests-of-the-longbow&fld=music) – release date, music track listing
 [^ref-23]: [Speedrun.com – Conquests of the Longbow](https://www.speedrun.com/conquests_of_the_longbow_the_legend_of_robin_hood) – speedrun data, version differences
-[^ref-24]: [The-Spoiler.com – Point Walkthrough](https://the-spoiler.com/ADVENTURE/Sierra/robin.hood.5.html) – maximum score, point breakdown
+[^ref-24]: [The-Spoiler.com – Point Walkthrough](https://www.justadventure.com/walkthrough/robin-hood-prince-of-thieves-5/) – maximum score, point breakdown
 [^ref-25]: [The Digital Antiquarian](https://www.filfre.net/?s=Conquests+of+the+Longbow%3A+The+Legend+of+Robin+Hood) – Sierra business strategy context
 [^ref-26]: [Speedrun.com – Guide](https://www.speedrun.com/conquests_of_the_longbow_the_legend_of_robin_hood/guides/5px6w) – speedrun strategies, Snowy Skips
 [^ref-27]: [Reddit r/Sierra – 4K Rendering Post](https://www.reddit.com/r/Sierra/comments/16g07ln/conquests_of_the_longbow_rendered_in_4k_simulated/) – fan project

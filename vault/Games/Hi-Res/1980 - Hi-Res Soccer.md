@@ -23,7 +23,7 @@ tags: [1980s, hi-res-sports, sierra]
 
 Hi Res Soccer was an early attempt at recreating European football on a computer, developed during the pioneering days of computer gaming[^ref-1]. Released initially for the Apple II in 1980-1981 by On-Line Systems (later Sierra On-Line), it represented one of the first real-time action soccer games available for personal computers[^ref-2]. The game was marketed with the bold claim that it was "the only real-time action Soccer game available for your computer! All tackling, goal kicking, throwing, corner kicks, etc., are shown in full Hi-Res Graphics"[^ref-2].
 
-The game later received a more sophisticated incarnation in 1994 as "Sierra Soccer: World Challenge Edition" for the Amiga platform, developed by Coktel Vision and published by Sierra On-Line[^ref-3]. This later version became notable as the last title Sierra published for the Amiga platform[^ref-3]. The World Cup '94 themed version allowed players to compete with either the original teams or random groups, capitalizing on the soccer fever of that year[^ref-4].[^ref-13][^ref-15][^ref-16]
+The game later received a more sophisticated incarnation in 1994 as "Sierra Soccer: World Challenge Edition" for the Amiga platform, developed by Coktel Vision and published by Sierra On-Line[^ref-3]. This later version became notable as the last title Sierra published for the Amiga platform[^ref-3]. The World Cup '94 themed version allowed players to compete with either the original teams or random groups, capitalizing on the soccer fever of that year[^ref-4].[^ref-15][^ref-16]
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]] (1980), [[Coktel Vision]] (1994)[^ref-1][^ref-3]
@@ -137,7 +137,7 @@ The game also represents an interesting footnote in Sierra's corporate history, 
 
 **Download / Preservation**
 - [MyAbandonware - Sierra Soccer World Challenge Edition](https://www.myabandonware.com/game/sierra-soccer-world-challenge-edition-7ix)
-- [GamesNostalgia - Sierra Soccer World Challenge Edition](https://gamesnostalgia.com/download/sierra-soccer-world-challenge-edition/2199)
+- [GamesNostalgia - Sierra Soccer World Challenge Edition](https://gamesnostalgia.net/game/sierra-soccer-world-challenge-edition)
 
 ## See Also
 
@@ -167,7 +167,7 @@ The game also represents an interesting footnote in Sierra's corporate history, 
 [^ref-10]: [Retro-Treasures Blog](https://retro-treasures.blogspot.com/2013/10/on-line-systems-hi-res-soccer-apple-ii.html) – Historical perspective
 [^ref-11]: [Giant Bomb – Hi-Res Soccer](https://www.giantbomb.com/hi-res-soccer/3030-61989/) – game wiki entry
 [^ref-12]: [IGDB – Hi-Res Soccer](https://www.igdb.com/games/hi-res-soccer) – Internet Games Database entry
-[^ref-13]: [Internet Archive – Hi-Res Soccer](https://archive.org/details/HiResSoccer) – digital preservation and disk images
+[^ref-13]: [Internet Archive – Hi-Res Soccer (woz-a-day collection)](https://archive.org/details/wozaday_Hi_Res_Soccer) – digital preservation and disk images
 [^ref-14]: [Apple II History](https://www.apple2history.org/history/ah12.html) – Apple II gaming context
 [^ref-15]: [Virtual Apple – Hi-Res Soccer](https://virtualapple.org/) – Apple II emulation archive
 [^ref-16]: [Asimov Archive – On-Line Systems](https://ftp.apple.asimov.net/images/games/collections/on-line_systems/) – early Sierra game collection

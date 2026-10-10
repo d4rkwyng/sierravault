@@ -13,7 +13,7 @@ last_updated: "2026-07-13"
 
 ## Overview
 
-Dynamix, Inc.[^ref-1][^ref-5][^ref-9][^ref-13] was an American video game developer and publisher founded in 1984 by Jeff Tunnell and Damon Slye.[^ref-2][^ref-6][^ref-10][^ref-14] The company was acquired by Sierra On-Line in 1990 and became one of Sierra's most prolific internal studios, developing action games, flight simulators, sports games, and adventure titles until its closure in 2001.[^ref-3][^ref-7][^ref-11][^ref-15]
+Dynamix, Inc.[^ref-1][^ref-5][^ref-13] was an American video game developer and publisher founded in 1984 by Jeff Tunnell and Damon Slye.[^ref-2][^ref-6][^ref-10][^ref-14] The company was acquired by Sierra On-Line in 1990 and became one of Sierra's most prolific internal studios, developing action games, flight simulators, sports games, and adventure titles until its closure in 2001.[^ref-3][^ref-7][^ref-11]
 
 For detailed information about the studio's development history and notable games, see [[Developers/Dynamix|Dynamix (Developer)]].
 
@@ -50,10 +50,8 @@ Dynamix developed numerous franchises for Sierra:
 [^ref-6]: [Sierra Gamers - Dynamix](https://www.sierragamers.com/dynamix/) - Fan archive
 [^ref-7]: [IGDB - Dynamix](https://www.igdb.com/companies/dynamix) - Company profile
 [^ref-8]: [GameFAQs - Dynamix Games](https://gamefaqs.gamespot.com/company/1088-dynamix) - Game list
-[^ref-9]: [Arcade Museum - Dynamix](http://www.arcade-museum.com/members/companydetails.php?id=6) - Company info
 [^ref-10]: [MobyGames - A-10 Tank Killer](https://www.mobygames.com/game/a-10-tank-killer) - Self-published title
 [^ref-11]: [MobyGames - Red Baron](https://www.mobygames.com/game/red-baron) - Sierra-published Dynamix title
 [^ref-12]: [MobyGames - The Incredible Machine](https://www.mobygames.com/game/incredible-machine) - Popular puzzle series
 [^ref-13]: [MobyGames - Starsiege: Tribes](https://www.mobygames.com/game/starsiege-tribes) - Multiplayer franchise
 [^ref-14]: [IMDb - Dynamix](https://www.imdb.com/company/co0139387/) - Company credits
-[^ref-15]: [Retro Gamer Magazine - Dynamix Retrospective](https://www.retrogamer.net/) - Studio history

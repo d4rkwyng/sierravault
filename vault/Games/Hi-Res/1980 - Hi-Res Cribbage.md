@@ -10,20 +10,20 @@ series: Hi-Res Series
 engine: Machine Language
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: Hi-Res Cribbage is a single-player card game developed by Warren Schwader
   and published by On-Line Systems in 1980 for the Apple II computer. The game...
 tags: [1980s, hi-res-series, sierra]
 ---
 # Hi-Res Cribbage
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-Hi-Res Cribbage is a single-player card game developed by [[Warren Schwader]] and published by On-Line Systems in 1980 for the Apple II computer.[^ref-1][^ref-2][^ref-15] The game allows one player to compete against a challenging computer opponent in the classic English card game of cribbage, utilizing the Apple II's high-resolution graphics capabilities to create an authentic digital recreation of the tabletop experience.[^ref-3][^ref-4] At the time of its development, programming in hi-res graphics and assembler was considered "like magic to people and very few knew how to do it," making this title a technical achievement for its era.[^ref-5]
+Hi-Res Cribbage is a single-player card game developed by [[Warren Schwader]] and published by On-Line Systems in 1980 for the Apple II computer.[^ref-1][^ref-2][^ref-15] The game allows one player to compete against a challenging computer opponent in the classic English card game of cribbage, utilizing the Apple II's high-resolution graphics capabilities to create an authentic digital recreation of the tabletop experience.[^ref-1][^ref-4] At the time of its development, programming in hi-res graphics and assembler was considered "like magic to people and very few knew how to do it," making this title a technical achievement for its era.[^ref-5]
 
-The game was among the earliest titles in On-Line Systems' catalog and helped establish the company's reputation for quality software during the formative years of the personal computer industry.[^ref-6] Hi-Res Cribbage sold approximately 2,000 copies, which Schwader himself described as "not awful but not a hit."[^ref-5] The game featured animated cards that appeared to be dealt by "an invisible hand," automatic scoring, and a visual cribbage board with audible pegging—innovations that distinguished it from text-based card games of the period.[^ref-3][^ref-4]
+The game was among the earliest titles in On-Line Systems' catalog and helped establish the company's reputation for quality software during the formative years of the personal computer industry.[^ref-6] Hi-Res Cribbage sold approximately 2,000 copies, which Schwader himself described as "not awful but not a hit."[^ref-5] The game featured animated cards that appeared to be dealt by "an invisible hand," automatic scoring, and a visual cribbage board with audible pegging—innovations that distinguished it from text-based card games of the period.[^ref-1][^ref-4]
 
 Warren Schwader's work on Hi-Res Cribbage ultimately led to his hiring as On-Line Systems' second programmer, marking an important moment in the early history of what would become Sierra On-Line.[^ref-6] The game represents a fascinating snapshot of the personal computer gaming industry at its earliest stages, when individual programmers could create and sell complete commercial products.
 
@@ -44,26 +44,26 @@ As a card game simulation, Hi-Res Cribbage does not feature a narrative story in
 
 Players engage in matches against a computer opponent, with the goal of reaching 121 points before their adversary. The computer AI was designed to evaluate hands using 12 major rules, providing a challenging opponent for even experienced cribbage players.[^ref-6] The game warns players that "if you're not careful, and don't play your cards right, the computer will skunk you," referring to the cribbage term for a decisive victory.[^ref-4]
 
-A complete match ends once either the player or the computer has won six rounds, creating a tournament-style structure for extended play sessions.[^ref-3] This format provided meaningful long-term goals beyond individual hands, encouraging players to develop and refine their strategies over multiple games.
+A complete match ends once either the player or the computer has won six rounds, creating a tournament-style structure for extended play sessions.[^ref-1] This format provided meaningful long-term goals beyond individual hands, encouraging players to develop and refine their strategies over multiple games.
 
 ## Gameplay
 
 ### Interface and Controls
 
-Hi-Res Cribbage utilizes a keyboard-based text parser interface combined with high-resolution graphical display.[^ref-3] The game presents a top-down perspective of the playing surface with a fixed, flip-screen visual style.[^ref-3] Players input their card selections and decisions through the keyboard while viewing animated card graphics on screen.[^ref-3]
+Hi-Res Cribbage utilizes a keyboard-based text parser interface combined with high-resolution graphical display.[^ref-1] The game presents a top-down perspective of the playing surface with a fixed, flip-screen visual style.[^ref-1] Players input their card selections and decisions through the keyboard while viewing animated card graphics on screen.[^ref-1]
 
 The game includes complete instructions for beginners, making it accessible to players unfamiliar with cribbage rules while still providing strategic depth for experienced players.[^ref-4] The interface handles all scoring automatically, removing the need for players to calculate points manually—a significant convenience given cribbage's complex scoring system.
 
 ### Structure and Progression
 
-The game operates on a match-based structure where victory requires winning six individual rounds against the computer opponent.[^ref-3] Each round follows standard cribbage rules, with players attempting to reach 121 points through combinations of cards during play and in hand scoring.
+The game operates on a match-based structure where victory requires winning six individual rounds against the computer opponent.[^ref-1] Each round follows standard cribbage rules, with players attempting to reach 121 points through combinations of cards during play and in hand scoring.
 
 Key features of the game structure include:
 
 - **Automatic Card Dealing:** Cards are dealt randomly with visual animation simulating a real dealer.[^ref-4]
-- **Visual Cribbage Board:** Scores are tracked on a graphical representation of a traditional cribbage board.[^ref-3]
-- **Audible Pegging:** Points are registered with audio feedback as they are scored.[^ref-3]
-- **Save Game Function:** Matches can be saved to disk to be resumed at a later time, a notable feature for the era.[^ref-3]
+- **Visual Cribbage Board:** Scores are tracked on a graphical representation of a traditional cribbage board.[^ref-1]
+- **Audible Pegging:** Points are registered with audio feedback as they are scored.[^ref-1]
+- **Save Game Function:** Matches can be saved to disk to be resumed at a later time, a notable feature for the era.[^ref-1]
 
 ### Puzzles and Mechanics
 
@@ -82,7 +82,6 @@ Contemporary review data from the original 1980 release period is limited in the
 Modern game database communities have preserved information about Hi-Res Cribbage, though comprehensive reviews remain scarce due to the game's age and obscurity.
 
 **Aggregate Scores:**
-- **MobyGames:** 3.4/5 (player ratings)[^ref-3]
 - **LaunchBox Games Database:** No score recorded (0 votes)[^ref-2]
 
 The game is recognized as a technically impressive early title that demonstrated the potential of the Apple II's graphics capabilities for card game simulations.[^ref-6]
@@ -109,18 +108,18 @@ The development of the computer AI required particular attention. Schwader imple
 
 Hi-Res Cribbage represented a significant technical achievement in its use of the Apple II's high-resolution graphics mode for a card game application.[^ref-5][^ref-6] The animated card dealing, where cards "actually look as if they are being turned over one by one by an invisible hand," demonstrated sophisticated graphics programming.[^ref-4]
 
-The game's audio-visual scoring system, with scores "audibly pegged on a visual cribbage board," combined multiple output modes to create an engaging feedback system.[^ref-3] The save game functionality allowing matches to be saved to disk was also a forward-thinking feature that enhanced the user experience.[^ref-3]
+The game's audio-visual scoring system, with scores "audibly pegged on a visual cribbage board," combined multiple output modes to create an engaging feedback system.[^ref-1] The save game functionality allowing matches to be saved to disk was also a forward-thinking feature that enhanced the user experience.[^ref-1]
 
 ### Technical Specifications
 
-**Apple II Version:**[^ref-3][^ref-4][^ref-7]
+**Apple II Version:**[^ref-1][^ref-4][^ref-7]
 - **Resolution:** Hi-Res Graphics mode[^ref-6]
 - **Display:** Raster graphics[^ref-4]
-- **Input:** Keyboard[^ref-3]
-- **Players:** 1 Player vs. Computer[^ref-3]
-- **Perspective:** Top-down view[^ref-3]
-- **Visual Style:** Fixed / flip-screen[^ref-3]
-- **Media:** 5.25" Floppy Disk (On-Line Systems release); also available on cassette (original version)[^ref-3][^ref-5]
+- **Input:** Keyboard[^ref-1]
+- **Players:** 1 Player vs. Computer[^ref-1]
+- **Perspective:** Top-down view[^ref-1]
+- **Visual Style:** Fixed / flip-screen[^ref-1]
+- **Media:** 5.25" Floppy Disk (On-Line Systems release); also available on cassette (original version)[^ref-5]
 - **Language:** English[^ref-4]
 
 ### Cut Content
@@ -174,7 +173,7 @@ Hi-Res Cribbage occupies an important but largely overlooked position in Sierra 
 
 The game also represents a fascinating example of how early personal computer software was developed. Created by an individual programmer caring for a disabled family member, funded through state caregiving support, and initially self-published on cassette tape, Hi-Res Cribbage embodies the garage-developer origins of the personal computer software industry.[^ref-5][^ref-6] The technical achievement of programming in assembly language and utilizing the Apple II's hi-res graphics mode—skills that Schwader noted were "like magic to people" at the time—demonstrates the specialized knowledge that separated early game developers from typical computer hobbyists.[^ref-5]
 
-From a game design perspective, Hi-Res Cribbage showed that card games could successfully transition to personal computers with proper attention to visual presentation and AI challenge. The animated card dealing, visual cribbage board, and audible scoring created an engaging simulation that transcended the purely functional text-based implementations common in earlier computer card games.[^ref-3][^ref-4]
+From a game design perspective, Hi-Res Cribbage showed that card games could successfully transition to personal computers with proper attention to visual presentation and AI challenge. The animated card dealing, visual cribbage board, and audible scoring created an engaging simulation that transcended the purely functional text-based implementations common in earlier computer card games.[^ref-1][^ref-4]
 
 ## Purchase
 
@@ -210,7 +209,6 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 
 [^ref-1]: [MobyGames – Hi-Res Cribbage](https://www.mobygames.com/game/45146/hi-res-cribbage/) – publisher, developer, platform, release year, technical specifications
 [^ref-2]: [LaunchBox Games Database – On-Line Systems Games](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems) – release date, platform, publisher, animated cards feature
-[^ref-3]: [MyAbandonware – Hi-Res Cribbage](https://www.myabandonware.com/game/hi-res-cribbage-1mu) – gameplay features, preservation, platform information
 [^ref-4]: [UVList – Hi-Res Cribbage](https://www.uvlist.net/game-253479-Hi+Res+Cribbage) – official description, animated dealing, AI challenge, display specifications, game features
 [^ref-5]: [Halcyon Days – Warren Schwader Interview](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) – developer quotes, sales figures, development circumstances, cassette marketing, hi-res graphics significance
 [^ref-6]: [Retro365 – Bits From My Personal Collection: Hi-Res Cribbage](https://retro365.blog/2021/02/19/bits-from-my-personal-collection-hi-res-cribbage-by-warren-schwader-on-line-systems-first-hire/) – development history, Schwader biography, Ken Williams assessment, cassette/disk versions, AI algorithm, On-Line Letter feature, cribbage origins

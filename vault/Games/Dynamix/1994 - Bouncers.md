@@ -21,7 +21,7 @@ tags: [1990s, dynamix, sierra, standalone]
 
 ## Overview
 
-Bouncers is an unconventional arcade basketball game developed by [[Dynamix]] and published by Sega of America exclusively for the Sega CD in December 1994.[^ref-1][^ref-2] The game features a unique twist on basketball where players control the ball itself rather than a human athlete, bouncing off opponents to score goals.[^ref-1][^ref-3] As the product description proclaimed: "Slam Dunk Your Head! This is more than a head-to-head basketball game. This is feet-to-head! Bouncin' off your opponent is the only way to slam it home or bury a three-pointer!"[^ref-4]
+Bouncers is an unconventional arcade basketball game developed by [[Dynamix]] and published by Sega of America exclusively for the Sega CD in December 1994.[^ref-1][^ref-2] The game features a unique twist on basketball where players control the ball itself rather than a human athlete, bouncing off opponents to score goals.[^ref-1][^ref-3] Sega's promotional text for the game led with "Slam-Dunk Your Head" and told players: "Now you get to play basketball as the ball."[^ref-4]
 
 Released exclusively in North America, Bouncers combines sports gameplay with fighting game mechanics in a slapstick atmosphere similar to games like Earthworm Jim or ClayFighter.[^ref-3][^ref-5] The game features a distinguished voice cast including Mark Hamill (Star Wars), Michael Bell, and John Kassir (Tales from the Crypt).[^ref-1][^ref-2][^ref-6] Even for the Sega CD, a system with no shortage of strange and inscrutable games, Hardcore Gaming 101 observed that "the existence of Bouncers is nothing short of perplexing."[^ref-7]
 
@@ -49,7 +49,7 @@ Each character receives their own animated introduction sequence showcasing thei
 
 ### Interface and Controls
 
-Bouncers employs a side-view perspective with 2D scrolling gameplay.[^ref-1] The game uses a straightforward two-button control scheme: A for jump and B for attack.[^ref-3][^ref-13] Players attempt to bounce off opponents to score or attack them to prevent scoring.[^ref-3] As one review described: "you are two basket balls, playing basketball. Only you need to jump on each other to get enough height to get your body through the hoop."[^ref-4]
+Bouncers employs a side-view perspective with 2D scrolling gameplay.[^ref-1] The game uses a straightforward two-button control scheme: A for jump and B for attack.[^ref-3][^ref-13] Players attempt to bounce off opponents to score or attack them to prevent scoring.[^ref-3] Sega's promotional text explained that players "can't jump high enough to reach them on your own. You have to bounce off your opponent or use the optional power-ups to score."[^ref-4]
 
 The controls were designed to be accessible, though the implementation proved controversial. Hardcore Gaming 101's retrospective observed that the game applies realistic physics to the basketball characters, meaning "each player controls an anthropomorphic cartoon basketball whose goal is to thrust their whole body into one of two or three basketball hoops around the stage."[^ref-7] However, this realism created problems: "the reality is that the game is practically unplayable" due to players losing control when airborne and experiencing slow acceleration with slippery movement.[^ref-7]
 
@@ -127,7 +127,7 @@ Sega-16's retrospective review described the game as "shallow and rushed," criti
 
 One GameFAQs reviewer was particularly harsh: "Bouncers is just another game that ended up in discount bins real early on and makes the Sega CD look bad. It's a rush job and unneeded filler that never should've been released in the first place."[^ref-11][^ref-17]
 
-However, some players found enjoyment in the concept. One Amazon customer review from 2013 noted: "this game is for the sega cd. The sega cd's library is notoriously bad, so finding a game that is not only playable, but good, for under $50 is a pretty amazing."[^ref-4] The game maintains a small collector following.[^ref-20] Modern collectors note that multiplayer significantly improves the gameplay experience.[^ref-3][^ref-18]
+The game maintains a small collector following.[^ref-20] Modern collectors note that multiplayer significantly improves the gameplay experience.[^ref-3][^ref-18]
 
 ## Development
 
@@ -197,7 +197,7 @@ The game is perhaps most notable today for the career trajectories of its develo
 
 ### Connection to Sierra
 
-As a Dynamix production, Bouncers is part of Sierra's extended family of games. Dynamix was acquired by [[Sierra On-Line]] in 1990 and continued operating as a subsidiary until 2001.[^ref-15][^ref-16] The Sega-16 review notably credits Sierra as the developer, highlighting the corporate relationship.[^ref-3]
+As a Dynamix production, Bouncers is part of Sierra's extended family of games. Dynamix was acquired by [[Sierra On-Line]] in 1990 and continued operating as a subsidiary until 2001.[^ref-15] The Sega-16 review notably credits Sierra as the developer, highlighting the corporate relationship.[^ref-3]
 
 ### Critical Perspective
 
@@ -253,7 +253,7 @@ The game demonstrates both the creative ambition and technical limitations of mi
 [^ref-1]: [MobyGames - Bouncers](https://www.mobygames.com/game/8009/bouncers/) - Release dates, platforms, critics score, technical specifications, full credits, ESRB rating
 [^ref-2]: [Wikipedia - Bouncers](https://en.wikipedia.org/wiki/Bouncers_(video_game))) - Development history, contemporary reviews, voice actors, LoudMouth Inc. founding, John Garvin career
 [^ref-3]: [Sega-16 - Bouncers Review](https://www.sega-16.com/2013/05/bouncers/) - Gameplay description, court types, controls, retrospective analysis
-[^ref-4]: [Amazon - Bouncers Customer Reviews](https://www.amazon.com/dp/B000BZAAEC) - Marketing description, user reviews
+[^ref-4]: [Sega promotional text for Bouncers (textfiles.com)](http://www.textfiles.com/games/CONSOLES/bouncers.txt) - 1990s marketing description: "Slam-Dunk Your Head"
 [^ref-5]: [IGDB - Bouncers](https://www.igdb.com/games/bouncers) - Genre classification, Internet Games Database entry
 [^ref-6]: [Behind the Voice Actors - Bouncers](https://www.behindthevoiceactors.com/video-games/Bouncers/) - Complete voice cast with character roles
 [^ref-7]: [Hardcore Gaming 101 - Bouncers](http://www.hardcoregaming101.net/bouncers/) - Retrospective analysis, physics critique, comparison to other Dynamix adventure games
@@ -265,7 +265,6 @@ The game demonstrates both the creative ambition and technical limitations of mi
 [^ref-13]: [Sega Retro - Bouncers Manual](https://segaretro.org/File:Bouncers_mcd_us_manual.pdf) - Scanned US manual (24 pages)
 [^ref-14]: [Giant Bomb - Bouncers](https://www.giantbomb.com/bouncers/3030-26282/) - Game wiki and community content
 [^ref-15]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) - Sierra acquisition, subsidiary history
-[^ref-16]: [RetroGamer - Dynamix History](https://www.retrogamer.net/retro_games/dynamix/) - Dynamix studio history and game catalog
 [^ref-17]: GameFAQs - Bouncers *(link removed: it led to a different game's page)* - Game database entry, user reviews
 [^ref-18]: [UVList - Bouncers](https://www.uvlist.net/game-9137-Bouncers) - Universal Videogame List database entry
 [^ref-19]: [eBay - Bouncers Listing](https://www.ebay.com/sch/i.html?_nkw=bouncers+sega+cd) - Product description and market information

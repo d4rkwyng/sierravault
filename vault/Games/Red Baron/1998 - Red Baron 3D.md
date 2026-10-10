@@ -137,7 +137,7 @@ The game's comprehensive manual featured rich illustrated content about World Wa
 [^ref-6]: [Gaming Stack Exchange](https://gaming.stackexchange.com/questions/395983/who-composed-the-music-for-red-baron-ii-red-baron-3d-what-are-the-names-of-th) – - Development timeline
 [^ref-7]: [Amazon Product Page](https://www.amazon.com/Red-Baron-3-D-PC/dp/B00001LCDF) – - GameSpot review quotes
 [^ref-8]: [Dynamix Fandom Wiki - Red Baron II](https://dynamix.fandom.com/wiki/Red_Baron_II) – - Development research details
-[^ref-9]: [Sierra Classic Gaming](https://sierraclassicgaming.com/game/red-baron-3d/) – - Game features
+[^ref-9]: [Wikipedia – Red Baron II / Red Baron 3D](https://en.wikipedia.org/wiki/Red_Baron_II) – - Game modes: Single Mission and a dynamic Campaign covering the Western Front from 1916 through 1918
 [^ref-10]: [Archive.org Manual](https://archive.org/stream/Red_Baron_3D_-_Manual/Red_Baron_3D_-_Manual_djvu.txt) – - Game design philosophy
 [^ref-11]: [GameRevolution Review](https://www.gamerevolution.com/review/32974-red-baron-ii-review) – - Control requirements
 [^ref-12]: [Never Die Media](https://www.neverdiemedia.com/products/red-baron-3-d) – - Multiplayer capacity

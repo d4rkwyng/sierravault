@@ -279,7 +279,7 @@ Order of the Thorne exists within Infamous Quests' broader catalog of Sierra-ins
 [^ref-2]: [GamePressure](https://www.gamepressure.com/games/order-of-the-thorne-the-kings-challenge/zd5008) – Game description and King's Quest inspiration
 [^ref-3]: [Cliqist](http://cliqist.com/2016/02/02/order-of-the-thorne-the-kings-challenge-plays-a-wonderful-melody/) – Development background and series plans
 [^ref-4]: [GOG.com](https://www.gog.com/en/game/order_of_the_thorne_the_kings_challenge) – Story premise, user reviews
-[^ref-5]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Order_of_the_Thorne:_The_King's_Challenge) – Technical specifications and development context
+[^ref-5]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Order_of_the_Thorne:_The_King%27s_Challenge) – Technical specifications and development context
 [^ref-6]: Adventure Gamers *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Review quotes and technical details
 [^ref-7]: [MobyGames Credits](https://www.mobygames.com/game/88993/order-of-the-thorne-the-kings-challenge/credits/windows/) – Full development team credits
 [^ref-8]: [HowLongToBeat](https://howlongtobeat.com/game/34445) – Playtime statistics and user satisfaction

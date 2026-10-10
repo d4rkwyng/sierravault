@@ -172,7 +172,6 @@ The remake's success lies not merely in its technical achievements but in its ph
 **Download / Preservation**
 - [AGD Interactive Official Site](https://www.agdinteractive.com/games/qfg2/) - Official free download[^ref-3]
 - MyAbandonware - Alternative download[^ref-12]
-- [ClassicReload](https://classicreload.com/quest-for-glory-ii-vga-remake.html) - Browser playable version[^ref-13]
 
 **SierraVault Mirror:**
 - [Windows (v2.0)](https://files.sierravault.net/FanGames/AGDInteractive/QuestForGlory2VGA/Qfg2vga20.exe) – 71 MB
@@ -211,7 +210,6 @@ The remake's success lies not merely in its technical achievements but in its ph
 [^ref-10]: [Sierra Fandom Wiki – Quest for Glory II VGA Remake](https://sierra.fandom.com/wiki/Quest_for_Glory_II_VGA_Remake) – gameplay details, character classes, series information
 [^ref-11]: [Wikipedia – Quest for Glory II: Trial by Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_II:_Trial_by_Fire#VGA_remake) – VGA remake section, historical context
 [^ref-12]: MyAbandonware – Quest for Glory II VGA Remake *(link removed: it led to a different game's page)* – download availability, platform information
-[^ref-13]: [ClassicReload – Quest for Glory II VGA Remake](https://classicreload.com/quest-for-glory-ii-vga-remake.html) – browser playable version, preservation
 [^ref-14]: [Sierra Help Wiki – Quest for Glory II VGA Remake](https://wiki.sierrahelp.com/index.php/Quest_for_Glory_II_VGA_Remake) – technical support, compatibility guides
 [^ref-15]: [Abandonware DOS – Quest for Glory II VGA Remake](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Quest+for+Glory+II+VGA+Remake) – genre classification, user ratings, download information
 [^ref-16]: [Reddit r/QuestForGlory](https://www.reddit.com/r/QuestForGlory/) – community discussions, fan recommendations

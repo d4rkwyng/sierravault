@@ -23,7 +23,7 @@ tags: [adventure, king-s-quest, sierra]
 
 King's Quest IV Remake is an in-development fan remake of Sierra's 1988 classic *King's Quest IV: The Perils of Rosella*, being created by [[Infamous Adventures]]. The project continues the team's tradition of producing high-quality VGA remakes of classic Sierra adventure games, following their earlier releases of [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III]] (2006) and [[2011 - Space Quest II VGA Remake|Space Quest II VGA]] (2011).[^ref-1]
 
-After completing their Space Quest II remake in 2011, Infamous Adventures shifted focus to commercial development under the [[Infamous Quests]] label, releasing *Quest for Infamy* in 2014. The team has since returned to fan remake work, with the KQ4 project seeing renewed activity through the Infamous Adventures Discord community.[^ref-2] Its current status is unverified: the only source for recent activity is a January 2026 Infamous Quests Patreon update that is visible to patrons only, and no public Infamous Quests post since has named the remake. No release date has been announced.[^ref-1][^ref-13][^ref-14][^ref-15]
+After completing their Space Quest II remake in 2011,[^ref-11] Infamous Adventures shifted focus to commercial development under the [[Infamous Quests]] label, releasing *Quest for Infamy* in 2014. The team has since returned to fan remake work, with the KQ4 project seeing renewed activity through the Infamous Adventures Discord community.[^ref-2] Its current status is unverified: the only source for recent activity is a January 2026 Infamous Quests Patreon update that is visible to patrons only, and no public Infamous Quests post since has named the remake. No release date has been announced.[^ref-1][^ref-13][^ref-14][^ref-15]
 
 **Note:** This project is distinct from other King's Quest IV fan remakes, including "King's Quest IV Retold" by DrSlash (2021) and the "KQ4 Retold VGA + Talkie" patch by Magic Quest Entertainment (2025).
 
@@ -68,7 +68,7 @@ The remake will retell the story of the original King's Quest IV: The Perils of 
 
 In Tamir, Rosella encounters the good fairy Genesta, who is weakened by her nemesis, the evil witch Lolotte.[^ref-4] Rosella must complete tasks for Lolotte—capturing a unicorn, stealing a golden egg-laying hen, and uncovering Pandora's box—while also working to help Genesta and find the magical fruit before time runs out.[^ref-4]
 
-The original game was notable for being Sierra's first adventure game with a female protagonist and for its real-time day-night cycle mechanic, where certain puzzles could only be completed at specific times.[^ref-4] The remake is expected to preserve these story elements while modernizing the presentation.[^ref-11]
+The original game was notable for being Sierra's first adventure game with a female protagonist and for its real-time day-night cycle mechanic, where certain puzzles could only be completed at specific times.[^ref-4]
 
 ## Gameplay
 
@@ -193,10 +193,10 @@ The Infamous Adventures team's renewed activity in 2025-2026, with regular Disco
 [^ref-7]: [VOGONS Forums – Space Quest II Discussion](https://www.vogons.org/viewtopic.php?t=22863) – Community comparisons noting IA remakes "stayed quite close to the original" versus AGDI's approach
 [^ref-8]: MobyGames – King's Quest IV: The Perils of Rosella *(link removed: it led to a different game's page)* – Original 1988 game details, user ratings (3.4/5), platform information, credits
 [^ref-10]: [GOG – King's Quest 4+5+6](https://www.gog.com/game/kings_quest_4_5_6) – Original game available for purchase, user reviews praising day/night cycle and puzzles, first female protagonist context
-[^ref-11]: [Infamous Adventures Official Site](http://www.infamous-adventures.com/) – Redirects to itch.io, team description as "Makers of Sierra Remakes including King's Quest III and Space Quest II"
+[^ref-11]: [Infamous Adventures on itch.io](https://infamousadventures.itch.io/) – Official site (infamous-adventures.com) now redirects here; team description as "Makers of Sierra Remakes including King's Quest III and Space Quest II"
 [^ref-12]: [Wikipedia – King's Quest IV](https://en.wikipedia.org/wiki/King%27s_Quest_IV:_The_Perils_of_Rosella) – Original 1988 game history, SCI engine debut, Roberta Williams designer, day/night cycle innovation
 [^ref-13]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – Original KQ4 available in collection format
 [^ref-14]: [Sierra Wiki – King's Quest IV](https://sierrawiki.fandom.com/wiki/King%27s_Quest_IV) – Fan wiki documentation of original game, plot details, technical information
-[^ref-15]: [Infamous Quests Twitter](https://twitter.com/IQ_Adventures) – Official social media presence, development updates
+[^ref-15]: [Infamous Quests on X (formerly Twitter)](https://x.com/IQ_Adventures) – Official social media presence, development updates
 
 [^ref-16]: [Adventure Game Studio Database – Infamous Adventures Remakes](https://www.adventuregamestudio.co.uk/) – Complete database of AGS games and remakes with community ratings and technical specifications for point-and-click adventure games

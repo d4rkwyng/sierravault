@@ -7,16 +7,16 @@ first_release: 1992
 last_release: 2023
 total_games: 9
 genre: "City-Building Strategy"
-last_updated: "2026-05-13"
+last_updated: "2026-10-09"
 ---
 
 # City Builders Series
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-The City Builders series — sometimes called the *Caesar III* lineage or the **Impressions city-builder line** — is one of the most influential strategy-game franchises of the 1990s, originating at UK-based [[Impressions Games]] (acquired by Sierra in 1995) and producing nine entries between 1992 and 2023 across the Roman, Egyptian, Greek, and Chinese civilizations.[^ref-1] The series is the formative ancestor of the modern "ancient civilization city-builder" genre, directly inspiring the Tilted Mill *Children of the Nile* line, the *Anno* series' historical entries, and indie successors like *Pharaoh: A New Era* (2023) and *Nebuchadnezzar* (2021).[^ref-2]
+The City Builders series — sometimes called the *Caesar III* lineage or the **Impressions city-builder line** — is one of the most influential strategy-game franchises of the 1990s, originating at UK-based [[Impressions Games]] (acquired by Sierra in 1995) and producing nine entries between 1992 and 2023 across the Roman, Egyptian, Greek, and Chinese civilizations.[^ref-1] Its formula continued in Tilted Mill's *Children of the Nile* (2004) and the officially licensed remake *Pharaoh: A New Era* (2023),[^ref-1] and indie city-builders such as *Nebuchadnezzar* (2021) are routinely compared to it.[^ref-17]
 
 [[David Lester]] founded the line with [[1992 - Caesar|Caesar]] (1992) at Impressions Software (the pre-acquisition name), establishing the formula: a single-screen isometric view of a growing settlement; a peace/wealth/prosperity rating triumvirate; managed citizen workforce; military expansion through campaign progression.[^ref-3] [[Simon Bradbury]] joined as co-designer and lead programmer for *Caesar III* (1998), the entry that defined the genre and remains the franchise's most celebrated release.[^ref-4]
 
@@ -72,7 +72,7 @@ Beyond direct sequels, the City Builders series spawned an extensive line of spi
 
 - **Tilted Mill's Children of the Nile** (2004) — Direct spiritual successor by the same designers.
 - **Pharaoh: A New Era** (2023) — Officially-licensed remake.
-- **Nebuchadnezzar** (2021) — Indie successor by Nepos Games that explicitly cites the series as inspiration.
+- **Nebuchadnezzar** (2021) — Indie city-builder by Nepos Games, widely compared to the series, especially *Pharaoh*.[^ref-17]
 - **Anno 1404, Anno 1800** (2009, 2019) — Ubisoft's strategy line incorporated many City Builders ideas.
 
 The series' core mechanical innovations — citizen-walker simulation, service-delivery-based satisfaction, monument-driven campaigns — are now genre conventions for ancient-civilization city-builders broadly.
@@ -88,8 +88,7 @@ The series' core mechanical innovations — citizen-walker simulation, service-d
 
 ## References
 
-[^ref-1]: [Wikipedia — City Building series (Sierra)](https://en.wikipedia.org/wiki/City-building_series_(Sierra_Entertainment)) — Series overview
-[^ref-2]: [Rock Paper Shotgun — City-builder retrospective](https://www.rockpapershotgun.com/the-roots-of-the-modern-city-builder) — Influence on later genre entries
+[^ref-1]: [Wikipedia — City Building (series)](https://en.wikipedia.org/wiki/City_Building_(series)) — Series overview
 [^ref-3]: [MobyGames — David Lester credits](https://www.mobygames.com/person/david-lester/) — Founder career
 [^ref-4]: [MobyGames — Simon Bradbury credits](https://www.mobygames.com/person/simon-bradbury/) — Caesar III lead
 [^ref-5]: [Wikipedia — Caesar (1992)](https://en.wikipedia.org/wiki/Caesar_(video_game)) — Founding entry
@@ -101,7 +100,6 @@ The series' core mechanical innovations — citizen-walker simulation, service-d
 [^ref-11]: [Wikipedia — Emperor: Rise of the Middle Kingdom](https://en.wikipedia.org/wiki/Emperor:_Rise_of_the_Middle_Kingdom) — Final Sierra-era entry
 [^ref-12]: [GameSpot — Caesar IV review](https://www.gamespot.com/reviews/caesar-iv-review/1900-6160706/) — Mixed reception of 3D transition
 [^ref-13]: [Dotemu — Pharaoh: A New Era](https://www.dotemu.com/games/pharaoh-a-new-era/) — Official remake page
-[^ref-14]: [IGN — Pharaoh: A New Era review](https://www.ign.com/articles/pharaoh-a-new-era-review) — 2023 remake reception
-[^ref-15]: [Hardcore Gaming 101 — Caesar series](http://www.hardcoregaming101.net/caesar/) — Series retrospective
+[^ref-14]: [Wikipedia — Pharaoh: A New Era](https://en.wikipedia.org/wiki/Pharaoh:_A_New_Era) — 2023 remake reception (Metacritic 76/100)
 [^ref-16]: [Tilted Mill — Studio history](https://en.wikipedia.org/wiki/Tilted_Mill_Entertainment) — Post-Impressions designer trajectory
-[^ref-17]: [Nepos Games — Nebuchadnezzar](https://www.neposgames.com/nebuchadnezzar) — Modern spiritual successor
+[^ref-17]: [Wikipedia — Nebuchadnezzar (video game)](https://en.wikipedia.org/wiki/Nebuchadnezzar_(video_game)) — "compared to Impressions Games' City Building series, especially ... Pharaoh"

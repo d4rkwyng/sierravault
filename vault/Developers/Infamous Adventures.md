@@ -23,7 +23,7 @@ Founded by Steven Alexander and Shawn Mills, Infamous Adventures operated as a f
 
 ### Founding and Early Years
 
-Infamous Adventures was established in 2004 by a group of Sierra adventure game enthusiasts who were passionate about preserving and extending the legacy of classic adventure titles.[^ref-7] The studio's origins can be traced back to the fan community that emerged in the early 2000s, when Sierra On-Line's original adventure game series had been discontinued, leaving a void for players who craved new experiences in familiar worlds.[^ref-8] The founding team, led by Steven Alexander and Shawn Mills, initially focused on creating VGA remakes of beloved Sierra titles that had originally been released with EGA graphics or text-based interfaces.[^ref-9]
+Infamous Adventures was established in 2004 by a group of Sierra adventure game enthusiasts who were passionate about preserving and extending the legacy of classic adventure titles.[^ref-7][^ref-18] The studio's origins can be traced back to the fan community that emerged in the early 2000s, when Sierra On-Line's original adventure game series had been discontinued, leaving a void for players who craved new experiences in familiar worlds.[^ref-8] The team focused on remaking Sierra adventure games with VGA graphics.[^ref-9]
 
 The studio's first major project was a complete remake of King's Quest III, transforming the original 1986 EGA version into a full VGA experience with updated graphics, voice acting, and enhanced gameplay mechanics.[^ref-10] This project established their reputation within the adventure gaming community and demonstrated their commitment to quality and authenticity.[^ref-11] The team worked entirely as volunteers during these early years, driven by passion rather than profit, and established a development philosophy that prioritized respect for the source material while incorporating modern improvements.[^ref-12]
 
@@ -31,7 +31,7 @@ The studio's first major project was a complete remake of King's Quest III, tran
 
 While Infamous Adventures never had an official relationship with Sierra Entertainment, their work was deeply influenced by and designed to complement the original Sierra catalog.[^ref-13] The studio operated in the gray area of fan projects, creating unauthorized but respectfully crafted remakes that Sierra chose not to pursue legally, likely recognizing the positive impact these projects had on keeping interest alive in their classic properties.[^ref-14] This period saw the release of their King's Quest III Redux in 2006, which was met with widespread acclaim from the adventure gaming community.[^ref-15]
 
-Following the success of their King's Quest remake, the team expanded their ambitions to include other Sierra properties, beginning work on a VGA remake of Space Quest II.[^ref-16] This project, released in 2011, showcased the studio's growing technical capabilities and their ability to capture the humor and personality that made the original Sierra games so beloved.[^ref-17] The Space Quest II remake featured completely redrawn backgrounds, new character animations, full voice acting, and an enhanced musical score while maintaining the original's puzzle design and story structure.[^ref-18]
+Following the success of their King's Quest remake, the team expanded their ambitions to include other Sierra properties, beginning work on a VGA remake of Space Quest II.[^ref-16] This project, released in 2011, showcased the studio's growing technical capabilities and their ability to capture the humor and personality that made the original Sierra games so beloved.[^ref-17]
 
 ### Closure and Transition to Infamous Quests
 
@@ -45,13 +45,13 @@ King's Quest III Redux stands as one of the most successful and influential fan-
 
 ### Space Quest II VGA Remake (2011)
 
-The Space Quest II VGA remake demonstrated Infamous Adventures' versatility in handling different types of adventure games, successfully translating the humor and science fiction elements of the original 1987 game into a modern format.[^ref-8] This project showcased the team's growth as developers, featuring more sophisticated animation techniques, professional-quality voice acting, and enhanced musical compositions that elevated the source material while maintaining its distinctive character.[^ref-9] The remake was particularly praised for its ability to capture the comedic timing and visual gags that made the original Space Quest series so memorable, and would be the studio's final release before transitioning to [[Infamous Quests]].[^ref-10]
+The Space Quest II VGA remake demonstrated Infamous Adventures' versatility in handling different types of adventure games, successfully translating the humor and science fiction elements of the original 1987 game into a modern format.[^ref-8] It presented the 1987 game with VGA graphics as a freeware release.[^ref-9] The remake was particularly praised for its ability to capture the comedic timing and visual gags that made the original Space Quest series so memorable, and would be the studio's final release before transitioning to [[Infamous Quests]].[^ref-10]
 
 ## Key People
 
 Steven Alexander serves as the primary driving force behind Infamous Adventures, functioning as both project director and lead designer throughout the studio's history.[^ref-14] His vision for preserving and extending the Sierra adventure game legacy has shaped every project the studio has undertaken, and his perseverance through personal health challenges during the development of Quest for Infamy has become legendary within the adventure gaming community.[^ref-15] Alexander's background as both a programmer and designer has allowed him to maintain creative control over projects while also handling technical implementation.[^ref-16]
 
-Shawn Mills has been instrumental in the studio's success as a key contributor to both the remake projects and original content development.[^ref-17] The collaborative relationship between Alexander and Mills has provided the stability and creative partnership necessary to complete ambitious projects with limited resources.[^ref-18] Other notable contributors include various voice actors, artists, and musicians who have worked with the studio on a volunteer or contract basis, creating a extended family of collaborators who share the studio's passion for adventure gaming.[^ref-19]
+Shawn Mills has been instrumental in the studio's success as a key contributor to both the remake projects and original content development.[^ref-17] Other notable contributors include various voice actors, artists, and musicians who have worked with the studio on a volunteer or contract basis, creating a extended family of collaborators who share the studio's passion for adventure gaming.[^ref-19]
 
 ## Legacy
 
@@ -74,7 +74,7 @@ The studio's influence extends beyond their own releases, as their success with 
 [^ref-6]: [Giant Bomb](https://www.giantbomb.com/search/?q=Infamous+Adventures&filter=company) — Developer database and game information
 [^ref-7]: Adventure Gamers Book Review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Historical context of adventure gaming
 [^ref-8]: [Wikidata](https://www.wikidata.org/wiki/Q6028784) — Structured data about the company
-[^ref-9]: [Games Nostalgia](https://gamesnostalgia.com/games/developer/infamous+adventures) — Developer profile and game catalog
+[^ref-9]: [Games Nostalgia (archived)](https://web.archive.org/web/20251215133614/https://gamesnostalgia.com/games/developer/infamous+adventures) — Developer profile and game catalog: Space Quest II remake, VGA graphics, freeware
 [^ref-10]: [Gamezebo Development Story](https://www.gamezebo.com/news/from-dialysis-to-development-quest-for-infamys-12-year-journey/) — Quest for Infamy development challenges
 [^ref-11]: [Infamous Adventures Itch.io](https://infamousadventures.itch.io/) — Official distribution platform
 [^ref-12]: [Reddit Sierra Discussion](https://www.reddit.com/r/Sierra/comments/1ip8qfa/infamous_adventures_quest/) — Community feedback and discussion
@@ -83,6 +83,6 @@ The studio's influence extends beyond their own releases, as their success with 
 [^ref-15]: [MobyGames](https://www.mobygames.com/company/8321/infamous-adventures/) — Complete game database and company profile
 [^ref-16]: Adventure Gamers Giveaway *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no clean pre-sale archived copy found)* — Sierra gaming history context
 [^ref-17]: [Games Industry Search](https://www.gamesindustry.biz/search?q=Infamous+Adventures) — Industry coverage and news
-[^ref-18]: [Sierra Classic Gaming](https://sierraclassicgaming.com/developer/infamous-adventures/) — Developer profile and game analysis
+[^ref-18]: [Sierra Classic Gaming (archived)](https://web.archive.org/web/20251209075039/https://sierraclassicgaming.com/developer/infamous-adventures/) — "Founded in 2004 and developed many remakes of Sierra adventure games. Closed down in 2012 to become Infamous Quests."
 [^ref-19]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Company:Infamous_Adventures) — Technical information and compatibility
 [^ref-20]: [Alchetron](https://alchetron.com/Infamous-Adventures) — Company biography and timeline

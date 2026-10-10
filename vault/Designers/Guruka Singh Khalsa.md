@@ -132,7 +132,7 @@ The enduring popularity of the games he helped create testifies to the lasting v
 [^ref-3]: [SikhNet - Authors Profile](https://www.sikhnet.com/authors/guruka-singh-khalsa) — Spiritual writings and community leadership
 [^ref-4]: [MobyGames Credits](https://www.mobygames.com/person/2193/guruka-singh-khalsa/credits/) — Complete listing of producer credits 1989-1992
 [^ref-5]: [IMDb - Guruka Singh Khalsa](https://www.imdb.com/name/nm1041549/) — Voice acting roles and character performances
-[^ref-6]: [SikhNet - How I Became Sikh](https://www.sikhnet.com/news/guruka-singh-how-i-became-sikh) — Personal spiritual journey and conversion story
+[^ref-6]: [SikhNet - How I Became Sikh](https://web.archive.org/web/20260404164015/https://www.sikhnet.com/news/guruka-singh-how-i-became-sikh) — Personal spiritual journey and conversion story
 [^ref-7]: [Students of Yogi Bhajan](https://studentsofyogibhajan.com/author/gurukasingh/) — Personal history and marriage details
 [^ref-8]: [Giant Bomb - Guruka Singh Khalsa](https://www.giantbomb.com/guruka-singh-khalsa/3040-1772/) — Career timeline and Sierra involvement
 [^ref-9]: [Facebook - Guruka Singh Khalsa](https://www.facebook.com/gurukasingh/) — "Former Senior Producer at Sierra Online" profile listing

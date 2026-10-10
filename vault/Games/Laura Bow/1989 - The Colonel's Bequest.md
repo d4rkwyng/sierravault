@@ -50,7 +50,7 @@ The story unfolds across eight acts, one for each hour of the night; the clock a
 
 ### Interface and Controls
 
-The Colonel's Bequest utilizes Sierra's SCI (Sierra Creative Interpreter) engine with a text parser interface where players type verb-object command combinations such as "Look Garden" or "Talk Colonel"[^ref-19]. This represented an evolution from Sierra's earlier AGI engine while maintaining the company's traditional text-based interaction model[^ref-20]. The game supports various audio options, with MT-32 sound providing the most atmospheric experience, though early MT-32 modules contain bugs that cause incorrect sound effects on later devices[^ref-21].
+The Colonel's Bequest utilizes Sierra's SCI (Sierra Creative Interpreter) engine with a text parser interface where players type verb-object command combinations such as "Look Lillian" or "Look cigar"[^ref-19]. This represented an evolution from Sierra's earlier AGI engine while maintaining the company's traditional text-based interaction model[^ref-20]. The game supports various audio options, with MT-32 sound providing the most atmospheric experience, though early MT-32 modules contain bugs that cause incorrect sound effects on later devices[^ref-21].
 
 The visual presentation uses 16-color EGA graphics at double the resolution of Sierra's earlier AGI engine[^ref-22]. DOS Days calls the background artwork by Douglas Herring and Gerald Moore "top notch" despite the 16-color limit[^ref-20]. The SCI0 engine did not yet handle sampled audio[^ref-22].
 
@@ -163,7 +163,7 @@ Speedrunning communities maintain leaderboards for the game[^ref-53]. In 2025 Ar
 [^ref-16]: [MoeGamer Analysis](https://moegamer.net/2024/11/30/the-colonels-bequest-a-bold-experiment-with-the-interactive-mystery-format/) – - Detailed gameplay mechanics explanation
 [^ref-17]: [Lemon Amiga Walkthrough](https://www.lemonamiga.com/games/docs.php?id=355) – - Act structure explanation
 [^ref-18]: [Adventure Gaming Blog](https://advgamer.blogspot.com/2013/09/game-34-colonels-bequest-won.html) – - Multiple endings documentation
-[^ref-19]: [Strategy Wiki](https://strategywiki.org/wiki/Colonel's_Bequest) – - Interface mechanics description
+[^ref-19]: [StrategyWiki – The Colonel's Bequest/Walkthrough](https://strategywiki.org/wiki/The_Colonel%27s_Bequest/Walkthrough) – - Typed verb-object commands used in play
 [^ref-20]: [DOS Days](https://dosdays.co.uk/topics/Games/game_colonel.php) – - Technical engine comparison
 [^ref-21]: [ScummVM Documentation](https://docs.scummvm.org/en/v2.6.1/advanced_topics/understand_audio.html) – - MT-32 audio bug information
 [^ref-22]: [Gaming After 40 Blog](http://gamingafter40.blogspot.com/2009/09/adventure-of-week-sierras-colonels.html) – - Graphics quality assessment

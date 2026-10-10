@@ -27,7 +27,7 @@ tags: [2010s, sierra, spaceventure, two-guys]
 
 The game was developed as an offshoot of the much larger *SpaceVenture* project, which was successfully funded through Kickstarter in 2012 with $539,767 from 10,809 backers[^ref-4]. When development on *SpaceVenture* experienced delays due to personal circumstances affecting Scott Murphy, the team created *Cluck Yegger* as both a Halloween-themed gift to backers and a means of generating additional funding for the main project[^ref-2]. The mini-game was initially released exclusively to Kickstarter backers on October 29, 2015, before becoming publicly available on Steam and other platforms shortly thereafter[^ref-6].
 
-Despite its origins as a small side project, *Cluck Yegger* developed its own following among fans who appreciated its blend of tension and humor. The game features full voice acting, original music, and a "Tame Mode" option that replaces traditional jump scares with a cat dressed in a chicken costume, making it accessible to younger players[^ref-1]. User reviews consistently praised it as a parody that exceeded its source material, with one reviewer declaring it "Cheaper than FNAF, Better than FNAF"[^ref-7].[^ref-20][^ref-21][^ref-22]
+Despite its origins as a small side project, *Cluck Yegger* developed its own following among fans who appreciated its blend of tension and humor. The game features full voice acting, original music, and a "Tame Mode" option that replaces traditional jump scares with a cat dressed in a chicken costume, making it accessible to younger players[^ref-1]. User reviews consistently praised it as a parody that exceeded its source material, with one reviewer declaring it "Cheaper than FNAF, Better than FNAF"[^ref-7].[^ref-20][^ref-21]
 
 > [!info]- Game Info
 > **Developer:** Guys From Andromeda LLC[^ref-1]
@@ -262,5 +262,4 @@ The macOS version is not compatible with macOS 10.15 Catalina or later versions[
 [^ref-19]: [Guys From Andromeda Forums – Bug Reports](https://forum.guysfromandromeda.com/forum/40-cluck-yegger-in-escape-from-the-planet-of-the-poultroid/) – Linux issues, VO button, camera problems
 [^ref-20]: [IMDB – Game Entry](https://www.imdb.com/title/tt5248286/) – release date, voice cast confirmation
 [^ref-21]: [MobyGames – Search Results](https://www.mobygames.com/search/?q=Cluck+Yegger+in+Escape+from+the+Planet+of+the+Poultroid) – platform release dates
-[^ref-22]: [Foxlo Weebly – Game Description](https://foxlo.weebly.com/cluck-yegger-in-escape-from-the-planet-of-the-poultroid-download-free.html) – Wikipedia classification, genre description
 [^ref-23]: [MobyGames – SpaceVenture Credits](https://www.mobygames.com/game/192353/spaceventure/credits/windows/) – Mike Schiff as Cluck Yegger, connection to SpaceVenture

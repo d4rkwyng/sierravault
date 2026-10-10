@@ -1,14 +1,14 @@
 ---
 title: "3D Engines"
 type: technology
-last_updated: "2026-07-13"
+last_updated: "2026-10-09"
 description: "The custom 3D engines used by Sierra-published games — Dynamix's 3Space, Papyrus's NASCAR Racing engine, Relic's Homeworld engine, Valve's GoldSrc partnership, and the Unreal Engine 3 era of the 2015 reboot."
 tags: [technology, 3d-engines, dynamix, papyrus, relic, valve, unreal]
 ---
 
 # 3D Engines
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -84,7 +84,7 @@ Papyrus built a custom racing-simulation engine for *IndyCar Racing* (1993) and 
 
 ### Technical legacy
 
-*Grand Prix Legends* (1998) is generally regarded as the most demanding racing simulation of its era — its tire-physics model alone required entire degrees of player understanding. The engine's physics modeling was so respected that ex-Papyrus engineers — led by [[Dave Kaemmer]] — used it as the conceptual basis for **iRacing** (2008), which continues to dominate sim racing.[^ref-6]
+*Grand Prix Legends* (1998) is generally regarded as the most demanding racing simulation of its era — its tire-physics model alone required entire degrees of player understanding. Papyrus's simulation lineage continued after the studio closed: [[Dave Kaemmer]] began developing **iRacing** in 2004 on the acquired *NASCAR Racing 2003 Season* code, and it launched to the public in 2008.[^ref-6]
 
 ---
 
@@ -212,7 +212,7 @@ For pure-2D adventure engines (AGI, SCI), see [[Engine History|Engine History]] 
 [^ref-3]: [VOGONS — Dynamix engine evolution](https://www.vogons.org) — Community-documented engine generations
 [^ref-4]: [Wikipedia — Starsiege: Tribes](https://en.wikipedia.org/wiki/Starsiege:_Tribes) — Jet-pack-shooter influence
 [^ref-5]: [Wikipedia — Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — Engine philosophy
-[^ref-6]: [iRacing — Origins](https://www.iracing.com/about/) — Kaemmer's post-Papyrus continuation
+[^ref-6]: [Wikipedia — iRacing](https://en.wikipedia.org/wiki/IRacing) — Kaemmer's post-Papyrus continuation; built on NR2003 code, launched August 26, 2008
 [^ref-7]: [Wikipedia — Homeworld](https://en.wikipedia.org/wiki/Homeworld) — Engine and 3D-space innovations
 [^ref-8]: [Wikipedia — Homeworld 3](https://en.wikipedia.org/wiki/Homeworld_3) — Unreal Engine 4 transition
 [^ref-9]: [Wikipedia — GoldSrc](https://en.wikipedia.org/wiki/GoldSrc) — Engine specifications and Quake heritage
@@ -221,4 +221,3 @@ For pure-2D adventure engines (AGI, SCI), see [[Engine History|Engine History]] 
 [^ref-12]: [Wikipedia — Unreal Engine 3](https://en.wikipedia.org/wiki/Unreal_Engine_3) — Engine specifications
 [^ref-13]: [Homeworld Source Code Project](https://github.com/HomeworldSDL/HomeworldSDL) — Community reverse-engineering
 [^ref-14]: [GDC Vault — Homeworld postmortem](https://www.gdcvault.com/play/1014616/Classic-Game-Postmortem-HOMEWORLD) — Alex Garden's engine talk
-[^ref-15]: [Polygon — GoldSrc legacy](https://www.polygon.com/half-life-engine-legacy) — Influence on FPS engines

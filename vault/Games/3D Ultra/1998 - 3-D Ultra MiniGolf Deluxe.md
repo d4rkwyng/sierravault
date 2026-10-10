@@ -151,7 +151,7 @@ The game maintains a cult following among retro gaming enthusiasts, with preserv
 [^ref-9]: [Gamicus Wiki - 3D Ultra Minigolf Adventures](https://gamicus.fandom.com/wiki/3D_Ultra_Minigolf_Adventures) – - Development history and controversy information
 [^ref-10]: [MobyGames – 3-D Ultra MiniGolf Deluxe](https://www.mobygames.com/game/38197/3-d-ultra-minigolf-deluxe/) – Release year, developer, and publisher information
 [^ref-11]: [MobyGames – 3-D Ultra MiniGolf Deluxe Reviews](https://www.mobygames.com/game/38197/3-d-ultra-minigolf-deluxe/reviews/) – Aggregated review scores and critical assessments
-[^ref-12]: [Max Laumeister - 3D Ultra Minigolf Deluxe](https://www.maxlaumeister.com/3d-ultra-minigolf-deluxe/) – - Personal tribute page with setup recommendations
+[^ref-12]: [Max Laumeister - 3D Ultra Minigolf Deluxe](https://lupine.dev/3d-ultra-minigolf-deluxe/) – - Personal tribute page with setup recommendations
 [^ref-13]: [Metacritic - 3D Ultra Mini Golf Deluxe](https://www.metacritic.com/game/3d-ultra-mini-golf-deluxe/) – - Official game summary and basic information
 [^ref-14]: [Metacritic Details - 3D Ultra Mini Golf Deluxe](https://www.metacritic.com/game/3d-ultra-mini-golf-deluxe/details/) – - Game listing with basic metadata
 [^ref-15]: [Metacritic - 3D Ultra Minigolf Adventures](https://www.metacritic.com/game/3d-ultra-minigolf-adventures/) – - Professional reviews and ratings aggregation

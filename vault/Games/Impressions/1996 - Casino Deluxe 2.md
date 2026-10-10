@@ -99,7 +99,7 @@ The game has been described as "a good game for gambling enthusiasts" that provi
 
 ### Origins
 
-Casino Deluxe 2 was developed by [[Impressions Games]], a studio founded by David Lester in 1989.[^ref-7][^ref-10][^ref-16] The original Casino De Luxe was conceived by Lester himself, establishing the gameplay template that the sequel would expand upon[^ref-7]. The game built upon Impressions' experience with strategy and simulation titles, applying their design expertise to the gambling genre[^ref-2].
+Casino Deluxe 2 was developed by [[Impressions Games]], a studio founded by David Lester in 1989.[^ref-7][^ref-16] The original Casino De Luxe was conceived by Lester himself, establishing the gameplay template that the sequel would expand upon[^ref-7][^ref-10]. The game built upon Impressions' experience with strategy and simulation titles, applying their design expertise to the gambling genre[^ref-2].
 
 The development came during a transitional period for Impressions Games, as the studio was sold to Sierra On-Line shortly after the release of the original Casino De Luxe[^ref-7]. This acquisition meant that domestic re-releases and international distribution of both games would be published under the Sierra brand[^ref-7].
 
@@ -229,7 +229,7 @@ In the broader context of Sierra's catalog, Casino Deluxe 2 exemplifies the comp
 [^ref-7]: [Wikipedia – Casino De Luxe](https://en.wikipedia.org/wiki/Casino_Deluxe) – David Lester designer, Impressions development, Sierra acquisition, review scores from multiple publications
 [^ref-8]: [Internet Archive – Casino Deluxe 2 (Sierra 1996)](https://archive.org/details/Casino_deluxe_2_Sierra_1996) – file size 158.4M, preservation metadata, CD-ROM Preservation Project upload
 [^ref-9]: [Old-Games.com – Casino Deluxe 2](https://www.old-games.com/download/10115/casino-deluxe-2) – user review, 256 colors, elevator muzak, Gambling Academy description, floor layout
-[^ref-10]: [GamesNostalgia – David Lester Profile](https://gamesnostalgia.com/story/156/legendary-game-designers-david-lester) – designer biography, Impressions Games founding, Casino series development
+[^ref-10]: [GamesNostalgia – Legendary Game Designers: David Lester (archived)](https://web.archive.org/web/20250915175257/https://gamesnostalgia.com/story/156/legendary-game-designers-david-lester) – designer biography; Lester "would also have a hand in making Casino De Luxe"
 [^ref-11]: [All Video Classic Games](https://www.allvideoclassicgames.com/products/sierra-casino-deluxe-de-luxe-2-ii-1clk-windows-10-8-7-vista-xp-install) – complete 18-game list, internet play not supported note
 [^ref-12]: [Internet Archive – Casino Deluxe 2](https://archive.org/details/casino-deluxe-2) – 1996 release, game features including Keno and Texas Hold'em, family entertainment description
 [^ref-13]: [Sierra Help Pages – Casino Deluxe Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/CasinoDeluxeUpdates.html) – version 1.01 patch notes, bug fixes, save game incompatibility warning

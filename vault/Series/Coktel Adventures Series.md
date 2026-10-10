@@ -22,7 +22,7 @@ Coktel is unusual among Sierra-lineage studios because:
 
 - **It pre-existed Sierra's acquisition** by five years and brought a fully-formed catalog and design language into the Sierra fold.
 - **Its design idiom is recognizably European** — the *Gobliiins* games' wordless visual puzzle-solving and surrealist art direction are unlike anything in Sierra's American adventure output.
-- **It has continued releasing games**, with [[Pierre Gilhodes]] independently completing *Gobliiins 4* (2009), *Gobliiins 5: The Morgloton Invasion* (2023), and *Gobliins 6* (2026) — making Coktel the only Sierra-lineage studio with releases extending to the late 2020s.[^ref-3]
+- **Its signature series has outlived it**, with [[Pierre Gilhodes]] returning for *Gobliiins 4* (2009, co-designed with Muriel Tramis and developed by Société Pollene), and later the Adventure Game Studio-built *Gobliiins 5: The Morgloton Invasion* (2023) and *GOBLiiNS6* (2026) — new entries reaching into the late 2020s.[^ref-3]
 
 ## Pre-Sierra Coktel Era (1988–1993)
 
@@ -107,7 +107,7 @@ For most of Sierra's history Coktel's productions were marketed in France/Europe
 
 [^ref-1]: [Wikipedia — Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) — Studio history, catalog overview
 [^ref-2]: [MobyGames — Coktel Vision](https://www.mobygames.com/company/2042/coktel-vision/) — Game credits
-[^ref-3]: [Wide Screen Games — Gobliiins 4](https://www.widescreen-games.com/gobliiins4) — Pierre Gilhodes independent revival
+[^ref-3]: [Wikipedia — Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) — Gobliiins 4 (2009), Gobliiins 5 (2023) and GOBLiiNS6 (2026) development and release
 [^ref-4]: [The Digital Antiquarian — Coktel Vision](https://www.filfre.net/?s=Coktel+Vision) — Studio history
 [^ref-5]: [Wikipedia — Adi and Adibou](https://en.wikipedia.org/wiki/Adibou) — Tomahawk edutainment line
 [^ref-6]: [MobyGames — Gobliiins 4](https://www.mobygames.com/game/41875/gobliiins-4/) — 2009 revival
@@ -115,9 +115,7 @@ For most of Sierra's history Coktel's productions were marketed in France/Europe
 [^ref-8]: [Steam — Gobliins 6](https://store.steampowered.com/app/2950900/Gobliins_6/) — 2026 release
 [^ref-9]: [MobyGames — Pierre Gilhodes credits](https://www.mobygames.com/person/12849/pierre-gilhodes/) — Designer career
 [^ref-10]: [MobyGames — Muriel Tramis credits](https://www.mobygames.com/person/8290/muriel-tramis/) — Designer career
-[^ref-11]: [Hardcore Gaming 101 — Gobliiins](http://www.hardcoregaming101.net/gobliiins/) — Series retrospective
 [^ref-12]: Adventure Gamers — Coktel Vision retrospective *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Studio history
 [^ref-13]: [Sierra Chest — Coktel Vision](https://www.sierrachest.com/index.php?a=games&fld=publisher&id=coktel-vision) — Catalog
 [^ref-14]: [Computer Gaming World Museum — Gobliiins review](http://www.cgwmuseum.org/galleries/index.php?year=1991) — Contemporary CGW review
-[^ref-15]: [Polygon — Gobliiins legacy](https://www.polygon.com/the-strange-world-of-gobliiins) — Modern retrospective
 [^ref-16]: [The Digital Antiquarian — Inca](https://www.filfre.net/?s=Inca+Coktel) — FMV-adventure history

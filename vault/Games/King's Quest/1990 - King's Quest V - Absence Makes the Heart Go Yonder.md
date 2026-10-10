@@ -312,7 +312,7 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-32]: [GameFAQs – King's Quest V Trivia](https://gamefaqs.gamespot.com/pc/565071-kings-quest-v-absence-makes-the-heart-go-yonder/trivia) – cut content, unused assets
 [^ref-33]: [Internet Archive – King's Quest V Manual](https://archive.org/details/kings-quest-v-manual) – release information
 [^ref-34]: [GameFAQs – NES Reviews](https://gamefaqs.gamespot.com/nes/587388-kings-quest-v/reviews) – NES version details, unused dialogue
-[^ref-35]: [Great Hierophant – FM Towns](https://blog.greatesthierophant.com/) – FM Towns Japanese/English versions
+[^ref-35]: [ScummVM Wiki – SCI/Japanese Games](https://wiki.scummvm.org/index.php/SCI/Japanese_Games) – King's Quest V (FM-Towns) "features Japanese + English voice acting"
 [^ref-36]: [Internet Archive – USA Version]((download link removed: the game is sold commercially)-usa) – Windows 3.1 release
 [^ref-37]: [Telltale Community Forums](https://community.telltale.com/discussion/23636/kings-quest-collection-steam-version-help-needed) – Steam version issues, patches
 [^ref-38]: [Sierra Help Pages – King's Quest V Help](https://sierrahelp.com/Games/KingsQuest/KQ5Help.html) – audio initialization and out-of-heap errors

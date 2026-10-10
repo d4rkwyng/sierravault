@@ -130,7 +130,7 @@ The booter version plays music at a slower tempo and louder volume compared to t
 ### Technical Achievements
 
 - **Opening cutscene:** The minimal story is told mostly through the manual and an introductory cutscene[^ref-2]
-- **Goal-sensitive events:** The game world dynamically changes as players advance—new characters appear, areas open and close based on story progression[^ref-10][^ref-32]
+- **Goal-sensitive events:** The game world dynamically changes as players advance—new characters appear, areas open and close based on story progression[^ref-10]
 - **Linear story structure:** Introduced the "more linear, story-driven model still widely used in adventure games today"[^ref-10]
 
 ### Music and Audio
@@ -245,7 +245,7 @@ This game has been included in[^ref-1]:
 [^ref-7]: [Eli's Software Encyclopedia – King's Quest II packaging (1987 PC release)](https://elisoftware.org/wiki/King%27s_Quest_II_Romancing_The_Throne_%28PC,_3_1/2%22_Disk%29_Sierra_%28020626752626%29_-_1987_USA,_Canada_Release) — Box text quoting Compute!, Consumer Software News, Computer Entertainment and QuestBusters
 [^ref-8]: [King's Quest Fandom Wiki](https://kingsquest.fandom.com/wiki/King's_Quest_II:_Romancing_the_Throne) — Story summary, easter eggs, and version details
 [^ref-9]: [GameFAQs – King's Quest II](https://gamefaqs.gamespot.com/pc/565066-kings-quest-ii-romancing-the-throne) — Plot summary and gameplay walkthrough
-[^ref-10]: [Adventure Gamers – King's Quest II Review](https://web.archive.org/web/20220509044152/(link removed: it led to a different game's page)) — Modern retrospective rating 3/5 "Decent"
+[^ref-10]: [Adventure Gamers – King's Quest II: Romancing the Throne review by Emily Morganti, October 28, 2005 (archived)](https://web.archive.org/web/20240424193214/https://adventuregamers.com/articles/view/17892) — Modern retrospective rating 3/5 "Decent"
 [^ref-11]: [ScummVM Wiki – AGI](https://wiki.scummvm.org/index.php/AGI) — Technical details on walking speed and version differences
 [^ref-12]: [The King's Quest Companion by Peter Spear](https://archive.org/details/kingsquestcompan00spea) — Official companion book with 185-point breakdown and Derek Karlavaegen narrative
 [^ref-13]: [Gaming After 40 – King's Quest II](https://gamingafter40.blogspot.com/2010/03/adventure-of-week-kings-quest-ii-1985.html) — Detailed retrospective discussing bridge mechanics
@@ -266,7 +266,6 @@ This game has been included in[^ref-1]:
 [^ref-29]: DOS Zone – King's Quest II *(download link removed: the game is sold commercially)* — Browser-playable version
 [^ref-30]: [Sierra Help Pages – King's Quest II](https://sierrahelp.com/Games/KingsQuest/KQ2Help.html) — Technical support and patch information
 [^ref-31]: [PCGamingWiki – King's Quest II](https://www.pcgamingwiki.com/wiki/King%27s_Quest_II:_Romancing_the_Throne) — Modern compatibility fixes and technical information
-[^ref-32]: [Classic Gaming – King's Quest II Analysis](https://classicgaming.gamespy.com/View.php?view=Games.Detail&id=135) — Technical innovations including first opening cutscene
 [^ref-34]: [Sierra Archives – King's Quest Companion Foreword](https://archive.org/details/kingsquestcompan00spea/page/n7/) — Roberta Williams endorsement calling it "invaluable"
 
 [^ref-35]: [TV Tropes – King's Quest II](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestIIRomancingTheThrone) — Easter eggs documentation including Batmobile and Batman theme

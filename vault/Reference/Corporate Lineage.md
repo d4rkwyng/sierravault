@@ -1,14 +1,14 @@
 ---
 title: "Corporate Lineage"
 type: reference
-last_updated: "2026-05-13"
+last_updated: "2026-10-09"
 description: "The acquisition chain that took Sierra On-Line from a 1979 garage startup to a brand inside Activision Blizzard, including dates, dollar amounts, and key executives."
 tags: [reference, sierra-history, acquisitions, corporate]
 ---
 
 # Corporate Lineage
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -34,7 +34,7 @@ By 1982 On-Line was the largest independent computer-game publisher in the Unite
 
 ## Era 2 — Sierra On-Line, independent (1982–1996)
 
-In 1982 On-Line Systems rebranded as **Sierra On-Line, Inc.**, taking the name from the surrounding Sierra Nevada mountain range.[^ref-7] The 1983–1984 video-game crash hit Sierra hard — staff was cut from over 100 to around 35 — but the company recovered when IBM commissioned [[1984 - King's Quest - Quest for the Crown|King's Quest]] (1984) to showcase the IBM PCjr.[^ref-8][^ref-9]
+In 1982 On-Line Systems rebranded as **Sierra On-Line, Inc.**, taking the name from the surrounding Sierra Nevada mountain range.[^ref-7] The 1983–1984 video-game crash hit Sierra hard — staff was cut from about 120 to 40 in a single day in 1984 — but the company recovered when IBM commissioned [[1984 - King's Quest - Quest for the Crown|King's Quest]] (1984) to showcase the IBM PCjr.[^ref-8][^ref-9]
 
 Through the late 1980s and 1990s, Sierra established flagship adventure franchises (King's Quest, Space Quest, Police Quest, Leisure Suit Larry, Quest for Glory, Gabriel Knight, Laura Bow) and built a stable of acquired studios:
 
@@ -45,11 +45,11 @@ Through the late 1980s and 1990s, Sierra established flagship adventure franchis
 - **1995**: Acquired [[Papyrus Design Group]] (NASCAR/IndyCar racing simulators).[^ref-14]
 - **1996**: Acquired [[Synergistic Software]] ([[1991 - Conan - The Cimmerian|Conan]], [[1989 - J.R.R. Tolkien's War in Middle Earth|War in Middle Earth]]).[^ref-15]
 
-Sierra went public on NASDAQ on December 7, 1988, with the ticker SIER.[^ref-16] By 1996, the company was generating roughly USD 150 million in annual revenue and was a logical acquisition target for any rollup looking to enter consumer software.[^ref-17]
+Sierra went public on NASDAQ on December 7, 1988, with the ticker SIER.[^ref-16] By 1996, the company was generating roughly USD 158 million in annual revenue and was a logical acquisition target for any rollup looking to enter consumer software.[^ref-17]
 
 ## Era 3 — CUC International / Cendant (1996–1998)
 
-On July 24, 1996, **CUC International** — a Connecticut-based consumer-services rollup best known for its Comp-U-Card discount-shopping membership business — announced its acquisition of Sierra On-Line for approximately **USD 1.06 billion** in stock.[^ref-18][^ref-19] The deal closed February 21, 1997, and CUC reorganized Sierra and its other game-software acquisitions (Davidson & Associates, Knowledge Adventure, Berkeley Systems, Blizzard Entertainment) into a software publishing arm.[^ref-20]
+On February 20, 1996, **CUC International** — a Connecticut-based consumer-services rollup best known for its Comp-U-Card discount-shopping membership business — announced its acquisition of Sierra On-Line for approximately **USD 1.06 billion** in stock.[^ref-18][^ref-19] The deal closed July 24, 1996, and CUC reorganized Sierra and its other game-software acquisitions (Davidson & Associates, Knowledge Adventure, Berkeley Systems, Blizzard Entertainment) into a software publishing arm.[^ref-20]
 
 Ken Williams left Sierra in 1996, and Roberta Williams continued through 1998 before retiring after [[1998 - King's Quest - Mask of Eternity|Mask of Eternity]].[^ref-21] CUC's tenure was marked by cost-cutting, headquarters consolidation (the Oakhurst office was eventually closed in 1999), and creative-control conflicts that played out across multiple acquired studios.[^ref-22]
 
@@ -75,9 +75,9 @@ On July 9, 2008, **Activision** and **Vivendi Games** (the parent of VUG) merged
 
 Activision quickly mothballed the Sierra Entertainment brand. Most Sierra IPs sat dormant for years. Exceptions:
 
-- **2013** — Activision sold the *Homeworld* trademark and IP to Gearbox Software at the THQ bankruptcy auction for approximately **USD 1.35 million** (after which [[Blackbird Interactive]] continued the franchise).[^ref-33] (Note: *Homeworld* had been held by THQ rather than Activision since the 2004 Relic→THQ acquisition; THQ inherited the publishing rights when VUG offloaded them.)
-- **2014** — Activision quietly revived the Sierra Entertainment brand as a digital-only publishing imprint announced at Gamescom 2014, leading to releases including [[2015 - King's Quest|King's Quest (2015)]] (The Odd Gentlemen), the *Geometry Wars 3* re-release, and *Caveman Warriors*.[^ref-34][^ref-35]
-- **2016–2017** — The digital Sierra imprint wound down quietly; King's Quest (2015) was its last major release.[^ref-36]
+- **2013** — Gearbox Software acquired the *Homeworld* IP at the THQ bankruptcy auction for approximately **USD 1.35 million** (after which [[Blackbird Interactive]] continued the franchise).[^ref-33] (Note: *Homeworld* had been held by THQ rather than Activision; THQ confirmed in 2007 that it had acquired the series rights from Sierra.)
+- **2014** — Activision quietly revived the Sierra Entertainment brand as a digital-only publishing imprint announced at Gamescom 2014, leading to releases including [[2015 - King's Quest|King's Quest (2015)]] (The Odd Gentlemen), *Geometry Wars 3: Dimensions* and *Shiftlings*.[^ref-34][^ref-35][^ref-36]
+- **2016** — In July 2016 MCV reported, citing development sources, that the Sierra label no longer existed with one title still in production; Activision denied the label had closed.[^ref-36]
 
 ## Era 7 — Microsoft Gaming (2023–present)
 
@@ -109,12 +109,12 @@ The current state of major Sierra-lineage IPs (May 2026):
 
 [^ref-1]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — Comprehensive corporate-history overview, all eras
 [^ref-2]: Ken Williams, *Not All Fairy Tales Have Happy Endings* (Coarsegold Press, 2020) — Founding-era memoir, dates and motivation for founding On-Line Systems
-[^ref-3]: [The Digital Antiquarian — On-Line Systems](https://www.filfre.net/2011/12/sierras-launch/) — Jimmy Maher long-form history of the early years
+[^ref-3]: [The Digital Antiquarian — On-Line Systems is Born](https://www.filfre.net/2011/10/on-line-systems-is-born/) — Jimmy Maher long-form history of the early years
 [^ref-4]: [IEEE Spectrum — Roberta Williams](https://spectrum.ieee.org/meet-roberta-williams-the-queen-of-graphic-adventure-video-games) — Founding chronology, Oakhurst move
 [^ref-5]: [Wikipedia — Sierra On-Line](https://en.wikipedia.org/wiki/Sierra_On-Line) — Pre-1982 release history
 [^ref-6]: [MobyGames — On-Line Systems credits](https://www.mobygames.com/company/3/sierra-entertainment-inc/) — Game catalog by year
-[^ref-7]: [The Digital Antiquarian — The Sierra Rebranding](https://www.filfre.net/2012/01/the-sierra-rebranding/) — 1982 name change context
-[^ref-8]: [Hardcore Gaming 101 — Sierra On-Line](http://www.hardcoregaming101.net/sierra-on-line/) — 1983 crash impact, staff reductions
+[^ref-7]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — 1982 rename to Sierra On-Line, name taken from the Sierra Nevada
+[^ref-8]: [The Digital Antiquarian — Splendid Isolation: Sierra at Mid-Decade](https://www.filfre.net/2015/08/splendid-isolation-sierra-at-mid-decade/) — 1984 layoffs, 120 employees cut to 40
 [^ref-9]: [Smithsonian Magazine — Roberta Williams](https://www.smithsonianmag.com/smart-news/1980s-roberta-williams-brought-graphic-adventure-games-home-180962160/) — IBM PCjr commission for King's Quest
 [^ref-10]: [Wikipedia — Dynamix](https://en.wikipedia.org/wiki/Dynamix) — 1990 acquisition details
 [^ref-11]: [Wikipedia — Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) — 1992 acquisition
@@ -123,9 +123,9 @@ The current state of major Sierra-lineage IPs (May 2026):
 [^ref-14]: [Wikipedia — Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — 1995 acquisition timeline
 [^ref-15]: [MobyGames — Synergistic Software](https://www.mobygames.com/company/498/synergistic-software-inc/) — Acquisition history
 [^ref-16]: [SEC EDGAR — Sierra On-Line filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=sierra+on-line) — IPO filings and ticker history
-[^ref-17]: [Game Industry Biz — Sierra 1996 revenue](https://www.gamesindustry.biz/articles/sierra-1996-annual-report) — Pre-acquisition financial baseline
+[^ref-17]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — Revenues of about $158 million at the time of the CUC offer; deal closed July 24, 1996
 [^ref-18]: [NY Times — CUC to Buy Sierra On-Line](https://www.nytimes.com/1996/07/24/business/cuc-international-to-buy-sierra-online.html) — Acquisition announcement
-[^ref-19]: [LA Times — Sierra Acquisition](https://www.latimes.com/archives/la-xpm-1996-07-25-fi-27676-story.html) — Deal value and rationale
+[^ref-19]: [SEC EDGAR — CUC International Form 8-K, February 1996](https://www.sec.gov/Archives/edgar/data/0000723612/000090951896000040/0000909518-96-000040.txt) — CUC press release of February 20, 1996: Sierra deal valued at approximately $1.06 billion
 [^ref-20]: [Wikipedia — CUC International](https://en.wikipedia.org/wiki/CUC_International) — CUC's consumer-software rollup strategy
 [^ref-21]: [Adventure Classic Gaming — Roberta Williams Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/127/) — Departure timeline
 [^ref-22]: [The Digital Antiquarian — Sierra under CUC](https://www.filfre.net/?s=Sierra+CUC) — Creative-control conflicts
@@ -135,13 +135,13 @@ The current state of major Sierra-lineage IPs (May 2026):
 [^ref-26]: [GameSpot — Sierra Oakhurst Closure](https://www.gamespot.com/articles/sierra-closes-oakhurst-studio/1100-2461842/) — 1999 studio closure
 [^ref-27]: [Wikipedia — Vivendi Games](https://en.wikipedia.org/wiki/Vivendi_Games) — VUG history and structure
 [^ref-28]: [MobyGames — Sierra Entertainment label](https://www.mobygames.com/company/3/sierra-entertainment-inc/) — VUG-era publishing imprint
-[^ref-29]: [Polygon — Sierra Entertainment Revival](https://www.polygon.com/2014/8/12/5994791/sierra-entertainment-returns-activision-gamescom) — 2014 imprint announcement
+[^ref-29]: [Activision Blog — Sierra Returns with Geometry Wars 3: Dimensions, King's Quest, and More](https://blog.activision.com/more-games/archives/sierra-returns-with-geometry-wars-3-dimensions-kings-quest-and-more) — 2014 imprint announcement
 [^ref-30]: [GameSpot — Sierra Online Imprint](https://www.gamespot.com/articles/vug-launches-sierra-online/1100-6151844/) — 2006 digital imprint
 [^ref-31]: [Wikipedia — Activision Blizzard](https://en.wikipedia.org/wiki/Activision_Blizzard) — 2008 merger valuation
 [^ref-32]: [Bloomberg — Vivendi-Activision Merger](https://www.bloomberg.com/news/articles/2008-07-09/activision-vivendi-merger) — IP transfer details
-[^ref-33]: [Polygon — Gearbox Buys Homeworld](https://www.polygon.com/2013/4/22/4252814/homeworld-saved-from-thq-by-gearbox-software) — 2013 THQ-auction acquisition
-[^ref-34]: [Gamasutra — Sierra Returns at Gamescom 2014](https://www.gamasutra.com/view/news/223423/Activision_revives_Sierra_brand_at_Gamescom.php) — Activision revival announcement
-[^ref-35]: [IGN — Sierra Lineup Gamescom 2014](https://www.ign.com/articles/2014/08/12/gamescom-2014-sierra-returns) — Initial revival titles
-[^ref-36]: [Eurogamer — Sierra Imprint Quiet Wind-Down](https://www.eurogamer.net/sierra-revival-stalls) — Post-2016 status
-[^ref-37]: [Microsoft Press Release — Activision Blizzard Acquisition Close](https://news.microsoft.com/2023/10/13/microsoft-completes-acquisition-of-activision-blizzard/) — 2023 closing announcement
+[^ref-33]: [Wikipedia — Homeworld (series)](https://en.wikipedia.org/wiki/Homeworld_(series)) — Gearbox acquired the IP for $1.35 million in the THQ bankruptcy sale
+[^ref-34]: [Game Developer (formerly Gamasutra) — Sierra returns as Activision's new indie label](https://www.gamedeveloper.com/business/sierra-returns-as-activision-s-new-indie-label) — Activision revival announcement, August 12, 2014
+[^ref-35]: [Activision Blog — Sierra Returns with Geometry Wars 3: Dimensions, King's Quest, and More](https://blog.activision.com/more-games/archives/sierra-returns-with-geometry-wars-3-dimensions-kings-quest-and-more) — Initial revival titles, introduced at Gamescom 2014
+[^ref-36]: [MCV/DEVELOP — Activision denies Sierra closure](https://www.mcvuk.com/business-news/publishing/activision-denies-sierra-closure/) — July 2016 report on the label's status; lists King's Quest, Geometry Wars 3, Shiftlings
+[^ref-37]: [Xbox Wire — Welcoming the Legendary Teams at Activision Blizzard King to Team Xbox](https://news.xbox.com/en-us/2023/10/13/xbox-activision-blizzard/) — Phil Spencer, October 13, 2023 closing announcement
 [^ref-38]: [Reuters — Microsoft Buys Activision Blizzard](https://www.reuters.com/technology/microsoft-completes-69-bln-activision-deal-2023-10-13/) — Final deal value, regulatory close

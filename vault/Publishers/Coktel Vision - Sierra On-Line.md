@@ -19,9 +19,9 @@ For detailed information about the studio's development history, see [[Coktel Vi
 
 ## Sierra Connection
 
-After Sierra's acquisition in 1993, Coktel Vision continued developing games under both the Coktel and Sierra labels.[^ref-4][^ref-11] The studio produced adventure games, educational software, and action titles for the European and international markets.[^ref-5][^ref-12] Many pre-acquisition Coktel games were republished by Sierra for wider distribution.[^ref-6][^ref-13]
+After Sierra's acquisition in 1993, Coktel Vision continued developing games under both the Coktel and Sierra labels.[^ref-4][^ref-11] The studio produced adventure games, educational software, and action titles for the European and international markets.[^ref-5][^ref-12] Many pre-acquisition Coktel games were republished by Sierra for wider distribution.[^ref-6]
 
-The Gobliiins series, Coktel's signature franchise, became part of Sierra's adventure game catalog alongside King's Quest, Space Quest, and other classic series.[^ref-7][^ref-14]
+The Gobliiins series, Coktel's signature franchise, became part of Sierra's adventure game catalog alongside King's Quest, Space Quest, and other classic series.[^ref-7]
 
 ## Games Published (Sierra Archive)
 
@@ -50,6 +50,4 @@ The Gobliiins series, Coktel's signature franchise, became part of Sierra's adve
 [^ref-10]: [Lemon Amiga - Coktel Vision](https://www.lemonamiga.com/?mainurl=https%3A//www.lemonamiga.com/games/list.php%3Flist_publisher%3DCoktel%2BVision) - Amiga catalog
 [^ref-11]: [Hall of Light - Coktel Vision](http://hol.abime.net/hol_search.php?Fs_pubname=Coktel+Vision) - European releases
 [^ref-12]: World of Spectrum - Coktel Vision *(no archived copy found)* - ZX Spectrum releases
-[^ref-13]: [Atari Mania - Coktel Vision](http://www.atarimania.com/list_games_company_sthp_publisher_Coktel-Vision_id_75.html) - Atari ST catalog
-[^ref-14]: [IGN - Sierra Entertainment](https://www.ign.com/companies/sierra-entertainment) - Sierra history
 [^ref-15]: [IGDB - Coktel Vision](https://www.igdb.com/companies/coktel-vision) - Company profile

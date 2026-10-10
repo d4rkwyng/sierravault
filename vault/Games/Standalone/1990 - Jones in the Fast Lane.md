@@ -23,9 +23,9 @@ tags: [1990s, sci, sierra, simulation, standalone]
 
 Jones in the Fast Lane is a life simulation game developed by Sierra On-Line and released in 1990[^ref-1]. The game represents a unique departure from Sierra's typical adventure game formula, combining elements of board games with life simulation in what designer Bill Davis described as "the game you'll bring out when friends drop by, or when the family just can't take one more evening of Trivial Pursuit"[^ref-2]. Built using Sierra's SCI (Sierra Creative Interpreter) engine[^ref-3], the game roots its gameplay in everyday life "with a satirical twist"[^ref-13].
 
-Somewhere between a conventional board game and a computer adventure game lies Jones in the Fast Lane, a tricky trip through real life[^ref-collection]. COMPUTE! magazine observed that "while essentially a board game played on a computer, Jones is a compelling diversion enhanced by appealing graphics and clever asides"[^ref-collection]. The game is structured as a turn-based strategy simulation where players compete to achieve various life goals including money, happiness, education, and career advancement[^ref-5].
+*COMPUTE!*'s Eddie Huffman placed Jones in the Fast Lane "somewhere between a conventional board game and a computer adventure game," calling it "a tricky trip through real life."[^ref-collection] COMPUTE! magazine observed that "while essentially a board game played on a computer, Jones is a compelling diversion enhanced by appealing graphics and clever asides"[^ref-collection]. The game is structured as a turn-based strategy simulation where players compete to achieve various life goals including money, happiness, education, and career advancement[^ref-5].
 
-The game earned significant recognition, winning Computer Gaming World's "Adventure of the Year" award for 1990[^ref-21] and the Software Publishers Association's "Best Adventure" award for the same year[^ref-22]. As one modern assessment noted: "Not only did it successfully incorporate strategic elements into a life simulation game, but it also managed to do so with an endearing sense of humor that still resonates with players today"[^ref-collection].[^ref-6]
+The game earned significant recognition, winning Computer Gaming World's "Adventure of the Year" award for 1990[^ref-21] and the Software Publishers Association's "Best Adventure" award for the same year[^ref-22]. As one modern assessment noted: "Not only did it successfully incorporate strategic elements into a life simulation game, but it also managed to do so with an endearing sense of humor that still resonates with players today"[^ref-13].[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -42,7 +42,7 @@ The game earned significant recognition, winning Computer Gaming World's "Advent
 
 The game opens with the narrative framing: "My name is Jones, and I'd like you to meet my beautiful family. We may not be rich or famous, but at least we're honest and hardworking"[^ref-10]. Players begin as "a no name lowlife with no education in the 80s" and must work to "get a job, get a haircut, education and make some money"[^ref-11]. The game's premise centers around competing against the computer-controlled Jones character or other human players to achieve success in various aspects of life[^ref-12].
 
-Rather than focusing on fantastical settings, Jones in the Fast Lane "roots its gameplay in the realities of everyday life, albeit with a satirical twist"[^ref-13]. The game is described as "a mix between a digital board game and a modern day life simulation"[^ref-collection], making it unusual among Sierra's catalog of fantasy and science fiction adventures.
+Rather than focusing on fantastical settings, Jones in the Fast Lane "roots its gameplay in the realities of everyday life, albeit with a satirical twist"[^ref-13]. Its everyday setting made it unusual among Sierra's catalog of fantasy and science fiction adventures.
 
 The game includes humorous scenarios and random weekend events, such as the memorable text: "You went to Las Vegas in a $20,000 car and came back in a $200,000 Greyhound bus"[^ref-14]. These random events add unpredictability and humor to the experience, reflecting life's tendency to throw unexpected challenges and opportunities at us.
 
@@ -52,7 +52,7 @@ The game includes humorous scenarios and random weekend events, such as the memo
 
 The game can be controlled using both mouse and keyboard, with players clicking on locations and objects to interact and using on-screen prompts to make decisions that shape their character's life[^ref-13]. The interface resembles a traditional board game, with the board representing the city where players live[^ref-7]. Time serves as the primary resource: each turn represents one week of the character's life, and moving between locations, working, studying and resting all use up the time remaining in that turn[^ref-2].
 
-The graphics are "a mix of cartoonish and digitized characters, very reminiscent of some of the best Sierra point & click adventures"[^ref-collection]. Sierra recruited realistic-looking characters for the game, using rotoscoped animation techniques[^ref-9] that give the game its distinctive visual style.
+Sierra recruited realistic-looking characters for the game, using rotoscoped animation techniques[^ref-9] that give the game its distinctive visual style.
 
 ### Structure and Progression
 
@@ -89,11 +89,7 @@ COMPUTE! magazine praised the game: "While essentially a board game played on a 
 
 ### Modern Assessment
 
-Modern ratings demonstrate enduring appeal: 4.37/5 on MyAbandonware[^ref-23], 8.6/10 on IMDb[^ref-24], 4.0/5 stars from Giant Bomb users[^ref-collection], and 67% on MobyGames[^ref-1]. Steam reviews show a mixed to positive reception from the contemporary gaming community[^ref-25].
-
-Fan reactions remain enthusiastic. One forum user declared: "This is one of the most awesome things I've played. I love Jones in the Fast Lane"[^ref-collection]. Another noted the game's addictive quality: "Very addictive. I just completed it which is a relief because I was thinking it would go on for hours. Great game!"[^ref-collection]
-
-The Google Play release of a mobile version received 3.3/5 stars in 2016[^ref-collection], showing that the concept translates across platforms and generations.
+Modern ratings demonstrate enduring appeal: 4.37/5 on MyAbandonware[^ref-23], 8.6/10 on IMDb[^ref-24], and 67% on MobyGames[^ref-1]. Steam reviews show a mixed to positive reception from the contemporary gaming community[^ref-25].
 
 ## Development
 
@@ -109,7 +105,7 @@ The development team consisted of 37 people[^ref-15], with Warren Schwader servi
 
 The CD-ROM version, released in August 1991, featured full voice acting[^ref-16], making it one of Sierra's early "talkie" releases. Ken Allen composed the musical score, with Tom Lewandowski also contributing to the soundtrack[^ref-29]. The game supported Roland MT-32 sound modules for enhanced audio quality[^ref-30].
 
-The extensive voice cast gave the game considerable personality. Josh Mandel and Sol Ackerman handled dialogue[^ref-collection], while numerous Sierra employees contributed character voices, creating a lively audio experience that complemented the game's satirical tone.
+The extensive voice cast gave the game considerable personality. Josh Mandel, Sol Ackerman and Warren Schwader are credited as writers,[^ref-2] while numerous Sierra employees contributed character voices, creating a lively audio experience that complemented the game's satirical tone.
 
 ### Technical Achievements
 
@@ -118,8 +114,6 @@ The game featured 256-color VGA graphics at 320x200 resolution[^ref-9] and suppo
 Technical specifications included support for various sound cards including Sound Blaster, Ad Lib, and Roland MT-32[^ref-9]. The MT-32 version provided the best audio experience, with rich synthesized music that matched the game's upbeat, satirical tone.
 
 ### Audio Issues and Fixes
-
-The CD-ROM version experienced some technical issues with voice playback. Archive notes indicate: "A version of the game with correctly working speech is now available. The buggy CD Audio version file was renamed. The Audio fix only applies to the buggy CD Audio version"[^ref-collection]. These community-created fixes ensure modern players can experience the full voiced version as intended.
 
 ## Legacy
 
@@ -208,3 +202,4 @@ The game's satirical take on the American Dream resonates differently in differe
 [^ref-32]: [Play Classic Games](https://playclassic.games/games/simulation-dos-games-online/play-jones-fast-lane-online/) – Game design innovation
 [^ref-33]: [DOSBox Wiki](https://www.dosbox.com/wiki/GAMES:Jones_in_the_Fast_Lane) – Modern compatibility
 [^ref-34]: [AGD Interactive Forum](https://www.agdinteractive.com/forum/viewtopic.php?t=11672) – Fan remake information
+[^ref-collection]: [COMPUTE! Issue 130 (June 1991), p. 128 – Jones in the Fast Lane review by Eddie Huffman](https://www.atarimagazines.com/compute/issue130/128_Jones_in_the_Fast_La.php) – Contemporary review

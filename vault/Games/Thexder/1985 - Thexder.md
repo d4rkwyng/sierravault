@@ -142,10 +142,10 @@ The game's influence on the action genre is evident in how it "paved the way for
 [^ref-8]: [Shmuplations](https://shmuplations.com/thexder/) – - Original developer interview
 [^ref-9]: [Strategy Wiki](https://strategywiki.org/wiki/Thexder) – - Platform information
 [^ref-10]: [Games Database](https://www.gamesdatabase.org/game/nintendo-nes/thexder.aspx) – - Story description
-[^ref-11]: [Gyusyabu Archive](http://gyusyabu.ddo.jp/MP3/1985/THEX1.html) – - Original Japanese promotional material
+[^ref-11]: [Gyusyabu Archive (archived)](https://web.archive.org/web/20251212235145/http://gyusyabu.ddo.jp/MP3/1985/THEX1.html) – - Original Japanese promotional material; original URL gyusyabu.ddo.jp/MP3/1985/THEX1.html
 [^ref-12]: [Generation MSX](https://www.generation-msx.nl/software/compile-game-arts/thexder/799/) – - Pronunciation note
 [^ref-13]: [My Abandonware](https://www.myabandonware.com/game/thexder-dk) – - Control description
-[^ref-14]: [Games Nostalgia](https://gamesnostalgia.com/game/thexder) – - Transformation mechanics
+[^ref-14]: [Games Nostalgia](https://gamesnostalgia.net/game/thexder) – - Transformation mechanics
 [^ref-15]: [Internet Archive](https://archive.org/details/msdos_Thexder_1987) – - Weapon system description
 [^ref-16]: [Strategy Wiki](https://strategywiki.org/wiki/Thexder/Gameplay) – - Strategic transformation gameplay
 [^ref-17]: [GameFAQs FAQ](https://gamefaqs.gamespot.com/nes/578267-thexder/faqs/36102) – - Level skipping and ending description

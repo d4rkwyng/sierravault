@@ -10,7 +10,7 @@ series: 3-D Ultra Pinball
 engine: 3D Ultra Pinball Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: '3-D Ultra Pinball: Creep Night is the second installment in Sierra''s
   3-D Ultra Pinball series, developed by Dynamix and published by Sierra On-Line in
   1996....'
@@ -19,7 +19,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra Pinball: Creep Night
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -94,7 +94,7 @@ The game was released simultaneously for Windows and Mac OS platforms in 1996[^r
 
 Creep Night was notable as "the first pinball game to explore 3D graphics" and "the first pinball to use 3D effects"[^ref-6]. The game utilized CD-ROM technology to deliver high-quality audio and graphics[^ref-5][^ref-3], with a file size of 194 MB and installation size of 313 MB[^ref-4]. The technical specifications included an isometric perspective view and support for various detail and skill-level adjustments[^ref-5].
 
-The game's sound design was a particular technical achievement. As one user noted, "The first pinball to use 3D effects has a sound system that helps to evolve you with the game"[^ref-11], with praise for how the audio immersion complemented the visual experience. The rendering system created animated creatures and supernatural elements across the three main tables that would have been physically impossible in a real pinball machine[^ref-12].
+The rendering system created animated creatures and supernatural elements across the three main tables that would have been physically impossible in a real pinball machine[^ref-12].
 
 ## Legacy
 
@@ -150,7 +150,6 @@ The game's cross-platform success led to a Portuguese language version that incl
 [^ref-8]: [Steam Community Discussion](https://steamcommunity.com/app/262470/discussions/0/620700960827777660/) - User discussion comparing Sierra pinball games
 [^ref-9]: [GOG Dreamlist - 3-D Ultra Pinball: Creep Night](https://www.gog.com/dreamlist/game/3-d-ultra-pinball-creep-night-1996) - Community request for digital re-release
 [^ref-10]: [Internet Archive - 3-D Ultra Pinball Creep Night Sierra 1996](https://archive.org/details/3-D_Ultra_Pinball_Creep_Night_Sierra_1996) - Original game preservation with download statistics
-[^ref-11]: [Internet Archive - USA Rerelease](https://archive.org/details/3-d-ultra-pinball-creep-night-usa-rerelease-19971016) - 1997 rerelease version
 [^ref-12]: [3-D Ultra Pinball Wikipedia](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball) - Series overview information
 [^ref-13]: [Game Fabrique - 3-D Ultra Pinball: Creep Night](https://gamefabrique.com/games/3-d-ultra-pinball-creep-night/) - Game database entry
 [^ref-14]: [GamePressure - 3D Ultra Pinball: Creep Night](https://www.gamepressure.com/games/3d-ultra-pinball-creep-night/zf3c54) - Game information database

@@ -141,14 +141,14 @@ The integrated level editor and exceptional puzzle design made it a landmark tit
 
 ### Level Design and Puzzle Progression
 
-The Incredible Machine 2 featured expertly balanced level design that introduced new mechanical concepts gradually while maintaining accessible difficulty curves[^ref-2]. Puzzle solutions ranged from straightforward object placement to intricate chain reactions requiring precise timing and object interactions[^ref-3]. The hint system provided strategic assistance without spoiling the satisfaction of solving complex machines[^ref-4].
+The Incredible Machine 2 featured expertly balanced level design that introduced new mechanical concepts gradually while maintaining accessible difficulty curves[^ref-2]. Puzzle solutions ranged from straightforward object placement to intricate chain reactions requiring precise timing and object interactions[^ref-3].
 
 ## References
 
 [^ref-1]: [Academic Kids Encyclopedia](https://academickids.com/encyclopedia/index.php/The_Incredible_Machine) – - Game concept and physics engine description
 [^ref-2]: [Internet Archive - The Incredible Machine 1992](https://archive.org/details/the_incredible_machine_1992) – - Game description and puzzle objectives
 [^ref-3]: [Classic Reload](https://classicreload.com/the-incredible-machine.html) – - Physics mechanics and gameplay overview
-[^ref-4]: [Games Nostalgia](https://www.gamesnostalgia.com/game/incredible-machine) – - Critical assessment and originality
+[^ref-4]: [Games Nostalgia](https://gamesnostalgia.net/game/incredible-machine) – - Critical assessment and originality
 [^ref-5]: [Wikipedia – The Incredible Machine (1993 video game)](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game)) – - "In 1996, Computer Gaming World named The Incredible Machine the 62nd best game ever" (CGW #148, "150 Best (and 50 Worst) Games of All Time")
 [^ref-6]: [Wikipedia - The Incredible Machine 1993](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game) – ) - Contemporary reviews and critical reception
 [^ref-7]: [MobyGames - The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) – - Developer credits and technical specifications

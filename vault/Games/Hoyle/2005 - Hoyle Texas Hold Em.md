@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: Hoyle Texas Hold 'Em 2005 is a poker simulation game released for Windows
   in February 2005. Developed by Sierra On-Line and published by Encore Software,...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Texas Hold 'Em 2005
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -66,11 +66,9 @@ Hoyle Texas Hold 'Em 2005 received a modest reception from the gaming community.
 
 GameSpot's review of the earlier Hoyle Poker (1997) praised Sierra for "creating a sharp and faithful rendition of poker" with over a dozen variations including Texas Hold 'Em, noting the helpful Help menu that "provides a succinct set of rules for each poker variation."[^ref-7] This foundation carried through to the 2005 release.
 
-GameArchives described the Hoyle Poker Series (2005) as "a comprehensive poker gaming experience" featuring "14 different poker variants, including Texas Hold 'Em and Omaha" along with "in-game tutorials, tournaments, and a colorful, light-hearted atmosphere."[^ref-8]
-
 ### Modern Assessment
 
-MobyGames assigns the game a score of 60%, reflecting an average reception among database users and critics[^ref-2]. The game has maintained a small but dedicated following among poker enthusiasts seeking offline Texas Hold 'Em experiences, as evidenced by its continued presence on game tracking sites like Grouvee and Backloggd.[^ref-13][^ref-15] Metacritic lists one user score of 63 for Texas Hold 'Em within the Hoyle Poker series context.[^ref-9] PCGamingWiki maintains technical compatibility information for the title.[^ref-14]
+MobyGames assigns the game a score of 60%, reflecting an average reception among database users and critics[^ref-2]. The game has maintained a small but dedicated following among poker enthusiasts seeking offline Texas Hold 'Em experiences, as evidenced by its continued presence on game tracking sites like Grouvee and Backloggd.[^ref-13][^ref-15] Metacritic lists one user score of 63 for Texas Hold 'Em within the Hoyle Poker series context.[^ref-9]
 
 **Aggregate Scores:**
 - **MobyGames:** 60%[^ref-2]
@@ -157,7 +155,6 @@ The game's significance lies primarily in its position within the Hoyle franchis
 **Download / Preservation**
 - [Internet Archive – Hoyle Card Games 2005](https://archive.org/details/hoyle-card-games-2005) – Related 2005 Hoyle card game compilation[^ref-10]
 - [My Abandonware – Hoyle Poker](https://www.myabandonware.com/game/hoyle-poker-dk4) – 1997 predecessor preserved[^ref-11]
-- [GameArchives – Hoyle Poker Series](https://gamearchives.net/hoyle-poker-series/) – Game information and archive[^ref-8]
 
 ## See Also
 
@@ -228,7 +225,6 @@ The game's significance lies primarily in its position within the Hoyle franchis
 
 [^ref-7]: [GameSpot – Hoyle Poker Review](https://www.gamespot.com/reviews/hoyle-poker-review/1900-2537745/) – Contemporary review of 1997 Hoyle Poker foundation
 
-[^ref-8]: [GameArchives – Hoyle Poker Series](https://gamearchives.net/hoyle-poker-series/) – Game features, poker variants, multiplayer modes
 
 [^ref-9]: [Metacritic – Hoyle Poker](https://www.metacritic.com/game/hoyle-poker/) – User scores for Texas Hold 'Em
 
@@ -240,6 +236,5 @@ The game's significance lies primarily in its position within the Hoyle franchis
 
 [^ref-13]: [Grouvee – Hoyle Texas Hold 'Em](https://www.grouvee.com/games/205131-hoyle-texas-hold-em/) – Game database entry
 
-[^ref-14]: [PCGamingWiki – Hoyle Texas Hold 'Em](https://www.pcgamingwiki.com/wiki/Hoyle_Texas_Hold%27Em) – Technical specifications, compatibility info
 
 [^ref-15]: [Backloggd – Hoyle Texas Hold 'Em](https://www.backloggd.com/games/hoyle-texas-holdem/) – Game tracking database entry

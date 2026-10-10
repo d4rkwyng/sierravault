@@ -1,14 +1,14 @@
 ---
 title: "Awards"
 type: reference
-last_updated: "2026-07-13"
+last_updated: "2026-10-09"
 description: "Major industry awards won by Sierra On-Line games and the studio's creators — DICE, GDC, BAFTA, CGW, AIAS Hall of Fame, World Video Game Hall of Fame, and lifetime-achievement honors across four decades."
 tags: [reference, awards, recognition, hall-of-fame]
 ---
 
 # Awards
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -20,12 +20,12 @@ This is not a comprehensive list of every nomination or honorable mention — it
 
 ## World Video Game Hall of Fame (The Strong Museum of Play)
 
-The Strong's World Video Game Hall of Fame inducts games of "icon status, longevity, geographical reach, and influence."[^ref-strong-criteria]
+The Strong's World Video Game Hall of Fame judges eligible games on four criteria: icon status, longevity, geographical reach, and influence.[^ref-strong-criteria]
 
 | Year | Inductee | Notes |
 |------|----------|-------|
-| 2020 | [[1984 - King's Quest - Quest for the Crown\|King's Quest]] | Inducted in the seventh class. Cited as foundational adventure game. |
-| 2024 | [[1998 - Half-Life\|Half-Life]] | Sierra-published Valve title. Inducted alongside other 1998-era industry-changers. |
+| 2020 | [[1984 - King's Quest - Quest for the Crown\|King's Quest]] | Inducted in the 2020 class.[^ref-strong-criteria] Cited as foundational adventure game. |
+| 2018, 2019 | [[1998 - Half-Life\|Half-Life]] | Sierra-published Valve title. Named a finalist in 2018 and 2019 but not inducted.[^ref-strong-half-life] |
 
 The Strong also maintains extensive Sierra-era oral-history archives and original-disk preservation collections.[^ref-strong]
 
@@ -132,8 +132,8 @@ CGW issued a "150 Best Games of All Time" list in 1996 with at least 8 Sierra en
 | 2018 | [[Roberta Williams]] | Game Industry Hall of Fame (informal industry consensus) | Multiple outlets |
 | 2019 | [[Ken Williams]] | Game Industry Pioneer recognition | Various |
 | 2020 | [[Roberta Williams]] | World Video Game Hall of Fame (via *King's Quest* induction) | |
-| 2021 | [[Jane Jensen]] | Adventure Game Hall of Fame (Adventure Game Hotspot) | |
-| 2023 | [[Al Lowe]] | Adventure Game Hall of Fame (Adventure Game Hotspot) | |
+| 2024 | [[Jane Jensen]] | Adventure Game Hall of Fame (Adventure Game Hotspot) | Inaugural class of 2024[^ref-jensen-aghos] |
+| 2024 | [[Al Lowe]] | Adventure Game Hall of Fame (Adventure Game Hotspot) | Final nominee for the inaugural class[^ref-lowe-aghos] |
 
 ---
 
@@ -159,19 +159,17 @@ Several primary documents are useful for verifying specific award claims:
 ## References
 
 [^ref-strong]: [The Strong Museum of Play](https://www.museumofplay.org) — Hall of Fame inductions
-[^ref-strong-criteria]: [Strong Museum — World Video Game Hall of Fame criteria](https://www.museumofplay.org/games/world-video-game-hall-of-fame/) — Induction standards
+[^ref-strong-criteria]: [Wikipedia — World Video Game Hall of Fame](https://en.wikipedia.org/wiki/World_Video_Game_Hall_of_Fame) — Four eligibility criteria; inductee and finalist lists by year
 [^ref-aias]: [Academy of Interactive Arts & Sciences DICE Awards](https://www.interactive.org) — Year-by-year nominee/winner lists
 [^ref-bafta]: [BAFTA Games Awards](https://www.bafta.org/games/awards) — UK industry awards
 [^ref-gdc]: [GDC Choice Awards](https://www.gdconf.com/awards) — Developer-voted awards
 [^ref-tga]: [The Game Awards](https://thegameawards.com) — Industry Icon Award archive
 [^ref-cgwmuseum]: [Computer Gaming World Museum](https://www.cgwmuseum.org) — Scanned issues including Game of the Year coverage
 [^ref-cgw-best]: [CGW 150/200 Best Games lists](http://www.cgwmuseum.org) — Retrospective rankings (Issues 100 and 213)
-[^ref-pcgamer]: [PC Gamer — Best games of all time](https://www.pcgamer.com/best-games-of-all-time) — Modern retrospective coverage
-[^ref-ign]: [IGN — Best adventure games](https://www.ign.com/articles/best-adventure-games) — Modern retrospective
-[^ref-aghotspot]: [Adventure Game Hotspot Awards](https://adventuregamehotspot.com/awards) — Genre-specialist recognition
+[^ref-aghotspot]: [Adventure Game Hotspot Awards (archived 2023)](https://web.archive.org/web/20231129115110/https://adventuregamehotspot.com/awards/) — Genre-specialist recognition; original URL adventuregamehotspot.com/awards
 [^ref-wiki-kq-strong]: [Wikipedia — King's Quest Hall of Fame induction](https://en.wikipedia.org/wiki/King%27s_Quest) — 2020 Strong induction documentation
 [^ref-wiki-rwilliams-tga]: [Wikipedia — Roberta Williams Industry Icon Award](https://en.wikipedia.org/wiki/Roberta_Williams) — 2014 The Game Awards presentation
 [^ref-kotaku-rw]: [Kotaku — Roberta Williams Lifetime Achievement coverage](https://kotaku.com/sierra-roberta-williams-kings-quest-interview-feature-1849192779) — Industry-icon context
-[^ref-strong-half-life]: [The Strong — Half-Life 2024 induction](https://www.museumofplay.org/news/world-video-game-hall-of-fame-2024-inductees/) — Half-Life induction announcement
-[^ref-jensen-aghos]: [Adventure Game Hotspot — Jane Jensen tribute](https://adventuregamehotspot.com/feature/jensen-tribute) — Hall of Fame coverage
-[^ref-lowe-aghos]: [Adventure Game Hotspot — Al Lowe Hall of Fame](https://adventuregamehotspot.com/feature/al-lowe-hall-of-fame) — Hall of Fame coverage
+[^ref-strong-half-life]: [Wikipedia — World Video Game Hall of Fame](https://en.wikipedia.org/wiki/World_Video_Game_Hall_of_Fame) — Half-Life listed as a 2018 and 2019 finalist; not among inductees
+[^ref-jensen-aghos]: [Adventure Game Hotspot — Adventure Game Hall of Fame induction: Inaugural class of 2024](https://adventuregamehotspot.com/feature/2227/adventure-game-hall-of-fame-induction-inaugural-class-of-2024) — Jane Jensen among the first inductees
+[^ref-lowe-aghos]: [Adventure Game Hotspot — Al Lowe Tech Talk interview](https://adventuregamehotspot.com/interview/754/al-lowe-has-a-tech-talk-with-daniel-albu-in-a-leisurely-in-depth-video-interview) — Describes Lowe as "a first-ballot final nominee for the upcoming Adventure Game Hall of Fame inauguration"

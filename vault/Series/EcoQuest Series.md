@@ -7,12 +7,12 @@ first_release: 1991
 last_release: 1993
 total_games: 2
 genre: "Adventure, Educational"
-last_updated: "2026-07-13"
+last_updated: "2026-10-09"
 ---
 
 # EcoQuest Series
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ EcoQuest is notable as one of the earliest games to integrate environmental-educ
 
 ## EcoQuest: The Search for Cetus (1991)
 
-Designed by Jane Jensen and Gano Haine — Jensen's first Sierra credit. Adam, the young protagonist, is recruited by a talking dolphin (Delphineus) to find Cetus, the lost king of the whales. The game takes Adam through a polluted ocean to talk to sea creatures, solve marine puzzles, and confront the human-caused causes of ecological destruction (oil spills, plastic pollution, illegal whaling).[^ref-4]
+Designed by Jane Jensen and Gano Haine — one of Jensen's first two Sierra projects, alongside *Police Quest III*.[^ref-12] Adam, the young protagonist, helps a rescued dolphin (Delphineus) that begins to talk, and the pair search for Cetus, the sperm-whale king of the undersea kingdom of Eluria. The game takes Adam through a polluted ocean to talk to sea creatures, solve marine puzzles, and confront human-caused damage such as litter, abandoned fishing gear and oil spills.[^ref-4]
 
 **Design innovations:**
 - **Educational facts woven into gameplay** — interacting with marine animals revealed real biology and conservation facts.
@@ -41,14 +41,14 @@ Designed by Jane Jensen and Gano Haine — Jensen's first Sierra credit. Adam, t
 
 ## EcoQuest 2: Lost Secret of the Rainforest (1993)
 
-Gano Haine's solo design (Jensen was already on *King's Quest VI*). Adam travels to South America to visit his father, an environmental researcher, and gets pulled into a quest to save the rainforest from logging operations. The game expands the original's animal-translator concept to include monkeys, jaguars, parrots, and indigenous fairy-tale animal-spirits.[^ref-7]
+Gano Haine's solo design; Jane Jensen was not involved, having moved on to the *Gabriel Knight* series. Adam, now able to speak with animals as a matter of course, explores the South American rainforest in search of a cure for a disease afflicting the local Indigenous peoples and a way to save the rainforest from destruction. A new "Ecorder" device lets him learn about what he finds along the way.[^ref-7]
 
 **Design evolution:**
 - **Indigenous/folkloric framing** — drawing on real Amazonian folktales and conservation politics.
 - **Plant and ecosystem puzzles** — beyond animals, the player learned about specific plants' medicinal and ecological roles.
 - **Stronger antagonist focus** — illegal loggers and corporate land-grabbers as villains.
 
-**Reception:** Strong reviews; some critics felt the educational content was even better integrated than the first. Sold less than the original — likely a market fatigue issue rather than quality.[^ref-8]
+**Reception:** Lisa Young of *Compute!* warned that younger players might find some of the problems frustrating, but that solving a difficult problem was rewarding.[^ref-8]
 
 ## Series Design Identity
 
@@ -82,17 +82,17 @@ Jane Jensen's involvement in *EcoQuest 1* is sometimes overlooked in retrospecti
 ## References
 
 [^ref-1]: [Wikipedia — EcoQuest: The Search for Cetus](https://en.wikipedia.org/wiki/EcoQuest:_The_Search_for_Cetus) — Founding entry
-[^ref-2]: [Wikipedia — EcoQuest 2: Lost Secret of the Rainforest](https://en.wikipedia.org/wiki/EcoQuest_II:_Lost_Secret_of_the_Rainforest) — Sequel
+[^ref-2]: [Wikipedia — Lost Secret of the Rainforest](https://en.wikipedia.org/wiki/Lost_Secret_of_the_Rainforest) — Sequel
 [^ref-3]: [MobyGames — Jane Jensen credits](https://www.mobygames.com/person/jane-jensen/) — Designer career
-[^ref-4]: [Adventure Classic Gaming — EcoQuest review](http://www.adventureclassicgaming.com/index.php/site/reviews/ecoquest_the_search_for_cetus/) — Design analysis
+[^ref-4]: [Wikipedia — EcoQuest: The Search for Cetus](https://en.wikipedia.org/wiki/EcoQuest:_The_Search_for_Cetus) — Designers, plot, environmental themes
 [^ref-5]: [Sierra Help — EcoQuest scoring](https://wiki.sierrahelp.com/index.php/EcoQuest) — Pacifist-scoring mechanic
 [^ref-6]: [Computer Gaming World Museum — EcoQuest review](http://www.cgwmuseum.org) — Contemporary review
-[^ref-7]: [Adventure Classic Gaming — EcoQuest 2 review](http://www.adventureclassicgaming.com/index.php/site/reviews/ecoquest_lost_secret_of_the_rainforest/) — Sequel analysis
-[^ref-8]: [Hardcore Gaming 101 — EcoQuest](http://www.hardcoregaming101.net/ecoquest/) — Series retrospective
+[^ref-7]: [Wikipedia — Lost Secret of the Rainforest](https://en.wikipedia.org/wiki/Lost_Secret_of_the_Rainforest) — Designer, premise, Ecorder
+[^ref-8]: [Wikipedia — Lost Secret of the Rainforest: Reception](https://en.wikipedia.org/wiki/Lost_Secret_of_the_Rainforest#Reception) — Quotes Lisa Young's *Compute!* review (issue 158)
 [^ref-9]: [Serious Games Society — Environmental gaming bibliography](https://seriousgamessociety.org) — Academic citations of EcoQuest
 [^ref-10]: [GOG.com — EcoQuest Collection](https://www.gog.com/en/game/ecoquest) — Current commercial availability
 [^ref-11]: [Sierra Chest — EcoQuest](https://www.sierrachest.com/index.php?a=games&fld=series&id=ecoquest) — Sierra Chest catalog
-[^ref-12]: [Jane Jensen interview — Adventure Game Hotspot](https://adventuregamehotspot.com/feature/jensen-interview) — Designer recollections
+[^ref-12]: [Adventure Game Hotspot — An interview with Jane Jensen](https://adventuregamehotspot.com/interview/381/an-interview-with-jane-jensen-legendary-designer-of-the-gabriel-knight-trilogy-a) — "Police Quest III and EcoQuest were my first projects at Sierra"
 [^ref-13]: [MobyGames — Gano Haine credits](https://www.mobygames.com/person/gano-haine/) — Co-designer career
-[^ref-14]: [PCGamingWiki — EcoQuest](https://www.pcgamingwiki.com/wiki/EcoQuest) — Technical reference
+[^ref-14]: [PCGamingWiki — EcoQuest: The Search for Cetus](https://www.pcgamingwiki.com/wiki/EcoQuest:_The_Search_for_Cetus) — Technical reference
 [^ref-15]: [ScummVM Wiki — EcoQuest](https://wiki.scummvm.org/index.php?title=EcoQuest) — Modern preservation

@@ -123,7 +123,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 
 **Preservation**
 - Game soundtrack archived at [KHInsider](https://downloads.khinsider.com/game-soundtracks/album/leisure-suit-larry-wet-dreams-don-t-dry-soundtrack-2018)[^ref-29]
-- Technical documentation available at [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don't_Dry)[^ref-26]
+- Technical documentation available at [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don%27t_Dry)[^ref-26]
 
 ## See Also
 
@@ -142,7 +142,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 
 ## References
 
-[^ref-1]: [Wikipedia - Leisure Suit Larry: Wet Dreams Don't Dry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don't_Dry) – - Release year and series information
+[^ref-1]: [Wikipedia - Leisure Suit Larry: Wet Dreams Don't Dry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don%27t_Dry) – - Release year and series information
 [^ref-2]: [MobyGames Database Entry](https://www.mobygames.com/game/116522/leisure-suit-larry-wet-dreams-dont-dry/) – - Developer and publisher information
 [^ref-3]: [TV Tropes Game Page](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeisureSuitLarryWetDreamsDontDry) – - Time travel concept and setting
 [^ref-4]: [God is a Geek Review](https://godisageek.com/reviews/leisure-suit-larry-wet-dreams-dry-review/) – - Fish-out-of-water concept analysis
@@ -167,7 +167,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-23]: [Metacritic PC Reviews](https://www.metacritic.com/game/leisure-suit-larry-wet-dreams-dont-dry/critic-reviews/?platform=pc) – - Professional review scores compilation
 [^ref-24]: [Jump Dash Roll Review](https://www.jumpdashroll.com/article/leisure-suit-larry-wet-dreams-dont-dry-review) – - Development rights acquisition
 [^ref-25]: [PC Gamer Al Lowe Quote](https://www.pcgamer.com/leisure-suit-larry-wet-dreams-wont-dry-appears-briefly-on-steam/) – - Creator's response to title
-[^ref-26]: [PCGamingWiki Technical Info](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don't_Dry) – - Unity engine version
+[^ref-26]: [PCGamingWiki Technical Info](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don%27t_Dry) – - Unity engine version
 [^ref-27]: [Gematsu Console Announcement](https://www.gematsu.com/2020/11/leisure-suit-larry-wet-dreams-dry-twice-coming-to-ps4-xbox-one-and-switch-in-spring-2021) – - Location count confirmation
 [^ref-28]: [MusicBrainz Database](https://musicbrainz.org/release/5ccc54cc-ac57-420e-8bdd-7f8daeecd8c3) – - Composer credits
 [^ref-29]: [KHInsider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/leisure-suit-larry-wet-dreams-don-t-dry-soundtrack-2018) – - Soundtrack availability

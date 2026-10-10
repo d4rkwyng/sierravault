@@ -10,14 +10,14 @@ series: PGA Championship Golf
 engine: TrueSwing 3
 protagonist: Player-created golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: PGA Championship Golf 2000 represents the pinnacle of Sierra's golf simulation
   franchise, developed by Headgate Studios and published by Sierra Sports in...
 tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf 2000
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -150,7 +150,6 @@ The Course Architect tool provided an expanded art library for terrain and objec
 
 **CD-ROM Version:**[^ref-5][^ref-13]
 - **Resolution:** SVGA 800x600 minimum (1024x768 recommended), 32K colors
-- **Media:** 2 CD-ROMs (596.7 MB total)[^ref-25]
 - **Input:** Mouse (required for TrueSwing)
 - **Multiplayer:** Internet (WON.net), LAN, Modem
 
@@ -247,7 +246,7 @@ While the graphics have not aged gracefully—contemporary reviewers already not
 ## Downloads
 
 **Download / Preservation**
-- [Internet Archive – PGA Championship Golf 2000](https://archive.org/details/pc-pga-championship-golf-2000)[^ref-25]
+- [Internet Archive – Sierra PGA Championship Golf 99 (Win95)](https://archive.org/details/Sierra_PGA_Championship_Golf_99_Win95_1999_Eng)[^ref-25]
 - [MyAbandonware – PGA Championship Golf 2000](https://www.myabandonware.com/game/pga-championship-golf-2000-a5h)[^ref-18]
 
 **Technical Support**
@@ -287,7 +286,7 @@ While the graphics have not aged gracefully—contemporary reviewers already not
 [^ref-22]: [Filfre.net – Early Golf Game Development](https://www.filfre.net/?s=PGA+Championship+Golf) – Michael Boone quote on IBM golf game origins
 [^ref-23]: [Web Archive – CDMag Beta Testers Wanted](https://web.archive.org/web/20030525180012/http://www.cdmag.com/articles/027/103/pga2000.html) – beta testing requirements
 [^ref-24]: [Web Archive – CDMag Beta Test Update](https://web.archive.org/web/20030525184833/http://www.cdmag.com/articles/027/103/pga2000_beta.html) – beta selection process
-[^ref-25]: [Internet Archive – PGA Championship Golf 2000](https://archive.org/details/pc-pga-championship-golf-2000) – preservation, file size, media
+[^ref-25]: [Internet Archive – Sierra PGA Championship Golf 99 (Win95)](https://archive.org/details/Sierra_PGA_Championship_Golf_99_Win95_1999_Eng) – preservation copy
 [^ref-26]: [Web Archive – Eurogamer Review](https://web.archive.org/web/20020811203230/http://eurogamer.net/content/pga2k) – UK system requirements
 [^ref-27]: [Web Archive – Gone Gold European Releases](https://web.archive.org/web/20001121052100/http://gonegold.com/golden/eurogold.shtml) – UK/Ireland release date
 [^ref-28]: [Sierra Help – PGA Championship Golf Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PGAChampionshipGolfUpdates.html) – patch versions, update history

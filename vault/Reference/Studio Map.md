@@ -111,7 +111,6 @@ Used together with [[Corporate Lineage|Corporate Lineage]] and the per-studio De
 [^ref-1]: [Wikipedia — List of Sierra Entertainment subsidiaries](https://en.wikipedia.org/wiki/Sierra_Entertainment) — Comprehensive list of acquisitions
 [^ref-2]: [MobyGames — Sierra-related companies](https://www.mobygames.com/company/3/sierra-entertainment-inc/) — Cross-reference for studio-game relationships
 [^ref-3]: [The Digital Antiquarian](https://www.filfre.net) — Long-form business-history coverage of all major acquisitions
-[^ref-4]: [Hardcore Gaming 101 — Sierra On-Line](http://www.hardcoregaming101.net/sierra-on-line/) — Studio-by-studio retrospective coverage
 [^ref-5]: [Sierra Chest — Studios](https://www.sierrachest.com/index.php?a=people&fld=group) — Fan archive
 [^ref-6]: [LinkedIn — Sierra alumni network](https://www.linkedin.com/groups/86108/) — Crowd-sourced career-history validation
 [^ref-7]: [GameDevelopers.com / Gamasutra archives](https://www.gamedeveloper.com) — Industry-news coverage of studio events

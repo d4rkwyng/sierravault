@@ -159,7 +159,7 @@ Performance was the most widely criticized technical aspect, with the game runni
 
 The game contained a hidden "Dinner Menu" easter egg featuring elaborate gourmet dish descriptions created by the development team[^ref-7]. This playful addition reflected the sense of humor common in Sierra and Dynamix productions of the era.
 
-Additional trivia:[^ref-16][^ref-16]
+Additional trivia:
 - Take a Break! Pinball was the second and final entry in the Take a Break! series[^ref-5]
 - The first game in the series was Take a Break! Crossword[^ref-5]
 - The game was designed for quick play sessions during work breaks[^ref-2]
@@ -232,5 +232,4 @@ The performance issues that plagued the game highlighted the challenges develope
 [^ref-13]: [IGDB](https://www.igdb.com/games/take-a-break-pinball) – Internet Game Database entry
 [^ref-14]: [GameFAQs](https://gamefaqs.gamespot.com/pc/565310-take-a-break-pinball) – game database entry
 [^ref-15]: [Wikidata](https://www.wikidata.org/wiki/Q4390287) – structured metadata
-[^ref-16]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Take_a_Break!_Pinball) – technical compatibility info
 [^ref-19]: [GOG Dreamlist](https://www.gog.com/dreamlist) – community requests for Sierra games

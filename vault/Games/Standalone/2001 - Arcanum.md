@@ -10,7 +10,7 @@ series: Arcanum
 engine: Custom 2D Engine
 protagonist: The Living One
 sierra_lineage: Sierra Published
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 composer: [Ben Houge]
 description: 'Arcanum: Of Steamworks & Magick Obscura is a notable role-playing
   game that merges Tolkienian high fantasy with Victorian-era steampunk, creating
@@ -19,11 +19,11 @@ tags: [2000s, arcanum, rpg, sierra]
 ---
 # Arcanum: Of Steamworks & Magick Obscura
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-Arcanum: Of Steamworks & Magick Obscura is a notable role-playing game that merges Tolkienian high fantasy with Victorian-era steampunk, creating a unique world where "magic and technology hold equal sway, and an adventurer might just as easily wield a flintlock pistol as a flaming sword."[^ref-1][^ref-45] Released in August 2001, it was the debut title from Troika Games, a studio founded by former Interplay Entertainment developers Tim Cain, Leonard Boyarsky, and Jason D. Anderson—the core creative team behind the original Fallout games.[^ref-2] The game "directly continues the role-playing tradition of Fallout games, creating a similar RPG experience in its own original world."[^ref-3]
+Arcanum: Of Steamworks & Magick Obscura is a notable role-playing game that merges Tolkienian high fantasy with Victorian-era steampunk, creating a unique world where "magic and technology hold equal sway, and an adventurer might just as easily wield a flintlock pistol as a flaming sword."[^ref-1] Released in August 2001, it was the debut title from Troika Games, a studio founded by former Interplay Entertainment developers Tim Cain, Leonard Boyarsky, and Jason D. Anderson—the core creative team behind the original Fallout games.[^ref-2] The game "directly continues the role-playing tradition of Fallout games, creating a similar RPG experience in its own original world."[^ref-3]
 
 The game is set in a fantasy realm that has undergone an industrial revolution, pitting "technological devices such as steam engines and pistols against ancient ways of magic."[^ref-4] This magic/technology dichotomy forms the central mechanical and thematic tension of the game, as "technology and magic do not mix in our game because they are polar opposites with respect to natural physical law."[^ref-5] Players can create characters ranging from "Half-Orc Air Elementalists to Human Pirates and Dwarven Shotgun-wielding Necromancers,"[^ref-1] with unprecedented freedom allowing them to kill any NPC—including major quest characters—and still complete the game.[^ref-7]
 
@@ -300,7 +300,7 @@ Arcanum represents one of the most ambitious attempts to create a truly open-end
 
 The game's troubled technical state became emblematic of Troika's legacy—"Troika's games were full of great ideas, but they all debuted in a technical state that left a lot to be desired."[^ref-25] This pattern would repeat with Temple of Elemental Evil (2003) and Vampire: The Masquerade - Bloodlines (2004), all games that achieved cult status despite significant launch problems.
 
-The magic/technology dichotomy—where "This magic/technology dichotomy divides Arcanum as forcefully as religion split England under Charles I"[^ref-44]—created meaningful mechanical tension but also balance issues. Critics noted that "the game is so unbalanced that the purported 'Use magic or technology' system may as well be 'use magic or die.'"[^ref-44] Despite this, the concept influenced later games exploring similar themes.
+The magic/technology dichotomy created real mechanical tension: the game derives each character's aptitude toward magic or technology from their skills, and that aptitude modifies the effectiveness of every spell and every technological skill the character uses.[^ref-44]
 
 As one fan summarized: "At the end of the day Arcanum is one of those ever so rare games. The ones that are flawed, but for every flaw there is also something that overrides it. And makes you forgot all the flaws."[^ref-3] Twenty years later, the game continues to attract new players and inspire deep affection from its dedicated community.
 
@@ -354,7 +354,7 @@ As one fan summarized: "At the end of the day Arcanum is one of those ever so ra
 [^ref-1]: [Amazon – Arcanum: Of Steamworks & Magick Obscura](https://www.amazon.com/Arcanum-Steamworks-Magick-Obscura-PC/dp/B00004TTHT) – product description, customer reviews, publication date
 [^ref-2]: [Wikipedia – Arcanum: Of Steamworks & Magick Obscura](https://en.wikipedia.org/wiki/Arcanum%3A_Of_Steamworks_%26_Magick_Obscura) – release dates, developers, publishers, review scores, awards, sales data, trivia
 [^ref-3]: [MobyGames – User Review by Unicorn Lynx](https://www.mobygames.com/game/4498/arcanum-of-steamworks-magick-obscura/user-review/2309272/) – gameplay analysis, Fallout comparison
-[^ref-4]: [Ben Houge – Arcanum Soundtrack](https://benhouge.com/arcanum.html) – composer notes, recording details, Seattle Times quote
+[^ref-4]: [Ben Houge – Arcanum Soundtrack (archived)](https://web.archive.org/web/20260629043635/https://benhouge.com/arcanum.html) – composer notes, recording details, Seattle Times quote; original URL benhouge.com/arcanum.html
 [^ref-5]: [Internet Archive – Tim Cain Interview (2000)](https://web.archive.org/web/20081029042628/http://next.videogame.it/interview-to-tim-cain/475/) – design philosophy, technical features, release plans
 [^ref-7]: [Reddit – Chad Moore Interview](https://www.reddit.com/r/arcanum/comments/ou31ve/was_researching_the_writer_credited_for_arcanum/) – team size, design philosophy, Edward Mortimer details
 [^ref-8]: [TV Tropes – Arcanum YMMV](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/ArcanumOfSteamworksAndMagickObscura) – bugs, trivia, cultural references
@@ -390,4 +390,4 @@ As one fan summarized: "At the end of the day Arcanum is one of those ever so ra
 [^ref-41]: [Terra-Arcanum – Manual Index](https://terra-arcanum.com/council/articles/manualindex) – game mechanics reference
 [^ref-42]: [Arcanum Fandom Wiki – Modding and Patches](https://arcanum.fandom.com/wiki/Modding_and_Patches) – Multiverse edition description
 [^ref-43]: [Amazon – Arcanum Strategy Guide](https://www.amazon.com/Arcanum-Steamworks-Obscura-Official-Strategy/dp/0761528008) – guide details, customer reviews
-[^ref-44]: [Amazon – Arcanum Customer Reviews](https://www.amazon.com/Arcanum-Steamworks-Magick-Obscura-PC/dp/B00005LBYF) – magic/technology dichotomy quotes, balance criticism
+[^ref-44]: [Arcanum FAQ: Magic and Technology (Sierra FAQ, Ver. 1.0, March 2000, mirrored by Arcanum Club)](https://arcanumclub.org/sierra/game/faq_page01.html) – how magical/technological aptitude is derived and applied

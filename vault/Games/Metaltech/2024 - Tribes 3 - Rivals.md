@@ -120,7 +120,7 @@ The game's failure to gain traction mirrors broader challenges facing niche mult
 
 ### Community Preservation
 
-While development is paused, player communities continue to maintain the game through the official Discord server and community hub on Steam.[^ref-11] The relatively small but dedicated playerbase persists in playing matches despite the lack of new content or balance updates.[^ref-10] Tribes enthusiasts recognize Tribes 3: Rivals as the closest modern representation of the classic Dynamix vision, even if commercial success eluded the project.[^ref-18]
+While development is paused, players continue to gather around the game's Steam community hub.[^ref-11] The relatively small but dedicated playerbase persists in playing matches despite the lack of new content or balance updates.[^ref-10]
 
 The official website continues to provide gameplay tutorials and FAQ documentation for players interested in learning the game's mechanics.[^ref-6]
 
@@ -164,13 +164,12 @@ The official website continues to provide gameplay tutorials and FAQ documentati
 [^ref-8]: [Metacritic – Tribes 3: Rivals](https://www.metacritic.com/game/tribes-3-rivals/) – aggregate review status, critic/user reception (replaces unstable IGN database URL; Metacritic page remains live)
 [^ref-9]: [PCGamingWiki – Tribes 3: Rivals](https://www.pcgamingwiki.com/wiki/Tribes_3:_Rivals) – technical info
 [^ref-10]: [Reddit r/Tribes](https://www.reddit.com/r/Tribes/) – community discussion
-[^ref-11]: [Prophecy Games Discord](https://discord.gg/tribes) – official community
+[^ref-11]: [Steam Community – TRIBES 3: Rivals](https://steamcommunity.com/app/2687970) – community hub
 [^ref-12]: [YouTube Gameplay](https://www.youtube.com/results?search_query=tribes+3+rivals+gameplay) – gameplay videos
 [^ref-14]: [Tribes Wiki](https://wiki.tribesdepot.com/wiki/Tribes_Wiki) – series information
 [^ref-15]: [SteamBase Charts](https://steambase.io/games/tribes-3-rivals/steam-charts) – additional statistics
 [^ref-16]: [Prophecy Games Official](https://www.prophecygames.com/) – developer info
-[^ref-17]: [Rock Paper Shotgun – Tribes 3: Rivals Early Access coverage](https://www.rockpapershotgun.com/tribes-3-rivals) – Early Access launch and preview coverage (replaces unstable IGN preview URL; RPS coverage remains live)
-[^ref-18]: [Gamerant – Tribes History](https://gamerant.com/tribes-franchise-history/) – series background
+[^ref-17]: [Rock Paper Shotgun – Tribes 3: Rivals Early Access coverage](https://www.rockpapershotgun.com/tribes-3-rivals-is-out-in-early-access-now-for-another-shot-at-making-tribes-popular) – Early Access launch coverage
 [^ref-19]: [Metacritic User Reviews](https://www.metacritic.com/game/tribes-3-rivals/user-reviews/) – community reception
 [^ref-20]: [IGDB – Tribes 3: Rivals](https://www.igdb.com/games/tribes-3-rivals) — Internet Games Database entry, Steam platform listing, March 2024 Early Access release date
 [^ref-21]: [SteamDB – Tribes 3: Rivals](https://steamdb.info/app/2375240/) — Steam database statistics, concurrent player charts, version history

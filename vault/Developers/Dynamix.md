@@ -50,7 +50,7 @@ The Incredible Machine revolutionized puzzle gaming by introducing physics-based
 
 ### Starsiege: Tribes (1998)
 
-Starsiege: Tribes represented Dynamix's entry into online multiplayer gaming and became a defining title in the team-based shooter genre.[^ref-6] The game featured innovative mechanics including jetpacks, large outdoor environments, and team-based objectives that were revolutionary for their time.[^ref-7] Tribes and its sequel Tribes 2 (2001) built a dedicated community and influenced numerous subsequent online shooters, with many considering the series ahead of its time in terms of gameplay innovation and technical achievement.[^ref-9]
+Starsiege: Tribes represented Dynamix's entry into online multiplayer gaming and became a defining title in the team-based shooter genre.[^ref-6] The game featured innovative mechanics including jetpacks, large outdoor environments, and team-based objectives that were revolutionary for their time.[^ref-22] Tribes and its sequel Tribes 2 (2001) built a dedicated community and influenced numerous subsequent online shooters, with many considering the series ahead of its time in terms of gameplay innovation and technical achievement.[^ref-9]
 
 ## Key People
 
@@ -112,7 +112,7 @@ The studio's commitment to technical excellence and willingness to experiment wi
 [^ref-4]: [YouTube Documentary](https://www.youtube.com/watch?v=Ze42_S0EzQU) — Video history of Dynamix
 [^ref-5]: [Games Industry](https://www.gamesindustry.biz/search?q=Dynamix) — Industry news and analysis
 [^ref-6]: [Giant Bomb](https://www.giantbomb.com/dynamix-inc/3010-237/) — Company database entry
-[^ref-7]: [Sierra Classic Gaming](https://sierraclassicgaming.com/developer/dynamix/) — Developer retrospective
+[^ref-7]: [Sierra Classic Gaming (archived)](https://web.archive.org/web/20260217235830/https://sierraclassicgaming.com/developer/dynamix/) — "Founded by Jeff Tunnell and Damon Slye in 1984. Purchased by Sierra in 1990."
 [^ref-8]: [GameSpot](https://www.gamespot.com/articles/sierra-closes-dynamix/1100-2804068/) — Closure announcement and details
 [^ref-9]: [Game Developer](https://www.gamedeveloper.com/game-platforms/interview-slye-and-the-dynamix-of-game-development) — Developer interview with Damon Slye
 [^ref-10]: [eBay Listing](https://www.ebay.com/p/1000790831) — Vintage game information
@@ -127,3 +127,4 @@ The studio's commitment to technical excellence and willingness to experiment wi
 [^ref-19]: [IGDB](https://www.igdb.com/companies/dynamix) — Game industry database entry
 [^ref-20]: [Amazon](https://www.amazon.com/Sierra-line-Dynamix-Stellar-Ms-dos/dp/B00K7Q9W60) — Product information and historical context
 [^ref-21]: [The Digital Antiquarian - The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) — Jimmy Maher on TIM's physics engine and influence on later physics games
+[^ref-22]: [Wikipedia — Starsiege: Tribes](https://en.wikipedia.org/wiki/Starsiege:_Tribes) — Jetpack movement and team-based play

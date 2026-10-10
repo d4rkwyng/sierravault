@@ -1,18 +1,18 @@
 ---
 title: "Shivers Series"
 type: series_overview
-created_by: "Marcia Bales / Kim Tempest / Roberta Williams (consulting)"
+created_by: "Marcia Bales / Willie Eide / Roberta Williams (consulting)"
 developer: "Sierra On-Line"
 first_release: 1995
 last_release: 1997
 total_games: 2
 genre: "Puzzle, Horror"
-last_updated: "2026-07-13"
+last_updated: "2026-10-09"
 ---
 
 # Shivers Series
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -25,11 +25,11 @@ The series is notable for being Sierra's "puzzle-horror" alternative to the comp
 | Year | Title | Designer | Engine | Setting |
 |------|-------|----------|--------|---------|
 | 1995 | [[1995 - Shivers\|Shivers]] | Marcia Bales | SCI2.1 | Professor Windlenot's Museum of the Strange and Unusual |
-| 1997 | [[1997 - Shivers Two - Harvest of Souls\|Shivers Two: Harvest of Souls]] | Kim Tempest | SCI32 | Cyclone, Arizona (fictional town) |
+| 1997 | [[1997 - Shivers Two - Harvest of Souls\|Shivers Two: Harvest of Souls]] | Marcia Bales, Willie Eide | SCI32 | Cyclone, Arizona (fictional town) |
 
 ## Shivers (1995)
 
-Marcia Bales's design. The player is a teenager dared to spend the night in Professor Windlenot's abandoned Museum of the Strange and Unusual, which contains real supernatural artifacts. The museum's resident "ixupi" spirits — embodiments of natural elements (Water, Fire, Wax, Sand, Lightning, etc.) — must each be captured in matching pottery vessels to break the curse on the building.[^ref-4]
+Designed by Marcia Bales and Willie Eide. The player is a teenager dared by friends to spend the night at Professor Windlenot's Museum of the Strange and Unusual, said to be haunted. The museum's "Ixupi" spirits — each tied to a material or natural force such as sand, cloth, wax or electricity — must each be captured with its matching vessel and lid to free the trapped ghosts of Windlenot and two students.[^ref-4]
 
 **Design innovations:**
 - **Pure first-person exploration** — no on-screen character.
@@ -41,14 +41,14 @@ Marcia Bales's design. The player is a teenager dared to spend the night in Prof
 
 ## Shivers Two: Harvest of Souls (1997)
 
-Kim Tempest's design. The player is a documentary filmmaker investigating the disappearance of the punk-rock band Trip Cyclone in the fictional town of Cyclone, Arizona. The town turns out to be cursed by an Aztec demigod, and the player must collect the band's music videos (yes — actual music videos by the real band Trip Cyclone, recorded specifically for the game) while solving puzzles to free the trapped souls.[^ref-6]
+Designed by Marcia Bales and Willie Eide. The player checks into a motel in Cyclone, Arizona, invited by friends in the rock band Trip Cyclone, who are in town filming a music video. The friends have been turned into petroglyphs by a kachina-masked villain called Darkcloud, and the player must find twelve bahos (prayer sticks) hidden around the abandoned town and return them to a kiva to free them. A series of rock music videos gives clues to the puzzles.[^ref-2][^ref-6]
 
 **Design innovations:**
-- **Integrated music videos** — full-motion-video band performances embedded as collectibles. Sierra produced multiple original songs for the game.
-- **Aztec mythology framework** — distinct cultural setting from the first game's "museum of oddities" approach.
+- **Integrated music videos** — rock music videos double as puzzle clues.[^ref-2]
+- **Southwestern setting** — kachina masks, bahos and a kiva, a distinct cultural setting from the first game's "museum of oddities" approach.[^ref-2]
 - **Open exploration** — the player navigates a small open-world town rather than a single confined location.
 
-**Reception:** Lower critical reception than the original. The music-video integration was novel but felt tonally jarring alongside the supernatural-horror plot. Sold less than the first entry.[^ref-7]
+**Reception:** Mixed: GameSpot scored it 8.7/10 and AllGame 4/5, while *Next Generation* gave it 2/5.[^ref-7]
 
 ## Series Design Identity
 
@@ -56,7 +56,7 @@ What unifies the two games:
 
 1. **First-person exploration** with no on-screen protagonist.
 2. **Puzzle-horror genre positioning** — atmospheric dread over jump scares; *Myst* audience rather than *Phantasmagoria* audience.
-3. **Aztec/indigenous mythology themes** — both games drew on Mesoamerican supernatural lore.
+3. **Indigenous-American themes** — the first game's Ixupi were trapped by a fictional South American people; the sequel draws on Southwestern kachina and kiva imagery.[^ref-4][^ref-2]
 4. **Atmospheric ambient music** by Guy Whitmore.
 5. **Confined-location exploration** — single museum / single town.
 
@@ -76,17 +76,15 @@ No Shivers revival has been announced. The IP sits with Activision Blizzard / Mi
 ## References
 
 [^ref-1]: [Wikipedia — Shivers (video game)](https://en.wikipedia.org/wiki/Shivers_(video_game)) — Original game overview
-[^ref-2]: [Wikipedia — Shivers Two: Harvest of Souls](https://en.wikipedia.org/wiki/Shivers_Two:_Harvest_of_Souls) — Sequel overview
+[^ref-2]: [Wikipedia — Shivers II: Harvest of Souls](https://en.wikipedia.org/wiki/Shivers_II:_Harvest_of_Souls) — Sequel overview, designers, plot
 [^ref-3]: [MobyGames — Shivers credits](https://www.mobygames.com/game/389/shivers/) — Designer credits
-[^ref-4]: [Adventure Classic Gaming — Shivers review](http://www.adventureclassicgaming.com/index.php/site/reviews/shivers/) — Plot and design analysis
+[^ref-4]: [Wikipedia — Shivers (video game)](https://en.wikipedia.org/wiki/Shivers_(video_game)) — Designers, plot, Ixupi
 [^ref-5]: [GOG.com — Shivers Collection](https://www.gog.com/en/game/shivers_collection) — Current commercial availability
 [^ref-6]: [MobyGames — Shivers Two](https://www.mobygames.com/game/390/shivers-two-harvest-of-souls/) — Sequel credits and design
-[^ref-7]: [Adventure Classic Gaming — Shivers Two review](http://www.adventureclassicgaming.com/index.php/site/reviews/shivers_two/) — Critical analysis
+[^ref-7]: [Wikipedia — Shivers II: Harvest of Souls](https://en.wikipedia.org/wiki/Shivers_II:_Harvest_of_Souls) — Review scores (GameSpot, AllGame, Next Generation)
 [^ref-8]: [ScummVM Wiki — Shivers](https://wiki.scummvm.org/index.php?title=Shivers) — Modern preservation status
-[^ref-9]: [Hardcore Gaming 101 — Shivers](http://www.hardcoregaming101.net/shivers/) — Series retrospective
 [^ref-10]: [Sierra Chest — Shivers](https://www.sierrachest.com/index.php?a=games&id=shivers) — Sierra Chest catalog
 [^ref-11]: [Computer Gaming World Museum — Shivers reviews](http://www.cgwmuseum.org) — Contemporary CGW review
 [^ref-12]: [The Digital Antiquarian — mid-90s puzzle adventure](https://www.filfre.net) — Era context
-[^ref-13]: [Trip Cyclone — Wikipedia](https://en.wikipedia.org/wiki/Trip_Cyclone) — Music collaboration for Shivers Two
 [^ref-14]: [VOGONS — Shivers compatibility](https://www.vogons.org) — Modern setup
 [^ref-15]: [PCGamingWiki — Shivers](https://www.pcgamingwiki.com/wiki/Shivers) — Technical reference

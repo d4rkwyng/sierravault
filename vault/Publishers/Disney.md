@@ -41,10 +41,10 @@ While Disney published these titles under their brand, they were developed by [[
 [^ref-6]: [The Digital Antiquarian - Sierra's Early Years](https://www.filfre.net/) - Licensed character games
 [^ref-7]: [Sierra Gamers - Disney Games](https://www.sierragamers.com/) - Fan documentation
 [^ref-8]: [GameFAQs - Mickey's Space Adventure](https://gamefaqs.gamespot.com/pc/564691-mickeys-space-adventure) - Game info
-[^ref-9]: [Wikipedia - Mickey Mouse in video games](https://en.wikipedia.org/wiki/Mickey_Mouse_in_video_games) - Character game history
+[^ref-9]: [Wikipedia - Mickey's Space Adventure](https://en.wikipedia.org/wiki/Mickey%27s_Space_Adventure) - 1984 Disney-licensed game developed and published by Sierra On-Line
 [^ref-10]: [Hardcore Gaming 101 - Mickey Mouse Games](http://www.hardcoregaming101.net/) - Retrospective
 [^ref-11]: [IGDB - The Walt Disney Company](https://www.igdb.com/companies/the-walt-disney-company) - Publisher profile
 [^ref-12]: [Giant Bomb - Disney Interactive](https://www.giantbomb.com/disney-interactive/3010-198/) - Company overview
 [^ref-13]: [IMDb - Disney Interactive](https://www.imdb.com/company/co0051886/) - Corporate info
 [^ref-14]: [D23 - Disney Video Game History](https://d23.com/) - Official Disney archives
-[^ref-15]: [Internet Archive - Mickey's Space Adventure](https://archive.org/details/mickeys-space-adventure) - Preservation
+[^ref-15]: [Internet Archive - Mickey Mouse Space Adventure (C64)](https://archive.org/details/d64_Mickey_Mouse_Space_Adventure_1988_Sierra) - Preservation; credits Sierra On-Line and Walt Disney Computer Software

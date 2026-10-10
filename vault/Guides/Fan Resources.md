@@ -45,7 +45,7 @@ Want to dig deeper than these Markdown notes? These sites preserve interviews, d
 - [AGDI](https://www.agdinteractive.com/) & [Infamous Adventures](https://infamousadventures.itch.io/) - Fan hubs hosting remakes, voice packs, and developer diaries. (Note: infamous-adventures.com now redirects to their Itch.io page.)
 
 ## Interviews & Podcasts
-- [Space Quest Historian Podcast](https://spacequesthistorian.com/podcast/) - Bi-weekly interviews with Scott Murphy, Mark Crowe, Josh Mandel, and fan designers. ([Apple Podcasts](https://podcasts.apple.com/us/podcast/space-quest-historian-podcast-by-troels-pleimert-tech/id739423439))
+- [Space Quest Historian Podcast](https://spacequesthistorian.com/podcast/) - Bi-weekly interviews with Scott Murphy, Mark Crowe, Josh Mandel, and fan designers. ([Apple Podcasts listing, archived 2025](https://web.archive.org/web/20250815224458/https://podcasts.apple.com/us/podcast/space-quest-historian-podcast-by-troels-pleimert-tech/id739423439))
 - [Adventure Game Hotspot](https://adventuregamehotspot.com/) - Modern coverage of Sierra-related Kickstarters and retrospectives. ([Podcast](https://podcasts.apple.com/us/podcast/our-favorite-sierra-adventure-game-worlds/id1638963659))
 - [Scene World Podcast](https://sceneworld.org/) - Retro gaming podcast featuring Sierra creator interviews.
 

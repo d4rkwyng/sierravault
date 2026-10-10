@@ -282,7 +282,7 @@ The game also exemplifies the rapid multi-platform development practices of the 
 [^ref-6]: [ColecoVision Box Art Archive](https://colecoboxart.com/coleco_bcquest.htm) – game description, copyright information, box documentation
 [^ref-7]: [CVAddict – ColecoVision Database](https://cvaddict.com/profile.php?gameid=50) – ROM specifications, gameplay description, manual availability
 [^ref-8]: [Lemon64 – Game Details](https://www.lemon64.com/games/details.php?ID=245) – "JUMP SUCKER" in-game text, trivia, magazine reviews
-[^ref-11]: [C64-Wiki – B.C.'s Quest for Tires](https://www.c64-wiki.com/wiki/B.C.'s_Quest_for_Tires) – Rombachs review quote, gameplay description
+[^ref-11]: [C64-Wiki – B.C.'s Quest for Tires](https://www.c64-wiki.com/wiki/B.C.%27s_Quest_for_Tires) – Rombachs review quote, gameplay description
 [^ref-10]: [ZX Spectrum Games Archive](https://zxspectrumgames.com/games/bcs-quest-for-tires/) – plot description, dinosaur encounter
 [^ref-12]: [FRGCB Blog – B.C.'s Quest for Tires Comparison](http://frgcb.blogspot.com/2014/11/bcs-quest-for-tires-sierra-on-line-1983.html) – platform comparison, programmer credits, genre significance, technical issues
 [^ref-16]: [Atarimania – B.C.'s Quest for Tires](https://www.atarimania.com/game-atari-400-800-xl-xe-bc-s-quest-for-tires_565.html) – user ratings, Electronic Fun review, Electronic Games review, cheat codes

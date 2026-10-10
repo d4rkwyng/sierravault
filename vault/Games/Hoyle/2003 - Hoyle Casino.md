@@ -275,7 +275,7 @@ The inclusion of handheld device support demonstrated forward-thinking design th
 [^ref-3]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, sales data, publisher transition, technical issues, franchise background
 [^ref-4]: [Amazon UK – Hoyle Casino Games 2003 Edition](https://www.amazon.co.uk/Hoyle-Casino-Games-2003-Edition/dp/B00008IM7A) – UK release date, customer reviews, game features, character count, handheld support
 [^ref-5]: [LaunchBox Games Database – Hoyle Casino 2003](https://gamesdb.launchbox-app.com/games/details/169578-hoyle-casino-2003) – games list, platforms, ESRB rating, marketing description
-[^ref-6]: [Kickstart News – Hoyle Casino 2003 Review](http://www.kickstartnews.com/reviews/games/hoyle_casino2003.html) – system requirements, MSRP, starting money, games list, educational features
+[^ref-6]: [Kickstart News – Hoyle Casino 2003 Review](https://web.archive.org/web/20250428192559/http://www.kickstartnews.com/reviews/games/hoyle_casino2003.html) – system requirements, MSRP, starting money, games list, educational features
 [^ref-7]: [Best Buy – Hoyle Casino 2003](https://www.bestbuy.com/site/hoyle-casino-2003-mac-windows-handheld/4752583.p?skuId=4752583) – platform availability including handheld
 [^ref-8]: [ESRB – Hoyle Casino Games 2003](https://www.esrb.org/ratings/7947/hoyle-casino-games-2003/) – rating, content descriptors, platform list
 [^ref-9]: [GameSpot – Hoyle Casino Review](https://www.gamespot.com/reviews/hoyle-casino-review/1900-2895821/) – critical review, technical limitations, resolution, online features

@@ -298,7 +298,7 @@ Legend Entertainment's visual achievement with Shannara showed the studio could 
 [^ref-20]: [RPG Codex – Let's Play Shannara](https://rpgcodex.net/forums/threads/lets-play-shannara.34336/) – interface description
 [^ref-21]: [Old-Games.com – Shannara](https://www.old-games.com/download/1578/shannara) – Death Gate comparison, character sources, graphics
 [^ref-22]: [GameSpot Review](https://www.gamespot.com/reviews/shannara-review/1900-2559707/) – official score, puzzle praise, combat criticism, atmosphere
-[^ref-23]: [The Spoiler – Shannara Walkthrough](https://the-spoiler.com/RPG/Legend/shannara.1.html) – walkthrough advice
+[^ref-23]: [The Spoiler – Shannara Walkthrough](https://rpggamers.com/walkthrough/shannara-2) – walkthrough advice
 [^ref-24]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/10256-shannara/faqs/1675) – combat avoidance advice
 [^ref-25]: [Metzomagic – Shannara Review](https://www.metzomagic.com/showArticle.php?index=126) – Gordon Aplin review, bundled book regional differences, combat criticism, restore bug
 [^ref-27]: [MyAbandonware – Shannara](https://www.myabandonware.com/game/shannara-2t8) – release regions, version differences, rating

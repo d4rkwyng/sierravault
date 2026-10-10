@@ -83,7 +83,7 @@ His approach to team dynamics emphasizes that success "all comes down to the peo
 
 ## Legacy
 
-Simon Bradbury's influence on the strategy gaming genre extends far beyond his direct contributions to specific games. His design principles and innovations have inspired countless developers and helped establish many conventions that define modern city-building and castle simulation games.[^ref-26] The success of the Stronghold series has demonstrated the enduring appeal of medieval-themed strategy games and encouraged exploration of historical themes that might otherwise be considered niche.[^ref-27]
+Simon Bradbury's influence on the strategy gaming genre extends far beyond his direct contributions to specific games. His design principles and innovations have inspired countless developers and helped establish many conventions that define modern city-building and castle simulation games.[^ref-26] The success of the Stronghold series has demonstrated the enduring appeal of medieval-themed strategy games and encouraged exploration of historical themes that might otherwise be considered niche.
 
 The longevity of Bradbury's games speaks to the quality of his design work, with titles like Caesar III and the original Stronghold maintaining active player communities and modding scenes decades after release.[^ref-28] His commitment to post-launch support and community engagement has set standards for developer-player relationships in strategy gaming.[^ref-29]
 
@@ -155,7 +155,6 @@ With Firefly Studios now part of Devolver Digital and the Stronghold franchise e
 [^ref-24]: [The Game Reviews Interview](https://www.thegamereviews.com/article-552-inside-the-games-interview-with-simon-bradbury-founder-of-firefly-studios.html) — Founding of Firefly Studios
 [^ref-25]: [IMDB - Simon Bradbury](https://www.imdb.com/name/nm0102914/) — Creative philosophy and game credits
 [^ref-26]: [LinkedIn - Firefly Studios](https://www.linkedin.com/company/firefly-studios-limited) — Company profile and industry impact
-[^ref-27]: [Retro Gamer Coverage](https://www.retrogamer.net/) — Historical perspective on classic strategy games
 [^ref-28]: [Steam Community - Stronghold](https://steamcommunity.com/app/40950) — Active player community and modding scene
 [^ref-29]: Adventure Gamers *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no clean pre-sale archived copy found)* — Industry coverage and developer profiles
 [^ref-30]: [PocketGamer.biz - Simon Bradbury](https://pocketgamer.biz/people/1292/simon-bradbury) — Industry profile and career evolution

@@ -7,12 +7,12 @@ first_release: 1989
 last_release: 2016
 total_games: 55
 genre: "Card Games, Casino, Board Games, Puzzle"
-last_updated: "2026-07-13"
+last_updated: "2026-10-09"
 ---
 
 # Hoyle Series
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -88,7 +88,7 @@ After [[Sierra On-Line|Sierra's]] 1996 acquisition by [[Corporate Lineage|CUC In
 
 ## Critical Reception Arc
 
-Contemporary reviews of the early Schwader-era volumes were strong — Volume 1 was widely praised as the best computer card-game product available.[^ref-7] Through the 1990s and 2000s the series received steady "B"-tier reviews: critics generally praised the rule accuracy and AI personalities while noting that the games rarely innovated year over year.[^ref-12] By the late 2000s, mobile and Flash card-game competition began to erode the desktop Hoyle market, and the franchise transitioned mostly to compilation re-releases.[^ref-13]
+Contemporary reviews of the early Schwader-era volumes were strong — Volume 1 was widely praised as the best computer card-game product available.[^ref-7] Through the 1990s and 2000s the series received steady "B"-tier reviews: critics generally praised the rule accuracy and AI personalities while noting that the games rarely innovated year over year.[^ref-12]
 
 ## Licensed Sub-Franchises
 
@@ -126,7 +126,6 @@ For deeper analysis of the founding era's technical innovations, see the [[Warre
 [^ref-10]: [BrainBaking — A Tribute to Hoyle's Official Book of Games](https://brainbaking.com/post/2025/09/a-tribute-to-hoyles-official-book-of-games/) — Retrospective analysis of the founding era
 [^ref-11]: [MobyGames — Encore Software credits](https://www.mobygames.com/company/encore-software-inc/) — Post-Sierra publishing history
 [^ref-12]: [Adventure Classic Gaming — Hoyle archive](http://www.adventureclassicgaming.com/index.php/site/search/?q=Hoyle) — Reviews across the franchise
-[^ref-13]: [GamesRadar — Decline of desktop card games](https://www.gamesradar.com/the-rise-and-fall-of-desktop-card-games/) — Market context for late-2000s Hoyle decline
 [^ref-14]: [MobyGames — Warren Schwader credits](https://www.mobygames.com/person/9371/warren-schwader/) — Designer career timeline
 [^ref-15]: [Wikipedia — Carcassonne (video game)](https://en.wikipedia.org/wiki/Carcassonne_(video_game)) — Licensed adaptation history
 [^ref-16]: [Wikipedia — Lost Cities](https://en.wikipedia.org/wiki/Lost_Cities) — Reiner Knizia source game

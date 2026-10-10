@@ -10,14 +10,14 @@ series: K.A.A. (Kill All Aliens)
 engine: Proprietary (Windows/DirectX)
 protagonist: Jake / Garathe Den
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-03-27'
+last_updated: '2026-10-09'
 description: Hunter Hunted is a side-scrolling action computer game developed by Dynamix
   under Sierra's K.A.A. (Kill All Aliens) label and published by Sierra On-Line in...
 tags: [1990s, dynamix, k-a-a-kill-all-aliens, sierra]
 ---
 # Hunter Hunted
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -146,7 +146,7 @@ No significant cut content has been documented in available sources.
 |---------|------|----------|-------|
 | 1.0 | October 18, 1996 | Windows | Initial release[^ref-7] |
 | 1.0 | November 8, 1996 | Windows | Wide retail release[^ref-1] |
-| Rerelease | 1996 | Windows | Bundled with "Arcade: 3 Thrilling Games of Action"[^ref-19] |
+| Compilation | 1998 | DOS | German "Best of Sierra No. 06", bundled with *Aces Over Europe*[^ref-19] |
 | Japan Release | 1997 | Windows | Released as "Jake Burst" (ジェイクバースト)[^ref-20] |
 | Germany Release | 1997 | Windows | German localization[^ref-17] |
 
@@ -172,14 +172,14 @@ No voice cast information is documented in available sources. The game appears t
 
 ### Sales and Commercial Impact
 
-While specific sales figures for Hunter Hunted have not been publicly documented, the game saw sufficient success to warrant international releases and bundle editions. The game was included in the "Arcade: 3 Thrilling Games of Action" compilation package[^ref-19], suggesting it performed well enough to merit continued distribution.
+Sales figures for Hunter Hunted have not been publicly documented. The game was later reissued in Germany on the 1998 "Best of Sierra No. 06" budget disc alongside *Aces Over Europe*.[^ref-19]
 
 The game was assigned a Teen rating by the ESRB[^ref-6], positioning it for a broad audience of action game enthusiasts.
 
 ### Collections
 
 Hunter Hunted appeared in the following compilations:
-- **Arcade: 3 Thrilling Games of Action** – Bundled rerelease[^ref-19]
+- **Best of Sierra No. 06** (Germany, 1998) – with *Aces Over Europe*[^ref-19]
 
 The game has also been preserved through various abandonware and archival efforts, with copies available through the Internet Archive and similar preservation sites[^ref-3].
 
@@ -249,6 +249,6 @@ Despite positive reviews and a solid technical foundation, Hunter Hunted never a
 [^ref-16]: [Digital Antiquarian](https://www.filfre.net/?s=Hunter+Hunted) – retrospective assessment
 [^ref-17]: [MyAbandonware – Hunter Hunted](https://www.myabandonware.com/game/hunter-hunted-cnp) – regional releases, K.A.A. line, user rating
 [^ref-18]: [PCGamingWiki – Hunter Hunted](https://www.pcgamingwiki.com/wiki/Hunter_Hunted) – system requirements, technical specifications
-[^ref-19]: [Internet Archive – Hunter Hunted USA Rerelease](https://archive.org/details/hunter-hunted-usa-rerelease) – bundle information
+[^ref-19]: [Internet Archive – Best Of Sierra No.06 (1998) (Hunter Hunted & Aces Over Europe) (Deutsch)](https://archive.org/details/best-of-sierra-volume-06-hunter-hunted-aces-over-europe-1998-de.-7z) – bundle information
 [^ref-20]: [Retrolorean – Hunter Hunted](https://www.retrolorean.com/en/hunter-hunted-451) – Japanese title, regional variations
 [^ref-21]: [Reddit r/ifyoulikeblank – Hunter Hunted soundtrack](https://www.reddit.com/r/ifyoulikeblank/comments/1f4ck2m/iil_the_soundtrack_to_the_1996_video_game_hunter/) – soundtrack composer discussion

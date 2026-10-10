@@ -230,7 +230,7 @@ Modern retrospective analysis tends to view Volume 1 more favorably than its con
 - [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
 
 **Download / Preservation**
-- [Internet Archive – Hoyle Volume 1](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_Vol._1_1989_Sierra) — DOS edition preservation
+- [Internet Archive – Hoyle Volume 1](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_1_1989) — DOS edition preservation
 
 ## See Also
 

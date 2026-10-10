@@ -350,7 +350,7 @@ However, the game's legacy has been complicated by its commercial unavailability
 [^ref-20]: [Abandonware DOS Readme](https://www.abandonwaredos.com/docawd.php?sf=nlf1readme.txt&st=other&sg=The+Operative:+No+One+Lives+Forever&idg=3318) – technical specifications
 [^ref-21]: [PC Gamer Review](https://www.pcgamer.com/no-one-lives-forever-review/) – Daniel Morris review, 84/100
 [^ref-22]: [MobyGames – PS2 Version](https://www.mobygames.com/game/101095/the-operative-no-one-lives-forever/) – PS2 exclusive content
-[^ref-23]: [The Spoiler Walkthrough](https://the-spoiler.com/ACTION/Monolith/no.one.lives.forever.1.html) – randomized items
+[^ref-23]: [The Spoiler Walkthrough](https://coregamers.com/walkthrough/the-operative-no-one-lives-forever) – randomized items
 [^ref-24]: [Blue's News .plan Files](http://www.bluesnews.com/cgi-bin/finger.pl?id=388&time=20010620190651) – patch notes, bug fixes
 [^ref-25]: [Glitchwave Review](https://glitchwave.com/game/the-operative-no-one-lives-forever/) – feminist analysis
 [^ref-26]: [Metacritic – PS2 Version](https://www.metacritic.com/game/the-operative-no-one-lives-forever/critic-reviews/?platform=playstation-2) – PS2 aggregate
