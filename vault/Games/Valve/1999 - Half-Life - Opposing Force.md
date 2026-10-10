@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Corporal Adrian Shephard
 sierra_lineage: Sierra Published
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 composer: [Chris Jensen]
 description: 'Half-Life: Opposing Force is the first official expansion pack for Valve''s
   acclaimed 1998 first-person shooter Half-Life, developed by Gearbox Software and
@@ -19,13 +19,13 @@ tags: [1990s, half-life, shooter, sierra]
 ---
 # Half-Life: Opposing Force
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
 Half-Life: Opposing Force is the first official expansion pack for Valve's acclaimed 1998 first-person shooter Half-Life, developed by Gearbox Software and published by Sierra Studios in November 1999[^ref-1]. The expansion represented a bold creative choice: instead of continuing Gordon Freeman's story, players assumed the role of Corporal Adrian Shephard, a U.S. Marine sent to the Black Mesa Research Facility—one of the enemy soldiers from the original game[^ref-2]. This innovative perspective shift allowed players to experience the catastrophic Black Mesa incident from an entirely new viewpoint while maintaining the intense atmosphere and gameplay that made Half-Life revolutionary[^ref-3].
 
-The expansion was significant not only for its quality but for establishing Gearbox Software as a capable developer. Lead designer Randy Pitchford stated that "our number one goal is to preserve the integrity of Half-Life and provide new experiences that expand upon the sensation of the original"[^ref-1]. Critics hailed Opposing Force as a new benchmark for expansion packs, with GameSpot's Erik Wolpaw declaring it "sets a new standard of quality for future action-game mission packs"[^ref-4]. The game went on to win the Computer Action Game of the Year award from the Academy of Interactive Arts & Sciences in 2000[^ref-1], making history as the first expansion pack to be seriously considered for Game of the Year honors[^ref-2].
+The expansion was significant not only for its quality but for establishing Gearbox Software as a capable developer. In the April 1999 announcement press release, Randy Pitchford stated that "our number one goal is to preserve the integrity of Half-Life and provide new experiences that expand upon the sensation of the original"[^ref-2]. Critics hailed Opposing Force as a new benchmark for expansion packs, with GameSpot's Erik Wolpaw declaring it "sets a new standard of quality for future action-game mission packs"[^ref-4]. The game went on to win the Computer Action Game of the Year award from the Academy of Interactive Arts & Sciences in 2000[^ref-1], and PC Gamer US called it the first expansion pack to be considered for Game of the Year[^ref-2].
 
 The title carries a deliberate double meaning: it references both the player's role as the enemy from the original game and Newton's third law of motion—for every action, there is an equal and opposite reaction[^ref-2]. This thematic depth extended throughout the game's design, which introduced new weapons, enemies, squad-based mechanics, and an entirely new alien faction known as Race X[^ref-5].
 
@@ -42,13 +42,13 @@ The title carries a deliberate double meaning: it references both the player's r
 
 ## Story Summary
 
-The game begins aboard a V-22 Osprey military aircraft as Corporal Adrian Shephard and his fellow Hazardous Environment Combat Unit (HECU) marines fly toward the Black Mesa Research Facility on a classified mission[^ref-6]. Their objective: eliminate the facility's personnel and contain the alien threat that has emerged following a catastrophic resonance cascade experiment. However, before they can land, their aircraft is attacked and shot down by alien forces, leaving Shephard as one of the few survivors[^ref-7].
+The game begins aboard a V-22 Osprey military aircraft as Corporal Adrian Shephard and his fellow Hazardous Environment Combat Unit (HECU) marines fly toward the Black Mesa Research Facility on a classified mission[^ref-6]. Their objective: eliminate the facility's personnel and contain the alien threat that has emerged following a catastrophic resonance cascade experiment. However, before they can land, their aircraft is attacked by an alien ship and crashes into the Black Mesa buildings[^ref-6].
 
-Shephard regains consciousness in a medical facility within Black Mesa, where he discovers that many of his fellow soldiers were not as fortunate[^ref-8]. Unlike Gordon Freeman, who fights to survive and escape, Shephard finds himself caught between multiple hostile forces: the original Xen aliens, a mysterious new alien faction called Race X, and eventually even Black Operations assassins sent to eliminate all witnesses—including the remaining marines[^ref-5]. Throughout his journey, Shephard encounters the enigmatic G-Man, who observes his progress with cryptic interest[^ref-9].
+Shephard regains consciousness in a lab within Black Mesa, where he discovers that many of his fellow soldiers were not as fortunate[^ref-8]. Unlike Gordon Freeman, who fights to survive and escape, Shephard finds himself caught between multiple hostile forces: the original Xen aliens, a mysterious new alien faction called Race X, and eventually even Black Operations assassins sent to eliminate all witnesses—including the remaining marines[^ref-5]. Throughout his journey, Shephard encounters the enigmatic G-Man, who observes his progress with cryptic interest[^ref-9].
 
 The expansion's narrative runs parallel to the events of Half-Life, with players occasionally glimpsing Gordon Freeman during key moments. The game features "quite a big closure about the Black Mesa Research Facility that most people will be surprised about," as Randy Pitchford noted[^ref-10]. The story culminates in Shephard's confrontation with the Gene Worm, a massive Race X creature attempting to establish a permanent portal to Earth. After defeating this threat, Shephard is confronted by the G-Man, who acknowledges his survival skills but chooses to detain him rather than eliminate him, sealing him in stasis with the ominous message: "Subject: Shephard. Status: Detained. Further Evaluation Pending"[^ref-9].
 
-The expansion provides narrative context revealing that Black Mesa is ultimately destroyed by a nuclear device, offering definitive closure to the facility's fate while leaving Shephard's own future deliberately ambiguous[^ref-10].
+The ending shows the nuclear device detonating in the background as the G-Man congratulates Shephard, destroying Black Mesa, before Shephard is detained where he can tell no one what he has seen[^ref-2].
 
 ## Gameplay
 
@@ -60,9 +60,10 @@ The game introduces rope-climbing mechanics, another unique feature within the H
 
 ### Structure and Progression
 
-The single-player campaign spans 13 chapters set across 12 new interconnected levels[^ref-12][^ref-13]. The game is approximately 70% as long as the original Half-Life, with an estimated completion time of 5-10 hours depending on difficulty and playstyle[^ref-4][^ref-14]. The chapters include:
+The single-player campaign runs from the optional Boot Camp (Chapter 0) through Worlds Collide (Chapter 12), followed by a closing End sequence[^ref-13]. GameSpot judged it only about one third as long as the original Half-Life, finishable in just over ten hours[^ref-4]. The chapters are:
 
 - **Boot Camp:** Optional training section teaching basic mechanics
+- **Incoming:** The Osprey flight into Black Mesa, ending when the aircraft is attacked and crashes[^ref-6]
 - **Welcome to Black Mesa:** Shephard awakens in the damaged facility
 - **"We Are Pulling Out":** Surviving marines attempt evacuation
 - **Missing in Action:** Shephard becomes separated from allies
@@ -74,11 +75,11 @@ The single-player campaign spans 13 chapters set across 12 new interconnected le
 - **Foxtrot Uniform:** Advancing through military zones
 - **The Package:** Discovery of the nuclear device
 - **Worlds Collide:** Final confrontation with the Gene Worm
-- **Conclusion:** G-Man ending sequence
+- **End:** G-Man ending sequence
 
 ### Puzzles and Mechanics
 
-The expansion introduces squad-based gameplay, allowing players to command allied marines who provide combat support[^ref-4]. "The code allows for as many as eight soldiers to follow the player, but in the single player game, it's difficult to keep more than four of them alive at a time," Pitchford explained[^ref-10]. These squadmates include medics who can heal the player and engineers who can bypass locked doors and obstacles[^ref-15].
+The expansion introduces squad-based gameplay, allowing players to command allied marines who provide combat support[^ref-4]. "The code allows for as many as eight soldiers to follow the player, but in the single player game, it's difficult to keep more than four of them alive at a time," Pitchford explained[^ref-10]. These squadmates include medics who can heal the player and engineers who can cut through doors with a torch[^ref-25].
 
 The game features nine new weapons alongside most of the original Half-Life arsenal[^ref-4]. New additions include:
 
@@ -118,23 +119,23 @@ Opposing Force has maintained its positive reputation over the decades. Modern r
 
 A **Eurogamer retrospective** noted: "It's testament to the developers that they made a game at all rather than hiding in a cupboard, let alone that they produced what proved to be a great shooter. But it's when Opposing Force breaks out on its own that it delivers its own sublime moments. And most of them are the bloody brilliant weapons"[^ref-20].
 
-**Metrocop** gave the game **8/10** in a 2024 review, acknowledging that while "Opposing Force is not exactly a bad game," the "expanded arsenal is a fun way to revisit the Half-Life gameplay"[^ref-21].
+**Metrocop** gave the game **8/10** in a 2022 review, acknowledging that while "Opposing Force is not exactly a bad game," the "expanded arsenal is a fun way to revisit the Half-Life gameplay"[^ref-21].
 
-User reviews on **IMDB** average **8.1/10**, with one reviewer stating "Opposing Force is better than its parent original game in every single way"[^ref-9].
+User reviews on **IMDB** average **8.1/10**[^ref-9], with one 2013 user review stating "Opposing Force is better than its parent original game in every single way"[^ref-43].
 
 **Aggregate Scores:**
 - **GameRankings:** 85.45%[^ref-1]
 - **MobyGames:** 85% (Critics)[^ref-12]
-- **Steam User Reviews:** 95% positive (12,704 reviews)[^ref-22]
+- **Steam User Reviews:** 95% positive (13,571 English-language reviews, as of October 2026)[^ref-22]
 - **Metacritic User Score:** 8.5/10[^ref-23]
-- **ModDB Community Rating:** 9.6/10[^ref-24]
+- **ModDB Community Rating:** 9.5/10 (278 votes, as of October 2026)[^ref-24]
 - **IMDB:** 8.1/10[^ref-9]
 
 ## Development
 
 ### Origins
 
-Half-Life: Opposing Force was announced on April 15, 1999, just months after the original Half-Life revolutionized the first-person shooter genre[^ref-2]. Valve, wanting to concentrate on future projects (including what would become Half-Life 2), selected Gearbox Software to develop the expansion[^ref-2]. Randy Pitchford noted that "Valve and Sierra Studios waited several months for the 'right' team after Half-Life's release"[^ref-25].
+Half-Life: Opposing Force was announced on April 15, 1999, just months after the original Half-Life revolutionized the first-person shooter genre[^ref-2]. Pitchford later said he believed Valve offered Gearbox the expansion out of a wish "to focus on their future titles"[^ref-2]. As he told Computer and Video Games: "I understand that Valve and Sierra Studios were waiting for the 'right' team for several months after the release of Half-Life"[^ref-25].
 
 The concept for Opposing Force was pitched by Randy Pitchford, who likened it to the play "Rosencrantz and Guildenstern Are Dead"—a story that retells Hamlet from the perspective of two minor characters[^ref-1]. Valve co-founder Gabe Newell was reportedly interested in a Rashomon-esque structure inspired by Lawrence Durrell's "The Alexandria Quartet" novels[^ref-1]. The original concept had Shephard as part of a rogue marine faction, but this was simplified during development[^ref-5].
 
@@ -159,26 +160,19 @@ Gearbox brought in talent from across the video games industry to bolster the de
 
 Gearbox utilized Valve's GoldSrc engine without major modifications, but implemented several new features[^ref-25]. "We managed to use the engine hooks already in place to create our new special effects like the Night Vision Goggles, and the Shock Roach weapon effect. The new effects really look great and don't break a thing the end users have worked so hard on," Pitchford explained[^ref-25].
 
-The music was composed by Chris Jensen using analog equipment, including "an old analog 4-track recorder"[^ref-28]. Jensen's atmospheric soundtrack differs significantly from Kelly Bailey's work on the original Half-Life, featuring "great bass and creepy synths"[^ref-29]. Interestingly, the soundtrack was later reused for Half-Life: Blue Shift[^ref-28].
+The music was composed by Chris Jensen using analog equipment, including "an old analog 4-track recorder"[^ref-28]. Jensen's atmospheric soundtrack differs significantly from Kelly Bailey's work on the original Half-Life; one KHInsider commenter praised its "great bass and creepy synths"[^ref-29]. Interestingly, the soundtrack was later reused for Half-Life: Blue Shift[^ref-28].
 
 The game introduced more than 20 new characters and monsters[^ref-25], including the entire Race X alien faction. Technical optimizations were made throughout development—notably, the female ninja assassins were reduced from over 1,000 polygons to improve performance[^ref-10].
 
 ### Technical Specifications
 
-**Minimum Requirements:**[^ref-22][^ref-27]
-- **OS:** Windows 95/98/NT, later Windows XP
-- **Processor:** Pentium 133 (500 MHz recommended)
-- **RAM:** 24 MB (96 MB recommended)
-- **Video:** 640x480 SVGA 16-bit color (16 MB video card)
-- **Storage:** 400 MB free hard disk space
-- **Optical:** 2X CD-ROM drive
-- **Audio:** Windows-compatible sound device
-- **Input:** Mouse and Keyboard
+**Original Retail Release (1999 manual):**[^ref-27]
+- **Minimum:** Windows 95, 98 or NT; Pentium 133; 24 MB RAM; 2X CD-ROM drive; 640x480 SVGA high color (16-bit) display; Windows-compatible sound device; 400 MB free hard disk space; mouse and keyboard
+- **Recommended:** Pentium 166+; 32 MB RAM; 3D accelerator card (OpenGL or Direct3D)
 
-**Recommended Requirements:**[^ref-27]
-- **Processor:** Pentium 166+ (800 MHz for optimal)
-- **RAM:** 32 MB (128 MB optimal)
-- **Video:** 3D accelerator card (OpenGL or Direct3D), 32 MB+ video card
+**Steam Release (store page):**[^ref-22]
+- **Minimum:** 500 MHz processor; 96 MB RAM; 16 MB video card; Windows XP; mouse, keyboard, internet connection
+- **Recommended:** 800 MHz processor; 128 MB RAM; 32 MB+ video card; Windows XP; mouse, keyboard, internet connection
 
 **Technical Features:**[^ref-30]
 - **Resolution:** Assets designed for 640x480
@@ -205,12 +199,12 @@ Additionally, several music tracks composed by Chris Jensen were cut from the fi
 | Mac/Linux | July 31, 2013 | macOS, Linux | Cross-platform release[^ref-2] |
 | 25th Anniversary | November 17, 2023 | All | Fixed FOV, added widescreen support, overbright lighting fixes[^ref-13] |
 
-**Engine Versions:**[^ref-31]
+**Engine Versions:**
 | Game Version | Notes |
 |--------------|-------|
-| 1.1.0.4 | WON version with uncapped bunny hop speed |
-| 1.1.0.7 | Patched version |
-| Steam | Modified main menu and console window |
+| 1.1.0.4 | WON version with uncapped bunny hop and solid tripmines[^ref-31] |
+| 1.1.0.7 | WON version; the latest that still has uncapped bunnyhop speed[^ref-31] |
+| Steam | Revised main menu (CTF flag artwork replaces the lambda logo) and the console moved to its own window[^ref-33] |
 
 ### Technical Issues
 
@@ -229,7 +223,7 @@ Opposing Force contains numerous hidden secrets and developer jokes discovered b
 
 - **Hidden Randy Pitchford Message:** A sound file, when played in reverse, reveals the message "To win the game you must kill me, Randy Pitchford"[^ref-5][^ref-33]
 - **Skybox Poem:** The upper skybox texture during the G-Man Osprey sequence contains a hidden message reading "HACK HACK HACK ALL DAY LONG. HACK HACK HACK WHILE I SING THIS SONG"—a reference to the Adam Sandler song "The Beating of a High School Janitor"[^ref-32][^ref-34]
-- **Penguin Weapon:** Console command "give weapon_penguin" spawns a penguin with a grenade on its back that acts like a snark, chasing targets. This was undiscovered for approximately nine months after release[^ref-35]. The penguin was originally created for the OpFor CTF mode[^ref-35]
+- **Penguin Weapon:** Console command "give weapon_penguin" spawns a penguin with a grenade on its back that acts like a snark, chasing targets. The eeggs.com submitter reported it in August 2000, though commenters note it only works in the patched game, as the penguin is a weapon from OpFor CTF, which came with later patches[^ref-35]
 - **Snowman Easter Egg:** Using the penguin command when already carrying nine penguins spawns a snowman with the message "Beware of Penguins"[^ref-35]
 - **Haiku Command:** Typing "haiku" in the console freezes the game and displays a randomly generated haiku poem. The text is stored in OPFOR.DLL[^ref-36]
 - **Developer Footlockers:** Names of developers can be found on footlockers throughout the game[^ref-5]
@@ -273,31 +267,24 @@ Opposing Force has been included in several Half-Life compilations:
 
 ### Fan Projects
 
-The game maintains an active modding community. The Half-Life: Opposing Force SDK has been updated by the TWHL Community, providing bug fixes and allowing modders to create new content[^ref-39]. The repository "aims to allow modders to make mods based on these games, while providing bug fixes that could be applied to the official games as well"[^ref-39].
+The game maintains an active modding community. The Half-Life: Opposing Force SDK has been updated by the TWHL Community, providing bug fixes and allowing modders to create new content[^ref-39]. The goal of the repositories is "to allow modders to make mods based on these games, while providing bug fixes that could be applied to the official games as well"[^ref-39].
 
 Community members have also created resources to restore the original Chris Jensen soundtrack to Steam versions of the game, which initially shipped with the wrong music[^ref-40].
 
 ### Related Publications
 
 - **Prima's Official Strategy Guide to Half-Life: Opposing Force:** Published by Prima Games for $19.99, described by one Amazon reviewer as containing "a minimalist walk-through, a few basic maps, and a description of enemies and weapons"[^ref-41]. The guide adopted a "Marine DI tone" consistent with the game's military theme[^ref-41]
-- **User Manual:** Included fictional diary entries dated March 3rd through March 15th describing soldier training, plus "Murphy's Combat Laws" (31 humorous military rules). The manual established that "Murphy was a grunt"[^ref-27]
+- **User Manual:** Included "Murphy's Combat Laws" (31 humorous military rules). The manual established that "Murphy was a grunt"[^ref-27]
 
 ### Critical Perspective
 
-Half-Life: Opposing Force represents a pivotal moment in gaming history—the point where expansion packs evolved from simple level additions to standalone narrative experiences worthy of serious critical consideration. The game demonstrated that expansion content could achieve the same level of quality and innovation as full releases, setting expectations for future DLC and expansion content across the industry[^ref-2].
-
-For Gearbox Software, Opposing Force launched a trajectory that would eventually lead to the Borderlands franchise and their position as a major AAA developer. The expansion proved that Gearbox could work with established IP while bringing their own creative vision, a skill they would continue to demonstrate with Blue Shift, Halo ports, and Brothers in Arms.
-
-The game's narrative decision to tell a familiar story from the enemy's perspective influenced later games exploring similar concepts. While Shephard's story has never been continued in the Half-Life universe—with Valve treating Race X and Shephard's fate as deliberately ambiguous—the character and expansion remain beloved by fans. As one modern reviewer noted: "When I play this game, I feel like playing a familiar game with an entirely fresh experience"[^ref-9].
+For Gearbox Software, Opposing Force was the start of a long run of work with Valve's games, including Blue Shift, before the studio moved on to porting Halo: Combat Evolved to PC and creating the Brothers in Arms and Borderlands series[^ref-42]. As one 2007 IMDb user review put it: "When I play this game, I feel like playing a familiar game with an entirely fresh experience"[^ref-43].
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/half-life-opposing-force)
+- [Steam](https://store.steampowered.com/app/50/HalfLife_Opposing_Force/)
 
 ## Downloads
-
-**Purchase / Digital Stores**
-- [Steam](https://store.steampowered.com/app/50/HalfLife_Opposing_Force/)
 
 **Preservation Resources**
 - [Internet Archive – User Manual](https://archive.org/details/halflifeopposingforceusermanual)
@@ -338,21 +325,20 @@ The game's narrative decision to tell a familiar story from the enemy's perspect
 [^ref-12]: [MobyGames – Half-Life: Opposing Force](https://www.mobygames.com/game/1157/half-life-opposing-force/) – platform releases, ratings, technical specs
 [^ref-13]: [Steam Community Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2308135369) – chapters, G-Man sightings, 25th anniversary update
 [^ref-14]: [GameFAQs Walkthrough – SBolle](https://gamefaqs.gamespot.com/pc/149551-half-life-opposing-force/faqs/6339) – game length, Gearbox history, Valve supervision
-[^ref-15]: [HowLongToBeat Reviews](https://howlongtobeat.com/game/4256/reviews/latest/1) – squad mechanics, playtime estimates
 [^ref-16]: [Planet Half-Life Weapons Guide (Archive.org)](https://web.archive.org/web/20081017042053/http://planethalflife.gamespy.com/View.php?view=HLGameInfo.Detail&id=19&game=4) – weapon descriptions
 [^ref-17]: [Computer and Video Games Review (Archive.org)](https://web.archive.org/web/20070326144234/http://www.computerandvideogames.com/article.php?id=8519&skip=yes) – 9.0 score, Kim Randell review
 [^ref-18]: [IGN Review](https://www.ign.com/articles/1999/11/25/half-life-opposing-force) – 7.5 score, Vincent Lopez review
 [^ref-19]: [Eurogamer Review (Archive.org)](https://web.archive.org/web/20060819145946/http://www.eurogamer.net/article.php?article_id=96) – 7/10 score, mission pack syndrome criticism
 [^ref-20]: [Eurogamer Retrospective](https://www.eurogamer.net/half-life-opposing-force-retrospective) – modern assessment, weapons praise
-[^ref-21]: [Metrocop Review](https://metrocop.net/articles/half-life-opposing-force-review/) – 8/10 score, 2024 review
+[^ref-21]: [Metrocop Review](https://metrocop.net/articles/half-life-opposing-force-review/) – 8/10 score, 2022 review
 [^ref-22]: [Steam Store Page](https://store.steampowered.com/app/50/HalfLife_Opposing_Force/) – user reviews, system requirements, awards
 [^ref-23]: [Metacritic](https://www.metacritic.com/game/half-life-opposing-force/) – user score, basic information
 [^ref-24]: [ModDB – Game Page](https://www.moddb.com/games/half-life-opposing-force) – community rating, development notes
 [^ref-25]: [Computer and Video Games Interview (Archive.org)](https://web.archive.org/web/20070122082115/http://www.computerandvideogames.com/article.php?id=11174) – Randy Pitchford interview, technical achievements
 [^ref-26]: [IGN – Levelord Announcement (Archive.org)](https://web.archive.org/web/20081229210603/http://uk.pc.ign.com/articles/068/068460p1.html) – Richard Gray joining team
-[^ref-27]: [Manual Machine – User Manual](https://manualmachine.com/gamespc/halflifeopposingforce/1119490-user-manual/) – system requirements, diary entries, Murphy's Laws
+[^ref-27]: [Manual Machine – User Manual](https://manualmachine.com/gamespc/halflifeopposingforce/1119490-user-manual/) – retail system requirements, Murphy's Laws
 [^ref-28]: [Combine OverWiki – Soundtrack](https://combineoverwiki.net/wiki/Half-Life:_Opposing_Force_soundtrack) – Chris Jensen, analog equipment, cut tracks, Steam music issues
-[^ref-29]: [KHInsider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/half-life-opposing-force-gamerip-1999) – track listing, atmospheric description
+[^ref-29]: [KHInsider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/half-life-opposing-force-gamerip-1999) – track listing, user comments
 [^ref-30]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Half-Life:_Opposing_Force) – technical specs, API support, known issues, version history
 [^ref-31]: [Speed Demos Archive](https://speeddemosarchive.com/HalfLifeOpposingForce.html) – version differences, speedrunning
 [^ref-32]: [EEggs.com – Easter Eggs](https://eeggs.com/tree/764.html) – hidden secrets collection
@@ -365,3 +351,5 @@ The game's narrative decision to tell a familiar story from the enemy's perspect
 [^ref-39]: [GitHub – SDK Updated Repository](https://github.com/twhl-community/halflife-op4-updated) – modding resources, bug fixes
 [^ref-40]: [RunThinkShootLive – Music Restoration](https://www.runthinkshootlive.com/posts/tree-opposing-force-music/) – Steam soundtrack fix
 [^ref-41]: [Amazon – Strategy Guide](https://www.amazon.com/Half-Life-Opposing-Force-Official-Strategy/dp/0761525904) – Prima guide reviews
+[^ref-42]: [Wikipedia – Gearbox Software](https://en.wikipedia.org/wiki/Gearbox_Software) – Blue Shift, Halo PC port, Brothers in Arms, Borderlands
+[^ref-43]: [IMDB – User Reviews](https://www.imdb.com/title/tt0363260/reviews/) – user reviews (KillerK1991, 2013; armoreska, 2007)
