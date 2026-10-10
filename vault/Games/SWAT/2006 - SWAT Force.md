@@ -11,123 +11,112 @@ engine: Java
 protagonist: SWAT Team (Artilleryman and Expert)
 sierra_lineage: Post-Sierra
 last_updated: '2026-10-09'
-description: SWAT Force is a mobile tactical action game released on February 28,
-  2006, marking a significant milestone as the first game in the Police Quest series
-  to...
+description: SWAT Force is a 2D side-scrolling tactical action game for Java mobile
+  phones, developed by Kaolink and published by Vivendi Universal Games; it launched
+  in Europe in July 2005 and in North America on February 28, 2006.
 tags: [2000s, police-quest-swat, sierra]
 ---
 # SWAT Force
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-SWAT Force is a mobile tactical action game[^ref-1][^ref-11][^ref-12] released on February 28, 2006[^ref-1][^ref-7][^ref-11], marking a significant milestone as the first game in the Police Quest series to be released for mobile devices[^ref-1][^ref-2][^ref-11][^ref-12]. Developed by French studio Kaolink[^ref-1][^ref-2][^ref-7][^ref-11] and published by Vivendi Universal Games Mobile[^ref-1][^ref-7][^ref-11], the game represents an ambitious attempt to translate the tactical shooting experience of the PC SWAT franchise[^ref-6][^ref-8][^ref-11] to the considerably more limited mobile platform of the era[^ref-2][^ref-3][^ref-6].
+SWAT Force is a mobile tactical action game[^ref-1][^ref-3] for Java-enabled phones[^ref-5][^ref-13], and the first game in the Police Quest/SWAT series to be released for mobile devices[^ref-1][^ref-2]. Vivendi Universal Games announced in July 2005 that it would be available to consumers starting that month, distributed by WonderPhone in Europe and other international markets, with a North American launch "shortly following"[^ref-16]; the North American release date was February 28, 2006[^ref-1][^ref-7][^ref-17]. It was developed by French studio Kaolink[^ref-1][^ref-2][^ref-7] and published by Vivendi Universal Games[^ref-1][^ref-7], whose press release described the PC SWAT franchise it drew on as having sold "more than two million units"[^ref-16].
 
-The game takes the form of a 2D side-scroller[^ref-3][^ref-5][^ref-12] featuring two-man team gameplay[^ref-3][^ref-4][^ref-12] across seven missions[^ref-3][^ref-6]. Players control two distinct SWAT operatives—an artilleryman and an expert[^ref-4][^ref-5]—each with specialized abilities suited to different tactical situations[^ref-4][^ref-5][^ref-12]. Despite the inherent limitations of mobile gaming hardware in 2006[^ref-3][^ref-6], SWAT Force was generally well-received by critics[^ref-1][^ref-6], with GameSpot calling it "a surprisingly good translation of the tactical shooting experience on PC to a mobile format"[^ref-3].
+The game is a 2D side-scroller[^ref-3] built around a two-man team, an artilleryman and an expert[^ref-1][^ref-3], across seven missions[^ref-3][^ref-17]. Critical reception was mixed: GameRankings recorded an average of 65.67% from three reviews[^ref-14], ranging from GameSpot's 7.9 and IGN's 7.8 to Modojo's 2 out of 5[^ref-14], while Pocket Gamer's verdict was "Avoid"[^ref-5]. GameSpot called it "a surprisingly good translation of the tactical shooting experience on PC to a mobile format"[^ref-3].
 
-As a spin-off of the long-running Police Quest series[^ref-11][^ref-12], SWAT Force brought the franchise to an entirely new audience and platform[^ref-1][^ref-2], though its compact design meant players could complete all missions in approximately one hour[^ref-3][^ref-6]. The game utilized the licensed SWAT trademark from the LAPD[^ref-4], maintaining the series' commitment to authentic law enforcement representation[^ref-4][^ref-11].[^ref-10][^ref-13][^ref-15]
+All seven missions can be completed in about an hour[^ref-3][^ref-6]. The in-game text states that "The SWAT sign © 2005 LAPD SWAT is used with authorization"[^ref-4].
 
 > [!info]- Game Info
-> **Developer:** Kaolink[^ref-1][^ref-7][^ref-11]
+> **Developer:** Kaolink[^ref-1][^ref-7]
 > **Designer:** Unknown
-> **Publisher:** Vivendi Universal Games Mobile[^ref-1][^ref-7][^ref-11]
-> **Engine:** Java[^ref-5][^ref-11]
-> **Platforms:** Mobile (Java-enabled phones)[^ref-1][^ref-3][^ref-11]
-> **Release Year:** 2006[^ref-1][^ref-11]
+> **Publisher:** Vivendi Universal Games Mobile[^ref-1][^ref-7]
+> **Engine:** Java[^ref-5][^ref-13]
+> **Platforms:** Mobile (Java-enabled phones)[^ref-1][^ref-5]
+> **Release Year:** 2006 (North America); Europe July 2005[^ref-1][^ref-16]
 > **Series:** Police Quest / SWAT[^ref-11][^ref-12]
-> **Protagonist:** SWAT Team (Artilleryman and Expert)[^ref-4][^ref-12]
-> **Sierra Lineage:** Sierra Mobile[^ref-2]
+> **Protagonist:** SWAT Team (Artilleryman and Expert)[^ref-1][^ref-3]
+> **Sierra Lineage:** Post-Sierra
 
 ## Story Summary
 
-SWAT Force places players in command of an elite LAPD SWAT unit[^ref-4][^ref-12] tasked with responding to various high-stakes tactical situations[^ref-4][^ref-6]. The game's narrative follows a two-person tactical team[^ref-3][^ref-4] through seven distinct missions[^ref-3][^ref-6], each presenting different challenges that require coordination between team members[^ref-3][^ref-5].
+SWAT Force casts the player as a Los Angeles SWAT squad leader[^ref-17] responding to "authentic crisis situations"[^ref-16][^ref-17]. The official VU Games description lists hostage situations, armed robberies and bomb threats as the kind of urban crises the unit handles, and reminds players that the goal "is to protect life and not necessarily to shoot to kill"[^ref-17]. The missions have players rescue hostages, arrest suspects and secure weapons[^ref-1][^ref-17].
 
-Players take on the role of two specialized SWAT officers[^ref-4][^ref-12]: the artilleryman, who handles heavy weapons and breaching operations[^ref-4][^ref-5], and the expert, who specializes in precision tactics and technical operations[^ref-4][^ref-5]. The missions involve typical SWAT scenarios including hostage situations, armed confrontations, and tactical entries into dangerous environments[^ref-5][^ref-6].
-
-The game emphasizes tactical decision-making over pure action[^ref-6], requiring players to carefully coordinate their two-man team to successfully complete objectives[^ref-5][^ref-6]. Upon completing all missions, players receive commendation from the LAPD SWAT command[^ref-4], with the game text congratulating them: "Congratulations! You really are two excellent SWAT!"[^ref-4]
+The two officers are an artilleryman, who carries a submachine gun and flashbang grenades and can force suspects to surrender[^ref-1][^ref-3], and an expert, who picks locks, hacks computers, defuses bombs and uses a fiber-optic camera to look into rooms[^ref-1][^ref-3]. Both officers must survive each mission; if one falls, the player must restart[^ref-6]. On completing the game, the closing text reads: "Congratulations! You really are two excellent SWAT!"[^ref-4]
 
 ## Gameplay
 
 ### Interface and Controls
 
-SWAT Force utilizes a control scheme adapted for mobile phone keypads typical of the era[^ref-3][^ref-4]. Movement is handled through the D-pad[^ref-4], while numbered keys are assigned to various actions including weapon selection, character switching, and special abilities[^ref-4][^ref-5]. The game employs context-sensitive action bubbles[^ref-5] that appear when players approach interactive elements[^ref-5], though this system was criticized for causing the screen to occasionally flicker back to the title image[^ref-5].
+SWAT Force uses a control scheme built for the phone keypads of the time[^ref-3][^ref-4]. Movement is handled through the D-pad[^ref-4], while numbered keys are assigned to actions such as switching characters and context-sensitive actions[^ref-4][^ref-5]; the artilleryman forces suspects to surrender when the player repeatedly presses the 3 key[^ref-3][^ref-5]. Pocket Gamer complained that "every time a context-sensitive situation crops up, the screen flicks back to the title image with a small explanatory note"[^ref-5].
 
-The two-character system forms the core of the gameplay experience[^ref-3][^ref-6], with players able to switch between the artilleryman and expert characters to utilize their respective specialties[^ref-4][^ref-6]. The artilleryman excels at direct confrontation and heavy weapons[^ref-4][^ref-5], while the expert handles more delicate operations[^ref-4][^ref-5].
+The player controls one officer at a time while the other follows behind[^ref-3]. GameSpot's advice was to keep the artilleryman in front when suspects might be near, and to switch to the expert at closed doors to check for booby traps[^ref-3].
 
 ### Structure and Progression
 
-The game is structured around seven missions of varying complexity[^ref-3][^ref-6]. Each mission presents distinct tactical challenges[^ref-5][^ref-6] that require players to effectively utilize both team members[^ref-4][^ref-5]:
+The game is structured around seven missions[^ref-3][^ref-17]. Mission objectives include the number of hostages freed, weapons collected and criminals arrested[^ref-17], and GameSpot noted that players are "rewarded for taking suspects alive instead of dead"[^ref-3].
 
-- **Mission 1-7:** Seven complete missions[^ref-3][^ref-6] featuring escalating difficulty[^ref-5] and different tactical scenarios requiring coordination between the artilleryman and expert characters[^ref-3][^ref-4]
+- **Missions 1-7:** Seven missions[^ref-3][^ref-17]. GameSpot found that "the trickiest parts of the game come in the later missions," when hidden mines or bombs can be triggered by accident[^ref-3].
 
-Players progress linearly through the missions[^ref-5][^ref-6], with the entire game completable in approximately one hour according to contemporary reviews[^ref-3][^ref-6]. The relatively short length was noted as one of the game's primary drawbacks[^ref-3][^ref-6], with IGN's reviewer stating "My main complaint about SWAT Force? It's over too soon"[^ref-6].
+GameSpot called the game "a fairly linear affair"[^ref-3], and both GameSpot and IGN put its length at about an hour[^ref-3][^ref-6]. IGN's reviewer wrote: "My main complaint about SWAT Force? It's over too soon"[^ref-6].
 
 ### Puzzles and Mechanics
 
-SWAT Force scales back on the complexity of its PC predecessors[^ref-6][^ref-8] while maintaining the essential tactical elements of the SWAT series[^ref-6][^ref-11]. The game reduces the number of available tools, talents, and objectives compared to the full PC titles[^ref-6] without sacrificing the general essence of the franchise[^ref-6].
+IGN noted that the game scales back the tools, talents and objectives of the PC titles while keeping the general essence of the franchise[^ref-6]. A meter tracks criminal awareness: the more the player shoots, the more alert the criminals become[^ref-6]. According to Pocket Gamer, stunning and arresting criminals with the expert's tazer raises the alert level less than shooting them with the artilleryman, and earns more points[^ref-5].
 
-Tactical situations require players to assess threats[^ref-5][^ref-6], choose the appropriate team member for each task[^ref-4][^ref-5], and execute coordinated entries[^ref-5][^ref-6]. The context-sensitive action system allows for interactions with environmental elements[^ref-5] including doors (some of which may be booby-trapped)[^ref-5], cover positions[^ref-5], and tactical equipment[^ref-4][^ref-5]. However, the character switching mechanic was criticized as "awkward and laborious"[^ref-5] particularly after performing specific actions like diffusing booby-trapped doors[^ref-5].
+Enemy traps include booby-trapped doors, surveillance cameras and mines[^ref-17], and the weapons include flash grenades, pistols and an electric stun gun[^ref-17]. Pocket Gamer found character switching "too awkward and laborious in execution to be fun"[^ref-5], particularly after defusing a booby-trapped door with the expert while enemies wait behind it[^ref-5].
 
 ## Reception
 
 ### Contemporary Reviews
 
-SWAT Force received generally favorable reviews upon release[^ref-1][^ref-6], though critics noted significant technical limitations[^ref-3][^ref-5]. GameSpot awarded the game a 7.9 out of 10[^ref-1][^ref-3], with reviewer Bob Colayco praising it as "a surprisingly good translation of the tactical shooting experience on PC to a mobile format"[^ref-3]. The review particularly highlighted the visual presentation[^ref-3][^ref-5], noting "The graphics look great for a mobile phone game"[^ref-3].
+Reviews were mixed[^ref-1][^ref-14]. GameSpot awarded the game 7.9 out of 10[^ref-1][^ref-3]. Its review, by Bob Colayco, described SWAT Force as "a surprisingly good translation of the tactical shooting experience on PC to a mobile format"[^ref-3] and said "The graphics look great for a mobile phone game"[^ref-3].
 
-IGN's Levi Buchanan scored the game 7.8 out of 10[^ref-6][^ref-7], calling it "one of the better PC-to-mobile games I have played"[^ref-6]. The review emphasized how the game successfully delivered "the proper essence of the traditional vid while accurately recreating the universe the game exists in"[^ref-6].
+IGN's Levi Buchanan scored the game 7.8 out of 10[^ref-6][^ref-7], calling it "one of the better PC-to-mobile games I have played"[^ref-6]. The review said the game delivered "the proper essence of the traditional vid while accurately recreating the universe the game exists in"[^ref-6].
 
-Pocket Gamer offered a more critical assessment[^ref-5], with reviewer Fraser MacInnes expressing frustration at the technical implementation[^ref-5]. The review stated that "no amount of fancy big boys' army toys and black clothing could make this particular mission feel any less humdrum"[^ref-5]. The review concluded that "fancy graphics are precious little recompense for a game that is so flawed and plain joyless to play"[^ref-5].
+Pocket Gamer's Fraser MacInnes was far more critical[^ref-5]. He wrote that "no amount of fancy big boys' army toys and black clothing could make this particular mission feel any less humdrum"[^ref-5] and that "fancy graphics are precious little recompense for a game that is so flawed and plain joyless to play"[^ref-5]. His verdict was "Avoid"[^ref-5]. Modojo gave the game 2 out of 5[^ref-14].
 
 ### Modern Assessment
 
-The game received "average" reviews according to the review aggregation website GameRankings[^ref-1], which compiled a score of 66%[^ref-1]. This aggregate score reflects the mixed reception[^ref-1][^ref-6], where impressive visuals[^ref-3][^ref-5] and faithful adaptation of the SWAT formula[^ref-6] were offset by technical issues[^ref-3][^ref-5] and limited content[^ref-3][^ref-6].[^ref-14]
+The game received "average" reviews according to the review aggregation website GameRankings[^ref-1], which recorded a score of 65.67% based on three reviews[^ref-14]. Reviewers praised the visuals[^ref-3][^ref-5] and the tactical two-officer design[^ref-3][^ref-6], but faulted the short length[^ref-3][^ref-6], the lack of sound effects[^ref-3][^ref-5] and the clumsy character switching[^ref-5].
 
 **Aggregate Scores:**
-- **GameRankings:** 66%[^ref-1]
+- **GameRankings:** 65.67% (3 reviews)[^ref-14]
 - **GameSpot:** 7.9/10[^ref-1][^ref-3]
 - **IGN:** 7.8/10[^ref-6][^ref-7]
+- **Modojo:** 2/5[^ref-14]
 
 ## Development
 
 ### Origins
 
-SWAT Force emerged from the collaboration between French development studio Kaolink[^ref-1][^ref-2] and publisher Vivendi Universal Games Mobile[^ref-1][^ref-7]. The project represented Sierra's first attempt to bring the Police Quest franchise to mobile platforms[^ref-1][^ref-11][^ref-12], capitalizing on the growing mobile gaming market of the mid-2000s[^ref-2][^ref-11].
+SWAT Force was developed by French studio Kaolink[^ref-1][^ref-2] and published by Vivendi Universal Games[^ref-1][^ref-7]. It was the first Police Quest/SWAT game released for mobile devices[^ref-1][^ref-2]. It was one of five mobile games that VU Games' newly formed wireless division announced in July 2005, alongside *Larry's Sexy Pinball*[^ref-16].
 
-The game was conceived as an extension of the PC SWAT franchise[^ref-6][^ref-11], which itself had evolved from the Police Quest series[^ref-6][^ref-11][^ref-12]. The development challenge lay in translating the complex tactical gameplay of titles like SWAT 3[^ref-8][^ref-11] and SWAT 4[^ref-9] to the severely limited hardware capabilities of contemporary mobile phones[^ref-3][^ref-6].
+The press release described SWAT Force as a tactical squad game based on a PC franchise that had sold "more than two million units," one that "demands the same degree of tactical finesse as the PC version"[^ref-16]. The PC series it adapted includes Police Quest: SWAT[^ref-8], SWAT 3[^ref-11] and SWAT 4[^ref-9][^ref-11].
 
 ### Production
 
-Kaolink, a French mobile game development studio[^ref-1][^ref-2], handled the primary development work[^ref-1][^ref-7]. The team faced the considerable challenge of condensing the tactical depth of the SWAT series[^ref-6][^ref-11] into a format suitable for mobile phone keypads and small screens[^ref-3][^ref-6].
+Kaolink handled development[^ref-1][^ref-7]. The game's in-game text carries the line "The SWAT sign © 2005 LAPD SWAT is used with authorization"[^ref-4], and its copyright notices are dated 2004 and 2005[^ref-4]. Distribution in Europe, South and Central America, Africa, New Zealand and several other markets went through WonderPhone, a Paris-based mobile distributor, starting in July 2005[^ref-16]. The North American release followed on February 28, 2006[^ref-1][^ref-7][^ref-17].
 
-The game utilized the officially licensed SWAT trademark from the Los Angeles Police Department[^ref-4][^ref-11].
-This maintained the authenticity that had been a hallmark of the Police Quest series since its inception[^ref-4][^ref-11].
-Copyright notices in the game indicate development occurred between 2004 and 2005[^ref-4].
-The final release came in February 2006[^ref-1][^ref-4][^ref-11].
-
-**Development Credits:**[^ref-4][^ref-7]
+**Development Credits:**
 - **Developer:** Kaolink[^ref-1][^ref-7]
-- **Publisher:** Vivendi Universal Games / Wonderphone / Sierra Entertainment[^ref-4][^ref-7]
-- **Licensing:** LAPD SWAT trademark authorization[^ref-4]
+- **Publisher:** Vivendi Universal Games (Sierra Entertainment brand)[^ref-7][^ref-16]
+- **Distributor (Europe and other international markets):** WonderPhone[^ref-16]
+- **Licensing:** LAPD SWAT sign used with authorization[^ref-4]
 
 ### Technical Achievements
 
-The game featured 2D stages[^ref-3][^ref-5] with detailed and colorful backgrounds[^ref-5].
-These visuals impressed reviewers given the mobile platform limitations[^ref-3][^ref-5].
-The visual presentation was consistently praised across reviews[^ref-3][^ref-5][^ref-6].
-GameSpot noted the graphics "look great for a mobile phone game"[^ref-3].
-
-The two-character switching system[^ref-4][^ref-6] represented an ambitious design choice for mobile gaming of the era[^ref-3][^ref-6].
-Critics were divided on this feature[^ref-5][^ref-6], though its implementation proved controversial among critics[^ref-5][^ref-6].
+The game uses 2D stages[^ref-3][^ref-5]. Pocket Gamer found the backgrounds "detailed and colourful"[^ref-5], and GameSpot said the graphics "look great for a mobile phone game"[^ref-3]. The two-character switching system[^ref-3][^ref-6] divided critics. GameSpot said it never made swapping feel "overly stressful or cumbersome"[^ref-3], while Pocket Gamer called it "too awkward and laborious in execution to be fun"[^ref-5].
 
 ### Technical Specifications
 
-**Mobile Version:**[^ref-3][^ref-11]
+**Mobile Version:**
 
-- **Format:** 2D side-scroller[^ref-3][^ref-5]
-- **Platform:** Java-enabled mobile phones[^ref-3][^ref-11]
-- **Missions:** Seven complete levels[^ref-3][^ref-6]
-- **Tested Device:** Nokia 6620[^ref-3]
+- **Format:** 2D side-scroller[^ref-3]
+- **Platform:** Java-enabled mobile phones[^ref-5][^ref-13]
+- **Missions:** Seven[^ref-3][^ref-17]
+- **Tested Device (GameSpot):** Nokia 6620[^ref-3]
 
 **Controls:**[^ref-4][^ref-5]
 
@@ -137,59 +126,50 @@ Critics were divided on this feature[^ref-5][^ref-6], though its implementation 
 
 ### Technical Issues
 
-SWAT Force suffered from several technical problems that marred the gameplay experience[^ref-3][^ref-5].
-The context-sensitive action system would occasionally cause the screen to flicker back to the title image[^ref-5].
-Audio implementation varied significantly by device[^ref-3][^ref-5].
-The Nokia 6620 test unit produced "no sound effects other than beeping"[^ref-3] and lacked gunshot sounds[^ref-3][^ref-5].
+Reviewers reported several problems[^ref-3][^ref-5]. Pocket Gamer said the screen flicked back to the title image every time a context-sensitive situation came up[^ref-5]. On GameSpot's Nokia 6620 test phone the game had no sound effects other than some low-key beeping when an action was executed[^ref-3], and the review listed "No sound effects other than some beeps" among its negatives[^ref-3]. Pocket Gamer likewise found gunshot sounds and other effects "completely absent"[^ref-5].
 
-The character switching mechanic was identified as particularly problematic[^ref-5][^ref-6].
-Pocket Gamer criticized it as "too awkward and laborious in execution to be fun"[^ref-5].
-Additionally, the game exhibited a bug where forcing enemies into submission using the artilleryman character did not function correctly[^ref-5].
+Pocket Gamer also found that forcing enemies to surrender with the artilleryman did not work in practice, because "all enemies open fire on sight"[^ref-5].
 
 ### Easter Eggs and Trivia
 
-- SWAT Force was the first game in the Police Quest series to be released for mobile devices[^ref-1][^ref-2][^ref-11][^ref-12]
-- The game utilized the official LAPD SWAT trademark under license[^ref-4][^ref-11]
-- Despite the Police Quest connection[^ref-11][^ref-12], the game functions as a standalone tactical action title rather than an adventure game[^ref-6][^ref-11]
-- The game was developed by French studio Kaolink[^ref-1][^ref-2], making it one of the few Sierra-published titles developed in France[^ref-1][^ref-2]
-- The SWAT series originated from the Police Quest franchise[^ref-11][^ref-12], with the first standalone SWAT title releasing in 1995[^ref-8][^ref-11]
+- SWAT Force was the first game in the Police Quest/SWAT series to be released for mobile devices[^ref-1][^ref-2]
+- The in-game text states that the LAPD SWAT sign is used with authorization[^ref-4]
+- Despite the Police Quest connection[^ref-11][^ref-12], the game is a tactical action title, not an adventure game[^ref-1][^ref-6]
+- It is not the same product as *Police Quest: SWAT Force*, a 1999 PC collection that bundled Police Quest: SWAT and SWAT 2[^ref-11]
+- The SWAT series grew out of the Police Quest franchise[^ref-11][^ref-12], beginning with Police Quest: SWAT in 1995[^ref-8][^ref-11]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Sales data for SWAT Force has not been publicly documented[^ref-1][^ref-2]. The game served primarily as a brand extension effort[^ref-2][^ref-11], bringing the SWAT franchise to the burgeoning mobile gaming market of 2006[^ref-2][^ref-11]. Its release coincided with the broader industry trend of adapting established gaming franchises for mobile platforms[^ref-2][^ref-6].
+No sales figures for SWAT Force were found during research. VU Games' July 2005 announcement put it among the first titles of its newly formed wireless division[^ref-16].
 
 ### Collections
 
-SWAT Force was released as a standalone mobile title[^ref-1][^ref-11] and has not been included in any compilation packages[^ref-1][^ref-11]. The game remains a relatively obscure entry in the Police Quest/SWAT franchise history[^ref-2][^ref-11].
+SWAT Force was released as a standalone mobile title[^ref-1][^ref-17]. It should not be confused with *Police Quest: SWAT Force*, a 1999 PC compilation of the first two Police Quest: SWAT games[^ref-11].
 
 ### Related Games
 
-The PC version of Police Quest: SWAT (1995)[^ref-8][^ref-11] served as the conceptual foundation for SWAT Force's tactical gameplay approach[^ref-6][^ref-8]. That earlier title was developed by Sierra On-Line[^ref-8][^ref-11] and designed by Tammy Dargan[^ref-8], featuring full-motion video gameplay across four CD-ROMs[^ref-8]. Police Quest: SWAT sold over 1 million units by March 2000[^ref-8] and was the 17th best-selling game of 1998 in the United States[^ref-8], demonstrating the commercial viability that likely influenced the mobile spin-off's development[^ref-2][^ref-8].
+The PC game Police Quest: SWAT (1995)[^ref-8][^ref-11] was designed by Tammy Dargan[^ref-8] and used full-motion video across four CD-ROMs[^ref-8]. It sold over 1 million units by March 2000[^ref-8] and was the 17th best-selling game of 1998 in the United States[^ref-8].
 
 ### Related Publications
 
-The game did not receive dedicated hint books or strategy guides[^ref-2][^ref-4] due to its mobile platform and relatively simple gameplay structure[^ref-4][^ref-6].
+No hint book or strategy guide for SWAT Force was found during research.
 
 ### Critical Perspective
 
-SWAT Force represents an interesting footnote in the history of both the Police Quest franchise[^ref-11][^ref-12] and early mobile gaming[^ref-2][^ref-6]. The game attempted to translate complex tactical gameplay to an extremely limited platform[^ref-6], achieving mixed results that reflected the broader challenges of mobile game development in the pre-smartphone era[^ref-3][^ref-6].
-
-The game's reception highlighted the tension between ambitious design goals and technological limitations[^ref-3][^ref-5][^ref-6]. While critics praised the visual presentation[^ref-3][^ref-5] and faithful adaptation of SWAT themes[^ref-6], the technical execution—particularly the character switching system[^ref-5] and audio implementation[^ref-3][^ref-5]—undermined the overall experience[^ref-5]. As IGN noted, the game succeeded in delivering "the proper essence" of the SWAT series[^ref-6], but its brief length[^ref-3][^ref-6] and technical issues[^ref-3][^ref-5] prevented it from achieving lasting significance[^ref-6].
-
-In retrospect, SWAT Force serves as a time capsule of mid-2000s mobile gaming[^ref-2][^ref-6], demonstrating both the industry's ambition to bring established franchises to new platforms[^ref-2][^ref-11] and the considerable obstacles that existed before the smartphone revolution transformed mobile gaming capabilities[^ref-3][^ref-6].
+SWAT Force tried to bring the tactical design of the PC SWAT games to phone hardware[^ref-6][^ref-16], and its results were mixed[^ref-14]. Critics praised the visuals[^ref-3][^ref-5] and the way it adapted SWAT's themes[^ref-6], but the character switching[^ref-5] and missing sound effects[^ref-3][^ref-5] counted against it. IGN felt the game delivered "the proper essence" of the series[^ref-6], but both IGN and GameSpot found it short[^ref-3][^ref-6], and Pocket Gamer judged it "so flawed and plain joyless to play"[^ref-5].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on digital storefronts[^ref-1][^ref-2]
+- Not known to be sold on any current digital storefront
 
 **Download / Preservation**
 - [Sierra Chest – SWAT Force (Mobile)](https://sierrachest.com/index.php?a=games&id=840&title=swat-force-mobile&fld=general)[^ref-2] – Game database entry
 
 **Manuals & Extras**
-- No digital manuals currently archived[^ref-2][^ref-4]
+- No digital manual was found during research
 
 ## See Also
 
@@ -206,18 +186,18 @@ In retrospect, SWAT Force serves as a time capsule of mid-2000s mobile gaming[^r
 
 ## References
 
-[^ref-1]: [Wikipedia – SWAT Force](https://en.wikipedia.org/wiki/SWAT_Force) – release date, developer, publisher, aggregate scores, first mobile Police Quest game
+[^ref-1]: [Wikipedia – SWAT Force](https://en.wikipedia.org/wiki/SWAT_Force) – release date, developer, publisher, artilleryman/expert roles, "average" GameRankings reception, first mobile Police Quest game
 [^ref-2]: [Sierra Chest – SWAT Force (Mobile)](https://sierrachest.com/index.php?a=games&id=840&title=swat-force-mobile&fld=general) – release date, developer, French studio origin
-[^ref-3]: [GameSpot – SWAT Force Review](https://www.gamespot.com/reviews/swat-force-review/1900-6146233/) – review score, gameplay details, mission count, graphics assessment, audio issues
-[^ref-4]: [Police Quest Fandom – SWAT Force Transcript](https://policequest.fandom.com/wiki/SWAT_Force_transcript) – controls, character types, LAPD licensing, copyright dates
-[^ref-5]: [Pocket Gamer – SWAT Force Review](https://www.pocketgamer.com/swat-force/review/) – technical issues, character switching criticism, audio problems, graphics description
-[^ref-6]: [IGN – SWAT Force Review](https://www.ign.com/articles/2006/04/01/swat-force) – review score, PC-to-mobile adaptation assessment, game length criticism
+[^ref-3]: [GameSpot – SWAT Force Review](https://www.gamespot.com/reviews/swat-force-review/1900-6146233/) – Bob Colayco, March 20, 2006; 7.9 score, 2D side-scroller, character roles, seven missions, about an hour, Nokia 6620 audio
+[^ref-4]: [Police Quest Fandom – SWAT Force Transcript](https://policequest.fandom.com/wiki/SWAT_Force_transcript) – controls, LAPD SWAT sign authorization, copyright dates, ending text
+[^ref-5]: [Pocket Gamer – SWAT Force Review](https://www.pocketgamer.com/swat-force/review/) – Fraser MacInnes, Jul 1, 2005; technical issues, character switching criticism, tazer/alert level, "Avoid" verdict
+[^ref-6]: [IGN – SWAT Force Review](https://www.ign.com/articles/2006/04/01/swat-force) – Levi Buchanan; PC-to-mobile adaptation, criminal-awareness meter, both officers must survive, length criticism
 [^ref-7]: [IGN – SWAT Force Game Page](https://www.ign.com/games/swat-force/reviews) – developer spelling (KAOLink), publisher, release date, review score
 [^ref-8]: [Wikipedia – Police Quest: SWAT](https://en.wikipedia.org/wiki/Police_Quest:_SWAT) – sales data, review scores, development details for PC predecessor
 [^ref-9]: [GOG.com – SWAT 4 Gold Edition](https://www.gog.com/en/game/swat_4_gold_edition) – SWAT 4 developer, release date
-[^ref-10]: [GOG.com – SWAT: Elite Force](https://www.gog.com/en/game/swat_elite_force) – games inspired by SWAT series
-[^ref-11]: [Wikipedia – Police Quest](https://en.wikipedia.org/wiki/Police_Quest) – Police Quest/SWAT series history, SWAT Force as 2006 mobile title, franchise evolution
-[^ref-12]: [Police Quest Fandom – SWAT (series)](https://policequest.fandom.com/wiki/SWAT_(series)) – SWAT series chronology, mobile games list, 2006 release confirmation
-[^ref-13]: [Police Quest Fandom – SWAT Force](https://policequest.fandom.com/wiki/SWAT_Force) – detailed game information and series context
-[^ref-14]: [GameRankings – SWAT Force](https://www.gamerankings.com/mobile/956125-swat-force) – review aggregation and scores
-[^ref-15]: Old Games Download – SWAT Force *(no archived copy found)* – mobile game preservation and download information
+[^ref-11]: [Wikipedia – Police Quest](https://en.wikipedia.org/wiki/Police_Quest) – Police Quest/SWAT series history, SWAT Force (Mobile) 2006, 1999 *Police Quest: SWAT Force* PC compilation
+[^ref-12]: [Police Quest Fandom – SWAT (series)](https://policequest.fandom.com/wiki/SWAT_(series)) – SWAT series chronology, mobile games list
+[^ref-13]: [Police Quest Fandom – SWAT Force](https://policequest.fandom.com/wiki/SWAT_Force) – "first Java-game", mission table, series context
+[^ref-14]: [GameRankings – SWAT Force (archived 2019)](https://web.archive.org/web/20191209012524/https://www.gamerankings.com/mobile/932157-swat-force/index.html) – 65.67% from 3 reviews; Modojo 2/5, IGN 7.8, GameSpot 7.9
+[^ref-16]: [GamesIndustry.biz – Vivendi Universal Games' Wireless Division Extends New Mobile Game Offerings In Europe And Other International Markets](https://www.gamesindustry.biz/articles/vivendi-universal-games-wireless-division-extends-new-mobile-game-offerings-in-europe-and-other-international-markets) – July 18, 2005 press release; July 2005 launch, WonderPhone distribution, seven crisis situations, 2M PC franchise sales
+[^ref-17]: [Vivendi Universal Games – SWAT Force (official page, archived March 2006)](https://web.archive.org/web/20060314134800/http://www.vugames.com/product.do?gamePlatformId=1892) – released 2/28/2006, seven missions, sharp shooter & explosives expert, weapons, traps, objectives
