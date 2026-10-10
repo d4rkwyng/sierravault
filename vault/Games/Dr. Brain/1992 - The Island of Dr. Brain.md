@@ -24,9 +24,9 @@ tags: [1990s, dr-brain, educational, sci, sierra]
 
 The Island of Dr. Brain is an educational puzzle adventure game released in 1992 by Sierra On-Line as part of the Sierra Discovery Series.[^ref-1] As the second entry in the Dr. Brain franchise, it follows the success of Castle of Dr. Brain (1991) and continues the series' formula of combining educational content with point-and-click exploration.[^ref-2] The game was designed by Patrick Bridgemon, who took over the series from original creator [[Corey Cole]], with production and direction by Brett Miller.[^ref-3]
 
-The game's premise involves assisting the eccentric scientist Dr. Thaddeus Egghead Brain in retrieving a battery for one of his experiments after the plans were stolen by his archrival scientist.[^ref-4] This mission takes players to Dr. Brain's whimsical private island, described as being "filled with visual puns and a gauntlet of peculiar puzzles."[^ref-5] The game tests problem-solving skills across numerous academic subjects including math, language, chemistry, art history, physics, logic, mechanics, music, genetics, literature, and navigation.[^ref-6]
+The game's premise involves assisting the eccentric scientist Dr. Thaddeus Egghead Brain in retrieving a battery for one of his experiments after the plans were stolen by his archrival scientist.[^ref-4] This mission takes players to Dr. Brain's whimsical private island, described as being "filled with visual puns and a gauntlet of peculiar puzzles."[^ref-5] The game tests problem-solving skills across numerous academic subjects including math, language, chemistry, art history, physics, logic, mechanics, music, genetics, literature, and navigation.[^ref-7]
 
-Marketed with the tagline "Fill your head while you boggle your mind," The Island of Dr. Brain represents Sierra's commitment to the edutainment market during the early 1990s.[^ref-7] Contemporary reviews noted that while the puzzles have "legitimate academic content," opinions varied on whether the sequel matched the quality of its predecessor.[^ref-8] The game was designed for ages 12 and above and featured multiple difficulty levels that could be adjusted at any time during gameplay.[^ref-9][^ref-32][^ref-33][^ref-34]
+Marketed with the tagline "Fill your head while you boggle your mind," The Island of Dr. Brain represents Sierra's commitment to the edutainment market during the early 1990s.[^ref-7] Critics have differed on whether the sequel matched the quality of its predecessor.[^ref-1][^ref-19] The game was recommended for ages 12 and above,[^ref-9] and its skill levels are changeable during play.[^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -45,15 +45,15 @@ The game opens with Dr. Brain informing the player that plans for his latest pro
 
 The player assumes the role of an associate of the famous Dr. Brain who has been entrusted with a package that must be delivered to Dr. Brain as soon as possible.[^ref-9] The journey takes players through various locations on the island, including Dr. Brain's hut, a cave system, a beach, a lagoon, mountainous terrain, and ultimately a volcano.[^ref-13] Each location presents themed puzzles that must be solved to progress toward finding the elusive battery.
 
-Dr. Brain's flair for strange decorations extends throughout his island retreat, where players encounter visual puns and peculiar contraptions at every turn.[^ref-14] The mission becomes "a race against time" as players must solve increasingly complex puzzles while competing against the rival scientist who seeks to claim the battery first.[^ref-6] Along the way, players may even "find use for a bunch of pink flamingoes"—one of the game's more whimsical elements.[^ref-4]
+Dr. Brain's flair for strange decorations extends throughout his island retreat, where players encounter visual puns and peculiar contraptions at every turn.[^ref-14] The box copy describes the mission as "a race against time."[^ref-7] Along the way, players may even "find use for a bunch of pink flamingoes"—one of the game's more whimsical elements.[^ref-4]
 
-The game notably marks the first time Dr. Brain speaks directly to the player in the series, adding a more personal connection between the eccentric professor and the player character.[^ref-15] This narrative enhancement helped establish Dr. Brain as a more developed character compared to his predecessor appearance.
+The game includes "a little speech,"[^ref-6] and one MobyGames reviewer noted that "you get to hear Dr. Brain speak for the first time."[^ref-15]
 
 ## Gameplay
 
 ### Interface and Controls
 
-The Island of Dr. Brain utilizes Sierra's point-and-click adventure interface, combining educational puzzles with exploration mechanics.[^ref-2] Players navigate environments using mouse controls, with keyboard support also available.[^ref-16] The game employs a first-person and third-person mixed perspective, which was somewhat unusual for Sierra games of this era.[^ref-17] As one MobyGames player review notes, clicking on objects in the environment can bring them to life or "produce a witty response or even a joke."[^ref-18]
+The Island of Dr. Brain utilizes Sierra's point-and-click adventure interface, combining educational puzzles with exploration mechanics.[^ref-2] Players navigate environments using mouse controls, with keyboard support also available.[^ref-16] The game uses a first-person perspective,[^ref-16] following Castle of Dr. Brain, which replaced the third-person view and visible onscreen avatar of the typical Sierra adventure with a first-person viewpoint.[^ref-19] As one MobyGames player review notes, clicking on objects in the environment can bring them to life or "produce a witty response or even a joke."[^ref-15]
 
 ### Structure and Progression
 
@@ -72,9 +72,9 @@ Many puzzles are randomized, ensuring replay value as solutions change each time
 
 The game features puzzles spanning a remarkable variety of academic subjects. The Math Microscope puzzle, for example, requires players to segregate organisms by color using mathematical equations, with Dr. Brain believing "the best way to segregate organisms is by color."[^ref-13] The Sarcophagus puzzle involves completing number series using different mathematical patterns, while the classic Tower of Hanoi puzzle requires moving stone disks between poles following specific rules.[^ref-13]
 
-Three difficulty levels—Novice, Standard, and Expert—can be selected for individual puzzles, allowing players to adjust challenge levels at any time.[^ref-9] This flexibility made the game suitable for a wide range of ages and skill levels. The game also includes a puzzle coin system for hints, allowing players who are stuck to receive assistance at the cost of their accumulated coins.[^ref-19]
+Three difficulty levels—Novice, Standard, and Expert—change the content of the puzzles,[^ref-14] and the skill level is changeable during play.[^ref-7] This flexibility made the game suitable for a wide range of ages and skill levels. The game also includes a puzzle coin system for hints, allowing players who are stuck to receive assistance at the cost of their accumulated coins.[^ref-19]
 
-Educational content includes language and grammar puzzles, chemistry and genetics challenges, music theory exercises, art history identification, physics problems, logic sequences, navigation tasks, and literature references.[^ref-6] The game manual, titled the "EncycloAlmanacTionaryOgraphy," serves as both a reference book and copy protection mechanism, with a map and coordinate system used for game access.[^ref-16]
+Educational content includes language and grammar puzzles, chemistry and genetics challenges, music theory exercises, art history identification, physics problems, logic sequences, navigation tasks, and literature references.[^ref-6][^ref-7] The game manual, titled the "EncycloAlmanacTionaryOgraphy," serves as both a reference book and copy protection mechanism, with a map and coordinate system used for game access.[^ref-16]
 
 ## Reception
 
@@ -82,7 +82,7 @@ Educational content includes language and grammar puzzles, chemistry and genetic
 
 Computer Gaming World published a review by Charles Ardai in April 1993, where the reviewer stated that "the puzzles are more contrived and less fun" compared to the original Castle of Dr. Brain.[^ref-1] This assessment reflected a sentiment among some critics that the sequel, while competent, did not quite match the creative spark of its predecessor.
 
-Sierra's marketing emphasized that "we guarantee this game will entertain your child while he or she learns," positioning the game firmly in the educational market.[^ref-8] A Sierra Brand Manager noted that the puzzles "have legitimate academic content," defending the game's educational credentials.[^ref-8]
+Ardai also quoted the game's marketing claim: "We guarantee this game will entertain your child while he or she learns."[^ref-1] Sierra's brand manager for the Discovery Series had described the series as "more than just games. They have legitimate academic content."[^ref-19]
 
 ### Modern Assessment
 
@@ -93,8 +93,8 @@ User reviews on MobyGames vary significantly, with Macaroni Penguin declaring "t
 Home of the Underdogs (HOTUD) offered a more critical assessment: "This follow-up to the classic Castle of Dr. Brain sadly doesn't live up to its predecessor, mostly because the wonderful variety of educational puzzles in the original is reduced to a boring lot of language puzzles."[^ref-22]
 
 **Aggregate Scores:**
-- **MobyGames:** 78% (Critics)[^ref-16]
-- **AbandonwareDOS:** 3.73/5 (22 votes)[^ref-23]
+- **MobyGames:** 77% (Critics, 8 ratings)[^ref-16]
+- **AbandonwareDOS:** 3.83/5 (24 votes)[^ref-23]
 - **GameFAQs:** "Great" rating (33 ratings)[^ref-5]
 - **MyAbandonware:** 4.4/5[^ref-22]
 - **Amazon:** 4.8/5 (Customer Reviews, 2014-2021)[^ref-4]
@@ -105,7 +105,7 @@ Home of the Underdogs (HOTUD) offered a more critical assessment: "This follow-u
 
 The Dr. Brain series originated with Ken Williams' concept called "Mathemagical Mansion," which [[Corey Cole]] developed into Castle of Dr. Brain in 1991.[^ref-19] Cole, who was also responsible for the Quest for Glory series, created the first game as one of Sierra's earliest forays into educational gaming.[^ref-24] When Castle of Dr. Brain sold over 100,000 copies in its initial full-price release and another 150,000 copies as a budget re-release, a sequel was greenlit.[^ref-19]
 
-For The Island of Dr. Brain, Corey Cole was not involved with the project.[^ref-15] Instead, a new team led by designer Patrick Bridgemon took over development. As one reviewer noted, "the guys who worked on the game took the things that made the original great and then expanded on it."[^ref-15] This transition marked the beginning of the series moving away from its original creator's vision.
+For The Island of Dr. Brain, Corey Cole was not involved with the project.[^ref-15] Instead, a new team led by designer Patrick Bridgemon took over development. As one reviewer noted, "the guys who worked on the game took the things that made the original great and then expanded on it."[^ref-15]
 
 ### Production
 
@@ -118,41 +118,41 @@ Corey Cole later reflected on the challenges of puzzle design, recalling that wh
 - **Producer/Director:** Brett Miller
 - **Lead Programmer:** Todd Powers
 - **Composer:** Rob Atesalp
-- **Artists:** Bill Davis, Jerry Moore, Jennell Jaquays[^ref-26]
+- **Art Design:** Jon Bock[^ref-35]
+- **Senior Artist:** Dennis Lewis[^ref-35]
+- **Art and Animation:** Frances Anne Powell, Daryle Smith[^ref-35]
 
 ### Technical Achievements
 
-The Island of Dr. Brain utilized Sierra's Creative Interpreter (SCI) engine, specifically version SCI1.1.[^ref-10] The game featured 256-color VGA graphics, which was standard for Sierra's adventure games of this period.[^ref-27] The soundtrack was composed by Rob Atesalp and originally created using the Roland SC-55 sound module, taking advantage of General MIDI capabilities.[^ref-28]
+The Island of Dr. Brain utilized Sierra's Creative Interpreter (SCI) engine, specifically version SCI1.1.[^ref-10] It supports MCGA, EGA and VGA video modes.[^ref-10] The soundtrack was composed by Rob Atesalp; in 2020 Xeen Music released a recording of it played on a Roland SC-55.[^ref-28]
 
-The game was notable for not receiving a CD-ROM "talkie" version with voice acting, despite this becoming increasingly common for Sierra titles. As one reviewer lamented, "Sadly, like many of its products, the game was not released as a CD-ROM talkie, and that is too bad."[^ref-15] This meant players only experienced Dr. Brain's first spoken words through text rather than recorded audio.
+The game was notable for not receiving a CD-ROM "talkie" version with voice acting, despite this becoming increasingly common for Sierra titles. As one reviewer lamented, "Sadly, like many of its products, the game was not released as a CD-ROM talkie, and that is too bad."[^ref-15] The floppy release does still include "a little speech."[^ref-6]
 
 ### Technical Specifications
 
 **Floppy Version:**[^ref-10]
-- **Resolution:** VGA (256 colors), EGA, MCGA supported
-- **Audio:** AdLib, General MIDI, PC Speaker, Roland SC-55 support[^ref-28]
+- **Video modes:** MCGA, EGA, VGA
+- **Audio:** AdLib, General MIDI, PC Speaker[^ref-6]
 - **Memory:** 640 KB
-- **Operating System:** DOS 6.22
-- **Media:** 3.5" Floppy Disks
+- **Media:** Floppy disks[^ref-3]
 - **Input:** Mouse, Keyboard, Joystick[^ref-7]
 
 **System Requirements:**[^ref-10]
 - IBM PC Compatible
 - Video modes: MCGA, EGA, VGA
-- Turn-based pacing
 - Point-and-select controls
 - Single-player only
 
 ### Cut Content
 
-The soundtrack release by Xeen Music revealed that some musical content exists in alternate forms, including an "Opening - isolated pan flute intro (unused)" track and various tracks that exist both with and without sound effects.[^ref-28] These alternate versions suggest some audio was prepared but not implemented in the final game.
+The soundtrack release by Xeen Music revealed that some musical content exists in alternate forms, including an "Opening - isolated pan flute intro (unused)" track and various tracks that exist both with and without sound effects.[^ref-28]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | 1992 | MS-DOS | Initial release[^ref-1] |
-| Sierra Originals | 1995 | MS-DOS | Floppy version on CD, copy protection in manual[^ref-3] |
+| Sierra Originals | 1995 | MS-DOS | Floppy version on CD, copy protection in manual[^ref-3][^ref-6] |
 | Patch | 1992 | MS-DOS | Bug fix patch released (162.9 KB)[^ref-29] |
 
 **SCI Interpreter Version:**[^ref-10]
@@ -173,7 +173,7 @@ The Dr. Brain series is known for its hidden content and pop culture references:
 
 - **Interactive Objects:** Clicking on various objects throughout the game yields witty responses and hidden jokes[^ref-16]
 - **Visual Puns:** The whimsical landscape is filled with visual puns that reward thorough exploration[^ref-5]
-- **2001 Reference:** In the first game, solving the observatory puzzle causes The Monolith from 2001: A Space Odyssey to appear with the voice clip "My god, it's full of puzzles!"[^ref-20]
+- **2001 Reference:** In the first game, solving one observatory puzzle makes The Monolith from 2001: A Space Odyssey appear; separately, reaching Dr. Brain's laboratory plays a voice clip saying "My god, it's full of puzzles!"[^ref-20]
 - **Pink Flamingoes:** Players must find creative uses for a collection of pink flamingoes during their island adventure[^ref-4]
 
 The game manual's humorous title—"EncycloAlmanacTionaryOgraphy"—reflects the series' blend of education and whimsy.[^ref-16]
@@ -182,9 +182,9 @@ The game manual's humorous title—"EncycloAlmanacTionaryOgraphy"—reflects the
 
 ### Sales and Commercial Impact
 
-While exact sales figures for The Island of Dr. Brain specifically are not documented, the game did not perform quite as well commercially as its predecessor.[^ref-19] The combined sales of the Dr. Brain series surpassed 350,000 units by the end of March 1996, indicating solid overall franchise performance.[^ref-1]
+While exact sales figures for The Island of Dr. Brain specifically are not documented, the game did not perform quite as well commercially as its predecessor.[^ref-19] According to Sierra, combined sales of the Dr. Brain series surpassed 350,000 units by the end of March 1996.[^ref-8]
 
-The Island of Dr. Brain was the last entry in the series developed in-house by Sierra.[^ref-7] Following this game, Sierra acquired Bright Star Technology and turned the series over to them, which explains the significant change in direction from the second game to the third (The Lost Mind of Dr. Brain, 1995).[^ref-1]
+The Island of Dr. Brain was the last entry in the series developed in-house by Sierra.[^ref-7] Following this game, Sierra acquired Bright Star Technology and turned the series over to them, which explains the significant change in direction from the second game to the third (The Lost Mind of Dr. Brain, 1995).[^ref-8]
 
 ### Collections
 
@@ -203,9 +203,9 @@ The game remains playable through emulation via DOSBox and is supported by Scumm
 
 The Island of Dr. Brain occupies an interesting position in Sierra's catalog and the broader edutainment genre. Digital Antiquarian writer Jimmy Maher, discussing the series, noted: "I don't believe Corey Cole is capable of making a game that's less than thoroughly likable."[^ref-19] While Cole did not work on this sequel, the sentiment reflects the affection the series as a whole has earned.
 
-The game represents the peak of Sierra's in-house edutainment development before the genre was handed off to subsidiary studios. Its reception demonstrates the challenges of sequel development—while competent and educationally valuable, it struggled to match the freshness of the original. One home educator noted: "Had my kids play this as part of our homeschool curriculum. They found some of it tedious but they learned so much!"[^ref-22] This assessment encapsulates the game's legacy: effective as education, occasionally laborious as entertainment, but fondly remembered by those who grew up with it.
+Its reception demonstrates the challenges of sequel development—while competent and educationally valuable, it struggled to match the freshness of the original. One home educator noted: "Had my kids play this as part of our homeschool curriculum. They found some of it tedious but they learned so much!"[^ref-22] This assessment encapsulates the game's legacy: effective as education, occasionally laborious as entertainment, but fondly remembered by those who grew up with it.
 
-The series would continue under different developers, with Knowledge Adventure eventually acquiring the rights and recasting Dr. Brain as a "twenty-something genius instead of mad scientist in his sixties."[^ref-20] This evolution away from the original eccentric professor concept marks The Island of Dr. Brain as a bridge between the series' origins and its later incarnations.
+The series would continue under different developers, with Knowledge Adventure eventually acquiring the rights and recasting Dr. Brain as a "twenty-something genius instead of a mad scientist in his sixties."[^ref-20] This evolution away from the original eccentric professor concept marks The Island of Dr. Brain as a bridge between the series' origins and its later incarnations.
 
 ## Downloads
 
@@ -244,7 +244,7 @@ The series would continue under different developers, with Knowledge Adventure e
 [^ref-5]: [GameFAQs – The Island of Dr. Brain](https://gamefaqs.gamespot.com/pc/921797-the-island-of-dr-brain) – game description, user ratings, puzzle variety
 [^ref-6]: [NeverDieMedia – Product Listing](https://www.neverdiemedia.com/products/the-island-of-dr-brain) – academic subjects covered, game description
 [^ref-7]: [Collection Chamber – The Island of Dr. Brain](https://collectionchamber.blogspot.com/p/the-island-of-dr-brain.html) – tagline, technical specs, difficulty levels, series context
-[^ref-8]: [Wikipedia – Dr. Brain Series](https://en.wikipedia.org/wiki/Dr._Brain) – marketing quotes, brand manager statement, series sales
+[^ref-8]: [Wikipedia – Dr. Brain Series](https://en.wikipedia.org/wiki/Dr._Brain) – Bright Star hand-off, series sales
 [^ref-9]: [StrategyWiki – The Island of Dr. Brain](https://strategywiki.org/wiki/The_Island_of_Dr._Brain) – difficulty levels, age recommendation, development credits
 [^ref-10]: [PCGamingWiki – The Island of Dr. Brain](https://www.pcgamingwiki.com/wiki/The_Island_of_Dr._Brain) – engine version, technical specs, video modes
 [^ref-11]: [Internet Archive – Game Demo](https://archive.org/details/TheIslandOfDr.BrainDemo) – plot description from Wikipedia
@@ -252,21 +252,15 @@ The series would continue under different developers, with Knowledge Adventure e
 [^ref-14]: [StrategyWiki – Hut Walkthrough](https://strategywiki.org/wiki/The_Island_of_Dr._Brain/Hut) – location descriptions, puzzle types
 [^ref-15]: [MobyGames – User Review by Katakis](https://www.mobygames.com/game/1524/the-island-of-dr-brain/user-review/2426846/) – development history, first speaking Dr. Brain, CD-ROM comment
 [^ref-16]: [MobyGames – The Island of Dr. Brain](https://www.mobygames.com/game/1524/the-island-of-dr-brain/) – composer, technical specs, user reviews, manual title
-[^ref-17]: [Free Game Empire – Island of Dr. Brain](https://www.freegameempire.com/games/Island-of-Dr-Brain) – perspective, game type, Sierra history
-[^ref-18]: [MobyGames – The Island of Dr. Brain player review by Katakis](https://www.mobygames.com/game/1524/the-island-of-dr-brain/user-review/2426846/) – clickable objects with witty responses and jokes
 [^ref-19]: [The Digital Antiquarian – Dr. Brain](https://www.filfre.net/2018/02/dr-brain/) – Corey Cole quotes, sales figures, development insights
 [^ref-20]: [TV Tropes – Dr. Brain](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DrBrain) – edutainment assessment, easter eggs, Knowledge Adventure changes
-[^ref-21]: [GOG Dreamlist – The Island of Dr. Brain](https://www.gog.com/dreamlist/game/the-island-of-dr-brain) – fan quotes, continued interest
+[^ref-21]: [GOG Wishlist – The Island of Dr. Brain](https://www.gog.com/wishlist/games/the_island_of_dr_brain) – fan quotes, continued interest
 [^ref-22]: [MyAbandonware – The Island of Dr. Brain](https://www.myabandonware.com/game/the-island-of-dr-brain-1j6) – HOTUD review, user reviews, ratings
 [^ref-23]: [AbandonwareDOS – The Island of Dr. Brain](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Island+of+Dr.+Brain&gid=1256) – user rating, platform info
 [^ref-24]: [MobyGames – Castle of Dr. Brain](https://www.mobygames.com/game/1523/castle-of-dr-brain/) – Corey Cole designer credit, series origins
 [^ref-25]: [Sierra Gamers Forum – Product List](https://www.sierragamers.com/forums/topic/list-of-sierra-products/) – Oakhurst development location
-[^ref-26]: [BinaryValue – Sierra Big Boxes](https://binaryvalue.com/index.php/retro-stuff/software/sierra-big-boxes) – artist credits, Ken Allen credit
-[^ref-27]: [Dr. Brain Fandom Wiki](https://drbrain.fandom.com/wiki/The_Island_of_Dr._Brain) – composer, designer, version notes
 [^ref-28]: [Xeen Music – Island of Dr. Brain Soundtrack](https://xeenmusic.bandcamp.com/album/island-of-dr-brain-soundtrack-sc-55) – composer credits, Roland SC-55, recording details
 [^ref-29]: [Internet Archive – Patch File](https://archive.org/details/the-island-of-dr.-brain-patch-1992) – patch release information
 [^ref-30]: [VOGONS Forum – DOSBox Discussion](http://www.vogons.org/viewtopic.php?t=24340) – compatibility issues, user troubleshooting
 [^ref-31]: [Manuall – PC Manual](https://manuall.co.uk/pc-the-island-of-dr-brain/) – manual specifications
-[^ref-32]: [Internet Archive – Full Game](https://archive.org/details/msdos_Island_of_Dr._Brain_1992) – archive stats, MobyGames description
-[^ref-33]: [KHInsider – Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/the-island-of-dr.-brain) – soundtrack length, file count
-[^ref-34]: [Wikidata – Q11707605](https://www.wikidata.org/wiki/Q11707605) – platforms, distribution format, series classification
+[^ref-35]: [MobyGames – The Island of Dr. Brain DOS credits](https://www.mobygames.com/game/1524/the-island-of-dr-brain/credits/dos/) – art design, senior artist, art and animation credits
