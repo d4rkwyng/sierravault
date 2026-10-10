@@ -2,18 +2,17 @@
 title: 'Red Baron: Mission Builder'
 release_year: 1992
 developer: Dynamix, Inc.
-designer: [Christopher Shen, Damon Slye]
+designer: [Christopher Shen]
 publisher: Sierra On-Line
 genre: Flight Simulation
-platforms: [DOS, Windows]
+platforms: [DOS]
 series: Red Baron
-engine: 3Space
+engine: 3-Space
 protagonist: Player-created WWI pilot
 sierra_lineage: Sierra Label (Dynamix)
 last_updated: '2026-10-09'
-composer: [Cayanie Music]
-description: 'Red Baron: Mission Builder is an expansion pack for the critically acclaimed
-  World War I combat flight simulator Red Baron, developed by Dynamix and...'
+description: 'Red Baron: Mission Builder is a 1992 add-on for Dynamix''s World War I
+  flight simulator Red Baron that adds a custom mission editor, new planes and new aces.'
 tags: [1990s, dynamix, red-baron, sierra, simulation]
 ---
 # Red Baron: Mission Builder
@@ -22,222 +21,199 @@ tags: [1990s, dynamix, red-baron, sierra, simulation]
 
 ## Overview
 
-Red Baron: Mission Builder is an expansion pack for the critically acclaimed World War I combat flight simulator Red Baron, developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1992[^ref-2][^ref-22]. This add-on builds upon the original game's foundation by introducing a comprehensive mission creation tool, additional aircraft, and new historical aces to challenge[^ref-2]. As an expansion requiring the original Red Baron to play[^ref-3], Mission Builder extended the lifespan of what was already considered "arguably the best WWI flight sim ever made"[^ref-4].
+Red Baron: Mission Builder is an add-on for Dynamix's World War I combat flight simulator Red Baron, developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1992[^ref-2][^ref-22]. MobyGames summarises it in one line: it "adds a mission builder, new planes, and new aces to Red Baron"[^ref-2]. It is not a standalone game; you need the original Red Baron to play it[^ref-3]. The base game is described on MyAbandonware as "arguably the best WW1 flight sim ever made"[^ref-4].
 
-The expansion was developed to satisfy the dedicated community that had formed around Red Baron, which had become a landmark title in the flight simulation genre[^ref-5]. The original game, released in December 1990, had earned Computer Gaming World's Simulation of the Year award in 1991 and would later be inducted into the magazine's Hall of Fame in 1993[^ref-6]. Red Baron's commercial success, selling over 500,000 copies worldwide, established Dynamix as a premier developer of flight simulators[^ref-7], and the Mission Builder expansion capitalized on this success by giving players unprecedented control over their aerial combat scenarios.
+Red Baron itself, released in December 1990, won Computer Gaming World's Simulation of the Year award for 1991 and entered the magazine's Hall of Fame in 1993[^ref-6]. It sold more than 500,000 units worldwide[^ref-6]. Slye later said its success made Dynamix known as a developer of flight simulators[^ref-6].
 
-The Mission Builder tool allowed players to craft custom missions across the Western Front, selecting specific aircraft, weather conditions, objectives, and enemy configurations[^ref-2]. This level of customization was remarkable for its time and demonstrated [[Dynamix]]'s commitment to giving players agency over their gaming experience. The expansion became part of the broader Red Baron series, which was later included in Sierra's "Great Warplanes Series" alongside titles like Aces of the Pacific, Aces Over Europe, and Aces of the Deep—a series that collectively sold more than one million copies[^ref-8].
+The Mission Builder lets players build their own missions on the five Red Baron maps. They set the clouds, time of day and briefing text, place groups of aircraft, balloons or a Zeppelin, draw their flight paths, and give each group its orders[^ref-23]. Red Baron was the first game in Dynamix's "Great Warplanes Series" that Sierra published[^ref-6]. Sierra's 1996 Form 10-K reported that Red Baron, Aces of the Pacific, Aces Over Europe and Aces of the Deep, plus an anthology, had sold more than 1 million copies in the series[^ref-8].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-2]
-> **Designer:** Christopher Shen, [[Damon Slye]][^ref-2]
+> **Producer:** [[Damon Slye]][^ref-2]
+> **Designer:** Christopher Shen[^ref-2]
 > **Publisher:** [[Sierra On-Line]][^ref-2]
 > **Engine:** 3-Space[^ref-9]
-> **Platforms:** MS-DOS, Windows[^ref-10]
+> **Platforms:** MS-DOS[^ref-2]
 > **Release Year:** 1992
 > **Series:** Red Baron
 > **Protagonist:** Player-created WWI pilot
-> **Sierra Lineage:** Dynamix
+> **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Story Summary
 
-Red Baron: Mission Builder does not feature a standalone narrative, instead serving as a tool to extend the original Red Baron's campaign and mission structure[^ref-2]. The expansion operates within the same historical framework as the base game, covering World War I aerial combat on the Western Front from December 1915 to October 1918[^ref-6].
+Red Baron: Mission Builder has no story of its own. It is a mission editor and enhancement for Red Baron[^ref-23]. The base game's career mode puts the player in the German Air Service or the British Royal Flying Corps, from December 1915 to October 1918[^ref-6]. Missions made with the builder carry the creator's own briefing text, which the player reads before choosing a mission to fly[^ref-23].
 
-Players could continue experiencing the life of a WWI fighter pilot, choosing to fly for either the Allied or German forces[^ref-12]. The base game's campaign system, described as "flawlessly executed," followed pilots through the war with a persistent career that tracked promotions, victories, and personal challenges[^ref-4]. The Mission Builder extended this experience by allowing players to recreate historical encounters or imagine alternate scenarios involving the war's most famous aces.
+The add-on also adds new aces to the "Dogfight a Famous Ace" menu of Red Baron[^ref-23]. The Red Baron Pack store page on Steam opens with a quotation from a World War I pilot: "I can't say how much it hit me to be sitting up there, a couple of miles high, looking down on the battlefield, in fact, on four or five battlefields, and sweeping them all in one glorious bird's-eye view"[^ref-12].
 
-The expansion added new historical aces to the game's roster of opponents and allies[^ref-2]. These figures represented the legendary pilots of the Great War, men who had engaged in the dangerous new form of combat that transformed aerial warfare. As one World War I pilot quoted in the game's materials described: "I can't say how much it hit me to be sitting up there, a couple of miles high, looking down on the battlefield, in fact, on four or five battlefields, and sweeping them all in one glorious bird's-eye view"[^ref-12].
-
-The experience captured the brutal reality of WWI aviation, where "guns jammed (requiring you to hammer away on them), oil spurt from leaked lines, and survival required knowing when to run as well as knowing when to stay"[^ref-13]. This authenticity to the dangers and technical limitations of early aviation defined the Red Baron experience that Mission Builder sought to extend and enhance.
+One GOG user review of the Red Baron Pack recalls the base game's campaign this way: "Guns jammed (requiring you to hammer away on them), oil spurt from leaked lines, and survival required knowing when to run as well as knowing when to stay"[^ref-13].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Red Baron: Mission Builder maintained the same control scheme as the original game, supporting keyboard, mouse, and joystick inputs[^ref-2]. The game put players "in the pilot's seat of actual World War I fighter aircraft"[^ref-14], providing a first-person cockpit perspective that emphasized immersion and historical authenticity[^ref-4].
+The Mission Builder is an enhancement of the original Red Baron program, and its manual leaves basic flight controls to the Red Baron manual[^ref-23]. MobyGames lists keyboard, mouse and digital joystick support[^ref-24]. The editor uses a point-and-click interface. The manual recommends a mouse, but the joystick or keypad also work (Insert and Delete act as the two buttons)[^ref-23].
 
-The Mission Builder itself operated as a separate executable program that was installed alongside the main game files[^ref-10]. This allowed players to design missions outside of gameplay and then launch into their custom scenarios through the game's mission selection interface.
+In the original release, you reach the builder from inside Red Baron. From the Main Menu, choose "Fly Single Mission" and then "Build A Custom Mission". Finished missions are played from the same menu under "Fly A Custom Mission"[^ref-23]. The 1997 compilation *Red Baron with Mission Builder* is different. There, MobyGames notes, "the mission builder is not integrated into the menu of the main game, it is installed as a separate .exe file"[^ref-10].
 
 ### Structure and Progression
 
-The expansion offered several key additions to the base game experience:
+The add-on brings these additions to Red Baron[^ref-23]:
 
-- **Mission Builder Tool:** A comprehensive editor for creating custom combat scenarios[^ref-2]
-- **New Aircraft:** Additional WWI planes expanding the original game's roster of 28 aircraft[^ref-2]
-- **New Aces:** Historical enemy and allied pilots to encounter in missions[^ref-2]
-- **Custom Scenarios:** User-created missions could be shared and replayed
+- **Mission Builder:** Create, load, save, fly and delete custom missions. The builder can list up to 200 custom missions.
+- **New aircraft:** MobyGames lists the Fokker D.VIII, Halberstadt D.II, Nieuport 11, Nieuport 28 and Siemens-Schuckert D.III for the add-on[^ref-2]. The base game already has 28 aircraft[^ref-14].
+- **New aces:** These are added to the "Dogfight a Famous Ace" menu.
+- **Delete a pilot:** You can remove pilots from the career roster.
+- **Dual joystick and rudder support:** A second joystick or rudder pedals, toggled with ALT-J.
+- **Restart mission:** Replay a mission straight away, discarding the previous result.
+- **Throttle adjustment:** The + and - keys on the keyboard or keypad.
+- **Replay tapes:** Original Red Baron .VCR tapes still play, and new tapes use a .TAP extension. Tapes made with the Mission Builder can't be played in the original Red Baron.
 
-Players could utilize the Mission Builder to create scenarios ranging from simple one-on-one dogfights to complex multi-squadron engagements. The tool provided control over mission parameters including time of day, weather conditions, aircraft assignments, and objective types[^ref-2].
+The manual covers these mission settings[^ref-23]:
+
+- **Mission conditions:** The map is one of Red Baron's maps, each 80 miles on a side: London, Dunkirk, Verdun, Somme or Paris. You also set cloud altitude and cover from Clear to Overcast, the time of day, and the briefing text.
+- **Mission types:** The type follows from the player group's target. It can be Dogfight, Escort Bombers, Stop Bombers, Destroy a Zeppelin, Intercept a Zeppelin, Escort Reconnaissance, Balloon Defense, Balloon Busting or Patrol.
+- **Aircraft groups:** Each group is German or Allied and is made up of scouts, reconnaissance planes, bombers, balloons or a Zeppelin. A group holds up to four aircraft or balloons, and a mission can have only one Zeppelin. Aircraft groups can have up to eight path points, each with its own altitude.
+- **Orders:** Dogfight, Escort, Protect, Intercept, Destroy, Bomb, Patrol and Traverse.
+- **Pilots and ammunition:** Pilots can be Novice, Regular or Veteran, or a Famous Ace. Scouts carry regular or incendiary ammunition.
+- **Memory meter:** It warns when a mission uses too much conventional memory to run.
+
+The manual's tips point out that the player's home base sends up flares at night, dusk or dawn. Missions are easier to share if creators "compare the memory and speed of each machine" when trading files with friends[^ref-23].
 
 ### Puzzles and Mechanics
 
-As a combat flight simulation rather than a traditional adventure game, Red Baron: Mission Builder focused on realistic aerial combat mechanics rather than puzzles[^ref-6]. The gameplay emphasized:
+Red Baron: Mission Builder is a combat flight simulator, so it has no puzzles. The flying is the base game's. Wikipedia describes Red Baron's physics as "somewhat unrealistic", since it was meant as an entertainment game rather than a true flight simulator. Some aircraft do have their own handling quirks, such as the Sopwith Camel's gyroscopic effect from its rotary engine and the Albatros's upper wings shearing at high negative G[^ref-6].
 
-**Flight Model Authenticity:** The game featured a historically accurate flight model that [[Damon Slye]] designed to remain consistent from conception to final release[^ref-15]. Aircraft handled differently based on their real-world characteristics, with bi- and triplanes offering distinct flight experiences[^ref-13].
+**Combat hazards:** Pilots in the base game face gun jams, flak, engine damage, and the risk of bleeding to death if wounded and unable to land in time[^ref-6].
 
-**Combat Realism:** Players experienced the full challenges of WWI aviation including gun jams, engine failures, oil leaks, and structural damage[^ref-13]. Success required mastering both offensive tactics and knowing when retreat was the wiser choice.
-
-**Career Progression:** The campaign system tracked pilot careers across the war, with promotions and recognition based on combat performance[^ref-4]. The Mission Builder allowed players to set specific starting conditions including date of enlistment, rank, country, and squadron[^ref-16].
+**Career progression:** Red Baron's career mode tracks kills and promotes the player through ranks and medals. Wounded or captured pilots spend months out of action[^ref-6]. The Mission Builder adds the option to delete pilots from the roster and to restart a mission[^ref-23].
 
 ## Reception
 
-### Contemporary Reviews
+### Mission Builder
 
-Red Baron (the base game that Mission Builder expanded) received exceptional critical acclaim upon its original release. Computer Gaming World awarded it their prestigious "Simulation of the Year" for 1991[^ref-6]. The magazine would later induct Red Baron into their Hall of Fame in 1993 and ranked it fourth in their "150 Best Games of All Time" list in 1996[^ref-14].
+*Computer Gaming World* gave Red Baron: Mission Builder four stars in M. Evan Brooks's wargame surveys[^ref-6]. MobyGames lists a critics' average of 76% from 5 ratings and a Moby Score of 7.4[^ref-2].
 
-GameSpot declared the series "The best World War I simulation yet," awarding it a score of 9/10[^ref-12]. Dragon magazine gave the original game a perfect 5/5 rating[^ref-6]. Warren Spector called the game "An astonishing accomplishment"[^ref-7].
+### Base Game (Red Baron, 1990)
 
-The game was recognized internationally, with GameStar (Germany) listing it as #92 in their "100 Most Important PC Games of the Nineties" in 1999[^ref-14]. One reviewer described it as "a ground-breaking achievement in computer air combat simulation"[^ref-14].
+The following reception is for **Red Baron (1990)**, the base game, not the add-on. Computer Gaming World named it Simulation of the Year for 1991[^ref-6]. The magazine added it to its Hall of Fame in 1993 and ranked it fourth in its "150 Best Games of All Time" list in 1996[^ref-14]. Dragon magazine gave it 5 out of 5 stars[^ref-6]. Warren Spector, producer of Origin's WWI simulation *Wings of Glory*, called it "an astonishing accomplishment"[^ref-6]. GameStar (Germany) listed it at #92 in its "100 Most Important PC Games of the Nineties" in 1999[^ref-14]. A MobyGames player review called it "a ground-breaking achievement in computer air combat simulation"[^ref-14].
 
 ### Modern Assessment
 
-The Red Baron series, including Mission Builder, maintains a strong reputation among retro gaming communities. Modern digital distribution through GOG.com and Steam has introduced the game to new audiences, with GOG users rating the Red Baron Pack at 4.4 out of 5 stars based on 39 reviews[^ref-13].
+Today the add-on is sold as part of the Red Baron Pack on GOG.com and Steam. GOG users rate the pack 4.4 out of 5 from 39 reviews[^ref-13].
 
 **Aggregate Scores:**
-- **MobyGames (Red Baron):** 7.5/10[^ref-14]
-- **MobyGames (Mission Builder):** 76% critics score[^ref-2]
-- **MyAbandonware (Red Baron):** 4.76/5[^ref-4]
+- **MobyGames (Red Baron, base game):** 7.5/10[^ref-14]
+- **MobyGames (Mission Builder):** 7.4 Moby Score; 76% critics' average (5 ratings)[^ref-2]
+- **MyAbandonware (Red Baron, base game):** 4.76/5[^ref-4]
 - **MyAbandonware (Mission Builder):** 4.86/5[^ref-3]
 - **GOG.com (Red Baron Pack):** 4.4/5 (39 reviews)[^ref-13]
-- **Glitchwave:** 2.50/5[^ref-17]
-
-The disparity in modern scores reflects both nostalgic appreciation from simulation enthusiasts and the challenges contemporary players face with dated graphics and interface conventions. Nevertheless, the consensus remains that Red Baron represented a pinnacle of WWI flight simulation design.
+- **Glitchwave (Mission Builder):** 2.50/5, from a single user rating[^ref-17]
 
 ## Development
 
 ### Origins
 
-Red Baron: Mission Builder emerged from the tremendous success of the original Red Baron, which was developed during a pivotal period in [[Dynamix]]'s history. Sierra On-Line acquired Dynamix during Red Baron's development, providing additional resources and distribution capabilities[^ref-6]. Designer [[Damon Slye]] envisioned Red Baron as "a time machine. It transports the experience of being a pilot in world war one onto your PC today"[^ref-15].
+Red Baron was developed during a turning point for [[Dynamix]]: Sierra On-Line acquired the studio while the game was in development[^ref-6]. Designer [[Damon Slye]] has described Red Baron as "a time machine. By that I mean, it transports the experience of being a pilot in world war one onto your PC today"[^ref-15].
 
-The original game shipped on December 31, 1990, against the sales team's expectations that a late-year release would hurt performance[^ref-15]. Instead, Red Baron became Dynamix's breakthrough title, outperforming all competitors combined and establishing the studio's reputation in the flight simulation genre[^ref-15]. This success made an expansion pack an obvious choice for extending the product's lifespan.
+The original game shipped on December 31, 1990, after the sales force had warned that missing the earlier release window doomed it. "We outsold all the competitors combined by a wide margin," Slye recalled[^ref-15].
 
 ### Production
 
-The Mission Builder expansion was designed by Christopher Shen, building upon the foundation that [[Damon Slye]] had established with the original game[^ref-2]. Development utilized Dynamix's 3-Space engine, which had proven capable of rendering the Western Front battlefields and period-accurate aircraft with impressive detail for the era[^ref-9].
+On the Mission Builder, Damon Slye is credited as producer and Christopher Shen as designer. The programmers were Steve VanDevender and Joseph Wingard, and Mark Peasley was art director. Historical research was by John Bruning Sr. and Dennis A. Kilgore[^ref-25]. The add-on runs on Dynamix's 3-Space engine[^ref-9].
 
-The expansion released on September 11, 1992, for IBM PC[^ref-9]. It was distributed on 3.5" floppy disks[^ref-18] and required owners to have the original Red Baron installed to function[^ref-3]. The German version was among the localized releases, distributed on 720KB 3.5" DD floppy disks[^ref-18].
+It was released on September 11, 1992, for IBM PC[^ref-9]. It came on 3.5" floppy disks[^ref-24] and requires the original Red Baron to run[^ref-3]. A German release came on a 720 KB 3.5" DD floppy disk[^ref-18].
 
-**Development Credits:**[^ref-2][^ref-14]
+**Development Credits:**[^ref-25]
+- **Producer:** [[Damon Slye]]
 - **Designer:** Christopher Shen
-- **Lead Designer:** [[Damon Slye]]
+- **Programming:** Steve VanDevender, Joseph Wingard
+- **Art Director:** Mark Peasley
+- **Artist:** Jarrett Jester
+- **3D Graphical Artist:** Damon Mitchell
+- **Historical Research:** John Bruning Sr., Dennis A. Kilgore
 - **Developer:** Dynamix, Inc.
 - **Publisher:** Sierra On-Line, Inc.
-- **Music:** Cayanie Music
 
 ### Technical Achievements
 
-The 3-Space engine powering Red Baron and its Mission Builder expansion represented significant technical accomplishment for 1990-1992 era PC gaming[^ref-9]. The engine rendered the Western Front with textured terrain spanning substantial distances, allowing for the kind of sweeping aerial views that real WWI pilots experienced[^ref-16].
-
-The game's damage modeling was particularly praised for its realism. Aircraft could suffer partial damage affecting specific systems—guns could jam, engines could fail, oil lines could leak, and structural integrity could be compromised by enemy fire or overstressing during maneuvers[^ref-13]. This level of simulation detail was unusual for the era and contributed significantly to the game's critical acclaim.
+The Mission Builder runs inside Red Baron's 3-Space engine[^ref-9]. Its manual warns that conventional memory is the main constraint. A built-in memory meter shows "Too Much!" when a mission will not run, whatever extra memory the machine has. The manual also notes that London uses the least conventional memory of the five maps[^ref-23]. According to the manual, frame rate depends partly on how many objects are in the air at once[^ref-23].
 
 ### Technical Specifications
 
-**DOS Version:**[^ref-19]
-- **Operating System:** MS-DOS 5.0 or greater
-- **Processor:** 286 or better
-- **Memory:** 640KB RAM
-- **Hard Drive Space:** 19 MB
-- **CD-ROM:** 2x speed (for CD versions)
+**DOS Version:**[^ref-24]
+- **Processor:** Intel 80286 or better
+- **Memory:** 640 KB RAM
+- **Media:** 3.5" floppy disk
+- **Video:** VGA
+- **Audio:** AdLib, Roland MT-32 (and LAPC-I), Sound Blaster, Thunderboard
+- **Input:** Keyboard, mouse, digital joystick
+- **Players:** 1
 
-**Video Support:**[^ref-19]
-- CGA
-- EGA
-- MCGA 4-color
-- Tandy / PCjr
-- VGA
-
-**Audio Support:**[^ref-19]
-- AdLib
-- PC Speaker
-- Pro Audio Spectrum
-- PS/1 Audio Card
-- Roland MT-32 (and LAPC-I)
-- Sound Blaster
-- Tandy DAC (TL/SL)
-- Tandy / PCjr
-- Thunderboard
-
-**Input Devices:**[^ref-19]
-- Joystick
-- Keyboard
-- Mouse
-
-**Windows Version (1997 Re-release):**[^ref-13]
-- **Minimum OS:** Windows XP, Vista, 7, 8, 10
-- **Processor:** 1 GHz
-- **Memory:** 256 MB RAM (512 MB recommended)
-- **Graphics:** 3D graphics card compatible with DirectX 7
-- **Storage:** 253 MB (up to 1 GB for full pack)
+The Red Baron Pack sold today on GOG.com lists these minimum requirements: Windows XP or Vista, a 1 GHz processor, 256 MB RAM, and a 3D graphics card compatible with DirectX 7. The pack also contains Red Baron 3D[^ref-13].
 
 ### Cut Content
 
-No significant cut content has been documented for the Mission Builder expansion specifically. The base game's design remained "very consistent from conception to release" according to [[Damon Slye]][^ref-15], suggesting a focused development process without major feature removals.
+No cut content has been documented for the Mission Builder. On the base game, Slye told Rock Paper Shotgun: "Classic Red Baron was the cleanest design I've done. The final product was pretty much a straight manifestation of that design"[^ref-15].
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | September 11, 1992 | IBM PC/DOS | Initial release[^ref-9] |
-| German Release | 1992 | IBM PC/DOS | Localized version on 720KB floppy[^ref-18] |
-| Red Baron with Mission Builder | 1997 | DOS/Windows | Bundled re-release[^ref-10] |
-| 16-color Free Version | February 10, 1997 | DOS | Released as freeware download[^ref-6] |
-| Red Baron Pack | 1998 | Windows | Compilation including Red Baron, Mission Builder, and Red Baron 3D preview[^ref-10] |
-| GOG.com Release | 2016 | Windows (DOSBox) | Digital distribution with DOSBox wrapper[^ref-13] |
-| Steam Release | January 7, 2016 | Windows | Digital distribution by Mad Otter Games[^ref-12] |
+| Original release | September 11, 1992 | IBM PC/DOS | Initial release[^ref-9] |
+| German release | 1992 | IBM PC/DOS | Localized version on 720 KB floppy[^ref-18] |
+| Aces: Collection Series | 1997 | — | Compilation that includes Mission Builder[^ref-2] |
+| Red Baron with Mission Builder | 1997 | DOS/Windows | CD bundle of Red Baron and Mission Builder, with an AVI preview of Red Baron II[^ref-10] |
+| Red Baron Pack | 2009 | Windows | Compilation of Red Baron, Mission Builder and Red Baron 3D[^ref-10][^ref-13] |
 
 ### Technical Issues
 
-The 1997 combined "Red Baron with Mission Builder" release had documented installation issues under Windows, with MobyGames users recommending running the game under pure DOS if Windows installation encountered problems[^ref-10]. The Mission Builder component installed as a separate executable file, which occasionally caused configuration difficulties[^ref-10].
+The 1997 *Red Baron with Mission Builder* CD installs the DOS game under Windows. MobyGames notes "the advice to run under DOS if there are any problems"[^ref-10]. In that release the Mission Builder installs as a separate .exe rather than being reached from the main game's menu[^ref-10].
 
-Modern players using DOSBox-based versions (GOG, Steam) generally experience improved compatibility, though the dated graphics and control schemes can present accessibility challenges for those unfamiliar with early 1990s PC gaming conventions[^ref-13].
+The GOG.com Red Baron Pack runs on DOSBox[^ref-13].
 
 ### Easter Eggs and Trivia
 
-The Sierra Chest fan database notes that no Easter eggs have been documented for Red Baron: Mission Builder specifically[^ref-9]. However, the base game included various historical details and authentic touches that simulation enthusiasts appreciated:
+The Sierra Chest fan database lists no Easter eggs for Red Baron: Mission Builder[^ref-9]. Notes on the base game:
 
-- The game featured 28 different WWI aircraft from both Allied and German sides[^ref-4]
-- A multiplayer version was available through The Sierra Network (later ImagiNation Network)[^ref-6]
-- Sierra released the 16-color version as freeware in 1997, making the classic simulation freely available to the public[^ref-4]
-- The 256-color enhanced version was offered as a free upgrade to original game owners[^ref-14]
+- Red Baron features 28 aircraft from both the Allied and German sides[^ref-4]
+- A multiplayer version was available on The Sierra Network[^ref-6]
+- Sierra released the 16-color version of Red Baron as freeware in 1997[^ref-4][^ref-6]
+- Owners of the 16-color version could send away for the 256-color version[^ref-14]
+- The Mission Builder manual's tips warn against setting missions higher than 20,000 feet, "since the pilot is likely to black out"[^ref-23]
 
 ## Voice Cast
 
-Red Baron: Mission Builder does not feature voice acting, as was typical for simulation games of the early 1990s era. Audio consisted of engine sounds, gunfire, and period-appropriate music provided by Cayanie Music[^ref-14].
+Red Baron: Mission Builder has no voice cast. MobyGames' credits for the add-on list no voice or music roles[^ref-25].
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-The original Red Baron sold over 500,000 copies worldwide[^ref-7], a remarkable figure that established Dynamix's reputation in the simulation genre. "Red Baron's success made Dynamix become known as a developer of flight simulators," [[Damon Slye]] later reflected[^ref-7]. The game was noted for having "outsold all competitors combined"[^ref-15].
+No sales figures for the Mission Builder itself have been found. The base game sold more than 500,000 units worldwide, and Slye later said its success made Dynamix known as a developer of flight simulators[^ref-6]. Slye recalled that Red Baron "outsold all the competitors combined by a wide margin"[^ref-15].
 
-The broader "Great Warplanes Series" that included Red Baron, Mission Builder, Aces of the Pacific, Aces Over Europe, and Aces of the Deep collectively sold more than one million copies according to Sierra On-Line's 1996 SEC filing[^ref-8]. This made the flight simulation line one of Sierra's most commercially successful franchises.
+Sierra's 1996 Form 10-K reported that its four Aces-series products (Red Baron, Aces of the Pacific, Aces Over Europe and Aces of the Deep), plus an anthology, "sold more than 1 million copies in this series"[^ref-8].
 
 ### Collections
 
-Red Baron: Mission Builder appeared in several compilation releases:
+Red Baron: Mission Builder appears in these compilations:
 
-- **Red Baron with Mission Builder (1997):** DOS/Windows bundled release combining the original game with the expansion[^ref-10]
-- **Red Baron Pack (1997-1998):** Comprehensive package including Red Baron (1990), Red Baron: Mission Builder, and an AVI video preview of Red Baron II[^ref-10]
-- **GOG.com Red Baron Pack:** Modern digital distribution including all classic versions with DOSBox compatibility[^ref-13]
-- **Steam Red Baron Pack:** Similar compilation released January 7, 2016 by Mad Otter Games[^ref-12]
+- **Aces: Collection Series (1997)**[^ref-2]
+- **Red Baron with Mission Builder (1997):** A DOS/Windows CD of Red Baron and Mission Builder, with an AVI video of the then-forthcoming Red Baron II[^ref-10]
+- **Red Baron Pack (MobyGames: 2009):** Red Baron, Red Baron: Mission Builder and Red Baron 3D[^ref-10][^ref-13]. It is sold on GOG.com, where it runs on DOSBox[^ref-13], and on Steam, published by Mad Otter Games[^ref-12]
 
-### Fan Projects
+### Later Projects
 
-In 2013, Mad Otter Games, a studio connected to [[Damon Slye]], launched a Kickstarter campaign to develop a new Red Baron game[^ref-21]. The campaign ran from October 22 to November 22, 2013, aiming to create a modern successor to the beloved simulation[^ref-21]. The new version was planned to feature separate "Normal" and "Historical" battle arenas, allowing players to choose their preferred level of authenticity[^ref-15].
-
-The Red Baron community maintained interest in the classic games through various preservation efforts, with the titles appearing on Internet Archive[^ref-18] and abandonware sites[^ref-3] to ensure continued accessibility.
+In 2013, Mad Otter Games, where [[Damon Slye]] was then working, launched a Kickstarter campaign for a new Red Baron game[^ref-15][^ref-21]. The campaign ran from October 22 to November 22, 2013[^ref-21]. Slye told Rock Paper Shotgun that the new game would have separate "Normal" and "Historical" battle arenas[^ref-15].
 
 ### Related Publications
 
-- **Red Baron Game Manual:** Included with original game, providing detailed aircraft specifications and historical background[^ref-5]
-- **Red Baron 3D Manual:** Documentation for the later 3D sequel, archived alongside original materials[^ref-5]
+- **Red Baron Mission Builder manual:** Covers the new features, mission conditions, aircraft groups, navigation, group assignments and tips[^ref-23]
+- **Red Baron Game Manual:** Included with the original game[^ref-5]
+- **Red Baron 3D Manual:** Documentation for the later 3D sequel, archived in the same collection[^ref-5]
 
 ### Critical Perspective
 
-Red Baron and its Mission Builder expansion represent a high-water mark for World War I flight simulation, a subgenre that has always occupied a niche position in gaming. The game succeeded where others failed by combining historical authenticity with accessible gameplay, creating what many consider the definitive WWI aviation experience[^ref-4].
-
-The critical acclaim—Computer Gaming World's Hall of Fame, multiple "Best Simulation" awards, and enduring placement on "greatest games" lists[^ref-14]—reflects genuine innovation rather than mere nostalgia. By focusing on the unique challenges of early aviation—fragile aircraft, unreliable weapons, and the visceral danger of open-cockpit combat—[[Damon Slye]] and the Dynamix team created something that transcended typical combat simulation conventions.
-
-The Mission Builder expansion demonstrated forward-thinking design philosophy, recognizing that giving players creative tools extended a game's value far beyond its initial content. This approach would become standard practice in later decades but was relatively unusual for 1992. The expansion's inclusion in multiple compilation releases over the following decades speaks to its enduring value within the Red Baron package.
+Mission Builder made one change to Red Baron that mattered more than any other: players could build their own missions, rather than flying only the scenarios Dynamix wrote. The manual's tips on trading mission files with friends show that sharing was expected[^ref-23]. Its own reviews were good rather than great. CGW gave it four stars, while the base game earned five[^ref-6], and MobyGames' critic average is 76%[^ref-2]. It has stayed in print because it travels with Red Baron. It was bundled in 1997 and again in the Red Baron Pack sold on GOG and Steam[^ref-10][^ref-12][^ref-13].
 
 ## Downloads
 
@@ -248,6 +224,7 @@ The Mission Builder expansion demonstrated forward-thinking design philosophy, r
 **Download / Preservation**
 
 **Manuals & Extras**
+- [Internet Archive – Red Baron Mission Builder manual (text)](https://archive.org/download/red_baron1_manual/rb_mb_manual_djvu.txt)
 - [Internet Archive – Red Baron Manual Collection](https://archive.org/details/red_baron1_manual/rb3d_manual)
 
 ## See Also
@@ -266,18 +243,18 @@ The Mission Builder expansion demonstrated forward-thinking design philosophy, r
 [^ref-3]: MyAbandonware – Red Baron: Mission Builder *(download link removed: the game is sold commercially)* – expansion requirement, rating, regions
 [^ref-4]: MyAbandonware – Red Baron *(download link removed: the game is sold commercially)* – reviews, campaign system, freeware release
 [^ref-5]: [Internet Archive – Red Baron Manual Collection](https://archive.org/details/red_baron1_manual/rb3d_manual) – developer, documentation
-[^ref-6]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – release dates, awards, platforms, historical coverage
-[^ref-7]: [Wikipedia – Red Baron: Mission Builder](https://en.wikipedia.org/wiki/Red_Baron%3A_Mission_Builder) – sales data, Damon Slye quote, Warren Spector quote
+[^ref-6]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – awards, CGW four-star Mission Builder rating, 500,000 sales, Slye paraphrase, Spector quote, physics
 [^ref-8]: [SEC.gov – Sierra On-Line Form 10-K (1996)](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – series sales data, flight simulation series details
 [^ref-9]: [Sierra Chest – Red Baron: Mission Builder (Easter Eggs)](https://sierrachest.com/index.php?a=games&id=382&title=red-baron-mission-builder&fld=eggs) – Easter egg documentation
-[^ref-10]: [MobyGames – Red Baron with Mission Builder](https://www.mobygames.com/game/18467/red-baron-with-mission-builder/) – 1997 release, installation notes, package contents
-[^ref-12]: [Steam – Red Baron Pack](https://store.steampowered.com/app/263940/Red_Baron_Pack/) – gameplay features, aircraft count
-[^ref-13]: [GOG.com – Red Baron Pack](https://www.gog.com/en/game/red_baron_pack) – user reviews, technical specs, gameplay description
+[^ref-10]: [MobyGames – Red Baron with Mission Builder](https://www.mobygames.com/game/18467/red-baron-with-mission-builder/) – 1997 compilation contents, installation notes, separate .exe; Red Baron Pack dated 2009
+[^ref-12]: [Steam – Red Baron Pack](https://store.steampowered.com/app/263940/Red_Baron_Pack/) – pack contents (Red Baron, Red Baron 3D, Mission Builder), WWI pilot quote, publisher
+[^ref-13]: [GOG.com – Red Baron Pack](https://www.gog.com/en/game/red_baron_pack) – user rating and reviews, pack contents, DOSBox, system requirements
 [^ref-14]: [MobyGames – Red Baron (1990)](https://www.mobygames.com/game/1766/red-baron/) – awards, credits, ratings, version history
 [^ref-15]: [Rock Paper Shotgun – The Flare Path: Slye and the Familiar Stone](https://www.rockpapershotgun.com/2013/10/25/the-flare-path-slye-and-the-familiar-stone/) – Damon Slye interview, development history
-[^ref-16]: [Internet Archive – Sierra Press Release (Red Baron II)](https://web.archive.org/web/20010110043600/http://www.sierra.com/corp/pr/press/3c1a4/1,1891,3c1a4,00.html?brandid=6&prid=60&productid=288) – sales data, technical features, configuration options
 [^ref-17]: [Glitchwave – Red Baron Franchise](https://glitchwave.com/franchise/red-baron/) – user rating
 [^ref-18]: Internet Archive – Red Baron Mission Builder (German) *(download link removed: the game is sold commercially)* – media type, platform, genre
-[^ref-19]: [Sierra Classic Gaming – Red Baron Mission Builder (archived)](https://web.archive.org/web/20260310124014/https://sierraclassicgaming.com/game/red-baron-mission-builder/) – complete technical specifications
 [^ref-21]: [Kickstarter – Red Baron by Mad Otter Games](http://www.kickstarter.com/projects/madottergames/red-baron) – campaign dates, developer
 [^ref-22]: [Sierra Chest – Red Baron: Mission Builder](https://sierrachest.com/index.php?a=games&id=382&title=red-baron-mission-builder&fld=general) – engine, release date, series information
+[^ref-23]: [Internet Archive – Red Baron Mission Builder manual (OCR text)](https://archive.org/download/red_baron1_manual/rb_mb_manual_djvu.txt) – new features, mission conditions, groups, orders, limits, tips
+[^ref-24]: [MobyGames – Red Baron: Mission Builder tech specs](https://www.mobygames.com/game/2722/red-baron-mission-builder/specs/) – CPU, RAM, media, video, sound, input
+[^ref-25]: [MobyGames – Red Baron: Mission Builder DOS credits](https://www.mobygames.com/game/2722/red-baron-mission-builder/credits/dos/) – full credits list
