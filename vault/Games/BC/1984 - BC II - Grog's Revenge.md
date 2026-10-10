@@ -291,11 +291,11 @@ From a design perspective, "In comparison to its forerunner Grog's Revenge disti
 
 
 
-[^ref-1]: [DBpedia – B.C. II: Grog's Revenge](https://dbpedia.org/page/B.C._II:_Grog's_Revenge) – publishers, developers, platforms, Canadian development origin
+[^ref-1]: [DBpedia – B.C. II: Grog's Revenge](https://dbpedia.org/page/B.C._II:_Grog%27s_Revenge) – publishers, developers, platforms, Canadian development origin
 
 [^ref-2]: [MobyGames – B.C. II: Grog's Revenge](https://www.mobygames.com/game/10328/bc-ii-grogs-revenge/) – release dates, credits, ratings, awards for predecessor, Dougie Burns quote
 
-[^ref-3]: [C64-Wiki – B.C. II: Grog's Revenge](https://www.c64-wiki.com/wiki/B.C._II_-_Grog's_Revenge) – ratings, color scheme, warp tunnels, community quotes, comic origins
+[^ref-3]: [C64-Wiki – B.C. II: Grog's Revenge](https://www.c64-wiki.com/wiki/B.C._II_-_Grog%27s_Revenge) – ratings, color scheme, warp tunnels, community quotes, comic origins
 
 [^ref-4]: [ClassicReload – B.C. II: Grog's Revenge](https://classicreload.com/c64-bc-ii-grogs-revenge.html) – story summary, clam collection mechanics, platforms
 

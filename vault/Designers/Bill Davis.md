@@ -135,7 +135,7 @@ The visual quality improvements visible in Sierra's games from 1990 onwards refl
 
 [^ref-1]: [MobyGames - Bill Davis](https://www.mobygames.com/person/40190/bill-davis/) — Career profile and game credits
 [^ref-2]: [Wikipedia - Bill Davis (artist)](https://en.wikipedia.org/wiki/Bill_Davis_(artist))) — Biography and Sierra career
-[^ref-3]: [Emmy Award Database](https://www.emmys.com/) — 1978 Outstanding Achievement in Graphic Design
+[^ref-3]: [Wikipedia — Primetime Emmy Award for Outstanding Title Design](https://en.wikipedia.org/wiki/Primetime_Emmy_Award_for_Outstanding_Title_Design) — 1978 (30th): "NBC: The First Fifty Years - A Closer Look — Bill Davis, graphic designer, NBC"
 [^ref-4]: [Sierra Sun Times - Sierra Art Trails Featured Artist: Trowzers Akimbo](https://goldrushcam.com/sierrasuntimes/index.php/news/advertising-specials/1009-sierra-art-trails-featured-artist-trowzers-akimbo) — The Gong Show logo design and Tonight Show work
 [^ref-5]: [Business Wire - Rocket Science Games on New Trajectory with Strong Studio Team](http://findarticles.com/p/articles/mi_m0EIN/is_1996_Feb_13/ai_17991583) — February 1996 hiring announcement
 [^ref-6]: [Boards Magazine - Davis Births Mother](https://web.archive.org/web/20110708075043/http://www.boardsmag.com/articles/magazine/20010901/davis.html) — Mother Productions founding

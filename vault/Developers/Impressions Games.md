@@ -103,7 +103,7 @@ Many former Impressions Games employees went on to found or join other notable g
 ## References
 
 [^ref-1]: [DOS Games Archive](https://www.dosgamesarchive.com/profile/impressions-games/) — Company profile and game listings
-[^ref-2]: [Games Nostalgia](https://gamesnostalgia.com/games/developer/impressions) — Developer overview and game catalog
+[^ref-2]: [Games Nostalgia](https://gamesnostalgia.net/games/company/impressions) — Developer overview and game catalog
 [^ref-3]: [Gamicus Wiki](https://gamicus.fandom.com/wiki/Impressions_Games) — Company history and notable games
 [^ref-4]: [IGN](https://www.ign.com/games/producer/impressions-games) — Game producer information and reviews
 [^ref-5]: [Reddit Impressions Games](https://www.reddit.com/r/impressionsgames/) — Community discussions and legacy
@@ -116,7 +116,7 @@ Many former Impressions Games employees went on to found or join other notable g
 [^ref-12]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Company:Impressions_Games) — Technical information and game compatibility
 [^ref-13]: [ModDB](https://www.moddb.com/company/impressions-games) — Modding community and game support
 [^ref-14]: [Giant Bomb](https://www.giantbomb.com/impressions-games/3010-413/) — Developer database and game information
-[^ref-15]: [Games Nostalgia Sierra](https://gamesnostalgia.com/games/publisher/Sierra+On-Line) — Sierra publishing relationship
+[^ref-15]: [Games Nostalgia Sierra](https://gamesnostalgia.net/games/company/sierra-on-line) — Sierra publishing relationship
 [^ref-16]: [Game Pressure](https://www.gamepressure.com/companies/impressions-games/zb5cc) — Company profile and game reviews
 [^ref-17]: [Wikipedia](https://en.wikipedia.org/wiki/Impressions_Games) — Comprehensive company history and timeline
 [^ref-18]: [GG Deals](https://gg.deals/games/developed-by-impressions-games/) — Modern availability and pricing information

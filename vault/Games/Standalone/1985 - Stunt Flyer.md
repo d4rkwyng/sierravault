@@ -75,8 +75,8 @@ Contemporary reception to Stunt Flyer acknowledged its technical ambition while 
 Modern retrospective assessment has been mixed. On Lemon64, reviewer Frightmare awarded the game a score of 6 out of 10 in March 2025[^ref-2]. The review noted frustration with the control scheme but appreciation for certain features: "I hadn't the patience to master the controls, but I must admit that watching the replay of the flight is pretty entertaining and probably the best part of the game"[^ref-4]. The same reviewer acknowledged the development team's efforts at realism, stating that "the flight dynamics have been studied thoroughly by the coder and its team in order to offer a realistic simulation"[^ref-4].
 
 **Aggregate Scores:**
-- **Lemon64:** 6/10 (1 review)[^ref-2][^ref-11]
-- **C64-Wiki:** Listed in Commodore 64 game database[^ref-11]
+- **Lemon64:** 6/10 (1 review)[^ref-2]
+- **LaunchBox Games Database:** Listed as a Commodore 64 title[^ref-11]
 
 ## Development
 
@@ -224,7 +224,7 @@ However, this commitment to realism came at the cost of accessibility. The steep
 [^ref-8]: Wikidata – Stunt Flyer *(link removed: it led to a different game's page)* – structured data, identifiers
 [^ref-9]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
 [^ref-10]: [The Sierra Chest – Stunt Flyer](https://sierrachest.com/index.php?a=games&id=359&fld=general) – Sierra game database entry
-[^ref-11]: [C64-Wiki – Stunt Flyer](https://www.c64-wiki.com/wiki/Stunt_Flyer) – Commodore 64 game database
+[^ref-11]: [LaunchBox Games Database – Stunt Flyer](https://gamesdb.launchbox-app.com/games/details/123385-stunt-flyer) – Commodore 64 game database entry
 [^ref-12]: [Wikipedia – Pitts Special](https://en.wikipedia.org/wiki/Pitts_Special) – aircraft featured in the game
 [^ref-13]: [PixelatedArcade – Stunt Flyer](https://pixelatedarcade.com/games/stunt-flyer) – game overview and technical information
 [^ref-14]: [The Sierra Chest – Stunt Flyer](https://sierrachest.com/shop/index.php?a=games&id=359&fld=general) – Sierra game database entry and release information

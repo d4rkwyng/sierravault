@@ -143,7 +143,7 @@ The guide features eleven sections covering different story aspects with develop
 - [GOG.com](https://www.gog.com/en/game/homeworld_deserts_of_kharak)
 
 **Official Resources**
-- [Official Game Website](https://www.desertsofkharak.com/)
+- [Official Game Website](https://2k.com/games/homeworld/deserts-of-kharak/)
 - [Homeworld Universe](https://www.homeworlduniverse.com/)
 
 ## See Also
@@ -202,7 +202,7 @@ The guide features eleven sections covering different story aspects with develop
 [^ref-52]: [Unity Made With](https://web.archive.org/web/20160207030650/http://madewith.unity.com/stories/blackbirds-epic-road-trip) – Development history and challenges
 [^ref-54]: [Web Archive - Gearbox Announcement](https://web.archive.org/web/20130425123456/http://www.gearboxsoftware.com/community/articles/1037) – Brian Martel preservation priority
 [^ref-56]: [Gearbox Software Pre-order](https://www.gearboxsoftware.com/2015/12/homeworld-deserts-of-kharak-announced/) – Pre-order bonus
-[^ref-57]: [GOGDB - Languages](https://www.gogdb.org/product/1461763013) – Supported language list
+[^ref-57]: [GOGDB - Languages](https://www.gogdb.org/product/2115713947) – Supported language list
 [^ref-59]: [Speedrun.com](https://www.speedrun.com/homeworld_deserts_of_kharak) – Speedrun statistics
 [^ref-61]: Steam Reviews - Expedition Guide *(link removed: it led to a different game's page)* – Manual comparison praise
 [^ref-62]: [Fists of Heaven - Expedition Guide Review](https://www.fistsofheaven.com/homeworld-deserts-of-kharak-expedition-guide-review/) – Guide content overview

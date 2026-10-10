@@ -223,7 +223,6 @@ From a modern perspective, the game deserves recognition as a pioneer in competi
 
 **Download / Preservation**
 - [Internet Archive – Full Game](https://archive.org/details/msdos_Metaltech_Battledrome_1994)[^ref-23]
-- [Internet Archive – USA CD-ROM](https://archive.org/details/metaltech-battledrome-usa)[^ref-24]
 - [MyAbandonware](https://www.myabandonware.com/game/metaltech-battledrome-2wd)[^ref-12]
 - [DOS Games Archive – Demo](https://www.dosgamesarchive.com/download/metaltech-battledrome)[^ref-25]
 - [ClassicReload – Browser Play](https://classicreload.com/metaltech-battledrome.html)[^ref-16]
@@ -270,5 +269,4 @@ From a modern perspective, the game deserves recognition as a pioneer in competi
 [^ref-21]: [MobyGames – Release Information](https://www.mobygames.com/game/1401/metaltech-battledrome/releases/dos/) – regional release dates, CD-ROM version
 [^ref-22]: [IGN – PC Cheats](https://www.ign.com/wikis/pc-cheats/Metaltech:_Battledrome_Cheats) – asterisk name cheat
 [^ref-23]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Metaltech_Battledrome_1994) – preservation, recommended hardware
-[^ref-24]: [Internet Archive – USA CD-ROM](https://archive.org/details/metaltech-battledrome-usa) – CD-ROM media confirmation
 [^ref-25]: [DOS Games Archive – Demo Download](https://www.dosgamesarchive.com/download/metaltech-battledrome) – demo details, executable information

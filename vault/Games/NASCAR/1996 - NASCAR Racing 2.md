@@ -266,7 +266,7 @@ The Papyrus legacy continued to influence racing games long after the studio's c
 [^ref-10]: [The Collection Chamber – NASCAR Racing 2](https://collectionchamber.blogspot.com/p/nascar-racing-2.html) – marketing materials, technical specs
 [^ref-11]: [IMDB – NASCAR Racing 2](https://www.imdb.com/title/tt6068798/) – voice cast, ratings, spotter dialogue
 [^ref-12]: [Web Archive – Computer Games Strategy Plus 1996 Awards](https://web.archive.org/web/19970614161401/http://www.cdmag.com/news/0325971.html) – award win documentation
-[^ref-13]: [GamesNostalgia – NASCAR Racing 2](https://gamesnostalgia.com/game/nascar-racing-2) – editorial review, designer credits
+[^ref-13]: [GamesNostalgia – NASCAR Racing 2](https://gamesnostalgia.net/game/nascar-racing-2) – editorial review, designer credits
 [^ref-14]: [MobyGames – NASCAR Racing 2 Reviews](https://www.mobygames.com/game/1607/nascar-racing-2/reviews/) – user reviews
 [^ref-15]: [The Athletic – NASCAR Racing Video Game History](https://www.nytimes.com/athletic/3392349/2022/06/30/nascar-racing-video-game/) – Dale Earnhardt Jr. quote, Steve Myers quote
 [^ref-16]: [GameSpot – Papyrus Racing Games Retrospective](http://www.gamespot.com/features/6103365/) – David Kaemmer quotes, development history
@@ -276,7 +276,7 @@ The Papyrus legacy continued to influence racing games long after the studio's c
 [^ref-20]: [Web Archive – GameSpot Papyrus Retrospective](https://web.archive.org/web/20040803113834/http://www.gamespot.com/features/6103365/) – studio history, closure details
 [^ref-21]: [PCGamingWiki – NASCAR Racing 2](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_2) – system requirements
 [^ref-22]: [Sierra Help – NASCAR Racing Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/NASCARRacingUpdates.html) – patch information, version history
-[^ref-23]: [Bartman's NASCAR 2 Files Archive](https://bartman2.tripod.com/files.htm) – version numbers, bugs, patches, demo info
+[^ref-23]: [Bartman's NASCAR 2 Files Archive](https://web.archive.org/web/20210125041623/https://bartman2.tripod.com/files.htm) – version numbers, bugs, patches, demo info
 [^ref-24]: [Internet Archive – N2-3dfx Beta Update](https://archive.org/details/N2-3dfx_exe) – 3Dfx patch details
 [^ref-25]: [Web Archive – TEN NROS Launch](https://web.archive.org/web/19980115065127/http://www.ten.net/news/9711/971112a.html) – online series launch
 [^ref-26]: [VOGONS Forum – NASCAR 2 3Dfx Troubleshooting](https://www.vogons.org/viewtopic.php?t=34805&start=20) – technical issues, compatibility

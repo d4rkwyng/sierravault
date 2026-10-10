@@ -35,7 +35,7 @@ The studio successfully funded their debut game, *Quest for Infamy*, through Kic
 
 ## References
 
-[^ref-1]: [Infamous Quests - Official Site](https://www.infamous-quests.com/) - Company and games
+[^ref-1]: [Infamous Quests - Official Site (Wayback, June 2024)](https://web.archive.org/web/20240615204320/https://www.infamous-quests.com/) - Company and games (the live domain now redirects to infamousquests.itch.io)
 [^ref-2]: [MobyGames - Infamous Quests](https://www.mobygames.com/company/21447/infamous-quests/) - Game database profile
 [^ref-3]: [Kickstarter - Quest for Infamy](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-the-adventure-game-to-end-all-adv) - Funding campaign
 [^ref-4]: [Steam - Quest for Infamy](https://store.steampowered.com/app/264560/Quest_for_Infamy/) - Game release
@@ -43,7 +43,7 @@ The studio successfully funded their debut game, *Quest for Infamy*, through Kic
 [^ref-6]: Adventure Gamers - Quest for Infamy Review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Game review
 [^ref-7]: [Steam - Order of the Thorne: The King's Challenge](https://store.steampowered.com/app/339680/Order_of_the_Thorne_The_Kings_Challenge/) - Episodic adventure
 [^ref-8]: [MobyGames - Order of the Thorne](https://www.mobygames.com/game/76186/order-of-the-thorne-the-kings-challenge/) - Game entry
-[^ref-9]: [PC Gamer - Quest for Infamy](https://www.pcgamer.com/quest-for-infamy-review/) - Review
+[^ref-9]: [CGMagazine - Quest for Infamy (PC) Review](https://www.cgmagonline.com/review/game/quest-infamy-review) - Review
 [^ref-10]: [MobyGames - Infamous Quests](https://www.mobygames.com/company/12728/infamous-quests/) - Publisher/developer profile and complete game catalog (replaces dead IGN /companies/ URL; IGN's company-profile pages have been deprecated)
 [^ref-11]: [IndieDB - Infamous Quests](https://www.indiedb.com/company/infamous-quests) - Developer profile
 [^ref-12]: [Metacritic - Quest for Infamy](https://www.metacritic.com/game/pc/quest-for-infamy) - Review aggregator

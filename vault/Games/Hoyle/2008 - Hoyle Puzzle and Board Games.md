@@ -21,7 +21,7 @@ tags: [2000s, hoyle, sierra]
 
 ## Overview
 
-Hoyle Puzzle and Board Games 2008 is a comprehensive compilation of classic puzzle and board games released by [[Encore Software]] for Windows and Macintosh platforms in late 2007[^ref-1][^ref-2][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21]. Drawing on the long-standing Hoyle brand, which had been associated with authoritative gaming rules since the 18th century and Sierra On-Line's gaming compilations since the late 1980s, this collection brought together over 30 games in a single package[^ref-3][^ref-4]. The compilation was marketed under the tagline "HOYLE - The official name in gaming" and boasted over 60 classic games plus a bonus of 105 puzzle adventures[^ref-2].
+Hoyle Puzzle and Board Games 2008 is a comprehensive compilation of classic puzzle and board games released by [[Encore Software]] for Windows and Macintosh platforms in late 2007[^ref-1][^ref-2][^ref-17][^ref-18][^ref-19][^ref-21]. Drawing on the long-standing Hoyle brand, which had been associated with authoritative gaming rules since the 18th century and Sierra On-Line's gaming compilations since the late 1980s, this collection brought together over 30 games in a single package[^ref-3][^ref-4]. The compilation was marketed under the tagline "HOYLE - The official name in gaming" and boasted over 60 classic games plus a bonus of 105 puzzle adventures[^ref-2].
 
 The game was designed as a casual-friendly collection that brought together a wide range of classic puzzles, word challenges, and board-game favorites in one package[^ref-5]. It featured the proprietary Hoyle Bucks earning system, where players could accumulate virtual currency by playing games and spend it on customization options such as new card decks, tile sets, music tracks, and other decorations[^ref-4][^ref-6]. The collection included popular titles such as Chess, Hangman, Crosswords, Mahjongg Tiles, Backgammon, Sudoku, and many more, with interactive computer opponents offering multiple skill levels[^ref-1][^ref-6].
 
@@ -113,7 +113,7 @@ The compilation was designed to rediscover strategy and puzzle-solving, offering
 
 ### Technical Achievements
 
-Hoyle Puzzle and Board Games 2008 represents a **three-studio collaboration** — Encore Software (primary), Freeverse, and Dynamix — an unusually distributed production model for a casual compilation that points to the post-Sierra licensing era's multi-vendor sourcing pattern[^ref-4][^ref-16]. The release also serves as a notable Dynamix-era continuity artifact: Dynamix had been a Sierra subsidiary before its 2001 closure, and its post-shutdown contributions here demonstrate continued reuse of Dynamix-developed game-engine modules in the Encore-era Hoyle line[^ref-4]. The product **integrated assets from Big Bang Brain Games and Big Bang Board Games** into the Hoyle compilation framework, reducing development cost via deliberate asset-reuse[^ref-4]. Modern Windows compatibility extends through Windows 7/8/10/11, indicating long-tail engineering polish that allowed the title to remain functional across multiple OS generations[^ref-3].
+Hoyle Puzzle and Board Games 2008 represents a **three-studio collaboration** — Encore Software (primary), Freeverse, and Dynamix — an unusually distributed production model for a casual compilation that points to the post-Sierra licensing era's multi-vendor sourcing pattern[^ref-4]. The release also serves as a notable Dynamix-era continuity artifact: Dynamix had been a Sierra subsidiary before its 2001 closure, and its post-shutdown contributions here demonstrate continued reuse of Dynamix-developed game-engine modules in the Encore-era Hoyle line[^ref-4]. The product **integrated assets from Big Bang Brain Games and Big Bang Board Games** into the Hoyle compilation framework, reducing development cost via deliberate asset-reuse[^ref-4]. Modern Windows compatibility extends through Windows 7/8/10/11, indicating long-tail engineering polish that allowed the title to remain functional across multiple OS generations[^ref-3].
 
 ### Technical Specifications
 
@@ -217,7 +217,7 @@ The brand's longevity—spanning from Edmond Hoyle's 18th-century rulebooks thro
 **Documentation**
 - Steam Community Guide for related Encore compilation[^ref-7]
 
-The game is documented in various gaming databases and preservation archives.[^ref-13][^ref-14][^ref-15][^ref-16]
+The game is documented in various gaming databases and preservation archives.[^ref-13][^ref-14][^ref-15]
 
 ## See Also
 
@@ -293,9 +293,7 @@ The game is documented in various gaming databases and preservation archives.[^r
 [^ref-13]: [IGDB - Hoyle Puzzle and Board Games](https://www.igdb.com/games/hoyle-puzzle-and-board-games) - Internet Games Database entry
 [^ref-14]: [MobyGames - Hoyle Puzzle and Board Games](https://www.mobygames.com/game/hoyle-puzzle-and-board-games/) - game database entry
 [^ref-15]: [GameSpot - Hoyle Puzzle and Board Games](https://www.gamespot.com/hoyle-puzzle-and-board-games/) - game database entry
-[^ref-16]: [Amazon - Hoyle Puzzle and Board Games](https://www.amazon.com/Hoyle-Puzzle-Board-Games/dp/B0015YKVTQ) - retail listing
 [^ref-17]: [LaunchBox Games Database – Hoyle Puzzle and Board Games 2008](https://gamesdb.launchbox-app.com/games/details/hoyle-puzzle-and-board-games-2008) — community-curated metadata, cover-art reference, platform listing
 [^ref-18]: [Freeverse Inc. company profile](https://www.mobygames.com/company/2076/freeverse-inc/) — collaborator studio history relevant to the 2008 Hoyle Puzzle and Board Games co-development
 [^ref-19]: [Adventure Classic Gaming – Encore-era Hoyle retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Encore's mid-2000s stewardship of the Hoyle line
-[^ref-20]: [PCGamingWiki – Hoyle Puzzle and Board Games](https://www.pcgamingwiki.com/wiki/Hoyle_Puzzle_and_Board_Games) — technical documentation, compatibility matrix
-[^ref-21]: [Internet Archive – Hoyle Puzzle and Board Games (2008) preservation](https://archive.org/details/hoyle-puzzle-and-board-games-2008) — disk-image preservation archive
+[^ref-21]: [Internet Archive – Hoyle Puzzle & Board Games 2008](https://archive.org/details/hoyle-puzzle-board-games-2008) — disc-image preservation archive

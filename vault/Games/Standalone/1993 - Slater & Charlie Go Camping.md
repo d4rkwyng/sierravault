@@ -191,7 +191,7 @@ The game's design philosophy emphasized that "so much fun, your children won't n
 [^ref-6]: [Archive.org - Sierra PC Games Collection](https://archive.org/details/20220303_20220303_0527) – - Game premise and character information
 [^ref-7]: [Internet Archive - Slater and Charlie Go Camping Manual](https://archive.org/details/slater-and-charlie-go-camping-manual) – - Official game description and story details
 [^ref-8]: [PCGamingWiki - Slater & Charlie Go Camping](https://www.pcgamingwiki.com/wiki/Slater_&_Charlie_Go_Camping) – - Interactive elements and game classification
-[^ref-9]: [Elisoftware.org - Slater & Charlie Go Camping](https://elisoftware.org/w/index.php/Slater_&_Charlie_Go_Camping_(PC,_1.44MB_3_1/2%22_Disk) – _Sierra_-_1993_USA,_Canada_Release) - Technical specifications and marketing information
+[^ref-9]: [Elisoftware.org - Slater & Charlie Go Camping](https://elisoftware.org/w/index.php/Slater_%26_Charlie_Go_Camping_%28PC,_1.44MB_3_1/2%22_Disk%29_Sierra_-_1993_USA,_Canada_Release) - Technical specifications and marketing information
 [^ref-10]: [Internet Archive - MS-DOS Slater Charlie Go Camping](https://archive.org/details/msdos_Slater__Charlie_Go_Camping_1993) – - Character details and presentation format
 [^ref-11]: [eBid.net - Vintage 1993 PC Software Game](https://www.ebid.net/us/for-sale/vintage-1993-pc-software-game-slater-charlie-go-camping-windows-3-dos-used-146171000.htm) – - System requirements and target audience
 [^ref-12]: [DOS Zone - Slater Charlie Go Camping](https://dos.zone/slater-charlie-go-camping-may-19-1993/) – - Modern rating and browser availability

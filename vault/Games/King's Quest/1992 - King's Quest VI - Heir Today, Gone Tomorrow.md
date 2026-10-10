@@ -330,7 +330,7 @@ This game has been included in[^ref-20][^ref-21]:
 **Manuals & Extras**
 - [Sierra Chest – King's Quest VI](https://www.sierrachest.com/index.php?a=games&id=6) – Walkthrough, maps, memorabilia
 - [MOCAGH – KQ6 Hintbook](https://mocagh.org/) – Official hint book scans
-- [Sierra Help – KQ6](https://sierrahelp.com/Games/KingsQuest/KQ6.html) – Patches, saves, technical support
+- [Sierra Help SCI Wiki – KQ6](https://sciwiki.sierrahelp.com/index.php/KQ6) – Versions, patches, new installer
 - [PCGamingWiki – King's Quest VI](https://www.pcgamingwiki.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – Technical fixes
 
 ## See Also
@@ -370,7 +370,7 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-21]: [GOG.com – King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6) – – 4.6/5 rating, ScummVM-powered, user reviews
 [^ref-23]: [My Abandonware – King's Quest VI](https://www.myabandonware.com/game/king-s-quest-vi-heir-today-gone-tomorrow-220) – – 4.44/5 (125 votes)
 [^ref-26]: [PCGamingWiki – King's Quest VI](https://www.pcgamingwiki.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – Technical specs, Windows high-res portraits, system requirements
-[^ref-27]: [Behind the Voice Actors – King's Quest VI](https://www.behindthevoiceactors.com/video-games/Kings-Quest-VI-Heir-Today-Gone-Tomorrow/) – – Stuart Rosen voice director, complete cast list
+[^ref-27]: [Behind the Voice Actors – King's Quest VI](https://www.behindthevoiceactors.com/video-games/Kings-Quest-6/) – – Stuart Rosen voice director, complete cast list
 [^ref-29]: [Discogs – Girl in the Tower Promo CD](https://www.discogs.com/release/14528268) – – Jane Jensen lyrics, Mark Seibert composer, Jeff Hill co-producer
 [^ref-30]: [Discogs – An Ode to the Isles Vinyl](https://www.discogs.com/release/31112489) – – 2024 Two Guys Records release, Troels Pleimert drums, Error 47 cover, promo CD market values
 [^ref-31]: [Space Quest Historian – KQ6 EP](https://spacequesthistorian.bandcamp.com/album/kings-quest-vi-a-fair-and-balanced-ep) – – Chris Braymen verified composer credits, Mark Seibert "Alex Pining" theme

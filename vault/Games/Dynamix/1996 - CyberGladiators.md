@@ -10,14 +10,14 @@ series: K.A.A. series
 engine: Unknown
 protagonist: Player-selected fighter
 sierra_lineage: Core Sierra
-last_updated: '2026-05-13'
+last_updated: '2026-10-09'
 description: CyberGladiators is a one-on-one 3D fighting game released in November
   1996 for Windows 95, developed by Dynamix, Inc. under its K.A.A. (Kicks A** Action)...
 tags: [1990s, k-a-a-series, sierra]
 ---
 # CyberGladiators
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -221,12 +221,6 @@ CyberGladiators does not appear to have been included in any subsequent compilat
 
 No significant fan remakes or modifications have been documented for CyberGladiators. The technical compatibility issues with modern systems have inspired community-developed fixes and workarounds, particularly the hex-edit timing patches documented by various enthusiast sites[^ref-20].
 
-### Related Publications
-
-**Included Documentation:**[^ref-22]
-- Quick Reference Card – Controls and basic gameplay information
-- Game Manual – Story background and character information
-
 ### Critical Perspective
 
 CyberGladiators occupies an unusual position in Sierra's gaming legacy. While the company is primarily remembered for its influential adventure game series—King's Quest, Space Quest, Leisure Suit Larry, and others—this fighting game represents an attempt to diversify into action gaming during the Windows 95 era. The K.A.A. label's quick demise suggests the market for Sierra-branded action games was limited, or that the company's strengths lay elsewhere.
@@ -243,12 +237,8 @@ The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/cybergladiators) – Full game preservation[^ref-1]
-- [Internet Archive – USA Release](https://archive.org/details/cyber-gladiators-usa) – Including manual and reference card[^ref-22]
+- [Internet Archive – USA Rerelease](https://archive.org/details/cyber-gladiators-rerelease-usa-pc) – Redump disc image of the US rerelease
 - [MyAbandonware](https://www.myabandonware.com/game/cybergladiators-gwm) – CD-ROM ISO download[^ref-15]
-
-**Manuals & Extras**
-- Quick Reference Card available through Internet Archive[^ref-22]
-- Manual documentation included with preservation releases[^ref-22]
 
 **Technical Resources**
 - [Bitpatch.com](http://bitpatch.com/cybergladiators.html) – Timing bug hex-edit fixes[^ref-20]
@@ -290,7 +280,6 @@ The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1
 [^ref-18]: [MobyGames – CyberGladiators Release Info](https://www.mobygames.com/game/windows/cybergladiators/release-info) – Music credits, voice recording studio, regional releases
 [^ref-19]: [Reddit – CyberGladiators on Sierra Screamin' 3D](https://www.reddit.com/r/Sierra/comments/11swgjp/cybergladiators_1996_on_a_sierra_screamin_3d/) – Graphics card compatibility
 [^ref-20]: [Bitpatch.com – CyberGladiators Fix](http://bitpatch.com/cybergladiators.html) – Timing bug analysis, hex edit solution, technical explanation
-[^ref-22]: [Internet Archive – Cyber Gladiators USA](https://archive.org/details/cyber-gladiators-usa) – Manual and reference card documentation
 [^ref-23]: [HandWiki – CyberGladiators](https://handwiki.org/wiki/Software:CyberGladiators) – Faction information, cosmic storm transformation
 [^ref-24]: [Sierra Gamers – CyberGladiators](https://www.sierragamers.com/cybergladiators/) – Faction names, genre classification
 [^ref-25]: [Wikidata – CyberGladiators](https://www.wikidata.org/wiki/Q5197683) – External database identifiers, country of origin

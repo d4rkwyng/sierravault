@@ -248,7 +248,7 @@ From a design perspective, Merchant Colony's influence can be traced through Imp
 [^ref-4]: [Gamepressure – Merchant Colony](https://www.gamepressure.com/games/merchant-colony/z318c7) – gameplay description, two-phase system, pirate threats
 [^ref-5]: [Amazon – IBM Merchant Colony](https://www.amazon.com/IBM-Merchant-Colony/dp/B000CBNQJO) – product description, disk formats
 [^ref-6]: [VOGONS Forum – Merchant Colony Discussion](https://www.vogons.org/viewtopic.php?t=66942) – speed controls, historical context, related games
-[^ref-7]: [Games Nostalgia – Merchant Colony](https://gamesnostalgia.com/game/merchant-colony) – designer credit, review score, underestimation assessment
+[^ref-7]: [Games Nostalgia – Merchant Colony](https://gamesnostalgia.net/game/merchant-colony) – designer credit, review score, underestimation assessment
 [^ref-8]: [ClassicReload – Merchant Colony](https://classicreload.com/dosx-merchant-colony.html) – Age of Exploration setting, gameplay scope
 [^ref-9]: [MyAbandonware – Merchant Colony](https://www.myabandonware.com/game/merchant-colony-17h) – HOTUD review, player comments, world domination goal
 [^ref-10]: [OldGames.sk – Merchant Colony](https://www.oldgames.sk/en/game/merchant-colony/docs/) – gameplay description, diplomacy and warfare mechanics

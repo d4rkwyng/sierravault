@@ -176,7 +176,7 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 [^ref-12]: [Reddit Discussion](https://www.reddit.com/r/Games/comments/5pi5k5/missionforce_cyberstorm_running_on_modern_windows/) – - Basic gameplay description
 [^ref-13]: [KHInsider](https://downloads.khinsider.com/game-soundtracks/album/missionforce-cyberstorm/change_log) – - Progression mechanics
 [^ref-14]: [GameFAQs Guide](https://gamefaqs.gamespot.com/pc/197957-missionforce-cyberstorm/faqs/52075) – - Juggernaut description
-[^ref-15]: [The Computer Show](http://www.thecomputershow.com/computershow/reviews/cyberstorm.htm) – - Contemporary review scores
+[^ref-15]: [The Computer Show](https://web.archive.org/web/20260105221552/http://www.thecomputershow.com/computershow/reviews/cyberstorm.htm) – - Contemporary review scores
 [^ref-16]: [Alchetron](https://alchetron.com/MissionForce:-CyberStorm) – - GameSpot review details
 [^ref-17]: [Wikipedia](https://en.wikipedia.org/wiki/MissionForce%3A_CyberStorm) – - Arcane review score
 [^ref-18]: [Itch.io Patch](https://juanitogan.itch.io/cyberstorm-patch) – - Home of the Underdogs score

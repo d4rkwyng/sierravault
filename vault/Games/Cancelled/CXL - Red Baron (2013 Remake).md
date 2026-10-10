@@ -234,7 +234,7 @@ The original Red Baron continues to be celebrated as a notable achievement. One 
 [^ref-3]: [MobyGames – Red Baron Reviews](https://www.mobygames.com/game/1766/red-baron/reviews/) – User reviews, critic scores, platform information
 [^ref-4]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – Release dates, awards, sales figures, review scores
 [^ref-5]: GamesNostalgia – Red Baron *(download link removed: the game is sold commercially)* – Kickstarter amount raised, freeware release, editorial score
-[^ref-6]: [Sierra Classic Gaming – Red Baron Remake](https://sierraclassicgaming.com/game/red-baron-remake/) – System requirements, planned release date, Steam Greenlight
+[^ref-6]: [Sierra Classic Gaming – Red Baron Remake](https://web.archive.org/web/20260511061716/https://sierraclassicgaming.com/game/red-baron-remake/) – System requirements, planned release date, Steam Greenlight
 [^ref-7]: [Red Baron Game Official Site](https://www.redbarongame.com/) – Development philosophy, team credits, business model
 [^ref-8]: DOS Games Archive – Red Baron *(download link removed: the game is sold commercially)* – Official game description, mission types
 [^ref-9]: [Sierra Gamers – Red Baron](https://www.sierragamers.com/red-baron/) – Aircraft count, mission variety, release date

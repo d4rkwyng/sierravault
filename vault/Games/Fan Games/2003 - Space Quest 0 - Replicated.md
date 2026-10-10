@@ -229,7 +229,7 @@ The game also represents an important artifact of early 2000s fan game developme
 [^ref-4]: [Space Quest Omnipedia – Fan Timeline](https://spacequest.fandom.com/wiki/Fan_timeline) – release dates, timeline placement, series references, Roger's hair color
 [^ref-5]: [Hardcore Gaming 101 – Space Quest VI](http://www.hardcoregaming101.net/space-quest-vi/) – fan game comparison, professionalism assessment
 [^ref-6]: [Home of the Underdogs](https://homeoftheunderdogs.net/game.php?id=4484) – community rating, reviewer quotes, freeware status
-[^ref-7]: [Sierra Classic Gaming – Game Page](https://sierraclassicgaming.com/game/space-quest-0-replicated/) – platform support, system requirements, developer credit
+[^ref-7]: [Sierra Classic Gaming – Game Page](https://web.archive.org/web/20251209071918/https://sierraclassicgaming.com/game/space-quest-0-replicated/) – platform support, system requirements, developer credit
 [^ref-8]: [Jeffry Houser – Space Quest 0 Review](https://www.jeffryhouser.com/index.cfm/2005/10/17/Space-Quest-0-Replicated) – AGI engine details, visual assessment, humor critique, Labion setting
 [^ref-9]: [Jess Morrissette – SQ0 Walkthrough](https://wiw.org/~jess/sq0walk.html) – location list, Easter eggs, gameplay bug workaround
 [^ref-10]: [Wikipedia – Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – Scott Murphy "fun death" quote, series history
@@ -241,6 +241,6 @@ The game also represents an important artifact of early 2000s fan game developme
 [^ref-16]: [OldGames.sk](https://www.oldgames.sk/en/game/space-quest-0-replicated/download/1869/) – rating, visit count, graphics description
 [^ref-17]: [IFDB – Space Quest 0](https://ifdb.org/viewgame?id=uw8ihwv01ipv9sxn) – developer name variant, rating count, release year variant
 [^ref-18]: [Citizendium – Space Quest](https://citizendium.org/wiki/Space_Quest) – fan game context, AGI engine confirmation
-[^ref-19]: [Sierra Classic Gaming – Version History](https://sierraclassicgaming.com/launcher/version-history/) – title rename date
+[^ref-19]: [Sierra Classic Gaming – Version History](https://web.archive.org/web/20260606204055/https://sierraclassicgaming.com/launcher/version-history/) – title rename date
 [^ref-20]: [SCI Programming – Fan Games Database](https://sciprogramming.com/fangames.php?action=review&id=50) – release date, download count
 [^ref-21]: [Walkthrough King – Space Quest 0](https://www.walkthroughking.com/text/spacequest0.aspx) – prequel status, plot summary

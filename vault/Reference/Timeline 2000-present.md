@@ -1,14 +1,14 @@
 ---
 title: "Timeline 2000–present"
 type: reference
-last_updated: "2026-07-13"
+last_updated: "2026-10-09"
 description: "Post-acquisition Sierra catalog timeline — Vivendi era through Activision Blizzard mothballing, alumni studios continuing the lineage, and Microsoft Gaming acquisition. Year by year through 2026."
 tags: [reference, timeline, post-sierra-history]
 ---
 
 # Timeline 2000–present
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -138,7 +138,7 @@ For the independent-era chronology, see [[Timeline 1980-1999|Timeline 1980-1999]
 - [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] (Replay Games — Al Lowe involvement, crowdfunded HD remake)
 - [[2013 - Fester Mudd - Curse of the Gold]] (Replay Games-adjacent indie)
 
-**Corporate:** Activision sells the *Homeworld* trademark to Gearbox Software at the THQ bankruptcy auction for ~USD 1.35 million. [[Blackbird Interactive]] secures Gearbox licensing for *Homeworld* prequel development.[^ref-8]
+**Corporate:** Gearbox Software wins the *Homeworld* IP at the THQ bankruptcy auction for USD 1.35 million, then lets [[Blackbird Interactive]] use the IP for its *Homeworld* prequel.[^ref-8]
 
 ## 2014
 
@@ -199,7 +199,7 @@ For the independent-era chronology, see [[Timeline 1980-1999|Timeline 1980-1999]
 - [[2023 - Pharaoh - A New Era\|Pharaoh: A New Era]] (Triskell / Dotemu — licensed Pharaoh 1999 remake)
 - [[2023 - Gobliiins 5 - The Morgloton Invasion\|Gobliiins 5]] (Pierre Gilhodes)
 
-**Corporate:** **October 13, 2023** — Microsoft completes its USD 68.7 billion acquisition of Activision Blizzard. Sierra IP transfers to Microsoft Gaming.[^ref-12]
+**Corporate:** **October 13, 2023** — Microsoft completes its acquisition of Activision Blizzard (announced at USD 68.7 billion in January 2022; total cost USD 75.4 billion), bringing it under Microsoft Gaming.[^ref-12]
 
 ## 2024
 
@@ -208,14 +208,12 @@ For the independent-era chronology, see [[Timeline 1980-1999|Timeline 1980-1999]
 - [[2024 - Tribes 3 - Rivals\|Tribes 3: Rivals]] (Prophecy Games — Activision-licensed)
 - *Gabriel Knight 4: Five Hearts* short-story prose release (Jensen / Pinkerton Road)
 
-**Awards:** [[1998 - Half-Life|Half-Life]] inducted into The Strong Museum's World Video Game Hall of Fame.[^ref-13]
-
 ## 2025
 
 **Major releases:**
 - *Warhammer 40,000: Dawn of War — Definitive Edition* (Relic Entertainment, post-SEGA independence)
 
-**Corporate:** SEGA divests [[Relic Entertainment]] to private investors (March 2024 close; continued independent operation through 2025).[^ref-14]
+**Corporate:** [[Relic Entertainment]] continues as an independent studio after splitting from SEGA with an external investor's backing (announced March 28, 2024).[^ref-14]
 
 ## 2026
 
@@ -251,12 +249,10 @@ Three patterns characterize this period:
 [^ref-5]: [Wikipedia — Yosemite Entertainment](https://en.wikipedia.org/wiki/Yosemite_Entertainment) — 2005 closure
 [^ref-6]: [GameSpot — Sierra Online imprint](https://www.gamespot.com/articles/vug-launches-sierra-online/1100-6151844/) — 2006 digital imprint
 [^ref-7]: [Wikipedia — Activision Blizzard merger](https://en.wikipedia.org/wiki/Activision_Blizzard) — 2008 merger
-[^ref-8]: [Polygon — Gearbox buys Homeworld](https://www.polygon.com/2013/4/22/4252814/homeworld-saved-from-thq-by-gearbox-software) — 2013 IP acquisition
-[^ref-9]: [Gamasutra — Sierra Gamescom 2014](https://www.gamasutra.com/view/news/223423/) — Digital imprint revival
+[^ref-8]: [Wikipedia — Blackbird Interactive](https://en.wikipedia.org/wiki/Blackbird_Interactive) — Gearbox won the THQ Homeworld auction at $1.35 million and allowed Blackbird to use the IP
+[^ref-9]: [TechCrunch — Yep, Activision Is Bringing Back Sierra (And Kings Quest!)](https://techcrunch.com/2014/08/13/yep-activision-is-bringing-back-sierra-and-kings-quest/) — revival made official at Gamescom 2014; King's Quest and Geometry Wars 3
 [^ref-10]: [The Game Awards 2014 — Industry Icon](https://thegameawards.com) — Roberta Williams recognition
 [^ref-11]: [The Strong Museum — King's Quest Hall of Fame](https://www.museumofplay.org/games/kings-quest/) — 2020 induction
-[^ref-12]: [Microsoft Press — Activision Blizzard acquisition close](https://news.microsoft.com/2023/10/13/microsoft-completes-acquisition-of-activision-blizzard/) — 2023 close
-[^ref-13]: [The Strong — Half-Life 2024 induction](https://www.museumofplay.org/news/world-video-game-hall-of-fame-2024-inductees/) — Hall of Fame
-[^ref-14]: [PC Gamer — SEGA sells Relic](https://www.pcgamer.com/sega-sells-relic-entertainment-back-to-independent/) — 2024 independence
-[^ref-15]: [Adventure Game Hotspot — Sierra alumni projects](https://adventuregamehotspot.com/feature/sierra-alumni) — Era retrospective
+[^ref-12]: [Wikipedia — Acquisition of Activision Blizzard by Microsoft](https://en.wikipedia.org/wiki/Acquisition_of_Activision_Blizzard_by_Microsoft) — completed October 13, 2023
+[^ref-14]: [Wikipedia — Relic Entertainment](https://en.wikipedia.org/wiki/Relic_Entertainment) — "On March 28, 2024, Relic Entertainment announced that an external investor had assisted it in going independent"
 [^ref-16]: [Kotaku — Roberta Williams returns](https://kotaku.com/sierra-roberta-williams-kings-quest-interview-feature-1849192779) — 2023 Colossal Cave context

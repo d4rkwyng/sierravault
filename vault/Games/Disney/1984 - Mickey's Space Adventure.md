@@ -262,10 +262,10 @@ The collaboration between Sierra and Disney established a template for education
 [^ref-22]: [GameFAQs – Commodore 64 Version](https://gamefaqs.gamespot.com/c64/938386-mickeys-space-adventure) – user ratings, difficulty assessment
 [^ref-23]: [Glitchwave – Mickey's Space Adventure](https://glitchwave.com/game/mickeys-space-adventure/) – user rating, genre classification
 [^ref-24]: [Video Game Music Preservation Foundation Wiki](https://www.vgmpf.com/Wiki/index.php?title=Mickey%27s_Space_Adventure_(C64)) – Al Lowe sound driver, assembly transcription
-[^ref-25]: [PCGamingWiki – Mickey's Space Adventure](https://www.pcgamingwiki.com/wiki/Mickey's_Space_Adventure) – technical specifications, RAM issues, video modes
+[^ref-25]: [PCGamingWiki – Mickey's Space Adventure](https://www.pcgamingwiki.com/wiki/Mickey%27s_Space_Adventure) – technical specifications, RAM issues, video modes
 [^ref-26]: [Museum of Computer Adventure Game History](https://www.mocagh.org/loadpage.php?getgame=mickey-alt2-manual) – school version details
 [^ref-27]: [DOS Games Archive](https://www.dosgamesarchive.com/download/mickeys-space-adventure) – ScummVM compatibility, freeware status
 [^ref-28]: [Games Database – Commodore 64](https://www.gamesdatabase.org/game/commodore-64/mickeys-space-adventure) – publisher credit, regional releases
 [^ref-29]: [VideoGameGeek](https://videogamegeek.com/videogame/122848/mickeys-space-adventure) – media format, designers
 [^ref-30]: [IMDB – Mickey's Space Adventure](https://www.imdb.com/title/tt3708320/) – release year, creator credit
-[^ref-31]: [StrategyWiki – Mickey's Space Adventure](https://strategywiki.org/wiki/Mickey's_Space_Adventure) – platform list, basic overview
+[^ref-31]: [StrategyWiki – Mickey's Space Adventure](https://strategywiki.org/wiki/Mickey%27s_Space_Adventure) – platform list, basic overview

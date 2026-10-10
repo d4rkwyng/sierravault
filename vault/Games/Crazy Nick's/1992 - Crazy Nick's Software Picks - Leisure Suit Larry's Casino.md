@@ -255,7 +255,7 @@ From a preservation standpoint, the title remains notable as one of five budget 
 
 [^ref-4]: [Universal Videogame List – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.uvlist.net/game-188149-Crazy+Nicks+Software+Picks+Leisure+Suit+Larrys+Casino) – collector edition inclusion, game origins commentary, technical details
 
-[^ref-5]: [PCGamingWiki – Leisure Suit Larry's Casino](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry's_Casino) – engine version, video modes, save feature absence, ScummVM compatibility
+[^ref-5]: [PCGamingWiki – Leisure Suit Larry's Casino](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry%27s_Casino) – engine version, video modes, save feature absence, ScummVM compatibility
 
 [^ref-6]: [MyAbandonware – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.myabandonware.com/game/crazy-nick-s-software-picks-leisure-suit-larry-s-casino-bo0) – abandonware status, file size, user ratings
 

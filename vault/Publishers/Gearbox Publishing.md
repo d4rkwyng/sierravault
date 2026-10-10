@@ -34,7 +34,7 @@ Gearbox inherited the Homeworld franchise through their 2013 acquisition from TH
 ## References
 
 [^ref-1]: [Wikipedia - Gearbox Publishing](https://en.wikipedia.org/wiki/Gearbox_Publishing) - Company overview
-[^ref-2]: [Gearbox Publishing - Official Site](https://www.gearboxpublishing.com/) - Company information
+[^ref-2]: [Gearbox Publishing - Official Site (Wayback, May 2026)](https://web.archive.org/web/20260516233416/https://www.gearboxpublishing.com/) - Company information and catalogue incl. Homeworld 3 (the live domain now redirects to 2k.com/studios/gearbox/)
 [^ref-3]: [MobyGames - Gearbox Publishing](https://www.mobygames.com/company/26891/gearbox-publishing/) - Database profile
 [^ref-4]: [Wikipedia - Homeworld](https://en.wikipedia.org/wiki/Homeworld) - Franchise acquisition
 [^ref-5]: [Steam - Homeworld Remastered Collection](https://store.steampowered.com/app/244160/Homeworld_Remastered_Collection/) - Published title
@@ -44,7 +44,7 @@ Gearbox inherited the Homeworld franchise through their 2013 acquisition from TH
 [^ref-9]: [MobyGames - Gearbox Publishing](https://www.mobygames.com/company/4515/gearbox-publishing-llc/) - Publisher profile and complete game catalog (replaces dead IGN /companies/ URL; IGN's company-profile pages have been deprecated)
 [^ref-10]: [Wikipedia - Embracer Group](https://en.wikipedia.org/wiki/Embracer_Group) - Parent company
 [^ref-11]: [MobyGames - Relic Entertainment](https://www.mobygames.com/company/1543/relic-entertainment-inc/) - Original Homeworld developer
-[^ref-12]: [Polygon - Homeworld Remastered](https://www.polygon.com/2015/2/25/8099099/homeworld-remastered-collection-review) - Remaster coverage
+[^ref-12]: [Wikipedia - Homeworld](https://en.wikipedia.org/wiki/Homeworld) - Gearbox bought the series from THQ in 2013 and released a remastered collection of Homeworld and Homeworld 2 in 2015
 [^ref-13]: [IGDB - Gearbox Publishing](https://www.igdb.com/companies/gearbox-publishing) - Database entry
 [^ref-14]: [Gamasutra - Homeworld IP Sale](https://www.gamedeveloper.com/business/gearbox-acquires-i-homeworld-i-ip-for-1-35-million) - Acquisition details
 [^ref-15]: [Metacritic - Homeworld 3](https://www.metacritic.com/game/pc/homeworld-3) - Review aggregator

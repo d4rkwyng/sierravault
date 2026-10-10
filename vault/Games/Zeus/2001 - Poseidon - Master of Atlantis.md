@@ -277,7 +277,7 @@ Within the broader context of strategy gaming, Zeus and Poseidon represent a ref
 [^ref-5]: FreeGOGPCGames *(download link removed: the game is sold commercially)* – gameplay features, episode count, system requirements
 [^ref-6]: [eBay Product Listing](https://www.ebay.com/p/50800073) – publisher confirmation, geographical scope
 [^ref-7]: [GOG – Zeus + Poseidon](https://www.gog.com/en/game/zeus_poseidon) – rating, system requirements, release date, description
-[^ref-8]: [Tripod Walkthrough – Birth of Atlantis](https://kheitmann-1.tripod.com/zeus/walkthru/poracle-walkthrough-print-birthofatlantis.htm) – episode details, resource availability, gameplay challenges, mythological figures
+[^ref-8]: [Tripod Walkthrough – Birth of Atlantis](https://web.archive.org/web/20190820120550/http://kheitmann-1.tripod.com/zeus/walkthru/poracle-walkthrough-print-birthofatlantis.htm) – episode details, resource availability, gameplay challenges, mythological figures
 [^ref-9]: [Wikipedia – Poseidon: Master of Atlantis](https://en.wikipedia.org/wiki/Poseidon:_Master_of_Atlantis) – review scores, awards, trivia, development notes, critic quotes, release dates
 [^ref-10]: [MobyGames – Technical Specifications](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/specs/windows/) – resolution, input devices, ESRB rating, technical requirements
 [^ref-11]: [GameVortex – Poseidon Review](https://www.gamevortex.com/gamevortex/soft_rev.php/409/poseidon-zeus-official-expansion-pc.html) – review score, new features, resources, heroes, buildings

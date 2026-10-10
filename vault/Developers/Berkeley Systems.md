@@ -79,7 +79,7 @@ The flying toaster from After Dark became one of the most enduring symbols of 19
 [^ref-6]: [Berkeley Systems - Wikipedia](https://en.wikipedia.org/wiki/Berkeley_Systems) — General company overview and cultural impact
 [^ref-7]: [Berkeley Systems - Jackbox Games Wiki](https://jackboxgames.fandom.com/wiki/Berkeley_Systems) — You Don't Know Jack series development and legacy
 [^ref-8]: [Berkeley Systems Background - Archived Site](https://web.archive.org/web/19970625090722/www.berksys.com/lite/news/bkgd.html) — Company's own historical background information
-[^ref-9]: [Berkeley Systems - WikiMili](https://wikimili.com/en/Berkeley_Systems) — Additional company details and timeline
+[^ref-9]: [Wikipedia - Berkeley Systems](https://en.wikipedia.org/wiki/Berkeley_Systems) — Company details and timeline
 [^ref-10]: [Berkeley Systems - PitchBook](https://pitchbook.com/profiles/company/53290-00) — Corporate structure and business information
 [^ref-11]: [Whatever Happened to Berkeley Systems - Daily Ping](https://dailyping.com/archive/2000/09/04/whatever-happened-to-berkeley-systems/) — Analysis of company's decline and closure
 [^ref-12]: [Berkeley Systems Overview - Savvy Sage](https://savvysage.net/berkeley-systems/) — Cultural impact and After Dark legacy
@@ -88,6 +88,6 @@ The flying toaster from After Dark became one of the most enduring symbols of 19
 [^ref-15]: [Berkeley Systems - Everything Allowed Wiki](https://everything-allowed.fandom.com/wiki/Berkeley_Systems) — Additional game details and company information
 [^ref-16]: [Berkeley Systems Acquisition - LA Times](https://www.latimes.com/archives/la-xpm-1997-04-10-fi-47219-story.html) — Newspaper coverage of CUC acquisition
 [^ref-17]: [Berkeley Systems - Wikipedia](https://en.wikipedia.org/wiki/Berkeley_Systems) — Acquired by the Sierra On-Line division of CUC International in 1997 for $13.8 million
-[^ref-18]: [Berkeley Systems Game Site Launch - CNET](https://www.cnet.com/news/short-take-berkeley-systems-launches-game-based-site/) — Coverage of web initiatives and online gaming
+[^ref-18]: [Berkeley Systems Game Site Launch - CNET](https://web.archive.org/web/20190716221736/https://www.cnet.com/news/short-take-berkeley-systems-launches-game-based-site/) — October 17, 1996: launch of the beZerk online entertainment site
 [^ref-19]: [Berkeley Systems - Academic Dictionary](https://en-academic.com/dic.nsf/enwiki/671727) — Academic reference on company significance
 [^ref-20]: [Berkeley Systems News Brief - IGN](https://www.ign.com/articles/1999/05/25/news-briefs-322) — Late-period company news and development updates

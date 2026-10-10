@@ -4,13 +4,13 @@ type: developer
 founded: 2008
 defunct: null
 headquarters: "Austin, Texas, USA"
-notable_games: ["The Silver Lining", "Cognition: An Erica Reed Thriller", "King's Quest - Chapter I: A Knight to Remember"]
+notable_games: ["The Silver Lining", "Cognition: An Erica Reed Thriller"]
 parent_company: null
-last_updated: "2026-05-08"
+last_updated: "2026-10-09"
 ---
 # Phoenix Online Studios
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -30,33 +30,25 @@ The studio's first major undertaking was completing "The Silver Lining," a fan-m
 
 Following the success of "The Silver Lining," Phoenix Online Studios transitioned to commercial game development with their original intellectual property "Cognition: An Erica Reed Thriller" in 2012.[^ref-13] This psychological thriller adventure game represented the studio's first fully independent commercial release and demonstrated their ability to create compelling original narratives while maintaining the classic adventure game structure that defined their identity.[^ref-14] The game was released episodically over several months, establishing Phoenix Online's preferred development and distribution model for complex narrative projects.
 
-The success of "Cognition" led to Phoenix Online Studios securing a licensing deal with Activision to develop an official King's Quest sequel series, marking a significant milestone in the studio's evolution from fan developers to official custodians of classic Sierra properties.[^ref-15] This partnership represented validation of their development approach and deep understanding of the source material that had made Sierra's adventure games legendary.[^ref-16]
+Phoenix Online never held a commercial King's Quest license. Activision allowed The Silver Lining to be released only as a free, non-commercial game, and in 2014 Phoenix returned all rights to the game to Activision, which revived King's Quest under its Sierra label later that year.[^ref-15]
 
-### Later Years and Continued Operation
+### Later Years
 
-Phoenix Online Studios continues to operate as an independent developer, maintaining their focus on adventure games while exploring opportunities to expand into related genres and platforms.[^ref-17] The studio has embraced digital distribution through Steam and other platforms, allowing them to reach global audiences without the constraints of traditional retail publishing.[^ref-18] Their ongoing projects include both original intellectual properties and licensed works that continue their tradition of honoring classic adventure game design principles.[^ref-19]
+On 19 May 2014, Phoenix Online Studios changed its name to Phoenix Online Publishing to concentrate on publishing independent adventure games.[^ref-15]
 
 ## Notable Games
 
 ### The Silver Lining (2010)
 
-"The Silver Lining" served as Phoenix Online Studios' debut release and represented one of the most ambitious fan-made adventure games ever completed.[^ref-20] The game continued the King's Quest storyline beyond Sierra's official series conclusion, featuring the return of King Graham and Queen Valanice as they face a mysterious curse that threatens their children.[^ref-21] Phoenix Online worked closely with original King's Quest voice actors, including Josh Mandel and Robby Benson, to maintain continuity with the established series mythology and character development.[^ref-22]
+"The Silver Lining" was Phoenix Online's debut release: a free, episodic fan game based on the King's Quest series, first released in July 2010, with four of its five planned episodes out by November 2011.[^ref-15] The story follows King Graham as he seeks ancient druidic artifacts to undo the evil cast upon his children, Alexander and Rosella, and returns to the Green Isles first visited in King's Quest VI.[^ref-15]
 
 ### Cognition: An Erica Reed Thriller (2012)
 
-"Cognition" marked Phoenix Online Studios' first original commercial release, featuring FBI agent Erica Reed who possesses psychic abilities that aid her criminal investigations.[^ref-23] The game was structured as a four-episode series, each focusing on different aspects of Reed's supernatural detective work while building toward an overarching narrative conclusion.[^ref-24] The title received critical acclaim for its mature storytelling approach, professional voice acting, and successful modernization of classic adventure game mechanics for contemporary audiences.[^ref-25]
-
-### King's Quest - Chapter I: A Knight to Remember (2015)
-
-Phoenix Online Studios contributed to the official revival of the King's Quest series through their collaboration with The Odd Gentlemen and Sierra Entertainment's reboot initiative.[^ref-26] While not the primary developer, their involvement in the project's early conceptualization and design consultation helped ensure continuity with the franchise's established tone and gameplay expectations.[^ref-27] The project represented the culmination of Phoenix Online's journey from fan developers to recognized contributors within the official Sierra legacy ecosystem.[^ref-28]
+"Cognition" follows Boston FBI agent Erica Reed, who has postcognition, the ability to see into the past of any object she touches.[^ref-16] Funded through Kickstarter in 2011, it was released in four episodes between October 2012 and September 2013, with Gabriel Knight creator Jane Jensen serving as story consultant.[^ref-16]
 
 ## Key People
 
-Scott Steinberg serves as the studio's CEO and creative director, bringing extensive industry experience from his previous roles in game journalism and business development.[^ref-29] Cesar Bittar functions as the primary technical director and programming lead, with specialized expertise in adventure game engine development and cross-platform compatibility.[^ref-30] The core development team includes several former Sierra On-Line employees and contractors who contributed to the original games that inspired Phoenix Online's founding vision.[^ref-31]
-
-## Legacy
-
-Phoenix Online Studios has established itself as a crucial bridge between the classic era of Sierra On-Line adventure games and modern independent development, demonstrating that traditional adventure games remain commercially viable when executed with appropriate care and attention to quality.[^ref-32] Their success has inspired other independent developers to pursue similar projects reviving classic gaming genres that had been largely abandoned by major publishers.[^ref-33] The studio's emphasis on episodic content delivery and community engagement has influenced adventure game development practices throughout the independent gaming sector.[^ref-34]
+César Bittar, originally one of The Silver Lining's writers, took charge of the project team in January 2002 and reorganized it into art, design, audio, programming and public relations departments.[^ref-15]
 
 ## Games
 
@@ -69,7 +61,7 @@ Phoenix Online Studios has established itself as a crucial bridge between the cl
 [^ref-2]: [Phoenix Online Studios Company Information](https://www.postudios.com/company/about.php) — Founding details and leadership profiles
 [^ref-3]: [MobyGames Phoenix Online Studios Profile](https://www.mobygames.com/company/15713/phoenix-online-studios-llc/) — Development history and game catalog
 [^ref-4]: [Game Developer Interview](https://www.gamedeveloper.com/game-platforms/interview-phoenix-online-studios-talks-i-king-s-quest-i-sequel-what-s-next) — Studio philosophy and development approach
-[^ref-5]: [Sierra Classic Gaming Developer Profile](https://sierraclassicgaming.com/developer/postudios/) — Relationship with Sierra properties and licensing
+[^ref-5]: [Sierra Classic Gaming Developer Profile (Wayback, sierraclassicgaming.com/developer/postudios/)](https://web.archive.org/web/20260606204120/http://sierraclassicgaming.com/developer/postudios/) — lists Phoenix's Gabriel Knight: Sins of the Fathers 20th Anniversary and Moebius: Empire Rising
 [^ref-6]: [Steam Developer Page](https://store.steampowered.com/developer/PhoenixOnline?snr=1_5_9__408) — Published games and distribution strategy
 [^ref-7]: [ZoomInfo Company Profile](https://www.zoominfo.com/c/phoenix-online-studios/350906492) — Business information and key personnel
 [^ref-8]: [LinkedIn Company Page](https://www.linkedin.com/company/phoenix-online-studios) — Professional background and team information
@@ -79,3 +71,5 @@ Phoenix Online Studios has established itself as a crucial bridge between the cl
 [^ref-12]: [YouTube Official Channel](https://www.youtube.com/channel/UCsDzdgNdjHLnue-8cuFl-kw) — Development videos and promotional content
 [^ref-13]: [Games Industry Search Results](https://www.gamesindustry.biz/search?q=Phoenix+Online+Studios) — Industry news and business developments
 [^ref-14]: [Game Developer News Archive](https://www.gamedeveloper.com/game-platforms/phoenix-games-acquires-promotion-software-and-i-emergency-i-dev-sixteen-tons) — Acquisition and business expansion coverage
+[^ref-15]: [Wikipedia – The Silver Lining (video game)](https://en.wikipedia.org/wiki/The_Silver_Lining_(video_game)) — development history, Vivendi/Activision licensing, episode dates, 2014 rename to Phoenix Online Publishing
+[^ref-16]: [Wikipedia – Cognition: An Erica Reed Thriller](https://en.wikipedia.org/wiki/Cognition:_An_Erica_Reed_Thriller) — Kickstarter funding, four episodes 2012–2013, Jane Jensen as story consultant, premise

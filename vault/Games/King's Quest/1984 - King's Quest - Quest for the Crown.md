@@ -306,7 +306,7 @@ This game has been included in[^ref-8][^ref-9]:
 [^ref-37]: [The King's Quest Companion](https://archive.org/details/kingsquestcompan00spea) – – Peter Spear hint book
 [^ref-38]: [PCGamingWiki – King's Quest](https://www.pcgamingwiki.com/wiki/King%27s_Quest:_Quest_for_the_Crown) – – Technical fixes
 [^ref-39]: [Nerdly Pleasures – The Evolution of King's Quest](http://nerdlypleasures.blogspot.com/2017/04/the-evolution-of-kings-quest.html) – – Definitive 8-version history with exact dates, AGI interpreter versions, copy protection schemes, technical specs
-[^ref-40]: [The King's Quest Companion, 4th Edition (1997)](https://antarctica.no/~solskogen/temp/King's%20Quest%20Companion%20%5B4E%5D%20%5B1997%5D.pdf) – – Peter Spear, Graham backstory, River Fools origin, dragon description
+[^ref-40]: [The King's Quest Companion, 4th Edition (1997)](https://antarctica.no/~solskogen/temp/King%27s%20Quest%20Companion%20%5B4E%5D%20%5B1997%5D.pdf) – – Peter Spear, Graham backstory, River Fools origin, dragon description
 [^ref-41]: [King's Quest Omnipedia – The King's Quest Companion](https://kingsquest.fandom.com/wiki/The_King%27s_Quest_Companion) – – Roberta Williams endorsement quotes
 [^ref-42]: [The Cutting Room Floor – King's Quest](https://tcrf.net/King%27s_Quest:_Quest_for_the_Crown) – – Flamethrower easter egg, King Edward animation, unused sounds, uncompiled source code
 [^ref-43]: [King's Quest Omnipedia – SMS Version](https://kingsquest.fandom.com/wiki/King%27s_Quest:_Quest_for_the_Crown_%28SMS%29) – – Microsmiths developer, Parker Brothers publisher, Mark Lesser programmer, reduced map

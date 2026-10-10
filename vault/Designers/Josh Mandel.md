@@ -193,7 +193,7 @@ Between January 15 and March 18, 2026, Mandel hosted an extended **"AMA About Si
 [^ref-15]: [Seattle Retro Gamer Interview](http://www.seattleretrogamer.com/2011/10/youtube-interview-with-josh-mandel-from.html) — Advertising career and awards
 [^ref-16]: [Tales From The Collection - Josh Mandel](https://talesfromthecollection.com/josh-mandel/) — First encounter with Colossal Cave Adventure
 [^ref-17]: [Adventure Gamers Sierra Retrospective](https://web.archive.org/web/20240417005952/https://adventuregamers.com/articles/view/a_sierra_restrospective_part_1_the_pioneers_of_adventure) — Ken Williams quote at Christmas party
-[^ref-18]: [Retro Kompott Interview](https://steadyhq.com/en/retrokompott/posts/83a7753a-a4b2-4516-93cf-a738d20d0102) — Mandel's reaction to Sierra culture
+[^ref-18]: [Retro Kompott Interview](https://steady.page/en/retrokompott/posts/83a7753a-a4b2-4516-93cf-a738d20d0102) — Mandel's reaction to Sierra culture
 [^ref-19]: [Wikipedia - Freddy Pharkas: Frontier Pharmacist](https://en.wikipedia.org/wiki/Freddy_Pharkas:_Frontier_Pharmacist) — Co-designed with Al Lowe
 [^ref-23]: [Wikipedia - Josh Mandel](https://en.wikipedia.org/wiki/Josh_Mandel_(video_game_designer)) — Career overview, KQ1 as first major project establishing his reputation at Sierra
 [^ref-35]: [Wikipedia - Callahan's Crosstime Saloon (video game)](https://en.wikipedia.org/wiki/Callahan%27s_Crosstime_Saloon_(video_game))) — Game development details and Spider Robinson adaptation

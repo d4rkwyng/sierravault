@@ -129,8 +129,6 @@ The game is documented across gaming databases including IGDB[^ref-18] and Giant
 
 Dynamix's development work on the title demonstrated the studio's versatility beyond their adventure game roots[^ref-16].
 
-PCGamingWiki maintains technical compatibility guides for modern systems[^ref-15].
-
 A community-created patch has been developed to address compatibility issues, specifically fixing "a superficial limitation preventing the game from running on a computer with its date set to 2020 and beyond"[^ref-14].
 
 ## Downloads
@@ -175,7 +173,6 @@ A community-created patch has been developed to address compatibility issues, sp
 [^ref-12]: [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-ski-racing-fyl) – - User rating of 5/5
 [^ref-13]: [Web Archive CDMag](https://web.archive.org/web/20030705052422/http://www.cdmag.com/articles/010/055/fps_skiing_review.html) – - Rarity of PC skiing games
 [^ref-14]: [PC Gaming Wiki Community](https://community.pcgamingwiki.com/files/file/3170-ski-doo-x-team-racing-time-limit-fix/) – - Community compatibility patch
-[^ref-15]: [PCGamingWiki – Front Page Sports: Ski Racing](https://www.pcgamingwiki.com/wiki/Front_Page_Sports:_Ski_Racing) – technical compatibility information
 [^ref-16]: [Wikipedia – Dynamix](https://en.wikipedia.org/wiki/Dynamix) – developer background, company history
 [^ref-17]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – publisher information
 [^ref-18]: [IGDB – Front Page Sports: Ski Racing](https://www.igdb.com/games/front-page-sports-ski-racing) – game database entry

@@ -278,7 +278,7 @@ Modern adventure game enthusiasts continue to discover and appreciate the series
 [^ref-16]: [Jefklak's Codex – Gobliins 2](https://jefklakscodex.com/games/pc/gobliins-2/) – Joker hint system, Coktel Vision history, ScummVM support
 [^ref-18]: [Downloads Khinsider – Gobliins 2 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/gobliins-2-original-game-rip) – track listing, user review quote
 [^ref-19]: [Sierra Chest – Gobliins 2 Walkthrough](https://www.sierrachest.com/index.php?a=games&id=145&fld=walkthrough) – goblins cannot die quote
-[^ref-20]: [The Spoiler – Gobliins 2 Solution](https://the-spoiler.com/OTHER/Coktel/gobliins.2.1.html) – difficulty description, character colors
+[^ref-20]: [The Spoiler – Gobliins 2 Solution](https://www.justadventure.com/walkthrough/gobliins-2-the-prince-buffoon/) – difficulty description, character colors
 [^ref-21]: [Web Archive – MobyGames 2008](https://web.archive.org/web/20080227191053/http://www.mobygames.com/game/gobliins-2-the-prince-buffoon) – Amiga Action score, release information
 [^ref-22]: [Gamicus – Gobliiins](https://gamicus.gamepedia.com/Gobliiins) – Dragon magazine review, Powerplay scores, easter eggs
 [^ref-23]: MyAbandonware – Gobliins 2 *(download link removed: the game is sold commercially)* – user rating, HOTUD review quotes, DOSBox support

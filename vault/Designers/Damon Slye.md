@@ -51,13 +51,13 @@ Stellar 7 was Slye's breakthrough title, published by his Software Entertainment
 
 ### Arcticfox (1986)
 
-Building on the success of Stellar 7, Arcticfox represented a significant evolution in Slye's design philosophy and technical capabilities.[^ref-16] The game was the first original title Electronic Arts published for the new Amiga computer, featuring more sophisticated 3D graphics and gameplay mechanics.[^ref-2] Arcticfox earned recognition from the Software Publishers Association with a Gold Award in 1986 and landed at #138 on Computer Gaming World's "Best Games of All Time" list.[^ref-2] This achievement highlighted Slye's growing reputation as both a technical innovator and skilled game designer, setting the stage for his later masterwork in flight simulation.[^ref-17]
+Building on the success of Stellar 7, Arcticfox represented a significant evolution in Slye's design philosophy and technical capabilities.[^ref-16] Developed for the Amiga, it was one of the first games for the platform.[^ref-2] Arcticfox landed at #138 on Computer Gaming World's "Best Games of All Time" list.[^ref-2] This achievement highlighted Slye's growing reputation as both a technical innovator and skilled game designer, setting the stage for his later masterwork in flight simulation.[^ref-17]
 
 ### Red Baron (1990)
 
 [[1990 - Red Baron|Red Baron]] stands as Slye's magnum opus and one of the most influential flight simulation games ever created.[^ref-18] Developed during his time at Dynamix under Sierra On-Line, the game featured unprecedented realism in aircraft modeling and combat mechanics.[^ref-12] Slye's background in mathematics and physics was crucial to the game's success, as he "designed and programmed a flight model from scratch for Red Baron, a historical simulator of WWI air combat," according to colleague David McClurg.[^ref-8]
 
-The game's development philosophy balanced authenticity with entertainment value, as Slye noted that "Red Baron was intended to be entertaining and fun for players rather than focusing primarily on realism."[^ref-18] This approach helped make the complex subject of World War I aerial combat accessible to a broad audience while maintaining enough technical depth to satisfy simulation enthusiasts.[^ref-13] Red Baron nabbed the #4 spot on Computer Gaming World's Best Computer Games of All Time list and won Computer Gaming World's Simulation of the Year award in 1991, cementing Slye's reputation as one of the premier flight simulation designers in the industry.[^ref-2]
+The game's development philosophy balanced authenticity with entertainment value, as Slye noted that "Red Baron was intended to be entertaining and fun for players rather than focusing primarily on realism."[^ref-18] This approach helped make the complex subject of World War I aerial combat accessible to a broad audience while maintaining enough technical depth to satisfy simulation enthusiasts.[^ref-13] Red Baron nabbed the #4 spot on Computer Gaming World's Best Computer Games of All Time list and won multiple other awards, cementing Slye's reputation as one of the premier flight simulation designers in the industry.[^ref-2]
 
 ### Aces of the Pacific (1992)
 
@@ -112,7 +112,7 @@ The influence of Slye's work can be seen in the continued popularity and evoluti
 ## References
 
 [^ref-1]: [Damon Slye - Wikipedia](https://en.wikipedia.org/wiki/Damon_Slye) — Basic biographical information and career overview
-[^ref-2]: [Legendary Game Designers: Damon Slye](https://gamesnostalgia.com/story/193/legendary-game-designers-damon-slye) — Career achievements and game development contributions
+[^ref-2]: [Legendary Game Designers: Damon Slye](https://gamesnostalgia.net/person/damon-slye) — Career achievements and game development contributions
 [^ref-3]: [Damon Slye Interview - Video Game Newsroom Time Machine](https://videogamenewsroomtimemachine.libsyn.com/damon-slye-interview) — Industry impact and Dynamix's innovative spirit
 [^ref-4]: [Dynamix - Wikipedia](https://en.wikipedia.org/wiki/Dynamix) — Founded 1984 in Eugene by Tunnell and Slye; bought by Sierra in 1990 during Red Baron's development
 [^ref-5]: [Where Are They Now: Damon Slye](https://www.choicestgames.com/2014/09/where-are-they-now-damon-slye.html) — Career sabbatical and burnout information

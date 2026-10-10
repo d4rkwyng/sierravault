@@ -1,28 +1,28 @@
 ---
 title: "Blackbird Interactive"
 type: developer
-founded: 2010
+founded: 2007
 defunct: null
 headquarters: "Vancouver, British Columbia, Canada"
 notable_games: ["Homeworld: Deserts of Kharak", "Hardspace: Shipbreaker", "Homeworld 3"]
 parent_company: "Independent"
-last_updated: "2026-05-11"
+last_updated: "2026-10-09"
 ---
 # Blackbird Interactive
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-Blackbird Interactive is an independent Canadian video game developer based in Vancouver, British Columbia, founded in 2010 by a group of former [[Relic Entertainment]] veterans including art director Rob Cunningham.[^ref-1][^ref-2] The studio specializes in real-time strategy and physics-driven simulation games and has become the steward of the *Homeworld* franchise in the years following [[Relic Entertainment|Relic]]'s departure from the IP, developing the prequel [[2016 - Homeworld - Deserts of Kharak|Homeworld: Deserts of Kharak]] (2016) and the long-awaited [[2024 - Homeworld 3|Homeworld 3]] (2024).[^ref-3][^ref-4]
+Blackbird Interactive is an independent Canadian video game developer based in Vancouver, British Columbia, founded in 2007 by a group of former [[Relic Entertainment]] veterans including art director Rob Cunningham.[^ref-1][^ref-2] The studio specializes in real-time strategy and physics-driven simulation games and has become the steward of the *Homeworld* franchise in the years following [[Relic Entertainment|Relic]]'s departure from the IP, developing the prequel [[2016 - Homeworld - Deserts of Kharak|Homeworld: Deserts of Kharak]] (2016) and the long-awaited [[2024 - Homeworld 3|Homeworld 3]] (2024).[^ref-3][^ref-4]
 
 While Blackbird is not itself a Sierra On-Line lineage studio, its continuation of the *Homeworld* franchise — originally developed by Relic and published by Sierra Studios in 1999 — places it firmly within the post-Sierra extended catalog documented by this archive.[^ref-5] The studio operates independently and has worked with several publishers including Gearbox Publishing and Focus Entertainment.[^ref-6]
 
 ## Founding and Early Years
 
-Blackbird Interactive was founded in 2010 by Rob Cunningham, who had served as art director on the original *Homeworld* and *Homeworld 2* at Relic Entertainment.[^ref-1][^ref-7] The studio's founding team was largely composed of former Relic developers who wanted to continue exploring the kind of cinematic real-time strategy and persistent-fleet gameplay that the original *Homeworld* had pioneered.[^ref-2]
+Blackbird Interactive was founded in 2007 by Rob Cunningham, who had served as art director on the original *Homeworld* and *Homeworld 2* at Relic Entertainment.[^ref-1][^ref-7] The studio's founding team was largely composed of former Relic developers who wanted to continue exploring the kind of cinematic real-time strategy and persistent-fleet gameplay that the original *Homeworld* had pioneered.[^ref-2]
 
-The studio's first project was *Hardware: Shipbreakers*, an ambitious free-to-play ground-based strategy game set on a desert planet — visually and tonally evoking the *Homeworld* universe without actually carrying the IP.[^ref-8] In 2013, after Gearbox Software acquired the *Homeworld* trademark from THQ's bankruptcy auction, Gearbox licensed the IP to Blackbird so that *Hardware: Shipbreakers* could be reborn as an official *Homeworld* prequel.[^ref-9][^ref-10]
+The studio's first project was *Hardware: Shipbreakers*, an ambitious ground-based real-time strategy game, begun in 2010 and originally planned as free-to-play, that was inspired by *Homeworld* without carrying the IP.[^ref-1][^ref-8] In 2013, after Gearbox Software acquired the *Homeworld* trademark from THQ's bankruptcy auction, Gearbox licensed the IP to Blackbird so that *Hardware: Shipbreakers* could be reborn as an official *Homeworld* prequel.[^ref-9][^ref-10]
 
 ## Sierra-Adjacent Work
 
@@ -53,20 +53,20 @@ Blackbird's role as the modern caretaker of the *Homeworld* franchise places it 
 
 ## References
 
-[^ref-1]: [Blackbird Interactive — About](https://www.blackbirdinteractive.com/about/) — Studio history, founding team, leadership
+[^ref-1]: [Blackbird Interactive — About (Wayback 2015, blackbirdinteractive.com/about/)](https://web.archive.org/web/20151122032837/http://blackbirdinteractive.com/about/) — "The company was founded in 2007"; HARDWARE begun 2010 as a planned F2P RTS
 [^ref-2]: [MobyGames — Blackbird Interactive](https://www.mobygames.com/company/14953/blackbird-interactive-inc/) — Company profile, founding date, game credits
 [^ref-3]: [Wikipedia — Homeworld: Deserts of Kharak](https://en.wikipedia.org/wiki/Homeworld:_Deserts_of_Kharak) — Development history, Blackbird's role, release
 [^ref-4]: [Wikipedia — Homeworld 3](https://en.wikipedia.org/wiki/Homeworld_3) — Development, publisher relationship, release
 [^ref-5]: [Wikipedia — Homeworld](https://en.wikipedia.org/wiki/Homeworld) — Original 1999 Sierra Studios release, franchise history
 [^ref-6]: [Blackbird Interactive — Games](https://www.blackbirdinteractive.com/games/) — Studio portfolio
 [^ref-7]: [LinkedIn — Rob Cunningham](https://www.linkedin.com/in/robert-cunningham-3a87a51/) — Founder career, Relic art director credits
-[^ref-8]: [Polygon — Hardware: Shipbreakers preview](https://www.polygon.com/2013/8/23/4644788/hardware-shipbreakers-blackbird-interactive-pax-prime) — Pre-Homeworld licensing project
-[^ref-9]: [PC Gamer — Gearbox buys Homeworld](https://www.pcgamer.com/gearbox-purchases-homeworld-franchise-from-thq/) — Gearbox acquires Homeworld IP at THQ auction
-[^ref-10]: [Eurogamer — Hardware becomes Homeworld prequel](https://www.eurogamer.net/blackbird-interactives-hardware-renamed-homeworld-shipbreakers-after-gearbox-licensing-deal) — IP licensing announcement
+[^ref-8]: [Wikipedia — Blackbird Interactive](https://en.wikipedia.org/wiki/Blackbird_Interactive) — Hardware: Shipbreakers as a Homeworld "spiritual successor"; Gearbox's $1.35M THQ auction win and licence to Blackbird
+[^ref-9]: [MCV/Develop — Gearbox acquires rights to Homeworld franchise](https://mcvuk.com/business-news/publishing/gearbox-acquires-rights-to-homeworld-franchise/) — winning $1.35m bid at THQ's auction
+[^ref-10]: [Wikipedia — Homeworld: Deserts of Kharak](https://en.wikipedia.org/wiki/Homeworld:_Deserts_of_Kharak) — Hardware: Shipbreakers renamed Homeworld: Shipbreakers and announced as a prequel
 [^ref-11]: [IGN — Homeworld: Deserts of Kharak review](https://www.ign.com/articles/2016/01/19/homeworld-deserts-of-kharak-review) — Reception, gameplay analysis
 [^ref-12]: [Metacritic — Homeworld: Deserts of Kharak](https://www.metacritic.com/game/pc/homeworld-deserts-of-kharak) — Aggregate review scores
 [^ref-13]: [Fig — Homeworld 3 campaign](https://www.fig.co/campaigns/homeworld3) — Crowdfunding success, backer numbers
-[^ref-14]: [Gearbox Publishing — Homeworld 3](https://www.gearboxpublishing.com/games/homeworld-3/) — Official publisher page
+[^ref-14]: [Wikipedia — Homeworld 3](https://en.wikipedia.org/wiki/Homeworld_3) — developer Blackbird Interactive, publisher Gearbox Publishing, released May 13, 2024
 [^ref-15]: [Hardspace: Shipbreaker — Steam](https://store.steampowered.com/app/1161580/Hardspace_Shipbreaker/) — Title release info, reviews aggregate
 [^ref-16]: [Minecraft Legends — Official site](https://www.minecraft.net/en-us/about-legends) — Co-development credit
 [^ref-17]: [Rock Paper Shotgun — Homeworld 3 review](https://www.rockpapershotgun.com/homeworld-3-review) — Series continuity analysis

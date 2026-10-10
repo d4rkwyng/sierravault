@@ -228,7 +228,6 @@ This game has been included in the following collections:
 [^ref-15]: [Hardcore Gaming 101 – Quest for Glory](http://www.hardcoregaming101.net/quest-for-glory/) – series retrospective
 [^ref-16]: [Digital Antiquarian – So You Want to Be a Hero?](https://www.filfre.net/2016/09/so-you-want-to-be-a-hero/) – historical analysis
 [^ref-17]: [StrategyWiki – Quest for Glory](https://strategywiki.org/wiki/Quest_for_Glory) – walkthrough, game guide
-[^ref-18]: [Amiga Reviews Archive](https://amigareviews.leveluphost.com/qfg.htm) – Amiga version reviews
 [^ref-19]: [Adventure Classic Gaming – Quest for Glory I: So You Want To Be A Hero](https://adventureclassicgaming.com/index.php/site/reviews/24/) – 4/5 review of the VGA remake by Don Rayner; original-version box specs
 [^ref-20]: [RPGamer – Quest for Glory I Staff Review (archived)](https://web.archive.org/web/20160304211159/http://www.rpgamer.com/games/qfg/qfg1/reviews/qfg1strev1.html) – Tyler Willis, overall 4/5
 [^ref-21]: HowLongToBeat – Quest for Glory I *(link removed: it led to a different game's page)* – completion times

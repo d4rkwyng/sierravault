@@ -211,7 +211,7 @@ The closure of Dynamix by Sierra Entertainment in August 2001, as part of restru
 
 [^ref-12]: [HandWiki – Sierra Sports Skiing 1999 Edition](https://handwiki.org/wiki/Software:Sierra_Sports:_Skiing_1999_Edition) – technical documentation and platform information
 
-[^ref-13]: [GameArchives – Front Page Sports Ski Racing](https://gamearchives.net/front-page-sports-ski-racing/) – series documentation and predecessor information
+[^ref-13]: [Wikipedia – Front Page Sports: Ski Racing](https://en.wikipedia.org/wiki/Front_Page_Sports:_Ski_Racing) – predecessor; "It was followed by Skiing, 1999 Edition"
 
 [^ref-14]: [Amazon – Sierra Sports Skiing 1999 Edition PC](https://www.amazon.com/Sierra-Sports-Skiing-99-PC/dp/B00001JJLQ) – retail release documentation, product details
 

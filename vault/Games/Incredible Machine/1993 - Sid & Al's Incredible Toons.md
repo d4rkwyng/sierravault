@@ -236,7 +236,7 @@ The game's influence can be seen in later physics-based puzzle games that emphas
 
 [^ref-1]: [MobyGames – Sid & Al's Incredible Toons](https://www.mobygames.com/game/3116/sid-als-incredible-toons/) – credits, ratings, awards, technical specifications, packaging contents
 [^ref-2]: [Wikipedia – Sid & Al's Incredible Toons](https://en.wikipedia.org/wiki/Sid_%26_Al%27s_Incredible_Toons) – release dates, platforms, review scores, awards
-[^ref-3]: [Wikipedia – Sid & Al's Incredible Toons](https://en.wikipedia.org/wiki/Sid_&_Al's_Incredible_Toons) – Computer Gaming World quote, international review scores
+[^ref-3]: [Wikipedia – Sid & Al's Incredible Toons](https://en.wikipedia.org/wiki/Sid_%26_Al%27s_Incredible_Toons) – Computer Gaming World quote, international review scores
 [^ref-4]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Sid__Als_Incredible_Toons_1993) – gameplay description, character details, objectives
 [^ref-5]: [MyAbandonware – Sid & Al's Incredible Toons](https://www.myabandonware.com/game/sid-al-s-incredible-toons-1md) – user ratings, HOTUD review quote, DOSBox compatibility
 [^ref-6]: [Classic Gaming Network – Review](https://www.classic-gaming.net/game/64/) – Bokkie review, score, critical assessment
@@ -252,10 +252,10 @@ The game's influence can be seen in later physics-based puzzle games that emphas
 [^ref-16]: [MobyGames – MobyRank](http://www.mobygames.com/game/dos/sid-als-incredible-toons/mobyrank) – aggregate critic and player scores
 [^ref-17]: [Music Stack Exchange – Game Music Discussion](https://music.stackexchange.com/questions/77245/how-do-video-game-music-composers-make-so-many-songs-for-one-game-are-all-of-th) – public domain music usage
 [^ref-18]: [Sierra Chest – Music](https://www.sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=music) – soundtrack track listing
-[^ref-19]: [PCGamingWiki – Sid & Al's Incredible Toons](https://www.pcgamingwiki.com/wiki/Sid_&_Al's_Incredible_Toons) – save file locations, system requirements
+[^ref-19]: [PCGamingWiki – Sid & Al's Incredible Toons](https://www.pcgamingwiki.com/wiki/Sid_%26_Al%27s_Incredible_Toons) – save file locations, system requirements
 [^ref-21]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – sequel features, puzzle count
 [^ref-22]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Sid_%26_Al%27s_Incredible_Toons) – development credits, Electronic Entertainment review
-[^ref-23]: [Alchetron – Sid and Al's Incredible Toons](https://alchetron.com/Sid-and-Al's-Incredible-Toons) – designer credits, platform information
+[^ref-23]: [Alchetron – Sid and Al's Incredible Toons](https://alchetron.com/Sid-and-Al%27s-Incredible-Toons) – designer credits, platform information
 [^ref-24]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – series relationship, developer information
 [^ref-25]: [Metacritic](https://www.metacritic.com/game/sid-and-als-incredible-toons/) – platform and genre classification
 [^ref-26]: [IMDB – Sid & Al's Incredible Toons](https://www.imdb.com/title/tt0471034/) – release year, designer credits

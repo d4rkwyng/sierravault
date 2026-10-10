@@ -25,7 +25,7 @@ Hoyle Word Games 2001 is a word puzzle compilation developed and published by [[
 
 The 2001 edition represented a comprehensive package for word game enthusiasts, bundling not just the core games but also substantial bonus content including a complete Webster's New World College Dictionary built into the software[^ref-4] and 500 different crossword puzzles from Dell Magazines[^ref-3]. With a suggested retail price of $29.99, reviewers noted that players were "really getting a lot of content for the money"[^ref-2]. The game received an ESRB rating of Everyone (E), making it appropriate for all ages[^ref-5], and focused on educational aspects including reading, spelling, and logic skills[^ref-2].
 
-Sierra enhanced the classic word game experience with graphics and sound effects, though one reviewer noted these additions were "merely window dressing on the old favorites"[^ref-4][^ref-18][^ref-19][^ref-20][^ref-21]. The game featured the ability to challenge a lively cast of animated Hoyle characters, create personalized avatars using the Facemaker feature, and even play against others over the internet for free[^ref-3]. While praised for accessibility and value, some critics felt the package suffered from "lack of variety and originality"[^ref-4].
+Sierra enhanced the classic word game experience with graphics and sound effects, though one reviewer noted these additions were "merely window dressing on the old favorites"[^ref-4][^ref-18][^ref-19][^ref-20]. The game featured the ability to challenge a lively cast of animated Hoyle characters, create personalized avatars using the Facemaker feature, and even play against others over the internet for free[^ref-3]. While praised for accessibility and value, some critics felt the package suffered from "lack of variety and originality"[^ref-4].
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-1]
@@ -273,7 +273,7 @@ The game is documented in various gaming databases.[^ref-12][^ref-14][^ref-15][^
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Word Games 2001 Reviews](https://gamefaqs.gamespot.com/pc/450752-hoyle-word-games-2001/reviews) – release date, developer, publisher, GameSpot score
-[^ref-2]: [Children's Technology Review](http://matthewjdimatteo.com/ctr/review.php?id=5613) – educational review, price, games included, Wordox addition, platform info
+[^ref-2]: Children's Technology Review – Hoyle Word Games 2001 review, CTR database entry #5613 *(the online CTR review database at matthewjdimatteo.com/ctr went offline in 2026; no archived copy of this entry found)* – educational review, price, games included, Wordox addition, platform info
 [^ref-3]: [GameFAQs – Hoyle Word Games 2001 Data](https://gamefaqs.gamespot.com/pc/450752-hoyle-word-games-2001/data) – release date, features list, game description, bonus content, ESRB rating
 [^ref-4]: [AllVideoClassicGames](https://www.allvideoclassicgames.com/products/hoyle-word-games-2001-edition-1clk-windows-10-8-7-vista-xp-install) – games list, review quotes, trivia, compatibility info, technical issues
 [^ref-5]: [Michigan State University Library](https://lib.msu.edu/rovi_game/8378) – hybrid PC/Mac platform, ESRB rating, publisher confirmation
@@ -291,4 +291,3 @@ The game is documented in various gaming databases.[^ref-12][^ref-14][^ref-15][^
 [^ref-18]: [LaunchBox Games Database – Hoyle Word Games 2001](https://gamesdb.launchbox-app.com/games/details/hoyle-word-games-2001) — community-curated metadata, cover-art reference, platform confirmation
 [^ref-19]: [Old Games Finder – Hoyle Word Games 2001](https://www.oldgamesfinder.com/hoyle-word-games-2001/) — abandonware preservation archive, ISO metadata, screenshot gallery
 [^ref-20]: [Adventure Classic Gaming – Sierra Hoyle word-games retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Sierra's word-puzzle subline within the broader Hoyle franchise
-[^ref-21]: [PCGamingWiki – Hoyle Word Games](https://www.pcgamingwiki.com/wiki/Hoyle_Word_Games) — technical documentation, compatibility matrix

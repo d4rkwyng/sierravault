@@ -10,14 +10,14 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Fan Project
-last_updated: '2026-05-11'
+last_updated: '2026-10-09'
 description: 'King''s Quest III: To Heir Is Human is a fan-made VGA remake of Sierra
   On-Line''s classic 1986 adventure game, developed and published by Infamous Adventures...'
 tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III: To Heir Is Human (Infamous Adventures Remake)
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -123,7 +123,7 @@ The developers acknowledge these limitations, noting that "it IS an older progra
 
 ### Version History
 
-The game has been continuously available since its 2006 release through Infamous Adventures's own website, with periodic compatibility patches for newer Windows versions.[^ref-16]
+PCGamingWiki lists it as one of two complete, free remakes of King's Quest III, alongside AGD Interactive's Redux.[^ref-16]
 
 ## Legacy
 
@@ -174,4 +174,4 @@ The remake remains a recommended entry point for players wanting to experience K
 [^ref-12]: [Giant Bomb](https://www.giantbomb.com/kings-quest-iii-to-heir-is-human/3030-16093/) – game database with wiki info
 [^ref-13]: [IGDB](https://www.igdb.com/games/kings-quest-iii-to-heir-is-human) – Internet Game Database entry
 [^ref-14]: [King's Quest Omnipedia](https://kingsquest.fandom.com/wiki/King%27s_Quest_III:_To_Heir_is_Human) – wiki documentation
-[^ref-16]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/King%27s_Quest_III:_To_Heir_is_Human) – technical compatibility info
+[^ref-16]: [PCGamingWiki – King's Quest III: To Heir Is Human](https://www.pcgamingwiki.com/wiki/King%27s_Quest_III:_To_Heir_Is_Human) – "There are two complete and free remakes of the game available" (AGD Interactive's Redux and Infamous Adventures')

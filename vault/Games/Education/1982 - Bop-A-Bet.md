@@ -10,14 +10,14 @@ series: Hi-Res Learning Series
 engine: Applesoft BASIC
 protagonist: Boxing Glove (player-controlled)
 sierra_lineage: Sierra Published
-last_updated: '2026-05-14'
+last_updated: '2026-10-09'
 description: Bop-A-Bet is an educational typing and letter-recognition game for children,
   originally developed by Sunnyside Soft in 1982 and later republished by Sierra...
 tags: [1980s, educational, hi-res-learning-series, sierra]
 ---
 # Bop-A-Bet
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -83,7 +83,6 @@ The King's Quest Omnipedia describes Bop-A-Bet as "the cult classic," acknowledg
 **Collector Market:**
 - **Original Sunnyside Soft Copy #18:** Sold for **$10,200** at auction in 2018[^ref-2]
 - **Sierra On-Line variant:** Estimated 5/5 collector-tier rarity (~200 Sunnyside Soft copies + limited Sierra reprints documented)[^ref-3]
-- **Software preservation rating:** 100% of known copies preserved across abandonware archives and the Internet Archive[^ref-4][^ref-10]
 
 ## Development
 
@@ -99,11 +98,8 @@ The development team operated under the company name Sunnyside Soft, which Al Lo
 
 The initial Sunnyside Soft release was decidedly modest in scale—only 200 copies were produced, packaged in "genuine zip-lock baggies" with the creators' home address and phone number printed on the materials.[^ref-2] This bootstrap approach to distribution was common among early microcomputer software publishers before retail channels became established.
 
-**Development Credits:**[^ref-10]
-- **Designer:** Margaret Lowe
-- **Designer:** Rae Lynn MacChesney
-- **Programmer:** Al Lowe
-- **Artist:** Michael MacChesney
+**Development Credits:**[^ref-26]
+- **Created by:** Al Lowe, Margaret Lowe, Michael MacChesney, Rae Lynn MacChesney
 
 ### Technical Achievements
 
@@ -114,7 +110,6 @@ The adaptive difficulty system represented a thoughtful design choice for educat
 ### Technical Specifications
 
 **Apple II Version:**[^ref-10]
-- **Resolution:** HI-RES mode
 - **Memory Required:** 48K RAM
 - **Operating System:** Apple DOS 3.3
 - **Media:** 5.25" Floppy Disk
@@ -152,7 +147,7 @@ The game's primary legacy lies in its connection to Al Lowe's career trajectory[
 
 Bop-A-Bet was included in Sierra's Hi-Res Learning series following Sierra On-Line's acquisition of the Sunnyside Soft product line in 1983.[^ref-3][^ref-18][^ref-19] This educational software line positioned the game alongside other learning-focused titles in Sierra's catalog[^ref-5].
 
-The game appeared on Sierra's internal product list maintained at their Oakhurst, California offices, confirming its status as an official Sierra release.[^ref-2][^ref-11][^ref-15][^ref-17]
+The game appeared on Sierra's internal product list maintained at their Oakhurst, California offices, confirming its status as an official Sierra release.[^ref-2][^ref-11][^ref-15]
 
 ### Fan Projects
 
@@ -219,3 +214,5 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 [^ref-23]: [Sierra Gamers – Al Lowe pre-Larry catalog](https://www.sierragamers.com/al-lowe/) — historical context for Al Lowe's early Sierra and Sunnyside Soft work
 [^ref-24]: [LastDodo – Bop-A-Bet collector entry](https://www.lastdodo.com/en/items/) — collector pricing data and rarity-tier metadata
 [^ref-25]: [WozAday – Apple II Bop-A-Bet preservation](https://archive.org/details/wozaday) — flux-level preservation project entry for the Apple II original
+[^ref-10]: [MobyGames – Bop-A-Bet tech specs](https://www.mobygames.com/game/122928/bop-a-bet/specs/) — Apple DOS 3.3, 48 KB RAM, 5.25" floppy, 1 player
+[^ref-26]: [MobyGames – Bop-A-Bet credits (Apple II)](https://www.mobygames.com/game/122928/bop-a-bet/credits/apple2/) — "Created By Al Lowe, Margaret Lowe, Michael MacChesney, Rae Lynn MacChesney"

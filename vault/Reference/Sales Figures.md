@@ -1,14 +1,14 @@
 ---
 title: "Sales Figures"
 type: reference
-last_updated: "2026-07-13"
+last_updated: "2026-10-09"
 description: "Known commercial sales data for Sierra games, with sources. Indexed by series and by sales tier."
 tags: [reference, sales, commercial, finance]
 ---
 
 # Sales Figures
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
@@ -93,7 +93,7 @@ For context on Sierra's overall scale:
 | 1988 | ~$25M | Sierra IPO prospectus (SEC EDGAR) |
 | 1992 | ~$70M | Sierra Annual Report |
 | 1995 | ~$120M | Sierra Annual Report |
-| 1996 | ~$150M | Pre-CUC acquisition financials[^ref-cuc-acq] |
+| 1996 | $158.2M (fiscal year ended March 31, 1996) | Sierra Form 10-K, filed just before the CUC acquisition[^ref-cuc-acq] |
 
 CUC International paid approximately **$1.06 billion in stock** for Sierra in July 1996 (deal closed February 1997).[^ref-cuc-price] At the time, this was one of the largest video-game industry acquisitions on record.
 
@@ -131,9 +131,9 @@ For the most accurate single-title sales context, the **Sierra IPO prospectus an
 [^ref-gk-sales]: [Adventure Classic Gaming — Jane Jensen interview](http://www.adventureclassicgaming.com/index.php/site/interviews/) — GK sales recall
 [^ref-caesar3]: [GameSpot — Caesar III sales](https://www.gamespot.com) — Vivendi sales disclosure
 [^ref-hw-sales]: [Relic Entertainment press archive](https://en.wikipedia.org/wiki/Homeworld) — Homeworld sales
-[^ref-filfre-kq]: [The Digital Antiquarian — King's Quest budget](https://www.filfre.net/2011/12/sierras-launch/) — KQ development cost
+[^ref-filfre-kq]: [The Digital Antiquarian — The Unmaking and Remaking of Sierra On-Line](https://www.filfre.net/2013/07/the-unmaking-and-remaking-of-sierra-on-line/) — "the game's $850,000 development cost had been funded by IBM"
 [^ref-phantasm-budget]: [Sierra annual report 1995](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=sierra+on-line) — Phantasmagoria budget impact
-[^ref-cuc-acq]: [LA Times — CUC acquires Sierra](https://www.latimes.com/archives/la-xpm-1996-07-25-fi-27676-story.html) — Pre-acquisition revenue context
+[^ref-cuc-acq]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0000724991/000089102096000721/0000891020-96-000721.txt) — "Net sales of $156.1 million and total revenues of $158.2 million for fiscal year 1996"
 [^ref-cuc-price]: [NY Times — CUC buys Sierra](https://www.nytimes.com/1996/07/24/business/cuc-international-to-buy-sierra-online.html) — $1.06B deal documentation
 [^ref-sec-sierra]: [SEC EDGAR — Sierra On-Line filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=sierra+on-line) — Primary financial filings
 [^ref-mobygames-sales]: [MobyGames sales data](https://www.mobygames.com) — Cross-reference for sales claims

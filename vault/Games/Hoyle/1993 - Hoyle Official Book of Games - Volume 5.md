@@ -225,7 +225,7 @@ From a preservation standpoint, Hoyle Solitaire represents an era when major gam
 
 **Download / Preservation**
 - [Internet Archive – Hoyle Solitaire (Windows 3.x)](https://archive.org/details/win3_HoyleSol)
-- [Internet Archive – Hoyle Solitaire USA](https://archive.org/details/hoyle-solitaire-usa)
+- [Internet Archive – Hoyle Solitaire USA](https://archive.org/details/Nova_Hoyle-Solitaire_USA)
 - [Internet Archive – Hoyle Solitaire 1998](https://archive.org/details/Hoyle_Solitaire_Sierra_On-Line_1998)
 - [MyAbandonware – Hoyle Solitaire (1998)](https://www.myabandonware.com/game/hoyle-solitaire-3l6)
 - [MyAbandonware – Hoyle Solitaire (2000)](https://www.myabandonware.com/game/hoyle-solitaire-hzh)

@@ -202,6 +202,6 @@ A later version, Jawbreaker IV, was also released, continuing the series[^ref-1]
 [^ref-18]: [Giant Bomb](https://www.giantbomb.com/jawbreaker-ii/3030-13693/) - Game database entry
 [^ref-19]: [Internet Archive](https://archive.org/details/JawbreakerIISierraOnline) - Preservation archive
 [^ref-16]: [Midway Mfg. Co. v. Dirkschneider (1981)](https://law.justia.com/cases/federal/district-courts/FSupp/543/466/2273010/) — legal-precedent case establishing the "ten-foot rule" that Jawbreaker II was deliberately designed to pass
-[^ref-20]: [Hackers: Heroes of the Computer Revolution (Steven Levy, 1984)](https://www.stevenlevy.com/books/hackers/) — book that documented On-Line Systems' early arcade development including the Jawbreaker series
+[^ref-20]: [Hackers: Heroes of the Computer Revolution (Steven Levy, 1984)](https://www.stevenlevy.com/hackers-heroes-of-the-computer-revolution) — author's page for the book
 [^ref-21]: [IGDB – Jawbreaker II](https://www.igdb.com/games/jawbreaker-ii) — Internet Games Database entry, multi-platform release confirmation
 [^ref-22]: LaunchBox Games Database – Jawbreaker II *(link removed: it led to a different game's page)* — platform listing, cover art, metadata

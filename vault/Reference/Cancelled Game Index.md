@@ -140,8 +140,7 @@ A fourth, smaller pattern: licensed-property cancellations where rights issues k
 [^ref-3]: [The Digital Antiquarian — Sierra cancellations](https://www.filfre.net/?s=Sierra+cancelled) — Long-form cancellation context
 [^ref-4]: [Wikipedia — List of cancelled video games](https://en.wikipedia.org/wiki/List_of_cancelled_video_games) — Industry-wide cancellation context
 [^ref-5]: [MobyGames — Sierra company cancellation entries](https://www.mobygames.com/company/3/sierra-entertainment-inc/) — Cross-reference for documentation
-[^ref-6]: [Ken Williams' memoir](https://www.amazon.com/Not-All-Fairy-Tales-Endings/dp/B086BPDYRX) — Primary source on the CUC-era project cancellations
+[^ref-6]: [Ken Williams' memoir, *Not All Fairy Tales Have Happy Endings* (2020) — Wikipedia](https://en.wikipedia.org/wiki/Not_All_Fairy_Tales_Have_Happy_Endings) — Ken Williams' account of Sierra On-Line from founding to collapse
 [^ref-7]: [Halcyon Days — Warren Schwader Interview](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) — Mentions cancellation patterns under CUC
 [^ref-8]: Adventure Gamers — Cancellation retrospectives *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no clean pre-sale archived copy found)* — Various Adventure Gamers cancellation articles (Cloudflare-protected; view in browser)
-[^ref-9]: [Polygon — Babylon 5: Into the Fire cancellation](https://www.polygon.com/babylon-5-game-cancellation) — Modern retrospective
 [^ref-10]: [Kickstarter — Precinct campaign](https://www.kickstarter.com/projects/jimwalls/precinct) — Failed funding campaign documentation

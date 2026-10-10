@@ -181,10 +181,10 @@ According to Wizard and the Princess, Harlin had divided the continent of Sereni
 [^ref-13]: [MobyGames Technical Specs](https://www.mobygames.com/game/1761/hi-res-adventure-2-the-wizard-and-the-princess/specs/pc-booter/) – Parser and technical specifications
 [^ref-14]: [Lysator Archive](https://www.lysator.liu.se/adventure/Sierra_On-Line,_Inc.html) – Split-screen display information
 [^ref-15]: [GamePressure](https://www.gamepressure.com/games/adventure-in-serenia/ze3fa4) – Gameplay progression and challenges
-[^ref-16]: [Internet Archive – CGW Vol.1 No.2](https://archive.org/details/Computer_Gaming_World_Issue_002) – Computer Gaming World, Vol. 1, No. 2 (January–February 1982), pp. 31–32 – Mark Marlow's review
+[^ref-16]: [Internet Archive – CGW Vol.1 No.2](https://archive.org/details/cgw_2) – Computer Gaming World, Vol. 1, No. 2 (January–February 1982), pp. 31–32 – Mark Marlow's review
 [^ref-17]: [Internet Archive – Creative Computing Aug 1982](https://archive.org/details/creativecomputing-1982-08) – Small, David and Sandy (August 1982). "The Wizard, the Princess, and the Atari". Creative Computing. p. 64 – Atari version review
-[^ref-18]: [Amazon – Addison-Wesley Book of Atari Software](https://www.amazon.com/dp/0201164671) – Stanton, Jeffrey et al., eds. (1984). The Addison-Wesley Book of Atari Software – B rating and standards quote
-[^ref-19]: [Internet Archive – Ares Magazine](https://archive.org/details/aresmagazine) – Chadwick, Ian. Ares Magazine #11 – Review calling it "most amazing, intriguing, fascinating"
+[^ref-18]: [Internet Archive – Addison-Wesley Book of Atari Software 1984](https://archive.org/details/addison-wesley-book-of-atari-software-1984) – Stanton, Jeffrey et al., eds. (1984). The Addison-Wesley Book of Atari Software – B rating and standards quote
+[^ref-19]: [Internet Archive – Ares Magazine #11 (Nov 1981)](https://archive.org/details/Ares_Issue_11_1981_Nov) – Chadwick, Ian. Ares Magazine #11 – Review calling it "most amazing, intriguing, fascinating"
 [^ref-20]: [King's Quest Wiki](https://kingsquest.fandom.com/wiki/Wizard_and_the_Princess) – Industry influence and King's Quest connections
 [^ref-21]: [Internet Archive – PC Magazine](https://archive.org/details/PC-Mag-1984-01-24) – Wiswell, Phil (January 24, 1984). "Coming Soon: Games For The PCjr". pp. 142–145
 [^ref-22]: Amazon – The King's Quest Companion *(link removed: it led to a different game's page)* – 2nd Edition – Expanded lore and wanderer's fate

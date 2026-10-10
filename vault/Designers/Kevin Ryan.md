@@ -21,7 +21,7 @@ Ryan's journey into game development began in the early 1980s as one of the earl
 
 ### Early Career (1983–1984)
 
-Kevin Ryan's entry into the game industry came during the golden age of personal computing in the early 1980s.[^ref-5] Working as one of the earlier developers for the Apple II computer, he quickly demonstrated his programming prowess with the release of Zoo Master and Black Belt in 1983.[^ref-3] These early works established Ryan's reputation as a skilled programmer capable of creating engaging gameplay experiences on the limited hardware of the time.
+Working as one of the earlier developers for the Apple II computer, he quickly demonstrated his programming prowess with the release of Zoo Master and Black Belt in 1983.[^ref-3] These early works established Ryan's reputation as a skilled programmer capable of creating engaging gameplay experiences on the limited hardware of the time.
 
 In 1984, Ryan made a pivotal career move by joining Dynamix as an owner/partner, where he immediately began contributing to the company's growing portfolio of innovative games.[^ref-2] His first major project at Dynamix was creating the Commodore 64 version of Sword of Kadash, showcasing his ability to adapt games across different platforms while maintaining their core gameplay elements.[^ref-2] This technical versatility would become a hallmark of Ryan's career, as he consistently demonstrated mastery of emerging computer platforms and technologies.
 
@@ -73,7 +73,7 @@ Kevin Ryan's impact on the gaming industry extends far beyond his individual gam
 
 The Incredible Machine's lasting popularity and influence on physics-based puzzle games represents perhaps Ryan's most significant contribution to gaming culture.[^ref-7] The game's approach to open-ended problem solving and creative experimentation has been cited as an influence by numerous subsequent puzzle game designers, and its core concepts continue to appear in modern games across various platforms.[^ref-8] Ryan's work on the title demonstrated how sophisticated simulation systems could be made accessible to general audiences, a lesson that has informed game design philosophy across multiple genres.[^ref-10]
 
-Beyond his technical and creative contributions, Ryan's reputation as a collaborative and supportive colleague has left a lasting impact on the developers who worked with him.[^ref-4] His willingness to share knowledge and his positive working relationships have contributed to the broader culture of game development, particularly during the formative years of the personal computer gaming industry.[^ref-5] Today, Ryan continues to be active in game development through Top Meadow, maintaining his commitment to innovation and quality that has characterized his entire career.[^ref-9]
+Beyond his technical and creative contributions, Ryan's reputation as a collaborative and supportive colleague has left a lasting impact on the developers who worked with him.[^ref-4] Today, Ryan continues to be active in game development through Top Meadow, maintaining his commitment to innovation and quality that has characterized his entire career.[^ref-9]
 
 ## Games
 
@@ -112,7 +112,6 @@ Beyond his technical and creative contributions, Ryan's reputation as a collabor
 [^ref-2]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Kevin_Ryan) — Biographical information and career timeline
 [^ref-3]: [Abandonware DOS Game Designer Profile](https://www.abandonwaredos.com/retro-game-designer.php?des=Kevin+Ryan) — Early career and Apple II development
 [^ref-4]: [Game Developer Interview](https://www.gamedeveloper.com/game-platforms/interview-slye-and-the-dynamix-of-game-development) — Damon Slye quote about Kevin Ryan
-[^ref-5]: [Retro Gamer Search Results](https://www.retrogamer.net/?s=Kevin+Ryan) — Industry context and early development
 [^ref-6]: [Reddit Sierra Online Legacy Discussion](https://www.reddit.com/r/Games/comments/a3mtec/legacy_of_sierra_online/) — Career contributions and impact
 [^ref-7]: Adventure Gamers Search *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Sierra years projects and approach
 [^ref-8]: [Marble Blast Fandom Wiki](https://marbleblast.fandom.com/wiki/Kevin_Ryan) — Game design philosophy and approach

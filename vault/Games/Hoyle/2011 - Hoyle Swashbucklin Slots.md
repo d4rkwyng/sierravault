@@ -21,7 +21,7 @@ tags: [2010s, hoyle, sierra]
 
 ## Overview
 
-Hoyle Swashbucklin' Slots is a pirate-themed slot machine simulation game developed and published by Encore Software in 2011[^ref-1][^ref-2][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20]. The game represents a spin-off entry in the long-running Hoyle gaming franchise, which had been associated with Sierra Entertainment before transitioning to Encore's stewardship[^ref-3]. Marketed with the tagline "Sail Ho All Ye Landlubbers and Seafarers!", the game promised players "a brand-new treasure chest of fun" featuring some of the "loosest slots on the seas"[^ref-1][^ref-2].
+Hoyle Swashbucklin' Slots is a pirate-themed slot machine simulation game developed and published by Encore Software in 2011[^ref-1][^ref-2][^ref-17][^ref-19][^ref-20]. The game represents a spin-off entry in the long-running Hoyle gaming franchise, which had been associated with Sierra Entertainment before transitioning to Encore's stewardship[^ref-3]. Marketed with the tagline "Sail Ho All Ye Landlubbers and Seafarers!", the game promised players "a brand-new treasure chest of fun" featuring some of the "loosest slots on the seas"[^ref-1][^ref-2].
 
 The title features an extensive collection of slot machine games with both mechanical and video slot varieties, incorporating a swashbuckling nautical theme throughout[^ref-4]. Players can enjoy denominations ranging from 1 cent to $500, with progressive and standard play options available[^ref-4]. The game was released for both PC and iOS platforms, making it accessible to both desktop and mobile gamers seeking casual gambling entertainment without real-money stakes[^ref-2][^ref-5].
 
@@ -108,7 +108,7 @@ The game has not accumulated significant aggregate review data on major gaming d
 
 Hoyle Swashbucklin' Slots emerged as part of Encore Software's management of the Hoyle gaming brand, which had previously been associated with Sierra Entertainment[^ref-3]. The Hoyle series had established itself over decades as a premier brand for digital card and casino games, and this spin-off title sought to capitalize on that reputation while exploring thematic slot machine gameplay[^ref-3].
 
-The game was listed as a spin-off from the main Hoyle Casino series, with a related 2010 version mentioned in association with compilation releases[^ref-3][^ref-13]. The 2011 release represents either an updated standalone version or a distinct product building on the original Swashbucklin' Slots concept. The Hoyle franchise had a long history dating back to Sierra's original card game adaptations.[^ref-14]
+The game was listed as a spin-off from the main Hoyle Casino series, with a related 2010 version mentioned in association with compilation releases[^ref-3]. The 2011 release represents either an updated standalone version or a distinct product building on the original Swashbucklin' Slots concept. The Hoyle franchise had a long history dating back to Sierra's original card game adaptations.[^ref-14]
 
 ### Production
 
@@ -203,7 +203,6 @@ The game's limited documentation and review coverage reflects the challenge face
 
 **Download / Preservation**
 - Internet Archive preservation status unknown
-- PCGamingWiki maintains technical compatibility information for Hoyle series[^ref-13]
 
 **Manuals & Extras**
 - No manual PDFs located in research
@@ -288,13 +287,10 @@ The game's limited documentation and review coverage reflects the challenge face
 
 [^ref-12]: [Bonanza – Hoyle Swashbucklin' Slots](https://www.bonanza.com/items/search?q%5Bfilter_string%5D=hoyle+swashbucklin) – Retail availability
 
-[^ref-13]: [PCGamingWiki – Hoyle Series](https://www.pcgamingwiki.com/wiki/Hoyle_Casino) – Technical compatibility, series information
 
 [^ref-14]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Hoyle franchise history
 
 [^ref-15]: [Encore Software Official](https://www.encore.com/) – Publisher information
-[^ref-16]: [PCGamingWiki – Hoyle Swashbucklin' Slots](https://www.pcgamingwiki.com/wiki/Hoyle_Swashbucklin%27_Slots) — technical documentation, compatibility matrix
 [^ref-17]: [LaunchBox Games Database – Swashbucklin' Slots](https://gamesdb.launchbox-app.com/games/details/hoyle-swashbucklin-slots) — community-curated metadata, cover-art reference
-[^ref-18]: [App Store archive – Hoyle Swashbucklin' Slots](https://apps.apple.com/us/app/hoyle-swashbucklin-slots/) — iOS-version archival listing
 [^ref-19]: [Adventure Classic Gaming – Encore-era Hoyle retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Encore's themed Hoyle slot products
-[^ref-20]: [Internet Archive – Hoyle Swashbucklin' Slots preservation](https://archive.org/details/hoyle-swashbucklin-slots) — disk-image preservation archive
+[^ref-20]: [Internet Archive – Hoyle Swashbucklin' Slots 2011 (USA) disc image](https://archive.org/details/redump-id-132526) — Redump-verified disc dump of the 2011 US release

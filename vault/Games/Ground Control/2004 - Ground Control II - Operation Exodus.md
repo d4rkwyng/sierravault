@@ -317,7 +317,7 @@ Massive Entertainment would later develop World in Conflict (2007) and eventuall
 [^ref-32]: [MobyGames – Special Edition](https://www.mobygames.com/game/30221/ground-control-ii-operation-exodus-special-edition/) – Special Edition contents
 [^ref-33]: [GameFront](https://www.gamefront.com/games/ground-control-2-operation-exodus) – localized patches, media
 [^ref-34]: [Steam Community Discussion](https://steamcommunity.com/sharedfiles/filedetails/?id=478152763) – compatibility issues with Steam version
-[^ref-35]: [HookedGamers Cheats](https://www.hookedgamers.com/pc/ground_control_ii_operation_exodus/cheats.html) – cheat codes
+[^ref-35]: [HookedGamers Cheats](https://web.archive.org/web/20260320004538/https://www.hookedgamers.com/pc/ground_control_ii_operation_exodus/cheats.html) – cheat codes
 [^ref-36]: [GameSpot – June 2004 Best Games](http://www.gamespot.com/features/6101893/index.html) – PC Game of the Month
 [^ref-37]: [Steam Search](https://store.steampowered.com/search/?term=Ground+Control+II%3A+Operation+Exodus) – Steam release date
 [^ref-38]: Internet Archive – Polish Release *(download link removed: the game is sold commercially)* – CD Projekt budget release details

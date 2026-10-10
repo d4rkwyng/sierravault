@@ -23,11 +23,11 @@ Murphy's career spans over four decades in the video game industry, beginning in
 
 Scott Murphy entered the video game industry during its formative years, joining Sierra On-Line in the early 1980s when the company was still establishing itself as a major force in computer gaming.[^ref-7] His background in programming and his natural aptitude for problem-solving made him a valuable addition to Sierra's growing development team.[^ref-8] Murphy's early work involved contributing to various projects as both a programmer and designer, learning the craft of game development during an era when small teams created entire games from concept to completion.[^ref-9]
 
-His first notable contribution was work on early Sierra titles including [[1982 - Creepy Corridors|Creepy Corridors]] in 1982, which helped him develop his skills in game programming and design.[^ref-10] Murphy also contributed programming work to the groundbreaking [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] in 1984, which introduced Sierra's revolutionary AGI (Adventure Game Interpreter) engine and established many conventions that would define adventure gaming.[^ref-11] This early experience working on Roberta Williams' pioneering adventure game provided Murphy with crucial insights into interactive storytelling and game design philosophy.[^ref-12]
+His first notable contribution was work on early Sierra titles including [[1982 - Creepy Corridors|Creepy Corridors]] in 1982, which helped him develop his skills in game programming and design.[^ref-10]
 
 ### Sierra Years (1986–1995)
 
-Murphy's career truly flourished when he partnered with artist Mark Crowe to create the Space Quest series, beginning with [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]] in 1986.[^ref-13] The duo, who dubbed themselves the "Two Guys from Andromeda," created a unique brand of science fiction comedy that distinguished Space Quest from other adventure games of the era.[^ref-14] Murphy's programming expertise and writing skills complemented Crowe's artistic vision, resulting in a creative partnership that would span nearly a decade.[^ref-15]
+Murphy's career truly flourished when he partnered with artist Mark Crowe to create the Space Quest series, beginning with [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]] in 1986.[^ref-13] The duo, who dubbed themselves the "Two Guys from Andromeda," created a unique brand of science fiction comedy that distinguished Space Quest from other adventure games of the era.[^ref-14] The pair had met on The Black Cauldron, where Crowe was art director and Murphy a programmer, and went on to make four Space Quest games together, ending with Space Quest IV in 1991.[^ref-15]
 
 The success of the first Space Quest game led to immediate sequels, with Murphy co-designing and programming [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]] in 1987 and [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] in 1989.[^ref-16] Each game built upon the series' reputation for clever puzzles, memorable characters, and laugh-out-loud humor, with Murphy's technical innovations allowing for increasingly sophisticated gameplay mechanics and visual presentation.[^ref-17] During this period, Murphy also contributed to other Sierra projects, including work on [[1989 - The Colonel's Bequest|The Colonel's Bequest]] and [[1986 - The Black Cauldron|The Black Cauldron]].[^ref-18]
 
@@ -63,7 +63,7 @@ Murphy's programming background strongly influenced his design philosophy, as he
 
 ## Legacy
 
-Scott Murphy's impact on the video game industry extends far beyond his direct contributions to specific titles. As one half of the Two Guys from Andromeda, he helped establish adventure gaming as a viable and popular genre during the medium's formative years.[^ref-42] The Space Quest series' influence can be seen in countless subsequent games that have attempted to blend humor with interactive storytelling, though few have achieved the perfect balance that Murphy and Mark Crowe created.[^ref-43]
+Scott Murphy's impact on the video game industry extends far beyond his direct contributions to specific titles. As one half of the Two Guys from Andromeda, he helped establish adventure gaming as a viable and popular genre during the medium's formative years.[^ref-42]
 
 Murphy's work has been recognized by industry professionals and fans alike as instrumental in proving that video games could be genuinely funny and emotionally engaging. His contributions to adventure game design, particularly in the areas of puzzle design and narrative integration, established many conventions that continue to influence modern game developers.[^ref-44] The enduring popularity of the Space Quest series, evidenced by numerous fan projects and the successful crowdfunding of SpaceVenture, demonstrates the lasting appeal of Murphy's creative vision.[^ref-45]
 
@@ -110,11 +110,9 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 [^ref-8]: [MobyGames Credits](https://www.mobygames.com/person/4525/scott-murphy/credits/) — complete game development credits and roles
 [^ref-9]: [DBpedia - Scott Murphy](https://dbpedia.org/page/Scott_Murphy_(video_game_designer))) — structured biographical data
 [^ref-10]: [Wiw.org Interview](https://wiw.org/~jess/scott112900.html) — early career details and Creepy Corridors information
-[^ref-11]: [Retro Gamer Coverage](https://www.retrogamer.net/?s=Scott+Murphy) — King's Quest contributions and AGI engine work
-[^ref-12]: [WikiMili Biography](https://wikimili.com/en/Scott_Murphy_(video_game_designer))) — comprehensive career information
 [^ref-13]: [Indie Retro News Review](https://www.indieretronews.com/2019/08/space-quest-i-review-classic-sci-fi.html) — Space Quest creation and development details
 [^ref-14]: Adventure Gamers Search *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Two Guys from Andromeda partnership information
-[^ref-15]: [CelebsAgeWiki](https://www.celebsagewiki.com/scott-murphy-video-game-designer) — partnership with Mark Crowe details
+[^ref-15]: [Wikipedia – Scott Murphy (video game designer)](https://en.wikipedia.org/wiki/Scott_Murphy_(video_game_designer)) — met Crowe on The Black Cauldron; four Space Quest games through SQ IV (1991)
 [^ref-16]: [LinkedIn - Mark Crowe](https://www.linkedin.com/in/mark-crowe-71354965/) — collaborator information and Space Quest development
 [^ref-17]: [Giant Bomb Search](https://www.giantbomb.com/search/?q=Scott+Murphy&filter=person) — technical innovations and game development details
 [^ref-18]: [Apex Magazine Interview](https://www.apexbookcompany.com/a/blog/apex-magazine/post/interview-with-cover-artist-scott-murphy) — other Sierra projects and contributions
@@ -138,6 +136,5 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 [^ref-38]: [Adventure Classic Gaming - Scott Murphy Interview](https://www.adventureclassicgaming.com/index.php/site/interviews/234/) — design philosophy on humor and player engagement
 [^ref-41]: [Guys from Andromeda Press Release (2012)](http://guysfromandromeda.com/wp-content/uploads/2012/06/Spaceventure_Press_Release_PDF1.5.pdf) — design approach and iteration philosophy
 [^ref-42]: [Game Developer - Sierra Adventure Games](https://www.gamedeveloper.com/design/the-game-design-legacy-of-roberta-williams) — adventure gaming as viable genre
-[^ref-43]: [PC Gamer - Best Adventure Games](https://www.pcgamer.com/the-best-adventure-games-on-pc/) — Space Quest influence on subsequent games
 [^ref-44]: Adventure Gamers - Hall of Fame *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Murphy's contributions to puzzle design and narrative
 [^ref-45]: [Kotaku - SpaceVenture Coverage](https://kotaku.com/spaceventure-space-quest-kickstarter-steam-disaster-1851774747) — enduring Space Quest popularity and fan community

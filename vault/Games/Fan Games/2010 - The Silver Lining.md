@@ -213,5 +213,5 @@ The project's legacy extends beyond The Silver Lining itself, as Phoenix Online 
 [^ref-16]: [ModDB - The Silver Lining](https://www.moddb.com/) – mod community listing
 [^ref-17]: [UVLIST - The Silver Lining](https://www.uvlist.net/) – universal video game list entry
 [^ref-18]: [Metacritic - The Silver Lining](https://www.metacritic.com/) – potential review aggregation
-[^ref-19]: [Wikipedia - Phoenix Online Studios](https://en.wikipedia.org/wiki/Phoenix_Online_Studios) – developer background
+[^ref-19]: [Wikipedia - The Silver Lining (video game)](https://en.wikipedia.org/wiki/The_Silver_Lining_(video_game)) – developer background (Phoenix Online Studios), Microsoft Windows release
 [^ref-20]: [YouTube - The Silver Lining Gameplay](https://www.youtube.com/) – video documentation and walkthroughs

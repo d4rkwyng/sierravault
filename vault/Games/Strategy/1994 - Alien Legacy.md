@@ -292,7 +292,7 @@ The game's troubled release exemplifies the pressures facing mid-90s developers,
 [^ref-13]: [MyAbandonware – Alien Legacy](https://www.myabandonware.com/game/alien-legacy-21h) – user ratings, bug reports, version differences
 [^ref-14]: [Reddit r/Sierra – An Ode to Alien Legacy](https://www.reddit.com/r/Sierra/comments/17tg2d4/an_ode_to_alien_legacy/) – detailed lore, Easter eggs, genre analysis
 [^ref-15]: [Free Game Empire – Alien Legacy](https://www.freegameempire.com/games/Alien-Legacy) – gameplay features, failure conditions
-[^ref-16]: [The Spoiler – Alien Legacy FAQ](https://the-spoiler.com/STRATEGY/Sierra/alien.legacy.1.html) – walkthrough, bugs, version patches
+[^ref-16]: [The Spoiler – Alien Legacy FAQ](https://strategygamers.com/walkthrough/alien-legacy) – walkthrough, bugs, version patches
 [^ref-17]: [Reddit r/gaming – Alien Legacy Strategy Guide](https://www.reddit.com/r/gaming/comments/9ks2y5/alien_legacy_1994_grand_strategical_victory_guide/) – detailed mechanics, travel calculations
 [^ref-18]: [GameFAQs Forums – Alien Legacy Discussion](https://gamefaqs.gamespot.com/boards/564666-alien-legacy/73652344) – gameplay progression, location names
 [^ref-19]: [VOGONS – Alien Legacy Technical Support](http://www.vogons.org/viewtopic.php?t=27204&start=20) – bug reports, Biota attack trigger, DOSBox issues

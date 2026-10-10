@@ -170,7 +170,6 @@ Take a Break! Crosswords represents a deliberate move by Dynamix and Sierra into
 [^ref-17]: [Sierra Chest – Take a Break! Crosswords product page](https://sierrachest.com/index.php?a=games&id=624) – Dell Magazine licensing details, N8 Productions co-development credits, retail packaging archive
 [^ref-18]: [Reddit r/abandonware](https://www.reddit.com/r/abandonware/comments/1ld4ifp/i_have_about_450_fullversion_shareware_games_from/) – preservation community context for early 2000s shareware games
 [^ref-19]: [GOG.com Dreamlist – Take a Break! Crosswords](https://www.gog.com/dreamlist/game/take-a-break-crosswords) – community Dreamlist entry indicating ongoing player demand for an official re-release
-[^ref-20]: [Old PC Gaming – Take a Break! Crosswords retrospective](https://oldpcgaming.net/take-a-break-crosswords/) – retrospective coverage placing the title within Dynamix's mid-1990s casual-puzzle output
 [^ref-21]: [Adventure Classic Gaming – Dynamix-era Sierra publishing retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) – historical context for Dynamix's mid-1990s Sierra-published catalog including the Take a Break! line
 
 ## Downloads

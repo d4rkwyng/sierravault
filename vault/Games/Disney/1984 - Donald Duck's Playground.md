@@ -22,7 +22,7 @@ tags: [1980s, agi, al-lowe, disney, educational, sierra]
 
 ## Overview
 
-Donald Duck's Playground is an educational video game developed by [[Sierra On-Line]] in 1984, designed by [[Al Lowe]] under license from Walt Disney Productions.[^ref-1][^ref-29] The game represents one of the earliest and most successful examples of edutainment software, teaching children the value of money, basic mathematics, and cash-handling skills through engaging mini-games featuring the iconic Disney character.[^ref-2] It won several awards from educational software magazines as best educational game of the year, establishing itself as a landmark title in children's computing.[^ref-3]
+Donald Duck's Playground is an educational video game developed by [[Sierra On-Line]] in 1984, designed by [[Al Lowe]] under license from Walt Disney Productions.[^ref-1] The game represents one of the earliest and most successful examples of edutainment software, teaching children the value of money, basic mathematics, and cash-handling skills through engaging mini-games featuring the iconic Disney character.[^ref-2] It won several awards from educational software magazines as best educational game of the year, establishing itself as a landmark title in children's computing.[^ref-3]
 
 The game tasks players with controlling Donald Duck as he works various jobs around Duckburg to earn money, which is then spent to purchase playground equipment for his mischievous nephews Huey, Dewey, and Louie.[^ref-4] Originally written for the Commodore 64, the game was subsequently ported to Sierra's Adventure Game Interpreter (AGI) engine for multiple other platforms, making it one of the most unique uses of that adventure game technology.[^ref-5] The game has been praised as "one of the most classic examples of properly good use of a comic book/cartoon character in making children more interested in edutainment, without even noticing it."[^ref-6]
 
@@ -257,7 +257,7 @@ The game's influence can be seen in the edutainment boom that followed in the la
 [^ref-19]: [IMDB – Donald Duck's Playground](https://www.imdb.com/find/?q=Donald+Duck%27s+Playground&s=tt) – user rating
 [^ref-20]: [VGMPF Wiki – Donald Duck's Playground (C64)](https://vgmpf.com/Wiki/index.php?title=Donald_Duck's_Playground_(C64)) – audio technical details, SID chip, Al Lowe's sound driver
 [^ref-21]: [Steemit – 80s Kid Video Game: Donald Duck's Playground](https://steemit.com/gaming/@zulman/80s-kid-video-game-donald-duck-s-playground) – AGI engine background, porting challenges
-[^ref-22]: [PCGamingWiki – Donald Duck's Playground](https://www.pcgamingwiki.com/wiki/Donald_Duck's_Playground) – technical specifications, video modes, related games, availability
+[^ref-22]: [PCGamingWiki – Donald Duck's Playground](https://www.pcgamingwiki.com/wiki/Donald_Duck%27s_Playground) – technical specifications, video modes, related games, availability
 [^ref-23]: [Lemon Amiga – Donald Duck's Playground](https://www.lemonamiga.com/games/details.php?id=1423) – Amiga specifications, user ratings, AGI engine
 [^ref-24]: [Speedrun.com – Donald Duck's Playground](https://www.speedrun.com/donald_ducks_playground) – speedrun records, community statistics, leaderboard
 [^ref-9]: [Sierra Chest – Making Of](https://sierrachest.com/index.php?a=games&id=262&title=donald-ducks-playground&fld=making) – development credits, genre classification

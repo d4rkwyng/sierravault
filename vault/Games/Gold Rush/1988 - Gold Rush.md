@@ -44,21 +44,21 @@ The game opens in Brooklyn Heights, New York, in 1848, before the California Gol
 
 The catalyst for adventure comes when Jerrod receives a letter from his brother Jake with the heading "GREAT FIND IN THE AMERICAN RIVER," revealing the gold discovery that would spark the famous rush[^ref-6]. This letter not only promises potential riches but also the reunion with a long-lost family member, giving Jerrod both emotional and financial motivation to undertake the dangerous journey westward.
 
-By 1849, thousands of men were making the long journey by ship or overland seeking their fortune, fighting Indians, hunger, and the most deadly killer cholera[^ref-collection]. Players must choose one of three historically accurate routes to reach California. The Cape Horn route involves a dangerous sea voyage around the southern tip of South America, while the overland route presents threats from disease, particularly cholera, as well as harsh frontier conditions[^ref-8]. The Panama route combines sea travel to Central America with an overland crossing through the isthmus. Each path offers different narrative experiences and period-appropriate challenges that prospective gold miners actually faced during this era[^ref-9].
+Travellers face starvation, scurvy, and cholera and other diseases that can strike at any time with no warning or cure[^ref-1]. Players must choose one of three historically accurate routes to reach California. The Cape Horn route involves a dangerous sea voyage around the southern tip of South America, while the overland route presents threats from disease, particularly cholera, as well as harsh frontier conditions[^ref-8]. The Panama route combines sea travel to Central America with an overland crossing through the isthmus. Each path offers different narrative experiences and period-appropriate challenges that prospective gold miners actually faced during this era[^ref-9].
 
-The game operates on a real-time element, adding urgency to the player's decisions. The Gold Rush is announced 14 minutes into gameplay[^ref-collection], which impacts game mechanics and forces players to act quickly to prepare for their journey before news spreads and competition intensifies.
+The game operates on a real-time element, adding urgency to the player's decisions. The Gold Rush is announced 14 minutes into gameplay[^ref-1], which impacts game mechanics and forces players to act quickly to prepare for their journey before news spreads and competition intensifies.
 
 ## Gameplay
 
 ### Interface and Controls
-Gold Rush! uses Sierra's traditional AGI text parser interface, where players type commands to interact with the game world[^ref-7]. The game employs a points-based scoring system typical of Sierra adventures, rewarding players for solving puzzles and progressing through the story[^ref-10]. Total possible points vary by route: 255 points for the Panama route, and 250 points for the Cape Horn and Land routes, with an additional 50 points available through optional gold searching activities[^ref-collection].
+Gold Rush! uses Sierra's traditional AGI text parser interface, where players type commands to interact with the game world[^ref-7]. The game employs a points-based scoring system typical of Sierra adventures, rewarding players for solving puzzles and progressing through the story[^ref-10]. Of the 250 points available, 50 must be earned by finding gold, one point per find[^ref-9].
 
 Players navigate through detailed pixel art environments using keyboard commands, exploring Brooklyn streets, ship decks, wagon trains, and eventually the gold fields of California. The parser requires players to type specific commands, encouraging careful observation and experimentation. This interface, while dated by modern standards, was state-of-the-art for 1988 and allowed for complex interactions with the game world.
 
 ### Structure and Progression
 The game's most distinctive feature is its three-route structure, making it genuinely replayable as each path offers substantially different content[^ref-2]. Gold Rush! has an unusual replay value for an adventure game, as there are three different routes you can take to get to California[^ref-2]. This design decision effectively tripled the game's content while maintaining a cohesive narrative.
 
-The Cape Horn route emphasizes maritime challenges and includes detailed descriptions such as "The food on board is not as bad as expected... The usual fare is hard-baked biscuit, salted beef, and boiled pudding once a week"[^ref-5]. Sea voyages include random events that can dramatically impact gameplay—the ship can randomly hit an iceberg during the Cape Horn route[^ref-collection], and companions may die during the journey. One particularly striking moment notes simply: "Eric was buried at sea"[^ref-5], capturing the laconic way death was recorded during this era.
+The Cape Horn route emphasizes maritime challenges and includes detailed descriptions such as "The food on board is not as bad as expected... The usual fare is hard-baked biscuit, salted beef, and boiled pudding once a week"[^ref-5]. Sea voyages include random events that can dramatically impact gameplay—the ship can randomly hit an iceberg during the Cape Horn route[^ref-9], and companions may die during the journey. One particularly striking moment notes simply: "Eric was buried at sea"[^ref-5], capturing the laconic way death was recorded during this era.
 
 The overland route follows wagon trains across the American frontier, presenting challenges related to supplies, navigation, and encounters with Native Americans. The Panama route, considered the fastest but most expensive option, involves two sea voyages separated by a treacherous jungle crossing. Each route was designed with the MacNeill brothers' extensive historical research, ensuring authenticity in the obstacles and experiences presented.
 
@@ -67,9 +67,9 @@ The game maintains historical authenticity throughout, with random events that c
 ### Puzzles and Mechanics
 Gold Rush! is renowned for its challenging puzzles and numerous ways to fail or die[^ref-11]. There have never been so many ways to die in a game before[^ref-11], making it essential for players to save frequently across multiple slots. The game requires careful resource management and strategic thinking, as "sacrifices have to be made if you want a chance of striking it rich in California"[^ref-12].
 
-Players must save frequently in multiple slots due to the game's difficulty and potential for sudden failure[^ref-1]. The random death events have been compared to rogue-like games, though critics note they're "nowhere near as much fun"[^ref-12]. Dead-ends and critical items that are hard to find further compound the challenge[^ref-collection], making Gold Rush! one of Sierra's more demanding titles.
+Players must save frequently in multiple slots due to the game's difficulty and potential for sudden failure[^ref-1]. The random death events have been compared to rogue-like games, though critics note they're "nowhere near as much fun"[^ref-12]. Dead-ends and critical items that are hard to find further compound the challenge[^ref-12], making Gold Rush! one of Sierra's more demanding titles.
 
-A notable technical quirk affects text entry: the text parser doesn't pause while typing commands[^ref-collection], meaning players must type quickly or risk the game state changing while they compose their instructions. This added an additional layer of challenge, particularly during time-sensitive sequences.
+A notable technical quirk affects text entry: the text parser doesn't pause while typing commands[^ref-5], meaning players must type quickly or risk the game state changing while they compose their instructions. This added an additional layer of challenge, particularly during time-sensitive sequences.
 
 ## Reception
 
@@ -79,7 +79,7 @@ A notable technical quirk affects text entry: the text parser doesn't pause whil
 |-------------|-------|-------|
 | Dragon magazine | 4½ out of 5 stars | Praised the game's comprehensive nature[^ref-12] |
 | MyAbandonware | 4.28/5 | Called it "one of Sierra's best but least-known games"[^ref-13] |
-| Abandonware DOS | 4.10/5.00 | Positive community rating[^ref-collection] |
+| Abandonware DOS | 4.10/5.00 | Community rating (52 votes)[^ref-21] |
 
 Contemporary reviews celebrated Gold Rush! for its ambitious scope and educational value. Dragon magazine awarded the game 4½ out of 5 stars, praising its comprehensive approach to both adventure gaming and historical education. The game found particular favor among players interested in American history, who appreciated the authentic details woven throughout each route.
 
@@ -99,7 +99,7 @@ Gold Rush! was developed during an uncertain period for Sierra after the company
 Ken MacNeill and Doug MacNeill, brothers who had previously worked on earlier Sierra projects, conceived Gold Rush! as an opportunity to blend their passion for American history with adventure game design. The California Gold Rush provided perfect subject matter: a dramatic historical event filled with colorful characters, dangerous journeys, and the universal appeal of striking it rich.
 
 ### Production
-The game was created using Sierra's AGI (Adventure Game Interpreter) engine and was among the final titles developed with this technology before Sierra moved to the more advanced SCI engine[^ref-3]. Released late in the lifespan of Sierra's AGI engine[^ref-collection], Gold Rush! featured some technical innovations despite using what was becoming outdated technology. It was the first Sierra game to feature multiple routes to the destination[^ref-collection], notable a design concept that would influence later adventure games.
+The game was created using Sierra's AGI (Adventure Game Interpreter) engine and was among the final titles developed with this technology before Sierra moved to the more advanced SCI engine[^ref-3]. Released late in the lifespan of Sierra's AGI engine[^ref-5], Gold Rush! offered three different routes to California, each with its own puzzles and scenes, giving it unusual replay value for an adventure game[^ref-22].
 
 The development team conducted extensive historical research to maintain accuracy throughout the game. The MacNeill brothers consulted primary sources, historical accounts, and period documents to ensure that the challenges, environments, and dialogue reflected authentic Gold Rush experiences. This dedication to accuracy extended to small details like food descriptions on ships and proper terminology for mining equipment.
 
@@ -108,28 +108,28 @@ Original releases included manual copy protection that required players to refer
 ### Technical Achievements
 Gold Rush! supported multiple graphics modes including Hercules, CGA, EGA, Tandy/PCjr, and VGA, with audio options for PC Speaker and Tandy/PCjr 3-voice sound[^ref-7]. The game's scope was unprecedented for AGI-based adventures, with its three-route structure effectively providing the content equivalent of three separate games[^ref-4].
 
-Gold Rush! was the first Sierra game to employ larger sprites for indoor sequences within the AGI engine[^ref-collection], improving visual detail during key moments. It was also the first Sierra game to play a melody when scoring points[^ref-collection], adding audio feedback that enhanced the sense of accomplishment.
+Gold Rush! uses two versions of Jerrod's sprite: a smaller one for outdoor sequences and a much larger one for indoor scenes[^ref-5][^ref-22].
 
 The original release came on both 3.5" and 5.25" floppy disks and required a minimum of 256 KB RAM and an Intel 8088 processor[^ref-7]. DOSBox provides full support for the game on modern systems, ensuring continued accessibility for contemporary players.
 
 ### Copy Protection
-The game's copy protection involved multiple logic scripts (125-128)[^ref-collection] that checked answers based on ASCII values. Players needed to answer historical trivia questions using information from the included manual. This system proved effective at preventing casual piracy while reinforcing the game's educational themes.
+The game's copy protection uses text from the included manual: players must answer questions using information found there[^ref-22].
 
 ## Legacy
 
 Gold Rush! has maintained its reputation as an exceptional but challenging adventure game. It received recognition as the 96th Best Adventure Game by Adventure Gamers in 2011[^ref-3]. The game has been preserved through multiple re-releases, including a 2014 Anniversary edition by Sunlight Games that featured updated graphics, voice output, and new music while maintaining the original gameplay[^ref-18].
 
-The MacNeill brothers left both Sierra and the digital gaming industry after completing this title, making it their final contribution to adventure gaming[^ref-5]. Remarkably, Ken Williams himself doesn't mention the game in his book about Sierra's history, and Gold Rush! is the only classic Sierra game whose rights the MacNeill brothers salvaged from the Vivendi/Activision/Microsoft corporate transitions—Ken Williams donated the rights back to them[^ref-collection].
+The MacNeill brothers left both Sierra and the digital gaming industry after completing this title, making it their final contribution to adventure gaming[^ref-5]. Remarkably, Ken Williams himself doesn't mention the game in his book about Sierra's history, and Gold Rush! is the only classic Sierra game whose rights the MacNeill brothers salvaged from the Vivendi/Activision/Microsoft corporate transitions—Ken Williams donated the rights back to them[^ref-5].
 
 The game's influence can be seen in later adventure games that emphasized multiple paths and historical authenticity. Its three-route structure has been praised as innovative game design that provides genuine replay value, unusual for adventure games of the era[^ref-13]. Despite its notorious difficulty, Gold Rush! continues to attract new players interested in classic Sierra adventures and the historical period it depicts[^ref-19][^ref-20].
 
-Sunlight Games released Gold Rush! 2 in 2017[^ref-collection], a sequel developed with story input from the original 80s developers. While reception was mixed (3rd-Strike gave it 6.1/10[^ref-collection], criticizing the voice acting as "about as captivating as listening to sandpaper grinding along a wooden 2 by 4"), it demonstrated continued interest in the franchise.
+Sunlight Games released Gold Rush! 2 in April 2017 as a sequel to Gold Rush! Anniversary[^ref-1]. While reception was mixed (3rd-Strike gave it 6.1/10[^ref-16], criticizing the voice acting as "about as captivating as listening to sandpaper grinding along a wooden 2 by 4"), it demonstrated continued interest in the franchise.
 
-A collector's edition Amiga version was released in 2019 by Sunlight Games[^ref-collection], featuring handmade wooden boxes and collectibles. A second batch of special edition packages followed in 2022, indicating sustained demand among retro gaming enthusiasts.
+In October 2019 Sunlight Games announced a boxed Special Edition of Gold Rush! for classic Amiga computers, the first release of its "RetroTainment" retro label[^ref-18].
 
 ### Easter Eggs and Trivia
 
-The game contains at least one documented Easter egg: a reference to the "Boston Blackie" radio show appears on a cemetery gravestone[^ref-collection]. Speedrunners have also embraced the game, with achievement runs tracked on Speedrun.com across different route and version categories.
+The game contains at least one documented Easter egg: a reference to the "Boston Blackie" radio show appears on a cemetery gravestone[^ref-9]. Speedrunners have also embraced the game, with achievement runs tracked on Speedrun.com across different route and version categories.
 
 ## Downloads
 
@@ -168,3 +168,5 @@ The game contains at least one documented Easter egg: a reference to the "Boston
 [^ref-18]: [Sunlight Games](https://www.goldrush-game.com/) – Anniversary edition details
 [^ref-19]: [Giant Bomb](https://www.giantbomb.com/gold-rush/3030-15261/) – Game database entry
 [^ref-20]: [IGDB](https://www.igdb.com/games/gold-rush) – Game database entry
+[^ref-21]: [Abandonware DOS – Gold Rush!](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Gold+Rush!&gid=324) – "Rating: 4.10 / 5.00 (52 votes)"; marked "NOT abandonware"
+[^ref-22]: [MobyGames – Gold Rush! trivia](https://www.mobygames.com/game/440/gold-rush/trivia/) – three alternative routes, larger indoor character, manual-based copy protection

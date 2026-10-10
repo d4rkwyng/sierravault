@@ -211,7 +211,7 @@ Grace Nakimura has been called "one of the best, most realistic female character
 
 [^ref-12]: [Adventure Game Hotspot – Gabriel Knight Coverage](https://adventuregamehotspot.com/) – Adventure gaming news covering Gabriel Knight franchise
 
-[^ref-13]: [Jane Jensen Official Site](http://www.janejensen.com/) – Creator portfolio, project information
+[^ref-13]: [Wikipedia – Jane Jensen](https://en.wikipedia.org/wiki/Jane_Jensen) – Creator biography and works (replaces janejensen.com, which no longer serves her site)
 
 [^ref-14]: [Unseen64 – Gabriel Knight 4](https://www.unseen64.net/) – Cancelled game documentation and development history
 [^ref-16]: [Amir Satvat — "My Interview With Jane Jensen" (YouTube, Feb 26, 2025)](https://www.youtube.com/watch?v=QfAAQp_IOWg) — interview with Jane Jensen; content not yet verified against a transcript, so not currently cited

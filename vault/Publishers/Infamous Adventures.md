@@ -33,7 +33,7 @@ Like [[Publishers/AGD Interactive|AGD Interactive]], Infamous Adventures operate
 
 ## References
 
-[^ref-1]: [Infamous Adventures - Official Site](http://infamous-adventures.com/) - Company and downloads
+[^ref-1]: [Infamous Adventures - Official Site (Wayback, March 2010)](https://web.archive.org/web/20100315090245/http://www.infamous-adventures.com:80/) - Company and downloads (the live domain now redirects to infamousadventures.itch.io)
 [^ref-2]: [MobyGames - Infamous Adventures](https://www.mobygames.com/company/15714/infamous-adventures/) - Game database profile
 [^ref-3]: [Wikipedia - Infamous Adventures](https://en.wikipedia.org/wiki/Infamous_Adventures) - Company history
 [^ref-4]: [Adventure Gamers - Space Quest II VGA](https://web.archive.org/web/20220105144442/https://adventuregamers.com/games/view/16908) - Remake coverage

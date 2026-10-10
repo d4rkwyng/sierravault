@@ -231,4 +231,4 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 [^ref-3]: [Sierra Chest – Mega Math General](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=general) – Dr. Krista character, game philosophy
 [^ref-19]: [GOG Dreamlist – Mega Math](https://www.gog.com/dreamlist/game/sierra-discovery-turbo-leaning-mega-math) – community interest in preservation
 [^ref-20]: [IGDB – Turbo Learning: Mega Math](https://www.igdb.com/games/turbo-learning-mega-math) – Internet Games Database entry, platform listing, release-year confirmation, developer attribution
-[^ref-23]: [LaunchBox Games Database – Sierra Discovery Series](https://gamesdb.launchbox-app.com/games/dump/93798-mega-math) — Sierra Discovery Series catalog placement, cover-art reference, Mega Math metadata
+[^ref-23]: [LaunchBox Games Database – Mega Math](https://gamesdb.launchbox-app.com/games/details/93798) — Mega Math metadata (1992, MS-DOS, Jeff Tunnell Productions / Sierra On-Line), cover art

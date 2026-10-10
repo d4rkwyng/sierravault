@@ -96,7 +96,6 @@ IGN later included the series on their list of "Ten Sports Games That Need To Be
 **Aggregate Scores:**
 - **MobyGames:** 78% (Critics)[^ref-1]
 - **Home of the Underdogs:** 9.02/10[^ref-4]
-- **Emuparadise:** 5/5 (9 votes)[^ref-16]
 - **OldGames.sk:** 70%[^ref-5]
 - **My Abandonware:** 4.54/5[^ref-17]
 
@@ -134,7 +133,6 @@ The adaptive AI system demonstrated sophisticated programming that tracked playe
 - **Play Database:** 10,000 stock plays
 - **Statistical Categories:** Over 300
 - **Player Ratings:** 0-99 scale, 8 performance classifications
-- **File Size:** 7.3 MB[^ref-16]
 
 **Floppy Version:**[^ref-4]
 - **Play Database:** 3,000 stock plays
@@ -277,7 +275,6 @@ The series' eventual decline following the troubled Football Pro '98 and cancell
 [^ref-13]: [Steam Community – Front Page Sports Football](https://steamcommunity.com/app/316700) – community sentiment, modern assessment
 [^ref-14]: [IGN – Front Page Sports: Football Pro '95](https://www.ign.com/games/front-page-sports-football-pro-95) – "Ten Sports Games That Need To Be Remade" mention
 [^ref-15]: [Football Idiot Forum](https://www.footballidiot.com/forum/viewtopic.php?t=5242) – emulation methods, copy protection, mobile play
-[^ref-16]: [Old Games Download – Front Page Sports: Football Pro '95](https://oldgamesdownload.com/front-page-sports-football-pro-95-season/) – user rating, file size (replaces dead Emuparadise URL; Emuparadise removed all abandonware content in 2018)
 [^ref-17]: [My Abandonware – Football Pro '95 Season](https://www.myabandonware.com/game/front-page-sports-football-pro-95-season-2ru) – user rating, DOSBox compatibility, "hike" command
 [^ref-18]: [Internet Archive – FBP9611 Patch](https://archive.org/details/FBP9611) – version 1.01 patch notes, bug fixes
 [^ref-19]: [Sierra Help – FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – patch versions, file sizes, feature additions

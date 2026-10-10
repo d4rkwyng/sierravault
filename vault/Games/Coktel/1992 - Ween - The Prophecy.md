@@ -261,5 +261,5 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 [^ref-22]: [Sierra Gamers Updates](https://www.sierragamers.com/updates/) – hint book documentation
 [^ref-23]: [Wikidata – The Prophecy](https://www.wikidata.org/wiki/Q18201850) – platforms, engine, publisher
 [^ref-24]: [VideoGameGeek – The Prophecy](https://videogamegeek.com/videogame/217004/the-prophecy) – North American release details, media format
-[^ref-25]: [Games Nostalgia – Coktel Vision](https://gamesnostalgia.com/games/publisher/coktel+vision) – publisher information, genre, perspective
+[^ref-25]: [Games Nostalgia – Coktel Vision](https://gamesnostalgia.net/games/company/coktel-vision) – publisher information, genre, perspective
 [^ref-26]: [Play Classic Games – Ween: The Prophecy](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-ween-the-prophecy-online/) – interface description, puzzle mechanics

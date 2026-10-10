@@ -129,8 +129,6 @@ On January 5, 2026, the SCP listed Conquests of the Longbow at 90% completion; t
 Sierra's SCI engine ports to Amiga were hampered by technical decisions that resulted in inferior visual presentation compared to DOS versions:[^ref-3]
 
 - **Single Palette Limitation:** The Amiga SCI engine used one color palette for the entire game, unlike DOS which could use different palettes per screen
-- **Color Reduction:** VGA's 256-color graphics were poorly adapted to Amiga's hardware capabilities
-- **Lack of Optimization:** Sierra appeared to invest minimal effort in proper Amiga conversions
 
 ### SCP's Enhancement Process
 
@@ -163,11 +161,10 @@ The project represents a meaningful contribution to Sierra game preservation on 
 **Community-side metrics (informal aggregation):**
 - **English Amiga Board threads:** consistently 5/5 community sentiment across the SQ4 / KQ5 / PQ3 launch discussions[^ref-6]
 - **Coverage breadth:** 100% of major SCP releases (SQ4, KQ5, PQ3) were picked up by IndieRetroNews within 48 hours of announcement[^ref-1][^ref-2][^ref-4]
-- **Source compatibility:** 100% backward compatibility with original Amiga 500/600/1200 hardware[^ref-2][^ref-3]
 
 ### Community Response
 
-The SCP's work has been enthusiastically received by the retro gaming community. IndieRetroNews coverage of the Space Quest IV release noted that the enhancement makes "the infamously bad Amiga port actually playable."[^ref-3]
+The SCP's work has been enthusiastically received by the retro gaming community. IndieRetroNews's coverage of the Space Quest IV release called it "perhaps the one most in need of a remaster, and now you can enjoy it."[^ref-3]
 
 The Sierra Gaming World Facebook group has been instrumental in spreading awareness of SCP releases, connecting the Spanish-based team with the broader international Sierra fan community.[^ref-3]
 
@@ -221,7 +218,7 @@ Original Sources — [KQ5 on MEGA](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80
 ## External Links
 
 - [English Amiga Board Discussion](https://eab.abime.net/showthread.php?t=122018)[^ref-6]
-- [AmigaWave](https://www.amigawave.com/) Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-13][^ref-14][^ref-16]
+- [AmigaWave](https://www.amigawave.com/) Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-13][^ref-14]
 
 
 ## See Also
@@ -245,7 +242,7 @@ Original Sources — [KQ5 on MEGA](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80
 
 [^ref-2]: IndieRetroNews. "Police Quest III - Another Amiga Adventure game by Sierra gets an enhancement by SCP." January 2026. [https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html)
 
-[^ref-3]: [Amiga.org community thread – Space Quest IV OCS Enhanced reception](https://www.amiga.org/forums/showthread.php?p=971010) — community technical commentary on the SCP SQ4 build's palette reconstruction and MIDI support, with developer Q&A.
+[^ref-3]: [IndieRetroNews – Space Quest IV gets an Amiga OCS Enhanced version via DaRaSCo / SCP (full-release update, January 15, 2026)](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html) — palette reconstruction for Amiga OCS, original Amiga music with Roland MT-32 MIDI support, the SCI engine's single-palette limit on Amiga, found via the Sierra Gaming World Facebook group. (Replaces a dead amiga.org thread link.)
 
 [^ref-4]: IndieRetroNews. "King's Quest V - A great adventure game by Sierra gets an Amiga OCS remaster." January 2026. [https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html](https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html)
 
@@ -270,11 +267,9 @@ Original Sources — [KQ5 on MEGA](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80
 [^ref-15]: [GenerationAmiga – Space Quest IV Amiga OCS Enhanced Edition](http://www.generationamiga.com/2026/01/17/space-quest-iv-gets-long-awaited-amiga-ocs-enhanced-edition/) – SCP project coverage, technical achievements, and community reception of the Amiga enhancements
 
 [^ref-14]: [Amiga Original Chip Set (OCS) — Wikipedia](https://en.wikipedia.org/wiki/Original_Chip_Set) — technical specifications for Amiga OCS/AGA color palette capabilities and graphics rendering limitations compared to IBM PC VGA.
-[^ref-16]: [SCP project mirror on SierraVault](https://amiga.sierravault.net/) — project documentation and downloads.
 [^ref-17]: [King's Quest Collection on GOG](https://www.gog.com/en/game/kings_quest_15) — official commercial release of the original DOS VGA King's Quest titles (KQ1–5 + KQ6) used as the source for the SCP King's Quest V Amiga enhancement.
 [^ref-18]: [Police Quest Collection on GOG](https://www.gog.com/en/game/police_quest_collection) — official commercial release of the original Police Quest series (PQ1–4) including the DOS version of Police Quest III used as the source for the SCP enhancement.
 [^ref-19]: [Space Quest Collection on GOG](https://www.gog.com/en/game/space_quest_123_collection) — official commercial release of Space Quest 1–3 on GOG; Space Quest IV is also available individually as the source for the SCP Amiga enhancement.
-[^ref-20]: [GenerationAmiga – SCP King's Quest V Amiga OCS Enhanced edition coverage](http://www.generationamiga.com/2026/01/kings-quest-v-amiga-ocs-enhanced/) — secondary coverage of the SCP KQ5 Amiga release with screenshots, download links, and crew credits.
 [^ref-21]: [English Amiga Board — Amiga preservation community](https://eab.abime.net/) — broader community context for Amiga port enhancement and preservation discussion that surrounds the SCP project's reception.
 
 [^ref-22]: English Amiga Board. "Space Quest IV enhanced by SCP," post #62 by Darasco, February 17, 2026. "Soon when we release Conquest of Longbow, we will also release the graphics injection tool." [https://eab.abime.net/showthread.php?t=122018&page=4](https://eab.abime.net/showthread.php?t=122018&page=4)

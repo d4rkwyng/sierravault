@@ -233,7 +233,7 @@ The game's accessibility also drew note, though not always positively. GameSpot 
 [^ref-5]: [Internet Archive – 3-D Ultra Pinball: The Lost Continent (1997)](https://archive.org/details/3-d-ultra-pinball-the-lost-continent-win-mac-sierra-on-line-inc.-1997) — Sierra's preservation entry containing original marketing copy: "bestselling pinball series of all time," "15 interlinked tables," and the Thrustmaster Wizard / Sidewinder / Gravis Gripp controller list
 [^ref-6]: [MyAbandonware - 3-D Ultra Pinball](https://www.myabandonware.com/game/3-d-ultra-pinball-3fg) — Preservation download with 4.78/5 user rating
 [^ref-7]: [Internet Archive - 3-D Ultra Pinball](https://archive.org/details/3-D_Ultra_Pinball_Sierra_On-Line_S676430_1995) — Preservation copy with documentation
-[^ref-8]: [PC Gamer - 3D Ultra Pinball Thrillride Review](https://archive.org/details/pc-gamer-us-2000) — Review of series evolution and physics improvements
+[^ref-8]: [BunnyGamer – 3D Ultra Pinball: ThrillRide first impressions](https://bunnygamer.com/3d-ultra-pinball-thrillride-game-first-impressions/) — flippers on the left/right Shift keys; "Every complaint I had regarding the previous game has been corrected"
 [^ref-9]: [GameFAQs - 3-D Ultra Pinball](https://gamefaqs.gamespot.com/pc/197855-3-d-ultra-pinball) — Game description and quest mode details
 [^ref-10]: [MobyGames - 3-D Ultra Pinball Scores](https://www.mobygames.com/game/4508/3-d-ultra-pinball/ratings/) — Aggregate critic and player ratings
 [^ref-11]: [GameSpot User Reviews](https://www.gamespot.com/games/3-d-ultra-pinball/user-reviews/) — User rating average of 6.8

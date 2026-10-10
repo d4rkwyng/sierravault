@@ -188,7 +188,7 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [^ref-46]: IMDb - Homeworld: Cataclysm *(link removed: it led to a different game's page)* – User rating
 [^ref-47]: [RavingLuhn - How to Run Homeworld Cataclysm](https://ravingluhnblog.wordpress.com/2017/03/27/how-to-run-homeworld-cataclysm/) – Genre combination analysis ("space-based strategy game with an organic B-movie horror plot"); registry resolution limits
 [^ref-48]: [Space Game Junkie - What Happened to Homeworld: Cataclysm?](https://www.spacegamejunkie.com/oped/happened-homeworld-cataclysm-part-maybe/) – Brian Rubin's investigation including Chris Stewart email interview
-[^ref-50]: [Angelfire Review - Save Times](https://www.angelfire.com/ab4/testrun2B/cataclysm.html) – Technical performance impressions
+[^ref-50]: [Angelfire Review - Save Times](https://web.archive.org/web/20190804110218/http://www.angelfire.com/ab4/testrun2B/cataclysm.html) – Technical performance impressions
 [^ref-52]: [ModDB - Patch 1.01](https://www.moddb.com/games/homeworld-cataclysm/downloads/patch-101-us-version) – Patch 1.01 (US/UK), December 21, 2000; 1.0 saves not compatible
 [^ref-55]: [Steam Community Guide - Homeworld: Too! comic collection (Troff)](https://steamcommunity.com/sharedfiles/filedetails/?id=1429088028) – Catatoons background and Troff's comics (guide marked removed by Steam but still viewable)
 [^ref-56]: [Web Archive - Neoseeker Review](https://web.archive.org/web/20130508144102/http://www.neoseeker.com/Articles/Games/Reviews/homworld_cataclysm/) – "gracefully takes the series to a higher level"

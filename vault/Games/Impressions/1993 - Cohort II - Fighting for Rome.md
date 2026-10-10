@@ -89,7 +89,7 @@ One German review quoted that "all the enhanced graphics and sound in the world 
 
 Modern retrospective assessments remain mixed. MobyGames aggregates a critic score of 42% based on 9 ratings, with a player average of 2.9 out of 5 based on 6 ratings[^ref-12]. The MobyGames Moby Score sits at 5.3[^ref-1]. GameFAQs user ratings classify the game as "Poor" based on 3 ratings[^ref-13].
 
-Not all modern assessments are negative. MyAbandonware users have given the game a 4.5 out of 5 rating[^ref-3], while playold.games shows a perfect 5.0 out of 5 score[^ref-14]. One modern reviewer noted that Cohort II represents "one of the rare occasions when the sequel did not deteriorate (and even improve) the original"[^ref-15]. Another retrospective assessment praised it as "somehow as sleek as those more recent RTSes, though surely, not quite there, but miles better and more playable than many of the proto RTSes of the period"[^ref-9].
+Not all modern assessments are negative. MyAbandonware users have given the game a 4.5 out of 5 rating[^ref-3], while playold.games shows a perfect 5.0 out of 5 score[^ref-14]. Another retrospective assessment praised it as "somehow as sleek as those more recent RTSes, though surely, not quite there, but miles better and more playable than many of the proto RTSes of the period"[^ref-9].
 
 **Aggregate Scores:**
 - **MobyGames:** 42% critic average (9 ratings), 2.9/5 player average (6 ratings)[^ref-12]
@@ -231,7 +231,6 @@ The game's most significant contribution to gaming history may be its innovative
 [^ref-12]: [MobyGames – Cohort II Reviews](https://www.mobygames.com/game/2914/cohort-ii/reviews/) – aggregate critic and player scores
 [^ref-13]: [GameFAQs – Cohort II (PC)](https://gamefaqs.gamespot.com/pc/980540-cohort-ii) – user ratings
 [^ref-14]: [Playold.games – Cohort II](https://playold.games/play-game/cohort-ii/) – user rating, gameplay description
-[^ref-15]: [Online Classic Games – Cohort II](https://onlineclassicgames.com/game/cohort-ii/) – retrospective assessment quote
 [^ref-16]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – absence from Sierra catalog noted
 [^ref-17]: [GameFAQs – Cohort II: Fighting for Rome (Atari ST)](https://gamefaqs.gamespot.com/ast/227088-cohort-ii-fighting-for-rome/data) – Atari ST release information
 [^ref-18]: [GameFAQs – Cohort II (Amiga)](https://gamefaqs.gamespot.com/amiga/980530-cohort-ii/data) – Amiga release information

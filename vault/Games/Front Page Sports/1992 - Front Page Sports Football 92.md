@@ -238,7 +238,7 @@ GameSpot's assessment that the game was "more fun when you are not playing" actu
 - [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
 
 **Download / Preservation**
-- [Internet Archive – FP Sports Football](https://archive.org/details/msdos_Front_Page_Sports_Football_1992_Sierra) — DOS edition preservation
+- [Internet Archive – FP Sports Football](https://archive.org/details/msdos_Front_Page_Sports_Football_1992) — DOS edition preservation
 
 ## See Also
 
