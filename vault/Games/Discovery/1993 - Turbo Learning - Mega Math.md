@@ -9,27 +9,28 @@ platforms: [DOS]
 series: Turbo Learning
 engine: Dynamix Game Development System (DGDS)
 protagonist: Player (child)
-sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+sierra_lineage: Sierra Label (Discovery)
+last_updated: '2026-10-09'
 composer: [Timothy Steven Clarke (Tim Clark)]
-description: 'Turbo Learning: Mega Math is an educational mathematics game developed
-  by Jeff Tunnell Productions and published by Sierra On-Line in 1993. As the second...'
+description: 'Turbo Learning: Mega Math is a 1993 math-facts practice game for DOS, developed
+  by Jeff Tunnell Productions and published by Sierra On-Line as the second and last
+  Turbo Learning title in the Sierra Discovery Series.'
 tags: [1990s, dgds, educational, sierra, turbo-learning]
 ---
 # Turbo Learning: Mega Math
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 9, 2026</small>
 
 ## Overview
 
-Turbo Learning: Mega Math is an educational mathematics game developed by [[Jeff Tunnell]] Productions and published by Sierra On-Line in 1993[^ref-1][^ref-22]. As the second and final title in the short-lived Turbo Learning series, the game teaches children simple algebra through three interactive mini-games while allowing them to take tests to advance to the next level[^ref-2]. The game was released as part of Sierra's Discovery Series, which aimed to provide educational entertainment for young audiences during the early 1990s[^ref-3][^ref-21].
+Turbo Learning: Mega Math is an educational mathematics game developed by [[Jeff Tunnell Productions]] and published by Sierra On-Line in 1993[^ref-1][^ref-22]. Sources disagree on the exact date: The Sierra Chest gives a first release of October 27, 1993[^ref-22], while MobyGames and the Dynamix Wiki give December 20, 1993[^ref-6][^ref-2]. As the second and final title in the short-lived Turbo Learning series, the game teaches children simple algebra through three mini-games, with tests to advance to the next level[^ref-2]. It was released as part of Sierra's Discovery Series[^ref-3][^ref-21].
 
-Described as "one of the least known Sierra games ever," Mega Math followed the formula established by its predecessor, Quarky & Quaysoo's Turbo Science, featuring the same alien characters in a new educational setting[^ref-4]. The game contains an Easter egg referencing its predecessor through an in-game blimp announcement for Turbo Science[^ref-20][^ref-23]. The game was designed to help children practice fundamental math facts through repetitive but engaging gameplay, with the philosophy that "practice, practice, practice" is the key to building mathematical fluency[^ref-3]. Players are guided by Dr. Krista, an intelligent talking teacher who greets them at Knowledge Central and tracks their progress throughout the learning experience[^ref-6].
+Abandonware site descriptions call it "One of the least known Sierra game ever"[^ref-4][^ref-11]. Mega Math followed its predecessor, Quarky & Quaysoo's Turbo Science, and features the same alien characters[^ref-4]. Turbo Science had already teased it: at the Mt. Baldy checkpoint in that game, a blimp's sign announces upcoming games including "Turbo Math"[^ref-24]. The game was designed to help children practice fundamental math facts, with the stated philosophy "Practice, practice, practice"[^ref-3]. Players are guided by Dr. Krista, an intelligent talking teacher who greets them at Knowledge Central and tracks their progress[^ref-6][^ref-3].
 
-One of the game's notable technical achievements was its inclusion of full speech synthesis despite being distributed solely on floppy disks—a relatively rare accomplishment for educational software of that era[^ref-7]. The game targeted elementary school-aged children, offering them an opportunity to have fun while solving basic equations after coming home from school[^ref-7].[^ref-6][^ref-16][^ref-17]
+The game included full speech despite being released only on floppy disks, which a 2015 MobyGames reviewer singled out: "Not many games do that"[^ref-7]. The same reviewer noted that children "can come home from elementary school and have fun with this game, while solving basic equations in the process"[^ref-7].
 
 > [!info]- Game Info
-> **Developer:** [[Jeff Tunnell]] Productions[^ref-1]
+> **Developer:** [[Jeff Tunnell Productions]][^ref-1]
 > **Designer:** [[Randy Dersham]], Jeff Tunnell[^ref-2]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** [[Dynamix]] Game Development System (DGDS)[^ref-8]
@@ -43,68 +44,66 @@ One of the game's notable technical achievements was its inclusion of full speec
 
 Turbo Learning: Mega Math presents a light narrative framework designed to engage young learners in mathematical practice. Upon starting the game, players find themselves at Knowledge Central, where they are greeted by Dr. Krista, a scientist character who serves as the game's guide and instructor[^ref-6]. Dr. Krista asks for the player's name and introduces them to the mathematical challenges ahead, establishing a personalized learning experience[^ref-6].
 
-The game features the returning alien characters Quarky and Quaysoo, who had previously appeared in Quarky & Quaysoo's Turbo Science[^ref-4]. These colorful extraterrestrial companions accompany players through various mathematical challenges, providing encouragement and "zany antics" as children work through equations[^ref-4]. The alien duo helps frame the educational content within an entertaining science-fiction context that connects to the broader Turbo Learning universe.
+The game features the returning alien characters Quarky and Quaysoo, who had previously appeared in Quarky & Quaysoo's Turbo Science[^ref-4]. The player picks one of them as a partner for each of the Mega Math games, and can change partners at Knowledge Central[^ref-21]. Rather than Yes and No buttons, the aliens answer by moving their heads[^ref-6].
 
-The underlying educational philosophy centers on the concept that "math facts are the building blocks to the much larger world of mathematics"[^ref-3]. The game emphasizes that developing flash memory of basic math facts requires consistent practice, positioning itself as a tool to help children build these fundamental skills through repetition disguised as play[^ref-3]. The narrative context, while minimal, serves to make the drill-and-practice format more palatable to young audiences who might otherwise resist traditional homework-style exercises.
+The underlying educational philosophy is summed up in the game's own description of math facts as "building blocks to the much larger world of mathematics"[^ref-3]. It states that "It takes practice to build flash memory of basic math facts that we use every day," and positions the game as a way to make that practice fun[^ref-3].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Mega Math utilizes a mouse-driven interface typical of early 1990s educational software[^ref-2]. Players navigate through the game's various areas by clicking on screen elements, though answers to mathematical problems are entered via keyboard[^ref-4]. The game was designed for up to three players, allowing multiple children to take turns or compete in the learning activities[^ref-2].
+Players navigate by clicking on screen elements with the mouse, for example to choose a partner or answer Dr. Krista's sign-in prompts[^ref-21]. Answers to math problems are entered on the keyboard[^ref-4], and in Odessa's Fast Facts they can also be entered with the mouse on an on-screen 10-key pad[^ref-21]. Each player signs in by name, and Dr. Krista records each player's progress separately[^ref-21][^ref-3].
 
 A notable technical quirk involves the game's mouse functionality being tied to sound card configuration. Users running the game in DOSBox have discovered that setting the Sound Blaster type to "sb2" in the configuration file and selecting "Sound Blaster Card" in the installation program is necessary for proper mouse operation[^ref-9].
 
 ### Structure and Progression
 
-The game is structured around three distinct mini-games that each teach the same mathematical concepts through different gameplay approaches[^ref-4]. Players begin at Knowledge Central with Dr. Krista and progress through increasingly difficult levels by passing tests that evaluate their mathematical knowledge[^ref-2].
+The game is structured around three distinct mini-games that each teach the same mathematical concepts through different gameplay approaches[^ref-4]. Players begin at Knowledge Central with Dr. Krista and progress through increasingly difficult sets of math facts by passing tests[^ref-2][^ref-3].
 
-- **Knowledge Central:** The hub area where players meet Dr. Krista and manage their learning progress[^ref-6]
-- **Mini-Game 1:** Mathematical challenges with alien companions
-- **Mini-Game 2:** Alternative approach to practicing equations
-- **Mini-Game 3:** Third variation of mathematical practice
-- **Testing Areas:** Evaluation sections that determine advancement to higher difficulty levels[^ref-2]
+- **Knowledge Central:** The hub where players change player data or partner, print information, or open the teacher's area[^ref-21]
+- **Das Liquidator's Challenge:** A "frantic high energy" game in which Quarky or Quaysoo, steered with the mouse, smash robot animals carrying the correct answer with a hammer[^ref-3][^ref-21]
+- **Dr. D. Vious' Mind Masher:** The player steers a falling, shape-changing object onto the number that answers the equation[^ref-21]
+- **Orff Strategy:** A strategy board game against the Orffs, where each move requires answering an equation[^ref-3][^ref-21]
+- **Odessa's Fast Facts:** The timed test area; passing a set earns a printable certificate and moves the player to the next, harder set[^ref-3][^ref-21]
 
 ### Puzzles and Mechanics
 
-The core gameplay focuses on simple algebra and basic mathematical operations[^ref-2]. Children solve equations presented within the context of the three mini-games, with Quarky and Quaysoo providing animated reactions to correct and incorrect answers[^ref-4]. The game tracks player progress and adjusts difficulty based on demonstrated competency, embodying the educational design principle that computers can use their "full potential for learning and tracking progress"[^ref-3].
+The core gameplay focuses on simple algebra and basic mathematical operations[^ref-2]. Children solve equations within the three mini-games, with Quarky or Quaysoo as their chosen partner[^ref-21]. According to the game's description, it is "designed to use the full potential of a computer's ability to remember, analyze information, create reports, and even talk to the player"[^ref-3]. Dr. Krista records each player's progress, offers suggestions, and builds custom sets of equations aimed at that player's problem areas[^ref-3]. A teacher's area lets a player, parent or teacher create their own sets, change the order of sets, or print tests[^ref-3].
 
-The game's design philosophy emphasizes repetition as the path to mathematical fluency, with the mini-games serving as entertaining vehicles for drill-and-practice exercises[^ref-3]. However, critics noted that all three mini-games teach the same concepts with limited variation, which can lead to reduced engagement over time[^ref-4].
+The game's design philosophy emphasizes repetition as the path to mathematical fluency, with the mini-games serving as entertaining vehicles for drill-and-practice exercises[^ref-3]. However, one review notes that answers are entered the same way in all three games, so the mini-games offer little real variation[^ref-4].
 
 ## Reception
 
-### Contemporary Reviews
+### Reviews
 
-Turbo Learning: Mega Math received modest attention upon release, with reviewers acknowledging its educational value while noting limitations in variety and replay value. The game was characterized as "a pretty basic educational game with not enough variation" by contemporary critics[^ref-6].
+No contemporary 1993–94 press reviews have been located, and MobyGames lists no critic reviews for the game[^ref-7]. The surviving assessments are later online write-ups. A 2015 MobyGames player review was titled "Pretty basic educational game with not enough variation"[^ref-7].
 
-Reviews consistently noted that while children could have fun with the game initially, the limited variety in mini-games meant that "kids will probably get bored with the games before too long"[^ref-11]. One assessment summarized the title as "just an okay educational game that's fun for a while, but gets boring once you've seen all the mini games and zany antics of cartoon characters"[^ref-4].
+The game description shared by Old-Games and MyAbandonware argues that "Kids will therefore probably get bored with the games before too long"[^ref-11]. It sums the title up as "just an okay educational game that's fun for a while, but gets boring once you've seen all the mini games and zany antics of cartoon characters"[^ref-4].
 
-Comparisons to its predecessor were common, with reviewers frequently noting that "Turbo Science is much better" than Mega Math[^ref-4]. The earlier title's racing mechanics and broader variety of gameplay were seen as more engaging than Mega Math's more focused mathematical drill approach.
+The same write-up concludes that "Turbo Science is much better"[^ref-4].
 
 ### Modern Assessment
 
-Modern retrospectives have treated Mega Math as a historical curiosity within Sierra's educational software catalog. A detailed 2015 MobyGames review praised the technical achievement of including full speech on a floppy disk release, noting that "not many games do that"[^ref-7]. The same reviewer appreciated that "children can come home from elementary school and have fun with this game, while solving basic equations in the process"[^ref-7].
-
-The game has found appreciation among collectors and preservationists interested in Sierra's lesser-known educational titles. Its status as "one of the least known Sierra games ever" has given it a degree of obscurity appeal[^ref-2].
+The 2015 MobyGames player review praised the inclusion of full speech on a floppy-disk release, noting that "Not many games do that"[^ref-7]. The same reviewer appreciated that "Children can come home from elementary school and have fun with this game, while solving basic equations in the process"[^ref-7].
 
 **Aggregate Scores:**
-- **MobyGames:** 3.7/5 (3 ratings)[^ref-6]
-- **MyAbandonware:** 4.45/5 (user ratings)[^ref-11]
-- **Free Game Empire:** 4/10[^ref-12]
+- **MobyGames:** 3.7/5 (3 player ratings)[^ref-10]
+- **MyAbandonware:** 4.17/5 (12 votes, as of October 2026)[^ref-11]
+- **Free Game Empire:** 4 (scale not stated)[^ref-12]
 
 ## Development
 
 ### Origins
 
-Turbo Learning: Mega Math was developed by Jeff Tunnell Productions, a company founded by [[Jeff Tunnell]] after leaving Dynamix, the studio he had co-founded[^ref-7]. The game was conceived as a follow-up to the moderately successful Quarky & Quaysoo's Turbo Science (1992), which had established the Turbo Learning brand and introduced the alien mascot characters[^ref-13].
+Turbo Learning: Mega Math was developed by Jeff Tunnell Productions, a company [[Jeff Tunnell]] started after leaving Dynamix, the studio he had co-founded[^ref-7][^ref-17]. The game was a follow-up to Quarky & Quaysoo's Turbo Science (1992), which introduced the alien characters Quarky and Quaysoo[^ref-13][^ref-4].
 
-The development took place during a period when educational software was a significant market segment for publishers like Sierra On-Line. The Sierra Discovery Series, which included both Turbo Learning titles, represented the company's efforts to capture the growing market for children's educational entertainment[^ref-3].
+Both Turbo Learning titles were released under the Sierra Discovery Series[^ref-17].
 
 ### Production
 
 Jeff Tunnell Productions utilized the Dynamix Game Development System (DGDS) for the game's creation[^ref-8]. This engine "allowed for programmers, artists, and writers to work simultaneously on a project within the same environment," streamlining the development process[^ref-8]. The use of DGDS connected Mega Math to a lineage of Dynamix-developed titles despite being produced by Tunnell's independent studio.
 
-The development team included designers Randy Dersham and Jeff Tunnell, with music composed by Timothy Steven Clarke (credited as Tim Clark)[^ref-2]. The voice cast included Jane Chase, Lloyd Brass, Emily Orton, and Emily Kokal, who provided voices for the game's characters including Dr. Krista and the alien companions[^ref-2].
+The development team included designers Randy Dersham and Jeff Tunnell, with music composed by Timothy Steven Clarke (credited as Tim Clark)[^ref-2]. Jane Chase, Lloyd Brass, Emily Orton and Emily Kokal are credited as voice talent, though the credits do not say which characters each voiced[^ref-2].
 
 **Development Credits:**[^ref-2]
 - **Designers:** Randy Dersham, Jeff Tunnell
@@ -113,24 +112,25 @@ The development team included designers Randy Dersham and Jeff Tunnell, with mus
 
 ### Technical Achievements
 
-The game's most notable technical achievement was the implementation of full speech synthesis on a floppy disk release[^ref-7]. This was accomplished through efficient audio compression and careful resource management, allowing for voiced dialogue from Dr. Krista and other characters without requiring CD-ROM distribution.
+The game's most notable technical achievement was full recorded speech on a floppy-disk-only release[^ref-7].
 
 The DGDS engine provided a robust foundation for the game's animated sequences and interactive elements[^ref-8]. The opening music notably transitions from a rendition of "Twinkle Twinkle, Little Star" to a heavy metal arrangement, demonstrating the playful approach to audio design[^ref-7].
 
 ### Technical Specifications
 
-**Floppy Version:**[^ref-14]
-- **Resolution:** 320 x 200, VGA graphics
-- **Audio:** Sound Blaster compatible
-- **Media:** 3.5" high-density floppy disks
-- **File Size:** Approximately 3.80-4 MB[^ref-4]
+**Floppy Version:**
+- **Resolution:** 320 x 200[^ref-14]
+- **Graphics:** VGA[^ref-22]
+- **Audio:** Sound Blaster compatible[^ref-2]
+- **Media:** 3.5" floppy disks[^ref-22]
+- **File Size:** Approximately 3.80-4 MB[^ref-4][^ref-11]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1993-10-27 | IBM PC/DOS | Initial release[^ref-3] |
-| 1.01 | Unknown | IBM PC/DOS | Minor update[^ref-3] |
+| 1.0 | 1993-10-27 (Sierra Chest); MobyGames gives 1993-12-20 | IBM PC/DOS | Initial release[^ref-22][^ref-6] |
+| 1.01 | Unknown | IBM PC/DOS | Later boxed release; changes not documented[^ref-22] |
 
 **Patch Information:**[^ref-2]
 - **Megamath Patch (megpat):** Corrects voice and sound problems with Sound Blaster 16 and Pro Audio Spectrum sound cards
@@ -143,19 +143,19 @@ Sound card compatibility problems with Sound Blaster 16 and Pro Audio Spectrum c
 
 ### Easter Eggs and Trivia
 
-The predecessor game, Quarky & Quaysoo's Turbo Science, contained a reference to Mega Math before its release. At the Mt. Baldy checkpoint in Turbo Science, the blimp's sign announces upcoming games including "Turbo Earth Science" (which was never produced) and "Turbo Math" (the working title for Mega Math)[^ref-3].
+The predecessor game, Quarky & Quaysoo's Turbo Science, contained a reference to Mega Math before its release. At the Mt. Baldy checkpoint in Turbo Science, the blimp's sign announces upcoming games including "Turbo Earth Science" (which was never produced) and "Turbo Math"[^ref-24]. The Sierra Chest lists no Easter eggs in Mega Math itself[^ref-24].
 
 The game's opening sequence features a musical transition from the children's song "Twinkle Twinkle, Little Star" into a heavy metal rendition, setting a playful tone for the educational content to follow[^ref-7].
 
 - Mega Math was the final game in the Turbo Learning series, ending the brand after just two titles[^ref-2]
 - The game reuses characters Quarky and Quaysoo from the earlier Turbo Science title[^ref-4]
-- Released in both Canada and the United States simultaneously[^ref-11]
+- Released in Canada and the United States[^ref-11]
 
 ## Voice Cast
 
 | Character | Voice Actor |
 |-----------|-------------|
-| Dr. Krista | Unknown (likely Jane Chase) |
+| Dr. Krista | Not specified (the credits do not assign roles) |
 | Various Characters | Jane Chase |
 | Various Characters | Lloyd Brass |
 | Various Characters | Emily Orton |
@@ -167,32 +167,28 @@ Voice cast credited in full credits[^ref-2].
 
 ### Sales and Commercial Impact
 
-Turbo Learning: Mega Math did not achieve significant commercial success, contributing to the cancellation of the Turbo Learning series after only two titles[^ref-2]. The game's relative obscurity is reflected in its characterization as "one of the least known Sierra games ever"[^ref-2]. While Quarky & Quaysoo's Turbo Science achieved a score of 4.5/5 with 7 ratings on MobyGames, Mega Math's lower engagement suggests diminished audience interest[^ref-6].
+No sales figures for Mega Math have been found. It was the second and last title in the Turbo Learning series[^ref-2]. On MobyGames, Mega Math averages 3.7/5 from 3 player ratings[^ref-10], against 4.5/5 from 7 player ratings for Turbo Science[^ref-13].
 
 ### Collections
 
-The game was released as part of the Sierra Discovery Series, which bundled educational titles for the children's market[^ref-3]. No known compilation releases have included Mega Math in subsequent years, contributing to its obscurity among Sierra collectors.
+The game was released under the Sierra Discovery Series label[^ref-3]. No compilation releases including Mega Math have been found.
 
 ### Fan Projects
 
-Due to its limited popularity and niche educational focus, Mega Math has not attracted significant fan remake or modification efforts. The game is primarily preserved through abandonware archives and emulation communities.
+No fan remakes or modifications of Mega Math have been found. The game is preserved by the Internet Archive, which offers it playable in the browser[^ref-16], and by MyAbandonware[^ref-11].
 
 ### Related Publications
 
-- **Game Manual:** Included with original floppy disk release, providing installation instructions and gameplay guidance[^ref-11]
+- **Game Manual, Quick Reference Card and Quiz:** Listed among the contents of the original floppy-disk release[^ref-22]
 
 ### Critical Perspective
 
-Turbo Learning: Mega Math represents an interesting footnote in the history of educational software and Sierra On-Line's diversification efforts during the early 1990s. The game demonstrates both the potential and limitations of the edutainment genre during this period—while the technical achievement of including full speech on floppy disks was impressive, the fundamental challenge of making repetitive math practice engaging proved difficult to overcome[^ref-7].
-
-The game's failure to achieve the success of its predecessor, Turbo Science, illustrates the challenges faced by educational software developers in creating sufficiently varied content to maintain children's interest[^ref-4]. While the racing mechanics of Turbo Science provided a more dynamic gameplay framework, Mega Math's three mini-games offered insufficient variety to sustain engagement over time[^ref-4]. This experience likely contributed to Sierra's eventual retreat from the educational software market, focusing instead on their more successful adventure game franchises.
-
-From a historical perspective, Mega Math serves as an example of the drill-and-practice approach to educational software that would later be superseded by more sophisticated adaptive learning systems. Its emphasis on repetition as the path to mathematical fluency reflects the educational thinking of its era, even as its execution fell short of creating a truly compelling learning experience[^ref-3].[^ref-19]
+Mega Math is a straightforward drill-and-practice title. Its own description sums up its approach as "Practice, practice, practice"[^ref-3]. Reviewers praised its full speech on floppy disks but found that the three mini-games offer too little variation to hold children's interest for long[^ref-7][^ref-4]. The same write-up that calls it "just an okay educational game" judges its predecessor, Turbo Science, "much better"[^ref-4].
 
 ## Purchase
 
 **Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/sierra-discovery-turbo-leaning-mega-math) – Available for purchase
+- Not currently sold on any digital storefront found. The game appears only as a wishlist entry on [GOG Dreamlist](https://www.gog.com/dreamlist/game/sierra-discovery-turbo-leaning-mega-math)[^ref-19]
 
 ## Downloads
 
@@ -212,23 +208,22 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 ## References
 
 [^ref-22]: [Sierra Chest – Mega Math](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=box) – release date, version history, Sierra Discovery Series
-[^ref-21]: [Sierra Chest – Mega Math Walkthrough](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=walkthrough) – educational philosophy, game design
+[^ref-21]: [Sierra Chest – Mega Math Walkthrough](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=walkthrough) – manual text: controls, mini-games, Knowledge Central, sign-in
+[^ref-24]: [Sierra Chest – Mega Math Easter eggs](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=eggs) – "No Easter Eggs yet" in Mega Math; Turbo Science blimp sign announcing "Turbo Math"
 
 [^ref-1]: [GameFAQs – Turbo Learning: Mega Math](https://gamefaqs.gamespot.com/pc/532818-turbo-learning-mega-math/data) – developer, publisher, release year
 [^ref-2]: [Dynamix Fandom Wiki – Turbo Learning: Mega Math](https://dynamix.fandom.com/wiki/Turbo_Learning:_Mega_Math) – credits, voice cast, patch information, release date
 [^ref-4]: [Old-Games.com – Mega Math](https://www.old-games.com/download/3317/mega-math) – gameplay description, character information, critical assessment
-[^ref-6]: [MobyGames – Turbo Learning: Mega Math](https://www.mobygames.com/game/3415/turbo-learning-mega-math/) – Dr. Krista description, Knowledge Central
-[^ref-7]: [MobyGames – Turbo Learning: Mega Math Reviews](https://www.mobygames.com/game/3415/turbo-learning-mega-math/reviews/) – 2015 Katakis review, technical achievements, speech on floppy
+[^ref-6]: [MobyGames – Turbo Learning: Mega Math](https://www.mobygames.com/game/3415/turbo-learning-mega-math/) – Dr. Krista description, Knowledge Central, release date
+[^ref-7]: [MobyGames – Turbo Learning: Mega Math Reviews](https://www.mobygames.com/game/3415/turbo-learning-mega-math/reviews/) – 2015 Katakis player review, speech on floppy; no critic reviews listed
 [^ref-8]: [Dynamix Fandom Wiki – DGDS](https://dynamix.fandom.com/wiki/Dynamix_Game_Development_System) – engine information, development workflow
 [^ref-9]: [MobyGames Forums – Mega Math](https://www.mobygames.com/game/dos/turbo-learning-mega-math/forums/dga,2/dgb,8/dgm,210915/) – DOSBox configuration, mouse issues
-[^ref-10]: [MobyGames – Mega Math user reviews subpage](https://www.mobygames.com/game/3415/turbo-learning-mega-math/reviews/?type=user) – aggregated user-side review distribution and rating breakdown
+[^ref-10]: [MobyGames – Mega Math user reviews subpage](https://www.mobygames.com/game/3415/turbo-learning-mega-math/reviews/?type=user) – player average 3.7/5 from 3 ratings
 [^ref-11]: [MyAbandonware – Turbo Learning: Mega Math](https://www.myabandonware.com/game/turbo-learning-mega-math-1gq) – user ratings, regional release information
-[^ref-12]: [Free Game Empire – Mega Math](https://www.freegameempire.com/games/Mega-Math) – rating, historical context
+[^ref-12]: [Free Game Empire – Mega Math](https://www.freegameempire.com/games/Mega-Math) – rating
 [^ref-13]: [MobyGames – Quarky & Quaysoo's Turbo Science](https://www.mobygames.com/game/9821/quarky-quaysoos-turbo-science/) – predecessor game, series information
-[^ref-14]: [LaunchBox Games Database – Mega Math](https://gamesdb.launchbox-app.com/games/details/93798-mega-math) – resolution, platform details
+[^ref-14]: [LaunchBox Games Database – Mega Math](https://gamesdb.launchbox-app.com/games/details/93798-mega-math) – screenshot resolution, platform details
 [^ref-16]: [Internet Archive – Mega Math](https://archive.org/details/msdos_Mega_Math_1992) – preservation, MobyGames description
 [^ref-17]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Jeff Tunnell Productions history, Sierra Discovery Series
-[^ref-3]: [Sierra Chest – Mega Math General](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=general) – Dr. Krista character, game philosophy
-[^ref-19]: [GOG Dreamlist – Mega Math](https://www.gog.com/dreamlist/game/sierra-discovery-turbo-leaning-mega-math) – community interest in preservation
-[^ref-20]: [IGDB – Turbo Learning: Mega Math](https://www.igdb.com/games/turbo-learning-mega-math) – Internet Games Database entry, platform listing, release-year confirmation, developer attribution
-[^ref-23]: [LaunchBox Games Database – Mega Math](https://gamesdb.launchbox-app.com/games/details/93798) — Mega Math metadata (1992, MS-DOS, Jeff Tunnell Productions / Sierra On-Line), cover art
+[^ref-3]: [Sierra Chest – Mega Math General](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=general) – Dr. Krista character, game philosophy, mini-games, teacher's area
+[^ref-19]: [GOG Dreamlist – Mega Math](https://www.gog.com/dreamlist/game/sierra-discovery-turbo-leaning-mega-math) – wishlist entry only; "We couldn't find this game on GOG"
