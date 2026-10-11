@@ -7,56 +7,68 @@ publisher: Sierra On-Line
 genre: Pinball
 platforms: [Windows, Windows 16-bit, Mac]
 series: 3-D Ultra Pinball
-engine: 3D Ultra Pinball Engine
+engine: Unknown/unnamed
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
-description: 3-D Ultra Pinball Power! is a comprehensive compilation package released
-  by Sierra On-Line in 1999, collecting four of the most acclaimed titles from...
+last_updated: '2026-10-11'
+description: 3-D Ultra Pinball Power! is a 1999 Sierra compilation of Dynamix's 3-D
+  Ultra Pinball games, released in two editions with different contents in North America
+  and Europe.
 tags: [1990s, 3-d-ultra-pinball, sierra]
 last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra Pinball Power!
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-3-D Ultra Pinball Power! is a comprehensive compilation package released by [[Sierra On-Line]] in 1999, collecting four of the most acclaimed titles from [[Dynamix|Dynamix, Inc.]]'s innovative 3-D Ultra Pinball series[^ref-1][^ref-14]. The compilation represented a celebration of the series that had sold more than half a million copies by 1998, establishing itself as one of the defining pinball experiences of the multimedia gaming era[^ref-2][^ref-15]. Distributed on a four-CD set, the collection offered players access to over 25 pinball tables across its included games, each featuring distinctive thematic elements and gameplay mechanics[^ref-3].
+3-D Ultra Pinball Power! is a 1999 compilation of [[Dynamix|Dynamix, Inc.]]'s 3-D Ultra Pinball games, published by [[Sierra On-Line]] in North America and by Dynamix in the United Kingdom and France[^ref-1][^ref-14][^ref-17]. Despite sharing one title, the North American and European releases had different contents[^ref-16]. The US edition contained 3-D Ultra Pinball 1 through 3 plus The Incredible Machine 3.0 and a demo of 3-D Ultra Minigolf, while the European edition, released later, contained 3-D Ultra Pinball 1 through 4, with NASCAR Pinball included under the name "Turbo Racing"[^ref-16][^ref-5]. The compilation gathered a series that had sold more than half a million copies by 1998[^ref-2][^ref-9]. IGN describes it as a four-CD set[^ref-3].
 
-The 3-D Ultra Pinball series distinguished itself from traditional arcade pinball simulations by fully embracing the possibilities of digital gaming[^ref-2]. As one description noted, "Some would call it Impossible Pinball. Not that it is difficult to play, rather that you could never build a pinball machine that could do the type of things that this game does"[^ref-4]. The games featured animation, multiple interconnected tables, and temporary targets such as spaceships, goblins, and dinosaurs appearing throughout gameplay—elements that would be physically impossible in real pinball machines[^ref-2]. The Power! compilation served as both an accessible entry point for newcomers and a comprehensive collection for fans of the series.
+The 3-D Ultra Pinball series distinguished itself from traditional arcade pinball simulations by fully embracing the possibilities of digital gaming[^ref-2]. The retail description of the original game put it this way: "Some would call it Impossible Pinball. Not that it is difficult to play, rather that you could never build a pinball machine that could do the type of things that this game does"[^ref-4]. The games featured animation, multiple interconnected tables, and temporary targets such as spaceships, goblins, and dinosaurs appearing throughout gameplay, elements that would be physically impossible in real pinball machines[^ref-2].
 
-Beyond the four pinball titles, the compilation included The Incredible Machine 3.0 as a bonus, adding significant value to the package[^ref-3]. Each game was characterized by a different graphic design and unique atmosphere, allowing players to explore remote corners of space in Fastest Pinball in Space, hunt for terrifying ghouls in Creep Night, visit the prehistoric jungle in The Lost Continent, or experience racing thrills in Turbo Racing[^ref-1].[^ref-11][^ref-12][^ref-13][^ref-11][^ref-12][^ref-13]
+Gamepressure describes each included game as having a different graphic design and atmosphere: the remote corners of space in Fastest Pinball in Space, terrifying ghouls in Creep Night, and the prehistoric jungle in The Lost Continent[^ref-1]. Some databases, including IGN and Gamepressure, list all four pinball games together with The Incredible Machine, but no single edition contained both NASCAR Pinball and The Incredible Machine[^ref-1][^ref-3][^ref-16].
 
 > [!info]- Game Info
-> **Developer:** [[Dynamix]], Inc.[^ref-5]
-> **Designer:** Kyle Miller[^ref-5]
-> **Publisher:** [[Sierra On-Line]], Inc.[^ref-5]
-> **Engine:** Unknown/unnamed[^ref-6]
-> **Platforms:** Windows, Windows 16-bit, Macintosh[^ref-5]
-> **Release Year:** 1999[^ref-1]
-> **Series:** 3-D Ultra Pinball
+> **Developer:** [[Dynamix]], Inc. / Jeff Tunnell Productions[^ref-1][^ref-16]
+> **Designer:** Kyle Miller (designer of the included games)[^ref-18]
+> **Publisher:** [[Sierra On-Line]], Inc. (US, Germany); Dynamix, Inc. (UK, France)[^ref-17]
+> **Engine:** Unknown/unnamed[^ref-16]
+> **Platforms:** Windows, Windows 16-bit, Macintosh[^ref-5][^ref-17]
+> **Release Year:** 1999[^ref-1][^ref-17]
+> **Series:** 3-D Ultra Pinball[^ref-5]
 > **Protagonist:** N/A
 > **Sierra Lineage:** Core Sierra
 
 ## Compilation Contents
 
-3-D Ultra Pinball Power! compiled four distinct pinball games, each offering a unique thematic experience with multiple tables[^ref-1]:
+Sierra Chest documents two editions sold under the same title[^ref-16]:
 
-### 3-D Ultra Pinball: Fastest Pinball in Space
-The original 1995 game that launched the series, featuring 5 pinball tables set in a deep space colony environment[^ref-3]. Based loosely on Dynamix and Sierra's Outpost, the goal was to build a deep space colony and launch a starship by playing pinball across three interconnected areas—the Colony, the Operations Center, and the Mine—each with a primary playfield and several connected mini-playfields[^ref-7]. The game fully embraced its digital pinball heritage, with modes featuring wandering enemies, transforming playfield elements, and temporary physics rule changes[^ref-7].
+| Included title | US edition | EU edition (later) |
+|---|---|---|
+| 3-D Ultra Pinball (Fastest Pinball in Space) | Yes | Yes |
+| 3-D Ultra Pinball: Creep Night | Yes | Yes |
+| 3-D Ultra Pinball: The Lost Continent | Yes | Yes |
+| 3-D Ultra NASCAR Pinball (as "Turbo Racing") | No | Yes |
+| The Incredible Machine 3.0 | Yes | No |
+| 3-D Ultra Minigolf demo | Yes | Listed by MobyGames[^ref-5] |
 
-### 3-D Ultra Pinball 2: Creep Night
-Released in September 1996, this horror-themed sequel offered 4 pinball tables filled with supernatural elements[^ref-3][^ref-8]. Players could hunt for terrifying ghouls across tables featuring gothic horror themes[^ref-1]. Charlotte Panther of Computer Gaming World found the game offered "plenty of scope for replayability" and recommended it for both beginners and experienced players[^ref-9].
+Sources: Sierra Chest[^ref-16]; MobyGames lists the four pinball games, including "3-D Ultra Pinball: Turbo Racing", plus a three-hole 3-D Ultra Minigolf demo[^ref-5]. Wikipedia's description of Power (the first game, Creep Night and Lost Continent, with The Incredible Machine and a golf demo as a bonus) matches the US edition[^ref-2].
 
-### 3-D Ultra Pinball 3: The Lost Continent
-The May 1997 release featured an impressive 15 pinball tables set in a prehistoric jungle environment[^ref-3][^ref-8]. The dinosaur-themed tables represented the most ambitious expansion of the series to that point, with temporary targets like dinosaurs appearing throughout gameplay[^ref-2].
+### 3-D Ultra Pinball: Fastest Pinball in Space (both editions)
+The original 1995 game that launched the series. Based loosely on Dynamix and Sierra's Outpost, the goal was to build a deep space colony and launch a starship by playing pinball across three interconnected areas (the Colony, the Operations Center, and the Mine), each with a primary playfield and several connected mini-playfields[^ref-7]. Wikipedia counts three tables, each holding a set of five challenges[^ref-2]. The game fully embraced its digital pinball heritage, with modes featuring wandering enemies, transforming playfield elements, and temporary physics rule changes[^ref-7].
 
-### 3-D Ultra Pinball 4: Turbo Racing (NASCAR Pinball)
-The racing-themed entry contributed 12 pinball tables to the compilation, originally released in September 1998 as 3-D Ultra NASCAR Pinball[^ref-3][^ref-8]. This title brought the excitement of motorsports to the pinball format.
+### 3-D Ultra Pinball: Creep Night (both editions)
+Released in September 1996, this horror-themed sequel had three tables, followed by a changed Castle table once all challenges were finished, according to Wikipedia[^ref-2][^ref-8]. Charlotte Panther of Computer Gaming World found the game offered "plenty of scope for replayability" and recommended it for both beginners and experienced players[^ref-9].
 
-### Bonus Content
-The compilation included The Incredible Machine V3.0 (also known as The Incredible Machine 3) as a full bonus game, significantly expanding the package's value beyond pinball gaming[^ref-1][^ref-3].
+### 3-D Ultra Pinball: The Lost Continent (both editions)
+The May 1997 release was set in a prehistoric jungle[^ref-8][^ref-1]. Wikipedia describes it as having no challenges but 16 tables, divided into three sectors (Jungle, Temple and Chambers)[^ref-2]. Dinosaurs were among the series' temporary targets[^ref-2].
+
+### 3-D Ultra NASCAR Pinball, as "Turbo Racing" (EU edition only)
+Originally released in September 1998 as 3-D Ultra NASCAR Pinball[^ref-8]. MobyGames lists it in Power! as "3-D Ultra Pinball: Turbo Racing" and links that entry to NASCAR Pinball[^ref-5]. Wikipedia says the game has only three fields: garage, track and pitstop[^ref-2].
+
+### The Incredible Machine 3.0 (US edition only)
+The US edition included The Incredible Machine 3.0 as a full bonus game, along with a demo of 3-D Ultra Minigolf[^ref-16]. This made the US release highly similar to the slightly older 3-D Ultra Pinball: Collector's Edition[^ref-16][^ref-6].
 
 ## Gameplay
 
@@ -66,12 +78,12 @@ The 3-D Ultra Pinball games utilized pre-rendered playfields throughout, offerin
 ### Structure and Progression
 Each included game offered its own progression system tied to its thematic content. In the original Fastest Pinball in Space, Mission Control provided instructions as players invoked various extra modes, warped between tables to complete challenges, and discovered hidden levels[^ref-7]. The fantasy pinball world allowed for impossible physical interactions—tanks could attack the ball, comets could fly in and create a crater in the middle of the board[^ref-4].
 
-Each game is characterized by different table inclination settings, affecting how the balls are bounced and determining how many bonuses are available[^ref-1]. This variety across the four titles ensured distinct gameplay experiences:
+Gamepressure counts more than 25 boards across the package, differing in table inclination, how the balls are bounced and how many bonuses are available[^ref-1]. Its listing mixes the contents of the two editions, so the total should be read with caution[^ref-16].
 
 - **Fastest Pinball in Space:** Three main areas (Colony, Operations Center, Mine) with interconnected mini-playfields[^ref-7]
-- **Creep Night:** Horror-themed tables with supernatural targets[^ref-1]
-- **The Lost Continent:** Prehistoric jungle tables with dinosaur encounters[^ref-1]
-- **Turbo Racing:** Racing-themed progression with motorsport elements[^ref-1]
+- **Creep Night:** Three horror-themed tables, then a changed Castle table[^ref-2]
+- **The Lost Continent:** 16 tables in three sectors, with no challenges[^ref-2]
+- **Turbo Racing (EU edition):** Three fields: garage, track and pitstop[^ref-2]
 
 ### Pinball Mechanics
 The series attempted to escape from traditional arcade pinball by featuring animation, multiple simultaneous tables, and "temporary targets" that appeared throughout gameplay[^ref-2]. However, the physics engine presented challenges—precision aiming was described as nearly impossible due to a "very floaty ball and inconsistent ricochets," the table nudge was considered useless, and most real-life flipper catches and ball passes weren't possible[^ref-7].
@@ -79,19 +91,18 @@ The series attempted to escape from traditional arcade pinball by featuring anim
 ## Reception
 
 ### Contemporary Reviews
-The 3-D Ultra Pinball series received generally positive reviews during its original run. Charlotte Panther of Computer Gaming World praised Creep Night specifically, noting it offered "plenty of scope for replayability" and recommending it for both beginners and experienced pinball players[^ref-9]. A Macintosh review (publication unspecified) called the series "one of the finest pinball simulators available"[^ref-9].
+No contemporary review of the Power! compilation itself has been located; the reviews below cover its component games. Charlotte Panther of Computer Gaming World praised Creep Night, noting it offered "plenty of scope for replayability" and recommending it for both beginners and experienced pinball players[^ref-9]. Retro365 reports that the Macintosh release of Creep Night was hailed as "one of the finest pinball simulators available," without naming the original publication[^ref-9].
 
-MacUser magazine gave the original 3-D Ultra Pinball a score of 3/5 in March 1997[^ref-2].
+MacUser gave 3-D Ultra Pinball: Creep Night a score of 3 out of 5 (Roman Loyola, "The Game Room," March 1997)[^ref-2].
 
 Despite some physics engine limitations, the original 3-D Ultra Pinball proved to be a surprise hit for Sierra, leading to the extensive series that Power! would later compile[^ref-7].
 
 ### Modern Assessment
-Modern user ratings for the compilation have been positive. Polish gaming community GRY-Online.pl users rated 3D Ultra Pinball Power at 5.0[^ref-8], while gamepressure.com users also gave it a 5.0 rating[^ref-1].
+Modern ratings for the compilation are sparse. GRY-Online.pl and its English-language sister site gamepressure.com (both run by Webedia Polska) show a single user rating of 5.0/10[^ref-8][^ref-1]. MobyGames shows a critic average of 80%, based on one critic rating[^ref-5].
 
 **Aggregate Scores:**
-- **MobyGames:** 80%[^ref-5]
-- **GRY-Online.pl Users:** 5.0/10[^ref-8]
-- **Gamepressure.com Users:** 5.0/10[^ref-1]
+- **MobyGames (critics):** 80%, from 1 rating[^ref-5]
+- **GRY-Online.pl / gamepressure.com users:** 5.0/10[^ref-8][^ref-1]
 
 For context, other games in the series received varying user scores: the original 3D Ultra Pinball scored 6.2, Creep Night received 4.1, The Lost Continent got 0.6, NASCAR Pinball scored 1.0, and Thrillride achieved 6.0[^ref-8].
 
@@ -105,18 +116,17 @@ Dynamix had been acquired by Sierra On-Line in 1990 for $1.5 million, becoming o
 The original 3-D Ultra Pinball was inspired by Sierra's 1994 title Outpost, which provided the deep space colony setting[^ref-7][^ref-9]. Interestingly, Outpost was later declared "the worst computer game ever released" by Computer Gaming World despite initially receiving high ratings—an ironic footnote given that its thematic elements successfully fueled the hit pinball game[^ref-9].
 
 ### Production
-The Power! compilation brought together work from multiple years of development across the series. The compilation was produced by Dynamix, Inc. and published by Sierra On-Line, Inc.[^ref-5]. Jeff Tunnell Productions contributed to the development alongside Dynamix[^ref-1].
+The Power! compilation brought together work from multiple years of development across the series. Gamepressure credits development to Dynamix and Jeff Tunnell Productions[^ref-1], and Sierra Chest lists Jeff Tunnell Productions as developer[^ref-16]. Sierra On-Line published the US releases, while Dynamix, Inc. is listed as publisher for the UK and French releases[^ref-17].
 
-**Development Credits:**[^ref-5]
-- **Designer:** Kyle Miller
+**Development Credits:** MobyGames' credits for Power! are the credits of the included games, carried over under per-game headings ("3-D Ultra Pinball Creep Night", "3-D Ultra Pinball") rather than credits for the compilation itself[^ref-18].
+- **Designer:** Kyle Miller (credited as designer on both Creep Night and the original 3-D Ultra Pinball)[^ref-18]
+- **Executive Producer:** Jeffrey Tunnell[^ref-18]
 
 ### Animation Production
-The animation work for the 3-D Ultra Pinball series was outsourced to specialized studios:
+In the Creep Night credits carried into the compilation, animation is credited to LA West Production Inc, with[^ref-18]:
 
-- **LA West Production Inc.** – Primary animation studio[^ref-5]
-- **Croatian Animation Team:**[^ref-5]
-  - **Director of Animation:** Ivan Tomičić
-  - **Animation Team Leader:** Jurica Saravanja
+- **Director of Animation:** Ivan Tomičić
+- **Animation Team Leader:** Jurica Saravanja
 
 ### Technical Achievements
 The series leveraged the technological advancements of mid-1990s multimedia gaming, featuring pre-rendered 3D graphic elements and high-resolution visuals for the era[^ref-9]. The games used pre-rendered playfields to deliver detailed graphics while maintaining fast action, though this approach necessitated a fixed camera perspective[^ref-7].
@@ -130,7 +140,7 @@ The series' willingness to embrace "impossible" pinball scenarios represented a 
 - **RAM:** 16 MB
 - **Operating System:** Windows 3.x/95
 - **Resolution:** 640 x 480, 256 colors[^ref-7]
-- **Media:** Four-CD set[^ref-3]
+- **Media:** CD-ROM[^ref-5]; IGN describes a four-CD set[^ref-3]
 - **Input Devices:** Keyboard, Mouse[^ref-5]
 
 **Multiplayer:**
@@ -141,29 +151,33 @@ The series' willingness to embrace "impossible" pinball scenarios represented a 
 
 ### Version History
 
-| Version | Date | Platform | Notes |
-|---------|------|----------|-------|
-| 1.0 | June 30, 1999 | Windows | Initial US release[^ref-1] |
-| 1.0 | 1999 | Windows 16-bit | Windows 3.x compatible version[^ref-5] |
-| 1.0 | 1999 | Macintosh | Mac platform release[^ref-5] |
-| N/A | March 1, 2000 | Windows | Alternate release date reported[^ref-3] |
+No version numbers are documented. Releases listed by MobyGames[^ref-17]:
+
+| Date | Platform | Region | Publisher |
+|------|----------|--------|-----------|
+| 1999 | Windows, Windows 16-bit | United States | Sierra On-Line[^ref-17] |
+| 1999 | Windows | United Kingdom, France | Dynamix, Inc.[^ref-17] |
+| 1999 | Windows 16-bit, Macintosh | United Kingdom | Dynamix, Inc.[^ref-17] |
+| March 1, 2000 | Macintosh | United States | Sierra On-Line[^ref-17] |
+| August 31, 2000 | Windows | Germany | Sierra On-Line, distributed by HAVAS Interactive Deutschland[^ref-17] |
+
+Gamepressure gives a release date of June 30, 1999[^ref-1], IGN gives March 1, 2000[^ref-3], and Sierra Gamers' series listing dates Power! to 1998[^ref-13].
 
 ### Technical Issues
 The physics engine was noted as the series' primary weakness. Precision aiming was described as "nearly impossible" due to the floaty ball behavior and inconsistent ricochets[^ref-7]. The table nudge feature was characterized as useless, and most real-life flipper catches and ball passes weren't achievable within the game mechanics[^ref-7].
 
 ### Easter Eggs and Trivia
 
-- **Memorial Dedication:** The compilation includes a memorial dedication reading "In Memory of Dariusz Lukaszuk (1964-1996)"[^ref-5]
+- **Memorial Dedication:** The Creep Night credits carried into the compilation open with the dedication "In Memory of Dariusz Lukaszuk (1964-1996)"; Lukaszuk was lead programmer on Creep Night and project director of the original game[^ref-18]
 - **Outpost Connection:** The original Fastest Pinball in Space was thematically based on Sierra's Outpost, despite that game's later infamy[^ref-9]
-- **Steve Wozniak Praise:** While referring to an earlier pinball game (Pinball Construction Set), Apple co-founder Steve Wozniak called it "the greatest program ever written for an 8-bit machine," demonstrating the high regard for pinball games in gaming history[^ref-9]
 
 ## Legacy
 
 ### Sales and Commercial Impact
-The 3-D Ultra Pinball series achieved significant commercial success. The original 3-D Ultra Pinball sold 250,000 copies by the end of March 1996[^ref-9]. The series as a whole sold more than half a million copies by 1998, establishing it as one of Sierra's successful franchises of the era[^ref-2][^ref-9].
+The 3-D Ultra Pinball series achieved significant commercial success. The original 3-D Ultra Pinball sold 250,000 copies by the end of March 1996[^ref-9]. The series as a whole sold more than half a million copies by 1998[^ref-2][^ref-9].
 
 ### Collections
-3-D Ultra Pinball Power! was similar to the 3-D Ultra Pinball: Collector's Edition released in 1998, which contained a VHS video on the history of pinball as an additional bonus[^ref-6]. The various 3-D Ultra games appeared in numerous Sierra compilations throughout the late 1990s and early 2000s[^ref-10]:
+The US edition of 3-D Ultra Pinball Power! was very similar to the 3-D Ultra Pinball: Collector's Edition released in 1998, which contained a VHS video on the history of pinball as an additional bonus[^ref-6][^ref-16]. The various 3-D Ultra games appeared in numerous Sierra compilations throughout the late 1990s and early 2000s[^ref-10]:
 
 - **1997:** On-Line Games Collection Series
 - **1997:** Best of Sierra Nr.3
@@ -183,15 +197,7 @@ The 3-D Ultra Pinball series achieved significant commercial success. The origin
 The 3-D Ultra Pinball series continued after Power! with 3-D Ultra Pinball: Thrillride in 1999/2000[^ref-10]. A planned 3-D Ultra NFL Pinball was ultimately cancelled in 2001[^ref-10]. The "3-D Ultra" brand extended beyond pinball to encompass mini golf, pool, radio control racing, and model train games[^ref-10].
 
 ### Related Publications
-- **Included Manual:** Standard game documentation included with the four-CD package[^ref-5]
 - **VHS Video:** The Collector's Edition variant included a VHS video covering the history of pinball[^ref-6]
-
-### Critical Perspective
-3-D Ultra Pinball Power! represents an important artifact of late 1990s PC gaming compilation culture, when publishers sought to maximize value by packaging multiple related titles together. The 3-D Ultra Pinball series itself marked a significant moment in digital pinball evolution—a willingness to abandon strict simulation in favor of experiences that could only exist in computer form.
-
-The series' approach of featuring animation, multiple interconnected tables, and fantastical elements like attacking tanks and crater-forming comets[^ref-4] anticipated the more creative digital pinball experiences that would follow in later decades. While the physics engine limitations prevented the games from achieving true pinball simulation status, the creative freedom embraced by the designers established a template for fantasy pinball that emphasized entertainment over realism.
-
-The commercial success of the series—over half a million copies by 1998[^ref-2]—demonstrated a significant market appetite for accessible, visually impressive pinball games during the multimedia gaming boom. Power! served as both a capstone collection of this successful formula and an entry point for new players discovering the series.
 
 ## Downloads
 
@@ -223,17 +229,17 @@ The commercial success of the series—over half a million copies by 1998[^ref-2
 ## References
 
 [^ref-1]: [Gamepressure – 3D Ultra Pinball Power](https://www.gamepressure.com/games/3d-ultra-pinball-power/z81052) – release date, developers, system requirements, included games, thematic descriptions
-[^ref-2]: [Wikipedia – 3-D Ultra Pinball](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball) – series overview, sales data, temporary targets description, MacUser rating
+[^ref-2]: [Wikipedia – 3-D Ultra Pinball](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball) – series overview, sales data, temporary targets, per-game table counts, MacUser rating of Creep Night, Power (US edition) contents
 [^ref-3]: [IGN – 3-D Ultra Pinball Power](https://www.ign.com/games/3-d-ultra-pinball-power) – release date, four-CD set details, table counts per game, bonus content
 [^ref-4]: [PriceCharting – 3-D Ultra Pinball](https://www.pricecharting.com/game/pc-games/3-d-ultra-pinball) – "Impossible Pinball" description, fantasy pinball elements, ESRB rating
-[^ref-5]: [MobyGames – 3-D Ultra Pinball Power](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/) – platforms, credits, technical specifications, animation production credits, memorial dedication
+[^ref-5]: [MobyGames – 3-D Ultra Pinball Power](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/) – platforms, contents (incl. Turbo Racing and Minigolf demo), technical specifications, critic score
 [^ref-6]: [Sierra Chest – 3-D Ultra Pinball: Collector's Edition](https://sierrachest.com/index.php?a=games&id=107&title=pinball-collectors-edition&fld=general) – relationship to Power!, VHS bonus content, included titles
 [^ref-7]: [TV Tropes – 3-D Ultra Pinball](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ThreeDUltraPinball) – original game description, Outpost connection, physics engine limitations, technical specifications
 [^ref-8]: [GRY-Online.pl – Seria 3D Ultra Pinball](https://www.gry-online.pl/gry/seria-3d-ultra-pinball/z770) – Polish release dates, user ratings across series, compilation contents
 [^ref-9]: [Retro365 – 3-D Ultra Pinball: Revitalizing a Classic](https://retro365.blog/2025/02/16/3-d-ultra-pinball-revitalizing-a-classic-game-in-the-multimedia-age/) – sales figures, development history, Dynamix acquisition, Take a Break! Pinball origins, critical quotes
 [^ref-10]: [Dynamix Fandom Wiki – 3-D Ultra Series](https://dynamix.fandom.com/wiki/3-D_Ultra_(series)) – complete series chronology, compilation list, cancelled NFL Pinball
-[^ref-11]: [MobyGames – 3-D Ultra Pinball - Power](https://www.mobygames.com/game/12606/) – game information and details
-[^ref-12]: [Sierra Gamers – 3-D Ultra Pinball - Power](https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf) – document appears to be a corrupted PDF with only raw PDF stream data visible - no readable game information can be ex...
-[^ref-13]: [Sierra Gamers – 3-D Ultra Pinball - Power](https://www.sierragamers.com/3d-ultra/) – game listing page showing 3D Ultra Pinball Power! release year as 1998, part of Sierra's 3D Ultra series catalog
-[^ref-14]: [Gamepressure – 3-D Ultra Pinball - Power](https://www.gamepressure.com/games/3d-ultra-pinball-series/z770) – game database listing providing basic information about 3D Ultra Pinball Power as a compilation release
-[^ref-15]: [MobyGames – 3-D Ultra Pinball Series](https://www.mobygames.com/game-group/3-d-ultra-pinball-series) – complete series documentation and chronology across all platforms and releases
+[^ref-13]: [Sierra Gamers – 3D Ultra](https://www.sierragamers.com/3d-ultra/) – series listing, dates "3D Ultra Pinball Power!" to 1998
+[^ref-14]: [Gamepressure – 3D Ultra Pinball Game Series](https://www.gamepressure.com/games/3d-ultra-pinball-series/z770) – series listing including 3D Ultra Pinball Power (June 30, 1999)
+[^ref-16]: [Sierra Chest – 3-D Ultra Pinball Power](https://sierrachest.com/index.php?a=games&id=105&fld=general) – US vs EU edition contents, Jeff Tunnell Productions, Unknown/unnamed engine
+[^ref-17]: [MobyGames – 3-D Ultra Pinball: Power! Releases](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/releases/) – release dates, regions, platforms and publishers
+[^ref-18]: [MobyGames – 3-D Ultra Pinball: Power! Credits (Windows)](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/credits/windows/) – credits carried over from Creep Night and the original game, memorial dedication
