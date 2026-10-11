@@ -1,86 +1,85 @@
 ---
 title: Gobbler
 release_year: 1981
-developer: On-Line Systems
+developer: Olaf Lubeck
 designer: [Olaf Lubeck]
 publisher: On-Line Systems
 genre: Arcade
 platforms: [Apple II]
 series: Standalone
-engine: Apple II Assembly
+engine: Custom
 protagonist: Gobbler (Pac-Man-like character)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
-description: Gobbler is a Pac-Man clone developed by Olaf Lubeck and published by
-  On-Line Systems for the Apple II in 1981. The game represents one of the earliest...
+last_updated: '2026-10-11'
+description: Gobbler is a Pac-Man clone programmed by Olaf Lubeck and published by
+  On-Line Systems for the Apple II in 1981, withdrawn after five months amid Atari's
+  copyright fight with the company.
 tags: [1980s, sierra, standalone]
 ---
 # Gobbler
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-Gobbler is a Pac-Man clone developed by Olaf Lubeck and published by On-Line Systems for the Apple II in 1981.[^ref-1][^ref-15] The game represents one of the earliest examples of arcade game cloning in the home computer market, featuring gameplay that was mostly identical to Namco's original Pac-Man arcade game, though with a slightly different maze layout.[^ref-2] On-Line Systems, founded by [[Ken Williams]] and [[Roberta Williams]], would later become Sierra Entertainment, making Gobbler part of the company's formative catalog of early titles.[^ref-1]
+Gobbler is a Pac-Man clone developed by Olaf Lubeck and published by On-Line Systems for the Apple II in 1981.[^ref-1][^ref-5] It is one of the early arcade clones of the home computer market, offering gameplay mostly identical to Namco's Pac-Man arcade game, though with a slightly different maze layout.[^ref-2][^ref-17] On-Line Systems, founded by [[Ken Williams]] and [[Roberta Williams]], later became Sierra On-Line and then Sierra Entertainment, making Gobbler part of the company's formative catalog of early titles.[^ref-18]
 
-The game holds significant historical importance not for its gameplay innovations, but for its role in establishing legal precedent for video game copyright protection.[^ref-3] Gobbler was removed from the market after just five months following a lawsuit from Atari, which held the home console rights to Pac-Man.[^ref-3] During its brief commercial life, the game achieved notable sales of approximately 800 copies per month, demonstrating the strong consumer demand for Pac-Man-style games on home computers.[^ref-3]
+The game is remembered less for its gameplay than for its part in On-Line Systems' copyright clash with Atari, which held the home rights to Pac-Man.[^ref-3] Atari obtained a temporary restraining order in federal court in Fresno barring On-Line Systems from producing or selling Gobbler and the company's second Pac-Man clone, John Harris's *Jawbreaker*; Ken Williams pulled Gobbler from the market after just five months.[^ref-3] During its brief commercial life, the game sold around 800 copies a month.[^ref-3]
 
-Gobbler was created by Olaf Lubeck, a researcher at Los Alamos National Laboratory's Computer Research and Applications Division, who developed the game in response to On-Line Systems' "Authors Wanted" advertisement.[^ref-3] The game arrived on floppy disk for the Apple II and, despite its derivative nature, was described as a "very well done" copy of the original arcade hit.[^ref-3]
+Gobbler was created by Olaf Lubeck, a researcher in the Computer Research and Applications Division of Los Alamos National Laboratory, who sent it in after his wife Pam saw On-Line Systems' "Authors Wanted" advertisement.[^ref-3] The game shipped on floppy disk for the Apple II; Retro365's 2021 retrospective calls it "a (very well done) copy of Pac-Man."[^ref-3]
 
 > [!info]- Game Info
-> **Developer:** [[On-Line Systems]][^ref-1]
+> **Developer:** Olaf Lubeck[^ref-1][^ref-5]
 > **Designer:** Olaf Lubeck[^ref-3]
-> **Publisher:** On-Line Systems[^ref-1]
+> **Publisher:** [[On-Line Systems]][^ref-1]
 > **Engine:** Custom
 > **Platforms:** Apple II[^ref-1][^ref-8]
-> **Release Year:** 1981[^ref-1][^ref-10]
-> **Series:** None
+> **Release Year:** 1981[^ref-1][^ref-7]
+> **Series:** Standalone
 > **Protagonist:** Gobbler character
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-As a direct clone of Pac-Man, Gobbler features no narrative storyline in the traditional sense.[^ref-2][^ref-9] The player controls a circular character navigating through a maze, consuming dots while avoiding enemy ghosts.[^ref-1] The objective mirrors that of the original Pac-Man: clear each maze of all dots while surviving ghost encounters.
+As a direct clone of Pac-Man, Gobbler has no narrative to speak of.[^ref-17] The player controls the gobbler, who must clear the maze of all dots while avoiding the ghosts that chase him.[^ref-17] The objective mirrors that of the original Pac-Man.[^ref-1]
 
-The game's setting consists of a single maze design that varies slightly from the original Pac-Man layout.[^ref-2] Players must strategically navigate this maze, using power pellets to temporarily turn the tables on the pursuing ghosts. The gameplay loop continues through increasingly difficult rounds as the player attempts to achieve the highest possible score.
-
-Like its arcade inspiration, Gobbler offered no ending or conclusion—the game simply continued until the player lost all lives, with the goal being to accumulate the highest score possible.[^ref-2]
+The game's maze is close to the original Pac-Man layout: database descriptions call it "slightly different," and Retro365 describes the level layout as "nearly identical."[^ref-17][^ref-3] Large dots let the player temporarily turn the tables on the pursuing ghosts.[^ref-17]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Gobbler utilizes a control scheme that contemporary players found somewhat unconventional. According to period accounts, "the control scheme is a bit weird and takes some time to get used to."[^ref-3] The Apple II version relied on keyboard input for directional movement, which was standard for home computer games of the era but represented a departure from the arcade joystick controls that players familiar with the original Pac-Man would have expected.
+The game can be played with either keyboard or joystick.[^ref-7][^ref-17] On the keyboard, the arrow keys move the character left and right, and the A and Z keys move it up and down.[^ref-1] Retro365's 2021 retrospective found the control scheme "a bit weird and takes some time to get used to."[^ref-3]
 
 ### Structure and Progression
 
-The game follows the standard Pac-Man formula of maze-based progression:[^ref-2]
+The game follows the standard Pac-Man formula of maze-based progression:[^ref-1][^ref-17]
 
-- **Maze Clearing:** Players must consume all dots in the maze to advance
-- **Ghost Avoidance:** Four enemy ghosts pursue the player through the maze
-- **Power Pellets:** Special items allow temporary ghost vulnerability
-- **Bonus Items:** Fruit and other items appear for bonus points
-- **Increasing Difficulty:** Each subsequent level increases ghost speed and aggression
+- **Maze Clearing:** The gobbler must clear the maze of all dots, each worth five points
+- **Ghost Avoidance:** Four ghosts pursue the player through the maze
+- **Power Pellets:** Picking up a large dot energizes the gobbler for ten seconds, allowing him to go after the ghosts
+- **Bonus Items:** Fruit (cherries, an apple and a lime) is worth 200 points each
+- **Lives:** The gobbler has three lives
 
 ### Puzzles and Mechanics
 
-Gobbler's mechanics are directly derived from Pac-Man, featuring the same core gameplay loop.[^ref-2] The maze layout represents the primary distinguishing feature from the original game, with slight modifications to the pathways and tunnel positions.[^ref-2] Players must employ strategic movement patterns to efficiently clear dots while avoiding ghost contact, using the maze's structure to create distance from pursuers.
+Gobbler's mechanics are directly derived from Pac-Man, featuring the same core gameplay loop.[^ref-17] The maze layout is the primary distinguishing feature, being slightly different from the original's.[^ref-17] Players must clear dots efficiently while avoiding ghost contact.
 
-The power pellet mechanic allows players to briefly reverse the predator-prey dynamic, turning ghosts blue and vulnerable for a limited time.[^ref-1] This strategic element requires timing and positional awareness to maximize point scoring opportunities.
+The power pellet mechanic lets players briefly reverse the predator-prey dynamic: the four ghosts become vulnerable for a short time, during which they are colored green and can be eaten for 200 points for the first, 400 for the second, and so on.[^ref-1] Ghosts are worth 200 to 800 points.[^ref-17]
 
 ## Reception
 
 ### Contemporary Reviews
 
-Due to Gobbler's brief five-month market presence before being pulled due to legal action, contemporary review coverage was limited.[^ref-3] The game's removal from sale in early 1982 prevented the extensive magazine coverage that longer-lived titles received. However, the game clearly found an audience, as evidenced by its reported sales figures of 800 copies per month during its availability.[^ref-3]
+Gobbler was on sale for only five months before Ken Williams withdrew it during the dispute with Atari.[^ref-3] No contemporary magazine reviews have been located. The game clearly found an audience, as shown by its reported sales of around 800 copies a month.[^ref-3]
 
-The game was acknowledged within the industry as a competent clone. One contemporary assessment noted that "there was no doubt, to neither Ken Williams nor anybody else, that Gobbler was a (very well done) copy of Pac-Man."[^ref-3] This acknowledgment of quality, even while recognizing the derivative nature, suggests the game successfully replicated the addictive gameplay of its inspiration.
+According to Retro365, Gobbler's success, and its being "superior to most other Pac-Man clones at the time," is what drew Atari's attention.[^ref-3]
 
 ### Modern Assessment
 
-Modern retrospective assessment of Gobbler focuses primarily on its historical significance rather than its gameplay merits.[^ref-3] The game is recognized as an important artifact in the history of video game intellectual property disputes and as an example of the "clone wars" that characterized early 1980s game development.[^ref-3]
+Modern retrospective assessment of Gobbler focuses primarily on its historical significance rather than its gameplay merits.[^ref-3] Retro365's 2021 retrospective judged that "there was no doubt, to neither Ken Williams nor anybody else, that Gobbler was a (very well done) copy of Pac-Man."[^ref-3] It appears in roundups of early-1980s Pac-Man clones.[^ref-11][^ref-12]
 
-The LaunchBox Games Database community has rated Gobbler at 3.50 out of 5, reflecting a moderate assessment that acknowledges both the game's competent execution and its derivative nature.[^ref-2]
+The LaunchBox Games Database community has rated Gobbler at 3.50 out of 5.[^ref-2]
 
 **Aggregate Scores:**
 - **LaunchBox Games Database:** 3.50/5 (Community rating)[^ref-2]
@@ -89,86 +88,71 @@ The LaunchBox Games Database community has rated Gobbler at 3.50 out of 5, refle
 
 ### Origins
 
-Gobbler originated when Olaf Lubeck, a researcher working at Los Alamos National Laboratory's Computer Research and Applications Division, responded to On-Line Systems' "Authors Wanted" advertisement.[^ref-3] This solicitation, placed by Ken Williams, sought talented programmers to develop games for the growing Apple II market. Ken Williams personally promised availability for "technical discussions, helping to debug, brainstorming, etc." to potential contributors.[^ref-3]
+Gobbler originated when Olaf Lubeck, a researcher in the Computer Research and Applications Division of Los Alamos National Laboratory, responded to On-Line Systems' "Authors Wanted" advertisement, which his wife Pam had spotted.[^ref-3] Ken Williams placed the ad in publications such as Softtalk and InfoWorld, and in it he promised he would "personally be available at any time for technical discussions, helping to debug, brainstorming, etc."[^ref-3]
 
-Lubeck submitted his Pac-Man clone on floppy disk to On-Line Systems, and the company accepted it for publication despite the obvious copyright concerns that would later prove problematic.[^ref-3] The decision to publish reflected the freewheeling nature of the early home computer game market, where the boundaries of intellectual property had not yet been legally established.
+Lubeck sent in a floppy disk containing his creations, and Williams, recognizing the potential of a Pac-Man clone, agreed a publishing deal.[^ref-3] According to Retro365, a focus on copyrights was only slowly building at the time, and Ken, like most, "didn't give it too much thought."[^ref-3]
 
 ### Production
 
-Development of Gobbler took place during Lubeck's spare time away from his primary employment at Los Alamos National Labs.[^ref-4] This moonlighting arrangement was common among early game developers, many of whom created games as a hobby or side venture while maintaining day jobs in technical fields.
+Lubeck developed Gobbler, along with a couple of other arcade clones, on his own Apple II while employed as a researcher at Los Alamos.[^ref-3] He kept working at Los Alamos while continuing to write for On-Line Systems, and in his spare time there he produced Cannonball Blitz.[^ref-3][^ref-4]
 
-On-Line Systems served as both developer and publisher for the project, providing the distribution infrastructure and marketing that transformed Lubeck's programming project into a commercial product.[^ref-1] The game was released exclusively for the Apple II platform, which was On-Line Systems' primary development target during this period.[^ref-1]
+On-Line Systems published the game.[^ref-1] The Apple II version was the only release.[^ref-3]
 
 **Development Credits:**[^ref-3]
 - **Designer/Programmer:** Olaf Lubeck
 - **Publisher:** On-Line Systems (Ken Williams)
 
-### Technical Achievements
-
-As a clone of an existing arcade game, Gobbler's technical achievements lay primarily in successfully translating the Pac-Man experience to Apple II hardware.[^ref-2] The Apple II's limited graphics capabilities and different control scheme presented challenges that Lubeck addressed competently, creating a playable approximation of the arcade experience.
-
-The maze layout modifications represent the most notable technical deviation from the source material, whether implemented for legal distinction purposes or hardware optimization.[^ref-2]
-
 ### Technical Specifications
 
-**Apple II Version:**[^ref-3]
-- **Media:** Floppy disk
-- **Platform:** Apple II series
-- **Display:** Standard Apple II lo-res or hi-res graphics
-- **Audio:** Apple II internal speaker
+**Apple II Version:**
+- **Media:** Floppy disk[^ref-3]
+- **Platform:** Apple II series; runs on any Apple II with 48K[^ref-5]
+- **Input:** Keyboard or joystick[^ref-7][^ref-17]
 
 ### Version History
 
-| Version | Date | Platform | Notes |
-|---------|------|----------|-------|
-| 1.0 | August 15, 1981 | Apple II | Initial and only release[^ref-2] |
+| Date | Platform | Notes |
+|------|----------|-------|
+| 1981 | Apple II | Only release[^ref-1][^ref-3]; LaunchBox lists a release date of August 15, 1981[^ref-17] |
 
-The game received no updates or revisions following its initial release, as it was removed from the market approximately five months after launch due to legal action.[^ref-3]
+Gobbler was removed from the market after five months.[^ref-3]
 
 ### Technical Issues
 
-No specific technical bugs or compatibility issues have been documented for Gobbler. The primary "issue" affecting the game was its legal status rather than any programming defects. The control scheme, while functional, was noted as requiring an adjustment period for players accustomed to other input methods.[^ref-3]
+No specific technical bugs or compatibility issues have been documented for Gobbler. Retro365's 2021 retrospective noted that the control scheme takes some time to get used to.[^ref-3]
 
 ### Easter Eggs and Trivia
 
-- Gobbler was one of the earliest games to be involved in video game copyright litigation, helping establish legal precedent for game protection[^ref-3]
+- Gobbler was caught up in Atari's early 1980s legal campaign against Pac-Man clones; the court fight centred on its stablemate *Jawbreaker*[^ref-3][^ref-16]
 - The developer, Olaf Lubeck, went on to create Cannonball Blitz (1982), a Donkey Kong clone, also for On-Line Systems[^ref-1]
-- Cannonball Blitz was conceived during Lubeck's spare time at Los Alamos National Labs, following the same development pattern as Gobbler[^ref-4]
-- On-Line Systems later became Sierra Entertainment, one of the most influential adventure game companies in history[^ref-1]
-- The game sold approximately 800 copies per month during its brief market availability[^ref-3]
-- Gobbler was removed from sale after just five months due to Atari's lawsuit[^ref-3]
+- Cannonball Blitz was conceived in Lubeck's spare time at Los Alamos National Labs[^ref-4]
+- On-Line Systems later became Sierra On-Line, then Sierra Entertainment[^ref-18]
+- The game sold around 800 copies a month during its brief market availability[^ref-3]
+- Gobbler was removed from sale after just five months amid the Atari dispute[^ref-3]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-During its five-month commercial availability, Gobbler achieved sales of approximately 800 copies per month, representing solid performance for an Apple II title in 1981.[^ref-3] This sales rate demonstrated the strong consumer appetite for arcade-style games on home computers, even when those games were obvious derivatives of existing properties.
+During its five months on sale, Gobbler sold around 800 copies a month.[^ref-3] That success, Retro365 argues, is what drew Atari's attention.[^ref-3]
 
-The legal action that ended Gobbler's commercial life proved more historically significant than the game itself.[^ref-3] The Atari lawsuit against On-Line Systems helped establish the legal framework for video game intellectual property protection, contributing to the end of the "clone wars" era where publishers freely copied popular arcade games without legal consequence.
+The legal fight around the game is better remembered than the game itself. Atari, which had paid for the home rights to Pac-Man, sent cautionary letters to publishers including On-Line Systems, then obtained a temporary restraining order covering both Gobbler and *Jawbreaker*.[^ref-3] On-Line Systems filed an antitrust suit, and Atari countersued, with Midway joining in.[^ref-3] According to Retro365, the Atari and Midway infringement claims "were tossed out of court, appealed, and then dismissed again," and the parties settled out of court. The protection that resulted covered "the Pac-Man name and its characters but not its gameplay and mechanics."[^ref-3] Filfre's account centres the courtroom fight on *Jawbreaker*: the judge applied the "ten-foot rule" and refused Atari's motion for a preliminary injunction against it.[^ref-16] Warped Factor likewise notes that Atari "unsuccessfully sought an injunction against the sale of Jawbreaker and Gobbler."[^ref-11]
+
+Accounts of the wider effect differ. Filfre credits Atari's "legal muscling" with drying up blatant clones of popular arcade games.[^ref-16] Retro365, by contrast, argues that the outcome left the home market "saturated with countless more or less questionable clones."[^ref-3]
 
 ### Collections
 
-Gobbler has not been included in any official Sierra compilation releases due to its brief commercial lifespan and the legal circumstances surrounding its withdrawal from the market.[^ref-3] The game exists primarily as a historical curiosity preserved through archival efforts.
+The game exists today primarily as a historical curiosity preserved through archival efforts.[^ref-5]
 
 ### Fan Projects
 
-The game is preserved through digital archiving efforts, including availability through the Internet Archive's software collection.[^ref-5] These preservation efforts ensure that Gobbler remains accessible for historical study despite its removal from commercial availability over four decades ago.
-
-### Related Publications
-
-No official hint books, strategy guides, or related publications were produced for Gobbler due to its brief market presence.[^ref-3] The game's removal from sale occurred before such ancillary materials would typically have been developed.
+The game is preserved through digital archiving efforts, including the Internet Archive's software collection.[^ref-5] It can also be played through the VirtualApple emulation site.[^ref-8]
 
 ### Critical Perspective
 
-Gobbler occupies a unique position in video game history as both a competent product and a legal cautionary tale.[^ref-3] The game demonstrated that the early home computer market had both the technical capability and consumer demand for arcade-style experiences, while simultaneously revealing the unsustainable nature of the clone-based business model that many publishers had adopted.
+Gobbler occupies a notable position in early Sierra history as both a well-made clone and the start of a legal entanglement.[^ref-3] Retro365 frames the Atari dispute as "a clash of cultures," in which the free-spirited early software industry exemplified by On-Line Systems was fading as the company grew into Sierra On-Line, "a real corporation grown with investment money."[^ref-3] Filfre similarly describes the episode as part of a change in mentality as the company became a "real" company.[^ref-16]
 
-The lawsuit that ended Gobbler's commercial life represented a turning point for On-Line Systems and the broader industry.[^ref-3] For Ken and Roberta Williams, the experience may have reinforced the value of original intellectual property, contributing to their subsequent focus on adventure games with unique settings and characters. The company's evolution into Sierra Entertainment and creation of landmark franchises like King's Quest can be viewed partially as a response to the legal vulnerabilities exposed by titles like Gobbler.
-
-From a modern perspective, Gobbler serves as an artifact of the video game industry's formative period, when the boundaries between homage, clone, and infringement had not yet been legally defined.[^ref-3] The game itself, while competently executed, offers little beyond historical interest—its significance lies not in what it achieved but in what its withdrawal from the market prevented and what legal precedents it helped establish.
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+Ken Williams himself was ambivalent. After the judge refused Atari's injunction against *Jawbreaker*, he reportedly said, "If this opens the door to other programmers ripping off my software, what happened here was a bad thing."[^ref-16]
 
 ## Downloads
 
@@ -181,7 +165,7 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 
 **Database Entries**
 - [MobyGames – Gobbler](https://www.mobygames.com/game/64202/gobbler/)[^ref-7]
-- [LaunchBox Games Database](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems)[^ref-2] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-11][^ref-12][^ref-13][^ref-14]
+- [LaunchBox Games Database – Gobbler](https://gamesdb.launchbox-app.com/games/details/84965-gobbler)[^ref-17] Additional clone-era context and community archives are catalogued in the supporting sources.[^ref-11][^ref-12][^ref-13][^ref-14]
 
 
 ## See Also
@@ -208,26 +192,23 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 
 ## References
 
-[^ref-1]: [Wikipedia – Gobbler (video game)](https://en.wikipedia.org/wiki/Gobbler_(video_game)) – developer, publisher, platform, release year, connection to Cannonball Blitz, company history
-[^ref-2]: [LaunchBox Games Database – On-Line Systems](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems) – release date August 15 1981, community rating 3.50/5, maze layout differences, Pac-Man clone description
-[^ref-3]: [Retro365 Blog – Gobbler: Ken and Roberta Williams Takes on Atari](https://retro365.blog/2021/06/15/bits-from-my-personal-collection-gobbler-ken-and-roberta-williams-takes-on-atari/) – Olaf Lubeck biography, Los Alamos employment, development history, control scheme critique, sales figures, lawsuit details, five-month market presence, Ken Williams quote
-[^ref-4]: [Retro365 Blog – Cannonball Blitz: Clones, Lawsuits, Clones](https://retro365.blog/2020/10/10/bits-from-my-personal-collection-cannonball-blitz-clones-lawsuits-clones/) – Olaf Lubeck development pattern, Los Alamos spare time work, Cannonball Blitz details, SierraVision label, VIC-20 port
-[^ref-5]: [Internet Archive – Wozaday Gobbler](https://archive.org/details/wozaday_Gobbler) – game preservation, download availability
+[^ref-1]: [Wikipedia – Gobbler (video game)](https://en.wikipedia.org/wiki/Gobbler_(video_game)) – Pac-Man clone, Apple II, 1981, On-Line Systems, programmed by Olaf Lubeck, Cannonball Blitz, arrow/A/Z controls, scoring, ghosts turn green
+[^ref-2]: [LaunchBox Games Database – On-Line Systems](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems) – community rating 3.50/5, Pac-Man clone with slightly different maze layout
+[^ref-3]: [Retro365 Blog – Gobbler, Ken and Roberta Williams take on Atari](https://retro365.blog/2021/06/15/bits-from-my-personal-collection-gobbler-ken-and-roberta-williams-takes-on-atari/) – Ernst Krogtoft's 2021 retrospective: Lubeck at Los Alamos, "Authors Wanted" ad, Ken Williams quote, ~800 copies/month, Fresno TRO over Gobbler and Jawbreaker, claims dismissed and settled, pulled after five months
+[^ref-4]: [Retro365 Blog – Cannonball Blitz: Clones, Lawsuits, Clones](https://retro365.blog/2020/10/10/bits-from-my-personal-collection-cannonball-blitz-clones-lawsuits-clones/) – Cannonball Blitz conceived in Lubeck's spare time at Los Alamos National Labs
+[^ref-5]: [Internet Archive – Wozaday Gobbler](https://archive.org/details/wozaday_Gobbler) – "1981 action game developed by Olaf Lubeck and published by On-Line Systems", runs on any Apple II with 48K
 [^ref-6]: [MyAbandonware – Gobbler](https://www.myabandonware.com/game/gobbler-7nh) – game preservation, download availability
-[^ref-7]: [MobyGames – Gobbler](https://www.mobygames.com/game/64202/gobbler/) – database entry, game documentation
+[^ref-7]: [MobyGames – Gobbler](https://www.mobygames.com/game/64202/gobbler/) – released 1981 on Apple II by On-Line Systems; playable with keyboard or joystick
 
-[^ref-8]: [VirtualApple – Gobbler](https://www.virtualapple.org/gobblerdisk.html) – Apple II emulation, playable version, technical requirements
+[^ref-8]: [VirtualApple – Gobbler](https://www.virtualapple.org/gobblerdisk.html) – Apple II emulation, playable version
 
-[^ref-9]: [GameSpot – Gobbler](https://www.gamespot.com/games/gobbler/) – platform coverage, genre classification, game database entry
+[^ref-11]: [Warped Factor – 24 Pac-Man Clones From The Early 1980s](http://www.warpedfactor.com/2020/10/24-pac-man-clones-from-early-1980s.html) – Pac-Man clone era context; Atari "unsuccessfully sought an injunction against the sale of Jawbreaker and Gobbler"
 
-[^ref-10]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog, release chronology
-
-[^ref-11]: [Warped Factor – 24 Pac-Man Clones From The Early 1980s](http://www.warpedfactor.com/2020/10/24-pac-man-clones-from-early-1980s.html) – Pac-Man clone era context, industry history
-
-[^ref-12]: [Wikipedia – List of Pac-Man Clones](https://en.wikipedia.org/wiki/List_of_Pac-Man_clones) – comprehensive clone documentation, legal history
+[^ref-12]: [Wikipedia – List of Pac-Man Clones](https://en.wikipedia.org/wiki/List_of_Pac-Man_clones) – clone listing
 
 [^ref-13]: [Pac-Man Wiki – History of Pac-Man Clones](https://pacman.fandom.com/wiki/History_of_Pac-Man_clones_and_bootlegs/Original_games_featuring_Pac-Man) – clone history, Atari copyright litigation
 
 [^ref-14]: [FamousFix – Pac-Man Clones List](https://m.famousfix.com/list/pac-man-clones) – clone game documentation and classification
-[^ref-15]: [IGDB – Gobbler](https://www.igdb.com/games/gobbler) – Apple II 1981 release, Pac-Man clone classification, On-Line Systems publisher
-
+[^ref-16]: [The Digital Antiquarian – This Game Is Over](https://www.filfre.net/2012/04/this-game-is-over/) – Gobbler already on the Apple II when Jawbreaker shipped; judge refused Atari's preliminary injunction against Jawbreaker under the ten-foot rule; Ken Williams quote
+[^ref-17]: [LaunchBox Games Database – Gobbler](https://gamesdb.launchbox-app.com/games/details/84965-gobbler) – release date August 15, 1981; keyboard or joystick; three lives; ten-second energizer; scoring; slightly different maze
+[^ref-18]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – formerly On-Line Systems and Sierra On-Line, founded in 1979 by Ken and Roberta Williams
