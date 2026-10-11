@@ -5,274 +5,183 @@ release_date: 2026-02-10
 developer: Pierre Gilhodes
 designer: [Pierre Gilhodes]
 publisher: Schnibble Productions
-genre: Puzzle
+genre: Adventure
 platforms: [Windows]
 series: Gobliiins
 engine: Adventure Game Studio
 protagonist: Fingus, Winkle
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-09'
-description: '*Gobliins 6: The Madmen of the Year 1000* is a 2026 2D puzzle adventure game that serves as
-  a direct sequel to *Gobliins 2: The Prince Buffoon*, reuniting the beloved duo Fingus...'
+last_updated: '2026-10-11'
+description: '*Gobliins 6: The Madmen of the Year 1000* is a 2026 2D point-and-click puzzle adventure and a direct
+  sequel to *Gobliins 2: The Prince Buffoon*, reuniting the goblin duo Fingus and Winkle...'
 tags: [adventure, gobliiins, puzzle, sierra]
 ---
 # Gobliins 6: The Madmen of the Year 1000
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-*Gobliins 6: The Madmen of the Year 1000* is a 2026 2D puzzle adventure game that serves as a direct sequel to *[[1992 - Gobliins 2 - The Prince Buffoon\|Gobliins 2: The Prince Buffoon]]*, reuniting the beloved duo Fingus and Winkle more than thirty years after their original adventure.[^ref-1][^ref-2][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20] Developed by [[Pierre Gilhodes]] and published through his independent [[Schnibble Productions]] label, the game represents a continuation of Gilhodes' personal stewardship of the franchise he co-created at Coktel Vision in 1991.[^ref-1][^ref-6]
+*Gobliins 6: The Madmen of the Year 1000* (styled *GOBLiiNS6 - The Prince Buffoon - The Madmen of the Year 1000*) is a 2026 2D point-and-click puzzle adventure that serves as a direct sequel to *[[1992 - Gobliins 2 - The Prince Buffoon\|Gobliins 2: The Prince Buffoon]]*, reuniting the duo Fingus and Winkle more than thirty years after their original adventure.[^ref-1][^ref-2][^ref-14][^ref-16][^ref-18][^ref-20] Developed by [[Pierre Gilhodes]] and published under the [[Schnibble Productions]] label, it is, in the words of its store page, "a new episode of the series GOBLiiiNS, directed by the initial author" — Gilhodes having created the visual look of the series and its characters at Coktel Vision in the early 1990s.[^ref-4][^ref-6][^ref-14]
 
-The game was successfully crowdfunded on Kickstarter from October 10 to November 9, 2024, raising €9,524 from 388 backers against a modest €4,000 goal—exceeding its target by more than double.[^ref-1][^ref-3] Built using Adventure Game Studio (AGS), the same engine that powered *Gobliiins 5*, the game promises to deliver classic point-and-click gameplay with modern quality-of-life improvements while maintaining the series' distinctive humor and charm.[^ref-3][^ref-5]
+The game was crowdfunded on Kickstarter from October 10 to November 9, 2024, closing with €9,524 from 388 backers against a €4,000 goal — 238% of its target.[^ref-1][^ref-9] It was released on itch.io on February 10, 2026, and on Steam on February 13, 2026.[^ref-14][^ref-15] Like *Gobliiins 5*, it was built with Adventure Game Studio (AGS).[^ref-4][^ref-19][^ref-20]
 
-Following the traditional series naming convention established in 1991, the two "i"s in "Gobliins" indicate the number of playable goblin characters, distinguishing it from the original *Gobliiins* (three goblins), *Goblins 3* (one goblin), and *Gobliiins 5* (three goblins).[^ref-2][^ref-4] This return to the two-goblin format was a deliberate creative choice to revisit the gameplay dynamic that made *Gobliins 2* particularly popular among fans.[^ref-1][^ref-2]
+Following the series naming convention, the number of letter "i"s in the title indicates the number of goblins the player controls — three in the original *Gobliiins*, two in *Gobliins 2*, one in *Goblins Quest 3*, and two again in *GOBLiiNS6*.[^ref-4] On the campaign page, Gilhodes wrote that "many players are very fond of Fingus and Winkle in Gobliins2, I hope they will be happy to find their new adventures in Gobliins6."[^ref-1]
 
 > [!info]- Game Info
-> **Developer:** [[Pierre Gilhodes]][^ref-1]
+> **Developer:** [[Pierre Gilhodes]][^ref-14]
 > **Designer:** [[Pierre Gilhodes]][^ref-1]
-> **Publisher:** [[Schnibble Productions]][^ref-2]
-> **Engine:** Adventure Game Studio[^ref-3]
-> **Platforms:** Windows[^ref-1]
-> **Release Year:** 2026[^ref-1]
+> **Publisher:** [[Schnibble Productions]][^ref-14]
+> **Engine:** Adventure Game Studio[^ref-20]
+> **Platforms:** Windows[^ref-14][^ref-20]
+> **Release Year:** 2026 (itch.io February 10; Steam February 13)[^ref-14][^ref-15]
 > **Series:** Gobliiins
 > **Protagonist:** Fingus, Winkle[^ref-2]
 > **Sierra Lineage:** [[Coktel Vision]] (post-Sierra revival)
 
 ## Story Summary
 
-The narrative of *Gobliins 6* takes place years after the events of *Gobliins 2*, during which Fingus and Winkle successfully rescued Prince Buffoon from the clutches of the evil Doer.[^ref-1][^ref-2] In the intervening decades, the two goblins have drifted apart, each pursuing their own quiet lives in the kingdom.
+The story is set years after *Gobliins 2*, in which Fingus and Winkle were sent to rescue King Angoulafre's son, the Prince Buffoon, who had been kidnapped by the evil Amoniak.[^ref-4] In *Gobliins 6* the two goblins once again set out "in search of king Angoulafre's son, Prince Buffoon".[^ref-14][^ref-20]
 
 ### Fingus's Solitary Life
 
-**Fingus**, the more cautious and methodical of the duo, has become a lonely and somewhat melancholic beekeeper.[^ref-1][^ref-2] His quiet, simple existence among the hives reflects his contemplative nature, though there are hints that he misses the excitement of his adventuring days. The years have not been entirely kind to Fingus—his isolation suggests a goblin who has retreated from the world, perhaps troubled by memories of past adventures or simply worn down by the passage of time.[^ref-1][^ref-7]
+The campaign describes **Fingus** as "a lonely and depressed beekeeper, without news of his sidekick Winkle"; Adventure Gamers' announcement called him "a lonely and somewhat downcast beekeeper".[^ref-1][^ref-2]
 
 ### The Mysterious Disappearance
 
-Fingus's peaceful existence is shattered when he receives troubling news: his old friend **Winkle** has gone missing under mysterious and concerning circumstances.[^ref-1][^ref-3] The nature of Winkle's disappearance is shrouded in mystery, compelling Fingus to abandon his beekeeping and embark on a journey to find his former companion.[^ref-1][^ref-2]
+Fingus is "thrust back into action when he learns that his old friend Winkle is missing," and sets out on what the campaign calls "the mission of his life".[^ref-1][^ref-2]
 
 ### The Threat of Karcassio
 
-Once the two goblins are reunited, they discover a far greater threat than they anticipated. A cruel conqueror named **Karcassio** threatens the kingdom with tyranny and destruction.[^ref-1][^ref-2] The reunited duo must work together to thwart Karcassio's sinister plans and save both their friend and the realm. Their journey will be filled with "humor, mystery, and unexpected twists" as they face challenges that test both their individual abilities and their partnership.[^ref-2][^ref-7]
-
-According to the Adventure Gamers coverage, players will also encounter "multiple objectives driving the plot, including their quest to find the son of King Angoulafre, the Prince Buffoon," suggesting connections to the events and characters of the original *Gobliins 2*.[^ref-12]
+The setting is "a troubled time for the people of King Angoulafre": the approach of the new millennium "exacerbates behavior" and war is at the gates of the kingdom. The goblins must save the world from "the cruel conqueror Karcassio".[^ref-1] Adventure Gamers promised a journey "filled with humor, mystery, and unexpected twists".[^ref-2] The campaign text adds that "several main objectives motivate our characters and as in the past, they are looking for the son of King Angoulafre, the Prince Buffoon."[^ref-1]
 
 ## Gameplay
 
-*Gobliins 6* returns to the two-goblin cooperative puzzle format that distinguished *Gobliins 2* from other entries in the series, offering point-and-click adventure gameplay built in Adventure Game Studio.[^ref-1][^ref-3] The game is designed to capture the spirit of classic adventure gaming while incorporating modern conveniences and expanded content.
-
-### Interface and Controls
-
-The game utilizes the traditional Adventure Game Studio point-and-click interface, allowing players to interact with the environment using mouse controls.[^ref-3][^ref-5] Players can click on objects, characters, and environmental elements to trigger interactions, with each goblin producing different results based on their personality. The interface is straightforward and accessible, maintaining the classic adventure game feel while providing smooth modern controls for Windows systems.[^ref-3]
-
-### Structure and Progression
-
-*Gobliins 6* features a level-based puzzle design requiring careful coordination between both playable goblins, Fingus and Winkle.[^ref-2][^ref-4] Players must switch between the two characters, using their different abilities and behavioral patterns to solve environmental puzzles and progress through the story. The two-goblin cooperative puzzle format creates a satisfying dynamic where many puzzles require sequential or simultaneous actions from both characters to advance. The game's design removes frustration by eliminating death penalties—failed interactions instead trigger comedic animations that showcase the goblins' personalities.[^ref-4]
+*Gobliins 6* returns to the two-goblin cooperative format of *Gobliins 2*. It is a single-player, mouse-driven point-and-click adventure in 2D, with "large scenery in 16/9th" spread over 16 levels "packed with puzzles, characters, music and humor".[^ref-14][^ref-18][^ref-20] The store description notes that "the characters are faced with numerous puzzles, they work in cooperation and each has their inventory."[^ref-14][^ref-20]
 
 ### The Two Goblins
 
-The core gameplay revolves around controlling two distinct goblins, each with their own personality and approach to problem-solving:[^ref-2][^ref-4]
-
-**Fingus** – The cautious, methodical goblin who approaches situations with care and logical thinking. When interacting with objects and characters, Fingus tends to find sensible, practical solutions. His careful nature makes him ideal for delicate operations and situations requiring patience.[^ref-2][^ref-4]
-
-**Winkle** – The impulsive, mischievous goblin whose chaotic actions can both hinder progress and reveal unexpected solutions. Winkle's unpredictable nature means his interactions often produce surprising (and frequently hilarious) results. While his methods may seem counterproductive, they sometimes unlock solutions that more conventional approaches would miss.[^ref-2][^ref-4]
-
-The interplay between these contrasting personalities forms the foundation of the puzzle design, requiring players to understand when each goblin's unique approach is needed.[^ref-2][^ref-4]
-
-### Puzzle Design Philosophy
-
-The game features level-based puzzle design requiring careful coordination between both goblins.[^ref-2][^ref-4] Players must switch between Fingus and Winkle, using their different abilities and behavioral patterns to solve environmental puzzles and progress through the story. Many puzzles will require sequential or simultaneous actions from both characters, creating a satisfying cooperative dynamic even in single-player mode.[^ref-1][^ref-3]
-
-Unlike the original *Gobliiins* from 1991, *Gobliins 6* does not feature a life meter or health system.[^ref-4][^ref-8] Failed interactions do not result in penalties or game over states—instead, unsuccessful attempts trigger comedic animations that showcase the goblins' personalities and provide entertainment value even in failure.[^ref-4][^ref-8] This design choice removes frustration while maintaining the exploratory spirit that defined the series.
+Players switch between the two goblins, who are carried over from *Gobliins 2*. There, Wikipedia describes Fingus as "well-mannered, intelligent, and shy" and Winkle as "strong, obnoxious, but dimwitted", noting that both can pick up and use items but generally use an item in different ways.[^ref-4] As in the series generally, the player controls one character at a time and may switch between them.[^ref-4] The original *Gobliiins* had a shared health system for its three characters; Wikipedia notes this feature "is absent in the sequels".[^ref-4]
 
 ### Improvements Over Gobliiins 5
 
-The development team has outlined several improvements and enhancements compared to *Gobliiins 5*:[^ref-1][^ref-3]
+The Kickstarter campaign lists these improvements over *Gobliiins 5*:[^ref-1][^ref-2]
 
-**Visual Presentation:**
-- 16:9 widescreen format for modern monitors, expanding the viewable play area[^ref-1][^ref-3]
-- 640×480 resolution with 2D graphics featuring rich, detailed animations[^ref-3]
-- Enhanced visual polish while maintaining the classic art style
+- The game is in 16:9, "an extended display"[^ref-1]
+- "More game amplitude also means more puzzles, characters and funny situations"[^ref-1]
+- A single executable, with the language changeable "directly without leaving the application"[^ref-1][^ref-14]
+- An enriched save system: automatic saving at each level, plus saving progress at any time[^ref-1][^ref-2]
+- Each of the two main characters has their own inventory[^ref-1][^ref-2]
 
-**Content Expansion:**
-- More puzzles than previous entries[^ref-1][^ref-2]
-- Greater variety of characters to encounter and interact with[^ref-1][^ref-2]
-- Additional comedic situations and humorous scenarios[^ref-1][^ref-2]
-
-**Technical Conveniences:**
-- Single executable file with in-game language selection, eliminating the need for separate language versions[^ref-3][^ref-5]
-- Enhanced save system featuring automatic saving at each level plus manual saves available at any time[^ref-1][^ref-3]
-- Streamlined interface for modern players while retaining classic point-and-click mechanics
-
-### Control System
-
-The game utilizes the traditional Adventure Game Studio point-and-click interface, allowing players to interact with the environment using mouse controls.[^ref-3][^ref-5] Players can click on objects, characters, and environmental elements to trigger interactions, with each goblin producing different results based on their personality.[^ref-2][^ref-4]
-
-### Puzzles and Mechanics
-
-*Gobliins 6* features cooperative puzzle design that leverages the contrasting personalities of Fingus and Winkle. The two-goblin puzzle format requires players to think strategically about when each character's approach will be most effective.[^ref-2][^ref-4] Puzzles often demand sequential actions from both goblins—Fingus might need to perform a careful, methodical action while Winkle creates a distraction or performs an unexpected maneuver that reveals a solution neither goblin could achieve alone.[^ref-1][^ref-2]
-
-Unlike the original *Gobliiins* (1991), which featured a life meter that punished failed interactions with game-overs, *Gobliins 6* eliminates this frustration entirely. The removal of health mechanics means that failed puzzle attempts never result in penalties or death states.[^ref-4][^ref-8] Instead, unsuccessful interactions trigger amusing comedic animations that showcase each goblin's distinct personality—failures become part of the entertainment value rather than punishment, encouraging experimentation and exploration without fear of consequence.[^ref-4]
-
-This design philosophy represents a significant quality-of-life improvement while maintaining the exploratory spirit that defined the original series. Players can try unconventional approaches, watch the humorous results, and learn from their failures without mechanical setbacks.[^ref-1][^ref-4]
+Display options such as full-screen or windowed mode are set through the separate `winsetup.exe` file.[^ref-14][^ref-20]
 
 ## Development
 
 ### Origins
 
-Gobliins 6 was announced by series creator Pierre Gilhodes following the positive reception of Gobliiins 5: The Morgloton Invasion. As an alumni project by the original creator of the Gobliiins series, the game represents a continuation of the franchise that began with Sierra On-Line in 1991.[^ref-1]
+According to the Kickstarter campaign, work on the game had "been underway since April 2023", the year *Gobliiins 5* was released.[^ref-1][^ref-4]
 
-### Kickstarter Campaign
+### Crowdfunding
 
-The Kickstarter campaign for *Gobliins 6* launched on October 10, 2024, and ran until November 9, 2024.[^ref-1][^ref-3] Pierre Gilhodes set a modest funding goal of €4,000, a conservative target that reflected both the independent nature of the project and Gilhodes' experience with crowdfunding from the *Gobliiins 5* campaign.[^ref-1][^ref-9]
+A crowdfunding campaign for *Gobliins 6* went live on Ulule on October 9–10, 2024, as reported by Adventure-Treff and RPG Codex.[^ref-9][^ref-10] The Kickstarter campaign ran in parallel from October 10 to November 9, 2024, with a €4,000 goal.[^ref-1] In an October 2024 update, Gilhodes referred to "funding difficulties on both platforms".[^ref-9]
 
-The campaign ultimately raised €9,524 from 388 backers, exceeding its goal by 238%.[^ref-1][^ref-3] This strong performance demonstrated continued community interest in the Gobliiins franchise and support for Gilhodes' vision of continuing the series independently. The campaign's success was notable given the niche nature of classic point-and-click adventure games in the modern gaming landscape.[^ref-3][^ref-9]
+At its close the Kickstarter had raised €9,524 from 388 backers — 238% of the goal.[^ref-9] Late pledges have since raised the total shown on the campaign page to €11,433 from 469 backers.[^ref-1] The campaign was shared on community sites including the GOG forums and SteamGifts.[^ref-7][^ref-8]
 
 ### Funding Allocation
 
-According to the Kickstarter campaign details, the raised funds are being allocated across several key development areas:[^ref-1]
-
-**Music Production:**
-- Composition and production by Butterfly Tea, continuing the partnership established in *Gobliiins 5*[^ref-1][^ref-3]
-- Original score designed to match the whimsical tone of the series
-
-**Art and Animation:**
-- Graphic design work for characters, environments, and objects[^ref-1]
-- Animation production for the detailed character movements the series is known for[^ref-1]
-
-**Quality Assurance:**
-- Testing to ensure puzzle logic works correctly[^ref-1][^ref-3]
-- Bug fixing and polish across all game systems[^ref-3]
-- Localization quality verification for multiple languages
+According to the campaign page, the money would "finance production, which is expected to last approximately two and a half years", and pay "the main musician, Butterfly Tea". Depending on resources, Gilhodes hoped to bring in a graphic designer to help with animations, and testers would also be paid.[^ref-1][^ref-2]
 
 ### Development Progress
 
-At the conclusion of the Kickstarter campaign in November 2024, Pierre Gilhodes reported that approximately 75% of the game was already complete.[^ref-1][^ref-9] The remaining work was estimated to require approximately 2.5 years of additional development time, suggesting a potential release in late 2026 or 2027.[^ref-1][^ref-9]
-
-### Status Update (December 2025)
-
-In a Facebook post on December 15, 2025, Pierre Gilhodes provided an encouraging update on the project's status: "The game is almost finished, but still a thousand things to do, including finishing the translation and integrating it, a big piece. Thank you for your patience."[^ref-11] This update indicates substantial progress beyond the 75% completion reported at the end of the Kickstarter campaign, with translation and localization emerging as the primary remaining work.[^ref-11]
-
-The update suggests the game has moved from active content development into the finalization and polish phase, a positive sign for backers and fans awaiting the release.[^ref-11]
+The campaign's "Risks and challenges" section stated that the game, begun in April 2023, "will be finished in a year or a year and a half"; the base reward's estimated delivery was December 2025.[^ref-1] In an April 6, 2025 Kickstarter update, Gilhodes reported: "Although 75% of the game is almost finished, the last quarter started well, there is still a lot of work to do."[^ref-9]
 
 ### Status Update (February 2026) — Imminent Release
 
-In a Kickstarter update posted on February 2, 2026, Pierre Gilhodes announced that the game's release is imminent.[^ref-13] The update stated: "As soon as the game is released, and as soon as I have collected the keys, I start sending you the emails. I send a Steam key by default, but let me know quickly if you prefer an Itch.io key, or the game files."[^ref-13]
+In Kickstarter Update #8 on February 2, 2026, Gilhodes wrote: "As soon as the game is released, and as soon as I have collected the keys, I start sending you the emails. I send a Steam key by default, but let me know quickly if you prefer an Itch.io key, or the game files."[^ref-13]
 
-This announcement confirms that *Gobliins 6* has completed development and is awaiting final release logistics. Backers will receive their keys via email, with Steam as the default distribution platform and Itch.io available as an alternative.[^ref-13]
+### Release (February 10–13, 2026)
 
-### Release (February 10-13, 2026)
+The game went on sale on itch.io on February 10, 2026.[^ref-15] In Kickstarter Update #9 on February 11, Gilhodes wrote: "Hello, all mailings are done, check your spam emails. Let me know in case of any problem. The game should be on Steam on Friday."[^ref-21] The Steam release followed on Friday, February 13, 2026, announced to backers in Update #11, "Le jeu est sorti sur Steam".[^ref-14][^ref-22]
 
-*Gobliins 6: The Madmen of the Year 1000* was released on itch.io on February 10, 2026, with the Steam release following on February 13, 2026.[^ref-14][^ref-15] In a Kickstarter update announcing the release, Pierre Gilhodes wrote: "Hello, all mailings are done, check your spam emails. Let me know in case of any problem. The game should be on Steam on Friday. See you soon."[^ref-15]
+### Post-Release Patches
 
-### Technical Achievements
-
-*Gobliins 6* is built on **Adventure Game Studio (AGS)** — the same open-source point-and-click engine that powered the 2023 *Gobliiins 5: The Morgloton Invasion*, allowing Pierre Gilhodes to reuse mature technical frameworks while concentrating on new content[^ref-3][^ref-5]. The release introduced an **enhanced save system** and **multi-language support** as deliberate improvements over Gobliiins 5, demonstrating engine flexibility and continued technical refinement[^ref-3][^ref-5]. The product was successfully funded via **Kickstarter in November 2024 at 75% development completion**, with the campaign's transparency about progress representing a notable crowdfunding-trust achievement in a category often plagued by missed deadlines[^ref-1][^ref-9]. Final release shipped on **itch.io on February 10, 2026** with the Steam release following February 13, 2026 — a remarkable 15-month turnaround from Kickstarter close to public launch[^ref-13][^ref-14][^ref-15]. The dual-distribution approach (Steam by default, itch.io / direct game files as backer alternatives) reflects modern indie-distribution best practices[^ref-13].
+A series of Kickstarter updates between February and March 2026 tracked fixes on both Steam and itch.io: a Steam installation problem that showed zone names in French in the English version (Updates #12–13), further patched builds (Updates #14–16, including a fix for a bug in the second-to-last level, the Castle of Sombrague), and a March 25, 2026 build fixing a problem that in some cases prevented level 14 ("Les profondeurs, Le grand rêveur") from starting (Update #17).[^ref-22]
 
 ### Technical Foundation
 
-*Gobliins 6* is being developed using Adventure Game Studio (AGS), a free game development tool specifically designed for creating point-and-click adventure games.[^ref-3][^ref-5] This same engine powered *Gobliiins 5* (2023), allowing Gilhodes to leverage his experience and potentially reuse certain technical frameworks while creating new content.[^ref-3]
-
-The choice of AGS reflects Gilhodes' commitment to an "oldschool-style" approach to development, prioritizing classic 2D adventure game aesthetics and mechanics over modern 3D graphics.[^ref-3] The engine's flexibility has allowed for the implementation of custom features like the enhanced save system and multi-language support.[^ref-3][^ref-5]
+*Gobliins 6* is made with Adventure Game Studio, a free engine designed for point-and-click adventure games, and Clip Studio Paint, per its itch.io listing.[^ref-19][^ref-20] Gilhodes used AGS again after *Gobliiins 5*.[^ref-4] The developer's itch.io listing states that no generative AI was used.[^ref-20]
 
 ## Reception
 
 ### Contemporary Reviews
 
-### Modern Assessment
+As of October 2026, searches turned up no professional critic reviews of *Gobliins 6*, and it has no aggregate critic score. Reception so far comes from player ratings. On Steam, user reviews are rated "Positive", with 87% of 24 reviews positive.[^ref-14] On itch.io the game is rated 5.0 out of 5 from 17 ratings.[^ref-20]
 
-Gobliins 6 remains highly anticipated as Pierre Gilhodes' return to the franchise. Given the critical acclaim of Gobliiins 5: The Morgloton Invasion (2023)[^ref-5], expectations are high for this sixth installment. The game has not yet been released as of this writing.[^ref-1]
+### Player Response
 
-
-As a newly released title (February 2026), *Gobliins 6* has begun receiving initial reviews and player feedback from early adopters on Steam and itch.io platforms.[^ref-14][^ref-15] The game's Kickstarter campaign and early release reception have been positive, with community responses focused on the faithful recreation of the classic adventure gaming experience and the successful return of the beloved two-goblin duo.[^ref-1][^ref-2]
-
-Early feedback emphasizes Pierre Gilhodes' successful balance between preserving the essence of classic adventure gaming and incorporating modern quality-of-life improvements, such as the streamlined save system and expanded content.[^ref-1][^ref-3]
+One itch.io player called it "definitely the second best game in the series, next to Goblins3," praising the "humor, graphics, and animation" and adding that "the music is much better compared to Gobliiins5."[^ref-23] Indie Retro News covered the launch on February 10, 2026, reporting that players could "download and play" it from that day.[^ref-15]
 
 ### Kickstarter Reception
 
-The crowdfunding campaign generated significant positive response within the adventure gaming community, with the campaign exceeding its goal by more than 100%.[^ref-1][^ref-3] Backers expressed enthusiasm for several key aspects of the project:
-
-**Return to Two-Goblin Format:**
-Fans praised the decision to return to the *Gobliins 2* duo rather than continuing the three-goblin format of *Gobliiins 5*. The two-character dynamic was widely considered the high point of the original series, offering more focused puzzle design and stronger character development.[^ref-1][^ref-2][^ref-9]
-
-**Direct Sequel Approach:**
-The choice to create a direct sequel to *Gobliins 2*, continuing the story of Fingus and Winkle, resonated with long-time fans who had followed these characters since 1992.[^ref-2][^ref-4] The thirty-year gap between games added nostalgic appeal while promising a fresh adventure.[^ref-2][^ref-9]
-
-**Creator Continuity:**
-Pierre Gilhodes' continued involvement as the driving creative force behind the series provided assurance of authentic continuation of the franchise's spirit and humor.[^ref-1][^ref-6][^ref-9]
+The Kickstarter closed at 238% of its goal.[^ref-9] On RPG Codex, early reactions to the announcement included "Looks absolutely fantastic", and one user wrote: "I love it the guy just keeps doing his own thing, screw the current 'trends'."[^ref-9]
 
 ### Community Discussion
 
-The announcement of *Gobliins 6* sparked active discussions across adventure gaming communities:[^ref-3][^ref-7][^ref-8]
+The project was discussed across several adventure-gaming communities:
 
-**Adventure Gamers Forum:**
-The Adventure Gamers forum hosted extensive discussion about the project, with community members sharing memories of the original games and expressing support for the continuation of the series.[^ref-3] Users noted appreciation for Gilhodes' dedication to the franchise over three decades.[^ref-3]
-
-**GOG.com Forums:**
-The GOG community discussed the Kickstarter campaign, with users expressing hope that the completed game would eventually be released on the GOG platform alongside the existing Gobliiins collection.[^ref-7]
-
-**RPG Codex:**
-Discussion on RPG Codex included detailed analysis of the gameplay improvements promised in the campaign, with community members debating the merits of the two-goblin versus three-goblin format.[^ref-9]
-
-**Steam Gifts:**
-The Steam Gifts community highlighted the project's Kickstarter campaign, with users sharing their backing experiences and discussing expectations for the final product.[^ref-8]
-
-### Critical Context
-
-As an unreleased title, *Gobliins 6* has not yet received formal critical reviews. However, the positive reception of *Gobliiins 5* (2023) and the strong Kickstarter performance suggest a receptive audience awaits the game's eventual release.[^ref-2][^ref-3]
+- **RPG Codex** reposted the campaign launch and successive Kickstarter updates, including the funding total and the April 2025 progress report.[^ref-9]
+- **Adventure-Treff** (German) posted the Ulule launch on October 9, 2024, with an English translation of the campaign text.[^ref-10]
+- **GOG.com forums** carried a thread titled "Gobliins 6 - Gobliins 2 sequel to Kickstart", linking to the campaign.[^ref-7]
+- **SteamGifts** hosted a thread that reprinted the Adventure Gamers announcement and was later retitled for the February 13 Steam release.[^ref-8]
 
 ## Legacy
 
 ### Continuation of a Classic Franchise
 
-*Gobliins 6* represents a remarkable continuation of a franchise that began at Coktel Vision in 1991.[^ref-4][^ref-6] The original *Gobliiins* was notable for its innovative multi-character puzzle design, requiring players to coordinate three goblins with different abilities to solve challenges. This formula evolved through subsequent entries, with each game varying the number of playable characters.[^ref-4]
+*Gobliins 6* continues a series that began at Coktel Vision in 1991, later published by Sierra On-Line.[^ref-4] The original *Gobliiins* had the player coordinate three goblins with different abilities; later entries varied the number of playable characters.[^ref-4]
 
 ### Series Timeline
 
-The Gobliiins series spans over three decades:[^ref-4][^ref-6]
+Wikipedia counts six games in the series:[^ref-4]
 
-| Year | Title | Goblins | Publisher |
+| Year | Title | Goblins | Developer / Publisher |
 |------|-------|---------|-----------|
 | 1991 | Gobliiins | 3 | Coktel Vision |
 | 1992 | Gobliins 2: The Prince Buffoon | 2 | Coktel Vision |
 | 1993 | Goblins Quest 3 | 1 | Coktel Vision |
+| 2009 | Gobliiins 4 | 3 | Société Pollene / Snowball Studios |
 | 2023 | Gobliiins 5: The Morgloton Invasion | 3 | Schnibble Productions |
 | 2026 | Gobliins 6: The Madmen of the Year 1000 | 2 | Schnibble Productions |
 
-### Pierre Gilhodes' Vision
+### Pierre Gilhodes' Role
 
-Pierre Gilhodes has maintained creative control of the Gobliiins franchise for its entire existence, a rare achievement in the video game industry.[^ref-1][^ref-6] His work at Coktel Vision established the series' distinctive combination of puzzle gameplay, absurdist humor, and charming character design. The continuation through *Gobliiins 5* and now *Gobliins 6* under his independent Schnibble Productions label demonstrates his commitment to the franchise beyond commercial considerations.[^ref-1][^ref-6]
-
-According to MobyGames, Gilhodes' career in game development spans decades, with the Gobliiins series representing his most significant and enduring contribution to the medium.[^ref-6]
-
-### Revival of Classic Adventure Gaming
-
-*Gobliins 6* joins a broader movement of classic adventure game revivals in the 2020s, though it stands apart by featuring the original creator rather than a studio attempting to revive an acquired IP.[^ref-1][^ref-3] The crowdfunding approach allows Gilhodes to develop the game according to his artistic vision without publisher interference, ensuring authentic continuation of the series' spirit.[^ref-1][^ref-9]
+Gilhodes created the visual look of the series and its characters at Coktel Vision, and his style was also used in *The Bizarre Adventures of Woodruff and the Schnibble*.[^ref-4] *Gobliiins 4* (2009) was designed by Gilhodes and Muriel Tramis and developed by Société Pollene.[^ref-4] MobyGames lists his career credits, including a scenario credit on *Gobliins 6*.[^ref-6] With *Gobliiins 5* and *Gobliins 6* he has continued the series independently, self-publishing on itch.io and Steam.[^ref-5][^ref-14]
 
 ### The "ii" Convention
 
-The Gobliiins naming convention, where the number of "i"s indicates playable goblins, has become iconic in adventure gaming circles.[^ref-4][^ref-10] This creative approach to sequels—changing both the title and core gameplay structure—was innovative for its time and remains distinctive. *Gobliins 6* continues this tradition, with its two "i"s signaling the return to the beloved duo format.[^ref-2][^ref-4][^ref-10]
+In the series' titles, the number of letter "i"s in "Goblin" indicates how many characters the player may control. *GOBLiiNS6* uses two, matching its return to the Fingus-and-Winkle pairing.[^ref-4]
 
 ## Technical Specifications
 
-Based on the *Gobliiins 5* requirements and Kickstarter campaign information, the following specifications are anticipated:[^ref-3][^ref-5]
+From the Steam and itch.io store listings:[^ref-14][^ref-20]
 
 | Specification | Details |
 |---------------|---------|
 | **Engine** | Adventure Game Studio |
-| **Resolution** | 640×480 (16:9 extended format) |
-| **Graphics** | 2D hand-drawn animation |
-| **Platform** | Windows |
-| **Languages** | Multiple (in-game selection) |
-| **Save System** | Auto-save per level + manual saves |
-
-*Note: Final specifications may vary upon release.*
+| **Display** | 2D, 16:9 (resolution not stated by the developer); full-screen or windowed via `winsetup.exe` |
+| **Platform** | Windows (64-bit; minimum listed as Windows 10/7/8/Vista, Windows 10 recommended) |
+| **Memory** | 2 GB RAM |
+| **Graphics** | DirectX 11 compatible |
+| **Languages** | English and French (in-game selection) |
+| **Input** | Mouse |
+| **Save System** | Auto-save per level + manual saves[^ref-1] |
+| **Download** | itch.io build: 497 MB zip |
 
 ## Purchase
 
 **Purchase / Digital Stores**
-- [itch.io – Gobliins 6](https://pierre-gilhodes.itch.io/gobliins6) – Released February 10, 2026 ($10)[^ref-14]
-- [Steam – Gobliins 6](https://store.steampowered.com/app/4293620/GOBLiiNS6/) – Releases February 13, 2026[^ref-15]
+- [itch.io – Gobliins 6](https://pierre-gilhodes.itch.io/gobliins6) – Released February 10, 2026 ($10)[^ref-15][^ref-20]
+- [Steam – Gobliins 6](https://store.steampowered.com/app/4293620/GOBLiiNS6/) – Released February 13, 2026[^ref-14]
 
 ## Files & Downloads
 
@@ -283,10 +192,6 @@ Based on the *Gobliiins 5* requirements and Kickstarter campaign information, th
 **Developer**
 
 - [itch.io – Pierre Gilhodes](https://pierre-gilhodes.itch.io/) – Developer page with previous releases[^ref-5]
-
-## Downloads
-
-Gobliins 6 has not yet been released. Information on purchase availability will be added upon release.[^ref-1]
 
 ## See Also
 
@@ -300,23 +205,22 @@ Gobliins 6 has not yet been released. Information on purchase availability will 
 
 ## References
 
-[^ref-1]: [Kickstarter – Gobliins 6 by Pierre Gilhodes](https://www.kickstarter.com/projects/pierregilhodes/gobliins6) – Campaign details, funding information, development status
+[^ref-1]: [Kickstarter – Gobliins 6 by Pierre Gilhodes](https://www.kickstarter.com/projects/pierregilhodes/gobliins6) – Campaign story, improvements over Gobliiins 5, funding use, Oct 10–Nov 9 2024 funding period, €4,000 goal, current €11,433 / 469 backers
 [^ref-2]: [Adventure Gamers – Gobliins 6: A Quirky Comeback Adventure](https://web.archive.org/web/20241023012845/https://adventuregamers.com/news/view/gobliins6-a-quirky-comeback-adventure) – Game announcement and story details
-[^ref-3]: [Adventure Gamers Forums – Gobliiins 5 and Gobliins 6 Kickstarter](https://web.archive.org/web/20230420223433/https://adventuregamers.com/forums/viewthread/15732/) – Community discussion, AGS engine details
-[^ref-4]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – Series history, naming convention
+[^ref-4]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – Series history, naming convention, Gobliins 2 characters, Gobliiins 4, GOBLiiNS6 section
 [^ref-5]: [itch.io – Pierre Gilhodes](https://pierre-gilhodes.itch.io/) – Developer page
 [^ref-6]: [MobyGames – Pierre Gilhodes](https://www.mobygames.com/person/10718/pierre-gilhodes/) – Developer credits and career history
-[^ref-7]: [GOG Forums – Gobliins 6 Kickstarter discussion](https://www.gog.com/forum/general/gobliins_6_gobliins_2_sequel_to_kickstart) – Community reaction
-[^ref-8]: [Steam Gifts – Gobliins 6 Kickstarter discussion](https://www.steamgifts.com/discussion/fyhDo/kickstarter-for-gobliins-6-a-quirky-comeback-adventure-sequel-to-gobliins-2) – Community discussion
-[^ref-9]: [RPG Codex – Gobliins 6 discussion](https://rpgcodex.net/forums/threads/gobliins6-by-pierre-gilhodes.151592/) – Detailed community analysis
-[^ref-10]: [Adventure-Treff – Gobliins 6](https://www.adventure-treff.de/forum/topic/26046) – German community coverage
-[^ref-11]: [Facebook – Pierre Gilhodes status update](https://www.facebook.com/groups/144759398597) – December 15, 2025 development status
-[^ref-12]: Adventure Gamers – Gobliiins 6 Game Details *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Game database entry with plot details
+[^ref-7]: [GOG Forums – Gobliins 6 Kickstarter discussion](https://www.gog.com/forum/general/gobliins_6_gobliins_2_sequel_to_kickstart) – Forum thread linking to the Kickstarter
+[^ref-8]: [Steam Gifts – Gobliins 6 discussion](https://www.steamgifts.com/discussion/fyhDo/kickstarter-for-gobliins-6-a-quirky-comeback-adventure-sequel-to-gobliins-2) – Thread reprinting the Adventure Gamers announcement, retitled for the Feb 13 release
+[^ref-9]: [RPG Codex – Gobliins 6 discussion](https://rpgcodex.net/forums/threads/gobliins6-by-pierre-gilhodes.151592/) – Ulule launch link (Oct 10, 2024), reposted KS updates: "388 backers pledged €9,524" (Nov 9, 2024), 75% progress (Apr 6, 2025)
+[^ref-10]: [Adventure-Treff – Gobliins 6](https://www.adventure-treff.de/forum/topic/26046) – German forum post of the Ulule campaign launch (Oct 9, 2024)
 [^ref-13]: [Kickstarter – Gobliins 6 Update #8: Imminent game release](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4600616) – February 2, 2026 release announcement
 [^ref-14]: [Steam – GOBLiiNS6](https://store.steampowered.com/app/4293620/GOBLiiNS6/) – store page, user reviews, release date, system requirements
-[^ref-15]: [Indie Retro News – GOBLiiNS6](https://www.indieretronews.com/2026/02/gobliins6-retro-classic-gobliiins-are.html) – release coverage, retro gaming community reception
-[^ref-16]: [IGDB – Gobliins 6](https://www.igdb.com/games/gobliins-6) — Internet Games Database entry, Steam/itch.io platform listing, February 2026 release confirmation
-[^ref-17]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) — "the look of the series and its characters were created by French artist Pierre Gilhodes"; context for the sixth-entry comeback
-[^ref-18]: [LaunchBox Games Database – Gobliins 6](https://gamesdb.launchbox-app.com/games/details/gobliins-6) — community-curated metadata, cover-art reference
+[^ref-15]: [Indie Retro News – GOBLiiNS6](https://www.indieretronews.com/2026/02/gobliins6-retro-classic-gobliiins-are.html) – February 10, 2026 release coverage
+[^ref-16]: [IGDB – GOBLiiNS6](https://www.igdb.com/games/gobliins6) — Internet Games Database entry, PC (Windows) release 2026-02-13
+[^ref-18]: [LaunchBox Games Database – GOBLiiNS 6: The Madmen of the Year 1000](https://gamesdb.launchbox-app.com/games/details/435587) — release date February 13, 2026, Windows, max players 1
 [^ref-19]: [Adventure Game Studio (engine) – Wikipedia](https://en.wikipedia.org/wiki/Adventure_Game_Studio) — context for the AGS engine that powers Gobliins 6 and Gobliiins 5
-[^ref-20]: [itch.io – GOBLiiNS6](https://pierre-gilhodes.itch.io/gobliins6) — itch.io listing, primary direct-from-developer distribution channel
+[^ref-20]: [itch.io – GOBLiiNS6](https://pierre-gilhodes.itch.io/gobliins6) — itch.io listing: made with AGS, English/French, 16 levels, $10, rating 5.0 (17 ratings)
+[^ref-21]: [Kickstarter – Gobliins 6 Update #9: Jeu/Game](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4608311) – February 11, 2026: "all mailings are done… The game should be on Steam on Friday"
+[^ref-22]: [Kickstarter – Gobliins 6 Updates](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts) – Update #11 "Le jeu est sorti sur Steam" (Feb 13, 2026) and patch updates #12–#17 (Feb–Mar 2026)
+[^ref-23]: [itch.io – GOBLiiNS6 player comment by Vargoshi1998](https://itch.io/post/15526252) – player review: "definitely the second best game in the series, next to Goblins3"
