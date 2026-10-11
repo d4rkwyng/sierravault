@@ -2,52 +2,52 @@
 title: 3D Ultra Minigolf Adventures
 release_year: 2006
 developer: Wanako Games
-designer: []
+designer: [Eduardo Andres Carter Soto]
 publisher: Vivendi Games
 genre: Sports
 platforms: [Microsoft Windows, Xbox 360]
 series: 3D Ultra Minigolf
-engine: Wanako Engine
+engine: Unknown
 protagonist: Customizable Golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-11'
 description: 3D Ultra Minigolf Adventures is an arcade-style miniature golf video
-  game developed by Wanako Games and published by Vivendi Games under the Sierra On-Line...
+  game developed by Wanako Games and published by Vivendi Games under the Sierra Online...
 tags: [2000s, 3d-ultra-minigolf, sierra]
 last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3D Ultra Minigolf Adventures
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-3D Ultra Minigolf Adventures is an arcade-style miniature golf video game developed by Wanako Games and published by Vivendi Games under the Sierra On-Line label.[^ref-1][^ref-16] Released on December 20, 2006 for Microsoft Windows and April 18, 2007 for Xbox 360, the game marked the return of Sierra's popular minigolf franchise after nearly a decade of dormancy.[^ref-2] The title focuses on arcade elements rather than simulation-style miniature golf gameplay, offering players wacky and imaginative courses set across three distinct themed environments.[^ref-1]
+3D Ultra Minigolf Adventures is an arcade-style miniature golf video game developed by Wanako Games and published by Vivendi Games under the Sierra Online label.[^ref-1][^ref-16] It was released on December 20, 2006 for Microsoft Windows (a GameTap release in the US and Canada) and on April 18, 2007 for Xbox 360.[^ref-21] GameSpot noted that it arrived ten years after the original 1997 3-D Ultra Minigolf.[^ref-3] The title focuses on arcade elements rather than simulation-style miniature golf gameplay, offering players wacky and imaginative courses set across three distinct themed environments.[^ref-1]
 
 The game features 36 fun-filled holes spread across courses themed around a Wild West ghost town, a classic carnival, and outer space.[^ref-3] Players can choose from four animated stylish characters and putt their way through 3D designed courses featuring elevated greens, bunkers, bridges, water hazards, and numerous crazy obstacles.[^ref-4] One of the standout features is the comprehensive course editor, which allows players to customize all aspects of their own courses, including the ability to place hazards and power-ups in any location.[^ref-1]
 
-Beyond single-player tournament modes, 3D Ultra Minigolf Adventures supports multiplayer gameplay for up to four players both locally and online.[^ref-5] The multiplayer experience introduces competitive power-ups that can knock opponents' balls off course, adding a layer of strategic depth and opportunities for friendly rivalries.[^ref-6] Despite receiving mixed reviews for its physics and camera systems, the game found an audience as an accessible casual multiplayer experience on Xbox Live Arcade.[^ref-7][^ref-20]
+Beyond single-player tournament modes, 3D Ultra Minigolf Adventures supports multiplayer gameplay for up to four players both locally and online.[^ref-5] The multiplayer experience introduces competitive power-ups that can knock opponents' balls off course, adding a layer of strategic depth and opportunities for friendly rivalries.[^ref-6] Reviews were mixed, with critics faulting its physics and camera; the Xbox 360 version sold 11,049 units on Xbox Live Arcade by January 2011 and 34,413 by the end of 2011.[^ref-7][^ref-1]
 
 > [!info]- Game Info
 > **Developer:** Wanako Games[^ref-1][^ref-17]
-> **Designer:** Unknown
-> **Publisher:** Vivendi Games / Sierra On-Line[^ref-1]
+> **Designer:** Eduardo Andres Carter Soto (level design lead)[^ref-17]
+> **Publisher:** Vivendi Games / Sierra Online[^ref-1]
 > **Engine:** Unknown
 > **Platforms:** Microsoft Windows, Xbox 360[^ref-1]
 > **Release Year:** 2006 (Windows), 2007 (Xbox 360)
 > **Series:** 3D Ultra Minigolf
 > **Protagonist:** Customizable Golfer (4 characters available)
-> **Sierra Lineage:** Sierra On-Line
+> **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
 3D Ultra Minigolf Adventures does not feature a traditional narrative story. Instead, the game presents players with three thematically distinct courses that serve as imaginative backdrops for the miniature golf experience.[^ref-1] Each course environment tells its own visual story through detailed environments and interactive elements.
 
-The Old West course transports players to a frontier ghost town complete with saloons, rattlesnakes, and scorpions that interact with gameplay.[^ref-8][^ref-19] Players navigate their balls through explosive barrels, outhouses filled with dynamite, and various western-themed obstacles that bring the setting to life.[^ref-8] The course captures the rugged atmosphere of the American frontier with its wooden structures and desert hazards.[^ref-3]
+The Old West course transports players to a frontier ghost town complete with saloons, rattlesnakes, and scorpions that interact with gameplay.[^ref-8][^ref-3] Players navigate their balls through explosive barrels, outhouses filled with dynamite, and various western-themed obstacles that bring the setting to life.[^ref-8] IGN called it the simplest of the three courses, where a hole-in-one usually means hitting the ball off just the right wooden box at the right angle.[^ref-9]
 
 The Classic Carnival course recreates the nostalgic atmosphere of a bustling amusement park with rides and games serving as obstacles.[^ref-9] Players encounter elements like pirate ship rides and even a giant pinball machine where they must guide their ball using flippers to reach the hole.[^ref-9] The setting evokes memories of childhood birthday parties and arcade experiences.[^ref-9]
 
-The Outer Space course takes players beyond Earth's atmosphere to golf among asteroids and planetoids with their own gravity systems.[^ref-9] Here, players navigate craters and must circumnavigate entire celestial bodies to complete holes, creating a surreal low-gravity golfing experience.[^ref-5] Characters require space suits in this environment, adding to the whimsical presentation.[^ref-9]
+The Outer Space course takes players beyond Earth's atmosphere to golf on an asteroid with its own gravity.[^ref-9] Here, players must avoid craters and circumnavigate an entire asteroid to complete holes.[^ref-9] IGN joked that it would not "complain about your golfer needing a space suit out there."[^ref-9]
 
 ## Gameplay
 
@@ -73,7 +73,7 @@ Multiplayer supports 2-4 players both locally on the same console and online thr
 
 ### Puzzles and Mechanics
 
-Each hole in 3D Ultra Minigolf Adventures presents a puzzle-like challenge where players must determine the optimal path to the hole.[^ref-11] Multiple ball paths exist on most holes, allowing players to choose between safer routes or riskier shots that offer greater rewards.[^ref-11] The courses are designed so that each hole has at least one way to achieve a hole-in-one, though discovering these routes requires experimentation and skill.[^ref-9]
+Holes range from simple to complicated, and IGN noted that each hole has some way to score a hole-in-one; on the Carnival and Outer Space courses finding it takes more work than on the Old West course.[^ref-9]
 
 Power-ups scattered throughout courses add strategic depth to gameplay:[^ref-5]
 
@@ -89,13 +89,13 @@ Power-ups scattered throughout courses add strategic depth to gameplay:[^ref-5]
 - **Vacuum Hole:** Sucks balls toward the hole[^ref-5]
 - **Blow Hole:** Pushes balls away from the hole[^ref-5]
 
-Course hazards include interactive elements like scorpions that push balls around randomly, explosive barrels that launch balls into the air, and craters that can trap errant shots.[^ref-3][^ref-8]
+Course hazards include interactive elements like scorpions that push balls around randomly, explosive barrels that launch balls into the air, and craters to avoid on the Outer Space course.[^ref-3][^ref-8][^ref-9][^ref-19]
 
 ## Reception
 
 ### Contemporary Reviews
 
-3D Ultra Minigolf Adventures received mixed to average reviews upon release.[^ref-18] IGN awarded the Xbox 360 version a score of 7.5/10, praising the wacky hole designs as "a 10-year-old course designer's dream" while noting that single-player options were "very thin."[^ref-9] The reviewer highlighted creative holes including a pirate ship ride obstacle and a giant playable pinball machine.[^ref-9]
+3D Ultra Minigolf Adventures received mixed reviews; MobyGames lists a 66% critic average from 13 ratings.[^ref-18] IGN awarded the Xbox 360 version a score of 7.5/10, praising the wacky hole designs as "a 10-year-old course designer's dream" while noting that single-player options were "very thin."[^ref-9] The reviewer highlighted creative holes including a pirate ship ride obstacle and a giant playable pinball machine.[^ref-9]
 
 X-ONE Magazine UK gave the game an 80/100, though strongly advised players to "turn the bloody sound off."[^ref-7] The New York Times scored the title 74/100, finding it fun but criticized the single-player mode as "terribly brief," noting the reviewer "played through all three courses a couple of times and found the hole-in-one technique for most holes in well under three hours."[^ref-7]
 
@@ -105,12 +105,12 @@ GamesRadar praised the game's "inspired hole design" and "fun multiplayer setup"
 
 ### Modern Assessment
 
-Modern user reviews on Steam show the game maintaining a "Mostly Positive" rating, with 71% of 114 user reviews being positive.[^ref-4] The game has found a niche audience among casual multiplayer enthusiasts and fans of the arcade golf genre.
+As of October 2026, the Steam store page rates the game "Mostly Positive", with 70% of 117 user reviews positive.[^ref-4]
 
 **Aggregate Scores:**
 - **Metacritic (Xbox 360):** 66/100 based on 13 critic reviews[^ref-7]
 - **Metacritic User Score:** 5.9/10 based on 13 user ratings[^ref-7]
-- **Steam:** 71% positive (114 reviews)[^ref-4]
+- **Steam:** 70% positive (117 reviews, October 2026)[^ref-4]
 - **IGN:** 7.5/10[^ref-9]
 
 TrueAchievements reviewers noted the game became better value after a price reduction from 800 to 400 Microsoft Points, with one reviewer stating the achievements "won't take long" and the game has "an exploitable save system in that it saves after each hole."[^ref-13]
@@ -119,41 +119,40 @@ TrueAchievements reviewers noted the game became better value after a price redu
 
 ### Origins
 
-Sierra On-Line announced the development of 3D Ultra Minigolf Adventures in September 2006.[^ref-1] The game was developed by Wanako Games, a Latin American studio that would later be acquired by Vivendi in early 2007.[^ref-14] The project represented Sierra's return to the 3D Ultra Minigolf franchise after nearly a decade.
+Sierra Online announced the development of 3D Ultra Minigolf Adventures on September 27, 2006.[^ref-1] The game was developed by Wanako Games, a Latin American studio that would later be acquired by Vivendi in early 2007.[^ref-14] It followed the original 3-D Ultra Minigolf by ten years.[^ref-3]
 
 The game's development has interesting roots in an earlier, unreleased title. 3D Ultra Minigolf Adventures was originally planned for release in 2001 under the name "Minigolf Maniacs" for PC and PlayStation 2.[^ref-2] However, the closure of Dynamix left the game unfinished, and many level designs and mechanics were later re-fitted for Adventures.[^ref-2] The original Minigolf Maniacs eventually received a fan completion project in collaboration with the original developers and was released as freeware in 2007.[^ref-2]
 
 ### Production
 
-Wanako Games, also known as Wanako Studios, handled development of the title.[^ref-5] The Chilean developer brought fresh perspective to the franchise while maintaining the whimsical spirit established by Dynamix in the original 1997 game. In February 2007, shortly after the Windows release but before the Xbox 360 launch, Vivendi Games announced the acquisition of Wanako, making the casual games developer part of the Sierra On-Line family.[^ref-14]
+Wanako Games, also known as Wanako Studios, handled development of the title.[^ref-5] The Chilean developer brought fresh perspective to the franchise while maintaining the whimsical spirit established by Dynamix in the original 1997 game. In February 2007, shortly after the Windows release but before the Xbox 360 launch, Vivendi Games announced the acquisition of Wanako, making the casual games developer part of the Sierra Online family.[^ref-14]
 
-The development focused on creating an accessible arcade experience rather than a realistic golf simulation.[^ref-1] The team designed courses with multiple solution paths and integrated power-ups to differentiate the gameplay from straightforward minigolf.[^ref-1] The course editor feature was implemented to extend replay value and allow community creativity.[^ref-1]
+The game focuses on arcade elements rather than simulation-style miniature golf, with power-ups found throughout each course.[^ref-1] Music and sound were provided by SomaTone Interactive Audio.[^ref-17]
 
 **Development Credits:**[^ref-5]
 - **Developer:** Wanako Games / Wanako Studios
-- **Publisher:** Vivendi Games / Sierra On-Line
+- **Publisher:** Vivendi Games / Sierra Online
 
 ### Technical Achievements
 
-The game featured full 3D environments with themed decorations and interactive hazards.[^ref-8] Each course had its own atmosphere, from the desert heat waves and wildlife of the Old West to the zero-gravity physics of the Outer Space environment.[^ref-8] The carnival course included animated rides and games that served as both obstacles and visual spectacle.[^ref-9]
+The game featured full 3D environments with themed decorations and interactive hazards.[^ref-8] Each course had its own atmosphere, from the rattlesnakes and scorpions of the Old West[^ref-8] to Outer Space holes played on asteroids with their own gravity.[^ref-9] The carnival course included animated rides and games that served as both obstacles and visual spectacle.[^ref-9]
 
-Dolby Digital 5.1 surround sound was supported on the Xbox 360 version.[^ref-14] The physics engine, while criticized by some reviewers for inconsistency, attempted to simulate realistic ball movement with the most accurate physics of any computer mini golf game, according to the original series' marketing claims.[^ref-11]
+IGN's game page lists Dolby Digital 5.1 among the game's features, without naming a platform.[^ref-14]
 
 ### Technical Specifications
 
-**PC Version:**[^ref-4]
-- **Release Date:** December 20, 2006
-- **Distribution:** CD-ROM, Digital Download
+**PC Version:**[^ref-4][^ref-21]
+- **Release Date:** December 20, 2006 (GameTap, US/Canada)
+- **Distribution:** Digital Download
 
-**Xbox 360 Version:**[^ref-2]
+**Xbox 360 Version:**[^ref-1][^ref-21]
 - **Release Date:** April 18, 2007
 - **Distribution:** Xbox Live Arcade
-- **Original Price:** 800 Microsoft Points (later reduced to 400)
-- **Audio:** Dolby Digital 5.1[^ref-14]
+- **Original Price:** 800 Microsoft Points (later reduced to 400)[^ref-13]
 
-**Steam Version:**[^ref-15]
+**Steam Version:**[^ref-15][^ref-21]
 - **Release Date:** July 23, 2009
-- **Price:** €9.99
+- **Price:** $9.99
 - **Publisher:** [[Activision]]
 
 ### Technical Issues
@@ -167,18 +166,18 @@ The repetitive background music was frequently cited as a significant drawback, 
 - The game allows players to golf with an 8-ball-style ball design among other customization options.[^ref-3]
 - One hole features a functional pinball machine where players use flippers to guide their ball to the hole.[^ref-9]
 - The Old West course includes an outhouse filled with explosives that launches the ball when struck.[^ref-8]
-- In the Outer Space course, characters wear space suits, though one reviewer jokingly noted they "won't get all nit-picky and complain about your golfer needing a space suit out there."[^ref-9]
+- IGN joked about the Outer Space course: "We're not going to get all nit-picky and complain about your golfer needing a space suit out there."[^ref-9]
 - The game's achievement system can be exploited through the save system, which records progress after each hole, allowing players to restart poor shots without penalty.[^ref-13]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-3D Ultra Minigolf Adventures served as an entry point for casual gamers into Xbox Live Arcade's growing library of downloadable titles.[^ref-7] The game's price was eventually reduced from 800 to 400 Microsoft Points, making it more accessible to budget-conscious players.[^ref-13] Its availability on both Windows and Xbox 360 helped maintain the Sierra minigolf brand across multiple platforms.
+The Xbox 360 version sold 11,049 units worldwide by January 2011, rising to 34,413 by the end of 2011.[^ref-1] The game's price was eventually reduced from 800 to 400 Microsoft Points, making it more accessible to budget-conscious players.[^ref-13] Its availability on both Windows and Xbox 360 helped maintain the Sierra minigolf brand across multiple platforms.
 
 ### Collections
 
-The game was released on Steam as "3D Ultra Minigolf Adventures Deluxe" on July 23, 2009, published by Activision following their acquisition of Vivendi Games properties.[^ref-15] This deluxe edition remained available for purchase as a standalone title on the Steam storefront.[^ref-4]
+The game was released on Steam on July 23, 2009, published by Activision.[^ref-21] The store page lists it as "3D Ultra Minigolf Adventures",[^ref-4] while its Steam Community hub is titled "3D Ultra Minigolf Adventures Deluxe".[^ref-20] It is still sold on Steam.[^ref-4]
 
 ### Sequel
 
@@ -186,7 +185,7 @@ The game was released on Steam as "3D Ultra Minigolf Adventures Deluxe" on July 
 
 ### Lost Island Expansion
 
-A downloadable expansion called "Lost Island" was released for the game, adding additional themed content to the base game's three courses.[^ref-5]
+The "Lost Island" expansion was released for Xbox Live on July 25, 2007, adding an additional eighteen-hole course for 400 Microsoft Points.[^ref-1][^ref-5]
 
 ### Fan Projects
 
@@ -194,25 +193,25 @@ The original "Minigolf Maniacs" project, which served as the foundation for 3D U
 
 ### Critical Perspective
 
-3D Ultra Minigolf Adventures occupies an interesting position in Sierra's history as one of the company's later casual gaming efforts before the brand was absorbed into Activision. The game demonstrated Sierra's attempt to revitalize dormant franchises for the emerging downloadable games market on consoles. While it never achieved the critical acclaim or cultural impact of Sierra's adventure game legacy, it provided accessible multiplayer entertainment during the early years of Xbox Live Arcade.
+3D Ultra Minigolf Adventures occupies an interesting position in Sierra's history as one of the company's later casual gaming efforts before the brand was absorbed into Activision. It never achieved the critical acclaim or cultural impact of Sierra's adventure game legacy.
 
-The game is perhaps best remembered as a competent but unremarkable entry in the casual sports genre—fun with friends but lacking the depth or polish to stand out in a crowded marketplace.[^ref-3] Its legacy lives on primarily through the Steam release and as a predecessor to the more polished sequel. The original 3D Ultra Minigolf series from Dynamix (1997-1998) retains stronger nostalgic attachment among PC gaming enthusiasts, with the Collection Chamber preserving those titles for modern players.[^ref-11]
+The game is perhaps best remembered as a competent but unremarkable entry in the casual sports genre—fun with friends but lacking the depth or polish to stand out in a crowded marketplace.[^ref-3] It remains available through its Steam release and was followed by a 2010 sequel.
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3d-ultra-minigolf-adventures-2006)
+- [Steam](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/)
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [Steam](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) - 3D Ultra Minigolf Adventures Deluxe
+- [Steam](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) - 3D Ultra Minigolf Adventures
 
 **Community**
 - [Steam Community Hub](https://steamcommunity.com/app/10140) - Discussions, screenshots, and user content
 
 ## See Also
 
-[[1995 - 3-D Ultra Pinball]]
+- [[1995 - 3-D Ultra Pinball]]
 - [[1996 - 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra MiniGolf]]
 - [[1997 - 3-D Ultra Pinball - The Lost Continent]]
@@ -239,13 +238,13 @@ The game is perhaps best remembered as a competent but unremarkable entry in the
 [^ref-8]: [ZTGD – 3D Ultra Minigolf Adventures](https://ztgd.com/reviews/3d-ultra-minigolf-adventures/) – course descriptions, visuals, sound criticism
 [^ref-9]: [IGN – 3D Ultra Minigolf Adventures Review](https://www.ign.com/articles/2007/04/18/3d-ultra-minigolf-adventures-review) – Jonathan Miller review, hole descriptions, tournament modes
 [^ref-10]: [GamesRadar – 3D Ultra Mini Golf Adventures Review](https://www.gamesradar.com/3d-ultra-minigolf-adventures-xbox-live-arcade-review/) – control options, physics criticism
-[^ref-11]: Collection Chamber – 3D Ultra Minigolf *(download link removed: the game is sold commercially)* – original series description, gameplay features
 [^ref-12]: [Eurogamer – 3D Ultra Minigolf Adventures Review](https://www.eurogamer.net/3d-ultra-minigolf-adventures-review) – critical assessment, character options
 [^ref-13]: [TrueAchievements – 3D Ultra Minigolf Adventures Reviews](https://www.trueachievements.com/game/3D-Ultra-Minigolf-Adventures/reviews) – achievement guidance, save system exploit
-[^ref-14]: [IGN – 3D Ultra Minigolf Adventures](https://www.ign.com/games/3d-ultra-minigolf-adventures) – HowLongToBeat data, Dolby Digital support, Vivendi acquisition news
-[^ref-15]: [Steam Search Results](https://store.steampowered.com/search/?term=3D+Ultra+MiniGolf+Adventures) – Steam release date July 23, 2009
-[^ref-16]: [MobyGames – 3D Ultra Minigolf Adventures](https://www.mobygames.com/game/2295/3d-ultra-minigolf-adventures/) – game database entry with developer, publisher, platform release information
-[^ref-17]: [MobyGames – 3D Ultra Minigolf Adventures credits](https://www.mobygames.com/game/2295/3d-ultra-minigolf-adventures/credits/) – Development team attribution including Wanako Games staff
-[^ref-18]: [MobyGames – 3D Ultra Minigolf Adventures reviews](https://www.mobygames.com/game/2295/3d-ultra-minigolf-adventures/reviews/) – Aggregate critic and player review scores
-[^ref-19]: [MobyGames – 3D Ultra Minigolf Adventures screenshots](https://www.mobygames.com/game/2295/3d-ultra-minigolf-adventures/screenshots/) – Visual documentation of Wild West, Carnival, and Outer Space courses
-[^ref-20]: [Steam Community – 3D Ultra Minigolf Adventures](https://steamcommunity.com/app/10140) – Player community discussions and modern playability reports
+[^ref-14]: [IGN – 3D Ultra Minigolf Adventures](https://www.ign.com/games/3d-ultra-minigolf-adventures) – Dolby Digital 5.1 feature listing (platform unstated), Vivendi acquisition news
+[^ref-15]: [Steam Search Results](https://store.steampowered.com/search/?term=3D+Ultra+MiniGolf+Adventures) – Steam listing, $9.99
+[^ref-16]: [MobyGames – 3D Ultra Mini Golf Adventures](https://www.mobygames.com/game/27662/3d-ultra-mini-golf-adventures/) – Moby ID 27662; publisher Sierra Online, developer Wanako Studios Ltd.
+[^ref-17]: [MobyGames – 3D Ultra Mini Golf Adventures credits](https://www.mobygames.com/game/27662/3d-ultra-mini-golf-adventures/credits/) – Windows credits: Wanako Games, Level Design Lead Eduardo Andres Carter Soto, music and sound by SomaTone Interactive Audio
+[^ref-18]: [MobyGames – 3D Ultra Mini Golf Adventures reviews](https://www.mobygames.com/game/27662/3d-ultra-mini-golf-adventures/reviews/) – critic average 66% (13 ratings)
+[^ref-19]: [MobyGames – 3D Ultra Mini Golf Adventures screenshots](https://www.mobygames.com/game/27662/3d-ultra-mini-golf-adventures/screenshots/) – Windows screenshots, including a scorpion colliding with the ball
+[^ref-20]: [Steam Community – 3D Ultra Minigolf Adventures Deluxe](https://steamcommunity.com/app/10140) – Community hub, titled "3D Ultra Minigolf Adventures Deluxe"
+[^ref-21]: [MobyGames – 3D Ultra Mini Golf Adventures releases](https://www.mobygames.com/game/27662/3d-ultra-mini-golf-adventures/releases/) – Windows Dec 20, 2006 (GameTap, US/Canada); Xbox 360 Apr 18, 2007; Steam Jul 23, 2009 (Activision)
