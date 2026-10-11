@@ -121,7 +121,6 @@ Despite being banned in Germany due to its violence level and placement on the '
 - [MyAbandonware - Original Version](https://www.myabandonware.com/game/a-10-tank-killer-kt)[^ref-17]
 - [Internet Archive](https://archive.org/details/msdos_A-10_Tank_Killer_1989)[^ref-5]
 - [Classic Reload](https://classicreload.com/a-10-tank-killer.html)[^ref-6]
-- [XTC Abandonware](https://www.xtcabandonware.com/game/1673/a-10-tank-killer-v15)[^ref-13]
 
 ## See Also
 
@@ -142,7 +141,7 @@ Despite being banned in Germany due to its violence level and placement on the '
 [^ref-10]: [Wikipedia - Silent Thunder: A-10 Tank Killer II](https://en.wikipedia.org/wiki/Silent_Thunder:_A-10_Tank_Killer_II) – - Wikipedia article about the sequel with professional review information
 [^ref-11]: [SelfSimilar 2008 Review](https://www.selfsimilar.org/2008/10/a-10-tank-killer-15-review/) – - Personal retrospective review from 2008 providing detailed gameplay analysis
 [^ref-12]: [MobyGames - A-10 Tank Killer (632)](https://www.mobygames.com/game/632/) – - Comprehensive database entry with technical specifications
-[^ref-13]: [XTC Abandonware - A-10 Tank Killer V15](https://www.xtcabandonware.com/game/1673/a-10-tank-killer-v15) – - Abandonware site entry with basic game information
+[^ref-13]: XTC Abandonware *(link removed 2026-10-11: site carries casino/poker advertising; claims citing it need re-sourcing)*
 [^ref-14]: [Sierra Gamers - A-10 Tank Killer 2](https://www.sierragamers.com/a10-tank-killer-2/) – - Game information aggregating MobyGames data
 [^ref-15]: [Lemon Amiga - A-10 Tank Killer](https://www.lemonamiga.com/game/a-10-tank-killer-version-1-5) – - Amiga game database entry with technical specifications and user reviews
 [^ref-16]: [MyAbandonware - V1.5](https://www.myabandonware.com/game/a-10-tank-killer-v-1-5-12w) – - Abandonware site providing download and user review information
@@ -152,7 +151,7 @@ Despite being banned in Germany due to its violence level and placement on the '
 [^ref-20]: [VOGONS Forum - A-10 Tank Killer](https://www.vogons.org/viewtopic.php?t=30404) – - Technical forum discussion providing bug reports and DOSBox compatibility fixes
 [^ref-21]: [Sierra Chest - A-10 Tank Killer](https://sierrachest.com/index.php?a=games&id=210&title=a10-tank-killer&fld=general) – - Game database entry providing basic metadata
 [^ref-22]: [Sierra Gamers - A-10 Tank Killer 1](https://www.sierragamers.com/a10-tank-killer-1/) – - Basic game information page with MobyGames references
-[^ref-23]: [Archive.org Sierra Collection](https://archive.org/details/sierra-collection-1988-1993) – - Archive listing of Sierra games compilation from 1988-1993
+[^ref-23]: Archive.org "Sierra Collection (1988 to 1993)" *(link removed 2026-10-11: a warez CD-ISO collection; claim needs a legitimate source)*
 [^ref-24]: [Sierra Help Wiki - A-10 Tank Killer Series](https://wiki.sierrahelp.com/index.php/A-10_Tank_Killer_Series) – - Wiki page about the A-10 Tank Killer series
 [^ref-25]: [Sierra Help Wiki - A-10 Tank Killer v1.5 Releases](http://wiki.sierrahelp.com/index.php/A-10_Tank_Killer_v1.5_Releases) – - Wiki page about version 1.5 releases
 [^ref-26]: [MobyGames – A-10 Tank Killer reviews](https://www.mobygames.com/game/2467/a-10-tank-killer/reviews/) – Aggregated review scores from contemporary gaming publications
