@@ -170,7 +170,7 @@ The game has been re-released digitally through various platforms. It is availab
 
 ### Fan Projects
 
-The Gobliiins series has inspired continued development. Pierre Gilhodes himself created Gobliiins 5: The Morgloton Invasion using Adventure Game Studio, releasing it on both Steam and itch.io[^ref-24][^ref-34]. Gilhodes describes it as "a great adventure in 2D for all ages. 16 big levels full of puzzles"[^ref-24]. A sixth installment, [[2026 - Gobliins 6|GOBLiiNS6]], was released on Steam on February 13, 2026[^ref-32]. Gobliiins 4 (2009), designed by Gilhodes and Tramis with 3D graphics[^ref-1], has had a mixed reception among fans; Jefklak's Codex dismissed it as "the 3D mistake"[^ref-13].
+The Gobliiins series has inspired continued development. Pierre Gilhodes himself created Gobliiins 5: The Morgloton Invasion using Adventure Game Studio, releasing it on both Steam and itch.io[^ref-24][^ref-34]. Gilhodes describes it as "a great adventure in 2D for all ages. 16 big levels full of puzzles"[^ref-24]. A sixth installment, [[2026 - Gobliins 6|GOBLiiNS6]], was released on Steam on February 13, 2026[^ref-32]. Gobliiins 4 (2009), designed by Gilhodes with 3D graphics[^ref-36], has had a mixed reception among fans; Jefklak's Codex dismissed it as "the 3D mistake"[^ref-13].
 
 ### Related Publications
 
@@ -239,3 +239,4 @@ Retrospective reviews have been warm. Adventure Classic Gaming called it "a grea
 [^ref-33]: [Sierra Chest – Goblins 3 Walkthrough](https://sierrachest.com/index.php?a=games&id=146&title=goblins-3&fld=walkthrough) – manual text: five jokers, werewolf personality, "double personality" / champion of Xina and Bodd
 [^ref-34]: [Steam – GOBLiiiNS5](https://store.steampowered.com/app/2475980/GOBLiiiNS5/) – Steam release date Jul 20, 2023
 [^ref-35]: [Gematsu – Gobliiins Collection announced for PS5, Xbox Series, and Switch](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) – Red Art Games compilation of the first five games, May 27, 2026
+[^ref-36]: [MobyGames – Gobliiins 4 credits (Windows)](https://www.mobygames.com/game/40608/gobliiins-4/credits/windows/) – Design: Pierre Gilhodes; Muriel Tramis in thanks only
