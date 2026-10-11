@@ -7,37 +7,38 @@ publisher: Sierra On-Line
 genre: Racing
 platforms: [Windows]
 series: 3-D Ultra
-engine: 3D Ultra Engine
+engine: Unknown/unnamed
 protagonist: N/A (Player-controlled RC cars)
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-11'
 description: '3-D Ultra Radio Control Racers Deluxe: Traxxas Edition is an arcade-style
-  racing game developed by Dynamix and published by Sierra On-Line in 2000. The game...'
+  RC racing game developed by Dynamix and published by Sierra On-Line in 2000, an expanded
+  update of the 1999 original with sixteen tracks and new Soccer and Battle Ball modes.'
 tags: [2000s, 3-d-ultra, racing, sierra]
-last_modified: 2026-03-15T15:49:44-07:00
+last_modified: 2026-10-11T15:27:14-06:00
 ---
 # 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-3-D Ultra Radio Control Racers Deluxe: Traxxas Edition is an arcade-style racing game developed by [[Dynamix]] and published by [[Sierra On-Line]] in 2000.[^ref-1] The game recreates the nostalgic experience of playing with radio-controlled cars, offering players the thrill of RC racing without the disappointing hourly charge-ups of real-world models.[^ref-2] As an update to the hot-selling original 3-D Radio Control Racers, the Traxxas Edition featured eight new tracks and two new game modes, bringing the total to sixteen tracks of "insane jumps, twisting turns and off-the-wall pitfalls."[^ref-3]
+3-D Ultra Radio Control Racers Deluxe: Traxxas Edition is an arcade-style racing game developed by [[Dynamix]] and published by [[Sierra On-Line]] in 2000.[^ref-1] The game recreates the nostalgic experience of playing with radio-controlled cars, offering players the thrill of RC racing without the disappointing hourly charge-ups of real-world models.[^ref-2] As an update to the hot-selling original 3-D Radio Control Racers, the Traxxas Edition featured eight new tracks and two new game modes, bringing the total to sixteen tracks of "insane jumps, twisting turns and off-the-wall pitfalls."[^ref-1][^ref-3]
 
-The game promised "little cars, huge fun," inviting players to select from four car models, upgrade and customize them, then compete across fourteen hilarious tracks filled with unexpected obstacles and hazards.[^ref-4] True to the 3-D Ultra series' signature style, the game featured whimsical hazards including "mad chickens, sea monsters, anarchist lawn gnomes" that players had to navigate during fast and furious racing.[^ref-1] The Traxxas Edition partnership brought official RC car branding to the experience, lending authenticity to the virtual racing.[^ref-5]
+The game promised "little cars, huge fun," inviting players to select from four car models and paint them as they liked, then compete across fourteen racing tracks (the eight classic tracks of the original plus six new ones); the remaining two tracks are arenas for the RC Soccer and Battle Ball modes.[^ref-9] True to the 3-D Ultra series' signature style, the game featured whimsical hazards including "mad chickens, sea monsters, anarchist lawn gnomes" that players had to navigate during fast and furious racing.[^ref-1] The Traxxas name appears in the game itself: the box promised three indoor tracks "including the Traxxas Raceway with real Traxxas intensity."[^ref-1]
 
-Part of the 3-D Ultra series influx during the final year of the millennium, alongside titles like TrainTown and Cool Pool, this game represented Dynamix's continued commitment to accessible, family-friendly entertainment software.[^ref-6] The game was rated "E for Everyone" by the ESRB with no content descriptors, making it suitable for all ages.[^ref-7] Some fans have even credited the game with innovating car-soccer gameplay that would later be popularized by games like Rocket League.[^ref-8][^ref-13][^ref-14][^ref-15]
+The game was rated "E for Everyone" by the ESRB with no content descriptors, making it suitable for all ages.[^ref-7] One Steam user has called 3D Ultra RC Racers "the innovator of car·soccer (like Rocket League)."[^ref-8]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
 > **Designer:** [[Richard Tunnell]], Shawn Bird, Jonathan Paton[^ref-1]
-> **Publisher:** [[Sierra On-Line]] / Sierra Attractions[^ref-1]
+> **Publisher:** [[Sierra On-Line]] / Sierra Attractions[^ref-1][^ref-13]
 > **Engine:** Unknown/unnamed[^ref-9]
-> **Platforms:** Windows 95, Windows 98, Windows ME[^ref-5]
-> **Release Year:** 2000[^ref-1]
+> **Platforms:** Windows 95, Windows 98, Windows ME[^ref-5][^ref-14]
+> **Release Year:** 2000[^ref-1][^ref-15]
 > **Series:** 3-D Ultra Series[^ref-9]
 > **Protagonist:** N/A (Player-controlled RC vehicles)
-> **Sierra Lineage:** Sierra Attractions
+> **Sierra Lineage:** Core Sierra (Sierra Attractions label)
 
 ## Story Summary
 
@@ -51,7 +52,7 @@ The career mode provides structured progression as players compete against fifte
 
 ### Interface and Controls
 
-The game features a bird's-eye view perspective with pre-rendered graphics, presenting 2D, top-down viewed tracks where players control their RC cars in real-time.[^ref-2][^ref-10] Controls support keyboard, mouse, and various controllers, with Patch 1.1 addressing some joypad-related bugs from the original release.[^ref-10] The player maintains direct control over their vehicle at all times, navigating the tracks while managing powerups and avoiding obstacles.[^ref-10]
+The game presents 2D, top-down viewed tracks where players control their RC cars in real time.[^ref-2] Neoseeker's reviewer found the arrow keys the most practical control method.[^ref-2] The player maintains direct control over their vehicle at all times, navigating the tracks while managing powerups and avoiding obstacles.[^ref-1][^ref-2]
 
 ### Structure and Progression
 
@@ -73,11 +74,11 @@ The game offers four distinct vehicle types, each with unique characteristics:[^
 - **Stadium Truck:** Balanced specifications
 - **Baja Bug:** Balanced specifications
 
-Players can customize their vehicles with upgrades to engines, shocks, and tires.[^ref-2] The Deluxe Traxxas Edition expanded customization options beyond the original release.[^ref-10] Patch 1.1 added the ability to apply custom paint jobs to vehicles.[^ref-10]
+Players can customize their vehicles with upgrades to engines, shocks, and tires.[^ref-2] The Deluxe Traxxas Edition expanded customization options beyond the original release.[^ref-10] It shipped with a "totally new paint shop" for creating custom looks,[^ref-1] and players can even create and import their own car skins.[^ref-9]
 
 ### Tracks and Environments
 
-The Deluxe Traxxas Edition features sixteen total tracks across varied environments:[^ref-3]
+The Deluxe Traxxas Edition features sixteen total tracks: fourteen racing tracks and two arenas for RC Soccer and Battle Ball.[^ref-1][^ref-9] Environments include:[^ref-3]
 
 - **Backyard:** Features garden gnomes and a dog as hazards
 - **Frog Pond:** Aquatic-themed obstacles
@@ -86,7 +87,7 @@ The Deluxe Traxxas Edition features sixteen total tracks across varied environme
 - **MiniGolf Course:** Complete with rocket, windmill, and waterfall features plus a sea monster[^ref-1]
 - **Haunted Graveyard:** Navigate between tombs
 - **Aztec Pyramid:** Avoid surrounding lava
-- **Traxxas Raceway:** Official branded track
+- **Traxxas Raceway:** One of three indoor tracks[^ref-1]
 - **Desert:** Arid environment racing
 - **3-D Ultra Thrillride:** Crossover-themed track[^ref-3]
 
@@ -109,47 +110,48 @@ Players race against three other opponents at all times during standard races.[^
 
 Neoseeker's Adam Byrant reviewed the game on November 23, 2000, awarding it a score of 78%.[^ref-2] The review acknowledged the game's nostalgic appeal, noting that "the ultimate Christmas present for any young child out there would have to be a radio controlled racecar" and praising the game for eliminating the "disappointing hourly charge-ups" of real RC cars.[^ref-2] However, Byrant identified significant issues with the audio design, stating "the biggest problem I had with this game was the sound. The music, announcer dialogue, and above all sound effects of the cars and powerups were the biggest turn-offs."[^ref-2] The review concluded that "RCR just doesn't come through in the lasting fun department, save for maybe the littler ones."[^ref-2]
 
-The Collection Chamber retrospective offered mixed assessment, noting that "3D Ultra has always valued entertainment value over depth of gameplay, and the lack of variety really shows here. Moreso than any other in the series."[^ref-6] Despite this criticism, the review acknowledged "What is there is a lot of fun. I just wish there was more of it."[^ref-6]
+Collection Chamber's retrospective covers the 1999 original (with its eight tracks), not this edition. It found that "3D Ultra has always valued entertainment value over depth of gameplay, and the lack of variety really shows here," while conceding "What is there is a lot of fun. I just wish there was more of it."[^ref-6]
 
 ### Modern Assessment
 
-Modern gaming communities have expressed nostalgia for the title, with users on GOG.com's wishlist describing the game as a cherished childhood memory.[^ref-3] One user noted "The graphics, sounds and gameplay of this amazing piece of history must not be lost to time!"[^ref-3] The game has developed a cult following among fans who grew up with it, particularly in Germany where it was distributed as "Big Fun Funk Flitzer" via the Micky Maus-Magazin CD.[^ref-3]
+Players have expressed nostalgia for the game, with users on its GOG.com Dreamlist page describing it as a cherished childhood memory.[^ref-3] One user wrote "The graphics, sounds and gameplay of this amazing piece of history must not be lost to time!"[^ref-3] Another recalled getting it on a CD from the German Micky Maus-Magazin, under the name "Big Fun Funk Flitzer"; it is not clear whether that release was this edition or the 1999 original.[^ref-3]
 
 **User Ratings:**
 - **Old-Games.ru:** 7.0/10 (user rating)[^ref-11]
 
-The game's historical significance has been reevaluated by some fans who credit it as an early innovator of car-soccer gameplay, a concept that would later achieve massive success with Rocket League.[^ref-8]
+One Steam user has described the game as "the innovator of car·soccer (like Rocket League)."[^ref-8]
 
 ## Development
 
 ### Origins
 
-3-D Ultra Radio Control Racers Deluxe: Traxxas Edition was developed as an enhanced update to the original 3-D Radio Control Racers, which had proven to be a commercial success for Sierra's casual gaming line.[^ref-3] The game was directed by Randy Thompson and designed by Richard Tunnell.[^ref-4] The development team at Dynamix, which had extensive experience with the 3-D Ultra series, sought to expand upon the original's formula with additional content and features.[^ref-4]
+3-D Ultra Radio Control Racers Deluxe: Traxxas Edition was developed as an update to the original 3-D Radio Control Racers, which Sierra's box copy called "hot-selling."[^ref-1][^ref-3] Randy Thompson, credited by LaunchBox as director of the 1999 original,[^ref-4] is credited as producer of the Deluxe edition, with game design by Richard Tunnell, Shawn Bird and Jonathan Paton.[^ref-16] The update added six new racing tracks to the eight classic ones, a custom paint area with importable car skins, and two arenas for RC Soccer and Battle Ball.[^ref-9]
 
 ### Production
 
-Development was handled by Jeff Tunnell Productions under the Dynamix banner.[^ref-9] The game was published under the Sierra Attractions label, which focused on family-friendly entertainment software.[^ref-12] The partnership with Traxxas, a prominent manufacturer of radio-controlled vehicles, lent official branding and authenticity to the racing experience.[^ref-5]
+Development was handled by Jeff Tunnell Productions under the Dynamix banner.[^ref-9] The game was published under the Sierra Attractions label, listed by the Children's Software directory as "Sierra Attractions (Vivendi)."[^ref-12] Traxxas branding features in the game's Traxxas Raceway track.[^ref-1]
 
-**Development Credits:**[^ref-1]
-- **Designer:** Richard Tunnell
-- **Designer:** Shawn Bird
-- **Designer:** Jonathan Paton
-- **Director:** Randy Thompson[^ref-4]
+**Development Credits:**[^ref-16]
+- **Executive Producer:** Susan Folden
+- **Producer:** Randy Thompson
+- **Game Design:** Richard Tunnell, Shawn Bird, Jonathan Paton
+- **Lead Programmer:** David McClurg
+- **Original Music Composition:** Christopher Stevens
 
 ### Technical Achievements
 
-The game featured pre-rendered 2D graphics with a bird's-eye view perspective, which was characteristic of the 3-D Ultra series' visual approach.[^ref-10] While the graphics were noted as having "small and pixilated cars," the visual style served the accessible, family-oriented gameplay.[^ref-2]
+The game uses 2D, top-down viewed tracks, which Neoseeker called "very well crafted"; the same review noted, however, that "the cars were incredibly small and pixilated, ruining the feel."[^ref-2]
 
 ### Technical Specifications
 
-**System Requirements:**[^ref-10]
-- **Operating System:** Windows 95, Windows 98, Windows ME, Windows NT 4.0
+**System Requirements** (as documented by PCGamingWiki for the 1999 original; the Deluxe retail listing gives Windows 95/98/ME):[^ref-10][^ref-5]
+- **Operating System:** Windows 95, Windows NT 4.0
 - **CPU:** Intel Pentium 90 MHz minimum
 - **RAM:** 32 MB
 - **Storage:** 50 MB installation
 - **Graphics:** DirectX 6.1 compatible video card
 
-**Media:**[^ref-5]
+**Media:**[^ref-5][^ref-14]
 - **Format:** CD-ROM
 - **Disc Image Size:** 472.39 MB[^ref-11]
 - **Package Weight:** 90.72 grams
@@ -157,55 +159,47 @@ The game featured pre-rendered 2D graphics with a bird's-eye view perspective, w
 
 ### Technical Issues
 
-The original release suffered from several technical problems that were addressed in Patch 1.1:[^ref-10]
-
-- Joypad compatibility issues
-- Multiplayer functionality bugs
-- Inverted colors on some systems
-
-The Collection Chamber's preservation version requires running through DOSBox 0.74 with Windows 95 emulation, noting that users need to properly shut down the emulated Windows environment before exiting DOSBox to avoid "errors, lost saves and corrupt data."[^ref-6]
+PCGamingWiki's page for the 1999 original documents a Patch 1.1 that "allows custom paint jobs to vehicles, and fixes a few bugs related to joypads and multiplayer." The same page says an inverted-colors issue is fixed by running in windowed mode (adding `-window` to the shortcut), not by the patch.[^ref-10] No source documents whether either applies to the Deluxe edition.
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Original (3-D Ultra Radio Control Racers) | September 1, 1999 | Windows | Initial release with 8 tracks[^ref-10] |
+| Original (3-D Ultra Radio Control Racers) | September 1, 1999 | Windows | Initial release with 8 tracks[^ref-9][^ref-10] |
 | Deluxe: Traxxas Edition | September 4, 2000 | Windows | Enhanced edition with 16 tracks[^ref-9] |
 | US Retail Release | November 2, 2000 | Windows | North American retail[^ref-7] |
-| Patch 1.1 | Unknown | Windows | Added custom paint jobs, fixed joypad and multiplayer bugs[^ref-10] |
 
 ### Easter Eggs and Trivia
 
-- The game was known as "Big Fun Funk Flitzer" in Germany and was distributed via a CD included with Micky Maus-Magazin.[^ref-3]
-- The back of the box featured the whimsical tagline: "Objects in mirror are closer than they appear... and they just might eat you!"[^ref-6]
-- Some fans credit the game as an early innovator of car-soccer gameplay, predating Rocket League by over 15 years.[^ref-8]
+- In Germany the RC Racers game was known as "Funk Flitzer"; one player recalls getting it as "Big Fun Funk Flitzer" on a Micky Maus-Magazin CD, though which edition is unclear.[^ref-3][^ref-8]
+- One Steam user calls it "the innovator of car·soccer (like Rocket League)"; the Deluxe edition's RC Soccer mode came nearly 15 years before Rocket League.[^ref-8]
 - The game features crossover content including a "3-D Ultra Thrillride track" referencing another title in the 3-D Ultra series.[^ref-3]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-The game was released as a budget-priced title under the Sierra Attractions banner, targeting the family entertainment market.[^ref-6] While specific sales figures are not available, the game was successful enough to warrant the Deluxe Traxxas Edition update following the original's strong performance.[^ref-3]
+The game was released under the Sierra Attractions label.[^ref-9] No sales figures are available; the only indication of the original's performance is Sierra's own box copy, which called it "hot-selling."[^ref-1]
 
 ### Collections
 
 The game appeared in compilation releases:
-- **Planes, Trains & Automobiles -- 3 Complete Games!** - A budget compilation bundle[^ref-7]
+- **Planes, Trains & Automobiles -- 3 Complete Games!** - A compilation bundle[^ref-7]
 
 ### Fan Projects
 
-The game has been preserved by retro gaming communities, with the Collection Chamber providing a configured version that runs on modern systems through DOSBox emulation.[^ref-6] Old-Games.ru hosts the original disc image and documentation for preservation purposes.[^ref-11] Community members on Steam and GOG.com have advocated for official digital re-releases, though the game's rights situation remains unclear.[^ref-8]
+Collection Chamber offers a DOSBox-configured installer for the 1999 original, not this edition.[^ref-6] Old-Games.ru hosts the original disc image and documentation for preservation purposes.[^ref-11] Community members on Steam and GOG.com have advocated for official digital re-releases, though the game's rights situation remains unclear.[^ref-8]
 
 ### Related Publications
 
-- **User Manual:** PDF format, 3.02 MB, available through Sierra Chest[^ref-9]
-- **Quick Reference Guide:** JPG format, 534.91 KB, available through Sierra Chest[^ref-9]
+- **User Manual:** PDF format, 3.02 MB, hosted by Old-Games.ru (taken from Sierra Chest)[^ref-11]
+- **Quick Reference Guide:** JPG format, 534.91 KB, hosted by Old-Games.ru (taken from Sierra Chest)[^ref-11]
 
 ### Critical Perspective
 
-3-D Ultra Radio Control Racers Deluxe: Traxxas Edition represents an interesting moment in casual gaming history, arriving at the cusp of the new millennium when budget-priced entertainment software was a significant market segment.[^ref-6] While the game received mixed reviews for its limited depth and repetitive sound design, it successfully captured the nostalgia of childhood RC car racing for a generation of young players.[^ref-2]
+Neoseeker's review faulted the game's sound and its lasting appeal, though it thought younger players might still enjoy it.[^ref-2] Players who grew up with it remember it fondly.[^ref-3]
 
-The game's legacy has been somewhat rehabilitated by modern retrospective analysis, particularly by fans who see its R/C soccer mode as a precursor to the car-soccer gameplay that would later make Rocket League a massive success.[^ref-8] This historical footnote, while perhaps overstated, demonstrates the game's creative approach to combining racing with arena-style combat modes. The 3-D Ultra series as a whole prioritized entertainment value over gameplay depth, and Radio Control Racers exemplified this philosophy—providing accessible, family-friendly fun even if experienced gamers found the experience shallow.[^ref-6]
+One Steam user sees it as a car-soccer forerunner of Rocket League.[^ref-8] Collection Chamber, reviewing the 1999 original, observed that "3D Ultra has always valued entertainment value over depth of gameplay."[^ref-6]
 
 ## Downloads
 
@@ -213,12 +207,13 @@ The game's legacy has been somewhat rehabilitated by modern retrospective analys
 - Not currently available on major digital platforms
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/3-d-ultra-radio-control-racers-dv7) - Free download (original version, compatible)
-- [Old-Games.ru](https://www.old-games.ru/game/download/12922.html) - Disc image and documentation[^ref-11]
-- [Collection Chamber](https://collectionchamber.blogspot.com/p/3d-ultra-radio-control-racers.html) - Configured preservation version[^ref-6]
+- [Old-Games.ru](https://www.old-games.ru/game/download/12922.html) - Deluxe: Traxxas Edition disc image and documentation[^ref-11]
+- [MyAbandonware](https://www.myabandonware.com/game/3-d-ultra-radio-control-racers-dv7) - The 1999 original, not this edition
+- [Collection Chamber](https://collectionchamber.blogspot.com/p/3d-ultra-radio-control-racers.html) - DOSBox installer for the 1999 original, not this edition[^ref-6]
 
 **Manuals & Extras**
-- [Sierra Chest - Manual PDF](https://sierrachest.com/index.php?a=games&id=250&title=radio-control-racers-traxxas-edition&fld=general) - User manual and quick reference[^ref-9]
+- [Old-Games.ru](https://www.old-games.ru/game/download/12922.html) - User manual (PDF) and quick reference (JPG), taken from Sierra Chest[^ref-11]
+- [Sierra Chest](https://sierrachest.com/index.php?a=games&id=250&title=radio-control-racers-traxxas-edition&fld=general) - Game entry[^ref-9]
 
 ## See Also
 
@@ -248,26 +243,28 @@ The game's legacy has been somewhat rehabilitated by modern retrospective analys
 
 [^ref-3]: [GOG.COM – 3-D Ultra Radio Control Racers Dreamlist](https://www.gog.com/dreamlist/game/3-d-ultra-radio-control-racers) – game description, German localization info, user memories, track list
 
-[^ref-4]: [LaunchBox Games Database – 3D Ultra Radio Control Racers](https://gamesdb.launchbox-app.com/games/details/114238-3d-ultra-radio-control-racers) – designer Richard Tunnell, director Randy Thompson, ESRB rating, overview description
+[^ref-4]: [LaunchBox Games Database – 3D Ultra Radio Control Racers](https://gamesdb.launchbox-app.com/games/details/114238-3d-ultra-radio-control-racers) – entry for the 1999 original; credits Randy Thompson as director of that game
 
-[^ref-5]: [Amazon.in Product Listing](https://www.amazon.in/Ultra-Radio-Control-Racers-Deluxe/dp/B00004TJCI) – release date August 9, 2000, Vivendi Universal publisher, platform compatibility
+[^ref-5]: [Amazon.in Product Listing](https://www.amazon.in/Ultra-Radio-Control-Racers-Deluxe/dp/B00004TJCI) – release date August 9, 2000, Vivendi Universal publisher, platform compatibility, package size and weight
 
-[^ref-6]: [Collection Chamber – 3D Ultra Radio Control Racers](https://collectionchamber.blogspot.com/p/3d-ultra-radio-control-racers.html) – retrospective review, technical setup, emulation requirements, box quotes
+[^ref-6]: [Collection Chamber – 3D Ultra Radio Control Racers](https://collectionchamber.blogspot.com/p/3d-ultra-radio-control-racers.html) – retrospective review and DOSBox installer for the 1999 original (eight tracks), not the Deluxe edition
 
 [^ref-7]: [GameSpy – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition](http://pc.gamespy.com/pc/3d-ultra-radio-control-racers-deluxe-traxxas-edition/) – November 2, 2000 US release, ESRB rating, features, bundle information
 
-[^ref-8]: [Steam Community Discussion](https://steamcommunity.com/app/10140/discussions/0/1489987634002186824/) – German "Funk Flitzer" name, car-soccer innovation claim, community nostalgia
+[^ref-8]: [Steam Community Discussion](https://steamcommunity.com/app/10140/discussions/0/1489987634002186824/) – one user's post: German "Funk Flitzer" name, "innovator of car·soccer (like Rocket League)"
 
-[^ref-9]: [Sierra Chest – Radio Control Racers Traxxas Edition](https://sierrachest.com/index.php?a=games&id=250&title=radio-control-racers-traxxas-edition&fld=general) – September 4, 2000 release, Jeff Tunnell Productions, detailed gameplay description, documentation
+[^ref-9]: [Sierra Chest – Radio Control Racers Traxxas Edition](https://sierrachest.com/index.php?a=games&id=250&title=radio-control-racers-traxxas-edition&fld=general) – September 4, 2000 release, Jeff Tunnell Productions, Sierra Attractions, track breakdown (8 classic + 6 new + 2 battle arenas), detailed gameplay description
 
-[^ref-10]: [PCGamingWiki – 3-D Ultra Radio Control Racers](https://www.pcgamingwiki.com/wiki/3-D_Ultra_Radio_Control_Racers) – system requirements, Patch 1.1 details, technical specifications, bugs
+[^ref-10]: [PCGamingWiki – 3-D Ultra Radio Control Racers](https://www.pcgamingwiki.com/wiki/3-D_Ultra_Radio_Control_Racers) – page for the 1999 original: system requirements, Patch 1.1, windowed-mode color fix; notes Deluxe adds tracks, customization and modes
 
 [^ref-11]: [Old-Games.ru – Game Download Page](https://www.old-games.ru/game/download/12922.html) – user rating, disc image details, documentation files
 
 [^ref-12]: [Children's Software Directory](https://childrenssoftware.com/dir/dirmenu.html) – Sierra Attractions (Vivendi) publisher listing
 
-[^ref-13]: [Sound Effects Wiki – 3D Ultra Radio Control Racers](https://soundeffects.fandom.com/wiki/3D_Ultra_Radio_Control_Racers_Deluxe:_Traxxas_Edition) – Dynamix developer, Sierra Attractions publisher, 1999/2000 dates
+[^ref-13]: [Sound Effects Wiki – 3D Ultra Radio Control Racers](https://soundeffects.fandom.com/wiki/3D_Ultra_Radio_Control_Racers_Deluxe:_Traxxas_Edition) – Dynamix developer, Sierra Attractions publisher (its "1999" release date is wrong)
 
 [^ref-14]: [Amazon.ae Product Listing](https://www.amazon.ae/Ultra-Radio-Control-Racers-Deluxe/dp/B00004TJCI) – Vivendi Universal publisher, UPC code, package specifications
 
 [^ref-15]: [Sierra Gamers – 3D Ultra Series](https://www.sierragamers.com/3d-ultra/) – 2000 release year, series chronology
+
+[^ref-16]: [MobyGames – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition credits](https://www.mobygames.com/game/192321/3-d-ultra-radio-control-racers-deluxe-traxxas-edition/credits/) – Producer Randy Thompson, game design, programming and audio credits
