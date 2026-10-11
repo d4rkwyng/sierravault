@@ -10,29 +10,29 @@ series: None
 engine: 6502 Assembly
 protagonist: The Marauder
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-11'
 description: '*Marauder* is a top-down arcade shooter developed by On-Line Systems
   and released in 1982 for the Apple II, Atari 2600, and Atari 8-bit computers. Designed...'
-tags: [1980s, none, shooter, sierra]
+tags: [1980s, shooter, sierra]
 ---
 # Marauder
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-*Marauder* is a top-down arcade shooter developed by [[On-Line Systems]] and released in 1982 for the Apple II, Atari 2600, and Atari 8-bit computers[^ref-1][^ref-2][^ref-15][^ref-16]. Designed by Eric Hammond and Rorke Weigandt, the game draws heavy inspiration from Stern's *Berzerk*, placing players in the role of an intruder who must navigate robot-infested mazes to destroy an alien power center[^ref-3][^ref-4]. The Atari 2600 version was published under license by Tigervision, making it one of several games On-Line Systems licensed to third-party publishers during the early 1980s home console boom[^ref-5][^ref-6].
+*Marauder* is a top-down arcade shooter developed by [[On-Line Systems]] and released in 1982 for the Apple II, Atari 2600, and Atari 8-bit computers[^ref-3][^ref-5][^ref-12]. Designed by Eric Hammond and Rorke Weigandt, the game draws heavy inspiration from Stern's *Berzerk*, placing players in the role of an intruder who must navigate robot-infested mazes to destroy an alien power center[^ref-3][^ref-15]. The Atari 2600 version was published under license by Tigervision, making it one of several games On-Line Systems licensed to third-party publishers during the early 1980s home console boom[^ref-5][^ref-6].
 
-The game occupies an interesting position in Sierra's early history, releasing the same year that On-Line Systems formally renamed itself to Sierra On-Line[^ref-7]. While never achieving the commercial success or critical acclaim of the company's adventure titles, *Marauder* represents Sierra's attempts to diversify into the action game market during the golden age of arcade gaming[^ref-3]. The game was widely pirated almost immediately upon release, with one copy given to a joystick manufacturer for a tradeshow being traced as an early source of unauthorized distribution[^ref-3].
+The game occupies an interesting position in Sierra's early history, releasing the same year that On-Line Systems formally renamed itself to Sierra On-Line[^ref-3][^ref-7]. While never achieving the commercial success or critical acclaim of the company's adventure titles, *Marauder* represents Sierra's attempts to diversify into the action game market during the golden age of arcade gaming[^ref-3]. The game was widely pirated almost immediately upon release, with one copy given to a joystick manufacturer for a tradeshow being traced as an early source of unauthorized distribution[^ref-3].
 
-Despite receiving mixed contemporary reviews and having modest sales, *Marauder* has gained appreciation among retro gaming enthusiasts as an underrated title in the Atari 2600 library[^ref-8]. Modern collectors value the Tigervision cartridge highly, with loose copies selling for $55-130 and boxed copies reaching $70-400 on the secondary market[^ref-9].
+Despite only modest sales, *Marauder* has gained appreciation among retro gaming enthusiasts as an underrated title in the Atari 2600 library[^ref-8]. Collectors value the Tigervision cartridge highly; as of 2019, loose copies were listed on eBay for $55-130 and boxed copies had sold for $70-400[^ref-9].
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]][^ref-1]
-> **Designer:** Eric Hammond, Rorke Weigandt[^ref-2][^ref-3]
+> **Designer:** Eric Hammond, Rorke Weigandt[^ref-3][^ref-12]
 > **Publisher:** On-Line Systems, Tigervision, SierraVision[^ref-1][^ref-5]
 > **Engine:** Custom 6502 Assembly[^ref-3]
-> **Platforms:** Apple II, Atari 2600, Atari 8-bit[^ref-1]
+> **Platforms:** Apple II, Atari 2600, Atari 8-bit[^ref-1][^ref-5][^ref-12]
 > **Release Year:** 1982
 > **Series:** None
 > **Protagonist:** The Marauder
@@ -44,26 +44,26 @@ The narrative premise of *Marauder* is straightforward science fiction action fa
 
 According to the game's manual, robots pursue the player through halls and corridors, from room to room, as their sensors detect intrusion into their territory[^ref-8]. The aliens fire from all corners as the player desperately seeks the power center while defending against the robotic onslaught[^ref-8]. The box description dramatically proclaims: "Alien robots have invaded! You must make your way to safety and recapture the cosmic treasure. Time is against you. The ultimate experience in alien invasion on Tigervision"[^ref-4][^ref-8].
 
-The Tumblr archive notes that promotional materials for *Marauder* featured sci-fi imagery including spaceships, moons, spacesuits, and rayguns—all standard iconography of the space invasion genre popular in that era[^ref-7]. Upon successfully destroying the power center, the game restarts at a higher difficulty level, reflecting the arcade design philosophy of escalating challenge rather than conclusive narrative endings[^ref-4].
+Upon successfully destroying the power center, the game starts anew on a harder difficulty level, reflecting the arcade design philosophy of escalating challenge rather than conclusive narrative endings[^ref-5][^ref-15].
 
 ## Gameplay
 
 ### Interface and Controls
 
-*Marauder* utilizes a digital joystick for single-player control, employing a top-down perspective with a fixed flip-screen visual presentation[^ref-5]. Players control a small character sprite navigating through maze-like rooms while shooting at enemy robots. The control scheme allows for eight-directional movement and firing, consistent with other *Berzerk*-style games of the era[^ref-4][^ref-9].
+*Marauder* utilizes a digital joystick for single-player control, employing a top-down perspective with a fixed flip-screen visual presentation[^ref-5]. Players control a small character sprite navigating through maze-like rooms while shooting at enemy robots. According to the manual, the Marauder can move in eight directions (up, down, left, right and diagonally) and fires a bullet in the direction he is facing[^ref-14].
 
 ### Structure and Progression
 
-The game consists of six distinct screens arranged in a 2x3 grid that players must navigate to locate and destroy the power center[^ref-8][^ref-9]. Unlike *Berzerk*, where all enemies are visible immediately upon entering a screen, *Marauder* features a more sophisticated enemy visibility system where robots only appear on screen when they enter the player's line of sight[^ref-4][^ref-11]. This was considered an advanced feature for the time[^ref-11].
+The game consists of six distinct screens arranged in a 2x3 grid that players must navigate to locate and destroy the power center[^ref-8][^ref-9]. Unlike *Berzerk*, where all enemies are visible immediately upon entering a screen, *Marauder* features a more sophisticated enemy visibility system where robots only appear on screen when they enter the player's line of sight[^ref-11][^ref-15]. This was considered an advanced feature for the time[^ref-11].
 
-The game features randomized room arrangement and starting positions, adding replay variety[^ref-9]. Progression follows an escalating difficulty pattern:
+The game features randomized room arrangement and starting positions, adding replay variety[^ref-9]. On the Atari 2600, each cleared round escalates the difficulty (these are 2600 rounds, not the two gameplay phases of the Apple II and Atari 8-bit versions):
 
-- **Phase 1:** Four robots per room at base speed[^ref-5]
-- **Phase 2:** Five robots per room[^ref-5]
-- **Phase 3:** Six robots per room[^ref-5]
-- **Phase 4:** Returns to four robots but with increased speed[^ref-5]
+- **Round 1:** Four robots per room at base speed[^ref-5]
+- **Round 2:** Five robots per room[^ref-5]
+- **Round 3:** Six robots per room[^ref-5]
+- **Round 4:** Returns to four robots but with increased speed[^ref-5]
 
-Destroyed robots remain eliminated and do not respawn within a single playthrough, allowing players to systematically clear rooms[^ref-9]. Notably, there is no "Evil Otto" equivalent—the relentless enemy that pursues players in *Berzerk*—giving players more freedom to explore at their own pace[^ref-9].
+Destroyed robots generally stay dead, allowing players to systematically clear rooms[^ref-9][^ref-11]. The power center room is the exception: per the manual, if the player leaves and returns, new robots are called in so that there are always four defending it[^ref-14]. Notably, there is no "Evil Otto" equivalent—the relentless enemy that pursues players in *Berzerk*—giving players more freedom to explore at their own pace[^ref-9].
 
 ### Puzzles and Mechanics
 
@@ -73,11 +73,11 @@ The Apple II and Atari 8-bit versions feature a two-phase gameplay structure tha
 
 ## Reception
 
-### Contemporary Reviews
+### Early Reviews
 
-Contemporary critical reception for *Marauder* was mixed. The Video Game Critic initially gave the Atari 2600 version a failing grade of **F** in 2002, describing the game as a "cakewalk"[^ref-8]. This harsh assessment was later reconsidered following reader feedback pointing out the reviewer had been overly critical[^ref-11].
+The earliest online review found by later retrospectives was negative: The Video Game Critic gave the Atari 2600 version an **F** in 2002, calling the game a "cakewalk"[^ref-8][^ref-11]. The reviewer later revised this after a reader pointed out he had been overly critical[^ref-11].
 
-The game was featured in Softline magazine during its release year, indicating it received some trade press attention despite not achieving blockbuster status[^ref-7].
+Retro365 lists the November 1982 issue of *Softline* magazine among its period sources for the game's history[^ref-3], and the @oldschoolfrp Tumblr archive reposts a 1982 *Marauder* magazine scan tagged #Softline[^ref-7].
 
 ### Modern Assessment
 
@@ -90,20 +90,19 @@ The Doctor Spuds review blog offered a more tempered assessment, rating it as "t
 **Aggregate Scores:**
 - **MobyGames Critics Score:** 57% (based on 6 ratings)[^ref-5]
 - **MobyGames Player Score:** 3.0/5.0 (based on 7 ratings)[^ref-5]
-- **Glitchwave:** 2.25/5.0[^ref-1]
+- **Glitchwave:** 2.33/5.0 (3 ratings, as of October 2026)[^ref-1]
 - **GameFAQs:** "Good" (based on 13 user ratings)[^ref-4]
 - **IGN:** Not Rated[^ref-6]
-- **My Abandonware:** 0/5[^ref-10]
 
 ## Development
 
 ### Origins
 
-*Marauder* was designed by Eric Hammond and Rorke Weigandt at On-Line Systems, with development taking place on Weigandt's Apple II computer[^ref-3]. The game was notably Hammond's first commercial release, created with only approximately one year of programming experience[^ref-3]. Hammond was self-taught, having learned both BASIC and 6502 Assembly Language independently before contributing to this project[^ref-3].
+*Marauder* was designed by Eric Hammond and Rorke Weigandt at On-Line Systems, with development taking place on Weigandt's Apple II computer[^ref-3]. Retro365 calls it Hammond and Weigandt's first game[^ref-3]; the same article notes that when Hammond wrote *One-on-One* for Electronic Arts in 1983, he had only a year of experience and two simple commercial releases behind him[^ref-3]. Hammond was self-taught, having learned both BASIC and 6502 Assembly Language independently before contributing to this project[^ref-3].
 
-The creative inspiration for *Marauder* drew directly from the most successful arcade games of the era. The development team cited *Space Invaders*, *Missile Command*, and particularly *Berzerk* as primary influences on the game's design[^ref-3][^ref-4]. This resulted in what Kotaku describes as "a Berzerk-clone with some minor alterations"[^ref-4].
+The creative inspiration for *Marauder* drew directly from the most successful arcade games of the era. Retro365 describes the original game's first part as a hybrid of *Space Invaders* and *Missile Command*, and its second part as a variation of *Berzerk*[^ref-3]. Kotaku's game summary calls *Marauder* "a Berzerk-clone with some minor alterations"[^ref-15].
 
-A 1982 NBC Magazine video filmed at Sierra On-Line offices captured footage of Eric Hammond, identified as co-author of *Marauder*, providing documentary evidence of his involvement in the project[^ref-2].
+In a Backerkit discussion of NBC Magazine footage of Sierra On-Line from autumn 1982, researcher Lance Ewing identifies Eric Hammond, "Co-author of Marauder", among those on screen[^ref-2].
 
 ### Production
 
@@ -111,14 +110,16 @@ The original Apple II version utilized most of the platform's 48KB of memory to 
 
 The Atari 2600 version presented the greatest technical challenge, as the console featured only 128 bytes of internal memory and cartridges were limited to 4KB of data[^ref-3][^ref-10]. This severe constraint necessitated removing the first phase entirely, resulting in a version that contains only the second part of the original game[^ref-3].
 
-**Development Credits:**[^ref-3][^ref-5]
-- **Designers/Programmers:** Eric Hammond, Rorke Weigandt
+**Development Credits:**[^ref-3][^ref-5][^ref-12]
+- **Apple II (MobyGames credits):** Eric Hammond (programmer), Rorke Weigandt (designer)
+- **Atari 8-bit:** port by Hammond and Weigandt
+- **Atari 2600:** Rorke Weigandt
 
 ### Technical Achievements
 
-The most notable technical innovation in *Marauder* was its line-of-sight enemy visibility system[^ref-4][^ref-11]. Rather than displaying all enemies immediately when entering a room (as in *Berzerk*), robots only appear when they fall within the player's field of view[^ref-4]. This created a more suspenseful gameplay experience and was considered technically impressive for the era[^ref-11].
+The most notable technical innovation in *Marauder* was its line-of-sight enemy visibility system[^ref-11][^ref-15]. Rather than displaying all enemies immediately when entering a room (as in *Berzerk*), robots only appear when they fall within the player's field of view[^ref-15]. This created a more suspenseful gameplay experience and was considered technically impressive for the era[^ref-11].
 
-The game also managed to implement room persistence within the constraints of the Atari 2600 hardware, allowing destroyed robots to remain eliminated rather than respawning[^ref-9]. This feature, combined with the six-room maze structure and magic armor power-up system, demonstrated efficient use of the limited 4KB cartridge space[^ref-5][^ref-8].
+The game also managed to implement room persistence within the constraints of the Atari 2600 hardware, allowing destroyed robots to remain eliminated rather than respawning, except in the power center room[^ref-9][^ref-14]. This feature, combined with the six-room maze structure and magic armor power-up system, demonstrated efficient use of the limited 4KB cartridge space[^ref-5][^ref-8].
 
 ### Technical Specifications
 
@@ -150,12 +151,12 @@ The Atari 2600 version represents the most significant content reduction in the 
 
 | Version | Date | Platform | Publisher | Notes |
 |---------|------|----------|-----------|-------|
-| 1.0 | 1981 | Apple II | On-Line Systems | Original release with two phases[^ref-1] |
-| 1.0 | 1982 | Atari 8-bit | On-Line Systems / Sierra On-Line | Rewritten, compressed to 20KB[^ref-1][^ref-3] |
+| 1.0 | 1982 | Apple II | On-Line Systems | Original release with two parts[^ref-3][^ref-12] |
 | 1.0 | 1982 | Atari 2600 | Tigervision | Single phase only, 4KB[^ref-3][^ref-6] |
-| - | Late 1982 | Atari 400/800 | SierraVision | SierraVision label release[^ref-3] |
-| - | 1988 | Commodore 64, ZX Spectrum, Amstrad CPC | Various | Later ports[^ref-5] |
-| - | 2009 | Windows | Various | Modern re-release[^ref-5] |
+| - | Late 1982 | Atari 8-bit (400/800) | SierraVision (Sierra On-Line) | Rewritten by Hammond and Weigandt, compressed to 20KB[^ref-3][^ref-12] |
+| - | Late 1982 | Apple II | SierraVision (Sierra On-Line) | Rerelease alongside the Atari 400/800 version[^ref-3] |
+
+Glitchwave lists the Apple II release as 1981[^ref-1], but Retro365 and MobyGames both give 1982[^ref-3][^ref-12]. MobyGames' later *Marauder* entries (1988, for Commodore 64, ZX Spectrum and Amstrad CPC, and 2009, for Windows) are unrelated games that share the title.
 
 ### Technical Issues
 
@@ -173,9 +174,9 @@ Several hidden mechanics and interesting facts about *Marauder* have been docume
 - **Deadly Last Shots:** Players can fire bullets and destroy the power center even after their character has died, allowing for posthumous victory[^ref-8]
 - **Robot Collision:** Walking directly through robots allows players to avoid their shots, exploiting collision detection quirks[^ref-8]
 - **Friendly Fire:** Robot shots can inadvertently destroy other robots, creating tactical opportunities[^ref-8]
-- **Musical Recycling:** The game shares its entire musical lineup with *Custer's Revenge*, another 1982 Atari 2600 title[^ref-9]
+- **Musical Recycling:** The Doctor Spuds reviewer believes, with a "correct me if I'm wrong", that the game shares its entire musical lineup with *Custer's Revenge*, another 1982 Atari 2600 title[^ref-9]
 - **Piracy Origins:** A copy given to a joystick manufacturer for a tradeshow demonstration became an early source of unauthorized distribution[^ref-3]
-- **Company Transition:** *Marauder* released the same year On-Line Systems officially became Sierra On-Line[^ref-7]
+- **Company Transition:** *Marauder* released the same year On-Line Systems officially became Sierra On-Line[^ref-3][^ref-7]
 
 The game's wrap-around box art depicts robots chasing the titular marauder through the facility[^ref-8]. Tigervision only published two other space-related Atari 2600 games: *Espial* and *Threshold*[^ref-8].
 
@@ -185,7 +186,7 @@ The game's wrap-around box art depicts robots chasing the titular marauder throu
 
 *Marauder* achieved only modest commercial success according to available records[^ref-3]. The game's commercial performance was significantly impacted by widespread piracy that began almost immediately upon release[^ref-3]. As one retrospective noted: "The shelf life of games in the early '80s was merely a few weeks, that was all it took before the copy protection was cracked and piracy took over"[^ref-3].
 
-The planned SierraVision label release for Atari computers was ultimately cancelled following the North American video game market crash of 1983[^ref-3].
+In late 1982 the Atari 400/800 version was released under Sierra's new SierraVision action label, alongside a rerelease of the Apple II version[^ref-3]. A year later, after the North American video game market crash, the SierraVision label was dropped for good[^ref-3].
 
 ### Collections
 
@@ -195,10 +196,10 @@ The planned SierraVision label release for Atari computers was ultimately cancel
 
 The Tigervision Atari 2600 cartridge has become a sought-after collectible:
 
-- **Loose Cartridges:** $55-130 on eBay[^ref-9]
-- **Boxed Copies:** $70-400 in historical sales[^ref-9]
+- **Loose Cartridges:** $55-130 on eBay (listings as of 2019)[^ref-9]
+- **Boxed Copies:** $70-400 in historical sales (as of 2019)[^ref-9]
 
-The Doctor Spuds blog notes that "Tigervision games have ludicrous prices" compared to other publishers[^ref-9].
+The Doctor Spuds blog notes that "since this is a Tigervision game the prices are going to be a bit ludicrous"[^ref-9].
 
 ### Related Publications
 
@@ -209,18 +210,14 @@ The Doctor Spuds blog notes that "Tigervision games have ludicrous prices" compa
 
 *Marauder* occupies a curious position in Sierra's history as one of their early action game experiments before the company fully committed to the adventure genre that would define their legacy. While games like *Mystery House* and *Wizard and the Princess* were establishing Sierra as adventure game pioneers, titles like *Marauder* represented attempts to capture the arcade action market that dominated early 1980s gaming[^ref-3].
 
-The game's reception arc—from initial critical dismissal to modern reappraisal—reflects broader trends in retro gaming evaluation. Early reviews focused on the game's derivative nature as a *Berzerk* clone, while later assessments have recognized its technical innovations and solid gameplay within the severe constraints of Atari 2600 hardware[^ref-8][^ref-11]. MobyGames ranks *Marauder* at #144 among Atari 2600 titles and #22,481 overall in their database[^ref-5].
+The game's reception arc—from initial critical dismissal to modern reappraisal—reflects broader trends in retro gaming evaluation. Early reviews focused on the game's derivative nature as a *Berzerk* clone, while later assessments have recognized its technical innovations and solid gameplay within the severe constraints of Atari 2600 hardware[^ref-8][^ref-11]. As of October 2026, MobyGames ranks the Atari 2600 *Marauder* #143 among Atari 2600 titles and #23,769 of about 29,200 overall[^ref-5].
 
-The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful context for understanding *Marauder*'s place in the maze shooter genre[^ref-9]. While not revolutionary, the game's line-of-sight mechanics and room persistence represented meaningful iterations on established formulas[^ref-4][^ref-11].
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful context for understanding *Marauder*'s place in the maze shooter genre[^ref-9]. While not revolutionary, the game's line-of-sight mechanics and room persistence represented meaningful iterations on established formulas[^ref-11][^ref-15].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not available digitally; original Tigervision cartridges sell for $55-400 on collector's market[^ref-9]
+- Not available digitally; original Tigervision cartridges sold for $55-400 on the collector's market as of 2019[^ref-9]
 
 **Download / Preservation**
 - [My Abandonware](https://www.myabandonware.com/game/marauder-h9y) – ROM download[^ref-10]
@@ -256,16 +253,15 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 [^ref-1]: [Glitchwave – Marauder](https://glitchwave.com/game/marauder.f2/) – release dates, platforms, publishers, ratings
 [^ref-2]: [Backerkit – Legends of Adventure Discussion](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/discussions/23337/comments/105800) – Eric Hammond credited as co-author
 [^ref-3]: [Retro365 – Bits from My Personal Collection: Marauder](https://retro365.blog/2022/07/10/bits-from-my-personal-collection-marauder-the-ultimate-experience-in-alien-invasion/) – development history, technical specs, piracy context
-[^ref-4]: [GameFAQs – Marauder](https://gamefaqs.gamespot.com/atari2600/563248-marauder) – game description, user ratings, Berzerk comparison
+[^ref-4]: [GameFAQs – Marauder](https://gamefaqs.gamespot.com/atari2600/563248-marauder) – box description, user ratings
 [^ref-5]: [MobyGames – Marauder](https://www.mobygames.com/game/29171/marauder/) – credits, technical specs, ratings, related versions
 [^ref-6]: [IGN – Marauder](https://www.ign.com/games/marauder-2600) – release date, single phase notation, publisher info
-[^ref-7]: [Tumblr – @oldschoolfrp](https://www.tumblr.com/oldschoolfrp/793702054461882368/1982-later-that-same-year-on-line-systems-was) – company renaming context, Softline feature
+[^ref-7]: [Tumblr – @oldschoolfrp](https://www.tumblr.com/oldschoolfrp/793702054461882368/1982-later-that-same-year-on-line-systems-was) – company renaming context, #Softline-tagged magazine scan
+[^ref-8]: [Orphaned Computers – Marauder Review](https://orphanedgames.com/articles/Marauder_Review/Marauder_Review%20(Atari%202600).html) – detailed gameplay analysis and collector information
 [^ref-9]: [Doctor Spuds Reviews Things – Marauder Review](https://doctorspudsreviewsthings.wordpress.com/2019/05/20/marauder-tigervision-atari-2600-game-review/) – gameplay mechanics, pricing, collector value, comparisons
 [^ref-10]: [My Abandonware – Marauder](https://www.myabandonware.com/game/marauder-h9y) – regional versions, file size, basic metadata
 [^ref-11]: [The Video Game Critic – Atari 2600 Reviews (M)](https://videogamecritic.com/2600mm.htm) – revised review, C+ grade, line-of-sight praise
+[^ref-12]: [MobyGames – Marauder (Apple II, Atari 8-bit)](https://www.mobygames.com/game/41173/marauder/) – 1982 Apple II and Atari 8-bit releases; programmer Eric Hammond, designer Rorke Weigandt
 [^ref-13]: [RetroGames.cz – Marauder](https://www.retrogames.cz/play_1388-Atari2600.php) – file sizes, emulator access, MobyGames description
-[^ref-14]: [Atari Compendium – Marauder Manual](https://www.ataricompendium.com/archives/manuals/vcs/marauder.pdf) – original documentation archive
-[^ref-15]: [Games Database – Marauder Atari 2600](https://www.gamesdatabase.org/game/atari-2600/marauder) – Atari game database entry and technical specifications
-[^ref-8]: [Orphaned Computers – Marauder Review](https://orphanedgames.com/articles/Marauder_Review/Marauder_Review%20(Atari%202600).html) – detailed gameplay analysis and collector information
-
-[^ref-16]: [IGDB – Marauder](https://www.igdb.com/search?q=Marauder) — Game database cross-reference
+[^ref-14]: [Atari Compendium – Marauder Manual](https://www.ataricompendium.com/archives/manuals/vcs/marauder.pdf) – original manual: eight-direction movement, power center respawns, scoring
+[^ref-15]: [Kotaku – Marauder](https://kotaku.com/games/marauder) – IGDB-sourced summary: Berzerk comparison, line of sight, harder restart
