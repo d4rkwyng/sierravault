@@ -2,92 +2,92 @@
 title: Pest Patrol
 release_year: 1982
 developer: On-Line Systems
-designer: []
+designer: [Mark Allen]
 publisher: Sierra On-Line
 genre: Shooter
 platforms: [Apple II]
 series: Standalone
 engine: Apple II Assembly
-protagonist: Exterminator
+protagonist: None (player controls a can of insecticide)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: Pest Patrol is a fixed shooter arcade game published by Sierra On-Line
-  in 1982 for the Apple II computer. The game follows the Space Invaders formula,...
+last_updated: '2026-10-11'
+description: Pest Patrol is a fixed shooter written by Mark Allen and published by
+  Sierra On-Line under its SierraVision label in 1982 for the Apple II.
 tags: [1980s, shooter, sierra, standalone]
 ---
 # Pest Patrol
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-Pest Patrol is a fixed shooter arcade game published by Sierra On-Line in 1982 for the Apple II computer.[^ref-1][^ref-2] The game follows the Space Invaders formula, challenging players to defend against waves of insect invaders across 39 increasingly difficult levels.[^ref-3] The title was released under the SierraVision label, which Sierra used for some of its arcade-style releases during this period.[^ref-8]
+Pest Patrol is a fixed shooter arcade game published by Sierra On-Line in 1982 for the Apple II computer.[^ref-1][^ref-2] It was written in machine language by Mark Allen, the author of *Sabotage*.[^ref-21][^ref-24][^ref-25] The game follows the Space Invaders formula: the player's spray can moves along the bottom of the screen and fires at swarming insects above.[^ref-3][^ref-21] Owen Linzmayer's 1983 review counted "a staggering total of 40 different waves of insects", and Retro365 also gives forty levels. MobyGames lists 39.[^ref-3][^ref-21][^ref-22] It was one of the first titles released under Sierra's SierraVision label.[^ref-22][^ref-23]
 
-The game features a variety of animated insect enemies including armored snails, butterfly fighters, and other creatures that "bite, bounce and bomb their way" toward the player.[^ref-4] Pest Patrol showcased Sierra's Hi-Res graphics capabilities for the Apple II platform and required 48K of memory.[^ref-4][^ref-9] Due to the game's copy protection scheme, Pest Patrol only runs on the original Apple II and Apple II+ hardware, and is incompatible with later models in the Apple II line.[^ref-9]
+The original packaging and advertising promised "armored snails, butterfly fighters and a swarm of other insectivorous irritation", all in Sierra's Hi-Res graphics.[^ref-23][^ref-24] The game required a 48K Apple II with DOS 3.3.[^ref-9][^ref-23][^ref-24] Due to the game's copy protection scheme, Pest Patrol only runs on the original Apple II and Apple II+ hardware, and is incompatible with later models in the Apple II line.[^ref-9]
 
-The game represents Sierra's participation in the Space Invaders-inspired fixed shooter genre that dominated early 1980s home computer gaming, released during a period when the company was producing arcade-style action games alongside their growing adventure game catalog.[^ref-16][^ref-17][^ref-18]
+Pest Patrol was released in late 1982, when arcade conversions and clones were flooding store shelves. Sierra was then trying to compete in the action-game market alongside its adventure catalog.[^ref-22] It sold "only in very limited numbers" and became one of Sierra's more obscure releases.[^ref-22]
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]][^ref-1]
-> **Designer:** On-Line Systems internal team (no individual designer credit on retail packaging)[^ref-1][^ref-4]
+> **Designer:** Mark Allen[^ref-3][^ref-21][^ref-22]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** Machine Language/Apple II Assembly
-> **Platforms:** Apple II, Apple II+[^ref-1][^ref-4]
-> **Release Year:** 1982[^ref-1]
+> **Engine:** Machine Language/Apple II Assembly[^ref-21]
+> **Platforms:** Apple II (48K Apple II or II+ only)[^ref-9][^ref-23]
+> **Release Year:** 1982[^ref-1][^ref-23]
 > **Series:** Standalone
-> **Protagonist:** N/A (player controls defense turret)
+> **Protagonist:** None (player controls a can of insecticide)[^ref-21]
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-Pest Patrol presents a simple but compelling arcade premise. Players must defend against an endless insect invasion, with wave after wave of bug attackers descending toward the player's position.[^ref-4] The game's original packaging described the experience: "PEST PATROL offers a never-ending challenge from so many different insects that you better not blink while you play... it could be fatal!!!"[^ref-4]
+Pest Patrol has a simple arcade premise. As Retro365 puts it, "The battlefield is your backyard, and your only weapon against enemies is a can of pesticide".[^ref-22] Linzmayer's review framed it as a summer bug invasion, in which the public-spirited citizen must "arm himself with a can of insecticide and join the ranks of the Pest Patrol."[^ref-21] The box text read: "PEST PATROL offers a never-ending challenge from so many different insects that you better not blink while you play... it could be fatal!!!" It went on: "They bite, bounce and bomb their way towards you in wave after wave of insect invasion."[^ref-23][^ref-24]
 
-The insect theme provided a distinctive twist on the alien invasion formula popularized by Space Invaders. Rather than defending Earth from extraterrestrial attackers, players battled a creepy-crawly menace that added a slightly humorous edge to the arcade action.
+The insect theme was a twist on the Space Invaders formula. Retro365 notes that Allen once again "reimagined the formula with his own inventive twist".[^ref-22]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Pest Patrol uses the classic fixed shooter control scheme where players move horizontally across the bottom of the screen while firing upward at descending enemies.[^ref-3] The game supported joystick and keyboard input on the Apple II platform.[^ref-1] The controls were responsive and simple, following the established conventions of the shooter genre.
+Pest Patrol uses the classic fixed shooter control scheme: the player's can is restricted to horizontal movement at the bottom of the screen and fires upward at the insects.[^ref-3][^ref-21] Before play, the player chooses between keyboard, joystick, paddles or Atari joystick, and sets the speed to fast or slow.[^ref-21] Linzmayer did not recommend the keyboard, because "it is very difficult to come to a precise halt" and the keys cannot be redefined.[^ref-21] The can has an endless supply of insecticide and can fire rapid bursts. Continuous shooting drastically cuts its firepower, which recovers after a short pause.[^ref-21]
 
-The Hi-Res graphics mode provided colorful representations of the various insect enemies, making each wave visually distinct from the previous one. The Apple II's limited color palette was used effectively to distinguish between different enemy types.
+Linzmayer singled out "the excellent use of the hi-res graphics": "The squirming bugs are animated with detailed movements that give them a realistic, life-like appearance."[^ref-21]
 
 ### Structure and Progression
 
-The game features an impressive 39 levels of play, with each level presenting a unique attack pattern from the insect enemies.[^ref-3] This level count exceeded many contemporary shooters, providing significant content for dedicated players.
+Sources disagree slightly on the level count. Linzmayer's review and Retro365 give 40 waves, MobyGames gives 39, and the packaging asked "Can you survive 29 levels".[^ref-3][^ref-21][^ref-22][^ref-23] A practice option lets players practise any of the first 29 levels, and the remaining levels can only be reached in a normal game.[^ref-3][^ref-22]
 
 **Level Structure:**
-- 39 total levels with unique attack patterns[^ref-3]
-- Practice mode covering levels 1-29[^ref-3]
-- Levels 30-39 accessible only through regular gameplay[^ref-3]
+- 40 attack waves per the 1983 review and Retro365 (MobyGames counts 39)[^ref-3][^ref-21][^ref-22]
+- Practice mode covering levels 1-29, selectable with the plus key[^ref-3][^ref-22]
+- The final levels are reachable only through regular play[^ref-3][^ref-22]
 
-The practice mode was an unusual feature for early shooters, allowing players to train on any of the first 29 levels.[^ref-3] This accessibility feature let newcomers learn specific attack patterns without having to replay earlier levels repeatedly. However, the final 10 levels could only be accessed through regular gameplay, providing incentive for players to master the game rather than relying solely on practice mode.
+A practice game gives the player 77 cans but cannot progress past level 29. A normal game starts with four cans, and an extra can is awarded every 1,500 points.[^ref-21] Linzmayer noted that the practice mode at the slow setting suits less skilled players, while reaching "the attack waves that lay beyond level 30" is a real challenge.[^ref-21]
 
 ### Attack Patterns and Enemy Behavior
 
-Each of the 39 levels featured a different arrangement and behavior pattern for the insect enemies.[^ref-3] The variety in attack patterns meant that players couldn't simply rely on memorized strategies—each new level required adaptation to new enemy configurations.
+The insects follow "elaborate flight paths which are the same from game to game", so their entry points and the best way to dispose of them can be memorised.[^ref-21] Each wave cleared advances the player to the next level, and levels are distinguished by changes in the bugs' behaviour. In Linzmayer's words: "Most of the 40 levels of play are significantly different from one another, but some do repeat, although they are spaced so far apart that the game isn't repetitious."[^ref-21]
 
-The insects approached using different movement patterns: some descended directly, others swept across the screen, and some combined multiple movement types to create complex attack waves. As levels progressed, the patterns became increasingly challenging, requiring faster reflexes and better positioning from players.
+The bugs drop four types of bomb:[^ref-21]
+- **Simple bombs:** thrown straight at the player and explode on impact with the ground
+- **Homing bombs:** move diagonally, following the player's can
+- **Time bombs:** fall like simple bombs, then sit at the bottom of the screen for a few seconds before exploding harmlessly
+- **Homing time bombs:** combine both behaviours
+
+Touching anything except a snail kills the player instantly and sends them back to the start of the previous level.[^ref-21]
 
 ### Enemy Types
 
-The game features a variety of insect enemies rendered in Hi-Res graphics:[^ref-4]
-
-- **Armored Snails:** Slower-moving but more durable enemies
-- **Butterfly Fighters:** Quick, erratic movement patterns
-- **Various other bugs:** The game promised such a variety of "insectivorous irritation" that players shouldn't blink while playing
-
-Each enemy type presented different challenges. Some were faster, some required multiple hits, and some had unpredictable movement patterns that made them difficult to target.
+The packaging advertised "armored snails, butterfly fighters and a swarm of other insectivorous irritation".[^ref-23][^ref-24] The 1983 review lists the creatures as "seemingly harmless bugs such as butterflies and snails" plus "worms, spiders, fleas, and beetles", some creepy enough to "elicit cries of 'ick!' from the younger gamesters."[^ref-21]
 
 ### Scoring System
 
-Like other arcade games of the era, Pest Patrol featured a scoring system that rewarded successful elimination of insects. Players competed for high scores, providing replay value as they attempted to improve their performance on each level. The scoring added competitive elements for players sharing the same Apple II.
+Points are scored for destroying insects, and every 1,500 points awards an extra can (life).[^ref-21]
 
 ## Reception
 
 ### Contemporary Reviews
 
-No contemporary reviews have been preserved in accessible archives, reflecting the limited gaming press coverage of early 1980s Apple II software.
+Owen Linzmayer reviewed Pest Patrol in *Creative Computing Video & Arcade Games* (Vol. 1, No. 2, Fall 1983, p. 93).[^ref-21] He said its 40 waves made it "unique in a crowd of games with similar themes" and praised its hi-res animation. He closed: "I continue to enjoy this game because it has something that many other programs need desperately: variety."[^ref-21]
 
 ### Modern Assessment
 
@@ -95,64 +95,61 @@ No contemporary reviews have been preserved in accessible archives, reflecting t
 - **MyAbandonware:** No user ratings yet[^ref-1]
 - **MobyGames:** 5.0/5 (1 rating, 0 reviews)[^ref-3]
 
-The limited modern ratings reflect Pest Patrol's status as an obscure title from Sierra's early catalog. Most players and historians focus on Sierra's adventure games, leaving their arcade titles less studied and appreciated.
+Retro365's 2025 retrospective credits Allen with "crisp control with interesting enemy design and tight animation", saying the game "felt fast and reactive" on the Apple II.[^ref-22] It also argues that the Space Invaders concept "had largely exhausted itself", that the game "struggled to stand out", and that it "became one of Sierra's more obscure releases, a clever, well-made game that never had a chance to find its place in the market."[^ref-22]
 
-Pest Patrol has been preserved through multiple abandonware archives and Apple II disk image collections, including the woz-a-day project which captures flux-level disk images for accurate preservation.[^ref-1][^ref-5][^ref-9][^ref-10] The game represents Sierra's contributions to the early 1980s fixed shooter genre before the company pivoted primarily to adventure games. It is included in the 4cade Apple II game launcher, a modern preservation project that catalogs and provides access to classic Apple II software.[^ref-12]
+Pest Patrol has been preserved through several abandonware archives and Apple II disk image collections. These include the woz-a-day project, which captures flux-level disk images.[^ref-1][^ref-5][^ref-9][^ref-10] The game is also included in the 4cade Apple II game launcher.[^ref-12]
 
-Modern players interested in retro gaming and Sierra history can experience Pest Patrol through emulation, though the game's copy protection means authentic hardware experience requires original Apple II or Apple II+ systems.
+Modern players can experience Pest Patrol through emulation. Because of the copy protection, the original disk needs an Apple II or Apple II+.[^ref-9]
 
 ## Development
 
 ### Origins
 
-Pest Patrol was developed during Sierra On-Line's early arcade phase, when the company was producing multiple action games for the Apple II market alongside their growing adventure game catalog.[^ref-1] The year 1982 was particularly significant for Sierra—the company had just renamed from On-Line Systems to Sierra On-Line and relocated to Oakhurst, California, taking the "Sierra" name from the nearby Sierra Nevada mountain range.[^ref-11]
+Mark Allen met Richard Gleaves at UC San Diego, where the two developed the 6502 Pascal interpreter that became the basis of Apple Pascal.[^ref-22][^ref-25] Allen's first game, *Stellar Invaders*, was published by Apple in 1980. His second, *Sabotage*, was published by On-Line Systems in 1981.[^ref-22][^ref-26] Pest Patrol was his third and final game. After it, he stepped away from game development.[^ref-22]
 
-This period represented a transition for the company. While Ken and Roberta Williams had achieved success with their adventure games like Mystery House (1980) and Wizard and the Princess (1980), they recognized the commercial potential of arcade-style games on home computers. Pest Patrol was part of this diversification strategy.
+In 1982 On-Line Systems was renamed Sierra On-Line and moved to Oakhurst, California. The "Sierra" name came from the nearby Sierra Nevada mountain range.[^ref-27] Retro365 links the rebrand to venture investment and to the move "to the foothills of the Sierra Nevada Mountains".[^ref-22]
+
+The Williamses' first game, Mystery House (1980), was a breakthrough hit. By 1982 Sierra was organising a growing portfolio of adventure and action games into dedicated sub-brands.[^ref-22][^ref-27] Ken Williams saw the action label as a way to compete with publishers such as Atari and Activision and to win shelf space in mainstream retail.[^ref-22]
 
 ### 1982 Sierra Catalog
 
-The game was released in the same period as other Sierra arcade titles, demonstrating the company's prolific output during this era:[^ref-6][^ref-11]
+The game was released in the same period as other Sierra arcade titles:[^ref-11][^ref-30][^ref-31]
 
 **1982 Sierra Arcade/Action Releases:**
-- Cannonball Blitz
-- Crossfire (originally 1981)
-- Creepy Corridors
-- Dragon's Keep
-- Frogger (licensed from Sega/Konami)
-- Lunar Leeper
-- Marauder
-- Mouskattack
-- Pest Patrol
-- Threshold (originally 1981)
+- Cannonball Blitz[^ref-11]
+- Creepy Corridors (VIC-20)[^ref-31]
+- Crossfire[^ref-11]
+- Frogger (an "official" version of the arcade game)[^ref-11]
+- Jawbreaker[^ref-11]
+- Lunar Leeper[^ref-30]
+- Marauder[^ref-11]
+- Pest Patrol[^ref-23]
+- Threshold[^ref-11]
 
-Sierra's 1982 catalog also included more ambitious projects like Time Zone (a massive 12-disk adventure) and Ultima II (published for Richard Garriott's Origin Systems), demonstrating the company's range during this formative period.[^ref-11]
+Sierra's 1982 releases also included larger projects such as Time Zone and Ultima II.[^ref-11] Time Zone shipped on six double-sided floppy disks.[^ref-28] A Sierra product catalog of the period lists the Apple version of Pest Patrol at $29.95, the same price given in the 1982 advertisement.[^ref-24][^ref-29]
 
 ### SierraVision Label
 
-Pest Patrol was published under the SierraVision label,[^ref-8] which Sierra used for some of their arcade-style releases. This branding helped distinguish action games from the company's adventure titles and established expectations for the type of gameplay customers could expect.
-
-### Technical Achievements
-
-Pest Patrol's central engineering accomplishments are unusual for an early-1980s budget fixed shooter on an 8-bit platform[^ref-3][^ref-4][^ref-9]. The game shipped **39 distinct levels with unique enemy attack patterns** — a level count exceeding most contemporary Apple II shooters, which typically capped out at 10–15 wave variations[^ref-3]. Sierra layered a **two-tier accessibility design** on top of the action engine: a 29-level "Practice Mode" allowed players to drill specific levels without replaying the full ladder, while the final 10 levels (30–39) remained gated behind regular-mode play, balancing accessibility against mastery-incentive design — a feature pattern uncommon in fixed shooters of the era[^ref-3]. The whole product was implemented in **pure 6502 machine language with Apple II Hi-Res graphics**, the highest-performance combination available on the platform, enabling smooth multi-sprite animation across multiple distinct enemy classes (armored snails, butterfly fighters, and additional insectivorous variants) within the Apple II's 48 KB RAM constraint[^ref-4][^ref-9][^ref-19]. The shipping copy protection was disk-based and aggressive enough that the title became a documented compatibility test case in modern Apple II preservation tooling: it refuses to run on Apple IIe / IIc / IIgs hardware, which has made it a flagship subject for the **woz-a-day flux-level preservation project** and the **4cade Apple II launcher** preservation collection[^ref-9][^ref-12][^ref-20].
+Pest Patrol was published under the SierraVision label.[^ref-22][^ref-23] Sierra created SierraVision for its arcade-style and cartridge-based games, alongside SierraVenture for adventures. To launch the label, it replaced its Zip-lock bag packaging with "sturdier, full-color boxes designed to stand out on store shelves."[^ref-22] The label launched with titles including Frogger, Crossfire, Cannonball Blitz, Jawbreaker and Threshold, and Pest Patrol was among its first releases.[^ref-22] After the 1983–84 market crash, SierraVision "quietly disappeared".[^ref-22]
 
 ### Technical Implementation
 
-The game was programmed in machine language for maximum performance on the Apple II's limited hardware. Hi-Res graphics mode provided the visual fidelity needed to render the various insect enemies clearly, while the machine language programming ensured the smooth, responsive gameplay essential for arcade-style action.
+Pest Patrol was written in machine language by Mark Allen and uses the Apple II's Hi-Res graphics mode.[^ref-19][^ref-21][^ref-24] It requires a 48K Apple II or II+ with DOS 3.3.[^ref-9][^ref-23] Linzmayer highlighted the 40 attack waves and the detailed hi-res insect animation as its standout features.[^ref-21]
 
 ### Copy Protection
 
-Pest Patrol's copy protection scheme created compatibility issues that affected the game's long-term accessibility.[^ref-9] The protection mechanism was designed to prevent piracy, a significant concern for software publishers in the early 1980s. However, this protection also meant that the game would not run on later Apple II models (IIe, IIc, IIgs), limiting its audience over time.
+According to the woz-a-day archive, "Due to compatibility issues caused by the copy protection, it will not run on any later models" than the 48K Apple II or II+.[^ref-9]
 
-Modern preservation efforts have documented these compatibility limitations, and cracked versions that bypass the copy protection are available through abandonware archives for play on emulators and later Apple II hardware.
+Cracked copies that bypass the protection circulate in Apple II disk archives. Examples are the Internet Archive's "[cr] Nibbler" image and Asimov's "Mr. Krack Man crack" image.[^ref-10][^ref-16]
 
 ### Technical Specifications
 
-**Apple II Version:**[^ref-1][^ref-4][^ref-9][^ref-10]
+**Apple II Version:**[^ref-1][^ref-9][^ref-10][^ref-23]
 
 | Specification | Detail |
 |---------------|--------|
 | Memory Required | 48K |
-| Graphics Mode | Hi-Res |
+| Graphics Mode | Hi-Res[^ref-24] |
 | Media Format | 5.25" Floppy Disk (DOS 3.3) |
 | Compatible Systems | Apple II, Apple II+ only |
 | Disk Size | 140 KB physical, 49 KB used[^ref-10] |
@@ -162,58 +159,54 @@ Modern preservation efforts have documented these compatibility limitations, and
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1982 | Apple II | Initial release[^ref-1] |
+| 1.0 | Autumn 1982 | Apple II | Initial release under the SierraVision label[^ref-1][^ref-22] |
 
 ## Legacy
 
 ### Sierra's Arcade Era
 
-Pest Patrol exemplifies Sierra On-Line's strategy in the early 1980s of producing arcade-style action games for the Apple II market.[^ref-6][^ref-13][^ref-14] While the company would later become synonymous with adventure games through the King's Quest series (beginning in 1984), these early shooters helped establish Sierra as a leading publisher of home computer entertainment.[^ref-6]
-
-The arcade games provided steady revenue that supported the development of more ambitious adventure projects. They also established Sierra's presence in retail channels and built brand recognition among Apple II owners who might later purchase adventure titles.
+Pest Patrol is part of Sierra On-Line's early-1980s attempt to win the action-game market under the SierraVision label.[^ref-22] The 1983–84 crash left companies like Sierra "holding expensive, unsellable stock". Ken Williams reportedly vowed never to make another console game, and Sierra went on to concentrate on adventure games such as King's Quest.[^ref-22][^ref-27]
 
 ### Historical Significance
 
-Pest Patrol represents a snapshot of the early 1980s home computer gaming market, when fixed shooters inspired by Space Invaders dominated the landscape. The game's 39 levels and practice mode showed ambition beyond simple arcade ports, demonstrating that home computer games could offer more content than their coin-operated inspirations.
+Pest Patrol was Mark Allen's last game. His earlier *Sabotage* became an Apple II classic that spawned many clones.[^ref-22][^ref-25][^ref-26] In 1983 Linzmayer saw Pest Patrol's 40 waves and variety as what set it apart from similar shoot-'em-ups.[^ref-21] Retro365 argues that by late 1982 the home computer market was beginning to demand deeper games, and that Pest Patrol's simplicity "highlighted the changing expectations of players and the inherent limits of the SierraVision experiment".[^ref-22]
 
-The game also illustrates the challenges of software preservation. Copy protection schemes that seemed reasonable in 1982 have created compatibility issues that limit the game's accessibility today. Modern preservation projects have worked to document and overcome these limitations.
+The game also shows the challenges of software preservation: its copy protection stops it running on later Apple II models.[^ref-9]
 
 ### Preservation Status
 
-The game is now documented in multiple preservation databases and gaming archives:[^ref-15]
+The game is documented in game databases and preservation archives:[^ref-3][^ref-23]
 
 - **woz-a-day project:** Flux-level disk image preservation[^ref-9]
 - **Internet Archive:** Multiple disk image formats available[^ref-10]
 - **4cade Apple II Launcher:** Included in curated preservation collection[^ref-12]
 - **Virtual Apple:** Browser-playable version available[^ref-5]
 
-These preservation efforts ensure that Pest Patrol remains accessible for historical research and retro gaming enthusiasts, even as original Apple II hardware becomes increasingly rare.
-
 ### Trivia and Notable Details
 
-- Pest Patrol was part of Sierra's 1982 game catalog alongside titles like Cannonball Blitz, Creepy Corridors, and Dragon's Keep[^ref-6][^ref-11]
-- The game featured 39 unique levels, more than many contemporary shooters[^ref-3]
-- Sierra's Hi-Res graphics were marketed as a key selling feature[^ref-4]
-- The practice mode was an unusual accessibility feature for early shooters[^ref-3]
+- Pest Patrol was part of Sierra's 1982 lineup alongside titles like Cannonball Blitz, Crossfire, Frogger and Threshold[^ref-11]
+- The 1983 review counted 40 attack waves, MobyGames lists 39, and the box asked "Can you survive 29 levels"[^ref-3][^ref-21][^ref-23]
+- The 1982 advertisement promoted "the quick and beautiful HI-RES graphics that you have come to expect from Sierra On-Line"[^ref-24]
+- The advertisement billed it "By Mark Allen, author of SABOTAGE" at $29.95[^ref-24]
 - Modern Apple II preservation projects have documented that Pest Patrol includes an "infinite lives" cheat mode category[^ref-12]
-- The game was published under the SierraVision label on the original packaging[^ref-8]
-- The copy protection scheme prevents play on Apple IIe/IIc/IIgs systems[^ref-9]
+- The game was published under the SierraVision label[^ref-22][^ref-23]
+- The copy protection prevents play on later Apple II models[^ref-9]
 
 ### Related Sierra Arcade Titles
 
 Sierra produced numerous action games for the Apple II during the early 1980s. Players interested in Pest Patrol might also explore:
 
-- **Crossfire** (1981) - Another fixed shooter with innovative mechanics
-- **Threshold** (1981) - Space-themed shooter
-- **Frogger** (1982) - Sierra's official license of the Konami/Sega arcade hit
-- **Lunar Leeper** (1982) - Action game with distinctive gameplay
-- **Cannonball Blitz** (1982) - Innovative action title
+- **Sabotage** (1981): Mark Allen's earlier fixed shooter[^ref-26]
+- **Crossfire**: critters attack "from four directions on a grid laid out like city blocks"[^ref-11]
+- **Threshold**: arcade game by Schwader & Williams[^ref-11]
+- **Frogger** (1982): Sierra's "official" version of the arcade game[^ref-11]
+- **Lunar Leeper** (1982): horizontally scrolling shooter by Chuck Bueche, also a SierraVision title[^ref-30]
+- **Cannonball Blitz** (1982): a "Donkey Kong" clone by Lubeck[^ref-11]
 
 ## Purchase
 
 **Purchase / Digital Stores**
 - Not currently available on GOG, Steam, or other modern storefronts
-- Original retail copies may be found through online auction sites[^ref-8]
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
@@ -254,21 +247,23 @@ Sierra produced numerous action games for the Apple II during the early 1980s. P
 
 [^ref-1]: [MyAbandonware - Pest Patrol](https://www.myabandonware.com/game/pest-patrol-7nt) - release year 1982, publisher Sierra On-Line, Apple II platform, download size
 [^ref-2]: [ROMs Games - Pest Patrol](https://www.romsgames.net/apple-ii-rom-pest-patrol-1982sierracr/) - Apple II ROM availability, 1982 release confirmation
-[^ref-3]: [MobyGames - Pest Patrol](https://www.mobygames.com/game/29238/pest-patrol/) - Space Invaders-type gameplay, 39 levels, practice mode details
-[^ref-4]: [Apple2Online - Pest Patrol](https://apple2online.com/web_documents/pest_patrol.pdf) – Original packaging description including insect enemies, Hi-Res graphics, 48K memory requirement
+[^ref-3]: [MobyGames - Pest Patrol](https://www.mobygames.com/game/29238/pest-patrol/) - Space Invaders-type gameplay, 39 levels, practice mode for first 29 levels, credit to Mark Allen
 [^ref-5]: [Virtual Apple - Pest Patrol](http://www.virtualapple.org/pestpatroldisk.html) - online playable version, disk image preservation
-[^ref-6]: [Sierra Gamers - Game List](https://www.sierragamers.com/sierra-games/) - 1982 Sierra catalog context, contemporary releases
 [^ref-7]: [Internet Archive - Apple II Games](https://archive.org/details/apple-ii-games-woz) - preservation, Apple II software collection
-[^ref-8]: eBay - Pest Patrol SierraVision Listing *(no archived copy found)* - SierraVision label packaging confirmation
 [^ref-9]: [Internet Archive - Pest Patrol (woz-a-day)](https://archive.org/details/wozaday_Pest_Patrol) - WOZ format disk image, 48K requirement, copy protection compatibility limitations
 [^ref-10]: [Internet Archive - Pest Patrol DOS 3.3](https://archive.org/details/a2_Pest_Patrol_1982_Sierra_cr_Nibbler) - DOS 3.3 disk image, 140 KB disk size, 49 KB used space
-[^ref-11]: [Apple II History - 1982](https://www.apple2history.org/appendix/aha/aha82/) - 1982 Sierra catalog context, Cannonball Blitz, Frogger, Crossfire
+[^ref-11]: [Apple II History - 1982](https://www.apple2history.org/appendix/aha/aha82/) - 1982 Sierra releases: Cannonball Blitz, Frogger, Crossfire, Threshold, Marauder, Jawbreaker, Time Zone, Ultima II
 [^ref-12]: [4cade Apple II Launcher - GAMES.CONF](https://github.com/a2-4am/4cade/blob/main/res/GAMES.CONF) - preservation metadata, 1982 confirmation, infinite lives cheat category
-[^ref-13]: Macintosh Garden - Sierra Games *(no archived copy found)* - Sierra On-Line software catalog and publishing history
-[^ref-14]: [Giant Bomb - Sierra On-Line](https://www.giantbomb.com/sierra-entertainment/3010-104/) - Company history and early arcade game catalog
-[^ref-15]: [UVList - Pest Patrol](https://www.uvlist.net/game-121890-Pest+Patrol) - Universal Videogame List database entry
-[^ref-16]: [Asimov - Pest Patrol disk image](https://www.apple.asimov.net/images/games/action/) — Asimov FTP-style archive preservation of the original Apple II disk image
-[^ref-17]: [IGDB – Pest Patrol](https://www.igdb.com/games/pest-patrol) — Internet Games Database entry confirming developer, publisher, release year, platform
-[^ref-18]: [Apple II PixelGeek catalog – Pest Patrol](https://www.apple2.org.za/gswv/a2zine/) — Apple II community catalog cross-reference, screenshot gallery, contemporary user notes
-[^ref-19]: [Apple II Hi-Res graphics reference](https://en.wikipedia.org/wiki/Apple_II_graphics) — technical context for the Hi-Res mode rendering used by Pest Patrol and the Apple II's color/resolution constraints
-[^ref-20]: LaunchBox Games Database – Pest Patrol *(link removed: it led to a different game's page)* — community-curated metadata, cover-art reference, platform confirmation
+[^ref-16]: [Asimov mirror - Apple II action game disk images](https://mirrors.apple2.org.za/ftp.apple.asimov.net/images/games/action/) - lists "PEST_PATROL (Mr. Krack Man crack).do" disk image
+[^ref-19]: [Apple II Hi-Res graphics reference](https://en.wikipedia.org/wiki/Apple_II_graphics) - technical context for the Apple II's Hi-Res graphics mode
+[^ref-21]: [Creative Computing Video & Arcade Games, Fall 1983 - Pest Patrol review by Owen Linzmayer](https://www.atarimagazines.com/cva/v1n2/pestpatrol.php) - Vol. 1 No. 2, p. 93: Mark Allen credit, 40 waves, controls, practice mode, bomb types, enemy list
+[^ref-22]: [Retro365 - Pest Patrol, A Small Piece of Sierra's Quest to Conquer the Action Market](https://retro365.blog/2025/08/15/pest-patrol-a-small-piece-of-sierras-quest-to-conquer-the-action-market/) - Ernst Krogtoft, 2025: Mark Allen's third and final game, autumn 1982 SierraVision release, forty levels, limited sales
+[^ref-23]: [Eli's Software Encyclopedia - Pest Patrol (Apple II, 5 1/4" Disk) Sierra - 1982](https://elisoftware.org/wiki/Pest_Patrol_(Apple_II,_5_1/4%22_Disk)_Sierra_-_1982_USA,_Canada_Release) - packaging description text, SierraVision label, developer Mark Allen, DOS 3.3, 48K
+[^ref-24]: [Softline, November 1982 (Internet Archive)](https://archive.org/details/Softline_1982_11) - Pest Patrol advertisement: "By Mark Allen, author of SABOTAGE", 48K, DOS 3.3, $29.95, Hi-Res graphics
+[^ref-25]: [Wikipedia - Mark Allen (software developer)](https://en.wikipedia.org/wiki/Mark_Allen_(software_developer)) - UCSD Pascal interpreter with Richard Gleaves; Apple II games Stellar Invaders, Sabotage, Pest Patrol
+[^ref-26]: [Wikipedia - Sabotage (video game)](https://en.wikipedia.org/wiki/Sabotage_(video_game)) - fixed shooter written by Mark Allen, published by On-Line Systems in 1981
+[^ref-27]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) - 1982 rename to Sierra On-Line, move to Oakhurst, name from the Sierra Nevada
+[^ref-28]: [Wikipedia - Time Zone (video game)](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) - shipped on six double-sided floppy disks, released 1982
+[^ref-29]: [Sierra On-Line product catalog (mocagh.org scan)](https://mocagh.org/sierra/sierra-catalog2.pdf) - lists "PEST PATROL APPLE Price: $29.95"
+[^ref-30]: [Wikipedia - Lunar Leeper](https://en.wikipedia.org/wiki/Lunar_Leeper) - horizontally scrolling shooter by Chuck Bueche, SierraVision label, 1982
+[^ref-31]: [Eli's Software Encyclopedia - Category:1982 Sierra](https://elisoftware.org/wiki/Category:1982_Sierra) - 1982 Sierra releases including Creepy Corridors (VIC-20) and Pest Patrol
