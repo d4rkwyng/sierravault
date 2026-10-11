@@ -1,40 +1,41 @@
 ---
 title: Pepper's Adventures in Time
 release_year: 1993
-developer: Brightstar
-designer: [Bill Davis, Lorelei Shannon, Josh Mandel]
+developer: Sierra On-Line
+designer: [Gano Haine, Jane Jensen, Josh Mandel, Lorelei Shannon, Bill Davis]
 publisher: Sierra On-Line
 genre: Educational
-platforms: [DOS, Windows, Amiga, CD-ROM]
+platforms: [DOS, Windows]
 series: Standalone
 engine: SCI1.1
 protagonist: Pepper Pumpernickel
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: Pepper's Adventures in Time is an educational adventure game released
-  by Sierra On-Line in 1993. Developed by Brightstar, a Seattle-based company acquired...
-tags: [1990s, educational, 'null', sci, sierra]
+last_updated: '2026-10-11'
+description: Pepper's Adventures in Time is a 1993 educational adventure game from
+  Sierra On-Line's Discovery Series, in which Pepper Pumpernickel and her dog Lockjaw
+  travel back to 1764 Philadelphia to set Benjamin Franklin's history right.
+tags: [1990s, educational, sci, sierra]
 ---
 # Pepper's Adventures in Time
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-Pepper's Adventures in Time is an educational adventure game released by Sierra On-Line in 1993[^ref-1]. Developed by Brightstar, a Seattle-based company acquired by Sierra, the game was designed as an edutainment title that teaches American colonial history through interactive gameplay[^ref-2]. The game follows a young tomboy named Pepper Pumpernickel and her pit bull dog Lockjaw as they travel back in time to 1764 Philadelphia to correct historical anomalies[^ref-3].
+Pepper's Adventures in Time is an educational adventure game released by Sierra On-Line in 1993[^ref-1]. MobyGames and PCGamingWiki both credit Sierra On-Line as the developer[^ref-5][^ref-7]. The game teaches American colonial history through interactive play, following a young tomboy named Pepper Pumpernickel and her pit bull Lockjaw as they are sent back in time to 1764 Philadelphia, where history has gone wrong[^ref-1].
 
-Part of Sierra's Discovery Series, Pepper's Adventures in Time employs a "learning by contrast technique in which an incomplete historical scenario is presented, which the player has to correct thereby realigning the historical facts"[^ref-1]. The game was intended to be the first in an educational time travel game series that never materialized[^ref-4], and has been praised as "one of Sierra's most creative games" despite being largely ignored due to its association with other educational titles[^ref-4].
+Part of Sierra's Discovery Series, the game was described by *Every Family's Guide to Computers* (1995) as teaching through "learning by contrast": the player is shown a distorted historical scenario and has to correct it[^ref-1]. It was intended to be the first in a franchise that never took off[^ref-4], and Hardcore Gaming 101 called it "one of Sierra's most creative games" despite its being "largely ignored for its association" with Sierra's other educational titles[^ref-4].
 
-Back in the early 90s, Sierra was churning out edutainment titles faster than you can say '3-2-1 Contact'. Pepper's Adventures in Time was one of the best. Not only could you learn a thing or two about American history, but the character designs were hilarious and the dialogue was pretty damn witty for a game aimed at a younger audience. The game features cartoonish graphics similar to Day of the Tentacle, giving it a distinct visual style that set it apart from Sierra's more realistic adventure games.
+In a 2011 Dorkly list of educational games that "actually weren't that bad", Brandon Hoang wrote: "Back in the early 90s, Sierra was churning out edutainment titles faster than you can say '3-2-1 Contact'. Pepper's Adventures in Time was one of the best." He also called the character designs "hilarious" and the dialogue "pretty damn witty for a game aimed at a younger audience"[^ref-24]. MobyGames notes that the cartoonish graphics, similar in style to *Day of the Tentacle*, were chosen to appeal to younger audiences[^ref-5].
 
-One Sierra fan declared: "I still consider it the greatest educational adventure ever created," explaining why they ranked it #19 in their personal Top 20 Adventure Games of All-Time list. Another enthusiast noted: "I learned more about the colonial era from this game than I did from an upper-division college history course".[^ref-13]
+Evan of AdventureGamers, who ranked the game #19 in his Top 20 Adventure Games of All-Time article, wrote: "I still consider it the greatest educational adventure ever created." In the same post he added: "I learned more about the colonial era from this game than I did from an upper-division college history course"[^ref-6].
 
 > [!info]- Game Info
-> **Developer:** Brightstar[^ref-5]
-> **Designer:** [[Bill Davis]] (creative director), [[Lorelei Shannon]], [[Josh Mandel]][^ref-6]
+> **Developer:** [[Sierra On-Line]][^ref-5]
+> **Designer:** [[Gano Haine]], [[Jane Jensen]], [[Josh Mandel]], [[Lorelei Shannon]]; original concept by [[Bill Davis]][^ref-21]
 > **Publisher:** [[Sierra On-Line]][^ref-5]
-> **Engine:** SCI1.1[^ref-5]
-> **Platforms:** DOS, Windows 3.x, Amiga, CD-ROM[^ref-7]
+> **Engine:** SCI1.1[^ref-7]
+> **Platforms:** DOS, Windows 3.x[^ref-7]
 > **Release Year:** 1993
 > **Series:** Standalone
 > **Protagonist:** Pepper Pumpernickel
@@ -42,106 +43,108 @@ One Sierra fan declared: "I still consider it the greatest educational adventure
 
 ## Story Summary
 
-The story begins when Pepper's evil Uncle Fred creates a time machine with nefarious intentions[^ref-8]. After Lockjaw accidentally enters the device, both Pepper and her dog are transported back to colonial Philadelphia in 1764[^ref-9]. Uncle Fred's plan involves dumping "essence of 1968" into his time machine, transforming Benjamin Franklin "into an incense-burning, headband-wearing jellyfish" and making "the American revolution all but impossible"[^ref-2].
+The story begins when Pepper's evil Uncle Fred builds a time machine with nefarious intentions[^ref-8]. Lockjaw is thrown into the machine, and Pepper follows him back to the year 1764[^ref-9], landing in colonial Philadelphia[^ref-8]. Fred's plan is to turn Benjamin Franklin "into an incense-burning, headband-wearing jellyfish" and so make "the American revolution all but impossible"[^ref-2].
 
-As the game progresses, players witness Uncle Fred transform the Founding Father into a "blissed-out, spineless flower child" through his doctored essence[^ref-10]. Pepper and Lockjaw look on as Fred dumps some doctored 'essence of 1968' into the machine, transforming the Founding Father into a blissed-out, spineless flower child. The game's satirical premise—portraying the founding fathers as hippies in colonial America—provides both humor and contrast that reinforces the educational content.
+TV Tropes summarizes the scene: Pepper and Lockjaw watch Fred dump some doctored "essence of 1968" into the machine, turning the Founding Father into a "blissed-out, spineless flower child"[^ref-10]. The result is a 1764 Philadelphia mixed with the 1960s American counterculture, with Franklin recast as a hippie[^ref-1].
 
-Pepper must navigate colonial Philadelphia, interact with historical figures including Benjamin Franklin, and solve puzzles to restore the proper timeline[^ref-3]. The game switches perspective between Pepper and her dog Lockjaw, providing different gameplay experiences and viewpoints[^ref-11]. Via humorous dialogue and interaction with both the townspeople and Franklin, Pepper is responsible for ensuring that history unfolds the way it should.
+Pepper must explore colonial Philadelphia, interact with historical figures including Benjamin Franklin, and solve puzzles to restore the proper timeline[^ref-1]. The game switches perspective between Pepper and her dog Lockjaw, who have different abilities and viewpoints[^ref-11]. Through humorous dialogue with the townspeople and with Franklin, Pepper has to make sure history unfolds as it should, and has to find and rescue Lockjaw along the way[^ref-1].
 
-The narrative spans six acts with both serious and humorous titles, taking players through various aspects of colonial life: the Philadelphia streets, encounters with Governor Pugh's family (the antagonists), interactions with Poor Richard (Ben Franklin's pen name), and culminating in a dramatic conclusion. The game even includes period-appropriate challenges like sumptuary laws regarding proper clothing, teaching historical details through direct gameplay experience.
+The story spans six acts, each with a serious and a goofy title[^ref-4]. The villains are General Pugh, governor of Philadelphia, and his spoiled daughter Ima, who kidnaps Lockjaw[^ref-23][^ref-11]. Poor Richard appears as a character, although he was really only a pseudonym for the almanac Franklin published[^ref-4]. Pepper even runs foul of the local sumptuary laws for wearing trousers[^ref-19].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Pepper's Adventures in Time uses Sierra's SCI1.1 engine with a traditional point-and-click adventure interface[^ref-5]. The game features VGA graphics with a stylized cartoon-like appearance reminiscent of Day of the Tentacle[^ref-7]. Players control both Pepper and Lockjaw at different points, with the dog sections providing what one reviewer humorously called "psychodogical detail"[^ref-11].
+Pepper's Adventures in Time runs on Sierra's SCI1.1 engine[^ref-7] and uses the standard Sierra point-and-click, icon-driven interface[^ref-18]. It supports VGA, EGA and MCGA graphics[^ref-22], and its cartoonish style is similar to *Day of the Tentacle*'s[^ref-5]. Players control both Pepper and Lockjaw at different points; the dog sections include what one blogger called "psychodogical detail"[^ref-11].
 
-The interface includes a unique "TRUTH" icon that allows players to verify historical accuracy and learn additional facts about colonial America. This educational cursor transforms the adventure game format into an interactive learning experience, rewarding curiosity with historical information rather than just puzzle solutions.
+The interface adds a "Truth" icon to the standard Sierra icons. It explains which things on screen are historically accurate and which are not, and it can be used on any piece of scenery[^ref-4].
 
 ### Structure and Progression
 
-The game is divided into six acts, with players progressing through various locations in colonial Philadelphia[^ref-12]. To successfully complete the game, players must demonstrate knowledge about colonial American life and Benjamin Franklin's historical context[^ref-2]. The educational component includes chapter quiz questions that players can answer for additional points—a walkthrough notes: "To do so, you must at least answer all the chapter quiz questions correctly and use the TRUTH cursor a lot".
+The game is divided into six acts: Time Travel, Philadelphia, Kite/Key Experiment, Stamp Act, Constitutional Convention and Rescue Lockjaw[^ref-12]. According to the manual, succeeding at the game requires knowing about life in colonial America and Benjamin Franklin's life and times[^ref-2]. Each act ends with a quiz, and each correct answer earns progress points[^ref-5]. One walkthrough notes that to get every point "you must at least answer all the chapter quiz questions correctly and use the TRUTH cursor a lot"[^ref-13].
 
-The ability to control both protagonist Pepper and her dog Lockjaw adds variety to gameplay. When playing as Lockjaw, players experience the world from a dog's perspective, with different interaction possibilities and puzzle solutions. One amusing detail: if Lockjaw drinks from his water bowl twice, he'll relieve himself on a tree, demonstrating the game's attention to character-appropriate humor.
+Playing as Lockjaw gives the player a different icon bar and different ways to interact with the world[^ref-2]. In one gag, if Lockjaw drinks from his water a second time, he walks over and relieves himself on the tree[^ref-9][^ref-2].
 
 ### Puzzles and Mechanics
 
-Puzzles combine historical knowledge with traditional adventure game logic[^ref-14]. Some reviewers noted challenging moments, including "pixel hunt" situations described as "painful" about two hours into gameplay, and sequences requiring "unclued trial and unprovoked error"[^ref-11]. One reviewer noted specifically: "The whole sequence entails a lot of (unclued) trial and (unprovoked) error. Consider me not amused".
+Puzzles combine historical knowledge with traditional adventure game logic[^ref-14]. The Adventurer's Guild blog found a "pixel hunt" about two hours in, which it called "the first painful situation in the game", and wrote of a later sequence: "The whole sequence entails a lot of (unclued) trial and (unprovoked) error. Consider me not amused"[^ref-11].
 
-The game encourages exploration and interaction with historical figures, allowing players to learn through dialogue and environmental storytelling[^ref-3]. Players must swap hookah pipes for Constitutional writing quills and engage with the anachronistic elements introduced by Uncle Fred's meddling. Poor Richard's proverbs featured in the game are actually Benjamin Franklin's proverbs from Poor Richard's Almanack, according to the game manual.
+The game encourages exploration and conversation with historical figures[^ref-1]. Dorkly's Brandon Hoang summed up the task as setting right a colonial America where "our founding fathers are now hippies and it's up to you to swap their hookah pipe for a Constitutional writing quill"[^ref-24]. One act has Pepper hand out Poor Richard's proverbs to the townspeople; the Adventurer's Guild blogger noticed that these are Benjamin Franklin's proverbs as printed in the game manual[^ref-11].
 
 ## Reception
 
 ### Contemporary Reviews
 
-| Publication | Score | Notes |
-|-------------|-------|-------|
-| Critics (1993) | 82% | Contemporary aggregate score[^ref-5] |
-| Adventure Gamers | 4.5/5 | Retrospective review by Andrea Morstabilini[^ref-1] |
-| Abandonware DOS | 4.04/5 | User rating[^ref-15] |
-| MyAbandonware | 4.53/5 | HOTUD review[^ref-16] |
-| XTC Abandonware | 5.00/5 | Perfect user score |
-| OldGames | 67% | Mixed assessment |
-| IMDb | 6.2/10 | User votes[^ref-17] |
-
-Contemporary reviews praised the game's educational approach and humor. MobyGames users called it "one of the best educational games ever, which is a great experience for both children and adults". One reviewer summarized: "This one is a truly great mix of edutainment and adventure into the game for everyone".
+MobyGames records an average critic score of 82% from four ratings[^ref-23]. No 1993 magazine review has been verified for this page.
 
 ### Modern Assessment
 
-Modern retrospectives have been generally positive, with AdventureGamers.com calling it "not only a great educational game for children and young adults, it is a classic adventure game for all ages"[^ref-18]. The game received praise for being "gently amusing, and targeted towards more adult adventure game players"[^ref-1]. Adventure Gamers described it as "a superb game that excels in just about every area, held back only by one or two notable flaws or a collection of smaller ones".
+| Publication | Score | Notes |
+|-------------|-------|-------|
+| Adventure Gamers | 4.5/5 | 2010 retrospective review by Andrea Morstabilini[^ref-18] |
+| Alex Bevilacqua | 44% | 2025 blog review[^ref-14] |
+| Abandonware DOS | 4.02/5 | User rating, 49 votes (archived August 2025)[^ref-15] |
+| MyAbandonware | 4.46/5 | User rating, 37 votes[^ref-16] |
+| OldGames.sk | 67% | User rating, 24 votes[^ref-28] |
+| IMDb | 6.7/10 | User rating, 9 votes[^ref-17] |
+| XTC Abandonware | 5.00/5 | User rating, 3 votes[^ref-27] |
 
-However, some modern reviewers have been critical. Alex Bevilacqua gave it 44%, noting "My final impression of this game is 'I just don't get it'. None of this was fun, and advancing the plot felt like work"[^ref-14]. Some players found the visuals off-putting, with one commenting: "Woah...creepy artstyle, it kinda triggers my uncanny valley". Others criticized specific elements: "the characters have large heads, quite ugly, with some ugly animation. And all the graphics is not on a high level".
+Adventure Gamers' 2010 review concluded that the game "is not only a great educational game for children and young adults, it is a classic adventure game for all ages"[^ref-18]. In 2011 Adventure Gamers ranked it #67 in its Top 100 All-Time Adventure Games[^ref-29]. The book *Science Fiction Video Games* thought it "gently amusing", and aimed at more adult adventure game players than Sierra's other games[^ref-1].
 
-GOG community members have expressed nostalgia and appreciation: "One of the best point and clicks of all time, and educational too!" and "I played this as a kid and I always wished they'd made more". The game clearly resonates with those who experienced it during childhood.
+In a 2003 MobyGames user review, Afex Tween called it "One of the best educational games ever, which is a great experience for both children and adults". The same reviewer criticized the art: "the characters have large heads, quite ugly, with some ugly animation. And all the graphics is not on a high level"[^ref-23].
+
+Not every modern reviewer was won over. Alex Bevilacqua gave it 44%, writing that his final impression was "I just don't get it". He added: "None of this was fun, and advancing the plot felt like work"[^ref-14]. A poster on the Hardcore Gaming 101 forums wrote: "Woah...creepy artstyle, it kinda triggers my uncanny valley"[^ref-26].
+
+GOG users voting for the game on its wishlist page wrote: "One of the best point and clicks of all time, and educational too!" and "I played this as a kid and I always wished they'd made more"[^ref-25].
 
 ## Development
 
 ### Origins
 
-The game originated from a concept by Sierra VP of Development/Creative Director Bill Davis, who also designed the main characters[^ref-2]. The project was intended as the first in an educational time travel series that would teach history through interactive experiences[^ref-4]. Originally titled "Twisty History", the game underwent development at Brightstar, a Seattle-based company that was acquired by Sierra during the game's production[^ref-6].
+The game was based on a concept by Bill Davis, Sierra's VP of Development/Creative Director, who also designed its main characters[^ref-1][^ref-2]. MobyGames credits Davis with the original concept, and its credits also thank Davis' dog Polly Esther as the inspiration for Lockjaw[^ref-21]. It was intended as the first in a series of edutainment games in which Pepper would travel back in time to set history right[^ref-1][^ref-4]. Its earlier title was "Twisty History"[^ref-5]. Evan of AdventureGamers understood the name was changed for trademark reasons[^ref-6].
 
-The concept drew inspiration from the "learning by contrast" educational technique, presenting deliberately incorrect historical scenarios that players must identify and correct. This approach made learning active rather than passive, requiring players to understand colonial history to recognize what had gone wrong.
+When asked about the game in 2003, Ken Williams said he had "only vague recollections of the title". He wrote: "I 'think' that it was developed by a company we acquired in Seattle called Brightstar," but cautioned, "I barely remember it." Later in the same thread he wrote "I stand corrected!" after learning that Lorelei Shannon had designed it[^ref-6]. The databases that list a developer credit Sierra On-Line[^ref-5][^ref-7].
 
 ### Production
 
-Mark Seibert served as producer, marking his first game in that role[^ref-6]. While Josh Mandel was credited as co-designer, he later clarified that Lorelei Shannon was the true creative force behind the game. In an email to a fan, Mandel stated: "It was generous of her to list me as a co-designer on the game, but I always felt that was greatly overstating my impact on the final product. PEPPER'S is a reflection of Lorelei's spirit and talent far moreso than that of anyone else who touched it, and I thought it was a game of surpassing quality — certainly one of the most unrestrainedly delightful games Sierra ever produced, and woefully underacknowledged"[^ref-6].
+Mark Seibert produced the game, his first as a producer[^ref-2]. MobyGames credits the design to Gano Haine, Jane Jensen, Josh Mandel and Lorelei Shannon, and the text and dialogue to Shannon alone[^ref-21]. Mandel later gave Shannon the credit. In an email to Evan of AdventureGamers, which Evan quoted with permission, Mandel wrote: "It was generous of her to list me as a co-designer on the game, but I always felt that was greatly overstating my impact on the final product. PEPPER'S is a reflection of Lorelei's spirit and talent far moreso than that of anyone else who touched it, and I thought it was a game of surpassing quality — certainly one of the most unrestrainedly delightful games Sierra ever produced, and woefully underacknowledged"[^ref-6].
 
-The music was composed by Mark Seibert and Neal Grandstaff[^ref-5], contributing to the game's period atmosphere while maintaining a lighthearted tone appropriate for younger audiences. Production featured extensive historical research by Lorelei Shannon to ensure educational accuracy despite the comedic presentation.
+The music was composed by Neal Grandstaff and Mark Seibert[^ref-5][^ref-21]. Adventure Gamers noted the huge amount of historical research Shannon did to detail colonial American history and life[^ref-18].
 
-Interestingly, the game contains Monty Python jokes that some reviewers noted were inappropriate for the target audience of pre-teenagers, suggesting the writers were also entertaining themselves and older players who might be supervising younger ones.
+*Metzomagic* found the game hilarious, but felt its humour was too sophisticated for its target audience because of references to things like Monty Python and academia[^ref-1].
 
 ### Technical Achievements
 
-The game was built using Sierra's Creative Interpreter (SCI) engine, specifically SCI1.1[^ref-7]. It featured digitized faces of contest winners James and Nathan Grayson, who won a fan contest and appear as characters in Goody Gumdrops shop with their real faces on game character bodies[^ref-11]. One reviewer humorously captioned this feature as "Winners of the Uncanny Valley Magazine Contest", noting the unsettling appearance of real faces on cartoon bodies.
+The game was built with Sierra's Creative Interpreter (SCI) engine, specifically SCI1.1[^ref-7]. It includes the digitized faces of James and Nathan Grayson, who won a fan contest. Their real faces appear on character bodies in Goody Gumdrops' shop, and the Adventurer's Guild blogger captioned the scene "Winners of the Uncanny Valley Magazine Contest"[^ref-11].
 
-The game supported multiple graphics modes including VGA, EGA, and MCGA[^ref-7], with system requirements including an Intel 286 processor minimum and 640 kB RAM. Both CD and floppy versions were released, though a planned CD-ROM release with full speech was started but never finished.
+The DOS version needs at least an Intel 286 processor and 640 KB of RAM, and it supports EGA, MCGA and VGA graphics[^ref-22]. Sources disagree about a CD version. Adventure Gamers says the game "was released on CD and floppies both for DOS and Windows 3.1"[^ref-18], while Hardcore Gaming 101 says "There was no CD release"[^ref-4]. According to producer Mark Seibert, a CD-ROM release with full speech was started but never finished[^ref-20].
 
 ### Cut Content and Cancelled Sequel
 
-A sequel was planned but shelved due to poor sales. As one satirical reviewer noted: "the lack of any sequel to this game historical records indicate the hateful wench remained trapped forever"[^ref-19]. The game bombed in the market despite positive critical reception, preventing the planned educational time travel series from continuing.
+Ken Williams recalled that "a sequel was planned, but then it bombed in the market – so the sequel was shelved," though he hedged that he barely remembered the game[^ref-6]. In his satirical retelling, PC Gamer's Richard Cobbett noted that "the lack of any sequel to this game historical records indicate the hateful wench remained trapped forever"[^ref-19].
 
 ## Legacy
 
-Despite positive reception, Pepper's Adventures in Time never received a sequel, joining the ranks of Sierra's one-off adventures that deserved continuation. The game has been praised by Sierra fans, with one calling it "one of the best educational adventure ever created"[^ref-6]. It remains available through various abandonware sites and has gained a cult following among adventure game enthusiasts[^ref-16].
+Pepper's Adventures in Time never received a sequel[^ref-4]. Evan of AdventureGamers called it "the greatest educational adventure ever created"[^ref-6], and MyAbandonware's description calls it "One of the most underrated Sierra games"[^ref-16].
 
-The game represents Sierra's ambitious attempt to expand the edutainment market beyond simple drill-and-practice software. Part of the Discovery Series alongside EcoQuest and the Dr. Brain games, Pepper's Adventures in Time demonstrated that educational games could offer the same depth and engagement as entertainment titles. As one reviewer noted: "Pepper's Adventures in Time is largely ignored for its association with these titles, but nonetheless one of Sierra's most creative games"[^ref-4].
+The game was part of the Discovery Series alongside EcoQuest and the Dr. Brain games[^ref-2]. Hardcore Gaming 101 wrote that it was "largely ignored for its association with these titles, but nonetheless one of Sierra's most creative games"[^ref-4].
 
 ### Easter Eggs
 
 The game contains several hidden surprises for observant players:
-- If you look at the bird 3 times, the bird lays a giant Easter Egg
-- If Lockjaw drinks from his water bowl twice, he'll relieve himself on a tree or clothes dummy
-- The digitized faces of contest winners James and Nathan Grayson appear in Goody Gumdrops shop
+- If Pepper or Lockjaw looks at the bird 3 times, the bird lays a giant Easter Egg[^ref-9][^ref-10]
+- If Lockjaw drinks from his water twice, he relieves himself on a tree or, in the Pugh house, on a clothes dummy[^ref-9]
+- The digitized faces of contest winners James and Nathan Grayson appear in Goody Gumdrops' shop, though the Adventurer's Guild notes that the cameo isn't actually hidden[^ref-11]
 
 ### Modern Comparisons
 
-Players who enjoyed similar titles often draw comparisons to LucasArts' Day of the Tentacle for its time-travel premise and cartoon visual style, though Pepper's Adventures in Time predates that game's cartoony aesthetic approach. One fan noted: "If you like Monkey Island, you should like this. Easily one of the best adventure games ever".
+The game is often compared with LucasArts' *Day of the Tentacle*. Kotaku noted that both games, released the same year, have the player help Benjamin Franklin with his kite experiment[^ref-1]. A commenter on XTC Abandonware wrote: "If you like Monkey Island, you should like this. Easily one of the best adventure games ever"[^ref-27].
 
 ## Downloads
 
 **Purchase / Digital Stores**
 - Currently unavailable on major digital platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
+- [GOG wishlist entry](https://www.gog.com/wishlist/games/peppers_adventure_in_time) - Community wishlist
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/pepper-s-adventures-in-time-1ws)
@@ -177,22 +180,31 @@ Players who enjoyed similar titles often draw comparisons to LucasArts' Day of t
 
 ## References
 
-[^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Pepper's_Adventures_in_Time) – Release year and basic information
-[^ref-2]: [Adventure Blog](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) – Development background and educational focus
-[^ref-3]: [Internet Archive](https://archive.org/details/peppers-adventures-in-timepc) – Character and plot details
-[^ref-4]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/peppers-adventures-in-time-ibm-pc-1993/) – Intended franchise information
-[^ref-5]: [MobyGames](https://www.mobygames.com/game/6312/peppers-adventures-in-time/) – Developer information
-[^ref-6]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/pepper-s-adventures-in-time/) – Design team details, Josh Mandel quote
-[^ref-7]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Pepper's_Adventures_in_Time) – Platform details
+[^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Pepper's_Adventures_in_Time) – Release, plot, Discovery Series, Bill Davis concept, reception summaries (Metzomagic, Kotaku, *Science Fiction Video Games*, *Every Family's Guide to Computers*)
+[^ref-2]: [Adventure Blog](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) – Seibert's first production, Bill Davis, manual, Uncle Fred's plan
+[^ref-4]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/peppers-adventures-in-time-ibm-pc-1993/) – Intended franchise, "one of Sierra's most creative games", Truth icon, six chapters, "There was no CD release"
+[^ref-5]: [MobyGames](https://www.mobygames.com/game/6312/peppers-adventures-in-time/) – Developer and publisher Sierra On-Line, alternate title Twisty History, music credits, description
+[^ref-6]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/pepper-s-adventures-in-time/) – 2003 thread: Ken Williams' recollections, Evan of AdventureGamers, Josh Mandel quote
+[^ref-7]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Pepper's_Adventures_in_Time) – Developer, SCI1.1 engine, DOS and Windows 3.x releases
 [^ref-8]: [Classic Reload](https://classicreload.com/peppers-adventures-in-time.html) – Plot synopsis
-[^ref-9]: Adventure Gamers Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Story details
-[^ref-10]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PeppersAdventuresInTime) – Plot description
-[^ref-11]: [Adventure Blog](https://advgamer.blogspot.com/2024/09/peppers-adventures-in-time-can-you.html) – Character switching mechanics
-[^ref-12]: [UHS Hints](https://www.uhs-hints.com/uhsweb/pepper.php) – Game structure
-[^ref-13]: [GameFAQs](https://gamefaqs.gamespot.com/pc/564732-peppers-adventures-in-time/faqs/1965) – Quiz system details
+[^ref-9]: [GameFAQs – Guide and Walkthrough by THayes](https://gamefaqs.gamespot.com/pc/564732-peppers-adventures-in-time/faqs/37937) – Trip to 1764, Easter Egg bird, Lockjaw's water gags
+[^ref-10]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PeppersAdventuresInTime) – Plot description, Easter Egg
+[^ref-11]: [Adventure Blog](https://advgamer.blogspot.com/2024/09/peppers-adventures-in-time-can-you.html) – Lockjaw sections, pixel hunt, Poor Richard's proverbs, Grayson contest winners
+[^ref-12]: [UHS Hints](https://www.uhs-hints.com/uhsweb/pepper.php) – Act structure
+[^ref-13]: [GameFAQs – Walkthrough by Deep Note](https://gamefaqs.gamespot.com/pc/564732-peppers-adventures-in-time/faqs/1965) – Quiz and TRUTH cursor note
 [^ref-14]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2025/04/24/peppers-adventures-in-time/) – Puzzle description, review
-[^ref-15]: [Abandonware DOS](http://web.archive.org/web/20250820022415/https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pepper's+Adventures+in+Time&gid=1927) – User rating
-[^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/pepper-s-adventures-in-time-1ws) – Community rating
-[^ref-17]: [IMDb](https://www.imdb.com/find/?q=Pepper%27s+Adventures+in+Time&s=tt) – User score
-[^ref-18]: [Web Archive AdventureGamers](https://web.archive.org/web/20121012192955/http://www.adventuregamers.com/articles/view/18253) – Modern assessment
-[^ref-19]: [PC Gamer](https://www.pcgamer.com/saturday-crapshoot-peppers-adventures-in-time/) – No sequel confirmation
+[^ref-15]: [Abandonware DOS](http://web.archive.org/web/20250820022415/https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pepper's+Adventures+in+Time&gid=1927) – User rating (archived snapshot)
+[^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/pepper-s-adventures-in-time-1ws) – User rating, site description
+[^ref-17]: [IMDb](https://www.imdb.com/title/tt5541176/) – User rating
+[^ref-18]: [Web Archive AdventureGamers](https://web.archive.org/web/20121012192955/http://www.adventuregamers.com/articles/view/18253) – Andrea Morstabilini review (2010)
+[^ref-19]: [PC Gamer](https://www.pcgamer.com/saturday-crapshoot-peppers-adventures-in-time/) – Richard Cobbett's Crapshoot column
+[^ref-20]: [MobyGames – Trivia](https://www.mobygames.com/game/6312/peppers-adventures-in-time/trivia/) – Unfinished CD-ROM version with full speech, per Mark Seibert
+[^ref-21]: [MobyGames – DOS Credits](https://www.mobygames.com/game/6312/peppers-adventures-in-time/credits/dos/) – Design, original concept, text, music credits
+[^ref-22]: [MobyGames – Specs](https://www.mobygames.com/game/6312/peppers-adventures-in-time/specs/) – System requirements and video modes
+[^ref-23]: [MobyGames – Reviews](https://www.mobygames.com/game/6312/peppers-adventures-in-time/reviews/) – Critic average, user reviews
+[^ref-24]: [Dorkly – 6 Educational Games That Actually Weren't That Bad (archived)](https://web.archive.org/web/20190407095044/http://www.dorkly.com/post/24911/the-dorklyst-6-educational-games-that-actually-werent-that-bad) – Brandon Hoang, 2011
+[^ref-25]: [GOG.com wishlist](https://www.gog.com/wishlist/games/peppers_adventure_in_time) – Community comments
+[^ref-26]: [Hardcore Gaming 101 forums (archived)](https://web.archive.org/web/20240322103311/https://hg101.proboards.com/thread/13211/peppers-adventures-time) – Forum comment on art style
+[^ref-27]: [XTC Abandonware (archived)](http://web.archive.org/web/20251005094459/http://www.xtcabandonware.com/game/1120/peppers-adventures-in-time-aka-twisty-h) – User rating and comments
+[^ref-28]: [OldGames.sk](https://www.oldgames.sk/en/game/peppers-adventures-in-time/download/2911/) – User rating
+[^ref-29]: [Adventure Gamers – Top 100 All-Time Adventure Games (archived)](https://web.archive.org/web/20130118232940/http://www.adventuregamers.com/articles/view/18643/page8/) – #67 ranking (2011)
