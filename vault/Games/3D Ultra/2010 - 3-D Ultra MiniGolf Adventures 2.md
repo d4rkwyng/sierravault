@@ -72,7 +72,7 @@ Adventures 2 received mixed critical reception with too few aggregated reviews o
 
 ### Modern Assessment
 
-Modern preservation efforts have given the series new life, with The Collection Chamber noting Adventures 1 as "a worthy experiment in the 3D Ultra series - one that would see the series through to this day"[^ref-3]. The 2006 Adventures game remains available through multiple digital distribution platforms, with the Internet Archive hosting a 46.7MB Windows executable downloaded 707 times as of 2015[^ref-2]. Steam continues to sell the Adventures version, which maintains "70% positive" user reviews from 113 players[^ref-19].
+Modern preservation efforts have given the series new life, with The Collection Chamber noting Adventures 1 as "a worthy experiment in the 3D Ultra series - one that would see the series through to this day"[^ref-3]. The 2006 Adventures game is still sold on Steam. Steam continues to sell the Adventures version, which maintains "70% positive" user reviews from 113 players[^ref-19].
 
 ## Development
 
@@ -118,7 +118,6 @@ Contemporary reviewers recognized both the series' potential and limitations. Eu
 
 **Download / Preservation**
 - [MyAbandonware - 3-D Ultra MiniGolf](https://www.myabandonware.com/game/3-d-ultra-minigolf-db6)[^ref-17]
-- [Internet Archive - 3D Ultra Minigolf Adventures](https://archive.org/details/3DUltraMinigolfAdventures)[^ref-2]
 - [Collection Chamber - Enhanced compatibility version](https://collectionchamber.blogspot.com/p/3d-ultra-mini-golf.html)[^ref-3]
 
 Adventures 2 is documented across multiple gaming databases including MobyGames[^ref-12] and XboxAchievements[^ref-14], while the original 3-D Ultra MiniGolf is preserved through MyAbandonware[^ref-17] and SierraChest[^ref-18].
@@ -146,7 +145,6 @@ Adventures 2 is documented across multiple gaming databases including MobyGames[
 ## References
 
 [^ref-1]: [Andy Merrill Blog - 3D Ultra Minigolf Adventures Review](https://andymerrill.com/blog/2007/04/3d-ultra-minigolf-adventures-review/) - Xbox Live Arcade version review, pricing, and control scheme details
-[^ref-2]: [Internet Archive - 3D Ultra Minigolf Adventures](https://archive.org/details/3DUltraMinigolfAdventures) - Downloadable Windows executable, file size and upload information
 [^ref-3]: [Collection Chamber - 3D Ultra Mini Golf](https://collectionchamber.blogspot.com/p/3d-ultra-mini-golf.html) - Game analysis, compatibility information, and series history
 [^ref-4]: [Wikipedia - 3D Ultra Minigolf Adventures](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_Adventures) - Release dates, review scores, sales data
 [^ref-5]: [Wikipedia - 3D Ultra Minigolf Series](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) - Complete series overview, development history, platform releases
