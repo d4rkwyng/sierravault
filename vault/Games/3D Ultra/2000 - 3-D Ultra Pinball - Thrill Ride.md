@@ -2,38 +2,38 @@
 title: '3-D Ultra Pinball: Thrillride'
 release_year: 2000
 developer: Dynamix
-designer: []
+designer: [Kyle Miller]
 publisher: Sierra On-Line
 genre: Pinball
 platforms: [Windows, Mac, Game Boy Color]
 series: 3-D Ultra Pinball
-engine: 3D Ultra Pinball Engine
+engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-27'
+last_updated: '2026-10-11'
 description: '3-D Ultra Pinball: Thrillride is a pinball simulation game developed
   by Dynamix and published by Sierra On-Line in 2000 for Windows and Macintosh platforms,...'
 tags: [2000s, 3-d-ultra-pinball, sierra]
-last_modified: 2026-03-15T15:49:44-07:00
+last_modified: 2026-10-11T12:00:00-07:00
 ---
 # 3-D Ultra Pinball: Thrillride
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-3-D Ultra Pinball: Thrillride is a pinball simulation game developed by [[Dynamix]] and published by [[Sierra On-Line]] in 2000 for Windows and Macintosh platforms, with a Game Boy Color version developed by Left Field Productions[^ref-1][^ref-19]. The game represents the fifth and final entry in Sierra's popular 3-D Ultra Pinball franchise, following the previous title 3-D Ultra NASCAR Pinball[^ref-2][^ref-20]. Featuring an amusement park theme based on Pennsylvania's Hersheypark, the game combines traditional pinball mechanics with colorful ride-themed attractions and multiple tables[^ref-3].
+3-D Ultra Pinball: Thrillride is a pinball simulation game developed by [[Dynamix]] and published by [[Sierra On-Line]] in 2000 for Windows and Macintosh platforms, with a Game Boy Color version developed by Left Field Productions[^ref-1][^ref-19]. The game represents the fifth and final entry in Sierra's popular 3-D Ultra Pinball franchise, following the previous title 3-D Ultra NASCAR Pinball[^ref-2]. Featuring an amusement park theme based on Pennsylvania's Hersheypark, the game combines traditional pinball mechanics with colorful ride-themed attractions; the PC version has one main table plus a secondary Thrill Zone table and ride sub-games[^ref-1][^ref-3].
 
-The game was developed as part of a partnership between Sierra, Dynamix, and the Hershey chocolate company, promoting Hersheypark's attractions including their new Lightning Racer coaster by Great Coasters International[^ref-2]. Nothing captures the excitement of amusement parks and the fun of pinball quite like this title, which offers 15 different rides including two mini-tables, Night-time Fantasy mode, and plenty of special surprises[^ref-4]. With its Disney-like fun graphics and gameplay, the ball travels through roller coaster loops, waterfalls, and cascades in a vibrant amusement park setting[^ref-5].
+The game was developed as part of a partnership between Sierra, Dynamix, and the Hershey chocolate company, promoting Hersheypark's attractions including their new Lightning Racer coaster by Great Coasters International[^ref-2]. Sierra's box copy promised "15 different rides, including two mini-tables, Night-time Fantasy, and plenty of special surprises"[^ref-4]. With its Disney-like fun graphics and gameplay, the ball travels through roller coaster loops, waterfalls, and cascades in a vibrant amusement park setting[^ref-5].
 
-Despite receiving mixed critical reviews that praised its visual presentation while criticizing its lack of difficulty and replay value, the game developed a devoted fanbase who appreciated its accessible gameplay and charming theme park atmosphere[^ref-6]. The title was later republished in Europe by Empire Interactive under their Xplosiv budget label in 2003[^ref-4]. The game is documented across multiple gaming databases including Giant Bomb[^ref-13], IGDB[^ref-14], and GameFAQs[^ref-15].
+Despite receiving mixed critical reviews that praised its visual presentation while criticizing its lack of difficulty and replay value, the game has kept admirers among abandonware users, some of whom credit it with getting them into pinball[^ref-10]. The title was later republished in Europe by Empire Interactive under their Xplosiv budget label in 2003[^ref-4]. The game is documented across multiple gaming databases including Giant Bomb[^ref-13], IGDB[^ref-14], and GameFAQs[^ref-15].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]] (PC/Mac), Left Field Productions (Game Boy Color)[^ref-1][^ref-16]
-> **Designer:** Unknown
+> **Designer:** Kyle Miller (PC)[^ref-16]
 > **Publisher:** [[Sierra On-Line]], Empire (UK budget release)[^ref-4]
-> **Engine:** Unknown (PC), Same engine as [[Disney]]'s Little Mermaid Pinball (GBC)[^ref-7]
-> **Platforms:** Windows, Macintosh, Game Boy Color[^ref-1]
+> **Engine:** Not documented (PC), Same engine as [[Disney]]'s Little Mermaid Pinball (GBC)[^ref-7]
+> **Platforms:** Windows, Macintosh, Game Boy Color[^ref-1][^ref-20]
 > **Release Year:** 2000
 > **Series:** 3-D Ultra Pinball
 > **Protagonist:** N/A
@@ -59,11 +59,13 @@ The Game Boy Color version features a built-in Rumble cartridge feature that all
 
 The game features a comprehensive structure built around amusement park attractions:
 
-- **Main Table:** The central pinball table featuring the intersection of multiple ride entrances[^ref-8]
-- **Mini-Tables:** 12 smaller challenge tables themed around specific attractions[^ref-9]
-- **Full-Sized Tables:** 2 complete pinball tables with distinct layouts[^ref-9]
-- **Thrill Zone:** Area dedicated to intense roller coaster attractions[^ref-3]
-- **Fun Zone:** Section featuring family-friendly attractions[^ref-3]
+- **Main Table (PC):** One primary table, featuring the intersection of multiple ride entrances, plus a secondary Thrill Zone table[^ref-1][^ref-8]. Game Over Online noted it offers "only one table"[^ref-6]
+- **Thrill Zone:** Five rides, each replacing the last once completed: The Great Bear, The Lightning Racer, The Sidewinder, The Sooper Dooper Looper and Tidal Force[^ref-6]
+- **Fun Zone:** The Kissing Tower, Bumper Cars, Canyon River Rapids, Virtual Coaster and The Flying Falcon; some play on the main table, others as sub-games[^ref-6]. Two direct the player to secondary tables, a River Rafting table and a Lightning Racer Virtual Coaster[^ref-1]
+- **Multiball Ramps:** The Wildcat and the Coal Cracker[^ref-1]
+- **Game Boy Color version:** The box advertises "14 separate tables": "2 full-sized tables and 12 mini-tables"[^ref-9]
+
+All of this builds toward the final event, Lights Out[^ref-6].
 
 The game offers three difficulty levels with adjustable features to accommodate players of varying skill levels[^ref-4]. Some rides actually change the layout configuration of the main pinball table when activated, adding variety to the gameplay experience[^ref-8].
 
@@ -79,7 +81,7 @@ Special events and hidden features add depth to the experience. The Hershey's Hi
 
 Critical reception for 3-D Ultra Pinball: Thrillride was mixed, with most reviewers praising the visual presentation while criticizing the lack of challenge and limited replay value.
 
-GameSpot's Ron Dulin awarded the PC version a score of 6.3/10, noting that the game "is meant as nothing more than a fun diversion and not as a hardcore pinball simulation aimed at silver-ball fanatics" while observing that "the lack of a challenge makes the game a bit tedious"[^ref-1]. IGN's Jason Song gave the PC version a more favorable 7.9/10, praising the simulation quality: "The quality of the simulation is excellent. Balls roll convincingly around the table, losing or gaining momentum according to the rules of physics"[^ref-3]. However, Song also criticized the single table design, stating that "one lonely table's destined to lose its appeal faster than the Survivor phenomenon"[^ref-3].
+GameSpot's Ron Dulin awarded the PC version a score of 6.3/10, noting that the game "is meant as nothing more than a fun diversion and not as a hard-core pinball simulation aimed at silver-ball fanatics" and that "it is simply too easy. My first game lasted more than 30 minutes before I finally quit out, and I was only on ball two." He added that "the lack of a challenge makes the game seem a bit tedious"[^ref-21]. IGN's Jason Song gave the PC version a more favorable 7.9/10, praising the simulation quality: "The quality of the simulation is excellent. Balls roll convincingly around the table, losing or gaining momentum according to the rules of physics"[^ref-3]. However, Song also criticized the single table design, stating that "one lonely table's destined to lose its appeal faster than the Survivor phenomenon"[^ref-3].
 
 Game Over Online's Dick Ritchie scored the game at 68%, praising the presentation while criticizing the difficulty: "The audio and visuals in 3D Ultra Pinball: Thrill Ride are spectacular" but noted "it's not difficult in the least. I was able to complete half of the events in just my first game"[^ref-6]. Ritchie concluded with a pointed comparison: "Think of 3D Ultra Pinball: Thrill Ride as that new rollercoaster that just opened up at your local amusement park... Now imagine having paid $30 for such a short ride... a little hard to swallow"[^ref-6].
 
@@ -97,7 +99,7 @@ User reviews have remained positive over the years. One nostalgic fan on MyAband
 - **MobyGames:** 64% critic average (9 reviews), 4.2/5 player average (6 ratings)[^ref-11]
 - **MyAbandonware:** 4.58/5 (43 votes)[^ref-10]
 - **Amazon UK:** 5.0/5 stars (customer reviews)[^ref-4]
-- **Software Informer:** 4/3 votes[^ref-5]
+- **Software Informer (users):** 4/5 stars (3 votes)[^ref-5]
 
 ## Development
 
@@ -107,7 +109,7 @@ User reviews have remained positive over the years. One nostalgic fan on MyAband
 
 ### Production
 
-The PC and Macintosh versions were developed by Dynamix, Inc., Sierra's in-house development studio known for various simulation and action titles[^ref-10]. The Game Boy Color version was outsourced to Left Field Productions, who utilized the same engine they had developed for Disney's Little Mermaid Pinball[^ref-7].
+The PC and Macintosh versions were developed by Dynamix, Inc.[^ref-10][^ref-19] The Game Boy Color version was outsourced to Left Field Productions, who utilized the same engine they had developed for Disney's Little Mermaid Pinball[^ref-7].
 
 The partnership with Hersheypark provided authentic ride names and theming, including prominent placement for their new Lightning Racer coaster by Great Coasters International[^ref-2]. This corporate partnership gave the game a unique identity among pinball simulations while providing Hersheypark with interactive promotional material[^ref-2].
 
@@ -129,7 +131,7 @@ The game was noted for having improved ball physics compared to its predecessors
 
 **Windows Version:**[^ref-6]
 - **System Requirements:** Windows 9x, Pentium 133, 32MB RAM, 4x CD-ROM
-- **File Size:** 28.3 MB (download)[^ref-5] / 411 MB (full installation)[^ref-10]
+- **File Size:** 28.3 MB (trial download)[^ref-5]; 411 MB (MyAbandonware ISO download)[^ref-10]
 - **Media:** CD-ROM
 - **Perspective:** Top-Down[^ref-10]
 - **Compatibility:** Windows 98, Windows NT, Windows 2000, Windows Me[^ref-4]
@@ -147,9 +149,8 @@ The game was noted for having improved ball physics compared to its predecessors
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 2000 | Windows/Mac | Initial release[^ref-5] |
-| 1.1 | Unknown | Windows | Updated version[^ref-5] |
-| 1.1.1 | Unknown | Windows | Latest version[^ref-5] |
+| 1.00 | June 25, 2000 | Windows/Mac | Initial release[^ref-17] |
+| 1.01 | Unknown | Windows | 1.00 to 1.01 update (available via sierrahelp.com)[^ref-17] |
 | GBC | December 29, 2000 | Game Boy Color | North American release[^ref-1] |
 | Xplosiv | April 4, 2003 | Windows | UK budget re-release by Empire[^ref-4] |
 | German | 2005 | Windows | Re-release by Dice Multi Media[^ref-10] |
@@ -164,10 +165,10 @@ Several bugs have been reported by users attempting to run the game on modern sy
 - **Flipper Key Reassignment:** Problems with remapping flipper keys in the Windows version[^ref-10]
 - **Sticky Keys Conflict:** Default shift key controls trigger Windows 10's Sticky Keys accessibility feature[^ref-8]
 
-The Collection Chamber has tested the game with DxWind for Windows 10 compatibility, with an install size of approximately 205 MB[^ref-2].[^ref-17]
+The Collection Chamber has tested the game with DxWind for Windows 10 compatibility, with an install size of approximately 205 MB[^ref-2].
 
 **Game Boy Color Specific Issues:**[^ref-7]
-- Ball physics are floaty and react oddly to many hits and shots
+- AllGame's Jon Thompson found the ball "quite floaty" and that it "reacts oddly to many hits and shots"[^ref-1]
 - Ball gets permanently stuck on pencil-thin gates
 - Poor flipper control for precise aiming
 - Ball physics jump and jitter when trapped with flipper
@@ -185,9 +186,9 @@ The Collection Chamber has tested the game with DxWind for Windows 10 compatibil
 
 ### Sales and Commercial Impact
 
-While specific sales figures are not available, 3-D Ultra Pinball: Thrillride benefited from being part of Sierra's best-selling 3-D Ultra Pinball series[^ref-4]. At the time of release, only two major pinball game developers remained active: Empire Interactive with their Pro Pinball series and Sierra with 3D Ultra Pinball, giving the game limited competition in the market[^ref-6].
+While specific sales figures are not available, 3-D Ultra Pinball: Thrillride was marketed on its box as "the latest pinball adventure from the best-selling 3D Ultra Pinball series"[^ref-4]. At the time of release, only two major pinball game developers remained active: Empire Interactive with their Pro Pinball series and Sierra with 3D Ultra Pinball, giving the game limited competition in the market[^ref-6].
 
-The game proved popular enough to warrant a budget re-release in the UK through Empire's Xplosiv label in April 2003[^ref-4], and a German re-release through Dice Multi Media Europe in 2005[^ref-10].
+The game received a budget re-release in the UK through Empire's Xplosiv label in April 2003[^ref-4], and a German re-release through Dice Multi Media Europe in 2005[^ref-10].
 
 ### Collections
 
@@ -213,14 +214,14 @@ User communities continue to share solutions for running the game on modern syst
 
 3-D Ultra Pinball: Thrillride represents an interesting endpoint for Sierra's pinball franchise. While it corrected many complaints from the previous NASCAR-themed entry and featured arguably the best ball physics in the series[^ref-2], it arrived at a time when the video pinball genre was rapidly declining in mainstream popularity. The game's partnership with Hersheypark provided authentic theming but also limited its fantastical appeal compared to earlier entries like Creep Night[^ref-2].
 
-The game's legacy is one of accessible entertainment rather than pinball simulation depth. As Ron Dulin noted in his contemporary GameSpot review, it functioned as "a fun diversion" rather than a hardcore experience[^ref-1]. This accessibility has allowed it to maintain a nostalgic following among players who discovered it during childhood, with many crediting it as their introduction to pinball gaming[^ref-10]. The Collection Chamber's assessment that it lacks "the same fantastical imagination that was the series calling card in its early days"[^ref-2] speaks to both the game's strengths as pure entertainment and its limitations as a creative work.
+The game's legacy is one of accessible entertainment rather than pinball simulation depth. As Ron Dulin noted in his contemporary GameSpot review, it was "meant as nothing more than a fun diversion" rather than a hard-core simulation[^ref-21]. Some MyAbandonware commenters credit it as their introduction to pinball[^ref-10]. The Collection Chamber's assessment that it lacks "the same fantastical imagination that was the series calling card in its early days"[^ref-2] speaks to both the game's strengths as pure entertainment and its limitations as a creative work.
 
-The Game Boy Color port demonstrated the challenges of translating pinball physics to portable hardware, with its shared engine ancestry with Disney's Little Mermaid Pinball revealing the compromises necessary for the platform[^ref-7]. Despite its flaws, the portable version brought the experience to a new audience and represented Sierra's last major portable gaming initiative before the company's eventual dissolution.
+The Game Boy Color port demonstrated the challenges of translating pinball physics to portable hardware, with its shared engine ancestry with Disney's Little Mermaid Pinball revealing the compromises necessary for the platform[^ref-7].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on major digital stores[^ref-18]
+- Not currently sold digitally; PCGamingWiki lists retail as the only availability[^ref-17]
 - Physical copies available through used game retailers[^ref-11]
 
 **Download / Preservation**
@@ -266,9 +267,9 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 [^ref-12]: [Honest Gamers – Game Boy Color Version](https://www.honestgamers.com/1761/game-boy-color/3d-ultra-pinball-thrill-ride/game.html) – GBC publisher information, release date
 [^ref-13]: [Giant Bomb](https://www.giantbomb.com/3-d-ultra-pinball-thrillride/3030-18093/) – game database with wiki info
 [^ref-14]: [IGDB](https://www.igdb.com/games/3-d-ultra-pinball-thrillride) – Internet Game Database entry
-[^ref-15]: [GameFAQs](https://gamefaqs.gamespot.com/pc/196472-3-d-ultra-pinball-thrillride) – game database entry
-[^ref-16]: [MobyGames – 3-D Ultra Pinball: Thrill Ride (PC) credits](https://www.mobygames.com/game/935/3-d-ultra-pinball-thrill-ride/credits/) – Development team credits, Dynamix and Left Field Productions attribution
-[^ref-17]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/3-D_Ultra_Pinball:_Thrillride) – technical compatibility
-[^ref-18]: [GOG Dreamlist](https://www.gog.com/dreamlist) – community requests
-[^ref-19]: [MobyGames – 3-D Ultra Pinball: Thrill Ride (PC)](https://www.mobygames.com/game/935/3-d-ultra-pinball-thrill-ride/) – game metadata, platform releases, alternate-title information
+[^ref-15]: [GameFAQs – 3-D Ultra Pinball: Thrillride for PC](https://gamefaqs.gamespot.com/pc/259171-3-d-ultra-pinball-thrillride) – game database entry
+[^ref-16]: [MobyGames – 3-D Ultra Pinball: Thrillride credits (Windows, 2000)](https://www.mobygames.com/game/2706/3-d-ultra-pinball-thrillride/credits/) – PC development team credits, designer Kyle Miller
+[^ref-17]: [PCGamingWiki – 3-D Ultra Pinball: Thrillride](https://www.pcgamingwiki.com/wiki/3-D_Ultra_Pinball:_Thrillride) – June 25, 2000 release date, 1.00 to 1.01 patch, retail-only availability
+[^ref-19]: [MobyGames – 3-D Ultra Pinball: Thrillride (2000)](https://www.mobygames.com/game/2706/3-d-ultra-pinball-thrillride/) – Windows/Macintosh 2000 release, Sierra On-Line publisher, Dynamix developer
 [^ref-20]: [Kotaku – 3-D Ultra Pinball: Thrillride](https://kotaku.com/games/3-d-ultra-pinball-thrillride) – database entry with game overview and features list
+[^ref-21]: [GameSpot – 3D Ultra Pinball Thrillride Review](https://www.gamespot.com/reviews/3d-ultra-pinball-thrillride-review/1900-2617851/) – Ron Dulin, 6.3 "Fair"; ease and length criticism
