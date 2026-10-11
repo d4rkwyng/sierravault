@@ -136,7 +136,7 @@ The game supported an impressive array of languages for localization: English, F
 - **DirectX:** Version 8.0/9.0
 - **Sound Card:** 8 Bit compatible
 
-**Recommended Requirements:**[^ref-27]
+**Recommended Requirements** *(source needed)*:
 - **Processor:** Pentium 4 2.0 GHz
 - **RAM:** 2 GB
 - **Hard Disk Space:** 1.8 GB
@@ -208,11 +208,6 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 - Not available on GOG or Steam[^ref-22]
 - Retail copies occasionally available through secondary markets
 
-**Download / Preservation**
-- [Internet Archive - CD-ROM Image](https://archive.org/details/gobliiins4cdrom)[^ref-32]
-- [Internet Archive - Spanish Version](https://archive.org/details/Gobliiins4Spanish)[^ref-33]
-- [Internet Archive - Multi-language](https://archive.org/details/gobliiins-4)[^ref-34]
-
 **Patches & Updates**
 - [Sierra Help - Patches Page](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/GobliiinsSeriesUpdates.html)[^ref-29]
 - [Patches Scrolls - Gobliiins 4](https://www.patches-scrolls.com/gobliiins4.php)[^ref-29]
@@ -255,14 +250,10 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 [^ref-24]: [MobyGames – Gobliiins (Original)](http://www.mobygames.com/game/atari-st/gobliiins) – original game credits, series history
 [^ref-25]: [Wayback Machine – Gobliiins.com Author Page](https://web.archive.org/web/20210129133754/http://www.gobliiins.com/Auteur_ru.htm) – development credits, Gilhodes biography
 [^ref-26]: GameCopyWorld – Gobliiins 4 *(link removed: no-CD/crack site)* – protection, languages, version info
-[^ref-27]: [Games4PCDownload – Gobliiins 4](http://games4pcdownload.blogspot.com/2017/04/download-pc-games-gobliiins-4.html) – recommended system requirements
 [^ref-28]: [Reddit – Gobliiins 4 Technical Issues](https://www.reddit.com/r/adventuregames/comments/1dpg254/gobliiins_4_wont_work/) – compatibility problems
 [^ref-29]: [Sierra Help – Gobliiins Series Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/GobliiinsSeriesUpdates.html) – available patches
 [^ref-30]: [Wayback Machine – MobyGames Gobliiins](https://web.archive.org/web/20080228044614/http://www.mobygames.com/game/atari-st/gobliiins) – US character names
 [^ref-31]: [Pierre Gilhodes itch.io – Gobliiins 5](https://pierre-gilhodes.itch.io/gobliiins5) – sequel pricing, engine
-[^ref-32]: [Internet Archive – Gobliiins 4 CD-ROM](https://archive.org/details/gobliiins4cdrom) – preservation copy
-[^ref-33]: [Internet Archive – Gobliiins 4 Spanish](https://archive.org/details/Gobliiins4Spanish) – Spanish version
-[^ref-34]: [Internet Archive – Gobliiins 4 Multi-language](https://archive.org/details/gobliiins-4) – language options
 [^ref-35]: [GamesIndustry.biz – GamersGate Release](https://www.gamesindustry.biz/gobliiins-4-puzzle-adventure-available-for-download-from-gamersgate) – digital distribution, magazine quotes
 [^ref-36]: [LaunchBox Games Database – Gobliiins 4](https://gamesdb.launchbox-app.com/games/details/57336-gobliiins-4) – release date, developer, GameRankings score
 [^ref-37]: [Gamepressure – Gobliiins 4](https://www.gamepressure.com/games/gobliiins-4/ze1e7a) – user score, system requirements
