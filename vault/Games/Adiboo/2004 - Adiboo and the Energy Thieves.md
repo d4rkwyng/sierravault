@@ -177,7 +177,6 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 - Not currently available on major digital platforms
 
 **Download / Preservation**
-- [Old Games Download](https://oldgamesdownload.com/adiboo-and-the-energy-thieves/) - Abandonware archive[^ref-13]
 
 ## See Also
 
@@ -200,7 +199,7 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 [^ref-10]: [MobyGames – Reviews](https://www.mobygames.com/game/138556/the-energy-thieves/reviews/) – critic score aggregate
 [^ref-11]: [Backloggd – Adiboo and the Energy Thieves](https://backloggd.com/games/adiboo-and-the-energy-thieves/) – user ratings, platforms, publishers, user statistics
 [^ref-12]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – developer information, release year
-[^ref-13]: [Old Games Download](https://oldgamesdownload.com/adiboo-and-the-energy-thieves/) – German title, technical issues, file size, publishers
+[^ref-13]: Old Games Download *(link removed 2026-10-11: the site offers the game with a cracked executable; claims citing it need re-sourcing)*
 [^ref-14]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/images/58713-adiboo-and-the-energy-thieves) – regional releases, release date
 [^ref-15]: [Metacritic – Adiboo and the Energy Thieves](https://www.metacritic.com/game/adiboo-and-the-energy-thieves/) – platforms, release date, developer, publisher
 [^ref-16]: [Video Games Museum](https://www.video-games-museum.com/en/game/Adiboo-and-the-Energy-Thieves/80/2/49356/reviews) – platform confirmation, developer
