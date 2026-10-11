@@ -238,7 +238,7 @@ The game occupies an interesting position within Sierra's broader catalog as a C
 [^ref-4]: [TV Tropes – Adiboo Magical Playland](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AdibooMagicalPlayland) – French origins, Tintin reference, Christmas decorations, swing easter egg
 [^ref-5]: [MyAbandonware – Adiboo Magical Playland](https://www.myabandonware.com/game/adiboo-magical-playland-dys) – versions, curriculum support, file size, technical issues, expansion info, ratings
 [^ref-6]: [Backloggd – Adiboo Magical Playland](https://backloggd.com/games/adiboo-magical-playland/) – user statistics, gameplay description, publisher info
-[^ref-7]: [Recover Your Life Forum](http://www.recoveryourlife.com/forum/showthread.php?t=205487) – detailed gameplay descriptions, visual style, room layouts
+[^ref-7]: Personal forum recollection *(link removed 2026-10-11: posted on a mental-health support community, not an appropriate public citation; gameplay claims citing it need re-sourcing)*
 [^ref-8]: [LaunchBox Games Database – Adiboo Magical Playland](https://gamesdb.launchbox-app.com/games/details/112116-adiboo-magical-playland) – mini-games, ESRB rating, French developers note
 [^ref-9]: [The Casual Gamer Blog – Adiboo](https://thecasualgamernet.wordpress.com/tag/adiboo/) – character descriptions, Giant Bomb quote, Coktel Vision closure
 [^ref-10]: [TV Tropes – YMMV/Adiboo Magical Playland](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/AdibooMagicalPlayland) – disturbing content, Play Toons crossover, cooking mini-game, face design
