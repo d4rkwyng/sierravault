@@ -413,7 +413,7 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-48]: [Rock Paper Shotgun – Have You Played… Gabriel Knight: Sins of the Fathers?](https://www.rockpapershotgun.com/have-you-played-gabriel-knight-sins-of-fathers) — Snake-scale soft-lock; Grace Nakimura "acerbic, loyal, modest" passage
 [^ref-49]: [GK Pages – Gabriel Knight 1 Gameplay Secrets](https://gkpages.altervista.org/Gameplay/GK1_08.html) — Schloss Ritter car-accident Easter egg
 [^ref-50]: [IMDb – Gabriel Knight: Sins of the Fathers (1993)](https://www.imdb.com/title/tt0109865/) — User rating 9.0/10 from 813 ratings (as read January 2026)
-[^ref-51]: [OldGames.sk – Gabriel Knight: Sins of the Fathers](https://www.oldgames.sk/en/game/gabriel-knight-sins-of-the-fathers/) — Site rating 95%
+[^ref-51]: OldGames.sk – Gabriel Knight: Sins of the Fathers (link removed: site offers in-browser play of the still-sold game) — Site rating 95%
 [^ref-52]: [GOG Database – Gabriel Knight: Sins of the Fathers](https://www.gogdb.org/product/1207658828) — GOG build history (version 1.1, 2018-04-23)
 [^ref-53]: [PCGamingWiki – Gabriel Knight: Sins of the Fathers - 20th Anniversary Edition](https://www.pcgamingwiki.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers_-_20th_Anniversary_Edition) — Developers, publisher, Unity 5 engine
 [^ref-54]: [GameCritics – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition Review (Nick Kummert)](https://gamecritics.com/nick-kummert/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition-review/) — 3D models on 2D hand-drawn backdrops; "pinnacle," "executed unevenly," "Janky animations" passages
