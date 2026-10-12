@@ -153,7 +153,7 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 
 ## References
 
-[^ref-1]: [AbandonwareDOS - Legend of Djel](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Legend+of+Djel&gid=1574) - Game listing and download
+[^ref-1]: AbandonwareDOS *(link removed 2026-10-11: the ID opened a Commander Keen 2 download, a game still sold; claim needs re-sourcing)*
 [^ref-2]: Adventure Gamers - Coktel Vision *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Developer profile including Legend of Djel
 [^ref-3]: [Adventures Index Blog](http://adventures-index10.blogspot.com/2008/03/legend-of-djel-tomahawk-1989-home.html) - Basic game information and plot description
 [^ref-4]: [The Adventurers' Guild](https://advgamer.blogspot.com/2016/12/missed-classic-legend-of-djel-won-with.html) - Retrospective review with detailed scoring breakdown
