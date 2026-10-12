@@ -6,11 +6,11 @@ defunct: 2004
 headquarters: "Watertown, Massachusetts"
 notable_games: ["Indianapolis 500: The Simulation", "NASCAR Racing", "IndyCar Racing"]
 parent_company: "Sierra On-Line (1995-2004)"
-last_updated: "2026-10-09"
+last_updated: "2026-10-12"
 ---
 # Papyrus Design Group
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
@@ -38,7 +38,7 @@ The studio's relationship with Sierra remained productive throughout the late 19
 
 Following Sierra's acquisition by French media conglomerate Vivendi Universal, Papyrus faced increasing pressure to adapt their development approach to changing market conditions.[^ref-16] Co-founder David Kaemmer left Papyrus in late 2002, just before the release of NASCAR Racing 2003 Season. At the end of the first quarter of 2004, NR2003 was pulled from shelves when its license expired, and the Papyrus website was shut down on April 5, 2004.[^ref-17]
 
-In 2004, Vivendi Universal made the decision to close Papyrus Design Group as part of broader corporate restructuring efforts.[^ref-18] The closure marked the end of one of racing simulation's most influential studios, though many former team members went on to work at other prominent racing game developers.[^ref-19] The studio's final release, NASCAR Racing 2003 Season, remained popular with modding communities for years after the company's closure, testament to the enduring quality of Papyrus's game engines.
+In 2004, Vivendi Universal made the decision to close Papyrus Design Group as part of broader corporate restructuring efforts.[^ref-18] On May 28, 2004, Vivendi and Papyrus sold the copyrights to *NASCAR Racing 2003 Season* to FIRST.net, LLC, which went on to develop iRacing using its engine.[^ref-17] The studio's final release, NASCAR Racing 2003 Season, remained popular with modding communities for years after the company's closure, testament to the enduring quality of Papyrus's game engines.
 
 ## Notable Games
 
@@ -99,5 +99,4 @@ The modding communities that formed around Papyrus games, particularly NASCAR Ra
 [^ref-16]: [Infinit Gamer](https://infinitgamer.com/developers/100082-papyrus-design-group.html) — Developer profile and game achievements
 [^ref-17]: [Papyrus Design Group - Wikipedia](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — Company facts and milestones: Kaemmer's 2002 departure, NR2003 license expiry, 2004 website shutdown
 [^ref-18]: [Game Pressure](https://www.gamepressure.com/games/game-company.asp?ID=165) — Studio closure and industry impact
-[^ref-19]: [Best DOS Games](https://bestdosgames.com/developers/papyrus-design-group) — Legacy and influence on racing simulation genre
 [^ref-20]: [Abandonware DOS](https://www.abandonwaredos.com/retro-game-company.php?cmp=43&n=papyrus-design-group) — Historical significance and game preservation

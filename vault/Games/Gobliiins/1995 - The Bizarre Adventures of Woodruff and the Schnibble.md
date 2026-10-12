@@ -10,7 +10,7 @@ series: Standalone (Gobliiins spiritual successor)
 engine: Gob
 protagonist: Woodruff
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-09'
+last_updated: '2026-10-12'
 composer: [Charles Callet]
 description: '*The Bizarre Adventures of Woodruff and the Schnibble* (known in Europe
   as *Woodruff and the Schnibble of Azimuth*) is a point-and-click adventure game...'
@@ -18,11 +18,11 @@ tags: [1990s, adventure, coktel, sierra, standalone-gobliiins-spiritual-successo
 ---
 # The Bizarre Adventures of Woodruff and the Schnibble
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-*The Bizarre Adventures of Woodruff and the Schnibble* (known in Europe as *Woodruff and the Schnibble of Azimuth*) is a point-and-click adventure game developed by French studio Coktel Vision and published by Sierra On-Line in 1994-1995.[^ref-1] The game represents one of the final major releases from Coktel Vision and stands as a testament to the unique creativity that Sierra On-Line nurtured among its collaborations with imaginative developers.[^ref-2] Set in a bizarre post-apocalyptic world populated by mutant creatures called Boozooks, the game blends comedy, puzzle-solving, and a surreal storyline that sets it apart from other titles of its era.[^ref-2]
+*The Bizarre Adventures of Woodruff and the Schnibble* (known in Europe as *Woodruff and the Schnibble of Azimuth*) is a point-and-click adventure game developed by French studio Coktel Vision and published by Sierra On-Line in 1994-1995.[^ref-1] It is set on a post-apocalyptic Earth, overgrown with jungle after an atomic war and populated by mutant races, among them the peaceful Boozooks.[^ref-1]
 
 Despite its cartoon façade, *The Bizarre Adventures of Woodruff and the Schnibble* has a surprisingly deep and complex plot, exploring themes of xenophobia, racism, and cultural interaction beneath its whimsical exterior.[^ref-3] The game shares the visual style, gameplay, and offbeat humor of Coktel Vision's beloved *Gobliiins* series, though it is not officially part of that franchise.[^ref-4] Created by artist [[Pierre Gilhodes]], who also designed the *Gobliiins* games, the title features hand-painted backgrounds and animation that reviewers compared favorably to Disney quality.[^ref-5] Both Woodruff and the world he finds himself in are not only unique, but twisted and charming at the same time—making this one of the most distinctive point-and-click experiences of the 1990s.[^ref-3]
 
@@ -235,7 +235,7 @@ ScummVM support has been crucial for preservation efforts, allowing the game to 
 
 *The Bizarre Adventures of Woodruff and the Schnibble* stands as a fascinating artifact of 1990s adventure gaming—simultaneously beloved and frustrating, accessible and impenetrable. Its place in gaming history is complex: while it failed commercially, it achieved exactly what its creators intended artistically. The game's willingness to tackle serious themes of racism, oppression, and cultural reconciliation through the lens of absurdist comedy was ahead of its time.[^ref-17]
 
-The tension between whimsy and underlying peril makes the journey simultaneously playful and suspenseful, offering a truly distinctive point-and-click experience for adventure enthusiasts.[^ref-2] Modern critics recognize that Woodruff, with his endearing naivety and unwavering courage, embodies the quest for lost innocence in a corrupt world.[^ref-29] The game's difficulty, once seen as a significant flaw, has become part of its mystique—challenging players to think in deliberately unconventional ways. While certainly not for everyone, the game remains recommended to puzzle experts willing to embrace its particular brand of moon logic, though they should be prepared to take some Advil while playing.[^ref-19]
+Modern critics recognize that Woodruff, with his endearing naivety and unwavering courage, embodies the quest for lost innocence in a corrupt world.[^ref-29] The game's difficulty, once seen as a significant flaw, has become part of its mystique—challenging players to think in deliberately unconventional ways. While certainly not for everyone, the game remains recommended to puzzle experts willing to embrace its particular brand of moon logic, though they should be prepared to take some Advil while playing.[^ref-19]
 
 ## Downloads
 
@@ -265,7 +265,6 @@ The tension between whimsy and underlying peril makes the journey simultaneously
 ## References
 
 [^ref-1]: [Wikipedia – The Bizarre Adventures of Woodruff and the Schnibble](https://en.wikipedia.org/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – release dates, review scores, voice cast, development details
-[^ref-2]: [Best DOS Games – Woodruff and the Schnibble](https://bestdosgames.com/games/the-bizarre-adventures-of-woodruff-and-the-schnibble) – overview, creative significance
 [^ref-3]: [Adventure Classic Gaming – Review](https://www.adventureclassicgaming.com/index.php/site/reviews/382/) – ratings, plot analysis, technical specifications, bugs
 [^ref-4]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/the-bizarre-adventures-of-woodruff-and-the-schnibble) – regional titles, Gobliiins relationship, development context
 [^ref-5]: [Wikipedia – The Bizarre Adventures of Woodruff and the Schnibble (Reception)](https://en.wikipedia.org/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble#Reception) – December 1994 Windows 3.1 release, Computer Game Review 88/87/85, Gamer's Zone criticisms, French voice cast

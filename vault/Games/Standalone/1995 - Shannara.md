@@ -10,7 +10,7 @@ series: Shannara (standalone)
 engine: Legend Entertainment's graphic adventure system
 protagonist: Jak Ohmsford
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-09'
+last_updated: '2026-10-12'
 composer: [George Alistair Sanger]
 description: Shannara is a first-person point-and-click adventure game released in
   December 1995, based on Terry Brooks' bestselling fantasy novel series of the same...
@@ -18,13 +18,13 @@ tags: [1990s, adventure, coles, shannara-standalone, sierra]
 ---
 # Shannara
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
 Shannara is a first-person point-and-click adventure game released in December 1995, based on Terry Brooks' bestselling fantasy novel series of the same name [^ref-1]. Developed by Legend Entertainment and designed by [[Corey Cole]] and [[Lori Ann Cole]]—the celebrated creators of Sierra's Quest for Glory series—the game presents an original story set between the first and second books of Brooks' original trilogy [^ref-2]. The game was developed during what has been called the second "bookware" era of game publishing, when literary properties were frequently adapted into interactive experiences [^ref-3].
 
-The game places players in the role of Jak Ohmsford, the son of Shea Ohmsford (the protagonist of *The Sword of Shannara*), who must unite the various races of the Four Lands to combat the resurrected evil of the Warlock Lord Brona [^ref-4]. Legend Entertainment, a studio celebrated for marrying illustrated graphics with the depth of traditional interactive fiction, brought their expertise in text-heavy adventure games to the Shannara universe [^ref-5]. The lush, colorful SVGA graphics represented a significant leap beyond any of Legend's previous games, though the adventure maintained the studio's signature emphasis on prose and dialogue over animation [^ref-2].
+The game places players in the role of Jak Ohmsford, the son of Shea Ohmsford (the protagonist of *The Sword of Shannara*), who must unite the various races of the Four Lands to combat the resurrected evil of the Warlock Lord Brona [^ref-4]. Legend Entertainment's graphic adventures had evolved from text-based games, and the studio was known for eloquent, detailed writing [^ref-2]. The lush, colorful SVGA graphics represented a significant leap beyond any of Legend's previous games, but *Hardcore Gaming 101* found Shannara "remarkably stripped down" next to them, with far less descriptive text and dialogue than Legend's earlier *Death Gate* and *Companions of Xanth* [^ref-2].
 
 Interestingly, author Terry Brooks himself had virtually no involvement with the game's development. In a later interview, when asked about the game and whether he interacted with the Cole designers, Brooks admitted: "I don't... you know, I don't know anything about it. [laughs]... No, I don't remember a thing" [^ref-6]. This disconnect between the source material's creator and the game developers reflects the sometimes distant relationship between licensed properties and their adaptations during this era.[^ref-35][^ref-35]
 
@@ -67,7 +67,7 @@ The game features several distinct modes of play that players cycle through as t
 - **Map Mode:** A top-down world map for traveling between major locations, similar to Ultima's overworld system [^ref-2]
 - **Dream Mode:** Special sequences involving visions and supernatural elements
 
-The game progresses through various regions of the Four Lands as Jak seeks allies and artifacts. Key locations include the various racial kingdoms—Elven lands ruled by Eventine Elessedil, Dwarf territories, Troll strongholds, and human settlements like Tyrsis and Leah [^ref-13]. An estimated play time of 8-10 hours makes this a relatively compact adventure by contemporary standards [^ref-5].
+The game progresses through various regions of the Four Lands as Jak seeks allies and artifacts. Key locations include the various racial kingdoms—Elven lands ruled by Eventine Elessedil, Dwarf territories, Troll strongholds, and human settlements like Tyrsis and Leah [^ref-13].
 
 ### Puzzles and Mechanics
 
@@ -166,7 +166,6 @@ A notable bug prevented players from restoring saved games from the combat scree
 ### Easter Eggs and Trivia
 
 - The box cover art was painted by renowned fantasy artist Boris Vallejo [^ref-7]
-- The game features branching narrative elements with multiple endings based on player choices [^ref-5]
 - Terry Brooks had no knowledge of or involvement in the game's development despite licensing his property [^ref-6]
 - The game's story is set chronologically between *The Sword of Shannara* (1977) and *The Elfstones of Shannara* (1982) [^ref-2]
 
@@ -221,7 +220,7 @@ Shannara has not appeared in any official compilation releases. The game remains
 
 ### Fan Projects
 
-The game is preserved through various abandonware sites and can be played through browser-based DOS emulation on sites like ClassicReload.com [^ref-33] and BestDosGames.com [^ref-5]. The Internet Archive maintains a playable version compatible with AO486 MiSTer FPGA hardware [^ref-34].
+The game is preserved through various abandonware sites and can be played through browser-based DOS emulation on sites like ClassicReload.com [^ref-33]. The Internet Archive maintains a playable version compatible with AO486 MiSTer FPGA hardware [^ref-34].
 
 ### Related Publications
 
@@ -280,7 +279,6 @@ Legend Entertainment's visual achievement with Shannara showed the studio could 
 [^ref-2]: [Hardcore Gaming 101 – Shannara](http://www.hardcoregaming101.net/shannara/) – development context, graphics assessment, story placement, critical analysis
 [^ref-3]: [Filfre.net – Shannara Development](https://www.filfre.net/?s=Shannara) – bookware era context, Cole quotes, development troubles
 [^ref-4]: [eBay Product Listing](https://www.ebay.com/p/56237470) – game description, plot summary, technical features
-[^ref-5]: [BestDosGames – Shannara](https://bestdosgames.com/games/shannara) – developer info, play time, interface description
 [^ref-6]: [Lightspeed Magazine – Terry Brooks Interview](https://www.lightspeedmagazine.com/nonfiction/interview-terry-brooks/) – Brooks' lack of game involvement
 [^ref-7]: [MobyGames – Shannara](https://www.mobygames.com/game/3208/shannara/) – developers, composer, engine, cover artist, rating
 [^ref-8]: [Free Game Empire – Shannara Manual](https://www.freegameempire.com/games/Shannara/manual) – system requirements, combat advice, technical specs

@@ -6,11 +6,11 @@ defunct: null
 headquarters: "Eugene, Oregon, United States"
 notable_games: ["The Incredible Machine", "Quarky & Quaysoo's Turbo Science", "Turbo Learning: Mega Math"]
 parent_company: "Sierra On-Line"
-last_updated: "2026-05-08"
+last_updated: "2026-10-12"
 ---
 # Jeff Tunnell Productions
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
@@ -28,7 +28,7 @@ The new studio was established in Eugene, Oregon, allowing Tunnell to maintain h
 
 ### Sierra Era
 
-The relationship between Jeff Tunnell Productions and Sierra On-Line proved mutually beneficial, with Sierra providing publishing support, marketing resources, and distribution channels while allowing Tunnell considerable creative autonomy.[^ref-13] This partnership enabled the studio to focus on game development without the overhead costs and business complications of independent publishing in the competitive 1990s market.[^ref-14] Sierra recognized the value of Tunnell's track record and gave him significant latitude to pursue innovative projects that aligned with the publisher's expanding educational software division.[^ref-15]
+The relationship between Jeff Tunnell Productions and Sierra On-Line proved mutually beneficial, with Sierra providing publishing support, marketing resources, and distribution channels while allowing Tunnell considerable creative autonomy.[^ref-13] Sierra recognized the value of Tunnell's track record and gave him significant latitude to pursue innovative projects that aligned with the publisher's expanding educational software division.[^ref-15]
 
 During this period, the studio developed several notable titles that expanded upon Tunnell's reputation for creative puzzle design. Quarky & Quaysoo's Turbo Science, released in 1992, demonstrated the company's commitment to educational content while maintaining high production values and engaging gameplay mechanics.[^ref-16] The game featured Tunnell's signature approach to learning through experimentation, allowing players to discover scientific principles through hands-on interaction rather than rote memorization.[^ref-17]
 
@@ -56,7 +56,7 @@ The 2011 iteration of The Incredible Machine represented a modern revival of the
 
 ## Key People
 
-Jeff Tunnell served as the creative driving force behind the studio, bringing his extensive experience from Dynamix and his reputation as an innovative game designer to every project.[^ref-13] His design philosophy emphasized player agency and discovery-based learning, principles that became hallmarks of all Jeff Tunnell Productions titles.[^ref-14] Tunnell's background in both technical programming and creative design allowed him to envision and implement complex interactive systems that other designers might consider too ambitious or technically challenging.[^ref-15]
+Jeff Tunnell served as the creative driving force behind the studio, bringing his extensive experience from Dynamix and his reputation as an innovative game designer to every project.[^ref-13] Tunnell's background in both technical programming and creative design allowed him to envision and implement complex interactive systems that other designers might consider too ambitious or technically challenging.[^ref-15]
 
 The studio attracted talented developers who shared Tunnell's vision for intelligent entertainment, creating a collaborative environment that fostered innovation in educational gaming.[^ref-16] Team members were selected not only for their technical skills but also for their understanding of learning theory and educational psychology, reflecting the studio's serious commitment to creating genuinely effective learning tools.[^ref-17]
 
@@ -88,7 +88,6 @@ The company's emphasis on player experimentation and discovery learning helped l
 [^ref-11]: [Giant Bomb Search](https://www.giantbomb.com/search/?q=Jeff+Tunnell+Productions&filter=company) — Gaming database information
 [^ref-12]: [Play Classic Games](https://playclassic.games/developer/jeff-tunnell-productions/) — Classic gaming perspective
 [^ref-13]: [Syntax 2000 Interview](https://www.syntax2000.co.uk/issues/85/jeff_int.art.txt) — Developer interview and insights
-[^ref-14]: [Best DOS Games](https://bestdosgames.com/developers/jeff-tunnell-productions) — DOS era game coverage
 [^ref-15]: [Glitchwave](https://glitchwave.com/game-company/jeff-tunnell-productions/) — Company profile and game ratings
 [^ref-16]: [My Abandonware](https://www.myabandonware.com/browse/developer/jeff-tunnell-productions-ax/) — Vintage game archive
 [^ref-17]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Jeffrey_Tunnell) — Background on Tunnell's earlier work
