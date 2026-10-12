@@ -2,7 +2,7 @@
 title: 'Crazy Nick''s Software Picks: Roger Wilco''s Spaced Out Game Pack'
 release_year: 1992
 developer: Sierra On-Line
-designer: [Bill Davis]
+designer: [Unknown]
 publisher: Sierra On-Line
 genre: Arcade
 platforms: [DOS]
@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks, Space Quest
 engine: SCI1.1
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-12'
 description: 'Crazy Nick''s Software Picks: Roger Wilco''s Spaced Out Game Pack is
   a budget-priced mini-game compilation released by Sierra On-Line in 1992 as part
   of the...'
@@ -18,89 +18,86 @@ tags: [1990s, crazy-nick-s-software-picks-space-quest, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack is a budget-priced mini-game compilation released by [[Sierra On-Line]] in 1992 as part of the Crazy Nick's Software Picks series[^ref-1][^ref-21]. The collection features three arcade-style games extracted from the Space Quest adventure game series, starring the beloved janitor-turned-space-hero Roger Wilco[^ref-2]. As one of five titles in the Crazy Nick's line, this pack joined similar compilations based on other Sierra franchises including King's Quest, Leisure Suit Larry, Laura Bow, and Conquests of the Longbow[^ref-3].
+Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack is a budget-priced mini-game compilation released by [[Sierra On-Line]] in 1992 as part of the Crazy Nick's Software Picks series[^ref-1][^ref-16]. It collects three arcade-style mini-games from the Space Quest adventure series, featuring Roger Wilco[^ref-1]. It was one of five Crazy Nick's titles, alongside packs built around King Graham, Leisure Suit Larry, Laura Bow and Robin Hood[^ref-3][^ref-18].
 
-The pack was designed to capitalize on the popularity of Space Quest's memorable mini-game sequences by offering them as standalone entertainment[^ref-2][^ref-4]. Sierra was experimenting with lower-priced software products during this period, and the Crazy Nick's series represented an attempt to monetize existing game assets in a new format[^ref-3]. The compilation draws primarily from Space Quest IV: Roger Wilco and the Time Rippers, with one game originating from the VGA remake of the original Space Quest[^ref-5][^ref-16].
+Sierra's InterAction magazine announced the line in its Summer 1992 issue as low-priced VGA games made of "favorite arcade and strategy sequences extracted from best-selling Sierra games," sold in blister packs[^ref-18]. Two of the pack's games, Ms. Astro Chicken and Monolith Burger, come from Space Quest IV: Roger Wilco and the Time Rippers, and the third, Sand Skimmer, comes from the VGA remake of the original Space Quest[^ref-16][^ref-21].
 
 > [!info]- Game Info
-> **Developer:** [[Sierra On-Line]][^ref-2]
-> **Director:** [[Bill Davis]][^ref-2]
-> **Publisher:** Sierra On-Line[^ref-2]
+> **Developer:** [[Sierra On-Line]][^ref-1]
+> **Director:** [[Bill Davis]][^ref-2][^ref-24]
+> **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI1.1[^ref-6]
-> **Platforms:** MS-DOS[^ref-2]
-> **Release Year:** 1992
+> **Platforms:** MS-DOS[^ref-1]
+> **Release Year:** 1992[^ref-1][^ref-16]
 > **Series:** Crazy Nick's Software Picks, Space Quest
 > **Protagonist:** Roger Wilco
 > **Sierra Lineage:** Core Sierra
-> **Designer:** Bill Davis
 
 ## Story Summary
 
-The pack presents Roger Wilco as a cadet at Starfleet Academy, serving in the dual capacity of both cadet and janitor[^ref-1]. Rather than following a narrative structure, the compilation offers three discrete mini-game experiences without an overarching storyline connecting them[^ref-2].
+The compilation has no overarching storyline. It offers three separate mini-games that the player picks from a main menu[^ref-21].
 
-In Ms. Astro Chicken, Roger takes on the persona of a cosmic chicken navigating a dangerous landscape filled with predators[^ref-7]. The Monolith Burger game places Roger behind the counter of the famous intergalactic fast-food establishment, serving demanding customers[^ref-7]. Finally, Sand Skimmer sends Roger across the harsh desert of Planet Kerona, attempting to reach the settlement of Ulence Flats[^ref-7].
+In Ms. Astro Chicken, the player flies a chicken that must avoid being shot down by a farmer or eaten by a dog, while watching out for a flying weasel[^ref-16]. In Monolith Burger, the player assembles burgers on a conveyor belt at the Space Quest series' fast-food chain[^ref-16][^ref-20]. In Sand Skimmer, the player steers a skimmer across the desert of planet Kerona toward Ulence Flats[^ref-1][^ref-16].
 
-These scenarios connect loosely to the broader Space Quest universe established in the main adventure games. The Monolith Burger location appears throughout the series as a recurring gag on fast-food culture, while Planet Kerona serves as the setting for the original Space Quest game[^ref-5]. The Ms. Astro Chicken game continues the Astro Chicken tradition established in Space Quest III, featuring a female counterpart to the original arcade character[^ref-4][^ref-19]. The Monolith Burger location appears throughout the series as a recurring gag on fast-food culture[^ref-20].
+The arcade games tie into the wider Space Quest universe. Ms. Astro Chicken is presented as the mate of the original Astro Chicken[^ref-19], whose arcade game first appeared in Space Quest III[^ref-23]. Monolith Burger is the series' ubiquitous fast-food franchise[^ref-20].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Unlike some other Crazy Nick's compilations, Roger Wilco's Spaced Out Game Pack does not feature a menu bar or options screen[^ref-5]. Players navigate between games through a simple selection interface. The games support both mouse and keyboard input, with arrow keys controlling movement and the Enter/Return key handling actions[^ref-5]. Pressing F9 allows players to quit any of the individual games[^ref-5].
+A main menu lets the player choose a game. An "About Games" button shows instructions, information on other Crazy Nick's and Sierra titles, and the credits, and "Quit Games" exits[^ref-21]. Unlike some other Crazy Nick's compilations, this pack has no menu bar or options screen[^ref-21]. All three games can be played with a mouse or with the keyboard arrow keys and Enter/Return, and the walkthrough's instructions for each game give F9 as the quit key[^ref-21].
 
-The control scheme varies by mini-game, with each offering a distinct gameplay perspective[^ref-2]. Ms. Astro Chicken uses side-scrolling movement, Monolith Burger employs a top-down overhead view, and Sand Skimmer presents a behind-view racing perspective[^ref-2].
+MobyGames lists the pack's perspectives as side view, top-down and behind view[^ref-1].
 
 ### Structure and Progression
 
 The compilation offers three standalone mini-games without interconnected progression:
 
-- **Ms. Astro Chicken: Flight of the Pullet:** A 2D side-scrolling game where the player controls a chicken that must fly to its destination while avoiding flying fox predators and attacking hunter dogs by laying eggs on their heads[^ref-7][^ref-8]
-- **Monolith Burger:** An overhead-view game where Roger works at a burger stand, taking customer orders and assembling burgers with the exact ingredients requested in the proper order[^ref-7]
-- **Sand Skimmer:** A vehicle-based game where Roger pilots a skimmer through the desert of Planet Kerona, navigating obstacles to reach Ulence Flats[^ref-7]
+- **Ms. Astro Chicken: Flight of the Pullet:** The player flies the chicken overhead and drops eggs on the farmer and the dog. The egg supply is limited and is refilled by eating corn. Scoring 300 or more points completes the game[^ref-16][^ref-21]. The in-game title is credited to the fictional "ScumSoft"[^ref-8]
+- **Monolith Burger:** The player puts all the condiments on a patty as it moves down the conveyor belt, then a bun on top at the end. Condiments can go on "in any order", but the bun must go on last. Incomplete burgers are zapped by the Master Burger 2000, and too many rejects get the player fired[^ref-16][^ref-21]
+- **Sand Skimmer:** The player steers the skimmer across the sand toward Ulence Flats, avoiding obstacles. Small rocks cause damage, which a damage meter tracks, and large rocks "cut you NO slack!"[^ref-16][^ref-21]
 
 ### Puzzles and Mechanics
 
-Each mini-game presents distinct mechanical challenges. Ms. Astro Chicken requires players to navigate a side-scrolling environment, avoiding enemies approaching from the opposite direction while timing egg drops to neutralize ground-based threats[^ref-2]. The game demands coordination between flight controls and attack timing[^ref-5].
+In Ms. Astro Chicken, the player has to manage a limited egg supply and refill it with corn while using the eggs against ground enemies[^ref-21]. Super Adventures in Gaming's guest reviewer found the chicken extremely slow: "I played this for ten minutes; that is how slow she moves"[^ref-8].
 
-Monolith Burger tests memory and speed as players must remember customer orders and assemble burgers correctly while ingredients roll past on a conveyor system[^ref-5]. The gameplay becomes increasingly challenging as orders become more complex and timing more demanding[^ref-7].
+In Monolith Burger, the same reviewer noted the condiment sequence is shown once and "you don't get told it again in game." He found it "isn't particularly difficult to make a burger" and that "it doesn't seem like the belt gets any faster when you make them"[^ref-8].
 
-Sand Skimmer functions as an obstacle-avoidance game where players pilot a hovercraft through desert terrain[^ref-2]. The vehicle perspective requires players to judge distances and navigate around hazards blocking the path to Ulence Flats[^ref-5].
+In Sand Skimmer, the player positions the skimmer by mouse or with the left and right arrow keys, and pressing the same key again stops the drift[^ref-21].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Contemporary critical response to Roger Wilco's Spaced Out Game Pack was minimal, as budget compilations of this nature received limited coverage in gaming publications. The compilation was mentioned in Sierra's InterAction magazine in the Summer 1992 issue[^ref-5][^ref-18].
-
-The pack received harsh criticism from some players who encountered the games. One reviewer described the experience as "a horrible, horrible mess and a complete waste of time," criticizing the slow character movement and poor control responsiveness[^ref-8]. The same critic noted that "if the games responded to your controls in a timely manner, they might have been entertaining for a minute or two"[^ref-8].
+No contemporary reviews of the pack are known. The Sierra Chest lists no reviews[^ref-26]. The only period coverage found is Sierra's own announcement in InterAction, Summer 1992 (News Notes, pages 14–15)[^ref-5][^ref-18].
 
 ### Modern Assessment
 
-Modern assessments of the compilation vary considerably. Some Space Quest enthusiasts consider it "an absolute must have for Space Quest fans," praising the opportunity to enjoy standalone versions of memorable mini-games[^ref-4]. The nostalgia factor plays heavily in positive reviews, with users recalling fond memories of playing the games in various settings[^ref-4].
+The one known review is a 2011 guest post by mecha-neko on the Super Adventures in Gaming blog, and it was strongly negative[^ref-8]. It concluded: "If the games responded to your controls in a timely manner, they might have been entertaining for a minute or two. As they stand, they're a horrible, horrible mess and a complete waste of time"[^ref-8].
 
-The MyAbandonware community has given the title a perfect 5/5 rating based on 4 user votes, reflecting continued interest from retro gaming enthusiasts[^ref-4]. CDRomance reports over 1,316 downloads of the compilation[^ref-3].
+User comments on MyAbandonware are more fond. One commenter called it "An absolute must have for Space Quest fans," and another remembered playing it at a parent's office[^ref-4]. The page shows a 5/5 rating from 4 votes[^ref-4]. CDRomance offers all five Crazy Nick's packs as a single download, with 1,316 downloads for the whole bundle[^ref-3].
 
 **Aggregate Scores:**
 - **MyAbandonware:** 5/5 (4 votes)[^ref-4]
-- **FreeGameEmpire:** 1/5[^ref-7]
+- **FreeGameEmpire:** 3/5 (1 rating)[^ref-7]
 
 ## Development
 
 ### Origins
 
-The Crazy Nick's Software Picks series emerged from Sierra's strategy to leverage existing game assets for budget-priced products[^ref-3]. By extracting popular mini-games from full adventure titles, Sierra could offer affordable entertainment while maximizing the value of their development investments. The series concept allowed fans to enjoy specific gameplay sequences without purchasing or replaying entire adventure games[^ref-3].
+InterAction's Summer 1992 News Notes announced that "Crazy Nick... has launched his own line of games." Nick's Picks were to be "a line of low-priced (but high-quality) VGA games" that would start appearing in stores "in May or June"[^ref-18]. The first five were "favorite arcade and strategy sequences extracted from best-selling Sierra games and featuring Sierra characters as opponents," each on a single disk[^ref-18]. The magazine described this pack as "Featuring Skimmer Ride, Monolith Burger Maker, and the ever-popular Ms. Astro Chicken"[^ref-18].
 
-Space Quest creator Scott Murphy had established a distinct tone for the series, wanting to create "a game that was more fun" compared to Sierra's more serious medieval offerings[^ref-10]. Murphy noted that "Sierra was in a mindset where everything was medieval and it was all fairly serious," and he embraced concepts like "fun death" where "if the player is gonna die or fail, they should at least get a laugh out of it"[^ref-10].
+The source games' comic tone goes back to Space Quest's origins. Series co-creator Scott Murphy recalled: "Sierra was in a mindset where everything was medieval and it was all fairly serious. I wanted to do a game that was more fun"[^ref-10].
 
 ### Production
 
-The compilation was developed internally at Sierra On-Line under the direction of Bill Davis[^ref-2]. The production team assembled existing mini-games from Space Quest IV and the Space Quest I VGA remake into a cohesive package[^ref-5]. The music tracks were taken directly from the source games without re-recording[^ref-5].
+The pack was developed by Sierra On-Line and directed by Bill Davis[^ref-2][^ref-24]. It reuses mini-games from Space Quest IV and the Space Quest I VGA remake[^ref-16]. Its music also comes from those games[^ref-22].
 
-**Development Credits:**[^ref-2]
+**Development Credits:**[^ref-2][^ref-24]
 - **Director:** Bill Davis
 - **Producers:** Tony Caudill, [[Tammy Dargan]]
 - **Software Supervisor:** J. Mark Hood
@@ -110,94 +107,91 @@ The compilation was developed internally at Sierra On-Line under the direction o
 
 ### Technical Achievements
 
-The pack utilized Sierra's SCI1.1 interpreter, maintaining compatibility with the source games' technical standards[^ref-6]. The engine supported multiple display modes and sound card configurations common to Sierra products of the era[^ref-2].
+The pack runs on Sierra's SCI1.1 interpreter[^ref-6]. InterAction said all five Crazy Nick's collections "feature VGA graphics and major sound card support"[^ref-18].
 
-The compilation runs within the ScummVM emulator framework, ensuring modern compatibility for preservation purposes[^ref-3]. DOSBox support was confirmed on version 0.58 and later[^ref-4].
+ScummVM's SCI engine has a detection entry for the pack (game ID `cnick-sq`)[^ref-17]. MyAbandonware lists the game as supported in DOSBox 0.58[^ref-4].
 
 ### Technical Specifications
 
-**MS-DOS Version:**[^ref-4]
+**MS-DOS Version:**
 - **Engine:** SCI1.1[^ref-6]
-- **Audio:** PC Speaker, Sound Blaster support[^ref-8]
-- **File Size:** 442 KB[^ref-4]
+- **Media:** One 3.5" floppy disk in a blister card[^ref-16][^ref-25]
+- **Audio:** Sierra promoted "major sound card support"[^ref-18]. The 2011 reviewer could not get the game off PC speaker music[^ref-8]. A 2025 MyAbandonware commenter said that site's download is not configured for Sound Blaster music[^ref-4]
+- **Data files (ScummVM detection):** resource.map (879 bytes), resource.001 (364,921 bytes)[^ref-17]
+- **MyAbandonware download:** 442 KB (the size of the site's download, not of the installed game)[^ref-4]
 
-The game executables include PLAY.BAT, PLAY2.EXE, and SCIDHUV.EXE[^ref-11].
+MyAbandonware's browser-play page lists the executables PLAY.BAT, PLAY2.EXE and SCIDHUV.EXE[^ref-11].
 
 ### Cut Content
 
-No documented cut content exists specifically for this compilation, as the games were extracted from existing Space Quest titles rather than developed as original content.
+No documented cut content exists for this compilation. The games were taken from existing Space Quest titles rather than made as original content[^ref-16].
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | June 5, 1992 | IBM PC | Initial release[^ref-5] |
-| Alternate | 1993 | DOS | Secondary release year noted in some sources[^ref-4] |
+| Original | June 5, 1992 | IBM PC | First release per The Sierra Chest[^ref-21]. InterAction expected it in stores in May or June 1992[^ref-18] |
+
+No version number has been documented. MyAbandonware lists the year as 1993[^ref-4], but this conflicts with Sierra's own Summer 1992 announcement[^ref-18].
 
 **SCI Interpreter Version:**[^ref-6]
 
 | Game Version | Interpreter | Type | Notes |
 |--------------|-------------|------|-------|
-| 1.0 | SCI1.1 | SCI1.1 | Standard release |
+| Original | SCI1.1 | SCI1.1 | Only known release |
 
 ### Technical Issues
 
-Players have reported control responsiveness issues, particularly with mouse input[^ref-8]. The extremely slow character movement in certain games frustrated players expecting arcade-style reaction times[^ref-8]. Issues with serial ball mouse controls were specifically noted as problematic[^ref-8].
-
-One user reported that the download configuration did not properly enable Sound Blaster music playback[^ref-4].
+The 2011 Super Adventures in Gaming reviewer complained about very slow character movement and poor response to controls. He wrote that the main difficulty in Monolith Burger was "trying to get a shitty old serial ball mouse to do what you tell it to"[^ref-8].
 
 ### Easter Eggs and Trivia
 
-- **Ms. Astro Chicken** appears as an arcade game within Space Quest IV, where it can be played but is not required to complete the main adventure[^ref-8]
-- The compilation represents mini-games that originally served as brief diversions within larger narrative experiences[^ref-5]
-- The Sand Skimmer game originates from the Space Quest 1 VGA remake rather than Space Quest IV[^ref-5]
-- Music tracks are recycled directly from Space Quest 4 (Main Menu theme, Ms. Astro Chicken music, Monolith Burger music) and Space Quest 1 VGA (Sand Skimmer music)[^ref-5]
+- **Ms. Astro Chicken** and **Monolith Burger** were originally mini-games in Space Quest IV. **Sand Skimmer** comes from the Space Quest I VGA remake[^ref-16][^ref-21]
+- The original *Astro Chicken* arcade game is a mini-game in Space Quest III, and Sierra released it as a demo to promote that game[^ref-23]
+- The main menu theme, the Ms. Astro Chicken song and the Monolith Burger theme come from Space Quest 4. The Sand Skimmer song comes from Space Quest 1 VGA[^ref-22]
+- InterAction's announcement called the Sand Skimmer game "Skimmer Ride" and Monolith Burger "Monolith Burger Maker"[^ref-18]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Specific sales figures for Roger Wilco's Spaced Out Game Pack have not been documented. The Crazy Nick's Software Picks series as a whole represented Sierra's experiment with budget software pricing, with all five titles releasing in 1992[^ref-3].
+No sales figures for Roger Wilco's Spaced Out Game Pack have been documented. Sierra said the Crazy Nick's packs would retail for around $10[^ref-18].
 
-The broader Space Quest series achieved considerable commercial success, with combined sales surpassing 1.2 million units by the end of March 1996[^ref-12]. However, this figure encompasses the main adventure game releases rather than budget compilations.
+The Space Quest series as a whole had combined sales of more than 1.2 million units by the end of March 1996[^ref-12]. That figure covers the main series, not budget compilations like this one.
 
 ### Collections
 
-Roger Wilco's Spaced Out Game Pack was part of the five-title Crazy Nick's Software Picks series that included[^ref-3]:
+Roger Wilco's Spaced Out Game Pack was one of five Crazy Nick's Software Picks titles[^ref-3][^ref-18]:
 - King Graham's Board Game Challenge
-- Parlor Games with Laura Bow  
-- Robin Hood's Game of Skill and Chance
-- Leisure Suit Larry Casino
+- Parlor Games with Laura Bow
+- Robin Hood's Games of Skill and Chance
+- Leisure Suit Larry's Casino
 - Roger Wilco's Spaced Out Game Pack
-
-The game is compatible with ScummVM, ensuring preservation through modern emulation platforms[^ref-3][^ref-17].
 
 ### Fan Projects
 
-The Space Quest series has maintained an active fan community. Quest Studios has preserved and distributed digital soundtrack recordings from the Space Quest games, including the music heard in this compilation[^ref-13][^ref-14]. The Space Quest IV soundtrack was reorchestrated and remixed by Troels Pleimert in 2020, demonstrating continued fan interest in the franchise's musical legacy[^ref-15].
+Quest Studios has published recordings of Ken Allen's Space Quest IV and Space Quest I soundtracks. These include the Main Title Theme and Monolith Burger (Space Quest IV) and Skimmer Ride (Space Quest I), which are the sources of this pack's music[^ref-13][^ref-14][^ref-22]. A 2020 reorchestrated and remixed Space Quest IV soundtrack was produced by Troels Pleimert[^ref-15].
 
 ### Related Publications
 
-- **InterAction Magazine Vol. 5, No. 2 (Summer 1992):** Featured the game in the News Notes section, pages 14-15[^ref-5]
+- **InterAction Magazine Vol. 5, No. 2 (Summer 1992):** Covered the pack in the News Notes section, pages 14–15[^ref-5][^ref-18]
 
 ### Critical Perspective
 
-Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack represents an interesting artifact of early 1990s software publishing strategies. Sierra's attempt to create value from existing assets foreshadowed later industry practices of releasing mini-game collections and budget re-releases. However, the compilation also demonstrates the limitations of extracting arcade sequences designed as brief diversions and presenting them as standalone entertainment[^ref-8].
-
-The pack's legacy is largely overshadowed by the main Space Quest series, which critics have called "beloved cult classics" that "defined the form" of comedic adventure gaming[^ref-10]. While the mini-games served their original purpose of providing variety within larger adventure narratives, their extraction into a standalone product revealed weaknesses in control design and replay value that were less apparent in their original context[^ref-8].
+Sierra built the pack from "favorite arcade and strategy sequences extracted from best-selling Sierra games"[^ref-18]. Its only known review found that, taken out of their adventures, the games were slow and unresponsive[^ref-8]. The Space Quest series they came from has been called "beloved cult classics"[^ref-10].
 
 ## Purchase
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- Game was originally budget-priced retail software
+- Not currently available on GOG or Steam. PCGamingWiki lists retail as the only availability[^ref-6]
+- Originally sold at retail in a blister card[^ref-25]
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/crazy-nick-s-software-picks-roger-wilco-s-spaced-out-game-pack-36v)
-- [CDRomance](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/)
+- [CDRomance](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) (all five Crazy Nick's packs in one bundle)
 - [Free Game Empire](https://www.freegameempire.com/games/Crazy-Nick-s-Software-Picks-Roger-Wilco-s-Spaced-Out-Game-Pack)
 
 ## See Also
@@ -208,31 +202,30 @@ The pack's legacy is largely overshadowed by the main Space Quest series, which 
 - [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
 - [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
 
-- King Graham's Board Game Challenge (1992)
-- Parlor Games with Laura Bow (1992)
-- Robin Hood's Game of Skill and Chance (1992)
-- Leisure Suit Larry Casino (1992)
-- Roger Wilco's Spaced Out Game Pack (1992)
-
 ## References
 
-[^ref-1]: [MobyGames – Roger Wilco's Spaced Out Game Pack](https://www.mobygames.com/game/95475/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack/) – game description, credits, technical details
-[^ref-2]: [Giant Bomb – Roger Wilco's Spaced Out Game Pack](https://www.giantbomb.com/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack/3030-13252/) – game overview and series context
-[^ref-3]: [CDRomance – Crazy Nick's Software Picks Series](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) – series information, download statistics, ScummVM compatibility
-[^ref-4]: [MyAbandonware – Roger Wilco's Spaced Out Game Pack](https://www.myabandonware.com/game/crazy-nick-s-software-picks-roger-wilco-s-spaced-out-game-pack-36v) – user ratings, technical specs, user comments
-[^ref-5]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=publications) – release date, InterAction magazine reference
-[^ref-6]: [PCGamingWiki – Roger Wilco's Spaced Out Game Pack](https://www.pcgamingwiki.com/wiki/Roger_Wilco's_Spaced_Out_Game_Pack) – engine information, series classification
-[^ref-7]: [Free Game Empire – Roger Wilco's Spaced Out Game Pack](https://www.freegameempire.com/games/Crazy-Nick-s-Software-Picks-Roger-Wilco-s-Spaced-Out-Game-Pack) – mini-game descriptions, developer information
-[^ref-8]: [Super Adventures in Gaming – Review](http://superadventuresingaming.blogspot.com/2011/04/crazy-nicks-software-picks-roger-wilcos.html) – gameplay criticism, control issues
-[^ref-10]: [Wikipedia – Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – Scott Murphy quotes, series history
-[^ref-11]: [MyAbandonware – Play Page](https://www.myabandonware.com/game/crazy-nick-s-software-picks-roger-wilco-s-spaced-out-game-pack-36v/play-36v) – executable files, DOSBox compatibility
-[^ref-12]: [Wikipedia – Space Quest 6](https://en.wikipedia.org/wiki/Space_Quest_6) – series sales data
-[^ref-13]: [Quest Studios – Space Quest V Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/sq5/) – composer credits
-[^ref-14]: [Quest Studios – Space Quest VI Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/sq6/) – audio format details
-[^ref-15]: [KHInsider – Space Quest IV Reorchestrated](https://downloads.khinsider.com/game-soundtracks/album/space-quest-iv-roger-wilco-and-the-time-rippers-reorchestrated-remixed-2020) – fan soundtrack project, original composer credits
-[^ref-16]: [IGDB – Roger Wilco's Spaced Out Game Pack](https://www.igdb.com/games/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack) – game database entry and metadata
-[^ref-17]: [ScummVM Wiki – SCI Games](https://wiki.scummvm.org/index.php/SCI) – engine compatibility information
-[^ref-18]: [Internet Archive – InterAction Magazine](https://archive.org/details/interactionmagazine) – Sierra magazine coverage
-[^ref-19]: [Space Quest Wiki – Mini-Games](https://spacequest.fandom.com/wiki/Ms._Astro_Chicken) – Ms. Astro Chicken mini-game details
-[^ref-20]: [Space Quest Wiki – Monolith Burger](https://spacequest.fandom.com/wiki/Monolith_Burger) – Monolith Burger location and game details
-[^ref-21]: [Sierra Chest – Crazy Nick Roger Walkthrough](https://sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=walkthrough) – mini-game origins, control schemes, gameplay details
+[^ref-1]: [MobyGames – Roger Wilco's Spaced Out Game Pack](https://www.mobygames.com/game/95475/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack/) – game description, developer/publisher, release year, perspectives
+[^ref-2]: [MobyGames – Roger Wilco's Spaced Out Game Pack: DOS credits](https://www.mobygames.com/game/95475/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack/credits/dos/) – 7 people credited; Director Bill Davis
+[^ref-3]: [CDRomance – Crazy Nick's Software Picks Series](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) – five-title series list; 1,316 downloads for the whole five-pack bundle
+[^ref-4]: [MyAbandonware – Roger Wilco's Spaced Out Game Pack](https://www.myabandonware.com/game/crazy-nick-s-software-picks-roger-wilco-s-spaced-out-game-pack-36v) – user rating, DOSBox note, download size, user comments
+[^ref-5]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=publications) – InterAction Summer 1992, pages 14–15, News Notes
+[^ref-6]: [PCGamingWiki – Roger Wilco's Spaced Out Game Pack](https://www.pcgamingwiki.com/wiki/Roger_Wilco's_Spaced_Out_Game_Pack) – engine (SCI1.1), availability (retail)
+[^ref-7]: [Free Game Empire – Roger Wilco's Spaced Out Game Pack](https://www.freegameempire.com/games/Crazy-Nick-s-Software-Picks-Roger-Wilco-s-Spaced-Out-Game-Pack) – user rating (3/5 from 1 rating)
+[^ref-8]: [Super Adventures in Gaming – Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack (guest post, 2011)](http://superadventuresingaming.blogspot.com/2011/04/crazy-nicks-software-picks-roger-wilcos.html) – retrospective review by mecha-neko; control and sound complaints
+[^ref-10]: [Wikipedia – Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – Scott Murphy quote; "beloved cult classics"
+[^ref-11]: [MyAbandonware – Play Page](https://www.myabandonware.com/game/crazy-nick-s-software-picks-roger-wilco-s-spaced-out-game-pack-36v/play-36v) – game executable list
+[^ref-12]: [Wikipedia – Space Quest 6](https://en.wikipedia.org/wiki/Space_Quest_6) – series sales data (Sierra 10-K, March 1996)
+[^ref-13]: [Quest Studios – Space Quest IV Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/sq4/) – Ken Allen's SQ4 score recordings, incl. Main Title Theme and Monolith Burger
+[^ref-14]: [Quest Studios – Space Quest I Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/sq1/) – Ken Allen's SQ1 score recordings, incl. Skimmer Ride
+[^ref-15]: [KHInsider – Space Quest IV Reorchestrated](https://downloads.khinsider.com/game-soundtracks/album/space-quest-iv-roger-wilco-and-the-time-rippers-reorchestrated-remixed-2020) – 2020 fan arrangement produced by Troels Pleimert
+[^ref-16]: [Sierra Chest – Roger Wilco's Spaced Out Game Pack: General](https://www.sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=general) – series background, source games, game objectives, single 3.5" floppy
+[^ref-17]: [ScummVM – SCI detection table (engines/sci/detection_tables.h)](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/sci/detection_tables.h) – `cnick-sq` detection entry and data-file sizes
+[^ref-18]: [InterAction Magazine Vol. V No. 2, Summer 1992 (full text, Internet Archive)](https://archive.org/download/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US_djvu.txt) – News Notes: "Crazy Nick Launches Budget Software Line"
+[^ref-19]: [Space Quest Wiki – Ms. Astro Chicken](https://spacequest.fandom.com/wiki/Ms._Astro_Chicken) – character background
+[^ref-20]: [Space Quest Wiki – Monolith Burger](https://spacequest.fandom.com/wiki/Monolith_Burger) – fast-food chain in the Space Quest universe
+[^ref-21]: [Sierra Chest – Crazy Nick Roger Walkthrough](https://sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=walkthrough) – first release date, main menu, controls, mini-game origins and rules
+[^ref-22]: [Sierra Chest – Roger Wilco's Spaced Out Game Pack: Music](https://www.sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=music) – music sources (SQ4 and SQ1 VGA)
+[^ref-23]: [Wikipedia – Space Quest III](https://en.wikipedia.org/wiki/Space_Quest_III) – Astro Chicken mini-game and demo
+[^ref-24]: [Sierra Chest – Roger Wilco's Spaced Out Game Pack: Making of](https://www.sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=making) – credits
+[^ref-25]: [Sierra Chest – Roger Wilco's Spaced Out Game Pack: Packaging & content](https://www.sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=box) – PC, 3.5" floppy, blister card
+[^ref-26]: [Sierra Chest – Roger Wilco's Spaced Out Game Pack: Reviews](https://www.sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=reviews) – "No reviews yet"
