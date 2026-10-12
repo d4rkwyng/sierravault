@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI3
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-12'
 composer: [Frank Zottoli]
 description: '*Leisure Suit Larry: Love for Sail!* is the sixth and final Leisure
   Suit Larry adventure game written by series creator Al Lowe, released by Sierra
@@ -19,15 +19,15 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry: Love for Sail!
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-*Leisure Suit Larry: Love for Sail!* is the sixth and final Leisure Suit Larry adventure game written by series creator [[Al Lowe]], released by Sierra On-Line in late 1996 (October 31 per most sources).[^ref-22][^ref-1] Despite being marketed as "Larry 7" during development, the numbering reflects the intentional non-existence of *Leisure Suit Larry 4: The Missing Floppies*, making this technically the sixth installment in the series.[^ref-2] The game represented a significant artistic achievement for Sierra, featuring hand-drawn 2D cartoon-style graphics that many critics considered among the most impressive visual work the company had produced for an adventure game.[^ref-3]
+*Leisure Suit Larry: Love for Sail!* is the sixth and final Leisure Suit Larry adventure game written by series creator [[Al Lowe]], released by Sierra On-Line in late 1996 (IMDb gives October 31;[^ref-22] Wikipedia gives November 26[^ref-1]). Despite being marketed as "Larry 7" during development, the numbering reflects the intentional non-existence of *Leisure Suit Larry 4: The Missing Floppies*, making this technically the sixth installment in the series.[^ref-2][^ref-53] The game represented a significant artistic achievement for Sierra, featuring hand-drawn 2D cartoon-style graphics; *Adventure Classic Gaming* called it "easily among the most impressive artistic titles Sierra On-Line has ever done for an adventure game."[^ref-3]
 
 Set aboard the cruise ship PMS Bouncy, the game follows the perpetually unlucky Larry Laffer as he competes in various shipboard competitions to win a week in the captain's cabin with the alluring Captain Thygh.[^ref-4] The game introduced several innovative features including the "CyberSniff 2000" scratch-and-sniff card that accompanied physical copies, allowing players to experience certain scents as gameplay clues—a nostalgic callback to Infocom's *Leather Goddesses of Phobos*.[^ref-3] Players could also insert their own photographs and voice recordings into the game using the included CyberStar 2000 utility.[^ref-5]
 
-*Love for Sail!* became the final Larry game from the "classic Al Lowe era" and the last to feature the original protagonist Larry Laffer until 2018.[^ref-1] The game sold over 280,000 copies by early 1999 and ultimately reached 750,000 copies sold, plus additional sales through various Larry compilation packages.[^ref-1] It marked a fitting conclusion to Al Lowe's sixteen-and-a-half year tenure at Sierra before his departure in 1999.[^ref-6]
+*Love for Sail!* became the final Larry game from the "classic Al Lowe era"[^ref-20] and the last to feature the original protagonist Larry Laffer until 2018.[^ref-1] The game sold over 280,000 copies by early 1999 and ultimately reached 750,000 copies sold, plus additional sales through various Larry compilation packages.[^ref-1] It marked a fitting conclusion to Al Lowe's sixteen-and-a-half year tenure at Sierra before his departure in 1999.[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -42,13 +42,13 @@ Set aboard the cruise ship PMS Bouncy, the game follows the perpetually unlucky 
 
 ## Story Summary
 
-The game opens with Larry Laffer in a "rather sticky situation"—literally tied up by Shamara Payne, the woman who represented the ultimate goal of the previous game, *Leisure Suit Larry 6: Shape Up or Slip Out!*[^ref-9] This marks the first time since *Leisure Suit Larry III* that a sequel picked up immediately where its predecessor left off, typically featuring Larry getting dumped by his latest conquest.[^ref-10] Not one to be tied down (or perhaps escaping from being tied down), Larry decides to forget his troubles by embarking on a cruise aboard the PMS Bouncy.[^ref-9]
+The game opens with Larry Laffer in a "rather sticky situation"—literally tied up by Shamara Payne, the woman who represented the ultimate goal of the previous game, *Leisure Suit Larry 6: Shape Up or Slip Out!*[^ref-9] This marks the first time since *Leisure Suit Larry III* that a sequel picked up immediately where its predecessor left off; in typical fashion, it opens with Larry getting dumped by Shamara, the woman who was the goal of *Larry 6*.[^ref-2] Not one to be tied down (or perhaps escaping from being tied down), Larry decides to forget his troubles by embarking on a cruise aboard the PMS Bouncy.[^ref-9]
 
 Once aboard the ship, Larry discovers that Captain Thygh, the vessel's commanding officer, is hosting a competition called the "Thygh's Man Trophy" contest. The grand prize is a week spent with the captain in her luxurious cabin—exactly the kind of motivation Larry needs.[^ref-45] The ship is populated with an array of beautiful women whose names serve as elaborate puns: Drew Baringmore, Jamie Lee Coitus, Dewmi Moore, Victorian Principles, Annette Boning, and the country music duo Wydoncha and Nailmi Jugg.[^ref-5]
 
 Larry must navigate the various decks of the cruise ship, solving puzzles and winning mini-games to impress the competition judges. His quest involves developing "closer relations" with the various women aboard while constantly getting into awkward situations.[^ref-11] The humor ranges from clever wordplay to deliberately crude innuendo, with character interactions filled with double entendres and sight gags. As one GameCenter reviewer noted, the ship "at its best resembles the craft in the shabby old TV series, The Love Boat. At its worst, it looks like something Salvador Dali might have drawn after a weeklong binge in Vegas."[^ref-12]
 
-The game concludes with a surprising twist—after the credits roll, the ship is abducted by an alien spaceship, setting up a cliffhanger that was never resolved due to the series' cancellation.[^ref-1] Players who achieve maximum completion by collecting all 1,000 points, finding all 32 hidden dildos, and triggering all Easter eggs unlock one additional second of Larry actually having sex after the credits.[^ref-13]
+The game concludes with a surprising twist—after the credits roll, the ship is abducted by an alien spaceship.[^ref-1] The ending announced a sequel, "Larry Explores Uranus" (later referred to as "Lust in Space"), which was never made.[^ref-7] Players who achieve maximum completion by collecting all 1,000 points, finding all 32 hidden dildos, and triggering all Easter eggs unlock one additional second of Larry actually having sex after the credits.[^ref-13]
 
 ## Gameplay
 
@@ -56,7 +56,7 @@ The game concludes with a surprising twist—after the credits roll, the ship is
 
 *Love for Sail!* features a unique hybrid interface that combines point-and-click mechanics with an optional text parser—a design choice that received mixed reactions.[^ref-1] Players interact with the game world through a standard point-and-click system, selecting actions from a menu when clicking on objects or characters. However, the game also allows players to type custom commands, theoretically offering more nuanced interactions.[^ref-3]
 
-The text parser remembers previously used commands, allowing players to reuse actions like "fart" throughout the game.[^ref-14] However, as the *Next Generation* reviewer noted, "combining one with point-and-click results in a game that's neither fish nor fowl, adding an element of pure guesswork to a puzzle set that's already conceptually slippery."[^ref-1] The interface includes a dialogue system using topics and trees for character conversations, which Al Lowe later cited as influential on his future game designs.[^ref-15]
+The text parser remembers previously used commands, allowing players to reuse actions like "fart" throughout the game.[^ref-14] However, as the *Next Generation* reviewer noted, "combining one with point-and-click results in a game that's neither fish nor fowl, adding an element of pure guesswork to a puzzle set that's already conceptually slippery."[^ref-1][^ref-55] The interface includes a dialogue system using topics and trees for character conversations, which Al Lowe later cited as influential on his future game designs.[^ref-15]
 
 ### Structure and Progression
 
@@ -74,11 +74,11 @@ Key locations aboard the ship include:
 
 ### Puzzles and Mechanics
 
-The game features a variety of puzzle types integrated with mini-games, which represented the first time the Larry series included full-fledged mini-games as part of the gameplay.[^ref-10] One prominent example is "Strip Liar's Dice" with Dewmi Moore, where players can peek at the dice by pressing Ctrl+C.[^ref-17] The ship's casino also features various gambling opportunities.
+The game features a variety of puzzle types alongside the shipboard contests. It was also the first Larry game to include a full-fledged minigame, *Where's Dildo?* (not counting the casino games in earlier installments).[^ref-2] One prominent example is "Strip Liar's Dice" with Dewmi Moore, where players can peek at the dice by pressing Ctrl+C.[^ref-17] The ship's casino also features various gambling opportunities.
 
 The puzzle design occasionally drew criticism, with producer Mark Seibert admitting that the team knowingly included at least one problematic puzzle: "all of us knew that was a bad puzzle, and that we shouldn't be putting it in, but it made for a big joke and so we left it. Sure enough, people have written me about it all the time and say, 'Hey! That was a stupid puzzle!'"[^ref-1]
 
-A hidden collectible game called "Where's Dildo?" (a parody of *Where's Waldo?*) challenges players to find 32 red-and-white-striped dildos hidden throughout the ship's screens.[^ref-10] Successfully finding all of them unlocks desktop wallpapers stored in the game's Drivers subdirectory under misleading filenames like "Memory1.drv" through "Memory8.drv."[^ref-10]
+A hidden collectible game called "Where's Dildo?" (a parody of *Where's Waldo?*) challenges players to find 32 red-and-white-striped dildos hidden throughout the ship's screens.[^ref-2][^ref-47] Collecting them unlocks desktop wallpapers stored in the game's Drivers subdirectory under misleading filenames like "Memory1.drv" through "Memory8.drv."[^ref-2]
 
 The CyberSniff 2000 scratch-and-sniff card contains nine differently colored pads that players must smell when prompted by the game, using olfactory clues to solve certain puzzles.[^ref-3] This innovative feature paid homage to Infocom's similar gimmick in *Leather Goddesses of Phobos*.[^ref-18]
 
@@ -88,11 +88,11 @@ The CyberSniff 2000 scratch-and-sniff card contains nine differently colored pad
 
 Contemporary critical reception was decidedly mixed, with scores ranging from enthusiastic to dismissive. *PC Games* magazine awarded the game an A−, with reviewer Christine Lam praising it as "highly entertaining, yielding chuckles and outright laughs, depending on how seriously you take the game."[^ref-5] She defended the content by noting "you can find more nudity in any R-rated movie."[^ref-5]
 
-*Computer Games Strategy Plus* gave the game four out of five stars in their January 25, 1997 review by Andy Backer.[^ref-1] *Next Generation* magazine also awarded three stars, though their review tempered praise with criticism of the hybrid interface and the series' lack of evolution.[^ref-1]
+*Computer Games Strategy Plus* gave the game four out of five stars in their January 25, 1997 review by Andy Backer, who called it "the best Leisure Suit Larry ever."[^ref-1][^ref-57] *Next Generation* awarded three out of five stars, though their review tempered praise with criticism of the hybrid interface and the series' lack of evolution.[^ref-1][^ref-55]
 
 *GameSpot* awarded a more moderate 6.7 out of 10, with their reviewer noting "Who knew you could stick so many sexual innuendoes on one CD-ROM?" and suggesting that "Unless you're the proud owner of the Three's Company box set, this game will likely get old quick."[^ref-18] *CNET Gamecenter* gave 3 out of 5 stars, with Barry Brenesal observing that the game "is not incredibly vulgar or perverse. It is single-minded, however, in its devotion to sexual gags that were ancient when Plautus the Roman popularized the local equivalent of knock-knock jokes."[^ref-12]
 
-The most negative review came from *PC Gamer UK*, where Danny Wallace awarded just 23%, dismissing the game as "a pointless mountain of toss."[^ref-1] *MacUser* gave three stars, with Roman Loyola criticizing that "The most disappointing aspect of Love for Sail is that it shows no evolution in game development."[^ref-19]
+The most negative review came from *PC Gamer UK*, where Danny Wallace awarded just 23%, dismissing the game as "a pointless mountain of toss."[^ref-1][^ref-54] *MacUser* gave three stars, with Roman Loyola criticizing that "The most disappointing aspect of Love for Sail is that it shows no evolution in game development."[^ref-19]
 
 ### Modern Assessment
 
@@ -100,11 +100,11 @@ Modern retrospectives have been considerably more favorable. Richard Cobbett of 
 
 *Adventure Classic Gaming* reviewer Raymond Phathanavirangoon awarded 4 out of 5 stars (Very Good), declaring it "easily among the most impressive artistic titles Sierra On-Line has ever done for an adventure game" and "among the best games in the Leisure Suit Larry series."[^ref-3] He particularly praised the voice acting, singling out "the voice of Ms Peggy, the lady pirate wannabe. Her crackle and foulmouthed demeanor always leave me in stitches. She steals the show in whichever scenes she is in."[^ref-3]
 
-In 2011, *Adventure Gamers* ranked *Love for Sail!* as the 71st-best adventure game ever released.[^ref-1]
+In 2011, *Adventure Gamers* ranked *Love for Sail!* as the 71st-best adventure game ever released.[^ref-1][^ref-56]
 
 **Aggregate Scores:**
-- **MobyGames Critics:** 79%[^ref-21]
-- **IMDB:** 8.1/10 (315 ratings)[^ref-22]
+- **MobyGames Critics:** 77% (37 ratings)[^ref-21]
+- **IMDB:** 8.1/10 (323 ratings)[^ref-22]
 - **Metacritic User Score:** 8.4/10[^ref-23]
 - **MyAbandonware:** 4.12/5 (26 votes, October 2026)[^ref-24]
 - **BestDOSGames:** 93%[^ref-25]
@@ -125,12 +125,14 @@ One significant production innovation was the switch from MIDI music to recordin
 
 The CyberStar 2000 feature, which allowed players to insert their own photographs and voice recordings, was developed but the instructions for using it were not printed in the game manual due to time constraints—they were published later online.[^ref-2]
 
-**Development Credits:**[^ref-28]
+**Development Credits:**[^ref-28][^ref-50]
 - **Designer:** [[Al Lowe]]
 - **Co-Designer:** Don Munsil
 - **Producer:** [[Mark Seibert]]
 - **Composer:** Frank Zottoli
-- **Additional Music:** Ben Houge, Al Lowe, Mark Seibert
+- **SFX & Additional Music:** Ben Houge, Al Lowe, Mark Seibert[^ref-50]
+- **Session musicians:** Frank Zottoli (piano), Kim Hutchcroft (woodwinds), Tom Warrington (bass), Claudio Slon (drums), with Mark Seibert (guitar, synthesizers, percussion), Al Lowe (soprano sax) and Steve Conrad (trombone)[^ref-50]
+- **Playtesters:** included Geoff Keighley[^ref-50]
 - **Animation:** LA West (digital ink and paint)
 
 ### Voice Cast
@@ -149,18 +151,19 @@ The CyberStar 2000 feature, which allowed players to insert their own photograph
 | Johnson / Judge Graham / Judge Paul | Kevin Michael Richardson |
 | Jacques / Willy / Xqwzts | Michael Gough |
 
-**Polish Version Cast:**[^ref-23]
+**Polish Version Cast:** (from a Metacritic user review and Polish Wikipedia, which gives no source for the cast; treat as unverified)[^ref-23][^ref-48]
+
 | Character | Voice Actor |
 |-----------|-------------|
 | Larry | Jerzy Stuhr |
-| Narrator | Jacek Czyz |
-| Captain | Katarzyna Figura |
+| Narrator | Jacek Czyż |
+| Captain (Kasia in the Polish version) | Katarzyna Figura |
 
-Jan Rabson reprised his role as Larry from *Leisure Suit Larry 6*, while Neil Ross, the narrator of *Leisure Suit Larry 6*, returned as narrator.[^ref-28]
+Jan Rabson reprised his role as Larry from *Leisure Suit Larry 6*,[^ref-7] while Neil Ross, the narrator of *Leisure Suit Larry 6*,[^ref-49] returned as narrator.[^ref-28]
 
 ### Technical Achievements
 
-*Love for Sail!* was built on Sierra's SCI3 engine, representing the most advanced version of Sierra's Creative Interpreter technology.[^ref-1] The game ran at 640x480 resolution with 256 colors, a significant improvement over earlier entries in the series.[^ref-3][^ref-8]
+*Love for Sail!* was built on Sierra's SCI3 engine, representing the most advanced version of Sierra's Creative Interpreter technology.[^ref-1] The game ran at 640x480 resolution with 256 colors.[^ref-3][^ref-8]
 
 Modern digital releases run under ScummVM: the Windows build was updated to ScummVM 2.0 in April 2018, and Linux and macOS ScummVM builds followed.[^ref-1][^ref-8]
 
@@ -200,14 +203,16 @@ The Cutting Room Floor documents several unused assets found in the game files:[
 | 1.0 | October 31, 1996 (TCRF, GameFAQs, GameSpot, IMDb; Wikipedia/PCGW give November 26) | DOS/Windows | Release[^ref-22][^ref-8] |
 | 1.2 | 1996 | DOS/Windows | Patch fixing multiple bugs[^ref-30] |
 | 1.0 | January 18, 1997 | Mac OS | Macintosh release[^ref-1] |
-| gog-2 | February 19, 2013 | Windows/Mac | GOG.com digital release[^ref-20] |
+| Polish | October 19, 2000 | PC | Polish release distributed by CD Projekt[^ref-48] |
+| GOG | February 19, 2013 | Windows/Mac | GOG.com digital release[^ref-20] |
+| Steam | December 22, 2017 | Windows | Steam release by Assemble Entertainment (store listing ended May 3, 2025)[^ref-52] |
 | ScummVM | April 26, 2018 | Windows | ScummVM support added[^ref-8] |
 | ScummVM | May 14, 2018 | Linux | Linux ScummVM release[^ref-8] |
 | 1.01 v3 | November 6, 2024 | Windows | Latest GOG build[^ref-31] |
 
 **Mobile Version:**[^ref-32]
 - J2ME (June 21, 2007) – Developed by The Mighty Troglodytes, published by Vivendi Games
-- BlackBerry (2008)
+- BlackBerry (2008)[^ref-51]
 
 ### Technical Issues
 
@@ -221,7 +226,6 @@ Additional known issues:[^ref-8]
 - The retail version's setup executable is 16-bit and does not work on 64-bit systems (use the SquirtTheCat Installer)
 - The macOS (OS X) release does not work on macOS Catalina (version 10.15) or later due to removal of 32-bit app support
 - Polish version has problems typing diacritical letters in the console[^ref-1]
-- One player reports crashes every 5-10 minutes after the first hour or two of play[^ref-9]
 - Players can still use the courtesy phone to talk to Mr. Boning even after he's dead[^ref-21]
 - **"48/get" error:** the game locks up after using the menu more than 20 times; fixed by the LSL7PAT.EXE patch[^ref-46]
 - **Fart lockup:** caused by not eating enough bean dip; click the bean dip three separate times before the fart scene[^ref-46]
@@ -240,12 +244,12 @@ The game contains an extensive collection of Easter eggs that Al Lowe described 
 
 **Pop Culture References:**[^ref-22]
 - The men ordering martinis in the casino represent James Bond actors: Sean Connery, Roger Moore, Timothy Dalton, and Pierce Brosnan (excluding George Lazenby). Bond theme music plays when the waitress approaches.
-- The Archie Comics gang appears playing nude volleyball in the background[^ref-10]
-- Portraits in the secure area include Walter Forbes, Bill Clinton, Mike Brochu, Randy Dersham, Jeff Tunnell, Ken Williams, Jerry Bowerman, Scott Lynch, Ron Stevens, and Craig Alexander[^ref-34]
-- A Sierra staffer dressed as Sailor Moon appears in the game[^ref-10]
-- Adult film actor Ron Jeremy appears walking around nude[^ref-10]
+- The Archie Comics gang appears playing nude volleyball in the background[^ref-2]
+- Portraits of alleged former contest winners line the high-security hallway. In 2011 Al Lowe, Mark Seibert and Ken Williams identified Walter Forbes, Bill Clinton, Mike Brochu, Randy Dersham, Jeff Tunnell, Ken Williams, Jerry Bowerman and Scott Lynch, but could not name the last two;[^ref-47] GameFAQs identifies them as Ron Stevens and Craig Alexander[^ref-34]
+- A Sierra staffer dressed as Sailor Moon appears in the game[^ref-2][^ref-47]
+- Adult film actor Ron Jeremy appears walking around nude[^ref-2]
 
-**Music Easter Egg:** The music playing in the hot tub/spa area is the title theme from *Freddy Pharkas: Frontier Pharmacist*, another Al Lowe game. Lowe mentioned he "needed a country song but didn't want to pay royalties – so using a song from Sierra's catalog – a game he designed was too perfect!"[^ref-35]
+**Music Easter Egg:** The music playing in the hot tub/spa area is the title theme from *Freddy Pharkas: Frontier Pharmacist*, another Al Lowe game.[^ref-47] According to LarryLaffer.net, Lowe said he needed a country song but did not want to pay royalties, so reusing a song from a Sierra game he had designed himself suited him perfectly.[^ref-35]
 
 **Secret Ending:** Players who obtain all 1,000 points, collect all 32 dildos, AND trigger all seven Easter eggs unlock one additional second of Larry actually having sex after the credits.[^ref-13]
 
@@ -324,7 +328,6 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 [^ref-7]: [The Sierra Chest – Leisure Suit Larry 7](https://www.sierrachest.com/index.php?a=games&id=29&fld=general) – designers, voice cast, features
 [^ref-8]: [PCGamingWiki – Leisure Suit Larry: Love for Sail!](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Love_for_Sail!) – platform releases, technical issues, resolution specs
 [^ref-9]: [Steam Store Page](https://steamcommunity.com/app/765890) – plot summary, opening scenario
-[^ref-10]: ClassicReload *(download link removed: the game is sold commercially)* – series continuity, hidden content, pop culture references
 [^ref-11]: DOS Games Archive *(download link removed: the game is sold commercially)* – gameplay description, Al Lowe attribution
 [^ref-12]: [GameCenter.com – Review (Archived)](https://web.archive.org/web/19970205031454/http://gamecenter.com/Reviews/Item/0,6,403,00.html) – Barry Brenesal review quotes, ship description
 [^ref-13]: [Al Lowe's Official Easter Eggs Page](https://allowe.com/games/larry/tips-manuals/lsl7-eggs.html) – Easter egg triggers, secret ending requirements, point system
@@ -351,12 +354,20 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 [^ref-35]: [LarryLaffer.net Easter Eggs Guide](http://larrylaffer.net/lslgames/lsl7-general/lsl7-easter-eggs) – Freddy Pharkas music reference
 [^ref-36]: [GameCenter.com Release News (Archived)](https://web.archive.org/web/20000817201336/http://www.gamecenter.com/News/Item/0,3,0-338,00.html) – launch price, release platforms
 [^ref-37]: [Wikidata](https://www.wikidata.org/wiki/Q691462) – international ratings
-[^ref-38]: [MobyGames – Leisure Suit Larry Collection Series](https://www.mobygames.com/game/718/leisure-suit-larry-collection-series/) – 1997 compilation
-[^ref-39]: [MobyGames – Leisure Suit Larry Collection](https://www.mobygames.com/game/27943/leisure-suit-larry-collection/) – 2006 compilation
 [^ref-40]: [Speedrun.com – Larry 7](https://www.speedrun.com/larry7) – speedrun records, community data
 [^ref-41]: [Amazon – Official Strategy Guide](https://www.amazon.com/Leisure-Suit-Larry-Official-Strategy/dp/0761508767) – guide details, publication info
-[^ref-42]: Internet Archive – Game ISO *(download link removed: the game is sold commercially)* – preservation copy
 [^ref-43]: [Internet Archive – Manual](https://archive.org/details/Leisure_Suit_Larry_7_-_Manual) – manual preservation
 [^ref-44]: [Steam News: "Time for Larry to Retire (Just a Little Bit)" (Assemble Entertainment, April 30, 2025)](https://store.steampowered.com/news/app/763970/view/1798454487579791) – announcement that LSL 1, 2, 3, 5, 6, 7 and Magna Cum Laude leave the Steam store; owners keep them
 [^ref-45]: [IGN – Leisure Suit Larry: Love for Sail! Walkthrough/FAQ](https://www.ign.com/articles/2003/07/18/leisure-suit-larry-love-for-sail-walkthroughfaq-429146) – Thygh's Man Trophy Contest
 [^ref-46]: [Al Lowe – Troubleshooting](https://allowe.com/games/troubleshooting.html) – Larry 7 "48/get" error patch, fart and balcony lockups
+[^ref-47]: [MobyGames – Trivia](https://www.mobygames.com/game/381/leisure-suit-larry-love-for-sail/trivia/) – picture-wall identifications (2011), 32 dildos, Freddy Pharkas spa music, Sailor Moon onlooker
+[^ref-48]: [Wikipedia (Polish) – Larry 7: Miłość na fali](https://pl.wikipedia.org/wiki/Larry_7:_Mi%C5%82o%C5%9B%C4%87_na_fali) – Polish release date (19 October 2000), CD Projekt distribution, Polish voice cast (unsourced)
+[^ref-49]: [IMDb – Leisure Suit Larry 6: Full Cast](https://www.imdb.com/title/tt0221339/fullcredits/) – Neil Ross as narrator of Larry 6
+[^ref-50]: [MobyGames – Credits (DOS)](https://www.mobygames.com/game/381/leisure-suit-larry-love-for-sail/credits/dos/) – SFX & additional music, session musicians, playtesters
+[^ref-51]: [MobyGames – Leisure Suit Larry: Love for Sail (2007, mobile)](https://www.mobygames.com/game/32876/leisure-suit-larry-love-for-sail/) – J2ME 2007, BlackBerry 2008
+[^ref-52]: [MobyGames – Releases](https://www.mobygames.com/game/381/leisure-suit-larry-love-for-sail/releases/) – Steam release Dec 22, 2017 by Assemble Entertainment, end date May 3, 2025
+[^ref-53]: [Al Lowe – Leisure Suit Larry 4](https://allowe.com/games/larry/inside-stories/wheres-lsl4.html) – "Leisure Suit Larry 4: The Missing Floppies"
+[^ref-54]: [PC Gamer UK #39, January 1997 (Internet Archive)](https://archive.org/details/pc-gamer-uk-issue-039-january-1997) – Danny Wallace review: "a pointless mountain of toss"
+[^ref-55]: [Next Generation #25, January 1997 (Internet Archive)](https://archive.org/details/NextGeneration25Jan1997) – review: text parser "neither fish nor fowl"
+[^ref-56]: [Adventure Gamers – Top 100 All-Time Adventure Games, #71 (Wayback, 2014)](https://web.archive.org/web/20141230025416/http://www.adventuregamers.com/articles/view/18643/page7) – #71 ranking
+[^ref-57]: [Computer Games Strategy Plus – Review by Andy Backer (Wayback, 1997)](https://web.archive.org/web/19970614223023/http://www.cdmag.com/adventure_vault/leisure_suit_larry_7_review/article.html) – 4-star review, "the best Leisure Suit Larry ever"
