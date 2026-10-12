@@ -75,7 +75,7 @@ The most important secondary sources — extended retrospectives, oral histories
 - **Adventure Gamers** — Genre-specialist review site; archive includes reviews of every released Sierra adventure. (Note: site reorganized URLs in 2025, breaking many citations — see `../docs/dead_urls_worklist.md` (dead-URL worklist).)[^ref-advgamers]
 - **[Adventure Game Hotspot](https://adventuregamehotspot.com)** — Successor site to Adventure Gamers staff, founded after the 2022 reorganization. Hosts new reviews, interviews, retrospectives.[^ref-aghotspot]
 - **[Sierra Gamers (sierragamers.com)](https://www.sierragamers.com)** — Ken Williams' fan-community site, hosts oral-history interviews with former Sierra staff. Primary source on personalities and personal histories.[^ref-sierragamers]
-- **[SpaceQuest.net](https://www.spacequest.net)** — Comprehensive fan site for Space Quest including detailed easter eggs, cameos, plot inconsistencies, and the cancelled Space Quest 7 documentation. Subpages: `eastereggs`, `spoofref`, `cheatdebug`, `funfacts`, `cameos`, `plotinconsis`, `cancelled`.[^ref-spacequestnet]
+- **[SpaceQuest.net](https://spacequest.net)** — Comprehensive fan site for Space Quest including detailed easter eggs, cameos, plot inconsistencies, and the cancelled Space Quest 7 documentation. Subpages: `eastereggs`, `spoofref`, `cheatdebug`, `funfacts`, `cameos`, `plotinconsis`, `cancelled`.[^ref-spacequestnet]
 - **[Halcyon Days interviews (dadgum.com/halcyon/)](https://dadgum.com/halcyon/)** — James Hague's 1996 collection of interviews with classic Apple II and early-PC programmers; the Warren Schwader interview is the single best source on Sierra's first-hire era.[^ref-halcyon]
 - **[Polygon](https://www.polygon.com), [Eurogamer](https://www.eurogamer.net), [PC Gamer](https://www.pcgamer.com), [Rock Paper Shotgun](https://www.rockpapershotgun.com), [IGN](https://www.ign.com)** — Mainstream games journalism; cite for: contemporary reviews, retrospective analyses, corporate-news coverage.
 
@@ -180,7 +180,7 @@ Before adding a citation to a vault page:
 [^ref-advgamers]: Adventure Gamers *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no clean pre-sale archived copy found)* — Adventure-game review site
 [^ref-aghotspot]: [Adventure Game Hotspot](https://adventuregamehotspot.com) — Adventure Gamers successor
 [^ref-sierragamers]: [Sierra Gamers](https://www.sierragamers.com) — Williams' fan-community site
-[^ref-spacequestnet]: [Space Quest.net](https://www.spacequest.net) — Space Quest fan site
+[^ref-spacequestnet]: [Space Quest.net](https://spacequest.net) — Space Quest fan site
 [^ref-halcyon]: [Halcyon Days](https://dadgum.com/halcyon/) — Hague's 1996 programmer interviews
 [^ref-strong]: [The Strong Museum](https://www.museumofplay.org) — Video Game Hall of Fame
 [^ref-gdc]: [GDC Vault](https://www.gdcvault.com) — Conference postmortems

@@ -33,7 +33,7 @@ The vault uses the `CXL -` filename prefix for cancelled games and a lower citat
 - **Type:** Cancelled franchise sequel
 - **Lead designers:** Originally pitched by [[Mark Crowe]] and [[Scott Murphy]] (Two Guys), then by Josh Mandel
 - **Cancellation:** Multiple — 1996 (Two Guys pitch), 1998 (Mandel rewrite), various subsequent revivals
-- **Status today:** Substantial pitch documents and at least one prototype demo are extant; documented at [SpaceQuest.net/sq7](https://www.spacequest.net/sq7/).
+- **Status today:** Substantial pitch documents and at least one prototype demo are extant; documented at [SpaceQuest.net/sq7](https://spacequest.net/sq7/).
 - **Significance:** The spiritual successor became [[2022 - SpaceVenture|SpaceVenture]] (2022) by Two Guys via crowdfunding.
 
 ### [[CXL - Leisure Suit Larry 8]]
@@ -136,7 +136,7 @@ A fourth, smaller pattern: licensed-property cancellations where rights issues k
 ## References
 
 [^ref-1]: Each linked CXL page has its own primary-source references
-[^ref-2]: [SpaceQuest.net — Space Quest VII cancelled documentation](https://www.spacequest.net/sq7/) — Most extensive single-source on SQ7
+[^ref-2]: [SpaceQuest.net — Space Quest VII cancelled documentation](https://spacequest.net/sq7/) — Most extensive single-source on SQ7
 [^ref-3]: [The Digital Antiquarian — Sierra cancellations](https://www.filfre.net/?s=Sierra+cancelled) — Long-form cancellation context
 [^ref-4]: [Wikipedia — List of cancelled video games](https://en.wikipedia.org/wiki/List_of_cancelled_video_games) — Industry-wide cancellation context
 [^ref-5]: [MobyGames — Sierra company cancellation entries](https://www.mobygames.com/company/3/sierra-entertainment-inc/) — Cross-reference for documentation

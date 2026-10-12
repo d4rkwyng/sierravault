@@ -188,9 +188,9 @@ This game has been included in the following collections:
 - [HowLongToBeat – Space Quest III](https://howlongtobeat.com/game/8865) – completion times[^ref-8]
 - [StrategyWiki – Space Quest III](https://strategywiki.org/wiki/Space_Quest_III) – game guide[^ref-12]
 - [SpaceQuest.net – Space Quest 3](https://spacequest.net/sq3/) – game information, screenshots, soundtrack[^ref-4]
-- [SpaceQuest.net – SQ3 Point List](https://www.spacequest.net/sq3/pointlist/) – complete scoring breakdown[^ref-4]
-- [SpaceQuest.net – SQ3 Cameos](https://www.spacequest.net/sq3/cameos/) – Ken Williams, Rick Cavin, Enterprise[^ref-24]
-- [SpaceQuest.net – SQ3 Fun Facts](https://www.spacequest.net/sq3/funfacts/) – easter eggs, bugs, trivia[^ref-25]
+- [SpaceQuest.net – SQ3 Point List](https://spacequest.net/sq3/pointlist/) – complete scoring breakdown[^ref-4]
+- [SpaceQuest.net – SQ3 Cameos](https://spacequest.net/sq3/cameos/) – Ken Williams, Rick Cavin, Enterprise[^ref-24]
+- [SpaceQuest.net – SQ3 Fun Facts](https://spacequest.net/sq3/funfacts/) – easter eggs, bugs, trivia[^ref-25]
 - [Sierra Help – Space Quest III](https://sierrahelp.com/Games/SpaceQuest/SQ3Help.html) – patches, DOSBox tips, technical help[^ref-21]
 - [ScummVM Wiki – Space Quest III](https://wiki.scummvm.org/index.php/Space_Quest_III) – engine compatibility, installation notes[^ref-22]
 - [The Cutting Room Floor – Space Quest III](https://tcrf.net/Space_Quest_III:_The_Pirates_of_Pestulon) – debug modes, unused graphics, cut content[^ref-23]
@@ -229,8 +229,8 @@ This game has been included in the following collections:
 [^ref-21]: [Sierra Help – Space Quest III](https://sierrahelp.com/Games/SpaceQuest/SQ3Help.html) – system requirements, known issues, DOSBox configuration
 [^ref-22]: [ScummVM Wiki – Space Quest III](https://wiki.scummvm.org/index.php/Space_Quest_III) – ScummVM 1.2.0 support, SCI engine, resolution specs
 [^ref-23]: [The Cutting Room Floor – Space Quest III](https://tcrf.net/Space_Quest_III:_The_Pirates_of_Pestulon) – SCI debugger, unused graphics, hidden dialogue, debug commands
-[^ref-24]: [SpaceQuest.net – SQ3 Cameos](https://www.spacequest.net/sq3/cameos/) – Ken Williams, Rick Cavin, USS Enterprise references
-[^ref-25]: [SpaceQuest.net – SQ3 Fun Facts](https://www.spacequest.net/sq3/funfacts/) – Astro Chicken origins, MT-32 easter egg, hidden signature, bugs
+[^ref-24]: [SpaceQuest.net – SQ3 Cameos](https://spacequest.net/sq3/cameos/) – Ken Williams, Rick Cavin, USS Enterprise references
+[^ref-25]: [SpaceQuest.net – SQ3 Fun Facts](https://spacequest.net/sq3/funfacts/) – Astro Chicken origins, MT-32 easter egg, hidden signature, bugs
 [^ref-26]: [TVTropes – Space Quest III](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestIIIThePiratesOfPestulon) – tropes, fourth wall breaks, continuity errors, gameplay mechanics
 [^ref-27]: [GameFAQs – Space Quest III](https://gamefaqs.gamespot.com/pc/565076-space-quest-iii-the-pirates-of-pestulon) – user ratings, guides
 [^ref-28]: [Virtual Broomcloset – Two Guys SQ3 Interview](https://wiw.org/~jess/2guys_sq3.html) – 13-month development, SCI learning curve, Bob Siebenberg film scoring approach, Mark Seibert sound effects

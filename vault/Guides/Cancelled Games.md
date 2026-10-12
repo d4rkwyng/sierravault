@@ -235,7 +235,7 @@ The tragedy is that many of these games could have been great. The talent was th
 
 [^ref-1]: [The Digital Antiquarian – King's Quest](https://www.filfre.net/tag/kings-quest/) – Sierra corporate history, Chainsaw Monday, adventure game industry decline
 [^ref-2]: [King's Quest Omnipedia – King's Quest IX](https://kingsquest.fandom.com/wiki/King%27s_Quest_IX) – comprehensive history of all KQ9 attempts
-[^ref-3]: [SpaceQuest.net – SQ7 Documentation](https://www.spacequest.net/sq7/) – development timeline, working titles, team quotes, Chainsaw Monday details
+[^ref-3]: [SpaceQuest.net – SQ7 Documentation](https://spacequest.net/sq7/) – development timeline, working titles, team quotes, Chainsaw Monday details
 [^ref-4]: [Wiw.org – Space Quest 7 Archive](https://wiw.org/~jess/sq7.html) – Escape Factory version, Vohaul revelation, December 2002 cancellation
 [^ref-6]: [King's Quest Omnipedia – King's Quest: Twins of Change](https://kingsquest.fandom.com/wiki/King%27s_Quest:_Twins_of_Change) – Mark Seibert as director, gameplay details
 [^ref-7]: [King's Quest Omnipedia – The Silver Lining](https://kingsquest.fandom.com/wiki/The_Silver_Lining) – original "King's Quest IX" title, Phoenix Online Studios

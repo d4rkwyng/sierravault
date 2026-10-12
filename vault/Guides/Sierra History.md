@@ -231,7 +231,7 @@ Following Microsoft's acquisition of Activision Blizzard in October 2023, the Si
 [^ref-3]: [Wikipedia – Roberta Williams](https://en.wikipedia.org/wiki/Roberta_Williams) – Early game development, Mystery House creation, Wizard and the Princess sales
 [^ref-5]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Ken Williams IBM employment
 [^ref-17]: [Various industry sources] – Phantasmagoria budget estimates
-[^ref-19]: [SpaceQuest.net – SQ7 Documentation](https://www.spacequest.net/sq7/) – Ken Williams quote on Chainsaw Monday
+[^ref-19]: [SpaceQuest.net – SQ7 Documentation](https://spacequest.net/sq7/) – Ken Williams quote on Chainsaw Monday
 [^ref-20]: [GameSpot – The Final Hours of Half-Life](https://web.archive.org/web/19990508130942/http://www.gamespot.com/features/halflife_final/part24.html) – Ken Williams on id Software and Valve
 [^ref-21]: [Ken Williams memoir](https://en.wikipedia.org/wiki/Not_All_Fairy_Tales_Have_Happy_Endings:_The_Rise_and_Fall_of_Sierra_On-Line) – Publication date and description
 [^ref-22]: [The Verge](https://www.theverge.com/2023/10/13/23791235/microsoft-completes-activision-blizzard-acquisition) – Microsoft acquisition of Activision Blizzard completed October 2023
