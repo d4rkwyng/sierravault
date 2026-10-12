@@ -10,15 +10,16 @@ series: EcoQuest
 engine: SCI1.1
 protagonist: Adam Greene
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-12'
 composer: [Dan Kehler]
 description: '*EcoQuest 2: Lost Secret of the Rainforest* is an educational adventure
-  game developed and published by Sierra On-Line in 1993 as the sequel to *EcoQuest:...'
+  game developed and published by Sierra On-Line in 1993 as the sequel to *EcoQuest:
+  The Search for Cetus*.'
 tags: [1990s, ecoquest, educational, sci, sierra]
 ---
 # EcoQuest 2: Lost Secret of the Rainforest
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
@@ -31,7 +32,7 @@ Unlike its predecessor, which was co-designed by [[Jane Jensen]], *Lost Secret o
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** [[Gano Haine]][^ref-1]
-> **Producer:** Cheryl Sweeney[^ref-1]
+> **Producer:** Peter Fisher[^ref-31]
 > **Publisher:** Sierra On-Line (NA), [[Coktel Vision]] (EU)[^ref-1]
 > **Engine:** SCI1.1[^ref-5]
 > **Platforms:** MS-DOS, Windows 3.x, PC-98[^ref-6]
@@ -48,15 +49,15 @@ At the docks, Adam encounters suspicious characters, including employees of a ma
 
 The Forest Heart reveals to Adam that she once had a sprout to replace her, but it did not survive, meaning another must be found somewhere.[^ref-10] Adam's quest takes him through the indigenous village, where he must help numerous villagers with their problems before gaining access to the shaman.[^ref-11] He assists a potter whose baby was stung by a bee, helps resolve a quarrel between two young men, and gathers ingredients for a healing poultice.[^ref-11] The village contains a great hut where a storyteller tells tales to children, while weavers, hunters, and gardeners go about their daily lives.[^ref-10]
 
-Adam's journey eventually leads him to be kidnapped by a goon working for Maxim Slaughter, who runs a camp filled with disturbing trophies including a jaguar-skin rug, stuffed gorilla hand, zebra-skin covered box, elephant foot stool, and a mounted rare dolphin.[^ref-12] With help from Paquita, a talking bat who becomes Adam's sarcastic companion throughout the adventure, he must escape the camp and continue his quest to find the lost City of Gold, where the remedy for the Grove People awaits.[^ref-15] The game emphasizes themes of the dangers of selfishness and greed, contrasting with humanity's ability to live in harmony with nature.[^ref-1]
+Adam's journey eventually leads him to be kidnapped by a goon working for Maxim Slaughter, who runs a camp filled with disturbing trophies including a jaguar-skin rug, stuffed gorilla hand, zebra-skin covered box, elephant foot stool, and a mounted rare dolphin.[^ref-12] With help from Paquita, a talking bat who becomes Adam's sarcastic companion throughout the adventure, he must escape the camp and continue his quest to find the lost City of Gold, where the remedy for the Grove People awaits.[^ref-15] According to *Pelit*, the game places more emphasis on the dangers of selfishness and greed than its predecessor did.[^ref-1]
 
 ## Gameplay
 
 ### Interface and Controls
 
-*Lost Secret of the Rainforest* uses a fully mouse-driven version of the SCI1.1 engine, similar to *Space Quest IV* and *King's Quest VI*.[^ref-13] The game features Sierra's classic icon interface with some modifications, providing intuitive point-and-click controls that allow players to examine, interact with, and talk to objects and characters.[^ref-14] The interface includes standard adventure game cursors for walking, looking, touching, and talking.
+Like its predecessor, *Lost Secret of the Rainforest* uses a fully mouse-driven version of Sierra's SCI engine, in the manner of *Space Quest IV* and *King's Quest VI*.[^ref-13] The game features Sierra's classic icon interface with some modifications, providing intuitive point-and-click controls that allow players to examine, interact with, and talk to objects and characters.[^ref-14] The interface includes standard adventure game cursors for walking, looking, touching, and talking.
 
-A key innovation is the "Ecorder" feature, represented by a bat symbol in the icon bar.[^ref-14] Clicking this icon provides players with random factual information about rainforest ecology, essentially functioning as a portable encyclopedia that encourages learning through gameplay.[^ref-1] The Ecorder can be used to scan and record information about flora and fauna encountered throughout the journey.[^ref-9]
+Two extra icons sit in the icon bar: the recycling bag carried over from the first game, and a bat-shaped icon that gives random trivia about the rainforest.[^ref-14] The Ecorder itself is not an icon but an inventory item, carried from the start, that Adam uses to record information about the flora and fauna of the areas he explores.[^ref-30][^ref-6] Players score points for using it, and the information it collects is what they are tested on near the end of the game.[^ref-30]
 
 ### Structure and Progression
 
@@ -76,15 +77,15 @@ The puzzles in *Lost Secret of the Rainforest* revolve around understanding ecos
 
 Inventory management plays a significant role, with Adam collecting items like a clay cup, bark cup filled with sap, seed pods, and a special branch from the Forest Heart.[^ref-11] The camp escape sequence features timed elements where the goon will catch Adam if he's in the wrong place too long, requiring careful planning of movements.[^ref-17] Unlike the first game, these tightly timed sequences can be jarring and require repeated attempts.[^ref-17]
 
-The game cannot be lost or rendered unwinnable, following the more forgiving design philosophy of Sierra's educational titles.[^ref-13] However, the puzzles are somewhat harder than the predecessor, with certain sequences requiring precise timing or thorough exploration to find obscured exits.[^ref-1]
+Like the first game, it does not let the player get irrevocably stuck or let Adam die.[^ref-6] According to *Pelit*, the puzzles are somewhat harder than the predecessor's.[^ref-1] The Adventurers' Guild reviewer also struggled with unclear and invisible exits in several places.[^ref-17]
 
 ## Reception
 
 ### Contemporary Reviews
 
-Lisa Young, writing for *Compute!* magazine, offered a mixed assessment: "Although the game targets children age 10 and older, young users may find some of the problems frustrating; however, the thrill of solving a difficult problem is rewarding and may encourage them to continue."[^ref-1] The review acknowledged the game's educational value while noting its potential difficulty for younger players.
+Lisa Young's review in *Compute!* (November 1993) was positive overall. She wrote that "vibrant graphics and sounds" make the game "a highly entertaining product", and that children "should find this latest addition to the Sierra Discovery Series highly educational as well."[^ref-29] Her one caution concerned difficulty: "Although the game targets children age 10 and older, young users may find some of the problems frustrating; however, the thrill of solving a difficult problem is rewarding and may encourage them to continue."[^ref-1]
 
-According to *Pelit* magazine, the game is somewhat harder than its predecessor and places more emphasis on the dangers of selfishness and greed, as opposed to the broader environmental blight depicted in the first game.[^ref-1]
+According to *Pelit* magazine, the game is somewhat harder than its predecessor and places more emphasis on the dangers of selfishness and greed, as opposed to "the blight of man".[^ref-1]
 
 ### Modern Assessment
 
@@ -95,9 +96,9 @@ The Adventurers' Guild blog provided an extensive retrospective, noting ambivale
 MobyGames user reviews are generally positive, with one calling it "a truly magnificent game which comes close to perfection" and "one of the best adventure games I have ever played."[^ref-19] Another reviewer praised the game's emotional approach to education, noting how the music contributes to atmosphere—shifting from disquieting when Adam first lands at the empty village to happy ethnic music when people return.[^ref-14]
 
 **Aggregate Scores:**
-- **MobyGames:** 7.7/10 (32 ratings)[^ref-6]
-- **Abandonware DOS:** 4.00/5.00 (42 votes)[^ref-4]
-- **MyAbandonware:** 4.41/5 (62 votes)[^ref-20]
+- **MobyGames:** Moby Score 7.7; players 4.0/5 (33 ratings)[^ref-6]
+- **Abandonware DOS:** 3.95/5.00 (43 votes)[^ref-4]
+- **MyAbandonware:** 4.37/5 (64 votes)[^ref-20]
 - **GameFAQs User Average:** "Good" (19 ratings)[^ref-3]
 
 ## Development
@@ -110,18 +111,20 @@ The game designer [[Gano Haine]] took sole creative control for the sequel, as c
 
 ### Production
 
-Development took place at Sierra On-Line's headquarters in Oakhurst, California, with Cheryl Sweeney serving as producer.[^ref-1] The programming team was led by Bob Fischbach and Doug Oldfield, while the art direction fell to Arturo Sinclair and Andy Hoyos.[^ref-1] The game was built on Sierra's SCI1.1 engine, the same technology powering other contemporary Sierra adventures.[^ref-5]
+Development took place at Sierra On-Line's headquarters in Oakhurst, California, where Haine was working on the game in late 1992.[^ref-21] Peter Fisher is credited as producer, with Cheryl Sweeney credited under production.[^ref-31] Robert (Bob) Fischbach and Doug Oldfield led the programming, and Andy Hoyos and Arturo Sinclair were the art directors.[^ref-31] The game was built on Sierra's SCI1.1 engine, the same technology powering other contemporary Sierra adventures.[^ref-5]
 
-The game's educational content was developed in consultation with ecological experts to ensure scientific accuracy.[^ref-3] The "EcoNews" booklet included with the game provided supplementary reading material on rainforest conservation, complete with coloring activities and word searches to extend the educational experience beyond the software itself.[^ref-14]
+Sierra's official description says the game "is based on scientifically accurate information."[^ref-3] The box also held an "EcoNews" booklet with reading material, a coloring activity and a word search; it explains how to use the Ecorder, and a question asked when Adam first meets the Grove People can only be answered from it.[^ref-30]
 
-**Development Credits:**[^ref-6]
+**Development Credits (DOS):**[^ref-31]
 - **Director:** Gano Haine
-- **Producer:** Cheryl Sweeney
-- **Designer:** Gano Haine
-- **Programmers:** Bob Fischbach, Doug Oldfield
-- **Artists:** Arturo Sinclair, [[Andy Hoyos]]
-- **Composer:** Dan Kehler
-- **Sound Design:** Orpheus Hanley
+- **Producer:** Peter Fisher
+- **Production:** Cheryl Sweeney
+- **Lead Programming:** Robert Fischbach, Doug Oldfield
+- **Art Directors:** [[Andy Hoyos]], Arturo Sinclair
+- **Music:** Dan Kehler
+- **Sound:** Richard Spurgeon
+- **Voiceovers:** Richard Aronson, Neal Grandstaff, Trisha Korte, Greg Tomko-Pavia
+- **Playtesting (among others):** Geoff Keighley
 
 ### Technical Achievements
 
@@ -133,7 +136,7 @@ The music, composed by Dan Kehler, contributed significantly to the game's atmos
 
 **DOS Version:**[^ref-23]
 - **Resolution:** VGA (320x200, 256 colors), also supports EGA, MCGA
-- **Audio:** PC Speaker, AdLib, Roland MT-32, Sound Blaster, Pro Audio Spectrum, PS/1 Audio Card, General MIDI, Thunderboard, [[Disney]] Sound Source, Microsoft Sound System
+- **Audio:** PC Speaker, AdLib, Roland MT-32, Sound Blaster, Pro Audio Spectrum, PS/1 Audio Card, General MIDI, Thunderboard, Disney Sound Source, Microsoft Sound System
 - **Media:** 4 3½" floppy diskettes
 - **Minimum CPU:** Intel i286
 - **Minimum RAM:** 4 MB
@@ -146,8 +149,7 @@ The music, composed by Dan Kehler, contributed significantly to the game's atmos
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1993 | DOS | Initial floppy release[^ref-6] |
-| 1.0 | 1993 | Windows 3.x | Windows 16-bit release[^ref-6] |
+| 1.0 | 1993 | DOS / Windows 3.x | Single boxed floppy release (3.5" and 5.25" disks) containing both DOS and Windows 16-bit versions[^ref-32] |
 | 1.0 | 1993 | PC-98 | Japanese release by Sierra On-Line Japan[^ref-6] |
 
 **SCI Interpreter Versions:**[^ref-5]
@@ -158,18 +160,18 @@ The music, composed by Dan Kehler, contributed significantly to the game's atmos
 
 ### Technical Issues
 
-The Windows 3.x release does not function on 64-bit versions of Windows.[^ref-5] The DOS version requires DOSBox or similar emulator to run on modern Windows systems.[^ref-4] A "somewhat but not quite" copy protection system exists where players must create a facemask using patterns documented in the manual; this can theoretically be brute-forced, and the game directory contains all alternative solutions.[^ref-20][^ref-28][^ref-28]
+The Windows 3.x release does not function on 64-bit versions of Windows.[^ref-5] The DOS version requires DOSBox or similar emulator to run on modern Windows systems.[^ref-4] A "somewhat but not quite" copy protection system exists where players must create a facemask using patterns documented in the manual; this can theoretically be brute-forced, and the game directory contains all alternative solutions.[^ref-20]
 
 ### Easter Eggs and Trivia
 
-- **Slaughter's Initials:** The villain Maxim Slaughter's pillow is monogrammed with "MAS," later revealed to stand for "Maxim A. Slaughter."[^ref-12]
+- **Slaughter's Initials:** The pillow in Slaughter's camp is monogrammed "MAS"; his first name later turns out to be Maxim, but the middle initial is never explained ("No idea what the A stands for," the Adventurers' Guild reviewer notes).[^ref-12]
 - **Trophy Room:** Slaughter's bedroom contains numerous grotesque animal trophies including bunny slippers made from real bunnies, reflecting the game's anti-poaching message through dark humor.[^ref-12]
 - **Forest Heart Comparison:** The magical Forest Heart tree bears resemblance to another giant tree encountered in *Quest for Glory 3*, suggesting some idea-sharing between Sierra development teams.[^ref-14]
 - **Point System:** The game awards extra points for thorough exploration and talking to everyone, though the game can advance without collecting all points.[^ref-8]
 
 ## Voice Cast
 
-The game does not appear to include full voice acting, following the standard for Sierra's floppy-based adventure releases of the era.[^ref-6]
+The game has no full voice acting. The floppy release contains only a couple of spoken lines for a few characters; Adam, Noah and the animals are not voiced.[^ref-30] The DOS credits list four people under Acting / Voiceovers: Richard Aronson, Neal Grandstaff, Trisha Korte and Greg Tomko-Pavia.[^ref-31]
 
 ## Legacy
 
@@ -179,7 +181,7 @@ While specific sales figures are not documented in available sources, *Lost Secr
 
 ### Collections
 
-The game has appeared on various community wishlists for digital re-release, with GOG.com's community wishlist showing 892 votes requesting the title.[^ref-24] As of the research date, the game has not received an official digital re-release through major platforms like GOG or Steam.
+The game has appeared on various community wishlists for digital re-release, with GOG.com's Dreamlist showing 403 votes requesting the title.[^ref-24] As of the research date, the game has not received an official digital re-release through major platforms like GOG or Steam.
 
 ### Fan Projects
 
@@ -188,13 +190,13 @@ Multiple fan-created walkthroughs and guides have been produced over the years, 
 ### Related Publications
 
 - **Game Manual:** Included with retail release, contains copy protection answers for face paint puzzle[^ref-16]
-- **EcoNews Booklet:** Supplementary educational material with coloring activities and word searches, included with game[^ref-14]
+- **EcoNews Booklet:** Supplementary educational material with a coloring activity and a word search, included in the box; also needed to answer an in-game question[^ref-30]
 
 ### Critical Perspective
 
 *EcoQuest 2: Lost Secret of the Rainforest* represents an ambitious attempt to continue Sierra's environmental education series in a new setting, though critical consensus suggests it falls somewhat short of its predecessor's charm. The game arrived during the peak of edutainment software in the early 1990s, when publishers believed interactive entertainment could effectively deliver serious educational messages to young audiences.[^ref-15]
 
-Classic Gamer Hub argues the game is "borderline essential" for those who believe adventure games can be "classrooms wrapped in point-and-click ribbons," while acknowledging it has been "hiding in a fern-cloaked alcove" compared to higher-profile contemporaries like *King's Quest VI*.[^ref-15] The introduction of Paquita the bat as a sarcastic companion added personality to the educational content, though the game's earnest environmental messaging occasionally feels heavy-handed by modern standards.[^ref-15]
+Classic Gamer Hub argues the game is "borderline essential" for those who believe adventure games can be "classrooms wrapped in point-and-click ribbons," while acknowledging it has been "hiding in a fern-cloaked alcove" compared to higher-profile contemporaries like *King's Quest VI*.[^ref-15] The reviewer calls Paquita the bat "the rainforest's sarcastic Jiminy Cricket" and partly blames "the eco-theme's sober earnestness" for the series staying niche.[^ref-15]
 
 The game's emphasis on consequences for environmental destruction—whether through gameplay mechanics or narrative—predated the modern era of environmentally-conscious gaming by decades. However, its legacy remains somewhat obscured, overshadowed by Sierra's more commercially successful adventure franchises and the eventual decline of the edutainment genre in the late 1990s.
 
@@ -215,8 +217,8 @@ The game's emphasis on consequences for environmental destruction—whether thro
 ## See Also
 
 - **Series:** [[1991 - EcoQuest - The Search for Cetus|EcoQuest Series]]
-- **Previous(1991)
-- **Related Educational Games:** [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]], [[Leisure Suit Larry Series]]
+- **Previous:** [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] (1991)
+- **Related Educational Games:** [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]], [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]]
 - **Technology:** [[Sierra On-Line]], [[Sierra Creative Interpreter]]
 
 ## References
@@ -234,18 +236,21 @@ The game's emphasis on consequences for environmental destruction—whether thro
 [^ref-11]: [The Adventurers' Guild – Determined](https://advgamer.blogspot.com/2020/10/lost-secret-of-rainforest-determined.html) – village puzzles, poultice, butterfly catching
 [^ref-12]: [The Adventurers' Guild – Escape](https://advgamer.blogspot.com/2020/11/lost-secret-of-rainforest-escape.html) – Slaughter's camp, trophy room, MAS initials
 [^ref-13]: [Wikipedia – EcoQuest: The Search for Cetus](https://en.wikipedia.org/wiki/EcoQuest) – series info, unwinnable states, SCI engine
-[^ref-14]: [MobyGames – User Review by Nowhere Girl](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/user-review/2561573/) – graphics, music, interface, EcoNews booklet
+[^ref-14]: [MobyGames – User Review by Nowhere Girl](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/user-review/2561573/) – graphics, music, interface, bat trivia icon, Ecorder as inventory item
 [^ref-15]: [Classic Gamer Hub – EcoQuest 2 Review](https://classicgamerhub.com/ecoquest-2-lost-secret-of-the-rainforest-pc-1993-review-the-quest-that-runs-on-eco-points/) – Discovery Series history, Paquita description, critical analysis
 [^ref-16]: [Let's Play Archive – EcoQuest 2 Update 12](https://lparchive.org/EcoQuest-2-Lost-Secret-of-the-Rainforest/Update%2012/) – face paint puzzle, ceremony sequence
 [^ref-17]: [The Adventurers' Guild – Final Rating](https://advgamer.blogspot.com/2021/03/lost-secrets-of-rainforest-final-rating.html) – puzzle criticism, timed sequences, overall assessment
 [^ref-18]: [Adventure Gamers – EcoQuest 2](https://web.archive.org/web/20240419083147/https://adventuregamers.com/games/view/16661) – review score, pros and cons, verdict
 [^ref-19]: [MobyGames – User Review by Tomer Gabel](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/user-review/2333725/) – gameplay praise, General MIDI
 [^ref-20]: [MyAbandonware – Lost Secret of the Rainforest](https://www.myabandonware.com/game/lost-secret-of-the-rainforest-1rb) – user rating, copy protection note
-[^ref-21]: [The Digital Antiquarian – Chief Gates Comes to Oakhurst](https://www.filfre.net/?s=Lost+Secret+of+the+Rainforest) – Gano Haine reference, Sierra development context
+[^ref-21]: [The Digital Antiquarian – Chief Gates Comes to Oakhurst: A Cop Drama](https://www.filfre.net/2019/07/chief-gates-comes-to-oakhurst-a-cop-drama/) – Gano Haine designing the game at Sierra's Oakhurst HQ, late 1992; Daryl Gates visit
 [^ref-22]: [TV Tropes – Dan Kehler](https://tvtropes.org/pmwiki/pmwiki.php/Music/DanKehler) – composer credits
 [^ref-23]: [Sierra Wiki – EcoQuest 2 Technical](http://wiki.sierrahelp.com/index.php/EcoQuest_2:_Lost_Secret_of_the_Rainforest_Technical) – system requirements, audio hardware
-[^ref-24]: [GOG.com – Community Dreamlist](https://www.gog.com/dreamlist/game/ecoquest-ii-lost-secret-of-the-rainforest) – wishlist votes
+[^ref-24]: [GOG.com – EcoQuest II Dreamlist](https://www.gog.com/dreamlist/game/ecoquest-ii-lost-secret-of-the-rainforest-1993) – Dreamlist votes (403 as of 2026-10-12)
 [^ref-25]: [GameFAQs – Guide and Walkthrough by odino](https://gamefaqs.gamespot.com/pc/564688-lost-secret-of-the-rainforest/faqs/64006) – walkthrough data
 [^ref-26]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_EcoQuest_2_-_Lost_Secret_of_the_Rainforest_1993) – game preservation
 [^ref-27]: [Internet Archive – Alternative Upload](https://archive.org/details/ecoquest-2) – game preservation
-[^ref-28]: [MobyGames – Orpheus Hanley](https://www.mobygames.com/person/6020/orpheus-hanley/) – sound design credits
+[^ref-29]: [Compute! Issue 158 (November 1993) – full text](https://archive.org/download/1993-11-compute-magazine/Compute_Issue_158_1993_Nov_djvu.txt) – Lisa Young's review: "highly entertaining", "highly educational as well"
+[^ref-30]: [MobyGames – User Review by Katakis](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/user-review/2311571/) – EcoNews booklet, bat icon, Ecorder as inventory item, few spoken lines
+[^ref-31]: [MobyGames – DOS Credits](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/credits/dos/) – producer, production, programming, art direction, sound, voiceovers, playtesting
+[^ref-32]: [MobyGames – Cover Art](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/covers/) – "DOS and Windows 16-bit" boxed 3.5" and 5.25" disk releases
