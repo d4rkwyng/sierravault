@@ -2,38 +2,36 @@
 title: Front Page Sports Football Pro '97
 release_year: 1996
 developer: Dynamix
-designer: [Cheryl A. Makovsky, Jeremy Jones, Michael D. Branham, Patrick Cook, Scott
-    Youngblood]
+designer: [Scott Youngblood, Patrick Cook]
 publisher: Sierra On-Line
 genre: Sports
-platforms: [DOS, Windows 95]
+platforms: [Windows 95]
 series: Front Page Sports
 engine: Updated Red Baron game engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-composer: ['Composed by Christopher Stevens, Jan Paul Moorhead, and Timothy Steven
-    Clarke.']
+last_updated: '2026-10-12'
+composer: [Christopher Stevens, Timothy Steven Clarke]
 description: Front Page Sports Football Pro '97 is a professional American football
   simulation game developed by Dynamix and published by Sierra On-Line in 1996. The...
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro '97
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Front Page Sports Football Pro '97 is a professional American football simulation game developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1996.[^ref-1] The game was part of Sierra's acclaimed Front Page Sports series, which was notable for being one of the first football simulations to include a career mode where players aged and retired.[^ref-2] As GameSpot reviewer Kevin Mical noted, the game was "more than just a run-of-the-mill football game for the PC."[^ref-3]
+Front Page Sports Football Pro '97 is a professional American football simulation game developed by [[Dynamix]] and published by [[Sierra On-Line]] in late 1996 for Windows 95.[^ref-1][^ref-4] The fifth version of the Front Page Sports Football series, it was the first released for Windows 95.[^ref-3] The series was notable for being one of the first football simulations to include a career mode where players aged and retired.[^ref-2] As GameSpot reviewer Kevin Mical noted, the game was "more than just a run-of-the-mill football game for the PC."[^ref-4]
 
-The game featured comprehensive football management and simulation capabilities, allowing players to "draft the players, design the plays, and make the calls on game day."[^ref-4] As the marketing proclaimed: "The best-selling football game on CD-ROM now sports modem and network play, allowing you to challenge friends head-to-head in a gridiron battle."[^ref-5] It incorporated both detailed statistical tracking with over 300 statistical categories[^ref-6] and featured motion-captured movements with individual-player artificial intelligence.[^ref-7]
+The game combined football management and on-field play: "You draft the players, you design the plays, and you make the calls on game day."[^ref-4] Sierra's box copy announced: "The best-selling football game on CD-ROM now sports modem and network play, allowing you to challenge friends head-to-head in a gridiron battle."[^ref-11] The same copy promoted "individual player Artificial Intelligence and motion-captured movements."[^ref-11]
 
 > [!info]- Game Info
-> **Developer:** [[Dynamix]][^ref-1]
-> **Designer:** Cheryl A. Makovsky (Lead Programmer), Jeremy Jones (Art Director), Michael D. Branham (Executive Producer), [[Patrick Cook]], [[Scott Youngblood]][^ref-1]
+> **Developer:** [[Dynamix]] (MobyGames also credits Synergistic Software)[^ref-1]
+> **Designer:** [[Scott Youngblood]] (Direction, Design), [[Patrick Cook]] (Original Concept)[^ref-20]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** Updated Red Baron game engine[^ref-8]
-> **Platforms:** DOS, Windows 95[^ref-9]
+> **Engine:** Updated Red Baron game engine[^ref-14]
+> **Platforms:** Windows 95[^ref-9][^ref-23]
 > **Release Year:** 1996
 > **Series:** Front Page Sports
 > **Protagonist:** Team Manager/Coach (player-controlled)
@@ -41,46 +39,47 @@ The game featured comprehensive football management and simulation capabilities,
 
 ## Story Summary
 
-Front Page Sports Football Pro '97 does not feature a traditional narrative story, as it is a sports simulation game focused on managing and playing professional American football. The game centers around the player taking control of NFL teams and managing all aspects of football operations, from drafting players to designing plays and coaching games.[^ref-4]
+Front Page Sports Football Pro '97 does not feature a traditional narrative story, as it is a sports simulation game focused on managing and playing professional American football. Players can act as commissioner, general manager, coach, or individual player, managing everything from drafting players to designing plays and coaching games.[^ref-14][^ref-4]
 
-The marketing captured the game's appeal: "Are you ready for some football? It's not only a Monday Night party, it can be an everyday party for you with this intensive simulation-style effort."[^ref-10] Every aspect of professional football management was represented: "Every pass, every run, every bone-shattering tackle looks, moves and feels authentic."[^ref-11]
+Sierra's marketing promised that "Every pass, every run, every bone-shattering tackle looks, moves and feels authentic."[^ref-11] The game included every NFL team and every NFL player under licenses from the NFL and Players Inc.[^ref-14][^ref-26]
 
 ## Gameplay
 
 ### Interface and Controls
 
-The game featured a significantly revamped user interface compared to previous versions in the series. As noted in contemporary reviews, "the interface has been totally revamped, and the good news is that it's much easier to use than before."[^ref-12] The game supported both mouse and gamepad controls, with support for 2 gamepad buttons and offered 16 different camera angles and 16 player animation angles.[^ref-6]
+Football Pro '97 was a native Windows 95 product, and Computer Gaming World found the transition "seamless".[^ref-23] The move brought a new 32-bit play editor using pull-down menus, a Quick Plan feature that generates game plans from the number of play types chosen, and player "sets" that substitute a whole group of players in one action.[^ref-23][^ref-14] A new Play Wizard walks coaches through formation, pre-snap logic, pass routes, holes and blocking assignments.[^ref-23]
 
-The presentation aimed for broadcast authenticity, with one reviewer noting that "Front Page Sports Football Pro does not leave anything to chance as they have stamped out another excellent ball game."[^ref-10]
+The game ran at 640x480, and each player's animation now used 16 angles of rotation rather than eight.[^ref-4] Sierra's FAQ called it "the first year we have had 16 angles", with an option to drop back to 8 angles and 11 kHz sound on slower machines.[^ref-27] Sierra also acknowledged that the joystick input routines had been rewritten for the Windows version and could feel different from '96.[^ref-27]
 
 ### Structure and Progression
 
-Front Page Sports Football Pro '97 offered two main playing modes: simulation mode and action mode.[^ref-13] The game's career mode was a standout feature, being "the only football sim to offer career play, where you can watch players mature, get injured, improve their skills and maybe even make the Hall of Fame."[^ref-14]
+The game offers both coaching and action modes of play.[^ref-4][^ref-23] Its career mode was a standout feature; Sierra billed it as "The only football sim to offer career play. Watch players mature, get injured, improve their skills and maybe even make the Hall of Fame."[^ref-26]
 
 **Team Management Features:**
-- 47-man team rosters[^ref-6]
-- Over 200 stock plays available[^ref-6]
-- Full draft and trade systems
-- Comprehensive statistical tracking
-- Player aging and retirement systems[^ref-2]
+- 10,000 plays included, plus the Play Wizard for designing new ones[^ref-1]
+- Custom leagues of 8 to 30 teams[^ref-1]
+- Draft with real teams or a common draft pool; improved trading[^ref-4]
+- Multiplayer trades of up to three players per side[^ref-23]
+- Player aging and career play[^ref-26]
+- League update tools to convert leagues from earlier versions of the series[^ref-28]
 
 ### Multiplayer Capabilities
 
-The game supported multiple multiplayer configurations:[^ref-6]
-- 1-2 players in same/split-screen mode
-- LAN multiplayer support
-- Modem multiplayer for head-to-head play
+Modem, network and Internet play was the edition's headline addition, for one or two players.[^ref-23][^ref-26] LAN play supported both IPX and TCP.[^ref-27]
+- At launch, multiplayer was limited to coaching mode (and, per Computer Gaming World, exhibition games).[^ref-23][^ref-4]
+- Sierra's FAQ explained that Internet latency made on-field calls such as audibles and time-outs impossible to keep in sync between machines.[^ref-27]
+- GameSpot reported that a free upgrade from Sierra removed the coaching-only limitation.[^ref-4]
 
 ### Technical Features
 
 | Feature | Specification |
 |---------|---------------|
-| Camera Angles | 16 different views[^ref-6] |
-| Animation Angles | 16 per player[^ref-6] |
-| Statistical Categories | 300+[^ref-6] |
-| Stock Plays | 200+[^ref-6] |
-| Roster Size | 47 players per team[^ref-6] |
-| Resolution | SVGA graphics[^ref-8] |
+| Resolution | 640x480 SVGA[^ref-4] |
+| Animation Angles | 16 per player (8 optional)[^ref-27] |
+| Sound Effects | 22 kHz (11 kHz optional)[^ref-27] |
+| Plays Included | 10,000[^ref-1] |
+| League Size | 8 to 30 teams[^ref-1] |
+| Players | 1-2 (modem and network)[^ref-23] |
 
 ## Reception
 
@@ -88,85 +87,71 @@ The game supported multiple multiplayer configurations:[^ref-6]
 
 | Publication | Score | Reviewer | Date |
 |-------------|-------|----------|------|
-| GameSpot | 6.8/10 | Kevin Mical | January 1997[^ref-3] |
-| PC Gamer | 65% | Jason Bates | April 1997[^ref-15] |
+| GameSpot | 6.8/10 | Kevin Mical | January 1997[^ref-4][^ref-3] |
+| Computer Gaming World | 4.5/5 | Dennis McCauley | March 1997[^ref-23][^ref-3] |
 | PC Games | 88% | Christopher Tou | March 1997[^ref-14] |
 | Computer & Net Player | 80% | Tom Hurley | April 1997[^ref-14] |
-| Next Generation | 70% | Staff | May 1997[^ref-14] |
+| PC Gamer | 65% | Jason Bates | April 1997[^ref-14] |
+| Next Generation | ★★ (2/5) | Staff | May 1997[^ref-24] |
 
-PC Gamer's Jason Bates noted "numerous bugs, screen clutter, slow animation" in his review.[^ref-7] Next Generation was particularly critical, describing it as "three or four year old DOS code clumsily retrofitted into a Windows 95 product."[^ref-3]
+Computer Gaming World's Dennis McCauley concluded, "it's still the best football sim on the market," while noting bugs in the initial version.[^ref-23] GameSpot's Mical summed it up as "good…though far from perfect."[^ref-4] TheComputerShow summarized PC Gamer's Jason Bates as finding that bugs, screen clutter, slow animation and multiplayer problems made it a downgrade from the DOS versions.[^ref-7][^ref-14] Next Generation was the harshest, calling it "three or four year old DOS code clumsily retrofitted into a Windows 95 product."[^ref-24]
 
 ### Modern Assessment
 
-The game has maintained a mixed but generally positive reputation among retro gaming enthusiasts. On MobyGames, it holds scores ranging from 62% to 79% depending on the version.[^ref-1] Users on MyAbandonware have rated it 3.5-3.86 out of 5.[^ref-16]
+On MobyGames, the game holds a 79% critic average from five reviews.[^ref-1] Users on MyAbandonware rate it 3.5 out of 5 from two votes.[^ref-16]
 
-Computer Gaming World notably ranked the Front Page Sports Football series as the 11th best computer game of all-time in 1996[^ref-2], and the series won multiple awards including Football Game of the Year from Computer Gaming World in 1993, 1994, 1995, and 1996.[^ref-2]
-
-One user review captured the nostalgic appeal: "A great old classic that is showing signs of age."[^ref-17] Another noted: "Incredible after all these years we still have nothing that can come close"[^ref-18], highlighting the enduring appeal of the series' depth and complexity.
+Sierra's own product page listed the series' Computer Gaming World Sports Game of the Year awards for 1993, 1994 and 1995.[^ref-26] Computer Gaming World's review said the previous year's edition "had little to commend it" over the 1995 winner apart from improved graphics.[^ref-23]
 
 ## Development
 
 ### Origins
 
-Front Page Sports Football Pro '97 was developed during Sierra's strategic transition period in the mid-1990s. As noted by Digital Antiquarian, "Dynamix, the most consistent of Sierra's subsidiary studios, delivered solid performers in the non-adventure games."[^ref-19] The game was part of Sierra's broader sports gaming initiative under the Sierra Sports brand.
+The series' original concept is credited to [[Patrick Cook]], and Computer Gaming World linked the series' focus on graphics to his earlier work on *TV Sports Football* for Cinemaware.[^ref-20][^ref-23] For '97, [[Scott Youngblood]] is credited with direction and design.[^ref-20][^ref-23] Computer Gaming World judged that "the move to Windows 95 consumed the bulk of Sierra's efforts."[^ref-23]
 
 ### Production
 
-The game's development involved a substantial team, with a total of 108 people credited in development according to some sources.[^ref-1]
+MobyGames' Windows credits list 106 people.[^ref-20] Key roles include producer Kate Kloos, project manager Michael D. Branham, lead programmer Cheryl A. Makovsky, and art director Jay Dee Alley.[^ref-20]
 
-**Voice Cast:**[^ref-20]
-| Actor | Role |
-|-------|------|
-| Howard Davis | Match Commentary |
-| Glen Kirk | Additional voices |
-| Jan Paul Moorhead | Additional voices |
-| Corey Reese | Additional voices |
-| Mark Peasley | Additional voices |
-
-**Music:** Composed by Christopher Stevens, Jan Paul Moorhead, and Timothy Steven Clarke.[^ref-5]
+**Music:** Sound and music are credited to Christopher Stevens and Timothy Steven Clarke.[^ref-20]
 
 ### Technical Achievements
 
-The game utilized an updated Red Baron game engine and featured new high-resolution SVGA graphics.[^ref-8] Technical specifications included support for Windows 95, requiring a minimum of a 486 DX2 66 MHz processor, 8 MB RAM, and 100 MB of hard disk space.[^ref-6]
+Football Pro '97 was built on the updated Red Baron engine with the Camera Angle Management System (CAMS), and it finally added player numbers to the jerseys.[^ref-14][^ref-23] Computer Gaming World's minimum requirements were a 486DX2/66 (P90 or better recommended), 8 MB RAM (16 MB recommended) and 30-100 MB of hard disk space.[^ref-23]
 
-The graphics were described as "better than any other sports game to date"[^ref-6], though it shipped with bugs: gameplans imported from the 1996 version could crash the game after the first kickoff, and Sierra posted a patch on its website to fix them.[^ref-14]
+The game shipped with bugs. TheComputerShow reported that gameplans imported from the 1996 version could crash the game after the first kickoff, and that Sierra posted a patch on its website.[^ref-14] Computer Gaming World listed awards given in the wrong conference, category leaders based on career rather than season stats, black rain, and unrealistically frequent blocked kicks in advanced action mode.[^ref-23] The Sierra Help Pages archive several Football Pro '97 updates.[^ref-25]
 
 **System Requirements:**
 
 | Component | Minimum |
 |-----------|---------|
-| Processor | 486 DX2 66 MHz |
-| RAM | 8 MB |
-| Hard Disk | 100 MB |
-| OS | Windows 95 or DOS |
+| Processor | 486 DX2 66 MHz[^ref-23] |
+| RAM | 8 MB[^ref-23] |
+| Hard Disk | 30-100 MB[^ref-23] |
+| OS | Windows 95[^ref-23] |
+| Drive | 2x CD-ROM[^ref-23] |
 
 ## Legacy
 
-The Front Page Sports Football series left a significant impact on sports gaming, pioneering features like career modes and comprehensive statistical tracking that became standard in later football simulations.[^ref-2] However, the series faced challenges with later releases.
+The Front Page Sports Football series was one of the first football simulations with a career mode in which players aged and retired.[^ref-2]
 
 ### Cover Athletes
 
-The '97 edition featured running back Barry Sanders on the cover, while the subsequent Pro '98 featured Dan Marino.[^ref-2] This tradition of featuring prominent NFL players helped establish the series' credibility with football fans.
+The '97 edition featured running back Barry Sanders on the cover, while the subsequent Pro '98 featured Dan Marino.[^ref-3]
 
 ### Series Decline
 
-The series continued with Front Page Sports Football Pro '98 and '99, but was eventually cancelled after the 1999 version was recalled due to quality issues.[^ref-2] IGN later included the series in an article titled "Ten Sports Games That Need To Be Remade"[^ref-22], demonstrating its continued relevance in gaming discussions.
-
-### Historical Significance
-
-The series represented Sierra's most successful foray into sports gaming, with [[Dynamix]] proving their capabilities extended well beyond adventure games and simulations. The detailed career mode and statistical depth influenced future football games including the Madden NFL series.
+The series continued with Front Page Sports Football Pro '98 and '99, but a planned 2000 version was cancelled after the 1999 version was recalled.[^ref-2] In its 2008 article "Ten Sports Games That Need To Be Remade," IGN called the 1995 through 1997 editions the highlight of the series, "undoubtedly the best-looking and best-playing football game on the marketplace."[^ref-22]
 
 ## Purchase
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-football-pro-97) - Community Dreamlist
-- Available on Steam (Front Page Sports Football series)[^ref-18]
+- Not currently sold digitally. [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-football-pro-97) - Community Dreamlist
 
 ## Downloads
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-football-pro-97-fz4)[^ref-16]
-- [GameFabrique](https://gamefabrique.com/games/front-page-sports-football-pro-97/)[^ref-10]
+- [Sierra Help Pages - Front Page Sports Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) - Official patches[^ref-25]
 
 ## See Also
 
@@ -187,24 +172,20 @@ The series represented Sierra's most successful foray into sports gaming, with [
 
 ## References
 
-[^ref-1]: [MobyGames - Front Page Sports Football Pro 97](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/) - Basic game information and release details
-[^ref-2]: [En-Academic Dictionary](https://en-academic.com/dic.nsf/enwiki/4856623) - Series history, Computer Gaming World ranking, awards
-[^ref-3]: [Wikipedia - Front Page Sports Football Pro '97](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Football_Pro_%2797) - GameSpot review score, Next Generation criticism
-[^ref-4]: [GameSpot Review](https://www.gamespot.com/reviews/front-page-sports-football-pro-97-review/1900-2536082/) - Game description and features
-[^ref-5]: [KHInsider Soundtrack Archive](https://downloads.khinsider.com/game-soundtracks/album/front-page-sports-football-pro-97-msdos-windows-gamerip-1996) - Marketing description, music credits
-[^ref-6]: [GameSurge Strategy Guide](https://www.gamesurge.com/pc/strategy/pc_wt/Front.shtml) - Technical specifications and statistical tracking
-[^ref-7]: [TheComputerShow.com Preview](https://web.archive.org/web/20241105072252/http://thecomputershow.com/computershow/previews/fpsfootballpro97.htm) - Motion capture and AI features, PC Gamer criticism
-[^ref-8]: [MobyGames - Front Page Sports Football Pro 96](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/) - Engine and graphics information
-[^ref-9]: [ESRB Rating Page](https://www.esrb.org/ratings/2336/front-page-sports-football-pro-97/) - Platform information
-[^ref-10]: [GameFabrique](https://gamefabrique.com/games/front-page-sports-football-pro-97/) - Game description, review assessment
-[^ref-11]: [GameFAQs](https://gamefaqs.gamespot.com/pc/564581-front-page-sports-football-pro-97) - Marketing description
-[^ref-12]: [NeverDieMedia Product Page](https://web.archive.org/web/20260218023219/https://www.neverdiemedia.com/products/front-page-sports-football-pro-98) - Interface improvements
-[^ref-13]: [MobyGames - Front Page Sports Football Pro 98](https://www.mobygames.com/game/41377/front-page-sports-football-pro-98/) - Game modes description
-[^ref-14]: [TheComputerShow.com Review](https://web.archive.org/web/20241111201434/http://thecomputershow.com/computershow/reviews/fpsfootballpro97.htm) - Career mode features, multiple review scores
-[^ref-15]: [PC Gamer Review Archives] - Jason Bates review score
-[^ref-16]: [MyAbandonware Game Page](https://www.myabandonware.com/game/front-page-sports-football-pro-97-fz4) - User ratings
-[^ref-17]: [Download.cnet.com](https://download.cnet.com/) - User review quote
-[^ref-18]: [Steam Community Page](https://steamcommunity.com/app/316700) - Management gameplay description, user quote
-[^ref-19]: [Digital Antiquarian](https://www.filfre.net/) - Sierra development context
-[^ref-20]: [MobyGames Credits](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/credits/) - Voice cast information
-[^ref-22]: [IGN Game Page](https://www.ign.com/games/front-page-sports-football-pro-97) - Remake discussion reference
+[^ref-1]: [MobyGames - Front Page Sports Football Pro 97](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/) - Developers, release, critic average 79% (5), back-of-box text (10,000 plays, 8-30 team leagues)
+[^ref-2]: [En-Academic Dictionary](https://en-academic.com/dic.nsf/enwiki/4856623) - Series history: early career mode, 1999 recall and cancelled 2000 version
+[^ref-3]: [Wikipedia - Front Page Sports Football Pro '97](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Football_Pro_%2797) - First Windows 95 edition, cover athletes, review dates and scores
+[^ref-4]: [GameSpot Review](https://www.gamespot.com/reviews/front-page-sports-football-pro-97-review/1900-2536082/) - Kevin Mical review, 6.8/10; features and multiplayer
+[^ref-7]: [TheComputerShow.com Preview](https://web.archive.org/web/20241105072252/http://thecomputershow.com/computershow/previews/fpsfootballpro97.htm) - Summary of PC Gamer (Jason Bates) review
+[^ref-9]: [ESRB Rating Page](https://www.esrb.org/ratings/2336/front-page-sports-football-pro-97/) - Platform (Windows PC), rated E
+[^ref-11]: [GameFAQs](https://gamefaqs.gamespot.com/pc/197400-front-page-sports-football-pro-97) - Marketing description, release date
+[^ref-14]: [TheComputerShow.com Review](https://web.archive.org/web/20241111201434/http://thecomputershow.com/computershow/reviews/fpsfootballpro97.htm) - Al Giovetti review: engine, features, bugs, review score roundup
+[^ref-16]: [MyAbandonware Game Page](https://www.myabandonware.com/game/front-page-sports-football-pro-97-fz4) - User rating
+[^ref-20]: [MobyGames Credits](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/credits/windows/) - Windows credits (106 people)
+[^ref-22]: [IGN - Ten Sports Games That Need To Be Remade](https://www.ign.com/articles/2008/06/12/ten-sports-games-that-need-to-be-remade) - 2008 retrospective on the FPS: Football Pro series
+[^ref-23]: [Computer Gaming World #152 (March 1997) - "Broken Field Runner"](https://archive.org/download/Computer_Gaming_World_Issue_152/Computer_Gaming_World_Issue_152_djvu.txt) - Dennis McCauley review: features, bugs, requirements, multiplayer
+[^ref-24]: [Next Generation #29 (May 1997) - "Finals: Front Page Sports: Football Pro '97"](https://archive.org/download/NEXT_Generation_29/NEXT_Generation_29_djvu.txt) - Review, rated ★★
+[^ref-25]: [Sierra Help Pages - Front Page Sports Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) - Football Pro '97 patches
+[^ref-26]: [Sierra On-Line - Front Page Sports: Football Pro '97 (archived Dec 1996)](https://web.archive.org/web/19961220000443/http://www.sierra.com:80/games/fb97/index.html) - Official product page: features, series awards
+[^ref-27]: [Sierra On-Line - FPS: Football Pro '97 FAQ (archived Dec 1996)](https://web.archive.org/web/19961220013729id_/http://www.sierra.com:80/games/fb97/fbfaq.txt) - Animation/sound settings, joystick, Internet and LAN play
+[^ref-28]: [Sierra On-Line - Football League Update Tools (archived Feb 1997)](https://web.archive.org/web/19970215072928/http://www1.sierra.com:80/games/fb97/updates.html) - League conversion utilities for Football Pro '97
