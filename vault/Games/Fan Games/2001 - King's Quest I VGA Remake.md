@@ -5,26 +5,27 @@ developer: AGD Interactive (Tierra Entertainment)
 designer: [Britney K. Brimhall, Christopher T. Warren]
 publisher: AGD Interactive
 genre: Adventure
-platforms: [Windows, Mac, Linux]
+platforms: [Windows, Mac]
 series: King's Quest
 engine: Adventure Game Studio
 protagonist: Sir Graham
 sierra_lineage: Fan Project
-last_updated: '2026-10-09'
-description: 'King''s Quest I: Quest for the Crown VGA Remake is a fan-made reimagining
-  of Roberta Williams'' legendary 1984 adventure game, released on August 7, 2001
-  by...'
+last_updated: '2026-10-12'
+description: 'King''s Quest I: Quest for the Crown VGA Remake is a free fan-made
+  point-and-click remake of Roberta Williams'' 1984 adventure game, released on August
+  7, 2001 by Tierra Entertainment (later AGD Interactive) and rebuilt as an Enhanced
+  Edition in 2009.'
 tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest I: Quest for the Crown VGA Remake
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-King's Quest I: Quest for the Crown VGA Remake is a fan-made reimagining of [[Roberta Williams]]' legendary 1984 adventure game, released on August 7, 2001 by Tierra Entertainment (later renamed AGD Interactive)[^ref-1][^ref-36]. The remake was created using the free Adventure Game Studio engine developed by Chris Jones, and stands as the first complete fan-made adventure remake ever released, as well as the first to include a voice pack[^ref-1][^ref-37]. The project was born from the developers' passion for classic Sierra adventures, originally created as practice with no intention for public release, but it became wildly popular, achieving over 5,000 downloads in its first month and nearly half a million downloads within its first year[^ref-2].
+King's Quest I: Quest for the Crown VGA Remake is a fan-made reimagining of [[Roberta Williams]]' legendary 1984 adventure game, released on August 7, 2001 by Tierra Entertainment (renamed AGD Interactive on December 10, 2003)[^ref-1][^ref-7]. The remake was created using the free Adventure Game Studio engine developed by Chris Jones; AGDI describes it as "the first complete fan-made adventure remake ever released, and the first to ever include a voice pack"[^ref-1]. According to AGDI, the team had "only intended to remake the game for our own practice and never really intended to show it to anyone else"[^ref-37]. AGDI reports that over 5,000 copies were downloaded in the first month and that "in the first year, that number jumped to nearly half a million"[^ref-2].
 
-The remake upgrades the original game with VGA-quality graphics, a modern point-and-click interface similar to King's Quest V and VI, full voice acting, and digital music[^ref-3]. What sets this fan project apart is its remarkable professional quality—reviewers noted that "you'd be hard pressed to tell that it wasn't created by Sierra On-Line in their golden days"[^ref-4]. The game received a special fan license from Vivendi Universal (the Sierra rights holder at the time), allowing the developers to distribute it freely[^ref-5]. An Enhanced Edition (version 4.0) released on January 17, 2009 completely overhauled all backgrounds with new hand-painted artwork, added full narrator speech with lip-syncing, and introduced a "No Dead-Ends" gameplay mode[^ref-6].
+The remake upgrades the original game with VGA-quality graphics, a modern point-and-click interface similar to King's Quest V and VI, full voice acting, and digital music[^ref-3]. Erpy's official game guide on the AGDI site claims that "you'd be hard pressed to tell that it wasn't created by Sierra On-Line in their golden days"[^ref-4]. AGDI worked under a fan license from the rights holders of the time (Vivendi Universal), allowing the game to be distributed free of charge[^ref-5][^ref-35]. An Enhanced Edition (version 4.0) released on January 17, 2009 re-edited all backgrounds to remove collaged artwork, added narrator speech and lip-synced dialogue portraits, and introduced an optional "No Dead-Ends" gameplay mode[^ref-1][^ref-37].
 
 The remake directly addresses shortcomings of Sierra's own 1990 SCI remake, which featured only 16-color EGA graphics and retained the text parser interface—a version that was considered a "total market failure"[^ref-2]. AGD Interactive's goal was to create the VGA point-and-click version of King's Quest I that Sierra never made, bringing the classic game to the same quality standard as King's Quest V[^ref-2].
 
@@ -33,21 +34,21 @@ The remake directly addresses shortcomings of Sierra's own 1990 SCI remake, whic
 > **Designer:** Britney K. Brimhall, Christopher T. Warren[^ref-7]
 > **Publisher:** AGD Interactive[^ref-1]
 > **Engine:** Adventure Game Studio[^ref-3]
-> **Platforms:** Windows, Macintosh, Linux[^ref-8]
+> **Platforms:** Windows, Macintosh[^ref-8] (MobyGames also lists 2001 DOS and Linux releases[^ref-18])
 > **Release Year:** 2001
 > **Series:** King's Quest
 > **Protagonist:** Sir Graham
-> **Sierra Lineage:** Fan Remake
+> **Sierra Lineage:** Fan Project
 
 ## Story Summary
 
-The Kingdom of Daventry faces dire circumstances as King Edward the Benevolent lies dying without an heir to succeed him[^ref-9]. Three magical treasures that once protected the kingdom have been stolen through deception and treachery: a magic shield that protects its bearer from invaders, a mirror that can foretell the future, and a chest that is always full of gold[^ref-10]. Without these artifacts, Daventry has fallen into decline, and the aging king desperately needs a champion to restore them before his death.
+The Kingdom of Daventry is in decline, and King Edward the Benevolent, who has no heir, fears he has little time left to live[^ref-5][^ref-13]. Three magical treasures that once protected the kingdom have been lost: a future-telling Magic Mirror, a Magic Chest that is forever full of gold, and a Magic Shield that protects its user from all attacks[^ref-13]. The aging king needs a champion to restore them before his death.
 
-Sir Graham, a brave and loyal knight in service to King Edward, is chosen for this perilous quest[^ref-3]. The king promises that whoever can recover all three treasures will become his heir and rule Daventry after his passing. Graham must venture into the dangerous wilderness surrounding Castle Daventry, navigating through enchanted forests, treacherous mountains, and magical realms populated by creatures from fairy tales and folklore[^ref-11].
+Sir Graham, a brave and loyal knight in service to King Edward, is chosen for this perilous quest[^ref-3]. The king promises that once Graham has collected all three treasures, he will become the new King of Daventry[^ref-13]. Graham must venture into the dangerous wilderness surrounding Castle Daventry, navigating through enchanted forests, treacherous mountains, and magical realms populated by creatures from fairy tales and folklore[^ref-11].
 
-Throughout his journey, Graham encounters a cast of characters drawn from classic fairy tales, including the three Billy Goats Gruff, a giant atop a beanstalk reminiscent of Jack's adventure, a witch in a gingerbread house, and a mysterious gnome whose name must be guessed—an obvious nod to Rumpelstiltskin[^ref-11]. The knight must use his wits rather than violence to overcome most obstacles, as in typical Roberta Williams fashion, "it's generally the least violent approach that receives the most amount of points"[^ref-12].
+Throughout his journey, Graham encounters a cast of characters drawn from classic fairy tales, including the three Billy Goats Gruff, a giant atop a beanstalk reminiscent of Jack's adventure, a witch in a gingerbread house, and a mysterious gnome whose name must be guessed—an obvious nod to Rumpelstiltskin[^ref-11]. Many obstacles can be overcome by force or by cleverness, and the cleverer solution usually scores better; as one player review on the AGS database put it, "you'll get a much higher final score if you use more cunning means to achieve your aims"[^ref-19].
 
-Upon successfully recovering all three treasures and returning them to Castle Daventry, Graham is crowned the new King of Daventry, setting the stage for the adventures that would follow in subsequent King's Quest titles[^ref-9]. The maximum score achievable in the game is 158 points, with players rewarded for finding optimal and non-violent solutions to the various challenges[^ref-13].
+When Graham returns to Castle Daventry with all three treasures, King Edward dies and Graham inherits the throne, setting the stage for the subsequent King's Quest titles[^ref-5][^ref-13]. The maximum score achievable in the game is 158 points[^ref-13].
 
 ## Gameplay
 
@@ -55,49 +56,46 @@ Upon successfully recovering all three treasures and returning them to Castle Da
 
 The VGA remake replaces the original game's text parser with an icon-based point-and-click interface modeled after King's Quest V and VI[^ref-3]. Players interact with the game world using cursor icons for walking, looking, talking, touching, and using inventory items[^ref-4]. This modernization made the classic adventure accessible to players unfamiliar with typing commands, while preserving the puzzle-solving essence of the original[^ref-14].
 
-The interface includes a full inventory system where collected items can be examined and combined[^ref-15]. Mouse support allows for intuitive navigation, with Graham walking to wherever the player clicks on screen[^ref-11]. The game also supports keyboard input for those who prefer traditional movement controls, including numeric keypad navigation[^ref-4].
+Collected items are kept in an inventory where they can be examined and manipulated—opening the walnut with the Hand icon, for example, reveals that it is solid gold[^ref-13]. Mouse support allows for intuitive navigation, with Graham walking to wherever the player clicks on screen[^ref-11]. Erpy's guide notes that keypad control was a feature of version 3.0[^ref-4].
 
 ### Structure and Progression
 
-King's Quest I features a non-linear open-world structure that was revolutionary for its time[^ref-16]. The game world consists of approximately 48 screens arranged in a wrap-around map, where walking off one edge of the world eventually brings the player back to the starting location[^ref-16]. Players can explore freely and tackle the three treasure quests in any order they choose.
+The remake keeps the non-linear structure of the 1984 original, which AGDI calls "revolutionary" for its time[^ref-2]. Daventry wraps around on itself, so walking off one edge eventually brings the player back[^ref-5]; Retro Freak Reviews, writing about the original game, counts "about 48 screens" without interiors[^ref-16]. Players can explore freely and tackle the three treasure quests in any order they choose[^ref-16].
 
-- **The Magic Shield:** Protected by a fearsome fire-breathing dragon in an underground cavern
-- **The Magic Mirror:** Guarded by a wicked witch in a gingerbread house
-- **The Magic Chest:** Held by a giant at the top of a massive beanstalk
+- **The Magic Mirror:** Guarded by a dragon in a lair reached from the bottom of the old well[^ref-38]
+- **The Magic Chest:** Held by a giant in Cloudland, at the top of the beanstalk[^ref-38]
+- **The Magic Shield:** Kept in the throne room of the Leprechaun King, reached by grabbing the condor's talons and descending a hole[^ref-38]
 
-The game's open structure means players can discover and collect various helpful items throughout the world before determining which treasure to pursue first. This design, described as "probably the beginning of the open-world mechanic we know nowadays," allows for multiple approaches to problem-solving[^ref-16].
+The game's open structure means players can discover and collect various helpful items throughout the world before determining which treasure to pursue first. Retro Freak Reviews called the original's design "probably the beginning of the open-world mechanic we know nowadays"[^ref-16].
 
 ### Puzzles and Mechanics
 
 Puzzles in King's Quest I draw heavily from fairy tale logic and classic adventure game conventions[^ref-11]. Many solutions require applying knowledge from well-known stories—crossing a bridge requires dealing with a troll (echoing the Three Billy Goats Gruff), while escaping the giant involves tactics similar to Jack and the Beanstalk[^ref-11].
 
-One infamous puzzle involves guessing a gnome's name, which in the original version required players to apply a reverse alphabet cipher to "Rumplestiltskin" (resulting in "Ifnkovhgropp"). The remake simplified this to only require spelling the name backwards as "Nikstlitselpmur"[^ref-12]. Players who correctly identify the gnome's name receive magic beans that enable access to the giant's realm.
+One infamous puzzle involves guessing a gnome's name. A note found in the witch's house hints that "Sometimes it is wise to think backwards," and the answer the remake accepts is "Ifnkovhgroghprm," worth 9 points; failing three guesses earns a key instead[^ref-13]. Players who guess correctly receive magic beans that grow into the beanstalk to Cloudland[^ref-13][^ref-38]. Version 4.2 RC1 made the name entry no longer case-sensitive[^ref-6].
 
-The remake introduces an optional "No Dead-Ends" gameplay mode that eliminates situations where players could become permanently stuck[^ref-6]. In the original game, using certain items incorrectly or missing them entirely could render the game unwinnable without the player knowing until much later. With this new mode enabled, "no longer will you need to restore to an earlier save-game and retrace your steps just to perform one minor action differently"[^ref-17].
+The remake introduces an optional "No Dead-Ends" gameplay mode that eliminates situations where players could become permanently stuck[^ref-37]. In the original game, using certain items incorrectly or missing them entirely could render the game unwinnable without the player knowing until much later. With this new mode enabled, "no longer will you need to restore to an earlier save-game and retrace your steps just to perform one minor action differently"[^ref-17].
 
-Various creatures roam the game world randomly, including a dwarf who steals items from Graham's inventory and an eagle (condor) that can carry Graham to otherwise inaccessible areas[^ref-12]. The dragon can be defeated through multiple approaches: throwing water at it, wearing an invisibility ring, receiving protection from the Fairy Godmother, or throwing a dagger—with the least violent solutions earning the most points[^ref-12].
+Random hazards roam parts of Daventry, including a dwarf who can steal items (even the Magic Mirror or Chest) from Graham's inventory, a sorcerer, an ogre, a wolf and the witch[^ref-39]. A condor can be grabbed by its talons to carry Graham to an otherwise unreachable area[^ref-38]. The dragon can be driven off by throwing water at it (5 points) or killed by throwing the dagger (3 points)[^ref-38]. The Fairy Godmother sometimes grants a protection spell that wards off most enemies for about a minute[^ref-13].
 
 ## Reception
 
 ### Contemporary Reviews
 
-The VGA remake was enthusiastically received by the adventure gaming community upon its release. Adventure Gamers praised it as a superb recreation, noting that "the graphics have been given a notable upgrade and look absolutely stunning in places" and recommending it "to all fans of adventure games"[^ref-3]. MobyGames critics awarded the remake an impressive 86% rating, with reviewer Silverblade declaring it "a truly professional effort, the graphics on par with Sierra's own Quest for Glory I remake"[^ref-18].
+The VGA remake was enthusiastically received by the adventure gaming community upon its release. Adventure Gamers praised it as a superb recreation, noting that "the graphics have been given a notable upgrade and look absolutely stunning in places" and recommending it "to all fans of adventure games"[^ref-3]. MobyGames lists a critic average of 86% (from 7 ratings), and a 2004 MobyGames player review by Silverblade called it "a truly professional effort, the graphics on par with Sierra's own Quest for Glory I remake"[^ref-18].
 
-User reviews on the Adventure Game Studio database were overwhelmingly positive, with one reviewer stating "this game was amazing for a remake, keeping all the same puzzles dialogue and screens as Sierra's KQ Remake of their own"[^ref-19]. Another reviewer credited the game with getting them "hooked to point and click adventures"[^ref-19]. The AGS Panel noted that while it "suffers from the same poor storyline and unexpected deaths" as the original, "it does feature original artwork and soundtrack"[^ref-19].
-
-GameFAQs reviewer JDFusion awarded the remake an 8/10, praising it as "a great game, and still a classic" while lamenting that "it truly is a shame games aren't like these anymore"[^ref-15]. The reviewer noted that "nothing in it has changed, just a slight graphical and sound improvement" while maintaining the charm of the original[^ref-15].
+User comments on the Adventure Game Studio database were largely positive; one player called it "amazing for a remake," praising it for keeping the same puzzles, dialogue and screens as Sierra's own remake[^ref-19]. Another credited the game with getting them "hooked to point and click adventures"[^ref-19]. The AGS Panel noted that while it "suffers from the same poor storyline and unexpected deaths" as the original, "it does feature original artwork and soundtrack"[^ref-19].
 
 ### Modern Assessment
 
-The game maintains strong ratings across multiple platforms. GamesNostalgia gave the remake an 81/100 editorial score, calling it "a must have for all the old school adventures lovers"[^ref-20]. MyAbandonware users rate it 4.63 out of 5 stars[^ref-21], while Metacritic shows a user score of 6.3/10 based on 9 ratings[^ref-22].
+The game maintains strong ratings across multiple platforms. GamesNostalgia gave the remake an 81/100 editorial score, calling it "a must have for all the old school adventures lovers"[^ref-20]. MyAbandonware users rate it 4.63 out of 5 (8 votes)[^ref-21], while Metacritic shows a user score of 6.3/10 based on 9 ratings[^ref-22].
 
-Home of the Underdogs praised the remake effusively: "If Sierra Studios were to have made this themselves, I doubt they'd have done it much differently" and "Made with an amazing professionalism. The game has improved in every aspect"[^ref-21]. The website GamesRadar listed it among the "top thirty free downloadable games"[^ref-5].
+Home of the Underdogs (rating 8) praised the remake: "They have done this with an amazing professionalism. The game has improved in every aspect. If Sierra Studios were to have made this themselves, I doubt they'd have done it much differently"[^ref-43].
 
 **Aggregate Scores:**
 - **MobyGames:** 86% (critics)[^ref-18]
 - **GamesNostalgia:** 81/100[^ref-20]
 - **IMDB:** 6.5/10[^ref-23]
-- **GameFAQs:** 8/10[^ref-15]
 - **MyAbandonware:** 4.63/5[^ref-21]
 - **Metacritic (User Score):** 6.3/10[^ref-22]
 
@@ -107,31 +105,31 @@ Home of the Underdogs praised the remake effusively: "If Sierra Studios were to 
 
 The remake began as a practice project by two anonymous developers who would later be known as Anonymous Game Developer #1 and Anonymous Game Developer #2[^ref-24]. Developer #1, a female from the Southwest US living on the West Coast who had previously worked at a European Internet startup, chose the company name "Tierra" because it was "the name of a mythical land that I'd created and written about as a kid. In Spanish, it meant Earth"[^ref-24].
 
-Originally, the team was developing a parody called "Royal Quest I: Retrieving Lost Shit" featuring a "bad-ass" Graham more interested in fighting than solving puzzles[^ref-18]. When this project was cancelled, development shifted to a faithful recreation of King's Quest I instead[^ref-18]. Developer #2 lived in Melbourne, Australia, and the pair worked together remotely, preferring anonymity as "it goes against our purpose of releasing these games for a cause rather than for recognition"[^ref-24].
+Alongside the remake, the team was developing a parody called "Royal Quest: Retrieving Lost Shit," which MobyGames describes as featuring a "bad-ass" Graham more interested in fighting than solving puzzles[^ref-7][^ref-18]. The two were developed simultaneously; Royal Quest was still in progress after the remake's release and was cancelled in late 2001 because the developers "believed that it did not promote the values and tone they were trying to preserve in remaking the old Sierra classics"[^ref-7][^ref-40]. Developer #2 lived in Melbourne, Australia, and the pair worked together remotely, preferring anonymity as "it goes against our purpose of releasing these games for a cause rather than for recognition"[^ref-24].
 
-The developers aimed to create the VGA point-and-click version that Sierra never made. While Sierra had remade several classic titles in 1991 with VGA graphics and mouse interfaces (including Space Quest I, Leisure Suit Larry, and Police Quest), King's Quest I received only a 16-color EGA upgrade in 1990 that retained the text parser[^ref-4]. AGDI's stated goal was to "remake King's Quest I: Quest for the Crown to the same level of quality as seen in Sierra's King's Quest V"[^ref-2].
+The developers aimed to create the VGA point-and-click version that Sierra never made. While Sierra had remade several classic titles in 1991 with VGA graphics and mouse interfaces (including Space Quest I, Leisure Suit Larry, and Police Quest), King's Quest I received only a 16-color EGA upgrade in 1990 that retained the text parser[^ref-2][^ref-4]. AGDI's stated goal was to "remake King's Quest I: Quest for the Crown to the same level of quality as seen in Sierra's King's Quest V"[^ref-2].
 
 ### Production
 
 Development was undertaken entirely by volunteers working without pay, described as "months of unpaid hard work" given as "a gift to the adventure gaming community"[^ref-2]. The initial release was built by just the two founding members, with the broader team expanding over subsequent versions[^ref-25].
 
-The team used the free Adventure Game Studio engine, which proved capable of recreating the Sierra adventure game experience faithfully[^ref-4]. Early versions used modified artwork with elements "collaged and ripped" from other Sierra games including King's Quest V, Quest for Glory IV and V, and other titles[^ref-6]. This approach allowed rapid development but created visual inconsistencies that the developers found "particularly jarring"[^ref-6].
+The team used the free Adventure Game Studio engine, which proved capable of recreating the Sierra adventure game experience faithfully[^ref-4]. Early versions used modified artwork with elements taken from other Sierra games including King's Quest V and Quest for Glory IV and V[^ref-5]. AGDI later wrote that what it "found particularly jarring were the collaged and ripped elements of some backgrounds that had been taken from other Sierra games"[^ref-37].
 
-For the Enhanced Edition (version 4.0), all backgrounds were completely redrawn by artists John Paul Selwood, Emily Selwood, and Johan Botes to eliminate borrowed assets and create a consistent visual style[^ref-6]. The character dialogue portraits were also completely redrawn with lip-syncing capabilities added[^ref-6].
+For the Enhanced Edition (version 4.0), all backgrounds were completely redrawn by artists John Paul Selwood, Emily Selwood, and Johan Botes to eliminate borrowed assets and create a consistent visual style[^ref-37]. Britney Brimhall also redid the character dialogue pictures, which gained full lip-syncing[^ref-37].
 
-**Development Credits:**[^ref-7][^ref-25]
+**Development Credits:**[^ref-7][^ref-18][^ref-25]
 - **Directors:** Britney K. Brimhall, Christopher T. Warren
 - **Background Artists (v4.0):** John Paul Selwood, Emily Selwood, Johan Botes
 - **Music (original KQ1):** [[Ken Allen]]
-- **Music (remake):** Tom Lewandowski, Rufus the Hat Rack
-- **Voice Director:** Uncredited
+- **General MIDI Arrangements:** Tom Lewandowski
+- **Tierra Theme Music:** Rufus the Hat Rack
 - **Engine Creator:** Chris Jones (Adventure Game Studio)
 
 ### Technical Achievements
 
-The remake successfully replicates the Sierra adventure game experience using modern technology[^ref-19]. The game features 32-bit color graphics at 320x200 resolution (scalable to higher resolutions), full digital music, and complete voice acting for all characters and narration[^ref-19].
+The AGS database lists the game's graphics as 320x200 in 32-bit colour, with full narrator and character speech and digital music included in the download[^ref-19].
 
-Version 4.0 introduced several technical improvements including Windows Vista compatibility, Ogg Theora video format for cutscenes, and full lip-syncing for character dialogue[^ref-6]. The Enhanced Edition was described as achieving a quality level where "it really does feel like playing a genuine Sierra game all the more"[^ref-6].
+Version 4.0 introduced several technical improvements including Windows Vista support, native Ogg Theora movies for cutscenes, and full lip-syncing for character dialogue[^ref-37]. AGDI's own announcement said the redone backgrounds made it "really does feel like playing a genuine Sierra game all the more"[^ref-37].
 
 The game's statistics reveal its scope: 2,865 sprites out of a 30,000 maximum capacity, 55 sprite folders, 122 views, 20 GUIs, 26 inventory items, 39 characters, and 3 dialog topics[^ref-1].
 
@@ -155,9 +153,9 @@ The game's statistics reveal its scope: 2,865 sprites out of a 30,000 maximum ca
 - **Additional:** Apple's X11 required
 
 **Graphical Options (v4.0+):**[^ref-26]
-- **Resolution:** 320x200 native, scalable to 1280x800 and higher
-- **Color Depth:** 32-bit or 64-bit color
-- **Graphics Driver:** Direct3D, OpenGL (v4.2+)
+- **Resolution:** 320x200 native[^ref-19], runs at 1280x800 with Direct3D
+- **Color Depth:** 32-bit colour[^ref-19]
+- **Graphics Driver:** Direct3D; OpenGL added in v4.2 RC1[^ref-6]
 - **Anti-aliasing:** 4x available
 
 ### Cut Content
@@ -170,13 +168,13 @@ Certain Easter eggs from the original were not implemented, such as the response
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | August 7, 2001 | Windows | Initial release, first complete fan remake ever[^ref-1] |
+| 1.0 | August 7, 2001 | Windows | Initial release[^ref-1] |
 | 2.0 | September 1, 2001 | Windows | Voice pack support added[^ref-1] |
 | 3.0 | October 1, 2003 | Windows | Translation pack support, bug fixes, optimized audio[^ref-1] |
-| 4.0 | January 17, 2009 | Windows | Enhanced Edition: redrawn backgrounds, narration, No Dead-Ends mode[^ref-6] |
-| 4.1 | September 1, 2010 | Windows/Mac | Mac support added, bug fixes, MIDI removed[^ref-1] |
-| 4.1b | November 18, 2010 | Windows | Patch with save-game fixes[^ref-6] |
-| 4.1c | 2010 | Windows | Launcher consolidation[^ref-6] |
+| 4.0 | January 17, 2009 | Windows | Enhanced Edition: re-edited backgrounds, narration, No Dead-Ends mode[^ref-1][^ref-37] |
+| 4.1 | September 1, 2010 (forum post: September 12) | Windows/Mac | Mac port added, bug fixes, new installer[^ref-1][^ref-37] |
+| 4.1b | November 18, 2010 | Windows | Patch with save-game and GUI fixes[^ref-36][^ref-37] |
+| 4.1c | by February 2011 | Windows | Launcher files merged into a single Launcher.exe[^ref-36] |
 | 4.2 RC1 | July 21, 2024 | Windows | Engine upgrade to AGS 3.6.1, OpenGL support[^ref-6] |
 
 **AGS Engine Versions:**[^ref-6]
@@ -188,17 +186,17 @@ Certain Easter eggs from the original were not implemented, such as the response
 
 ### Technical Issues
 
-Several bugs were identified and addressed across versions[^ref-6]:
-- Save-game files getting misnumbered and overwriting existing saves
-- GUIs not properly centered on screen
-- Fairy Godmother's spell expiring while flying with the Condor
-- Graham's reflection in moat water not updating correctly
-- Missing confirm overwrite GUI when saving
-- Crashes on restart/restore/quit dialogs[^ref-19]
-- Graphics filters in winsetup.exe causing game crashes[^ref-6]
-- Display problems and screen stretching on widescreen monitors (pre-4.2)[^ref-6]
+Several bugs were identified and addressed across versions:
+- Save-game files getting misnumbered and overwriting existing saves (fixed in 4.1b)[^ref-36]
+- GUIs not properly centered on screen (fixed in 4.1b)[^ref-36]
+- Fairy Godmother's spell expiring while flying with the Condor (fixed in 4.1b)[^ref-36]
+- Graham's reflection in moat water not updating correctly (fixed in 4.1b)[^ref-36]
+- Missing confirm overwrite GUI when saving (added in 4.1b)[^ref-36]
+- Graphics filters in winsetup.exe crashing the game (fixed in 4.1)[^ref-37]
+- One AGS database player reported frequent crashes at the "restart/restore/quit" dialog in an earlier version[^ref-19]
+- Display problems and screen stretching on widescreen monitors (addressed in 4.2 RC1)[^ref-6]
 
-Version 4.2 was released in 2024 specifically to address "compatibility issues on modern operating systems and hardware" that had accumulated over the decade since the last update[^ref-6].
+Version 4.2 RC1 was released in July 2024 specifically to address "compatibility issues on modern operating systems and hardware" that had accumulated over the decade since the last update[^ref-6].
 
 ### Easter Eggs and Trivia
 
@@ -217,30 +215,29 @@ The remake includes numerous hidden references and secrets[^ref-13]:
 - **Goat Revenge:** The goat will push Graham off a cliff if he eats the carrot in a specific location
 - **Troll Food:** Using food items on the troll (1:4 chance) produces a hidden message
 
-The company name change from Tierra Entertainment to AGD Interactive in December 2003 was partly motivated by the original name being "a tad too similar to Sierra"[^ref-30].
+The company name change from Tierra Entertainment to AGD Interactive on December 10, 2003[^ref-7] was partly motivated by the original name being "a tad too similar to Sierra"[^ref-30].
 
 ## Voice Cast
 
 | Character | Voice Actor |
 |-----------|-------------|
 | Sir Graham | Josh Mandel[^ref-5] |
-| Narrator | John Bell[^ref-6] |
+| Narrator | John Bell[^ref-37] |
 | King Edward / Witch / Elf / Castle Guard | Christopher T. Warren[^ref-5] |
 | Fairy Godmother | Hope Kodman[^ref-5] |
 | Rat | Matthew Meaby[^ref-5] |
 | Doctor | Ryan Swindoll[^ref-5] |
-| Anastasia | Britney Brimhall[^ref-23] |
 | Additional Voices | Holden Jams[^ref-18] |
 
-Josh Mandel reprised his iconic role as Graham, having previously voiced the character in Sierra's official King's Quest V and VI CD-ROM versions[^ref-5]. John Bell provided narration vocals similar to the CD-ROM versions of those games, with full lip-syncing added in version 4.0[^ref-6]. The voice pack was initially released as a separate download on September 1, 2001, and was downloaded "hundreds of times in first few days"[^ref-31].
+Josh Mandel reprised his iconic role as Graham, having previously voiced the character in Sierra's official King's Quest V and VI CD-ROM versions[^ref-5]. John Bell provided narration vocals similar to the CD-ROM versions of those games for version 4.0[^ref-5][^ref-37]. The voice pack was initially released as a separate download on September 1, 2001[^ref-1], and AGDI says it "was downloaded hundreds of times in a period of just a few days"[^ref-2].
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-As a free fan project, the remake generated no direct revenue, but its impact on both the fan community and Sierra's commercial fortunes was notable. The game was downloaded over 5,000 times in its first month of August 2001, with nearly 500,000 downloads in its first year[^ref-2]. By September 2010, total downloads exceeded 494,000[^ref-1].
+As a free fan project, the remake generated no direct revenue, but its impact on both the fan community and Sierra's commercial fortunes was notable. According to AGDI, the game was downloaded over 5,000 times in its first month of August 2001, with "nearly half a million" in its first year[^ref-2]; AGDI also states that by September 2010 it had been downloaded over 494,000 times[^ref-1].
 
-Remarkably, "sales of Sierra's King's Quest VIII skyrocketed in the month of this remake's release"[^ref-7], suggesting the fan remake renewed interest in the commercial franchise. The project won multiple AGS Awards in 2001, including Best AGS Documentation, Best Animation in an AGS Game, and Best Room Art in an AGS Game[^ref-19].
+Just Adventure's October 2001 "State of Adventure Gaming" column noted that the nearly three-year-old King's Quest VIII: Mask of Eternity was the top-selling adventure game of August 2001 (19,484 units), and offered only as a theory ("what if...") that players of the remake, which had passed 20,000 downloads through Just Adventure, might have gone on to buy it[^ref-41]. Wikipedia summarizes this as KQ8 sales having "skyrocketed" that month[^ref-7]. The project won multiple AGS Awards in 2001, including Best AGS Documentation, Best Animation in an AGS Game, and Best Room Art in an AGS Game[^ref-19].
 
 ### Awards
 
@@ -258,11 +255,11 @@ Remarkably, "sales of Sierra's King's Quest VIII skyrocketed in the month of thi
 AGD Interactive followed this remake with increasingly ambitious projects:
 - **King's Quest II: Romancing the Stones** – A complete reimagining of King's Quest II that was described as transforming it into "a completely new game only in part based on the original, with far superior graphics, mouse control, music and voices"[^ref-32]
 - **King's Quest III Redux: To Heir Is Human** – Released February 2011, praised by Destructoid as potentially "the definitive version of this timeless adventure game"[^ref-33]
-- **Quest for Glory II: Trial by Fire** – Complete VGA remake released 2008-2011
+- **Quest for Glory II: Trial by Fire** – VGA remake released August 24, 2008[^ref-7]
 
 The development team later founded Himalaya Studios to create original commercial games, including the "adventure/RPG hybrid akin to Quest for Glory called Mage's Initiation"[^ref-34].
 
-However, after Activision acquired Vivendi and the Sierra intellectual property, AGD Interactive was informed "we will not be granted permission to start any new Sierra remakes in the future"[^ref-6].
+However, after Activision acquired Vivendi and the Sierra intellectual property, AGD Interactive reported that it had been informed "that we will not be granted permission to start any new Sierra remakes in the future"[^ref-42].
 
 ### Related Publications
 
@@ -276,21 +273,19 @@ However, after Activision acquired Vivendi and the Sierra intellectual property,
 
 ### Critical Perspective
 
-The King's Quest I VGA Remake represents a watershed moment in fan game development, demonstrating that passionate amateur developers could create experiences rivaling commercial releases. Its success helped establish AGD Interactive as the premier fan remake studio and inspired countless other preservation and remake efforts in the adventure gaming community.
+The remake was AGDI's first release and led directly to its later King's Quest II, King's Quest III and Quest for Glory II remakes[^ref-7]. A Wikipedia-derived summary on Alchetron credits it with inspiring other fan developers, such as Infamous Adventures with its King's Quest III and Space Quest II remakes[^ref-5].
 
-The project's significance extends beyond technical achievement to cultural preservation. By updating King's Quest I for modern systems while respecting the original design, AGD Interactive ensured that new generations of players could experience the game that "can be credited as the game that started graphic adventure gaming on the PC"[^ref-2]. The remake's quality was so high that it was noted "if Sierra Studios were to have made this themselves, I doubt they'd have done it much differently"[^ref-21].
-
-The team's approach of receiving official licensing before distribution set an important precedent for fan projects, establishing a model of respectful collaboration with rights holders rather than adversarial piracy. This legitimacy allowed the project to thrive openly and reach a massive audience while honoring the original creators' work.
+AGDI frames the project as a way to keep playable the game that, in its words, "can be credited as the game that started graphic adventure gaming on the PC"[^ref-2]. Like other AGDI, Phoenix Online and Infamous Adventures projects, it was released for free under a fan license from the rights holders[^ref-35].
 
 ## Purchase
 
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+This fan remake is not sold anywhere; AGDI states that "the game is not available in stores or for sale" and distributes it as a free download[^ref-4]. Sierra's own King's Quest I versions are sold separately.
 
 ## Downloads
 
 **Official Download:**
-- [AGD Interactive Official Site](https://www.agdinteractive.com/games/kq1/download/download.html) – Free download, versions 4.1 and 4.2
+- [AGD Interactive Official Site](https://www.agdinteractive.com/games/kq1/download/download.html) – Free download, version 4.1[^ref-8]
+- [AGDI Forum – v4.2 RC1](https://www.agdinteractive.com/forum/viewtopic.php?t=27004) – Open-beta Release Candidate download[^ref-6]
 
 **SierraVault Mirror:**
 - [Windows (v4.1c)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest1VGA/Kq1vga41c.exe) – 102 MB
@@ -298,8 +293,6 @@ The team's approach of receiving official licensing before distribution set an i
 - [Windows (v4.2 RC1 - Beta)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest1VGA/Kq1vga42-RC1.exe) – 112 MB *(Jul 2024, improved modern OS compatibility)*
 
 **Preservation:**
-- [Internet Archive – Spanish Version](https://archive.org/details/kings-quest-i-quest-for-the-crown)[^ref-35]
-- [MyAbandonware](https://www.myabandonware.com/game/king-s-quest-quest-for-the-crown-c1e)[^ref-21]
 - [GamesNostalgia](https://gamesnostalgia.net/game/kings-quest-i-vga-remake)[^ref-20]
 - [Adventure Game Studio Database](https://www.adventuregamestudio.co.uk/site/games/game/36/)[^ref-19]
 
@@ -332,30 +325,31 @@ The team's approach of receiving official licensing before distribution set an i
 [^ref-6]: [AGD Interactive Forum – v4.2 Announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=27004) – engine upgrade, compatibility fixes
 [^ref-7]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) – company history, designer credits, commercial impact
 [^ref-8]: [AGD Interactive – Download Page](https://www.agdinteractive.com/games/kq1/download/download.html) – system requirements, platform support
-[^ref-9]: [Internet Archive – KQ1 SCI Remake](https://archive.org/details/kings-quest-1-quest-for-the-crown-floppy-dos-sci-remake) – plot summary, original version history
-[^ref-10]: [Internet Archive – Spanish Version](https://archive.org/details/kings-quest-i-quest-for-the-crown) – Spanish plot description
 [^ref-11]: [Self Similar – KQ1 Review](https://www.selfsimilar.org/2017/07/kings-quest-review/) – gameplay analysis, fairy tale connections, version comparison
-[^ref-12]: [Adventure Gamer Blog – Final Rating](https://advgamer.blogspot.com/2014/04/game-42-kings-quest-remake-final-rating.html) – puzzle analysis, gnome riddle, scoring system
 [^ref-13]: [GameFAQs – Walkthrough/FAQ](https://gamefaqs.gamespot.com/pc/581149-kings-quest-i-quest-for-the-crown-vga/faqs/33796) – Easter eggs, maximum score, development background
 [^ref-14]: [Abandonsocios Forum](http://www.abandonsocios.org/index.php?topic=11896.0) – version comparison, translation history
-[^ref-15]: [GameFAQs – User Review](https://gamefaqs.gamespot.com/pc/581149-kings-quest-i-quest-for-the-crown-vga/reviews/88473) – 8/10 score, gameplay critique
-[^ref-16]: [Retro Freak Reviews – KQ1](https://retrofreakreviews.com/2017/02/01/kings-quest-i-review/) – non-linear structure, screen count, version history
+[^ref-16]: [Retro Freak Reviews – King's Quest I DOS review](https://retrofreakreviews.com/2017/02/01/kings-quest-i-review/) – review of the original game: non-linear structure, screen count
 [^ref-17]: [King's Quest Fandom – Enhanced Edition](https://kingsquest.fandom.com/wiki/King's_Quest_I:_Quest_for_the_Crown_Enhanced_Edition) – No Dead-Ends mode description
-[^ref-18]: [MobyGames – KQ1 VGA](https://www.mobygames.com/game/6418/kings-quest-quest-for-the-crown/) – ratings, credits, Royal Quest parody origin
+[^ref-18]: [MobyGames – KQ1 VGA](https://www.mobygames.com/game/6418/kings-quest-quest-for-the-crown/) – critic average, player reviews (Silverblade, 2004), credits, platforms, Royal Quest trivia
 [^ref-19]: [Adventure Game Studio Database](https://www.adventuregamestudio.co.uk/site/games/game/36/) – AGS Awards, user reviews, technical specs
 [^ref-20]: [GamesNostalgia – KQ1 VGA Remake](https://gamesnostalgia.net/game/kings-quest-i-vga-remake) – editorial score, download information
-[^ref-21]: [MyAbandonware – KQ1 VGA](https://www.myabandonware.com/game/king-s-quest-quest-for-the-crown-c1e) – user ratings, HOTUD quotes
+[^ref-21]: [MyAbandonware – KQ1 VGA](https://www.myabandonware.com/game/king-s-quest-quest-for-the-crown-c1e) – user rating (page no longer offers the game)
 [^ref-22]: [Metacritic – KQ1 VGA](https://www.metacritic.com/game/kings-quest-i-quest-for-the-crown-vga/) – user score, user reviews
-[^ref-23]: [IMDB – Britney Brimhall](https://www.imdb.com/name/nm1881735/) – voice credit, IMDB rating
+[^ref-23]: [IMDB – Britney Brimhall](https://www.imdb.com/name/nm1881735/) – IMDb rating of KQ1 (2001)
 [^ref-24]: [Adventure Gamers – Interview](https://web.archive.org/web/20210127143256/https://adventuregamers.com/articles/view/17533) – developer backgrounds, Tierra name origin
 [^ref-25]: [Sierra Chest – KQ1 VGA](https://sierrachest.com/index.php?a=games&id=533&fld=general) – founder identification, version history
 [^ref-26]: [zSprawl Blog Review](http://zsprawl.com/wp/2011/04/game-review-kings-quest-vga-remake/) – resolution support, graphical options
 [^ref-27]: [King's Quest Fandom – Tierra Version](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_(Tierra)) – cut content, differences from original
 [^ref-30]: [AGD Interactive Forum – Name Change Discussion](http://www.agdinteractive.com/forum/viewtopic.php?t=8395) – Tierra to AGDI name change
-[^ref-31]: [Reddit – KQ1 Enhanced Edition Post](https://www.reddit.com/r/Sierra/comments/1jspknm/kings_quest_i_the_quest_for_the_crown_enhanced/) – download statistics
 [^ref-32]: [Reddit – KQ2 Romancing the Stones Review](https://www.reddit.com/r/adventuregames/comments/plfy46/just_finished_kings_quest_ii_romancing_the_stones/) – user impressions, comparison to original
 [^ref-33]: [Destructoid – KQ3 Redux Review](https://www.destructoid.com/reviews/review-kings-quest-iii-redux/) – 8/10 score, AGDI quality assessment
 [^ref-34]: [Reddit AMA – AGD Interactive/Himalaya Studios](https://www.reddit.com/r/IAmA/comments/1aeyg7/we_are_the_development_team_behind_the_kings/) – company evolution, Mage's Initiation
-[^ref-35]: [Wikipedia – King's Quest Fan Games](https://en.wikipedia.org/wiki/King's_Quest_fan_games) – fan game overview, voice cast mentions
-[^ref-36]: [AGD Interactive Forum – v4.1b Patch Notes](https://www.agdinteractive.com/forum/viewtopic.php?t=14811) – bug fixes, patch details
-[^ref-37]: [AGD Interactive Forum – v4.1 Announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=13212) – Enhanced Edition details, artwork credits, development notes
+[^ref-35]: [Wikipedia – King's Quest fan games](https://en.wikipedia.org/wiki/King's_Quest_fan_games) – AGDI's KQ1 remake; fan licenses for AGDI, Phoenix Online and Infamous Adventures
+[^ref-36]: [AGD Interactive Forum – Patch Update v4.1 to v4.1b](https://www.agdinteractive.com/forum/viewtopic.php?t=14811) – 4.1b fixes; 4.1c launcher change
+[^ref-37]: [AGD Interactive Forum – KQ1 v4.1 release thread](https://www.agdinteractive.com/forum/viewtopic.php?t=13212) – v4.1/4.1b changelogs and the 17 January 2009 v4.0 announcement (background artists, narration, No Dead-Ends, origins as practice)
+[^ref-38]: [AGD Interactive – KQ1 Hints: Points List](https://www.agdinteractive.com/games/kq1/hints/points.html) – treasure locations, dragon/condor/gnome solutions and points
+[^ref-39]: [AGD Interactive – KQ1 Hints: Random Hazards](https://www.agdinteractive.com/games/kq1/hints/randomhazards.html) – dwarf, sorcerer, ogre, wolf, witch
+[^ref-40]: [AGD Interactive – 2001 News & Designer Journals (Wayback)](https://web.archive.org/web/20070927215634/http://www.agdinteractive.com/news-2001.php) – Royal Quest development and cancellation
+[^ref-41]: [Just Adventure – The State of Adventure Gaming, October 2001 (Wayback)](https://web.archive.org/web/20100317114154/http://justadventure.com/articles/State_of_Adventure_Gaming/Oct-01/October_01.shtm) – August 2001 sales chart, KQ8 remake theory
+[^ref-42]: [AGD Interactive – Newsletter #7](https://agdinteractive.com/development/newsletter7.html) – Activision will not grant permission for new Sierra remakes
+[^ref-43]: [Home of the Underdogs – King's Quest 1 VGA](https://homeoftheunderdogs.net/game.php?id=2881) – review by Scid
