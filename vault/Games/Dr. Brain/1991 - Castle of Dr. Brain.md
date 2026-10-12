@@ -10,22 +10,23 @@ series: Dr. Brain
 engine: SCI1
 protagonist: Unnamed Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
-description: Castle of Dr. Brain is an educational puzzle game developed and published
-  by Sierra On-Line in 1991, representing the company's first major foray into the...
+last_updated: '2026-10-12'
+description: Castle of Dr. Brain is a 1991 educational puzzle game designed by Corey
+  Cole and published by Sierra On-Line, the first Dr. Brain game and the best-selling
+  title of Sierra's Discovery Series.
 tags: [1990s, coles, dr-brain, educational, sci, sierra]
 ---
 # Castle of Dr. Brain
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Castle of Dr. Brain is an educational puzzle game developed and published by Sierra On-Line in 1991, representing the company's first major foray into the educational gaming market.[^ref-1] The game was designed by [[Corey Cole]], co-creator of the Quest for Glory series, and stands as his only solo design credit at Sierra.[^ref-2] Marketed with the tagline "Welcome to the Castle of Dr. Brain, where your mind is the key to every door," the game challenges players to navigate an eccentric scientist's castle filled with mind-bending puzzles to earn a position as his laboratory assistant.[^ref-3]
+Castle of Dr. Brain is an educational puzzle game developed and published by Sierra On-Line in 1991, one of the first games created for the educational line that Sierra began branding as the Discovery Series in 1992.[^ref-1][^ref-4] The game was designed by [[Corey Cole]], co-creator of the Quest for Glory series, and stands as his only solo design credit at Sierra.[^ref-2] Marketed with the tagline "Welcome to the Castle of Dr. Brain, where your mind is the key to every door," the game challenges players to navigate an eccentric scientist's castle filled with mind-bending puzzles to earn a position as his laboratory assistant.[^ref-3]
 
-The game launched the Dr. Brain series and became the flagship title of Sierra's Discovery Series, a line of educational games aimed at bridging entertainment and learning.[^ref-4] Charles Ardai of Computer Gaming World praised it as "one of the most entertaining agglomerations of puzzles ever stuffed into a single package," noting it was "so well constructed that it has a real shot at converting puzzle haters into puzzle lovers."[^ref-5] The game proved commercially successful, selling over 100,000 copies in its initial full-price release and an additional 150,000 copies as a budget re-release, making it the most commercially successful title in the entire Discovery Series.[^ref-4]
+The game launched the Dr. Brain series and became, in Jimmy Maher's words, "by far the most commercially successful of all the Discovery Series."[^ref-4] Charles Ardai of Computer Gaming World called it "one of the most entertaining agglomerations of puzzles ever stuffed into a single package," a game "so well put together, so copiously animated and richly scored" that "it has a real shot at converting puzzle haters into puzzle lovers."[^ref-33] Cole estimates it sold over 100,000 copies in its initial full-price release and another 150,000 as a budget re-release.[^ref-4]
 
-Unlike Sierra's traditional adventure games, Castle of Dr. Brain adopted a first-person perspective with an unnamed protagonist meant to represent the player directly.[^ref-4] The game featured three adjustable difficulty levels—Novice, Standard, and Expert—allowing players to tailor the challenge to their skill level at any time during gameplay.[^ref-4] This design philosophy, combined with a hint system using collectible "puzzle coins," made the game accessible to younger players while still providing satisfying challenges for experienced puzzle enthusiasts.[^ref-30][^ref-31][^ref-32]
+Unlike Sierra's traditional adventure games, Castle of Dr. Brain adopted a first-person perspective with an unnamed protagonist meant to represent the player directly.[^ref-4] The game featured three adjustable difficulty levels—Novice, Standard, and Expert—allowing players to tailor the challenge to their skill level at any time during gameplay.[^ref-4] This design philosophy, combined with a hint system using collectible "puzzle coins," made the game accessible to younger players while still providing satisfying challenges for experienced puzzle enthusiasts.[^ref-4]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -40,19 +41,19 @@ Unlike Sierra's traditional adventure games, Castle of Dr. Brain adopted a first
 
 ## Story Summary
 
-The game begins with the player responding to a classified advertisement placed by the eccentric Dr. Brain, who is seeking a new laboratory assistant.[^ref-6] To prove themselves worthy of this position, candidates must successfully navigate through Dr. Brain's castle, which has been transformed into an elaborate testing ground filled with puzzles and challenges designed to evaluate the applicant's mental capabilities.[^ref-1]
+The game begins with the player responding to a classified advertisement placed by the eccentric Dr. Brain, who is seeking a new laboratory assistant.[^ref-6][^ref-12] To prove themselves worthy of this position, candidates must successfully navigate through Dr. Brain's castle, which has been transformed into an elaborate testing ground filled with puzzles and challenges designed to evaluate the applicant's mental capabilities.[^ref-1]
 
 Upon arriving at the castle's foyer, the player discovers that every room presents a new series of brain-twisting puzzles that must be solved before progressing deeper into the structure.[^ref-7] The castle's architecture itself reflects Dr. Brain's unusual personality, with each chamber serving as a dreamlike riddle testing different aspects of intelligence—from mathematical reasoning and logical deduction to programming concepts and astronomical knowledge.[^ref-8]
 
 As players advance through the castle's multiple floors and wings, they encounter increasingly complex challenges that build upon earlier puzzles.[^ref-9] The journey takes them through clock rooms with time-based puzzles, computer halls with programming challenges, robot laboratories requiring spatial reasoning, language halls testing linguistic abilities, and a planetarium examining astronomical knowledge.[^ref-10]
 
-The ultimate goal is to reach Dr. Brain's inner office and prove oneself capable enough to earn the coveted assistant position.[^ref-11] Upon successfully completing all puzzles, Dr. Brain appears and offers the player the job, acknowledging their intellectual prowess with the cryptic message: "The elevators of the mind only operate for those who keep their minds open to new possibilities."[^ref-2]
+The ultimate goal is to reach Dr. Brain's inner office and prove oneself capable enough to earn the coveted assistant position.[^ref-11] Along the way, a cryptogram in the Code Room decodes to "The elevators of the mind only operate for those who keep their minds open to new possibilities," which opens the castle's third elevator.[^ref-28] On completion, Dr. Brain congratulates the player, introduces the people who made the game, and promises more challenges in The Island of Dr. Brain.[^ref-12] The Adventurers' Guild noted that "there isn't even closure at the end because Dr. Brain runs away to go construct another set of puzzles for the next game."[^ref-13]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Castle of Dr. Brain utilizes Sierra's standard point-and-click interface from the SCI1 era, similar to that used in King's Quest V and Space Quest IV.[^ref-12] Players interact with the environment using eye and hand cursor icons, with the eye allowing examination of objects and the hand enabling manipulation and interaction.[^ref-13] The interface was specifically designed to be accessible to newcomers, making it "a fantastic introduction to the Sierra interface because it doesn't require very much of the player."[^ref-13]
+Castle of Dr. Brain utilizes Sierra's standard point-and-click interface from the SCI1 era, similar to that used in King's Quest V and Space Quest IV.[^ref-12] Players interact with the environment using eye and hand cursor icons, with the eye allowing examination of objects and the hand enabling manipulation and interaction.[^ref-13] The Adventurers' Guild called it "a fantastic introduction to the Sierra interface because it doesn't require very much of the player."[^ref-13]
 
 ### Structure and Progression
 
@@ -71,11 +72,11 @@ The game is structured as a linear progression through Dr. Brain's castle, with 
 
 ### Puzzles and Mechanics
 
-The game features 28 different puzzle types encompassing a remarkable variety of mental challenges.[^ref-14] Unlike traditional adventure game puzzles involving inventory management, Castle of Dr. Brain focuses almost exclusively on classic mental exercises—the game is "95% puzzles, but they're all the classic kind of mental puzzle, not the usual inventory or dialogue adventure-style puzzle."[^ref-13]
+Jimmy Maher counts 24 puzzles in all, grouped by subject into the castle's rooms.[^ref-4] Unlike traditional adventure game puzzles involving inventory management, Castle of Dr. Brain focuses almost exclusively on classic mental exercises—the game is "95% puzzles, but they're all the classic kind of mental puzzle, not the usual inventory or dialogue adventure-style puzzle."[^ref-13]
 
-Puzzle categories include mathematical problems, logic exercises, Mastermind-style deduction games, Scrabble variants, sliding tile puzzles, maze navigation, programming challenges, language puzzles including cryptograms, and astronomical knowledge tests.[^ref-14] The safecracker puzzle was intentionally designed with 12 guesses to allow most players to succeed through logical deduction.[^ref-2]
+Puzzle categories include mathematical problems, logic exercises, Mastermind-style deduction games, Scrabble variants, sliding tile puzzles, maze navigation, programming challenges, language puzzles including cryptograms, and astronomical knowledge tests.[^ref-14] Cole has said the twelve guesses allowed in the Mastermind-style safecracker puzzle were intentional: "I wanted most players to succeed, not to fail to a few poor guesses."[^ref-28]
 
-The difficulty system allows players to adjust challenge levels independently for each puzzle type, with the three settings—Novice, Standard, and Expert—significantly altering puzzle complexity.[^ref-14] A unique "puzzle coin" economy rewards players for successful solutions, with earned coins redeemable for hints when encountering difficult challenges.[^ref-14] Scoring ranges from 160 to 200 points depending on the difficulty setting chosen.[^ref-15]
+The three settings—Novice, Standard, and Expert—can be changed at any time, so players can adjust for the puzzle types they find easier or harder.[^ref-4] Amiga Power observed that the harder levels present the same problems with fewer hints or extra complications.[^ref-14] A "puzzle coin" economy rewards players for successful solutions, with earned coins redeemable for hints when encountering difficult challenges.[^ref-4][^ref-14] Scoring ranges from 160 to 200 points depending on the difficulty setting chosen.[^ref-15]
 
 The "program the robot" puzzle on Expert difficulty is "particularly entertaining and will teach you a few things about programmer's ordeals."[^ref-16] This puzzle features three different robot heads that behave differently, requiring players to understand programming logic to navigate robots through mazes.[^ref-17]
 
@@ -85,7 +86,7 @@ The "program the robot" puzzle on Expert difficulty is "particularly entertainin
 
 Castle of Dr. Brain received generally positive reviews upon release, though the Amiga port garnered more mixed responses due to technical limitations. Dragon magazine awarded the game 4 out of 5 stars in their April 1992 issue.[^ref-5] French publication Génération 4 gave the PC version an 80% score in December 1991.[^ref-18]
 
-The Amiga version received varied scores across European gaming publications. Amiga Format gave the port its highest score at 81% in July 1992.[^ref-18] Amiga Action awarded 79% with reviewer Alan Bunker praising the puzzle variety.[^ref-18] Both Amiga Mania (reviewer Huw Pryce) and CU Amiga (reviewer Steve Keen) scored the game at 78%.[^ref-18] The One Amiga gave 75% with David Upchurch noting the educational value.[^ref-18]
+The Amiga version received varied scores across European gaming publications. Amiga Format gave the port its highest score at 81% in July 1992.[^ref-18] Amiga Action (reviewer Alan Bunker) awarded 79%.[^ref-18] Both Amiga Mania (reviewer Huw Pryce) and CU Amiga (reviewer Steve Keen) scored the game at 78%.[^ref-18] The One Amiga (reviewer David Upchurch) gave 75%.[^ref-18]
 
 More critical assessments came from Amiga Power, which awarded 61% while noting "As educational games go, it's a lot more imaginative than most, it's just a pity that it's so darned slow and difficult to control."[^ref-14] Amiga Joker's Max Magenauer scored it at 50%, while Datormagazin's Göran Fröjdh gave the lowest score at 45%.[^ref-18] A German publication described the game as "schlicht ein auf vier Disketten ausgewalztes Rätselheftchen" (simply a puzzle booklet rolled out on four diskettes).[^ref-14]
 
@@ -109,54 +110,66 @@ The Adventurers' Guild blog gave the game a 46/100 in their systematic playthrou
 
 ### Origins
 
-The genesis of Castle of Dr. Brain traces back to late 1990, shortly after [[Corey Cole]] completed work on Quest for Glory II: Trial by Fire.[^ref-2] Sierra founder Ken Williams approached Cole with a request for educational game ideas, having already conceived a basic concept called "Mathemagical Mansion."[^ref-4] Cole expanded Williams's math-focused concept to include a broader range of subjects encompassing science, technology, and culture.[^ref-4]
+The genesis of Castle of Dr. Brain traces back to late 1990, shortly after [[Corey Cole]] completed work on Quest for Glory II: Trial by Fire.[^ref-2] Sierra founder Ken Williams called the company's writers and designers into a meeting and asked each to submit ideas for educational games; one of his own example proposals was "Mathemagical Mansion," a game about solving math problems to explore a house.[^ref-2][^ref-4] Cole pitched Castle of Dr. Brain as a riff on that idea, broadening it beyond math, and got the go-ahead after a prototype.[^ref-2][^ref-4]
 
-Cole approached the project with personal enthusiasm, aiming the game at his own twelve-year-old self rather than consulting education professionals during development.[^ref-4] As Cole explained, "I don't believe Corey Cole is capable of making a game that's less than thoroughly likable," according to digital historian Jimmy Maher.[^ref-4] The project represented Cole's opportunity to work "like a real game designer" with creative control over the entire project.[^ref-4]
+Cole approached the project with personal enthusiasm, aiming the game at his own twelve-year-old self rather than consulting education professionals during development.[^ref-4] Digital historian Jimmy Maher, reviewing the game, wrote: "I don't believe Corey Cole is capable of making a game that's less than thoroughly likable."[^ref-4] Cole told Maher that by the time the game was finished he finally felt "like a real game designer,"[^ref-4] and later wrote that he "got to lead the team and do most of the design myself."[^ref-2]
 
 ### Production
 
-Development proved remarkably smooth by Sierra standards. Cole later reflected that "It might be the only Sierra game completed ahead of schedule, under budget, and almost bug-free."[^ref-2] He described Castle of Dr. Brain as "the most satisfying single project of his career."[^ref-4]
+Development proved remarkably smooth by Sierra standards. Cole later reflected that "It might be the only Sierra game completed ahead of schedule, under budget, and almost bug-free."[^ref-2] According to Maher, Cole still describes Castle of Dr. Brain as the most satisfying single project of his career.[^ref-4]
 
-Research for the puzzle design proved challenging. Cole discovered that "The puzzle books were useless. A book advertising 'over 60 puzzles and brainteasers' typically had four formats, and 15 puzzles in each format."[^ref-4] This forced the team to create original puzzle variations and implementations.
+Research for the puzzle design proved challenging. Cole discovered that "The puzzle books were useless. A book advertising 'over 60 puzzles and brainteasers' typically had four formats, and 15 puzzles in each format."[^ref-4] Cole instead came up with original ideas and "brainstormed a few more with Lori" (Lori Ann Cole, credited with Additional Material).[^ref-2][^ref-34]
 
-Jon Bock created prototype art for the project, with Andy Hoyos serving as lead artist for the final production.[^ref-2] The sequel, Island of Dr. Brain, was notably taken away from Cole and assigned to a junior writer—a decision that disappointed the original designer.[^ref-2]
+Cole recalls that Ken Williams first assigned artist Jon Bock to build the prototype, then "a different lead artist (Andy Hoyos)" for production.[^ref-2] In the credits, Hoyos is listed for Art Design and Douglas Herring as Lead Artist.[^ref-34] Cole also recalls that "Sierra took the sequel away from me and assigned it to a junior member of the writing staff."[^ref-2]
 
-**Development Credits:**[^ref-1]
-- **Designer:** [[Corey Cole]]
-- **Co-Designer:** Douglas Herring[^ref-14]
-- **Lead Artist:** [[Andy Hoyos]]
-- **Prototype Art:** Jon Bock
-- **Composers:** Mark Seibert, Ken Allen[^ref-5]
-- **Additional Composition:** Chris Brayman, Rob Atesalp[^ref-21]
+**Development Credits** (DOS release):[^ref-34]
+- **Executive Producer:** Ken Williams
+- **Creative Director:** Bill Davis
+- **Designed and Directed by:** [[Corey Cole]]
+- **Producer:** Stuart Moulder
+- **Art Design:** [[Andy Hoyos]]
+- **Lead Artist:** Douglas Herring (credited as Art Designer on the Amiga version)[^ref-35]
+- **Programmed by:** Corey Cole, Steve Conrad, Jack Magné, Brett Miller, John Wentworth
+- **Art and Animation:** Jay Allan Friedmann, Jon Bock, Dana Moody, Bob Gleason, Douglas Herring, Andy Hoyos, Jerry Jesserun, Deena Krutak, Dennis Lewis, Vasken Sayre, John Shroades, Arturo Sinclair, Diana Wilson
+- **Music Director:** Mark Seibert
+- **Music and Sound Effects:** Ken Allen, Robert Atesalp, Christopher G. Braymen, Orpheus Hanley, Mark Seibert
+- **Additional Material:** Lori Ann Cole
+- **Manual Writer:** Bridget McKenna
+- **Macintosh Programming:** Krishnan Shankar, Jason Hickingbottom[^ref-36]
 
 ### Technical Achievements
 
 Castle of Dr. Brain utilized Sierra's SCI1 engine, the same technology powering contemporary adventure titles like King's Quest V.[^ref-5] The game supported multiple graphics modes including VGA, EGA, MCGA, and Tandy, ensuring broad hardware compatibility.[^ref-22]
 
-The opening sequence features Bach's classic Toccata and Fugue in D minor, a deliberate reference to classic horror movie conventions that establishes the castle's gothic atmosphere.[^ref-2] The music was composed for the Roland MT-32 sound module, with recordings capturing the original MIDI/SNG files from authentic hardware.[^ref-21]
+The opening sequence features Bach's Toccata and Fugue in D minor over a stormy shot of the castle; the Sierra Fandom wiki reads this as a nod to the piece's use in classic horror films,[^ref-12] though The Adventurers' Guild noted that despite the cue "there's really no sign" of a horror theme later in the game.[^ref-2] The music was composed for the Roland MT-32 sound module, with recordings capturing the original MIDI/SNG files from authentic hardware.[^ref-21]
 
 ### Technical Specifications
 
-**DOS Version:**[^ref-22]
+**DOS Floppy Version:**[^ref-22]
 - **Video Modes:** VGA, MCGA, EGA, Tandy
-- **Resolution:** 320x200 (standard SCI1)
-- **Sound:** Roland MT-32/LAPC-1/CM-32L, Sound Blaster, AdLib, Thunderboard Pro Audio Spectrum
-- **Minimum CPU:** Intel 286 16 MHz (386SX recommended)
-- **Minimum RAM:** 640 KB (2 MB recommended)
-- **Hard Drive:** 3 MB
-- **Input:** Mouse required
+- **Minimum CPU:** Intel 286 16 MHz
+- **Minimum RAM:** 640 KB
 - **OS:** MS-DOS 3.0+
+
+**DOS CD-ROM Version:**[^ref-30]
+- **Minimum CPU:** 386SX
+- **Minimum RAM:** 2 MB
+- **Hard Drive:** 3 MB
+- **Drive:** 2x CD-ROM
+- **Video:** VGA
+- **Sound:** Thunderboard, Pro Audio Spectrum, AdLib, Roland MT-32/LAPC-1/CM-32L, Sound Blaster, Sound Source
+- **Input:** Mouse
+- **OS:** MS-DOS 5.0+
 
 **Amiga Version:**[^ref-14]
 - **Disks:** 4 floppy disks
 - **Memory:** 1 MB required (512 KB minimum reported in some sources)
-- **Hardware:** OCS/ECS compatible
 - **Hard Disk:** Supported
 - **Second Drive:** Supported
 
 ### Cut Content
 
-The soundtrack release reveals several unused music tracks that were composed but not included in the final game:[^ref-23]
+The soundtrack release reveals several unused music tracks that were composed but not included in the final game:[^ref-21]
 - Stone Elevator #1 (unused)
 - Robot Maze Rock Puzzle - version 1 (unused)
 - Slab Gone (unused)
@@ -164,36 +177,31 @@ The soundtrack release reveals several unused music tracks that were composed bu
 
 ### Version History
 
-| Version | Date | Platform | Notes |
+| Release | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | November 12, 1991 | IBM PC | Initial DOS release[^ref-24] |
-| 1.0 | 1992 | Amiga | European port[^ref-18] |
-| 1.0 | 1992 | Macintosh | Apple port[^ref-1] |
-| 1.0 | 1992 | PC-98 | Japanese release via Sierra On-Line Japan[^ref-1] |
-| CD-ROM | 1996 | DOS | CD-ROM re-release[^ref-25] |
+| Floppy | November 12, 1991 | IBM PC | Initial DOS release[^ref-24] |
+| Floppy | 1992 | Amiga | Published by Sierra On-Line (US)[^ref-37] |
+| Floppy | 1992 | Macintosh | Published by Sierra On-Line (US)[^ref-37] |
+| Floppy | October 9, 1992 | PC-98 | Japanese release by Sierra On-Line Japan[^ref-37] |
+| CD-ROM | 1996 | DOS | CD-ROM edition[^ref-25][^ref-30] |
 
-**SCI Interpreter Versions:**[^ref-22]
-
-| Game Version | Interpreter | Type | Notes |
-|--------------|-------------|------|-------|
-| Floppy | SCI1 | SCI1 | Initial release |
-| CD-ROM | SCI1 | SCI1 | 1996 compilation release |
+The game runs on Sierra's SCI1 engine.[^ref-22]
 
 ### Technical Issues
 
-Audio compatibility has been a persistent challenge for modern players. The game may display an "Unable to initialize your audio hardware" error without the updated AUDBLAST.DRV driver from Sierra.[^ref-26] With the new driver installed, digital sound effects may loop indefinitely in some configurations.[^ref-26]
+Audio compatibility has been a persistent challenge for modern players. A compatibility listing quoted on VOGONS warns that the game may display an "Unable to initialize your audio hardware" error without the updated AUDBLAST.DRV driver from Sierra, and that with the new driver digital sound may loop indefinitely.[^ref-26]
 
-Running the game under Windows XP and later operating systems requires emulation through DOSBox or VDMSound.[^ref-26] Users report black screen issues when running under Windows XP's Virtual DOS Machine without proper configuration, though the VDMS launcher with the music icon option resolves this.[^ref-26]
+The Sierra Help Pages recommend playing the game in DOSBox (or using VDMSound) on Windows 9x/XP, and suggest lowering DOSBox cycles at startup if the audio-initialization error persists.[^ref-30]
 
-The Amiga version suffered from performance issues including slow loading times and "muddy controls" described as "extremely unresponsive"—with mouse cursor controls sometimes lagging more than four seconds behind player input.[^ref-14] The 3D maze graphics were described as poor, making it "hard to distinguish walls."[^ref-14]
+The Amiga version suffered from performance issues: Amiga Power complained of "slow loading times, muddy controls," and another review found the mouse controls "extremely unresponsive and often more than four seconds behind in some sections."[^ref-14] Amiga Power also said of the 3D mazes that "you can hardly work out what are walls and what aren't."[^ref-14]
 
 ### Easter Eggs and Trivia
 
 Castle of Dr. Brain contains numerous hidden references to other Sierra games and pop culture:
 
 - **Mirror Reference:** Looking in the mirror in the first hallway provides a reference to Mixed-Up Fairy Tales.[^ref-15]
-- **Developer Names:** The word search puzzle contains hidden developer names including BRETT, COREY, DENNIS, JACK, JOHN, and ANDY—all Sierra staff members who worked on the game.[^ref-2]
-- **Quest for Glory References:** The jigsaw puzzle room contains props from other Sierra games, including Aziza's table from Quest for Glory II: Trial by Fire.[^ref-2]
+- **Developer Names:** The word search puzzle hides names such as BRETT, COREY, DENNIS, and JOHN; Cole confirmed they are team credits (including himself, Steve Conrad, Jack Magné, Brett Miller, John Wentworth, and Dennis Lewis).[^ref-28]
+- **Quest for Glory References:** The completed jigsaw puzzle shows a room decorated with props from other Sierra games, including Aziza's table from the Quest for Glory series.[^ref-28]
 - **Conquest of the Longbow:** An arrow quiver in the jigsaw puzzle references the Robin Hood game.[^ref-15]
 - **2001: A Space Odyssey:** The game includes the quote "Oh my God! – It's full of puzzles!" referencing the famous film.[^ref-15]
 - **The Terminator:** Exiting the game produces the message "I'll be Back!"[^ref-15]
@@ -211,17 +219,17 @@ The hint coins used in the game visually resemble the "buckazoids" currency from
 
 ### Sales and Commercial Impact
 
-Castle of Dr. Brain proved to be a commercial success, selling over 100,000 copies in its initial full-price release.[^ref-4] The game subsequently sold an additional 150,000 copies as a budget re-release, bringing total sales to approximately 250,000 units.[^ref-4] This made it the most commercially successful of all Sierra's Discovery Series educational titles.
+Castle of Dr. Brain proved to be a commercial success: Cole estimates it sold over 100,000 copies in its initial full-price release and an additional 150,000 copies as a budget re-release.[^ref-4] Maher calls it "by far the most commercially successful of all the Discovery Series."[^ref-4]
 
 The game was marketed in Sierra catalogs as featuring an "outrageous gauntlet of mind-twisting puzzles and nerve-wracking challenges."[^ref-2] A free puzzle book was included with retail copies as an additional educational resource.[^ref-14]
 
 ### Collections
 
-The game was bundled in various Sierra compilations throughout the 1990s, including a 1996 CD-ROM release that made the title accessible to a new generation of players with CD-ROM drives.[^ref-25]
+A CD-ROM edition was also issued; the Internet Archive catalogues it as a 1996 Sierra release, and the Sierra Help Pages list its 2x CD-ROM requirements.[^ref-25][^ref-30]
 
 ### Fan Projects
 
-The game has been preserved through various abandonware sites and digital archives including the Internet Archive, MyAbandonware, and ClassicReload, ensuring continued accessibility for modern players.[^ref-6] The Quest Studios project has archived the complete Roland MT-32 soundtrack, recording tracks directly from authentic hardware to preserve the original audio quality.[^ref-21]
+The game has been preserved through various abandonware sites and digital archives including the Internet Archive, MyAbandonware, and ClassicReload, ensuring continued accessibility for modern players.[^ref-6] The Quest Studios archive hosts the Roland MT-32 soundtrack, "as recorded directly from the original Roland MT-32 Sound Module score."[^ref-10] Xeen Music has also released an MT-32 recording, including unused cues.[^ref-21]
 
 ### Related Publications
 
@@ -237,7 +245,7 @@ The Discovery Series brand manager explained the philosophy: "While they aren't 
 
 The game's first-person perspective represented a departure from Sierra's traditional third-person adventure game format, creating a more immersive puzzle-solving experience where players felt they were personally navigating Dr. Brain's challenges.[^ref-4] The three-tiered difficulty system with its puzzle coin economy demonstrated sophisticated understanding of player engagement and accessibility.
 
-Corey Cole's design legacy extended beyond the Dr. Brain series itself. The character of Dr. Cranium, who appears in Quest for Glory IV: Shadows of Darkness, was directly inspired by the Dr. Brain character, creating a narrative connection between Sierra's educational and adventure game lines.[^ref-2] This cross-pollination demonstrates how Castle of Dr. Brain influenced Sierra's broader creative output.
+Corey Cole's design legacy extended beyond the Dr. Brain series itself. Cole has said that Dr. Cranium, the mad scientist of Quest for Glory IV: Shadows of Darkness, was deliberately "a variation of Dr. Brain," creating a narrative connection between Sierra's educational and adventure game lines.[^ref-2] This cross-pollination demonstrates how Castle of Dr. Brain influenced Sierra's broader creative output.
 
 ## Downloads
 
@@ -268,14 +276,6 @@ Corey Cole's design legacy extended beyond the Dr. Brain series itself. The char
 - [[1999 - Dr. Brain - Action Reaction]]
 - [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
 
-- Castle of Dr. Brain (1991)
-- The Island of Dr. Brain (1992)
-- The Lost Mind of Dr. Brain (1995)
-- The Time Warp of Dr. Brain (1996)
-- Dr. Brain Thinking Games: Puzzle Madness (1998)
-- Dr. Brain Thinking Games: IQ Adventure (1998)
-- Dr. Brain: Action Reaction (1999)
-
 ## References
 
 [^ref-1]: [MobyGames – Castle of Dr. Brain](https://www.mobygames.com/game/1523/castle-of-dr-brain/) – developer, publisher, platforms, release dates, composer credits, ratings
@@ -298,15 +298,17 @@ Corey Cole's design legacy extended beyond the Dr. Brain series itself. The char
 [^ref-18]: [Amiga Magazine Reviews Database](https://amr.abime.net/review_3626) – comprehensive review scores, reviewer names, publication dates
 [^ref-19]: [IMDB – Castle of Dr. Brain](https://www.imdb.com/title/tt11673352/) – user rating, release country
 [^ref-20]: [Lemon Amiga – Castle of Dr. Brain](https://www.lemonamiga.com/games/details.php?id=1380) – Amiga version rating, technical specs
-[^ref-21]: [Xeen Music – MT-32 Original Soundtrack](https://xeenmusic.bandcamp.com/album/castle-of-dr-brain-original-soundtrack-mt-32) – composer credits, cut content, recording details
+[^ref-21]: [Xeen Music – MT-32 Original Soundtrack](https://xeenmusic.bandcamp.com/album/castle-of-dr-brain-original-soundtrack-mt-32) – track list incl. unused cues, recording details
 [^ref-22]: [PCGamingWiki – Castle of Dr. Brain](https://www.pcgamingwiki.com/wiki/Castle_of_Dr._Brain) – technical specs, video modes, series listing
-[^ref-23]: [Xeen Music – Soundtrack Album](https://xeenmusic.bandcamp.com/album/castle-of-dr-brain-soundtrack-mt-32) – unused tracks, hardware polyphony notes
 [^ref-24]: [Sierra Chest – Easter Eggs](https://sierrachest.com/index.php?a=games&id=173&fld=eggs) – book references, TSN reference, Metallica reference, release date
 [^ref-25]: [Internet Archive – 1996 CD-ROM](https://archive.org/details/castle-of-dr.-brain-1996-sierra) – CD-ROM release details
 [^ref-26]: [VOGONS Forum – Technical Issues](https://www.vogons.org/viewtopic.php?t=1020) – audio driver issues, VDMSound compatibility
 [^ref-27]: [Easter Egg Database – eeggs.com](https://eeggs.com/items/69.html) – crossbar names Easter egg
 [^ref-28]: [The Adventurers' Guild – Mazes and Codes](https://advgamer.blogspot.com/2015/12/castle-of-dr-brain-mazes-and-codes.html) – cryptogram solution, developer names in word search
 [^ref-29]: [Scribd – Castle of Dr. Brain Manual](https://www.scribd.com/document/522383897/Castle-of-Dr-Brain-Manual) – manual documentation
-[^ref-30]: [Sierra Help Pages](https://sierrahelp.com/Games/DrBrain/CastleOfDrBrainHelp.html) – system requirements, audio troubleshooting
-[^ref-31]: [GameFAQs – Castle of Dr. Brain](https://gamefaqs.gamespot.com/pc/564673-castle-of-dr-brain) – user rating, genre classification
-[^ref-32]: [KHInsider – DOS Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/castle-of-dr.-brain-dos) – soundtrack runtime, file specifications
+[^ref-30]: [Sierra Help Pages](https://sierrahelp.com/Games/DrBrain/CastleOfDrBrainHelp.html) – CD-ROM system requirements, audio troubleshooting
+[^ref-33]: [Computer Gaming World #94 (May 1992), "A Visit to the Mind-Bender" by Charles Ardai, p. 20](https://archive.org/details/Computer_Gaming_World_Issue_94) – review text, "DESIGNER: Corey Cole"
+[^ref-34]: [MobyGames – Castle of Dr. Brain DOS credits](https://www.mobygames.com/game/1523/castle-of-dr-brain/credits/dos/) – full DOS credit list
+[^ref-35]: [MobyGames – Castle of Dr. Brain Amiga credits](https://www.mobygames.com/game/1523/castle-of-dr-brain/credits/amiga/) – Amiga credit list (Douglas Herring, Art Designer)
+[^ref-36]: [MobyGames – Castle of Dr. Brain Macintosh credits](https://www.mobygames.com/game/1523/castle-of-dr-brain/credits/macintosh/) – Mac port programmers
+[^ref-37]: [MobyGames – Castle of Dr. Brain releases](https://www.mobygames.com/game/1523/castle-of-dr-brain/releases/) – Amiga, Mac and PC-98 release details
