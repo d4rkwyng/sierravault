@@ -165,7 +165,6 @@ Data mining has revealed several cut elements from the game[^ref-18]:
 ### Modern Compatibility
 - **ScummVM**: Supported since v0.10.0 (recommended)[^ref-17]
 - **DOSBox**: Compatible with authentic experience
-- **Browser**: Playable at [Sarien.net](https://sarien.net/spacequest1)[^ref-25]
 
 ## Legacy
 
@@ -189,7 +188,6 @@ This game has been included in the following collections:
 
 **Download / Preservation**
 
-- [Sarien.net – Play in Browser](https://sarien.net/spacequest1) – JavaScript AGI interpreter with multiplayer[^ref-25]
 
 **Manuals & Extras**
 
@@ -241,7 +239,7 @@ This game has been included in the following collections:
 [^ref-22]: [Virtual Broomcloset – Scott Murphy Interview](https://www.wiw.org/~jess/scott.html) – influences, Two Guys name origin, development history
 [^ref-23]: [Space Quest FAQ](https://wiw.org/~jess/sqfaq.html) – Kerona naming, theme song composer, box art error, removed easter eggs
 [^ref-24]: [Virtual Broomcloset – Publications Archive](https://wiw.org/~jess/publications.html) – manuals, hint books, pack-in feelies
-[^ref-25]: [Sarien.net – Space Quest I](https://sarien.net/spacequest1) – JavaScript AGI interpreter, browser-based gameplay with multiplayer
+[^ref-25]: Sarien.net – Space Quest I (play link removed: game still sold) – JavaScript AGI interpreter, browser-based gameplay with multiplayer
 [^ref-26]: [SpaceQuest.net – Space Quest I Easter Eggs](https://spacequest.net/sq1/eastereggs/) – hidden content, "take leak" reward, meteor crash location
 [^ref-27]: [Retro Freak Reviews – Space Quest I DOS](https://retrofreakreviews.com/2017/02/08/space-quest-i-review/) – modern retrospective, recommends VGA remake over original
 [^ref-28]: [VGMPF Wiki – Apple IIGS](https://www.vgmpf.com/Wiki/index.php?title=Apple_IIGS) – Ensoniq 5503 DOC chip with 32 oscillators, 15 stereo independent voices

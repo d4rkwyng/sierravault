@@ -250,7 +250,6 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 **Download / Preservation**
 
 **Play Online**
-- [Sarien.net](https://www.sarien.net/policequest) – Browser-based AGI interpreter
 
 ## See Also
 
@@ -299,7 +298,7 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 [^ref-35]: [Police Quest Fandom – PQ3](https://policequest.fandom.com/wiki/Police_Quest_III:_The_Kindred_VGA) – voice cast credits
 [^ref-36]: [The Digital Antiquarian – Police Quest](https://www.filfre.net/2019/07/chief-gates-comes-to-oakhurst-a-cop-drama/) – Rich DeBaun training tool quote
 [^ref-37]: [MobyGames – User Review by Andy Roark](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/user-review/2470100/) – career influence quote, accuracy assessment
-[^ref-39]: [Sarien.net – Police Quest](https://www.sarien.net/policequest) – browser interpreter warning
+[^ref-39]: Sarien.net – Police Quest (play link removed: game still sold) – browser interpreter warning
 [^ref-40]: [Police Quest Fandom – Disambiguation](https://policequest.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – novel reference
 [^ref-41]: [Hardcore Gaming 101 – Police Quest](http://www.hardcoregaming101.net/police-quest/) – stepping behind badge quote
 [^ref-43]: [Sierra Fandom – Police Quest: In Pursuit of the Death Angel (SCI)](https://sierra.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(SCI)) – "pimp suit" renamed "leisure suit"

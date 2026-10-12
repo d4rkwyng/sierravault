@@ -151,7 +151,6 @@ This game has been included in the following collections:
 
 **Download / Preservation**
 
-- [Sarien.net – Play in Browser](https://sarien.net/spacequest2) – JavaScript AGI interpreter with multiplayer[^ref-24]
 - [Infamous Adventures – Space Quest II VGA Remake](https://infamousadventures.itch.io/space-quest-ii-vga-remake) – free fan remake with voice acting[^ref-27]
 
 **Manuals & Extras**
@@ -203,7 +202,7 @@ This game has been included in the following collections:
 [^ref-21]: [The Cutting Room Floor – Space Quest II](https://tcrf.net/Space_Quest_II:_Vohaul%27s_Revenge) – debug mode, unused graphics, cut content, source code leak
 [^ref-22]: [GameFAQs – Space Quest II](https://gamefaqs.gamespot.com/pc/565075-space-quest-ii-chapter-ii-vohauls-revenge) – user ratings, difficulty rating, guides
 [^ref-23]: [Sierra Help – Space Quest II](https://sierrahelp.com/Games/SpaceQuest/SQ2Help.html) – technical help, DOSBox configuration, known issues
-[^ref-24]: [Sarien.net – Space Quest II](https://sarien.net/spacequest2) – JavaScript AGI interpreter, browser-based gameplay
+[^ref-24]: Sarien.net – Space Quest II (play link removed: game still sold) – JavaScript AGI interpreter, browser-based gameplay
 [^ref-25]: [SpaceQuest.net – Space Quest II Point List](https://spacequest.net/sq2/pointlist/) – complete 250-point scoring breakdown
 [^ref-26]: [SpaceQuest.net – Space Quest II Easter Eggs](https://spacequest.net/sq2/eastereggs/) – cheat code, hidden developer messages
 [^ref-27]: [Infamous Adventures – Space Quest II VGA Remake](https://infamousadventures.itch.io/space-quest-ii-vga-remake) – fan remake with VGA graphics, voice acting, release history
