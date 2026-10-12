@@ -3,164 +3,119 @@ title: Mine Shaft
 release_year: 1983
 developer: Sierra On-Line, Inc.
 designer: [John Redekopp]
-publisher: Sierra On-Line, Inc.
+publisher: IBM
 genre: Arcade
-platforms: [PC Booter, Apple II, PCjr Cartridge]
+platforms: [PC Booter, PCjr Cartridge]
 series: None
-engine: 6502 Assembly
-protagonist: Unnamed Miner
+engine: Unknown
+protagonist: None (player-controlled mine cart)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: Mine Shaft is an arcade-style action game developed and published by
-  Sierra On-Line in 1983 for the Apple II and PC Booter platforms. The game was also...
+last_updated: '2026-10-11'
+description: Mine Shaft is a maze action game developed by Sierra On-Line for IBM
+  and released as one of the four launch cartridges for the IBM PCjr entry model.
+  The player steers a mine cart collecting diamonds while shooting runaway mining robots.
 tags: [1980s, none, sierra]
 ---
 # Mine Shaft
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-Mine Shaft is an arcade-style action game developed and published by [[Sierra On-Line]] in 1983 for the Apple II and PC Booter platforms[^ref-1][^ref-8][^ref-9][^ref-16]. The game was also published by IBM for their PCjr system, where it was distributed as a cartridge title[^ref-1]. Programmed by John Redekopp, Mine Shaft challenges players to navigate through procedurally generated mine environments, offering a unique experience with each playthrough[^ref-1].
+Mine Shaft is a maze action game developed by [[Sierra On-Line]] for IBM, which sold it as a $35 ROM cartridge for the IBM PCjr[^ref-18][^ref-20][^ref-21]. It was one of the four action cartridges IBM announced for the PCjr entry model, alongside Sierra's Crossfire, Mouser and ScubaVenture[^ref-20][^ref-21]. The game carries a 1983 copyright date, but Retro365 notes that it only reached buyers when the PCjr itself became available in early 1984[^ref-24]; Sierra Chest gives its first release as 1984[^ref-3]. MobyGames credits the programming to John Redekopp[^ref-1].
 
-The game represents Sierra's early forays into arcade-style gaming during the company's formative years, before they became predominantly known for their adventure game catalog[^ref-1][^ref-3]. Drawing comparisons to Pac-Man-style maze navigation games, Mine Shaft attempted to capitalize on the arcade game craze of the early 1980s[^ref-1]. The title showcases the technical limitations of its era, utilizing only four colors at any given time on the CGA-equipped systems[^ref-1].
-
-Despite its innovative procedural generation approach, Mine Shaft received mixed reception from players, with critics noting issues with its control scheme and gameplay mechanics[^ref-1]. The game remains a curiosity in Sierra's extensive catalog, representing an experimental period in the company's history before their focus narrowed to the adventure genre that would define their legacy.[^ref-10][^ref-11]
+The player steers a mining car through a network of tunnels, collecting diamonds while shooting the mine's robots, which have gone haywire[^ref-1][^ref-18][^ref-20]. *PCjr Magazine* reviewed it at launch and called it "yet another variation of Pac Man"[^ref-18]. According to Retro365, the game was John Redekopp's PCjr port of Chuck Bueche's Apple II game *[[1982 - Creepy Corridors|Creepy Corridors]]*[^ref-24].
 
 > [!info]- Game Info
-> **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
+> **Developer:** [[Sierra On-Line]], Inc.[^ref-1][^ref-18]
 > **Designer:** John Redekopp (Programmer)[^ref-1]
-> **Publisher:** Sierra On-Line, Inc., IBM[^ref-1]
+> **Publisher:** IBM[^ref-1][^ref-8][^ref-18] (MobyGames also lists Sierra On-Line[^ref-1])
 > **Engine:** Unknown
-> **Platforms:** PC Booter, Apple II, PCjr Cartridge[^ref-1][^ref-2][^ref-4]
-> **Release Year:** 1983[^ref-1][^ref-7]
+> **Platforms:** PC Booter, PCjr Cartridge[^ref-1][^ref-3][^ref-15]
+> **Release Year:** 1983 (copyright); on sale early 1984[^ref-1][^ref-3][^ref-24]
 > **Series:** None
-> **Protagonist:** Unnamed Miner
+> **Protagonist:** None (player-controlled mine cart)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-Mine Shaft features minimal narrative context typical of arcade games from its era[^ref-1]. The player assumes the role of an unnamed miner tasked with navigating through dangerous underground mine shafts[^ref-1]. The objective is straightforward survival and progression through increasingly challenging mine environments.
-
-The game's procedurally generated mines create a sense of endless exploration, with players never encountering the exact same layout twice[^ref-1]. This randomization was intended to provide replay value, though it also introduced gameplay challenges that affected the overall experience[^ref-1].
-
-The setting reflects the industrial themes common in early 1980s gaming, where mining, construction, and similar blue-collar occupations provided accessible frameworks for action-oriented gameplay. Players must navigate treacherous passages while presumably collecting resources or reaching specific destinations within the mine system.
+MobyGames' description sets the scene at a gemstone mine whose mining robots have started "going haywire and wrecking equipment". Instead of abandoning the mine, the player stays to dig out the crystals and escape before the robots destroy the mine cart[^ref-1][^ref-5]. Period listings described the same premise: "Players maneuver a mining car around dangerous mine shafts looking for a fortune in diamonds"[^ref-20].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Mine Shaft utilizes keyboard-based controls for navigating the underground environments[^ref-1]. The game supports single-player gameplay only, with one player controlling the miner through the procedurally generated maze-like mine shafts[^ref-1]. Some players found that using a joystick improved the experience, particularly for those familiar with Pac-Man-style games[^ref-1].
+The game is for one player. It can be played from the keyboard, and MobyGames also lists support for an analog joystick[^ref-1][^ref-25]. The *PCjr Magazine* reviewer played with a joystick[^ref-18]. In MobyGames user reviews, players disliked the keyboard layout, which uses I, J, K and L with K moving the cart down. They recommended playing with "a good joystick"[^ref-1].
 
-A significant control limitation exists in that the game does not properly process diagonal input commands[^ref-1]. This becomes particularly problematic when navigating through tight diagonal passages that the random generation algorithm occasionally creates[^ref-1]. The control scheme reflects the hardware limitations of early 1980s home computers, where precise directional input was often challenging to implement.
+Steering is the game's chief difficulty. *PCjr Magazine* found that because "the mine's tunnels are irregularly shaped, a straightaway will often end with a jagged step up or down", so the player has to move the stick in several directions to reach the next tunnel: "It's very frustrating to get munched on because you stalled at the corner."[^ref-18] In a 1999 MobyGames user review, Trixter wrote that the mines "are generated completely randomly". He added that this can produce "very tight diagonal passages" that are hard to get through "because the game doesn't process diagonal controls", while the robots pass through them easily[^ref-1].
 
 ### Structure and Progression
 
-The game's structure revolves around its procedurally generated mine environments[^ref-1]. Each session presents players with a completely randomized mine layout, theoretically ensuring that no two playthroughs are identical[^ref-1]. This design choice was innovative for its time but introduced significant gameplay issues.
+Each mine has gems scattered through its passages. Robots soon appear and chase the mine cart, and touching one costs a life. Unlike Pac-Man, the cart carries a gun and can shoot the robots[^ref-1][^ref-18]. *PCjr Magazine* noted that a destroyed robot "doesn't return to haunt you until you complete the board and move down the mine to the next level"[^ref-18].
 
-The random generation algorithm occasionally produces mines with very tight diagonal passages[^ref-1]. These narrow corridors become extremely difficult to navigate due to the aforementioned lack of diagonal control support[^ref-1]. Players must carefully maneuver through these challenging sections, often resulting in frustration when the game's controls cannot adequately handle the requirements of its own level design.
-
-### Puzzles and Mechanics
-
-As an arcade-style action game, Mine Shaft emphasizes reflexes and navigation skills rather than traditional puzzle-solving[^ref-1]. The core mechanic involves guiding the miner through the maze-like mine structures while avoiding hazards. The comparison to Pac-Man suggests similar maze-navigation gameplay elements, where players must follow paths while managing threats[^ref-1].
-
-The procedural generation serves as both a feature and a challenge, creating unpredictable environments that require players to adapt their strategies on the fly[^ref-1]. However, the lack of consistent level design means that some generated mines are significantly more difficult than others purely due to random chance rather than intentional difficulty progression.
+An exit appears once the player has either collected all the crystals or destroyed all the robots, and passing through it leads to the next level. Each cleared level awards an extra life. The robots multiply and speed up as the game goes on, and later levels add new enemy types, including a bullet-proof skull[^ref-1][^ref-5]. One MobyGames user reviewer counted ten levels[^ref-1].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Mine Shaft received limited critical attention upon its 1983 release, typical of many Sierra arcade titles from this period[^ref-1]. The game's mixed reception reflected concerns about its control scheme and gameplay variety.
+Don Kennedy reviewed IBM's four launch cartridges in "Junior Arcade" in the first issue of *PCjr Magazine* (February 1984). He wrote that the screen made you "half expect to see a sign reading, 'Dig Dug Was Here'", but that "in play it is nothing so much as yet another variation of Pac Man", with robots in place of the ghosts. He thought "the graphics for Mine Shaft are adequate, and the play is fun", but concluded: "Compared to Pac Man, Mine Shaft withers as quickly as you do when a ghost gobbles you up."[^ref-18] The magazine's later capsule listings summed it up as "A tougher variation of Pac Man that lets you shoot back," noting that "our reviewer says it's not as fun as the arcade game it is patterned after"[^ref-23].
 
-User reviews on MobyGames have characterized the game as having "unexciting gameplay and faulty controls," with one reviewer explicitly recommending players avoid the title except as a technical curiosity[^ref-1]. Another reviewer suggested the game might appeal to Pac-Man fans but advised using "a good joystick" to mitigate control issues[^ref-1].
-
-The PCjr cartridge version was noted primarily for its demonstration value regarding how cartridge games functioned on the IBM PCjr platform, rather than for its gameplay merits[^ref-1].
+*PC Magazine* was also unimpressed. In an April 1984 reply to a reader's letter, Phil Wiswell wrote that the entry-level PCjr had debuted with only four cartridge action games, "none of which was original or outstanding". He added that "if Crossfire, Mouser, Mine Shaft, and Creepy Corridors are indicative of the types of games the IBM Product Center will market for the PCjr, game players will feel disappointed."[^ref-19]
 
 ### Modern Assessment
 
-Modern retrospective analysis of Mine Shaft has been largely unfavorable[^ref-1]. The game is viewed as a minor entry in Sierra's catalog, overshadowed by the company's adventure game output that would define their reputation.
+MobyGames users give it an average of 2.8 out of 5 (13 ratings, 3 reviews)[^ref-1]. Trixter's review is titled "Unexciting gameplay and faulty contols make this one to avoid" and ends: "Use this game as a demonstration of how cartridge games work on the PCjr, but otherwise avoid it." Gravel Robin's 2002 review suggests: "If you like Pacman, you may want to try it... with a good joystick."[^ref-1]
 
 **Aggregate Scores:**
 - **MobyGames:** 2.8/5 (13 ratings, 3 reviews)[^ref-1]
-
-The limited number of reviews and ratings reflects the game's obscurity in Sierra's extensive library. Most players and critics who have revisited the title acknowledge its historical curiosity value while noting its gameplay shortcomings[^ref-1].
 
 ## Development
 
 ### Origins
 
-Mine Shaft emerged during Sierra On-Line's early expansion period in the early 1980s, when the company was exploring various game genres beyond the adventure games that would later define their brand[^ref-1]. The decision to create an arcade-style action game reflected the broader industry's fascination with arcade experiences during this era.
+According to Retro365, Mine Shaft began as Chuck Bueche's *Creepy Corridors*, which John Redekopp ported to the PCjr for IBM. Retro365 says it was released "in March of 1984 when the IBM PCjr became available", even though "the copyright says 1983"[^ref-24]. Retro365 is the only source found for the port. Wiswell's *PC Magazine* reply names Creepy Corridors separately from Mine Shaft[^ref-19].
 
-The game's procedural generation approach for mine layouts demonstrated technical ambition, attempting to create infinite replayability through randomized environments[^ref-1]. This design philosophy, while innovative, ultimately created as many problems as it solved.
+Sierra's PCjr work was a large bet for the company. In an April 1984 profile, *PCjr Magazine* reported that Ken Williams said Sierra "had to spend about $1 million of its own money to develop the Junior software". He also said the IBM contract carried little money up front, and that "We went so far in the hole for development, it's incredible."[^ref-22] The same profile names the cartridges Crossfire and Mine Shaft, together with the HomeWord word processor, as the products of that effort[^ref-22].
 
 ### Production
 
-Development of Mine Shaft was handled by programmer John Redekopp[^ref-1]. The technical specifications suggest the game may have originally been developed for standard PC/CGA systems before being adapted for the PCjr cartridge format[^ref-1].
+MobyGames credits John Redekopp for programming[^ref-1].
 
 **Development Credits:**[^ref-1]
-- **Programmer:** John Redekopp
+- **Programming:** John Redekopp
 
-Technical analysis of the game suggests that since it uses the PC speaker for audio and only displays four colors at any given time, the PCjr cartridge version was likely "upgraded" from a normal PC/CGA game during development[^ref-1]. This raises the possibility that an alternative version of the game optimized for standard PC hardware may exist or may have been planned[^ref-1].
-
-### Technical Achievements
-
-The procedural mine generation system represented Mine Shaft's primary technical innovation[^ref-1]. Each playthrough featured a completely randomly generated mine layout, a feature that was relatively uncommon in games of this era[^ref-1].
-
-However, the random generation algorithm contained significant flaws that negatively impacted gameplay[^ref-1]. The system could create tight diagonal passages that were extremely difficult to navigate because the game engine did not properly process diagonal control inputs[^ref-1]. This mismatch between level design and control capabilities represents a fundamental design oversight.
+MobyGames trivia speculates that because the game uses the PC speaker and only four colours at a time, it was "most likely 'upgraded' from a normal PC/CGA game during development", so a "normal" version might exist. No such version has been confirmed[^ref-1].
 
 ### Technical Specifications
 
-**PC Booter / PCjr Version:**[^ref-1]
-- **Colors:** 4 colors at any given time (CGA palette)
-- **Audio:** PC Speaker
-- **Input:** Keyboard
-- **Players:** 1 Player
-- **Media:** PCjr Cartridge (cartridge version)
+**PCjr Cartridge Version:**[^ref-1][^ref-25]
+- **CPU:** Intel 8088 / 8086
+- **RAM:** 64 KB minimum
+- **Video:** Tandy / PCjr modes. Four colours at once at 320x200, and the colours are not limited to the fixed CGA palettes[^ref-15]
+- **Audio:** PC speaker[^ref-15]
+- **Input:** Keyboard; analog joystick
+- **Players:** 1
+- **Media:** PCjr ROM cartridge
 - **Business Model:** Commercial
 
-The limited color palette and reliance on PC speaker audio reflect the hardware constraints of early 1980s personal computers[^ref-1]. The game's visual presentation was functional rather than impressive, prioritizing gameplay over graphical fidelity.
-
-### Technical Issues
-
-Mine Shaft suffered from a critical control issue that significantly impacted playability[^ref-1]. The game's random mine generation could create tight diagonal passages, but the control system did not properly process diagonal movement inputs[^ref-1]. This fundamental mismatch between level design and control capabilities meant that players could encounter sections of the game that were nearly impossible to navigate through no fault of their own.
-
-The random generation algorithm lacked safeguards to prevent the creation of these problematic passages, making some playthroughs significantly more frustrating than others purely due to chance[^ref-1].
+Nerdly Pleasures notes that Sierra's PCjr games "do not really support more than 4-color 320x200 graphics and PC speaker sound, although the color choices are not limited to the CGA palettes"[^ref-15]. A UVList editor's note adds that Tandy/PCjr graphics did not exist until 1984, so the PC version was patched or republished to support them[^ref-8].
 
 ### Easter Eggs and Trivia
 
-- The game's technical specifications suggest it may have been developed first for standard PC/CGA systems and then adapted for PCjr cartridge distribution[^ref-1]
-- A "normal" PC version of the game optimized differently from the PCjr cartridge may exist, though this has not been confirmed[^ref-1]
-- The PCjr cartridge version serves as a demonstration of how cartridge games functioned on IBM's PCjr platform[^ref-1]
+- *PCjr Magazine* compared the look of the game to the aftermath of Dig Dug's burrowing[^ref-18]
+- Mine Shaft is one of the two Sierra-developed cartridges, with Crossfire, that IBM released for the PCjr[^ref-15][^ref-22]
+- The Good Old Days floppy collection preserves a 160 KB self-booting disk image of the game, labelled 1983[^ref-6]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Specific sales figures for Mine Shaft have not been documented in available historical records[^ref-1]. The game appears to have had minimal commercial impact, remaining a minor entry in Sierra's extensive catalog. Its distribution through IBM for the PCjr platform represented an early example of Sierra's partnerships with major hardware manufacturers[^ref-1].
-
-### Collections
-
-Mine Shaft has not been included in any major Sierra compilation packages or retrospective collections. The game remains accessible primarily through preservation and abandonware channels rather than official re-releases.
-
-### Fan Projects
-
-No significant fan projects, remakes, or modifications of Mine Shaft have been documented. The game's relative obscurity and limited appeal have not inspired the community restoration efforts seen with Sierra's more popular adventure titles.
-
-### Related Publications
-
-No official hint books, strategy guides, or related publications specific to Mine Shaft have been identified. The game's straightforward arcade gameplay likely did not warrant supplementary materials beyond any documentation included with the original release.
+No sales figures for Mine Shaft have been found. Retro365 calls it "one of only a few IBM PCjr cartridge-based games released"[^ref-24]. According to Retro365, Sierra's wider bet on cartridge games "was a bust", and Ken Williams swore off the cartridge market afterwards[^ref-24].
 
 ### Critical Perspective
 
-Mine Shaft represents an interesting footnote in Sierra On-Line's development history, illustrating the company's early experimentation with various game genres before focusing predominantly on adventure games[^ref-1]. The title demonstrates both the ambition and limitations of early 1980s game development, with its innovative procedural generation approach undermined by control implementation issues[^ref-1].
-
-The game's poor reception highlights the importance of ensuring that control schemes adequately support the gameplay challenges developers create[^ref-1]. Mine Shaft's randomly generated diagonal passages and lack of diagonal control support represent a cautionary example of mismatched design elements. From a historical perspective, the title is most valuable as a demonstration of Sierra's early catalog diversity and the technical experimentation occurring in the company's formative years.
-
-Modern players approaching Mine Shaft should do so primarily as historical curiosity rather than seeking an enjoyable gaming experience[^ref-1]. The game's significance lies in its documentation of Sierra's early development philosophy and the technical constraints of its era.
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+Critics at launch found the game competent but derivative. *PCjr Magazine* judged the graphics adequate and the play fun, but weaker than the Pac-Man formula it followed[^ref-18]. *PC Magazine* counted it among a disappointing first wave of PCjr games[^ref-19]. Its main historical interest is its place in Sierra's costly 1983–84 partnership with IBM on the PCjr[^ref-22][^ref-24].
 
 ## Downloads
 
@@ -168,11 +123,10 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 - Not currently available on modern digital storefronts
 
 **Download / Preservation**
-- [MobyGames](https://www.mobygames.com/game/79/mine-shaft/) - Game information and screenshots
-- MyAbandonware - Download available[^ref-2]
+- [MobyGames](https://www.mobygames.com/game/79/mine-shaft/) - Game information and screenshots[^ref-1]
 - [Internet Archive (MS-DOS)](https://archive.org/details/msdos_Mine_Shaft_1983) - Playable in browser[^ref-5]
-- [Internet Archive (IBM PC Floppy)](https://archive.org/details/000308-MineShaft) - Original floppy preservation[^ref-6] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-15]
-
+- [Internet Archive (IBM PC Floppy)](https://archive.org/details/000308-MineShaft) - Original floppy preservation[^ref-6]
+- Also catalogued by UVList, Giant Bomb and Sierra Gamers[^ref-8][^ref-9][^ref-10]
 
 ## See Also
 
@@ -198,22 +152,19 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 
 ## References
 
-[^ref-1]: [MobyGames – Mine Shaft](https://www.mobygames.com/game/79/mine-shaft/) – developer, publisher, platforms, release dates, technical specifications, ratings, reviews, trivia, bugs, programming credits
-[^ref-2]: MyAbandonware – Mine Shaft *(link removed: it led to a different game's page)* – platform information, screenshots, download availability
-[^ref-3]: [Sierra Chest – Mine Shaft](https://www.sierrachest.com/index.php?a=games&id=459&title=mine-shaft) – Sierra game database entry
-[^ref-4]: GameFAQs – Mine Shaft *(link removed: it led to a different game's page)* – Apple II platform entry, game database
-[^ref-5]: [Internet Archive – Mine Shaft (MS-DOS)](https://archive.org/details/msdos_Mine_Shaft_1983) – playable version, game description
-[^ref-6]: [Internet Archive – Mine Shaft IBM PC Floppy](https://archive.org/details/000308-MineShaft) – IBM PC floppy image preservation
-[^ref-7]: [Scribd – SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
-[^ref-8]: [UVList – Mine Shaft](https://www.uvlist.net/game-170916-Mine+Shaft) – game database entry, platform information
-[^ref-9]: [Giant Bomb – Mine Shaft](https://www.giantbomb.com/mine-shaft/3030-1311/) – game database entry, community content
-[^ref-10]: [Sierra Gamers – Mine Shaft](https://www.sierragamers.com/mine-shaft/) – Sierra fan community game entry
-[^ref-11]: [Abandonware DOS – Mine Shaft](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Mine+Shaft&gid=2471) – DOS game preservation
-
-
-
-
-[^ref-15]: [Nerdly Pleasures – Early PC Game Miscellaneous Notability](https://nerdlypleasures.blogspot.com/2016/04/early-pc-game-miscellaneous-notablility.html) – Early Sierra arcade games, historical analysis, platform documentation
-
-[^ref-16]: [IGDB search – Mine Shaft](https://www.igdb.com/search?q=Mine+Shaft) — Game database cross-reference
-[^ref-17]: [PCGamingWiki search – Mine Shaft](https://www.pcgamingwiki.com/w/index.php?search=Mine+Shaft) — Technical and compatibility documentation
+[^ref-1]: [MobyGames – Mine Shaft](https://www.mobygames.com/game/79/mine-shaft/) – developer, publishers (IBM, Sierra On-Line), description, programming credit, user ratings and reviews, trivia
+[^ref-3]: [Sierra Chest – Mine Shaft](https://www.sierrachest.com/index.php?a=games&id=635&fld=general) – first release 1984-01-01, IBM PC Jr., Arcade: Mono-screen
+[^ref-5]: [Internet Archive – Mine Shaft (MS-DOS)](https://archive.org/details/msdos_Mine_Shaft_1983) – playable version, game description (Sierra On-Line / IBM, 1983)
+[^ref-6]: [Internet Archive – Mine Shaft IBM PC Floppy](https://archive.org/details/000308-MineShaft) – IBM PC floppy image preservation (The Good Old Days Floppy Collection)
+[^ref-8]: [UVList – Mine Shaft](https://www.uvlist.net/game-170916-Mine+Shaft) – "developed by Sierra On-Line and published by IBM in 1983"; Tandy/PCjr graphics editor note
+[^ref-9]: [Giant Bomb – Mine Shaft](https://www.giantbomb.com/mine-shaft/3030-1311/) – game database entry
+[^ref-10]: [Sierra Gamers – Mine Shaft](https://www.sierragamers.com/mine-shaft/) – Sierra fan community game listing
+[^ref-15]: [Nerdly Pleasures – Early PC Game Miscellaneous Notability](https://nerdlypleasures.blogspot.com/2016/04/early-pc-game-miscellaneous-notablility.html) – Sierra's PCjr cartridges; 4-colour 320x200, PC speaker, colours not limited to CGA palettes
+[^ref-18]: [PCjr Magazine Vol. 1 No. 1 (February 1984), Don Kennedy, "Junior Arcade", pp. 88–89](https://archive.org/details/pcjr-magazine-1984-volume-1) – contemporary review of the four PCjr launch cartridges
+[^ref-19]: [PC Magazine, April 17, 1984 – letters, Phil Wiswell reply](https://archive.org/details/pc_magazine-1984_04_17) – "if Crossfire, Mouser, Mine Shaft, and Creepy Corridors are indicative..."
+[^ref-20]: [Personal Computing, January 1984](https://archive.org/details/personal-computing-january-1984) – PCjr launch coverage and product listing: mining car, diamonds, $35, PCjr entry model
+[^ref-21]: [Family Computing No. 5, January 1984](https://archive.org/details/family-computing-05) – IBM's four PCjr launch cartridges, $35 each
+[^ref-22]: [PCjr Magazine Vol. 1 No. 3 (April 1984) – Sierra On-Line profile](https://archive.org/details/pcjr-magazine-1984-volume-1) – Ken Williams on the ~$1 million PCjr software gamble
+[^ref-23]: [PCjr Magazine Vol. 1 No. 2 (March 1984) – software capsule reviews](https://archive.org/details/pcjr-magazine-1984-volume-1) – "A tougher variation of Pac Man that lets you shoot back"
+[^ref-24]: [Retro365 – Bits from my personal collection: Creepy Corridors](https://retro365.blog/2022/09/19/bits-from-my-personal-collection-creepy-corridors/) – Creepy Corridors ported by John Redekopp as Mine Shaft; PCjr availability 1984
+[^ref-25]: [MobyGames – Mine Shaft tech specs](https://www.mobygames.com/game/79/mine-shaft/specs/) – Intel 8088/8086, 64 KB, PCjr cartridge, Tandy/PCjr video, PC speaker, keyboard, analog joystick
