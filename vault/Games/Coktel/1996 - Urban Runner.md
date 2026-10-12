@@ -5,119 +5,129 @@ developer: Coktel Vision
 designer: [Philippe Lamarque, Silvan Boris Schmid, Muriel Tramis]
 publisher: Sierra On-Line
 genre: Adventure
-platforms: [DOS, Windows 3.1, Windows 95]
+platforms: [Windows 3.1, Windows 95]
 series: Lost in... (spiritual)
 engine: Gob
 protagonist: Max Gardner
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-09'
+last_updated: '2026-10-12'
 description: Urban Runner is an interactive movie adventure game developed by Coktel
   Vision and published by Sierra On-Line in 1996. Spanning four CD-ROMs and marketed...
 tags: [1990s, adventure, coktel, lost-in-spiritual, sierra]
 ---
 # Urban Runner
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Urban Runner is an interactive movie adventure game developed by [[Coktel Vision]] and published by [[Sierra On-Line]] in 1996.[^ref-1] Spanning four CD-ROMs and marketed as "the first-ever completely interactive movie," the game combined full-motion video sequences with traditional point-and-click adventure gameplay, placing players in the role of Max Gardner, an American journalist caught up in a deadly conspiracy in Paris.[^ref-3] The game was notable for its ambitious production, featuring approximately 20 hours of interactive video content and requiring hardware specifications that were considered demanding for its era.[^ref-3]
+Urban Runner is an interactive movie adventure game developed by [[Coktel Vision]] and published by [[Sierra On-Line]] in 1996.[^ref-1] Spanning four CD-ROMs and marketed as "the first-ever, completely interactive movie," the game combined full-motion video sequences with point-and-click adventure gameplay, placing players in the role of Max Gardner, an American journalist framed for murder in Paris.[^ref-3][^ref-24] Its box copy promised "20 hours of interactive video on four heart-pounding CDs."[^ref-3] Its hardware requirements were heavy for the time.[^ref-7]
 
-Originally developed under the title "Lost in Town," Urban Runner was conceived as a spiritual sequel to Coktel Vision's earlier FMV adventure Lost in Time (1993), and was intended to be part of a cohesive "Lost in..." series before Sierra's acquisition of Coktel Vision changed the marketing direction.[^ref-4] The game featured a distinctive visual presentation, displaying widescreen FMV footage within a 4:3 screen, and utilized an innovative dual-screen video technique to build tension during key sequences.[^ref-5] With a production budget of 15 million French francs (approximately $2.5 million USD or €3.6 million in 2023 terms), the game represented a significant investment in the FMV genre during its peak popularity.[^ref-6]
+Originally developed under the title "Lost in Town," Urban Runner was a spiritual sequel to Coktel Vision's earlier FMV adventure Lost in Time (1993), and the working title was meant to tie the games together in a "Lost in…" series that was never continued.[^ref-4] The game displays widescreen FMV footage within a 4:3 screen, and sometimes opens a second video window to show what is happening elsewhere, building tension during key sequences.[^ref-5] Its production budget reached 15 million French francs, equivalent to nearly €3.6 million by 2023.[^ref-6][^ref-24]
 
-Despite its ambitious scope, Urban Runner received mixed reviews and sold poorly, becoming one of the last games Coktel Vision developed before being acquired by Mindscape.[^ref-7] The game has since become something of a cult curiosity among retrogaming enthusiasts, valued for its campy B-movie aesthetic and its unique position at the intersection of adventure gaming and interactive cinema.[^ref-8]
+Urban Runner received mixed reviews and, according to The Cutting Room Floor, sold very poorly.[^ref-1][^ref-7] Wikipedia's Coktel Vision article reports that after its commercial failure the company decided to focus on educational titles rather than adventure games.[^ref-25] Later write-ups treat it as a campy B-movie thriller, with Adventure Gamers praising its "Solid B-movie writing."[^ref-4][^ref-18]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
-> **Designer:** Philippe Lamarque, Silvan Boris Schmid, [[Muriel Tramis]][^ref-9]
+> **Designer:** Philippe Lamarque, Silvan Boris Schmid, [[Muriel Tramis]][^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** Gob[^ref-10]
-> **Platforms:** MS-DOS, Windows 3.1, Windows 95[^ref-1]
+> **Platforms:** Windows 3.1, Windows 95[^ref-1][^ref-10]
 > **Release Year:** 1996
 > **Series:** Lost in... (spiritual sequel)
 > **Protagonist:** Max Gardner
-> **Sierra Lineage:** Coktel Vision
+> **Sierra Lineage:** Sierra Label (Coktel); developed by Coktel Vision after Sierra's acquisition of the studio was finalised on 29 October 1993, and published by Sierra On-Line[^ref-25]
 
 ## Story Summary
 
-The game opens in Paris, where Max Gardner, an American journalist, is investigating a story about a major drug dealer who appears to be protected by an influential figure in French politics.[^ref-1] Max has arranged a meeting with a contact who promises to provide crucial evidence about the corruption case. However, when Max arrives at the designated meeting point, he discovers that the drug lord has been murdered, and Max is immediately mistaken for the killer by witnesses and authorities alike.[^ref-11]
+The game opens in Paris, where Max Gardner, an American journalist, is investigating a story about a major drug dealer who appears to be protected by an influential figure in French politics.[^ref-1] To get the dealer talking, Max offers him incriminating photographs in exchange for information. When Max arrives at the meeting point, the drug lord is dead, and Max is mistaken for the killer.[^ref-11][^ref-24]
 
-With the police closing in and dangerous criminal elements seeking to eliminate him as a loose end, Max must navigate the treacherous streets of Paris while attempting to clear his name and expose the truth behind the conspiracy.[^ref-1] The narrative takes players through various locations across the city, including warehouses, hotels, and offices, as Max gathers evidence against a shadowy organization known as "the Elite."[^ref-12] Along the way, he encounters Adda, a mysterious woman who becomes both an ally and a romantic interest, though her true motivations remain questionable throughout much of the story.[^ref-7]
+With the police and a gang of thugs on his trail, Max must keep moving through Paris while trying to clear his name.[^ref-4] The investigation takes players through warehouses, hotels and offices as Max gathers evidence against a shadowy organization known as "the Elite."[^ref-12] Along the way he finds an ally in Adda, the murdered dealer's lover, who becomes a playable character; Adventure Gamers notes she is "hiding more than one secret" from him.[^ref-4][^ref-24]
 
-The game's tagline, "Run fast, run smart, stop and you're dead," accurately captures the sense of urgency that pervades the narrative.[^ref-4] Max finds himself constantly on the move, one step ahead of both law enforcement led by Inspector Van Dale and the criminal organization's ruthless enforcers. The story culminates in a confrontation where players must make critical choices that determine Adda's fate and the ultimate outcome of Max's investigation, leading to multiple possible endings.[^ref-13]
+The game's tagline, "Run fast, run smart, stop and you're dead," captures the urgency of the story.[^ref-4] Max stays on the move, one step ahead of both the corrupt Inspector van Dalle and the criminal organization's enforcers.[^ref-4][^ref-13][^ref-18] At the very end of the story, the game asks whether Adda should live or die.[^ref-13][^ref-18]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Urban Runner is controlled entirely via mouse, utilizing an intuitive "click and grab" interface that was designed to be accessible to players unfamiliar with traditional adventure game conventions.[^ref-3] The game divides its action into two distinct phases: "Clue" turns, where players investigate environments and gather information, and "Action" turns, which require quick reflexes and timely decisions to survive dangerous situations.[^ref-14]
+Urban Runner is controlled entirely via mouse, with the box copy advertising "An intuitive 'click and grab' interface."[^ref-3] The game divides its action into two distinct phases: "Clue" turns, where players investigate environments and gather information, and "Action" turns, which require quick decisions to survive dangerous situations.[^ref-14]
 
-During exploration segments, players navigate through pre-rendered environments and interact with objects and characters by clicking on highlighted areas. The interface features photographs that are digitally inserted into the game world, creating a seamless blend between filmed footage and static imagery.[^ref-7] A built-in hint system provides assistance, though it is limited to only three "jokers" throughout the entire game, encouraging players to think carefully before requesting help.[^ref-13]
+During exploration, players move between screens and interact with objects and characters by clicking on hotspots.[^ref-11] In a 2019 MobyGames user review, Katakis wrote that "Every scene in the game was photographed and digitally inserted into the game."[^ref-26] A built-in hint system offers only three "jokers" for the whole game, and the jokers are disabled in some areas.[^ref-13]
 
 ### Structure and Progression
 
-The game spans four CD-ROMs, with players frequently prompted to swap discs as the story progresses.[^ref-1] The narrative is largely linear, though players can approach certain situations from different angles and must often choose between alternative solutions to problems. A notable feature allows players to control two different characters—Max and Adda—at various points in the story, providing different perspectives on the unfolding events.[^ref-3]
+The game spans four CD-ROMs.[^ref-1] The narrative is largely linear. At some points players choose whether to control Max or Adda, but both characters' sections must be completed to progress.[^ref-24][^ref-13] Playing two different characters was one of the game's advertised features.[^ref-3]
 
-The game includes a replay option that allows players to review crucial scenes, which proves useful given the story's complexity and the importance of catching subtle clues in the FMV sequences.[^ref-3] Progression is saved through a traditional save game system, though players are advised to save frequently, particularly before action sequences where death is common.[^ref-15]
+The game includes a replay option that allows players to review crucial scenes.[^ref-3] Walkthroughs advise saving often, since the bodyguard chasing Max early in the game can catch and kill him.[^ref-15]
 
 ### Puzzles and Mechanics
 
-Urban Runner features a combination of traditional adventure game puzzles—inventory manipulation, environmental observation, and logical deduction—alongside timed action sequences that test player reflexes.[^ref-16] The action sequences present players with split-second decisions, such as choosing to jump or slide to avoid danger, with incorrect choices typically resulting in death.[^ref-17]
+Urban Runner combines classic inventory puzzles and logical challenges, such as machinery to operate and codes to crack, with timed sequences that test the player's reflexes.[^ref-4] During Action sections the player has only a short time to make a decision, and the wrong choice usually results in the character's death.[^ref-24]
 
-The timed nature of many puzzles and action sequences sets Urban Runner apart from more contemplative adventure games, creating a sense of urgency that matches the thriller narrative.[^ref-16] Some puzzles involve manipulating objects in the environment to distract guards or hide evidence, while others require players to piece together information gathered from multiple sources. The game's puzzle difficulty has been characterized as relatively low, with the built-in hint system and straightforward solutions making it accessible to casual players.[^ref-13]
+The timed nature of many puzzles sets Urban Runner apart from more contemplative adventure games. After a failure, a "Try again" feature returns the player to the start of the botched timed action.[^ref-4] Many puzzles require manipulating the environment. When Max is ambushed in his apartment by Eraser, for example, he must choose how to use a basketball, a halogen lamp, a crystal table and a window.[^ref-4] Opinions on difficulty vary: Darksheer's walkthrough calls the game "too easy," and Adventure Gamers found it "still fairly easy to complete overall." Alex Bevilacqua, however, wrote that most puzzles "are pretty hard."[^ref-13][^ref-4][^ref-11]
 
 ## Reception
 
 ### Contemporary Reviews
 
-Urban Runner received mixed reviews upon release, with critics praising its ambitious FMV presentation while criticizing its gameplay limitations and acting quality. Adventure Gamers described it as "a solid adventure that is generally enjoyable, though it lacks enough polish or ambition to recommend without caution," ultimately awarding it 3.5 out of 5 stars.[^ref-16] The review noted that "with its continuous timed actions and puzzles, Urban Runner isn't for everyone, but it's a solid thriller worth playing for fans of interactive movies."[^ref-16]
+Critics gave Urban Runner mixed reviews on release. MobyGames records these 1996 scores:[^ref-20]
 
-The game's acting received particularly harsh criticism, with one reviewer noting that "one thing they overwhelmingly have in common is terrible acting."[^ref-11] This assessment aligned with the broader FMV genre's reputation for B-movie quality performances. GameSpot user reviews gave the game 7 out of 10, acknowledging its entertainment value despite technical limitations.[^ref-4] Critics also noted that the game's high hardware requirements limited its audience, as many players lacked systems capable of displaying the recommended 32,000-color visuals at 640x480 resolution.[^ref-18]
+- **PC Joker** (July 1996): 81/100
+- **High Score** (September 1996): 4/5
+- **Power Play** (July 1996): 69/100
+- **Gameplay (Benelux)** (August 1996): 63/100
+- **PC Games (Germany)** (June 1996): 61/100
+- **PC Player (Denmark)** (1996): 60/100
+- **PC Player (Germany)** (June 1996): 40 (MobyGames normalised score)
+
+TV Tropes notes that the game "was not too popular at the time due to high graphics and monitor resolution requirements" and that "there are very few reviews that have been released about the game."[^ref-18]
 
 ### Modern Assessment
 
-In retrospective analysis, Urban Runner has been characterized as emblematic of "all that can go wrong when the two art forms [gaming and moviemaking] collide."[^ref-5] However, the game has also found defenders among retrogaming enthusiasts who appreciate its campy charm and ambitious scope. One modern reviewer noted that while "Urban Runner is an okay game, but not the best FMV-based one I have played," it remains an interesting curiosity from the FMV era.[^ref-7]
+Reviewing it in 2010, Adventure Gamers called it "a solid adventure that is generally enjoyable, though it lacks enough polish or ambition to recommend without caution" and awarded 3.5 out of 5 stars.[^ref-16] Its verdict read: "With its continuous timed actions and puzzles, Urban Runner isn't for everyone, but it's a solid thriller worth playing for fans of interactive movies."[^ref-4] PC Zone was far harsher in August 2001, scoring it 1.6 out of 10.[^ref-20]
+
+Alex Bevilacqua's 2023 retrospective criticized the acting, writing of FMV games that "one thing they overwhelmingly have in common is terrible acting," and scored the game 49%.[^ref-11] The Collection Chamber wrote that Urban Runner "epitomises all that can go wrong when the two art forms collide," meaning gaming and moviemaking.[^ref-5] In a 2019 MobyGames user review, Katakis concluded that "Urban Runner is an okay game, but not the best FMV-based one I have played."[^ref-26]
 
 **Aggregate Scores:**
 - **MobyGames:** 58% (Critics)[^ref-1]
-- **IMDB:** 5.3/10[^ref-9]
 - **OldGames.sk:** 56%[^ref-14]
-- **VGTimes:** 5.5/10[^ref-19]
 - **MyAbandonware:** 4.09/5[^ref-8]
 
-Modern assessments often note that Urban Runner's failure to achieve commercial success stemmed from a combination of factors: its demanding hardware requirements, the declining popularity of FMV games by 1996, and the inherent challenges of marrying interactive gameplay with linear filmed sequences.[^ref-7]
+The Cutting Room Floor attributes the game's poor sales to "its heavy (for the time) hardware requirements."[^ref-7]
 
 ## Development
 
 ### Origins
 
-Urban Runner began development at Coktel Vision's French studio as part of an intended series following the success of Lost in Time (1993).[^ref-4] The game was originally titled "Lost in Town," maintaining the naming convention of what was planned as a cohesive "Lost in..." franchise.[^ref-4] However, when Sierra On-Line acquired Coktel Vision during the game's development, marketing strategies changed, and the title was altered to Urban Runner to better appeal to international audiences.[^ref-20]
+Urban Runner was developed at Coktel Vision as a spiritual sequel to Lost in Time (1993).[^ref-4] Its working title, "Lost in Town," was meant to tie the games together in a cohesive "Lost in…" series. The game was renamed Urban Runner before release, and Adventure Gamers says the series was ultimately discontinued "when Sierra was sold off."[^ref-4] "Lost in Town" remains the game's subtitle.[^ref-1]
 
-The development team set out to create what they described as "a CD interactive game where character behavior in fully filmed urban environments will be managed by an artificial intelligence module."[^ref-6] This ambitious goal reflected the industry's excitement about interactive movie technology during the mid-1990s, though the final product's AI systems were considerably more modest than the initial vision suggested.
+A MobyGames trivia entry says Coktel was "taken over by Sierra during the creation of the game, which changed marketing strategies."[^ref-20] The dates do not support this. Sierra's acquisition of Coktel was finalised on 29 October 1993.[^ref-25] In December 1995, Les Échos described the game as a production of the already-merged "Coktel-Sierra" that had been in development for about eighteen months.[^ref-6][^ref-24] That places the start of development after the takeover.
+
+In its December 1995 article, Les Échos described the project as an interactive CD game in which the behaviour of characters moving through fully filmed urban settings would be handled by an artificial-intelligence module. This was the journalist's description, not a quote from the developers.[^ref-6]
 
 ### Production
 
-Development of Urban Runner took approximately 18 months, with a team of around 50 people working on the project as of December 1995.[^ref-6] The production budget reached 15 million French francs, establishing a break-even target of 500,000 units sold—a goal the game would ultimately fail to achieve.[^ref-6] Three months of the development cycle were dedicated exclusively to live-action film shoots, capturing the extensive FMV footage that would comprise the game's visual presentation.[^ref-6]
+As of December 1995, Urban Runner had been in development for about 18 months, with a team of around 50 people.[^ref-6][^ref-24] The production budget reached 15 million French francs, and Les Échos reported that the game would need at least 500,000 sales to break even.[^ref-6] Three months of development were spent on the live-action film shoots.[^ref-6] Les Échos also reported a planned release of February 1996.[^ref-6]
 
-The filming took place in various urban locations, with actors performing scenes that would later be integrated into the game's interactive framework. Brandon Massey, who had only two acting credits to his name, was cast in the lead role of Max Gardner, contributing to the B-movie quality that would characterize the final product.[^ref-11]
+Brandon Massey played the lead role of Max Gardner. He had previously played the lead in Police Quest IV: Open Season (1993), and Alex Bevilacqua notes that these are his only two acting credits.[^ref-24][^ref-11]
 
-**Development Credits:**[^ref-1]
-- **Designers:** Philippe Lamarque, Silvan Boris Schmid, Muriel Tramis
-- **Additional Design:** Arnaud Delrue, Roland Oskian, Jean-Marc Vincent
-- **Composers:** Michel Golgevit, Hervé Lavandier, Bernard Leroux, François Musy, Olivier Rabat
-- **Lead Actor:** Brandon Massey (Max Gardner)
+**Development Credits:**[^ref-20]
+- **Game Play:** Philippe Lamarque, Silvan Boris Schmid, Muriel Tramis, Jean-Marc Vincent
+- **Supervision:** Arnaud Delrue, Roland Oskian
+- **Soundtrack:** Michel Golgevit, Hervé Lavandier, Bernard Leroux, François Musy, Olivier Rabat
+- **Lead Actor:** Brandon Massey (Max Gardner)[^ref-9]
 
 ### Technical Achievements
 
-Urban Runner was built on the Gob engine, Coktel Vision's proprietary technology that had previously powered several of their adventure titles.[^ref-10] The engine supported two display modes: a standard 256-color mode and an enhanced 32,000-color mode for systems with more capable graphics hardware.[^ref-5] The game rendered at 640x480 resolution, which was considered high-end for adventure games of the era.[^ref-18]
+Urban Runner was built on the Gob engine, Coktel Vision's proprietary technology.[^ref-10] The Windows installation offers two colour modes, 256 colours or 32,000 colours.[^ref-5][^ref-10] The game ran at 640x480, which TV Tropes describes as a high requirement for the time.[^ref-18]
 
-The technical architecture allowed for seamless integration of pre-recorded video with interactive elements, creating the illusion of real-time responsiveness within filmed sequences. The game employed a distinctive widescreen presentation for its FMV content, letterboxing the footage within the standard 4:3 display ratio.[^ref-5] This aspect ratio of 1.33:1 was confirmed in technical specifications, with the full-color video presentation requiring significant storage across the four CD-ROM discs.[^ref-9]
+The FMV content is presented in a widescreen format, letterboxed within the standard 4:3 display.[^ref-5] IMDb lists the aspect ratio as 1.33:1.[^ref-9]
 
 ### Technical Specifications
 
-**CD-ROM Version:**[^ref-16]
+**CD-ROM Version:**[^ref-10]
 - **Resolution:** 640×480
-- **Color Depth:** 256 colors (8-bit) or 32,000 colors (32-bit)[^ref-1]
+- **Color Depth:** 256 colors (8-bit) or 32,000 colors (high colour)[^ref-10]
 - **Media:** 4 CD-ROMs (2.0 GB total)[^ref-21]
 - **Minimum CPU:** Intel i486 DX2 66 MHz[^ref-10]
 - **Recommended CPU:** Intel Pentium 90 MHz[^ref-10]
@@ -128,91 +138,83 @@ The technical architecture allowed for seamless integration of pre-recorded vide
 
 ### Cut Content
 
-Analysis of the game's data files has revealed multiple unused cinematics and audio clips suggesting alternate gameplay paths that were planned but never implemented in the final release.[^ref-7] The Italian version of the game contains more dialogue in its introduction than other language versions, indicating regional variations in content presentation and suggesting that some content may have been trimmed for international releases.[^ref-7]
+The game's data files contain several unused or alternate cinematics and unused audio. TCRF suggests that at one point in development the player may have had more chances to choose what to tackle first.[^ref-7] The Italian version has Max talking far more frequently in the intro than the English version.[^ref-7]
 
 ### Version History
 
-| Version | Date | Platform | Notes |
+| Release | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | July 1996 | Windows 3.1/95 (UK) | Initial release[^ref-1] |
-| 1.0 | July 25, 1996 | Windows 3.1 (NA) | North American release[^ref-1] |
-| DOS | 1996 | MS-DOS (EU/US) | DOS version[^ref-7] |
+| UK | July 1996 | Windows | Initial release[^ref-24] |
+| North America | July 25, 1996 | Windows 3.x / Windows | North American release[^ref-10][^ref-24] |
 | ScummVM | 2.1.2-2.9.0 | Multiple | Modern compatibility[^ref-5] |
 
-**Language Versions:**[^ref-8]
-- English (US/UK)
-- French
-- German
-- Dutch
+MobyGames and PCGamingWiki list only Windows releases. TCRF and Wikipedia's infobox also list MS-DOS.[^ref-1][^ref-10][^ref-7][^ref-24]
+
+**Language Versions:**
+- English (UK and North American releases)[^ref-24]
+- French, German, Spanish[^ref-10]
 - Italian (expanded intro dialogue)[^ref-7]
-- Hebrew (as "Avudim BaIr")[^ref-19]
+- Hebrew (as "Avudim BaIr")[^ref-1]
+
+MyAbandonware lists releases in France, Germany and the Netherlands.[^ref-8]
 
 ### Technical Issues
 
-A notable bug affected saved game functionality: attempting to load a saved game with the incorrect CD-ROM in the drive would trigger a critical error, potentially corrupting save data.[^ref-22] Players were advised to ensure the proper disc was inserted before attempting to restore progress. The game's demanding hardware requirements also caused performance issues on systems that met only the minimum specifications, with video playback stuttering on slower machines.[^ref-18]
+A bug affected saved games: loading a game that was not saved with the current CD in the drive triggers a critical error, so players were advised to insert the correct CD before restoring.[^ref-22]
 
-Modern players can access Urban Runner through ScummVM, which provides compatibility with contemporary operating systems. The Collection Chamber maintains an updated version using ScummVM 2.9.0 for improved stability.[^ref-5]
+Modern players can run Urban Runner through ScummVM. In 2025, The Collection Chamber updated its installer from ScummVM 2.1.2 to 2.9.0, which improves compatibility.[^ref-5]
 
 ### Easter Eggs and Trivia
 
-- **Cuddly Toy Weapon:** Players can throw a cuddly toy at a killer during one action sequence, a memorable absurdist moment that has become a selling point among fans.[^ref-23]
-- **B-Movie Aesthetic:** The developers appear to have embraced the low-budget feel of their production, with deliberately over-the-top performances and dramatic scenarios.[^ref-18]
-- **Character Introduction:** Max's opening narration includes the line "Daylight at last. I took a deep breath of fresh air already imagining myself sprawled out on my comfy sofa with a glass of my best whiskey in my hand," establishing his hard-boiled journalist persona.[^ref-9]
+- **Cuddly Toy Weapon:** When a thug ambushes Max in his apartment, one option is to throw a cuddly toy at him. The plan does not work.[^ref-18] A GOG Dreamlist user singled this out: "If that doesn't sell you on the game, then I don't know what will."[^ref-23]
+- **B-Movie Aesthetic:** TV Tropes says that "the game invokes a deliberate B-movie feel, and the story gradually becomes sillier as it goes on."[^ref-18]
+- **Character Introduction:** Max's opening narration includes the line "Daylight at last. I took a deep breath of fresh air already imagining myself sprawled out on my comfy sofa with a glass of my best whiskey in my hand."[^ref-9]
 - **Setting Location:** The game is set primarily in the city of Clichy, a commune in the northern suburbs of Paris.[^ref-1]
 
 ### Multiple Endings
 
-Urban Runner features multiple endings based on player choices made throughout the game, particularly regarding Adda's fate.[^ref-13] The critical decision point occurs during the game's climax, where players must choose between saving Adda or pursuing the primary objective. The game tracks several key variables:
-
-- **Adda's Survival:** Whether players choose to rescue Adda during the final confrontation
-- **Evidence Gathering:** The completeness of evidence collected against the Elite organization
-- **Inspector Van Dale:** The resolution of Max's relationship with law enforcement
-
-The "best" ending requires successfully gathering all evidence, making the correct choice regarding Adda, and exposing the full extent of the conspiracy.[^ref-12]
+At the very end of the story, the game asks whether Adda dies or survives. TV Tropes notes that this is "Not in a moralistic decision sense, the game just flat out asks you whether you want her to live or die."[^ref-18] Darksheer's walkthrough advises against replaying the ending, "because the outcome is almost the same."[^ref-13] After the ending, players can select each character to see a summary of their involvement in the plot.[^ref-11]
 
 ## Voice Cast
 
-| Character | Voice Actor |
+| Character | Actor |
 |-----------|-------------|
 | Max Gardner | Brandon Massey[^ref-1] |
-| Adda | Unknown[^ref-5] |
 
-Brandon Massey, the lead actor, had only two acting credits in his career, with Urban Runner representing one of his few professional performances.[^ref-11] The production was filmed in France, with a primarily French crew handling the technical aspects of the shoot.[^ref-9]
+Brandon Massey has two acting credits to his name, Urban Runner and Police Quest: Open Season.[^ref-11] Max narrates the game in voiceover, and apart from a few directly spoken lines the story is told through this narration.[^ref-4] IMDb lists France as the country of origin.[^ref-9]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Urban Runner sold poorly upon release, failing to reach its break-even target of 500,000 units.[^ref-7] The game's commercial failure has been attributed to multiple factors: the FMV gaming market was already saturated by 1996, the hardware requirements exceeded what many home computers could deliver, and the mixed critical reception dampened consumer interest.[^ref-7] The game represented one of the last major FMV productions from Coktel Vision before the studio's acquisition by Mindscape marked the end of an era.[^ref-7]
+The Cutting Room Floor says Urban Runner "sold very poorly due to its heavy (for the time) hardware requirements."[^ref-7] Les Échos had reported in December 1995 that it needed at least 500,000 sales to break even. No source consulted gives actual sales figures.[^ref-6] According to Wikipedia, after the game's commercial failure Coktel Vision decided to focus on educational titles rather than adventure games.[^ref-25]
 
 ### Collections
 
-Urban Runner was not widely included in compilation releases, likely due to its poor commercial performance and the technical challenges of packaging FMV content. The game has primarily circulated through abandonware channels and preservation efforts rather than official re-releases.[^ref-8]
+No compilation releases of Urban Runner are documented in the sources consulted. The game now circulates mainly through abandonware and preservation sites.[^ref-8][^ref-21]
 
 ### Fan Projects
 
-The game is now supported by ScummVM, allowing modern players to experience Urban Runner on contemporary systems without the compatibility issues that plagued original installations.[^ref-5] The Collection Chamber has maintained an updated package incorporating the latest ScummVM builds.[^ref-5] While no major fan remakes have been undertaken, the game maintains a small but dedicated following among FMV adventure enthusiasts.
+The game is supported by ScummVM, so modern players can run Urban Runner on current systems.[^ref-5] The Collection Chamber maintains an installer built on recent ScummVM releases.[^ref-5]
 
 ### Related Publications
 
 - **In-Game Hint System:** Built-in help with limited "joker" uses[^ref-13]
-- **Online Walkthroughs:** Multiple fan-created walkthroughs exist, including comprehensive guides at Sierra Help and The Spoiler[^ref-15][^ref-13]
+- **Online Walkthroughs:** Fan walkthroughs include guides at Sierra Help and Darksheer's walkthrough (originally published on The Spoiler, now archived at Just Adventure)[^ref-15][^ref-13]
 
 ### Critical Perspective
 
-Urban Runner occupies an interesting position in adventure gaming history, representing both the ambitions and limitations of the FMV era. Released during what would prove to be the final years of mainstream FMV production, the game attempted to push the boundaries of interactive storytelling while simultaneously falling victim to the genre's inherent constraints—stiff acting, limited interactivity, and the challenge of balancing gameplay with cinematic presentation.[^ref-5]
-
-The game's spiritual connection to Lost in Time and its intended role in a larger "Lost in..." franchise speaks to Coktel Vision's ambitions during this period, even as Sierra's acquisition disrupted those plans.[^ref-4] While Urban Runner is rarely cited among the great adventure games of its era, it remains a valuable artifact of 1990s gaming culture, demonstrating both the excitement and the pitfalls that characterized the industry's brief love affair with interactive movies.[^ref-7] Modern retrospectives have been more forgiving than contemporary reviews, recognizing the game's entertainment value as a campy thriller even while acknowledging its technical and artistic shortcomings.[^ref-8]
+Urban Runner arrived, in Adventure Gamers' words, "at the apogee of the short-lived FMV popularity."[^ref-4] The Collection Chamber argues that FMV games share a "conflict between the game's design and the rigid nature of moviemaking," and that Urban Runner epitomises it.[^ref-5] The game's link to Lost in Time and its planned place in a larger "Lost in…" series show Coktel Vision's ambitions at the time, but that series did not continue.[^ref-4]
 
 ## Downloads
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/urbanrunnereurope) – European version preservation[^ref-21]
-- [MyAbandonware](https://www.myabandonware.com/game/urban-runner-f09) – Multiple language versions[^ref-8]
+- [MyAbandonware](https://www.myabandonware.com/game/urban-runner-f09) – Windows 3.x version[^ref-8]
 
 **Technical Resources**
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Urban_Runner) – Compatibility fixes and ScummVM setup[^ref-10]
-- [Sierra Help](https://sierrahelp.com/Walkthroughs/UrbanRunnerWalkthrough.html) – Walkthrough and technical support[^ref-15]
+- [Sierra Help](https://sierrahelp.com/Walkthroughs/UrbanRunnerWalkthrough.html) – Walkthrough[^ref-15]
 
 ## See Also
 
@@ -235,25 +237,26 @@ The game's spiritual connection to Lost in Time and its intended role in a large
 
 ## References
 
-[^ref-1]: [MobyGames – Urban Runner](https://www.mobygames.com/game/3809/urban-runner/) – developer, publisher, credits, ratings, platform details
+[^ref-1]: [MobyGames – Urban Runner](https://www.mobygames.com/game/3809/urban-runner/) – developer, publisher, credits, ratings, platform details, alternate titles
 [^ref-3]: [GameFAQs – Urban Runner](https://gamefaqs.gamespot.com/pc/565291-urban-runner) – game description, interactive movie details
-[^ref-4]: [GameSpot User Review](https://www.gamespot.com/urban-runner/user-reviews/2200-91441/) – original title, spiritual sequel info, tagline
+[^ref-4]: [Adventure Gamers – Urban Runner review (Andrea Morstabilini, 2010, Wayback)](https://web.archive.org/web/20231127064639/https://adventuregamers.com/articles/view/18245) – original title, spiritual sequel, tagline, gameplay, verdict
 [^ref-5]: [Collection Chamber – Urban Runner](https://collectionchamber.blogspot.com/2020/08/urban-runner.html) – technical presentation, ScummVM support, critical assessment
-[^ref-6]: [Les Echos (Archive.today)](https://archive.today/20180717184424/https://www.lesechos.fr/20/12/1995/LesEchos/17048-126-ECH_course-au-realisme-chez-les-editeurs.htm) – budget, development time, team size
+[^ref-6]: [Les Echos (Archive.today)](https://archive.today/20180717184424/https://www.lesechos.fr/20/12/1995/LesEchos/17048-126-ECH_course-au-realisme-chez-les-editeurs.htm) – budget, development time, team size, break-even target
 [^ref-7]: [The Cutting Room Floor – Urban Runner](https://tcrf.net/Urban_Runner) – cut content, sales performance, version differences
-[^ref-8]: [MyAbandonware – Urban Runner](https://www.myabandonware.com/game/urban-runner-f09) – language versions, user rating, retrogaming popularity
-[^ref-9]: [IMDB – Urban Runner](https://www.imdb.com/title/tt0207181/) – cast, designers, technical specs, rating
-[^ref-10]: [PCGamingWiki – Urban Runner](https://www.pcgamingwiki.com/wiki/Urban_Runner) – engine, system requirements, technical specifications
+[^ref-8]: [MyAbandonware – Urban Runner](https://www.myabandonware.com/game/urban-runner-f09) – release countries, user rating
+[^ref-9]: [IMDB – Urban Runner](https://www.imdb.com/title/tt0207181/) – cast, quote, country of origin, aspect ratio
+[^ref-10]: [PCGamingWiki – Urban Runner](https://www.pcgamingwiki.com/wiki/Urban_Runner) – engine, system requirements, localizations, release date
 [^ref-11]: [Alex Bevilacqua Blog – Urban Runner](https://alexbevi.com/blog/2023/02/15/urban-runner/) – plot summary, acting critique, actor background
 [^ref-12]: [Sierra Chest – Urban Runner Walkthrough](https://www.sierrachest.com/index.php?a=games&id=181&title=urban-runner-lost-in-town&fld=walkthrough&pid=130) – storyline details, character names, puzzle information
-[^ref-13]: [The Spoiler – Urban Runner Walkthrough](https://www.justadventure.com/walkthrough/urban-runner/) – hint system, multiple endings, difficulty assessment
+[^ref-13]: [Just Adventure – Urban Runner Walkthrough by Darksheer (originally on The Spoiler)](https://www.justadventure.com/walkthrough/urban-runner/) – hint system, Adda ending choice, difficulty opinion
 [^ref-14]: [OldGames.sk – Urban Runner](https://www.oldgames.sk/en/game/urban-runner/download/4796/) – game structure, Clue/Action turns, rating
 [^ref-15]: [Sierra Help – Urban Runner Walkthrough](https://sierrahelp.com/Walkthroughs/UrbanRunnerWalkthrough.html) – gameplay guidance, save advice
-[^ref-16]: [Adventure Gamers – Urban Runner](https://web.archive.org/web/20230109053907/https://adventuregamers.com/games/view/16680) – review score, system requirements, gameplay assessment
-[^ref-17]: APKPure – Urban Runner (link removed: unrelated Android app download page) – gameplay mechanics description (unrelated Android game)
-[^ref-18]: [TV Tropes – Urban Runner](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrbanRunner) – hardware requirements, B-movie aesthetic, graphics specifications
-[^ref-19]: [VGTimes – Urban Runner](https://vgtimes.com/games/urban-runner/) – alternative titles, rating, genre classification
-[^ref-20]: [MobyGames Archive (Web Archive)](https://web.archive.org/web/20160303203136/http://www.mobygames.com/game/dos/urban-runner/) – Sierra acquisition, development history
+[^ref-16]: [Adventure Gamers – Urban Runner](https://web.archive.org/web/20230109053907/https://adventuregamers.com/games/view/16680) – review score, system requirements
+[^ref-18]: [TV Tropes – Urban Runner](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrbanRunner) – hardware requirements, B-movie aesthetic, endings, characters
+[^ref-20]: [MobyGames Archive (Web Archive, 2016)](https://web.archive.org/web/20160303203136/http://www.mobygames.com/game/dos/urban-runner/) – 1996 critic scores, credits, trivia
 [^ref-21]: [Internet Archive – Urban Runner Europe](https://archive.org/details/urbanrunnereurope) – game description, file size, preservation
 [^ref-22]: [GameFAQs – Urban Runner FAQ](https://gamefaqs.gamespot.com/pc/565291-urban-runner/faqs/2293) – save game bug, walkthrough notes
 [^ref-23]: [GOG Dreamlist – Urban Runner](https://www.gog.com/dreamlist/game/urban-runner-1996) – cuddly toy trivia, user commentary
+[^ref-24]: [Wikipedia – Urban Runner](https://en.wikipedia.org/wiki/Urban_Runner) – plot, Clue/Action sections, Brandon Massey, release dates, Les Échos summary
+[^ref-25]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – Sierra acquisition finalised 29 October 1993, post-Urban Runner shift to educational titles
+[^ref-26]: [MobyGames – Urban Runner reviews](https://www.mobygames.com/game/3809/urban-runner/reviews/) – Katakis user review (2019)
