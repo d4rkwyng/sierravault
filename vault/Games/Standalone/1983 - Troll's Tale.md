@@ -186,7 +186,7 @@ For Al Lowe personally, Troll's Tale represented a significant learning experien
 [^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/troll-s-tale-32) – - Parser system review by HOTUD
 [^ref-17]: [GameFAQs](https://gamefaqs.gamespot.com/pc/582558-trolls-tale/faqs/51970) – - Game completion time assessment by Tom Hayes
 [^ref-18]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/113864-trolls-tale) – - Gameplay elements description
-[^ref-19]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Troll's+Tale&gid=2483) – - User rating aggregate
+[^ref-19]: Abandonware DOS (link removed: dead download-site page) – - User rating aggregate
 [^ref-20]: [itch.io](https://outgrabe.itch.io/trolls-tale-2023) – - Modern recreation rating
 [^ref-21]: [AVID Wiki](https://www.avid.wiki/Sierra_Entertainment) – - PC port visual characteristics
 [^ref-22]: [MyAbandonware](https://www.myabandonware.com/game/troll-s-tale-32/play-32) – - Browser playability and preservation access
