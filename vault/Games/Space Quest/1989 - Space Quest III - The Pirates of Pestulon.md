@@ -211,16 +211,12 @@ This game has been included in the following collections:
 [^ref-4]: [SpaceQuest.net – Space Quest 3 Game Information](https://spacequest.net/sq3/gameinfo.php) – release details, original packaging, awards
 [^ref-5]: [MobyGames – Space Quest III](https://www.mobygames.com/game/142/space-quest-iii-the-pirates-of-pestulon/) – developer, publisher, platforms, credits, ratings
 [^ref-6]: [GOG – Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) – purchase, user reviews
-[^ref-7]: My Abandonware – Space Quest III *(download link removed: the game is sold commercially)* – platforms, availability
 [^ref-8]: [HowLongToBeat – Space Quest III](https://howlongtobeat.com/game/8865) – completion times
 [^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
-[^ref-10]: Internet Archive – Space Quest III *(download link removed: the game is sold commercially)* – preservation, historical versions
 [^ref-11]: [PCGamingWiki – Space Quest III](https://www.pcgamingwiki.com/wiki/Space_Quest_III%3A_The_Pirates_of_Pestulon) – technical specs, fixes
 [^ref-12]: [StrategyWiki – Space Quest III](https://strategywiki.org/wiki/Space_Quest_III) – game guide
 [^ref-16]: [Space Quest Historian – 11 Things You Probably Didn't Know About Space Quest](https://www.youtube.com/watch?v=Hvux-A0oGiM) – debug cheats, development trivia
 [^ref-17]: [Virtual Broomcloset – Publications Archive](https://wiw.org/~jess/publications.html) – manuals, hint books, pack-in feelies
-[^ref-18]: DOS.Zone – Space Quest III *(download link removed: the game is sold commercially)* – play in browser
-[^ref-19]: Internet Archive – Space Quest III (DOS) *(download link removed: the game is sold commercially)* – DOS version preservation
 [^ref-20]: [Space Quest Fandom Wiki – Pestulon](https://spacequest.fandom.com/wiki/Pestulon) – location details, Star Wars parallel
 [^ref-21]: [Sierra Help – Space Quest III](https://sierrahelp.com/Games/SpaceQuest/SQ3Help.html) – system requirements, known issues, DOSBox configuration
 [^ref-22]: [ScummVM Wiki – Space Quest III](https://wiki.scummvm.org/index.php/Space_Quest_III) – ScummVM 1.2.0 support, SCI engine, resolution specs
