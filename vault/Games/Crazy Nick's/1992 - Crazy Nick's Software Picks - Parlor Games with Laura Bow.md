@@ -2,7 +2,7 @@
 title: 'Crazy Nick''s Software Picks: Parlor Games with Laura Bow'
 release_year: 1992
 developer: Sierra On-Line, Inc.
-designer: [Bill Davis]
+designer: [Unknown]
 publisher: Sierra On-Line, Inc.
 genre: Board Game
 platforms: [DOS]
@@ -10,27 +10,27 @@ series: Crazy Nick's Software Picks, Laura Bow
 engine: SCI1.1
 protagonist: Laura Bow (opponent)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-12'
 description: 'Crazy Nick''s Software Picks: Parlor Games with Laura Bow is a budget
   compilation title released by Sierra On-Line in 1992 as part of their Crazy Nick''s...'
 tags: [1990s, crazy-nick-s-software-picks-laura-bow, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Parlor Games with Laura Bow
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Crazy Nick's Software Picks: Parlor Games with Laura Bow is a budget compilation title released by [[Sierra On-Line]] in 1992 as part of their Crazy Nick's Software Picks series[^ref-1]. The game features Laura Bow, the protagonist of Sierra's mystery adventure series, as the player's opponent in two classic parlor games: Yacht (a dice game based on Yahtzee) and Dominoes[^ref-2]. In the summer of 1992, Sierra combined mini arcade sequences, casino, and board games that were originally included in various adventure and Hoyle games, releasing these mini compilations as budget releases in blister cards under the Crazy Nick's Software Picks banner[^ref-3].
+Crazy Nick's Software Picks: Parlor Games with Laura Bow is a budget compilation title released by [[Sierra On-Line]] in 1992 as part of their Crazy Nick's Software Picks series[^ref-3]. The game features Laura Bow, the protagonist of Sierra's mystery adventure series, as the player's opponent in two classic parlor games: Yacht (a dice game based on Yahtzee) and Dominoes[^ref-2]. In the summer of 1992, Sierra combined mini arcade sequences, casino, and board games that were originally included in various adventure and Hoyle games, releasing these mini compilations as budget releases in blister cards under the Crazy Nick's Software Picks banner[^ref-3].
 
-The game is essentially a cut-down version of Hoyle Official Book of Games Volume 3, containing a subset of games from that collection with Laura Bow serving as the featured opponent character[^ref-1]. Players can challenge Laura at three different difficulty levels in both included games[^ref-2]. As a budget title designed for casual play, Parlor Games with Laura Bow offered an accessible entry point to Sierra's gaming catalog while capitalizing on the popularity of their adventure game heroines.
+Both games were originally included in Hoyle Official Book of Games Volume 3: Great Board Games, and the pack's music comes from the same source[^ref-3][^ref-20]. Players can challenge Laura at three different difficulty levels[^ref-2]. Sierra's own InterAction magazine announced the line in its Summer 1992 issue as low-priced VGA games that would retail for around $10[^ref-17].
 
-Contemporary and modern reception has been mixed, with critics noting that while the game was considered "above-average" for its time as a board/party game title, better versions of the included games were readily available elsewhere[^ref-4][^ref-1]. The game represents an interesting marketing experiment by Sierra to leverage their recognizable adventure game characters in more casual gaming contexts.[^ref-13][^ref-14][^ref-15]
+No period reviews of the pack are known: The Sierra Chest lists "No reviews yet" and MobyGames has no critic reviews on file[^ref-16][^ref-19]. The only substantial review found is a 2011 retrospective guest post by "mecha-neko" on the Super Adventures in Gaming blog, which was negative[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-2]
-> **Director:** [[Bill Davis]][^ref-2]
-> **Producer:** [[Tammy Dargan]], Tony Caudill[^ref-2]
+> **Director:** [[Bill Davis]][^ref-13][^ref-15]
+> **Producer:** [[Tammy Dargan]], Tony Caudill[^ref-13][^ref-15]
 > **Publisher:** Sierra On-Line, Inc.[^ref-2]
 > **Engine:** SCI1.1[^ref-5]
 > **Platforms:** DOS, IBM PC[^ref-2][^ref-3]
@@ -38,80 +38,64 @@ Contemporary and modern reception has been mixed, with critics noting that while
 > **Series:** Crazy Nick's Software Picks, Laura Bow
 > **Protagonist:** Laura Bow (opponent)
 > **Sierra Lineage:** Core Sierra
-> **Designer:** Bill Davis
 
 ## Story Summary
 
-As a budget compilation of board games, Crazy Nick's Software Picks: Parlor Games with Laura Bow does not feature a traditional narrative story. Instead, the game presents Laura Bow as the player's opponent in classic parlor games[^ref-2]. Laura Bow is a character from Sierra's adventure game series, most notably appearing in The Dagger of Amon Ra (1992), which preceded this release[^ref-2].
+As a budget compilation of board games, Crazy Nick's Software Picks: Parlor Games with Laura Bow does not feature a traditional narrative story. Instead, the game presents Laura Bow as the player's opponent in classic parlor games[^ref-2]. MobyGames describes the pack as introducing "Laura Bow of The Dagger of Amon Ra" and lists The Dagger of Amon Ra (1992) as the previous entry in the Laura Bow series[^ref-2]. The Dagger of Amon Ra was already on Sierra's price list in the same Summer 1992 InterAction issue that announced the Crazy Nick's line[^ref-17].
 
-The framing device places players in a parlor setting where they can challenge Laura to friendly competition in Yacht or Dominoes[^ref-1]. The games proceed according to traditional rules, with Laura serving as a computerized opponent capable of varying skill levels to match player ability[^ref-2].
-
-The connection to the Laura Bow mystery series is purely superficial, using the character's likeness and personality to add charm to what would otherwise be standard implementations of classic games[^ref-1]. This approach allowed Sierra to cross-promote their adventure game properties while offering budget-priced casual entertainment.
+Laura serves as the computer opponent at three difficulty levels; there is no two-player mode[^ref-2][^ref-1].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Parlor Games with Laura Bow utilizes Sierra's Creative Interpreter (SCI) engine with a point-and-select interface[^ref-2]. The game presents a side view perspective with fixed, flip-screen visuals typical of board game adaptations[^ref-2]. Players interact with game elements using mouse-driven selection, choosing dice to keep in Yacht or dominoes to play[^ref-1].
-
-The interface and game mechanics between this title and Hoyle 3 are similar, so players familiar with the earlier release would find the controls immediately recognizable[^ref-1]. The technical specifications include a 320x200 resolution display[^ref-7].
+Parlor Games with Laura Bow runs on Sierra's Creative Interpreter (SCI) engine with a point-and-select interface[^ref-2]. MobyGames classifies it as side view, fixed/flip-screen and turn-based[^ref-2]. Screenshots on MobyGames are 320x200, including the difficulty-level selection screen[^ref-7].
 
 ### Structure and Progression
 
-The game offers two distinct parlor games for players to enjoy:
+The game offers two parlor games:
 
-- **Yacht (Yahtzee variant):** A dice game where players roll five dice and attempt to score points across various combinations. The game uses prerendered dice graphics[^ref-1]. Notably, this version lacks the "Three of a Kind" scoring line found in some Yahtzee variants, and Full House scores 12 points rather than the traditional 25[^ref-1].
+- **Yacht:** Players try to score as high as possible across twelve categories: Ones, Twos, Threes, Fours, Fives, Sixes, Four of a Kind, Full House, Small Straight, Large Straight, Yacht and Choice. Each turn allows up to three rolls, and each category may be used once per game[^ref-3]. The dice are prerendered[^ref-1]. The list has no "Three of a Kind" category; the SAiG reviewer noticed this and that a Full House scored Laura 12 points, wondering whether these were "regional differences"[^ref-1][^ref-3].
 
-- **Dominoes:** Players compete against Laura Bow in the classic tile-matching game, playing to 100 points[^ref-1]. The game follows standard dominoes rules with players taking turns matching numbered tiles.
+- **Dominoes:** Each player takes either 5 or 7 dominoes from the Boneyard, then plays onto two Forks, matching the end of the last domino played there. A player with no play must draw from the Boneyard one at a time; a hand ends when a player plays their last domino or both players pass in turn[^ref-3]. Games are played to 100 points[^ref-1].
 
-Each game can be played at three difficulty levels, adjusting Laura's AI competence to provide appropriate challenge[^ref-2]. The turn-based pacing allows for thoughtful play without time pressure[^ref-2].
+Each game can be played at three difficulty levels[^ref-2].
 
 ### Puzzles and Mechanics
 
-As straightforward implementations of traditional parlor games, Parlor Games with Laura Bow does not feature adventure-style puzzles[^ref-2]. Instead, gameplay focuses on strategic decision-making inherent to each included game:
+As straightforward implementations of traditional parlor games, Parlor Games with Laura Bow does not feature adventure-style puzzles. In Yacht, players decide which dice to keep across up to three rolls, then choose a category in which to score the turn; they may also score after only one or two rolls[^ref-3].
 
-In Yacht, players must decide which dice to keep after each of three rolls per turn, then choose which scoring category to assign their result[^ref-1]. Strategic considerations include when to take a zero in a category versus attempting risky combinations.
-
-In Dominoes, players must manage their hand of tiles strategically, blocking opponents when possible while ensuring they can continue playing[^ref-1]. The game proceeds until one player reaches 100 points.
-
-Notably, the game lacks a save function, meaning players cannot preserve their progress between sessions[^ref-1]. There is also no two-player mode available—competition is exclusively against the AI-controlled Laura Bow[^ref-1].
+The SAiG reviewer found an option to disable the pulsing background, and wrote "I don't think you can save your progress and continue later"[^ref-1]. Competition is exclusively against Laura; there is no two-player mode[^ref-1].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Contemporary critical reception for Parlor Games with Laura Bow was limited, as the game was released as an inexpensive budget title rather than a full-priced release[^ref-3]. The Crazy Nick's Software Picks line was designed as budget releases sold in blister cards, targeting casual consumers rather than dedicated gaming enthusiasts[^ref-3].
-
-The game was characterized as "above-average" for a board/party game title of its era[^ref-4]. However, reviewers noted the inherent limitations of the format, with one critic stating "There's absolutely no need for the hideous Yacht game to exist, and you'd have to be some kind of hard-core dominomaniac to want to play single player dominoes versus the computer"[^ref-1].
-
-Comparative analysis with other Crazy Nick's releases found this title wanting, with critics observing "These Picks are noticeably worse than King Graham's"[^ref-1]. The King Graham's Board Game Challenge title in the same series received better overall reception with a reported 4.4 out of 5 player rating[^ref-8].
+No contemporary reviews of Parlor Games with Laura Bow are known. The Sierra Chest's reviews tab reads "No reviews yet"[^ref-16], and MobyGames has no critic reviews recorded ("Be the first to add a critic review for this title!")[^ref-19]. The pack was a budget release sold in blister cards[^ref-3], which Sierra's own magazine said would retail for around $10[^ref-17].
 
 ### Modern Assessment
 
-Modern retrospective assessment has been similarly lukewarm. Critics have noted that "If you've got the technology necessary to read these words on your computer, then you've almost certainly got access to better versions of Nine Men's Morris, Backgammon, Checkers, Yacht and Dominoes"[^ref-1]. The game's value proposition was questionable even at launch and has only diminished over time.
+The only substantial review found is a 2011 guest post by "mecha-neko" on the Super Adventures in Gaming blog, the last entry in that writer's look at the Crazy Nick's line[^ref-1]. It was negative: "These Picks are noticeably worse than King Graham's. There's absolutely no need for the hideous Yacht game to exist, and you'd have to be some kind of hard-core dominomaniac to want to play single player dominoes versus the computer"[^ref-1]. The post closes by saying readers almost certainly have access to better versions of the games across the whole series (Nine Men's Morris, Backgammon, Checkers, Yacht and Dominoes)[^ref-1].
 
-The game remains playable through the ScummVM emulator, which provides compatibility with modern systems[^ref-9][^ref-5]. ScummVM version 2.1 and later supports cloud saves functionality[^ref-5].
-
-**Aggregate Scores:**
-- **MyAbandonware:** 5/5 (10 votes)[^ref-4][^ref-10]
-- **MobyGames:** Collected by 6 players[^ref-2]
-- **CDRomance:** Downloaded 1,316 times[^ref-9]
+**User ratings:**
+- **MyAbandonware:** 5/5 from 1 vote on one entry[^ref-4], and 5/5 from 10 votes on a second entry for the same game[^ref-10]
+- **MobyGames:** No rating; collected by 6 players[^ref-2]
 
 ## Development
 
 ### Origins
 
-In the summer of 1992, Sierra On-Line sought to capitalize on their existing game assets by creating budget-priced compilations that would appeal to casual gamers[^ref-3]. The concept behind Crazy Nick's Software Picks was to combine mini arcade sequences, casino, and board games that were originally included in various adventure and Hoyle games, repackaging them as standalone budget releases[^ref-3].
+In the summer of 1992, Sierra combined mini arcade sequences, casino, and board games originally included in various adventure and Hoyle games, and released them as budget compilations under the Crazy Nick's Software Picks title[^ref-3]. InterAction's Summer 1992 "News Notes" described the first five games as "favorite arcade and strategy sequences extracted from best-selling Sierra games and featuring Sierra characters as opponents", due in stores in May or June[^ref-17]. It summarised this pack as "Take on the celebrated sleuth at Dominoes and Yacht"[^ref-17].
 
-The Laura Bow collection drew specifically from content originally developed for Hoyle Official Book of Games Volume 3[^ref-1]. By featuring recognizable characters from Sierra's adventure game library, the company aimed to cross-promote their flagship series while reaching a broader, more casual audience[^ref-3].
+Parlor Games with Laura Bow drew its games from Hoyle Official Book of Games Volume 3: Great Board Games[^ref-3], and its six music tracks (main menu, Yacht and Dominoes, each in MT-32 and Sound Blaster versions) come from the same game[^ref-20].
 
 ### Production
 
-The development team was led by Director Bill Davis, with production oversight from Tammy Dargan and Tony Caudill[^ref-2]. J. Mark Hood served as Software Supervisor, while Thaddeus M. Pritchard handled Lead Programmer duties[^ref-2]. Quality Assurance was managed by Michael Brosius, with special thanks credited to Randy MacNeill[^ref-2].
+The pack credits seven people[^ref-13][^ref-15]: Director Bill Davis, Producers Tammy Dargan and Tony Caudill, Software Supervisor J. Mark Hood, Lead Programmer Thaddeus M. Pritchard, Quality Assurance by Michael Brosius, and special thanks to Randy MacNeill. The Sierra Chest also credits the original Hoyle parlor game team separately[^ref-15].
 
-The game was built using Sierra's SCI (Sierra's Creative Interpreter) engine, version 1.1[^ref-5]. This was the same engine powering Sierra's major adventure game releases of the period, providing a proven technical foundation for the compilation[^ref-2].
+The game was built on Sierra's SCI engine, listed by PCGamingWiki as SCI1.1[^ref-5].
 
-**Development Credits:**[^ref-2]
+**Development Credits:**[^ref-13][^ref-15]
 - **Director:** Bill Davis
 - **Producer:** Tammy Dargan
 - **Producer:** Tony Caudill
@@ -122,53 +106,45 @@ The game was built using Sierra's SCI (Sierra's Creative Interpreter) engine, ve
 
 ### Technical Achievements
 
-Parlor Games with Laura Bow utilized Sierra's proven SCI1.1 engine, which provided stable performance and familiar interface conventions[^ref-5][^ref-2]. The game featured prerendered dice graphics for the Yacht game, adding visual polish to the dice-rolling mechanics[^ref-1].
-
-One notable visual element—described critically—was a "pulsating, colour-cycling background" that some reviewers found distracting[^ref-1]. The background employed palette cycling techniques common in DOS-era games to create animated effects without additional sprite rendering overhead.
+The Yacht game uses prerendered dice, which the SAiG reviewer said at least distract from the "hideous, pulsating, colour-cycling background"; the background can be switched off in the options[^ref-1].
 
 ### Technical Specifications
 
 **DOS Version:**[^ref-2][^ref-7]
-- **Resolution:** 320x200
-- **Engine:** SCI1.1
+- **Resolution:** 320x200 (screenshots)[^ref-7]
+- **Engine:** SCI1.1[^ref-5]
 - **Interface:** Point and select
 - **Perspective:** Side view, fixed/flip-screen
 - **Pacing:** Turn-based
-- **Media:** 3.5" floppy disk[^ref-3]
-- **File Size:** Approximately 500 KB[^ref-10]
+- **Sound:** VGA graphics and "major sound card support" per Sierra's announcement[^ref-17]; music in MT-32 and Sound Blaster versions[^ref-20]
+- **Media:** Single 3.5" floppy disk in a blister card[^ref-3][^ref-21]
+- **Data files:** RESOURCE.MAP (999 bytes) and RESOURCE.001 (336,698 bytes), per ScummVM's detection entry[^ref-18]
 
 ### Cut Content
 
-No specific cut content has been documented for this title. The game appears to be a direct extraction of games from Hoyle Official Book of Games Volume 3 with the Laura Bow character replacing other opponents[^ref-1].
+No cut content has been documented for this title.
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | June 5, 1992 | IBM PC/DOS | Initial release[^ref-3] |
+| Original | June 5, 1992 | IBM PC/DOS | Initial release, single 3.5" floppy, blister card[^ref-3][^ref-21] |
 
-**SCI Interpreter Version:**[^ref-5]
-
-| Game Version | Interpreter | Type | Notes |
-|--------------|-------------|------|-------|
-| 1.0 | SCI1.1 | SCI | PC release |
+No version number has been documented for this release.
 
 ### Technical Issues
 
-Several issues have been documented with this release:
+No bugs specific to this release have been documented. Limitations noted by the SAiG reviewer:
 
-- **No Save Function:** Players cannot save their progress between sessions, requiring games to be completed in a single sitting[^ref-1]
-- **No Two-Player Mode:** The game only supports single-player competition against the AI[^ref-1]
-- **Scoring Differences:** The Yacht implementation lacks the "Three of a Kind" scoring line and scores Full House at 12 points rather than the traditional 25[^ref-1]
-- **Visual Issues:** The pulsating, color-cycling background was criticized as "hideous" by some reviewers[^ref-1]
-- **Distribution Issues:** Some download sources have reportedly hosted incorrect files, linking to the Robin Hood Crazy Nick's release instead of the Laura Bow version[^ref-10]
+- **Saving:** The reviewer did not think progress could be saved and resumed later[^ref-1]
+- **No Two-Player Mode:** The game only supports single-player competition against Laura[^ref-1]
+- **Background:** The pulsating, colour-cycling background was called "hideous", though it can be disabled[^ref-1]
 
 ### Easter Eggs and Trivia
 
-- **Character Origin:** Laura Bow is the protagonist of Sierra's mystery adventure series, most recently appearing in The Dagger of Amon Ra (1992) prior to this release[^ref-2]
-- **Asset Reuse:** The games are directly derived from Hoyle Official Book of Games Volume 3, with the interface and mechanics being essentially identical[^ref-1]
-- **Budget Release Format:** The game was sold in blister card packaging, typical of budget software releases of the era[^ref-3]
-- **Series Companion:** This title was part of a five-game compilation series released simultaneously in 1992[^ref-9]
+- **Character Origin:** Laura Bow is the protagonist of Sierra's mystery adventure series; MobyGames lists The Dagger of Amon Ra (1992) as the previous Laura Bow entry[^ref-2]
+- **Asset Reuse:** Both games and the music come from Hoyle Official Book of Games Volume 3[^ref-3][^ref-20]
+- **Budget Release Format:** The game was sold in blister card packaging, with UPC 0-20626-81870[^ref-21]
 
 ## Voice Cast
 
@@ -178,49 +154,41 @@ This game does not feature voice acting.
 
 ### Sales and Commercial Impact
 
-As a budget release, Parlor Games with Laura Bow was designed for low-cost retail distribution rather than premium sales[^ref-3]. The blister card packaging and low price point positioned it as an impulse purchase item. Specific sales figures have not been documented, though the game has maintained ongoing interest from retro gaming enthusiasts and abandonware collectors.
-
-The title has been downloaded over 1,316 times from CDRomance alone[^ref-9], indicating continued interest from the retro gaming community despite its modest scope.
+Specific sales figures have not been documented. Sierra's announcement put the expected retail price at around $10[^ref-17].
 
 ### Collections
 
-Parlor Games with Laura Bow was part of the five-title Crazy Nick's Software Picks series released in 1992[^ref-9]. The complete series included:
+Parlor Games with Laura Bow was one of five Crazy Nick's Software Picks titles, all from 1992[^ref-3][^ref-12]:
 
-- King Graham's Board Game Challenge (King's Quest)
-- Parlor Games with Laura Bow (Laura Bow series)
-- Leisure Suit Larry's Casino (Leisure Suit Larry series)
-- Roger Wilco's Spaced Out Game Pack (Space Quest)
-- Robin Hood's Game of Skill and Chance (Conquests series)
+- King Graham's Board Game Challenge
+- Parlor Games with Laura Bow
+- Leisure Suit Larry's Casino
+- Roger Wilco's Spaced Out Game Pack
+- Robin Hood's Games of Skill and Chance
+
+The Sierra Chest also lists the game as included in Hoyle Official Book of Games: Volume 3: Great Board Games[^ref-3].
 
 ### Fan Projects
 
-The game remains playable through ScummVM, which provides full compatibility with modern operating systems[^ref-9][^ref-5]. ScummVM versions 2.1 and later support cloud saves on third-party cloud storage services, adding modern convenience features to the classic title[^ref-5].
+ScummVM's SCI engine includes a detection entry for the game (game ID `cnick-laurabow`)[^ref-18]. The game does not appear on ScummVM's published compatibility list, so its level of support is not documented.
 
-The game has been requested on GOG.com's community wishlist, receiving 17 votes from users interested in an official re-release[^ref-11].
+The game has been requested on GOG.com's Dreamlist, where it had 28 votes as of October 2026[^ref-11].
 
 ### Related Publications
 
-No official hint book or strategy guide was published for this budget title. The games included are based on traditional parlor games with well-established rules requiring no specialized guidance.
-
-### Critical Perspective
-
-Parlor Games with Laura Bow represents an interesting, if ultimately unsuccessful, experiment in Sierra's product strategy. The attempt to leverage recognizable adventure game characters in budget casual titles made commercial sense, but the execution left much to be desired. Critics consistently noted that the included games offered nothing that couldn't be found in better form elsewhere[^ref-1].
-
-The title's primary value today lies in its connection to the Laura Bow mystery series and as a curiosity from Sierra's early 1990s diversification efforts[^ref-2]. The game demonstrates how publishers attempted to maximize returns on character IP before the era of mobile gaming made such casual character-based games commonplace.
-
-As a historical artifact, the game documents the budget software market of the early 1990s and Sierra's willingness to experiment with different product formats[^ref-3]. However, unlike Sierra's adventure games, the Crazy Nick's series has left minimal lasting impact on gaming history.
+No hint book or strategy guide for this title is known. Sierra's InterAction magazine announced the line in the "News Notes" section of its Summer 1992 issue[^ref-17].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not available on GOG or Steam; requested on GOG community wishlist[^ref-11][^ref-12]
+- Not sold digitally; PCGamingWiki lists only the original retail release, and the game is on GOG's Dreamlist rather than its store[^ref-5][^ref-11]
 
 **Download / Preservation**
-- [CDRomance](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) - ScummVM compatible version[^ref-9]
+- [CDRomance](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) - bundle of all five Crazy Nick's packs, prepared for ScummVM[^ref-9]
 - [MyAbandonware](https://www.myabandonware.com/game/crazy-nick-s-software-picks-parlor-games-with-laura-bow-bo1) - DOS version[^ref-4]
 
 **Emulation**
-- ScummVM provides full compatibility for running on modern systems[^ref-9][^ref-5]
+- ScummVM detects the game through its SCI engine[^ref-18]
 
 ## See Also
 
@@ -231,18 +199,21 @@ As a historical artifact, the game documents the budget software market of the e
 
 ## References
 
-[^ref-1]: [Super Adventures in Gaming – Crazy Nick's Software Picks Review](http://superadventuresingaming.blogspot.com/2011/04/crazy-nicks-software-picks-parlor-games.html) – gameplay critique, comparative analysis, technical observations
-[^ref-2]: [MobyGames – Parlor Games with Laura Bow](https://www.mobygames.com/game/95473/crazy-nicks-software-picks-parlor-games-with-laura-bow/) – developer, publisher, credits, gameplay description, technical specs
-[^ref-3]: [The Sierra Chest – Crazy Nick's Software Picks](https://www.sierrachest.com/index.php?a=games&id=717&title=crazy-nick-laura&fld=general) – release date, development history, distribution format
-[^ref-4]: [MyAbandonware – Parlor Games with Laura Bow](https://www.myabandonware.com/game/crazy-nick-s-software-picks-parlor-games-with-laura-bow-bo1) – user ratings, release information
-[^ref-5]: [PCGamingWiki – Parlor Games with Laura Bow](https://www.pcgamingwiki.com/wiki/Parlor_Games_with_Laura_Bow) – engine version, ScummVM compatibility, technical details
-[^ref-7]: [MobyGames – Screenshots](https://www.mobygames.com/game/95473/crazy-nicks-software-picks-parlor-games-with-laura-bow/screenshots/dos/901540/) – resolution specifications
-[^ref-8]: [MobyGames – King Graham's Board Game Challenge](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/) – comparative ratings, series context
-[^ref-9]: [CDRomance – Crazy Nick's Software Picks Series](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) – download statistics, ScummVM compatibility, series information
-[^ref-10]: [MyAbandonware – Alternative Entry](https://www.myabandonware.com/game/crazy-nick-s-software-picks-parlor-games-with-laura-bow-36u) – file size, distribution issues
-[^ref-11]: [GOG.com – Dreamlist Entry](https://www.gog.com/dreamlist/game/crazy-nick-s-software-picks-parlor-games-with-laura-bow) – community wishlist votes
-[^ref-12]: [PCGamingWiki – Crazy Nick's Series](https://www.pcgamingwiki.com/wiki/Series:Crazy_Nick%27s_Software_Picks) – series overview, publisher information
-[^ref-13]: [MobyGames – Crazy Nick's Software Picks - Parlor Games with Laura Bow](https://www.mobygames.com/game/95473/) – game information and details
-[^ref-14]: Adventure Gamers – Crazy Nick's Software Picks - Parlor Games with Laura Bow *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – no relevant content found - the provided source appears to be a general Adventure Gamers website homepage/navigation ...
-[^ref-15]: [Sierra Chest – Crazy Nick's Software Picks - Parlor Games with Laura Bow](https://sierrachest.com/hcl87/gfx/games/ActionPack/box/index.php?a=games&id=718&title=crazy-nick-larry&fld=music) – fan database/archive entry containing basic game metadata and music track information
-[^ref-16]: [GOG.com – Crazy Nick's Software Picks - Parlor Games with Laura Bow](https://www.gog.com/en/games?query=Crazy+Nick%27s+Software+Picks%3A+Parlor+Games+with+Laura+Bow) – GOG.com search results page - contains no specific information about 'Crazy Nick's Software Picks: Parlor Games with ...
+[^ref-1]: [Super Adventures in Gaming – Crazy Nick's Software Picks: Parlor Games with Laura Bow (MS-DOS) - Guest Post](http://superadventuresingaming.blogspot.com/2011/04/crazy-nicks-software-picks-parlor-games.html) – 2011 retrospective guest post by mecha-neko
+[^ref-2]: [MobyGames – Parlor Games with Laura Bow](https://www.mobygames.com/game/95473/crazy-nicks-software-picks-parlor-games-with-laura-bow/) – developer, publisher, description, classification, series order
+[^ref-3]: [The Sierra Chest – Crazy Nick's Software Picks](https://www.sierrachest.com/index.php?a=games&id=717&title=crazy-nick-laura&fld=general) – release date, origin in Hoyle 3, game rules, distribution format
+[^ref-4]: [MyAbandonware – Parlor Games with Laura Bow](https://www.myabandonware.com/game/crazy-nick-s-software-picks-parlor-games-with-laura-bow-bo1) – user rating (1 vote), download
+[^ref-5]: [PCGamingWiki – Parlor Games with Laura Bow](https://www.pcgamingwiki.com/wiki/Parlor_Games_with_Laura_Bow) – engine version (SCI1.1), availability (retail only)
+[^ref-7]: [MobyGames – Screenshots](https://www.mobygames.com/game/95473/crazy-nicks-software-picks-parlor-games-with-laura-bow/screenshots/dos/901540/) – 320x200 screenshot of the difficulty selection screen
+[^ref-9]: [CDRomance – Crazy Nick's Software Picks Series](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) – ScummVM bundle of all five packs
+[^ref-10]: [MyAbandonware – Alternative Entry](https://www.myabandonware.com/game/crazy-nick-s-software-picks-parlor-games-with-laura-bow-36u) – user rating (10 votes)
+[^ref-11]: [GOG.com – Dreamlist Entry](https://www.gog.com/dreamlist/game/crazy-nick-s-software-picks-parlor-games-with-laura-bow) – community wishlist votes (28 as of 2026-10-12)
+[^ref-12]: [PCGamingWiki – Crazy Nick's Series](https://www.pcgamingwiki.com/wiki/Series:Crazy_Nick%27s_Software_Picks) – the five series entries, all 1992
+[^ref-13]: [MobyGames – Parlor Games with Laura Bow credits (DOS)](https://www.mobygames.com/game/95473/crazy-nicks-software-picks-parlor-games-with-laura-bow/credits/dos/) – 7 credited people and roles
+[^ref-15]: [The Sierra Chest – Parlor Games With Laura Bow: Making of](https://www.sierrachest.com/index.php?a=games&id=717&title=crazy-nick-laura&fld=making) – credits (Director, Producers, Software Supervisor, Lead Programmer, QA, Special Thanks)
+[^ref-16]: [The Sierra Chest – Parlor Games With Laura Bow: Reviews](https://www.sierrachest.com/index.php?a=games&id=717&title=crazy-nick-laura&fld=reviews) – "No reviews yet"
+[^ref-17]: [InterAction Magazine, Vol. V No. 2, Summer 1992 (Sierra On-Line), "News Notes"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) – announcement of the Crazy Nick's line, lineup, price, packaging
+[^ref-18]: [ScummVM – engines/sci/detection_tables.h](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/sci/detection_tables.h) – `cnick-laurabow` detection entry and data file sizes
+[^ref-19]: [MobyGames – Parlor Games with Laura Bow reviews](https://www.mobygames.com/game/95473/crazy-nicks-software-picks-parlor-games-with-laura-bow/reviews/) – no critic or player reviews on file
+[^ref-20]: [The Sierra Chest – Parlor Games With Laura Bow: Music](https://www.sierrachest.com/index.php?a=games&id=717&title=crazy-nick-laura&fld=music) – six tracks taken from Hoyle 3
+[^ref-21]: [The Sierra Chest – Parlor Games With Laura Bow: Packaging & content](https://www.sierrachest.com/index.php?a=games&id=717&title=crazy-nick-laura&fld=box) – PC, 3.5" floppy, blister card, UPC
