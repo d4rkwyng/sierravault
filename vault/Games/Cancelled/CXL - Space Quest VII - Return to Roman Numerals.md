@@ -243,5 +243,5 @@ The subsequent failure of SpaceVenture—despite the involvement of the original
 [^ref-14]: [Wikipedia – List of Sierra Entertainment Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – unreleased games listing, "Return to Roman Numerals" subtitle
 [^ref-15]: [Only Solitaire – Space Quest 6 Review](https://onlysolitaire.substack.com/p/game-review-space-quest-6-roger-wilco) – SQ7 production and early 1999 cancellation, Josh Mandel involvement with SQ6
 [^ref-16]: [Wiw.org – Space Quest FAQ](https://www.wiw.org/~jess/SQFAQ20.txt) – Scott Murphy collaboration with Leslie Balfour and Jay Lee
-[^ref-17]: [MyAbandonware – Space Quest Search](https://www.myabandonware.com/search/q/Space+Quest+VII) – series ending at Space Quest 6, no official SQ7 release
+[^ref-17]: MyAbandonware search *(link removed 2026-10-11: abandonware download listing for games still sold on GOG/Steam; claim needs re-sourcing)*
 [^ref-19]: [Nintendo Life Forums](https://www.nintendolife.com/forums/wii/wiiware_ideas1) – fan requests for SQ7 continuation, "true to its roots" sentiment
