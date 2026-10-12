@@ -2,7 +2,7 @@
 title: 'King''s Quest III: To Heir Is Human (Infamous Adventures Remake)'
 release_year: 2006
 developer: Infamous Adventures
-designer: [Klytos (Executive Producer)]
+designer: [Blackthorne (Writer, Executive Producer)]
 publisher: Infamous Adventures
 genre: Adventure
 platforms: [Windows, macOS]
@@ -10,137 +10,152 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Fan Project
-last_updated: '2026-10-09'
-description: 'King''s Quest III: To Heir Is Human is a fan-made VGA remake of Sierra
-  On-Line''s classic 1986 adventure game, developed and published by Infamous Adventures...'
+last_updated: '2026-10-12'
+description: 'King''s Quest III: To Heir Is Human is a free 2006 fan remake of Sierra On-Line''s 1986 adventure, rebuilt by Infamous Adventures in Adventure Game Studio with redrawn graphics, a point-and-click interface, new music and a voice pack.'
 tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III: To Heir Is Human (Infamous Adventures Remake)
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-King's Quest III: To Heir Is Human is a fan-made VGA remake of Sierra On-Line's classic 1986 adventure game, developed and published by [[Infamous Adventures]] in 2006[^ref-1]. The remake faithfully recreates the original story designed by [[Roberta Williams]] while modernizing the experience with full VGA graphics, hand-drawn cutscenes, dialogue portraits, original music, a complete voice pack including narration, and a point-and-click interface replacing the original text parser[^ref-2]. Infamous Adventures, known as "Makers of Sierra Remakes including King's Quest III and Space Quest II," created this project to introduce a new generation of gamers to the classic adventure while providing longtime fans with a fresh experience[^ref-3].
+King's Quest III: To Heir Is Human is a free fan-made remake of Sierra On-Line's 1986 adventure game, developed and published by [[Infamous Adventures]] and released on June 19, 2006[^ref-1][^ref-3]. It retells the original story designed by [[Roberta Williams]] with redrawn backgrounds, hand-drawn close-up cutscenes, dialogue portraits, original music, a voice pack including narration, and a point-and-click interface in place of the original text parser[^ref-2][^ref-3]. Infamous Adventures, which describes itself as "Makers of Sierra Remakes including King's Quest III and Space Quest II," said it made the game to introduce a new generation of players to the classic and to show longtime fans "something new and special"[^ref-11][^ref-3].
 
-The remake preserves the challenging gameplay that made the original notorious—described as "climbing an iceberg while covered in superslick oil hard"—while making it more accessible through modern interface conventions[^ref-2]. Players assume the role of Gwydion, a seventeen-year-old slave who must escape from the tyrannical wizard Manannan and discover his true identity[^ref-4]. The game is available as a free download on itch.io with a "name your own price" model, demonstrating the passionate fan community that continues to preserve and enhance Sierra's adventure gaming legacy[^ref-4].[^ref-12][^ref-13][^ref-14][^ref-12][^ref-13][^ref-14]
+Hardcore Gaming 101 called it "a pretty faithful recreation of the original game"[^ref-19]. Players take the role of Gwydion, the 17-year-old slave of the wizard Manannan, who must escape his master and discover his true identity[^ref-22]. The game won the AGS Award for Best Documentation in 2006[^ref-17], and it is currently offered on itch.io for Windows and macOS on a "name your own price" basis[^ref-4].
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Adventures]][^ref-1]
-> **Designer:** Klytos (Executive Producer)[^ref-2]
+> **Designer:** Blackthorne (writer, executive producer)[^ref-17]
 > **Publisher:** Infamous Adventures[^ref-1]
-> **Engine:** Adventure Game Studio (AGS)[^ref-5]
-> **Platforms:** Windows, macOS[^ref-4]
-> **Release Year:** 2006[^ref-1]
+> **Engine:** Adventure Game Studio (AGS)[^ref-17]
+> **Platforms:** Windows (2006); Windows and macOS on itch.io[^ref-17][^ref-4]
+> **Release Year:** 2006[^ref-3]
 > **Series:** King's Quest
 > **Protagonist:** Gwydion (Prince Alexander)
-> **Sierra Lineage:** Fan Remake
+> **Sierra Lineage:** Fan Project
 
 ## Story Summary
 
-The game follows Gwydion, a young man who has spent his entire life as a slave to the cruel wizard Manannan in the land of Llewdor[^ref-4]. For seventeen years, Gwydion has served his master, performing menial tasks and enduring the wizard's tyrannical rule while remaining ignorant of his true origins[^ref-6]. Manannan keeps his young servant under constant surveillance, returning home periodically to ensure Gwydion hasn't discovered the secrets hidden within the wizard's mountain home.
+The game follows Gwydion, a young man held as a slave by the cruel wizard Manannan in the land of Llewdor[^ref-22]. Manannan kidnaps his slaves when they are young and kills them when they reach 18, and Gwydion's eighteenth birthday is fast approaching[^ref-22][^ref-21]. While his master sleeps or travels, Gwydion explores the forbidden parts of the house and the countryside of Llewdor[^ref-22].
 
-Players must help Gwydion discover the wizard's secret spells and use Manannan's own magic against him to break free from servitude[^ref-6]. The original game featured an innovative in-depth spell casting system where players must gather precise ingredients and perform exact procedures—one small typo while attempting to cast a spell could send Gwydion to his untimely demise[^ref-2]. The remake preserves these mechanics while streamlining the interface to prevent frustrating deaths from typing errors.
+Players must help Gwydion discover the wizard's secret spells and use Manannan's own magic against him to break free[^ref-22]. In the original, one small typo while casting a spell could send Gwydion to his untimely demise[^ref-2]. The remake removes that hazard: spells are prepared and cast automatically once the player has gathered all the ingredients[^ref-21].
 
-Upon escaping Manannan's clutches, Gwydion embarks upon a dangerous voyage to another land where he must scale snowy peaks and brave a terrible monster to free a kingdom from its ravages[^ref-6]. Throughout this journey, Gwydion discovers his true identity as Prince Alexander, the long-lost son of King Graham and Queen Valanice of Daventry, who was kidnapped as an infant by the wizard. The story culminates in an emotional reunion with his family and the salvation of his homeland from the three-headed dragon that has terrorized the kingdom.
+Once Manannan is defeated, Gwydion leaves Llewdor by ship, escapes the pirates who crew it, and crosses into Daventry[^ref-22]. An oracle has told him that he is really Prince Alexander of Daventry, kidnapped as a child, and that his sister Rosella is about to be sacrificed to a three-headed dragon[^ref-22]. The remake follows the original plot closely, adding a new prologue that shows one interpretation of how Gwydion was kidnapped and a scene between Manannan and his brother Mordack[^ref-21][^ref-19]. It also adds a special ending for players who finish with full points[^ref-18].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The Infamous Adventures remake replaces the original text parser interface with a modern point-and-click system[^ref-2]. This dramatic change eliminates one of the most frustrating aspects of the 1986 version—the requirement to type exact commands with proper spelling, where even the smallest typo during spell casting could result in instant death[^ref-2]. Players navigate Gwydion through pre-rendered backgrounds using mouse controls, interacting with objects and characters through a verb-icon interface typical of later Sierra adventures.
+The remake replaces the original text parser with a point-and-click, icon-based interface[^ref-2][^ref-19]. The player no longer has to type exact commands, so a single typo during spell casting can no longer kill Gwydion[^ref-2]. Old-Games.com's reviewer felt the change "really dumbs down what was originally a fantastically intelligent game," though without interactive hotspot highlighting it still keeps some difficulty for newcomers[^ref-2].
 
 ### Structure and Progression
 
-The game follows a structured progression divided between three main areas:
+The game follows the original's progression[^ref-22]:
 
-- **Manannan's House:** The opening section where Gwydion must gather spell ingredients while avoiding detection by the wizard, who returns home at regular intervals
-- **Llewdor:** The surrounding countryside of the wizard's mountain home, where additional ingredients and crucial items can be found
-- **The Journey:** Following escape from Manannan, players navigate a sea voyage and the land of Daventry to reach the game's conclusion
+- **Manannan's House:** Gwydion carries out the wizard's chores and searches for spell ingredients without being caught. Being found with magical items gets him killed.
+- **Llewdor:** The countryside around the wizard's mountain home, where more ingredients and items can be found. The remake adds new locations that form natural boundaries to the north and south of Llewdor[^ref-21][^ref-19].
+- **The Journey:** After defeating Manannan, Gwydion sails on a pirate ship and makes his way through Daventry to the dragon's lair. In the remake, Daventry is reimagined with new geography and layout[^ref-21].
 
-The original game introduced the magic map concept, allowing quicker travel between previously visited screens—a gameplay innovation that was original in 1986 but became standard in later adventure games[^ref-2].
+The 1986 original introduced the magic map, which allows quicker travel between previously visited screens[^ref-2][^ref-3]. Version 2.0 of the remake restored the magic map on board the pirate ship after fans pointed out it was missing[^ref-18].
 
 ### Puzzles and Mechanics
 
-The game features timed puzzles requiring players to manage Manannan's schedule carefully, as the wizard periodically returns to check on his servant[^ref-2]. If caught with forbidden items or spell ingredients, Gwydion faces immediate death. The spell casting system requires gathering specific ingredients from across Llewdor and combining them in precise ways according to recipes found in Manannan's spell book.
+The remake keeps the timed sequences of the original design, in which Manannan periodically returns to check on his servant[^ref-2]. The reviewer at Old-Games.com noted that players can finish everything available and then have to wait for the next timed trigger event[^ref-2].
 
-The remake maintains the notorious difficulty of the original, where one slip of the finger while navigating treacherous cliffs could send Gwydion plummeting to his death[^ref-2]. However, the point-and-click interface removes deaths caused by parser frustration, allowing players to focus on the actual puzzle-solving challenges.
+Navigation hazards remain, but they are softened. Once the player has made it down the evil cliff path from Manannan's house, IA made it impossible to fall off it again[^ref-2]. The same reviewer still found the mountain stairs punishing, reporting that he "died about 20 times in 15 minutes" there[^ref-2].
 
 ## Reception
 
 ### Contemporary Reviews
 
-The Infamous Adventures remake received positive attention from the adventure gaming community upon its 2006 release. The project was praised for its faithful recreation of the classic Sierra experience while making meaningful quality-of-life improvements[^ref-2]. User reviews on the itch.io platform have been overwhelmingly positive, with the game earning a 4.9 out of 5 rating[^ref-4].
+The release drew heavy interest. Infamous Adventures reported more than 5,000 downloads within a day of the June 19, 2006 release, and traffic overwhelmed its download mirrors[^ref-3].
 
-One reviewer described the game simply as "Amazing remake!" while others praised the team's dedication to preserving the spirit of the original[^ref-4]. The executive producer Klytos explained the team's motivation: "We just love this game and felt that even twenty years later the story was relevant and, more importantly, still fun. We wanted to introduce a new generation of gamers to this classic and show older players who remember the original something new and special"[^ref-2].
+Old-Games.com's review called it "a very faithful adaptation of the original game" that "sticks wholeheartedly to the original script." It criticised the short length and the simplified interface, and praised the redone music as "a definite upgrade, and very well done"[^ref-2]. The reviewer found the voice acting "a bit amateurish at times" but "really pretty good" overall[^ref-2]. He concluded that the remake "doesn't quite hit the same level" as AGD Interactive's King's Quest I and II remakes, "but it's still very, very good. Definitely worth a download"[^ref-2].
+
+Executive producer Klytos explained the team's motivation in the release announcement: "We just love this game and felt that even twenty years later the story was relevant and, more importantly, still fun. We wanted to introduce a new generation of gamers to this classic and show older players who remember the original something new and special"[^ref-3][^ref-2].
 
 ### Modern Assessment
 
-The remake continues to be available and played decades after its release, demonstrating its lasting appeal to fans of classic adventure gaming. Modern players accessing the game through itch.io have noted that while it is "an older program" with "some quirks running on Windows 10," the experience remains worthwhile[^ref-4].
+Hardcore Gaming 101 compared it with AGD Interactive's 2011 remake. HG101 judged the AGDI version "the better of the two, besting the Infamous version in practically every category." It added that "both are fairly decent, and are more enjoyable ways to experience King's Quest III than playing through the AGI original"[^ref-19].
+
+On itch.io, the game's comment thread includes short user reactions such as "Amazing remake!"[^ref-4].
 
 **Aggregate Scores:**
-- **itch.io:** 4.9/5 (user ratings)[^ref-4]
+- **AGS database:** 3 cups (AGS panel rating); 4 cups (player rating)[^ref-17]
+- **itch.io:** 4.9/5 from 8 user ratings[^ref-4]
 
-### Community Recognition
+### Awards
 
-It's worth noting that AGD Interactive released a separate remake called "King's Quest III Redux: To Heir Is Human" in 2011, which received significant recognition including multiple AGS Awards for Best Background Art, Best Character Art, Best Game Created with AGS for 2011, Best Gameplay, Best Music, Best Programming, and Best Voice Work[^ref-5]. This later remake achieved a 4/5 cups rating on the Adventure Game Studio community database[^ref-5] and a 3.91/5 stars rating from 27 users on GameFAQs[^ref-6].
+At the AGS Awards 2006, the game won **Best Documentation**. It was also nominated for **Best Background Art** and **Best Use of Sound**[^ref-17][^ref-21].
 
 ## Development
 
 ### Origins
 
-Infamous Adventures developed the King's Quest III remake as part of their mission to preserve and update classic Sierra adventure games for modern audiences[^ref-3]. The team was driven by a genuine love for the source material and a desire to share these experiences with players who might never encounter the original versions[^ref-2]. The 2006 project predates AGD Interactive's own King's Quest III Redux by approximately five years, making it one of the earlier comprehensive remakes of the title.
+Infamous Adventures was co-founded by Shawn Mills and Steve Alexander. They originally set out to make *Quest for Infamy*, a villain's take on Quest for Glory. Before working on that game, they decided to hone their game-crafting skills by remaking King's Quest III[^ref-20]. Mills worked on the project under the name "Klytos"[^ref-18].
+
+The release announcement said that classic games like King's Quest III "no longer run on the modern computer." It said this was why Infamous Adventures decided to remake the game, "bringing it up to the quality of Kings Quest 5 & 6"[^ref-3].
 
 ### Production
 
-The development team utilized Adventure Game Studio (AGS), a popular engine for creating adventure games that has powered numerous fan projects and independent releases[^ref-5]. The team created full VGA backgrounds from scratch, enhanced hand-drawn close-up cutscenes, dialogue portraits for all characters, an original musical score, and a complete speech pack featuring full voice acting including narration[^ref-2].
+The team built the game in Adventure Game Studio (AGS)[^ref-17]. According to the release announcement, it created new VGA-style backgrounds, enhanced hand-drawn close-up cutscenes, dialogue portraits for all characters, an original score by the team's composer, and a full speech pack with narration[^ref-3].
 
-**Development Credits:**[^ref-2]
-- **Executive Producer:** Klytos
+**Development Credits** (per the AGS database)[^ref-17]:
+- **Blackthorne:** Executive Producer, Writer, Art Department
+- **Klytos:** Programming, Executive Producer
+- **Kurdt:** Plot Development, Voice Acting Producer
+- **Broomie, Sinister, Little Blue Smurf:** Art Department/Animation
+- **Meerbat:** Dialogue Pictures/Animation
+- **Fizzii:** Background Art/Sprite Creation
+
+Former Sierra employee Andy Hoyos voiced Manannan[^ref-18].
 
 ### Technical Achievements
 
-The remake transformed the original's 16-color EGA graphics into full 256-color VGA artwork, creating detailed backgrounds that honored the spirit of the original while dramatically improving visual fidelity[^ref-2]. The addition of dialogue portraits—character artwork displayed during conversations—added personality to interactions that were purely text-based in the 1986 version.
+The original's 16-colour graphics were redrawn using a 16-bit colour scheme, to match the look of later games in the official series[^ref-21][^ref-17]. The remake also adds dialogue portraits for all the characters[^ref-3].
 
-The complete voice pack represents a significant achievement for a fan project, providing professional-quality voice acting throughout the game including full narration[^ref-2]. This mirrors the approach Sierra took with their later CD-ROM releases and creates a more immersive experience than the silent original.
+The voice pack includes a narrator[^ref-2][^ref-3]. Old-Games.com noted that it voices "every written word," down to the simple "no" given for impossible actions, which adds to its file size[^ref-2].
 
 ### Technical Specifications
 
-**VGA Remake:**[^ref-2]
-- **Resolution:** VGA (enhanced from original EGA)
-- **Audio:** Full voice acting and original music
-- **File Size:** Approximately 126 MB[^ref-2]
+**VGA Remake:**[^ref-17]
+- **Resolution:** 320x200, 16-bit colour
+- **Audio:** Voice pack and original music[^ref-2]
+- **File Size:** 126 MB (Old-Games.com download); 125 MB Windows and 130 MB macOS on itch.io[^ref-2][^ref-4]
 - **Engine:** Adventure Game Studio
 
 ### Technical Issues
 
-Users have reported several compatibility issues when running the game on modern systems[^ref-4]:
-- Black screen appearing after opening text on some systems
-- Fullscreen flickering issues
-- General compatibility problems with Windows 10
+One itch.io user reported problems with the current release on a modern Windows system[^ref-4]:
+- A black screen after the opening text screens
+- Fullscreen mode flickering between a blank window and the desktop
 
-The developers acknowledge these limitations, noting that "it IS an older program, so it might have some quirks running on Windows 10"[^ref-4].
+In reply, the Infamous Quests account said that "it IS an older program, so it might have some quirks running on Windows 10"[^ref-4].
 
 ### Version History
 
-PCGamingWiki lists it as one of two complete, free remakes of King's Quest III, alongside AGD Interactive's Redux.[^ref-16]
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| 1.0 | June 19, 2006 | Windows | Original release[^ref-3]. The AGS database lists June 25, 2006[^ref-17]. |
+| 2.0 + Voice Pack | August 20, 2006 | Windows | A full rebuild instead of a patch. It fixed "well over 200" minor errors and restored the magic map. It also added a delete button for saved games, the special full-points ending and the voice pack[^ref-18]. |
+| itch.io re-release | Undated | Windows, macOS | Distributed as a "name your own price" download with Windows and macOS builds[^ref-4] |
 
 ## Legacy
 
-King's Quest III Remake established Infamous Adventures as one of the major Sierra-fan-remake studios alongside [[AGD Interactive]]. The team's faithful approach to recreating the original SCI-engine experience with VGA graphics and voice acting paved the way for their subsequent [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] (2008) and [[2011 - Space Quest II VGA Remake|Space Quest II VGA Remake]] (2011). The competing AGD Interactive [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux]] (2011) provides an interesting alternate take on the same source material; the two remakes coexist in the fan community as complementary visions rather than rivals.[^ref-1][^ref-2]
+King's Quest III was the first of the two Sierra remakes Infamous Adventures completed. The second was [[2011 - Space Quest II VGA Remake|Space Quest II VGA Remake]][^ref-1][^ref-11]. In 2011, [[AGD Interactive]] released its own remake, [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux]][^ref-5][^ref-6][^ref-8][^ref-9]. Redux is a reboot of the 1986 game[^ref-10]. Like IA's earlier remake, it features completely redrawn background artwork, a modern icon-based point-and-click interface, and voice acting throughout[^ref-8].
 
-The remake remains a recommended entry point for players wanting to experience King's Quest III without the original 1986 game's notoriously punishing puzzle design and parser-based interface.[^ref-3]
+HG101 notes that the two remakes share an interface, VGA-style graphics and full voice acting. Their assets are completely different, and IA's version stays much closer to the original storyline[^ref-19]. PCGamingWiki lists both as the two complete, free remakes of King's Quest III[^ref-16]. A copy of the 2006 fan release is preserved at the Internet Archive[^ref-7].
 
 ## Downloads
 
-**Purchase / Digital Stores**
-- [GOG.com search](https://www.gog.com/en/games?query=King%27s+Quest+III+Remake+%28Infamous+Adventures%29)
-- [Steam search](https://store.steampowered.com/search/?term=King%27s+Quest+III+Remake+%28Infamous+Adventures%29)
+**Official / Free**
+- [Infamous Adventures on itch.io](https://infamousadventures.itch.io/kings-quest-iii-vga-remake) (free fan remake, "name your own price")
+- [Adventure Game Studio database entry](https://www.adventuregamestudio.co.uk/play/game/734/)
 
-**Download / Preservation**
+**Preservation**
 - [MobyGames search](https://www.mobygames.com/search/?q=King%27s+Quest+III+Remake+%28Infamous+Adventures%29)
-- [Internet Archive search](https://archive.org/search?query=King%27s+Quest+III+Remake+%28Infamous+Adventures%29)
-- [MyAbandonware search](https://www.myabandonware.com/search/q/King%27s+Quest+III+Remake+%28Infamous+Adventures%29)
+- [Internet Archive – King's Quest III [fan remake]](https://archive.org/details/kings-quest-iii-fan-remake)
 
 ## See Also
 
@@ -160,18 +175,21 @@ The remake remains a recommended entry point for players wanting to experience K
 
 ## References
 
-[^ref-1]: [MobyGames – Infamous Adventures Company Profile](https://www.mobygames.com/company/8321/infamous-adventures/) – developer information, game list, platform details
-[^ref-2]: [Old-Games.com – King's Quest III Download Page](https://www.old-games.com/download/9808/king-s-quest-iii-to-heir-is-human) – remake features, developer quote, difficulty description, technical specifications
-[^ref-3]: [Wayback Machine – Infamous Adventures Website Archive](https://web.archive.org/web/2023/https://www.infamous-adventures.com/) – company description, game portfolio
-[^ref-4]: [Infamous Adventures itch.io – King's Quest III VGA Remake](https://infamousadventures.itch.io/kings-quest-iii-vga-remake) – distribution platform, user ratings, technical issues, pricing model
-[^ref-5]: [Adventure Game Studio – King's Quest III Redux Database Entry](https://www.adventuregamestudio.co.uk/play/game/1413-king-s-quest-iii-redux-to-heir-is-human/) – engine information, AGS Awards, community ratings, user reviews
-[^ref-6]: [GameFAQs – King's Quest III Redux](https://gamefaqs.gamespot.com/pc/620222-kings-quest-iii-redux) – release date, developer/publisher, user ratings, game description
-[^ref-7]: [Internet Archive – King's Quest III Fan Remake](https://archive.org/details/kings-quest-iii-fan-remake) – preservation copy, developer attribution
-[^ref-8]: [MobyGames – King's Quest III Redux: To Heir Is Human](https://www.mobygames.com/game/50631/kings-quest-iii-redux-to-heir-is-human/) – AGD Interactive version release date, platform information
-[^ref-9]: [Metacritic – King's Quest III Redux](https://www.metacritic.com/game/kings-quest-iii-redux/) – AGD Interactive version metadata
-[^ref-10]: [Neoseeker – King's Quest III Redux Review](https://www.neoseeker.com/Articles/Games/Reviews/kingsquest3_redux/) – gameplay improvements reference
-[^ref-11]: [Infamous Adventures itch.io Profile](https://infamousadventures.itch.io/) – company description, available games
-[^ref-12]: [Giant Bomb](https://www.giantbomb.com/kings-quest-iii-to-heir-is-human/3030-16093/) – game database with wiki info
-[^ref-13]: [IGDB](https://www.igdb.com/games/kings-quest-iii-to-heir-is-human) – Internet Game Database entry
-[^ref-14]: [King's Quest Omnipedia](https://kingsquest.fandom.com/wiki/King%27s_Quest_III:_To_Heir_is_Human) – wiki documentation
+[^ref-1]: [MobyGames – Infamous Adventures Company Profile](https://www.mobygames.com/company/8321/infamous-adventures/) – "made two remakes of classic Sierra adventures: Space Quest II and King's Quest III: To Heir is Human (2006)"
+[^ref-2]: [Old-Games.com – King's Quest III Download Page](https://www.old-games.com/download/9808/king-s-quest-iii-to-heir-is-human) – remake download (126 MB), release text, full review (faithfulness, cliff path, voice acting, verdict)
+[^ref-3]: [Wayback Machine – Infamous Adventures Website, July 2006](https://web.archive.org/web/20060705031105/http://www.infamous-adventures.com/) – June 18–19, 2006 release announcement, Klytos quote, feature list, "over 5000 downloads" by June 20
+[^ref-4]: [Infamous Adventures itch.io – King's Quest III VGA Remake](https://infamousadventures.itch.io/kings-quest-iii-vga-remake) – Windows/macOS builds, "name your own price", 4.9/5 from 8 ratings, user comments and developer reply
+[^ref-5]: [Adventure Game Studio – King's Quest III Redux Database Entry](https://www.adventuregamestudio.co.uk/play/game/1413-king-s-quest-iii-redux-to-heir-is-human/) – AGD Interactive's separate 2011 remake (AGS Awards 2011 nominee)
+[^ref-6]: [GameFAQs – King's Quest III Redux](https://gamefaqs.gamespot.com/pc/620222-kings-quest-iii-redux) – AGD Interactive's Redux, released February 24, 2011
+[^ref-7]: [Internet Archive – King's Quest III Fan Remake](https://archive.org/details/kings-quest-iii-fan-remake) – preservation copy, creator Infamous Adventures, links AGS game 734
+[^ref-8]: [MobyGames – King's Quest III Redux: To Heir Is Human](https://www.mobygames.com/game/50631/kings-quest-iii-redux-to-heir-is-human/) – AGD Interactive version (2011); "As with Infamous Adventures' previous King's Quest III remake..."
+[^ref-9]: [Metacritic – King's Quest III Redux](https://www.metacritic.com/game/kings-quest-iii-redux/) – AGD Interactive version metadata (released Feb 24, 2011)
+[^ref-10]: [Neoseeker – King's Quest III Redux Review](https://www.neoseeker.com/Articles/Games/Reviews/kingsquest3_redux/) – Redux described as "a reboot of the 1986 King's Quest" by AGD Interactive
+[^ref-11]: [Infamous Adventures itch.io Profile](https://infamousadventures.itch.io/) – "Makers of Sierra Remakes including King's Quest III and Space Quest II"
 [^ref-16]: [PCGamingWiki – King's Quest III: To Heir Is Human](https://www.pcgamingwiki.com/wiki/King%27s_Quest_III:_To_Heir_Is_Human) – "There are two complete and free remakes of the game available" (AGD Interactive's Redux and Infamous Adventures')
+[^ref-17]: [Adventure Game Studio – King's Quest III (Infamous Adventures), game 734](https://www.adventuregamestudio.co.uk/play/game/734/) – AGS Awards 2006 winner Best Documentation; nominee Best Background Art, Best Use of Sound; credits; 320x200, 16-bit colour; ratings
+[^ref-18]: [Wayback Machine – Infamous Adventures Website, September 2006](https://web.archive.org/web/20060902220604/http://www.infamous-adventures.com/) – "King's Quest III 2.0 + Voice Pack" (August 20, 2006), fix list, Andy Hoyos as Manannan, Shawn "Klytos" Mills
+[^ref-19]: [Hardcore Gaming 101 – King's Quest III: To Heir is Human](http://www.hardcoregaming101.net/kings-quest-iii-to-heir-is-human/) – "a pretty faithful recreation of the original game"; comparison with AGDI's 2011 remake
+[^ref-20]: [Adventure Classic Gaming – Steps to success in creating your own adventure game](http://www.adventureclassicgaming.com/index.php/site/features/220/) – Cris Skelton, August 5, 2006; Shawn Mills on founding IA and remaking KQ3 to hone skills
+[^ref-21]: [Wikipedia – King's Quest III (2006 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_III_(2006_video_game)) – remake features (16-bit colour, automatic spell casting, new locations, new prologue), AGS award for best documentation
+[^ref-22]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – original game's plot: Gwydion "the 17-year-old slave of the wizard Manannan", Manannan's rules, pirates, three-headed dragon
