@@ -236,7 +236,6 @@ The observation that the game's ending anticipated David Fincher's *The Game* (1
 - [Internet Archive – CD Version](https://archive.org/details/fascination-cd) (921 MB)[^ref-13]
 - [Internet Archive – DOS Version](https://archive.org/details/msdos_Fascination_1991)[^ref-31]
 - [MyAbandonware](https://www.myabandonware.com/game/fascination-15h)[^ref-18]
-- [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Fascination&gid=1317)[^ref-25]
 
 **Technical Support**
 - [ScummVM Wiki – Fascination](https://wiki.scummvm.org/index.php?title=Fascination)[^ref-10]
@@ -264,7 +263,7 @@ The observation that the game's ending anticipated David Fincher's *The Game* (1
 ## References
 
 [^ref-1]: [Wikipedia – Fascination (video game)](https://en.wikipedia.org/wiki/Fascination_(video_game)) – development history, plot, critical analysis, ending comparison to The Game
-[^ref-2]: [Hardcore Gaming 101 – Fascination](http://www.hardcoregaming101.net/fascination/) – gameplay description, critical assessment, version differences
+[^ref-2]: Hardcore Gaming 101 – Fascination (link removed: page shows an uncensored nude screenshot) – gameplay description, critical assessment, version differences
 [^ref-3]: [Abandonware France – Fascination](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=83) – release date, technical specifications, save system
 [^ref-4]: [MobyGames – Muriel Tramis Biography](https://www.mobygames.com/person/10719/muriel-tramis/) – designer biography, design philosophy
 [^ref-5]: [The Adventurers' Guild – Fascination Final Rating](https://advgamer.blogspot.com/2017/06/fascination-final-rating.html) – review score, puzzle design analysis, Leisure Suit Larry comparison
@@ -286,7 +285,7 @@ The observation that the game's ending anticipated David Fincher's *The Game* (1
 [^ref-22]: [Atari Legend – Fascination Game Page](https://www.atarilegend.com/games/fascination) – nostalgic assessment, initial reaction
 [^ref-23]: [Atari Legend – Fascination Review](https://www.atarilegend.com/reviews/134) – detailed scores, composer information, graphics analysis
 [^ref-24]: [MobyGames – Fascination](https://www.mobygames.com/game/9399/fascination/) – credits, technical notes, voice cast, reviewer quotes
-[^ref-25]: [Abandonware DOS – Fascination](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Fascination&gid=1317) – user rating, platform information
+[^ref-25]: Abandonware DOS – Fascination (link removed: page shows unblurred adult screenshots) – user rating, platform information
 [^ref-27]: [Elmobo Bandcamp – Early Years: Coktel Vision](https://elmobo.bandcamp.com/album/early-years-coktel-vision) – composer retrospective
 [^ref-28]: [PCGamingWiki – Fascination](https://www.pcgamingwiki.com/wiki/Fascination) – technical specifications, system requirements
 [^ref-29]: [PC Gamer – Saturday Crapshoot: Fascination](https://www.pcgamer.com/saturday-crapshoot-fascination/) – version differences, CD censorship
