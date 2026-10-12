@@ -10,14 +10,14 @@ series: Conquests
 engine: SCI1
 protagonist: Robin Hood
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-12'
 description: '*Conquests of the Longbow: The Legend of Robin Hood* is a graphic adventure
   game developed and published by Sierra On-Line in 1991, representing the second...'
 tags: [1990s, adventure, conquests, sci, sierra]
 ---
 # Conquests of the Longbow: The Legend of Robin Hood
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
@@ -25,14 +25,14 @@ tags: [1990s, adventure, conquests, sci, sierra]
 
 The game represents "Sierra's richest, most complex game yet" according to contemporary marketing materials, featuring a design philosophy that dramatically differs from most other adventure games of the era.[^ref-3] Unlike typical Sierra adventures where losing paths are rare, *Conquests of the Longbow* embraces multiple winning and losing paths, with "the possibilities for tragedy, callousness and folly" being "integral to the interactive story told by the game."[^ref-4] Depending on player choices throughout the adventure, the game offers four possible endings, "ranging from Robin getting hanged to a happy conclusion of his love life."[^ref-5]
 
-Despite being released during Sierra's golden age of adventure gaming, the title remains "one of their lesser known games," often overshadowed by flagship series like *King's Quest* and *Space Quest*.[^ref-6] However, retrospective critics have frequently praised it as "probably Sierra's most underrated title" and "a true classic that deserves to be in every adventurer's collection."[^ref-7][^ref-8]
+Despite being released during Sierra's golden age of adventure gaming, the title remains "one of their lesser known games," often overshadowed by flagship series like *King's Quest* and *Space Quest*.[^ref-6] Adventure Gamers' 2009 retrospective called it "a true classic that deserves to be in every adventurer's collection,"[^ref-8] and one Glitchwave user comment calls it "Probably Sierra's most underrated title."[^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** [[Christy Marx]][^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI1 (Sierra's Creative Interpreter)[^ref-9]
-> **Platforms:** MS-DOS, Amiga, Classic Mac OS[^ref-1]
+> **Platforms:** MS-DOS, Amiga, Classic Mac OS[^ref-1][^ref-30]
 > **Release Year:** 1991 (DOS), 1992 (Amiga, Mac)
 > **Series:** Conquests
 > **Protagonist:** Robin Hood
@@ -42,7 +42,7 @@ Despite being released during Sierra's golden age of adventure gaming, the title
 
 The year is 1193, and the Third Crusade has just ended. Richard the Lionheart, King of England, is returning to Europe from the Holy Land when he is captured by Austrian Duke Leopold and held for an enormous ransom.[^ref-5] In England, Prince John plots to seize the throne by preventing the ransom from being paid, leaving the country in turmoil. The player assumes the role of the legendary Robin Hood, living as an outlaw in Sherwood Forest, who must work to restore King Richard I to the throne of England.[^ref-10]
 
-Robin Hood's quest involves far more than simply robbing the rich to give to the poor. He must raise money for the king's ransom while protecting Maid Marian from the machinations of the Sheriff of Nottingham, fooling the Sheriff at every turn, and even contacting forest spirits for aid.[^ref-11] The game presents Robin as a "medieval fantasy but with a hefty dollop of realism," grounding the legendary figure in historical context while maintaining the swashbuckling adventure audiences expect.[^ref-12]
+Robin Hood's quest involves far more than simply robbing the rich to give to the poor. He must raise money for the king's ransom while protecting Maid Marian from the machinations of the Sheriff of Nottingham, fooling the Sheriff at every turn, and even contacting forest spirits for aid.[^ref-11]
 
 The narrative unfolds with Robin solving everyday problems while working toward his greater goals. As one reviewer noted, players will spend "plenty of time figuring out which villager needs rescuing today and which monk is about to betray you."[^ref-2] The romance between Robin and Marian serves as a central motivation throughout the adventure, with one modern commentator observing that Robin's "only motivation to do anything is to find a way to sleep with Maid Marian."[^ref-9] The theme of the game is described as simple—"love and honor may conquer all"—but "en route, the twists and turns make this conquest all the more poignant."[^ref-4]
 
@@ -80,7 +80,7 @@ The copy protection was innovatively integrated into gameplay rather than using 
 
 ### Contemporary Reviews
 
-*Conquests of the Longbow* received strong reviews upon release, particularly for the DOS version. French gaming magazine *Génération 4* awarded the PC version 93% in December 1991.[^ref-16] *Joystick* gave it 92% the same month, praising its diverse gameplay elements.[^ref-16] *ACE: Advanced Computer Entertainment* awarded a score of 985 in February 1992, with reviewer Gary Whitta impressed by the game's scope.[^ref-16]
+*Conquests of the Longbow* received strong reviews upon release, particularly for the DOS version. French gaming magazine *Génération 4* awarded the PC version 93% in December 1991.[^ref-16] *Joystick* gave it 92% the same month.[^ref-16] *ACE: Advanced Computer Entertainment* awarded a score of 985 in February 1992 (reviewer Gary Whitta).[^ref-16]
 
 *Dragon* magazine gave the game a perfect 5 out of 5 stars, with reviewers Hartley Lesser, Patricia Lesser, and Kirk Lesser praising its quality.[^ref-1] *White Wolf* magazine's Jim Trunzo wrote in the May/June 1992 issue: "Most impressive is the game's diversity. Combat, puzzles, and arcade sequences (set to whatever degree of difficulty you like) all add to the overall feel of the product."[^ref-1]
 
@@ -93,64 +93,66 @@ The Amiga version received notably lower scores due to technical issues with the
 Retrospective reviews have been overwhelmingly positive. Adventure Gamers awarded the game 4.5 out of 5 stars in a January 2, 2009 review by Andrea Morstabilini, who wrote: "Too often forgotten in the midst of more famous Sierra series, with its captivating plot and appealing characters, this game is a true classic that deserves to be in every adventurer's collection."[^ref-8] The review praised Christy Marx's writing as "top-notch" and called Robin "one of the most appealing characters to ever appear in an adventure game."[^ref-8]
 
 **Aggregate Scores:**
-- **MobyGames Critics Average:** 82% (based on 19 ratings)[^ref-12]
-- **GOG.com User Reviews:** 4.6/5 (42 reviews)[^ref-3]
+- **MobyGames Critics Average:** 82% (based on 20 ratings)[^ref-12]
+- **GOG.com User Reviews:** 4.6/5 (47 reviews)[^ref-3]
 - **IMDB:** 7.9/10 (40 votes)[^ref-11]
 - **MyAbandonware:** 4.57/5 (92 votes)[^ref-6]
 - **Abandonware DOS:** 4.10/5 (72 votes)[^ref-2]
-- **Glitchwave:** 4.05/5[^ref-7]
+- **Glitchwave:** 3.82/5 (17 ratings)[^ref-7]
 - **OldGames.sk:** 72%[^ref-10]
 - **Lemon Amiga:** 6/10 (Amiga version)[^ref-18]
 
 **Awards:**
-- Computer Gaming World named it one of the year's top four adventure games in 1992[^ref-1]
+- *Computer Gaming World* (issue #100, November 1992) nominated it for Adventure Game of the Year, one of four nominees, for "its attention to historical detail (including the music) and number of puzzles"; the award went to *LeChuck's Revenge: Monkey Island 2*[^ref-30][^ref-1]
 - Adventure Gamers named *Conquests of the Longbow* the 42nd-best adventure game ever released in their 2011 retrospective list[^ref-1]
 
 ## Development
 
 ### Origins
 
-When the idea of doing a Robin Hood game was suggested to designer Christy Marx, she was "delighted," as "Robin Hood has always been one of my favorite heroes, not to mention how much I love the Medieval time period."[^ref-18] Marx and Ken Williams decided to focus on Robin Hood instead of King Arthur for broader popular appeal, a decision influenced by the success of the *Prince of Thieves* film which was released around the same time.[^ref-8] The game released during what one reviewer called "the 1991 Robin Hood movie hype."[^ref-18]
+When the idea of doing a Robin Hood game was suggested to designer Christy Marx, she was "delighted," as "Robin Hood has always been one of my favorite heroes, not to mention how much I love the Medieval time period."[^ref-18] Marx and Ken Williams decided to focus on Robin Hood instead of King Arthur for broader popular appeal, a decision influenced by the success of the *Prince of Thieves* film which was released around the same time.[^ref-8] Lemon Amiga's reviewer describes 1991 as a year with "an omnipresent 'Robin Hood' hype," with two Robin Hood films in cinemas.[^ref-18] The Digital Antiquarian likewise notes that the game's sales were helped by *Robin Hood: Prince of Thieves* being "the second biggest cinematic blockbuster of 1991."[^ref-25]
 
 ### Production
 
-Development at Sierra in this era was described by Marx as "like being on the frontier during the Wild West. Nobody really knew what they were doing, and I sure as hell didn't when I joined them."[^ref-15] Marx conducted extensive research for the project, including studying Welsh legends about Merlin, contacting a museum in Nottingham for historical material about the castle and tunnels, and using reproduced maps of English shires from the time period.[^ref-15]
+Development at Sierra in this era was described by Marx as "like being on the frontier during the Wild West. Nobody really knew what they were doing, and I sure as hell didn't when I joined them."[^ref-15] Marx conducted extensive research for the project into outlaws of the period and the Robin Hood ballads, contacted a museum in Nottingham that sent her historical material about Nottingham Castle, the tunnels beneath it and the Trip to Jerusalem pub, and used a book of reproduced period maps of England's shires, through which she discovered Watling Street.[^ref-15]
 
-Understanding player behavior proved to be one of the key challenges. Marx recalled: "I finally got it when I had a chance to watch players sit down and bash at the game. They truly would do anything in any order with no rhyme or reason."[^ref-15] This observation informed the game's flexible design philosophy that allows multiple solutions and avoids dead ends.
+Marx had learned about player behavior while making her first game, *Conquests of Camelot*, watching playtesters who "would do anything in any order with no rhyme or reason." She said: "By the time I was working on Longbow, I had a more solid sense of designing and writing a non-linear story while maintaining a strong storyline."[^ref-15] For *Longbow* she wanted something "more complex and nuanced" than *Camelot*'s three win-or-lose decision points, and worked with the programmers on "a weighted point system" in which the player's choices added up to one of several endings.[^ref-15]
 
 Some of Marx's ambitions exceeded technical capabilities. She noted: "What I wanted was beyond the technical capabilities of the time," with battle scenes ending up more simplistic than intended due to hardware limitations.[^ref-15] The game's art was "created with the brilliant palette of an illuminated medieval manuscript," resulting in what marketing materials called "a festival of light and color."[^ref-3]
 
-**Development Credits:**[^ref-12]
-- **Designer:** [[Christy Marx]]
-- **Executive Designers:** Ken Williams, William R. Davis Sr., Guruka Singh Khalsa[^ref-19]
+**Development Credits:**[^ref-29]
+- **Lead Design / Director:** [[Christy Marx]]
+- **Executive Producer:** Ken Williams
+- **Creative Director:** Bill Davis
+- **Producer:** Guruka Singh Khalsa
 - **Music Director:** [[Mark Seibert]]
-- **Additional Music:** [[Ken Allen]], Christopher G. Braymen, Orpheus Hanley, Aubrey Hodges
+- **Synthesized Score & Sounds:** [[Ken Allen]], Christopher G. Braymen, Orpheus Hanley, Aubrey Hodges
 
 ### Technical Achievements
 
-The game utilizes Sierra's SCI1 engine, providing 256-color VGA graphics and support for advanced sound hardware including Roland MT-32 and Sound Blaster.[^ref-9][^ref-20] The visual presentation was notable for its time, with VGA graphics that helped establish the game's medieval atmosphere. The soundtrack was composed with period-appropriate instrumentation, with Mark Seibert ensuring authentic medieval musical styles despite an art director who initially wanted a more modern sound.[^ref-15]
+The game utilizes Sierra's SCI1 engine, providing 256-color VGA graphics and support for sound hardware including the Roland MT-32 and Sound Blaster.[^ref-9][^ref-13] Marx wanted music that suited the time period; the project's art director "kept pushing for a more modern sound," but she insisted on the period approach, and composer Mark Seibert "was fully in sync" with her.[^ref-15]
 
 The original soundtrack was later re-orchestrated by Mark Seibert in summer 1992 for inclusion on the *Sierra Soundtrack Collection*, recorded at Maximus Recording Studios in Fresno, California.[^ref-21]
 
 ### Technical Specifications
 
-**DOS Version (VGA):**[^ref-13]
-- **Minimum OS:** MS-DOS 3.0 (3.3 recommended)
-- **Minimum CPU:** Intel 286 (VGA version), Intel 8088/8086 (EGA version)
+**DOS Version:**[^ref-13]
+- **Minimum OS:** MS-DOS 3.0
+- **Minimum CPU:** Intel 8088/8086
 - **RAM:** 640 KB
 - **Graphics Modes:** VGA, MCGA, EGA, Tandy/PCjr
-- **Audio:** PC Speaker, Tandy/PCjr Sound, AdLib, Roland MT-32, Game Blaster (CMS), Sound Blaster, Pro Audio Spectrum, PS/1 Audio Card, Thunderboard, [[Disney]] Sound Source
-- **Media:** 6 3½" floppy diskettes (or 7 5.25" HD disks)[^ref-12]
+- **Audio:** PC Speaker, Tandy/PCjr Sound, Tandy with DAC, AdLib, Roland MT-32, Game Blaster (CMS), Sound Blaster, Pro Audio Spectrum, PS/1 Audio Card, Thunderboard, [[Disney]] Sound Source
+- **Media:** 6 3½" floppy diskettes[^ref-13]; MobyGames lists four packages: a 16-color version on 3.5" DD or 5.25" HD disks and a 256-color version on 3.5" HD or 5.25" HD disks[^ref-12]
 
 **Amiga Version:**[^ref-13]
 - **Minimum OS:** Kickstart/Workbench 1.2
 - **Hardware:** Amiga 500/2000
 - **RAM:** 1 MB
-- **Graphics:** OCS/ECS (64-color mode)
-- **Media:** 8 floppy diskettes
-- **Notes:** Hard drive installation supported; faster Amiga recommended
+- **Graphics:** OCS/ECS
+- **Media:** 8 floppy diskettes[^ref-17]
+- **Notes:** Hard drive installable; faster Amiga recommended
 
-**Windows Version (ScummVM):**[^ref-9]
+**Windows Version (GOG.com):**[^ref-3]
 - **Release Date:** May 4, 2017
 - **OS:** Windows 7/8/10
 - **CPU:** 1.8 GHz
@@ -167,32 +169,28 @@ A CD-ROM version with full speech was planned for distribution around 1993 but w
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | December 9, 1991 | IBM PC/DOS | Initial DOS release[^ref-22] |
-| 1.1 | Unknown | DOS | Bug fixes; distributed by GOG and Steam[^ref-23] |
-| N/A | 1992 | Amiga | Amiga port; Sierra's last Amiga release[^ref-18] |
-| N/A | 1992 | Macintosh | Mac port[^ref-1] |
-| N/A | May 4, 2017 | Windows | ScummVM-based digital release[^ref-9] |
-
-**SCI Interpreter Versions:**[^ref-9]
-
-| Game Version | Interpreter | Type | Notes |
-|--------------|-------------|------|-------|
-| DOS 1.0 | SCI1 | SCI1 | Initial release, EGA/VGA versions |
-| DOS 1.1 | SCI1 | SCI1 | Patched version for GOG/Steam |
+| 1.1 | Unknown | DOS | Later revision; the version distributed by GOG[^ref-26] |
+| N/A | 1992 | Amiga | Amiga port; Lemon Amiga calls it Sierra's last title for the Amiga[^ref-18] |
+| N/A | 1992 | Macintosh | Mac port[^ref-1][^ref-30] |
+| N/A | May 4, 2017 | Windows | GOG.com digital release, run with ScummVM[^ref-3][^ref-26] |
 
 ### Technical Issues
 
-The DOS version had several known bugs addressed by official patches:[^ref-13]
+Sierra's official patch (LBPAT, 14.3 KB) fixed three known DOS bugs:[^ref-13]
 
 - **1535.TEX error:** An error message that occurs if Robin orders a drink in the pub
 - **Green Man loop:** A looping problem when Robin talks to the Green Man
 - **Forest hiding bug:** Some players not given time to hide from the Sheriff's men in the forest the second time
-- **Animation issues:** Some animations (including Robin's head) displaying incorrectly
-- **Day 1 bug:** Giving money to peasant woman causes game to think she died[^ref-18]
+
+Other reported issues:
+
+- **Animation issues:** Some animations (including Robin's head) display incorrectly; addressed by NewRisingSun's unofficial patch, not by Sierra[^ref-13]
+- **Day 1 bug (Amiga):** A Lemon Amiga user comment reports that in the Amiga version, giving money to the rescued peasant woman on Day 1 makes the game treat her as dead, blocking the best ending[^ref-18]
 - **Graphics glitch:** John appears instead of knight's corpse, causing game crash when leaving scene[^ref-4]
 
-Sierra released an official patch (LBPAT, 14.3 KB) to address most issues.[^ref-13] The GOG/Steam version 1.1 introduced a new problem: "catching the pixie is nearly impossible if you run the game unthrottled."[^ref-23]
+According to the Speedrun.com Any% guide, if you use version 1.1 (the version distributed by GOG), "catching the pixie is nearly impossible if you run the game unthrottled."[^ref-26]
 
-The Amiga version suffered from severe performance issues. Reviewer Steve Wilkins noted: "It's damned slooooow! On a 'naked' standard Amiga the slider bar for the speed almost appears to be sarcastic: From sleepwalking to slow-motion to slide show."[^ref-18] Graphics appeared "washed-out and blurred compared to PC version," and the game was "nearly unplayable without hard disk due to frequent disk swapping."[^ref-17]
+The Amiga version suffered from severe performance issues. Reviewer Steve Wilkins noted: "It's damned slooooow! On a 'naked' standard Amiga the slider bar for the speed almost appears to be sarcastic: From sleepwalking to slow-motion to slide show."[^ref-18] He found the graphics "somehow washed-out and blurred," particularly the conversation portraits.[^ref-18] *Amiga Joker* wrote that without a hard disk the conversion was on the verge of being unplayable, with eight disks to swap.[^ref-17]
 
 ### Easter Eggs and Trivia
 
@@ -212,22 +210,15 @@ Designer Christy Marx included a bibliography of research sources in the game's 
 
 ### Multiple Endings
 
-The game features four possible endings based on a weighted point system that tracks player choices throughout the adventure:[^ref-5][^ref-8]
+The game has four possible endings, determined by what Marx called "a weighted point system" in which the player's choices add up over the course of the game.[^ref-15][^ref-1] The game keeps score in three ways: points for puzzles solved, the money collected for King Richard's ransom, and the number of Robin's outlaws still alive.[^ref-1]
 
-**Ending Variables:**
-- How righteously Robin behaves (helping peasants vs. pure thievery)
-- Success in protecting Maid Marian
-- Completing optional quests for maximum ransom
-- Treatment of enemies (mercy vs. cruelty)
-- Relationship with the forest spirits
+**Possible Endings:**[^ref-1]
+1. Robin is hanged for his crimes
+2. Robin is pardoned but receives no other reward
+3. Robin is pardoned and offered a post in the king's service, but denied Maid Marian's hand
+4. Robin is granted a noble title and married to Maid Marian
 
-**Possible Endings:**
-1. **Best Ending:** Robin and Marian marry; King Richard returns triumphant
-2. **Good Ending:** Robin survives but with less favorable outcomes
-3. **Neutral/Bad Ending:** Partial success with complications
-4. **Worst Ending:** Robin is hanged in Nottingham
-
-The "best" ending requires accumulating maximum points through righteous behavior and completing all optional objectives. Reviewer Richard noted: "The way in which you deal with the problems each day will have an effect on how the game ends. This feature was way ahead of its time back when adventure games were fairly linear."[^ref-6]
+At the end, Robin stands trial and each of his "victims" testifies about how he treated them.[^ref-18] Reviewer Richard noted: "The way in which you deal with the problems each day will have an effect on how the game ends. This feature was way ahead of its time back when adventure games were fairly linear."[^ref-6]
 
 The maximum possible score is 7325 points across all 13 game days.[^ref-24]
 
@@ -235,19 +226,18 @@ The maximum possible score is 7325 points across all 13 game days.[^ref-24]
 
 ### Sales and Commercial Impact
 
-While specific sales figures are not available, *Conquests of the Longbow* was released during Sierra's dominant period in adventure gaming. The company was producing "premium-priced entertainment-software products for the high end of the consumer market."[^ref-25] The game was released alongside nearly 20 other Sierra titles in 1991.[^ref-6]
+No unit sales figures have been published, but the game sold well: according to The Digital Antiquarian, the spring 1992 issue of Sierra's official magazine listed it as "the company's biggest current seller, edging out Police Quest 3, Leisure Suit Larry 5, and King's Quest V."[^ref-25] The game was released alongside nearly 20 other Sierra titles in 1991.[^ref-6]
 
-The Amiga version represented Sierra's final release for the Commodore Amiga platform, ending their support for the system.[^ref-18]
+Lemon Amiga describes the Amiga version as Sierra On-Line's last title for the Amiga, although *King's Quest VI* was later ported to the Amiga by Revolution Software in autumn 1994.[^ref-18]
 
 ### Collections
 
-The game has been preserved through various digital distribution platforms:
-- **GOG.com:** Available with ScummVM compatibility wrapper[^ref-3]
-- **Internet Archive:** Preserved in multiple formats including VHD for MiSTer FPGA use, sourced from eXoDOS v6[^ref-20]
+The game is still sold digitally:
+- **GOG.com:** Released May 4, 2017[^ref-3]
 
 ### Fan Projects
 
-The game maintains an active speedrunning community with 172 total runs by 13 players as of late 2024.[^ref-23] Categories include Any%, Low%, 100%, Best Ending, and a unique "13 Deaths in 13 Days" challenge.[^ref-23] The current Any% world record is 10 minutes 50 seconds, held by speedrunner SnowyP on MS-DOS.[^ref-23]
+The game maintains an active speedrunning community with 172 total runs by 13 players listed on its Speedrun.com page.[^ref-23] Categories include Any%, Low%, 100%, Best Ending, and a unique "13 Deaths in 13 Days" challenge.[^ref-23] The current Any% world record is 10 minutes 50 seconds, held by speedrunner SnowyP on MS-DOS.[^ref-23]
 
 In January 2023, the speedrunning community discovered "Snowy Skips," new glitches that further optimized completion times.[^ref-26] Fan projects have also included 4K upscaled renderings of the game's graphics.[^ref-27]
 
@@ -258,11 +248,11 @@ In January 2023, the speedrunning community discovered "Snowy Skips," new glitch
 
 ### Critical Perspective
 
-*Conquests of the Longbow* represents one of Sierra's most ambitious attempts at meaningful player choice in an adventure game era dominated by linear narratives. The game's design philosophy—embracing multiple paths including detailed losing scenarios—was genuinely innovative for 1991 and presaged the choice-driven narratives that would become popular decades later.
+Adventure Classic Gaming describes the game as "a dramatically different design philosophy from most other adventure games," in which "the possibilities for tragedy, callousness and folly are integral to the interactive story."[^ref-4] Lemon Amiga notes that multiple endings were "nothing to be taken for granted back in the early nineties."[^ref-18]
 
-Modern critics consistently identify the game as underrated within Sierra's catalog. User MisTurHappy's assessment reflects common sentiment: "Probably Sierra's most underrated title - maybe tied with Laura Bow 2 - and I can only assume it's just because it isn't part of one of their big-name series... The freedom it gives you to play Robin Hood as anything from a virtuous outlaw to a total scumbag highwayman is pretty unique too."[^ref-7]
+Some players regard it as underrated within Sierra's catalog. Glitchwave user MisTurHappy commented: "Probably Sierra's most underrated title - maybe tied with Laura Bow 2 - and I can only assume it's just because it isn't part of one of their big-name series... The freedom it gives you to play Robin Hood as anything from a virtuous outlaw to a total scumbag highwayman is pretty unique too."[^ref-7]
 
-The game's focus on historical accuracy and cultural research also distinguishes it from typical adventure fare. The integration of medieval knowledge into gameplay—requiring players to understand gemstone properties, druid traditions, and period customs—created an educational experience that remains engaging. As one reviewer noted: "The game's focus on nuanced narrative, balanced puzzles, and morally intricate decisions ensures it remains relevant."[^ref-28]
+The game's focus on historical accuracy and cultural research also distinguishes it from typical adventure fare. Puzzles draw on medieval knowledge and lore, such as "what properties gemstones have or learning to identify and name druid trees."[^ref-9]
 
 ## Downloads
 
@@ -302,13 +292,12 @@ The game's focus on historical accuracy and cultural research also distinguishes
 [^ref-16]: [Amiga Magazine Rack (Archived)](https://web.archive.org/web/20220321190700/http://amr.abime.net/review_25678) – contemporary review scores compilation
 [^ref-17]: [Amiga Reviews (Archived)](https://web.archive.org/web/20220321191036/https://amigareviews.leveluphost.com/conquesl.htm#conquestsofthelongbowaj) – Amiga version review, technical issues
 [^ref-18]: [Lemon Amiga – Review](https://www.lemonamiga.com/games/reviews/view.php?id=504) – Amiga version analysis, designer quote, technical problems
-[^ref-19]: RetroGames.cz – Conquests of the Longbow *(download link removed: the game is sold commercially)* – executive designer credits
-[^ref-20]: Internet Archive – DOS Version *(download link removed: the game is sold commercially)* – preservation info, technical specs
 [^ref-21]: [VGMdb – Sierra Soundtrack Collection](https://vgmdb.net/album/2241) – soundtrack recording details
 [^ref-22]: [The Sierra Chest – Conquests of the Longbow](https://sierrachest.com/index.php?a=games&id=141&title=conquests-of-the-longbow&fld=music) – release date, music track listing
-[^ref-23]: [Speedrun.com – Conquests of the Longbow](https://www.speedrun.com/conquests_of_the_longbow_the_legend_of_robin_hood) – speedrun data, version differences
-[^ref-24]: [The-Spoiler.com – Point Walkthrough](https://www.justadventure.com/walkthrough/robin-hood-prince-of-thieves-5/) – maximum score, point breakdown
-[^ref-25]: [The Digital Antiquarian](https://www.filfre.net/?s=Conquests+of+the+Longbow%3A+The+Legend+of+Robin+Hood) – Sierra business strategy context
-[^ref-26]: [Speedrun.com – Guide](https://www.speedrun.com/conquests_of_the_longbow_the_legend_of_robin_hood/guides/5px6w) – speedrun strategies, Snowy Skips
+[^ref-23]: [Speedrun.com – Conquests of the Longbow](https://www.speedrun.com/conquests_of_the_longbow_the_legend_of_robin_hood) – speedrun data
+[^ref-24]: [The Spoiler Centre – Conquests of the Longbow point list (Wayback, 2003)](https://web.archive.org/web/20030817213442/http://www.the-spoiler.com:80/ADVENTURE/Sierra/robin.hood.5.html) – maximum score ("7325 Total"), point breakdown
+[^ref-25]: [The Digital Antiquarian – Sierra at the Cusp of the Multimedia Age](https://www.filfre.net/2018/01/sierra-at-the-cusp-of-the-multimedia-age/) – spring 1992 sales chart, Prince of Thieves context
+[^ref-26]: [Speedrun.com – Guide](https://www.speedrun.com/conquests_of_the_longbow_the_legend_of_robin_hood/guides/5px6w) – speedrun strategies, Snowy Skips, version 1.1/pixie note
 [^ref-27]: [Reddit r/Sierra – 4K Rendering Post](https://www.reddit.com/r/Sierra/comments/16g07ln/conquests_of_the_longbow_rendered_in_4k_simulated/) – fan project
-[^ref-28]: Best DOS Games – Conquests of the Longbow *(download link removed: the game is sold commercially)* – modern relevance assessment
+[^ref-29]: [MobyGames – Conquests of the Longbow credits (DOS)](https://www.mobygames.com/game/1967/conquests-of-the-longbow-the-legend-of-robin-hood/credits/dos/) – production credits
+[^ref-30]: [Computer Gaming World #100, November 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_100) – Adventure Game of the Year nomination and winner; mail-order ad listing a Mac version
