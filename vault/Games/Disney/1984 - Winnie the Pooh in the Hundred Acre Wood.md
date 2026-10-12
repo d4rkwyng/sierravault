@@ -4,28 +4,28 @@ release_year: 1984
 developer: Sierra On-Line
 designer: [Al Lowe]
 publisher: Sierra On-Line
-genre: Educational
+genre: Adventure
 platforms: [Apple II, C64, DOS, Atari ST, Amiga, TRS-80 Color Computer]
 series: Disney Edutainment Series
 engine: Troll's Tale Engine
 protagonist: Player (unnamed child)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
+last_updated: '2026-10-12'
 description: '*Winnie the Pooh in the Hundred Acre Wood* is an educational adventure
   game developed by Sierra On-Line in collaboration with Walt Disney Computer Software,...'
 tags: [1980s, adventure, al-lowe, disney-edutainment-series, sierra]
 ---
 # Winnie the Pooh in the Hundred Acre Wood
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-*Winnie the Pooh in the Hundred Acre Wood* is an educational adventure game developed by Sierra On-Line in collaboration with Walt Disney Computer Software, released in December 1984 for the Apple II and Commodore 64.[^ref-1] The game marked the second entry in Sierra's short-lived series of edutainment titles based on Disney's beloved cartoon characters, designed to engage children's imagination while teaching fundamental skills such as reading comprehension, problem-solving, logic, and mapping.[^ref-2] Designer [[Al Lowe]], who would later achieve fame as the creator of the *Leisure Suit Larry* series, considers this children's game among his finest work.[^ref-3]
+*Winnie the Pooh in the Hundred Acre Wood* is an educational adventure game developed by Sierra On-Line in collaboration with Walt Disney Computer Software, released in December 1984 for the Apple II and Commodore 64.[^ref-1] It was one of a handful of Disney-licensed titles Sierra released during the mid-1980s,[^ref-19] and its manual states that it "develops reading comprehension, problem solving, logic and mapping skills."[^ref-10] Designer [[Al Lowe]], who would later achieve fame as the creator of the *Leisure Suit Larry* series, considers this children's game among his finest work.[^ref-3]
 
-Set in the familiar world of A.A. Milne's classic stories as depicted in Disney's animated featurettes, the game challenges young players to help the residents of the Hundred Acre Wood recover their belongings after a blustery wind scatters objects throughout the forest.[^ref-4] The game's interface was revolutionary for its time in children's software—requiring no typing whatsoever, instead using cursor keys to select from context-sensitive action lists, making it accessible to early readers while still providing an engaging adventure experience.[^ref-5] Disney shared artwork from their Pooh animated films, which Sierra's artists used as inspiration for the game's charming background illustrations.[^ref-3]
+Set in the familiar world of A.A. Milne's classic stories as depicted in Disney's animated featurettes, the game challenges young players to help the residents of the Hundred Acre Wood recover their belongings after a blustery wind scatters objects throughout the forest.[^ref-4] Like Lowe's earlier *Troll's Tale*, the game requires no typing: players pick from context-sensitive lists of actions, which made it accessible to early readers.[^ref-3][^ref-5] Disney shared artwork from their Pooh animated films, which Sierra's artists used as inspiration for the game's charming background illustrations.[^ref-3]
 
-The game achieved commercial success and critical acclaim, with contemporary reviewers noting that while many licensed games rely on character recognition to sell, this title "deserve[s] to succeed on merit alone."[^ref-6] Al Lowe generously released the game as freeware in later years, ensuring its preservation for new generations of players.[^ref-7][^ref-26][^ref-28][^ref-29][^ref-26][^ref-28][^ref-29]
+Contemporary reviewers were positive: *Apple User* wrote that, unlike licensed games that rely on a famous character to sell them, this one and its sister title *Mickey's Space Adventure* "deserve to succeed on merit alone."[^ref-6] Al Lowe later released the game as freeware and offers it on his own website.[^ref-3][^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]] / Walt [[Disney]] Computer Software[^ref-1]
@@ -52,11 +52,11 @@ Each character in the Hundred Acre Wood waits anxiously for someone to return th
 
 The game's interface was specifically designed for young children and represents a significant departure from traditional adventure game conventions of the era.[^ref-5] Unlike Sierra's text parser-based adventures like *King's Quest*, *Winnie the Pooh in the Hundred Acre Wood* requires no typing whatsoever.[^ref-5] Instead, the game uses a simplified graphical interface where the space bar cycles through available options and the Enter key confirms selections.[^ref-11]
 
-At each location, players are presented with a context-sensitive list of actions specific to that scene, allowing them to pick up and drop objects, examine surroundings, and navigate through the forest using cardinal directions (North, South, East, and West).[^ref-5] The Commodore 64 version supports joystick control through port 2, making navigation even more accessible for young players.[^ref-12] This streamlined approach allows children who are just learning to read to play the game independently while still developing problem-solving skills.[^ref-2]
+At each location, players are presented with a context-sensitive list of actions specific to that scene, allowing them to pick up and drop objects, examine surroundings, and navigate through the forest using cardinal directions (North, South, East, and West).[^ref-5] The Commodore 64 version supports joystick control through port 2, making navigation even more accessible for young players.[^ref-12] *Apple User* noted that the game uses only the Space bar and Return, "so typing errors don't spoil the game for the children."[^ref-6]
 
 ### Structure and Progression
 
-The Hundred Acre Wood exists as a grid of approximately 50-60 connected static screens, laid out in a 5x6 room configuration.[^ref-13] Unlike traditional Sierra Quest games, there is no character animation—the player moves between static screens representing different locations throughout the forest.[^ref-9] This structure emphasizes the game's educational focus on mapmaking and spatial awareness, encouraging children to learn cardinal directions and develop mental maps of the game world.[^ref-13]
+The Hundred Acre Wood's overworld is a grid of five rooms by six, and most of those rooms lead to further screens (Rabbit's house alone has three interior screens); *The Adventurers' Guild* estimated "about fifty or sixty explorable screens in total."[^ref-13] Unlike traditional Sierra Quest games, there is no character animation—the player moves between static screens representing different locations throughout the forest.[^ref-9] This structure emphasizes the game's educational focus on mapmaking and spatial awareness, encouraging children to learn cardinal directions and develop mental maps of the game world.[^ref-13]
 
 Each playthrough offers a different experience, as the ten objects to be found are randomly placed at the start of each new game.[^ref-14] This randomization provides significant replay value and ensures that children cannot simply memorize solutions. Players can only carry one item at a time, requiring careful planning and multiple trips across the forest to complete their mission.[^ref-9]
 
@@ -81,34 +81,34 @@ The game is designed primarily as an exercise in mapmaking and provides children
 
 ### Contemporary Reviews
 
-*Winnie the Pooh in the Hundred Acre Wood* received overwhelmingly positive reviews upon release, particularly from publications focused on children's and educational software. *Computer & Video Games* magazine awarded the Commodore 64 version a perfect score of 10/10 in their February 1986 review, praising its combination of entertainment and educational value.[^ref-12] *Your Commodore* magazine gave the game an 8/10 rating in January 1986.[^ref-12]
+*Winnie the Pooh in the Hundred Acre Wood* was well received on release. In *Computer & Video Games* #52 (February 1986), Keith Campbell reviewed U.S. Gold's Commodore 64 disk release, calling it "unashamedly a game for kiddies" and praising the graphics as "excellent, quick to load and draw (especially for a Commodore), full of colour, and in a cartoony style worthy of the Disney name on the label." He concluded it was "a game to be highly recommended for younger children not yet into full-blown adventure games."[^ref-30] The scanned ratings box shows Atmosphere 8 and Personal 10; Lemon64 lists the review as 10/10.[^ref-30][^ref-12] *Your Commodore* No. 16 (January 1986) gave the game 8/10.[^ref-12]
 
-*The Micro User* published a detailed review in August 1985, awarding the game 84% and singling it out for praise among licensed titles: "There is a tendency for software houses to create a game around a famous character in the hope that the character sells the game. In the case of these games, they deserve to succeed on merit alone."[^ref-6] The review specifically praised the game's accessibility for children aged 7 and up while noting that the space bar and return key interface made it easy for young players to control independently.[^ref-6]
+*Apple User* (Volume 5, Number 8, August 1985) reviewed the Apple II version alongside *Mickey's Space Adventure*. Reviewers Denise and Cliff McKnight gave it 84% and singled it out among licensed titles: "There is a tendency for software houses to create a game around a famous character in the hope that the character sells the game. In the case of these games, they deserve to succeed on merit alone."[^ref-6] They noted that the Space bar cycles through the options and Return selects one, and that even their three-year-old could "exercise her sense of direction with the Pooh game, although the packaging suggests it's appropriate for ages 7 and up."[^ref-6]
 
-User reviews from the era were similarly enthusiastic. One reviewer noted it was a "Great adventure game. Intended for children, but enjoyable for just about everyone."[^ref-12] Another described it as "A charming option-based adventure where your mission is to wander about the Hundred Acre Wood and collecting every item you see and disposing them to their correct location."[^ref-12]
+Later Lemon64 user comments were also warm. One commenter wrote in 2005 that it was a "Great adventure game. Intended for children, but enjoyable for just about everyone."[^ref-12] A 2002 comment described it as "A charming option-based adventure where your mission is to wander about the Hundred Acre Wood and collecting every item you see and disposing them to their correct location."[^ref-12]
 
 ### Modern Assessment
 
-Modern retrospective reviews have been more measured, acknowledging the game's historical significance while noting its limitations by contemporary standards. *The Adventurers' Guild* blog reviewed the game in February 2016, giving it scores of 3 for Puzzles & Solvability, 2 for Interface & Inventory, 3 for Story & Setting, 3 for Sounds & Graphics, and 6 for Environment & Atmosphere.[^ref-13] The reviewer praised the game's faithful recreation of the Hundred Acre Wood atmosphere while noting the extremely simple gameplay mechanics.
+Modern retrospective opinion is mixed. *The Adventurers' Guild* blog reviewed the game in February 2016, giving it scores of 3 for Puzzles & Solvability, 2 for Interface & Inventory, 3 for Story & Setting, 3 for Sounds & Graphics, 6 for Environment & Atmosphere, and 3 for Dialog & Acting. With a one-point bonus, the final score was 34.[^ref-13] The reviewer praised the game's faithful recreation of the Hundred Acre Wood atmosphere while noting the extremely simple gameplay mechanics.
 
-*DOSGames.com* awarded the game 2.5 out of 5 stars, describing it as "designed for children, and works like a simplified graphical adventure game where instead of typing commands or clicking objects, the child chooses from a list of predefined actions for each scene."[^ref-7] *Lemon64* user reviews gave the Commodore 64 version 4/10, with one reviewer noting "After about 15 or 20 minutes of nostalgia though, there's not a whole lot of point in continuing."[^ref-15]
+*DOSGames.com* awarded the game 2.5 out of 5 stars, describing it as "designed for children, and works like a simplified graphical adventure game where instead of typing commands or clicking objects, the child chooses from a list of predefined actions for each scene."[^ref-8] A *Lemon64* user review gave the Commodore 64 version 4/10, with the reviewer noting "After about 15 or 20 minutes of nostalgia though, there's not a whole lot of point in continuing."[^ref-15]
 
-However, the game retains a dedicated following among those who played it in childhood. As one *Lemon Amiga* reviewer wrote: "Great game for a children with english his/her native language. Even as an adult it attracted my attention for some time."[^ref-16]
+A 2008 *Lemon Amiga* user comment, rating it 10/10, reads: "Great game for a children with english his/her native language. Even as an adult it attracted my attention for some time."[^ref-16]
 
 **Aggregate Scores:**
 - **MobyGames:** 63% (based on critic reviews)[^ref-1]
 - **Abandonware DOS:** 3.60/5.00[^ref-17]
-- **My Abandonware:** 3.42/5 (HOTUD rating)[^ref-2]
-- **IMDB:** 4.8/10[^ref-18]
-- **Lemon Amiga:** 8.33/10[^ref-10]
+- **My Abandonware:** 3.42/5 (user rating, 12 votes)[^ref-2]
+- **IMDb:** 5.3/10 (24 ratings); IMDb lists a June 21, 1984 release date, while other sources give December 1984[^ref-18][^ref-9]
+- **Lemon Amiga:** 7.33/10 (9 votes)[^ref-16]
 
 ## Development
 
 ### Origins
 
-*Winnie the Pooh in the Hundred Acre Wood* emerged from Sierra On-Line's partnership with Walt Disney Computer Software, which Sierra had acquired from Texas Instruments.[^ref-19] This partnership produced a handful of Disney-licensed educational titles during the mid-1980s, including games featuring Donald Duck, Mickey Mouse, and the Winnie the Pooh characters.[^ref-19] The collaboration represented an early attempt to bring beloved animation characters to the emerging home computer market.
+*Winnie the Pooh in the Hundred Acre Wood* came out of Sierra's Disney license, which Sierra bought, with Disney's tacit approval, from Texas Instruments. According to Jimmy Maher, "Buying the preexisting contract from Texas Instruments allowed Sierra to dodge Disney's usual huge upfront licensing fee," but Sierra paid instead through high royalties.[^ref-19] The license produced only a handful of releases, including one each for Donald Duck, Mickey Mouse, and Winnie the Pooh.[^ref-19]
 
-However, working with Disney proved challenging. According to Sierra developer John Williams, Disney's educational films division provided oversight but "knew nothing about the media we were creating, didn't care, and didn't want to."[^ref-19] Industry historian Jimmy Maher noted that "Disney has always been known amongst their licensees as control freaks, but in this case they were control freaks who were also clueless."[^ref-19] Williams later characterized the Disney partnership as an "unproductive side trip" for Sierra.[^ref-19]
+However, working with Disney proved challenging. According to John Williams, Ken Williams's brother and part of Sierra's founding group, Disney's educational films division provided oversight but "knew nothing about the media we were creating, didn't care, and didn't want to."[^ref-19] Industry historian Jimmy Maher noted that "Disney has always been known amongst their licensees as control freaks, but in this case they were control freaks who were also clueless."[^ref-19] Williams later characterized the Disney partnership as an "unproductive side trip" for Sierra.[^ref-19]
 
 Despite these corporate tensions, the development team found creative ways to leverage Disney's resources. Disney shared artwork from their animated Pooh featurettes, which Sierra's artists used to create the game's charming background illustrations.[^ref-3] Designer Al Lowe used this same artwork as inspiration for designing the game's locations and puzzles.[^ref-3]
 
@@ -118,18 +118,18 @@ Al Lowe designed and programmed the game using the same engine he had created fo
 
 The graphics team played a crucial role in bringing the Hundred Acre Wood to life. Mark Crowe, who would later co-create the *Space Quest* series, worked on the game as one of his first computer graphics projects at Sierra.[^ref-20] As Crowe recalled: "I started with Sierra in the Art Department, designing packaging and documentation and what not, so I used my illustration skills there. My first computer graphics project was creating the graphics for Winnie the Pooh and the One Hundred Acre Wood."[^ref-20]
 
-**Development Credits:**[^ref-9]
-- **Designer:** [[Al Lowe]]
-- **Artists:** [[Mark Crowe]], Doug MacNeill, Jennifer Nelsen, Terry Pierce
-- **Sound:** Al Lowe
+**Development Credits:**
+- **Designer:** [[Al Lowe]][^ref-9]
+- **Artists:** [[Mark Crowe]], Doug MacNeill, Jennifer Nelsen, Terry Pierce[^ref-9]
+- **Sound:** Al Lowe[^ref-12][^ref-21]
 
 ### Technical Achievements
 
-The game utilized Al Lowe's custom engine originally developed for *Troll's Tale*, featuring a simple but effective system for presenting static screens with context-sensitive action menus.[^ref-3] The interface innovation of requiring only the space bar and Enter key made the game accessible to very young children who had not yet developed typing skills.[^ref-11]
+The game utilized Al Lowe's custom engine originally developed for *Troll's Tale*, featuring a simple but effective system for presenting static screens with context-sensitive action menus.[^ref-3] The interface, requiring only the space bar and Enter key, made the game accessible to very young children who had not yet developed typing skills.[^ref-11]
 
 For the Commodore 64 version, Al Lowe had to transcribe the game's music into assembly language and implement it through his own custom sound driver for the SID chip.[^ref-21] The musical elements drew inspiration from the famous songs by Robert B. Sherman and Richard M. Sherman from the Disney animated featurettes.[^ref-21]
 
-Some sources indicate the game may have used the AGI (Adventure Game Interpreter) engine on certain platforms, though the original Apple II and Commodore 64 versions were based on Lowe's simpler custom engine.[^ref-22] The Sierra Chest database references it as using the "Dragon's Keep engine."[^ref-14]
+Some databases label it AGI (Adventure Game Interpreter),[^ref-22] but ScummVM, which supports the DOS, Amiga and other versions, classifies it as a pre-AGI title built on Lowe's own simpler engine.[^ref-31] The Sierra Chest database references it as using the "Dragon's Keep engine."[^ref-14]
 
 ### Technical Specifications
 
@@ -179,13 +179,13 @@ Due to the game's age, modern players will require an emulator such as DOSBox to
 
 ### Sales and Commercial Impact
 
-*Winnie the Pooh in the Hundred Acre Wood* proved commercially successful for Sierra, helping establish the company's presence in the children's educational software market alongside titles like *Mickey's Space Adventure*.[^ref-6] The game demonstrated that licensed Disney characters could effectively drive sales of quality educational software. The title was part of Sierra's broader strategy to diversify beyond adventure games for older audiences.
+No sales figures for the game have been published. Jimmy Maher writes that Disney's "control-freak tendencies and their high royalties quickly soured everyone on the deal," and that most activity stopped well before the license expired.[^ref-19]
 
-The game generated enough community interest that years later, when GOG.com established their wishlist system, over 331 users voted for the game to be made available on the platform.[^ref-24] User comments included "Many gamers want this" and "I want this but unironically!"—demonstrating lasting nostalgic appeal.[^ref-24]
+The game generated enough community interest that years later, when GOG.com established their wishlist system, 331 users had voted for the game to be made available on the platform.[^ref-24] User comments included "Many gamers want this" and "I want this but unironically!"—demonstrating lasting nostalgic appeal.[^ref-24]
 
 ### Collections
 
-The game was released as a standalone title rather than appearing in formal compilation packages. However, it was marketed alongside *Mickey's Space Adventure* as part of Sierra's Disney edutainment line, with some retailers bundling the two titles together.[^ref-6]
+The game was released as a standalone title. It shared the series motto "Playing for fun/learning for life" with *Mickey's Space Adventure*, and *Apple User* reviewed the two together.[^ref-6]
 
 ### Fan Projects
 
@@ -194,7 +194,6 @@ Al Lowe generously released the DOS version of the game as freeware, ensuring it
 ### Related Publications
 
 - **Game Manual:** Included with retail release, explaining controls, gameplay objectives, and educational benefits for parents[^ref-10]
-- **Sierra promotional materials:** The game was featured in Sierra's product catalogs alongside other Disney and children's titles[^ref-2]
 
 ### Critical Perspective
 
@@ -202,13 +201,13 @@ Al Lowe generously released the DOS version of the game as freeware, ensuring it
 
 The game also represents a significant early work for two future Sierra luminaries: Al Lowe, who would go on to create the phenomenally successful *Leisure Suit Larry* franchise, and Mark Crowe, who would co-create the beloved *Space Quest* series.[^ref-20] In this context, the game serves as a fascinating artifact of Sierra's expansion period and the creative development of some of the industry's most important designers.
 
-From a design perspective, the game's innovation of eliminating typing requirements entirely made it genuinely accessible to its target audience of young children in ways that few adventure games of the era could match.[^ref-5] This child-friendly interface philosophy would influence later children's educational software development. The game's emphasis on mapping and spatial reasoning also anticipated later educational game design trends that emphasized learning through exploration.[^ref-27]
+From a design perspective, the game's innovation of eliminating typing requirements entirely made it genuinely accessible to its target audience of young children in ways that few adventure games of the era could match.[^ref-5]
 
 ## Downloads
 
 **Purchase / Digital Stores**
 - Not currently available on Steam, GOG, or other major digital storefronts
-- [GOG Dreamlist – Winnie the Pooh in the Hundred Acre Wood](https://www.gog.com/dreamlist/game/winnie-the-pooh-in-the-hundred-acre-wood) — community Dreamlist for re-release[^ref-24]
+- [GOG wishlist – Winnie the Pooh in the Hundred Acre Wood](https://www.gog.com/wishlist/games/winnie_the_pooh_in_the_hundred_acre_wood) — community wishlist entry for a re-release[^ref-24]
 
 **Download / Preservation**
 - [MyAbandonware – Winnie the Pooh](https://www.myabandonware.com/game/winnie-the-pooh-in-the-hundred-acre-wood-75) — abandonware preservation download[^ref-2]
@@ -233,7 +232,7 @@ From a design perspective, the game's innovation of eliminating typing requireme
 [^ref-3]: [Al Lowe's Official Website – Games](https://allowe.com/downloads/games.html) – developer quotes, engine information, Disney collaboration
 [^ref-4]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Winnie_the_Pooh_in_the_Hundred_Acre_Wood_1985) – game description, platform information
 [^ref-5]: [Adventure Game Database](https://www.adventuregamedb.com/g/winnie_the_pooh_in_the_hundred_acre_wood) – interface description, gameplay mechanics
-[^ref-6]: [Every Game Going – The Micro User Review (August 1985)](https://www.everygamegoing.com/larticle/Winnie-The-Pooh-In-The-Hundred-Acre-Wood-Mickeys-Space-Adventure-000/40756) – contemporary review, 84% score, interface details
+[^ref-6]: [Every Game Going – Apple User Review (Vol. 5 No. 8, August 1985)](https://www.everygamegoing.com/larticle/Winnie-The-Pooh-In-The-Hundred-Acre-Wood-Mickeys-Space-Adventure-000/40756) – Apple II review by Denise and Cliff McKnight, 84% score, interface details, series motto
 [^ref-7]: [DOS Games Archive](https://www.dosgamesarchive.com/download/winnie-the-pooh-in-the-hundred-acre-wood) – freeware release, file information
 [^ref-8]: [DOSGames.com](https://www.dosgames.com/game/winnie-the-pooh-in-the-hundred-acre-wood) – game description, technical specs, review
 [^ref-9]: [Wikipedia – Winnie the Pooh in the Hundred Acre Wood](https://en.wikipedia.org/wiki/Winnie_the_Pooh_in_the_Hundred_Acre_Wood) – gameplay mechanics, artists, release information
@@ -245,15 +244,15 @@ From a design perspective, the game's innovation of eliminating typing requireme
 [^ref-15]: [Lemon64 – User Review](https://www.lemon64.com/review/winnie-the-pooh/1106) – retrospective assessment, technical notes
 [^ref-16]: [Lemon Amiga – Game Details](https://www.lemonamiga.com/games/details.php?id=2595) – Amiga version details, user reviews
 [^ref-17]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Winnie+the+Pooh+in+the+Hundred+Acre+Wood&gid=2477) – ratings, emulation requirements
-[^ref-18]: [IMDB – Winnie the Pooh in the Hundred Acre Wood](https://www.imdb.com/title/tt3708144/) – ratings, release date, description
-[^ref-19]: [The Digital Antiquarian](https://www.filfre.net/?s=Winnie+the+Pooh+in+the+Hundred+Acre+Wood) – Disney partnership context, developer quotes
+[^ref-18]: [IMDb – Winnie the Pooh in the Hundred Acre Wood](https://www.imdb.com/title/tt3708144/) – user rating (5.3/10, 24 ratings), listed release date
+[^ref-19]: [The Digital Antiquarian – Splendid Isolation: Sierra at Mid-Decade](https://www.filfre.net/2015/08/splendid-isolation-sierra-at-mid-decade/) – Disney license bought from Texas Instruments, John Williams quotes
 [^ref-20]: [Space Quest Fandom Wiki – Mark Crowe](https://spacequest.fandom.com/wiki/Mark_Crowe_(developer)) – artist credits, development history
 [^ref-21]: [VGMPF Wiki – Commodore 64 Version](https://vgmpf.com/Wiki/index.php?title=Winnie_the_Pooh_in_the_Hundred_Acre_Wood_(C64)) – sound driver details, composer credits
 [^ref-22]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Winnie_the_Pooh_in_the_Hundred_Acre_Wood) – technical specifications, engine information
 [^ref-23]: [MobyGames – Releases](https://www.mobygames.com/game/7274/winnie-the-pooh-in-the-hundred-acre-wood/releases/) – detailed release dates by platform
-[^ref-24]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/winnie-the-pooh-in-the-hundred-acre-wood) – community interest, user comments
+[^ref-24]: [GOG.com Wishlist – Winnie the Pooh in the Hundred Acre Wood](https://www.gog.com/wishlist/games/winnie_the_pooh_in_the_hundred_acre_wood) – 331 votes, user comments
 [^ref-25]: [ClassicReload](https://classicreload.com/winnie-the-pooh-in-the-hundred-acre-wood.html) – browser playability, preservation
-[^ref-26]: [MobyGames – Adventures in the 100 Acre Wood (GBC)](https://www.mobygames.com/game/173535/disneys-winnie-the-pooh-adventures-in-the-100-acre-wood/) – later unrelated Pooh game
-[^ref-27]: [MoegamerNet – Atari ST A to Z](https://moegamer.net/2019/02/28/atari-st-a-to-z-winnie-the-pooh-in-the-hundred-acre-wood/) – retrospective perspective, Sierra context
 [^ref-28]: [Play DOS Games](https://www.playdosgames.com/online/winnie-the-pooh-in-the-hundred-acre-wood/) – publisher information, freeware status
 [^ref-29]: [Internet Archive – Commodore 64 Version](https://archive.org/details/d64_Winnie_the_Pooh_in_the_Hundred_Acre_Wood_1984_Sierra_Online) – C64 release information
+[^ref-30]: [Internet Archive – Computer and Video Games Issue 52 (February 1986)](https://archive.org/details/Computer_and_Video_Games_Issue_0052) – Keith Campbell's review of the C64 version, ratings box
+[^ref-31]: [ScummVM – AGI engine detection tables](https://github.com/scummvm/scummvm/blob/master/engines/agi/detection_tables.h) – Winnie the Pooh listed as a pre-AGI game (GAMEpre_P / GAMEpre_PO entries)
