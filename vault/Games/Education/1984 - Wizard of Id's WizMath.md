@@ -7,34 +7,35 @@ publisher: Sierra On-Line
 genre: Educational
 platforms: [ColecoVision, C64, Apple II]
 series: N/A
-engine: 6502/Z80 Assembly
+engine: Machine Language
 protagonist: Spook
 sierra_lineage: Sierra Published
-last_updated: '2026-10-11'
+last_updated: '2026-10-12'
 composer: [Paul Butler]
-description: Wizard of Id's WizMath is an educational mathematics game released in
-  1984 by Sierra On-Line, combining puzzle gameplay with characters from the beloved...
+description: Wizard of Id's WizMath is a 1984 educational mathematics game published
+  by Sierra On-Line and developed by Sydney Development Corp., starring Spook from
+  the Wizard of Id comic strip.
 tags: [1980s, educational, n-a, sierra]
 ---
 # Wizard of Id's WizMath
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Wizard of Id's WizMath is an educational mathematics game released in 1984 by Sierra On-Line, combining puzzle gameplay with characters from the beloved Wizard of Id comic strip created by Brant Parker and Johnny Hart.[^ref-1][^ref-12][^ref-16][^ref-17][^ref-19][^ref-20] The game was developed by Sydney Development Corp. and designed by Jewell Couch, Rick Banks, and Steve Armstrong, with music composed by Paul Butler.[^ref-2][^ref-7] This title represents one of Sierra's ventures into the educational software market during the early 1980s, leveraging a popular licensed property to make mathematics learning more engaging for young players.[^ref-3][^ref-9]
+Wizard of Id's WizMath is an educational mathematics game released in 1984 by Sierra On-Line, built around characters from The Wizard of Id, the comic strip created by Brant Parker and Johnny Hart.[^ref-1][^ref-12][^ref-16][^ref-19][^ref-20] The game was developed by Sydney Development Corp., with design credited to Jewell Couch, Rick Banks, and Steve Armstrong and sound by Paul Butler.[^ref-2][^ref-7] Mental Floss describes it as an "edutainment program" produced by Sierra, which later became known for King's Quest and Leisure Suit Larry.[^ref-25]
 
-The game was released simultaneously across multiple platforms including ColecoVision, Commodore 64, and Apple II, demonstrating Sierra's commitment to reaching the widest possible audience during the home computer boom.[^ref-2][^ref-13][^ref-14] Players control Spook, a character attempting to escape from the King of Id's dungeons while being pursued by the jailer Turnkey.[^ref-4] The gameplay blends Sokoban-style block-pushing mechanics with mathematical problem-solving, creating what one reviewer described as "educational math game meets sokoban puzzler."[^ref-5]
+MobyGames lists 1984 releases on ColecoVision, Commodore 64, and Apple II, all published by Sierra On-Line; the Commodore 64 version was ported by Sigma Development Group.[^ref-2][^ref-22] Players control Spook, who is trying to escape from the King of Id's dungeons while the jailer Turnkey pursues him.[^ref-4] Lemon64 user Frightmare summed it up as "Educational math game meets sokoban puzzler."[^ref-5]
 
-As a licensed title, WizMath holds the distinction of being the second game to feature one of Creators Syndicate's famous comics, bringing the medieval comedy world of the Wizard of Id to interactive entertainment.[^ref-2][^ref-10] The game has become quite rare in the collector's market, particularly for the ColecoVision version, with loose cartridges rated 8 out of 10 in rarity and complete-in-box copies rated 9 out of 10.[^ref-4][^ref-6]
+WizMath was one of two educational games built on the strip's characters in 1984, the other being Wizard of Id's WizType.[^ref-20] It was not Sierra's first game based on a Johnny Hart strip: Sydney Development's B.C.'s Quest for Tires, designed by Rick Banks and Michael Bate and published by Sierra, came out in 1983.[^ref-24] The ColecoVision cartridge is scarce today; ColecoVision Addict rates it 8 out of 10 for rarity as a loose cartridge and 9 out of 10 complete in box.[^ref-4]
 
 > [!info]- Game Info
 > **Developer:** Sydney Development Corp.[^ref-2]
-> **Designer:** Jewell Couch, Rick Banks, Steve Armstrong[^ref-2]
+> **Designer:** Jewell Couch, Rick Banks, Steve Armstrong[^ref-7]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** 6502/Z80 Assembly[^ref-2]
-> **Composer:** Paul Butler[^ref-2]
-> **Platforms:** ColecoVision, Commodore 64, Apple II[^ref-2]
+> **Engine:** Machine Language[^ref-19]
+> **Composer:** Paul Butler (sound)[^ref-7]
+> **Platforms:** ColecoVision, Commodore 64, Apple II[^ref-22]
 > **Release Year:** 1984[^ref-1]
 > **Series:** N/A
 > **Protagonist:** Spook[^ref-4]
@@ -42,143 +43,143 @@ As a licensed title, WizMath holds the distinction of being the second game to f
 
 ## Story Summary
 
-The narrative of Wizard of Id's WizMath is straightforward, befitting its educational purpose and the comic strip source material.[^ref-4] The player takes on the role of Spook, a prisoner who has managed to slip out of the King of Id's dungeons and is making a desperate bid for freedom.[^ref-4] However, his escape has not gone unnoticed—Turnkey, the vigilant jailer, is in hot pursuit and determined to recapture the fleeing prisoner.[^ref-4]
+The player takes the role of Spook, a prisoner who has slipped out of the King of Id's dungeons and is making a bid for freedom, while Turnkey, the jailer, gives chase.[^ref-4] In the comic strip, Spook is a long-term prisoner in the dungeons beneath the castle whose hobby is attempting to escape, and Turnkey is the warder posted outside his cell.[^ref-20]
 
-To make his escape, Spook must navigate through multiple floors of the dungeon, each presenting increasingly difficult challenges.[^ref-4] The dungeons are filled with mathematical puzzles that must be solved to open doors and clear pathways to freedom.[^ref-4] The higher Spook climbs through the dungeon's floors, the more complex the mathematical obstacles become, reflecting the game's educational scaling system.[^ref-4]
-
-The game features 14 floors in total, though the last two floors are reserved for editing purposes rather than standard gameplay.[^ref-2][^ref-12] This structure creates a clear progression system where players advance through the dungeon's levels while simultaneously advancing through more challenging mathematical content.[^ref-2][^ref-7] The pursuit element adds urgency to the educational gameplay, as Spook must solve problems quickly before Turnkey catches up.[^ref-4]
+The manual is written in Spook's own voice: "Call me Spook. I've escaped from my prison cell, and I'm on the run." He searches for a way out of the castle dungeon, and the elevator offers a shortcut to the surface, though "the closer I get to the top, the harder it is to avoid the jailors."[^ref-12][^ref-23] To escape, Spook must solve mathematical puzzles that open the way out, with harder problems on higher floors.[^ref-4]
 
 ## Gameplay
 
 ### Interface and Controls
 
-WizMath employs a third-person perspective with keyboard-based controls for the home computer versions.[^ref-2][^ref-3] Players guide Spook through the dungeon environments, pushing blocks around the playfield to solve mathematical equations.[^ref-4] The control scheme allows players to hold a button to slide blocks continuously, which causes them to fly across the screen until they hit a wall or another block.[^ref-4]
+Players move Spook around each dungeon cell and arrange blocks painted with numbers and mathematical symbols to form correct equations. Spook can grab a block and drag it, or kick it into place.[^ref-12] A pushed block flies until it hits a wall or another block.[^ref-4]
 
-The game supports between one and six players, allowing for classroom or family use where multiple children can take turns or compete to solve problems.[^ref-2] This multiplayer support made it particularly suitable for educational settings where teachers could involve entire groups of students.[^ref-2]
+Controls differ by version. The ColecoVision reference card covers one or two players on joysticks.[^ref-12] The Apple II reference card offers joystick or keyboard control and accepts "a number from 1 to 6" players.[^ref-23] MobyGames lists 1-6 players for the Commodore 64 version and 1-2 for ColecoVision.[^ref-21] The manual itself says "Up to six people may play WIZMATH at one time (some versions vary)."[^ref-12]
 
 ### Structure and Progression
 
-WizMath features a unique adaptive difficulty system based on the player's age.[^ref-4] At the start of the game, players are asked to enter their age, and the game uses this information to recommend an appropriate starting floor.[^ref-2][^ref-4] Older players begin on higher floors with more challenging mathematical content, while younger children start on lower floors with simpler problems.[^ref-4]
+At the start, the game asks each player's age. Age sets the starting skill level and the recommended floor (players may choose another), how many Turnkeys give chase at first, and how points are scored.[^ref-12] The manual suggests that a player who wants to practice the controls should enter an age of 4 and explore the first floor, where "There will be no Turnkeys to bother you."[^ref-12]
 
-- **Lower Floors (1-4):** Basic mathematical operations, single problem required to exit each room[^ref-4]
-- **Middle Floors (5-8):** Intermediate difficulty, multiple problems may be required[^ref-4]
-- **Upper Floors (9-12):** Advanced problems, multiple equations must be solved to progress[^ref-4]
-- **Floors 13-14:** Reserved for editing purposes[^ref-2]
+The manual describes the elevator as a shortcut to the surface, with each floor teaching "a different mathematical concept," from addition up to algebra.[^ref-12] The Apple II manual's Floor Directory lists them:[^ref-23]
 
-The elevator system serves as the primary means of navigation between floors, with higher floors presenting more difficult math problems.[^ref-4] Early levels require solving only one math problem to exit, but later levels demand that players solve two or more problems before the exit opens.[^ref-4]
+- **Floor 1:** Equality
+- **Floor 2:** Addition
+- **Floor 3:** Subtraction
+- **Floor 4:** Multiplication
+- **Floor 5:** Division
+- **Floor 6:** Exponentiation
+- **Floor 7:** Parentheses
+- **Floor 8:** Order of Operations
+- **Floor 9:** Binary Numbers
+- **Floor 10:** Hexadecimal Numbers
+- **Floor 11:** Boolean Algebra
+- **Floor 12:** Introduction to Variables*
+- **Floor 13:** Create and Save Your Own Games*
+- **Floor 14:** Play Your Own Games*
+
+Floors marked * are flagged "not in all versions" in the manual.[^ref-12][^ref-23] The Apple II box advertises "11 levels of fun with arithmetic and algebra."[^ref-23] On the Commodore 64 version, MobyGames reviewer Katakis | カタキス counted "fourteen floors, with the last two floors reserved for editing purposes."[^ref-2]
+
+When enough blocks have been used, a door opens on the right of the cell and leads to a slightly harder room. Players can also leave to the left at any time to return to the elevator.[^ref-12] Early levels require only one math problem to exit, while later levels require two or more.[^ref-4]
 
 ### Puzzles and Mechanics
 
-The core gameplay loop involves pushing numbered blocks around each room to form correct mathematical equations.[^ref-4] Players have a 60-second time limit to complete each puzzle, adding pressure and encouraging quick mental arithmetic.[^ref-4] The block-pushing mechanics add a spatial reasoning element to the mathematical challenges, as players must consider not just the correct answer but also how to physically arrange the blocks.[^ref-4]
+When an equation is formed, the blocks used in it disappear.[^ref-12] The ColecoVision Addict and MobyGames descriptions mention a sixty-second time limit.[^ref-4][^ref-2] The manual describes a bonus clock: extra points go to players who line up blocks quickly and get through the right-hand door.[^ref-12]
 
-One reviewer noted that the game is "more useful to develop multi-tasking skills than for learning math actually," highlighting the dual cognitive demands of solving equations while managing block positions and evading Turnkey.[^ref-5] This combination of mathematical problem-solving, spatial reasoning, and time pressure created a more engaging experience than simple drill-and-practice educational software.[^ref-5]
+Blocks also work against the jailers. "If you kick a block into a Turnkey, you'll knock him off his feet," and a Turnkey surrounded by blocks "can't move!"[^ref-12] Some versions reject any combination whose result goes above 99 or below -9 at any stage of evaluation.[^ref-23]
 
 ## Reception
 
 ### Contemporary Reviews
 
-WizMath received modest attention upon its release as one of many educational titles flooding the market during the early 1980s home computer boom.[^ref-2][^ref-9] The game was positioned as a way to make mathematics practice more entertaining for children by incorporating familiar comic strip characters and arcade-style gameplay elements.[^ref-4][^ref-11]
+No contemporary magazine review of WizMath has been located for this page.
 
 ### Modern Assessment
 
-Modern assessments of WizMath have been mixed, reflecting both nostalgia from those who played it as children and critical evaluation of its gameplay mechanics.[^ref-2][^ref-5] On MobyGames, user Katakis | カタキス described the game as "simple, but not very clever," while also noting that "WizMath is not a bad educational game, mixing mathematics with one of the famous comic strips."[^ref-2]
+The MobyGames user review by Katakis | カタキス, on the Commodore 64 version, is titled "Simple, but not very clever." It concludes that "WizMath is not a bad educational game, mixing mathematics with one of the famous comic strips."[^ref-2] The reviewer praised the opening cut-scene and the block-rolling effect. They faulted the age-based difficulty ("As a thirty-two year old, WizMath thought I would be better off with simple division") and the lack of automatic floor advancement.[^ref-2]
 
-On Lemon64, reviewer Frightmare gave the Commodore 64 version a score of 5 out of 10, characterizing it as an "educational math game meets sokoban puzzler" that is "more useful to develop multi-tasking skills than for learning math actually."[^ref-5] This assessment suggests the game succeeded more as a puzzle game than as a pure educational tool.[^ref-5]
+On Lemon64, Frightmare rated the Commodore 64 version 5 out of 10 in a user comment, calling it "Educational math game meets sokoban puzzler, all while escaping from a computer enemy. More useful to develop multi-tasking skills than for learning math actually..."[^ref-5]
 
-User comments on My Abandonware paint a more nostalgic picture, with user Olddantrucker recalling: "I played this at age 5 when Dad got our Commodore 64. One of my favorite education games."[^ref-3] This same user reflected on the broader software landscape of the era: "Back then software actually was software with a full variety now it's just hack n slash or for businesses only."[^ref-3]
+On My Abandonware, user Olddantrucker recalled: "I played this at age 5 when Dad got our COmmodore 64. One of my favorite education games."[^ref-3]
 
 **Aggregate Scores:**
-- **MobyGames:** 3.8 out of 5[^ref-2][^ref-7]
-- **Lemon64:** 5 out of 10 (user review)[^ref-5]
-- **My Abandonware:** 5 out of 5 (based on 2 votes)[^ref-3]
-- **PriceCharting:** Rarity 8/10 (loose), 9/10 (CIB)[^ref-6]
+- **MobyGames:** 3.8 out of 5 (5 player ratings)[^ref-2]
+- **Lemon64:** 5 out of 10 (1 vote)[^ref-5]
+- **My Abandonware:** 5 out of 5 (2 votes)[^ref-3]
 
 ## Development
 
 ### Origins
 
-Wizard of Id's WizMath emerged during a period when Sierra On-Line was actively expanding beyond its adventure game roots into the educational software market.[^ref-1] The decision to license the Wizard of Id comic strip, created by Brant Parker and Johnny Hart, gave the project instant name recognition and a built-in cast of characters to populate the game world.[^ref-3] This was the second game to feature one of Creators Syndicate's famous comics, indicating Sierra's interest in leveraging established intellectual properties for educational titles.[^ref-2]
+Sydney Development Corporation was a Canadian software company, founded in 1978, that moved from business software into publishing and developing microcomputer games.[^ref-27] It had already worked with Sierra on a Johnny Hart license. B.C.'s Quest for Tires (1983), based on Hart's B.C. strip, was developed by Sydney and published by Sierra.[^ref-24]
 
-The game was developed by Sydney Development Corp. (also referred to in some sources as Sigma Development Group for the Commodore 64 version), an external development studio contracted by Sierra.[^ref-2][^ref-5] This outsourcing arrangement was common during this period as publishers sought to rapidly expand their software libraries across multiple platforms.[^ref-2]
+The Wizard of Id began on November 9, 1964. In 1984 it was syndicated by Publishers Newspaper Syndicate/North America Syndicate, which handled the strip from 1964 to 1989; Creators Syndicate took it over in 1989.[^ref-20] The 1984 packaging credits the characters to News Group Chicago, Inc., and the reference card credits them to Field Enterprises, Inc.[^ref-23]
 
 ### Production
 
-The development team consisted of designers Jewell Couch, Rick Banks, and Steve Armstrong, who crafted the block-pushing puzzle mechanics and the mathematical progression system.[^ref-2] Paul Butler composed the game's music, contributing to the overall presentation across all platforms.[^ref-2]
+MobyGames credits for the ColecoVision version list design by Jewell Couch, Rick Banks, and Steve Armstrong; programming by Marie Degagne, Paul Mouchet, and Philip C. Kelly; art by Dan Hoecke; and sound by Paul Butler.[^ref-7] The Apple II reference card reads "Designed by Sydney Development Corp." and "Apple Version programmed by Chuck Benton."[^ref-23] The Commodore 64 version was ported by Sigma Development Group.[^ref-22]
 
-The design philosophy centered on adaptive difficulty, with the age-based starting floor system ensuring that the game would be appropriately challenging for players of different skill levels.[^ref-4] The team implemented a 14-floor structure, though the last two floors were reserved for editing purposes, suggesting the game may have included level editing capabilities or that these floors were development tools that remained in the final release.[^ref-2]
+The accompanying "WIZMATH Guide," titled "Your Guide to Mathemagic!", is credited in the manual to W. Edward Willy, PhD and Annette Childs. It explains the concept taught on each floor.[^ref-12][^ref-23]
 
-**Development Credits:**[^ref-2]
+**Development Credits (ColecoVision):**[^ref-7]
 - **Designers:** Jewell Couch, Rick Banks, Steve Armstrong
-- **Composer:** Paul Butler
+- **Programming:** Marie Degagne, Paul Mouchet, Philip C. Kelly
+- **Art:** Dan Hoecke
+- **Sound:** Paul Butler
 
 ### Technical Achievements
 
-Wizard of Id's WizMath delivered several notable engineering choices for an early-1984 educational title. The release **licensed the syndicated Wizard of Id comic strip characters** for in-game use — uncommon for educational software of the era and a meaningful brand-licensing investment[^ref-1][^ref-2]. The product was distributed across **multiple platforms** (Apple II, Commodore 64, Atari 8-bit) requiring parallel platform-specific ports tuned to each hardware's distinct color, sound, and memory profile[^ref-2]. Original musical scoring by Paul Butler and dedicated character animation pipelines (Jewell Couch as lead designer, with Rick Banks and Steve Armstrong) reflected real audio-visual production investment beyond typical educational software[^ref-2]. The product targeted **basic-math instruction (arithmetic operations)** via gamified character-driven mini-games — an unusual integration of licensed comic IP into the K-12 educational software market[^ref-1].
+In versions that include it, Floor 13 lets players build their own games. The Apple II manual says they "get to set up your own games to save and play" using a chart of available blocks, with any number "greater than -10 and less than 50."[^ref-23] On the Apple II, a control key "Lists all files on the disk, including your own lessons (Floor 14 only)," and the game shows a graph of previous scores for returning players.[^ref-23] Sierra Chest lists the game's engine simply as "Machine Language."[^ref-19]
 
 ### Technical Specifications
 
-The game was released in multiple formats to accommodate the diverse home computer market of 1984.[^ref-2]
-
-**ColecoVision Version:**[^ref-4]
-- **ROM Size:** 16 KB
-- **Media:** Cartridge[^ref-6]
+**ColecoVision Version:**
+- **Media:** Cartridge[^ref-4]
+- **ROM Size:** 16 KB[^ref-4]
 - **MD5 Hash:** 3b22824d1910226582a5d8dddc0b2feb[^ref-4]
+- **Players:** 1-2[^ref-21]
 
-**Commodore 64 Version:**[^ref-5]
-- **Media:** Disk/Tape[^ref-5]
-- **File Size:** Approximately 20 KB[^ref-3]
-- **Perspective:** 3rd-Person[^ref-3]
+**Commodore 64 Version:**
+- **Media:** Floppy Disk[^ref-21]
+- **Input:** Keyboard, digital joystick[^ref-21]
+- **Players:** 1-6[^ref-21]
 
-**Apple II Version:**[^ref-2]
-- **Media:** Floppy Disk[^ref-2]
-- **Input:** Keyboard[^ref-2]
-- **Players:** 1-6[^ref-2]
+**Apple II Version:**
+- **Requirements:** Apple II/II+/IIe/IIc, 48K, disk[^ref-23]
+- **Input:** Joystick or keyboard[^ref-23]
+- **Players:** 1-6[^ref-23]
 
 ### Technical Issues
 
-The MobyGames review notes a significant design flaw: "Game doesn't let you advance a floor automatically after solving equations" and players "must restart game to get to elevator again."[^ref-2] This issue disrupted the flow of gameplay and could frustrate players who successfully completed a floor's challenges.[^ref-2]
+The MobyGames reviewer complained that the game "doesn't let you advance a floor automatically after you solve enough equations. You have to restart the game to get to the elevator again."[^ref-2] The manuals, however, say a player can exit a cell to the left at any time to return to the elevator, and the Apple II reference card lists a key that "Returns to elevator from a cell."[^ref-12][^ref-23]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1983/1984 | ColecoVision | Initial cartridge release[^ref-6] |
-| 1.0 | 1984 | Commodore 64 | Disk/Tape version[^ref-5] |
-| 1.0 | 1984 | Apple II | Floppy disk version[^ref-2] |
+| 1.0 | 1984 | ColecoVision | Cartridge[^ref-22][^ref-4] |
+| 1.0 | 1984 | Commodore 64 | Floppy disk; ported by Sigma Development Group[^ref-22][^ref-21] |
+| 1.0 | 1984 | Apple II | 48K disk; programmed by Chuck Benton[^ref-22][^ref-23][^ref-26] |
 
-Note: PriceCharting lists an initial release date of January 1, 1983 for the ColecoVision version, though most sources cite 1984.[^ref-1][^ref-6]
+Note: PriceCharting lists a release date of January 1, 1983 for the ColecoVision version. MobyGames, Sierra Chest, and IGDB all give 1984, and the packaging is copyrighted 1984.[^ref-6][^ref-2][^ref-19][^ref-16][^ref-23]
 
 ### Easter Eggs and Trivia
 
-- **Age-Based Difficulty:** The game asks the player's age at startup and automatically recommends a starting floor based on the response, with older players beginning on higher, more difficult floors.[^ref-2][^ref-4]
-- **Second Licensed Comic Game:** WizMath holds the distinction of being the second game to feature one of Creators Syndicate's famous comic strips.[^ref-2]
-- **Block Physics:** Blocks pushed by the player will fly continuously until they hit a wall or another block, requiring careful planning.[^ref-4]
-- **Escalating Complexity:** Early levels require solving only one equation to exit, while later levels require two or more complete solutions.[^ref-4]
+- **Age-Based Difficulty:** Age also changes scoring. In the Apple II manual's example, an 8-year-old earns more points than a 12-year-old sister for creating the same equations.[^ref-23]
+- **Practice Mode:** Telling the game you are 4 years old gives a first floor with no Turnkeys.[^ref-12]
+- **Block Physics:** Pushed blocks fly until they hit a wall or another block.[^ref-4]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Sales data for WizMath is limited, though the game's current rarity in the collector's market provides some insight into its original distribution.[^ref-6] According to PriceCharting, the ColecoVision version sees approximately 2 sales per year for loose cartridges and only 1 sale per year for complete-in-box copies, with new sealed copies being extremely rare.[^ref-6]
-
-The game's collector rarity is rated 8 out of 10 for loose cartridges and 9 out of 10 for complete-in-box copies on the ColecoVision Addict database, indicating that WizMath was likely produced in limited quantities or simply did not sell well enough to have many copies survive to the present day.[^ref-4][^ref-14][^ref-15]
+No sales figures for WizMath have been found. On the collector market, PriceCharting reports about 2 sales per year for loose ColecoVision cartridges and 1 sale per year for complete-in-box and new copies.[^ref-6]
 
 ### Genre Classification
 
-WizMath occupies an interesting position in gaming history as an early example of "edutainment"—software designed to make learning entertaining.[^ref-3] The game's themes are classified as Arcade, Licensed Title, and Math/Logic, reflecting its hybrid nature.[^ref-3] Its genres are listed as Educational and Puzzle, highlighting the dual purpose of the software.[^ref-3]
+Mental Floss calls WizMath an "edutainment program."[^ref-25] My Abandonware classifies it under the Educational and Puzzle genres, with Arcade, Licensed Title, and Math / Logic themes.[^ref-3]
 
 ### Critical Perspective
 
-Wizard of Id's WizMath represents an important moment in Sierra On-Line's history as the company explored markets beyond adventure gaming.[^ref-1][^ref-9] While Sierra would become legendary for titles like King's Quest and Space Quest, the company also invested in educational software during the early-to-mid 1980s, recognizing the potential of home computers as learning tools.[^ref-1][^ref-10]
-
-The game's combination of licensed characters, puzzle mechanics, and educational content anticipated later developments in edutainment software.[^ref-3][^ref-11] However, its relatively simple design and the noted flaw of not automatically advancing floors suggest that educational game design was still in its infancy.[^ref-2][^ref-7] The block-pushing mechanics would later be refined and popularized in games like Sokoban (1982) and its countless successors.[^ref-5]
-
-Modern players may find WizMath most interesting as a historical curiosity—a snapshot of early attempts to make educational software engaging through the incorporation of arcade-style elements and popular licensed characters.[^ref-3][^ref-8] Its multi-player support for up to six players also makes it noteworthy as an early example of software designed for classroom or family group use.[^ref-2][^ref-12]
-
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+WizMath was part of Sierra's early-1980s educational line alongside WizType, and it was the second Sierra/Sydney game based on a Johnny Hart strip, after B.C.'s Quest for Tires.[^ref-10][^ref-20][^ref-24] Instead of having players type answers, it makes them build equations by pushing blocks. The MobyGames reviewer called this "unique" among math games.[^ref-2] Its support for up to six players on the computer versions, with a saved score graph for each player on the Apple II, made it usable for family or group play.[^ref-12][^ref-23]
 
 ## Downloads
 
@@ -192,6 +193,7 @@ Modern players may find WizMath most interesting as a historical curiosity—a s
 
 **Manuals & Extras**
 - [ColecoVision Manual](https://archive.org/details/Wizard_of_Ids_Wizmath_1984_Sierra_On-Line) – Original instruction manual[^ref-1]
+- [Apple II Manual and Packaging](https://archive.org/details/stx_Sierra_On-Line_Wizard_of_Ids_WizMath) – Box, reference card and manual scans[^ref-23]
 - [ColecoVision Addict](https://cvaddict.com/profile.php?gameid=137) – Game profile and ROM information[^ref-4]
 
 ## See Also
@@ -206,23 +208,22 @@ Modern players may find WizMath most interesting as a historical curiosity—a s
 
 ## References
 
-[^ref-1]: [Internet Archive – Wizard of Id's WizMath Manual](https://archive.org/details/Wizard_of_Ids_Wizmath_1984_Sierra_On-Line) – publication metadata, release date, publisher information
-[^ref-2]: [MobyGames – Wizard of Id's WizMath](https://www.mobygames.com/game/41277/wizard-of-ids-wizmath/) – credits, platforms, user reviews, technical specifications, trivia about floors and comic strip licensing
-[^ref-3]: [My Abandonware – Wizard of Id's WizMath](https://www.myabandonware.com/game/wizard-of-id-s-wizmath-56g) – user comments, genre classification, themes, file size
-[^ref-4]: [ColecoVision Addict – Wizard of Id's WizMath](https://cvaddict.com/profile.php?gameid=137) – gameplay mechanics, rarity ratings, ROM specifications, story description, adaptive difficulty system
-[^ref-5]: [Lemon64 – Wizard of Id's WizMath](https://www.lemon64.com/game/wizard-of-ids-wizmath) – Commodore 64 information, user review by Frightmare, developer credit for Sigma Development Group
-[^ref-6]: [PriceCharting – Wizard of Id's Wiz Math](https://www.pricecharting.com/game/colecovision/wizard-of-id's-wiz-math) – sales data, pricing history, early release date information, collector market data
+[^ref-1]: [Internet Archive – Wizard of Id's WizMath Manual](https://archive.org/details/Wizard_of_Ids_Wizmath_1984_Sierra_On-Line) – ColecoVision manual scan; publisher and 1984 release
+[^ref-2]: [MobyGames – Wizard of Id's WizMath](https://www.mobygames.com/game/41277/wizard-of-ids-wizmath/) – platforms, developer, official description, player score, user review by Katakis | カタキス
+[^ref-3]: [My Abandonware – Wizard of Id's WizMath](https://www.myabandonware.com/game/wizard-of-id-s-wizmath-56g) – user comments, genre and theme classification
+[^ref-4]: [ColecoVision Addict – Wizard of Id's WizMath](https://cvaddict.com/profile.php?gameid=137) – description, rarity ratings, ROM size and MD5
+[^ref-5]: [Lemon64 – Wizard of Id's WizMath](https://www.lemon64.com/game/wizard-of-ids-wizmath) – Commodore 64 entry, user comment by Frightmare (5/10)
+[^ref-6]: [PriceCharting – Wizard of Id's Wiz Math](https://www.pricecharting.com/game/colecovision/wizard-of-id's-wiz-math) – sales volume, listed release date
 [^ref-7]: [MobyGames – Wizard of Id's WizMath Credits](https://www.mobygames.com/game/41277/wizard-of-ids-wizmath/credits/colecovision/) – ColecoVision version development credits
-[^ref-8]: Wikidata – Wizard of Id's WizMath *(link removed: it led to a different game's page)* – structured data, identifiers
-[^ref-9]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
-[^ref-10]: [Apple II Bits – Wizard of Id](https://www.apl2bits.net/2014/02/03/wizard-of-id/) – context on Wizard of Id Sierra games
-[^ref-11]: [Sierra Gamers – Wizard of Id WizMath](https://www.sierragamers.com/wizard-of-id-wizmath/) – Sierra fan community entry
-[^ref-12]: [Internet Archive – Full Manual Text](https://archive.org/stream/Wizard_of_Ids_Wizmath_1984_Sierra_On-Line/Wizard_of_Ids_Wizmath_1984_Sierra_On-Line_djvu.txt) – complete manual transcription
-[^ref-13]: [Retrolorean – Wizard of Id's WizMath](https://www.retrolorean.com/en/wizard-of-ids-wizmath-11081) – game database entry
-[^ref-14]: [GameFAQs – Wizard of Id's WizMath](https://gamefaqs.gamespot.com/colecovision/579499-wizard-of-ids-wizmath) – ColecoVision game database
-[^ref-15]: [AtariAge – ColecoVision Games](https://atariage.com/software_page.php?SystemID=COLECOVISION) – ColecoVision software catalog
-[^ref-16]: [IGDB – Wizard of Id's WizMath](https://www.igdb.com/games/wizard-of-ids-wizmath) — Internet Games Database entry, multi-platform release confirmation
-[^ref-17]: [LaunchBox Games Database – WizMath](https://gamesdb.launchbox-app.com/games/details/wizard-of-ids-wizmath) — community-curated metadata, cover-art reference
-[^ref-19]: [Sierra Chest – Wizard of Id's WizMath product page](https://sierrachest.com/index.php?a=games&id=297) — Sierra Chest packaging archive and release-info documentation
-[^ref-20]: [Wikipedia – The Wizard of Id](https://en.wikipedia.org/wiki/The_Wizard_of_Id) – comic strip created by Brant Parker and Johnny Hart
-
+[^ref-10]: [Apple II Bits – Wizard of Id](https://www.apl2bits.net/2014/02/03/wizard-of-id/) – context on the two Wizard of Id Sierra games
+[^ref-12]: [Internet Archive – Full Manual Text](https://archive.org/stream/Wizard_of_Ids_Wizmath_1984_Sierra_On-Line/Wizard_of_Ids_Wizmath_1984_Sierra_On-Line_djvu.txt) – ColecoVision manual and reference card transcription
+[^ref-16]: [IGDB – The Wizard of Id's Wiz Math](https://www.igdb.com/games/the-wizard-of-ids-wiz-math) – database entry; Sydney Development Corp., 1984
+[^ref-19]: [Sierra Chest – Wizmath](https://sierrachest.com/index.php?a=games&id=364) – first release 1984, engine "Machine Language"
+[^ref-20]: [Wikipedia – The Wizard of Id](https://en.wikipedia.org/wiki/The_Wizard_of_Id) – creators, 1964 debut, syndicates (Publishers/North America 1964–1989, Creators 1989–present), Spook and Turnkey, 1984 games
+[^ref-21]: [MobyGames – Wizard of Id's WizMath Specs](https://www.mobygames.com/game/41277/wizard-of-ids-wizmath/specs/) – ColecoVision 1-2 players; Commodore 64 floppy, keyboard/joystick, 1-6 players
+[^ref-22]: [MobyGames – Wizard of Id's WizMath Releases](https://www.mobygames.com/game/41277/wizard-of-ids-wizmath/releases/) – 1984 releases on Apple II, ColecoVision, Commodore 64; C64 ported by Sigma Development Group
+[^ref-23]: [Internet Archive – Sierra On-Line Wizard of Id's WizMath (Apple II box, reference card and manual)](https://archive.org/details/stx_Sierra_On-Line_Wizard_of_Ids_WizMath) – Apple II requirements, Chuck Benton credit, Floor Directory, copyright lines
+[^ref-24]: [Wikipedia – B.C.'s Quest for Tires](https://en.wikipedia.org/wiki/B.C.%27s_Quest_for_Tires) – 1983 Sydney Development/Sierra game designed by Rick Banks and Michael Bate
+[^ref-25]: [Mental Floss – 8 Things You Might Not Know About The Wizard of Id](https://www.mentalfloss.com/article/547589/facts-about-the-wizard-of-id) – "edutainment program" produced by Sierra in 1984
+[^ref-26]: [Internet Archive – The Wizard of Id's WizMath (Apple II preservation)](https://archive.org/details/WizMath4amCrack) – Apple II release, 1984, distributed by Sierra On-Line
+[^ref-27]: [Wikipedia – Sydney Development Corporation](https://en.wikipedia.org/wiki/Sydney_Development_Corporation) – Canadian software company founded 1978, early microcomputer game publisher
