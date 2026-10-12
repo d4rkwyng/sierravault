@@ -121,7 +121,6 @@ Modern franchise revivals have pointedly ignored this entry's existence, with su
 - Not currently available on major digital platforms[^ref-58]
 
 **Download / Preservation**
-- [My Abandonware](https://www.myabandonware.com/game/leisure-suit-larry-box-office-bust-iv8)[^ref-50]
 - [Internet Archive](https://archive.org/details/leisure-suit-larry-box-office-bust-2009.w)[^ref-7]
 
 ## See Also
@@ -166,7 +165,7 @@ Modern franchise revivals have pointedly ignored this entry's existence, with su
 [^ref-45]: https://www.mobygames.com/game/39933/leisure-suit-larry-box-office-bust/releases/ - MobyGames release information across platforms
 [^ref-48]: https://www.mobygames.com/game/39933/leisure-suit-larry-box-office-bust/ - MobyGames comprehensive database entry with credits
 [^ref-49]: https://www.myabandonware.com/search/q/Leisure+Suit+Larry%3A+Box+Office+Bust - MyAbandonware search results
-[^ref-50]: https://www.myabandonware.com/game/leisure-suit-larry-box-office-bust-iv8 - MyAbandonware download page with user ratings
+[^ref-50]: MyAbandonware – Box Office Bust (download link removed: package reportedly includes a crack) - user ratings
 [^ref-52]: https://newqualitipedia.telepedia.net/wiki/Leisure_Suit_Larry:_Box_Office_Bust - Quality wiki focusing on negative aspects
 [^ref-54]: https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Box_Office_Bust - PC Gaming Wiki technical reference
 [^ref-55]: https://www.reddit.com/r/gog/comments/1kg2yo4/i_spent_the_last_2_weeks_playing_every_leisure/ - Reddit comprehensive franchise review
