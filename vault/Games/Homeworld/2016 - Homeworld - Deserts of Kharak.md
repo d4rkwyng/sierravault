@@ -159,7 +159,7 @@ The guide features eleven sections covering different story aspects with develop
 
 [^ref-1]: [Homeworld Fandom Wiki](https://homeworld.fandom.com/wiki/Homeworld:_Deserts_of_Kharak) – - Game timeline and setting information
 [^ref-2]: [Hey Poor Player](https://www.heypoorplayer.com/2016/06/21/homeworld-deserts-of-kharak-now-available-on-mac/) – - Developer background and Mac release announcement
-[^ref-3]: [God is a Geek](https://www.godisageek.com/reviews/homeworld-deserts-of-kharak-review/) – - Game setting departure from space-based gameplay
+[^ref-3]: [God is a Geek](https://web.archive.org/web/2017/https://www.godisageek.com/reviews/homeworld-deserts-of-kharak-review/) – - Game setting departure from space-based gameplay
 [^ref-4]: [Games Industry](http://www.gamesindustry.biz/articles/2013-09-02-gearbox-had-no-clear-path-for-homeworld-ip-invests-in-blackbirds-shipbreakers) – - THQ bankruptcy auction and IP acquisition details
 [^ref-5]: [GameSpot Review](https://www.gamespot.com/reviews/homeworld-deserts-of-kharak-review/1900-6416335/) – - Core gameplay translation analysis
 [^ref-6]: [Steam Store Page](http://store.steampowered.com/app/281610/) – - Release date and basic game information

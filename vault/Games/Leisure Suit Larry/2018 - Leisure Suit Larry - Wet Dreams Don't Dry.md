@@ -145,7 +145,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-1]: [Wikipedia - Leisure Suit Larry: Wet Dreams Don't Dry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don%27t_Dry) – - Release year and series information
 [^ref-2]: [MobyGames Database Entry](https://www.mobygames.com/game/116522/leisure-suit-larry-wet-dreams-dont-dry/) – - Developer and publisher information
 [^ref-3]: [TV Tropes Game Page](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeisureSuitLarryWetDreamsDontDry) – - Time travel concept and setting
-[^ref-4]: [God is a Geek Review](https://godisageek.com/reviews/leisure-suit-larry-wet-dreams-dry-review/) – - Fish-out-of-water concept analysis
+[^ref-4]: [God is a Geek Review](https://web.archive.org/web/20190620225239/https://www.godisageek.com/reviews/leisure-suit-larry-wet-dreams-dry-review/) – - Fish-out-of-water concept analysis
 [^ref-5]: [Wikipedia Article](https://en.wikipedia.org/wiki/Leisure_Suit_Larry%3A_Wet_Dreams_Don%27t_Dry) – - Metacritic scores and platform information
 [^ref-6]: [Destructoid Review](https://www.destructoid.com/review-leisure-suit-larry-wet-dreams-don-t-dry-529872.phtml) – - Contemporary review analysis
 [^ref-7]: [IMDb Trivia](https://www.imdb.com/title/tt9175418/trivia/) – - Al Lowe involvement details

@@ -233,7 +233,7 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 [^ref-11]: [RAWG Technical Specs](https://rawg.io/games/cognition-episode-1) - Platform information, system requirements
 [^ref-12]: [Skich](https://skich.app/games/cognition-an-erica-reed-thriller-episode-1-the-hangman) - Psychic powers description
 [^ref-13]: [IMDb Plot](https://www.imdb.com/title/tt2481284/) - Story summary
-[^ref-14]: [God is a Geek](https://www.godisageek.com/2013/01/cognition-erica-reed-thriller-episode-1-hangman-review/) - Narrative description, dark themes
+[^ref-14]: [God is a Geek](https://web.archive.org/web/20130107124146/https://www.godisageek.com/2013/01/cognition-erica-reed-thriller-episode-1-hangman-review/) - Narrative description, dark themes
 [^ref-15]: [Steam Community Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=252409615) - Episode release dates, César Bittar roles
 [^ref-17]: [Softonic Review](https://cognition-an-erica-reed-thriller-episode-1-the-hangman.en.softonic.com/) - Softonic rating and description
 [^ref-18]: [1000 Guías Blogspot](https://1000guias.blogspot.com/) - Spanish walkthrough with ability description
