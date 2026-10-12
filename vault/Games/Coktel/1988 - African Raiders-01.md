@@ -1,7 +1,7 @@
 ---
 title: African Raiders-01
 release_year: 1988
-developer: Coktel Vision
+developer: Coktel Vision / Inférence
 designer: [Philippe Lamarque, Yannick Chosse]
 publisher: Tomahawk
 genre: Racing
@@ -10,34 +10,35 @@ series: Standalone
 engine: Proprietary (Coktel Vision)
 protagonist: Rally Driver
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-05-08'
+last_updated: '2026-10-11'
 composer: [François Peirano]
-description: African Raiders-01 is an arcade-style racing simulation that immerses
-  players in the dusty, unforgiving world of the Paris-Dakar Rally. Developed by French...
+description: African Raiders-01 is an arcade-style racing simulation of the African
+  stages of the Paris-Dakar Rally, developed by Coktel Vision and Inférence and published
+  under Coktel's Tomahawk label in 1988-1989.
 tags: [1980s, coktel, racing, sierra, standalone]
 ---
 # African Raiders-01
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-African Raiders-01 is an arcade-style racing simulation that immerses players in the dusty, unforgiving world of the Paris-Dakar Rally[^ref-1]. Developed by French software house [[Coktel Vision]] and published by Tomahawk in 1988-1989, the game attempts to recreate the African leg of the legendary 11th Paris-Dakar rally route[^ref-2]. The title reflects the game's focus on the most challenging portion of the famous endurance race, taking players through Tunisia, Algeria, Niger, Burkina Faso, Mali, and Senegal across five grueling stages totaling over 22,000 virtual kilometers[^ref-3].
+African Raiders-01 is an arcade-style racing simulation that immerses players in the dusty, unforgiving world of the Paris-Dakar Rally[^ref-1]. Developed by French software house [[Coktel Vision]] and published in 1988-1989 under Tomahawk, a label Coktel Vision used for its simulation and erotic games[^ref-21], the game attempts to recreate the African leg of the legendary 11th Paris-Dakar rally route[^ref-2]. The title reflects the game's focus on the most challenging portion of the famous endurance race, taking players through Tunisia, Algeria, Niger, Burkina Faso, Mali, and Senegal across five grueling stages totaling over 22,000 virtual kilometers[^ref-1][^ref-3]. The game predates Sierra On-Line's acquisition of Coktel Vision, which was finalised on 29 October 1993[^ref-21].
 
-Racing games were legion in the 1980s, still struggling to differentiate themselves from arcade machines, but with the progression of home computers, color graphics and a sense of speed were enough to satisfy most players[^ref-4]. African Raiders-01 represented an ambitious attempt to bring the off-road rally experience to home computers, featuring a third-person "behind the car" perspective and pseudo-3D graphics that some contemporary critics praised as technically impressive for its era[^ref-5]. The game was released across multiple platforms including DOS, Amiga, and Atari ST, with regional distribution handled by Bomico in Germany and System 4 de España in Spain[^ref-4].
+Racing games were legion in the 1980s, still struggling to differentiate themselves from arcade machines, but with the progression of home computers, color graphics and a sense of speed were enough to satisfy most players[^ref-4]. African Raiders-01 represented an ambitious attempt to bring the off-road rally experience to home computers, featuring a third-person "behind the car" perspective and pseudo-3D graphics that the Russian retro site Old-Games.RU later judged among the most technologically "powerful" racers of its time[^ref-5]. The game was released across multiple platforms including DOS, Amiga, and Atari ST[^ref-2][^ref-20], with regional distribution handled by Bomico in Germany and System 4 de España in Spain[^ref-4].
 
-Despite its technical aspirations, the game received a decidedly mixed reception. While some reviewers appreciated its high-standard graphics (particularly on French systems) and straightforward approach to rally racing[^ref-6], others found the controls frustrating and the gameplay repetitive[^ref-7]. Modern retrospectives have been particularly harsh, with one critic describing it as "a borderline unplayable mess of a racer with sparse, ugly graphics, terrible sound and near zero playability"[^ref-8].[^ref-20][^ref-20]
+Despite its technical aspirations, the game received a decidedly mixed reception. *Amiga Format* praised its graphics and *CU Amiga* its lack of fiddly pre-race setup, though *CU Amiga* also found it boring[^ref-6]. Later user comments have been particularly harsh, with one Lemon Amiga user describing it as "a borderline unplayable mess of a racer with sparse, ugly graphics, terrible sound and near zero playability"[^ref-8].
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]], Inférence[^ref-2]
 > **Designer:** Philippe Lamarque, Yannick Chosse
 > **Publisher:** [[Tomahawk]][^ref-2]
-> **Engine:** Unknown
+> **Engine:** Proprietary (Coktel Vision)
 > **Platforms:** DOS, Amiga, Atari ST[^ref-2]
 > **Release Year:** 1988 (Atari ST), 1989 (DOS, Amiga)[^ref-2]
-> **Series:** None
+> **Series:** Standalone
 > **Protagonist:** Unnamed rally driver
-> **Sierra Lineage:** Third Party (Coktel Vision)
+> **Sierra Lineage:** Sierra Label (Coktel)
 
 ## Story Summary
 
@@ -45,7 +46,7 @@ African Raiders-01 eschews traditional narrative in favor of a sports simulation
 
 The premise centers on conquering the sands of the Sahara while maintaining good times across each stage and ultimately finishing first at the destination of Dakar[^ref-2]. Players must navigate through multiple African nations, following a route that begins in Tunis and winds through In Salah (Algeria), Ouallene, Achegour (Niger), Niamey, Ouagadougou (Burkina Faso), Bamako (Mali), and finally to Dakar in Senegal[^ref-6]. The game features real driver names from the 1989 Paris-Dakar rally, adding an element of authenticity to the competition[^ref-5].
 
-The journey presents various environmental challenges that would be familiar to actual rally competitors. Players must contend with quicksand, nomadic settlements, camels crossing the track, and towering sand dunes that threaten to swallow their vehicle[^ref-6]. When players lose their way, they find themselves alone in the sands and begin to skid, emphasizing the harsh reality of desert navigation where a wrong turn could prove catastrophic[^ref-11].
+The journey presents various environmental challenges that would be familiar to actual rally competitors. Players must contend with quicksand, nomadic settlements represented by herds of resting camels, and high sculptured dunes[^ref-6]. When players lose their way, they find themselves alone in the sands and begin to skid, emphasizing the harsh reality of desert navigation where a wrong turn could prove catastrophic[^ref-11].
 
 ## Gameplay
 
@@ -53,7 +54,7 @@ The journey presents various environmental challenges that would be familiar to 
 
 African Raiders-01 presents a third-person perspective from behind the vehicle, providing players with a view of their car and the desert terrain stretching ahead[^ref-2]. The interface includes several navigation instruments essential for desert rally driving: a digital compass for orientation, a satellite navigation system, a fuel gauge to monitor remaining resources, and a grid reference system for tracking position[^ref-6].
 
-The control scheme requires players to first start their engine by pressing the J key, after which they can accelerate using the forward directional key[^ref-4]. The game can be run under DOSBox using the RUN.BAT file for modern systems[^ref-4]. One reviewer noted that the controls appeared to be "clearly designed by someone who hates you," highlighting the difficulty many players experienced with the vehicle handling[^ref-7].
+The control scheme requires players to first start their engine by pressing the J key, after which they can accelerate using the forward directional key[^ref-4]. The game can be run under DOSBox using the RUN.BAT file for modern systems[^ref-4].
 
 ### Structure and Progression
 
@@ -71,34 +72,33 @@ Players must complete each stage within time limits while competing against othe
 
 Rather than traditional puzzles, African Raiders-01 focuses on navigation and driving mechanics. The core challenge involves following the correct route through the desert, which is marked by petroleum barrel (oil drum) markers[^ref-4]. Straying from the marked path can result in becoming lost in the vast desert expanse, where the player's vehicle will begin to skid in the loose sand[^ref-11].
 
-The game offers two driving modes with distinct characteristics: 4x4 (four-wheel drive) mode limits maximum speed to approximately 87 km/h (or 80 kph according to some sources) but provides better traction on difficult terrain, while 4x2 mode allows higher speeds up to 240 kph but offers less control on sandy surfaces[^ref-6][^ref-12]. Players must strategically switch between these modes depending on the terrain they encounter.
+The game offers two driving modes, 4x2 and 4x4. *Amiga Computing* describes four-wheel drive as the way out of quicksand, at the cost of dropping from a maximum 240 kph to 80 kph[^ref-6]; Free Game Empire's description instead gives 87 MPH for 4x4 mode[^ref-12], and MobyGames gives the figure 87 with no unit[^ref-2]. Players must strategically switch between these modes depending on the terrain they encounter.
 
-One significant gameplay element involves the physical map that shipped with the retail release. According to user reports, the game requires this original map to complete successfully, as navigation would be nearly impossible without it[^ref-13]. This served as a form of copy protection common in the era while also adding to the simulation authenticity.
+One significant gameplay element involves the physical map that shipped with the retail release. According to a user comment on My Abandonware, the game requires this map, without which it cannot be finished[^ref-13]. *Amiga Computing* notes that the supplied map of North West Africa plots the landmarks fairly accurately, making off-track shortcuts possible[^ref-6].
 
 ## Reception
 
 ### Contemporary Reviews
 
-African Raiders-01 received mixed reviews from contemporary gaming publications, with scores ranging considerably depending on the platform and reviewer. Jeff Walker of *Amiga Computing* gave the game a relatively favorable 79% in the September 1989 issue (Vol 2 No 4)[^ref-8]. Andy Smith's review in the inaugural issue of *Amiga Format* (August 1989) awarded 68%, with individual category scores of 8 for graphics, 7 for sound, 3 for intellect, and 6 for addiction[^ref-6].
+African Raiders-01 received mixed reviews from contemporary gaming publications, with scores ranging considerably depending on the platform and reviewer. Jeff Walker of *Amiga Computing* gave the game a relatively favorable 79% in the September 1989 issue (Vol 2 No 4)[^ref-8][^ref-22]. Andy Smith's review in the inaugural issue of *Amiga Format* (August 1989) awarded 68%, with individual category scores of 8 for graphics, 7 for sound, 3 for intellect, and 6 for addiction[^ref-6].
 
-More critical assessments came from *CU Amiga*, where Mark Heley awarded only 51% in August 1989, with notably low marks for playability (43) and lastability (47)[^ref-8]. *The Games Machine* issue 21 (August 1989) similarly rated the game at 53%[^ref-8]. Swedish publication *Datormagazin* offered a middle-ground assessment of 7/10 from reviewer Mathias Thinsz in their August 1989 issue[^ref-8].
+More critical assessments came from *CU Amiga*, where Mark Heley awarded only 51% in August 1989, with notably low marks for playability (43) and lastability (47)[^ref-8]. *The Games Machine* issue 21 (August 1989) similarly rated the Amiga and Atari ST versions at 53% and the PC version at 48%[^ref-8][^ref-22]. Swedish publication *Datormagazin* offered a middle-ground assessment of 7/10 from reviewer Mathias Thinsz in their August 1989 issue, and Mike Pattenden reviewed the Atari ST version for *ACE* issue 23, scoring it 680[^ref-8][^ref-22].
 
-One reviewer praised that "as you might expect from the French, the graphics are of a high standard," while also noting that "African Raiders scores points here. You are straight off a rally stage without a single tyre pressure measured or gasket cantilevered," appreciating the immediate gameplay without extensive setup[^ref-6]. However, another contemporary review delivered the harsh verdict that "sadly, repeats of Howard's Way are more interesting"[^ref-6].
+Andy Smith's *Amiga Format* review observed that "as you might expect from the French, the graphics are of a high standard," and called it "an extremely enjoyable, if not outstanding, car racing game"[^ref-6]. Mark Heley's *CU Amiga* review credited it with skipping pre-race tinkering ("African Raiders scores points here. You are straight off a rally stage without a single tyre pressure measured or gasket cantilevered") but closed with the verdict: "Sadly, repeats of Howard's Way are more interesting"[^ref-6].
 
 ### Modern Assessment
 
 Modern retrospectives have generally been less kind to African Raiders-01. The game holds a critics' average of 58% on MobyGames based on 10 ratings, with a player rating of 2.6 out of 5 based on 11 ratings[^ref-2]. Abandonware DOS users have rated it 3.11 out of 5 from 19 votes, while My Abandonware shows a slightly higher user rating of 3.89 out of 5 from 18 votes[^ref-7][^ref-13].
 
-User reviews on the Lemon Amiga database have been particularly critical. One user declared it "a borderline unplayable mess of a racer with sparse, ugly graphics, terrible sound and near zero playability. AVOID!"[^ref-8]. Another commented that "it still baffles me that developers back in the eighties and nineties were able to release games that were nigh unplayable. These days games get released unfinished, but here's one where even the core game mechanic doesn't work: It's impossible to stay on the track"[^ref-8].
+User comments on the Lemon Amiga database have been particularly critical. One user, Thelead (2024), declared it "a borderline unplayable mess of a racer with sparse, ugly graphics, terrible sound and near zero playability. AVOID!"[^ref-8]. Another, ReTroViRuS (2007), commented that "it still baffles me that developers back in the eighties and nineties were able to release games that were nigh unplayable. These days games get released unfinished, but here's one where even the core game mechanic doesn't work: It's impossible to stay on the track"[^ref-8].
 
-Technical issues with the Amiga port have been specifically identified, with one reviewer noting that "they didn't even bother to shift the 3 bit RGB Atari ST palette values to make it look proper (it's too dark) on Amiga (which was RGB 4 bit)"[^ref-8], indicating a rushed conversion process.
+Technical issues with the Amiga port have been specifically identified, with Lemon Amiga user hitchhikr noting that "they didn't even bother to shift the 3 bit RGB Atari ST palette values to make it look proper (it's too dark) on Amiga (which was RGB 4 bit)"[^ref-8], indicating a rushed conversion process.
 
 **Aggregate Scores:**
 - **MobyGames:** 58% critics average (10 ratings), 2.6/5 player rating (11 ratings)[^ref-2]
 - **Abandonware DOS:** 3.11/5 (19 votes)[^ref-7]
 - **My Abandonware:** 3.89/5 (18 votes)[^ref-13]
 - **Lemon Amiga:** 64% average magazine rating[^ref-8]
-- **Free Game Empire:** 1/5 user rating[^ref-12]
 
 ## Development
 
@@ -106,7 +106,7 @@ Technical issues with the Amiga port have been specifically identified, with one
 
 African Raiders-01 emerged from French developer Coktel Vision, a company that would later become known for adventure games including the Gobliiins series and educational titles. The game was conceived as a simulation of the legendary Paris-Dakar rally, specifically focusing on the African portion of the 11th running of the race[^ref-2]. The "01" suffix in the title suggested plans for a potential sequel, though no African Raiders-02 materialized[^ref-6].
 
-The development was led by concept designers Philippe Lamarque and Yannick Chosse, who aimed to capture the essence of desert rally racing. Despite its French origins, the game was published by Tomahawk and distributed internationally through various regional partners including Dinamic in Spain[^ref-6]. The game represented an attempt to bring the excitement of off-road racing to home computers at a time when the genre was still maturing beyond simple arcade-style experiences[^ref-4].
+MobyGames credits the game's conception to Philippe Lamarque and Yannick Chosse[^ref-2]. The game was published under Tomahawk, a label Coktel Vision itself used for simulation and erotic games to distance them from its edutainment titles[^ref-21], and distributed by Bomico in Germany and System 4 de España in Spain[^ref-4]. It was released some four years before Sierra On-Line's acquisition of Coktel Vision was finalised in October 1993[^ref-21]. The game represented an attempt to bring the excitement of off-road racing to home computers at a time when the genre was still maturing beyond simple arcade-style experiences[^ref-4].
 
 ### Production
 
@@ -122,7 +122,7 @@ The game was developed simultaneously for multiple platforms, with the Atari ST 
 
 ### Technical Achievements
 
-Despite its mixed reception, some contemporary sources praised African Raiders-01's technical implementation. One Russian gaming site declared that "we can with some confidence say that this game is almost the most 'powerful' in the technological race of the time"[^ref-5], though this assessment was not universally shared. The game featured pseudo-3D graphics rendering from a third-person perspective, day/night cycling, and multiple terrain types simulating the varied landscape of the Sahara[^ref-5].
+Despite its mixed reception, at least one later source praised African Raiders-01's technical implementation: the Russian retro site Old-Games.RU declared that "we can with some confidence say that this game is almost the most 'powerful' in the technological race of the time"[^ref-5], though this assessment was not universally shared. The game featured pseudo-3D graphics rendering from a third-person perspective, day/night cycling, and multiple terrain types simulating the varied landscape of the Sahara[^ref-5].
 
 The implementation of dual driving modes (4x4 and 4x2) with different handling characteristics represented an attempt at realistic vehicle simulation[^ref-2]. The navigation system with compass and satellite positioning was also relatively sophisticated for its era[^ref-6].
 
@@ -140,28 +140,27 @@ The implementation of dual driving modes (4x4 and 4x2) with different handling c
 - **Development Tool:** C Code
 - **Players:** 1 Only
 - **Language:** English
-- **Retail Price:** £19.99 GBP / £24.95 GBP (varying by retailer)
+- **Retail Price:** £19.99 GBP / £24.95 GBP (as listed in different magazine reviews)[^ref-6]
 
 ### Technical Issues
 
-The Amiga version suffered from a well-documented "Half-color Bug" resulting from the developers failing to properly convert the Atari ST's 3-bit RGB palette values to the Amiga's 4-bit RGB system, causing the graphics to appear too dark[^ref-8]. Additionally, the DOS version's VGA mode required manual modification of the CARTE.INF file to value 05 and setting it to read-only, as the game would otherwise overwrite this configuration[^ref-13].
+The Amiga version is tagged on Lemon Amiga with a "Half-color Bug" resulting from the developers failing to properly convert the Atari ST's 3-bit RGB palette values to the Amiga's 4-bit RGB system, causing the graphics to appear too dark[^ref-8]. Additionally, the DOS version's VGA mode required manual modification of the CARTE.INF file to value 05 and setting it to read-only, as the game would otherwise overwrite this configuration[^ref-13].
 
-Gameplay issues were extensively documented, particularly regarding the handling mechanics. Multiple reviewers noted that "it's impossible to stay on the track"[^ref-8] and that "half of the time you just don't know where your sand-buggy is going to, because the handling is pathetic"[^ref-14]. The collision detection was described as "a little iffy"[^ref-6], and returning to the track after going off-road proved extremely difficult[^ref-5].
+Gameplay issues were extensively documented, particularly regarding the handling mechanics. Lemon Amiga user ReTroViRuS wrote that "it's impossible to stay on the track," and user steef-online that "half of the time you just don't know where your sand-buggy is going to, because the handling is pathetic"[^ref-8][^ref-14]. The collision detection was described as "a little iffy"[^ref-6], and returning to the track after going off-road proved extremely difficult[^ref-5].
 
 ### Easter Eggs and Trivia
 
 - **Map Debug Function:** Pressing F1 during gameplay displays map block information, potentially useful for navigation[^ref-13]
-- **Camel Riding:** According to some sources, players can exit their vehicle and ride camels if they encounter them in the desert, though this feature is rarely mentioned in reviews[^ref-5]
-- **Title Mystery:** The "01" suffix led reviewers to speculate about a planned sequel that never materialized, with one reviewer noting the title as "naff"[^ref-6]
-- **Copy Protection:** The game's requirement for the physical map served as both copy protection and gameplay enhancement[^ref-13]
+- **Dune Jumping and Camel Chasing:** Old-Games.RU lists as bonuses the chance to jump the car over the dunes and chase camels, if you can find them[^ref-5]
+- **Title Mystery:** *Amiga Computing*'s reviewer guessed from the "01" suffix that "there is an 02 planned", and *CU Amiga*'s called the title "naff"[^ref-6]; no sequel appeared
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-African Raiders-01 achieved modest distribution across European markets through various regional publishers. Tomahawk served as the primary publisher, with Bomico handling German distribution and System 4 de España covering the Spanish market[^ref-4]. Dinamic was also involved in publishing the Amiga version[^ref-6]. The game has received 8,614 views on Abandonware DOS, indicating continued interest from retro gaming enthusiasts[^ref-7].
+African Raiders-01 achieved modest distribution across European markets through various regional publishers. Tomahawk served as the primary publisher, with Bomico handling German distribution and System 4 de España covering the Spanish market[^ref-4]. The game has received 9,330 views on Abandonware DOS, indicating continued interest from retro gaming enthusiasts[^ref-7].
 
-No specific sales figures have been documented, though the game's presence across multiple platforms and regional markets suggests it achieved at least moderate commercial circulation. The Lemon Amiga database shows the game has been viewed 13,372 times, demonstrating sustained interest in the retro gaming community[^ref-8].
+No specific sales figures have been documented, though the game's presence across multiple platforms and regional markets suggests it achieved at least moderate commercial circulation. The Lemon Amiga database shows the game has been viewed 13,971 times, demonstrating sustained interest in the retro gaming community[^ref-8].
 
 ### Collections
 
@@ -177,14 +176,9 @@ No significant fan remakes, mods, or translations have been documented for Afric
 
 ### Critical Perspective
 
-African Raiders-01 occupies an interesting if minor position in racing game history. It represents an early attempt to bring the unique challenges of desert rally racing to home computers, predating more successful entries in the off-road racing genre. The game's ambitious scope—simulating over 22,000 kilometers of terrain across six African nations—was admirable for its era, even if the execution fell short of expectations[^ref-1].
+African Raiders-01 occupies an interesting if minor position in racing game history. It represents an early attempt to bring the unique challenges of desert rally racing to home computers. The game's ambitious scope—simulating over 22,000 kilometers of terrain across six African nations—was admirable for its era, even if the execution fell short of expectations[^ref-1].
 
-The disparity between contemporary reviews (averaging around 58-64%) and modern assessments (frequently described as "unplayable") reflects both changing standards in game design and the loss of context that came with physical documentation like the required map. For enthusiasts of retrogaming, African Raiders-01 represents "une perle rare du désert vidéoludique" (a rare pearl of the video game desert)[^ref-1], offering a glimpse into the experimental nature of late-1980s game development. However, for most modern players, the game's technical limitations and frustrating controls make it more of a historical curiosity than an enjoyable experience[^ref-8][^ref-14].
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+The disparity between contemporary reviews (averaging around 58-64%) and modern user comments (several calling it unplayable) reflects both changing standards in game design and the loss of context that came with physical documentation like the required map. For enthusiasts of retrogaming, African Raiders-01 represents "une perle rare du désert vidéoludique" (a rare pearl of the video game desert)[^ref-1], offering a glimpse into the experimental nature of late-1980s game development. However, for most modern players, the game's technical limitations and frustrating controls make it more of a historical curiosity than an enjoyable experience[^ref-8][^ref-14].
 
 ## Downloads
 
@@ -217,19 +211,6 @@ The disparity between contemporary reviews (averaging around 58-64%) and modern 
 - [[1993 - Lost in Time]]
 - [[1995 - The Last Dynasty]]
 - [[1996 - Urban Runner]]
-- [[1989 - ESS - European Space Simulator]]
-- [[1989 - Emmanuelle]]
-- [[1989 - Legend of Djel]]
-- [[1990 - Cougar Force]]
-- [[1990 - Geisha]]
-- [[1991 - A.G.E.]]
-- [[1991 - E.S.S. Mega]]
-- [[1991 - Fascination]]
-- [[1992 - Bargon Attack]]
-- [[1992 - Ween - The Prophecy]]
-- [[1993 - Lost in Time]]
-- [[1995 - The Last Dynasty]]
-- [[1996 - Urban Runner]]
 
 ## References
 
@@ -239,13 +220,15 @@ The disparity between contemporary reviews (averaging around 58-64%) and modern 
 [^ref-4]: [Abandonware France – African Raiders-01](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1289) – controls, DOSBox compatibility, regional distributors, historical context
 [^ref-5]: [Old-Games.RU – African Raiders-01](https://www.old-games.ru/game/2819.html) – Russian review, technical assessment, gameplay features
 [^ref-6]: [Amiga Reviews – African Raiders-01](https://www.amigareviews.leveluphost.com/africanr.htm) – multiple magazine reviews, gameplay mechanics, price information
-[^ref-7]: [Abandonware DOS – African Raiders-01](https://www.abandonwaredos.com/abandonware-game.php?abandonware=African+Raiders-01&gid=987) – user ratings, designer credits, review quotes
-[^ref-8]: [Lemon Amiga – African Raiders-01](https://www.lemonamiga.com/games/details.php?id=1517) – magazine reviews, technical specs, user reviews, bug documentation
-[^ref-10]: [Online Classic Games – African Raiders-01](https://playold.games/games/african-raiders-01) – gameplay description, rival drivers, rally stages
+[^ref-7]: [Abandonware DOS – African Raiders-01](https://www.abandonwaredos.com/abandonware-game.php?abandonware=African+Raiders-01&gid=987) – user ratings, designer credits, view count
+[^ref-8]: [Lemon Amiga – African Raiders-01](https://www.lemonamiga.com/games/details.php?id=1517) – magazine review scores, technical specs, user comments, bug tag
+[^ref-10]: [Playold.games – African Raiders-01](https://playold.games/games/african-raiders-01) – gameplay description, rival drivers, rally stages
 [^ref-11]: [Play Classic Games – African Raiders-01](https://playclassic.games/games/racing-driving-dos-games-online/play-african-raiders-01-online/) – gameplay mechanics, stage distances
-[^ref-12]: [Free Game Empire – African Raiders-01](https://www.freegameempire.com/games/African-Raiders-01) – technical specs, user rating, gameplay description
+[^ref-12]: [Free Game Empire – African Raiders-01](https://www.freegameempire.com/games/African-Raiders-01) – technical specs, gameplay description
 [^ref-13]: [My Abandonware – African Raiders-01](https://www.myabandonware.com/game/african-raiders-01-kx) – VGA configuration, map requirement, user reviews, file size
 [^ref-14]: [OpenRetro – African Raiders-01](https://openretro.org/amiga/african-raiders-01) – critical user review, bug documentation
 [^ref-15]: [ClassicReload – African Raiders-01](https://classicreload.com/african-raiders-01.html) – platform and year confirmation
 [^ref-20]: [Video Games Museum – African Raiders-01](https://www.video-games-museum.com/en/game/African-Raiders-01/82/3/25227) – platform confirmation
+[^ref-21]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – Tomahawk as Coktel's own label; Sierra acquisition finalised 29 October 1993
+[^ref-22]: [Amiga Magazine Rack – African Raiders-01 review (Amiga Computing Vol 2 No 4)](https://amr.abime.net/review_26493) – magazine scores, reviewers, issues (Amiga Computing, Amiga Format, CU Amiga, TGM, ACE, Datormagazin)
 
