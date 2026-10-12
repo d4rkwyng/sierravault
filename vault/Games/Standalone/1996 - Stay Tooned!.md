@@ -178,7 +178,6 @@ The title has developed a cult following among players who experienced it during
 **Download / Preservation**
 - [ClassicReload](https://classicreload.com/win3x-stay-tooned.html) - Browser-based emulation[^ref-1]
 - [MyAbandonware](https://www.myabandonware.com/game/stay-tooned-3qw) - Downloadable versions[^ref-5]
-- [Old Games Download](https://oldgamesdownload.com/stay-tooned/) - Windows and Mac versions[^ref-6]
 - [Internet Archive](https://archive.org/details/staytoonedusa) - Preserved disc image[^ref-7]
 
 **Manuals & Extras**
@@ -219,7 +218,7 @@ The title has developed a cult following among players who experienced it during
 [^ref-3]: [MobyGames – Stay Tooned!](https://www.mobygames.com/game/12362/stay-tooned/) – designer credits, Director engine, 3D glasses, Macintosh development, company name change, audio bug, critic score, user reviews
 [^ref-4]: [TV Tropes – Stay Tooned!](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StayTooned) – voice cast, Joel Fried roles, 3D glasses, Ben Howard appearances, character dialogue, Funnybone mascot
 [^ref-5]: [MyAbandonware – Stay Tooned!](https://www.myabandonware.com/game/stay-tooned-3qw) – user rating, file sizes, user comments, genre classification, perspective
-[^ref-6]: [Old Games Download – Stay Tooned!](https://oldgamesdownload.com/stay-tooned/) – platform availability, download information
+[^ref-6]: Old Games Download – Stay Tooned! (link removed: game-download site) – platform availability, download information
 [^ref-7]: [Internet Archive – Stay Tooned! (USA)](https://archive.org/details/staytoonedusa) – disc preservation, original media
 [^ref-8]: Wikidata – Stay Tooned! *(link removed: it led to a different game's page)* – structured data, identifiers
 [^ref-9]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog

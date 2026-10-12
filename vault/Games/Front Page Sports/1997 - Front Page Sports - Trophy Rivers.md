@@ -222,7 +222,6 @@ The closure of Dynamix following Sierra's corporate restructuring meant that Tro
 **Download / Preservation**
 - [Internet Archive – Demo Version](https://archive.org/details/trdemo10_exe)
 - [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-trophy-rivers-f3t)
-- [Old Games Download](https://oldgamesdownload.com/front-page-sports-trophy-rivers/)
 - [Old-Games.com](https://www.old-games.com/download/10231/front-page-sports-trophy-rivers)
 
 **Historical Download Pages**
@@ -258,7 +257,7 @@ The closure of Dynamix following Sierra's corporate restructuring meant that Tro
 [^ref-8]: [GameFAQs – Front Page Sports: Trophy Rivers](https://gamefaqs.gamespot.com/pc/55425-front-page-sports-trophy-rivers) – release date, user rating, game length estimate
 [^ref-9]: [Internet Archive – Trophy Rivers Demo](https://archive.org/details/trdemo10_exe) – demo description, Dynamix developer credit
 [^ref-10]: [The Junkyard Forums – Soundtrack Discussion](https://forums.the-junkyard.net/forum/general/general-discussion/9701-ss-soundtrack#post144548) – Loudmouth audio studio information, composer credits, Dynamix closure
-[^ref-11]: [Old Games Download – Front Page Sports: Trophy Rivers](https://oldgamesdownload.com/front-page-sports-trophy-rivers/) – file sizes, version information, educational classification
+[^ref-11]: Old Games Download – Front Page Sports: Trophy Rivers (link removed: game-download site) – file sizes, version information, educational classification
 [^ref-12]: [WowROMs – Front Page Sports: Trophy Rivers](https://wowroms.com/en/roms/windows-3.x/front-page-sports-trophy-rivers/153180.html) – Windows 3.x platform, file size
 [^ref-13]: [Old-Games.com – Front Page Sports: Trophy Rivers](https://www.old-games.com/download/10231/front-page-sports-trophy-rivers) – download size, Windows compatibility, game modes
 [^ref-14]: [GameSpy – Front Page Sports: Trophy Rivers](http://pc.gamespy.com/pc/front-page-sports-trophy-rivers/) – regional release dates, ESRB rating

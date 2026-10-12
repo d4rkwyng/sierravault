@@ -220,7 +220,6 @@ The game's legacy is perhaps best summarized by user reviews calling it "the bes
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-majestic-chess-dk5)
-- [Old Games Download](https://oldgamesdownload.com/hoyle-majestic-chess/)
 
 **Soundtrack**
 - [KHInsider](https://downloads.khinsider.com/game-soundtracks/album/hoyle-majestic-chess-2003)
@@ -299,7 +298,7 @@ The game's legacy is perhaps best summarized by user reviews calling it "the bes
 [^ref-7]: Old PC Gaming – Hoyle Majestic Chess (link removed: site offers game downloads) – adventure mode details, chapter structure, artifact system
 [^ref-8]: [Game Classification – Hoyle Majestic Chess](https://gameclassification.com/EN/games/29011-Hoyle-Majestic-Chess/index.html) – gameplay description, Chess Adventure mode details
 [^ref-9]: [GOG.com Dreamlist – Hoyle Majestic Chess](https://www.gog.com/dreamlist/game/hoyle-majestic-chess-2003) – publishers, user quotes, compatibility issues
-[^ref-10]: [Old Games Download – Hoyle Majestic Chess](https://oldgamesdownload.com/hoyle-majestic-chess/) – file size, installation issues, user comments
+[^ref-10]: Old Games Download – Hoyle Majestic Chess (link removed: game-download site) – file size, installation issues, user comments
 [^ref-11]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, promotional quote
 [^ref-12]: [MobyGames – Bill Forster Credits](https://www.mobygames.com/person/101460/bill-forster/credits/) – online design and programming credits
 [^ref-13]: [IMDB – Hoyle Majestic Chess](https://www.imdb.com/title/tt9782314/) – director, writers, production company, release date

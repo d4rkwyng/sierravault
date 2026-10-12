@@ -185,7 +185,6 @@ In the broader context of the Hoyle series, the 2005 edition marked one of the f
 
 **Download / Preservation**
 - [My Abandonware](https://www.myabandonware.com/game/hoyle-card-games-2005-hzi)
-- [Old Games Download](https://oldgamesdownload.com/hoyle-card-games-2005/)
 
 ## See Also
 
@@ -256,7 +255,7 @@ In the broader context of the Hoyle series, the 2005 edition marked one of the f
 [^ref-9]: [GameSpot – Hoyle Card Games 2005](https://www.gamespot.com/hoyle-card-games-2005/user-reviews/2200-3671554/) – release date, user reviews
 [^ref-10]: [Wikipedia – Hoyle Card Games](https://en.wikipedia.org/wiki/Hoyle_Card_Games) – allgame review, IGN review quotes
 [^ref-11]: [My Abandonware – Hoyle Card Games 2005](https://www.myabandonware.com/game/hoyle-card-games-2005-hzi) – user rating, file size, installation issues
-[^ref-12]: [Old Games Download – Hoyle Card Games 2005](https://oldgamesdownload.com/hoyle-card-games-2005/) – technical issues, user comments
+[^ref-12]: Old Games Download – Hoyle Card Games 2005 (link removed: game-download site) – technical issues, user comments
 [^ref-13]: [PriceCharting – Hoyle Card Games](https://www.pricecharting.com/game/pc-games/hoyle-card-games) – version history, market data
 [^ref-14]: [Sierra Chest – Hoyle Games](https://sierrachest.com/index.php?a=games&id=794) – Hoyle series documentation, Sierra history
 [^ref-15]: [GameFAQs – Hoyle Card Games 2005](https://gamefaqs.gamespot.com/pc/931077-hoyle-card-games-2005) – game database entry, platform info

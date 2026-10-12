@@ -258,7 +258,7 @@ From a design perspective, Merchant Colony's influence can be traced through Imp
 [^ref-14]: [PlayClassic Games – Merchant Colony](https://playclassic.games/games/strategy-dos-games-online/play-merchant-colony-online/) – retrospective criticism of graphics and options
 [^ref-15]: [MobyGames – Merchant Colony Reviews](https://www.mobygames.com/game/4254/merchant-colony/reviews/) – critic and player aggregate scores
 [^ref-16]: [Atarimania – Merchant Colony](https://www.atarimania.com/game-atari-st-merchant-colony_s8787.html) – Atari ST technical specifications, languages, user rating
-[^ref-17]: [Abandonware Games – Merchant Colony](https://abandonwaregames.net/game/merchant-colony) – user rating, platforms, game description
+[^ref-17]: Abandonware Games – Merchant Colony (link removed: game-download site) – user rating, platforms, game description
 [^ref-18]: [Free Game Empire – Merchant Colony](https://www.freegameempire.com/games/Merchant-Colony) – Impressions company history, Sierra acquisition
 [^ref-19]: [MobyGames – Merchant (2014)](https://www.mobygames.com/game/88438/merchant/) – unrelated mobile game description
 [^ref-20]: [GameFAQs – Merchant Colony](https://gamefaqs.gamespot.com/pc/980547-merchant-colony) – genre classification, difficulty rating, similar games

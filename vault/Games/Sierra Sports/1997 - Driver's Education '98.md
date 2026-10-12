@@ -296,6 +296,6 @@ The money-back guarantee remains a notable marketing decision that demonstrated 
 [^ref-17]: [IGCD – Vehicle Database](https://www.igcd.net/game.php?id=100003078) – complete vehicle list, no damage modeling
 [^ref-18]: [Reddit r/retrogaming](https://www.reddit.com/r/retrogaming/comments/1286hjr/anyone_ever_play_the_pc_game_drivers_education/) – middle school library installations, user memories
 [^ref-19]: [Steam Store Search](https://store.steampowered.com/search/?term=Driver%27s+Education+%2798) – game not available on Steam
-[^ref-20]: [OldGamesDownload.com](https://oldgamesdownload.com/drivers-education-98/) – download availability, file size information
+[^ref-20]: OldGamesDownload.com (link removed: game-download site) – download availability, file size information
 [^ref-21]: [Giant Bomb - Driver's Ed](https://www.giantbomb.com/) - wiki entry
 [^ref-22]: [MobyGames - Sierra Sports](https://www.mobygames.com/) - database entry

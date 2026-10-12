@@ -138,7 +138,6 @@ The development lessons from Cyberstorm 2 likely influenced Dynamix's subsequent
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/cyberstorm-2-corporate-wars-a2r)
-- [Old Games Download](https://oldgamesdownload.com/cyberstorm-2-corporate-wars/)
 - [Internet Archive](https://archive.org/search?query=cyberstorm+2+corporate+wars) – Preservation archives
 
 ## See Also
@@ -167,7 +166,7 @@ The development lessons from Cyberstorm 2 likely influenced Dynamix's subsequent
 [^ref-6]: [GameSpot Review](https://www.gamespot.com/reviews/cyberstorm-2-corporate-wars-review/1900-2538492/) – - Professional review assessment
 [^ref-7]: [MobyGames](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/) – - Developer information
 [^ref-8]: [Archive.org Manual](https://archive.org/stream/CyberStorm_2-_Corporate_Wars_-_Manual/CyberStorm_2-_Corporate_Wars_-_Manual_djvu.txt) – - Publisher information
-[^ref-9]: [Old Games Download](https://oldgamesdownload.com/cyberstorm-2-corporate-wars/) – - Historical context
+[^ref-9]: Old Games Download (link removed: game-download site) – - Historical context
 [^ref-10]: [KHInsider Downloads](https://downloads.khinsider.com/game-soundtracks/album/cyberstorm-2-corporate-wars-1998-windows) – - Visual perspective description
 [^ref-11]: [MobyGames Reviews](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/reviews/) – - Battlefield system changes
 [^ref-12]: [GameRevolution](https://www.gamerevolution.com/review/33208-cyberstorm-2-corporate-wars-review) – - Gameplay mode description

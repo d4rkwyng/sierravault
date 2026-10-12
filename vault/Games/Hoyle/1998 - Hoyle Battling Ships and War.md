@@ -305,7 +305,7 @@ The collaboration between experienced Sierra personnel on this title, including 
 [^ref-11]: [MobyGames – Eric Tangborn](https://www.mobygames.com/person/27396/eric-tangborn/) – QA analyst credit
 [^ref-12]: [MobyGames – Torsten Reinl](https://www.mobygames.com/person/23208/torsten-reinl/) – QA analyst credit
 [^ref-13]: [NeverDieMedia – Hoyle Battling Ships and War](https://www.neverdiemedia.com/products/hoyle-battling-ships-and-war) – game preservation and distribution information
-[^ref-14]: [Old Games Download – Hoyle Battling Ships and War](https://oldgamesdownload.com/hoyle-battling-ships-and-war/) – abandonware preservation and download resources
+[^ref-14]: Old Games Download – Hoyle Battling Ships and War (link removed: game-download site) – abandonware preservation and download resources
 [^ref-15]: [Internet Archive – Hoyle Board Games](https://archive.org/details/HOYLEBOARD) – digital preservation and original media archives
 [^ref-16]: [MobyGames – Hoyle Battling Ships and War reviews/ratings](https://www.mobygames.com/game/78846/hoyle-battling-ships-and-war/reviews/) – community-rating aggregate dataset, player score (3.4/5), discussion threads
 [^ref-17]: [MyAbandonware – Hoyle Battling Ships and War](https://www.myabandonware.com/game/hoyle-battling-ships-and-war-djz) – user rating (5/5, 2 votes as of 2026-10-09), download metadata

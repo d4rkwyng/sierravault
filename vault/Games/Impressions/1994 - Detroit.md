@@ -220,7 +220,7 @@ Home of the Underdogs gave the game "two thumbs up," describing it as emphasizin
 [^ref-1]: [MobyGames – Detroit](https://www.mobygames.com/game/2694/detroit/) – credits, ratings, technical specifications, awards, trivia
 [^ref-2]: [DOS Games Archive – Detroit](https://www.dosgamesarchive.com/download/detroit) – publisher, description, demo information, German title "Rüsselsheim"
 [^ref-3]: [ClassicReload – Detroit](https://classicreload.com/detroit.html) – gameplay description, historical events, failure state
-[^ref-4]: [AbandonwareGames.net – Detroit](https://abandonwaregames.net/game/detroit) – game description, departments, platforms
+[^ref-4]: AbandonwareGames.net – Detroit (link removed: game-download site) – game description, departments, platforms
 [^ref-5]: [Home of the Underdogs – Detroit](https://homeoftheunderdogs.net/game.php?id=304) – Air Bucks comparison, design philosophy
 [^ref-6]: [GOG.com – Detroit Wishlist](https://www.gog.com/wishlist/games/detroit) – user comments and requests; wishlist entry only, not sold
 [^ref-7]: [Lemon Amiga – Detroit Manual](https://www.lemonamiga.com/games/docs.php?id=467) – game manual text, starting conditions, objectives

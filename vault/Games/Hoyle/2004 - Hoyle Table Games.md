@@ -260,7 +260,7 @@ The game is no longer commercially distributed by Sierra, Vivendi Universal, Act
 [^ref-12]: [eBay UK – Hoyle Table Games 2004](https://www.ebay.co.uk/p/129311876) – UK publisher Hip Interactive, 2017 user review
 [^ref-13]: [MobyGames – Hoyle Table Games 2004 Reviews](https://www.mobygames.com/game/13166/hoyle-table-games-2004/reviews/) – Aggregate critic and player scores
 [^ref-14]: [Software Informer – Hoyle Table Games 2004](https://hoyle-table-games-2004.software.informer.com/1.0/) – User rating 4.1/5, developer Sierra, user comment
-[^ref-15]: [Old Games Download – Hoyle Table Games 2004](https://oldgamesdownload.com/hoyle-table-games-2004/) – File size 601.6MB, ISO format, developer credits
+[^ref-15]: Old Games Download – Hoyle Table Games 2004 (link removed: game-download site) – File size 601.6MB, ISO format, developer credits
 [^ref-16]: [IGDB - Hoyle Table Games](https://www.igdb.com/games/hoyle-table-games) - Internet Games Database entry
 
 [^ref-17]: [IGDB – Hoyle Table Games 2004](https://www.igdb.com/search?q=Hoyle+Table+Games+2004) — Game database cross-reference

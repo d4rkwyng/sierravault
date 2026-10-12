@@ -102,7 +102,6 @@ Modern retrospective reviews have been largely positive while acknowledging the 
 - **GameFAQs:** 9/10 (user review by Fragnarok)[^ref-21]
 - **MyAbandonware:** 4.33/5[^ref-19]
 - **Glitchwave:** 3.06/5.0[^ref-26]
-- **abandonwaregames.net:** 9.48/10[^ref-14]
 
 ## Development
 
@@ -276,7 +275,7 @@ Modern critics recognize that Woodruff, with his endearing naivety and unwaverin
 [^ref-11]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=147&title=woodruff&fld=walkthrough) – game mechanics, currency system, story elements
 [^ref-12]: [Abandonware France – Woodruff](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=641) – French retrospective, themes, Easter eggs, locations
 [^ref-13]: [Gamia Archive Fandom](https://gamia-archive.fandom.com/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – plot summary, Schnibble lore
-[^ref-14]: [Abandonware Games](https://abandonwaregames.net/game/woodruff) – plot summary, user rating
+[^ref-14]: Abandonware Games (link removed: game-download site) – plot summary, user rating
 [^ref-15]: [Hardcore Gaming 101 – Woodruff Review](http://www.hardcoregaming101.net/the-bizarre-adventures-of-woodruff-and-the-schnibble-woodruff-and-the-schnibble-of-azimuth-windows-1995/) – locations, inventory system, Easter eggs
 [^ref-16]: [TV Tropes – Woodruff and the Schnibble](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheBizarreAdventuresOfWoodruffAndTheSchnibble) – gameplay quotes, syllable mechanics, Easter eggs
 [^ref-17]: [Tropedia – Woodruff and the Schnibble](https://tropedia.fandom.com/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – narrative themes, puzzle difficulty, fourth wall breaks

@@ -287,7 +287,7 @@ The Papyrus legacy continued to influence racing games long after the studio's c
 [^ref-31]: [GameSpot – Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – 50th Anniversary Edition
 [^ref-32]: [Internet Archive – NASCAR Racing 2 Manual](https://archive.org/details/NASCAR_Racing_2_-_Manual) – manual metadata
 [^ref-33]: [Internet Archive – NASCAR Racing 2 Abandonware](https://archive.org/details/nascar-racing-2-mr-abandonware) – abandonware status
-[^ref-34]: [Old Games Download – NASCAR Racing 2](https://oldgamesdownload.com/nascar-racing-2/) – download versions, 3D acceleration info
+[^ref-34]: Old Games Download – NASCAR Racing 2 (link removed: game-download site) – download versions, 3D acceleration info
 [^ref-35]: [Sierra Gamers – NASCAR Racing 2](https://www.sierragamers.com/nascar-racing-2/) – game overview
 [^ref-36]: [The Daily Downforce – NASCAR Gaming History](https://dailydownforce.com/a-complete-history-of-nascar-gaming/) – series context
 [^ref-37]: [Avid Wiki – Sierra Sports](https://www.avid.wiki/Sierra_Sports) – publisher history

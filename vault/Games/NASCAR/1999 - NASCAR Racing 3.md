@@ -141,7 +141,7 @@ Modern players comparing NASCAR Racing 3 to subsequent NASCAR games often note t
 [^ref-2]: [Wikipedia List of NASCAR Video Games](https://en.wikipedia.org/wiki/List_of_NASCAR_video_games) – - Series context and Papyrus reputation
 [^ref-3]: [Avid Wiki Sierra Sports](https://www.avid.wiki/Sierra_Sports) – - Sierra Sports formation date and context
 [^ref-4]: [MobyGames Specs](https://www.mobygames.com/game/3222/nascar-racing-3/specs/) – - Technical specifications and system requirements
-[^ref-5]: [Old Games Download](https://oldgamesdownload.com/nascar-racing-3/) – - Track count and multiplayer details
+[^ref-5]: Old Games Download (link removed: game-download site) – - Track count and multiplayer details
 [^ref-6]: [Sierra Gamers](https://www.sierragamers.com/nascar-racing-3/) – - Customization features
 [^ref-7]: [Web Archive GameCenter](https://web.archive.org/web/20000816100324/http://www.gamecenter.com/Reviews/Item/0,6,0-3184,00.html) – - Game modes description
 [^ref-8]: [IGN Review](https://www.ign.com/articles/1999/10/27/nascar-racing-3) – - Car setup and customization details

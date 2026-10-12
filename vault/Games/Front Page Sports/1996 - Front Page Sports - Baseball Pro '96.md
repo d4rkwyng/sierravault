@@ -174,7 +174,6 @@ Not currently sold on GOG or Steam (checked October 2026).
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-baseball-pro-96-season-dr4)
-- [Old Games Download](https://oldgamesdownload.com/front-page-sports-baseball-pro-96-season/)
 
 **Manuals & Extras**
 - Online documentation included with game[^ref-8]
@@ -209,7 +208,7 @@ Not currently sold on GOG or Steam (checked October 2026).
 [^ref-11]: [GameSpot – Front Page Sports: Baseball Pro '96 Season Review](https://www.gamespot.com/reviews/front-page-sports-baseball-pro-96-season-review/1900-2536091/) – Hugo Foster review, published 3 October 1996
 [^ref-12]: [MyAbandonware – Front Page Sports: Baseball Pro '96 Season](https://www.myabandonware.com/game/front-page-sports-baseball-pro-96-season-dr4) – user ratings, download size, user review quote
 [^ref-13]: [Metacritic – Front Page Sports: Baseball Pro '96 Season](https://www.metacritic.com/game/pc/front-page-sports-baseball-pro-96-season) – user score
-[^ref-14]: [Old Games Download](https://oldgamesdownload.com/front-page-sports-baseball-pro-96-season/) – alternate download sizes
+[^ref-14]: Old Games Download (link removed: game-download site) – alternate download sizes
 [^ref-15]: [Sierra Help – FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – patch version information
 [^ref-17]: MVP Mods Forum – "Front Page Sports '96 Music Mod" thread, AcousticNut, April 9, 2005 *(site unreachable October 2026; no archived copy found)* – music track information, nostalgic user comments
 [^ref-18]: [MobyGames – Front Page Sports: Football Pro '96 Season](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/) – SVGA graphics description, companion game information

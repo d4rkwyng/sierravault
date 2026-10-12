@@ -210,7 +210,6 @@ PSX Data Center's comparison to Crash Bandicoot places it among the familiar pla
 ## Downloads
 
 **Download / Preservation**
-- [Old Games Download – PlayStation ROM](https://oldgamesdownload.com/game/adiboo-pazirals-secret-5tg/) – Multi-language European version[^ref-6]
 - [RomsFun – PlayStation ROM](https://romsfun.com/roms/playstation/adiboo-pazirals-secret.html) – German release[^ref-12]
 
 **Secondary Market**
@@ -230,7 +229,7 @@ PSX Data Center's comparison to Crash Bandicoot places it among the familiar pla
 [^ref-3]: [MobyGames – Adiboo Paziral's Secret](https://www.mobygames.com/game/60768/adiboo-pazirals-secret/) – technical specs, credits, alternate titles, aggregate ratings
 [^ref-4]: [Metacritic – Adiboo and Paziral's Secret](https://www.metacritic.com/game/adiboo-and-pazirals-secret/details/) – plot description, developer information
 [^ref-5]: [PSX Data Center – SLES-04108](https://psxdatacenter.com/games/P/A/SLES-04108.html) – technical specifications, gameplay comparison, critical assessment
-[^ref-6]: [Old Games Download – Adiboo Paziral's Secret](https://oldgamesdownload.com/game/adiboo-pazirals-secret-5tg/) – file information, platform versions, language support
+[^ref-6]: Old Games Download – Adiboo Paziral's Secret (link removed: game-download site) – file information, platform versions, language support
 [^ref-7]: [MobyGames – PlayStation Credits](https://www.mobygames.com/game/60768/adiboo-pazirals-secret/credits/playstation/) – complete development credits, voice cast, production acknowledgments
 [^ref-8]: [PCGamingWiki – Adiboo & Paziral's Secret](https://www.pcgamingwiki.com/wiki/Adiboo_%26_Paziral%27s_Secret) – engine information, system requirements, compatibility issues, series information
 [^ref-9]: [MobyGames – Reviews](https://www.mobygames.com/game/60768/adiboo-pazirals-secret/reviews/) – aggregate critic and player ratings

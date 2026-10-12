@@ -222,7 +222,6 @@ As the only simulation covering this specific era, NASCAR Legends remains releva
 
 **Download / Preservation**
 - [My Abandonware](https://www.myabandonware.com/game/nascar-legends-dtr) – Includes patch 1.0.2.4
-- [Old Games Download](https://oldgamesdownload.com/nascar-legends/) – Alternative download source
 
 **Pricing Information**[^ref-7]
 - **UPC:** 020626708470
@@ -251,7 +250,7 @@ As the only simulation covering this specific era, NASCAR Legends remains releva
 [^ref-6]: [MobyGames – NASCAR Legends](https://www.mobygames.com/game/1668/nascar-legends/) – designer credit, engine details, aggregate score, track trivia
 [^ref-7]: [PriceCharting – NASCAR Legends](https://www.pricecharting.com/game/pc-games/nascar-legends) – release date, pricing data, ESRB rating, car features, identifiers
 [^ref-8]: [My Abandonware – NASCAR Legends](https://www.myabandonware.com/game/nascar-legends-dtr) – user ratings, patch version, resolution info, compatibility issues, frame rate cap
-[^ref-9]: [Old Games Download – NASCAR Legends](https://oldgamesdownload.com/nascar-legends/) – Game download, patch availability, system information
+[^ref-9]: Old Games Download – NASCAR Legends (link removed: game-download site) – Game download, patch availability, system information
 [^ref-10]: [Steam Workshop – NASCAR Legends Mod for Wreckfest](https://steamcommunity.com/sharedfiles/filedetails/?id=1462061824) – mod statistics, features, creator credits
 [^ref-11]: [Videojuegos Fandom – NASCAR Saga](https://videojuegos.fandom.com/es/wiki/NASCAR_(saga)) – series categorization, developer attribution
 [^ref-12]: [Race Sim Central – Papyrus Racing Games](https://racesimcentral.net/dev/papyrus-racing-games/) – Developer history, racing simulation expertise, Papyrus analysis

@@ -246,7 +246,7 @@ The game is preserved in multiple archives and databases, with documentation ava
 [^ref-17]: [MyAbandonware – Play Online](https://www.myabandonware.com/game/hi-res-adventure-4-ulysses-and-the-golden-fleece-1s6/play-1s6) – ScrollLock workaround, executable information
 [^ref-18]: [Wikipedia – Hi-Res Adventure #4](https://en.wikipedia.org/wiki/Hi-Res_Adventure_%234%3A_Ulysses_and_the_Golden_Fleece) – 1981 release date, series position
 [^ref-19]: [Hi-Res Adventure Fandom Wiki](https://hiresadventure.fandom.com/wiki/Hi-Res_Adventure) – series overview, Roberta Williams credit
-[^ref-20]: [Old Games Download](https://oldgamesdownload.com/hi-res-adventure-4-ulysses-and-the-golden-fleece/) – platform release timeline, designer credits
+[^ref-20]: Old Games Download (link removed: game-download site) – platform release timeline, designer credits
 [^ref-21]: [PixelatedArcade – Sierra Hi-Res Adventure Series](https://www.pixelatedarcade.com/related-games/sierra-hi-res-adventure-series) – series documentation, publisher list
 [^ref-22]: [Sierra Fandom Wiki – Trivia](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Trivia) – series position confirmation
 [^ref-26]: [Sierra Gamers – Updates](https://www.sierragamers.com/Updates/) – Black Box release documentation

@@ -206,7 +206,7 @@ The game had 294 votes on GOG's Dreamlist as of October 2026 requesting its rele
 [^ref-16]: [Pixel Pacas](https://pixelpacas.com/the-time-warp-of-dr-brain-review/) – - Critical modern assessment
 [^ref-18]: [MobyGames Forum](https://www.mobygames.com/forum/game/6885/thread/215308/looking-for-someone-who-worked-on-the-dr-brain-series/) – - Educational use context
 [^ref-30]: [VGChartz](https://www.vgchartz.com/game/16942/the-time-warp-of-dr-brain/) – - Basic game metadata
-[^ref-31]: [Old Games Download](https://oldgamesdownload.com/the-time-warp-of-dr-brain/) – - Game classification as educational
+[^ref-31]: Old Games Download (link removed: game-download site) – - Game classification as educational
 [^ref-32]: [Never Die Media](https://www.neverdiemedia.com/products/the-time-warp-of-dr-brain) – - Product description
 [^ref-33]: [Wayback Machine - Sierra Product Page](https://web.archive.org/web/19961219233717/http://www.sierra.com/cgi-bin/store/product-description?9311810300) – - Original marketing materials
 [^ref-34]: [Wikidata](https://www.wikidata.org/wiki/Q7769345) – - Official metadata entry

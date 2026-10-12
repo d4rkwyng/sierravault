@@ -225,7 +225,7 @@ From a preservation standpoint, the game's absence from modern digital storefron
 
 ## References
 
-[^ref-1]: [AbandonwareGames.net – Mixed-Up Fairy Tales](https://abandonwaregames.net/game/mixed-up-fairy-tales) – developer, publisher, release date, platform, fairy tales included, user rating
+[^ref-1]: AbandonwareGames.net – Mixed-Up Fairy Tales (link removed: game-download site) – developer, publisher, release date, platform, fairy tales included, user rating
 [^ref-2]: [Wikipedia – Mixed-Up Fairy Tales](https://en.wikipedia.org/wiki/Mixed-Up_Fairy_Tales) – designers, composer, PC Zone review score, PC Games review, coloring book inclusion, follow-up status
 [^ref-3]: [MyAbandonware – Mixed-Up Fairy Tales](https://www.myabandonware.com/game/mixed-up-fairy-tales-1qe) – release dates, designer, file size, target age, HOTUD review quotes, rating
 [^ref-4]: [MobyGames – Mixed-Up Fairy Tales](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/) – precise release date, engine, composers, interface description, media formats, aggregate score, version information, bugs

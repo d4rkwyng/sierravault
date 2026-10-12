@@ -231,7 +231,6 @@ The closure of Dynamix and the end of the Front Page Sports line meant that this
 **Download / Preservation**
 - [Internet Archive – Demo Version](https://archive.org/details/BB98DML)[^ref-12]
 - [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-baseball-pro-98-fz3)[^ref-17]
-- [Old Games Download](https://oldgamesdownload.com/front-page-sports-baseball-pro-98/)[^ref-25]
 
 **Manuals & Extras**
 - Demo available via Sierra Chest[^ref-20]
@@ -280,7 +279,7 @@ The closure of Dynamix and the end of the Front Page Sports line meant that this
 [^ref-22]: [Football Idiot Forum](https://www.footballidiot.com/forum/viewtopic.php?t=5242&start=10) – DOSBox compatibility, series comparison
 [^ref-23]: [Online Gaming Review News (Archive.org)](https://web.archive.org/web/19970606072617/http://www.ogr.com/news/news0597.html) – pricing, rebate offer, feature list
 [^ref-24]: [ESRB Rating](https://www.esrb.org/ratings/2601/front-page-sports-baseball-pro-98/) – E for Everyone rating
-[^ref-25]: [Old Games Download](https://oldgamesdownload.com/front-page-sports-baseball-pro-98/) – developer credits, file information
+[^ref-25]: Old Games Download (link removed: game-download site) – developer credits, file information
 [^ref-26]: [Wikidata](https://www.wikidata.org/wiki/Q102163615) – structured metadata, series information
 [^ref-27]: [eBay Product Page](https://www.ebay.com/p/170313558) – ESRB rating, stadium features, media format
 [^ref-28]: [CNET Download](https://download.cnet.com/front-page-sports-baseball-pro-98-large/3000-2117_4-10009457.html) – release date, user reviews, download statistics

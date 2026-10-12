@@ -172,7 +172,6 @@ The game is not sold on major digital stores. GOG's Dreamlist entry for the orig
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/3-d-ultra-lionel-train-town-deluxe-hut)
-- [Old Games Download](https://oldgamesdownload.com/game/3-d-ultra-lionel-train-town-deluxe-zs1/)
 
 **Community**
 - [ModDB](https://www.moddb.com/games/3d-ultra-lionel-train-town-deluxe)
@@ -213,7 +212,7 @@ The game is not sold on major digital stores. GOG's Dreamlist entry for the orig
 [^ref-19]: [TM Books and Video Fandom Wiki](https://tm-books-and-video.fandom.com/wiki/3D_Ultra_Lionel_Traintown) – the original game; Lionel video clips
 [^ref-20]: [Sound Effects Wiki](https://soundeffects.fandom.com/wiki/3D_Ultra_Lionel_TrainTown) – the original game; sound libraries, European title
 [^ref-21]: [O Gauge Forum](https://o-gaugeforum.com/thread/3523/years-ultra-lionel-traintown-deluxe) – Best Buy availability of Deluxe, 2000
-[^ref-22]: [Old Games Download – 3-D Ultra Lionel Train Town Deluxe](https://oldgamesdownload.com/game/3-d-ultra-lionel-train-town-deluxe-zs1/) – archived file sizes
+[^ref-22]: Old Games Download – 3-D Ultra Lionel Train Town Deluxe (link removed: game-download site) – archived file sizes
 [^ref-23]: [IGDB – 3D Ultra Lionel Traintown Deluxe](https://www.igdb.com/games/3d-ultra-lionel-traintown-deluxe) – release date 9/30/2000, Dynamix, Windows, expanded game of the original
 [^ref-25]: [Eli's Software Encyclopedia – 3-D Ultra Lionel TrainTown Deluxe (PC, CD-ROM) Sierra 2000](https://elisoftware.org/wiki/3-D_Ultra_Lionel_TrainTown_Deluxe_(PC,_CD-ROM)_Sierra_-_2000_USA,_Canada_Release) – box text: 80+ jobs, 10 worlds, Phantom locomotive, Layout Tinkerer, 45+ locomotives and cars, system requirements, product ID
 [^ref-26]: [Wikipedia – 3rd Annual Interactive Achievement Awards](https://en.wikipedia.org/wiki/3rd_Annual_Interactive_Achievement_Awards) – ceremony May 11, 2000 at E3; original game won PC Family Entertainment Title of the Year

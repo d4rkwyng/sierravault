@@ -287,7 +287,7 @@ The game is preserved through abandonware archives, though it faces compatibilit
 [^ref-16]: [Old-Games.com](https://www.old-games.com/download/10696/trophy-bass) – Critical review assessment
 [^ref-17]: [IGN](https://www.ign.com/games/front-page-sports-trophy-bass-2) – Release information and context
 [^ref-18]: [XeenMusic Bandcamp](https://xeenmusic.bandcamp.com/album/trophy-bass-1-official-soundtrack-volume-1-sc-55) – Musical composition and recording details
-[^ref-19]: [OldGamesDownload](https://oldgamesdownload.com/front-page-sports-trophy-bass-2-northern-lakes/) – Northern Lakes expansion details
+[^ref-19]: OldGamesDownload (link removed: game-download site) – Northern Lakes expansion details
 [^ref-20]: [Vogons.org](https://www.vogons.org/viewtopic.php?t=50808) – Technical discussion and compatibility issues
 [^ref-21]: [Internet Archive – Demo](https://archive.org/details/tbass2) – Demo preservation
 [^ref-22]: [XeenMusic SC-55 preservation methodology overview](https://xeenmusic.bandcamp.com/) — context for the XeenMusic SC-55 hardware-authentic Sierra-era soundtrack preservation pipeline

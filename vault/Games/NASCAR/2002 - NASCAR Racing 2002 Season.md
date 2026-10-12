@@ -175,4 +175,4 @@ Despite being over two decades old, NASCAR Racing 2002 Season continues to have 
 [^ref-24]: [Macworld Product News](https://www.macworld.com/article/157398/unleashed-2.html) – - Mac development details
 [^ref-25]: [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/nascar-racing-2002-season/) – - Voice cast information
 [^ref-26]: [Web Archive - Edge Review](https://web.archive.org/web/20121019052748/http://www.edge-online.com/features/top-100-pc-games-21st-century/3/) – - Graphics assessment
-[^ref-27]: [Old Games Download](https://oldgamesdownload.com/nascar-racing-2002-season/) – - Sales figures
+[^ref-27]: Old Games Download (link removed: game-download site) – - Sales figures

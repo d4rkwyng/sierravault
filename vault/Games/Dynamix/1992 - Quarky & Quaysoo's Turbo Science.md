@@ -254,7 +254,7 @@ The game's cultural details—featuring Indian-American space elf protagonists�
 [^ref-15]: [GOG Dreamlist – Quarky & Quaysoo's Turbo Science](https://www.gog.com/dreamlist/game/quarky-quaysoos-turbo-science) – community interest, wishlist votes
 [^ref-16]: [Sierra Fandom Wiki – Jeff Tunnell Productions](https://sierra.fandom.com/wiki/Jeff_Tunnell_Productions) – development studio history, release date variant
 [^ref-17]: [The Adventure Gamer – Pepper's Adventures in Time](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) – Sierra Discovery Series context, development era
-[^ref-18]: [Old Games Download – Quarky & Quaysoo's Turbo Science](https://oldgamesdownload.com/quarky-quaysoos-turbo-science/) – file size, basic information
+[^ref-18]: Old Games Download – Quarky & Quaysoo's Turbo Science (link removed: game-download site) – file size, basic information
 [^ref-19]: [Amazon – Quarky & Quaysoo's Turbo Science Research Guide](https://www.amazon.com/Quarky-Quaysoos-Turbo-Science-Research/dp/B000I1AV7S) – publication details, weight
 [^ref-20]: [Wikiwand – Quarky & Quaysoo's Turbo Science](https://www.wikiwand.com/en/articles/Quarky_&_Quaysoo's_Turbo_Science) – game features, educational content, Oppenheim review
 [^ref-21]: [IMDB – Quarky & Quaysoo's Turbo Science](https://www.imdb.com/find/?q=Quarky+%26+Quaysoo%27s+Turbo+Science&s=tt) – release year confirmation

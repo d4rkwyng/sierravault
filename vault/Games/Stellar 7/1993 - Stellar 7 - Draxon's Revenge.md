@@ -186,7 +186,6 @@ The game's design choices, including the significantly higher difficulty with on
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/stellar-7-draxon-s-revenge-edc) - Free download (3DO version)
-- [Old Games Download](https://oldgamesdownload.com/stellar-7-draxons-revenge/) - Japanese ROM available[^ref-16]
 
 **Manuals & Extras**
 - [Sierra Chest – Box Art](https://sierrachest.com/index.php?a=games&id=557&title=stellar-7-draxons-revenge&fld=box)[^ref-6]
@@ -216,7 +215,7 @@ The game's design choices, including the significantly higher difficulty with on
 [^ref-13]: [LaunchBox Games Database – Stellar 7: Draxon's Revenge](https://gamesdb.launchbox-app.com/games/images/4622-stellar-7-draxons-revenge) – images, release date, Japanese title
 [^ref-14]: [Retro North Games – Stellar 7: Draxon's Revenge](https://retronorthgames.com/products/stellar-7-draxons-revenge) – retail pricing, availability
 [^ref-15]: [GOG Dreamlist – Stellar 7: Draxon's Revenge](https://www.gog.com/dreamlist/game/stellar-7-draxon-s-revenge-1993) – community votes, genre classification
-[^ref-16]: [Old Games Download – Stellar 7: Draxon's Revenge](https://oldgamesdownload.com/stellar-7-draxons-revenge/) – ROM availability
+[^ref-16]: Old Games Download – Stellar 7: Draxon's Revenge (link removed: game-download site) – ROM availability
 [^ref-17]: [MoviePosterDB – Stellar 7: Draxon's Revenge](https://es-np.movieposterdb.com/stellar-7-draxons-revenge-i19120902) – release date, director credits
 [^ref-18]: [Play-Asia – Stellar 7: Draxon's Revenge](https://www.play-asia.com/stellar-7-draxons-revenge/13/702zwz) – T&E Soft publisher (Japan), game description
 [^ref-19]: [PriceCharting – Stellar 7: Draxon's Revenge](https://www.pricecharting.com/game/3do/stellar-7-draxon%27s-revenge) – market availability

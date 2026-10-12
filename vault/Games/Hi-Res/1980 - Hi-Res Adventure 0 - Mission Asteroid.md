@@ -175,7 +175,7 @@ Historical records indicate the game was released in multiple versions, includin
 ## References
 
 [^ref-1]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Hi-Res_Adventure) – Hi-Res Adventure series information
-[^ref-2]: [Old Games Download](https://oldgamesdownload.com/hi-res-adventure-0-mission-asteroid/) – Development and platform details
+[^ref-2]: Old Games Download (link removed: game-download site) – Development and platform details
 [^ref-3]: [Wikipedia](https://en.wikipedia.org/wiki/Hi-Res_Adventure_%230%3A_Mission_Asteroid) – Historical context and early graphic adventure games
 [^ref-4]: [Gaming After 40 Blog](http://gamingafter40.blogspot.com/2012/06/adventure-of-week-mission-asteroid-1981.html) – Game numbering and target audience explanation
 [^ref-5]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#0:_Mission_Asteroid/Development) – Roberta Williams design credit and series context

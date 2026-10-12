@@ -148,7 +148,6 @@ According to Wizard and the Princess, Harlin had divided the continent of Sereni
 **Preservation / Archives**
 - [MyAbandonware](https://www.myabandonware.com/game/hi-res-adventure-2-the-wizard-and-the-princess-2)[^ref-5]
 - [Internet Archive](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog)
-- [Old Games Download](https://oldgamesdownload.com/hi-res-adventure-2-the-wizard-and-the-princess/)[^ref-23]
 
 ## See Also
 
@@ -188,5 +187,5 @@ According to Wizard and the Princess, Harlin had divided the continent of Sereni
 [^ref-20]: [King's Quest Wiki](https://kingsquest.fandom.com/wiki/Wizard_and_the_Princess) – Industry influence and King's Quest connections
 [^ref-21]: [Internet Archive – PC Magazine](https://archive.org/details/PC-Mag-1984-01-24) – Wiswell, Phil (January 24, 1984). "Coming Soon: Games For The PCjr". pp. 142–145
 [^ref-22]: Amazon – The King's Quest Companion *(link removed: it led to a different game's page)* – 2nd Edition – Expanded lore and wanderer's fate
-[^ref-23]: [Old Games Download](https://oldgamesdownload.com/hi-res-adventure-2-the-wizard-and-the-princess/) – Game preservation and description
+[^ref-23]: Old Games Download (link removed: game-download site) – Game preservation and description
 [^ref-24]: [VGTimes](https://vgtimes.com/games/hi-res-adventure-2-the-wizard-and-the-princess/) – Modern retrospective rating

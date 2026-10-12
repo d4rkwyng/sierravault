@@ -319,7 +319,7 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 [^ref-10]: [MobyGames – Hoyle Casino (1996)](https://www.mobygames.com/game/45135/hoyle-casino/) – developer, publisher, initial release
 [^ref-11]: [Games Database – Hoyle Casino Dreamcast](https://www.gamesdatabase.org/game/sega-dreamcast/hoyle-casino.aspx) – character count, tutorial features
 [^ref-12]: [eBay – Hoyle Casino 2000 Listing](https://www.ebay.com/itm/387567554120) – Facemaker feature, game variations
-[^ref-13]: [Abandonware Games – Hoyle Casino Empire](https://abandonwaregames.net/game/hoyle-casino-empire) – casino manager gameplay
+[^ref-13]: Abandonware Games – Hoyle Casino Empire (link removed: game-download site) – casino manager gameplay
 [^ref-14]: [GameSpot – Casino Empire Review](https://www.gamespot.com/reviews/casino-empire-review/1900-2882505/) – review score, RollerCoaster Tycoon comparison
 [^ref-15]: [VGTimes – Hoyle Casino (1996)](https://vgtimes.com/games/hoyle-casino-1996/) – first-person perspective description
 [^ref-16]: [MobyGames – Hoyle Casino (2000)](https://www.mobygames.com/game/2686/hoyle-casino/) – credits, rating, technical specs

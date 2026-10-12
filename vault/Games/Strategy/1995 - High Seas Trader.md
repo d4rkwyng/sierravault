@@ -148,7 +148,7 @@ Modern retrospectives note that the game "aged better on nostalgia than in playa
 [^ref-11]: [Cheatbook](https://www.cheatbook.de/wfiles/highseastrader.htm) – - Primary game objective
 [^ref-12]: [Free Game Empire](https://www.freegameempire.com/games/High-Seas-Trader) – - Combat elements
 [^ref-13]: [OldGames.sk](https://www.oldgames.sk/en/game/high-seas-trader/download/8239/) – - Progression system
-[^ref-14]: [Old Games Download](https://oldgamesdownload.com/high-seas-trader/) – - Gameplay activities
+[^ref-14]: Old Games Download (link removed: game-download site) – - Gameplay activities
 [^ref-15]: [Games Nostalgia](https://gamesnostalgia.net/game/high-seas-trader) – - Business expansion objective
 [^ref-16]: [Jeuxvideo.com](https://www.jeuxvideo.com/wikis-soluce-astuces/patch-sur-sauvegarde-pour-modifier-l-equipage/202673) – - Crew management
 [^ref-17]: [Reddit High Seas Trader](https://www.reddit.com/r/highseastrader/) – - Supply management discussion

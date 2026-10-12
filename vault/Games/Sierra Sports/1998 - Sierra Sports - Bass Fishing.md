@@ -153,7 +153,7 @@ The series influenced other fishing simulations and demonstrated that niche spor
 [^ref-2]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Trophy_Bass) – - Developer and designer credits
 [^ref-3]: [Eurogamer Review](https://www.eurogamer.net/articles/tbass4) – - Game description and review
 [^ref-4]: [GameFAQs Trophy Bass Franchise](https://gamefaqs.gamespot.com/games/franchise/419-trophy-bass) – - Series history and franchise details
-[^ref-5]: [Old Games Download](https://oldgamesdownload.com/field-stream-trophy-bass-4/) – - Release information
+[^ref-5]: Old Games Download (link removed: game-download site) – - Release information
 [^ref-6]: [Internet Archive - Field & Stream Trophy Bass 4](https://archive.org/details/FieldStreamTrophyBass4) – - Official game description
 [^ref-7]: [MobyGames Technical Specs](https://www.mobygames.com/game/2990/field-stream-trophy-bass-4/specs/windows/) – - Platform information
 [^ref-8]: [Web Archive - CD Magazine](https://web.archive.org/web/20030525154506/http://www.cdmag.com/articles/028/038/tb4.html) – - Official feature announcement

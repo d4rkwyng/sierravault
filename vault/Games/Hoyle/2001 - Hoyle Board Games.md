@@ -228,7 +228,6 @@ The series quote that "it may only appeal to players who are unfamiliar with any
 
 **Download / Preservation**
 - [My Abandonware](https://www.myabandonware.com/game/hoyle-board-games-2001-dk0) – ISO download available[^ref-12]
-- [Old Games Download](https://oldgamesdownload.com/hoyle-board-games-2001/) – 523.9MB ISO format[^ref-15]
 - [Macintosh Repository](https://www.macintoshrepository.org/5852-hoyle-board-games-2001) – Mac version preservation[^ref-7]
 
 ## See Also
@@ -305,7 +304,7 @@ The series quote that "it may only appeal to players who are unfamiliar with any
 [^ref-12]: [My Abandonware – Hoyle Board Games 2001](https://www.myabandonware.com/game/hoyle-board-games-2001-dk0) – user ratings, technical issues, compatibility notes
 [^ref-13]: [GameFAQs – Hoyle Board Games 2001](https://gamefaqs.gamespot.com/pc/451212-hoyle-board-games-2001) – release date, user ratings, game list
 [^ref-14]: [MobyGames – Hoyle Board Games 1998](https://www.mobygames.com/game/977/hoyle-board-games/) – previous edition details, series info, composer credit
-[^ref-15]: [Old Games Download](https://oldgamesdownload.com/hoyle-board-games-2001/) – file size, user-reported issues
+[^ref-15]: Old Games Download (link removed: game-download site) – file size, user-reported issues
 [^ref-16]: [GameFAQs – Hoyle Board Games 2005](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005) – later edition publisher info
 [^ref-17]: [Metacritic – Hoyle Board Games 2001](https://www.metacritic.com/game/hoyle-board-games-2001/) – ESRB rating, release date, game summary
 [^ref-18]: [IGDB – Hoyle Board Games 2001](https://www.igdb.com/games/hoyle-board-games-2001) — Internet Games Database entry, hybrid Windows/Mac platform tagging

@@ -194,7 +194,6 @@ For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the 
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-bridge-dk1) - Windows and Windows 3.x versions
-- [Old Games Download](https://oldgamesdownload.com/hoyle-bridge/) - Free download
 
 **Compatibility**
 - Windows 3.x version may be playable through ScummVM on modern systems[^ref-5]

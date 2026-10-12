@@ -250,7 +250,6 @@ The franchise's eventual move from Sierra to Encore, Inc. marked the end of an e
 
 **Download / Preservation**
 - [My Abandonware](https://www.myabandonware.com/game/hoyle-casino-empire-dk2)[^ref-13]
-- [Abandonware Games](https://abandonwaregames.net/game/hoyle-casino-empire)
 - [Internet Archive](https://archive.org/details/casino-empire)
 
 **Manuals & Extras**

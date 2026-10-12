@@ -196,7 +196,6 @@ The Deluxe version, released in 2000, was an enhanced release adding 50 new miss
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/3-d-ultra-lionel-train-town-deluxe-hut) (Deluxe edition)
-- [Old Games Download](https://oldgamesdownload.com/3d-ultra-lionel-traintown/)
 
 **Community**
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/3d-ultra-lionel-traintown-1999) - Community voting for digital re-release

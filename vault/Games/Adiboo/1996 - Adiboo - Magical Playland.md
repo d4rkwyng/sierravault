@@ -215,7 +215,6 @@ The game occupies an interesting position within Sierra's broader catalog: Cokte
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/adiboo-magical-playland-dys) – Multiple versions available (2.12, 2.13)
-- [Old Games Download](https://oldgamesdownload.com/adiboo-magical-playland/) – European English version ISO
 - [Internet Archive](https://archive.org/details/Adiboo_201809) – main disc plus the "I Can Read/Count Ages 4-5" add-on
 
 **Note:** The game runs in a Windows 95/98 virtual machine or in ScummVM on modern systems[^ref-14][^ref-17][^ref-5].
@@ -238,7 +237,7 @@ The game occupies an interesting position within Sierra's broader catalog: Cokte
 [^ref-9]: [The Casual Gamer Blog – Adiboo](https://thecasualgamernet.wordpress.com/tag/adiboo/) – retrospective, character descriptions, Giant Bomb quote
 [^ref-10]: [TV Tropes – YMMV/Adiboo Magical Playland](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/AdibooMagicalPlayland) – disturbing content, Play Toons crossover, cooking mini-game, face design
 [^ref-11]: [IGN – Adiboo Magical Playland User Reviews](https://www.ign.com/games/adiboo-magical-playland/user-reviews) – user ratings, release date
-[^ref-12]: [Old Games Download – Adiboo Magical Playland](https://oldgamesdownload.com/adiboo-magical-playland/) – file size, compatibility issues, user technical support
+[^ref-12]: Old Games Download – Adiboo Magical Playland (link removed: game-download site) – file size, compatibility issues, user technical support
 [^ref-13]: [Wikipédia (FR) – Adibou 2](https://fr.wikipedia.org/wiki/Adibou_2) – release, predecessor, activities in house and garden, add-on discs, PC Team rating
 [^ref-14]: [Internet Archive – Adiboo: Magical Playland](https://archive.org/details/Adiboo_201809) – preserved game media, 256-colour driver requirement, Windows 98 VirtualBox report
 [^ref-15]: [Giant Bomb – Adiboo: Magical Playland](https://giantbomb.com/wiki/Games/Adiboo_Magical_Playland) – database entry: 1996, Coktel Vision

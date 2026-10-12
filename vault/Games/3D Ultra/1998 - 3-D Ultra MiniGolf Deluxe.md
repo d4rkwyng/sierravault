@@ -96,7 +96,6 @@ Not currently sold digitally. GOG lists it only as a Dreamlist (wishlist) entry:
 **Download / Preservation**
 - [MyAbandonware - 3-D Ultra Minigolf Deluxe](https://www.myabandonware.com/game/3-d-ultra-minigolf-deluxe-duw)[^ref-19]
 - [Internet Archive - 3D Ultra Minigolf Deluxe](https://archive.org/details/3DUltraMinigolfDeluxe_201809)[^ref-2]
-- [Old Games Download - 3-D Ultra Minigolf Deluxe](https://oldgamesdownload.com/3-d-ultra-minigolf-deluxe/)[^ref-21]
 
 ## See Also
 
@@ -134,6 +133,6 @@ Not currently sold digitally. GOG lists it only as a Dreamlist (wishlist) entry:
 [^ref-16]: [MMO Central Forums - User Review](https://www.mmocentralforums.com/forums/showthread.php?t=245391&page=3) - User review (sb1254) with scoring breakdown
 [^ref-18]: [MobyGames - 3-D Ultra Minigolf Deluxe credits](https://www.mobygames.com/game/38197/3-d-ultra-minigolf-deluxe/credits/) - Windows credits (1998)
 [^ref-19]: [MyAbandonware - 3-D Ultra Minigolf Deluxe](https://www.myabandonware.com/game/3-d-ultra-minigolf-deluxe-duw) - Download page with user rating
-[^ref-21]: [Old Games Download - 3-D Ultra Minigolf Deluxe](https://oldgamesdownload.com/3-d-ultra-minigolf-deluxe/) - Download page
+[^ref-21]: Old Games Download - 3-D Ultra Minigolf Deluxe (link removed: game-download site) - Download page
 [^ref-23]: [Sierra Chest - Minigolf Adventures Deluxe](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=general) - Minigolf Maniacs development history
 [^ref-27]: [Zomb's Lair - 3D Ultra Minigolf Deluxe](https://www.zombs-lair.com/3d-ultra-minigolf-deluxe) - Retrospective review

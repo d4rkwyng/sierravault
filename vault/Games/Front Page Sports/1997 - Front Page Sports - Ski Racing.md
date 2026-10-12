@@ -177,4 +177,4 @@ A community-created patch has been developed to address compatibility issues, sp
 [^ref-17]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – publisher information
 [^ref-18]: [IGDB – Front Page Sports: Ski Racing](https://www.igdb.com/games/front-page-sports-ski-racing) – game database entry
 [^ref-19]: [Giant Bomb – Front Page Sports](https://www.giantbomb.com/front-page-sports/3025-1447/) – franchise information
-[^ref-20]: [Old Games Download](https://oldgamesdownload.com/front-page-sports-ski-racing/) – preservation archives
+[^ref-20]: Old Games Download (link removed: game-download site) – preservation archives

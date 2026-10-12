@@ -219,7 +219,7 @@ Speedrun.com hosts a small set of leaderboards for several games in the collecti
 [^ref-20]: [Apple Discussions - Compatibility](https://discussions.apple.com/thread/966505) - Intel Mac issues, Mushu Tiles unavailability
 [^ref-21]: [Macintosh Repository](https://www.macintoshrepository.org/3569-after-dark-games) - System requirements, file specifications
 [^ref-22]: [SuperUser - Windows 10 Compatibility](https://superuser.com/questions/1027614/is-after-dark-compatible-for-windows-10) - Modern system compatibility
-[^ref-24]: [Old Games Download](https://oldgamesdownload.com/after-dark-games/) - Community preservation efforts, user comments
+[^ref-24]: Old Games Download (link removed: game-download site) - Community preservation efforts, user comments
 [^ref-25]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/after-dark-games) - User preservation requests, nostalgia quotes
 [^ref-26]: [Speedrun.com - Toaster Run](https://www.speedrun.com/adg/runs/z0p9ee4y) - Specific speedrun submission
 [^ref-29]: [SierraChest](https://sierrachest.com/index.php?a=games&id=744&title=after-dark-games) - Demo information, bundling details

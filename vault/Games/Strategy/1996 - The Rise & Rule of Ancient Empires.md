@@ -175,7 +175,6 @@ From a development perspective, the game is notable as an example of Impressions
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/TheRiseRuleofAncientEmpires_1020)[^ref-2]
 - [MyAbandonware](https://www.myabandonware.com/game/the-rise-rule-of-ancient-empires-dei)[^ref-17]
-- [Old Games Download](https://oldgamesdownload.com/the-rise-rule-of-ancient-empires/)[^ref-13]
 
 **Manuals & Extras**
 - [Patch 1.01](https://archive.org/details/RISE101) – Official patch with multiplayer fixes[^ref-9]
@@ -203,7 +202,7 @@ From a development perspective, the game is notable as an example of Impressions
 [^ref-10]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/126884-the-rise-rule-of-ancient-empires) – game objective
 [^ref-11]: [Coming Soon Magazine](https://www.csoon.com/issue19/riserule.htm) – Anil Chhabra review, technical requirements, gameplay issues
 [^ref-12]: [CGR Reviews via Wayback Machine](https://web.archive.org/web/19961221190424/http://www.nuke.com/cgr/reviews/9607/riseru/riseru.htm) – Scott Gehrs review, gameplay analysis
-[^ref-13]: [Old Games Download](https://oldgamesdownload.com/the-rise-rule-of-ancient-empires/) – system requirements, game duration
+[^ref-13]: Old Games Download (link removed: game-download site) – system requirements, game duration
 [^ref-14]: [GameSpot Review](http://www.gamespot.com/reviews/the-rise-and-rule-of-ancient-empires-review/1900-2532812/) – Trent Ward review, cultural authenticity comments
 [^ref-15]: [UV List](https://www.uvlist.net/game-220074-The+Rise+Rule+of+Ancient+Empires) – Génération 4 review score
 [^ref-16]: [MobyGames – MobyRank](http://www.mobygames.com/game/rise-rule-of-ancient-empires/mobyrank) – user reviews

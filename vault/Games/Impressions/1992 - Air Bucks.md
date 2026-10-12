@@ -284,7 +284,7 @@ Nevertheless, Air Bucks demonstrated that the airline industry could provide com
 [^ref-17]: [MobyGames – Air Bucks Tech Info](https://www.mobygames.com/game/air-bucks/techinfo) – system requirements, platform specifications
 [^ref-18]: [MyAbandonware – Air Bucks](https://www.myabandonware.com/game/air-bucks-1bv) – user ratings, known issues, development notes
 [^ref-20]: [Giant Bomb – Air Bucks](https://www.giantbomb.com/air-bucks/3030-5198/) – release history, version information
-[^ref-21]: [AbandonwareGames.net – Air Bucks](https://abandonwaregames.net/game/air-bucks) – user rating, platforms
+[^ref-21]: AbandonwareGames.net – Air Bucks (link removed: game-download site) – user rating, platforms
 [^ref-22]: [MyAbandonware – Air Bucks](https://www.myabandonware.com/game/air-bucks-1k) – user rating, download metadata, SimAir comparison and preservation notes (emuparadise replacement; Emuparadise removed all abandonware/ROM content in 2018)
 [^ref-23]: [Abandonware DOS – Air Bucks](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Air+Bucks&gid=3275) – user rating, platforms
 [^ref-24]: [Atari Legend – Air Bucks](https://www.atarilegend.com/games/air-bucks) – composer credits, music tracks

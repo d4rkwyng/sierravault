@@ -253,7 +253,7 @@ Internet Archive hosts verified copies of both the DOS and Windows versions for 
 [^ref-3]: [Brain Baking](https://brainbaking.com/post/2025/09/a-tribute-to-hoyles-official-book-of-games/) - Version history and character feature details
 [^ref-4]: [MobyGames](https://www.mobygames.com/game/30264/hoyle-classic-card-games/) - Developer credits, critical reception
 [^ref-6]: [GameFAQs](https://gamefaqs.gamespot.com/pc/197583-hoyle-classic-card-games) - Hoyle reputation and authority
-[^ref-8]: [Old Games Download](https://oldgamesdownload.com/hoyle-classic-card-games/) - Developer information
+[^ref-8]: Old Games Download (link removed: game-download site) - Developer information
 [^ref-9]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Hoyle_Classic_Card_Games) - Platform and technical details
 [^ref-10]: [Wikipedia](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) - Development challenges and production methods
 [^ref-11]: Old PC Gaming (link removed: site offers game downloads) - Review and game descriptions

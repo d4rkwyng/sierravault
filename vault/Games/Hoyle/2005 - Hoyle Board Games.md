@@ -218,7 +218,6 @@ The enthusiastic response from modern players on abandonware sites, calling for 
 
 **Download / Preservation**
 - [My Abandonware](https://www.myabandonware.com/game/hoyle-board-games-2005-hzk) – ISO download available[^ref-9]
-- [Old Games Download](https://oldgamesdownload.com/hoyle-board-games-2005/) – ZIP format download[^ref-13]
 
 **Community Resources**
 - [Steam Community Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3416472072) – Detailed gameplay guide and workarounds[^ref-10]
@@ -294,7 +293,7 @@ The enthusiastic response from modern players on abandonware sites, calling for 
 [^ref-10]: [Steam Community Guide – Hoyle Board Games](https://steamcommunity.com/sharedfiles/filedetails/?id=3416472072) – cut content, bugs, music sources, gameplay details
 [^ref-11]: [IGN – Hoyle Board Games 2005](https://www.ign.com/games/hoyle-board-games-2005) – release date, developer/publisher
 [^ref-12]: [MobyGames – Hoyle Board Games 2005 Reviews](https://www.mobygames.com/game/178238/hoyle-board-games-2005/reviews/) – reviews page (no reviews present)
-[^ref-13]: [Old Games Download – Hoyle Board Games 2005](https://oldgamesdownload.com/hoyle-board-games-2005/) – file size, format, download information
+[^ref-13]: Old Games Download – Hoyle Board Games 2005 (link removed: game-download site) – file size, format, download information
 [^ref-14]: [Metacritic – Hoyle Puzzle and Board Games 2005](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2005/) – bundle release information, game counts
 [^ref-15]: [Giant Bomb](https://www.giantbomb.com/hoyle-board-games-2005/3030-52095/) – Game database entry
 [^ref-16]: [IGDB](https://www.igdb.com/games/hoyle-board-games-2005) – Game database entry
