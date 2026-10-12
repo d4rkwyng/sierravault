@@ -10,18 +10,19 @@ series: Leisure Suit Larry
 engine: SCI1
 protagonist: Larry Laffer / Passionate Patti
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: 'Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work,
-  released in 1991, stands as the fourth entry in Al Lowe''s infamous adventure series....'
+last_updated: '2026-10-12'
+description: 'Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work
+  (1991) is the fourth game in Al Lowe''s Leisure Suit Larry series, alternating
+  between Larry Laffer and Passionate Patti and skipping a Larry 4 that was never made.'
 tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work, released in 1991, stands as the fourth entry in Al Lowe's infamous adventure series[^ref-1]. Despite being numbered as the fifth game, there was never a Leisure Suit Larry 4, which Al Lowe skipped intentionally as a marketing gag and narrative device[^ref-4]. The game marked a significant departure for the series, being the first to abandon the text parser interface in favor of a fully icon-based point-and-click system[^ref-3].
+Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work, released in 1991, stands as the fourth entry in Al Lowe's infamous adventure series[^ref-4]. Despite being numbered as the fifth game, there was never a Leisure Suit Larry 4; skipping it served both as a joke and as a way to continue the plot[^ref-16][^ref-14]. It was the first new Larry adventure to drop the text parser for an icon-based point-and-click interface, following the VGA remake of the first game, released shortly before it, which had made the same switch[^ref-12][^ref-16][^ref-3].
 
 This adventure game alternates control between series protagonist Larry Laffer and Passionate Patti, each following separate storylines that eventually converge[^ref-4]. Larry has been assigned by his boss to scout models for the company's upcoming release "America's Sexiest Home Videos," while Patti works undercover for the FBI on a case that leads to the mobster Julius Biggs[^ref-4]. The game was designed as what creator Al Lowe described as an "interactive cartoon," explaining why neither character can die during gameplay[^ref-6].
 
@@ -30,7 +31,7 @@ This adventure game alternates control between series protagonist Larry Laffer a
 > **Designer:** [[Al Lowe]][^ref-8]
 > **Publisher:** Sierra On-Line[^ref-9]
 > **Platforms:** DOS, Amiga, Macintosh[^ref-10]
-> **Release Year:** 1991[^ref-11]
+> **Release Year:** 1991[^ref-4]
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Core Sierra
 > **Engine:** SCI1[^ref-12]
@@ -38,15 +39,15 @@ This adventure game alternates control between series protagonist Larry Laffer a
 
 ## Story Summary
 
-The plot begins with Larry Laffer being assigned a dream job: traveling across the United States to visit three of America's sexiest women for his company's video production[^ref-13]. His boss figures that since Larry is so pathetic with women, any woman willing to get with him must be the perfect candidate for their adult video show[^ref-14]. Meanwhile, the FBI recruits Passionate Patti to go undercover and find out how organized crime has infiltrated the entertainment industry through subliminal messages hidden in rock and rap recordings[^ref-4].
+The plot begins with Larry Laffer being assigned a dream job: traveling across the United States to find and secretly film three of America's sexiest women for his company's show[^ref-16][^ref-14]. His boss figures that since Larry is so pathetic with women, any woman willing to get with him must be the perfect candidate for their adult video show[^ref-14]. Meanwhile, the FBI recruits Passionate Patti to go undercover and find out how organized crime has infiltrated the entertainment industry through subliminal messages hidden in rock and rap recordings[^ref-4].
 
-The game's premise cleverly incorporates the mystery of the missing Leisure Suit Larry 4 into its narrative. Larry has supposedly forgotten his fourth adventure due to amnesia caused by the villainous Julius Biggs, who stole the "missing floppies" containing the fourth game[^ref-16]. This tongue-in-cheek explanation became part of the series mythology, with Larry 4 forever referred to as "The Case of the Missing Floppies"[^ref-17].[^ref-43]
+The game's premise cleverly incorporates the mystery of the missing Leisure Suit Larry 4 into its narrative. Larry has supposedly forgotten his fourth adventure due to amnesia caused by the villainous Julius Biggs, who stole the "missing floppies" containing the fourth game[^ref-4][^ref-15]. This tongue-in-cheek explanation became part of the series mythology, with Larry 4 from then on referred to as "The Case of the Missing Floppies"[^ref-16].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Leisure Suit Larry 5 introduced the series' first fully mouse-driven interface, abandoning the text parser system that had defined earlier entries[^ref-18]. Al Lowe later reflected that this change had unexpected consequences: "I put the same amount of puzzles in Larry 5 as in Larry 3 but people solved the game much faster because they didn't have to guess which words we wanted them to type"[^ref-3]. The new system featured what the developers cheekily described as a "no-typing 'grope and click' interface for quick-feel, one-hand action scoring"[^ref-7].
+Leisure Suit Larry 5 was the first new Larry game with a point-and-click interface, abandoning the text parser that had defined the earlier original entries; only the 1991 VGA remake of the first game had used it before[^ref-12]. Al Lowe later reflected that this change had unexpected consequences: "I put the same amount of puzzles in Larry 5 as in Larry 3 but people solved the game much faster because they didn't have to guess which words we wanted them to type"[^ref-3]. The new system featured what the developers cheekily described as a "no-typing 'grope and click' interface for quick-feel, one-hand action scoring"[^ref-7].
 
 The game introduced several unique interface elements, including the infamous "Zipper" icon for erotic actions[^ref-4] and the "Bodily Function Keys"[^ref-7]. According to Al Lowe, these sound effect keys were added just three days before shipping: "We added these about three days before we shipped because it was late at night, we were tired, we were high on caffeine and pizza, we were all Letterman fans, it seemed like a good idea at the time, and we could"[^ref-7].
 
@@ -54,11 +55,11 @@ The game introduced several unique interface elements, including the infamous "Z
 
 Unlike previous Larry games, Leisure Suit Larry 5 is notably more linear in structure[^ref-20]. Players alternate between controlling Larry and Patti as they travel to different locations across the United States, with the narrative switching perspectives when characters board airplanes[^ref-29]. The game is structured around separate episodes for each character, eventually bringing their storylines together for the climax[^ref-22].
 
-A significant aspect of the game's design was the removal of death and failure states. As one reviewer noted, "Unlike the previous Larry games, you cannot die in game nor get stuck. There are always ways out of a situation"[^ref-23]. This design decision aligned with Al Lowe's vision of creating an interactive cartoon experience[^ref-6].
+A significant aspect of the game's design was the removal of death and failure states. As one GameFAQs walkthrough author noted, "Unlike the previous Larry games, you cannot die in game nor get stuck. There are always ways out of a situation"[^ref-23]. This design decision aligned with Al Lowe's vision of creating an interactive cartoon experience[^ref-6].
 
 ### Puzzles and Mechanics
 
-The game's puzzle design received mixed reactions from players and critics. Many found the difficulty significantly reduced compared to earlier Sierra adventures[^ref-24]. One walkthrough author observed, "Larry 5 is the only adventure game I ever played without actually solving even ONE of the puzzles. Basically everything is optional except the introduction and the ending part"[^ref-5].
+Reviewers found the puzzles easy: Adventure Classic Gaming rated the difficulty 1 of 5 ("Trivial")[^ref-7], and one walkthrough site calls the game "very enjoyable although a little easier than previous adventure games"[^ref-24]. One walkthrough author observed, "Larry 5 is the only adventure game I ever played without actually solving even ONE of the puzzles. Basically everything is optional except the introduction and the ending part"[^ref-5].
 
 The complete game is worth 1,000 points, though many items and puzzles are optional and don't affect progression[^ref-25]. This departure from traditional adventure game design led to criticism that the experience felt more like "clicking the up & down arrows on a notepad window to scroll a story up & down" rather than engaging puzzle-solving[^ref-26].
 
@@ -66,24 +67,29 @@ The complete game is worth 1,000 points, though many items and puzzles are optio
 
 ### Contemporary Reviews
 
-The game received mixed reviews upon release, with significant variation between platforms and publications.
+Contemporary scores averaged in the mid-70s, with Amiga magazine scores ranging from 50% to 92%. LemonAmiga averages ten Amiga magazine reviews at 73%[^ref-10], and MobyGames lists a critic average of 76% across 24 ratings[^ref-9].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
+| Computer Gaming World | Positive | November 1991: "thoroughly enjoyable game"[^ref-46][^ref-4] |
 | Amiga Action | 92% | April 1992[^ref-10] |
 | Amiga Computing | 91% | July 1992[^ref-10] |
-| Computer Gaming World | Positive | "thoroughly enjoyable game"[^ref-4] |
+| Amiga Joker | 85% | March 1992[^ref-10] |
+| Zero | 83% | April 1992[^ref-10] |
+| CU Amiga | 82% | March 1992[^ref-10] |
+| Amiga Mania | 78% | April 1992[^ref-10] |
+| Datormagazin | 67% | April 1992[^ref-10] |
 | Amiga Format | 50% | April 1992[^ref-10] |
 | Amiga Power | 50% | March 1992[^ref-10] |
 | The One | 50% | March 1992[^ref-10] |
 
-Computer Gaming World's J.D. Lambright called it a "thoroughly enjoyable game" in November 1991[^ref-4]. However, the Amiga versions received particularly harsh criticism for technical issues, with one user noting, "It's hard to believe Larry 5 is genuinely funny and silly and thus enjoyable adventure if you look at the sheer ugliness of Amiga conversion"[^ref-27].
+Computer Gaming World's J.D. Lambright called it "a thoroughly enjoyable game" in November 1991[^ref-46][^ref-4]. Some players criticised the Amiga conversion; one LemonAmiga user wrote, "It's hard to believe Larry 5 is genuinely funny and silly and thus enjoyable adventure if you look at the sheer ugliness of Amiga conversion"[^ref-27].
 
 ### Modern Assessment
 
-Contemporary retrospective reviews have been more critical, though not uniformly. Adventure Classic Gaming's 1999 review rated it 4/5, with the reviewer writing, "Among all the titles in the Leisure Suit Larry series, my favorite is Leisure Suit Larry 5"[^ref-7]. Alex Bevilacqua's blog review gave it 55%, noting that "playing this game sort of felt like I was 'going through the motions'. There wasn't much challenge, the game world felt very small and there wasn't much to explore"[^ref-8].
+Later retrospective reviews have been mixed. Adventure Classic Gaming's 1999 review rated it 4/5, with the reviewer writing, "Among all the titles in the Leisure Suit Larry series, my favorite is Leisure Suit Larry 5"[^ref-7]. Alex Bevilacqua's blog review gave it 55%, noting that "playing this game sort of felt like I was 'going through the motions'. There wasn't much challenge, the game world felt very small and there wasn't much to explore"[^ref-8].
 
-MobyGames user reviews have been particularly harsh, with one reviewer stating "Larry 5 is unabashedly, mind-numbingly, infuriatingly easy" and criticizing that "all the puzzles in the game are there only to score extra points"[^ref-30]. Another user compared the game's quality to Larry's romantic failures: "Larry 5 is to adventure games (Larry legacy included) what Larry is to women"[^ref-26].
+Some MobyGames user reviews are harsh, with one reviewer stating "Larry 5 is unabashedly, mind-numbingly, infuriatingly easy" and criticizing that "all the puzzles in the game are there only to score extra points"[^ref-30]. Another user compared the game's quality to Larry's romantic failures: "Larry 5 is to adventure games (Larry legacy included) what Larry is to women"[^ref-26].
 
 ## Development
 
@@ -95,13 +101,13 @@ This decision solved what Lowe called the "mind share problem" - how to grab peo
 
 ### Production
 
-The game was developed using Sierra's SCI1 engine, marking the first Larry title to feature 256-color VGA graphics[^ref-12]. The production team included director Bill Davis alongside Al Lowe, producer Guruka Singh Khalsa, programmer Brian K. Hughes, and artist Jane Cardinal[^ref-4].
+The game was developed using Sierra's SCI1 engine[^ref-12]. Like the VGA remake of the first game, released shortly before it, Larry 5 uses 256-colour VGA graphics[^ref-16][^ref-7]. The production team included creative director Bill Davis alongside Al Lowe, producer Guruka Singh Khalsa, programmer Brian K. Hughes, and artist Jane Cardinal[^ref-4].
 
 Craig Safan, an Emmy-nominated Hollywood composer whose credits include the TV series Cheers, The Last Starfighter and A Nightmare on Elm Street 4, provided the musical score[^ref-7]. The soundtrack was later preserved digitally, featuring Roland MT-32 score with Sound Canvas enhancements[^ref-31].
 
 ### Technical Achievements
 
-Leisure Suit Larry 5 featured several technical firsts for the series. All of its graphics were hand-painted and then digitized[^ref-7]. The game also introduced Sierra's full icon-based interface system to the Larry series, though this change had unexpected consequences for gameplay difficulty[^ref-3].
+According to Adventure Classic Gaming, all of the game's graphics were hand-painted and then digitized[^ref-7]. The move to Sierra's icon-based interface had unexpected consequences for gameplay difficulty[^ref-3].
 
 The game included copy protection through its airline booking system, requiring players to look up AeroDork Airline ticket codes in the game's documentation[^ref-32].
 
@@ -109,16 +115,16 @@ US telephone company Sprint paid to be featured in the game: whenever Larry or P
 
 ## Legacy
 
-Leisure Suit Larry 5's impact on the series was significant but controversial. While it introduced technical innovations like VGA graphics and the icon interface, many fans and critics consider it one of the weaker entries in the series[^ref-1]. The game's simplified puzzle design and linear structure marked a departure from the more complex adventure gaming that characterized earlier Sierra titles[^ref-28].
+Leisure Suit Larry 5's impact on the series was significant but controversial. It brought VGA graphics and the icon interface to a new Larry adventure, but some later reviewers rate it poorly; 3rd World Geeks felt it "falls in the 'miss' category" of the series[^ref-1]. The game's simplified puzzle design and linear structure marked a departure from the more complex adventure gaming that characterized earlier Sierra titles[^ref-28].
 
-The mysterious "missing" Larry 4 became a running gag that persisted throughout the series' history. Fans spent years speculating about what the fourth game might have contained, with Al Lowe playfully encouraging them to "DO keep looking for it!"[^ref-16]. The truth was eventually revealed that Larry 4 was originally planned as a multiplayer online adventure for Sierra Network but was abandoned due to technical limitations of dial-up internet speeds[^ref-15].
+The mysterious "missing" Larry 4 became a running gag that persisted throughout the series' history. Fans were left to guess for years what happened to it; The Sierra Chest jokes that it "was never made but, by all means, DO keep looking for it!"[^ref-16]. Al Lowe later explained that Larry 4 was meant to be "the first multi-player on-line adventure game", which he, Jeff Stephenson and Matthew George began coding in January 1991[^ref-47]. The adventure design proved unworkable, and the board games built to test the system grew into Sierra's online service instead: "Constant Companion became The Sierra Network"[^ref-47][^ref-48]. After six months Lowe left the project because "the sales department was clamoring for Larry 4"; that game became Larry 5[^ref-48].
 
-The game achieved commercial success despite mixed critical reception, with the Leisure Suit Larry series as a whole selling over 1.4 million copies according to Sierra's SEC filings[^ref-34]. Sales data from 1991 indicated that more than 125,000 copies had been sold within two months of its September release[^ref-35].[^ref-42]
+The game was a commercial success. On November 15, 1991, the Nashua Telegraph reported that more than 125,000 copies had been sold since its September release[^ref-35]. Sierra's SEC filings put combined sales of the Leisure Suit Larry series at over 1.4 million copies[^ref-34].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG – Leisure Suit Larry 1-7 Collection](https://www.gog.com/en/game/leisure_suit_larry) – Includes Larry 5[^ref-36]
+- [GOG – Leisure Suit Larry](https://www.gog.com/en/game/leisure_suit_larry) – Bundle of Larry 1 (original and VGA), 2, 3, 5 and 6[^ref-36]
 - [Steam](https://store.steampowered.com/app/765860/) – No longer sold: removed from the Steam store following Assemble Entertainment's April 30, 2025 announcement; existing owners keep it in their libraries[^ref-37][^ref-44]
 
 **Preservation / Information**
@@ -143,7 +149,6 @@ The game achieved commercial success despite mixed critical reception, with the 
 ## References
 
 [^ref-1]: [3rd World Geeks Review](https://3rdworldgeeks.com/2025/09/18/ill-review-anything-leisure-suit-larry-5/) – - Release year and series information
-[^ref-2]: Adventure Gamers Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - Numbering explanation and game background
 [^ref-3]: [IGN Al Lowe Interview](https://www.ign.com/articles/talking-leisure-suit-larry-with-al-lowe) – - Interface system change details
 [^ref-4]: [Wikipedia Article](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work) – - Character control mechanics
 [^ref-5]: [SuperCheats Walkthrough](https://www.supercheats.com/pc/walkthroughs/leisuresuitlarry5passionatepattidoesalittleundercoverwork-walkthrough01.txt) – - Plot summary for both characters
@@ -152,17 +157,11 @@ The game achieved commercial success despite mixed critical reception, with the 
 [^ref-8]: [Alex Bevilacqua – Leisure Suit Larry 5 (Nov 28, 2025)](https://alexbevi.com/blog/2025/11/28/leisure-suit-larry-5/) – - Retrospective review, 55% score
 [^ref-9]: [MobyGames Database](https://www.mobygames.com/game/408/) – - Publisher information
 [^ref-10]: [LemonAmiga Database](https://www.lemonamiga.com/games/details.php?id=1425) – - Platform availability
-[^ref-11]: Abandonware DOS Search *(download link removed: the game is sold commercially)* – - Release year confirmation
 [^ref-12]: [TV Tropes Page](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeisureSuitLarry5PassionatePattiDoesALittleUndercoverWork) – - SCI1 engine information
-[^ref-13]: [Walkthrough King Guide](https://www.walkthroughking.com/text/leisuresuitlarry5.aspx) – - Opening narrative description
 [^ref-14]: [Archived Hardcore Gaming 101](https://web.archive.org/web/20140613063251/http://www.hardcoregaming101.net/lsl/lsl3.htm) – - Plot premise explanation
 [^ref-15]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work) – - Patti's FBI storyline
 [^ref-16]: [Sierra Chest Information](https://www.sierrachest.com/index.php?a=games&id=27&fld=general) – - Larry 4 mystery incorporation
-[^ref-17]: [The Cutting Room Floor Wiki](https://tcrf.net/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work) – - Missing floppies reference
-[^ref-18]: [CheatCC Article](https://www.cheatcc.com/articles/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-cheats-cheat-codes-for-pc/) – - Interface system change
-[^ref-19]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/564421-leisure-suit-larry-5-passionate-patti-does-a-little/faqs/38088) – - Zipper icon and interface elements
 [^ref-20]: [IGN Walkthrough/FAQ](https://www.ign.com/articles/2003/05/27/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-walkthroughfaq-410383) – - Linear structure description
-[^ref-21]: Classic Reload Page *(download link removed: the game is sold commercially)* – - Character switching mechanics
 [^ref-22]: [GamePressure Database](https://www.gamepressure.com/games/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-wo/za13a5) – - Episode structure information
 [^ref-23]: [GameFAQs Review](https://gamefaqs.gamespot.com/pc/564421-leisure-suit-larry-5-passionate-patti-does-a-little/faqs/36676) – - Death and failure state removal
 [^ref-24]: [Gamer Walkthroughs](https://gamerwalkthroughs.com/leisure-suit-larry-5/) – - Difficulty assessment
@@ -174,16 +173,14 @@ The game achieved commercial success despite mixed critical reception, with the 
 [^ref-30]: [MobyGames DOS Reviews](https://www.mobygames.com/game/408/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-w/reviews/dos/) – - User review criticism
 [^ref-31]: [MIDI Music Adventures](https://www.midimusicadventures.com/queststudios/digital-soundtracks/lsl5/) – - Craig Safan composer information
 [^ref-32]: [Al Lowe's Clues and Cheats](https://allowe.com/games/larry/tips-manuals/clues-cheats.html) – - Copy protection information
-[^ref-33]: Play Classic Games *(download link removed: the game is sold commercially)* – - Age verification system
 [^ref-34]: [SEC Filing](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – - Sierra series sales figures
 [^ref-35]: [Newspaper Archive](https://newspaperarchive.com/nashua-telegraph-nov-15-1991-p-15/) – - 1991 sales data
-[^ref-36]: [GOG Database](https://www.gogdb.org/product/1207662073) – - GOG availability information
-[^ref-37]: [Steam Community](https://steamcommunity.com/app/765860) – - Steam release information
-[^ref-38]: MyAbandonware *(download link removed: the game is sold commercially)* – - Abandonware preservation and ratings
+[^ref-36]: [GOG Database – Leisure Suit Larry (product 1207659158)](https://www.gogdb.org/product/1207659158) – - GOG bundle including LSL 1, 1 VGA, 2, 3, 5, 6 and 6 VGA
+[^ref-37]: [Steam Store – Leisure Suit Larry 5](https://store.steampowered.com/app/765860/) – - Store page notice: "no longer available on the Steam store"
 [^ref-39]: [Internet Archive Manual](https://archive.org/details/Leisure_Suit_Larry_5_-_Manual) – - Manual preservation project
 [^ref-40]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work) – - Technical compatibility information
-[^ref-41]: [VGM Rips](https://vgmrips.net/packs/pack/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-ibm-pc-at) – - Audio preservation and technical specs
-[^ref-42]: [Speedrun.com](https://www.speedrun.com/larry5) – - Speedrunning community data
-[^ref-43]: [Reddit Discussion](https://www.reddit.com/r/Sierra/comments/1kru3xu/leisure_suit_larry_5_passionate_patti_does_a/) – - Community discussion and plot summary
 [^ref-44]: [Steam News: "Time for Larry to Retire (Just a Little Bit)" (Assemble Entertainment, April 30, 2025)](https://store.steampowered.com/news/app/763970/view/1798454487579791) – - Announcement that LSL 1, 2, 3, 5, 6, 7 and Magna Cum Laude leave the Steam store; owners keep them
 [^ref-45]: [Al Lowe – Is LSL5 LSL4?](https://allowe.com/games/larry/inside-stories/is-lsl5-lsl4.html) – - Lowe on the airtight Larry 3 ending and the "mind share" problem
+[^ref-46]: [Computer Gaming World #88 (November 1991), "Uncovering Passionate Patti in Sierra's Leisure Suit Larry 5" by J.D. Lambright](https://archive.org/details/Computer_Gaming_World_Issue_88) – - "LSL5 is a thoroughly enjoyable game"
+[^ref-47]: [Al Lowe – Where's LSL4?](https://allowe.com/games/larry/inside-stories/wheres-lsl4.html) – - Larry 4 as a multiplayer online adventure, begun January 1991; "Constant Companion became The Sierra Network"
+[^ref-48]: [Al Lowe – TSN's Larryland](https://allowe.com/games/larry/inside-stories/larryland.html) – - Lowe left the online project after six months; "The sales department was clamoring for Larry 4"
