@@ -10,116 +10,117 @@ series: Leeper
 engine: Machine Language
 protagonist: Leeper
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
-description: Learning with Leeper is an educational video game developed and published
-  by Sierra On-Line in 1983, designed to teach young children fundamental concepts...
+last_updated: '2026-10-12'
+description: Learning with Leeper is a 1983 educational game developed and published
+  by Sierra On-Line for children aged three to six, offering four wordless activities
+  (counting, shape matching, a maze and screen painting) and winning the 1984 Arkie
+  Award for Best Educational Video Game/Computer Game.
 tags: [1980s, educational, leeper, sierra]
 ---
 # Learning with Leeper
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Learning with Leeper is an educational video game developed and published by [[Sierra On-Line]] in 1983, designed to teach young children fundamental concepts through interactive play[^ref-1]. The game features the titular Leeper character, a long-legged alien creature repurposed from Sierra's earlier arcade title Lunar Leeper, now serving as a friendly guide through four distinct learning activities[^ref-2]. Targeting children aged three to six years old, the software represented Sierra's entry into the growing educational software market of the early 1980s[^ref-3].
+Learning with Leeper is an educational video game developed and published by [[Sierra On-Line]] in 1983[^ref-1]. It features a Leeper, the long-legged alien creature from Sierra's earlier arcade game [[1982 - Lunar Leeper|Lunar Leeper]], as the guide to four learning activities[^ref-3]. It is aimed at children aged three to six[^ref-3], and was one of several early Sierra titles for young children, following [[1982 - Bop-A-Bet|Bop-A-Bet]].
 
-The game offers "a painless way for youngsters to learn such tricky concepts as counting and shape recognition," according to the judges of the Arkie Awards[^ref-1]. Children have the choice of four games, all combining a mixture of matching, logic, and creativity, making it an accessible introduction to computer-based learning[^ref-5]. The software was released across multiple platforms including Apple II, Commodore 64, Atari 8-bit computers, ColecoVision, DOS, and ZX Spectrum, ensuring broad availability during the home computer boom[^ref-1].
+The judges of the Arkie Awards called it "a painless way for youngsters to learn such tricky concepts as counting and shape recognition"[^ref-4][^ref-1]. Children choose from four games: counting, matching, a maze, and painting[^ref-5]. The game was released for the Apple II, Commodore 64, Atari 8-bit computers, ColecoVision, DOS and ZX Spectrum[^ref-5].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** Nancy Anderton[^ref-5]
 > **Publisher:** Sierra On-Line (North America), Software Projects Ltd. (UK)[^ref-5]
 > **Engine:** Machine Language[^ref-3]
-> **Platforms:** Apple II, Atari 8-bit, ColecoVision, Commodore 64, DOS, ZX Spectrum[^ref-1]
+> **Platforms:** Apple II, Atari 8-bit, ColecoVision, Commodore 64, DOS, ZX Spectrum[^ref-5]
 > **Release Year:** 1983
 > **Series:** Leeper
-> **Protagonist:** Leeper (the frog/alien character)
+> **Protagonist:** Leeper
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-Learning with Leeper does not feature a traditional narrative structure, instead employing a friendly mascot character to guide children through educational activities[^ref-6]. The game stars Leeper, described variously as a frog-like creature or long-legged alien, who players control to navigate between different learning games[^ref-7]. The character originated from Sierra's earlier arcade game Lunar Leeper, where players had to rescue prisoners on a planet's surface while avoiding hostile Leeper creatures[^ref-2].
+Learning with Leeper has no storyline. A Leeper acts as the child's guide, moved around a menu screen to pick one of four games[^ref-6]. The character comes from Sierra's arcade game Lunar Leeper, where players had to rescue prisoners on a planet's surface while avoiding the "Leepers", who would leap into the air to grab them[^ref-2].
 
-In this educational context, Leeper has been transformed from antagonist to helpful guide, creating a welcoming environment for young learners[^ref-3]. The game's structure allows children to explore freely, selecting activities at their own pace rather than following a prescribed storyline[^ref-5]. This open-ended approach was designed to help infants and young children learn that they can have an impact on the world around them through interactive engagement[^ref-8].
+Here the creature is no longer an enemy. The child simply moves Leeper to an activity's icon and presses the fire button to start it[^ref-5].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Similar to Learning with FuzzyWOMP, another Sierra educational title, the player selects one of four games by moving the Leeper character to an icon representing that activity and pressing the fire button to select it[^ref-5]. The game supports joystick control, with the Commodore 64 version specifically requiring Joystick Port 2[^ref-7]. The interface was designed with very young children in mind, using simple visual cues and minimal text to ensure accessibility for pre-readers[^ref-3].
+As in [[1984 - Learning with FuzzyWOMP|Learning with FuzzyWOMP]], another Sierra educational title, the player selects one of four games by moving the Leeper character to an icon representing that activity and pressing the fire button[^ref-5]. The game is played with a joystick[^ref-1]; on the Commodore 64 it plugs into Port 2[^ref-7][^ref-18]. The manual notes that the games are meant for a child who cannot read, and "no words are used"[^ref-18].
 
-The control scheme emphasizes intuitive navigation, allowing children as young as three years old to interact with the software independently[^ref-1]. The single-player design focuses attention on the learning experience without competitive distractions[^ref-9].
+The game is aimed at children aged three to six[^ref-3][^ref-7], and is single-player only[^ref-9].
 
 ### Structure and Progression
 
-The game consists of four distinct educational mini-games, each targeting different developmental skills[^ref-5]:
+The game has four mini-games. On the menu they are shown as a dog (counting), a balloon (shape matching), a frog (hand-eye coordination) and an overturned paint can (creativity)[^ref-1]. The C64 manual names them[^ref-18]:
 
-- **Counting Game:** Players learn numerical concepts through interactive counting exercises, helping develop early mathematical foundations[^ref-7]
-- **Shape/Color Matching:** Children match items and words, developing recognition skills for colors and shapes[^ref-6]
-- **Maze Navigation:** Hand-eye coordination exercises involving navigating Leeper through maze environments[^ref-1]
-- **Creative Painting:** A picture painting activity that encourages artistic expression and creativity[^ref-5]
+- **Dog Count:** The child feeds the correct number of bones to the matching number of dogs, counting concrete objects and linking them to numerals[^ref-18][^ref-3]
+- **Balloon Pop:** The child matches the displayed shape by moving the balloon to the corresponding shape at the bottom. The items include letters, shapes, people and three-letter words[^ref-5][^ref-18]
+- **Leap Frog:** The child guides a frog through a maze with as few wall collisions as possible. The mazes are randomly generated[^ref-5][^ref-18]
+- **Screen Painting:** The child paints a picture with an animated paint brush. The pictures range from a house and mountains to a human figure[^ref-5][^ref-18]
 
-One specific activity involves matching bones to dogs, demonstrating the game's use of relatable, child-friendly imagery to teach matching and logic concepts[^ref-6]. The mini-games were designed to be replayed multiple times, with increasing familiarity helping reinforce learned concepts[^ref-3].
+Higher levels stay hidden until the child is ready for them. In Balloon Pop, levels 2–6 appear only after a passable score on the level before[^ref-18]. In Leap Frog, a more challenging maze awaits a successful player the next time the game is chosen[^ref-3][^ref-18].
 
 ### Puzzles and Mechanics
 
-The educational puzzles focus on fundamental pre-school learning objectives including basic mathematics (counting) and spelling/recognition skills[^ref-9]. Each activity presents challenges appropriate for the target age group of 3-6 years, with simple mechanics that reward correct answers with positive feedback[^ref-7].
+The activities cover early math (counting) and spelling or recognition skills[^ref-9]. In the counting and matching games, the correct answer flashes if the child picks a wrong one[^ref-5]. The game does not record performance scores[^ref-1].
 
-The matching games test logical thinking by requiring children to identify relationships between objects, while the maze navigation develops spatial reasoning and motor control skills essential for early childhood development[^ref-5]. The creativity-focused painting game allows more open-ended exploration, encouraging self-expression without right or wrong answers[^ref-6].
+The manual describes the matching game as building reading readiness, since children learn to tell apart the many shapes that letters and numerals take. It says the maze trains eye-hand coordination needed for writing[^ref-18]. Screen Painting is meant to enhance creative play by letting children "express their own ideas graphically"[^ref-18].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Learning with Leeper received significant recognition during its release period, winning Best Educational Video Game/Computer Game at the 5th annual Arkie Awards in 1984[^ref-1]. The award judges praised the software as "a painless way for youngsters to learn such tricky concepts as counting and shape recognition"[^ref-1].
+Learning with Leeper won "1984 Best Educational Video Game/Computer Game" at the 5th annual Arkie Awards[^ref-1]. Bill Kunkel and Arnie Katz announced the award in *Video* magazine (February 1984). They called it "a painless way for youngsters to learn such tricky concepts as counting and shape recognition", and added that "children too young to read will have a fine time with this entertaining and educational game"[^ref-4].
 
-Betsy Staples of the Gifted Children Newsletter offered a positive assessment, stating "All in all, we think [it] is an excellent package"[^ref-1]. The French gaming magazine Tilt rated the game 66% in their 1984 review[^ref-9].
+Betsy Staples of the Gifted Children Newsletter wrote that "all in all, we think [it] is an excellent package", as quoted on Wikipedia[^ref-1]. According to UVList, the French magazine Tilt rated the game 4 out of 6 in issue 17 (December 1984)[^ref-9].
 
 ### Modern Assessment
 
-Modern retrospective reviews have been more mixed. Lazy Game Reviews (LGR) offered a critical perspective on the ZX Spectrum version, noting somewhat sarcastically: "Sierra On-Line made this back in 1983 and it sucks. Yet this won Best Educational Game!"[^ref-10]. This reflects contemporary expectations versus 1980s educational software standards.
+Modern retrospectives are less kind. Lazy Game Reviews (LGR) covered the ZX Spectrum version, and the video's description reads: "Sierra On-Line made this back in 1983... and it sucks. Yet this won Best Educational Game?!"[^ref-10]
+
+Wikipedia also summarises later books that mention the game. *Reaching Students Through Computers* called it a "very simple program", and *Ready: A Commodore 64 Retrospective* gave it a rarity score of 3[^ref-1].
 
 **Aggregate Scores:**
-- **MobyGames:** 3.7/5 (user rating)[^ref-5]
-- **Giant Bomb:** 4.0/5 (user reviews)[^ref-11]
-- **GameFAQs:** Rated "Fair" with estimated 4-hour playtime at "Simple/Easy" difficulty[^ref-12]
+- **MobyGames:** 3.5/5 (8 player ratings)[^ref-5]
+- **GameFAQs:** Rated "Fair" (9 ratings), "Simple/Easy" difficulty, length "3 Hours"[^ref-12]
 
 ## Development
 
 ### Origins
 
-Learning with Leeper emerged from Sierra On-Line's strategy to diversify beyond adventure games into the educational software market during the early 1980s computer boom[^ref-1]. The decision to repurpose the Leeper character from Lunar Leeper provided brand continuity while transforming a villainous creature into a child-friendly mascot[^ref-2]. This approach allowed Sierra to leverage existing intellectual property while targeting the growing market of parents seeking educational content for home computers.
+Learning with Leeper reuses the Leeper character from Sierra's arcade game Lunar Leeper[^ref-1][^ref-2]. It was made for children aged three to six[^ref-3]. Nancy Anderton is credited with the design[^ref-5][^ref-13].
 
-The game was developed to appeal specifically to very young children, with the target audience of three to six year olds representing a demographic often underserved by computer software[^ref-3]. Nancy Anderton served as the game's designer, creating the educational framework and activity concepts[^ref-5].
+Wikipedia cites Michael M. Behrmann's 1984 article "A Brighter Future For Early Learning Through High Tech" in *The Pointer*[^ref-8]. Citing that article, it says several commercial developers had decided "there is a market for children as young as three", and names Learning with Leeper as one game aimed at that market[^ref-1].
 
 ### Production
 
-Development was handled primarily by Robert A. Bobbio (credited as "Bobbit"), who programmed the Atari 8-bit and Commodore 64 versions[^ref-13]. Additional development work was completed by different programmers for specific platforms: Monier handled the ColecoVision port, while Ivan Strand and Brian Strand programmed the IBM PC/compatible version[^ref-13].
+Robert A. Bobbio, credited as "Bobbit", did the program and graphics for the Atari 8-bit and Commodore 64 versions[^ref-13][^ref-5]. The C64 manual's own credit is "Program and graphics by Bobbit"[^ref-18]. Sierra Chest describes the game as "designed by 'Bobbit'"[^ref-3], but MobyGames and Pixelated Arcade credit the design to Nancy Anderton and the program and graphics to Bobbio[^ref-5][^ref-13].
 
-The game was written in machine language to maximize performance on the limited hardware of the era[^ref-3]. Sierra published the game across North American platforms, while Software Projects Ltd. handled the UK release, particularly for the ZX Spectrum version[^ref-14].
+Other platforms had their own credits. Monier did the program and graphics for the ColecoVision version, and Ivan Strand and Brian Strand are credited ("Written by") for the IBM PC/compatible version[^ref-13].
+
+Sierra Chest lists the game's engine as "Machine Language"[^ref-3]. Sierra published the game in North America, and Software Projects Ltd. released the ZX Spectrum version in the UK[^ref-14].
 
 **Development Credits:**[^ref-5][^ref-13]
 - **Designer:** Nancy Anderton (Atari 8-bit, ColecoVision, Commodore 64)
-- **Programmer (Atari 8-bit, C64):** Robert A. Bobbio (Bobbit)
-- **Programmer (ColecoVision):** Monier
-- **Programmer (IBM PC):** Ivan Strand, Brian Strand
+- **Program and Graphics (Atari 8-bit, C64):** Robert A. Bobbio (as "Bobbit")
+- **Program and Graphics (ColecoVision):** Monier
+- **Written by (IBM PC):** Ivan Strand, Brian Strand
 - **Inlay Art (ZX Spectrum):** Roger Tissyman[^ref-14]
-
-### Technical Achievements
-
-Learning with Leeper was programmed in machine language, allowing for efficient use of the limited memory and processing power available on home computers of 1983[^ref-3]. The game's design successfully translated across six different platforms with varying technical capabilities, from the ColecoVision console to the ZX Spectrum home computer[^ref-1].
 
 ### Technical Specifications
 
-**ColecoVision Version:**[^ref-6]
+**ColecoVision Version:**[^ref-2]
 - **Format:** Cartridge (ROM)
 - **ROM MD5 Hash:** 118a7ebc86bb949c32edfb662abf6d0d
-- **Players:** 1
+- **Players:** 1[^ref-1]
 
 **Commodore 64 Version:**[^ref-7]
 - **Control Method:** Joystick (Port 2)
 - **Language:** English
-- **Manual Pages:** 6
+- **Manual Pages:** 6[^ref-18]
 
 **ZX Spectrum Version:**[^ref-14]
 - **Machine Type:** 48K minimum
@@ -129,70 +130,63 @@ Learning with Leeper was programmed in machine language, allowing for efficient 
 - **Players:** 1
 
 **DOS Version:**[^ref-15]
--
-
-**Download Size:** 58 KB
+- **Download Size (MyAbandonware):** 58 KB
 
 **Display Specifications:**[^ref-9]
 - **Display Type:** Raster
 - **Perspective:** Bird's-eye side view
 
-### Version History
+### Release History
 
-| Version | Date | Platform | Notes |
-|---------|------|----------|-------|
-| 1.0 | 1983 | Apple II | Initial release[^ref-1] |
-| 1.0 | 1983 | Commodore 64 | Initial home computer release[^ref-5] |
-| 1.0 | 1983 | Atari 8-bit | Simultaneous release[^ref-5] |
-| 1.0 | 1983 | ColecoVision | Console version[^ref-6] |
-| 1.0 | 1984 | DOS | IBM PC compatible release[^ref-5] |
-| 1.0 | 1985 | ZX Spectrum | UK release via Software Projects[^ref-14] |
+| Date | Platform | Publisher |
+|------|----------|-----------|
+| 1983 | Apple II | Sierra On-Line[^ref-5] |
+| October 1983 | Commodore 64 | Sierra On-Line[^ref-5] |
+| October 1983 | Atari 8-bit | Sierra On-Line[^ref-5] |
+| December 1983 | ColecoVision | Sierra On-Line[^ref-5] |
+| 1984 | DOS | Sierra On-Line[^ref-5] |
+| 1985 | ZX Spectrum | Software Projects Ltd.[^ref-14] |
 
-Some sources list the ColecoVision release as 1984 rather than 1983, indicating possible regional variation in release timing[^ref-2][^ref-12].
+Some sources list the ColecoVision release as 1984 rather than 1983[^ref-2][^ref-12].
 
-### Technical Issues
+### Copy Protection
 
-The ZX Spectrum version included "Padlock Protection" copy protection, which required multicolored code sheets for software protection[^ref-10][^ref-14]. This anti-piracy measure, while common for the era, could present accessibility challenges for young users requiring adult assistance to enter codes.
+The ZX Spectrum version used Padlock Protection, and World of Spectrum archives its code sheet[^ref-14]. A resale listing describes copies as containing the tape, case and an "instruction sheet/copy protection sheet"[^ref-16].
 
-### Easter Eggs and Trivia
+### Trivia
 
-- **Lunar Leeper Connection:** The Leeper character was directly adapted from Sierra's earlier arcade game Lunar Leeper, where the creatures were enemies rather than helpers[^ref-2]
-- **FuzzyWOMP Similarities:** The game shares its selection interface design with Learning with FuzzyWOMP, another Sierra educational title[^ref-5]
-- **Sequel Development:** The success of Learning with Leeper led to a sequel in 1984 titled Learning with Fuzzywomp[^ref-3]
-- **Collector Rarity:** The ZX Spectrum version has become a "very hard to find educational title" in the collector market[^ref-16]
+- **Lunar Leeper Connection:** The Leeper character was adapted from Sierra's earlier arcade game Lunar Leeper, where the Leepers were the enemies[^ref-2]
+- **FuzzyWOMP Similarities:** The game uses the same selection interface as Learning with FuzzyWOMP, another Sierra educational title[^ref-5]
+- **Sequel:** Sierra Chest notes that it "had a sequel in 1984, titled Learning with Fuzzywomp, using the same concept of four animated educational minigames"[^ref-3]
+- **Collector Rarity:** A resale listing calls the ZX Spectrum version a "very hard to find educational title"[^ref-16]
 
 ## Legacy
 
-### Sales and Commercial Impact
+### Recognition and Collector Market
 
-Learning with Leeper achieved notable recognition within the educational software industry, winning the 1984 Best Educational Video Game/Computer Game award at the 5th annual Arkie Awards[^ref-1]. This recognition validated Sierra's expansion into the educational market and demonstrated the commercial viability of learning software targeting very young children[^ref-3].
+Learning with Leeper won the 1984 Best Educational Video Game/Computer Game award at the 5th annual Arkie Awards[^ref-1][^ref-4].
 
-The game's success contributed to Sierra's broader portfolio strategy during a period when the company was establishing itself as a major force in personal computer software[^ref-1]. The last recorded sale of a ColecoVision copy was tracked on February 24, 2021, indicating continued collector interest nearly four decades after release[^ref-17].
+Collectors still trade the game. The last recorded sale of a ColecoVision copy was tracked on February 24, 2021[^ref-17].
 
 ### Collections
 
-Learning with Leeper has been preserved through various digital archives. The game is available for play through the Internet Archive, where both the ColecoVision ROM and Commodore 64 manual have been archived[^ref-6][^ref-18]. MyAbandonware also hosts downloadable versions of the DOS, Commodore 64, and Atari 8-bit versions[^ref-15].
+The game has been preserved in digital archives. The Internet Archive holds both the ColecoVision ROM and the Commodore 64 manual[^ref-6][^ref-18]. MyAbandonware hosts the DOS version and lists Atari 8-bit and Commodore 64 versions as well[^ref-15].
 
 ### Fan Projects
 
-The game's historical significance has led to its documentation in multiple retro gaming databases including MobyGames, Giant Bomb, and platform-specific archives like Lemon64 (for Commodore 64) and World of Spectrum (for ZX Spectrum versions)[^ref-5][^ref-7][^ref-11][^ref-14].
+The game is documented in several retro gaming databases, including MobyGames, Giant Bomb, Lemon64 (for the Commodore 64) and World of Spectrum (for the ZX Spectrum)[^ref-5][^ref-7][^ref-11][^ref-14].
 
 ### Related Publications
 
-- **Game Manual (Commodore 64):** 6-page manual included with game, archived at Internet Archive[^ref-18]
+- **Game Manual (Commodore 64):** 6-page manual, archived at the Internet Archive[^ref-18]
 
 ### Critical Perspective
 
-Learning with Leeper represents an important artifact from the early days of educational software, when developers were first exploring how interactive computer experiences could facilitate childhood learning[^ref-8]. The game's design philosophy—using a friendly character to guide children through self-paced educational activities—established patterns that would influence educational software design for decades.
-
-While modern retrospectives may find the game primitive by contemporary standards, its 1984 Arkie Award win demonstrates that Learning with Leeper effectively achieved its educational objectives within the technical constraints of its era[^ref-1]. The game's multi-platform release strategy also reflects Sierra's understanding of the fragmented home computer market of the early 1980s, ensuring maximum accessibility for families regardless of their hardware choice[^ref-1].
-
-The broader significance of educational software like Learning with Leeper was recognized by researchers studying computer-assisted learning for children with disabilities, who noted that "infants learn by interacting with their environment" and that computers could help "handicapped infants with limited movement or vocalization" who might otherwise be "deprived of much of this interaction"[^ref-8]. This therapeutic application extended the game's impact beyond typical educational use cases.
+Opinions of the game have changed over time. In 1984 the Arkie judges singled it out as the year's best educational game, and expected its painting segment to "be a spur to youthful creativity"[^ref-4]. Later views were more reserved: *Reaching Students Through Computers* called it a "very simple program"[^ref-1], and LGR's retrospective dismissed it outright[^ref-10]. *Math and Science for Young Children* argues the game can give children one-to-one kinesthetic and perceptual-motor experiences, as summarised on Wikipedia[^ref-1].
 
 ## Purchase
 
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+Learning with Leeper is not currently sold on any digital storefront.
 
 ## Downloads
 
@@ -207,6 +201,7 @@ The broader significance of educational software like Learning with Leeper was r
 
 - [[1982 - Alphabet Blocks]]
 - [[1982 - Bop-A-Bet]]
+- [[1982 - Lunar Leeper]]
 - [[1983 - Early Math]]
 - [[1984 - Learning with FuzzyWOMP]]
 - [[1984 - Wizard of Id's WizMath]]
@@ -216,20 +211,21 @@ The broader significance of educational software like Learning with Leeper was r
 
 ## References
 
-[^ref-1]: [Wikipedia – Learning with Leeper](https://en.wikipedia.org/wiki/Learning_with_Leeper) – platforms, developer, publisher, release dates, awards
-[^ref-2]: [ColecoVision Addict](https://cvaddict.com/profile.php?gameid=103) – Lunar Leeper connection, release year, developer information
-[^ref-3]: [Sierra Chest – Learning with Leeper](https://sierrachest.com/index.php?a=games&id=360&fld=general) – target age, sequel information, engine, awards
-[^ref-5]: [MobyGames – Learning with Leeper](https://www.mobygames.com/game/56058/learning-with-leeper/) – designer credits, publisher information, release dates, ratings, game description
-[^ref-6]: [Internet Archive – ColecoVision ROM](https://archive.org/details/Learning_with_Leeper_1983_Sierra_On_Line) – mini-game descriptions, gameplay details
-[^ref-7]: [Lemon64 – Learning with Leeper](https://www.lemon64.com/game/learning-with-leeper) – control method, target age, platform releases, user description
-[^ref-8]: [Journal of Special Education (DOI)](https://doi.org/10.1080%2F05544246.1984.9943002) – educational philosophy quote about infant learning
-[^ref-9]: [UVList – Learning with Leeper](https://www.uvlist.net/game-11680-Learning+with+Leeper) – Tilt magazine rating, technical specifications, platform versions
-[^ref-10]: [Lazy Game Reviews retrospective](https://zakruti.com/fanjoy/lazygamereviews/video-7746) – modern critical assessment, copy protection details
-[^ref-11]: [Giant Bomb – Learning with Leeper](https://www.giantbomb.com/learning-with-leeper/3030-31221/) – user rating, game description
-[^ref-12]: [GameFAQs – Learning with Leeper](https://gamefaqs.gamespot.com/colecovision/585516-learning-with-leeper) – difficulty rating, playtime estimate, release dates
-[^ref-13]: [Pixelated Arcade – Learning with Leeper](https://www.pixelatedarcade.com/games/learning-with-leeper) – programmer credits by platform, designer credits
-[^ref-14]: [World of Spectrum Archive](https://worldofspectrum.org/archive/software/educational/learning-with-leeper-software-projects-ltd) – ZX Spectrum technical specs, UK publisher, price, copy protection
-[^ref-15]: [MyAbandonware – Learning with Leeper](https://www.myabandonware.com/game/learning-with-leeper-60x) – download information, release dates
-[^ref-16]: [SellMyRetro Listing](https://www.sellmyretro.com/offer/details/learning-with-leeper-57712) – rarity assessment, ZX Spectrum format details
+[^ref-1]: [Wikipedia – Learning with Leeper](https://en.wikipedia.org/wiki/Learning_with_Leeper) – developer, publisher, joystick control, menu icons, no score recording, Arkie award, Staples quote, later book assessments
+[^ref-2]: [ColecoVision Addict – Learning with Leeper](https://cvaddict.com/game/learning-with-leeper/) – Lunar Leeper connection, ColecoVision cartridge, ROM MD5 hash, 1984 listing
+[^ref-3]: [Sierra Chest – Learning with Leeper](https://sierrachest.com/index.php?a=games&id=360&fld=general) – target age 3–6, "long-legged alien creature", minigames, "designed by 'Bobbit'", 1984 sequel, engine
+[^ref-4]: [Video magazine, Feb 1984 (Vol. 7 No. 11), Kunkel & Katz, "Arcade Alley: The 1984 Arcade Awards, Part II", pp. 28–29 – Internet Archive](https://archive.org/details/Video.Reese.Arcade.Alley.Random.Access.1978-1986) – file Video.1984.02.V7N11-AC; Arkie citation text
+[^ref-5]: [MobyGames – Learning with Leeper](https://www.mobygames.com/game/56058/learning-with-leeper/) – credits, publishers, release dates by platform, game description, player rating
+[^ref-6]: [Internet Archive – ColecoVision ROM](https://archive.org/details/Learning_with_Leeper_1983_Sierra_On_Line) – mini-game descriptions (MobyGames text), ColecoVision ROM
+[^ref-7]: [Lemon64 – Learning with Leeper](https://www.lemon64.com/game/learning-with-leeper) – joystick Port 2, ages 3–6, language, players
+[^ref-8]: [Behrmann, Michael M. "A Brighter Future For Early Learning Through High Tech." The Pointer 28(2), 1984, pp. 23–26 (DOI)](https://doi.org/10.1080%2F05544246.1984.9943002) – article on computers for infants and toddlers; cited by Wikipedia on the early-learning software market
+[^ref-9]: [UVList – Learning with Leeper](https://www.uvlist.net/game-11680-Learning+with+Leeper) – Tilt 17 (Dec 1984) 4/6 rating, display and perspective, single player, edu-math/edu-spelling tags
+[^ref-10]: [LGR – Learning With Leeper – ZX Spectrum Game Review (YouTube)](https://www.youtube.com/watch?v=CZyn4UButuY) – modern critical assessment
+[^ref-11]: [Giant Bomb – Learning with Leeper](https://www.giantbomb.com/learning-with-leeper/3030-31221/) – database entry ("Four learning games for children")
+[^ref-12]: [GameFAQs – Learning with Leeper](https://gamefaqs.gamespot.com/colecovision/585516-learning-with-leeper) – user rating, difficulty, length, ColecoVision release year
+[^ref-13]: [Pixelated Arcade – Learning with Leeper](https://www.pixelatedarcade.com/games/learning-with-leeper) – programmer and designer credits by platform
+[^ref-14]: [World of Spectrum Archive](https://worldofspectrum.org/archive/software/educational/learning-with-leeper-software-projects-ltd) – ZX Spectrum technical specs, UK publisher, price, Padlock Protection, code sheet, inlay art
+[^ref-15]: [MyAbandonware – Learning with Leeper](https://www.myabandonware.com/game/learning-with-leeper-60x) – DOS download, platforms
+[^ref-16]: [SellMyRetro Listing](https://www.sellmyretro.com/offer/details/learning-with-leeper-57712) – rarity assessment, ZX Spectrum format, copy protection sheet
 [^ref-17]: [Game Value Now – Learning with Leeper](https://gamevaluenow.com/colecovision/learning-with-leeper?gameid=58) – last recorded sale date
-[^ref-18]: [Internet Archive – Commodore 64 Manual](https://archive.org/details/Learning_with_Leeper_1983_Sierra_On-Line) – manual page count, platform confirmation
+[^ref-18]: [Internet Archive – Commodore 64 Manual](https://archive.org/details/Learning_with_Leeper_1983_Sierra_On-Line) – minigame names and aims, "no words are used", hidden levels, Port 2, "Program and graphics by Bobbit", 6 scanned pages
