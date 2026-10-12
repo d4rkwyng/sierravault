@@ -10,7 +10,7 @@ series: Talking Tutor
 engine: Bright Star Engine
 protagonist: Loid (animated alien guide)
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-03-27'
+last_updated: '2026-10-11'
 description: Early Math is an educational video game, with development roots dating
   to 1983, developed by Bright Star Technology and published by Sierra On-Line in
   its...
@@ -18,7 +18,7 @@ tags: [1980s, educational, sierra, talking-tutor]
 ---
 # Early Math
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
@@ -41,7 +41,7 @@ The game employs a point-and-click interface with drag-and-drop mechanics, makin
 
 Early Math takes place on a small asteroid in space, home to a cheerful alien character named Loid.[^ref-2] Unlike narrative-driven adventure games, Early Math presents a learning environment rather than a traditional story, with Loid serving as an animated on-screen teacher who guides children through various mathematical activities.[^ref-5] The asteroid setting provides a whimsical, otherworldly backdrop that captures young imaginations while introducing fundamental mathematical concepts in a non-threatening context.
 
-Loid is described as "always ready for your child, sitting on his favorite stool, riding in his convertible or hopping along in a bucket, eager to play and teach."[^ref-6] This characterization establishes Loid as a friendly companion rather than an authority figure, encouraging children to engage with mathematical concepts through play rather than formal instruction. Players explore Loid's house and its surrounding area on the asteroid, discovering different mini-games that each focus on specific mathematical skills.[^ref-2]
+Loid is described as "always ready for your child, sitting on his favorite stool, riding in his convertible or hopping along in a bucket, eager to play and teach."[^ref-5] This characterization establishes Loid as a friendly companion rather than an authority figure, encouraging children to engage with mathematical concepts through play rather than formal instruction. Players explore Loid's house and its surrounding area on the asteroid, discovering different mini-games that each focus on specific mathematical skills.[^ref-2]
 
 The game's structure allows children to freely navigate between activities at their own pace, with Loid providing verbal instructions and encouragement throughout.[^ref-1] This open-ended approach supports the educational philosophy that "games often include opportunities for children to practice math skills in a way that is embedded in a context that can make math meaningful."[^ref-7] The asteroid environment serves as a unified thematic space where all mathematical activities feel connected to Loid's charming alien world.[^ref-16]
 
@@ -104,7 +104,7 @@ The game's curriculum was aligned with standards from the National Council of Te
 
 Development was led by designer Ward Makielski, who also served as an artist on the project, working with a team at Bright Star Technology.[^ref-1] The production team included specialized roles for audio engineering, software development, and quality assurance—reflecting the multimedia nature of CD-ROM educational software in the early 1990s.
 
-Sierra On-Line's approach to development during this era involved maintaining "around fifteen development groups," with consistent processes applied across different projects.[^ref-6] Bright Star Technology operated as one of these development units, focusing specifically on educational titles while benefiting from Sierra's publishing and distribution infrastructure.
+In a 2010 SierraGamers forum discussion, one participant recalled that "Sierra had around fifteen development groups," with the same process applied to each.[^ref-8] Bright Star Technology operated as one of these development units, focusing specifically on educational titles while benefiting from Sierra's publishing and distribution infrastructure.
 
 **Development Credits:**[^ref-1]
 - **Designer/Artist:** Ward Makielski
@@ -149,7 +149,7 @@ The game received updates as noted on Sierra Help Pages, indicating ongoing supp
 
 ### Easter Eggs and Trivia
 
-- The game's alien character Loid can be found in various poses and locations around his asteroid home, "sitting on his favorite stool, riding in his convertible or hopping along in a bucket."[^ref-6]
+- The game's alien character Loid can be found in various poses and locations around his asteroid home, "sitting on his favorite stool, riding in his convertible or hopping along in a bucket."[^ref-5]
 - Early Math was part of Bright Star Technology's "Talking Tutor" series of educational software.[^ref-5]
 - The game was developed with input from educational standards bodies, aligning content with National Council of Teachers of Mathematics guidelines.[^ref-5]
 
@@ -221,7 +221,6 @@ Within Sierra On-Line's history, Early Math demonstrates the company's ambitious
 [^ref-3]: [Encyclopedia.com – Sierra On-Line Inc. Company History](https://www.encyclopedia.com/books/politics-and-business-magazines/sierra-line-inc) – company philosophy, product development goals
 [^ref-4]: [Early Childhood Education and Care – Early Math and Video Games](https://www.earlychildhoodeducationandcare.com/bloggers/2018/9/11/early-math-and-video-games) – educational video game effectiveness research, digital natives concept
 [^ref-5]: [Sierra Chest – Early Math Walkthrough](https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=walkthrough) – NCTM curriculum alignment, talking tutor series, target age, educational objectives
-[^ref-6]: Consolidated Research Data – Loid character description from game documentation
 [^ref-7]: [Family Math – Playing with Math: Using Games to Engage Families](https://familymath.org/2025/04/playing-with-math-using-games-to-engage-families-in-young-childrens-math-learning/) – educational philosophy on math games
 [^ref-8]: [Sierra Gamers Forum – Where Does "Sierra" End?](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Bright Star Technology context, educational game lineup
 [^ref-10]: [Internet Archive – Early Math (Original Entry)](https://archive.org/details/early-ma) – Windows 3.1 platform confirmation, CD-ROM format

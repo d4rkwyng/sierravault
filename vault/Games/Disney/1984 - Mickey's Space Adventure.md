@@ -10,7 +10,7 @@ series: Disney Educational Series
 engine: Pre-AGI
 protagonist: Mickey Mouse
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-11'
 composer: [Al Lowe]
 description: Mickey's Space Adventure is a graphic adventure computer game developed
   by Sierra On-Line in collaboration with Walt Disney Computer Software, released
@@ -20,7 +20,7 @@ tags: [1980s, agi, al-lowe, disney-educational-series, educational, roberta-will
 ---
 # Mickey's Space Adventure
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
@@ -61,7 +61,7 @@ The game controls are intentionally simple, using primarily the space bar and Re
 
 ### Structure and Progression
 
-The game takes players through all nine planets of the solar system (with Pluto still classified as a planet at the time of release), requiring them to find one crystal piece on each celestial body.[^ref-18] Flying to different planets requires a basic knowledge of astronomy as well as the ability to read the on-screen instructions.[^ref-9]
+The game takes players through all nine planets of the solar system (with Pluto still classified as a planet at the time of release), requiring them to find one crystal piece on each celestial body.[^ref-16][^ref-1] Flying to different planets requires a basic knowledge of astronomy as well as the ability to read the on-screen instructions.[^ref-9]
 
 - **Earth:** Starting location where Mickey discovers the alien spaceship
 - **Mercury:** Closest planet to the sun, requiring heat-related puzzle solving
@@ -178,7 +178,7 @@ A known compatibility issue exists with the PCjr version: the game does not work
 - **First Mickey Mouse Computer Game:** This was the first computer game to feature Mickey Mouse, and the first video game to feature the character beyond LCD Game and Watch releases.[^ref-2]
 - **Alternate Ending:** Players who choose to write a letter to Minnie Mouse during the game receive an alternate ending where Minnie appears to celebrate Mickey's return.[^ref-11][^ref-16]
 - **Educational Manual:** The instruction manual includes astronomical trivia and also serves as copy protection, with parents and children encouraged to calculate Mickey's weight on different planets.[^ref-7][^ref-20]
-- **Planet Count:** The game features all nine planets of the solar system, including Pluto which was still classified as a planet at the time.[^ref-18]
+- **Planet Count:** The game features all nine planets of the solar system, including Pluto which was still classified as a planet at the time.[^ref-16]
 - **Weight Mechanic:** In the game, Mickey weighs 100 pounds on Earth, with gravity affecting his weight differently on each planet.[^ref-7]
 
 ### Multiple Endings
@@ -256,7 +256,6 @@ The collaboration between Sierra and Disney established a template for education
 [^ref-20]: [Grouvee User Review – giopep](https://www.grouvee.com/games/13157-mickeys-space-adventure/) – complexity assessment, inventory management
 [^ref-16]: [Sierra Chest Walkthrough](https://www.sierrachest.com/index.php?a=games&id=263&title=mickeys-space-adventure&fld=walkthrough&pid=100) – nine crystals, randomized order, letter mechanic
 [^ref-17]: [Lemon64 – Mickey's Space Adventure](https://www.lemon64.com/game/mickeys-space-adventure) – C64 details, user review, Peter Oliphant credit, joystick support
-[^ref-18]: Consolidated Research Data – nine planets, crystal pieces
 [^ref-19]: [Pixelated Arcade – Mickey's Space Adventure](https://pixelatedarcade.com/games/mickey-s-space-adventure) – age recommendation, manual contents, designers
 [^ref-21]: [Abandonware DOS – Mickey's Space Adventure](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Mickey's+Space+Adventure&gid=3163) – rating, platform list
 [^ref-22]: [GameFAQs – Commodore 64 Version](https://gamefaqs.gamespot.com/c64/938386-mickeys-space-adventure) – user ratings, difficulty assessment

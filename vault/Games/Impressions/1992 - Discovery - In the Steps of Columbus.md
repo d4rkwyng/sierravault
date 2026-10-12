@@ -10,20 +10,20 @@ series: Impressions
 engine: Impressions Engine
 protagonist: ''
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-05-11'
+last_updated: '2026-10-11'
 description: 'Discovery: In the Steps of Columbus is a real-time strategy game of
   conquest and exploration released in 1992, timed to coincide with the 500th anniversary...'
 tags: [1990s, impressions, sierra, strategy]
 ---
 # Discovery: In the Steps of Columbus
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-Discovery: In the Steps of Columbus is a real-time strategy game of conquest and exploration released in 1992, timed to coincide with the 500th anniversary of Christopher Columbus's voyage to the Americas[^ref-4]. Developed by Golden Sector and published by Impressions, the game places players in the role of a conquistador tasked with sending fleets of settlers to discover and colonize new worlds while competing against five other European nations[^ref-2]. The game features a comprehensive mouse-driven interface and allows players to choose their starting fatherland before embarking on their colonial endeavors[^ref-2].
+Discovery: In the Steps of Columbus is a real-time strategy game of conquest and exploration released in 1992, the year of the 500th anniversary of Christopher Columbus's voyage to the Americas[^ref-10]. Developed by Golden Sector and published by Impressions, the game places players in the role of a conquistador tasked with sending fleets of settlers to discover and colonize new worlds while competing against five other European nations[^ref-2]. The game features a comprehensive mouse-driven interface and allows players to choose their starting fatherland before embarking on their colonial endeavors[^ref-2].
 
-The gameplay draws comparisons to Sid Meier's Civilization, requiring players to purchase ships, explore unknown territories shrouded in fog, and develop settlements through the construction of farms, warehouses, and defensive forts[^ref-3]. Players must balance exploration, economic development, and military defense against both competing colonial powers and native populations[^ref-2]. The game received mixed reviews upon release, with critics praising its realistic simulation of colonial-era challenges while criticizing its slow pace and user-unfriendly interface[^ref-4].
+The gameplay draws comparisons to Sid Meier's Civilization, requiring players to purchase ships, explore unknown territories shrouded in fog, and develop settlements through the construction of farms, warehouses, and defensive forts[^ref-3]. Players must balance exploration, economic development, and military defense against both competing colonial powers and native populations[^ref-2]. The game received mixed reviews upon release, with critics faulting its slow pace and fiddly, user-unfriendly controls[^ref-7][^ref-10].
 
 > [!info]- Game Info
 > **Developer:** Golden Sector[^ref-2]
@@ -40,7 +40,7 @@ The gameplay draws comparisons to Sid Meier's Civilization, requiring players to
 
 The game's premise draws directly from the Age of Discovery, challenging players to venture "from beyond the horizon" and cross the Atlantic Ocean into the unknown[^ref-8]. Players must navigate treacherous waters where pirates threaten to sink ships in a cannon's flash, while rival European powers race to claim the Americas for themselves[^ref-8]. The narrative context places players as representatives of their chosen fatherland, tasked with establishing a colonial empire through exploration, settlement, and trade.
 
-The goal is economic colonization—players must harvest the land through their settlers, producing goods to trade between their fatherland and their growing new world empire[^ref-8]. The game presents a stark win-or-lose scenario: if the player goes bankrupt, it's game over[^ref-4]. This economic pressure drives all strategic decisions as players balance the costs of exploration against the potential rewards of discovering and exploiting new territories.
+The goal is economic colonization—players must harvest the land through their settlers, producing goods to trade between their fatherland and their growing new world empire[^ref-8]. The game presents a stark win-or-lose scenario: if the player goes bankrupt, it's game over[^ref-10]. This economic pressure drives all strategic decisions as players balance the costs of exploration against the potential rewards of discovering and exploiting new territories.
 
 To maintain an element of mystery and discovery, the developers created five imaginary worlds in addition to the historical Americas, ensuring that players cannot simply rely on historical knowledge to navigate their expeditions[^ref-9]. This design choice preserves the sense of venturing into the unknown that characterized the original Age of Exploration.
 
@@ -55,7 +55,7 @@ Discovery features a comprehensive mouse-driven interface that allows players to
 The game unfolds as players work to discover and colonize territories across six available new worlds[^ref-2]. The map begins as a wall of fog that is gradually revealed through exploration[^ref-11]. Gameplay follows a logical progression:
 
 - **Acquisition:** Players first purchase ships from the bank to begin exploration[^ref-3]
-- **Discovery:** Ships are sent into the unknown to encounter and map new land areas[^ref-4]
+- **Discovery:** Ships are sent into the unknown to explore and find new land[^ref-7]
 - **Settlement:** Once land is discovered, players establish colonies by building farms, warehouses, and forts[^ref-3]
 - **Defense:** Forts are necessary to protect settlements from both natives and rival colonial powers[^ref-3]
 - **Trade:** Developed settlements produce goods for trade between the new world and the fatherland[^ref-8]
@@ -65,7 +65,7 @@ Five extra scenarios are available beyond the main campaign, offering variety in
 
 ### Puzzles and Mechanics
 
-The game operates as an economic and military simulation rather than a puzzle-focused title. Competition with five other AI-controlled nations drives much of the strategic challenge, requiring the game to feature a combat module for resolving conflicts[^ref-2]. Players must manage resources carefully, as bankruptcy results in immediate game over[^ref-4]. The trading system requires establishing profitable routes between colonies and the European homeland, while military units must be positioned to defend against hostile natives and rival colonial forces.
+The game operates as an economic and military simulation rather than a puzzle-focused title. Competition with five other AI-controlled nations drives much of the strategic challenge, requiring the game to feature a combat module for resolving conflicts[^ref-2]. Players must manage resources carefully, as bankruptcy results in immediate game over[^ref-10]. The trading system requires establishing profitable routes between colonies and the European homeland, while military units must be positioned to defend against hostile natives and rival colonial forces.
 
 Right-clicking allows players to scroll around the discovered portions of the map, providing strategic oversight of their growing empire[^ref-3]. The aim is to settle all available areas while successfully fighting against enemy factions competing for the same territories[^ref-3].
 
@@ -73,7 +73,7 @@ Right-clicking allows players to scroll around the discovered portions of the ma
 
 ### Contemporary Reviews
 
-Discovery: In the Steps of Columbus received mixed to poor reviews from contemporary gaming publications. Computer Gaming World's M. Evan Brooks gave the game just 2 out of 5 stars, calling it "slow, dull, user-unfriendly" and connecting its commercial failure to the broader cultural backlash against Columbus anniversary commemorations[^ref-4]. He noted that "the 500th Anniversary of Columbus was PIC (politically incorrect)" and that "the movies, television, books quickly became major 'busts'" with the game being "no different"[^ref-6].
+Discovery: In the Steps of Columbus received mixed to poor reviews from contemporary gaming publications. Computer Gaming World's M. Evan Brooks gave the game just 2 out of 5 stars, calling it "slow, dull, user-unfriendly"[^ref-7] and linking its fate to the broader cultural backlash against Columbus anniversary commemorations[^ref-6]. He noted that "the 500th Anniversary of Columbus was PIC (politically incorrect)" and that "the movies, television, books quickly became major 'busts'" with the game being "no different"[^ref-6].
 
 Dragon magazine's Patricia and Kirk Lesser were more generous, awarding 3 out of 5 stars in their March 1993 issue (#191)[^ref-7]. French publication Tilt gave the game 6.5 out of 10, with reviewer Laurent Defrance describing it as "a good strategy game that offers a realistic simulation of the problems that may have occurred during the great colonization campaigns of the New World"[^ref-9].
 
@@ -95,7 +95,7 @@ Modern assessment of Discovery remains relatively sparse, reflecting its status 
 
 ### Origins
 
-Discovery: In the Steps of Columbus was developed by Golden Sector and published by Impressions (also known as Impressions Software or Impressions Games)[^ref-2]. The game was conceived as a tie-in to the 500th anniversary of Columbus's arrival in the Americas in 1492, joining numerous other media products attempting to capitalize on the quincentennial[^ref-4]. The original concept came from [[David Lester]], who also served as co-designer alongside [[Simon Bradbury]].
+Discovery: In the Steps of Columbus was developed by Golden Sector and published by Impressions (also known as Impressions Software or Impressions Games)[^ref-2]. The game arrived in 1992, the quincentennial of Columbus's arrival in the Americas, a year that Amiga Power's reviewer noted had already brought a run of maritime exploration games[^ref-10]. The original concept came from [[David Lester]], who also served as co-designer alongside [[Simon Bradbury]].
 
 ### Production
 
@@ -161,7 +161,7 @@ No specific cut content has been documented in available sources.
 
 ### Easter Eggs and Trivia
 
-- The game was released during a period when Columbus commemorations were becoming politically controversial, which reviewers suggested contributed to its commercial failure[^ref-4]
+- The game was released during a period when Columbus commemorations were becoming politically controversial, which reviewer M. Evan Brooks suggested contributed to its failure[^ref-6]
 - The game includes a physical map/chart in the box packaging[^ref-10]
 - Despite the Columbus theme, the game includes five fictional worlds in addition to the Americas to preserve the sense of exploration and prevent players from using historical knowledge[^ref-9]
 - One user comment on a German retro gaming site recalled their brother-in-law calling it the "größte Fehlkauf seines Lebens" (biggest mis-purchase of his life)[^ref-13]
@@ -174,7 +174,7 @@ This game does not feature voice acting.
 
 ### Sales and Commercial Impact
 
-Discovery: In the Steps of Columbus appears to have been a commercial disappointment, though specific sales figures are not available. The game's release coincided with a cultural backlash against Columbus anniversary commemorations, which M. Evan Brooks suggested negatively impacted its reception[^ref-4]. The game's ranking of #24,320 out of 27,500 games on MobyGames and collection by only 8 players indicates its minimal lasting impact[^ref-2].
+Discovery: In the Steps of Columbus appears to have been a commercial disappointment, though specific sales figures are not available. The game's release coincided with a cultural backlash against Columbus anniversary commemorations, which M. Evan Brooks suggested negatively impacted its reception[^ref-6]. The game's ranking of #24,320 out of 27,500 games on MobyGames and collection by only 8 players indicates its minimal lasting impact[^ref-2].
 
 ### Collections
 
@@ -191,7 +191,7 @@ A WHDLoad installation package was created by Psygore in 2009 to allow the Amiga
 
 ### Critical Perspective
 
-Discovery: In the Steps of Columbus represents a fascinating footnote in gaming history—a title that attempted to capitalize on a major historical anniversary only to be undermined by both its own technical shortcomings and a shifting cultural attitude toward its subject matter. The game arrived at a moment when the Columbus quincentennial had become politically fraught, with increasing attention paid to the devastating consequences of European colonization for indigenous peoples[^ref-4].
+Discovery: In the Steps of Columbus represents a fascinating footnote in gaming history—a title that attempted to capitalize on a major historical anniversary only to be undermined by both its own technical shortcomings and a shifting cultural attitude toward its subject matter. The game arrived at a moment when the Columbus quincentennial had become politically fraught, as M. Evan Brooks observed in calling the anniversary "PIC (politically incorrect)"[^ref-6].
 
 From a design perspective, the game occupied an awkward middle ground between the accessible action of Sid Meier's Pirates! and the deeper strategic complexity that Meier would later achieve with Colonization (1994). Laurent Defrance's assessment that it was "a good strategy game" hampered by controls that were "too heavy to manage" captures the consensus view[^ref-9]. The game's reuse of the Merchant Colony engine with only marginal improvements suggests a rushed development cycle attempting to meet the anniversary window[^ref-6].
 
@@ -239,7 +239,6 @@ The game has been largely forgotten in discussions of colonial-era strategy game
 
 [^ref-2]: [MobyGames – Discovery: In the Steps of Columbus](https://www.mobygames.com/game/27734/discovery-in-the-steps-of-columbus/) – Developer, publisher, platform information, critic ratings, full credits
 [^ref-3]: [Lemon Amiga – User Review](https://www.lemonamiga.com/games/details.php?id=4730) – Gameplay description comparing to Civilization
-[^ref-4]: Consolidated Research Data – Game description, thematic details, gameplay overview
 [^ref-6]: [MyAbandonware – Discovery](https://www.myabandonware.com/game/discovery-in-the-steps-of-columbus-1dx) – User ratings, bug reports, engine derivation from Merchant Colony
 [^ref-7]: [Wikipedia – Discovery: In the Steps of Columbus](https://en.wikipedia.org/wiki/Discovery:_In_the_Steps_of_Columbus) – Platform information, Dragon magazine review citation
 [^ref-8]: [Metacritic – Discovery](https://www.metacritic.com/game/discovery-in-the-steps-of-columbus/) – Game summary description

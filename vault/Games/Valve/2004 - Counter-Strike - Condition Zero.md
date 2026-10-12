@@ -11,14 +11,14 @@ series: Counter-Strike
 engine: GoldSrc
 protagonist: Counter-Terrorist Operative
 sierra_lineage: Sierra Published
-last_updated: '2026-10-09'
+last_updated: '2026-10-11'
 description: 'Counter-Strike: Condition Zero is a tactical first-person shooter released
   in March 2004, representing the only game in the Counter-Strike franchise to...'
 tags: [2000s, counter-strike, shooter, sierra]
 ---
 # Counter-Strike: Condition Zero
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
@@ -112,7 +112,7 @@ The Japanese gaming press at Game Watch provided more positive coverage, with re
 
 Modern retrospectives have been largely dismissive of the game's single-player value, with many noting that Counter-Strike: Source's release later in 2004 effectively buried Condition Zero.[^ref-20] Steam user reviews show a 91% positive rating from 7,237 English reviews, indicating enduring appreciation from the Counter-Strike community.[^ref-21]
 
-"Counter-Strike: Condition Zero isn't really worth playing for its multiplayer content due to other games in the series offering much the same experience but with a more active userbase," noted one modern reviewer.[^ref-22]
+"Counter-Strike: Condition Zero isn't really worth playing for its multiplayer content due to other games in the Counter-Strike series offering much the same experience but with a more active userbase," noted one HowLongToBeat user review.[^ref-45]
 
 **Aggregate Scores:**
 - **Metacritic:** 65/100 (33 critics)[^ref-2]
@@ -351,7 +351,6 @@ For its era, the bot AI represented a genuine technical achievement that would i
 [^ref-19]: [Game Watch (Japan)](https://game.watch.impress.co.jp/docs/20040326/cscz.htm) – Japanese release details, BRZRK review, Turtle Rock CEO quote, system requirements
 [^ref-20]: [Reddit – Patient Gamers Review](https://www.reddit.com/r/patientgamers/comments/erxwpz/a_review_of_a_forgotten_game_counterstrike/) – modern retrospective, development history analysis
 [^ref-21]: [Steam Store – Counter-Strike: Condition Zero](https://store.steampowered.com/app/80/) – Steam reviews, system requirements, user scores
-[^ref-22]: Consolidated Research Data – user reviews, community feedback
 [^ref-23]: [IMDB – Counter-Strike: Condition Zero](https://www.imdb.com/title/tt0466736/) – user ratings, trivia, bugs
 [^ref-24]: [Metacritic – Counter-Strike: Condition Zero](https://www.metacritic.com/game/counter-strike-condition-zero/) – Metascore, user score, review breakdown
 [^ref-25]: [VoodooExtreme Archive (Wayback Machine)](https://web.archive.org/web/20010527020610/http://www.voodooextreme.com/comments.taf?postID=15167&_start=156) – Gabe Newell quotes on single-player vision
@@ -373,3 +372,4 @@ For its era, the bot AI represented a genuine technical achievement that would i
 [^ref-42]: [Speedrun Wiki Archive](https://archive.speedrunwiki.com/Counter_Strike:_Condition_Zero) – historical speedrun records
 [^ref-43]: [Internet Archive – Prima Official eGuide](https://archive.org/details/Counter_Strike_Condition_Zero_Prima_Official_eGuide) – strategy guide metadata
 [^ref-44]: [Steam Community](https://steamcommunity.com/app/80/) – custom mission system documentation reference
+[^ref-45]: [HowLongToBeat – Counter-Strike: Condition Zero Reviews](https://howlongtobeat.com/game/1955/reviews/latest/1) – user review on multiplayer value
