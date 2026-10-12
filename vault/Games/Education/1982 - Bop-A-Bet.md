@@ -10,18 +10,18 @@ series: Hi-Res Learning Series
 engine: Applesoft BASIC
 protagonist: Boxing Glove (player-controlled)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-09'
+last_updated: '2026-10-11'
 description: Bop-A-Bet is an educational typing and letter-recognition game for children,
   originally developed by Sunnyside Soft in 1982 and later republished by Sierra...
 tags: [1980s, educational, hi-res-learning-series, sierra]
 ---
 # Bop-A-Bet
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-Bop-A-Bet is an educational typing and letter-recognition game for children, originally developed by Sunnyside Soft in 1982 and later republished by Sierra On-Line in 1983 as part of their Hi-Res Learning series.[^ref-1][^ref-20][^ref-21][^ref-22][^ref-23][^ref-24][^ref-25] The game represents the second commercial title created by [[Al Lowe]], who would later achieve fame as the creator of the Leisure Suit Larry series.[^ref-2] Drawing from their educational backgrounds, Al Lowe and his partner Mike MacChesney decided to utilize the computer as a platform for education, blending arcade-style enjoyment with simple learning principles.[^ref-3]
+Bop-A-Bet is an educational typing and letter-recognition game for children, originally developed by Sunnyside Soft in 1982 and later republished by Sierra On-Line in 1983 as part of their Hi-Res Learning series.[^ref-1][^ref-3][^ref-21][^ref-22][^ref-23][^ref-24][^ref-25] The game represents the second commercial title created by [[Al Lowe]], who would later achieve fame as the creator of the Leisure Suit Larry series.[^ref-2] Drawing from their educational backgrounds, Al Lowe and his partner Mike MacChesney decided to utilize the computer as a platform for education, blending arcade-style enjoyment with simple learning principles.[^ref-3]
 
 The game helped children learn letters and the alphabet through a Pac-Man-like maze format, where players steer a boxing glove through the playfield using four directional keys.[^ref-1] Targeted at children ages 5 to 8, Bop-A-Bet teaches letter recognition and alphabetization while adapting its difficulty based on player performance—the speed of the game increases as the child becomes more proficient.[^ref-1] This adaptive difficulty mechanic alone proves "rather addictive" as players often find themselves wanting "just one more go" to beat their high score.[^ref-5]
 
@@ -208,7 +208,6 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 [^ref-2]: [Sierra Chest – Box Documentation](https://sierrachest.com/index.php?a=games&id=728&title=bop-a-bet&fld=box) – packaging scans, Sunnyside Soft origin
 [^ref-18]: [Wikiwand – Bop-A-Bet (alternate)](https://www.wikiwand.com/en/Bop-A-Bet) – pricing information, review quotes
 [^ref-19]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Bop-A-Bet) – platform and release year verification
-[^ref-20]: [Apple II PixelGeek – Sunnyside Soft archive](https://www.apple2.org.za/gswv/a2zine/) — Apple II community catalog covering Sunnyside Soft / Al Lowe pre-Sierra publishing
 [^ref-21]: [IGDB – Bop-A-Bet](https://www.igdb.com/games/bop-a-bet) — Internet Games Database entry, release-year confirmation, Apple II platform tagging
 [^ref-22]: [LaunchBox Games Database – Bop-A-Bet](https://gamesdb.launchbox-app.com/games/details/bop-a-bet) — community-curated metadata, cover-art reference, platform listing
 [^ref-23]: [Sierra Gamers – Al Lowe pre-Larry catalog](https://www.sierragamers.com/al-lowe/) — historical context for Al Lowe's early Sierra and Sunnyside Soft work
