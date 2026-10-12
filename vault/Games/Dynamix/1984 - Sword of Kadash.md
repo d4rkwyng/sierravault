@@ -7,118 +7,115 @@ publisher: Penguin Software
 genre: Action RPG
 platforms: [Apple II, C64, Atari ST, Mac]
 series: N/A
-engine: 6502 Assembly
-protagonist: Unnamed Hero/Heroine
+engine: Custom
+protagonist: Unnamed Wanderer
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-13'
-description: Sword of Kadash is an action role-playing game originally developed for
-  the Apple II in 1984 by Chris Cole, a teenage programmer working at The Computer...
+last_updated: '2026-10-12'
+description: Sword of Kadash is an action role-playing game written by teenage programmer
+  Chris Cole, developed by Dynamix and published by Penguin Software for the Apple II
+  in 1984 or 1985 (sources disagree), with later Commodore 64, Atari ST and Macintosh
+  versions.
 tags: [1980s, dynamix, n-a, rpg, sierra]
 ---
 # Sword of Kadash
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Sword of Kadash is an action role-playing game originally developed for the Apple II in 1984 by Chris Cole, a teenage programmer working at The Computer Tutor store in Eugene, Oregon.[^ref-1] The game was published by Penguin Software and later ported to the Commodore 64 in 1985, with Atari ST and Macintosh versions following in 1986.[^ref-2] Described as "an adventure/CRPG/platformer hybrid," the game combined real-time action combat with exploration elements that were innovative for its time.[^ref-3]
+Sword of Kadash is an action role-playing game written for the Apple II by Chris Cole, a teenager who frequented The Computer Tutor, Jeff Tunnell's computer store in Eugene, Oregon.[^ref-1][^ref-3] Its release year is disputed: the CRPG Addict, Retro Games Trove and Giant Bomb date it to 1984 (Lemon64 also lists 1984 for the C64 version), while MobyGames, Retro365, the Commodore Wiki and the Sierra Fandom wiki give 1985 for the Apple II original.[^ref-6][^ref-5][^ref-12][^ref-16][^ref-2][^ref-4][^ref-1][^ref-7] The cover art is signed "Wedemeyer '84".[^ref-23] The game was published by Penguin Software, with a Commodore 64 version in 1985 and Atari ST and Macintosh versions following in 1986; the Macintosh edition was published by Polarware.[^ref-2][^ref-9] The Digital Antiquarian describes it as "an adventure/CRPG/platformer hybrid," and Cole himself later called it "a genre-buster."[^ref-3][^ref-6]
 
-The game earned praise in contemporary magazines as an original action-adventure experience, though it was also notorious for its punishing difficulty.[^ref-4] Set in the deserts of Persia, players must navigate a sprawling dungeon of 250 different rooms filled with traps, monsters, and hidden passages.[^ref-5] The game's design philosophy emphasized learning through repeated failures, requiring players to make extensive maps and notes to eventually plot a successful path to victory.[^ref-6]
+Magazines of the time praised it as an original action-adventure, and it was notorious for its difficulty.[^ref-4][^ref-12] Set in the deserts of Persia, it sends the player through a dungeon of roughly 250 rooms filled with traps, monsters and hidden passages.[^ref-5][^ref-9] Players are, in the CRPG Addict's words, "manifestly meant to make maps, take notes, and through a long process of dying and learning, eventually plot a path through the game to the end."[^ref-6]
 
-Sword of Kadash holds historical significance as one of the earliest titles released by [[Dynamix]], the company that would later become famous for flight simulators and adventure games before being acquired by Sierra On-Line.[^ref-3][^ref-7] The game represented founder Jeff Tunnell's strategy of signing contracts to keep his fledgling company financially afloat during its formative years.[^ref-3]
+Sword of Kadash was Dynamix's second game, released while the young company was signing whatever contracts it could find to stay afloat; [[Dynamix]] later became known for its flight simulators and adventure games and was acquired by Sierra On-Line in 1990.[^ref-6][^ref-3][^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-2]
 > **Designer:** Chris Cole[^ref-1]
-> **Publisher:** Penguin Software / Polarware[^ref-8]
+> **Publisher:** Penguin Software / Polarware[^ref-9][^ref-8]
 > **Engine:** Custom
 > **Platforms:** Apple II, Commodore 64, Atari ST, Macintosh[^ref-2]
-> **Release Year:** 1984 (Apple II), 1985 (C64), 1986 (Atari ST, Mac)[^ref-2]
+> **Release Year:** 1984 or 1985 (Apple II; sources disagree), 1985 (C64), 1986 (Atari ST, Mac)[^ref-2][^ref-6]
 > **Series:** N/A
-> **Protagonist:** Unnamed Hero/Heroine
+> **Protagonist:** Unnamed Wanderer[^ref-6]
 > **Sierra Lineage:** Dynamix (later Sierra subsidiary)
 
 ## Story Summary
 
-The narrative of Sword of Kadash places players in the role of a fortune-seeker who has traveled from the Mediterranean to the deserts of Persia in search of wealth and adventure.[^ref-9] However, their journey takes a dark turn when they are betrayed and captured by brigands who present an ultimatum: enter the deadly Fortress of the Dragon and retrieve the legendary Sword of Kadash, or face execution.[^ref-9]
+The narrative of Sword of Kadash places players in the role of a fortune-seeker who has traveled from the Mediterranean to the deserts of Persia in search of wealth.[^ref-9] Betrayed and captured by brigands, the hero is spared only on condition that he enter the Fortress of the Dragon and return with the Sword of Kadash.[^ref-9]
 
-The Sword of Kadash itself is an enchanted two-handed weapon with a dark history dating back to the Crusades.[^ref-10] It is said that the sword is powered by the blood of those who were slain by it during that era, and those who wield it become susceptible to its corrupting enchantment.[^ref-10] The weapon lies deep within the dungeons of the Fortress of the Dragon, guarded by a powerful Liche and other supernatural defenders.[^ref-10]
+The Sword of Kadash itself is an enchanted two-handed weapon once wielded by a Templar Knight during the Crusades.[^ref-10] It is said that the sword is powered by the blood of those it slew during that era, and those who use it are susceptible to its enchantment.[^ref-10] The weapon lies deep within the dungeons of the Fortress of the Dragon, guarded by a powerful Liche.[^ref-10]
 
-The fortress is home to a dragon named Aladag who serves as the ultimate guardian of the treasure.[^ref-11] Players must navigate through hundreds of rooms filled with skeletons, demons, bats, and other monstrous creatures to reach their goal.[^ref-12] Giant Bomb describes it as "an incredibly difficult action RPG."[^ref-12] Interestingly, the game's setting was altered late in development—Chris Cole had originally envisioned a more traditional fantasy setting, but Penguin Software insisted on changing it to a Persian theme due to the association between "Kadash" and the ancient city of Kadesh.[^ref-1]
+A dragon named Aladag guards the sword.[^ref-11] The dungeon is full of skeletons, demons, bats and other creatures; Giant Bomb calls the game "an incredibly difficult action RPG."[^ref-12] The Persian setting was a late change: Chris Cole had intended a high-fantasy theme, but someone at Penguin Software associated "Kadash" with the ancient city of Kadesh and insisted on a Persian framing story.[^ref-1][^ref-6]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Sword of Kadash features a top-down perspective with real-time combat mechanics.[^ref-9] Players control their character using keyboard, joystick, or mouse depending on the platform, navigating through the fortress while engaging enemies.[^ref-8] The primary method of attack involves firing darts that travel in three-round bursts, with only three darts allowed on screen at any time.[^ref-13] A unique tactical element emerges from the darts' ability to ricochet off walls, allowing skilled players to attack enemies around corners.[^ref-9]
+Sword of Kadash is a top-down game with real-time combat.[^ref-9] The Atari ST version supports keyboard, joystick or mouse control.[^ref-8] The primary attack is firing "darts" in three-round bursts, and only three darts can be fired at a time.[^ref-6][^ref-9] Darts ricochet off some walls and are absorbed by, or blast holes in, others; the CRPG Addict describes banking them off walls.[^ref-9][^ref-6]
 
-The game offers the choice of playing as either a hero or heroine at the start, though character customization beyond this selection is limited.[^ref-14] Players begin each session with 2000 hit points and access to a fear spell for emergency situations.[^ref-14] The deterministic nature of the game means that every playthrough begins identically, with success dependent on accumulated player knowledge rather than random chance.[^ref-14]
+There is no character creation process, just a choice among three difficulty levels.[^ref-6] Every game begins the same way: the player starts at the entrance with a dagger, 2000 hit points, armour and fear spells.[^ref-14] Because the game is deterministic, victory comes through accumulated knowledge of the dungeon rather than chance.[^ref-6][^ref-14]
 
 ### Structure and Progression
 
-The game consists of a massive interconnected dungeon featuring 256 discrete rooms spread across the fortress.[^ref-5][^ref-6] Unlike linear action games of the era, Sword of Kadash emphasizes freedom to explore without following a predetermined path.[^ref-14] This non-linear structure was reminiscent of the earlier Apshai games that influenced its design.[^ref-11]
+The CRPG Addict counted 256 discrete rooms in the dungeon; Retro Games Trove gives the figure as 250.[^ref-6][^ref-5] AtariCrypt praised the "freedom to roam without following any linear path."[^ref-14] Its look recalled earlier games of the type: AtariCrypt was reminded of the Apshai games by its modest visuals and top-down display, and the CRPG Addict compared its basic interface to Caverns of Freitag, Sword of Fargoal and Gateway to Apshai.[^ref-11][^ref-6]
 
-- **Starting Area:** Initial rooms with weaker enemies for learning combat basics[^ref-6]
-- **Outer Fortress:** Maze-like corridors with increasing monster density[^ref-11]
-- **Inner Dungeons:** More challenging areas with traps and hidden passages[^ref-14]
-- **Dragon's Lair:** Final confrontation area guarded by Aladag[^ref-11]
-
-Progression involves collecting better equipment including daggers, morning stars, axes, and swords, with the titular Sword of Kadash being the ultimate weapon.[^ref-14] Armor upgrades can improve the player's armor class up to a maximum of 50, while experience can raise the character to level 66.[^ref-5] The game was explicitly designed with replay in mind, expecting players to learn the dungeon layout over multiple attempts.[^ref-11]
+Progression comes from collecting better equipment, including daggers, morning stars, axes and swords.[^ref-14] Armour upgrades can raise the player's armour class to a maximum of 50.[^ref-5] Experience raises the character's level; the Retro Games Trove reviewer was level 66 when he defeated the dragon and lich and recovered the sword.[^ref-5] Cole says he deliberately set out to make a game that required an accumulation of experience to finish: "I meant to make a tough game."[^ref-6] AtariCrypt felt the design "seems focused on replayability, meaning you'll die often, encouraging you to take notes."[^ref-11]
 
 ### Puzzles and Mechanics
 
-The gameplay emphasizes exploration and survival over traditional puzzle-solving. Many rooms contain traps and hidden passages that must be discovered through experimentation.[^ref-14] Cursed items appear throughout the dungeon, adding risk to treasure collection.[^ref-13] As one reviewer noted, "Sword of Kadash is a cruel game designed to be learnt by the player bit by bit."[^ref-11]
+The gameplay emphasizes exploration and survival over traditional puzzle-solving. Many rooms contain traps and hidden passages that must be discovered through experimentation.[^ref-14] Cursed items appear throughout the dungeon, adding risk to treasure collection.[^ref-13] As AtariCrypt put it, "Sword of Kadash has a cruel design to be learned by the player bit by bit."[^ref-11]
 
-The lack of a save system within the dungeon means that death results in starting over, making careful mapping essential. As the game's solution guide warns: "Your best chance lies in paper and pen. Map well, my fool!"[^ref-15] This trial-and-error approach became a defining characteristic, with one modern critic observing that "success almost always comes through experience rather than skill alone."[^ref-6]
+Death is costly: a character who dies starts over at Level 1 with a sword and shield, which the CRPG Addict calls "not a survivable condition in the late game."[^ref-6] A fan-written solution posted to the Atari SIG in 1990 advises: "Your best chance lies in paper and pen. Map well, my fool!"[^ref-15] The CRPG Addict observed that "victory almost always comes through experience rather than skill alone."[^ref-6]
 
 ## Reception
 
 ### Contemporary Reviews
 
-The game received praise in contemporary magazines as an original action-adventure title that successfully blended multiple genres.[^ref-4] Contemporary reviewers appreciated the ambitious scope of the 250-room dungeon and the strategic depth offered by the ricochet dart system, though many noted the extreme difficulty curve as a potential barrier for casual players.[^ref-5][^ref-9]
+According to the CRPG Addict and Retro365, magazines at the time praised Sword of Kadash and called it an original action-adventure.[^ref-6][^ref-4] No specific contemporary review has been located for this page.
 
 ### Modern Assessment
 
-Modern retrospective reviews have been more critical, with the CRPG Addict blog giving the game 18 out of 100 in 2016, criticizing its heavy reliance on trial and error while acknowledging that players are "manifestly meant to make maps, take notes, and through a long process of dying and learning, eventually plot a path through the game to the end."[^ref-6]
+The CRPG Addict's 2016 retrospective gave the game a final rating of 18 on his GIMLET scale and rated its difficulty "Hard (4/5)". He criticized its heavy reliance on trial and error while acknowledging that players are "manifestly meant to make maps, take notes, and through a long process of dying and learning, eventually plot a path through the game to the end."[^ref-6]
 
-User reception has been more generous, with community members on Lemon64 expressing nostalgic fondness for the title.[^ref-16] One user called it "Fantastic game. One giant dungeon to explore. Incredibly hard due mostly to some poor gameplay quirks, but still an excellent game."[^ref-16] Another noted it was "Very dependent on trial and error, but compelling somehow. Lots of secrets so learning the dungeon is part of the strategy."[^ref-16]
+User reception has been more generous, with community members on Lemon64 expressing fondness for the title.[^ref-16] One user called it "Fantastic game. One giant dungeon to explore. Incredibly hard due mostly to some poor gameplay quirks, but still an excellent game."[^ref-16] Another noted it was "Very dependent on trial and error, but compelling somehow. Lots of secrets so learning the dungeon is part of the strategy."[^ref-16]
 
 **Aggregate Scores:**
-- **MobyGames:** 2.0/5[^ref-9]
-- **Atarimania:** 7.8/10[^ref-8]
-- **Atari Legend:** 5.00/5[^ref-17]
-- **MyAbandonware:** 4.17/5[^ref-18]
-- **Giant Bomb User Rating:** 4.0/5 stars[^ref-12]
+- **MobyGames:** Critics 80% (1 review)[^ref-2]
+- **Atarimania:** 7.8/10 (5 votes)[^ref-8]
+- **Atari Legend:** 5.00/5 (1 vote)[^ref-17]
+- **MyAbandonware:** 4.17/5 (6 votes)[^ref-18]
 
 ## Development
 
 ### Origins
 
-The creation of Sword of Kadash emerged from a challenge issued at The Computer Tutor, a computer store in Eugene, Oregon where teenage programmers congregated in the early 1980s.[^ref-1] Chris Cole, who was only 15 years old when he began development in 1983, grew frustrated with the quality of commercial software available at the time.[^ref-4] As Cole recalled: "We didn't have any money and $30 was a big deal for us. We felt burned when we got a bad one...and we seemed to get burned a lot. So I started mouthing off that I could write a better game in two weeks."[^ref-1]
+The creation of Sword of Kadash began with a challenge at The Computer Tutor, the Eugene, Oregon computer store where Cole and his friends spent their time.[^ref-1][^ref-3] Chris Cole began development in 1983, at 15, after growing frustrated with the quality of commercial software available at the time.[^ref-4] As Cole recalled: "We didn't have any money and $30 was a big deal for us. We felt burned when we got a bad one...and we seemed to get burned a lot. So I started mouthing off that I could write a better game in two weeks."[^ref-1][^ref-6]
 
-Jeff Tunnell, who ran The Computer Tutor and would later found Dynamix, threw down the gauntlet: if Cole thought he could create a better game than what was available on store shelves, Tunnell would publish it.[^ref-1] This challenge led to a two-year development process that would produce one of the company's earliest commercial releases.[^ref-4]
+Jeff Tunnell, who ran The Computer Tutor and founded Dynamix, threw down the gauntlet: if Cole thought he could create a better game than what was available on store shelves, Tunnell would publish it.[^ref-1] Cole was 15 when he started work on the game and 17 when he finished it.[^ref-6]
 
 ### Production
 
-Development drew inspiration from multiple sources including action games like Berzerk and Robotron: 2084, as well as earlier RPGs like Caverns of Freitag and tabletop Dungeons & Dragons.[^ref-1] While Chris Cole designed and programmed the core interface, he received assistance from fellow Computer Tutor associates Paul Bowman, Damon Slye, and Bryce Morsello, who helped design most of the dungeon's rooms.[^ref-1]
+Cole was influenced by the action games Berzerk and Robotron: 2084, as well as Caverns of Freitag and tabletop Dungeons & Dragons.[^ref-1][^ref-6] Cole wrote the game's interface, and his friends Paul Bowman, Damon Slye and Bryce Morsello helped design most of the rooms.[^ref-1]
 
-Cole had initially hoped that Electronic Arts would publish the game, but Tunnell's relationship with EA was strained at the time, leading to negotiations that ultimately fell through.[^ref-4] Penguin Software eventually signed the title, though they requested a significant change late in development: the original fantasy setting was altered to a Persian theme due to the phonetic similarity between "Kadash" and the ancient city of Kadesh.[^ref-1]
+Cole had hoped that Electronic Arts would publish the game, but Tunnell's relationship with EA was strained at the time, so Penguin Software was approached instead.[^ref-4][^ref-6] Penguin insisted on changing the game's setting from fantasy to a Persian theme, quite late in development.[^ref-4] Cole thought it a bad marketing decision: "I tried, unsuccessfully as a 16-year-old, to have them change the setting back to high fantasy."[^ref-6]
 
-**Development Credits:**[^ref-9]
-- **Designer:** Chris Cole[^ref-1]
-- **Programmer (Atari ST/C64):** Kenneth L. Hurley[^ref-8]
-- **ST Conversion:** Chris Cole[^ref-17]
-- **Additional Programmer:** Kevin Ryan[^ref-9]
-- **Cover Artwork:** Stephen F. Wedemeyer[^ref-9]
+**Development Credits:**
+- **Designer:** Chris Cole[^ref-1][^ref-23]
+- **Programmer (Apple II):** Chris Cole[^ref-23]
+- **Programmer (Commodore 64):** Kevin Ryan[^ref-24][^ref-1]
+- **Atari ST Conversion:** Kenneth L. Hurley[^ref-8][^ref-17]
+- **Additional Room Designers (uncredited):** Paul Bowman, Damon Slye, Bryce Morsello[^ref-1]
+- **Cover Artwork:** Stephen F. Wedemeyer (as Wedemeyer '84)[^ref-23]
 
 ### Technical Achievements
 
-The game featured a smooth-scrolling top-down view that was impressive for 8-bit computers of the era.[^ref-13] The dart ricochet mechanic added a tactical layer unusual for action games of the time.[^ref-9] The Atari ST conversion, completed by Kenneth Hurley, required only three months of development time according to Hurley himself: "Yes, 1985. It only took 3 months to convert it to the Atari ST."[^ref-19]
+AtariCrypt singled out the walls as a mechanic: blue walls can be destroyed to create a new pathway, while green walls repel all shots.[^ref-14] The Atari ST conversion was done by Kenneth Hurley, who said: "It only took 3 months to convert it to the Atari ST."[^ref-19]
 
 ### Technical Specifications
 
 **Apple II Version:**[^ref-20]
-- **Storage Media:** 5.25" Floppy Disk (2 disks)[^ref-20]
+- **Preservation:** 5.25" disk image (.dsk) on the Internet Archive[^ref-20]
 - **Emulator Compatible:** apple2ee-helper[^ref-20]
 
 **Atari ST Version:**[^ref-8]
@@ -130,65 +127,60 @@ The game featured a smooth-scrolling top-down view that was impressive for 8-bit
 - **Language:** English[^ref-8]
 
 **Commodore 64 Version:**[^ref-16]
-- **Media:** Disk/Tape[^ref-16]
-
-### Cut Content
-
-Chris Cole expressed some disappointment with the final product's setting change from his original fantasy vision to the Persian theme imposed by Penguin Software.[^ref-4] The late-stage alteration affected the game's narrative framing but did not fundamentally change the gameplay mechanics.
+- **Controls:** Joystick (Port 2)[^ref-16]
+- **Players:** 1[^ref-16]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1984 | Apple II | Initial release[^ref-6][^ref-20] |
-| 1.0 | 1985 | Commodore 64 | Port by Kenneth Hurley[^ref-2][^ref-8] |
-| 1.0 | 1986 | Atari ST | 3-month conversion[^ref-17][^ref-19] |
-| 1.0 | 1986 | Macintosh | Final platform port[^ref-2] |
+| 1.0 | 1984 or 1985 (disputed) | Apple II | Initial release, Penguin Software[^ref-6][^ref-2] |
+| 1.0 | 1985 | Commodore 64 | Port by Kevin Ryan[^ref-2][^ref-24] |
+| 1.0 | April 1986 | Atari ST | 3-month conversion by Kenneth Hurley[^ref-9][^ref-19] |
+| 1.0 | March 1986 | Macintosh | Published by Polarware[^ref-9] |
 
 ### Technical Issues
 
-The game's design was intentionally unforgiving, with some players noting "poor gameplay quirks" that contributed to the extreme difficulty.[^ref-16] The lack of an in-game save system combined with the trial-and-error nature of progression meant that players could lose hours of progress to a single mistake.[^ref-6] One user on Atarimania asked: "Is there a version out there that features a trainer for inf hit points?"[^ref-8][^ref-22]
+The game was intentionally unforgiving, and one Lemon64 user blamed its difficulty mostly on "some poor gameplay quirks."[^ref-16] One user on Atarimania asked: "Is there a version out there that features a trainer for inf hit points?"[^ref-8]
 
 ### Easter Eggs and Trivia
 
 - The game contains many hidden passages that reward careful exploration.[^ref-14]
-- "Lots of secrets so learning the dungeon is part of the strategy" according to community players.[^ref-16]
-- Kenneth Hurley, who ported the game to Atari ST, went on to work for Central Point Software after completing the conversion.[^ref-19]
+- Cole named the game after a girl: "I had a teenage crush on a girl in my school whose name was 'kinda' like 'Kadash.'"[^ref-6]
+- Kenneth Hurley, who ported the game to the Atari ST, went to work for Central Point Software right after finishing the conversion.[^ref-19]
 - Chris Cole was 17 years old when the game was finally completed and published.[^ref-1]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-While specific sales figures are not publicly documented, Sword of Kadash sold well enough to cover Chris Cole's living expenses throughout five years of undergraduate studies and two years of graduate school—a remarkable achievement for a game created by a teenager.[^ref-4] Cole was somewhat disappointed with Penguin Software's marketing and distribution efforts, though the game found a loyal audience among action RPG enthusiasts.[^ref-4]
+Sales figures are not publicly documented, but Sword of Kadash earned enough to cover Chris Cole's living expenses through five years of undergraduate study and two years of graduate school.[^ref-4] Cole estimated his royalties at perhaps $25,000 to $30,000 in total.[^ref-6] Cole was somewhat disappointed with Penguin Software's marketing and distribution.[^ref-4]
 
-### Collections
+### Place in Dynamix History
 
-The game appeared as part of Dynamix's early catalog before the company was acquired by Sierra On-Line.[^ref-7] It represents a formative period in the company's history when they were willing to publish diverse genres to establish themselves in the market.[^ref-3]
+Sword of Kadash belongs to Dynamix's early catalog, made years before Sierra On-Line acquired the company in 1990.[^ref-7] It dates from a period when Tunnell "signed contracts wherever he could find them to keep his head above water."[^ref-3]
 
 ### Fan Projects
 
-Community members have created level maps to help modern players navigate the extensive dungeon system, with notable contributions from AtariCrypt.[^ref-11][^ref-17] The game is preserved and playable through various emulation platforms including Virtual Apple and Internet Archive.[^ref-20]
+AtariCrypt made a map of the dungeon for modern players to use as a guide.[^ref-14] The game is preserved and playable through Virtual Apple and the Internet Archive.[^ref-22][^ref-20]
 
 ### Related Publications
 
-- **Game Solution/Walkthrough:** Available through Atari Freenet archives, providing room-by-room navigation assistance[^ref-15]
-- **Walkthrough by Keighn:** Published on GameFAQs in 2016[^ref-21]
+- **Game Solution/Walkthrough:** A room-by-room fan solution by Len Stys (1990), archived by Atari Freenet[^ref-15]
+- **Walkthrough by Keighn:** An incomplete walkthrough published on GameFAQs in 2016[^ref-21]
 
 ### Critical Perspective
 
-Sword of Kadash occupies an interesting position in gaming history as an early example of the action RPG genre that would later flourish with titles like Diablo. The game's emphasis on learning through failure, non-linear exploration, and character progression through collected equipment anticipated many elements that would become genre standards.[^ref-6]
+Retro Games Trove places the game among the founders of the action RPG: "The Tower of Druaga, Courageous Perseus, Hydlide and Sword of Kadash heralded what would become an entirely new subgenre."[^ref-5] Cole himself saw it as mixing "legitimate elements of RPG, arcade, adventure, and maybe even a little open world."[^ref-6]
 
-The title also represents a fascinating snapshot of the pre-commercial indie game development scene of the early 1980s.[^ref-1] Created by teenagers at a computer store, published by a small software company, it demonstrates how the low barriers to entry in early home computer gaming allowed young developers to create and sell their work.[^ref-3] Chris Cole later returned to Dynamix in 1991, bringing his career full circle.[^ref-4]
+The title is also a snapshot of early-1980s home-computer development. Dynamix grew out of a Eugene computer shop, and the Digital Antiquarian calls Kadash the work of "another kid from The Computer Tutor."[^ref-3] Chris Cole returned to Dynamix in 1991.[^ref-4]
 
-While modern critics have been harsh on the game's punishing difficulty and repetitive nature—with some finding it "a bit repetitious" and "kinda pointless"[^ref-16]—its dedicated fanbase continues to appreciate its ambitious scope and rewarding exploration. As one nostalgic player wrote: "my favorite game on the c64. i still have my disk copy, but no drive to read it from."[^ref-18]
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+A Lemon64 user called it "a bit repetitious" and "kinda pointless," though it still has fans.[^ref-16] One MyAbandonware commenter wrote: "my favorite game on the c64. i still have my disk copy, but no drive to read it from."[^ref-18]
 
 ## Downloads
+
+**Purchase / Digital Stores**
+- Not currently sold on GOG or Steam.
 
 **Download / Preservation**
 - [Internet Archive – Apple II Version](https://archive.org/details/sword_of_kadash_s2)
@@ -216,48 +208,50 @@ While modern critics have been harsh on the game's punishing difficulty and repe
 
 ## References
 
-[^ref-1]: [Commodore Fandom Wiki – Sword of Kadash](https://commodore.fandom.com/wiki/Sword_of_Kadash) – development history, Chris Cole quotes, design influences, personnel credits
+[^ref-1]: [Commodore Fandom Wiki – Sword of Kadash](https://commodore.fandom.com/wiki/Sword_of_Kadash) – development history, Chris Cole quotes, design influences, personnel credits (Kevin Ryan C64 port)
 
-[^ref-2]: [MobyGames – Sword of Kadash](https://www.mobygames.com/game/70210/sword-of-kadash/) – release dates, platforms, publisher information, technical specs
+[^ref-2]: [MobyGames – Sword of Kadash](https://www.mobygames.com/game/70210/sword-of-kadash/) – release dates, platforms, publisher information
 
-[^ref-3]: [The Digital Antiquarian – Dynamix History](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) – company history, game description as "adventure/CRPG/platformer hybrid"
+[^ref-3]: [The Digital Antiquarian – Dynamix History](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) – company history, The Computer Tutor in Eugene, game description as "adventure/CRPG/platformer hybrid"
 
 [^ref-4]: [Retro365 Blog – Dynamix Before Dynamix](https://retro365.blog/2019/07/27/bits-from-my-personal-collection-dynamix-before-dynamix/) – development origin story, sales impact, contemporary reception
 
-[^ref-5]: [Retro Games Trove – Sword of Kadash](https://www.retrogamestrove.com/game-218-sword-of-kadash-1984/) – room count, level cap, armor class maximum
+[^ref-5]: [Retro Games Trove – Sword of Kadash](https://www.retrogamestrove.com/game-218-sword-of-kadash-1984/) – room count, reviewer's final level, armor class maximum, action-RPG context
 
-[^ref-6]: [CRPG Addict Blog – Sword of Kadash (1984)](http://crpgaddict.blogspot.com/2016/01/game-209-sword-of-kadash-1984.html) – detailed retrospective review, gameplay analysis, rating
+[^ref-6]: [CRPG Addict Blog – Sword of Kadash (1984)](http://crpgaddict.blogspot.com/2016/01/game-209-sword-of-kadash-1984.html) – detailed retrospective review, Chris Cole interview, gameplay analysis, rating
 
-[^ref-7]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – company catalog, platform releases
+[^ref-7]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – company catalog, platform releases, 1990 Sierra acquisition
 
-[^ref-8]: [Atarimania – Sword of Kadash](https://www.atarimania.com/game-atari-st-sword-of-kadash_11484.html) – Atari ST technical specs, rating, designer credits
+[^ref-8]: [Atarimania – Sword of Kadash](https://www.atarimania.com/games/atari-st-games-sword-of-kadash-11484) – Atari ST technical specs, rating, credits, user comment
 
-[^ref-9]: [MobyGames – Sword of Kadash (Macintosh)](https://www.mobygames.com/game/macintosh/sword-of-kadash) – game description, credits, gameplay mechanics
+[^ref-9]: [MobyGames – Sword of Kadash (Macintosh)](https://www.mobygames.com/game/macintosh/sword-of-kadash) – game description, platform release dates, gameplay mechanics, critic score
 
 [^ref-10]: [Dynamix Fandom Wiki – Sword of Kadash (enchanted sword)](https://dynamix.fandom.com/wiki/Sword_of_Kadash_(enchanted_sword)) – in-game lore, sword history
 
 [^ref-11]: [AtariCrypt Blog – Sword of Kadash Part One](https://ataricrypt.blogspot.com/2023/03/sword-of-kadash-part-one.html) – gameplay review, design philosophy, Apshai comparison
 
-[^ref-12]: [Giant Bomb – Sword of Kadash](https://www.giantbomb.com/sword-of-kadash/3030-31668/) – game description, user rating, platform information
+[^ref-12]: [Giant Bomb – Sword of Kadash](https://www.giantbomb.com/sword-of-kadash/3030-31668/) – game description, release year, platform information
 
-[^ref-13]: [UVList – Sword of Kadash](https://www.uvlist.net/game-36133-Sword+of+Kadash) – technical specifications, gameplay mechanics
+[^ref-13]: [UVList – Sword of Kadash](https://www.uvlist.net/game-36133-Sword+of+Kadash) – gameplay mechanics, cursed items
 
-[^ref-14]: [AtariCrypt Blog – Sword of Kadash Part Three](https://ataricrypt.blogspot.com/2023/03/sword-of-kadash-part-three.html) – detailed gameplay analysis, RPG elements, weapons list
+[^ref-14]: [AtariCrypt Blog – Sword of Kadash Part Three](https://ataricrypt.blogspot.com/2023/03/sword-of-kadash-part-three.html) – detailed gameplay analysis, RPG elements, weapons list, map
 
-[^ref-15]: [Atari Freenet – Game Solution](https://www.atarimax.com/freenet/freenet_material/12.AtariLibrary/2.MiscellaneousTextFiles/showarticle.php?67) – walkthrough, mapping advice
+[^ref-15]: [Atari Freenet – Game Solution](https://www.atarimax.com/freenet/freenet_material/12.AtariLibrary/2.MiscellaneousTextFiles/showarticle.php?67) – 1990 fan walkthrough by Len Stys, mapping advice
 
-[^ref-16]: [Lemon64 – Sword of Kadash](https://www.lemon64.com/game/sword-of-kadash) – user reviews and comments, technical information
+[^ref-16]: [Lemon64 – Sword of Kadash](https://www.lemon64.com/game/sword-of-kadash) – user comments, C64 credits and technical information
 
-[^ref-17]: [Atari Legend – Sword of Kadash](https://www.atarilegend.com/games/sword-of-kadash) – rating, designer credit, ST conversion credit
+[^ref-17]: [Atari Legend – Sword of Kadash](https://www.atarilegend.com/games/sword-of-kadash) – rating, ST conversion credit (Hurley), concept credit (Cole)
 
 [^ref-18]: [MyAbandonware – Sword of Kadash](https://www.myabandonware.com/game/sword-of-kadash-5dg) – user rating, platform releases, user comments
 
 [^ref-19]: [Atari Forum – Sword of Kadash Discussion](https://www.atari-forum.com/viewtopic.php?t=3867) – Kenneth Hurley developer comments on conversion time
 
-[^ref-20]: [Internet Archive – Sword of Kadash](https://archive.org/details/sword_of_kadash_s2) – Apple II preservation, technical specifications
+[^ref-20]: [Internet Archive – Sword of Kadash](https://archive.org/details/sword_of_kadash_s2) – Apple II preservation, emulator information
 
 [^ref-21]: [GameFAQs – Sword of Kadash](https://gamefaqs.gamespot.com/c64/571970-sword-of-kadash/faqs) – walkthrough availability, platform information
 
-ref-21]: [GameFAQs – Sword of Kadash](https://gamefaqs.gamespot.com/c64/571970-sword-of-kadash/faqs) – walkthrough availability, platform information
+[^ref-22]: [Virtual Apple – Sword of Kadash](http://www.virtualapple.org/swordofkadashdisk.html) – Apple II disk image, browser play
 
-[^ref-22]: [Virtual Apple – Sword of Kadash](http://www.virtualapple.org/swordofkadashdisk.html) – disk image preservation, technical specifications
+[^ref-23]: [MobyGames – Sword of Kadash Apple II Credits](https://www.mobygames.com/game/70210/sword-of-kadash/credits/apple2/) – Apple II credits: Chris Cole (design, programming), cover art "Wedemeyer '84"
+
+[^ref-24]: [MobyGames – Sword of Kadash Commodore 64 Credits](https://www.mobygames.com/game/70210/sword-of-kadash/credits/c64/) – C64 credits: Programmer Kevin Ryan
