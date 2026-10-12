@@ -10,22 +10,23 @@ series: Space Quest
 engine: 3D Engine (planned)
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
-description: Space Quest VII represents one of the most lamented casualties in Sierra
-  On-Line's history—a game that went through multiple development iterations between...
+last_updated: '2026-10-11'
+description: Space Quest VII is the cancelled seventh Space Quest game, attempted at
+  Sierra between 1997 and 1999 and again as an Escape Factory console reboot in 2002,
+  with no version ever released.
 tags: [adventure, sierra, space-quest, two-guys]
 ---
 # Space Quest VII
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-Space Quest VII represents one of the most lamented casualties in Sierra On-Line's history—a game that went through multiple development iterations between 1997 and 2002 but was never released to the public[^ref-1]. The project cycled through several working titles including "This Time It's Personal," "Return to Roman Numerals," and "Show Me the Buckazoids" as various teams attempted to bring the beloved sci-fi comedy adventure series back to life[^ref-2]. Despite the involvement of series co-creator [[Scott Murphy]] and extensive fan support, corporate pressures and the declining adventure game market ultimately doomed every iteration of the project.
+Space Quest VII represents one of the most lamented casualties in Sierra On-Line's history—a game that went through multiple development iterations between 1997 and 2002 but was never released to the public[^ref-1]. The project cycled through several working titles including "This Time It's Personal," "Return to Roman Numerals," and "Show Me the Buckazoids" as various teams attempted to bring the beloved sci-fi comedy adventure series back to life[^ref-2][^ref-6][^ref-14]. Despite the involvement of series co-creator [[Scott Murphy]] and extensive fan support, corporate pressures and the declining adventure game market ultimately doomed every iteration of the project.
 
-The cancellation of Space Quest VII left Space Quest 6: Roger Wilco in the Spinal Frontier (1995) as the unintended finale to the franchise[^ref-3]. The game had been announced for a late 1998 release date but development was paused indefinitely before the end of 1997 and formally ceased in 1999 following massive Sierra layoffs[^ref-4]. Multiple attempts to revive the project—including an Escape Factory reboot aimed at consoles—all met similar fates, leaving fans with nothing but concept art, developer interviews, and a promotional trailer that ironically joked about the game's likely cancellation[^ref-2].
+The cancellation of Space Quest VII left Space Quest 6: Roger Wilco in the Spinal Frontier (1995) as the unintended finale to the franchise and the last official game released in the series[^ref-3][^ref-4][^ref-5]. The game had been announced for a late 1998 release date but development was paused indefinitely before the end of 1997 and formally ceased in 1999 following massive Sierra layoffs[^ref-4][^ref-15]. Multiple attempts to revive the project—including an Escape Factory reboot aimed at consoles—all met similar fates, leaving fans with nothing but concept art, developer interviews, and a promotional trailer that ironically joked about the game's likely cancellation[^ref-2][^ref-12].
 
-The story of Space Quest VII's troubled development offers a window into the broader collapse of the adventure game genre in the late 1990s, as well as the corporate restructuring that dismantled Sierra's well-known development studios. When Vivendi Games acquired Sierra, the new management showed little interest in continuing projects that didn't fit their vision for profitable gaming, citing poor adventure game sales following the commercial disappointment of LucasArts' Grim Fandango[^ref-5].[^ref-14][^ref-16][^ref-17]
+The story of Space Quest VII's troubled development offers a window into the broader collapse of the adventure game genre in the late 1990s, as well as the corporate restructuring that dismantled Sierra's well-known development studios. SpaceQuest.net attributes management's doubts to Space Quest 6 having cost around five times more than Space Quest 5 without selling five times as much, and to the poor sales of the 1997 Space Quest Collection[^ref-2]. Citizendium places the cancellation in the context of Vivendi's takeover of Sierra, noting that poor sales of LucasArts' Grim Fandango led many companies to drop adventure games in favour of more popular genres[^ref-5].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -40,11 +41,11 @@ The story of Space Quest VII's troubled development offers a window into the bro
 
 ## Story Summary
 
-While Space Quest VII never reached completion, developer interviews and leaked materials reveal some planned story elements. The game was reportedly set to return Roger Wilco to the planet Polysorbate LX, a location from Space Quest 6[^ref-2]. A new character named "Dougie"—described as a slime monster who hangs out on streets—was designed by artist Richard Powell for the game[^ref-2].
+While Space Quest VII never reached completion, developer interviews and leaked materials reveal some planned story elements. A new character named "Dougie"—described by Leslie Balfour as a slime monster who hangs out with his friends on the streets of Polysorbate LX to hassle passers-by—was designed by artist Richard Powell for the game[^ref-2]. Fan sites speculated that this meant Roger might return to Polysorbate LX, the polluted planet from Space Quest 6, but this was never confirmed[^ref-2][^ref-7].
 
-One of the most surprising plot revelations came from [[Scott Murphy]] himself regarding the Escape Factory version of the project. Murphy disclosed that Sludge Vohaul, the recurring villain of the Space Quest series, was planned to be revealed as Roger Wilco's brother—specifically, a failed clone[^ref-6]. This dramatic retcon would have added significant depth to the antagonist relationship that had defined much of the series.
+One of the most surprising plot revelations came from [[Scott Murphy]] himself regarding Sierra's 1997 design, which he co-developed with [[Leslie Balfour]]. In later private correspondence, Murphy revealed that the game's "big twist" (also alluded to by Balfour in a 1997 interview) was that Sludge Vohaul, the recurring villain of the Space Quest series, was Roger Wilco's brother/failed clone—as Murphy put it, "Roger got all the good parts"[^ref-6]. Very little is known of the later Escape Factory version's plot beyond leaked documents pitting Roger against a foe known only as "the Chairman," likely Vohaul[^ref-6].
 
-The promotional trailer included with The Space Quest Collection provided the only glimpse of what might have been, showing Roger in a dramatic sequence. Notably, the trailer depicted Roger more or less "dying" in the footage, while self-referentially making fun of the fact that the game would likely be cancelled[^ref-2]. This meta-humor was characteristic of the series' irreverent tone, though in this case it proved tragically prophetic.[^ref-19]
+The promotional trailer included with the 1997 Space Quest Collection provided the only official glimpse of the project[^ref-2]. Notably, Roger more or less "dies" in the trailer, which even makes fun of the fact that the game will likely be cancelled[^ref-12]. This meta-humor was characteristic of the series' irreverent tone, though in this case it proved prophetic.
 
 ## Gameplay
 
@@ -54,23 +55,23 @@ The original Sierra development of Space Quest VII was intended to retain the tr
 
 ### Structure and Progression
 
-Space Quest VII was designed to be significantly larger in scope than its predecessors. Programmer William Shockley described the planned scale in promotional materials: "Prepare yourself for a Space Quest of gargantuan proportions! This thing is going to be so big you couldn't climb over it in a weekend! You'll see Roger like you've never seen him before, or ever want to see him again!"[^ref-2]
+Space Quest VII was designed to be significantly larger in scope than its predecessors. Programmer William Shockley described the planned scale in an interview: "Prepare yourself for a Space Quest of gargantuan proportions! This thing is going to be so big you couldn't climb over it in a weekend! You'll see Roger like you've never seen him before, or ever want to see him again!"[^ref-2]
 
 ### Puzzles and Mechanics
 
 The most controversial planned feature was multiplayer support—a first for the Space Quest series[^ref-7]. Management at Sierra pushed strongly for this addition, which [[Scott Murphy]] felt was fundamentally wrong for the franchise. Murphy later explained: "We were being pressured to make Space Quest 7 a multiplayer game, which, by its nature, it just never should have been. Therefore, the design had to be something that I didn't want it to be and I thought it sucked for the most part, to be quite honest"[^ref-7].
 
-The Escape Factory version took the multiplayer concept even further, with Murphy revealing one particularly ill-conceived idea: "We toyed with the idea of Roger being accidentally cloned at the start of the game—many times, and all with differing personalities. That way multiple players could play as different Rogers all trying to reach the same goal: to snuff all the other Rogers. God, I hate even talking about this. It sucked"[^ref-6].
+The 1997 Sierra design explored the multiplayer concept in an unusual way. Asked in 1997 which characters would be playable in multiplayer, Leslie Balfour replied that "everyone will play Roger, even in the multiplayer version," and Murphy elaborated in a 2000 interview: "We toyed with the idea of Roger being accidentally cloned at the start of the game—many times, and all with differing personalities. That way multiple players could play as different Rogers all trying to reach the same goal: to snuff all the other Rogers. God, I hate even talking about this. It sucked"[^ref-6].
 
 ## Reception
 
 ### Contemporary Reviews
 
-As Space Quest VII was never released, no contemporary reviews exist. The cancellation itself, however, generated significant coverage in gaming media and remained a topic of discussion among adventure game enthusiasts for years afterward.
+As Space Quest VII was never released, no contemporary reviews exist. The project's progress and cancellation were followed closely at the time by fan sites such as the Virtual Broomcloset and SpaceQuest.net[^ref-2][^ref-7].
 
 ### Modern Assessment
 
-The unreleased status of Space Quest VII means there are no aggregate review scores to report. However, the game's cancellation has been extensively documented by fan communities and gaming historians as a significant loss for the adventure game genre[^ref-11][^ref-12][^ref-13].
+The unreleased status of Space Quest VII means there are no aggregate review scores to report. However, the game's cancellation has been extensively documented by fan communities and databases, including the Virtual Broomcloset's retrospective on both the Sierra and Escape Factory projects[^ref-6][^ref-11][^ref-12][^ref-13].
 
 **Aggregate Scores:**
 - Not applicable (game was never released)
@@ -81,7 +82,7 @@ The unreleased status of Space Quest VII means there are no aggregate review sco
 
 Development of Space Quest VII began in early 1997, with [[Scott Murphy]]—one of the series' original co-creators—serving as director[^ref-4]. The project was officially announced with a planned release date of late 1998[^ref-2]. This timing would have placed it approximately three years after Space Quest 6, matching the typical development cycle for Sierra adventure games of that era.
 
-The game was referenced in the Space Quest 6 Hintbook, suggesting Sierra had early confidence in the project's future[^ref-2]. The development team also created and released a promotional trailer with The Space Quest Collection, though as Murphy later revealed, this teaser "had nothing to do with what Space Quest 7 was supposed to be" and was "merely eye candy for management"[^ref-6].
+The game is mentioned briefly in the Space Quest 6 Hintbook[^ref-12]. The development team also created and released a promotional trailer with The Space Quest Collection, though as Murphy later revealed, this teaser "had nothing to do with what Space Quest 7 was supposed to be" and was "merely eye candy for management"[^ref-6].
 
 ### Production
 
@@ -89,27 +90,29 @@ The original Space Quest VII development hit immediate turbulence. By December 1
 
 The official cancellation notice, co-authored by [[Leslie Balfour]] and Murphy, attempted to soften the blow for fans: "The decision has been made, after much soul-searching and agonizing, to put Space Quest 7 on hold indefinitely"[^ref-2]. They added a poignant farewell to the character: "Just think of him as weary from making us laugh for all these years, ready for a break from his adventures. He and la Wankmeister want to settle down, raise a family"[^ref-2].
 
-Murphy was laid off from Sierra on February 15, 1998, though reportedly would have been re-hired if the project restarted[^ref-7]. [[Leslie Balfour]] departed Sierra by August 7, 1998[^ref-7]. A playable demo had been in development during June-July 1997 before the cancellation[^ref-2].
+On February 15, 1998, the Virtual Broomcloset reported a leak from inside Sierra that Murphy had been laid off, though he would supposedly be re-hired if the project restarted[^ref-7]. [[Leslie Balfour]] departed Sierra by August 7, 1998[^ref-7]. A playable demo had been in development during June-July 1997 before the cancellation[^ref-2].
 
-The project saw a brief revival in January/February 1999 under the direction of Craig Alexander, who served as General Manager for the potential restart. Alexander reported cautious optimism: "It went okay, although we only spent a few minutes discussing [SQ7]. In early July, I plan to have another meeting and formerly pitch restarting the project in early 1999. The tides are definitely turning, in part because of [the fans'] support. However, there is a long road ahead of us"[^ref-2].
+Hopes of a revival rose in mid-1998. In an email reported on June 22, 1998, following a Sierra management meeting in Las Vegas, SQ7 project GM Craig Alexander wrote: "It went okay, although we only spent a few minutes discussing [SQ7]. In early July, I plan to have another meeting and formerly pitch restarting the project in early 1999. The tides are definitely turning, in part because of [the fans'] support. However, there is a long road ahead of us"[^ref-2][^ref-7]. In the Fall 1998 issue of Sierra's in-house magazine InterAction, he added: "I can guarantee that Space Quest 7 will be one of the titles on our agenda"[^ref-7]. A restart was proposed in early 1999 under the working title "Show Me the Buckazoids," but it quickly stalled[^ref-6].
 
-That road came to an abrupt end on February 22, 1999—a day that became known as "Chainsaw Monday"—when Sierra closed its Oakhurst, California facility, firing two-thirds of the employees[^ref-2]. Ken Williams, Sierra's co-founder, described the closure: "This is a sad ending to Sierra's twenty-year operating history in Oakhurst, which at one time, represented over 550 Oakhurst-based employees"[^ref-2].
+Any revival came to an abrupt end on February 22, 1999—a day that became known as "Chainsaw Monday"—when Sierra closed its Oakhurst, California facility, firing two-thirds of the employees[^ref-2]. Ken Williams, Sierra's co-founder, described the closure: "This is a sad ending to Sierra's twenty-year operating history in Oakhurst, which at one time, represented over 550 Oakhurst-based employees"[^ref-2].
 
-**Development Credits:**[^ref-2]
-- **Director:** [[Scott Murphy]]
-- **Project Head:** [[Leslie Balfour]]
-- **General Manager:** Craig Alexander
+**Development Credits:**[^ref-2][^ref-16]
+- **Designer/Writer:** [[Scott Murphy]]
+- **Co-designer/Writer:** [[Leslie Balfour]]
+- **Project GM:** Craig Alexander
 - **Project Manager:** Lori Lucia
-- **Programmer:** William Shockley
-- **Character Designer:** Richard Powell (Dougie character)
+- **Programming:** Jay Lee, William Shockley
+- **Graphics:** Mark Aro
+- **Concept Artist / Character Design:** Richard Powell (Dougie character)
+- **3D Graphics:** Tim Loucks
 
 ### Escape Factory Version
 
 Following the cancellation of Sierra's internal project, a second attempt at Space Quest VII emerged through Escape Factory, an external studio contracted by Sierra[^ref-6]. This version was radically different from the original conception—an action-platformer similar to Ratchet & Clank or Jak and Daxter rather than a traditional adventure game[^ref-6].
 
-The Escape Factory version was built using the Unreal Engine and targeted Xbox and PlayStation 2 platforms[^ref-6]. Ironically, the development team was specifically instructed by Sierra "NOT to even PLAY or LOOK AT the existing Space Quest games before working on the new game," according to [[Josh Mandel]][^ref-5]. The project was assembled from assets of a cancelled game called "Teebo & Kai"[^ref-6].
+The Escape Factory version was built using the Unreal Engine and targeted Xbox and PlayStation 2 platforms[^ref-6]. Ironically, the development team was specifically instructed by Sierra "NOT to even PLAY or LOOK AT the existing Space Quest games before working on the new game," according to [[Josh Mandel]][^ref-5]. The project was to be built, in part, from assets left over from Escape Factory's earlier cancelled game "Teebo & Kai," and, like that project, it was to feature an online cooperative mode[^ref-6].
 
-This version was also cancelled, with the project ending on December 19, 2002[^ref-6]. Sierra president Mike Ryder explained the broader context: "the adventure genre as we knew it may no longer be viable"[^ref-6].
+Earlier, in April 2002, as the reboot was getting under way, Sierra president Mike Ryder had told MCV Online that "the adventure genre as we knew it may no longer be viable," revealing that one of the company's franchises was being adapted into "an action-oriented multi-platform console title"[^ref-6]. This version was also cancelled, with Sierra ending the project on December 19, 2002[^ref-6].
 
 ### Technical Achievements
 
@@ -117,7 +120,7 @@ The original Space Quest VII was planned to introduce 3D graphics to the series 
 
 ### Technical Specifications
 
-**Planned Specifications (Sierra Version):**[^ref-7]
+**Planned Specifications (Sierra Version):**[^ref-2][^ref-7]
 - **Graphics:** 3D elements with 2D scrolling view
 - **3D Accelerator:** Not required
 - **Multiplayer:** Planned (both single-player and multiplayer modes)
@@ -133,9 +136,8 @@ The original Space Quest VII was planned to introduce 3D graphics to the series 
 The entirety of Space Quest VII must be considered cut content, as no version of the game was ever released[^ref-2]. Specific documented elements that were developed but never saw release include:
 
 - The character "Dougie," a slime monster designed by Richard Powell[^ref-2]
-- Return to planet Polysorbate LX from Space Quest 6[^ref-2]
-- Multiple Roger clones with different personalities for multiplayer[^ref-6]
-- Revelation that Sludge Vohaul was Roger's brother/failed clone[^ref-6]
+- Multiple Roger clones with different personalities for multiplayer, an idea from the 1997 Sierra design[^ref-6]
+- Revelation that Sludge Vohaul was Roger's brother/failed clone, the 1997 Sierra design's "big twist"[^ref-6]
 - Playable demo (June-July 1997)[^ref-2]
 - Promotional trailer (included with Space Quest Collection)[^ref-2]
 
@@ -146,9 +148,9 @@ The entirety of Space Quest VII must be considered cut content, as no version of
 | Sierra Internal | Early 1997 | Started | Development begins under Murphy/Balfour[^ref-2] |
 | Demo | June-July 1997 | In Progress | Playable demo in development[^ref-2] |
 | Sierra Internal | December 1997 | Cancelled | Project put "on hold indefinitely"[^ref-7] |
-| Sierra Restart | January 1999 | Attempted | Brief restart attempt[^ref-2] |
+| Sierra Restart | Early 1999 | Proposed | Restart proposed as "Show Me the Buckazoids"; quickly stalled[^ref-6] |
 | Sierra Internal | February 22, 1999 | Final Cancellation | "Chainsaw Monday" closure[^ref-2] |
-| Escape Factory | 2001-2002 | Started | Console reboot using Unreal Engine[^ref-6] |
+| Escape Factory | Early 2002 | Started | Console reboot using Unreal Engine[^ref-6] |
 | Escape Factory | December 19, 2002 | Cancelled | Final cancellation[^ref-6] |
 
 ### Technical Issues
@@ -157,9 +159,9 @@ As the game was never released, no end-user technical issues were documented. Ho
 
 ### Easter Eggs and Trivia
 
-While Space Quest VII itself never released, several notable pieces of trivia emerged from its development:[^ref-15]
+While Space Quest VII itself never released, several notable pieces of trivia emerged from its development:
 
-- The promotional trailer included with The Space Quest Collection depicted Roger "dying" and self-referentially joked about the game's likely cancellation[^ref-2]
+- The promotional trailer included with The Space Quest Collection depicted Roger "dying" and self-referentially joked about the game's likely cancellation[^ref-12]
 - The trailer "had nothing to do with what Space Quest 7 was supposed to be" according to developers—it was "merely eye candy for management"[^ref-6]
 - [[Scott Murphy]] received news of the cancellation on Christmas Eve 1997[^ref-7]
 - The Escape Factory team was prohibited from playing or studying existing Space Quest games[^ref-5]
@@ -167,17 +169,17 @@ While Space Quest VII itself never released, several notable pieces of trivia em
 
 ## Voice Cast
 
-As Space Quest VII was never completed, no voice cast was finalized. However, Gary Owens, who provided narration for Space Quest IV and Space Quest 6, would likely have reprised his role based on series continuity[^ref-3]. Owens passed away years after the originally intended release date for Space Quest VII[^ref-8].
+As Space Quest VII was never completed, no voice cast was announced or finalized. Gary Owens had narrated Space Quest IV and Space Quest 6[^ref-3].
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Space Quest VII had no direct sales impact as it was never released. However, the failure of The Space Quest Collection, which was reportedly "found in bargain bins" shortly after release, contributed to Sierra's decision not to pursue further Space Quest development[^ref-2]. The declining commercial viability of adventure games industry-wide—exemplified by the poor sales of LucasArts' acclaimed Grim Fandango—reinforced this corporate stance[^ref-5].
+Space Quest VII had no direct sales impact as it was never released. However, the failure of The Space Quest Collection, which was soon "found in software store's bargain bins for a buck or two," contributed to Sierra's decision not to pursue further Space Quest development[^ref-2]. Citizendium adds that poor sales of LucasArts' Grim Fandango led many companies to drop adventure games in favour of more popular genres[^ref-5].
 
 ### Collections
 
-The promotional trailer for Space Quest VII was included with The Space Quest Collection, representing the only official material from the project ever distributed to consumers[^ref-2].
+The promotional trailer for Space Quest VII was included with the August 1997 Space Quest Collection, whose manual also carried a promotional page giving a "late 1998" release date[^ref-2].
 
 ### Fan Projects
 
@@ -185,13 +187,13 @@ The cancellation of Space Quest VII spawned multiple fan efforts to continue Rog
 
 **Space Quest: The Lost Chapter** (2001) - A fan-made game using a text parser interface similar to Space Quest I and II, designed to fill the gap between Space Quest II and III. The game received a 2/10 rating from GameFAQs reviewer Flashman85, who described it as "unplayable at any speed" due to severe technical problems including vocabulary holes in the text parser and puzzles described as "the WORST puzzle in adventure game history"[^ref-9].
 
-**SQ7.org Fan Project** (2001-2009) - An unofficial Space Quest VII developed by fans, which was reportedly "nearing completion" before being cancelled when corporate copyright holders intervened[^ref-3]. This cease-and-desist represented another blow to fans who had hoped to see Roger Wilco's story continue.
+**SQ7.org Fan Project** (2001-2009) - An unofficial Space Quest VII developed by fans, which was reportedly "nearing completion" before being cancelled after intervention by the copyright holder, Vivendi[^ref-3][^ref-13]. This represented another blow to fans who had hoped to see Roger Wilco's story continue.
 
-**SpaceVenture** (2012-2026) - A spiritual successor created by [[Mark Crowe]] and [[Scott Murphy]] (the original "Two Guys from Andromeda") through Kickstarter, raising over $500,000 from nearly 11,000 backers[^ref-8]. The project suffered a troubled 13-year development before releasing in Early Access on April 1, 2026. Contemporary reviews were devastating, with Kotaku declaring "SpaceVenture is so very, very bad" and "This is a colossal disaster"[^ref-8].
+**SpaceVenture** (2012–2025 Early Access) - A spiritual successor created by [[Mark Crowe]] and [[Scott Murphy]] (the original "Two Guys from Andromeda") through Kickstarter, raising over $500,000 from nearly 11,000 backers[^ref-8]. The project suffered a troubled development before releasing on Steam Early Access on April 1, 2025, 13 years after the Kickstarter[^ref-8]. Kotaku's review was scathing, declaring "SpaceVenture is so very, very bad" and "This is a colossal disaster"[^ref-8].
 
 ### Related Publications
 
-- **Space Quest 6 Hintbook:** Contained references to the upcoming Space Quest VII[^ref-2]
+- **Space Quest 6 Hintbook:** Briefly mentions Space Quest 7[^ref-12]
 
 ### Critical Perspective
 
@@ -205,16 +207,15 @@ The subsequent failure of SpaceVenture—despite the involvement of the original
 
 **Purchase / Digital Stores**
 - Not available (game was never released)
-- The Space Quest Collection on Steam contains a promotional trailer for the cancelled game
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 
 **Related Content:**
-- [Steam – Space Quest Collection](https://store.steampowered.com/app/10110/Space_Quest_Collection/) – Contains promotional trailer[^ref-10]
+- [Steam – Space Quest Collection](https://store.steampowered.com/app/10110/Space_Quest_Collection/) – the released series, from The Sarien Encounter to The Spinal Frontier[^ref-10]
 
 **Fan Archives:**
-- [SpaceQuest.net – SQ7 Documentation](https://www.spacequest.net/sq7/) – Developer interviews and development history[^ref-2]
+- [SpaceQuest.net – SQ7 Documentation](https://spacequest.net/sq7/) – Developer interviews and development history[^ref-2]
 - [Wiw.org – Space Quest 7 Archive](http://www.wiw.org/~jess/sq7.html) – Concept art and timeline[^ref-6]
 
 ## See Also
@@ -228,20 +229,18 @@ The subsequent failure of SpaceVenture—despite the involvement of the original
 ## References
 
 [^ref-1]: [Sierra Chest – Space Quest 7](https://sierrachest.com/index.php?a=games&id=369&title=space-quest-7&fld=reviews) – developer, platform, unreleased status
-[^ref-2]: [SpaceQuest.net – SQ7 Documentation](https://www.spacequest.net/sq7/) – development timeline, working titles, team quotes, cancellation details, technical specifications
+[^ref-2]: [SpaceQuest.net – SQ7 Documentation](https://spacequest.net/sq7/) – development timeline, working titles, team quotes, cancellation details, technical specifications
 [^ref-3]: [GameCola – The Ten Reasons: Space Quest Collection](https://gamecola.net/2011/02/the-ten-reasons-space-quest-collection/) – SQ6 as unintended finale, fan project cancellation, Gary Owens voice work
 [^ref-4]: [Wikipedia – Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – 1997 development start, Scott Murphy as director, late 1998 announcement, formal 1999 cancellation
 [^ref-5]: [Citizendium – Space Quest](https://en.citizendium.org/wiki/Space_Quest) – 1996 planning, trailer release, Vivendi acquisition impact, Escape Factory instruction not to play existing games
-[^ref-6]: [Wiw.org – Space Quest 7 Archive](https://wiw.org/~jess/sq7.html) – Escape Factory version, Unreal Engine, console platforms, Vohaul revelation, multiple Rogers concept, December 2002 cancellation
-[^ref-7]: [Wiw.org – Old SQ7 Archive](http://www.wiw.org/~jess/old_sq7.html) – Christmas Eve cancellation quote, multiplayer pressure, Murphy layoff date, Balfour departure, 3D graphics plans
-[^ref-8]: [Kotaku – SpaceVenture Disaster](https://kotaku.com/spaceventure-space-quest-kickstarter-steam-disaster-1851774747) – SpaceVenture Kickstarter, Two Guys reunion, Gary Owens death, critical reception
+[^ref-6]: [Wiw.org – Space Quest 7 Archive](https://wiw.org/~jess/sq7.html) – Sierra 1997 design (Vohaul twist, multiple Rogers concept, 2000 Murphy interview), early-1999 restart, Escape Factory version, Unreal Engine, console platforms, April 2002 Ryder quote, December 2002 cancellation
+[^ref-7]: [Wiw.org – Old SQ7 Archive](http://www.wiw.org/~jess/old_sq7.html) – Christmas Eve cancellation quote, multiplayer pressure, Feb 1998 layoff report, June 22, 1998 Craig Alexander email, InterAction quote, Balfour departure, 3D graphics plans
+[^ref-8]: [Kotaku – SpaceVenture Disaster](https://kotaku.com/spaceventure-space-quest-kickstarter-steam-disaster-1851774747) – SpaceVenture Kickstarter, Two Guys reunion, April 1, 2025 Early Access, critical reception
 [^ref-9]: [GameFAQs – Space Quest: The Lost Chapter Review](https://gamefaqs.gamespot.com/pc/917556-space-quest-the-lost-chapter/reviews/125655) – fan game quality issues, 2/10 rating, technical problems
-[^ref-10]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110/Space_Quest_Collection/) – collection availability, promotional materials
+[^ref-10]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110/Space_Quest_Collection/) – collection availability
 [^ref-11]: [Steam Community Guide – Space Quest 7 History](https://steamcommunity.com/sharedfiles/filedetails/?id=1809699545) – development credits, corporate communications, Chainsaw Monday details
 [^ref-12]: [Space Quest Fandom Wiki – Space Quest 7](https://spacequest.fandom.com/wiki/Space_Quest_7) – multiple cancelled projects timeline, fan development attempts
 [^ref-13]: [MobyGames – Space Quest Series](https://www.mobygames.com/group/4/space-quest-series/) – 1996 announcement, unofficial SQ7 development 2001-2009, copyright holder intervention
 [^ref-14]: [Wikipedia – List of Sierra Entertainment Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – unreleased games listing, "Return to Roman Numerals" subtitle
 [^ref-15]: [Only Solitaire – Space Quest 6 Review](https://onlysolitaire.substack.com/p/game-review-space-quest-6-roger-wilco) – SQ7 production and early 1999 cancellation, Josh Mandel involvement with SQ6
 [^ref-16]: [Wiw.org – Space Quest FAQ](https://www.wiw.org/~jess/SQFAQ20.txt) – Scott Murphy collaboration with Leslie Balfour and Jay Lee
-[^ref-17]: MyAbandonware search *(link removed 2026-10-11: abandonware download listing for games still sold on GOG/Steam; claim needs re-sourcing)*
-[^ref-19]: [Nintendo Life Forums](https://www.nintendolife.com/forums/wii/wiiware_ideas1) – fan requests for SQ7 continuation, "true to its roots" sentiment
