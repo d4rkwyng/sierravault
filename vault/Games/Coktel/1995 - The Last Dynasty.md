@@ -243,7 +243,7 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 [^ref-10]: [The Collection Chamber – The Last Dynasty](https://collectionchamber.blogspot.com/2017/01/the-last-dynasty.html) – retrospective review, character analysis, file size
 [^ref-11]: [Behind The Voice Actors – The Last Dynasty](https://www.behindthevoiceactors.com/video-games/the-last-dynasty/) – English voice cast
 [^ref-17]: [Sega Saturn Shiro – The Last Dynasty](https://www.segasaturnshiro.com/2021/04/01/unreleased-last-dynasty-dumped-no-april-fools/) – Myst comparison, gameplay description
-[^ref-13]: [Old PC Gaming – The Last Dynasty](https://oldpcgaming.net/the-last-dynasty/) – space combat assessment, Wing Commander comparison
+[^ref-13]: Old PC Gaming – The Last Dynasty (link removed: site offers game downloads) – space combat assessment, Wing Commander comparison
 [^ref-14]: [GameFAQs – The Last Dynasty](https://gamefaqs.gamespot.com/pc/918466-the-last-dynasty) – user ratings, difficulty, length, similar games
 [^ref-15]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Coktel Vision acquisition, game catalog
 [^ref-16]: [IMDB – The Last Dynasty](https://www.imdb.com/title/tt5554828/) – French voice cast, designers, production country

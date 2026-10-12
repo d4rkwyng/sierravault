@@ -252,7 +252,7 @@ However, PowerHouse also demonstrates the challenges of early Windows game devel
 [^ref-3]: [Internet Archive – Edward Grabowski's Website](https://web.archive.org/web/20240527063715/http://www.edwardgrabowski.com/games.html) – release date (May 1995), developer, publisher
 [^ref-4]: [MyAbandonware – PowerHouse](https://www.myabandonware.com/game/powerhouse-ff4) – platform (Windows 3.x), user rating, file size, game description
 [^ref-5]: [Wikipedia – Powerhouse (video game)](https://en.wikipedia.org/wiki/Powerhouse_(video_game)) – designers, contemporary reviews with scores, technical specs, development notes, WinG interface, cyberpunk influences, Amiga cancellation, developer quotes
-[^ref-6]: [Old PC Gaming – PowerHouse](https://oldpcgaming.net/powerhouse/) – technical requirements, nine power types, gameplay features, Transport Tycoon comparison
+[^ref-6]: Old PC Gaming – PowerHouse (link removed: site offers game downloads) – technical requirements, nine power types, gameplay features, Transport Tycoon comparison
 [^ref-7]: [Old-Games.com – PowerHouse](https://www.old-games.com/download/5486/powerhouse) – criticism (weak AI, economic model), Detroit predecessor, file size
 [^ref-8]: [Computer Games Strategy Plus – February 1995 (Issue 51)](https://archive.org/details/computer-games-strategy-plus-issue-51-february-1995_202409/page/22/mode/2up) – Design Notes by David Lester and Chris Foster, pp. 22-23
 [^ref-9]: [GameFAQs – PowerHouse](https://gamefaqs.gamespot.com/pc/564487-powerhouse) – developer, publisher, platform, user ratings

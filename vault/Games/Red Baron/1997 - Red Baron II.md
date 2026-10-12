@@ -272,7 +272,7 @@ The game's significance extends beyond its troubled launch. It preserved the acc
 [^ref-27]: [CD Mag – Red Baron 3D Announcement (Archive.org)](https://web.archive.org/web/20030710225317/http://www.cdmag.com/articles/015/054/rb2.html) – pricing, multiplayer capacity
 [^ref-28]: [CD Mag – Red Baron 2 Review (Archive.org)](https://web.archive.org/web/20040121065923/http://www.cdmag.com/articles/009/158/red_baron_2_review.html) – system requirements, technical issues
 [^ref-29]: [Sierra Help – Red Baron Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/RedBaronSeriesUpdates.html) – patch version history
-[^ref-30]: [Old PC Gaming – Red Baron 2 Review](https://oldpcgaming.net/red-baron-2-review/) – technical criticism, cockpit issues
+[^ref-30]: Old PC Gaming – Red Baron 2 Review (link removed: site offers game downloads) – technical criticism, cockpit issues
 [^ref-31]: [Kotaku – Pizza Coupon Story](https://kotaku.com/man-uses-17-year-old-coupon-for-frozen-pizza-bundled-wi-1539878046) – pizza coupon trivia
 [^ref-32]: [Amazon – Red Baron Game Manual](https://www.amazon.com/Baron-great-planes-Game-Manual/dp/B004LD7EME) – manual specifications
 [^ref-33]: [VOGONS – Red Baron Technical Discussion](https://www.vogons.org/viewtopic.php?t=75255) – XBaron patch, fan support

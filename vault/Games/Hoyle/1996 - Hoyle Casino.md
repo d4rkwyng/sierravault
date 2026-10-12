@@ -341,7 +341,7 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 [^ref-32]: [A Secret Area – Hoyle Casino GBC](https://asecretarea.com/2014/12/18/hoyle-casino-game-boy-color/) – Pulsar Interactive developer info
 [^ref-33]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – editions list: "Hoyle Casino (1996) … Hoyle Casino (2004), Hoyle Casino 3D (2005)"
 [^ref-34]: [MobyGames – Hoyle Casino (1999)](https://www.mobygames.com/game/45137/hoyle-casino/) – Won.net online play, word games
-[^ref-35]: [Old PC Gaming – Hoyle Casino Games 4 Review](https://oldpcgaming.net/hoyle-casino-games-4-review/) – system requirements
+[^ref-35]: Old PC Gaming – Hoyle Casino Games 4 Review (link removed: site offers game downloads) – system requirements
 [^ref-36]: [Macworld – Hoyle Casino 2008](https://www.macworld.com/article/190285/casino-4.html) – Mac system requirements
 [^ref-37]: [PCGamingWiki – Hoyle Official Casino Games](https://www.pcgamingwiki.com/wiki/Hoyle_Official_Casino_Games) – 2016 technical specs
 [^ref-38]: [Sierra Chest – Hoyle Casino 1](https://www.sierrachest.com/tx8b/index.php?a=games&id=519&title=hoyle-casino-1) – October 1996 release date

@@ -225,7 +225,7 @@ Modern players can run the Windows version, though manual cue control may cause 
 [^ref-7]: [IGN PC Review](https://www.ign.com/articles/2000/09/29/maximum-pool-2) - Detailed review with physics and graphics praise
 [^ref-8]: [MobyGames Releases](https://www.mobygames.com/game/3046/maximum-pool/releases/) - Platform release information
 [^ref-9]: [SierraChest Walkthrough](https://sierrachest.com/index.php?a=games&id=573&title=maximum-pool&fld=walkthrough&pid=11) - Interface details and compatibility notes
-[^ref-10]: [Old PC Gaming Review](https://oldpcgaming.net/maximum-pool-review/) - Physics engine assessment
+[^ref-10]: Old PC Gaming Review (link removed: site offers game downloads) - Physics engine assessment
 [^ref-11]: [SierraChest Walkthrough - Menus and Preferences](https://sierrachest.com/index.php?a=games&id=573&title=maximum-pool&fld=walkthrough&pid=10) - Classic games, difficulty levels and computer opponents
 [^ref-13]: [Metacritic Dreamcast Critic Reviews](https://www.metacritic.com/game/maximum-pool/critic-reviews/?platform=dreamcast) - Dreamcast Metascore and critic quotes
 [^ref-16]: [GameSpot PC Review](https://www.gamespot.com/reviews/maximum-pool-review/1900-2618913/) - Interface criticism and cool-game rules

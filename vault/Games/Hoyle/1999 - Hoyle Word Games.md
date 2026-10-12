@@ -265,7 +265,7 @@ The game's integration of Won.net online play was forward-thinking for 1999, tho
 
 [^ref-7]: [GameSpot – Hoyle Word Games Review](https://www.gamespot.com/reviews/hoyle-word-games-review/1900-2664509/) – Contemporary review with gameplay impressions
 
-[^ref-8]: [Old PC Gaming – Hoyle Word Games Review](https://oldpcgaming.net/hoyle-word-games-review/) – Retro gaming site review, gameplay analysis
+[^ref-8]: Old PC Gaming – Hoyle Word Games Review (link removed: site offers game downloads) – Retro gaming site review, gameplay analysis
 
 [^ref-9]: [GameSpot – Sierra Adds Words to Lineup](https://www.gamespot.com/articles/sierra-adds-words-to-lineup/1100-2448581/) – Release announcement, retail price
 

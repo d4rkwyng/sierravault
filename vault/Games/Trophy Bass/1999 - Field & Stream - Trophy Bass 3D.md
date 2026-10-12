@@ -189,7 +189,7 @@ The game is not sold on modern digital stores. MyAbandonware lists it as "still 
 [^ref-2]: [GameFAQs](https://gamefaqs.gamespot.com/pc/199122-field-and-stream-trophy-bass-3d) - Official game tagline and user ratings
 [^ref-3]: [VideoGameGeek](https://videogamegeek.com/videogame/161752/field-and-stream-trophy-bass-3d) - Back-of-box product description
 [^ref-6]: [Web Archive - Strategy Plus](https://web.archive.org/web/20030709104649/http://www.cdmag.com/articles/022/116/tbass3d_review.html) - Brett Todd review, 3.5/5, modes, lakes, requirements
-[^ref-7]: [Old PC Gaming](https://oldpcgaming.net/field-stream-trophy-bass-3d/) - Retrospective
+[^ref-7]: Old PC Gaming (link removed: site offers game downloads) - Retrospective
 [^ref-10]: [MobyGames Credits](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/credits/windows/) - Full credits (202 people), bass pros, voice cast
 [^ref-12]: [Web Archive - GamePro](https://web.archive.org/web/20050409172904/http://gamepro.com/computer/pc/games/reviews/624.shtml) - Michael Lafferty review, sub-scores, modes, video manual, ESRB
 [^ref-17]: [MobyGames](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/) - Description, release date, critic average, Field & Stream licensees group

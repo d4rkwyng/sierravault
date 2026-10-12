@@ -217,7 +217,7 @@ The game is not sold digitally. GOG lists it only on its Dreamlist[^ref-20]. MyA
 ## References
 
 [^ref-1]: [Wikipedia - Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) - Series origin (Schwader concept, SCI challenges, Atesalp for the first three games); release list including Hoyle Classic Board Games (1997) and Hoyle Board Games (1998–2002)
-[^ref-2]: [Old PC Gaming](https://oldpcgaming.net/hoyle-classic-board-games-review/) - Retrospective review (reuses much of the Strategy Plus text); system requirements Win 95/98, 486/66, 8 MB RAM, 10 MB space
+[^ref-2]: Old PC Gaming (link removed: site offers game downloads) - Retrospective review (reuses much of the Strategy Plus text); system requirements Win 95/98, 486/66, 8 MB RAM, 10 MB space
 [^ref-3]: [GameSpot Review](https://www.gamespot.com/reviews/hoyle-classic-board-games-review/1900-2537738/) - Moira Muldoon, 7.5 "Good"; game list, 12 opponents, AI levels, options, rulebook
 [^ref-4]: [GameFAQs](https://gamefaqs.gamespot.com/pc/197582-hoyle-classic-board-games) - Box text (tagline, 10 games + 2 bonus card games, 12 opponents, Internet play); Sierra On-Line; released November 30, 1997
 [^ref-5]: [Never Die Media](https://www.neverdiemedia.com/products/hoyle-classic-board-games-1997) - Retail listing: Windows, CD media, 1997

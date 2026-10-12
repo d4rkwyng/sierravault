@@ -259,7 +259,7 @@ The Papyrus legacy continued to influence racing games long after the studio's c
 [^ref-3]: [Wikipedia – NASCAR Racing 2](https://en.wikipedia.org/wiki/NASCAR_Racing_2) – review scores, release date, technical details
 [^ref-4]: [Amazon – NASCAR Racing 2](https://www.amazon.com/NASCAR-Racing-2-PC/dp/B00001LCDI) – GameSpot review quotes, customer reviews, product details
 [^ref-5]: [GameFabrique – NASCAR Racing 2](https://gamefabrique.com/games/nascar-racing-2/) – detailed review, bugs, technical criticisms
-[^ref-6]: [Old PC Gaming – NASCAR Racing 2 Review](https://oldpcgaming.net/nascar-racing-2-review/) – gameplay modes, driver roster, feature analysis
+[^ref-6]: Old PC Gaming – NASCAR Racing 2 Review (link removed: site offers game downloads) – gameplay modes, driver roster, feature analysis
 [^ref-7]: [ClassicReload – NASCAR Racing 2](https://classicreload.com/dosx-nascar-2.html) – manual details, track listing, game features
 [^ref-8]: [DOS Games Archive – NASCAR Racing 2](https://www.dosgamesarchive.com/download/nascar-racing-2) – promotional description, track count
 [^ref-9]: [MyAbandonware – NASCAR Racing 2](https://www.myabandonware.com/game/nascar-racing-2-c6r) – user ratings, game overview

@@ -234,7 +234,7 @@ Despite positive reviews and a solid technical foundation, Hunter Hunted never a
 [^ref-1]: [Wikipedia – Hunter Hunted (video game)](https://en.wikipedia.org/wiki/Hunter_Hunted_(video_game)) – release date, developer, publisher, designer, composer, ratings, missions count, Earthsiege connection
 [^ref-2]: [A Games Room – Hunter Hunted](https://www.agamesroom.com/game/hh) – gameplay description, setting details
 [^ref-3]: [Internet Archive – Hunter Hunted Win EN ISO Version](https://archive.org/details/hunter-hunted-win-en-iso-version) – "third dimension of 2D" mechanic, file size
-[^ref-4]: [Old PC Gaming – Hunter Hunted](https://oldpcgaming.net/hunter-hunted/) – character descriptions, critical assessment, system requirements
+[^ref-4]: Old PC Gaming – Hunter Hunted (link removed: site offers game downloads) – character descriptions, critical assessment, system requirements
 [^ref-5]: [MobyGames – Hunter Hunted](https://www.mobygames.com/game/656/hunter-hunted/) – rating, credits, publisher details, technical specs, Tomer Gabel review
 [^ref-6]: [Amazon – Hunter Hunted](https://www.amazon.com/Hunter-Hunted/dp/B007ON5Y2A) – story setting, ESRB rating, technical specs
 [^ref-7]: [Sierra Chest – Hunter Hunted](https://www.sierrachest.com/index.php?a=games&id=183) – release date, backstory details, mission counts

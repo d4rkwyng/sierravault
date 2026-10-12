@@ -254,7 +254,7 @@ The game's influence on casino game design persists in modern software, though c
 
 [^ref-1]: [Amazon Product Page](https://www.amazon.com/Encore-Hoyle-Blackjack-Series-Download/dp/B00H8AGJ2S) - Product description and 16 game variants
 [^ref-2]: [SierraGamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) - Development history and Sierra legacy discussion
-[^ref-3]: [Old PC Gaming Review](https://oldpcgaming.net/hoyle-blackjack-review/) - Game customization features and rule options
+[^ref-3]: Old PC Gaming Review (link removed: site offers game downloads) - Game customization features and rule options
 [^ref-4]: [GameSpot Review](https://www.gamespot.com/reviews/hoyle-blackjack-review/1900-2537735/) - Professional review assessment and conclusion
 [^ref-5]: [Internet Archive](https://archive.org/details/Blackjack_201905) - Voice cast information and preservation
 [^ref-6]: [MobyGames](https://www.mobygames.com/game/45133/hoyle-blackjack/) - Credits, platform info, and multiplayer specifications

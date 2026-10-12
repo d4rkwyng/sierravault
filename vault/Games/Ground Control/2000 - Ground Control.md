@@ -272,7 +272,7 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 [^ref-23]: [Metacritic – Critic Reviews](https://www.metacritic.com/game/ground-control/critic-reviews/?platform=pc) – individual review scores, publication quotes
 [^ref-24]: [Metacritic – Ground Control](https://www.metacritic.com/game/ground-control/) – aggregate score, Computer Games Magazine quote
 [^ref-25]: [BAFTA Awards](https://www.bafta.org/awards/interactive/games-pc/) – BAFTA nomination
-[^ref-26]: [Old PC Gaming](https://oldpcgaming.net/ground-control/) – tactical analysis, AI critique, technical specs
+[^ref-26]: Old PC Gaming (link removed: site offers game downloads) – tactical analysis, AI critique, technical specs
 [^ref-27]: [MobyGames – Ground Control](https://www.mobygames.com/game/1714/ground-control/) – ratings, trivia, publishers, free release info
 [^ref-28]: [IMDB Search Results](https://www.imdb.com/find/?q=Ground+Control&s=tt) – user rating
 [^ref-29]: [GOG – Ground Control Anthology](https://www.gog.com/en/game/ground_control_expansion) – user rating, game description

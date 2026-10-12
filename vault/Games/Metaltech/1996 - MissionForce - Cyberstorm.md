@@ -161,7 +161,7 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 [^ref-2]: MyAbandonware *(download link removed: the game is sold commercially)* – "bar none" assessment
 [^ref-3]: [Amazon Strategy Guide](https://www.amazon.com/MissionForce-CyberStorm-Official-Strategy-Secrets/dp/0761508732) – Game description
 [^ref-4]: [The Obscuritory](https://obscuritory.com/strategy/missionforce-cyberstorm/) – Critical assessment
-[^ref-5]: [Old PC Gaming](https://oldpcgaming.net/missionforce-cyberstorm/) – Core gameplay mechanics
+[^ref-5]: Old PC Gaming (link removed: site offers game downloads) – Core gameplay mechanics
 [^ref-6]: [Internet Archive Demo](https://archive.org/details/MissionforceCyberstormDemo) – Marketing description
 [^ref-7]: [MobyGames](https://www.mobygames.com/game/1390/missionforce-cyberstorm/) – Credits, official description, series placement, critic average
 [^ref-8]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/MissionForce:_CyberStorm) – System requirements, release month

@@ -201,7 +201,7 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 [^ref-1]: [Leisure Suit Larry's Casino (Video Game 1998) – IMDb](https://www.imdb.com/title/tt0427453/) – Voice cast, user ratings, and release information
 [^ref-2]: [Leisure Suit Larry's Casino (1998) – MobyGames](https://www.mobygames.com/game/1707/leisure-suit-larrys-casino/) – Game overview, spinoff context, platform details, and development credits
 [^ref-3]: [Larry's Casino (1998) – Larry Laffer Dot Net](http://larrylaffer.net/exxxtras/larry-game-materials/larrys-casino-1998) – Development history including LarryLand origins, Hoyle technical foundation, WON service notes, and promotional materials
-[^ref-4]: [Leisure Suit Larry's Casino – Old PC Gaming](https://oldpcgaming.net/leisure-suit-larrys-casino/) – Feature list including all five casino games, party games, restaurants, bars, gift shop, and virtual economy details
+[^ref-4]: Leisure Suit Larry's Casino – Old PC Gaming (link removed: page offers a full-game download) – Feature list including all five casino games, party games, restaurants, bars, gift shop, and virtual economy details
 [^ref-5]: [Leisure Suit Larry's Casino – IGN](https://www.ign.com/articles/1998/09/02/leisure-suit-larrys-casino) – Contemporary review covering gameplay details, character roster, poker variants, Wheel of Fortune note, and critical reception
 [^ref-6]: [GameFAQs – Leisure Suit Larry's Casino](https://gamefaqs.gamespot.com/pc/61821-leisure-suit-larrys-casino) – Game database entry, platform information, gameplay details
 

@@ -303,7 +303,7 @@ Tragically, The Stetchkov Syndicate would prove to be the final entry in the SWA
 [^ref-19]: [GameSpot – SWAT 4 Review](https://www.gamespot.com/reviews/swat-4-review/1900-6121423/) – arrest over kill goal
 [^ref-20]: [Eurogamer – SWAT 4 Review](https://www.eurogamer.net/articles/r_swat4_pc) – "Kill Them All" quote, 8/10 score
 [^ref-21]: [MobyGames – SWAT 4: The Stetchkov Syndicate](https://www.mobygames.com/game/21450/swat-4-the-stetchkov-syndicate/) – 7.8/10 rating, Rush easter egg, GameSpy shutdown
-[^ref-22]: [Old PC Gaming – Review](https://oldpcgaming.net/swat-4-the-stetchkov-syndicate/) – new weapons, Quick Mission Maker, content assessment
+[^ref-22]: Old PC Gaming – Review (link removed: site offers game downloads) – new weapons, Quick Mission Maker, content assessment
 [^ref-23]: [IGN – SWAT 4: The Stetchkov Syndicate Review](https://www.ign.com/articles/2006/03/07/swat-4-the-stetchkov-syndicate) – 8.5 score, $19.99 price point, Tom McNamara quotes
 [^ref-24]: [GamesRadar+ – Review](https://www.gamesradar.com/swat-4-the-stetchkov-syndicate-review/) – bug fixes, taser anecdote
 [^ref-25]: [ModDB – SWAT 4: The Stetchkov Syndicate](https://www.moddb.com/games/swat-4-the-stetchkov-syndicate) – 9.2/10 community rating, user comments

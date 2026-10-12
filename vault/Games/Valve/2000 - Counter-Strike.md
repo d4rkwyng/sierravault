@@ -326,7 +326,7 @@ From a design perspective, Counter-Strike's success stemmed from its elegant sim
 [^ref-16]: [Eurogamer – Counter-Strike Development](https://www.eurogamer.net/counterstrike) – engine choice, creator interview
 [^ref-17]: [Science and Media Museum – Counter-Strike eSports](https://blog.scienceandmediamuseum.org.uk/counter-strike-esports/) – esports history, sales figures
 [^ref-18]: [Planet Half-Life Guide (Archived)](https://web.archive.org/web/20010128164500/http://www.planethalflife.com/cs/guide/overview.shtm) – map types, gameplay overview
-[^ref-19]: [Old PC Gaming – Counter-Strike Retail Review](https://oldpcgaming.net/half-life-counter-strike-retail-review/) – map count, system requirements
+[^ref-19]: Old PC Gaming – Counter-Strike Retail Review (link removed: site offers game downloads) – map count, system requirements
 [^ref-20]: [IGN – Counter-Strike Review](https://www.ign.com/articles/2000/11/23/counter-strike-2) – review score, retail package contents
 [^ref-21]: [Metacritic – Counter-Strike (Xbox)](https://www.metacritic.com/game/counter-strike/critic-reviews/?platform=xbox) – Xbox port reviews
 [^ref-23]: [GameRevolution – Counter-Strike Xbox Review](https://www.gamerevolution.com/review/34257-counter-strike-review-2) – Xbox port criticism, developer info

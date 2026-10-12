@@ -277,7 +277,7 @@ Abandonware archives and retro gaming communities continue maintaining access to
 ## References
 
 [^ref-1]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) - Series origin (concept submitted to Ken Williams by Warren Schwader); SCI card-game and AI challenges
-[^ref-2]: [Old PC Gaming](https://oldpcgaming.net/hoyle-classic-board-games-review/) - Development inspiration and retrospective review
+[^ref-2]: Old PC Gaming (link removed: site offers game downloads) - Development inspiration and retrospective review
 [^ref-3]: [GameSpot Review](https://www.gamespot.com/reviews/hoyle-classic-board-games-review/1900-2537738/) - Professional review and design philosophy assessment
 [^ref-4]: [GameFAQs](https://gamefaqs.gamespot.com/pc/197582-hoyle-classic-board-games) - Game features, marketing tagline, and multiplayer capabilities
 [^ref-5]: [Never Die Media](https://www.neverdiemedia.com/products/hoyle-classic-board-games-1997) - Interface description and game philosophy

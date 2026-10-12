@@ -256,7 +256,7 @@ Internet Archive hosts verified copies of both the DOS and Windows versions for 
 [^ref-8]: [Old Games Download](https://oldgamesdownload.com/hoyle-classic-card-games/) - Developer information
 [^ref-9]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Hoyle_Classic_Card_Games) - Platform and technical details
 [^ref-10]: [Wikipedia](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) - Development challenges and production methods
-[^ref-11]: [Old PC Gaming](https://oldpcgaming.net/hoyle-classic-card-games-review/) - Review and game descriptions
+[^ref-11]: Old PC Gaming (link removed: site offers game downloads) - Review and game descriptions
 [^ref-13]: [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) - Patch and update information
 [^ref-14]: [Giant Bomb](https://www.giantbomb.com/hoyle-classic-card-games/3030-16932/) - Character roster and ratings
 [^ref-15]: [EcoQuest Fandom](https://ecoquest.fandom.com/wiki/Hoyle_Classic_Card_Games) - Character expression details

@@ -263,7 +263,7 @@ The combination of multiple poker variants, AI opponents with distinct styles, a
 [^ref-10]: GameCopyWorld *(link removed: no-CD/crack site)* – Game variants and series information
 [^ref-11]: [MobyGames - Hoyle Poker Series](https://mobygames.com/game/hoyle-poker-series) – Single player mode description
 [^ref-13]: [MobyGames - Various Hoyle entries](https://www.mobygames.com/search/?q=Hoyle+Poker) – User score ranges
-[^ref-14]: [Old PC Gaming Review](https://oldpcgaming.net/hoyle-friday-night-poker-review/) – Modern retrospective assessment
+[^ref-14]: Old PC Gaming Review (link removed: site offers game downloads) – Modern retrospective assessment
 [^ref-15]: [GameSpot - Sierra Plans](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – Sierra's product lineup strategy
 [^ref-16]: [GameSpot - Sierra Reorganization](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) – Corporate restructuring and franchise management
 [^ref-17]: [Internet Archive - Friday Night Hoyle Poker](https://archive.org/details/friday-night-hoyle-poker_202209) – Online functionality and related games

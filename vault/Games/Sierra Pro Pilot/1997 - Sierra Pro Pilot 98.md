@@ -232,7 +232,7 @@ Compatibility with modern Windows versions is limited, requiring DOSBox or virtu
 [^ref-5]: [GameSpot Review](https://www.gamespot.com/reviews/pro-pilot-review/1900-2545909/) - Marketing claims critique
 [^ref-6]: [Wikidata](https://www.wikidata.org/wiki/Q29962139) - ESRB rating and additional metadata
 [^ref-7]: [GameSpot Pro Pilot '99 Review](https://www.gamespot.com/reviews/pro-pilot-99-review/1900-2545908/) - Comparison between versions
-[^ref-9]: [Old PC Gaming Review](https://oldpcgaming.net/pro-pilot-98-review/) - Detailed feature analysis
+[^ref-9]: Old PC Gaming Review (link removed: site offers game downloads) - Detailed feature analysis
 [^ref-10]: [MobyGames Specifications](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/specs/) - Manual size, technical details
 [^ref-11]: [GameSpot Pro Pilot '99 Review (Archive)](https://web.archive.org/web/20190609005648/https://www.gamespot.com/reviews/pro-pilot-99-review/1900-2545908/) - Educational features assessment
 [^ref-12]: [MobyGames Aircraft Details](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/) - Aircraft fleet and USGS data

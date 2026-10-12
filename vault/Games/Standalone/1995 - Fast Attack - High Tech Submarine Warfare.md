@@ -251,7 +251,7 @@ For submarine enthusiasts, Fast Attack remains a notable historical artifact, of
 [^ref-3]: [Video Game Database Wiki – Fast Attack](https://thevideogamedatabase.fandom.com/wiki/Fast_Attack:_High_Tech_Submarine_Warfare) – synopsis, gameplay description
 [^ref-4]: [SUBSIM Review – Fast Attack](https://www.subsim.com/subsim-review-fast-attack/) – detailed review, technical analysis, patch information, scores
 [^ref-5]: [Everything Allowed Wiki – Fast Attack](https://everything-allowed.fandom.com/wiki/Fast_Attack:_High_Tech_Submarine_Warfare) – credits, military consultation, technical specs
-[^ref-6]: [Old PC Gaming – Fast Attack Review](https://oldpcgaming.net/fast-attack-high-tech-submarine-warfare/) – gameplay analysis, technical requirements, critique
+[^ref-6]: Old PC Gaming – Fast Attack Review (link removed: site offers game downloads) – gameplay analysis, technical requirements, critique
 [^ref-7]: [MyAbandonware – Fast Attack](https://www.myabandonware.com/game/fast-attack-high-tech-submarine-warfare-br4) – release dates, download information, ratings
 [^ref-8]: [MobyGames – Screenshots](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/screenshots/dos/192694/) – technical resolution details
 [^ref-9]: [Reddit – Submarine Warfare Discussion](https://www.reddit.com/r/WorldOfWarships/comments/1aqeaci/the_best_way_to_fix_submarines_would_be_to_simply/) – submarine detection mechanics

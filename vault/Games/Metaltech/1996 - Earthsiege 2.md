@@ -158,7 +158,7 @@ Stability problems were also reported on period hardware. A GameFAQs reviewer wr
 [^ref-9]: [MobyGames - Earthsiege 2](https://www.mobygames.com/game/327/earthsiege-2/) – - Critics average (81%), player review quotes
 [^ref-10]: [MobyGames - Earthsiege 2 Reviews](https://www.mobygames.com/game/327/earthsiege-2/reviews/) – - Control system critique
 [^ref-14]: [Collection Chamber Blog](https://collectionchamber.blogspot.com/p/metaltech-earthsiege-ii.html) – - Mission structure analysis
-[^ref-15]: [Old PC Gaming - Earthsiege 2 Review](https://oldpcgaming.net/earthsiege-2-review/) – - Gameplay balance assessment
+[^ref-15]: Old PC Gaming - Earthsiege 2 Review (link removed: site offers game downloads) – - Gameplay balance assessment
 [^ref-16]: [MobyGames - Earthsiege 2 Reviews](https://www.mobygames.com/game/327/earthsiege-2/reviews/windows/) – - Graphics quality comparison
 [^ref-18]: [GameSpot - Earthsiege 2 Review](https://www.gamespot.com/reviews/earthsiege-2-review/1900-2535791/) – - GameSpot review score and recommendation
 [^ref-19]: [Web Archive - Computer Games Review](https://web.archive.org/web/19961221184619/http://www.nuke.com/cgr/reviews/9607/earths/earths.htm) – - 1996 review score

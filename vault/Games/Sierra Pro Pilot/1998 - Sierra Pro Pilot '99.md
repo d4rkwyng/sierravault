@@ -219,7 +219,7 @@ The Pro Pilot series ultimately failed to sustain momentum beyond 1999, leaving 
 [^ref-11]: [MobyGames – Sierra Pro Pilot 98](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/) – development credits, technical specifications, trivia
 [^ref-12]: [MobyGames – Pro Pilot 98 Specs](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/specs/) – system requirements, ratings
 [^ref-13]: [Backloggd – Sierra Pro Pilot 98](https://www.backloggd.com/games/sierra-pro-pilot-98-the-complete-flight-simulator/) – aircraft list, features
-[^ref-14]: [Old PC Gaming – Pro Pilot 98 Review](https://oldpcgaming.net/pro-pilot-98-review/) – manual criticism, system requirements
+[^ref-14]: Old PC Gaming – Pro Pilot 98 Review (link removed: site offers game downloads) – manual criticism, system requirements
 [^ref-15]: [GameSpot – Pro Pilot '99 Review (Wayback Archive)](https://web.archive.org/web/20190609005648/https://www.gamespot.com/reviews/pro-pilot-99-review/1900-2545908/) – NAFI cooperation, tutorial features
 [^ref-16]: [PC Joker Magazine (Archive.org)](https://archive.org/details/PCJoker199809/page/n89/mode/2up) – German review coverage
 [^ref-17]: [MyAbandonware – Sierra Pro Pilot 98](https://www.myabandonware.com/game/sierra-pro-pilot-98-the-complete-flight-simulator-gxy) – user ratings, patch versions

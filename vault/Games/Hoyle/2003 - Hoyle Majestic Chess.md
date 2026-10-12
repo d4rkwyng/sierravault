@@ -296,7 +296,7 @@ The game's legacy is perhaps best summarized by user reviews calling it "the bes
 [^ref-4]: [IGN – Hoyle Majestic Chess](https://www.ign.com/games/hoyle-majestic-chess) – release date, review score, game description
 [^ref-5]: [MyAbandonware – Hoyle Majestic Chess](https://www.myabandonware.com/game/hoyle-majestic-chess-dk5) – user rating, technical specs, version information, compatibility issues, user quotes
 [^ref-6]: [Chess Programming Wiki – Majestic Chess](https://www.chessprogramming.org/Majestic_Chess) – chess engine, developer background, technical features
-[^ref-7]: [Old PC Gaming – Hoyle Majestic Chess](https://oldpcgaming.net/hoyle-majestic-chess/) – adventure mode details, chapter structure, artifact system
+[^ref-7]: Old PC Gaming – Hoyle Majestic Chess (link removed: site offers game downloads) – adventure mode details, chapter structure, artifact system
 [^ref-8]: [Game Classification – Hoyle Majestic Chess](https://gameclassification.com/EN/games/29011-Hoyle-Majestic-Chess/index.html) – gameplay description, Chess Adventure mode details
 [^ref-9]: [GOG.com Dreamlist – Hoyle Majestic Chess](https://www.gog.com/dreamlist/game/hoyle-majestic-chess-2003) – publishers, user quotes, compatibility issues
 [^ref-10]: [Old Games Download – Hoyle Majestic Chess](https://oldgamesdownload.com/hoyle-majestic-chess/) – file size, installation issues, user comments
