@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI2.1
 protagonist: Princess Rosella, Queen Valanice
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-12'
 description: 'King''s Quest VII: The Princeless Bride represents a dramatic stylistic
   departure for Sierra''s flagship adventure series. Released on November 22, 1994,
   the...'
@@ -18,15 +18,15 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # King's Quest VII: The Princeless Bride
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-King's Quest VII: The Princeless Bride represents a dramatic stylistic departure for Sierra's flagship adventure series. Released on November 22, 1994, the game adopted Disney-inspired cel animation that divided longtime fans while attempting to capture a broader family audience.[^ref-1][^ref-2] The subtitle is a pun on the novel and film *The Princess Bride*, referencing Princess Rosella's imminent arranged marriage.[^ref-34]
+King's Quest VII: The Princeless Bride represents a dramatic stylistic departure for Sierra's flagship adventure series. Released on November 22, 1994, the game adopted Disney-inspired cel animation that divided longtime fans while attempting to capture a broader family audience.[^ref-1][^ref-2] The subtitle is a pun on the novel and film *The Princess Bride*; as Hardcore Gaming 101 puts it, a secondary goal is "to maybe find a groom for Rosella along the way, as the title implies."[^ref-34]
 
-Designed by [[Roberta Williams]] and [[Lorelei Shannon]], the game was developed simultaneously with Williams' horror project Phantasmagoria, making this her most intensive period at Sierra.[^ref-4] Shannon had previously written hintbooks for King's Quest and contributed to The Dagger of Amon Ra before taking primary creative control of this project.[^ref-5] As Shannon recalled: "Roberta and I sat at her kitchen table and created the game together. We created the characters and puzzles together. I wrote the dialog."[^ref-4] Sierra's copy for the 1996 enhanced re-release recalled a "stirring soundtrack featuring over 100 original compositions."[^ref-6]
+Designed by [[Roberta Williams]] and [[Lorelei Shannon]], the game was developed simultaneously with Williams' horror project Phantasmagoria, making this her most intensive period at Sierra.[^ref-4] Shannon's earlier Sierra work had mainly been writing King's Quest hintbooks, plus some writing for The Dagger of Amon Ra.[^ref-5] On King's Quest VII she co-designed the game with Williams and wrote the dialogue. As Shannon recalled: "Roberta and I sat at her kitchen table and created the game together. We created the characters and puzzles together. I wrote the dialog."[^ref-4] Sierra's copy for the 1996 enhanced re-release recalled a "stirring soundtrack featuring over 100 original compositions."[^ref-6]
 
-The game introduced several firsts for the series: two playable female protagonists (Queen Valanice and Princess Rosella), a chapter-based structure allowing players to skip ahead, and a simplified single-cursor interface that eliminated the multiple action icons of previous entries.[^ref-1][^ref-11] It was also the first King's Quest that required CD-ROM distribution exclusively, unable to fit on floppy disks.[^ref-4]
+The game introduced several firsts for the series: two playable female protagonists (Queen Valanice and Princess Rosella), a chapter-based structure allowing players to skip ahead, and a simplified single-cursor interface that eliminated the multiple action icons of previous entries.[^ref-1][^ref-11] It shipped on CD-ROM only.[^ref-4]
 
 Contemporary reviewers praised the animation quality while noting the reduced difficulty. Computer Gaming World's Charles Ardai called it "animation as good as you'd get from a middle-quality Disney feature, with voices and writing to match," while acknowledging "Sierra's quick left turn at Mass Market Street may have left some hard-core gamers in search of a challenge."[^ref-8] Coming Soon Magazine awarded it 92%, calling it "absolutely magical and without a doubt, the episode with the most magic of the saga."[^ref-29]
 
@@ -43,9 +43,9 @@ Contemporary reviewers praised the animation quality while noting the reduced di
 
 ## Story Summary
 
-Queen Valanice of Daventry has grown concerned that her daughter Rosella shows no interest in marriage, preferring adventure to courtship.[^ref-10] The animated intro depicts Rosella singing a "Disney-esque ballad about how she doesn't want to get married yet, while her mother looks on sternly."[^ref-34] While walking in the castle garden, Rosella notices a mysterious creature—a tiny flying seahorse—swimming in a pond and follows it through a whirlpool that transports both mother and daughter to the realm of Eldritch.[^ref-1][^ref-11][^ref-34]
+Queen Valanice of Daventry presses her daughter Rosella to find a prince to marry, but Rosella would rather have another adventure.[^ref-11] The animated intro depicts Rosella singing a "Disney-esque ballad about how she doesn't want to get married yet, while her mother looks on sternly."[^ref-34] Distracted by a tiny flying seahorse and a glow beneath a pond, Rosella jumps in; Valanice follows her into a whirlpool, and the two are pulled to separate parts of the realm of Eldritch.[^ref-11][^ref-34][^ref-36]
 
-The two become separated, with Rosella transformed into a troll and deposited in the Vulcanix Underground, while Valanice finds herself stranded in the desert outside a crumbling kingdom. Each must navigate their separate challenges while searching for the other.[^ref-11]
+The two become separated, with Rosella transformed into a troll and deposited in the Vulcanix Underground, while Valanice finds herself stranded in a desert. Each must navigate their separate challenges while searching for the other.[^ref-11]
 
 As the story unfolds, both protagonists discover that the evil enchantress Malicia—sister of Etheria's Queen Titania—has been banished from the fairy realm and now plots its destruction using a cataclysmic volcanic eruption.[^ref-11] Malicia has kidnapped King Otar Fenris III and hidden him in Ooga Booga Land, transforming and brainwashing Prince Edgar (from King's Quest IV) into doing her bidding.[^ref-11] The mother and daughter must reunite, defeat Malicia, and save the magical realm from annihilation.[^ref-1][^ref-11]
 
@@ -53,9 +53,9 @@ As the story unfolds, both protagonists discover that the evil enchantress Malic
 
 ### Interface and Controls
 
-King's Quest VII introduced a dramatically simplified interface that Roberta Williams also implemented in Phantasmagoria.[^ref-4] Gone were the multiple action icons of King's Quest V and VI; instead, a single "smart cursor" flashes when moved over interactive objects.[^ref-1][^ref-7] This design was intended to make the game accessible to younger players and newcomers to adventure gaming, though it reduced the puzzle complexity that series veterans expected.[^ref-8]
+King's Quest VII introduced a dramatically simplified interface that Roberta Williams also implemented in Phantasmagoria.[^ref-4] Gone were the multiple action icons of King's Quest V and VI; instead, a single "smart" pointer lights up when passed over an object that can be used.[^ref-39] This design was intended to make the game accessible to younger players and newcomers to adventure gaming, though it reduced the puzzle complexity that series veterans expected.[^ref-8]
 
-The result of this minimalist approach meant most puzzles involved finding the right item to use on hotspots rather than experimenting with different actions.[^ref-5] The simplified pointer "lights up when passed over an object that can be used," eliminating the need for players to experiment with different action icons as in previous games.[^ref-30] The 3D-rendered inventory objects could be rotated for closer examination, occasionally revealing hidden details necessary for puzzle solutions.[^ref-4]
+The result of this minimalist approach meant most puzzles involved finding the right item to use on hotspots rather than experimenting with different actions.[^ref-5] Earlier games had required players to select an action icon and then click on the environment, without indicating which parts of the scene could be used.[^ref-39] The 3D-rendered inventory objects could be rotated for closer examination, occasionally revealing hidden details necessary for puzzle solutions.[^ref-4]
 
 ### Structure and Progression
 
@@ -66,7 +66,7 @@ The game pioneered a chapter-based structure for the series, with six chapters a
 - **Chapter 3: The Sky Is Falling!** – Valanice in the cursed forest of Attis and Ceres and the village of Falderal
 - **Chapter 4: Will the Real Troll King Please Stand Up?** – Rosella in Ooga Booga Land
 - **Chapter 5: Nightmare in Etheria** – Valanice in Ooga Booga and the cloud realm of Etheria
-- **Chapter 6: Ready, Set... BOOM!** – Rosella, cast into the volcano, and Valanice converge for the finale against Malicia
+- **Chapter 6: Ready, Set... BOOM!** – Rosella, sent by Malicia into the volcano's interior, escapes, and Valanice arrives for the finale against Malicia[^ref-36]
 
 Players could start any chapter directly from the menu, treating each as a self-contained mini-game.[^ref-4] This episodic structure prefigured modern episodic adventure games, allowing players to skip ahead if stuck on a particular puzzle.[^ref-36] Many chapters are not in linear order and are often simultaneous—for example, when Rosella reaches Falderal in Chapter 4, Valanice had already helped the town and left for Ooga Booga in Chapter 5.[^ref-2]
 
@@ -82,14 +82,13 @@ The game received generally positive reviews, with critics praising the animatio
 
 | Publication | Score | Reviewer | Date |
 |-------------|-------|----------|------|
-| Pelit (Windows) | 93% | — | 1995 |
-| Coming Soon Magazine (DOS) | 92% | — | Dec 1994 |
-| PC Games Germany (DOS) | 88% | — | 1995 |
-| Computer Gaming World | 80% | Charles Ardai | Feb 1995 |
-| Adventure Gamers | 70% | — | — |
+| Coming Soon Magazine | 92% | — | Dec 1994 |
+| MikroBitti | 92% | — | — |
+| Computer Gaming World | 4/5 | Charles Ardai | Feb 1995 |
+| Adventure Gamers | 3.5/5 stars | Josh Roberts | Sept 5, 2003 |
 | Jeuxvideo.com | 80% (16/20) | Knuckles42 | 2010 |
 
-[^ref-1][^ref-8][^ref-29][^ref-35]
+[^ref-8][^ref-11][^ref-29][^ref-35][^ref-40]
 
 Coming Soon Magazine's detailed breakdown gave the game high marks across the board: Graphics 91%, Sound 92%, Music 95%, Gameplay 90%, Interest 94%.[^ref-29] The review noted that Sierra "generously used the talents of more than 120 artists to create the most dignified cartoon animations" and praised the "more than 100 original musical compositions."[^ref-29]
 
@@ -103,8 +102,7 @@ French gaming site Jeuxvideo.com rated it 16/20 in their retrospective review, p
 
 **Aggregate Scores:**
 - **MobyGames:** 7.3/10 (Moby Score), 79% (23 critic reviews)[^ref-1]
-- **GameSpot:** 7.7/10 (user average)[^ref-15]
-- **Glitchwave:** 3.21/5.0 (#98 for 1994)[^ref-16]
+- **Glitchwave:** 3.23/5.0 from 45 ratings (#89 for 1994, October 2026)[^ref-16]
 - **GOG.com:** 3.9/5 (79 reviews, October 2026)[^ref-17]
 
 ## Development
@@ -113,7 +111,7 @@ French gaming site Jeuxvideo.com rated it 16/20 in their retrospective review, p
 
 Following the success of King's Quest VI, Roberta Williams wanted to take the series in a fresh direction while also developing her passion project Phantasmagoria.[^ref-4] Ken Williams was pushing Sierra into two completely different new directions—FMV (full-motion video) for Phantasmagoria, and Disney-style cartoon animation inspired by the success of Day of the Tentacle.[^ref-5] Williams was always inspired by Disney films and wanted the next King's Quest to capture that magic—with multimedia technology becoming standard, movie-quality animation could finally be achieved in games.[^ref-31]
 
-Williams envisioned King's Quest VII as a Disney-style animated adventure that would appeal to families and newcomers. She recruited co-designer Lorelei Shannon, who had previously written the hint book for the King's Quest I remake and co-designed Pepper's Adventures in Time with Jane Jensen.[^ref-4] Working out of Sierra's new Bellevue offices, Williams and Shannon created the story and characters together, employing "no idea was too wild to consider" in their approach.[^ref-31] As Shannon recalled: "Roberta and I sat at her kitchen table and created the game together. We created the characters and puzzles together. I wrote the dialog."[^ref-4]
+Williams envisioned King's Quest VII as a Disney-style animated adventure that would appeal to families and newcomers. She recruited co-designer Lorelei Shannon, who had previously written the hint book for the King's Quest I remake and co-designed Pepper's Adventures in Time with Jane Jensen.[^ref-4] Working out of Sierra's new Bellevue offices, Williams and Shannon created the story and characters together, employing "no idea was too wild to consider" in their approach.[^ref-31]
 
 ### Production
 
@@ -126,7 +124,7 @@ Four external animation studios were contracted:[^ref-4]
 - **LA West Film Production** (Croatia) – Chapters 4 and 6
 - **Animotion** (New York, USA) – Opening and closing cinematics
 
-IMDb's full credits list 129 people in the Animation Department across all studios.[^ref-18] According to MobyGames trivia, the animations were done by some of the same people who worked on the infamous CD-i games.[^ref-2] Animation was produced using traditional hand-drawn techniques—frames were first drawn on paper, then scanned into computers for digital touch-up and coloring.[^ref-31]
+IMDb's full credits list 129 people in the Animation Department across all studios.[^ref-18] Animation was produced using traditional hand-drawn techniques—frames were first drawn on paper, then scanned into computers for digital touch-up and coloring.[^ref-31]
 
 Producer Mark Seibert recalled the coordination challenges: "I recall going to work on a Monday morning one week and not going back home until Thursday afternoon—I think the team started a pool on when I might fall asleep at my desk."[^ref-32] He described working "many 70- to 100-hour weeks during 'crunch' time" as the team coordinated with multiple animation studios to maintain visual consistency.[^ref-32]
 
@@ -143,7 +141,7 @@ Producer Mark Seibert recalled the coordination challenges: "I recall going to w
 
 ### Technical Achievements
 
-King's Quest VII was the first in the series to feature VESA graphics with a native resolution of 640×480 pixels.[^ref-9][^ref-19] The SCI2.1 engine (also known as SCI-32) was the new multimedia-friendly 32-bit version of Sierra's interpreter, designed to run on both DOS and Windows.[^ref-30] The engine used RBT files for DOS cutscenes and AVI movies for the Windows interpreter.[^ref-9]
+King's Quest VII was the first in the series to feature VESA graphics with a native resolution of 640×480 pixels.[^ref-9][^ref-19] The SCI2.1 engine (also known as SCI-32) was the new multimedia-friendly 32-bit version of Sierra's interpreter.[^ref-39] The engine used RBT files for DOS cutscenes and AVI movies for the Windows interpreter.[^ref-9]
 
 Another innovation was the 3D-rendered inventory system. All inventory objects were modeled in three dimensions and could be rotated by the player, occasionally revealing hidden details necessary for puzzle solutions.[^ref-31]
 
@@ -153,7 +151,7 @@ The Disney-inspired intro features characters with only three fingers and a thum
 - **Resolution:** 640×480 SVGA (VESA graphics)
 - **Colors:** 256
 - **Audio:** Roland Sound Canvas (recommended), General MIDI, SoundBlaster
-- **Media:** CD-ROM only (first King's Quest that could not fit on floppy disks)
+- **Media:** CD-ROM only[^ref-4]
 - **ScummVM Support:** Since version 2.0.0[^ref-19]
 
 **Minimum Requirements (1994):**[^ref-29][^ref-30]
@@ -167,12 +165,12 @@ The Disney-inspired intro features characters with only three fingers and a thum
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.4 | November 1994 (SCI Wiki interpreter date 1994/11/17) | Windows (per Sierra Chest) | Original release; Graham in credits[^ref-2][^ref-9][^ref-30] |
-| 1.51 | November 25, 1994 | Windows | Graham removed from credits[^ref-9] |
-| 2.00 | August 23, 1995 | DOS/Windows | Spanish version; save anywhere feature[^ref-9] |
-| 2.00b | October 20, 1995 | DOS/Windows | Bug fixes, speed improvements[^ref-9][^ref-21] |
+| 1.4 | November 1994 (SCI Wiki interpreter date 1994/11/17)[^ref-9] | Windows 3.1 per Sierra Fandom and Sierra Chest; MS-DOS only per The Cutting Room Floor[^ref-2][^ref-21][^ref-30] | Original release; credits list Graham (Denny Delk); saving only on quit[^ref-2][^ref-21] |
+| 1.51 | SCI Wiki date 1994/11/25[^ref-9] | Windows 3.1[^ref-2][^ref-9] | Graham removed from credits[^ref-2] |
+| 2.00 | SCI Wiki dates the Spanish 2.00 builds 1995/08/23; Wikipedia lists a 1995 US release; Sierra's own copy calls it "a new version of King's Quest VII for 1996"; The Cutting Room Floor calls it a 1997 re-release[^ref-6][^ref-9][^ref-11][^ref-21] | DOS and Windows (Windows 95 support)[^ref-6][^ref-21] | Save/load at any time via a new menu; crystal-dragon tail death removed; adjustable walking speed[^ref-2][^ref-21] |
+| 2.00b | SCI Wiki date 1995/10/20; The Cutting Room Floor calls it a 2010 update included only in the King's Quest Bundle[^ref-9][^ref-21] | DOS and Windows[^ref-9] | Per The Cutting Room Floor, fixes the firecracker timing bug in the Windows interpreter[^ref-21] |
 
-Sources disagree on release dates (November 22 per Wikipedia, November 23 per Sierra Fandom and The Cutting Room Floor) and on platforms: Sierra Chest describes 1.4 and 1.51 as Windows-only, with a DOS interpreter arriving in 2.00b.[^ref-11][^ref-2][^ref-21][^ref-30]
+Sources disagree on release dates (November 22 per Wikipedia, November 23 per Sierra Fandom and The Cutting Room Floor), on the platform of the first release, and on when 2.0 and 2.0b appeared: Sierra Chest describes 1.4 and 1.51 as Windows-only, with a DOS interpreter arriving in 2.00b, while The Cutting Room Floor describes 1.4 as an MS-DOS release.[^ref-11][^ref-2][^ref-21][^ref-30]
 
 **SCI Interpreter Versions:**[^ref-9]
 
@@ -181,7 +179,7 @@ Sources disagree on release dates (November 22 per Wikipedia, November 23 per Si
 | 1.4 | 2.100.002 | SCI2.1 | Original release |
 | 1.51 | 2.100.002 | SCI2.1 | Windows-only release |
 | 2.00 | 2.100.002 | SCI2.1 | Spanish version |
-| 2.00b | 2.100.002 | SCI2.1 | Final bug fix version |
+| 2.00b | 2.100.002 | SCI2.1 | DOS and Windows builds |
 
 ### Technical Issues
 
@@ -196,7 +194,7 @@ The original release was notoriously buggy due to a rushed Christmas deadline:[^
 - Lockup when interacting with the headless horseman or bogeyman
 - Lockup in Malicia's house
 
-**Firecracker Bug:** The timer for Valanice's firecracker sequence was tied to CPU speed, causing instant explosion on faster computers. This made the puzzle essentially unwinnable on modern hardware without patches.[^ref-10][^ref-22] The Sierra Chest recommends playing the game through DOSBox to avoid this and other speed-related issues.[^ref-30]
+**Firecracker Bug:** The fuse on the lit firecracker Valanice carries in Ooga Booga is tied to CPU speed, so on faster computers it can explode almost as soon as she picks it up.[^ref-10][^ref-21][^ref-30] According to The Cutting Room Floor, this bug was introduced in version 2.0, which made reaching Count Tsepish's tomb "extremely difficult if not impossible," and was fixed in the 2.0b Windows interpreter; Sierra Fandom instead says 2.0 modified the firecracker death to make it easier to get through.[^ref-21][^ref-2] The Sierra Chest recommends playing the game through DOSBox to avoid this and other speed-related issues.[^ref-30]
 
 ### Cut Content
 
@@ -239,11 +237,11 @@ Voice direction by Lorelei Shannon.[^ref-25] The game features 22 voice actors p
 
 ### Sales and Commercial Impact
 
-Deals with computer manufacturers such as Compaq shipped King's Quest VII with many new multimedia computers to show off CD-ROM drives and sound cards; much like Cyan's Myst, this put the game in front of people who would not otherwise have found it.[^ref-31] Sales figures indicate 300,000–400,000 US units sold by November 2000, contributing to the King's Quest series' total of over 3.8 million copies.[^ref-11]
+Deals with computer manufacturers such as Compaq shipped King's Quest VII with many new multimedia computers to show off CD-ROM drives and sound cards; much like Cyan's Myst, this put the game in front of people who would not otherwise have found it.[^ref-31] According to Sierra On-Line, combined sales of the King's Quest series passed 3.8 million units by the end of March 1996; separately, PC Data reported in November 2000 that King's Quest VII's US sales alone had reached 300,000–400,000 units.[^ref-11]
 
 ### Speedrunning
 
-The game maintains an active speedrunning community. The current world record for "All Chapters" is 48 minutes 27 seconds, set by AdmiralJay.[^ref-26] The speedrun.com leaderboard tracks 70 runs by 15 players.[^ref-26]
+The game maintains an active speedrunning community. The current world record for "All Chapters" is 48 minutes 27 seconds, set by AdmiralJay on July 8, 2022.[^ref-26] As of October 2026, speedrun.com lists 71 verified runs by 16 players across all categories.[^ref-26]
 
 ### Collections
 
@@ -257,7 +255,7 @@ The game has appeared in numerous compilations:[^ref-1]
 
 ### Critical Perspective
 
-King's Quest VII remains a polarizing entry in the series. Its Disney-inspired approach succeeded in reaching a broader audience but alienated some longtime fans who felt the simplified interface and reduced difficulty betrayed the series' adventure gaming roots.[^ref-8] To make Christmas 1994, Sierra cut beta testing short, and the first release was so buggy that it could not be finished without the patches that followed.[^ref-20] Gaming historian Jimmy Maher of The Digital Antiquarian noted that King's Quest VII arrived during a period when Sierra was "mortgaging their present against their future" with ambitious multimedia projects.[^ref-38]
+King's Quest VII remains a polarizing entry in the series. Its Disney-inspired approach succeeded in reaching a broader audience but alienated some longtime fans who felt the simplified interface and reduced difficulty betrayed the series' adventure gaming roots.[^ref-8] To make Christmas 1994, Sierra cut beta testing short, and the first release was so buggy that it could not be finished without the patches that followed.[^ref-20] Writing about Sierra's heavy spending and losses in 1992 and 1993, Jimmy Maher of The Digital Antiquarian concluded that "Ken Williams was now mortgaging Sierra's present against its future."[^ref-38]
 
 Roberta Williams addressed the mixed reception in an interview: "I never take any reviews or opinions of game players lightly. If I did, I would have been gone long ago!... With 'King's Quest VII,' I've seen everything from horrible reviews to the most glowing reviews I've ever received."[^ref-2]
 
@@ -266,8 +264,6 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 **Purchase / Digital Stores**
 - [GOG – King's Quest 7+8](https://www.gog.com/en/game/kings_quest_7_8)
 - [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/)
-
-**Download / Preservation**
 
 **Patches**
 - [Official King's Quest VII Patch](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/KingsQuestUpdates.html) – For versions 1.4 and 1.51[^ref-22]
@@ -286,36 +282,34 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 
 ## References
 
-[^ref-1]: [MobyGames – King's Quest VII](https://www.mobygames.com/game/135/roberta-williams-kings-quest-vii-the-princeless-bride/) – – ratings, credits, trivia, platforms, reviews
-[^ref-2]: [Sierra Fandom Wiki – King's Quest VII](https://sierra.fandom.com/wiki/King%27s_Quest_VII:_The_Princeless_Bride) – – version differences, credits, reception, Roberta Williams interview
-[^ref-3]: [LaunchBox Games Database – King's Quest VII](https://gamesdb.launchbox-app.com/games/details/80774-kings-quest-vii-the-princeless-bride) – – title pun on The Princess Bride
-[^ref-4]: [King's Quest Omnipedia – KQ7 Development](https://kingsquest.fandom.com/wiki/KQ7_development) – – Pixar attempt, animation studios, kitchen table design, cut content
-[^ref-5]: [Only Solitaire – King's Quest VII Review](https://onlysolitaire.substack.com/p/game-review-kings-quest-vii-the-princeless) – – 2021 retrospective, Lorelei Shannon's role, detailed analysis
+[^ref-1]: [MobyGames – King's Quest VII](https://www.mobygames.com/game/135/roberta-williams-kings-quest-vii-the-princeless-bride/) – ratings, credits, trivia, platforms, reviews
+[^ref-2]: [Sierra Fandom Wiki – King's Quest VII](https://sierra.fandom.com/wiki/King%27s_Quest_VII:_The_Princeless_Bride) – version differences, credits, reception, Roberta Williams interview
+[^ref-4]: [King's Quest Omnipedia – KQ7 Development](https://kingsquest.fandom.com/wiki/KQ7_development) – Pixar attempt, animation studios, kitchen table design, cut content
+[^ref-5]: [Only Solitaire – King's Quest VII Review](https://onlysolitaire.substack.com/p/game-review-kings-quest-vii-the-princeless) – 2021 retrospective, Lorelei Shannon's role, detailed analysis
 [^ref-6]: [King's Quest Omnipedia – Enhanced Version](https://kingsquest.fandom.com/wiki/King%27s_Quest_VII:_The_Princeless_Bride_%28Enhanced_Version%29) – 100+ compositions, 1996 enhanced re-release
-[^ref-7]: [PCGamingWiki – King's Quest VII](https://www.pcgamingwiki.com/wiki/King%27s_Quest_VII:_The_Princeless_Bride) – – interface, platform details
-[^ref-8]: [Computer Gaming World #127 (February 1995)](https://archive.org/download/Computer_Gaming_World_Issue_127/Computer_Gaming_World_Issue_127_djvu.txt) – – Charles Ardai review, 80%, "middle-quality Disney" quote
-[^ref-9]: [SCI Wiki – King's Quest VII](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_VII:_The_Princeless_Bride) – – interpreter versions 2.100.002, technical specifications
-[^ref-10]: [All The Tropes – King's Quest VII](https://allthetropes.org/wiki/King%27s_Quest_VII) – – impossible to lose, firecracker CPU bug, tropes analysis
-[^ref-11]: [Wikipedia – King's Quest VII](https://en.wikipedia.org/wiki/King%27s_Quest_VII) – – plot summary, sales figures
-[^ref-13]: [StrategyWiki – King's Quest VII](https://strategywiki.org/wiki/King%27s_Quest_VII:_The_Princeless_Bride) – – chapter breakdown
-[^ref-15]: [GameSpot – King's Quest VII](https://www.gamespot.com/games/kings-quest-vii-the-princeless-bride/) – – user rating 7.7
-[^ref-16]: [Glitchwave – King's Quest VII](https://glitchwave.com/game/kings-quest-vii-the-princeless-bride/) – – 3.21/5.0 rating, #98 for 1994
-[^ref-17]: [GOG.com – King's Quest 7+8](https://www.gog.com/en/game/kings_quest_7_8) – – 3.9/5 rating (79 reviews, October 2026)
-[^ref-18]: [IMDb – King's Quest VII full credits](https://www.imdb.com/title/tt0110267/fullcredits) – – Animation Department (129), full production credits
-[^ref-19]: [ScummVM Wiki – King's Quest VII](https://wiki.scummvm.org/index.php?title=King%27s_Quest_VII) – – 640×480 resolution, 256 colors
-[^ref-20]: [MobyGames Trivia – King's Quest VII](https://www.mobygames.com/game/135/roberta-williams-kings-quest-vii-the-princeless-bride/trivia/) – – Disney-style 3 fingers, Graham cut, alternate titles
-[^ref-21]: [The Cutting Room Floor – King's Quest VII](https://tcrf.net/King%27s_Quest_VII:_The_Princeless_Bride) – – version differences, debug mode, cut content, unused content
-[^ref-22]: [Sierra Help – King's Quest Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/KingsQuestUpdates.html) – – official patches, bug fixes list
-[^ref-23]: [Sierra Help – Easter Eggs](https://sierrahelp.com/Misc/EasterEggs/KQEasterEggs.html) – – hidden references, secrets
-[^ref-24]: [King's Quest Omnipedia – Easter Eggs](https://kingsquest.fandom.com/wiki/Easter_egg) – – Two Guys Glasses, Gregor Samsa, Moose, Silence of the Lambs, Monty Python
-[^ref-25]: [Behind The Voice Actors – King's Quest VII](https://www.behindthevoiceactors.com/video-games/Kings-Quest-VII-The-Princeless-Bride/) – – 22 actors, 63 characters, voice cast
-[^ref-26]: [Speedrun.com – King's Quest VII](https://www.speedrun.com/kings_quest_vii_the_princeless_bride) – – world record 48m 27s by AdmiralJay, 70 runs, 15 players
-[^ref-27]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – – 2006 collection release
-[^ref-29]: [Coming Soon Magazine – King's Quest VII Review](http://www.csoon.com/issue2/KQVII.HTM) – – contemporary review awarding 92%, detailed breakdown of scores, technical specifications
-[^ref-31]: [Geocities – King's Quest VII Development History](http://www.geocities.ws/petter_holmberg/kq7dev.html) – – detailed development timeline, animation studios, traditional hand-drawn techniques, 3D inventory innovation
-[^ref-32]: [Film Stories – Epic History of King's Quest](https://filmstories.co.uk/features/once-upon-a-time-the-epic-history-of-kings-quest/) – – Mark Seibert interviews on crunch time, coordination with animation studios
-[^ref-34]: [Hardcore Gaming 101 – King's Quest VII](http://www.hardcoregaming101.net/kings-quest-vii-the-princeless-bride/) – – retrospective analysis, last "true" King's Quest, pacing criticism
-[^ref-35]: [Jeuxvideo.com – King's Quest VII Review](http://www.jeuxvideo.com/articles/0001/00012191-king-s-quest-vii-the-princeless-bride-test.htm) – – French retrospective review 16/20, "interactive cartoon" assessment
-[^ref-36]: [Gaming After 40 – King's Quest VII](http://gamingafter40.blogspot.com/2011/04/adventure-of-week-kings-quest-vii.html) – – detailed playthrough analysis, chapter structure, interface changes
-[^ref-30]: [Sierra Chest – King's Quest VII Tech Support](https://www.sierrachest.com/index.php?a=games&id=7&fld=tech) – – DOSBox compatibility recommendations, firecracker bug workaround
-[^ref-38]: [The Digital Antiquarian – The Mortgaging of Sierra Online](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – – Sierra's financial pressures during multimedia era, corporate changes
+[^ref-8]: [Computer Gaming World #127 (February 1995)](https://archive.org/download/Computer_Gaming_World_Issue_127/Computer_Gaming_World_Issue_127_djvu.txt) – Charles Ardai review, 80%, "middle-quality Disney" quote
+[^ref-9]: [SCI Wiki – King's Quest VII](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_VII:_The_Princeless_Bride) – interpreter versions 2.100.002, technical specifications
+[^ref-10]: [All The Tropes – King's Quest VII](https://allthetropes.org/wiki/King%27s_Quest_VII) – impossible to lose, firecracker CPU bug, tropes analysis
+[^ref-11]: [Wikipedia – King's Quest VII](https://en.wikipedia.org/wiki/King%27s_Quest_VII) – plot summary, sales figures
+[^ref-16]: [Glitchwave – King's Quest VII](https://glitchwave.com/game/kings-quest-vii-the-princeless-bride/) – 3.23/5.0 from 45 ratings, #89 for 1994 (October 2026)
+[^ref-17]: [GOG.com – King's Quest 7+8](https://www.gog.com/en/game/kings_quest_7_8) – 3.9/5 rating (79 reviews, October 2026)
+[^ref-18]: [IMDb – King's Quest VII full credits](https://www.imdb.com/title/tt0110267/fullcredits) – Animation Department (129), full production credits
+[^ref-19]: [ScummVM Wiki – King's Quest VII](https://wiki.scummvm.org/index.php?title=King%27s_Quest_VII) – 640×480 resolution, 256 colors
+[^ref-20]: [MobyGames Trivia – King's Quest VII](https://www.mobygames.com/game/135/roberta-williams-kings-quest-vii-the-princeless-bride/trivia/) – Disney-style 3 fingers, Graham cut, alternate titles
+[^ref-21]: [The Cutting Room Floor – King's Quest VII](https://tcrf.net/King%27s_Quest_VII:_The_Princeless_Bride) – version differences, debug mode, cut content, unused content
+[^ref-22]: [Sierra Help – King's Quest Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/KingsQuestUpdates.html) – official patches, bug fixes list
+[^ref-23]: [Sierra Help – Easter Eggs](https://sierrahelp.com/Misc/EasterEggs/KQEasterEggs.html) – hidden references, secrets
+[^ref-24]: [King's Quest Omnipedia – Easter Eggs](https://kingsquest.fandom.com/wiki/Easter_egg) – Two Guys Glasses, Gregor Samsa, Moose, Silence of the Lambs, Monty Python
+[^ref-25]: [Behind The Voice Actors – King's Quest VII](https://www.behindthevoiceactors.com/video-games/Kings-Quest-VII-The-Princeless-Bride/) – 22 actors, 63 characters, voice cast
+[^ref-26]: [Speedrun.com – King's Quest VII](https://www.speedrun.com/kings_quest_vii_the_princeless_bride) – All Chapters world record 48m 27s by AdmiralJay (2022-07-08); 71 verified runs by 16 players (October 2026)
+[^ref-27]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – 2006 collection release
+[^ref-29]: [Coming Soon Magazine – King's Quest VII Review (Wayback Machine copy)](https://web.archive.org/web/20041217144259/http://csoon.com:80/issue2/KQVII.HTM) – December 1994 review awarding 92%, score breakdown, system requirements
+[^ref-30]: [Sierra Chest – King's Quest VII Tech Support](https://www.sierrachest.com/index.php?a=games&id=7&fld=tech) – DOSBox compatibility recommendations, firecracker bug workaround
+[^ref-31]: [Geocities – King's Quest VII Development History](http://www.geocities.ws/petter_holmberg/kq7dev.html) – detailed development timeline, animation studios, traditional hand-drawn techniques, 3D inventory innovation
+[^ref-32]: [Film Stories – Epic History of King's Quest](https://filmstories.co.uk/features/once-upon-a-time-the-epic-history-of-kings-quest/) – Mark Seibert interviews on crunch time, coordination with animation studios
+[^ref-34]: [Hardcore Gaming 101 – King's Quest VII](http://www.hardcoregaming101.net/kings-quest-vii-the-princeless-bride/) – retrospective analysis, last "true" King's Quest, pacing criticism
+[^ref-35]: [Jeuxvideo.com – King's Quest VII Review](http://www.jeuxvideo.com/articles/0001/00012191-king-s-quest-vii-the-princeless-bride-test.htm) – French retrospective review 16/20, "interactive cartoon" assessment
+[^ref-36]: [Gaming After 40 – King's Quest VII](http://gamingafter40.blogspot.com/2011/04/adventure-of-week-kings-quest-vii.html) – detailed playthrough analysis, chapter structure, interface changes
+[^ref-38]: [The Digital Antiquarian – The Mortgaging of Sierra Online](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – Sierra's financial pressures during multimedia era, corporate changes
+[^ref-39]: [Sierra Chest – King's Quest VII General](https://www.sierrachest.com/index.php?a=games&id=7&fld=general) – 32-bit SCI-32 interpreter, 640×480 SVGA, "smart" pointer
+[^ref-40]: [Adventure Gamers – King's Quest VII review (Wayback Machine copy)](https://web.archive.org/web/20120630123628/http://www.adventuregamers.com/articles/view/17624) – Josh Roberts, September 5, 2003, 3.5/5 stars
