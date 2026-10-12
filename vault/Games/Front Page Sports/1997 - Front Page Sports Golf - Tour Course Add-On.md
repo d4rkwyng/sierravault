@@ -1,239 +1,109 @@
 ---
-title: Front Page Sports Golf Tour Course Add On
+title: 'Front Page Sports: Golf – Add-on Courses'
 release_year: 1997
 developer: Headgate Studios Inc.
-designer: [Vance Cook]
 publisher: Sierra On-Line
 genre: Sports
 platforms: [Microsoft Windows]
 series: Front Page Sports
-engine: Headgate Golf Engine
-protagonist: Golfer (player-created)
+protagonist: null
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-composer: [Charles Barth]
-description: 'Front Page Sports Golf Tour Course Add On was a series of expansion
-  packs released for Front Page Sports: Golf, Sierra On-Line''s ambitious golf simulation...'
-tags: [1990s, front-page-sports, sierra]
+last_updated: '2026-10-12'
+description: 'Three separate 18-hole course disks for Front Page Sports: Golf (Coeur d''Alene, Black Diamond Ranch and Pasatiempo), developed by Headgate Studios and published by Sierra On-Line in 1997, plus the free Sahalee download of 1998.'
+tags: [1990s, front-page-sports, sierra, golf, add-on]
 ---
-# Front Page Sports Golf Tour Course Add On
+# Front Page Sports: Golf – Add-on Courses
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Front Page Sports Golf Tour Course Add On was a series of expansion packs released for Front Page Sports: Golf, Sierra On-Line's ambitious golf simulation that launched on May 16, 1997 for Microsoft Windows[^ref-1]. The add-on courses extended the base game's content by providing additional meticulously recreated real-world golf courses, allowing players to experience new challenges within the acclaimed TrueSwing golf engine[^ref-1]. The base game itself represented Sierra's answer to the dominant Links franchise, and was developed by Headgate Studios Inc. under the leadership of Vance Cook, who had previously served as director and lead programmer for Links and Links 386 Pro[^ref-2][^ref-11][^ref-12].
+The Front Page Sports: Golf add-on courses are three separate 18-hole course disks for Sierra On-Line's 1997 golf simulation [[1997 - Front Page Sports - Golf|Front Page Sports: Golf]]: Coeur d'Alene, Black Diamond Ranch and Pasatiempo Golf Club[^ref-18][^ref-19][^ref-20][^ref-25]. Each is listed by MobyGames as a 1997 Windows add-on developed by Headgate Studios and published by Sierra On-Line[^ref-18][^ref-19][^ref-20]. Each requires the base game[^ref-23][^ref-30][^ref-31]. Sierra's own catalogues called them "Add-On Course" products[^ref-30][^ref-31]; MobyGames titles them "Front Page Sports: Golf - Add on Course: ..." (for example *Black Diamond Ranch*)[^ref-18], and the Sierra Chest and the Dynamix wiki use "[Course] Add-on Course"[^ref-25][^ref-26][^ref-27][^ref-28].
 
-The Tour Course Add On series expanded the virtual golfing experience with several notable real-world courses including Pasatiempo Golf Club (Vol.1 no.2), Coeur D'Alene (Vol.1 no.3), and Black Diamond Ranche (Vol.1 no.4)[^ref-3]. These expansion courses were designed using the same rigorous methodology as the base game, which involved the design team visiting actual courses to capture video footage and hundreds of photographs, with planes flown over courses to obtain aerial photographs for accuracy[^ref-1]. Information about these add-on courses has become quite hard to come by in the modern era, making them somewhat obscure collector's items[^ref-3].
+The base game, developed by Headgate Studios and built around its mouse-driven TrueSwing control, shipped with two courses, the Pete Dye Golf Club in West Virginia and the Prince Course in Kauai, Hawaii[^ref-1][^ref-16]. The add-on disks gave owners further real-world courses to play on that engine; full coverage of the base game, its reviews and its credits is on the [[1997 - Front Page Sports - Golf]] page.
 
-The base Front Page Sports: Golf was described as "a gem of a golf sim" by Game Revolution and praised by Computer Gaming World as "worth the wait"[^ref-1]. The game's revolutionary TrueSwing interface, which would later be implemented in PGA Championship Golf 1999 Edition, set a new standard for golf game controls[^ref-1][^ref-4]. The Tour Course Add On packages allowed enthusiasts to further explore this innovative control system across diverse golfing environments.[^ref-15]
+Sierra gave the first add-on, Coeur d'Alene, away free with early copies of the base game[^ref-16]. Computer Gaming World's September 1997 review reported that "So far, add-on courses include Coeur d'Alene and Black Diamond Ranch"[^ref-17], and Sierra announced Pasatiempo for December 1997[^ref-29]. A fourth course, Sahalee, was later offered as a free 45 MB download tied to the 1998 PGA Championship[^ref-23][^ref-24].
 
 > [!info]- Game Info
-> **Developer:** [[Headgate Studios]] Inc.[^ref-1][^ref-4]
-> **Designer:** Vance Cook[^ref-1][^ref-4]
-> **Publisher:** [[Sierra On-Line]], Inc.[^ref-1][^ref-4]
-> **Engine:** Not specified
-> **Platforms:** Microsoft Windows[^ref-1]
-> **Release Year:** 1997
+> **Developer:** [[Headgate Studios]] Inc.[^ref-18][^ref-19][^ref-20]
+> **Publisher:** [[Sierra On-Line]], Inc.[^ref-18][^ref-19][^ref-20]
+> **Platforms:** Microsoft Windows (Win95 CD)[^ref-18][^ref-30]
+> **Release Year:** 1997[^ref-18][^ref-19][^ref-20]
 > **Series:** Front Page Sports
-> **Protagonist:** Player-created golfer
+> **Base Game:** [[1997 - Front Page Sports - Golf|Front Page Sports: Golf]][^ref-18]
 > **Sierra Lineage:** Core Sierra
 
-## Course Content
+## The Courses
 
-### Available Add-On Courses
+Each add-on adds one 18-hole course to Front Page Sports: Golf; the Sierra Chest describes each disk as "one of the three add-on courses for Front Page Sports: Golf"[^ref-18][^ref-19][^ref-20][^ref-26][^ref-27][^ref-28].
 
-The Front Page Sports Golf Tour Course Add On series was released as a numbered volume system, with each volume containing a different real-world course recreation[^ref-3]:
+### Coeur d'Alene
 
-- **Vol.1 no.1:** The main base game
-- **Vol.1 no.2:** Pasatiempo Golf Club Add-on
-- **Vol.1 no.3:** Coeur D'Alene add-on course
-- **Vol.1 no.4:** Black Diamond Ranche add-on course
+MobyGames describes this disk as adding "an additional 18 holes of golf featuring Idaho's Coeur D' Alene golf course"[^ref-19]. Sierra's course page called the Coeur d'Alene Resort Golf Course "America's most beautiful resort golf course" and gave it as a 6,309-yard, par-71 layout on the shore of Lake Coeur d'Alene. Its signature feature is what Sierra called "the planet's only floating, moveable green". Sierra credited the design to Scott Miller and gave its opening year as 1991[^ref-21].
 
-Each add-on course was created using the same detailed photographic and videographic process employed for the original game's courses[^ref-1]. The design team's commitment to authenticity extended to every element of course recreation, from terrain modeling to environmental details[^ref-1].
+Before the base game shipped, Sierra promised "a free add-on course disk with each copy of Front Page Sports: Golf" while supplies lasted. The bonus course would be "the Coeur d'Alene Resort in Coeur d'Alene, ID". Sierra warned that "We only have a few thousand of these add-on disks"; once they ran out, the next batch would sell separately "for about 25 bucks each"[^ref-16]. Sierra's own advertising in the same CGW issue told players they would "tee up" on the Prince Course, the Pete Dye Golf Club, and "the course at Coeur d'Alene"[^ref-17]. Ken Williams's list of Sierra's 1997 releases gives the Coeur d'Alene disk an April date, matching the base game[^ref-32].
 
-### Course Design Philosophy
+### Black Diamond Ranch
 
-The courses in Front Page Sports: Golf and its add-ons carried a more municipal course feel compared to competitors, providing a distinct atmosphere that differentiated the game from other golf simulations of the era[^ref-2]. This design choice gave the game series a more accessible, everyman quality while maintaining the technical precision that serious golf simulation enthusiasts demanded[^ref-2].
+MobyGames describes this disk as adding "an additional 18 holes of golf featuring Florida's Black Diamond Ranch golf course"[^ref-18]. Sierra's course page explains that Black Diamond Ranch offers 27 holes, and that the add-on reproduces designer Tom Fazio's "famed 18-hole 'Quarry' course". Sierra described it as a 7,159-yard, par-72 course opened in 1987 and "carved out of a limestone quarry", with "five challenging quarry holes, 13 through 17"[^ref-22]. Sierra's catalogue pitched it as "Tom Fazio's famed 'Quarry' course in this 18-hole add-on for Front Page Sports: Golf"[^ref-30].
+
+### Pasatiempo Golf Club
+
+MobyGames describes this disk as adding "an additional 18 holes of golf featuring California's Pasatiempo Golf Club"[^ref-20]. Sierra's Holiday 1997 InterAction told readers to "Watch for the next FPS: Golf add-on course, Pasatiempo. Coming in December."[^ref-29] By summer 1998, Sierra's catalogue described the disk as "the most realistic representation of the challenging golf found on California's rugged Monterey Peninsula"[^ref-31]. MobyGames and Ken Williams's release list both date it to 1997[^ref-20][^ref-32].
+
+### Sahalee (free download)
+
+Sahalee was not a retail disk. Sierra's golf site offered it as a "Free Add-On Course", sahalee.exe, a 45 MB file that "requires the full version of Front Page Sports: Golf"[^ref-23]. Sierra's course page tied it to the 1998 PGA Championship: "Here's your chance to play Sahalee, the very course of the August, 1998 major PGA event"[^ref-24]. The same page calls the required base game "Golf Pro", the name Sierra was then selling it under[^ref-24][^ref-31].
 
 ## Gameplay
 
-### Interface and Controls
+The add-ons supply new course data only. Play, controls and game modes are those of the base game, which offered TrueSwing mouse control and twelve types of play[^ref-1][^ref-16]. Every add-on states that it requires the base game[^ref-23][^ref-30][^ref-31].
 
-The Tour Course Add On utilized the same revolutionary TrueSwing mouse-controlled swing system that defined the base game[^ref-1][^ref-4]. While SimGolf was technically the first golf game to introduce a mouse-controlled swing method, TrueSwing was considered superior and became the defining feature of Front Page Sports: Golf[^ref-1]. The system allowed players to control every aspect of their swing through intuitive mouse movements, creating what reviewers described as gameplay that "just feels like golf in a way that no other golf sim duplicates"[^ref-1].
+### Online Play
 
-The game featured a three-click swing system as an alternative control method[^ref-5], providing accessibility for players who preferred traditional golf game controls. The interface supported resolutions up to 1024x768 with 64,000 colors, delivering impressive SVGA graphics for the era[^ref-5][^ref-6]. One notable feature included the golfer character falling on their rear end if the player shook the mouse during the swing animation[^ref-6].
-
-### Structure and Progression
-
-Players could experience the add-on courses through various game modes including single rounds, tournaments, and career play[^ref-4]. The golfer characters were rendered using texture-mapped polygons—a fully rendered 3-D approach that distinguished the game from competitors using superimposed FMV golfers[^ref-1][^ref-6]. This technical choice allowed for more dynamic camera angles and realistic player animations across all course environments.
-
-### Multiplayer Features
-
-The game featured connectivity through Sierra Internet Gaming System (SIGS), which was cutting-edge for 1997[^ref-5]. Notably, the multiplayer aspect was not initially planned and was implemented late in the base game's development cycle[^ref-1]. The smooth multiplayer integration remained impressive by retro standards and allowed players to compete on add-on courses with friends online[^ref-5].
+The add-on courses were used in Sierra's organized online play. Sierra's summer 1998 InterAction announced the Sierra Sports Golf Association's "inaugural season on the World Opponent Network". Its event schedule put the opening events on Coeur d'Alene and a June tournament on Black Diamond Ranch, and the season ended with an "SGA Championship, Live at Sahalee"[^ref-31]. Players who signed up would be "entered to win a trip to this year's PGA Championship at Sahalee"[^ref-31][^ref-24].
 
 ## Reception
 
-### Contemporary Reviews
-
-Front Page Sports: Golf received positive reviews upon release, with critics praising its innovative control system and realistic golf simulation[^ref-1].
-
-**GameSpot** awarded the game **8.1/10**, with reviewer Tasos Kaiafas noting that "Front Page Sports: Golf certainly has some fun surprises, taking the stuffiness out of your typical golf sim"[^ref-1][^ref-6]. Kaiafas further observed that "without the TrueSwing, FPS: Golf would be little more than another golf sim with a few minor, yet entertaining, twists"[^ref-6].
-
-**GameRevolution** gave the game an **A−** rating in July 1997, calling it "a gem of a golf sim"[^ref-1].
-
-**Gamecenter** scored the game **8/10** on July 8, 1997, with reviewer Gordon Goble providing favorable coverage[^ref-1].
-
-**Computer Gaming World** reviewer Scott A. May declared the game "worth the wait," acknowledging the extensive development period[^ref-1].
-
-**Computer Games Strategy Plus** featured Jeff Lackey's enthusiastic review describing the game as "a very pleasant surprise and a true breakthrough" that "just feels like golf in a way that no other golf sim duplicates"[^ref-1].
-
-**InterAction Magazine** featured John Zhaski calling it "the most playable and realistic golf game available for the PC"[^ref-1].
-
-**PC Magazine** offered a more tempered assessment, with T. Liam McDonald writing that the game "leaves too many shots short"[^ref-1].
-
-### Modern Assessment
-
-The game has maintained a dedicated fanbase among retro gaming enthusiasts[^ref-3][^ref-4][^ref-8]. Modern retrospective reviews have acknowledged its historical significance in establishing control schemes that became industry standards[^ref-4][^ref-9].
-
-**Aggregate Scores:**
-- **MobyGames Critics Average:** 74%[^ref-4]
-- **MyAbandonware User Rating:** 5/5 (4 votes)[^ref-7]
-- **Retro Replay:** 7/10[^ref-5]
-
-User reviews on MobyGames have been particularly enthusiastic, with one reviewer declaring it "My favourite golf game of the 90s. Was not topped until late into the Links series. Absolutely amazing game that does not get the respect it deserves"[^ref-4]. Another fan described it as "hugely influential and overall a very well done game"[^ref-3]. The game has been described as introducing "mouse-swing and set the standard for controls in Golf games"[^ref-4].
+No dedicated contemporary review of any of the three add-on disks has been located. Computer Gaming World's September 1997 review of the base game mentioned the add-ons only in passing ("So far, add-on courses include Coeur d'Alene and Black Diamond Ranch")[^ref-17]. MobyGames shows no Moby Score for any of the three disks[^ref-18][^ref-19][^ref-20]. Reviews of the base game are summarised on the [[1997 - Front Page Sports - Golf]] page.
 
 ## Development
 
-### Origins
-
-Front Page Sports: Golf represented nearly three years of development by a six-person team at Headgate Studios[^ref-1]. The project marked Headgate's first venture into golf simulations and designer Vance Cook's return to the genre after his foundational work on the Links series[^ref-2]. Cook served as both director and lead programmer, bringing his expertise in golf simulation design to Sierra's Front Page Sports brand[^ref-2].
-
-Sierra On-Line acquired Headgate Studios in 1996, bringing the developing golf simulation into their sports game portfolio[^ref-1][^ref-11]. The acquisition demonstrated Sierra's commitment to competing in the golf simulation market against established franchises like Links[^ref-4][^ref-11].
-
-### Production
-
-The development team employed an unusually thorough approach to course creation[^ref-1]. Team members visited actual golf courses to capture video footage and hundreds of photographs documenting every aspect of the layouts[^ref-1]. To achieve accurate overhead perspectives, planes were flown over courses to obtain aerial photographs[^ref-1]. This methodology would be applied to both the base game courses and the subsequent Tour Course Add On releases.
-
-The multiplayer component was notably implemented late in the development cycle, as it was not part of the original design plan[^ref-1]. This addition required integration with Sierra's SIGS online gaming system, which was cutting-edge technology for the era[^ref-5].
-
-**Development Credits:**[^ref-4]
-- **Designer/Lead Programmer:** Vance Cook
-- **Composer:** Charles Barth
-
-**Voice Cast:**[^ref-4]
-| Role | Voice Actor |
-|------|-------------|
-| Voice Actor | Geoff Spade |
-| Voice Actor | Michele Wilson |
-| Voice Actor | Mike Stalker |
-| Voice Actor | Mark VanWagoner |
-| Voice Actor | Deb Adams |
-| Voice Actor | Sam A. Mowry |
-
-### Technical Achievements
-
-The game's TrueSwing interface represented a significant advancement in golf game control systems[^ref-1]. The trademarked feature allowed for nuanced swing control that contemporary reviewers found superior to competing implementations[^ref-1][^ref-2]. The success of TrueSwing led to its later implementation in PGA Championship Golf 1999 Edition[^ref-1].
-
-Graphics utilized texture-mapped polygons for golfer rendering, distinguishing the visual approach from competitors who relied on full-motion video overlays[^ref-1]. The game supported SVGA graphics with resolutions up to 1024x768 and 64,000 colors[^ref-5][^ref-6].
-
-### Technical Specifications
-
-**System Requirements:**[^ref-5][^ref-6]
-- **Resolution:** Up to 1024x768, 64,000 colors
-- **Graphics:** SVGA support, texture-mapped polygon golfers
-- **Media:** CD-ROM[^ref-4]
-- **Online:** Sierra Internet Gaming System (SIGS) support[^ref-5]
-
-### Technical Issues
-
-The base game and presumably the add-ons were affected by several technical issues that Sierra aimed to remedy with patches[^ref-1]:
-
-- Crashes during gameplay[^ref-1]
-- Poor artificial intelligence at times[^ref-1]
-- Various bugs requiring post-release patches[^ref-1]
-- Putting power calibration issues where the lowest setting still required a very light touch[^ref-6]
-- Sharp edges on polygons, particularly visible in sand traps and walls[^ref-6]
-- Terrain that didn't blend as uniformly as other golf simulations[^ref-6]
-- Installation issues reported on Windows 7[^ref-7]
-
-GameSpot's review noted that "If your preference is extreme precision in a golf sim, FPS: Golf might not be what you're looking for"[^ref-6].
+The add-ons were developed by Headgate Studios, the developer of the base game, and published by Sierra On-Line[^ref-1][^ref-18][^ref-19][^ref-20]. No team credits specific to the add-on disks are listed on MobyGames or the Sierra Chest[^ref-18][^ref-19][^ref-20][^ref-26][^ref-27][^ref-28], and the Sierra Chest lists each disk's engine as "Unknown/unnamed"[^ref-26][^ref-27][^ref-28].
 
 ### Version History
 
-| Version | Date | Platform | Notes |
-|---------|------|----------|-------|
-| Base Game (Vol.1 no.1) | May 16, 1997 | Windows | Initial release[^ref-1] |
-| Vol.1 no.2 | 1997 | Windows | Pasatiempo Golf Club Add-on[^ref-3] |
-| Vol.1 no.3 | 1997 | Windows | Coeur D'Alene add-on course[^ref-3] |
-| Vol.1 no.4 | 1997 | Windows | Black Diamond Ranche add-on course[^ref-3] |
+| Course | Date | Format | Notes |
+|--------|------|--------|-------|
+| Coeur d'Alene | April 1997 | Windows 95 CD | Free disk with early copies of the base game while supplies lasted, then sold separately[^ref-16][^ref-32] |
+| Black Diamond Ranch | By September 1997 | Windows 95 CD | Listed at $29.95 in Sierra's Holiday 1997 and spring 1998 catalogues[^ref-17][^ref-29][^ref-30] |
+| Pasatiempo Golf Club | Announced for December 1997 | Windows | 1997 per MobyGames; advertised as available in spring 1998[^ref-20][^ref-29][^ref-30] |
+| Sahalee | 1998 | Download (45 MB) | Free download tied to the August 1998 PGA Championship[^ref-23][^ref-24] |
 
-### Easter Eggs and Trivia
+The Dynamix wiki notes that the exact release dates of the three retail disks are unknown[^ref-25]. In spring 1998, Sierra's catalogue advertised "Sierra Sports Golf 1.0— Plus Black Diamond Ranch & Pasatiempo Expansion Packs" as available now[^ref-30].
 
-The game included several humorous touches that set it apart from typical golf simulations[^ref-2][^ref-6]:
+### Disc Labelling
 
-- If the player leaves the game untouched, someone screams at them from a distance[^ref-6]
-- Shaking the mouse during the swing causes the character to fall on their rear end[^ref-6]
-- In-game audio includes heckling such as "Hey buddy, we're losing daylight!" and "Hit the ball! I gotta be home for supper!"[^ref-2]
-- The game carried a more municipal course feel compared to competitors, giving it a distinct atmosphere[^ref-2]
-
-The game was also released under alternative titles including "DSF Golf" and "Sierra Sports Golf"[^ref-7][^ref-13]. The ESRB rated the base game "E" for Everyone, indicating family-friendly content suitable for all ages[^ref-14].
+In 2021, a collector on the Vintage Computer Federation forums reported how the discs are labelled. The base game is marked "Vol.1 no.1", the Coeur d'Alene disk "Vol.1 no.3" and the Black Diamond Ranch disk "Vol.1 no.4". He then guessed that the Pasatiempo add-on was "no.2" ("I guess that's my 'no.2'")[^ref-3]. That Pasatiempo numbering is unconfirmed.
 
 ## Legacy
 
-### Sales and Commercial Impact
-
-While specific sales figures for the Tour Course Add On packages have not been documented, the base game's critical success and the acquisition of Headgate Studios by Sierra indicated commercial viability[^ref-1]. The game established Headgate as a significant developer in the golf simulation space.
-
-### Publishing Variations
-
-The game was distributed in multiple regions with various publishers[^ref-4][^ref-7]:
-- **Sierra On-Line, Inc.** (United States)
-- **Acer TWP Corp** (Taiwan)
-
-Regional releases were documented in Germany, Taiwan, and the United States[^ref-7].
-
-### Fan Community
-
-One dedicated fan noted: "This is a great little game. I've been addicted to it for about 10 years now. What I love about the game is that you can play it alone because I like to always compete with the computer opponent"[^ref-7].
-
-The game has been described as having lasting appeal: "Still, information about it is quite hard to come by"[^ref-3], indicating that while the game maintains a devoted following, documentation and preservation have been challenging.
-
-### Critical Perspective
-
-Front Page Sports: Golf and its Tour Course Add On represented Sierra's serious entry into the golf simulation genre during the mid-1990s[^ref-4][^ref-5]. The game's TrueSwing interface proved influential, setting standards for control schemes that would be adopted by subsequent golf titles[^ref-1][^ref-4]. The meticulous course recreation methodology—involving on-site photography and aerial surveying—established practices that would become standard in the sports simulation industry.
-
-The game's position as "Sierra's answer to Links"[^ref-4][^ref-5] placed it in direct competition with the dominant franchise of the era, and while it didn't ultimately dethrone Links, it carved out a respected niche among golf simulation enthusiasts. The TrueSwing technology's later adoption in PGA Championship Golf 1999 Edition demonstrated the lasting impact of the control innovations pioneered in this title[^ref-1].
-
-For 1997, the combination of innovative controls, online multiplayer through SIGS, and detailed course recreations represented a cutting-edge package[^ref-5]. Modern retrospectives acknowledge that while graphical fidelity has been surpassed, the fundamental gameplay feel and control responsiveness remain impressive by retro standards[^ref-5].
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+Sierra's catalogues and the Dynamix wiki list three retail add-on courses for Front Page Sports: Golf, and Sierra's download page added the free Sahalee course[^ref-25][^ref-23][^ref-30][^ref-31]. During 1998 Sierra marketed the base game as "Sierra Sports Golf 1.0" and "Golf Pro '98", and kept the add-on courses in its catalogue alongside it[^ref-30][^ref-31]. A collector writing in 2021 said he had found almost no information on them online ("I can't find any info on any of the add on courses online")[^ref-3].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- Not available on digital storefronts; physical copies occasionally found through collector resources[^ref-3]
+- Not currently sold on GOG or Steam.
 
 **Download / Preservation**
-- [Internet Archive – Front Page Sports: Golf](https://archive.org/details/FPSGOLF) – Base game preservation[^ref-8]
-- [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-golf-fyk) – Base game ISO available (440 MB)[^ref-7]
-
-**Manuals & Extras**
-- [GameFAQs – Front Page Sports: Golf](https://gamefaqs.gamespot.com/pc/197402-front-page-sports-golf) – Game information and FAQs[^ref-9]
-- [Sierra Help Wiki](https://www.sierrahelp.com/Games/Golf/FPSGolf.html) – Technical support and compatibility[^ref-10]
-
-**Community Resources**
-- [VCF Forum Discussion](https://forum.vcfed.org/index.php?threads/front-page-sports-golf-add-on-courses-vol-1-no-2-specifically.1227038/) – Add-on course identification[^ref-3]
-
-**Note:** The Tour Course Add On packages are particularly rare and may require specialized collector resources to locate[^ref-3].
+- The free Sahalee add-on was distributed by Sierra as sahalee.exe; the original Sierra download page survives only as a Wayback Machine capture[^ref-23].
 
 ## See Also
 
 - [[1997 - Front Page Sports - Trophy Rivers|← Previous: Front Page Sports - Trophy Rivers]]
 - [[1999 - Front Page Sports - Ski Racing 99|→ Next: Front Page Sports - Ski Racing 99]]
+
+- **Base Game:** [[1997 - Front Page Sports - Golf]]
 
 - [[1992 - Front Page Sports Football 92]]
 - [[1993 - Front Page Sports - Football Pro]]
@@ -244,25 +114,26 @@ For 1997, the combination of innovative controls, online multiplayer through SIG
 - [[1996 - Front Page Sports - Football Pro '97]]
 - [[1997 - Front Page Sports - Baseball Pro '98]]
 - [[1997 - Front Page Sports - Football Pro '98]]
-- [[1997 - Front Page Sports - Golf]]
 - [[1997 - Front Page Sports - Ski Racing]]
-
-- **Base Game:** Front Page Sports: Golf (May 16, 1997)
 
 ## References
 
-[^ref-1]: [Wikipedia – Front Page Sports: Golf](https://en.wikipedia.org/wiki/Front_Page_Sports:_Golf) – release dates, developers, publishers, designers, composers, critical reception, development history, technical details, known issues
-[^ref-2]: [GameSpot – Front Page Sports Golf Preview](https://www.gamespot.com/articles/front-page-sports-golf-preview/1100-2563196/) – developer background, TrueSwing interface, design philosophy, in-game audio quotes
-[^ref-3]: [VCF Forum – Front Page Sports Golf Add-On Courses Discussion](https://forum.vcfed.org/index.php?threads/front-page-sports-golf-add-on-courses-vol-1-no-2-specifically.1227038/) – add-on course volume identification, user testimonials, rarity of information
-[^ref-4]: [MobyGames – Front Page Sports: Golf](https://www.mobygames.com/game/3147/front-page-sports-golf/) – credits, voice cast, publishers, user reviews, aggregate ratings
-[^ref-5]: [Retro Replay – Front Page Sports: Golf](https://retro-replay.com/db/windows/front-page-sports-golf/) – retrospective review, SIGS connectivity, control systems, modern rating
-[^ref-6]: [GameSpot – Front Page Sports: Golf Review](https://www.gamespot.com/reviews/front-page-sports-golf-review/1900-2536105/) – technical specifications, resolution details, gameplay features, known issues, reviewer quotes
-[^ref-7]: [MyAbandonware – Front Page Sports: Golf](https://www.myabandonware.com/game/front-page-sports-golf-fyk) – regional releases, alternate titles, user comments, download availability, compatibility issues
-[^ref-8]: [Internet Archive – Front Page Sports: Golf](https://archive.org/details/FPSGOLF) – game preservation, original media
-[^ref-9]: [GameFAQs – Front Page Sports: Golf](https://gamefaqs.gamespot.com/pc/197402-front-page-sports-golf) – game information, user FAQs, platform details
-[^ref-10]: [Sierra Help Wiki – Front Page Sports: Golf](https://www.sierrahelp.com/Games/Golf/FPSGolf.html) – technical support, compatibility guides
-[^ref-11]: [Wikipedia – Headgate Studios](https://en.wikipedia.org/wiki/Headgate_Studios) – studio history, Sierra acquisition, game development
-[^ref-12]: [MobyGames – Headgate Studios](https://www.mobygames.com/company/4009/headgate-studios-inc/) – company credits, game portfolio, developer history
-[^ref-13]: [Abandonware DOS – Front Page Sports: Golf](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Front+Page+Sports%3A+Golf) – alternate titles, download availability
-[^ref-14]: ESRB – Front Page Sports: Golf *(link removed: it led to a different game's page)* – ESRB rating, content descriptors
-[^ref-15]: [Sierra Gamers – Front Page Sports](https://www.sierragamers.com/front-page-sports/) – series information, Sierra publishing history
+[^ref-1]: [Wikipedia – Front Page Sports: Golf](https://en.wikipedia.org/wiki/Front_Page_Sports:_Golf) – base game: developed by Headgate Studios, published by Sierra On-Line, released 1997; TrueSwing; Pete Dye Golf Club and Prince Course
+[^ref-3]: [VCF Forum – Front Page Sports Golf Add on courses (Vol.1 no.2 specifically)](https://forum.vcfed.org/index.php?threads/front-page-sports-golf-add-on-courses-vol-1-no-2-specifically.1227038/) – Overmann, 2 October 2021: disc labels Vol.1 no.1/no.3/no.4, guess that Pasatiempo is no.2, scarcity of information
+[^ref-16]: [Sierra On-Line – Front Page Sports: Golf (February 1997, Wayback Machine)](https://web.archive.org/web/19970216055215/http://www.sierra.com/entertainment/golf/) – base courses, TrueSwing, twelve types of play; free Coeur d'Alene add-on disk, "a few thousand", "about 25 bucks each"
+[^ref-17]: [Computer Gaming World #158 (September 1997)](https://archive.org/details/Computer_Gaming_World_Issue_158) – FPS: Golf review: "So far, add-on courses include Coeur d'Alene and Black Diamond Ranch"; Sierra advertisement naming Coeur d'Alene
+[^ref-18]: [MobyGames – Front Page Sports: Golf - Add on Course: Black Diamond Ranch](https://www.mobygames.com/game/247557/front-page-sports-golf-add-on-course-black-diamond-ranch/) – 1997, Windows, Headgate Studios, Sierra On-Line; 18 holes of Florida's Black Diamond Ranch; Moby Score n/a
+[^ref-19]: [MobyGames – Front Page Sports: Golf - Add on Course: Coeur D' Alene](https://www.mobygames.com/game/247559/front-page-sports-golf-add-on-course-coeur-d-alene/) – 1997, Windows, Headgate Studios, Sierra On-Line; 18 holes of Idaho's Coeur D' Alene course
+[^ref-20]: [MobyGames – Front Page Sports: Golf - Add on Course: Pasatiempo Golf Club](https://www.mobygames.com/game/247558/front-page-sports-golf-add-on-course-pasatiempo-golf-club/) – 1997, Windows, Headgate Studios, Sierra On-Line; 18 holes of California's Pasatiempo Golf Club
+[^ref-21]: [Sierra Sports – The Coeur d'Alene (Wayback Machine, 2001)](https://web.archive.org/web/20010219045624/http://www.sierra.com/sierrasports/recreation/golf/cda.html) – 6,309 yards, par 71, floating moveable green, designed by Scott Miller, opened 1991
+[^ref-22]: [Sierra Sports – Black Diamond Ranch (Wayback Machine, 1999)](https://web.archive.org/web/19991013085644/http://sierra.com/sierrasports/recreation/golf/bdr.html) – Tom Fazio's "Quarry" course, 7,159 yards, par 72, opened 1987, quarry holes 13–17
+[^ref-23]: [Sierra Sports – Golf Downloads (Wayback Machine, 2001)](https://web.archive.org/web/20010131225600/http://www.sierra.com/sierrasports/recreation/golf/downloads.html) – "Free Add-On Course sahalee.exe 45 MB", requires the full version of Front Page Sports: Golf
+[^ref-24]: [Sierra Sports – Golf Courses (Wayback Machine, 1999)](https://web.archive.org/web/19991013102352/http://sierra.com/sierrasports/recreation/golf/courses.html) – all four courses; Sahalee free add-on, "the very course of the August, 1998 major PGA event"; "requires the full version of Golf Pro"
+[^ref-25]: [Dynamix Wiki – Front Page Sports (series)](https://dynamix.fandom.com/wiki/Front_Page_Sports_(series)) – lists the Pasatiempo, Black Diamond Ranch and Coeur d'Alene Add-on Courses; "The release date for these titles are unknown"
+[^ref-26]: [The Sierra Chest – Front Page Sports: Golf - Coeur d'Alene Add-on Course](https://www.sierrachest.com/index.php?a=games&id=512&fld=general) – developer Headgate Studios, engine "Unknown/unnamed", "one of the three add-on courses"
+[^ref-27]: [The Sierra Chest – Front Page Sports: Golf - Black Diamond Ranch Add-on Course](https://www.sierrachest.com/index.php?a=games&id=514&fld=general) – developer Headgate Studios, engine "Unknown/unnamed", "one of the three add-on courses"
+[^ref-28]: [The Sierra Chest – Front Page Sports: Golf - Pasatiempo Golf Club Add-on Course](https://www.sierrachest.com/index.php?a=games&id=515&fld=general) – developer Headgate Studios, engine "Unknown/unnamed", "one of the three add-on courses"
+[^ref-29]: [InterAction Magazine, Issue 33 (Holiday 1997)](https://archive.org/details/inter-action-issue-33-holiday-1997) – Sierra ad: "Watch for the next FPS: Golf add-on course, Pasatiempo. Coming in December."; Black Diamond Ranch Add-On listed
+[^ref-30]: [InterAction Magazine, Issue 34 (Spring 1998)](https://archive.org/details/inter-action-issue-34-spring-1998) – "Black Diamond Ranch Add-On Course" catalogue entry (Win95CD $29.95); "Sierra Sports Golf 1.0— Plus Black Diamond Ranch & Pasatiempo Expansion Packs"
+[^ref-31]: [InterAction Magazine, Issue 35 (Summer 1998)](https://archive.org/details/inter-action-issue-35-summer-1998) – "Pasatiempo Add-On Course" catalogue entry; Golf Pro '98; SGA inaugural season on WON with events on Coeur d'Alene, Black Diamond Ranch and Sahalee
+[^ref-32]: Ken Williams, *Not All Fairy Tales Have Happy Endings: The Rise and Fall of Sierra On-Line* (2020) – Sierra's 1997 release list: "Front Page Sports - Golf: Black Diamond Ranch", "Couer d'Alene (Apr)", "Pasatiempo Golf Club"
