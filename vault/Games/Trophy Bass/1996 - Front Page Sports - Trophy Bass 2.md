@@ -281,7 +281,7 @@ The game is preserved through abandonware archives, though it faces compatibilit
 [^ref-10]: [eBay Listing](https://www.ebay.com/itm/226030508343) – Marketing description from product listing
 [^ref-11]: [IGN Cheats Guide](https://www.ign.com/wikis/pc-cheats/Front_Page_Sports:_Trophy_Bass_2:_Northern_Lakes_Cheats) – Detailed gameplay instructions
 [^ref-12]: [MobyGames](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/) – Player count and multiplayer information
-[^ref-13]: [FileCR](https://filecr.com/pc-games/front-page-sports-trophy-bass-2-northern-lakes/) – Game features description
+[^ref-13]: FileCR (link removed: warez download site) – Game features description
 [^ref-14]: [Kotaku](https://kotaku.com/games/front-page-sports-trophy-bass-2) – Game overview and features
 [^ref-15]: [MobyGames – Reviews](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/reviews/windows/) – Aggregate review score
 [^ref-16]: [Old-Games.com](https://www.old-games.com/download/10696/trophy-bass) – Critical review assessment

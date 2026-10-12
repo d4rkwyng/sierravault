@@ -212,7 +212,6 @@ The brand's longevity—spanning from Edmond Hoyle's 18th-century rulebooks thro
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-puzzle-and-board-games-2008-m77) - Windows and Mac versions available[^ref-8]
-- [FileCR](https://filecr.com/pc-games/hoyle-puzzle-and-board-games-2008) - PC download[^ref-3]
 
 **Documentation**
 - Steam Community Guide for related Encore compilation[^ref-7]
@@ -281,7 +280,7 @@ The game is documented in various gaming databases and preservation archives.[^r
 
 [^ref-1]: [Metacritic – Hoyle Puzzle and Board Games 2008](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2008/) – release date, developer, publisher, platform, ESRB rating, review status
 [^ref-2]: [GameFAQs – Hoyle Puzzle and Board Games 2008](https://gamefaqs.gamespot.com/pc/943486-hoyle-puzzle-and-board-games-2008) – release date, developer, publisher, user ratings, game description, Dominoes bug
-[^ref-3]: [FileCR – Hoyle Puzzle and Board Games 2008](https://filecr.com/pc-games/hoyle-puzzle-and-board-games-2008) – system requirements, download stats, Hoyle brand history, game description
+[^ref-3]: FileCR – Hoyle Puzzle and Board Games 2008 (link removed: warez download site) – system requirements, download stats, Hoyle brand history, game description
 [^ref-4]: [MobyGames – Hoyle Puzzle & Board Games](https://www.mobygames.com/game/54289/hoyle-puzzle-board-games/) – developers, release dates, technical specs, multiplayer features, included games, Hoyle Bucks system, ESRB rating
 [^ref-5]: [Software Informer – Hoyle Puzzle and Board Games 2008](https://hoyle-puzzle-and-board-games-2008.software.informer.com/votes/) – game description, user vote count
 [^ref-6]: [Kotaku – Hoyle Puzzle and Board Games 2008](https://kotaku.com/games/hoyle-puzzle-and-board-games-2008) – game features, Hoyle Bucks system, computer opponents
