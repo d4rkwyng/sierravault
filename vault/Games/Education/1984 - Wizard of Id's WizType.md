@@ -7,10 +7,10 @@ publisher: Sierra On-Line, Inc.
 genre: Educational
 platforms: [DOS, Apple II, C64, Atari 8-bit]
 series: Wizard of Id
-engine: 6502 Assembly
+engine: Unknown
 protagonist: The Wizard
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-12'
 description: Wizard of Id's WizType is an educational typing game released in 1984
  by Sierra On-Line, designed to give keyboard novices lessons on improving their
  typing...
@@ -18,22 +18,22 @@ tags: [1980s, educational, sierra, wizard-of-id]
 ---
 # Wizard of Id's WizType
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Wizard of Id's WizType is an educational typing game released in 1984 by Sierra On-Line, designed to give keyboard novices lessons on improving their typing accuracy and speed.[^ref-1] The game was developed by Sydney Development Corp. and represents one of Sierra's ventures into the edutainment market during the early to mid-1980s.[^ref-2] Based on the popular comic strip "The Wizard of Id," created by artist Brant Parker and writer Johnny Hart, WizType combined licensed characters with educational content to create an engaging learning experience.[^ref-2]
+Wizard of Id's WizType is an educational typing game released in 1984 by Sierra On-Line, designed to give keyboard novices lessons on improving their typing accuracy and speed.[^ref-1][^ref-2] The game was developed by Sydney Development Corp. and published by Sierra.[^ref-2][^ref-13] It is based on the comic strip "The Wizard of Id," created by artist Brant Parker and writer Johnny Hart.[^ref-2][^ref-19]
 
-The game was released simultaneously for multiple platforms including DOS, Apple II, Commodore 64, and Atari 8-bit systems, demonstrating Sierra's commitment to the educational software market across the major home computer platforms of the era.[^ref-4][^ref-8][^ref-9] At the time of its release, WizType was considered one of the better typing software products available, competing in a market that offered a variety of software products designed to teach keyboard skills.[^ref-5] The game featured multiple skill levels to accommodate different typing abilities and increased in challenge as players progressed through their lessons.[^ref-1]
+WizType came out for the Apple II, Commodore 64, Atari 8-bit and DOS.[^ref-2][^ref-14] COMPUTE!'s review covered the Atari, Commodore 64 and Apple II versions, each needing at least 32K of RAM and a disk drive, at a price of $34.95.[^ref-17] Reviewing the Atari version in November 1984, COMPUTE! said that among the many typing programs on dealers' shelves, "it just might be the best one yet."[^ref-17] The game offers six modes, each with multiple skill levels, and the challenge rises as players progress.[^ref-10][^ref-18]
 
-WizType was part of a pair of edutainment titles based on the Wizard of Id license, designed primarily for the Apple II educational market.[^ref-6][^ref-8] Its companion game, WizMath, was released only for the Commodore 64 and ColecoVision, making WizType the more widely distributed of the two titles.[^ref-6][^ref-11] The Wizard of Id comic strip itself had been launched in 1964, giving the license two decades of recognition before being adapted into educational software.[^ref-6][^ref-13][^ref-14][^ref-15]
+WizType was one of two 1984 edutainment titles built on the Wizard of Id license; the other was WizMath.[^ref-6][^ref-19] Apple II Bits notes that "With the Apple II being popular in education, it made sense to shoehorn this license into a pair of edutainment titles."[^ref-6] The comic strip itself was first syndicated on November 9, 1964, two decades before the game.[^ref-19]
 
 > [!info]- Game Info
 > **Developer:** Sydney Development Corp.[^ref-2]
-> **Designer:** Rick Banks, Michael Bate, Jewell Couch, [[Ken Williams]][^ref-7]
+> **Designer:** Rick Banks, Michael Bate, Jewell Couch, [[Ken Williams]][^ref-7][^ref-10]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-2]
 > **Engine:** Unknown
-> **Platforms:** DOS, Apple II, Commodore 64, Atari 8-bit[^ref-4]
+> **Platforms:** DOS, Apple II, Commodore 64, Atari 8-bit[^ref-2]
 > **Release Year:** 1984[^ref-1]
 > **Series:** Wizard of Id
 > **Protagonist:** The Wizard
@@ -41,159 +41,106 @@ WizType was part of a pair of edutainment titles based on the Wizard of Id licen
 
 ## Story Summary
 
-The narrative framework of WizType draws directly from the beloved Wizard of Id comic strip, placing players in the role of the diminutive Wizard character who must use his magical typing abilities to defend himself against supernatural threats.[^ref-6] The game's story is divided into two distinct scenarios, each presenting a different typing challenge wrapped in the comic strip's medieval fantasy setting.[^ref-1]
+WizType casts the Wizard of Id as the player's typing teacher. The manual is written in his voice: "Allow me to introduce myself, I am the great, the magnificent Wizard of Id," who promises to teach the player to touch-type.[^ref-10] The player and the Wizard team up against Spirit, the apparition the Wizard conjures from his vat (COMPUTE! calls it a well).[^ref-2][^ref-10][^ref-17]
 
-In the primary scenario, the Wizard faces off against the Evil Spirit, a malevolent apparition that dwells within the Wizard's mystical vat.[^ref-1] This spectral antagonist challenges the Wizard to typing duels, presenting words that must be typed quickly and accurately. The fate of the Wizard hangs in the balance with each word, as the Evil Spirit grows in power with every mistake or delay.[^ref-6] Success means diminishing the Spirit's power and winning the round, while failure has dire consequences for the magical protagonist.[^ref-1]
+Spirit puts groups of characters and words on the screen, and the Wizard zaps each group the player types correctly.[^ref-10] If the player types too slowly or makes mistakes, Spirit turns into a dragon; once the word list fills the screen, the dragon breathes fire and reduces the Wizard to a pile of ashes.[^ref-10][^ref-17] Hats at the bottom of the screen show how many lives the Wizard has left.[^ref-10]
 
-The secondary scenario features Bung the Jester, another popular character from the comic strip, who bounces along on a pogo stick across paragraphs of text.[^ref-1] In this portion of the game, the player must type out pre-written paragraphs while keeping pace with the acrobatic jester.[^ref-2] The combination of these two scenarios provides variety in the typing challenges while maintaining the whimsical tone of the source material.[^ref-6]
-
-The consequences of failure in WizType are dramatically portrayed through the game's animated sequences. When players type too slowly or make too many errors in the Evil Spirit section, the Spirit transforms into a fearsome dragon and breathes fire upon the hapless Wizard, singeing him to a crisp.[^ref-1] This dramatic penalty, while ultimately harmless in educational terms, provided memorable motivation for young typists to improve their skills.[^ref-5]
+Bung, the court jester from the strip, appears in the Paragraphs lesson. He bounces along on a pogo stick above the text at a speed the player chooses.[^ref-10][^ref-17]
 
 ## Gameplay
 
 ### Interface and Controls
 
-WizType is controlled entirely through the keyboard, as befitting a typing tutor program.[^ref-2] The game requires no joystick or mouse input, focusing players' attention entirely on the keyboard skills they are meant to develop. The interface presents words and text on screen that players must reproduce accurately and quickly to succeed.[^ref-1]
+WizType is played entirely from the keyboard. Before each level, a color-coded picture of the keyboard shows which finger to use for which keys, matching the Quick Reference Card in the box.[^ref-10] COMPUTE! noted that the game always shows which keys the level uses, the correct finger positions and the finger reaches being exercised.[^ref-17] Players enter their name at the start, and a bar graph of their progress across lessons is displayed.[^ref-10][^ref-17]
 
-The game operates in a single-player mode, with keyboard input being the sole method of interaction.[^ref-2] This straightforward control scheme allowed the game to function identically across all supported platforms, from the Apple II to DOS-based PCs.[^ref-4]
+### Modes and Progression
 
-### Structure and Progression
+WizType has six modes: Game, Drill, Practice, Words, Own Lesson and Paragraphs.[^ref-17][^ref-18][^ref-20] The Game, Drill, Practice and Words modes each have 20 levels of difficulty, with 20 character groups per level.[^ref-10]
 
-WizType is divided into two primary gameplay sections, each designed to develop different aspects of typing proficiency:[^ref-1]
+- **Drill:** Groups of letters and characters to learn key locations; the manual suggests moving on once all 20 levels can be typed at 20 WPM.[^ref-10]
+- **Practice:** Spirit forms "nonsense words" from characters spread across the keyboard.[^ref-10]
+- **Words:** Real words, starting with two- and three-letter words and moving to longer ones.[^ref-10][^ref-17]
+- **Game:** Starts at 10 words per minute, and the speed rises by 5 WPM with each level conquered.[^ref-10] Each level works on a different set of keys, from the home row at the easiest to numbers and symbols at the hardest.[^ref-17]
+- **Own Lesson:** Players type in their own word list of up to about 240 words, with a maximum of eight letters per word.[^ref-10]
+- **Paragraphs:** Players type passages from eight literary works stored on the disk, such as the opening of Dickens's *A Tale of Two Cities*, scenes from *Hamlet*, the Gettysburg Address and Mother Goose, or create and save their own paragraphs.[^ref-17][^ref-10]
 
-- **Evil Spirit Challenge:** Players type individual words presented by the Evil Spirit to diminish the apparition's power and defeat it[^ref-1]
-- **Bung's Pogo Paragraph:** Players type complete paragraphs while keeping pace with the bouncing jester[^ref-2]
-
-The game features multiple skill levels to match different levels of typing ability.[^ref-2] As players demonstrate proficiency, the game increases in challenge, presenting more difficult words, longer paragraphs, and stricter timing requirements.[^ref-1] This adaptive difficulty system helped ensure that the game remained educational for players of varying skill levels.[^ref-5]
-
-In addition to the main gameplay modes, WizType offered several educational features:[^ref-5]
-- **Practice Mode:** For learning basic typing without time pressure
-- **Game Mode:** The main competitive typing challenges
-- **Testing Mode:** To assess typing speed and accuracy
-- **Own Lesson:** Players could create custom typing lessons
-- **Paragraphs:** Extended typing practice with longer text passages
+In Drill and Practice, players can set a typing speed from 10 to 60 words per minute in steps of 10.[^ref-17]
 
 ### Puzzles and Mechanics
 
-The core mechanic of WizType centers on accurate and speedy reproduction of displayed text.[^ref-2] In the Evil Spirit section, success is measured by the player's ability to quickly type out words before the Spirit gains too much power.[^ref-1] The visual feedback shows the Spirit diminishing when words are typed correctly, or growing stronger and eventually transforming into a dragon when errors accumulate.[^ref-5]
+In the Game, the player's score for each level is ("words typed" + "words not used") × typing speed, plus a 100-point bonus for finishing a level with more than one word left.[^ref-10] Every few levels the Wizard's "Magic Sentence" appears as a bonus round, worth 10 points per correct character and 100 points per second of leftover time.[^ref-10] COMPUTE! also mentioned the multiple lives and the comic-strip balloons in which the Wizard cracks jokes after each completed level.[^ref-17]
 
-The Bung the Jester section introduces a different timing mechanic, where the pogo-stick-riding character bounces along the words of a paragraph.[^ref-1] Players must keep their typing synchronized with Bung's progress, creating a rhythm-based element to the typing practice.[^ref-2] Falling too far behind Bung results in failure, encouraging players to maintain a steady typing pace rather than just accuracy.[^ref-6]
+Bung is an optional pacer in the Paragraphs lesson. The manual explains: "When you are slow, Bung will wait for you at the end of the line, impatiently looking at his watch," and suggests setting a speed that makes the player push to keep up with him.[^ref-10] Players can also type paragraphs without him.[^ref-10][^ref-17]
 
 ## Reception
 
 ### Contemporary Reviews
 
-As an educational title from 1984, WizType received limited coverage in mainstream gaming publications of the era. However, retrospective assessments have praised the game's approach to combining entertainment with education.[^ref-2] The game was recognized as one of the better typing software products available during its release year, standing out in a crowded market of typing tutors.[^ref-5]
+Computer Gaming World's June 1984 "Taking a Peek" column summed it up as a "Typing game using the Wizard of Id characters. Cartoon gags add extra life to the game. There are six modes and twenty levels of play."[^ref-18]
 
-One contemporary assessment noted that "WizType is the perfect title for children to learn to type efficiently, and any person who enjoyed reading The Wizard of Id as a kid will definitely enjoy this one."[^ref-2] This evaluation highlighted the game's dual appeal to both the educational market and fans of the comic strip license.[^ref-2]
+COMPUTE! (issue 54, November 1984, p. 131) gave WizType a full review by James V. Trunzo. He called it "a wizard of a product," said of the animation that "you must see this program to appreciate it fully," and singled out Paragraphs and Own Lesson as "the two options which really set WizType apart from most typing-practice programs." He concluded: "Sierra's WizType certainly meets their standards, and surpasses most of them."[^ref-17]
 
 ### Modern Assessment
 
-Modern retrospective reviews have generally been favorable toward WizType, appreciating its creative use of a licensed property and its effective educational design.[^ref-2] The game is recognized as a notable example of early edutainment software that attempted to make learning engaging through familiar characters and game-like challenges.[^ref-6]
+A 2017 retrospective on megalextoria said that "in 1984 The Wizard of Id's WizType by Sierra was one of the better such products out there," and singled out the Paragraphs feature as "what really gave WizType longevity."[^ref-5] In a 2011 MobyGames user review, Katakis wrote: "WizType is the perfect title for children to learn to type efficiently, and any person who enjoyed reading The Wizard of Id as a kid will definitely enjoy this one."[^ref-2]
 
 **Aggregate Scores:**
 - **MobyGames:** 3.5 out of 5 (user rating)[^ref-2]
 - **MyAbandonware:** 3.67 out of 5 (3 votes)[^ref-4]
-
-The game's preservation status as abandonware has made it accessible to retro gaming enthusiasts and historians interested in the evolution of educational software.[^ref-4] Its relatively small file size (approximately 33 KB for most versions) has facilitated its preservation across multiple archive sites.[^ref-4][^ref-16]
+- **Glitchwave:** 1.33 out of 5 (2 ratings)[^ref-16]
 
 ## Development
 
 ### Origins
 
-WizType emerged from Sierra On-Line's expansion into the educational software market during the early 1980s.[^ref-6] The company, already established as a leader in adventure games, sought to diversify its catalog with edutainment titles that could appeal to the growing home computer educational market.[^ref-7] The decision to license the Wizard of Id comic strip provided instant name recognition and a cast of beloved characters to build the typing tutor around.[^ref-2]
-
-The comic strip had been entertaining readers since 1964, created by the creative team of artist Brant Parker and writer Johnny Hart.[^ref-2] By 1984, the strip enjoyed widespread syndication and a loyal readership, making it an attractive license for educational software targeting families and children.[^ref-6] Sierra's approach to combining popular licenses with educational content would become a recurring strategy in their edutainment division.[^ref-7]
+In 1984, Sierra On-Line put out two games based on the Wizard of Id comic strip, WizType and WizMath.[^ref-6][^ref-19] The strip had been running since November 9, 1964.[^ref-19] Apple II Bits ties the choice of format to the education market: "With the Apple II being popular in education, it made sense to shoehorn this license into a pair of edutainment titles."[^ref-6]
 
 ### Production
 
-Development of WizType was handled by Sydney Development Corp., an external development studio contracted by Sierra On-Line.[^ref-2] This arrangement allowed Sierra to expand its software catalog while focusing internal resources on its flagship adventure game titles.[^ref-7] The game was designed for simultaneous release across multiple platforms, requiring adaptation for the unique hardware capabilities of each system.[^ref-4]
+WizType was developed by Sydney Development Corp. and published by Sierra.[^ref-2][^ref-13] The manual credits the design to Rick Banks, Michael Bate, Jewell Couch and Ken Williams.[^ref-10] MobyGames credits Frank Randak with programming the DOS version.[^ref-2]
 
-The DOS version of the game was programmed by Frank Randak, who handled the technical conversion to IBM PC-compatible systems.[^ref-2] The multi-platform development strategy ensured that WizType would reach the widest possible audience across the major home computer platforms of 1984.[^ref-1]
-
-**Development Credits:**[^ref-7]
+**Development Credits:**[^ref-7][^ref-10]
 - **Designer:** Rick Banks
 - **Designer:** Michael Bate
 - **Designer:** Jewell Couch
 - **Designer:** Ken Williams
 - **DOS Programmer:** Frank Randak[^ref-2]
 
-### Technical Achievements
-
-WizType represented a competent implementation of typing tutor software for its era, featuring animated graphics depicting the comic strip characters and responsive input handling crucial for accurate typing assessment.[^ref-1] The game's ability to track typing speed and accuracy while providing real-time visual feedback demonstrated solid programming fundamentals.[^ref-5]
-
-The multi-platform development was achieved efficiently, with each version maintaining the core gameplay experience while adapting to the specific capabilities of each hardware platform.[^ref-4] The game's relatively small footprint (approximately 32-37 KB depending on platform) reflected efficient code and data optimization.[^ref-4]
-
 ### Technical Specifications
 
-**DOS Version:**[^ref-4]
-- **File Size:** 33 KB
-- **Media:** 5.25" Floppy Disk[^ref-2]
-- **Input:** Keyboard[^ref-2]
-- **Players:** 1 Player[^ref-2]
-
-**Apple II Version:**[^ref-4]
-- **File Size:** 37 KB
-- **Media:** 5.25" Floppy Disk
-
-**Atari 8-bit Version:**[^ref-4]
-- **File Size:** 32 KB
-- **Media:** 5.25" Floppy Disk
-
-**Commodore 64 Version:**[^ref-4]
-- **File Size:** 33 KB
-- **Media:** 5.25" Floppy Disk
+- **Memory:** COMPUTE! lists at least 32K RAM for the Atari, Commodore 64 and Apple II versions;[^ref-17] the Apple II box lists 48K.[^ref-20]
+- **Media:** 5.25" floppy disk[^ref-16][^ref-20]
+- **Input:** Keyboard[^ref-10]
+- **Price:** $34.95[^ref-17]
 
 ### Cut Content
 
-A ColecoVision/ADAM version of WizType was planned but never released.[^ref-2] This would have expanded the game's reach to console and Adam computer owners, but the project was ultimately cancelled for unknown reasons. The companion title WizMath did receive a ColecoVision release, making the cancellation of WizType for that platform somewhat unusual.[^ref-6]
-
-### Version History
-
-| Version | Date | Platform | Notes |
-|---------|------|----------|-------|
-| 1.0 | 1984 | DOS | Initial DOS release[^ref-1] |
-| 1.0 | 1984 | Apple II | Initial Apple II release[^ref-6] |
-| 1.0 | 1984 | Commodore 64 | Initial C64 release[^ref-1] |
-| 1.0 | 1984 | Atari 8-bit | Initial Atari release[^ref-1] |
-
-### Technical Issues
-
-No significant technical issues or bugs have been documented in the available sources for WizType. The game's straightforward design and focused functionality likely contributed to its stability across platforms.[^ref-4]
+According to MobyGames, a ColecoVision/ADAM version of WizType was planned but never released.[^ref-2]
 
 ### Easter Eggs and Trivia
 
-- The Wizard of Id comic strip was launched in 1964, giving it two decades of popularity before the game's release[^ref-6]
-- WizType was part of a pair of educational titles using the license, alongside WizMath[^ref-6]
-- The companion game WizMath was released only for Commodore 64 and ColecoVision, making WizType the more widely available title[^ref-6]
-- Failure in the Evil Spirit mode results in a memorable animation of the Spirit transforming into a dragon and "singing the Wizard to a crisp"[^ref-6]
-- The game featured a planned ColecoVision/ADAM version that was never released[^ref-2]
+- The Wizard of Id comic strip was first syndicated on November 9, 1964, two decades before the game's release[^ref-19]
+- WizType was one of two educational titles using the license, alongside WizMath[^ref-6][^ref-19]
+- The manual's Wizard boasts that his own typing "apprenticeship took a whole two months!"[^ref-10]
+- The Apple II packaging promised "Six modes, 20 levels" and "Liberally spiced with cartoon gags"[^ref-20]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-WizType was released as a commercial product distributed through Sierra On-Line's standard retail channels.[^ref-2] While specific sales figures are not available, the game's release across four major platforms indicates Sierra's confidence in the educational software market.[^ref-4] The game's status as a licensed product based on a popular comic strip likely helped it stand out in the crowded typing tutor market of 1984.[^ref-5]
+No sales figures for WizType have been found.
 
 ### Collections
 
-WizType has not been included in any known Sierra compilation releases or collections. The game remains available primarily through abandonware and preservation sites.[^ref-4][^ref-9][^ref-10] Its educational nature and licensed characters may have complicated its inclusion in later anthology releases.[^ref-12]
-
-### Fan Projects
-
-No significant fan remake or modification projects have been documented for WizType. The game's straightforward educational design and limited narrative content have not generated the same level of fan interest as Sierra's adventure game titles.[^ref-4]
+No compilation release of WizType has been found in the sources consulted. The original releases are preserved on the Internet Archive.[^ref-1][^ref-9][^ref-10]
 
 ### Related Publications
 
-No dedicated hint books or strategy guides were produced for WizType, as the educational nature of the software made such publications unnecessary.[^ref-7] The game would have included standard documentation and instructions with the original retail package.[^ref-2]
+The retail package included a manual and a Quick Reference Card with loading instructions, a color-coded keyboard chart and editing instructions.[^ref-10] Sierra Gamers hosts downloads of the manual, the Quick Reference card and the box spine, along with the June 1984 Computer Gaming World product news item.[^ref-7]
 
 ### Critical Perspective
 
-WizType occupies an interesting position in Sierra On-Line's history as an example of the company's diversification beyond adventure games during the early 1980s.[^ref-7][^ref-12] While Sierra is primarily remembered for pioneering graphical adventure games, titles like WizType demonstrate the company's broader ambitions in the home computer software market.[^ref-6][^ref-8]
-
-The game represents the convergence of several 1980s trends: the educational software boom, the practice of licensing popular media properties for games, and the multi-platform development approach that characterized the fragmented home computer market.[^ref-5][^ref-8] As a typing tutor, WizType competed with numerous similar products, but its use of familiar comic strip characters and game-like challenges helped distinguish it from more utilitarian alternatives.[^ref-1]
-
-From a historical perspective, WizType demonstrates how early educational software developers attempted to balance pedagogical goals with entertainment value—a challenge that would define the edutainment genre for decades to come.[^ref-2][^ref-5] While not revolutionary, the game executed its educational mission competently while providing memorable visual rewards and penalties that likely motivated young typists more effectively than dry skill drills.[^ref-6]
+WizType is one of Sierra's early edutainment titles, released in the same year as WizMath and listed among the Apple II's 1984 educational software.[^ref-6][^ref-8] COMPUTE! described a crowded typing-tutor market ("practically any respectable computer dealer can show you an entire shelf of such products") and rated WizType above most of it.[^ref-17] Both the 1984 review and the 2017 retrospective picked out the Paragraphs and Own Lesson options as its standout features.[^ref-5][^ref-17]
 
 ## Purchase
 
@@ -211,7 +158,7 @@ From a historical perspective, WizType demonstrates how early educational softwa
 - [Internet Archive – C64 Manual](https://archive.org/details/Wizard_of_Ids_Wiztype_1984_Sierra_On-Line)[^ref-10]
 
 **Manuals & Extras**
-- Documentation may be available through Sierra Gamers fan site[^ref-7]
+- Manual, Quick Reference card and box spine scans at Sierra Gamers[^ref-7]
 
 ## See Also
 
@@ -226,22 +173,25 @@ From a historical perspective, WizType demonstrates how early educational softwa
 
 ## References
 
-[^ref-1]: [Internet Archive – Wizard of Id's WizType DOS](https://archive.org/details/msdos_Wizard_of_Ids_WizType_1984) – release date, platforms, gameplay description, genre classification
-[^ref-2]: [MobyGames – Wizard of Id's WizType](https://www.mobygames.com/game/9299/wizard-of-ids-wiztype/) – developer credits, technical specifications, user ratings, cancelled ColecoVision version, comic strip creators
-[^ref-4]: [MyAbandonware – Wizard of Id's WizType](https://www.myabandonware.com/game/wizard-of-id-s-wiztype-3u6) – file sizes, platform versions, user ratings, abandonware status
-[^ref-5]: [Steemit – The Wizard of Id's WizType](https://steemit.com/retrocomputing/@darth-azrael/the-wizard-of-id-s-wiztype) – historical context, game features, gameplay description
-[^ref-6]: [Apple II Bits – Wizard of Id](https://www.apl2bits.net/2014/02/03/wizard-of-id/) – gameplay details, Evil Spirit and Bung sections, WizMath companion game, comic strip history
-[^ref-7]: [Sierra Gamers – Wizard of Id WizType](https://www.sierragamers.com/wizard-of-id-wiztype/) – designer credits, educational market context
-[^ref-8]: [Apple II History – 1984](https://www.apple2history.org/appendix/aha/aha84/) – Apple II software catalog, educational software context
+[^ref-1]: [Internet Archive – Wizard of Id's WizType DOS](https://archive.org/details/msdos_Wizard_of_Ids_WizType_1984) – release year, game description, DOS version preservation
+[^ref-2]: [MobyGames – Wizard of Id's WizType](https://www.mobygames.com/game/9299/wizard-of-ids-wiztype/) – developer/publisher, platforms, description, DOS credit (Frank Randak), user rating, Katakis user review (2011), cancelled ColecoVision/ADAM version, comic strip creators
+[^ref-4]: [MyAbandonware – Wizard of Id's WizType](https://www.myabandonware.com/game/wizard-of-id-s-wiztype-3u6) – user rating, preservation download
+[^ref-5]: [megalextoria – The Wizard of Id's WizType](http://www.megalextoria.com/wordpress/index.php/2017/05/30/the-wizard-of-ids-wiztype/) – 2017 retrospective: "one of the better such products out there"; Own Lesson and Paragraphs features
+[^ref-6]: [Apple II Bits – Wizard of Id](https://www.apl2bits.net/2014/02/03/wizard-of-id/) – the two 1984 Wizard of Id edutainment titles, Apple II education context
+[^ref-7]: [Sierra Gamers – Wizard of Id WizType](https://www.sierragamers.com/wizard-of-id-wiztype/) – designer credits; manual, Quick Reference and box spine downloads; CGW June 1984 product news
+[^ref-8]: [Apple II History – 1984](https://www.apple2history.org/appendix/aha/aha84/) – lists "Wiztype by Sierra OnLine; educational, typing tutor" among 1984 Apple II software
 [^ref-9]: [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Wizard_of_Ids_Wiztype_1984_Sierra_On_Line_US) – Atari version preservation
-[^ref-10]: [Internet Archive – C64 Manual](https://archive.org/details/Wizard_of_Ids_Wiztype_1984_Sierra_On-Line) – Commodore 64 documentation
-[^ref-11]: Wikidata – Wizard of Id's WizType *(link removed: it led to a different game's page)* – structured data, identifiers
-[^ref-12]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
+[^ref-10]: [Internet Archive – C64 Manual](https://archive.org/details/Wizard_of_Ids_Wiztype_1984_Sierra_On-Line) – Commodore 64 manual: design credits, modes, 20 levels, scoring, Magic Sentence, Bung as optional pacer, Own Lesson limits
+[^ref-13]: [Giant Bomb – Wizard of Id's WizType](https://www.giantbomb.com/wizard-of-ids-wiztype/3030-16784/) – developer Sydney Development Corp., publisher Sierra On-Line, platforms
 
-[^ref-13]: [Giant Bomb – Wizard of Id's WizType](https://www.giantbomb.com/wizard-of-ids-wiztype/3030-16784/) – Game database entry, platform details, genre classification
+[^ref-14]: [PixelatedArcade – Wizard of Id's WizType](https://pixelatedarcade.com/games/wizard-of-id-s-wiztype) – platforms: Apple II, Atari 8-bit, Commodore 64, IBM PC/Compatibles
 
-[^ref-14]: [PixelatedArcade – Wizard of Id's WizType](https://pixelatedarcade.com/games/wizard-of-id-s-wiztype) – Abandonware archive, game preservation, multi-platform documentation
+[^ref-16]: [Glitchwave – Wizard of Id's WizType](https://glitchwave.com/game/wizard-of-ids-wiztype/) – user rating (1.33/5, 2 ratings), DOS 5.25" floppy release
 
-[^ref-15]: [LaunchBox Games Database – Wizard of Id's WizType](https://gamesdb.launchbox-app.com/games/details/123987-the-wizard-of-ids-wiztype) – Game database with metadata, platform information
+[^ref-17]: [COMPUTE! Issue 54 (November 1984), p. 131 – Reviews: WizType](https://www.atarimagazines.com/compute/issue54/147_3_REVIEWS_WizType.php) – review by James V. Trunzo: platforms, 32K, $34.95, six options, eight literary works, 10–60 WPM, Wizard's jokes
 
-[^ref-16]: [Glitchwave – Wizard of Id's WizType](https://glitchwave.com/game/wizard-of-ids-wiztype/) – Video games database, reviews and ratings, user community assessment
+[^ref-18]: [Computer Gaming World, June 1984 – "Taking a Peek" (WizType product news, PDF via Sierra Gamers)](https://www.sierragamers.com/wp-content/uploads/2019/12/Wiztype_Product_NewsCGWJun84.pdf) – "There are six modes and twenty levels of play"
+
+[^ref-19]: [Wikipedia – The Wizard of Id](https://en.wikipedia.org/wiki/The_Wizard_of_Id) – strip by Brant Parker and Johnny Hart, first syndicated November 9, 1964; WizMath and WizType released 1984
+
+[^ref-20]: [Eli's Software Encyclopedia – WizType (Apple II, 5 1/4" Disk) Sierra – 1984 USA, Canada Release](https://elisoftware.org/wiki/WizType_(Apple_II,_5_1/4%22_Disk)_Sierra_-_1984_USA,_Canada_Release) – box text ("Six modes, 20 levels"), Apple II requires 48K RAM
