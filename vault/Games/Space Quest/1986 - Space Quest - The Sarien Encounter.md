@@ -10,14 +10,15 @@ series: Space Quest
 engine: AGI
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-12'
 description: 'Space Quest: Chapter I – The Sarien Encounter is a graphic adventure
-  game developed and published by Sierra On-Line, released in October 1986 for MS-DOS...'
+  game developed and published by Sierra On-Line, released in October 1986 for MS-DOS,
+  in which janitor Roger Wilco must stop the Sariens from using the stolen Star Generator.'
 tags: [1980s, adventure, agi, sierra, space-quest, two-guys]
 ---
 # Space Quest: The Sarien Encounter
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 Space Quest: Chapter I – The Sarien Encounter is a graphic adventure game developed and published by [[Sierra On-Line]], released in October 1986 for MS-DOS with subsequent ports to Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-5][^ref-14].
@@ -40,13 +41,13 @@ The game's combination of science fiction setting, sardonic humor, and frequent 
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
-Within the Earnon galaxy, Roger Wilco is a janitor aboard the scientific spaceship Arcada, which holds a powerful experimental device called the Star Generator[^ref-5][^ref-17]. Roger emerges from an on-duty nap in a broom closet to find the ship has been boarded and seized by the sinister Sariens, who have stolen the Star Generator—a device that could cause untold disaster in their hands[^ref-1][^ref-5][^ref-17].
+Within the Earnon galaxy, Roger Wilco is a janitor aboard the scientific spaceship Arcada, which holds a powerful experimental device called the Star Generator[^ref-1][^ref-5][^ref-17]. Roger emerges from an on-duty nap in a broom closet to find the ship has been boarded and seized by the sinister Sariens, who have stolen the Star Generator—a device that could cause untold disaster in their hands[^ref-1][^ref-5][^ref-17].
 
-Acquiring a keycard from a dead crew member's body, Roger flees the ship in an escape pod moments before the Arcada self-destructs[^ref-5]. The pod crash-lands on the planet Kerona, a dry, barren wasteland[^ref-5]. Roger defeats a spider-droid that the Sariens dispatched to eliminate him and is greeted by a mysterious figure in a cave system who offers help if he kills a monstrous creature called Orat[^ref-1][^ref-5].
+Acquiring a keycard from a dead crew member's body, Roger flees the ship in an escape pod moments before the Arcada self-destructs[^ref-1][^ref-5]. The pod crash-lands on the planet Kerona, a dry, barren wasteland[^ref-1][^ref-5]. Roger defeats a spider-droid that the Sariens dispatched to eliminate him and is greeted by a mysterious figure in a cave system who offers help if he kills a monstrous creature called Orat[^ref-1][^ref-5].
 
-After Roger succeeds in the task, the figure supplies him with a skimmer craft to help him reach the town of Ulence Flats, where he can find a new ship[^ref-1][^ref-5]. There, Roger gambles on slot machines in a cantina to acquire the money needed to buy a spaceship, along with a navigation droid to pilot it[^ref-5]. During this time, he learns from a bar customer the location of the Sariens' spaceship, the Deltaur[^ref-1][^ref-5].
+After Roger succeeds in the task, the figure supplies him with a skimmer craft to help him reach the town of Ulence Flats, where he can find a new ship[^ref-1][^ref-5]. There, Roger gambles on slot machines in a cantina to acquire the money needed to buy a spaceship, along with a navigation droid to pilot it[^ref-1][^ref-5]. During this time, he learns from a bar customer the location of the Sariens' spaceship, the Deltaur[^ref-1][^ref-5].
 
-Roger boards the Deltaur and secures a Sarien disguise[^ref-5]. He programs the Star Generator to self-destruct and escapes the ship just before it explodes[^ref-5]. At the end of the game, Roger's efforts are rewarded when he receives the Golden Mop as a token of eternal gratitude from the people of Xenon[^ref-1][^ref-5].
+Roger boards the Deltaur and secures a Sarien disguise[^ref-1][^ref-5]. He programs the Star Generator to self-destruct and escapes the ship just before it explodes[^ref-1][^ref-5]. At the end of the game, Roger's efforts are rewarded when he receives the Golden Mop as a token of eternal gratitude from the people of Xenon[^ref-1][^ref-5].
 
 ## Gameplay
 
@@ -60,9 +61,8 @@ Space Quest was created using Sierra's AGI engine and featured a pseudo-3D envir
 
 ### Structure and Progression
 - The game takes place across multiple locations: the Arcada spaceship, the desert planet Kerona, the town of Ulence Flats, and the Sarien ship Deltaur[^ref-5]
-- Players collect items and use them in correct situations or with specific characters[^ref-4]
+- Players collect items and use them in correct situations or with specific characters; virtually all of the game's puzzles are inventory-based[^ref-19]
 - The game awards points for most actions Roger performs, with a maximum of 202 points[^ref-7]
-- Some tasks have multiple solutions, though the game may grant fewer points for simpler solutions[^ref-7]
 
 ### Puzzles and Mechanics
 - The original AGI version used key disk protection, requiring insertion of the original floppy on startup[^ref-1][^ref-15]
@@ -81,12 +81,12 @@ Adventure Gamers called the game "undeniably flawed, yet undeniably fun" and "pe
 - **MobyGames:** 69% critics[^ref-14]
 - **GOG:** 4.3/5 (578 ratings, collection, as of Oct 2026)[^ref-8]
 - **Steam:** Very Positive, 85% of 335 reviews (collection, as of Oct 2026)[^ref-9]
-- **HowLongToBeat:** 3 hours main story[^ref-10]
+- **HowLongToBeat:** 3 hours main story (entry titled for the 1991 VGA remake, so times may not reflect this version)[^ref-10]
 
 ## Development
 
 ### Origins
-Mark Crowe and Scott Murphy teamed up while working on The Black Cauldron project at Sierra[^ref-3][^ref-11]. During that project, they discovered their shared love of science fiction and decided to develop a space adventure[^ref-11]. Crowe had joined Sierra's Art Department around 1983, designing packaging and documentation, before moving into computer graphics; Murphy had come up through Sierra's returns and customer-support desks and, wanting to be more creative, talked Ken Williams into letting him learn programming on The Black Cauldron[^ref-3][^ref-11][^ref-31].
+Mark Crowe and Scott Murphy teamed up while working on The Black Cauldron project at Sierra[^ref-3][^ref-11]. During that project, they found they were both "really into science fiction and space" and decided to develop a space adventure[^ref-11][^ref-31]. Crowe had joined Sierra's Art Department around 1983, designing packaging and documentation, before moving into computer graphics; Murphy had come up through Sierra's returns and customer-support desks and, wanting to be more creative, talked Ken Williams into letting him learn programming on The Black Cauldron[^ref-3][^ref-11][^ref-31].
 
 Other adventure games at Sierra featured noble heroes, but Crowe and Murphy wanted something different: "What if this guy was just your average Joe, forced into the hero role? He gets lucky sometimes, and does the right thing, but he's nobody special"[^ref-11]. The premise may have been inspired by Infocom's Planetfall, whose player-character is also a lowly crew member performing menial labor aboard a spaceship[^ref-6].
 
@@ -94,14 +94,13 @@ Crowe created four rooms of graphics and Murphy wrote the code to run them, esse
 
 Major influences included Stanley Kubrick's 2001: A Space Odyssey (Murphy said it "changed how I thought about a lot of things"), Ray Bradbury, Arthur C. Clarke, Rocky and Bullwinkle, Douglas Adams' Hitchhiker's Guide, Gary Larson's Far Side, and B. Kliban[^ref-21][^ref-22]. The "Two Guys from Andromeda" moniker came from two sources: Crowe was inspired by "Two Guys from Italy" restaurant chain, while Murphy drew from a department store name[^ref-22]. Ken Williams gave them latitude on parodies, reportedly telling them: "If you guys don't mind paying lawyers' fees, you can put whatever you want in your game"[^ref-21].
 
-The desert planet Kerona was named after the designers' favorite beer at the time[^ref-23]. Mark Crowe, the game's graphic artist, composed the original theme song[^ref-1][^ref-23]. A printing error on the original box had the film inserted backwards, mirroring the Sierra half-dome in the background. Scott Murphy: "There are only a few thousand of them out there. Collectors items, maybe?"[^ref-23]
+The desert planet Kerona was named after the designers' favorite beer at the time[^ref-23]. Mark Crowe, the game's graphic artist, is credited with composing the original theme song[^ref-23][^ref-30], although the Sierra Fandom wiki's credits list Al Lowe for music[^ref-5]. On one early box printing, the film was put in backwards, mirroring the Sierra half-dome in the background. Scott Murphy called it "that second box": "There are only a few thousand of them out there. Collectors items, maybe?"[^ref-23][^ref-30]
 
 ### Technical Achievements
 - Used Sierra's AGI (Adventure Game Interpreter) engine with 160×200 resolution and 16 colors[^ref-4][^ref-5]
 - Pseudo-3D environment allowing characters to move in front of and behind objects[^ref-5]
 - Sound through PC internal speaker; Tandy 1000, PCjr, and Amiga computers heard a three-voice soundtrack[^ref-1][^ref-4]
-- Apple IIgs version featured a fifteen-voice soundtrack with notably richer sound[^ref-1][^ref-28]
-- First Space Quest game to contain digitized voice in the form of the alarm system at the beginning[^ref-5]
+- Apple IIgs version featured a fifteen-voice soundtrack with notably richer sound[^ref-1]
 - The 1987 rerelease (version 2.2) adopted the pull-down menus of the updated 1987 AGI interpreter[^ref-5]
 - Released October 1986 for MS-DOS, with ports to Tandy 1000, PCjr, Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-5][^ref-14][^ref-17]
 - The Amiga version used an extended color palette compared to other platforms[^ref-17]
@@ -126,16 +125,16 @@ Data mining has revealed several cut elements from the game[^ref-18]:
 ## Trivia
 
 - The planet Kerona was named after the designers' favorite beer at the time—Corona[^ref-5][^ref-23]
-- Mark Crowe, the game's graphic artist, composed the original theme song[^ref-1][^ref-23]
-- A printing error on the original box inserted the film backwards, mirroring the Sierra half-dome in the background. Scott Murphy: "There are only a few thousand of them out there. Collectors items, maybe?"[^ref-23]
+- Mark Crowe, the game's graphic artist, is credited with composing the original theme song[^ref-23][^ref-30]; the Sierra Fandom wiki's credits instead list Al Lowe for music[^ref-5]
+- One early box printing ("that second box," per Scott Murphy) had the film put in backwards, mirroring the Sierra half-dome in the background. Murphy: "There are only a few thousand of them out there. Collectors items, maybe?"[^ref-23][^ref-30]
 - Mark Crowe said the "Two Guys" name was borrowed from "Two Guys from Italy," which he called an east coast pizza chain (Murphy remembered it as a local Italian restaurant chain)[^ref-30][^ref-22]
-- A Sarien guard near the Deltaur's elevators will eventually ask if you own King's Quest II. Hearing the question earns 1 point and answering "yes" earns 5 more. Murphy said Ken Williams programmed the gag himself while Murphy was staying at the Williams house to finish the game, and was reportedly unhappy that Ken awarded points for it[^ref-7][^ref-20][^ref-23]
-- Typing "holy shit" while playing the slot machine in version 2.2 makes beating it trivially easy—a debug mode that was accidentally left in[^ref-30][^ref-32]
+- A Sarien guard near the Deltaur's elevators will eventually ask if you own King's Quest II. Hearing the question earns 1 point and answering "yes" earns 5 more. Murphy said the King's Quest II reference was "all Ken Williams' doing"[^ref-7][^ref-23]
+- Typing "holy shit" while playing the slot machine in version 2.2 makes beating it trivially easy[^ref-30][^ref-32]. It brings up a menu that configures the next pull; its text exists in earlier versions, suggesting a debugging tool added back in due to player complaints[^ref-18]
 - Kicking a dead crew member on the Arcada costs you one point—though "who would do such a thing?"[^ref-30]
 - The code to disable the Star Generator (6858) matches the last four digits of Sierra's phone number from 1988: (209) 683-6858[^ref-30]
 - The ZZ Top aliens in the bar play "Sharp Dressed Man" from their 1983 album *Eliminator*, while the Blues Brothers play "Can't Turn You Loose"[^ref-30]
 - Typing "scott" in version 2.2 displays a personal message from Scott Murphy asking players to drop him a line at Sierra. Earlier versions show "Don't snivel!" instead[^ref-18]
-- A point-scoring bug allows players to reach 254 points (of 202): keep shooting Sariens until your score goes negative, then shoot one more[^ref-30]
+- A point-scoring bug allows players to reach 254 points (of 202): keep shooting Sariens (each costs points) until you have no points left, then shoot one more[^ref-30]
 - In version 1.0X, you can get 207 out of 202 points by typing "get kit" twice after the escape pod crash lands[^ref-30]
 - Murphy recalled fan mail from a computer club in Russia, where the games weren't sold and must have been smuggled in[^ref-11]
 
@@ -168,7 +167,7 @@ Data mining has revealed several cut elements from the game[^ref-18]:
 
 ## Legacy
 
-Space Quest spawned five sequels and a VGA remake[^ref-6]. The series became known for its satirical take on science fiction tropes, with references and parodies of works ranging from Star Trek to Star Wars[^ref-6]. The narrator became one of the most amusing elements, offering sarcastic commentary on Roger's every action[^ref-6].
+Space Quest spawned five sequels and a VGA remake[^ref-6]. The series became known for its satirical take on science fiction tropes, with references and parodies of works ranging from Star Trek to Star Wars[^ref-5]. The narrator became one of the most amusing elements, offering sarcastic commentary on Roger's every action[^ref-6].
 
 Starting around Space Quest III, the series became self-referential, featuring its real-life creators as captives to be rescued[^ref-6]. By March 1996, combined sales of the Space Quest series surpassed 1.2 million units[^ref-1].
 
@@ -198,7 +197,7 @@ This game has been included in the following collections:
 - [MobyGames – Space Quest I](https://www.mobygames.com/game/114/space-quest-chapter-i-the-sarien-encounter/) – covers, screenshots, credits[^ref-14]
 - [Wikipedia – Space Quest I](https://en.wikipedia.org/wiki/Space_Quest_I) – encyclopedia article[^ref-1]
 - [PCGamingWiki – Space Quest: The Sarien Encounter](https://www.pcgamingwiki.com/wiki/Space_Quest%3A_The_Sarien_Encounter) – technical fixes[^ref-15]
-- [HowLongToBeat – Space Quest I](https://howlongtobeat.com/game/8863) – completion times[^ref-10]
+- [HowLongToBeat – Space Quest I](https://howlongtobeat.com/game/8863) – completion times (entry titled for the VGA remake)[^ref-10]
 - [Sierra Help – Space Quest 1 AGI](https://sierrahelp.com/Games/SpaceQuest/SQ1AGIHelp.html) – patches, technical help[^ref-16]
 - [ScummVM Wiki – Space Quest](https://wiki.scummvm.org/index.php?title=Space_Quest) – engine compatibility[^ref-17]
 - [SpaceQuest.net – Space Quest 1](https://spacequest.net/sq1/) – game information, screenshots, soundtrack[^ref-4]
@@ -224,26 +223,21 @@ This game has been included in the following collections:
 [^ref-7]: [WiW – Space Quest Point List](https://wiw.org/~jess/sq1pts.html) – complete point list
 [^ref-8]: [GOG – Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) – purchase, user reviews
 [^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
-[^ref-10]: [HowLongToBeat – Space Quest I](https://howlongtobeat.com/game/8863) – completion times
+[^ref-10]: [HowLongToBeat – Space Quest I](https://howlongtobeat.com/game/8863) – completion times (entry titled "Space Quest I: Roger Wilco in The Sarien Encounter", the VGA remake)
 [^ref-11]: [WiW – Two Guys from Andromeda Interview](https://wiw.org/~jess/2guysint.html) – development history, design philosophy
-[^ref-12]: Internet Archive – Space Quest: The Sarien Encounter *(download link removed: the game is sold commercially)* – preservation, historical versions
-[^ref-13]: My Abandonware – Space Quest I *(download link removed: the game is sold commercially)* – platforms, availability
 [^ref-14]: [MobyGames – Space Quest I](https://www.mobygames.com/game/114/space-quest-chapter-i-the-sarien-encounter/) – Oct 1986; 69% critics; DOS/Amiga 1986, Atari ST/Mac/Apple II 1987; Sierra On-Line developer/publisher
 [^ref-15]: [PCGamingWiki – Space Quest: The Sarien Encounter](https://www.pcgamingwiki.com/wiki/Space_Quest%3A_The_Sarien_Encounter) – technical specs, fixes, copy protection (AGI uses CPC Copy Protection DRM, floppy disk check, manual lookup)
 [^ref-16]: [Sierra Help – Space Quest 1 AGI](https://sierrahelp.com/Games/SpaceQuest/SQ1AGIHelp.html) – patches, technical help
 [^ref-17]: [ScummVM Wiki – Space Quest (archived August 9, 2024)](https://web.archive.org/web/20240809115745/https://wiki.scummvm.org/index.php?title=Space_Quest) – platforms include MS-DOS, Tandy 1000, PCjr, Apple II, Apple IIgs, Amiga, Atari ST, Mac; AGI support since ScummVM 0.10.0; Amiga used extended palette
 [^ref-18]: [The Cutting Room Floor – Space Quest I (1986) (archived August 15, 2025)](https://web.archive.org/web/20250815115649/https://tcrf.net/Space_Quest:_Chapter_I_-_The_Sarien_Encounter_(1986)) – debug mode, unused graphics, cut items, version differences
 [^ref-19]: [Adventure Gamers – Space Quest I review, Dante Kleinberg, January 4, 2008 (archived)](http://web.archive.org/web/20120630134126/http://www.adventuregamers.com/articles/view/18113) – review, 3.5/5 stars, pros/cons
-[^ref-20]: [Space Quest Historian – 11 Things You Probably Didn't Know About Space Quest](https://www.youtube.com/watch?v=Hvux-A0oGiM) – Ken Williams easter egg, development trivia
 [^ref-21]: [Virtual Broomcloset – Mark Crowe Interview](https://www.wiw.org/~jess/markcrowe.html) – development origins, influences, Ken Williams quote on parodies
 [^ref-22]: [Virtual Broomcloset – Scott Murphy Interview](https://www.wiw.org/~jess/scott.html) – influences, Two Guys name origin, development history
 [^ref-23]: [Space Quest FAQ](https://wiw.org/~jess/sqfaq.html) – Kerona naming, theme song composer, box art error, removed easter eggs
 [^ref-24]: [Virtual Broomcloset – Publications Archive](https://wiw.org/~jess/publications.html) – manuals, hint books, pack-in feelies
-[^ref-25]: Sarien.net – Space Quest I (play link removed: game still sold) – JavaScript AGI interpreter, browser-based gameplay with multiplayer
 [^ref-26]: [SpaceQuest.net – Space Quest I Easter Eggs](https://spacequest.net/sq1/eastereggs/) – hidden content, "take leak" reward, meteor crash location
 [^ref-27]: [Retro Freak Reviews – Space Quest I DOS](https://retrofreakreviews.com/2017/02/08/space-quest-i-review/) – modern retrospective, recommends VGA remake over original
 [^ref-28]: [VGMPF Wiki – Apple IIGS](https://www.vgmpf.com/Wiki/index.php?title=Apple_IIGS) – Ensoniq 5503 DOC chip with 32 oscillators, 15 stereo independent voices
-[^ref-29]: [Sierra Fandom Wiki – King's Quest II](https://sierra.fandom.com/wiki/King%27s_Quest_II:_Romancing_the_Throne) – 1987 re-release added pull-down menus based on KQ3 AGI engine
 [^ref-30]: [SpaceQuest.net – Space Quest 1 Fun Facts](https://spacequest.net/sq1/funfacts/) – Two Guys name origin, theme song, Star Generator code, ZZ Top and Blues Brothers songs, point bugs
 [^ref-31]: [The Sierra Newsletter, Spring 1989 – "The Men Who Designed Space Quest 3" (Virtual Broomcloset transcription)](http://wiw.org/~jess/2guys_sq3.html) – Crowe and Murphy career backgrounds at Sierra
 [^ref-32]: [SpaceQuest.net – Space Quest 1 Cheats](https://spacequest.net/sq1/cheats/) – slot machine "holy shit" cheat (version 2.2 only)
