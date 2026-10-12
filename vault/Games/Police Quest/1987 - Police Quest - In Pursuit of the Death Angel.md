@@ -156,7 +156,7 @@ As one modern reviewer observed, "Police Quest represents an interesting experim
 ## References
 
 [^ref-1]: [The Games Machine #4 (March 1988) – Internet Archive](https://archive.org/details/TheGamesMachineIssue04Mar88) — Police Quest review: "large adventure with more than one solution"; Atmosphere 89%, Interaction 93%, Overall 92%
-[^ref-3]: [Nostalgia Trigger – Police Quest Retrospective](https://web.archive.org/web/20250730193348/https://nostalgiatrigger.com/2017/04/17/retrospectives-part-1-police-quest-in-pursuit-of-the-death-angel-1987/) — Driving difficulty, "a crash is an instant Game Over" (archived; live page now 404)
+[^ref-3]: Nostalgia Trigger – Police Quest Retrospective (Wayback, 2025; link omitted: the page offers browser play of the still-sold game) — Driving difficulty, "a crash is an instant Game Over" (archived; live page now 404)
 [^ref-6]: [The Digital Antiquarian – Police Quest Series](https://www.filfre.net/tag/police-quest/) — Walls departure and series direction change
 [^ref-7]: [Alex Bevi – Police Quest Review](https://alexbevi.com/blog/2022/03/15/police-quest-1/) — 67% retrospective rating (played the DOS SCI remake), training tool discussion
 [^ref-8]: [Internet Archive – Police Quest Collection Manual](https://archive.org/details/Police_Quest_Collection_-_Manual) — Original manual documentation
