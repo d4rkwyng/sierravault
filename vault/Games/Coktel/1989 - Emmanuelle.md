@@ -8,224 +8,205 @@ genre: Adventure
 platforms: [DOS, Amiga, Atari ST]
 series: Emmanuelle (loosely)
 engine: Proprietary (Coktel Vision)
-protagonist: Marc (unnamed in-game)
+protagonist: Marc
 sierra_lineage: Sierra Published
-last_updated: '2026-10-09'
+last_updated: '2026-10-11'
 composer: [François Peirano]
 description: 'Emmanuelle: A Game of Eroticism is an adult adventure game developed
-  by Coktel Vision and published by Tomahawk in 1989. The game is loosely based on
-  the...'
+  by Coktel Vision and published in 1989 under its Tomahawk label, loosely based
+  on the Emmanuelle novels. It predates Sierra''s 1993 acquisition of Coktel Vision.'
 tags: [1980s, adventure, emmanuelle-loosely, sierra]
 ---
 # Emmanuelle: A Game of Eroticism
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-Emmanuelle: A Game of Eroticism is an adult adventure game developed by [[Coktel Vision]] and published by Tomahawk in 1989.[^ref-1] The game is loosely based on the iconic French erotic novel *Emmanuelle*, originally published in 1959 by Emmanuelle Arsan (the pen name of Marayat Rollet-Andriane).[^ref-2] As one of the earliest attempts to bring erotic content to computer gaming, the title represents a fascinating cultural artifact that demonstrates how developers attempted to explore adult themes within the severe technical limitations of late 1980s hardware.[^ref-3]
+Emmanuelle: A Game of Eroticism is an adult adventure game developed by [[Coktel Vision]] and published by Tomahawk in 1989.[^ref-1] Tomahawk was not a separate company but a label Coktel Vision used for its erotic and simulation titles, to keep them apart from its educational software.[^ref-29][^ref-30] The game was released about four years before Sierra On-Line bought Coktel Vision on 29 October 1993; Sierra had no part in publishing it.[^ref-7][^ref-29] It is loosely based on the French erotic novel *Emmanuelle*, first circulated anonymously in 1959 and later published under the pen name Emmanuelle Arsan.[^ref-28]
 
-The game places players in the role of a lovestruck young man desperately pursuing the titular Emmanuelle across the exotic locales of Rio de Janeiro, Brazil.[^ref-4] Rather than playing as Emmanuelle herself, the protagonist must increase his "erotic potential" by following the mysterious "three laws of eroticism" to ultimately win her affections. The gameplay combines point-and-click adventure elements with multiple-choice dialogue sequences, casino gambling, and fights with angry husbands and smugglers.[^ref-2]
+Players take the role of a young man pursuing Emmanuelle across Brazil.[^ref-4][^ref-2] Rather than playing as Emmanuelle herself, the protagonist must increase his "erotic potential" by following the "three laws of eroticism" in order to win her over. The gameplay combines point-and-click adventure elements with multiple-choice dialogue, casino gambling, and fights with angry husbands and smugglers.[^ref-2]
 
-As gaming historian Jimmy Maher noted, Emmanuelle represents one of Coktel Vision's "indelibly (stereotypically?) French creations," reflecting the company's distinctive cultural and artistic sensibilities.[^ref-7] While the game received mixed contemporary reviews and is generally considered poorly designed by modern standards, it has achieved a certain notoriety among retro gaming enthusiasts for its awkward charm, unintentionally humorous dialogue, and historical significance as an early erotic adventure title.[^ref-3]
+Writing about Sierra's 1993 purchase of the company, historian Jimmy Maher listed Emmanuelle among Coktel Vision's "indelibly (stereotypically?) French creations."[^ref-7] The game drew mixed contemporary reviews and is generally regarded as poorly designed today, but it remains a curiosity among retro adventure players.[^ref-2][^ref-9]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]], Inférence, MDO[^ref-1]
-> **Designer:** [[Muriel Tramis]], Alain Bessard
-> **Publisher:** [[Tomahawk]] (DOS), Coktel Vision (Amiga/Atari ST)[^ref-1]
-> **Engine:** Custom
+> **Designer:** [[Muriel Tramis]], Alain Bessard[^ref-1]
+> **Publisher:** [[Tomahawk]] (Coktel Vision's label; European DOS, Amiga and Atari ST releases), Coktel Vision (US Amiga release)[^ref-1]
+> **Engine:** Proprietary (Coktel Vision)
 > **Platforms:** MS-DOS, Amiga, Atari ST[^ref-1]
 > **Release Year:** 1989
 > **Series:** Emmanuelle (loosely connected trilogy)
-> **Protagonist:** Marc (unnamed protagonist)
-> **Sierra Lineage:** Later Sierra Acquisition (Coktel Vision acquired 1993)
+> **Protagonist:** Marc[^ref-2]
+> **Sierra Lineage:** Later Sierra Acquisition (Coktel Vision acquired by Sierra on 29 October 1993; this game was published before that by Coktel/Tomahawk)
 
 ## Story Summary
 
-The game opens with the protagonist arriving in Rio de Janeiro, captivated by the city's well-known atmosphere. As the game manual describes: "Rio, its beaches, its women, its carnival, its potent eroticism!"[^ref-8] The player's character has become obsessed with a woman named Emmanuelle and must track her down before she returns to Europe, hoping to board the same flight and win her love.[^ref-4]
+In the game's backstory, Emmanuelle is the wife of a French businessman who is constantly away travelling. She takes a lover, Marc, but then has second thoughts because she still loves her husband, and leaves for Rio de Janeiro; Marc follows her there.[^ref-2][^ref-31] The manual's introduction sets the scene: "Rio, its beaches, its women, its carnival, its potent eroticism!" The narrator must find Emmanuelle and get on the plane with her when she flies back to Europe.[^ref-8]
 
-To attract Emmanuelle's attention, the protagonist must seek out a mentor named Mario, who will teach him the mysterious "three laws of eroticism."[^ref-8] The game's core objective involves locating Mario somewhere in the vast Brazilian landscape—a task complicated by the fact that his location changes with each playthrough due to the game's randomized elements.[^ref-9] Once found, Mario instructs the player on how to increase their "erotic potential" meter to the required threshold.
+To attract Emmanuelle's attention, the protagonist must seek out a mentor named Mario, who will teach him the "three laws of eroticism."[^ref-8] Finding Mario is the game's first obstacle, because his location changes each time you play.[^ref-9] Once found, Mario explains how to raise the "erotic potential" meter to the required level.[^ref-22]
 
-The protagonist must collect three erotic statuettes scattered across various glamorous locations in South America.[^ref-10] With these artifacts in hand, the player must fulfill the three laws of eroticism by engaging in romantic encounters with specific women throughout the game world.[^ref-11] Along the way, the player gambles at a casino to raise money for flight tickets and may end up fighting angry husbands and smugglers.[^ref-2]
+The protagonist must also collect three erotic statuettes at locations around Brazil.[^ref-10] With these in hand, he applies the three laws by seducing particular women in the game world.[^ref-11] Along the way he gambles at a casino to raise money for flight tickets and may end up fighting angry husbands and smugglers.[^ref-2]
 
-The ultimate goal is to raise the erotic potential meter to at least 75 points, then locate Emmanuelle at the airport before her departure.[^ref-11] As the game guide cryptically warns: "Be warned; what's easily gained is easily lost."[^ref-1] The ending reveals whether the protagonist's efforts have been successful in capturing Emmanuelle's heart, with the game providing "a truly dreadful animation sequence" upon completion.[^ref-12]
+The goal is to raise the erotic potential meter to at least 75 points and then find Emmanuelle at an airport.[^ref-11] As jimfish's GameFAQs guide warns: "Be warned; what's easily gained is easily lost."[^ref-22] Sleeping with the wrong woman lowers the meter and can cost the player items, including statues.[^ref-22]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Emmanuelle employs a simplified one-click-does-all control scheme that was characteristic of early Coktel Vision adventures.[^ref-9] The player interacts with the game world by clicking on objects and characters, with context-sensitive actions determined automatically by the game engine. However, the DOS version notably lacks mouse support entirely, despite being designed as a point-and-click adventure—a significant oversight that forces players to navigate using keyboard controls.
+Emmanuelle uses a one-click-does-all control scheme, like Coktel Vision's other early adventures: the player clicks features on a static screen to visit a location, talk to people or buy things, rather than directing a walking character.[^ref-9] The DOS version has no mouse support despite being a point-and-click design.[^ref-2]
 
-The game features a first-person perspective throughout most locations.[^ref-13] Much of the gameplay involves using multiple-choice dialogue options to produce correct outcomes in conversations, making careful selection of responses crucial to progression.[^ref-2] The interface provides no context boxes or descriptive text when hovering over objects, leading to what reviewers describe as "blind clicking with no context descriptions."[^ref-9]
+The game uses a first-person perspective.[^ref-1] Much of the play consists of choosing lines in multiple-choice dialogues, where the right choices advance the game.[^ref-2] Nothing labels what a click will do; as jimfish puts it, "it's a blind click; there's no helpful context box".[^ref-9]
 
 ### Structure and Progression
 
-The game takes place across several locations in and around Rio de Janeiro, including:
+The game moves between cities in Brazil, including Rio de Janeiro, Salvador, Manaus and Iguaçu, travelling by plane from each city's airport.[^ref-11] Recurring locations include:
 
-- **The Hotel:** The player's home base, where they can rest, find the barman for tips, and encounter various characters[^ref-1]
-- **The Beach:** A prime location for meeting women and increasing erotic potential[^ref-4]
-- **The Casino:** Features gambling minigames that reviewers noted were among the only "titillating" sequences
-- **The Opera House:** Site of random encounters with other characters[^ref-9]
-- **The Airport:** The final location where Emmanuelle must be found[^ref-11]
+- **The Hotel:** The hub in each city, where the bellhop sends the player to other locations; in Salvador, Nancy at the hotel bar can sell the secret of Mario's whereabouts[^ref-11][^ref-22]
+- **The Beach:** In Rio, the beach leads to the first statuette[^ref-12]
+- **The Casino:** Gambling sub-game for raising money[^ref-2]
+- **The Opera House:** In Manaus; an important event happens there only on a rare, random visit[^ref-9][^ref-11]
+- **The Airport:** Used to travel between cities, and where Emmanuelle must finally be found[^ref-11]
 
-Progression is non-linear and heavily dependent on random elements. The game allows for multiple paths to completion—it's "entirely possible to beat the game by obtaining only one statue, and sleeping with only one woman."[^ref-11] However, writing a comprehensive strategy is difficult "as it's an unusual game, with a lot of random elements that can ruin your playthrough on one attempt, but succeed on another."[^ref-11]
+Progression is non-linear and heavily dependent on random elements. It is "entirely possible to beat the game by obtaining only one statue, and sleeping with only one woman."[^ref-11] Writing a walkthrough is hard "as it's an unusual game, with a lot of random elements that can ruin your playthrough on one attempt, but succeed on another."[^ref-11]
 
 ### Puzzles and Mechanics
 
-The puzzle design in Emmanuelle deviates significantly from traditional adventure game conventions. As StrategyWiki notes, "The puzzles are not based on an internal 'logic', and there are no leads or clues"—instead, "the game relies mostly on pixel-hunting, luck and experimentation and trying to be at the right place on the right moment."[^ref-4]
+The puzzle design deviates from adventure game conventions. StrategyWiki notes: "The puzzles are not based on an internal 'logic', and there are no leads or clues"; instead "the game relies mostly on pixel-hunting, luck and experimentation and trying to be at the right place on the right moment."[^ref-4]
 
 Key gameplay mechanics include:
 
-- **Erotic Potential Meter:** A numerical gauge that must reach 75+ to complete the game[^ref-1]
-- **Statuette Collection:** Three erotic statues must be gathered from various locations[^ref-11]
-- **Combat System:** Physical confrontations occur with rivals; a helicopter pickup provides "extra strength in fights" though it "serves no use at all" otherwise[^ref-12]
-- **Casino Gambling:** Minigames for earning money and items
+- **Erotic Potential Meter:** Must reach at least 75 (the manual gives 75 to 100) to have a chance with Emmanuelle[^ref-22]
+- **Statuette Collection:** Three erotic statuettes can be collected at various locations[^ref-10][^ref-11]
+- **Fights:** Action sequences against rivals; a helicopter pickup "serves no use at all (other than giving you extra strength in fights)"[^ref-12]
+- **Casino Gambling:** Mini-game for earning money[^ref-2]
 - **Dialogue Trees:** Multiple-choice conversations where correct answers advance the plot[^ref-2]
 
-The game notably lacks any save functionality, requiring completion in a single sitting.[^ref-9] This design choice, combined with the random elements and obtuse puzzle solutions, contributed significantly to the game's notorious difficulty and frustration factor.
+The game has no save function, so it must be completed in one sitting.[^ref-9] jimfish sees this, along with the random elements, as the main reason for the game's poor reputation.[^ref-9]
 
 ## Reception
 
 ### Contemporary Reviews
 
-Emmanuelle received mixed to negative reviews upon release, with critics divided on its merits as both an adventure game and an erotic experience. 
+Emmanuelle received mixed to negative reviews on release.
 
-Carsten Borgmeier writing for German magazine ST-Computer in February 1989 "praised the game's graphics, but criticized the lack of sounds and the ease of the puzzles." The review noted the visual quality while lamenting the audio limitations common to the era.
+Carsten Borgmeier reviewed the Atari ST version for the German magazine *ST-Computer* in February 1989. He called the graphics a feast for the eyes, but found the puzzles too obvious and the sound weak: only a short digitised title tune and a few sound effects.[^ref-31][^ref-2]
 
-PC Power Play was considerably harsher in their February 1989 assessment, stating "the game was boring and only titillating in the casino sequences" while criticizing the "poor graphics and lack of sound." The publication later gave the game a dubious honor in their November 1990 issue, awarding Emmanuelle "The Dumbest Dialogues" prize in their "Awful 10" feature.
-
-Contemporary DOS reviews noted significant technical issues, with one summarizing the audio situation as "Sound definitiv nicht vorhanden" (sound definitely not present).[^ref-8]
+The German magazine *Power Play* was harsher in its February 1989 review. According to Wikipedia's summary, it found the game boring, titillating only in the casino sequences, and criticised its poor graphics and lack of sound.[^ref-2] In its November 1990 issue, *Power Play* gave Emmanuelle "The Dumbest Dialogues" award in its "The Awful 10" feature.[^ref-1][^ref-2]
 
 ### Modern Assessment
 
-Modern retrospectives tend to view Emmanuelle as a curious historical artifact rather than a quality gaming experience. Abandonware DOS describes it as "less about eroticism and more about awkward curiosity... a slow, text-heavy experience filled with suggestion, innuendo, and an interface that demands patience. The pacing is glacial, the interactions strange, and the payoff… debatable."[^ref-3] The site notes that it's "not titillating by modern standards, but it is unintentionally funny and undeniably odd."[^ref-3]
-
-Home of the Underdogs gave the game a particularly damning assessment, recommending it "only if you're a masochist, or someone who simply must play every game with mature content."[^ref-14] They noted that "any erotic element in the game is reduced to abstract numbers and gauges and sexual innuendos in the (awfully translated dialogues)."[^ref-14]
-
-GameFAQs walkthrough author jimfish offered a nuanced perspective: "Emmanuelle is a bad game. Ask anybody who's played it. But, like Stockholm Syndrome, the more time you commit to trying to understand it, the more sympathetic you are towards it."[^ref-9][^ref-27]
+Modern retrospectives tend to treat Emmanuelle as a historical curiosity. GameFAQs guide author jimfish wrote: "Emmanuelle is a bad game. Ask anybody who's played it. But, like Stockholm Syndrome, the more time you commit to trying to understand it, the more sympathetic you are towards it."[^ref-9] GamesNostalgia was kinder about its presentation, finding that "the game's graphics are beautiful and rich in atmosphere," though "the music is completely absent."[^ref-16]
 
 **Aggregate Scores:**
 - **MobyGames Critics:** 55% (9 reviews)[^ref-1]
 - **MobyGames Players:** 2.0/5 (38 votes)[^ref-1]
-- **Abandonware DOS:** 3.95/5 (121 votes)[^ref-3]
-- **Lemon Amiga:** 5.3/10[^ref-12]
+- **Lemon Amiga:** 5.25/10[^ref-12]
 - **OldGames.sk:** 30%[^ref-15]
 - **GamesNostalgia:** 60/100[^ref-16]
-- **Emuparadise:** 4.44/5 (Amiga version)[^ref-17]
 
 ## Development
 
 ### Origins
 
-Emmanuelle: A Game of Eroticism emerged from French developer Coktel Vision, a company that had been operating since 1985.[^ref-7] The game was licensed from the autobiography of Marayat Rollet-Andriane, who wrote under the pseudonym Emmanuelle Arsan.[^ref-1] The original novel *Emmanuelle* was published in 1959, though it was initially released without crediting the author due to its explicit sexual content—the real author was later revealed to be Louis-Jacques Rollet-Andriane, though initially credited to his wife Marayat.[^ref-8]
+Emmanuelle was made by the French developer Coktel Vision, which had been operating since 1985.[^ref-7] MobyGames describes it as licensed from an autobiography of Marayat Rollet-Andriane;[^ref-1] GamesNostalgia notes that it was officially licensed from the book rather than the film.[^ref-16] The novel *Emmanuelle* first circulated clandestinely in France in 1959 without an author's name. Later editions carried the pen name Emmanuelle Arsan, which was revealed to be Marayat Rollet-Andriane, though it was later claimed that her husband Louis-Jacques Rollet-Andriane actually wrote it.[^ref-28][^ref-8]
 
-The source material had achieved international notoriety through the 1974 film adaptation starring Sylvia Kristel, which reportedly was watched by 300 million people worldwide.[^ref-8] GamesNostalgia notes that the game was "officially licensed from the book" rather than the film adaptation, though it inevitably drew on the cultural cachet of both.[^ref-16]
+The novel became internationally known through the 1974 film adaptation starring Sylvia Kristel, which the Adventure Gamer blog says was watched by around 300 million people.[^ref-8]
 
 ### Production
 
-The game was designed by [[Muriel Tramis]], who would later become known as "the French Roberta Williams" for her work on the Gobliiins series, Fascination, and Lost in Time.[^ref-8] Tramis has been remarkably candid about the development process, freely admitting "that the company really had no clue what they were doing back in the day, and were simply making up the rules as they went along."[^ref-9]
+The game was designed by [[Muriel Tramis]], later known as "the French Roberta Williams."[^ref-8] She went on to make the *Gobliiins* games, *Fascination* and *Lost in Time*.[^ref-2] In a 2018 interview, Tramis said the erotic games were her own idea: "It was my own idea. I found that video games had been until then too much just a matter of men." She added: "The only condition on my publisher's part was that they had to appear under another brand: Tomahawk."[^ref-30] jimfish's GameFAQs guide adds that Tramis freely admits the early Coktel team had no clear idea what it was doing and was making up the rules as it went.[^ref-9]
 
-The project involved collaboration between multiple studios—MobyGames credits development work to Coktel Vision, MDO, and Inférence.[^ref-1] The game represents one of Tramis's early efforts at adventure gaming with mildly erotic themes, predating her work on similar titles.[^ref-8]
+MobyGames credits development to Coktel Vision, MDO and Inférence.[^ref-1] Emmanuelle was the first of three erotic games Tramis designed, followed by *Geisha* (1990) and *Fascination* (1991).[^ref-9]
 
-**Development Credits:**[^ref-1][^ref-18]
-- **Designer:** Muriel Tramis
-- **Designer:** Alain Bessard
-- **Designer:** Kaki Chapouillié
-- **Composer:** François Peirano
+**Development Credits (DOS version):**[^ref-1]
+- **Scenario and Texts:** Muriel Tramis, Alain Bessard
+- **Graphics:** Kaki Chapoullié, Yannick Chosse, Antoine
+- **Music:** François Peirano
+- **Programming:** Inférence, MDO
+- **Production:** Muriel Tramis
 
 ### Technical Achievements
 
-Despite its gameplay shortcomings, Emmanuelle featured notable visual presentation for its era. The Amiga version utilized the full 32-color palette, unlike many cross-platform games of the period that compromised visual quality for easier porting.[^ref-16] The color palette focused primarily on "blue, sand, and dark red tones" to evoke the Brazilian beach setting.[^ref-16]
+GamesNostalgia says the Amiga version uses all 32 of the Amiga's colours, then drops to 16 for the ST and DOS versions, with a palette focused on "blue, sand, and dark red."[^ref-16] Wikipedia, citing Theodor Lauppert's 2007 page, instead says the Amiga and ST versions both use 16 colours.[^ref-2]
 
-GamesNostalgia observed that despite other flaws, "the game's graphics are beautiful and rich in atmosphere."[^ref-16] The game was considered "slightly erotic, but not pornographic" with no hardcore scenes present.[^ref-18]
+The game is "slightly erotic, but not pornographic"[^ref-18] and has no hardcore scenes.[^ref-2] ST-Computer noted that the game fades away whenever things become explicit.[^ref-31]
 
 ### Technical Specifications
 
-**DOS Version:**[^ref-19]
-- **Video Modes:** CGA, EGA, Monochrome graphics
-- **Resolution:** 640x400 (title screen)[^ref-20]
-- **Minimum CPU:** Intel 80286
-- **Minimum RAM:** 512 KB
-- **Minimum OS:** DOS 6.22
-- **Input:** Keyboard only (no mouse support)
-- **Audio:** PC Speaker beeps only (no music)
-- **Media:** 3.5" DD (720kB) or 5.25" floppy disk[^ref-21]
+**DOS Version:**
+- **Video Modes:** CGA, EGA[^ref-1], monochrome[^ref-2]
+- **Minimum CPU:** Intel 80286[^ref-1][^ref-19]
+- **Minimum RAM:** 512 KB[^ref-1][^ref-19]
+- **Input:** Keyboard only (no mouse support)[^ref-1][^ref-2]
+- **Audio:** PC speaker[^ref-1]
+- **Media:** 3.5" DD (720kB)[^ref-21] or 5.25" floppy disk[^ref-1]
 - **File Size:** ~294 KB[^ref-18]
 
-**Amiga Version:**[^ref-16]
-- **Colors:** 32 colors (full palette)
-- **Audio:** Sound and music present
-- **Input:** Mouse supported
-- **File Size:** ~1 MB[^ref-13]
+**Amiga Version:**
+- **Colors:** 32 per GamesNostalgia[^ref-16]; 16 per Wikipedia[^ref-2]
+- **Audio:** No music, per GamesNostalgia[^ref-16]
 
 **Atari ST Version:**
-- **Colors:** 16 colors
-- **Audio:** Limited sound
-- **File Size:** ~401 KB[^ref-13]
+- **Colors:** 16[^ref-2]
+- **Audio:** A short digitised title tune and a few sound effects[^ref-31]
+- **Input:** Mouse[^ref-31]
 
 ### Technical Issues
 
-The DOS version suffers from several significant technical problems that make it particularly challenging to play:
+The DOS version has several problems that make it hard to play today:
 
-- **No Mouse Support:** Despite being designed as a point-and-click adventure, the DOS version provides no mouse functionality whatsoever
-- **Speed Issues:** The game "runs extremely fast requiring timing tricks to select dialogue options" on modern systems[^ref-8]
-- **No Sound:** The DOS version features "no music... only beeps at most"[^ref-8]
-- **No Save Function:** Players cannot save progress and must complete the game in one sitting[^ref-9]
+- **No Mouse Support:** The DOS version can only be played with the keyboard[^ref-2]
+- **Speed:** Players running it in DOSBox found the dialogue options cycling too fast to choose reliably, and slowed the emulator's CPU cycles to cope[^ref-8]
+- **Sound:** One commenter on the Adventure Gamer blog "Never heard any music, at most some beeps" in the DOS version[^ref-8]
+- **No Save Function:** Progress cannot be saved, so the game must be completed in one sitting[^ref-9]
 
-Additionally, reviewers have identified potential bugs in the game logic. One notable issue involves the character Nancy, who "may not reveal Mario's location even after payment"—this appears to be a programming bug affecting all known releases.[^ref-22]
+The GameFAQs guide also warns that Nancy, who sells the secret of Mario's room, might not reveal it even after the player pays her.[^ref-22]
 
 ### Easter Eggs and Trivia
 
-The game contains several memorable moments that have become part of its cult reputation:
-
-- **Keyhole Scene:** Marc might catch Emmanuelle disrobing by looking through a keyhole, but "more often sees only an old gentleman washing his feet"
-- **Dumbest Dialogues Award:** PC Power Play's November 1990 issue awarded Emmanuelle "The Dumbest Dialogues" in their "Awful 10" feature, cementing its reputation for poor writing[^ref-1]
+- **Keyhole Scene:** Looking through a certain keyhole, Marc may catch Emmanuelle undressing, but more often he sees only an old gentleman washing his feet[^ref-2]
+- **Dumbest Dialogues Award:** *Power Play*'s November 1990 issue gave Emmanuelle "The Dumbest Dialogues" in its "The Awful 10" feature[^ref-1]
 - **Useless Helicopter:** The helicopter pickup "serves no use at all (other than giving you extra strength in fights)"[^ref-12]
+- **An unrelated earlier Emmanuelle game:** In 1983 the American director Alan Roberts planned "The Rescue of Emmanuelle", an Atari 2600 game. It had nothing to do with Coktel Vision or Tramis and was never released. Roberts described it as a "climbing game...tak[ing] place on the Eiffel Tower...where one has to rescue Emmanuelle," adding: "The hardest part in designing the game is that the tower doesn't fit well in the TV screen. We're working on a scrolling system." The quotes come from *Videogaming & Computergaming Illustrated*, October 1983, as reproduced in jimfish's guide.[^ref-9]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1989 | Amiga | Initial release with full 32 colors[^ref-16] |
-| 1.0 | 1989 | Atari ST | 16 color version |
-| 1.0 | 1989 | DOS | EGA/CGA version, no mouse support[^ref-3] |
-| 1.2 | Unknown | Amiga | Updated version available on preservation sites[^ref-16] |
+| Original | 1989 | DOS | CGA/EGA/monochrome, keyboard only; Tomahawk (France, Germany, Spain)[^ref-1][^ref-2] |
+| Original | 1989 | Amiga | Tomahawk (France, Germany); Coktel Vision (US)[^ref-1] |
+| Original | 1989 | Atari ST | Tomahawk (France)[^ref-1] |
+
+MobyGames' DOS credits carry a "Copyright © 1988 by CVS" notice, and ST-Computer reviewed the game in its February 1989 issue, so the first release may date from late 1988.[^ref-1][^ref-31]
 
 ### Cut Content
 
-While no specific cut content has been documented, the game's designer Muriel Tramis has discussed unreleased related projects. Efforts to create a 30th anniversary remake of her earlier game Méwilo failed, and "plans to remake Emmanuelle also stalled."[^ref-9] Industry figure Alan Roberts once described an unreleased Emmanuelle-related project—a "climbing game...tak[ing] place on the Eiffel Tower...where one has to rescue Emmanuelle, the rewards being that, if you are skillful enough to save her, she is going to thank you, bestow her kindness on you."[^ref-9] Roberts noted "the hardest part in designing the game is that the tower doesn't fit well in the TV screen. We're working on a scrolling system."[^ref-9]
+No cut content has been documented. Tramis's crowdfunding attempt for a 30th-anniversary remake of her earlier game *Méwilo* failed, and "the project stalled, along with Tramis' hopes of remaking other Coktel games, including Emmanuelle."[^ref-9] In her 2018 interview she still mentioned planning "remakes of Emmanuelle, Geisha, Fascination and Lost In Time".[^ref-30]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-No specific sales figures have been documented for Emmanuelle, though the game's availability across three major platforms (DOS, Amiga, Atari ST) and release in multiple regions including France, Germany, and Spain suggests reasonable commercial distribution for its era.[^ref-13] The game was published under the Tomahawk label for most territories, with Coktel Vision handling some regional releases directly.[^ref-1]
+No sales figures have been documented for Emmanuelle. It was released on three platforms and in several countries, including France, Germany, Spain and, for the Amiga version, the United States.[^ref-1] Tomahawk published the European releases and Coktel Vision the US Amiga release.[^ref-1]
 
 ### Collections
 
-Emmanuelle has not appeared in any known official compilation releases. The game's adult content likely precluded its inclusion in Coktel Vision retrospectives, and it was notably absent from Sierra's catalog after their 1993 acquisition of Coktel Vision.[^ref-7]
+No official compilation release of Emmanuelle has been found.
 
 ### Fan Projects
 
-No significant fan remakes or modifications have been documented for Emmanuelle. The game exists primarily in its original form on abandonware and preservation sites.
+No significant fan remakes or modifications have been documented for Emmanuelle.
 
 ### Related Publications
 
-- **Game Manual:** Included with original release, contains essential story exposition not explained in-game including the explanation of the "three laws of eroticism" and Mario's role[^ref-22]
+- **Game Manual:** Included with the original release. It holds story exposition the game itself never gives, including the premise of finding Mario and the "three laws of eroticism"[^ref-22]
 
 ### Critical Perspective
 
-Emmanuelle occupies an unusual position in adventure gaming history as one of the first serious attempts to create an erotic computer game by a legitimate publisher. While the execution was deeply flawed—hampered by primitive technology, obtuse game design, and poor localization—the game represents an important stepping stone in the development of adult-oriented interactive entertainment.[^ref-3]
+Emmanuelle was a Coktel Vision production, released under the company's Tomahawk label in 1989, four years before Sierra acquired Coktel.[^ref-29][^ref-7] Tramis said she wanted to bring "feminine desires and fantasies" into a medium that had been "too much just a matter of men," and contrasted her approach with the *Leisure Suit Larry* games, which she found "a little vulgar."[^ref-30] Whatever its intentions, the game's design is widely judged frustrating. jimfish still calls Coktel's early titles "legitimate creative attempts in an emerging medium," and notes that the company's later games came to resemble those of "Sierra On-Line, their eventual parent company."[^ref-9]
 
-The game is best understood as "a cultural artifact, showing how developers tried to explore adult themes within severe technical limits."[^ref-3] Designer Muriel Tramis would go on to far greater success with the Gobliiins series and other Coktel Vision adventures, demonstrating that the studio learned from their early experiments.[^ref-8] Emmanuelle was the first in what became "a loose trilogy of unconnected erotic games by Muriel Tramis," followed by Geisha (1990) and Fascination (1991).[^ref-9]
-
-Modern players typically approach the game "more out of historical interest than enjoyment—and that's probably how it should be approached."[^ref-3] As one retrospective noted: "There are some video games which you will never forget. Emmanuelle: A Game of Eroticism is one of them."[^ref-1]
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
-- [Steam](https://store.steampowered.com/search/?term=Emmanuelle%3A+A+Game+of+Eroticism) – Available for purchase
+Emmanuelle was the first in "a loose trilogy of unconnected erotic games designed by Muriel Tramis, followed by Geisha (1990) and Fascination (1991)."[^ref-9] PlayOld.games's listing opens: "There are some video games which you will never forget. Emmanuelle: A Game of Eroticism is one of them."[^ref-27]
 
 ## Downloads
 
@@ -234,7 +215,6 @@ Modern players typically approach the game "more out of historical interest than
 
 **Download / Preservation**
 - [Internet Archive – DOS Version](https://archive.org/details/002696-EmmanuelleAGameOfEroticism)
-- [MyAbandonware](https://www.myabandonware.com/game/emmanuelle-a-game-of-eroticism-n2)
 
 **Not Available On:**
 - Steam (not listed)[^ref-23]
@@ -261,25 +241,24 @@ Modern players typically approach the game "more out of historical interest than
 
 ## References
 
-[^ref-1]: [MobyGames – Emmanuelle: A Game of Eroticism](https://www.mobygames.com/game/3838/emmanuelle-a-game-of-eroticism/) – developer credits, publisher info, aggregate scores, awards, technical specs
-[^ref-2]: [Wikipedia – Emmanuelle (video game)](https://en.wikipedia.org/wiki/Emmanuelle_(video_game)) – source material info, contemporary reviews, technical details
-[^ref-3]: Abandonware DOS *(link removed 2026-10-11: page shows unblurred adult screenshots; claim needs re-sourcing)*
+[^ref-1]: [MobyGames – Emmanuelle: A Game of Eroticism](https://www.mobygames.com/game/3838/emmanuelle-a-game-of-eroticism/) – developer credits, publishers and release countries, aggregate scores, Power Play award, DOS specs
+[^ref-2]: [Wikipedia – Emmanuelle (video game)](https://en.wikipedia.org/wiki/Emmanuelle_(video_game)) – story setup, gameplay, video modes, summary of ST-Computer and Power Play reviews
 [^ref-4]: [StrategyWiki – Emmanuelle](https://strategywiki.org/wiki/Emmanuelle) – gameplay overview, puzzle design criticism, plot summary
-[^ref-7]: [The Digital Antiquarian – Coktel Vision](https://www.filfre.net/?s=Emmanuelle%3A+A+Game+of+Eroticism) – French developer context, Sierra acquisition history
-[^ref-8]: [The Adventure Gamer Blog – Emmanuelle Introduction](https://advgamer.blogspot.com/2012/12/game-27-emmanuelle-introduction.html) – source material history, Tramis biography, manual quotes, DOS technical issues
-[^ref-9]: [GameFAQs – Emmanuelle Walkthrough Introduction](https://gamefaqs.gamespot.com/amiga/947993-emmanuelle/faqs/78863/introduction) – development context, designer quotes, trilogy info, cut content
+[^ref-7]: [The Digital Antiquarian – The Mortgaging of Sierra Online](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – Sierra's 29 October 1993 purchase of Coktel Vision; Coktel active since 1985
+[^ref-8]: [The Adventure Gamer Blog – Emmanuelle Introduction](https://advgamer.blogspot.com/2012/12/game-27-emmanuelle-introduction.html) – source material history, Tramis background, manual introduction; reader comments on DOS speed and sound
+[^ref-9]: [GameFAQs – Emmanuelle Guide Introduction (jimfish)](https://gamefaqs.gamespot.com/amiga/947993-emmanuelle/faqs/78863/introduction) – interface, randomness, no saving, trilogy, Méwilo remake, Alan Roberts addendum
 [^ref-10]: [Walkthrough King – Emmanuelle](https://www.walkthroughking.com/text/emmanuelle.aspx) – gameplay objectives, statuette collection
-[^ref-11]: [GameFAQs – Emmanuelle Walkthrough](https://gamefaqs.gamespot.com/ast/948170-emmanuelle/faqs/78863/walkthrough) – completion requirements, gameplay flexibility
-[^ref-12]: [Lemon Amiga – Emmanuelle Docs](https://www.lemonamiga.com/games/docs.php?id=558) – gameplay guide, ending description, user rating
-[^ref-13]: [MyAbandonware – Emmanuelle](https://www.myabandonware.com/game/emmanuelle-a-game-of-eroticism-n2) – file sizes, platform versions, technical specs
-[^ref-14]: [Home of the Underdogs review, reproduced on MyAbandonware](https://www.myabandonware.com/game/emmanuelle-a-game-of-eroticism-n2) – "Review By HOTUD": "Recommended only if you're a masochist..."
+[^ref-11]: [GameFAQs – Emmanuelle Walkthrough](https://gamefaqs.gamespot.com/ast/948170-emmanuelle/faqs/78863/walkthrough) – completion requirements, locations, gameplay flexibility
+[^ref-12]: [Lemon Amiga – Emmanuelle Docs](https://www.lemonamiga.com/games/docs.php?id=558) – Amiga guide (statuettes, helicopter), user rating
 [^ref-15]: [OldGames.sk – Emmanuelle](https://www.oldgames.sk/en/game/emmanuelle-a-game-of-eroticism/download/8558/) – user rating, basic metadata
-[^ref-16]: [GamesNostalgia – Emmanuelle](https://web.archive.org/web/20260208072016/https://gamesnostalgia.com/game/emmanuelle) – color palette details, licensing info, graphics assessment
-[^ref-17]: [Hall of Light – Emmanuelle (Amiga)](https://hol.abime.net/1675) – Amiga version user rating, magazine review scores, technical specs (replaces dead Emuparadise URL; Emuparadise removed all ROM content in 2018)
-[^ref-18]: [RetroGames.cz – Emmanuelle](https://www.retrogames.cz/play_1194-DOS.php) – additional designer credit, file sizes, content rating
-[^ref-19]: [PCGamingWiki – Emmanuelle](https://www.pcgamingwiki.com/wiki/Emmanuelle:_A_Game_of_Eroticism) – system requirements, video modes
-[^ref-20]: [MobyGames – Emmanuelle Screenshots](https://www.mobygames.com/game/3838/emmanuelle-a-game-of-eroticism/screenshots/dos/14567/) – title screen resolution
+[^ref-16]: [GamesNostalgia – Emmanuelle](https://web.archive.org/web/20260208072016/https://gamesnostalgia.com/game/emmanuelle) – color palette, licensing, graphics and music assessment, rating
+[^ref-18]: [RetroGames.cz – Emmanuelle](https://www.retrogames.cz/play_1194-DOS.php) – credits, file size, content description
+[^ref-19]: [PCGamingWiki – Emmanuelle](https://www.pcgamingwiki.com/wiki/Emmanuelle:_A_Game_of_Eroticism) – system requirements
 [^ref-21]: [Internet Archive – Emmanuelle DOS](https://archive.org/details/002696-EmmanuelleAGameOfEroticism) – media format, publisher
-[^ref-22]: [GameFAQs – Laws of Eroticism Guide](https://gamefaqs.gamespot.com/ast/948170-emmanuelle/faqs/78863/the-laws-of-eroticism) – manual quotes, bug documentation
+[^ref-22]: [GameFAQs – Laws of Eroticism Guide](https://gamefaqs.gamespot.com/ast/948170-emmanuelle/faqs/78863/the-laws-of-eroticism) – manual content, 75–100 point requirement, Nancy and Mario
 [^ref-23]: [Steam Store Search](https://store.steampowered.com/search/?term=Emmanuelle%3A+A+Game+of+Eroticism) – availability check (not found)
-[^ref-27]: [PlayOld.Games – Emmanuelle](https://playold.games/play-game/emmanuelle-a-game-of-eroticism/) – game structure description, user rating
+[^ref-27]: [PlayOld.Games – Emmanuelle](https://playold.games/play-game/emmanuelle-a-game-of-eroticism/) – listing description
+[^ref-28]: [Wikipedia – Emmanuelle (novel)](https://en.wikipedia.org/wiki/Emmanuelle_(novel)) – 1959 clandestine first publication, Arsan pen name, authorship
+[^ref-29]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – Tomahawk as Coktel's label for simulation and erotic games; Sierra acquisition finalised 29 October 1993
+[^ref-30]: [The Adventure Gamer – Interview with Muriel Tramis](https://advgamer.blogspot.com/2018/03/interview-with-muriel-tramis.html) – Tramis on Tomahawk and on her erotic games (2018)
+[^ref-31]: [ST-Computer 02/1989 – "Emmanuelle: Erotik am Computer?" (stcarchiv.de)](https://www.stcarchiv.de/stc1989/02/relax) – Carsten Borgmeier's contemporary Atari ST review
