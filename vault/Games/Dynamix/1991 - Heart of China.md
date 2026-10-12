@@ -10,25 +10,26 @@ series: Dynamix Adventures
 engine: Dynamix Game Development System (DGDS)
 protagonist: Jake 'Lucky' Masters
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-09'
-description: Heart of China is a 1991 adventure game developed by Dynamix and published
- by Sierra On-Line, representing one of the studio's most ambitious attempts at...
+last_updated: '2026-10-12'
+description: Heart of China is a 1991 point-and-click adventure developed by Dynamix
+ and published by Sierra On-Line, in which pilot Jake "Lucky" Masters sets out to rescue
+ nurse Kate Lomax from a Chinese warlord, told with digitized actors over hand-painted backgrounds.
 tags: [1990s, adventure, dgds, dynamix, dynamix-adventures, sierra]
 ---
 # Heart of China
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Heart of China is a 1991 adventure game developed by Dynamix and published by Sierra On-Line, representing one of the studio's most ambitious attempts at creating an "interactive movie" experience[^ref-3]. Set against the breathtaking splendor of 1930s Asia, the game follows former World War I fighter pilot Jake "Lucky" Masters on a globe-spanning adventure to rescue a kidnapped nurse from a ruthless Chinese warlord[^ref-2]. The game was designed by [[Jeff Tunnell]], who envisioned it as an immersive cinematic experience that would eliminate the frustration factor commonly associated with adventure gaming[^ref-3].
+Heart of China is a 1991 adventure game developed by Dynamix and published by Sierra On-Line[^ref-3]; director Jeff Tunnell wanted it to feel like an interactive movie[^ref-6]. Set against the breathtaking splendor of 1930s Asia, the game follows former World War I fighter pilot Jake "Lucky" Masters on a globe-spanning adventure to rescue a kidnapped nurse from a ruthless Chinese warlord[^ref-2]. The game was designed by [[Jeff Tunnell]], who envisioned it as an immersive cinematic experience that would eliminate the frustration factor commonly associated with adventure gaming[^ref-3].
 
-The game is notable for its innovative visual presentation, utilizing a mixture of digitized photos of live actors superimposed on beautifully hand-painted backgrounds—a technique that made it "perhaps one of the most graphically stunning PC games of the era"[^ref-4]. Inspired by adventure films such as Raiders of the Lost Ark and Romancing the Stone, Heart of China captures the spirit of 1930s pulp adventure serials while incorporating multiple solution paths, branching narratives, and optional arcade sequences that can be skipped by players who prefer pure adventure gameplay[^ref-5]. The game represents Dynamix's "excellent farewell to the adventure genre" before the studio shifted focus to simulation and strategy games[^ref-6].[^ref-28]
+The game is notable for its innovative visual presentation, utilizing a mixture of digitized photos of live actors superimposed on beautifully hand-painted backgrounds—a technique that made it "perhaps one of the most graphically stunning PC games of the era"[^ref-4]. Inspired by adventure films such as Raiders of the Lost Ark and Romancing the Stone, Heart of China captures the spirit of 1930s pulp adventure serials while incorporating multiple solution paths, branching narratives, and optional arcade sequences that can be skipped by players who prefer pure adventure gameplay[^ref-5]. It was the second of Dynamix's three point-and-click adventures, released between Rise of the Dragon and The Adventures of Willy Beamish[^ref-19][^ref-30].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-3]
 > **Designer:** [[Jeff Tunnell]][^ref-3]
-> **Publisher:** [[Sierra On-Line]][^ref-3]
+> **Publisher:** [[Sierra On-Line]][^ref-3] (Computer Gaming World's review listed Dynamix as publisher and Sierra On-Line as distributor[^ref-31]; MobyGames lists Dynamix as DOS publisher and Sierra On-Line for the Amiga and Mac releases[^ref-35])
 > **Engine:** Dynamix Game Development System (DGDS)[^ref-7]
 > **Platforms:** DOS, Amiga, Macintosh, Windows[^ref-8]
 > **Release Year:** 1991
@@ -40,9 +41,9 @@ The game is notable for its innovative visual presentation, utilizing a mixture 
 
 In 1930s Hong Kong, struggling former World War I fighter pilot Jake "Lucky" Masters is recruited by wealthy American businessman E.A. Lomax for a dangerous mission[^ref-9]. Kate Lomax, the daughter of this ruthless land baron, has been abducted by a Chinese warlord named Li Deng near Chengdu, where she was volunteering as a nurse[^ref-2]. Lomax offers Masters a $200,000 reward—with $20,000 deducted for each day Kate remains absent—to venture into the dangerous Chinese interior and rescue his daughter[^ref-4].
 
-Masters' journey takes him from the streets of Hong Kong to the warlord's fortress in Chengdu, where he must infiltrate Li Deng's compound and extract Kate[^ref-10]. Along the way, he encounters Chi, a mysterious ninja who becomes an invaluable ally in the rescue mission[^ref-11]. The adventure spans multiple continents as the trio makes their desperate escape, traveling through Kathmandu, Istanbul, and aboard the Orient Express as they flee their pursuers across an entire continent[^ref-12].
+Masters' journey takes him from the streets of Hong Kong to the warlord's fortress in Chengdu, where he must infiltrate Li Deng's compound and extract Kate[^ref-10]. Along the way, he encounters Chi, a mysterious ninja who becomes an invaluable ally in the rescue mission[^ref-34]. The adventure spans multiple continents as the trio makes their desperate escape, traveling through Kathmandu, Istanbul, and aboard the Orient Express as they flee their pursuers across an entire continent[^ref-12].
 
-Throughout the journey, players' actions shape the relationships between the characters, tracked by a "Romance Meter" that affects the game's outcome[^ref-13]. The narrative concludes with multiple possible endings depending on the choices made throughout the adventure—ranging from marriage to ending up in a ditch[^ref-11]. In one ending, the game concludes with the characters masquerading as room service to surprise Kate, with all three sipping champagne in a Parisian five-star hotel room[^ref-14].
+Throughout the journey, players' actions shape the relationships between the characters, tracked by a "Romance Meter" that affects the game's outcome[^ref-13]. The narrative concludes with multiple possible endings depending on the choices made throughout the adventure—ranging from marriage to ending up in a ditch[^ref-34]. In one ending, Chi, believed dead, masquerades as room service to surprise Lucky and Kate, and all three end up sipping champagne in a Parisian five-star hotel room[^ref-14].
 
 ## Gameplay
 
@@ -54,7 +55,7 @@ The interface supports both keyboard and mouse input, with the mouse being the r
 
 ### Structure and Progression
 
-One of the most unique elements of Heart of China is the multiple ways in which players can proceed through gameplay[^ref-12]. The game allows players to control three different characters—Jake "Lucky" Masters, Chi, and Kate Lomax—switching between them at various points to solve puzzles and advance the story[^ref-11]. This character-switching mechanic adds depth to puzzle solutions and allows for multiple approaches to challenges.
+One of the most unique elements of Heart of China is the multiple ways in which players can proceed through gameplay[^ref-12]. The game allows players to control three different characters—Jake "Lucky" Masters, Chi, and Kate Lomax—switching between them at various points to solve puzzles and advance the story[^ref-3][^ref-34]. This character-switching mechanic adds depth to puzzle solutions and allows for multiple approaches to challenges.
 
 The adventure spans several distinct locations across Asia and Europe:
 
@@ -69,9 +70,9 @@ Time plays a crucial role in Heart of China—it is "an ever-present companion. 
 
 ### Puzzles and Mechanics
 
-The game features puzzles with multiple solutions, encouraging replayability and allowing players to approach challenges according to their preferred play style[^ref-5]. "What makes this game so riveting and revolutionary (though sadly almost noone noticed it) is the true replayability" offered by these branching paths[^ref-18].
+The game features puzzles with multiple solutions, encouraging replayability and allowing players to approach challenges according to their preferred play style[^ref-5]. A HOTUD review quoted on MyAbandonware put it this way: "What makes this game so riveting and revolutionary (though sadly almost noone noticed it) is the true replayability"[^ref-18].
 
-Heart of China incorporates optional arcade-style action sequences, including tank simulation and flight segments, that can be skipped by players who prefer traditional adventure gameplay[^ref-19]. The game automatically awards success after a number of failures for "dexterity-impaired players," ensuring that action sequences don't become insurmountable barriers to progress[^ref-18].
+Heart of China incorporates two optional arcade-style action sequences, a 3D tank escape across the plains of Chengdu and a sword fight atop the Orient Express, which can be skipped after repeated failures[^ref-3][^ref-19]. The HOTUD review notes that "dexterity-impaired adventurers" are awarded a win after a number of failures, ensuring that action sequences don't become insurmountable barriers to progress[^ref-18].
 
 The Romance Meter feature tracks the developing relationship between Jake and Kate based on player dialogue choices and actions, ultimately affecting which ending the player receives[^ref-13]. However, some reviewers noted that often "the blandest, least humorous response is the correct one" when it comes to dialogue choices[^ref-4].
 
@@ -79,9 +80,9 @@ The Romance Meter feature tracks the developing relationship between Jake and Ka
 
 ### Contemporary Reviews
 
-Heart of China received strong reviews upon release, with critics praising its cinematic presentation and innovative gameplay mechanics. PC Review awarded the game 4.17 out of 5, describing it as "another attempt at producing an interactive movie" that is "notable for its arcade subsections and - more importantly - its beautiful digitised graphics"[^ref-20]. ACE magazine gave an exceptional score of 910 out of 1000, while Dragon magazine awarded a perfect 5 out of 5 stars[^ref-3].
+Heart of China received strong reviews upon release, with critics praising its cinematic presentation. A PC Review capsule (issue 7, 1992), as excerpted on Abandonware DOS, called it "another attempt at producing an interactive movie" that is "notable for its arcade subsections and - more importantly - its beautiful digitised graphics"[^ref-20]. ACE magazine gave an exceptional score of 910 out of 1000, while Dragon magazine awarded a perfect 5 out of 5 stars[^ref-3].
 
-Computer Gaming World praised the game effusively: "Heart of China is everything a good adventure movie should be: fast-paced, tense, ingenious, witty, varied of locale and light of plot. Above all, it is entertaining"[^ref-3]. The game was praised for successfully capturing the spirit of adventure serials and pulp fiction while offering genuine player agency through its branching narrative structure.
+In Computer Gaming World #87 (October 1991), Charles Ardai wrote: "Heart of China is everything a good adventure movie should be: fast-paced, tense, ingenious, witty, varied of locale and light of plot. Above all, it is entertaining." He concluded that it "offers a cinematic experience to be savored" and judged it better than Rise of the Dragon[^ref-31]. Wikipedia reports the game was commercially successful[^ref-3].
 
 ### Modern Assessment
 
@@ -90,23 +91,23 @@ Modern retrospectives have been more mixed, with critics acknowledging the game'
 Steve Wilkins of Lemon Amiga gave the Amiga version 5 out of 10, noting: "If I have to describe this title with one word, it would be 'shallow'" but acknowledging that "the strength of the game lies rather in the technical presentation. Particularly, the graphics are of superior quality"[^ref-13]. Some players found the experience "pretty difficult and boring" while others felt it would have been "among the AAA games line up" of its era[^ref-2][^ref-21].
 
 **Aggregate Scores:**
-- **MobyGames:** 78% (based on user reviews)[^ref-8]
+- **MobyGames:** 79% critic average (26 ratings); players 3.6/5 (53 ratings)[^ref-8]
 - **IMDB:** 7.3/10[^ref-22]
-- **GOG User Reviews:** 3.8/5 (12 reviews)[^ref-2]
+- **GOG User Rating:** 3.8/5 (65 ratings)[^ref-2]
 - **OldGames.sk:** 70%[^ref-23]
-- **Amiga Reviews:** 93%[^ref-24]
+- **Amiga magazine reviews (collected by Amiga Reviews):** Amiga Computing 93%, Amiga Format 90%, Zero 90%, Amiga Power 84%, CU Amiga 83%, Amiga Joker 70%[^ref-24]
 
 ## Development
 
 ### Origins
 
-Heart of China emerged from Dynamix's experimentation with interactive storytelling following their acquisition by Sierra On-Line in 1990[^ref-4]. The game was designed by [[Jeff Tunnell]], who had previously overseen Rise of the Dragon and would later direct The Adventures of Willy Beamish—together forming a trilogy of adventure games using the Dynamix Game Development System[^ref-7]. Tunnell's vision was to create an experience that felt like an interactive movie, drawing explicit inspiration from adventure films like Raiders of the Lost Ark and Romancing the Stone[^ref-5].
+Heart of China emerged from Dynamix's experiments with interactive storytelling after Sierra On-Line acquired the studio in August 1990[^ref-30]. The game was designed by [[Jeff Tunnell]], who had previously overseen Rise of the Dragon and would later direct The Adventures of Willy Beamish—together forming a trilogy of adventure games using the Dynamix Game Development System[^ref-7]. Tunnell's vision was to create an experience that felt like an interactive movie, drawing explicit inspiration from adventure films like Raiders of the Lost Ark and Romancing the Stone[^ref-5].
 
 The game's plot bears notable similarities to the 1983 film High Road to China starring Tom Selleck, featuring a similar premise of a pilot hired to rescue someone in 1930s Asia[^ref-4]. The development team embraced this pulp adventure aesthetic, aiming to capture the same sense of globe-trotting excitement that the Indiana Jones franchise had popularized.
 
 ### Production
 
-Production of Heart of China was an ambitious undertaking that lasted over a year[^ref-6]. The game employed a cast of nearly 100 actors, all of whom were recruited from Dynamix employees and their families due to the tight production budget[^ref-3][^ref-8]. Damon Slye, the Dynamix hero known for his simulation games, appeared among the cast as a British official[^ref-6].
+The game used a cast of over eighty actors in period costume, recruited from Dynamix employees and their families because of a tight budget; the shooting lasted over a year, running alongside development of the game system[^ref-3][^ref-6]. Damon Slye, Dynamix co-founder, played one of the British officials[^ref-6]. Andrew DeRycke played Jake[^ref-31]. Kimberly Greenwood, who played Kate Lomax, discovered she was pregnant a couple of months into shooting; re-casting was judged too expensive, so cushions and computer retouching were used to hide it[^ref-24].
 
 The actors were filmed against a white (or blue) screen and then superimposed onto the hand-painted background artwork[^ref-6]. The background pictures were drawn on paper first, then scanned and digitally enhanced to create the lush, detailed environments that define the game's visual style[^ref-13]. One reviewer noted that "every one of them is beautifully hand-painted. I could happily hang any one of them in a gallery were it not for the pixelated resolutions of 1991"[^ref-4].
 
@@ -121,24 +122,23 @@ Heart of China utilized the Dynamix Game Development System (DGDS), the same pro
 
 The visual presentation represented a significant technical achievement for its time. The game used 256 colors in its VGA mode to render both the digitized actor sprites and the detailed hand-painted backgrounds[^ref-3]. The artwork technique—combining live actor photography with traditional painted backgrounds—created a distinctive aesthetic that set the game apart from its contemporaries.
 
-The game also featured a 3D flight simulator demonstration that served as advertising for Dynamix's Red Baron simulation[^ref-13], showcasing the studio's expertise in both adventure and simulation genres.
+Lemon Amiga's reviewer noted an "impressive demonstration of a '3D flight simulator'" during Lucky's early dealings with Chi and wondered whether it was "surreptitious advertising" for Dynamix's Red Baron[^ref-13]. The tank escape uses Dynamix's 3-Space 3D engine[^ref-6].
 
 ### Technical Specifications
 
 **DOS Version:**[^ref-16]
 - **Resolution:** VGA 256 colors (also supports EGA, CGA, MCGA)
-- **Audio:** AdLib, Sound Blaster, Roland MT-32
+- **Audio:** AdLib, Sound Blaster, Roland MT-32[^ref-29]
 - **Minimum RAM:** 640K
-- **Minimum Processor:** Intel 286
+- **Minimum Processor:** Intel 8088/8086 (16-color and 2-color modes); 286 (12 MHz) or better for the 256-color VGA version[^ref-33]
 - **Hard Disk:** Required
 - **Input:** Keyboard, Mouse (recommended)
 
 **Amiga Version:**[^ref-13]
 - **Colors:** 32 colors (reduced from PC's 256)
 - **Disks:** 9 floppy disks
-- **Recommended RAM:** 1MB
-- **Hard Drive Space:** 7-8MB recommended
-- **Notes:** Sounds "awful" with only 1MB memory
+- **RAM:** 1MB minimum; 2MB recommended (music sounds "awful" with only 1MB)[^ref-13]
+- **Hard Drive:** Recommended; Amiga Computing suggested around 7-8MB of space[^ref-24]
 
 **Macintosh Version:**[^ref-25]
 - **RAM Requirements:** 2MB (System 6), 3.5MB (System 7)
@@ -146,12 +146,12 @@ The game also featured a 3D flight simulator demonstration that served as advert
 - **Storage:** Hard Drive required
 - **OS Compatibility:** Mac OS 6.0 to 9.2
 
-**Windows Version (GOG):**[^ref-26]
-- **Size:** 40 MB
-- **OS:** Windows 7, 8, 10, 11
+**Windows Version (GOG):**[^ref-2]
+- **OS:** Windows 10, 11
 - **RAM:** 2 GB
 - **Processor:** 1.8 GHz
 - **Graphics:** DirectX 9.0c compatible
+- **Storage:** 1 GB
 
 ### Cut Content
 
@@ -162,9 +162,9 @@ Hidden within the game files is a debug menu that was disabled for the retail re
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | 1991 | DOS | Initial release[^ref-3] |
-| 1.0 | 1991 | Amiga | Console conversion with reduced colors[^ref-13] |
+| 1.0 | 1991 | Amiga | Amiga conversion with 32-color graphics[^ref-13] |
 | 1.0 | 1992 | Macintosh | Mac conversion[^ref-8] |
-| 1.01 GOG v2 | October 28, 2026 | Windows | Enabled Cloud Saves, stability validated, fully compatible with Windows 10 and 11[^ref-2] |
+| 1.01 GOG v2 | October 28, 2025 | Windows | Enabled Cloud Saves, stability validated, fully compatible with Windows 10 and 11[^ref-2] |
 
 **Additional DOS Versions:**[^ref-8]
 - 16-color EGA version for PC and Tandy
@@ -178,10 +178,10 @@ The game's design includes potential dead-ends where players can become stuck if
 
 ### Easter Eggs and Trivia
 
-- **Dynamix Cast Appearances:** Nearly 100 actors appear in the game, virtually all of whom were Dynamix employees and their family members. Notable among them is Damon Slye, creator of Red Baron and other Dynamix simulations, who appears as a British official[^ref-6][^ref-8].
+- **Dynamix Cast Appearances:** Over eighty actors appear in the game, drawn from Dynamix employees and their families. Among them is Dynamix co-founder Damon Slye, who plays one of the British officials[^ref-6].
 - **Film Influences:** The game draws explicit inspiration from Raiders of the Lost Ark and Romancing the Stone, with one reviewer noting it "plays out an awful lot like an Indiana Jones movie—the American protagonist, the ethnic sidekick, the love interest that isn't actually interested"[^ref-19].
-- **Alternative Title:** The game was known internally as "Shanghai Surprise" during development[^ref-6].
-- **Red Baron Advertisement:** The game includes a playable 3D flight simulator demonstration that serves as advertising for Dynamix's Red Baron simulation game[^ref-13].
+- **Alternative Title:** MobyGames lists "Shanghai Surprise" as an alternate title for the game[^ref-8].
+- **Red Baron Plug?** Lemon Amiga's reviewer wondered whether the game's "3D flight simulator" demonstration was "surreptitious advertising" for Dynamix's Red Baron[^ref-13].
 - **Only Quarter in China:** Despite the title, only the first quarter of the game actually takes place in China; the remainder spans multiple countries across Asia and Europe[^ref-19].
 
 ### Multiple Endings
@@ -192,27 +192,25 @@ Heart of China features multiple endings based on player choices throughout the 
 - **Key Decision Points:** Specific choices made during crucial story moments
 - **Character Survival:** Whether certain characters survive the adventure
 
-Possible endings include marriage between Jake and Kate, or alternatively "ending up in a ditch"[^ref-11]. The "best" ending involves all three main characters celebrating their success with champagne in a Parisian five-star hotel room[^ref-14].[^ref-29]
+Depending on how Lucky treats Kate, he can end up married to her or in a ditch[^ref-34]. The "best" ending has all three main characters celebrating with champagne in a Parisian five-star hotel room[^ref-14].
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Heart of China represented one of Dynamix's most ambitious adventure game projects, though it did not spawn the series that some reviewers felt it deserved[^ref-8]. Following its release, Dynamix made the strategic decision to exit the adventure game market entirely, shifting focus to simulation and strategy games—genres where the studio had already established significant expertise through titles like Red Baron[^ref-6].
+Heart of China was commercially successful[^ref-3]. Computer Gaming World's reviewer "would not be at all averse to seeing further episodes in the Adventures of Jake Masters"[^ref-31], but Dynamix never made a sequel[^ref-8]; its next adventure was The Adventures of Willy Beamish[^ref-19].
 
 ### Collections
 
-Heart of China became available digitally through GOG.com on November 8, 2017, pre-packaged with DOSBox for modern system compatibility[^ref-21][^ref-26]. This release marked the game's return to commercial availability after years of existing primarily in the abandonware community. The GOG version includes both the original game and German language support[^ref-26].
+Heart of China became available digitally through GOG.com on November 8, 2017, pre-packaged with DOSBox for modern system compatibility[^ref-21][^ref-26]. This release marked the game's return to commercial availability. The GOG release is English-only; PCGamingWiki lists the German localization as retail only[^ref-2][^ref-26].
 
 ### Critical Perspective
 
-Heart of China occupies a unique position in adventure gaming history as both a technical achievement and a commercial swan song. As Dynamix's final adventure game before the studio pivoted to simulations, it represents the culmination of Jeff Tunnell's vision for interactive cinema—a vision that would influence countless games in the decades to come[^ref-6].
+Heart of China sits between Rise of the Dragon and The Adventures of Willy Beamish in Dynamix's trio of DGDS adventures, and Hardcore Gaming 101 calls it the studio's most obscure title[^ref-19]. Its multiple solution paths stood out: the game tells the player when a puzzle could have been solved differently[^ref-6], and the HOTUD review called its "true replayability" "revolutionary (though sadly almost noone noticed it)"[^ref-18].
 
-The game's innovative use of multiple solution paths and branching narratives anticipated design philosophies that would become standard in later adventure games. Its "true replayability" was noted as "revolutionary (though sadly almost noone noticed it)"[^ref-18], suggesting the game was perhaps ahead of its time in offering meaningful player choice.
+Hardcore Gaming 101 found that "the inherent silliness to the whole affair shows that Dynamix clearly loved the story they worked so hard for"[^ref-19], while Lemon Amiga's reviewer summed it up in one word, "shallow"[^ref-13].
 
-From a technical standpoint, Heart of China demonstrated the potential of combining live-action elements with traditional artwork, a technique that would be refined and expanded in the FMV game explosion of the mid-1990s. While some critics found the story "superficial and unsatisfying"[^ref-18], others praised "the inherent silliness to the whole affair" as evidence that "Dynamix clearly loved the story they worked so hard for"[^ref-19].
-
-The game serves as an important artifact of early 1990s game design philosophy, demonstrating both the ambitions and limitations of attempting to create truly cinematic interactive experiences before CD-ROM technology made full-motion video practical. Its legacy lives on as "one of the most graphically stunning PC games of the era" and a testament to Dynamix's creative ambitions during their brief foray into adventure gaming[^ref-4].[^ref-30]
+Unlike Rise of the Dragon and Willy Beamish, it never received a CD-ROM release, so it has no voice acting[^ref-19][^ref-30]. Collection Chamber calls it "perhaps one of the most graphically stunning PC games of the era"[^ref-4].
 
 ## Downloads
 
@@ -220,11 +218,9 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 - [GOG.com](https://www.gog.com/en/game/heart_of_china) - Windows version with DOSBox
 
 **ScummVM Support**
-- Full support added in ScummVM v2026.1.0 "Like a Version" (January 31, 2026)
+- Support added in ScummVM 2026.1.0 "Like a Version" (January 31, 2026)[^ref-32]
 - Allows the game to run natively on modern systems including Windows, macOS, Linux, iOS, and Android
 - [ScummVM Downloads](https://www.scummvm.org/downloads/)
-
-**Download / Preservation**
 
 **Manuals & Extras**
 - [Heart of China Hint Book](https://archive.org/stream/Heart_of_China_Hint_Book/Heart_of_China_Hint_Book_djvu.txt) - Internet Archive
@@ -256,7 +252,6 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 [^ref-8]: [MobyGames – Heart of China](https://www.mobygames.com/game/164/heart-of-china/) – platforms, ratings, cast size, version information
 [^ref-9]: [Reddit – r/Sierra](https://www.reddit.com/r/Sierra/comments/1oex8xn/heart_of_china_full_game/) – story synopsis
 [^ref-10]: [GameFAQs – Heart of China Walkthrough](https://gamefaqs.gamespot.com/pc/564612-heart-of-china/faqs/1503) – story locations, Jake Masters background
-[^ref-11]: Adventure Gamers – Heart of China Walkthrough *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – playable characters, multiple endings
 [^ref-12]: [Sierra Chest – Heart of China Walkthrough](https://sierrachest.com/index.php?a=games&id=375&title=heart-of-china&fld=walkthrough) – locations, character switching
 [^ref-13]: [Lemon Amiga – Heart of China Review](https://www.lemonamiga.com/games/reviews/view.php?id=399) – Romance Meter, Amiga technical specs, Red Baron demo
 [^ref-14]: [Advgamer Blog – Heart of China Won](https://advgamer.blogspot.com/2016/08/heart-of-china-won.html) – ending description
@@ -264,14 +259,18 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 [^ref-16]: [Adventure Classic Gaming – Archived Review](https://web.archive.org/web/20080509092504/http://www.adventureclassicgaming.com/index.php/site/reviews/283/) – technical requirements, review score
 [^ref-18]: MyAbandonware – Heart of China *(download link removed: the game is sold commercially)* – HOTUD quotes, user reviews
 [^ref-19]: [Hardcore Gaming 101 – Heart of China](http://www.hardcoregaming101.net/heart-of-china/) – Indiana Jones comparison, arcade sequences
-[^ref-20]: Abandonware DOS – Heart of China *(download link removed: the game is sold commercially)* – PC Review score and quote
+[^ref-20]: Abandonware DOS – Heart of China *(download link removed: the game is sold commercially)* – excerpt credited to PC Review issue 7 (1992); not checked against the magazine itself
 [^ref-21]: [Thimbleweed Park Forums – Heart of China GOG Release](https://forums.thimbleweedpark.com/t/heart-of-china-just-released-on-gog-how-frustrating-is-this-game/1992) – GOG release date, player opinions
 [^ref-22]: [IMDB – Heart of China](https://www.imdb.com/find/?q=Heart+of+China&s=tt) – IMDB rating
 [^ref-23]: OldGames.sk – Heart of China *(download link removed: the game is sold commercially)* – rating, DGDS engine confirmation
-[^ref-24]: [Amiga Reviews – Heart of China](https://www.amigareviews.leveluphost.com/heartofc.htm) – 93% review score
+[^ref-24]: [Amiga Reviews – Heart of China](https://www.amigareviews.leveluphost.com/heartofc.htm) – transcribed Amiga magazine reviews (Amiga Computing 93%, Amiga Format 90%, Amiga Power 84%, CU Amiga 83%, Zero 90%, Amiga Joker 70%); CU Amiga on Kimberly Greenwood's pregnancy; hard-drive space
 [^ref-25]: Macintosh Repository – Heart of China *(download link removed: the game is sold commercially)* – Mac system requirements
 [^ref-26]: [PCGamingWiki – Heart of China](https://www.pcgamingwiki.com/wiki/Heart_of_China) – Windows version specs, DOSBox bundling
 [^ref-27]: [The Cutting Room Floor – Heart of China](https://tcrf.net/Heart_of_China) – debug menu documentation
-[^ref-28]: Internet Archive – Heart of China *(download link removed: the game is sold commercially)* – platform information, game description
-[^ref-29]: [Quest Studios – Heart of China Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/hoc/) – composer credits, audio specifications
-[^ref-30]: [HG101 Kontek – Heart of China](https://hg101.kontek.net/heartofchina/heartofchina.htm) – detailed retrospective, design analysis: [ScummVM News – v2026.1.0 Release](https://www.scummvm.org/news/20260131/) – Full support for Heart of China added
+[^ref-29]: [Quest Studios – Heart of China Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/hoc/) – soundtrack recorded from the original Roland MT-32 score
+[^ref-30]: [HG101 Kontek – Heart of China](https://hg101.kontek.net/heartofchina/heartofchina.htm) – original Hardcore Gaming 101 article (2009): Sierra's August 1990 acquisition of Dynamix; no CD release
+[^ref-31]: [Computer Gaming World #87 (October 1991) – "Popcorn Not Included IV" by Charles Ardai](https://www.cgwmuseum.org/galleries/issues/cgw_87.pdf) – review quotes, Andrew DeRycke as Jake, publisher/distributor credits
+[^ref-32]: [ScummVM News – ScummVM 2026.1.0 "Like a Version"](https://www.scummvm.org/news/20260131/) – Heart of China listed among newly supported games
+[^ref-33]: [MobyGames – Heart of China Tech Specs](https://www.mobygames.com/game/164/heart-of-china/specs/) – DOS minimum CPU 8088/8086; 286 (12 MHz) for 256-color version; Amiga 1 MB
+[^ref-34]: [Just Adventure – Heart of China Walkthrough](https://www.justadventure.com/walkthrough/heart-of-china/) – playing as Lucky, Chi and Kate; marriage or ditch endings
+[^ref-35]: [MobyGames – Heart of China Releases](https://www.mobygames.com/game/164/heart-of-china/releases/) – per-platform publishers (Dynamix for DOS; Sierra On-Line for Amiga and Macintosh)
