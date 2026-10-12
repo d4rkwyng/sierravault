@@ -197,9 +197,6 @@ The SCI remake was included in several Sierra compilations:[^ref-2]
 - [GOG: King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) – Original AGI version only, $9.99[^ref-6]
 - [Steam: King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – Collection includes SCI remake[^ref-21]
 
-**Download / Preservation**
-- [Internet Archive](https://archive.org/details/kings-quest-1-quest-for-the-crown-floppy-dos-sci-remake) – SCI Remake floppy version[^ref-1]
-
 **Fan Remakes**
 - [AGD Interactive: King's Quest I VGA](https://www.agdinteractive.com/games/kq1/about/about.html) – Free VGA point-and-click remake with voice acting[^ref-13]
 
@@ -220,7 +217,7 @@ The SCI remake was included in several Sierra compilations:[^ref-2]
 
 ## References
 
-[^ref-1]: [Internet Archive – King's Quest 1 Quest For The Crown (Floppy DOS SCI Remake)](https://archive.org/details/kings-quest-1-quest-for-the-crown-floppy-dos-sci-remake) – – Archived SCI remake floppy release
+[^ref-1]: Internet Archive – King's Quest 1 Quest For The Crown (Floppy DOS SCI Remake) (download link removed: game still sold) – – Archived SCI remake floppy release
 [^ref-2]: [MobyGames – Roberta Williams' King's Quest I](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/) – – Credits, reviews, scores
 [^ref-3]: [SCI Wiki – King's Quest I SCI](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI_remake%29) – – Interpreter versions, technical specs, release date (Dec 1990)
 [^ref-4]: [King's Quest Omnipedia – KQ1 MS-DOS](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28MS-DOS%29) – – Development, credits, changes, reception, Trivette "autumn of 1990" quote
@@ -233,7 +230,7 @@ The SCI remake was included in several Sierra compilations:[^ref-2]
 [^ref-11]: [Amiga Magazine Rack – KQ1 Reviews](https://amr.abime.net/review_4342) – – Five Amiga magazine reviews
 [^ref-12]: [Lemon Amiga – KQ1 Enhanced](https://www.lemonamiga.com/games/details.php?id=1765) – – Amiga credits and review
 [^ref-13]: [AGD Interactive – KQ1 History](https://www.agdinteractive.com/games/kq1/about/about.html) – – Market failure, fan remake motivation, download stats
-[^ref-14]: [My Abandonware – KQ1 SCI](https://www.myabandonware.com/game/roberta-williams-king-s-quest-i-quest-for-the-crown-2kz) – – User ratings, availability notes
+[^ref-14]: My Abandonware – KQ1 SCI (download link removed: game still sold) – – User ratings, availability notes
 [^ref-15]: [King's Quest Omnipedia – King's Quest II: Romancing the Throne SCI](https://kingsquest.fandom.com/wiki/King%27s_Quest_II:_Romancing_the_Throne_SCI) – – Josh Mandel correspondence, cancellation reasons
 [^ref-16]: [Sierra Help – KQ1 SCI Help](https://sierrahelp.com/Games/KingsQuest/KQ1SCIHelp.html) – – System requirements, patches, bugs
 [^ref-17]: [Wikipedia – King's Quest I](https://en.wikipedia.org/wiki/King%27s_Quest_I) – – Technical details
