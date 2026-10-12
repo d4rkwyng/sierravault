@@ -155,7 +155,7 @@ MobyGames classifies the game's perspective as 3rd-person[^ref-2].
 
 ### End of the Front Page Sports Brand
 
-Football Pro '98 was the last football game released under the Front Page Sports banner, but not the last in the series. Computer Games Magazine's review already mentioned "the looming threat of an all-new Football 99"[^ref-13]. Sierra retired the Front Page Sports logo for *NFL Football Pro '99*, which was released on December 22, 1998 and recalled on January 20, 1999 because of its many bugs[^ref-27]. Wikipedia describes *NFL Football Pro '99* as "the seventh and final version of the Front Page Sports Football franchise"; a planned 2000 version was cancelled after the recall[^ref-28].
+Football Pro '98 was the last football game released under the Front Page Sports banner, but not the last in the series. Computer Games Magazine's review already mentioned "the looming threat of an all-new Football 99"[^ref-13]. Sierra retired the Front Page Sports logo for *NFL Football Pro '99*, which was released on December 22, 1998[^ref-27] and recalled on January 21, 1999 because of its many bugs[^ref-31]. Wikipedia describes *NFL Football Pro '99* as "the seventh and final version of the Front Page Sports Football franchise"; a planned 2000 version was cancelled after the recall[^ref-28].
 
 The community still remembers the '98 edition fondly. One GOG fan noted: "after that we stopped playing because nobody wanted to play anything else"[^ref-18]. Years later, a Steam community member wrote of "the Original FPS Football 98": "Incredible after all these years we still have nothing that can come close"[^ref-26].
 
@@ -216,5 +216,6 @@ These community efforts:
 [^ref-22]: [Sierra Help - FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) - Official Football 98 updates, v1.08
 [^ref-23]: [GMGames Forums](https://web.archive.org/web/20260131055418/https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) - VPNFL99 mod description
 [^ref-26]: [Steam Community](https://steamcommunity.com/app/316700) - User post on the Front Page Sports Football (2014) hub recalling FPS Football 98
-[^ref-27]: [Wikipedia - NFL Football Pro '99](https://en.wikipedia.org/wiki/NFL_Football_Pro_%2799) - Release on December 22, 1998 and recall on January 20, 1999
+[^ref-27]: [Wikipedia - NFL Football Pro '99](https://en.wikipedia.org/wiki/NFL_Football_Pro_%2799) - Release on December 22, 1998
 [^ref-28]: [Wikipedia - Front Page Sports Football](https://en.wikipedia.org/wiki/Front_Page_Sports_Football) - Series history, final version, cancelled 2000 edition
+[^ref-31]: [CNNfn – "Sierra recalls popular game" (January 21, 1999, Wayback)](https://web.archive.org/web/20021023224738/http://money.cnn.com/1999/01/21/life/sierra/) – Sierra Sports recalls Football Pro 99
