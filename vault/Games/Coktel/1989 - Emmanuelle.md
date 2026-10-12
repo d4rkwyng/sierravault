@@ -235,7 +235,6 @@ Modern players typically approach the game "more out of historical interest than
 **Download / Preservation**
 - [Internet Archive – DOS Version](https://archive.org/details/002696-EmmanuelleAGameOfEroticism)
 - [MyAbandonware](https://www.myabandonware.com/game/emmanuelle-a-game-of-eroticism-n2)
-- [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?gid=1086)
 
 **Not Available On:**
 - Steam (not listed)[^ref-23]
@@ -264,7 +263,7 @@ Modern players typically approach the game "more out of historical interest than
 
 [^ref-1]: [MobyGames – Emmanuelle: A Game of Eroticism](https://www.mobygames.com/game/3838/emmanuelle-a-game-of-eroticism/) – developer credits, publisher info, aggregate scores, awards, technical specs
 [^ref-2]: [Wikipedia – Emmanuelle (video game)](https://en.wikipedia.org/wiki/Emmanuelle_(video_game)) – source material info, contemporary reviews, technical details
-[^ref-3]: [Abandonware DOS – Emmanuelle](https://www.abandonwaredos.com/abandonware-game.php?gid=1086) – retrospective analysis, user ratings, cultural artifact assessment
+[^ref-3]: Abandonware DOS *(link removed 2026-10-11: page shows unblurred adult screenshots; claim needs re-sourcing)*
 [^ref-4]: [StrategyWiki – Emmanuelle](https://strategywiki.org/wiki/Emmanuelle) – gameplay overview, puzzle design criticism, plot summary
 [^ref-7]: [The Digital Antiquarian – Coktel Vision](https://www.filfre.net/?s=Emmanuelle%3A+A+Game+of+Eroticism) – French developer context, Sierra acquisition history
 [^ref-8]: [The Adventure Gamer Blog – Emmanuelle Introduction](https://advgamer.blogspot.com/2012/12/game-27-emmanuelle-introduction.html) – source material history, Tramis biography, manual quotes, DOS technical issues

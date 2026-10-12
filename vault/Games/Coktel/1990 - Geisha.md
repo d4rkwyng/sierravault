@@ -189,7 +189,6 @@ The game has been preserved by various abandonware sites and is considered no lo
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/geisha-wj)
 - [Internet Archive](https://archive.org/details/msdos_Geisha_1990)
-- [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Geisha&gid=1910)
 
 ## See Also
 
@@ -218,7 +217,7 @@ The game has been preserved by various abandonware sites and is considered no lo
 [^ref-2]: [Adventure Gamers Blog](https://advgamer.blogspot.com/2016/12/missed-classic-33-geisha-1990.html) – Context about Sierra's adult content experiment
 [^ref-3]: [MobyGames - Muriel Tramis](https://www.mobygames.com/person/10719/muriel-tramis/) – Designer biography and career themes
 [^ref-4]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/928267-geisha/faqs/78791/introduction) – Game description and designer information
-[^ref-5]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Geisha&gid=1910) – Review commentary on game content
+[^ref-5]: Abandonware DOS *(link removed 2026-10-11: page shows unblurred adult screenshots; claim needs re-sourcing)*
 [^ref-6]: [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=3277) – Amiga Power review quote
 [^ref-7]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Geisha) – Platform and engine information
 [^ref-8]: [GameFAQs](https://gamefaqs.gamespot.com/pc/928267-geisha/faqs/78791/plot) – Opening quote from game manual
