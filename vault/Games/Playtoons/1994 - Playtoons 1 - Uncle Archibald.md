@@ -10,14 +10,14 @@ series: Playtoons
 engine: Gob
 protagonist: Two unnamed children
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-05-14'
+last_updated: '2026-10-11'
 description: 'Playtoons 1: Featuring Uncle Archibald is an edutainment title developed
   by Coktel Vision and published by Sierra On-Line in 1995 for Windows 3 in 1994.x...'
 tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 1: Featuring Uncle Archibald
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
@@ -72,7 +72,7 @@ The construction game allows players to create up to twenty scenes for their cus
 
 ### Contemporary Reviews
 
-Unfortunately, specific contemporary review scores for Playtoons 1: Featuring Uncle Archibald have not been preserved in available gaming archives.[^ref-8] The game was classified as an edutainment title in the "Miscellaneous" category by GameFAQs, reflecting its educational focus rather than traditional gaming appeal.[^ref-9]
+No contemporary critic reviews of Playtoons 1: Featuring Uncle Archibald are listed on MobyGames or Metacritic.[^ref-22][^ref-10] The game was classified as an edutainment title in the "Miscellaneous" category by GameFAQs, reflecting its educational focus rather than traditional gaming appeal.[^ref-9]
 
 ### Modern Assessment
 
@@ -211,7 +211,6 @@ The series continued with at least four additional installments: Playtoons 2: Th
 [^ref-5]: [PriceCharting – Playtoons 1](https://www.pricecharting.com/game/pc-games/playtoons-1-featuring-uncle-archibald) – plot summary, developer confirmation
 [^ref-6]: [MyAbandonware – Playtoons 1](https://www.myabandonware.com/game/playtoons-1-featuring-uncle-archibald-yr6) – release dates by region, user rating, technical specs
 [^ref-7]: [MobyGames – Playtoons 1 user reviews](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/reviews/?type=user) – user-side review distribution, gameplay critique notes
-[^ref-8]: Kagi FastGPT – Review Scores Query – lack of available review scores confirmed
 [^ref-9]: [GameFAQs – Playtoons 1 PC](https://gamefaqs.gamespot.com/pc/232215-playtoons-1-featuring-uncle-archibald) – genre classification, ESRB rating, platform confirmation
 [^ref-10]: [Metacritic – Playtoons 1](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/) – platform, developer/publisher, no score available
 [^ref-11]: [Metacritic – User Reviews](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/user-reviews/) – no user reviews available
@@ -223,3 +222,4 @@ The series continued with at least four additional installments: Playtoons 2: Th
 [^ref-18]: [Sierra Chest – Playtoons 1](https://sierrachest.com/index.php?a=games&id=323&title=playtoons-1&fld=general) – engine, construction game details, camera function, Monsters add-on
 [^ref-19]: [IGDB – Playtoons 1: Featuring Uncle Archibald](https://www.igdb.com/games/playtoons-1-featuring-uncle-archibald) – Internet Games Database entry, platform listings, release-year confirmation
 [^ref-21]: [Adventure Classic Gaming – Coktel Vision developer retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) – historical context for Coktel Vision's Sierra-published children's titles during 1993–1995
+[^ref-22]: [MobyGames – Playtoons 1: Featuring Uncle Archibald reviews](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/reviews/) – no critic reviews listed ("Be the first to add a critic review for this title!")

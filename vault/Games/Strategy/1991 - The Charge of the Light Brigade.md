@@ -10,14 +10,14 @@ series: Micro Miniatures
 engine: Enhanced Miniature-Style System
 protagonist: British/Allied Commander
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-05-11'
+last_updated: '2026-10-11'
 description: The Charge of the Light Brigade is a real-time strategy game developed
   and published by Impressions Games in 1991, recreating one of the most famous and...
 tags: [1990s, impressions, micro-miniatures, sierra, strategy]
 ---
 # The Charge of the Light Brigade
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
@@ -65,7 +65,7 @@ Players can choose to command either the Allied forces (British, French, and Tur
 
 ### Puzzles and Mechanics
 
-Orders can be issued through two primary modes: "Unit Mode" for commanding individual soldiers, and "Group Mode" for directing formations of up to eight units simultaneously[^ref-13]. Units can be arranged in five different tactical formations including line, column, and square configurations, each with distinct advantages in combat[^ref-12].
+Orders can be issued through two primary modes: "Unit Mode" for commanding individual units, and "Group Mode" for directing formations of up to eight units simultaneously[^ref-9]. Units can be arranged in five different tactical formations including line, column, and square configurations, each with distinct advantages in combat[^ref-12].
 
 The game employs a "table commander" feature that provides players with strategic oversight of the battlefield[^ref-3]. The real-time nature of combat requires constant attention to troop movements and positioning, as units will engage enemies automatically when in range. However, critics noted that when groups of units clash with enemy forces, they often mill around in confusion rather than engaging effectively[^ref-8].
 
@@ -164,7 +164,7 @@ The game was released simultaneously across all three platforms in 1991, with lo
 - The game is considered the only video game ever dedicated specifically to the Crimean War[^ref-3]
 - The historical charge saw 673 men begin the assault, with only 195 fit for action at its conclusion—a devastating 71% casualty rate[^ref-6]
 - The game's title and subject matter reference Alfred, Lord Tennyson's famous 1854 poem, which includes the immortal lines: "Theirs not to make reply, Theirs not to reason why, Theirs but to do and die" and "Into the valley of Death Rode the six hundred"[^ref-10]
-- The historical charge resulted from a miscommunication between Lords Raglan and Lucan, leading to one of military history's most famous blunders[^ref-13]
+- The historical charge followed a vague written order from Lord Raglan to Lord Lucan, delivered by Captain Louis Nolan; responsibility for the miscommunication is still disputed[^ref-24]
 
 ## Legacy
 
@@ -222,7 +222,6 @@ Impressions Games would find greater success with their subsequent city-building
 [^ref-10]: [Warlord Games – The Charge of the Light Brigade Poem](https://www.warlordgames.com/the-charge-of-the-light-brigade-poem/) – Tennyson quotes, historical context
 [^ref-11]: [Metacritic – The Charge of the Light Brigade Details](https://www.metacritic.com/game/the-charge-of-the-light-brigade/details/) – troop numbers, game piece count
 [^ref-12]: [LaunchBox Games Database – The Charge of the Light Brigade](https://gamesdb.launchbox-app.com/games/details/141019-the-charge-of-the-light-brigade) – resolution, formations, two-player mode
-[^ref-13]: Kagi FastGPT Research – order modes, Lords Raglan/Lucan miscommunication
 [^ref-14]: [Every Game Going – ST Format Review](https://www.everygamegoing.com/larticle/the-charge-of-the-light-brigade-000/49730/) – 52% score, James Leach review, pacing criticism
 [^ref-15]: [Lemon Amiga – The Charge of the Light Brigade](https://www.lemonamiga.com/game/charge-of-the-light-brigade) – Amiga Action, CU Amiga, Games-X scores
 [^ref-16]: [MyAbandonware – The Charge of the Light Brigade](https://www.myabandonware.com/game/the-charge-of-the-light-brigade-141) – file sizes, HOTUD quote, user rating
@@ -233,3 +232,4 @@ Impressions Games would find greater success with their subsequent city-building
 [^ref-21]: [ClassicReload – The Charge of the Light Brigade](https://classicreload.com/the-charge-of-the-light-brigade.html) – DOS platform confirmation, publisher
 [^ref-22]: [Old-Games.com – Download Page](https://www.old-games.com/download/5314/charge-of-the-light-brigade) – file sizes, Micro Miniatures series
 [^ref-23]: [Wikidata – Q29964512](https://www.wikidata.org/wiki/Q29964512) – database cross-references, country of origin
+[^ref-24]: [Wikipedia – Charge of the Light Brigade](https://en.wikipedia.org/wiki/Charge_of_the_Light_Brigade) – Raglan's written order to Lucan, Nolan's delivery, disputed responsibility for the miscommunication

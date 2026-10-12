@@ -10,20 +10,20 @@ series: Cohort
 engine: Impressions Engine
 protagonist: Roman/Barbarian Commander
 sierra_lineage: Sierra Published
-last_updated: '2026-05-11'
+last_updated: '2026-10-11'
 description: 'Cohort II: Fighting for Rome is a real-time tactics game developed and
   published by Impressions Games in 1993 for DOS, Amiga, and Atari ST platforms. Set...'
 tags: [1990s, cohort, sierra, strategy]
 ---
 # Cohort II: Fighting for Rome
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
 Cohort II: Fighting for Rome is a real-time tactics game developed and published by [[Impressions Games]] in 1993 for DOS, Amiga, and Atari ST platforms[^ref-1]. Set during the period of approximately 200 BC to 200 AD, the game places players in command of Roman legions or barbarian hordes, allowing them to orchestrate tactical battles across the ancient world[^ref-2]. As a sequel to the original Cohort: Fighting for Rome (1991), the game represented a significant upgrade with enhanced VGA graphics and expanded scenario options[^ref-3].
 
-The game was designed as part of an interlocking game system module that could be linked with Impressions' city-building title Caesar, allowing players who owned both games to resolve Caesar's city battles within the tactical framework of Cohort II[^ref-1]. This cross-game functionality made Cohort II particularly valuable as a companion piece, though critics noted it was "recommended for anyone who wants to delve into Caesar battles in more detail, but definitely not as a stand-alone product"[^ref-3]. Despite offering over two dozen pre-set scenarios and a computer opponent with adaptive tactics, the game received generally poor reviews, with critics citing frustrating controls and outdated presentation[^ref-4].[^ref-18][^ref-19][^ref-20]
+The game was designed as part of an interlocking game system module that could be linked with Impressions' city-building title Caesar, allowing players who owned both games to resolve Caesar's city battles within the tactical framework of Cohort II[^ref-1]. This cross-game functionality made Cohort II particularly valuable as a companion piece, though critics noted it was "recommended for anyone who wants to delve into Caesar battles in more detail, but definitely not as a stand-alone product"[^ref-3]. Despite offering over two dozen pre-set scenarios and a computer opponent with adaptive tactics, the game received generally poor reviews, with critics citing frustrating controls and outdated presentation[^ref-4].[^ref-18][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -234,6 +234,5 @@ The game's most significant contribution to gaming history may be its innovative
 [^ref-16]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – absence from Sierra catalog noted
 [^ref-17]: [GameFAQs – Cohort II: Fighting for Rome (Atari ST)](https://gamefaqs.gamespot.com/ast/227088-cohort-ii-fighting-for-rome/data) – Atari ST release information
 [^ref-18]: [GameFAQs – Cohort II (Amiga)](https://gamefaqs.gamespot.com/amiga/980530-cohort-ii/data) – Amiga release information
-[^ref-19]: Kagi FastGPT Research – release year confirmation, platform information
 [^ref-20]: [Amazon Product Listing](https://www.amazon.com/Cohort-II/dp/B000E5F86W) – publisher, platform, media format
 [^ref-21]: [Play Classic Games](https://playclassic.games/games/strategy-dos-games-online/play-cohort-ii-online/) – gameplay features description
