@@ -11,7 +11,7 @@ series: King's Quest
 engine: AGI
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-12'
 composer: [Margaret Lowe]
 description: 'King''s Quest III: To Heir Is Human is the third installment in the
   landmark King''s Quest series of graphic adventure games, released for MS-DOS in
@@ -20,19 +20,19 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest III: To Heir Is Human
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-King's Quest III: To Heir Is Human is the third installment in the landmark King's Quest series of graphic adventure games, released for MS-DOS in November 1986, with versions for the Apple II, Amiga, Atari ST and other platforms following in 1987–88.[^ref-1][^ref-6] Designed by [[Roberta Williams]] and developed by Sierra On-Line, the game marked a significant departure from its predecessors by abandoning the familiar setting of Daventry and introducing an entirely new protagonist.[^ref-2] The title itself is a clever pun on Alexander Pope's famous proverb "To err is human, to forgive divine."[^ref-3]
+King's Quest III: To Heir Is Human is the third installment in the landmark King's Quest series of graphic adventure games, released for MS-DOS in November 1986, with versions for the Apple II, Amiga, Atari ST and other platforms following in 1987–88.[^ref-1][^ref-6] Designed by [[Roberta Williams]] and developed by Sierra On-Line, the game marked a significant departure from its predecessors by moving away from Daventry and King Graham to the land of Llewdor and a new protagonist.[^ref-14] The subtitle is a play on the saying "to err is human".[^ref-7]
 
-This installment represented a maturation of the series, moving beyond what Williams called "treasure hunts with lots of simple goals [...] and fun puzzles" to present a more complex, narrative-driven experience.[^ref-1] The game ran under DOS rather than from a self-booting disk, and its PC releases supported CGA, Hercules and Tandy graphics, with later versions adding EGA and 3½-inch disk support.[^ref-1][^ref-26] Critics and fans have often considered King's Quest III to be the point where the series found its storytelling voice, introducing darker themes involving slavery, sorcery, and family separation.[^ref-4]
+This installment represented a maturation of the series, moving beyond what Williams called "treasure hunts with lots of simple goals [...] and fun puzzles" to present a more complex, narrative-driven experience.[^ref-1] The game ran under DOS rather than from a self-booting disk, and its PC releases supported CGA, Hercules and Tandy graphics, with later versions adding EGA and 3½-inch disk support.[^ref-1][^ref-26] Just Games Retro's reviewer saw it as "the first time Roberta and crew actually put a story together,"[^ref-4] and Williams herself later called it "very dark."[^ref-14]
 
-The game achieved considerable commercial success, selling 100,000 copies by the end of 1988 and 250,000 copies by February 1993.[^ref-1] Despite initial controversy among fans who missed King Graham as the player character, the game's mid-game revelation of the protagonist's true identity, and the family reunion at its close, helped cement it as a beloved entry in the franchise.[^ref-5]
+The game sold 100,000 copies by the end of 1988 and 250,000 copies by February 1993;[^ref-1] in Winter 1988 Sierra called it "the bestselling game in Sierra's nine year history."[^ref-30] Despite initial controversy among fans who missed King Graham as the player character, the game's mid-game revelation of the protagonist's true identity, and the family reunion at its close, helped cement it as a beloved entry in the franchise.[^ref-5]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Design/Writing:** [[Roberta Williams]][^ref-1]
+> **Design/Writing:** [[Roberta Williams]]; story/writing also credited to Annette Childs[^ref-1][^ref-14]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** AGI (Adventure Game Interpreter)[^ref-1]
 > **Platforms:** MS-DOS, Apple II, Apple IIGS, Amiga, Atari ST, Macintosh, Tandy Color Computer 3[^ref-6]
@@ -43,16 +43,16 @@ The game achieved considerable commercial success, selling 100,000 copies by the
 
 ## Story Summary
 
-The game opens in the land of Llewdor, far from the familiar kingdom of Daventry, where a young man named Gwydion serves as a slave to the wicked wizard Manannan.[^ref-2] Manannan is described as "an abusive bastard who will quite literally kill the boy if he's lax in doing his chores."[^ref-7] Gwydion has no memory of his origins, having been kidnapped as an infant and raised in servitude atop the wizard's mountain home. The wizard keeps Gwydion under constant surveillance, returning periodically to check on his slave and punish any signs of disobedience or independent thought.[^ref-8]
+The game opens in the land of Llewdor, far from the familiar kingdom of Daventry, where a young man named Gwydion serves as a slave to the wicked wizard Manannan.[^ref-14] Manannan is described as "an abusive bastard who will quite literally kill the boy if he's lax in doing his chores."[^ref-7] Kidnapped when young, Gwydion has been raised in servitude in Manannan's house, high on a mountain top.[^ref-1][^ref-27] The wizard appears without warning to stare at Gwydion or set him a new chore, which one reviewer said puts the player "in the abusive situation of always being watched by a paranoid oppressor."[^ref-4]
 
-As Gwydion explores his limited world during Manannan's absences, he discovers that the wizard possesses a spellbook containing powerful magic. The player must help Gwydion gather ingredients scattered throughout Llewdor—from a cottage inhabited by three bears to various wilderness locations—and carefully prepare spells that will eventually allow him to overcome his captor.[^ref-7] The game operates on a real-time clock displayed at the top of the screen, creating tension as the wizard follows a schedule of departures and returns.[^ref-7] Once Gwydion successfully transforms Manannan into a harmless creature using a cat cookie spell, he secures passage on a pirate ship.[^ref-8]
+As Gwydion explores his limited world during Manannan's absences, he discovers that the wizard possesses a spellbook containing powerful magic. The player must help Gwydion gather ingredients scattered throughout Llewdor—from a cottage inhabited by three bears to various wilderness locations—and carefully prepare spells that will eventually allow him to overcome his captor.[^ref-7] The game operates on a real-time clock displayed at the top of the screen, creating tension as the wizard follows a schedule of departures and returns.[^ref-7] Once Gwydion turns Manannan into a cat with a magic cookie crumbled into his porridge, he leaves Llewdor on a ship that turns out to be crewed by pirates.[^ref-1]
 
-The journey takes Gwydion across the sea to the kingdom of Daventry, which he learns has fallen into despair. A fearsome three-headed dragon terrorizes the land, and the royal family—King Graham and Queen Valanice—lost their son Alexander, kidnapped years ago, and now their daughter Rosella is to be sacrificed to the dragon.[^ref-1] The King's Quest Companion reveals that Manannan kidnapped Alexander in revenge for Graham's rescue of Valanice from his sister Hagatha in the previous game.[^ref-18] A princess named Rosella has been offered as a sacrifice to appease the dragon. Using his magical abilities, Gwydion defeats the dragon and rescues the princess.[^ref-2]
+The journey takes Gwydion across the sea to the kingdom of Daventry, which he learns has fallen into despair. A fearsome three-headed dragon terrorizes the land, and the royal family—King Graham and Queen Valanice—lost their son Alexander, kidnapped years ago, and now their daughter Rosella is to be sacrificed to the dragon.[^ref-1] The King's Quest Companion reveals that Manannan kidnapped Alexander in revenge for Graham's rescue of Valanice from his sister Hagatha in the previous game.[^ref-18][^ref-28] Using a magic brew that summons a lightning storm, Gwydion defeats the dragon and frees Rosella.[^ref-1]
 
-The game concludes with the reunion of the royal family.[^ref-1] This twist establishes the foundation for the subsequent game in the series, as "the actions taken by Gwydion in this story lead directly to the events that begin King's Quest V."[^ref-2]
+The game concludes with the reunion of the royal family.[^ref-1] Gwydion's victory over Manannan later sets up King's Quest V, in which Manannan's brother Mordack captures the royal family to force Alexander to reverse the spell.[^ref-28]
 
 > [!warning]- Major Plot Twist (Critical Spoiler)
-> Midway through the game, an oracle in a cave reveals that Gwydion is actually Prince Alexander of Daventry, the long-lost son of Graham and Valanice, kidnapped as an infant, and that his twin sister Rosella is to be sacrificed to the dragon.[^ref-1][^ref-7] After rescuing her, they return to Castle Daventry, where King Graham throws his adventuring hat to them in celebration.[^ref-1] The reunion of the royal family provides an emotionally satisfying conclusion that recontextualizes the entire adventure as a hero's journey home.[^ref-10]
+> Midway through the game, an oracle in a cave reveals that Gwydion is actually Prince Alexander of Daventry, the long-lost son of Graham and Valanice, kidnapped as an infant, and that his twin sister Rosella is to be sacrificed to the dragon.[^ref-1][^ref-7] After rescuing her, they return to Castle Daventry, where King Graham throws his adventuring hat to them in celebration.[^ref-1]
 
 ## Gameplay
 
@@ -77,7 +77,7 @@ Roberta Williams later put the game at about 104 "rooms" (screens), against abou
 
 King's Quest III introduced several innovative mechanics to the adventure game genre. Most notably, it was reputedly the first adventure game with auto-mapping: a magic map that fills itself in as the player explores and lets him teleport to visited places.[^ref-8][^ref-19] Sierra used it as "a major marketing hook, only to discover fans despised it because they felt it made the game too easy."[^ref-8] Sierra would not use this mechanic again until a modified version appeared in King's Quest VI.[^ref-5]
 
-The spell-casting system forms the core of the gameplay, requiring players to follow precise recipes from the game manual to create magical effects.[^ref-14] This served as both a gameplay mechanic and copy protection, as the spell formulas were only printed in the manual.[^ref-14] However, Compute!'s Official Book of King's Quest later published all the spells, providing an alternative source for players who had "lost" their manuals.[^ref-19] The process involved gathering specific ingredients, combining them in exact sequence, and reciting incantations with perfect spelling and punctuation.[^ref-7] "If you forgot to get an item or make a typo (even a misplaced comma), you'll screw up the process and inflict some comical ailment on yourself, triggering a Game Over."[^ref-7]
+The spell-casting system forms the core of the gameplay, requiring players to follow precise recipes from the game manual to create magical effects.[^ref-14] This served as both a gameplay mechanic and copy protection, as the spell formulas were only printed in the manual; it was the first game in which Sierra used manual-based copy protection.[^ref-14] However, Compute!'s Official Book of King's Quest later published all the spells, providing an alternative source for players who had "lost" their manuals.[^ref-19] The process involved gathering specific ingredients, combining them in exact sequence, and reciting incantations with perfect spelling and punctuation.[^ref-7] "If you forgot to get an item or make a typo (even a misplaced comma), you'll screw up the process and inflict some comical ailment on yourself, triggering a Game Over."[^ref-7]
 
 The time pressure created by Manannan's schedule makes the first portion of the game particularly tense. As one review noted, "It's a remarkably tense experience, even though it can get quite frustrating if you take too long and inadvertently get caught."[^ref-7] Once the player leaves Llewdor, there is no way to return and create additional spells, creating potential dead-end situations.[^ref-7]
 
@@ -85,11 +85,13 @@ The time pressure created by Manannan's schedule makes the first portion of the 
 
 ### Contemporary Reviews
 
-Computer Gaming World featured a review by Roy Wagner ("King's Quest III: Off on a Quest", issue 38, June 1987, p. 18), who found it unfairly hard.[^ref-1]
+Roy Wagner reviewed the game in Computer Gaming World ("OFF on a QUEST", issue 38, June/July 1987, p. 18), covering the Amiga and IBM PC versions. He found it "more challenging than its two predecessors" and said a buyer should "add the price for the Hint Book too"; of the hidden magic map, he wrote, "That is going beyond fair game play."[^ref-27]
+
+Other contemporary reviews were generally positive. *Tilt* praised the size and variety of the game world and called it the best of the three games; Stephen Pietrowicz of *Amazing Computing* found it "more complex and much more satisfying"; Sol and Rebecca Guber of *Antic* and the reviewer from *Computer Entertainer* thought it better than the first two but harder; Rick Teverbaugh of *Atari Explorer* felt it lacked gameplay innovation since King's Quest I but praised its graphics.[^ref-1]
 
 The release was initially met with controversy from the fanbase. As documented in the King's Quest Collection II Manual, "The release of this product in 1986 was quickly met with loud protests from gamers claiming that King's Quest III wasn't really a King's Quest at all" due to the absence of King Graham as the protagonist.[^ref-14] Before the internet, games like this "could take several weeks or even months to complete," so fans were slow to realise the connection between Gwydion and Graham.[^ref-8]
 
-Roberta Williams herself acknowledged the game's controversial nature in 1997: "KQ3 was very dark, and it utilized lots of magic and magic spells with the basic idea of finding ingredients for 'black magic' spells and then casting those spells. Certain religious groups were upset with me over that one!"[^ref-14]
+The King's Quest Omnipedia quotes Roberta Williams, dating the remark to 1997 (no primary source for it has been found): "KQ3 was very dark, and it utilized lots of magic and magic spells with the basic idea of finding ingredients for 'black magic' spells and then casting those spells. Certain religious groups were upset with me over that one!"[^ref-14]
 
 ### Modern Assessment
 
@@ -110,7 +112,7 @@ In recognition of its lasting impact, Time Magazine ranked King's Quest III at #
 
 ### Origins
 
-Roberta Williams conceived King's Quest III as an evolution of the series' storytelling capabilities. By the mid-1980s, new computer platforms like the IBM AT, Amiga, and Macintosh offered faster processors, more memory, and standard hard disks—enabling games of greater complexity than had been possible on 8-bit machines.[^ref-24] The first two games had a less complex plot than Williams wanted, as memory and space limits constrained her, resulting in "treasure hunts with lots of simple goals [...] and fun puzzles."[^ref-1]
+Roberta Williams conceived King's Quest III as an evolution of the series' storytelling capabilities. For this game she relied less on fairy tale scenarios, aiming for a more "adult" story, though it still included characters like Medusa and the three bears.[^ref-1] The first two games had a less complex plot than Williams wanted, as memory and space limits constrained her, resulting in "treasure hunts with lots of simple goals [...] and fun puzzles."[^ref-1]
 
 The decision to move away from King Graham as protagonist was deliberate and strategic. Williams explained that seeing Rosella on screen toward the end of development inspired future directions: "Rosella was introduced toward the end of the game; seeing her on the screen for the first time, I suddenly saw her on her own adventures in a sequel."[^ref-20] This would lead directly to King's Quest IV: The Perils of Rosella.
 
@@ -122,9 +124,11 @@ The development team consisted of 18 credited personnel.[^ref-6] The Apple II ve
 
 **Development Credits:**[^ref-12][^ref-6]
 - **Game Designer:** Roberta Williams
+- **Writing/Story:** Roberta Williams, Annette Childs[^ref-1][^ref-14]
 - **Programmers:** [[Jeff Stephenson]], Bob Kernaghan, Robert [Bob] Heitman, Chris Iden, [[Al Lowe]]
 - **Graphic Artists:** [[Mark Crowe]], Doug MacNeill
 - **Composer:** Margaret Lowe
+- **Packaging and Documentation:** Annette Childs, Greg Steffen, John T. Shaw[^ref-14]
 
 ### Technical Achievements
 
@@ -159,11 +163,11 @@ No significant cut content has been documented in available research materials.
 |---------|------|----------|-------|
 | 1.01 | 1986-11-08 | MS-DOS | Original release with disk-based copy protection; AGI interpreter v2.272[^ref-26] |
 | 2.00 | 1987-05-25 | MS-DOS | AGI interpreter v2.435; modified script, drop-down menus[^ref-14][^ref-26] |
-| 2.14 | 1988-03-15 | MS-DOS | First 3.5" release; included in King's Quest collections, disk-based copy protection removed[^ref-1][^ref-26] |
+| 2.14 | 1988-03-15 | MS-DOS | First 3.5" release (two disks); added MCGA support; AGI interpreter v2.936; still shipped with a key disk[^ref-26] |
 | Budget | 1994 | Atari ST | Kixx XL budget release, distributed by US Gold[^ref-12] |
 
-**AGI Interpreter Versions:**[^ref-3]
-- Original 1986 release used AGI engine
+**AGI Interpreter Versions:**[^ref-26]
+- Original 1986 release (1.01) used AGI interpreter v2.272
 - 1987 rerelease utilized an updated AGI interpreter (v2.435) with drop-down menus[^ref-26]
 
 ### Technical Issues
@@ -199,15 +203,15 @@ King's Quest III did not feature voice acting, relying entirely on text-based di
 
 ### Sales and Commercial Impact
 
-King's Quest III achieved strong commercial performance, selling 250,000 copies by February 1993.[^ref-1] It had sold 100,000 copies by the end of 1988.[^ref-1]
+King's Quest III achieved strong commercial performance, selling 250,000 copies by February 1993.[^ref-1] It had sold 100,000 copies by the end of 1988,[^ref-1] earning an SPA Gold Medal from the Software Publishers Association, which Sierra described as an audited award for titles selling 100,000 units.[^ref-30] Before the Apple II version shipped in Spring 1988, over 20,000 copies had already been placed on order.[^ref-22]
 
 ### Collections
 
-The game has been included in numerous Sierra compilations over the years. Version 2.14 appeared in King's Quest collections with the disk-based copy protection removed.[^ref-1] It was included in the Windows XP King's Quest Collection, though one reviewer found that this version appears to randomize Manannan's timings, which he felt restored the tension of the timer.[^ref-4]
+The game has been included in numerous Sierra compilations over the years. All retail versions, including 2.14, shipped with a key disk;[^ref-26] the key-disk check was removed only in the later King's Quest Collection releases.[^ref-14] It was included in the Windows XP King's Quest Collection, though one reviewer found that this version appears to randomize Manannan's timings, which he felt restored the tension of the timer.[^ref-4]
 
 ### Fan Projects
 
-King's Quest III has inspired notable fan remake projects. Hardcore Gaming 101 compared the AGDI (Anonymous Game Developers Interactive) version favorably against the Infamous Adventures remake, concluding that "the AGDI version is the better of the two, besting the Infamous version in practically every category."[^ref-7] Infamous Adventures' 2006 version is a fairly faithful recreation, while AGDI's 2011 Redux is a more substantial overhaul.[^ref-7]
+King's Quest III has inspired two fan remakes. AGDI (Anonymous Game Developers Interactive) is a group that remakes classic Sierra On-Line adventure games and offers them as free downloads.[^ref-29] Hardcore Gaming 101 compared the AGDI (Anonymous Game Developers Interactive) version favorably against the Infamous Adventures remake, concluding that "the AGDI version is the better of the two, besting the Infamous version in practically every category."[^ref-7] Infamous Adventures' 2006 version ([[2006 - King's Quest III Remake (Infamous Adventures)]]) is a fairly faithful recreation, while AGDI's 2011 [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux]] is a more substantial overhaul.[^ref-7]
 
 ### Related Publications
 
@@ -216,22 +220,17 @@ King's Quest III has inspired notable fan remake projects. Hardcore Gaming 101 c
 
 ### Critical Perspective
 
-King's Quest III represents a pivotal moment in Sierra's evolution and in adventure gaming more broadly. As Just Games Retro observed, it was "the first of the series that involves more than just navigating a stick-man around the screen and grabbing items"—the first King's Quest with a genuine story.[^ref-4] The game's willingness to take risks, abandoning the beloved protagonist Graham for an unknown slave boy, demonstrated creative ambition that would characterize Sierra's golden age.
+King's Quest III represents a pivotal moment in Sierra's evolution and in adventure gaming more broadly. As Just Games Retro observed, it was "the first of the series that involves more than just navigating a stick-man around the screen and grabbing items"—the first King's Quest with a genuine story.[^ref-4]
 
-The game's influence on narrative design in adventure games cannot be overstated. Its identity reveal tied a seemingly unrelated story back to the royal family. MobyGames user Jayson Firestorm noted that "This adventure probably has by far the most original premise of any of the King's Quest games... it's almost like 'The Great Escape' with a magical twist."[^ref-15]
+Its identity reveal tied a seemingly unrelated story back to the royal family.[^ref-1] MobyGames user Jayson Firestorm noted that "This adventure probably has by far the most original premise of any of the King's Quest games... it's almost like 'The Great Escape' with a magical twist."[^ref-15]
 
-However, the game also exemplifies the design philosophy that would eventually fall out of favor: instant deaths, dead ends, and punishing save requirements. As one reviewer bluntly stated, the game "is VEEERY difficult, unforgiving, and it takes probably weeks, maybe months to beat it without walkthrough."[^ref-15] These elements, while creating tension, have prevented the game from achieving the timeless playability of later adventure game classics.
+However, the game also exemplifies the design philosophy that would eventually fall out of favor: instant deaths, dead ends, and punishing save requirements. As one reviewer bluntly stated, the game "is VEEERY difficult, unforgiving, and it takes probably weeks, maybe months to beat it without walkthrough."[^ref-15]
 
 ## Downloads
 
 **Purchase / Digital Stores**
 - [GOG](https://www.gog.com/game/kings_quest_1_2_3) - Available in King's Quest 1+2+3 bundle
 - [Steam](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) - Part of King's Quest Collection
-
-**Download / Preservation**
-
-**Manuals & Extras**
-- Manual PDF containing spell formulas available through digital collections
 
 ## See Also
 
@@ -248,14 +247,11 @@ However, the game also exemplifies the design philosophy that would eventually f
 ## References
 
 [^ref-1]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – release dates, sales data, awards, Roberta Williams quotes, technical specifications, version history
-[^ref-2]: ClassicReload – King's Quest III *(download link removed: the game is sold commercially)* – plot summary, developer/publisher information, story connections
-[^ref-3]: ClassicReload – Mac King's Quest III *(download link removed: the game is sold commercially)* – AGI V3 engine details, title pun origin, technical firsts
 [^ref-4]: [Just Games Retro – King's Quest III](https://www.justgamesretro.com/dos/kings-quest-iii-to-heir-is-human) – gameplay analysis, version differences, parser criticism
 [^ref-5]: [Diary of a Part Time Writer – King's Quest III](https://diaryofapartimewriter.wordpress.com/tag/kings-quest-iii-to-heir-is-human/) – retrospective review, rating, magic map mechanic, fan reception
 [^ref-6]: [MobyGames – King's Quest III](https://www.mobygames.com/game/126/kings-quest-iii-to-heir-is-human/) – release dates, credits, technical specifications, trivia, aggregate ratings
 [^ref-7]: [Hardcore Gaming 101 – King's Quest III](http://www.hardcoregaming101.net/kings-quest-iii-to-heir-is-human/) – gameplay analysis, Easter eggs, fan remake comparison
 [^ref-8]: [NAG – Retro Review: King's Quest III](https://www.nag.co.za/2012/02/08/retro-review-kings-quest-iii-to-heir-is-human/) – retrospective analysis, fan reception, auto-mapping controversy
-[^ref-9]: Play Classic Games – King's Quest III *(download link removed: the game is sold commercially)* – plot description, difficulty comparison
 [^ref-10]: [Pixelated Arcade – King's Quest III](https://www.pixelatedarcade.com/games/kings-quest-iii-to-heir-is-human) – technical improvements, character revelation
 [^ref-11]: [Rock Paper Shotgun – Have You Played King's Quest III](https://www.rockpapershotgun.com/have-you-played-kings-quest-iii-to-heir-is-human) – parser mechanics, cat obstacle, EGA graphics
 [^ref-12]: [Atarimania – King's Quest III](https://www.atarimania.com/game-atari-st-king-s-quest-iii-to-heir-is-human_20948.html) – Atari ST specifications, credits, budget release, community rating
@@ -263,12 +259,14 @@ However, the game also exemplifies the design philosophy that would eventually f
 [^ref-14]: [King's Quest Omnipedia – King's Quest III (1987)](https://kingsquest.fandom.com/wiki/King%27s_Quest_III:_To_Heir_is_Human_(1987)) – copy protection details, Easter eggs, point distribution, initial fan reaction
 [^ref-15]: [MobyGames – King's Quest III Reviews](https://www.mobygames.com/game/126/kings-quest-iii-to-heir-is-human/reviews/) – user reviews, difficulty criticism, premise praise
 [^ref-16]: [GameFAQs – King's Quest III (PC) User Review](https://gamefaqs.gamespot.com/pc/562687-kings-quest-iii-to-heir-is-human/reviews/28183) – graphics/sound commentary, user rating
-[^ref-17]: [Robert Gomez – King's Quest III](https://robertgomez.org/fun-stuff/games/kings-quest-iii-to-heir-is-human/) – narrative analysis, gameplay criticism, manual dependency
 [^ref-18]: [The King's Quest Companion (3rd ed.)](https://archive.org/details/kingsquestcompan00spea) – Peter Spear (Osborne McGraw-Hill, 1993), character backstories, Manannan's revenge motive
 [^ref-19]: [MobyGames – King's Quest III Trivia](https://www.mobygames.com/game/126/kings-quest-iii-to-heir-is-human/trivia/) – CGA special effects, skin tone changes, sound system quirks
 [^ref-20]: [Adventure Classic Gaming – King's Quest III Review](https://www.adventureclassicgaming.com/index.php/site/reviews/88/) – Rosella sequel inspiration, retrospective analysis
 [^ref-21]: [Time Magazine – The 50 Best Video Games of All Time (Wayback, Aug 2016)](https://web.archive.org/web/20160826010703/http://time.com/4458554/best-video-games-all-time/) – August 2016, ranked King's Quest III at #50
 [^ref-22]: [Sierra Newsletter Vol. 1 No. 3](https://archive.org/details/003_Sierra_Newsletter_Volume_1_Number_3_Spring_1988) – Spring 1988, Apple II release, five double-sided disks, "second largest game"
-[^ref-24]: Games vs. Hardware: The History of PC Video Games *(no archived copy found)* – Bogdan Ion Purcaru (2014), technical advancement context
 [^ref-25]: ["Roberta Williams on King's Quest" (reprinted from QuestBusters), Sierra Newsletter Vol. 1 No. 4, Winter 1988, p. 14](https://archive.org/details/004_Sierra_Newsletter_Volume_1_Number_4_Winter_1988) – room counts for King's Quest I–III
 [^ref-26]: [DOS Days – King's Quest III](https://www.dosdays.co.uk/topics/Games/game_kq3.php) – version dates, AGI interpreter versions, disks, graphics support, system requirements
+[^ref-27]: [Computer Gaming World #38 (June/July 1987) – "OFF on a QUEST" by Roy Wagner, p. 18](https://archive.org/details/Computer_Gaming_World_Issue_38) – contemporary review of the Amiga and IBM PC versions, difficulty, hint book, magic map
+[^ref-28]: [King's Quest Omnipedia – Manannan](https://kingsquest.fandom.com/wiki/Manannan) – revenge motive for Alexander's kidnapping, Mordack's revenge in King's Quest V
+[^ref-29]: [AGD Interactive – About Us](https://www.agdinteractive.com/about/about.html) – AGDI (Anonymous Game Developers Interactive) remakes classic Sierra games as free downloads
+[^ref-30]: [Sierra Newsletter Vol. 1 No. 4, Winter 1988](https://archive.org/details/004_Sierra_Newsletter_Volume_1_Number_4_Winter_1988/page/4/mode/2up) – "Three More Sierra Games Go for the Gold!" (SPA Gold Medal for King's Quest III); front-page Apple IIGS article calls it "the bestselling game in Sierra's nine year history"
