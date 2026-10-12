@@ -10,41 +10,41 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Fan Project
-last_updated: '2026-05-08'
+last_updated: '2026-10-12'
 description: 'King''s Quest III Redux: To Heir is Human is a fan-made remake of Roberta
   Williams'' 1986 classic adventure game, developed by AGD Interactive and released...'
 tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III Redux: To Heir is Human
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-King's Quest III Redux: To Heir is Human is a fan-made remake of [[Roberta Williams]]' 1986 classic adventure game, developed by [[AGD Interactive]] and released for free on March 11, 2011[^ref-1]. The remake transforms the original 16-color EGA graphics into stunning hand-painted SVGA artwork, replaces the text parser with a point-and-click interface, and adds professional voice acting, an original digital musical score, and numerous gameplay refinements[^ref-2]. This project marked AGD Interactive's final free fan remake before the studio transitioned to developing original commercial titles under the Himalaya Studios name[^ref-3].
+King's Quest III Redux: To Heir is Human is a fan-made remake of [[Roberta Williams]]' 1986 classic adventure game, developed by [[AGD Interactive]] and released for free on February 24, 2011[^ref-25][^ref-26]. The remake transforms the original 16-color EGA graphics into stunning hand-painted SVGA artwork, replaces the text parser with a point-and-click interface, and adds professional voice acting, an original digital musical score, and numerous gameplay refinements[^ref-2]. It was the last in a line of non-profit projects AGD Interactive had worked on between 2003 and 2010[^ref-25]; on release, the team announced it would turn to original commercial games, previewing *Mage's Initiation* from its sister company, Himalaya Studios[^ref-3].
 
-The game follows Gwydion, a seventeen-year-old slave of the cruel wizard Manannan, as he discovers his true identity and attempts to escape servitude[^ref-4]. While not considered a "true" remake due to additional content including new side quests, puzzles, and characters, the core story remains faithful to [[Roberta Williams]]' original vision[^ref-5]. The remake eliminates many of the frustrating elements of the original, such as the tedious mountain climbing and extended real-time waiting sequences on the pirate ship, while introducing new Easter eggs and story connections to AGD Interactive's previous King's Quest remakes[^ref-4].
+The game follows Gwydion, a seventeen-year-old slave of the cruel wizard Manannan, as he discovers his true identity and attempts to escape servitude[^ref-4]. While not considered a "true" remake due to additional content including new side quests, puzzles, and characters, the core story remains faithful to [[Roberta Williams]]' original vision[^ref-5]. The remake eliminates some of the frustrating elements of the original, such as the walk down the mountain after escaping the house and the near-hour real-time wait on the pirate ship, while introducing new Easter eggs and story connections to AGD Interactive's previous King's Quest remakes[^ref-4].
 
-Developed in secret over approximately eight years, King's Quest III Redux represents the culmination of AGD Interactive's dedication to preserving and enhancing Sierra's classic adventure gaming legacy[^ref-3]. The game has been downloaded by thousands of fans worldwide, earning praise for its exceptional music, compelling storytelling, and faithful yet modernized approach to the beloved source material[^ref-7].
+Developed in secret over approximately eight years, King's Quest III Redux represents the culmination of AGD Interactive's dedication to preserving and enhancing Sierra's classic adventure gaming legacy[^ref-3]. Player reviews singled out its music and its storytelling for praise[^ref-7][^ref-4].
 
 > [!info]- Game Info
-> **Developer:** [[AGD Interactive]][^ref-1]
-> **Designer:** Daniel Stacey[^ref-8]
-> **Publisher:** AGD Interactive[^ref-1]
+> **Developer:** [[AGD Interactive]][^ref-8]
+> **Designer:** Daniel Stacey[^ref-27]
+> **Publisher:** AGD Interactive[^ref-8]
 > **Engine:** Adventure Game Studio (AGS)[^ref-4]
-> **Platforms:** Windows, Macintosh[^ref-1]
+> **Platforms:** Windows, Macintosh[^ref-3][^ref-24]
 > **Release Year:** 2011
 > **Series:** King's Quest
 > **Protagonist:** Gwydion (Prince Alexander)
-> **Sierra Lineage:** Fan Remake
+> **Sierra Lineage:** Fan Project
 
 ## Story Summary
 
-The game is set in the distant land of Llewdor, where Gwydion has spent his entire remembered life as the slave of the powerful and malevolent wizard Manannan[^ref-9]. Snatched from his family as an infant, Gwydion has no memory of his true origins and lives in constant fear of his cruel master, who watches his every move and punishes the slightest transgression with magical torment or death[^ref-10]. Over the years, Manannan has kidnapped other boys before Gwydion, and as the young man approaches his eighteenth birthday, he realizes that his master's previous servants have all mysteriously disappeared upon reaching adulthood[^ref-4].
+The game is set in the dark land of Llewdor, where Gwydion has been a servant of the evil wizard Manannan for as long as he can remember[^ref-16]. Kidnapped by Manannan as an infant, Gwydion knows nothing of his true heritage[^ref-8], and his master punishes disobedience with magical torments, such as turning him into a snail, or with death[^ref-16]. As in the original game, Manannan has kept a series of young slaves before Gwydion and killed each one on reaching 18, and Gwydion is now nearing his eighteenth birthday[^ref-20].
 
-Working in secret during the brief moments when Manannan leaves the mountain house on his journeys, Gwydion must gather forbidden ingredients for ancient spells while avoiding his master's ever-watchful gaze[^ref-4]. The wizard keeps a magical book of spells hidden in his laboratory, and Gwydion must carefully study these dark arts to find a means of escape[^ref-9]. The game features a unique tension as players must manage their time carefully—if Manannan returns to find Gwydion away from his duties or discovers evidence of the young man's secretive activities, the consequences are swift and fatal[^ref-10].
+Working in secret during the brief moments when Manannan leaves the mountain house on his journeys, Gwydion must gather forbidden ingredients for ancient spells while avoiding his master's ever-watchful gaze[^ref-4]. Manannan's own spellbook becomes Gwydion's means of escape[^ref-20]. The game sustains a constant tension: if any spell ingredient is still in Gwydion's inventory when Manannan is around, it means instant death[^ref-16].
 
-As Gwydion explores Llewdor and uncovers the truth about the wizard and his previous captives, he discovers something far more significant about his own identity[^ref-4]. The journey eventually leads beyond Llewdor's borders, as Gwydion learns he is actually Prince Alexander of Daventry, the long-lost son of King Graham and Queen Valanice, stolen from his crib seventeen years ago[^ref-11]. With this revelation, the young prince must use all the magical knowledge he has gained to defeat Manannan and return home to save his family and kingdom from a terrible dragon that has been terrorizing the land[^ref-20].
+As Gwydion explores Llewdor and uncovers the truth about the wizard and his previous captives, he discovers something far more significant about his own identity[^ref-4]. An oracle reveals that he is actually Prince Alexander of Daventry, kidnapped at a young age, and that his sister, Princess Rosella, will be sacrificed to a three-headed dragon attacking Daventry unless he rescues her[^ref-20]. The prince must use the magic he has learned to defeat Manannan, leave Llewdor by ship, and return home to face the dragon[^ref-20].
 
 The remake features some new scenes that tie into the "Myth Arc" established in AGD Interactive's previous remake, King's Quest II: Romancing the Stones, though the story overhaul is less extensive than in that earlier project[^ref-13].
 
@@ -52,7 +52,7 @@ The remake features some new scenes that tie into the "Myth Arc" established in 
 
 ### Interface and Controls
 
-King's Quest III Redux completely eliminates the keyboard typing-based command system of the original 1986 game in favor of an intuitive point-and-click interface[^ref-10]. The game features an illustrated control bar that allows players to easily switch between actions such as walking, looking, talking, and interacting with objects[^ref-5]. This modernization removes one of the most significant barriers to accessibility that plagued the original text parser games, where players often struggled to guess the exact phrasing the game expected[^ref-14].
+King's Quest III Redux completely eliminates the keyboard typing-based command system of the original 1986 game in favor of an intuitive point-and-click interface[^ref-16]. The game features an illustrated control bar that allows players to easily switch between actions such as walking, looking, talking, and interacting with objects[^ref-5]. This modernization removes one of the most significant barriers to accessibility that plagued the original text parser games, where players often struggled to guess the exact phrasing the game expected[^ref-14].
 
 The remake also simplifies the spellcasting system considerably. Where the original game required players to precisely type out spell incantations from the physical manual as a form of copy protection, the Redux version provides on-screen instructions that guide players through the magical procedures[^ref-13]. This change preserves the immersive ritual of preparing spells while eliminating the frustration of typos and the need for manual reference.
 
@@ -61,8 +61,8 @@ The remake also simplifies the spellcasting system considerably. Where the origi
 The game is structured around Gwydion's attempts to escape Manannan's control, with gameplay divided between several key locations and activities:
 
 - **Manannan's House:** The wizard's mountain dwelling where Gwydion performs his slave duties, sneaks into forbidden areas, and gathers spell ingredients
-- **Llewdor Countryside:** The surrounding land where Gwydion can explore, meet characters like the Three Bears, and collect items needed for his spells[^ref-10]
-- **The Town:** A small settlement with a tavern and store where Gwydion can acquire supplies and information[^ref-11]
+- **Llewdor Countryside:** The surrounding land where Gwydion can explore, meet characters like the Three Bears, and collect items needed for his spells[^ref-16]
+- **Port Bruce:** A port town whose shop "contains many essential items that an intrepid adventurer might find useful"[^ref-24]
 - **The Pirate Ship:** A critical passage that takes Gwydion away from Llewdor toward his destiny
 - **Daventry:** The kingdom of Gwydion's birth, where the final confrontation takes place[^ref-20]
 
@@ -70,7 +70,7 @@ The Redux version removes much of the tedious waiting that characterized the ori
 
 ### Puzzles and Mechanics
 
-Central to the gameplay is the collection of ingredients and the casting of magical spells from Manannan's spellbook[^ref-9]. Players must search the house and surrounding lands for components like mandrake root, carefully timing their activities around the wizard's unpredictable schedule. The spellcasting sequences themselves are ritualistic procedures that add atmosphere to the game[^ref-13].
+Central to the gameplay is the collection of ingredients and the casting of magical spells from Manannan's spellbook; collectable items highlighted in blue are potential spell ingredients[^ref-16]. Players must search the house and surrounding lands for components like mandrake root, carefully timing their activities around the wizard's unpredictable schedule. The spellcasting sequences themselves are ritualistic procedures that add atmosphere to the game[^ref-13].
 
 The remake addresses many dead-end situations that plagued the original. For example, in the original game, using the bowl of porridge at the wrong time could make the game unwinnable, but the Redux allows players to obtain another bowl from the Three Bears' house[^ref-15]. However, some failure states remain—players can only fail to feed Manannan four times before he kills Gwydion, maintaining tension without creating unsolvable situations[^ref-15].
 
@@ -80,22 +80,21 @@ Inventory management remains crucial, as many puzzles require combining items or
 
 ### Contemporary Reviews
 
-Upon release, King's Quest III Redux received enthusiastic responses from fans and reviewers alike. GameSpot user asian_pride69 awarded the game 8 out of 10, praising it despite "a few drawbacks" and noting that "Manannan is absolutely one of the most terrifying figures I've ever encountered" among video game villains[^ref-10]. The reviewer emphasized the exceptional value proposition: "And the best thing about all this? It's free."[^ref-10]
+Upon release, King's Quest III Redux received enthusiastic responses from fans and reviewers alike. NoobFeed's David Gabriel scored the game 80/100, summing it up: "There's a ton of enjoyment to be had in this Sierra classic adventure, despite having to cope with a few drawbacks."[^ref-16] He wrote that "Manannan is absolutely one of the most terrifying figures I've ever encountered" among video game villains, and judged the remake "designed to meet the standards the original had set almost two decades ago," though he warned that "newcomers will have a very trying, confusing experience with it." His verdict closed: "And the best thing about all this? It's free."[^ref-16]
 
-NoobFeed's David Gabriel scored the game 80/100, describing it as a Sierra classic adventure with "a ton of enjoyment to be had" and commending the remake for meeting "standards the original had set almost two decades ago"[^ref-16]. User rogeru on the AGD Interactive forums gave the game outstanding marks, rating Story and Music/Sound as 10/10 and Gameplay as 9/10, calling it "by far...by FAR the most satisfying adventure game I've ever played"[^ref-7].
+User rogeru on the AGD Interactive forums rated Story and Music/Sound 10/10 and Gameplay 9/10 (Graphics drew a lower 7/10), calling it "by far...by FAR the most satisfying adventure game I've ever played"[^ref-7].
 
 Multiple reviewers singled out the musical score for special praise. Rogeru declared "Oh the MUSIC!!! The music in this game was by far the most compelling element of design!"[^ref-7] The emotional storytelling also resonated with players, with the same reviewer noting: "Beautiful story. Something about Gwydion discovering the truth behind the wizard and the past Gwydions really hit me on an emotional level."[^ref-7]
 
 ### Modern Assessment
 
-The game has maintained a positive reputation in the years since release. On the Adventure Game Studio database, user FamousAdventurer77 described it as "an epic experience start-to-finish," praising how "the gripes I had in the original KQ3 are gone" and noting the "stunning graphics and memorable score, with lots of replay value."[^ref-4] User Sledgy simply stated "Best KQ chapter. Gwydion is sort of new Graham."[^ref-4]
+The game has maintained a positive reputation in the years since release. On the Adventure Game Studio database, user FamousAdventurer77 described it as "an epic experience start-to-finish," praising how "the gripes I had in the original KQ3 are gone" and adding: "The graphics are stunning and the score is memorable, with lots of replay value."[^ref-4] User Sledgy simply stated "Best KQ chapter. Gwydion is sort of new Graham"[^ref-4].
 
-Knoji awarded the game a perfect 5 out of 5, observing that "In today's world where just about everything has a price, King's Quest III Redux proves to be a great deviation from the mold. Not only is it free but it also is of high quality which surpasses even some of the paid games of its kind."[^ref-17]
+Knoji awarded the game a perfect 5 out of 5, observing that "In today's world where just about everything has a price, Kings Quest III Redux proves to be a great deviation from the mold. Not only is it free but it also is of high quality which surpasses even some of the paid games of its kind."[^ref-17]
 
 **Aggregate Scores:**
 - **MobyGames:** 76% (Critics)[^ref-8]
-- **IMDB:** 6.8/10 (28 ratings)[^ref-11]
-- **Gamewise:** 4.00/5 (3 ratings)[^ref-18]
+- **IMDb:** 7.3/10 (28 ratings, as of October 2026)[^ref-11]
 - **Free Games Utopia:** 3.54/5.00 (13 ratings)[^ref-2]
 - **Abandonware DOS:** 3.57/5.00 (14 votes)[^ref-19]
 
@@ -114,56 +113,58 @@ King's Quest III Redux received significant recognition at the 2011 AGS Awards, 
 
 ### Origins
 
-AGD Interactive (originally known as "Anonymous Game Developers") had established itself as a premier creator of Sierra fan remakes through their enhanced versions of King's Quest I and King's Quest II[^ref-2]. Following the tradition of those earlier projects, the team set their sights on King's Quest III, Roberta Williams' dark tale of magic and identity that had originally pushed Sierra's technical boundaries in 1986[^ref-20].
+AGD Interactive (originally known as "Anonymous Game Developers") had established itself as a creator of Sierra fan remakes through their enhanced versions of King's Quest I and King's Quest II[^ref-2][^ref-3]. King's Quest III won a June 2002 poll on the AGDI forums for the group's next project, and the remake grew out of a scripted demo by forum member Sean Nichols, which AGDI's senior staff took under its wing[^ref-25]. Following the tradition of those earlier projects, the team set their sights on King's Quest III, Roberta Williams' dark tale of magic and identity that had originally pushed Sierra's technical boundaries in 1986[^ref-20].
 
-The original King's Quest III represented a significant evolution for the series. As Roberta Williams herself explained: "My previous games, from Mystery House to King's Quest II, were all great. But they were essentially glorified treasure hunts... your object being to win the game by finding and collecting items. It was not possible to have bigger and more complex plots than that thanks to technical limitations."[^ref-20] King's Quest III broke this mold with its darker themes and more complex narrative structure, featuring the series' first protagonist other than King Graham[^ref-20].
+The original King's Quest III represented a significant evolution for the series. Williams had found the first two games' plots limited by the memory of computers of the time, and for King's Quest III she aimed at a more "adult" story[^ref-20]. It was also the first King's Quest not to star King Graham, following the slave Gwydion instead[^ref-3].
 
 ### Production
 
 Development on King's Quest III Redux was conducted "in secret" over approximately eight years, demonstrating the team's commitment to quality and thoroughness[^ref-3]. Co-founder Chris Warren expressed the team's dedication upon release: "We're very excited to finally release this game after developing it in secret for so long. We've poured a lot of love into this particular project and I think King's Quest fans will be very pleased at the results, even though reaching the end may be bittersweet."[^ref-3]
 
-The "bittersweet" aspect Warren referenced was AGD Interactive's decision to transition away from fan remakes. "Now we plan to focus on new, original games that retain the same retro charm that made the Sierra games so enduring," Warren announced[^ref-3]. King's Quest III Redux thus represents both a culmination of the team's fan project work and a transition point to their commercial endeavors under the Himalaya Studios banner.
+The "bittersweet" aspect Warren referenced was AGD Interactive's decision to transition away from fan remakes. "Now we plan to focus on new, original games that retain the same retro charm that made the Sierra games so enduring," Warren announced[^ref-3]. The same day, the team previewed its next game, *Mage's Initiation: Reign of the Elements*, on the website of Himalaya Studios, the sister company Warren had also co-founded[^ref-3].
 
 The game features completely redrawn background artwork in a "lush storybook style"[^ref-3], replacing the original's 16-color EGA graphics with hand-painted SVGA visuals[^ref-3]. An entirely original digital musical score was composed specifically for the remake[^ref-2], and the team recruited professional voice actors to bring the characters to life.
 
-**Development Credits:**[^ref-8]
+**Development Credits:**[^ref-27][^ref-30]
 - **Designer:** Daniel Stacey
-- **Composers:** Brandon Blume, Tom Lewandowski (credited as "MusicallyInspired")
+- **Lead director and scripter:** Sean Nichols
+- **Original Music Soundtrack:** Brandon Blume ("MusicallyInspired")
+- **Additional Music Themes:** Tom Lewandowski (QuestStudios)
 - **Based on Original Game by:** Roberta Williams
 
 ### Technical Achievements
 
 King's Quest III Redux was built using the Adventure Game Studio (AGS) engine, the same tool used for the team's previous remakes and a popular choice among amateur adventure game developers[^ref-4]. The game features 320x200 resolution with 32-bit color graphics[^ref-4], representing a massive visual upgrade from the original's limited EGA palette.
 
-The remake introduced numerous quality-of-life improvements beyond the interface overhaul. The tedious mountain path navigation from the original, which required players to carefully navigate treacherous stairs and slopes, was streamlined[^ref-4]. The extended real-time waiting sequence aboard the pirate ship—during which players in the original game had to wait nearly an hour with little to do—was significantly condensed[^ref-4].
+The remake introduced numerous quality-of-life improvements beyond the interface overhaul. One player review on the AGS database notes that the original's walk down the mountain after escaping the house is gone, as is the need to "wait nearly an hour on the pirate ship"[^ref-4].
 
 The magic teleport effect used in the game deliberately replicates the exact same visual effect and dialogue line from King's Quest VI's magic map, creating continuity across the series[^ref-13].
 
 ### Technical Specifications
 
-**System Requirements:**[^ref-17]
+**System Requirements (PC):**[^ref-24]
 - **Processor:** Pentium processor or higher (300 MHz or above)
 - **RAM:** 64 MB
 - **Video:** 32-bit SVGA Video card with 16MB Video RAM
 - **DirectX:** Version 5 or above
 - **Storage:** 345 MB for installation, 180 MB for save files
 - **Sound:** DirectX-compatible digital sound card
-- **Operating Systems:** Windows XP, Vista, Windows 7, Mac OS X
+- **Operating Systems:** Windows XP, Vista, Windows 7, or above
 
-**Download Size:** 232 MB[^ref-21]
+**System Requirements (Mac):**[^ref-24] Mac OS X 10.4.11 Tiger / 10.5.8 Leopard / 10.6 Snow Leopard; Intel Core CPU (PowerPC not supported); 512 MB RAM; Apple's X11 installed; about 550 MB of disk space
+
+**Download Size:** 232 MB (PC), 301 MB (Mac), version 1.1[^ref-24]
 
 ### Technical Issues
 
-Some compatibility issues have been reported with more recent Windows versions. The Abandonware DOS listing notes that "Although this game was made for newer Windows systems, it may not work perfectly on the latest version."[^ref-19] The AGD Interactive forums documented various bugs during the post-release period, including an eagle/spider bug, mice on ship issues, and other gameplay glitches that were addressed in patches[^ref-22].
+Some compatibility issues have been reported with more recent Windows versions. The Abandonware DOS listing notes that "Although this game was made for newer Windows systems, it may not work perfectly on the latest version."[^ref-19] Players reported issues on the AGD Interactive forums in the days after release, including an "Eagle/spider bug" thread, and version 1.1 was later announced there with "Fixes & New features"[^ref-22].
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | February 20-24, 2011 | Windows | Initial release[^ref-1][^ref-8] |
-| 1.1 | June 8, 2011 | Windows | Fixes & New features[^ref-22] |
-| 1.1 | May 8, 2011 | Windows | Updated version[^ref-5] |
-| Mac | 2011 | Macintosh | Mac OS X port[^ref-8] |
+| 1.0 | February 24, 2011 | Windows, Mac | Initial release (MobyGames lists February 20)[^ref-25][^ref-3][^ref-8] |
+| 1.1 | May 8, 2011 | Windows, Mac | Fixes & new features; current download[^ref-24][^ref-22] |
 
 ### Easter Eggs and Trivia
 
@@ -178,44 +179,46 @@ The game is packed with references to other Sierra games and adventure gaming hi
 - **Musical Reference:** The music that plays when dying from falling reportedly sounds like the Inspector Gadget theme song ending[^ref-13]
 - **Monkey Island Reference:** The game includes a reference to "A Pirate I Was Meant to Be" from The Curse of Monkey Island[^ref-13]
 - **Manannan Painting:** Interacting with a painting of Manannan prompts the narrator to say "He's probably politer than the real thing," to which the painting responds "Don't count on it!"[^ref-13]
-- **Three Bears Story:** The classic fairy tale characters make an appearance, with their porridge playing a key role in puzzle solving[^ref-10]
-- **YMCA Punishment:** When Manannan punishes Gwydion, the YMCA theme song plays during the exercise sequence[^ref-10]
-- **Fourth Wall Breaking:** The narrator occasionally breaks the fourth wall with humorous commentary[^ref-10]
+- **Three Bears Story:** The classic fairy tale characters make an appearance, with their porridge playing a key role in puzzle solving[^ref-16][^ref-15]
+- **YMCA Punishment:** When Manannan punishes Gwydion, the YMCA theme song plays during the exercise sequence[^ref-16]
+- **Fourth Wall Breaking:** The narrator occasionally breaks the fourth wall with humorous commentary[^ref-16]
 
 ## Voice Cast
 
 | Character | Voice Actor |
 |-----------|-------------|
-| Prince Alexander/Gwydion | Robert Adamson[^ref-3][^ref-11] |
-| Narrator | John Bell[^ref-11] |
-| King Graham | Josh Mandel[^ref-7][^ref-11] |
-| Queen Valanice | Rachael Faught[^ref-11] |
-| Princess Rosella | Sara Blaine[^ref-11] |
-| Smaude | Lori Ann Cole[^ref-11] |
-| Papa Behr | Jeremy Baker[^ref-11] |
-| Mama Behr | Kira Buckland[^ref-8][^ref-11] |
-| Baby Behr | Melissa Sternenberg[^ref-11] |
-| Minstrel | Edwyn Tiong[^ref-11] |
-| Barmaid | Caroline O'Meara[^ref-11] |
-| Storekeeper | Clay Robeson[^ref-11] |
-| Oracle | Nicole Jones[^ref-11] |
-| Bandit | Sean Crisden[^ref-11] |
-| Chicken | Christopher T. Warren[^ref-11] |
-| Dog | Bill Young[^ref-11] |
-| Lizard | Jamaal Ephriam[^ref-11] |
-| Female Snake | Kim Butler[^ref-11] |
+| Prince Alexander/Gwydion | Robert Adamson[^ref-3][^ref-27] |
+| Narrator / Manannan / Pirate Captain | John Bell[^ref-27] |
+| King Graham | Josh Mandel[^ref-27] |
+| Queen Valanice | Rachael Faught[^ref-27] |
+| Princess Rosella | Sara Blaine[^ref-27] |
+| Smaude | Lori Ann Cole[^ref-27] |
+| Papa Behr | Jeremy Baker[^ref-27] |
+| Mama Behr | Kira Buckland[^ref-27] |
+| Baby Behr | Melissa D. Johnson[^ref-27] |
+| Minstrel | Edwyn Tiong[^ref-27] |
+| Barmaid | Caroline O'Meara[^ref-27] |
+| Storekeeper | Clay Robeson[^ref-27] |
+| Oracle | Nicole Jones[^ref-27] |
+| Bandit | Sean V. Crisden, Edwyn Tiong[^ref-27] |
+| Chicken | Sean V. Crisden, Christopher T. Warren[^ref-27] |
+| Dog | Bill Young[^ref-27] |
+| Lizard | Jamaal Ephriam, Christopher T. Warren[^ref-27] |
+| Female Snake | Kim Butler[^ref-27] |
+| Seran | Bob Noble[^ref-27] |
+| The Father | Tam Tu Bui[^ref-27] |
 
-The cast notably includes several Sierra alumni. Josh Mandel, who voiced King Graham, was the original voice of the character in Sierra's official games[^ref-7]. Lori Ann Cole, who voices Smaude, is the co-creator of the Quest for Glory series alongside her husband Corey Cole[^ref-8]. Robert Adamson, who plays the lead role of Gwydion/Alexander, is described as a "Hollywood actor"[^ref-3].
+The cast notably includes several Sierra alumni. Josh Mandel, who reprises King Graham, was the first person to voice the character in Sierra's own games[^ref-28]. Lori Ann Cole, who voices Smaude, designed the Quest for Glory series with her husband Corey Cole[^ref-29]. Robert Adamson, who plays the lead role of Gwydion/Alexander, is described as a "Hollywood actor"[^ref-3].
 
-Some minor audio issues were noted in reviews, with rogeru observing that "some voice lines came out slurred"[^ref-7].
+Some minor audio issues were noted: rogeru wrote that several lines came out slurred, but that hearing the original voice of King Graham more than made up for it[^ref-7].
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-As a free fan remake, King's Quest III Redux has no traditional sales figures, but it has been widely distributed across the internet. The Adventure Game Studio database recorded 4,121 all-time downloads through their platform alone[^ref-4], while IGN reported the game had been "downloaded by millions of fans"[^ref-3]. CDRomance tracked 1,940 downloads through their site[^ref-5].
+As a free fan remake, King's Quest III Redux has no traditional sales figures, but it has been widely distributed across the internet. The Adventure Game Studio database recorded 4,170 all-time downloads through its platform alone as of October 2026[^ref-4]. (IGN's release announcement said AGD Interactive's titles as a whole "have been downloaded by millions of fans," a figure for the studio's whole catalogue, not this game[^ref-3].) CDRomance tracked 1,940 downloads through their site[^ref-5].
 
-The game's release marked the end of an era for AGD Interactive's fan remake projects. The team's successful track record with King's Quest I, King's Quest II, and finally King's Quest III established them as the premier creators of Sierra fan remakes, demonstrating that classic adventure games could be lovingly updated for modern audiences while preserving their essential character[^ref-3].
+The game's release marked the end of an era for AGD Interactive's fan remake projects. IGN's announcement described AGD Interactive as "an acclaimed developer of classic adventure game remakes" and said the release brought "an end to over a decade of free game production" for the group[^ref-3].
 
 ### Collections
 
@@ -235,16 +238,16 @@ The original 1986 King's Quest III included extensive documentation for the spel
 
 King's Quest III Redux stands as a remarkable achievement in fan game development, demonstrating that amateur teams working out of passion can produce content rivaling commercial releases. The eight-year development cycle and extensive production values—including professional voice acting, original music, and hand-painted artwork—set a high bar for fan projects[^ref-3].
 
-The game also serves as an important preservation effort. The original King's Quest III, while groundbreaking for its time, presented significant accessibility barriers for modern players through its text parser, real-time mechanics, and punishing dead-end scenarios[^ref-20]. Contemporary reviewers of the 1986 original found it "exceedingly frustrating, from the task of climbing stairs to identifying objects from their low-resolution graphics"[^ref-20]. AGD Interactive's remake addresses these concerns while maintaining the atmospheric tension that made the original memorable.
+The game also serves as an important preservation effort. The original King's Quest III, while groundbreaking for its time, presented significant accessibility barriers for modern players through its text parser, real-time mechanics, and punishing dead-end scenarios[^ref-20]. Some contemporary critics of the 1986 original found elements of it unfairly difficult[^ref-20]. AGD Interactive's remake addresses these concerns while maintaining the atmospheric tension that made the original memorable.
 
-The darker themes of King's Quest III—involving black magic, child enslavement, and threatened violence—distinguished it from earlier entries in the series. Roberta Williams noted that "KQ3 was very dark, and it utilized lots of magic and magic spells with the basic idea of finding ingredients for 'black magic' spells and then casting those spells. Certain religious groups were upset with me over that one!"[^ref-20] The Redux version preserves this mature tone while making the experience more accessible.
+The darker themes of King's Quest III—a wizard who enslaves and kills his young servants, and magic spells brewed from forbidden ingredients—distinguished it from earlier entries in the series[^ref-20]. The Redux version preserves this mature tone while making the experience more accessible.
 
 For fans of classic adventure gaming, King's Quest III Redux represents both an excellent entry point to the series and a worthwhile revisit for those who remember the original. Its combination of faithful storytelling, modernized mechanics, and abundant fan service makes it a fitting tribute to Sierra's legacy and a worthy conclusion to AGD Interactive's remarkable run of fan remakes.
 
 ## Downloads
 
-**Purchase / Digital Stores**
-- Free download from [AGD Interactive](https://www.agdinteractive.com/games/kq3/) — Official site (DRM-free, no purchase required)
+**Download / Preservation**
+- Free download from [AGD Interactive](https://www.agdinteractive.com/games/kq3/download/download.html) — official download page, v1.1 for PC and Mac (freeware, no purchase required)
 
 ## See Also
 
@@ -253,13 +256,12 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 - [[2006 - King's Quest III Remake (Infamous Adventures)]] — Competing KQ3 fan remake
 - [[2011 - Space Quest II VGA Remake]] — Contemporary Infamous Adventures release
 - [[2012 - Space Quest - Incinerations]] — Fan SQ continuation
-- [[2021 - King's Quest IV Retold]] — Later AGDI fan release
+- [[2021 - King's Quest IV Retold]] — Later fan remake by DrSlash
 - [[2025 - SCP Sierra Conversion Project]] — Amiga remasters
 - [[1986 - King's Quest III - To Heir Is Human]] — Original Sierra version
 
 ## References
 
-[^ref-1]: [Gamewise – King's Quest III Redux](http://gamewise.co/games/20515/Kings-Quest-III-Redux-To-Heir-is-Human) – release date, developer, platform information
 [^ref-2]: [Free Games Utopia – King's Quest III Redux](https://www.freegamesutopia.com/game/king-s-quest-iii-redux-to-heir-is-human/118/) – features description, ratings, platform details
 [^ref-3]: [IGN – Relive the Magic of King's Quest Today](https://www.ign.com/articles/2011/02/25/relive-the-magic-of-kings-quest-today-with-kings-quest-iii-redux) – developer quotes, development history, voice cast, release announcement
 [^ref-4]: [Adventure Game Studio – King's Quest III Redux](https://www.adventuregamestudio.co.uk/play/game/1413/) – game description, user reviews, AGS Awards nominations, technical specs
@@ -267,16 +269,20 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 [^ref-7]: [AGD Interactive Forums – User Review](http://www.agdinteractive.com/forum/viewtopic.php?t=15085) – detailed user review, ratings breakdown, music praise
 [^ref-8]: [MobyGames – King's Quest III Redux](https://www.mobygames.com/game/50631/kings-quest-iii-redux-to-heir-is-human/) – credits, ratings, technical specifications, developer info
 [^ref-9]: [MobyGames – Infamous Adventures King's Quest III](https://www.mobygames.com/game/23393/kings-quest-iii-to-heir-is-human/) – alternative remake information, description, ratings
-[^ref-10]: [GameSpot – User Review](https://www.gamespot.com/kings-quest-iii-redux/user-reviews/2200-481450/) – user review, gameplay details, villain analysis
-[^ref-11]: [IMDB – King's Quest III Redux](https://www.imdb.com/title/tt1847623/) – full voice cast, release date, ratings
-[^ref-20]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – original game story details, background
+[^ref-11]: [IMDb – King's Quest III Redux](https://www.imdb.com/title/tt1847623/) – user rating
 [^ref-13]: [TV Tropes – King's Quest III Redux](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestIIIRedux) – Easter eggs, story connections, gameplay changes, references
 [^ref-14]: [MobyGames – Original King's Quest III](https://www.mobygames.com/game/126/kings-quest-iii-to-heir-is-human/) – original game reviews, technical context
 [^ref-15]: [Adventure Game Studio Forums – Dead End Discussion](https://www.adventuregamestudio.co.uk/forums/hints-tips/king-s-quest-iii-redux-to-heir-is-human-dead-end/) – dead end elimination details, porridge puzzle
 [^ref-16]: [NoobFeed – King's Quest III Redux Review](https://www.noobfeed.com/reviews/kings-quest-iii-redux-to-heir-is-human) – professional review, score, gameplay analysis
-[^ref-17]: [Knoji – King's Quest III Redux Review](https://videogames.knoji.com/kings-quest-iii-redux-to-heir-is-human-review/) – system requirements, review, quality praise
-[^ref-18]: [Gamewise – Ratings](http://gamewise.co/games/20515/Kings-Quest-III-Redux-To-Heir-is-Human/Walkthrough) – user ratings, genre classification
+[^ref-17]: [Knoji – King's Quest III Redux Review](https://videogames.knoji.com/kings-quest-iii-redux-to-heir-is-human-review/) – review, 5/5 rating
 [^ref-19]: [Abandonware DOS – King's Quest III Redux](http://web.archive.org/web/20260209074846/https://www.abandonwaredos.com/abandonware-game.php?abandonware=King%27s+Quest+III+Redux%3A+To+Heir+is+Human&gid=3491) – ratings, compatibility notes, platform info
-[^ref-21]: [Old-Games.com – King's Quest III Redux Download](https://www.old-games.com/download/11892/king-s-quest-iii-redux) – download size, file information
-[^ref-22]: [AGD Interactive Forums – Bug Reports](http://www.agdinteractive.com/forum/viewforum.php?f=32&start=200) – version history, bug fixes, patch information
+[^ref-20]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – original game plot, design background, reception
+[^ref-22]: [AGD Interactive Forums – KQ3 Redux forum index](http://www.agdinteractive.com/forum/viewforum.php?f=32&start=200) – post-release bug threads, v1.1 announcement
 [^ref-23]: [PCGamingWiki – King's Quest III](https://www.pcgamingwiki.com/wiki/King's_Quest_III:_To_Heir_Is_Human) – remakes listing, technical compatibility information
+[^ref-24]: [AGD Interactive – Download King's Quest III Redux](https://www.agdinteractive.com/games/kq3/download/download.html) – official download page: v1.1, PC 232MB / Mac 301MB, last updated 8 May 2011, PC and Mac system requirements
+[^ref-25]: [AGD Interactive – King's Quest III Redux Release Information](https://www.agdinteractive.com/games/kq3/about/releaseinfo.html) – official release date (February 24, 2011), project origins, last non-profit project
+[^ref-26]: [AGD Interactive homepage, archived April 30, 2011](http://web.archive.org/web/20110430165804/http://www.agdinteractive.com/) – "February 24th, 2011 UPDATE King's Quest III Redux Released"
+[^ref-27]: [MobyGames – King's Quest III Redux credits](https://www.mobygames.com/game/50631/kings-quest-iii-redux-to-heir-is-human/credits/) – full development and voice credits
+[^ref-28]: [Wikipedia – Josh Mandel (video game designer)](https://en.wikipedia.org/wiki/Josh_Mandel_(video_game_designer)) – first voice of King Graham; reprised the role in KQ3 Redux
+[^ref-29]: [Wikipedia – Quest for Glory](https://en.wikipedia.org/wiki/Quest_for_Glory) – series designed by Corey and Lori Ann Cole
+[^ref-30]: [AGD Interactive – King's Quest III Redux Development Team](https://www.agdinteractive.com/games/kq3/about/devteam.html) – team roles: Sean Nichols, Brandon Blume (MusicallyInspired), Tom Lewandowski
