@@ -7,25 +7,26 @@ publisher: Sierra On-Line, Inc.
 genre: Sports
 platforms: [Windows, Windows 3.x]
 series: Front Page Sports
-engine: Proprietary (Dynamix)
-protagonist: Fly Fisher (player-controlled)
+engine: Unknown
+protagonist: Player-controlled angler
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
-description: 'Front Page Sports: Trophy Rivers is a fishing simulation game developed
-  by Dynamix, Inc. and published by Sierra On-Line, Inc. in 1997. Part of Sierra''s...'
+last_updated: '2026-10-12'
+description: 'Front Page Sports: Trophy Rivers is a river fishing simulation developed
+  by Dynamix, Inc. and published by Sierra On-Line, Inc. in 1997 for Windows 95 and
+  Windows 3.1, covering salmon, trout and steelhead on five North American rivers.'
 tags: [1990s, educational, front-page-sports, sierra, simulation]
 ---
 # Front Page Sports: Trophy Rivers
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Front Page Sports: Trophy Rivers is a fishing simulation game developed by [[Dynamix|Dynamix, Inc.]] and published by [[Sierra On-Line|Sierra On-Line, Inc.]] in 1997[^ref-1]. Part of Sierra's broader Front Page Sports franchise, the game invited players to "test your skills against giant salmon, trout and steelhead on five of the world's most incredible rivers... without ever leaving your computer"[^ref-2]. As both an educational and sports title, Trophy Rivers distinguished itself by combining realistic angling mechanics with comprehensive instructional content about fly-fishing techniques, equipment, and fish behavior[^ref-3].
+Front Page Sports: Trophy Rivers is a fishing simulation game developed by [[Dynamix|Dynamix, Inc.]] and published by [[Sierra On-Line|Sierra On-Line, Inc.]] in 1997[^ref-1][^ref-23]. Part of Sierra's Front Page Sports line, the game invited players to "test your skills against giant salmon, trout and steelhead on five of the world's most incredible rivers... without ever leaving your computer"[^ref-2]. Alongside the fishing itself, it includes a "How To" multimedia river fishing reference and Pro-Tip videos, which the manual says "will be equally useful on real fishing trips...and vice versa"[^ref-23].
 
-The game was designed to appeal specifically to the niche market of fly-fishing enthusiasts who also enjoyed computer gaming[^ref-4]. Unlike the franchise's earlier Trophy Bass titles that focused on bass fishing from an overhead view, Trophy Rivers concentrated on the art of fly-fishing for salmon, steelhead, and trout species across carefully recreated river environments[^ref-4]. Contemporary reviews noted that the game was "occasionally boring, at times just plain annoying, but generally realistic and comprehensive," concluding it was "surely a game that only a fisherman could love"[^ref-4].
+Sierra's InterAction magazine presented the game as "a natural follow-up to TB2" ([[1996 - Front Page Sports - Trophy Bass 2|Trophy Bass 2]]), offering "over 200 miles of big fish on five of North America's top rivers" and more than 15 game-fish species, including salmon, trout and steelhead[^ref-21]. The rivers are the Deschutes, the Miramichi, the White, the Big Hole and the Sol Duc[^ref-21][^ref-22]. Fly-fishing is the headline feature, but players can also fish with spinning gear or bait-casting tackle, using bait, lures or flies[^ref-21]. GameSpot called it "a pseudo-sequel to Sierra's remarkably popular Trophy Bass series" that uses "almost the exact same style of gameplay," and summed it up as "occasionally boring, at times just plain annoying, but generally realistic and comprehensive... surely a game that only a fisherman could love"[^ref-4].
 
-Trophy Rivers featured multiple gameplay modes including single-player fishing trips, computer tournaments, and multi-tournament professional career progression[^ref-1]. The game also supported multiplayer functionality via LAN, modem, and internet connections, allowing both cooperative and competitive tournament play[^ref-1]. Its educational components included an extensive "How-To" electronic library providing fishing knowledge and tips from professional anglers[^ref-1].[^ref-18][^ref-19][^ref-20]
+Single-player modes are Fishing Trip, Tournament and a multi-tournament pro Career. Multiplayer offers cooperative and tournament play over LAN, modem or the Internet[^ref-1][^ref-23].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
@@ -40,78 +41,70 @@ Trophy Rivers featured multiple gameplay modes including single-player fishing t
 
 ## Story Summary
 
-Front Page Sports: Trophy Rivers does not feature a traditional narrative storyline. Instead, the game presents players with the simulation experience of pursuing trophy-sized fish across five of the world's premier fishing destinations[^ref-2]. Players assume the role of an aspiring professional angler working their way through the competitive fishing circuit.
+Front Page Sports: Trophy Rivers has no narrative storyline. The player is an angler pursuing trophy fish on five rivers[^ref-2][^ref-21]. The manual sets out a progression from the "Quick Fish" option, through Fishing Trips at Medium and Hard skill levels, to single-player Tournaments and Careers against "simulated Pro opponents and tougher conditions"[^ref-23]. GameSpot noted that once players have practised enough, they "can take part in tournaments of different lengths and even embark on a fly-fishing career"[^ref-4].
 
-The game's career mode provides a loose progression framework where players compete in multi-tournament series to establish themselves as professional anglers[^ref-1]. Success in tournaments depends on catching the largest and most fish within time limits, with players earning recognition and unlocking additional opportunities as they progress through the career ladder[^ref-5].
-
-Each of the five river locations offers distinct environmental characteristics and fish populations, challenging players to adapt their techniques to local conditions[^ref-2]. The educational emphasis means that understanding fish behavior, weather patterns, and proper equipment selection becomes integral to the player's journey from amateur to professional status[^ref-1].
+Director Steve Letsom told InterAction that the rivers "have different terrain and gradients," and that the team added "the major features of each river, such as rapids, where they appear in real life"[^ref-21]. According to the manual, success depends on "the weather, season, water conditions, and many other factors that affect how fish act"[^ref-23].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Trophy Rivers employs a combination of third-person and top-down perspective views to present its fishing simulation[^ref-1]. Players interact with the game using keyboard and mouse controls, with support for other input devices[^ref-1]. The interface allows anglers to select casting locations, adjust reel settings and rod placement, and manage the tension between reeling and allowing fish to run with the line[^ref-6].
+Trophy Rivers uses third-person and top-down perspectives and supports keyboard and mouse[^ref-1]. The fishing screen includes casting-power and line-tension meters, rod, line and lure selection, a drag setting, an Autocast button, a logbook and a Pro-Tip button. Keyboard shortcuts include mending the fly line left or right[^ref-23]. The demo's description sums up the core decisions: "you decide where to cast, how you adjust your reel settings and rod placement, and when you reel vs. when you let the fish run with the line (if you pull too hard, the line will break)"[^ref-6]. The same description adds that in the full version "you can also walk around outside of the boat, experiment with different lures, and more"[^ref-6].
 
-The core fishing mechanic requires players to carefully balance line tension—pulling too hard results in broken lines, while insufficient pressure allows fish to escape[^ref-6]. In the full version, players can also walk around outside the boat and experiment with different lures and fishing equipment[^ref-6].
+According to InterAction, players can "walk the riverbank, wade the shallows, and navigate the waters in your driftboat or canoe," and can land a fish "from either a boat or the shore"[^ref-21]. Designer Kurt Weber explained that the team "modeled the casting features after the Trophy Bass autocast" rather than devising a complicated mouse-movement cast. The real skill, InterAction wrote, lies in the "mend" that makes a fly drift naturally in the current[^ref-21].
 
 ### Structure and Progression
 
-The game offers multiple modes of play to accommodate different player interests[^ref-1]:
+The game offers several modes of play[^ref-1][^ref-23]:
 
-- **Fishing Trip:** Single-player freeform fishing sessions without competitive pressure
-- **Tournament Mode:** Competitions against computer opponents with specific objectives
-- **Career Mode:** Multi-tournament professional progression across seasons
-- **Multiplayer:** Cooperative and tournament play supporting 2-8 online players[^ref-1]
+- **Fishing Trip:** Freeform single-player fishing with selectable skill level, river and conditions, including a "Quick Fish" option for beginners
+- **Tournament:** Competitions against simulated pro opponents
+- **Career:** A multi-tournament professional progression
+- **Multiplayer:** Cooperative and tournament play for 2–8 online players[^ref-1]
 
-The career progression system challenges players to build their reputation through consistent tournament performance. Players must manage their equipment loadout from a tackle box filled with various lures, flies, and gear appropriate to different species and conditions[^ref-1].
+In tournaments, tackle is limited by the tournament rules; on fishing trips it is unrestricted[^ref-1]. Trophy Rivers also includes "single-fly" competitions, which challenge players to match one fly pattern to a target species and catch the most or biggest fish[^ref-21].
 
 ### Puzzles and Mechanics
 
-Rather than traditional puzzles, Trophy Rivers challenges players with the realistic complexities of fly-fishing[^ref-4]. Key gameplay mechanics include:
+Trophy Rivers has no puzzles. Its challenge comes from simulating river fishing:
 
-- **Casting mechanics:** Determining optimal cast distance and positioning
-- **Line management:** Balancing reel drag and tension during fights with hooked fish
-- **Equipment selection:** Choosing appropriate flies, lures, and tackle for target species
-- **Environmental awareness:** Reading water conditions, weather, and fish behavior patterns
+- **Fly and lure choice:** GameSpot notes that "a fly's success is based on variables such as weather, water temp, and water depth"[^ref-4]
+- **Casting and mending:** Casting is handled by an autocast system, and mending the line keeps the fly drifting naturally[^ref-21][^ref-23]
+- **Playing the fish:** The player uses the mouse "to reel and keep tension on the line after the fish hits"[^ref-4]
+- **Fish behaviour:** Each species "has specific AI (artificial intelligence) that re-creates true-to-life patterns for migration, feeding, and other factors that affect the bite"[^ref-21]
 
-The game's educational How-To feature serves as an in-game reference library, providing detailed information about fishing techniques, equipment use, and ecological knowledge about target species[^ref-1]. Players can access tips from professional anglers to improve their success rates[^ref-1].
+Recognized fishing experts give tips in full-motion video[^ref-21]. The credits list Tim Rajeff and Buzz Ramsey as the game's fishing experts[^ref-22].
 
 ## Reception
 
 ### Contemporary Reviews
 
-GameSpot's Hugo Foster reviewed Front Page Sports: Trophy Rivers on May 2, 2000, awarding the game a score of 6.7 out of 10[^ref-4]. Foster characterized the game as "occasionally boring, at times just plain annoying, but generally realistic and comprehensive," ultimately concluding it was "surely a game that only a fisherman could love"[^ref-4]. The review acknowledged the game's detailed approach to simulating fly-fishing while noting that its appeal was limited primarily to dedicated fishing enthusiasts[^ref-4].
+GameSpot's Hugo Foster scored Front Page Sports: Trophy Rivers 6.7 out of 10 ("Fair")[^ref-4]. Foster said its "glaring shortcomings in gameplay and graphics" did not stop it being "unique and fun enough to entertain anyone who's ever sat in his office and wished he were on a stream." He criticized the lack of any penalty for breaking the line, which lets tournament players shed small fish to reach the big one. He also disliked that a hooked big fish "immediately swims directly off of the screen." He called the graphics "serviceable but patchy," but found the ambient sound "very atmospheric"[^ref-4]. He concluded that, "just like real fishing, when you're hooked into a good run of 30-inch rainbows, all the pains and hassles are forgotten"[^ref-4].
 
-The game's niche focus on fly-fishing for salmon, steelhead, and trout represented a departure from the more popular bass fishing games of the era[^ref-4]. Reviewers noted that Trophy Rivers functioned as a pseudo-sequel to Sierra's Trophy Bass series, applying similar simulation principles to the distinct discipline of river fly-fishing[^ref-4].
-
-User reception was mixed, with CNET download statistics showing an average user rating of 2 out of 5 stars[^ref-5], while MyAbandonware users rated the game more favorably at 4.75 out of 5[^ref-3]. This disparity suggests the game found its intended audience among fishing simulation enthusiasts while failing to engage more casual players[^ref-6].
-
-### Modern Assessment
-
-Modern retrospective assessments recognize Trophy Rivers as a representative example of late 1990s sports simulation design, offering comprehensive depth at the cost of broader accessibility[^ref-4]. The game has been characterized as "all of the good stuff about fishing without all of the nasty parts" by enthusiast players who appreciated its attention to detail[^ref-7].
+CNET's listing for the downloadable demo showed an average user rating of 2 out of 5 from four votes[^ref-5]. MyAbandonware users rate the full game 4.6 out of 5 from five votes[^ref-3].
 
 **Aggregate Scores:**
-- **MobyGames:** 76% (based on 3 ratings)[^ref-1]
+- **MobyGames:** 76% critics' average (based on 3 ratings)[^ref-1]
 - **GameSpot:** 6.7/10[^ref-4]
-- **GameFAQs:** "Outstanding" (user rating)[^ref-8]
-- **MyAbandonware:** 4.75/5[^ref-3]
-- **SoftPaz:** 2.19/5[^ref-6]
+- **GameFAQs:** "Outstanding" (user rating, 2 ratings)[^ref-8]
+- **MyAbandonware:** 4.6/5 (5 votes)[^ref-3]
+- **SoftPaz:** 2.2/5 (63 ratings, demo download page)[^ref-6]
 
 ## Development
 
 ### Origins
 
-Front Page Sports: Trophy Rivers emerged from Dynamix's successful Front Page Sports franchise, which had previously produced acclaimed titles including the Trophy Bass fishing series[^ref-7]. The game represented an expansion of the fishing simulation concept from bass fishing in lakes to fly-fishing in river environments[^ref-4]. Executive Producer Randy Dersham, who also served as one of the game's designers, oversaw the project's development at Dynamix's Eugene, Oregon facilities[^ref-1].
+Trophy Rivers was built by the Dynamix team behind the Trophy Bass games[^ref-21]. In 1997, InterAction claimed that together, Trophy Bass and Trophy Bass 2 were "the top-selling sports games in the market — bigger than baseball, football, or golf." The magazine also noted that Dynamix was located in Eugene, Oregon, "a short cast away from some of the world's best fishing waters," and that many of its staff were "consummate anglers"[^ref-21]. Trophy Bass originator Randy Dersham said: "In the Trophy Bass titles and the new Trophy Rivers, we've taken the bodies of water we've always wanted to fish and re-created them in a level of detail — right down to the behavior of the fish — that's almost as good as being there"[^ref-21].
 
-The decision to focus on salmon, steelhead, and trout reflected the development team's desire to capture the distinct challenges and appeal of fly-fishing, which involves different techniques, equipment, and target species compared to bass fishing[^ref-4]. This allowed the Front Page Sports fishing line to address multiple segments of the angling enthusiast market[^ref-2].
+The same article pitched the game at "the more than nine million people who have discovered the joys and challenges of fly-fishing in moving water." It compared Trophy Rivers to Trophy Bass with the line "as different as Red Baron and Aces Over the Pacific"[^ref-21]. Even so, it told readers: "If you've played TB2, you already know how to control the basics of Trophy Rivers," and said the difference was the water itself, with "rapids, plunge pools, tail-outs, and riffles"[^ref-21].
 
 ### Production
 
-Development of Trophy Rivers took place at Dynamix, Inc., Sierra's Oregon-based development subsidiary known for simulation and sports titles[^ref-9]. Director Steven D. Letsom led the production team, with Kate Kloos serving as producer and Sean Gleason handling brand management responsibilities[^ref-1].
+Director Steven D. Letsom told InterAction that "getting the water right was the biggest challenge we faced"[^ref-21]. Kate Kloos was producer and Sean Gleason brand manager[^ref-1]. Shawn Bird and Brian Hahn were art directors. The programmers were Steven D. Letsom, Dan Spracklen, Randy Thompson, Dan Duncalf and Hugh Diedrichs, and Richard Rayl was credited for "Technical Wizardry"[^ref-1][^ref-22].
 
-The art team was co-directed by Shawn Bird and Brian Hahn, who supervised the visual creation of five detailed river environments and the fish species that inhabited them[^ref-1]. Programming duties were handled by a team including Steven D. Letsom, Dan Spracklen, Randy Thompson, Dan Duncalf, and Hugh Diedrichs, with Richard Rayl credited for "technical wizardry"[^ref-1].
+The credits also list river maps by Pete Powers (Terragraphics), fish illustrations by Larry Tople, Maynard Reece and Mark Susinno, and named consultants for each of the five rivers[^ref-22]. The How-To reference uses material from The Hunting and Fishing Library, published by Cowles Creative Publishing[^ref-23].
 
-**Development Credits:**[^ref-1]
+**Development Credits:**[^ref-1][^ref-22]
 - **Executive Producer:** Randy Dersham
 - **Director:** Steven D. Letsom
 - **Producer:** Kate Kloos
@@ -119,120 +112,108 @@ The art team was co-directed by Shawn Bird and Brian Hahn, who supervised the vi
 - **Designers:** Randy Dersham, Kurt Weber
 - **Additional Design:** Michael Waite
 - **Art Directors:** Shawn Bird, [[Brian Hahn]]
-- **Lead Programmer:** Steven D. Letsom
-- **Programmers:** Dan Spracklen, Randy Thompson, Dan Duncalf, Hugh Diedrichs
+- **Programmers:** Steven D. Letsom, Dan Spracklen, Randy Thompson, Dan Duncalf, Hugh Diedrichs
 - **Technical Wizardry:** Richard Rayl
+- **Music:** Loudmouth
+- **Sound Effects:** Loudmouth, Ken Rogers
+- **Fishing Experts:** Tim Rajeff, Buzz Ramsey
+- **On-Line Manual:** Kurt Weber, Egil G. Gløersen, Erick Heroux
 
-The full credits list includes 104 people (99 developers and 5 special thanks), indicating a substantial team effort for a niche simulation title[^ref-1].
+MobyGames credits 104 people: 99 in professional roles and 5 special thanks[^ref-22].
 
 ### Audio Production
 
-Audio production for Trophy Rivers was handled by Loudmouth, a music and sound production company formed in the late 1990s that created soundtracks and audio for multiple Dynamix and Sierra games[^ref-10]. Key personnel at Loudmouth included Timothy Steven Clarke and Christopher Stevens[^ref-10]. The company dissolved when Dynamix closed its doors, with one community member lamenting "My soul died when Dynamix did"[^ref-10].
-
-### Technical Achievements
-
-Trophy Rivers was designed to run on Windows 95 systems with relatively modest requirements for its era. The minimum specifications called for a Pentium 60 processor, 16MB of RAM, DirectX 3.0 support, and appropriate DirectX drivers[^ref-2][^ref-5]. The game supported multiple display perspectives including third-person and top-down views to provide players with optimal situational awareness during fishing sessions[^ref-1].
-
-The multiplayer infrastructure supported various connection methods including internet, LAN, and modem connections[^ref-1]. Offline play accommodated 1-4 players, while online sessions could support 2-8 players in cooperative or tournament formats[^ref-1].
+The game's music is credited to Loudmouth, which shares the sound-effects credit with Ken Rogers[^ref-22]. A forum post on The Junkyard describes Loudmouth as "a music and sound production company formed by Timothy Steven Clarke and Christopher Stevens during the late 90's." The same post lists Front Page Sports: Trophy Rivers among the Dynamix and Sierra games they scored. Another member remarked that "Loudmouth studios died when Dynamix did"[^ref-10].
 
 ### Technical Specifications
 
-**System Requirements:**[^ref-2][^ref-5]
-- **Processor:** Pentium 60 minimum
+**System Requirements (Windows 95):**[^ref-2][^ref-5]
+- **Processor:** Pentium 60
 - **RAM:** 16 MB
 - **Operating System:** Windows 95
-- **DirectX:** Version 3.0
-- **Additional Requirements:** DirectX drivers
+- **DirectX:** Version 3.0 (DirectX drivers)
 
-**Media and File Sizes:**[^ref-3][^ref-11]
-- **CD-ROM Version:** Standard CD-ROM media
--
+**Windows 3.1:** The game also installs on Windows 3.1. Setup adds Microsoft Win32s and Video for Windows if they are not already present[^ref-23].
 
-**Download Size:** 66 MB (MyAbandonware)[^ref-3]
-- **Windows RIP Version:** 64.9 MB[^ref-11]
-- **Windows 3.x Version:** 497.7-500.67 MB[^ref-11][^ref-12]
-- **Full Installation:** 387 MB[^ref-13]
+**Media and File Sizes:**
+- **Original media:** CD-ROM[^ref-1]
+- **MyAbandonware download:** 66 MB[^ref-3]
+- **Old-Games.com installer:** 387 MB[^ref-13]
+- **Windows 3.x archive (WowROMs):** 500.67 MB[^ref-12]
 
 **Input Support:**[^ref-1]
 - Keyboard
 - Mouse
-- Other Input Devices
+- Other input devices
 
-**Multiplayer Support:**[^ref-1]
-- Offline: 1-4 players
-- Online: 2-8 players
-- Connection types: Internet, LAN, Modem
+**Multiplayer Support:**[^ref-1][^ref-23]
+- Offline: 1–4 players
+- Online: 2–8 players
+- Remote play under Windows 95: modem (14.4 or better), LAN (IPX or TCP/IP), or Internet via Sierra's SIGS server
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1997 | Windows/Windows 3.x | Initial release[^ref-1] |
-| Demo | 1997 | Windows | One fishing location, slideshow of features[^ref-9] |
-| 1.0 | 2015-08-19 | Windows | CNET download last updated[^ref-5] |
+| 1.0 | 1997 | Windows 95 / Windows 3.1 | Initial CD-ROM release[^ref-1][^ref-23] |
+| Demo | 1997 | Windows | One fishing location on the river and a slide show of the full game's features[^ref-9] |
 
-The game was released for both Windows (95 and later) and Windows 3.x platforms[^ref-1]. A demo version was made available featuring one fishing location on the river along with a slideshow highlighting features of the full game[^ref-9]. This demo remains archived on the Internet Archive for preservation purposes[^ref-9].
+The game was released for Windows 95 and Windows 3.x[^ref-1]. A demo with "one fishing location on the river and a slide show highlighting features of the full game" is archived on the Internet Archive[^ref-9].
 
-Regional release dates varied, with the US release occurring May 5, 1998 according to some sources, followed by UK and Japan releases on December 31, 1998[^ref-14]. However, most sources cite 1997 as the primary release year[^ref-1][^ref-8].
+Release dates differ between sources. The game appears, priced at $49.95 (Win 95 CD), in the catalog of Sierra's Holiday 1997 InterAction[^ref-21]. GameFAQs and Metacritic both give November 30, 1997[^ref-8][^ref-18]. GameSpy's database instead lists May 5, 1998 for the US and December 31, 1998 for the UK and Japan[^ref-14], and The Video Game Database wiki repeats the May 5, 1998 date[^ref-19]. Those 1998 dates conflict with the 1997 catalog listing and manual copyright[^ref-21][^ref-23].
 
 ### Easter Eggs and Trivia
 
-- Trophy Rivers was marketed as part of the broader Front Page Sports franchise, which encompassed various sports including football, baseball, and fishing[^ref-15]
-- The game features five of the "world's most incredible rivers" selected for their reputation among fly-fishing enthusiasts[^ref-2]
-- Players can practice catch-and-release fishing, reflecting the conservation-minded approach common in fly-fishing culture[^ref-4]
-- The game's educational classification stemmed from its ecology/nature and geography curriculum topics integrated into gameplay[^ref-1]
+- The five rivers are the Deschutes, Miramichi, White, Big Hole and Sol Duc. The credits name local consultants for each one[^ref-21][^ref-22]
+- InterAction claimed that "no other fishing title offers as exact a simulation" of fly-fishing[^ref-21]
+- MobyGames lists the game's educational topics as ecology/nature and geography[^ref-1]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Front Page Sports: Trophy Rivers achieved moderate distribution through Sierra's established retail channels. CNET download records indicate the game accumulated 41,006 total downloads through their platform, though download activity had ceased by the time of their last update[^ref-5]. The game's niche focus limited its commercial reach compared to more mainstream sports titles, but it served to expand Sierra's portfolio of simulation offerings[^ref-4].
-
-The ESRB rated the game "E for Everyone," making it accessible to players of all ages[^ref-14][^ref-15]. This family-friendly rating supported the game's positioning as both an entertainment and educational product[^ref-1].
+No sales figures for Trophy Rivers have been found. Sierra's own Holiday 1997 catalog priced it at $49.95[^ref-21]. CNET's listing for the downloadable demo recorded 41,006 downloads[^ref-5]. The ESRB rated the game E for Everyone[^ref-14].
 
 ### Collections
 
-Trophy Rivers was part of Sierra's Front Page Sports line, which included multiple fishing and other sports titles[^ref-15]. The game shared branding with Front Page Sports: Trophy Bass and its sequel Trophy Bass 2, which focused on bass fishing simulation[^ref-7]. The broader Front Page Sports franchise also included football management simulations that would later see attempted revivals[^ref-15].
+Trophy Rivers was sold as part of Sierra's Front Page Sports line[^ref-1]. InterAction's Holiday 1997 issue covered it in a joint feature with Trophy Bass 2 Deluxe[^ref-21]. MobyGames shows that much of the team was also credited on Front Page Sports: Trophy Bass 2 and the later Field & Stream: Trophy Bass 3D and Trophy Bass 4[^ref-1].
 
-### Fan Projects
+### Preservation
 
-As an abandonware title, Front Page Sports: Trophy Rivers has been preserved by multiple classic gaming archives including MyAbandonware[^ref-3], Old Games Download[^ref-11], and Old-Games.com[^ref-13]. The Internet Archive maintains the original demo version for historical preservation[^ref-9]. The game's compatibility with modern Windows versions (XP through Windows 11) has been confirmed by preservation sites[^ref-13].
+Trophy Rivers is not sold on GOG or Steam. Abandonware archives such as MyAbandonware[^ref-3] and Old-Games.com[^ref-13] host it, and Old-Games.com says its version "has been set up to work on modern Windows (11/10/8/7/Vista/XP 64/32-bit) computers"[^ref-13]. The Internet Archive preserves the original demo[^ref-9] and a scan of the manual[^ref-23].
 
-eBay listings indicate continued collector interest in physical copies, with sellers noting that original jewel cases and manuals remain available in the secondary market[^ref-16][^ref-17].
+Physical copies still turn up on eBay. One listing notes that "the manual is included"[^ref-16][^ref-17].
 
 ### Related Publications
 
-The game shipped with an included manual providing instructions for gameplay and fishing techniques[^ref-16]. The in-game How-To feature functioned as an electronic reference library containing detailed fishing information and professional tips[^ref-1].
+The boxed game shipped with a printed installation guide. It points players to the on-line manual (F1), "Button Help," a guided Preview, and the How To "multimedia river fishing guidebook"[^ref-23].
 
 ### Critical Perspective
 
-Front Page Sports: Trophy Rivers occupies a unique position in Sierra's catalog as one of the company's attempts to serve niche simulation markets during the late 1990s. While the Front Page Sports franchise had achieved success with football management titles, the fishing simulation spinoffs represented a calculated risk targeting the overlap between PC gamers and fishing enthusiasts[^ref-4].
-
-The game's combination of educational content with sports simulation gameplay anticipated later "serious games" approaches to recreational activities. Its comprehensive treatment of fly-fishing techniques, equipment, and ecology provided genuine instructional value alongside entertainment[^ref-1]. However, this depth came at the cost of accessibility, limiting appeal to players without existing interest in the sport.
-
-The closure of Dynamix following Sierra's corporate restructuring meant that Trophy Rivers would be among the studio's final productions in the fishing simulation space[^ref-10]. The game remains a testament to the ambitious scope of Sierra's simulation efforts during their peak development years, even as it demonstrates the commercial challenges of targeting specialized enthusiast markets[^ref-4].
+Trophy Rivers moved Dynamix's Trophy Bass formula from lakes to running water. The team itself described the water as the main challenge and the main difference[^ref-21]. GameSpot concluded that its realism and depth came with real rough edges, making it "surely a game that only a fisherman could love"[^ref-4]. The Dynamix fishing team went on to further games, and many of its members are credited on the later Field & Stream: Trophy Bass 3D and Trophy Bass 4[^ref-1].
 
 ## Purchase
 
 **Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) – Available for purchase
+- Not currently sold on GOG, Steam or other digital storefronts.
 
 ## Downloads
 
 **Download / Preservation**
 - [Internet Archive – Demo Version](https://archive.org/details/trdemo10_exe)
+- [Internet Archive – Manual (1997)](https://archive.org/details/trophy-rivers-1997-manual)
 - [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-trophy-rivers-f3t)
 - [Old-Games.com](https://www.old-games.com/download/10231/front-page-sports-trophy-rivers)
-
-**Historical Download Pages**
-- [FilePlanet Archive](https://www.fileplanet.com/archive/p-71316/Front-Page-Sports-Trophy-Rivers)
-- [CNET Download](https://download.cnet.com/front-page-sports-trophy-rivers/3000-2115_4-10019041.html)
 
 ## See Also
 
 - [[1997 - Front Page Sports - Ski Racing|← Previous: Front Page Sports - Ski Racing]]
 - [[1997 - Front Page Sports Golf - Tour Course Add-On|→ Next: Front Page Sports Golf - Tour Course Add-On]]
 
+- [[1995 - Trophy Bass]]
+- [[1996 - Front Page Sports - Trophy Bass 2]]
+- [[1999 - Field & Stream - Trophy Bass 3D]]
+- [[2000 - Field & Stream - Trophy Bass 4]]
 - [[1992 - Front Page Sports Football 92]]
 - [[1993 - Front Page Sports - Football Pro]]
 - [[1994 - Front Page Sports - Baseball Pro]]
@@ -247,23 +228,22 @@ The closure of Dynamix following Sierra's corporate restructuring meant that Tro
 
 ## References
 
-[^ref-1]: [MobyGames – Front Page Sports: Trophy Rivers](https://www.mobygames.com/game/19573/front-page-sports-trophy-rivers/) – developer, publisher, designers, credits, platforms, ratings, game modes, features, technical specs, multiplayer support, educational topics
-[^ref-2]: [FilePlanet Archive – Front Page Sports: Trophy Rivers](https://www.fileplanet.com/archive/p-71316/Front-Page-Sports-Trophy-Rivers) – marketing description, system requirements, release information
-[^ref-3]: [MyAbandonware – Front Page Sports: Trophy Rivers](https://www.myabandonware.com/game/front-page-sports-trophy-rivers-f3t) – user rating, download size, platform versions, educational classification
-[^ref-4]: [GameSpot – Front Page Sports: Trophy Rivers Review](https://www.gamespot.com/reviews/front-page-sports-trophy-rivers-review/1900-2535350/) – Hugo Foster review, 6.7/10 score, game analysis, target audience assessment
-[^ref-5]: [CNET Download – Front Page Sports: Trophy Rivers](https://download.cnet.com/front-page-sports-trophy-rivers/3000-2115_4-10019041.html) – download statistics, user ratings, version history, system requirements
-[^ref-6]: [SoftPaz – Front Page Sports: Trophy Rivers](https://www.softpaz.com/games/download-front-page-sports-trophy-rivers-game-8729.htm) – gameplay description, user ratings, file information
-[^ref-7]: [Old-Games.com – Front Page Sports: Trophy Bass](https://www.old-games.com/download/8786/front-page-sports-trophy-bass) – series context, user review quote, franchise information
-[^ref-8]: [GameFAQs – Front Page Sports: Trophy Rivers](https://gamefaqs.gamespot.com/pc/55425-front-page-sports-trophy-rivers) – release date, user rating, game length estimate
-[^ref-9]: [Internet Archive – Trophy Rivers Demo](https://archive.org/details/trdemo10_exe) – demo description, Dynamix developer credit
-[^ref-10]: [The Junkyard Forums – Soundtrack Discussion](https://forums.the-junkyard.net/forum/general/general-discussion/9701-ss-soundtrack#post144548) – Loudmouth audio studio information, composer credits, Dynamix closure
-[^ref-11]: Old Games Download – Front Page Sports: Trophy Rivers (link removed: game-download site) – file sizes, version information, educational classification
-[^ref-12]: [WowROMs – Front Page Sports: Trophy Rivers](https://wowroms.com/en/roms/windows-3.x/front-page-sports-trophy-rivers/153180.html) – Windows 3.x platform, file size
-[^ref-13]: [Old-Games.com – Front Page Sports: Trophy Rivers](https://www.old-games.com/download/10231/front-page-sports-trophy-rivers) – download size, Windows compatibility, game modes
-[^ref-14]: [GameSpy – Front Page Sports: Trophy Rivers](http://pc.gamespy.com/pc/front-page-sports-trophy-rivers/) – regional release dates, ESRB rating
-[^ref-15]: [Steam Community – Front Page Sports Football](https://steamcommunity.com/app/316700) – franchise context, user nostalgia quotes
-[^ref-16]: [eBay Listing #265405754067](https://www.ebay.com/itm/265405754067) – physical media condition, manual inclusion, ESRB rating
-[^ref-17]: [eBay Product Page](https://www.ebay.com/p/54066195) – product description, publisher confirmation
-[^ref-18]: [Metacritic – Front Page Sports: Trophy Rivers](https://www.metacritic.com/game/front-page-sports-trophy-rivers/) – release date, developer/publisher confirmation
-[^ref-19]: [The Video Game Database Fandom](https://thevideogamedatabase.fandom.com/wiki/Front_Page_Sports:_Trophy_Rivers) – release date, GameSpot score reference
-[^ref-20]: [GOG Dreamlist – Front Page Sports: Trophy Bass 2](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) – series predecessor information, gameplay mechanics
+[^ref-1]: [MobyGames – Front Page Sports: Trophy Rivers](https://www.mobygames.com/game/19573/front-page-sports-trophy-rivers/) – developer, publisher, 1997 Windows/Windows 16-bit release, designers, credits summary, game modes, perspectives, multiplayer specs, educational topics, critics' average, collaborations
+[^ref-2]: FilePlanet Archive – Front Page Sports: Trophy Rivers (link removed: adware "optional offer" installer) – marketing description, system requirements (P60, 16MB RAM, Win95, DirectX 3.0)
+[^ref-3]: [MyAbandonware – Front Page Sports: Trophy Rivers](https://www.myabandonware.com/game/front-page-sports-trophy-rivers-f3t) – user rating (4.6/5, 5 votes), 66 MB download, Windows/Windows 3.x
+[^ref-4]: [GameSpot – Front Page Sports: Trophy Rivers Review](https://www.gamespot.com/reviews/front-page-sports-trophy-rivers-review/1900-2535350/) – Hugo Foster review, 6.7/10 "Fair", gameplay and presentation criticism
+[^ref-5]: CNET Download – Front Page Sports: Trophy Rivers (link removed: gambling-app sidebar) – demo/trial listing: 2/5 user rating (4 votes), 41,006 downloads, Windows 95 and DirectX drivers requirement
+[^ref-6]: [SoftPaz – Front Page Sports: Trophy Rivers](https://www.softpaz.com/games/download-front-page-sports-trophy-rivers-game-8729.htm) – demo description, 2.2/5 rating from 63 user ratings
+[^ref-8]: [GameFAQs – Front Page Sports: Trophy Rivers](https://gamefaqs.gamespot.com/pc/55425-front-page-sports-trophy-rivers) – November 30, 1997 release date, "Outstanding" user rating (2 ratings)
+[^ref-9]: [Internet Archive – Trophy Rivers Demo](https://archive.org/details/trdemo10_exe) – demo description, Dynamix credit, 1997
+[^ref-10]: [The Junkyard Forums – SS Soundtrack thread](https://forums.the-junkyard.net/forum/general/general-discussion/9701-ss-soundtrack#post144548) – Loudmouth company background and game list including Trophy Rivers (thread returned HTTP 500 when rechecked 2026-10-12)
+[^ref-12]: [WowROMs – Front Page Sports: Trophy Rivers](https://wowroms.com/en/roms/windows-3.x/front-page-sports-trophy-rivers/153180.html) – Windows 3.x archive, 500.67 MB
+[^ref-13]: [Old-Games.com – Front Page Sports: Trophy Rivers](https://www.old-games.com/download/10231/front-page-sports-trophy-rivers) – 387 MB installer, modern Windows compatibility
+[^ref-14]: [GameSpy – Front Page Sports: Trophy Rivers](http://pc.gamespy.com/pc/front-page-sports-trophy-rivers/) – listed regional release dates (May 5, 1998 US; December 31, 1998 UK/Japan), ESRB E for Everyone
+[^ref-16]: [eBay Listing #265405754067](https://www.ebay.com/itm/265405754067) – physical copy, "manual is included"
+[^ref-17]: [eBay Product Page](https://www.ebay.com/p/54066195) – PC, 1997, Sierra product listing
+[^ref-18]: [Metacritic – Front Page Sports: Trophy Rivers](https://www.metacritic.com/game/front-page-sports-trophy-rivers/) – November 30, 1997 initial release date
+[^ref-19]: [The Video Game Database Fandom](https://thevideogamedatabase.fandom.com/wiki/Front_Page_Sports:_Trophy_Rivers) – May 5, 1998 release date, GameSpot 6.7 reference
+[^ref-21]: [InterAction Magazine, Vol. 10 No. 4 (Holiday 1997) – Internet Archive](https://archive.org/details/033_interaction_volume_10_number_4_holiday_1997) – John Sauer feature "Trophy Bass 2 Deluxe & Trophy Rivers" (rivers, 200+ miles, 15+ species, Letsom/Dersham/Weber quotes, drift boat/canoe/wading, single-fly tournaments); catalog listing #70060 Win 95 CD $49.95
+[^ref-22]: [MobyGames – Front Page Sports: Trophy Rivers credits](https://www.mobygames.com/game/19573/front-page-sports-trophy-rivers/credits/) – full credits: Loudmouth music and sound effects, fishing experts Tim Rajeff and Buzz Ramsey, river consultants, 104 people
+[^ref-23]: [Internet Archive – Trophy Rivers (1997) PC manual](https://archive.org/details/trophy-rivers-1997-manual) – installation (Windows 95; Windows 3.1 with Win32s), game overview, modes, multiplayer requirements, How To guide, ©1997 Sierra On-Line
