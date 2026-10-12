@@ -10,28 +10,28 @@ series: King's Quest
 engine: SCI0
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: 'Released in autumn 1990, **Roberta Williams'' King''s Quest I: Quest
-  for the Crown** is Sierra On-Line''s official SCI engine remake of their landmark
-  1984...'
+last_updated: '2026-10-12'
+description: 'Released in 1990, **Roberta Williams'' King''s Quest I: Quest for
+  the Crown** is Sierra On-Line''s official SCI engine remake of its landmark 1984
+  adventure game.'
 tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # Roberta Williams' King's Quest I: Quest for the Crown
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Released in autumn 1990, **Roberta Williams' King's Quest I: Quest for the Crown** is Sierra On-Line's official SCI engine remake of their landmark 1984 adventure game.[^ref-2][^ref-4] Often referred to as "King's Quest I SCI" or occasionally "King's Quest I VGA" (though it uses 16-color EGA graphics rather than true 256-color VGA), the remake represented Sierra's first attempt to modernize their classic AGI catalog for contemporary audiences.[^ref-3] The project was widely viewed as a critical failure, with critics comparing it to the practice of colorizing classic black-and-white films.[^ref-4][^ref-9]
+Released in 1990, **Roberta Williams' King's Quest I: Quest for the Crown** is Sierra On-Line's official SCI engine remake of its landmark 1984 adventure game.[^ref-2][^ref-4] Sources disagree on the exact date: Adventure Gamers lists September 19, 1990, the King's Quest Companion says "the autumn of 1990", and the SCI Wiki gives December 1990.[^ref-5][^ref-4][^ref-3] Adventure Gamers' Emily Morganti wrote that it was "released in 1990 to celebrate the company's tenth anniversary."[^ref-7] Often referred to as "King's Quest I SCI" or occasionally "King's Quest I VGA" (though it uses 16-color EGA graphics rather than true 256-color VGA),[^ref-4] the remake was the first of Sierra's remakes of its classic AGI games.[^ref-3] The project was widely viewed as a critical failure, with critics comparing it to the practice of colorizing classic black-and-white films.[^ref-4][^ref-9]
 
 > [!info]- Game Info
-> **Developer:** [[Sierra On-Line]][^ref-1]
+> **Developer:** [[Sierra On-Line]][^ref-2]
 > **Designer:** [[Roberta Williams]][^ref-4]
 > **Producer/Writer:** [[Josh Mandel]][^ref-4]
-> **Publisher:** Sierra On-Line[^ref-1]
+> **Publisher:** Sierra On-Line[^ref-2]
 > **Engine:** SCI0 (SCI01 variant)[^ref-3]
 > **Platforms:** MS-DOS, Amiga[^ref-2]
-> **Release Year:** 1990[^ref-1]
+> **Release Year:** 1990[^ref-2]
 > **Series:** King's Quest
 > **Protagonist:** Sir Graham
 > **Sierra Lineage:** Core Sierra
@@ -62,20 +62,24 @@ Other puzzle changes included alterations to point values and alternate solution
 
 ## Reception
 
-### Contemporary Reviews
+### Reviews
 
-The remake received mixed reviews upon release, with critical opinion sharply divided between those who appreciated the modernization and those who viewed it as tampering with a classic.
+MobyGames' critic list for the remake starts in 1993. The reviews below are budget re-release reviews and later retrospectives, not launch reviews.[^ref-23]
 
-**DOS Reviews (later retrospectives):**
+**DOS Reviews:**
 
 | Publication | Score | Reviewer |
 |-------------|-------|----------|
-| Adventure Classic Gaming (review of the 1984 original; discusses the remake) | 5/5 | Joppe Bos[^ref-9] |
-| Adventure Gamers | 60% (3 stars) | —[^ref-2][^ref-7] |
-| GameZebo | 60% | —[^ref-2] |
-| PC Soluces | 20% | —[^ref-2] |
+| Joker Verlag präsentiert: Sonderheft (1993) | 55% | —[^ref-23] |
+| PC Soluces (1996) | 20% | —[^ref-23] |
+| All Game Guide | 40% (2/5) | Chris Couper[^ref-23][^ref-26] |
+| Adventure Classic Gaming (1999; review of the 1984 original; discusses the remake) | 5/5 | Joppe Bos[^ref-9] |
+| Adventure Gamers (2005; review mainly of the 1984 original, with a section on the remake) | 60% (3 stars) | Emily Morganti[^ref-7] |
+| GameZebo (2009; Steam King's Quest Collection) | 60% (3 stars) | Erin Bell[^ref-23][^ref-27] |
 
 **Amiga Reviews (1993–94 Kixx budget re-release):**
+
+MobyGames files these under the SCI remake; Amiga Magazine Rack lists them as re-releases and marks one entry "Enhanced version?", with a question mark.[^ref-23][^ref-11]
 
 | Publication | Issue | Score | Reviewer |
 |-------------|-------|-------|----------|
@@ -87,15 +91,17 @@ The remake received mixed reviews upon release, with critical opinion sharply di
 
 MobyGames lists a Moby Score of 6.7 and a critics average of 59% from 11 ratings (as of 2026).[^ref-2]
 
+All Game Guide's Chris Couper was the harshest, calling the remake "a game that never should have been made."[^ref-26]
+
 Adventure Classic Gaming's Joppe Bos offered a defense of the remake, writing: "Personally, I disagree with this opinion. The old version is clearly outdated, and a remake is surely necessary."[^ref-9]
 
 ### Modern Assessment
 
-The remake's reception became notorious in adventure gaming circles. AGD Interactive calls the remake "a total market failure."[^ref-13] Planned SCI remakes of King's Quest II and III never materialized; the King's Quest Omnipedia records that the KQII remake was scrapped, "perhaps due to fan criticism, while others claim disappointing sales."[^ref-15]
+Later accounts are unkind. AGD Interactive calls the remake "a total market failure."[^ref-13] Planned SCI remakes of King's Quest II and III never materialized; the King's Quest Omnipedia records that the KQII remake was scrapped, "perhaps due to fan criticism, while others claim disappointing sales."[^ref-15]
 
 The comparison to film colorization proved particularly damaging. As documented across multiple sources, "many reviewers and gamers took offense at what they perceived as an attempt to 'destroy the classics.'"[^ref-4] This reaction "essentially stopped work on future attempts to modernize later King's Quest installments."[^ref-4]
 
-Modern users on My Abandonware rate the game 4.28/5 (32 votes), with one commenter noting it has "the beautiful updated graphics" while acknowledging "some of the puzzles are modified to be a little bit easier."[^ref-14]
+MobyGames players rate it 3.5 out of 5 from 48 ratings (as of 2026).[^ref-2]
 
 ## Development
 
@@ -107,18 +113,22 @@ Ellen Guon Beeman initially started work on the project, reportedly polishing th
 
 The project coincided with Roberta Williams being "heavily involved with King's Quest V, which was in progress at the same time."[^ref-8]
 
+The credits list Ken Williams as executive producer, William D. Skirvin as art designer, Jerry Shaw as lead programmer and Ken Allen as composer, with Ellen Guon Beeman under special thanks.[^ref-8][^ref-4]
+
 ### Production
 
-The game was released in autumn 1990 for MS-DOS, with an Amiga port following the same year.[^ref-3][^ref-4] The technical specifications were modest for the era:
+The game was released in 1990 for MS-DOS, and MobyGames also lists a 1990 Amiga release.[^ref-25] The technical specifications were modest for the era. MobyGames lists these minimums for the DOS version:[^ref-24]
 
 | Requirement | Specification |
 |-------------|---------------|
-| Operating System | MS-DOS 5.0 or greater[^ref-16] |
-| Processor | 286 or better[^ref-16] |
-| RAM | 512 KB[^ref-16] |
-| Hard Drive | 2.5 MB[^ref-16] |
-| Graphics | EGA[^ref-16] |
-| Sound | AdLib, SoundBlaster, GameBlaster, or Roland MT-32[^ref-16] |
+| Operating System | DOS 3.0 to 3.3[^ref-24] |
+| Processor | Intel 8088 / 8086[^ref-24] |
+| RAM | 512 KB[^ref-24] |
+| Media | 3.5" and 5.25" floppy disks[^ref-24] |
+| Graphics | CGA, EGA, Hercules, MCGA, Tandy / PCjr, VGA[^ref-24] |
+| Sound | AdLib, Game Blaster (CMS), IBM Music Feature Card, PC speaker, Roland MT-32, Sound Blaster, Tandy[^ref-24] |
+
+Sierra Help's requirements list, which it shares with King's Quest IV, gives MS-DOS 5.0 and a 286, plus 2.5 MB of hard drive space for King's Quest I.[^ref-16] These higher figures do not match MobyGames' DOS 3.0 and 8088 listing for the original release.[^ref-24]
 
 The game was the only Sierra AGI-to-SCI remake to retain the text parser interface. As the SCI Wiki notes: "Since it was made before the next major version of SCI (SCI1) was finished, it is the only one of the remakes to be made in SCI01's EGA graphics with parser interface. The other remakes, Space Quest I, Leisure Suit Larry I and Police Quest 1 all were developed in SCI1, which gave them VGA graphics and a Point and Click interface."[^ref-3]
 
@@ -151,19 +161,19 @@ A modern fan patch by NewRisingSun addresses "opening and closing credits sequen
 |--------------|-------------|-------|
 | 1.000.051 | S.old.010 | Only release; demo uses same interpreter |
 
-**Regional Releases:**[^ref-14]
-- United States: 1990, 1991
-- Europe (France, Germany, Italy, UK): 1993 via U.S. Gold Ltd.
+**Regional Releases:**[^ref-25]
+- United States: 1990 (DOS and Amiga); 1991 (DOS dual-media release)
+- Europe (France, Germany, Italy, UK): 1993 Kixx XL re-releases for DOS and Amiga via U.S. Gold Ltd.
 
 The Amiga version was re-released on the budget labels Kixx and Kixx XL in 1993–1994, priced at £12.99–£14.99 in reviews.[^ref-11][^ref-22]
 
 ### Cost and Cancellation
 
-The commercial disappointment of the remake had far-reaching consequences. Josh Mandel later explained: "So while I think the thought was, 'Oh, we already know this game inside and out, so doing a remake will be cheaper,' that turned out not to be the case. So we were putting almost as much effort into creating the remakes as we put into making new games."[^ref-15]
+Josh Mandel later explained why the remakes earned less than Sierra hoped: "So while I think the thought was, 'Oh, we already know this game inside and out, so doing a remake will be cheaper,' that turned out not to be the case. So we were putting almost as much effort into creating the remakes as we put into making new games."[^ref-15]
 
-This cost parity proved fatal to the remake initiative. "And customers would much rather have a new game than a retread of an old game; the remakes were quite not the automatic purchases that I think the company expected."[^ref-15] Though Mandel said he was "not sure I'd describe their sales as 'poor,'" they were "certainly not as good as the same budget poured into a new game."[^ref-15]
+He added: "And customers would much rather have a new game than a retread of an old game; the remakes were quite not the automatic purchases that I think the company expected."[^ref-15] Though Mandel said he was "not sure I'd describe their sales as 'poor,'" they were "certainly not as good as the same budget poured into a new game."[^ref-15]
 
-Donald B. Trivette noted in The Official Book of King's Quest VI (1993) that Sierra had planned to re-do II and III, "but at this writing that has not been done."[^ref-15]
+Sierra's remake program continued: Space Quest I, Leisure Suit Larry I and Police Quest 1 were remade afterwards in SCI1, with VGA graphics and a point-and-click interface.[^ref-3] What was dropped were the King's Quest II and III remakes. Donald B. Trivette noted in The Official Book of King's Quest VI (1993) that Sierra had planned to re-do II and III, "but at this writing that has not been done."[^ref-15]
 
 ## Legacy
 
@@ -179,9 +189,7 @@ The fan remake proved enormously successful: "During the first month of AGDI rel
 
 ### Availability
 
-The SCI remake exists in a preservation gray area. As one My Abandonware user notes: "This version is true abandonware... The purchasable version is the original, not the 1991 remake. There is currently no legal way to obtain this game."[^ref-14] Wikipedia, however, reports that the SCI version is included in Steam's King's Quest Collection.[^ref-17]
-
-Current digital storefronts have mixed availability. The GOG King's Quest 1+2+3 bundle ($9.99) includes only the AGI originals.[^ref-6] The Steam King's Quest Collection ($19.99), a seven-game set, includes the SCI version of King's Quest I.[^ref-17][^ref-21] The remake also survives through Internet Archive preservation and legacy physical collections.
+The SCI remake is still sold. Steam's King's Quest Collection ($19.99), a seven-game set, includes the SCI version of King's Quest I.[^ref-17][^ref-21] GameZebo's 2009 review of the Steam release noted that the version in the collection "is an updated version from 1990".[^ref-27] The GOG King's Quest 1+2+3 bundle ($9.99) includes only the AGI originals.[^ref-6]
 
 ### Collections
 
@@ -217,25 +225,27 @@ The SCI remake was included in several Sierra compilations:[^ref-2]
 
 ## References
 
-[^ref-1]: Internet Archive – King's Quest 1 Quest For The Crown (Floppy DOS SCI Remake) (download link removed: game still sold) – – Archived SCI remake floppy release
-[^ref-2]: [MobyGames – Roberta Williams' King's Quest I](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/) – – Credits, reviews, scores
-[^ref-3]: [SCI Wiki – King's Quest I SCI](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI_remake%29) – – Interpreter versions, technical specs, release date (Dec 1990)
-[^ref-4]: [King's Quest Omnipedia – KQ1 MS-DOS](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28MS-DOS%29) – – Development, credits, changes, reception, Trivette "autumn of 1990" quote
-[^ref-5]: [Adventure Gamers – KQ1 SCI](https://web.archive.org/web/20230322163058/https://adventuregamers.com/games/view/36653) – – Plot description
-[^ref-6]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) – – Story summary
-[^ref-7]: [Adventure Gamers – King's Quest: Quest for the Crown review (Wayback, Oct 2005)](https://web.archive.org/web/20051023090350/http://www.adventuregamers.com/article/id,562) – – SCI remake improvements, interface, three-star verdict
-[^ref-8]: [King's Quest Omnipedia – KQ1SCI development](https://kingsquest.fandom.com/wiki/KQ1SCI_development) – – Josh Mandel quotes, cut content
-[^ref-9]: [Adventure Classic Gaming – KQ1 Review](http://www.adventureclassicgaming.com/index.php/site/reviews/120) – – 5/5 review, Roberta Williams quotes
-[^ref-10]: [Sierra Wiki – KQ1 SCI](https://sierra.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI%29) – – Puzzle changes
-[^ref-11]: [Amiga Magazine Rack – KQ1 Reviews](https://amr.abime.net/review_4342) – – Five Amiga magazine reviews
-[^ref-12]: [Lemon Amiga – KQ1 Enhanced](https://www.lemonamiga.com/games/details.php?id=1765) – – Amiga credits and review
-[^ref-13]: [AGD Interactive – KQ1 History](https://www.agdinteractive.com/games/kq1/about/about.html) – – Market failure, fan remake motivation, download stats
-[^ref-14]: My Abandonware – KQ1 SCI (download link removed: game still sold) – – User ratings, availability notes
-[^ref-15]: [King's Quest Omnipedia – King's Quest II: Romancing the Throne SCI](https://kingsquest.fandom.com/wiki/King%27s_Quest_II:_Romancing_the_Throne_SCI) – – Josh Mandel correspondence, cancellation reasons
-[^ref-16]: [Sierra Help – KQ1 SCI Help](https://sierrahelp.com/Games/KingsQuest/KQ1SCIHelp.html) – – System requirements, patches, bugs
-[^ref-17]: [Wikipedia – King's Quest I](https://en.wikipedia.org/wiki/King%27s_Quest_I) – – Technical details
-[^ref-18]: [King's Quest Omnipedia – Tierra Remake](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28Tierra%29) – – AGDI version history
-[^ref-19]: [Wikipedia – King's Quest fan games](https://en.wikipedia.org/wiki/King%27s_Quest_fan_games) – – Fan remake details, Josh Mandel voice
-[^ref-20]: [Wikipedia – Josh Mandel](https://en.wikipedia.org/wiki/Josh_Mandel_%28video_game_designer%29) – – Career, voice acting
-[^ref-21]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – – Price, seven-game collection
-[^ref-22]: [Amiga Magazine Rack – Kings Quest 1 (Amiga Computing 71)](https://amr.abime.net/review_8374) – – Amiga Computing review (Mar 1994), Kixx XL re-release, 67%, £14.99, Tina Hackett
+[^ref-2]: [MobyGames – Roberta Williams' King's Quest I](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/) – Developer, publisher, platforms, collections, Moby Score, critic and player averages
+[^ref-3]: [SCI Wiki – King's Quest I SCI](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI_remake%29) – Interpreter versions, technical specs, release date (Dec 1990)
+[^ref-4]: [King's Quest Omnipedia – KQ1 MS-DOS](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28MS-DOS%29) – Development, credits, changes, reception, King's Quest Companion (3rd ed.) "autumn of 1990" excerpt, "KQ1 VGA" alias
+[^ref-5]: [Adventure Gamers – KQ1 SCI](https://web.archive.org/web/20230322163058/https://adventuregamers.com/games/view/36653) – Release date (Worldwide September 19, 1990), plot description
+[^ref-6]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) – Story summary
+[^ref-7]: [Adventure Gamers – King's Quest: Quest for the Crown review (Wayback, Oct 2005)](https://web.archive.org/web/20051023090350/http://www.adventuregamers.com/article/id,562) – Emily Morganti's review (mainly of the original), SCI remake improvements, interface, tenth anniversary, three-star verdict
+[^ref-8]: [King's Quest Omnipedia – KQ1SCI development](https://kingsquest.fandom.com/wiki/KQ1SCI_development) – Josh Mandel quotes, cut content
+[^ref-9]: [Adventure Classic Gaming – KQ1 Review](http://www.adventureclassicgaming.com/index.php/site/reviews/120) – 5/5 review, Roberta Williams quotes
+[^ref-10]: [Sierra Wiki – KQ1 SCI](https://sierra.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI%29) – Puzzle changes
+[^ref-11]: [Amiga Magazine Rack – KQ1 Reviews](https://amr.abime.net/review_4342) – Five Amiga magazine reviews
+[^ref-13]: [AGD Interactive – KQ1 History](https://www.agdinteractive.com/games/kq1/about/about.html) – Market failure, fan remake motivation, download stats
+[^ref-15]: [King's Quest Omnipedia – King's Quest II: Romancing the Throne SCI](https://kingsquest.fandom.com/wiki/King%27s_Quest_II:_Romancing_the_Throne_SCI) – Josh Mandel correspondence, cancellation reasons
+[^ref-16]: [Sierra Help – KQ1 SCI Help](https://sierrahelp.com/Games/KingsQuest/KQ1SCIHelp.html) – System requirements, patches, bugs
+[^ref-17]: [Wikipedia – King's Quest I](https://en.wikipedia.org/wiki/King%27s_Quest_I) – Technical details
+[^ref-18]: [King's Quest Omnipedia – Tierra Remake](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28Tierra%29) – AGDI version history
+[^ref-19]: [Wikipedia – King's Quest fan games](https://en.wikipedia.org/wiki/King%27s_Quest_fan_games) – Fan remake details, Josh Mandel voice
+[^ref-20]: [Wikipedia – Josh Mandel](https://en.wikipedia.org/wiki/Josh_Mandel_%28video_game_designer%29) – Career, voice acting
+[^ref-21]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – Price, seven-game collection
+[^ref-22]: [Amiga Magazine Rack – Kings Quest 1 (Amiga Computing 71)](https://amr.abime.net/review_8374) – Amiga Computing review (Mar 1994), Kixx XL re-release, 67%, £14.99, Tina Hackett
+[^ref-23]: [MobyGames – Roberta Williams' King's Quest I reviews](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/reviews/) – Critic review list: Joker 55% (1993), PC Soluces 20%, All Game Guide 2/5, GameZebo 3/5, Amiga re-release reviews
+[^ref-24]: [MobyGames – Roberta Williams' King's Quest I specs](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/specs/) – DOS minimums: DOS 3.0 to 3.3, Intel 8088/8086, 512 KB; video and sound support
+[^ref-25]: [MobyGames – Roberta Williams' King's Quest I releases](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/releases/) – US 1990/1991 releases, 1993 Kixx XL re-releases by U.S. Gold Ltd.
+[^ref-26]: [AllGame – King's Quest I: Quest for the Crown (EGA) review (Wayback, Nov 2014)](https://web.archive.org/web/20141115124351/http://www.allgame.com/game.php?id=9407&tab=review) – Chris Couper's review of the remake
+[^ref-27]: [GameZebo – King's Quest I: Quest for the Crown review (Wayback, Nov 2013)](http://web.archive.org/web/20131113034647/http://www.gamezebo.com:80/games/kings-quest-i-quest-crown/review) – Erin Bell, Aug 6, 2009: Steam collection contains "an updated version from 1990"
