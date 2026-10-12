@@ -5,80 +5,82 @@ developer: Sierra On-Line
 designer: [Chuck Bueche, Don McGlauflin]
 publisher: Sierra On-Line
 genre: Arcade
-platforms: [Apple II, VIC-20, Atari 400/800, IBM PCjr]
+platforms: [Apple II, VIC-20]
 series: Laf Pak
 engine: 6502 Assembly
 protagonist: Sierra Smith
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-11'
 description: Creepy Corridors is a maze-based arcade game originally developed by
   Chuck Bueche and published by Sierra On-Line in 1982 as part of the Laf Pak compilation...
 tags: [1980s, laf-pak, sierra]
 ---
 # Creepy Corridors
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
-Creepy Corridors is a maze-based arcade game originally developed by Chuck Bueche and published by Sierra On-Line in 1982 as part of the Laf Pak compilation for the Apple II.[^ref-1] The game follows adventurer Sierra Smith as he navigates the catacombs of the titular Creepy Corridors in search of treasures, collecting diamonds while avoiding or shooting at monsters in gameplay reminiscent of Wizard of Wor and Mr. Do![^ref-2] The game holds a unique place in early computer game history as allegedly the third Apple II game ever to feature sampled speech.[^ref-3]
+Creepy Corridors is a maze-based arcade game originally developed by Chuck Bueche and published by Sierra On-Line (then On-Line Systems) in 1982 as part of the Laf Pak compilation for the Apple II.[^ref-3][^ref-6][^ref-21] In the game, adventurer Sierra Smith enters the catacombs of Creepy Corridors in search of treasure, collecting diamonds while avoiding or shooting the monsters that roam the maze.[^ref-4] MobyGames compares it to Wizard of Wor, and a MobyGames player review says its mechanics are "the same as in Mr. Do!"[^ref-4][^ref-5] The game is best remembered as allegedly the third Apple II game ever to feature sampled speech.[^ref-3]
 
-Originally bundled with three other games—Apple Zap, Mine Sweep, and Space Race—in the Laf Pak compilation, Creepy Corridors was later ported to the Commodore VIC-20 as a standalone cartridge release in 1983 by Don McGlauflin.[^ref-4] The game represented Sierra On-Line's efforts in the arcade game market during the golden age of video games, years before the company became synonymous with graphic adventure games like the King's Quest series.[^ref-5] Despite its modest commercial success, the game demonstrated technical innovation and established Chuck Bueche as a capable programmer who would later become famous as "Chuckles" in the Ultima series.[^ref-6][^ref-15]
+Originally bundled with three other games (Apple Zap, Mine Sweep, and Space Race) on the Laf Pak disk, Creepy Corridors was the only Laf Pak game to be ported on its own: Don McGlauflin converted it to the Commodore VIC-20 as a SierraVision cartridge in 1983.[^ref-1][^ref-6][^ref-20] It came out years before Sierra became known for its King's Quest adventure series.[^ref-5] Laf Pak itself was not a commercial success, and the VIC-20 cartridge sold only a small number of copies.[^ref-6] Bueche went on to co-found Origin Systems and appeared in the Ultima games as the court jester "Chuckles."[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** Chuck Bueche, Don McGlauflin[^ref-7]
 > **Publisher:** Sierra On-Line (as [[On-Line Systems]])[^ref-1]
 > **Engine:** 6502 Assembly Language[^ref-8]
-> **Platforms:** Apple II, VIC-20, Atari 400/800, IBM PCjr[^ref-9]
-> **Release Year:** 1982 (Apple II), 1983 (VIC-20, Atari)[^ref-1]
+> **Platforms:** Apple II, VIC-20 (Atari 8-bit and Commodore 64 versions were advertised but not released; the IBM PCjr port was released as [[1983 - Mine Shaft|Mine Shaft]])[^ref-4][^ref-6]
+> **Release Year:** 1982 (Apple II), 1983 (VIC-20)[^ref-6]
 > **Series:** Laf Pak compilation[^ref-1]
-> **Protagonist:** Sierra Smith[^ref-2]
+> **Protagonist:** Sierra Smith[^ref-4]
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-The game's narrative is straightforward arcade-style fare typical of early 1980s computer games. Players control Sierra Smith, an adventurer who has entered the catacombs of Creepy Corridors seeking treasure in the form of diamonds scattered throughout maze-like levels.[^ref-2] The premise draws from classic dungeon-crawling themes popular in the era's gaming landscape.
+The game's narrative is straightforward arcade-style fare. Players control Sierra Smith, an adventurer who has entered the catacombs of Creepy Corridors seeking treasure in the form of diamonds placed throughout maze-like levels.[^ref-4] The VIC-20 box copy sets the tone: "Jewels, gems and other treasures lie deep within Creepy Corridors, ready for the taking. But are you ready to face the crawling critters that stand between you and the riches?"[^ref-20]
 
-An anonymous epigraph associated with the game reflects its themes of good versus evil: "Goodness reflects the light and evil bears the seed of all darkness. These are mirrors of the soul, reflections of the mind. Choose well."[^ref-2] This philosophical framing elevates what might otherwise be a simple maze game into something with aspirations toward deeper meaning, even if the gameplay itself remains purely action-oriented.
-
-The corridors Sierra Smith explores are infested with monsters that must either be avoided or eliminated. The game's atmosphere draws on the inherent unease that corridors create—spaces of limited visibility where danger could lurk around every corner.[^ref-11] This design philosophy anticipates decades of horror game development that would exploit similar architectural anxiety.[^ref-16]
+The corridors are infested with monsters that must either be avoided or eliminated. In the Apple II original the monsters enter the maze from the left,[^ref-18] and later levels introduce white skulls that cannot be shot.[^ref-3]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Creepy Corridors is controlled via keyboard on the VIC-20 version, utilizing a single-screen perspective where players navigate their character through maze corridors.[^ref-4] The Apple II version supports joystick or paddle controls as the preferred input method, with keyboard alternatives using the I, J, K, M keys for movement and the F key to fire.[^ref-8] The game plays on a single-player basis with straightforward arcade mechanics.
+The Apple II version can be played with a joystick or paddle, or from the keyboard using the I, J, K and M keys to move and F to fire.[^ref-8][^ref-17] The VIC-20 version is played with a joystick ("The joystick is used for movement, and the fire button is used to shoot enemies"), and MobyGames also lists keyboard support.[^ref-5][^ref-4] The game is single-player, with a fixed-screen view of the maze.[^ref-4]
 
 ### Structure and Progression
 
-The game features a color scheme that changes every two levels, cycling through blue, purple, red, and black palettes to provide visual variety and indicate progression through the catacombs.[^ref-5] Players can complete each level through two different methods:
+Each level contains four diamonds, located in the corners of the maze.[^ref-4][^ref-18] Players can complete each level in two ways:
 
-- **Collecting all diamonds:** Gathering every treasure piece scattered throughout the maze advances to the next level[^ref-5]
-- **Eliminating all enemies:** Alternatively, destroying every monster on screen also clears the stage[^ref-5]
+- **Collecting all diamonds:** Once all four are picked up, an exit opens to the next level.[^ref-4]
+- **Eliminating all enemies:** The exit also opens if every monster is killed first.[^ref-4][^ref-5]
 
-This dual-objective design gives players strategic choice in how they approach each level, balancing risk-versus-reward calculations between aggressive and cautious playstyles.
+The player starts with four lives and earns an extra one for collecting all the diamonds on a level; more and tougher enemies appear as the levels progress.[^ref-4] *Softalk* described the little men dodging and shooting "through ten levels," and Pix's Origin Adventures also suspected there are only ten.[^ref-17][^ref-3] In the VIC-20 version the maze colour scheme changes every two levels, cycling through blue, purple, red and black.[^ref-5]
 
 ### Puzzles and Mechanics
 
-The core gameplay loop involves navigating maze corridors, avoiding or shooting monsters, and collecting diamonds.[^ref-2] The mechanics closely mirror those of Mr. Do! and Wizard of Wor, both popular arcade titles of the era.[^ref-4] Players must manage their character's position carefully, as enemies patrol the corridors and can quickly corner an unwary player.
+The core gameplay loop involves navigating maze corridors, avoiding or shooting monsters, and collecting diamonds.[^ref-4] The player can fire only one shot at a time,[^ref-3] and the gun shoots only in a straight line, which *Creative Computing* noted is a limitation since "few of the corridors are straight and long."[^ref-18] Monsters chase the player once they have a line of sight, and everything, the player included, speeds up on each new screen.[^ref-3]
 
-The game notably lacks a traditional "Game Over" text display when the player runs out of lives—the game simply ends.[^ref-5] However, players can restart the entire game by pressing F1 during gameplay, providing a quick reset option.[^ref-5] The title screen serves an important purpose, showing players what to expect in the game before diving into the action.[^ref-5]
+In the VIC-20 version there is no "Game Over" text when the player runs out of lives; the game simply ends. The whole game can be restarted by pressing F1.[^ref-5] That version also adds a title screen showing what to expect in the game.[^ref-3][^ref-5]
 
 ## Reception
 
 ### Contemporary Reviews
 
-As a component of the Laf Pak compilation rather than a high-profile standalone release, Creepy Corridors received limited contemporary review coverage. The compilation was released during a crowded market period in 1981-1982 when arcade-style games dominated home computer software.
+*Softalk* (September 1982) singled out Creepy Corridors as the "First and best" of the four Laf Pak games, saying "This one is worth the price of the disk. If you can get past level six, you are very, very good."[^ref-17] *Softalk*'s short-list entry for Laf Pak in the same issue called the disk "a real bargain" and named Creepy Corridors "the best."[^ref-17]
+
+David H. Ahl's *Creative Computing* roundup of Apple arcade games (February 1983) described the game and concluded of the whole disk: "All in all, Laf Pak offers a lot of game playing value per dollar, and you are almost sure to find one or more of the games on this disk to your liking."[^ref-18]
+
+Ferrell Wheeler, writing in *Hardcore Computist* (issue 13), called Creepy Corridors "a maze type game that is by far the most fun, especially with the hilarious sound effects."[^ref-19]
 
 ### Modern Assessment
 
-Modern retrospectives have generally been positive about the game's simple but effective design. A MobyGames user review from 2013 rated the game 4.0 out of 5 stars, with reviewer Katakis praising it: "Creepy Corridors is a simple game from Sierra, years before they became popular with their King's Quest series."[^ref-4] The reviewer noted, "I can't think of anything bad about this game," while acknowledging its resemblance to Atari 2600-era gameplay.[^ref-5]
+A 2013 MobyGames player review of the VIC-20 version by Katakis says: "Creepy Corridors is a simple game from Sierra, years before they became popular with their King's Quest series."[^ref-5] The reviewer noted, "I can't think of anything bad about this game," while comparing it to an Atari 2600 game.[^ref-5]
 
-The Retro365 blog described it as "a simple yet challenging maze game" with obvious inspiration from popular maze game concepts of the time.[^ref-6] Pix's Origin Adventures provided detailed technical analysis, particularly praising the Apple II original while criticizing the VIC-20 port's collision detection issues.[^ref-3]
+The Retro365 blog described it as "a simple yet challenging maze game" whose inspiration "was obvious."[^ref-6] Pix's Origin Adventures liked the Apple II original ("strangely good fun to play") but warned players away from the VIC-20 port because of its collision detection.[^ref-3]
 
 **Aggregate Scores:**
-- **MobyGames:** 4.0/5 (1 user review)[^ref-4]
+- **MobyGames (VIC-20):** 4.0/5 average from 2 player ratings (1 written review)[^ref-4]
 - **My Abandonware:** 4/5 (2 votes)[^ref-12]
 - **Laf Pak compilation:** 3.3/5 on MobyGames (3 ratings)[^ref-1]
 
@@ -86,29 +88,30 @@ The Retro365 blog described it as "a simple yet challenging maze game" with obvi
 
 ### Origins
 
-Creepy Corridors emerged from Chuck Bueche's early work with Sierra On-Line (then known as On-Line Systems) during the summer of 1981 and spring of 1982.[^ref-8] Bueche was developing multiple games simultaneously for the company's Laf Pak compilation, which would bundle four action games of various genres onto a single disk selling for $34.95.[^ref-1]
+Bueche states that he wrote the four Laf Pak games, Creepy Corridors among them, between Summer 1981 and Spring 1982.[^ref-8] The disk sold for $34.95 and required a 48K Apple II.[^ref-8] The Laf Pak packaging presents Bueche as "Chuckles," a court jester knighted by Lord British, bringing his gifts to On-Line customers through "the new relationship that exists between the Lord British of England and Ken Williams of On-Line."[^ref-21]
 
-The game's design drew obvious inspiration from popular maze games of the era, particularly Wizard of Wor and Mr. Do!, adapting their core mechanics for home computer platforms.[^ref-4] As a maze-crawl where players collect treasures while avoiding enemies, Creepy Corridors fit comfortably within the arcade-style games that dominated early 1980s computer gaming.
+As a maze crawl where players collect treasures while avoiding enemies, the game drew on popular concepts of the time; Pix calls it "an obvious Pacman variant," and Retro365 says "the inspiration was obvious."[^ref-3][^ref-6]
 
 ### Production
 
-Chuck Bueche wrote all of his Apple II, Atari 800, and Commodore 64 games in 100% 6502 assembly language.[^ref-8] He later recalled the technical constraints: "48K bytes of RAM to work with, which also housed the 280 x 192 pixel video buffer. The only practical way to go was to write carefully optimized assembly language, to get all we could from the constrained conditions."[^ref-8]
+Bueche wrote all of his Apple II, Atari 800 and Commodore 64 games in 100% 6502 assembly language.[^ref-8] He later recalled the technical constraints: "48K bytes of RAM to work with, which also housed the 280 x 192 pixel video buffer. The only practical way to go was to write carefully optimized assembly language, to get all we could from the constrained conditions."[^ref-8]
 
-The most technically ambitious feature of the Apple II original was sampled speech. Bueche sampled his own scream for when the player died, a feature that took up almost a fifth of the available memory resources but would become the game's best-known attribute.[^ref-6] This innovation allegedly made Creepy Corridors the third Apple II game ever to include sampled speech.[^ref-3]
+The Apple II original's best-known feature was sampled speech. Bueche sampled his own scream for when the player died, a feature that took up almost a fifth of the available resources.[^ref-6] This allegedly made Creepy Corridors the third Apple II game ever to include sampled speech.[^ref-3]
 
-**Development Credits:**[^ref-7]
-- **Designer/Programmer:** Chuck Bueche
-- **VIC-20 Port:** Don McGlauflin
-- **IBM PCjr Port:** John Redekopp (as Mine Shaft)
-- **Cover Art:** [[Mark Crowe]]
+**Development Credits:**
+- **Designer/Programmer:** Chuck Bueche[^ref-1][^ref-7]
+- **VIC-20 Port:** Don McGlauflin[^ref-4][^ref-20]
+- **IBM PCjr Port:** John Redekopp (released as Mine Shaft)[^ref-6]
+- **Laf Pak Cover Art:** Scott Ross[^ref-1]
+- **VIC-20 Cover Art:** [[Mark Crowe]][^ref-6]
 
-The cover artwork was created by Mark Crowe, who would later achieve fame as co-designer of Sierra's Space Quest series alongside Scott Murphy.[^ref-6]
+The VIC-20 cover artwork was created by Mark Crowe, who later became one of the designers of Sierra's Space Quest series.[^ref-6]
 
 ### Technical Achievements
 
-The sampled death scream represented a significant technical achievement for 1982, pushing the Apple II's audio capabilities beyond simple beeps and tones. However, this feature came at a substantial cost—nearly 20% of available memory was dedicated to storing and playing back the audio sample.[^ref-6]
+The sampled death scream came at a substantial cost: almost a fifth of the game's available resources were spent on it.[^ref-6]
 
-The game used character-based graphics rather than conventional sprites, particularly evident in the VIC-20 port.[^ref-3] This approach allowed the game to run on memory-constrained hardware while maintaining recognizable visuals.
+On the VIC-20, which cannot do sprites in the conventional sense, the port uses character-based graphics, with the screen made up of tiles that are swapped to create the illusion of moving bitmaps.[^ref-3]
 
 ### Technical Specifications
 
@@ -120,11 +123,11 @@ The game used character-based graphics rather than conventional sprites, particu
 
 **VIC-20 Version:**[^ref-4]
 - **Media:** Cartridge
-- **Input:** Keyboard
+- **Input:** Joystick; keyboard also supported[^ref-5]
 - **Players:** 1 Player
-- **Colors:** Monochrome display with color scheme changing every two levels[^ref-3]
+- **Colors:** Pix describes the screen as monochrome,[^ref-3] while Katakis reports the maze colour scheme changing every two levels[^ref-5]
 
-**Disk Technical Specifications (Internet Archive):**[^ref-13]
+**Disk Technical Specifications (Internet Archive compilation disk):**[^ref-13]
 - **Disk Format:** DOS 3.3
 - **File Size:** 360.1K
 - **Physical Size:** 143360 bytes
@@ -134,77 +137,67 @@ The game used character-based graphics rather than conventional sprites, particu
 
 ### Cut Content
 
-The sampled death scream that was the Apple II version's signature feature had to be removed from the VIC-20 cartridge port due to memory constraints.[^ref-6] The audio sample simply could not fit within the VIC-20's more limited memory alongside the game code and graphics. This significantly diminished the atmospheric impact of the port compared to the original.
+The sampled death scream had to be dropped from the VIC-20 cartridge port, because the limited computer and the small cartridge did not leave room for it.[^ref-6]
 
-A Commodore 64 version was advertised alongside the Atari and VIC-20 releases but was never found or released.[^ref-14] According to Games That Weren't, "The advert mentions Atari, Com 64 and Vic 20. But the Commodore 64 version is nowhere to be seen."[^ref-14] A screenshot that appeared in advertisements seems to be a mockup with a hi-res font compared to the VIC-20 edition, which could well be based on what the C64 version looked like.[^ref-14]
+MobyGames notes that the game "was also advertised for Atari 8-bit and Commodore 64 but these versions were not released."[^ref-4] According to Games That Weren't, "The advert mentions Atari, Com 64 and Vic 20. But the Commodore 64 version is nowere to be seen."[^ref-14] A screenshot that appeared in advertisements seems to be a mockup with a hi-res font compared to the VIC-20 edition, which could well be based on what the C64 version looked like.[^ref-14] The Sierra Chest nonetheless lists Atari 400/800 among the game's platforms, though its only packaging entry is the VIC-20 SierraVision box.[^ref-9]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | June 1981 | Apple II | Original release as part of Laf Pak compilation[^ref-1] |
-| 1.0 | 1983 | VIC-20 | Standalone cartridge port by Don McGlauflin[^ref-4] |
-| 1.0 | 1983 | Atari 400/800 | Cartridge release[^ref-9] |
-| Mine Shaft | March 1984 | IBM PCjr | Re-titled port by John Redekopp[^ref-6] |
+| 1.0 | 1982 | Apple II | Original release on the Laf Pak compilation (MobyGames gives June 1981)[^ref-1][^ref-6][^ref-21] |
+| 1.0 | 1983 | VIC-20 | Standalone SierraVision cartridge port by Don McGlauflin[^ref-4][^ref-20] |
+| — | (advertised) | Atari 8-bit | Advertised but not released[^ref-4][^ref-14] |
+| Mine Shaft | March 1984 | IBM PCjr | Re-titled port by John Redekopp; see [[1983 - Mine Shaft]][^ref-6] |
 
-The game was later ported to the IBM PCjr in March 1984 under the new title "Mine Shaft" by John Redekopp, reflecting Sierra's efforts to support IBM's ill-fated home computer initiative.[^ref-6]
+The game was later ported to the IBM PCjr by John Redekopp and released as "Mine Shaft" in IBM's Entertainment Series in March 1984, when the PCjr became available; the copyright on the cartridge reads 1983.[^ref-6] Eli's Software Encyclopedia files one VIC-20 listing under 1982 and its main VIC-20 release page under 1983 (box copyright 1983).[^ref-23][^ref-20]
 
 ### Technical Issues
 
-The VIC-20 port suffered from significant collision detection problems that severely impacted gameplay.[^ref-3] As one reviewer noted: "It absolutely ruins what would have been a decent port when you can get killed by monsters that aren't even in the same corridor."[^ref-3] This bug made the VIC-20 version considerably more frustrating than the Apple II original.
+The VIC-20 port suffered from collision detection problems that badly hurt gameplay.[^ref-3] As Pix noted: "It absolutely ruins what would have been a decent port when you can get killed by monsters that aren't even in the same corridor."[^ref-3]
 
-The Apple II version had speed handling issues that affected gameplay smoothness.[^ref-3] Additionally, NTSC VIC-20 games display in the top left corner of the screen when run on PAL machines, a common compatibility issue of the era.[^ref-3]
+The Apple II version's speed handling was uneven, especially while monsters spawn at the start of a level.[^ref-3] NTSC VIC-20 games display in the top left corner of the screen when run on PAL machines.[^ref-3]
 
 **Cheat Codes:**[^ref-13]
-- A cheat method exists to modify the number of lives: After the game loads, hit RESET, enter CALL-151, then type 86A: followed by the desired number of lives, then 800G to restart.
+- The cracked compilation disk preserved at the Internet Archive includes a method to change the number of lives: after the game loads, hit RESET, enter CALL-151, then type 86A: followed by the desired number of lives, then 800G to restart.
 
 ### Easter Eggs and Trivia
 
 - Chuck Bueche provided his own voice for the sampled death scream in the Apple II version.[^ref-6]
-- Bueche later appeared in the Ultima series as the court jester character "Chuckles," becoming one of gaming's earliest recurring developer cameos.[^ref-6]
-- Cover artist Mark Crowe would go on to co-create the Space Quest series with Scott Murphy.[^ref-6]
-- The game was released during the video game crash of 1983, contributing to its limited commercial success—only a small number of copies ever sold.[^ref-6]
+- Bueche later made several appearances in the Ultima series as the court jester "Chuckles."[^ref-6] The Laf Pak packaging already billed him as "Lord Chuckles, keeper of laughter and merriment."[^ref-21]
+- VIC-20 cover artist Mark Crowe would go on to become one of the designers of the Space Quest series.[^ref-6]
+- Retro365 attributes the VIC-20 cartridge's poor sales to timing: by its release, "the majority of potential customers had already migrated to the Commodore 64."[^ref-6]
 - The reviewer Katakis noted that "Creepy Corridors acts like an Atari 2600 game, if not for the title screen which shows players what to expect in the game."[^ref-5]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Commercial data on Creepy Corridors is limited, but research indicates that only a small number of copies were ever sold.[^ref-6] The game launched into the teeth of the video game crash of 1983, which devastated the home gaming market and made it difficult for even quality titles to find an audience. Its status as part of a budget compilation rather than a standalone premium release further limited its visibility.
+Commercial data on Creepy Corridors is limited. Retro365 reports that Laf Pak "didn't become successful," with low sales figures.[^ref-6] The VIC-20 cartridge arrived after the VIC-20 market had peaked, and only a small number of copies were sold.[^ref-6] Sierra's broader bet on cartridge games failed as the market crashed, and the SierraVision label was dropped.[^ref-6]
 
 ### Collections
 
-Creepy Corridors was originally released exclusively as part of the Laf Pak compilation for Apple II, which included:[^ref-1]
+Creepy Corridors was originally released as part of the Laf Pak compilation for Apple II, which included:[^ref-1]
 - Creepy Corridors
 - Apple Zap
 - Mine Sweep
 - Space Race
 
-The compilation sold for $34.95 and represented a value proposition for budget-conscious consumers seeking multiple games on a single disk.[^ref-1] The game was later released as a standalone cartridge for the VIC-20 and Atari 400/800 platforms.[^ref-9]
+The compilation sold for $34.95.[^ref-8] Creepy Corridors was later released on its own as a VIC-20 cartridge.[^ref-6][^ref-20]
 
-The game has been preserved in digital archives, appearing on compilation disks at the Internet Archive alongside other early Sierra and contemporary titles including BC's Quest for Tires.[^ref-13]
+The game has been preserved in digital archives, including a woz-a-day image of the Laf Pak disk[^ref-22] and a compilation disk at the Internet Archive alongside other early Sierra titles, including BC's Quest for Tires.[^ref-13]
 
 ### Fan Projects
 
-The Sierra Chest preservation project has documented Creepy Corridors, though the entry notes that "This release needs more and/or better scans. Either not all sides of the box are scanned (front/back/spines/media and top/bottom/inner flaps if applicable), or are not scanned properly (too small, watermarks...)"[^ref-9] This reflects the ongoing challenge of preserving physical materials from early computer game releases.
-
-### Related Publications
-
-- **Laf Pak Manual:** Included with the original Apple II compilation, covering all four games[^ref-1]
-
-Documentation for the standalone VIC-20 and Atari releases was minimal, typical of cartridge-based games of the era.
+The Sierra Chest preservation project has documented Creepy Corridors, though the entry notes that "This release needs more and/or better scans. Either not all sides of the box are scanned (front/back/spines/media and top/bottom/inner flaps if applicable), or are not scanned properly (too small, watermarks...)"[^ref-9]
 
 ### Critical Perspective
 
-Creepy Corridors occupies an interesting position in Sierra's history—a reminder that the company known for notable graphic adventures began as a publisher of varied software, including straightforward arcade games. While King's Quest (1984) would define Sierra's future, games like Creepy Corridors demonstrate the company's willingness to experiment across genres during its formative years.
-
-The game's technical innovations, particularly the sampled speech on Apple II, foreshadowed Sierra's later emphasis on pushing audio-visual boundaries in their adventure games. Chuck Bueche's careful assembly language optimization and creative use of limited resources exemplified the craftsmanship required of early game developers working within severe hardware constraints.
-
-From a design perspective, Creepy Corridors reflects gaming's broader fascination with corridors as spaces of tension and limited visibility. As later analyzed by critics and developers, "The corridor is conducive to horror through its ability to heighten suspense and gesture to the unknown."[^ref-11] While Creepy Corridors is not a horror game per se, its maze design taps into similar psychological territory that would be more fully exploited by later titles.
+Creepy Corridors is a reminder that Sierra released straightforward arcade games before it became known for its graphic adventures. Katakis notes it came "years before they became popular with their King's Quest series."[^ref-5] Contemporary reviewers rated it the strongest game on the Laf Pak disk,[^ref-17][^ref-19] and Pix's Origin Adventures prefers the Apple II original to the VIC-20 port: "If you really want to play Creepy Corridors, avoid this version and stick with the original."[^ref-3]
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+- Not currently sold; GOG lists it as not available.[^ref-7]
 
 ## Downloads
 
@@ -212,6 +205,7 @@ From a design perspective, Creepy Corridors reflects gaming's broader fascinatio
 - Not currently available on modern digital storefronts
 
 **Download / Preservation**
+- [Internet Archive – Laf Pak (woz-a-day collection)](https://archive.org/details/wozaday_Laf_Pak)[^ref-22]
 - [Internet Archive – Apple II Compilation Disk](https://archive.org/details/a2_cple_Apple_Zap_Bcs_Quest_For_Tires_Creepy_Corridors_Laf_Pak_Mine_Sweep_Space_Rac)[^ref-13]
 - [My Abandonware – VIC-20 Version](https://www.myabandonware.com/game/creepy-corridors-74p)[^ref-12]
 
@@ -242,18 +236,21 @@ From a design perspective, Creepy Corridors reflects gaming's broader fascinatio
 
 ## References
 
-[^ref-1]: [MobyGames – Laf Pak](https://www.mobygames.com/game/26233/laf-pak/) – release date, compilation contents, platform, price
-[^ref-2]: Consolidated Research Notes – gameplay description, protagonist name, game mechanics
-[^ref-3]: [Pix's Origin Adventures – Creepy Corridors](https://www.pixsoriginadventures.co.uk/creepy-corridors/) – sampled speech claim, technical analysis, collision detection issues
-[^ref-4]: [MobyGames – Creepy Corridors](https://www.mobygames.com/game/55566/creepy-corridors/) – VIC-20 release, developer credits, user review, gameplay comparison
-[^ref-5]: [MobyGames – Creepy Corridors User Review](https://www.mobygames.com/game/55566/creepy-corridors/user-review/2421826/) – color scheme, dual objectives, restart function, reviewer quotes
-[^ref-6]: [Retro365 – Bits from My Personal Collection: Creepy Corridors](https://retro365.blog/2022/09/19/bits-from-my-personal-collection-creepy-corridors/) – sampled scream details, Mark Crowe artwork, sales data, IBM PCjr port
-[^ref-7]: [Sierra Help Wiki – Creepy Corridors](http://wiki.sierrahelp.com/index.php/Creepy_Corridors) – designer credits, engine information
-[^ref-8]: [Minesweeper Game Database – Mine Sweep](https://minesweepergame.com/database/games.php?id=117) – Chuck Bueche quote on assembly language, technical specifications, development period
-[^ref-9]: [The Sierra Chest – Creepy Corridors](https://sierrachest.com/index.php?a=games&id=531&title=creepy-corridors&fld=box) – platform list, media format, preservation status
-[^ref-11]: [Eurogamer – The Creepy Corridors of Video Games](https://www.eurogamer.net/the-creepy-corridors-of-video-games) – Roger Luckhurst quote, corridor design analysis
+[^ref-1]: [MobyGames – Laf Pak](https://www.mobygames.com/game/26233/laf-pak/) – compilation contents, publisher On-Line Systems, Bueche credit, cover artwork by Scott Ross, 3.3/5 from 3 ratings (lists release as June 1981)
+[^ref-3]: [Pix's Origin Adventures – Creepy Corridors](https://www.pixsoriginadventures.co.uk/creepy-corridors/) – 1982 Laf Pak release, sampled speech claim, white skulls, speed issues, VIC-20 character graphics and collision detection
+[^ref-4]: [MobyGames – Creepy Corridors](https://www.mobygames.com/game/55566/creepy-corridors/) – VIC-20 1983 cartridge, Sierra Smith, Wizard of Wor comparison, four diamonds/four lives, credits, 4.0 average from 2 ratings, Atari 8-bit/C64 advertised but unreleased
+[^ref-5]: [MobyGames – Creepy Corridors User Review](https://www.mobygames.com/game/55566/creepy-corridors/user-review/2421826/) – Katakis (August 7, 2013): Mr. Do! comparison, colour scheme, joystick controls, F1 restart, reviewer quotes
+[^ref-6]: [Retro365 – Bits from My Personal Collection: Creepy Corridors](https://retro365.blog/2022/09/19/bits-from-my-personal-collection-creepy-corridors/) – 1982 Laf Pak release, sampled scream, Mark Crowe VIC-20 artwork, sales, cut scream, Mine Shaft PCjr port, Chuckles
+[^ref-7]: [Sierra Help Wiki – Creepy Corridors](http://wiki.sierrahelp.com/index.php/Creepy_Corridors) – designer credits, engine information, GOG "Not available at this time"
+[^ref-8]: [Minesweeper Game Database – Mine Sweep](https://minesweepergame.com/database/games.php?id=117) – Chuck Bueche quote on assembly language, $34.95, 48K, controls, Summer 1981 to Spring 1982 development period
+[^ref-9]: [The Sierra Chest – Creepy Corridors](https://sierrachest.com/index.php?a=games&id=531&title=creepy-corridors&fld=box) – platform list (Atari 400/800, VIC-20), VIC-20 SierraVision packaging, preservation status
 [^ref-12]: [My Abandonware – Creepy Corridors](https://www.myabandonware.com/game/creepy-corridors-74p) – user ratings, file size, release information
 [^ref-13]: [Internet Archive – Apple II Compilation Disk](https://archive.org/details/a2_cple_Apple_Zap_Bcs_Quest_For_Tires_Creepy_Corridors_Laf_Pak_Mine_Sweep_Space_Rac) – disk specifications, cheat codes, preservation data
 [^ref-14]: [Games That Weren't – Creepy Corridors](https://www.gamesthatwerent.com/gtw64/creepy-corridors/) – missing C64 version, advertisement details, mockup screenshot
-[^ref-15]: [MobyGames – Creepy Corridors](https://www.mobygames.com/game/55566/) – game information and details
-[^ref-16]: [MobyGames – Creepy Corridors](https://www.mobygames.com/game/152715/hotel-remorse/) – mobyGames database entry for Hotel Remorse (not Creepy Corridors as mentioned in the request) - note: the game title ...
+[^ref-17]: [Softalk, Vol. 3 No. 1 (September 1982) – Chuckles' Laf Pak review (Internet Archive)](https://archive.org/details/softalkv3n01sep1982/page/140/mode/2up) – "First and best Creepy Corridors", ten levels, "worth the price of the disk", joystick or keyboard; short-list "a real bargain"
+[^ref-18]: [Creative Computing, February 1983 (Vol. 9 No. 2) – "Apple Arcade Games" by David H. Ahl](https://www.atarimagazines.com/creative/v9n2/88_Apple_arcade_games.php) – Laf Pak contents, Creepy Corridors gameplay (treasures in four corners, monsters enter from left, straight-line gun), verdict quote
+[^ref-19]: [Hardcore Computist, Issue 13 (Internet Archive)](https://archive.org/details/computist-scan-13/page/n9/mode/2up) – Ferrell Wheeler: Creepy Corridors "by far the most fun, especially with the hilarious sound effects"
+[^ref-20]: [Eli's Software Encyclopedia – Creepy Corridors (VIC-20, Cartridge) Sierra - 1983](https://elisoftware.org/wiki/Creepy_Corridors_(VIC-20,_Cartridge)_Sierra_-_1983_USA,_Canada_Release) – box copyright 1983, SierraVision label, developer Don McGlauflin, packaging text
+[^ref-21]: [Eli's Software Encyclopedia – Laf Pak (Apple II, 5¼" Disk) Sierra - 1982](https://elisoftware.org/wiki/Laf_Pak_(Apple_II,_5_1/4%22_Disk)_Sierra_-_1982_USA,_Canada_Release) – copyright 1982, developer Chuck Bueche, 48K, "The History of Chuckles" packaging text
+[^ref-22]: [Internet Archive – Laf Pak (woz-a-day collection)](https://archive.org/details/wozaday_Laf_Pak) – "a 1982 compilation of action games written by Chuck Bueche (Chuckles) and published by On-Line Systems"; 48K Apple II
+[^ref-23]: [Eli's Software Encyclopedia – Category:1982 Sierra](https://elisoftware.org/wiki/Category:1982_Sierra) – lists "Creepy Corridors (VIC-20, Cartridge) Sierra - 1982" and Laf Pak (Apple II) 1982
