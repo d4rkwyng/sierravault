@@ -2,72 +2,69 @@
 title: 'David Wolf: Secret Agent'
 release_year: 1989
 developer: Dynamix
-designer: [Damon Slye, Greg Scheid, Jeff Tunnell, Kevin Ryan]
+designer: [Kevin Ryan, Damon Slye]
 publisher: Dynamix
 genre: Action
-platforms: [DOS, IBM PC, DOS, Tandy]
+platforms: [DOS]
 series: David Wolf
 engine: 3Space
 protagonist: David Wolf
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: 'David Wolf: Secret Agent is an interactive spy adventure game developed
-  by Dynamix and released in 1989. Billed as an "interactive movie," the game was...'
+last_updated: '2026-10-12'
+description: 'David Wolf: Secret Agent is a 1989 DOS spy action game from Dynamix, billed as an "interactive movie": a James Bond-style story told in digitized still photographs of real actors, broken up by six polygon-graphics action sequences.'
 tags: [1980s, david-wolf, sierra]
 ---
 # David Wolf: Secret Agent
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-David Wolf: Secret Agent is an interactive spy adventure game developed by Dynamix and released in 1989[^ref-1][^ref-19][^ref-20]. Billed as an "interactive movie," the game was designed to have "the look and feel of a James Bond film"[^ref-2] and represented Dynamix's ambitious attempt to create an adult-oriented story with real actors and digitized footage[^ref-3]. The game combined digitized 3-D graphics with action sequences, featuring what Dynamix called a "VCR Interface" that allowed players more control over vital game playing elements[^ref-4].
+David Wolf: Secret Agent is a spy action game developed and published by Dynamix for DOS in December 1989[^ref-3][^ref-19][^ref-20]. Billed as an "interactive movie," the game was designed to have "the look and feel of a James Bond film"[^ref-2]. Dynamix's own designer notes describe the goal as "an adult oriented story that contained interesting characters with personalities," told with real actors photographed in an in-house image production studio[^ref-6]. Players use what Dynamix called a "VCR Interface" to fast-forward, rewind, skip scenes and adjust difficulty[^ref-2][^ref-4].
 
-This was a landmark project for Dynamix—their first self-published game[^ref-5]—and was described as "by far the biggest project Dynamix has ever developed" at the time of release[^ref-6]. The game represented everything Dynamix had learned over their first five years of development, combining digitized actors, rotoscoped animation, and polygon-filled 3D action sequences into what they hoped would be a new paradigm for interactive entertainment[^ref-6].
+Dynamix's designer notes describe it as one of the first titles the company released as an affiliated publisher, and as "by far the biggest project Dynamix has ever developed"[^ref-6]. In the United States it was distributed by Activision[^ref-2]. It was Dynamix's first game to use digitized actors and electronically rotoscoped animation[^ref-4], with its action sequences drawn in polygon-filled 3D graphics[^ref-2].
 
-Despite its technical ambitions and impressive marketing materials, David Wolf: Secret Agent could be completed within half an hour and featured only six areas where players could use keyboard or joystick controls[^ref-7]. This brevity, combined with the limited interactivity during story sequences, led to sharply divided critical reception that ranged from a 97% score to being named one of the worst games of all time.[^ref-4][^ref-6]
+The story is told almost entirely through still images and text, and there are only six places in the game where the player uses the keyboard or joystick[^ref-7][^ref-17]. Estimates of its length vary from about half an hour[^ref-5] to "an hour or so"[^ref-17] to a little over two hours[^ref-2]. Reception was divided: The Games Machine gave it 97%[^ref-4], while Computer Gaming World later named it one of the worst games of all time[^ref-6][^ref-22].
 
 > [!info]- Game Info
-> **Developer:** [[Dynamix]][^ref-1]
-> **Designer:** [[Damon Slye]], Greg Scheid, [[Jeff Tunnell]], [[Kevin Ryan]][^ref-4]
-> **Publisher:** Dynamix[^ref-1]
-> **Engine:** 3Space[^ref-1]
-> **Platforms:** DOS, IBM PC, MS-DOS, Tandy[^ref-1]
-> **Release Year:** 1989[^ref-1]
-> **Series:** David Wolf[^ref-4]
+> **Developer:** [[Dynamix]][^ref-3]
+> **Designer:** [[Kevin Ryan]], [[Damon Slye]][^ref-23]
+> **Publisher:** Dynamix (distributed by Activision)[^ref-2][^ref-3]
+> **Engine:** 3Space[^ref-4][^ref-23]
+> **Platforms:** DOS[^ref-3]
+> **Release Year:** 1989 (December)[^ref-3]
+> **Series:** David Wolf
 > **Protagonist:** David Wolf
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-The game follows David Wolf, a secret agent serving an intelligence agency named Peregrine[^ref-8]. The main antagonist is Bruno Vasto, described as "a madman" who "has stolen the experimental SF-2 stealth fighter and threatens to blow up Washington D.C.!"[^ref-1] The criminal organization Viper has stolen an SF-2a "Shadowcat" stealth fighter and kidnapped its chief designer, Dr. Kelly O'Neill, intending to deliver a nuclear bomb to the American capital[^ref-8].
+The game follows David Wolf, a secret agent serving an intelligence agency named Peregrine[^ref-8]. The main antagonist is Bruno Vasto, described as "a madman" who "has stolen the experimental SF-2 stealth fighter and threatens to blow up Washington D.C.!"[^ref-1] Vasto's criminal organization, Viper, has also kidnapped the fighter's chief designer, Dr. Kelly O'Neal[^ref-2][^ref-8]. (Some secondary sources spell her name "O'Neill"; the game's credits and contemporary reviews use "O'Neal"[^ref-2][^ref-23].)
 
-During his mission, David Wolf learns that the Stealth fighter is to be launched from Drax Island, west of Cyprus[^ref-9]. He must infiltrate the enemy installation, rescue the kidnapped scientist, and prevent nuclear catastrophe.[^ref-1] The game features typical spy thriller elements of the late 1980s, with the villain delivering megalomaniacal dialogue such as "Now, I can RULE THE WORLD!! HAHAHAHA!"[^ref-10]
+The story opens on the cliffs of Dover, where Wolf is testing an armed hang glider and is attacked by Viper agents[^ref-2]. The trail then leads to a Monte Carlo casino and a long car chase. Wolf learns that the stealth fighter is to be launched from Drax Island, west of Cyprus. After his plane is sabotaged, he steals a Viper agent's parachute in mid-air and lands on a truck heading to the Viper base. There he and O'Neal take the fighter and deliver it to the USS Nimitz[^ref-9].
 
-The game included touches of humor alongside its espionage drama. Players were advised with warnings like "Do NOT call the evil madman 'fatso'"[^ref-10], suggesting a self-aware approach to the genre's conventions.
+The script mixes spy drama with jokes. Computer Gaming World's reviewer noted it calls the villain "Mr. Fatso" as a half-pun on "Vasto". He felt it never decided whether it was a Bond parody or a straight thriller[^ref-21].
 
 ## Gameplay
 
 ### Interface and Controls
 
-David Wolf: Secret Agent supports both keyboard and mouse input, with joystick support for action sequences[^ref-3]. The game uses a first-person perspective for action segments combined with cinematic presentation for narrative sequences. The interface is designed to smoothly transition between passive film-like viewing and active gameplay, with the "VCR Interface" serving as the navigational framework[^ref-4].
+David Wolf: Secret Agent supports keyboard and mouse, with an analog joystick as an option[^ref-24]. The action segments use a first-person perspective[^ref-3]. The "VCR Interface" sets the difficulty of the action sequences, the text speed for the actors and the detail of the 3D engine, and lets players jump straight to any of the arcade scenes[^ref-4][^ref-7].
 
 ### Structure and Progression
 
-The game is structured as an interactive narrative with alternating cinematic sequences and action gameplay. Between the six playable action segments, players watch the story unfold through digitized footage showing David Wolf's mission progression from initial briefing through final confrontation[^ref-7]. The non-linear navigation system allows players to replay sequences and explore content at their own pace, similar to controlling a VCR—fast-forwarding, rewinding, and selecting chapters as desired[^ref-5].
+The game alternates story scenes with action sequences. The story scenes are told through digitized still photographs of the actors with text dialogue, not moving footage[^ref-5][^ref-17]. Players cannot choose the actors' dialogue or select the hero's actions[^ref-7][^ref-11]. Like a VCR, the interface can fast-forward or rewind through the story and jump to any scene[^ref-5]. A player who fails an action sequence can skip it and carry on with the story[^ref-17]. However, Collection Chamber notes that the best ending cannot be reached if this feature is used[^ref-5].
 
-### Puzzles and Mechanics
+### Action Sequences
 
-Rather than traditional puzzle-solving, the game features four distinct 3D action simulations that serve as interactive gameplay challenges[^ref-5]:
+MobyGames describes four 3D action simulations at the heart of the game[^ref-3]:
 
-1. **Hang Gliding** - Flying a hang glider while shooting down enemies[^ref-8]
-2. **Sports Car Driving** - Racing down a highway while dueling with enemy cars and helicopters[^ref-8]
-3. **Fighter Simulation** - Combat flying sequences[^ref-5]
-4. **Skydiving** - Including landing on an enemy parachutist or landing on top of a moving truck[^ref-8]
+1. **Hang Gliding** - Flying an armed hang glider against Viper's gliders[^ref-2][^ref-3]
+2. **Sports Car Driving** - Car chases against enemy cars and helicopters, using a machine gun, missiles and oil slicks[^ref-11][^ref-21]
+3. **Fighter Simulation** - The closing stealth-fighter dogfight[^ref-2][^ref-5]
+4. **Skydiving** - Catching a freefalling Viper agent's parachute, then landing on a moving truck[^ref-21]
 
-These action sequences allowed players to attempt various feats for David Wolf[^ref-8], representing the interactive highlights of the otherwise passive viewing experience. The polygon-filled graphics for these 3D segments used wireframe 3D programming by Damon Slye[^ref-5]. Despite the "interactive movie" billing, actual interactivity was quite limited—"players cannot select or influence the actors' dialogue, nor select actions for the hero to try to complete"[^ref-7].
-
-Between action sequences, the game presents digitized cinematic cutscenes with bitmap and 3D animation[^ref-5]. The game used the Dynamix Game Development System to create these sequences, combining live-action footage with computer graphics in ways that were groundbreaking for 1989.[^ref-3] Dynamix developers explicitly rejected the common practice of adding frustrating elements to extend playtime, stating: "We have talked to game developers that purposefully design in frustrating points to make game play last longer, so the players feel they get more for their money. This is diametrically opposed to the direction we are taking with our products"[^ref-3]. This player-first approach would influence their later game design philosophy.
+Counting the two car chases and the two parts of the skydiving scene separately, these make up the game's six action sequences[^ref-2][^ref-21]. Computer Gaming World judged the parachute sequences the best and the car chases the least original[^ref-21]. Damon Slye is credited with the flight model[^ref-23].
 
 ## Reception
 
@@ -75,117 +72,95 @@ Between action sequences, the game presents digitized cinematic cutscenes with b
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| The Games Machine (UK) | 97% | February 1990[^ref-4] |
-| Dragon | 3/5 stars | Reviewed by Hartley, Patricia, and Kirk Lesser, February 1990[^ref-11] |
-| Computer Gaming World | Negative | "The game had too few action sequences, and the initially witty dialogue became inane and unintentionally funny"[^ref-11] |
+| Computer Gaming World #66 (Dec 1989) | Mixed (no score) | Charles Ardai: "visually stunning and executed with flair," but "games that you won't want to play or watch twice"[^ref-21] |
+| The Games Machine #27 (UK, Feb 1990) | 97%[^ref-4] | Paul Rigby: "The graphics are absolutely astounding"[^ref-25] |
+| Compute! #117 (Feb 1990) | Mixed (no score) | Richard Sheffield: "a hint of things to come," too short for the $49.95 price[^ref-2] |
+| Dragon #154 (Feb 1990) | 3/5 stars[^ref-9] | Hartley, Patricia and Kirk Lesser: "Amazing graphics and animation cannot save this newest release from Dynamix from receiving a mediocre rating"[^ref-11] |
 
-The stark contrast between The Games Machine's 97% score and Computer Gaming World's dismissive review illustrated the polarizing nature of the game.[^ref-4] British reviewers, perhaps more accustomed to the "interactive movie" experiments common in UK gaming, responded more favorably than American critics who expected more traditional gameplay.[^ref-11]
+Computer Gaming World's Charles Ardai compared the game's structure to Ms. Pac-Man. The arcade sequences carry the play, and the story scenes act as rewards between them[^ref-21][^ref-17]. He praised the opening scene, saying it "crackles with wittier dialogue than we've seen in the last three Bond films." He found the later acting and the uncertain tone weaker[^ref-21]. He concluded that "What Dynamix has done with David Wolf, Secret Agent has probably taken the genre about as far as it can go." The genre's problem, in his view, was that it makes "games that you won't want to play or watch twice"[^ref-21].
 
-Computer Gaming World was particularly critical, stating that "the game would not be worth playing more than once"[^ref-9]. Their assessment focused on the brevity of the experience and the limited replay value once players had seen all the cutscenes.
+The Games Machine's Paul Rigby was enthusiastic. He noted the 16 actors photographed on real sets and the 400 digitised screens, and he preferred the game to Cinemaware's more cartoon-like products[^ref-25]. Compute!'s Richard Sheffield praised the VCR-style interface. However, he found the game too passive and too short: he finished it in just over two hours, including replays of some sequences[^ref-2].
 
 ### The "Worst Games" Legacy
 
-In a notorious retrospective, Computer Gaming World ranked David Wolf: Secret Agent as the "40th Worst Game of All Time" in November 1996[^ref-6]. Adding insult to injury, the publication also gave it the "#8 Worst Back Story of All Time" award in the same issue[^ref-6]. This harsh reassessment cemented the game's reputation as a noble failure rather than an innovative success.
+In its 15th anniversary issue (November 1996), Computer Gaming World ranked David Wolf: Secret Agent #40 in its list of the worst games of all time. The magazine wrote that "Gamers were only able to affect the plot about as much as they could at a movie theater." The same issue gave it #8 among the worst back stories of all time: "We immediately wanted to just say Dr. No to this James Bond wannabe"[^ref-6][^ref-22].
 
 ### Modern Assessment
 
-Modern reviews have been mixed, reflecting both nostalgia and critical reassessment:
-
-| Publication | Score | Notes |
+| Source | Score | Notes |
 |-------------|-------|-------|
-| MobyGames | 75% | User rating[^ref-3] |
-| MyAbandonware | 4.56/5 | HOTUD rating[^ref-12] |
-| Glitchwave | 2.50/5.0 | Modern assessment[^ref-13] |
-| PixelatedArcade | C- | Grade assessment[^ref-14] |
-| OldGames.sk | 45% | User rating[^ref-15] |
+| MobyGames | 75% | Critic average of 5 reviews[^ref-3] |
+| MyAbandonware | 4.59/5 | User rating, 17 votes[^ref-12] |
+| Glitchwave | 2.50/5.0 | Weighted user rating[^ref-13] |
+| PixelatedArcade | C- | Site's own rating[^ref-14] |
+| OldGames.sk | 45% | Site's own rating[^ref-15] |
 
-Some modern players appreciate the game's historical significance as an early experiment in interactive narrative. One reviewer praised the "Great OPL3-ish soundtrack, it really fits in the game!"[^ref-16]. However, The Digital Antiquarian was less charitable, noting it was "too generous" to accept Dynamix's description of it as an interactive movie[^ref-17].
+The Digital Antiquarian's Jimmy Maher was unimpressed. He wrote that "To accept Dynamix's own description of David Wolf as an interactive movie is to be quite generous indeed." He described it as a non-interactive story of still images with dialog, broken up by a handful of vehicular action sequences[^ref-17]. Collection Chamber called the "Interactive Movie" label "a bit of a misnomer" but rated the car chase "by far the most playable" sequence[^ref-5].
 
 ## Development
 
 ### Origins
 
-David Wolf: Secret Agent was the first self-published game by Dynamix[^ref-5], representing their exploration of interactive narrative techniques during the late 1980s[^ref-3]. The development team wanted to create "an interactive James Bond movie"[^ref-17], fulfilling what they described as a long-held design fantasy[^ref-3].
-
-The project represented Dynamix's ambition to push beyond traditional game boundaries.[^ref-6] By combining multiple technologies—digitized video, 3D polygon graphics, rotoscoped animation—they hoped to create an experience that felt more like watching and participating in a movie than playing a conventional video game.[^ref-5]
+According to the manual's designer notes, Dynamix traced its roots to an early, complex interactive-movie script that its publisher considered too ambitious. The publisher steered the team toward Arcticfox instead. "Five years and over 30 projects later," the notes say, Dynamix could "finally" fulfil that fantasy with David Wolf[^ref-6]. Jimmy Maher describes the game as intended to be "an interactive James Bond movie"[^ref-17]. Jeff Tunnell had already conceived Rise of the Dragon. It was shelved as too ambitious for the Dynamix of 1988, and the team moved on to David Wolf[^ref-4][^ref-17].
 
 ### Production
 
-The development team brought together several key Dynamix talents:
+To shoot the story scenes, Dynamix built an image production studio. It had photography and lighting facilities, colour scanning and image processing, a photo development lab, and make-up, costuming and casting[^ref-6]. Sher Alltucker handled costumes, make-up and casting[^ref-23].
 
-**Voice Cast:**[^ref-4]
-- Greg Scheid as David Wolf[^ref-4]
-- Angela Clement as Kelly O'Neal[^ref-4]
-- J.J. as Bruno Vasto[^ref-4]
-- Duayne White as Garth Stock[^ref-3]
-- Kevin Dahlstrom as Tom Boor[^ref-3]
+**Cast** (digitized photographs; the game has no voice acting)[^ref-23]
+- Greg Scheid as David Wolf
+- Angela Clement as Kelly O'Neal
+- J.J. as Bruno Vasto
+- Duayne White as Garth Stock
+- Kevin Dahlstrom as Tom Boor
 
-**Design Team:**[^ref-4]
-- Damon Slye (wireframe 3D programming)[^ref-5]
-- Greg Scheid[^ref-4]
-- Jeff Tunnell[^ref-4]
-- Kevin Ryan[^ref-4]
+Several Dynamix staff also appear, including Damon Slye, Kevin Ryan and Jeff Tunnell[^ref-23].
 
-The game utilized the Dynamix VCR interface engine[^ref-1], which allowed the seamless integration of video sequences with interactive gameplay segments.
-
-### Technical Achievements
-
-David Wolf: Secret Agent showcased several technically ambitious choices for a 1989 cinematic action-adventure. The game shipped **five separate graphics-mode renderers — CGA (4 colors), Tandy (16 colors), EGA (16 colors), MCGA (256 colors), and VGA (256 colors)** — from a single retail SKU, spanning essentially the entire IBM-PC display landscape of the era, a substantial engineering investment for a budget-priced action title[^ref-3]. Audio support included **Roland MT-32 enhanced scoring**, putting David Wolf in a small minority of late-1980s PC games that targeted the high-end audio market alongside Sierra adventure titles[^ref-3]. The "Smart Sun" automatic-configuration system was an unusual accessibility-engineering choice for 1989 — it abstracted away the era's painful manual sound-card and graphics-mode selection process, paralleling features Sierra would later popularize in its King's Quest V installer[^ref-3]. The developers' explicit rejection of "purposefully designed frustrating points" — a design philosophy stated in the game's documentation — also represented an unusually consumer-focused engineering posture that anticipated Dynamix's later simulator-design principles (Red Baron, A-10 Tank Killer, Aces of the Pacific)[^ref-3][^ref-4][^ref-18].
+**Key credits**[^ref-23]
+- Design: Kevin Ryan, Damon Slye
+- Producer: Damon Slye; Executive Producer: Jeffrey Tunnell
+- Programming: Kevin Ryan; Flight Model: Damon Slye; 3Space: David McClurg
+- Screenplay: Kevin Ryan, Jerry Luttrell, Mike Sussman
+- Art Director: John Burton
+- Musical Score: Alan McKean; Sound Effects and Music Editing: Bryce Morsello
 
 ### Technical Specifications
 
-The game supported multiple graphics modes to accommodate the varied hardware of the era:[^ref-3]
+| Specification | Details |
+|---------------|---------|
+| Engine | 3Space[^ref-4][^ref-23] |
+| Graphics Modes | CGA, EGA, Tandy/PCjr[^ref-24] |
+| Sound | AdLib, PC Speaker, Roland MT-32 (and LAPC-I), Tandy/PCjr[^ref-24] |
+| Input | Keyboard, Mouse, Analog Joystick[^ref-24] |
+| Media | 3.5" and 5.25" floppy disks[^ref-24] |
+| Minimum System | 8088/8086, PC/MS-DOS 2.1, 640 KB RAM[^ref-24] |
+| Interactive Segments | 6[^ref-2][^ref-7] |
+| Price | $49.95[^ref-2] |
 
-- CGA (4 colors)[^ref-3]
-- Tandy (16 colors)[^ref-3]
-- EGA (16 colors) - Primary display mode[^ref-3]
-- MCGA (256 colors)[^ref-3]
-- VGA (256 colors)[^ref-3]
-
-The game featured Roland MT-32 sound support for enhanced audio experience and was distributed on multiple 5.25" floppy disks[^ref-3]. The Smart Sun system provided automatic game configuration to help players with varying technical expertise set up the game correctly.[^ref-3]
+The game's SmartStart system configured the game for the player's hardware automatically[^ref-2][^ref-23]. The installer shows VGA and MCGA options, but they are placeholders that cannot be selected. The executable also contains unused hooks for VGA graphics[^ref-6]. Dynamix advertised "256 Color VGA and Commodore Amiga Versions coming in 1990"[^ref-21]. According to the Dynamix Fandom wiki, the planned VGA version was cancelled because of poor sales[^ref-4]. Dynamix designer Kevin Ryan later recalled that David Wolf "was a 16-color EGA game"[^ref-18].
 
 ### Design Philosophy
 
-The developers explicitly rejected the common practice of adding frustrating elements to extend playtime.[^ref-3] Their statement about opposing "purposefully designed frustrating points" represented an unusual consumer-focused approach for the era and would influence Dynamix's later work, including their more successful simulator titles.[^ref-4]
+The designer notes in the manual reject deliberately frustrating design: "We have talked to game developers that purposefully design in frustrating points to make game play last longer, so the players feel they get more for their money. This is diametrically opposed to the direction we are taking with our products"[^ref-6]. The VCR Interface was Dynamix's answer, letting players jump to any part of the game[^ref-6].
 
 ## Legacy
 
 ### Historical Significance
 
-David Wolf: Secret Agent represents an important early experiment in interactive narrative and full-motion video gaming.[^ref-17] While the execution fell short of the ambitious vision, the game explored territory that would become increasingly important as CD-ROM technology enabled higher-quality video integration in the 1990s.[^ref-5]
-
-The game's "VCR Interface" concept anticipated the accessibility features that would become standard in later interactive entertainment, including chapter selection, replay options, and adjustable difficulty settings.[^ref-4]
+Jimmy Maher calls the game "an interesting piece of gaming history." He argues that its use of digitized actors, though only in still images, presaged the full-motion-video craze of the 1990s[^ref-17].
 
 ### Influence on Dynamix
 
-The lessons learned from David Wolf's mixed reception influenced Dynamix's subsequent projects.[^ref-17] Rather than pursuing further "interactive movie" experiments immediately, they focused on refining their simulator technology.[^ref-5] This pivot led to more successful titles like Red Baron (1990), A-10 Tank Killer (1989), and the Aces series, which used similar 3D technology for flight combat rather than narrative purposes.[^ref-17]
+After Sierra acquired Dynamix, Rise of the Dragon followed. Maher writes that Dynamix tackled it with "much of the technical foundation for a real adventure game already laid down by David Wolf"[^ref-17]. Heart of China then went back to photographs of real people. Kevin Ryan recalled: "We had first tried this technique in David Wolf: Secret Agent"[^ref-18]. Maher judges that Heart of China integrates real people with computer graphics "much better than it does in David Wolf"[^ref-17].
 
-### Soundtrack Recognition
+### Packaging
 
-The game's soundtrack has gained appreciation among retro gaming enthusiasts. James Paddock created an "HD Soundtrack" remaster, demonstrating continued interest in preserving the game's audio legacy[^ref-16]. The original music was composed by Alan McKean and featured compositions that effectively evoked the spy thriller atmosphere Dynamix sought.[^ref-3]
-
-### Physical Media Collectibility
-
-As a boxed DOS game from the late 1980s with distinctive packaging and multiple floppy disks, David Wolf: Secret Agent has become a collector's item for retro gaming enthusiasts interested in early interactive movie experiments.[^ref-6]
-
-## Technical Specifications
-
-| Specification | Details |
-|---------------|---------|
-| Engine | Dynamix VCR interface, 3Space[^ref-1] |
-| Graphics Modes | CGA, Tandy, EGA (primary), MCGA, VGA[^ref-3] |
-| Sound | Roland MT-32 support[^ref-3] |
-| Input | Keyboard, Mouse, Joystick[^ref-3] |
-| Media | Multiple 5.25" floppy disks[^ref-3] |
-| Completion Time | Approximately 30 minutes[^ref-7] |
-| Interactive Segments | 6 areas[^ref-7] |
-| Action Simulations | 4 (Hang Gliding, Driving, Flight, Skydiving)[^ref-5] |
+The program disks came sealed in a manila envelope. It carried the Peregrine logo and the words "TOP SECRET" in red stencil. The box also included an order form for David Wolf sweatshirts, T-shirts and a Dynamix coffee mug[^ref-6].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
-- Available on Steam as part of retro collections
+- Not currently sold on GOG or Steam.
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/msdos_David_Wolf_-_Secret_Agent_1989)
@@ -194,8 +169,8 @@ As a boxed DOS game from the late 1980s with distinctive packaging and multiple 
 
 ## See Also
 
-- [[1990 - Rise of the Dragon]] - Similar Dynamix action-adventure
-- [[1991 - Heart of China]] - Another Dynamix cinematic adventure
+- [[1990 - Rise of the Dragon]] - Dynamix adventure built on David Wolf's technical groundwork
+- [[1991 - Heart of China]] - Dynamix adventure that returned to photographed actors
 - [[1984 - Sword of Kadash]]
 - [[1989 - Abrams Battle Tank]]
 - [[1989 - MechWarrior]]
@@ -210,23 +185,26 @@ As a boxed DOS game from the late 1980s with distinctive packaging and multiple 
 
 ## References
 
-[^ref-1]: [Internet Archive](https://archive.org/details/msdos_David_Wolf_-_Secret_Agent_1989) – Game metadata and release information
-[^ref-2]: [Atari Magazines](https://www.atarimagazines.com/compute/issue117/pp106_reviews1_DAVID_WOLF_SECRET_AGENT.php) – Contemporary review describing game concept
-[^ref-3]: [MobyGames](https://www.mobygames.com/game/1610/david-wolf-secret-agent/) – Development background information and technical specifications
-[^ref-4]: [Dynamix Fandom](https://dynamix.fandom.com/wiki/David_Wolf:_Secret_Agent) – VCR Interface description and review scores
-[^ref-5]: [Collection Chamber Blog](https://collectionchamber.blogspot.com/2017/05/david-wolf-secret-agent.html) – Technical development details
-[^ref-6]: [MobyGames Trivia](https://www.mobygames.com/game/1610/david-wolf-secret-agent/trivia/) – Development scope quote and "Worst Games" listing
-[^ref-7]: [ClassicReload](https://classicreload.com/david-wolf-secret-agent.html) – Gameplay limitations and completion time
-[^ref-8]: [OldGames.sk](https://www.oldgames.sk/en/game/david-wolf-secret-agent/download/9457/) – Character and agency details
-[^ref-9]: [Wikipedia](https://en.wikipedia.org/wiki/David_Wolf:_Secret_Agent) – Story progression details and CGW criticism
-[^ref-10]: [MobyGames Screenshots](https://www.mobygames.com/game/1610/david-wolf-secret-agent/screenshots/) – Villain dialogue examples
-[^ref-11]: [Wikipedia](https://en.wikipedia.org/wiki/David_Wolf%3A_Secret_Agent) – Dragon magazine review and CGW quote
-[^ref-12]: [MyAbandonware](https://www.myabandonware.com/game/david-wolf-secret-agent-mp) – HOTUD rating
-[^ref-13]: [Glitchwave](https://glitchwave.com/game/david-wolf-secret-agent/) – Modern rating
-[^ref-14]: [PixelatedArcade](https://pixelatedarcade.com/games/david-wolf-secret-agent) – Grade assessment
-[^ref-15]: [OldGames.sk](https://www.oldgames.sk/en/game/david-wolf-secret-agent/) – User rating
-[^ref-16]: [James Paddock Bandcamp](https://jamespaddock.bandcamp.com/album/secret-agent-hd-soundtrack) – Soundtrack appreciation and HD remaster
-[^ref-17]: [The Digital Antiquarian](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) – Critical modern assessment
-[^ref-18]: [Adventure Classic Gaming – Dynamix retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) – context for Dynamix's late-1980s cinematic-action-game development including David Wolf
-[^ref-19]: [IGDB – David Wolf: Secret Agent](https://www.igdb.com/games/david-wolf-secret-agent) – Internet Games Database entry, platform listing, release-year confirmation
-[^ref-20]: LaunchBox Games Database – David Wolf: Secret Agent *(link removed: it led to a different game's page)* – community-curated metadata, cover-art reference, platform confirmation
+[^ref-1]: [Internet Archive](https://archive.org/details/msdos_David_Wolf_-_Secret_Agent_1989) – Game metadata and official description (Bruno Vasto, SF-2 stealth fighter)
+[^ref-2]: [COMPUTE! #117 (Feb 1990), Richard Sheffield review – Atari Magazines](https://www.atarimagazines.com/compute/issue117/pp106_reviews1_DAVID_WOLF_SECRET_AGENT.php) – James Bond comparison, six simulation sequences, VCR-style interface, automatic setup, length, $49.95 price, Activision distribution
+[^ref-3]: [MobyGames](https://www.mobygames.com/game/1610/david-wolf-secret-agent/) – Release date (Dec 1989, DOS), official description, critic average
+[^ref-4]: [Dynamix Fandom](https://dynamix.fandom.com/wiki/David_Wolf:_Secret_Agent) – VCR Interface, 3Space engine, digitized actors, cancelled VGA version, The Games Machine 97% score
+[^ref-5]: [Collection Chamber Blog](https://collectionchamber.blogspot.com/2017/05/david-wolf-secret-agent.html) – Modern review: still-photo cut-scenes, half-hour completion, VCR fast-forward/rewind
+[^ref-6]: [MobyGames Trivia](https://www.mobygames.com/game/1610/david-wolf-secret-agent/trivia/) – Manual designer notes, VGA/MCGA placeholders, packaging, CGW Worst Games awards
+[^ref-7]: [ClassicReload](https://classicreload.com/david-wolf-secret-agent.html) – Six interactive areas, no control over dialogue
+[^ref-8]: [OldGames.sk](https://www.oldgames.sk/en/game/david-wolf-secret-agent/download/9457/) – Peregrine agency, Viper, kidnapped designer
+[^ref-9]: [Wikipedia](https://en.wikipedia.org/wiki/David_Wolf:_Secret_Agent) – Plot (Monte Carlo, Drax Island, USS Nimitz), Dragon 3/5 rating
+[^ref-11]: [Dragon #154 (Feb 1990), "The Role of Computers" – Internet Archive](https://archive.org/details/DragonMagazine260_201801/DragonMagazine154/) – Lessers' review: mediocre rating, six player-controlled areas, action-scene weapons
+[^ref-12]: [MyAbandonware](https://www.myabandonware.com/game/david-wolf-secret-agent-mp) – User rating (4.59/5, 17 votes)
+[^ref-13]: [Glitchwave](https://glitchwave.com/game/david-wolf-secret-agent/) – User rating
+[^ref-14]: [PixelatedArcade](https://pixelatedarcade.com/games/david-wolf-secret-agent) – Site rating (C-)
+[^ref-15]: [OldGames.sk](https://www.oldgames.sk/en/game/david-wolf-secret-agent/) – Site rating (45%)
+[^ref-17]: [The Digital Antiquarian](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) – Jimmy Maher's critical history of Dynamix's narrative games
+[^ref-18]: [Adventure Classic Gaming – "A short personal history of Dynamix's adventure games" by Kevin Ryan](https://www.adventureclassicgaming.com/index.php/site/features/268/) – 16-color EGA game; photographed-actor technique first tried in David Wolf
+[^ref-19]: [IGDB – David Wolf: Secret Agent](https://www.igdb.com/games/david-wolf-secret-agent) – Internet Games Database entry, release date (12/1/1989), platform (DOS)
+[^ref-20]: [LaunchBox Games Database – David Wolf: Secret Agent](https://gamesdb.launchbox-app.com/games/details/86022-david-wolf-secret-agent) – Community-curated metadata, release year 1989, platform MS-DOS
+[^ref-21]: [Computer Gaming World #66 (Dec 1989) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_66) – Charles Ardai, "Popcorn Not Included!" review (pp. 36, 55, 85); Dynamix advertisement promising VGA/Amiga versions
+[^ref-22]: [Computer Gaming World #148 (Nov 1996) – Internet Archive](https://archive.org/details/computer-gaming-world-i148) – 50 Worst Games of All Time (#40) and Worst Back Story (#8)
+[^ref-23]: [MobyGames Credits (DOS)](https://www.mobygames.com/game/1610/david-wolf-secret-agent/credits/dos/) – Design, production, cast and technology credits
+[^ref-24]: [MobyGames Specs](https://www.mobygames.com/game/1610/david-wolf-secret-agent/specs/) – Video modes, sound devices, input, media, minimum requirements
+[^ref-25]: [The Games Machine #27 (Feb 1990) – Internet Archive](https://archive.org/details/the-games-machine-27) – Paul Rigby review (pp. 30–31): 16 actors, 400 digitised screens, Cinemaware comparison
