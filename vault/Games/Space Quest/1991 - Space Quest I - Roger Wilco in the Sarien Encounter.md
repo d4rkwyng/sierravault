@@ -170,11 +170,6 @@ This game has been included in the following collections:
 - [Steam – Space Quest Collection](https://store.steampowered.com/app/10110)[^ref-9]
 - [GOG – Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3)[^ref-7] – includes the VGA remake alongside the EGA original (added February 2026)
 
-**Download / Preservation**
-
-- [Internet Archive – Space Quest I VGA](https://archive.org/details/msdos_Space_Quest_I_-_The_Sarien_Encounter_VGA_1991)[^ref-10]
-- [My Abandonware – Space Quest I VGA](https://www.myabandonware.com/game/space-quest-i-roger-wilco-in-the-sarien-encounter-2m4)[^ref-2]
-
 **Manuals & Extras**
 
 - [Space Quest I VGA Manual](https://wiw.org/~jess/publications/sq1vgamanual.pdf) (PDF)[^ref-18]
@@ -219,7 +214,7 @@ This game has been included in the following collections:
 
 ## References
 [^ref-1]: [Wikipedia – Space Quest I](https://en.wikipedia.org/wiki/Space_Quest_I) – encyclopedia article
-[^ref-2]: [My Abandonware – Space Quest I VGA](https://www.myabandonware.com/game/space-quest-i-roger-wilco-in-the-sarien-encounter-2m4) – platforms, availability, user reviews
+[^ref-2]: My Abandonware – Space Quest I VGA (download link removed: game still sold) – platforms, availability, user reviews
 [^ref-3]: [SpaceQuest.net – Space Quest 1](https://spacequest.net/sq1/) – manual backstory (Earnon galaxy, Xenon, Arcada)
 [^ref-4]: [MobyGames – Space Quest I VGA](https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/) – developer, publisher, platforms, credits, ratings
 [^ref-5]: [Sierra Fandom Wiki – Space Quest I VGA](https://sierra.fandom.com/wiki/Space_Quest_I%3A_Roger_Wilco_in_the_Sarien_Encounter_%28SCI%29) – SCI engine details, versions
@@ -227,7 +222,7 @@ This game has been included in the following collections:
 [^ref-7]: [GOG – Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) – purchase, user reviews
 [^ref-8]: [HowLongToBeat – Space Quest I](https://howlongtobeat.com/game/8863) – completion times
 [^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
-[^ref-10]: [Internet Archive – Space Quest I VGA](https://archive.org/details/msdos_Space_Quest_I_-_The_Sarien_Encounter_VGA_1991) – preservation, historical versions
+[^ref-10]: Internet Archive – Space Quest I VGA (download link removed: game still sold) – preservation, historical versions
 [^ref-11]: [PCGamingWiki – Space Quest I VGA](https://www.pcgamingwiki.com/wiki/Space_Quest_I%3A_Roger_Wilco_in_The_Sarien_Encounter) – technical specs, fixes
 [^ref-12]: [SCI Wiki – Space Quest I SCI](https://sciwiki.sierrahelp.com/index.php/Space_Quest_I:_The_Sarien_Encounter_SCI) – SCI engine details, versions
 [^ref-14]: [Dynamix Fandom Wiki – Mark Crowe](https://dynamix.fandom.com/wiki/Mark_Crowe) – designer biography
@@ -235,7 +230,7 @@ This game has been included in the following collections:
 [^ref-16]: [Virtual Broomcloset – Scott Murphy Interview](https://www.wiw.org/~jess/scott.html) – VGA remake art direction, Korea outsourcing
 [^ref-17]: [Space Quest FAQ](https://wiw.org/~jess/sqfaq.html) – King Graham cameo, ZZ Top legal issue
 [^ref-18]: [Virtual Broomcloset – Publications Archive](https://wiw.org/~jess/publications.html) – manuals, hint books
-[^ref-19]: [SpaceQuest.net – SQ1 Point Lists](https://www.spacequest.net/sq1/pointlists/) – EGA vs VGA point comparison, max scores
+[^ref-19]: [SpaceQuest.net – SQ1 Point Lists](https://spacequest.net/sq1/pointlists/) – EGA vs VGA point comparison, max scores
 [^ref-20]: [Sierra Help – Space Quest 1 SCI](https://sierrahelp.com/Games/SpaceQuest/SQ1SCIHelp.html) – system requirements, speed bugs, patches, ZZ Top sprite fix
 [^ref-21]: [ScummVM Wiki – Space Quest](https://wiki.scummvm.org/index.php?title=Space_Quest) – ScummVM 1.2.0 support, SCI engine, 320x200 resolution, 256 colors, Amiga extended palette
 [^ref-22]: [SpaceQuest.net – SQ1 Easter Eggs](https://spacequest.net/sq1/eastereggs/) – Latex Babe easter egg
