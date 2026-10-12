@@ -5,36 +5,36 @@ developer: Bright Star Technology
 designer: [Mark Swardstrom]
 publisher: Sierra On-Line
 genre: Educational
-platforms: [IBM PC, Mac, Windows 3.x]
+platforms: [Windows 3.x, Mac]
 series: Talking Tutor
-engine: Bright Star Engine
+engine: Unknown
 protagonist: Spooky the Ghost
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-12'
 composer: [Gordon van Ekström]
-description: Kid's Typing is an educational typing game released in 1993 by Sierra
-  On-Line, developed by Bright Star Technology as part of the Talking Tutor series
-  of...
+description: Kid's Typing is a 1993 touch-typing tutor for children, developed by
+  Bright Star Technology and published by Sierra On-Line in the Talking Tutor series,
+  in which a ghost named Spooky coaches players while haunting a suburban family home.
 tags: [1990s, educational, sierra, talking-tutor]
 ---
 # Kid's Typing
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Kid's Typing is an educational typing game released in 1993 by [[Sierra On-Line]], developed by [[Bright Star Technology]] as part of the Talking Tutor series of educational software.[^ref-1] The game introduced young learners to touch typing through the guidance of Spooky, a talkative ghost who lives in the attic of an all-American home and uses humor and games to teach children proper keyboard technique.[^ref-2] The software was designed to make the often tedious process of learning to type engaging and entertaining for children.
+Kid's Typing is an educational typing game released in 1993 by [[Sierra On-Line]], developed by [[Bright Star Technology]] as part of the Talking Tutor series of educational software.[^ref-1][^ref-9] It shipped as a single hybrid Macintosh / Windows 3.x CD-ROM.[^ref-25] The game teaches touch typing through Spooky, "a talkative ghost who lives in the attic of an all-American home," who "uses humor and games to teach kids how to type."[^ref-2] Sierra's own documentation describes it as designed for children between the ages of seven and ten.[^ref-21]
 
-The game stood out in the educational software market of the early 1990s by incorporating a playful character-driven approach to typing instruction.[^ref-3] Rather than simply presenting dry drills, Kid's Typing created an interactive environment where players could explore different rooms of a haunted house while practicing their keyboarding skills.[^ref-4] Built-in intelligence enabled the software to continuously create new lessons based on the child's typing accuracy and speed, providing a personalized learning experience.[^ref-5]
+Rather than presenting drills alone, Kid's Typing sets its practice in a house where Spooky tries to scare an oblivious family, and the faster the player types, the more haunted the house becomes.[^ref-9] Its lessons are generated from the player's performance: "Built-in intelligence enables him to continuously create new lessons based on your child's typing accuracy and speed."[^ref-2] Sierra re-released the game in 1996 as part of its SierraOriginals line.[^ref-25]
 
-Kid's Typing proved memorable enough that decades later, users recalled specific details about the game, with one Reddit user noting the distinctive way Spooky pronounced "semicolon" remained with them long after playing.[^ref-6] The game has been preserved through various abandonware archives and continues to be discussed in nostalgic retrospectives about educational software from the era.[^ref-7]
+A 2023 post on Reddit's r/nostalgia recalled the game, its author remembering "the way the ghost said 'Semicolon'."[^ref-6] Copies of the hybrid CD-ROM are preserved on software archive sites.[^ref-5][^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Bright Star Technology]][^ref-1]
 > **Designer:** Mark Swardstrom[^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** Unknown
-> **Platforms:** IBM PC, Macintosh, Windows 3.x[^ref-1]
+> **Engine:** Unknown[^ref-9]
+> **Platforms:** Windows 3.x, Macintosh (hybrid CD-ROM)[^ref-25]
 > **Release Year:** 1993
 > **Series:** Talking Tutor
 > **Protagonist:** Spooky the Ghost
@@ -42,149 +42,139 @@ Kid's Typing proved memorable enough that decades later, users recalled specific
 
 ## Story Summary
 
-The game's narrative centers on Spooky, a friendly ghost who resides in the attic of a typical suburban American home.[^ref-2] Despite being a ghost, Spooky finds himself in an amusing predicament—he tries with all his energetic might to scare the family living in the house, but they simply don't notice his presence.[^ref-9] This comedic setup provides the framework for the typing lessons, as players help Spooky become a more effective haunter by improving their typing skills.
+Spooky is a little ghost who lives in the attic of "a seemingly normal suburban family home." He "tries with all his energetic might to scare the family, but they don't seem to notice."[^ref-9] He also acts as the player's personal typing coach.[^ref-9]
 
-The setting expands as players progress through the game. Players begin their journey in Spooky's attic realm and gradually gain access to additional rooms in the house as they develop their typing abilities.[^ref-1] During the course of the game, players meet additional family members and discover more areas of the residence, providing variety and incentive to continue practicing.[^ref-1]
-
-A central gameplay conceit ties typing proficiency to the supernatural atmosphere: "The faster you can type, the scarier it becomes."[^ref-9] This mechanic transforms the abstract goal of increasing words-per-minute into a tangible in-game reward, as improved typing speed directly enhances Spooky's ability to create haunting effects throughout the house.
+While learning to type, the player meets the family: Tammy, usually on the phone; Timmy, sitting on the dining room table; Dad, always watching TV; Mom, arranging flowers in the kitchen; and Woody the cat, who stays in the closet and peers out at the world.[^ref-9] In every game room Spooky tries to scare the family "by turning on the blender, lifting the TV into thin air, and doing other unnatural things." As Sierra Chest's summary puts it, "The faster you can type, the scarier it becomes."[^ref-9]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Kid's Typing employs a straightforward keyboard-focused interface appropriate for its educational purpose. Spooky serves as the on-screen guide, teaching players proper key positions and finger placement for touch typing.[^ref-5] The game utilizes voice instruction to guide learners through exercises, with Spooky providing audio feedback and encouragement throughout the lessons.[^ref-2]
+Spooky shows the player where each letter is on the keyboard and where to place their fingers.[^ref-9] In the attic, an on-screen keyboard shows correct finger placement, and if the player hesitates over a key, that key lights up.[^ref-21] Text to be typed appears on a scroll at the top of the screen, flanked by gauges: a tube of red liquid shows average words per minute, an electricity generator shows accuracy, a burning candle shows time remaining in a timed session, and a little scroll shows how much text is left.[^ref-21]
 
-The software features a visual keyboard display that helps children understand proper hand positioning. Players are guided through the home row keys before progressing to more complex combinations involving symbols and punctuation marks.[^ref-5] The interface was designed to be accessible to young children while still teaching proper typing technique.
+The guide says the text scrolls smoothly three lines at a time rather than jumping, which it claims reduces eye strain and improves accuracy.[^ref-21] Keyboard shortcuts let the player quit, print, go to the library, or return to the attic (Command-key combinations on the Macintosh, Alt-key combinations on the PC).[^ref-21] Input is by keyboard and mouse.[^ref-26]
 
 ### Structure and Progression
 
-The game is organized around exploration of the haunted house environment, with five distinct game rooms available for typing practice.[^ref-4] Players can access different areas as they demonstrate proficiency:
+Play takes place in three environments: the attic, the game rooms, and the library.[^ref-21] In the attic, Spooky introduces the keys across fifteen lessons. These start with the home row (A, S, D, F, J, K, L, semicolon and space bar) and end with the question mark, exclamation point, quotation mark and colon. Each lesson teaches finger placement first, then individual keys, then practice words, some of them nonsense words built for particular keys.[^ref-21] MobyGames likewise notes that lessons "start with the asdf row and adds more and more letters with each lesson."[^ref-1]
 
-- **Attic:** Spooky's home base and starting area
-- **Library:** Practice typing with stories and literary content[^ref-9]
-- **Encyclopedia Section:** Reference-based typing exercises[^ref-9]
-- **Family Living Areas:** Interaction with house residents
-- **Additional Rooms:** Unlocked through progress
+Once a lesson is mastered, Spooky takes the player into one of five game rooms meant to build speed: "the kitchen, the living room, the dining room, Tammy's bedroom and Timmy's bedroom."[^ref-21] Each room has its own haunting effect tied to typing speed:[^ref-21]
 
-The software allows children to learn at their own pace by selecting their own words per minute goals and skill level.[^ref-10] This self-directed approach ensures that younger or less experienced typists can build confidence gradually while more advanced students can challenge themselves appropriately.
+- **Kitchen:** Mom arranges flowers while the blender runs faster and faster.
+- **Living room:** Dad's TV floats in mid-air for as long as the player keeps typing.
+- **Dining room:** Timmy floats up from the table and spins faster as typing speeds up.
+- **Tammy's bedroom:** Tammy talks on the phone, getting more animated as speed increases.
+- **Timmy's bedroom:** His musical instruments and toys begin to play by themselves.
+
+The library is reached from the attic through a secret passageway behind a bookcase. It holds classic tales such as "Cinderella" and "Rumplestiltskin," plus an encyclopedia set of twenty-six books, each focused on one letter of the alphabet.[^ref-9][^ref-21]
 
 ### Puzzles and Mechanics
 
-Rather than traditional puzzles, Kid's Typing features adaptive lesson generation. The built-in intelligence monitors the player's typing accuracy and speed, then creates customized lessons targeting specific weaknesses.[^ref-2] If a player consistently mistypes certain keys, the software generates additional practice focusing on those problem areas.
+Kid's Typing has no traditional puzzles. Its central mechanic is lesson generation: game-room text is "created specifically to improve weak areas," and "Each lesson is designed to strengthen your child's weakest keystrokes."[^ref-21] Errors are noted even after correction "and will be used to design future lesson strategy," and future lessons are frequently built around the player's slowest key.[^ref-21]
 
-The game includes progress tracking and printable progress reports, allowing parents and educators to monitor improvement over time.[^ref-3] This feature made the software valuable for homeschool families and classroom use, providing documentation of student achievement.
-
-Practice modes include typing stories and sentences, with content designed to be age-appropriate and engaging for children.[^ref-5] The game focuses on teaching home keys, symbols, and punctuation marks in a progressive curriculum.[^ref-5]
+At the end of each session the game shows statistics: words per minute, accuracy, time, fastest key, slowest key, total characters typed, and overall top WPM.[^ref-21] A "word" counts as five keystrokes.[^ref-21] With a printer attached, players can print a certificate showing their name, WPM, accuracy and the date.[^ref-21] GOG's Dreamlist summary likewise notes that "Printable reports allow you to track progress."[^ref-2]
 
 ## Reception
 
 ### Contemporary Reviews
 
-Documentation of contemporary reviews from 1993 is limited in the available research. The game was part of Sierra's educational software line during a period when the company was expanding beyond its adventure game roots.
+*The Computer Museum Guide to the Best Software for Kids* (1995) rated Kid's Typing 2 out of 4, according to MobyGames: "A series of typing lessons with a clean, contemporary look. But kids will need your encouragement to stick with the practice."[^ref-27] Sierra listed the game on page 35 of its 15th-anniversary catalog for Winter 1994–95.[^ref-24]
 
 ### Modern Assessment
 
-Modern user reviews reflect nostalgic appreciation for the software. One Amazon reviewer described it as "the absolute best typing program I ever used with my kids. It is fun and engaging and they were typing in a day and couldn't wait to get back to it."[^ref-11] This sentiment captures the game's success at making typing instruction enjoyable rather than tedious.
+On Amazon, a listing for the game (brand KidsSoft, manufacturer Sierra Online) holds a 3.7-out-of-5 rating from 10 customer ratings, with reviews dated 2011 to 2024.[^ref-11] One reviewer called it "the absolute best typing program I ever used with my kids. It is fun and engaging and they were typing in a day and couldn't wait to get back to it."[^ref-11] Other reviewers on the same listing reported trouble installing it on newer versions of Windows.[^ref-11]
 
-The game maintains an average rating of 3.7 out of 5 stars on Amazon from users who purchased vintage copies.[^ref-11] Reviews span from 2011 to 2024, demonstrating continued interest in the software decades after its original release.
-
-Reddit discussions in the r/nostalgia community highlight the game's lasting impact on those who played it in school or at home during the 1990s and early 2000s.[^ref-6] One user specifically recalled the ghost character and his distinctive voice, noting "Pretty sure I played it once but he stuck with me for so long. I think it's the way the ghost said 'Semicolon'."[^ref-6]
+In a 2023 r/nostalgia post, one user recalled: "Pretty sure I played it once but he stuck with me for so long. I think it's the way the ghost said 'Semicolon'."[^ref-6]
 
 **Aggregate Scores:**
-- **Amazon:** 3.7/5 (multiple user reviews spanning 2011-2024)[^ref-11]
+- **MobyGames critic average:** 50% (1 rating)[^ref-27]
+- **Amazon:** 3.7/5 (10 ratings)[^ref-11]
 
 ## Development
 
 ### Origins
 
-Kid's Typing emerged from [[Bright Star Technology]], a developer specializing in educational software that collaborated with Sierra On-Line during the early 1990s.[^ref-1] The game was conceived as part of the Talking Tutor series, which utilized voice technology to create more engaging educational experiences for children.[^ref-4]
-
-The educational software market in 1993 was growing rapidly as personal computers became more common in homes and schools.[^ref-17] Sierra recognized the opportunity to leverage its game development expertise for the educational market, partnering with specialized developers like Bright Star Technology to create products that combined entertainment value with genuine educational merit.[^ref-19] The homeschool market in particular embraced typing instruction software as families sought engaging ways to teach essential computer skills.[^ref-15]
+Kid's Typing was developed by [[Bright Star Technology]] and published by [[Sierra On-Line]].[^ref-1] Sierra Chest groups it in the Talking Tutor series, alongside Alphabet Blocks, Beginning Reading, Spelling Jungle, Spelling Blizzard and Early Math.[^ref-4][^ref-9]
 
 ### Production
 
-The development team at Bright Star Technology created a character-driven approach that distinguished Kid's Typing from more straightforward typing tutors of the era.[^ref-3] By centering the experience around Spooky's humorous attempts at haunting, they transformed rote keyboard practice into an engaging narrative experience.
-
-The software required sophisticated (for its time) adaptive lesson generation algorithms to analyze typing patterns and create personalized practice content.[^ref-2] This intelligent tutoring system represented a significant technical achievement in educational software design.
-
-**Development Credits:**[^ref-1]
+**Development Credits:**[^ref-22][^ref-1]
+- **Producer:** Lynn Luukinen
 - **Designer:** Mark Swardstrom
-- **Composer:** Gordon van Ekström
+- **Lead Engineer:** Mark Marion
+- **Engineer:** Steve Schonberger
+- **Artists:** Travis Brady, Darrin Hart, William Olmstead, Mark Swardstrom
+- **Quality Assurance:** Tim Knappenberger, Jay Williams
+- **Audio Director / Composer:** Gordon van Ekström
+- **Lead Audio Engineer:** Kevin Cannon
 - **Voice Talent:** Annette Toutonghi
+- **User Guide:** Cathy Malmrose, Leslie Geller; Bill Baker (on-line conversion)
+
+MobyGames' credit listing carries the notice "© 1993 Bright Star Technology Inc."[^ref-1]
 
 ### Technical Achievements
 
-Kid's Typing featured voice synthesis and recording technology that allowed Spooky to provide audio feedback and instruction.[^ref-2] This was notable for educational software of the early 1990s, when many programs relied solely on text-based instruction.
-
-The adaptive intelligence system that generated customized lessons based on student performance represented an early implementation of what would later be called adaptive learning technology.[^ref-2][^ref-20] By tracking specific error patterns and adjusting practice content accordingly, the software provided a more effective learning experience than one-size-fits-all approaches common in typing programs of the era.[^ref-16][^ref-18]
+Spooky speaks to the player,[^ref-2] and the Windows version requires a sound card supporting Windows 3.1. The game "does not support the internal speaker sound driver."[^ref-23] The documentation highlights two design features: text that scrolls smoothly three lines at a time instead of jumping, and lessons generated from the player's own weakest keys.[^ref-21]
 
 ### Technical Specifications
 
-**System Requirements (Macintosh):**[^ref-5]
-- **Operating System:** Mac OS 6.0 up to Mac OS 9.2
-- **Processor:** Motorola 68K
-- **RAM:** 4 MB
-- **Storage:** 16 MB hard drive space
-- **Display:** 256 colors
-- **Software:** SSW 6.0.7
+**Macintosh (original requirements):**[^ref-23]
+- Color Macintosh
+- System 6.0.7 or higher
+- 4 MB RAM
+- 16 MB free disk space (11.5 MB after installation)
+- Eight-bit (256-colour) monitor
 
-**PC Version:**
-- **Operating System:** Windows 3.x[^ref-3]
-- **Media:** CD-ROM[^ref-1]
+**Windows (original requirements):**[^ref-23]
+- 386SX/20 MHz or faster CPU
+- Windows 3.1 or better
+- 4 MB RAM
+- 14 MB free disk space (11.5 MB after installation)
+- VGA at 256 colours, 640×480
+- Windows 3.1-compatible sound card; Microsoft-compatible mouse
+
+**Media:** CD-ROM[^ref-26]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1993 | IBM PC, Macintosh | Initial release[^ref-1] |
-| Windows 3.x | 1993 | Windows 3.x | Windows version[^ref-3] |
+| Original | 1993 | Windows 3.x, Macintosh | Hybrid Mac / Windows 3.x CD-ROM release[^ref-25] |
+| SierraOriginals | 1996 | Windows 3.x, Macintosh | Budget re-release[^ref-25] |
 
 ### Technical Issues
 
-The game's age presents compatibility challenges for modern users. The Macintosh version requires Mac OS 6.0 through 9.2, limiting playability to vintage hardware or emulation.[^ref-5] The Windows version was designed for Windows 3.x, requiring DOSBox or similar emulation environments for modern systems.[^ref-4]
-
-Some Amazon reviewers noted compatibility issues when attempting to run the software on newer Windows versions including XP and Vista, with varying degrees of success.[^ref-11]
+Sierra Chest reports that it got Kid's Typing running both under Windows 3.1 in DOSBox and directly under Windows XP.[^ref-23] If the display isn't set to 256 colours, the game warns "This program works best with 256 colors."[^ref-23] Amazon reviewers report mixed results on later systems. One got it running on XP in compatibility mode. Others could not get it working on Windows 7 or 8. Others ran it on Windows 10 by installing Windows 3.1 under DOSBox.[^ref-11] Macintosh Repository lists the Mac version as compatible with Mac OS 6.0 through 9.2 and suggests the Basilisk II emulator.[^ref-5]
 
 ### Easter Eggs and Trivia
 
-- Spooky's distinctive pronunciation of "semicolon" became particularly memorable for players, with users recalling it decades later.[^ref-6]
-- The game's central irony—a ghost who cannot successfully scare anyone—provided ongoing comedic content throughout the lessons.[^ref-9]
-- Kid's Typing was included in Sierra's Sneak Peeks 2 demo compilation alongside other educational titles including Alphabet Blocks, Beginning Reading, Spelling Jungle, Spelling Blizzard, and Early Math.[^ref-4]
+- In the attic, clicking the picture frame with broken glass shows the game's credits.[^ref-21]
+- A demo of Kid's Typing is included in a Talking Tutor demo file (26.6 MB download) on Sierra's *Sneak Peeks 2* PC CD-ROM, alongside demos of Alphabet Blocks, Beginning Reading, Spelling Jungle, Spelling Blizzard and Early Math.[^ref-4]
 
 ## Voice Cast
 
-| Character | Voice Actor |
-|-----------|-------------|
-| Various Characters | Annette Toutonghi[^ref-1] |
+| Actor | Credited Role |
+|-------|---------------|
+| Annette Toutonghi | Voice Talent[^ref-22][^ref-1] |
 
-The game featured voice work to bring Spooky and other characters to life, with audio feedback providing instruction and encouragement throughout the learning process.[^ref-2]
+The credits list a single voice performer. Which character or characters she voices isn't specified.[^ref-22]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-While specific sales figures are not available in the research data, Kid's Typing was part of Sierra's broader push into educational software during the early 1990s. The partnership with Bright Star Technology produced multiple titles in the Talking Tutor series.[^ref-4]
-
-The game's distribution continued beyond its initial release, with Amazon listings showing the software was repackaged and sold by KidsSoft as late as 2007.[^ref-11]
+No sales figures are available. Sierra listed the game in its Winter 1994–95 catalog and re-released it under the SierraOriginals label in 1996.[^ref-24][^ref-25] An Amazon listing for the game has been available since January 15, 2007.[^ref-11]
 
 ### Collections
 
-Kid's Typing was included in Sierra's Sneak Peeks 2 CD-ROM compilation, which provided demo versions of multiple educational titles from the publisher.[^ref-4] This 26.6 MB compilation required Windows 3.x and showcased Sierra's educational software lineup.
+The Talking Tutor demo file containing Kid's Typing was distributed on Sierra's *Sneak Peeks 2* PC CD-ROM. Sierra Chest's 26.6 MB download of that demo file runs under Windows 3.x.[^ref-4]
 
 ### Preservation
 
-The game has been preserved through multiple abandonware and software archive sites:
-- Macintosh Repository maintains a downloadable ISO image of the Mac version[^ref-5]
-- Classic Reload hosts a playable Windows 3.x version[^ref-3]
-- Internet Archive provides access to the software for preservation purposes[^ref-7]
-
-### Critical Perspective
-
-Kid's Typing represents an interesting artifact from the golden age of educational software, when publishers invested significantly in creating engaging learning experiences for children. The game's character-driven approach anticipated later developments in educational game design, where narrative and gameplay integration became increasingly important.
-
-The software emerged during a transitional period in typing education. As one educational technology expert noted, "Kids today are practically born with technology in their hands, but when should teachers and parents help those hands graduate from tapping, dragging, and swiping to home row and touch typing?"[^ref-12] Kid's Typing addressed this need for structured typing instruction while recognizing that children learn best when engaged and entertained.
-
-The game's lasting presence in user memories—evidenced by nostalgic discussions decades after release—speaks to its success at creating a memorable learning experience. Educational experts suggest that "games with adjustable difficulty levels are best because they let kids learn the basics before moving on to harder tasks,"[^ref-13] a design principle that Kid's Typing implemented through its adaptive lesson system.
+Kid's Typing is not sold on any current digital storefront. Copies are preserved at:
+- Macintosh Repository, which hosts an ISO image of the hybrid Mac/PC CD-ROM[^ref-5]
+- Classic Reload, which hosts a browser-playable Windows 3.x version[^ref-3]
+- Internet Archive, which hosts the hybrid CD-ROM image[^ref-7]
 
 ## Downloads
 
@@ -192,13 +182,13 @@ The game's lasting presence in user memories—evidenced by nostalgic discussion
 - Not currently available on digital storefronts
 
 **Preservation / Abandonware**
-- [Macintosh Repository](https://www.macintoshrepository.org/8000-dream-team-kid-s-typing) - Mac version ISO[^ref-5]
+- [Macintosh Repository](https://www.macintoshrepository.org/8000-dream-team-kid-s-typing) - Mac/PC hybrid ISO[^ref-5]
 - [Classic Reload](https://classicreload.com/win3x-dream-team-kids-typing.html) - Browser playable[^ref-3]
-- [Internet Archive](https://archive.org/details/dream-team-kids-typing-1993-sierra-mac-pc) - Archived copies[^ref-7]
-- [MyAbandonware](https://www.myabandonware.com/search/q/Kid%27s+Typing) - Search results with typing games[^ref-14]
+- [Internet Archive](https://archive.org/details/dream-team-kids-typing-1993-sierra-mac-pc) - Archived CD-ROM image[^ref-7]
 
 **Manuals & Extras**
-- [Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=walkthrough&pid=20) - Walkthrough and game information[^ref-4]
+- [Sierra Chest – Walkthrough](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=walkthrough&pid=20) - Guide to rooms, lessons and statistics[^ref-21]
+- [Sierra Chest – Demos](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=demos) - Talking Tutor demo collection[^ref-4]
 
 ## See Also
 
@@ -213,22 +203,19 @@ The game's lasting presence in user memories—evidenced by nostalgic discussion
 
 ## References
 
-[^ref-1]: [MobyGames – Kid's Typing](https://www.mobygames.com/game/200658/kids-typing/) – release dates, developer, publisher, platforms, credits
-[^ref-2]: [GOG.com – Dream Team Kid's Typing Dreamlist](https://www.gog.com/dreamlist/game/dream-team-kid-s-typing-1993) – game description, Spooky character, adaptive learning features
-[^ref-3]: [Classic Reload – Dream Team Kids Typing](https://classicreload.com/win3x-dream-team-kids-typing.html) – platform, publisher, character-driven design, printable reports
-[^ref-4]: [Sierra Chest – Kid's Typing Demos](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=demos) – series information, demo compilation, game rooms
-[^ref-5]: [Macintosh Repository – Dream Team Kid's Typing](https://www.macintoshrepository.org/8000-dream-team-kid-s-typing) – technical specifications, system requirements, adaptive lessons
-[^ref-6]: [Reddit r/nostalgia – Kids Typing Discussion](https://www.reddit.com/r/nostalgia/comments/13xr5ph/kids_typing_a_game_made_to_teach_typing_from_1994/) – user memories, semicolon pronunciation
-[^ref-7]: [Internet Archive – Dream Team Kids Typing](https://archive.org/details/dream-team-kids-typing-1993-sierra-mac-pc) – preservation, file size, platforms
-[^ref-9]: [Sierra Chest – Kid's Typing General](https://sierrachest.com/index.php?a=games&id=429&fld=general) – story description, haunting mechanics, library and encyclopedia modes
-[^ref-10]: [Amazon – Kids Typing Bundle](https://www.amazon.com/Kids-Typing-Bundle/dp/B07PYFLSV4) – self-paced learning description
-[^ref-11]: [Amazon – KidsSoft Kid's Typing](https://www.amazon.com/KidsSoft-Kids-Typing/dp/B000MQ8LF8) – user reviews, ratings, compatibility information
-[^ref-12]: [Tech & Learning – Typing Education](https://www.techlearning.com/tl-advisor-blog/11263) – Lisa Nielsen quotes on typing education timing
-[^ref-13]: [Today's Parent – Free Typing Games](https://www.todaysparent.com/kids/free-typing-games-for-kids/) – Brian Galvin quote on adaptive difficulty
-[^ref-14]: [MyAbandonware – Kid's Typing Search](https://www.myabandonware.com/search/q/Kid%27s+Typing) – typing game listings, preservation availability
-[^ref-15]: [Rainbow Resource – Kid's Typing](https://www.rainbowresource.com/) – homeschool software catalog, educational software resources
-[^ref-16]: [TypingGames.zone – Classic Typing Games](https://www.typinggames.zone/) – typing education history, classic software comparison
-[^ref-17]: [Individual Software – Typing Programs](https://www.individualsoftware.com/) – typing software market context, educational software publishing
-[^ref-18]: [KidzType – History of Typing Education](https://www.kidztype.com/) – evolution of typing instruction for children
-[^ref-19]: [TV Tropes – Educational Games](https://tvtropes.org/pmwiki/pmwiki.php/Main/EdutainmentGame) – genre context, character-driven educational software
-[^ref-20]: [Typing Tutor Online – Classic Programs](https://www.typingtutor.online/) – typing software history, adaptive learning evolution
+[^ref-1]: [MobyGames – Kid's Typing](https://www.mobygames.com/game/200658/kids-typing/) – release year, developer, publisher, platforms, credits, description
+[^ref-2]: [GOG.com – Dream Team Kid's Typing Dreamlist](https://www.gog.com/dreamlist/game/dream-team-kid-s-typing-1993) – game description, Spooky character, lesson generation, printable reports
+[^ref-3]: [Classic Reload – Dream Team Kids Typing](https://classicreload.com/win3x-dream-team-kids-typing.html) – browser-playable Windows 3.x version
+[^ref-4]: [Sierra Chest – Kid's Typing Demos](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=demos) – Talking Tutor demo file, Sneak Peeks 2
+[^ref-5]: [Macintosh Repository – Dream Team Kid's Typing](https://www.macintoshrepository.org/8000-dream-team-kid-s-typing) – hybrid Mac/PC ISO, Mac compatibility, emulation
+[^ref-6]: [Reddit r/nostalgia – Kids Typing Discussion](https://www.reddit.com/r/nostalgia/comments/13xr5ph/kids_typing_a_game_made_to_teach_typing_from_1994/) – user memory, semicolon pronunciation
+[^ref-7]: [Internet Archive – Dream Team Kids Typing](https://archive.org/details/dream-team-kids-typing-1993-sierra-mac-pc) – preserved hybrid CD-ROM image
+[^ref-9]: [Sierra Chest – Kid's Typing General](https://sierrachest.com/index.php?a=games&id=429&fld=general) – story description, family, haunting, library and encyclopedia, series, engine
+[^ref-11]: [Amazon – KidsSoft Kid's Typing](https://www.amazon.com/KidsSoft-Kids-Typing/dp/B000MQ8LF8) – user reviews, ratings, compatibility reports, listing date
+[^ref-21]: [Sierra Chest – Kid's Typing Walkthrough](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=walkthrough&pid=20) – age range, attic lessons, five game rooms, library, statistics, certificates
+[^ref-22]: [Sierra Chest – Kid's Typing Making Of](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=making) – full credits list
+[^ref-23]: [Sierra Chest – Kid's Typing Tech Support](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=tech) – original Mac and Windows requirements, sound card, DOSBox and Windows XP compatibility
+[^ref-24]: [Sierra Chest – Kid's Typing Publications](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=publications) – Sierra 15th anniversary catalog, Winter 94–95, page 35
+[^ref-25]: [MobyGames – Kid's Typing Releases](https://www.mobygames.com/game/200658/kids-typing/releases/) – 1993 hybrid Mac/Windows 3.x release, 1996 SierraOriginals release
+[^ref-26]: [MobyGames – Kid's Typing Specs](https://www.mobygames.com/game/200658/kids-typing/specs/) – CD-ROM media, input devices, minimum requirements
+[^ref-27]: [MobyGames – Kid's Typing Reviews](https://www.mobygames.com/game/200658/kids-typing/reviews/) – Computer Museum Guide to the Best Software for Kids (1995), 2/4
