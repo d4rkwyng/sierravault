@@ -205,6 +205,6 @@ The game is often compared with LucasArts' *Day of the Tentacle*. Kotaku noted t
 [^ref-24]: [Dorkly – 6 Educational Games That Actually Weren't That Bad (archived)](https://web.archive.org/web/20190407095044/http://www.dorkly.com/post/24911/the-dorklyst-6-educational-games-that-actually-werent-that-bad) – Brandon Hoang, 2011
 [^ref-25]: [GOG.com wishlist](https://www.gog.com/wishlist/games/peppers_adventure_in_time) – Community comments
 [^ref-26]: [Hardcore Gaming 101 forums (archived)](https://web.archive.org/web/20240322103311/https://hg101.proboards.com/thread/13211/peppers-adventures-time) – Forum comment on art style
-[^ref-27]: [XTC Abandonware (archived)](http://web.archive.org/web/20251005094459/http://www.xtcabandonware.com/game/1120/peppers-adventures-in-time-aka-twisty-h) – User rating and comments
+[^ref-27]: XTC Abandonware *(link removed 2026-10-11: site carries casino/poker advertising; claim needs re-sourcing)*
 [^ref-28]: [OldGames.sk](https://www.oldgames.sk/en/game/peppers-adventures-in-time/download/2911/) – User rating
 [^ref-29]: [Adventure Gamers – Top 100 All-Time Adventure Games (archived)](https://web.archive.org/web/20130118232940/http://www.adventuregamers.com/articles/view/18643/page8/) – #67 ranking (2011)

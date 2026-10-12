@@ -242,7 +242,7 @@ The game's Macbeth-inspired setting distinguished it from typical fantasy fare, 
 [^ref-5]: [DungeonCrawlers.org – Ruins of Cawdor](https://dungeoncrawlers.org/game/ruins-of-cawdor/) – gameplay mechanics, character classes, dungeon structure
 [^ref-6]: [Abandonware France – Ruins of Cawdor](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=4868) – French review quote, trivia, offline patch
 [^ref-7]: [Wikipedia – The Ruins of Cawdor](https://en.wikipedia.org/wiki/The_Ruins_of_Cawdor) – player capacity, technical specs
-[^ref-8]: [XTC Abandonware – The Ruins of Cawdor](https://www.xtcabandonware.com/game/2184/the-ruins-of-cawdor) – solo difficulty, multiplayer design
+[^ref-8]: XTC Abandonware *(link removed 2026-10-11: site carries casino/poker advertising; claim needs re-sourcing)*
 [^ref-10]: [Wikipedia Talk – ImagiNation Network](https://en.wikipedia.org/wiki/Talk:ImagiNation_Network) – Richard Aronson quotes, development history
 [^ref-11]: [HandWiki – The Ruins of Cawdor](https://handwiki.org/wiki/Software:The_Ruins_of_Cawdor) – platform information
 [^ref-12]: [RPG Codex Forums](https://rpgcodex.net/forums/threads/the-shadow-of-yserbius-fates-of-twinion-ruins-of-cawdor.107795/) – narrative style, gameplay details, map mechanics

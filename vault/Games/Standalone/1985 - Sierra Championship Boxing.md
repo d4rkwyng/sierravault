@@ -260,7 +260,7 @@ The Washington Apple Pi Journal review's caveat that the game was "not for the s
 [^ref-8]: [LaunchBox Games Database – Sierra Championship Boxing](https://gamesdb.launchbox-app.com/games/details/97786-sierra-championship-boxing) – gameplay modes, character creation, genres
 [^ref-9]: [Sierra Chest – Championship Boxing](https://sierrachest.com/index.php?a=games&id=362&title=championship-boxing&fld=box) – engine, media format
 [^ref-10]: [MyAbandonware – Sierra Championship Boxing](https://www.myabandonware.com/game/sierra-championship-boxing-cx) – user memories, ratings, publishers, designers
-[^ref-11]: [XTC Abandonware – Sierra Championship Boxing](https://www.xtcabandonware.com/game/1265/sierra-championship-boxing) – controls, file size, boxer count
+[^ref-11]: XTC Abandonware *(link removed 2026-10-11: site carries casino/poker advertising; claim needs re-sourcing)*
 [^ref-12]: [Data Driven Gamer – Sierra Championship Boxing](https://datadrivengamer.blogspot.com/2023/04/game-368-sierra-championship-boxing.html) – modern retrospective, Heathkit version, technical notes
 [^ref-13]: [Vizzed.com – Sierra Championship Boxing](https://www.vizzed.com/play/sierra-championship-boxing-appleii-online-apple-ii-6280-playable) – ratings, technical specifications
 [^ref-14]: [IMDB – Sierra Championship Boxing](https://www.imdb.com/title/tt8337410/) – user rating

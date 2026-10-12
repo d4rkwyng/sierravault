@@ -122,7 +122,6 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/legend-of-djel-ou)[^ref-30]
-- [XTC Abandonware](https://www.xtcabandonware.com/game/553/legend-of-djel)[^ref-37]
 
 **Walkthroughs and Guides**
 - [SierraHelp Walkthrough](https://sierrahelp.com/Walkthroughs/LegendOfDjelWalkthrough.html)[^ref-33]
@@ -172,4 +171,3 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 [^ref-33]: [SierraHelp](https://sierrahelp.com/Walkthroughs/LegendOfDjelWalkthrough.html) - Comprehensive walkthrough with gameplay instructions
 [^ref-34]: [SquakeNet](https://www.squakenet.com/game/legend-of-djel/) - Informal game review and description
 [^ref-36]: [UVList](https://www.uvlist.net/game-162398-Legend+of+Djel) - Game database with technical details and historical scores
-[^ref-37]: [XTC Abandonware](https://www.xtcabandonware.com/game/553/legend-of-djel) - Abandonware preservation site with historical context
