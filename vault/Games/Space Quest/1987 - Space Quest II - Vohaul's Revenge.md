@@ -213,7 +213,7 @@ This game has been included in the following collections:
 [^ref-32]: [SEC Filing – Sierra On-Line 10-K (March 1996)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "Space Quest... sold more than 1.2 million copies in this series"
 [^ref-33]: [Lance Ewing – "Do you own this Space Quest 2 disk?" (May 22, 2024)](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html) – AGI source code in the unused space of SQ2 2.0D/2.0F disk 1
 [^ref-34]: [GitHub – lanceewing/agi](https://github.com/lanceewing/agi) – recovered AGI interpreter source; extra files from King's Quest III v2.14 disk 1; first discovered October 2016
-[^ref-35]: [Internet Archive – Space Quest II (woz-a-day collection)](https://archive.org/details/wozaday_Space_Quest_II_Vohauls_Revenge) – Apple II version 2.0A, interpreter 0.089
+[^ref-35]: Internet Archive – Space Quest II (woz-a-day collection) (download link removed: game still sold) – Apple II version 2.0A, interpreter 0.089
 [^ref-36]: [Hardcore Gaming 101 – Space Quest I](https://www.hardcoregaming101.net/space-quest-i/) – series overview: Sludge Vohaul as "Roger's accidental arch-nemesis"
 [^ref-37]: [MobyGames – Space Quest II user reviews](https://www.mobygames.com/game/128/space-quest-ii-chapter-ii-vohauls-revenge/reviews/) – player review quoting the "look at trap" response
 [^ref-38]: [MobyGames – Space Quest: Collector's Edition](https://www.mobygames.com/game/937/space-quest-collectors-edition/) – contents include Space Quest II
