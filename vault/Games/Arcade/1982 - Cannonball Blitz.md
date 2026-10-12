@@ -10,14 +10,14 @@ series: N/A
 engine: Machine Language
 protagonist: Rebel Soldier
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-11'
 description: Cannonball Blitz is a 1982 action platformer developed by Olaf Lubeck
   and published by On-Line Systems, the company that would later become Sierra On-Line....
-tags: [1980s, n-a, sierra]
+tags: [1980s, sierra]
 ---
 # Cannonball Blitz
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 11, 2026</small>
 
 ## Overview
 
@@ -50,7 +50,7 @@ The game's promotional materials emphasized the dire odds facing the player: "Ro
 
 ### Interface and Controls
 
-Cannonball Blitz is controlled entirely via keyboard, which was typical for Apple II games of the era.[^ref-5] The input method presented some challenges, as John Romero noted the "keyboard control problems typical of Apple II" could affect gameplay.[^ref-2] The single-player game required precise timing to navigate obstacles and jump over or avoid the rolling cannonballs descending from the castle above.[^ref-5]
+Cannonball Blitz can be played with either a joystick or the keyboard; at startup the game asks which the player wants to use, and one MobyGames reviewer found it "much easier with joystick."[^ref-2] John Romero, who played with the keyboard, wrote that "The only problems with the game were its keyboard control, but that was typical of the Apple II."[^ref-2] The single-player game required precise timing to navigate obstacles and jump over or avoid the rolling cannonballs descending from the castle above.[^ref-5]
 
 ### Structure and Progression
 
@@ -58,33 +58,33 @@ The game features three distinct screens that players must complete sequentially
 
 - **Level 1:** Features seesaws instead of traditional ladders, requiring players to use timing and momentum to ascend. The objective is to reach a flag at the top of the screen, accomplished by grabbing onto a balloon that carries the player to the goal platform.[^ref-2][^ref-6]
 
-- **Level 2:** Continues the assault on Cannonball Castle with additional hazards and obstacles.
+- **Level 2:** The player starts on the lowest of six floors connected by ladders and must run over all twelve rivets to bring the structure down, while cannons pursue the player up and down ladders; hammers on two floors can be used to smash the cannons.[^ref-24]
 
-- **Level 3:** Described as "particularly challenging" and by some accounts "nearly impossible," this final screen pushes player skills to their limits.[^ref-3][^ref-2]
+- **Level 3:** Described as "particularly challenging" and by one MobyGames reviewer as "just impossible," this final screen pushes player skills to their limits.[^ref-3][^ref-2]
 
 ### Puzzles and Mechanics
 
-The core gameplay loop involves navigating platforms while evading cannonballs rolling down from the soldier manning the cannons above.[^ref-7] Unlike simple avoidance, the game introduces innovative mechanics including the balloon system, which players can catch to ride up to higher platforms.[^ref-5] This balloon mechanic was highlighted by reviewers as one of the game's notable innovations within the Donkey Kong clone formula.[^ref-5]
+The goal of each level is to reach the flag at the top while evading the oncoming cannonballs.[^ref-7] Players can also catch balloons that occasionally fly by and ride them up to higher platforms; *Computer Gaming World* advised ignoring them except at the top of the first screen, where one is needed to reach the flag.[^ref-24] One MobyGames player review singled out "the innovation of the balloon" as a highlight.[^ref-2]
 
-Players must time their movements carefully, as the cannonballs follow predictable but challenging paths down the castle walls.[^ref-7] The game's difficulty was noted as exceptional even among Sierra's catalog: "Out of all Sierra's games, CannonBall Blitz is the most difficult."[^ref-2]
+The game's difficulty was noted as exceptional even among Sierra's catalog: "Out of all Sierra's games, CannonBall Blitz is the most difficult."[^ref-2]
 
 ## Reception
 
 ### Contemporary Reviews
 
-Cannonball Blitz received positive attention from gaming publications of its era. Ron Brinkmann of *Computer Gaming World* gave the game an enthusiastic endorsement, writing: "In the final analysis, Cannonball Blitz is a game every bit as challenging and fun as the arcade original. It will give you hours (days, months, years) of enjoyment."[^ref-3]
+Cannonball Blitz received positive attention from gaming publications of its era. Ron Brinkmann of *Computer Gaming World* gave the game an enthusiastic endorsement, writing: "In the final analysis, Cannonball Blitz is a game every bit as challenging and fun as the arcade original. It will give you hours (days, months, years) of enjoyment."[^ref-3][^ref-24] The same review listed the Apple II disk at $34.95.[^ref-24]
 
-*Ahoy!* magazine reviewed the VIC-20 version in January 1984, with E. C. Meade memorably declaring: "Cannonball Blitz, make no mistake about it, is Donkey Kong in dress blues. Not a bloody thing new here. However, you're going to find it a barrel of fun."[^ref-3] The magazine described the game's graphics as "unbelievable" and called it "a very good version of a fine game."[^ref-8]
+*Ahoy!* magazine reviewed the VIC-20 version in January 1984, with E. C. Meade memorably declaring: "Cannonball Blitz, make no mistake about it, is Donkey Kong in dress blues. Not a bloody thing new here. However, you're going to find it a barrel of fun."[^ref-3][^ref-25] Meade found the animation "lovely to behold—if drab," called the sound effects "unbelievable," praised the freedom to "play any level you want when you want," and concluded that "The Vic-20 cartridge is a very good version of a fine game."[^ref-8][^ref-25]
 
 ### Modern Assessment
 
-The game has received retrospective analysis from notable industry figures. John Romero, who would go on to co-create DOOM and Quake, wrote extensively about Cannonball Blitz on MobyGames in 2005, praising it as "the best Donkey Kong clone on the Apple II when it debuted."[^ref-2] He noted that "the sounds were charming and the animation was decent" for its time.[^ref-2]
+The game has received retrospective analysis from notable industry figures. John Romero, who would go on to co-create DOOM and Quake, wrote a short player review of Cannonball Blitz on MobyGames in 2005, praising it as "the best Donkey Kong clone on the Apple II when it debuted."[^ref-2] He noted that "the sounds were charming and the animation was decent" for its time.[^ref-2]
 
 However, not all modern assessments have been as favorable. Some reviewers found the game fell short of its potential, with one critic writing: "A good idea for a game in theory, but CannonBall Blitz fell much too far short of the mark."[^ref-2]
 
 **Aggregate Scores:**
 - **MobyGames:** 7.1 Moby Score, 66% Critics (2 reviews), 3.6/5 Players (10 ratings)[^ref-5]
-- **VideoGameGeek:** 5.33/10[^ref-6]
+- **VideoGameGeek:** 5.33/10 (3 ratings)[^ref-20]
 - **Glitchwave:** 1.06/5.0[^ref-9]
 - **My Abandonware:** 3.33/5 (6 votes)[^ref-10]
 
@@ -92,13 +92,13 @@ However, not all modern assessments have been as favorable. Some reviewers found
 
 ### Origins
 
-Cannonball Blitz emerged from On-Line Systems' strategy of creating home computer versions of popular arcade games.[^ref-2] Designer Olaf Lubeck, who had previously created Jawbreaker (a Pac-Man clone) for Sierra, applied his experience to crafting a Donkey Kong-style platformer with a unique thematic twist.[^ref-2] The Revolutionary War setting distinguished the game from other Donkey Kong clones flooding the market in 1982.[^ref-3]
+Cannonball Blitz emerged from On-Line Systems' strategy of creating home computer versions of popular arcade games.[^ref-2] Designer Olaf Lubeck had previously written Gobbler, a Pac-Man clone that On-Line pulled after Atari claimed infringement, and ported John Harris's Jawbreaker to the Apple II.[^ref-23] After On-Line's legal fight with Atari over those games ended in a settlement, the company "had no hesitation publishing" Lubeck's Donkey Kong clone, on the view that game ideas and mechanics could not be copyrighted.[^ref-23] The Revolutionary War setting distinguished the game from other Donkey Kong clones flooding the market in 1982.[^ref-3]
 
-The game was developed at Sierra's offices, which at the time were located in Oakhurst, California.[^ref-11] Sierra (then On-Line Systems) was rapidly establishing itself as a major publisher for Apple II software, with Cannonball Blitz representing their entry into the platformer genre.
+Lubeck wrote Cannonball Blitz in his spare time while working at Los Alamos National Laboratory.[^ref-23] *Computer Gaming World*'s 1982 review gave the publisher's address as Coarsegold, California.[^ref-24]
 
 ### Production
 
-The game was written entirely in machine language for optimal performance on the Apple II platform.[^ref-4] Development took place during 1981-1982, with some sources indicating a 1981 completion date and others listing the commercial release as 1982.[^ref-12][^ref-1]
+The game was written entirely in machine language for optimal performance on the Apple II platform.[^ref-4] Sources disagree on the year: Sierra Chest lists a first release of 1981 and an Internet Archive physical-media item is dated 1981, while others list the commercial release as 1982.[^ref-4][^ref-26][^ref-1]
 
 **Development Credits:**[^ref-5]
 - **Written by:** Olaf Lubeck
@@ -106,19 +106,21 @@ The game was written entirely in machine language for optimal performance on the
 
 ### Technical Achievements
 
-The game reproduced the three-screen structure of Donkey Kong while implementing unique mechanical twists appropriate for home computer hardware.[^ref-2] The balloon mechanic, allowing players to catch and ride balloons to higher platforms, represented an original gameplay innovation not found in the arcade source material.[^ref-5]
+The game reproduced the three-screen structure of Donkey Kong while implementing unique mechanical twists appropriate for home computer hardware.[^ref-2] The balloon mechanic, allowing players to catch and ride balloons to higher platforms, was called an innovation by one MobyGames reviewer.[^ref-2][^ref-24]
 
 The loading sequence featured a notable animation of a soldier shooting a cannonball at the castle, demonstrating the developers' attention to presentation.[^ref-2] The animation quality and charming sound design were highlighted by contemporary observers despite the Apple II's technical limitations.[^ref-2]
 
 ### Technical Specifications
 
-**Apple II Version:**[^ref-1][^ref-13]
+**Apple II Version:**[^ref-1][^ref-24]
 - **Memory Required:** 48K RAM minimum
 - **Media:** 5.25" Floppy Disk
-- **Disk Format:** DOS 3.3
-- **Disk Size:** 140 KB
-- **Input:** Keyboard
+- **Disk Format:** DOS 3.2 or 3.3
+- **Input:** Keyboard or joystick[^ref-2]
 - **Players:** 1 Player
+- **Price:** $34.95
+
+**VIC-20 Version:** Cartridge[^ref-25]
 
 **File Sizes:**[^ref-10]
 - Apple II version: 25 KB
@@ -133,7 +135,7 @@ No documented cut content has been identified in the available research material
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Original | 1982 | Apple II | Initial release by On-Line Systems[^ref-1] |
-| VIC-20 Port | 1982-1983 | VIC-20 | Home computer port[^ref-5][^ref-10] |
+| VIC-20 Port | 1983 | VIC-20 | Cartridge, released under Sierra's short-lived SierraVision label[^ref-23][^ref-25] |
 | TI-99/4A Port | 1982-1984 | TI-99/4A | Texas Instruments version[^ref-3][^ref-5] |
 
 **Platform Notes:** The VIC-20 version was also catalogued under the alternate name "Balloon Blitz" according to TOSEC databases.[^ref-14]
@@ -147,8 +149,6 @@ The Apple II version's keyboard controls were cited as a source of gameplay fric
 Cannonball Blitz achieved significant notoriety in the Apple II software cracking community for its robust copy protection scheme.[^ref-3] The game contained a hidden message embedded on track 17, sector D of the disk that taunted would-be crackers:
 
 - **Copy Protection Message:** "YOU'LL NEVER BREAK IT (TRY IT ON ANOTHER MACHINE)" – This hidden text challenged the hacking community directly, though the game was eventually cracked.[^ref-15][^ref-3]
-
-The game was among the first to employ such provocative anti-piracy messaging, making it a notable example in the history of software copy protection on home computers.
 
 **Additional Trivia:**
 - The game was cracked by the preservation group "4am" as crack number 735, demonstrating its continued relevance to the software preservation community decades after release.[^ref-12]
@@ -189,7 +189,7 @@ The game's aggressive copy protection and its taunting hidden message to cracker
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist Request](https://www.gog.com/dreamlist) - Community Dreamlist entry
+- Not sold on any digital store. [GOG Dreamlist – Cannonball Blitz](https://www.gog.com/dreamlist/game/cannonball-blitz-1982) - community wishlist entry only, not available for purchase
 
 **Download / Preservation**
 - [Internet Archive – WOZ Format](https://archive.org/details/a2woz_Cannonball_Blitz_1982_On-Line_Systems)
@@ -230,11 +230,10 @@ The game's aggressive copy protection and its taunting hidden message to cracker
 [^ref-4]: [Sierra Chest – Cannonball Blitz](https://www.sierrachest.com/index.php?a=games&id=442&title=cannonball-blitz&fld=general) – original promotional text, engine details, platform list
 [^ref-5]: [MobyGames – Cannonball Blitz Main Page](https://www.mobygames.com/game/9300/cannonball-blitz/) – credits, technical specs, ratings, platform releases
 [^ref-6]: [LaunchBox Games Database – Cannonball Blitz](https://gamesdb.launchbox-app.com/games/details/83426-cannonball-blitz) – gameplay mechanics, platform information
-[^ref-7]: [GOG Dreamlist – Cannonball Blitz](https://www.gog.com/dreamlist) – gameplay description, platforms
-[^ref-8]: [HandWiki – Software: Cannonball Blitz](https://handwiki.org/wiki/Software:Cannonball_Blitz) – Ahoy! magazine review quotes
+[^ref-7]: [GOG Dreamlist – Cannonball Blitz](https://www.gog.com/dreamlist/game/cannonball-blitz-1982) – community wishlist entry (not sold); gameplay description
+[^ref-8]: [HandWiki – Software: Cannonball Blitz](https://handwiki.org/wiki/Software:Cannonball_Blitz) – Ahoy! magazine review quotes (animation and "unbelievable" sound effects)
 [^ref-9]: [Glitchwave – Cannonball Blitz](https://glitchwave.com/game/cannonball-blitz/) – aggregate rating
 [^ref-10]: [My Abandonware – Cannonball Blitz](https://www.myabandonware.com/game/cannonball-blitz-74f) – file sizes, user ratings, release dates
-[^ref-11]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/list-of-sierra-products/) – Sierra product catalog, development location
 [^ref-12]: [Internet Archive – 4am Crack Collection](https://archive.org/details/CannonballBlitz_4amCrack) – crack number, preservation details
 [^ref-13]: [Internet Archive – Apple II Compilation](https://archive.org/details/a2_cple_Cannonball_Blitz_Night_Crawler_Snack_Attack_Sn0ggle_Tranquility_Base) – disk format specifications
 [^ref-14]: [Games Database – VIC-20 Version](https://www.gamesdatabase.org/game/commodore-vic-20/cannonball-blitz) – alternate naming, platform availability
@@ -246,3 +245,7 @@ The game's aggressive copy protection and its taunting hidden message to cracker
 [^ref-20]: [VideoGameGeek – Cannonball Blitz](https://videogamegeek.com/videogame/105085/cannonball-blitz) – user ratings, platform list
 [^ref-21]: [Games Database – Apple II Version](https://www.gamesdatabase.org/game/apple-ii/cannonball-blitz) – developer/publisher confirmation
 [^ref-22]: [Wikidata – Cannonball Blitz](https://www.wikidata.org/wiki/Q5032821) – structured metadata
+[^ref-23]: [Retro365 – Gobbler and Cannonball Blitz, clones, Lawsuits, clones](https://retro365.blog/2020/10/10/bits-from-my-personal-collection-cannonball-blitz-clones-lawsuits-clones/) – Ernst Krogtoft, 2020; Lubeck's Gobbler and Jawbreaker port, Atari legal fight, Los Alamos origin, 1983 SierraVision VIC-20 release
+[^ref-24]: [Computer Gaming World Issue 2.5 (Sept–Oct 1982)](https://archive.org/details/Computer_Gaming_World_Issue_2.5) – Ron Brinkmann review; price, system, disk format, level descriptions
+[^ref-25]: [Ahoy! #1 (January 1984)](https://archive.org/details/ahoy_magazine) – E.C. Meade review of the VIC-20 cartridge
+[^ref-26]: [Internet Archive – Cannonball Blitz physical preservation](https://archive.org/details/on-line-cannonball-blitz-a2-ph) – On-Line Systems original disk, item dated 1981
