@@ -3,154 +3,152 @@ title: The Prophecy
 release_year: 1992
 developer: Coktel Vision
 designer: [Joseph Kluytmans, Corinne Perrot]
-publisher: Sierra On-Line
+publisher: [Coktel Vision, Sierra On-Line]
 genre: Adventure
 platforms: [DOS, Amiga, Atari ST]
-series: Gobliiins
+series: Standalone
 engine: Gob
 protagonist: Ween
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-09'
+last_updated: '2026-10-12'
 composer: [Charles Callet]
 description: '*The Prophecy* (known as *Ween: The Prophecy* in Europe) is a first-person
-  point-and-click adventure game developed by Coktel Vision and published by Sierra...'
-tags: [1990s, adventure, coktel, gobliiins, sierra]
+  point-and-click adventure game developed by Coktel Vision, published in Europe by Coktel
+  Vision in 1992 and in North America by Sierra On-Line in 1993.'
+tags: [1990s, adventure, coktel, sierra, ween]
 ---
 # The Prophecy
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-*The Prophecy* (known as *Ween: The Prophecy* in Europe) is a first-person point-and-click adventure game developed by Coktel Vision and published by Sierra On-Line in North America.[^ref-1] Released in 1992 in Europe and 1993 in the United States, the game represents one of the most artistically ambitious titles of its era, with hand-painted backgrounds that rivaled contemporaries like LucasArts' *Loom* and Sierra's own *King's Quest VI* in visual artistry and orchestral nuance.[^ref-2] The game was developed by the French studio Coktel Vision, already renowned for their *Gobliiins* trilogy, and shares similar puzzle-focused gameplay mechanics with that beloved series.[^ref-3]
+*The Prophecy* (known as *Ween: The Prophecy* in Europe) is a first-person point-and-click adventure game developed by Coktel Vision and MDO.[^ref-1] Coktel Vision published it in Europe in 1992 for MS-DOS, Amiga and Atari ST, and Sierra On-Line published the MS-DOS version in North America in 1993 under the shorter title *The Prophecy*.[^ref-6][^ref-25] Coktel Vision were the creators of the *Gobliiins* series, and like that series the game has a simplified interface and a heavy focus on self-sufficient puzzles.[^ref-1][^ref-13]
 
-Players assume the role of Ween, a young wizard tasked with fulfilling an ancient prophecy to defeat the evil wizard Kraal before the Great Eclipse arrives in three days.[^ref-4] The game's distinctive visual style experiments with faux-sepia tones for outdoor environments contrasted with bright, vivid colors for interior scenes, creating a unique aesthetic that set it apart from other adventure games of the period.[^ref-5] While some critics found the puzzles overly difficult and illogical, others praised the game's beautiful digitized screens, humorous creatures, and intricate puzzle design.[^ref-6]
+Players assume the role of Ween, a young wizard tasked with fulfilling an ancient prophecy to defeat the evil wizard Kraal before the Great Eclipse arrives in three days.[^ref-6][^ref-8] The game's distinctive visual style experiments with faux-sepia tones for outdoor environments and bright colors for interior scenes, which changes the atmosphere.[^ref-5] While some critics found the puzzles overly difficult and illogical, others praised the game's beautiful digitized screens, humorous creatures, and intricate puzzle design.[^ref-6]
 
-The game holds particular significance as the first and only Coktel Vision title to allow players to reach their destination through multiple different paths, offering branching puzzle solutions at two key points in the adventure.[^ref-7] This design choice, combined with live-action cutscenes featuring actors in heavily tinted scenes, demonstrated the studio's willingness to experiment with the adventure game formula.[^ref-8][^ref-23][^ref-24][^ref-25]
+It was one of few games of its day to offer branching paths: at two points the player chooses between routes that lead to different sets of puzzles.[^ref-4][^ref-11] It also uses short full-motion video clips of real actors for its character portraits and cutscenes.[^ref-3][^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]], MDO[^ref-1]
 > **Designer:** Joseph Kluytmans, Corinne Perrot[^ref-1]
-> **Publisher:** [[Sierra On-Line]][^ref-9]
-> **Engine:** Gob[^ref-10]
+> **Publisher:** [[Coktel Vision]] (Europe, 1992); [[Sierra On-Line]] (North America, DOS, 1993)[^ref-6][^ref-24]
+> **Engine:** Gob[^ref-10][^ref-23]
 > **Platforms:** MS-DOS, Amiga, Atari ST[^ref-1]
-> **Release Year:** 1992 (Europe), 1993 (North America)
-> **Series:** Gobliiins (spiritual successor)
+> **Release Year:** 1992 (Europe), 1993 (North America)[^ref-6]
+> **Series:** Standalone; a sequel to *[[1989 - Legend of Djel|Legend of Djel]]*[^ref-7]
 > **Protagonist:** Ween
 > **Sierra Lineage:** Coktel Vision
 
 ## Story Summary
 
-The Kingdom of Blue Rocks faces impending doom as the Great Eclipse approaches in three days, heralding the prophesied return of the evil wizard Kraal who seeks to reign over the land once more.[^ref-7] The only hope lies with Ween, a young wizard who must fulfill an ancient prophecy to prevent Kraal's dark resurrection. To accomplish this seemingly impossible task, Ween must embark on three separate quests, each rewarding him with a single grain of sand that must be placed in a magical hourglass.[^ref-4]
+The Kingdom of Blue Rocks faces impending doom as the Great Eclipse approaches in three days, heralding the prophesied return of the evil wizard Kraal who seeks to reign over the land once more.[^ref-7] The only hope lies with Ween, a young wizard who must fulfill an ancient prophecy to stop Kraal's return. To accomplish this seemingly impossible task, Ween must embark on three separate quests, each rewarding him with a single grain of sand that must be placed in a magical hourglass.[^ref-4]
 
-The game serves as a spiritual sequel to *Legend of Djel*, an earlier Coktel Vision title from the late 1980s, though it stands entirely on its own narratively.[^ref-7] Ween is aided in his quest by several colorful companions, including a bat sidekick who provides online help, and a character named Petroy who offers guidance throughout the adventure.[^ref-11] The kingdom is populated with fascinating and often humorous creatures, including characters like Urm, Uki, and Orbi who assist or hinder Ween's progress.[^ref-7]
+The game is a sequel to *Legend of Djel* (1989): it uses a similar fantasy setting and the same characters, though nothing in its title signals the connection.[^ref-7] Ween is aided in his quest by several colorful companions, including a bat sidekick and his grandfather's friend Petroy, both of whom can give progressively explicit hints.[^ref-11] The kingdom is populated with fascinating and often humorous creatures, including Urm the strawberry-eating bat and the gnomes Uki and Orbi, who tend to lose Ween's items.[^ref-7]
 
-The prophecy itself is unique in that it is fulfilled through choice rather than predestination—Ween must actively solve puzzles and make decisions that shape his path through the kingdom.[^ref-2] The game's three-day structure creates a sense of urgency, though players cannot actually die during gameplay, allowing them to experiment with solutions without fear of permanent failure.[^ref-6] The climax sees Ween placing the three sacred grains of sand into the magical hourglass, which ultimately results in the destruction of the evil wizard Kraal and the salvation of the Kingdom of Blue Rocks.[^ref-4]
+As in Coktel's *Gobliiins* series, the player character cannot die, although it is possible to fail on the final screen and get a game over.[^ref-6] The climax sees Ween placing the three sacred grains of sand into the magical hourglass, which ultimately results in the destruction of the evil wizard Kraal and the salvation of the Kingdom of Blue Rocks.[^ref-4]
 
 ## Gameplay
 
 ### Interface and Controls
 
-*The Prophecy* utilizes a simplified point-and-click interface similar to Coktel Vision's famous *Gobliiins* series.[^ref-5] The game is played from a first-person perspective, with objects around each screen automatically detected by the cursor, making challenges within each location quick to comprehend.[^ref-12] This streamlined approach was considered innovative for its time, as very nice sound effects combined with the first-person perspective created a new approach to solving puzzles.[^ref-13]
+*The Prophecy* utilizes a simplified point-and-click interface similar to Coktel Vision's famous *Gobliiins* series.[^ref-5] The game is played from a first-person perspective, with objects around each screen automatically detected by the cursor, making challenges within each location quick to comprehend.[^ref-1][^ref-12] One GOG wishlist commenter wrote in 2015 that its "very nice sound effects and first person perspective created a new approach in solving puzzles."[^ref-13]
 
-The interface requires only a mouse for interaction, with keyboard support as an alternative input method.[^ref-7] Players can access their inventory and examine items, combining objects to solve the game's numerous puzzles. Unlike more complex adventure games of the era, *The Prophecy* strips away unnecessary interface elements to focus purely on puzzle-solving.[^ref-5]
+Interaction is mainly done with the mouse, picking up objects, using them on others and moving between locations; MobyGames lists both mouse and keyboard as supported input devices.[^ref-1][^ref-7] The interface is simplified compared with other traditional adventures of the time, and the game's focus is on self-sufficient puzzles.[^ref-5][^ref-26]
 
 ### Structure and Progression
 
-The game is structured around three main quests that must be completed within a three-day timeframe, with each quest rewarding the player with one of the three grains of sand needed to defeat Kraal.[^ref-4] Generally, players must solve each puzzle in sequence, though the game offers more freedom than typical linear adventures of its era.[^ref-12]
+The game is structured around three main quests that must be completed within a three-day timeframe, with each quest rewarding the player with one of the three grains of sand needed to defeat Kraal.[^ref-4] Generally, players must solve each puzzle in sequence.[^ref-12] Movement is restricted to a few screens at a time until the puzzle blocking the way is solved, but each screen holds many objects and things to do.[^ref-27] After the grains are gathered, Kraal starts interfering and Ween must overcome the obstacles he creates.[^ref-8] The Walkthrough King guide divides the game into the First, Second and Third Grain, Travelling, Volcano Island and the Revuss.[^ref-21]
 
-- **Day One:** Introduction to the Kingdom of Blue Rocks and initial puzzle challenges
-- **Day Two:** Intermediate quests requiring item combination and character interaction
-- **Day Three:** Final challenges leading to the confrontation with Kraal's forces
-
-The game branches at two distinct points, allowing players to solve completely different sets of puzzles depending on their chosen path.[^ref-11] This was a revolutionary design choice for Coktel Vision, as it was the first and only game from the studio to allow multiple routes to the same destination.[^ref-7]
+The game branches at two distinct points, allowing players to solve completely different sets of puzzles depending on their chosen path.[^ref-11] Early on, the player can get past a monster by the bridge or take the water route instead; later, Ween chooses between a left and a right door.[^ref-27] Branching paths were uncommon in adventure games of the time.[^ref-4][^ref-14]
 
 ### Puzzles and Mechanics
 
-Like the company's *Gobliiins* series, *The Prophecy* has a heavier focus on self-sufficient puzzles than other traditional adventure games.[^ref-5] The game involves transforming jewels and mixing potions in a cauldron, with each puzzle building upon previous solutions.[^ref-7] Players must carefully observe their environment and combine inventory items in creative ways to progress.
+Like the company's *Gobliiins* series, *The Prophecy* has a heavier focus on self-sufficient puzzles than other traditional adventure games.[^ref-5] The game involves transforming jewels and mixing potions in a cauldron: a ring, tiara and necklace turn Ween's copper ball into a cauldron, a pipe or a sword.[^ref-7][^ref-8] Players must carefully observe their environment and combine inventory items in creative ways to progress.
 
-The puzzles received mixed reception, with some critics finding them intricate and solvable while others complained they were too strange and irrational.[^ref-14] One reviewer noted that the puzzles became extremely difficult near the ending, with non-obvious solutions and occasional pixel hunting required.[^ref-7] A typical playthrough takes roughly 10 hours if puzzles are solved quickly, though the difficulty may extend this considerably for inexperienced players.[^ref-15][^ref-26]
+The puzzles received a mixed reception, with some critics finding them intricate and solvable while others complained they were too strange and irrational.[^ref-6][^ref-14] One reviewer noted that the puzzles became extremely difficult near the ending, with non-obvious solutions and occasional pixel hunting required.[^ref-7] The author of a GameFAQs walkthrough estimated the game at "roughly 10 hours if you can get through the puzzles quick."[^ref-15]
 
 ## Reception
 
 ### Contemporary Reviews
 
-*The Prophecy* received generally positive reviews upon release, with critics praising its visual artistry while occasionally criticizing its puzzle logic. *Joystick* magazine gave the game a stellar 91/100, making it one of the highest-rated adventure games in their publication.[^ref-16] *Tilt* awarded it 17/20, while *Génération 4* gave it 78/100 and *PC Format* scored it 75/100.[^ref-16]
+*The Prophecy* received mixed reviews. The DOS version scored well in the French and British PC press: *Joystick* gave it 91/100, *Tilt* 17/20, *Génération 4* 78/100 and *PC Format* 75/100.[^ref-16] MobyGames lists a critic average of 66% from 16 reviews.[^ref-7]
 
-*Amiga Action* magazine rated the Amiga version 84%, with reviewer Steve McNally praising the game's presentation despite the platform's technical limitations compared to the DOS version.[^ref-10] *White Wolf* magazine's James Trunzo called it "an excellent game" that "boasts some beautifully digitized screens, fascinating humorous creatures and intricate solvable puzzles."[^ref-6]
+The Amiga version was received more coolly. Lemon Amiga lists 11 magazine reviews averaging 68%. They range from 84% in *Amiga Action* (Steve McNally) and 81% in *Amiga Power* down to 52% in *CU Amiga*, 51% in *Datormagazin* and *The One*, and 50% in *Amiga Format*.[^ref-10] *CU Amiga* felt the puzzles were completely illogical.[^ref-6]
 
-*Quandrey* gave the game 80%, though noted that "the game might turn off some players due to its restrictive movement."[^ref-6] *Metzomagic* also awarded 80%, recognizing the game's artistic achievements while acknowledging its accessibility challenges.[^ref-6]
+*White Wolf* magazine's James Trunzo called it "an excellent game" that "boasts some beautifully digitized screens, fascinating humorous creatures and intricate solvable puzzles."[^ref-6]
+
+Gordon Aplin's 1995 review for *Quandary* gave the game four stars out of five. He warned that some players may not like that "movement is restricted to just a few screens at a time until you have solved a particular puzzle". He also praised the game's "complete lack of combat" and called it "a thoroughly absorbing and challenging game, but perhaps not one for the easily frustrated."[^ref-27]
 
 ### Modern Assessment
 
-Modern retrospectives have been more divided on the game's merits. Adventure Gamers rated it 2/5 stars (40%), criticizing it as "little more than a big collection of inventory puzzles wrapped in a standard fantasy package."[^ref-3] However, *bestdosgames.com* called it "one of the most artistically ambitious titles of its day," noting that "only adventure giants such as LucasArts' Loom or Sierra's King's Quest VI rivaled this combination of visual artistry and orchestral nuance."[^ref-2]
+Later reviews have mostly been negative. Johann Walter of Adventure Gamers gave it 2 out of 5 stars in 2006. He called it "little more than a big collection of inventory puzzles wrapped in a standard fantasy package; unfortunately, they mostly stop being fun halfway through the game."[^ref-3] Four Fat Chicks found it "not very fun" and "slightly disturbing on some subconscious, almost limbic, level". The reviewer said they had "to recommend against it in the strongest possible terms."[^ref-28]
 
-User reviews on MobyGames average 66% from critics and 3.5/5 from players, indicating the game has maintained a modest but dedicated fanbase.[^ref-7] Reviews on Lemon Amiga were more critical, with one reviewer giving it 4/10, calling it "a failure" where "the puzzles were so irrational that I couldn't imagine the solutions," though admitting "first impression was good and I was even very happy when I finished the game."[^ref-14]
+On MobyGames, players rate it 3.5 out of 5 from 36 ratings.[^ref-7] Reviews on Lemon Amiga were more critical, with one reviewer giving it 4/10, calling it "a failure" where "the puzzles were so irrational that I couldn't imagine the solutions," though admitting "first impression was good and I was even very happy when I finished the game."[^ref-14]
 
 **Aggregate Scores:**
 - **MobyGames:** 66% (critic average), 3.5/5 (player average)[^ref-7]
 - **Adventure Gamers:** 2/5 stars (40%)[^ref-3]
 - **Abandonware DOS:** 4.11/5.00[^ref-9]
-- **OldGames:** 67%[^ref-17]
+- **OldGames.sk:** 67% (site rating); 69% user average from 25 votes[^ref-17]
 - **My Abandonware (HOTUD):** 4.4/5[^ref-11]
 
 ## Development
 
 ### Origins
 
-*The Prophecy* was developed by Coktel Vision, the French studio already famous for creating the beloved *Gobliiins* series of adventure games.[^ref-3] The game was conceived as a spiritual successor to *Legend of Djel*, an earlier Coktel title from the late 1980s developed under the Tomahawk label.[^ref-7] Designer Joseph Kluytmans sought to create a more mature and visually ambitious adventure game that would push the boundaries of what the genre could achieve graphically.
+*The Prophecy* was developed by Coktel Vision, the creators of the *Gobliiins* series.[^ref-13][^ref-21] It is a sequel to *Legend of Djel* (1989), sharing its fantasy setting and characters.[^ref-7] Joseph Kluytmans created the game with Corinne Perrot and also worked on its graphics.[^ref-1]
 
-The game was released shortly before Coktel Vision became a subsidiary of Sierra On-Line, which would publish the North American version under the shortened title *The Prophecy* (dropping the "Ween" prefix).[^ref-8] This association with Sierra helped bring the game to a wider international audience, though it remained somewhat obscure compared to Sierra's flagship adventure series.
+The game was released by Coktel Vision in 1992, shortly before the company became a subsidiary of Sierra.[^ref-8] Sierra On-Line published the North American DOS version in 1993 under the shortened title *The Prophecy*.[^ref-6][^ref-19]
 
 ### Production
 
-Development took place primarily at Coktel Vision's French studios, with additional work by MDO (Intersound MDO was also listed as an audio hardware supporter).[^ref-1] The game uses the Gob engine, the same technology that powered other Coktel Vision titles including *Fascination*.[^ref-10] This allowed the team to leverage existing tools while creating entirely new artwork and puzzles.
+The game was developed by Coktel Vision together with MDO; MobyGames credits the programming to Eric Audren, Philippe Lamarque and Eric Thommerot under the M.D.O. banner.[^ref-1] Lemon Amiga lists C code and Gob among its development tools.[^ref-10] Users commenting there note that it uses the same engine as Coktel's *Fascination*.[^ref-14]
 
-The visual style was particularly ambitious, with hand-painted backgrounds that experimented with color toning—using faux-sepia graphics for outdoor environments while employing bright, vivid colors for interior scenes.[^ref-5] The team also incorporated live-action full-motion video cutscenes where characters appear wearing what look like leather masks, created through motion capture with real actors whose grimed faces were filmed and digitized.[^ref-14]
+The visual style was particularly ambitious, with hand-painted backgrounds that experimented with color toning—using faux-sepia graphics for outdoor environments while employing bright, vivid colors for interior scenes.[^ref-5] The game also uses full-motion video clips for character portraits and key cutscenes, in which nearly all the characters look as if they are wearing leather masks.[^ref-7] A Lemon Amiga commenter describes these as filmed and digitized footage of real actors in heavy make-up.[^ref-14]
 
 **Development Credits:**[^ref-1][^ref-10]
 - **Designer:** Joseph Kluytmans
 - **Co-Designer:** Corinne Perrot
-- **Additional Development:** E. Audren, E. Thommerot, M.D.O., Philippe Lamarque
+- **Programming:** E. Audren, E. Thommerot, M.D.O., Philippe Lamarque
 - **Composer:** Charles Callet
 - **Engine:** Gob
 
-### Technical Achievements
+### Graphics and Audio
 
-*The Prophecy* represented a significant technical achievement for its era, combining 256-color VGA graphics with orchestral sound and full-motion video cutscenes.[^ref-2] The game's art style, resembling illuminated manuscripts with its hand-painted aesthetic, was considered groundbreaking.[^ref-2] Most of the hand-painted backgrounds looked fantastic, especially the outdoor scenes.[^ref-7]
+The DOS version uses VGA graphics, and its hand-painted backgrounds have drawn praise. One MobyGames user reviewer wrote that "most of the hand-painted backgrounds look fantastic, especially the outdoor scenes."[^ref-7][^ref-20] Adventure Gamers was less impressed, describing screens "varying between monochromes and patchworks of gaudy, jarring colours".[^ref-3]
 
-The audio system supported multiple sound cards and devices, including AdLib, Sound Blaster, Pro AudioSpectrum, Intersound MDO, and PC Speaker.[^ref-18] Composer Charles Callet created a full OPL2 soundtrack that enhanced the game's atmospheric qualities.[^ref-19] The CD edition was fully voiced, adding another layer of production value to the experience.[^ref-2]
+The audio system supported multiple sound cards and devices, including AdLib, Sound Blaster, Pro AudioSpectrum, Intersound MDO, and PC Speaker.[^ref-18] Composer Charles Callet wrote a full OPL2 (AdLib) soundtrack.[^ref-19] Adventure Gamers felt that composing only for AdLib, when other companies were using the Roland MT-32 and General MIDI, limited the soundtrack.[^ref-3] The Amiga version has different audio tracks from the DOS version.[^ref-18]
 
 ### Technical Specifications
 
-**DOS Version:**[^ref-3][^ref-10]
-- **Minimum CPU:** Intel 286/10 MHz or better
+**DOS Version:**[^ref-20][^ref-28]
+- **Minimum CPU:** Intel 286 (Four Fat Chicks lists 286 at 10 MHz or better)
 - **Minimum RAM:** 640K
-- **Graphics:** VGA-compatible video card (256 colors)
+- **Graphics:** VGA
 - **Minimum OS:** DOS 3.0
-- **Audio Devices:** AdLib, Sound Blaster, Pro AudioSpectrum, Intersound MDO, PC Speaker
-- **Audio Format:** CoktelVision's ADL format
+- **Audio Devices:** AdLib, Sound Blaster, Pro AudioSpectrum, Intersound MDO, PC Speaker[^ref-18]
+- **Audio Format:** CoktelVision's ADL format[^ref-18]
 
-**Media Formats:**[^ref-7]
+**Media Formats:**[^ref-1]
 - 3.5" Floppy Disk
 - 5.25" Floppy Disk
-- CD-ROM (with full voice acting)
+- CD-ROM
 
 ### Cut Content
 
-The Amiga and Atari ST versions were heavily stripped down compared to the DOS version, missing several screens, animations, and even the title screen.[^ref-14] The Amiga version was reduced to only 16 colors compared to the PC's 256-color palette, significantly impacting the visual presentation.[^ref-14] Some animations and graphical effects present in the original DOS version were completely removed from the console ports due to technical limitations.
+According to Lemon Amiga commenters, the Amiga version lacks many of the DOS version's animations and screens, including the title screen.[^ref-14] Coktel's Amiga/ST conversions dropped from 256 to 16 colours, and for this game the converters used colour gradients that give the screens a monochrome look.[^ref-14] One commenter also notes that some puzzles were modified to make the Amiga/ST conversion easier.[^ref-14]
 
 ### Version History
 
-| Version | Date | Platform | Notes |
+| Release | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1992 | DOS | Initial European release as "Ween: The Prophecy"[^ref-6] |
-| 1.0 | 1992 | Amiga | European release with reduced graphics[^ref-10] |
-| 1.0 | 1992 | Atari ST | European release with reduced graphics[^ref-16] |
-| 1.0 | 1993 | DOS | North American release as "The Prophecy"[^ref-9] |
-| CD | 1993 | DOS | CD-ROM edition with full voice acting[^ref-2] |
+| Europe | 1992 | DOS | Coktel Vision release as "Ween: The Prophecy"[^ref-6][^ref-11] |
+| Europe | 1992 | Amiga | Coktel Vision release; reduced colours, some screens and animations missing[^ref-10][^ref-14] |
+| Europe | 1992 | Atari ST | Coktel Vision release[^ref-11] |
+| North America | 1993 | DOS | Sierra On-Line release as "The Prophecy"[^ref-6][^ref-24] |
 
-**Regional Title Variations:**[^ref-19]
+**Regional Title Variations:**[^ref-1][^ref-19]
 - Europe: "Ween: The Prophecy"
 - North America: "The Prophecy"
 - Hebrew: "נער הנבואה"
@@ -164,28 +162,24 @@ The Amiga version in particular suffered from color reduction and missing animat
 ### Easter Eggs and Trivia
 
 - The game is completely unrelated to the American rock band Ween, despite sharing the name.[^ref-8]
-- Three identical music files exist for the Home music track in the game's data, suggesting either redundancy for safety or cut content.[^ref-18]
-- The game features 13 music files in the root directory and 15 in the Originals directory.[^ref-18]
-- One character, Urm, has a memorable line: "DING! DANG! DONG! I can hear the dinner-time gong!"[^ref-15]
-- The game uses the same engine as Coktel Vision's *Fascination*.[^ref-10]
+- The game's data contains three identical music files for the "Home" track, which is why VGMPF's rip has 13 music files in its root and 15 in its Originals directory.[^ref-18]
+- Lemon Amiga commenters note that the game uses the same engine as Coktel Vision's *Fascination*.[^ref-14]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-While specific sales figures for *The Prophecy* have not been publicly documented, the game achieved modest success in the European market and helped establish Coktel Vision's reputation for visually distinctive adventure games.[^ref-2] The partnership with Sierra On-Line for North American distribution gave the game access to a wider audience, though it never achieved the mainstream recognition of Sierra's flagship adventure series.
-
-The game was priced at £29.99 GBP upon its European release, positioning it as a premium adventure title.[^ref-10] Its success contributed to Coktel Vision's eventual acquisition by Sierra, strengthening the parent company's European development capabilities.
+No sales figures for *The Prophecy* have been found. The Amiga disk version retailed for £29.99 in the UK.[^ref-10] Coktel Vision became a Sierra subsidiary shortly after the game's 1992 release, and Sierra On-Line published the DOS version in North America in 1993.[^ref-6][^ref-8]
 
 ### Collections
 
-*The Prophecy* has appeared in various abandonware collections and preservation efforts over the years. The game is available through multiple abandonware sites including My Abandonware and Abandonware DOS.[^ref-9][^ref-11] It has been requested on GOG.com's wishlist, with users expressing nostalgia for this "great precursor of modern puzzle games."[^ref-13]
+*The Prophecy* has appeared in various abandonware collections and preservation efforts over the years. The game is available through multiple abandonware sites including My Abandonware and Abandonware DOS.[^ref-9][^ref-11] It has been requested on GOG.com's community wishlist, where one 2016 commenter called it a "Great precursor of modern puzzle games."[^ref-13]
 
 The game is playable through ScummVM, the open-source project that supports numerous classic adventure games, thanks to the implementation of the Gob engine.[^ref-20] Internet Archive hosts a playable demo version for preservation purposes.[^ref-5]
 
 ### Fan Projects
 
-Community members on GOG.com have advocated for an official re-release, with one user calling it a "great precursor of modern puzzle games" with "very nice sound effects and first person perspective created a new approach in solving puzzles."[^ref-13] The game has been the subject of walkthrough creation, with comprehensive guides available to help modern players navigate its challenging puzzles.[^ref-21]
+Community members on GOG.com have asked for an official re-release. One commenter in 2015 called it "a well made adventure game from the beloved creators of Goblins series." Another in 2017 noted that "it gets rather confusing towards the end with all the potion mixing but it's still a fun game."[^ref-13] The game has been the subject of walkthrough creation, with comprehensive guides available to help modern players navigate its challenging puzzles.[^ref-21]
 
 ### Related Publications
 
@@ -195,14 +189,12 @@ Community members on GOG.com have advocated for an official re-release, with one
 
 ### Critical Perspective
 
-*The Prophecy* occupies an interesting position in adventure gaming history as a visually ambitious but mechanically divisive title. While it pushed the boundaries of graphical presentation and demonstrated innovative design choices like branching puzzle paths, its obtuse puzzle logic alienated some players and critics.[^ref-3][^ref-14] The game represents Coktel Vision at the height of their creative powers, before their absorption into Sierra led to more commercially-focused titles.
-
-Modern retrospectives recognize the game as an important stepping stone in the evolution of first-person adventure games, even if its gameplay has not aged as gracefully as its visuals.[^ref-2] It became one of Coktel Vision's greatest works according to some reviewers, demonstrating the studio's commitment to artistic expression within the adventure game format.[^ref-7] For fans of surreal, visually distinctive adventure games, *The Prophecy* remains a fascinating curiosity worthy of exploration.
+*The Prophecy* remains a divisive title. Its branching paths were unusual for its day, but many players and critics found its puzzle logic obtuse.[^ref-3][^ref-4][^ref-14] Its admirers remain enthusiastic. One MobyGames user reviewer called it "one of the companys' greatest works" and "a true gem". The HOTUD review hosted on My Abandonware called it "a fun puzzle adventure that gets bogged down with too many illogical puzzles, poor writing, and incoherent plot."[^ref-7][^ref-11]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
+- [GOG Community Wishlist – Ween: The Prophecy](https://www.gog.com/wishlist/games/ween_the_prophecy) - not sold on GOG; community wishlist entry
 
 **Download / Preservation**
 - [Internet Archive – Demo](https://archive.org/details/TheProphecy_1020)[^ref-5]
@@ -238,8 +230,7 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 ## References
 
 [^ref-1]: [MobyGames – The Prophecy](https://www.mobygames.com/game/6218/the-prophecy/) – developer, designer, publisher, platform, technical specifications
-[^ref-2]: [Best DOS Games – The Prophecy](https://bestdosgames.com/games/the-prophecy) – artistic comparisons, CD edition details, visual style analysis
-[^ref-3]: Adventure Gamers – Ween: The Prophecy *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no clean pre-sale archived copy found)* – review score, system requirements, critical assessment
+[^ref-3]: [Adventure Gamers – Ween: The Prophecy review (Johann Walter, 22 Sep 2006; Wayback Machine, May 2019)](https://web.archive.org/web/20190530124322/https://adventuregamers.com/articles/view/17975) – 2/5 stars, verdict, graphics and music critique
 [^ref-4]: [Internet Archive – Ween: The Prophecy Full Game](https://archive.org/details/msdos_Ween_-_The_Prophecy_1993) – plot description, branching paths, gameplay structure
 [^ref-5]: [Internet Archive – The Prophecy Demo](https://archive.org/details/TheProphecy_1020) – graphic style, interface description
 [^ref-6]: [Wikipedia – The Prophecy (video game)](https://en.wikipedia.org/wiki/The_Prophecy_(video_game)) – review scores, gameplay mechanics, trivia
@@ -249,11 +240,11 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 [^ref-10]: [Lemon Amiga – Ween: The Prophecy](https://www.lemonamiga.com/game/ween-the-prophecy) – Amiga review, engine, technical specs, development credits, retail price
 [^ref-11]: [My Abandonware – The Prophecy](https://www.myabandonware.com/game/the-prophecy-225) – regional releases, alternative names, HOTUD rating
 [^ref-12]: [Sierra Gamers – The Prophecy](https://www.sierragamers.com/the-prophecy/) – gameplay description, puzzle structure
-[^ref-13]: [GOG.com Dreamlist – Ween: The Prophecy](https://www.gog.com/dreamlist/game/ween-the-prophecy) – user testimonials, platform memories
+[^ref-13]: [GOG.com Community Wishlist – Ween: The Prophecy](https://www.gog.com/wishlist/games/ween_the_prophecy) – wish description ("creators of the Gobliiins series"), user comments (2015, 2016, 2017)
 [^ref-14]: [Lemon Amiga – Reviews](https://www.lemonamiga.com/games/reviews/view.php?id=332) – user reviews, version comparison, cut content
 [^ref-15]: [GameFAQs – The Prophecy Walkthrough](https://gamefaqs.gamespot.com/pc/567180-the-prophecy/faqs/15201) – playtime estimate, character quotes
 [^ref-16]: [UV List – Ween: The Prophecy](https://www.uvlist.net/game-43148-Ween+The+Prophecy) – magazine review scores, platform details, language support
-[^ref-17]: OldGames – The Prophecy *(link removed: it led to a different game's page)* – rating, regional information
+[^ref-17]: [OldGames.sk – Ween: The Prophecy](https://www.oldgames.sk/en/game/ween-the-prophecy) – 67% rating, 69% user average (25 votes), platforms
 [^ref-18]: [VGMPF Wiki – Ween: The Prophecy](https://www.vgmpf.com/Wiki/index.php?title=Ween:_The_Prophecy_(DOS)) – audio technical details, music file information
 [^ref-19]: [DOS Nostalgia – Ween: The Prophecy Soundtrack](https://www.dosnostalgia.com/2014/07/ween-the-prophecy-full-adlib-soundtrack/) – composer credit, regional title variations
 [^ref-20]: [PCGamingWiki – The Prophecy](https://www.pcgamingwiki.com/wiki/The_Prophecy) – engine, minimum requirements, ScummVM compatibility
@@ -263,3 +254,5 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 [^ref-24]: [VideoGameGeek – The Prophecy](https://videogamegeek.com/videogame/217004/the-prophecy) – North American release details, media format
 [^ref-25]: [Games Nostalgia – Coktel Vision](https://gamesnostalgia.net/games/company/coktel-vision) – publisher information, genre, perspective
 [^ref-26]: [Play Classic Games – Ween: The Prophecy](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-ween-the-prophecy-online/) – interface description, puzzle mechanics
+[^ref-27]: [Quandary – Ween: The Prophecy review by Gordon Aplin (1995; Wayback Machine, Jan 2008)](https://web.archive.org/web/20080126173522/http://www.quandaryland.com/jsp/dispArticle.jsp?index=68) – 4/5 stars, restricted movement, branching paths, verdict
+[^ref-28]: [Four Fat Chicks – The Prophecy review (Wayback Machine, Mar 2016)](https://web.archive.org/web/20160304211946/http://www.tap-repeatedly.com/Reviews/Prophecy/Ween.shtml) – negative verdict, system requirements
