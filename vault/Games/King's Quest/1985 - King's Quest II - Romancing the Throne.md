@@ -10,20 +10,20 @@ series: King's Quest
 engine: AGI
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-12'
 composer: [Al Lowe]
 description: 'King''s Quest II: Romancing the Throne is the second installment in
-  the King''s Quest series, released in May 1985 for IBM PC and PCjr. Designed by
+  the King''s Quest series, released in 1985 (May per Wikipedia, June per MobyGames) for IBM PC and PCjr. Designed by
   Roberta...'
 tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest II: Romancing the Throne
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-King's Quest II: Romancing the Throne is the second installment in the King's Quest series, released in May 1985 for IBM PC and PCjr[^ref-1][^ref-2]. Designed by [[Roberta Williams]], it uses the AGI (Adventure Game Interpreter) engine developed for the original King's Quest[^ref-1][^ref-3]. The subtitle parodies the 1984 Robert Zemeckis film Romancing the Stone[^ref-4][^ref-5]. Computer Gaming World (June 1985) wrote that "the animated graphics are simply the best we have ever seen on a home computer"[^ref-6], while Sierra's packaging quoted Compute! magazine calling it "like playing an animated cartoon"[^ref-7].
+King's Quest II: Romancing the Throne is the second installment in the King's Quest series, released in 1985 for IBM PC and PCjr—in May according to Wikipedia, while MobyGames dates the PC booter release to June 1985[^ref-2][^ref-1]. Designed by [[Roberta Williams]], it uses the AGI (Adventure Game Interpreter) engine developed for the original King's Quest[^ref-1][^ref-3]. The subtitle parodies the 1984 Robert Zemeckis film Romancing the Stone[^ref-4][^ref-5]. Computer Gaming World's "Taking a Peek" column (June–July 1985) said that "the animated graphics are quite simply the best we have ever seen on a home computer"[^ref-41], while Sierra's packaging quoted Compute! magazine calling it "like playing an animated cartoon"[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -38,9 +38,9 @@ King's Quest II: Romancing the Throne is the second installment in the King's Qu
 
 ## Story Summary
 
-One year after recovering the three stolen treasures and becoming King of Daventry, Graham seeks a wife[^ref-2]. Looking into the magic mirror, he sees a beautiful woman named Valanice imprisoned atop a quartz tower in the distant land of Kolyma by the witch Hagatha[^ref-1][^ref-9][^ref-10]. Graham travels to Kolyma to rescue her, where he must find three golden keys to unlock three magical doors leading to the enchanted island where Valanice is held[^ref-8][^ref-10].
+One year after recovering the three stolen treasures and becoming King of Daventry, Graham is urged by the vision of his predecessor, King Edward, to marry and provide an heir[^ref-2][^ref-40]. Looking into the magic mirror, he sees Valanice, a maiden from the kingdom of Kolyma, whom the jealous crone Hagatha has whisked away to an enchanted land and imprisoned in a quartz tower[^ref-40]. The mirror sends Graham to Kolyma, where he must find the three golden keys that unlock the three doors to the enchanted land where Valanice is held[^ref-22][^ref-40].
 
-The land of Kolyma draws from folklore, mythology, and classic literature[^ref-4]. Graham encounters King Neptune in an underwater kingdom, Little Red Riding Hood and her grandmother, and Count Dracula in a haunted castle[^ref-1][^ref-4]. A genie's lamp grants three predetermined wishes: a bridle, a sword, and a magic carpet[^ref-4]. After overcoming these challenges, Graham rescues Valanice and they marry[^ref-9].
+The land of Kolyma draws from folklore, mythology, and classic literature[^ref-4]. Graham encounters King Neptune in an underwater kingdom, Little Red Riding Hood and her grandmother, and Count Dracula in a haunted castle[^ref-1][^ref-4]. A genie's lamp grants three predetermined wishes: a bridle, a sword, and a magic carpet[^ref-4]. After overcoming these challenges, Graham rescues Valanice and they marry[^ref-2].
 
 ## Gameplay
 
@@ -64,18 +64,18 @@ The game features goal-sensitive events where the world changes as the story pro
 
 ### The Bridge Trap
 
-The game's most notorious design element is a rickety bridge leading to the magical doors. The bridge can only be crossed seven times—just enough to complete the game, with a point awarded for each crossing[^ref-21][^ref-4]. There is no warning that the bridge will collapse[^ref-4][^ref-10]. Hardcore Gaming 101 called this "the most remarkably cruel aspect of King's Quest II," noting "it never clues you in, but you can only cross this bridge a very, very limited amount of times"[^ref-4]. Adventure Gamers described it as "a cruel setup that more or less ensures that new players will have to start over near the beginning at some point"[^ref-10]. The bridge trap was later referenced in Sierra's Freddy Pharkas: Frontier Pharmacist[^ref-4].
+The game's most notorious design element is a rickety bridge leading to the magical doors. The bridge can only be crossed seven times—just enough to complete the game, with a point awarded for each crossing[^ref-21][^ref-4]. There is no warning that the bridge will collapse[^ref-4][^ref-10]. Hardcore Gaming 101 called this "the most remarkably cruel aspect of King's Quest II," noting "it never clues you in, but you can only cross this bridge a very, very limited amount of times"[^ref-4]. Adventure Gamers described it as "a cruel setup that more or less ensures that new players will have to start over near the beginning of the game at some point"[^ref-10]. The bridge trap was later referenced in Sierra's Freddy Pharkas: Frontier Pharmacist[^ref-4].
 
 ## Reception
 
 ### Contemporary Reviews
 
-King's Quest II received enthusiastic reviews upon release. Aktueller Software Markt (ASM) reviewed the Atari ST version in 1986[^ref-2]; MobyGames records its score as 9.75/10[^ref-39]. Sierra's packaging quoted Consumer Software News ("if you liked King's Quest you'll love the sequel"), Computer Entertainment ("Roberta Williams has simply outdone herself") and QuestBusters ("the most lushly painted and highly detailed scenery seen since...well King's Quest I")[^ref-7].
+King's Quest II received enthusiastic reviews upon release. Computer Entertainer's December 1985 review said it had "all the magic of a favorite fairy tale" and called it "not to be missed"[^ref-43]. In Antic (May 1986), Brad Kershaw wrote: "If all adventures could be this enjoyable and visually stimulating, I would have been an adventure game freak long ago"[^ref-44]. Keith Campbell of Computer and Video Games (August 1986) agreed with Sierra's claim that it represented "a totally new approach to computer adventuring"—"Well, almost," he added, citing a similar technique in Melbourne House's Zim Sala Bim[^ref-45]. Aktueller Software Markt (ASM, July 1986) reviewed the Atari ST version, scoring it 10 for graphics, 10 for vocabulary, 9 for story and 10 for atmosphere[^ref-42]; MobyGames records this as 9.75/10[^ref-39]. Sierra's packaging quoted Consumer Software News ("if you liked King's Quest you'll love the sequel"), Computer Entertainment ("Roberta Williams has simply outdone herself") and QuestBusters ("the most lushly painted and highly detailed scenery seen since...well King's Quest I")[^ref-7].
 
 **Contemporary Scores:**
-- **ST Magazine (Atari ST, Apr 1986):** 4/5[^ref-39]
+- **ST Magazine (Atari ST, issue 3):** 4/5 (Intérêt ****; Graphisme ***, Bruitage **)[^ref-47][^ref-39]
 - **Computer + Video Games (Atari ST, Aug 1986):** 6/10[^ref-14]
-- **ASM (Atari ST, 1986):** 9.75/10[^ref-39]
+- **ASM (Atari ST, Jul 1986):** 9.75/10 (average of four category scores)[^ref-42][^ref-39]
 - **Tilt (Atari ST, Jun 1987):** 16/20[^ref-39]
 - **CU Amiga (Amiga, Apr 1994):** 84%[^ref-39]
 
@@ -87,10 +87,9 @@ Modern retrospectives acknowledge the game's historical importance while noting 
 - **MobyGames:** 7.1/10 MobyScore, 78% critics (14 ratings), 3.5/5 players (109 ratings), as of 2026[^ref-1]
 - **GOG:** 4.1/5 (42 reviews, KQ 1+2+3 bundle)[^ref-26]
 - **Steam:** 87% Very Positive (331 reviews, KQ Collection)[^ref-27]
-- **IMDB:** 7.2/10 (145 votes)[^ref-15]
+- **IMDB:** 7.2/10 (140+ votes)[^ref-15]
 - **Adventure Gamers:** 3/5[^ref-10]
 - **Techtite (Apple II, 2000):** 5/5[^ref-39]
-- **HowLongToBeat:** 61% user rating, ~3 hours average completion, 37 minutes fastest[^ref-16]
 - **Choicest Games:** 4/10 ("simply too damn difficult")[^ref-17]
 
 ## Development
@@ -103,17 +102,15 @@ Roberta Williams explained that ideas cut from the original game found their hom
 
 ### Production
 
-**Development Credits:**[^ref-1][^ref-3]
+**Development Credits (MobyGames, 1987 DOS release):**[^ref-1]
 - **Design/Writing:** [[Roberta Williams]]
-- **Story:** Annette Childs (manual backstory), Roberta Williams[^ref-15]
-- **Game logic:** Ken Williams, Sol Ackerman, Chris Iden[^ref-1]
-- **Programming:** Jeff Stephenson, Chris Iden[^ref-1]
-- **Additional team (per DOS Days):** Scott Murphy, Dale Carlson[^ref-3]
-- **Animation:** Mark Crowe[^ref-1]
-- **Scenery:** Doug MacNeill[^ref-1]
+- **Story:** Annette Childs (manual backstory)[^ref-40]
+- **Game logic:** Ken Williams, Sol Ackerman, Chris Iden, [[Scott Murphy]], Dale Carlson[^ref-1][^ref-3]
+- **Development system:** Jeff Stephenson, Chris Iden, Robert Eric Heitman[^ref-1]
+- **Graphics:** Doug MacNeill, [[Mark Crowe]][^ref-1]
 - **Music:** Al Lowe[^ref-1][^ref-3]
 
-The manual contains a prologue written by Annette Childs about King Edward's spirit advising Graham to find a wife[^ref-15]. Al Lowe also wrote the official hint book[^ref-19].
+The manual, credited "Story by Annette Childs", contains a prologue in which a vision of King Edward advises Graham to marry and provide an heir[^ref-40]. Al Lowe also wrote the official hint book[^ref-35].
 
 ### Technical Specifications
 
@@ -162,7 +159,7 @@ Al Lowe composed and arranged the soundtrack—VGMPF lists fourteen pieces, seve
 
 ## Legacy
 
-King's Quest II continued Sierra's dominance in the adventure game market. The game served as a training ground for future Sierra legends—Scott Murphy and Mark Crowe (Space Quest) and Al Lowe (Leisure Suit Larry) all worked on the project[^ref-3][^ref-17].
+In February 1987, Computer Entertainer reported that the first two King's Quest games had each earned Software Publishers Association gold awards for certified sales of over 100,000 units[^ref-46], and by mid-1987 Sierra's packaging advertised the first three games as "Over 500,000 Sold"[^ref-2]. The game served as a training ground for future Sierra legends—Scott Murphy and Mark Crowe (Space Quest) and Al Lowe (Leisure Suit Larry) all worked on the project[^ref-3][^ref-17].
 
 ### Remakes
 
@@ -186,7 +183,6 @@ King's Quest II continued Sierra's dominance in the adventure game market. The g
 
 **Trivia:**
 - **Kolyma's Name:** Kolyma shares its name with a river region in north-eastern Siberia infamous for Soviet gulag camps[^ref-1]
-- **Mac Backdoor:** When prompted for the master disk on Mac, holding Command and typing "4givmeken" (asking forgiveness from Ken Williams) bypasses copy protection[^ref-22]
 
 **Unused Content (The Cutting Room Floor):**[^ref-22]
 - An alternate, larger genie graphic—the final game uses a smaller genie attached to Graham's sprite
@@ -243,18 +239,14 @@ This game has been included in[^ref-1]:
 [^ref-5]: [IMDB – Romancing the Stone (1984)](https://www.imdb.com/title/tt0088011/) — Robert Zemeckis film that inspired the game's subtitle
 [^ref-6]: [The Adventure Gamer – Game 3: King's Quest II – Final Rating](https://advgamer.blogspot.com/2011/12/game-3-kings-quest-ii-final-rating.html) — PISSED rating of 53; quotes Computer Gaming World, June 1985
 [^ref-7]: [Eli's Software Encyclopedia – King's Quest II packaging (1987 PC release)](https://elisoftware.org/wiki/King%27s_Quest_II_Romancing_The_Throne_%28PC,_3_1/2%22_Disk%29_Sierra_%28020626752626%29_-_1987_USA,_Canada_Release) — Box text quoting Compute!, Consumer Software News, Computer Entertainment and QuestBusters
-[^ref-8]: [King's Quest Fandom Wiki](https://kingsquest.fandom.com/wiki/King's_Quest_II:_Romancing_the_Throne) — Story summary, easter eggs, and version details
-[^ref-9]: [GameFAQs – King's Quest II](https://gamefaqs.gamespot.com/pc/565066-kings-quest-ii-romancing-the-throne) — Plot summary and gameplay walkthrough
 [^ref-10]: [Adventure Gamers – King's Quest II: Romancing the Throne review by Emily Morganti, October 28, 2005 (archived)](https://web.archive.org/web/20240424193214/https://adventuregamers.com/articles/view/17892) — Modern retrospective rating 3/5 "Decent"
-[^ref-11]: [ScummVM Wiki – AGI](https://wiki.scummvm.org/index.php/AGI) — Technical details on walking speed and version differences
-[^ref-12]: [The King's Quest Companion by Peter Spear](https://archive.org/details/kingsquestcompan00spea) — Official companion book with 185-point breakdown and Derek Karlavaegen narrative
-[^ref-13]: [Gaming After 40 – King's Quest II](https://gamingafter40.blogspot.com/2010/03/adventure-of-week-kings-quest-ii-1985.html) — Detailed retrospective discussing bridge mechanics
+[^ref-11]: [Nerdly Pleasures – Playing King's Quest and King's Quest II Booters](https://nerdlypleasures.blogspot.com/2013/11/playing-kings-quest-and-kings-quest-ii.html) — Booters need 128KB of RAM (DOS conversions 256KB); KQ2 booter music louder and slower in tempo
+[^ref-12]: [The King's Quest Companion by Peter Spear](https://archive.org/details/kingsquestcompan00spea) — Internet Archive record of the book (1993 edition, borrow-only)
 [^ref-14]: [Atarimania – King's Quest II (Atari ST)](https://www.atarimania.com/games/atari-st-games-king-s-quest-ii-romancing-the-throne-9748) — Computer + Video Games review, August 1986, 6/10
-[^ref-15]: [IMDB – King's Quest II](https://www.imdb.com/title/tt0214855/) — User rating 7.1/10 and trivia including Thriller sample and Batmobile easter egg
-[^ref-16]: HowLongToBeat – King's Quest II *(link removed: it led to a different game's page)* — Completion time data: ~3 hours average, 37 minutes fastest
+[^ref-15]: [IMDB – King's Quest II](https://www.imdb.com/title/tt0214855/) — User rating 7.2/10 and trivia including Thriller sample and Batmobile easter egg
 [^ref-17]: [Choicest Games – King's Quest II Review](https://www.choicestgames.com/2016/06/kings-quest-ii-review.html) — Modern retrospective rating 4/10
 [^ref-18]: [Sierra Gamers – King's Quest 2 History](https://www.sierragamers.com/kings-quest-2/) — Williams discussing ideas carried over from King's Quest I
-[^ref-19]: [Sierra Chest – King's Quest II](https://www.sierrachest.com/index.php?a=games&id=2&title=kings-quest-2) — Hint book credits (Al Lowe), walkthroughs, and maps
+[^ref-19]: [Sierra Chest – King's Quest II](https://www.sierrachest.com/index.php?a=games&id=2&title=kings-quest-2) — Game history including the cancelled 1990 VGA remake, walkthroughs, and maps
 [^ref-20]: [Video Game Music Preservation Foundation – King's Quest II](https://www.vgmpf.com/Wiki/index.php/King%27s_Quest_II:_Romancing_the_Throne_%28DOS%29) — Soundtrack track list, public-domain sources, unlicensed Thriller and Batman arrangements
 [^ref-21]: [IGN – King's Quest II Walkthrough](https://www.ign.com/articles/2003/11/14/kings-quest-ii-romancing-the-throne-walkthrough-371055) — Easter eggs including Batmobile appearance
 [^ref-22]: [The Cutting Room Floor – King's Quest II](https://tcrf.net/King%27s_Quest_II:_Romancing_the_Throne) — Unused content, debug commands, and Mac "4givmeken" backdoor
@@ -262,14 +254,19 @@ This game has been included in[^ref-1]:
 [^ref-25]: [CGM – King's Quest Chapter 3 Releases April 26](https://www.cgmagonline.com/news/kings-quest-chapter-3-releases-april-26) — "Once Upon a Climb" release date
 [^ref-26]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) — Digital release with 4.1/5 rating (42 reviews)
 [^ref-27]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100) — Digital collection with 87% Very Positive rating (331 reviews)
-[^ref-28]: Internet Archive – King's Quest II (1985) *(download link removed: the game is sold commercially)* — Preservation copy of original DOS release
-[^ref-29]: DOS Zone – King's Quest II *(download link removed: the game is sold commercially)* — Browser-playable version
 [^ref-30]: [Sierra Help Pages – King's Quest II](https://sierrahelp.com/Games/KingsQuest/KQ2Help.html) — Technical support and patch information
 [^ref-31]: [PCGamingWiki – King's Quest II](https://www.pcgamingwiki.com/wiki/King%27s_Quest_II:_Romancing_the_Throne) — Modern compatibility fixes and technical information
-[^ref-34]: [Sierra Archives – King's Quest Companion Foreword](https://archive.org/details/kingsquestcompan00spea/page/n7/) — Roberta Williams endorsement calling it "invaluable"
 
-[^ref-35]: [TV Tropes – King's Quest II](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestIIRomancingTheThrone) — Easter eggs documentation including Batmobile and Batman theme
+[^ref-35]: [TV Tropes – King's Quest II](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestIIRomancingTheThrone) — Easter eggs including Batmobile and Batman theme; "The official Hintbook by Al Lowe"
 [^ref-36]: [The Adventure Gamer – Game 3: King's Quest II – Graham Treasure](https://advgamer.blogspot.com/2011/12/game-3-kings-quest-ii-graham-treasure.html) — Walking-speed settings compared with King's Quest I
 [^ref-37]: [Wikipedia – The King's Quest Companion](https://en.wikipedia.org/wiki/The_King%27s_Quest_Companion) — Derek Karlavaegen and the Eye Between the Worlds, "The Final Score" chapter, Roberta Williams back-cover endorsements
 [^ref-38]: [King's Quest Omnipedia – King's Quest II (1987)](https://kingsquest.fandom.com/wiki/King%27s_Quest_II:_Romancing_the_Throne_%281987%29) — Snake/bridle points note, hidden note in 1987 re-release
 [^ref-39]: [MobyGames – King's Quest II critic reviews (Wayback, Nov 2024)](https://web.archive.org/web/20241128150841/https://www.mobygames.com/game/123/kings-quest-ii-romancing-the-throne/reviews/) — Per-outlet scores: ASM, ST Magazine, Tilt, CU Amiga, Techtite 
+[^ref-40]: [King's Quest II manual (Sierra On-Line, 1985) – Internet Archive](https://archive.org/details/vgmuseum_sierra_kq2-manual) — "Story by Annette Childs"; Valanice "is from the kingdom of Kolyma", imprisoned "in a quartz tower"
+[^ref-41]: [Computer Gaming World Vol. 5 No. 3 (June–July 1985) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_5.3) — "Taking a Peek": "The animated graphics are quite simply the best we have ever seen on a home computer"
+[^ref-42]: [Aktueller Software Markt, July 1986 – Internet Archive](https://archive.org/details/asm_magazine-1986-07) — Atari ST review by Stefan Swiergiel (S.S.), p. 89: Grafik 10, Vokabular 10, Story 9, Atmosphäre 10
+[^ref-43]: [Computer Entertainer Vol. 4 No. 9 (December 1985) – Internet Archive](https://archive.org/details/computer-entertainer-4-9) — Review: "all the magic of a favorite fairy tale ... it's not to be missed"
+[^ref-44]: [Antic Vol. 5 No. 1 (May 1986) – Internet Archive](https://archive.org/details/1986-05-anticmagazine) — Review by Brad Kershaw
+[^ref-45]: [Computer and Video Games Issue 58 (August 1986) – Internet Archive](https://archive.org/details/ComputerAndVideoGamesIssue058Aug86) — Atari ST review by Keith Campbell: "a totally new approach to computer adventuring ... Well, almost"
+[^ref-46]: [Computer Entertainer Vol. 5 No. 11 (February 1987) – Internet Archive](https://archive.org/details/computer-entertainer-5-11) — "Adventures and More from Sierra": SPA gold medals, "certified sales of over 100,000 units each"
+[^ref-47]: [ST Magazine No. 3, pp. 44–45 (scan via Abandonware Magazines)](https://download.abandonware.org/magazines/ST%20Magazine/stmagazine_numero003/st%20magazine%20-%20N003%20-%20decembre%201985%20-%20page052%20et%20053.jpg) — "King Quest II" review: Intérêt ****, Graphisme ***, Bruitage **
