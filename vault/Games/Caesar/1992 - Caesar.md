@@ -163,7 +163,7 @@ Caesar is part of Caesar's series of city-building simulation games developed by
 [^ref-20]: https://caesar3.heavengames.com/strategy/ - Fan strategy guides with gameplay mechanics
 [^ref-21]: https://www.caesar2.com/caesar-ii-city-walkthrough-tutorial/ - Comprehensive fan strategy guide
 [^ref-22]: https://caesar4.heavengames.com/ - Fan community website for Caesar IV
-[^ref-23]: https://www.cheaters-heaven.com/trainers/29520-caesar-iii-nocd-fix-crack-for-the-sierra.html - Technical modification site
+[^ref-23]: Cheaters Heaven *(link removed 2026-10-11: a No-CD crack download for Caesar III; claim needs re-sourcing)*
 [^ref-24]: (download link removed: the game is sold commercially) - Official game description from preservation page
 [^ref-25]: (download link removed: the game is sold commercially) - Basic game catalog entry
 [^ref-26]: https://en.wikipedia.org/wiki/Caesar_(video_game) - Wikipedia article with contemporary review sources
