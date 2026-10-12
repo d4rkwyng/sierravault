@@ -10,23 +10,21 @@ series: Crazy Nick's Software Picks
 engine: SCI1.1
 protagonist: Robin Hood
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-12'
 description: 'Crazy Nick''s Software Picks: Robin Hood''s Games of Skill and Chance
-  is a mini-game compilation released by Sierra On-Line in 1992 for DOS. The game
-  features...'
+  is a 1992 Sierra On-Line budget compilation for DOS that repackages three mini-games
+  from Conquests of the Longbow: Archery, Nine Men''s Morris and Sticks.'
 tags: [1990s, crazy-nick-s-software-picks, sci, sierra, strategy]
 ---
 # Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance is a mini-game compilation released by [[Sierra On-Line]] in 1992 for DOS[^ref-1][^ref-12]. The game features Robin Hood from the acclaimed adventure game Conquests of the Longbow: The Legend of Robin Hood, and collects three skill-based mini-games that were originally included in that title[^ref-2]. In the summer of 1992, Sierra combined mini arcade sequences, casino games, and board games that were originally included in various adventure and Hoyle games, releasing these mini compilations as budget releases in blister cards under the title "Crazy Nick's Software Picks"[^ref-2].
+Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance is a mini-game compilation released by [[Sierra On-Line]] in 1992 for DOS[^ref-1][^ref-12]. It features Robin Hood from Sierra's adventure game Conquests of the Longbow: The Legend of Robin Hood, and collects three mini-games (Archery, Nine Men's Morris and Sticks) that were originally arcade sequences in that game[^ref-1][^ref-2]. It was one of five budget packs Sierra launched in summer 1992 under the Crazy Nick's Software Picks name, each sold in a blister card on a single 3.5" floppy for the PC only[^ref-2].
 
-The compilation represents Sierra's effort to do something different after years of making award-winning adventure games[^ref-2]. As part of the overlooked Crazy Nick's Software Picks series, this release offered players an affordable way to experience popular mini-games without purchasing the full adventure titles[^ref-2]. The game was distributed on a single 3.5" floppy disk as a PC-only release, making it one of five compilation releases in the Crazy Nick's series[^ref-2].
-
-The title has achieved a modest cult following among Sierra collectors and retro gaming enthusiasts, with user ratings on abandonware sites ranging from 3.67/5 to 5/5 depending on the platform[^ref-4][^ref-5]. Though often confused with other Robin Hood-themed games from the era, this budget release remains a curiosity in Sierra's extensive catalog of the early 1990s[^ref-1].
+Sierra's own InterAction magazine announced the line in its Summer 1992 issue as "a line of low-priced (but high-quality) VGA games" due in software stores "in May or June", made up of "favorite arcade and strategy sequences extracted from best-selling Sierra games"[^ref-3]. The magazine listed this pack's contents as "Archery, Quarterstaff Duel, and the medieval strategy game Nine Men's Morris" and gave the price as around $10[^ref-3].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
@@ -41,68 +39,55 @@ The title has achieved a modest cult following among Sierra collectors and retro
 
 ## Story Summary
 
-The game places players in the role of Robin Hood, the legendary outlaw of Sherwood Forest[^ref-1]. Unlike a full narrative adventure, the compilation focuses on standalone skill challenges rather than a continuous storyline. The player is tasked with helping Robin Hood succeed in three distinct mini-games that test different abilities[^ref-1].
-
-The setting draws from medieval England and the Robin Hood mythos, featuring locations such as archery ranges, taverns, and mysterious forest encounters[^ref-4]. Each mini-game presents a different scenario: competing in archery against targets, facing off against a tavern patron in a battle of wits over a board game, and engaging in physical combat with a mysterious stranger[^ref-1].
-
-The games are presented as standalone challenges without an overarching narrative structure, reflecting their origins as diversions within the larger Conquests of the Longbow adventure game[^ref-8]. Players can experience these challenges independently, making the compilation suitable for quick gaming sessions focused on skill improvement rather than story progression[^ref-1].
+The compilation has no continuous storyline. MobyGames describes it as introducing "Robin Hood of Conquests of the Longbow", with the player trying to help him in three mini-games[^ref-1]. In Archery he shoots a longbow at targets while allowing for the wind; in Nine Men's Morris he must beat a tavern visitor at the board game; in Sticks he must defeat a black-cloaked stranger in a stick fight[^ref-1]. All three were originally arcade sequences within Conquests of the Longbow[^ref-2].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The game utilizes Sierra's Creative Interpreter (SCI) engine, specifically version SCI1.1[^ref-6]. The interface employs both point-and-select and direct control methods depending on the mini-game being played[^ref-1]. Players interact with the games through mouse input, with the interface being similar to other Sierra titles of the era[^ref-9].
-
-The perspective shifts between first-person and diagonal-down views depending on which mini-game is active[^ref-1]. The visual presentation uses a fixed/flip-screen approach, with each game occupying its own distinct screen[^ref-1].
+The pack runs on Sierra's Creative Interpreter, version SCI1.1[^ref-6]. MobyGames lists both direct control and point-and-select interfaces, first-person and diagonal-down perspectives, and a fixed/flip-screen display[^ref-1]. Sticks can be played with the keyboard, mouse or joystick[^ref-2].
 
 ### Structure and Progression
 
-The compilation consists of three separate mini-games that can be played independently[^ref-1]:
+The compilation consists of three separate mini-games[^ref-1]:
 
-- **Archery:** The player must shoot from a longbow at targets while taking into account wind conditions. This first-person game requires precision and timing to hit targets accurately[^ref-1].
+- **Archery:** The player aims for the centre of the targets and adjusts for the wind, which is shown by the direction of a nearby flag. After six shots Robin collects the arrows and the player can try again as long as they like; Sierra Chest notes that "You can't win or lose with this game"[^ref-2].
 
-- **Nine Men's Morris:** A classic board game where the player must defeat a tavern visitor. Nine Men's Morris is noted as potentially one of the oldest board games in the world[^ref-2]. The game features animated cats that produce synthesized meow sounds, adding character to the tavern setting[^ref-8].
+- **Nine Men's Morris:** A two-person board game in which each player has nine pieces and tries to form "mills" (three pieces in a row along a line) to remove the opponent's pieces, until the opponent has two pieces left or cannot move[^ref-2]. Sierra Chest says it "could easily be one of the oldest board games in the world"[^ref-2]. The game is set in a tavern, and a 2011 blog post noted animated cats that make random synthesized "meow" noises[^ref-8].
 
-- **Sticks:** A combat game where the player must defeat a black-cloaked stranger in stick fighting. This real-time challenge tests reflexes and combat timing[^ref-1].
+- **Sticks:** A quarterstaff duel against a black-cloaked stranger[^ref-1][^ref-3]. Sierra Chest compares it to the battle with the Saracen at the end of Conquests of Camelot[^ref-2].
 
 ### Puzzles and Mechanics
 
-Each mini-game employs distinct mechanics suited to its gameplay style[^ref-1]. The Archery game requires players to account for environmental factors like wind when aiming their shots[^ref-1]. The pacing varies between turn-based gameplay in Nine Men's Morris and real-time action in the Archery and Sticks games[^ref-1].
+The pacing varies between turn-based play in Nine Men's Morris and real-time action in Archery and Sticks[^ref-1]. In Sticks the player has four offensive moves (an overhead great blow, head strike, body strike and leg strike) and four defensive ones (parrying the great blow, ducking a head strike, parrying a body strike and jumping a leg strike), and chooses the difficulty at the start of each game[^ref-2].
 
-The Nine Men's Morris game is a strategic board game challenge requiring players to outmaneuver their opponent by forming "mills" (three pieces in a row) while preventing the computer opponent from doing the same[^ref-2]. The Sticks game lacks proper in-game instructions according to some players, with unclear win conditions that can frustrate newcomers[^ref-8].
-
-One reviewer noted that the Archery game appeared to end after a single shot with no apparent way to continue, suggesting either a bug or an unclear interface design[^ref-8].
+In a 2011 guest post on Super Adventures in Gaming, the writer mecha-neko could not take a second shot in Archery and fought the Sticks duel "in the absence of any proper instruction"[^ref-8]. That is one player's experience. Sierra Chest's description has Archery continuing for six shots per round and documents the Sticks controls[^ref-2].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Contemporary reviews and sales data for this budget release are sparse in available research. As a low-priced compilation sold in blister pack packaging, the game did not receive the same review attention as Sierra's flagship adventure titles[^ref-2]. The game was marketed through Sierra's InterAction magazine in the Summer 1992 issue on pages 14-15[^ref-2].
+No contemporary reviews of this pack were found in the sources checked. Sierra announced the line in InterAction's Summer 1992 News Notes[^ref-3][^ref-21]. In its Winter 1992 issue, Sierra's magazine said that "Bargain software lovers made the first five titles of Nick's Picks such a hit" that five new titles were following[^ref-23]. That is Sierra's own promotional claim, not an independent sales figure.
 
 ### Modern Assessment
 
-Modern assessments of the game are mixed, with users on abandonware sites providing varying ratings. One blogger described the experience bluntly: "You'd have to be a fool to play this game"[^ref-8]. The same reviewer praised the title music as "very well produced and very appropriate MIDI music," expressing surprise that Sierra "wasted it on a game collection like this"[^ref-8].
+Later coverage is thin. In the 2011 Super Adventures in Gaming guest post, mecha-neko called the title music "very well produced and very appropriate MIDI music" and wrote, "I'm suprised they wasted it on a game collection like this"[^ref-8]. The post ends: "You'd have to be a fool to play this game"[^ref-8]. The same writer guessed that Sierra "simply nicked the minigames wholesale from the complete Robin Hood adventure game"[^ref-8]. Sierra Chest confirms that the three games were originally arcade sequences in Conquests of the Longbow[^ref-2].
 
-The game's connection to Conquests of the Longbow is noted by collectors, with speculation that Sierra "simply nicked the minigames wholesale from the complete Robin Hood adventure game"[^ref-8]. This extraction of content from larger games was the standard approach for the entire Crazy Nick's series[^ref-2].
-
-**Aggregate Scores:**
-- **MyAbandonware (Version 1):** 5/5 (7 votes)[^ref-5]
-- **MyAbandonware (Version 2):** 3.67/5 (3 votes)[^ref-4]
-- **MobyGames:** Listed but collected by only 5 players[^ref-1]
+**User ratings:**
+- **MyAbandonware:** 3.67/5 (3 votes)[^ref-4]
+- **MobyGames:** no Moby Score; collected by 5 players[^ref-1]
 
 ## Development
 
 ### Origins
 
-The Crazy Nick's Software Picks series emerged in the summer of 1992 as Sierra sought to monetize existing mini-game content from their adventure game catalog[^ref-2]. After making award-winning adventure games for years, Sierra wanted to do something different, and the Crazy Nick's series represented an early experiment in budget-priced gaming compilations[^ref-2].
-
-The Robin Hood compilation specifically drew its content from Conquests of the Longbow: The Legend of Robin Hood, a full-length adventure game that had proven popular with Sierra's audience[^ref-1]. By extracting the mini-games and packaging them separately, Sierra could offer an affordable alternative for players interested in quick skill-based challenges rather than lengthy adventure gameplay[^ref-2].
+InterAction described the first five Crazy Nick's packs as sequences "extracted from best-selling Sierra games and featuring Sierra characters as opponents", each on a single disk[^ref-3]. This pack took its three games from Conquests of the Longbow: The Legend of Robin Hood[^ref-2]. The later Winter 1992 announcement drew the same distinction: "Unlike the first round of games, which were extracted from larger Sierra games, the new Nick's Picks are all-new arcade adventures"[^ref-23].
 
 ### Production
 
-The game was developed internally at Sierra On-Line using their established SCI engine technology[^ref-1]. The release date is documented as June 5, 1992[^ref-2]. The budget nature of the release meant streamlined production and packaging, with the game distributed on a single 3.5" floppy disk[^ref-2].
+The pack was developed and published by Sierra On-Line[^ref-1]. Sierra Chest gives its first release as June 5, 1992[^ref-2], which is consistent with InterAction's "May or June" forecast[^ref-3]. It shipped in a blister card on a single 3.5" floppy[^ref-2]. InterAction compared the blister packs to Sierra/Dynamix hint book packaging[^ref-3].
 
-**Development Credits:**[^ref-1]
+**Development Credits:**[^ref-17]
 - **Director:** [[Bill Davis]]
 - **Producers:** [[Tammy Dargan]], Tony Caudill
 - **Software Supervisor:** J. Mark Hood
@@ -110,55 +95,38 @@ The game was developed internally at Sierra On-Line using their established SCI 
 - **Quality Assurance:** Michael Brosius
 - **Special Thanks:** Randy MacNeill
 
-### Technical Achievements
-
-The game utilized Sierra's SCI1.1 interpreter, the same technology powering their more ambitious adventure titles of the era[^ref-6]. The MIDI music system provided period-appropriate musical accompaniment, with the title theme noted for its quality production values[^ref-8].
-
-The Nine Men's Morris game included animated elements such as cats that produced synthesized meow sounds, demonstrating the engine's capability for character animations even in simple board game contexts[^ref-8].
-
 ### Technical Specifications
 
-**DOS Version:**[^ref-1][^ref-4]
-- **Resolution:** Not specified in available sources
-- **Audio:** MIDI music support[^ref-8]
+**DOS Version:**
+- **Engine:** SCI1.1[^ref-6]
+- **Graphics:** VGA[^ref-3]
+- **Audio:** "major sound card support" per InterAction[^ref-3]; MIDI title music[^ref-8]
 - **Media:** Single 3.5" floppy disk[^ref-2]
-- **File Size:** Approximately 632 KB[^ref-4]
+- **Download size:** MyAbandonware's archive is 632 KB[^ref-4]
 
-**Perspectives:**[^ref-1][^ref-4]
-- First-person (Archery)
-- Diagonal-down (Board games)
+**Perspectives:**[^ref-1]
+- First-person
+- Diagonal-down
 - Fixed/flip-screen display
 
 ### Cut Content
 
-No specific cut content has been documented for this compilation. The games appear to have been extracted directly from Conquests of the Longbow with minimal modification[^ref-8].
+No cut content has been documented for this compilation.
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | June 5, 1992 | DOS | Initial release[^ref-2] |
+| Original release | June 5, 1992 | DOS | Initial release[^ref-2] |
 
-Some sources list 1993 as a release date, suggesting possible regional variations or re-releases[^ref-5].
-
-**SCI Interpreter Versions:**[^ref-6]
-
-| Game Version | Interpreter | Type | Notes |
-|--------------|-------------|------|-------|
-| 1.0 | SCI1.1 | SCI | Initial DOS release |
-
-### Technical Issues
-
-User comments on abandonware sites have reported issues with incorrect game files being uploaded to preservation archives. One user noted: "Alas! It is 'Crazy Nick's Software Picks: King Graham's Board Game Challenge'. Please, replace the screenshots and the installation package with a proper game"[^ref-5]. This confusion between different Crazy Nick's titles has complicated preservation efforts.
-
-The Archery game has been reported to have potential issues with game flow, appearing to end after one shot without a clear way to continue[^ref-8]. The Sticks game lacks proper instructions, leaving win conditions unclear to players[^ref-8].
+ScummVM's SCI engine detects this pack under the game ID `cnick-longbow`, as an English DOS release[^ref-22].
 
 ### Easter Eggs and Trivia
 
-- **Board Game History:** Nine Men's Morris featured in the game "could easily be one of the oldest board games in the world"[^ref-2]
-- **Tavern Atmosphere:** The Nine Men's Morris game includes animated cats that make synthesized meow sounds, adding period-appropriate ambiance to the tavern setting[^ref-8]
-- **Music Reuse:** The title music may have been reused directly from Conquests of the Longbow, with one reviewer noting it seemed too high-quality to have been created specifically for this budget release[^ref-8]
-- **Blister Pack Distribution:** The game was sold in budget blister card packaging, a departure from Sierra's typical box releases[^ref-2]
+- **Board Game History:** Sierra Chest says Nine Men's Morris "could easily be one of the oldest board games in the world"[^ref-2]
+- **Tavern Cats:** The Nine Men's Morris tavern has animated cats that make random synthesized meow noises[^ref-8]
+- **Music Reuse:** The SAIG writer speculated that the title music was "simply the same title music from Conquests of the Longbow re-used"; this is unconfirmed[^ref-8]
+- **Name Change:** InterAction's announcement called the stick fight "Quarterstaff Duel"[^ref-3]; Sierra Chest and MobyGames call it "Sticks"[^ref-1][^ref-2]
 
 ## Voice Cast
 
@@ -168,37 +136,33 @@ This DOS release does not feature voice acting.
 
 ### Sales and Commercial Impact
 
-The Crazy Nick's Software Picks series represented Sierra's experiment with budget-priced gaming compilations in the early 1990s[^ref-2]. While specific sales figures are not available, the series was described as "overlooked," suggesting modest commercial performance compared to Sierra's flagship adventure titles[^ref-2].
-
-The budget pricing and blister pack distribution made these titles accessible to a broader audience, though they lacked the marketing push of Sierra's major releases[^ref-2].
+No sales figures were found. Sierra's Winter 1992 InterAction claimed the first five Nick's Picks were "such a hit" that a second, all-new set of five titles followed[^ref-23].
 
 ### Collections
 
-The game was released as part of the Crazy Nick's Software Picks series, which consisted of five total compilation releases[^ref-2]. Other titles in the series included:
+The pack was one of five Crazy Nick's Software Picks compilations[^ref-2][^ref-7]. The others were:
 - Crazy Nick's Software Picks: Leisure Suit Larry's Casino[^ref-10]
 - Crazy Nick's Software Picks: Parlor Games with Laura Bow[^ref-11]
 - Crazy Nick's Software Picks: King Graham's Board Game Challenge[^ref-9]
+- Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack[^ref-7]
+
+The same three games remain playable within Conquests of the Longbow: The Legend of Robin Hood[^ref-2].
 
 ### Fan Projects
 
-No significant fan remake or modification projects have been documented for this specific title. The game can be run through ScummVM, which provides compatibility with Sierra's SCI engine games on modern systems[^ref-6]. ScummVM 2.1 and later versions support cloud saves on third-party cloud storage services[^ref-6]. The game is documented in various gaming databases[^ref-13][^ref-14][^ref-15][^ref-16][^ref-18][^ref-19][^ref-20].
+No fan remake or modification projects have been documented for this title. ScummVM's SCI engine includes a detection entry for it (`cnick-longbow`)[^ref-22]. PCGamingWiki notes that ScummVM 2.1 and later support cloud saves on third-party cloud storage services[^ref-6].
 
 ### Related Publications
 
-- **InterAction Magazine (Summer 1992):** Pages 14-15 featured coverage of the Crazy Nick's series release[^ref-2]
+- **InterAction Vol. V No. 2 (Summer 1992), News Notes:** "Crazy Nick Launches Budget Software Line" announcement[^ref-3][^ref-21]
+- **InterAction Vol. V No. 4 (Winter 1992), News Notes:** "New Nick's Picks" item on the line's second set[^ref-23]
 
-No dedicated hint book or strategy guide appears to have been published for this budget release.
-
-### Critical Perspective
-
-Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance occupies an unusual position in Sierra's gaming legacy. As a budget compilation extracting content from a larger adventure game, it represents an early attempt at game content recycling that would become more common in the industry's later years[^ref-2].
-
-The game's modest reception and relative obscurity compared to its source material—Conquests of the Longbow—illustrates the challenges of decontextualizing mini-games from their narrative frameworks[^ref-8]. While the individual games (particularly Nine Men's Morris) have historical significance as digital adaptations of ancient pastimes[^ref-2], the compilation itself serves primarily as a curiosity for Sierra collectors and historians interested in the company's budget-line experiments of the early 1990s.
+No dedicated hint book or strategy guide is known for this budget release.
 
 ## Purchase
 
 **Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+- Not sold digitally (the games are playable within [Conquests of the Longbow on GOG](https://www.gog.com/en/game/conquests_of_the_longbow))
 
 ## Downloads
 
@@ -218,21 +182,18 @@ The game's modest reception and relative obscurity compared to its source materi
 
 ## References
 
-[^ref-1]: [MobyGames – Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance](https://www.mobygames.com/game/95474/crazy-nicks-software-picks-robin-hoods-games-of-skill-and-chance/) – release date, developer, publisher, credits, gameplay description, technical specs
-[^ref-2]: [Sierra Chest – Crazy Nick's Software Picks: Robin Hood](https://sierrachest.com/index.php?a=games&id=719&title=crazy-nick-robin&fld=general) – release date, development context, series information, Nine Men's Morris history, publication info
-[^ref-4]: [MyAbandonware – Robin Hood's Games of Skill and Chance (1992)](https://www.myabandonware.com/game/crazy-nick-s-software-picks-robin-hood-s-games-of-skill-and-chance-bo2) – release date, file size, user ratings, genre tags
-[^ref-5]: [MyAbandonware – Robin Hood's Game of Skill and Chance (1993)](https://www.myabandonware.com/game/crazy-nick-s-software-picks-robin-hood-s-game-of-skill-and-chance-36w) – alternate version listing, user comments, ratings
-[^ref-6]: [PCGamingWiki – Robin Hood's Games of Skill and Chance](https://www.pcgamingwiki.com/wiki/Robin_Hood's_Games_of_Skill_and_Chance) – SCI1.1 engine, ScummVM compatibility, genre classification
-[^ref-7]: [PCGamingWiki – Series: Crazy Nick's Software Picks](https://www.pcgamingwiki.com/wiki/Series:Crazy_Nick's_Software_Picks) – series information, developer, publisher
-[^ref-8]: [Super Adventures in Gaming – Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance](http://superadventuresingaming.blogspot.com/2011/03/crazy-nicks-software-picks-robin-hoods.html) – gameplay review, music quality, game descriptions, technical issues
-[^ref-9]: [MobyGames – Crazy Nick's Software Picks: King Graham's Board Game Challenge](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/) – series context, similar interface, development team
-[^ref-10]: [MobyGames – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.mobygames.com/game/92556/crazy-nicks-software-picks-leisure-suit-larrys-casino/) – series context, release date, developer
-[^ref-11]: [MobyGames – Crazy Nick's Software Picks: Parlor Games with Laura Bow](https://www.mobygames.com/game/95473/crazy-nicks-software-picks-parlor-games-with-laura-bow/) – series context, SCI engine, developer
-[^ref-12]: [RAWG – Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance](https://rawg.io/games/crazy-nicks-software-picks-robin-hoods-games-of-sk) – release date, developer, publisher, platform
-[^ref-13]: [Giant Bomb](https://www.giantbomb.com/crazy-nicks-software-picks/3025-5267/) – Game database with series information
-[^ref-14]: [IGDB](https://www.igdb.com/games/crazy-nicks-software-picks-robin-hoods-games-of-skill-and-chance) – Internet Game Database entry
-[^ref-15]: GameFAQs *(link removed: it led to a different game's page)* – Game database entry
-[^ref-16]: [Wikidata](https://www.wikidata.org/wiki/Q28687789) – Structured metadata
-[^ref-18]: [UVList](https://www.uvlist.net/game-217098-crazy-nicks-software-picks-robin-hoods-games-of-skill-and-chance) – Universal Videogame List
-[^ref-19]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Crazy_Nick%27s_Software_Picks) – Wiki information
-[^ref-20]: [LaunchBox Games DB](https://gamesdb.launchbox-app.com/games/details/85635) – Game database with metadata
+[^ref-1]: [MobyGames – Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance](https://www.mobygames.com/game/95474/crazy-nicks-software-picks-robin-hoods-games-of-skill-and-chance/) – release year, developer, publisher, description of the three mini-games, perspective/interface/pacing, collected-by count
+[^ref-2]: [Sierra Chest – Crazy Nick's Software Picks: Robin Hood](https://sierrachest.com/index.php?a=games&id=719&title=crazy-nick-robin&fld=general) – first release 1992-06-05, series context, origin in Conquests of the Longbow, Archery/Nine Men's Morris/Sticks rules and controls
+[^ref-3]: [InterAction Magazine, Vol. V No. 2, Summer 1992 (Sierra On-Line), "News Notes"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) – announcement of the Crazy Nick's line: VGA, May/June availability, contents, about $10, blister packs, sound card support
+[^ref-4]: [MyAbandonware – Robin Hood's Games of Skill and Chance (1992)](https://www.myabandonware.com/game/crazy-nick-s-software-picks-robin-hood-s-games-of-skill-and-chance-bo2) – user rating, download size
+[^ref-6]: [PCGamingWiki – Robin Hood's Games of Skill and Chance](https://www.pcgamingwiki.com/wiki/Robin_Hood%27s_Games_of_Skill_and_Chance) – SCI1.1 engine, ScummVM cloud-save note
+[^ref-7]: [PCGamingWiki – Series: Crazy Nick's Software Picks](https://www.pcgamingwiki.com/wiki/Series:Crazy_Nick%27s_Software_Picks) – the five titles in the series
+[^ref-8]: [Super Adventures in Gaming – Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance](http://superadventuresingaming.blogspot.com/2011/03/crazy-nicks-software-picks-robin-hoods.html) – 2011 guest post by mecha-neko: play impressions, music, tavern cats
+[^ref-9]: [MobyGames – Crazy Nick's Software Picks: King Graham's Board Game Challenge](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/) – sibling title in the series
+[^ref-10]: [MobyGames – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.mobygames.com/game/92556/crazy-nicks-software-picks-leisure-suit-larrys-casino/) – sibling title in the series
+[^ref-11]: [MobyGames – Crazy Nick's Software Picks: Parlor Games with Laura Bow](https://www.mobygames.com/game/95473/crazy-nicks-software-picks-parlor-games-with-laura-bow/) – sibling title in the series
+[^ref-12]: [RAWG – Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance](https://rawg.io/games/crazy-nicks-software-picks-robin-hoods-games-of-sk) – release year, developer, publisher, platform
+[^ref-17]: [MobyGames – Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance credits](https://www.mobygames.com/game/95474/crazy-nicks-software-picks-robin-hoods-games-of-skill-and-chance/credits/) – DOS credits (7 people)
+[^ref-21]: [Sierra Chest – Crazy Nick's Software Picks: Robin Hood – Publications](https://sierrachest.com/index.php?a=games&id=719&title=crazy-nick-robin&fld=publications) – InterAction Vol. 5 No. 2, Summer 1992, pages 14-15, News Notes
+[^ref-22]: [ScummVM source – engines/sci/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) – detection entry "cnick-longbow" for this pack (English, DOS)
+[^ref-23]: [InterAction Magazine, Vol. V No. 4, Winter 1992 (Sierra On-Line), "News Notes"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US) – "New Nick's Picks": the first five titles called "such a hit", and described as extracted from larger Sierra games
