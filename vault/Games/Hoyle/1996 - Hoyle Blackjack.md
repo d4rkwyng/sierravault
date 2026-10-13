@@ -2,87 +2,86 @@
 title: Hoyle Blackjack
 release_year: 1996
 developer: Sierra On-Line
-designer: [James Parker, Jason Piel, Pat Cashman, Rodney Sherwood, Scott Bodenbender]
-publisher: Sierra Entertainment
+designer: []
+publisher: Sierra On-Line
 genre: Casino
-platforms: [DOS, Windows, Mac]
+platforms: [Windows]
 series: Hoyle
-engine: Proprietary (Windows)
+engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: Hoyle Blackjack was a comprehensive blackjack simulation developed by
-  Sierra On-Line that brought "all the challenge and fun of casino blackjack home
-  with...
+last_updated: '2026-10-12'
+description: Hoyle Blackjack was a 1996 Windows CD-ROM blackjack simulation developed
+  and published by Sierra On-Line, with talking computer opponents, Tutorial, Tournament
+  and Casino modes, and Internet play via the Sierra Internet Gaming System.
 tags: [1990s, hoyle, sierra, simulation]
 ---
 # Hoyle Blackjack
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Hoyle Blackjack was a comprehensive blackjack simulation developed by Sierra On-Line that brought "all the challenge and fun of casino blackjack home with 16 different games from the official name in gaming"[^ref-1]. This 1996 release was designed as part of Sierra's Hoyle series of card and board game collections, carrying the prestigious Hoyle brand that had been synonymous with card game rules since the 18th century[^ref-2]. The series was created as "a less violent alternative to action games"[^ref-2] and became a significant part of Sierra's game portfolio throughout the 1990s and 2000s.
+Hoyle Blackjack is a blackjack simulation developed and published by Sierra On-Line for Windows on CD-ROM[^ref-6][^ref-21][^ref-22]. It was first released in the United States on 30 June 1996[^ref-31][^ref-33]. It was part of Sierra's licensed Hoyle line of card and casino games[^ref-6].
 
-The game featured multiple variants of blackjack with customizable casino rules, allowing players to "select how many times you're allowed to split or whether you can buy insurance"[^ref-3]. GameSpot's review praised the simulation depth, noting that "Hoyle Blackjack is a full-featured blackjack simulation that captures many of the elements of gambling in a real casino"[^ref-4]. The game included animated characters with full voice acting, featuring performers such as Pat Cashman and Rodney Sherwood[^ref-5], and offered both single-player and multiplayer options via network or modem connections[^ref-6].
+The box tagline promised "ANTE UP FOR AUTHENTIC CASINO BLACKJACK!", and the blurb offered "three modes of game play to instruct and challenge you"[^ref-7]. GameSpot's Tal Blevins called it "a full-featured blackjack simulation that captures many of the elements of gambling in a real casino"[^ref-4]. He opened his review by placing the Hoyle series as entertainment for players "who enjoy something a little less violent than the slew of enormously popular gorefest games available today for the PC"[^ref-4].
 
-The tagline "ANTE UP FOR AUTHENTIC CASINO BLACKJACK!" captured the game's appeal to players seeking realistic gambling experiences without risking real money[^ref-7]. The marketing emphasized that "though the basic rules are simple, the strategies of the pros are complex"[^ref-1], positioning the game as both accessible to newcomers and deep enough for serious players.
+The game sold for $14.95[^ref-27]. Players could face the dealer alone or share the table with up to three animated, talking computer opponents[^ref-7][^ref-27]. Up to three other human players could join over the Internet through the Sierra Internet Gaming System on Windows 95[^ref-4][^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-6]
-> **Designer:** James Parker, Pat Cashman, Rodney Sherwood, Scott Bodenbender, Steven Horn[^ref-6]
-> **Publisher:** Sierra Entertainment[^ref-6]
-> **Platforms:** DOS, Windows, Mac[^ref-6]
-> **Release Year:** 1996
+> **Publisher:** Sierra On-Line[^ref-6]
+> **Producer:** Stephen H. Van Horn[^ref-24]
+> **Creative Director:** Julie Pogue Barnes[^ref-24]
+> **Platforms:** Windows (CD-ROM)[^ref-6][^ref-26]
+> **Release Date:** 30 June 1996 (US)[^ref-31][^ref-33]
 > **Series:** Hoyle
 > **Sierra Lineage:** Core Sierra
-> **Engine:** Proprietary (Windows)
+> **Engine:** Unknown/unnamed[^ref-33]
 > **Protagonist:** N/A
 
 ## Story Summary
 
-Hoyle Blackjack focused purely on gameplay rather than narrative elements. The game placed players at virtual casino tables where "the object of the game is to beat the dealer (not the other players), with a hand of cards that does not go over a total of twenty-one"[^ref-8]. Players experienced the atmosphere of a Las Vegas casino through carefully crafted virtual environments and entertaining dealer characters.
+Hoyle Blackjack has no story. As SierraChest's rules walkthrough puts it, "the object of the game is to beat the dealer (not the other players), with a hand of cards that does not go over a total of twenty-one"[^ref-8].
 
-Players would interact with animated casino characters including "a sardonic James Bond type and a southern gentleman"[^ref-9], each with distinct personalities and voice lines. The cast of characters included Rick, James, Mrs. O'Shea, Kathryn, and Sterling[^ref-6], providing variety and entertainment between hands. These characters would comment on gameplay, react to wins and losses, and occasionally offer strategic advice or humorous observations.
-
-The game captured the social atmosphere of casino gambling, emphasizing that blackjack is fundamentally a battle between player and dealer rather than player versus player. This design philosophy informed both the AI behavior and the character interactions throughout the experience.
+The flavour comes from the people at the table. MobyGames lists "the sultry Kathryn, the suave James Bond wannabe Sterling, the beer-drinking worker Jack, and the purse-clutching Mrs. O'Shea among others"[^ref-6]. Players could choose a male or female dealer[^ref-6][^ref-27]. World Village's reviewer noted that a careless move could get you called "Ace Ventura, Bet Defective" by Jack[^ref-27].
 
 ## Gameplay
 
-### Interface and Controls
+### Table and Bankroll
 
-The game featured a first-person perspective at the blackjack table with mouse and keyboard controls[^ref-10]. Players observed the action from their seat at the table, with the dealer and any other players visible across the felt. The interface was designed for clarity, with chip amounts, bet totals, and card values clearly displayed.
+Players started with "$5,000 in chips and $5,000 in the bank", which they could draw on through an ATM in the casino[^ref-4]. MobyGames classes the game as first-person card play[^ref-6]. Old PC Gaming also notes that the game counts cards for you and keeps statistics screens[^ref-3].
 
-Players started with "$5,000 in chips and $5,000 in bank"[^ref-11], providing substantial virtual capital to explore different betting strategies. The banking system allowed players to manage their funds between sessions, adding persistence to the gambling experience. Careful bankroll management became part of the strategic depth, teaching players the importance of money management in real casino environments.
-
-The game included a blackjack calculator and tutorial features to help players learn optimal strategies[^ref-7]. This educational component distinguished Hoyle Blackjack from simple gambling games, offering players the tools to genuinely improve their understanding of blackjack strategy. Game instructions were provided in a comprehensive .hlp file on the CD-ROM[^ref-12].
+A sample hand in that walkthrough shows the shoe at the top right of the screen. A yellow marker shows when the deck will be reshuffled[^ref-8]. Play instructions were supplied as a Windows help (.hlp) file on the CD-ROM rather than a printed manual[^ref-28].
 
 ### Game Modes
 
-Hoyle Blackjack offered "three modes of game play to instruct and challenge you"[^ref-7], catering to players of all skill levels:
+The box describes three modes[^ref-7]:
 
-**Tutorial Mode**: An educational experience where players learned the fundamentals of blackjack, including basic rules, betting procedures, and optimal strategy decisions. The tutorial explained concepts like splitting pairs, doubling down, and insurance bets.
+- **Tutorial Mode**: "Get hints on every aspect of the game."
+- **Tournament Mode**: "put that knowledge to work, and build your fortune."
+- **Casino Mode**: "just cut loose and have fun."
 
-**Practice Mode**: Free play allowing players to experiment with different strategies without pressure. This mode was ideal for testing betting systems or learning to read specific game situations.
+GameSpot also mentions a tutorial and hint mode for beginners[^ref-4]. World Village praised "a number of helpful betting charts that even more experienced high rollers might find helpful"[^ref-27].
 
-**Tournament Mode**: Competitive play against computer opponents with structured goals and increasingly challenging competition. Tournament play added stakes and progression to the experience.
+### Rules and Options
 
-Players could participate in tournament play against computer opponents or compete with up to three other human players via network connections[^ref-6]. The game supported both Internet and modem multiplayer options[^ref-6], allowing friends to gather virtually for casino nights.
+The game offered a choice of casino play styles and a style customizer[^ref-4]. Sourced options include:
 
-### Blackjack Variants and Rules
+- **Decks:** the number of decks at the table[^ref-4][^ref-6]
+- **Splits:** the number of splits allowed[^ref-4][^ref-6]
+- **Double down options**[^ref-6][^ref-7]
+- **Insurance and Surrender**[^ref-7]
+- **Bet limits**[^ref-6]
+- **Dealer Hits On Soft 17:** an option that the walkthrough notes "is more favorable for the casino"[^ref-8]
 
-The core mechanics revolved around traditional blackjack rules with extensive customization options. Players could modify splitting rules, insurance options, and other casino-specific regulations[^ref-3]. The game included 16 different blackjack variants[^ref-1], providing variety beyond standard casino blackjack:
+Old PC Gaming adds that "you can select how many times you're allowed to split or whether you can buy insurance". It also notes that you can adjust how efficiently the dealer shuffles[^ref-3].
 
-The customization options allowed players to recreate specific casino rules they might encounter in real gambling establishments. Key customizable elements included:
+An attitude adjuster for the dealer (World Village's "attitude meter") changes the table's demeanour[^ref-4][^ref-27]. MobyGames describes the same feature as adjusting "the talkativeness of the computer opponents and dealer"[^ref-6].
 
-- **Splitting Rules**: How many times players can split pairs, whether they can split after splitting, and restrictions on splitting specific cards
-- **Doubling Rules**: When players can double down, whether doubling after splitting is permitted
-- **Insurance Options**: Whether insurance bets are available and their specific payouts
-- **Dealer Rules**: Whether the dealer hits or stands on soft 17
-- **Deck Count**: Number of decks used (affects card counting strategies)
-- **Surrender Options**: Early or late surrender availability[^ref-3]
+### Multiplayer
 
-Advanced players could utilize the built-in blackjack calculator to optimize their playing strategies[^ref-7]. The calculator analyzed hands and recommended optimal plays based on basic strategy, helping players learn and internalize the mathematically correct decisions for each situation.
+GameSpot notes that "with the Windows 95 network option", up to three other human players could join "via the Sierra Internet Gaming System"[^ref-4]. World Village describes clicking the Network Game option and logging on to "Sierra's WWW blackjack page"[^ref-27]. The credits list a separate Internet Development Team (SIGS)[^ref-24]. The game was later included in Sierra's On-Line Games Collection Series (1997)[^ref-6][^ref-33].
 
 ## Reception
 
@@ -90,106 +89,66 @@ Advanced players could utilize the built-in blackjack calculator to optimize the
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| GameSpot | 7.8/10 | "Sierra has once again released an addictive, economical card game"[^ref-13] |
-| MobyGames Critics | 63% | Professional critics aggregate[^ref-12] |
-| MobyGames Critics (1996 version) | 78% | Higher scores for original release[^ref-6] |
-| MobyGames User Rating | 6.9/10 | User aggregate rating[^ref-6] |
+| GameSpot (Tal Blevins, 1 Aug 1996) | 7.8/10 | "Sierra has once again released an addictive, economical card game"[^ref-4] |
+| World Village – Gamer's Zone (Robert Coffey) | 4/5 | "All this for just $15? It's a real bargain."[^ref-25][^ref-27] |
+| Game Revolution | B (75/100) | Joint review of Hoyle Blackjack & Solitaire, as listed on MobyGames[^ref-25] |
+| MobyGames critic average | 78% | Based on 3 ratings[^ref-25] |
 
 ### Critical Analysis
 
-GameSpot's Tal Blevins delivered a positive assessment, stating that "Sierra has once again released an addictive, economical card game and has even thrown in extra bells and whistles to boot"[^ref-13]. The review highlighted the game's value proposition, noting the substantial content relative to the modest price point.
+Blevins praised the extras. He wrote that the table "is textured so realistically you nearly feel the felt under your mouse", and that the dealer and the other characters comment on your play[^ref-4]. He concluded: "If you're searching for a blackjack simulation that won't break the bank, Hoyle Blackjack is the finest you'll find"[^ref-4].
 
-Blevins concluded that "If you're searching for a blackjack simulation that won't break the bank, Hoyle Blackjack is the finest you'll find"[^ref-4]. This recommendation positioned the game as the definitive choice for budget-conscious players seeking authentic blackjack experiences.
-
-The game's character interactions received specific praise. Critics noted that the animated dealers and their voice lines added personality to what could otherwise be a purely mathematical exercise. The "sardonic James Bond type and a southern gentleman"[^ref-9] provided entertainment value between hands.
-
-Tim Soete posed the rhetorical question "Care to take part in a little old-fashioned casino squandering at home?"[^ref-9], capturing the appeal of virtual gambling without financial risk.
-
-### Modern Assessment
-
-Later versions of the game received mixed reception as the market evolved. Amazon customers rated the 2013 Encore re-release at just 1.2/5 stars[^ref-1], reflecting both technical issues with compatibility and changing expectations. The 2000 Hoyle Casino compilation showed a more moderate 3.0/5 rating[^ref-9]. VGTimes gave the game a 5.5/10 score[^ref-10].
-
-However, nostalgic players on the GOG.com community page expressed enthusiasm for the series, with one user declaring "Hoyle games are gems! They are the best!"[^ref-15]. This sentiment reflected the fond memories many players retained from the series' heyday.
-
-The declining scores for later versions primarily reflected technical compatibility issues rather than fundamental problems with the original game design. The 1996 original remained well-regarded among retro gaming enthusiasts who could run it through emulation or period-appropriate hardware.
+Robert Coffey of World Village called it "a new addictive time-waster on the hard drive". He noted that the game could be installed fully to the hard drive, but that "all the smart-alecky audio files are played off the CD"[^ref-27]. He summed it up: "Hoyle Blackjack provides simple, addictive fun, pleasant Internet socializing, and, through its charts and tips, a very real chance of improving your blackjack play as well"[^ref-27].
 
 ## Development
 
-### Origins
-
-Hoyle Blackjack was developed by Sierra On-Line as part of their strategy to diversify beyond adventure games into more accessible entertainment software[^ref-16]. The company recognized that card and casino games offered broad appeal and relatively straightforward development compared to narrative-driven adventure games.
-
-The game was part of Sierra's established Hoyle brand, which carried significant weight among card game enthusiasts. By licensing the Hoyle name, Sierra could position their products as authoritative sources for proper rules and strategies[^ref-2].
-
-Some fans later debated whether the Hoyle series truly constituted core "Sierra" games, with one community member noting that "many more titles were eventually released and to me they aren't really an important part of the Sierra we know and love"[^ref-2]. This perspective reflected tensions between Sierra's adventure game legacy and their expansion into casual entertainment.
-
 ### Production
 
-The development team included designers James Parker, Jason Piel, Pat Cashman, Rodney Sherwood, Scott Bodenbender, and Steven Horn[^ref-6]. The inclusion of voice actors Pat Cashman and Rodney Sherwood in both design and performance roles indicated an integrated approach to character development[^ref-5].
+Hoyle Blackjack was produced in-house at Sierra On-Line[^ref-6]. MobyGames credits 37 people[^ref-24]. No designer is credited. The key credits are[^ref-24][^ref-30]:
 
-Voice acting featured:
-- **Pat Cashman**: Primary voice performer
-- **Rodney Sherwood**: Primary voice performer
-- **Natacha LaFerrière**: Supporting voice work (later versions)
-- **Cynthia Doyer**: Supporting voice work (later versions)
-- **Kate Myre**: Supporting voice work (later versions)
-- **James Parker**: Supporting voice work[^ref-11][^ref-6]
+- **Producer:** Stephen H. Van Horn
+- **Creative Director:** Julie Pogue Barnes
+- **Lead Engineer:** Earl Malmrose; **Engineers:** Tim Knappenberger, Frank T. Hollander
+- **Script:** Rodney Sherwood, Allan Batchelder, Joe Vespaziani
+- **Character Animators:** Rabih AbouJaoudé, Heather Ivy
+- **Artists:** Tina Dickey, Gayle Rowbotham, Julie Pogue Barnes
+- **Composer & Sound Designer:** Jonathan Cunningham
+- **Sound Effects & Editing:** James Ackley, Keith Bowers, Kevin Cannon
+- **Voice Actors:** Pat Cashman, Rodney Sherwood, Kate Myre, Natacha LaFerrière, James Parker
 
-The musical score was composed by Evan Schiller, Jonathan Cunningham, and Robert Atesalp[^ref-6], providing atmospheric casino ambiance that enhanced immersion.
+The voices were recorded at Clatter & Din Studios in Seattle[^ref-24]. The Internet play layer was built by a separate SIGS team: producer Jack Staeher, system architects John Fawcett and Robert W. Jepson, and Windows programmers Max Coburn and Mike Forkey[^ref-24].
 
-### Technical Achievements
+The CD also carried the "Larry Pops Up" mini program, in which Larry appears after a period of inactivity and says a funny line. It also included a Hoyle 5: Classic Games trailer and demos of Indy Car Racing 2 and The Lost Mind of Dr. Brain[^ref-28].
 
-Hoyle Blackjack built its table around talking computer opponents, letting players adjust how chatty the dealer and opponents were, pick a male or female dealer, and play against "colorful opponents each with their own personality"[^ref-6]. The release packaged **16 distinct blackjack rule variants** with deep customization (splitting depth, doubling rules, insurance, dealer hit-on-soft-17, deck count, surrender variants) tuned to recreate specific real-world casino house rules — a level of rules-engine flexibility unusual in 1996 casino software[^ref-1][^ref-3]. A built-in **blackjack strategy calculator and three-mode learning progression** (Tutorial, Practice, Tournament) layered education on top of play, doubling the product as a strategy-training tool[^ref-7]. The title also shipped **multiplayer support for up to four human players via internet or modem** plus a persistent $5,000-chip + $5,000-bank banking system that tracked money management across sessions — both rare features for budget casino titles of the era[^ref-6][^ref-11]. Sierra paired the technical layer with a fully voice-acted casino-table cast (Pat Cashman, Rodney Sherwood, James Parker, and supporting performers), producing what GameSpot called a simulation that "captures many of the elements of gambling in a real casino" — a benchmark for the budget casino category[^ref-4][^ref-5][^ref-6].
+### Technical Details
 
-### Technical Implementation
+Minimum requirements varied by source:
 
-**System Requirements (1996 Version)**[^ref-6]:
-- Processor: 66MHz 486 (Pentium recommended)
-- RAM: 8MB for Windows 95
-- Operating System: DOS or Windows 95
-- Sound: Sound Blaster compatible
+- **SierraChest:** 486-33 CPU, 4 MB RAM, SVGA 640×480, mouse, 2× CD-ROM, optional sound card[^ref-29].
+- **World Village scorecard:** "486DX/33MHZ or faster, 2X CD-ROM drive, 4MB RAM, Windows 3.1 or Windows 95 (Win 95 required for Internet play)"[^ref-27].
+- **MobyGames:** Intel i486, 4 MB RAM, and Windows 95 as the minimum OS[^ref-26].
 
-**System Requirements (Later Versions)**[^ref-17]:
-- Processor: Pentium 166 MHz
-- RAM: 32MB
-- Operating System: Windows 95/98/Me/2000/XP
+SierraChest's tech-support page explains how to fix an "Unexpected DOS error: 21" when the game runs under Windows 3.x in DOSBox[^ref-29].
 
-The game's cast of voiced opponents — among them "the sultry Kathryn, the suave James Bond wannabe Sterling, the beer-drinking worker Jack, and the purse-clutching Mrs. O'Shea" — gave the table its personality.[^ref-6]
+### Community View
+
+Sierra fans have debated how far the later Hoyle line belongs to "classic" Sierra. In a 2010 SierraGamers forum thread, one member said the first three Hoyle games were "Definitely Sierra classics". He added: "many more titles were eventually released and to me they aren't really an important part of the Sierra we know and love"[^ref-2].
 
 ## Legacy
 
-### Series Evolution
-
-The Hoyle series evolved significantly over its two-decade run. Hoyle Blackjack contributed to this growth by establishing the template for standalone casino game releases within the broader Hoyle umbrella.
-
-The franchise went through multiple iterations including Hoyle Casino 98, Hoyle Casino 99, Hoyle Casino 2000, and Hoyle Casino 2004[^ref-6]. Each version added features, improved graphics, and expanded the game selection while maintaining the core Hoyle identity.
-
-Graphics evolved significantly over the series lifespan:
-- **1996-2003**: Traditional 2D graphics with sprite-based characters
-- **2000**: Hybrid approach with some 3D elements
-- **2005 onwards**: Full 3D environments and characters[^ref-6]
-
 ### Corporate Changes
 
-In 2006, as part of Sierra's corporate reorganization, the Hoyle franchise was moved to Bellevue Studio[^ref-19]. Michael Ryder, Sierra's president at the time, explained that "this reorganization creates a more efficient operating model"[^ref-19]. The Hoyle brand continued under new management, though with different development priorities.
-
-The reorganization reflected broader changes in the gaming industry and Sierra's corporate structure. The Hoyle brand's move to a specialized studio indicated its continued commercial viability while acknowledging it required different expertise than Sierra's core game development.
+In a 2001 reorganization that closed the Dynamix studio, Sierra moved the Hoyle franchise, along with Tribes and SWAT, to its Bellevue, Washington studio[^ref-19][^ref-32]. Sierra president Michael Ryder said "this reorganization creates a more efficient operating model"[^ref-19]. GameSpot's archived copy of that report carries a 2006 date stamp. However, Dynamix was closed on 14 August 2001[^ref-32].
 
 ### Preservation and Availability
 
-The original 1996 version remains accessible through Internet Archive preservation efforts[^ref-5]. Later versions received retail re-releases through Encore Software, though these faced criticism for compatibility issues with modern operating systems[^ref-1][^ref-21][^ref-22][^ref-23].
-
-The game's influence on casino game design persists in modern software, though contemporary offerings have far surpassed the technical capabilities of the 1996 original. The Hoyle brand name continues to carry weight among players seeking authentic card game experiences.
+The 1996 CD is preserved at the Internet Archive[^ref-5]. MobyGames lists the 2005 Hoyle Blackjack Series as a separate, later game[^ref-6]. Encore's later download of that title is not this 1996 release.
 
 ## Downloads
 
-**Purchase / Digital Stores**
-- [Amazon - Encore Re-release](https://www.amazon.com/Encore-Hoyle-Blackjack-Series-Download/dp/B00H8AGJ2S) - Modern digital download (compatibility varies)
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist for proper re-release
-
 **Download / Preservation**
-- [Internet Archive - Blackjack 1996](https://archive.org/details/Blackjack_201905) - Original version preservation
-- [Internet Archive - Blackjack 2000](https://archive.org/details/blackjack_202001/) - Later version archive
+- [Internet Archive – Hoyle Classic Blackjack (1996)](https://archive.org/details/Blackjack_201905) - Copy of the 1996 CD
+- [Internet Archive – Hoyle Classic Blackjack (1996), second upload](https://archive.org/details/blackjack_202001/) - Second upload of the same 1996 release
 
 ## See Also
 
@@ -246,28 +205,28 @@ The game's influence on casino game design persists in modern software, though c
 - [[2015 - Hoyle Official Card Games Collection]]
 - [[2016 - Hoyle Casino Games Collection]]
 
-- **Related Series:** Part of the larger Hoyle card and casino game franchise
+- **Related Series:** Part of Sierra's Hoyle card and casino game line
 - **Companion Titles:** [[1996 - Hoyle Casino]], [[1993 - Hoyle Classic Card Games]], [[2002 - Hoyle Casino Empire]]
-- **Series Origin:** Spiritual successor to Hoyle Official Book of Games series
 
 ## References
 
-[^ref-1]: [Amazon Product Page](https://www.amazon.com/Encore-Hoyle-Blackjack-Series-Download/dp/B00H8AGJ2S) - Product description and 16 game variants
-[^ref-2]: [SierraGamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) - Development history and Sierra legacy discussion
-[^ref-3]: Old PC Gaming Review (link removed: site offers game downloads) - Game customization features and rule options
-[^ref-4]: [GameSpot Review](https://www.gamespot.com/reviews/hoyle-blackjack-review/1900-2537735/) - Professional review assessment and conclusion
-[^ref-5]: [Internet Archive](https://archive.org/details/Blackjack_201905) - Voice cast information and preservation
-[^ref-6]: [MobyGames](https://www.mobygames.com/game/45133/hoyle-blackjack/) - Credits, platform info, and multiplayer specifications
-[^ref-7]: [GameFAQs](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) - Tutorial and calculator features, marketing tagline
-[^ref-8]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=516&title=hoyle-blackjack&fld=walkthrough) - Game rules explanation
-[^ref-9]: [Amazon - Hoyle Casino](https://www.amazon.com/Hoyle-Casino-PC-Mac/dp/B00001KRTG) - Character descriptions and reviewer quotes
-[^ref-10]: [VGTimes](https://vgtimes.com/games/hoyle-blackjack/) - Game perspective, controls, and modern rating
-[^ref-11]: [MobyGames - Hoyle Casino](https://www.mobygames.com/game/2686/hoyle-casino/) - Starting money and voice cast
-[^ref-12]: [MobyGames - Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) - Documentation format and critic scores
-[^ref-13]: [Amazon Review Quote](https://www.amazon.com/Hoyle-Craps-Blackjack-PC-Mac/dp/B00001JWML) - GameSpot review citation
-[^ref-15]: [GOG Community](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) - User enthusiasm for Hoyle series
-[^ref-16]: [Company Histories](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) - Sierra business strategy and diversification
-[^ref-19]: [GameSpot News](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) - 2006 corporate restructuring
-[^ref-21]: [IGDB – Hoyle Blackjack](https://www.igdb.com/games/hoyle-blackjack) — Internet Games Database entry, platform listings, release-year confirmation
-[^ref-22]: [LaunchBox Games Database – Hoyle Blackjack 1996](https://gamesdb.launchbox-app.com/games/details/45133-hoyle-blackjack) — community-curated metadata, cover art, platform confirmation
-[^ref-23]: [Old Games Finder – Hoyle Blackjack](https://www.oldgamesfinder.com/hoyle-blackjack/) — abandonware preservation archive, ISO metadata, screenshot gallery
+[^ref-2]: [SierraGamers Forum – Where does "Sierra" end?](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) - 2010 fan discussion of which Hoyle titles count as classic Sierra
+[^ref-3]: Old PC Gaming Review (link removed: site offers game downloads) - Rule customization, card counting and statistics features
+[^ref-4]: [GameSpot – Hoyle Blackjack Review](https://www.gamespot.com/reviews/hoyle-blackjack-review/1900-2537735/) - Tal Blevins, 1 August 1996, 7.8/10; bankroll, ATM, SIGS network play, attitude adjuster
+[^ref-5]: [Internet Archive – Hoyle Classic Blackjack (1996)](https://archive.org/details/Blackjack_201905) - Preserved copy of the 1996 CD
+[^ref-6]: [MobyGames – Hoyle Blackjack (1996)](https://www.mobygames.com/game/45133/hoyle-blackjack/) - Developer/publisher, platform, description, opponents, related games
+[^ref-7]: [GameFAQs – Hoyle Blackjack (PC)](https://gamefaqs.gamespot.com/pc/197580-hoyle-blackjack) - Box description: tagline, Tutorial/Tournament/Casino modes, play options, Internet play
+[^ref-8]: [Sierra Chest – Hoyle BlackJack: Walkthrough](https://sierrachest.com/index.php?a=games&id=516&title=hoyle-blackjack&fld=walkthrough) - In-game rules text and sample hand
+[^ref-19]: [GameSpot – Sierra reorganizes its operations](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) - Dynamix closure; Hoyle moved to Bellevue Studio (page carries a 2006 date stamp)
+[^ref-21]: [IGDB – Hoyle Blackjack](https://www.igdb.com/games/hoyle-blackjack) — Internet Games Database entry, platform listing (PC Windows), publisher Sierra On-Line
+[^ref-22]: [LaunchBox Games Database – Hoyle Blackjack](https://gamesdb.launchbox-app.com/games/details/430427-hoyle-blackjack) — 1996, Windows, Sierra On-Line developer and publisher
+[^ref-24]: [MobyGames – Hoyle Blackjack credits (Windows)](https://www.mobygames.com/game/45133/hoyle-blackjack/credits/windows/) - 37 people; voices recorded at Clatter & Din Studios; SIGS team
+[^ref-25]: [MobyGames – Hoyle Blackjack reviews](https://www.mobygames.com/game/45133/hoyle-blackjack/reviews/windows/) - Critic average 78% from 3 ratings: GameSpot, World Village, Game Revolution
+[^ref-26]: [MobyGames – Hoyle Blackjack specs](https://www.mobygames.com/game/45133/hoyle-blackjack/specs/) - Intel i486, Windows 95, 4 MB RAM, CD-ROM
+[^ref-27]: [World Village Gamer's Zone – Aces High! A Review of Hoyle Blackjack (Wayback, 2010 capture)](http://web.archive.org/web/20100430011546/http://worldvillage.com:80/hoyle-blackjack) - Robert Coffey review; $14.95 price; system requirements scorecard
+[^ref-28]: [Sierra Chest – Hoyle BlackJack: Packaging & content](https://sierrachest.com/index.php?a=games&fld=box&id=516&pid=2&title=hoyle-blackjack) - .hlp instructions, "Larry Pops Up", trailers and demos on the CD
+[^ref-29]: [Sierra Chest – Hoyle BlackJack: Tech support](https://sierrachest.com/index.php?a=games&id=516&title=hoyle-blackjack&fld=tech) - Minimum requirements and DOSBox/Win3x fix
+[^ref-30]: [Sierra Chest – Hoyle BlackJack: Making of](https://sierrachest.com/index.php?a=games&id=516&title=hoyle-blackjack&fld=making) - Credits list
+[^ref-31]: [GameFAQs – Hoyle Blackjack release data](https://gamefaqs.gamespot.com/pc/197580-hoyle-blackjack/data) - US release 06/30/96, Sierra On-Line, rated K-A
+[^ref-32]: [Wikipedia – Dynamix](https://en.wikipedia.org/wiki/Dynamix) - "The Dynamix studio was closed by Sierra On-Line on August 14, 2001"
+[^ref-33]: [Sierra Chest – Hoyle BlackJack](https://sierrachest.com/index.php?a=games&id=516&title=hoyle-blackjack&fld=general) - First release 1996-06-30; engine unknown/unnamed; included in On-Line Games Collection Series
