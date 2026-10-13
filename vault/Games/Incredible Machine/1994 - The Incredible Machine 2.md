@@ -1,131 +1,110 @@
 ---
 title: The Incredible Machine 2
 release_year: 1994
-developer: Dynamix
+developer: Jeff Tunnell Productions
 designer: [Jeff Tunnell, Kevin Ryan]
 publisher: Sierra On-Line
 genre: Puzzle
-platforms: [DOS, Windows, Mac, FM Towns, 3DO, iPad, iPhone]
+platforms: [DOS, Mac, Windows]
 series: The Incredible Machine
 engine: Custom 2D physics simulation engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: The Incredible Machine 2, released in 1994, stands as one of the most
-  innovative puzzle games of the 1990s, challenging players to "arrange a given...
+last_updated: '2026-10-13'
+description: The Incredible Machine 2 (1994) is a Rube Goldberg-style physics puzzle
+  game from Jeff Tunnell Productions and Sierra On-Line, with 150-plus puzzles, player
+  profiles, a puzzle-building workshop and head-to-head play.
 tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine 2
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-The Incredible Machine 2, released in 1994, stands as one of the most innovative puzzle games of the 1990s, challenging players to "arrange a given collection of objects in a needlessly complex fashion so as to perform some simple task"[^ref-1]. Created by Jeff Tunnell and programmed by Kevin Ryan at Dynamix, this physics-based puzzle game tasks players with building elaborate Rube Goldberg-style contraptions to accomplish simple objectives like putting a baseball into a basket or turning on a fan[^ref-2]. The game was groundbreaking for its realistic physics simulation, with each object behaving according to real-world physics principles, adding an extra layer of complexity to the puzzle-solving experience[^ref-3].
+The Incredible Machine 2 is a puzzle video game published for MS-DOS in 1994 by Sierra On-Line, part of The Incredible Machine series[^ref-44]. Developed by Jeff Tunnell Productions, it asks the player to finish machines with missing parts: "Each level of the game contains a machine designed to do a specific task. The only problem is, there are parts missing, and it is your job to figure out where to put what in order to get the machine to work"[^ref-34]. The game introduced new levels, an extended assortment of parts, a new interface, improved graphics, sound and music, and two-player hotseat play[^ref-44].
 
-What made The Incredible Machine truly remarkable was its deterministic physics engine that "does not use a random number generator in its simulation of physics, assuring that the results for any given 'machine' are reproducible"[^ref-1]. This technical achievement, combined with the game's creative premise, earned it widespread critical acclaim and established it as what many consider "one of the most original puzzle games ever created for personal computers"[^ref-4]. The game's influence extends far beyond its initial release, inspiring countless physics-based puzzle games and earning recognition from Computer Gaming World, which in 1996 named the original The Incredible Machine the 62nd best game of all time[^ref-5].
+PC Gamer's Gary Meredith gave it 90% in January 1995, writing that "In every way, TIM2 is an improvement, keeping the best parts of the original yet giving the player more options and flexibility"[^ref-19]. Readers of Computer Gaming World voted it their Readers' Choice in the Classics/Puzzles category of the magazine's 1996 Premier Awards[^ref-45].
 
 > [!info]- Game Info
-> **Developer:** [[Dynamix]][^ref-6]
-> **Designer:** [[Jeff Tunnell]], [[Kevin Ryan]][^ref-7]
-> **Publisher:** [[Sierra On-Line]][^ref-6]
-> **Platforms:** DOS, Windows, Mac, FM Towns, 3DO, iPad, iPhone[^ref-8][^ref-41][^ref-42][^ref-43]
-> **Release Year:** 1993
-> **Series:** The Incredible Machine
-> **Sierra Lineage:** Core Sierra
+> **Developer:** [[Jeff Tunnell Productions]] (DOS); [[Dynamix]] (Macintosh, Windows)[^ref-34]
+> **Designer:** [[Jeff Tunnell]], [[Kevin Ryan]], [[Brian Hahn]], [[Richard Tunnell]], Steven D. Letsom, Richard Rayl[^ref-34]
+> **Publisher:** [[Sierra On-Line]][^ref-34]
 > **Engine:** Custom 2D physics simulation engine
+> **Platforms:** DOS, Macintosh, Windows[^ref-34][^ref-44]
+> **Release Year:** 1994 (DOS)[^ref-34][^ref-44]
+> **Series:** The Incredible Machine
 > **Protagonist:** N/A
+> **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-Unlike traditional adventure games, The Incredible Machine features no overarching narrative or plot elements. As one reviewer noted, "There's absolutely no plot to get in the way – there are puzzles to solve, 87, to be exact"[^ref-9]. Instead, the game presents players with a series of increasingly complex physics puzzles hosted by the cheerful Professor Tim, who welcomes players to his "subterranean machine-making lab" filled with "gazzilions of gadgets"[^ref-10]. The absence of story elements allows the game to focus entirely on its core mechanics of creative problem-solving and mechanical ingenuity.
+The Incredible Machine 2 has no plot. The puzzles are presented by the host character Professor Tim (called "Dr. Tim" in PC Gamer's review)[^ref-19][^ref-11]. The manual opens in his voice: "Professor Tim here. Welcome to my subterranean machine-making lab. We've got gazillions of gadgets lying around this place"[^ref-11]. He also explains that the puzzles are "all built out of stuff I had lying around the lab"[^ref-11].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The Incredible Machine features a point-and-click interface where players select objects from a "Parts Bin" and place them on the puzzle screen[^ref-11]. The game offers keyboard shortcuts for changing music in Freeform Mode, with keys 1-9 and a-g controlling the soundtrack[^ref-12]. Players can test their contraptions by pressing a play button and watching the physics simulation unfold in real-time. The interface was designed before modern gaming conveniences, requiring players to adapt to the technical limitations of early 1990s computing[^ref-13].
+Players start by signing in to Professor Tim's "Inventor's Registry", which keeps each player's solved puzzles separate[^ref-11]. Hardcore Gaming 101 notes that this replaced the original game's password system: progress is now saved to a player profile[^ref-9]. In Puzzle Play, parts are picked from a Parts Bin and set down on the playfield, and a green flag starts the machine[^ref-11]. A broom button sweeps the player's placed parts back into the bin, and a lightbulb button shows Professor Tim's own solution[^ref-11].
+
+A hint mode puts pointing hands on the puzzle, and clicking one gives a one-sentence hint from Professor Tim. Using hints carries no penalty, but they stop appearing around the end of the Medium difficulty[^ref-9]. PC Gamer also praised the game's flexibility: "You can change the music, the game screen, or the puzzles themselves"[^ref-19].
 
 ### Structure and Progression
 
-The original game contains 87 puzzles of increasing difficulty, starting with simple tutorials and progressing to complex multi-step challenges[^ref-14]. Players must use provided components to achieve specific objectives, with many puzzles offering multiple valid solutions. The game includes an "Easy Start" tutorial mode for beginners[^ref-11] and a Freeform Mode where players can experiment with unlimited parts and create their own contraptions[^ref-15]. Password protection allows players to skip to specific levels, with passwords like "GULF" providing access to level 87[^ref-10].
+The manual promises "150-plus puzzles", ranging "from Tutorial Puzzles (which teach you how to use various parts) to Really Hard puzzles — which can be mind-numbingly nasty!"[^ref-11]. PC Gamer counted "over 150" puzzles[^ref-19]. Hardcore Gaming 101 lists five difficulty groups (Tutorial, Easy, Medium, Hard and Really Hard) and says puzzles can be played in any order[^ref-9]. Besides Puzzle Play, the main menu offers a Guided Tour, Professor Tim's Workshop for changing or building puzzles, a puzzle-building tutorial walk-through, and Head-to-Head play[^ref-11].
+
+Head-to-Head lets players "hold puzzle-solving contests with a pal"[^ref-11]. Unlike the series' earlier head-to-head mode, it can be played on any puzzle, not just dedicated two-player ones[^ref-9]. MobyGames lists 1–2 offline players on the same screen[^ref-34].
 
 ### Puzzles and Mechanics
 
-The core gameplay revolves around constructing Rube Goldberg devices using everyday objects and mechanical components including "bike-riding monkeys, treadmill mice and a few bowling balls"[^ref-16]. Players work with pulleys, conveyor belts, motors, balloons, trampolines, basketballs, and various animals to create chain reactions[^ref-17]. The physics simulation accounts for real-world properties like gravity, momentum, and collision detection, making precise timing and positioning crucial for success. As one developer explained, the challenge lies in chaos theory: "Move a tennis ball over by just 0.0001 units and it may bounce off a teeter-totter a fraction of a second later and then make something else bounce left instead of right"[^ref-18].
+PC Gamer summarised the basic premise: "Fans blow air, for example, while balloons float, balls bounce (most of the time), and conveyor belts, well, they convey"[^ref-19]. MobyGames' description lists parts "including cats, super balls, lava lamps, flashlights, can openers, monkeys on treadmills"[^ref-34]. According to the manual, "There are twelve programmable parts in the game", and a computer-icon handle lets the player "set the quantity, appearance, behavior, or state of the selected part"[^ref-11].
+
+Puzzles carry their own gravity and atmospheric pressure settings. In the manual's words, "The greater the gravity, the faster most things will fall. The greater the pressure, the slower most things will move through the atmosphere"[^ref-11]. These settings can only be adjusted in Professor Tim's Workshop[^ref-11]. The Workshop also improved the series' freeform mode: players can build fully playable puzzles by setting both the parts and the conditions under which the puzzle counts as "solved"[^ref-44]. They can also lock parts in place and add hints[^ref-11][^ref-9]. Wikipedia calls this version "the biggest addition to the series" in gameplay terms[^ref-44].
 
 ## Reception
 
 ### Contemporary Reviews
 
-The Incredible Machine received overwhelmingly positive critical reception upon release. Computer Gaming World praised it as awakening "the curious, tinkering 10-year-old" and described it as "fresh in concept and long on gameplay"[^ref-6]. The game earned consistently high scores across major publications:
-
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Computer Gaming World | Positive | "Fresh in concept and long on gameplay"[^ref-6] |
-| Dragon Magazine | 4/5 stars | 1993 review[^ref-6] |
-| Electronic Gaming Monthly | 7.25/10 | 1994 review[^ref-6] |
-| PC Gamer | 90% | "How often can you say you really got what you paid for?"[^ref-19] |
-| IGN (Return version) | 8.4/10 | "Vintage blend of educational and entertainment software"[^ref-20] |
+| PC Gamer US (January 1995) | 90% | Gary Meredith: "a game that's as rewarding as it is challenging"[^ref-19] |
+| Computer Gaming World #143 (June 1996) | Readers' Choice | Classics/Puzzles, 1996 Premier Awards[^ref-45] |
+
+In PC Gamer, Gary Meredith listed the game's highs as "Dozens of clever puzzles; a do-it-yourself mode and near open-ended game play". He found no real lows: "None, really, unless you consider a somewhat sensitive cursor and a bit of hunger for base memory to be fatal flaws." His bottom line was "How often can you say you really got what you paid for?"[^ref-19]. In Computer Gaming World's 1996 Premier Awards, the Classics/Puzzles section printed "Readers' Choice: The Incredible Machine 2, Sierra"[^ref-45]. Wikipedia notes that the game won although it was not among the editors' nominees[^ref-44]. MobyGames also records a Power Play award (issue 02/1996) for Best Puzzle Game of 1995[^ref-34].
 
 ### Modern Assessment
 
-The game's legacy has only grown stronger over time. Modern reviewers consistently rank it among the greatest puzzle games ever created, with MobyGames users rating it 84%[^ref-21] and MyAbandonware users giving it 4.42/5 stars[^ref-22]. Steam users maintain a 92% positive rating for the modern re-release[^ref-23]. Contemporary gaming critics recognize its lasting influence, with one reviewer noting that "One can say this series is the precursor to all the puzzle solving video games existing today"[^ref-22]. The game's educational value has been consistently praised, with reviewers highlighting how "it is so delightfully entertaining that gamers of all ages won't realize the depth of learning involved"[^ref-24].
+On MobyGames the game has a Moby Score of 8.1, and its critic reviews average 79% across 13 ratings[^ref-34]. Hardcore Gaming 101 calls it "a complete and total improvement on the first game, fixing every nitpick and adding a few new features, too"[^ref-9].
 
 ## Development
 
-### Origins
-
-The Incredible Machine emerged from Jeff Tunnell's desire to create innovative, smaller-scale games after leaving Dynamix in 1990[^ref-25]. Tunnell founded Jeff Tunnell Productions in early 1992 as a subsidiary focused on experimental and creative gameplay concepts[^ref-26]. The game's concept was inspired by Rube Goldberg machines and was originally conceived as an educational tool to teach physics concepts in an entertaining way[^ref-27]. Tunnell's vision was to create something that would allow players to experiment with different approaches to problem-solving, breaking away from the traditional adventure game formulas that dominated Sierra's catalog at the time[^ref-28].
-
 ### Production
 
-Kevin Ryan programmed The Incredible Machine in nine months on a remarkably modest budget of US$36,000 (equivalent to about $78,361 in 2024)[^ref-25]. Ryan brought significant technical expertise to the project, utilizing coding knowledge and actual code from vehicular simulators he had previously developed at Dynamix[^ref-29]. The basic physics engine was operational within a handful of months, demonstrating the efficiency of the small development team approach. The game's music was composed by multiple contributors including Brian Hahn, Christopher Stevens, Jan Paul Moorhead, Ken Rogers, and Randy Dersham[^ref-30].
+MobyGames credits Jeffrey Tunnell as producer of the DOS version. Its designers were Brian Hahn, Steven D. Letsom, Richard Rayl, Kevin Ryan, Jeffrey Tunnell and Richard Tunnell, with Letsom, Rayl and Ryan as software engineers. Brian Hahn was art director and Michael Waite was writer[^ref-34]. The music is credited to Timothy Steven Clarke, Randy Dersham, Jan Paul Moorhead and Ken Rogers[^ref-34].
 
-### Technical Achievements
+PC Gamer listed the DOS version's requirements as a 386SX, 2MB RAM, DOS 5.0 or later, 4.5MB of hard disk space, VGA and a mouse. It recommended a 486SX with 4MB RAM[^ref-19]. The DOS release shipped with a disk labelled "Easy Start". The installer could make it into a bootable floppy that starts the game without loading unneeded TSR programs, to help with memory problems[^ref-11].
 
-The game's most significant technical innovation was its deterministic physics simulation. Due to 1990s hardware limitations, the team converted the engine from floating-point to integer-based calculations to ensure consistent simulation results across different platforms[^ref-1]. This decision proved crucial for the game's reproducibility, as Ryan explained: "The engine does not use a random number generator in its simulation of physics, assuring that the results for any given 'machine' are reproducible"[^ref-1]. The audio system featured complex MIDI implementation using all 16 channels with pitch bend sensitivity of 12, significantly more sophisticated than the General MIDI standard of 2[^ref-31].
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original | 1994 | DOS | Jeff Tunnell Productions / Sierra On-Line[^ref-34] |
+| Macintosh | 1994 | Macintosh | Dynamix / Sierra On-Line (MobyGames date)[^ref-34] |
+| Version 3.0 | 1995 | Windows, Macintosh | Enhanced version, same levels, improved interface and CD music tracks[^ref-44] |
+| Japanese | 1996–1998 | Windows, Macintosh | Published by Cybelle[^ref-34] |
+
+MobyGames treats The Incredible Machine Version 3.0 as the Windows/Mac hybrid version of this game[^ref-34]. Wikipedia instead dates the Mac and Windows enhanced release to 1995 and gives it the title The Incredible Machine Version 3.0 (also marketed as Professor Tim's Incredible Machines)[^ref-44]. See [[1995 - The Incredible Machine 3.0]].
 
 ## Legacy
 
-The Incredible Machine's influence on gaming cannot be overstated. Jeff Tunnell himself acknowledges that "TIM was a genre defining franchise"[^ref-32], and its impact continues to resonate in modern gaming. The game spawned numerous sequels including The Even More Incredible Machine (1993)[^ref-33], The Incredible Machine 2 (1994)[^ref-34], and spin-offs like Sid & Al's Incredible Toons[^ref-35]. The series' concepts were so innovative that they earned Tunnell and his team patents for their game design approaches[^ref-36].
+**Series background.** The Incredible Machine 2 follows [[1992 - The Incredible Machine]] and its follow-up, The Even More Incredible Machine. PC Gamer's review said the original "brought budding Rube Goldbergs out of the woodwork in droves"[^ref-19]. When PushButton Labs acquired the series rights in 2009, Jeff Tunnell said, "TIM was a genre defining franchise"[^ref-32].
 
-The game's educational value has made it a lasting presence in classrooms worldwide. Modern educators continue to use The Incredible Machine to teach STEM concepts, with initiatives like Cassandra Ivie's 4-H program demonstrating that "STEM is accessible to everyone and that it is also a lot of fun"[^ref-37]. The game's influence on modern indie developers is evident in titles that continue to copy "this age old formule"[^ref-38], proving the enduring appeal of physics-based puzzle solving.
-
-### Commercial and Cultural Impact
-
-The Incredible Machine series achieved significant commercial success, establishing itself as one of the definitive physics-based puzzle franchises of the 1990s. The game's mechanics became widely recognized as influential across industry standards, with game design discussions regularly referencing the series' contribution to the genre. The accessibility of The Incredible Machine 2 in particular helped introduce physics-based puzzle solving to mainstream audiences who might otherwise have found such games intimidating or overly technical.
-
-The deterministic physics engine remains one of the most technically impressive achievements in the game's legacy. By solving the challenge of ensuring reproducible physics results without modern floating-point standards, the development team created a foundation that enabled both competitive play and reliable puzzle design. This technical solution influenced how later games approached complex simulation systems.
-
-### Modern Developments
-
-In 2014, original creators Jeff Tunnell and Kevin Ryan reunited to create Contraption Maker, a spiritual successor that represents "a true second-generation game"[^ref-39]. This modern interpretation maintains the original's core appeal while leveraging contemporary technology, as Tunnell noted: "Working on Contraption Maker with modern processors and GPU's, huge memory, connectivity, and high definition monitors is like being in a dream world"[^ref-40]. The reunion demonstrated the enduring significance of the original game and the creators' commitment to preserving their design philosophy for modern audiences.
-
-### Puzzle Design Philosophy
-
-The Incredible Machine 2 featured open-ended puzzle design that rewarded creative thinking and experimental problem-solving over memorization[^ref-2]. Multiple solution paths allowed players to approach objectives through different mechanical combinations, encouraging replay and discovery[^ref-3]. The physics engine's realistic simulation of objects and gravity provided intuitive feedback that helped players develop mechanical intuition[^ref-4].
-
-### Physics Engine and Mechanics
-
-The sophisticated physics engine simulated realistic object interactions, momentum, and gravity effects that made puzzle solutions intuitive[^ref-2].
-
-### Creative Gameplay Loop
-
-The game encouraged experimentation with visual feedback that helped players understand mechanical principles through interactive play[^ref-3].
-### Puzzle Design and Level Progression
-
-The Incredible Machine 2 featured expertly balanced level design introducing mechanical concepts gradually while maintaining accessible difficulty curves[^ref-2]. Puzzle solutions ranged from straightforward object placement to intricate chain reactions requiring precise timing[^ref-3].
-
-### Level Editor and User-Generated Content
-
-The integrated level editor empowered players to create and share custom puzzles, establishing a foundation for community-driven content creation[^ref-2]. Player-designed levels extended the game's content library exponentially[^ref-3].
-
-The integrated level editor and exceptional puzzle design made it a landmark title in physics-based puzzle gaming[^ref-2]. Player-created content significantly extended the game's longevity, establishing communities dedicated to designing and sharing custom puzzles[^ref-3]. The game's physics engine accuracy and intuitive level building tools influenced subsequent puzzle game design[^ref-4].
+Wikipedia notes that later re-releases of the series, including the 2009 compilation The Incredible Machine Mega Pack, used Version 3.0[^ref-44].
 
 ## Downloads
 
-**Download / Preservation**
+**Manuals & Extras**
+- [The Incredible Machine 2 manual (Internet Archive)](https://archive.org/details/Incredible_Machine_2_-_Manual)[^ref-11]
 
 ## See Also
 
@@ -139,52 +118,12 @@ The integrated level editor and exceptional puzzle design made it a landmark tit
 - [[2001 - The Incredible Machine - Even More Contraptions]]
 - [[2011 - The Incredible Machine (2011)]]
 
-### Level Design and Puzzle Progression
-
-The Incredible Machine 2 featured expertly balanced level design that introduced new mechanical concepts gradually while maintaining accessible difficulty curves[^ref-2]. Puzzle solutions ranged from straightforward object placement to intricate chain reactions requiring precise timing and object interactions[^ref-3].
-
 ## References
 
-[^ref-1]: [Academic Kids Encyclopedia](https://academickids.com/encyclopedia/index.php/The_Incredible_Machine) – - Game concept and physics engine description
-[^ref-2]: [Internet Archive - The Incredible Machine 1992](https://archive.org/details/the_incredible_machine_1992) – - Game description and puzzle objectives
-[^ref-3]: [Classic Reload](https://classicreload.com/the-incredible-machine.html) – - Physics mechanics and gameplay overview
-[^ref-4]: [Games Nostalgia](https://gamesnostalgia.net/game/incredible-machine) – - Critical assessment and originality
-[^ref-5]: [Wikipedia – The Incredible Machine (1993 video game)](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game)) – - "In 1996, Computer Gaming World named The Incredible Machine the 62nd best game ever" (CGW #148, "150 Best (and 50 Worst) Games of All Time")
-[^ref-6]: [Wikipedia - The Incredible Machine 1993](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game) – ) - Contemporary reviews and critical reception
-[^ref-7]: [MobyGames - The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) – - Developer credits and technical specifications
-[^ref-8]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheIncredibleMachine) – - Platform information and gameplay elements
-[^ref-9]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/incrediblemachine/incrediblemachine.htm) – - Gameplay structure and puzzle count
-[^ref-10]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=229&title=incredible-machine-2&fld=walkthrough) – - In-game character quotes and password information
-[^ref-11]: [Archive.org Manual](https://archive.org/details/Incredible_Machine_2_-_Manual) – - Interface elements and tutorial features
-[^ref-12]: [Archive.org Controls](https://archive.org/details/the-incredible-machine-dos-manual) – - Keyboard controls and music options
-[^ref-13]: [Hardcore Gaming 101 Old Version](http://www.hardcoregaming101.net/incrediblemachine/incrediblemachine-old.htm) – - Interface design and technical limitations
-[^ref-14]: [Archive.org Walkthrough](https://archive.org/details/TIMWALK_ZIP) – - Puzzle count and progression structure
-[^ref-15]: [Sierra Help](https://sierrahelp.com/Walkthroughs/TheIncredibleMachineWalkthrough.html) – - Freeform mode and puzzle flexibility
-[^ref-16]: [Archive.org 3.0](https://archive.org/details/the-incredible-machine-3.0) – - Game components and mechanical elements
-[^ref-17]: [Archive.org Description](https://archive.org/details/TheIncredibleMachine_1020) – - Pulleys, conveyor belts, and construction mechanics
-[^ref-18]: [ModDB Developer Blog](https://www.moddb.com/members/kevryan/blogs/the-butterfly-effect-deterministic-physics-in-the-incredible-machine-and-contraption-maker) – - Physics simulation challenges and butterfly effect
-[^ref-19]: [Web Archive PC Gamer Review](https://web.archive.org/web/19991223095828/http://www.pcgamer.com/reviews/561.html) – - Contemporary PC Gamer review score and assessment
-[^ref-20]: [IGN Return Review](http://www.ign.com/articles/2000/09/15/return-of-the-incredible-machine-contraptions) – - IGN review score and educational value assessment
-[^ref-21]: [MobyGames Ratings](https://www.mobygames.com/game/3169/the-even-more-incredible-machine/) – - User and critic rating compilation
-[^ref-22]: [MyAbandonware](https://www.myabandonware.com/game/the-incredible-machine-1mg) – - User ratings and historical significance assessment
-[^ref-23]: [Steam Contraption Maker](https://store.steampowered.com/app/241240/Contraption_Maker/) – - Modern user ratings and spiritual successor information
-[^ref-24]: [Metacritic Reviews](https://www.metacritic.com/game/the-incredible-machine-even-more-contraptions/) – - Educational value and entertainment assessment
-[^ref-25]: [Filfre.net Development History](https://www.filfre.net/2018/06/the-incredible-machine/) – - Development budget, timeline, and Jeff Tunnell's background
-[^ref-26]: [Sierra Fandom Jeff Tunnell Productions](https://sierra.fandom.com/wiki/Jeff_Tunnell_Productions) – - Company founding and focus on experimental games
-[^ref-27]: [Best Old Games](https://www.bestoldgames.net/company/jeff-tunnell-productions) – - Educational concept and Rube Goldberg inspiration
-[^ref-28]: [Choicest Games Jeff Tunnell Interview](https://www.choicestgames.com/2015/04/where-are-they-now-jeff-tunnell.html) – - Creative vision and departure from traditional adventure games
-[^ref-29]: [Steemit Kevin Ryan Interview](https://steemit.com/gaming/@badastroza/interesting-people-25-kevin-ryan-on-the-incredible-machine) – - Programming background and simulator code reuse
-[^ref-30]: [VGMPF Music Credits](https://vgmpf.com/Wiki/index.php/The_Incredible_Machine_3_(W32) – ) - Comprehensive composer credits and soundtrack information
-[^ref-31]: [Vogons Forum MIDI Discussion](https://www.vogons.org/viewtopic.php?t=14896) – - MIDI audio technical specifications and implementation details
-[^ref-32]: [Games Industry IP Acquisition](https://www.gamesindustry.biz/the-incredible-machine-physics-puzzle-ip-acquired-by-pushbutton-labs-series-now-available-from-gog-com) – - Jeff Tunnell quote on genre-defining status
-[^ref-33]: [Archive.org Even More Incredible](https://archive.org/details/the_even_more_incredible_machine_1993) – - Sequel information and release details
-[^ref-34]: [MobyGames TIM 2](https://www.mobygames.com/game/1605/the-incredible-machine-2/) – - Series progression and sequel development
-[^ref-35]: [MobyGames Sid & Al's](https://www.mobygames.com/game/3116/sid-als-incredible-toons/) – - Spin-off game information and cartoon adaptation
-[^ref-36]: [Sierra Fandom Dynamix](https://sierra.fandom.com/wiki/Dynamix) – - Patent information and corporate development
-[^ref-37]: The Chieftain STEM Education *(link removed: it led to a different game's page)* – - Educational impact and modern STEM applications
-[^ref-38]: [GOG User Reviews](https://www.gog.com/game/the_incredible_machine_mega_pack) – - Modern influence on indie gaming
-[^ref-39]: [PC GamesN Contraption Maker](https://www.pcgamesn.com/contraption-maker/contraption-maker-second-generation-incredible-machine-out-now-steam) – - Spiritual successor development and family connection
-[^ref-40]: [Web Archive Developer Blog](https://web.archive.org/web/20140727015927/http://contraptionmaker.com/old-team-exciting-new-product/) – - Jeff Tunnell quote on modern development capabilities
-[^ref-41]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Machine&gid=1020) – - Digital preservation and download information
-[^ref-42]: [AGD Interactive Forum](https://www.agdinteractive.com/forum/viewtopic.php?t=12045) – - Community memories and gameplay discussions
-[^ref-43]: [Amazon Product Listing](https://www.amazon.com/Incredible-Machine-Even-Contraptions-mac-pc/dp/B00005KB3J) – - Commercial availability and basic game information
+[^ref-9]: [Hardcore Gaming 101 – The Incredible Machine](http://www.hardcoregaming101.net/incrediblemachine/incrediblemachine.htm) – - TIM 2 / Version 3.0 section: profiles replace passwords, five difficulties, hints, Freeform and Head-to-Head
+[^ref-11]: [Archive.org – The Incredible Machine 2 Manual](https://archive.org/details/Incredible_Machine_2_-_Manual) – - Professor Tim's introduction, 150-plus puzzles, menus, programmable parts, gravity/pressure, Easy Start disk
+[^ref-19]: [PC Gamer – Incredible Machine 2 review (Wayback, Jan 1995)](https://web.archive.org/web/19991223095828/http://www.pcgamer.com/reviews/561.html) – - Gary Meredith review, 90%, over 150 puzzles, system requirements
+[^ref-32]: [GamesIndustry.biz – The Incredible Machine IP acquired by PushButton Labs](https://www.gamesindustry.biz/the-incredible-machine-physics-puzzle-ip-acquired-by-pushbutton-labs-series-now-available-from-gog-com) – - Jeff Tunnell quote, 2009
+[^ref-34]: [MobyGames – The Incredible Machine 2](https://www.mobygames.com/game/1605/the-incredible-machine-2/) – - Description, credits, release dates/platforms, scores, awards
+[^ref-44]: [Wikipedia – The Incredible Machine 2](https://en.wikipedia.org/wiki/The_Incredible_Machine_2) – - Release, Version 3.0, gameplay additions, reception
+[^ref-45]: [Computer Gaming World #143, June 1996 (Internet Archive text)](https://archive.org/download/Computer_Gaming_World_Issue_143/Computer_Gaming_World_Issue_143_djvu.txt) – - 1996 Premier Awards, Classics/Puzzles: "Readers' Choice: The Incredible Machine 2, Sierra"
