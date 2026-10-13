@@ -23,7 +23,7 @@ tags: [2000s, hoyle-casino, sierra]
 
 Hoyle Casino 2007 is a casino simulation game developed and published by [[Encore Software]] for Microsoft Windows, released in the United States on September 11, 2006[^ref-1][^ref-3]. According to its publisher description, it "offers over 500 variations of 16 of the most popular casino games"[^ref-3][^ref-4]. It belongs to the Hoyle Casino series, which began in 1996 as a spin-off of Sierra's Hoyle's Official Book of Games line and is set in a virtual Las Vegas casino where players wager virtual money[^ref-5][^ref-16].
 
-Sierra developed and published the Hoyle Casino games from 1996 to 2003; Encore took over publishing the series from 2005 and continued it until 2016[^ref-5][^ref-16]. Wikipedia states that "the 2007 version" of Hoyle Casino suffered from a bug that froze card games for 30 seconds after each bet, which Encore could not fix and for which it offered refunds, but that statement has carried a "citation needed" tag since July 2009 and no other source for it has been found[^ref-5].
+Wikipedia credits Sierra with the Hoyle Casino games from 1996 to 2003 (Sierra in fact released editions as late as December 2004, before Vivendi sold the Hoyle line to Encore)[^ref-17][^ref-18]; Encore took over publishing the series from 2005 and continued it until 2016[^ref-5][^ref-16]. Wikipedia states that "the 2007 version" of Hoyle Casino suffered from a bug that froze card games for 30 seconds after each bet, which Encore could not fix and for which it offered refunds, but that statement has carried a "citation needed" tag since July 2009 and no other source for it has been found[^ref-5].
 
 The game was rated T (Teen) by the ESRB for Simulated Gambling[^ref-1][^ref-3][^ref-7].
 
@@ -188,3 +188,5 @@ Encore continued publishing Hoyle titles through 2016[^ref-5][^ref-16].
 [^ref-9]: [PC Review Forum – Hoyle](https://www.pcreview.co.uk/threads/hoyle.3256644/) – Vista compatibility issues
 [^ref-12]: [Walmart Canada – Hoyle Casino 2007](https://www.walmart.ca/en/ip/Hoyle-Casino-2007-PC/3JZXTR0VS9MR) – retail availability
 [^ref-16]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) – comprehensive historical overview of the Hoyle's Official Book of Games video game series
+[^ref-17]: [GameSpy – Hoyle Casino [2005] (archived)](https://web.archive.org/web/20160309064005/http://pc.gamespy.com/pc/hoyle-casino-2005/) – Sierra edition released December 1, 2004
+[^ref-18]: [socaltech – Vivendi Sells Hoyle Brand](https://www.socaltech.com/vivendi_sells_hoyle_brand/s-0001362.html) – Vivendi Universal Games divested its Hoyle products to Navarre's Encore subsidiary
