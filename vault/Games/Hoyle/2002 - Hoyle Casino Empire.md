@@ -22,15 +22,15 @@ tags: [2000s, simulation, hoyle-casino, sierra]
 
 ## Overview
 
-Hoyle Casino Empire, released in Europe simply as Casino Empire, is a business simulation game for Windows in which the player runs a casino and tries to turn a profit, attract customers and earn good ratings[^ref-17]. It was developed by an in-house team at [[Sierra Entertainment]] and published by the company, and Wikipedia places it in Sierra's Hoyle Casino series[^ref-17]. Sierra announced the game on February 19, 2002, presenting it as an expansion of its "best-selling Hoyle games" line[^ref-28], and it shipped in North America on September 23, 2002 and in Europe on October 25, 2002[^ref-17].
+Hoyle Casino Empire, released in Europe simply as Casino Empire, is a business simulation game for Windows in which the player runs a casino and tries to turn a profit, attract customers and earn good ratings[^ref-17]. It was developed by an in-house team at [[Sierra On-Line|Sierra Entertainment]] and published by the company, and Wikipedia places it in Sierra's Hoyle Casino series[^ref-17]. Sierra announced the game on February 19, 2002, presenting it as an expansion of its "best-selling Hoyle games" line[^ref-28], and it shipped in North America on September 23, 2002 and in Europe on October 25, 2002[^ref-17].
 
 Unlike the card-and-table Hoyle Casino editions, Casino Empire is a building and management game: GameSpot described it as "the first management strategy game from Sierra Attractions, the developer of the popular Hoyle card, board, and casino games," and compared it to RollerCoaster Tycoon[^ref-23]. GameSpy likewise called it "the first building sim-type game with the Hoyle name"[^ref-22].
 
 Critics were divided. Wikipedia sums up the reception as "a number of mixed reviews"[^ref-17]; MobyGames averages 14 critic scores at 65%, ranging from GameZone's 84% down to 40%[^ref-21].
 
 > [!info]- Game Info
-> **Developer:** [[Sierra Entertainment]][^ref-17]
-> **Designer:** [[Jason Piel]], [[Scott Bodenbender]][^ref-19]
+> **Developer:** [[Sierra On-Line|Sierra Entertainment]][^ref-17]
+> **Designer:** Jason Piel, Scott Bodenbender[^ref-19]
 > **Publisher:** Sierra Entertainment[^ref-17]
 > **Engine:** Unknown (uses Bink Video and the Miles Sound System middleware)[^ref-18]
 > **Platforms:** Windows[^ref-17]
