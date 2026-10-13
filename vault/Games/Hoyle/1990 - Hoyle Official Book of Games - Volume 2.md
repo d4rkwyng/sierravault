@@ -10,30 +10,31 @@ series: Hoyle Official Book of Games
 engine: SCI0
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-12'
 composer: [Robert Atesalp]
-description: 'Hoyle Official Book of Games Volume 2: Solitaire is a card game collection
-  developed and published by Sierra On-Line in 1990 . The game represented a...'
+description: 'Hoyle Official Book of Games Volume 2: Solitaire is a collection of 28
+  solitaire card games designed by Warren Schwader and published by Sierra On-Line
+  in 1990 for DOS, Amiga and Atari ST, with a Macintosh version in 1991.'
 tags: [1990s, hoyle-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 2: Solitaire
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Hoyle Official Book of Games Volume 2: Solitaire is a card game collection developed and published by [[Sierra On-Line]] in 1990 [^ref-1]. The game represented a significant expansion from the original Hoyle volume, offering players 28 different solitaire variants compared to the first volume's six card games [^ref-2]. Named after the 18th-century English writer Edmond Hoyle, who authored foundational texts on card game rules, the Hoyle series became one of Sierra's most enduring casual gaming franchises [^ref-3].
+Hoyle Official Book of Games Volume 2: Solitaire is a card game collection developed and published by [[Sierra On-Line]] in 1990.[^ref-1][^ref-21] It offered 28 solitaire games, compared to the first volume's six card games.[^ref-2] The series is named after the 18th-century playing-card authority Edmond Hoyle.[^ref-2]
 
-Unlike its predecessor, which featured multiplayer card games with Sierra's iconic adventure game characters as opponents, Volume 2 focused exclusively on single-player solitaire experiences[^ref-2][^ref-12]. This design decision eliminated the need for AI opponents entirely, instead offering players a comprehensive digital recreation of classic patience games[^ref-2][^ref-13]. The game was built on Sierra's Creative Interpreter (SCI) engine, specifically the SCI0 version, demonstrating the company's technical versatility in adapting their adventure game technology for card game simulations [^ref-1][^ref-4].
+Unlike its predecessor, which let players choose opponents drawn partly from Sierra's adventure games, Volume 2 was purely single-player: because every game was a solitaire variant, there were no opponents to choose and no Sierra characters at the table.[^ref-2][^ref-20] The game was built on Sierra's Creative Interpreter, in its SCI0 form.[^ref-4][^ref-19]
 
-The title was released across multiple platforms including DOS, Amiga, Atari ST, and Macintosh, making it accessible to a wide audience of home computer users [^ref-1]. The game utilized a top-down perspective with fixed/flip-screen visuals, appropriate for displaying card layouts across the various solitaire games [^ref-1].
+The Amiga, Atari ST and DOS versions appeared in 1990 and the Macintosh version in 1991.[^ref-21][^ref-12] MobyGames classifies the presentation as top-down with fixed/flip-screen visuals.[^ref-1]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
 > **Designer:** [[Warren Schwader]][^ref-1]
-> **Publisher:** Sierra On-Line, Inc. / U.S. Gold Ltd.[^ref-1]
-> **Engine:** SCI0 (Sierra's Creative Interpreter)[^ref-4]
-> **Platforms:** DOS, Amiga, Atari ST, Macintosh[^ref-1]
+> **Publisher:** Sierra On-Line, Inc.; 1994 UK Amiga re-release by U.S. Gold Ltd. (Kixx XL label)[^ref-21]
+> **Engine:** SCI0 (Sierra's Creative Interpreter)[^ref-4][^ref-19]
+> **Platforms:** DOS, Amiga, Atari ST, Macintosh[^ref-21]
 > **Release Year:** 1990
 > **Series:** Hoyle Official Book of Games
 > **Protagonist:** N/A (Solitaire games)
@@ -41,158 +42,147 @@ The title was released across multiple platforms including DOS, Amiga, Atari ST,
 
 ## Story Summary
 
-As a collection of solitaire card games, Hoyle Official Book of Games Volume 2 does not feature a narrative storyline [^ref-2]. The game instead serves as a digital implementation of 28 classic patience card games, each with its own rules and strategies [^ref-1].
+As a collection of solitaire card games, Hoyle Official Book of Games Volume 2 has no storyline. It is a digital implementation of 28 patience games, each with its own rules.[^ref-1][^ref-2]
 
-The absence of Sierra characters as opponents—a notable feature of Volume 1—meant that players experienced a more traditional solitaire gaming environment [^ref-2]. This purely single-player focus was appropriate for the solitary nature of patience games, which have historically been played alone as a form of relaxation or mental exercise.
+The absence of Sierra characters as opponents, a notable feature of Volume 1, meant that players got a plain solitaire environment.[^ref-2] *Computer Gaming World* noted that it "doesn't offer the graphics or competitive play of volume 1".[^ref-16]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Hoyle Official Book of Games Volume 2 presents its card games from a top-down perspective, allowing players to view the full card layout on screen [^ref-1]. The interface uses fixed/flip-screen visuals typical of Sierra's SCI engine games from this era [^ref-1]. Players interact with the cards through mouse-based controls, clicking and dragging cards to make moves within each solitaire variant.
+The player picks a game and a difficulty level with the mouse or the arrow keys, and plays with the keyboard, a joystick or the mouse. *Video Games & Computer Entertainment* judged the mouse's "point-and-click methodology" the most natural fit.[^ref-18] Each of the 28 games has two difficulty levels.[^ref-17] After a round, the player can quit, replay the same game, or pick a new one.[^ref-18]
+
+The rules for every game appear in the printed manual and on screen, through a pull-down menu that breaks each rule set into short sections.[^ref-16][^ref-18] The rules were written by Bridget McKenna.[^ref-18][^ref-1] A pull-down menu can also mute the sound and music.[^ref-18]
 
 ### Structure and Progression
 
-The game offers 28 different solitaire games, providing substantial variety for players [^ref-1][^ref-2]. The included games are:
+The game offers 28 solitaire games.[^ref-1][^ref-2] The included games are:[^ref-1]
 
-- **Calculation** – Mathematical-based solitaire
-- **Strategy** – Strategic building game
-- **Eagle Wing** – Classic patience variant
-- **Beleaguered Castle** – Open-foundation building game
-- **Klondike** – The most famous solitaire variant
-- **Canfield** – Fast-paced single-deck game
-- **Golf** – Rapid-play solitaire
-- **Flower Garden** – Visual building game
-- **Scorpion** – Challenging spider variant
-- **Spiderette** – Simplified spider solitaire
-- **La Belle Lucie** – French-origin patience game
-- **Fortress** – Strategic layout game
-- **Baker's Dozen** – Tableau-based solitaire
-- **Bristol** – Stock and waste pile game
-- **Eight Off** – FreeCell precursor
-- **Shamrocks** – Building game with suit groupings
-- **Yukon** – Klondike variant
-- **Eliminator** – Removal-based solitaire
-- **Slide** – Movement-focused game
-- **Bowling** – Themed solitaire variant
-- **Nestor** – Pair-matching game
-- **Aces Up** – Elimination solitaire
-- **Gaps** – Rearrangement patience
-- **Penguin** – Modern FreeCell variant
-- **Pyramid** – Matching and removal game
-- **Triplets** – Three-card matching
-- **Poker Square** – Poker hand building game
-- **Cribbage Square** – Cribbage-themed variant[^ref-1]
+- Calculation
+- Strategy
+- Eagle Wing
+- Beleaguered Castle
+- Klondike
+- Canfield
+- Golf
+- Flower Garden
+- Scorpion
+- Spiderette
+- La Belle Lucie
+- Fortress
+- Baker's Dozen
+- Bristol
+- Eight Off (listed by MobyGames as "8 Off")
+- Shamrocks
+- Yukon
+- Eliminator
+- Slide
+- Bowling
+- Nestor
+- Aces Up
+- Gaps
+- Penguin
+- Pyramid
+- Triplets
+- Poker Square
+- Cribbage Square
+
+*Computer Gaming World* described the mix as "some you've heard of (like pyramid), some you haven't and some which are completely unique to this game."[^ref-16]
 
 ### Puzzles and Mechanics
 
-Each solitaire game follows its own traditional ruleset, with players attempting to arrange cards according to specific objectives—typically building foundation piles in sequence by suit [^ref-1]. The games range from relatively simple variants like Klondike to more challenging options requiring careful strategy and planning [^ref-2].
-
-The singleplayer-only nature of the game means all 28 variants are played against the randomized card deck rather than AI opponents [^ref-4]. This represents a one-time game purchase monetization model typical of software from this era [^ref-4].
+All games are played alone against the shuffled deck, with no computer opponents.[^ref-2][^ref-20] Skilful play earns points, but *Power Play* complained that the game had no high-score list.[^ref-17]
 
 ## Reception
 
 ### Contemporary Reviews
 
-Contemporary review data for Hoyle Official Book of Games Volume 2 is limited in the available research materials. The game was released during a period when dedicated card game collections were becoming popular on home computers. Publications such as *Computer Gaming World* covered Sierra's Hoyle series during this era, though specific review scores for Volume 2 were not as widely documented as its predecessor[^ref-14].
+Contemporary reviews were mixed:
+
+- **Computer Gaming World** (No. 75, October 1990) gave it a short preview in its "Taking a Peek" column. It found it lacked "the graphics or competitive play of volume 1, but it's still a fairly solid product", and listed the IBM version at $34.95.[^ref-16]
+- **Power Play** (October 1990, German) reviewed the MS-DOS/EGA version and scored it 30%.[^ref-17][^ref-22] The reviewer liked the first Hoyle's witty computer opponents but said the sequel stood out for "markerschütternde Langeweile" ("bone-chilling boredom"). The review saw little advantage over real cards and expected more from a program costing over 100 marks.[^ref-17]
+- **Video Games & Computer Entertainment** (January 1991) was the most positive. Its reviewer, credited as "A. K.", praised the easy-to-read card images and brisk animation, and its "extreme user-friendliness and hassle-free operation". The review concluded it was "an excellent card anthology for one-player fun. Its quality is worthy of its famous name." MobyGames records the score as 9/10.[^ref-18][^ref-22]
+
+MobyGames also lists Raze (78%), Génération 4 (68%) and PC-Spiele '92 (60%) among its critic scores.[^ref-22] It also lists a 69% from *The Games Machine* (Atari ST, September 1990). That review's quoted excerpt, though, describes opponents chatting in speech bubbles, which matches Volume 1 rather than this solitaire-only volume.[^ref-22][^ref-2]
 
 ### Modern Assessment
 
-Modern aggregate ratings show the game has maintained a positive reputation among retro gaming enthusiasts. According to MobyGames, the game received a critics score of 65% based on 5 ratings, while players rated it 4.3 out of 5 based on 16 ratings [^ref-1].
-
 **Aggregate Scores:**
-- **MobyGames Critics:** 65% (5 reviews)[^ref-1]
-- **MobyGames Players:** 4.3/5 (16 ratings)[^ref-1]
+- **MobyGames Critics:** 66% (6 ratings)[^ref-22]
+- **MobyGames Players:** 4.1/5 (18 ratings)[^ref-22]
 
 ## Development
 
 ### Origins
 
-Hoyle Official Book of Games Volume 2 was developed as a follow-up to Sierra's successful first Hoyle volume from 1989 [^ref-3]. The decision to focus exclusively on solitaire games represented a strategic shift from the multiplayer-focused original, which had featured Sierra adventure game characters as card game opponents [^ref-2]. The Hoyle brand itself drew upon the legacy of Edmond Hoyle, the 18th-century English writer whose name became synonymous with authoritative game rules [^ref-3].
+Volume 2 followed Sierra's first Hoyle volume from 1989.[^ref-2][^ref-15] Warren Schwader, Sierra's first hired programmer and author of *Hi-Res Cribbage* (1980), designed both volumes.[^ref-15] Focusing on solitaire dropped the first volume's computer opponents.[^ref-2]
 
 ### Production
 
-The game was designed and programmed by Warren Schwader, who also contributed to the game's artwork [^ref-1]. [[Ken Williams]] served as executive producer, providing oversight for the project as part of Sierra's broader software catalog [^ref-1]. The music was composed by Robert Atesalp, adding audio accompaniment to the card game experience [^ref-1].
+Warren Schwader designed and programmed the game and also worked on its artwork.[^ref-1] [[Ken Williams]] was executive producer, and Robert Atesalp composed the music.[^ref-1]
 
 **Development Credits:**[^ref-1]
 - **Executive Producer:** [[Ken Williams]]
 - **Designer/Programmer:** Warren Schwader
 - **Artists:** Warren Schwader, James Larsen, Gerald Moore
 - **Composer:** Robert Atesalp
+- **Documentation:** Bridget McKenna
 - **Atari Version By:** John Rettig, Steve Coallier
 - **Development System By:** [[Jeff Stephenson]], Robert Eric Heitman, Pablo Ghenis, John Hartin, Dan Foy, John Rettig, Corinna Abdul, [[Corey Cole]]
 
 ### Technical Achievements
 
-The game was built on Sierra's SCI0 interpreter, the same technology powering the company's adventure games during this period [^ref-4]. This engine allowed for mouse-driven interaction and graphical card displays across multiple hardware configurations [^ref-4]. The use of SCI technology demonstrated Sierra's ability to leverage their adventure game development tools for other gaming genres.
+The game runs on Sierra's SCI0 interpreter, the engine behind the company's adventure games of the period.[^ref-4][^ref-19]
 
 ### Technical Specifications
 
-**DOS Version:**[^ref-4]
-- **Resolution:** Variable (Hercules, CGA, MCGA, EGA, Tandy/PCjr, VGA supported)
-- **Video Modes:** Hercules, CGA, MCGA, EGA, Tandy/PCjr, VGA
-- **Minimum CPU:** Intel 8088
-- **Recommended CPU:** Intel 8086
-- **RAM:** 512 KB minimum
-- **OS:** DOS 6.22
+**DOS Version:**
+- **Video Modes:** Hercules, CGA, MCGA, EGA, Tandy/PCjr, VGA[^ref-4]
+- **RAM:** 512 KB[^ref-4][^ref-17]
+- **Minimum CPU:** Intel 8088[^ref-4]
+- **Media:** two disks[^ref-17]
 
-**File Sizes by Platform:**[^ref-5]
-- **DOS:** 364.2 KB
-- **Amiga:** 1.9 MB
-- **Atari ST:** 492.2 KB
-- **Mac:** 620.0 KB
+*Power Play* noted that the PC version supports Hercules, CGA, EGA and VGA cards but uses only the EGA palette.[^ref-17]
 
 ### Version History
 
-| Version | Date | Platform | Notes |
-|---------|------|----------|-------|
-| 1.0 | 1990 | DOS | Initial release[^ref-4] |
-| 1.0 | 1990 | Amiga | Amiga port[^ref-1] |
-| 1.0 | 1990 | Atari ST | Atari ST port by John Rettig and Steve Coallier[^ref-1] |
-| 1.0 | 1991 | Macintosh | Mac port[^ref-1] |
+| Date | Platform | Notes |
+|------|----------|-------|
+| 1990 | Amiga | Sierra On-Line, US[^ref-21] |
+| 1990 | Atari ST | Atari version by John Rettig and Steve Coallier; also distributed in Germany by United Software[^ref-1][^ref-21] |
+| Dec 1990 | DOS | Sierra On-Line, US[^ref-21] |
+| 1991 | Macintosh | Sierra On-Line, US[^ref-21] |
+| 1994 | Amiga | UK re-release by U.S. Gold (Kixx XL)[^ref-21] |
 
-**SCI Interpreter Version:**[^ref-4]
+**SCI Interpreter Version (DOS):**[^ref-19]
 
-| Game Version | Interpreter | Type | Notes |
-|--------------|-------------|------|-------|
-| 1.0 | SCI0 | SCI0 | Initial release, Sierra Creative Interpreter |
+| Game Version | Interpreter | Type |
+|--------------|-------------|------|
+| 1.000.011 | 0.000.572 | SCI0 |
 
 ### Technical Issues
 
-The game benefits from modern compatibility solutions. ScummVM version 2.1 and later supports cloud saves on third-party cloud storage services, enabling players to synchronize their progress across devices[^ref-4][^ref-8]. This modern enhancement helps preserve the gaming experience for contemporary players.
+ScummVM has supported the game since version 1.2.0.[^ref-20]
 
 ### Easter Eggs and Trivia
 
-- The game includes all 28 games as solitaire variants, unlike Volume 1 which featured multiplayer card games [^ref-2]
-- There was no option for choosing opponents, as the solitaire format eliminated the need for AI players [^ref-2]
-- Volume 2 did not feature any Sierra characters as co-players, departing from the first volume's tradition [^ref-2]
-- The Hoyle brand name derives from Edmond Hoyle, the 18th-century English writer who became the definitive authority on card game rules [^ref-3]
+- All 28 games are solitaire variants, unlike Volume 1, which featured multiplayer card games.[^ref-2]
+- There was no option to choose opponents, and no Sierra characters appear as co-players.[^ref-2]
+- *Power Play* reported that the box carried the slogan "Läuft toll auf Laptops! Die perfekte Art, sich während Flugreisen die Zeit zu vertreiben" (roughly: runs great on laptops, the perfect way to pass time on flights).[^ref-17]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-While specific sales figures are not available in the research data, the Hoyle series proved commercially successful enough for Sierra to continue producing additional volumes throughout the 1990s and into the 2000s [^ref-3]. The brand eventually passed to other publishers, with Encore Software later releasing Hoyle titles for Windows platforms [^ref-3].
-
-Used copies of various Hoyle games, including later entries in the series, remain available on secondary markets with prices ranging from $0.99 to $6.99 on sites like eBay and Amazon [^ref-3].
+No sales figures for Volume 2 have been found. The first volume sold over 250,000 copies by 1990.[^ref-2] The series ran from 1989 to 2016. [[Encore Software]] published it from 2005 to 2016.[^ref-2][^ref-8]
 
 ### Collections
 
-Hoyle Official Book of Games Volume 2 was part of Sierra's broader Hoyle gaming brand, which originated in 1989 with the first volume[^ref-3][^ref-11]. The series continued to expand with additional volumes covering different game types and categories, documented extensively in Sierra's historical archives[^ref-15].
+Volume 2 was part of Sierra's Hoyle line, which began in 1989 with the first volume.[^ref-11][^ref-15] Sierra's later *Hoyle Solitaire* (1996) again offered 28 solitaire variations.[^ref-8]
 
 ### Fan Projects
 
-The game is preserved and playable through various retro gaming platforms. ClassicReload hosts the DOS version for browser-based play [^ref-6]. ScummVM provides modern compatibility support for the title, with version 2.1 adding cloud save functionality [^ref-4].
-
-### Related Publications
-
-The Hoyle brand was associated with a long tradition of printed game rule books. While the game itself served as a digital implementation of solitaire rules, the broader Hoyle publishing legacy includes works such as "Hoyle's Rules of Games: Play According to Hoyle" by Albert H. Morehead and Geoffrey Mott-Smith, published by Signet [^ref-7].
-
-### Critical Perspective
-
-Hoyle Official Book of Games Volume 2 represents an important moment in Sierra's diversification beyond adventure games. While the company remained best known for series like King's Quest and Leisure Suit Larry, the Hoyle brand demonstrated Sierra's ability to capture the casual gaming market years before that term became industry standard.
-
-The game's comprehensive collection of 28 solitaire variants provided substantial value for card game enthusiasts, offering digital implementations of games that would otherwise require physical decks and considerable table space. The top-down, fixed-screen presentation established conventions that would persist in computer solitaire implementations for decades, most notably in Microsoft's bundled Windows solitaire games.
+The game is playable through ScummVM.[^ref-20] ClassicReload hosts the DOS version for browser-based play.[^ref-6]
 
 ## Purchase
 
@@ -201,8 +191,7 @@ The game's comprehensive collection of 28 solitaire variants provided substantia
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- No official digital release currently available; physical copies available through secondary markets
+- Not currently sold on GOG, Steam or elsewhere. ScummVM lists it as not available for purchase.[^ref-20]
 
 **Download / Preservation**
 - [ClassicReload](https://classicreload.com/hoyle-official-book-of-games-volume-2.html) - Browser-based play[^ref-6]
@@ -269,18 +258,20 @@ The game's comprehensive collection of 28 solitaire variants provided substantia
 
 ## References
 
-[^ref-1]: [MobyGames – Hoyle Official Book of Games Volume 2: Solitaire](https://www.mobygames.com/game/760/hoyle-official-book-of-games-volume-2-solitaire/) – credits, platforms, ratings, game content, development team
-[^ref-2]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – game count, solitaire focus, platform releases, differences from Volume 1
-[^ref-3]: [Medium – The History of Hoyle Slots Video and Poker Game Creation & Development](https://medium.com/@mpmgcllc/the-history-of-hoyle-slots-video-and-poker-game-creation-development-0bff30277a87) – Hoyle brand history, Edmond Hoyle origin, series continuation
-[^ref-4]: [PCGamingWiki – Hoyle's Official Book of Games: Volume 2](https://www.pcgamingwiki.com/wiki/Hoyle%27s_Official_Book_of_Games:_Volume_2) – SCI0 engine, system requirements, video modes, ScummVM support, release dates
-[^ref-5]: Old Games Download – Hoyle Official Book of Games Volume 2: Solitaire (link removed: game-download site) – file sizes, platform availability
-[^ref-6]: [ClassicReload – Hoyle Official Book of Games Volume 2](https://classicreload.com/hoyle-official-book-of-games-volume-2.html) – DOS platform, 1990 release
-[^ref-7]: [AbeBooks – Hoyle's Rules of Games](https://www.abebooks.com/9780451157386/Hoyles-Rules-Games-Play-Hoyle-0451157389/plp) – Hoyle brand publishing history, 28 solitaire varieties mention
-[^ref-8]: [ScummVM Wiki – Hoyle's Official Book of Games series](https://wiki.scummvm.org/index.php/Hoyle%27s_Official_Book_of_Games_series) – engine compatibility, series overview
+[^ref-1]: [MobyGames – Hoyle Official Book of Games Volume 2: Solitaire](https://www.mobygames.com/game/760/hoyle-official-book-of-games-volume-2-solitaire/) – credits, game list, top-down/fixed-screen classification
+[^ref-2]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – 28 games vs. Volume 1's six, solitaire focus, no opponents; Volume 1 sold 250,000+ by 1990; Encore 2005–2016
+[^ref-4]: [PCGamingWiki – Hoyle's Official Book of Games: Volume 2](https://www.pcgamingwiki.com/wiki/Hoyle%27s_Official_Book_of_Games:_Volume_2) – SCI0 engine, DOS video modes, 8088 CPU, 512 KB RAM
+[^ref-6]: [ClassicReload – Hoyle Official Book of Games Volume 2](https://classicreload.com/hoyle-official-book-of-games-volume-2.html) – DOS version, browser play
+[^ref-8]: [ScummVM Wiki – Hoyle's Official Book of Games series](https://wiki.scummvm.org/index.php/Hoyle%27s_Official_Book_of_Games_series) – series overview; later Hoyle games by Sierra and Encore Software
 [^ref-9]: [Internet Archive – Hoyle Official Book of Games Volume 2](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_2_1990) – preservation copy, DOS version
-[^ref-10]: [MyAbandonware – Hoyle Official Book of Games Volume 2](https://www.myabandonware.com/game/hoyle-official-book-of-games-volume-2-solitaire-1vr) – download, platform list, user ratings
-[^ref-11]: [Sierra Gamers – Hoyle Series](https://www.sierragamers.com/hoyle-2/) – series history, development context
-[^ref-12]: [Fictional Crossover Fandom – Hoyle's Official Book of Games](https://fictionalcrossover.fandom.com/wiki/Hoyle%27s_Official_Book_of_Games) – series connections
-[^ref-13]: [UVList – Hoyle Official Book of Games Volume 2](https://www.uvlist.net/game-48836-Hoyle+Official+Book+of+Games+Volume+2) – release information, technical data
-[^ref-14]: GameFAQs – Hoyle Official Book of Games Volume 2 *(link removed: it led to a different game's page)* – platform data, user interest
-[^ref-15]: [Sierra Chest – Hoyle Series](https://sierrachest.com/index.php?a=groups&id=42) – series documentation, packaging
+[^ref-10]: [MyAbandonware – Hoyle Official Book of Games Volume 2](https://www.myabandonware.com/game/hoyle-official-book-of-games-volume-2-solitaire-1vr) – DOS version
+[^ref-11]: [Sierra Gamers – Hoyle Series](https://www.sierragamers.com/hoyle-2/) – series list with title and year
+[^ref-12]: [Fictional Crossover Fandom – Hoyle's Official Book of Games](https://fictionalcrossover.fandom.com/wiki/Hoyle%27s_Official_Book_of_Games) – series list: Volume 2 (1990) for DOS, MacOS, Amiga, Atari ST
+[^ref-15]: [Sierra Chest – Hoyle Series](https://sierrachest.com/index.php?a=groups&id=42) – Volume 2 designed by Warren Schwader, 1990, 28 solitaire varieties; Schwader's Hi-Res Cribbage
+[^ref-16]: [Computer Gaming World No. 75 (October 1990), "Taking a Peek"](https://archive.org/download/Computer_Gaming_World_Issue_75/Computer_Gaming_World_Issue_75_djvu.txt) – "Twenty-eight (count 'em) solitaire card games… still a fairly solid product"; rules on-screen; IBM $34.95
+[^ref-17]: [Power Play (October 1990), "Es ist zum Hoylen"](https://archive.org/details/powerplay_1990-10) – German review: 28 variants, two difficulty levels each, no high-score list, 512 KB, EGA palette, two disks
+[^ref-18]: [Video Games & Computer Entertainment (January 1991), pp. 181–182](https://archive.org/details/video-games-and-computer-entertainment-january-1991/page/181/mode/2up) – review by "A. K.": controls, on-screen rules by Bridget McKenna, "an excellent card anthology for one-player fun"
+[^ref-19]: [SCI Wiki – Sierra SCI Release List](https://sciwiki.sierrahelp.com/index.php/Sierra_SCI_Release_List) – Hoyle Volume 2: game version 1.000.011, interpreter 0.000.572 (SCI0)
+[^ref-20]: [ScummVM Wiki – Hoyle's Official Book of Games: Volume 2](https://wiki.scummvm.org/index.php?title=Hoyle%27s_Official_Book_of_Games:_Volume_2) – 28 solitaire variations; no Sierra characters as opponents; supported since ScummVM 1.2.0; not available for purchase
+[^ref-21]: [MobyGames – Releases](https://www.mobygames.com/game/760/hoyle-official-book-of-games-volume-2-solitaire/releases/) – Amiga/Atari ST 1990, DOS Dec 1990, Mac 1991; U.S. Gold Kixx XL UK re-release 1994
+[^ref-22]: [MobyGames – Reviews](https://www.mobygames.com/game/760/hoyle-official-book-of-games-volume-2-solitaire/reviews/) – critics 66% (6), players 4.1/5 (18); VG&CE 9/10, Raze 78, TGM 69, Génération 4 68, PC-Spiele '92 60, Power Play 30
