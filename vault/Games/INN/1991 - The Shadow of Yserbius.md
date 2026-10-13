@@ -1,38 +1,39 @@
 ---
 title: The Shadow of Yserbius
 release_year: 1991
-developer: Sierra On-Line
-designer: [Joe Ybarra, Michael Moore, Karl Buiter, Richard Aronson]
+developer: Ybarra Productions
+designer: [Joe Ybarra, Michael E. Moore, Karl Buiter]
 publisher: Sierra On-Line
 genre: RPG
-platforms: [DOS, DOS, PC, Windows, Sierra Network, ImagiNation Network]
+platforms: [DOS, Sierra Network, ImagiNation Network]
 series: Shadow of Yserbius
 engine: Multiplayer graphical MUD engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: The Shadow of Yserbius was a groundbreaking graphical multi-user dungeon
-  (MUD) game that originally launched on The Sierra Network in 1991. Developed by...
+last_updated: '2026-10-13'
+description: The Shadow of Yserbius was an early graphical multi-user dungeon (MUD)
+  developed by Ybarra Productions that launched on The Sierra Network in 1991, with
+  an offline single-player version released by Sierra On-Line in 1993.
 tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # The Shadow of Yserbius
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-The Shadow of Yserbius was a groundbreaking graphical multi-user dungeon (MUD) game that originally launched on The Sierra Network in 1991[^ref-1]. Developed by Ybarra Productions in collaboration with Sierra On-Line under the direction of Joe Ybarra and Michael Moore, it represented one of the earliest examples of a graphical MMORPG, bridging the gap between text-based MUDs and modern online role-playing games[^ref-2]. According to industry critics, the game "set the standard by which all future MUDs would be judged" when it opened to rave reviews[^ref-3].
+The Shadow of Yserbius was a groundbreaking graphical multi-user dungeon (MUD) game that originally launched on The Sierra Network in 1991[^ref-1]. It was designed by Joe Ybarra, a former Apple and Electronic Arts employee, with a team that included Karl Buiter and Michael E. Moore[^ref-2], and developed by Ybarra Productions for Sierra On-Line[^ref-6]. A 2005 GameSpot user review called it "one of the first MMORPG's ever created"[^ref-14]. According to industry critics, the game "set the standard by which all future MUDs would be judged" when it opened to rave reviews[^ref-3].
 
-The game served as the centerpiece of The Sierra Network's "MedievaLand" service, described as the network's "better-looking answer to Neverwinter Nights"—the only other graphical MMORPG available at the time[^ref-2]. Players paid hourly rates to access the game through dial-up connections, exploring dungeons, forming parties, and engaging in both cooperative adventuring and player-versus-player combat[^ref-1]. The multiplayer experience was revolutionary for its era, allowing up to 30 players (later expanded to 60) to meet in rooms and adventure together in groups of up to four[^ref-4].
+The game served as the centerpiece of The Sierra Network's "MedievaLand" service, described as the network's "better-looking answer to Neverwinter Nights"[^ref-2]. The CRPG Addict notes there was little else in online RPGs at the time: "basically this and AOL's Neverwinter Nights (1991)"[^ref-5]. When the Sierra Network went online in 1991 it offered flat-rate access for $12 a month to California residents and $5 a month plus $2 an hour elsewhere[^ref-2]. Players explored dungeons in parties, and player-versus-player sparring was another popular pastime[^ref-1]. The multiplayer experience was revolutionary for its era, allowing up to 30 players (later expanded to 60) to meet in rooms and adventure together in groups of up to four[^ref-4].
 
 A single-player, non-networked version was released in 1993, though critics were far less enthusiastic about the solo experience. Computer Gaming World's Bernie Yee observed, "Playing Yserbius without fellow on-line gamers is like being in an amusement park after hours, one in which the rides aren't all that fun to begin with"[^ref-5]. James V. Trunzo of White Wolf magazine similarly noted that "once you take away interaction with live friends and foes, Yserbius is just another hack-and-slay adventure game, lacking most of the features considered standard in other games of its ilk"[^ref-1].
 
 > [!info]- Game Info
-> **Developer:** [[Sierra On-Line]], Ybarra Productions[^ref-6]
-> **Designer:** Joe Ybarra, Michael Moore, Karl Buiter, Richard Aronson[^ref-6]
+> **Developer:** Ybarra Productions[^ref-6]
+> **Designer:** Joe Ybarra, Michael E. Moore, Karl Buiter[^ref-6]
 > **Publisher:** Sierra On-Line[^ref-7]
 > **Engine:** Multiplayer graphical MUD engine[^ref-6]
-> **Platforms:** DOS, MS-DOS, PC, Sierra Network, ImagiNation Network[^ref-8]
+> **Platforms:** DOS (online via The Sierra Network / ImagiNation Network)[^ref-1]
 > **Release Year:** 1991
 > **Series:** Shadow of Yserbius
 > **Protagonist:** Player-created character
@@ -40,7 +41,7 @@ A single-player, non-networked version was released in 1993, though critics were
 
 ## Story Summary
 
-The Shadow of Yserbius takes place in a fantasy world centered around the volcanic mountain Yserbius. Players "create a character and journey as a solo adventurer into the dungeons and depths of the volcano Yserbius"[^ref-9]. The game follows a traditional fantasy RPG premise where "once again brave warriors and wizards are needed to enter dangerous dungeons and uncover the secrets of the evils that plague the land"[^ref-10].
+The Shadow of Yserbius takes place in a fantasy world centered around the volcanic mountain Yserbius. Players "create a character and journey as a solo adventurer into the dungeons and depths of the volcano Yserbius"[^ref-9]. The goal of the game is to kill an evil elemental creature called En-li-Kil[^ref-1].
 
 The game's setting encompasses an expansive dungeon system that goes "deep into the earth and into the timeless beyond"[^ref-11]. Players must solve puzzles and quests while battling the forces of evil lurking within the volcanic depths. The atmosphere combined classic sword-and-sorcery elements with the social dynamics of multiplayer interaction, creating a unique blend of traditional RPG storytelling and emergent player-driven narratives.
 
@@ -48,25 +49,25 @@ The game's setting encompasses an expansive dungeon system that goes "deep into 
 
 ### Interface and Controls
 
-The Shadow of Yserbius featured a first-person perspective with a "graphical four-panel display" interface that was considered "amazing for 1992"[^ref-29]. The visuals presented first-person 3D graphics using a Wizardry-style dungeon crawler approach with grid-based movement[^ref-8]. The interface included auto-mapping functionality and a class-based character system that allowed players to track their progress through the labyrinthine dungeons[^ref-8].
+The Shadow of Yserbius used a first-person, grid-based dungeon view[^ref-8]; the CRPG Addict described it as "essentially a nice-looking Wizardry clone"[^ref-2]. The game included auto-mapping and a class-based character system[^ref-8]. The developer of the MedievaLands remake later wrote that "the Yserbius UI was amazing for 1992"[^ref-29].
 
-However, the original interface presented challenges for newcomers. As one tester reported during playtesting: "I think this is the next character creation screen. I see what I think is my character, but I don't know what to do with it. I see a bunch of items in my bag but I don't know what to do with them"[^ref-29]. The MedievaLands remake developer later noted: "The Yserbius UI was amazing for 1992, and it is a joy to return to if you played the game back then. But for new players the dungeon interface doesn't make much sense"[^ref-29].
+However, the original interface presented challenges for newcomers. When the MedievaLands developer showed the original dungeon interface to new players, one said: "I think this is the next character creation screen. I see what I think is my character, but I don't know what to do with it. I see a bunch of items in my bag but I don't know what to do with them"[^ref-29]. The developer added that the UI "is a joy to return to if you played the game back then. But for new players the dungeon interface doesn't make much sense"[^ref-29].
 
 ### Character Creation
 
-Players could choose from eight playable races: Human, Orc, Elf, Troll, Dwarf, Gnome, Halfling, and Gremlin[^ref-4]. Six character professions were available: Barbarian, Knight, Ranger, Thief, Cleric, and Wizard[^ref-4]. The game supported both male and female character options, and characters were limited to level 20 for online play[^ref-1].
+Players could choose from eight playable races: Human, Orc, Elf, Troll, Dwarf, Gnome, Halfling, and Gremlin[^ref-4]. Six character professions were available: Barbarian, Knight, Ranger, Thief, Cleric, and Wizard[^ref-4]. Characters could be male or female and aligned with either Harmony or Chaos. Under the offline version's rules, a character could move freely between offline and online play up to level 20; at that point the player had to choose, because a level-20 character played offline could no longer be used online[^ref-9].
 
 ### Structure and Progression
 
-The game featured dungeon levels measuring 16 x 16 in size, creating a substantial exploration space[^ref-1]. Players progressed through a guild skills system and spell points mechanic, providing character advancement through traditional RPG elements[^ref-8]. The turn-based combat allowed for strategic planning, while the multiplayer element added unpredictability as "the only twist is, your party members are other players"[^ref-14].
+The game featured dungeon levels measuring 16 x 16 in size[^ref-5]. The turn-based combat allowed for strategic planning, while the multiplayer element added unpredictability as "the only twist is, your party members are other players"[^ref-14].
 
-The online version initially supported 30 players per room, later expanded to 60 to accommodate growing popularity[^ref-1]. Players could form parties of up to four members, communicating through built-in chat systems to coordinate dungeon exploration and combat strategies.
+The online version initially supported 30 players per room, later expanded to 60 to accommodate growing popularity[^ref-1]. Players could form parties of up to four members[^ref-1], and after battles they often relaxed and role-played in the tavern[^ref-14].
 
 ### Multiplayer Dynamics
 
-The multiplayer experience was the game's defining feature. Players could engage in both cooperative dungeon crawling and player-versus-player combat, though PvP was later changed from unrestricted to consensual due to player feedback[^ref-1]. The social element extended beyond combat—the game became one of the first online "third spaces" where players gathered not just to adventure but to socialize and form lasting communities[^ref-11].
+The multiplayer experience was the game's defining feature. Players could engage in both cooperative dungeon crawling and player-versus-player combat, though PvP, originally unrestricted, was limited to consensual fights "due to abuse"[^ref-14]. The social element extended beyond combat—the game became one of the first online "third spaces" where players gathered not just to adventure but to socialize and form lasting communities[^ref-11].
 
-As MobyGames reviewer Travis Owens noted: "If you had played this online, you were really ahead of your time as network games weren't not common, nor well known"[^ref-6]. The experience of encountering real players in the dungeons created an atmosphere impossible to replicate in single-player games.
+As MobyGames user reviewer Travis Owens put it: "If you had played this online, you were really ahead of your time as network games weren't not common, nor well known"[^ref-6].
 
 ## Reception
 
@@ -75,22 +76,22 @@ As MobyGames reviewer Travis Owens noted: "If you had played this online, you we
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | White Wolf #41 | Below Average (solo), Excellent (online) | James V. Trunzo noted that solo play lacked standard RPG features[^ref-1] |
-| Computer Gaming World | Positive (online version) | "Those who possess the money would be well served to try out TSN and Yserbius"[^ref-17] |
-| Computer Gaming World | Negative (offline version) | Called it "a hollow shell of its vibrant on-line self"[^ref-5] |
-| MobyGames | 6.6/10 | Aggregate user rating[^ref-6] |
-| MyAbandonware | 4.67/5 | User rating from HOTUD[^ref-18] |
-| Abandonware DOS | 3.68/5 | User rating[^ref-8] |
+| Computer Gaming World (May 1993) | Positive (online version) | Samuel Baker: "Those who possess the money would be well served to try out TSN and Yserbius"[^ref-17] |
+| Computer Gaming World (Feb 1994) | Negative (offline version) | Bernie Yee called it "a hollow shell of its vibrant on-line self"[^ref-5] |
+| MobyGames | 6.4/10 | Moby Score[^ref-6] |
+| MyAbandonware | 4.67/5 | User rating, 24 votes[^ref-18] |
+| Abandonware DOS | 3.72/5 | User rating, 32 votes[^ref-8] |
 | GameSpot | 7.6/10 | User review by TheDervish[^ref-14] |
 
 The dichotomy between online and offline reviews highlighted the game's fundamental design as a multiplayer experience. Computer Gaming World stated that "there is no way that in the age of Lands of Lore, Riftwar, and Ultima VIII: Pagan, you can take ... Yserbius seriously as a stand-alone game"[^ref-5].
 
 ### Awards and Recognition
 
-The game earned a Computer Gaming World nomination as a finalist for Online Game of the Year in June 1994[^ref-1], recognition that acknowledged its pioneering role in online gaming despite the limitations of its single-player adaptation.
+In June 1994, the ImagiNation Network's new version of the game, *Shadow of Yserbius: Fates of Twinion*, was a finalist for Computer Gaming World's On-Line Game of the Year; the award went to Multi-Player BattleTech[^ref-30][^ref-1].
 
 ### Modern Assessment
 
-Modern retrospectives have recognized The Shadow of Yserbius as "one of the first MMORPG's ever created," acknowledging its pioneering role in online gaming history[^ref-14]. The HOTUD review noted that "stripped off its multiplayer features, they are still decent RPGs, with a good variety of monsters, spells, interesting sub-quests, even though it's still the same old 'kill foozle' plot"[^ref-18]. The site recommended the game as "highly recommended for RPG beginners"[^ref-18].
+GameSpot user reviewer TheDervish, writing in 2005, called The Shadow of Yserbius "one of the first MMORPG's ever created"[^ref-14]. The HOTUD review noted that "stripped off its multiplayer features, they are still decent RPGs, with a good variety of monsters, spells, interesting sub-quests, even though it's still the same old 'kill foozle' plot"[^ref-18]. The site recommended the game as "highly recommended for RPG beginners"[^ref-18].
 
 Abandonware France called it "graphically pleasant and very simple to use" and suggested it "can be a good introductory game to the universe of Dungeon crawlers"[^ref-21]. The speedrunning community has also embraced the game, with players discovering that "Yserbius (in the Medievalands engine) can be beaten in under two hours from new characters"[^ref-22].
 
@@ -98,41 +99,41 @@ Abandonware France called it "graphically pleasant and very simple to use" and s
 
 ### Origins
 
-Ken Williams conceived The Sierra Network (TSN) as part of Sierra's strategy to expand into multiplayer gaming. As Williams stated in a press release announcing the network test, "Sierra is interested in extending our core product-development technology to have multiplayer capabilities"[^ref-23]. The network launched on October 31, 1990 with around 1,000 volunteer testers in the Los Angeles area, and included classic parlor games like chess and bridge alongside graphical adventures[^ref-4].
+Ken Williams conceived The Sierra Network (TSN) as part of Sierra's strategy to expand into multiplayer gaming. As Williams stated in a press release announcing the network test, "Sierra is interested in extending our core product-development technology to have multiplayer capabilities"[^ref-23]. Sierra announced on October 31, 1990 that it had begun testing the network, with slightly under 1,000 volunteer testers in the Los Angeles area and a modest slate of classic parlor games like chess and bridge[^ref-23].
 
-The project was technically ambitious for its time. Developer Brian Thomson recalled the challenges: "Ken [Williams] had no idea at the how hardcore gamers would eat his bandwidth"[^ref-24]. The hourly payment model for online access through dial-up connections created both technical and business challenges that Sierra hadn't fully anticipated.
+The project was technically ambitious for its time. Developer Brian Thomson recalled the challenges: "Ken [Williams] had no idea at the how hardcore gamers would eat his bandwidth"[^ref-24]. According to MassivelyOP, the amount of data players used was more than Sierra could support without driving the company toward bankruptcy, and the network was taken over by AT&T[^ref-24].
 
 ### Production
 
-The game was developed by Ybarra Productions Inc. in collaboration with Sierra On-Line, with Joe Ybarra and Michael Moore serving as the primary designers[^ref-6]. The development team included Karl Buiter, Richard Aronson, Fred Butts, Scot Amos, and Wendy Barlow[^ref-6]. Music was composed by Aubrey Hodges and Russell Lieblich, creating atmospheric audio that enhanced the dungeon exploration experience[^ref-8].
+The game was developed by Ybarra Productions, Inc. and published by Sierra On-Line[^ref-6]. MobyGames credits its design and development to a team including Joe Ybarra, Michael E. Moore, Karl Buiter, Fred Butts, and Scot Amos[^ref-6]. Music and sound effects were by Aubrey Hodges and Russell Lieblich, with a sound driver by John Miles[^ref-6].
 
-Richard Aronson, one of the designers, had previously provided the voice of Cedric the Owl in King's Quest V[^ref-24]. The development of sequels proved challenging—Aronson later revealed that "Fates of Twinion was so buggy QA refused to test anymore," indicating the pressures the team faced in expanding the online RPG franchise[^ref-24].
+The sequels proved difficult. Richard Aronson, best known as the voice of Cedric the Owl in King's Quest V, was brought in to fix the follow-up and later designed The Ruins of Cawdor[^ref-24]. He recalled that "Fates of Twinion was so buggy QA refused to test anymore", and noted in passing that Yserbius itself had "a bad PvP fatal" that "didn't get noticed much"[^ref-24].
 
 ### Technical Achievements
 
-The Shadow of Yserbius was built using a custom multiplayer graphical MUD engine that supported real-time interaction between dozens of players[^ref-8]. The game featured first-person 3D graphics using polygon-based rendering and utilized the AIL/Miles Sound System for audio[^ref-8]. Supporting multiple graphics modes and requiring players to connect through The Sierra Network using dial-up modems, it represented a significant technical challenge for the early 1990s[^ref-1].
+The dungeon view is tile-based rather than true 3D; the CRPG Addict noted that while it looks nicer than Neverwinter Nights, "it's still tiles and still textures"[^ref-2]. The game used the AIL/Miles Sound System for audio[^ref-6]. MobyGames lists an Intel 80286, 640 KB of RAM and VGA graphics as minimum requirements, support for AdLib, Roland MT-32 and Sound Blaster cards among others, and modem multiplayer[^ref-32].
 
-The pricing model of $13 for 30 hours of online play[^ref-4] was considered reasonable for the era but still limited the audience to dedicated gamers willing to invest in both equipment and ongoing subscription costs.
+One MobyGames user reviewer recalled paying "$13 for 30 hours" to play on TSN, "and not during primetime hours"[^ref-6].
 
 ## Legacy
 
 ### Series Expansion
 
-The Shadow of Yserbius spawned a series that included The Fates of Twinion (1993) and The Ruins of Cawdor (1995)[^ref-25]. These games used the same game engine but featured new plots—Ruins of Cawdor was notably loosely based on Shakespeare's Macbeth[^ref-26]. Only Shadow of Yserbius and Fates of Twinion were eventually made available as offline versions[^ref-4].
+The Shadow of Yserbius spawned a series that included The Fates of Twinion (1993) and The Ruins of Cawdor (1995)[^ref-25]. These games used the same game engine but featured new plots—Ruins of Cawdor was "essentially Macbeth redone for an online gaming audience"[^ref-24]. Only Shadow of Yserbius and Fates of Twinion were eventually made available as offline versions[^ref-4].
 
 ### Network History and Closure
 
-The Sierra Network was renamed to the ImagiNation Network and continued operating until AT&T purchased it from Sierra in 1994[^ref-4]. AOL subsequently acquired the rights from AT&T for a rumored $40 million in 1996 and shut down the service shortly thereafter[^ref-4]. The online version of the game ceased operation in 1996, ending an era of notable online gaming.
+The Sierra Network was renamed the ImagiNation Network in 1993[^ref-2], and AT&T purchased it from Sierra in 1994[^ref-5]. AOL acquired the rights from AT&T in 1996 for an undisclosed price, rumored to be $40 million, and soon abandoned the game[^ref-1][^ref-4]. The online version ceased operation that year[^ref-5].
 
 ### Revival Efforts
 
 The ImagiNation Revival Project resurrected the game in late 2007 using original client software with DOSBox, allowing nostalgic players to experience the multiplayer magic once again[^ref-1]. However, this server shut down in early 2016[^ref-1].
 
-A more ambitious modern remake called MedievaLands was developed by ZaneDubya as a personal hobby project[^ref-11]. This project recreated the original multiplayer experience for modern players, including new features such as an improved treasure system that added "seven million new items while keeping original 252 items"[^ref-29]. The development represented approximately 3,500 hours of work[^ref-11] and included complete UI overhauls to make the game more accessible to modern players.
+A more ambitious modern remake called MedievaLands was developed by ZaneDubya as a personal hobby project[^ref-11]. This project recreated the original multiplayer experience for modern players, including a new Treasure System: "The original games each had a total of 252 items. The new Treasure System adds seven million new items while keeping almost all of the items from the original games"[^ref-29]. The developer estimates he has spent "more than 3,500 hours" on the project[^ref-11] and included complete UI overhauls to make the game more accessible to modern players.
 
 ### Historical Significance
 
-The Shadow of Yserbius remains significant as one of the earliest graphical MMORPGs, predating many of the conventions that would later define the genre. Its influence can be traced through the evolution of online gaming from text-based MUDs to modern massively multiplayer experiences. As one GameSpot reviewer noted, playing it meant "you were really ahead of your time"[^ref-6]—a sentiment that captures both the game's pioneering nature and the challenges it faced in an era when online gaming infrastructure was still primitive.
+The Shadow of Yserbius was the first of three graphical MUDs for the online community[^ref-1], and one of very few online RPGs of its day[^ref-5]. As MobyGames user reviewer Travis Owens put it, playing it online meant "you were really ahead of your time"[^ref-6].
 
 ## Technical Specifications
 
@@ -141,31 +142,32 @@ The Shadow of Yserbius remains significant as one of the earliest graphical MMOR
 | View | First-person 3D[^ref-8] |
 | Movement | Grid-based[^ref-8] |
 | Combat | Turn-based[^ref-8] |
-| Dungeon Size | 16 x 16 per level[^ref-1] |
-| Max Character Level | 20 (online)[^ref-1] |
+| Dungeon Size | 16 x 16 per level[^ref-5] |
+| Online/offline transfer limit | Level 20[^ref-9] |
 | Party Size | Up to 4 players[^ref-1] |
 | Room Capacity | 30 players (later 60)[^ref-1] |
-| Connection | Dial-up modem[^ref-1] |
-| Sound | AIL/Miles Sound System[^ref-8] |
-| Disk Size | 1.44M[^ref-28] |
-| Manual | 36 pages[^ref-28] |
+| Connection | Modem[^ref-32] |
+| Sound | AIL/Miles Sound System[^ref-6] |
+| Minimum System | Intel 80286, 640 KB RAM, VGA[^ref-32] |
+| Hard Disk | 14 MB[^ref-32] |
+| Manual | 36-page scan[^ref-31] |
 
 ## Known Issues
 
-Several bugs and design issues were documented during the game's lifespan:
+Design complaints from the CRPG Addict's 2024 playthrough of the offline version:
 
-- Equipment utility was unclear from statistics[^ref-29]
-- Spinners telegraphed with a beep and 5-second delay[^ref-29]
-- Interface required excessive mouse work[^ref-29]
-- Guild leaders couldn't leave guilds[^ref-29]
-- Dissipate spell could target living enemies[^ref-29]
-- Combat spells only hit topmost monster in stack[^ref-29]
-- Equipment disappeared after using spell charges[^ref-29]
+- Item utility couldn't be judged from statistics, which "barely change"[^ref-5]
+- Spinners beep when you step into them, followed by about a five-second pause[^ref-5]
+- The interface "requires too much mouse work"[^ref-5]
+
+Bugs fixed in the MedievaLands remake:
+
+- In the Yserbius combat engine, spells meant to affect whole stacks of monsters hit only the topmost monster[^ref-29]
+- Remake-specific bugs: guild leaders couldn't leave their guilds, Dissipate could target living enemies, and equipment disappeared after its spell charges were used up[^ref-29]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Not currently available for purchase on major platforms
 
 **Download / Preservation**
@@ -191,16 +193,16 @@ Several bugs and design issues were documented during the game's lifespan:
 [^ref-7]: [Archive.org](https://archive.org/details/msdos_Shadow_of_Yserbius_1993) – Publisher information
 [^ref-8]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Shadow+of+Yserbius&gid=2142) – Platform and technical details
 [^ref-9]: [Archive.org Manual](https://archive.org/stream/Shadow_of_Yserbius_-_Manual/Shadow_of_Yserbius_-_Manual_djvu.txt) – Game description
-[^ref-10]: MobyGames *(link removed: it led to a different game's page)* – Game premise
 [^ref-11]: [MedievaLands](https://www.medievalands.com/) – Game setting description and remake information
-[^ref-14]: [GameSpot](https://www.gamespot.com/the-shadow-of-yserbius/user-reviews/2200-246384/) – Multiplayer mechanics and user review
-[^ref-17]: [IPFS Archive](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Shadow_of_Yserbius.html) – Computer Gaming World review
+[^ref-14]: [GameSpot](https://www.gamespot.com/the-shadow-of-yserbius/user-reviews/2200-246384/) – User review by TheDervish (2005); multiplayer mechanics
+[^ref-17]: [Computer Gaming World Issue 106 (May 1993)](https://archive.org/details/Computer_Gaming_World_Issue_106) – Samuel Baker, "A Trip Into the Fiery Environs of TSN's Yserbius", p. 78
 [^ref-18]: [MyAbandonware](https://www.myabandonware.com/game/shadow-of-yserbius-2aw) – User rating and HOTUD review
 [^ref-21]: [Abandonware France](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=4857) – French review
 [^ref-22]: [Reddit](https://www.reddit.com/r/Sierra/comments/weq5zl/speedruns_of_shadows_of_yserbius/) – Speedrunning information
-[^ref-23]: [Filfre.net](https://www.filfre.net/?s=Shadow+of+Yserbius) – Ken Williams press release
-[^ref-24]: [MassivelyOP](https://massivelyop.com/2019/06/22/the-game-archaeologist-sierras-fates-of-twinion-and-ruins-of-cawdor/) – Brian Thomson and Richard Aronson quotes
+[^ref-23]: [The Digital Antiquarian – The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) – Oct 31, 1990 test announcement, Ken Williams press release
+[^ref-24]: [MassivelyOP](https://massivelyop.com/2019/06/22/the-game-archaeologist-sierras-fates-of-twinion-and-ruins-of-cawdor/) – Brian Thomson and Richard Aronson quotes; Ruins of Cawdor and Macbeth
 [^ref-25]: [MobyGames](https://www.mobygames.com/game-group/shadow-of-yserbius-series) – Series information
-[^ref-26]: MobyGames *(link removed: it led to a different game's page)* – Ruins of Cawdor details
-[^ref-28]: [Archive.org](https://archive.org/details/20220303_20220303_0527) – Technical specifications
-[^ref-29]: [MedievaLands News](https://medievalands.com/news/) – Bug documentation from various updates
+[^ref-29]: [MedievaLands News](https://medievalands.com/news/) – Remake developer's update posts (UI overhaul, Treasure System, bug fixes)
+[^ref-30]: [Computer Gaming World Issue 119 (June 1994)](https://archive.org/details/Computer_Gaming_World_Issue_119) – "Announcing The New Premier Awards": Fates of Twinion finalist, Multi-Player BattleTech winner
+[^ref-31]: [Archive.org – Shadow of Yserbius Manual](https://archive.org/details/Shadow_of_Yserbius_-_Manual) – Manual scan, 36 pages
+[^ref-32]: [MobyGames – Tech Specs](https://www.mobygames.com/game/1653/shadow-of-yserbius/specs/) – Minimum requirements, sound devices, multiplayer options
