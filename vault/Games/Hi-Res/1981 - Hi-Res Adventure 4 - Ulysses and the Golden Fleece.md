@@ -10,27 +10,27 @@ series: Hi-Res Adventure
 engine: Hi-Res Adventure Text Parser
 protagonist: Ulysses
 sierra_lineage: Core Sierra
-last_updated: '2026-04-22'
+last_updated: '2026-10-12'
 description: 'Hi-Res Adventure #4: Ulysses and the Golden Fleece is a graphic adventure
   game released in 1981 for the Apple II by On-Line Systems (later known as Sierra...'
 tags: [1980s, adventure, hi-res-adventure, sierra]
 ---
 # Hi-Res Adventure #4: Ulysses and the Golden Fleece
 
-<small style="color: gray">Last updated: April 22, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Hi-Res Adventure #4: Ulysses and the Golden Fleece is a graphic adventure game released in 1981 for the Apple II by On-Line Systems (later known as Sierra On-Line)[^ref-1]. The game is part of the Hi-Res Adventures series, a pioneering collection of early 1980s adventure games that helped define the graphical adventure genre[^ref-2]. Players take control of Ulysses, the legendary Greek hero, who is tasked by the king with finding the golden fleece, a legendary treasure protected by the gods[^ref-1].
+Hi-Res Adventure #4: Ulysses and the Golden Fleece is a graphic adventure game released in 1981 for the Apple II by On-Line Systems, the company renamed Sierra On-Line in 1982[^ref-1][^ref-4]. Written by newcomer Bob Davis with [[Ken Williams]], it is the fourth numbered entry in the Hi-Res Adventure series[^ref-2][^ref-31]. Players take the role of Ulysses, whom the king sends to find the Golden Fleece, a legendary treasure protected by the gods[^ref-10].
 
-The game represents a significant entry in Sierra's early catalog, serving as the fourth installment in the Hi-Res Adventure series that would help establish the company as a leader in adventure gaming[^ref-4]. As an adventure game, it is considered a tad fairer than the previous entries in the series, offering players a mythological journey through ancient Greece filled with puzzles and encounters with legendary creatures[^ref-5]. The game utilizes a two-word parser command system, requiring players to type verb-noun combinations to interact with the game world[^ref-6].
+Softalk reviewed it in December 1981 as "the best from On-Line since Wizard and the Princess", and it went on to top the magazine's Adventure 5 bestseller list in March and April 1982[^ref-31][^ref-33][^ref-34]. Like the rest of the series, it pairs a full-screen color picture with a two-word verb-noun parser[^ref-6][^ref-10].
 
-ScummVM, the modern game preservation platform, added support for Ulysses and the Golden Fleece in version 2.0.0, making it possible to run this classic point-and-click adventure on modern platforms by replacing the original game's binaries with native interpreters[^ref-7]. This support has helped preserve the game for contemporary audiences interested in experiencing early Sierra adventures.[^ref-19]
+ScummVM added support for the game in version 2.0.0, released on 17 December 2017[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]][^ref-1]
 > **Designer:** Bob Davis, [[Ken Williams]][^ref-1]
-> **Publisher:** On-Line Systems, StarCraft, Inc., All American Adventures[^ref-1]
+> **Publisher:** On-Line Systems / Sierra On-Line; StarCraft, Inc. (Japan); All American Adventures (UK C64)[^ref-27]
 > **Engine:** Hi-Res Adventure Text Parser[^ref-10]
 > **Platforms:** Apple II, PC Booter, Atari 8-bit, Commodore 64, FM-7, PC-88, PC-98[^ref-1]
 > **Release Year:** 1981
@@ -40,160 +40,139 @@ ScummVM, the modern game preservation platform, added support for Ulysses and th
 
 ## Story Summary
 
-The game transports players to ancient Greece, where they assume the role of Ulysses, the famous hero of Greek mythology[^ref-1]. The narrative begins when the king tasks Ulysses with a perilous quest: to find and retrieve the legendary golden fleece, a treasure of immense value that is protected by the gods themselves[^ref-9]. This mythological premise draws inspiration from the classical tales of Greek heroes and their encounters with supernatural beings.
+The game is set in ancient Greece, with the player as Ulysses[^ref-1]. The king assigns him the task of retrieving the Golden Fleece, a treasure protected by the gods[^ref-10]. Many adventurers have tried before him, and none has returned[^ref-1].
 
-Throughout the adventure, players encounter various mythological characters and creatures that populate the ancient Greek world[^ref-10]. The journey includes encounters with King Neptune, the god of the sea, as well as the dangerous Sirens whose enchanting songs lure sailors to their doom[^ref-10]. Players must also contend with the Cyclops, the fearsome one-eyed giant, adding to the mythological authenticity of the experience[^ref-10].
+Before he can sail, Ulysses must gain the king's favor, gather provisions and hire a crew[^ref-31]. The king supplies money and permission to leave. The voyage then takes him to the Island of Storms, where he gathers magical items, and on to Colossal Island, where the Fleece is guarded by fearsome beasts[^ref-37]. Along the way he meets figures from classical mythology, including Neptune, Pluto, the Sirens, the Cyclops and Pegasus[^ref-1][^ref-6]. The game also makes a reference to Hercules[^ref-6].
 
-The quest to retrieve the Golden Fleece takes Ulysses across treacherous waters and mysterious lands, requiring the player to solve puzzles, collect items, and navigate dangers both mortal and divine[^ref-11]. The story pays homage to classical Greek mythology while adapting it into an interactive adventure format suitable for early home computers. References to other Greek heroes, including Hercules, appear throughout the game, enriching the mythological tapestry[^ref-6].
+The myth itself is borrowed. In Greek legend it was Jason, not Ulysses, who sought the Fleece. Bob Davis said he "bastardized it" because Columbia Pictures had made a film of the Jason story and he wanted to avoid copyright problems[^ref-38][^ref-37].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Ulysses and the Golden Fleece employs a text parser interface, requiring players to type two-word commands in a verb-noun sequence to progress through the game[^ref-6]. To progress through the story, the player needs to enter commands to interact with the environment, talk with other characters, collect items, and solve puzzles[^ref-11]. The game features a split-screen design with color images depicting the current situation displayed at the top of the screen, while text input and descriptions appear below[^ref-10].
+Each location is shown as a full-color picture covering most of the screen. A text parser along the bottom accepts two-word commands[^ref-10]. Commands take a verb-noun form such as GO EAST, TALK GUARD or LOOK TREE[^ref-6][^ref-38]. Movement is limited to six directions: north, south, east, west, up and down[^ref-37]. Players can switch between the graphic and text displays[^ref-6][^ref-10].
 
-The technical specifications include support for keyboard input as the primary control method[^ref-1]. Players can toggle between graphics and text display modes, allowing them to focus on either the visual representation or the textual descriptions of their surroundings[^ref-6]. The game allows saving progress at any point, a player-friendly feature for its era that permitted experimentation without permanent consequences[^ref-11].
+In the IBM PC version, the text window holds only four lines. When a message runs longer, the player presses Scroll Lock to bring up the rest. PC Magazine described this in its 1984 review: "pressing the Scroll-Lock key brings them up."[^ref-37] Modern players running the DOS version still get caught at this prompt[^ref-12][^ref-17].
+
+Progress can be saved at any point[^ref-11]. There is only one save slot, though, so a missed item can force a restart[^ref-5].
 
 ### Structure and Progression
 
-The game follows a linear adventure structure where players must explore locations, gather necessary items, and solve puzzles to advance toward the ultimate goal of retrieving the Golden Fleece[^ref-11]. The adventure spans multiple distinct locations inspired by Greek mythology, each presenting unique challenges and encounters.
+The quest begins in a small Greek town, with a store, a tavern, docks and the king's castle[^ref-1][^ref-38]. Once the expedition is prepared, the player sails between islands and other lands, searching for the objects and information needed to reach the Fleece and return safely[^ref-1].
 
-The gameplay unfolds across various environments:
-
-- **Starting Location:** The kingdom where Ulysses receives his quest from the king
-- **Sea Voyage:** Nautical sections involving encounters with sea gods and mythological maritime dangers
-- **Island Encounters:** Various islands featuring creatures like the Cyclops and the Sirens
-- **Final Destination:** The location where the Golden Fleece is guarded
+The game is long. Davis said that a good adventurer playing around the clock would need about two weeks to finish it, and "the rest of us will need six months"[^ref-38].
 
 ### Puzzles and Mechanics
 
-The puzzle design in Ulysses and the Golden Fleece relies heavily on item collection and appropriate usage within specific contexts[^ref-11]. Players must collect items throughout their journey and determine when and how to use them to overcome obstacles or satisfy characters they encounter. The inventory system allows players to carry multiple objects and examine them when needed.
+Many puzzles require an item found in one place to be used much later or somewhere far away[^ref-1]. Wrong actions can kill Ulysses or leave the quest impossible to complete[^ref-1]. Characters can be spoken to. Guards and sailors often hold passwords or useful objects, and some must be bribed rather than simply talked to[^ref-37][^ref-38]. Pictures sometimes contain clues that are not in the text[^ref-37].
 
-The game features encounters with mythological beings that often require specific solutions or items to pass safely[^ref-10]. Sound effects are minimal, primarily consisting of simple beep sounds rather than elaborate audio accompaniment[^ref-6]. The graphics, while basic by modern standards, represented a significant advancement for their time as part of the "Hi-Res" adventure series that distinguished itself from purely text-based adventures[^ref-5].
+Player None picked out examples of more logical puzzle design: sharpening a branch to put out the Cyclops' eye, and pouring wine on yourself to run through flames[^ref-5].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Contemporary reception of Hi-Res Adventure #4: Ulysses and the Golden Fleece reflected the appreciation for graphical adventure games during the early 1980s. The game was recognized as part of Sierra's influential Hi-Res Adventure series, which continued to build on the foundation established by earlier entries like Mystery House and The Wizard and the Princess[^ref-4].
+**Softalk** (December 1981) reviewed the game as a story-driven adventure "rather than a race for score or treasures". It admitted that "the roots of this adventure in mythology are loose to say the least. But who cares?" and concluded that it was "the best from On-Line since Wizard and the Princess"[^ref-31]. The magazine also praised the new ability "to communicate, if briefly, with the people who populate the adventure"[^ref-31].
 
-Reviews from the era noted the game's mythological theme as a compelling setting for an adventure game, distinguishing it from the fantasy and mystery themes of its predecessors in the series[^ref-5]. The two-word parser system, while limited by modern standards, was consistent with adventure game conventions of the period[^ref-6].
+**Softalk's Adventure 5 bestseller list:** the game entered at No. 2 in January 1982 and was No. 1 in March and April 1982[^ref-32][^ref-33][^ref-34].
+
+**Videogaming Illustrated** (December 1982) gave the game a feature, billing it as "one of the most important and challenging videogames ever created". It said the game "paints a new, full-color panorama for every step of the journey" and called its vocabulary "quite extensive"[^ref-38].
+
+**PC Magazine** (20 March 1984, Phil Wiswell) reviewed the IBM PC version alongside Infocom's Infidel. Wiswell found both games "well designed, challenging, and a lot of fun to play". He judged Ulysses' two-word parser limited next to Infidel's, calling that limit one of "the trade-offs for the gorgeous graphics". It scored Fun 5.0, Challenge 6.0 and Graphics/Sound 3.0 (sound not applicable), for a total of 14.0 on PC's scale of one to six per category[^ref-37][^ref-18].
 
 ### Modern Assessment
 
-Modern retrospective assessments of the game acknowledge its historical significance within Sierra's catalog and the broader adventure gaming genre. One reviewer noted that "as an adventure game, it actually feels a tad fairer than the previous entries in the series," suggesting improvements in puzzle design compared to earlier Hi-Res Adventures[^ref-5].
-
-The game continues to attract interest from vintage gaming enthusiasts and historians of the adventure game genre, documented in gaming wikis including Giant Bomb[^ref-29] and IGDB[^ref-30]. Its inclusion in ScummVM's supported titles list demonstrates ongoing preservation efforts for this classic title[^ref-7]. Fan walkthroughs and guides remain available through Sierra community resources[^ref-22].
+Player None (2017) wrote that "as an adventure game, it actually feels a tad fairer than the previous entries in the series". The same review concluded that it "hasn't aged particularly well", citing its clunky parser and its single save slot[^ref-5]. A MobyGames user review of the Commodore 64 version praised the character art and the jungle scenes. It criticized the way the game snaps back to graphic mode whenever the scene changes[^ref-6].
 
 **Aggregate Scores:**
-- **MobyGames:** 61% (based on user reviews)[^ref-1]
-- **MyAbandonware:** 4/5 (user rating)[^ref-12]
+- **MobyGames:** critics' average 61% (3 ratings); players' average 3.7/5 (37 ratings); Moby Score 7.2[^ref-1]
+- **MyAbandonware:** 4/5 (17 user votes)[^ref-12]
 
 ## Development
 
 ### Origins
 
-Hi-Res Adventure #4: Ulysses and the Golden Fleece was developed by On-Line Systems, the company that would later become Sierra On-Line and ultimately Sierra Entertainment[^ref-4]. The game was designed by Bob Davis and [[Ken Williams]], with Davis contributing the creative vision for the mythological adventure and Williams providing technical and design expertise[^ref-1][^ref-20].
-
-The game represented a departure from the mystery and fantasy themes of earlier Hi-Res Adventures, instead drawing upon the rich tradition of Greek mythology for its setting and characters[^ref-10][^ref-22]. This thematic choice allowed the designers to incorporate famous mythological figures and locations that would resonate with players familiar with classical literature and culture.
+Bob Davis was new to computers when he wrote the game. Softalk's December 1981 review described him as having been "innocent and computerless" only a couple of months earlier. It called him "the author of the first Classical adventure"[^ref-31]. In a 1982 interview, the 27-year-old Davis said he had been at it only a year. Before that he had sold chickens and worked as a professional musician. He was then on staff at On-Line, programming and helping to come up with new games[^ref-38]. On-Line's advertising introduced him as the "Co-ordinator for TIME ZONE", the company's large Hi-Res Adventure project, who had "teamed up with KEN WILLIAMS" for Ulysses[^ref-32][^ref-35].
 
 ### Production
 
-Development of Ulysses and the Golden Fleece occurred during Sierra's formative years as a game publisher. The Hi-Res Adventure series itself was associated with [[Roberta Williams]], who designed several entries in the line[^ref-2]. The game was developed for the Apple II as its primary platform, consistent with Sierra's focus on Apple hardware during this period[^ref-13].
+Davis replaced Jason with Ulysses to avoid potential copyright problems, because Columbia Pictures had already filmed the Jason story[^ref-38][^ref-37]. The game was released for the Apple II at $34.95[^ref-31]. On-Line's early-1982 advertising billed it as "Our First 2 Disk Adventure!"[^ref-32][^ref-34]. The Hi-Res Adventures catalog likewise called it a "2 disk adventure"[^ref-13]. By June 1982, however, the Compute! advertisement described it as a Hi-Res Adventure "on both sides of one diskette", so period sources differ on the disk count[^ref-35][^ref-14].
 
-The development team utilized Sierra's established Hi-Res Adventure framework, which combined graphical displays with text-based interaction through a parser system[^ref-10]. This approach allowed for the creation of visually appealing scenes while maintaining the puzzle-solving depth expected of adventure games.
-
-**Development Credits:**[^ref-1]
-- **Designer:** Bob Davis
-- **Designer:** Ken Williams
-- **IBM PC Implementation:** Jay Sullivan, Frank Randak[^ref-11]
-
-### Technical Achievements
-
-The Hi-Res Adventure engine represented one of the early attempts to combine graphics with adventure gaming, distinguishing Sierra's products from purely text-based adventures like those produced by Infocom[^ref-2]. The game featured static-screen graphical adventure presentation, with color images depicting scenes from the player's journey through ancient Greece[^ref-14].
-
-The graphics system allowed for what was described as "Hi-Res graphics" on the Apple II platform, pushing the capabilities of early home computers to create visual representations of the game world[^ref-5]. While primitive by later standards, this approach helped establish the visual adventure game as a distinct category.
+**Development Credits:**
+- **Designers:** Bob Davis, Ken Williams[^ref-1][^ref-31]
+- **IBM PC version:** Jay Sullivan, Frank Randak; implemented by Jeff Stephenson[^ref-11]
+- **Atari 8-bit port:** Yosemite Software Products, Inc.[^ref-27]
 
 ### Technical Specifications
 
-**Apple II Version:**[^ref-13]
-- **Graphics:** Hi-Res graphics mode
-- **Audio:** Minimal beep sound effects
-- **Media:** 5.25" Floppy Disk
-- **Save System:** Single save slot
+**Apple II Version:**[^ref-35]
+- **Requirements:** 48K Apple II/II+ with a disk drive
+- **Media:** 5.25" floppy disk (described as "both sides of one diskette" in June 1982; earlier ads said two disks)[^ref-32]
 
-**Atari 8-bit Version:**[^ref-15]
-- **Supported Systems:** Atari 400/800 Series
-- **Minimum RAM:** 48 KB
-- **Media Type:** 5.25" Floppy Disk
-- **Input Devices:** Keyboard
+**Atari 8-bit Version:**
+- **Supported Systems:** Atari 400/800[^ref-35]
+- **Minimum RAM:** 40K per On-Line's June 1982 Compute! advertisement[^ref-35]; MobyGames lists 48 KB[^ref-15]
+- **Media Type:** 5.25" floppy disk; keyboard input[^ref-15]
 
-**General Specifications:**[^ref-12]
-- **File Size:** Approximately 275 KB
-- **Perspectives:** 1st-Person, Text-based, Fixed/Flip-screen
-- **Players:** Single player
-- **Business Model:** Commercial
+**IBM PC Version:**
+- **Requirements:** at least 48K and a Color/Graphics Monitor Adapter, $39.95 (November 1982 advertisement)[^ref-36]; PC Magazine's 1984 review lists 64K RAM, one disk drive and a color/graphics adapter at $32.95[^ref-37]
+
+**General Specifications:**
+- **File Size (DOS download):** approximately 275 KB[^ref-12]
+- **Perspectives:** 1st-person, fixed/flip-screen[^ref-12]
+- **Players:** single player[^ref-1]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Original | 1981 | Apple II | Initial release[^ref-1] |
-| PC Booter | 1982 | IBM PC | DOS port[^ref-1][^ref-27] |
-| Atari 8-bit | 1982 | Atari 400/800 | Console port[^ref-1] |
-| FM-7 | 1983 | Fujitsu FM-7 | Japanese release[^ref-1] |
-| PC-88 | 1983 | NEC PC-88 | Japanese release[^ref-1] |
-| PC-98 | 1983 | NEC PC-98 | Japanese release[^ref-1] |
-| Commodore 64 | 1984 | C64 | Final platform release[^ref-1] |
-| Atari Re-release | 1986 | Atari 400/800 | Green Valley Publishing edition[^ref-16] |
-| Black Box Release | Varies | Multiple | Alternative packaging[^ref-26] |
+| Original | 1981 | Apple II | On-Line Systems release, $34.95[^ref-27][^ref-31] |
+| Atari 8-bit | 1982 | Atari 400/800 | Advertised by June 1982; ported by Yosemite Software Products[^ref-35][^ref-27] |
+| IBM PC | 1982 | PC Booter | Announced November 1982 as Sierra's first color-graphic adventure for the IBM[^ref-36][^ref-27] |
+| FM-7 | 1983 | Fujitsu FM-7 | Japanese release by StarCraft, Inc.[^ref-27] |
+| PC-88 | December 1983 | NEC PC-88 | Japanese release by StarCraft, Inc.[^ref-27] |
+| PC-98 | December 1983 | NEC PC-98 | Japanese release by StarCraft, Inc.[^ref-27] |
+| Commodore 64 | 1984 | C64 | US release by Sierra On-Line[^ref-27] |
+| Commodore 64 (UK) | 1985 | C64 | All American Adventures release[^ref-27] |
+| Atari re-release | 1986 | Atari 400/800 | Green Valley Publishing edition, £9.99[^ref-16] |
 
-**Package Variations:**[^ref-1]
-- **Original Release:** 2 x 5.25" diskettes in On-Line Systems folder
-- **Second Release:** 2 x 5.25" diskettes in SierraVenture folder
-- **Final Release:** 5.25" diskette in [[Sierra On-Line]] box with manual
+**Package Variations:** Sierra Gamers documents two releases, an Orange Folder and a Black Box edition[^ref-10][^ref-26]. PixelatedArcade also lists the black Sierra packaging style[^ref-11].
 
 ### Technical Issues
 
-The game's copy protection utilized a Key Disk/Tape system, requiring players to have the original media to play[^ref-11]. For modern players attempting to run the DOS version, using the ScrollLock key has been noted as a workaround for certain input issues when running through emulation[^ref-17].
-
-As with many early adventure games, the two-word parser system could be limiting, requiring players to guess the exact verb-noun combinations expected by the game[^ref-6]. The Commodore 64 version was noted as being the third and final Hi-Res adventure to be released for that platform, as Sierra had limited support for C64 adventures[^ref-6].
+The game's copy protection used a key disk[^ref-11]. Its two-word parser expects exact commands[^ref-5]. MobyGames reviewer Katakis called the C64 version "the third and final Hi-Res adventure for the Commodore 64"[^ref-6].
 
 ### Easter Eggs and Trivia
 
-- The game includes references to Hercules, another famous hero of Greek mythology[^ref-6]
-- Ulysses and the Golden Fleece was marketed as part of Sierra's Hi-Res Adventures catalog, which emphasized the graphical nature of these games compared to pure text adventures[^ref-13]
-- The game's mythological setting distinguishes it from other entries in the series, which focused on mystery and fantasy themes[^ref-10]
-- It was considered the fifth game in Sierra's Hi-Res adventure series chronologically in development[^ref-6]
+- The game includes a reference to Hercules[^ref-6]
+- Ulysses stands in for Jason, the hero of the original Golden Fleece myth, to avoid copyright trouble with the Columbia Pictures film[^ref-38]
+- On-Line's Hi-Res Adventures catalog pitched it with "One-eyed Cyclops awaits, Pluto, king of the underworld, and Pegasus the flying horse"[^ref-13]
+- Vintage Computing and Gaming reprinted the June 1982 Compute! advertisement for the game as a "Retro Scan of the Week" in 2015[^ref-14]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Hi-Res Adventure #4: Ulysses and the Golden Fleece contributed to Sierra's growing reputation as a premier developer of adventure games during the early 1980s[^ref-4]. The game's release across multiple platforms, including Apple II, PC, Atari 8-bit, Commodore 64, and various Japanese computer systems, demonstrated Sierra's commitment to reaching the widest possible audience[^ref-1].
+Ulysses was a bestseller for On-Line. In January 1982 Softalk noted that Ken Williams shared in each of the top three titles on the Adventure 5 list, with Ulysses a new entry at No. 2[^ref-32]. It reached No. 1 in March 1982, when it also returned to Softalk's Top Thirty, and held No. 1 in April[^ref-33][^ref-34].
 
-The title appeared in various packaging configurations over its commercial lifespan, including releases through secondary publishers such as StarCraft, Inc. and All American Adventures, indicating ongoing commercial interest in the title[^ref-1]. Green Valley Publishing released an Atari version as late as 1986, with an original price point of £9.99[^ref-16].
+The game was later published by StarCraft, Inc. in Japan and by All American Adventures in the UK[^ref-27][^ref-21]. Green Valley Publishing released an Atari version as late as 1986, at £9.99[^ref-16].
 
 ### Collections
 
-The game was documented as part of Sierra On-Line's Hi-Res Adventures Catalog, which showcased the company's early graphical adventure offerings[^ref-13]. This catalog served as both a marketing tool and a historical record of Sierra's notable work in the adventure game genre.
+On-Line's Hi-Res Adventures catalog, which advertised versions for Apple, IBM and Atari, featured the game alongside Mystery House, Cranston Manor, Mission Asteroid and The Wizard and the Princess[^ref-13].
 
 ### Fan Projects
 
-Modern preservation efforts have ensured the game remains playable through various means. ScummVM added support for Hi-Res Adventure #4 in version 2.0.0, enabling the game to run on contemporary operating systems and platforms including PSP Vita and RISC OS[^ref-7]. This support allows modern audiences to experience the game without requiring original hardware or dedicated emulation.
+ScummVM 2.0.0 (17 December 2017) added support for Hi-Res Adventures #3 through #6, including Ulysses and the Golden Fleece. The same release added new PSP Vita and RISC OS ports[^ref-7].
 
 ### Related Publications
 
-- **Original Manual:** Included with Sierra On-Line box release, providing game instructions and command reference[^ref-1]
-- **Hi-Res Adventures Catalog:** Sierra promotional material featuring the game alongside other series entries[^ref-13]
+- **Instruction Manual:** IBM PC manual scans are available at PixelatedArcade[^ref-11]
+- **Hi-Res Adventures Catalog:** On-Line promotional catalog featuring the game[^ref-13]
 
 ### Critical Perspective
 
-Hi-Res Adventure #4: Ulysses and the Golden Fleece occupies an important position in the evolution of graphical adventure games. Released before Sierra's landmark King's Quest, which would revolutionize the genre with animated graphics and a third-person perspective, Ulysses represents the company's formative period of experimentation with combining visuals and text-based gameplay[^ref-4].
-
-The game's mythological setting proved to be a compelling choice, demonstrating that adventure games could draw upon classical literature and cultural traditions for their narratives[^ref-10]. This approach would be echoed in later Sierra titles and adventure games from other developers. As one commentator asked when discussing classic graphical adventures, "What's your favorite static-screen graphical adventure game of all time?"[^ref-14], highlighting the nostalgic appeal these early titles continue to hold for gaming historians and enthusiasts.
-
-The Hi-Res Adventure series, of which Ulysses was the fourth entry, helped establish Sierra's identity as an adventure game company and provided the foundation for the company's later success with series like King's Quest, Space Quest, and Leisure Suit Larry[^ref-2]. The series demonstrated that graphical presentation could enhance the adventure gaming experience, paving the way for increasingly sophisticated visual adventures throughout the 1980s and beyond.
+In period reviews, the game's selling point was its pictures. Softalk wrote that On-Line's hi-res graphics had made "quantum leaps in some respects"[^ref-31]. Videogaming Illustrated said it was "impossible to capture the scope" of the game without its color graphics[^ref-38]. Its limitation was the parser. PC Magazine set its two-word commands against the more flexible parser of Infocom's text-only Infidel, which could string two commands into one sentence, and called the restriction a trade-off for the graphics[^ref-37]. Player None's later verdict was that it was fairer than earlier entries in the series but has not aged well[^ref-5].
 
 ## Purchase
 
@@ -209,9 +188,9 @@ The Hi-Res Adventure series, of which Ulysses was the fourth entry, helped estab
 - [Internet Archive – ScummVM 2.0.0](https://archive.org/details/scummvm-2.0.0)
 
 **Manuals & Extras**
-- Original documentation available through abandonware archives
+- [PixelatedArcade – IBM PC instruction manual scans](https://pixelatedarcade.com/games/hi-res-adventure-4-ulysses-and-the-golden-fleece)
 
-The game is preserved in multiple archives and databases, with documentation available through Wikipedia[^ref-18], PixelatedArcade[^ref-21], and various gaming wikis[^ref-22].
+The game is also documented on Wikipedia[^ref-18], PixelatedArcade[^ref-21] and IGDB[^ref-30].
 
 ## See Also
 
@@ -229,27 +208,30 @@ The game is preserved in multiple archives and databases, with documentation ava
 
 ## References
 
-[^ref-1]: [MobyGames – Hi-Res Adventure #4: Ulysses and the Golden Fleece](https://www.mobygames.com/game/10343/hi-res-adventure-4-ulysses-and-the-golden-fleece/) – release dates, platforms, publishers, designers, ratings, version information
-[^ref-2]: [Sierra Fandom Wiki – Hi-Res Adventure](https://sierra.fandom.com/wiki/Hi-Res_Adventure) – series information, Roberta Williams design credit
-[^ref-4]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – company history, Hi-Res Adventure series context
-[^ref-5]: [Player None Blog – Hi-Res Adventures #4 Review](https://playernone.blogspot.com/2017/12/hi-res-adventures-4-ulysses-and-golden.html) – gameplay analysis, fairness compared to earlier entries
-[^ref-6]: [MobyGames – User Review by Katakis](https://www.mobygames.com/game/10343/hi-res-adventure-4-ulysses-and-the-golden-fleece/user-review/2536897/) – parser system, technical specs, Hercules reference, C64 version notes
-[^ref-7]: [Internet Archive – ScummVM 2.0.0 Release Notes](https://archive.org/details/scummvm-2.0.0) – ScummVM support, modern platform compatibility
-[^ref-10]: [Sierra Gamers – Ulysses and the Golden Fleece](https://www.sierragamers.com/ulysses-and-the-golden-fleece/) – engine details, interface description, package versions
-[^ref-9]: [Sierra Gamers – Ulysses and the Golden Fleece](https://www.sierragamers.com/ulysses-and-the-golden-fleece/) – game description, quest objectives
-[^ref-11]: [PixelatedArcade – Hi-Res Adventure #4](https://pixelatedarcade.com/games/hi-res-adventure-4-ulysses-and-the-golden-fleece) – gameplay mechanics, save system, IBM implementers, copy protection
-[^ref-12]: [MyAbandonware – Hi-Res Adventure #4](https://www.myabandonware.com/game/hi-res-adventure-4-ulysses-and-the-golden-fleece-1s6) – user rating, file size, technical perspectives
-[^ref-13]: [Internet Archive – Sierra On-Line Hi-Res Adventures Catalog](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) – Apple platform, catalog documentation
-[^ref-14]: [Vintage Computing – Retro Scan of the Week](https://www.vintagecomputing.com/index.php/archives/1118/retro-scan-of-the-week-ulysses-and-the-golden-fleece) – static-screen adventure commentary, release dates
-[^ref-15]: [MobyGames – Atari 8-bit Specs](https://www.mobygames.com/game/10343/hi-res-adventure-4-ulysses-and-the-golden-fleece/specs/atari-8-bit/) – Atari technical specifications, RAM requirements
-[^ref-16]: [EveryGameGoing – Atari Version](https://www.everygamegoing.com/litem/Hi-res-Adventure-4-Ulysses-And-The-Golden-Fleece/150435/) – Green Valley Publishing release, pricing
-[^ref-17]: [MyAbandonware – Play Online](https://www.myabandonware.com/game/hi-res-adventure-4-ulysses-and-the-golden-fleece-1s6/play-1s6) – ScrollLock workaround, executable information
-[^ref-18]: [Wikipedia – Hi-Res Adventure #4](https://en.wikipedia.org/wiki/Hi-Res_Adventure_%234%3A_Ulysses_and_the_Golden_Fleece) – 1981 release date, series position
-[^ref-19]: [Hi-Res Adventure Fandom Wiki](https://hiresadventure.fandom.com/wiki/Hi-Res_Adventure) – series overview, Roberta Williams credit
-[^ref-20]: Old Games Download (link removed: game-download site) – platform release timeline, designer credits
-[^ref-21]: [PixelatedArcade – Sierra Hi-Res Adventure Series](https://www.pixelatedarcade.com/related-games/sierra-hi-res-adventure-series) – series documentation, publisher list
-[^ref-22]: [Sierra Fandom Wiki – Trivia](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Trivia) – series position confirmation
-[^ref-26]: [Sierra Gamers – Updates](https://www.sierragamers.com/Updates/) – Black Box release documentation
-[^ref-27]: [MobyGames – PC Booter Version](https://www.mobygames.com/game/pc-booter/hi-res-adventure-4-ulysses-and-the-golden-fleece) – alternative rating, package variations
-[^ref-29]: [Giant Bomb - Ulysses and the Golden Fleece](https://www.giantbomb.com/ulysses-and-the-golden-fleece/) - game wiki, platform info
-[^ref-30]: [IGDB - Ulysses and the Golden Fleece](https://www.igdb.com/games/ulysses-and-the-golden-fleece) - IGDB database entry
+[^ref-1]: [MobyGames – Hi-Res Adventure #4: Ulysses and the Golden Fleece](https://www.mobygames.com/game/10343/hi-res-adventure-4-ulysses-and-the-golden-fleece/) – platforms, credits (Bob Davis, Ken Williams), description, critics 61% (3 ratings), players 3.7/5 (37 ratings), Moby Score 7.2
+[^ref-2]: [Sierra Fandom Wiki – Hi-Res Adventure](https://sierra.fandom.com/wiki/Hi-Res_Adventure) – series list (#0–#6), position as #4
+[^ref-4]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – On-Line Systems (1979–1982) renamed Sierra On-Line; Ulysses among the 1981–82 Hi-Res Adventures
+[^ref-5]: [Player None Blog – Hi-Res Adventures #4 Review](https://playernone.blogspot.com/2017/12/hi-res-adventures-4-ulysses-and-golden.html) – 2017 retrospective: "a tad fairer", one save slot, Cyclops and wine puzzles, clunky parser
+[^ref-6]: [MobyGames – User Review by Katakis](https://www.mobygames.com/game/10343/hi-res-adventure-4-ulysses-and-the-golden-fleece/user-review/2536897/) – 2011 C64 review: two-word parser, graphic/text toggle, Hercules reference, beeps, "third and final Hi-Res adventure for the Commodore 64"
+[^ref-7]: [ScummVM – NEWS.md](https://github.com/scummvm/scummvm/blob/master/NEWS.md) – 2.0.0 (2017-12-17): "Added support for Hi-Res Adventure #4: Ulysses and the Golden Fleece"; PSP Vita and RISC OS ports
+[^ref-10]: [Sierra Gamers – Ulysses and the Golden Fleece](https://www.sierragamers.com/ulysses-and-the-golden-fleece/) – description (king, fleece protected by the gods, Neptune, Sirens, Cyclops), screen layout, two-word parser, Orange Folder and Black Box releases
+[^ref-11]: [PixelatedArcade – Hi-Res Adventure #4](https://pixelatedarcade.com/games/hi-res-adventure-4-ulysses-and-the-golden-fleece) – save at any point, IBM version by Jay Sullivan and Frank Randak, implemented by Jeff Stephenson, Key Disk copy protection, Sierra (Black) packaging, manual scans
+[^ref-12]: [MyAbandonware – Hi-Res Adventure #4](https://www.myabandonware.com/game/hi-res-adventure-4-ulysses-and-the-golden-fleece-1s6) – 4/5 from 17 votes, 275 KB download, perspectives, user note on ScrollLock in the DOS version
+[^ref-13]: [Internet Archive – Sierra On-Line Hi-Res Adventures Catalog](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) – "2 disk adventure"; Cyclops, Pluto, Pegasus; Apple/IBM/Atari
+[^ref-14]: [Vintage Computing and Gaming – Retro Scan of the Week: Hi-Res Adventure #4](https://www.vintagecomputing.com/index.php/archives/1118/retro-scan-of-the-week-ulysses-and-the-golden-fleece) – 2015 scan of the Compute! June 1982 p.15 advertisement
+[^ref-15]: [MobyGames – Atari 8-bit Specs](https://www.mobygames.com/game/10343/hi-res-adventure-4-ulysses-and-the-golden-fleece/specs/atari-8-bit/) – Atari 400/800, minimum RAM 48 KB, 5.25" floppy, keyboard
+[^ref-16]: [EveryGameGoing – Atari Version](https://www.everygamegoing.com/litem/Hi-res-Adventure-4-Ulysses-And-The-Golden-Fleece/150435/) – Green Valley Publishing, 12 April 1986, £9.99
+[^ref-17]: [MyAbandonware – Play Online](https://www.myabandonware.com/game/hi-res-adventure-4-ulysses-and-the-golden-fleece-1s6/play-1s6) – user comment "Use ScrollLock!"
+[^ref-18]: [Wikipedia – Ulysses and the Golden Fleece](https://en.wikipedia.org/wiki/Ulysses_and_the_Golden_Fleece) – 1981 Apple II release, PC Magazine rated it 14.0 out of 18
+[^ref-21]: [PixelatedArcade – Sierra Hi-Res Adventure Series](https://www.pixelatedarcade.com/related-games/sierra-hi-res-adventure-series) – series listing, versions also published by All American Adventures and StarCraft, Inc.
+[^ref-26]: [Sierra Gamers – Site Updates](https://www.sierragamers.com/Updates/) – update log adding "Ulysses and the Golden Fleece (Black Box)"
+[^ref-27]: [MobyGames – Releases](https://www.mobygames.com/game/10343/hi-res-adventure-4-ulysses-and-the-golden-fleece/releases/) – per-platform release dates and publishers; Atari port by Yosemite Software Products; UK C64 1985 by All American Adventures
+[^ref-30]: [IGDB – Ulysses and the Golden Fleece](https://www.igdb.com/games/ulysses-and-the-golden-fleece) – IGDB database entry (1981)
+[^ref-31]: [Softalk, December 1981 (Internet Archive full text)](https://archive.org/download/softalkv2n04dec1981/softalkv2n04dec1981_djvu.txt) – review: "By Bob Davis and Ken Williams… $34.95"; "the best from On-Line since Wizard and the Princess"
+[^ref-32]: [Softalk, January 1982 (Internet Archive full text)](https://archive.org/download/softalkv2n05jan1982/softalkv2n05jan1982_djvu.txt) – Adventure 5 list: No. 2, new entry; ad: "Our First 2 Disk Adventure!", Davis "Co-ordinator for TIME ZONE"
+[^ref-33]: [Softalk, March 1982 (Internet Archive full text)](https://archive.org/download/softalkv2n07mar1982/softalkv2n07mar1982_djvu.txt) – Adventure 5 list: No. 1 (No. 3 last month); back in the Top Thirty
+[^ref-34]: [Softalk, April 1982 (Internet Archive full text)](https://archive.org/download/softalkv2n08apr1982/softalkv2n08apr1982_djvu.txt) – Adventure 5 list: No. 1 (No. 1 last month); "Our First 2 Disk Adventure" ad
+[^ref-35]: [Compute!, June 1982 (Internet Archive full text)](https://archive.org/download/1982-06-compute-magazine/Compute_Issue_025_1982_Jun_djvu.txt) – On-Line ad: "both sides of one diskette", "48K APPLE II/II+ or 40K ATARI 400/800", $34.95
+[^ref-36]: [Softalk for the IBM Personal Computer, November 1982 (Internet Archive full text)](https://archive.org/download/softalk-pc-v1n6-1982-11/softalk-pc-v1n6-1982-11_djvu.txt) – Sierra ad: first color-graphic adventure for the IBM; 48k and Color/Graphics adapter; $39.95
+[^ref-37]: [PC Magazine, 20 March 1984 (Internet Archive full text)](https://archive.org/download/PC-Mag-1984-03-20/PC-Mag-1984-03-20_djvu.txt) – Phil Wiswell, "PC Arcade": Jason/Columbia anecdote, Scroll-Lock, two-word commands, Fun 5.0 / Challenge 6.0 / Graphics 3.0, total 14.0
+[^ref-38]: [Videogaming Illustrated, December 1982 – Ulysses and the Golden Fleece (VideoGame Pavilion)](https://vgpavilion.com/mags/1982/12/vi/ulysses-and-the-golden-fleece) – feature and Bob Davis interview: "quite extensive" vocabulary, two-week estimate, Columbia Pictures copyright reason
