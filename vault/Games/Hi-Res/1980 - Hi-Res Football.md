@@ -5,201 +5,121 @@ developer: On-Line Systems
 designer: [Jay Sullivan, Ken Williams]
 publisher: On-Line Systems
 genre: Sports
-platforms: [Apple II, Apple II Plus]
+platforms: [Apple II]
 series: Hi-Res Sports
 engine: Machine Language
 protagonist: Football Team (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
-description: Hi-Res Football is a pioneering sports video game released in 1980 by
-  On-Line Systems, the company that would later become Sierra Entertainment. Marketed
-  as...
+last_updated: '2026-10-12'
+description: Hi-Res Football is a real-time American football game for the Apple II
+  by Jay Sullivan and Ken Williams, released by On-Line Systems (later Sierra) in
+  late 1980.
 tags: [1980s, hi-res-sports, sierra]
 ---
 # Hi-Res Football
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Hi-Res Football is a pioneering sports video game released in 1980 by On-Line Systems, the company that would later become Sierra Entertainment[^ref-1][^ref-15]. Marketed as "the only real-time action football available for your computer," the game represented an early attempt to bring American football to home computers during the nascent years of the personal computer gaming industry[^ref-2]. The game was developed by Jay Sullivan and [[Ken Williams]], with Sullivan having been originally hired to assist Williams in writing a compiler before the unexpected success of Mystery House shifted the company's focus toward game development[^ref-3].
+Hi-Res Football is an American football game for the Apple II, written by Jay Sullivan and [[Ken Williams]] and published in late 1980 by On-Line Systems, the company that later became Sierra On-Line[^ref-1][^ref-2]. Its manual billed it as "the only real-time action football available for your computer"[^ref-2]. On-Line Systems advertised it as "coming soon" in Softalk's September 1980 issue, and it was on sale for $39.95 by December 1980[^ref-16][^ref-17].
 
-As a computer adaptation of American football, Hi-Res Football featured both single-player and two-player modes, allowing players to compete against either a human opponent or the computer[^ref-2]. The game was a simple real-time sports simulation where players controlled both offensive and defensive plays, featuring actions like runs, passes, and kicks[^ref-3]. Despite its innovative approach to computerized sports gaming, Hi-Res Football did not achieve anywhere near the same commercial success as On-Line Systems' adventure or arcade titles of the period[^ref-3].
-
-The game holds historical significance as one of the earliest titles produced by the company that would grow into Sierra Entertainment, a major force in the video game industry throughout the 1980s and 1990s[^ref-4]. As one observer noted when discovering a vintage advertisement for the game: "Holy shit. The goofy ad on page 59 eventually grew into Sierra Entertainment"[^ref-4]. Hi-Res Football was part of On-Line Systems' broader Hi-Res series, which also included Hi-Res Soccer, positioning the company in the sports gaming market alongside their more famous adventure game offerings[^ref-5].[^ref-12][^ref-13][^ref-14]
+The game appeared in Softalk's Top Thirty bestseller list in each of the January through April 1981 issues[^ref-18][^ref-19][^ref-20][^ref-21]. A 2022 retrospective nonetheless judged that neither of On-Line Systems' two Hi-Res sports games came near the success of its adventure or arcade titles[^ref-3].
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]][^ref-1]
-> **Designer:** Jay Sullivan, [[Ken Williams]][^ref-6]
+> **Authors:** Jay Sullivan, [[Ken Williams]][^ref-2][^ref-6]
 > **Publisher:** On-Line Systems[^ref-1]
 > **Engine:** Machine Language[^ref-7]
-> **Platforms:** Apple II, Apple II Plus[^ref-2]
-> **Release Year:** 1980[^ref-1]
+> **Platforms:** Apple II (48K; runs on Apple II or II Plus, DOS 3.2 or 3.3)[^ref-2][^ref-19]
+> **Release Year:** 1980[^ref-2][^ref-17]
 > **Series:** Hi-Res Sports
 > **Protagonist:** N/A (Sports simulation)
 > **Sierra Lineage:** Core Sierra (Pre-Sierra Era)
 
 ## Story Summary
 
-As a sports simulation game, Hi-Res Football does not feature a narrative story in the traditional sense. The game is a computerized recreation of American football, where players take on the role of a team competing in matches against either a computer-controlled opponent or another human player[^ref-3].
-
-The gameplay revolves around the fundamental structure of American football, with players managing their team through offensive and defensive situations[^ref-6]. When playing against the computer AI, the player is always placed in the offensive position, requiring them to orchestrate plays to advance down the field and score[^ref-6]. The game presents a competitive sports experience focused on strategic play-calling and real-time action rather than narrative progression.
-
-The objective follows standard American football rules: advance the ball down the field, score touchdowns, and prevent the opposing team from doing the same[^ref-2]. Success in the game depends on the player's ability to select appropriate plays from the available offensive and defensive options and execute them effectively using the paddle controls[^ref-2].
+As a sports game, Hi-Res Football has no story. It plays a single game of American football between two human players or between one player and the computer, whose team is simply called "Apple"[^ref-6]. In the manual's words, "you are both coach and quarterback as you call the plays and control the action"[^ref-2].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Hi-Res Football utilizes paddle controllers as its primary input method, a common control scheme for Apple II games of the era[^ref-6]. The game operates from a top-down perspective with direct control over the action on the field[^ref-6]. Players use the paddles to maneuver their players and execute various football actions during live gameplay[^ref-2].
-
-The game required 48K of RAM to operate on the Apple II or Apple II Plus systems[^ref-2]. The real-time nature of the gameplay distinguished it from turn-based sports simulations of the period, requiring players to make quick decisions and execute plays with timing and precision[^ref-2].
+Everything is controlled with the Apple II's paddles. In the huddle, each player turns the paddle knob to scroll through play names and presses the button to choose one; afterwards the offense steers the ball carrier with the knob and presses the button to pass or kick[^ref-2]. The defending player controls only the Free Safety, the one defender who can block or intercept a pass[^ref-2]. The field is seen from above, with only forty of its hundred yards on screen at a time[^ref-2][^ref-6].
 
 ### Structure and Progression
 
-The game presents American football in a simplified format adapted for the technical limitations of early home computers. Only 40 yards of the playing field are visible at any given time, requiring the display to scroll as play progresses up or down the field[^ref-6].
-
-Players represent their teams using X's and square O's on the screen, a visual representation typical of football playbooks and diagrams[^ref-8]. The high-resolution character graphics were notable for the time period, though a color monitor was recommended for the optimal visual experience[^ref-8].
+Each team has seven players, six of them computer-controlled, who follow the pattern of the selected play[^ref-2]. The game offers 11 offensive plays (4 passes, 5 runs and 2 kinds of kick) and 9 defensive plays, with play cards packed in to help with selection[^ref-2]. The clock runs continuously, there are no kickoffs: at the start of each half and after every touchdown or field goal, the offense takes the ball on its own 20-yard line[^ref-2]. An insert added a choice of intermediate or advanced skill level; the advanced level animates faster[^ref-2].
 
 **Game Modes:**
-- **Single Player:** Play against the computer AI (player always on offense)[^ref-6]
-- **Two Player:** Compete against a human opponent[^ref-3]
-
-### Puzzles and Mechanics
-
-The strategic depth of Hi-Res Football comes from its play selection system. The game features 11 offensive plays and 9 defensive plays, providing variety in how players approach each down[^ref-6]. The game included offensive and defensive play cards to help players learn and remember the available options[^ref-2].
-
-**Offensive Options:**
-- Running plays
-- Passing plays
-- Kicking plays[^ref-3]
-
-**Defensive Options:**
-- Various defensive formations and strategies[^ref-6]
-
-The real-time action element meant that selecting the right play was only part of the challenge—players also needed to execute their chosen strategy effectively during live gameplay[^ref-2].
+- **Two players:** Each player calls plays and controls the action with a paddle[^ref-2]
+- **Against the computer:** The player is always on offense, and is ranked by points scored, from "high school player" up to "definitely NFL material"[^ref-2]
 
 ## Reception
 
-### Contemporary Reviews
+### Contemporary Reception
 
-Hi-Res Football received coverage in contemporary computer gaming publications of the early 1980s. John Williams reviewed the game in Softline magazine in September 1981, though specific scoring details from this review are not available in the research materials[^ref-8].
-
-The game was advertised alongside Hi-Res Soccer in computer gaming magazines of 1981, with advertisements appearing in publications that would later chronicle the growth of the video game industry[^ref-9]. The original retail price was $39.95, positioning it competitively in the early home computer software market[^ref-2].
-
-Despite its innovative real-time approach to computerized football, contemporary sources indicate that neither Hi-Res Football nor its companion title Hi-Res Soccer achieved the commercial success of On-Line Systems' adventure or arcade games[^ref-3]. The sports titles remained relatively obscure compared to offerings like Mystery House, which had helped establish the company's reputation in the adventure gaming genre.
+No contemporary magazine review of Hi-Res Football has been found. Its sales, however, are on record. Softalk's monthly Top Thirty bestseller list for Apple software included it in the January, February, March and April 1981 issues[^ref-18][^ref-19][^ref-20][^ref-21]. In the April 1981 issue, Softalk called Ken Williams "the hottest programmer extant, with four collaborations in the Top Thirty"[^ref-21].
 
 ### Modern Assessment
 
-Modern retrospective evaluations of Hi-Res Football reflect its status as an early, primitive example of sports gaming. The game receives recognition primarily for its historical significance as an early On-Line Systems/Sierra title rather than for its gameplay innovations or lasting entertainment value.
+- **MobyGames:** 83% critic average, based on a single critic rating[^ref-6]
+- **Glitchwave:** 0.50, from a single user rating; the database classes it as "turn-based strategy", which conflicts with the manual's real-time description[^ref-10][^ref-2]
 
-**Aggregate Scores:**
-- **MobyGames:** 83% (based on available ratings)[^ref-6]
-- **Glitchwave:** 0.50 (1 review)[^ref-10]
-
-The stark contrast between these scores illustrates the varying perspectives on early computer games—some reviewers appreciate the historical context and notable nature of such titles, while others judge them by modern standards where they inevitably fall short. Modern gaming databases classify Hi-Res Football as a turn-based strategy/American football game, though contemporary marketing emphasized its real-time action elements[^ref-10].
+A 2022 Retro365 retrospective called it "a simple real-time sports game" and wrote that "neither sports title achieved anywhere near the success of the company's adventure or arcade titles at the time"[^ref-3].
 
 ## Development
 
 ### Origins
 
-Hi-Res Football emerged during a pivotal period in On-Line Systems' history. The company, founded by Ken and Roberta Williams in Coarsegold, California, was in its earliest stages when the game was developed[^ref-4]. Jay Sullivan had been brought on board originally to assist Ken Williams in writing a compiler, but the unexpected success of Mystery House in 1980 shifted the company's priorities toward game development[^ref-3].
+On-Line Systems was founded in 1979 by Ken and [[Roberta Williams]] in Simi Valley, California, and released its first game, Mystery House, in May 1980[^ref-14]. By the time Hi-Res Football shipped, the company's address was 36575 Mudge Ranch Road, Coarsegold, California[^ref-2].
 
-The game's development represented months of effort by Sullivan and Williams, who sought to bring the excitement of American football to the Apple II platform[^ref-2]. The "Hi-Res" designation in the title referred to the high-resolution graphics capabilities of the Apple II, distinguishing the game from lower-resolution competitors and aligning it with On-Line Systems' other Hi-Res branded products[^ref-8].
+Jay Sullivan had worked with Ken Williams at Informatics. According to Retro365, he was hired in 1980 to help Williams write a compiler, but after Mystery House succeeded the two turned to games[^ref-3][^ref-19]. Softalk wrote in February 1981 that Williams wanted to keep On-Line from being known "as only an adventure programming house", and had diversified "first with games such as Hi-Res Football and Cribbage"[^ref-19].
 
 ### Production
 
-The development team at On-Line Systems was small during this period, with the Williams family operating the business from their California home[^ref-4]. Ken Williams contributed to the game's design and programming alongside Jay Sullivan, who would go on to work on other projects for the company[^ref-6].
+Softalk described the game as "a collaborative effort between Ken and Jay Sullivan". It added that "Sullivan, a football buff, provided the game expertise while Williams added some graphic innovations"[^ref-19]. One of those innovations was that players could pass over the sideline markers without erasing them, which Softalk called "the first program that hasn't erased those auxiliary images"[^ref-19]. The box text promises "fast-smooth machine language animation of players and the ball"[^ref-2]. The manual's introduction says "many months of development effort have gone into producing this game"[^ref-2].
 
-The game was developed simultaneously or in close proximity to Hi-Res Soccer, with both titles representing On-Line Systems' foray into the sports gaming market[^ref-5]. The shared "Hi-Res" branding and similar development approach suggest these were conceived as companion products to diversify the company's software catalog beyond adventure games.
+**Credits** (the manual reads "By Jay Sullivan & Ken Williams")[^ref-2][^ref-6]:
+- Jay Sullivan
+- Ken Williams
 
-**Development Credits:**[^ref-6]
-- **Designer/Programmer:** Jay Sullivan
-- **Designer/Programmer:** Ken Williams
+Its companion title, Hi-Res Soccer, followed the next year according to Retro365[^ref-3].
 
-### Technical Achievements
+### Release
 
-For its time, Hi-Res Football represented an attempt to push the Apple II's capabilities in depicting real-time sports action. The game utilized machine language programming to achieve the performance necessary for smooth gameplay[^ref-7]. The high-resolution graphics, while primitive by later standards, were marketed as a notable feature during the early days of personal computing[^ref-8].
+- **September 1980:** On-Line Systems' ads in Softalk end with "Look for Hi-Res Football coming soon"[^ref-16]
+- **December 1980:** Softalk lists Hi-Res Football as "One or two players. 48K, disk. $39.95"[^ref-17]
+- **February 1981:** On-Line's ad reads "Hi-Res Football runs on any 48k Apple II or II Plus, DOS 3.2 or 3.3. Available now for $39.95"[^ref-19]
 
-The real-time gameplay mechanic was particularly significant, as many sports games of the era relied on turn-based or play-calling only systems[^ref-2]. On-Line Systems' marketing emphasized this distinction, positioning Hi-Res Football as offering a more dynamic and engaging experience than competitors.
+The manual is dated © 1980[^ref-2], and Wikipedia's list of Sierra games gives 1980[^ref-1]. Sierra Gamers gives a release date of "xx-xx-1981"[^ref-11], which the contemporary evidence above contradicts. A retrospective on early software prices notes that Hi-Res Football cost the same $39.95 as Ultima[^ref-22].
 
 ### Technical Specifications
 
-**Apple II Version:**[^ref-2]
-- **Resolution:** High-resolution character graphics
-- **Audio:** Basic Apple II speaker sounds
-- **RAM Required:** 48K minimum
+- **Platform:** Apple II or II Plus, 48K RAM[^ref-2][^ref-19]
 - **Media:** 5.25" floppy disk[^ref-6]
-- **Input:** Paddle controllers[^ref-6]
-- **Players:** 1-2 simultaneous[^ref-6]
-- **Perspective:** Top-down[^ref-6]
+- **Input:** Paddles[^ref-2][^ref-6]
+- **Players:** 1–2[^ref-2]
+- **Perspective:** Top-down, 40 yards of field visible[^ref-2][^ref-6]
 
-**Display:**
-- Color monitor recommended for optimal experience[^ref-8]
-- 40-yard field visible at one time[^ref-6]
-- Player representation using X's and square O's[^ref-8]
+### Trivia
 
-### Version History
-
-| Version | Date | Platform | Notes |
-|---------|------|----------|-------|
-| 1.0 | 1980 | Apple II | Initial release[^ref-1] |
-| 1.0 | 1980 | Apple II Plus | Compatible release[^ref-2] |
-
-Some sources indicate a 1981 release date, which may reflect later distribution or advertising rather than the original development completion[^ref-11]. The game appears in Sierra product lists and Wikipedia chronologies under the 1980 date[^ref-1].
-
-### Technical Issues
-
-No specific bug reports or technical issues are documented in available research materials. Given the game's age and the limited documentation preservation from this era, any technical problems that may have existed are not recorded in surviving sources.
-
-### Easter Eggs and Trivia
-
-- Hi-Res Football was one of the very first titles produced by On-Line Systems, predating the company's transformation into Sierra On-Line and eventually Sierra Entertainment[^ref-3]
-- The game could be ordered by mail, with customers sending checks to the Williams' address in Coarsegold, California[^ref-4]
-- A Hacker News commenter expressed surprise that "someone was using a computer there in 1981," reflecting on the rural location of On-Line Systems' operations[^ref-4]
-- The game was part of On-Line Systems' "Hi-Res" branding strategy, which included Hi-Res Soccer and later the famous Hi-Res Adventure series beginning with Mystery House[^ref-8]
-- The original advertisement was considered "goofy" by later observers, yet it represented the humble beginnings of a gaming empire[^ref-4]
+- The manual suggests a trick for players with a "squeaky paddle": hold the button down while browsing plays and release it to choose, so the opponent can't hear the selection[^ref-2]
+- In 2015 a Hacker News commenter found an ad for Hi-Res Soccer and Hi-Res Football in an old magazine and wrote: "The goofy ad on page 59 eventually grew into Sierra Entertainment"[^ref-4]
+- Print ads pairing the two Hi-Res sports games survive in scan archives[^ref-5][^ref-9]
 
 ## Legacy
 
-### Sales and Commercial Impact
-
-Hi-Res Football did not achieve significant commercial success, particularly when compared to On-Line Systems' adventure game offerings[^ref-3]. The game represents an early experiment in sports gaming that ultimately did not define the company's direction. On-Line Systems would find its niche in adventure gaming, with titles like Mystery House and the King's Quest series establishing their reputation.
-
-The $39.95 price point was typical for software of the era, though the high cost of computer software in the 1980s limited the potential customer base for any individual title[^ref-2]. The game's relative obscurity today reflects its modest impact on the market at the time of release.
-
-### Collections
-
-Hi-Res Football has not been included in major Sierra game compilations or re-releases. The game's primitive nature and lack of name recognition compared to Sierra's adventure game catalog has left it as a historical curiosity rather than a title with ongoing commercial viability.
-
-### Fan Projects
-
-No significant fan projects, remakes, or preservation efforts specific to Hi-Res Football are documented in available research. The game exists primarily in abandonware archives and historical gaming databases[^ref-6].
-
-### Related Publications
-
-- **Original Game Manual:** Included offensive and defensive play cards, instructions for paddle controls, and gameplay guidance[^ref-2]
-- **Vintage Advertisements:** Print advertisements appeared in computer gaming magazines circa 1981, often paired with Hi-Res Soccer promotions[^ref-9]
-
-### Critical Perspective
-
-Hi-Res Football occupies an interesting position in video game history as a footnote to the founding story of Sierra Entertainment. While the game itself is primitive and unlikely to engage modern players, its existence demonstrates the experimental nature of early computer game development. On-Line Systems, like many early software companies, tried multiple genres before finding their successful formula.
-
-The game's historical significance lies not in its gameplay innovations or commercial success, but in what it represents: the humble beginnings of a company that would go on to define adventure gaming for a generation. As one internet commenter observed upon discovering a vintage advertisement, the "goofy ad" for Hi-Res Football "eventually grew into Sierra Entertainment"[^ref-4]. This transformation from a small operation selling football games via mail order to a major entertainment software publisher illustrates the remarkable growth of the video game industry during the 1980s and 1990s.
-
-The contrast between Hi-Res Football's obscurity and Sierra's later successes also highlights how companies in the early gaming industry had to experiment widely before finding their niche. Ken and [[Roberta Williams]] would achieve their greatest success with graphical adventure games, a genre far removed from sports simulations, but Hi-Res Football represents an important step in their journey as game developers.
+Hi-Res Football was one of On-Line Systems' first attempts to sell something other than adventure games[^ref-19], and Hi-Res Soccer followed it in 1981[^ref-3]. No re-release or compilation appearance has been documented.
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist – Hi-Res Football](https://www.gog.com/dreamlist) – Vote to add this game to GOG's catalog
-
-**Download / Preservation**
-- [Internet Archive – Hi-Res Football Manual](https://archive.org/stream/Hi-Res_Football/Hi-Res_Football_djvu.txt)[^ref-2]
-- [MobyGames – Hi-Res Football](https://www.mobygames.com/game/76185/hi-res-football/)[^ref-6]
+- Not currently sold digitally.
 
 **Manuals & Extras**
-- [Original Manual (Text)](https://archive.org/stream/Hi-Res_Football/Hi-Res_Football_djvu.txt) – Digitized game manual with play cards and instructions[^ref-2]
+- [Internet Archive – Hi-Res Football Manual (text)](https://archive.org/stream/Hi-Res_Football/Hi-Res_Football_djvu.txt) – digitized manual, play cards and insert[^ref-2]
+- [MobyGames – Hi-Res Football](https://www.mobygames.com/game/76185/hi-res-football/)[^ref-6]
 
 ## See Also
 
@@ -217,18 +137,21 @@ The contrast between Hi-Res Football's obscurity and Sierra's later successes al
 
 ## References
 
-[^ref-1]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – release year, developer, publisher, platform information
-[^ref-2]: [Internet Archive – Hi-Res Football Manual](https://archive.org/stream/Hi-Res_Football/Hi-Res_Football_djvu.txt) – original manual text including pricing, technical requirements, gameplay description, marketing quotes
-[^ref-3]: [Retro365 Blog – Q-Bits: Hi-Res Football and Soccer](https://retro365.blog/2022/03/17/q-bits-from-my-personal-collection-hi-res-football-and-soccer-some-of-on-line-systems-earliest-titles/) – development history, Jay Sullivan's background, commercial performance context
-[^ref-4]: [Hacker News Discussion](https://news.ycombinator.com/item?id=9255133) – historical context, vintage advertisement discovery, community reactions
-[^ref-5]: [Retromags Gallery – Hi-Res Soccer/Football](https://www.retromags.com/gallery/image/21318-hi-res-soccer-hi-res-football/) – vintage magazine advertisement scan, publication context
-[^ref-6]: [MobyGames – Hi-Res Football](https://www.mobygames.com/game/76185/hi-res-football/) – comprehensive technical specifications, designer credits, gameplay details, ratings
-[^ref-7]: [Sierra Chest – Hi-Res Football](https://sierrachest.com/index.php?a=games&id=436&title=hi-res-football&fld=general) – engine information, basic metadata
-[^ref-8]: [Ars Technica Forums – Gaming Archeology](https://arstechnica.com/civis/threads/gaming-archeology-with-dia-exhibit-01-ultima-1981-1986.1505052/) – Softline review reference, technical specifications, visual design details
-[^ref-9]: [VG Print Ads – Hi-Res Soccer/Football Advertisement](https://vgprintads.tumblr.com/post/175902936100/hi-res-soccer-hi-res-football-app2-dos/amp) – vintage print advertisement archive
-[^ref-10]: [Glitchwave – Sierra Entertainment Games](https://glitchwave.com/game-company/sierra-entertainment/) – modern rating, genre classification
-[^ref-11]: [Sierra Gamers – Hi-Res Football](https://www.sierragamers.com/hi-res-football/) – alternate release date listing
-[^ref-12]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – later Sierra football games context, Front Page Sports series information
-[^ref-13]: [Wikipedia – Hi-Res Football](https://en.wikipedia.org/wiki/Dynamix) – comprehensive Wikipedia entry providing detailed history and game development information about Dynamix
-[^ref-14]: [Wikipedia – Hi-Res Football](https://en.wikipedia.org/wiki/Sierra_Entertainment) – no information about 'Hi Res Football' found in this Sierra Entertainment Wikipedia article. The content discusses Si...
-[^ref-15]: [MobyGames – Hi-Res Football](https://www.mobygames.com/game/76185/) – game information and details
+[^ref-1]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – lists Hi-Res Football, 1980, Apple II, developed and published by On-Line Systems
+[^ref-2]: [Internet Archive – Hi-Res Football Manual](https://archive.org/stream/Hi-Res_Football/Hi-Res_Football_djvu.txt) – box text, © 1980 manual, 48K Apple II or II Plus, $39.95, controls, plays, rankings, insert
+[^ref-3]: [Retro365 Blog – Q-Bits: Hi-Res Football and Soccer](https://retro365.blog/2022/03/17/q-bits-from-my-personal-collection-hi-res-football-and-soccer-some-of-on-line-systems-earliest-titles/) – Sullivan hired 1980 for a compiler; Soccer the following year; 2022 assessment of commercial performance
+[^ref-4]: [Hacker News Discussion](https://news.ycombinator.com/item?id=9255133) – 2015 comment on a vintage Hi-Res Soccer/Football magazine ad
+[^ref-5]: [Retromags Gallery – Hi-Res Soccer/Football](https://www.retromags.com/gallery/image/21318-hi-res-soccer-hi-res-football/) – vintage magazine advertisement scan
+[^ref-6]: [MobyGames – Hi-Res Football](https://www.mobygames.com/game/76185/hi-res-football/) – credits ("By Jay Sullivan, Ken Williams"), AI team "Apple", top-down, 40 yards visible, floppy, paddles, 83% from 1 critic rating
+[^ref-7]: [Sierra Chest – Hi-Res Football](https://sierrachest.com/index.php?a=games&id=436&title=hi-res-football&fld=general) – engine: Machine Language
+[^ref-9]: [VG Print Ads – Hi-Res Soccer/Football Advertisement](https://vgprintads.tumblr.com/post/175902936100/hi-res-soccer-hi-res-football-app2-dos/amp) – 1981 magazine advertisement for both Hi-Res sports games
+[^ref-10]: [Glitchwave – Sierra Entertainment Games](https://glitchwave.com/game-company/sierra-entertainment/) – Hi-Res Football (1980): 0.50 from 1 rating, listed as turn-based strategy
+[^ref-11]: [Sierra Gamers – Hi-Res Football](https://www.sierragamers.com/hi-res-football/) – gives release date "xx-xx-1981"
+[^ref-14]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – founded 1979 as On-Line Systems in Simi Valley; Mystery House released May 1980
+[^ref-16]: [Softalk, September 1980 (Internet Archive text)](https://archive.org/download/softalkv1n01sep1980/softalkv1n01sep1980_djvu.txt) – On-Line Systems ads: "Look for Hi-Res Football coming soon"
+[^ref-17]: [Softalk, December 1980 (Internet Archive text)](https://archive.org/download/softalkv1n04dec1980/softalkv1n04dec1980_djvu.txt) – listing: "Hi-Res Football... One or two players. 48K, disk. $39.95"
+[^ref-18]: [Softalk, January 1981 (Internet Archive text)](https://archive.org/download/softalkv1n05jan1981/softalkv1n05jan1981_djvu.txt) – Top Thirty list includes "Hi-Res Football, Jay Sullivan and Ken Williams, On-Line Systems"
+[^ref-19]: [Softalk, February 1981 (Internet Archive text)](https://archive.org/download/softalkv1n06feb1981/softalkv1n06feb1981_djvu.txt) – On-Line Systems profile (Sullivan "a football buff"); Top Thirty listing; ad "Available now for $39.95", DOS 3.2 or 3.3
+[^ref-20]: [Softalk, March 1981 (Internet Archive text)](https://archive.org/download/softalkv1n07mar1981/softalkv1n07mar1981_djvu.txt) – Top Thirty list includes Hi-Res Football
+[^ref-21]: [Softalk, April 1981 (Internet Archive text)](https://archive.org/download/softalkv1n08apr1981/softalkv1n08apr1981_djvu.txt) – Top Thirty list includes Hi-Res Football; Ken Williams "four collaborations in the Top Thirty"
+[^ref-22]: [The Robservatory – The high cost of software in the 1980s](https://robservatory.com/the-high-cost-of-software-in-the-1980s/) – "How about some Hi-Res Football instead? It's also $39.95"
