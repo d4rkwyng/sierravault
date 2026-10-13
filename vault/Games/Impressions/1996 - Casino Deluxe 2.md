@@ -2,37 +2,35 @@
 title: Casino Deluxe 2
 release_year: 1996
 developer: Impressions Games
-designer: [David Lester]
 publisher: Sierra On-Line
 genre: Casino
 platforms: [Windows 3.1, Windows 95]
 series: Casino Deluxe
-engine: Impressions Engine
+engine: Unknown
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
-description: Casino Deluxe 2 is a gambling simulation game released on October 22,
-  1996 for IBM PC, developed by Impressions Games and published by Sierra On-Line.
-  The...
+last_updated: '2026-10-13'
+description: Casino Deluxe 2 is a 1996 casino gambling simulation for Windows, developed
+  by Impressions Games and published by Sierra On-Line, offering eighteen casino games
+  with on-screen strategy advice and a Gambling Academy.
 tags: [1990s, casino-deluxe, sierra, simulation]
 ---
 # Casino Deluxe 2
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Casino Deluxe 2 is a gambling simulation game released on October 22, 1996 for IBM PC, developed by [[Impressions Games]] and published by [[Sierra On-Line]][^ref-1][^ref-6]. The game invites players to experience the "intensity, allure and passion of authentic casino gambling" from the comfort of their homes, with its signature marketing tagline urging players to "beat the odds...to a pulp!"[^ref-2]. Serving as a sequel to Casino De Luxe (1995), the game expanded upon its predecessor's foundation with enhanced 3D SVGA graphics and a comprehensive suite of eighteen casino games[^ref-2].
+Casino Deluxe 2 is a gambling simulation game released on October 22, 1996 for IBM PC, developed by [[Impressions Games]] and published by [[Sierra On-Line]][^ref-1][^ref-2]. Its box copy invites players to face the "intensity, allure and passion of authentic casino gambling," under the tagline "Beat the odds...to a pulp!"[^ref-2]. The sequel to [[1995 - Casino De Luxe|Casino De Luxe]] (1995), it advertises 3-D SVGA graphics and eighteen casino games[^ref-2].
 
-The game was designed as a risk-free gambling experience, allowing players to enjoy the thrill of casino gaming without wagering real money[^ref-3]. A standout feature was the on-screen professional advice system, described as being "like having a casino expert right by your side," which provided players with invaluable tips and strategies applicable even to real-world gambling scenarios[^ref-2]. The game also included a Gambling Academy feature with lessons and game histories to help players understand the rules and strategies of various casino games[^ref-4].
+The game lets players gamble without risking real money[^ref-3]. Its headline feature is on-screen professional advice, described on the box as "like having a casino expert right by your side"[^ref-2]. A Gambling Academy offers lessons on the games and their histories[^ref-4].
 
-Casino Deluxe 2 supported both Windows 3.1 and Windows 95 platforms, and notably included internet play capabilities and a free laptop version on the CD-ROM[^ref-5]. The game was part of Sierra's broader entertainment software lineup during the mid-1990s, appearing in The Game Catalogue 1996-1997[^ref-1].
+Casino Deluxe 2 ran on Windows 3.1 and Windows 95, and its CD-ROM included internet play and a free laptop version[^ref-5]. Sierra listed it in The Game Catalogue 1996-1997[^ref-6].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
-> **Designer:** [[David Lester]][^ref-7]
-> **Publisher:** [[Sierra On-Line]][^ref-8]
-> **Engine:** Unknown
+> **Publisher:** [[Sierra On-Line]][^ref-2]
+> **Engine:** Unknown[^ref-1]
 > **Platforms:** Windows 3.1, Windows 95[^ref-5]
 > **Release Year:** 1996[^ref-1]
 > **Series:** Casino Deluxe
@@ -41,80 +39,63 @@ Casino Deluxe 2 supported both Windows 3.1 and Windows 95 platforms, and notably
 
 ## Story Summary
 
-Casino Deluxe 2 does not feature a traditional narrative structure, instead focusing on gambling simulation gameplay. Players begin their casino adventure with a virtual bankroll, tasked with building their fortune across various casino games[^ref-3]. The game presents a 3D casino environment where players can freely move between different gaming floors and tables[^ref-9].
+Casino Deluxe 2 has no narrative; it is a gambling simulation set in a 3D casino environment[^ref-3]. Players enter a lobby and take an elevator to the floor of the game they want to play, each floor accompanied by casino ambience such as the murmur of gamblers and the sound of slot machines[^ref-9].
 
-The casino setting is designed to evoke the atmosphere of authentic gaming establishments, complete with dealer voices and ambient casino sounds[^ref-2]. Players interact with virtual dealers who not only manage the games but also communicate directly with the player, offering advice when requested[^ref-4]. Text messages appear on screen providing tips and strategies that players can utilize both in the game and in real-life gambling situations[^ref-4].
+The dealers talk to the player, and advice can be requested during play[^ref-4]. Tips and strategies appear as on-screen text messages, which the product description says can be used "anytime you play games of chance - even if they're for real"[^ref-4].
 
-The game's Gambling Academy serves as an educational component, offering tutorials and historical information about games like red dog poker and craps[^ref-9]. This feature positions Casino Deluxe 2 not merely as entertainment but as a learning tool for aspiring casino enthusiasts[^ref-9].
+The Gambling Academy offers audio and visual instruction on how to play games such as red dog poker and craps, along with the history behind them[^ref-9].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Casino Deluxe 2 utilizes a player-friendly interface combining mouse and keyboard controls[^ref-4]. The game presents a first-person perspective in certain areas and a top-down view for table games, allowing players to observe the action from optimal vantage points[^ref-2]. Navigation through the casino is facilitated by an elevator system featuring ambient muzak in the lobby, with different games organized across multiple floors[^ref-9].
+The game is controlled with mouse and keyboard[^ref-15], and the box promises a "Player-Friendly Interface - so even beginners can start winning right away"[^ref-2]. MobyGames classifies its perspectives as first-person and top-down[^ref-2]. Players move between games via an elevator that plays muzak, with different games on different floors[^ref-9].
 
-The on-screen professional advice system is accessible at any time during gameplay, providing strategic guidance through text messages that appear when the player requests assistance[^ref-4]. This feature was marketed as a "secret weapon" that distinguished Casino Deluxe 2 from competing gambling simulations[^ref-2].
+Advice is available any time, "even during play," and the box calls it a "secret weapon"[^ref-2]. It appears as on-screen text messages when the player asks for help[^ref-4].
 
 ### Structure and Progression
 
-The game offers eighteen distinct casino games organized into several categories[^ref-11]:
+The game offers eighteen casino games[^ref-2]:
 
-- **Slot Machines:** Six themed machines including Lucky Sevens, Home Run, Space Race, Wild West, Famous Faces, and Cornucopia[^ref-11]
-- **Video Poker:** Four variants - 10's or Better, Deuces Wild, Jacks or Better, and Joker Poker[^ref-11]
+- **Slot Machines:** Six themed machines: Lucky Sevens, Home Run, Space Race, Wild West, Famous Faces, and Cornucopia[^ref-11]
+- **Video Poker:** Four variants: 10's or Better, Deuces Wild, Jacks or Better, and Joker Poker[^ref-11]
 - **Table Poker:** 5 Card Draw, 5 Card Stud, and 7 Card Stud[^ref-11]
-- **Table Games:** Blackjack, Craps, Pai Gow Poker, Red Dog, and Roulette[^ref-12]
+- **Table Games:** Blackjack, Craps, Pai Gow Poker, Red Dog[^ref-11], and Roulette[^ref-9]
 
-Players are free to move between games and floors at will, with no linear progression required[^ref-9]. The goal is simply to accumulate winnings through skillful play and strategic decision-making.
+Players can move between games and floors freely; there is no linear progression[^ref-9].
 
 ### Puzzles and Mechanics
 
-As a gambling simulation, Casino Deluxe 2 focuses on authentic recreation of casino game mechanics rather than traditional puzzle-solving[^ref-3]. Each game faithfully replicates the rules and payout structures of its real-world counterpart[^ref-2].
-
-The game includes comprehensive tutorials through its Gambling Academy feature, which teaches players the fundamentals of each game type[^ref-9]. Betting mechanics allow players to manage their virtual bankroll across sessions, with the game tracking cash totals and providing warnings when funds run low[^ref-13].
+As a gambling simulation, Casino Deluxe 2 has no traditional puzzles[^ref-3]. The Gambling Academy teaches the rules of each game, with tips and game histories[^ref-9]. Sierra's 1.01 patch notes show the game tracks the player's cash and chips across saved games, and that version 1.0 let players split, double down or raise without sufficient funds[^ref-13].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Casino Deluxe 2 appears to have received limited coverage in major gaming publications. The predecessor game, Casino De Luxe (1995), received mixed reviews that provide context for the series' reception:
+Casino Deluxe 2 received little press coverage. MobyGames lists two critic reviews[^ref-17]:
 
-- **Computer Game Review** awarded the original 85/100, with reviewers Frank Snyder, Ted Chapman, and Tasos Kaiafas contributing to the evaluation (September 1995)[^ref-7]
-- **PC Gamer (US)** gave 80% from reviewer Todd Vaughn (October 1995)[^ref-7]
-- **Next Generation** awarded 3 out of 5 stars, noting "if you're into these games, this is the best one around" (November 1995)[^ref-7]
-- **Joystick** (French publication) scored the game 100/200 from reviewer Moulinex (November 1995)[^ref-7]
-- **Génération 4** awarded 59% (November 1995)[^ref-7]
-- **PC Joker** gave 43% from reviewer Markus Ziegler (April 1996)[^ref-7]
-- **PC Top Player** scored 61/100 from reviewer Victor Sanchez (April 1996)[^ref-7]
+- **All Game Guide** rated it 3.5 out of 5 (70%), concluding: "Overall, this game is a must for anyone who wants a casino on their computer."[^ref-17]
+- **GamePower** (1997, unscored) singled out the Blackjack advice professor and the Gambling Academy: "Sure, you could get the same thing in a six-dollar paperback, but here you can practice, too."[^ref-17]
+
+Reviews of the first game are covered on [[1995 - Casino De Luxe]].
 
 ### Modern Assessment
 
-Modern retrospectives on Casino Deluxe 2 are limited, though the game has found a niche audience among retro gaming enthusiasts. User reviews on preservation sites describe it as "a nice little game for players who enjoy gambling but don't want to use real money"[^ref-9]. One reviewer proclaimed it "a must for anyone who wants a casino on their computer"[^ref-9].
-
-The game has been described as "a good game for gambling enthusiasts" that provides "fun to keep the family entertained"[^ref-12]. Its value as a risk-free gambling education tool continues to be appreciated by modern players discovering the title through abandonware channels[^ref-3].
+Old-Games.com's write-up calls it "a nice little game for players who enjoy gambling but don't want to use real money" and a "useful tool if you want to hit some real casinos"[^ref-9]. One Internet Archive upload describes it as "a good game for gambling enthusiasts" and "fun to keep the family entertained"[^ref-12].
 
 **Aggregate Scores:**
+- **MobyGames:** 70% critic average (1 rating)[^ref-17]
 - **Metacritic:** No critic or user reviews available[^ref-14]
 
 ## Development
 
 ### Origins
 
-Casino Deluxe 2 was developed by [[Impressions Games]], a studio founded by David Lester in 1989.[^ref-7][^ref-16] The original Casino De Luxe was conceived by Lester himself, establishing the gameplay template that the sequel would expand upon[^ref-7][^ref-10]. The game built upon Impressions' experience with strategy and simulation titles, applying their design expertise to the gambling genre[^ref-2].
-
-The development came during a transitional period for Impressions Games, as the studio was sold to Sierra On-Line shortly after the release of the original Casino De Luxe[^ref-7]. This acquisition meant that domestic re-releases and international distribution of both games would be published under the Sierra brand[^ref-7].
+Casino Deluxe 2 was developed by [[Impressions Games]] and published by [[Sierra On-Line]][^ref-1][^ref-2]. It follows [[1995 - Casino De Luxe|Casino De Luxe]] in the Casino Deluxe series[^ref-1][^ref-2]. No individual designer is credited in the sources consulted.
 
 ### Production
 
-Development focused on expanding the game count from the original while enhancing the visual presentation with 3D SVGA graphics and "movie quality music"[^ref-2]. The team implemented dealer voices to create a more immersive casino atmosphere[^ref-2]. Particular attention was paid to the advice system, ensuring that the strategic guidance provided would be genuinely useful for players learning casino games[^ref-4].
-
-The inclusion of internet play capabilities represented an ambitious feature for 1996, though this functionality has not survived into modern compatibility efforts[^ref-11]. A laptop version was also developed and included on the CD-ROM as a bonus feature[^ref-5].
-
-**Development Credits:**[^ref-7]
-- **Concept/Design:** David Lester (Impressions Games founder)
-
-### Technical Achievements
-
-Casino Deluxe 2 showcased 3D SVGA graphics that were advanced for gambling simulations of the era[^ref-2]. The game featured ambient casino sounds, dealer voice acting, and atmospheric music to create an authentic gambling environment[^ref-2]. The first-person and top-down perspective switching allowed for varied viewing angles appropriate to different game types[^ref-2].
+The box lists 3-D SVGA graphics, "movie quality music" and dealer voices as features[^ref-2]. The CD-ROM included a laptop version as a bonus[^ref-5]. The original release supported internet play[^ref-5]; a modern compatibility re-release notes that internet play is not supported[^ref-11].
 
 ### Technical Specifications
 
@@ -123,7 +104,7 @@ Casino Deluxe 2 showcased 3D SVGA graphics that were advanced for gambling simul
 - **Media:** CD-ROM[^ref-8]
 - **Hardware Requirements:** VESA compatible display, Mouse[^ref-15]
 - **File Size:** Approximately 108-158 MB[^ref-8][^ref-9]
-- **Control:** Mouse, Keyboard[^ref-4]
+- **Control:** Mouse, Keyboard[^ref-15]
 
 ### Technical Issues
 
@@ -136,9 +117,9 @@ The initial release (version 1.0) contained several bugs that were addressed in 
 - Video Poker graphical issues and payout problems[^ref-13]
 - Problems with cash totals over $40,000[^ref-13]
 
-A critical note from Sierra Help Pages warned: "Version 1.0 saved games WILL NOT work with version 1.01 if you have experienced any of the money errors!"[^ref-13]
+A note from Sierra Help Pages warned: "Version 1.0 saved games WILL NOT work with version 1.01 if you have experienced any of the money errors!"[^ref-13]
 
-The 256-color limitation caused images to "wash out momentarily when switching between modes," a minor visual artifact noted by users[^ref-9]. Modern compatibility issues have also been reported, with internet play functionality no longer supported[^ref-11].
+The 256-color palette causes images to "wash out" momentarily when the game switches between modes, according to Old-Games.com's write-up[^ref-9]. Internet play is not supported in modern compatibility releases[^ref-11].
 
 ### Version History
 
@@ -149,9 +130,8 @@ The 256-color limitation caused images to "wash out momentarily when switching b
 
 ### Easter Eggs and Trivia
 
-- The game features an elevator with muzak playing in the casino lobby, adding atmospheric authenticity[^ref-9]
-- A free laptop version was included on the CD-ROM for portable play[^ref-5]
-- The game supported internet play in its original release, an ambitious feature for 1996[^ref-5]
+- The casino's elevator plays muzak[^ref-9]
+- A free laptop version was included on the CD-ROM[^ref-5]
 - The UPC code for the product was 020626837347[^ref-5]
 - The EAN barcode number was 0020626837347[^ref-15]
 
@@ -159,27 +139,19 @@ The 256-color limitation caused images to "wash out momentarily when switching b
 
 ### Sales and Commercial Impact
 
-Casino Deluxe 2 was marketed as part of Sierra's entertainment software lineup and appeared in The Game Catalogue 1996-1997[^ref-1]. While specific sales figures are not available, the game maintained enough commercial presence to warrant multiple retail releases and patches[^ref-13]. The game was distributed primarily in North America, with the Sierra brand handling international distribution[^ref-7].
+Casino Deluxe 2 appeared in Sierra's The Game Catalogue 1996-1997[^ref-6]. No sales figures are available.
 
 ### Collections
 
-Casino Deluxe 2 was released as a standalone product and has not been documented as part of any major compilation releases. The game exists within the Casino Deluxe series, following the original Casino De Luxe (1995)[^ref-2].
+Casino Deluxe 2 was also included in the compilation Grand Casino Deluxe[^ref-1].
 
 ### Preservation
 
-The game has been preserved through multiple Internet Archive uploads, maintained in the CD-ROM Software Library and Vintage Software Collection[^ref-8]. These preservation efforts have ensured the game remains accessible to researchers and retro gaming enthusiasts[^ref-12].
+The game has been preserved through multiple Internet Archive uploads[^ref-8][^ref-12].
 
 ### Related Publications
 
-- **The Game Catalogue 1996-1997:** Featured Casino Deluxe 2 on page 12[^ref-1]
-
-### Critical Perspective
-
-Casino Deluxe 2 represents a solid entry in the mid-1990s gambling simulation genre, combining Sierra's production values with Impressions Games' design expertise. While the predecessor received mixed reviews ranging from 43% to 85%[^ref-7], the series found its audience among players seeking risk-free casino entertainment.
-
-The game's emphasis on educational content through the Gambling Academy feature distinguished it from pure entertainment titles, positioning it as both a game and a learning tool[^ref-9]. The on-screen advice system was particularly innovative, providing genuine strategic value that could translate to real-world gambling knowledge[^ref-4].
-
-In the broader context of Sierra's catalog, Casino Deluxe 2 exemplifies the company's willingness to publish diverse entertainment software beyond their signature adventure games. The title served a specific niche audience effectively, though it never achieved the critical acclaim or cultural impact of Sierra's flagship series[^ref-3].
+- **The Game Catalogue 1996-1997:** Featured Casino Deluxe 2 on page 12[^ref-6]
 
 ## Purchase
 
@@ -220,19 +192,17 @@ In the broader context of Sierra's catalog, Casino Deluxe 2 exemplifies the comp
 
 ## References
 
-[^ref-1]: [Sierra Chest – Casino Deluxe 2](https://sierrachest.com/index.php?a=games&id=401&fld=general) – release date October 22, 1996, developer Impressions Games, IBM PC platform
-[^ref-2]: [MobyGames – Casino Deluxe 2](https://www.mobygames.com/game/157317/casino-deluxe-2/) – marketing materials, features, game list, 3D SVGA graphics, developer Impressions, publisher Sierra On-Line
+[^ref-1]: [Sierra Chest – Casino Deluxe 2](https://sierrachest.com/index.php?a=games&id=401&fld=general) – release date October 22, 1996, developer Impressions Games, IBM PC platform, engine "Unknown/unnamed", Casino Deluxe series, included in Grand Casino Deluxe
+[^ref-2]: [MobyGames – Casino Deluxe 2](https://www.mobygames.com/game/157317/casino-deluxe-2/) – back-of-box text, features, 3-D SVGA graphics, 1st-person/top-down perspectives, developer Impressions, publisher Sierra On-Line, previous: Casino De Luxe
 [^ref-3]: [eBay Product Listing](https://www.ebay.com/itm/255059364612) – 3D environment, 18 games, dealer advice feature, gambling simulation description
 [^ref-4]: [eBay Product Page](https://www.ebay.com/p/53914700) – dealer communication, advice system, Gambling Academy feature
 [^ref-5]: [Amazon – Casino Deluxe 2](https://www.amazon.com/Casino-Deluxe-Cd-rom-Version-Internet/dp/B00ENQAV8I) – Windows 3.1/95 platforms, internet play, laptop version, UPC 020626837347
-[^ref-6]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=401&title=casino-deluxe-2&fld=publications) – Game Catalogue 1996-1997 listing
-[^ref-7]: [Wikipedia – Casino De Luxe](https://en.wikipedia.org/wiki/Casino_Deluxe) – David Lester designer, Impressions development, Sierra acquisition, review scores from multiple publications
+[^ref-6]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=401&title=casino-deluxe-2&fld=publications) – The Game Catalogue 1996-1997, page 12
 [^ref-8]: [Internet Archive – Casino Deluxe 2 (Sierra 1996)](https://archive.org/details/Casino_deluxe_2_Sierra_1996) – file size 158.4M, preservation metadata, CD-ROM Preservation Project upload
-[^ref-9]: [Old-Games.com – Casino Deluxe 2](https://www.old-games.com/download/10115/casino-deluxe-2) – user review, 256 colors, elevator muzak, Gambling Academy description, floor layout
-[^ref-10]: [GamesNostalgia – Legendary Game Designers: David Lester (archived)](https://web.archive.org/web/20250915175257/https://gamesnostalgia.com/story/156/legendary-game-designers-david-lester) – designer biography; Lester "would also have a hand in making Casino De Luxe"
-[^ref-11]: [All Video Classic Games](https://www.allvideoclassicgames.com/products/sierra-casino-deluxe-de-luxe-2-ii-1clk-windows-10-8-7-vista-xp-install) – complete 18-game list, internet play not supported note
-[^ref-12]: [Internet Archive – Casino Deluxe 2](https://archive.org/details/casino-deluxe-2) – 1996 release, game features including Keno and Texas Hold'em, family entertainment description
+[^ref-9]: [Old-Games.com – Casino Deluxe 2](https://www.old-games.com/download/10115/casino-deluxe-2) – write-up: 256 colors, elevator muzak, floors, roulette, Gambling Academy description
+[^ref-11]: [All Video Classic Games](https://www.allvideoclassicgames.com/products/sierra-casino-deluxe-de-luxe-2-ii-1clk-windows-10-8-7-vista-xp-install) – game list, internet play not supported note
+[^ref-12]: [Internet Archive – Casino Deluxe 2](https://archive.org/details/casino-deluxe-2) – 1996 release, uploader description ("A good game for gambling enthusiasts")
 [^ref-13]: [Sierra Help Pages – Casino Deluxe Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/CasinoDeluxeUpdates.html) – version 1.01 patch notes, bug fixes, save game incompatibility warning
 [^ref-14]: [Metacritic – Casino Deluxe 2](https://www.metacritic.com/game/pc/casino-deluxe-2) – Sierra Entertainment publisher, no reviews available
-[^ref-15]: [UVList – Casino Deluxe 2](https://www.uvlist.net/game-252495-Casino+Deluxe+2) – Win3.1 platform, VESA/Mouse hardware, EAN 0020626837347, game types
-[^ref-16]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – company history, David Lester founder, Sierra acquisition 1995, game catalog
+[^ref-15]: [UVList – Casino Deluxe 2](https://www.uvlist.net/game-252495-Casino+Deluxe+2) – Win3.1 platform, VESA/keyboard/mouse hardware, EAN 0020626837347, game types
+[^ref-17]: [MobyGames – Casino Deluxe 2 reviews](https://www.mobygames.com/game/157317/casino-deluxe-2/reviews/) – All Game Guide 3.5/5 (1998) and GamePower (1997) critic reviews; 70% average from 1 rating
