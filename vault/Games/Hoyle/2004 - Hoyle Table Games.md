@@ -1,38 +1,38 @@
 ---
 title: Hoyle Table Games 2004
-release_year: 2004
+release_year: 2003
 developer: Buzz Monkey Software, LLC
 designer: [Ryan Spain, Rabih AbouJaoudé, Eric Fleming, Michael Katz, Cara Ely]
 publisher: Sierra Entertainment
 genre: Board Game
 platforms: [Windows]
 series: Hoyle
-engine: Proprietary (Windows)
+engine: Unknown
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
-description: Hoyle Table Games 2004 represents a continuation of Sierra's long-running
-  Hoyle series, which began in 1989 and was named after the 18th century playing...
+last_updated: '2026-10-13'
+description: Hoyle Table Games 2004 is an 18-game collection of classic table games
+  in Sierra's Hoyle series, developed by Buzz Monkey Software and released for Windows...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Table Games 2004
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Hoyle Table Games 2004 represents a continuation of Sierra's long-running Hoyle series, which began in 1989 and was named after the 18th century playing card expert Edmond Hoyle[^ref-1][^ref-17]. Released in September 2003 for Windows PC[^ref-6], the game marketed itself with the tagline "A Game for Every Player. A Game for Every Night! All of the best classic table games with a brand-new twist!"[^ref-3]. The title was developed by Buzz Monkey Software, LLC and published by Sierra Entertainment under the Vivendi Universal Games umbrella[^ref-4][^ref-5].
+Hoyle Table Games 2004 is part of Sierra's long-running Hoyle series, which began in 1989 and is named after the 18th-century playing card expert Edmond Hoyle[^ref-1]. It was released in the United States on September 2, 2003 for Windows PC[^ref-6][^ref-18][^ref-20], with a UK release following in 2004[^ref-20]. The box copy carried the tagline "A Game for Every Player. A Game for Every Night! All of the best classic table games with a brand-new twist!"[^ref-3]. The title was developed by Buzz Monkey Software, LLC and published by Sierra Entertainment[^ref-11][^ref-20]; Amazon.ca lists the manufacturer as Vivendi Universal[^ref-3].
 
-The game features an impressive collection of 18 classic table games, offering players a comprehensive digital board game experience[^ref-6]. As noted by MyGamer, "Hoyle Table Games represents the cutting edge of computer technology with its beautiful graphics and involving gameplay, but the games themselves belong to history"[^ref-7]. The title introduced several new features to the Hoyle series, including the "Hoyle Bucks" virtual currency system, a Facemaker Tool for character creation, and a BackTalk Feature for player interaction[^ref-3].
+The collection contains 18 table games[^ref-3][^ref-6]. MyGamer's listing summed it up: "Hoyle Table Games represents the cutting edge of computer technology with its beautiful graphics and involving gameplay, but the games themselves belong to history"[^ref-7]. The box advertised "Hoyle Bucks" virtual currency and a BackTalk Feature as new, along with the Facemaker Tool for creating a character, and named Maximum Pool as a new game[^ref-3].
 
-Designed for family entertainment, Hoyle Table Games 2004 received an ESRB rating of "E for Everyone"[^ref-5][^ref-9], making it suitable for players of all ages. The game continued Sierra's tradition of providing accessible casual gaming experiences, allowing players to enjoy classic board games against computer opponents when human players weren't available[^ref-10].
+The game is rated E for Everyone by the ESRB[^ref-5][^ref-9].
 
 > [!info]- Game Info
-> **Developer:** Buzz Monkey Software, LLC[^ref-4]
-> **Designer:** Ryan Spain, Rabih AbouJaoudé, Eric Fleming, Michael Katz, Cara Ely[^ref-11]
+> **Developer:** Buzz Monkey Software, LLC[^ref-11]
+> **Designer:** Ryan Spain, Rabih AbouJaoudé, Eric Fleming, Michael Katz, Cara Ely[^ref-23]
 > **Publisher:** Sierra Entertainment[^ref-5]
 > **Engine:** Unknown
-> **Platforms:** Windows 95, Windows 98, Windows Me, Windows XP[^ref-3]
+> **Platforms:** Windows 95, Windows 98, Windows Me[^ref-3]
 > **Release Year:** 2003
 > **Series:** Hoyle
 > **Protagonist:** Player-created avatar
@@ -40,143 +40,125 @@ Designed for family entertainment, Hoyle Table Games 2004 received an ESRB ratin
 
 ## Game Collection
 
-Hoyle Table Games 2004 includes a comprehensive selection of 18 classic table games, providing variety for different player preferences and skill levels[^ref-6].
+Hoyle Table Games 2004 includes 18 table games, for one player with some available in "hot seat" multiplayer[^ref-6][^ref-11].
 
 ### Included Games
 
-The complete game collection comprises[^ref-6][^ref-10]:
+The collection comprises[^ref-3][^ref-10][^ref-11]:
 
-- **Backgammon** – Classic racing board game
-- **Battling Ships** – Naval strategy game
-- **Bump 'em** – Competitive movement game
-- **Checkers** – Traditional strategy game
-- **Chess** – The classic strategy board game
-- **Chinese Checkers** – Multi-player peg jumping game
-- **Dominoes** – Tile matching game
-- **Double-Cross** – Strategic tile placement
-- **Gravity Tiles** – Puzzle tile game
-- **Mahjong Tiles** – Tile matching solitaire
-- **Master Match** – Memory matching game
-- **Pachisi** – Classic race game of India
-- **Maximum Pool** – Billiards simulation
-- **Reversi** – Strategic disc-flipping game
-- **Rummy Squares** – Card-based tile game
-- **Word Yacht** – Word formation game
-- **Wordox** – Word puzzle game
-- **Yacht** – Dice game similar to Yahtzee
+- **Backgammon** – Standard two-player backgammon, viewed top-down
+- **Battling Ships** – Two-player Battleship-style game in which each player places several shots per turn
+- **Bump 'em** – Similar to Pachisi, but movement is controlled by tickets rather than dice
+- **Checkers** – Faux-3D view, played with black/red counters or frogs
+- **Chess** – Standard chess with a pseudo-3D point of view
+- **Chinese Checkers** – Six-player game against up to five AI opponents
+- **Dominoes** – Standard dominoes starting from a double
+- **DoubleCross** – Four-player word game in which part-words can be placed and later completed
+- **Gravity Tiles** – Remove groups of same-coloured tiles to clear the screen
+- **Mahjong Tiles** – Tile-matching solitaire with 62 layouts and a level editor
+- **Master Match** – Two-player Mastermind-style code-breaking game
+- **Pachisi** – Four-player dice race game very similar to Ludo
+- **Maximum Pool** – Billiards with seven variants, including Snooker and Cutthroat
+- **Reversi** – Standard two-player disc-flipping game
+- **Rummy Squares** – Four-player tile game resembling Rummikub
+- **Word Yacht** – Yahtzee-like game played with letter dice
+- **Wordox** – Four-player word game resembling Scrabble
+- **Yacht** – Dice game with Yahtzee's rules but a slightly different scoring system
 
 ## Gameplay
 
 ### Interface and Controls
 
-Hoyle Table Games 2004 utilizes a mouse-driven interface with fixed/flip-screen visuals[^ref-11]. Players can customize their experience through various options including difficulty selection, music selection, background customization, and player chattiness options[^ref-10]. The game supports hot seat multiplayer, allowing multiple players to take turns on the same computer[^ref-6].
+Most of the games are played with the mouse; Maximum Pool uses a keyboard/mouse combination[^ref-11]. The box lists adjustable skill levels (Beginner, Intermediate or Expert), selectable game variations and music, in-game tutorials, and a Hoyle rulebook and strategy guide[^ref-3]. Some games support hot-seat multiplayer[^ref-6][^ref-10].
 
 ### Features and Mechanics
 
-The main new feature introduced in this version is the "Hoyle Bucks" system, where players earn virtual currency by achieving certain goals in each game[^ref-11]. This reward system adds an element of progression and incentive beyond simply winning individual matches[^ref-3].
+Winning games and completing various objectives earns "Hoyle Bucks", which can be spent to unlock music tracks, environments and other features[^ref-11]. MobyGames notes an online gaming feature whose site was no longer active when tried in 2021[^ref-11].
 
-The Facemaker Tool allows players to create custom characters for gameplay, adding a personalization element to the experience[^ref-3]. The BackTalk Feature enables player interaction during games, with customizable chattiness options to control opponent banter[^ref-10]. One Easter egg discovered by players reveals that "you can throw a pie in one of the characters faces"[^ref-3].
+The Facemaker Tool lets players create their own character, and the box promised "animated opponents who talk back and speak their minds"[^ref-3].
 
 ### Difficulty and AI
 
-The game offers multiple difficulty levels to accommodate players of varying skill[^ref-10]. However, the AI quality received mixed reviews, with some users noting that in certain games like Pachisi, players "cannot make blockades" as a strategy option[^ref-10]. One reviewer harshly criticized the chess AI, stating "They don't even know the rules of chess"[^ref-3].
+One Amazon customer titled a one-star review "They don't even know the rules of chess", complaining that the threefold-repetition draw was handled incorrectly[^ref-3]. Another wrote that "like many Hoyle games, the AI seems heavily weighted in favor of the computer players"[^ref-3].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Hoyle Table Games 2004 received mixed to positive reviews from both critics and users. The game attracted attention as a comprehensive collection of classic board games, though opinions varied on execution quality.
+No full critic review of the game has been located. MobyGames records a critic average of 82% from two ratings, with no review text attached[^ref-13].
 
-GameSpot user reviews gave the game a strong rating of 9.4/10, with one reviewer stating "I love board games and this version is great" and appreciating that "it is hard to find someone to play with when I am in the mood so this is the second best thing"[^ref-10]. Another GameSpot reviewer called it "a game for the whole family or friends"[^ref-10].
-
-Amazon customer reviews were more measured, averaging 2.9/5 stars across multiple reviews from 2003-2004[^ref-3]. Criticisms focused on technical issues and AI behavior, with complaints that "AI heavily weighted in favor of computer players"[^ref-3].
+Amazon.ca customer reviews were mixed. One customer called the set "addictive, especially if you are competitive and you enjoy playing pool"[^ref-3], while another, rating it two stars, objected to the copy protection and AI[^ref-3].
 
 ### Modern Assessment
 
-The game has developed a nostalgic following among former players. User comments on abandonware sites reveal strong emotional connections, with one user writing "I am crying listening to the soundtrack, so many good memories"[^ref-4]. Another commented "so lovely game remind me of my childhood i think bcz of this game i'm smart now"[^ref-4].
+Comments on MyAbandonware are nostalgic, with one user writing "I am crying listening to the soundtrack, so many good memories."[^ref-4] Another commented "so lovely game remind me of my childhood i think bcz of this game i'm smart now"[^ref-4].
 
-An eBay reviewer in 2017 rated the game 5.0/5, describing it as "Challenging at all levels" and noting it was a "Replacement of my original of many years that was damaged, never ever tire of variety of games at all levels"[^ref-12].
+An eBay reviewer in 2017 rated the game 5/5 under the heading "Challenging at all levels", writing that it was a "Replacement of my original of many years that was damaged, never ever tire of variety of games at all levels."[^ref-12]
 
 **Aggregate Scores:**
 - **MobyGames (Critics):** 82% (2 ratings)[^ref-13]
 - **MobyGames (Players):** 3.1/5 (2 ratings)[^ref-13]
-- **My Abandonware:** 4.4/5 (20 votes)[^ref-4]
-- **Software Informer:** 4.1/5 (9 votes)[^ref-14]
-- **Amazon.ca:** 2.9/5 (multiple reviews)[^ref-3]
+- **GameSpot (Users, archived 2019):** 8 average (26 ratings)[^ref-10]
+- **My Abandonware:** 4.5/5 (24 votes)[^ref-4]
+- **Amazon.ca:** 3.5/5 (10 ratings, October 2026)[^ref-3]
 - **PEGI Rating:** 3[^ref-11]
 
 ## Development
 
 ### Origins
 
-The Hoyle video game series has a rich history dating back to 1989 when the original concept was submitted by Warren Schwader to Ken Williams at Sierra On-Line[^ref-1]. The series was named after Edmond Hoyle, an 18th century expert on playing card games and rules[^ref-1]. Sierra used trademarks and designs from Hoyle brand playing cards under license from Brown & Bigelow[^ref-1].
-
-By the early 2000s, the Hoyle brand had become well-established in the casual gaming market. The original Hoyle games had sold over 250,000 copies by 1990[^ref-1], establishing a strong foundation for future titles.
+The Hoyle video game series dates back to 1989, when Warren Schwader submitted the original concept to Sierra On-Line CEO Ken Williams[^ref-1]. The series is named after Edmond Hoyle, an 18th-century playing card expert, and some titles used trademarks and designs from the Hoyle brand of playing cards under license from Brown & Bigelow[^ref-1]. The first volume sold over 250,000 copies by 1990[^ref-1].
 
 ### Production
 
-Hoyle Table Games 2004 was developed by Buzz Monkey Software, LLC under contract with Sierra Entertainment[^ref-4][^ref-5]. The development represented a continuation of the series' evolution from its origins using the Sierra Creative Interpreter (SCI) engine[^ref-1].
+Hoyle Table Games 2004 was developed by Buzz Monkey Software, LLC and published by Sierra Entertainment[^ref-11][^ref-20]. MobyGames credits 79 people[^ref-23].
 
-**Development Credits:**[^ref-11]
+**Development Credits:**[^ref-23]
+- **Executive Producer:** Stephen H. Van Horn
+- **Producer:** Cara Ely
 - **Designers:** Ryan Spain, Rabih AbouJaoudé, Eric Fleming, Michael Katz, Cara Ely
-
-### Technical Achievements
-
-Hoyle Table Games 2004 packaged 18 distinct rules engines under a single shared interface — covering classic abstract strategy (Chess, Checkers, Reversi, Chinese Checkers), tile games (Mahjong Tiles, Dominoes, Gravity Tiles, Master Match), race games (Backgammon, Pachisi, Yacht), word games (Word Yacht, Wordox), naval strategy (Battling Ships), and a real-time billiards subengine (Maximum Pool) — at a time when most board-game compilations limited themselves to a half-dozen titles[^ref-6][^ref-10][^ref-11]. The release introduced Sierra's "Hoyle Bucks" virtual-currency progression system to the table-games subline, persisting earnings across sessions and per-game achievements, and shipped a Facemaker avatar creator coupled with a BackTalk dialogue system that produced reactive opponent commentary tied to game state[^ref-3][^ref-10][^ref-11]. The product was developed under contract by Buzz Monkey Software, marking a notable outsourcing milestone for Sierra's Hoyle line, with designer credits split across Ryan Spain, Rabih AbouJaoudé, Eric Fleming, Michael Katz, and Cara Ely on a single retail SKU[^ref-4][^ref-11]. Distribution targeted Windows 95 through Windows XP, with the game shipping on a 601 MB CD-ROM (a substantial footprint for the category) and a copy-protection scheme strict enough to defeat virtual-CD utilities, indicating real anti-piracy engineering investment[^ref-3][^ref-4][^ref-15].
+- **Principal Software Engineer – Project Lead:** Michael Katz
+- **Art Director:** Rabih AbouJaoudé
+- **Documentation Manager & Writer:** Ryan Spain
+- **Composer and Sound Engineer:** Mike Caviezel
+- **Voice Synchronization:** Powered by LIPSinc
 
 ### Technical Specifications
 
 **CD-ROM Version:**[^ref-3][^ref-4]
 - **Media:** CD-ROM
-- **File Size:** 601 MB (ISO)[^ref-4][^ref-15]
+- **File Size:** 601 MB (ISO)[^ref-4]
 - **Physical Dimensions:** 18.03 x 13.72 x 3.3 cm; 317.51 g[^ref-3]
-- **Input:** Mouse[^ref-11]
-- **Visual Style:** Fixed / flip-screen[^ref-11]
 
 **System Requirements:**[^ref-3]
 - Windows 95, Windows 98, Windows Me
-- CD-ROM drive required during play
 
 ## Technical Issues
 
 ### Known Bugs and Compatibility
 
-Hoyle Table Games 2004 suffered from several technical issues that frustrated players[^ref-3]:
-
-- **Maximum Pool Issues:** The Maximum Pool minigame doesn't run properly on Windows XP[^ref-3]
-- **Copy Protection:** The game requires the CD to be in the drive whenever played, with copy restrictions that "defeat virtual CD type programs"[^ref-3]
-- **Wrong Disc Errors:** Some users reported "Wrong Disc" errors when attempting to launch the game[^ref-4]
-- **NoCD Patch Issues:** Missing file errors were reported when using unofficial nocd patches[^ref-4]
-
-One reviewer specifically complained about the copy protection: "The fragile CD must be in the drive whenever the game is played"[^ref-3].
+- **Maximum Pool:** One Amazon customer could not get Maximum Pool to run under Windows XP; they reported that Sierra's suggested fix was to disconnect any gamepad or joystick[^ref-3]
+- **Copy Protection:** The same customer wrote: "The fragile CD must be in the drive whenever the game is played (the copy restrictions also defeat virtual CD type programs)."[^ref-3]
 
 ### Easter Eggs and Trivia
 
-- Players discovered that "you can throw a pie in one of the characters faces"[^ref-3]
-- The Hoyle series originated with playing card games in Volume 1 (1989), which featured interactions with Sierra characters like Leisure Suit Larry and Princess Rosella[^ref-1]
-- Computer Gaming World noted that "interacting with Sierra characters in Volume 1 such as Leisure Suit Larry and Princess Rosella was fun, but annoying for those who preferred cards to humor"[^ref-1]
+- One Amazon customer reported: "You can throw a pie in one of the characters faces."[^ref-3]
+- The UK disc also includes Placer Racer and Mahjong Tiles for transfer to a Palm PDA or Windows CE device[^ref-11]
 
 ## Legacy
 
 ### Publishing and Distribution
 
-The game saw distribution through multiple publishers across different regions and time periods:
-
-- **Sierra Entertainment / Vivendi Universal Games** – Primary North American publisher[^ref-5][^ref-3]
-- **Hip Interactive** – UK regional publisher[^ref-12]
-- **Encore Software** – Reissue under post-Sierra Hoyle brand stewardship[^ref-9]
+- **Sierra Entertainment** – Published the US release (September 2, 2003) and the UK release (2004); the UK release was licensed by The United States Playing Card Company[^ref-20]
+- **Encore Software** – Holds a separate ESRB rating for the title[^ref-9]
 
 ### Series Position
 
-Hoyle Table Games 2004 sits inside the broader Hoyle compilation line that grew from Volume 1 (1989) through the 2016 Encore farewell releases. The 2004 edition expanded the table-games subline alongside parallel annual Hoyle Card Games, Puzzle Games, and Casino releases — together forming a coordinated portfolio strategy that defined Sierra's casual-games output during the early 2000s[^ref-1][^ref-11][^ref-18].
-
-### Reissues and Long Tail
-
-Following Sierra's 2003 exit from the Hoyle franchise, Encore continued publishing Hoyle products through 2016. The 2004 Table Games entry was reissued under Encore's ESRB filing while remaining largely identical in content to the Sierra original[^ref-9]. The 18-game compilation has remained available through abandonware preservation channels and continues to generate nostalgic engagement on community sites well over two decades after release[^ref-4][^ref-19][^ref-20].
+Wikipedia's list of Hoyle titles includes Hoyle Table Games (2003)[^ref-1], and IGDB files it under the Hoyle series[^ref-17]. Encore Software took over publishing the series from 2005 to 2016[^ref-1].
 
 ### Modern Availability
 
-The game is no longer commercially distributed by Sierra, Vivendi Universal, Activision, or Encore through any active digital storefront. Physical copies circulate on the secondary market with a stable collector valuation, and the 601 MB CD-ROM image is preserved across multiple abandonware archives[^ref-4][^ref-15][^ref-21][^ref-22].
+MyAbandonware hosts a 601 MB ISO of the game[^ref-4]. As of October 2026, Amazon.ca showed only an import offer for the product[^ref-3].
 
 ## Downloads
 
@@ -248,24 +230,18 @@ The game is no longer commercially distributed by Sierra, Vivendi Universal, Act
 
 ## References
 
-[^ref-1]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Series history, development origins, SCI engine information, sales data
-[^ref-6]: [LaunchBox Games Database – Hoyle Table Games 2004](https://gamesdb.launchbox-app.com/games/details/122497-hoyle-table-games-2004) – Release date September 2, 2003
-[^ref-3]: [Amazon.ca – Hoyle Table Games 2004](https://www.amazon.ca/Vivendi-Universal-020626720151-Hoyle-Table/dp/B00008OE47) – Customer reviews, features, technical issues, system requirements
-[^ref-4]: [My Abandonware – Hoyle Table Games 2004](https://www.myabandonware.com/game/hoyle-table-games-2004-efb) – Developer info, user ratings, nostalgic comments, technical issues
-[^ref-5]: [ESRB Rating – Hoyle Table Games 2004 (Sierra)](https://www.esrb.org/ratings/8973/hoyle-table-games-2004/) – Publisher confirmation, ESRB E rating
-[^ref-7]: [MyGamer – Hoyle Table Games 2004](https://www.mygamer.com/hoyle-table-games-2004/) – Release date, critical quote about graphics and gameplay
-[^ref-9]: [ESRB Rating – Hoyle Table Games 2004 (Encore)](https://www.esrb.org/ratings/21355/hoyle-table-games-2004/) – Encore Software publisher, ESRB E rating
-[^ref-10]: [GameSpot – Hoyle Table Games 2004 User Reviews](https://www.gamespot.com/hoyle-table-games-2004/user-reviews/2200-350179/) – User ratings, game list, features, user comments
-[^ref-11]: [MobyGames – Card Games: Hoyle 2004 Edition](https://www.mobygames.com/game/79819/card-games-hoyle-2004-edition/) – Designer credits, technical specs, Hoyle Bucks feature description
-[^ref-12]: [eBay UK – Hoyle Table Games 2004](https://www.ebay.co.uk/p/129311876) – UK publisher Hip Interactive, 2017 user review
+[^ref-1]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Series history, origins, Brown & Bigelow licence, sales, Encore era, title list
+[^ref-6]: [LaunchBox Games Database – Hoyle Table Games 2004](https://gamesdb.launchbox-app.com/games/details/122497-hoyle-table-games-2004) – Release date September 2, 2003; 18 games; hot-seat multiplayer
+[^ref-3]: [Amazon.ca – Hoyle Table Games 2004](https://www.amazon.ca/Vivendi-Universal-020626720151-Hoyle-Table/dp/B00008OE47) – Box copy, features, system requirements, customer reviews
+[^ref-4]: [My Abandonware – Hoyle Table Games 2004](https://www.myabandonware.com/game/hoyle-table-games-2004-efb) – User rating, 601 MB ISO, user comments
+[^ref-5]: [ESRB Rating – Hoyle Table Games 2004 (Sierra)](https://www.esrb.org/ratings/8973/hoyle-table-games-2004/) – Sierra Entertainment, rated E for Everyone
+[^ref-7]: [MyGamer – Hoyle Table Games 2004](https://www.mygamer.com/hoyle-table-games-2004/) – Listing dated September 2, 2003; description quote
+[^ref-9]: [ESRB Rating – Hoyle Table Games 2004 (Encore)](https://www.esrb.org/ratings/21355/hoyle-table-games-2004/) – Encore Software, rated E for Everyone
+[^ref-10]: [GameSpot – Hoyle Table Games 2004 (archived May 2019)](https://web.archive.org/web/20190519042232/https://www.gamespot.com/hoyle-table-games-2004/) – First released Sep 2, 2003; 18-game list; hot-seat multiplayer; user average 8 (26 ratings)
+[^ref-11]: [MobyGames – Hoyle Table Games 2004](https://www.mobygames.com/game/13166/hoyle-table-games-2004/) – Developer, game-by-game description, Hoyle Bucks, PEGI 3, UK disc extras
+[^ref-12]: [eBay UK – Hoyle Table Games 2004](https://www.ebay.co.uk/p/129311876) – 2017 user review
 [^ref-13]: [MobyGames – Hoyle Table Games 2004 Reviews](https://www.mobygames.com/game/13166/hoyle-table-games-2004/reviews/) – Aggregate critic and player scores
-[^ref-14]: [Software Informer – Hoyle Table Games 2004](https://hoyle-table-games-2004.software.informer.com/1.0/) – User rating 4.1/5, developer Sierra, user comment
-[^ref-15]: Old Games Download – Hoyle Table Games 2004 (link removed: game-download site) – File size 601.6MB, ISO format, developer credits
-[^ref-16]: [IGDB - Hoyle Table Games](https://www.igdb.com/games/hoyle-table-games) - Internet Games Database entry
-
-[^ref-17]: [IGDB – Hoyle Table Games 2004](https://www.igdb.com/search?q=Hoyle+Table+Games+2004) — Game database cross-reference
-[^ref-18]: [GameFAQs – Hoyle Table Games 2004](https://gamefaqs.gamespot.com/pc/921547-hoyle-table-games-2004) — release info, platform listing, user rating
-[^ref-19]: [Old Games Finder – Hoyle Table Games 2004](https://www.oldgamesfinder.com/hoyle-table-games-2004/) — abandonware preservation archive, file metadata, gameplay screenshots
-[^ref-20]: [MobyGames – Hoyle Table Games 2004 release page](https://www.mobygames.com/game/13166/hoyle-table-games-2004/releases/) — North American and European release dates, publisher/regional variants, retail SKU history
-[^ref-21]: [PriceCharting – Hoyle Table Games 2004 collector pricing](https://www.pricecharting.com/game/pc-games/hoyle-table-games-2004) — secondary-market pricing data, edition variants, completeness grading
-[^ref-22]: [UVList – Hoyle Table Games 2004](https://www.uvlist.net/game-194828-Hoyle+Table+Games+2004) — Universal Videogame List entry, platform/genre classification, release-year metadata
+[^ref-17]: [IGDB – Hoyle Table Games 2004](https://www.igdb.com/games/hoyle-table-games-2004) — Game database entry; Hoyle series
+[^ref-18]: [GameFAQs – Hoyle Table Games release data](https://gamefaqs.gamespot.com/pc/918453-hoyle-table-games/data) — US release 09/02/03, Sierra Entertainment, rated E
+[^ref-20]: [MobyGames – Hoyle Table Games 2004 release page](https://www.mobygames.com/game/13166/hoyle-table-games-2004/releases/) — US release Sep 2, 2003; UK release 2004 licensed by The United States Playing Card Company
+[^ref-23]: [MobyGames – Hoyle Table Games 2004 credits](https://www.mobygames.com/game/13166/hoyle-table-games-2004/credits/) — Full credits, 79 people
