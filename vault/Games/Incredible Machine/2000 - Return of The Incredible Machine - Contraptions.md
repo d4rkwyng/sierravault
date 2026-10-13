@@ -1,35 +1,35 @@
 ---
 title: 'Return of the Incredible Machine: Contraptions'
 release_year: 2000
-developer: Sierra Entertainment
-designer: [Jeff Tunnell, Kevin Ryan]
-publisher: Sierra Entertainment
+developer: Dynamix
+designer: [Brian Hahn]
+publisher: Sierra On-Line
 genre: Puzzle
-platforms: [Windows, Mac OS, PC, Steam, GOG]
+platforms: [Windows, Mac OS]
 series: The Incredible Machine
 engine: Physics simulation engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-13'
 description: '**Return of the Incredible Machine: Contraptions** is a 2000 puzzle
-  strategy game that revitalized the beloved Incredible Machine series after a five-year...'
+  game from Dynamix and Sierra, the first new Incredible Machine game in five years...'
 tags: [2000s, puzzle, sierra, the-incredible-machine]
 ---
 # Return of the Incredible Machine: Contraptions
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-**Return of the Incredible Machine: Contraptions** is a 2000 puzzle strategy game that revitalized the beloved Incredible Machine series after a five-year hiatus[^ref-1]. Developed by Sierra Entertainment with Jeff Tunnell Productions, the game challenges players to "create off-the-wall gadgets using a combination of everyday flumadiddles, doohickeys, and gigamarees"[^ref-2]. The gameplay is virtually identical to previous games in the series, requiring players to use mechanical components to create Rube Goldberg-like devices that accomplish specific goals[^ref-2].
+**Return of the Incredible Machine: Contraptions** is a 2000 puzzle game developed by Dynamix and published by Sierra On-Line[^ref-8][^ref-17]. The New York Times called it "the first new Incredible Machine game in five years"[^ref-1]. Sierra's marketing invited players to "create off-the-wall gadgets using a combination of everyday flumadiddles, doohickeys, and gigamarees"[^ref-46]. MobyGames describes the gameplay as "virtually identical to the previous games in the series": players use mechanical components, almost exactly the set from The Incredible Machine 3, to build a Rube Goldberg-like device that accomplishes a specific goal[^ref-8].
 
-The game features over 250 puzzles alongside a freeform invention mode, allowing players to construct fantastic machines that accomplish unusual tasks ranging from catching cats in baskets to lighting fireworks with laser beams[^ref-5][^ref-6]. As one New York Times reviewer noted, the game is "so absorbing" that "ruminations inspired by its more than 250 graphical conundrums have been intruding regularly upon the real world"[^ref-1].
+The game has about 250 puzzles, a freeform invention mode and a two-player head-to-head mode[^ref-8]. Goals range "from catching a cat in a basket to lighting off fireworks with a laser beam"[^ref-6]. The New York Times reviewer wrote that the game was "so absorbing" that "ruminations inspired by its more than 250 graphical conundrums have been intruding regularly upon the real world"[^ref-1].
 
 > [!info]- Game Info
-> **Developer:** Sierra Entertainment[^ref-8]
-> **Designer:** [[Jeff Tunnell]], [[Kevin Ryan]][^ref-9]
-> **Publisher:** Sierra Entertainment[^ref-8]
-> **Platforms:** Windows, Mac OS, PC, Steam, GOG[^ref-11]
+> **Developer:** [[Dynamix]][^ref-8][^ref-17]
+> **Designer:** [[Brian Hahn]]; additional design by [[Kevin Ryan]], [[Jeff Tunnell]] and others; original concept by Jeff Tunnell[^ref-8]
+> **Publisher:** Sierra On-Line[^ref-8]
+> **Platforms:** Windows, Mac OS[^ref-8][^ref-16]
 > **Release Year:** 2000
 > **Series:** The Incredible Machine
 > **Sierra Lineage:** Core Sierra
@@ -38,44 +38,47 @@ The game features over 250 puzzles alongside a freeform invention mode, allowing
 
 ## Story Summary
 
-The game opens with Professor Tim (or simply "the professor") welcoming the player to his secret inventor's complex, explaining that he has been overworked and needs to hire an apprentice[^ref-2].
+Professor Tim, usually just called "the professor", brings the player to his secret inventor's complex. He says he has been overworked and needs to hire an apprentice[^ref-2]. To choose one, he holds a contest. Players must complete all of his unfinished contraptions to win the position of his main apprentice[^ref-15].
 
-Players take on the role of this apprentice, working through increasingly complex contraption challenges under the professor's guidance. The narrative framework is minimal but charming, with the professor providing context for various puzzle objectives, such as instructing players to "blow up the fish tank with the missile"[^ref-13].
-
-The game's narrator, voiced by Bill Barrett, guides players through tutorials and provides encouragement throughout their contraption-building journey[^ref-14].
-
-Professor Tim's enthusiastic personality adds warmth to the experience, making players feel like they're genuinely contributing to important (if eccentric) scientific work. The premise successfully justifies increasingly bizarre objectives while maintaining the whimsical tone that defined the series since its 1992 inception.
+The professor acts as tour guide and mentor, setting each stage's goal "through a talking speaker and text message cues"[^ref-27]. He is voiced by narrator Bill Barrett[^ref-14].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The game utilizes a mouse-driven interface where players select from over 100 different mechanical parts to construct their contraptions[^ref-15]. The interface includes a help button that provides close-up views of parts for better understanding[^ref-16]. Players can drag and drop components including pulleys, conveyor belts, springs, dynamite, cats, mice, and various other objects onto a 2D playing field[^ref-17]. The physics simulation engine ensures deterministic behavior without random number generation, meaning identical setups will always produce the same results[^ref-18].
+Players control the game with the mouse. They drag items from the toolbox onto the playfield, then rotate, stretch and move them into position. An information icon lights up when an object is selected and briefly describes how that item can be used. A dialog box lets players adjust items with settings, such as timers or laser-activated electrical outlets[^ref-6]. A start button sets the machine running. Players can stop and restart as often as they like, and the movable parts reset after each attempt[^ref-6].
+
+The game has more than 100 different parts[^ref-6][^ref-15]. Some of them have programmable gravity, density, mass and friction[^ref-15]. As in the rest of the series, the engine simulates ambient effects such as air pressure and gravity. It does not use a random number generator, so the results for any given machine are deterministic[^ref-18].
 
 ### Structure and Progression
 
-The game is organized into five difficulty categories: Tutorial (50 levels), Easy, Medium, Hard, and Really Hard[^ref-8][^ref-19]. Players progress through increasingly complex challenges that test their understanding of physics and creative problem-solving abilities. The tutorial levels from the original game remain unchanged, but all other puzzles are new except for one slightly modified puzzle called "Mel-in-the-box"[^ref-19]. The game also includes 50 head-to-head puzzles designed for two-player competition[^ref-15].
+The 250 contraptions are divided into five sets of 50. The first 50 form an in-depth tutorial, and the remaining sets increase in difficulty from easy to expert[^ref-15][^ref-27]. A GameFAQs walkthrough labels the sets Tutorial, Easy, Medium, Difficult and Expert[^ref-19]. GameSpot counted "more than 40 puzzles for each difficulty level"[^ref-6]. Unlike the original Incredible Machine, players can jump ahead and pick any contraption[^ref-15].
+
+The easier puzzles offer hints. Game Over Online described "helping hands" scattered through each puzzle that give spoken hints and become less helpful as the game goes on. GameSpot noted that the more difficult puzzles have no hints[^ref-6][^ref-15]. Many puzzles have more than one solution. Once players have solved a puzzle their own way, they can view the professor's intended solution[^ref-6][^ref-15].
+
+The game also includes 50 head-to-head puzzles for two-player play[^ref-6]. Game Over Online described this as a hot-seat mode for up to nine players, with players taking timed turns adding to the same contraption. The player who places the final piece wins[^ref-15].
 
 ### Puzzles and Mechanics
 
-Each puzzle presents players with a specific objective that must be accomplished using the available parts. As one reviewer explained, "Players must use a variety of mechanical components to create a Rube Goldberg like device that accomplishes a specific goal (such as popping a balloon)"[^ref-2]. The joy of the game lies in "making machines that work, not in chalking up high scores"[^ref-24]. The physics simulation accurately models interactions between objects, ambient effects like air pressure and gravity, creating realistic cause-and-effect chains[^ref-6][^ref-18].
-
-The game features a diverse array of mechanical components including trampolines, scissors, conveyor belts, rocket engines, bowling balls, springs, and even live animals like cats, mice, and hamsters. Each component has specific physical properties that players must understand to create functioning contraptions. For example, cats chase mice, bowling balls roll and fall with realistic momentum, and rockets provide thrust in specific directions. The sandbox mode allows unlimited experimentation without puzzle constraints, enabling players to build wildly elaborate machines purely for entertainment.
+A typical puzzle starts with some parts already placed on the screen and a few more waiting in a bin. IGN gave an example: two basketballs sit on conveyor belts above two baskets. A dropped baseball strikes two hamster cages, the hamsters run their treadmills, and rubber bands carry that power to the belts[^ref-27]. Parts range from can openers and mice to pinwheels, laser beams, candles and pulleys. Later puzzles add see-saws, cats, blimps and magnifying glasses, along with useless parts meant to distract the player[^ref-27]. The New York Times listed parts both "ordinary (flashlights and magnifying glasses) and fantastic (anti-gravity pads)"[^ref-1].
 
 ## Technical Specifications
 
 | Component | Minimum | Recommended |
 |-----------|---------|-------------|
-| Processor | Pentium-90 MHz | Pentium 166 MHz[^ref-42] |
-| Memory | 32 MB RAM | 64 MB RAM[^ref-42] |
-| Graphics | SVGA with 1MB VRAM | SVGA with 2MB VRAM[^ref-16] |
-| Operating System | Windows 95/98/ME/2000 | Windows 98/ME/2000[^ref-42] |
-| Storage | 100 MB hard disk space | 150 MB hard disk space |
-| Sound | Windows-compatible sound card | DirectX-compatible sound card |
+| Operating System | Windows 95/98/ME/2000 | Windows 95/98/ME/2000[^ref-42] |
+| Processor | Pentium 90 MHz | Pentium 166 MHz[^ref-42][^ref-16] |
+| Memory | 32 MB RAM | 64 MB RAM[^ref-42][^ref-16] |
+| Graphics | SVGA, 1 MB video memory | SVGA, 1 MB video memory[^ref-42] |
+| Storage | 50 MB hard disk space | 50 MB (VGRequirements); 250 MB (PCGamingWiki)[^ref-42][^ref-16] |
+| Sound | DirectX-compatible sound card | DirectX-compatible sound card[^ref-42] |
+| Drive | 4X CD-ROM[^ref-27] | — |
 
-## Freeform Mode
+IGN and GamePressure also list 50 MB of hard drive space[^ref-27][^ref-36]. The Mac OS version requires Mac OS 8.5.1, a 120 MHz PowerPC, 32 MB of RAM and 40 MB of storage[^ref-16]. The Windows version is a 32-bit Windows 95 game with 800×600 graphics[^ref-30][^ref-16].
 
-Beyond the structured puzzles, the game's freeform invention mode allowed unlimited creativity without objectives or constraints. Players could experiment freely with all available parts, constructing elaborate chain reaction machines purely for entertainment value. This sandbox approach encouraged experimentation and creative expression, enabling players to discover unexpected interactions between components. The freeform mode proved particularly popular with younger players, who could explore the physics system without the pressure of solving specific puzzles. Many players credit these open-ended creative sessions with sparking interest in engineering, physics, and problem-solving that influenced their educational and career paths.
+## Freeform Mode and Contraption Builder
+
+Besides the set puzzles, the game has a free-form invention mode[^ref-8]. A contraption builder lets players design their own puzzles with the full parts bin. Players choose which pieces are locked onto the screen, which parts go in the player's bin, and even the puzzle's gravity, so that everything can float upward. They can add "helping hands" and send the finished puzzles to friends[^ref-15]. IGN expected this "custom contraption generator" to give the game longevity[^ref-27].
 
 ## Reception
 
@@ -83,52 +86,41 @@ Beyond the structured puzzles, the game's freeform invention mode allowed unlimi
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| IGN | 8.4/10 | Called it "a vintage blend of educational and entertainment software at their finest"[^ref-27] |
-| GameSpot | 8.1/10 | Praised the humor and nostalgia, noting minor problems don't detract from the experience[^ref-6] |
-| Game Over Online | 84% | Declared it "easily the best puzzle game to come along in years"[^ref-15] |
-| Absolute Games | 80% | Positive review from 2000[^ref-30] |
+| IGN | 8.4/10 | Martin Reyes called it "a vintage blend of educational and entertainment software at their finest"[^ref-27] |
+| GameSpot | 8.1/10 | Trey Walker: "The problems in the game are only minor, and they do not detract from the overall experience and the high quality of the puzzles"[^ref-6] |
+| Game Over Online | 84% | Mike McDermott: "easily the best puzzle game to come along in years"[^ref-15] |
+| Absolute Games | 80% | Russian-language review, August 2000[^ref-47][^ref-30] |
 
-### Modern Assessment
+Game Over Online's reviewer was less impressed by the multiplayer mode, writing that "it doesn't work at all"[^ref-15]. IGN praised the cartoon presentation and the "huge selection of musical flavors (jazz, detective, hip hop, etc.)"[^ref-27].
 
-The game maintains strong appeal among retro gaming enthusiasts, with GameRankings showing an aggregate score of 78.33%[^ref-30]. Modern player reviews remain enthusiastic, with one user noting "Playing this while I was young was probably one of the influences to me being an engineer"[^ref-32], while another simply called it the "Greatest engineering game ever"[^ref-32]. The game received recognition with a PC Family Award from the Academy of Interactive Arts & Sciences and was voted 2001 Puzzle Game of the Year by readers[^ref-34].
+### Awards and Assessment
+
+At the 4th Annual Interactive Achievement Awards, the Academy of Interactive Arts & Sciences gave the game its "PC Family" award[^ref-34][^ref-18]. GameRankings listed an aggregate score of 78.33%[^ref-18], and MobyGames shows a critic average of 81% from nine ratings[^ref-8]. User comments on MyAbandonware include "Greatest engineering game ever" and "Playing this while I was young was probably one of the influences to me being an engineer"[^ref-32].
 
 ## Development
 
 ### Origins
 
-The game emerged after a significant gap in the Incredible Machine series, designed to attract both returning players and newcomers to show that "in the era of super interactive three-dimensional production Incredible Machine is still the quintessence of good entertainment"[^ref-36]. The development was influenced by classic mechanical puzzle concepts, drawing inspiration from Rube Goldberg cartoons and devices[^ref-6].
+GamePressure's database entry presents the game as Sierra's attempt to win back old and new players alike, and to show that "in the era of super interactive three-dimensional production Incredible Machine is still the quintessence of good entertainment"[^ref-36]. Like its predecessors, the game draws on Rube Goldberg's cartoons of absurdly elaborate machines[^ref-1][^ref-6].
 
 ### Production
 
-The game was developed with occasional help from the developer's children, adding an authentic family-friendly perspective to the design process[^ref-38]. The team focused on improving upon previous Incredible Machine games with updated graphics, animations, and a refined physics model[^ref-6]. Despite being created by a small team, the production values were notably higher than previous entries, featuring 3D-rendered parts and smoother animations[^ref-17].
+[[Dynamix]] developed the game[^ref-8][^ref-17]. MobyGames credits [[Brian Hahn]] as designer and art director, Richard Rayl as lead programmer, Kyle Miller with the story concept, and Jeffrey Tunnell with the original concept. [[Kevin Ryan]] contributed contraption design, additional design and parts programming. Jon Milnes handled Mac programming[^ref-8]. Wikipedia lists Randy Thompson as producer[^ref-30]. GameSpot found that the game improved on the previous Incredible Machine game "in almost every aspect", with updated graphics and animations and an improved physics model[^ref-6].
 
-### Technical Achievements
+### Music
 
-The game utilized an advanced physics simulation engine that provided deterministic, reproducible results across multiple runs[^ref-16]. This deterministic behavior was crucial for puzzle design, as it ensured that solutions would work consistently without random variations. The engine calculated object interactions frame-by-frame, modeling momentum, collision detection, gravity, and friction with impressive accuracy for its era.
-
-Technical specifications included support for Windows 95/98/ME/2000, requiring a Pentium-90 processor minimum (Pentium 166 MHz recommended), 32-64 MB RAM, and SVGA graphics with 1MB VRAM[^ref-16][^ref-42]. The game featured 27 musical tracks composed by Christopher Stevens, Sage Freeman, and Timothy Steven Clarke[^ref-44], providing an upbeat, whimsical soundtrack that complemented the game's playful atmosphere.
-
-The graphics represented a significant improvement over earlier entries, with 3D-rendered parts featuring smooth animations and detailed textures. The development team focused on maintaining the series' distinctive visual style while taking advantage of improved hardware capabilities. The result was a game that felt familiar to series veterans while offering a more polished presentation for newcomers.
-
-### Educational Value
-
-Beyond pure entertainment, Return of the Incredible Machine: Contraptions served as an effective educational tool for teaching basic physics concepts and engineering principles. The game required players to intuitively understand cause and effect, momentum transfer, gravity, and simple machines. Many players credit the game with sparking their interest in science and engineering, with testimonials noting how the game influenced career paths toward technical fields[^ref-32]. Schools and educational institutions adopted the game as a supplementary teaching tool, particularly for introducing physics concepts to younger students in an engaging, interactive format.
+The soundtrack was composed by Christopher Stevens, Timothy Steven Clarke and Sage Freeman[^ref-30]. A game rip of the soundtrack contains 27 tracks[^ref-44]. Players can choose digital or MIDI background music in the preferences menu[^ref-6].
 
 ## Legacy
 
-Return of the Incredible Machine: Contraptions successfully revitalized the series and demonstrated the enduring appeal of physics-based puzzle games. The game spawned an expansion pack, "The Incredible Machine: Even More Contraptions," released in 2001 with brand-new puzzles beyond the tutorial levels[^ref-45]. This expansion continued the formula with additional challenges that pushed creative problem-solving even further.
+An expansion pack, *The Incredible Machine: Even More Contraptions*, followed in 2001[^ref-30][^ref-8]. Contraptions was later included in The Incredible Machine Mega Pack, released on GOG.com on October 1, 2009, alongside The Even More Incredible Machine, The Incredible Machine 3 and Even More Contraptions[^ref-18]. That pack is no longer sold.
 
-The series' influence extends to modern indie games, with Kevin Ryan later creating "Contraption Maker" as "a modern update made in the spirit of The Incredible Machine"[^ref-9]. This spiritual successor, released in 2014, brought the Rube Goldberg puzzle concept to modern platforms with updated graphics and Steam Workshop support for community-created puzzles. The game continues to be preserved and playable through digital distribution platforms like GOG and remains active in speedrunning communities[^ref-11].
-
-The Incredible Machine franchise helped establish physics-based puzzle games as a viable genre, paving the way for countless successors including World of Goo, Angry Birds, and Bad Piggies. The core concept of chain-reaction puzzle solving has become a staple of casual gaming, demonstrating the lasting impact of Jeff Tunnell's original vision. The game's emphasis on creativity and experimentation over reflexes or timing made it accessible to players of all ages and skill levels, contributing to its broad appeal.
-
-The community around The Incredible Machine remains active decades after release, with fans sharing custom puzzles and discussing optimal solutions. The game's inclusion in "The Incredible Machine Mega Pack" on Steam and GOG ensures that new generations of players can discover this classic puzzle experience. For many players who grew up in the late 1990s and early 2000s, Return of the Incredible Machine: Contraptions represents a formative gaming experience that combined entertainment with genuine learning—a balance that few games achieve as effectively.
+Kevin Ryan, one of the game's designers, later made *Contraption Maker*, which he described as "a modern update made in the spirit of The Incredible Machine"[^ref-9].
 
 ## Purchase
 
 **Purchase / Digital Stores**
-- [GOG.com - The Incredible Machine Mega Pack](https://www.gog.com/game/the_incredible_machine_mega_pack) - Includes this game
-- ~~Steam - The Incredible Machine Mega Pack~~ (Delisted - no longer available)
+- ~~GOG.com - The Incredible Machine Mega Pack~~ (Delisted - no longer available)
 
 ## Downloads
 
@@ -149,31 +141,28 @@ The community around The Incredible Machine remains active decades after release
 - [[1995 - The Incredible Machine 3.0]]
 - [[2011 - The Incredible Machine (2011)]]
 
-- [[Jeff Tunnell]] - Creator
+- [[Jeff Tunnell]] - Original concept
+- [[Brian Hahn]] - Designer
 
 ## References
 
-[^ref-1]: [New York Times - Game Theory; Contraptions' Hardest Puzzle](https://www.nytimes.com/2000/09/07/technology/game-theory-contraptions-hardest-puzzle-how-to-stop.html) - Contemporary review noting five-year gap
-[^ref-2]: [Archive.org - Return of the Incredible Machine](https://archive.org/details/return-of-the-incredible-machine-contraptions) - Official game marketing copy
-[^ref-5]: Old-Games.com - Return of the Incredible Machine: Contraptions *(link removed: it led to a different game's page)* - Game features summary
-[^ref-6]: [GameSpot - Return of the Incredible Machine: Contraptions Review](https://www.gamespot.com/reviews/return-of-the-incredible-machine-contraptions-revi/1900-2616799/) - Gameplay overview and objectives
-[^ref-8]: [MobyGames - Return of the Incredible Machine: Contraptions](https://www.mobygames.com/game/4087/return-of-the-incredible-machine-contraptions/) - Developer information
-[^ref-9]: [Reddit - Contraption Maker AMA with Kevin Ryan](https://www.reddit.com/r/Games/comments/18ew4pv/contraption_maker_kevin_ryan_modern_version_of/) - Designer information
-[^ref-11]: [GOG.com - The Incredible Machine Mega Pack](https://www.gog.com/game/the_incredible_machine_mega_pack) - Platform listings
-[^ref-13]: [TV Tropes - The Incredible Machine](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheIncredibleMachine) - Example game objective
-[^ref-14]: IMDb - Return of the Incredible Machine: Contraptions *(link removed: it led to a different game's page)* - Voice cast information
-[^ref-15]: [Game Over Online - Return of TIM Review](https://web.archive.org/web/20001109201500/http://www.game-over.net/reviews.php?id=389) - Interface and parts count
-[^ref-16]: [PCGamingWiki - Return of the Incredible Machine: Contraptions](https://www.pcgamingwiki.com/wiki/Return_of_the_Incredible_Machine:_Contraptions) - Technical interface features
-[^ref-17]: [IGN - Return of the Incredible Machine: Contraptions](https://www.ign.com/games/return-of-the-incredible-machine-contraptions) - Control scheme description
-[^ref-18]: [Wikipedia - The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game)) - Physics engine details
-[^ref-19]: [GameFAQs - Return of the Incredible Machine: Contraptions](https://gamefaqs.gamespot.com/pc/197037-return-of-the-incredible-machine-contraptions/faqs) - Level structure information
-[^ref-24]: [The Digital Antiquarian - The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) - Game philosophy
-[^ref-27]: [IGN Review](https://web.archive.org/web/20001017145808/http://pc.ign.com/reviews/6754.html) - September 15, 2000 - Score and quote
-[^ref-30]: [Wikipedia - Return of the Incredible Machine: Contraptions](https://en.wikipedia.org/wiki/Return_of_the_Incredible_Machine%3A_Contraptions) - Review compilation
-[^ref-32]: [MyAbandonware - Return of the Incredible Machine: Contraptions](https://www.myabandonware.com/game/return-of-the-incredible-machine-contraptions-3ph) - Modern player perspective
-[^ref-34]: [Interactive.org - Academy of Interactive Arts & Sciences](https://www.interactive.org/) - Award information
-[^ref-36]: GamePressure - Return of the Incredible Machine: Contraptions *(no archived copy found)* - Development context
-[^ref-38]: [Dynamix Wiki - The Incredible Machine](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) - Development information
-[^ref-42]: [Web Archive - System Requirements](https://web.archive.org/web/20131105101320/http://forums.vgrequirements.info/showthread.php?t=6476) - System requirements
-[^ref-44]: [KHInsider - The Incredible Machine Soundtracks](https://downloads.khinsider.com/game-soundtracks/album/incredible-machine-the-incredible-machine-2) - Composer credits
-[^ref-45]: [Hardcore Gaming 101 - The Incredible Machine](https://www.hardcoregaming101.net/the-incredible-machine-the-even-more-incredible-machine/) - Expansion pack information
+[^ref-1]: [New York Times - Game Theory; Contraptions' Hardest Puzzle: How to Stop](https://www.nytimes.com/2000/09/07/technology/game-theory-contraptions-hardest-puzzle-how-to-stop.html) - September 7, 2000; "first new Incredible Machine game in five years", Rube Goldberg inspiration
+[^ref-2]: [Internet Archive - Return of the Incredible Machine Contraptions](https://archive.org/details/return-of-the-incredible-machine-contraptions) - Item description: story premise (Professor Tim, apprentice)
+[^ref-6]: [GameSpot - Incredible Machine: Contraptions Review](https://www.gamespot.com/reviews/return-of-the-incredible-machine-contraptions-revi/1900-2616799/) - Trey Walker, August 17, 2000; 8.1/10, parts, puzzle counts, interface
+[^ref-8]: [MobyGames - Return of the Incredible Machine: Contraptions](https://www.mobygames.com/game/5142/return-of-the-incredible-machine-contraptions/) - Developer, publisher, platforms, credits, description
+[^ref-9]: [Reddit - Contraption Maker - Kevin Ryan – Modern version of The Incredible Machine](https://www.reddit.com/r/Games/comments/18ew4pv/contraption_maker_kevin_ryan_modern_version_of/) - Kevin Ryan on Contraption Maker
+[^ref-14]: [IMDb - Return of the Incredible Machine: Contraptions](https://www.imdb.com/title/tt0387539/) - Bill Barrett, narrator (voice)
+[^ref-15]: [Game Over Online - Return of the Incredible Machine: Contraptions Review](https://web.archive.org/web/20001027211536/http://www.game-over.net:80/review/august2000/contraptions/index.html) - Mike McDermott, 84%; structure, parts, multiplayer, builder
+[^ref-16]: [PCGamingWiki - Return of the Incredible Machine: Contraptions](https://www.pcgamingwiki.com/wiki/Return_of_the_Incredible_Machine:_Contraptions) - Developer, platforms, system requirements, 800x600
+[^ref-17]: [IGN - Return of The Incredible Machine: Contraptions](https://www.ign.com/games/return-of-the-incredible-machine-contraptions) - Developer Dynamix, publisher Sierra On-Line, released August 8, 2000
+[^ref-18]: [Wikipedia - The Incredible Machine (series)](https://en.wikipedia.org/wiki/The_Incredible_Machine) - Deterministic physics, GameRankings score, PC Family award, Mega Pack
+[^ref-19]: [GameFAQs - Return of the Incredible Machine Contraptions Guide and Walkthrough by Lord_Seth](https://gamefaqs.gamespot.com/pc/367120-return-of-the-incredible-machine-contraptions/faqs/33101) - Puzzle categories
+[^ref-27]: [IGN Review](https://web.archive.org/web/20001017145808/http://pc.ign.com/reviews/6754.html) - Martin Reyes, September 15, 2000; 8.4, quote, requirements
+[^ref-30]: [Wikipedia - Return of the Incredible Machine: Contraptions](https://en.wikipedia.org/wiki/Return_of_the_Incredible_Machine%3A_Contraptions) - Producer, composers, expansion, review scores
+[^ref-32]: [MyAbandonware - Return of the Incredible Machine: Contraptions](https://www.myabandonware.com/game/return-of-the-incredible-machine-contraptions-3ph) - User comments
+[^ref-34]: [Academy of Interactive Arts & Sciences - Return of the Incredible Machine: Contraptions](https://www.interactive.org/games/video_game_details.asp?idAward=2001&idGame=619) - Awards won: PC Family
+[^ref-36]: [GamePressure - Return of the Incredible Machine: Contraptions](https://www.gamepressure.com/games/return-of-the-incredible-machine-contraptions/za112f) - Game description and system requirements
+[^ref-42]: [Web Archive - VGRequirements: Return of the Incredible Machine Contraptions (PC) System Requirements](https://web.archive.org/web/20131105101320/http://forums.vgrequirements.info/showthread.php?t=6476) - System requirements
+[^ref-44]: [KHInsider - Return of the Incredible Machine: Contraptions (Windows) (gamerip)](https://downloads.khinsider.com/game-soundtracks/album/return-of-the-incredible-machine-contraptions-windows-gamerip-2001) - 27 tracks
+[^ref-46]: [Amazon - Return of the Incredible Machine: Contraptions](https://www.amazon.com/dp/B00065FD3S) - Sierra product description
+[^ref-47]: [Absolute Games - Return of the Incredible Machine: Contraptions (archived)](https://web.archive.org/web/20071215031604/http://www.ag.ru/reviews/return_of_the_incredible_machine_contraptions) - Russian-language review, 80%
