@@ -1,5 +1,5 @@
 ---
-title: Hoyle Casino 2000
+title: Hoyle Casino 2001
 release_year: 2000
 developer: Sierra On-Line, Inc.
 designer: []
@@ -12,21 +12,22 @@ protagonist: N/A
 sierra_lineage: Core Sierra
 last_updated: '2026-10-13'
 composer: [Evan Schiller]
-description: The October 2000 edition of Sierra's Hoyle Casino, sold as Hoyle Casino
-  2000 for Windows and Macintosh, with Dreamcast and Game Boy Color versions.
+description: The October 2000 edition of Sierra's Hoyle Casino, sold at retail as
+  Hoyle Casino 2001 for Windows and Macintosh, with Dreamcast and Game Boy Color versions
+  sold as Hoyle Casino.
 tags: [2000s, hoyle, sierra]
 ---
-# Hoyle Casino 2000
+# Hoyle Casino 2001
 
 <small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Hoyle Casino 2000 is the October 2000 edition of [[Sierra On-Line]]'s Hoyle Casino, a virtual casino series that Wikipedia describes as a spin-off of Hoyle's Official Book of Games[^ref-4]. The Sierra Chest catalogues this edition as "Hoyle Casino 5", with a first release date of October 3, 2000 for IBM PC and Macintosh[^ref-10]; AllGame lists the retail release as October 9, 2000, under Sierra's Sierra Attractions label[^ref-22]. Retail listings and PC Data sales coverage refer to it as "Hoyle Casino 2000"[^ref-5][^ref-23], while MobyGames lists it simply as Hoyle Casino[^ref-3].
+This page covers the October 2000 edition of [[Sierra On-Line]]'s Hoyle Casino, a virtual casino series that Wikipedia describes as a spin-off of Hoyle's Official Book of Games[^ref-4]. The Sierra Chest catalogues this edition as "Hoyle Casino 5", with a first release date of October 3, 2000 for IBM PC and Macintosh[^ref-10]; AllGame lists the retail release as October 9, 2000, under Sierra's Sierra Attractions label[^ref-22]. Its retail name ran a year ahead of its release date: the PC/Mac CD-ROM (UPC 0-20626-70986-6) was sold as "Hoyle Casino 2001"[^ref-27][^ref-24], and GameSpot and PC Data used that name too[^ref-25][^ref-26]. MobyGames lists it simply as Hoyle Casino[^ref-3].
 
-Players start with $5,000 and enter the casino to try their luck at 350 Vegas-style game variations, with tournaments against computer opponents and online play against friends[^ref-3]. A "Facemaker" feature lets players build their own virtual persona[^ref-22], and Wikipedia notes 25 default characters to choose from[^ref-4].
+Players start with $5,000 and enter the casino to try their luck at 350 Vegas-style game variations across a dozen games[^ref-22], with tournaments against computer opponents and online play against friends[^ref-3]. A "Facemaker" feature lets players build their own virtual persona[^ref-22], and Wikipedia notes 25 default characters to choose from[^ref-4].
 
-Alongside the Windows and Macintosh release, Sierra brought the game to the Sega Dreamcast and Game Boy Color in autumn 2000[^ref-20][^ref-6]. Sierra's Steve Van Horn called it "our #1 selling casino game for PC and Macintosh" when announcing the Dreamcast version[^ref-20].
+Alongside the Windows and Macintosh release, Sierra brought the game to the Sega Dreamcast and Game Boy Color in autumn 2000, where it was sold simply as Hoyle Casino[^ref-20][^ref-6][^ref-8]. Sierra's Steve Van Horn called it "our #1 selling casino game for PC and Macintosh" when announcing the Dreamcast version[^ref-20].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-3]
@@ -53,7 +54,7 @@ Players begin with $5,000 and enter the casino intent on making their fortune[^r
 
 Help and strategy tips are available for each game, and tutorials are included for novice players[^ref-22]. Players can enter tournaments against computer opponents or play online against friends and family[^ref-3]; AllGame describes hot-seat multiplayer on one computer and free Internet play through flipside.com[^ref-22].
 
-**Games (PC version):** A product description reproduced by retailer Never Die Media lists blackjack, roulette, slots, craps, keno, pai gow poker, horse racing and video poker, plus a poker room with Texas Hold'em, Omaha Hold'em, Omaha Hold'em Hi-Lo, Seven Card Stud, Seven Card Stud Hi-Lo, Five Card Draw and Five Card Draw Lowball[^ref-5]. The same description counts 25 slot machines, each with 11 play values[^ref-5].
+**Games (PC version):** GameSpot counted 12 casino games, including keno, slots, horse racing, video poker, seven variations of poker, roulette, blackjack and craps; Let It Ride, Caribbean Stud and three-card poker were new to this edition[^ref-25]. Each game has an in-game tutorial, and a practice mode gives strategy tips during play[^ref-25].
 
 **Games (Dreamcast version):** The Dreamcast manual covers Blackjack, Craps, Pai Gow Poker, Poker, Roulette, Slots, Video Poker and Video Slots, plus tournament play[^ref-1].
 
@@ -67,6 +68,8 @@ In poker, a player who folds early may be left watching the rest of the hand for
 
 ### Contemporary Reviews
 
+GameSpot's Tim Soete reviewed the PC game as Hoyle Casino 2001 and scored it 7.2 ("Good"), calling it "a solid and addictive virtual casino game"[^ref-25]. He praised the 3D-rendered, animated opponents and the easy mouse-driven interface, but found that roulette and slots "lose much of their excitement in computer translation", and objected to real-money online casino ads in the Internet game browser[^ref-25].
+
 IGN's M Wiley gave the Dreamcast version 8.8 out of 10, writing "I can confidently recommend this title to anyone from the seasoned card hound to the aspiring slot jockey"[^ref-7]. He closed with "I must repeat that this game is great for anyone with a DC that wants to learn how to gamble"[^ref-7].
 
 IGN's Craig Harris scored the Game Boy Color version 7, concluding that "As casino games go on the Game Boy Color, Sierra's offering is the best yet"; he praised its battery save, its Pai Gow tutorial and its link-cable play[^ref-21].
@@ -74,6 +77,7 @@ IGN's Craig Harris scored the Game Boy Color version 7, concluding that "As casi
 ### Modern Assessment
 
 **Aggregate Scores:**
+- **GameSpot (PC):** 7.2/10[^ref-25]
 - **MobyGames (Windows/Dreamcast/Mac):** 74% (based on 8 ratings)[^ref-3]
 - **MobyGames (Game Boy Color):** 62% (based on 3 ratings)[^ref-6]
 - **IGN (Dreamcast):** 8.8/10[^ref-7]
@@ -163,7 +167,7 @@ PCGamingWiki notes that the game received yearly standalone updates for the foll
 
 ### Sales and Commercial Impact
 
-In a feature built on PC Data figures for the year through the end of October, Quarter to Three reported that "Hoyle Casino 2000 from Havas" sold 230,365 copies, netting $6,151,369[^ref-23]; Wikipedia dates that period as January through October 2000[^ref-4]. These are PC Data's PC software figures for North America only, and Quarter to Three cautions that PC Data does not cover the whole North American market[^ref-23]. Because this edition first shipped on October 3, 2000[^ref-10], most of that year-to-date period predates its release, so the figure cannot be read as this edition's own sales.
+In PC Data's list of best-selling PC games for the week of February 11–17, 2001, Havas Interactive's Hoyle Casino 2001 ranked fifth, at an average price of $27[^ref-26].
 
 ### Collections
 
@@ -183,7 +187,7 @@ Sierra released further yearly editions of Hoyle Casino[^ref-11]. After 2005, pu
 - [Internet Archive – Hoyle Casino Dreamcast manual](https://archive.org/details/Hoyle_Casino_2000_U)[^ref-1]
 
 **Retail (Sealed/Used)**
-- [Never Die Media](https://www.neverdiemedia.com/products/hoyle-casino-2000)[^ref-5]
+- [Amazon – Hoyle Casino 2001 (PC/Mac)](https://www.amazon.com/dp/B00004Y7TU)[^ref-24]
 
 ## See Also
 
@@ -248,8 +252,7 @@ Sierra released further yearly editions of Hoyle Casino[^ref-11]. After 2005, pu
 
 [^ref-1]: [Internet Archive – Hoyle Casino (2000)(U)](https://archive.org/details/Hoyle_Casino_2000_U) – scan of the Sega Dreamcast instruction manual: game list, 1–4 players, Jump Pack and memory card use
 [^ref-3]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/2686/hoyle-casino/) – development credits, technical specifications, voice cast, ratings
-[^ref-4]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series overview, 2000 edition characters and platforms, Encore after 2005, PC Data figure
-[^ref-5]: [Never Die Media – Hoyle Casino 2000](https://www.neverdiemedia.com/products/hoyle-casino-2000) – retail listing with reproduced product description (PC game list, poker variants, slot count)
+[^ref-4]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series overview, 2000 edition characters and platforms, Encore after 2005
 [^ref-6]: [MobyGames – Hoyle Casino (Game Boy Color)](https://www.mobygames.com/game/43644/hoyle-casino/) – GBC version details, developer, ratings
 [^ref-7]: [IGN – Hoyle Casino Dreamcast Review](https://www.ign.com/articles/2000/10/10/hoyle-casino-3) – detailed review, score, gameplay critique
 [^ref-8]: [PriceCharting – Hoyle Casino](https://www.pricecharting.com/game/sega-dreamcast/hoyle-casino) – Dreamcast box description, player count, UPC
@@ -258,4 +261,7 @@ Sierra released further yearly editions of Hoyle Casino[^ref-11]. After 2005, pu
 [^ref-20]: [IGN – Hoyle Casino Gets Dealt to Retailers](https://www.ign.com/articles/2000/10/04/hoyle-casino-gets-dealt-to-retailers) – Dreamcast announcement, Steve Van Horn quotes, seven games, $39.95 price
 [^ref-21]: [IGN – Hoyle Casino Game Boy Color Review](https://www.ign.com/articles/2000/10/25/hoyle-casino-2) – Craig Harris review, score 7, features
 [^ref-22]: [AllGame – Hoyle Casino [2000] (archived)](https://web.archive.org/web/20100210174431/http://www.allgame.com/game.php?id=28572) – release date, Sierra Attractions, Facemaker, $5,000, 350 variations, multiplayer
-[^ref-23]: [Quarter to Three – The Year's Ten Best-Selling Games](https://www.quartertothree.com/features/pcdata_top_10/years_bestsellers.shtml) – PC Data year-to-date figures through October for "Hoyle Casino 2000 from Havas"
+[^ref-24]: [Amazon – Hoyle Casino 2001 - PC/Mac](https://www.amazon.com/dp/B00004Y7TU) – retail title "Hoyle Casino 2001", item model number 70986, Vivendi Universal
+[^ref-25]: [GameSpot – Hoyle Casino Review](https://www.gamespot.com/reviews/hoyle-casino-review/1900-2661599/) – Tim Soete review of Hoyle Casino 2001, 7.2; 12 games, new Let It Ride, Caribbean Stud, three-card poker; first released Nov 14, 2000
+[^ref-26]: [GameSpot – Sims still dominating sales charts](https://www.gamespot.com/articles/sims-still-dominating-sales-charts/1100-2691294/) – PC Data top ten for February 11–17, 2001: Hoyle Casino 2001 (Havas Interactive) at #5
+[^ref-27]: [Sierra Chest – Hoyle Casino 5: Packaging & content](https://sierrachest.com/index.php?a=games&id=809&title=hoyle-casino-5&fld=box) – PC/Mac CD-ROM, US, version 1.0.0.0, Box ID 3107, UPC-A 0-20626-70986-6
