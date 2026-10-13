@@ -2,7 +2,7 @@
 title: Hoyle Bridge
 release_year: 1996
 developer: Sierra On-Line, Inc.
-designer: [Stephen H. Van Horn, Julie Pogue Barnes, Ken Williams]
+designer: []
 publisher: Sierra On-Line, Inc.
 genre: Card Game
 platforms: [Windows 3.x, Windows 95]
@@ -10,31 +10,36 @@ series: Hoyle's Official Book of Games
 engine: SCI2.1
 protagonist: Player
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-12'
 composer: [Johnathan Cunningham]
-description: Hoyle Bridge is a digital adaptation of contract bridge released by Sierra
-  On-Line in 1996, representing the standalone bridge-focused spinoff from Sierra's...
+description: Hoyle Bridge is a 1996 contract bridge game for Windows 3.x and Windows
+  95 from Sierra On-Line, a Sierra Originals release derived from Hoyle Classic Games
+  (1995).
 tags: [1990s, hoyle-s-official-book-of-games, sci, sierra]
 ---
 # Hoyle Bridge
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Hoyle Bridge is a digital adaptation of contract bridge released by Sierra On-Line in 1996, representing the standalone bridge-focused spinoff from Sierra's popular Hoyle series of card and board game compilations[^ref-1]. Described as "the chess of card games," Hoyle Bridge brought the sophisticated partnership card game to Windows personal computers with animated opponents, full voice acting, and comprehensive tutorials designed to appeal to both novice players and experienced bridge enthusiasts[^ref-2].
+Hoyle Bridge is a contract bridge game released by Sierra On-Line in 1996 for Windows 3.x and Windows 95[^ref-1][^ref-5]. MobyGames describes it as "the game of contract bridge in the style of Sierra's popular Hoyle series"[^ref-1]. Amazon's product description calls bridge the "Chess of card games" and offers "levels for beginners to experts"[^ref-2].
 
-The game was derived from Hoyle Classic Games (also known as Hoyle 5), which Sierra released in 1995[^ref-3]. As part of Sierra's strategy to create specialized game products from their existing library, Hoyle Bridge and the companion Hoyle Children's Collection were extracted as standalone releases targeting specific audiences[^ref-3]. The game continued Sierra's tradition of creating accessible, family-friendly software that could be enjoyed by players of all skill levels, embodying [[Ken Williams]]' philosophy that Sierra was "running a 'club' where our job was to build cool product for people who had bought from us before"[^ref-4].
+The game was derived from Hoyle Classic Games (also known as Hoyle 5), which Sierra released in 1995[^ref-3]. It was itself a budget Sierra Originals release: the game's own blurb, quoted by the ScummVM wiki, calls Hoyle Bridge and Hoyle Children's Collection "The Sierra Original Hoyle games"[^ref-3], and the sealed 1996 box carries Sierra Originals branding[^ref-26]. Amazon's listing of the release names the brand as Sierra Originals[^ref-2].
 
-Hoyle Bridge featured 11 animated opponents with distinct personalities and skill levels, allowing players to customize their bridge experience[^ref-2]. The animated players were fully voiced and spoke in character, creating an entertaining atmosphere that included whimsical characters such as a pirate and a puppy—unusual companions for a bridge table, as the game's documentation humorously acknowledged[^ref-1]. The game offered challenge levels ranging from beginner to expert, making it suitable for those learning the game as well as seasoned players looking to refine their strategy[^ref-2].[^ref-24][^ref-25][^ref-26][^ref-27]
+Hoyle Bridge lets the player choose from eleven comical animated characters, or eleven "business world" characters, as opponents and partner[^ref-1][^ref-7]. The animated players are fully voiced and speak in character; MobyGames notes that "why a pirate and a puppy enjoy playing bridge is left up to your imagination"[^ref-1][^ref-24].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
-> **Designer:** Stephen H. Van Horn, Julie Pogue Barnes, [[Ken Williams]][^ref-1]
 > **Publisher:** Sierra On-Line, Inc.[^ref-1]
+> **Producer:** Stephen H. Van Horn (Producer); [[Ken Williams]] (Executive Producer)[^ref-1]
+> **Creative Direction:** Julie Pogue Barnes[^ref-1]
+> **Programmer:** Earl Malmrose (Lead Engineer)[^ref-1]
+> **Artist:** Rabih AbouJaoudé (Lead Artist)[^ref-1]
+> **Composer:** Johnathan Cunningham (Sound and Music Design)[^ref-1]
 > **Engine:** SCI2.1[^ref-5]
 > **Platforms:** Windows 3.x, Windows 95[^ref-5]
-> **Release Year:** 1996
+> **Release Year:** 1996[^ref-1]
 > **Series:** Hoyle's Official Book of Games
 > **Protagonist:** Player
 > **Sierra Lineage:** Core Sierra
@@ -43,81 +48,68 @@ Hoyle Bridge featured 11 animated opponents with distinct personalities and skil
 
 ### Interface and Controls
 
-Hoyle Bridge utilized mouse-driven controls with keyboard support, following the standard interface conventions established by Sierra's earlier Hoyle titles[^ref-1]. Players interacted with the game through a graphical interface that displayed the card table, their hand, and the bidding and play areas. The game supported both keyboard and mouse input devices, providing flexibility for different player preferences[^ref-1].
-
-The interface included the innovative "Explain Hand" feature, which provided detailed bidding information including estimated high card points and distribution for each player[^ref-6]. This educational tool helped players learn to interpret bidding conventions and understand the strategic reasoning behind their opponents' and partners' bids.
+Hoyle Bridge supports mouse and keyboard input and is a single-player game[^ref-1]. Players can change backgrounds, card backs and sound sets[^ref-1][^ref-7]; one of the boards is Wild West themed[^ref-29]. Amazon's product description adds that these can be changed "even in the middle of a tight game"[^ref-2].
 
 ### Structure and Progression
 
-The game offered multiple bridge variations to accommodate different playing preferences:
-
-- **Rubber Bridge:** The traditional format where play continues until one side wins two games (a "rubber")
-- **Chicago Bridge:** A faster four-deal format popular for social play
-- **Duplicate Bridge:** The competitive format where the same hands are played at multiple tables
-
-Players could select their three computer opponents from a roster of 11 comical animated characters or 11 alternative "business world" characters[^ref-1]. Each character possessed unique personalities and varying skill levels, affecting both gameplay difficulty and the social atmosphere at the virtual bridge table[^ref-7].
+The game is played as "a friendly rubber" of contract bridge[^ref-1][^ref-7]. The player fills the table with computer characters from the roster of eleven comical animated characters or eleven "business world" characters[^ref-1]. Amazon's listing says the animated opponents have "their own personalities and skill levels"[^ref-2].
 
 ### Puzzles and Mechanics
 
-As a faithful adaptation of contract bridge, Hoyle Bridge incorporated all the strategic elements of the traditional card game. The game featured standard bidding conventions that players needed to master to communicate effectively with their partner[^ref-7]. The artificial intelligence was designed to provide sophisticated opposition that could challenge experienced players while remaining accessible to beginners[^ref-8].
+Hoyle Bridge includes standard bidding conventions and save, load and replay hand features[^ref-1][^ref-7]. A "No Dummy" setting "lets you play every hand even if your partner bid it"[^ref-29], and the configurable controls "include how seriously the other players act"[^ref-29].
 
-Key mechanics included:
+Core mechanics follow the real card game:
 
-- **Bidding System:** Players bid to establish the contract, communicating hand strength and suit preferences with their partner
-- **Declarer Play:** The winning bidder plays both their hand and their partner's (the "dummy") to make the contracted tricks
-- **Defensive Play:** Opponents work together to defeat the contract
+- **Bidding:** Players bid to establish the contract, communicating hand strength and suit preferences with their partner
+- **Declarer play:** The winning bidder plays both their own hand and their partner's (the "dummy") to make the contracted tricks
+- **Defensive play:** Opponents work together to defeat the contract
 
-The game included comprehensive save, load, and replay hand features, allowing players to analyze their play and learn from their decisions[^ref-7]. The adjustable skill levels and in-game tutorials helped players develop their bridge abilities progressively[^ref-9].
-
-The parent game, Hoyle Classic Games, introduced the "Attitude Meter" feature, which allowed players to set the tone of the opposition from serious to absurd[^ref-3]. In serious mode, players faced intense opposition and observed good manners; in absurd mode, the game featured sore losers and a breakdown in sportsmanship[^ref-3].
+The parent game, Hoyle Classic Games, introduced the "Attitude Meter", which let players "set the tone of the opposition, from serious to absurd"[^ref-3]. In its words: "In serious mode you get intense opposition and good manners. In the absurd game you get sore losers and a breakdown in sportsmanship!"[^ref-3]
 
 ## Reception
 
 ### Contemporary Reviews
 
-Hoyle Bridge received modest attention from gaming press upon its release, as bridge simulation games occupied a niche market. The game was primarily marketed to bridge enthusiasts and casual players rather than mainstream gamers[^ref-2].
-
-User reviews noted the game's accessibility for beginners and intermediate players, with the built-in tutorial and hand explanation features receiving particular praise[^ref-6]. One reviewer described Hoyle Bridge as "a classic Windows game that has stood the test of time"[^ref-8].
+No contemporary press reviews of Hoyle Bridge have been found. MobyGames lists no critic reviews for it[^ref-1].
 
 ### Modern Assessment
 
-Modern assessments of Hoyle Bridge have been mixed, reflecting both nostalgia for the classic Sierra title and frustration with compatibility issues on modern systems.
+Player ratings are few:
 
 **Aggregate Scores:**
-- **MobyGames:** 3.2/5 (user ratings)[^ref-1]
-- **MyAbandonware:** 3.8/5[^ref-10]
-- **Amazon (Encore re-release):** 3.6/5 (customer reviews)[^ref-6]
-- **Amazon (Sierra Originals):** 1.0/5 (affected by compatibility issues)[^ref-2]
+- **MobyGames:** 3.2/5, from 2 player ratings and no written reviews[^ref-1]
+- **MyAbandonware:** 4/5, from 6 votes[^ref-10]
+- **Amazon (Sierra Originals listing):** 1.0/5, from a single rating[^ref-2]
 
-Reviewers from the GOG community praised the Hoyle games generally, with one user declaring "Hoyle games are gems! They are the best!"[^ref-11]. However, modern players frequently reported compatibility problems, with one Amazon reviewer noting "This product will not work on my computer. Requires 64 bit"[^ref-12], highlighting the challenges of running 16-bit Windows software on contemporary operating systems.
-
-The broader Hoyle series maintained a positive reputation among Sierra fans, with community members noting that "when you say 'Hoyle' I immediately think of the first three in the series which I played a lot. Definitely Sierra classics"[^ref-13]. However, later entries including standalone releases like Hoyle Bridge were sometimes viewed as less essential to the "real Sierra" experience[^ref-13].
+The only written user review found is on eBay's product page for the Sierra Originals release. That reviewer gave it one star and wrote: "This product will not work on my computer. Requires 64 bit."[^ref-12]
 
 ## Development
 
 ### Origins
 
-The development of Hoyle Bridge grew out of Sierra's successful Hoyle series, which began with Hoyle's Official Book of Games: Volume 1 in 1989[^ref-14]. That first volume, designed by Warren Schwader with music by Robert Atesalp, established the template of presenting classic card games with animated Sierra character opponents[^ref-14]. The series proved popular enough to spawn multiple sequels and eventually standalone spinoffs.
+The Hoyle series began with Hoyle's Official Book of Games: Volume 1 (1989), designed by Warren Schwader with music by Robert Atesalp[^ref-14].
 
-[[Ken Williams]], Sierra's co-founder, had a personal connection to bridge through his mother, who was an avid bridge player[^ref-15]. This family connection influenced Sierra's interest in developing accessible bridge software that could appeal to non-technical users, including older demographics who might not otherwise engage with computer games[^ref-15].
+[[Ken Williams]]'s mother was an avid bridge player, but that story belongs to The Sierra Network, not to this game. Sierra announced testing of its online service on October 31, 1990, with "a modest slate of classic parlor games like chess and bridge"[^ref-15]. Williams "had been inspired by his mother, an avid bridge player, to make that game a special priority" on the network[^ref-15]. Sierra announced The Sierra Network was "officially a go" on May 6, 1991[^ref-15].
 
-By the mid-1990s, Sierra recognized the potential for extending their Hoyle brand by releasing focused products derived from their compilation releases. Hoyle Bridge and Hoyle Children's Collection were both extracted from Hoyle Classic Games (1995), allowing Sierra to market specific game types to targeted audiences[^ref-3].
+In the mid-1990s Sierra released two derived products alongside Hoyle Classic Games: Hoyle Bridge and Hoyle Children's Collection, the latter including Crazy 8's, Old Maid and Checkers[^ref-3].
 
 ### Production
 
-Hoyle Bridge was developed by Sierra On-Line's internal team, continuing the development tradition established with earlier Hoyle titles. The game was designed by Stephen H. Van Horn, Julie Pogue Barnes, and [[Ken Williams]][^ref-1]. Music for the game was composed by Johnathan Cunningham[^ref-1].
-
-The game was built on Sierra's SCI2.1 engine, the same technology powering other Sierra titles of the mid-1990s[^ref-5]. This allowed for 640x480 resolution graphics with 256 colors, matching the visual standards of Hoyle Classic Games from which it was derived[^ref-3].
+Hoyle Bridge was developed in-house by Sierra On-Line[^ref-1]. MobyGames credits 29 people on the Windows 16-bit version[^ref-1].
 
 **Development Credits:**[^ref-1]
-- **Designers:** Stephen H. Van Horn, Julie Pogue Barnes, Ken Williams
-- **Composer:** Johnathan Cunningham
+- **Executive Producer:** [[Ken Williams]]
+- **Producer:** Stephen H. Van Horn
+- **Creative Direction:** Julie Pogue Barnes
+- **Lead Engineer:** Earl Malmrose
+- **Programming:** Tom Abbott, Elon Gasper, Tim Knappenberger, Mira Lieberman, Tim Weiss, Richard Aronson
+- **Lead Artist:** Rabih AbouJaoudé
+- **Lead Animator:** Tony Benedict
+- **Sound Design and Music Design:** Johnathan Cunningham
+- **Script:** Kaefan Shaw, Dennis Ham
+- **Sound & Lip Synching:** Beck Henderer
 
-Sierra's corporate philosophy during this period emphasized creating "the most creative and technologically advanced products available," striving to deliver "high-quality interactive products that are fun, exciting and innovative in design to appeal to a wide variety of consumers"[^ref-16]. The Hoyle series represented Sierra's commitment to family-friendly entertainment software alongside their more prominent adventure game franchises.
-
-### Technical Achievements
-
-Hoyle Bridge featured fully voiced animated characters, a significant technical achievement for a card game of its era[^ref-1]. Each of the 11 primary characters spoke in character with unique personalities, bringing life to what could otherwise be a static card game experience. The game included various customizable elements including backgrounds, card backs, and sound sets[^ref-7].
+The game runs on Sierra's SCI2.1 engine[^ref-5]. Hoyle Classic Games, from which it was derived, ran at 640x480 with 256 colors[^ref-3].
 
 ### Technical Specifications
 
@@ -128,79 +120,47 @@ Hoyle Bridge featured fully voiced animated characters, a significant technical 
 - **CD-ROM:** 2x speed drive
 - **Media:** CD-ROM
 
-**File Size:**[^ref-10]
-- Windows version: approximately 316 MB
-- Windows 3.x version: approximately 331 MB
-
-The game's resolution matched Sierra's standard for the era at 640x480 with 256 colors[^ref-3]. Audio support included standard Windows sound capabilities.
+**Archived image sizes:**[^ref-10]
+- Windows version: 316 MB
+- Windows 3.x version: 332 MB
 
 ### Technical Issues
 
-Modern players attempting to run Hoyle Bridge on contemporary systems face significant compatibility challenges. The game was designed for 16-bit Windows environments and does not natively run on 64-bit operating systems[^ref-12].
-
-PCGamingWiki notes that the Windows 3.x version might be playable on 64-bit operating systems using ScummVM[^ref-5]. ScummVM version 2.1 and later supports cloud saves on third-party cloud storage services for compatible games[^ref-5].
+One version is a Windows 16-bit release[^ref-1], and a modern buyer reported it would not run on their computer[^ref-12]. PCGamingWiki notes that the "Windows 3.x version might be playable on a 64-bit OS using ScummVM"[^ref-5]. ScummVM detects the Windows release under the ID `hoyle5bridge`[^ref-28].
 
 ### Easter Eggs and Trivia
 
-- The game featured 11 comical animated characters as well as 11 alternative "business world" characters, providing variety in the player's opponents[^ref-1]
-- The animated opponents included unusual character types such as a pirate and a puppy, with the game's documentation humorously questioning "why a pirate and a puppy enjoy playing bridge is left up to your imagination"[^ref-1]
-- Bridge was described in marketing materials as "the chess of card games," emphasizing its strategic depth[^ref-2]
-- The earlier Hoyle compilations featured 18 computer opponents modeled on Sierra game characters, including famous figures like Roger Wilco from Space Quest and King Graham from King's Quest, who could discuss events from their respective game series during idle time[^ref-14]
+- The animated opponents include a pirate and a puppy; MobyGames remarks that "why a pirate and a puppy enjoy playing bridge is left up to your imagination"[^ref-1]
+- Amazon's product description calls bridge the "Chess of card games"[^ref-2]
+- Unlike this game's cast, the first Hoyle volume (1989) had 18 computer opponents, including Sierra characters such as King Graham, Roger Wilco and Larry Laffer[^ref-14]
 
 ### Version History
 
-Documented versions referenced in source material:
+Documented versions:
 
-- **version 2.1** — see contemporaneous sources cited in this page
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original | 1996 | Windows 3.x / Windows 95 | Sierra Originals CD-ROM release[^ref-1][^ref-26] |
+
+ScummVM's detection entry for the Windows release lists the same `resource.aud` audio file (257,585,548 bytes, identical checksum) as Hoyle Children's Collection, the other game derived from Hoyle Classic Games[^ref-28].
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-While specific sales figures for Hoyle Bridge are not available, the broader Hoyle brand proved commercially successful for Sierra. The company's Hoyle Casino was named the best-selling casino game of 1999 by PC Data[^ref-16][^ref-17], demonstrating the continued market appeal of Sierra's card and casino game products.
-
-The Hoyle brand became one of Sierra's enduring product lines, listed alongside major franchises like King's Quest, You Don't Know Jack, and Homeworld as among "the company's popular software titles"[^ref-16].
+No sales figures for Hoyle Bridge have been found.
 
 ### Collections
 
-Hoyle Bridge was derived from Hoyle Classic Games (1995), which contained bridge among its collection of card games[^ref-3]. The game was later re-released through various channels:
-
-- **Sierra Originals:** A budget re-release marketed as a "vintage" 1996 product[^ref-12]
-- **Encore Software:** Later re-releases including Hoyle Bridge (2001) and Hoyle Bridge Club (2006)[^ref-6][^ref-9]
-
-The 2000 release of Hoyle Bridge was published under the Sierra Attractions label as part of Sierra's reorganized brand structure[^ref-18][^ref-19].
-
-### Corporate Context
-
-Sierra's interest in multiplayer and online gaming extended to their card game products. [[Ken Williams]] stated that "Sierra is interested in extending our core product-development technology to have multiplayer capabilities"[^ref-15]. This vision manifested in The Sierra Network, an early online gaming service launched in 1990 that included multiplayer card games[^ref-15].
-
-The Hoyle franchise continued under Sierra's management through various corporate transitions. In 2000, Sierra announced a reorganization under parent company Cendant Software, with CEO Chris McCleod stating "We are very excited about our new consumer brand focus, an evolution to meet the growth of the industry"[^ref-20]. Hoyle products were placed under the Sierra Attractions division[^ref-20].
-
-By 2006, Sierra president Michael Ryder announced further reorganization, explaining that "This reorganization creates a more efficient operating model. It also allows Sierra to focus on what we do best—creating and growing some of the most successful and enduring brands in the business"[^ref-21]. The Hoyle franchise was assigned to Sierra's Bellevue Studio for continued development[^ref-21].
+Hoyle Bridge was derived from Hoyle Classic Games (1995), which included bridge among its eight card games[^ref-3].
 
 ### Fan Projects
 
-Hoyle Bridge remains available through abandonware preservation sites including MyAbandonware and Old Games Download[^ref-7][^ref-10]. The Computing History museum in the UK maintains records of the software as part of their historical archive[^ref-22].
-
-The game is not currently available on modern digital distribution platforms such as Steam or GOG[^ref-11][^ref-23], leaving emulation and abandonware sites as the primary means for contemporary players to experience the title.
-
-### Related Publications
-
-The Hoyle series traditionally included rule books and playing aids with their products. Later releases such as Hoyle Bridge Club (2006) included Hoyle Bridge playing cards and a rulebook as part of the package[^ref-9], though details of original 1996 release materials are limited in available documentation.
+Hoyle Bridge is preserved on abandonware sites including MyAbandonware and Old-Games.com[^ref-7][^ref-10]. It is not sold on modern digital stores; a Steam search returns no results[^ref-23]. ScummVM is the main way to run the Windows 3.x version on modern systems[^ref-5][^ref-28].
 
 ### Critical Perspective
 
-Hoyle Bridge represents an interesting footnote in Sierra's history, demonstrating the company's reach beyond their flagship adventure game series into casual and family entertainment. The game embodied Sierra's democratic approach to gaming—the belief that computer games could and should appeal to audiences beyond the traditional young male demographic.
-
-The Hoyle series occupies an unusual position in Sierra's legacy. While adventure game enthusiasts often focus on titles like King's Quest, Space Quest, and Gabriel Knight as defining the "real Sierra" experience[^ref-13], the Hoyle games were commercially significant products that introduced many players to Sierra's software. The series' inclusion of beloved Sierra characters as opponents created a unique crossover that allowed fans to interact with characters from other franchises in a casual, social context[^ref-14].
-
-For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the complex partnership card game without needing to assemble four human players. The educational features, including the Explain Hand option and adjustable difficulty levels, made it valuable as both entertainment and a learning tool[^ref-6]. The game's appeal to older, non-technical users represented Sierra's broader mission to expand the gaming audience—a vision that [[Ken Williams]] had pursued since the company's earliest days[^ref-15].
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) – Available for purchase
-- [Steam](https://store.steampowered.com/search/?term=Hoyle+Bridge) – Available for purchase
+Hoyle Bridge was a budget-priced spinoff of Hoyle Classic Games[^ref-3][^ref-26]. Its pitch was practical: "you'll never be short a player again!"[^ref-2]
 
 ## Downloads
 
@@ -266,35 +226,22 @@ For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the 
 - [[2015 - Hoyle Official Card Games Collection]]
 - [[2016 - Hoyle Casino Games Collection]]
 
-- **Related:** [[1993 - Hoyle Classic Card Games]] (parent compilation)
+- **Related:** Hoyle Classic Games (1995, also known as Hoyle 5; parent compilation, no vault page yet)
 - **Related:** [[1989 - Hoyle Official Book of Games - Volume 1]] (series origin)
 
 ## References
 
-[^ref-1]: [MobyGames – Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) – credits, ratings, game description, character details
-[^ref-2]: [Amazon – Hoyle Bridge PC](https://www.amazon.com/Hoyle-Bridge-PC/dp/B001036J06) – product description, features, ratings
-[^ref-3]: [ScummVM Wiki – Hoyle Children's Collection](https://wiki.scummvm.org/index.php/Hoyle_Children's_Collection) – derivation from Hoyle Classic Games, Attitude Meter feature
-[^ref-4]: [Sierra Gamers – Ken Williams](https://www.sierragamers.com/ken-williams/) – development philosophy quote
+[^ref-1]: [MobyGames – Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) – 1996 Windows / Windows 16-bit release, credits (29 people), player ratings (3.2/5 from 2), description
+[^ref-2]: [Amazon – Hoyle Bridge PC](https://www.amazon.com/Hoyle-Bridge-PC/dp/B001036J06) – Sierra Originals listing: product description, features, 1.0/5 from 1 rating
+[^ref-3]: [ScummVM Wiki – Hoyle Classic Games (Wayback, 16 June 2024)](http://web.archive.org/web/20240616145319/https://wiki.scummvm.org/index.php/Hoyle_Classic_Games) – derivation of Hoyle Bridge and Hoyle Children's Collection, "Sierra Original" blurb, Attitude Meter
 [^ref-5]: [PCGamingWiki – Hoyle Bridge](https://www.pcgamingwiki.com/wiki/Hoyle_Bridge) – engine, system requirements, ScummVM compatibility
-[^ref-6]: [Amazon – Encore Hoyle Bridge](https://www.amazon.com/Encore-9445-Hoyle-Bridge/dp/B000FOVSEI) – Explain Hand feature, customer reviews
-[^ref-7]: [Old Games Download – Hoyle Bridge](https://www.old-games.com/download/10282/hoyle-bridge) – character options, bidding conventions, save features
-[^ref-8]: [Retrolorean – Hoyle Bridge](https://www.retrolorean.com/en/hoyle-bridge-6922) – game modes, AI description
-[^ref-9]: [Amazon – Hoyle Bridge Club](https://www.amazon.com/Hoyle-Bridge-Club-pc/dp/B000HLP5WA) – game variations, tutorials, package contents
-[^ref-10]: [MyAbandonware – Hoyle Bridge](https://www.myabandonware.com/game/hoyle-bridge-dk1) – file sizes, user ratings
-[^ref-11]: [GOG Dreamlist – Hoyle Classic Card Games](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) – user praise for Hoyle series
-[^ref-12]: [eBay – Hoyle Bridge](https://www.ebay.com/p/128176800) – compatibility issues, vintage listing
-[^ref-13]: [Sierra Gamers Forum – Where Does Sierra End](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – community perspective on Hoyle series
-[^ref-14]: [MobyGames – Hoyle's Official Book of Games Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – series origins, character easter eggs
-[^ref-15]: [Filfre.net](https://www.filfre.net/?s=Hoyle+Bridge) – Ken Williams quotes, Sierra Network, bridge-playing mother
-[^ref-16]: [Company Histories – Sierra On-Line](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) – corporate philosophy, product lineup
-[^ref-17]: [Funding Universe – Sierra On-Line](https://www.fundinguniverse.com/company-histories/sierra-on-line-inc-history/) – Hoyle Casino sales success
-[^ref-18]: [Metacritic – Hoyle Bridge](https://www.metacritic.com/game/hoyle-bridge/) – 2000 release date, basic info
-[^ref-19]: [Sierra Chest – Hoyle 2000 Bridge](https://sierrachest.com/index.php?a=games&id=577&title=hoyle-2000-bridge&fld=publications) – publisher details
-[^ref-20]: [GameSpot – Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – 2000 reorganization
-[^ref-21]: [GameSpot – Sierra Reorganizes](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) – 2006 reorganization, Bellevue Studio
-[^ref-22]: [Computing History UK – Hoyle Bridge](https://www.computinghistory.org.uk/det/46588/Hoyle-Bridge/) – museum archive record
+[^ref-7]: [Old-Games.com – Hoyle Bridge](https://www.old-games.com/download/10282/hoyle-bridge) – description: character options, rubber play, bidding conventions, save/load/replay
+[^ref-10]: [MyAbandonware – Hoyle Bridge](https://www.myabandonware.com/game/hoyle-bridge-dk1) – archived file sizes (316 MB / 332 MB), user rating 4/5 from 6 votes
+[^ref-12]: [eBay – Hoyle Bridge: Sierra Originals](https://www.ebay.com/p/128176800) – product page with single 1-star user review (64-bit incompatibility)
+[^ref-14]: [MobyGames – Hoyle's Official Book of Games Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – series origin (1989), credits, 18 opponents
+[^ref-15]: [The Digital Antiquarian – The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) – TSN testing (Oct 1990) and launch (May 1991), Ken Williams's bridge-playing mother
 [^ref-23]: [Steam Search](https://store.steampowered.com/search/?term=Hoyle+Bridge) – no results for Hoyle Bridge
-[^ref-24]: [LaunchBox Games Database – Hoyle Bridge](https://gamesdb.launchbox-app.com/games/details/105629-hoyle-bridge) – ESRB rating, character details
-[^ref-25]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise catalog
-[^ref-26]: [eBay Listing – Sealed 1996](https://www.ebay.com/itm/184974204908) – vintage product confirmation
-[^ref-27]: [Abandonware DOS](https://www.abandonwaredos.com/search.php?search=Hoyle+Bridge) – DOS version reference
+[^ref-24]: [LaunchBox Games Database – Hoyle Bridge](https://gamesdb.launchbox-app.com/games/details/105629-hoyle-bridge) – 1996 Windows 3.x entry, character details
+[^ref-26]: [eBay Listing – Sealed 1996](https://www.ebay.com/itm/184974204908) – sealed 1996 box with Sierra Originals branding
+[^ref-28]: [ScummVM – SCI detection tables](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) – "hoyle5bridge" Windows entry and its resource files
+[^ref-29]: [MobyGames – Hoyle Bridge screenshots](https://www.mobygames.com/game/17466/hoyle-bridge/screenshots/) – captions: "No Dummy" setting, attitude control, Wild West board
