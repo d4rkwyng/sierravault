@@ -10,29 +10,33 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Jen
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: 'Hi-Res Adventure #6: The Dark Crystal stands as a landmark achievement
-  in early adventure gaming and film adaptation, representing Sierra On-Line''s...'
+last_updated: '2026-10-12'
+description: 'Roberta Williams'' 1983 graphic adventure adaptation of Jim Henson''s film
+  The Dark Crystal, the sixth and final Hi-Res Adventure, made with art direction
+  from Henson Associates.'
 tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #6: The Dark Crystal
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Hi-Res Adventure #6: The Dark Crystal stands as a landmark achievement in early adventure gaming and film adaptation, representing Sierra On-Line's ambitious collaboration with Jim Henson's creative team[^ref-1]. Designed by Roberta Williams and released in 1982-1983[^ref-2], this text adventure with static graphics closely follows the storyline of Jim Henson's acclaimed fantasy film[^ref-3]. As Williams noted in a 1982 TV interview, "it follows the storyline of the Dark Crystal really really close"[^ref-4], marking one of the first successful attempts to translate a major motion picture into an interactive gaming experience.
+Hi-Res Adventure #6: The Dark Crystal is a 1983 graphic adventure by Sierra On-Line, designed by Roberta Williams and based on Jim Henson's 1982 fantasy film[^ref-2][^ref-11]. The game missed the 1982 Christmas season: it was previewed at the American Toy Fair in February 1983 and appears to have reached shelves soon after[^ref-4], and Creative Computing covered it alongside the film in its March 1983 issue[^ref-40]. As Williams said in a 1982 TV interview, "it follows the storyline of the Dark Crystal really really close"[^ref-4].
 
-The game was revolutionary for its time, being "the first official movie tie-in game on a platform where it was possible to follow the plot step-by-step"[^ref-4]. What made this adaptation particularly special was the unprecedented level of cooperation from Henson Associates, who provided artwork, character sheets, and extensive backstory materials that went far beyond what appeared in the film itself[^ref-4]. This collaboration resulted in a game that, according to contemporary reviews, proved that "games based on movies often have a wretched reputation. By this metric, The Dark Crystal does better than most"[^ref-5].
+Creative Computing called it "the first computer adventure to be based on a feature film"[^ref-40], and Hi-Res magazine described it as Sierra's "first motion picture tie-in"[^ref-41]. It was not the first licensed movie game overall (Raiders of the Lost Ark and E.T. for the Atari 2600 came out in 1982), but, as Jason Dyer notes, it was the first on a platform where the player could follow a film's plot step by step[^ref-4]. Henson Associates supplied art direction, character sheets and extensive backstory material[^ref-4]. Hardcore Gaming 101's 2021 retrospective concluded: "Games based on movies often have a wretched reputation. By this metric, The Dark Crystal does better than most"[^ref-5].
 
-As the sixth and final entry in Sierra's Hi-Res Adventure series, The Dark Crystal represented both an ending and a beginning - it was "Sierra's last adventure game before the groundbreaking King's Quest"[^ref-6], marking the transition from Sierra's early text-based adventures to the revolutionary graphic adventures that would define the company's future.[^ref-36][^ref-37][^ref-39]
+It was the sixth and final game in Sierra's Hi-Res Adventure series[^ref-5], following Time Zone[^ref-6]. Jen is visible in every scene, which marked Sierra's shift to a third-person perspective, a step toward the presentation of King's Quest[^ref-4].
 
 > [!info]- Game Info
-> **Developer:** [[Sierra On-Line]][^ref-1]
-> **Design/Writing:** [[Roberta Williams]][^ref-1]
-> **Publisher:** Sierra On-Line[^ref-1]
+> **Developer:** [[Sierra On-Line]][^ref-39]
+> **Design/Writing:** [[Roberta Williams]][^ref-39]
+> **Program development:** Ken Williams, Chris Iden[^ref-39]
+> **Graphics director:** Jim Mahon (Henson Associates)[^ref-39][^ref-42]
+> **Editor:** Christopher Cerf[^ref-39]
+> **Publisher:** Sierra On-Line[^ref-39]
 > **Platforms:** Apple II, Atari 8-bit, FM-7, PC-88, PC-98[^ref-7]
-> **Release Year:** 1982-1983
+> **Release Year:** 1983
 > **Series:** Hi-Res Adventure #6
 > **Sierra Lineage:** Core Sierra
 > **Engine:** ADL
@@ -40,112 +44,96 @@ As the sixth and final entry in Sierra's Hi-Res Adventure series, The Dark Cryst
 
 ## Story Summary
 
-Set in the mystical world of Thra during the Great Conjunction - when the planet's three suns align every thousand years - players control Jen, the last surviving Gelfling on a quest to heal the Dark Crystal[^ref-8]. As the game description explains: "In a faraway world, an event of cosmic importance is about to occur: a Great Conjunction of the planet's Three Suns. A thousand years ago, when the Suns last came together, a cruel and selfish tribe known as the Skeksis seized control of the radiant Crystal that once brought harmony to all beings"[^ref-1].
+Set on Thra, a world whose three suns come together every thousand years in the Great Conjunction, the game casts the player as Jen, the last survivor of the Gelfling race, who must find the missing shard and repair the crystal[^ref-8]. The game's own description reads: "In a faraway world, an event of cosmic importance is about to occur: a Great Conjunction of the planet's Three Suns. A thousand years ago, when the Suns last came together, a cruel and selfish tribe known as the Skeksis seized control of the radiant Crystal that once brought harmony to all beings"[^ref-1].
 
-The player's objective is clear: "As Jen, the good Gelfling, find and restore the missing shard of the Great Crystal that will stop the evil Skeksis and their henchmen, the Garthim, from taking over the world"[^ref-9]. Along the journey, Jen encounters Kira, another Gelfling, and her pet Fizzgig, who provide crucial assistance in the quest[^ref-9]. The game follows the film's plot closely but offers interactive possibilities, allowing players to explore "what would happen if I tried this" as Christopher Cerf noted about the adaptation's interactive nature[^ref-4].
+The official product description sets out the goal: "As Jen, the good Gelfling, find and restore the missing shard of the Great Crystal that will stop the evil Skeksis and their henchmen, the Garthim, from taking over the world"[^ref-9]. Along the way Jen is helped by Kira, another Gelfling, and her pet Fizzgig[^ref-9]. The game follows the film's plot but leaves room to deviate. Christopher Cerf, who edited the game, said: "Your game can end differently than in the movie. You can try out other possibilities. You can say, 'What would happen if I tried this.'"[^ref-4][^ref-39]
 
-Importantly, as one contemporary review observed, "THERE IS >>NO<< SCORE IN THE DARK CRYSTAL ADVENTURE. THE OBJECT IS TO HEAL THE DARK CRYSTAL"[^ref-10], emphasizing that this was a story-driven experience rather than a points-based challenge.
+A GameFAQs walkthrough reminds players that "THERE IS >>NO<< SCORE IN THE DARK CRYSTAL ADVENTURE. THE OBJECT IS TO HEAL THE DARK CRYSTAL"[^ref-10], so the game is about finishing the story rather than collecting points.
 
 ## Gameplay
 
 ### Interface and Controls
 
-The Dark Crystal utilized Sierra's Adventure Development Language (ADL) engine[^ref-2], featuring a traditional text-based interface with verb/noun command system[^ref-2]. Players navigated through static, non-animated graphics accompanied by text descriptions, using simple one or two-word commands to interact with the game world[^ref-11]. The game's visual presentation was notable for its time, with Alex Bevilacqua noting that "for a very early graphical adventure game it's definitely well done and really shows off the power of the ADL engine"[^ref-2].
+The Dark Crystal runs on Sierra's ADL (Adventure Development Language) engine[^ref-2] with a traditional parser. Each location has a text description and a static illustration, and the player types one- or two-word commands, usually verb and noun, such as GO NORTH or CLIMB TREE[^ref-41][^ref-2]. Alex Bevilacqua wrote that "for a very early graphical adventure it's definitely well done and really shows off the power of the ADL engine"[^ref-2].
 
-The Apple II version featured 6 colors enhanced to 21 colors through dithering techniques[^ref-2], while the Japanese FM-7 and PC-88 releases by Starcraft added even more colors to the original graphics[^ref-5]. The game required keyboard input only[^ref-12] and supported a single player experience[^ref-12].
+Bevilacqua also found the Apple II art "basically monochrome" because the Apple II has only six colours to choose from. He notes that Ken Williams later enhanced the ADL interpreter with dithering, which expanded the palette to 21 colours[^ref-2]. The Japanese FM-7, PC-88 and PC-98 releases published by Starcraft added more colours to the original graphics[^ref-5][^ref-7]. The game uses keyboard input and is single-player[^ref-12].
 
 ### Structure and Progression
 
-The game was distributed across two 5.25" floppy disks[^ref-13], requiring frequent disk swaps as players moved through the world - a technical limitation that became one of the game's most criticized aspects[^ref-4]. The adventure was structured as a linear progression through key locations from the film, with players encountering various creatures and challenges that directly paralleled the movie's narrative.
+The Apple II version shipped on two floppy disks[^ref-16]. Both sides were used, and the game asks the player to swap, for example "from disk 1, side B over to disk 2, side A"[^ref-4]. The Atari 8-bit version came on "not one, but three double-sided disks"[^ref-41]. Disk swapping was the most frequent complaint: Hi-Res called the three-disk format its "second major complaint"[^ref-41], and The Book of Atari Software called it "a disk-flipping nightmare"[^ref-13]. Hi-Res found the design linear, with each response "either right or wrong, with no middle ground"[^ref-41].
 
-One walkthrough author advised: "SEE THE MOVIE (OPTIONAL) MANY OF THE HINTS ARE REVEALED AFTER SEEING IT"[^ref-10], though contemporary reviews noted that "having seen the movie is neither a help nor a hindrance in solving the game"[^ref-13]. The game could potentially end differently than the film[^ref-4], offering players alternative narrative possibilities.
+Reviewers disagreed on whether the film helps. The Book of Atari Software said "having seen the movie is neither a help nor a hindrance in solving the game"[^ref-13]. Softline said "Having seen the movie is a help in solving the adventure" but added that "Williams has cleverly added some [puzzles] you won't recognize at all"[^ref-42]. The GameFAQs walkthrough author advised: "SEE THE MOVIE (OPTIONAL) MANY OF THE HINTS ARE REVEALED AFTER SEEING IT"[^ref-10].
 
 ### Puzzles and Mechanics
 
-True to Sierra's adventure game design philosophy of the era, death was a constant threat. As Alex Bevilacqua observed, "And you will die on most screens"[^ref-2], reflecting the unforgiving nature of early Sierra adventures. The game featured environmental hazards and creature encounters that required careful navigation and correct command input to survive.
+In keeping with Sierra adventures of the era, death is everywhere. Bevilacqua warns, "And you will die on most screens"[^ref-2], and Hardcore Gaming 101 notes that "Death strikes often if you don't keep advancing to the next screen"[^ref-5].
 
-The final puzzle of the game required players to use logical deduction based on the film's climax, with one walkthrough noting: "KIRA IS DEAD. LOGICAL ANSWER: KISS KIRA"[^ref-10], demonstrating how the game expected familiarity with fantasy adventure tropes and the source material's themes of love conquering death.[^ref-31][^ref-32][^ref-34]
+The ending asks the player to choose between saving Kira and healing the Crystal. The walkthrough's final step reads: "KIRA IS DEAD <---- LOGICIAL ANSWER: "KISS KIRA""[^ref-10].
 
 ## Reception
 
 ### Contemporary Reviews
 
-The Dark Crystal received generally positive reviews from contemporary gaming publications, earning recognition as a successful adaptation of challenging source material. The game achieved an overall contemporary score average of 65.3% with a median of 66.5%[^ref-12].
+Contemporary reviews ranged from mixed to positive. UVList collects four external scored reviews, with an average of 65.3% and a median of 66.5%[^ref-12].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| The Book of Atari Software | A- | "The plot is exceptional"[^ref-13] |
-| Personal Computer News | 9-10/20 | Mixed reception[^ref-12] |
-| Tilt/Micro 7 | 5/6 | Positive French reception[^ref-12] |
-| Softline | Positive | Graphics described as "delightful"[^ref-11] |
+| The Book of Atari Software (1984) | A- | "The plot is exceptional"[^ref-13] |
+| Personal Computer News (UK, 1983 / 1984) | 9/20; 10/20 | Two reviews listed by UVList[^ref-12] |
+| Micro 7 (France, Jan 1985) | 5/6 | Listed by UVList[^ref-12] |
+| Tilt (France, Jan 1985) | 5/6 | Listed by UVList[^ref-12] |
+| Softline (May–June 1983) | Unscored | Graphics make the game "delightful"[^ref-42] |
+| Hi-Res (March 1984) | Unscored | Negative review of the Atari version[^ref-41] |
 
-Softline's review was particularly noteworthy, suggesting that the "thin story that failed to serve the movie well is comparatively top-drawer material in the game"[^ref-11], indicating that the interactive format actually improved upon the source material's narrative weaknesses.
+Softline opened its review with "In a way, it's better than the movie," arguing that "the thin story that failed to serve the movie well is comparatively top-drawer material in the game." It praised Jim Mahon's "sketch-type painterly style that gives greater depth and more variation to the scenes than most other adventures have achieved"[^ref-42].
 
-However, not all reviews were entirely positive. Mark S. Murley of Hi-Res magazine criticized the Atari version, noting: "If the narrowness of the game and the disk-swapping problem were the only negative aspects of The Dark Crystal, then I might be tempted to at least recommend it... The graphics themselves are a little lackluster, and the color is not the best"[^ref-11].
+Mark S. Murley of Hi-Res was harsher about the Atari version: "If the narrowness of the game and the disk-swapping problem were the only negative aspects of The Dark Crystal, then I might be tempted to at least recommend it, however, to novice Adventurers. The graphics themselves are a little lackluster, and the color is not the best"[^ref-41].
 
 ### Modern Assessment
 
-Modern retrospective reviews have been more critical, with Alex Bevilacqua's detailed analysis scoring the game at just 28%[^ref-2]. Contemporary adventure game enthusiasts on sites like Mobygames have been more generous, with critics giving it 86%[^ref-7], while user ratings on MyAbandonware show a perfect 5/5 score[^ref-14].
-
-Hardcore Gaming 101's retrospective assessment noted that the game is "Pretty close to a shot by shot remake of the movie in game form"[^ref-5], praising its faithfulness while acknowledging the limitations of early adventure game design. The review concluded that "by this metric, The Dark Crystal does better than most" when compared to other movie-to-game adaptations of the era[^ref-5].[^ref-33][^ref-35][^ref-38]
+Modern retrospectives are cooler. Alex Bevilacqua's revised score is 28%[^ref-2], and Adventure Gamers' 2022 flashback review held that "the sheen has long since worn off Sierra's early graphical text adventure"[^ref-1]. Hardcore Gaming 101's 2021 retrospective called it "Pretty close to a shot by shot remake of the movie in game form" and concluded that "by this metric, The Dark Crystal does better than most"[^ref-5]. On aggregator sites, MobyGames lists an 86% critic average from three ratings and a 4.1/5 player average[^ref-38], and MyAbandonware users rate it 5/5 from nine votes[^ref-14].
 
 ## Development
 
 ### Origins
 
-The Dark Crystal represented an unusual collaboration between Sierra On-Line and Jim Henson's creative team. As Roberta Williams explained in a 1982 TV interview, "Their artists have been doing the pictures"[^ref-4], marking a departure from Sierra's usual practice of creating all artwork in-house. This collaboration came about through Sierra's relationship with Henson Associates, who were eager to explore the interactive possibilities of their fantasy world.
+According to Hardcore Gaming 101, Roberta Williams wanted a shorter project after Time Zone, which had been hurt by its large quest and $99 price, and she "jumped at the chance" to adapt The Dark Crystal[^ref-5]. The contact came through Christopher Cerf, a longtime Sesame Street songwriter and Apple II enthusiast. He worked with a publicity firm that also had Sierra as a client, persuaded the Henson group to approach Sierra, and flew to California with Henson project manager Mary Ann Horstmeyer to meet Williams[^ref-4]. Creative Computing describes Cerf as the "writer, publisher, and microcomputer afficionado who has worked with Roberta to develop the graphic adventure"[^ref-40]. The game's credits list him as editor[^ref-39].
 
-Ken Williams, Sierra's co-founder, was reportedly "shocked at the number of binders full of drawings that provided the minute details behind the movie"[^ref-4], indicating the wealth of source material that Henson's team made available for the adaptation. This extensive documentation allowed Sierra to create a game that went beyond the film's surface narrative to explore the deeper mythology of Thra.
+In the 1982 TV interview, Roberta Williams said of Henson Associates: "Their artists have been doing the pictures"[^ref-4]. Ken Williams was "shocked at the number of binders full of drawings that provided the minute details behind the movie"[^ref-4]. That material covered much more of the world than appeared on screen[^ref-4].
 
 ### Production
 
-The game was developed relatively quickly by Sierra's standards, taking Roberta Williams "a little over a month to develop the design"[^ref-15]. Once Williams completed the design, it was "turned over to programmers and artists after Roberta Williams completed it. Jim Mahon served as artist"[^ref-16]. The technical implementation utilized Sierra's ADL (Adventure Development Language) engine, which powered all of the Hi-Res Adventure series games[^ref-2].
+Creative Computing reported that "The Dark Crystal project took her a little over a month." Williams told the magazine, "It was easier because the map was mostly already there, though we've added some surprises"[^ref-40]. In another interview she described the art pipeline: "Jim Mahon, the art director at Henson Associates, sketches each page of the action and sends it to me. My people translate the sketches onto the Apple with graphics tablets"[^ref-4]. MobyGames credits Mahon as graphics director, Carl Potts, Michelle Prichard and Greg Rowland as graphic artists, and Ken Williams and Chris Iden with program development[^ref-39].
 
-The collaboration with Henson Associates was particularly significant because it represented early Hollywood recognition of video games as a legitimate storytelling medium. Christopher Cerf from Henson's team described the result as "interactive fiction"[^ref-4], emphasizing the narrative possibilities that the medium offered beyond traditional linear storytelling.
+Cerf called the result "interactive fiction"[^ref-4]. Ken Williams told Creative Computing that Sierra intended the game "to be available for the Apple, Atari, IBM, and Commodore 64 machines"[^ref-40]. MobyGames, however, lists no IBM PC or Commodore 64 release[^ref-7].
 
-### Technical Achievements
+### Technical Notes
 
-The Dark Crystal was notable for being "the first Hi-Res Adventure directly released under the SierraVenture label"[^ref-2], marking Sierra's evolution in branding and marketing. The game featured sophisticated copy protection for its era, utilizing "bad sector protection + checksum" methods on the Atari version[^ref-3], demonstrating Sierra's growing concerns about software piracy.
+Wikipedia and Bevilacqua, both drawing on MobyGames' cover data, describe it as the first Hi-Res Adventure released directly under the SierraVenture label[^ref-11][^ref-2]. The Atari 8-bit port is credited to Yosemite Software Products, with Chris Iden as programmer[^ref-7][^ref-13]. Hi-Res noted that copy protection was light: "Sierra has eschewed any sort of copy protection for all but Side A," so players could back up the data disks[^ref-41].
 
-The game's graphics were created specifically for each platform, with the Japanese releases by Starcraft featuring enhanced color palettes beyond the original Apple II version[^ref-5]. The file sizes varied significantly across platforms: Apple II (319 KB), Atari 8-bit (272 KB), FM-7 (219 KB), and PC-88 (405 KB)[^ref-17].
+According to MobyGames, the Apple II and Atari 8-bit editions contain the same adventure and differ mainly in palette, screen layout and visual presentation. The Japanese versions were localized and published by Starcraft[^ref-7].
 
 ## Legacy
 
-Hi-Res Adventure #6: The Dark Crystal holds a unique position in gaming history as both the final entry in Sierra's notable Hi-Res Adventure series and a landmark achievement in movie-to-game adaptation. The game's success helped establish the viability of licensed properties in adventure gaming, paving the way for future collaborations between Hollywood and game developers.
+The Dark Crystal closed Sierra's Hi-Res Adventure series[^ref-5]. Its third-person view of Jen in every scene pointed toward the presentation of King's Quest[^ref-4]. In 1984 Sierra released Gelfling Adventure, a version for younger players that drops the text parser in favour of a "Choose Your Own Adventure" structure[^ref-5][^ref-11].
 
-The game's influence extends beyond its immediate commercial success. It demonstrated that video games could serve as a legitimate extension of existing intellectual properties, offering fans new ways to engage with beloved fictional worlds. This concept would become increasingly important as the gaming industry matured and began attracting more mainstream media attention.
-
-A testament to the game's enduring appeal, a recreation of the original game was made available online as part of The Dark Crystal's 30th anniversary celebration[^ref-18], allowing new generations of players to experience this pioneering adventure. The game has also been preserved through various archival efforts, including detailed preservation on the Internet Archive[^ref-3] and availability through abandonware sites[^ref-14].
-
-The Dark Crystal's approach to faithful adaptation while maintaining interactive agency influenced later adventure games based on licensed properties. Its balance of following the source material closely while offering players meaningful choices became a template for successful media adaptations in gaming.
-
-## Modern Dark Crystal Games
-
-The Dark Crystal franchise returned to gaming in 2020 with The Dark Crystal: Age of Resistance Tactics[^ref-19], a turn-based strategy game based on the Netflix prequel series. Developed by BonusXP and published by En Masse Entertainment[^ref-19], this modern adaptation took a completely different approach, focusing on tactical combat rather than adventure gameplay.
-
-The tactics game received mixed reviews, earning a 59/100 Metascore on Metacritic[^ref-20][^ref-30] and criticism for its user interface design. As IGN's Mike Epstein noted, "Even at its best, combat is dragged down by poorly designed menus that take far longer to navigate than they should"[^ref-21]. Despite mixed critical reception[^ref-29], the game found a dedicated audience among fans of the Netflix series[^ref-28], with Game Informer's Matt Miller acknowledging it as "a pale imitation of its source material" but still recognizing its appeal to franchise enthusiasts[^ref-22].
-
-A tabletop RPG version was also released by River Horse Games in 2022[^ref-23], earning praise from RPGnet's Jacob DC Ross who described it as combining "the worldbuilding of Tolkien, the action of a Zelda videogame, and the heart of Fraggle Rock"[^ref-15].
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+The Jim Henson Company hosts a free official re-creation of the game on the Dark Crystal website[^ref-18], which was online by 2013[^ref-43]; Adventure Gamers ties the re-creation to the film's 30th anniversary[^ref-1]. Hardcore Gaming 101 describes a web-only abridged remake with 16-bit-style graphics, released to tie in with the Netflix series The Dark Crystal: Age of Resistance[^ref-5]. MobyGames dates that browser version to February 2020[^ref-7]. The game also has a RetroAchievements set[^ref-27].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- The Dark Crystal: Age of Resistance Tactics available on [Steam](https://store.steampowered.com/app/1097790/The_Dark_Crystal_Age_of_Resistance_Tactics/)[^ref-24]
-- Available on [PlayStation Store](https://store.playstation.com/en-us/product/UP2492-CUSA17833_00-DRKCRYSTALTACTIC)[^ref-25]
-- Available on [Nintendo eShop](https://www.nintendo.com/us/store/products/the-dark-crystal-age-of-resistance-tactics-switch/)[^ref-26]
+- Not currently sold. The Jim Henson Company offers a free official re-creation (below)[^ref-18].
 
 **Download / Preservation**
+- [Official Dark Crystal website: play the re-creation](https://www.darkcrystal.com/galleries/dark-crystal-galleries/play/)[^ref-18]
 - [MyAbandonware - Hi-Res Adventure #6: The Dark Crystal](https://www.myabandonware.com/game/hi-res-adventure-6-the-dark-crystal-7nz)[^ref-14]
-- [Internet Archive - Atari 8-bit Version](https://archive.org/details/cssa8d_Hi_Res_Adventure_6_The_Dark_Crystal_1984_SierraVenture_US)[^ref-3]
-- [Official Dark Crystal Website Recreation](https://www.darkcrystal.com/galleries/dark-crystal-galleries/play/)[^ref-18]
+
+**Manuals & Extras**
+- [Atarimania entry (instructions PDF and The Book of Atari Software review)](https://www.atarimania.com/game-atari-400-800-xl-xe-hi-res-adventure-6-the-dark-crystal_2468.html)[^ref-13]
 
 **Community Resources**
 - [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/appleii/564085-the-dark-crystal/faqs/1542)[^ref-10]
-- [RetroAchievements Support](https://retroachievements.org/game/18957)[^ref-27]
+- [RetroAchievements](https://retroachievements.org/game/18957)[^ref-27]
 
 ## See Also
 
@@ -160,45 +148,30 @@ A tabletop RPG version was also released by River Horse Games in 2022[^ref-23], 
 - [[1982 - Adventure in Serenia]]
 - [[1982 - Hi-Res Adventure 5 - Time Zone]]
 - [[1984 - Gelfling Adventure]]
+- The Dark Crystal: Age of Resistance Tactics (BonusXP / En Masse Entertainment, 2020): an unrelated modern tactics game in the same franchise[^ref-19]
 
 ## References
 
-[^ref-1]: [Adventure Gamers - The Dark Crystal](https://web.archive.org/web/20231203120126/https://adventuregamers.com/games/view/34905) – - Game title, developer, designer, publisher information and story description
-[^ref-2]: [Alex Bevilacqua Blog - The Dark Crystal Review](https://alexbevi.com/blog/2023/12/08/the-dark-crystal/) – - Technical details, ADL engine information, review score, and development insights
-[^ref-3]: [Internet Archive - Hi-Res Adventure #6](https://archive.org/details/cssa8d_Hi_Res_Adventure_6_The_Dark_Crystal_1984_SierraVenture_US) – - Atari 8-bit preservation, copy protection details, technical specifications
-[^ref-4]: [Blue Renga Blog - Development History](https://bluerenga.blog/2025/07/01/the-dark-crystal-1983/) – - Roberta Williams quotes, Henson collaboration details, development history
-[^ref-5]: [Hardcore Gaming 101 - The Dark Crystal](http://www.hardcoregaming101.net/dark-crystal-the/) – - Retrospective analysis, graphics enhancements, adaptation assessment
-[^ref-6]: [Sierra Gamers - The Dark Crystal](https://www.sierragamers.com/the-dark-crystal/) – - Historical significance in Sierra's catalog
-[^ref-7]: [Mobygames - Hi-Res Adventure #6](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) – - Platform information and technical specifications
-[^ref-8]: [Lutris - Game Description](https://lutris.net/games/hi-res-adventure-6-the-dark-crystal/) – - Story summary and game setting details
-[^ref-9]: [Dark Crystal Fandom - Computer Game](https://darkcrystal.fandom.com/wiki/The_Dark_Crystal_(computer_game) – ) - Character descriptions and plot summary
-[^ref-10]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/appleii/564085-the-dark-crystal/faqs/1542) – - Gameplay mechanics, puzzle solutions, and player guidance
-[^ref-11]: [Wikipedia - The Dark Crystal Video Game](https://en.wikipedia.org/wiki/The_Dark_Crystal_(video_game) – ) - Interface description and command system details
-[^ref-12]: [UV List - Technical Specifications](https://www.uvlist.net/game-154099-Hi+Res+Adventure+6+The+Dark+Crystal) – - Hardware requirements and input methods
-[^ref-13]: [Atarimania Database Entry](https://www.atarimania.com/game-atari-400-800-xl-xe-hi-res-adventure-6-the-dark-crystal_2468.html) – - Contemporary review scores and media information
-[^ref-14]: [MyAbandonware - The Dark Crystal](https://www.myabandonware.com/game/hi-res-adventure-6-the-dark-crystal-7nz) – - User ratings and community feedback
-[^ref-15]: [RPG.net - Tabletop Review](https://www.rpg.net/reviews/archive/19/19076.phtml) – - Development timeline information
-[^ref-16]: [Glitchwave Database](https://glitchwave.com/game/the-dark-crystal/) – - Development team credits and production details
-[^ref-17]: [DBpedia - The Dark Crystal Video Game](https://dbpedia.org/page/The_Dark_Crystal_(video_game) – ) - File size data across different platforms
-[^ref-18]: [Official Dark Crystal Website](https://www.darkcrystal.com/galleries/dark-crystal-galleries/play/) – - Online recreation availability
-[^ref-19]: [Dark Crystal Fandom - Age of Resistance Tactics](https://darkcrystal.fandom.com/wiki/The_Dark_Crystal:_Age_of_Resistance_Tactics) – - Modern game development and publication details
-[^ref-20]: [Metacritic - Age of Resistance Tactics](https://www.metacritic.com/game/switch/the-dark-crystal-age-of-resistance-tactics) – - Review aggregation and critical reception
-[^ref-21]: [IGN - Age of Resistance Tactics Review](https://www.ign.com/articles/the-dark-crystal-age-of-resistance-tactics-review) – - User interface criticism and gameplay analysis
-[^ref-22]: [Game Informer Review](https://gameinformer.com/review/the-dark-crystal-age-of-resistance-tactics/the-dark-crystal-age-of-resistance-tactics-review) – - Critical assessment of adaptation quality
-[^ref-23]: [River Horse Games - Adventure Game](https://www.riverhorsegames.com/products/the-dark-crystal-adventure-game) – - Tabletop RPG product information
-[^ref-24]: [Steam Store - Age of Resistance Tactics](https://store.steampowered.com/app/1097790/The_Dark_Crystal_Age_of_Resistance_Tactics/) – - Digital availability and technical specifications
-[^ref-25]: [PlayStation Store Listing](https://store.playstation.com/en-us/product/UP2492-CUSA17833_00-DRKCRYSTALTACTIC) – - Console availability and user ratings
-[^ref-26]: [Nintendo Store](https://www.nintendo.com/us/store/products/the-dark-crystal-age-of-resistance-tactics-switch/) – - Switch version specifications and features
-[^ref-27]: [RetroAchievements - The Dark Crystal](https://retroachievements.org/game/18957) – - Community preservation and achievement support
-[^ref-28]: [GameFAQs Database](https://gamefaqs.gamespot.com/appleii/564085-the-dark-crystal) – - Game information and user ratings
-[^ref-29]: [Collider Review - Age of Resistance Tactics](https://collider.com/dark-crystal-video-game-review/) – - Contemporary review of modern adaptation
-[^ref-30]: [OpenCritic - Age of Resistance Tactics](https://opencritic.com/game/8781/the-dark-crystal-age-of-resistance-tactics/reviews) – - Aggregated professional review scores and quotes
-[^ref-31]: [PC Gamer Review](https://www.pcgamer.com/the-dark-crystal-age-of-resistance-tactics-review/) – - Professional assessment of modern tactics game
-[^ref-32]: [Steam Community Discussions](https://steamcommunity.com/app/1097790) – - User community feedback and gameplay discussions
-[^ref-33]: [Nintendo World Report Review](http://www.nintendoworldreport.com/review/52746/the-dark-crystal-age-of-resistance-tactics-review) – - Console-specific review and analysis
-[^ref-34]: [Tough Pigs Review](https://www.toughpigs.com/dark-crystal-age-of-resistance-tactics/) – - Fan site perspective and early gameplay impressions
-[^ref-35]: [Metacritic Critic Reviews](https://www.metacritic.com/game/the-dark-crystal-age-of-resistance-tactics/critic-reviews/?platform=nintendo-switch) – - Comprehensive critic review compilation
-[^ref-36]: [Metacritic Platform Overview](https://www.metacritic.com/game/the-dark-crystal-age-of-resistance-tactics/) – - Multi-platform review aggregation
-[^ref-37]: [Game Dork's Corner Board Game Review](http://www.gamedorkscorner.com/2018/06/board-game-review-jim-hensons-dark.html) – - Related board game assessment for context
-[^ref-38]: [MobyGames – The Dark Crystal reviews](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/reviews/) – Review scores and critical assessments
-[^ref-39]: [MobyGames – The Dark Crystal credits](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/credits/) – Full development credits, release year, developer, and publisher information
+[^ref-1]: [Adventure Gamers - The Dark Crystal (archived Dec 2023)](https://web.archive.org/web/20231203120126/https://adventuregamers.com/games/view/34905) – game description text, 30th-anniversary re-creation note, 2022 flashback review summary
+[^ref-2]: [Alex Bevilacqua - The Dark Crystal (On-Line Systems) - 1983](https://alexbevi.com/blog/2023/12/08/the-dark-crystal/) – ADL engine, verb/noun parser, palette remarks, 28% revised score
+[^ref-4]: [The Renga in Blue - The Dark Crystal (1983)](https://bluerenga.blog/2025/07/01/the-dark-crystal-1983/) – Jason Dyer, 2025: Cerf's role, Henson collaboration, 1982 TV interview quotes, Toy Fair Feb 1983 preview, disk swaps, third-person shift
+[^ref-5]: [Hardcore Gaming 101 - The Dark Crystal](http://www.hardcoregaming101.net/dark-crystal-the/) – 2021 retrospective by Mat Bradley-Tschirgi: origins after Time Zone, Mahon graphics, Japanese versions, Gelfling Adventure, web remake
+[^ref-6]: [Sierra Gamers - The Dark Crystal](https://www.sierragamers.com/the-dark-crystal/) – release year 1983; previous game in series: Time Zone
+[^ref-7]: [MobyGames - Hi-Res Adventure #6: The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) – platforms and release dates, Starcraft Japanese versions, Yosemite Software Products Atari port, 2020 browser version
+[^ref-8]: [Lutris - Hi-Res Adventure #6: The Dark Crystal](https://lutris.net/games/hi-res-adventure-6-the-dark-crystal/) – setting and plot summary
+[^ref-9]: [Dark Crystal Wiki - The Dark Crystal (computer game)](https://darkcrystal.fandom.com/wiki/The_Dark_Crystal_%28computer_game%29) – official product description; Kira and Fizzgig
+[^ref-10]: [GameFAQs - The Dark Crystal walkthrough](https://gamefaqs.gamespot.com/appleii/564085-the-dark-crystal/faqs/1542) – walkthrough by "The Elven Adventurer": no-score note, movie hint, ending
+[^ref-11]: [Wikipedia - The Dark Crystal (video game)](https://en.wikipedia.org/wiki/The_Dark_Crystal_%28video_game%29) – SierraVenture label, Gelfling Adventure (1984)
+[^ref-12]: [UVList - Hi-Res Adventure #6: The Dark Crystal](https://www.uvlist.net/game-154099-Hi+Res+Adventure+6+The+Dark+Crystal) – external review scores (average 65.3%, median 66.5%), single player, keyboard
+[^ref-13]: [Atarimania - Hi-Res Adventure #6: The Dark Crystal](https://www.atarimania.com/game-atari-400-800-xl-xe-hi-res-adventure-6-the-dark-crystal_2468.html) – Atari 8-bit entry; programmer Chris Iden; reprints The Book of Atari Software (1984) review, rated A-
+[^ref-14]: [MyAbandonware - Hi-Res Adventure #6: The Dark Crystal](https://www.myabandonware.com/game/hi-res-adventure-6-the-dark-crystal-7nz) – user rating 5/5 (9 votes)
+[^ref-16]: [Glitchwave - The Dark Crystal](https://glitchwave.com/game/the-dark-crystal/) – Apple II release on 2x 5.25" floppy
+[^ref-18]: [The Dark Crystal (official site) - Play](https://www.darkcrystal.com/galleries/dark-crystal-galleries/play/) – The Jim Henson Company's free re-creation of the computer game
+[^ref-19]: [Dark Crystal Wiki - The Dark Crystal: Age of Resistance Tactics](https://darkcrystal.fandom.com/wiki/The_Dark_Crystal:_Age_of_Resistance_Tactics) – developer BonusXP, publisher En Masse Entertainment, released February 4, 2020
+[^ref-27]: [RetroAchievements - The Dark Crystal](https://retroachievements.org/game/18957) – Apple II achievement set
+[^ref-38]: [MobyGames – The Dark Crystal reviews](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/reviews/) – critic average 86% (3 ratings); player average 4.1/5
+[^ref-39]: [MobyGames – The Dark Crystal credits](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/credits/) – Apple II credits: Roberta Williams; Ken Williams and Chris Iden; editor Christopher Cerf; graphics director Jim Mahon
+[^ref-40]: [Creative Computing, Vol. 9 No. 3 (March 1983), p. 168 - "The Dark Crystal" by John Anderson](https://www.atarimagazines.com/creative/v9n3/168_The_dark_crystal.php) – "first computer adventure to be based on a feature film"; "a little over a month"; planned Apple, Atari, IBM, C64 versions
+[^ref-41]: [Hi-Res, Vol. 1 No. 3 (March 1984) - Reviews: The Dark Crystal by Mark S. Murley](https://www.atarimagazines.com/hi-res/v1n3/reviews.php) – Atari version: three double-sided disks, Side A-only copy protection, verb-noun parser, linear design
+[^ref-42]: [Softline, May–June 1983 (Internet Archive)](https://archive.org/details/Softline_1983_05_06) – review: "In a way, it's better than the movie"; Jim Mahon's graphics; "delightful"
+[^ref-43]: [The Dark Crystal (official site) - Play, archived July 2013](http://web.archive.org/web/20130721162232/http://www.darkcrystal.com/play/) – "We invite you to play our re-creation of The Dark Crystal computer game"; © 2013 The Jim Henson Company
