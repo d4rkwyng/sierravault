@@ -118,7 +118,7 @@ The Sierra Chest lists the Hoyle Casino 3 demo as included with these Sierra rel
 
 ### Successor Products
 
-The next edition, catalogued by the Sierra Chest as Hoyle Casino 4, was first released on September 20, 1999[^ref-23]; see [[2000 - Hoyle Casino]].
+The next edition, catalogued by the Sierra Chest as Hoyle Casino 4, was first released on September 20, 1999[^ref-23].
 
 ## Downloads
 
