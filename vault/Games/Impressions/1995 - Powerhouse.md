@@ -10,20 +10,20 @@ series: Standalone
 engine: WinG
 protagonist: Player as Powerhouse CEO
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-05-08'
+last_updated: '2026-10-13'
 description: PowerHouse is a business simulation game released in May 1995, developed
   by Edward Grabowski Communications Ltd. and published by Impressions Games. The...
 tags: [1990s, impressions, sierra, simulation, standalone]
 ---
 # PowerHouse
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
 PowerHouse is a business simulation game released in May 1995, developed by Edward Grabowski Communications Ltd. and published by Impressions Games[^ref-1][^ref-2][^ref-3]. The game places players in the role of a CEO managing a mega-corporation competing to dominate the global energy market in a dystopian near-future setting[^ref-4]. Drawing inspiration from both cyberpunk fiction and films like RoboCop, PowerHouse represented Impressions Games' first venture into Windows-based gaming, utilizing the WinG interface to overcome the graphics overhead challenges common to Windows 3.x applications[^ref-5].
 
-Following the success of Detroit, Impressions turned its attention to simulating the energy sector, creating what was described as their "most streamlined, attractive, and playable niche game" up to that point[^ref-6][^ref-7]. The game features Super VGA graphics and was distributed on CD-ROM, offering players the opportunity to research and exploit nine different forms of power generation while engaging in corporate espionage, sabotage, and cutthroat competition[^ref-5][^ref-6]. Despite its ambitious scope, the game received mixed reviews, with critics praising its depth while noting issues with the AI and economic modeling[^ref-7].
+After simulating the automobile industry with Detroit, Impressions turned its attention to the energy sector[^ref-4][^ref-21]. PC Gamer's T. Liam McDonald wrote that with "a handsome Windows interface, Super-VGA graphics, and some multimedia tinsel, they have created their most streamlined, attractive, and playable game yet"[^ref-17]. The game was distributed on CD-ROM and puts nine forms of power at the player's disposal, alongside sabotage, espionage and other "unique operations" against rival companies[^ref-5][^ref-17]. Reviews were mixed: PC Gamer, PC Games and Next Generation were positive, while Computer Gaming World rated it 2 out of 5, faulting its play balance and bugs[^ref-5][^ref-17][^ref-18][^ref-19].
 
 > [!info]- Game Info
 > **Developer:** Edward Grabowski Communications Ltd.[^ref-1]
@@ -38,7 +38,7 @@ Following the success of Detroit, Impressions turned its attention to simulating
 
 ## Story Summary
 
-PowerHouse is set in a dystopian future where a worldwide energy crisis has reached catastrophic proportions[^ref-7]. In response to the crisis, the United Nations creates a competition between four mega-corporations, tasking them with solving the world's energy problems through any means necessary[^ref-7]. The player takes on the role of a CEO of one of these corporations, starting with nothing but capital and business acumen[^ref-4].
+PowerHouse is set in 2020, in a dystopian future where a worldwide energy crisis has reached catastrophic proportions[^ref-7][^ref-20]. In response to the crisis, the United Nations, now the governing body for the world, creates four megacorporations on the idea that competition will bring a revolution in energy research and an end to the crisis[^ref-20]. The player takes on the role of a CEO of one of these corporations, starting with nothing but capital and business acumen[^ref-4].
 
 The game's narrative framework draws heavily from cyberpunk fiction and the RoboCop films, presenting a world where corporate power has superseded governmental authority[^ref-5]. Video sequences throughout the game provide glimpses into this cutthroat corporate future, establishing a vivid backdrop of ruthless competition and moral ambiguity[^ref-5]. The player must navigate this treacherous landscape while deciding how to meet the demands of an energy-hungry world.
 
@@ -48,72 +48,60 @@ As the game progresses, players face existential questions about their approach 
 
 ### Interface and Controls
 
-PowerHouse features a Windows-based point-and-click interface with top-down perspective, utilizing mouse input for all interactions[^ref-1]. The game was specifically designed to take advantage of the WinG interface, which allowed Impressions to bypass the graphics overhead problems that plagued many early Windows games[^ref-5]. This technical decision enabled the game to run smoothly with Super VGA graphics while maintaining the complex simulation underneath[^ref-5].
+PowerHouse features a Windows-based point-and-click interface with top-down perspective, utilizing mouse input for all interactions[^ref-1]. The game was specifically designed to take advantage of the WinG interface, which allowed Impressions to bypass the graphics overhead problems that plagued many early Windows games[^ref-5]. Super VGA was chosen to allow crisper graphics than most strategy games of the era[^ref-5].
 
-The interface presents players with a comprehensive array of charts, graphs, and data displays to help manage their energy empire[^ref-5]. The designers emphasized that they were making "games, not spreadsheets with graphics," though the depth of economic data available meant players would need to study these displays carefully to make informed decisions[^ref-5].
+The interface presents players with "countless charts, graphics, pie charts, and monthly reports" to track progress, in PC Gamer's words[^ref-17]; Next Generation called it a "mind-boggling array of charts and graphs"[^ref-14]. The designers emphasized, "We make games, not spreadsheets with graphics"[^ref-5][^ref-8].
 
 ### Structure and Progression
 
-PowerHouse operates as a turn-based strategy game where players manage every aspect of their energy corporation[^ref-1]. The game offers nine distinct forms of power generation to research and develop[^ref-6]:
-
-- **Coal:** Traditional fossil fuel with established infrastructure
-- **Oil:** High-value but finite resource
-- **Gas:** Natural gas extraction and distribution
-- **Solar:** Renewable energy requiring significant research investment
-- **Nuclear:** Powerful but controversial power source
-- **Wind:** Environmentally friendly alternative energy
-- **Wave:** Ocean-based power generation
-- **Tidal:** Harnessing tidal forces for electricity
-- **Geothermal:** Underground heat-based energy production
+PowerHouse operates as a turn-based strategy game where players manage every aspect of their energy corporation[^ref-1]. The player and three opponents start in a single territory and must meet its energy needs, hiring surveyors to determine the most profitable form of energy for each square[^ref-17]. PC Gamer lists nine forms of power: coal, oil, gas, solar, nuclear, wind, wave, tidal, and geothermal; "Some are more profitable than others, some more environmentally sound, some cheaper to maintain or easier to exploit"[^ref-17]. Governments vary in their tolerance of pollution, and researchers can improve each technology[^ref-17].
 
 Players begin with financial capital and must make strategic decisions about which energy sectors to invest in, balancing short-term profitability against long-term sustainability[^ref-4]. The game incorporates a wide variety of economic variables as players attempt to build their corporate empire[^ref-7].
 
 ### Puzzles and Mechanics
 
-Beyond straightforward energy production and sales, PowerHouse includes what the developers called "unique operations" that allow players to engage in corporate warfare[^ref-6]. These mechanics include:
+Beyond energy production and sales, players can buy and trade stock, borrow money to expand, and conduct "unique operations" against rivals[^ref-17]. According to PC Gamer, these "range from sabotage, espionage, and slander to bribing government officials," adding "a twist that was promised for, but left out of, Transport Tycoon"[^ref-17].
 
-- **Sabotage:** Directly interfering with competitors' operations
-- **Espionage:** Gathering intelligence on rival corporations
-- **Slander:** Using media manipulation to damage competitors' reputations
-
-These features were notably similar to mechanics originally promised for but ultimately left out of Transport Tycoon, giving PowerHouse a distinctive edge in the business simulation genre[^ref-6]. The complexity of the economic simulation means players must carefully study the manual to understand all the elements of play, though this depth was viewed as appropriate given the multifaceted nature of the global energy market[^ref-6].[^ref-18]
+PC Gamer warned, "It'll take a few passes through the manual to understand the elements of play, but that's only because this is a complex subject and a multifaceted game"[^ref-17].
 
 ## Reception
 
 ### Contemporary Reviews
 
-PowerHouse received generally favorable reviews upon release in 1995, with critics appreciating its ambition while noting some shortcomings in execution.
+PowerHouse received mixed reviews upon release in 1995, ranging from Computer Gaming World's 2 out of 5 to PC Games' 82%[^ref-5].
 
-**Computer Game Review** awarded the game 77/100 in their September 1995 issue, with reviewers Frank Snyder, Ted Chapman, and Tasos Kaiafas concluding that "Strategy gamers should get a charge from it, others might get shocked"[^ref-5].
+**Computer Game Review** awarded the game 77/100 in their September 1995 issue, with reviewers Frank Snyder, Ted Chapman, and Tasos Kaiafas concluding that "Strategy gamers should get a charge from it, others might get shocked"[^ref-5][^ref-20]. Its listed downside: "No on-line help function available within program means quality time with game manual"[^ref-20].
 
-**PC Gamer (US)** gave PowerHouse an 80% score in September 1995, with reviewer T. Liam MacDonald providing a positive assessment of the business simulation.[^ref-5][^ref-17]
+**PC Gamer (US)** gave PowerHouse an 80% score in September 1995[^ref-5]. Reviewer T. Liam McDonald praised its "Engaging mix of economics, strategy, and dirty deeds" but found that "Long-term play seems redundant," concluding "Another winner from Impressions"[^ref-17].
+
+**Computer Gaming World** rated it 2 out of 5 in October 1995[^ref-5]. Martin E. Cirulis called it "another game released before its time," writing that "The game system needs a lot of fine-tuning, and even the program is pretty buggy," and that by the tenth year "the average player is so rich that any problems incurred are irrelevant"[^ref-19].
 
 **Hyper** magazine's Chris Wheeler rated the game 75/100 in September 1995[^ref-5].
 
-The German publication **PC Games** was particularly enthusiastic, with Petra Maueröder awarding an 82% score in September 1995[^ref-5].
+The German publication **PC Games** was particularly enthusiastic, with Petra Maueröder awarding an 82% score in September 1995 and calling it "Empfehlenswert!" (recommended)[^ref-5][^ref-18].
 
 **Next Generation** gave the game 4 out of 5 stars in October 1995, noting that "Looking at the mind-boggling array of charts and graphs in the game will provide some answers, but when all is said and done, making those decisions is up to you, and that's where the real fun in this economic simulation lies."[^ref-5][^ref-14]
 
 ### Modern Assessment
 
-Later assessments of PowerHouse have been more critical. Home of the Underdogs described the game as having "an over-ambitious attempt to incorporate all manners of energy and a lot of economic variables" that "result in a confusing game with a weak AI, dubious economic model, and boring gameplay where random events hardly occur and nothing seems to be going on"[^ref-7][^ref-4].
+Home of the Underdogs was critical, writing that "The game's over-ambitious attempt to incorporate all manners of energy and a lot of economic variables result in a confusing game with a weak AI, dubious economic model, and boring gameplay where random events hardly occur and nothing seems to be going on"[^ref-21].
 
-One retrospective noted that "PowerHouse comes close to being that game but for an inexplicable reason one of the most important and obvious ingredients is missing which knocks the game down a peg or two"[^ref-7].
+The review hosted on Old-Games.com was kinder, noting that "PowerHouse comes close to being that game but for an inexplicable reason one of the most important and obvious ingredients is missing which knocks the game down a peg or two" (the missing ingredient being meaningful help in learning the game), and praising its "good AI competition" once learned[^ref-7].
 
 **Aggregate Scores:**
-- **MobyGames Critics:** 66% average (9 reviews)[^ref-1]
-- **MobyGames Players:** 3.6 out of 5 (2 ratings)[^ref-1]
+- **MobyGames Critics:** 66% average (10 reviews)[^ref-1]
+- **MobyGames Players:** 2 ratings[^ref-1]
 - **MobyGames Moby Score:** 6.8[^ref-1]
 - **GameFAQs:** Fair (4 user ratings)[^ref-9]
-- **My Abandonware:** 4 out of 5[^ref-4]
+- **My Abandonware:** 4 out of 5 (1 vote)[^ref-4]
 
 ## Development
 
 ### Origins
 
-PowerHouse emerged from Impressions Games' desire to expand their business simulation portfolio beyond their successful Detroit automobile industry game[^ref-4][^ref-7]. The developers were inspired by oil tycoon games and real-world concerns about the energy crisis, envisioning a game that would let players experience the challenges of managing global energy production[^ref-5].
+PowerHouse followed Impressions' automobile-industry simulation Detroit[^ref-4][^ref-21]. The designers wished to "recapture the fun" of older oil tycoon simulation games, and were also inspired by the real-world search for a solution to a looming energy crisis[^ref-5].
 
-The creative team, led by Edward Grabowski, drew inspiration from cyberpunk fiction and the RoboCop films to create a dystopian corporate future setting[^ref-5]. The designers planned for video sequences that would "provide glimpses into the cutthroat, corporate world of the future, providing a vivid backdrop for the game that takes its cues from both cyberpunk fiction and the RoboCop films"[^ref-5].
+The design team of Edward Grabowski, David Lester and Chris Foster drew inspiration from cyberpunk fiction and the RoboCop films to create a dystopian corporate future setting[^ref-5]. The designers planned for video sequences that would "provide glimpses into the cutthroat, corporate world of the future, providing a vivid backdrop for the game that takes its cues from both cyberpunk fiction and the RoboCop films"[^ref-5].
 
 ### Production
 
@@ -121,7 +109,7 @@ Development of PowerHouse was completed in May 1995[^ref-2][^ref-3]. The game re
 
 The team's solution was to utilize the WinG interface, which allowed PowerHouse to bypass Windows' graphics overhead problems while still taking advantage of the operating system's features[^ref-5]. The developers emphasized their philosophy of creating engaging games rather than mere "spreadsheets with graphics," striving to make the complex economic simulation accessible and entertaining[^ref-5].
 
-An Amiga version of PowerHouse was previewed during development by publications including Amiga Action and CU Amiga, but was ultimately never released, likely due to Commodore's bankruptcy and the platform's declining market share.[^ref-5][^ref-15][^ref-16]
+An Amiga version of PowerHouse was previewed during development by publications including Amiga Action and CU Amiga, but was never released[^ref-5][^ref-15][^ref-16].
 
 **Development Credits:**[^ref-1]
 
@@ -131,58 +119,59 @@ An Amiga version of PowerHouse was previewed during development by publications 
 
 ### Technical Achievements
 
-PowerHouse's most significant technical achievement was its successful implementation on Windows 3.x using the WinG graphics interface[^ref-5]. While many early Windows games suffered from poor performance due to the operating system's graphics overhead, Impressions' use of WinG allowed PowerHouse to render Super VGA graphics smoothly while maintaining the complex economic simulation running underneath[^ref-5].
+PowerHouse's most significant technical achievement was its successful implementation on Windows 3.x using the WinG graphics interface[^ref-5]. Impressions had previously avoided Windows because of the graphics overhead, and WinG let PowerHouse bypass that problem, making it their first Windows product[^ref-5].
 
-The game featured CD-ROM distribution, allowing for multimedia content including video sequences that enhanced the cyberpunk atmosphere[^ref-5]. This combination of high-resolution graphics, video content, and deep simulation was ambitious for Windows gaming in 1995.
+The CD-ROM format allowed extensive photographs, full-motion video and digitized voice acting[^ref-5]. PC Gamer was unimpressed by the video, calling the clips "small, and mostly useless"[^ref-17].
 
 ### Technical Specifications
 
-**CD-ROM Version:**[^ref-1][^ref-6]
+**CD-ROM Version:**[^ref-1][^ref-17]
 - **Resolution:** Super VGA
 - **Input:** Mouse
 - **Perspective:** Top-down
 - **Interface:** Point and select
 - **Media:** CD-ROM
-- **Minimum CPU:** 80486/33 MHz[^ref-6]
-- **RAM:** 16 MB[^ref-6]
-- **File Size:** Approximately 8.82 MB (download)[^ref-7] to 222 MB (full archive)[^ref-4]
+- **Operating System:** Windows 3.1[^ref-18][^ref-20]
+- **Minimum:** 386SX or faster, 4 MB RAM, SVGA, CD-ROM drive, 10 MB hard-drive space, mouse[^ref-17]
+- **Recommended:** 486DX, 8 MB RAM, double-speed CD-ROM, supported sound card[^ref-17]
+
+Computer Game Review (386, 4 MB RAM; 486, 8 MB recommended), Computer Gaming World (386, 486 or better recommended) and PC Games (386, 4 MB RAM, Windows 3.1) list matching requirements[^ref-18][^ref-19][^ref-20].
 
 ### Cut Content
 
-An Amiga version of PowerHouse was previewed during the development period but was never released[^ref-5]. This cancellation likely resulted from Commodore International's financial troubles and eventual bankruptcy, which severely impacted the Amiga platform's commercial viability during this period.
+An Amiga version of PowerHouse was previewed during the development period but was never released[^ref-5][^ref-15][^ref-16].
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | May 1995 | Windows 3.x/16-bit | Initial release[^ref-2][^ref-3] |
-
-A PowerHouse Update patch was made available through Sierra Help, though specific details about what the update addressed are not documented[^ref-10].
+| 1.1 | — | Windows 3.x/16-bit | Patch (POWER11.ZIP): game length option of 20, 40, 60, 80 or 100 years; fixes general protection faults in POWER.EXE and USER.EXE and pipe-removal errors; addresses palette issues in Windows 95[^ref-10] |
 
 ### Technical Issues
 
-Critics and players identified several issues with PowerHouse's gameplay systems[^ref-7][^ref-4]:[^ref-8]
+Reviewers disagreed about several aspects of PowerHouse:
 
-- **Weak AI:** Computer-controlled competitors were not sufficiently challenging
-- **Dubious economic model:** The game's simulation of energy markets was questioned for accuracy
-- **Lack of in-game support:** Players needed to rely heavily on the printed manual
-- **Random events:** Critics noted that random events hardly occurred, making gameplay feel static
-- **Manual inadequacy:** The printed documentation provided insufficient details for understanding the complex systems
+- **Play balance and economy:** Computer Gaming World found the game "so out of balance with itself" that players grow too rich for problems to matter, with a "completely useless" stock market and overly generous debt[^ref-19]; Home of the Underdogs called the economic model "dubious"[^ref-21]. The v1.1 patch's game-length option allows shorter games than the 100-year default[^ref-10][^ref-19].
+- **Bugs:** Computer Gaming World called the program "pretty buggy," noting it sometimes dropped to DOS when exiting a game[^ref-19]; v1.1 fixed several general protection faults[^ref-10].
+- **AI:** Home of the Underdogs called the AI weak[^ref-21], but PC Gamer found "a respectable enough computer opponent"[^ref-17] and the Old-Games.com review praised its "good AI competition"[^ref-7].
+- **Random events:** Home of the Underdogs wrote that "random events hardly occur"[^ref-21], whereas PC Games credited countless random events (wars, natural disasters) with keeping play varied[^ref-18].
+- **Help and documentation:** Computer Game Review noted the lack of on-line help within the program[^ref-20], and the Old-Games.com review found a "Frustrating lack of meaningful help (either in-game or manual based)"[^ref-7].
 
 ### Easter Eggs and Trivia
 
 - PowerHouse was Impressions Games' first Windows product, marking their transition from DOS-based development[^ref-5]
-- The game incorporated features (sabotage, espionage, slander) that were originally promised for but left out of Transport Tycoon[^ref-6]
-- The cyberpunk aesthetic and corporate warfare themes were directly influenced by the RoboCop film series[^ref-5]
+- PC Gamer noted that its "unique operations" (sabotage, espionage, slander, bribery) were "a twist that was promised for, but left out of, Transport Tycoon"[^ref-17]
+- The designers said the game "takes its cues from both cyberpunk fiction and the RoboCop films"[^ref-5]
 - The game was included in the "Game Addict's Massive Pack" compilation released in 1997[^ref-1]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-While specific sales figures for PowerHouse are not documented, the game achieved enough commercial success to be included in compilation packages. It was bundled in the "Game Addict's Massive Pack" in 1997, giving it continued distribution beyond its initial retail release[^ref-1].
+No sales figures for PowerHouse have been found. It was later bundled in the "Game Addict's Massive Pack" (1997)[^ref-1].
 
-The game ranked #17,663 of approximately 27,600 games on MobyGames' overall database and #108 among Windows 16-bit titles, indicating modest but not exceptional long-term recognition[^ref-1]. The game has been collected by only 4 players on MobyGames, suggesting a small but dedicated fan base[^ref-1].
+On MobyGames the game's Moby Score ranks #18,523 of about 29,200 games and #114 among Windows 16-bit titles, and it has been collected by 6 users[^ref-1].
 
 ### Collections
 
@@ -193,18 +182,6 @@ PowerHouse appeared in the following compilation:
 
 - **PowerHouse Manual and Tutorial Guide:** Included with the game, available through Internet Archive[^ref-11]
 - **Quick Reference Card:** Supplementary documentation for quick access to game controls[^ref-12]
-
-### Critical Perspective
-
-PowerHouse represents an ambitious but flawed attempt to simulate the complexities of the global energy industry during the mid-1990s business simulation boom. While games like SimCity and Transport Tycoon achieved mainstream success by making complex systems accessible, PowerHouse struggled to balance its depth with playability.
-
-The game's significance lies partly in its timing—released during a period when concerns about energy sustainability were gaining public attention, and when business simulations were a popular genre. Its cyberpunk framing, drawing from RoboCop's satirical corporate dystopia, gave the energy simulation an edge that distinguished it from more straightforward competitors.
-
-However, PowerHouse also demonstrates the challenges of early Windows game development. As Impressions' first Windows title, it served as a learning experience for the company's transition away from DOS. The decision to use WinG showed technical innovation, even if the underlying game design received mixed reception. The cancelled Amiga version reflects the broader industry shifts occurring during this period, as established platforms gave way to Windows-based PC gaming.
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 
@@ -223,7 +200,8 @@ However, PowerHouse also demonstrates the challenges of early Windows game devel
 **Information**
 - [GameFAQs – PowerHouse](https://gamefaqs.gamespot.com/pc/564487-powerhouse)[^ref-9]
 - [MobyGames – PowerHouse](https://www.mobygames.com/game/2896/powerhouse/)[^ref-1]
-- [Sierra Chest – PowerHouse](https://www.sierrachest.com/index.php?a=games)[^ref-13]
+- [Sierra Chest – PowerHouse](https://www.sierrachest.com/index.php?a=games&id=487)[^ref-13]
+- [Home of the Underdogs – PowerHouse](https://www.homeoftheunderdogs.net/game.php?name=PowerHouse)[^ref-21]
 
 ## See Also
 
@@ -252,17 +230,18 @@ However, PowerHouse also demonstrates the challenges of early Windows game devel
 [^ref-3]: [Internet Archive – Edward Grabowski's Website](https://web.archive.org/web/20240527063715/http://www.edwardgrabowski.com/games.html) – release date (May 1995), developer, publisher
 [^ref-4]: [MyAbandonware – PowerHouse](https://www.myabandonware.com/game/powerhouse-ff4) – platform (Windows 3.x), user rating, file size, game description
 [^ref-5]: [Wikipedia – Powerhouse (video game)](https://en.wikipedia.org/wiki/Powerhouse_(video_game)) – designers, contemporary reviews with scores, technical specs, development notes, WinG interface, cyberpunk influences, Amiga cancellation, developer quotes
-[^ref-6]: Old PC Gaming – PowerHouse (link removed: site offers game downloads) – technical requirements, nine power types, gameplay features, Transport Tycoon comparison
-[^ref-7]: [Old-Games.com – PowerHouse](https://www.old-games.com/download/5486/powerhouse) – criticism (weak AI, economic model), Detroit predecessor, file size
-[^ref-8]: [Computer Games Strategy Plus – February 1995 (Issue 51)](https://archive.org/details/computer-games-strategy-plus-issue-51-february-1995_202409/page/22/mode/2up) – Design Notes by David Lester and Chris Foster, pp. 22-23
+[^ref-7]: [Old-Games.com – PowerHouse](https://www.old-games.com/download/5486/powerhouse) – site review (help/manual criticism, "good AI competition"), reproduces HOTU description
+[^ref-8]: [Computer Games Strategy Plus – February 1995 (Issue 51)](https://archive.org/details/computer-games-strategy-plus-issue-51-february-1995_202409/page/22/mode/2up) – Design Notes by David Lester and Chris Foster, pp. 22-23 ("We make games, not spreadsheets with graphics")
 [^ref-9]: [GameFAQs – PowerHouse](https://gamefaqs.gamespot.com/pc/564487-powerhouse) – developer, publisher, platform, user ratings
-[^ref-10]: [Sierra Help – Patches & Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates.html) – PowerHouse Update existence
+[^ref-10]: [Sierra Help – Miscellaneous Games Updates: PowerHouse](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/MiscGamesUpdates.html#PowerHouse) – PowerHouse Update (power11) to v1.1: game length option, GPF and pipe fixes, Windows 95 palette issues
 [^ref-11]: [Internet Archive – PowerHouse Manual](https://archive.org/details/powerhouse-manual/page/n56/mode/1up) – manual and tutorial guide availability, 1995 publication
 [^ref-12]: [ReplacementDocs – PowerHouse](http://www.replacementdocs.com/download.php?view.8244) – Quick Reference Card documentation
-[^ref-13]: [Sierra Chest – Games List](https://www.sierrachest.com/index.php?a=games) – game listed in Sierra catalog
+[^ref-13]: [Sierra Chest – PowerHouse](https://www.sierrachest.com/index.php?a=games&id=487) – game entry (first release 1995-06-12, Impressions Games)
 [^ref-14]: [Next Generation Magazine – October 1995 (Issue 10)](https://archive.org/details/nextgen-issue-010/page/n120/mode/1up) – review 4/5 stars, gameplay analysis (p. 119)
 [^ref-15]: [Amiga Action Magazine – May 1995 (Issue 70)](https://archive.org/details/amigaaction70/page/n52/mode/1up) – Amiga preview (p. 53)
 [^ref-16]: [CU Amiga Magazine – July 1995 (Issue 65)](https://archive.org/details/cuamiga-magazine-065/page/n43/mode/1up) – Martin Davies preview (p. 44)
-[^ref-17]: [PC Gamer US – September 1995 (Issue 16)](https://archive.org/details/pc-gamer-issue-16-september-1995/page/n106/mode/1up) – T. Liam MacDonald review (80%), pp. 105-106
-
-[^ref-18]: [PC Games (German) – September 1995](https://archive.org/details/PC.Games.N036.1995.09-fl0n/page/n115/mode/2up) – Petra Maueröder review (82%), pp. 116-117
+[^ref-17]: [PC Gamer US – September 1995 (Issue 16)](https://archive.org/details/pc-gamer-issue-16-september-1995/page/n106/mode/1up) – T. Liam McDonald review, pp. 105-106: gameplay, nine power types, unique operations, system requirements, verdict
+[^ref-18]: [PC Games (German) – September 1995](https://archive.org/details/PC.Games.N036.1995.09-fl0n/page/n115/mode/2up) – Petra Maueröder review (82%), pp. 116-117: requirements, random events, verdict
+[^ref-19]: [Computer Gaming World – October 1995 (Issue 135)](https://archive.org/details/cgw_museum_pdfs/cgw_135/page/236/mode/1up) – Martin E. Cirulis, "Falling Futures" review, pp. 236, 238: play balance, bugs, requirements
+[^ref-20]: [Computer Game Review – September 1995](https://archive.org/details/computer-game-review-september-1995) – PowerHouse review (Snyder, Chapman, Kaiafas): premise, requirements, "No on-line help function"
+[^ref-21]: [Home of the Underdogs – PowerHouse](https://www.homeoftheunderdogs.net/game.php?name=PowerHouse) – description and criticism (weak AI, dubious economic model, few random events), Detroit predecessor
