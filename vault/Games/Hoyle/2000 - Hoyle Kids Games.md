@@ -11,22 +11,22 @@ series: Hoyle Series
 engine: Unknown/unnamed
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-13'
 description: Hoyle Kids Games 2000 is a compilation of classic children's games released
-  by Sierra On-Line in September 2000 as part of their long-running Hoyle game...
+  by Sierra On-Line in 2000 as part of their long-running Hoyle game...
 tags: [2000s, hoyle-series, sierra]
 ---
 # Hoyle Kids Games 2000
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Hoyle Kids Games 2000 is a compilation of classic children's games released by [[Sierra On-Line]] in September 2000 as part of their long-running Hoyle game series.[^ref-1][^ref-2][^ref-16] The title brought Sierra's familiar format of colorful graphics and internet play to a younger audience, featuring twelve fun titles including Battling Ships, Checkers, Chinese Checkers, Snakes & Ladders, Crazy Eights, Go Fish, Memory Match, Old Maid, War, Hangman, Placer Racer, and Speedy Racer.[^ref-1] Additionally, two bonus games—The Music Game (similar to Simon) and Tic Tac Toe—could be unlocked by players.[^ref-1]
+Hoyle Kids Games 2000 is a compilation of classic children's games released by [[Sierra On-Line]] in 2000 as part of the Hoyle game series. MobyGames dates the Windows release to August 7, 2000, while GameFAQs and Sierra Chest list September 7, 2000.[^ref-1][^ref-2][^ref-5] In MobyGames' description, the title brings Hoyle's "familiar format of internet play and colorful graphics" to a collection of twelve games: Battling Ships, Checkers, Chinese Checkers, Snakes & Ladders, Crazy Eights, Go Fish, Memory Match, Old Maid, War, Hangman, Placer Racer, and Speedy Racer.[^ref-1] Two bonus games, The Music Game (similar to Simon) and Tic Tac Toe, can also be found.[^ref-1]
 
-The game was designed to appeal to families and younger players, supporting both single-player experiences against animated computer opponents and multiplayer sessions with up to four players locally or online.[^ref-1] A standout feature was the Facemaker utility, which allowed players to customize their own character avatars, adding a personal touch to the gaming experience.[^ref-1] An animated talking Genie served as the in-game helper, explaining rules and providing assistance to players who needed guidance.[^ref-1]
+Players compete against built-in animated computer characters, or with up to three other human players on the same computer or over the internet.[^ref-1] The Facemaker utility lets players customize their own character avatar, and an animated talking Genie explains the rules and provides help.[^ref-1]
 
-Released during Sierra's transition period under Havas Interactive ownership, Hoyle Kids Games 2000 represented an effort to expand the Hoyle brand beyond its traditional adult casino and card game audience.[^ref-3] The game was featured prominently in Sierra's 2000-2001 product catalog on page 19, indicating it was considered an important part of their family-friendly lineup.[^ref-4]
+Hoyle Kids Games is one of the titles listed in Wikipedia's overview of the Hoyle series, which began with Hoyle's Official Book of Games: Volume 1 in 1989.[^ref-3] Sierra's Catalogue 2000-2001 included it on page 19, a "Hoyle Range" page tagged with nine Hoyle titles.[^ref-4]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
@@ -41,17 +41,13 @@ Released during Sierra's transition period under Havas Interactive ownership, Ho
 
 ## Story Summary
 
-As a compilation of classic board and card games, Hoyle Kids Games 2000 does not feature a traditional narrative storyline. Instead, the game presents a collection of timeless children's games within a colorful, animated framework.[^ref-1] Players engage with various computer-controlled opponents who have distinct personalities and backstories that add character to the gaming experience.
-
-Among the memorable computer opponents is Marvin, a T-Rex character described as "quite likable" despite being a fierce dinosaur.[^ref-6] According to the character's biography, Marvin is "self-conscious about his tiny arms and still bitter about the Ice Age" but has notably "not eaten an opponent yet."[^ref-6] Another distinctive character is Roswell, described as "the sole survivor of the infamous 'crash' in Roswell, New Mexico," who was subsequently "employed by the government as a janitor at Area 51 to keep this event hidden from the public."[^ref-6]
-
-Captain Scurvy, a pirate character, also appears in the game and notably shares some voice lines with Captain Barnes from the earlier Hoyle Classic Games (1995), suggesting character continuity within the Hoyle universe.[^ref-6] These colorful personalities transformed simple games like Go Fish and Checkers into more engaging experiences for young players.
+As a compilation of classic board and card games, Hoyle Kids Games 2000 does not feature a narrative storyline. Players instead play the collected games against built-in animated computer characters or other human players, using an avatar made with the Facemaker utility.[^ref-1]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Hoyle Kids Games 2000 features an intuitive point-and-click interface designed specifically for younger players.[^ref-7] The game supports mouse control as the primary input method, making it accessible to children who may not be familiar with keyboard commands.[^ref-7] Players navigate through menus and game boards by clicking on cards, game pieces, or interface elements.
+The game uses a mouse-driven, point-and-select interface.[^ref-1][^ref-7]
 
 ### Structure and Progression
 
@@ -77,50 +73,54 @@ The game includes fourteen different activities organized as follows:[^ref-1]
 
 ### Puzzles and Mechanics
 
-Players can customize their experience using the Facemaker utility, which allows creation of personalized character avatars.[^ref-1] The game includes ten generic voice options that can be assigned to custom-created characters through the Face Creator feature.[^ref-6] Screen background environments where games are played can be altered to the player's liking, and difficulty levels are adjustable to accommodate different skill levels.[^ref-1]
+Players can customize their experience using the Facemaker utility, which allows creation of personalized character avatars.[^ref-1] Screen background environments where games are played can be altered to the player's liking, and difficulty levels are adjustable.[^ref-1]
 
-The game supports various multiplayer configurations, including local play with up to four players on the same computer or online play with up to four players via internet connection.[^ref-1] This made it suitable for family game nights and playdates.
+The game supports up to four players, either on the same computer or online via the internet.[^ref-1]
 
 ## Reception
 
 ### Contemporary Reviews
 
-Hoyle Kids Games 2000 received positive reception upon release. Critics awarded the game an aggregate score of 85%, indicating strong approval for this children's title.[^ref-1]
+MobyGames records a critic average of 85%, based on three critic ratings.[^ref-1]
 
 ### Modern Assessment
 
-User ratings from GameFAQs show the game classified as "Good" based on two user ratings, suggesting it maintained a positive reputation among players who remember it.[^ref-2] The limited number of ratings reflects the game's niche audience and the passage of time since its release.
+GameFAQs users rate the game "Good", based on two user ratings.[^ref-2]
 
 **Aggregate Scores:**
-- **MobyGames Critics:** 85%[^ref-1]
+- **MobyGames Critics:** 85% (3 ratings)[^ref-1]
 - **GameFAQs User Rating:** Good (2 ratings)[^ref-2]
 
 ## Development
 
 ### Origins
 
-Hoyle Kids Games 2000 emerged from Sierra On-Line's strategy to expand their successful Hoyle brand into the children's market.[^ref-3] The Hoyle series had been producing quality card and casino games since 1989, and by 2000, the company recognized an opportunity to create family-friendly content using the established brand recognition.[^ref-3] The game was developed as Sierra On-Line transitioned through various corporate ownerships, ultimately being distributed under the Sierra Entertainment banner.[^ref-2]
+The game was developed and published in-house by Sierra On-Line, Inc.[^ref-1] GameFAQs lists the developer and publisher under the later Sierra Entertainment name.[^ref-2]
 
 ### Production
 
-The development team was led by Producer Michael Katz, who had extensive experience working on the Hoyle game series.[^ref-8] The design team included Rabih AbouJaoudé, Dana Armstrong, Eric Fleming, and Robert L. Jerauld, who collaborated to create an accessible gaming experience for younger audiences.[^ref-1]
+Michael Katz produced the game and is also credited as one of its designers, as principal engineer and project lead, and as a script writer.[^ref-18] His MobyGames profile lists credits on many other Hoyle titles, through Hoyle Puzzle & Board Games (2009).[^ref-8] The design team also included Rabih AbouJaoudé, Dana Armstrong, Eric Fleming, and Robert L. Jerauld.[^ref-1][^ref-18]
 
-Jeff Hoyt served as Script Writer for the project, contributing to the character dialogues and in-game text that brought the animated opponents to life.[^ref-9] Hoyt's involvement with the Hoyle series extended from 1997 to 2011, making him a significant contributor to the brand's voice and personality.[^ref-9]
+Jeff Hoyt was one of six credited script writers and also one of the voice actors.[^ref-18] His MobyGames credits on Hoyle titles run from Hoyle Poker and Hoyle Classic Card Games (1997) to Hoyle Puzzle & Board Games (2009).[^ref-9]
 
-**Development Credits:**[^ref-1][^ref-8][^ref-9]
+**Development Credits (selected):**[^ref-18]
 - **Producer:** Michael Katz
-- **Designers:** Rabih AbouJaoudé, Dana Armstrong, Eric Fleming, Robert L. Jerauld
-- **Script Writer:** Jeff Hoyt
+- **Associate Producers:** Eric Hook, Adam D. Bormann
+- **Designers:** Michael Katz, Rabih AbouJaoudé, Dana Armstrong, Eric Fleming, Robert L. Jerauld
+- **Writer / Book Designer:** Dana Armstrong
+- **Script Writers:** Jeff Hoyt, Cindy Hoyt, Peter Karlin, Michael Katz, Kaefan Shaw, Rodney Sherwood
+- **Composers:** Mike Caviezel, Evan Schiller
+- **Sound Engineers:** Dennis Ham, Mike Caviezel
 
 ### Technical Achievements
 
-The game featured internet multiplayer functionality, allowing up to four players to compete online—a notable feature for a children's game in 2000.[^ref-1] The Facemaker avatar customization system demonstrated Sierra's attention to personalization, encouraging children to create unique identities within the game.[^ref-1] The animated talking Genie helper system provided an accessible way for young players to learn game rules without adult intervention.[^ref-1]
+The game included online play for up to four players, the Facemaker avatar utility, and an animated talking Genie that explains the rules.[^ref-1]
 
 ### Technical Specifications
 
 **CD-ROM Version:**[^ref-1][^ref-7]
-- **Resolution:** 640x480, 800x600, 1024x768[^ref-7]
-- **Color Depth:** 16-bit color[^ref-10]
+- **Resolution:** 640x480, 800x600, 1024x768 (Windows)[^ref-7]
+- **Color Depth:** 16-bit color (Mac OS Classic)[^ref-10]
 - **Media:** CD-ROM[^ref-1][^ref-7]
 - **Input:** Mouse[^ref-7]
 - **ESRB Rating:** Everyone[^ref-1]
@@ -128,61 +128,45 @@ The game featured internet multiplayer functionality, allowing up to four player
 
 ### Version History
 
-| Version | Date | Platform | Notes |
+| Release | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | August 7, 2000 | Windows | Initial release[^ref-1] |
-| 1.0 | September 7, 2000 | Windows/Macintosh | Retail release[^ref-2][^ref-5] |
-| 1.0 | 2000 | Mac OS Classic | Macintosh version[^ref-10] |
-
-### Easter Eggs and Trivia
-
-- **Captain Scurvy's Recycled Lines:** Captain Scurvy re-uses some voice lines from Captain Barnes who appeared in Hoyle Classic Games (1995), suggesting Sierra economized by reusing voice assets across the Hoyle series.[^ref-6]
-- **Marvin the T-Rex:** The character Marvin is described as being "self-conscious about his tiny arms and still bitter about the Ice Age," adding humor that appeals to both children and parents.[^ref-6]
-- **Roswell the Alien:** Roswell's backstory references the famous 1947 UFO incident, with the character described as working as a janitor at Area 51—a subtle nod to conspiracy culture that parents would appreciate.[^ref-6]
-- **Face Creator Voices:** The Face Creator feature includes ten generic voice options that can be applied to custom avatars, providing personalization beyond just visual appearance.[^ref-6]
+| Windows | August 7, 2000 | Windows | First release per MobyGames[^ref-1] |
+| Windows | September 7, 2000 | Windows | Release date per GameFAQs and Sierra Chest[^ref-2][^ref-5] |
+| Macintosh | 2000 | Mac OS Classic | Macintosh version[^ref-1][^ref-10] |
 
 ## Voice Cast
 
-The game featured various voice actors for its animated computer opponents. While official credits are limited, community research has identified likely voice performers:[^ref-6]
+All voices were recorded at Clatter and Din Studios in Seattle, Washington. The credits list voice actors without assigning them to specific characters.[^ref-18]
 
-| Character | Voice Actor |
-|-----------|-------------|
-| Marvin | Pat Cashman (likely) |
-| Captain Scurvy | Pat Cashman (likely) |
-| Harley | Pat Cashman or Jeff Hoyt (likely) |
-| Male Voice 1 | David Scully (likely) |
-| Male Voice 2 | Ross Douglas (likely) |
-| Male Voice 5 | Jock Blaney (likely) |
-| Female Voice 1 | Alyssa Keene (likely) |
-| Female Voice 2 | Leslie Wadsworth (likely) |
-| Female Voice 3 | Jen Taylor (likely) |
-| Female Voice 5 | Amy Broomhall (likely) |
+**Credited Voice Actors:**[^ref-18]
 
-Note: Voice actor attributions are based on community research and comparison with other Hoyle titles, not official documentation.[^ref-6]
+| Voice Actor |
+|-------------|
+| Jock Blaney |
+| Kiamalise Budak |
+| Susanna Burney |
+| Pat Cashman |
+| Cynthia Doyer |
+| David Drummond |
+| William Hall Jr. |
+| Jeff Hoyt |
+| Mary Kae Irvin |
+
+Voice synchronization is credited to Dennis Ham, Mike Caviezel, Tisha Caviezel, Brittany Jacobs and Cameron DeMar.[^ref-18]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Hoyle Kids Games 2000 was featured in Sierra's 2000-2001 product catalog on page 19, indicating it was considered an important part of their family product lineup.[^ref-4] The game was released during a transitional period for Sierra under various corporate ownerships, and represented an effort to diversify the Hoyle brand's appeal beyond adult gamers.[^ref-3]
+No sales figures have been found. Sierra's Catalogue 2000-2001 included the game on page 19, a "Hoyle Range" page tagged with nine Hoyle titles.[^ref-4]
 
 ### Collections
 
-The game was marketed as a standalone product and was part of the broader Hoyle series of game compilations that Sierra produced throughout the 1990s and 2000s.[^ref-5] It sits alongside other Hoyle titles in Sierra's extensive catalog of board and card game collections.[^ref-5]
+Sierra Chest lists the game in its Hoyle Series group.[^ref-5]
 
 ### Related Publications
 
-- **Sierra 2000-2001 Catalog:** Featured the game on page 19, providing marketing materials and system requirements.[^ref-4]
-
-### Critical Perspective
-
-Hoyle Kids Games 2000 represents Sierra On-Line's attempt to leverage their established Hoyle brand for the children's market. While Sierra was primarily known for adventure games and adult-oriented card game collections, this title demonstrated the company's recognition that family-friendly gaming was a viable market segment. The inclusion of internet multiplayer in a children's game was forward-thinking for 2000, anticipating the social gaming trends that would become dominant in later years.
-
-The game's emphasis on character personality through opponents like Marvin the T-Rex and Roswell the alien shows Sierra's understanding that even simple games benefit from distinctive presentation. The Facemaker avatar system presaged the customization features that would become standard in children's games and later in social platforms. While not as historically significant as Sierra's adventure game titles, Hoyle Kids Games 2000 serves as an interesting artifact of the company's diversification efforts during a period of corporate transition.
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+- **Sierra Catalogue 2000-2001:** Page 19, "Hoyle Range".[^ref-4]
 
 ## Downloads
 
@@ -191,63 +175,10 @@ The game's emphasis on character personality through opponents like Marvin the T
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-kids-games-dpu) - Free download (Windows version)
-- [Internet Archive](https://archive.org/search?query=hoyle+kids+games+2000) - Search results
 
 **Database Entries**
 - [MobyGames](https://www.mobygames.com/game/49352/hoyle-kids-games/) - Full credits and information
-- [GameFAQs](https://gamefaqs.gamespot.com/pc/916595-hoyle-kids-games) - User ratings and data Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-12][^ref-13][^ref-14][^ref-15]
-[[1989 - Hoyle Official Book of Games - Volume 1]]
-- [[1990 - Hoyle Official Book of Games - Volume 2]]
-- [[1991 - Hoyle Official Book of Games - Volume 3]]
-- [[1991 - Hoyle Official Book of Games - Volume 4]]
-- [[1992 - Hoyle Bridge]]
-- [[1993 - Hoyle Classic Card Games]]
-- [[1993 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Blackjack]]
-- [[1996 - Hoyle Bridge]]
-- [[1996 - Hoyle Casino]]
-- [[1996 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Solitaire]]
-- [[1997 - Hoyle Classic Board Games]]
-- [[1997 - Hoyle Classic Card Games]]
-- [[1997 - Hoyle Poker]]
-- [[1998 - Hoyle Battling Ships and War]]
-- [[1998 - Hoyle Classic Board Games]]
-- [[1999 - Hoyle Backgammon and Cribbage]]
-- [[1999 - Hoyle Casino]]
-- [[1999 - Hoyle Word Games]]
-- [[2000 - Hoyle Casino]]
-- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
-- [[2001 - Hoyle Board Games]]
-- [[2001 - Hoyle Casino]]
-- [[2001 - Hoyle Kids Games]]
-- [[2001 - Hoyle Word Games]]
-- [[2002 - Hoyle Card Games]]
-- [[2002 - Hoyle Casino Empire]]
-- [[2002 - Hoyle Puzzle Games]]
-- [[2003 - Hoyle Board Games]]
-- [[2003 - Hoyle Card Games]]
-- [[2003 - Hoyle Casino]]
-- [[2003 - Hoyle Majestic Chess]]
-- [[2004 - Hoyle Casino]]
-- [[2004 - Hoyle Puzzle Games]]
-- [[2004 - Hoyle Table Games]]
-- [[2005 - Hoyle Board Games]]
-- [[2005 - Hoyle Card Games]]
-- [[2005 - Hoyle Casino 3D]]
-- [[2005 - Hoyle Poker Series]]
-- [[2005 - Hoyle Puzzle and Board Games]]
-- [[2005 - Hoyle Texas Hold Em]]
-- [[2006 - Hoyle Casino]]
-- [[2006 - Hoyle Miami Solitaire]]
-- [[2007 - Hoyle Card Games 2008]]
-- [[2007 - Hoyle Casino]]
-- [[2007 - Hoyle Casino 2008]]
-- [[2008 - Hoyle Puzzle and Board Games]]
-- [[2010 - Hoyle Puzzle and Board Games 2011]]
-- [[2011 - Hoyle Swashbucklin Slots]]
-- [[2015 - Hoyle Official Card Games Collection]]
-- [[2016 - Hoyle Casino Games Collection]]
+- [GameFAQs](https://gamefaqs.gamespot.com/pc/916595-hoyle-kids-games) - User ratings and data
 
 ## See Also
 
@@ -310,23 +241,11 @@ The game's emphasis on character personality through opponents like Marvin the T
 
 [^ref-1]: [MobyGames – Hoyle Kids Games](https://www.mobygames.com/game/49352/hoyle-kids-games/) – release dates, credits, features, technical specifications, description, ratings
 [^ref-2]: [GameFAQs – Hoyle Kids Games](https://gamefaqs.gamespot.com/pc/916595-hoyle-kids-games) – release date, developer, publisher, user ratings
-[^ref-3]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, context for Hoyle Kids Games titles
+[^ref-3]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series overview, first release (1989), title listing
 [^ref-4]: [Sierra Chest – Hoyle Kids Games (Publications)](https://sierrachest.com/index.php?a=games&id=581&title=hoyle-kids-games&fld=publications) – Sierra catalog reference, publication data
 [^ref-5]: [Sierra Chest – Hoyle Kids Games](https://sierrachest.com/dodfdf/index.php?a=games&id=581&title=hoyle-kids-games&fld=screenshots) – platform information, engine, release dates, series info
-[^ref-6]: Steam Community – Hoyle Kids Games Character Guide *(link removed: it led to a different game's page)* – character bios, voice actor speculation, trivia
 [^ref-7]: [UVList – Hoyle Kids Games (Windows)](https://www.uvlist.net/game-225807-Hoyle+Kids+Games) – technical specifications, resolution options
-[^ref-8]: [MobyGames – Michael Katz](https://www.mobygames.com/person/9065/michael-katz/) – producer credit confirmation
-[^ref-9]: [MobyGames – Jeff Hoyt](https://www.mobygames.com/person/9095/jeff-hoyt/) – script writer credit
+[^ref-8]: [MobyGames – Michael Katz](https://www.mobygames.com/person/9065/michael-katz/) – producer's other Hoyle credits
+[^ref-9]: [MobyGames – Jeff Hoyt](https://www.mobygames.com/person/9095/jeff-hoyt/) – script writer credit, Hoyle credits 1997–2009
 [^ref-10]: [UVList – Hoyle Kids Games (Mac)](https://www.uvlist.net/game-225808-Hoyle+Kids+Games) – Macintosh version, color depth specifications
-
-
-[^ref-12]: [Walmart – Hoyle Card Games 2000](https://www.walmart.com/ip/Hoyle-Card-Games-2000/133350203) – retail product documentation
-
-[^ref-13]: [Encore Support Forums – Face Creator Issues](http://forums.encoreusa.com/tm.asp?m=49230) – technical support documentation, Face Creator functionality
-
-[^ref-14]: [ELI Software Encyclopedia – Hoyle Kids Games](https://elisoftware.org/w/index.php/Hoyle_Kids'_Games_(PC,_CD-ROM)_Sierra_-_2001_USA,_Canada_Release) – technical specifications, system requirements
-
-[^ref-15]: [JustAnswer – Hoyle Games Installation Support](https://www.justanswer.com/computer/g8zx9-recently-received-new-sierra-three-card-games.html) – user community support, technical documentation
-
-[^ref-16]: [IGDB search – Hoyle Kids Games 2000](https://www.igdb.com/search?q=Hoyle+Kids+Games+2000) — Game database cross-reference
-[^ref-17]: [PCGamingWiki search – Hoyle Kids Games 2000](https://www.pcgamingwiki.com/w/index.php?search=Hoyle+Kids+Games+2000) — Technical and compatibility documentation
+[^ref-18]: [MobyGames – Hoyle Kids Games credits (Windows)](https://www.mobygames.com/game/49352/hoyle-kids-games/credits/windows/) – full credits, voice actors, script writers, Clatter and Din Studios
