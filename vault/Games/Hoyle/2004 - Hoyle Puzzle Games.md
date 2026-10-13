@@ -1,223 +1,152 @@
 ---
 title: Hoyle Puzzle Games 2004
-release_year: 2004
+release_year: 2003
 developer: Sierra Entertainment
 designer: []
 publisher: Sierra Entertainment
 genre: Puzzle
 platforms: [Windows]
 series: Hoyle
-engine: Proprietary (Windows)
+engine: Unknown
 protagonist: ''
 sierra_lineage: Core Sierra
-last_updated: '2026-05-27'
-description: Hoyle Puzzle Games 2004 is a compilation of puzzle and arcade games developed
-  and published by Sierra On-Line, released on September 2, 2003 for Windows PC....
+last_updated: '2026-10-13'
+description: Hoyle Puzzle Games 2004 is a collection of 17 puzzle and arcade games, including two new games, Rays and Word Searches, released by Sierra Entertainment on September 2, 2003 for Windows.
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Puzzle Games 2004
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Hoyle Puzzle Games 2004 is a compilation of puzzle and arcade games developed and published by [[Sierra On-Line]], released on September 2, 2003 for Windows PC[^ref-1][^ref-3][^ref-6][^ref-20][^ref-22][^ref-23][^ref-24][^ref-25][^ref-27]. The collection features 17 action-packed puzzle games designed to exercise players' problem-solving skills through a diverse range of gameplay styles[^ref-4]. Building upon the success of previous Hoyle titles, this edition introduced two new puzzle games—Rays and Word Searches—while retaining beloved classics from the series[^ref-4].
+Hoyle Puzzle Games 2004 is a collection of puzzle and arcade games from Sierra Entertainment, released on September 2, 2003 for Windows[^ref-1][^ref-4][^ref-6][^ref-20][^ref-24]. It gathers 17 games, one of which is the full version of *The Incredible Machine: Even More Contraptions*[^ref-4][^ref-8][^ref-20]. Two of the 17, Rays and Word Searches, were billed as new games[^ref-4][^ref-20][^ref-29]. Sierra Chest catalogues it as "Hoyle Puzzle Games 2", the follow-up to [[2002 - Hoyle Puzzle Games|Hoyle Puzzle Games]] (2002)[^ref-24].
 
-The game combines arcade excitement with traditional puzzle challenges, offering something for every type of player[^ref-3]. Players can challenge themselves with crossword puzzles, word searches, and a variety of tile-based games, all featuring high score tracking and adjustable skill levels[^ref-6]. The collection includes a notable bonus feature: The Incredible Machine: Even More Contraptions, adding significant value to the package[^ref-7].
-
-A standout feature of Hoyle Puzzle Games 2004 is the Facemaker Tool, which allows players to create unique-looking characters from hundreds of customizable features[^ref-6]. The game also includes a free Hoyle Rulebook and Strategy Guide, along with the ability to save and print completed word searches and crossword puzzles as proof of puzzle-solving prowess[^ref-6][^ref-8].
+The box advertised 1,000 crossword puzzles, high score lists, adjustable skill levels (Beginner, Intermediate or Expert), the ability to save and print word searches and crosswords, a free Hoyle rulebook and strategy guide, and the Facemaker tool for building a character "from hundreds of features"[^ref-8][^ref-20]. GameSpy listed the publisher as Sierra Attractions and the ESRB rating as E for Everyone[^ref-8].
 
 > [!info]- Game Info
-> **Developer:** Sierra Entertainment[^ref-1]
-> **Designer:** Unknown
-> **Publisher:** Sierra Entertainment / Sierra Attractions[^ref-1][^ref-8]
+> **Developer:** Sierra Entertainment[^ref-1][^ref-20]
+> **Designer:** No designer credited; Project Lead Eric Fleming, Producer Cara Ely[^ref-29]
+> **Publisher:** Sierra Entertainment (Sierra Attractions label per GameSpy)[^ref-1][^ref-8]
 > **Engine:** Unknown
 > **Platforms:** Windows 95, Windows 98, Windows Me, Windows 2000, Windows XP[^ref-4]
-> **Release Year:** 2003
+> **Release Year:** 2003[^ref-1][^ref-24]
 > **Series:** Hoyle
 > **Protagonist:** N/A (Player-created characters)
-> **Sierra Lineage:** Sierra Attractions
+> **Sierra Lineage:** Core Sierra
 
 ## Game Content
 
 ### Included Games
 
-Hoyle Puzzle Games 2004 contains 17 distinct puzzle and arcade games spanning multiple genres[^ref-4][^ref-7][^ref-8]:
+The 17 games are listed on the box and in retail listings[^ref-4][^ref-8][^ref-20]. The descriptions below follow the game's manual[^ref-29].
 
 **Word Games:**
-- **Anagrams** – Classic word unscrambling puzzle[^ref-4][^ref-7]
-- **Crosswords** – Traditional crossword puzzles with 1,000 included puzzles[^ref-8]
-- **Hangman** – The classic word-guessing game[^ref-4][^ref-7]
-- **Word Searches** – New addition featuring hidden word puzzles[^ref-4][^ref-8]
+- **Anagrams** – A six-letter word is scrambled at the top of the screen. Players have 90 seconds to find it and the other three- to six-letter words that can be made from its letters.
+- **Crosswords** – Puzzles labelled Easy, Medium or Hard, with a different puzzle for each day of the year plus bonus puzzles; play alone or against another person. The box says 1,000 crossword puzzles[^ref-8][^ref-20]; the manual says 1,200[^ref-29].
+- **Hangman** – Three versions: Classic Hangman, Hangman Challenge and two-player Head to Head Hangman, each with a choice of four game environments.
+- **Word Searches** (new) – Hidden-word puzzles on topics such as hobbies, animals, food, science and cities, played alone or head to head.
 
-**Tile-Based Games:**
-- **Edge Tiles** – Tile matching puzzle[^ref-4][^ref-7]
-- **Gravity Tiles** – Physics-based tile game[^ref-7][^ref-8]
-- **Mahjong Tiles** – Traditional tile matching[^ref-7][^ref-8]
-- **Memory Tiles** – Memory matching challenge[^ref-4][^ref-7]
-- **Slide Tiles** – Sliding puzzle game[^ref-7][^ref-8]
+**Tile Games** (all five use mahjong tiles):
+- **Edge Tiles** – Match free tiles on opposite edges of a rectangular grid.
+- **Gravity Tiles** – Remove groups of matching tiles; the tiles above them fall into the gap.
+- **Mahjong Tiles** – Match exposed tiles in pairs from a choice of layouts; a Layout Maker lets players design their own.
+- **Memory Tiles** – A concentration-style game: tiles are dealt face down and turned over two at a time to find pairs.
+- **Slide Tiles** – Slide tiles around the board to make matches, removing more than one pair at a time for extra points.
 
-**Arcade Games:**
-- **Maze Racer** – Speed-based maze navigation[^ref-7][^ref-8]
-- **Maze Raider** – Action maze exploration[^ref-7][^ref-8]
-- **Placer Racer** – Placement-based racing puzzle[^ref-7][^ref-8]
-- **Rays** – New puzzle game featuring light beam manipulation[^ref-4][^ref-8]
-- **Solitaire Arcade** – Action-oriented solitaire variant[^ref-7][^ref-8]
-- **Star Collector** – Collection-based arcade game[^ref-7][^ref-8]
-- **Time Breaker** – Time-based puzzle challenge[^ref-7][^ref-8]
-
-**Bonus Content:**
-- **The Incredible Machine: Even More Contraptions** – Full version of the acclaimed physics puzzle game[^ref-7][^ref-8]
+**Arcade and Strategy Games:**
+- **Maze Racer** – Escape a maze before the goal time runs out, or race another player to the exit.
+- **Maze Raider** – Collect each maze's goal items while avoiding monsters, in Greek or Haunted House themes.
+- **Placer Racer** – Fire balls at a ceiling of coloured balls; three or more of the same colour that touch disappear. Two players can compete on one keyboard.
+- **Rays** (new) – A hide-and-seek game compared in the manual to Battling Ships: players fire rays of light into a grid from its edge and, from where the rays come out, work out where the hidden "nodes" are, with only eight rays to use.
+- **Solitaire Arcade** – Five timed solitaire games: 3 Towers, Best 21, Fast 21, Pick 2 and Sum 11.
+- **Star Collector** – Move pieces from a rack onto a grid, matching by picture or colour, to collect enough stars to reach the next level.
+- **Time Breaker** – A block-breaking game in which a time-travelling ship clears blocks across four ages: Primitive, Egyptian, Medieval and Future.
+- **[[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]]** – The Professor's Rube Goldberg-style contraption puzzles, included as a complete game[^ref-24][^ref-29].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Hoyle Puzzle Games 2004 utilizes a point-and-click interface optimized for casual puzzle gaming[^ref-6]. The game features simple installation allowing players to begin playing immediately[^ref-8]. Navigation between games is handled through a central menu system, with each individual game featuring its own specialized controls appropriate to its genre[^ref-6].
+Players sign in by typing a name and picking a character image. From the main screen they choose a game by clicking its icon or through the Go To menu. Each game opens with a "Getting Started" screen that explains the basics and lets players change players and settings, and fuller instructions are in the in-game help[^ref-29].
 
 ### Structure and Progression
 
-The game offers flexible, non-linear gameplay where players can freely choose which of the 17 puzzle games to play at any time[^ref-7]. Each game features:
-
-- **High Score Tracking** – New high score lists track players' top performances across all games[^ref-8]
-- **Adjustable Difficulty** – Three skill levels including beginner, intermediate, and expert modes[^ref-6][^ref-8]
-- **Save and Print Function** – Ability to save and print completed word searches and crossword puzzles[^ref-6][^ref-8]
+All the games can be played alone, and several, including Hangman, Maze Racer and Placer Racer, let two people play against each other on the same computer[^ref-29]. Players can set game speed, difficulty, background music and game variations. The game keeps statistics for each player, and games can be saved and continued later[^ref-29]. The 2004 edition added a new high score list[^ref-8][^ref-20].
 
 ### Customization Features
 
-The **Facemaker Tool** represents a significant customization option, allowing players to create unique character avatars from hundreds of available features[^ref-6][^ref-8]. These custom characters can be used throughout the various games in the collection[^ref-4].
+The **Facemaker Tool** lets players create characters "from hundreds of features"[^ref-6][^ref-8]. A GameSpot user reviewer noted options for the music and difficulty level, and the ability to print some puzzles, but found fewer choices than in Hoyle's card and table games[^ref-7].
 
-**Music Options** are available to customize the audio experience during gameplay[^ref-7]. The game includes a complete soundtrack with 5 music tracks totaling 4 minutes and 18 seconds of audio content[^ref-9].
+The game's music, as ripped on KHInsider, runs to five tracks totalling 4 minutes 18 seconds[^ref-9].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Hoyle Puzzle Games 2004 received generally positive reception from users, though professional critical coverage was limited for this casual game compilation.
-
-A GameSpot user review from April 4, 2006 awarded the game **8 out of 10**, noting it offered "something for everyone's taste" while suggesting players might prefer the 2005 version for better overall value[^ref-7]. The reviewer highlighted the combination of arcade excitement and puzzle fun as a key strength[^ref-7].
-
-Amazon customer reviews gave the game a rating of **3.7 out of 5 stars**[^ref-4]. One customer, KGReads, wrote: "I love (most of) these games. A couple of the games seem rather pointless but my favorite is the Star Collector game. I also like Rays and a couple of the Tile games"[^ref-4]. Another reviewer, MegaJoe, noted long-term enjoyment with the title despite compatibility issues across different Windows versions[^ref-4].
+No professional reviews of this edition have been found. A GameSpot user review dated April 4, 2006 scored it **8 out of 10**, summing it up as "Something for everyone's taste but you might want to get the 2005 version." The reviewer said the 2005 version sounded better because it was combined with the table games and could be fully installed without the CD[^ref-7].
 
 ### Modern Assessment
 
-Modern database ratings remain favorable for the title:
-
-**Aggregate Scores:**
-- **GameFAQs:** Outstanding (based on 2 user ratings)[^ref-1]
-- **LaunchBox Games Database:** 4.00/5.00 (community rating)[^ref-3]
-- **Amazon.in:** 3.7/5 stars[^ref-4]
-
-The game maintains rankings of #341 in Board Games and #569 in Top 2003 games according to RAWG.io database metrics[^ref-10].
-
-### Critical Assessment
-
-Reviews consistently praised the variety of included games and the value proposition of receiving 17 different puzzle experiences plus The Incredible Machine bonus content in a single package[^ref-7][^ref-8]. The new additions of Rays and Word Searches were specifically noted as welcome expansions to the series formula[^ref-4][^ref-8]. However, some reviewers suggested that the subsequent 2005 version offered better overall value due to its combination with table games and improved installation options[^ref-7].
+On Amazon the game holds **3.7 out of 5 stars** from 11 ratings[^ref-4]. One customer, KGReads, wrote: "I love (most of) these games. A couple of the games seem rather pointless but my favorite is the Star Collector game. I also like Rays and a couple of the Tile games"[^ref-4]. GameFAQs shows a user rating of "Outstanding" from 2 ratings[^ref-1].
 
 ## Development
 
 ### Origins
 
-Hoyle Puzzle Games 2004 was developed by [[Sierra On-Line]] as part of their long-running Hoyle series of casual games[^ref-1][^ref-3]. The Hoyle brand had established itself as Sierra's premier line of family-friendly card, board, and puzzle games since the late 1980s[^ref-6]. Published under the Sierra Attractions label, the game targeted casual gamers seeking accessible puzzle entertainment[^ref-8].
+Sierra Chest catalogues the game as "Hoyle Puzzle Games 2", the second release of [[2002 - Hoyle Puzzle Games|Hoyle Puzzle Games]][^ref-24]. Its box and retail listings presented Rays and Word Searches as the new games in this edition[^ref-4][^ref-20].
 
 ### Production
 
-Development focused on refining the puzzle game compilation format while adding new content to justify the annual release[^ref-4]. The two new games—Rays and Word Searches—represented the primary new development work, while existing games received updates and refinements[^ref-4][^ref-8]. The inclusion of The Incredible Machine: Even More Contraptions as bonus content demonstrated Sierra's strategy of adding value through bundled content[^ref-7].
-
-The 1,000 word puzzles included in the collection, particularly the crossword puzzles, required significant content creation work beyond the programming of the games themselves[^ref-8]. The Facemaker Tool's extensive customization options, featuring "hundreds of features," also represented substantial development effort[^ref-6].
-
-### Technical Achievements
-
-Hoyle Puzzle Games (2004) introduced **two new puzzle types — Rays and Word Searches** — to the Hoyle Puzzle Games lineup, requiring new engine work alongside the existing puzzle framework[^ref-4][^ref-8][^ref-28]. The compilation packaged **1,000 word puzzles** including a substantial crossword collection, demanding real content-creation investment beyond the engine itself[^ref-8]. The release continued the value-bundled distribution pattern by **including The Incredible Machine: Even More Contraptions as a complete bonus title** — effectively shipping 16+ games in a single SKU[^ref-7]. The Facemaker avatar layer offered "hundreds of features" worth of customization, demonstrating Sierra's continued investment in the cross-product avatar persistence system that distinguished the Hoyle line from competing casual compilations[^ref-6].
+The manual credits Executive Producer Stephen H. Van Horn, Producer Cara Ely, and Eric Fleming as Senior Software Engineer and Project Lead. Mike Caviezel and Ben Houge are credited as composers, with Caviezel also the sound engineer, and Pat Cashman voiced the talking skulls[^ref-29]. The manual carries a 2003 Sierra Entertainment copyright and a 2003 Dell Magazines copyright, and notes that the game uses the Miles Sound System[^ref-29].
 
 ### Technical Specifications
 
 **System Requirements:**[^ref-4]
 - **Operating Systems:** Windows 95, Windows 98, Windows Me, Windows 2000, Windows XP
-- **Media:** CD-ROM (requires disc in drive during gameplay)[^ref-11][^ref-12]
+- **Media:** CD-ROM[^ref-11]
 - **ESRB Rating:** E for Everyone (No Descriptors)[^ref-8]
 
-**Soundtrack Information:**[^ref-9]
+**Soundtrack (KHInsider rip):**[^ref-9]
 - **Number of Tracks:** 5
 - **Total Duration:** 4 minutes 18 seconds
-- **Total File Size:** 4 MB (MP3 format)
+- **Total File Size:** 4 MB (MP3)
 
 ### Technical Issues
 
-Hoyle Puzzle Games 2004 experienced significant compatibility issues across various Windows versions. Users reported that while the game was packaged as compatible with Windows XP, it sometimes failed to function properly[^ref-12].
-
-**Known Issues:**
-- CD spins but nothing appears on screen during launch[^ref-12]
-- Game may not start correctly when running a restricted user account with fast user switching under Windows XP[^ref-12]
-- Game requests original disc be placed in drive even if already present[^ref-12]
-- Kazaa software known to prevent the game from starting[^ref-12]
-- Does not work on Windows Vista, Windows 7, or Windows 8[^ref-4]
-- Functionality restored on Windows 8.1 and Windows 10[^ref-4]
-
-One Amazon customer reported a concerning security issue: "game had a virus and it took 2 hours with Dell technical support to get my new computer working again"[^ref-4]. However, this appears to be an isolated incident and may have been related to the customer's specific software environment rather than the original game disc.
+In a December 2003 PCReview forum thread, a user reported that on Windows XP the CD spun but nothing appeared on screen. A Microsoft MVP replied with general advice for games that ask for the disc, but the thread does not record a fix[^ref-12]. An Amazon reviewer wrote in 2017 that the game did not work for them on Windows Vista, 7 and 8, but worked again on Windows 8.1 and 10[^ref-4].
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | September 2, 2003 | Windows | Initial retail release[^ref-1][^ref-3][^ref-6] |
-| 2005 Edition | 2004/2005 | Windows | Combined with table games, full install without CD requirement[^ref-7] |
-
-**Version Differences:**
-The 2005 version of Hoyle Puzzle Games offered improved value by combining the puzzle games with table games and allowing full installation without requiring the CD to remain in the drive during gameplay[^ref-7].
-
-### Easter Eggs and Trivia
-
-- The Hoyle series takes its name from Edmond Hoyle, the 18th-century English writer famous for his works on card game rules and strategies[^ref-8]
-- Star Collector emerged as a particular fan favorite among the included games[^ref-4]
-- The game includes a FREE Hoyle Rulebook and Strategy Guide as bonus content[^ref-4][^ref-8]
-- Players can print completed puzzles "for proof that you're a pro"[^ref-6]
+| Retail release | September 2, 2003 | Windows | CD-ROM[^ref-1][^ref-11] |
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Hoyle Puzzle Games 2004 achieved notable commercial performance, reaching a sales rank of #1957 on Amazon.com during its retail period[^ref-11]. The product has since been discontinued by the manufacturer[^ref-4].
-
-The game was distributed through major retail channels including Best Buy[^ref-13], demonstrating Sierra's commitment to widespread physical distribution for their casual game lineup.
+No sales figures have been found. Best Buy listed the game for Windows (SKU 5884457), and it is now marked as no longer available new[^ref-13]. Amazon lists it as discontinued by the manufacturer[^ref-4].
 
 ### Subsequent Releases
 
-The 2005 edition of Hoyle Puzzle Games represented the direct successor to this title, offering enhanced value by combining puzzle and table games with improved installation options that eliminated the CD requirement[^ref-7]. This approach reflected Sierra's evolving strategy in the casual games market.
+A GameSpot user reviewer pointed buyers to a 2005 version, which combined the puzzle games with the table games and could be fully installed[^ref-7]. See [[2005 - Hoyle Puzzle and Board Games|Hoyle Puzzle & Board Games 2005]].
 
-### Collections
+### Trivia
 
-As part of the Hoyle brand, this title shares its heritage with numerous other Sierra casual game compilations spanning cards, board games, and casino games[^ref-6]. The brand continued to be developed by subsequent Sierra Entertainment successors.
-
-### Related Publications
-
-- **Hoyle Rulebook and Strategy Guide** – Included free with the game, providing rules and strategies for all included games[^ref-4][^ref-8]
-- **Official Manual** – CD-ROM packaging included standard documentation[^ref-4]
-
-### Critical Perspective
-
-Hoyle Puzzle Games 2004 represents Sierra Entertainment's continued investment in the casual games market during the early 2000s. The title exemplifies the compilation approach that dominated casual PC gaming before the rise of digital distribution and mobile platforms[^ref-6]. By combining classic word and tile games with arcade elements and bonus content like The Incredible Machine, Sierra attempted to maximize value proposition for consumers[^ref-7][^ref-8].
-
-The game's lasting legacy is perhaps most notable in its demonstration of Windows compatibility challenges that plagued many titles from this era[^ref-4][^ref-12]. The fact that the game stopped working on Windows Vista through Windows 8 but regained functionality on Windows 8.1 and Windows 10 illustrates the unpredictable nature of legacy software compatibility[^ref-4].
-
-While not a groundbreaking title, Hoyle Puzzle Games 2004 served its intended purpose as accessible family entertainment, maintaining the Hoyle brand's reputation for quality casual gaming content[^ref-3][^ref-6].
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+- Amazon's product description says the game includes a "FREE Hoyle Rulebook and Strategy Guide for advanced insider information"[^ref-4]
+- The box invites players to print puzzles "for proof that you're a pro"[^ref-6][^ref-20]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- Currently unavailable on major digital platforms
+- Not currently sold on GOG or Steam
 
 **Download / Preservation**
-- Original retail CD-ROM copies may be found through secondary markets
-- Game requires original disc in drive to play[^ref-11][^ref-12]
+- [Internet Archive – Sierra Hoyle Puzzle Games 2004 (Windows, English)](https://archive.org/details/Sierra_Hoyle_Puzzle_Games_2004_-_Windows_Eng) – disc image and CD scan[^ref-25]
 
-**Official Website**
-- http://www.hoylegames.com (historical)[^ref-10]
+**Manuals & Extras**
+- [Hoyle Puzzle Games manual (PDF scan, Sierra Chest)](https://www.sierrachest.com/gfx/games/Hoyle_2003_PuzzleGames/box/02_manual.pdf)[^ref-29]
 
 ## See Also
 
@@ -279,21 +208,16 @@ While not a groundbreaking title, Hoyle Puzzle Games 2004 served its intended pu
 
 ## References
 
-[^ref-1]: [GameFAQs – Hoyle Puzzle Games 2004](https://gamefaqs.gamespot.com/pc/918452-hoyle-puzzle-games-2004) – release date, developer, publisher, user ratings, game description
-[^ref-3]: [LaunchBox Games Database – Sierra Entertainment](https://gamesdb.launchbox-app.com/developers/games/2391-sierra-entertainment) – release date, developer, publisher, community rating
-[^ref-4]: [Amazon.in – Hoyle Puzzle Games 2004](https://www.amazon.in/Hoyle-Puzzle-Games-2004-PC/dp/B000083JY1) – release date, publisher, platforms, features, customer reviews, compatibility issues
-[^ref-6]: [Metacritic – Hoyle Puzzle Games 2004](https://www.metacritic.com/game/hoyle-puzzle-games-2004/details/) – release date, developer, publisher, official description
-[^ref-7]: [GameSpot – Hoyle Puzzle Games 2004 User Review](https://www.gamespot.com/hoyle-puzzle-games-2004/user-reviews/2200-350201/) – user review, game list, 2005 version comparison
-[^ref-8]: [GameSpy – Hoyle Puzzle Games 2004](http://pc.gamespy.com/pc/hoyle-puzzle-games-2004/) – publisher, ESRB rating, full game list, features
-[^ref-9]: [KHInsider – Hoyle Puzzle Games 2004 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/hoyle-puzzle-games-2004-gamerip-2003) – soundtrack information, developer, publisher
-[^ref-10]: [RAWG.io – Hoyle Puzzle Games 2004](https://rawg.io/games/hoyle-puzzle-games-2004) – release date, developer, publisher, rankings, website
-[^ref-11]: [HAT.net – Hoyle Puzzle Games 2004](http://www.hat.net/gadgets////computer_and_video_games.pc_games.classic_games_and_retro_arcade.board_games/hoyle_puzzle_games_2004/) – release date, sales rank, CD requirement
-[^ref-12]: [PCReview Forums – Hoyle Puzzle Games 2004](https://www.pcreview.co.uk/threads/hoyle-puzzle-games-2004.510229/) – technical issues, compatibility problems, troubleshooting
-[^ref-13]: [Best Buy – Hoyle Puzzle Games 2004](https://www.bestbuy.com/site/hoyle-puzzle-games-2004-windows/5884457.p?skuId=5884457) – retail availability, platform
-[^ref-20]: [LaunchBox Games Database – Hoyle Puzzle Games 2004](https://gamesdb.launchbox-app.com/games/details/hoyle-puzzle-games-2004) — community-curated metadata, cover-art reference, Windows platform tagging
-[^ref-22]: [Old Games Finder – Hoyle Puzzle Games 2004](https://www.oldgamesfinder.com/hoyle-puzzle-games-2004/) — abandonware preservation archive, ISO metadata
-[^ref-23]: [Adventure Classic Gaming – Sierra Hoyle franchise retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Sierra's 2004 Hoyle portfolio
-[^ref-24]: [Sierra Chest – Hoyle Puzzle Games 2004 product page](https://sierrachest.com/index.php?a=games&id=818) — packaging archive, release-info documentation
-[^ref-25]: [Internet Archive – Sierra Hoyle Puzzle Games 2004 (Windows English)](https://archive.org/details/Sierra_Hoyle_Puzzle_Games_2004_-_Windows_Eng) — preserved Windows ISO of the 2004 release with packaging metadata
-[^ref-27]: [MobyGames – Hoyle Table Games 2004 (2003)](https://www.mobygames.com/game/13166/hoyle-table-games-2004/) — sister product in the 2003-released Hoyle 2004 portfolio (Table Games shipped alongside Puzzle Games)
-[^ref-28]: [MobyGames – Hoyle Puzzle Games 2005](https://www.mobygames.com/game/178235/hoyle-puzzle-games-2005/) — direct sequel establishing the Puzzle Games sub-line continuity
+[^ref-1]: [GameFAQs – Hoyle Puzzle Games 2004](https://gamefaqs.gamespot.com/pc/918452-hoyle-puzzle-games-2004) – release date (September 2, 2003), developer/publisher Sierra Entertainment, user rating "Outstanding" (2 ratings)
+[^ref-4]: [Amazon.in – Hoyle Puzzle Games 2004](https://www.amazon.in/Hoyle-Puzzle-Games-2004-PC/dp/B000083JY1) – release date 2 September 2003, Windows versions, 17 games, two new games, 1,000 puzzles, discontinued, 3.7 stars (11), customer reviews
+[^ref-6]: [Metacritic – Hoyle Puzzle Games 2004](https://www.metacritic.com/game/hoyle-puzzle-games-2004/details/) – initial release Sep 2, 2003, publisher, official description (Facemaker, print puzzles)
+[^ref-7]: [GameSpot – Hoyle Puzzle Games 2004 User Review](https://www.gamespot.com/hoyle-puzzle-games-2004/user-reviews/2200-350201/) – user review, April 4, 2006, 8/10; game list; 2005 version comparison
+[^ref-8]: [GameSpy – Hoyle Puzzle Games 2004](http://pc.gamespy.com/pc/hoyle-puzzle-games-2004/) – publisher Sierra Attractions, ESRB E (No Descriptors), list of 17 games, box features
+[^ref-9]: [KHInsider – Hoyle Puzzle Games 2004 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/hoyle-puzzle-games-2004-gamerip-2003) – gamerip: 5 tracks, 4m 18s, 4 MB
+[^ref-11]: [HAT.net – Hoyle Puzzle Games 2004](http://www.hat.net/gadgets////computer_and_video_games.pc_games.classic_games_and_retro_arcade.board_games/hoyle_puzzle_games_2004/) – Amazon product data: date 02 September 2003, media CD-ROM, ESRB Everyone
+[^ref-12]: [PCReview Forums – Hoyle Puzzle Games 2004](https://www.pcreview.co.uk/threads/hoyle-puzzle-games-2004.510229/) – December 2003 user report of the game not starting on Windows XP, with an MVP's general advice
+[^ref-13]: [Best Buy – Hoyle Puzzle Games 2004](https://www.bestbuy.com/site/hoyle-puzzle-games-2004-windows/5884457.p?skuId=5884457) – Windows listing, SKU 5884457, no longer available new
+[^ref-20]: [LaunchBox Games Database – Hoyle Puzzle Games 2004](https://gamesdb.launchbox-app.com/games/details/122498-hoyle-puzzle-games-2004) – release date September 02, 2003, Windows, Sierra Entertainment, box text: feature list and the 17 included games
+[^ref-24]: [Sierra Chest – Hoyle Puzzle Games 2 (2003)](https://www.sierrachest.com/index.php?a=games&id=818) – catalogued as "Hoyle Puzzle Games 2 (2003)"; first release 2003-09-02, Hoyle Word Games / Puzzle Games group; lists The Incredible Machine: Even More Contraptions as an included full release
+[^ref-25]: [Internet Archive – Sierra Hoyle Puzzle Games 2004 - Windows (Eng)](https://archive.org/details/Sierra_Hoyle_Puzzle_Games_2004_-_Windows_Eng) – disc image (ISO) and CD scan, uploaded 2016
+[^ref-29]: [Hoyle Puzzle Games manual (scan, Sierra Chest)](https://www.sierrachest.com/gfx/games/Hoyle_2003_PuzzleGames/box/02_manual.pdf) – 2004 edition manual ("New games: Word Searches and Rays"): rules for all 17 games, sign-in and settings, credits
