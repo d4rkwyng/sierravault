@@ -10,16 +10,15 @@ series: Hoyle
 engine: SCI2.1
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
-composer: [Robert Atesalp]
-description: Hoyle Solitaire is a comprehensive card game collection developed and
-  published by Sierra On-Line in 1996, representing the modernized Windows evolution
-  of...
+last_updated: '2026-10-13'
+composer: [Johnathan Cunningham]
+description: Hoyle Solitaire is a 1996 Sierra On-Line card game collection, the Windows
+  version of Hoyle Official Book of Games Volume 2 with its 28 solitaire games.
 tags: [1990s, hoyle, sci, sierra]
 ---
 # Hoyle Solitaire
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
@@ -27,7 +26,7 @@ Hoyle Solitaire is a comprehensive card game collection developed and published 
 
 The 1996 release brought significant improvements over its DOS predecessor, including upgraded graphics, enhanced sound design, and refined mouse control that made the drag-and-drop gameplay intuitive and satisfying.[^ref-1] Sierra marketed the game with the taglines "Solitaire that Stands Alone!" and "You've never played Solitaire like this before!", emphasizing its comprehensive feature set and polished presentation.[^ref-4] The game proved remarkably addictive, with one reviewer noting "The laundry hasn't been done, the bills haven't been paid, and it's all because of this terribly engrossing game."[^ref-5]
 
-Beyond the core solitaire games, Hoyle Solitaire included a Card Flick arcade mini-game that rewarded players after winning games, along with extensive customization options for card backs, wallpaper, and music.[^ref-5] The game supported up to four players saving their statistics separately, making it ideal for family computers where multiple users wanted to track their individual progress.[^ref-6] This attention to user experience helped establish Hoyle Solitaire as what many considered "one of those mainstay programs that you install on every computer you own."[^ref-1]
+Beyond the core solitaire games, Hoyle Solitaire included a Card Flick arcade mini-game that rewarded players after winning games, along with extensive customization options for card backs, wallpaper, and music.[^ref-5] The game supported up to four players saving their statistics separately, making it ideal for family computers where multiple users wanted to track their individual progress.[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
@@ -44,9 +43,9 @@ Beyond the core solitaire games, Hoyle Solitaire included a Card Flick arcade mi
 
 As a solitaire card game collection, Hoyle Solitaire does not feature a narrative story. Instead, the game focuses entirely on providing an authentic and engaging solo card game experience across 28 different solitaire variations.[^ref-2] The game serves as a digital implementation of traditional patience card games that have been played for centuries, with rules and strategies formalized by gaming authorities including the historical Edmond Hoyle.[^ref-3]
 
-The Hoyle series itself carried a rich legacy within Sierra's game catalog. The franchise began in 1989 with *Hoyle's Official Book of Games: Volume 1*, which featured Sierra game characters as computer opponents—players could compete against the likes of Leisure Suit Larry and Princess Rosella.[^ref-3] While Volume 1 featured multiplayer card games with these humorous opponents, Volume 2 and its 1996 successor Hoyle Solitaire focused on the solitary experience, removing the character interactions in favor of pure card game engagement.[^ref-3]
+The Hoyle series itself carried a rich legacy within Sierra's game catalog. The franchise began in 1989 with *Hoyle's Official Book of Games: Volume 1*, which featured Sierra game characters as computer opponents—players could compete against the likes of Leisure Suit Larry and Princess Rosella.[^ref-3] While Volume 1 featured multiplayer card games with these humorous opponents, Volume 2 and its 1996 successor Hoyle Solitaire focused on the solitary experience, removing the character interactions in favor of pure card game engagement.[^ref-3][^ref-1]
 
-The game's presentation emphasized creating a relaxing, meditative atmosphere for solo play. Players could customize their environment with different card back designs and wallpaper backgrounds, personalizing their solitaire experience.[^ref-5] This approach positioned Hoyle Solitaire as a break from more intense gaming experiences—as GameSpot noted, encouraging players to "Take a break from the shoot-'em-ups and God games - play a little solitaire!"[^ref-5][^ref-24][^ref-24]
+The game's presentation emphasized creating a relaxing, meditative atmosphere for solo play. Players could customize their environment with different card back designs and wallpaper backgrounds, personalizing their solitaire experience.[^ref-5] This approach positioned Hoyle Solitaire as a break from more intense gaming experiences—as GameSpot noted, encouraging players to "Take a break from the shoot-'em-ups and God games - play a little solitaire!"[^ref-5]
 
 ## Gameplay
 
@@ -58,37 +57,36 @@ The game menu system provides access to all 28 solitaire variants, along with op
 
 ### Structure and Progression
 
-The game offers 28 distinct solitaire variations, each with its own rules and strategic considerations:[^ref-2]
+The game offers the same 28 solitaire variations as *Volume 2*:[^ref-2][^ref-9]
 
-- **Klondike:** The classic solitaire game most players know, building foundation piles by suit in ascending order
-- **Canfield:** A challenging variant with limited tableau moves
-- **FreeCell:** Strategic solitaire using free cells for temporary card storage
-- **Yukon:** A Klondike variant allowing movement of face-up card groups
-- **Spider/Spiderette:** Building sequences regardless of suit, then moving complete runs
-- **Pyramid:** Matching cards that sum to 13 to clear the pyramid
-- **Golf:** Clearing cards by playing one higher or lower than the waste pile
-- **Beleaguered Castle:** All cards face-up, building on foundations with no stock
-- **Baker's Dozen:** Thirteen columns with all kings at the bottom
-- **La Belle Lucie:** Fan-based game with limited redeals
-- **Calculation:** Building foundations by mathematical sequences
-- **8 Off:** Eight free cells with Klondike-style building
-- **Strategy:** Planning-focused variant
-- **Shamrocks:** Three-card fans with special building rules
-- **Eagle Wing:** Unique reserve and wing card arrangement
-- **Eliminator:** Quick-playing elimination game
-- **Slide:** Cards slide down to fill empty spaces
-- **Bowling:** Solitaire scored like bowling
-- **Nestor:** Pair-matching game
-- **Flower Garden:** Garden-themed layout with "bouquet" reserve
-- **Aces Up:** Discarding cards covered by higher cards of the same suit
-- **Scorpion:** Spider variant with face-down cards
-- **Gaps:** Arranging cards in suit sequences with gaps
-- **Penguin:** Freecell variant named for its "beak" cards
-- **Fortress:** Building both up and down on foundations
-- **Triplets:** Matching three cards
-- **Poker Square:** Building poker hands in a grid
-- **Cribbage Square:** Scoring cribbage hands in a grid
-- **Bristol:** Fan-based game with tableau building[^ref-2]
+- Aces Up
+- Baker's Dozen
+- Beleaguered Castle
+- Bowling
+- Bristol
+- Calculation
+- Canfield
+- Cribbage Square
+- Eagle Wing
+- Eight Off
+- Eliminator
+- Flower Garden
+- Fortress
+- Gaps
+- Golf
+- Klondike
+- La Belle Lucie
+- Nestor
+- Penguin
+- Poker Square
+- Pyramid
+- Scorpion
+- Shamrocks
+- Slide
+- Spiderette
+- Strategy
+- Triplets
+- Yukon
 
 ### Puzzles and Mechanics
 
@@ -96,7 +94,7 @@ Each solitaire variant presents its own strategic puzzle. The game tracks player
 
 The Card Flick mini-game provides an arcade-style reward after winning solitaire games, offering a change of pace from the strategic card play.[^ref-6] This feature adds replayability beyond the core solitaire experience.
 
-The game includes comprehensive rule explanations and tutorials for each solitaire variant.[^ref-9] A glossary of solitaire terminology helps players understand concepts like foundations, tableaux, stock piles, and waste piles across different game types.[^ref-9]
+Each game has its own Rules, and the Main Menu offers a Tutorial and a Glossary that defines standard solitaire terms such as the Tableau, Stock pile and Foundations.[^ref-9]
 
 ## Reception
 
@@ -104,19 +102,19 @@ The game includes comprehensive rule explanations and tutorials for each solitai
 
 GameSpot awarded Hoyle Solitaire a score of **7.8 out of 10**, praising its addictive gameplay and comprehensive feature set.[^ref-5] The review emphasized the game's ability to captivate players, noting "The laundry hasn't been done, the bills haven't been paid, and it's all because of this terribly engrossing game."[^ref-5] The reviewer recommended the game as a pleasant alternative to more intense gaming experiences.[^ref-5]
 
-The earlier Volume 2 (1990 DOS version) received mixed reviews regarding its place in the Hoyle series. Computer Gaming World's Michael S. Lasky noted that some of the games were "really children's games and offer no great excitement," though the review acknowledged the comprehensive coverage of solitaire variants.[^ref-3] The same publication observed that "interacting with Sierra characters in Volume 1 such as Leisure Suit Larry and Princess Rosella was fun, but annoying for those who preferred cards to humor," suggesting that the solo focus of Volume 2 and its successors was welcomed by players seeking pure card game experiences.[^ref-3]
+For the series' origins, Computer Gaming World's Michael S. Lasky reviewed *Volume 1* in January 1990 (issue 67). He found playing against Sierra characters such as Leisure Suit Larry and Princess Rosella fun, but annoying for players who preferred cards to humor. He also criticized the game's slow performance and said that some of its games were "really children's games and offer no great excitement".[^ref-3]
 
-Fan reviews praised the Hoyle franchise overall, with one user declaring "Hoyle games are gems! They are the best!"[^ref-10] Sierra Chest's walkthrough warned players "Watch out! It is quite addicting!"—a testament to the game's engaging nature.[^ref-9]
+Sierra Chest's walkthrough warns that the Card Flick bonus game is "quite addicting!"[^ref-9]
 
 ### Modern Assessment
 
-Modern reviews have been generally positive, recognizing Hoyle Solitaire as a quality implementation of classic card games. MyAbandonware lists the game with a user rating of **3.88 out of 5**, with the 2000 version scoring higher at **4.4 out of 5**.[^ref-11] MobyGames assigns a critic score of **64%**, reflecting solid if unspectacular contemporary reception.[^ref-1]
+MyAbandonware's listing for the 1998 Windows release (also covering Windows 3.x and Mac) has a user rating of **3.88 out of 5**.[^ref-11] Its separate listing for the 2000 *Hoyle Solitaire* has **4.4 out of 5**.[^ref-17] MobyGames gives a critic average of **64%** from five ratings.[^ref-1]
 
-Retrospective commentary from Sierra fan communities holds the early Hoyle games in high regard. Forum user C_Guy noted, "For example, when you say 'Hoyle' I immediately think of the first three in the series which I played a lot. Definitely Sierra classics."[^ref-12] This sentiment reflects the franchise's importance in Sierra's broader catalog.
+Fan views of the later Hoyle titles are mixed. In a 2010 Sierra Gamers forum thread, user C_Guy wrote that "Hoyle" made him think of "the first three in the series which I played a lot. Definitely Sierra classics." He added that the many later titles "aren't really an important part of the Sierra we know and love."[^ref-12]
 
 **Aggregate Scores:**
 - **MobyGames:** 64% (Critics)[^ref-1]
-- **MyAbandonware:** 3.88/5 (1996 version), 4.4/5 (2000 version)[^ref-11]
+- **MyAbandonware:** 3.88/5 (1998 Windows listing)[^ref-11], 4.4/5 (2000 version)[^ref-17]
 - **WildTangent:** 3.5/5 (later Hoyle Solitaire & More)[^ref-13]
 - **GameFAQs:** "Good" (2 user ratings for Solitaire and Mahjong Tiles)[^ref-14]
 
@@ -144,7 +142,7 @@ The original Volume 2 (1990) credits include:[^ref-2]
 
 ### Technical Achievements
 
-Hoyle Solitaire showcased Sierra's ability to create polished casual gaming experiences alongside their adventure game catalog. The game's drag-and-drop interface with optional right-click automation provided an intuitive card-playing experience that surpassed the free solitaire implementations bundled with Windows.[^ref-6]
+Hoyle Solitaire showcased Sierra's ability to create polished casual gaming experiences alongside their adventure game catalog. The game's drag-and-drop interface with optional right-click automation provided an intuitive card-playing experience.[^ref-6] GameSpot contrasted its 28 variations with "the namby-pamby solitaire game preloaded into your PC."[^ref-5]
 
 The game supported extensive customization, allowing players to personalize their experience with different card backs, wallpaper backgrounds, and music selections.[^ref-5] The inclusion of the Card Flick arcade mini-game demonstrated Sierra's interest in providing value beyond the core card games.[^ref-6]
 
@@ -166,12 +164,10 @@ The game supported extensive customization, allowing players to personalize thei
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 2.0 | May 31, 1996 | IBM PC, Macintosh | Initial release[^ref-9] |
+| - | May 31, 1996 | IBM PC, Macintosh | First release date per Sierra Chest[^ref-9] |
 | - | June 1996 | Windows 3.x | Windows 16-bit version[^ref-1] |
 | - | 1997 | Macintosh | Mac release[^ref-1] |
 | - | 1998 | Windows | Windows 95/98 rerelease[^ref-1] |
-| 1.0.0.1 | - | Windows | Patch fixing card shortage bug in Terrace and Colorado games[^ref-16] |
-
 **Related Hoyle Solitaire Releases:**
 
 | Version | Date | Platform | Notes |
@@ -184,18 +180,16 @@ The game supported extensive customization, allowing players to personalize thei
 
 ### Technical Issues
 
-Sierra released patches to address various technical issues with Hoyle Solitaire.[^ref-16] A patch disk was made available to allow the game to be played on systems without a sound card, expanding compatibility.[^ref-16] Additional patches addressed compatibility issues with 486 systems and SoundBlaster 16 sound cards.[^ref-16]
-
-Version 1.0.0.1 specifically fixed a card shortage bug that could occur in the Terrace and Colorado game variants, ensuring proper gameplay in these modes.[^ref-16]
+Sierra Help lists one patch for Hoyle Solitaire, HOYLESOL, a patch disk that allows the game to be played on systems without a sound card.[^ref-16]
 
 ### Easter Eggs and Trivia
 
-While Hoyle Solitaire (1996) focused on solo card play without Sierra character cameos, the broader Hoyle series featured numerous easter eggs related to Sierra's game universe:
+While Hoyle Solitaire (1996) focused on solo card play without Sierra character cameos, the earliest Hoyle volume drew on Sierra's game universe:
 
-- The original Volume 1 allowed players to compete against Sierra characters including Leisure Suit Larry, Princess Rosella, and other famous personalities[^ref-3]
-- When players took too long making a decision in Volume 1, the characters would begin having dialogues according to their backgrounds[^ref-3]
-- Characters like Roger Wilco and King Graham would make references to other Sierra games[^ref-18]
-- Computer opponents were categorized as "Serious" and "Not-So-Serious" based on their personalities[^ref-18]
+- The original Volume 1 allowed players to compete against Sierra characters including Leisure Suit Larry, Princess Rosella, Roger Wilco and King Graham[^ref-3][^ref-18]
+- When players took too long making a decision in Volume 1, the characters started having dialogues, each according to their background; Larry comments about women, while Roger Wilco wants to escape the game to save the universe again[^ref-3]
+- All the opponents taunt the player in character, and the conversation can be switched off[^ref-18]
+- Computer opponents were divided into "Serious" and "Not-So-Serious" categories[^ref-18]
 
 The Hoyle brand itself was noteworthy for being licensed from Brown & Bigelow Inc., lending authenticity to Sierra's card game implementations.[^ref-3]
 
@@ -209,7 +203,7 @@ Hoyle Solitaire (1996) does not feature voice acting, as it is a solo card game 
 
 The Hoyle franchise proved to be a significant commercial success for Sierra. The original Volume 1 sold over 250,000 copies by 1990, establishing the brand as a valuable property.[^ref-3] This success led to numerous sequels and spin-offs spanning multiple decades.
 
-Hoyle Solitaire was positioned within Sierra's product strategy as part of the "Sierra Attractions" division, which handled family and board-style games.[^ref-19] This classification placed it alongside Berkeley Systems titles and other casual gaming products, recognizing the different audience for card games compared to Sierra's adventure and action titles.[^ref-19]
+In a 1998 reorganization, Sierra placed its Hoyle license in the new Sierra Attractions division for family and board-style games, alongside Berkeley Systems' brands. The announcement listed "a few Hoyle Classic games" but did not name Hoyle Solitaire specifically.[^ref-19]
 
 The franchise continued under various corporate owners following Sierra's reorganization. After Vivendi Universal's acquisition of Sierra, the Bellevue Studio managed the Hoyle franchise alongside other legacy properties.[^ref-20] Encore, Inc. eventually took over publishing duties, releasing updated versions including *Hoyle Solitaire & More* as late as 2013.[^ref-13]
 
@@ -224,26 +218,26 @@ The game was also included in Sierra's broader catalog distributions and was lat
 
 ### Fan Projects
 
-The Hoyle series is supported by ScummVM, the open-source engine reimplementation project, allowing the original DOS versions to be played on modern systems.[^ref-21] This preservation effort ensures the classic Hoyle games remain accessible to contemporary players.
+ScummVM, the open-source engine reimplementation project, has supported Hoyle Solitaire itself (as an SCI game) since ScummVM 2.1.0, so the game can be played on modern systems.[^ref-21]
 
-Fan communities on Sierra-focused forums continue to discuss the Hoyle series, with many players expressing nostalgia for the early volumes they played extensively.[^ref-12] The games are frequently mentioned in discussions about Sierra's non-adventure game catalog.
+On the Sierra Gamers forum, one fan recalled playing the first three Hoyle volumes a lot.[^ref-12]
 
 ### Related Publications
 
 The Hoyle series takes its name from the historical *Hoyle's Rules of Games*, originally written by Edmond Hoyle in the 18th century.[^ref-3] Sierra's games served as interactive implementations of these authoritative rules.
 
 **In-Game Documentation:**[^ref-9]
-- **Tutorial System:** Built-in tutorials for each solitaire variant
-- **Glossary:** Comprehensive glossary of solitaire terminology
-- **Rule Explanations:** Detailed rules accessible from the game menu
+- **Tutorial:** Available from the Main Menu
+- **Glossary:** Defines standard terms used in solitaire, also from the Main Menu
+- **Rules:** Rules for each game, including its right-click shortcuts
 
 ### Critical Perspective
 
 Hoyle Solitaire represents an important aspect of Sierra's software catalog often overshadowed by the company's adventure game legacy. While titles like *King's Quest* and *Space Quest* defined Sierra's reputation for narrative gaming, the Hoyle franchise demonstrated the company's ability to create polished, accessible experiences for the broader casual gaming market.
 
-The 1996 release exemplified the transition of classic DOS games to Windows platforms, bringing Sierra's established card game expertise to contemporary operating systems. The game's comprehensive 28-variant collection, combined with quality-of-life features like customizable visuals and multi-user statistics tracking, set a standard for digital solitaire implementations that preceded and arguably exceeded the basic solitaire games bundled with Windows.
+The 1996 release exemplified the transition of classic DOS games to Windows platforms, bringing Sierra's established card game expertise to contemporary operating systems. The game's comprehensive 28-variant collection, combined with quality-of-life features like customizable visuals and multi-user statistics tracking, went well beyond the basic solitaire bundled with Windows; GameSpot called its 28 variations "nothing like the namby-pamby solitaire game preloaded into your PC."[^ref-5]
 
-The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 releases—demonstrates the enduring appeal of well-implemented card games. While contemporary reviews sometimes dismissed card games as offering "no great excitement,"[^ref-3] the consistent sales and passionate fan base proved that Sierra had identified a genuine market need. Hoyle Solitaire succeeded by providing exactly what its audience wanted: a reliable, polished, and comprehensive solitaire experience that many users considered essential software for any computer they owned.[^ref-1]
+The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 releases—demonstrates the enduring appeal of well-implemented card games. Computer Gaming World's 1990 review of *Volume 1* had called some of that collection's games "really children's games" with "no great excitement",[^ref-3] but Volume 1 still sold over 250,000 copies by 1990.[^ref-3] Hoyle Solitaire carried the 28-game *Volume 2* collection forward into Windows.[^ref-1]
 
 ## Downloads
 
@@ -252,7 +246,7 @@ The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 
 - [GOG Dreamlist](https://www.gog.com/dreamlist) — community Dreamlist for re-release
 
 **Download / Preservation**
-- [MyAbandonware – Hoyle Solitaire](https://www.myabandonware.com/game/hoyle-solitaire-1xa) — abandonware preservation download
+- [MyAbandonware – Hoyle Solitaire](https://www.myabandonware.com/game/hoyle-solitaire-3l6) — abandonware preservation download
 - [Internet Archive – Hoyle Solitaire (1996)](https://archive.org/details/win3_hoylesol_202209) — disk-image preservation
 
 ## See Also
@@ -320,8 +314,7 @@ The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 
 [^ref-6]: [Internet Archive – Hoyle Solitaire](https://archive.org/details/win3_HoyleSol) – release dates, technical details, features, compatibility
 [^ref-7]: [PCGamingWiki – Hoyle Solitaire](https://www.pcgamingwiki.com/wiki/Hoyle_Solitaire) – engine information, platform support
 [^ref-9]: [Sierra Chest – Hoyle Solitaire Walkthrough](https://sierrachest.com/index.php?a=games&id=524&title=hoyle-solitaire-1996&fld=walkthrough) – gameplay details, features, release date
-[^ref-10]: [GOG Dreamlist – Sierra Hoyle Classic Card Games](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) – user commentary
-[^ref-11]: [MyAbandonware – Hoyle Solitaire](https://www.myabandonware.com/game/hoyle-solitaire-3l6) – user ratings, download information
+[^ref-11]: [MyAbandonware – Hoyle Solitaire](https://www.myabandonware.com/game/hoyle-solitaire-3l6) – 1998 Windows listing (aka Hoyle Classic Solitaire), user rating, download
 [^ref-12]: [Sierra Gamers Forum – Sierra Classics Discussion](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – fan perspectives on Hoyle series
 [^ref-13]: [WildTangent – Hoyle Solitaire & More](https://www.wildtangent.com/p/cards/hoyle-solitaire-more) – system requirements, 2013 release, publisher
 [^ref-14]: [GameFAQs – Hoyle Solitaire and Mahjong Tiles](https://gamefaqs.gamespot.com/pc/681888-hoyle-solitaire-and-mahjong-tiles) – 2000 bundle release, ratings
@@ -330,6 +323,4 @@ The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 
 [^ref-18]: [MobyGames – Hoyle Official Book of Games: Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – character opponents, easter eggs
 [^ref-19]: [GameSpot – Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – Sierra Attractions division, Hoyle license positioning
 [^ref-20]: [GameSpot – Sierra Reorganizes Its Operations](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) – Vivendi/Sierra restructuring, Bellevue Studio
-[^ref-21]: [ScummVM Wiki – Supported Games](https://wiki.scummvm.org/) – Hoyle series support
-[^ref-23]: [Classic Reload – Hoyle Solitaire](https://classicreload.com/hoyle-solitaire.html) – browser emulation, 1996 release
-[^ref-24]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/1163/hoyle-card-games/) – 1999 card games, character descriptions
+[^ref-21]: [ScummVM Wiki – Hoyle Solitaire](https://wiki.scummvm.org/index.php?title=Hoyle_Solitaire) – SCI engine, supported since ScummVM 2.1.0
