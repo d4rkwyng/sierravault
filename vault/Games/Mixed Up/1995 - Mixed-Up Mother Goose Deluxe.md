@@ -5,62 +5,56 @@ developer: Sierra On-Line
 designer: [Roberta Williams]
 publisher: Sierra On-Line
 genre: Educational
-platforms: [DOS, Windows, CD-ROM]
+platforms: [Windows 3.x, Windows 95, Macintosh]
 series: Mixed-Up Mother Goose
-engine: SCI32
+engine: SCI
 protagonist: Child Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-04-21'
-description: Mixed-Up Mother Goose Deluxe is an enhanced educational adventure game
-  originally created by Roberta Williams and released by Sierra On-Line in 1995. This...
+last_updated: '2026-10-13'
+description: Mixed-Up Mother Goose Deluxe is Sierra On-Line's 1995 Windows and Macintosh remake of Roberta Williams' nursery-rhyme adventure for pre-school children, with new graphics and a soundtrack that sets each rhyme in a different musical style.
+composer: [Guy Whitmore]
 tags: [1990s, educational, mixed-up-mother-goose, roberta-williams, sci, sierra]
 ---
 # Mixed-Up Mother Goose Deluxe
 
-<small style="color: gray">Last updated: April 21, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Mixed-Up Mother Goose Deluxe is an enhanced educational adventure game originally created by Roberta Williams and released by Sierra On-Line in 1995[^ref-1]. This deluxe version represents a complete rewrite of the original 1987 Mixed-Up Mother Goose, featuring enhanced MIDI soundtrack, VGA graphics, complete digitized speech along with improved animations and other enhancements[^ref-2]. The game was designed primarily as an educational title for young children, teaching logic, organization, and memory skills through interactive nursery rhyme adventures[^ref-3].
+Mixed-Up Mother Goose Deluxe is a 1995 remake of Roberta Williams' children's adventure Mixed-Up Mother Goose, developed and published by Sierra On-Line for Windows and Macintosh[^ref-1]. MobyGames describes it as "another updated version" of the game with "a new set of graphics" and "a redone soundtrack that has all of the nursery rhymes played in different musical styles"[^ref-1]. Sierra pitched it at children aged 3 to 6, teaching "logic, organization and memory skills"[^ref-4].
 
-Mixed-Up Mother Goose was originally introduced by Roberta Williams in 1987 and became one of the best-loved children's software titles of all time[^ref-4]. The deluxe version maintains the core concept where Mother Goose has inadvertently mixed up all her rhymes, and it's up to the player to help fix them[^ref-5]. Players control a child character who travels through Mother Goose Land, reconnecting various objects with the people they belong to in order to restore the nursery rhymes to their proper order[^ref-6].
+Sierra Chest counts it as the fourth installment of the game, following the 1990 SCI re-release, and describes it as "updated for multimedia computers" with high-resolution graphics and digitized music and voice[^ref-4]. The box also included a music CD of the game's songs[^ref-4][^ref-12].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Design/Writing:** [[Roberta Williams]][^ref-1]
+> **Design/Writing:** [[Roberta Williams]][^ref-16]
 > **Publisher:** Sierra On-Line[^ref-1]
-> **Engine:** SCI32[^ref-1]
-> **Platforms:** DOS, Windows, CD-ROM[^ref-1]
-> **Release Year:** 1995
+> **Engine:** SCI[^ref-1][^ref-23]
+> **Platforms:** Windows 3.x, Windows 95, Macintosh[^ref-4]
+> **Release Year:** 1995[^ref-1]
 > **Series:** Mixed-Up Mother Goose
 > **Protagonist:** Child Player Character
 > **Sierra Lineage:** Core Sierra
+> **Producer:** Wendy Albee[^ref-16]
+> **Composer:** Guy Whitmore[^ref-16]
 
 ## Story Summary
 
-In Mixed-Up Mother Goose Deluxe, the player begins their adventure in a dream where they are carried on gooseback to the fantasy land where nursery rhymes are true stories[^ref-5]. Upon arrival in Mother Goose Land, the player discovers that Mother Goose has mixed up her rhymes and calls upon them to help fix the situation[^ref-7]. The premise centers around classic nursery rhyme problems: Little Bo Peep has lost her sheep, the cat's lost his fiddle, and there's lots of trouble throughout Mother Goose Land[^ref-8].
-
-The player must help restore order by finding 18 items, persons and animals and returning them to their rightful owners or the objects they were looking for[^ref-4]. The game features 18 different nursery rhymes that need to be corrected through the player's intervention[^ref-9]. Each successful restoration results in the characters singing their nursery rhyme, providing both entertainment and educational reinforcement[^ref-6].
+The player's chosen character starts out tucked up in bed, and after a short dream sequence arrives outside the house of Mother Goose, who laments that her rhymes are mixed up because the nursery rhyme characters have lost the items they need[^ref-11]. "Little Bo Peep has lost her sheep; the cat's lost his fiddle; there's lots of trouble in Mother Goose Land"[^ref-8]. The child reunites 18 animated characters with their lost items, and each character then performs its song with animation and text so the child can sing along[^ref-4][^ref-7].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Mixed-Up Mother Goose Deluxe was designed to be extremely accessible for young children, with controls simple enough that even young children can play it when adults are out of the room[^ref-10]. The game primarily uses mouse control, with players clicking to move their character and interact with objects and characters[^ref-9]. When a child picks up an object, it automatically appears in the inventory icon, making inventory management straightforward for young players[^ref-8].
-
-The game allows players to select from 8 different characters at the start[^ref-9], and supports up to twelve children saving their games according to their name[^ref-9]. The bookmark save feature became a prominent element in later Sierra games[^ref-9].
+The child picks a boy or girl character and enters a name, then starts in a bedroom filled with objects to click on; the adventure begins when the child clicks the book[^ref-1]. Movement is point-and-click, and the game saves automatically on quitting[^ref-11]. There is no on-screen text for the spoken dialogue, but when a character asks for an item, a picture of it is shown[^ref-11].
 
 ### Structure and Progression
 
-The gameplay structure is deliberately simple - players walk around Mother Goose Land and reconnect various objects with the people they belong to[^ref-6]. The game features randomly located objects and characters, which provides replay value as the locations change between playthroughs[^ref-9]. Players achieve a maximum score of 18 points by successfully completing all the nursery rhyme restorations[^ref-9].
-
-The game world includes a comprehensive map of Mother Goose Land, which was provided as a free color map with the original release[^ref-9]. This helped young players navigate the fantasy environment and locate the various nursery rhyme characters.
+There are 18 mini-quests, such as finding Jack and Jill's pail or Bo Peep's sheep[^ref-11]. Items are picked up when the character walks near them, and there is only one inventory slot: picking up a new item drops the one already held on that screen[^ref-11]. An egg carton at the bottom left of the screen fills with golden eggs as quests are completed[^ref-11]. A world map can be used for navigation and to hear completed rhymes again, and Mother Goose can tell the player where each object is[^ref-1].
 
 ### Puzzles and Mechanics
 
-The puzzle mechanics focus on matching objects to their appropriate nursery rhyme contexts. The core challenge involves exploration and logical thinking as players must determine which items belong with which characters to complete each rhyme[^ref-11]. The game emphasizes memory skills as players must remember the traditional nursery rhymes to understand what items are missing[^ref-12].
-
-Unlike more complex adventure games, Mixed-Up Mother Goose Deluxe deliberately avoids challenging puzzles, instead focusing on pattern recognition and basic problem-solving skills appropriate for its preschool target audience[^ref-10].
+The items, and at least one of the nursery rhyme characters, are placed randomly, so they are not in the same place each time a game is started[^ref-11]. Metzomagic's reviewer noted that children need to remember where the characters and objects are, and where they have dropped items[^ref-11].
 
 ## Reception
 
@@ -68,113 +62,92 @@ Unlike more complex adventure games, Mixed-Up Mother Goose Deluxe deliberately a
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Compute! | Highly Positive | "I can't think of a better way to teach kids the classical nursery rhymes"[^ref-12] |
-| MobyGames Critics | 80% | Professional review score from 1995[^ref-1] |
-| OldGames | 75% | Retrospective evaluation[^ref-13] |
-| OldGames.sk | 66% | Alternative retrospective score[^ref-14] |
+| Metzomagic (Rosemary Young, Feb 1996) | No numeric score | "This is the perfect title to buy as a starting out computer game"[^ref-11] |
+| MobyGames critic average | 80% | Based on 1 critic rating[^ref-1] |
 
 ### Modern Assessment
 
-Modern user ratings have been consistently positive across multiple platforms. GameFAQs users rated the game as "Great" based on 8 user ratings[^ref-10]. MobyGames players gave it 4.3 out of 5 stars based on 9 ratings with 2 reviews[^ref-2]. MyAbandonware users rated it 4.26-4.27 out of 5[^ref-3]. IMDb users scored it 7.0 out of 10[^ref-15], while Glitchwave rated it 2.52 out of 5[^ref-6].
+| Site | Score |
+|------|-------|
+| MobyGames players | 4.0 out of 5 (2 ratings)[^ref-1] |
+| GameFAQs users | "Great" (8 ratings)[^ref-10] |
+| MyAbandonware users | 4.29 out of 5 (35 votes)[^ref-3] |
+| OldGames.sk | 75%; user average 82% (3 votes)[^ref-13] |
 
-The game continues to be described as "still a popular pre-school / toddler title amongst retrogamers"[^ref-3], demonstrating its enduring appeal in the classic gaming community.
+MyAbandonware calls it "still a popular pre-school / toddler title amongst retrogamers"[^ref-3].
 
 ## Development
 
 ### Origins
 
-Mixed-Up Mother Goose Deluxe represents the fourth installment in the Mixed-Up Mother Goose series[^ref-9] and marked a departure for designer Roberta Williams from her King's Quest series[^ref-9]. While Williams was known primarily for her work on adventure games aimed at older audiences, Mixed-Up Mother Goose demonstrated her versatility as a designer and her commitment to creating quality entertainment for children. The deluxe version was specifically created as an updated version of the original 1987 game[^ref-13], utilizing Sierra's Creative Interpreter (SCI32) game engine with enhanced graphics and sound capabilities[^ref-9].
-
-The original Mixed-Up Mother Goose had established itself as one of the best-loved children's software titles of all time[^ref-4], and Sierra recognized the value in updating this classic property with modern technology. The 1995 deluxe release represented a complete rewrite rather than a simple graphical update, incorporating lessons learned from the intervening years of children's software development.
+Deluxe followed the 1990 SCI re-release of Mixed-Up Mother Goose[^ref-4]. Wikipedia calls it the final remake, with "further improved SVGA graphics and a bonus audio CD, as well as the introduction of different melodies and styles of music"[^ref-12]. A MobyGames user review says it reuses most of the previous version's assets[^ref-1].
 
 ### Production
 
-The development team assembled extensive voice talent for the CD-ROM version, creating a fully voiced experience unusual for children's software of the era. The voice cast included Daniel Aldante, Brittany Benov, Nancy Bickley, Darby Bree Cogburn, Bill Davis, Paul De Pledge, Robert Fischbach, Chris Hoyt, and Chris Iden providing character voices[^ref-2]. Additional voice and singing talent included Kayce Glasse, September Luketz, Sione Unga, and Bob Wickline[^ref-16].
+MobyGames credits 37 people (32 professional roles and 5 thanks)[^ref-16]. Roberta Williams is credited as designer, Wendy Albee as producer, Marcia Bales as lead artist, and Ellen Ratajak, Robert W. Lindsley and Oliver Brelsford as lead programmers[^ref-16]. Guy Whitmore composed the music[^ref-16][^ref-7]. Rhonda Matson is credited as Spanish expert[^ref-16].
 
-The musical composition was handled by an impressive team including Amenda Lombardo, Guy Whitmore, Ken Allen, and Mark Seibert[^ref-17]. These composers brought both original compositions and arrangements of traditional nursery rhyme melodies to create an immersive audio experience. The game credits include 37 people across 32 professional roles, demonstrating the significant production effort behind this enhanced version[^ref-9].
+The nursery rhymes are set in many popular music styles, "from Reggae to Blues to Country and Western," according to Metzomagic[^ref-11].
 
 ### Voice Cast
 
+New voice and singing talent is credited alongside "all the character voices from previous versions"[^ref-16]:
+
 | Actor | Role |
 |-------|------|
-| Daniel Aldante | Character voices[^ref-2] |
-| Brittany Benov | Character voices[^ref-2] |
-| Nancy Bickley | Character voices[^ref-2] |
-| Darby Bree Cogburn | Character voices[^ref-2] |
-| Bill Davis | Character voices[^ref-2] |
-| Paul De Pledge | Character voices[^ref-2] |
-| Robert Fischbach | Character voices[^ref-2] |
-| Chris Hoyt | Character voices[^ref-2] |
-| Chris Iden | Character voices[^ref-2] |
-| Kayce Glasse | Singing[^ref-16] |
-| September Luketz | Singing[^ref-16] |
-| Sione Unga | Singing[^ref-16] |
-| Bob Wickline | Singing[^ref-16] |
+| Kayce Glasse | Voice/singing talent[^ref-16] |
+| September Luketz | Voice/singing talent[^ref-16] |
+| Sione Unga | Voice/singing talent[^ref-16] |
+| Bob Wickline | Voice/singing talent[^ref-16] |
 
 ### Technical Achievements
 
-The deluxe version featured several technical improvements over earlier versions, including full-screen animated graphics, VGA and SVGA resolution support, enhanced MIDI soundtrack, digitized music and voice, and improved animations[^ref-2]. The game included multimedia features such as digitized music and voice that were advanced for educational software of the time[^ref-9].
-
-**Technical Specifications:**
-
 | Feature | Specification |
 |---------|--------------|
-| Engine | SCI32 (Sierra Creative Interpreter)[^ref-9] |
-| Graphics | VGA/SVGA[^ref-2] |
-| Audio | Enhanced MIDI, Digitized Speech[^ref-2] |
-| Storage | Approximately 383.9MB[^ref-9] |
-| Media | CD-ROM required[^ref-18] |
+| Engine | SCI; ScummVM's detection notes report interpreter version 2.100.002[^ref-23] |
+| Media | CD-ROM[^ref-1] |
+| Input | Mouse[^ref-1] |
+| Languages | English and Spanish; the European release adds French and German[^ref-11][^ref-9] |
 
-An important technical detail is that most of the game's resources are stored on the CD, and the game requires an argument of the path to the CFG file to run properly[^ref-18]. The bookmark save feature, which allows up to twelve children to save their progress under their names, became a prominent element that would appear in later Sierra games[^ref-9].
+Most of the game's resources stay on the CD. The Windows executable must be launched with the path to its RESOURCE.CFG file, or it fails with a "Title not found" error[^ref-18].
 
 ## Legacy
 
-Mixed-Up Mother Goose Deluxe earned several prestigious awards, including the Parent's Choice Classic Software Award and the Children's Software Award for Preschoolers from Parenting Magazine[^ref-19]. It also received the Software Publishers Association Excellence in Software Award for Best Early Education Program in 1991[^ref-12].
+The Amazon product listing for Deluxe names the Parent's Choice Classic Software Award and Parenting Magazine's Children's Software Award for Preschoolers[^ref-19]. According to Sierra's advertisement for Deluxe, Mixed-Up Mother Goose had sold over 500,000 copies by 1995[^ref-12].
 
-The game's influence extended beyond its direct educational impact. It was referenced in other Sierra games, with Space Quest V including a death message that reads "Looks like you've been spreading yourself a bit thin lately. Perhaps you'd like to try one of our less challenging games like 'Mixed Up Mother Goose?'"[^ref-20]
+Coktel Vision released the game in Europe with English, Latin American Spanish, French and German options. The French and German versions are fully dubbed, including the songs[^ref-9]. The localized titles were *Ballades au pays de Mère l'Oie* (French), *Gänseliesel Musikalisches Suchspiel* (German) and *Baladas en el País de la Madre Ganso* (Spanish)[^ref-1]. The game was also included in *King's Quest: Collection Series* (1997)[^ref-1].
 
-The series continued with Mixed-Up Fairy Tales in 1991[^ref-12], and the game received international releases with full localization, including French ("Ballades au pays de Mère l'Oie"), German ("Gänserliesel Musikalisches Suchspiel"), and Spanish ("Baladas en el País de la Madre Ganso") versions that were fully dubbed, including songs[^ref-21].
+ScummVM supports the Windows version (game ID `sci:mothergoosehires`) at "Excellent" level; the Macintosh version is listed as unsupported[^ref-22].
 
 ## Downloads
 
 **Purchase / Digital Stores**
 - Currently unavailable on major digital platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [MyAbandonware - Deluxe Version](https://www.myabandonware.com/game/mixed-up-mother-goose-deluxe-3n7)
-- [Archive.org](https://archive.org/details/mother_go)
+- [Archive.org - EU Multi4 release](https://archive.org/details/mother_go)
 - [Play Classic Games](https://playclassic.games/games/adventure-dos-games-online/play-mixed-mother-goose-deluxe-online/)
 
 ## See Also
 
 - [[1991 - Mixed-Up Fairy Tales|← Previous: Mixed-Up Fairy Tales]]
-
 - [[1987 - Mixed-Up Mother Goose]]
 - [[1990 - Mixed-Up Mother Goose (SCI Remake)]]
 
-- **Next:** Mixed-Up Fairy Tales (1991)
-
 ## References
 
-[^ref-1]: [MobyGames - Mixed-Up Mother Goose Deluxe](https://www.mobygames.com/game/3327/mixed-up-mother-goose-deluxe/) – - Basic game information and credits
-[^ref-2]: [MobyGames - Mixed-Up Mother Goose](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) – - Official game description
-[^ref-3]: [MyAbandonware - Deluxe](https://www.myabandonware.com/game/mixed-up-mother-goose-deluxe-3n7) – - Game description and technical details
-[^ref-4]: [Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=236) – - Game history information
-[^ref-5]: [MyAbandonware - Original](https://www.myabandonware.com/game/mixed-up-mother-goose-yh) – - Game premise description
-[^ref-6]: [Glitchwave](https://glitchwave.com/game/mixed-up-mother-goose/) – - Gameplay mechanics description
-[^ref-7]: [Never Die Media](https://www.neverdiemedia.com/products/mixed-up-mothergoose-deluxe-soundtrack-w-no-artwork) – - Game description
-[^ref-8]: [Sierra Chest - General](https://sierrachest.com/index.php?a=games&id=236&fld=general) – - Story premise
-[^ref-9]: [Archive.org](https://archive.org/details/mother_go) – - Technical specifications
-[^ref-10]: [GameFAQs](https://gamefaqs.gamespot.com/pc/955308-mixed-up-mother-goose-deluxe) – - Accessibility features
-[^ref-11]: [Metzo Magic](https://www.metzomagic.com/showArticle.php?index=118) – - Puzzle mechanics review
-[^ref-12]: [Wikipedia](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – - Educational value
-[^ref-13]: [OldGames](https://www.oldgames.sk/en/game/mixed-up-mother-goose-deluxe/reviews/) – - Retrospective score
-[^ref-14]: [OldGames.sk](https://www.oldgames.sk/en/game/mixed-up-mother-goose-enhanced/download/7422/) – - Alternative score
-[^ref-15]: [IMDb](https://www.imdb.com/find/?q=Mixed-Up+Mother+Goose+Deluxe&s=tt) – - User score
-[^ref-16]: [MobyGames - Credits](https://www.mobygames.com/game/3327/mixed-up-mother-goose-deluxe/credits/windows/) – - Additional voice talent
-[^ref-17]: [KHInsider](https://downloads.khinsider.com/game-soundtracks/album/mixed-up-mother-goose-deluxe-bonus-soundtrack-cd-1995) – - Composer credits
-[^ref-18]: [Vogons](https://www.vogons.org/viewtopic.php?t=49581) – - Technical requirements
-[^ref-19]: [Amazon](https://www.amazon.com/Mixed-up-Mother-Goose-Deluxe/dp/B00424KWVC) – - Awards information
-[^ref-20]: [Sierra Wiki](https://sierra.fandom.com/wiki/Mixed-Up_Mother_Goose) – - Space Quest reference
-[^ref-21]: [MobyGames - Cover](https://www.mobygames.com/game/3327/mixed-up-mother-goose-deluxe/cover/group-41428/cover-111460/) – - International versions
+[^ref-1]: [MobyGames - Mixed-Up Mother Goose Deluxe](https://www.mobygames.com/game/3327/mixed-up-mother-goose-deluxe/) – Description, platforms, critic and player scores, user review, alternate titles
+[^ref-3]: [MyAbandonware - Mixed-Up Mother Goose Deluxe](https://www.myabandonware.com/game/mixed-up-mother-goose-deluxe-3n7) – User rating and description
+[^ref-4]: [Sierra Chest - Mixed-Up Mother Goose Deluxe](https://www.sierrachest.com/index.php?a=games&id=236) – Target age, release history, platforms, music CD
+[^ref-7]: [NeverDieMedia - Mixed-Up Mother Goose Deluxe Soundtrack](https://www.neverdiemedia.com/products/mixed-up-mothergoose-deluxe-soundtrack-w-no-artwork) – Soundtrack CD listing, composer, premise
+[^ref-8]: [Sierra Chest - General](https://sierrachest.com/index.php?a=games&id=236&fld=general) – Story premise
+[^ref-9]: [Archive.org - Mixed-Up Mother Goose Deluxe (EU Multi4)](https://archive.org/details/mother_go) – European Coktel Vision release and languages
+[^ref-10]: [GameFAQs - Mixed-Up Mother Goose Deluxe](https://gamefaqs.gamespot.com/pc/955308-mixed-up-mother-goose-deluxe) – User rating
+[^ref-11]: [Metzomagic - Mixed-up Mother Goose Deluxe Review](https://www.metzomagic.com/showArticle.php?index=118) – Rosemary Young, February 1996
+[^ref-12]: [Wikipedia - Mixed-Up Mother Goose](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – Deluxe remake and sales figure
+[^ref-13]: [OldGames.sk - Mixed-Up Mother Goose Deluxe](https://www.oldgames.sk/en/game/mixed-up-mother-goose-deluxe/reviews/) – Site and user scores
+[^ref-16]: [MobyGames - Credits](https://www.mobygames.com/game/3327/mixed-up-mother-goose-deluxe/credits/windows/) – Windows credits
+[^ref-18]: [Vogons - Mixed-Up Mother Goose Deluxe thread](https://www.vogons.org/viewtopic.php?t=49581) – Launch requirements
+[^ref-19]: [Amazon - Mixed-up Mother Goose Deluxe](https://www.amazon.com/Mixed-up-Mother-Goose-Deluxe/dp/B00424KWVC) – Awards listed on the product page
+[^ref-22]: [ScummVM - Compatibility: Mixed-Up Mother Goose Deluxe](https://www.scummvm.org/compatibility/DEV/sci:mothergoosehires/) – Support level and platforms
+[^ref-23]: [ScummVM - SCI detection tables](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/sci/detection_tables.h) – Mixed-Up Mother Goose Deluxe entries, interpreter version
