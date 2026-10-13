@@ -10,84 +10,84 @@ series: The Incredible Machine
 engine: Physics simulation engine
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-03-27'
+last_updated: '2026-10-13'
 composer: [Christopher Stevens]
-description: The Even More Incredible Machine is a puzzle game released in 1993 that
-  expanded upon the beloved original Incredible Machine with new content while...
+description: The Even More Incredible Machine is a 1993 puzzle game that repackaged
+  the original Incredible Machine's 87 puzzles with 73 new ones, plus new parts and
+  music.
 tags: [1990s, dynamix, puzzle, sierra, the-incredible-machine]
 ---
 # The Even More Incredible Machine
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-The Even More Incredible Machine is a puzzle game released in 1993 that expanded upon the beloved original Incredible Machine with new content while retaining the core Rube Goldberg-inspired gameplay that made the series famous[^ref-1]. Developed by [[Jeff Tunnell Productions]] under the Dynamix banner and published by [[Sierra On-Line]], the game challenged players to build elaborate contraptions using common household objects to accomplish simple tasks through complex chain reactions[^ref-2]. The title represents a "vintage blend of educational and entertainment software at their finest," combining physics-based puzzle solving with creative sandbox gameplay[^ref-3].
+The Even More Incredible Machine is a puzzle game released in 1993 that expanded upon the original Incredible Machine with new content while retaining the core Rube Goldberg-inspired gameplay of the series[^ref-1]. Developed by [[Jeff Tunnell Productions]] under the Dynamix banner and published by [[Sierra On-Line]], the game challenged players to arrange common household objects in elaborate configurations to accomplish simple tasks through chain reactions[^ref-2].
 
-The game includes 87 puzzles from the original Incredible Machine alongside 73 brand new puzzles, bringing the total to 160 levels of increasingly challenging contraption-building gameplay[^ref-4]. New parts and enhanced music accompanied these additional puzzles, offering both returning players and newcomers substantial content to explore[^ref-5]. The core gameplay remained unchanged from its predecessor—players solve puzzles using only the parts provided, arranging them in elaborate configurations to effect simple state changes like turning on a light or getting a ball into a basket[^ref-1].
+The game includes 87 puzzles from the original Incredible Machine alongside 73 brand new puzzles, bringing the total to 160 levels[^ref-1]. New parts and music accompanied these additional puzzles[^ref-1]. The core gameplay remained unchanged from its predecessor: players solve puzzles using only the parts provided[^ref-1].
 
-Few games can offer the same sense of satisfaction that comes from seeing a plan come together, and The Even More Incredible Machine exemplifies this design philosophy[^ref-6]. Whether classified as edutainment or purely as a puzzle game, the title became recognized as "an exceptionally amusing videogaming classic" that demonstrated how physics simulation could create endlessly engaging gameplay[^ref-7]. The game's appeal extended beyond traditional gaming audiences, reportedly causing "a chain reaction that brought productive work to a halt at a major naval yard" when demonstrated to an engineer friend of the development team[^ref-3].[^ref-17][^ref-20]
+Computer Gaming World's Ed Dille, reviewing it in November 1993, judged that it "lives up to it's billing, surpassing the original in terms of play value, if not presentation"[^ref-21].
 
 > [!info]- Game Info
 > **Developer:** [[Jeff Tunnell]] Productions / [[Dynamix]], Inc.[^ref-1]
-> **Designer:** [[Kevin Ryan]], Jeffrey Tunnell[^ref-7]
+> **Designer:** [[Kevin Ryan]], Jeffrey Tunnell[^ref-1]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
 > **Engine:** Physics simulation engine (deterministic)[^ref-3]
 > **Platforms:** DOS, Windows 3.x, Macintosh[^ref-1]
 > **Release Year:** 1993
 > **Series:** The Incredible Machine
 > **Protagonist:** N/A
-> **Sierra Lineage:** Dynamix
+> **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Story Summary
 
-The Even More Incredible Machine does not feature a traditional narrative storyline, as the game focuses entirely on puzzle-solving mechanics rather than plot-driven gameplay[^ref-4]. Players take on the role of an inventor or engineer tasked with completing various objectives using increasingly complex contraptions built from everyday objects and mechanical components.
+The Even More Incredible Machine does not feature a traditional narrative storyline, as the game focuses entirely on puzzle-solving mechanics rather than plot-driven gameplay[^ref-4].
 
-Each puzzle presents a specific goal that must be accomplished—such as getting a basketball into a hoop, turning on a light, or helping a small character reach a destination—using only the parts provided in that particular level[^ref-1]. The challenges range from simple setups requiring only a few components to elaborate multi-stage machines that require precise timing and positioning of dozens of interacting elements.
+Every puzzle begins with a stated goal (such as "make all five guns go off"), a preset arrangement of pieces on the screen which cannot be moved, and several pieces in a box; the player must find the arrangement of those pieces that accomplishes the objective[^ref-21]. Computer Gaming World noted that early puzzles are easy for most adults, while later ones "can be cruelly mind bending"[^ref-21].
 
-The game's "Freeform Mode" allows players to transcend the structured puzzles entirely, providing a sandbox environment where they can create their own machines and scenarios without objectives or part restrictions[^ref-4]. This creative freedom became a beloved feature, with players reporting spending hours constructing elaborate contraptions for pure entertainment, such as "filling [a map] to the border with pinball bumpers...and then putting about 20 tiny little human guys in there...so they fall and bounce all over the place"[^ref-8].
+The game's free form mode lets players design and save their own puzzles: they build a fully functional machine, remove whichever pieces they choose to form the puzzle, and can add non-functional pieces to throw other players off track[^ref-21]. User-created free form puzzles are saved as `.TIM` files[^ref-9].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The Even More Incredible Machine uses a mouse-driven point-and-click interface that allows players to select, position, and adjust various mechanical parts on a 2D playing field[^ref-4]. Players can drag components from a parts palette onto the workspace, rotate certain objects, and adjust their precise positioning to create functional machines[^ref-6]. The keyboard also supports functionality, with keys 1-9 and A-L allowing players to select different music tracks during Freeform mode gameplay[^ref-9].
+The Even More Incredible Machine uses a mouse-driven point-and-select interface, with keyboard support[^ref-1]. Players place parts from the puzzle's parts box onto a 2D playing field alongside the fixed pieces already on screen[^ref-21]. In Freeform mode, keys 1-9 and A-L select different music tracks[^ref-9].
 
-The game operates on a deterministic physics engine that produces consistent results without random number generation, meaning the same machine configuration will always produce identical outcomes when activated[^ref-3]. This predictability is essential to the puzzle design, allowing players to test, iterate, and perfect their solutions through experimentation.
+The game's physics engine does not use a random number generator, so the results for any given machine are deterministic[^ref-3]. This predictability is essential to the puzzle design, allowing players to test, iterate, and perfect their solutions through experimentation.
 
 ### Structure and Progression
 
-The game presents 160 total puzzles organized in escalating difficulty[^ref-4]:
+The game presents 160 total puzzles[^ref-1]:
 
-- **Puzzles 1-87:** Classic challenges carried over from the original Incredible Machine, providing familiar content for returning players and a solid foundation for newcomers[^ref-9]
-- **Puzzles 88-160:** All-new challenges featuring additional parts and more complex solutions, representing the "even more" content promised in the title[^ref-9]
-- **Freeform Mode:** An unlimited sandbox mode where players can build contraptions without objectives or restrictions[^ref-4]
+- **Puzzles 1-87:** Puzzles carried over from the original Incredible Machine; the game marks these as already solved so returning players can skip directly to the new ones[^ref-9]
+- **Puzzles 88-160:** The new puzzles that make this edition "even more" incredible[^ref-9]
+- **Freeform Mode:** A sandbox mode for designing and saving your own puzzles[^ref-21]
 
-The puzzles can also include variable environmental conditions, with some featuring altered gravity settings or atmospheric pressure changes that affect how objects behave[^ref-10].
+Every puzzle carries two bonus values: one for speed of completion, which decreases as time passes, and a preset value based on the puzzle's difficulty[^ref-21].
 
 ### Puzzles and Mechanics
 
-The game features 45 different types of parts that players can use to build their contraptions[^ref-10]. These include common household objects, mechanical devices, and whimsical elements that interact according to simulated physics rules:
+Computer Gaming World described the game as offering "10 more playing pieces" than the original[^ref-21]; Sierra's own advertisement in the same issue promised "over 70 new puzzles, 11 new tools"[^ref-21]. Parts mentioned in the review and advertisement include:
 
-- **Mechanical Elements:** Gears, pulleys, conveyor belts, trampolines, and various switches
-- **Projectiles and Containers:** Balls, balloons, baskets, and buckets
-- **Power Sources:** Generators, motors, and explosive devices
-- **Living Components:** Small human figures, mice, and cats that move and interact with the environment
-- **Decorative/Functional:** Pinball bumpers, ramps, and various structural elements
+- **Mechanical elements:** Pulleys and ropes, see-saws, trampolines, conveyor belts, and bellows[^ref-21]
+- **Balls and containers:** Bowling balls, balloons, and buckets[^ref-21]
+- **Power sources:** Electric generators, motors, and solar panels, plus rats running in a cage wheel and monkeys pedaling bicycles toward a dangling banana[^ref-21]
+- **Creatures:** Cats, goldfish, alligators, and "little men"[^ref-21]
 
-The game emphasizes creative problem-solving, with most puzzles allowing multiple valid solutions[^ref-10]. Players must understand how different components interact—how a ball's momentum transfers through impacts, how gravity affects falling objects, and how timing sequences can trigger chain reactions—to successfully complete challenges[^ref-6].
+The game adheres to the principles of gravity and air density: puzzles have preset values for these settings, while free form users can set gravity anywhere from normal to complete weightlessness and atmospheric pressure from ocean-floor levels to the vacuum of deep space[^ref-21]. It also models the exchange of kinetic and potential energy, demonstrated most simply by a see-saw and two bowling balls[^ref-21].
+
+Some puzzles provide more objects than necessary as red herrings, and the more sophisticated ones require precise timing as well as correct placement[^ref-21]. Because each puzzle is a dynamic physics simulation rather than a problem with a hard-coded solution, many puzzles in the series have multiple solutions[^ref-10].
 
 ## Reception
 
 ### Contemporary Reviews
 
-The Even More Incredible Machine received positive reception as an enhanced version of an already beloved puzzle game. The series was recognized for its unique blend of entertainment and educational value, with IGN describing the franchise as "a vintage blend of educational and entertainment software at their finest"[^ref-3]. The game's physics-based puzzles gained recognition for helping develop problem-solving skills while remaining genuinely entertaining[^ref-8].
+Computer Gaming World reviewed the DOS version in its November 1993 issue (#112). Ed Dille concluded that The Even More Incredible Machine "lives up to it's billing, surpassing the original in terms of play value, if not presentation"[^ref-21]. Although noting that the game "isn't billed as an educational product," he called it "a valuable tool in developing analytical thought and an appreciation of physics in young minds"[^ref-21].
 
-The original Incredible Machine's impact on gaming culture was demonstrated dramatically when Neil Harris wrote in Computer Gaming World about how showing the game to an engineer friend caused "a chain reaction that brought productive work to a halt at a major naval yard"[^ref-3].
+Writing in Computer Gaming World in 1994, Neil Harris reported that showing the original Incredible Machine to an engineer friend caused "a chain reaction that brought productive work to a halt at a major naval yard"[^ref-3].
 
 ### Modern Assessment
-
-Modern retrospectives continue to view The Even More Incredible Machine favorably as a classic of the puzzle genre. User reviews on gaming preservation sites describe it as "the greatest puzzle game ever" and praise its enduring appeal[^ref-8]. The game maintains strong user ratings across multiple platforms, reflecting its lasting legacy in the puzzle game genre.
 
 **Aggregate Scores:**
 - **MobyGames:** 84% (Critics)[^ref-1]
@@ -95,48 +95,51 @@ Modern retrospectives continue to view The Even More Incredible Machine favorabl
 - **PlayMiniGames:** 4.33/5[^ref-11]
 - **GameFAQs:** "Great" rating (21 user ratings)[^ref-4]
 
-The original Incredible Machine achieved significant recognition, being inducted into the Computer Gaming World Hall of Fame in 2006 and ranked #62 in their "150 Best Games of All Time" list in 1996[^ref-7].
+The original Incredible Machine ranked #62 in Computer Gaming World's "150 Best Games of All Time" list in 1996 and was inducted into the magazine's Hall of Fame in 2006[^ref-7].
 
 ## Development
 
 ### Origins
 
-The Incredible Machine concept originated with designer [[Kevin Ryan]], who had been developing ideas for a Rube Goldberg-style puzzle game for years before the opportunity to create it arose[^ref-2]. The game was inspired by multiple sources, including Bill Budge's Pinball Construction Set, the classic Mouse Trap board game, and the puzzle mechanics of Lemmings[^ref-10]. The concept drew heavily from the works of Rube Goldberg, whose elaborate cartoon contraptions depicted complex machines designed to perform simple tasks in the most convoluted way possible[^ref-2].
+The Incredible Machine was Jeff Tunnell's idea. According to The Digital Antiquarian, he and [[Damon Slye]] had discussed it when first forming Dynamix in 1983, when Electronic Arts' Pinball Construction Set was popularising construction-kit games[^ref-10]. The machine-construction idea never left Tunnell, and after he founded Jeff Tunnell Productions in early 1992 he decided the time was finally right to make it[^ref-10].
 
-Three weeks after Ryan had been working on game concepts, Jeff Tunnell left a phone message offering him a job at Jeff Tunnell Productions specifically to develop "a Rube Goldberg game"[^ref-12]. This partnership would prove instrumental in bringing The Incredible Machine to life and establishing it as a successful franchise.
+[[Kevin Ryan]], a programmer who had worked at Dynamix almost from the beginning, left the company in November 1991. Three weeks later Tunnell left him a phone message offering a job at Jeff Tunnell Productions to develop "a Rube Goldberg game"[^ref-12]. Ryan's years building vehicle simulators for Dynamix gave him much of the expertise and even code he needed, and he had the basic engine working within a handful of months[^ref-10]. The Digital Antiquarian also identifies the Mouse Trap board game and DMA Design's Lemmings as clear influences[^ref-10].
 
 ### Production
 
-The original Incredible Machine was developed on a remarkably modest budget of $36,000 over approximately nine months[^ref-3]. This lean development approach was characteristic of Jeff Tunnell Productions, which operated as a smaller studio under the Dynamix umbrella while maintaining creative independence.
+According to Wikipedia, Kevin Ryan programmed the original Incredible Machine in nine months on a budget of about $36,000[^ref-3]. Jeff Tunnell Productions, which Tunnell started after leaving Dynamix, made its games for Sierra On-Line[^ref-13].
 
-Jeff Tunnell Productions developed The Even More Incredible Machine after Tunnell left Dynamix to start his own company, though the studio continued to work closely with Sierra On-Line for publishing and distribution[^ref-13]. The development team focused on creating new puzzle content and additional parts while preserving the physics engine and interface that made the original game successful.
+Once the core engine existed, "all that remained for Tunnell and company was to churn out more puzzles"; The Digital Antiquarian describes The Even More Incredible Machine as "a re-packaging of the original game with an additional 73 puzzles"[^ref-10]. It sold for $49.95, and registered owners of the original could upgrade for $19.95[^ref-21].
 
-**Development Credits:**[^ref-7]
-- **Designer:** Kevin Ryan
-- **Designer:** Jeffrey Tunnell
-- **Composer:** Christopher Stevens
+**Development Credits:**[^ref-1]
+- **Producer:** Jeffrey Tunnell
+- **Designers:** Kevin Ryan, Jeffrey Tunnell
+- **Programmer:** Kevin Ryan
+- **Art Director:** Brian Hahn
+- **Artist:** Dennis Clevenger
+- **Puzzlomaniacs:** Kevin Ryan, Richard Tunnell, Matt Uhre
+- **Music and Sound Effects:** Christopher Stevens
 
 ### Technical Achievements
 
-The game's physics simulation engine was a significant technical achievement for its era, providing deterministic simulation that allowed complex multi-body interactions to be calculated in real-time[^ref-3]. Unlike many games that used random number generators for variety, The Incredible Machine's engine ensured that identical setups would produce identical results every time—a critical feature for puzzle gameplay that required precise solutions.
-
-The engine simulated gravity, momentum, friction, and collision detection across dozens of simultaneously active objects, allowing players to create genuinely complex chain reactions[^ref-10]. The system was sophisticated enough to support variable gravity and atmospheric pressure settings in certain puzzles, demonstrating the simulation's flexibility[^ref-10].
+The physics engine does not use a random number generator, ensuring that identical setups produce identical results every time[^ref-3]. The series simulates not only physical interactions between objects but also ambient effects such as air pressure and gravity[^ref-3].
 
 ### Technical Specifications
 
-**CD-ROM Version:**[^ref-1]
-- **Resolution:** 640x448, 16 colors (VGA)[^ref-9]
-- **Audio:** Contains regular CD audio tracks for background music[^ref-1]
-- **Media:** CD-ROM with enhanced audio quality
+**DOS Video:** VGA, 640x448 in 16 colors[^ref-9]
 
-**Floppy Version:**[^ref-1]
-- **Media:** 3.5" Floppy Disk
-- **Audio:** MIDI-based music (lower quality than CD version)
+**CD-ROM Version:**
+- **Audio:** Contains regular CD audio tracks for background music[^ref-1]; the English CD-ROM version includes speech[^ref-9]
 
-**GOG.com Release (2009):**[^ref-14]
-- **Installer Size:** 16.8 MB
-- **Localization:** English
-- **Platform:** Windows (via DOSBox emulation)
+**Floppy Version:**
+- **Media:** 3.5" Floppy Disk[^ref-1]
+- **Audio:** Music through supported sound boards. According to MobyGames, the CD audio tracks are the only difference between the CD and disk versions, and if a supported music board is selected instead of CD audio there is no difference between the two[^ref-1]
+
+**GOG.com Release:**
+- **Installer Size:** 16.8 MB[^ref-14]
+- **Localization:** English[^ref-14]
+- **Platform:** Windows, pre-packaged with DOSBox[^ref-9]
+- **Status:** No longer in the GOG store[^ref-14]
 
 ### Cut Content
 
@@ -146,17 +149,18 @@ No significant cut content has been documented for The Even More Incredible Mach
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1993 | DOS | Initial release with floppy disk distribution[^ref-1] |
-| 1.0 | 1993 | Windows 3.x | Windows version release[^ref-5] |
-| 1.0 | 1993 | Macintosh | Mac OS release[^ref-5] |
-| CD-ROM | 1993 | DOS/Windows | Enhanced CD audio version[^ref-1] |
+| Original | 1993 | DOS | Floppy release[^ref-1] |
+| Original | 1993 | Windows 3.x | Windows version release[^ref-5] |
+| Original | 1993 | Macintosh | Mac OS release[^ref-5] |
+| CD-ROM | 1993 | DOS/Windows | Adds CD audio music tracks[^ref-1] |
+| Japanese | 1995 | Windows | Published in Japan by Cybelle[^ref-22] |
 | Digital | October 1, 2009 | Windows | GOG.com re-release via DOSBox[^ref-9] |
 
-**Regional Release Variations:**[^ref-8]
-- **United Kingdom:** 1993 (DOS)
-- **United States:** 1994 (DOS)
-- **France:** 1995 (DOS)
-- **Japan:** Released as "もっともっとインクレディブル・マシーン"[^ref-15]
+**Regional Release Variations:**
+- **United Kingdom:** 1993 (DOS)[^ref-8]
+- **United States:** MyAbandonware lists 1994 (DOS)[^ref-8], though Computer Gaming World reviewed it in November 1993 with a US price of $49.95[^ref-21]
+- **France:** 1995 (DOS)[^ref-8]
+- **Japan:** Released as "もっともっとインクレディブル・マシーン"[^ref-1]; a 1995 Windows CD-ROM was published by Cybelle[^ref-22]
 
 ### Technical Issues
 
@@ -167,28 +171,28 @@ Several technical issues have been documented for various versions of the game[^
 - **Recent Puzzle Feature:** The "most recent puzzle" feature only works correctly starting with puzzle #88
 - **Score Persistence:** Player scores are not stored when exiting the game
 - **Volume Bug:** Setting volume values larger than 6 causes graphical corruption and can cause the application to hang
-- **GOG.com Release:** Digital distribution version does not include speech and/or CD-audio tracks, resulting in reduced music quality compared to original CD-ROM release[^ref-9]
+- **GOG.com Release:** Digital distribution version does not include speech and/or CD-audio tracks[^ref-9]
 
 A community patch (GOG2CD Patch v.13062023) was created by modder Patrxgt to address the audio quality issues, replacing the low-quality floppy disk audio files with higher-quality versions from the original CD-ROM release[^ref-16].
 
 ### Easter Eggs and Trivia
 
-The game includes several holiday-themed Easter eggs that appear when playing on specific dates[^ref-17]:
+The game includes several holiday-themed secret parts that appear in Freeform mode when the computer's date is set to specific days[^ref-17]:
 
-- **October 31:** A Halloween Pumpkin appears in the game
-- **December 25:** A Christmas Tree decoration becomes available
-- **March 17:** A Four Leafed Clover appears for St. Patrick's Day
-- **February 14:** An unpoppable heart-shaped balloon appears for Valentine's Day
+- **October 31:** A Halloween Pumpkin
+- **December 25:** A Christmas Tree
+- **March 17:** A Four Leafed Clover
+- **February 14:** An unpoppable, heart-shaped balloon
 
-The original Incredible Machine was recognized in "1001 Video Games You Must Play Before You Die," cementing its status as an important title in gaming history[^ref-7].
+The original Incredible Machine appears in the book "1001 Video Games You Must Play Before You Die"[^ref-7].
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-The Incredible Machine series achieved substantial commercial success, selling over 1 million copies by 2000[^ref-3]. This sales performance established the franchise as one of Dynamix's most successful properties and led to numerous sequels and spin-offs over the following decade.
+The Incredible Machine series sold over one million copies by 2000[^ref-3].
 
-The series spawned multiple follow-up titles including The Incredible Machine 2 (1994), Sid & Al's Incredible Toons (1993), The Incredible Toon Machine (1994), The Incredible Machine 3 (1995), Return of the Incredible Machine: Contraptions (2000), and The Incredible Machine: Even More Contraptions (2001)[^ref-2].
+The series spawned multiple follow-up titles including The Incredible Machine 2 (1994), Sid & Al's Incredible Toons (1993), The Incredible Toon Machine (1994)[^ref-20], The Incredible Machine 3 (1995), Return of the Incredible Machine: Contraptions (2000), and The Incredible Machine: Even More Contraptions (2001)[^ref-2].
 
 ### Awards
 
@@ -196,34 +200,24 @@ The franchise received industry recognition, with Return of the Incredible Machi
 
 ### Collections
 
-The Even More Incredible Machine has been included in several compilation releases:
+- **The Incredible Machine Mega Pack (2009):** A digital compilation published by PushButton Labs and Disney Interactive, released October 1, 2009, containing The Even More Incredible Machine, Return of the Incredible Machine: Contraptions, The Incredible Machine: Even More Contraptions, and a further Incredible Machine release (listed as The Incredible Machine 2 by MobyGames[^ref-18] and as The Incredible Machine 3 by PCGamingWiki[^ref-9])
+- **GOG.com Release:** The Mega Pack was sold on GOG.com, but the game is no longer in the GOG store[^ref-14]
 
-- **The Incredible Machine Mega Pack (2009):** A digital compilation released by PushButton Labs containing The Even More Incredible Machine, The Incredible Machine 3, Return of the Incredible Machine: Contraptions, and The Incredible Machine: Even More Contraptions[^ref-18]
-- **GOG.com Release:** Available for digital purchase with DOSBox emulation for modern systems[^ref-14]
+### Spiritual Successor
 
-### Fan Projects
+The rights to The Incredible Machine were acquired by PushButton Labs in 2009, later passing to Disney Interactive after Playdom acquired PushButton Labs[^ref-2]. In May 2013 Jeff Tunnell announced Contraption Maker as a spiritual successor to the series; it was released on July 7, 2014[^ref-2].
 
-The Incredible Machine franchise inspired a spiritual successor called Contraption Maker, released in 2014 by Spotkin Games[^ref-2]. The rights to The Incredible Machine were acquired by PushButton Labs in 2009, later transferring to Disney Interactive following corporate acquisitions[^ref-2].
-
-The game can now be played in browser through various classic gaming preservation websites, making it accessible to new generations of players[^ref-11].
+The game can now be played in browser through various classic gaming preservation websites[^ref-11].
 
 ### Related Publications
 
-- **Game Manual:** Included with original retail release, providing instructions for gameplay and copy protection codes[^ref-9]
-- **User-Created Guides:** Multiple FAQs and walkthroughs were created by the community, including comprehensive guides by Mike8787 (2003) and Lord_Seth (2006)[^ref-19]
-
-### Critical Perspective
-
-The Even More Incredible Machine represents an important milestone in puzzle game design, demonstrating how physics simulation could create emergent gameplay long before such mechanics became commonplace in indie games. The game's influence can be seen in countless "sandbox physics" titles that followed, from World of Goo to the many Rube Goldberg-inspired mobile games that proliferated in the smartphone era.
-
-The series' educational applications were recognized early, with the games being adopted by educators to teach physics concepts and problem-solving skills[^ref-6]. This dual appeal—entertaining for casual players while genuinely educational—positioned The Incredible Machine as a pioneering "edutainment" title that succeeded on both fronts without compromising either[^ref-7].
-
-The game's design philosophy of allowing multiple solutions to each puzzle was ahead of its time, encouraging creative experimentation over rote memorization of predetermined answers[^ref-10]. This approach influenced subsequent puzzle game design and remains a benchmark for the genre.
+- **Game Manual:** Included with the original retail release; it is required to pass the in-game copy protection[^ref-9]. A scan is preserved at the Internet Archive[^ref-23]
+- **User-Created Guides:** Multiple FAQs and walkthroughs were created by the community, including guides by Mike8787 (2003) and Lord_Seth (2006)[^ref-19]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG.com](https://www.gog.com/game/the_incredible_machine_mega_pack) - Available as part of The Incredible Machine Mega Pack
+- No longer sold: GOG.com has delisted The Incredible Machine Mega Pack, and its former store page now redirects to the general catalogue[^ref-14]
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/the_even_more_incredible_machine_1993) - Playable browser version
@@ -231,7 +225,7 @@ The game's design philosophy of allowing multiple solutions to each puzzle was a
 - [ClassicReload](https://classicreload.com/the-even-more-incredible-machine.html) - Browser playable version
 
 **Manuals & Extras**
-- [Manual PDF](http://wiki.sierrahelp.com/index.php/File:The_Even_More_Incredible_Machine_-_Manual.pdf) - Sierra Help Wiki
+- [Manual](https://archive.org/details/TheEvenMoreIncredibleMachineManual) - Internet Archive
 
 ## See Also
 
@@ -250,23 +244,24 @@ The game's design philosophy of allowing multiple solutions to each puzzle was a
 
 ## References
 
-[^ref-1]: [MobyGames – The Even More Incredible Machine](https://www.mobygames.com/game/3169/the-even-more-incredible-machine/) – developer, publisher, platforms, release dates, critic ratings, media formats
-[^ref-2]: [Dynamix Fandom Wiki – The Incredible Machine Series](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) – series history, inspiration, version list, developer information
-[^ref-3]: [Wikipedia – The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine) – sales data, awards, development budget, naval yard anecdote, IGN quote
-[^ref-4]: [GameFAQs – The Even More Incredible Machine](https://gamefaqs.gamespot.com/pc/564703-the-even-more-incredible-machine) – user ratings, puzzle count, freeform mode information
+[^ref-1]: [MobyGames – The Even More Incredible Machine](https://www.mobygames.com/game/3169/the-even-more-incredible-machine/) – developer, publisher, platforms, release dates, credits, critic ratings, media formats, CD/disk trivia, Japanese title
+[^ref-2]: [Dynamix Fandom Wiki – The Incredible Machine Series](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) – series overview, version list, rights history, Contraption Maker
+[^ref-3]: [Wikipedia – The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine) – deterministic engine, development budget, sales data, awards, Neil Harris naval yard anecdote
+[^ref-4]: [GameFAQs – The Even More Incredible Machine](https://gamefaqs.gamespot.com/pc/564703-the-even-more-incredible-machine) – user ratings, game description
 [^ref-5]: [Internet Archive – The Even More Incredible Machine](https://archive.org/details/the_even_more_incredible_machine_1993) – platforms, release year, new content details
-[^ref-6]: [ClassicReload – The Incredible Machine](https://classicreload.com/dosx-the-incredible-machine.html) – gameplay description, educational use
-[^ref-7]: [MobyGames – The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) – credits, Hall of Fame status, player reviews
-[^ref-8]: [MyAbandonware – The Even More Incredible Machine](https://www.myabandonware.com/game/the-even-more-incredible-machine-2dh) – user ratings, user comments, regional releases
+[^ref-7]: [MobyGames – The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) – original game's CGW Hall of Fame and "150 Best Games" honours, 1001 Video Games listing
+[^ref-8]: [MyAbandonware – The Even More Incredible Machine](https://www.myabandonware.com/game/the-even-more-incredible-machine-2dh) – user rating, regional releases
 [^ref-9]: [PCGamingWiki – The Even More Incredible Machine](https://www.pcgamingwiki.com/wiki/The_Even_More_Incredible_Machine) – technical specifications, bugs, version information, GOG release
-[^ref-10]: [The Digital Antiquarian](https://www.filfre.net/?s=The+Even+More%21+Incredible+Machine) – design influences, part count, puzzle features
+[^ref-10]: [The Digital Antiquarian – The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) – Tunnell and Slye's 1983 idea, Jeff Tunnell Productions, Ryan's engine, influences, multiple solutions, "re-packaging… with an additional 73 puzzles"
 [^ref-11]: [PlayMiniGames – The Even More Incredible Machine](https://playminigames.net/game/the-even-more!-incredible-machine) – user ratings, browser playability
-[^ref-12]: [Dynamix Fandom Wiki – Kevin Ryan](https://dynamix.fandom.com/wiki/Kevin_Ryan) – development origin story
-[^ref-13]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – company history, game development
-[^ref-14]: [GOG Database](https://www.gogdb.org/product/1207664023) – digital release details, installer size
-[^ref-15]: [ClassicReload – The Even More Incredible Machine](https://classicreload.com/the-even-more-incredible-machine.html) – Japanese title, platform information
+[^ref-12]: [Dynamix Fandom Wiki – Kevin Ryan](https://dynamix.fandom.com/wiki/Kevin_Ryan) – Ryan left Dynamix November 1991; Tunnell's job offer three weeks later
+[^ref-13]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – company history, Jeff Tunnell Productions
+[^ref-14]: [GOG Database](https://www.gogdb.org/product/1207664023) – digital release details, installer size, store availability
 [^ref-16]: [GamePressure – GOG2CD Patch](https://www.gamepressure.com/download/the-even-more-incredible-machine-gog2cd-patch-v13062023-mod/za148f7) – audio quality mod information
 [^ref-17]: [GameFAQs – Cheats](https://gamefaqs.gamespot.com/pc/564703-the-even-more-incredible-machine/cheats) – holiday Easter eggs
-[^ref-18]: [MobyGames – The Incredible Machine Mega Pack](https://www.mobygames.com/game/42737/the-incredible-machine-mega-pack/) – compilation contents
+[^ref-18]: [MobyGames – The Incredible Machine Mega Pack](https://www.mobygames.com/game/42737/the-incredible-machine-mega-pack/) – compilation contents, publishers, release date
 [^ref-19]: [GameFAQs – FAQs](https://gamefaqs.gamespot.com/pc/564703-the-even-more-incredible-machine/faqs) – community guide information
-[^ref-20]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – spin-off information
+[^ref-20]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – spin-off release year
+[^ref-21]: [Computer Gaming World #112 (November 1993) – Ed Dille review and Sierra advertisement](https://archive.org/details/Computer_Gaming_World_Issue_112) – review verdict, 10 more playing pieces, 160 puzzles, gravity/air density, free form mode, $49.95 price, $19.95 upgrade; ad: "over 70 new puzzles, 11 new tools"
+[^ref-22]: [Internet Archive – The Even More! Incredible Machine (1995, Windows, Japan)](https://archive.org/details/temim_jp_1995_win) – Japanese Windows CD-ROM published by Cybelle, 1995
+[^ref-23]: [Internet Archive – The Even More Incredible Machine Manual](https://archive.org/details/TheEvenMoreIncredibleMachineManual) – manual scan
