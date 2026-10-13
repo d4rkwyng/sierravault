@@ -7,10 +7,10 @@ publisher: Impressions Games
 genre: Casino
 platforms: [Windows 3.x]
 series: Casino Deluxe
-engine: Impressions Engine
+engine: Unknown
 protagonist: N/A (Player)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-05-11'
+last_updated: '2026-10-13'
 composer: ['Jeremy A. Bell, Jay Rinaldi']
 description: Casino De Luxe is a casino gambling simulation game developed and published
   by Impressions Games in 1995 for Windows 3.x platforms. Conceived by Impressions...
@@ -18,21 +18,21 @@ tags: [1990s, casino-deluxe, impressions, sierra]
 ---
 # Casino De Luxe
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Casino De Luxe is a casino gambling simulation game developed and published by [[Impressions Games]] in 1995 for Windows 3.x platforms[^ref-1][^ref-2]. Conceived by Impressions founder [[David Lester]], the game offered players the opportunity to experience the thrill of casino gambling without financial risk, featuring seven classic casino games rendered with impressive graphics for the era[^ref-3][^ref-4]. The game was marketed as "the best-looking gaming collection on the market," promising to combine "the elegance of Monte Carlo and the fun of Las Vegas"[^ref-5][^ref-6].
+Casino De Luxe is a casino gambling simulation game developed and published by [[Impressions Games]] in 1995 for Windows 3.x[^ref-1][^ref-2]. Conceived by Impressions founder [[David Lester]], it collects seven casino games in a single SVGA virtual casino[^ref-3][^ref-14]. The game was marketed as "the best-looking gaming collection on the market," promising to combine "the elegance of Monte Carlo and the fun of Las Vegas"[^ref-5][^ref-6].
 
-Shortly after Casino De Luxe's release, Impressions Games was acquired by Sierra On-Line, resulting in subsequent re-releases and international distribution being published under the Sierra brand[^ref-3][^ref-4]. This acquisition positioned the title within Sierra's growing catalog of entertainment software, though the original release remained an Impressions publication[^ref-7]. The game was distributed on CD-ROM and featured a top-down perspective of its virtual casino environment[^ref-1][^ref-2].
+Impressions was sold to Sierra On-Line shortly after the game's release, and domestic re-releases and international distribution were published under the Sierra brand[^ref-3]. The original US release, first released in July 1995 according to Sierra Chest, carried Impressions as publisher[^ref-7][^ref-14]; by November 1995 the French magazine Joystick already listed Sierra as its publisher, and the game appeared in Sierra's own Spring 1996 catalog[^ref-17][^ref-16]. The game shipped on CD-ROM[^ref-1][^ref-2].
 
-Casino De Luxe distinguished itself from competitors through its combination of realistic visuals, sound effects, speech, and integrated on-line gambling strategies designed to help players improve their gaming skills[^ref-5][^ref-6]. The game spawned a sequel, Casino Deluxe 2, released in 1996 under the Sierra On-Line banner, continuing the series' tradition of providing accessible casino gaming experiences[^ref-2][^ref-8].[^ref-16]
+The box copy promised "you-are-there-graphics, sound effects, speech AND special on-line gambling strategies"[^ref-5][^ref-6]. A sequel, Casino Deluxe 2, was released in 1996 with Sierra On-Line as publisher[^ref-8].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
 > **Designer:** [[David Lester]] (Original Concept), Dean Lawson, Glenn Oliver[^ref-2][^ref-3]
-> **Publisher:** Impressions Games (original), [[Sierra On-Line]] (re-releases)[^ref-3][^ref-4]
-> **Engine:** Unknown
+> **Publisher:** Impressions Games (original), [[Sierra On-Line]] (re-releases)[^ref-3]
+> **Engine:** Unknown[^ref-7]
 > **Platforms:** Windows 3.x (16-bit)[^ref-1][^ref-2]
 > **Release Year:** 1995
 > **Series:** Casino Deluxe
@@ -41,58 +41,54 @@ Casino De Luxe distinguished itself from competitors through its combination of 
 
 ## Story Summary
 
-Casino De Luxe is a simulation game without a traditional narrative structure[^ref-1]. Instead, the game places players within a virtual casino environment where they can freely explore and participate in various gambling activities[^ref-9]. The premise is straightforward: players can experience the excitement of Las Vegas-style casino gambling from the comfort of their home, with the tagline promising they can "lose all your money in Las Vegas without really losing it"[^ref-1][^ref-9].
+Casino De Luxe is a gambling simulation without a narrative. Its database description sums up the premise: "Play many Casino games in a realistic looking Casino. Lose all your money in Las Vegas without really losing it"[^ref-2][^ref-9].
 
-The game's setting combines elements from both the glamorous Monte Carlo casino scene and the more vibrant, entertainment-focused atmosphere of Las Vegas[^ref-5][^ref-6]. Players are given virtual currency to wager across the available games, allowing them to practice their gambling strategies and experience the thrill of both winning and losing without real financial consequences[^ref-1].
-
-While there is no overarching story or character development, the game provides an immersive gambling experience through its detailed casino environment and authentic recreation of classic casino games[^ref-2]. The simulation aspect allows players to develop and test various gambling strategies, with the game including special on-line gambling advice to assist players in understanding the odds and optimal play for each game type[^ref-5][^ref-6].
+The player starts with a bankroll of play money — $1,500 according to Computer Game Review's 1995 review, while the German magazine PC Joker reported $5,000 in its April 1996 review of the Sierra-published release[^ref-14][^ref-19]. The goal is simply to grow it, or to lose it, at the tables[^ref-14].
 
 ## Gameplay
 
-### Interface and Controls
+### The Casino
 
-Casino De Luxe utilizes a mouse-driven interface appropriate for its Windows 3.x platform[^ref-2]. The game presents players with a top-down perspective view of the casino environment, allowing navigation between different gaming areas[^ref-1][^ref-2]. Players interact with game tables and slot machines by clicking on them, with each game featuring its own dedicated interface for placing bets and making gameplay decisions[^ref-2].
+The casino is presented as a building to move through rather than a menu. Computer Game Review described a lobby "done up in white marble and brass trim"; the player crosses to an elevator and chooses one of seven floors, each holding one game[^ref-14]. PC Joker likewise described a lobby in a seven-storey casino, with one game per floor, where everything from the elevator to the male and female croupiers responds to the mouse[^ref-19]. Joystick noted the elevator used to move around the casino as an amusing touch of presentation[^ref-17]. One Computer Game Review reviewer singled out that "you can even ring the alarm button in the elevator"[^ref-14].
 
-The interface was designed to replicate the authentic feel of casino gaming, with "you-are-there-graphics" that aimed to immerse players in the gambling experience[^ref-5][^ref-6]. Sound effects and speech further enhanced the atmosphere, creating a more engaging simulation than text-only gambling programs of the era[^ref-5].
+Next Generation saw it differently, praising the game for sparing players "the FMV and 'virtual casino' walkthroughs" and concentrating on the games themselves[^ref-10]. PC Gamer called the interface "a point-and-click pleasure", with repeat bets, customization options and saved games each a mouse-click away[^ref-18].
 
-### Structure and Progression
+### The Games
 
-The game offers players complete freedom to explore the virtual casino and participate in any of the seven available games at their leisure[^ref-1][^ref-2]. There is no mandatory progression or level structure; instead, players manage their virtual bankroll across gaming sessions[^ref-1]. The available casino games include:
+All seven games appear in every account, but sources disagree on one poker variant:
 
-- **Blackjack:** Classic card game where players attempt to beat the dealer by getting closer to 21 without going over[^ref-1][^ref-3]
-- **Pai Gow Poker:** An Asian-derived poker variant where players create two hands from seven cards[^ref-1][^ref-3]
-- **Red Dog Poker:** A card game based on the spread between two dealt cards[^ref-1]
-- **Video Poker:** Electronic poker machines offering various game variants[^ref-1][^ref-3]
-- **Slot Machines:** Traditional slot machine gameplay with various themes[^ref-1][^ref-3]
-- **Craps:** Classic dice game with multiple betting options[^ref-1][^ref-3]
-- **Roulette:** The iconic wheel-spinning game with numbered betting layouts[^ref-1][^ref-3]
+- **Blackjack**[^ref-14][^ref-18]
+- **Pai Gow Poker**[^ref-14][^ref-18]
+- **Caribbean Stud Poker / Red Dog Poker** (see below)
+- **Video Poker**[^ref-14][^ref-18]
+- **Slots**[^ref-14][^ref-18]
+- **Craps** — PC Gamer noted that the game handles double odds correctly, a common weak spot in gambling games[^ref-18]
+- **Roulette**[^ref-14][^ref-18]
 
-### Puzzles and Mechanics
+The 1995 reviews in Computer Game Review, PC Gamer and Next Generation all list Caribbean Stud (or "Caribbean Poker")[^ref-14][^ref-18][^ref-10]. Sierra's Spring 1996 Buyer's Guide instead lists "Blackjack, Pai Gow Poker, Red Dog Poker, Video Poker, Slots, Craps and Roulette"[^ref-16], and the CD-ROM image preserved at the Internet Archive, filed under a "(Sierra)" filename, is described with the same Red Dog lineup[^ref-1]. No source found explains the difference. A swap between the original Impressions release and the later Sierra edition is a possibility, not a confirmed fact.
 
-As a gambling simulation, Casino De Luxe does not feature traditional puzzles but instead focuses on the strategic elements inherent in casino gaming[^ref-1]. Each game follows its authentic real-world rules, requiring players to understand proper betting strategies and odds calculations[^ref-5]. The game includes special on-line gambling strategies to help players understand optimal play for each game type, serving as both an entertainment product and an educational tool for aspiring gamblers[^ref-5][^ref-6].
+### Strategy Help
 
-The simulation accurately recreates the mechanics of each casino game, including the house edge and probability calculations that players would encounter in actual casinos[^ref-1]. This attention to authentic gameplay mechanics made the game useful for players who wanted to practice their strategies before visiting real casinos[^ref-9].
+Each game comes with on-line strategy tips[^ref-14]. Reviewers found them thin: PC Gamer said "the online strategies... offer minimal advice to novice gamers" and could not be opened while a game was in progress[^ref-18], and Next Generation said the strategy guides "cover only the basics"[^ref-10]. The game is single-player only, which PC Gamer listed among its lows[^ref-18].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Casino De Luxe received mixed to positive reviews upon release, with critics generally praising its visual presentation while offering varied opinions on its gameplay depth[^ref-3][^ref-4].
+Wikipedia summarizes the game's reception as mixed[^ref-3]. US reviews were mostly favorable, while European ones were cooler.
 
-Computer Game Review gave the game a score of 85/100 in their September 1995 issue, with reviewers Frank Snyder, Ted Chapman, and Tasos Kaiafas providing favorable coverage[^ref-3][^ref-4]. PC Gamer US awarded the game 80% in their October 1995 review by Todd Vaughn, indicating strong approval from the American gaming press[^ref-3][^ref-4].
+Computer Game Review gave the game 85/100 in its September 1995 issue, with reviewers Frank Snyder, Ted Chapman and Tasos Kaiafas[^ref-14][^ref-3]. Its verdict: "A dealer that makes you feel like you are in a real casino," against "Not enough variety to make you feel like you are in a real casino"[^ref-14]. PC Gamer awarded 80% in its October 1995 review by Todd Vaughn, praising "beautiful graphics" and "accurate representations of popular casino games" and summing it up as "a great way to get your gambling fix without taking a big hit to your wallet"[^ref-18].
 
-Next Generation magazine gave the game 3 out of 5 stars in November 1995, stating that "if you're into these games, this is the best one around"—a qualified endorsement acknowledging the game's quality within its niche genre.[^ref-3][^ref-4][^ref-10]
+Next Generation gave the game 3 out of 5 stars in its November 1995 issue: "Still, if you're into these games, this is one of the best around"[^ref-10].
 
-European publications offered more varied assessments. The French magazine Joystick awarded exactly half marks at 100/200 in their November 1995 issue, with reviewer Moulinex providing the coverage[^ref-3][^ref-4]. Génération 4, another French publication, gave 59% in November 1995[^ref-3][^ref-4]. German magazine PC Joker was less impressed, with reviewer Markus Ziegler awarding only 43% in April 1996[^ref-3][^ref-4]. PC Top Player gave 61/100 in April 1996, with Victor Sanchez providing the review[^ref-3][^ref-4].
+European publications were cooler. In Joystick's November 1995 issue, reviewer Moulinex dismissed casino games of this kind as hopelessly dated[^ref-17]. Génération 4 gave 59% in November 1995[^ref-3]. German magazine PC Joker, reviewing it in April 1996, called the graphics more functional than glamorous and found the croupiers' comments quickly repetitive[^ref-19]; Wikipedia records PC Joker's score as 43% and PC Top Player's as 61/100[^ref-3].
 
 ### Modern Assessment
 
-Casino De Luxe has maintained a modest following among retrogaming enthusiasts[^ref-11]. The game holds a MobyGames aggregate critic score of 58% based on 5 ratings, alongside a player rating of 2.8 out of 5 based on 2 ratings[^ref-2]. The MobyGames ranking places it at #21,621 of approximately 27,600 games in their database, indicating its niche appeal[^ref-2].
-
-Modern abandonware sites have given the game more favorable assessments, with My Abandonware users rating it 4.92 out of 5[^ref-11]. GameFAQs users have collectively rated the game as "Great" based on 4 user ratings[^ref-5]. The game has been collected by 9 players on MobyGames, suggesting a small but dedicated community of enthusiasts[^ref-2].[^ref-14][^ref-17]
+The game holds a MobyGames critic average of 58% based on 5 ratings, and a player average of 2.2 out of 5 based on 3 ratings[^ref-2]. My Abandonware users rate it 4.92 out of 5[^ref-11], and GameFAQs users rate it "Great" based on 4 ratings[^ref-5].
 
 **Aggregate Scores:**
-- **MobyGames:** 58% critics / 2.8/5 players (7 total ratings)[^ref-2]
+- **MobyGames:** 58% critics (5 ratings) / 2.2/5 players (3 ratings)[^ref-2]
 - **My Abandonware:** 4.92/5[^ref-11]
 - **GameFAQs:** "Great" (4 ratings)[^ref-5]
 - **Metacritic:** TBD (no scores available)[^ref-6]
@@ -101,20 +97,19 @@ Modern abandonware sites have given the game more favorable assessments, with My
 
 ### Origins
 
-Casino De Luxe was conceived by [[David Lester]], the founder of Impressions Games[^ref-2][^ref-3][^ref-4]. Lester's vision was to create a comprehensive casino gambling simulation that would appeal to both casual players interested in the entertainment value and more serious gamblers looking to practice their strategies[^ref-5]. The project aimed to distinguish itself from competing gambling simulations through superior graphics and a more immersive casino atmosphere[^ref-5][^ref-6].
-
-Impressions Games, known primarily for their city-building and strategy titles, applied their development expertise to create a visually impressive gambling simulation[^ref-2]. The decision to combine multiple casino games into a single package—seven in total—provided value for players and allowed for variety within a single purchase[^ref-1].
+Casino De Luxe was conceived by [[David Lester]], the founder of Impressions Games[^ref-2][^ref-3]. GamesNostalgia's profile of Lester notes that he had a hand in making Casino De Luxe in 1995, the same year he sold Impressions to Sierra On-Line[^ref-15]. PC Gamer observed that gambling simulations had mostly come from first-time developers, and welcomed "the sim and strategy experts at Impressions" turning to the genre[^ref-18].
 
 ### Production
 
-Development took place at Impressions Games' facilities, with the project requiring expertise in game design, programming, art direction, and audio production[^ref-2]. The team worked to create authentic recreations of each casino game while also developing the overarching casino environment that would house all the gaming experiences[^ref-1].
+MobyGames credits Dean Lawson with design and programming and Glenn Oliver with design and production, with art direction by [[Chris Beatrice]][^ref-2]. The game ran under Windows 3.1 on a 386 with 4 MB of RAM, SVGA and a CD-ROM drive, with a 486 and 8 MB recommended[^ref-14]. Computer Game Review noted that its SVGA graphics did not use much hard drive space[^ref-14].
 
-The game was released in July 1995 for Windows 3.x platforms on CD-ROM[^ref-1][^ref-7]. Shortly after release, Impressions Games was acquired by Sierra On-Line, which resulted in subsequent domestic re-releases and international distribution being handled under the Sierra brand[^ref-3][^ref-4]. This corporate transition did not affect the original release but positioned the Casino Deluxe series for continued development under Sierra's umbrella[^ref-8].
+The game was first released in July 1995 for Windows 3.x on CD-ROM, according to Sierra Chest[^ref-7]. Computer Game Review's September 1995 review listed Impressions as the distributor and a street price of $69.95[^ref-14].
 
 **Development Credits:**[^ref-2]
 
 *Creative Direction:*
 - **Original Concept:** David Lester
+- **Design:** Dean Lawson, Glenn Oliver
 - **Programming:** Dean Lawson
 - **Production:** Glenn Oliver
 - **Art Direction:** [[Chris Beatrice]]
@@ -129,17 +124,17 @@ The game was released in July 1995 for Windows 3.x platforms on CD-ROM[^ref-1][^
 - Andrea Muzeroll
 
 *Audio:*
-- **Music:** Jeremy A. Bell, Jay Rinaldi
+- **Sound:** Jeremy A. Bell, Jay Rinaldi
 
 *Documentation and Research:*
 - Todd Capute
 - Jennifer Hawthorne
 
-*Voice Acting:*
+*Voice Talents:*
 - Michael Stanton
 - Lezli Whitehouse
 
-*Quality Assurance:*
+*Playtesting:*
 - Phillip Conrad
 - Ken Ford
 - Christopher J. Foster
@@ -149,16 +144,15 @@ The game was released in July 1995 for Windows 3.x platforms on CD-ROM[^ref-1][^
 
 ### Technical Achievements
 
-Casino De Luxe was built for the Windows 3.x (16-bit) platform, targeting the growing market of Windows users seeking entertainment software[^ref-2][^ref-12]. The game's visual presentation was considered impressive for its time, with marketing materials emphasizing the "you-are-there-graphics" that aimed to create an immersive casino atmosphere[^ref-5][^ref-6].
-
-The top-down perspective allowed players to view the casino environment in a way that facilitated navigation between different gaming areas while maintaining visual clarity for individual games[^ref-1][^ref-2]. The inclusion of sound effects and speech added another layer of immersion, helping to recreate the ambient sounds of a busy casino floor[^ref-5].
+Reviewers singled out the presentation. PC Gamer noted that the games were "lovingly rendered in high-res Super VGA with appropriate sound effects and music" and praised Impressions for not adding full-motion video[^ref-18]. One Computer Game Review reviewer called the "SVGA 3D rendered graphics... most pleasing to the eye"[^ref-14].
 
 ### Technical Specifications
 
 **CD-ROM Version:**[^ref-1][^ref-2]
 - **Platform:** Windows 3.x (16-bit)
 - **Media:** CD-ROM
-- **File Size:** Approximately 25.4 MB[^ref-1]
+- **Disc image size:** 26,140,672 bytes (Internet Archive ISO)[^ref-1]
+- **Requirements:** 386, Windows 3.1, SVGA, 4 MB RAM, CD-ROM drive (486, 8 MB RAM, 2x CD-ROM recommended)[^ref-14]
 - **Input:** Mouse[^ref-2]
 - **Age Rating:** USK 0 (ohne Altersbeschränkung / No age restriction)[^ref-2]
 
@@ -171,19 +165,19 @@ No information about cut content or removed features has been documented in avai
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | July 1995 | Windows 3.x | Initial retail release by Impressions Games[^ref-7] |
-| Re-release | Post-1995 | Windows 3.x | Sierra On-Line branded re-release following acquisition[^ref-3][^ref-4] |
+| Sierra-branded editions | Late 1995–1996 | Windows 3.x | Sierra listed as publisher in France (Joystick, Nov 1995) and Germany (PC Joker, Apr 1996); in Sierra's Spring 1996 catalog[^ref-17][^ref-19][^ref-16] |
 | Best of Sierra Nr. 7 | July/August 1998 | Windows | Included in compilation alongside 3-D Ultra Pinball[^ref-2][^ref-13] |
 
 ### Technical Issues
 
-No significant bugs or technical issues have been documented in available sources. The game was designed for Windows 3.x and may require compatibility layers or period-appropriate operating systems to run on modern hardware[^ref-1][^ref-11].[^ref-15]
+No significant bugs or technical issues have been documented in available sources. The game was designed for Windows 3.x and may require compatibility layers or period-appropriate operating systems to run on modern hardware[^ref-1][^ref-11].
 
 ### Easter Eggs and Trivia
 
-- Casino De Luxe is described as "the only collection to combine the elegance of Monte Carlo and the fun of Las Vegas," suggesting a deliberate design philosophy blending European and American casino aesthetics[^ref-5][^ref-6]
-- The game includes special on-line gambling strategies, functioning as both entertainment and educational software for aspiring gamblers[^ref-5][^ref-6]
-- The game was noted for having "Real Photos on Cover Art" as a distinctive marketing feature[^ref-12]
-- Casino De Luxe remained a platform exclusive for Windows[^ref-12]
+- The box copy described it as "the only collection to combine the elegance of Monte Carlo and the fun of Las Vegas"[^ref-5][^ref-6]
+- The elevator has a working alarm button[^ref-14]
+- Giant Bomb tags the game with the concept "Real Photos on Cover Art"[^ref-12]
+- The game was released only for Windows[^ref-2][^ref-12]
 
 ## Voice Cast
 
@@ -198,13 +192,13 @@ Voice credits are documented in the MobyGames database, though specific characte
 
 ### Sales and Commercial Impact
 
-While specific sales figures for Casino De Luxe are not available in documented sources, the game's inclusion in Sierra's "Best of Sierra" compilation series suggests it maintained commercial viability well after its initial release[^ref-2][^ref-13]. The acquisition of Impressions Games by Sierra On-Line following the game's release indicates the parent company saw value in the studio's portfolio, which included this title[^ref-3][^ref-4].
+No sales figures for Casino De Luxe have been documented. GamesNostalgia's profile of David Lester groups it with Powerhouse and the first Ultimate Soccer Manager as 1995 titles that were "basically a flop"[^ref-15]. The game was later included in Sierra's "Best of Sierra Nr. 7" compilation in 1998[^ref-2][^ref-13].
 
 ### Collections
 
 Casino De Luxe was included in the following compilation releases:
 
-- **Best of Sierra Nr. 7** (July/August 1998) – Bundled alongside 3-D Ultra Pinball, this compilation introduced the game to new audiences through Sierra's distribution network[^ref-2][^ref-13]
+- **Best of Sierra Nr. 7** (July/August 1998) – bundled alongside 3-D Ultra Pinball[^ref-2][^ref-13]
 
 ### Fan Projects
 
@@ -212,15 +206,13 @@ No significant fan projects, remakes, or modifications have been documented for 
 
 ### Related Publications
 
-- **In-game Gambling Strategies:** The game included integrated "special on-line gambling strategies" to assist players in learning optimal play for each casino game[^ref-5][^ref-6]
+- **In-game Gambling Strategies:** The game included built-in strategy tips for each casino game, which reviewers found basic[^ref-14][^ref-18][^ref-10]
 
 No standalone hint books or strategy guides have been documented for this title.
 
 ### Critical Perspective
 
-Casino De Luxe occupies a specific niche in the history of PC gaming—the casino gambling simulation genre that flourished in the 1990s as home computers became powerful enough to render attractive virtual casino environments[^ref-1][^ref-2]. While never achieving the fame of Sierra's adventure game catalog, the title represented Impressions Games' diversification beyond their core city-building genre and demonstrated the company's ability to produce quality entertainment software across different categories[^ref-2].
-
-The game's acquisition by Sierra On-Line shortly after release placed it within one of the era's most significant gaming publishers, though it remained a relatively minor title in Sierra's expansive catalog[^ref-3][^ref-4]. Contemporary reviews acknowledged it as one of the better gambling simulations available, with Next Generation's assessment that it was "the best one around" for casino game enthusiasts serving as qualified praise for its niche appeal[^ref-3][^ref-4]. The sequel, Casino Deluxe 2, released the following year under Sierra's direct publishing, indicated sufficient commercial success to warrant continuation of the series[^ref-8].
+Casino De Luxe was a departure for Impressions, a studio better known for strategy and simulation games, and PC Gamer credited that background for the accurate way it reproduced each game[^ref-18]. Next Generation's verdict was qualified praise: playing casino games "isn't that fun on the PC," but "if you're into these games, this is one of the best around"[^ref-10]. It remained a minor title in Sierra's catalog, though a sequel, Casino Deluxe 2, followed in 1996 under Sierra On-Line[^ref-8].
 
 ## Purchase
 
@@ -262,20 +254,21 @@ The game's acquisition by Sierra On-Line shortly after release placed it within 
 
 ## References
 
-[^ref-1]: [Internet Archive – Casino De Luxe](https://archive.org/details/casino-de-luxe) – CD-ROM preservation, technical specifications, game features, MobyGames-sourced metadata
-[^ref-2]: [MobyGames – Casino De Luxe](https://www.mobygames.com/game/1145/casino-de-luxe/) – Full development credits, ratings, technical specifications, series information, compilation appearances
-[^ref-3]: [Wikipedia – Casino Deluxe](https://en.wikipedia.org/wiki/Casino_Deluxe) – Review scores, development notes, designer credits, Sierra acquisition information
-[^ref-4]: [Wikipedia – Casino De Luxe](https://en.wikipedia.org/wiki/Casino_De_Luxe) – International review scores, publication details, trivia about game features and corporate history
+[^ref-1]: [Internet Archive – Casino De Luxe](https://archive.org/details/casino-de-luxe) – CD-ROM image "Casino De Luxe (1995)(Sierra).iso" (26,140,672 bytes); description lists Red Dog Poker among the seven games
+[^ref-2]: [MobyGames – Casino De Luxe](https://www.mobygames.com/game/1145/casino-de-luxe/) – Full development credits, ratings (critics 58% from 5, players 2.2/5 from 3), specs, Best of Sierra Nr. 7 inclusion
+[^ref-3]: [Wikipedia – Casino De Luxe](https://en.wikipedia.org/wiki/Casino_De_Luxe) – Review scores, David Lester concept, sale of Impressions to Sierra, Sierra-branded re-releases and international distribution
 [^ref-5]: [GameFAQs – Casino De Luxe](https://gamefaqs.gamespot.com/pc/227504-casino-de-luxe) – Game description, marketing copy, user ratings
 [^ref-6]: [Metacritic – Casino De Luxe](https://www.metacritic.com/game/casino-de-luxe/) – Promotional description, publisher/developer information
-[^ref-7]: [Sierra Chest – Casino Deluxe](https://www.sierrachest.com/index.php?a=games&id=488&title=casino-deluxe) – Release date (July 1995), basic metadata
-[^ref-8]: [MobyGames – Casino Deluxe 2](https://www.mobygames.com/game/157317/casino-deluxe-2/) – Sequel information, Sierra On-Line publishing, marketing taglines
+[^ref-7]: [Sierra Chest – Casino Deluxe](https://www.sierrachest.com/index.php?a=games&id=488&title=casino-deluxe) – First release 1995-07-01, publisher Impressions Games, engine unknown/unnamed
+[^ref-8]: [MobyGames – Casino Deluxe 2](https://www.mobygames.com/game/157317/casino-deluxe-2/) – Sequel released 1996, published by Sierra On-Line
 [^ref-9]: [LaunchBox Games Database – Casino De Luxe](https://gamesdb.launchbox-app.com/games/details/102688-casino-de-luxe) – Game description, genre classification
-[^ref-10]: [Next Generation Magazine – November 1995 (Issue 11)](https://archive.org/details/NEXT_Generation_11/mode/1up) – Original review, 3/5 stars rating, "best one around" quote (p. 179)
+[^ref-10]: [Next Generation Magazine – November 1995 (Issue 11)](https://archive.org/details/NEXT_Generation_11/mode/1up) – Review, 3/5 stars: "Still, if you're into these games, this is one of the best around" (p. 179)
 [^ref-11]: [My Abandonware – Casino De Luxe](https://www.myabandonware.com/game/casino-de-luxe-fny) – User rating (4.92/5), download availability, release information
-[^ref-12]: [Giant Bomb – Casino De Luxe](https://giantbomb.com/wiki/Games/Casino_De_Luxe) – Release date, platform information, genre classification, cover art notes
+[^ref-12]: [Giant Bomb – Casino De Luxe](https://giantbomb.com/wiki/Games/Casino_De_Luxe) – Platform information, "Real Photos on Cover Art" and "Platform Exclusive" concept tags
 [^ref-13]: [Kotaku – Best of Sierra Nr. 7](https://kotaku.com/games/best-of-sierra-nr-7) – Compilation inclusion confirmation (July/August 1998)
-[^ref-14]: [Computer Game Review – September 1995](https://archive.org/details/computer-game-review-september-1995/page/n55/mode/1up) – Frank Snyder, Ted Chapman, Tasos Kaiafas review (85/100), p. 56
-[^ref-15]: [GamesNostalgia – David Lester Profile](https://gamesnostalgia.net/person/david-lester) – Designer biography; says Lester "would also have a hand in making Casino De Luxe"
-[^ref-16]: [Sierra Buyer's Guide Spring 1996](https://archive.org/details/RetroGamingProductCatalogs/Sierra%20Buyer%27s%20Guide%20%28Spring%201996%29/page/n27/mode/1up) – Official Sierra catalog listing (p. 28)
-[^ref-17]: [Joystick Magazine – November 1995 (Issue 65)](https://archive.org/details/joystick065/page/n89/mode/1up) – French review by Moulinex (100/200), p. 90
+[^ref-14]: [Computer Game Review – September 1995](https://archive.org/details/computer-game-review-september-1995/page/n55/mode/1up) – Frank Snyder, Ted Chapman, Tasos Kaiafas review (85/100), p. 56; lobby, elevator, seven floors, $1,500 bankroll, $69.95
+[^ref-15]: [GamesNostalgia – David Lester Profile](https://gamesnostalgia.net/person/david-lester) – Designer biography; says Lester "would also have a hand in making Casino De Luxe" and calls the 1995 titles "basically a flop"
+[^ref-16]: [Sierra Buyer's Guide Spring 1996](https://archive.org/details/RetroGamingProductCatalogs/Sierra%20Buyer%27s%20Guide%20%28Spring%201996%29/page/n27/mode/1up) – Official Sierra catalog listing (p. 28); lists Red Dog Poker among the seven games
+[^ref-17]: [Joystick Magazine – November 1995 (Issue 65)](https://archive.org/details/joystick065/page/n89/mode/1up) – French review by Moulinex, p. 90; publisher listed as Sierra
+[^ref-18]: [PC Gamer – Casino Deluxe review, October 1995 (Wayback Machine)](https://web.archive.org/web/20000302085220/http://www.pcgamer.com/reviews/232.html) – Todd Vaughn review, 80%; seven games incl. Caribbean Poker; weak strategy guides
+[^ref-19]: [PC Joker – April 1996](https://archive.org/details/pcjokerapril1996images/page/n43/mode/1up) – review (Markus Ziegler per Wikipedia), p. 44; lobby of a seven-floor casino, $5,000 starting bankroll, three poker variants, "Zockerei von Sierra"
