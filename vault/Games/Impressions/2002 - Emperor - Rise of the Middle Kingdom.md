@@ -10,7 +10,7 @@ series: City Building Series
 engine: 2D-sprite game engine
 protagonist: Player as Emperor/City Administrator
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
+last_updated: '2026-10-13'
 composer: [Jeff van Dyck]
 description: 'Emperor: Rise of the Middle Kingdom is a city-building strategy game
   developed by BreakAway Games in collaboration with Impressions Games and published
@@ -19,13 +19,13 @@ tags: [2000s, city-building-series, sierra, strategy]
 ---
 # Emperor: Rise of the Middle Kingdom
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Emperor: Rise of the Middle Kingdom is a city-building strategy game developed by BreakAway Games in collaboration with [[Impressions Games]] and published by [[Sierra On-Line|Sierra Entertainment]] in September 2002[^ref-1]. The sixth and final entry in Sierra's acclaimed City Building Series, Emperor transported players to ancient China, spanning nearly 3,300 years of classical Chinese history from the Xia Dynasty (2033 BCE) to the Song-Jin Dynasties (1234 CE)[^ref-1]. The game represented both a culmination of the series' established mechanics and a thematic departure, being the first title to move outside of European and Northern African settings[^ref-2].
+Emperor: Rise of the Middle Kingdom is a city-building strategy game developed by BreakAway Games in collaboration with [[Impressions Games]] and published by [[Sierra On-Line|Sierra Entertainment]] in September 2002[^ref-1]. The sixth entry in Sierra's acclaimed City Building Series, Emperor transported players to ancient China, spanning nearly 3,300 years of classical Chinese history from the Xia Dynasty (2033 BCE) to the Song-Jin Dynasties (1234 CE)[^ref-1]. The game represented both a culmination of the series' established mechanics and a thematic departure, being the first title to move outside of European and Northern African settings[^ref-2].
 
-The game challenges players to construct and manage Chinese cities through seven imperial dynasties, balancing economic development, monument construction, military defense, and diplomatic relations[^ref-3]. Emperor introduced several innovations to the series, including the feng shui system for harmonious city planning, the Chinese zodiac for company naming, and—for the first time in the franchise—multiplayer support with both cooperative and competitive modes[^ref-1]. Despite being the last game to use the series' traditional 2D-sprite engine before Caesar IV's transition to 3D, Emperor is widely regarded by fans as the pinnacle of the City Building formula[^ref-4].[^ref-36][^ref-37]
+The game challenges players to construct and manage Chinese cities through seven imperial dynasties, balancing economic development, monument construction, military defense, and diplomatic relations[^ref-3]. Emperor introduced several innovations to the series, including the feng shui system for harmonious city planning, the Chinese zodiac, and—for the first time in the franchise—multiplayer support with both cooperative and competitive modes[^ref-1]. Despite being the last game to use the series' traditional 2D-sprite engine before Caesar IV's transition to 3D, Emperor is called "the pinnacle of the series" by players reviewing it on GOG.com[^ref-4].
 
 > [!info]- Game Info
 > **Developer:** BreakAway Games, [[Impressions Games]][^ref-1]
@@ -44,7 +44,7 @@ Emperor: Rise of the Middle Kingdom does not follow a traditional narrative but 
 
 The campaigns progress chronologically through the Shang, Zhou, Qin, Han, Sui-Tang, and Song-Jin dynasties, each presenting unique economic, military, and diplomatic challenges reflective of their historical periods[^ref-1]. Players may tackle these dynasties in any order they choose, though the difficulty level increases parallel to the chronology[^ref-1]. Throughout these campaigns, players encounter historical figures, construct famous monuments including the Great Wall of China, Grand Canal, and Su Song's clock tower, and navigate the complex political landscape of ancient China[^ref-8].
 
-The game's narrative framework emphasizes the Mandate of Heaven concept central to Chinese political philosophy—rulers who fail to govern wisely and maintain harmony may face natural disasters, rebellions, and the end of their reign[^ref-9]. Players must honor ancestors, maintain proper feng shui in their city layouts, and balance the needs of common citizens with the demands of the elite to ensure prosperity[^ref-7]. The final campaigns depict the Song-Jin period, concluding just before the Mongol invasion, with the game presenting an alternate history where "the Jin Dynasty thwarted the Mongol invasion and defeated Genghis Khan"[^ref-8].
+The game's narrative framework emphasizes the Mandate of Heaven concept central to Chinese political philosophy—rulers who fail to govern wisely and maintain harmony may face natural disasters, rebellions, and the end of their reign[^ref-9]. Players must honor ancestors, maintain proper feng shui in their city layouts, and balance the needs of common citizens with the demands of the elite to ensure prosperity[^ref-7]. In the final levels the player oversees construction of the Imperial capital Zhongdu and fortifies it against the invading Mongols and Genghis Khan[^ref-1]; as far as the game is concerned, "the Jin Dynasty thwarted the Mongol invasion and defeated Genghis Khan"[^ref-8].
 
 ## Gameplay
 
@@ -52,27 +52,27 @@ The game's narrative framework emphasizes the Mandate of Heaven concept central 
 
 Emperor utilizes an isometric 2D perspective with a fixed viewing angle, building upon the interface refined through earlier titles in the City Building Series[^ref-10]. Players construct cities on a fixed grid system, placing buildings, roads, and agricultural infrastructure to create functional urban centers[^ref-10]. The game retains the walker-based system that defined the series, where service workers emanate from buildings and wander along roads to deliver goods and services to residences[^ref-11].
 
-The interface includes multiple ministries for managing different aspects of city administration, including Agriculture, Industry, Commerce, Safety, Government, Entertainment, Religion, and Military[^ref-9]. Players can adjust tax rates, set trade policies, and manage diplomatic relations with neighboring cities through intuitive menu systems[^ref-7]. A significant quality-of-life improvement allows players to deactivate buildings individually, providing more precise control over city operations[^ref-12].
+City information is grouped into 11 ministries: religion, entertainment, commerce, industry, government, monuments, population, agriculture, safety, military, and aesthetics[^ref-2]. Players can adjust tax rates, set trade policies, and manage diplomatic relations with neighboring cities through intuitive menu systems[^ref-7]. A significant quality-of-life improvement allows players to deactivate buildings individually, providing more precise control over city operations[^ref-12].
 
 ### Structure and Progression
 
 The game features over 40 scenarios organized into seven dynastic campaigns, each representing a distinct period of Chinese history[^ref-13]:
 
 - **Xia Dynasty (Tutorial):** Introduction to basic city-building mechanics in prehistoric China, cultivating millet and establishing fundamental infrastructure[^ref-11]
-- **Shang Dynasty:** Development of bronze working and early Chinese civilization
-- **Zhou Dynasty:** Expansion of agriculture and introduction of iron
-- **Qin Dynasty:** Military conquest and construction of early Great Wall sections
-- **Han Dynasty:** Trade route establishment and cultural flourishing
-- **Sui-Tang Dynasty:** Grand engineering projects and cosmopolitan urban development
-- **Song-Jin Dynasty:** Advanced technology and defense against northern invaders
+- **Shang Dynasty**
+- **Zhou Dynasty**
+- **Qin Dynasty**
+- **Han Dynasty**
+- **Sui-Tang Dynasty**
+- **Song-Jin Dynasty**[^ref-1]
 
 Each mission presents specific victory conditions, which may include reaching target populations, producing certain quantities of commodities, accumulating treasury funds, conquering neighboring cities, or constructing monuments[^ref-14]. Players can also engage in Open Play mode, allowing unrestricted city construction without specific objectives[^ref-15].
 
 ### Puzzles and Mechanics
 
-The core gameplay revolves around managing the complex interdependencies between housing, industry, agriculture, and services[^ref-16]. Housing evolves through multiple tiers based on access to goods and services, from simple hovels to luxurious apartments that provide additional workers and tax revenue[^ref-9]. Common houses occupy 2x2 tiles while elite housing requires 4x4 spaces, each with distinct requirements for goods such as hemp, silk, ceramics, bronzeware, lacquerware, and tea[^ref-12].
+The core gameplay revolves around managing the complex interdependencies between housing, industry, agriculture, and services[^ref-16]. Common housing evolves through multiple tiers based on access to goods and services, from the basic Shelter through huts, cottages and dwellings to the Luxurious Apartment, with requirements such as water, food, hemp, ceramics and tea; separate elite housing, built where there is underground water, holds a higher class of citizens[^ref-9].
 
-The feng shui system represents Emperor's most distinctive mechanical innovation[^ref-12]. Building footprints display green or yellow coloring based on their harmony rating with surrounding structures, affecting worker efficiency and housing desirability. Players must consider the auspicious placement of buildings to maximize city productivity[^ref-7]. The Chinese zodiac influences gameplay through company naming conventions featuring combinations like "Audacious Rabbits" or "Celestial Rats"[^ref-8].
+The feng shui system represents Emperor's most distinctive mechanical innovation[^ref-12]. Structures about to be placed turn green, yellow, or red depending on their suitability for a given location[^ref-18], and a harmonious city has happier, more productive residents[^ref-14]. The Chinese zodiac gives the player's leader bonuses such as reduced building costs, special gifts, or increased defense during years that correspond to his zodiac sign[^ref-14]; military companies are also named after the chosen zodiac animal, such as the "Audacious Rabbits" or "Celestial Rats"[^ref-8].
 
 Agriculture incorporates three climatic regions—arid, temperate, and humid—each supporting different crop types including rice, millet, wheat, and various vegetables[^ref-17]. Food quality mechanics require players to provide diverse diets to satisfy higher-tier housing[^ref-9]. Military elements allow players to train armies and launch attacks on rival cities, though combat remains secondary to city management[^ref-18].
 
@@ -80,11 +80,13 @@ Agriculture incorporates three climatic regions—arid, temperate, and humid—e
 
 ### Contemporary Reviews
 
-Emperor: Rise of the Middle Kingdom received generally favorable reviews upon release, with critics praising its refined city-building mechanics while noting the lack of significant innovation from previous entries[^ref-19]. Game Informer awarded the game 9.25/10, calling it "another great city-builder from a developer that has come to define a niche genre all its own"[^ref-1]. GameZone's Michael Lafferty gave it 9.3/10, describing it as "a gorgeous, challenging and thoroughly enjoyable civilization game"[^ref-20].
+Emperor: Rise of the Middle Kingdom received generally favorable reviews upon release, with critics praising its refined city-building mechanics while noting the lack of significant innovation from previous entries[^ref-19]. Game Informer awarded the game 9.25/10[^ref-1], calling it "another great city-builder from a developer that has come to define a niche genre all its own"[^ref-20]. GameZone's Michael Lafferty gave it 9.3/10, describing it as "a gorgeous, challenging and thoroughly enjoyable civilization game"[^ref-20].
 
-IGN's Dan Adams scored the game 8.8/10, praising the Chinese setting while acknowledging familiarity: "While Emperor is a quality game, and therefore deserving of the score, it's virtually the same game that we've seen before"[^ref-2]. He concluded that newcomers would be "silly not to" try the game, while veterans would find "more of what they want"[^ref-2]. GameSpy's William Abner similarly noted: "Emperor: Rise of the Middle Kingdom is not an innovative game. It's not all that new and not all that different from the other games in Sierra's classic 'City Building' franchise—but it's loads of fun all the same"[^ref-13].
+IGN's Dan Adams scored the game 8.8/10, praising the Chinese setting while acknowledging familiarity: "While Emperor is a quality game, and therefore deserving of the score, it's virtually the same game that we've seen before"[^ref-2]. He concluded that newcomers would be "silly not to" try the game, and that "those that couldn't get enough from Pharaoh or Zeus will certainly want to pick this up"[^ref-2]. GameSpy's William Abner similarly noted: "Emperor: Rise of the Middle Kingdom is not an innovative game. It's not all that new and not all that different from the other games in Sierra's classic 'City Building' franchise—but it's loads of fun all the same"[^ref-13].
 
 GameSpot's Ron Dulin provided a more critical assessment at 7.7/10, arguing that "if Zeus was two steps forward for the series, Emperor is its one step back"[^ref-14]. He praised the addictive formula while criticizing the cumbersome combat interface and aimless wandering of workers[^ref-14]. PC Gamer's Stephen Poole awarded 72%, noting the game "offers more of the same good stuff, but no real creative innovation" and criticized the AI: "instead of AI, you get an automated spreadsheet"[^ref-21].
+
+Computer Gaming World's Tom Chick (issue #220, November 2002) wrote that the series had moved to China, "where it achieves a delicate balance of the familiar and the exotic", and concluded: "Without the problems that took away from earlier Impressions city builders, Emperor delivers solid, familiar gameplay in an exotic setting."[^ref-39]
 
 The Electric Playground's Jules Grant gave 7.5/10, emphasizing the series' historical atmosphere as its defining strength while cautioning players against expecting robust military gameplay: "Please, though, don't go bringing your conquering, war-mongering ambitions to this game, for although they talk of invading other cities on the box cover, that is not the strength of Emperor"[^ref-22].
 
@@ -92,11 +94,11 @@ The Electric Playground's Jules Grant gave 7.5/10, emphasizing the series' histo
 
 Emperor has experienced significant reappraisal in the years following its release, with many players and critics now considering it the finest entry in the City Building Series. Rock Paper Shotgun declared that "Emperor was by far the better game, and is arguably as good as historical city builders ever got"[^ref-23]. TheGamer's Meg Pelliccio, discovering the game 21 years after release, proclaimed: "Emperor is the best game in the entire series and I was a fool for not knowing about it sooner"[^ref-24].
 
-The game's re-release on GOG.com in February 2017 introduced it to new audiences, where it maintains an impressive 4.7/5 rating from 258 user reviews[^ref-4]. One verified owner described it as "the pinnacle of the series" and "the best game with the Caesar III engine"[^ref-4]. The 20th anniversary in 2022 was celebrated by the active fan community at Emperor Heaven, demonstrating the game's enduring appeal[^ref-25].
+The game's re-release on GOG.com in February 2017 introduced it to new audiences, where it maintains an impressive 4.7/5 rating from 321 user reviews[^ref-4]. One GOG reviewer called it "an excellent city-builder and the pinnacle of the series", while another titled their review "Best game with the Caesar III engine!"[^ref-4]. The 20th anniversary in 2022 was celebrated by the active fan community at Emperor Heaven, demonstrating the game's enduring appeal[^ref-25].
 
 **Aggregate Scores:**
 - **Metacritic:** 77/100 (based on 15 critic reviews)[^ref-19]
-- **GOG.com:** 4.7/5 (258 user reviews)[^ref-4]
+- **GOG.com:** 4.7/5 (321 user reviews)[^ref-4]
 - **HowLongToBeat:** 79% recommendation[^ref-26]
 - **IMDb:** 7.1/10 (18 ratings)[^ref-27]
 
@@ -106,13 +108,13 @@ The game's re-release on GOG.com in February 2017 introduced it to new audiences
 
 Emperor: Rise of the Middle Kingdom emerged from Sierra's successful City Building Series, which had previously explored ancient Rome (Caesar III), Egypt (Pharaoh), and Greece (Zeus: Master of Olympus)[^ref-14]. The decision to set the game in ancient China represented the first time the series ventured outside European and Northern African civilizations[^ref-2]. As the game manual noted, "China is the oldest continuous civilization in the world, with nearly 4,000 years of history" and "one in five people on earth live in China, and it has been this way for at least a thousand years"[^ref-17].
 
-BreakAway Games was contracted to develop Emperor after having previously worked on the Cleopatra: Queen of the Nile expansion for Pharaoh and the Paradise Island add-on for Tropico[^ref-1][^ref-14]. This represented a significant transition, as Impressions Games had been the core developer for the series since its inception[^ref-13]. The development team strived to "keep things according to true historical facts as much as possible"[^ref-15].
+BreakAway Games was contracted to develop Emperor after having previously worked on the Cleopatra: Queen of the Nile expansion for Pharaoh and the Paradise Island add-on for Tropico[^ref-1][^ref-18]. This represented a significant transition, as Impressions Games had been the core developer for the series since its inception[^ref-13]. The development team strived to "keep things according to true historical facts as much as possible"[^ref-15].
 
 ### Production
 
 The development built upon the Zeus: Master of Olympus game engine, retaining the 2D-sprite graphics that had defined the series while implementing China-specific features[^ref-5]. Buildings were designed 25% larger than in previous games, providing more visual detail[^ref-15]. The team created nearly 80 distinct structures including various farm types for different crops and climatic regions[^ref-21].
 
-The addition of multiplayer represented a significant technical undertaking, supporting up to eight players online via Sierra's gaming system, direct IP connection, or LAN[^ref-15]. Multiplayer games were designed to take approximately 90 minutes, with both competitive and cooperative modes available[^ref-28]. The development team also created a Campaign Creator tool, allowing players to design custom missions and share them with the community[^ref-29].
+The addition of multiplayer represented a significant technical undertaking, supporting up to eight players online via Sierra's gaming system, direct IP connection, or LAN[^ref-15]. Multiplayer games were designed to take approximately 90 minutes[^ref-18], with both competitive and cooperative modes available[^ref-28]. The development team also created a Campaign Creator tool, allowing players to design custom missions and share them with the community[^ref-29].
 
 **Development Credits:**[^ref-1]
 - **Designers:** Charles Kibler, Ed Beach, Tony Leier
@@ -122,7 +124,7 @@ The addition of multiplayer represented a significant technical undertaking, sup
 
 Emperor represented the final evolution of the 2D-sprite engine that had powered the City Building Series since Caesar III[^ref-1]. Rather than pursuing 3D graphics, which would later be implemented in Caesar IV, the team focused on maximizing the visual appeal of the isometric perspective. As GameWatcher noted, "The '3D acceleration makes a great game' rule just simply doesn't apply here. Emperor's graphics are vivid, colorful and eye catching"[^ref-15].
 
-The feng shui system required sophisticated pathfinding and building-relationship calculations to determine harmony values in real-time[^ref-12]. The game's support for multiple food types and quality levels added complexity to the economic simulation[^ref-12]. Jeff van Dyck composed the soundtrack, incorporating traditional Chinese instruments and melodic structures that reviewers described as "absolutely great" and contributing to a "zen-like" atmosphere[^ref-12][^ref-15].
+The game's support for multiple food types and quality levels added complexity to the economic simulation[^ref-12]. Jeff van Dyck composed the soundtrack[^ref-36], which GameWatcher called "absolutely great", saying it "puts you just right in ancient China"[^ref-15].
 
 ### Technical Specifications
 
@@ -132,13 +134,11 @@ The feng shui system required sophisticated pathfinding and building-relationshi
 - **Minimum RAM:** 64 MB
 - **Disk Space:** 800 MB
 - **Graphics:** 16-bit 4 MB SVGA
-- **CD-ROM:** 4X
-- **Other:** Mouse, sound card, DirectX 8.0
 
 **Native Resolution Support:**[^ref-31]
 - 800x600
 - 1024x768
-- 4:3 aspect ratio only (widescreen requires community patches)
+- 4:3 aspect ratio only (widescreen requires community patches)[^ref-37]
 
 **Framerate:** 20 FPS cap[^ref-30]
 
@@ -151,11 +151,11 @@ No significant cut content has been documented in the available research materia
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | September 2002 | Windows | Initial release[^ref-1] |
-| 1.0.1.0 | August 2003 | Windows | Official patch with bug fixes and bonus campaigns[^ref-25] |
+| 1.0.1.0 | August 6, 2003 | Windows | Official patch with bug fixes, one bonus campaign and 12 multiplayer scenarios[^ref-40][^ref-32] |
 | GOG.com | February 2017 | Windows | Digital re-release with patch 1.0.1.0 included[^ref-4] |
 
 **Patch 1.0.1.0 Changes:**[^ref-32]
-- Fixed crash when placing trading station for city with no commodities
+- Fixed crash when a trading station (Lhasa) is placed for a city that buys or sells no commodities
 - Fixed crash in city of Dunhuang
 - Fixed crash when using Break Alliance button
 - Fixed theater deletion crashes
@@ -163,12 +163,11 @@ No significant cut content has been documented in the available research materia
 - Fixed flood-related crashes with ferries
 - Fixed storage yard control linking bug
 - Fixed Sun Tzu's blessing not working
-- Fixed crash-to-desktop when Lhasa trading post was placed
-- Added new campaigns and multiplayer scenarios
+- Added the three-mission Campaign of Emperor Jin Wudi (previously a separate download) and twelve new multiplayer scenarios
 
 ### Technical Issues
 
-The original release contained several significant bugs, most notably Sun Tzu's blessing not functioning at all and a crash-to-desktop bug when placing the Lhasa trading post[^ref-5]. While patch 1.0.1.0 addressed many issues, some bugs documented by the Emperor Heaven fan community were never officially fixed, including problems when sending troops to defend other cities[^ref-5].
+The original release contained several game-breaking bugs, most notably Sun Tzu's blessing not functioning at all, which patch 1.0.1.0 fixed[^ref-5]. The patch mitigated but did not eliminate a bug when sending troops to defend other cities, and the Emperor Heaven fan site documents several bugs that still occur after patching[^ref-5].
 
 Modern compatibility issues include:
 - DPI scaling problems on high-resolution displays[^ref-31]
@@ -228,16 +227,12 @@ Emperor: Rise of the Middle Kingdom occupies a unique position in city-building 
 
 The game's enduring appeal stems from its refined implementation of the walker-based city-building system, its distinctive feng shui mechanics, and its immersive recreation of ancient Chinese civilization. Modern retrospectives consistently identify it as the peak of the City Building Series, with the subsequent 3D transition in Caesar IV viewed less favorably by series veterans[^ref-10]. Emperor represents "arguably as good as historical city builders ever got"[^ref-23], serving as a benchmark against which newer entries in the genre are measured.
 
-The game also holds significance as the final 2D entry in the series and the last major release from Impressions Games before the studio's closure the following year[^ref-5]. Its availability on GOG.com has introduced it to new generations of players, many of whom share Meg Pelliccio's sentiment of wondering how they missed such an exceptional game for so long[^ref-24].
+The game also holds significance as the last entry in the series to use the 2D-sprite engine[^ref-1]. Impressions' own final game was Lords of the Realm III, released in March 2004, and the studio was shut down in April 2004[^ref-38]. Its availability on GOG.com has introduced it to new generations of players, many of whom share Meg Pelliccio's sentiment of wondering how they missed such an exceptional game for so long[^ref-24].
 
 ## Downloads
 
 **Purchase / Digital Stores**
 - [GOG.com](https://www.gog.com/game/emperor_rise_of_the_middle_kingdom)
-
-**Download / Preservation**
-- [Internet Archive](https://web.archive.org)
-- [MyAbandonware](https://www.myabandonware.com)
 
 **Manuals & Extras**
 - [Game Manual PDF](https://pdfcoffee.com/emperor-rise-of-the-middle-kingdom-manual-pdf-free.html) - 151-page official manual
@@ -274,7 +269,7 @@ The game also holds significance as the final 2D entry in the series and the las
 [^ref-2]: [IGN – Emperor: Rise of the Middle Kingdom Review](https://www.ign.com/articles/2002/09/10/emperor-rise-of-the-middle-kingdom-review) – review score 8.8/10, gameplay analysis, historical setting
 [^ref-3]: [GameRevolution – Emperor: Rise of the Middle Kingdom](https://www.gamerevolution.com/game/emperor-rise-of-the-middle-kingdom) – game description, genre classification
 [^ref-4]: [GOG.com – Emperor: Rise of the Middle Kingdom](https://www.gog.com/game/emperor_rise_of_the_middle_kingdom) – user ratings, digital release information
-[^ref-5]: [Impressions Games Wiki – Emperor: Rise of the Middle Kingdom](https://impressionsgames.fandom.com/wiki/Emperor:_Rise_of_the_Middle_Kingdom) – engine information, bug documentation, studio closure
+[^ref-5]: [Impressions Games Wiki – Emperor: Rise of the Middle Kingdom](https://impressionsgames.fandom.com/wiki/Emperor:_Rise_of_the_Middle_Kingdom) – engine information, bug documentation
 [^ref-7]: [GameZone Review](https://web.archive.org/web/20081006201435/http://pc.gamezone.com/gzreviews/r19809.htm) – review score 9.3/10, gameplay analysis
 [^ref-8]: [TV Tropes – Emperor: Rise of the Middle Kingdom](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/EmperorRiseOfTheMiddleKingdom) – gameplay tropes, zodiac names, alternate history
 [^ref-9]: [GameFAQs – FAQ/Walkthrough by dreen](https://gamefaqs.gamespot.com/pc/553878-emperor-rise-of-the-middle-kingdom/faqs/19423) – dynasty information, gameplay mechanics
@@ -306,3 +301,6 @@ The game also holds significance as the final 2D entry in the series and the las
 [^ref-35]: [ModDB – EmperorLimitPatch](https://www.moddb.com/mods/emperorlimitpatch) – building limit removal mod
 [^ref-36]: [Jeff van Dyck Bandcamp](https://jeffvandyck.bandcamp.com/album/emperor-rise-of-the-middle-kingdom) – soundtrack release, track listing
 [^ref-37]: [GamePressure – Widescreen Patch](https://www.gamepressure.com/download.asp?ID=58680) – mod information, native resolution limitations
+[^ref-38]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – Lords of the Realm III as final game (March 2004), studio closure April 2004
+[^ref-39]: [Computer Gaming World #220 (November 2002), pp. 126–127 – Emperor review by Tom Chick](https://archive.org/details/Computer_Gaming_World_Issue_220) – review verdict
+[^ref-40]: [Emperor Heaven – Patches](https://emperor.heavengames.com/downloads/lister.php?category=patches) – patch 1.0.1.0 dated August 6, 2003
