@@ -6,35 +6,36 @@ designer: [David Lester, Simon Bradbury]
 publisher: Impressions
 genre: Strategy
 platforms: [DOS, Amiga, Atari ST]
-series: Impressions
-engine: Impressions Engine
-protagonist: ''
+series: None
+engine: Merchant Colony engine
+protagonist: Player-controlled conquistador
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-11'
-description: 'Discovery: In the Steps of Columbus is a real-time strategy game of
-  conquest and exploration released in 1992, timed to coincide with the 500th anniversary...'
+last_updated: '2026-10-13'
+description: 'Discovery: In the Steps of Columbus is a 1992 real-time strategy game of
+  exploration and colonization from Impressions, released for the 500th anniversary of
+  Columbus''s voyage.'
 tags: [1990s, impressions, sierra, strategy]
 ---
 # Discovery: In the Steps of Columbus
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Discovery: In the Steps of Columbus is a real-time strategy game of conquest and exploration released in 1992, the year of the 500th anniversary of Christopher Columbus's voyage to the Americas[^ref-10]. Developed by Golden Sector and published by Impressions, the game places players in the role of a conquistador tasked with sending fleets of settlers to discover and colonize new worlds while competing against five other European nations[^ref-2]. The game features a comprehensive mouse-driven interface and allows players to choose their starting fatherland before embarking on their colonial endeavors[^ref-2].
+Discovery: In the Steps of Columbus is a real-time strategy game of conquest and exploration released in 1992, the year of the 500th anniversary of Christopher Columbus's voyage to the Americas[^ref-10]. Developed by Golden Sector and published by Impressions, the game places players in the role of a conquistador tasked with sending fleets of settlers to discover and colonize new worlds[^ref-2] while competing against four rival European powers[^ref-10]. The game features a comprehensive mouse-driven interface and allows players to choose their starting fatherland before embarking on their colonial endeavors[^ref-2].
 
-The gameplay draws comparisons to Sid Meier's Civilization, requiring players to purchase ships, explore unknown territories shrouded in fog, and develop settlements through the construction of farms, warehouses, and defensive forts[^ref-3]. Players must balance exploration, economic development, and military defense against both competing colonial powers and native populations[^ref-2]. The game received mixed reviews upon release, with critics faulting its slow pace and fiddly, user-unfriendly controls[^ref-7][^ref-10].
+The gameplay draws comparisons to Sid Meier's Civilization, requiring players to purchase ships, explore unknown territories shrouded in fog, and develop settlements through the construction of farms, warehouses, and defensive forts[^ref-3]. Players must balance exploration, economic development, and military defense against both competing colonial powers and native populations[^ref-2]. The game received mixed reviews upon release, with critics faulting its slow pace and fiddly, user-unfriendly controls[^ref-10][^ref-19].
 
 > [!info]- Game Info
 > **Developer:** Golden Sector[^ref-2]
 > **Designer:** [[David Lester]], [[Simon Bradbury]]
 > **Publisher:** Impressions[^ref-2]
-> **Engine:** Modified Merchant Colony engine[^ref-6]
+> **Engine:** Merchant Colony engine (per Home of the Underdogs)[^ref-6]
 > **Platforms:** MS-DOS, Amiga, Atari ST[^ref-7]
 > **Release Year:** 1992
-> **Series:** N/A
-> **Protagonist:** Player-controlled conquistador
-> **Sierra Lineage:** Third-Party Historical
+> **Series:** None
+> **Protagonist:** Player-controlled conquistador[^ref-2]
+> **Sierra Lineage:** Sierra Label (Impressions)
 
 ## Story Summary
 
@@ -48,11 +49,11 @@ To maintain an element of mystery and discovery, the developers created five ima
 
 ### Interface and Controls
 
-Discovery features a comprehensive mouse-driven interface that allows players to manage all aspects of their colonial enterprise[^ref-2]. The game runs on both OCS and ECS Amiga systems and is controlled entirely via mouse input[^ref-10]. Despite the intended ease of use, contemporary reviewers found the controls fiddly and buggy, with the cursor moving around jerkily and the menu system feeling disjointed and cumbersome[^ref-10]. One reviewer noted that the manual was "flash but useless for learning how to play the game," suggesting players "try playing it before reading the manual" as it "seems to make considerably more sense that way"[^ref-10].
+Discovery features a comprehensive mouse-driven interface that allows players to manage all aspects of their colonial enterprise[^ref-2]. The Amiga version runs on OCS and ECS machines[^ref-15] and is controlled by mouse[^ref-10]. Despite the intended ease of use, contemporary reviewers found the controls wanting: Amiga Format called them "fiddly and buggy", while Amiga Power's Jonathan Davies wrote that "the cursor moves around all jerkily, and the menu system feels disjointed and cumbersome"[^ref-10]. Amiga Format's Pat McDonald judged the manual "flash but useless for learning how to play the game", and CU Amiga's Tony Dillon advised readers to "try playing it before reading the manual. It seems to make considerably more sense that way"[^ref-10].
 
 ### Structure and Progression
 
-The game unfolds as players work to discover and colonize territories across six available new worlds[^ref-2]. The map begins as a wall of fog that is gradually revealed through exploration[^ref-11]. Gameplay follows a logical progression:
+The game unfolds as players work to discover and colonize territories across six available new worlds[^ref-2]. The map begins as a wall of fog that is gradually revealed through exploration[^ref-11]. Amiga Power noted that the game "plays itself until you intervene" rather than waiting on player input[^ref-10]. Gameplay follows a logical progression:
 
 - **Acquisition:** Players first purchase ships from the bank to begin exploration[^ref-3]
 - **Discovery:** Ships are sent into the unknown to explore and find new land[^ref-7]
@@ -61,11 +62,11 @@ The game unfolds as players work to discover and colonize territories across six
 - **Trade:** Developed settlements produce goods for trade between the new world and the fatherland[^ref-8]
 - **Expansion:** Success allows for further exploration and settlement of additional territories
 
-Five extra scenarios are available beyond the main campaign, offering variety in starting conditions and challenges[^ref-11].
+Tilt's review described four missions: a basic exploration-and-settlement mission, "Mêlée Générale" (won by being the last solvent competitor), "Eldorado" (find the legendary city of gold), and the "Course à la Terre" and "Course à l'Argent" races, rewarding the player with the most land or the most money[^ref-9].
 
 ### Puzzles and Mechanics
 
-The game operates as an economic and military simulation rather than a puzzle-focused title. Competition with five other AI-controlled nations drives much of the strategic challenge, requiring the game to feature a combat module for resolving conflicts[^ref-2]. Players must manage resources carefully, as bankruptcy results in immediate game over[^ref-10]. The trading system requires establishing profitable routes between colonies and the European homeland, while military units must be positioned to defend against hostile natives and rival colonial forces.
+The game operates as an economic and military simulation rather than a puzzle-focused title. Competition with four rival powers drives much of the strategic challenge, and conflicts at sea and on land are inevitable[^ref-10]; the game includes a combat module for resolving them[^ref-2]. Players must manage resources carefully, as bankruptcy results in immediate game over[^ref-10]. The trading system requires establishing profitable routes between colonies and the European homeland, while military units must be positioned to defend against hostile natives and rival colonial forces.
 
 Right-clicking allows players to scroll around the discovered portions of the map, providing strategic oversight of their growing empire[^ref-3]. The aim is to settle all available areas while successfully fighting against enemy factions competing for the same territories[^ref-3].
 
@@ -73,33 +74,32 @@ Right-clicking allows players to scroll around the discovered portions of the ma
 
 ### Contemporary Reviews
 
-Discovery: In the Steps of Columbus received mixed to poor reviews from contemporary gaming publications. Computer Gaming World's M. Evan Brooks gave the game just 2 out of 5 stars, calling it "slow, dull, user-unfriendly"[^ref-7] and linking its fate to the broader cultural backlash against Columbus anniversary commemorations[^ref-6]. He noted that "the 500th Anniversary of Columbus was PIC (politically incorrect)" and that "the movies, television, books quickly became major 'busts'" with the game being "no different"[^ref-6].
+Discovery: In the Steps of Columbus received mixed reviews from contemporary gaming publications. In his "Wargame Survey Version 2.0" in Computer Gaming World #109 (August 1993), M. Evan Brooks gave the game two stars and wrote: "The 500th Anniversary of Columbus was PIC (politically incorrect). The movies, televisions, books quickly became major 'busts.' This game was no different. Slow, dull, user-unfriendly."[^ref-19]
 
-Dragon magazine's Patricia and Kirk Lesser were more generous, awarding 3 out of 5 stars in their March 1993 issue (#191)[^ref-7]. French publication Tilt gave the game 6.5 out of 10, with reviewer Laurent Defrance describing it as "a good strategy game that offers a realistic simulation of the problems that may have occurred during the great colonization campaigns of the New World"[^ref-9].
+Dragon magazine's Hartley, Patricia and Kirk Lesser were more generous, awarding 3 out of 5 stars in their March 1993 issue (#191)[^ref-7]. In French magazine Tilt (July 1992), Laurent Defrance called it, in translation, "a good strategy game that offers a realistic simulation of the problems that may have occurred during the great colonization campaigns of the New World", while finding it "bien trop lourd à gérer" (far too heavy to manage)[^ref-9]; Obligement's reprint of the review lists a rating of 6.5/10[^ref-9].
 
-Amiga magazine coverage was more extensive. Datormagazin gave the highest score at 82%[^ref-12], while ACAR and Amiga Mania both awarded 80%[^ref-12]. Amiga Power gave 75%[^ref-12], Amiga Format 72%[^ref-12], CU Amiga 71%[^ref-12], Amiga Joker 66%[^ref-13], and Amiga Action the lowest at 65%[^ref-14]. German publication Power Play was harshly critical, scoring the game just 23% with graphics at 30% and sound at 19%[^ref-13].
+Amiga magazine coverage was more extensive. Datormagazin gave the highest score at 82%[^ref-12], while ACAR and Amiga Mania both awarded 80%[^ref-12]. Amiga Power gave 75%[^ref-12], Amiga Format 72%[^ref-12], CU Amiga 71%[^ref-12], Amiga Joker 66%[^ref-13], and Amiga Action the lowest at 65%[^ref-14]. Amiga Joker's Max Magenauer nonetheless called it "das mit Abstand beste Programm von Impressions" (by far Impressions' best program)[^ref-10]. German publication Power Play was harshly critical, scoring the game just 23% with graphics at 30% and sound at 19%, and Play Time gave the Atari ST version 51%[^ref-13].
 
-Multiple reviewers unfavorably compared the game to Sid Meier's Pirates!, with one stating it was "not a patch on Pirates for playability"[^ref-10]. Later retrospective commentary recommended players "go play Sid Meier's Colonization for Windows instead if you're a fan of the period"[^ref-6].
+Amiga Format concluded that it was "not a patch on Pirates for playability"[^ref-10], while Amiga Joker described it more neutrally as an explorer simulation "im Stil von 'Pirates'" (in the style of Pirates)[^ref-10].
 
 ### Modern Assessment
 
-Modern assessment of Discovery remains relatively sparse, reflecting its status as a largely forgotten title. The game holds a critics' average of 51% based on 5 ratings on MobyGames[^ref-2]. User ratings on preservation sites are somewhat more favorable—MyAbandonware shows a 4.33 out of 5 rating from 9 votes[^ref-6], while Emuparadise users gave it 4.4 out of 5 from 5 votes[^ref-15].
+Modern assessment of Discovery remains relatively sparse. The game holds a critics' average of 56% based on 6 ratings on MobyGames[^ref-2]. One modern opinion, a Home of the Underdogs write-up reproduced on MyAbandonware, called it an "utterly boring game" and advised: "Go play Sid Meier's Colonization for Windows instead if you're a fan of the period."[^ref-6] MyAbandonware users rate it 4.33 out of 5 from 9 votes[^ref-6].
 
 **Aggregate Scores:**
-- **MobyGames:** 51% critics average (5 ratings)[^ref-2]
-- **Moby Score:** 5.9[^ref-2]
+- **MobyGames:** 56% critics average (6 ratings)[^ref-2]
+- **Moby Score:** 6.1[^ref-2]
 - **MyAbandonware:** 4.33/5 (9 votes)[^ref-6]
-- **Emuparadise:** 4.4/5 (5 votes)[^ref-15]
 
 ## Development
 
 ### Origins
 
-Discovery: In the Steps of Columbus was developed by Golden Sector and published by Impressions (also known as Impressions Software or Impressions Games)[^ref-2]. The game arrived in 1992, the quincentennial of Columbus's arrival in the Americas, a year that Amiga Power's reviewer noted had already brought a run of maritime exploration games[^ref-10]. The original concept came from [[David Lester]], who also served as co-designer alongside [[Simon Bradbury]].
+Discovery: In the Steps of Columbus was developed by Golden Sector and published by Impressions (also known as Impressions Software or Impressions Games)[^ref-2][^ref-15]. Sources differ on the developer credit: Wikipedia names Impressions itself as developer[^ref-7], and Computer Gaming World credited "Impressions; David Lester"[^ref-19]. The game arrived in 1992, the quincentennial of Columbus's arrival in the Americas, a year that Amiga Power's reviewer noted had already brought a run of maritime exploration games[^ref-10]. The original concept came from [[David Lester]], who also served as co-designer alongside [[Simon Bradbury]][^ref-3].
 
 ### Production
 
-The development team at Golden Sector built upon their previous work, with the game engine being described as only "marginally improved" from their earlier title Merchant Colony[^ref-6]. This reuse of existing technology may explain some of the technical criticisms the game received regarding its sluggish performance and dated feel.
+Home of the Underdogs' write-up held that the engine used in Impressions' earlier Merchant Colony "was only marginally improved" for Discovery[^ref-6]. Tilt also likened the game to Merchant Colony, but meant it as praise: "Ce qui est un compliment" (which is a compliment)[^ref-9].
 
 **Development Credits:**[^ref-2]
 - **Original Concept:** David Lester
@@ -112,17 +112,17 @@ The development team at Golden Sector built upon their previous work, with the g
 
 ### Technical Achievements
 
-The game featured a top-down perspective with turn-based pacing, typical of strategy games of the era[^ref-2]. It supported both 3.5" and 5.25" floppy disk formats for the DOS version[^ref-2], while the Amiga version shipped on two disks[^ref-10]. The game supported naval and watercraft-based gameplay appropriate to its Caribbean colonial setting[^ref-2].
+The game uses a top-down perspective and is classified by MobyGames under naval/watercraft themes[^ref-2]. It supported both 3.5" and 5.25" floppy disk formats for the DOS version[^ref-2], while the Amiga version shipped on two disks[^ref-10].
 
 ### Technical Specifications
 
-**Amiga Version:**[^ref-10]
+**Amiga Version:**[^ref-15]
 - **Hardware:** OCS, ECS compatible
-- **Memory:** 512 KB minimum[^ref-16]
+- **Memory:** 512 KB minimum[^ref-9]
 - **Media:** Two disks
-- **Controls:** Mouse
-- **Hard Drive:** Not supported
-- **Language:** English
+- **Controls:** Mouse[^ref-10]
+- **Hard Drive:** Not supported[^ref-10]
+- **Languages:** English, French, German, Italian, Spanish
 - **Players:** 1 only
 
 **DOS Version:**[^ref-17]
@@ -134,12 +134,13 @@ The game featured a top-down perspective with turn-based pacing, typical of stra
 - **Media:** 1 diskette
 
 **Retail Pricing:**
-- Amiga UK: £29.99
+- Amiga UK: £29.99[^ref-10]
 - Germany: DM 79.00[^ref-12]
+- US (CGW listing): $59.95[^ref-19]
 
 ### Technical Issues
 
-Contemporary reviewers documented numerous technical problems with the game. The controls were described as "fiddly and buggy" with a cursor that "moves around jerkily"[^ref-10]. The menu system felt "disjointed and cumbersome"[^ref-10], and the German version suffered from poor translation of screen texts[^ref-10].
+Contemporary reviewers documented numerous technical problems with the game. Amiga Format described the controls as "fiddly and buggy"[^ref-10]. Amiga Power wrote that the cursor "moves around all jerkily" and that the menu system "feels disjointed and cumbersome"[^ref-10], and Amiga Joker found the German version's screen texts sloppily translated[^ref-10].
 
 Users on preservation sites have reported additional bugs including trader ships that "load forever but never actually load up and leave port to trade"[^ref-6]. The AI opponents were also criticized for failing too quickly, "making it a very short game and easy to win, even on harder levels"[^ref-6]. Some players noted that downloaded versions appear "more glitchy than the original"[^ref-6].
 
@@ -161,7 +162,7 @@ No specific cut content has been documented in available sources.
 
 ### Easter Eggs and Trivia
 
-- The game was released during a period when Columbus commemorations were becoming politically controversial, which reviewer M. Evan Brooks suggested contributed to its failure[^ref-6]
+- M. Evan Brooks grouped the game with the Columbus-anniversary movies, television and books that "quickly became major 'busts'"[^ref-19]
 - The game includes a physical map/chart in the box packaging[^ref-10]
 - Despite the Columbus theme, the game includes five fictional worlds in addition to the Americas to preserve the sense of exploration and prevent players from using historical knowledge[^ref-9]
 - One user comment on a German retro gaming site recalled their brother-in-law calling it the "größte Fehlkauf seines Lebens" (biggest mis-purchase of his life)[^ref-13]
@@ -174,7 +175,7 @@ This game does not feature voice acting.
 
 ### Sales and Commercial Impact
 
-Discovery: In the Steps of Columbus appears to have been a commercial disappointment, though specific sales figures are not available. The game's release coincided with a cultural backlash against Columbus anniversary commemorations, which M. Evan Brooks suggested negatively impacted its reception[^ref-6]. The game's ranking of #24,320 out of 27,500 games on MobyGames and collection by only 8 players indicates its minimal lasting impact[^ref-2].
+No sales figures for Discovery: In the Steps of Columbus have been documented. M. Evan Brooks linked its reception to the wider failure of Columbus-anniversary media, writing that "This game was no different"[^ref-19].
 
 ### Collections
 
@@ -186,26 +187,21 @@ A WHDLoad installation package was created by Psygore in 2009 to allow the Amiga
 
 ### Related Publications
 
-- **Game Manual:** Included comprehensive gameplay instructions, described by reviewers as "flash but useless for learning how to play the game"[^ref-10]
+- **Game Manual:** Described by Amiga Format as "flash but useless for learning how to play the game"[^ref-10]; Amiga Power called it "quite a nice manual, though, with plenty of background info on our man Columbus"[^ref-10]
 - **Physical Map/Chart:** Included in box packaging[^ref-10]
 
 ### Critical Perspective
 
-Discovery: In the Steps of Columbus represents a fascinating footnote in gaming history—a title that attempted to capitalize on a major historical anniversary only to be undermined by both its own technical shortcomings and a shifting cultural attitude toward its subject matter. The game arrived at a moment when the Columbus quincentennial had become politically fraught, as M. Evan Brooks observed in calling the anniversary "PIC (politically incorrect)"[^ref-6].
+Discovery: In the Steps of Columbus is a footnote in strategy-game history: a title built around a major historical anniversary that arrived as Columbus commemorations themselves turned controversial, a link M. Evan Brooks drew when he called the anniversary "PIC (politically incorrect)"[^ref-19].
 
-From a design perspective, the game occupied an awkward middle ground between the accessible action of Sid Meier's Pirates! and the deeper strategic complexity that Meier would later achieve with Colonization (1994). Laurent Defrance's assessment that it was "a good strategy game" hampered by controls that were "too heavy to manage" captures the consensus view[^ref-9]. The game's reuse of the Merchant Colony engine with only marginal improvements suggests a rushed development cycle attempting to meet the anniversary window[^ref-6].
-
-The game has been largely forgotten in discussions of colonial-era strategy games, overshadowed entirely by Colonization, which addressed similar themes with far greater polish and depth. Its primary historical significance lies in demonstrating the risks of tying game development to external cultural events and the importance of robust playtesting and interface design.
+Reviewers placed it between the more playable Sid Meier's Pirates![^ref-10] and Impressions' own Merchant Colony[^ref-9]. Laurent Defrance's Tilt review saw "a good strategy game" weighed down by being "too heavy to manage"[^ref-9], a mixed verdict echoed by most contemporary scores, which ranged from 65% to 82% in the Amiga press[^ref-12][^ref-14] but fell much lower in Power Play and CGW[^ref-13][^ref-19].
 
 ## Purchase
 
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/discovery-in-the-steps-of-columbus-1992) – Available for purchase
-
-## Downloads
-
 **Purchase / Digital Stores:**
 - Not currently available for digital purchase
+
+## Downloads
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/msdos_Discovery_-_In_the_Steps_of_Columbus_1992) – Playable DOS version via emulation[^ref-17]
@@ -237,18 +233,19 @@ The game has been largely forgotten in discussions of colonial-era strategy game
 
 ## References
 
-[^ref-2]: [MobyGames – Discovery: In the Steps of Columbus](https://www.mobygames.com/game/27734/discovery-in-the-steps-of-columbus/) – Developer, publisher, platform information, critic ratings, full credits
-[^ref-3]: [Lemon Amiga – User Review](https://www.lemonamiga.com/games/details.php?id=4730) – Gameplay description comparing to Civilization
-[^ref-6]: [MyAbandonware – Discovery](https://www.myabandonware.com/game/discovery-in-the-steps-of-columbus-1dx) – User ratings, bug reports, engine derivation from Merchant Colony
-[^ref-7]: [Wikipedia – Discovery: In the Steps of Columbus](https://en.wikipedia.org/wiki/Discovery:_In_the_Steps_of_Columbus) – Platform information, Dragon magazine review citation
+[^ref-2]: [MobyGames – Discovery: In the Steps of Columbus](https://www.mobygames.com/game/27734/discovery-in-the-steps-of-columbus/) – Developer, publisher, platform information, critic ratings (56%, 6 ratings), Moby Score, full credits
+[^ref-3]: [Lemon Amiga – Discovery: In the Steps of Columbus](https://www.lemonamiga.com/games/details.php?id=4730) – Concept/design credits; user comment comparing gameplay to Civilization
+[^ref-6]: [MyAbandonware – Discovery](https://www.myabandonware.com/game/discovery-in-the-steps-of-columbus-1dx) – Home of the Underdogs review (one modern opinion), user ratings, bug reports, file size
+[^ref-7]: [Wikipedia – Discovery: In the Steps of Columbus](https://en.wikipedia.org/wiki/Discovery:_In_the_Steps_of_Columbus) – Platform information, Dragon #191 review citation (Hartley, Patricia and Kirk Lesser)
 [^ref-8]: [Metacritic – Discovery](https://www.metacritic.com/game/discovery-in-the-steps-of-columbus/) – Game summary description
-[^ref-9]: [Obligement – Tilt Review](http://obligement.free.fr/articles/discovery_steps_of_columbus.php) – French review, 6.5/10 score, fictional worlds trivia
-[^ref-10]: [Amiga Reviews](https://www.amigareviews.leveluphost.com/discover.htm) – Multiple contemporary Amiga magazine reviews, technical issues, controls criticism
-[^ref-11]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/64947-discovery-in-the-steps-of-columbus) – Gameplay mechanics, fog of war, scenarios
-[^ref-12]: [Amiga Magazine Review Aggregation](http://amr.abime.net/review_24039) – Datormagazin, ACAR, Amiga Mania, Amiga Power, Amiga Format, CU Amiga scores
-[^ref-13]: [Kultboy.com](https://www.kultboy.com/testbericht-uebersicht/3816/) – German magazine reviews including Power Play 23%, Amiga Joker breakdown, user comments
+[^ref-9]: [Obligement – Tilt Review](http://obligement.free.fr/articles/discovery_steps_of_columbus.php) – Laurent Defrance's Tilt review (July 1992) reprinted; missions, fictional worlds, Merchant Colony comparison; info box lists 6.5/10 and 512 KB minimum
+[^ref-10]: [Amiga Reviews](https://www.amigareviews.leveluphost.com/discover.htm) – Amiga Format, Amiga Joker, Amiga Power and CU Amiga review texts; controls criticism, specs, prices
+[^ref-11]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/64947-discovery-in-the-steps-of-columbus) – Gameplay overview, fog of war
+[^ref-12]: [Amiga Magazine Review Aggregation](http://amr.abime.net/review_24039) – Datormagazin, ACAR, Amiga Mania, Amiga Power, Amiga Format, CU Amiga scores; DM 79 price
+[^ref-13]: [Kultboy.com](https://www.kultboy.com/testbericht-uebersicht/3816/) – German magazine reviews including Power Play 23%, Play Time 51% (Atari ST), Amiga Joker breakdown, user comments
 [^ref-14]: [Amiga Reviews – Amiga Action](http://amr.abime.net/review_37247) – Nick Merritt 65% review
-[^ref-15]: [Hall of Light – Discovery: In the Steps of Columbus](https://hol.abime.net/1357) – Amiga community user rating, magazine review scores, technical specs (replaces dead Emuparadise URL; Emuparadise removed all ROM content in 2018)
+[^ref-15]: [Hall of Light – Discovery: In the Steps of Columbus](https://hol.abime.net/364) – Developer Golden Sector, publisher Impressions, 2 disks, OCS/ECS, five languages, 1 player
 [^ref-16]: [WHDLoad](https://www.whdload.de/games/Discovery.html) – Technical requirements for Amiga installation, version history
 [^ref-17]: [Internet Archive](https://archive.org/details/msdos_Discovery_-_In_the_Steps_of_Columbus_1992) – DOS version preservation, file specifications
 [^ref-18]: [Classic Reload](https://classicreload.com/discovery-in-the-steps-of-columbus.html) – Platform confirmation, release year
+[^ref-19]: [Computer Gaming World #109 (August 1993) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_109) – M. Evan Brooks, "Wargame Survey Version 2.0": two stars, $59.95, "Slow, dull, user-unfriendly"
