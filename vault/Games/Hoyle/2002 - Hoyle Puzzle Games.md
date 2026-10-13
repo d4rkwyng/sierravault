@@ -7,29 +7,28 @@ publisher: Vivendi Universal Games
 genre: Puzzle
 platforms: [IBM PC, Mac]
 series: Hoyle Series
-engine: Proprietary (Windows)
+engine: Unknown
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
-description: Hoyle Puzzle Games is a comprehensive puzzle game collection released
-  on September 7, 2002, as part of Sierra's long-running Hoyle series of casual gaming...
+last_updated: '2026-10-13'
+description: Hoyle Puzzle Games is a collection of 15 puzzle and arcade-style games, including The Incredible Machine - Even More Contraptions, released by Sierra on September 7, 2002, for Windows and Macintosh.
 tags: [2000s, hoyle-series, puzzle, sierra]
 ---
 # Hoyle Puzzle Games 2002
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Hoyle Puzzle Games is a comprehensive puzzle game collection released on September 7, 2002, as part of Sierra's long-running Hoyle series of casual gaming compilations[^ref-1][^ref-2][^ref-20]. Published by Vivendi Universal Games, this title brought together fifteen mind-bending games spanning word puzzles, tile-based challenges, and action-puzzle hybrids, designed to appeal to casual gamers and puzzle enthusiasts alike[^ref-4]. The collection represented Sierra's continued commitment to the Hoyle brand, which had been producing quality casual gaming experiences since the original Hoyle's Official Book of Games in 1989[^ref-5][^ref-6].
+Hoyle Puzzle Games 2002 (sold at retail simply as *Hoyle Puzzle Games*, with no year in the title) is a puzzle game collection released on September 7, 2002, as part of Sierra's long-running Hoyle series[^ref-1][^ref-19][^ref-22]. Published by Vivendi Universal Games for Windows and Macintosh, it gathered 15 games: Anagrams, Crosswords, Edge Tiles, Gravity Tiles, Hangman, Mahjong Tiles, Maze Racer, Maze Raider, Memory Tiles, Placer Racer, Slide Tiles, Solitaire Arcade, Star Collector, Time Breaker and the full version of *The Incredible Machine: Even More Contraptions*[^ref-2][^ref-4][^ref-26][^ref-27]. The Hoyle line itself dates back to Hoyle's Official Book of Games in 1989[^ref-5][^ref-6].
 
-The game distinguished itself through its variety of content, featuring everything from crossword puzzles sourced from Dell Magazine to the complete version of The Incredible Machine: Even More Contraptions as a bonus game[^ref-2][^ref-4]. Each game within the collection offered high-score lists and adjustable skill levels, allowing players of varying abilities to find appropriate challenges[^ref-1][^ref-8]. The inclusion of the Facemaker Tool allowed players to create unique-looking characters to represent themselves during gameplay, adding a personalization element to the experience[^ref-1][^ref-8].
+The crossword game drew on 1,200 Dell Magazine crossword puzzles, which players could save and print, and the package added a free Hoyle rulebook and strategy guide plus Webster's New World College Dictionary as a reference[^ref-26]. Players signed in by typing a name and picking a character image; the game kept statistics for each player and let them adjust game speed, difficulty, background music and game variations[^ref-27]. Each game had high-score lists and adjustable skill levels, and the Facemaker tool let players build their own character[^ref-19][^ref-20].
 
-Released simultaneously for IBM PC and Macintosh platforms via CD-ROM, Hoyle Puzzle Games 2002 also included bonus content for handheld devices, with Placer Racer and Mahjong Tiles available for Palm OS and Windows CE PDA systems[^ref-2][^ref-4]. The package came complete with an authoritative Hoyle rulebook, maintaining the series' tradition of providing comprehensive gaming resources[^ref-4]. This entry was followed by Hoyle Puzzle Games 2003, continuing the annual release pattern that characterized Sierra's Hoyle line during this period[^ref-5][^ref-6].
+In specially marked versions, Placer Racer and Mahjong Tiles were also supplied as bonus games for Palm OS and Windows CE handhelds[^ref-26]. The next edition, Hoyle Puzzle Games 2004, was released in September 2003[^ref-29].
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-1]
-> **Designer:** Unknown
+> **Designer:** No designer credited; Project Lead Eric Fleming, Senior Producer Karen Thomas[^ref-27]
 > **Publisher:** Vivendi Universal Games[^ref-2]
 > **Engine:** Unknown
 > **Platforms:** IBM PC, Macintosh[^ref-2]
@@ -43,89 +42,84 @@ Released simultaneously for IBM PC and Macintosh platforms via CD-ROM, Hoyle Puz
 
 ### Interface and Controls
 
-Hoyle Puzzle Games 2002 employed a mouse-driven point-and-click interface typical of casual puzzle games of the era[^ref-1]. Players navigated through menus to select from the fifteen available games, each with its own distinct control scheme appropriate to its puzzle type. The Facemaker Tool provided an additional interface layer where players could design custom characters with unique appearances to represent themselves during gameplay sessions[^ref-1][^ref-8].
+From the main screen, players picked a game by clicking its icon or by choosing it from the Go To menu. Each game opened with a "Getting Started" screen explaining the basics and letting players change players and settings, and fuller instructions were in the in-game help[^ref-27]. Players could save games and continue them in a later session[^ref-27].
 
 ### Structure and Progression
 
-The collection operated as a standalone compilation where players could freely access any of the included games without needing to complete others first[^ref-8]. Progress was tracked through individual high-score lists for each game, providing motivation for repeated play and skill improvement[^ref-1]. The adjustable skill levels allowed players to scale difficulty according to their preferences and abilities[^ref-1][^ref-8].
+Every game can be played alone, and several (including Hangman, Maze Racer and Placer Racer) also let two people compete on the same computer[^ref-27]. GameSpot noted that, unlike Hoyle Board Games or Hoyle Card Games, Puzzle Games had none of the series' usual computer opponents, and most of its games were best played alone[^ref-20].
 
 ### Puzzles and Mechanics
 
-The fifteen games included in the collection represented diverse puzzle categories[^ref-4]:
+The manual describes the 15 games as follows[^ref-27]:
 
 **Word Games:**
-- **Anagrams** – Word unscrambling challenges
-- **Crosswords** – Featuring twelve hundred Dell Magazine crossword puzzles[^ref-4]
-- **Hangman** – Classic word-guessing gameplay
+- **Anagrams** – A six-letter word is scrambled. Players have 90 seconds to find it and shorter words made from its letters.
+- **Crosswords** – 1,200 Dell Magazine puzzles[^ref-26], labelled Easy, Medium or Hard, with a different puzzle for each day of the year. Players can solve alone or head to head.
+- **Hangman** – Three modes: Classic Hangman, Hangman Challenge and two-player Head to Head Hangman.
 
-**Tile-Based Puzzles:**
-- **Gravity Tiles** – Physics-based tile manipulation
-- **Mahjong Tiles** – Traditional tile-matching solitaire
-- **Slide Tiles** – Sliding puzzle challenges
-- **Edge Tiles** – Edge-matching tile puzzles
-- **Memory Tiles** – Concentration-style matching game
+**Tile Games** (five games played with mahjong tiles):
+- **Mahjong Tiles** – Match exposed tiles in pairs on preset layouts, or on custom layouts built with the Layout Maker.
+- **Edge Tiles** – Match free tiles on opposite edges of a rectangular grid.
+- **Gravity Tiles** – Remove groups of two or more matching tiles. The tiles above them then fall into the gap.
+- **Slide Tiles** – Slide tiles across the board until they touch a matching tile.
+- **Memory Tiles** – A concentration-style game with tiles dealt face down.
 
-**Action Puzzles:**
-- **Maze Racer** – Maze navigation with time pressure
-- **Maze Raider** – Exploration-focused maze gameplay
-- **Placer Racer** – Tile placement racing game
-- **Star Collector** – Collection-based puzzle action
-- **Time Breaker** – Time-limited puzzle challenges
-- **Solitaire Arcade** – Action-oriented card gameplay
-
-**Bonus Game:**
-- **The Incredible Machine: Even More Contraptions** – Complete Rube Goldberg-style physics puzzle game originally developed by Jeff Tunnell Productions[^ref-2][^ref-4]
-
-Word searches were highlighted as a major feature, with the collection offering thousands of puzzles that players could save and print for offline enjoyment[^ref-1][^ref-8].
+**Arcade and Strategy Games:**
+- **Maze Racer** – Escape a maze before the goal time runs out, or race another player to the exit.
+- **Maze Raider** – Collect each maze's goal items while avoiding monsters. It has Greek and Haunted House themes.
+- **Placer Racer** – Fire balls at a ceiling of coloured balls. Three or more of the same colour that touch disappear.
+- **Star Collector** – Place pieces from a rack onto a grid, matching by picture or colour, to collect stars.
+- **Time Breaker** – A block-breaking arcade game set across four ages: Primitive, Egyptian, Medieval and Future.
+- **Solitaire Arcade** – Five timed solitaire games: 3 Towers, Best 21, Fast 21, Pick 2 and Sum 11.
+- **[[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]]** – The Professor's Rube Goldberg-style contraption puzzles, included as a complete game[^ref-20][^ref-22].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Hoyle Puzzle Games 2002 received limited but identifiable coverage from gaming publications. **GameSpot** was the only major outlet to publish a full review, scoring the compilation **6.5/10** and characterizing it as a competent but unspectacular single-player puzzle collection that was held back by uneven game-to-game polish[^ref-20]. The Metacritic entry compiled no aggregate score because the broader critical reception was sparse — typical for budget-priced casual game compilations during this era, which often flew under the radar of mainstream gaming press focused on high-profile releases[^ref-1].
+Gord Goble reviewed the game for **GameSpot** on October 24, 2002, and scored it **7/10**. He called it "an inconsistent but generally enjoyable collection of word, strategy, and twitch-game conundrums designed primarily for those who enjoy single-player puzzle solving"[^ref-20]. He singled out the complete *Incredible Machine: Even More Contraptions* as "one of the most intriguing and welcome items in the package." He found Placer Racer "surprisingly addictive" but dismissed Maze Racer and Maze Raider as "forgettable timed maze challenges"[^ref-20].
+
+His main complaint was that "many of its games have already been seen elsewhere". Solitaire was in Hoyle Card Games, the tile games were in Hoyle Board Games, and *Even More Contraptions* was still on retail shelves. He also thought most of the games had "a somewhat dated 2D appearance"[^ref-20]. He saw little point in Facemaker in a game with no computer players to tell yourself apart from, but concluded that puzzle fans who hadn't played most of these games before would find it worthwhile[^ref-20].
 
 ### Modern Assessment
 
-The game has received minimal modern retrospective coverage, reflecting the general lack of critical attention paid to casual puzzle compilations from this period[^ref-1][^ref-25]. User-side scoring on GameSpot and surrounding databases hovers in the mid-tier casual-compilation range, and the title has not been subject to a significant reappraisal in the years since release[^ref-25].
+Metacritic lists no critic reviews and no user score for the game[^ref-1].
 
 **Aggregate Scores:**
-- **GameSpot (Critic):** 6.5/10 — "Fair"[^ref-20]
-- **Metacritic:** No aggregate score (insufficient critic reviews)[^ref-1]
-- **GameSpot (User):** ~7.0/10 mid-range casual-compilation tier[^ref-25]
-- **GameFAQs:** Database entry; no aggregated user rating recorded[^ref-8]
+- **GameSpot (Critic):** 7/10[^ref-20]
+- **Metacritic:** No critic reviews listed[^ref-1]
 
 ## Development
 
 ### Origins
 
-Hoyle Puzzle Games 2002 emerged from Sierra's long-standing Hoyle series, which began in 1989 with Hoyle's Official Book of Games[^ref-5][^ref-6][^ref-21][^ref-23][^ref-24]. The series had evolved from card and board game simulations into various specialized collections, with puzzle-focused compilations representing a natural expansion of the brand. Sierra developed the title internally, continuing their pattern of producing annual Hoyle releases to maintain the brand's presence in the casual gaming market[^ref-1][^ref-4].
+Hoyle Puzzle Games came out of Sierra's Hoyle series, which began in 1989 with Hoyle's Official Book of Games[^ref-5][^ref-6]. GameSpot noted that it was released alongside three other new Hoyle titles. It differed from them in its focus on solo play, its "heftier system requirements" and its leaning toward "virtual pastimes rather than adaptations of the classic card and tabletop games"[^ref-20].
 
 ### Production
 
-The development team leveraged existing assets from previous Hoyle releases to create the compilation[^ref-2]. The inclusion of The Incredible Machine: Even More Contraptions as a bonus game demonstrated Sierra's strategy of repurposing successful titles from their catalog to add value to compilation products[^ref-2][^ref-4]. The game was designed for both IBM PC and Macintosh platforms, ensuring broad compatibility with home computers of the era[^ref-2].
+The game was developed by Sierra Entertainment[^ref-1][^ref-19]. The manual credits Executive Producer Stephen H. Van Horn, Senior Producer Karen Thomas and Associate Producer Cara Ely. It also credits Eric Fleming as Senior Software Engineer and Project Lead, Rabih AbouJaoudé as Art Director, and Mike Caviezel as composer and sound engineer[^ref-27]. *The Incredible Machine: Even More Contraptions* had been released as a standalone product about a year earlier[^ref-20].
 
-### Technical Achievements
+### Technical Notes
 
-Hoyle Puzzle Games 2002 packaged 15 distinct puzzle engines across three genre lanes — word puzzles (Anagrams, Crosswords, Hangman), tile-based mechanics (Mahjong Tiles, Gravity Tiles, Slide Tiles, Edge Tiles, Memory Tiles), and real-time action-puzzle hybrids (Maze Racer, Maze Raider, Placer Racer, Star Collector, Time Breaker, Solitaire Arcade) — under a unified shared interface, then bundled the complete *Incredible Machine: Even More Contraptions* as a full bonus title (not a demo), an unusual value proposition that effectively turned a budget-priced casual compilation into a 16-game release[^ref-2][^ref-4][^ref-22]. The crossword subsystem licensed 1,200 official **Dell Magazine** crossword puzzles, embedding a content pipeline most casual puzzle products did not bother sourcing[^ref-4]. The release shipped as a hybrid PC/Mac product on a single CD-ROM with handheld extensions: Placer Racer and Mahjong Tiles were ported in-package to Palm OS and Windows CE PDAs, a cross-platform engineering effort that predated comparable smartphone ports by several years[^ref-2][^ref-4]. The Facemaker avatar layer carried player identity across the compilation and into adjacent Hoyle products on the same shelf, and per-game high-score persistence plus adjustable skill levels provided session-to-session progression typical of the casual market only at this price point[^ref-1][^ref-8].
+The CD-ROM supported 32-bit Windows systems and Macintosh[^ref-2][^ref-4]. The rulebook and strategy guide, Webster's New World College Dictionary and the 1,200 Dell crosswords were all advertised as part of the package. The Palm OS and Windows CE versions of Placer Racer and Mahjong Tiles were limited to specially marked versions[^ref-26].
 
 ### Technical Specifications
 
 **CD-ROM Version:**[^ref-2][^ref-4]
 - **Media:** CD-ROM
 - **Platforms:** Windows (32-bit Systems), Macintosh
-- **Additional Compatibility:** Palm OS, Windows CE PDA (for bonus handheld games)
+- **Additional Compatibility:** Palm OS, Windows CE handhelds (bonus games, specially marked versions only)[^ref-26]
 
 **Package Contents:**[^ref-2]
-- Game CD-ROM
-- Hoyle rulebook
+- Game CD-ROM and game manual
 - Print Artist Gold 2003 trailer
-- Hoyle Demo featuring Video Poker, Placer Racer, Anagrams, Backgammon, and Hearts
+- Hoyle Demo featuring Video Poker, Placer Racer, Anagrams, Backgammon and Hearts, plus the Facemaker tool
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Initial Release | September 7, 2002 | IBM PC / Macintosh | CD-ROM release in flip-top box with flap[^ref-2] |
+| Initial Release | September 7, 2002 | IBM PC / Macintosh | CD-ROM release in large flip-top box with flap[^ref-2] |
 
 **Box Variants:**[^ref-2]
 - PC/Mac CD-ROM (US) – Large flip-top box with flap
@@ -133,10 +127,10 @@ Hoyle Puzzle Games 2002 packaged 15 distinct puzzle engines across three genre l
 
 ### Audio Content
 
-The game featured a soundtrack that largely recycled music from previous Hoyle releases[^ref-2]. Documentation from fan preservation sites indicates the following music tracks were included:
+Sierra Chest's music listing has 11 tracks[^ref-28]:
 
-**Music Track Listing:**[^ref-2]
-- Intro (new recording)
+**Music Track Listing:**[^ref-28]
+- Intro (new)
 - Puzzle Games Theme
 - Anticipation
 - Cruisin'
@@ -146,53 +140,45 @@ The game featured a soundtrack that largely recycled music from previous Hoyle r
 - Rio
 - Snakey Jake
 - Placer Racer (from Hoyle Board Games 4, 2000)
-- Time Breaker (new recording)
+- Time Breaker (new)
 
-The Placer Racer Theme was directly taken from Hoyle Board Games 4 released in 2000, while other songs were recycled from Hoyle Classic Board Games (1997)[^ref-2]. New audio content included the Intro and Time Breaker songs[^ref-2].
+According to Sierra Chest, the Intro and Time Breaker songs were new. The Placer Racer Theme came from Hoyle Board Games 4 (2000), and the other songs are the same as in Hoyle Classic Board Games (1997)[^ref-28].
 
 ### Easter Eggs and Trivia
 
-- The Placer Racer Theme music originated from Hoyle Board Games 4 (2000)[^ref-2]
-- Most background music was recycled from Hoyle Classic Board Games (1997)[^ref-2]
-- The Incredible Machine: Even More Contraptions was included as a complete bonus game, originally released as a standalone title in 2001[^ref-2]
-- The Facemaker tool allowed players to design custom characters for in-game representation[^ref-1][^ref-4]
-- Handheld versions of Placer Racer and Mahjong Tiles were included for Palm OS and Windows CE devices[^ref-4]
+- The Placer Racer Theme music came from Hoyle Board Games 4 (2000)[^ref-28]
+- Most of the other background music is shared with Hoyle Classic Board Games (1997)[^ref-28]
+- *The Incredible Machine: Even More Contraptions* was included as a complete game. It had been released on its own about a year earlier[^ref-20][^ref-22]
+- GameSpot noted that the box also held a booklet describing eight classic parlor games that need no computer[^ref-20]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Sales figures for Hoyle Puzzle Games 2002 have not been publicly documented. The game was released as a budget-priced casual title, typical of Sierra's Hoyle line during this period[^ref-4]. Collector records indicate the release remains relatively uncommon, with Sierra Chest database showing only one member owning a copy of this particular release variant[^ref-2].
+No sales figures for Hoyle Puzzle Games have been published.
 
-### Collections
+### Sequel
 
-The game was released as a standalone compilation and has not been documented as appearing in subsequent collection packages[^ref-2]. The Hoyle series continued with Hoyle Puzzle Games 2003 the following year, suggesting the format was commercially viable enough to warrant annual iterations[^ref-5][^ref-6].
+The next edition, Hoyle Puzzle Games 2004, was released on September 2, 2003[^ref-29]. Wikipedia's list of Hoyle titles shows Hoyle Puzzle Games releases in 2002 and 2003[^ref-5].
 
 ### Related Publications
 
-- **Hoyle Rulebook:** Authoritative game rules reference included with retail package[^ref-4]
-- **Dell Magazine Crossword Puzzles:** 1,200 licensed crossword puzzles from Dell Magazine publications[^ref-4]
+- **Hoyle rulebook and strategy guide:** Included free with the game[^ref-26]
+- **Dell Magazine crossword puzzles:** 1,200 puzzles included in the Crosswords game[^ref-26]
+- **Webster's New World College Dictionary:** Included as a reference[^ref-26]
 
 ### Critical Perspective
 
-Hoyle Puzzle Games 2002 represents a transitional moment in Sierra's history, released during the company's ownership by Vivendi Universal Games[^ref-2]. While the Hoyle series had been a reliable performer for Sierra since 1989, the puzzle games spin-off lacked the critical attention and documentation afforded to Sierra's more prestigious adventure game titles[^ref-5][^ref-6].
-
-The game's approach of bundling diverse puzzle types with a complete bonus game (The Incredible Machine: Even More Contraptions) demonstrated the value-oriented strategy common to casual game compilations of the early 2000s[^ref-4]. User discussions from later Hoyle releases on Steam suggest that the graphics and interface from this era remained largely unchanged in subsequent releases, indicating that the 2002 version established a template that would persist for years[^ref-10].
-
-The preservation of audio assets from earlier Hoyle titles reflects both the practical economics of casual game development and the consistency that series fans expected[^ref-2]. While not notable, Hoyle Puzzle Games 2002 fulfilled its role as an accessible, family-friendly puzzle compilation that extended the Hoyle brand into new territory beyond its card and board game origins.
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+Hoyle Puzzle Games was published during Sierra's ownership by Vivendi Universal Games[^ref-2]. GameSpot's review saw it as a convenient package of mostly familiar games, saying it it "does gather them all into one neat, user-friendly package that's easy to access and operate"[^ref-20].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on major digital distribution platforms (Steam, GOG)[^ref-1]
-- Physical copies occasionally available through secondary markets and auction sites[^ref-4]
+- No digital re-release has been found.
+- Used copies have turned up with resellers and on auction sites[^ref-4][^ref-13]
 
 **Manuals & Extras**
-- Physical copies occasionally available through secondary markets[^ref-4] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-11][^ref-12][^ref-13][^ref-15][^ref-16][^ref-19]
+- [Hoyle Puzzle Games manual (PDF scan, Sierra Chest)](https://www.sierrachest.com/gfx/games/Hoyle_2002_PuzzleGames/box/02_manual.pdf)[^ref-27]
 
 
 ## See Also
@@ -255,22 +241,16 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 
 ## References
 
-[^ref-1]: [Metacritic – Hoyle Puzzle Games](https://www.metacritic.com/game/hoyle-puzzle-games/) – release date, developer, publisher, ESRB rating, game features, review status
-[^ref-2]: [Sierra Chest – Hoyle Puzzle Games Box Information](https://sierrachest.com/index.php?a=games&id=817&title=hoyle-puzzle-games&fld=box) – release dates, publisher, platforms, packaging details, UPC
-[^ref-4]: [WorthPoint – Hoyle Puzzle Games 2002 Manual PC CD](https://www.worthpoint.com/worthopedia/hoyle-puzzle-games-2002-manual-pc-cd-1787365305) – game count, publisher information
+[^ref-1]: [Metacritic – Hoyle Puzzle Games](https://www.metacritic.com/game/hoyle-puzzle-games/) – release date (Sep 7, 2002), developer, ESRB rating; no critic reviews or user score listed
+[^ref-2]: [Sierra Chest – Hoyle Puzzle Games Box Information](https://sierrachest.com/index.php?a=games&id=817&title=hoyle-puzzle-games&fld=box) – release date, publisher, platforms, packaging details, UPC
+[^ref-4]: [WorthPoint – Hoyle Puzzle Games 2002 Manual PC CD](https://www.worthpoint.com/worthopedia/hoyle-puzzle-games-2002-manual-pc-cd-1787365305) – sale listing quoting the retail description: 15 games, Dell crosswords, PDA bonus games, Windows (32-bit Systems)
 [^ref-5]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, release timeline
 [^ref-6]: [Alchetron – Hoyle's Official Book of Games](https://alchetron.com/Hoyle's-Official-Book-of-Games) – series overview, chronological listing
-[^ref-8]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – platform, release year, game description, features
-[^ref-10]: [Steam Community – Hoyle Official Card Games Collection](https://steamcommunity.com/app/397420) – user discussions, interface comparisons to 2002/2003 versions
-[^ref-11]: [Sierra Gamers](https://www.sierragamers.com/) – Hoyle series chronology and documentation
-[^ref-12]: [Internet Archive – Hoyle Puzzle Games 2002](https://archive.org/details/hoyle-puzzle-games-2002) – game preservation archive, package content documentation
-[^ref-13]: [NeverDieMedia – Hoyle Puzzle Games 2002](http://web.archive.org/web/20250212111049/https://www.neverdiemedia.com/products/hoyle-puzzle-games-2002) – retail distribution documentation
-[^ref-15]: [LaunchBox Games Database – Sierra Entertainment Games](https://gamesdb.launchbox-app.com/developers/games/2391-sierra-entertainment) – Sierra game catalog and chronology
-[^ref-16]: [MobyGames – Hoyle Puzzle Games](https://www.mobygames.com/game/hoyle-puzzle-games-2002/) – game catalog information
-[^ref-19]: [GameFAQs – Hoyle Puzzle Games](https://gamefaqs.gamespot.com/pc/915461-hoyle-puzzle-games-2002) – user reviews and ratings
-[^ref-20]: [GameSpot – Hoyle Puzzle Games Review](https://www.gamespot.com/reviews/hoyle-puzzle-games-review/1900-2895664/) – Contemporary professional review of the 2002 puzzle compilation, calling it an enjoyable single-player puzzle collection
-[^ref-21]: [Adventure Classic Gaming – Hoyle compilations retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) – historical context for Sierra's casual-games portfolio of which the Hoyle line was a central pillar
-[^ref-22]: [The Incredible Machine – Sierra catalog entry](https://www.sierrachest.com/index.php?a=games&id=817) — Sierra Chest details confirming TIM: Even More Contraptions inclusion as a bundled bonus title
-[^ref-23]: [IGDB – Hoyle Puzzle Games 2002](https://www.igdb.com/games/hoyle-puzzle-games-2002) — Internet Games Database listing with release year, genre tags, and developer attribution
-[^ref-24]: [Old Games Finder – Hoyle Puzzle Games 2002](https://www.oldgamesfinder.com/hoyle-puzzle-games-2002/) — abandonware preservation archive, file metadata, and game-content list
-[^ref-25]: [GameSpot user reviews – Hoyle Puzzle Games](https://www.gamespot.com/hoyle-puzzle-games/user-reviews/) — aggregate user-score data complementing the professional review
+[^ref-13]: [NeverDieMedia – Hoyle Puzzle Games 2002](http://web.archive.org/web/20250212111049/https://www.neverdiemedia.com/products/hoyle-puzzle-games-2002) – used-copy reseller listing (archived February 2025)
+[^ref-19]: [GameFAQs – Hoyle Puzzle Games (PC) Release Data](https://gamefaqs.gamespot.com/pc/562391-hoyle-puzzle-games/data) – US box title "Hoyle Puzzle Games", 09/07/02 release, developer, high-score lists and skill levels, Facemaker
+[^ref-20]: [GameSpot – Hoyle Puzzle Games Review](https://web.archive.org/web/20250814074833/https://www.gamespot.com/reviews/hoyle-puzzle-games-review/1900-2895664/) – Gord Goble, October 24, 2002; score 7: "an inconsistent but generally enjoyable collection" (archived)
+[^ref-22]: [Sierra Chest – Hoyle Puzzle Games (2002)](https://www.sierrachest.com/index.php?a=games&id=817) – first release 2002-09-07, publisher, groups; lists The Incredible Machine: Even More Contraptions as an included full release
+[^ref-26]: [Sierra – Hoyle Puzzle Games official page (archived December 2002)](https://web.archive.org/web/20021208081537/http://hoyle.sierra.com/puzzlegames.html) – 15 games, 1,200 Dell crosswords, rulebook and strategy guide, Webster's dictionary, PDA bonus games in specially marked versions
+[^ref-27]: [Hoyle Puzzle Games manual (scan, Sierra Chest)](https://www.sierrachest.com/gfx/games/Hoyle_2002_PuzzleGames/box/02_manual.pdf) – game rules for all 15 games, sign-in and settings, credits
+[^ref-28]: [Sierra Chest – Hoyle Puzzle Games (2002): Music](https://www.sierrachest.com/index.php?a=games&id=817&fld=music) – track listing; new Intro and Time Breaker songs, Placer Racer theme from Hoyle Board Games 4, others from Hoyle Classic Board Games
+[^ref-29]: [GameFAQs – Hoyle Puzzle Games 2004 (PC) Release Data](https://gamefaqs.gamespot.com/pc/918452-hoyle-puzzle-games-2004/data) – follow-up edition, US release 09/02/03
