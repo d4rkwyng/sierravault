@@ -1,29 +1,29 @@
 ---
 title: Hoyle Puzzle and Board Games 2008
-release_year: 2008
+release_year: 2007
 developer: Encore Software, Inc.
 designer: [Unknown]
 publisher: Encore Software, Inc.
 genre: Board Game
 platforms: [Windows, Mac]
 series: Hoyle
-engine: Proprietary (Windows)
+engine: Unknown
 protagonist: N/A
 sierra_lineage: Sierra Published
-last_updated: '2026-05-14'
+last_updated: '2026-10-13'
 description: Hoyle Puzzle and Board Games 2008 is a comprehensive compilation of classic
  puzzle and board games released by Encore Software for Windows and Macintosh...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Puzzle and Board Games 2008
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Hoyle Puzzle and Board Games 2008 is a comprehensive compilation of classic puzzle and board games released by [[Encore Software]] for Windows and Macintosh platforms in late 2007[^ref-1][^ref-2][^ref-17][^ref-18][^ref-19][^ref-21]. Drawing on the long-standing Hoyle brand, which had been associated with authoritative gaming rules since the 18th century and Sierra On-Line's gaming compilations since the late 1980s, this collection brought together over 30 games in a single package[^ref-3][^ref-4]. The compilation was marketed under the tagline "HOYLE - The official name in gaming" and boasted over 60 classic games plus a bonus of 105 puzzle adventures[^ref-2].
+Hoyle Puzzle and Board Games 2008 is a compilation of classic puzzle, word and board games released by [[Encore Software]] for Windows and Macintosh in October 2007[^ref-1][^ref-2][^ref-22]. Encore's own product page called it "21 classic and new challenging favorites", including Hangman, Mahjongg, Anagrams, Sudoku and "over 1200 different Crosswords"[^ref-22], while the retail description quoted on GameFAQs advertised "60+ classic games! Bonus 105 puzzle adventures"[^ref-2]. MobyGames' game-by-game listing names more than thirty games[^ref-4]. The tagline was "HOYLE – The Official Name in Gaming"[^ref-2][^ref-22].
 
-The game was designed as a casual-friendly collection that brought together a wide range of classic puzzles, word challenges, and board-game favorites in one package[^ref-5]. It featured the proprietary Hoyle Bucks earning system, where players could accumulate virtual currency by playing games and spend it on customization options such as new card decks, tile sets, music tracks, and other decorations[^ref-4][^ref-6]. The collection included popular titles such as Chess, Hangman, Crosswords, Mahjongg Tiles, Backgammon, Sudoku, and many more, with interactive computer opponents offering multiple skill levels[^ref-1][^ref-6].
+The collection uses the Hoyle Bucks reward system: players automatically earn Hoyle Bucks as they play ("the more you play the more you earn") and spend them on new backgrounds, music tracks, card decks and tile sets[^ref-4][^ref-6][^ref-22]. It also includes a Face Creator for building a player character and interactive computer opponents with multiple skill levels[^ref-6][^ref-22]. The Windows and Mac versions shipped together on a combined PC/Mac DVD retailing for $19.99; a contemporary Inside Mac Games forum post greeted it as the first time Hoyle games had been released with Mac OS X compatibility[^ref-22][^ref-24].
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]], Inc.[^ref-1]
@@ -40,183 +40,107 @@ The game was designed as a casual-friendly collection that brought together a wi
 
 ### Included Games
 
-Hoyle Puzzle and Board Games 2008 contains an extensive library of games spanning multiple genres. The collection features 33 core games that are linked to the Hoyle Bucks reward system[^ref-4]. Notable inclusions are:
+MobyGames lists the collection's games by category[^ref-4]:
 
-- **Puzzle Games:** Mahjongg (with 81 layouts plus 19 additional layouts available through mods), Sudoku (incorporated from Big Bang Brain Games), and various tile-matching puzzles[^ref-4][^ref-7]
-- **Board Games:** Chess, Backgammon, and strategy classics from Big Bang Board Games[^ref-4]
-- **Word Games:** Crosswords (200 puzzles divided into 70 easy, 70 normal, and 60 hard difficulties), Word Searches (500 word lists across 20 categories)[^ref-7]
-- **Bonus Content:** The Incredible Machine: Even More Contraptions was included as a standalone bonus game not linked to the Hoyle Bucks system[^ref-4]
+- **Board Games:** Backgammon, Battling Ships, Bump 'em, Checkers, Chinese Checkers, Chess, Dominoes, Parchisi, Reversi, Rummy Squares, Yacht and Zilch[^ref-4]
+- **Tile Games:** Edge Tiles, Gravity Tiles, Mahjong Tiles (with a layout maker), Memory Tiles and Slide Tiles[^ref-4]
+- **Puzzle and Arcade Games:** Master Match, Maze Racer, Maze Raider, Panic, Placer Racer, Rays, Star Collector, Time Breaker and a Solitaire Arcade set[^ref-4]
+- **Word Games:** Anagrams, Crosswords, Hangman, Word Searches, Word Yacht and Wordox[^ref-4]
+- **Bonus Content:** The Incredible Machine: Even More Contraptions (listed as "Crazy Contraptions"), Sudoku from Big Bang Brain Games, and Big Bang Board Games, none of which are linked to the Hoyle Bucks system[^ref-4]
 
-The game also includes the official HOYLE rulebook and strategy guide, providing players with authoritative rules for all included games[^ref-2].
+The retail description also promised "the official HOYLE rulebook and strategy guide"[^ref-2].
 
 ### Hoyle Bucks System
 
-A defining feature of this compilation is the Hoyle Bucks earning system[^ref-6]. Players automatically earn Hoyle Bucks while playing, with earnings increasing based on time spent gaming[^ref-6]. These virtual credits can be spent on customization options including:
-
-- New backgrounds and themes
-- Additional music tracks
-- Card deck designs
-- Tile sets for Mahjongg and other games[^ref-4][^ref-6]
-
-The music selection available for purchase includes 5 songs from Arcanum: Of Steamworks and Magick Obscura (labeled as "String Quartet selection") and 4 music themes from Casino Empire 2002 (labeled as "Swing Town musical selection")[^ref-7].
+Hoyle Bucks are earned automatically while playing; the more a player plays, the more they earn[^ref-6][^ref-22]. MobyGames describes them as spendable on "new card decks, tile sets, music, and other decorations"[^ref-4], and Encore's product page mentions new backgrounds and music tracks[^ref-22].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The game offers perspectives and control schemes appropriate to each individual game type, utilizing both first-person and top-down viewpoints depending on the game being played[^ref-4]. Input is handled through keyboard and mouse, with the interface designed for accessibility across all age groups[^ref-4].
+MobyGames lists both first-person and top-down perspectives depending on the game, with keyboard and mouse input[^ref-4].
 
 ### Multiplayer Features
 
-The compilation supports multiple multiplayer configurations[^ref-4]:
+MobyGames records the following multiplayer options[^ref-4]:
 
-- **Offline Multiplayer:** 1-6 players for local gameplay sessions
-- **Online Multiplayer:** 2 players via Play-by-Email (PBeM) functionality
-- **Single Player:** All games can be played against computer opponents with adjustable skill levels[^ref-6]
-
-No internet connection is required for single-player gameplay, making it accessible for offline entertainment[^ref-3].
+- **Offline Multiplayer:** 1-6 players taking turns on the same computer, with bots filling empty seats in most games
+- **Online Multiplayer:** 2 players via Play-by-Email (PBeM)
+- **Single Player:** Games can be played against computer opponents with multiple skill levels[^ref-6]
 
 ### Game Modes and Pacing
 
-The collection features both real-time and turn-based gameplay depending on the specific game selected[^ref-4]. Puzzle games like Mahjongg and Sudoku operate at the player's own pace, while board games utilize traditional turn-based mechanics[^ref-1].
+MobyGames lists both real-time and turn-based pacing, depending on the game selected[^ref-4].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Hoyle Puzzle and Board Games 2008 received limited coverage from mainstream gaming publications. According to Metacritic, no critic reviews were available at the time of release, and the Metascore remained listed as "tbd" (to be determined)[^ref-1]. Similarly, user reviews on the platform remained absent[^ref-1].
-
-GameFAQs users rated the game as "Good" based on user submissions, though with limited participation (1 rating recorded)[^ref-2]. The game received an ESRB rating of "E for Everyone," indicating family-friendly content appropriate for all ages[^ref-1][^ref-4].
-
-### Modern Assessment
-
-In retrospective evaluations, the game has maintained modest but positive reception. MyAbandonware users rated the collection 3.5 out of 5 based on 4 votes, describing it as "an above-average board / party game title in its time"[^ref-8]. Software Informer recorded 16 user votes over a period spanning 3-7 years, indicating sustained if modest interest in the title[^ref-5].
-
-Contemporary assessments note that "Although not cutting-edge by today's standards, the graphics are charming and easy on the eyes" and the collection "provides a refreshing change of pace" from modern gaming[^ref-3].
+Hoyle Puzzle and Board Games 2008 received no critic reviews on Metacritic, where the Metascore is listed as "tbd" and no user reviews have been posted[^ref-1]. GameFAQs shows a "Good" user rating from a single rating[^ref-2]. The game carries an ESRB "E for Everyone" rating[^ref-1][^ref-4].
 
 **Aggregate Scores:**
-- **MyAbandonware:** 3.5/5 (4 votes)[^ref-8]
+- **Metacritic:** tbd (no critic reviews)[^ref-1]
 - **GameFAQs:** "Good" (1 rating)[^ref-2]
-- **Software Informer:** 16 votes recorded[^ref-5]
+- **Software Informer:** 16 user votes recorded[^ref-5]
 
 ## Development
 
 ### Origins
 
-The Hoyle brand has a long and distinguished history in gaming, dating back to Edmond Hoyle's authoritative rulebooks on card and board games in the 18th century[^ref-3]. Sierra On-Line first adapted the Hoyle name for digital gaming in 1989, creating a series of card and board game compilations that became synonymous with official rules and quality gameplay[^ref-3]. By 2007, the brand had transitioned to Encore Software, who continued developing and publishing Hoyle titles[^ref-1][^ref-4].
+By 2007 the Hoyle name was licensed from the U.S. Playing Card Company by Encore, Inc., a Navarre Corporation company, which marketed its games as following "the official rules from HOYLE®, the authority for over 200 years"[^ref-22]. A contemporary Inside Mac Games forum post noted that the last Mac OS 9-compatible Hoyle games had been released by Sierra in 2002, and that Encore's intervening updates had been PC-only[^ref-24].
 
 ### Production
 
-The development of Hoyle Puzzle and Board Games 2008 involved multiple studios. MobyGames credits Encore Software, Inc. as the primary developer, with additional contributions from Freeverse, Inc. and Dynamix, Inc.[^ref-4]. Dynamix had been a subsidiary of Sierra On-Line before its closure in 2001, indicating some continuity with Sierra's legacy[^ref-4].
-
-The compilation was designed to rediscover strategy and puzzle-solving, offering accessible gameplay for casual gamers while maintaining depth for more dedicated players[^ref-3]. The development drew on existing assets from other game compilations, including elements from Big Bang Brain Games and Big Bang Board Games[^ref-4].
-
-### Technical Achievements
-
-Hoyle Puzzle and Board Games 2008 represents a **three-studio collaboration** — Encore Software (primary), Freeverse, and Dynamix — an unusually distributed production model for a casual compilation that points to the post-Sierra licensing era's multi-vendor sourcing pattern[^ref-4]. The release also serves as a notable Dynamix-era continuity artifact: Dynamix had been a Sierra subsidiary before its 2001 closure, and its post-shutdown contributions here demonstrate continued reuse of Dynamix-developed game-engine modules in the Encore-era Hoyle line[^ref-4]. The product **integrated assets from Big Bang Brain Games and Big Bang Board Games** into the Hoyle compilation framework, reducing development cost via deliberate asset-reuse[^ref-4]. Modern Windows compatibility extends through Windows 7/8/10/11, indicating long-tail engineering polish that allowed the title to remain functional across multiple OS generations[^ref-3].
+MobyGames credits Encore Software, Inc., Freeverse, Inc. and Dynamix, Inc. as developers[^ref-4]. The compilation also bundles content from Big Bang Brain Games and Big Bang Board Games, and The Incredible Machine: Even More Contraptions[^ref-4].
 
 ### Technical Specifications
 
-**System Requirements (Windows):**[^ref-3]
-- **Operating System:** Windows 7/8/10/11 (later compatibility confirmed)
-- **Processor:** 1.0 GHz or higher
-- **Memory:** 512 MB RAM
-- **Graphics:** DirectX 9.0c compatible video card with 64MB VRAM
-- **DirectX:** Version 9.0c
-- **Storage:** 800 MB available space
+**Minimum System Requirements (Encore product page, October 2007):**[^ref-22]
+- **Windows:** Windows 2000 SP4 / XP (Home & Pro) SP2 / Vista; Pentium III 450 MHz (800 MHz for Vista); 128 MB RAM (512 MB for Vista); DVD-ROM drive; 1 GB hard disk space; 640×480 16-bit color display
+- **Macintosh:** Mac OS X 10.4.10; G3, G4, G5 or Intel Core Duo processor, 600 MHz or higher; 256 MB RAM; DVD-ROM drive; 32 MB VRAM (ATI Rage cards not supported); 1 GB hard drive space
+- Administrator privileges are required to install on Windows 2000, XP and Vista
 
-**Distribution:**[^ref-4][^ref-8]
-- **Media:** DVD-ROM
-- **Digital Size:** 706 MB (ISO version)
-- **Hybrid Version:** 1.3 GB (Win/Mac combined ISO)
-- **Copy Protection:** SecuROM
-
-The game supported keyboard and mouse input, with standard DirectX 9.0c audio compatibility[^ref-3][^ref-4].
-
-### Cut Content
-
-Analysis of the game files has revealed several games that have object files present but were not included in the final release[^ref-7]:
-
-- **Bump 'Em:** Object files present but game not listed in interface
-- **Hangman:** Object files present but game not accessible
-- **Maze Racer:** Asset files discovered but gameplay unavailable
-- **Rays:** Object files remain in data but unplayable
-- **Star Collector:** Files present without corresponding game listing
-- **Old Maid and Solitaire:** Object files present but intentionally moved to separate card games collection
-
-Additionally, promotional materials claim over 1,000 crossword puzzles, but only 200 crosswords are actually present in the game (70 easy, 70 normal, 60 hard)[^ref-7]. Similarly, Kakuro Crosswords were claimed to be included, but the assets are not present in the final release[^ref-7].
+**Distribution:**
+- **Media:** Combined PC/Mac DVD-ROM[^ref-4][^ref-24]
+- **Trial:** A 60-minute full-featured trial download (688 MB) was offered from Encore's site[^ref-22]
+- **Mac digital download:** MacGameStore.com, from April 7, 2008, US$19.95, requiring Mac OS X 10.4.11 or later[^ref-25]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | October 1, 2007 | Windows/Mac | Initial retail release[^ref-1][^ref-2] |
-| 1.0 | September 25, 2008 | Windows | Secondary release date reported[^ref-4] |
-| 2008+ | 2015 | Windows 10 | Confirmed compatible with minor issues[^ref-9] |
+| Retail | October 1, 2007 | Windows/Mac | Initial retail release on a combined DVD[^ref-1][^ref-2][^ref-24] |
+| Digital | April 7, 2008 | Mac | MacGameStore.com download release[^ref-25] |
+| — | July 31, 2015 | Windows 10 | Encore lists "2008 and up" as tested on Windows 10[^ref-9] |
 
-The game's release date shows some discrepancy across sources. Metacritic and GameFAQs list October 1, 2007[^ref-1][^ref-2], while MobyGames records September 25, 2008[^ref-4]. The "2008" in the title likely refers to the intended market year rather than the precise release date.
+The release date differs across sources. Metacritic and GameFAQs list October 1, 2007[^ref-1][^ref-2], and Encore's product page was live by mid-October 2007[^ref-22], while MobyGames records September 25, 2008[^ref-4]; the 2007 sources are consistent with each other and with the October 2007 retail sighting[^ref-24].
 
 ### Technical Issues
 
-Several technical issues have been documented[^ref-2][^ref-7]:
+A GameFAQs user asked about wrong score keeping in Dominoes[^ref-2].
 
-- **Crossword Controls:** The spacebar and TAB key functions do not work as described in the documentation[^ref-7]
-- **Triple Yacht:** A checkbox workaround is needed; players must use the game menu instead of standard interface elements[^ref-7]
-- **Dominoes:** GameFAQs users reported incorrect score keeping in the Dominoes game[^ref-2]
-
-In July 2015, Encore's official support forums confirmed that "Hoyle Puzzle and Board Games (2008 and up) have been tested to run without difficulty or very minor issues under Windows 10"[^ref-9].
-
-### Easter Eggs and Trivia
-
-The collection includes several interesting hidden elements and connections to other games[^ref-7]:
-
-- **Arcanum Music:** The "String Quartet" music selection contains 5 songs recycled from Arcanum: Of Steamworks and Magick Obscura
-- **Casino Empire Music:** The "Swing Town" musical selection features 4 themes from Casino Empire 2002
-- **Reduced Game Count:** The collection originally had over 1,600 games available, but this was reduced to over 800 due to security and financial reasons[^ref-7]
-- **Mahjong Layouts:** Beyond the 81 standard layouts, 19 additional layouts are available through publicly accessible mods[^ref-7]
+In a July 31, 2015 post on Encore's support forum, staff member JasonC listed "Hoyle Puzzle and Board Games (2008 and up)" among the Hoyle games "tested to run without difficulty or very minor issues under Windows 10"[^ref-9].
 
 ## Legacy
 
-### Commercial Impact
-
-While specific sales figures are not available from traditional retail tracking, the game has shown sustained interest in digital distribution. FileCR records 281 total downloads of the title as of recent tracking[^ref-3], and the game maintains presence across multiple abandonware and download sites, indicating continued demand for classic board game compilations.
-
 ### Scientific Use
 
-In a notable application outside gaming, Hoyle Puzzle and Board Games 2008 was used in medical research as a control condition. A study by Charvet and colleagues on cognitive rehabilitation for multiple sclerosis patients utilized the software, with researchers noting that "The active control group used the software Hoyle Puzzle and Board Games (2008 version) to conduct a series of sham activities"[^ref-10]. This demonstrates the game's recognition as a legitimate cognitive engagement tool even in clinical settings.
+The 2008 edition was used as the active control condition in a randomized controlled trial of home-based cognitive telerehabilitation for multiple sclerosis by Leigh E. Charvet and colleagues, published in PLoS ONE in 2017; the authors wrote: "These games served as an active placebo control, designed to account for nonspecific treatment effects including interactions with research personnel, and computer-based game-playing"[^ref-23]. A later review of home-based cognitive remediation in MS summarized the same trial: "The active control group used the software Hoyle Puzzle and Board Games (2008 version) to conduct a series of sham activities"[^ref-10].
 
 ### Windows 10 Compatibility
 
-Encore Software maintained support for the title through operating system transitions. In an official announcement posted July 31, 2015, Jason Carver from Encore's Sales Department and Customer Service confirmed: "The Following Hoyle Games have been tested to run without difficulty or very minor issues under Windows 10: Hoyle Puzzle and Board Games (2008 and up)"[^ref-9].
+Encore supported the title into the Windows 10 era: its July 31, 2015 forum notice lists Hoyle Puzzle and Board Games (2008 and up) as tested under Windows 10[^ref-9].
 
 ### Related Publications
 
-- **Built-in HOYLE Rulebook:** Official game rules and strategy guide included digitally within the software[^ref-2]
-- **Game Manual:** PDF documentation available (144 KB for related Hoyle products)[^ref-11]
-
-### Critical Perspective
-
-Hoyle Puzzle and Board Games 2008 represents an important transitional product in the Hoyle gaming lineage, bridging the gap between Sierra On-Line's classic compilations and the modern digital distribution era[^ref-3][^ref-4]. While the game received minimal coverage from mainstream gaming press—a common fate for casual compilations of the era—it served its intended audience of family gamers and puzzle enthusiasts effectively.
-
-The compilation exemplifies the casual gaming market of the mid-2000s, when collections of classic games competed with emerging browser-based and mobile gaming options. Its inclusion of The Incredible Machine: Even More Contraptions demonstrates an attempt to add value through legacy content, connecting the release to Sierra's celebrated puzzle gaming heritage[^ref-4].
-
-The brand's longevity—spanning from Edmond Hoyle's 18th-century rulebooks through Sierra's digital adaptations to Encore's modern compilations—speaks to the enduring appeal of authoritative, well-designed board and card game experiences in digital form[^ref-3].
+- **Software/Game Manual:** Each box contained a DVD and a printed manual, with the Mac registration key on the manual's back cover[^ref-24]
+- **Built-in HOYLE Rulebook:** Advertised as included with the software[^ref-2]
 
 ## Purchase
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
+- This 2007 edition is not sold digitally today; Encore's later collection, Encore Classic Puzzle & Board Games (2020), is sold on [Steam](https://store.steampowered.com/app/1217380/)[^ref-26]
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Downloads
-
-**Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/hoyle-puzzle-and-board-games-2008-m77) - Windows and Mac versions available[^ref-8]
-
-**Documentation**
-- Steam Community Guide for related Encore compilation[^ref-7]
-
-The game is documented in various gaming databases and preservation archives.[^ref-13][^ref-14][^ref-15]
 
 ## See Also
 
@@ -279,20 +203,14 @@ The game is documented in various gaming databases and preservation archives.[^r
 ## References
 
 [^ref-1]: [Metacritic – Hoyle Puzzle and Board Games 2008](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2008/) – release date, developer, publisher, platform, ESRB rating, review status
-[^ref-2]: [GameFAQs – Hoyle Puzzle and Board Games 2008](https://gamefaqs.gamespot.com/pc/943486-hoyle-puzzle-and-board-games-2008) – release date, developer, publisher, user ratings, game description, Dominoes bug
-[^ref-3]: FileCR – Hoyle Puzzle and Board Games 2008 (link removed: warez download site) – system requirements, download stats, Hoyle brand history, game description
-[^ref-4]: [MobyGames – Hoyle Puzzle & Board Games](https://www.mobygames.com/game/54289/hoyle-puzzle-board-games/) – developers, release dates, technical specs, multiplayer features, included games, Hoyle Bucks system, ESRB rating
-[^ref-5]: [Software Informer – Hoyle Puzzle and Board Games 2008](https://hoyle-puzzle-and-board-games-2008.software.informer.com/votes/) – game description, user vote count
+[^ref-2]: [GameFAQs – Hoyle Puzzle and Board Games 2008](https://gamefaqs.gamespot.com/pc/943486-hoyle-puzzle-and-board-games-2008) – release date, developer, publisher, user ratings, game description, Dominoes question
+[^ref-4]: [MobyGames – Hoyle Puzzle & Board Games](https://www.mobygames.com/game/54289/hoyle-puzzle-board-games/) – developers, release dates, specs, multiplayer features, included games, Hoyle Bucks system, ESRB rating
+[^ref-5]: [Software Informer – Hoyle Puzzle and Board Games 2008](https://hoyle-puzzle-and-board-games-2008.software.informer.com/votes/) – user vote count
 [^ref-6]: [Kotaku – Hoyle Puzzle and Board Games 2008](https://kotaku.com/games/hoyle-puzzle-and-board-games-2008) – game features, Hoyle Bucks system, computer opponents
-[^ref-7]: [Steam Community Guide – Encore Classic Puzzle & Board Games](https://steamcommunity.com/sharedfiles/filedetails/?id=3416472072) – game content details, cut content, bugs, trivia, music sources
-[^ref-8]: [MyAbandonware – Hoyle Puzzle and Board Games 2008](https://www.myabandonware.com/game/hoyle-puzzle-and-board-games-2008-m77) – user rating, file sizes, SecuROM protection, platform support
-[^ref-9]: [Encore Forums – Windows 10 Compatibility](http://forums.encoreusa.com/tm.asp?m=50366) – Windows 10 testing confirmation, official support statement
-[^ref-10]: [PMC/NIH – Multiple Sclerosis Cognitive Rehabilitation Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11012426/) – scientific use as control condition
-[^ref-11]: [MyAbandonware – Hoyle Solitaire](https://www.myabandonware.com/game/hoyle-solitaire-3l6) – related Hoyle product documentation, manual sizes: [Giant Bomb - Hoyle Puzzle and Board Games](https://www.giantbomb.com/hoyle-puzzle-and-board-games/) - game wiki entry
-[^ref-13]: [IGDB - Hoyle Puzzle and Board Games](https://www.igdb.com/games/hoyle-puzzle-and-board-games) - Internet Games Database entry
-[^ref-14]: [MobyGames - Hoyle Puzzle and Board Games](https://www.mobygames.com/game/hoyle-puzzle-and-board-games/) - game database entry
-[^ref-15]: [GameSpot - Hoyle Puzzle and Board Games](https://www.gamespot.com/hoyle-puzzle-and-board-games/) - game database entry
-[^ref-17]: [LaunchBox Games Database – Hoyle Puzzle and Board Games 2008](https://gamesdb.launchbox-app.com/games/details/hoyle-puzzle-and-board-games-2008) — community-curated metadata, cover-art reference, platform listing
-[^ref-18]: [Freeverse Inc. company profile](https://www.mobygames.com/company/2076/freeverse-inc/) — collaborator studio history relevant to the 2008 Hoyle Puzzle and Board Games co-development
-[^ref-19]: [Adventure Classic Gaming – Encore-era Hoyle retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Encore's mid-2000s stewardship of the Hoyle line
-[^ref-21]: [Internet Archive – Hoyle Puzzle & Board Games 2008](https://archive.org/details/hoyle-puzzle-board-games-2008) — disc-image preservation archive
+[^ref-9]: [Encore Forums – Windows 10 Compatibility](http://forums.encoreusa.com/tm.asp?m=50366) – Windows 10 testing confirmation (JasonC, 7/31/2015)
+[^ref-10]: [PMC/NIH – A Review on the Feasibility and Efficacy of Home-Based Cognitive Remediation in People with Multiple Sclerosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11012426/) – review summarizing the Charvet trial's control condition
+[^ref-22]: [HoyleGaming.com – HOYLE® Puzzle & Board Games (2008) product page (Wayback, Oct 18, 2007)](http://web.archive.org/web/20071018005826/http://www.hoylegaming.com:80/product.asp?id=1431) – official description, game count, system requirements, trial, price, licensing
+[^ref-23]: [PLoS ONE – Charvet et al. (2017), Cognitive function in multiple sclerosis improves with telerehabilitation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177177) – Hoyle Puzzle and Board Games (2008 version) as active placebo control
+[^ref-24]: [Inside Mac Games Forum – Hoyle Games on Mac are Back!](https://www.insidemacgames.com/forum/thread-16374.html) – October 10, 2007 retail sighting, combined PC/Mac DVD, $19.99 retail, manual and Mac key
+[^ref-25]: [MacTech – Macgamestore releases Hoyle Puzzle & Board Games (Wayback)](http://web.archive.org/web/20191121064248/https://www.mactech.com/2008/04/07/macgamestore-releases-hoyle-puzzle-board-games/) – April 7, 2008 Mac digital release, price, requirements
+[^ref-26]: [Steam – Encore Classic Puzzle & Board Games](https://store.steampowered.com/app/1217380/) – successor collection currently on sale, published by Encore Software LLC
