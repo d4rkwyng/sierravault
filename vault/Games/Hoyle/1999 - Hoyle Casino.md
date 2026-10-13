@@ -1,6 +1,6 @@
 ---
 title: Hoyle Casino 1999
-release_year: 1999
+release_year: 1998
 developer: Sierra On-Line, Inc.
 designer: []
 publisher: Sierra Attractions
@@ -10,188 +10,115 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: Hoyle Casino 1999 (also known as Hoyle Casino 4) represents the fourth
-  installment in Sierra On-Line's popular casino simulation series, released in...
+last_updated: '2026-10-13'
+description: Hoyle Casino 99 (catalogued by Sierra Chest as Hoyle Casino 3) is Sierra
+  Attractions' 1998 virtual casino for Windows and Macintosh, with eight games of
+  chance and a Practice Mode that flags bad bets.
 tags: [1990s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 1999
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Hoyle Casino 1999 (also known as Hoyle Casino 4) represents the fourth installment in [[Sierra On-Line]]'s popular casino simulation series, released in September 1999 for both IBM PC and Macintosh platforms[^ref-1]. Building upon the established Hoyle brand—long recognized as the definitive name in gaming rules and strategy—this edition offered players an immersive virtual Las Vegas experience with over 350 game variations spanning poker, blackjack, slots, roulette, craps, and more[^ref-2]. The game featured new Vegas-style 3D casinos that allowed players to walk through the virtual gambling floor and choose from a variety of different gaming tables and machines[^ref-3].
+Hoyle Casino 99 is a virtual casino from [[Sierra On-Line]], published under the Sierra Attractions label for IBM PC and Macintosh. The Sierra Chest catalogues it as Hoyle Casino 3, with a first release date of October 1, 1998[^ref-22]. GameOver reviewed it under the title "Hoyle Casino 99" on October 20, 1998[^ref-4], and MacAddict reviewed the Macintosh version in its June 1999 issue[^ref-5]. Sierra Attractions was the sub-brand Sierra set up in 1998 for casual games such as poker[^ref-17], and the game belongs to the Hoyle Casino series, a spin-off of the *Hoyle's Official Book of Games* line that began in 1996[^ref-10].
 
-Anyone familiar with computer casino games at the time recognized that Hoyle ranked at the top of the genre, and this 1999 edition proudly continued that tradition with its classy presentation, immersive setting, and extensive selection of games[^ref-4]. The title distinguished itself from competitors through its Practice Mode, which unobtrusively monitored player decisions and alerted them to suboptimal bets, such as hitting on a hard 18 in blackjack[^ref-5]. This educational approach made the game appealing to both recreational players looking to improve their skills and gambling enthusiasts seeking realistic simulation[^ref-5].
+GameOver described the game as featuring "new 3d Vegas style casinos, sixty varieties of slots, blackjack ,poker, roulette, and craps," along with online help and "10 unique players"[^ref-4]. MacAddict counted eight games of chance (blackjack, craps, keno, poker, pai gow poker, roulette, slots and video poker) and noted that many of the "100 variations" the box advertised were "merely different betting levels or graphics"[^ref-5].
 
-The game was distributed as part of Sierra's expanding casual entertainment lineup under the Sierra Attractions label, and demos were included with numerous other Sierra releases throughout 1999 and 2000, including 3-D Ultra Pinball 5: Thrillride and Hoyle Card Games 4[^ref-1][^ref-18][^ref-19][^ref-20]. While the box claimed "100 variations" of games, some critics noted that many of these were merely different betting levels or graphical themes rather than fundamentally distinct games[^ref-5].
+What set the game apart, in MacAddict's view, was its Practice Mode, which "unobtrusively watches your play and alerts you to bad bets, such as hitting on a hard 18 in blackjack"[^ref-5]. The next edition, catalogued by the Sierra Chest as Hoyle Casino 4, followed on September 20, 1999[^ref-23].
 
 > [!info]- Game Info
-> **Developer:** [[Sierra On-Line]], Inc.[^ref-6]
-> **Designer:** Sierra On-Line internal team (no individual designer credit)[^ref-1][^ref-6]
-> **Publisher:** Sierra Attractions[^ref-5]
-> **Platforms:** Windows, Macintosh[^ref-1]
-> **Release Year:** 1999
+> **Developer:** [[Sierra On-Line]], Inc.[^ref-22]
+> **Designer:** Not credited in available sources
+> **Publisher:** Sierra Attractions[^ref-5][^ref-22]
+> **Platforms:** Windows, Macintosh[^ref-22]
+> **Release Year:** 1998 (first release October 1, 1998)[^ref-22]
 > **Series:** Hoyle Casino
-> **ESRB Rating:** Everyone[^ref-2]
 > **Sierra Lineage:** Sierra Attractions
 > **Engine:** Proprietary (Windows)
 > **Protagonist:** N/A
 
 ## Story Summary
 
-As a casino simulation, Hoyle Casino 1999 does not feature a traditional narrative storyline. Instead, the game places players in a virtual Las Vegas casino environment where they can freely explore and participate in various gambling activities[^ref-3]. The setting is designed to authentically recreate the atmosphere of real casino gambling, complete with animated dealers, ambient sounds, and realistic game mechanics[^ref-3].
+As a casino simulation, Hoyle Casino 99 has no storyline. The player walks through a virtual casino and chooses from its games; MacAddict's demo write-up described an "addictive virtual casino" in which you "walk through the room and choose from a variety of different games"[^ref-3]. The same write-up noted that "Game play in each area is realistic (you even feed money into the slots!). Even the different dealers are all animated"[^ref-3].
 
-Players begin with a predetermined bankroll and must navigate the casino floor, choosing which games to play and managing their virtual finances accordingly[^ref-3]. The game provides multiple AI opponents—approximately 10 unique computer-controlled players—who participate alongside the human player at various tables, adding social dynamics to poker and other multiplayer games[^ref-4].
-
-The overarching goal is entertainment and skill development rather than narrative progression. Players can test their luck across different games, learn optimal strategies through the Practice Mode feature, and experience the thrill of casino gambling without risking real money[^ref-5]. The game even includes the ability to "feed money into the slots" for an authentic experience[^ref-3].
+GameOver mentioned "10 unique players" and praised "the cartoon graphics for each character," while observing that the cartoon style "did detract from the realism"[^ref-4].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Hoyle Casino 1999 utilizes a point-and-click interface with menu-based navigation, allowing players to select games and make betting decisions through intuitive mouse controls[^ref-7]. The game presents casino activities from multiple perspectives, including a bird's-eye view for table games and first-person perspective for slot machines and other activities[^ref-7]. All games are professionally designed with clear visual indicators for betting options, card values, and game outcomes[^ref-4].
-
-The interface includes comprehensive online help documentation that explains rules and strategies for each available game[^ref-4]. Optional character animations and commentary can be enabled or disabled based on player preference, with the ability to turn off animations significantly speeding up gameplay for experienced players who prioritize efficiency over presentation[^ref-5].
+Movement around the casino is menu- and map-driven. GameOver wrote that "Buttons on the side and a map guide you effortlessly to each location" and found the built-in online help "a nice tool to have," since it helped the reviewer "adapt to the setup of the game and learn new tricks"[^ref-4]. The game's character animations and commentary are optional; MacAddict called them "annoying" and noted they can be turned off[^ref-5].
 
 ### Structure and Progression
 
-The game is structured as an open casino environment where players can freely navigate between different gaming areas:
-
-- **Slot Machine Hall:** Features approximately sixty varieties of slot machines with various themes and betting structures[^ref-4]
-- **Video Poker Section:** Contains twenty-two different video poker machines[^ref-8]
-- **Table Games Area:** Houses blackjack, poker (eight different styles), roulette, craps, and pai gow poker tables[^ref-8]
-- **Specialty Games:** Includes keno and additional casino attractions[^ref-3]
-
-Players can move between these areas at will, with no mandatory progression system. Success is measured purely through accumulated virtual winnings, and players can adjust their betting strategies based on their current bankroll[^ref-2].
+There is no campaign or progression system: the player chooses a game, places bets and moves on. MacAddict listed eight games of chance: blackjack, craps, keno, poker, pai gow poker, roulette, slots and video poker[^ref-5]. GameOver counted "sixty varieties of slots"[^ref-4]. According to MacAddict, most of the slot games are similar, "offering different graphics and slight payoff variations," and the Progressive machine is "the only slot with multiple pay lines"[^ref-5].
 
 ### Puzzles and Mechanics
 
-Rather than traditional puzzles, Hoyle Casino 1999 focuses on authentic gambling mechanics that require strategic decision-making[^ref-4]. Each game type follows official casino rules:
+There are no puzzles. The teaching tools are the core of the design. Practice Mode watches the player's decisions and flags bad bets, and the player can also "request hints on a case-by-case basis," although MacAddict found that the tutorial "covers only the basics rather than the fine points of winning play"[^ref-5]. MacAddict also regretted "the inability to fine-tune the action in certain features, such as the house rake and drop and the betting structure"[^ref-5].
 
-**Blackjack:** Players must decide when to hit, stand, double down, or split based on their hand and the dealer's visible card[^ref-5].
-
-**Poker:** Eight distinct poker variants are included, each with different betting structures and hand requirements[^ref-8]. Players compete against AI opponents with varying skill levels and playing styles.
-
-**Craps:** The complex betting system of real craps is faithfully reproduced, with multiple bet types available including pass line, come bets, and proposition wagers[^ref-3].
-
-**Roulette:** Players can place various bets on the numbered wheel, from simple red/black wagers to specific number selections[^ref-3].
-
-**Slots:** Over 350 Vegas-style slot game variations are available, with different payline configurations and bonus features[^ref-2].
-
-The Practice Mode serves as the game's primary educational mechanic, analyzing player decisions in real-time and providing feedback on suboptimal plays[^ref-5]. This feature helps casual players develop better gambling strategies over time.
+Sources disagree about multiplayer. GameOver wrote that "there is no multiplayer" and scored the category 0/5[^ref-4]. MacAddict, reviewing the Mac version, listed "internet play available only in Windows version" among its complaints[^ref-5].
 
 ## Reception
 
 ### Contemporary Reviews
 
-GameOver awarded Hoyle Casino 1999 a score of 80% in their contemporary review, with reviewer Prolix providing detailed scoring across multiple categories: Graphics received 18/20, Sound scored 8/15, Gameplay earned 28/30, and Fun Factor achieved 18/20[^ref-4]. The multiplayer mode received a disappointing 0/5, reflecting significant limitations in that feature[^ref-4]. Prolix affirmed that "Anyone who knows anything about computer casino games will tell you Hoyle ranks at the top" and praised the professional quality of all included games[^ref-4].
+GameOver's reviewer Prolix gave Hoyle Casino 99 80% on October 20, 1998. The category scores were Graphics 18/20, Sound 8/15, Gameplay 28/30, Fun Factor 18/20, Multiplayer Play 0/5 and Overall Impression 8/10[^ref-4]. Prolix wrote that "Anyone who knows anything about computer casino games will tell you Hoyle ranks at the top," called the graphics "completely average for a game of this caliber," and concluded that "All of the games are very professionally done and the Hoyle name lives up to its standards"[^ref-4]. He also voiced a general suspicion of the genre: "One thing I really don't like about computer casino games is the 'cheat factor'. Personally I believe the computer decides if you win or not, and its not based on luck or skill"[^ref-4].
 
-Owen W. Linzmayer reviewed the Macintosh version for MacAddict magazine in June 1999 (Issue 034, page 63), noting that "What makes Hoyle Casino better than other parlor game programs is its Practice Mode"[^ref-5]. However, Linzmayer also criticized the game's pacing, stating that "Hard-core betters, on the other hand, will find gameplay too slow even if they turn off the optional (and annoying) character animations and commentary"[^ref-5]. He also noted the inability to fine-tune certain features like house rake and betting structure as a limitation[^ref-5].
+Owen W. Linzmayer reviewed the Macintosh version in MacAddict's June 1999 issue (#34, listed on page 63 in the contents)[^ref-5]. He wrote that "What makes Hoyle Casino better than other parlor game programs is its Practice Mode" and that "Recreational players will not only enjoy Hoyle Casino, they may even improve their game"[^ref-5]. On the other hand, "Hard-core betters... will find gameplay ... too slow even if they turn off the optional (and annoying) character animations and commentary"[^ref-5]. The review's "Good News" was "Good variety of games. Inexpensive. Practice mode and tutorial help teach basics"; its "Bad News" was "Slow gameplay. Character animations and table chatter annoying"[^ref-5].
 
-MacAddict magazine described the demo as "addictive" and praised the realistic gameplay, noting "Game play in each area is realistic (you even feed money into the slots!). Even the different dealers are all animated"[^ref-3].
+MacAddict's demo-disc write-up, quoted by Classic Mac Demos, was warmer, calling it an "addictive virtual casino" with "great graphics and sound effects"[^ref-3].
 
 ### Modern Assessment
 
-The game maintains a user rating of 4/5 on My Abandonware based on 4 votes[^ref-6]. The subsequent Hoyle Casino 2001 entry received an "Outstanding" rating from GameFAQs users based on 2 ratings[^ref-9]. The broader Hoyle Casino series achieved significant commercial success, with Wikipedia reporting that the franchise sold 230,365 units and earned $6.15 million from January through October 2000[^ref-10].
-
-**Aggregate Scores:**
-- **My Abandonware:** 4/5 (4 votes)[^ref-6]
-- **GameFAQs (Hoyle Casino 2001):** Outstanding (2 ratings)[^ref-9]
+No modern critical reassessment of this edition specifically was found. Database entries for "Hoyle Casino" generally conflate the yearly editions, so their ratings are not reported here.
 
 ## Development
 
 ### Origins
 
-Hoyle Casino 1999 emerged as a spin-off of Sierra's long-running Hoyle's Official Book of Games series, which had established the Hoyle brand as the definitive authority on gaming rules and strategy[^ref-10]. The casino-focused series began in 1996 with the original Hoyle Casino, and the 1999 edition represented the fourth annual release in this specialized line[^ref-8].
-
-Development was handled internally at Sierra On-Line, with the game published under the Sierra Attractions label that focused on casual entertainment titles[^ref-1]. The game received yearly standalone updates for the following years that added additional mini-games and slot machines, establishing an annual release pattern for the franchise[^ref-7].
+The Hoyle Casino series began in 1996 as a spin-off of *Hoyle's Official Book of Games*[^ref-10]. Sierra created the Sierra Attractions sub-brand in 1998 for casual games[^ref-17], and Hoyle Casino 99 was published under that label[^ref-5][^ref-22]. The Sierra Chest credits development to Sierra On-Line[^ref-22]. No individual design or production credits for this edition were found in the sources consulted.
 
 ### Production
 
-The development team focused on creating an immersive virtual casino experience with authentic game mechanics and appealing presentation[^ref-4]. A July 30, 1999 prototype build (designated 990518_2137) was discovered and preserved by lemurboy12, who found the disc at a thrift store and released it publicly on January 18, 2020[^ref-11]. This prototype predates the final US release by approximately one month, with the final build dated August 25, 1999[^ref-11].
-
-The game was designed to run on both Windows (98/95/3.1) and Power Macintosh systems, requiring developers to create cross-platform compatible code[^ref-2]. The Macintosh version required Mac OS 8.0 through Mac OS 9.0 and was designed for IBM PowerPC architecture[^ref-5].
-
-### Technical Achievements
-
-Hoyle Casino (1999) packaged **over 100 game variations** across the core casino games at a moment when most casual-casino compilations capped at 10–15 variants — though contemporary critics noted some "variations" were betting/skinning variants rather than fully distinct rules engines[^ref-1][^ref-5][^ref-16]. The release shipped as a **hybrid Windows/Power Macintosh product** on the same CD-ROM, requiring parallel renderers for Windows 3.1 / 95 / 98 and Mac OS 8.0–9.0 on PowerPC architecture — a cross-platform engineering investment unusual for budget casino titles[^ref-2][^ref-5]. Sierra distributed playable demos of the 1999 release across multiple parallel Sierra titles (3-D Ultra Pinball 5: Thrillride, Hoyle Card Games 4) as a deliberate cross-promotion tactic for the Sierra Attractions casual-games line[^ref-1]. The product also formed the **anchor of Sierra Attractions' 1999 casual-games strategy**, sitting alongside Hoyle Card Games and Hoyle Board Games as a coordinated portfolio rather than a standalone release[^ref-1][^ref-5][^ref-17].
+Hidden Palace catalogues a prototype disc it names *Hoyle Casino '99* (build name 990518_2137, build date July 30, 1999), dumped by lemurboy12 from a CD-ROM found at a thrift store and released on January 18, 2020. It lists the final US build as August 25, 1999[^ref-21]. The Internet Archive upload of the same build is titled "Hoyle Casino '99 (November 10th, 1999 Build)"[^ref-11]. Those dates come after this edition's October 1998 release and just before the September 1999 edition[^ref-22][^ref-23], so the prototype may belong to the later game despite its name.
 
 ### Technical Specifications
 
-**CD-ROM Version:**[^ref-2]
-- **Media:** 1 CD-ROM disc
-- **Players:** 1 player
-- **Compatibility:** Windows 98/95/3.1, Power Macintosh
-- **File Size:** Approximately 252 MB (ISO version)[^ref-6]
-- **Mac Requirements:** Mac OS 8.0 - Mac OS 9.0, IBM PowerPC architecture[^ref-5]
+**Macintosh version (MacAddict, June 1999):**[^ref-5]
+- **Price:** $29.95 (SRP)
+- **Required:** PowerPC, System 7.5 or later, 16 MB of available RAM, 40 MB of free hard disk space, 2X CD-ROM drive, 640×480 monitor with 256 colors
+- **Recommended:** G3, System 8.1 or later, 32 MB of RAM, 4X CD-ROM drive, 24-bit color display
 
-**Demo Version:**[^ref-1]
-- **File Size:** 30.3 MB
-- **Mac Demo Size:** 35.57 MB (Hoyle Casino Demo.sit.hqx)[^ref-3]
+Macintosh Repository lists its copy of *Hoyle Casino '99* as a 1998 PowerPC release and suggests the SheepShaver emulator for running it today[^ref-25].
 
-### Technical Issues
+### Demo Versions
 
-The GameOver review noted concerns about a perceived "cheat factor" in computer casino games, with reviewer Prolix commenting: "One thing I really don't like about computer casino games is the 'cheat factor'. Personally I believe the computer decides if you win or not, and its not based on luck or skill"[^ref-4].
-
-The multiplayer mode was largely non-functional, receiving a 0/5 score in the GameOver review[^ref-4]. This issue persisted, with commercial listings later confirming that "multiplayer mode cannot work"[^ref-8].
-
-Later versions of the Hoyle Casino series suffered from additional technical problems. The 2007 version was plagued by a significant bug where "A player would place a bet, and then the game would freeze for 30 seconds before continuing. Encore was not able to fix this bug"[^ref-10].
-
-For modern users, the game can be emulated on contemporary systems using SheepShaver for the Macintosh version[^ref-5]. PCGamingWiki notes that while the game is DRM-free, certain animations are skipped if no disc is detected[^ref-7].
-
-### Easter Eggs and Trivia
-
-- The game's box advertised "100 variations" of games, though many of these were merely different betting levels or graphical themes rather than fundamentally distinct games[^ref-5]
-- The game features 25 default characters in the virtual Las Vegas casino setting[^ref-10]
-- A "Break The Bank" feature included an exploit for obtaining extra money in the $10,000 Break The Bank mode[^ref-12]
-- Demo versions were distributed through multiple magazine cover discs including MacAddict Issue 033, MacAddict Issue 054, and Macworld July 1999[^ref-3]
+The Sierra Chest lists a 31.2 MB PC demo in which only Slots and Blackjack can be played, with the Monsters, Bug Out, Sports and Safari slot machines[^ref-24]. Classic Mac Demos hosts the Macintosh demo (Hoyle Casino Demo.sit, 25.77 MB) and lists it on cover discs including MacAddict Issue 033 and Macworld July 1999[^ref-3].
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Prototype | July 30, 1999 | PC | Build 990518_2137, discovered at thrift store[^ref-11] |
-| Final US | August 25, 1999 | PC | Final retail release[^ref-11] |
-| 1.0 | September 20, 1999 | IBM PC, Macintosh | Official release date[^ref-1] |
-| Mac Version | 1998 | Macintosh | Macintosh release[^ref-5] |
+| First release | October 1, 1998 | IBM PC, Macintosh | Sierra Chest first-release date[^ref-22] |
+| Macintosh review | June 1999 | Macintosh | Reviewed in MacAddict #34; $29.95 SRP[^ref-5] |
+| Prototype (attribution uncertain) | July 30, 1999 | PC | Build 990518_2137, catalogued as *Hoyle Casino '99*; see Production[^ref-21] |
 
 ## Legacy
 
-### Sales and Commercial Impact
-
-The Hoyle Casino franchise proved commercially successful for Sierra Entertainment. According to NPD data cited by Wikipedia, the series sold 230,365 units and earned $6.15 million from January through October 2000, demonstrating strong market performance for the brand[^ref-10]. The 1999 edition contributed to this success as the fourth installment in the casino-focused product line.
-
-The game was distributed at budget price points in the secondary market, with price tracking showing loose copies selling for approximately $4.54, complete copies for $10.09, and new sealed copies commanding $20.00[^ref-2]. Sales volume in the collector's market averages approximately 2 sales per year for loose copies and 1 sale per year for complete editions[^ref-2].
-
 ### Collections
 
-Hoyle Casino 1999 demos were bundled with several other Sierra releases, serving as promotional material for the franchise[^ref-1]:
+The Sierra Chest lists the Hoyle Casino 3 demo as included with these Sierra releases[^ref-24]:
 
-- **3-D Ultra Pinball 5: Thrillride** – PC CD-ROM, US, version 1.0, fliptop box with flap
-- **Hoyle Card Games 4 (2000)** – PC/Mac CD-ROM, US, version 1.0.0.0, flip-top box with flap
-- **Hoyle Solitaire & Mahjong Tiles 2 (2000)** – PC/Mac CD-ROM, US, flip-top box
-- **Hoyle Word Games 2 (2000)** – PC/Mac CD-ROM, US, version 1.0.0.0, flip-top box with flap
+- **Hoyle Board Games 2 (1998)**: PC CD-ROM, US
+- **Hoyle Card Games 3 (1999)**: PC/Mac CD-ROM, US, version 1.0
+- **Hoyle Word Games (1999)**: PC/Mac CD-ROM, US
 
 ### Successor Products
 
-The Hoyle Casino series continued with annual releases following the 1999 edition:
-
-- **Hoyle Casino 2000** – Released for Windows and Mac OS (Classic)[^ref-7]
-- **Hoyle Casino 2001** – Released November 14, 2000 (Europe) by Sierra Entertainment[^ref-9]
-- **Hoyle Casino Games (2007)** – Published by Encore, Inc., which took over the series after 2005[^ref-13]
-- **Hoyle Casino 3D** – Released January 3, 2005 by Encore Software[^ref-14]
-
-The series eventually transitioned from Sierra Entertainment to Encore, Inc. as publisher[^ref-10]. Encore continued releasing new editions through at least 2016, though the later versions suffered from quality issues[^ref-10].
-
-### Critical Perspective
-
-Hoyle Casino 1999 represents a significant entry in Sierra's diversification strategy during the late 1990s, when the company expanded beyond its traditional adventure game roots into casual entertainment markets under the Sierra Attractions label[^ref-1]. The game exemplifies the company's ability to leverage established brand recognition—in this case, the Hoyle name synonymous with official game rules—to create commercially viable entertainment software[^ref-5].
-
-The Practice Mode feature that distinguished Hoyle Casino from competitors demonstrated Sierra's commitment to adding educational value to entertainment products[^ref-5]. This approach helped justify the product to consumers who might otherwise feel guilty about simulated gambling, positioning it as a skill-development tool rather than mere recreation.
-
-However, the game's limitations—particularly the non-functional multiplayer mode and pacing issues that frustrated experienced players—highlight the challenges of serving both casual and hardcore audiences simultaneously[^ref-4][^ref-5]. The annual release schedule that Sierra established with the Hoyle Casino series prefigured the sports game model that would become standard in the gaming industry, though it also raised questions about incremental value between editions.
+The next edition, catalogued by the Sierra Chest as Hoyle Casino 4, was first released on September 20, 1999[^ref-23]; see [[2000 - Hoyle Casino]].
 
 ## Downloads
 
@@ -200,18 +127,10 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 - [GOG Dreamlist – Vote for re-release](https://www.gog.com/dreamlist)
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/hoyle-casino-hzg) - Free download (Windows version)
-
-**Download / Preservation**
-- [Internet Archive – Hoyle Casino 1999](https://archive.org/details/Hoyle_Casino_Sierra_On-Line_Inc._1999)[^ref-15]
-- [Internet Archive – Prototype Build](https://archive.org/details/9905182137)[^ref-11]
-- [My Abandonware](https://www.myabandonware.com/game/hoyle-casino-hzg)[^ref-6]
-- [Macintosh Repository](https://www.macintoshrepository.org/9589-hoyle-casino-99)[^ref-5]
-- [Classic Mac Demos](https://classicmacdemos.com/hoyle-casino-1999)[^ref-3]
-
-**Product Information**
-- **UPC:** 020626707572[^ref-2]
-- **ASIN:** B00001KRTG[^ref-2]
+- [Macintosh Repository – Hoyle Casino '99](https://www.macintoshrepository.org/9589-hoyle-casino-99) (Mac installer)[^ref-25]
+- [Classic Mac Demos – Hoyle Casino demo](https://classicmacdemos.com/hoyle-casino-1999) (Mac demo)[^ref-3]
+- [The Sierra Chest – Hoyle Casino 3 demo](https://www.sierrachest.com/index.php?a=games&id=800&fld=demos) (PC demo)[^ref-24]
+- [Internet Archive – Hoyle Casino '99 prototype build](https://archive.org/details/9905182137) (attribution uncertain, see Production)[^ref-11]
 
 ## See Also
 
@@ -273,23 +192,14 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 
 ## References
 
-[^ref-1]: [MobyGames – Hoyle Casino 1999](https://www.mobygames.com/game/9089/hoyle-casino-99/) — Release date, bundled demos, and platform information
-[^ref-2]: [PriceCharting – Hoyle Casino 1999](https://www.pricecharting.com/game/pc-games/hoyle-casino-1999) — UPC, ASIN, game count claims, and price tracking
-[^ref-3]: [Classic Mac Demos – Hoyle Casino 1999](https://classicmacdemos.com/hoyle-casino-1999) — Demo distribution, animated dealers, and slot machine gameplay
-[^ref-4]: [GameOver – Hoyle Casino 1999 Review](https://www.game-over.com/reviews/pc/hoylecasino99.html) — 80% score with detailed category breakdown, "cheat factor" concerns
-[^ref-5]: [MacAddict Issue 034 (June 1999) Review](https://archive.org/details/MacAddict-034-199906) — Owen Linzmayer review, Practice Mode praise, pacing criticism
-[^ref-6]: [MyAbandonware – Hoyle Casino](https://www.myabandonware.com/game/hoyle-casino-hzg) — Preservation download, 4/5 rating, developer credits
-[^ref-7]: [PCGamingWiki – Hoyle Casino (2000)](https://www.pcgamingwiki.com/wiki/Hoyle_Casino_(2000)) — DRM info, animation skip behavior, version history (PCGW documents the 2000 edition; no separate 1999 page)
-[^ref-8]: [Amazon Listing – Hoyle Casino 1999](https://www.amazon.com/Hoyle-Casino-1999-PC/dp/B00001KRTG) — Game count (22 video poker, 8 poker styles), multiplayer issues
-[^ref-9]: GameFAQs – Hoyle Casino 2001 *(link removed: it led to a different game's page)* — "Outstanding" rating, series continuation info
-[^ref-10]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) — Sales data ($6.15M, 230K units), series history, 2007 bug description
-[^ref-11]: [Internet Archive – Prototype Build](https://archive.org/details/9905182137) — July 30, 1999 prototype discovered by lemurboy12
-[^ref-12]: GameFAQs Cheats *(link removed: it led to a different game's page)* — "Break The Bank" exploit documentation
-[^ref-13]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) — series list; "After 2005, publication of the series moved to Encore, Inc."
-[^ref-14]: [MobyGames – Hoyle Casino 3D](https://www.mobygames.com/game/20006/hoyle-casino-3d/) — 2005 3D edition by Encore
-[^ref-15]: [Internet Archive – Hoyle Casino 1999](https://archive.org/details/Hoyle_Casino_Sierra_On-Line_Inc._1999) — Full game preservation
-[^ref-16]: [IGDB – Hoyle Casino 1999](https://www.igdb.com/games/hoyle-casino-1999) — Internet Games Database entry, platform listings, release-year confirmation
-[^ref-17]: [Sierra Attractions brand history (Wikipedia)](https://en.wikipedia.org/wiki/Sierra_Entertainment#Sierra_Attractions) — Sierra Attractions casual-games publishing-label context
-[^ref-18]: [LaunchBox Games Database – Hoyle Casino 1999](https://gamesdb.launchbox-app.com/games/details/hoyle-casino-1999) — community-curated metadata, cover art, platform confirmation
-[^ref-19]: [Old Games Finder – Hoyle Casino 1999](https://www.oldgamesfinder.com/hoyle-casino-1999/) — abandonware preservation archive, ISO metadata, screenshot gallery
-[^ref-20]: GameFAQs – Hoyle Casino 1999 (PC) *(link removed: it led to a different game's page)* — user-rated category, platform listing, retail-release metadata
+[^ref-3]: [Classic Mac Demos – Hoyle Casino 1999](https://classicmacdemos.com/hoyle-casino-1999) — Mac demo (Hoyle Casino Demo.sit, 25.77 MB); cover discs; MacAddict demo blurb ("addictive virtual casino", "you even feed money into the slots!")
+[^ref-4]: [GameOver – Hoyle Casino 99 review (Wayback Machine)](http://web.archive.org/web/20010419015509/http://www.game-over.net:80/review/october/hoyle99/index.html) — Prolix, October 20, 1998; 80%; category scores; "sixty varieties of slots", "10 unique players", "there is no multiplayer"
+[^ref-5]: [MacAddict #34 (June 1999) – Hoyle Casino review](https://archive.org/details/MacAddict-034-199906) — Owen W. Linzmayer; eight games of chance, "100 variations", Practice Mode, $29.95, system requirements, Windows-only internet play
+[^ref-10]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) — series history: spin-off of Hoyle's Official Book of Games, first edition 1996
+[^ref-11]: [Internet Archive – Hoyle Casino '99 (November 10th, 1999 Build)](https://archive.org/details/9905182137) — prototype disc upload by lemurboy12, January 18, 2020
+[^ref-17]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — 1998 sub-brands: "Sierra Attractions (for casual games such as poker)"
+[^ref-21]: [Hidden Palace – Hoyle Casino '99 (July 30, 1999 prototype)](https://hiddenpalace.org/Hoyle_Casino_'99_(July_30,_1999_prototype)) – build 990518_2137, thrift-store origin, final US build August 25, 1999
+[^ref-22]: [The Sierra Chest – Hoyle Casino 3 (1998)](https://www.sierrachest.com/index.php?a=games&id=800&fld=general) — first release 1998-10-01; developer Sierra On-Line; publisher Sierra Attractions; IBM PC, Macintosh
+[^ref-23]: [The Sierra Chest – Hoyle Casino 4 (1999)](https://www.sierrachest.com/index.php?a=games&id=799&fld=general) — next edition, first release 1999-09-20
+[^ref-24]: [The Sierra Chest – Hoyle Casino 3 demos](https://www.sierrachest.com/index.php?a=games&id=800&fld=demos) — 31.2 MB demo (Slots and Blackjack only); included with Hoyle Board Games 2, Hoyle Card Games 3, Hoyle Word Games
+[^ref-25]: [Macintosh Repository – Hoyle Casino '99](https://www.macintoshrepository.org/9589-hoyle-casino-99) — Mac installer; year 1998; PowerPC; SheepShaver emulation note
