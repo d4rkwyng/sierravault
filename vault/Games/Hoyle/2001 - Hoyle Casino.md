@@ -1,203 +1,147 @@
 ---
-title: Hoyle Casino 2001
+title: Hoyle Casino 2002
 release_year: 2001
 developer: Sierra Entertainment
 designer: [Jason Willig, Ryan Spain, Jonathan Watts, Will Barker]
 publisher: Sierra Entertainment
 genre: Casino
-platforms: [Windows, Mac OS, Dreamcast, Game Boy Color]
+platforms: [Windows, Mac OS]
 series: Hoyle Casino
-engine: Proprietary (Windows)
+engine: null
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
-description: Hoyle Casino 2001, also known as Hoyle Casino 6, is the sixth installment
-  in Sierra Entertainment's long-running casino simulation series. Released in late...
+last_updated: '2026-10-13'
+description: Hoyle Casino 2002 (Hoyle Casino 6), the sixth Hoyle Casino edition, released by Sierra in 2001 as a hybrid PC/Mac CD-ROM with fourteen casino games, new Baccarat and Video Blackjack, and Palm video poker.
 tags: [2000s, hoyle-casino, sierra]
 ---
-# Hoyle Casino 2001
+# Hoyle Casino 2002
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Hoyle Casino 2001, also known as Hoyle Casino 6, is the sixth installment in Sierra Entertainment's long-running casino simulation series[^ref-1][^ref-17]. Released in late 2000 for Windows and Macintosh platforms, the game continued the franchise's tradition of offering players a comprehensive virtual Las Vegas casino experience[^ref-2]. The title was also released on Sega Dreamcast and Game Boy Color, expanding the series' reach to console and handheld audiences[^ref-2].
+Hoyle Casino 2002, catalogued as Hoyle Casino 6, is the sixth edition of Sierra's Hoyle Casino series[^ref-1][^ref-7]. Sierra released it in 2001 as part of its "2002 series" of Hoyle games, shipping as a hybrid PC/Mac title on one CD-ROM for US$29.95[^ref-18]. MobyGames dates the Windows release to August 30, 2001, while The Sierra Chest gives a first release of September 25, 2001[^ref-1][^ref-7]. It followed the October 2000 edition, which was sold as "Hoyle Casino 2001"[^ref-22] and is covered at [[2000 - Hoyle Casino]].
 
-As a spin-off of the classic Hoyle's Official Book of Games series, Hoyle Casino 2001 allowed players to create custom profiles and receive virtual money to wager across fourteen different casino games with over four hundred combinations[^ref-1][^ref-2]. The game featured 25 default characters to choose from and was set in a fully-realized virtual Las Vegas casino environment[^ref-2]. This edition introduced two new games not seen in previous releases—Baccarat and Video Blackjack—along with an improved tournament mode and a bonus version of video poker designed for Palm OS devices[^ref-1].
-
-The game proved commercially successful, contributing to the Hoyle Casino series selling 230,365 units and earning $6.15 million from January through October 2000 in North America alone[^ref-2]. During the week of February 11-17, 2001, Hoyle Casino 2001 reached fifth place on PC Data's best-selling games chart, demonstrating its sustained popularity months after release[^ref-3].[^ref-12][^ref-13][^ref-14][^ref-12][^ref-13][^ref-14]
+The game offers fourteen casino games with "over four hundred combinations", a total MobyGames notes is reached largely through roughly thirty slot machines playable at twelve denominations each[^ref-1]. New to this edition were Baccarat and Video Blackjack, along with an improved tournament mode[^ref-1][^ref-18]. The package also included four variations of Video Poker for Palm OS handhelds[^ref-18].
 
 > [!info]- Game Info
-> **Developer:** Sierra Entertainment[^ref-4]
+> **Developer:** Sierra Entertainment[^ref-17]
 > **Designer:** Jason Willig, Ryan Spain, Jonathan Watts, Will Barker[^ref-1]
-> **Publisher:** Sierra Entertainment[^ref-4]
+> **Producer:** Jason Willig[^ref-1]
+> **Art Director:** Rabih AbouJaoudé[^ref-1]
+> **Publisher:** Sierra Entertainment[^ref-17]
 > **Engine:** Unknown
-> **Platforms:** Windows, Mac OS, Dreamcast, Game Boy Color[^ref-2]
-> **Release Year:** 2000
+> **Platforms:** Windows, Mac OS[^ref-7][^ref-18]
+> **Release Year:** 2001[^ref-1][^ref-7]
 > **Series:** Hoyle Casino
 > **Protagonist:** Player-created character
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-Hoyle Casino 2001 does not feature a traditional narrative story, instead providing a simulation-based gameplay experience centered around casino gaming. Players assume the role of a custom-created character visiting a virtual Las Vegas casino[^ref-2]. The premise is simple: players are given virtual money and can freely explore the casino floor, participating in various games of chance and skill[^ref-2].
-
-The game's setting replicates the atmosphere and experience of an authentic casino environment. Players interact with up to eight different computer-controlled opponents, each with distinct personalities and playing styles[^ref-5]. The social aspect of the game comes through table games like poker, blackjack, and baccarat where players compete against these AI characters[^ref-5].
-
-Rather than progressing through a plot, players work to accumulate winnings, build their bankroll, and compete in tournament modes. The improved tournament system in this edition provided players with structured competitive gameplay beyond the standard free-play casino experience[^ref-1].
+Hoyle Casino 2002 has no narrative. As in the rest of the series, players create a profile, receive virtual money, and wager it on games around a virtual casino[^ref-2]. Starting funds come on an in-game credit card; a large enough bankroll earns the equivalent of a gold card, and players who run low can apply for a loan[^ref-20]. Players can design their own character and challenge friends or eight computer opponents[^ref-5], each of whom has their own sayings at the table[^ref-20].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Hoyle Casino 2001 features a point-and-click interface designed for ease of use, allowing players of all experience levels to navigate the casino floor and participate in games[^ref-6]. The game supports single-player modes as well as multiplayer options, with up to four players able to share the same computer[^ref-5]. Online multiplayer support was also included, enabling players to compete against others over the internet[^ref-5].
-
-Players begin by creating a custom character using the included Facemaker tool[^ref-7], which allows for personalized avatars to represent them at the gaming tables. The interface guides players through betting procedures, game rules, and strategy tips for newcomers to casino gaming[^ref-6].
+Up to four people can play on the same computer, and online multiplayer is also supported[^ref-5][^ref-20]. Players customize their appearance with the bundled Facemaker utility[^ref-7][^ref-20]. The manual explains the basics and strategy of each game, including a chart of every blackjack hand and the recommended play[^ref-20].
 
 ### Structure and Progression
 
-The game offers fourteen distinct casino games with numerous variations, structured around different gaming categories[^ref-1][^ref-5]:
+The fourteen games are[^ref-1][^ref-5][^ref-20]:
 
-- **Table Games:** Baccarat, Blackjack, Caribbean Stud Poker, Craps, Let it Ride, Pai Gow Poker, Poker, Roulette, Three Card Poker
+- **Table Games:** Baccarat, Blackjack, Caribbean Stud Poker, Craps, Let It Ride, Pai Gow Poker, Poker, Roulette, Three Card Poker
 - **Machine Games:** Slots and Video Slots, Video Blackjack, Video Poker
 - **Specialty Games:** Horse Racing, Keno
 
-Much of the game's advertised "over four hundred combinations" comes from the thirty or so slot machines, each playable with twelve different denominations[^ref-1]. Players can freely move between games, building their virtual bankroll or testing different strategies across the available options.
-
-The improved tournament mode provides structured competitive play, giving players goals beyond simple free-form gambling[^ref-1]. Players create profiles that track their progress, winnings, and statistics over time[^ref-2].
+MobyGames also lists eight poker tournaments[^ref-1]. Slot machines come in single-line, multi-line and progressive-jackpot types, and betting ranges run from $5–$1,000 tables up to $100–unlimited[^ref-20].
 
 ### Puzzles and Mechanics
 
-As a casino simulation, Hoyle Casino 2001 focuses on authentic recreations of gambling mechanics rather than traditional puzzles. Each game implements its real-world rules and betting structures[^ref-5]. The game teaches players proper casino etiquette and strategy through tutorials and helpful tips integrated into the gameplay experience[^ref-6].
-
-The addition of Baccarat and Video Blackjack in this edition expanded the strategic options available to players[^ref-1]. Video Blackjack offered a different pace and betting structure compared to the traditional table version, while Baccarat brought an elegant, high-stakes option popular in international casinos.
+Each game follows its real-world casino rules, and most play is against the house[^ref-20]. GameGenie's reviewer found the computer-controlled players won and lost in a realistic range rather than dominating the human player[^ref-20].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Hoyle Casino 2001 received generally positive reviews from both critics and users upon release. GameSpot awarded the game a score of 7.2 out of 10[^ref-8], recognizing it as a competent casino simulation. User ratings on GameFAQs were particularly enthusiastic, with the game earning an "Outstanding" classification based on user votes[^ref-4].
+James Allen of GameGenie reviewed the game favourably, praising its sound, its 640×480 graphics, and the breadth of games, and concluding that "Hoyle Casino looks to be the best casino game available for the PC"[^ref-20].
 
-Amazon customer reviews presented a mixed picture, with the game receiving an average rating of 3.6 out of 5 stars[^ref-6]. One satisfied customer, S. Bamber, noted that "it a simple fun game, very easy to set up and play"[^ref-6]. However, critical users like Paul complained that the game was "slow, way out of date and constantly crashes"[^ref-6].
-
-Contemporary critics appreciated the series' continued refinement, with reviewers noting that finding a good casino game was difficult in the market. As one reviewer observed, "Casino games are known for being, if not bad, at least usually not very good. A good casino game is hard to come by"[^ref-9].
+An Amazon customer review from July 2002 called it "top quality product - fun for the whole family", praising the graphics and character creation while noting "the lack of tutorial type of software to make you play better"[^ref-21].
 
 ### Modern Assessment
 
-Modern assessment of Hoyle Casino 2001 is limited, as the game has become largely forgotten compared to Sierra's adventure game catalog. The game maintains a presence on Metacritic but lacks sufficient critic reviews to generate an aggregate score[^ref-10]. User communities on GameFAQs continue to rate the game favorably based on nostalgic appreciation[^ref-4].
-
-The game's technical limitations have become more apparent over time, with compatibility issues on modern systems affecting its playability. Customer reviews note problems including frequent crashes and Mac compatibility failures[^ref-6].
+No critic aggregate exists for this edition; MobyGames shows no Moby Score[^ref-1]. On Amazon, the product page carries a 2.5 out of 5 average from 13 ratings[^ref-21].
 
 **Aggregate Scores:**
-- **Amazon Customer Reviews:** 3.6/5 stars[^ref-6]
-- **GameFAQs User Rating:** Outstanding (2 ratings)[^ref-4]
-- **GameSpot:** 7.2/10[^ref-8]
+- **Amazon Customer Ratings:** 2.5/5 (13 ratings)[^ref-21]
 
 ## Development
 
 ### Origins
 
-Hoyle Casino 2001 emerged from Sierra Entertainment's successful Hoyle franchise, which began as Hoyle's Official Book of Games in the late 1980s[^ref-2]. The casino spin-off series had proven commercially viable, prompting Sierra to release annual updated editions throughout the late 1990s and early 2000s. This sixth installment built upon the foundation established by previous versions while introducing new features to keep the product competitive[^ref-1].
-
-The development team focused on expanding the game's offerings beyond previous editions, adding Baccarat and Video Blackjack as new gaming options[^ref-1]. The inclusion of Palm OS support for video poker demonstrated Sierra's interest in expanding the platform reach of the franchise beyond traditional desktop computers[^ref-1].
+Hoyle Casino 2002 was released alongside Hoyle Card Games 2002, Hoyle Board Games 2002, Hoyle Word Games 2002 and Hoyle Kids Games 2002, several of which also included Palm OS versions of selected games[^ref-18].
 
 ### Production
 
-Development of Hoyle Casino 2001 took place at Sierra Entertainment's studios under the leadership of designers Jason Willig, Ryan Spain, Jonathan Watts, and Will Barker[^ref-1]. The team worked to balance authentic casino gameplay with accessibility for casual users, continuing the series' tradition of appealing to both gambling enthusiasts and newcomers.
-
-The game was developed for hybrid PC/Mac release on CD-ROM[^ref-7][^ref-11], with additional versions created for Dreamcast and Game Boy Color platforms[^ref-2]. This multi-platform approach required the team to adapt the game's interface and features for the different capabilities of each system.
+MobyGames credits 58 people on the Windows version, including executive producer Stephen H. Van Horn, producer Jason Willig, designers Jason Willig, Ryan Spain, Jonathan Watts and Will Barker, project lead John Gilmore, and art director Rabih AbouJaoudé[^ref-1].
 
 **Development Credits:**[^ref-1]
+- **Executive Producer:** Stephen H. Van Horn
+- **Producer:** Jason Willig
 - **Designers:** Jason Willig, Ryan Spain, Jonathan Watts, Will Barker
-
-### Technical Achievements
-
-Hoyle Casino 2001 represented an incremental improvement over previous entries in the series rather than a major technical leap. The improved tournament mode provided more structured competitive options for players[^ref-1]. The Palm OS version of video poker demonstrated Sierra's forward-thinking approach to portable gaming, predating the smartphone gaming boom by several years[^ref-1].
-
-The game's ability to offer "over four hundred combinations" of games, while partially achieved through slot machine denomination variations, still provided substantial content variety[^ref-1]. The character creation system allowed for personalized player avatars, enhancing the social simulation aspects of multiplayer games[^ref-7].
+- **Principal Software Engineer – Project Lead:** John Gilmore
+- **Art Director:** Rabih AbouJaoudé
 
 ### Technical Specifications
 
-**CD-ROM Version:**[^ref-6][^ref-11]
-- **Media:** 1 CD-ROM disc
-- **Platforms:** Windows 32-bit systems, Macintosh
-- **Package Dimensions:** 24.13 x 20.07 x 4.83 cm
-- **Package Weight:** 408.23 g
+**CD-ROM Version:**[^ref-7][^ref-17][^ref-18]
+- **Media:** 1 CD-ROM disc (hybrid PC/Mac)
+- **ESRB:** Everyone[^ref-21]
 
-**System Requirements:**[^ref-5]
-- **Operating System:** Windows (32-bit Systems)
-- **Players:** 1 player locally, up to 4 players on same computer
-- **Online:** Multiplayer support included
+**System Requirements (PC):**[^ref-20]
+- **Processor:** Pentium 133
+- **Memory:** 16 MB RAM
+- **Disk Space:** 135 MB
+- **Operating System:** Windows 95, 98, 2000, Me, XP
 
 ### Cut Content
 
-No documented cut content has been identified for Hoyle Casino 2001 in available research materials.
+No documented cut content has been identified for this edition.
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0.0.0 | October 8, 2000 | PC/Mac | Initial retail release, flip-top box with flap[^ref-6][^ref-7] |
-| EU Release | November 14, 2000 | PC | European release[^ref-4] |
-| US Release | September 25, 2001 | PC/Mac | Later US retail distribution[^ref-7] |
+| 1.0.0.0 | September 25, 2001 | PC/Mac | US CD-ROM, flip-top box with flap[^ref-7]; MobyGames lists August 30, 2001 for Windows[^ref-1] |
+| 1.0.1.0 | — | PC | Patch: Baccarat ties handled correctly, Roulette can land on 30, payouts no longer rounded to the nearest dollar[^ref-19] |
 
-**Product Identification:**[^ref-7]
-- **UPC:** 0-20626-71428-0
-- **Box ID:** 3108
+**Product Identification:**
+- **UPC:** 0-20626-71428-0[^ref-7][^ref-17]
+- **Box ID:** 3108[^ref-7]
+- **Amazon ASIN:** B00005MJ9H[^ref-17][^ref-21]
 
 ### Technical Issues
 
-Hoyle Casino 2001 suffered from various technical problems that affected the user experience. Customer reviews document frequent crashes and slow performance[^ref-6]. One Amazon reviewer explicitly warned consumers: "Don't waste your money!! It's slow, way out of date and constantly crashes"[^ref-6].
-
-Mac users experienced particularly significant compatibility issues, with some unable to run the game at all despite the hybrid PC/Mac release[^ref-6]. Customer FluffyJohn reported being unable "to play with my mac computer"[^ref-6].
-
-Later editions in the Hoyle Casino series also experienced notable bugs. The 2007 version was plagued by a significant issue where "a player would place a bet, and then the game would freeze for 30 seconds before continuing. Encore was not able to fix this bug"[^ref-2]. This freeze bug persisted until it was finally addressed in Hoyle Casino 2008[^ref-2].
+Sierra's 1.0.1.0 update for "the 2002 Hoyle Casino release" fixed Baccarat tie results, made it possible for Roulette to land on 30, and stopped the house rounding payouts up or down to the nearest dollar[^ref-19].
 
 ### Easter Eggs and Trivia
 
-While specific Easter eggs for Hoyle Casino 2001 are not documented, the broader Hoyle Casino series included various hidden features. Earlier versions featured "The Sultan," described by one reviewer as "the weirdest thing in the whole game" where players could drop a quarter into a face, and if it hit the mouth, the Sultan would say something[^ref-9].
-
-The game disc included demos for other Hoyle products and games[^ref-7]:
-- Video Poker demo
-- Placer Racer demo
-- Anagrams demo
-- Backgammon demo
-- Hearts demo
-- Facemaker tool
+The disc also carried a Hoyle demo with Video Poker, Placer Racer, Anagrams, Backgammon and Hearts, plus the Facemaker tool[^ref-7].
 
 ## Voice Cast
 
-Hoyle Casino 2001 does not feature extensive voice acting. The game relies primarily on text-based interactions with computer opponents rather than voiced dialogue.
+No voice cast is documented for this edition.
 
 ## Legacy
 
-### Sales and Commercial Impact
-
-Hoyle Casino 2001 achieved significant commercial success as part of the broader Hoyle Casino franchise. The series sold 230,365 units and earned $6.15 million from January through October 2000 in North America[^ref-2]. During the week of February 11-17, 2001, the game reached fifth place on PC Data's best-selling games chart[^ref-3], competing alongside major titles like The Sims and demonstrating the strong market for casino simulation games.
-
-The game was published under different corporate umbrellas during its retail life, including Havas Interactive[^ref-3] and later Vivendi Universal Games[^ref-6], reflecting the corporate changes affecting Sierra's parent company during this period.
-
 ### Collections
 
-Hoyle Casino 2001 was not prominently featured in compilation releases, though it remained part of Sierra's ongoing Hoyle product line. The game has since been discontinued[^ref-6] and is no longer available through official retail channels.
+The game was later included in the compilation 3 Hoyles: Card, Casino and Board Games (2003)[^ref-1].
 
 ### Fan Projects
 
-No significant fan projects, remakes, or modifications have been documented for Hoyle Casino 2001. The game's status as a commercially-oriented casino simulation rather than a narrative-driven adventure game limited its appeal to the modding and preservation communities that have supported other Sierra titles.
-
-### Related Publications
-
-**Included Materials:**[^ref-7]
-- Retail package in flip-top box with flap
-- Strategy guide was not included with the standard edition[^ref-5]
-
-### Critical Perspective
-
-Hoyle Casino 2001 represents an interesting artifact of early 2000s casual gaming, demonstrating the market viability of casino simulation software before the emergence of online gambling platforms and casino apps. While not as celebrated as Sierra's adventure game catalog, the Hoyle series provided consistent revenue and served a dedicated audience of players seeking risk-free gambling entertainment.
-
-The game's design philosophy prioritized accessibility and authenticity, teaching players casino game rules while providing entertaining competition against AI opponents. As one contemporary reviewer noted, quality casino games were rare, making competent entries like Hoyle Casino 2001 valuable to genre enthusiasts[^ref-9]. The franchise's longevity—continuing through multiple annual editions and eventually being acquired by Encore—testifies to the sustained demand for this type of simulation software.
-
-However, the game's technical issues and eventual obsolescence highlight the challenges facing software products tied to specific operating system generations. The compatibility problems experienced by users, particularly on Mac systems, foreshadowed the preservation challenges that would affect much of Sierra's catalog as computing platforms evolved[^ref-6].
+No fan projects have been documented for this edition.
 
 ## Downloads
 
@@ -206,15 +150,15 @@ However, the game's technical issues and eventual obsolescence highlight the cha
 - [GOG Dreamlist – Vote for re-release](https://www.gog.com/dreamlist)
 
 **Download / Preservation**
-- [Sierra Chest](https://sierrachest.com/index.php?a=games&id=810&title=hoyle-casino-2001)
-- [My Abandonware](https://www.myabandonware.com/game/hoyle-casino-hzg)
+- [Sierra Chest](https://sierrachest.com/index.php?a=games&id=810&title=hoyle-casino-6)
+- [Sierra Help – Hoyle Casino 2002 1.0.1.0 patch](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html)
 
 **Retail (Sealed/Used)**
 - [Never Die Media](https://www.neverdiemedia.com/products/hoyle-casino-2001)
 
 ## See Also
 
-[[1989 - Hoyle Official Book of Games - Volume 1]]
+- [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
 - [[1991 - Hoyle Official Book of Games - Volume 4]]
@@ -269,18 +213,13 @@ However, the game's technical issues and eventual obsolescence highlight the cha
 
 ## References
 
-[^ref-1]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/72735/hoyle-casino/) – designer credits, game description, new features
-[^ref-2]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – sales data, platform releases, series history, bug documentation
-[^ref-3]: [GameSpot – Sales Charts Article](https://www.gamespot.com/articles/sims-still-dominating-sales-charts/1100-2691294/) – PC Data sales ranking, publisher information
-[^ref-4]: [GameFAQs – Hoyle Casino 2001](https://gamefaqs.gamespot.com/pc/448849-hoyle-casino-2001) – release date, developer, user ratings
-[^ref-5]: [NeverDieMedia – Product Listing](https://www.neverdiemedia.com/products/hoyle-casino-2001) – game features, player count, multiplayer support
-[^ref-6]: [Amazon India – Hoyle Casino 2001](https://www.amazon.in/Hoyle-Casino-2001-PC-Mac/dp/B00004Y7TU) – release date, customer reviews, technical specifications, bug reports
-[^ref-7]: [Sierra Chest – Hoyle Casino 6](https://sierrachest.com/index.php?a=games&id=810&title=hoyle-casino-6&fld=box) – UPC, version info, included demos, packaging details
-[^ref-8]: [GameFAQs – Hoyle Casino 2001 Reviews](https://gamefaqs.gamespot.com/pc/448849-hoyle-casino-2001/reviews) – GameSpot score
-[^ref-9]: [GameFAQs – Hoyle Casino User Review](https://gamefaqs.gamespot.com/pc/52155-hoyle-casino/reviews/651) – reviewer quotes, Sultan Easter egg
-[^ref-10]: [Metacritic – Hoyle Casino 2001](https://www.metacritic.com/game/hoyle-casino-2001/) – release date, developer/publisher confirmation
-[^ref-11]: [Michigan State University Library – Game Catalog](https://lib.msu.edu/rovi_game/8552) – ESRB rating, platform, publisher
-[^ref-12]: [Metacritic – Hoyle Casino 2001 Details](https://www.metacritic.com/game/hoyle-casino-2001/details/) – release date confirmation
-[^ref-13]: [Giant Bomb – Hoyle Casino 2001](https://giantbomb.com/wiki/Games/Hoyle_Casino_2001) – release date, developer confirmation
-[^ref-14]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise information
-[^ref-17]: [PriceCharting ES – Hoyle Casino](https://www.pricecharting.com/es/game/pc-games/hoyle-casino) – platform confirmation, disc count
+[^ref-1]: [MobyGames – Hoyle Casino (2001)](https://www.mobygames.com/game/72735/hoyle-casino/) – aka Hoyle Casino 6, released August 30, 2001, sixth in series, new Baccarat/Video Blackjack, credits
+[^ref-2]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series premise: profiles, virtual money, virtual casino
+[^ref-5]: [NeverDieMedia – Product Listing](https://www.neverdiemedia.com/products/hoyle-casino-2001) – listing describes the 14-game edition with Baccarat, Video Blackjack and Palm video poker; eight computer opponents, four players per computer, online play
+[^ref-7]: [Sierra Chest – Hoyle Casino 6](https://sierrachest.com/index.php?a=games&id=810&title=hoyle-casino-6&fld=box) – first release 2001-09-25, version 1.0.0.0, UPC 0-20626-71428-0, Box ID 3108, included demos
+[^ref-17]: [PriceCharting – Hoyle Casino](https://www.pricecharting.com/es/game/pc-games/hoyle-casino) – UPC 020626714280, ASIN B00005MJ9H, developer/publisher Sierra, 1 disc
+[^ref-18]: [Macworld – Sierra releases new Hoyle games for 2002](https://www.macworld.com/article/163096/hoyle.html) – September 30, 2001; 14 games, new Baccarat and Video Blackjack, Palm video poker, hybrid PC/Mac CD-ROM, $29.95
+[^ref-19]: [The Sierra Help Pages – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – Hoyle Casino 2002 1.0.1.0 update (hoylecasino6patch1) and its fixes
+[^ref-20]: [GameGenie – Hoyle Casino (2002) review](https://gamegenie.com/reviews/pc/hoylecasino.html) – James Allen's review; game list, features, system requirements, verdict
+[^ref-21]: [Amazon.ca – Hoyle Casino 2002](https://www.amazon.ca/Hoyle-Casino-2002-PC-Mac/dp/B00005MJ9H) – Windows/Macintosh, rated Everyone, 2.5/5 from 13 ratings, July 2002 customer review
+[^ref-22]: [Amazon.com – Hoyle Casino 2001 - PC/Mac](https://www.amazon.com/dp/B00004Y7TU) – the preceding edition, release date October 8, 2000
