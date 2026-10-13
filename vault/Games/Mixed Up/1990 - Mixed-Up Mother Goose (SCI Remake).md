@@ -101,7 +101,7 @@ Mixed-Up Mother Goose became "one of the best-loved children's software titles o
 
 The game's influence extends beyond its immediate success. It demonstrated that adventure games could be educational tools, paving the way for Sierra's later educational titles and inspiring other developers to explore similar concepts. Ken Williams' philosophy that they were "running a 'club' where our job was to build cool product for people who had bought from us before" is exemplified in how Sierra continued to support and remake this title across multiple generations of technology.
 
-The preservation community's continued interest, evidenced by active wishlist campaigns on digital distribution platforms[^ref-9] and abandonware archives[^ref-1], demonstrates the game's enduring cultural significance. Historical gaming blogs have documented its place in Sierra's educational software lineage[^ref-4][^ref-8]. Comments like "The thought of having a complete sierra catalog digitally preserved alone should bring in more votes for this game"[^ref-9] reflect both nostalgia for the title and recognition of its historical importance in gaming.
+The preservation community's continued interest, evidenced by active wishlist campaigns on digital distribution platforms[^ref-9], demonstrates the game's enduring cultural significance. Historical gaming blogs have documented its place in Sierra's educational software lineage[^ref-4][^ref-8]. Comments like "The thought of having a complete sierra catalog digitally preserved alone should bring in more votes for this game"[^ref-9] reflect both nostalgia for the title and recognition of its historical importance in gaming.
 
 **Purchase / Digital Stores**
 
@@ -113,7 +113,6 @@ No official digital downloads are available. The games can be found on preservat
 
 - **Internet Archive:** [MS-DOS 1991 Version](https://archive.org/details/msdos_Mixed-Up_Mother_Goose_1991) - Original floppy disk version[^ref-5]
 - **MyAbandonware:** [Mixed-Up Mother Goose](https://www.myabandonware.com/game/roberta-williams-mixed-up-mother-goose-254) - Community-preserved copy[^ref-25]
-- **AbandonwareDOS:** [Search Results](https://www.abandonwaredos.com/search.php?search=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Downloadable versions[^ref-1]
 - **ROMs Fun:** [Basic Metadata](https://romsfun.com/roms/ms-dos/roberta-williams-mixed-up-mother-goose.html) - ROM distribution information[^ref-30]
 - **Play Classic Games:** [Play Online](https://playclassic.games/games/adventure-dos-games-online/play-roberta-williams-mixed-mother-goose-online/) - Browser-based version[^ref-28]
 - **Play Old Games:** [Technical Details](https://playold.games/play-game/roberta-williams-mixed-up-mother-goose/) - Gameplay information[^ref-29]
@@ -128,7 +127,6 @@ The Mixed-Up series represents Sierra's notable effort in educational adventure 
 
 ## References
 
-[^ref-1]: [AbandonwareDOS Search Results](https://www.abandonwaredos.com/search.php?search=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Basic search listing
 [^ref-2]: Adventure Gamers - SCI Remake Entry *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Game database information and description
 [^ref-3]: [Adventure Gamers - Database Entry](https://web.archive.org/web/20231130082512/https://adventuregamers.com/games/view/36614) - Additional game metadata and description
 [^ref-4]: [AdvGamer Blog - Pepper's Adventures Analysis](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) - Sierra Discovery Series context and development information
