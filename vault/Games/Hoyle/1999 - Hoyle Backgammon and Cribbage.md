@@ -7,10 +7,10 @@ publisher: Sierra On-Line, Inc.
 genre: Board Game
 platforms: [Windows, Mac]
 series: Hoyle
-engine: Proprietary (Windows)
+engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-05-27'
+last_updated: '2026-10-13'
 composer: [Evan Schiller]
 description: Hoyle Backgammon & Cribbage is a digital adaptation of two classic board
   and card games released by Sierra On-Line in 1999 for Windows and Macintosh...
@@ -18,23 +18,23 @@ tags: [1990s, hoyle, sierra]
 ---
 # Hoyle Backgammon & Cribbage
 
-<small style="color: gray">Last updated: May 27, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Hoyle Backgammon & Cribbage is a digital adaptation of two classic board and card games released by [[Sierra On-Line]] in 1999 for Windows and Macintosh platforms.[^ref-1][^ref-2][^ref-13][^ref-14][^ref-15][^ref-16] The game was part of Sierra's long-running Hoyle series, which had been bringing traditional games to home computers since 1989.[^ref-3][^ref-21] Named after 18th century playing card expert Edmond Hoyle, the series was renowned for its accessible yet faithful recreations of beloved tabletop games.[^ref-3][^ref-22]
+Hoyle Backgammon & Cribbage is a digital adaptation of two classic board and card games released by [[Sierra On-Line]] in 1999 for Windows and Macintosh platforms.[^ref-1][^ref-2][^ref-13][^ref-14][^ref-15][^ref-25] The game was part of Sierra's long-running Hoyle series, which had been bringing traditional games to home computers since 1989.[^ref-3][^ref-21] The series is named after 18th-century playing card expert Edmond Hoyle.[^ref-3]
 
-The title combined two distinct games: backgammon, the ancient race game where players move markers around the board attempting to bear off all their pieces first, and cribbage, a classic card game involving strategic card play and a distinctive scoring board.[^ref-1] Players could challenge ten different computer-controlled opponents of varying skill levels or compete against friends via internet play, a feature that was becoming increasingly common in late 1990s gaming.[^ref-1]
+The title combined two games: backgammon, in which players move their markers around the board and off it, the first to remove all their pieces winning, and cribbage, played with a deck of cards and a cribbage board.[^ref-1] Players could challenge ten computer-controlled opponents or play against friends over the internet.[^ref-1] Online play ran through Sierra's WON.NET service; Wikipedia's list of WON-enabled games places the title on the Hoyle Channel from March 15, 1999, with a WON shut-down date of February 29, 2000.[^ref-24][^ref-26]
 
-Released during a turbulent period in Sierra's corporate history—just months after the February 1999 "Black Monday" layoffs that saw approximately 135 employees lose their jobs—Hoyle Backgammon & Cribbage represented the company's continued commitment to their casual gaming catalog even as their adventure game division faced significant restructuring.[^ref-4] The game received an ESRB rating of Everyone, making it suitable for players of all ages.[^ref-1][^ref-8][^ref-9][^ref-10]
+The game arrived during a turbulent period in Sierra's corporate history, shortly after the February 1999 "Black Monday" closures in which approximately 135 employees lost their jobs.[^ref-4] The game was rated Everyone by the ESRB.[^ref-1][^ref-2][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
 > **Designer:** Paul Horn, Rabih AbouJaoudé, Michael Katz, Robert L. Jerauld[^ref-1]
 > **Publisher:** Sierra On-Line, Inc.[^ref-1]
 > **Engine:** Unknown
-> **Platforms:** Windows, Macintosh[^ref-1][^ref-2]
-> **Release Year:** 1999[^ref-2]
+> **Platforms:** Windows, Macintosh[^ref-1][^ref-2][^ref-9]
+> **Release Year:** 1999[^ref-2][^ref-8]
 > **Series:** Hoyle[^ref-3]
 > **Protagonist:** N/A
 > **Sierra Lineage:** Core Sierra
@@ -43,40 +43,30 @@ Released during a turbulent period in Sierra's corporate history—just months a
 
 As a digital adaptation of classic board and card games, Hoyle Backgammon & Cribbage does not feature a traditional narrative story. Instead, the game focuses on providing authentic recreations of both backgammon and cribbage with computer opponents and multiplayer functionality.[^ref-1]
 
-In backgammon, players engage in the time-honored race game where the objective is to move all fifteen of their markers around the board and off before their opponent can do the same.[^ref-1] The game incorporates all traditional backgammon rules including the doubling cube, hitting and entering from the bar, and bearing off procedures.
+In backgammon, the objective is to move all of one's markers around the board and off it; the first player to remove all their pieces wins.[^ref-1]
 
-Cribbage, the other half of this package, involves players using a standard deck of cards in combination with a traditional cribbage board for scoring.[^ref-1] Players form combinations of cards to accumulate points, "leapfrogging" their pegs around the board toward the finish line in a race to 121 points.[^ref-1] The game includes all standard cribbage conventions including the crib, pegging, and go situations.
+Cribbage, the other half of the package, uses a deck of cards and a cribbage board. Using certain combinations of cards, players "leapfrog" around the board toward the finish line, and the first to cross it wins.[^ref-1] Each hand begins with both players placing two discards into the crib, followed by a pegging phase.[^ref-28]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Hoyle Backgammon & Cribbage utilized a point-and-click interface controlled via keyboard and mouse.[^ref-1] The game presented both backgammon and cribbage through intuitive graphical interfaces that faithfully represented their physical counterparts while taking advantage of computer automation for scoring and rule enforcement.
+Hoyle Backgammon & Cribbage supports keyboard and mouse input.[^ref-1] Players enter an ID at startup, and the game runs in a small window or in a "Fill Screen" mode.[^ref-28] In backgammon, dice are rolled by double-clicking the dice case and counters are moved by drag and drop; selecting a counter shows where it can legally move, an aid that can be switched off.[^ref-28] In cribbage, the game shows not just each hand's point total but how the score was achieved.[^ref-28]
+
+A Customise option lets players change the controls and background and add a photo of their choice to represent their opponent. There are thirty backgrounds, 25 card backs and four card-face styles.[^ref-28] Each game opens by explaining its rules, and match statistics are shown after every game.[^ref-28]
 
 ### Structure and Progression
 
 The game offered two distinct gaming experiences packaged together:
 
-- **Backgammon:** Complete implementation of the classic race game with computer opponents of varying difficulty levels[^ref-1]
-- **Cribbage:** Full cribbage experience including the board, dealing, pegging, and scoring phases[^ref-1]
+- **Backgammon:** played against a computer or online opponent[^ref-1]
+- **Cribbage:** dealing, discards to the crib, pegging and scoring on the board[^ref-28]
 
-Players could compete against ten different computer-controlled opponents, each presumably offering different playing styles and skill levels.[^ref-1] For those seeking human competition, the game supported internet multiplayer, allowing friends to compete remotely.[^ref-1]
+Players could compete against ten computer-controlled opponents,[^ref-1] among them Roswell, a friendly alien whose eyes flash now and then, who waves its arms and occasionally claims to have Elvis, and Jasper.[^ref-28] For human competition, the game supported play against friends over the internet.[^ref-1]
 
 ### Puzzles and Mechanics
 
-Rather than traditional puzzles, Hoyle Backgammon & Cribbage focused on strategic gameplay mechanics inherent to both featured games.
-
-In backgammon, players faced strategic decisions regarding:[^ref-1]
-- Movement of checkers based on dice rolls
-- When to hit opponent's blots
-- Timing of bearing off
-- Use of the doubling cube
-
-Cribbage gameplay required mastery of:[^ref-1]
-- Card selection for the crib
-- Optimal play order during pegging
-- Recognition of scoring combinations (fifteens, pairs, runs, flushes)
-- Strategic go decisions
+There are no puzzles in the adventure-game sense; play consists of the standard rules of backgammon and cribbage.[^ref-1] Comprehensive instructions are available during play as well as at the start of each game.[^ref-28]
 
 ## Reception
 
@@ -86,40 +76,45 @@ Due to the limited availability of contemporary gaming magazine reviews in the r
 
 ### Modern Assessment
 
-Modern retrospective assessments of Hoyle Backgammon & Cribbage have been modest. GameFAQs users rated the game as "Fair" based on 2 user ratings.[^ref-5][^ref-18] The game falls within the broader Hoyle series franchise, which maintained a steady following among casual game enthusiasts throughout the late 1990s.[^ref-3][^ref-19][^ref-20].
+Modern retrospective assessments of Hoyle Backgammon & Cribbage have been modest. GameFAQs users rated the PC version "Fair" based on 2 ratings;[^ref-5] the Mac version is unrated there.[^ref-29] Metacritic lists no critic or user reviews.[^ref-15]
 
 **Aggregate Scores:**
-- **MobyGames:** 85% (user rating)[^ref-1]
+- **MobyGames:** 85% critic average (1 review); players 2.0 out of 5 (2 ratings)[^ref-27]
 - **GameFAQs:** Fair (2 ratings)[^ref-5]
+- **Metacritic:** tbd (no reviews)[^ref-15]
 
 ## Development
 
 ### Origins
 
-Hoyle Backgammon & Cribbage emerged from Sierra's successful Hoyle series, which had been producing digital versions of classic games since the first volume in 1989.[^ref-3] The series was named after Edmond Hoyle, the 18th century author whose books on card games established standardized rules still referenced today.[^ref-3] By 1999, the Hoyle brand had expanded to cover various card games, board games, puzzles, dice games, and casino simulations.[^ref-3]
+Hoyle Backgammon & Cribbage emerged from Sierra's successful Hoyle series, which had been producing digital versions of classic games since the first volume in 1989.[^ref-3] The series was named after Edmond Hoyle, the 18th-century playing card expert.[^ref-3] By 1999, the Hoyle brand had expanded to cover various card games, board games, puzzles, dice games, and casino simulations.[^ref-3]
 
 ### Production
 
-The game was developed internally at Sierra On-Line, Inc. during a challenging period for the company.[^ref-4] Following CUC International's acquisition of Sierra in July 1996 and subsequent merger with HFC Incorporated to form Cendant Corporation in December 1997, the company faced significant corporate upheaval.[^ref-4] The 1998 financial scandal involving Cendant's leadership caused stock prices to plummet from $39 to $20 per share, leading to substantial financial losses and restructuring.[^ref-4]
+The game was developed internally at Sierra On-Line, Inc.[^ref-1] In a 1998 reorganization, Sierra Attractions became the division responsible for series such as Hoyle.[^ref-10] Following CUC International's acquisition of Sierra in July 1996[^ref-4] and CUC's merger with HFS Incorporated (Hospitality Franchise Systems) to form Cendant Corporation on December 18, 1997,[^ref-10][^ref-23] the company faced significant corporate upheaval.[^ref-4] The 1998 financial scandal involving Cendant's leadership caused stock prices to plummet from $39 to $20 per share, leading to substantial financial losses and restructuring.[^ref-4]
 
-The development team completed the project despite these corporate challenges, releasing the game in early 1999.[^ref-6] The game featured voice work recorded by Pat Cashman and an original score by composer Evan Schiller.[^ref-1]
+The development team completed the project despite these corporate challenges, releasing the game in early 1999.[^ref-6] All voices were recorded at Clatter and Din Studios in Seattle, with a cast of nine, and the score was composed by Evan Schiller.[^ref-26]
 
-**Development Credits:**[^ref-1]
+**Development Credits:**[^ref-26]
+- **Executive Producer:** Stephen H. Van Horn
+- **Producer:** Karen Thomas
+- **Associate Producer:** Robert L. Jerauld
 - **Designers:** Paul Horn, Rabih AbouJaoudé, Michael Katz, Robert L. Jerauld
+- **Lead Engineers:** Earl Malmrose, Michael Katz
+- **Script Writers:** Jeff Hoyt, Allan Batchelder, Rodney Sherwood, Robert L. Jerauld
 - **Composer:** Evan Schiller
-- **Voice Actor:** Pat Cashman
+- **Voice Actors:** Pat Cashman and eight others (see Voice Cast)
 
 ### Technical Achievements
 
-Hoyle Backgammon & Cribbage was developed for both Windows and Macintosh platforms, demonstrating Sierra's continued commitment to cross-platform compatibility during this era.[^ref-1][^ref-2] The game supported internet multiplayer functionality, allowing players to compete against friends remotely—a feature that was becoming increasingly important in late 1990s gaming.[^ref-1]
+Hoyle Backgammon & Cribbage was released for both Windows and Macintosh.[^ref-1][^ref-2] Its internet play was built on WON.NET, and the credits list a separate WON.NET team.[^ref-24][^ref-26]
 
 ### Technical Specifications
 
-**CD-ROM Version:**[^ref-1]
-- **Platforms:** Windows, Macintosh
-- **Media:** CD-ROM, Download
-- **Input Devices:** Keyboard, Mouse
-- **ESRB Rating:** Everyone
+**Minimum requirements:**[^ref-1]
+- **Windows:** Windows 95, Intel Pentium, 8 MB RAM, 640×480 with 256 colors; CD-ROM (also listed as a download); keyboard and mouse
+- **Macintosh:** PowerPC G3, Mac OS 8.1, 32 MB RAM, 4X CD-ROM; mouse
+- **Ratings:** ESRB Everyone (Windows); ELSPA 3+[^ref-1][^ref-2][^ref-15]
 
 ### Cut Content
 
@@ -129,11 +124,11 @@ No specific information about cut content has been documented in available sourc
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | March 15, 1999 | IBM PC, Macintosh | Initial release[^ref-6] |
-| US Retail | May 1999 | PC | US retail release[^ref-2] |
-| EU Release | August 10, 2001 | PC | European release[^ref-2] |
+| Initial | March 15, 1999 | IBM PC, Macintosh | First release date[^ref-6][^ref-24] |
+| US Retail | May 1999 | Macintosh | US release[^ref-2][^ref-29] |
+| EU Release | August 10, 2001 | PC | European release[^ref-1][^ref-2] |
 
-The game was released on multiple dates across different regions, with the initial release occurring in March 1999,[^ref-6] followed by the US retail release in May 1999,[^ref-2] and a later European release in October 2001.[^ref-2]
+Sierra Chest gives a first release date of March 15, 1999,[^ref-6] matching the WON launch date;[^ref-24] GameFAQs lists the US Mac release as May 1999[^ref-29] and a European PC release on August 10, 2001,[^ref-2] and MobyGames lists a UK release in 2001.[^ref-1]
 
 ### Technical Issues
 
@@ -145,19 +140,17 @@ Earlier Hoyle titles were known for featuring humorous computer opponents drawn 
 
 The Hoyle series utilized trademarks and designs from the Hoyle brand of playing cards under license from Brown & Bigelow.[^ref-3]
 
+The credits acknowledge a photograph of the Sojourner Mars Rover, which appears courtesy of the Jet Propulsion Laboratory.[^ref-26]
+
 ## Voice Cast
 
-| Character | Voice Actor |
-|-----------|-------------|
-| Various/Narrator | Pat Cashman |
-
-Voice work by Pat Cashman.[^ref-1]
+The credits list nine voice actors without assigning roles: Pat Cashman, Jock Blaney (credited as Jaque Blaney), Cynthia Doyer, Rodney Sherwood, Jeff Hoyt, William Hall Jr., Amy Frazier, M. J. King and Allan Batchelder. All voices were recorded at Clatter and Din Studios in Seattle.[^ref-26]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Hoyle Backgammon & Cribbage was released during a tumultuous period in Sierra Entertainment's history. The game arrived just months after the February 22, 1999 "Black Monday" layoffs, which saw the closure of multiple Sierra development studios and approximately 135 employees losing their jobs.[^ref-4] Despite these challenges, Sierra continued to support their casual gaming catalog, with the Hoyle series remaining a consistent part of their lineup.
+Hoyle Backgammon & Cribbage was released during a tumultuous period in Sierra Entertainment's history. The game arrived just months after the February 22, 1999 "Black Monday" layoffs, which saw the closure of multiple Sierra development studios and approximately 135 employees losing their jobs.[^ref-4] No sales figures for the game have been documented in available sources.
 
 ### Collections
 
@@ -173,11 +166,7 @@ The game was associated with the broader Hoyle brand, which had connections to E
 
 ### Critical Perspective
 
-Hoyle Backgammon & Cribbage represents a specific moment in Sierra Entertainment's history—the late 1990s period when the company was transitioning from an independent developer and publisher into a subsidiary of larger corporate entities.[^ref-7] The game exemplifies Sierra's strategy of maintaining their casual gaming catalog even as their more prominent adventure game divisions faced restructuring.
-
-The Hoyle series as a whole had a significant impact on the digital adaptation of traditional games, bringing classic card and board games to personal computers at a time when such entertainment options were limited.[^ref-3] While individual titles like Hoyle Backgammon & Cribbage may not have achieved the cultural impact of Sierra's adventure games, they provided consistent revenue and introduced countless players to traditional games in digital form.
-
-The game also serves as a historical artifact of late 1990s gaming, representing the era's approach to casual games before the mobile gaming revolution would transform the landscape entirely. Its inclusion of internet multiplayer functionality demonstrates Sierra's awareness of emerging online gaming trends.[^ref-1]
+Hoyle Backgammon & Cribbage was released after Sierra had passed from independent ownership to CUC International and then Cendant.[^ref-4][^ref-7] Little critical writing about the game survives: MobyGames records a single critic score,[^ref-27] and Metacritic has no reviews.[^ref-15] Its internet play, offered through WON.NET's Hoyle Channel, was listed with a WON shut-down date of February 29, 2000.[^ref-24]
 
 ## Purchase
 
@@ -265,11 +254,12 @@ The game also serves as a historical artifact of late 1990s gaming, representing
 [^ref-10]: [Academic Kids Encyclopedia – Sierra Entertainment](https://academickids.com/encyclopedia/index.php/Sierra_Entertainment) – Sierra company information, Hoyle series mention
 [^ref-13]: [Italian Wikipedia – Sierra Entertainment](https://it.wikipedia.org/wiki/Sierra_Entertainment) – Sierra company history
 [^ref-14]: [Bosnian Wikipedia – Sierra Entertainment](https://bs.wikipedia.org/wiki/Sierra_Entertainment) – Sierra founding history, Ken and Roberta Williams
-[^ref-15]: [Metacritic – Hoyle Backgammon and Cribbage](https://www.metacritic.com/game/hoyle-backgammon-and-cribbage/) – review aggregate page for the 1999 release
-[^ref-16]: [Amazon – Hoyle Backgammon and Cribbage customer reviews](https://www.amazon.com/Hoyle-Backgammon-Cribbage-PC-Mac/product-reviews/B00001JZMQ?reviewerType=all_reviews) – verified-purchase customer feedback for the 1999 PC/Mac release
-[^ref-17]: [eBay – Vintage Hoyle Classic Backgammon & Cribbage (PC 1999)](https://www.ebay.com/itm/356902899968) – physical media listing documenting original 1999 retail packaging
-[^ref-18]: [Internet Archive – Hoyle Classic Games](https://archive.org/details/hoyle-classic-games) – Sierra preservation collection including Backgammon & Cribbage variants
-[^ref-19]: [Internet Archive – Hoyle Classic Games '98 (USA)](https://archive.org/details/hoyle-classic-games-98-usa) – preceding-year Hoyle Classic Games compilation providing series continuity context
-[^ref-20]: [Software Informer – Hoyle Backgammon & Cribbage](https://hoyle-backgammon-cribbage.software.informer.com/) – download repository entry with technical specifications and user ratings
+[^ref-15]: [Metacritic – Hoyle Backgammon and Cribbage](https://www.metacritic.com/game/hoyle-backgammon-and-cribbage/) – listing page; rated E for Everyone, Metascore and user score "tbd" (no reviews)
 [^ref-21]: [GameFAQs – Hoyle franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise-level catalog of Sierra's Hoyle releases
-[^ref-22]: [GameFAQs – Hoyle Board Games (review)](https://gamefaqs.gamespot.com/pc/562390-hoyle-board-games/reviews/76927) – contemporary review of sister Hoyle title establishing series critical context
+[^ref-23]: [Wikipedia – Cendant](https://en.wikipedia.org/wiki/Cendant) – HFS (Hospitality Franchise Systems) and CUC International merged on December 18, 1997, to form Cendant
+[^ref-24]: [Wikipedia – List of WON-Enabled games](https://en.wikipedia.org/wiki/List_of_WON-Enabled_games) – Hoyle Classic Backgammon & Cribbage, released and WON-launched March 15, 1999, Hoyle Channel, WON shut-down February 29, 2000
+[^ref-25]: [Wikipedia – List of Sierra Entertainment video games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – 1999 entry, Macintosh and Windows, developed and published by Sierra On-Line
+[^ref-26]: [MobyGames – Hoyle Backgammon & Cribbage credits (Windows)](https://www.mobygames.com/game/2872/hoyle-backgammon-cribbage/credits/windows/) – full credits, voice cast, Clatter and Din Studios, WON.NET team, JPL photo acknowledgement
+[^ref-27]: [MobyGames – Hoyle Backgammon & Cribbage reviews](https://www.mobygames.com/game/2872/hoyle-backgammon-cribbage/reviews/) – critic average 85% (1 rating); player average 2.0 out of 5 (2 ratings)
+[^ref-28]: [MobyGames – Hoyle Backgammon & Cribbage screenshots (Windows)](https://www.mobygames.com/game/2872/hoyle-backgammon-cribbage/screenshots/) – captions describing customisation, opponents Roswell and Jasper, controls and cribbage play
+[^ref-29]: [GameFAQs – Hoyle Backgammon & Cribbage (Mac)](https://gamefaqs.gamespot.com/mac/350627-hoyle-backgammon-and-cribbage) – Macintosh version, Sierra On-Line, released May 1999, unrated by users
