@@ -168,7 +168,7 @@ While Moebius did not achieve the critical success of Jensen's Gabriel Knight se
 [^ref-11]: [Game Boomers](https://www.gameboomers.com/wtcheats/pcMm/Moebius/Moebius.htm) – - Thematic quote
 [^ref-12]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MoebiusEmpireRising) – - Interface details
 [^ref-13]: [Eurogamer.de](http://www.eurogamer.de/articles/2014-04-25-moebius-empire-rising) – - Gameplay duration
-[^ref-14]: [JayIsGames](https://jayisgames.com/review/moebius-empire-rising.php) – - Story structure
+[^ref-14]: [JayIsGames (archived 2016)](http://web.archive.org/web/20160417140030/http://jayisgames.com/review/moebius-empire-rising.php) – - Story structure
 [^ref-15]: [GOG](https://www.gog.com/en/game/moebius) – - Character abilities description
 [^ref-16]: [Choicest Games](https://www.choicestgames.com/2014/04/moebius-empire-rising-review.html) – - Profiling mechanic
 [^ref-17]: [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=686312239) – - Easter eggs
