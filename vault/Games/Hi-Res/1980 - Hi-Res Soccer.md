@@ -1,176 +1,147 @@
 ---
-title: Hi Res Soccer
-release_year: 1980
+title: Hi-Res Soccer
+release_year: 1981
 developer: On-Line Systems
-designer: [Jay Sullivan, Steven A. Dunn]
+designer: [Jay Sullivan, Ken Williams]
 publisher: On-Line Systems
 genre: Sports
-platforms: [Apple II, Amiga, DOS, PC, Windows]
+platforms: [Apple II]
 series: Hi-Res Sports
-engine: Apple II Assembly
+engine: Machine Language
 protagonist: Soccer Team (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: Hi Res Soccer was an early attempt at recreating European football on
-  a computer, developed during the pioneering days of computer gaming. Released...
+last_updated: '2026-10-12'
+description: Hi-Res Soccer is a 1981 real-time soccer game for the Apple II by Jay
+  Sullivan and Ken Williams, published by On-Line Systems, the company that became
+  Sierra On-Line.
 tags: [1980s, hi-res-sports, sierra]
 ---
-# Hi Res Soccer
+# Hi-Res Soccer
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Hi Res Soccer was an early attempt at recreating European football on a computer, developed during the pioneering days of computer gaming[^ref-1]. Released initially for the Apple II in 1980-1981 by On-Line Systems (later Sierra On-Line), it represented one of the first real-time action soccer games available for personal computers[^ref-2]. The game was marketed with the bold claim that it was "the only real-time action Soccer game available for your computer! All tackling, goal kicking, throwing, corner kicks, etc., are shown in full Hi-Res Graphics"[^ref-2].
+Hi-Res Soccer is a real-time soccer game for the Apple II, published in 1981 by On-Line Systems of Coarsegold, California, the company that later became Sierra On-Line[^ref-1][^ref-20]. Softalk announced it in April 1981: "Ken Williams and Jay Sullivan have jumped from the football gridiron to the soccer field with Soccer from On-Line Systems," following the pair's Hi-Res Football[^ref-20]. On-Line's advertising called it "the only real-time action Soccer game available for your computer!"[^ref-21][^ref-23]
 
-The game later received a more sophisticated incarnation in 1994 as "Sierra Soccer: World Challenge Edition" for the Amiga platform, developed by Coktel Vision and published by Sierra On-Line[^ref-3]. This later version became notable as the last title Sierra published for the Amiga platform[^ref-3]. The World Cup '94 themed version allowed players to compete with either the original teams or random groups, capitalizing on the soccer fever of that year[^ref-4].[^ref-15][^ref-16]
+Two teams of eight players each are controlled with the Apple's game paddles, and the game can be played by two people or by one player against the computer[^ref-1][^ref-21]. It sold for $29.95 on disk and needed a 48K Apple II or II Plus with DOS 3.2 or 3.3[^ref-21][^ref-24].
 
 > [!info]- Game Info
-> **Developer:** [[On-Line Systems]] (1980), [[Coktel Vision]] (1994)[^ref-1][^ref-3]
-> **Designer:** Jay Sullivan, Steven A. Dunn[^ref-1]
-> **Publisher:** On-Line Systems, [[Sierra On-Line]][^ref-2][^ref-3]
-> **Platforms:** Apple II, Amiga, DOS, PC, Windows[^ref-2]
-> **Release Year:** 1980
+> **Developer:** [[On-Line Systems]][^ref-1]
+> **Designer:** Jay Sullivan, [[Ken Williams]][^ref-20][^ref-21]
+> **Publisher:** [[On-Line Systems]][^ref-1]
+> **Engine:** Machine Language[^ref-22]
+> **Platforms:** Apple II[^ref-1]
+> **Release Year:** 1981[^ref-1][^ref-20]
 > **Series:** Hi-Res Sports
-> **Sierra Lineage:** Core Sierra
-> **Engine:** Apple II Assembly
 > **Protagonist:** Soccer Team (player-controlled)
+> **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-Hi Res Soccer does not feature a traditional narrative structure, instead focusing on pure sports simulation. The game allows players to compete in single real-time matches against either another human player or against an AI opponent[^ref-1]. The later 1994 version incorporated a World Cup theme, allowing tournament play with up to 8 players and featuring authentic team rosters from the 1994 World Cup[^ref-4].
+Hi-Res Soccer has no story. It is a single-match sports game: a green team plays a purple team, and players can type in their own team names before kick-off[^ref-1][^ref-22].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The original Apple II version utilized a top-down perspective with fixed/flip-screen visual presentation and direct control interface[^ref-1]. Players controlled their teams using paddles, which were the standard input devices for the Apple II platform at the time[^ref-1]. The game supported both single-player (against an AI opponent called "Apple") and multiplayer modes, with the latter supporting two players who could share a keyboard[^ref-1][^ref-6]. The marketing emphasized its real-time nature: "All tackling, goal kicking, throwing, corner kicks, etc., are shown in full Hi-Res Graphics"[^ref-2].
+The game is viewed from above and controlled with game paddles[^ref-1]. Each player controls all eight men on one team: the paddle dial sets the direction a player runs, and where the ball sits in relation to a player's feet decides the direction of a kick[^ref-21][^ref-22]. Players can dribble, pass, and shoot, and the other side can steal the ball[^ref-1][^ref-21]. Softalk's reviewer found that "Paddle control is tricky and subtle and very hard to get used to," but said that patience paid off with realistic play[^ref-21].
 
-The 1994 World Challenge Edition offered significantly improved controls and tournament functionality, supporting up to 8 players and featuring authentic team rosters from the 1994 World Cup[^ref-4]. The later version also added support for English, French, and German language options[^ref-8].
+On a color display the teams wear green and purple; on a black-and-white screen they show as gray against black-and-white stripes[^ref-22].
 
 ### Structure and Progression
 
-The game featured five-versus-five gameplay as its core mode, with 8 players per team on the field—presented as green and purple teams[^ref-6]. Later versions included three-versus-three and four-versus-four variations[^ref-5]. Notably, the game had no fouls or offside rules, simplifying the traditional soccer experience[^ref-5]. The playing field was surrounded by walls, allowing for rebound plays that added a unique arcade-like element to the simulation[^ref-5]. Goalkeepers would swap positions as players switched roles during gameplay[^ref-5].
+Before a match the players choose the length of each half, from one to 45 minutes[^ref-1]. A real-time clock and a hi-res scoreboard track the game[^ref-21]. Creative Computing's reviewer noted one drawback: there is no time-out, so a match cannot be stopped to answer the telephone[^ref-22].
 
-When playing against the AI in single-player mode, the player was always on offense, and only forty yards of the field were visible at any given time[^ref-6]. The game offered eleven offensive plays and nine defensive plays, providing some tactical variety despite its simplistic presentation[^ref-6]. The 1994 World Cup-themed version allowed players to "compete with either the original teams or at random groups," adding tournament-style progression[^ref-4].
+Two players get three levels of play, which differ in how the boundaries work[^ref-21][^ref-22]:
+
+| Level | Boundaries |
+|-------|-----------|
+| Beginner | The ball bounces off all four sides, as in indoor soccer[^ref-21][^ref-22] |
+| Intermediate | The ball goes out of play only at the ends of the field[^ref-1][^ref-22] |
+| Advanced | Outdoor rules: the ball can go out of bounds on any side[^ref-1][^ref-21] |
+
+Against the computer, only the beginner level is available[^ref-21][^ref-22].
 
 ### Puzzles and Mechanics
 
-Rather than puzzles, Hi Res Soccer focused on sports mechanics and player management. The game featured athletes with six different performance characteristics, adding depth to team strategy[^ref-5]. However, critics noted that the AI behavior resembled "bees chasing a soccer ball," where all players would chase the ball en masse, similar to how 4-year-olds play soccer[^ref-6]. This created a somewhat chaotic but entertaining gameplay experience that prioritized action over tactical realism.
+Hi-Res Soccer has no puzzles. Its rules include throw-ins, corner kicks and goal kicks. Creative Computing described the corner kick: when a team kicks the ball out on its own goal side, the other team gets a kick from the corner after a two-second delay[^ref-22]. In the beginner game, players can also bank the ball into the goal off the sidelines[^ref-22].
 
-Technical limitations created some gameplay frustrations—players would sometimes "get stuck in corners" and the slow pace made it difficult to "see which way ball is going when kicked"[^ref-6]. Despite these issues, the game represented a genuine attempt to capture the essence of soccer on hardware with severe computational constraints. One reviewer noted that "except for the mentioned problems the game is quite well coded and one of the better football games out there"[^ref-8].
+A later player described the computer side's tactics as "bees chasing a soccer ball": the whole computer team, goalie included, runs at the ball and can end up stuck in a corner[^ref-6].
 
 ## Reception
 
 ### Contemporary Reviews
 
-The 1994 Amiga version received extensive coverage from European gaming magazines:
+Softalk reviewed the game in May 1981. The reviewer opened doubtfully: "Team sports as arcade games have been tried a thousand times and have died a thousand deaths." The review left open whether this game would succeed. It found the paddle control hard to learn, but said players who kept at it would see some lifelike plays[^ref-21][^ref-25].
 
-| Publication | Score | Notes |
-|-------------|-------|-------|
-| Amiga Concept | 92% | Reviewed by Laurent Picart[^ref-3] |
-| Amiga Action | 89% | Reviewed by Paul McNally & Paul Roundell[^ref-3] |
-| CU Amiga | 87% | Reviewed by Tony Dillon[^ref-3] |
-| Amiga Dream | 84% | Reviewed by Grégory Halliday[^ref-3] |
-| The One | 83% | Reviewed by Simon Byron[^ref-3] |
-| Amiga Computing | 80% | July 1994 issue[^ref-3] |
-| Amiga Joker | 70% | Reviewed by Steffen Schamberger[^ref-3] |
-| Amiga Format | 68% | Reviewed by Stephen Bradley[^ref-3] |
-| Amiga Power | 62% | Reviewed by Steve McGill & Stuart Campbell[^ref-3] |
-| Datormagazin | 4/5 | Reviewed by Ove Kaufeldt[^ref-3] |
+Dale Archibald reviewed it for Creative Computing in October 1981, under the headline "Just for kicks." He summed it up as "Man meets machine and learns humility." He wrote that he had not expected to see a computer game this good so soon, and that he had lost to the computer for days before he finally beat it[^ref-22].
+
+In the United Kingdom, Windfall reviewed Hi-Res Soccer in its September 1981 issue, alongside Star Mines and Creature Venture, as later listed in the magazine's back-issue index[^ref-26].
 
 ### Modern Assessment
 
-Modern retrospective reviews have been mixed. On MyAbandonware, the game holds a rating of 3.33 out of 5 stars[^ref-7]. However, user reviews have been particularly harsh, with one critic stating: "FAILURE. This so called footy game tried to emulate SENSIBLE SOCCER but FAILED MISERABLY... You have the ball and before you know it you don't have it... You steal the ball and immediately they steal it from you... TERRIBLE GAME"[^ref-7]. Conversely, technical reviewers have noted that "except for the mentioned problems the game is quite well coded and one of the better football games out there"[^ref-8].
+Modern coverage is sparse. Neither MobyGames nor VideoGameGeek has any user ratings for the game[^ref-1][^ref-2]. One player-written wiki entry calls it "a very very early sports game" whose computer opponent shows almost no AI. The same entry says it is hard to see which way the ball is going after a kick[^ref-6].
 
 ## Development
 
 ### Origins
 
-Hi Res Soccer was part of On-Line Systems' early sports game initiative during the company's expansion beyond adventure games in the early 1980s[^ref-6]. The game was developed as part of the Hi-Res series, which included various adventure and sports titles including Hi-Res Football[^ref-9]. One gaming historian noted surprise at the game's existence, commenting "I never knew that Sierra, even back during its On Line Systems days, developed a football game"[^ref-10]. This reaction speaks to the rarity and obscurity of Sierra's early sports catalog, which has been largely overshadowed by the company's adventure game legacy.
+Hi-Res Soccer followed Hi-Res Football, which Jay Sullivan and Ken Williams had written for On-Line Systems[^ref-20][^ref-22]. Softalk's announcement linked the game to soccer's growing popularity in the United States. It listed a real-time clock, a hi-res scoreboard, three skill levels and a choice of indoor or outdoor rules[^ref-20].
 
-The original game was developed in Sierra's Oakhurst, California offices during the pioneering days of computer gaming when any attempt at sports simulation was considered technically ambitious[^ref-1]. The publisher's marketing boldly proclaimed it as "the only real-time action Soccer game available for your computer," emphasizing its unique position in the nascent home computer market[^ref-2].
+In On-Line's first newsletter, in June 1981, Ken Williams wrote: "I'm fairly convinced we shall not see a better Football or Soccer than my company markets"[^ref-23].
 
 ### Production
 
-The original Apple II version was designed by Jay Sullivan and Steven A. Dunn[^ref-1]. The later 1994 Amiga version, released as "Sierra Soccer: World Challenge Edition," was developed by Coktel Vision, with music composed by Charles Callet[^ref-3]. The production credits for the 1994 version included European production by Philippe Evrard at Coktel Vision, globalization management by Norm Nelson at Dynamix, UK product coordination by Mark Howman at Sierra, and public relations by Sam Flint[^ref-3]. This international collaboration reflected Sierra's growing presence in European markets during the early 1990s.
+Softalk credited the game to Jay Sullivan and Ken Williams. Creative Computing said it was designed by Jay Sullivan, who had also designed Hi-Res Football[^ref-20][^ref-21][^ref-22]. MobyGames credits Sullivan alone[^ref-1].
 
-The 1994 version required significant technical optimization, with WHDLoad patches later fixing interrupt problems with music and game protection[^ref-8]. The patch notes indicate that the game was "redone from scratch" in version 1.01, released on January 19, 2012, with "protection correctly removed" to support the SPS1539 preservation format[^ref-8].
+On-Line advertised the game together with Hi-Res Football in Softalk, in its own On-Line Letter and in Softline[^ref-21][^ref-23][^ref-24]. Softalk's December 1981 product listings still showed it at $29.95: "For one or two players. Paddle controlled."[^ref-25]
 
 ### Technical Achievements
 
-The Apple II version was distributed on 5.25" floppy disk and utilized the system's hi-resolution graphics capabilities, which were cutting-edge for home computers at the time[^ref-1]. The game supported paddle controllers as input devices, the standard control method for Apple II gaming[^ref-1]. Players could experience the game in three skill levels—beginner, intermediate, and advanced—with configurable game length ranging from 1 to 45 minutes per half[^ref-6].
-
-The 1994 Amiga version was more technically demanding, requiring 0.5 MB of chip memory and 1.0 MB of other memory (with an additional 1.7 MB for preload)[^ref-8]. It supported both OCS and ECS Amiga hardware configurations and was distributed across 2 disks in WHDLoad format[^ref-8]. The WHDLoad installer was patched to work without requiring the Kickstart ROM, making preservation and emulation more accessible[^ref-8].
+Creative Computing's software profile lists the game as written in machine language for a 48K Apple II Plus with one disk drive, running under DOS 3.2 or 3.3[^ref-22]. The game came on a 5.25" floppy disk[^ref-1].
 
 ### Version History
 
 | Version | Platform | Year | Notes |
 |---------|----------|------|-------|
-| Original | Apple II | 1980-1981 | 5.25" floppy, Hi-Res graphics[^ref-1] |
-| World Challenge Edition | Amiga | 1994 | World Cup '94 theme, developed by Coktel Vision[^ref-3] |
-| World Challenge Edition | Windows | 1994 | Port of Amiga original[^ref-3] |
-| WHDLoad 1.01 | Amiga | 2012 | Preservation patch, protection removed[^ref-8] |
+| Original | Apple II | 1981 | 48K, DOS 3.2/3.3, 5.25" disk, $29.95[^ref-1][^ref-21] |
 
 ## Legacy
 
-Hi Res Soccer holds historical significance as one of the earliest computer soccer simulations, representing the birth of sports gaming on personal computers[^ref-9][^ref-14]. The game was part of Sierra's transition period when they were expanding beyond their adventure game roots into sports and other genres[^ref-6][^ref-11]. Despite its technical limitations and AI quirks, it paved the way for more sophisticated soccer simulations that would follow in the 1990s and beyond[^ref-12][^ref-17].
-
-The 1994 version's distinction as Sierra's final Amiga release marks it as a notable endpoint in the company's support for that platform[^ref-3][^ref-18][^ref-19]. This timing coincided with the broader decline of the Amiga market as PC gaming became dominant, making Sierra Soccer: World Challenge Edition a bittersweet farewell to Sierra's Amiga audience.
-
-### Collector's Value
-
-The original Apple II version has become a sought-after collector's item. According to reports, sealed copies "have sold for over $500 on eBay"[^ref-6], reflecting both its rarity and its historical significance as an early Sierra sports title. Gaming historians note that "these are the birth of the graphic adventure game, and would be a true wonder to see available"[^ref-9], though this comment more broadly applies to the Hi-Res series rather than the soccer game specifically.
-
-The game's obscurity is evidenced by the difficulty in finding comprehensive information about it. As one collector noted, "A couple of them are SUPER hard to find"[^ref-9] when discussing early On-Line Systems titles. This scarcity has made Hi-Res Soccer a curiosity for Sierra completionists and sports gaming historians alike.
-
-### Historical Context
-
-Within the broader context of soccer video game history, Hi Res Soccer predates nearly all major soccer franchises by over a decade. It arrived years before Sensible Soccer (1992), FIFA (1993), and Pro Evolution Soccer (2001). While it lacks the sophistication of these later titles, its existence demonstrates that the desire to simulate the world's most popular sport on home computers dates back to the very beginning of the home computer gaming era.
-
-The game also represents an interesting footnote in Sierra's corporate history, showing that Ken Williams' early vision for On-Line Systems extended beyond adventure games to encompass sports simulation—a genre Sierra would largely abandon after the early 1980s in favor of their signature narrative-driven titles.
+Hi-Res Soccer is now rare. In 2013 the Retro-Treasures blog pointed to a sealed copy on eBay, calling it a "rare game." The writer added that they had not known Sierra made a football game in its On-Line Systems days[^ref-10]. The Apple2Games wiki says the game has sold on eBay for over $500[^ref-6]. A disk image is preserved in the woz-a-day collection on the Internet Archive[^ref-13].
 
 ## Downloads
 
-**Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
-
 **Download / Preservation**
-- [MyAbandonware - Sierra Soccer World Challenge Edition](https://www.myabandonware.com/game/sierra-soccer-world-challenge-edition-7ix)
-- [GamesNostalgia - Sierra Soccer World Challenge Edition](https://gamesnostalgia.net/game/sierra-soccer-world-challenge-edition)
+- [Internet Archive – Hi-Res Soccer (woz-a-day collection)](https://archive.org/details/wozaday_Hi_Res_Soccer)[^ref-13]
 
 ## See Also
 
+- [[1980 - Hi-Res Football]]
+- [[1980 - Hi-Res Cribbage]]
 - [[1980 - Hi-Res Adventure 0 - Mission Asteroid]]
 - [[1980 - Hi-Res Adventure 1 - Mystery House]]
 - [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
-- [[1980 - Hi-Res Cribbage]]
-- [[1980 - Hi-Res Football]]
 - [[1981 - Hi-Res Adventure 3 - Cranston Manor]]
 - [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
 - [[1982 - Adventure in Serenia]]
 - [[1982 - Hi-Res Adventure 5 - Time Zone]]
 - [[1983 - Hi-Res Adventure 6 - The Dark Crystal]]
 - [[1984 - Gelfling Adventure]]
+- [[1994 - Sierra Soccer - World Challenge Edition]] (a separate 1994 Sierra soccer game)
 
 ## References
 
-[^ref-1]: [MobyGames - Hi-Res Soccer](https://www.mobygames.com/game/77451/hi-res-soccer/) – - Developer and designer information
-[^ref-2]: [BoardGameGeek - Hi-Res Soccer](https://boardgamegeek.com/videogame/258043/hi-res-soccer) – - Platform and publisher details
-[^ref-3]: [LemonAmiga - Sierra Soccer](https://www.lemonamiga.com/games/details.php?id=2761) – - 1994 Amiga version development details
-[^ref-4]: [Dynamix Wiki - Sierra Soccer: World Challenge Edition](https://dynamix.fandom.com/wiki/Sierra_Soccer:_World_Challenge_Edition) – - World Cup gameplay details
-[^ref-5]: [ESPN Gaming Review](https://www.espn.com/gaming/story/_/id/45545318/rematch-review-sloclap-soccer-simulation) – - Gameplay mechanics details
-[^ref-6]: [Apple2Games Wiki](https://web.archive.org/web/20231008121631/https://apple2games.com/wiki/Hi-Res_Soccer) – - AI behavior description
-[^ref-7]: [MyAbandonware - Sierra Soccer](https://www.myabandonware.com/game/sierra-soccer-world-challenge-edition-7ix) – Modern rating and user reviews
-[^ref-8]: [WHDLoad - Sierra Soccer](http://www.whdload.de/games/SierraSoccer.html) – Technical assessment and Amiga compatibility
-[^ref-9]: [GOG Dreamlist Discussion](https://www.gog.com/dreamlist/game/sierra-online-hires-adventure-set) – Hi-Res series information
-[^ref-10]: [Retro-Treasures Blog](https://retro-treasures.blogspot.com/2013/10/on-line-systems-hi-res-soccer-apple-ii.html) – Historical perspective
-[^ref-11]: [Giant Bomb – Hi-Res Soccer](https://www.giantbomb.com/hi-res-soccer/3030-61989/) – game wiki entry
-[^ref-12]: [IGDB – Hi-Res Soccer](https://www.igdb.com/games/hi-res-soccer) – Internet Games Database entry
-[^ref-13]: [Internet Archive – Hi-Res Soccer (woz-a-day collection)](https://archive.org/details/wozaday_Hi_Res_Soccer) – digital preservation and disk images
-[^ref-14]: [Apple II History](https://www.apple2history.org/history/ah12.html) – Apple II gaming context
-[^ref-15]: [Virtual Apple – Hi-Res Soccer](https://virtualapple.org/) – Apple II emulation archive
-[^ref-16]: [Asimov Archive – On-Line Systems](https://ftp.apple.asimov.net/images/games/collections/on-line_systems/) – early Sierra game collection
-[^ref-17]: [Hardcore Gaming 101 – Sierra Sports](https://www.hardcoregaming101.net/) – Sierra sports gaming history
-[^ref-18]: [MobyGames – Sierra Soccer World Challenge](https://www.mobygames.com/game/15096/sierra-soccer-world-challenge-edition/) – 1994 version database
-[^ref-19]: [Hall of Light – Sierra Soccer](https://hol.abime.net/2932) – Amiga database entry
+[^ref-1]: [MobyGames - Hi-Res Soccer](https://www.mobygames.com/game/77451/hi-res-soccer/) – Release year, publisher, credits, specs and description
+[^ref-2]: [VideoGameGeek - Hi-Res Soccer](https://videogamegeek.com/videogame/258043/hi-res-soccer) – Release date 1981, publisher's blurb, 1–2 players
+[^ref-6]: [Apple2Games Wiki - Hi-Res Soccer (Wayback, 2023)](https://web.archive.org/web/20231008121631/https://apple2games.com/wiki/Hi-Res_Soccer) – Player description of gameplay and AI; eBay sale price
+[^ref-10]: [Retro-Treasures - On-Line Systems' Hi-Res Soccer (Apple II)](https://retro-treasures.blogspot.com/2013/10/on-line-systems-hi-res-soccer-apple-ii.html) – 2013 post on a sealed copy for sale
+[^ref-13]: [Internet Archive – Hi-Res Soccer (woz-a-day collection)](https://archive.org/details/wozaday_Hi_Res_Soccer) – Preserved disk image
+[^ref-20]: [Softalk, Vol. 1 No. 8 (April 1981)](https://archive.org/details/softalkv1n08apr1981) – New-product announcement crediting Ken Williams and Jay Sullivan
+[^ref-21]: [Softalk, Vol. 1 No. 9 (May 1981)](https://archive.org/details/softalkv1n09may1981) – On-Line advertisement ("Available now") and review, p. 28
+[^ref-22]: [Creative Computing, Vol. 7 No. 10 (October 1981)](https://archive.org/details/sim_creative-computing_1981-10_7_10) – Dale Archibald, "Just for kicks", review and software profile
+[^ref-23]: [Sierra On-Line Letter, Vol. 1 No. 1 (June 1981)](https://archive.org/details/Sierra_On_Line_Letter_Volume_1_Number_1_June_1981) – Hi-Res Soccer advertisement; Ken Williams, "Making Money With Your Computer"
+[^ref-24]: [Softline, September 1981](https://archive.org/details/Softline_1981_09) – On-Line Systems Hi-Res Soccer/Football advertisement
+[^ref-25]: [Softalk, Vol. 2 No. 4 (December 1981)](https://archive.org/details/softalkv2n04dec1981) – On-Line Systems product listing; index of Softalk software reviews
+[^ref-26]: [Windfall, Vol. 2 No. 4 (October 1982)](https://archive.org/details/windfall-v2n4-1982-oct) – Back-issue index listing a September 1981 games review including Hi-res Soccer
