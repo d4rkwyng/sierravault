@@ -5,34 +5,35 @@ developer: Jeff Tunnell Productions
 designer: [Jeff Tunnell, Chris Cole, Brian Hahn]
 publisher: Sierra On-Line
 genre: Puzzle
-platforms: [DOS, Mac]
+platforms: [DOS]
 series: The Incredible Machine
-engine: Physics simulator
+engine: The Incredible Machine engine
 protagonist: Sid E. Mouse / Al E. Cat
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
-description: Sid & Al's Incredible Toons is a puzzle game developed by Jeff Tunnell
-  Productions and published by Sierra On-Line in 1993 for MS-DOS and Macintosh...
+last_updated: '2026-10-13'
+description: Sid & Al's Incredible Toons is a cartoon-themed puzzle spin-off of The
+  Incredible Machine, developed by Jeff Tunnell Productions (credited to Dynamix in
+  some sources) and published by Sierra On-Line in 1993 for MS-DOS.
 tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # Sid & Al's Incredible Toons
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Sid & Al's Incredible Toons is a puzzle game developed by [[Jeff Tunnell]] Productions and published by Sierra On-Line in 1993 for MS-DOS and Macintosh platforms[^ref-1][^ref-28]. Described by *Electronic Entertainment* as "Rube Goldberg meets Wile E. Coyote," the game represents a creative spin-off of The Incredible Machine series, replacing the original's pseudo-realistic contraptions with cartoon characters and whimsical animated elements[^ref-2]. The game combines logical puzzle-solving gameplay with wacky animated cartoons, creating a unique hybrid that *Computer Gaming World* characterized as "a difficult game to describe because it moves beyond the boundaries of the genre into a new generation of software toys"[^ref-3].
+Sid & Al's Incredible Toons is a puzzle game published by Sierra On-Line in 1993 for MS-DOS[^ref-1][^ref-19]. The Sierra Chest and PCGamingWiki credit its development to [[Jeff Tunnell]]'s label Jeff Tunnell Productions[^ref-34][^ref-19], while MobyGames, Wikipedia and the contemporary reviews credit [[Dynamix]][^ref-1][^ref-2][^ref-32]. Described by *Electronic Entertainment* as "Rube Goldberg meets Wile E. Coyote," it is a spin-off of The Incredible Machine that replaces the original's machine parts with animated cartoon characters[^ref-32]. *Computer Gaming World* called it "a difficult game to describe because it moves beyond the boundaries of the genre into a new generation of software toys"[^ref-30].
 
-The game features approximately 100 puzzles where players must complete elaborate Rube Goldberg-style contraptions with crucial parts intentionally left out[^ref-4]. The titular characters, Sid E. Mouse and Al E. Cat, serve as both puzzle pieces and colorful protagonists in what *Home of the Underdogs* described as "catapult[ing] the already addictive concept of The Incredible Machines into whole new levels"[^ref-5]. While The Incredible Machine earned credit for originating the concept, many reviewers felt that "Sid and Al definitely gets glory for perfecting it"[^ref-6].
+The game has about 100 puzzles, each a Rube Goldberg-style machine with crucial parts missing[^ref-4]. The title characters, Sid E. Mouse and Al E. Cat, are both puzzle pieces and protagonists; a Home of the Underdogs review reproduced on MyAbandonware credits Tunnell with having "catapulted the already addictive concept of The Incredible Machines" into new territory by adding "two hapless cartoon characters"[^ref-5]. Classic Gaming Network reviewer Bokkie wrote that "While TIM might get credit for the originality of the idea, Sid and Al definitely gets glory for perfecting it"[^ref-6].
 
-The game shipped with physical extras including 8 trading cards and a poster[^ref-1], and featured a robust puzzle editor allowing players to create their own challenges[^ref-7]. Its success led to a Windows-based sequel, The Incredible Toon Machine, released in 1994 with additional features including a two-player hotseat mode[^ref-8].[^ref-23][^ref-24][^ref-25]
+The retail box included 8 trading cards and a poster[^ref-1], and the game has a puzzle editor for building new challenges[^ref-4][^ref-29]. It was followed in 1994 by The Incredible Toon Machine for Windows, which added head-to-head play[^ref-34][^ref-8][^ref-21].
 
 > [!info]- Game Info
-> **Developer:** [[Jeff Tunnell Productions]][^ref-1]
-> **Designer:** [[Jeff Tunnell]], Chris Cole, [[Brian Hahn]][^ref-1]
+> **Developer:** [[Jeff Tunnell Productions]][^ref-34] (credited to [[Dynamix]] by MobyGames and Wikipedia[^ref-1][^ref-2])
+> **Designer:** [[Jeff Tunnell]], Chris Cole, [[Brian Hahn]][^ref-33]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** Physics simulator[^ref-9]
-> **Platforms:** MS-DOS, Macintosh[^ref-2]
+> **Engine:** The Incredible Machine engine[^ref-30]
+> **Platforms:** MS-DOS[^ref-1][^ref-19]
 > **Release Year:** 1993
 > **Series:** The Incredible Machine
 > **Protagonist:** Sid E. Mouse / Al E. Cat
@@ -40,178 +41,179 @@ The game shipped with physical extras including 8 trading cards and a poster[^re
 
 ## Story Summary
 
-Sid & Al's Incredible Toons features a simple but effective premise centered on the eternal conflict between a mouse and a cat[^ref-10]. Sid E. Mouse and Al E. Cat are engaged in a perpetual rivalry where any means to hurt the adversary is considered acceptable, drawing clear inspiration from classic animated properties like Tom & Jerry despite the characters having "probably never heard of" their cartoon predecessors[^ref-10].
+Sid & Al's Incredible Toons has a simple premise: a mouse and a cat at war. MobyGames' description says Sid Mouse and Al E. Cat "have probably never heard of Tom & Jerry, but they're just as single-minded: any means to hurt the adversary is a good one"[^ref-10]. *Computer Gaming World* described the pair as looking "like washed up rejects of a by-gone cartoon era"; depending on the puzzle, Al may have to catch Sid, or Sid may have to destroy Al[^ref-29].
 
-The game frames its puzzles as cartoon productions, with players serving as directors who must orchestrate elaborate chain reactions to achieve specific goals[^ref-11]. Al E. Cat, characterized as a greedy feline, constantly attempts to chase and devour Sid E. Mouse whenever given the opportunity[^ref-4]. Sid, recognizable by the heart-patterned boxers he wears under his yellow skin, must either escape Al's pursuit or inflict comedic harm upon his nemesis through cleverly designed contraptions[^ref-4].
+TV Tropes notes that the game treats its puzzles less as gadgets and more as cartoon productions the player is directing[^ref-11]. Al is a greedy cat who will eat Sid given the chance[^ref-5]; CGW noted that he will also wolf down dead fish, bananas and bubble gum[^ref-29].
 
-The cast extends beyond the titular duo to include several supporting characters that add variety to puzzle solutions[^ref-7]. Eunice the elephant is a lady pachyderm who will toss objects around when properly motivated, while Bik the pet dragon can ignite objects with his fiery breath[^ref-7]. These additional characters serve as both obstacles and tools, expanding the range of possible solutions and adding layers of complexity to the cartoon chaos.
+The supporting cast includes Eunice the elephant, Bik the dragon and Hildegard Hen[^ref-29]. According to CGW, Bik spews fire when bumped, Eunice vacuums up peanuts, tosses objects and runs from Sid in terror, and Hildegard lays an egg when bumped[^ref-29].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Sid & Al's Incredible Toons employs a point-and-select puzzle interface designed for mouse control[^ref-1]. Players interact with the game by selecting parts from an available inventory and placing them within the puzzle area to complete the contraption[^ref-1]. The game utilizes fixed screen 2D graphics that display the entire puzzle area at once, allowing players to plan their solutions comprehensively[^ref-12].
+Sid & Al's Incredible Toons uses a point-and-select interface[^ref-1]. Players choose parts from a separate window, position them on the screen and start the machine to see whether it works[^ref-4]. Each puzzle is shown as a single fixed 2D screen[^ref-12].
 
-Parts can be manipulated in various ways to achieve the desired results. Players can flip pieces horizontally and vertically, and certain items like the hatpin can be rotated in four different directions[^ref-4]. The game also features seven programmable "Pro-Parts" that allow for more complex interactions and custom behaviors within puzzles[^ref-13].
+Placed parts sprout small handles: the turtle flips a part horizontally, the dog flips it vertically, and other handles stretch or remove it[^ref-28]. Seven programmable "Pro-Parts" have functions that can be changed before a puzzle starts[^ref-28]. CGW gave the Ratapult (which can fire one or several boulders) and the timer as examples of adjustable parts[^ref-29].
 
 ### Structure and Progression
 
-The game contains a total of 90 regular puzzles spread across four difficulty levels, with an additional 10 bonus puzzles that can be unlocked[^ref-13]. The puzzles are arranged in a progression system that gradually introduces new parts and more complex interactions:
+The 90 regular puzzles are spread across four levels, and 10 more bonus puzzles can be unlocked[^ref-28]. The levels are[^ref-28][^ref-29]:
 
-- **Level 1:** Introductory puzzles teaching basic mechanics
-- **Level 2:** Intermediate challenges with more components
-- **Level 3:** Advanced puzzles requiring complex chains
-- **Level 4:** Expert-level contraptions with multiple simultaneous systems
+- **Cake Walk:** 30 tutorial puzzles that introduce the parts
+- **All Brawn, No Brains:** 15 regular puzzles plus 5 locked bonus puzzles
+- **Really, Really Hard:** 15 regular plus 5 locked bonus puzzles
+- **Looney Bin:** 15 regular plus 5 locked bonus puzzles
 
-As players complete puzzles, they fill in pieces of a Jigsaw Screen that gradually reveals a picture[^ref-13]. Upon completing all 90 regular puzzles, players can enter the password "WIND" on the Password screen to unlock 10 additional bonus puzzles[^ref-14].
+Each solved puzzle reveals another piece of a picture on the Special Jigsaw screen. Solving all 90 puzzles gives the player a password, and entering it on the Jigsaw screen unlocks ten further puzzles in the Really, Really Hard and Looney Bin levels[^ref-28]. SuperCheats gives the password as "WIND"[^ref-14]. Solving those last ten earns a closing "victory celebration"[^ref-28].
 
 ### Puzzles and Mechanics
 
-The core gameplay involves completing Rube Goldberg-style devices where crucial components have been removed[^ref-11]. Players must select from available parts and position them correctly to achieve objectives such as getting Sid to eat cheese, dropping anvils on Al, or triggering a chain of events that leads to comedic outcomes[^ref-4].
+The goal of each puzzle is reached by filling in a Rube Goldberg-style device[^ref-4]. MobyGames' example is a piano hanging from a rope that has to fall on Al: open scissors placed next to the rope and a ball dropped onto them will cut it[^ref-4]. *Electronic Entertainment* listed tasks such as dropping an anvil on Al or feeding Sid a piece of cheese[^ref-32].
 
-The game features 71 different gadget parts including ropes, pulleys, balloons, trapdoors, catapults, bombs, electrical hairdryers, and motors[^ref-10][^ref-13]. Unlike The Incredible Machine's focus on realistic physics, Sid & Al's operates under "Toon Physics" where cartoon logic prevails[^ref-11]. This means characters can survive absurd punishment, gravity works selectively, and outcomes follow cartoon conventions rather than real-world physics.
+The Sierra Chest counts 71 different parts[^ref-28]; CGW's reviewer counted "66 different objects, not counting the characters"[^ref-29]. Parts include ropes, pulleys, balloons, trapdoors, catapults, bombs, electric hairdryers and motors[^ref-4]. CGW noted that gears, pulleys, conveyor belts, rope and the teeter-totter work much like their Incredible Machine counterparts, while new parts include the Chow-Man Motor and a two-part tunnel[^ref-29]. The game follows cartoon physics[^ref-11]; CGW's one quibble was that some characters and objects are "arbitrarily immune to the effects of gravity"[^ref-29].
 
-The built-in level editor allows players to create and share their own puzzles, extending the game's replayability significantly[^ref-7]. This feature proved particularly popular among fans who created custom challenges of varying difficulty.[^ref-21][^ref-27]
+The built-in editor, HomeToons, offers a blank stage and every part. Players can save their puzzles and trade them, but the game cannot be set to recognize when a custom puzzle has been solved[^ref-29]. *Electronic Entertainment* noted that designers choose the parts, state the goal and pick the music[^ref-32]. User levels are saved as *.ITL files[^ref-19].
+
+CGW also praised smaller improvements over The Incredible Machine: progress saves automatically, the old password codes are gone, and Alt-S saves a screen dump to disk[^ref-29].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Sid & Al's Incredible Toons received strong reviews upon release, with critics praising its combination of puzzle gameplay and cartoon humor. *Electronic Entertainment* awarded the game 80/100 (8/10), with reviewer Wayne Kawamoto characterizing it as "Rube Goldberg meets Wile E. Coyote"[^ref-2]. The German magazine *PC Games* scored it 89/100[^ref-3], while *Wiz* magazine gave it 90/100[^ref-3].
+Sid & Al's Incredible Toons was well reviewed. Wayne Kawamoto of *Electronic Entertainment* (March 1994) called it "Rube Goldberg meets Wile E. Coyote" and "one of the best puzzle games on the market"[^ref-32]; Wikipedia records the magazine's score as 8 out of 10[^ref-2]. According to Wikipedia, the German magazine *PC Games* scored it 89 and *Wiz* 90[^ref-3]. *Power Play* reviewed it in issue 1/94[^ref-15].
 
-*Computer Gaming World* was particularly effusive, calling it "exactly what I wanted from a sequel to The Incredible Machine, with more challenging puzzles, hysterically funny animation and sound, and a host of small improvements"[^ref-1]. The magazine noted it was "a difficult game to describe because it moves beyond the boundaries of the genre into a new generation of software toys"[^ref-3]. The game earned runner-up status for *Computer Gaming World's* Strategy Game of the Year in 1994[^ref-2].
+In *Computer Gaming World* #115 (February 1994), Neil Harris wrote: "It's exactly what I wanted from a sequel to The Incredible Machine. The puzzles are more challenging, the animation and sound effects are hysterically funny, and there are a host of small improvements"[^ref-29]. He praised the manual by Michael Waite and Richard Tunnell and predicted that the game "will certainly show up on best game of the year lists"[^ref-29]. In its June 1994 awards, CGW named the game one of two titles that "put new subject matter in the strategic orbit" in the Strategy Game of the Year category, which *Master of Orion* won[^ref-30]. Wikipedia describes it as a runner-up for that award[^ref-2].
 
-*PC Gamer UK* ranked Sid & Al's Incredible Toons as the 24th best computer game of all time in their 1994 rankings[^ref-2], demonstrating the significant impact the game had on reviewers. German publication *Power Play* featured coverage in their January 1994 issue, though one German reviewer noted that while it was a "funny successor to a truly great game," the physics sandbox concept worked better than a cartoon sandbox for their personal taste[^ref-15].
+According to Wikipedia, *PC Gamer UK* ranked Sid & Al's Incredible Toons 24th in its 1994 list of the best computer games of all time[^ref-2].
 
 ### Modern Assessment
 
-Modern retrospective reviews continue to view Sid & Al's Incredible Toons favorably. The game maintains a user rating of 4.15/5.00 on Abandonware DOS[^ref-12], while MyAbandonware users have rated it 4.46/5[^ref-5]. Classic Gaming Network reviewer Bokkie awarded the game 85.5% in April 2005, stating that "While TIM might get credit for the originality of the idea, Sid and Al definitely gets glory for perfecting it"[^ref-6].
+Retro sites still rate the game well. Users of Abandonware DOS rate it 4.15/5.00 (27 votes)[^ref-12], and MyAbandonware users rate it 4.46/5 (54 votes)[^ref-5]. Bokkie's April 2005 review on Classic Gaming Network gave it 65 points, and the site's users give it 85.5% across 21 ratings[^ref-6].
 
 **Aggregate Scores:**
-- **MobyGames:** 82% critic score, 7.9/10 (3.9 player score from 14 ratings)[^ref-1][^ref-16]
-- **Abandonware DOS:** 4.15/5.00[^ref-12]
-- **MyAbandonware:** 4.46/5[^ref-5]
-- **GamePressure:** 8.1[^ref-7]
-- **Classic Gaming Network:** 85.5%[^ref-6]
+- **MobyGames:** Moby Score 7.9; critics 82% (17 ratings); players 3.9/5 (14 ratings)[^ref-1][^ref-16]
+- **Abandonware DOS:** 4.15/5.00 (users)[^ref-12]
+- **MyAbandonware:** 4.46/5 (users)[^ref-5]
+- **GamePressure:** 8.1 (users)[^ref-7]
+- **Classic Gaming Network:** 65 points (staff review); 85.5% (users)[^ref-6]
 
-The game received recognition from *Computer Gaming World* as the "Funniest Computer Game" in their 1996 awards, and *Power Play* named it "Best Puzzle Game" in 1994[^ref-1].
+*Computer Gaming World*'s November 1996 fifteenth-anniversary issue placed the game 12th in "The Funniest Games Of All Time," writing that "Bouncing cartoon characters around Rube Goldberg-style devices was never this amusing before or since"[^ref-31]. MobyGames also lists a *Power Play* "Best Puzzle Game in 1994" award (issue 02/1995)[^ref-1].
 
 ## Development
 
 ### Origins
 
-The conceptual foundations for Sid & Al's Incredible Toons trace back to 1983 when [[Jeff Tunnell]] and Damon Slye first conceived of a machine construction set game[^ref-9]. The original inspiration drew from Bill Budge's Pinball Construction Set and the classic Mouse Trap board game, combined with influences from the successful puzzle game Lemmings[^ref-9].
+*Series background (from The Digital Antiquarian's history of The Incredible Machine):* Jeff Tunnell and Damon Slye first discussed a machine construction set when they founded Dynamix in 1983, while Electronic Arts' *Pinball Construction Set* was popular[^ref-9]. Jimmy Maher names the *Mouse Trap* board game and DMA Design's *Lemmings* as further influences on The Incredible Machine[^ref-9]. Tunnell stepped down as head of Dynamix to found Jeff Tunnell Productions in early 1992 and made The Incredible Machine its first project[^ref-9].
 
-After establishing The Incredible Machine as a successful franchise, Tunnell sought to expand the concept in a new direction. Having left Dynamix to found his own production company, Jeff Tunnell Productions, he developed Sid & Al's Incredible Toons as a cartoon-themed spin-off that would inject personality and humor into the formula[^ref-5]. The game was designed specifically to appeal to players who enjoyed the puzzle mechanics but wanted more entertaining visual feedback for their solutions[^ref-1].
+Sid & Al's Incredible Toons followed. Maher writes that it "moved the gameplay into more forthrightly cartoon territory"[^ref-9]. CGW's awards coverage likewise says Tunnell "turned his fascinating The Incredible Machine engine into a strategic tribute to cartoon violence and invention"[^ref-30]. MobyGames credits Ryan Hahn with the original game concept[^ref-33].
 
 ### Production
 
-Development was handled by Jeff Tunnell Productions with Dynamix involvement, published under the Sierra On-Line banner[^ref-1]. The team sought to differentiate the title from The Incredible Machine by replacing pseudo-realistic contraptions with cartoon characters and items[^ref-1]. This shift allowed for more expressive animations and comedic outcomes that the original game's physics-focused design couldn't accommodate.
+Sources differ on the developer credit. The Sierra Chest, PCGamingWiki and the Dynamix Wiki name Jeff Tunnell Productions[^ref-34][^ref-19][^ref-22], while MobyGames and Wikipedia name Dynamix[^ref-1][^ref-2]. Contemporary reviews called it a Dynamix game, and *Electronic Entertainment* listed it as a DOS release priced at $49.95[^ref-32][^ref-29]. Sierra On-Line published it[^ref-1].
 
-The game was officially released on November 5, 1993 for IBM PC[^ref-13], with a Macintosh version following shortly after[^ref-2]. Development involved creating approximately 100 puzzles, designing 71 unique gadget parts, recording 99 sound effects, and implementing 30 music tracks[^ref-13].
+The Sierra Chest dates the release to November 5, 1993[^ref-28], while GamePressure lists June 7, 1993[^ref-7]. The finished game has about 100 puzzles, 71 parts, 99 sound effects and 30 songs[^ref-28]. It was one of three Sierra games, along with The Even More Incredible Machine and *Gabriel Knight: Sins of the Fathers*, sold in an unusually shaped "origami box"[^ref-34].
 
-**Development Credits:**[^ref-1]
-- **Designer:** Jeffrey Tunnell
-- **Co-Designer:** Chris Cole
-- **Co-Designer:** Brian Hahn
-- **Additional Design:** [[Richard Tunnell]]
-- **Composers:** Timothy Steven Clarke, Jan Paul Moorhead, Ken Rogers, Christopher Stevens
-- **Additional Music:** Brian Hahn
+**Development Credits (DOS version):**[^ref-33]
+- **Producer:** Jeffrey Tunnell
+- **Designers:** Chris Cole, Brian Hahn, Jeffrey Tunnell
+- **Programmers:** Chris Cole, Richard Rayl
+- **Art Director:** Brian Hahn
+- **Animation:** Brian Hahn, Sherry Wheeler
+- **Artists:** Rhonda Conley, Brian Thompson
+- **Puzzlomaniacs:** Ryan Carothers, Chris Cole, Eli Hayworth, Kevin Ryan, Jeffrey Tunnell, [[Richard Tunnell]], Michael Wayte
+- **Music / Sound Effects:** Timothy Steven Clarke, Brian Hahn, Jan Paul Moorhead, Ken Rogers, Christopher Stevens
+- **Manual Writing:** Richard Tunnell, Michael Waite
+- **Manual, Poster & Trading Cards Design:** Shawn Bird
+- **Original Game Concept:** Ryan Hahn
 
 ### Technical Achievements
 
-The game utilized a physics simulator engine that could handle complex chain reactions while maintaining cartoon-style visual presentation[^ref-9]. The total system included 45 distinct parts that could interact in numerous combinations across 87 levels[^ref-9].
+The game runs on The Incredible Machine's engine[^ref-30]. Seven parts carry a "computer" handle that lets them be programmed, for example to set how many eggs Hildegard will lay[^ref-28].
 
-A notable technical feature was the implementation of "Pro-Parts"—seven programmable elements that allowed for customized behaviors within the physics simulation[^ref-13]. This gave puzzle designers additional flexibility in creating unique challenges.
-
-The game's music system drew heavily from public domain classical and folk music sources, a common practice in the early 1990s that allowed developers to include extensive soundtracks without licensing costs[^ref-17]. The soundtrack featured arrangements of works by Bach, Mozart, Strauss, and various folk melodies[^ref-18].
+The 30-track soundtrack includes pieces listed as "Bach," "Mozart," "Strauss" and "Where Has My Little Dog Gone"[^ref-18].
 
 ### Technical Specifications
 
-**DOS Version:**[^ref-7]
-- **Processor:** Intel 386SX 25 MHz minimum
-- **RAM:** 2 MB minimum
-- **Operating System:** DOS 5.0
-- **Graphics:** VGA
-- **Input:** Mouse required
+**DOS Version:**
+- **Processor:** Intel 386SX (GamePressure lists 25 MHz)[^ref-7][^ref-19]
+- **RAM:** 2 MB[^ref-7][^ref-19]
+- **Operating System:** DOS 5.0[^ref-19]
+- **Graphics:** VGA[^ref-19]
+- **Input:** Mouse[^ref-1]
 - **Media:** 3.5" Floppy Disk, 5.25" Floppy Disk[^ref-1]
 
 **Save System:**
 - Configuration file: RESOURCE.CFG[^ref-19]
-- Save game file: TOONS.SAV[^ref-19]
+- Save game file: TOONS.SAV; user puzzles: *.ITL[^ref-19]
 
-An STB video card update (STBVID) was released to correct blank video problems experienced by users with STB video cards[^ref-1].
+Sierra released an STB video card update (STBVID) to fix the "blank video" problem that some Sierra Family (Dynamix) games had on STB video cards[^ref-22].
 
 ### Cut Content
 
-No significant cut content has been documented in available sources.
+No cut content is documented in the available sources.
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | November 5, 1993 | IBM PC/DOS | Initial release[^ref-13] |
-| 1.0 | 1993 | Macintosh | Mac port[^ref-2] |
-| STBVID patch | 1993 | DOS | Fix for STB video card issues[^ref-1] |
+| 1.0 | November 5, 1993 | IBM PC/DOS | Initial release[^ref-28] |
+| STBVID patch | Undated | DOS | Fix for STB video card "blank video" issue[^ref-22] |
 
 ### Technical Issues
 
-Users with STB video cards experienced blank video problems that required a dedicated patch (STBVID) to resolve[^ref-1]. The game includes copy protection tied to the manual, requiring players to reference the "Toon Box" to verify ownership[^ref-13].
+Players with STB video cards could get a blank screen, which the STBVID update fixed[^ref-22]. The game uses manual-based "Toon Box" copy protection: you fill in empty windows using the manual[^ref-28][^ref-19].
 
-Modern players running the game in DOSBox report full compatibility with DOSBox version 0.70[^ref-5].[^ref-22][^ref-26]
+MyAbandonware lists the game as fully supported in DOSBox 0.70[^ref-5].
 
 ### Easter Eggs and Trivia
 
-- **Quarky Balloon Character:** The character depicted within the balloons in the game is Quarky from *Quarky and Quaysoo's Turbo Science*, another Jeff Tunnell Productions title[^ref-13].
+- **Quarky Balloon Character:** The character inside the balloons is Quarky from *Quarky and Quaysoo's Turbo Science*[^ref-13].
 
-- **Johnny Castaway References:** The icon used to program an item appears as a small island, referencing *Screen Antics: Johnny Castaway*. Several sound effects are also borrowed from that screensaver, including Johnny's humming and Mermaid Marie's chirping sound[^ref-13].
+- **Johnny Castaway References:** The icon for programming an item is a little island, a nod to *Screen Antics: Johnny Castaway*. Several sounds also come from that screensaver, including Johnny's humming and Mermaid Marie's chirping[^ref-13].
 
-- **Secret Bonus Levels:** After completing all 90 regular puzzles, entering "WIND" on the Password screen unlocks 10 additional bonus puzzles[^ref-13][^ref-14].
+- **Secret Bonus Puzzles:** Solving all 90 regular puzzles reveals a password that unlocks 10 more puzzles[^ref-28][^ref-14].
 
-- **Tom & Jerry Inspiration:** While never officially acknowledged as an inspiration, reviewers consistently noted the obvious parallel between Sid and Al's dynamic and the classic Tom & Jerry cartoons[^ref-10].
+- **Tom & Jerry Comparison:** MobyGames' description and The Digital Antiquarian both compare Sid and Al to Tom & Jerry[^ref-10][^ref-9].
 
-- **Japanese Crossover:** The Japanese versions of The Incredible Toon Machine (the sequel) featured a crossover with Capcom's *Ghosts 'n Goblins* franchise[^ref-11][^ref-15].
+- **Japanese Crossover:** In 1996 a Japan-only version of this game for PlayStation and Sega Saturn replaced the toon characters and objects with monsters and items from Capcom's *Ghosts 'n Goblins*[^ref-11]; see [[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons]].
 
 ## Voice Cast
 
-The original DOS release of Sid & Al's Incredible Toons did not feature voice acting. However, the 1994 sequel/remake, The Incredible Toon Machine, added fully voiced cutscenes[^ref-11].
+The DOS original has no voiced cutscenes, though some sound effects are spoken (a gun says "Bang")[^ref-6]. The Incredible Toon Machine added fully voiced cutscenes, and its CD-ROM release has voice-over animations before each puzzle[^ref-11][^ref-34].
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-While specific sales figures are not available in the research data, Sid & Al's Incredible Toons performed well enough commercially to warrant a sequel. The game's critical success, including being named runner-up for *Computer Gaming World's* Strategy Game of the Year and ranking on *PC Gamer UK's* best games list, demonstrated significant market impact[^ref-2].
+No sales figures were found. The game was followed by a sequel, The Incredible Toon Machine (1994)[^ref-34][^ref-8].
 
 ### Collections
 
-The game was part of The Incredible Machine series and has been distributed through various abandonware channels following its commercial discontinuation[^ref-12]. The sequel, The Incredible Toon Machine, received wider distribution including ports to PlayStation and Sega Saturn in Japan in 1996[^ref-11].
+The game is no longer sold and circulates on abandonware sites[^ref-12][^ref-5]. The Incredible Toon Machine, the expanded follow-up, was released in 1994 for Windows 3.x and the classic Mac OS[^ref-8]. The 1996 Japanese PlayStation and Saturn version was based on this game[^ref-11].
 
 ### Fan Projects
 
-The game remains available through abandonware preservation sites including the Internet Archive[^ref-4], MyAbandonware[^ref-5], and various DOSBox-compatible distribution channels. The included level editor fostered a community of puzzle creators, though organized fan projects are not well documented.
+No organized fan projects are documented. The HomeToons editor lets players save their own puzzles to disk and trade them[^ref-29].
 
 ### Related Publications
 
-- **Game Manual:** Included with game, required for Toon Box copy protection[^ref-13]
+- **Game Manual:** Written by Richard Tunnell and Michael Waite and needed for the Toon Box copy protection[^ref-33][^ref-28]
 - **Trading Cards:** 8 cards included with retail packaging[^ref-1]
 - **Poster:** Included with retail packaging[^ref-1]
 
 ### Critical Perspective
 
-Sid & Al's Incredible Toons occupies an interesting position in puzzle game history as a successful attempt to inject personality into an already proven formula. The Incredible Machine had established the Rube Goldberg device puzzle genre, but Sid & Al's demonstrated that the concept could be successfully adapted to different aesthetic frameworks without losing its appeal[^ref-6].
-
-The game's influence can be seen in later physics-based puzzle games that emphasized humor and character alongside mechanical challenge. Its combination of logical puzzle-solving with cartoon entertainment values anticipated the casual gaming boom by nearly a decade, where approachable mechanics wrapped in appealing presentation became the industry standard. The fact that *Computer Gaming World* described it as transcending genre boundaries into "a new generation of software toys"[^ref-3] suggests critics recognized its forward-thinking design philosophy.
+Writing about the whole series, Jimmy Maher says it was "more than just one of the pioneers of casual games in the abstract: it became the urtext of the entire genre of so-called 'physics simulators'"[^ref-9]. For this entry specifically, *Computer Gaming World* said the game "moves beyond the boundaries of the genre into a new generation of software toys"[^ref-30], and Classic Gaming Network's reviewer credited it with "perfecting" The Incredible Machine's idea[^ref-6].
 
 ## Purchase
 
 **Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/sid-als-incredible-toons) – Available for purchase
+- Not currently sold on GOG or Steam (checked October 2026).
 
 ## Downloads
 
 **Download / Preservation**
 - [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Sid__Als_Incredible_Toons_1993)
-- [Internet Archive – The Incredible Toon Machine](https://archive.org/details/incredible-toon-machine)
 - [MyAbandonware](https://www.myabandonware.com/game/sid-al-s-incredible-toons-1md)
 
 **Manuals & Extras**
@@ -234,30 +236,30 @@ The game's influence can be seen in later physics-based puzzle games that emphas
 
 ## References
 
-[^ref-1]: [MobyGames – Sid & Al's Incredible Toons](https://www.mobygames.com/game/3116/sid-als-incredible-toons/) – credits, ratings, awards, technical specifications, packaging contents
-[^ref-2]: [Wikipedia – Sid & Al's Incredible Toons](https://en.wikipedia.org/wiki/Sid_%26_Al%27s_Incredible_Toons) – release dates, platforms, review scores, awards
-[^ref-3]: [Wikipedia – Sid & Al's Incredible Toons](https://en.wikipedia.org/wiki/Sid_%26_Al%27s_Incredible_Toons) – Computer Gaming World quote, international review scores
-[^ref-4]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Sid__Als_Incredible_Toons_1993) – gameplay description, character details, objectives
-[^ref-5]: [MyAbandonware – Sid & Al's Incredible Toons](https://www.myabandonware.com/game/sid-al-s-incredible-toons-1md) – user ratings, HOTUD review quote, DOSBox compatibility
-[^ref-6]: [Classic Gaming Network – Review](https://www.classic-gaming.net/game/64/) – Bokkie review, score, critical assessment
-[^ref-7]: [GamePressure – Sid & Al's Incredible Toons](https://www.gamepressure.com/games/sid-als-incredible-toons/zbdbe) – technical requirements, features, rating
-[^ref-8]: [PCGamingWiki – The Incredible Toon Machine](https://www.pcgamingwiki.com/wiki/The_Incredible_Toon_Machine) – sequel information, platform details
-[^ref-9]: [The Digital Antiquarian](https://www.filfre.net/?s=Sid+%26+Al%27s+Incredible+Toons) – development history, design influences, technical details
-[^ref-10]: [Play Classic Games](https://playclassic.games/games/puzzle-solving-dos-games-online/play-sid-als-incredible-toons-online/) – gameplay description, character comparisons, puzzle elements
-[^ref-11]: [TV Tropes – Sid and Al's Incredible Toons](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SidAndAlsIncredibleToons) – game mechanics, sequel information, Japanese versions
+[^ref-1]: [MobyGames – Sid & Al's Incredible Toons](https://www.mobygames.com/game/3116/sid-als-incredible-toons/) – developer/publisher, ratings, awards, specs, packaging contents
+[^ref-2]: [Wikipedia – Sid & Al's Incredible Toons](https://en.wikipedia.org/wiki/Sid_%26_Al%27s_Incredible_Toons) – developer, Electronic Entertainment score, CGW award, PC Gamer UK ranking
+[^ref-3]: [Wikipedia – Sid & Al's Incredible Toons](https://en.wikipedia.org/wiki/Sid_%26_Al%27s_Incredible_Toons) – international review scores (PC Games, Wiz)
+[^ref-4]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Sid__Als_Incredible_Toons_1993) – game description: ~100 puzzles, parts list, supporting characters, editor
+[^ref-5]: [MyAbandonware – Sid & Al's Incredible Toons](https://www.myabandonware.com/game/sid-al-s-incredible-toons-1md) – user rating, Home of the Underdogs review text, DOSBox compatibility
+[^ref-6]: [Classic Gaming Network – Sid & Al's Incredible Toons](https://www.classic-gaming.net/game/64/) – Bokkie review (65 points, April 2005), user rating 85.5% (21 ratings)
+[^ref-7]: [GamePressure – Sid & Al's Incredible Toons](https://www.gamepressure.com/games/sid-als-incredible-toons/zbdbe) – system requirements, release date, user rating
+[^ref-8]: [PCGamingWiki – The Incredible Toon Machine](https://www.pcgamingwiki.com/wiki/The_Incredible_Toon_Machine) – sequel release (Windows 3.x and Mac OS, 1994)
+[^ref-9]: [The Digital Antiquarian – The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) – Jimmy Maher, series origins, Jeff Tunnell Productions, sequels, influence
+[^ref-10]: [Play Classic Games](https://playclassic.games/games/puzzle-solving-dos-games-online/play-sid-als-incredible-toons-online/) – game description (Tom & Jerry comparison)
+[^ref-11]: [TV Tropes – Sid and Al's Incredible Toons](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SidAndAlsIncredibleToons) – toon physics, Incredible Toon Machine cutscenes, 1996 Japanese version
 [^ref-12]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Sid+&gid=2512) – user rating, graphics description, series info
 [^ref-13]: [Sierra Chest – Easter Eggs](https://sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=eggs) – Quarky reference, Johnny Castaway sounds
 [^ref-14]: [SuperCheats – Bonus Levels](https://www.supercheats.com/pc/sidalsincredibletoons.htm) – WIND password cheat
-[^ref-15]: [Kultboy – Power Play Coverage](http://www.kultboy.com/index.php?site=t&id=3347) – German review, user commentary
-[^ref-16]: [MobyGames – MobyRank](http://www.mobygames.com/game/dos/sid-als-incredible-toons/mobyrank) – aggregate critic and player scores
-[^ref-17]: [Music Stack Exchange – Game Music Discussion](https://music.stackexchange.com/questions/77245/how-do-video-game-music-composers-make-so-many-songs-for-one-game-are-all-of-th) – public domain music usage
+[^ref-15]: [Kultboy – Power Play 1/94](http://www.kultboy.com/index.php?site=t&id=3347) – scan of the Power Play review
+[^ref-16]: [MobyGames – Reviews](https://www.mobygames.com/game/3116/sid-als-incredible-toons/reviews/) – critic average 82% (17 ratings), player average 3.9/5 (14 ratings)
 [^ref-18]: [Sierra Chest – Music](https://www.sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=music) – soundtrack track listing
-[^ref-19]: [PCGamingWiki – Sid & Al's Incredible Toons](https://www.pcgamingwiki.com/wiki/Sid_%26_Al%27s_Incredible_Toons) – save file locations, system requirements
-[^ref-21]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – sequel features, puzzle count
-[^ref-22]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Sid_%26_Al%27s_Incredible_Toons) – development credits, Electronic Entertainment review
-[^ref-23]: [Alchetron – Sid and Al's Incredible Toons](https://alchetron.com/Sid-and-Al%27s-Incredible-Toons) – designer credits, platform information
-[^ref-24]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – series relationship, developer information
-[^ref-25]: [Metacritic](https://www.metacritic.com/game/sid-and-als-incredible-toons/) – platform and genre classification
-[^ref-26]: [IMDB – Sid & Al's Incredible Toons](https://www.imdb.com/title/tt0471034/) – release year, designer credits
-[^ref-27]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/sid-als-incredible-toons) – user commentary on gameplay
-[^ref-28]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=walkthrough) – puzzle count, technical specifications, password system
+[^ref-19]: [PCGamingWiki – Sid & Al's Incredible Toons](https://www.pcgamingwiki.com/wiki/Sid_%26_Al%27s_Incredible_Toons) – developer, save file locations, system requirements, copy protection
+[^ref-21]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – sequel: 130 new puzzles, player-versus-player mode
+[^ref-22]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Sid_%26_Al%27s_Incredible_Toons) – developer credit, STBVID patch
+[^ref-28]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=walkthrough) – release date, puzzle counts, 71 parts, Pro-Parts, 99 sound effects, 30 songs, Toon Box, bonus puzzles
+[^ref-29]: [Computer Gaming World #115 (February 1994), pp. 148–150](https://archive.org/details/Computer_Gaming_World_Issue_115) – Neil Harris, "Saturday Morning Fever!" review
+[^ref-30]: [Computer Gaming World #119 (June 1994)](https://archive.org/details/Computer_Gaming_World_Issue_119) – Premier Awards, Strategy Game of the Year coverage
+[^ref-31]: [Computer Gaming World #148 (November 1996)](https://archive.org/details/Computer_Gaming_World_Issue_148) – "The Funniest Games Of All Time", #12
+[^ref-32]: [Electronic Entertainment, March 1994, p. 90](https://archive.org/details/ElectronicEntertainment03Mar1994) – Wayne Kawamoto review
+[^ref-33]: [MobyGames – Credits (DOS)](https://www.mobygames.com/game/3116/sid-als-incredible-toons/credits/dos/) – full DOS credits incl. manual writers and original game concept
+[^ref-34]: [Sierra Chest – Sid & Al's Incredible Toons](https://sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons) – developer, origami box, Incredible Toon Machine re-release details
