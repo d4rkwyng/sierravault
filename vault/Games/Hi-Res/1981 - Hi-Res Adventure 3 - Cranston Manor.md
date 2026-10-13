@@ -10,27 +10,29 @@ series: Hi-Res Adventure
 engine: Adventure Development Language (ADL)
 protagonist: Unnamed treasure hunter
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-12'
 description: 'Hi-Res Adventure #3: Cranston Manor is a text-and-graphics adventure
   game released in 1981 by On-Line Systems, the company that would later become Sierra...'
 tags: [1980s, adventure, hi-res-adventure, sierra]
 ---
 # Hi-Res Adventure #3: Cranston Manor
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Hi-Res Adventure #3: Cranston Manor is a text-and-graphics adventure game released in 1981 by On-Line Systems, the company that would later become Sierra On-Line[^ref-1]. As the third numbered entry in the Hi-Res Adventures series—though technically the fourth game released in the series—Cranston Manor holds a unique distinction as the first Hi-Res Adventure not to involve [[Roberta Williams]] in its development[^ref-2]. This allowed Williams to focus her creative energies on the ambitious Hi-Res Adventure #5: Time Zone while Harold DeWitz and Ken Williams brought Lord Cranston's haunted estate to life[^ref-2].
+Hi-Res Adventure #3: Cranston Manor is a text-and-graphics adventure game for the Apple II, published in 1981 by On-Line Systems, the company that would later become Sierra On-Line[^ref-1][^ref-8]. Although numbered third in the Hi-Res Adventure series, it was the fourth released: *Softalk* called it "number three, the fourth (because they count like computers)"[^ref-31], and The Sierra Chest notes it followed Hi-Res Adventure #0: Mission Asteroid[^ref-2]. It was the first Hi-Res Adventure that [[Roberta Williams]] was not involved with[^ref-2]. *Softalk* put it plainly: "Cranston Manor is the creation of Harold DeWitz," with [[Ken Williams]]'s programming "clearly in evidence"[^ref-31].
 
-The game challenges players to infiltrate a mansion once occupied by a late millionaire and recover sixteen treasures hidden throughout the property[^ref-3]. Set in the fictional town of Coarsegold—the same California town where On-Line Systems was headquartered—Cranston Manor blends treasure hunting with supernatural elements[^ref-4]. The mysterious Lord Cranston "had lived a life of excessive luxury, pleasure and sin, and knew that soon he would end up 'paying the piper'"[^ref-2], and rumors persist that his disembodied spirit still roams the estate, guarding his hidden riches[^ref-2].
+The game is an adaptation of Larry Ledden's earlier text adventure *The Cranston Manor Adventure*, published by Artworx for the Atari 400/800[^ref-33][^ref-34]. Ledden sold On-Line the rights to make the illustrated version and was paid royalties, but was not credited in it[^ref-33][^ref-1].
 
-Before Sierra became famous for their revolutionary King's Quest series, the Hi-Res Adventures represented the company's pioneering efforts in combining graphics with text-based adventure gameplay on home computers[^ref-4]. Cranston Manor exemplifies the early era of graphical adventures, featuring color hi-res graphics that could be toggled with a purely text-based mode, giving players flexibility in how they experienced the game[^ref-5].
+The player must enter the estate of the late old man Cranston, recover the sixteen treasures he hid there, and carry them outside the gates to revive the deserted town of Coarsegold[^ref-32][^ref-31]. Coarsegold was a real place: it was On-Line Systems' own home town, and the manual gives the company's Coarsegold address[^ref-32][^ref-4]. Like other Hi-Res Adventures, the game lets players switch between its colour graphics and a text-only display[^ref-1][^ref-4].
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]][^ref-1]
-> **Designer:** Harold DeWitz, [[Ken Williams]][^ref-2]
-> **Publisher:** On-Line Systems / StarCraft, Inc.[^ref-3]
+> **Designer:** Harold DeWitz, [[Ken Williams]][^ref-31][^ref-35]
+> **Based on:** *The Cranston Manor Adventure* by Larry Ledden (Artworx)[^ref-33][^ref-34]
+> **Cover Art:** Duke Haubelt[^ref-35]
+> **Publisher:** On-Line Systems; StarCraft, Inc. (Japan)[^ref-3]
 > **Engine:** Adventure Development Language (ADL)[^ref-2]
 > **Platforms:** Apple II, FM-7, PC-88, PC-98[^ref-3]
 > **Release Year:** 1981
@@ -40,128 +42,108 @@ Before Sierra became famous for their revolutionary King's Quest series, the Hi-
 
 ## Story Summary
 
-The narrative of Cranston Manor centers on the mysterious legacy of Lord Cranston, a wealthy figure whose fortune was acquired through questionable means. "Exactly how he made his fortune is unknown (it appears he wasn't a man known for either scruples or morals)"[^ref-2]. As death approached, the unscrupulous millionaire took drastic measures to protect his wealth from those who might claim it after his passing.
+The manual opens: "Old man Cranston trusted no one. He accumulated his immense wealth through questionable means." Before being "dragged to his grave by cancer, he hid his treasures on his estate," and he is suspected of still haunting the mansion and grounds to guard them[^ref-32]. The Sierra Chest's synopsis adds that he "had lived a life of excessive luxury, pleasure and sin, and knew that soon he would end up 'paying the piper'", and that rumour has his "disembodied spirit" roaming the estate[^ref-2].
 
-Lord Cranston hid his treasures throughout the mansion and the surrounding property, ensuring that his riches would not easily fall into the hands of others[^ref-2]. The game's manual describes the fantasy premise: Cranston Manor is presented as a place where the supernatural and the material world intersect[^ref-6]. Legend holds that the lord's spirit continues to patrol his domain, serving as an eternal guardian of his ill-gotten gains[^ref-2].
+The player begins in "the deserted town of Coarsegold, which was strangled to death through old man Cranston's greed and plotting"[^ref-32]. The goal is to enter Cranston Manor, find the treasures and put them outside the gates so they can be used to rejuvenate the town. The player even has a list of the 16 treasures Cranston stole and hid, but "it is not legible!"[^ref-32]
 
-Players assume the role of an unnamed treasure hunter who has heard tales of the sixteen treasures concealed within Cranston Manor's walls and grounds[^ref-3]. The objective is straightforward yet challenging: locate and collect all sixteen treasures while navigating the dangers—both natural and supernatural—that await within the estate. The mansion itself becomes a character in the story, with its various rooms, hidden passages, and outdoor areas forming an elaborate puzzle box that the player must systematically explore and conquer[^ref-4].
+*Softalk* observed that the game never explains itself: "you never will know the story behind the robot-like living suits of armor or the deadly tin soldiers"[^ref-31]. A MobyGames reviewer describes reaching the mansion through a hedge maze, and notes that in Coarsegold itself only the general store can be entered[^ref-4].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Cranston Manor utilizes a text parser interface typical of early 1980s adventure games[^ref-4]. Players interact with the game world by typing commands using a two-word verb-noun structure[^ref-4]. According to the original documentation, "the computer has a tremendous vocabulary, although it only understands sentences of one or two words"[^ref-2]. This simple yet functional input method requires players to think carefully about how to describe their intended actions using basic command combinations like "GET LAMP" or "OPEN DOOR."
+Cranston Manor uses a text parser. In the manual's words, "the computer has a tremendous vocabulary, although it only understands sentences of one or two words," usually a verb and a noun such as "Climb Tree"[^ref-32]. Control is by keyboard only, and some commands, including directions, can be abbreviated[^ref-4].
 
-The game operates with keyboard-only input, with no mouse or joystick support[^ref-4]. Players navigate the environment using directional commands and examine objects to gather clues about the treasures' locations. The interface supports saving progress, with save game slots designated from A to O, providing players with fifteen save positions to record their progress through the adventure[^ref-2].
+Games are saved to a separate disk; the player is prompted for a letter from A to O, so several games can be kept at once[^ref-32].
 
 ### Structure and Progression
 
-The game follows a non-linear exploration structure where players are free to investigate different areas of Cranston Manor and its grounds in their chosen order. The ultimate goal requires collecting all sixteen treasures scattered throughout the property[^ref-3]. Progress is measured by the number of treasures successfully retrieved and secured.
-
-One distinctive feature allows players to switch between graphic and text modes during gameplay[^ref-5]. When graphics are displayed, the screen is split between the visual representation of the current location and the text area where descriptions and commands appear. The text display area is limited to four lines[^ref-2], requiring concise communication between the game and player.
+Each location is shown in colour with a brief description below the picture. Asking for a closer look at part of a scene may bring up a close-up, and dropped objects appear in the picture[^ref-32]. The manual notes that "the Apple-II only provides for four lines of text on the display"; pressing Return on an empty line shows the last twenty-four lines of the conversation[^ref-32]. The MobyGames reviewer used this as a text-only mode, but noted that moving to a new location switches the display back to graphics[^ref-4].
 
 ### Puzzles and Mechanics
 
-The puzzle design in Cranston Manor follows the treasure-hunt paradigm common to adventure games of the era[^ref-5]. Players must explore locations, collect useful items, and determine how to access areas where treasures are hidden. The game demands creative problem-solving, with the original documentation warning that completion "may take weeks"[^ref-2].
-
-The treasure collection mechanic provides the game's central structure, with each of the sixteen treasures presenting its own set of challenges to acquire[^ref-3]. Some treasures may be protected by environmental hazards, locked behind barriers requiring specific items to bypass, or guarded by the supernatural presence that allegedly haunts the manor[^ref-2].
+The manual warns that Cranston Manor "is not a game that will be solved at one sitting. Even slight progress may take weeks," and advises keeping a map and trying every direction from every location[^ref-32]. *Softalk* found it "riddled with good stumping riddles"[^ref-31].
 
 ## Reception
 
 ### Contemporary Reviews
 
-As an early 1980s release for home computers, Cranston Manor emerged during a period when formal game review culture was still developing. The game was marketed as part of Sierra's Hi-Res Adventures series, which had established a reputation for quality adventure gaming on the Apple II platform[^ref-8].
+*Softalk* reviewed the game in its September 1981 issue. It judged the game "an able job of adventure devising; but it lacks the plot and purpose we've come to expect and enjoy in On-Line adventures," attributing those qualities to Roberta Williams, yet concluded that "Cranston Manor is much fun to play"[^ref-31]. The same issue's bestseller report, covering July 1981, noted that "On-Line snared another spot in the top ten with Hi-Res Adventure #3: Cranston Manor"[^ref-31].
 
 ### Modern Assessment
 
-Modern retrospectives have evaluated Cranston Manor within the context of Sierra's development as a company and the evolution of the adventure game genre. A MobyGames user review from 2011 provides insight into how the game holds up decades after its release, noting that "before they became famous for their King's Quest series, On-Line Systems (or Sierra On-Line, as they were called later) released a number of adventure games for the Apple ][" called Hi-Res Adventures[^ref-4].
-
-The same review critiques the game's technical aspects, noting the lack of sound and the limitations of the two-word parser system[^ref-4]. However, the color graphics were considered impressive for the era, and the treasure-hunting gameplay provided a clear objective that gave players motivation to explore every corner of the manor.
+A 2011 MobyGames user review places the game in context: "Before they became famous for their King's Quest series, On-Line Systems (or Sierra On-Line, as they were called later) released a number of adventure games for the Apple ][ called Hi-Res Adventures"[^ref-4]. The reviewer praised the colour graphics as more colourful than *Mystery House*'s, and said of the absence of sound, "I don't care if there is or if there isn't." The only complaint listed under "The Bad" was the text-only mode switching back to graphics[^ref-4]. The reviewer recommended it to Sierra fans who "want to know what Sierra was capable of in the early Eighties"[^ref-4].
 
 **Aggregate Scores:**
-- **MobyGames:** 7.4/10[^ref-3]
+- **MobyGames:** 7.3/10[^ref-3]
 
 ## Development
 
 ### Origins
 
-Cranston Manor was developed during a pivotal period for On-Line Systems. The company had already released several successful adventure titles, and the Hi-Res Adventures series was becoming a flagship product line. Roberta Williams, who had designed the first two Hi-Res Adventures (Mystery House and The Wizard and the Princess), was unavailable to work on Cranston Manor as she was presumably occupied with the massive undertaking of Hi-Res Adventure #5: Time Zone[^ref-2].
+Larry Ledden wrote *The Cranston Manor Adventure* as a text adventure; the Artworx release was for the Atari 400/800[^ref-33][^ref-34]. Ledden later recalled: "Sierra On-Line purchased the rights from me to make the illustrated version. I had written the game as a data driven engine so it was quite straightforward to port it to another system"[^ref-33]. He added: "I got royalties from them for a couple years for sales of their version... I was a newbie at software contracts and didn't know enough to require a credit"[^ref-33]. *The Giant List of Classic Game Programmers* lists the On-Line version under Ledden, Harold DeWitz and Ken Williams[^ref-34].
 
-The game was based on an original text adventure called "The Cranston Manor Adventure"[^ref-3], which was adapted and enhanced with graphics for the Hi-Res Adventure series. This adaptation process allowed On-Line Systems to leverage existing game designs while adding the visual elements that distinguished their Hi-Res Adventures from purely text-based competitors.
+Roberta Williams was not involved, presumably because she was working on the much larger Hi-Res Adventure #5: Time Zone[^ref-2]. *Softalk* reported that she was "spending all her time now on number four — a giant multidisk adventure that will take you all over history in living color"[^ref-31].
 
 ### Production
 
-Development of Cranston Manor fell to Harold DeWitz, who worked alongside Ken Williams to bring the game to completion[^ref-2]. The game was created using the Adventure Development Language (ADL), Sierra's proprietary system for developing adventure games[^ref-2]. This development environment would evolve over the years, eventually leading to the AGI and later SCI engines that powered Sierra's most famous titles.
+The game was published from On-Line Systems' base in Coarsegold, California, and was credited to Harold DeWitz and Ken Williams[^ref-32][^ref-31]. It was built with the Adventure Development Language (ADL)[^ref-2]. The box cover art is credited to Duke Haubelt[^ref-35].
 
-The game was created in Coarsegold, California, the small town where On-Line Systems had established its headquarters[^ref-6]. This location directly influenced the game's setting, as Coarsegold serves as the fictional setting for the mansion itself[^ref-4].
-
-**Development Credits:**[^ref-2]
-- **Designer:** Harold DeWitz
-- **Designer:** Ken Williams
-
-### Technical Achievements
-
-Cranston Manor showcased the capabilities of the Apple II's high-resolution graphics mode, displaying color images that helped players visualize the game world[^ref-4]. The ability to toggle between graphics and text-only modes demonstrated On-Line Systems' understanding of different player preferences and hardware capabilities[^ref-5].
-
-The Adventure Development Language (ADL) engine allowed for a streamlined development process while maintaining the two-word parser system that had become standard for the series[^ref-2]. The engine handled text parsing, graphics display, inventory management, and the save/load functionality that allowed players to preserve their progress across multiple sessions.
+**Development Credits:**[^ref-35]
+- **Designers:** Harold DeWitz, Ken Williams
+- **Cover artwork:** Duke Haubelt
+- **Original text adventure (uncredited):** Larry Ledden[^ref-33]
 
 ### Technical Specifications
 
-**Apple II Version:**[^ref-9]
-- **Media:** 5 1/4 inch floppy disk
-- **Media Count:** 1 disk
-- **File Size:** Approximately 72 KB
-- **Compatible DOS:** Apple DOS 3.2 and 3.3[^ref-6]
-
-**FM-7 Version:**[^ref-9]
-- **File Size:** 148-151 KB
-
-**PC-88 Version:**[^ref-9]
-- **File Size:** 301 KB
+**Apple II Version:**
+- **Media:** One 5 1/4 inch floppy disk[^ref-10]
+- **Requirements:** 48K; DOS 3.2 or 3.3[^ref-32][^ref-10][^ref-6]
+- **Price:** $34.95[^ref-32][^ref-31]
+- **Sound:** None[^ref-4][^ref-36]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1981 | Apple II | Initial release in black and white folder[^ref-2] |
-| 1.x | 1981 | Apple II | Re-release in color folder[^ref-2] |
-| SierraVenture | 1981-82 | Apple II | Re-released as SierraVenture title[^ref-2] |
-| Japanese | 1983 | FM-7 | Japanese localization by StarCraft, Inc.[^ref-3] |
-| Japanese | 1983 | PC-88 | Japanese localization by StarCraft, Inc.[^ref-3] |
-| Japanese | 1983 | PC-98 | Japanese localization by StarCraft, Inc.[^ref-3] |
+| Original | 1981 | Apple II | Released in a black and white On-Line Systems folder[^ref-2] |
+| Reissue | Undated | Apple II | Same folder in colour[^ref-2] |
+| SierraVenture | Undated | Apple II | Re-released as a SierraVenture title in a large folder[^ref-2] |
+| Japanese | 1983 | FM-7 | Published by StarCraft, Inc.[^ref-3] |
+| Japanese | October 1983 | PC-88 | Published by StarCraft, Inc.[^ref-3] |
+| Japanese | October 1983 | PC-98 | Published by StarCraft, Inc.[^ref-3] |
 
-The game saw several packaging variations during its initial run on the Apple II. The original release featured a black and white folder, which was later replaced by a color folder as the game continued to sell[^ref-2]. Additionally, Cranston Manor was re-released under the SierraVenture branding, which Sierra used for certain adventure titles during this period[^ref-2].
+The re-release dates are not recorded in the sources consulted.
 
 ### Easter Eggs and Trivia
 
-- The game is set in Coarsegold, the same California town where On-Line Systems was headquartered, providing a local flavor to the adventure[^ref-4][^ref-2].
-- Cranston Manor is officially numbered as Hi-Res Adventure #3, though it was actually the fourth game released in the series[^ref-3][^ref-2].
-- This was the first Hi-Res Adventure developed without Roberta Williams' direct involvement, marking a transition point for the series[^ref-2].
-- The Japanese versions were published by StarCraft, Inc. for multiple Japanese computer platforms[^ref-3].
+- The game's deserted town is Coarsegold, On-Line Systems' real home town; *Softalk* noted it is "called, coincidentally, Coarsegold"[^ref-31][^ref-32].
+- Cranston Manor is numbered Hi-Res Adventure #3 but was the fourth released[^ref-31][^ref-2].
+- It was the first Hi-Res Adventure developed without Roberta Williams[^ref-2].
+- The original author, Larry Ledden, received royalties but no credit[^ref-33].
+- The Japanese versions were published by StarCraft, Inc.[^ref-3]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Cranston Manor contributed to the growing reputation of On-Line Systems as a premier developer of adventure games for home computers. The Hi-Res Adventures series helped establish the company's position in the market before the revolutionary King's Quest launched in 1984[^ref-4][^ref-1]. The game's release across multiple platforms, including Japanese ports for the FM-7, PC-88, and PC-98, demonstrated the international appeal of Sierra's adventure game formula[^ref-3].
+Cranston Manor reached the top ten of *Softalk*'s Apple bestseller poll for July 1981[^ref-31]. Wikipedia's Sierra history lists it among the Hi-Res Adventures of 1981 and 1982, before *King's Quest* launched in mid-1984[^ref-8]. Japanese versions for the FM-7, PC-88 and PC-98 followed in 1983[^ref-3].
 
-### Collections
+### Preservation
 
-Cranston Manor has been included in various retrospective collections and archives dedicated to preserving early Sierra software. The game is part of the Stephen M. Cabrinety Collection in the History of Microcomputing at Stanford University, which documents the early history of personal computer gaming[^ref-10]. An original Sierra On-Line catalog featuring the Hi-Res Adventures series, including Cranston Manor, has been preserved at the Internet Archive[^ref-11].
+A copy is held in the Stephen M. Cabrinety Collection in the History of Microcomputing at Stanford University[^ref-10]. An On-Line Systems Hi-Res Adventures catalog that advertises Cranston Manor is preserved at the Internet Archive[^ref-11]. The game's instruction sheet is scanned at the Museum of Computer Adventure Game History[^ref-32].
 
-### Modern Preservation
+### Modern Compatibility
 
-The game has been made playable on modern systems through the ScummVM project, which added support for Cranston Manor in version 2.0.0, released on January 8, 2018[^ref-12]. ScummVM "makes it possible to run classic point and click adventures on modern platforms by replacing the original games' binaries with native interpreters"[^ref-12], ensuring that Cranston Manor remains accessible to new generations of adventure game enthusiasts.
+ScummVM added support for Hi-Res Adventure #3: Cranston Manor in version 2.0.0, released on 17 December 2017[^ref-12].
 
 ### Related Publications
 
-- **Game Manual:** Original documentation included with game, containing gameplay instructions and parser information[^ref-2]
+- **Game Manual:** Single-sheet instructions covering the parser, graphics, saving and the story[^ref-32]
 
 ### Critical Perspective
 
-Cranston Manor occupies an important but often overlooked position in Sierra's history. While it lacks the name recognition of later titles like King's Quest or Space Quest, the game represents a critical period in the company's development as adventure game creators. The decision to have Harold DeWitz and Ken Williams develop the title while Roberta Williams focused on the massive Time Zone project showed the company's growing capacity to handle multiple development efforts simultaneously[^ref-2].
-
-The game's straightforward treasure-hunting premise and two-word parser system reflect the design conventions of early 1980s adventure gaming. While these elements may seem primitive by modern standards, they represent the state of the art for home computer entertainment at the time. The Hi-Res Adventures series as a whole helped establish conventions that would influence adventure game design for years to come, even as Sierra's own technology evolved dramatically with the introduction of AGI and later SCI engines[^ref-1][^ref-8].
+Cranston Manor is a minor but telling entry in Sierra's history. It was the first Hi-Res Adventure made without Roberta Williams, an adaptation of an outside author's text game, and *Softalk*'s review drew the contrast directly: inventive puzzles, but missing the plot and purpose of her designs[^ref-31][^ref-2][^ref-33].
 
 ## Purchase
 
@@ -169,12 +151,12 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 
 ## Downloads
 
-**Download / Preservation**
+**Documentation / Preservation**
 - [Internet Archive – Sierra On-Line Hi-Res Adventures Catalog](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog)
-- [MyAbandonware – Cranston Manor](https://www.myabandonware.com/game/hi-res-adventure-3-cranston-manor-7x1)
+- [MOCAGH – Cranston Manor manual (PDF)](https://mocagh.org/sierra/cranston-alt3.pdf)
 
 **Modern Compatibility**
-- ScummVM 2.0.0+ supports Cranston Manor for modern platforms[^ref-12] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-26][^ref-27][^ref-28][^ref-30]
+- ScummVM 2.0.0+ supports Cranston Manor[^ref-12]
 
 
 ## See Also
@@ -193,18 +175,18 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 
 ## References
 
-[^ref-1]: [Wikipedia – Hi-Res Adventure #3: Cranston Manor](https://en.wikipedia.org/wiki/Hi-Res_Adventure_%233%3A_Cranston_Manor) – series history, release date, developer information
-[^ref-2]: [Sierra Chest – Cranston Manor](https://sierrachest.com/index.php?a=games&id=196&fld=general) – development details, designers, engine, packaging versions, story background
-[^ref-3]: [MobyGames – Hi-Res Adventure #3: Cranston Manor](https://www.mobygames.com/game/15281/hi-res-adventure-3-cranston-manor/) – release dates, platforms, publishers, ratings, game description
-[^ref-4]: [MobyGames User Review – Katakis](https://www.mobygames.com/game/15281/hi-res-adventure-3-cranston-manor/reviews/) – technical specifications, gameplay analysis, historical context
-[^ref-5]: [Sierra Gamers – Cranston Manor](https://www.sierragamers.com/cranston-manor/) – gameplay mechanics, mode switching, treasure hunt objective
-[^ref-6]: [WorthPoint – Cranston Manor Listing](https://www.worthpoint.com/worthopedia/cranston-manor-hi-res-adventure-apple-1789799701) – DOS compatibility, physical media information, development location
-[^ref-8]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – company history, series context
-[^ref-9]: [MyAbandonware – Hi-Res Adventure #3: Cranston Manor](https://www.myabandonware.com/game/hi-res-adventure-3-cranston-manor-7x1) – file sizes, platform versions, release regions
-[^ref-10]: [Stanford SearchWorks – Cabrinety Collection](https://searchworks.stanford.edu/view/ky378tt5201) – archival preservation, media format
-[^ref-11]: [Internet Archive – Sierra On-Line Hi-Res Adventures Catalog](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) – original catalog documentation
-[^ref-12]: [Internet Archive – ScummVM 2.0.0 Release](https://archive.org/details/scummvm-2.0.0) – modern compatibility support, release date
-[^ref-26]: [Sierra Fandom Wiki – Cranston Manor Behind the Scenes](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor/Behind_the_scenes) – production context
-[^ref-27]: [Sierra Fandom Wiki – Cranston Manor Music](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor/Music) – audio information
-[^ref-28]: [Sierra Fandom Wiki – Cranston Manor Unused Content](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor/Unused_content) – cut content research
-[^ref-30]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Hi-Res+Adventure+%233%3A+Cranston+Manor) – alternative title confirmation
+[^ref-1]: [Wikipedia – Cranston Manor](https://en.wikipedia.org/wiki/Cranston_Manor) – Apple II graphic adventure, 1981, Hi-Res Adventure #3; graphics/text switching; based on Larry Ledden's The Cranston Manor Adventure
+[^ref-2]: [Sierra Chest – Cranston Manor](https://sierrachest.com/index.php?a=games&id=196&fld=general) – story background, fourth Hi-Res Adventure, no Roberta Williams involvement, ADL engine, packaging versions
+[^ref-3]: [MobyGames – Hi-Res Adventure #3: Cranston Manor](https://www.mobygames.com/game/15281/hi-res-adventure-3-cranston-manor/) – release dates, platforms, publishers (On-Line Systems, StarCraft, Inc.), Moby Score 7.3
+[^ref-4]: [MobyGames User Review – Katakis](https://www.mobygames.com/game/15281/hi-res-adventure-3-cranston-manor/reviews/) – 2011 user review: graphics, no sound, two-word parser, text-only mode
+[^ref-6]: [WorthPoint – Cranston Manor Listing](https://www.worthpoint.com/worthopedia/cranston-manor-hi-res-adventure-apple-1789799701) – sales listing: On-Line Systems, Coarsegold, 1981, DOS 3.2 or 3.3
+[^ref-8]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – company history, Hi-Res Adventure series, King's Quest in mid-1984
+[^ref-10]: [Stanford SearchWorks – Cabrinety Collection](https://searchworks.stanford.edu/view/ky378tt5201) – archival copy, one 5 1/4 inch floppy, Apple DOS 3.2/3.3
+[^ref-11]: [Internet Archive – Sierra On-Line Hi-Res Adventures Catalog](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) – original catalog advertising Cranston Manor
+[^ref-12]: [ScummVM – NEWS.md](https://raw.githubusercontent.com/scummvm/scummvm/master/NEWS.md) – 2.0.0 (2017-12-17): "Added support for Hi-Res Adventure #3: Cranston Manor"
+[^ref-31]: [Softalk, September 1981 (Vol. 2 No. 1)](https://archive.org/details/softalkv2n01sep1981) – review of Cranston Manor; July 1981 bestseller report and top ten
+[^ref-32]: [MOCAGH – Hi-Res Adventure #3 instructions (PDF)](https://mocagh.org/sierra/cranston-alt3.pdf) – original manual: $34.95, 48K, DOS 3.2/3.3, parser, save slots A–O, story
+[^ref-33]: [Museum of Computer Adventure Game History – Cranston Manor Adventure (Artworx)](https://www.mocagh.org/loadpage.php?getgame=cranston-alt) – Larry Ledden's account of selling Sierra the rights, royalties, no credit
+[^ref-34]: [The Giant List of Classic Game Programmers](https://dadgum.com/giantlist/) – Larry Ledden: Cranston Manor Adventure (1981, A8, Artworx); Cranston Manor w/ Harold DeWitz, Ken Williams (On-Line)
+[^ref-35]: [MobyGames – Cranston Manor Apple II credits](https://www.mobygames.com/game/15281/hi-res-adventure-3-cranston-manor/credits/apple2/) – by Harold DeWitz, Ken Williams; cover artwork by Duke Haubelt
+[^ref-36]: [Sierra Fandom Wiki – Cranston Manor](https://sierra.fandom.com/wiki/Cranston_Manor) – "The game features no music"
