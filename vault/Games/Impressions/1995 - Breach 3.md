@@ -10,14 +10,14 @@ series: Breach
 engine: AIL / Miles Sound System
 protagonist: Federated Worlds Special Forces Squad Leader
 sierra_lineage: Sierra Published
-last_updated: '2026-05-11'
-description: Breach 3 is a squad-level tactical combat game set in a futuristic science
-  fiction universe, released in 1995 for MS-DOS. Developed jointly by Omnitrend...
+last_updated: '2026-10-13'
+description: Breach 3 is a 1995 real-time squad tactics game for MS-DOS, designed by
+  Omnitrend Software and published by Impressions Games, with Sierra On-Line distributing.
 tags: [1990s, breach, sierra]
 ---
 # Breach 3
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
@@ -25,27 +25,26 @@ Breach 3 is a squad-level tactical combat game set in a futuristic science ficti
 
 The game distinguishes itself from contemporaries like X-COM through its top-down perspective rather than an isometric viewpoint, featuring real-time combat that pauses automatically when players need to make important decisions.[^ref-2] Each marine under the player's command possesses a unique personality that determines how far they'll actually follow orders, adding a layer of unpredictability to tactical planning.[^ref-4] Breach 3 was marketed as "easy to play yet challenging to master," promising to set "new standards in playability" for the genre.[^ref-4]
 
-Perhaps most notably, Breach 3 was designed as part of Omnitrend's innovative "Interlocking Game System," allowing it to link up with Impressions' space combat game Rules of Engagement 2.[^ref-5] Character attributes and experience could be transferred between the two games, creating a comprehensive science fiction warfare experience spanning both capital ship combat and ground-based squad operations.[^ref-6] The game arrived approximately four years after Omnitrend's demise, with Impressions picking up the engine to complete development.[^ref-7]
+Perhaps most notably, Breach 3 was designed as part of Omnitrend's innovative "Interlocking Game System," allowing it to link up with Impressions' space combat game Rules of Engagement 2.[^ref-5] Character attributes and experience could be transferred between the two games, creating a comprehensive science fiction warfare experience spanning both capital ship combat and ground-based squad operations.[^ref-6] Omnitrend had signed with Impressions in 1992 to release Breach 3 and Rules of Engagement 2,[^ref-23] but Breach 3 did not reach shelves until late 1995, a delay *Computer Gaming World* reckoned at two years.[^ref-21]
 
 > [!info]- Game Info
 > **Developer:** Omnitrend Software, Inc. / [[Impressions Games]][^ref-2]
 > **Designers:** Thomas R. Carbone, Christopher Bamford, Scott Woodrick[^ref-2]
-> **Publisher:** Impressions Games / [[Sierra On-Line]][^ref-8]
+> **Publisher:** Impressions Games / [[Sierra On-Line]][^ref-8][^ref-10]
 > **Engine:** AIL / Miles Sound System[^ref-2]
 > **Platforms:** MS-DOS[^ref-2]
 > **Release Year:** 1995
 > **Series:** Breach
 > **Protagonist:** Federated Worlds Special Forces Squad Leader
 > **Sierra Lineage:** Sierra Published
-> **Designer:** Thomas R. Carbone, Christopher Bamford, Scott Woodrick
 
 ## Story Summary
 
-The narrative of Breach 3 unfolds within Omnitrend's expansive Universe setting, a science fiction universe that spans multiple games including Universe, Rules of Engagement, and the Breach series.[^ref-9] The game's lore establishes that the story begins with The First Stellar Expansion, which commenced on May 10, 2009 CE with the first practical demonstration of the hyperdrive field effect.[^ref-3] This pivotal test was carried out in Building 4 of Area 117 at the Franklin Labs Research Range in Hawthorne, Nevada.[^ref-3]
+The narrative of Breach 3 unfolds within Omnitrend's expansive Universe setting, a science fiction universe that spans multiple games including Universe, Rules of Engagement, and the Breach series.[^ref-9] The game's lore establishes that the story begins with The First Stellar Expansion, which commenced on May 10, 2029 CE with the first practical demonstration of the hyperdrive field effect.[^ref-20] This pivotal test was carried out in Building 4 of Area 117 at the Franklin Labs Research Range in Hawthorne, Nevada.[^ref-20]
 
-Following this breakthrough, NASA developed and deployed the Odysseus I and II test vehicles to prove hyperdrive technology viable for interstellar travel.[^ref-3] Humanity subsequently expanded across the stars, eventually forming competing interstellar governments: the Federated Worlds and the United Democratic Planets. By the time of Breach 3, these two powers find themselves locked in strategic conflict.
+Five years later, NASA deployed the unmanned Odysseus I and II vehicles to test the practicality of hyperdrive for interplanetary and interstellar travel.[^ref-3][^ref-20] Humanity subsequently expanded across the stars, eventually forming competing interstellar governments: the Federated Worlds and the United Democratic Planets. By the time of Breach 3, these two powers find themselves locked in strategic conflict.
 
-Players assume the role of a squad leader in the elite Federated Worlds Special Forces, commanding a team of highly trained marines on missions critical to the security of the Federated Worlds.[^ref-3] The campaigns involve operations against both human enemies from the United Democratic Planets and more exotic threats including aliens and robots.[^ref-2] The squad leader's career spans multiple missions, with the commander gaining experience from each successful operation—assuming they survive, as death ends the campaign permanently.[^ref-2]
+Players assume the role of a squad leader in the elite Federated Worlds Special Forces, commanding a team of highly trained marines on missions critical to the security of the Federated Worlds.[^ref-3] The campaigns involve operations against both human enemies from the United Democratic Planets and more exotic threats including aliens and robots.[^ref-2] The squad leader's career spans multiple missions, with the commander gaining experience from each successful operation—assuming they survive, as the squad leader's death ends the campaign.[^ref-2][^ref-20]
 
 ## Gameplay
 
@@ -57,46 +56,46 @@ The game features a real-time environment that permits stopping time to plan str
 
 ### Structure and Progression
 
-Breach 3 features multiple distinct campaigns, each offering different challenges and scenarios:[^ref-11]
+Breach 3 features multiple distinct campaigns; strategy tips compiled by the game's playtesting squad (reproduced on ClassicReload) describe them as follows:[^ref-11]
 
 - **Foxhunt:** A less combat-intensive campaign featuring wide-open country and city complexes, serving as an accessible introduction to the game's systems.
 - **X Campaign:** A moderately difficult campaign involving cooperation with the mysterious X-Group to stop an alien threat.
 - **Owls Campaign:** Described as a very hard campaign requiring substantial resources including many medkits, rockets, and grenades for survival.
 - **Dole Campaign:** Considered the hardest campaign of all, featuring over 34 possible endings and requiring multiple playthroughs for even experienced squad leaders to achieve complete victory.[^ref-11]
 
-The game manual notes that "Any squad leader who can successfully complete both Owls and Dole deserves a week vacation on the planet Humidor," emphasizing the extreme difficulty of the later campaigns.[^ref-11]
+The playtesters' tips note that "Any squad leader who can successfully complete both Owls and Dole deserves a week vacation on the planet Humidor," emphasizing the extreme difficulty of the later campaigns.[^ref-11]
 
-A unique progression element involves the squad leader character, who advances through ranks from Lieutenant Commander up to Fleet Admiral.[^ref-11] The leader gains experience from completed missions and can earn medals including the FW Cross, Distinguished Service, Purple Heart, Distinguished Career Cluster, and the prestigious FW Medal of Honor.[^ref-11] However, if the squad leader dies, they are lost forever—the game permanently deletes the corresponding leader file.[^ref-12]
+A unique progression element involves the squad leader character, who advances through ranks from Lieutenant Commander up to Fleet Admiral.[^ref-11][^ref-20] The leader gains experience from completed missions and can earn medals including the FW Cross, Distinguished Service, Purple Heart, Distinguished Career Cluster, and the prestigious FW Medal of Honor.[^ref-11] However, the death of the squad leader automatically ends the campaign, though the manual notes that the leader's permanent record remains on file so he may be reused for another campaign.[^ref-20]
 
 ### Puzzles and Mechanics
 
-Resource management forms a core gameplay pillar, with the manual stating that "Breach 3 is a game where sound tactics and good resource management can make the difference between a successful squad leader and a dead one."[^ref-11] Players must carefully manage equipment including medkits, ammunition, rockets, grenades, and specialized gear.
+Resource management forms a core gameplay pillar, with the playtesting squad's tips stating that "Breach 3 is a game where sound tactics and good resource management can make the difference between a successful squad leader and a dead one."[^ref-11] Players must carefully manage equipment including medkits, ammunition, rockets, grenades, and specialized gear.
 
 Environmental hazards add tactical complexity, including hull breaches that can suck marines into space during starship-based missions.[^ref-11] Each marine possesses individual statistics and characteristics that affect their combat effectiveness and behavior.[^ref-10] Equipment recovery after missions allows successful commanders to build up their arsenal over time.
 
-The game includes a powerful scenario builder for creating custom missions and campaigns, along with a campaign builder that extends replayability.[^ref-10] This feature positions Breach 3 as both a standalone game and a platform for user-generated content.
+The game includes a powerful scenario builder for creating custom missions and campaigns, along with a campaign builder whose missions can also be chained to Rules of Engagement 2 as planetary landing and ship boarding scenarios.[^ref-10][^ref-20] This feature positions Breach 3 as both a standalone game and a platform for user-generated content.
 
 ## Reception
 
 ### Contemporary Reviews
 
-Breach 3 received mixed reviews upon release, with critics noting that while the game engine remained solid, the title failed to keep pace with rapidly advancing competitors in the tactical combat genre.
+Breach 3's reception was largely negative, with critics noting that while the game engine remained solid, the long-delayed title had failed to keep pace with competitors such as X-COM in the tactical combat genre.[^ref-21][^ref-13]
 
-*PC Gamer US* awarded the game 77%, with reviewer T. Liam McDonald calling it "an entertaining return to the days when this was groundbreaking gameplay."[^ref-8] This score placed it as a competent but unexceptional entry in the crowded tactical market.
+*Computer Gaming World* (January 1996) ran Martin E. Cirulis's review under the headline "Explosive Decompression". Recalling an ad for the game from early 1994, Cirulis wrote that after an hour or so he had "only one burning thought: 'This thing took two bloody years?!'"[^ref-21] He judged that "sometimes a game that takes two years to reach the shelves is just a game that is 730 days behind the times," and concluded that "Breach 3 runs well on a 386, so did X-COM; and the former isn't half the game of the latter."[^ref-21] He did credit the scenario and campaign builder and the link with Rules of Engagement 2, which he said "redeems the game somewhat for the wargamer or SF fan who must have everything."[^ref-21] The magazine's verdict box listed "Nice scenario/campaign builder. Integrates with Rules of Engagement 2" as pros and "Outdated graphics and woefully insignificant gameplay compared to the turn-based X-COM" among the cons.[^ref-21]
+
+*PC Gamer US* awarded the game 77%, with reviewer T. Liam McDonald calling it "an entertaining return to the days when this was groundbreaking gameplay."[^ref-8] It was the most positive of the major reviews.
 
 *Computer Game Review* gave the game scores of 84/80/77 from reviewers Frank Snyder, Ted Chapman, and Tasos Kaiafas respectively.[^ref-8] The editors praised the "Excellent game engine" but criticized the "Amazingly few scenarios for a game that thrives on scenarios."[^ref-10] They notably commented that the game "would've been awesome if it had been released on schedule," suggesting development delays may have hurt its competitive position.[^ref-10]
 
-*PC Entertainment* was considerably more critical, awarding only a C− grade. Reviewer Christopher Lindquist delivered a harsh assessment: "Breach 3's big problem is that the merc-gaming world has become much richer in the past couple of years, but Breach has not."[^ref-8] He elaborated that "Games like X-COM and Jagged Alliance have set a new standard for what to expect in merc-style games: compelling storylines, sophisticated artificial intelligence, good graphics, and deep game play. Breach 3 contains none of the above."[^ref-13] Lindquist concluded with the dismissive recommendation to "Let this one rest in peace."[^ref-13]
+*PC Games* (January 1996; listed by Wikipedia as *PC Entertainment*, with a C− grade) was considerably more critical.[^ref-8] Reviewer Christopher Lindquist delivered a harsh assessment: "Breach 3's big problem is that the merc-gaming world has become much richer in the past couple of years, but Breach has not."[^ref-13] He elaborated that "Games like X-COM and Jagged Alliance have set a new standard for what to expect in merc-style games: compelling storylines, sophisticated artificial intelligence, good graphics, and deep game play. Breach 3 contains none of the above."[^ref-13] Lindquist concluded with the dismissive recommendation to "Let this one rest in peace."[^ref-13]
 
-*Computer Gaming World* provided a more favorable perspective on the series, describing Breach 2 as "Easy to learn and fun to play."[^ref-9] The publication later described the series as "definitely ahead of its time."[^ref-7]
+The earlier games had fared better: in a 1992 survey *Computer Gaming World* called Breach 2 "Easy to learn and fun to play,"[^ref-9] and the Home of the Underdogs database later described the original Breach and Breach 2 as "definitely ahead of its time."[^ref-7]
 
 ### Modern Assessment
 
-Modern retrospective analysis has been sparse, with the game largely remembered as a curiosity from the transitional period of tactical gaming. MobyGames aggregates a critics average of 46%, reflecting the mixed contemporary reception.[^ref-2] User communities have been divided, with some praising the game's depth while others find it dated.
+Modern retrospective analysis has been sparse, with the game largely remembered as a curiosity from the transitional period of tactical gaming. MobyGames aggregates a critics average of 46%, reflecting the largely negative contemporary reception.[^ref-2]
 
 One particularly negative assessment from MobyGames user Isdaron described it as "one of the worst games ever," criticizing the game as "a curiosity. Not only is it the third part in a series that did only showcase games from bad to worse, it is also one of the most uninterestingly designed games I was ever allowed to play."[^ref-14]
-
-Conversely, an Amazon customer review from 2008 rated the game 5 out of 5 stars, calling it an "Absolutely exceptional gaming system that will keep you challenged for a long long time to come."[^ref-5]
 
 **Aggregate Scores:**
 - **MobyGames:** 46% critics average[^ref-2]
@@ -109,33 +108,33 @@ Conversely, an Amazon customer review from 2008 rated the game 5 out of 5 stars,
 
 The Breach series originated with Omnitrend Software, a company that developed an ambitious interconnected universe of games spanning different genres and gameplay styles.[^ref-9] The original Breach released in 1987 as a turn-based tactical squad combat game, introducing team-oriented missions, RPG-style squad leader development, and a scenario builder.[^ref-12] Breach 2 followed in 1990, expanding on the formula with enhanced graphics and additional features.[^ref-9]
 
-Breach 3 emerged after a difficult period for Omnitrend. The game was developed approximately four years after Omnitrend's demise, with Impressions Games picking up the engine to complete the project.[^ref-7] This delayed development likely contributed to reviewer complaints about the game feeling dated upon release.
+In 1992 *Computer Gaming World* reported that Omnitrend, which had designed Breach 2 and Rules of Engagement to interface but saw the "Interlocking Game System" go largely unmarketed because the two games had different distributors, had signed an agreement with Impressions to release Breach 3 and Rules of Engagement 2 "with particular emphasis on the interlocking nature of the games."[^ref-23] Home of the Underdogs later wrote that Impressions "picked up the engine" after Omnitrend's demise.[^ref-7] The game was advertised as early as 1994 but did not ship until late 1995, and reviewers singled out the delay as the reason it felt dated on release.[^ref-21][^ref-10]
 
 Thomas Carbone, who served as designer on the project, was the CEO of Omnitrend and the creative force behind the interconnected game universe.[^ref-17] His vision for games that could share data and characters across titles was innovative for its era, creating a cohesive science fiction setting that spanned space combat, ground warfare, and strategic operations.
 
 ### Production
 
-The development involved collaboration between the original Omnitrend team and Impressions Games. Impressions, founded in 1989 and focusing primarily on strategy and business games including sport simulations, was acquired by Sierra On-Line in 1995—the same year Breach 3 released.[^ref-3]
+The development involved collaboration between the original Omnitrend team and Impressions Games. Impressions, founded in 1989 and focusing primarily on strategy and business games including sport simulations,[^ref-3] was acquired by Sierra On-Line in June 1995[^ref-22]; Breach 3 shipped later that year, with *Computer Game Review* listing Sierra On-Line as distributor and Impressions as developer.[^ref-10]
 
 **Development Credits:**[^ref-2]
 - **Designers:** Thomas R. Carbone, Christopher Bamford, Scott Woodrick
 - **Composers:** Jeremy A. Bell, Jay Rinaldi
-- **Publisher:** Impressions Games, Sierra On-Line
+- **Publisher:** Impressions Games[^ref-2][^ref-21]; distributed by Sierra On-Line[^ref-10]
 
-The game featured VGA graphics, representing an upgrade over the fake isometric view used in Breach 2.[^ref-9] An SDK was made available for game customization, reflecting the series' emphasis on user-generated content and scenario building.[^ref-17]
+The game featured VGA graphics, representing an upgrade over the fake isometric view used in Breach 2.[^ref-9]
 
 ### Technical Achievements
 
-Breach 3 utilized the AIL / Miles Sound System for its audio engine, a widely adopted middleware solution for DOS games of the era.[^ref-2] The game supported 256-color VGA graphics and Sound Blaster audio.[^ref-10]
+Breach 3 utilized the AIL / Miles Sound System for its audio engine, a widely adopted middleware solution for DOS games of the era.[^ref-2] The game supported 256-color VGA graphics with digitized sound and speech, and *Computer Gaming World* noted that most major sound cards were supported.[^ref-10][^ref-21]
 
 The interlocking game system represented an ambitious technical achievement, allowing character data to transfer between Breach 3 and Rules of Engagement 2.[^ref-5] Users reported that getting this integration to work required obtaining the absolute latest patches of both games.[^ref-17] When functional, players could command capital ships in ROE2 and then deploy their marines in ground operations through Breach 3, creating a comprehensive warfare simulation spanning multiple scales of combat.
 
 ### Technical Specifications
 
-**CD-ROM Version:**[^ref-10]
+**CD-ROM Version:**[^ref-10][^ref-21]
 - **Resolution:** 256-color VGA
-- **Audio:** Sound Blaster
-- **Disk Space:** Approximately 29 MB
+- **Audio:** Most major sound cards supported[^ref-21]
+- **Disk Space:** 8 MB hard drive space[^ref-21]
 - **RAM:** 4 MB minimum
 - **Processor:** 386 minimum
 - **Media:** 2× CD-ROM drive required
@@ -169,15 +168,13 @@ The game included several command-line parameters that functioned as level acces
 - **lordplugs** – Parameter accessing ZFW level
 - **pugsicus** – Parameter accessing ZUD level
 
-The cheat code names suggest references to science fiction works, with "ender" likely referencing Orson Scott Card's *Ender's Game* and "pinback" potentially referencing the character from John Carpenter's *Dark Star*.
-
 The last five items listed in the campaign selection menu were actually component sets for building custom campaigns rather than playable content, a detail that confused some players.[^ref-13]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-No specific sales figures have been documented for Breach 3. The game's release coincided with Sierra On-Line's acquisition of Impressions Games in 1995, becoming part of Sierra's broader strategy game portfolio.[^ref-3] The decision was made "to consolidate product development and marketing functions" under the Sierra umbrella.[^ref-19]
+No specific sales figures have been documented for Breach 3. The game's release followed Sierra On-Line's June 1995 acquisition of Impressions Games, becoming part of Sierra's broader strategy game portfolio.[^ref-22]
 
 The game largely faded from commercial availability following its initial release, eventually appearing on various abandonware sites as the years passed. Modern digital distribution platforms like GOG.com and Steam do not carry the title, though community wishlists indicate ongoing interest in seeing the game (and its companion Rules of Engagement 2) made available through legitimate digital storefronts.[^ref-17]
 
@@ -199,7 +196,7 @@ The game's scenario builder and campaign creator features encouraged user-genera
 
 Breach 3 occupies an unfortunate position in tactical gaming history, arriving at precisely the wrong moment. Released in 1995, it competed directly against landmark titles like X-COM: UFO Defense (1994) and Jagged Alliance (1994), both of which had dramatically raised expectations for the genre.[^ref-8] Where those games featured isometric graphics, sophisticated AI, compelling narratives, and deep strategic systems, Breach 3 offered a competent but aging engine that critics felt had failed to evolve with the times.
 
-The game represents both the ambition and the tragedy of Omnitrend Software's vision. Their concept of interlocking games that could share data across titles was genuinely innovative, predating modern concepts of persistent game universes by decades. However, the company's demise meant that Breach 3 arrived years behind schedule, and the delay proved fatal to its competitive prospects.[^ref-10]
+The game represents both the ambition and the tragedy of Omnitrend Software's vision. Their concept of interlocking games that could share data across titles drew attention as early as 1992.[^ref-23] However, Breach 3 arrived years behind schedule, and reviewers judged that the delay had cost it its competitive prospects.[^ref-10][^ref-21]
 
 For historians of tactical gaming, Breach 3 serves as an important transitional artifact—a game that demonstrates both the potential and the limitations of early tactical combat systems. Its emphasis on individual marine personalities, persistent squad leader development, and user-generated content anticipated features that would become standard in later tactical games. Yet its failure to match contemporary standards in graphics, AI, and narrative complexity doomed it to obscurity.
 
@@ -208,7 +205,7 @@ The series is perhaps best remembered today as a companion piece to Rules of Eng
 ## Purchase
 
 **Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/rules-of-engagement-2-breach-3-2-great-games-that-interlock-into-1-amazing-experience) – Available for purchase
+- Not currently sold on any digital storefront; a [GOG Dreamlist entry](https://www.gog.com/dreamlist/game/rules-of-engagement-2-breach-3-2-great-games-that-interlock-into-1-amazing-experience) records community requests for a release.[^ref-17]
 
 ## Downloads
 
@@ -252,11 +249,14 @@ The series is perhaps best remembered today as a companion piece to Rules of Eng
 [^ref-9]: [Wikipedia – Breach 2](https://en.wikipedia.org/wiki/Breach_2) – series context, Universe setting, Breach 3 changes
 [^ref-10]: [Computer Game Review Archive](https://web.archive.org/web/19961221183856/http://www.nuke.com/cgr/reviews/1295/breach3/breach3.htm) – technical specs, editor comments, scenario builder
 [^ref-11]: [ClassicReload – Breach 3](https://classicreload.com/dosx-breach-3.html) – campaign descriptions, progression system, medals
-[^ref-12]: [MobyGames – Breach (1987)](https://www.mobygames.com/game/17073/breach/) – original game description, permadeath mechanic
+[^ref-12]: [MobyGames – Breach (1987)](https://www.mobygames.com/game/17073/breach/) – original game description
 [^ref-13]: [PC Games Magazine Archive (January 1996)](https://web.archive.org/web/19961018134242/http://www.pcgamesmag.com/games/Jan96/brea196.html) – Christopher Lindquist review, bugs, criticism
 [^ref-14]: [MobyGames User Review – Isdaron](https://www.mobygames.com/game/4263/breach-3/user-review/2586115/) – negative user assessment
 [^ref-15]: [MyAbandonware – Breach 3](https://www.myabandonware.com/game/breach-3-2qx) – user ratings, technical issues, installation problems
 [^ref-16]: [Glitchwave – Breach 3](https://glitchwave.com/game/breach-3/) – user rating
 [^ref-17]: [GOG Community Dreamlist – ROE2/Breach 3](https://www.gog.com/dreamlist/game/rules-of-engagement-2-breach-3-2-great-games-that-interlock-into-1-amazing-experience) – integration details, patch requirements, Thomas Carbone info
 [^ref-18]: [GameSpot – Breach 3 Cheats](https://www.gamespot.com/games/breach-3/cheats/) – command line parameters, level access codes
-[^ref-19]: [GameSpot – Sierra Closes Dynamix](https://www.gamespot.com/articles/sierra-closes-dynamix/1100-2804068/) – Sierra consolidation context
+[^ref-20]: [Internet Archive – Breach 3 Game Reference manual](https://archive.org/details/breach-3-game-reference) – © 1995 Impressions; lore dated "May 10, 2029 CE"; squad leader death ends campaign, record remains on file; campaign builder chains to ROE2
+[^ref-21]: [Computer Gaming World #138 (January 1996) – "Explosive Decompression" by Martin E. Cirulis](https://archive.org/download/Computer_Gaming_World_Issue_138/Computer_Gaming_World_Issue_138_djvu.txt) – review, $59.95, Design: Omnitrend, Publisher: Impressions Software, system requirements
+[^ref-22]: [Seattle Times – "Sierra's Game Plan -- Software Firm Hopes Acquisition Strategy Makes It A Winner In Its Niche" (January 22, 1996)](https://archive.seattletimes.com/archive/19960122/2310224/sierras-game-plan----software-firm-hopes-acquisition-strategy-makes-it-a-winner-in-its-niche) – "June 1995: Impressions Software Inc., Cambridge, Mass." acquired by Sierra
+[^ref-23]: [Computer Gaming World #97 (August 1992)](https://archive.org/download/Computer_Gaming_World_Issue_97/Computer_Gaming_World_Issue_97_djvu.txt) – Omnitrend signs agreement with Impressions to release Breach 3 and Rules of Engagement 2
