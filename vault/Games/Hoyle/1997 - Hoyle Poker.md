@@ -1,194 +1,123 @@
 ---
-title: 'Hoyle Casino: Poker'
+title: 'Hoyle Poker'
 release_year: 1997
 developer: Sierra On-Line
-designer: [Jim Love, Michael Katz, Paul Horn, Rabih AbouJaoudé, Robert L. Jerauld]
+designer: [Jim Love]
 publisher: Sierra On-Line
 genre: Casino
-platforms: [Windows, Windows 95, Windows 98, Windows 3.1, Mac, Game Boy Color, Dreamcast]
-series: Hoyle Casino
+platforms: [Windows, Windows 3.1]
+series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: '**Hoyle Casino: Poker**, released in 1997, represents Sierra''s first
-  dedicated foray into the world of poker gaming. Set in a virtual Las Vegas casino...'
-tags: [1990s, hoyle-casino, sierra]
+last_updated: '2026-10-13'
+description: '**Hoyle Poker**, released in 1997, was Sierra''s first dedicated poker
+  game: a Friday-night home game against animated, wisecracking opponents...'
+tags: [1990s, hoyle, sierra]
 ---
-# Hoyle Casino: Poker
+# Hoyle Poker
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-**Hoyle Casino: Poker**, released in 1997, represents Sierra's first dedicated foray into the world of poker gaming.[^ref-1] Set in a virtual Las Vegas casino environment, players create profiles and are given a set amount of virtual money to gamble with across various poker variants.[^ref-2] The game launched as part of Sierra's broader Hoyle franchise, which licensed the famous Hoyle brand name from the traditional card game rule book series.[^ref-3]
+**Hoyle Poker**, released in 1997 for Windows 95 and Windows 3.1, was Sierra's first foray into the world of poker.[^ref-1] Rather than a casino, it recreates a neighborhood Friday-night home game in which the dealer changes with each hand and picks the variant to be played.[^ref-5] It was published under the Hoyle name as part of Sierra's series of card games,[^ref-1][^ref-5] and was later repackaged as **Hoyle Classic Poker**.[^ref-1][^ref-21]
 
-Sierra has created what reviewer Walter Morbeck described as "an admirable job of creating a sharp and faithful rendition of poker."[^ref-4] The game offers all the excitement of a real poker game mixed with Sierra's unique brand of humor, featuring spirited stereotypical characters, each with their own corny jokes, egos, and distinctive playing styles.[^ref-1][^ref-5] The game's tagline promoted bluffing and attitude, encouraging players to read their opponents and exploit their weaknesses at the virtual poker table.[^ref-10][^ref-16][^ref-19]
+GameSpot's Walter Morbeck wrote that Sierra "has done an admirable job of creating a sharp and faithful rendition of poker."[^ref-4] The game pairs real poker rules with Sierra's humour: a table of animated opponents, each with their own personality, playing style and skill level, who toss out a steady stream of one-liners.[^ref-1][^ref-4]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Designer:** Jim Love, Michael Katz, Paul Horn, Rabih AbouJaoudé, Robert L. Jerauld[^ref-1]
+> **Designer:** Jim Love[^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
-> **Platforms:** Windows, Windows 95/98, Windows 3.1, Macintosh, Game Boy Color, Dreamcast[^ref-1][^ref-6]
-> **Release Year:** 1997
-> **Series:** Hoyle Casino
+> **Platforms:** Windows, Windows 3.1[^ref-1]
+> **Release Year:** 1997[^ref-1][^ref-21]
+> **Series:** Hoyle
 > **Sierra Lineage:** Core Sierra
 > **Engine:** Proprietary (Windows)
 > **Protagonist:** N/A
+> **Also known as:** Hoyle Classic Poker (1998 repackaging)[^ref-1]
 
 ## Story Summary
 
-Rather than following a traditional narrative structure, Hoyle Casino: Poker places players in the role of a casino patron with gambling ambitions. Players start with $5,000 and enter the casino intent on making their fortune through one of 350 Vegas-style games.[^ref-7] The game's "story" unfolds through interactions with colorful computer-controlled opponents, each representing different gambling archetypes and personalities found in real casino environments.[^ref-5]
-
-The Friday Night poker game aesthetic pervades the experience, celebrating the casual camaraderie of weekly card games among friends rather than the high-stakes tension of professional tournament play.
+Hoyle Poker has no narrative. The player sits down at a friendly home game with a bankroll of $1,000 in cash, plus another $9,000 in a bank account that can be reached through an ATM, which, like the other characters, has a personality of its own.[^ref-1][^ref-4] The "story" is the banter of the opponents around the table.[^ref-4][^ref-5]
 
 ## Gameplay
 
-### Interface and Controls
+### Variants
 
-The game features a straightforward mouse-driven interface typical of mid-1990s Windows applications.[^ref-8] Players navigate through the virtual casino environment using point-and-click controls to select tables, place bets, and make poker decisions. The isometric and top-down perspectives provide clear views of the action, with players able to observe the betting patterns and reactions of their opponents.[^ref-5]
+Sources differ on the count of poker variants: MobyGames lists 20, GameSpot says "more than a dozen", and the GamesDomain review says 24.[^ref-1][^ref-4][^ref-5] MobyGames names, among others:[^ref-1]
 
-The interface includes in-game tutorials and an official rulebook designed by the experts at Hoyle to help newcomers learn proper poker strategy.[^ref-9] This educational component made the game accessible to poker novices while still providing enough depth for experienced players.
+- Texas Hold 'Em
+- Omaha and Omaha Hi/Lo
+- High Chicago
+- Cincinnati
+- Baseball
+- 5 Card Stud, 7 Card Stud and 7 Card Stud Hi/Lo
+- Jacks or Better
+- Criss Cross
+- Dealer's Choice
+- 5 Card Draw and 5 Card Draw Lo-ball
 
-### Poker Variants and Game Modes
+The rules can be switched from one variant to another between hands, and the Help menu gives a short set of rules for each variant at any time during a game.[^ref-4] Players can also choose table backgrounds (GameSpot's favourite was a kitchen table with a pizza box and Chinese food) and card backs, and can play a tournament or simply play until the money runs out.[^ref-4][^ref-5]
 
-Hoyle Casino: Poker offers an impressive 24 different varieties of poker, providing significant variety for players who might otherwise tire of a single game type.[^ref-5] The available games include:
+### Opponents and the Attitude Meter
 
-- **Five Card Draw** - Classic poker with one draw round
-- **Seven Card Stud** - Players receive cards face up and face down
-- **Five Card Stud** - Simpler stud variant with fewer cards
-- **Texas Hold'em** - Community card poker that would later dominate the poker world
-- **Omaha Hold'em** - Four-card variant of Hold'em
-- **Baseball** - Wild card variant themed around the national pastime
-- **Chicago** - High spade in the hole wins half the pot
-- **Various Wild Card games** - Multiple variations with designated wild cards
+In single-player mode the player can choose up to seven opponents, each with their own personality, playing style and skill level.[^ref-1] GameSpot named several of them: James, Elayne (with her New Jersey accent), the James Bond-like Sterling, the motherly Mrs. O'Shea, Anna, and a bulldog named T-Bone.[^ref-4] The GamesDomain reviewer described the cast as "spirited stereotypes all with their own corny jokes, egos and style of play", including a college professor and a snobby rich guy.[^ref-5]
 
-The game promotes the Friday Night poker style in which the dealer changes with each hand and the dealer chooses the type of game to be played.[^ref-5] This variety prevents the monotony that could come from playing a single variant repeatedly.
+Studying the characters can reveal each player's *tell*.[^ref-1] GamesDomain found that some physical tells exist but that most are "hidden within the phrases spoken by the other players."[^ref-5] The **Attitude Meter** sets the pace: higher settings bring more animation and comments from the AI players, lower ones keep them quiet for a faster game.[^ref-1]
 
-### Structure and Progression
+### Bluffing
 
-The single-player "Hoyle Friday Night Poker" version allows players to create an identity and play against seven of ten possible computerized opponents.[^ref-11] Players compete against up to seven computer opponents simultaneously in various game modes, creating the atmosphere of a full poker table.
+The GamesDomain review advised that with a good hand "you need to resist the temptation to raise right away", since raising early drives most opponents to fold; the pot grows much bigger if you lure some of them along.[^ref-5]
 
-The game challenges players to "Master Your Skills Against Complex Computer Opponents" who each demonstrate different playing styles and difficulty levels.[^ref-9] Tournament modes and casual play options provide different structures depending on whether players want competitive progression or relaxed entertainment.
+### Multiplayer
 
-### Character Opponents
-
-The game features a colorful cast of AI opponents, each with distinct personalities and playing styles.[^ref-5] The characters include:
-
-- A college professor with intellectual airs
-- A snobby rich guy with a dismissive attitude
-- A hip dude trying to be cool at the tables
-- A sharp-tongued woman who doesn't suffer fools
-- An eccentric lady with unpredictable behavior
-- A bulldog (yes, literally a dog playing poker)
-- Various other archetypal poker personalities
-
-Each opponent has their own patterns, tells, and playing tendencies. The box claims "Bluffing and Attitude" and it does exist—players exhibit their own attitudes and bluffing does occur.[^ref-5] Some physical "tells" are visible, but mostly they are hidden within the phrases spoken by the other players, requiring attentive observation to exploit.
-
-### Bluffing and Strategy
-
-Bluffing works both ways in Hoyle Poker. If you have a good hand, you need to resist the temptation to raise right away.[^ref-5] If you do, you will often cause most of the other players to fold immediately, resulting in a smaller pot. The pot will be much bigger if you trick some of the opponents to come along with you through deceptive betting patterns.
-
-Reading opponents and managing bankrolls form the core strategic elements.
-
-### Multiplayer Options
-
-Internet play was available for players whose poker buddies lived out of town or who needed the challenge of human luck instead of computer luck.[^ref-5] The game cautioned "Please, no exchange of money, this is a friendly game of poker," maintaining the casual Friday Night aesthetic even in online play. While the online component is no longer functional,[^ref-8][^ref-17] it demonstrated Sierra's early recognition of multiplayer gaming's potential.
-
-Modem-based multiplayer allowed for direct connections between players, a common feature of mid-1990s gaming that predated widespread broadband internet access.
+MobyGames lists Internet and same-screen multiplayer, with 1–8 players offline and 2–8 online.[^ref-1] An on-line play mode let players test their skills against real players from around the world;[^ref-1] the GamesDomain reviewer noted it was for play with friends out of town, adding, "Please, no exchange of money, this is a friendly game of poker."[^ref-5]
 
 ## Reception
 
-### Contemporary Reviews
-
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| GameSpot | 8/10 | Praised Sierra's faithful poker rendition[^ref-4] |
-| MobyGames Critics | 72% | Average critical reception[^ref-1] |
-| Amazon Customer Reviews | 3.8/5 | Mixed user feedback over multiple years[^ref-9] |
-| MyAbandonware | 4.13/5 | Positive retrospective rating from 8 votes[^ref-5] |
+| GameSpot | 8/10 | "Sharp and faithful rendition of poker"[^ref-4] |
+| MobyGames critic average | 72% | Based on 5 critic ratings[^ref-1] |
+| MyAbandonware (users) | 4.13/5 | 8 votes[^ref-5] |
 
-GameSpot's Walter Morbeck noted that "What makes poker enjoyable are the strictly human elements," highlighting the inherent challenge of translating poker's psychological aspects to a computer game.[^ref-4] Despite this fundamental limitation of all computer poker games, Sierra's implementation was praised for coming as close as possible to capturing the spirit of the game.
+Morbeck opened his GameSpot review by observing that "what makes poker enjoyable are the strictly human elements", which seemed to make a computer version farfetched; he concluded that the game could serve "either as a temporary surrogate or as a replacement for the real thing."[^ref-4] He praised the cast's diversity and fast pacing, but found the bundled rulebook less useful for the computer game than one written for it would have been.[^ref-4]
 
-The GamesDomain review philosophized about the nature of card gaming on computers, noting that while serious gamers might scoff at computerized versions of games playable with a $2 deck of cards, there remains a significant market for accessible, familiar gaming experiences.[^ref-5] The reviewer ultimately concluded that "Hoyle Poker is a decent enough game for the price."
+The GamesDomain review, reproduced on MyAbandonware, called it "a great game for all skill levels" and good for learning the basics of poker.[^ref-5] Comparing it with *Golden Nugget*, whose opponents were "basically like playing against robots", the reviewer judged Hoyle Poker better for "its fully developed characters and their bluffing and attitudes," and concluded that it was "a decent enough game for the price."[^ref-5]
 
-### Modern Assessment
+### Running It Today
 
-Modern retrospective reviews have been mixed, with MobyGames user scores ranging from 60% to 84% across different versions.[^ref-6][^ref-13] One review summary noted "Lots of Poker, but little else," suggesting the game's focus was narrow but well-executed within its scope.[^ref-14] The recommendation was that "Any hardcore card fan that's not pretentious about visual flair (or lack thereof) should give this a look."[^ref-14]
-
-The game compares favorably to other poker games of its era. Compared to Golden Nugget, which offered a total casino simulation with poker as one component, Hoyle Poker was noted as better with its "fully developed characters and their bluffing and attitudes."[^ref-5] Golden Nugget's opponents were described as "basically like playing against robots" in contrast to Hoyle's more animated cast.
-
-### Technical Issues
-
-Modern players have reported some technical difficulties with the game on contemporary systems. One documented issue causes the game to get stuck randomly whenever a character speaks—their mouth gets stuck, the voice clip plays, but the game doesn't proceed unless clicked to move on.[^ref-5] Workarounds may exist in the abandonware community.
+A 2024 user comment on MyAbandonware reports that, from a mounted ISO, the Windows version randomly stalls while a character speaks until the player clicks to continue; the commenter knew of no fix.[^ref-5]
 
 ## Development
 
 ### Origins
 
-Hoyle Casino: Poker emerged during Sierra's expansion of the Hoyle franchise in the mid-1990s. The game was part of Sierra's strategy to diversify beyond adventure games into more casual gaming markets.[^ref-15] This diversification recognized that not every computer gamer has the lightning reflexes required by action games or the emotional investment demanded by complex adventure titles.
+GamesDomain framed the game as part of Sierra's case for card games: not every computer gamer has the reflexes for action games or wants "the emotional drain of a complex adventure game", and some players have older computers.[^ref-5] Hoyle went on to be counted among Sierra's popular software titles,[^ref-3] and by 2000 Sierra had grouped the Hoyle license under its Sierra Attractions brand for family and board-style games.[^ref-15]
 
-### Production
+### Credits
 
-The game featured a substantial voice cast including Pat Cashman, Amy De Bourget, Jeff Hoyt, Linda Mathews, and Kate Myre.[^ref-1] Music was composed by Evan Schiller.[^ref-1] The development was managed by Kevin Hoekman, with Stephen H. Van Horn serving as executive producer, and a total of 68 people credited on the project.[^ref-1] Additional voice talent for related versions included Natacha LaFerrière, Cynthia Doyer, and Rodney Sherwood.[^ref-7]
+MobyGames credits 39 people.[^ref-1] Jim Love designed the game, and Stephen H. Van Horn produced it. Earl Malmrose was lead engineer, with Frank T. Hollander as senior software engineer. Character animation was by Rabih AbouJaoudé, Heather Ivy and Gayle Rowbotham, and Julian Love did the intro animation. Evan Schiller composed the music, with additional music and sound by Jim Love. The voice actors were Pat Cashman, Amy De Bourget, Jeff Hoyt, Linda Mathews and Kate Myre.[^ref-1]
 
-The game included physical extras beyond the software, with the box containing The Rules of Neighborhood Poker According to Hoyle by Stewart Wolpin,[^ref-5] which celebrates the varieties of poker and explains in conversational style the finer points of the weekly poker game. This book provided value-added content for players wanting to deepen their understanding of poker beyond the digital experience.
+### Package and Requirements
 
-### Technical Achievements
-
-The game was built for multiple platforms with varying technical specifications. The PC version required a minimum 486-33 processor with 4 MB RAM, while recommended specifications included a 66MHz 486 processor with 8 MB RAM running Windows 95/98.[^ref-5] The game was distributed on CD-ROM (approximately 403 MB for the Windows version)[^ref-5] and included both Internet and modem multiplayer options.
-
-The low system requirements were a deliberate design choice, ensuring the game could reach players with older computers. This accessibility philosophy extended the potential audience significantly during a period when PC hardware was advancing rapidly and leaving many gamers behind.
-
-### Platform Versions
-
-The game was adapted for multiple platforms beyond Windows:
-- Windows 3.x version (1997)
-- Macintosh version
-- Game Boy Color port (for handheld play)
-- Dreamcast version (console adaptation)
-
-Each platform offered the core poker experience adapted to its specific hardware capabilities and control schemes.
+The box included Stewart Wolpin's book *The Rules of Neighborhood Poker According to Hoyle*.[^ref-4][^ref-5] The game runs on Windows 95 or Windows 3.1 with very low requirements: a 486 with 4 MB of RAM, a 2× CD-ROM drive, and 640×480 graphics.[^ref-1][^ref-5] The Sierra Chest records a first release date of 1 March 1997 (MobyGames gives 30 April 1997), plus a 1998 re-release and a 1999 Classic Poker re-release.[^ref-21][^ref-1] MobyGames also lists it as part of the 1997 *On-Line Games Collection Series*.[^ref-1]
 
 ## Legacy
 
-### Franchise Continuation
-
-Hoyle Casino: Poker spawned multiple sequels and variations, establishing poker as a regular component of Sierra's Hoyle lineup:[^ref-13]
-
-- **Hoyle Poker Series** (2005) - Updated standalone poker experience
-- **Hoyle Video Poker** (2009) - Electronic poker machine simulation
-- **Hoyle Slots & Video Poker** (2000) - Combined casino experience
-- **Annual Hoyle releases** (2003-2009) - Poker included in various compilations
-
-A related business simulation game called Hoyle Casino Empire was released in 2002,[^ref-17] taking the casino theme in a management direction rather than pure gambling simulation.
-
-### Cultural Impact
-
-The game became part of discussions about what constitutes a "Sierra" game after the company's closure, with community members noting that "when you say 'Hoyle' I immediately think of the first three in the series which I played a lot. Definitely Sierra classics."[^ref-18] This identification of the Hoyle brand with Sierra's legacy demonstrates how successful the franchise became at establishing itself as part of the company's identity.
-
-### Genre Context
-
-The game arrived during a period before the early 2000s poker boom that would transform the game's cultural status. Texas Hold'em, included as one of Hoyle Poker's many variants, would later become the dominant form of poker following the 2003 World Series of Poker and the rise of televised tournament play. In retrospect, Hoyle Poker provided an early opportunity for players to learn the variant that would soon dominate poker culture.
-
-### Educational Value
-
-The combination of multiple poker variants, AI opponents with distinct styles, and included reference materials made Hoyle Poker an effective learning tool for poker novices. Players could practice different games without risking real money, learn to read opponent patterns, and develop strategic thinking in a low-pressure environment.
+MobyGames notes that elements of the gameplay of the 2005 *[[2005 - Hoyle Poker Series|Hoyle Poker Series]]* can be traced back to this game.[^ref-20]
 
 ## Purchase
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 
-**Purchase / Digital Stores**
-- Currently unavailable through modern digital distribution
-
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-poker-dk4) - Windows and Windows 3.x versions (403-439 MB)[^ref-5]
-- [Internet Archive - Friday Night Hoyle Poker](https://archive.org/details/friday-night-hoyle-poker_202209)
+- [Internet Archive - Friday Night Hoyle Poker (1997)](https://archive.org/details/friday-night-hoyle-poker_202209)
 - [Internet Archive - Hoyle Poker 1998 Sierra CD](https://archive.org/details/hoyle-poker-1998-sierra-cd)
 
 ## See Also
@@ -251,21 +180,10 @@ The combination of multiple poker variants, AI opponents with distinct styles, a
 
 ## References
 
-[^ref-1]: [MobyGames - Hoyle Poker](https://www.mobygames.com/game/26796/hoyle-poker/) – Game details, credits, and technical specifications
-[^ref-2]: [Wikipedia - Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – Virtual Las Vegas casino setting and player profiles
-[^ref-3]: [Company Histories - Sierra On-Line](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) – Hoyle brand licensing and Sierra business context
-[^ref-4]: [GameSpot Review](https://www.gamespot.com/reviews/hoyle-poker-review/1900-2537745/) – Contemporary review score and critical assessment
-[^ref-5]: [MyAbandonware - Hoyle Poker](https://www.myabandonware.com/game/hoyle-poker-dk4) – Character descriptions, gameplay details, GamesDomain review
-[^ref-6]: [MobyGames - Hoyle Casino (Game Boy Color)](https://www.mobygames.com/game/43644/hoyle-casino/) – Platform availability
-[^ref-7]: [MobyGames - Hoyle Casino](https://mobygames.com/game/hoyle-casino) – Starting money and game premise details
-[^ref-8]: [MobyGames - Hoyle Poker Series](https://www.mobygames.com/game/56707/hoyle-poker-series/) – Technical specifications and multiplayer details
-[^ref-9]: [Amazon - Hoyle Poker Series](https://www.amazon.com/Encore-705381103158-Hoyle-Poker-Series/dp/B0007ZF3GY) – Product features and user ratings
-[^ref-10]: GameCopyWorld *(link removed: no-CD/crack site)* – Game variants and series information
-[^ref-11]: [MobyGames - Hoyle Poker Series](https://mobygames.com/game/hoyle-poker-series) – Single player mode description
-[^ref-13]: [MobyGames - Various Hoyle entries](https://www.mobygames.com/search/?q=Hoyle+Poker) – User score ranges
-[^ref-14]: Old PC Gaming Review (link removed: site offers game downloads) – Modern retrospective assessment
-[^ref-15]: [GameSpot - Sierra Plans](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – Sierra's product lineup strategy
-[^ref-16]: [GameSpot - Sierra Reorganization](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) – Corporate restructuring and franchise management
-[^ref-17]: [Internet Archive - Friday Night Hoyle Poker](https://archive.org/details/friday-night-hoyle-poker_202209) – Online functionality and related games
-[^ref-18]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Community discussion on Sierra classics
-[^ref-19]: [Giant Bomb - Hoyle Poker](https://www.giantbomb.com/) - wiki
+[^ref-1]: [MobyGames - Hoyle Poker](https://www.mobygames.com/game/26796/hoyle-poker/) – Release date, platforms, description (20 variants, Attitude Meter, $1,000 + $9,000 ATM), specs, 72% critic average, 39-person credits
+[^ref-3]: [Company Histories - Sierra On-Line](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) – Hoyle listed among Sierra's popular software titles
+[^ref-4]: [GameSpot - Hoyle Poker Review](https://www.gamespot.com/reviews/hoyle-poker-review/1900-2537745/) – Walter Morbeck, 8/10; characters, variants, bankroll, Wolpin rulebook
+[^ref-5]: [MyAbandonware - Hoyle Poker](https://www.myabandonware.com/game/hoyle-poker-dk4) – GamesDomain review, 4.13/5 user rating, requirements, user comments
+[^ref-15]: [GameSpot - Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – Sierra Attractions brand built around the Hoyle license (2000)
+[^ref-20]: [MobyGames - Hoyle Poker Series (2005)](https://www.mobygames.com/game/56707/hoyle-poker-series/) – "elements of the gameplay can be traced back to Sierra's 'Hoyle Poker' (1997)"
+[^ref-21]: [The Sierra Chest - Hoyle Poker: Packaging & content](https://sierrachest.com/index.php?a=games&id=523&title=hoyle-poker-1997&fld=box&pid=2) – First release 1997-03-01; 1998 and 1999 Classic Poker re-releases
