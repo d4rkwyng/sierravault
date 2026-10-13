@@ -4,26 +4,27 @@ release_year: 1993
 developer: Impressions Games
 designer: [Edward Grabowski, Andrew Prime, Jeffrey Von Brakenton]
 publisher: Impressions Games
-genre: Turn-Based Strategy
+genre: Real-Time Tactics
 platforms: [DOS, Amiga, Atari ST]
 series: Cohort
-engine: Impressions Engine
+engine: Unknown
 protagonist: Roman/Barbarian Commander
 sierra_lineage: Sierra Published
-last_updated: '2026-10-11'
-description: 'Cohort II: Fighting for Rome is a real-time tactics game developed and
-  published by Impressions Games in 1993 for DOS, Amiga, and Atari ST platforms. Set...'
+last_updated: '2026-10-13'
+description: 'Cohort II: Fighting for Rome is a 1993 real-time tactics game by Impressions
+  Games for DOS, Amiga and Atari ST, a VGA upgrade of Cohort that can resolve the battles
+  of Impressions'' Caesar.'
 tags: [1990s, cohort, sierra, strategy]
 ---
 # Cohort II: Fighting for Rome
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Cohort II: Fighting for Rome is a real-time tactics game developed and published by [[Impressions Games]] in 1993 for DOS, Amiga, and Atari ST platforms[^ref-1]. Set during the period of approximately 200 BC to 200 AD, the game places players in command of Roman legions or barbarian hordes, allowing them to orchestrate tactical battles across the ancient world[^ref-2]. As a sequel to the original Cohort: Fighting for Rome (1991), the game represented a significant upgrade with enhanced VGA graphics and expanded scenario options[^ref-3].
+Cohort II: Fighting for Rome is a real-time tactics game[^ref-8] developed and published by [[Impressions Games]] in 1993 for DOS, Amiga, and Atari ST platforms[^ref-1]. Set during the period of approximately 200 BC to 200 AD, the game places players in command of Roman legions or barbarian hordes in tactical battles[^ref-2]. As a sequel to the original Cohort: Fighting for Rome (1991), the game was an upgrade of its predecessor's graphics (to VGA) and gameplay[^ref-3][^ref-22].
 
-The game was designed as part of an interlocking game system module that could be linked with Impressions' city-building title Caesar, allowing players who owned both games to resolve Caesar's city battles within the tactical framework of Cohort II[^ref-1]. This cross-game functionality made Cohort II particularly valuable as a companion piece, though critics noted it was "recommended for anyone who wants to delve into Caesar battles in more detail, but definitely not as a stand-alone product"[^ref-3]. Despite offering over two dozen pre-set scenarios and a computer opponent with adaptive tactics, the game received generally poor reviews, with critics citing frustrating controls and outdated presentation[^ref-4].[^ref-18][^ref-20]
+The game was designed as part of an interlocking game system module with Impressions' city-building title Caesar, allowing players who owned both games to resolve Caesar's city battles within Cohort II[^ref-1][^ref-22]. Home of the Underdogs' write-up (reproduced on MyAbandonware) recommended it "for anyone who wants to delve into Caesar battles in more detail, but definitely not as a stand-alone product"[^ref-3]. Contemporary magazine scores were mostly mediocre to poor, ranging from 28% to 68%[^ref-5][^ref-10].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -35,85 +36,74 @@ The game was designed as part of an interlocking game system module that could b
 > **Series:** Cohort
 > **Protagonist:** Roman/Barbarian Commander
 > **Sierra Lineage:** Affiliated Publisher
-> **Designer:** Edward Grabowski, Andrew Prime, Jeffrey Von Brakenton
 
 ## Story Summary
 
-Cohort II is set during a 400-year period spanning from approximately 200 BC to 200 AD, encompassing the height of Roman military expansion and the various conflicts that defined the era[^ref-5]. The game does not feature a narrative campaign in the traditional sense, instead presenting players with historical and hypothetical battle scenarios that pit Roman armies against barbarian forces across various terrain types[^ref-2].
+Cohort II is set during a 400-year period spanning from approximately 200 BC to 200 AD, when Rome's power was at its peak[^ref-5]. The game has no narrative campaign; Amiga Format observed that "there's no real storyline - it's more of a military exercise than a campaign"[^ref-4].
 
-Players can take command of Roman legions of varying sizes and compositions, or alternatively lead barbarian hordes against the disciplined Roman military machine[^ref-2]. The game encompasses battles featuring warring races of barbarians fighting amongst themselves, as well as the classic confrontation between Roman civilization and the tribal peoples at the empire's frontiers[^ref-1]. The computer opponent employs a variety of different tactics that adapt depending on how the battle progresses, ensuring that "even if you play the same scenario again and again, it won't be the same game twice"[^ref-2].
-
-The tactical conflicts presented in the game represent the brutal reality of ancient warfare, where legionaries would "draw their swords" and engage in close combat that could decide the fate of entire provinces[^ref-2]. However, critics noted that despite the historical setting, "the actual implementation of tactics bears no relation to history: often it feels as if you are commanding a squad of World War II units than ancient Romans"[^ref-3].
+Players can set up battles between Roman armies of varying size and type, between warring races of barbarians, or between a Roman army and a barbarian horde[^ref-2]. In the Atari ST version the player commands the Blue Army and can choose to be either a Roman or barbarian force, with the opposing Red Army likewise set as Roman or barbarian[^ref-5]. Home of the Underdogs judged that "the actual implementation of tactics, however, bears no relation to history: often it feels as if you are commanding a squad of World War II units than ancient Romans"[^ref-3].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Cohort II employs a top-down perspective with multiple units/characters control interface, operated primarily through click-and-point controls using a mouse[^ref-1]. The game presents players with a 2D perspective of the battlefield where they must coordinate the movements and attacks of their chosen army[^ref-5]. Unfortunately, the control mechanism was widely criticized as one of the game's primary weaknesses, with reviewers describing it as "pretty much a joke"[^ref-7].
+Cohort II uses a top-down perspective with control of multiple units, operated with a mouse[^ref-1]. Battles are viewed in a 2D perspective, with an overview map showing friendly and enemy positions[^ref-5]. Opinions on the controls differed sharply between reviewers. Amiga Power called the control system "mercifully user-friendly", noting that "the action freezes whenever you give orders, so there is no pressure to react to the battle in real time"[^ref-4]. ST Format, by contrast, found that "the click-and-point controls are also quite unresponsive and it usually takes a couple of attempts at selecting something"[^ref-5].
 
-The interface suffered from significant responsiveness issues, with multiple attempts often required to select items or units properly[^ref-5]. One reviewer noted that "Control in Cohort II is pretty much a joke and that one shortcoming is enough to trample the game in the dust like one of Hannibal's elephants"[^ref-7]. Problems extended to turning units, directing movements, and regrouping formations, with units frequently defying orders during critical battle moments[^ref-7].
+The harshest verdict on control came from the Old-Games.com review, which stated that "Control in Cohort II is pretty much a joke and that one shortcoming is enough to trample the game in the dust like one of Hannibal's elephants"[^ref-7]. It described problems turning units, directing them and regrouping formations, with units that "defy your orders"[^ref-7].
 
 ### Structure and Progression
 
-The game offers over two dozen pre-set scenarios provided with separate Scenario Cards that outline the historical or hypothetical context for each battle[^ref-2]. Players can choose to command either Roman forces or barbarian armies across these varied engagements[^ref-5]:
+According to the publisher's description, "over two dozen scenarios are provided (with the separate Scenario Cards)"[^ref-2]. Players can command either Roman or barbarian forces[^ref-5]. Reviewers gave differing counts: ST Format said the game "contains up to nineteen different scenarios" and that players can also create their own[^ref-5]; Amiga Joker counted eight preset armies and twenty battle scenarios in total (translated from German)[^ref-4]; and Amiga Format noted that "ten new arenas of combat are unveiled by the sequel"[^ref-4]. Both ST Format and Amiga Power cite eight terrain types, which ST Format lists as open field, bridge, cliff, hill, marsh, downs, undergrowth and forest[^ref-4][^ref-5].
 
-- **Historical Battles:** Recreations of actual Roman military engagements from the specified era
-- **Hypothetical Scenarios:** Created battles allowing "what if" explorations of ancient warfare
-- **Custom Battles:** Using the scenario editor to create personalized confrontations
-
-The game features up to nineteen different scenarios according to one source[^ref-5], with another mentioning twenty battle scenarios total and ten new arenas of combat[^ref-4]. Eight preset armies are available for selection, along with eight different terrain types that affect tactical considerations[^ref-4].
+Computer Gaming World's June 1993 listing coded the game "Int/Land/Tac/1-2" (one to two players) and gave its price as $29.95[^ref-22]. Amiga Power, reviewing the Amiga version, complained that "there's no two-player option"[^ref-4].
 
 ### Puzzles and Mechanics
 
-As a real-time tactics game, Cohort II focuses on military strategy rather than traditional puzzle-solving[^ref-8]. Players must position their units effectively before battle, then coordinate their movements and attacks in real-time as the engagement unfolds[^ref-2]. The game allows for battle planning and strategy setup phases where players can arrange their forces according to tactical doctrine[^ref-5].
+As a real-time tactics game, Cohort II focuses on military strategy rather than puzzle-solving[^ref-8]. Players pick troops — light to heavy infantry, light to heavy cavalry, and archers — and the terrain, then plan and deploy before the battle unfolds[^ref-5]. ST Format observed that once forces are unleashed "there's actually very little for you to do"[^ref-5].
 
-The scenario editor/builder allows players to create custom battles, though it was criticized as "difficult to operate and very limited" in its capabilities[^ref-7]. One significant criticism was the lack of numerical values for unit attributes, making it difficult to assess troop capabilities and plan accordingly[^ref-9]. Perhaps most damning, one reviewer noted that "It's possible to win a battle without giving a single order, which certainly brings the tactical value of the game into question"[^ref-4].[^ref-21]
+The Old-Games.com review found the scenario editor/builder "difficult to operate and very limited in scope"[^ref-7]. The retrospective site Squakenet criticized the lack of "numerical values that describe their attributes" for units[^ref-9]. Amiga Power's review noted that "It's possible to win a battle without giving a single order, which certainly brings the tactical value of the game into question"[^ref-4].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Cohort II received predominantly negative to mediocre reviews from contemporary gaming publications, particularly in the Amiga gaming press which covered the title extensively in mid-1993[^ref-10].
+Cohort II received mostly negative to mediocre reviews, particularly in the Amiga press, which covered the title in May–July 1993[^ref-10].
 
-**Amiga Format** awarded the game 55%, with reviewer Paul Tyrrell writing in the June 1993 issue (#47) that while the concept had potential, the execution fell short[^ref-10]. **Amiga Power** gave a score of 52% in their June 1993 issue (#26), with reviewer Mark Winstanley (also credited as Cam Winstanley) noting critically that "It's possible to win a battle without giving a single order, which certainly brings the tactical value of the game into question"[^ref-4].
+**Amiga Format** awarded the game 55% in its June 1993 issue (#47), reviewed by Paul Tyrrell[^ref-10]. The review concluded that "all the enhanced graphics and sound in the world won't save a flawed formula" and that "Roman Legomen still fight barbarian Legomen on a Legoland playing field"[^ref-4]. **Amiga Power** gave a score of 52% in its June 1993 issue (#26), reviewed by Mark Winstanley (styled "Cam" Winstanley in the review)[^ref-10][^ref-4]; it judged the game "Only worth considering if you want it as an expansion for Caesar"[^ref-4].
 
-**The One Amiga** provided the highest score among Amiga publications at 63% in their May 1993 issue (#56), reviewed by David Upchurch[^ref-10]. **Amiga Action** awarded 59% in their June 1993 issue (#45), with the review handled by Nick Merritt and Steve McNally[^ref-10]. More negative assessments came from **CU Amiga**, which gave only 35% in June 1993 (reviewer Mark Patterson)[^ref-10], and **Amiga Force** at 39% in July 1993 issue (#7), reviewed by Ian Osborne[^ref-10].
+**The One** provided the highest Amiga score at 63% in its May 1993 issue (#56), reviewed by David Upchurch[^ref-10]. **Amiga Action** awarded 59% in its June 1993 issue (#45), reviewed by Nick Merritt and Steve McNally[^ref-10]. **CU Amiga** gave only 35% in June 1993 (reviewer Mark Patterson)[^ref-10], calling it "an extremely shoddy package which looks as though it was chucked together on a wet weekend"[^ref-4]. **Amiga Force** gave 39% in its July 1993 issue (#7), reviewed by Ian Osborne[^ref-10].
 
-The harshest review came from **Amiga Joker**, the German gaming publication, which awarded just 28% in their May 1993 issue, reviewed by Manfred Duy[^ref-10]. The game was priced at DM 79,00 in the German market[^ref-11].
+The lowest score came from the German magazine **Amiga Joker**, which awarded 28% in its May 1993 issue, reviewed by Manfred Duy[^ref-10][^ref-11]. Its review complained of "ruckelndes Scrolling und eine sehr, sehr zögerliche Mausabfrage" (translated: jerky scrolling and a very, very sluggish mouse response)[^ref-4]. The game was priced at DM 79,00 in Germany[^ref-11].
 
-**ST Format** provided a somewhat more favorable assessment for the Atari ST version, awarding 68% in their July 1993 issue (#47). Reviewer Rob Mead described it as "An involving, but complicated, war game, unfortunately let down by its graphics and control mechanism"[^ref-5]. He noted that "the sprites move around in that jerky, slow-motion style usually associated with hiccuping tortoises"[^ref-5].
-
-One German review quoted that "all the enhanced graphics and sound in the world won't save a flawed formula," while another dismissed the visuals entirely, stating that "Roman Legomen still fight barbarian Legomen on a Legoland playing field"[^ref-4]. Another reviewer declared the game "an extremely shoddy package which looks as though it was chucked together on a wet weekend"[^ref-4].
+**ST Format** was more favorable for the Atari ST version, awarding 68% in its July 1993 issue (#47). Reviewer Rob Mead called it "an involving, but complicated, war game which is unfortunately let down by its graphics and control mechanism"[^ref-5], adding that "the sprites move around in that jerky, slow-motion style usually associated with hiccuping tortoises"[^ref-5].
 
 ### Modern Assessment
 
-Modern retrospective assessments remain mixed. MobyGames aggregates a critic score of 42% based on 9 ratings, with a player average of 2.9 out of 5 based on 6 ratings[^ref-12]. The MobyGames Moby Score sits at 5.3[^ref-1]. GameFAQs user ratings classify the game as "Poor" based on 3 ratings[^ref-13].
-
-Not all modern assessments are negative. MyAbandonware users have given the game a 4.5 out of 5 rating[^ref-3], while playold.games shows a perfect 5.0 out of 5 score[^ref-14]. Another retrospective assessment praised it as "somehow as sleek as those more recent RTSes, though surely, not quite there, but miles better and more playable than many of the proto RTSes of the period"[^ref-9].
+MobyGames aggregates a critic score of 43% based on 11 ratings, with a player average of 2.9 out of 5 based on 6 ratings, and a Moby Score of 5.2[^ref-1][^ref-12]. GameFAQs user ratings classify the game as "Poor" based on 3 ratings[^ref-13]. MyAbandonware users have rated it 4.5 out of 5 (8 votes)[^ref-3]. The retrospective site Squakenet was more positive, calling it "somehow as sleek as those more recent RTSes, though surely, not quite there, but miles better and more playable than many of the proto RTSes of the period"[^ref-9].
 
 **Aggregate Scores:**
-- **MobyGames:** 42% critic average (9 ratings), 2.9/5 player average (6 ratings)[^ref-12]
-- **Lemon Amiga Average:** 47%[^ref-10]
+- **MobyGames:** 43% critic average (11 ratings), 2.9/5 player average (6 ratings)[^ref-12]
+- **Lemon Amiga Average:** 47% (7 magazine reviews)[^ref-10]
 - **GameFAQs:** Poor (3 ratings)[^ref-13]
 
 ## Development
 
 ### Origins
 
-Cohort II was developed by [[Impressions Games]], the British strategy game developer known for city-building titles like Caesar and Lords of the Realm[^ref-1]. The game served as a direct sequel to the original Cohort: Fighting for Rome released in 1991, with the subtitle "Fighting for Rome" shared between both entries in the series[^ref-1]. The Amiga version was developed by Micro Miniatures[^ref-10].
+Cohort II was developed by [[Impressions Games]], the developer of Caesar[^ref-1]. It is a sequel to the original Cohort, and both games share the subtitle "Fighting for Rome"[^ref-1]. Lemon Amiga credits the Amiga version's development to Micro Miniatures[^ref-10].
 
-The game was conceived as part of an interlocking game system that would complement Impressions' Caesar city-builder[^ref-3]. Owners of Caesar could link up the two games and "drop down" to resolve Caesar's city battles within Cohort II's tactical combat engine[^ref-1]. This modular approach to game design was relatively innovative for its era, allowing players to experience both the strategic city-building layer and tactical combat resolution without sacrificing depth in either area[^ref-14].
+The game was part of an interlocking game system module with Caesar, which allowed the user to "drop down" and play out the tactical battles[^ref-3][^ref-22]. MobyGames notes that owners of Caesar "can link up the two games and resolve Caesar's city battles within Cohort II"[^ref-1]; Amiga Format described it as linkable to Caesar "as a datadisk"[^ref-4].
 
 ### Production
 
-Development was led by designers Edward Grabowski, Andrew Prime, and Jeffrey Von Brakenton[^ref-4]. The team focused on upgrading the original Cohort's EGA graphics to VGA resolution, representing a significant visual improvement for the DOS platform[^ref-7]. The tactical engine was also enhanced to provide more realistic combat simulation, though the execution would prove controversial among reviewers[^ref-9].
+Amiga Power credits Edward Grabowski, Andrew Prime and Jeffrey Von Brakenton as authors[^ref-4]; Computer Gaming World lists Edward Grabowski[^ref-22]. The sequel upgraded the graphics to VGA[^ref-3]. Computer Gaming World reported that "For those owning the first release, an upgrade is available for $14.95"[^ref-22].
 
 **Development Credits:**[^ref-4]
 - **Designers:** Edward Grabowski, Andrew Prime, Jeffrey Von Brakenton
 
 ### Technical Achievements
 
-The most notable technical advancement in Cohort II was the upgrade to VGA graphics from the original game's more limited display capabilities[^ref-7]. The game featured multiple terrain types across its scenarios and implemented an adaptive AI system that would "vary tactics depending on how the battle progresses"[^ref-2].
+The most notable change in Cohort II was the upgrade to VGA graphics[^ref-3]. The DOS version uses the AIL / Miles Sound System sound engine[^ref-1]. The publisher's description claimed the computer opponent "will vary them depending on how the battle progresses"[^ref-2], though the Old-Games.com review found that "the computer plays predictably and changes tactics rarely"[^ref-7].
 
 ### Technical Specifications
 
@@ -123,12 +113,12 @@ The most notable technical advancement in Cohort II was the upgrade to VGA graph
 - **Input:** Mouse[^ref-1]
 - **File Size:** 612 KB[^ref-3]
 
-**Amiga Version:**[^ref-4]
-- **Hardware:** OCS, ECS compatible
-- **Disks:** 1
-- **Memory Requirement:** 1 MB
-- **Hard Drive Installation:** Yes
-- **Languages:** English, French, German (Complete German manual available)
+**Amiga Version:**
+- **Hardware:** OCS, ECS compatible[^ref-10]
+- **Disks:** 1[^ref-4]
+- **Memory Requirement:** 1 MB[^ref-4]
+- **Hard Drive Installation:** Yes[^ref-4]
+- **Languages:** English, French, German[^ref-10]
 - **File Size:** 708 KB[^ref-3]
 
 **Atari ST Version:**[^ref-17]
@@ -137,51 +127,48 @@ The most notable technical advancement in Cohort II was the upgrade to VGA graph
 
 ### Technical Issues
 
-The game suffered from numerous technical and gameplay issues that severely impacted the player experience[^ref-7]. Control problems were paramount, with units frequently running into each other and troops retreating from battle due to unresponsive controls[^ref-7]. Players reported persistent difficulties with turning units, directing movements, and regrouping formations, with units often defying orders entirely[^ref-7].
+Reviewers reported numerous gameplay issues. The Old-Games.com review described units that "run into each other" and troops that "retreat from the battle you've so carefully pointed them toward simply because the controls won't respond in any thing like real time"[^ref-7].
 
-The Amiga version exhibited particularly poor performance, with critics noting "jerky scrolling" and "very sluggish mouse response"[^ref-4]. The animation quality was described as poor, and the sound effects were dismissed as "tinny, unrealistic"[^ref-4]. Additional issues included an unclear German manual that failed to explain important interface icons[^ref-4], a confusing screen display layout[^ref-4], and a scenario editor that was both difficult to operate and severely limited in functionality[^ref-7].
+Amiga Joker criticized jerky scrolling, a very sluggish mouse response and dreadful sound effects (translated from German)[^ref-4]. Amiga Format found that "animation is poor" and the sound "tinny, unrealistic"[^ref-4]. Amiga Joker also said the German manual was unclear and did not explain the most important icons, and that the screen display was confusing (translated from German)[^ref-4]. The Old-Games.com review found the scenario editor difficult to operate and very limited[^ref-7].
 
-One especially problematic gameplay issue was that units would stop moving when only one of their number was engaged in fighting, breaking tactical formations and rendering coordinated attacks nearly impossible[^ref-4].
+CU Amiga noted that "When a group meets some opposition they all tend to come to a stop even if only one unit is actually fighting," forcing separate orders for each unit[^ref-4].
 
 ### Easter Eggs and Trivia
 
 - Both Cohort and Cohort II share the identical subtitle "Fighting for Rome"[^ref-1]
-- The game can be linked with Caesar as a data disk, allowing tactical resolution of city battles[^ref-4]
-- Contains 10 new arenas of combat compared to the original[^ref-4]
-- The game is sometimes inaccurately described as "medieval" despite its Roman-era setting[^ref-9]
-- DOSBox is required to run the game on modern systems[^ref-9]
+- The game can be linked with Caesar as a datadisk, allowing tactical resolution of city battles[^ref-4]
+- Amiga Format: "Ten new arenas of combat are unveiled by the sequel"[^ref-4]
+- Computer Gaming World lists 1–2 players, while Amiga Power's Amiga review says there is no two-player option[^ref-22][^ref-4]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1993 | DOS | Initial release, VGA graphics[^ref-1] |
-| 1.0 | 1993 | Amiga | European release, OCS/ECS compatible[^ref-10] |
-| 1.0 | 1993 | Atari ST | European release[^ref-17] |
+| Original release | 1993 | DOS | VGA graphics[^ref-1][^ref-3] |
+| Original release | 1993 | Amiga | European release, OCS/ECS compatible[^ref-10][^ref-18] |
+| Original release | 1993 | Atari ST | European release[^ref-17] |
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-No specific sales figures have been documented for Cohort II. The game's primary commercial value lay in its integration with Impressions' more successful Caesar franchise[^ref-3]. As a standalone product, the game struggled to find an audience, with contemporary reviewers specifically advising that it was "definitely not as a stand-alone product"[^ref-3].
+No specific sales figures have been documented for Cohort II. Home of the Underdogs recommended it as a companion to Caesar "but definitely not as a stand-alone product"[^ref-3].
 
 ### Collections
 
-Cohort II does not appear to have been included in any major game collections or compilations. The game was notably absent from Sierra Entertainment's official games lists and catalogs[^ref-16], suggesting limited distribution outside of Impressions' direct publishing channels.
+No inclusion in game collections or compilations has been documented for Cohort II.
 
 ### Fan Projects
 
-No significant fan projects, remakes, or modifications have been documented for Cohort II. The game remains primarily available through abandonware preservation sites and Internet Archive hosting[^ref-2][^ref-3].
+No significant fan projects, remakes, or modifications have been documented for Cohort II. The game remains available through abandonware preservation sites and Internet Archive hosting[^ref-2][^ref-3].
 
 ### Related Publications
 
-No official hint books, strategy guides, or novelizations have been documented for Cohort II. The game included a manual with scenario cards, though the German version's manual was criticized for failing to adequately explain important gameplay elements[^ref-4].
+No official hint books, strategy guides, or novelizations have been documented for Cohort II. The game shipped with separate Scenario Cards[^ref-2]; Amiga Joker criticized the German manual for not explaining the most important icons (translated from German)[^ref-4].
 
 ### Critical Perspective
 
-Cohort II represents an interesting but flawed entry in the early real-time tactics genre, arriving during a transitional period for strategy gaming before the explosive success of titles like Warcraft and Command & Conquer would define the RTS paradigm[^ref-9]. While the game attempted to simulate ancient Roman warfare, its execution betrayed its historical pretensions, with reviewers noting that the tactical implementation "bears no relation to history"[^ref-3].
-
-The game's most significant contribution to gaming history may be its innovative approach to cross-game integration with Caesar, presaging the modular design philosophy that would later become common in strategy gaming[^ref-1]. However, the poor critical reception and fundamental control issues prevented the game from achieving lasting recognition. Modern retrospectives tend to view Cohort II as a curiosity of early 1990s strategy gaming—ambitious in concept but severely limited in execution, remembered primarily as a companion piece to the more successful Caesar franchise rather than as a standalone achievement[^ref-9].
+Cohort II was a modest sequel whose reception was largely negative. While the game simulates ancient Roman warfare, Home of the Underdogs judged that its tactical implementation "bears no relation to history"[^ref-3]. Its main distinguishing feature was its link with Caesar, which let Caesar owners resolve city battles within Cohort II[^ref-1], and several reviews framed it chiefly as a Caesar companion rather than a standalone game[^ref-3][^ref-4].
 
 ## Purchase
 
@@ -218,21 +205,18 @@ The game's most significant contribution to gaming history may be its innovative
 
 ## References
 
-[^ref-1]: [MobyGames – Cohort II](https://www.mobygames.com/game/2914/cohort-ii/) – developer, publisher, platforms, technical specs, series information, trivia
-[^ref-2]: [Internet Archive – Cohort II (1993)](https://archive.org/details/msdos_Cohort_2_1993) – release dates, platforms, game description, gameplay features
-[^ref-3]: [MyAbandonware – Cohort II](https://www.myabandonware.com/game/cohort-ii-1ll) – developer, publisher, user rating, file sizes, critical quotes
-[^ref-4]: [Amiga Reviews Archive](https://amigareviews.leveluphost.com/cohort2.htm) – designers, review scores, technical specs, trivia, bug reports, critical quotes
-[^ref-5]: [Every Game Going – ST Format Review](https://www.everygamegoing.com/larticle/cohort-2--000/48820) – ST Format 68% review, gameplay details, critical quotes
-[^ref-7]: [Old-Games.com – Cohort II](https://www.old-games.com/download/5154/cohort-ii-a-k-a) – control issues, bug reports, critical analysis
+[^ref-1]: [MobyGames – Cohort II](https://www.mobygames.com/game/2914/cohort-ii/) – developer, publisher, platforms, technical specs, sound engine, Moby Score, trivia
+[^ref-2]: [Internet Archive – Cohort II (1993)](https://archive.org/details/msdos_Cohort_2_1993) – release year, platforms, publisher's game description (from MobyGames)
+[^ref-3]: [MyAbandonware – Cohort II](https://www.myabandonware.com/game/cohort-ii-1ll) – user rating, file sizes, Home of the Underdogs review text
+[^ref-4]: [Amiga Reviews Archive – Cohort 2](https://amigareviews.leveluphost.com/cohort2.htm) – review texts from Amiga Format, Amiga Joker (German), Amiga Power and CU Amiga; credits, specs
+[^ref-5]: [Every Game Going – ST Format Review](https://www.everygamegoing.com/larticle/cohort-2--000/48820) – ST Format #47 68% review, gameplay details, critical quotes
+[^ref-7]: [Old-Games.com – Cohort II](https://www.old-games.com/download/5154/cohort-ii-a-k-a) – Old-Games.com review: control issues, AI, scenario editor
 [^ref-8]: [Wikidata – Cohort II](https://www.wikidata.org/wiki/Q29867340) – genre classification as real-time tactics
-[^ref-9]: [Squakenet – Cohort 2: Fighting for Rome](https://www.squakenet.com/game/cohort-2-fighting-for-rome/) – retrospective analysis, technical notes
-[^ref-10]: [Lemon Amiga – Cohort II](https://www.lemonamiga.com/games/details.php?id=272) – comprehensive review scores, reviewer names, publication dates, average rating
+[^ref-9]: [Squakenet – Cohort 2: Fighting for Rome](https://www.squakenet.com/game/cohort-2-fighting-for-rome/) – retrospective opinion
+[^ref-10]: [Lemon Amiga – Cohort II](https://www.lemonamiga.com/games/details.php?id=272) – review scores, reviewer names, issues, average rating, Amiga developer, hardware, languages
 [^ref-11]: [Amiga Magazine Rack Archive](http://amr.abime.net/review_25092) – Amiga Joker review, German pricing
 [^ref-12]: [MobyGames – Cohort II Reviews](https://www.mobygames.com/game/2914/cohort-ii/reviews/) – aggregate critic and player scores
 [^ref-13]: [GameFAQs – Cohort II (PC)](https://gamefaqs.gamespot.com/pc/980540-cohort-ii) – user ratings
-[^ref-14]: [Playold.games – Cohort II](https://playold.games/play-game/cohort-ii/) – user rating, gameplay description
-[^ref-16]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – absence from Sierra catalog noted
 [^ref-17]: [GameFAQs – Cohort II: Fighting for Rome (Atari ST)](https://gamefaqs.gamespot.com/ast/227088-cohort-ii-fighting-for-rome/data) – Atari ST release information
-[^ref-18]: [GameFAQs – Cohort II (Amiga)](https://gamefaqs.gamespot.com/amiga/980530-cohort-ii/data) – Amiga release information
-[^ref-20]: [Amazon Product Listing](https://www.amazon.com/Cohort-II/dp/B000E5F86W) – publisher, platform, media format
-[^ref-21]: [Play Classic Games](https://playclassic.games/games/strategy-dos-games-online/play-cohort-ii-online/) – gameplay features description
+[^ref-18]: [GameFAQs – Cohort II (Amiga)](https://gamefaqs.gamespot.com/amiga/980530-cohort-ii/data) – Amiga release information (EU, 1993)
+[^ref-22]: [Computer Gaming World #107 (June 1993), OCR text – Internet Archive](https://archive.org/download/Computer_Gaming_World_Issue_107/Computer_Gaming_World_Issue_107_djvu.txt) – game listing: designer, $29.95 price, 1–2 players, $14.95 upgrade, Caesar link
