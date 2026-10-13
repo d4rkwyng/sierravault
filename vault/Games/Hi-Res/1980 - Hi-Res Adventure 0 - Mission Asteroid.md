@@ -1,7 +1,7 @@
 ---
-title: 'Hi Res Adventure #0: Mission Asteroid'
+title: 'Hi-Res Adventure #0: Mission Asteroid'
 release_year: 1980
-developer: Ken Williams
+developer: On-Line Systems
 designer: [Ken Williams, Roberta Williams]
 publisher: On-Line Systems
 genre: Adventure
@@ -10,29 +10,30 @@ series: Hi-Res Adventure
 engine: Hi-Res Adventure
 protagonist: Astronaut (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-05-11'
-description: 'Hi Res Adventure #0: Mission Asteroid is a graphic adventure game that
-  was part of Sierra On-Line''s pioneering Hi-Res Adventure series. Originally released...'
+last_updated: '2026-10-12'
+description: 'Hi-Res Adventure #0: Mission Asteroid is a 1980 Apple II graphic adventure
+  by Ken and Roberta Williams for On-Line Systems, an easier introduction to the Hi-Res
+  Adventure series in which an astronaut must destroy an asteroid headed for Earth.'
 tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
-# Hi Res Adventure #0: Mission Asteroid
+# Hi-Res Adventure #0: Mission Asteroid
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 12, 2026</small>
 
 ## Overview
 
-Hi Res Adventure #0: Mission Asteroid is a graphic adventure game that was part of Sierra On-Line's pioneering Hi-Res Adventure series[^ref-1]. Originally released in 1980 for the Apple II, the game was designed by Ken and Roberta Williams and represented one of the earliest graphic adventure games for home computers[^ref-2][^ref-3]. Despite being numbered as "#0," Mission Asteroid was actually the third Hi-Res Adventure released by Sierra, following Mystery House (#1) and The Wizard and the Princess (#2)[^ref-4].
+Hi-Res Adventure #0: Mission Asteroid (styled "Mission: Asteroid" in the manual and on the title screen) is a graphic adventure game for the Apple II written by Ken and Roberta Williams and released in 1980 by On-Line Systems[^ref-3][^ref-22]. It belongs to the Hi-Res Adventure series, the early-1980s run of graphic adventures that also includes Mystery House and The Wizard and the Princess[^ref-1][^ref-5]. Despite being numbered "#0," it was published after #1: Mystery House and #2: The Wizard and the Princess[^ref-3][^ref-4]; Wikipedia's Sierra Entertainment article instead calls it the series' second release, ahead of Wizard and the Princess[^ref-16].
 
-The retroactive numbering decision was deliberate: Sierra assigned it the zero designation because it was intended as an easier introductory game aimed at younger players and newcomers to the adventure gaming genre[^ref-4]. As the Gaming After 40 blog explained, "Mission Asteroid was published after #1: Mystery House, and #2, The Wizard and the Princess, but as it was intended as an easier game aimed at younger players, Sierra retro-assigned it to number zero"[^ref-4].
+The zero marked its role as an entry-level game. The manual calls it "an introduction to the HI-RES ADVENTURE family of games," "slightly easier and a little shorter than our other HI-RES ADVENTURE games"[^ref-22]. On-Line Systems' December 1980 listing in Softalk already named it "Hi-Res Adventure #0, Mission: Asteroid" and described it as "Easier than our other hi-res adventure games, but far from easy"[^ref-21]. Gaming After 40 describes the number as "retro-assigned"[^ref-4], but this earliest known listing shows it carried #0 from its first appearance[^ref-21].
 
-The Hi-Res Adventures series represented a significant evolution from pure text adventure games by incorporating static graphics to enhance the gaming experience[^ref-5]. The game utilized the Apple II's color palette to demonstrate each scene and featured Sierra's early text parser system for player input[^ref-6][^ref-7]. While the visuals were described as "crude, static, monochrome line drawings"[^ref-8], they marked an important step in the evolution from text-only adventures to the fully graphical games that would define Sierra's later success.
+The Softalk listing advertised "Fantastic 21-color hi-res graphics" on a 48K disk for $19.95[^ref-21]. Gaming After 40 notes that the game uses the improved graphics engine introduced with The Wizard and the Princess, "allowing color fills as well as vectors"[^ref-4].
 
 > [!info]- Game Info
-> **Developer:** [[Ken Williams]][^ref-2]
-> **Designer:** Ken Williams, [[Roberta Williams]][^ref-2]
+> **Developer:** [[On-Line Systems]][^ref-9]
+> **Designer:** [[Ken Williams]], [[Roberta Williams]][^ref-12][^ref-22]
 > **Publisher:** [[On-Line Systems]][^ref-9]
 > **Platforms:** Apple II, Atari 8-bit, Commodore 64, FM-7, PC-88, PC-98[^ref-9]
-> **Release Year:** 1980
+> **Release Year:** 1980[^ref-21]
 > **Series:** Hi-Res Adventure
 > **Sierra Lineage:** Core Sierra
 > **Engine:** Hi-Res Adventure
@@ -40,99 +41,74 @@ The Hi-Res Adventures series represented a significant evolution from pure text 
 
 ## Story Summary
 
-In Mission Asteroid, the player takes on the role of an astronaut who receives a critical mission from Mission Control[^ref-10][^ref-11]. The core objective is dramatic: "send a rocket up to an asteroid and blow it up before it reaches Earth"[^ref-10]. A large asteroid is on a collision course with our planet, and only the player can prevent catastrophic damage by intercepting and destroying it before impact.
+The manual sets up the premise: an asteroid that "jumped its orbit" from between Mars and Jupiter is "speeding through space directly toward Earth," and "The only way to stop the Asteroid is to blow it up in Space before it gets to Earth"[^ref-22]. As an astronaut, the player must "fight through the Red Tape at Mission Control, then enter the Rocket Ship and learn how to fly it"[^ref-22]. Database descriptions summarise the mission as being asked by Mission Control to "send a rocket up to an asteroid and blow it up before it reaches Earth," noting that the asteroid cannot be found without a flight plan[^ref-10][^ref-11].
 
-The game's science fiction premise was designed to be accessible to younger players while still providing the challenge of an adventure game puzzle structure[^ref-4]. The short, focused narrative allowed new players to experience the satisfaction of completing an adventure game without the extensive time commitment required by longer titles in the series.
+The game runs against the clock. The asteroid "will hit the Earth at a pre-determined time," and a watch shows how much time remains[^ref-22]. Gaming After 40 found that five minutes pass for each move[^ref-4].
 
-However, one reviewer noted a scientific inaccuracy in the game's premise, pointing out that "blowing up an asteroid doesn't make the matter disappear. It just breaks it into smaller pieces and starts them moving away from each other"[^ref-12]. Despite this logical flaw, the game captured the excitement of space exploration and heroic intervention that appealed to players of the early 1980s.
+In a review quoted in MobyGames' trivia, Carl Muckenhoupt questioned the premise's physics: "Blowing up an asteroid doesn't make the matter disappear. It just breaks it into smaller pieces and starts them moving away from each other"[^ref-12].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Mission Asteroid utilized Sierra's Hi-Res Adventure graphics engine, which combined static, monochrome line drawings with a text-based command parser[^ref-8]. Players interact with the game by typing text commands using the keyboard, following the traditional adventure game format of verb-noun combinations[^ref-5][^ref-8]. The game featured crude but functional graphics that made full use of the Apple II's color capabilities to enhance the visual presentation of each scene[^ref-6].
-
-The text parser was a defining characteristic of the Hi-Res Adventure series. Players could enter one- or two-word commands to interact with the game world, examining objects, picking up items, and navigating between locations[^ref-1]. This interface would evolve significantly in Sierra's later games, but Mission Asteroid represents an important early iteration of the company's approach to adventure game design.
+Each location is shown as a color picture with a brief description of the room below it[^ref-22]. The player types commands at the keyboard. The manual says the parser "only understands sentences of one or two words," usually a verb and noun such as "CLIMB LADDER" or "OPEN DOOR," with single words like "NORTH" for movement[^ref-22]. "INVENTORY" (or "INV") lists what the player is carrying, and dropped objects appear as part of the picture[^ref-22].
 
 ### Structure and Progression
 
-The game is designed as a single-player experience with fixed screen presentation[^ref-7]. Players must navigate through various locations and solve puzzles to ultimately complete their mission of destroying the incoming asteroid[^ref-10]. The game was intentionally designed as a very short experience, allowing new players to complete it without the frustration of getting stuck for extended periods.
-
-The structure follows a linear progression: players receive their mission, prepare for the space journey, launch their rocket, and ultimately intercept the asteroid. Each step requires solving simple puzzles and making the correct choices to advance the narrative.
+The game is single-player and uses fixed, flip-screen presentation[^ref-7]. Gaming After 40 describes it as "fairly brief," with puzzles "so straightforward they scarcely count as such," though "efficient execution is a must"[^ref-4]. That playthrough moves from a security desk and briefing room through pre-flight preparations to an airfield where the rocket waits[^ref-4].
 
 ### Puzzles and Mechanics
 
-Mission Asteroid features adventure game puzzles focused on the central mission of launching a rocket to destroy an asteroid[^ref-10]. The game was specifically designed to be simpler than other entries in the Hi-Res Adventure series, making it more accessible to younger players and newcomers to the adventure game genre[^ref-4]. The puzzles typically involved finding and using objects in the correct sequence, a design philosophy that Sierra would refine in subsequent releases.
+Items found along the way must be collected and used. The manual's own example is that "explosives might be useful in blowing up an Asteroid," and it warns that they "can be very dangerous if not handled correctly"[^ref-22]. MobyGames' description has the player place and arm the explosives and escape before they detonate[^ref-12].
 
-The game included a save system that supported up to 15 save slots, though it required a separate save disk for storage[^ref-8]. This feature was valuable for players who wanted to experiment with different approaches without losing progress—a consideration that showed Sierra's early attention to player convenience.
+Games are saved to a separate diskette. The manual warns that the save routine "will blindly clobber any data you may have on the disk"[^ref-22]. Gaming After 40 counts 15 save slots and notes that saving to the original game disk by mistake corrupts it[^ref-4].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Mission Asteroid was released during the formative years of the adventure game genre, before formal review scoring systems became standardized. The game was recognized primarily as an introductory title designed to bring new players into the adventure gaming fold rather than as a landmark release in its own right.
+Mark Marlow reviewed Mission: Asteroid together with Mystery House and The Wizard and the Princess in Computer Gaming World's January–February 1982 issue. He wrote that "MISSION: ASTEROID is the simplest of the group and only requires a few hours to solve," and said of the three games that "The color graphics are superb"[^ref-23].
 
 ### Modern Assessment
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| MobyGames | 7.4/10 | User rating highlighting color graphics[^ref-6] |
-| MobyGames | 7.1/10 | Alternative user rating[^ref-12] |
-| MyAbandonware | 4/5 | Modern preservation site rating[^ref-8] |
-| Glitchwave | 1.75/5.0 | Lower contemporary assessment[^ref-14] |
+| MobyGames | 7.0 | Moby Score; players average 3.6/5 from 33 ratings[^ref-6] |
+| MyAbandonware | 4/5 | 10 votes[^ref-8] |
+| Glitchwave | 2.01/5 | 10 ratings[^ref-14] |
+| IGDB | 6.0/10 | 6 ratings[^ref-19] |
 
-Modern retrospective reviews have been mixed, with the game receiving recognition primarily for its historical significance rather than its gameplay merits[^ref-14]. The game is acknowledged as an important early example of graphic adventure gaming, representing Sierra's transition from pure text adventures to the graphical adventures that would later make the company famous[^ref-2].
-
-The disparity between ratings reflects different perspectives on how to evaluate vintage games. Those who appreciate historical context tend to rate Mission Asteroid more favorably, while those applying modern standards find its simplicity and brevity limiting.
+The single MobyGames player review calls it a "short game introducing users to Hi-Res adventures" and says its color graphics were "a refreshing change to other black-and-white, text-only adventures at the time"[^ref-6].
 
 ## Development
 
-### Origins
+### Origins and Production
 
-Mission Asteroid emerged from Ken and Roberta Williams' efforts to enhance traditional text adventure games with graphics[^ref-2]. The game was inspired by existing text adventure games but was designed specifically to demonstrate the potential of combining visual elements with interactive fiction[^ref-15]. As one of Sierra's earliest graphic adventure games, it was developed before the company became famous for their King's Quest series[^ref-5].
+The manual is signed "KEN AND ROBERTA WILLIAMS," and MobyGames credits the game to Ken Williams and Roberta Williams, with cover artwork by Don Dixon[^ref-12][^ref-22]. Gaming After 40 found credits hard to pin down. It notes that "programming is credited to Chris Iden by some sources," and it reasons that Roberta must have had a hand in the game because it was included in the Roberta Williams Anthology[^ref-4]. On the art, the blog's author writes that "my understanding is that Ken Williams did the artwork himself using an early graphics tablet"[^ref-4].
 
-The decision to create an entry-level adventure game reflected Ken and Roberta's understanding that the genre could be intimidating to newcomers. By creating a shorter, simpler experience, they hoped to expand the audience for adventure games beyond the dedicated hobbyists who had embraced earlier titles.
+### Ports and Releases
 
-### Production
+MobyGames lists these releases[^ref-9][^ref-12]:
 
-The game was developed by Ken Williams, who created the early graphics using a graphics tablet[^ref-15]. Roberta Williams contributed to the design, continuing her role in pioneering graphic adventure games[^ref-5]. The development process was necessarily constrained by the limited memory and processing power of early personal computers, requiring creative solutions to present graphical content alongside gameplay.
+- **Apple II** (US, 1980; On-Line Systems), plus a UK release by All American Adventures in 1985.
+- **Atari 8-bit** (US, 1980; On-Line Systems), with the port credited to Yosemite Software Products, Inc. Pixelated Arcade credits the Atari version to Chris Iden[^ref-7].
+- **Commodore 64** (US, December 1983; On-Line Systems), plus a UK release by All American Adventures in October 1985.
+- **FM-7, PC-88 and PC-98** (Japan, April 1983; StarCraft, Inc.).
+- **Compilations:** "Mission Asteroid & Wizard and the Princess" (1986) and The Roberta Williams Anthology.
 
-The Atari 8-bit version was later ported by Yosemite Software Products, Inc., expanding the game's platform availability[^ref-8]. Additional ports to Japanese computers (FM-7, PC-88, PC-98) were published by StarCraft, Inc., demonstrating the game's appeal to international markets[^ref-9].
-
-### Technical Achievements
-
-Mission Asteroid was one of the earliest Sierra games to feature color graphics, utilizing the Hi-Res Adventure series text parser and graphics engine[^ref-5]. The game demonstrated Sierra's early technical capabilities in combining static graphics with interactive gameplay, though the visuals were necessarily primitive by later standards.
-
-The game was distributed on 5.25" floppy disks and had relatively small file sizes ranging from 54-88 KB depending on the platform[^ref-7]:
-
-| Platform | File Size |
-|----------|-----------|
-| Apple II | 54 KB |
-| Commodore 64 | 56 KB |
-| PC-88 | 69 KB |
-| Atari 8-bit | 88 KB |
-
-These modest storage requirements allowed the game to run on the limited hardware of the era while still delivering a complete adventure gaming experience.
+SierraGamers lists two alternate Apple II releases, a "White Folder" and a "Black Box" edition[^ref-15]. Besides "Mission Asteroid," MobyGames records the alternate titles "Hi-Res Adventure #0: Mission: Asteroid" and "Mission: Asteroide"[^ref-12].
 
 ## Legacy
 
 ### Place in Sierra History
 
-Mission Asteroid holds historical significance as part of the seven graphic adventure games Sierra released before their landmark King's Quest series[^ref-5][^ref-16]. These early Hi-Res Adventures established many of the conventions that Sierra would refine in their later work, including the combination of graphics with text parser input and the focus on puzzle-solving within a narrative framework.
+Mission Asteroid is one of seven numbered Hi-Res Adventures, #0 through #6: Mission Asteroid, Mystery House, The Wizard and the Princess, Cranston Manor, Ulysses and the Golden Fleece, Time Zone and The Dark Crystal[^ref-1]. Sierra's later catalog for the series pitched it as the story of "a daredevil astronaut whose mission is to locate and destroy a rogue asteroid speeding on a collision course with our home planet"[^ref-20].
 
-The game was included in the 1997 Roberta Williams Anthology, cementing its place in Sierra's historical catalog[^ref-5]. This compilation recognized the game's importance in the company's history and allowed new generations of players to experience Sierra's earliest work.
-
-### Genre Evolution
-
-While Mission Asteroid retired early from Sierra's active catalog, it represents an important step in the evolution of graphic adventure gaming and Sierra's development as a major adventure game publisher[^ref-5][^ref-15]. The lessons learned from creating accessible entry-level games influenced Sierra's later approach to game design, including the difficulty scaling options that would appear in later titles.
+Sources disagree on when The Roberta Williams Anthology appeared: MobyGames dates it to 1996[^ref-12], while Gaming After 40 gives 1997[^ref-4]. Gaming After 40 also notes that the game "apparently retired from Sierra's active catalog lineup fairly early"[^ref-4].
 
 ### Preservation
 
-The game continues to be documented across gaming databases[^ref-18][^ref-19] and preservation archives[^ref-20], ensuring its place in adventure gaming history is maintained for future generations. Abandonware sites and emulation communities have made the game accessible to modern players interested in experiencing the earliest days of graphical adventure gaming.
-
-### Alternative Versions
-
-Historical records indicate the game was released in multiple versions, including a "White Folder Release" and "Black Box Release"[^ref-12]. The game was also known by alternative titles in different regions, including "Hi-Res Adventure #0: Mission: Asteroid" and "Mission: Asteroide"[^ref-12].
+The game is catalogued by databases including IGDB[^ref-19], and its manual and a Sierra Hi-Res Adventures catalog are preserved at the Internet Archive[^ref-20][^ref-22].
 
 ## Technical Specifications
 
@@ -140,11 +116,12 @@ Historical records indicate the game was released in multiple versions, includin
 |---------------|---------|
 | Genre | Adventure, Interactive Fiction[^ref-7] |
 | Setting | Sci-Fi / Futuristic[^ref-7] |
-| Perspective | Text-based with Fixed/Flip-screen graphics[^ref-7] |
-| Input | Keyboard (text commands)[^ref-8] |
-| Save Slots | 15[^ref-8] |
-| Media | 5.25" Floppy Disk[^ref-8] |
-| Business Model | Commercial[^ref-7] |
+| Perspective | Fixed / Flip-screen graphics[^ref-7] |
+| Input | Keyboard (one- or two-word commands)[^ref-22] |
+| Memory | 48K (Apple II and Apple II Plus)[^ref-21][^ref-22] |
+| Save Slots | 15, on a separate disk[^ref-4] |
+| Media | 5.25" Floppy Disk[^ref-7] |
+| Original Price | $19.95[^ref-21] |
 | Players | Single-player[^ref-7] |
 
 ## Downloads
@@ -156,6 +133,7 @@ Historical records indicate the game was released in multiple versions, includin
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/hi-res-adventure-0-mission-asteroid-4yl)
 - [Lutris](https://lutris.net/games/hi-res-adventure-0-mission-asteroid/)
+- [Internet Archive](https://archive.org/details/Mission_Asteroid_Hi-Res_Adventure_0) - Apple II manual
 - [Internet Archive](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) - Sierra On-Line Hi-Res Adventures Catalog
 
 ## See Also
@@ -174,21 +152,22 @@ Historical records indicate the game was released in multiple versions, includin
 
 ## References
 
-[^ref-1]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Hi-Res_Adventure) – Hi-Res Adventure series information
-[^ref-2]: Old Games Download (link removed: game-download site) – Development and platform details
-[^ref-3]: [Wikipedia](https://en.wikipedia.org/wiki/Hi-Res_Adventure_%230%3A_Mission_Asteroid) – Historical context and early graphic adventure games
-[^ref-4]: [Gaming After 40 Blog](http://gamingafter40.blogspot.com/2012/06/adventure-of-week-mission-asteroid-1981.html) – Game numbering and target audience explanation
-[^ref-5]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#0:_Mission_Asteroid/Development) – Roberta Williams design credit and series context
-[^ref-6]: [MobyGames](https://www.mobygames.com/game/15281/hi-res-adventure-3-cranston-manor/) – Graphics description and user rating
-[^ref-7]: [Pixelated Arcade](https://www.pixelatedarcade.com/games/hi-res-adventure-0-mission-asteroid/) – Technical specifications and platform details
-[^ref-8]: [MyAbandonware](https://www.myabandonware.com/game/hi-res-adventure-0-mission-asteroid-4yl) – Technical specifications and save system details
-[^ref-9]: [MobyGames Releases](https://www.mobygames.com/game/15282/hi-res-adventure-0-mission-asteroid/releases/) – Publisher and platform information
+[^ref-1]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Hi-Res_Adventure) – Hi-Res Adventure series page; series description and list of games #0–#6
+[^ref-3]: [Wikipedia – Mission Asteroid](https://en.wikipedia.org/wiki/Mission_Asteroid) – Authorship, 1980 On-Line Systems release, title styling, release order
+[^ref-4]: [Gaming After 40 Blog](http://gamingafter40.blogspot.com/2012/06/adventure-of-week-mission-asteroid-1981.html) – Release order, graphics engine, credits, Anthology, save slots, playthrough
+[^ref-5]: [Sierra Fandom Wiki – Mission Asteroid](https://sierra.fandom.com/wiki/Mission_Asteroid) – Graphic adventure released in 1980, part of the Hi-Res Adventures series
+[^ref-6]: [MobyGames – Reviews](https://www.mobygames.com/game/15282/hi-res-adventure-0-mission-asteroid/reviews/) – Moby Score 7.0, player average 3.6/5 (33 ratings), player review
+[^ref-7]: [Pixelated Arcade](https://www.pixelatedarcade.com/games/hi-res-adventure-0-mission-asteroid/) – Genre, setting, presentation, Atari credit (Chris Iden), technical specs
+[^ref-8]: [MyAbandonware](https://www.myabandonware.com/game/hi-res-adventure-0-mission-asteroid-4yl) – User rating (4/5, 10 votes)
+[^ref-9]: [MobyGames Releases](https://www.mobygames.com/game/15282/hi-res-adventure-0-mission-asteroid/releases/) – Publishers, platforms, release dates, Yosemite Software Products Atari port
 [^ref-10]: [Lutris](https://lutris.net/games/hi-res-adventure-0-mission-asteroid/) – Game plot description
-[^ref-11]: [Retro Game Strove](https://www.retrogamestrove.com/game/hi-res-adventure-0-mission-asteroid/) – Mission Control and asteroid plot
-[^ref-12]: [MobyGames](https://www.mobygames.com/game/15282/hi-res-adventure-0-mission-asteroid/) – Carl Muckenhoupt review and scientific critique
-[^ref-14]: [Glitchwave](https://glitchwave.com/game/mission-asteroid-hi-res-adventure-0/) – Modern assessment and rating
-[^ref-15]: [SierraGamers](https://www.sierragamers.com/mission-asteroid/) – Development details and graphics tablet information
-[^ref-16]: [Wikipedia](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Sierra Entertainment history and adventure game development
-[^ref-18]: [Giant Bomb](https://www.giantbomb.com/hi-res-adventure-0-mission-asteroid/3030-12459/) – Game database entry
-[^ref-19]: [IGDB](https://www.igdb.com/games/hi-res-adventure-0-mission-asteroid) – Game database entry
-[^ref-20]: [Archive.org](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) – Sierra On-Line catalog preservation
+[^ref-11]: [Retro Games Trove](https://www.retrogamestrove.com/game/hi-res-adventure-0-mission-asteroid/) – Mission Control and asteroid plot
+[^ref-12]: [MobyGames](https://www.mobygames.com/game/15282/hi-res-adventure-0-mission-asteroid/) – Credits, alternate titles, compilations, description, Carl Muckenhoupt trivia
+[^ref-14]: [Glitchwave](https://glitchwave.com/game/mission-asteroid/) – User rating (2.01/5, 10 ratings)
+[^ref-15]: [SierraGamers](https://www.sierragamers.com/mission-asteroid/) – Alternate releases (White Folder, Black Box)
+[^ref-16]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Hi-Res Adventure series history; calls Mission Asteroid the second release
+[^ref-19]: [IGDB](https://www.igdb.com/games/mission-asteroid) – Game database entry; user rating (6.0/10, 6 ratings)
+[^ref-20]: [Archive.org](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) – Sierra On-Line Hi-Res Adventures catalog
+[^ref-21]: [Softalk, December 1980 (Internet Archive)](https://archive.org/download/softalkv1n04dec1980/softalkv1n04dec1980_djvu.txt) – New-product listing: "Hi-Res Adventure #0, Mission: Asteroid", 21-color graphics, 48K, $19.95
+[^ref-22]: [Mission: Asteroid Apple II manual (Internet Archive)](https://archive.org/details/Mission_Asteroid_Hi-Res_Adventure_0) – Premise, parser, saving, signed "Ken and Roberta Williams"
+[^ref-23]: [Computer Gaming World, Issue 2.1, Jan–Feb 1982 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_2.1) – Mark Marlow's review of the On-Line Systems Hi-Res Adventures
