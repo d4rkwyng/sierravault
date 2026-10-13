@@ -10,100 +10,99 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-14'
-description: Hoyle Official Casino Games Collection, released in 2016, represents
-  the final entry in the long-running Hoyle Casino series that began in 1996 under
-  Sierra...
+last_updated: '2026-10-13'
+description: Hoyle Official Casino Games Collection is a 2016 Encore compilation of
+  over 20 casino games for Windows and macOS, the latest edition in the Hoyle Casino
+  series that Sierra began in 1996; it was re-released in 2019 as Encore Casino Games
+  Collection.
 tags: [2010s, hoyle-casino, sierra]
 ---
 # Hoyle Official Casino Games Collection
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Hoyle Official Casino Games Collection, released in 2016, represents the final entry in the long-running Hoyle Casino series that began in 1996 under Sierra Entertainment[^ref-1][^ref-16]. The game was developed and published by Encore Software, which had acquired the Hoyle brand from Sierra in 2005 and continued releasing annual casino game compilations[^ref-1][^ref-17]. This collection promised players the experience of living "the life of a High Roller" with over 20 casino games to choose from[^ref-2].
+Hoyle Official Casino Games Collection, released in 2016, is the latest edition listed in the Hoyle Casino series, which Sierra Entertainment began in 1996 as a spin-off of *Hoyle's Official Book of Games*[^ref-1]. Sierra developed and published the series through 2003; after 2005, publication moved to Encore, Inc., which is credited for the series from 2005 to 2016[^ref-1]. This collection promised players the chance to "Live the life of a High Roller" with over 20 casino games to choose from[^ref-2][^ref-19].
 
-The game serves as a virtual Las Vegas casino simulation where players can create profiles and are given virtual money to gamble with—a core mechanic that has defined the Hoyle Casino series since its inception[^ref-1]. Available games include Blackjack, Craps, Baccarat, Roulette, and eleven popular variations of Poker[^ref-3]. The collection also features a Face Creator tool allowing players to customize their in-game avatars[^ref-2].
+The game is a virtual casino simulation in which players create profiles and are given virtual money to gamble with, the core mechanic of the Hoyle Casino series[^ref-1]. Available games include Blackjack, Craps, Baccarat, Roulette, and eleven popular variations of Poker[^ref-3]. The collection also features a Face Creator tool allowing players to customize their in-game avatars[^ref-2].
 
-Despite carrying the prestigious Hoyle name—a brand synonymous with card and casino gaming since Edmond Hoyle's 18th-century writings—the 2016 release received predominantly negative reception from users, with Steam reviews showing only 23.81% positive ratings, indicating significant community dissatisfaction[^ref-4]. The game was released on Steam on October 14, 2016, and has since been delisted from digital storefronts[^ref-5][^ref-19][^ref-20][^ref-21].
+User reception on Steam was negative: the store page shows an overall rating of "Negative" (16% of 18 reviews)[^ref-19]. The game was released on Steam on October 14, 2016[^ref-19][^ref-5]; the original Steam listing is now unlisted "at the request of the publisher"[^ref-19]. The game has not left sale, however. It was re-released in 2019 as *Encore Casino Games Collection*[^ref-1], which is still sold on Steam (developer listed as Webfoot) with the same game list, including Video Keno[^ref-23]. The Mac version also remains on sale at MacGameStore[^ref-2].
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-6]
 > **Designer:** Encore Software internal team (no individual designer credit)[^ref-3][^ref-6]
 > **Publisher:** Encore Software (Windows) / Viva Media LLC (macOS)[^ref-2][^ref-3]
 > **Platforms:** Windows, macOS[^ref-5]
-> **Release Year:** 2016
+> **Release Year:** 2016[^ref-20]
 > **Series:** Hoyle Casino
 > **Engine:** Proprietary
 > **Protagonist:** N/A
 > **Sierra Lineage:** Sierra Legacy (Encore Era)
-> **Steam App ID:** 532950[^ref-5]
+> **Steam App ID:** 532950 (original); 906250 (2019 re-release as Encore Casino Games Collection)[^ref-5][^ref-23]
 
 ## Story Summary
 
 Hoyle Official Casino Games Collection does not feature a traditional narrative or story mode. As a casino simulation, the game presents a virtual gambling environment where players create custom profiles and receive virtual currency to use across various casino games[^ref-1].
 
-The game's setting evokes a Las Vegas casino atmosphere, continuing the tradition established by earlier entries in the Hoyle Casino series[^ref-1]. Players interact with AI opponents at various tables who engage in conversation during gameplay, though user feedback indicates these NPCs can become repetitive and intrusive during play sessions[^ref-7].
+The game is set in a virtual casino, continuing the tradition established by earlier entries in the Hoyle Casino series, which are set in a virtual Las Vegas casino[^ref-1]. Players sit at tables with AI opponents who talk during play; a Steam reviewer called the table chatter "crazy repetive", though the same reviewer noted it can be disabled[^ref-7].
 
-The broader Hoyle Casino series also spawned a related business simulation game, Hoyle Casino Empire, released in 2002, which allowed players to build and manage their own casino establishments rather than simply gambling within them[^ref-1].
+The broader Hoyle Casino series also spawned a related business simulation game, Hoyle Casino Empire, released in 2002[^ref-1].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The game utilizes a point-and-click interface for navigating between casino games and placing bets. Players select games from a menu and interact with betting interfaces specific to each game type. However, the interface received significant criticism from users, with one reviewer noting that the system is "clumsy and slow," particularly when trying to place bets[^ref-8].
-
-The betting system presents particular frustrations, as players cannot effectively type in manual bet amounts and must instead use preset buttons or increment controls[^ref-7]. This represents a regression from earlier Hoyle casino games that offered more streamlined betting mechanics.
+The game uses a point-and-click interface for navigating between casino games and placing bets. The betting controls drew criticism: a Steam reviewer wrote that "The only way I can see to raise / lower a bet is to click and hold the up/down arrows next to the bet amount and slowly watch it tick up and down. No typing, no chips to click, nothing."[^ref-7] Another asked, "why can't I type in my bet?!?! The arrow up and down takes forever to place a bet."[^ref-7]
 
 ### Structure and Progression
 
-Players begin by creating a profile and receiving an allocation of virtual money. The game tracks cumulative winnings through a "Hoyle Bucks" system that persists between play sessions[^ref-9]. Progress is measured purely through accumulated virtual currency rather than any story-based advancement.
+Players begin by creating a profile and receiving an allocation of virtual money[^ref-1]. Progress is measured through accumulated virtual currency rather than any story-based advancement.
 
-The game features the following casino areas and games:
+Wikipedia and the Steam listing of the 2019 re-release name these games among the more than 20 included[^ref-1][^ref-19][^ref-23]:
 
-- **Card Games:** Blackjack, Baccarat, and 11 variations of Poker[^ref-3]
-- **Table Games:** Craps, Roulette[^ref-3]
-- **Additional Games:** Various other casino favorites totaling over 20 games[^ref-8]
+- **Poker variants:** 3 Card Poker, 5 Card Draw, 5 Card Lowball, 7 Card Stud, 7 Card Stud Hi-Lo, Baseball Poker, Midnight Baseball Poker, Omaha Hold 'Em, Omaha Hold 'Em Hi-Lo, Pai Gow Poker, Texas Hold 'Em[^ref-1][^ref-23]
+- **Table games:** Baccarat, Big Six Wheel, Bingo, Blackjack, Craps, Roulette[^ref-1][^ref-23]
+- **Video casino games:** Video Blackjack, Video Keno, Video Poker (Single-Hand), Video Poker (Multi-Hand), Video Texas Hold 'Em[^ref-1][^ref-23]
 
 ### Puzzles and Mechanics
 
-As a casino simulation, the game focuses on gambling mechanics rather than traditional puzzles. Each casino game implements its real-world rules, allowing players to practice strategies without risking actual money. The Face Creator tool allows players to customize their avatar's appearance, adding a personalization element to the experience[^ref-2].
+As a casino simulation, the game focuses on gambling mechanics rather than traditional puzzles. The store listing promises players can "Select from a variety of rules variations, speed of play and more!"[^ref-2] The Face Creator tool allows players to customize their avatar's appearance[^ref-2].
 
-AI opponents populate the various game tables, with each character having distinct dialogue lines they deliver during gameplay. However, users reported that "the AI won't shut the heck up" and are "compelled to talk during every bet" with no option to skip or speed through their commentary[^ref-7]. Additionally, voice acting quality was criticized, with one reviewer noting it "seems they asked the same guy to do all the voices, which is extremely obvious during gameplay"[^ref-7].
+AI opponents populate the various game tables. A Steam reviewer complained, "The AI won't shut the heck up! They're compelled to talk during every bet and there's no way (that I know of) to hurry them along."[^ref-7] Other reviewers disagreed on whether the chatter could be turned off: one wrote that "you can easily go to "optiones" and mute them", and another that "You can disable to annoying player tables chatter (it's crazy repetive) but you still get to watch their talking animation"[^ref-7]. Voice acting was also criticized, with a Steam reviewer writing: "Seems they asked the same guy to do all the voices, which is extremely obvious during game play"[^ref-7].
 
 ## Reception
 
 ### Contemporary Reviews
 
-The game launched without significant coverage from major gaming publications. IGN listed the game in their database but did not provide an official review, marking it as "NR" (Not Rated)[^ref-3]. Metacritic similarly shows "tbd" for the Metascore, noting "there are no critic reviews for this game yet"[^ref-11].
+The game launched without significant coverage from major gaming publications. IGN lists the game in its database but has not reviewed it, marking it as "NR" (Not Rated)[^ref-3]. Metacritic shows "tbd" for the Metascore, noting "There are no critic reviews for this game yet"[^ref-11].
 
-User reception was predominantly negative. Steam community reviews showed only 23.81% positive ratings from 21 reviews, categorized as "Mostly Negative"[^ref-4]. Common complaints centered on technical issues, missing features compared to previous Hoyle games, and problematic AI behavior[^ref-7].
+User reception was predominantly negative. Raijin.gg counts 22 Steam reviews in all, for a 27% score ("Mostly negative")[^ref-4]. Common complaints centered on bugs, missing features compared to previous Hoyle games, the betting controls, and the AI opponents' chatter and voice acting[^ref-7].
 
 ### Modern Assessment
 
-The game's legacy has been marked by its removal from digital storefronts. As of current reporting, the game is listed as unavailable on both Steam and the Mac App Store[^ref-5]. User reviews that remain accessible highlight frustrations with reduced content compared to earlier Hoyle Casino releases.
+The original Steam listing is unlisted at the publisher's request, and PCGamingWiki lists both Steam and the Mac App Store as unavailable[^ref-19][^ref-5]. The game itself remains available: the Mac version is still sold by MacGameStore, and the 2019 re-release *Encore Casino Games Collection* is sold on Steam[^ref-2][^ref-23]. Later Steam reviews are more mixed, with a Steam reviewer in 2024 calling it "a really nice gambling game! It's a shame that it doesn't have a slot machine"[^ref-7].
 
 **Aggregate Scores:**
-- **Steam User Reviews:** 23.81% positive (21 reviews) – "Mostly Negative"[^ref-4]
+- **Steam User Reviews (store page):** "Negative" (16% of 18 reviews)[^ref-19]
+- **Raijin.gg (all Steam reviews):** 27%, "Mostly negative" (22 reviews)[^ref-4]
 - **GameFAQs User Rating:** "Fair" (2 ratings)[^ref-6]
-- **MacGameStore User Reviews:** 5/5[^ref-2]
-- **Softonic:** 3.2/5[^ref-12]
+- **MacGameStore User Reviews:** 4.3 from 3 shoppers[^ref-2]
 - **Metacritic:** No score (no critic reviews)[^ref-11]
 
 ## Development
 
 ### Origins
 
-The Hoyle Casino series began in 1996 as a spin-off of the broader Hoyle's Official Book of Games series, which Sierra Entertainment had been producing since the late 1980s[^ref-1]. The casino-focused spin-off allowed Sierra to create a dedicated gambling simulation that could be updated annually with new features and games.
+The Hoyle Casino series began in 1996 as a spin-off of the *Hoyle's Official Book of Games* series developed and published by Sierra[^ref-1]; the first *Hoyle's Official Book of Games* volume dates to 1989[^ref-5].
 
-Sierra Entertainment developed and published the Hoyle Casino series from 1996 through 2003, establishing the franchise's core gameplay elements of virtual casino gambling with customizable profiles and AI opponents[^ref-1]. The series proved commercially successful during this period, with Hoyle Casino 2000 selling 230,365 units and earning $6.15 million from January through October 2000 in North America[^ref-1].
+Sierra Entertainment developed and published the Hoyle Casino series from 1996 through 2003, establishing the franchise's core gameplay of virtual casino gambling with player profiles and virtual money[^ref-1]. In North America, *Hoyle Casino 2000* sold 230,365 units and earned $6.15 million from January through October 2000, according to PC Data[^ref-1].
 
 ### Production
 
-In 2005, Encore, Inc. acquired the Hoyle brand and continued producing annual casino game compilations through 2016[^ref-1][^ref-22]. The 2016 release, marketed as "Hoyle Official Casino Games Collection," represented the final entry in the series under Encore's stewardship.
+After 2005, publication of the Hoyle Casino series moved to Encore, Inc., which is credited as the series' developer and publisher from 2005 to 2016[^ref-1]. Steam lists Encore as both developer and publisher of the 2016 release[^ref-19].
 
-The Mac version was published by Viva Media LLC[^ref-2], while Encore handled the Windows distribution directly[^ref-3]. Some sources also credit Webfoot Games with development work on the Hoyle Official Card Games Collection released the same year[^ref-12], suggesting potential collaboration or separate product lines within the Hoyle family.
+The Mac version was published by Viva Media LLC[^ref-2], while Encore handled the Windows release directly[^ref-3]. The 2019 re-release, *Encore Casino Games Collection*, lists Webfoot as its developer on Steam[^ref-23].
 
 **Development Credits:**
 - **Developer:** Encore Software[^ref-6]
@@ -112,148 +111,140 @@ The Mac version was published by Viva Media LLC[^ref-2], while Encore handled th
 
 ### Technical Achievements
 
-The 2016 release attempted to modernize the Hoyle Casino experience with updated graphics and the Face Creator customization tool[^ref-2]. The game supported both Windows and macOS platforms, targeting a broad casual gaming audience[^ref-5].
+The store listing advertised support for widescreen displays and a "new and improved Face Creator"[^ref-19]. The game supported both Windows and macOS[^ref-5].
 
-However, technical implementation fell short of expectations. At launch, the game lacked proper widescreen support, offering only options for a stretched fullscreen mode or a small windowed display—neither of which looked appropriate on 1080p widescreen monitors[^ref-7]. An update in June 2017 reportedly addressed some of these display issues[^ref-7].
+At launch, however, a Steam reviewer reported that the game "Does not have proper widescreen support", offering only a stretched fullscreen mode or a small windowed box, and that none of these "look good on a 1080p widescreen monitor"[^ref-7]. The same reviewer later added: "Reinstalled following the update in June, 2017 and now it is displaying correctly on a 1080p widescreen monitor."[^ref-7].
 
 ### Technical Specifications
 
-**Windows Version:**[^ref-5]
-- **Minimum OS:** Windows Vista
-- **Recommended OS:** Windows 7, 8, 10
-- **CPU:** Intel processor (or equivalent AMD) 1.0 GHz or faster
-- **RAM:** 1 GB
+**Windows Version (original Steam listing):**[^ref-19][^ref-5]
+- **OS:** Windows Vista, 7, 8, 10 (PCGamingWiki lists Vista as minimum and 7/8/10 as recommended)
+- **CPU:** Pentium processor (or equivalent AMD processor) 1.0 GHz or faster
 - **Storage:** 1 GB
-- **GPU:** 512 MB VRAM, DirectX 9.0c compatible
+- **GPU:** DirectX 9.0 compatible video card with 512 MB of video RAM; DirectX 9.0c
 - **DRM:** Steam DRM
 
-**macOS Version:**[^ref-2]
-- **Minimum OS:** Mac OS X 10.7.2
-- **Maximum OS:** macOS 10.12 (Sierra)
-- **CPU:** Intel Core Solo 867 MHz or faster (Intel Mac Only)
+**macOS Version:**[^ref-19][^ref-2]
+- **OS:** Mac OS X 10.7.2 – 10.12 (Steam); MacGameStore notes it is not supported on macOS 10.15 Catalina and later
+- **CPU:** Intel Core Solo processor 867 MHz or faster (Intel Mac only)
 - **RAM:** 1 GB
 - **Storage:** 1 GB
-- **GPU:** 256 MB VRAM
-- **DRM:** MacGameStore App
-- **Demo Size:** 376 MB
+- **GPU:** 256 MB VRAM (Steam); MacGameStore lists video RAM as "Any"
+- **DRM:** MacGameStore App (MacGameStore edition)
+- **Demo Size:** 376 MB (MacGameStore)
 
-**Localization:**[^ref-12]
-- **Languages:** English (full audio), German, French
+**2019 re-release (Encore Casino Games Collection):**[^ref-23]
+- **Windows:** Windows 7, 8, 10; 1.0 GHz processor; 1 GB RAM; 1 GB storage; DirectX 9.0c
+- **Mac:** Mac OS 10.8 – 10.13; Intel Core Solo or better; 1 GB RAM; 1 GB storage
+
+**Localization:**[^ref-2][^ref-5]
+- **Languages:** English
 
 ### Cut Content
 
-Compared to previous entries in the Hoyle Casino series, the 2016 release notably omitted several popular features. User reviews specifically called out the absence of:
+Compared to previous entries in the Hoyle Casino series, the 2016 release omitted several features that players noticed:
 
-- **Slot machines** – A casino staple missing from this release[^ref-7]
-- **Multiplayer functionality** – No online or local multiplayer support[^ref-7]
-- **Horse betting** – Present in older versions but removed[^ref-7]
-- **Keno** – Another game type that had appeared in earlier releases[^ref-7]
+- **Slot machines** – "So OK it doesn't have slots", wrote a Steam reviewer, and a 2024 review called it "a shame that it doesn't have a slot machine"[^ref-7]; players had asked in the Steam discussions before launch whether slots would be included[^ref-8]
+- **Multiplayer** – "No multi-player. Granted, I knew this going in since the store page states single player."[^ref-7]
+- **Horse betting** – One reviewer compared it to "an older version I played which had horse betting, slots, keno, as well as table games"[^ref-7]
+- **Casino rooms** – Another wrote that it was "Missing viral elements like the CASINO rooms, the loan room, the casino member card and a lot more."[^ref-7]
 
-One reviewer stated this version "has very few game options compared to an older version I played which had horse betting, slots, keno, as well as table games"[^ref-7].
+Keno itself was not cut: Video Keno is in the 2016 game list[^ref-1][^ref-23].
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | October 14, 2016 | Windows/Steam | Initial release[^ref-5] |
-| 1.0 | October 11, 2016 | macOS | Mac version release[^ref-2] |
-| 1.1 | December 8, 2016 | PC | Retail/Australian release[^ref-6] |
-| Update | June 2017 | Windows | Fixed widescreen display issues[^ref-7] |
-| Final | April 1, 2017 | Windows | Last known update[^ref-12] |
+| Release | October 11, 2016 | macOS | MacGameStore release date[^ref-2] |
+| Release | October 14, 2016 | Windows/Steam | Steam release[^ref-19] |
+| Retail | December 8, 2016 | PC | Australian retail release (GameFAQs)[^ref-6] |
+| Update | June 2017 | Windows | Widescreen display fixed, per a Steam reviewer[^ref-7] |
+| Re-release | 2019 | Windows/Mac (Steam) | Re-released as *Encore Casino Games Collection*, developer listed as Webfoot[^ref-1][^ref-23] |
 
-**Series Version History:**[^ref-1]
+**Series Version History (selected):**[^ref-1]
 
-| Version | Year | Developer | Notes |
-|---------|------|-----------|-------|
-| Hoyle Casino | 1996 | Sierra Entertainment | First release |
-| Hoyle Casino [1998] | 1997 | Sierra Entertainment | Annual update |
-| Hoyle Casino [1999] | 1998 | Sierra Entertainment | Annual update |
-| Hoyle Casino [2000] | 1999 | Sierra Entertainment | Best-selling entry |
-| Hoyle Casino 2007 | 2006 | Encore | Freeze bug issues |
-| Hoyle Casino 2008 | 2007 | Encore | Bug fixes |
-| Official Casino Games Collection | 2016 | Encore | Final release |
+| Edition | Year | Developer |
+|---------|------|-----------|
+| Hoyle Casino | 1996 | Sierra Entertainment |
+| Hoyle Casino | 1997 | Sierra Entertainment |
+| Hoyle Casino | 1998 | Sierra Entertainment |
+| Hoyle Casino | 1999 | Sierra Entertainment |
+| Hoyle Casino | 2000 | Sierra Entertainment |
+| Hoyle Casino 3D | 2005 | Encore |
+| Hoyle Casino Games | 2007 | Encore |
+| Hoyle Casino Games | 2009 | Encore |
+| Hoyle Casino Games | 2011 | Encore |
+| Hoyle Official Casino Games Collection | 2016 | Encore |
 
 ### Technical Issues
 
-The game suffered from numerous technical problems that contributed to its negative reception:
+Steam reviewers reported a number of problems:
 
 **Display Issues:**[^ref-7]
-- No proper widescreen support at launch
-- Fullscreen mode stretched graphics inappropriately
-- Windowed widescreen resulted in a small, unusable display box
-- June 2017 update addressed some display problems
+- No proper widescreen support at launch: fullscreen stretched the image and windowed widescreen was a small box
+- Displaying correctly after the June 2017 update, per the same reviewer
 
 **Stability Issues:**[^ref-7]
-- Game crashes after several hours claiming inability to find graphics card
-- Intermittent freezes during gameplay
+- A Steam reviewer wrote: "I have played for merely three hours before the game decided it will no longer launch claiming inabilty to find a graphic card."
+- Others called it the "Buggiest game I've ever played." or simply wrote "Won't launch"
 
-**Interface Problems:**[^ref-7]
-- Cannot manually type bet amounts effectively
-- Craps table mechanics malfunction—unable to place odds behind pass line properly
+**Interface and Game Logic Problems:**[^ref-7]
+- No way to type in a bet amount; bets are set with up/down arrows
+- Craps: "Can't place odds behind the pass line. Appear to be able to pull down the passline bet after the point is rolled."
 
 **Compatibility Issues:**[^ref-2]
-- Mac version not compatible with macOS 10.15 Catalina and later
-- Game currently unavailable on Steam and Mac App Store[^ref-5]
-
-**Historical Series Bug:**[^ref-1]
-The 2007 version of Hoyle Casino was plagued by a bug where the game would freeze for 30 seconds after placing a bet in card games. Encore was unable to fix this bug, which was only resolved in the 2008 release.
+- Mac version not compatible with macOS 10.15 Catalina and later (32-bit)
 
 ### Easter Eggs and Trivia
 
 - Players create customizable profiles with the Face Creator tool to represent themselves in the virtual casino[^ref-2]
-- The game uses a virtual currency system called "Hoyle Bucks" that persists between sessions[^ref-9]
-- AI opponents deliver constant commentary during gameplay that cannot be disabled or skipped[^ref-7]
-- The game has accumulated 25,700 total downloads through Softonic, with the highest download activity coming from the United States, Egypt, and Canada[^ref-12]
-- The related Hoyle Casino Empire (2002) allowed players to build and manage casinos rather than gamble in them[^ref-1]
+- Reviewers disagreed on the AI table chatter: some found it unskippable, while others noted it can be muted in the options[^ref-7]
+- The related Hoyle Casino Empire (2002) is a business simulation rather than a gambling game[^ref-1]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-While specific sales figures for the 2016 release are not available, the game's Steam presence showed zero units sold during a sampled 7-day period according to third-party analytics[^ref-4]. This represents a significant decline from the series' commercial peak, when Hoyle Casino 2000 earned $6.15 million in under a year[^ref-1].
+No sales figures for the 2016 release have been published. Raijin.gg estimates about 412 owners of the original Steam version as of October 2026[^ref-4]. For comparison, *Hoyle Casino 2000* sold 230,365 units in North America from January through October 2000[^ref-1].
 
-The game was eventually delisted from major digital storefronts including Steam and the Mac App Store[^ref-5], effectively ending the commercial availability of the Hoyle Casino brand in its video game form.
+The original Steam listing is unlisted at the publisher's request[^ref-19], but the game has stayed on sale: the Mac version through MacGameStore[^ref-2], and the Windows/Mac game as *Encore Casino Games Collection* on Steam since 2019[^ref-1][^ref-23].
 
 ### Collections
 
-Hoyle Official Casino Games Collection was marketed as a standalone product and does not appear to have been bundled into larger compilation packages. The Hoyle brand itself appeared in numerous earlier collections:
+The game was re-released in 2019 as *Encore Casino Games Collection*[^ref-1]. The Hoyle brand also appeared in numerous earlier releases:
 
-- **Hoyle's Official Book of Games** series (parent series featuring card and board games)
-- Various annual Hoyle Casino releases from 1996-2016[^ref-1]
+- **Hoyle's Official Book of Games** series (parent series featuring card and board games)[^ref-1]
+- Various Hoyle Casino editions from 1996 to 2016[^ref-1]
 
 ### Fan Projects
 
-No significant fan projects, remakes, or modifications have been documented for Hoyle Official Casino Games Collection. The game's delisting from digital stores has limited ongoing community engagement.
+No fan projects, remakes, or modifications have been documented for Hoyle Official Casino Games Collection.
 
 ### Related Publications
 
-The Hoyle name carries significant historical weight in gaming publications:
+The Hoyle name carries historical weight beyond video games:
 
-- **Edmond Hoyle's Original Works:** The Hoyle brand derives from 18th-century author Edmond Hoyle, whose writings on card game rules became definitive references
-- **Hoyle's Rules of Games:** Various printed rulebooks carrying the Hoyle name continue to be published
+- **Edmond Hoyle's Original Works:** The Hoyle brand derives from 18th-century author Edmond Hoyle, whose writings on card game rules became standard references
+- **Hoyle's Rules of Games:** Various printed rulebooks carry the Hoyle name
 
-No specific strategy guides or companion books were published for the 2016 video game release.
+No strategy guide or companion book for the 2016 release has been identified.
 
 ### Critical Perspective
 
-Hoyle Official Casino Games Collection represents the twilight of a once-prominent gaming franchise. The series began under Sierra Entertainment, a company celebrated for its adventure games and innovative software, but ended under Encore's management with a product that failed to meet player expectations on multiple fronts[^ref-1].
-
-The negative reception highlights the challenges of maintaining legacy gaming brands. Where earlier Hoyle Casino games offered comprehensive gambling simulations with numerous game types and features, the 2016 release stripped away popular elements like slot machines and horse betting while introducing new technical problems[^ref-7]. The constant, unskippable AI chatter transformed a relaxing casino simulation into an irritating experience for players simply wanting to enjoy virtual blackjack[^ref-8].
-
-The game's removal from digital storefronts marks an ignominious end for a series that once sold hundreds of thousands of copies[^ref-1]. Its legacy serves as a cautionary tale about brand management and the importance of maintaining quality standards when stewarding beloved gaming franchises.
+Hoyle Official Casino Games Collection is the latest game in a series that began under Sierra Entertainment and continued under Encore[^ref-1]. Players' complaints focused on what it lacked compared with earlier Hoyle Casino games, chiefly slot machines, horse betting and the casino trappings around the tables, along with clumsy bet controls and repetitive AI chatter[^ref-7]. Its listing is unlisted on Steam, but the same collection is still sold in its 2019 *Encore Casino Games Collection* form[^ref-23].
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+- [Steam – Encore Casino Games Collection (2019 re-release)](https://store.steampowered.com/app/906250/)[^ref-23]
+- [MacGameStore – Hoyle Official Casino Games Collection (Mac)](https://www.macgamestore.com/product/6226/Hoyle-Official-Casino-Games-Collection/)[^ref-2]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Steam – Currently unavailable/delisted[^ref-5]
-- Mac App Store – Currently unavailable/delisted[^ref-5]
-
-**Software Distribution**
-- [Softonic – Hoyle Official Card Games Collection](https://hoyle-official-card-games-collection.en.softonic.com/)[^ref-12]
+- [Steam – Encore Casino Games Collection](https://store.steampowered.com/app/906250/) – 2019 re-release, on sale[^ref-23]
+- [MacGameStore](https://www.macgamestore.com/product/6226/Hoyle-Official-Casino-Games-Collection/) – Mac version, on sale (demo available)[^ref-2]
+- Steam (original app 532950) – unlisted at the publisher's request[^ref-19]
+- Mac App Store – unavailable[^ref-5]
 
 ## See Also
 
@@ -316,25 +307,17 @@ The game's removal from digital storefronts marks an ignominious end for a serie
 
 ## References
 
-[^ref-1]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, developer timeline, sales data, technical issues, spin-offs
-[^ref-2]: [MacGameStore – Hoyle Official Casino Games Collection](https://www.macgamestore.com/product/6226/Hoyle-Official-Casino-Games-Collection/) – Mac release date, system requirements, publisher, features, compatibility
-[^ref-3]: [IGN – Hoyle Official Casino Games Collection 2016](https://www.ign.com/games/hoyle-official-casino-games-collection-2016) – publisher, game description, release date
-[^ref-4]: [Raijin.gg – Hoyle Official Casino Games Reviews](https://raijin.gg/app/532950/Hoyle_Official_Casino_Games/reviews) – Steam review statistics, sales data, platforms
-[^ref-5]: [PCGamingWiki – Hoyle Official Casino Games](https://www.pcgamingwiki.com/wiki/Hoyle_Official_Casino_Games) – technical specifications, Steam App ID, availability status, system requirements
-[^ref-6]: [GameFAQs – Hoyle Casino Games Collection](https://gamefaqs.gamespot.com/pc/201510-hoyle-casino-games-collection) – developer, release date, user ratings
-[^ref-7]: [Steam Community Reviews – Hoyle Official Casino Games](https://steamcommunity.com/app/532950/reviews/?browsefilter=toprated) – user reviews, technical issues, cut content, AI complaints, update history
-[^ref-8]: [Steam Community – Hoyle Official Casino Games](https://steamcommunity.com/app/532950) – user discussions, interface complaints
-[^ref-9]: [Encore Forums – Hoyle Card Games Discussion](http://forums.encoreusa.com/tm.asp?m=43851) – Hoyle Bucks system, save file locations
+[^ref-1]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, editions list, 2016 game list (incl. Video Keno), 2019 re-release as Encore Casino Games Collection, Hoyle Casino 2000 sales
+[^ref-2]: [MacGameStore – Hoyle Official Casino Games Collection](https://www.macgamestore.com/product/6226/Hoyle-Official-Casino-Games-Collection/) – Mac release date (10/11/2016), publisher Viva Media, requirements, Catalina incompatibility, languages, user rating, still on sale
+[^ref-3]: [IGN – Hoyle Official Casino Games Collection 2016](https://www.ign.com/games/hoyle-official-casino-games-collection-2016) – publisher, game description, NR rating
+[^ref-4]: [Raijin.gg – Hoyle Official Casino Games Reviews](https://raijin.gg/app/532950/Hoyle_Official_Casino_Games/reviews) – Steam review score (27%, 22 reviews), estimated owners (as of October 13, 2026)
+[^ref-5]: [PCGamingWiki – Hoyle Official Casino Games](https://www.pcgamingwiki.com/wiki/Hoyle_Official_Casino_Games) – system requirements, Steam App ID, Steam/Mac App Store availability, languages
+[^ref-6]: [GameFAQs – Hoyle Casino Games Collection](https://gamefaqs.gamespot.com/pc/201510-hoyle-casino-games-collection) – developer, Australian release date (December 8, 2016), user ratings
+[^ref-7]: [Steam Community Reviews – Hoyle Official Casino Games](https://steamcommunity.com/app/532950/reviews/?browsefilter=toprated) – user reviews (quoted as written, 2016–2026)
+[^ref-8]: [Steam Community – Hoyle Official Casino Games](https://steamcommunity.com/app/532950) – community hub; discussion topics including "Wil be there some slots?" and "no MP?" (October 2016)
 [^ref-11]: [Metacritic – Hoyle Casino Games Collection](https://www.metacritic.com/game/hoyle-casino-games-collection/) – release date, review status
-[^ref-12]: [Softonic – Hoyle Official Card Games Collection](https://hoyle-official-card-games-collection.en.softonic.com/) – download statistics, languages, security status, developer credit
 
 
-[^ref-14]: [GG.deals – Hoyle Official Casino Games](https://gg.deals/game/hoyle-official-casino-games/) – Game pricing data, platform availability, digital store information
-
-
-[^ref-16]: [AllKeyShop – Hoyle Official Casino Games](https://www.allkeyshop.com/blog/buy-hoyle-official-casino-games-cd-key-compare-prices/) – Digital key pricing, platform availability, regional information
-[^ref-17]: [MobyGames – Hoyle Casino Games Collection](https://www.mobygames.com/game/hoyle-casino-games-collection/) – platform details
-[^ref-19]: [Steam Store – Hoyle Official Casino Games (delisted)](https://store.steampowered.com/app/532950/Hoyle_Official_Casino_Games/) – Steam listing for the 2016 release, confirming App ID 532950 and current unavailability
+[^ref-19]: [Steam Store – Hoyle Official Casino Games (unlisted)](https://store.steampowered.com/app/532950/Hoyle_Official_Casino_Games/) – App ID 532950, release date October 14, 2016, Encore as developer/publisher, system requirements, review summary, notice that it is unlisted at the publisher's request
 [^ref-20]: [IGDB – Hoyle Official Casino Games Collection](https://www.igdb.com/games/hoyle-official-casino-games-collection) – release year, platform list, developer/publisher attribution
-[^ref-21]: [LaunchBox Games Database – Hoyle Official Casino Games](https://gamesdb.launchbox-app.com/games/details/231587-hoyle-official-casino-games) – platform list, release year, cover-art reference
-[^ref-22]: [Adventure Classic Gaming – Encore's Hoyle Era retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) – overview of Encore's stewardship of the Hoyle brand following Sierra's 2003 exit
+[^ref-23]: [Steam Store – Encore Casino Games Collection](https://store.steampowered.com/app/906250/) – 2019 re-release, developer Webfoot, full game list incl. Video Keno, system requirements, still on sale
