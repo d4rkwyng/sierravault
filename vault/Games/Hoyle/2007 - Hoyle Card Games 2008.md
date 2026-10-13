@@ -4,28 +4,28 @@ release_year: 2007
 developer: Encore Software
 designer: [Unknown]
 publisher: Encore Software
-genre: Board Game
+genre: Card Game
 platforms: [Windows, Mac]
 series: Hoyle
-engine: Proprietary (Windows)
+engine: Unknown
 protagonist: Player-created character
 sierra_lineage: Post-Sierra
-last_updated: '2026-05-11'
-description: Hoyle Card Games 2008 represents a significant milestone in the long-running
-  Hoyle franchise, marking the first Mac OS X-compatible release since Sierra's...
+last_updated: '2026-10-13'
+description: Encore Software's 2007 Hoyle collection of 150+ card and solitaire games,
+  released on a combined Windows/Mac OS X DVD.
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Card Games 2008
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Hoyle Card Games 2008 represents a significant milestone in the long-running Hoyle franchise, marking the first Mac OS X-compatible release since Sierra's 2002 version for Mac OS 9[^ref-1][^ref-21]. Published by Encore Software, the game delivers an extensive collection of over 150 classic card games based on official Hoyle rules—a brand that has served as the authority on card game regulations for more than 200 years[^ref-2][^ref-3][^ref-22]. The title was initially released in the United States on October 1, 2007 for PC[^ref-4][^ref-5], with subsequent releases following in various regions including a UK launch on January 26, 2009[^ref-6].
+Hoyle Card Games 2008 is a collection of more than 150 card and solitaire games published by Encore Software[^ref-2][^ref-4]. It shipped on a combined PC/Mac DVD, and an October 2007 Inside Mac Games forum post greeted it as the first Hoyle release with Mac OS X compatibility, noting that the last Mac OS 9-compatible Hoyle games had been released by Sierra in 2002[^ref-1]. Its packaging billed Hoyle as "the authority for more than 200 years"[^ref-2][^ref-3]. Metacritic, GameFAQs, RAWG and Giant Bomb give a US release date of October 1, 2007[^ref-4][^ref-5][^ref-7][^ref-21]; IGN lists September 11, 2007[^ref-15]. Amazon UK later carried a jewel-case edition with a listed release date of 26 January 2009[^ref-6].
 
-The game stands as a comprehensive digital card gaming experience, featuring more than 75 different card games including popular titles such as Texas Hold'em, Hearts, Bridge, Crazy Eights, Gin Rummy, Omaha Hold'em, Pinochle, and Rummy 500[^ref-2][^ref-3]. Additionally, the package includes 55 different solitaire games as a bonus feature, along with an official Hoyle rulebook and strategy guide[^ref-7][^ref-8]. The inclusion of online Texas Hold'em functionality demonstrated Encore's awareness of the poker boom prevalent during the mid-2000s[^ref-3].
+The collection includes more than 75 card games, among them Texas Hold'em, Hearts, Bridge, Crazy Eights, Gin Rummy, Omaha Hold'em, Pinochle and Rummy 500[^ref-2][^ref-3]. It also includes 55 solitaire games as a bonus, along with an official Hoyle rulebook and strategy guide[^ref-7][^ref-8]. Online Texas Hold'em was among the advertised features[^ref-3][^ref-14].
 
-Hoyle Card Games 2008 was distributed on DVD-ROM for the first time in the series' history, arriving as a PC/Mac hybrid disc[^ref-9]. The game received a Teen rating from the ESRB due to simulated gambling content[^ref-5][^ref-10]. While the Hoyle franchise originated with Sierra On-Line in 1989 and was designed by [[Warren Schwader]][^ref-11], by 2008 the series had transitioned entirely to Encore Software, which had acquired the brand and continued annual releases throughout the 2000s[^ref-12].[^ref-20]
+The features list in Impulse Gamer's review describes the game as "PC/MAC compatible and on DVD for the first time"[^ref-9]. The ESRB rated it T (Teen) for Mild Language and Simulated Gambling[^ref-10]. The Hoyle series began at Sierra On-Line in 1989 with a concept by [[Warren Schwader]][^ref-11]; Encore Software took over publishing the series from 2005 to 2016[^ref-11].
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-4]
@@ -33,84 +33,83 @@ Hoyle Card Games 2008 was distributed on DVD-ROM for the first time in the serie
 > **Publisher:** Encore Software[^ref-4]
 > **Engine:** Unknown
 > **Platforms:** Windows, Macintosh[^ref-10]
-> **Release Year:** 2007
+> **Release Year:** 2007[^ref-4]
 > **Series:** Hoyle
 > **Protagonist:** Player-created character
 > **Sierra Lineage:** Post-Sierra Era (Encore)
 
 ## Story Summary
 
-Hoyle Card Games 2008, like other entries in the Hoyle series, does not feature a traditional narrative or story mode. The game functions as a digital card game simulator designed to recreate the experience of playing classic card games with computer-controlled opponents[^ref-3]. Players can engage with any of the 150+ games included in the collection at their leisure, with no overarching plot or campaign structure connecting the various gaming experiences.
+Hoyle Card Games 2008, like other entries in the Hoyle series, has no narrative or story mode. It is a collection of card games played against computer-controlled opponents[^ref-9], with no plot or campaign connecting them.
 
-The game does feature customizable opponents and a Face Creator tool that allows players to personalize their gaming avatar[^ref-2]. This character customization system provides a degree of personalization to the experience, though it serves a functional rather than narrative purpose. Players can select from various opponent personalities and skill levels to create their ideal card game environment.
-
-An unusual narrative element does appear in the Casino game component: when a player accumulates one billion dollars in winnings, the game triggers a special scenario where kidnappers take 999 million dollars as ransom[^ref-1]. This tongue-in-cheek Easter egg represents one of the few "story" moments in an otherwise narrative-free gaming experience, demonstrating the developers' sense of humor about the improbability of such extreme virtual wealth accumulation.
+Players can build an avatar with the Face Creator tool, "customizing everything from facial features to clothes"[^ref-2]. Impulse Gamer counted 15 virtual opponents, "from aliens to bears and of course... humans", with adjustable skill levels and attitudes[^ref-9].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Hoyle Card Games 2008 presents its gameplay through multiple perspectives including first-person, top-down, and fixed/flip-screen views depending on the specific game being played[^ref-13]. The interface supports both mouse and keyboard input, though some players noted an unusual left-click/right-click system that required adjustment to understand fully[^ref-6]. The game's window sizes are fixed due to limitations in the sprite artwork, though players can toggle between full-screen and windowed modes[^ref-1].
+One Amazon customer reviewer reported that the game "does work with Win10, although there is an odd left click right click system one must understand"[^ref-6]. In the Inside Mac Games thread about the three 2008 Hoyle titles, a forum user who said his team did the porting work explained that "the window sizes are fixed due to the sprite artwork, but you can toggle between full screen and window"[^ref-1].
 
-The game includes comprehensive tutorials and an official Hoyle rulebook integrated into the software, providing players with tips and strategies for each card game included in the collection[^ref-7][^ref-8]. This educational component has been a hallmark of the Hoyle series since its inception, helping players learn proper game rules and develop winning strategies.
+The game includes in-game tutorials and an official Hoyle rulebook and strategy guide; Impulse Gamer notes the rulebook is supplied as a PDF[^ref-7][^ref-9].
 
 ### Structure and Progression
 
-The game operates as a sandbox collection rather than following a structured progression system. Players are free to access any of the 150+ games from the outset without needing to unlock content[^ref-2]. The collection is organized by game type:
+The collection's 150+ games are available as a set, and players can also "Earn HOYLE Bucks to unlock new features," according to the feature list quoted by Impulse Gamer[^ref-9]. Game variations, card backs, backgrounds and music can be customised[^ref-9]. The collection is organized by game type:
 
 - **Card Games (75+):** Including Texas Hold'em, Hearts, Bridge, Crazy Eights, Gin Rummy, Omaha Hold'em, Pinochle, Rummy 500, Spades, Blackjack, and Poker variants[^ref-2][^ref-7]
-- **Solitaire Games (55):** A comprehensive bonus collection of single-player card games[^ref-2][^ref-7]
-- **Additional Games:** Including Sudoku puzzles sourced from Big Bang Brain Sudoku[^ref-1]
+- **Solitaire Games (55):** A bonus collection of single-player card games[^ref-2][^ref-7]
+- **Video Poker:** Impulse Gamer's feature list also includes a bonus "5 Video Poker Machine"[^ref-9]
 
 ### Puzzles and Mechanics
 
-The core mechanics revolve around faithful implementations of official Hoyle card game rules[^ref-3]. Each game follows standardized regulations that have defined proper card gaming for over two centuries. The AI opponents provide varying levels of challenge, though some players questioned the quality of the random number generation, suggesting that card sequences might be predictable or that win/loss outcomes appeared to be predetermined rather than properly randomized[^ref-1].
+All games are based on the official Hoyle rules[^ref-2][^ref-3]. Computer opponents come with multiple skill levels[^ref-2], and Impulse Gamer said the AI had been improved over previous versions[^ref-9].
 
-The game supports online multiplayer for Texas Hold'em, allowing players to compete against human opponents over the internet[^ref-3][^ref-14]. This feature capitalized on the poker phenomenon of the era, providing a social component beyond single-player card gaming.[^ref-18]
+Online Texas Hold'em was advertised as one of the "new favorites" in the collection[^ref-3][^ref-14]; the available sources do not describe how the online service worked or how long it ran. Players can also play together on the same computer[^ref-2].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Impulse Gamer provided one of the more detailed contemporary reviews, awarding the game an overall score of 8.8/10. The breakdown included 9.0/10 for Gameplay, 7.5/10 for Graphics, 7.5/10 for Sound, and 8.8/10 for Value[^ref-9]. Reviewer James Wright wrote that Hoyle Card Games 2008 was "definitely a must have game for those fans of card games and with over 150 different card games, there's a game or two or ten or one hundred for gamers of all ages"[^ref-9]. Wright highlighted the game's first-time availability on DVD format and praised the breadth of its game selection.
+Impulse Gamer provided one of the more detailed contemporary reviews, awarding the game an overall score of 8.8/10. The breakdown included 9.0/10 for Gameplay, 7.5/10 for Graphics, 7.5/10 for Sound, and 8.8/10 for Value[^ref-9]. Reviewer James Wright wrote that Hoyle Card Games 2008 was "definitely a must have game for those fans of card games and with over 150 different card games, there's a game or two or ten or one hundred for gamers of all ages"[^ref-9]. Wright praised the improved AI, the Face Creator and the breadth of the game selection, though he found the new music "a little too elevator for my liking"[^ref-9].
 
-The game received no review from IGN, which listed it as "NR" (Not Rated)[^ref-15]. Similarly, Metacritic displayed no aggregated review scores for the title[^ref-5], indicating limited coverage from mainstream gaming publications—a common situation for budget-priced card game compilations.
+IGN has no review of the game and lists it as "NR"[^ref-15]. Metacritic shows no critic reviews for the title[^ref-4], so coverage from mainstream gaming publications appears to have been limited.
 
 ### Modern Assessment
 
-User reviews across various platforms present a mixed picture. Amazon UK customers gave the game 3.7 out of 5 stars based on 359 global ratings[^ref-6]. One reviewer noted that the game "does work with Win10, although there is an odd left click right click system one must understand"[^ref-6]. Critics cited outdated graphics, with one customer stating the "graphics are 20 years old"[^ref-6].
+User reviews are mixed. The Amazon UK listing shows 3.7 out of 5 stars from 359 global ratings (as captured January 2026)[^ref-6]. One reviewer there wrote that it "does work with Win10, although there is an odd left click right click system one must understand," and added that "the graphics are 20 years old," while still calling it "absolutely worth the price"[^ref-6].
 
-WildTangent users rated the game 3.6 out of 5 based on 144 ratings[^ref-14]. My Abandonware users gave the title 4.5 out of 5 based on 2 votes, describing it as an "above-average licensed title in its time"[^ref-13].
+WildTangent users rate the game 3.6 out of 5 from 146 ratings (as of October 2026)[^ref-14].
 
 **Aggregate Scores:**
 - **Amazon UK:** 3.7/5 (359 ratings)[^ref-6]
-- **WildTangent:** 3.6/5 (144 ratings)[^ref-14]
-- **My Abandonware:** 4.5/5 (2 votes)[^ref-13]
+- **WildTangent:** 3.6/5 (146 ratings)[^ref-14]
 - **Impulse Gamer:** 8.8/10[^ref-9]
 
 ## Development
 
 ### Origins
 
-The Hoyle gaming franchise traces its roots to 1989, when designer [[Warren Schwader]] submitted the original concept to Sierra On-Line founder Ken Williams[^ref-11]. The brand name derives from Edmond Hoyle, an 18th-century English writer and expert on card games whose rulebooks became the definitive authority on proper card game play—hence the common phrase "according to Hoyle"[^ref-11]. Sierra's original Hoyle games used the proprietary Sierra Creative Interpreter (SCI) engine, the same scripting language originally developed for their adventure games[^ref-11].
+The Hoyle series traces its roots to 1989, when [[Warren Schwader]] submitted the original concept to Sierra On-Line CEO and founder Ken Williams[^ref-11]. The series is named after 18th-century playing card expert Edmond Hoyle[^ref-11]; Sierra's own packaging for Hoyle Classic Card Games noted that "according to Hoyle" had long meant "by the book"[^ref-8]. Sierra's original Hoyle games were programmed in the Sierra Creative Interpreter (SCI), the scripting language created for Sierra's adventure games[^ref-11].
 
-By 2008, the franchise had long since passed from Sierra to Encore Software, which continued the tradition of annual Hoyle releases throughout the 2000s[^ref-12]. The price tracking site PriceCharting documents continuous yearly releases from 1998 through 2012, demonstrating the brand's commercial viability as a budget gaming staple[^ref-12].
+Later Hoyle titles saw yearly releases, and Encore Software took over publishing the series from 2005 to 2016[^ref-11].
 
 ### Production
 
-Encore Software served as both developer and publisher for Hoyle Card Games 2008[^ref-4][^ref-5]. The game was released as a DVD-ROM for the first time in the series' history, representing a shift from the CD-ROM format used in previous iterations[^ref-9]. Development included porting the game to Mac OS X, ending a six-year gap in Macintosh support that had persisted since Sierra's 2002 release[^ref-1].
+Metacritic, GameFAQs and Giant Bomb credit Encore Software as both developer and publisher[^ref-4][^ref-7][^ref-21]. The game came on a combined PC/Mac DVD that retailed for $19.99, according to an October 2007 forum post[^ref-1], and Impulse Gamer's feature list calls it "on DVD for the first time"[^ref-9].
 
-The Australian/European release through Mindscape occurred in February 2008[^ref-9], suggesting a phased international rollout following the October 2007 US launch. The Mindscape version maintained identical content while adapting regional packaging and distribution.
+In the same Inside Mac Games thread, a forum user posting as "Hippieman" wrote of the 2008 Hoyle titles: "We did the porting work for both the Mac and Windows versions." His team isn't named in the thread, and no other source found here confirms the claim[^ref-1].
 
-**Development Credits:**[^ref-4]
-- **Publisher:** Encore Software
-- **Distributor (Australia):** Mindscape[^ref-9]
+Impulse Gamer reviewed the game in February 2008 with Mindscape listed as developer and a PG classification[^ref-9]. The review doesn't say which regions the Mindscape release covered.
+
+**Development Credits:**
+- **Developer / Publisher:** Encore Software[^ref-4][^ref-7]
+- **Credited by Impulse Gamer:** Mindscape[^ref-9]
 
 ### Technical Achievements
 
-The game's primary technical achievement was its hybrid PC/Mac compatibility on a single DVD-ROM disc[^ref-1][^ref-9]. This approach simplified retail distribution while ensuring broader platform accessibility. The Mac version marked the first OS X-native Hoyle release, with previous Mac editions requiring the legacy Mac OS 9 operating system[^ref-1].
+The game's PC and Mac versions shipped on a single DVD[^ref-1][^ref-9]. According to the October 2007 Inside Mac Games post, it was the first Hoyle release compatible with Mac OS X; the last Mac OS 9-compatible versions had been released by Sierra in 2002[^ref-1].
 
-The inclusion of online Texas Hold'em functionality demonstrated network integration capabilities[^ref-3][^ref-14], though the extent of the online infrastructure and server support remains undocumented in available sources.
+Online Texas Hold'em was advertised[^ref-3][^ref-14], but the available sources do not document the online infrastructure or how long servers ran.
 
 ### Technical Specifications
 
@@ -139,31 +138,24 @@ No documented cut content has been identified in available sources.
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Initial Release | September 11, 2007 | PC | US release[^ref-15] |
-| Initial Release | October 1, 2007 | PC | Alternate US date reported[^ref-4][^ref-5] |
-| Australian Release | February 2008 | PC/Mac | Mindscape distribution[^ref-9] |
-| Digital Release | May 7, 2008 | PC | WildTangent platform[^ref-14] |
-| UK Release | January 26, 2009 | PC | Amazon UK listing[^ref-6] |
-
-**Format Versions:**[^ref-13]
-- **ISO Version:** Win/Mac Hybrid, 1.5 GB
+| Initial Release | October 1, 2007 | PC/Mac | Alternate US date reported[^ref-4][^ref-5][^ref-21] |
+| Mindscape release | Reviewed February 2008 | PC/Mac | Credited to Mindscape by Impulse Gamer; PG classification[^ref-9] |
+| Digital Release | May 7, 2008 | PC | WildTangent[^ref-14] |
+| Jewel Case | January 26, 2009 | PC | Amazon UK listing date[^ref-6] |
 
 ### Technical Issues
 
-Several technical issues have been reported by users over the years:[^ref-19]
+Users have reported a few technical issues:
 
-- **Left-click/right-click confusion:** Some players found the mouse control scheme unintuitive and required time to adjust[^ref-6]
-- **Fixed window sizes:** The game cannot scale to higher resolutions due to sprite artwork limitations; only full-screen and fixed-size window modes are available[^ref-1]
-- **Random number generation concerns:** Some players reported that the card shuffling appeared predictable, with one forum user questioning whether "winning or losing is somehow pre-ordained"[^ref-1]
-- **Score-keeping failures:** A reported bug caused the scoring display to show a blank box instead of proper scores, though gameplay remained functional[^ref-13]
-- **Windows 10 compatibility:** While the game does function on Windows 10, users noted minor interface quirks requiring adjustment[^ref-6]
+- **Left-click/right-click confusion:** One reviewer found that "sometimes a left click is required to move a card, sometimes only a right click will work"[^ref-6]
+- **Fixed window sizes:** The game cannot scale to higher resolutions; only full-screen and fixed-size window modes are available[^ref-1]
+- **Windows 10 compatibility:** The same reviewer reported that the game works on Windows 10[^ref-6]
 
 ### Easter Eggs and Trivia
 
-- **Billion Dollar Ransom:** In the Casino game mode, if a player accumulates one billion dollars in winnings, the game triggers a special scenario where kidnappers take 999 million dollars as ransom, forcing the player back to more modest wealth[^ref-1]
-- **Hoyle Brand Heritage:** The Hoyle name represents over 200 years of authority on card game rules, dating back to Edmond Hoyle's 18th-century publications[^ref-2][^ref-3]
-- **Sudoku Inclusion:** The game includes Sudoku puzzles sourced from Big Bang Brain Sudoku, extending beyond traditional card games[^ref-1]
+- **Hoyle Brand Heritage:** The packaging billed Hoyle as "the authority for more than 200 years"; the series is named after 18th-century card expert Edmond Hoyle[^ref-2][^ref-11]
 - **Mac Registration:** The registration key for Mac installation is printed on the back cover of the manual[^ref-1]
-- **First DVD Release:** This marked the first time a Hoyle Card Games title was distributed on DVD rather than CD-ROM[^ref-9]
+- **First DVD Release:** The feature list quoted by Impulse Gamer advertises the game as "on DVD for the first time"[^ref-9]
 
 ## Voice Cast
 
@@ -173,9 +165,9 @@ No voice cast information is documented in available sources. The game appears t
 
 ### Sales and Commercial Impact
 
-While specific sales figures for Hoyle Card Games 2008 are not documented, the broader Hoyle franchise demonstrated significant commercial success during its Sierra era, with the original 1989-1990 releases selling over 250,000 copies[^ref-11]. The continuation of annual releases through 2012 suggests sustained market demand for the brand[^ref-12].
+No sales figures for Hoyle Card Games 2008 have been found. For comparison, the first game in the series, Hoyle's Official Book of Games: Volume 1, sold over 250,000 copies by 1990[^ref-11].
 
-The game's availability through multiple distribution channels including retail stores (Newegg, Amazon), digital platforms (WildTangent), and hybrid PC/Mac formats indicates a broad commercial strategy targeting casual gaming audiences[^ref-2][^ref-14].
+The game was sold at retail (Newegg, Amazon) and as a Windows download through WildTangent[^ref-2][^ref-6][^ref-14].
 
 ### Collections
 
@@ -194,21 +186,18 @@ No significant fan projects, mods, or remakes have been documented for Hoyle Car
 
 Hoyle Card Games 2008 represents the evolution of a franchise from its innovative Sierra On-Line origins to its later status as a budget gaming staple. The original 1989 Hoyle games were notable for allowing players to compete against beloved Sierra characters like Leisure Suit Larry and Princess Rosella, creating a unique crossover experience within Sierra's gaming universe[^ref-11]. By 2008, this personality had been largely stripped away in favor of a more utilitarian approach focused on game variety and adherence to official rules.
 
-The transition from Sierra to Encore marked a philosophical shift in the franchise's purpose. Where early Hoyle games served as technical showcases and character vehicles, the 2008 edition prioritized accessibility and value—offering 150+ games at a budget price point. Contemporary reviews recognized this value proposition, with Impulse Gamer praising the sheer quantity of content available[^ref-9]. However, the aging graphics and limited technical ambition reflected the game's position as a reliable but unexciting annual release rather than a flagship product[^ref-6].
+The transition from Sierra to Encore marked a philosophical shift in the franchise's purpose. Where early Hoyle games served as technical showcases and character vehicles, the 2008 edition prioritized accessibility and value—offering 150+ games at a budget price point. Impulse Gamer praised the sheer quantity of content available[^ref-9], while a later Amazon reviewer called the graphics "20 years old"[^ref-6].
 
-The game's significance lies primarily in its preservation of the Hoyle brand's core mission: teaching and enforcing proper card game rules across multiple platforms[^ref-14][^ref-15]. The return to Mac OS X compatibility after a six-year hiatus demonstrated ongoing commitment to cross-platform accessibility[^ref-1]. While unlikely to appear on lists of landmark gaming achievements, Hoyle Card Games 2008 served its target audience of casual card game enthusiasts effectively, maintaining a tradition that had begun two decades earlier with [[Warren Schwader]]'s original pitch to Ken Williams[^ref-11][^ref-16][^ref-17].
+The collection bundles official rules, tips and strategies with its games[^ref-14], and its Mac OS X support came five years after the last Mac OS 9-compatible Hoyle releases of 2002[^ref-1]. It continued a series that had begun almost two decades earlier with [[Warren Schwader]]'s original pitch to Ken Williams[^ref-11].
 
 ## Purchase
 
 **Purchase / Digital Stores**
+- [WildTangent](https://www.wildtangent.com/p/cards/hoyle-card-games/) - Windows version, still listed (checked October 2026)[^ref-14]
 - Not currently available on GOG or Steam
-- Product discontinued; physical copies may be available from resellers[^ref-3]
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-card-games-2000)
+- The boxed retail edition is listed as discontinued; physical copies may be available from resellers[^ref-3]
 
 ## Downloads
-
-**Download / Preservation**
-- [My Abandonware](https://www.myabandonware.com/game/hoyle-card-games-2008-m74) - ISO Version Win/Mac Hybrid[^ref-13]
 
 **Manuals & Extras**
 - Registration key for Mac printed on back cover of manual[^ref-1]
@@ -273,7 +262,7 @@ The game's significance lies primarily in its preservation of the Hoyle brand's 
 
 ## References
 
-[^ref-1]: [Inside Mac Games Forum – Hoyle Card Games 2008 Discussion](https://www.insidemacgames.com/forum/thread-16374.html) – Mac release details, technical specifications, Easter eggs, user-reported issues
+[^ref-1]: [Inside Mac Games Forum – Hoyle Card Games 2008 Discussion](https://www.insidemacgames.com/forum/thread-16374.html) – Mac OS X release details, system requirements, porting remark, Mac registration key
 [^ref-2]: [Newegg – Hoyle Card Games 2008 Product Listing](https://www.newegg.com/encore-software-hoyle-card-games-2008/p/N82E16832196441) – System requirements, game features, platform specifications
 [^ref-3]: [Blu-ray.com – Hoyle Card Games 2008 Database Entry](https://www.blu-ray.com/Hoyle-Card-Games-2008-PC/583392/) – Product description, game features, availability status
 [^ref-4]: [Metacritic – Hoyle Card Games 2008](https://www.metacritic.com/game/hoyle-card-games-2008/) – Developer, publisher, release date, ESRB rating
@@ -284,14 +273,6 @@ The game's significance lies primarily in its preservation of the Hoyle brand's 
 [^ref-9]: [Impulse Gamer – Hoyle Card Games 2008 Review](https://www.impulsegamer.com/pchoylecardgames2008.html) – Contemporary review, scores, DVD format details
 [^ref-10]: [ESRB – Hoyle Card Games 2008 Rating](https://www.esrb.org/ratings/23475/hoyle-card-games-2008/) – Official ESRB rating, platform confirmation
 [^ref-11]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Franchise history, original developers, designer credits
-[^ref-12]: [PriceCharting – Hoyle Card Games](https://www.pricecharting.com/game/pc-games/hoyle-card-games) – Version history across years, format information
-[^ref-13]: [My Abandonware – Hoyle Card Games 2008](https://www.myabandonware.com/game/hoyle-card-games-2008-m74) – File specifications, user ratings, bug reports
-[^ref-14]: [WildTangent – Hoyle Card Games](https://www.wildtangent.com/p/cards/hoyle-card-games/) – Digital release date, user ratings, system requirements
+[^ref-14]: [WildTangent – Hoyle Card Games](https://www.wildtangent.com/p/cards/hoyle-card-games/) – Digital release date, user ratings, system requirements; still listed October 2026
 [^ref-15]: [IGN – Hoyle Card Games 2008](https://www.ign.com/games/hoyle-card-games-2008) – Release date, no review available
-[^ref-16]: [IGDB](https://www.igdb.com/games/hoyle-card-games-2008) – Game database entry
-[^ref-17]: [UVList](https://www.uvlist.net/game-8839-Hoyle+Card+Games+2008) – Universal Videogame List entry
-[^ref-18]: [Glitchwave](https://glitchwave.com/game/hoyle-card-games-2008/) – Modern ratings and classification
-[^ref-19]: [GameFAQs Credits](https://gamefaqs.gamespot.com/pc/943484-hoyle-card-games-2008/credit) – Development credits
-[^ref-20]: [Lutris](https://lutris.net/games/hoyle-card-games-2008/) – Linux compatibility information
-[^ref-21]: [Giant Bomb](https://www.giantbomb.com/hoyle-card-games-2008/3030-52131/) – Game database entry
-[^ref-22]: [MobyGames](https://www.mobygames.com/game/29723/hoyle-card-games-2008/) – Game database entry
+[^ref-21]: [Giant Bomb – Hoyle Card Games 2008](https://www.giantbomb.com/hoyle-card-games-2008/3030-22573/) – Release date (October 1, 2007), developer/publisher Encore Software
