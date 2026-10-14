@@ -8,41 +8,44 @@ genre: Educational
 platforms: [Windows 3.x, Mac]
 series: Playtoons
 engine: Gob
-protagonist: Two unnamed children
+protagonist: Peter and Ben
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-11'
+last_updated: '2026-10-13'
 description: 'Playtoons 1: Featuring Uncle Archibald is an edutainment title developed
-  by Coktel Vision and published by Sierra On-Line in 1995 for Windows 3 in 1994.x...'
+  by Coktel Vision and published by Sierra On-Line for Windows 3.x and Macintosh;
+  sources disagree on its release year (1994, 1995 in Europe, 1996 in the US).'
 tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 1: Featuring Uncle Archibald
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Playtoons 1: Featuring Uncle Archibald is an edutainment title developed by [[Coktel Vision]] and published by [[Sierra On-Line]] in 1995 for Windows 3 in 1994.x and Macintosh platforms.[^ref-1][^ref-18][^ref-19][^ref-21] The game represents the first entry in the Playtoons series, a collection of interactive comic books designed to engage children with digital storytelling while teaching them fundamental school topics in an entertaining format.[^ref-2] As part of Sierra's children's software lineup, it showcased the collaborative relationship between Sierra On-Line and their French subsidiary Coktel Vision, which specialized in educational and children's titles.
+Playtoons 1: Featuring Uncle Archibald is an edutainment title developed by [[Coktel Vision]] and published by [[Sierra On-Line]] for Windows 3.x and Macintosh.[^ref-1][^ref-18] Sources disagree on the release year: Wikipedia and IGDB give 1994,[^ref-2][^ref-19] MobyGames and Sierra Chest give 1995,[^ref-1][^ref-18] and GameFAQs and MyAbandonware give 1995 for the French and German releases and 1996 for the US release.[^ref-9][^ref-6] The game is the first entry in the Playtoons series, whose games Wikipedia describes as focused on teaching children school topics in a digital format.[^ref-2] Coktel Vision was a French studio that Sierra On-Line acquired in a deal finalised in October 1993.[^ref-23]
 
-The game combines an interactive story unique to its specific title with a construction game common to the entire Playtoons collection.[^ref-3] Players can not only read through the interactive comic book narrative but also create their own animated stories using an integrated editor tool that allows manipulation of characters, backgrounds, scenery, and props.[^ref-1] This dual-purpose approach—offering both guided entertainment and creative freedom—distinguished the Playtoons series from other children's software of the era.
+The game combines an interactive story unique to its specific title with a construction game common to the entire Playtoons collection.[^ref-18] Players can read through the interactive comic book narrative and also create their own animated stories with an integrated editor, adding background scenery, props and characters to a scene.[^ref-1]
 
-One of the series' innovative features was its interoperability: if multiple Playtoons games were installed on the same system, players could combine assets from different titles within the editor, vastly expanding their creative possibilities.[^ref-4] The game also included a built-in camera function for creating animated films with voice overs, allowing children to craft presentations of up to twenty scenes in length.[^ref-3][^ref-15][^ref-16][^ref-17]
+The Playtoons games are interoperable: if multiple Playtoons games were installed on the same system, players could combine assets from different titles within the editor, essentially combining them into one game.[^ref-1] The construction game lets players create up to 20 scenes, and a built-in camera function lets them make their own animated film with voice overs.[^ref-18]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
-> **Designer:** Jeff Rey[^ref-1]
+> **Designer:** Jeff Rey[^ref-12]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
-> **Engine:** Gob engine[^ref-3]
+> **Engine:** Gob engine[^ref-18]
 > **Platforms:** Windows 3.x, Macintosh[^ref-1]
-> **Release Year:** 1995
+> **Release Year:** 1994 per Wikipedia and IGDB; 1995 (France, Germany) and 1996 (US) per GameFAQs and MyAbandonware[^ref-2][^ref-19][^ref-9][^ref-6]
 > **Series:** Playtoons
-> **Protagonist:** Two unnamed children
-> **Sierra Lineage:** Coktel Vision
+> **Protagonist:** Peter (the narrator) and Ben[^ref-18]
+> **Sierra Lineage:** Sierra Label (Coktel)
 
 ## Story Summary
 
-The narrative of Playtoons 1: Featuring Uncle Archibald centers on two young children who find themselves in a supernatural predicament after a visit to their eccentric relative.[^ref-5] While exploring Uncle Archibald's home, the children accidentally disturb a small green bottle containing a powerful spell.[^ref-2] This magical substance has the peculiar property of materializing anything that a person imagines, bringing thoughts and fantasies into physical reality.
+Peter, the narrator, introduces his friend Ben, who lives with his Uncle Archibald, a shop owner. In the past Archibald wrote stories about witches, wizards and monsters, and he kept a description of each monster on his computer, which the two boys peep at. One catches their eye: an ogre who eats kids with chocolate sauce (named Fringall in Sierra Chest's summary and Kringle in Wikipedia's).[^ref-18][^ref-2]
 
-The consequences of releasing this spell prove immediately chaotic: monsters from Uncle Archibald's collection of old books spring to life, transforming from harmless illustrations into tangible creatures.[^ref-5] These literary nightmares now roam freely, creating havoc and danger that the children must confront. Uncle Archibald explains the nature of the spell to his young relatives, setting them on a quest to find a way to reverse the magic and return the monsters to their rightful place within the pages of his ancient tomes.[^ref-2]
+Later, while working on a formula (a "chemistry project" in Sierra Chest's wording), the boys add the contents of "a little green bottle" to their mixture. An explosion follows, a dense fog fills the house and the lights go out. Searching the kitchen for candles, they find the ogre rummaging through the refrigerator for chocolate sauce, and they manage to neutralise him, but more monsters from Archibald's stories are loose in the darkened house.[^ref-18][^ref-2]
+
+According to Wikipedia, the boys call Uncle Archibald for help. When the lights come back on, the monsters are all in the living room laughing at them, and a large brown monster called Fatso grabs them just as Archibald storms in. Archibald threatens to send the monsters into a "soppy love story" unless they go back to his stories, and the ashamed monsters vanish. He then explains that the little green bottle held a spell that materializes whatever people imagine.[^ref-2]
 
 The interactive story unfolds across multiple pages, with players able to jump to any page in the narrative.[^ref-2] Some pages lead to unlisted pages, creating a branching structure that encourages exploration and replay. Each game in the Playtoons series includes an introductory cartoon that introduces the characters and establishes the situation before players dive into the interactive experience.[^ref-2]
 
@@ -50,13 +53,13 @@ The interactive story unfolds across multiple pages, with players able to jump t
 
 ### Interface and Controls
 
-Playtoons 1: Featuring Uncle Archibald employs a fixed, flip-screen perspective typical of interactive book software from the mid-1990s.[^ref-6] Players navigate through the story by clicking on various elements within each scene, with background scenery, props, and characters responding to interaction.[^ref-1] The interface was designed with young children in mind, emphasizing accessibility and intuitive point-and-click controls appropriate for the Windows 3.x environment.
+Playtoons 1: Featuring Uncle Archibald uses a fixed, flip-screen perspective and point-and-select controls, and MobyGames classifies it as an interactive book.[^ref-1][^ref-6] Players can set off animations from each screen of the story.[^ref-18]
 
 ### Structure and Progression
 
-The game divides its content between two distinct modes of play. The primary mode follows the interactive story about Uncle Archibald and the escaped monsters, presented as a digital comic book with animated elements and voice acting.[^ref-3] Players progress through the narrative by interacting with scenes and making choices that affect how the story unfolds.
+The game divides its content between two distinct modes of play. The primary mode follows the interactive story about Uncle Archibald and the escaped monsters, presented as an interactive comic book with animations and voice acting.[^ref-1][^ref-12] Players can play the story straight through or jump to any page.[^ref-2]
 
-The secondary mode is the construction game, which serves as a creative sandbox:[^ref-3]
+The secondary mode is the construction game, which serves as a creative sandbox:[^ref-18]
 
 - **Story Mode:** Follow the interactive narrative about the monster mishap
 - **Construction Mode:** Create original animated stories using provided assets
@@ -64,9 +67,9 @@ The secondary mode is the construction game, which serves as a creative sandbox:
 
 ### Puzzles and Mechanics
 
-As an edutainment title focused on younger audiences, Playtoons 1 emphasizes exploration and creativity over traditional puzzle-solving.[^ref-2] The games were designed to teach children school topics through digital interaction rather than challenging them with complex logic puzzles. Players can add characters and objects to scenes, animate them, and observe their interactions.
+Sierra Chest classifies Playtoons 1 under the "Creativity" genre and GameFAQs lists it as edutainment.[^ref-18][^ref-9] In the construction game, players set the scenery, objects and characters of each scene and have the characters interact with the objects.[^ref-18]
 
-The construction game allows players to create up to twenty scenes for their custom animations, selecting from the available library of characters, backgrounds, and props.[^ref-3] The "Monsters" construction kit add-on provided additional themed assets specifically for this first title in the series.[^ref-3]
+The construction game allows players to create up to 20 scenes.[^ref-18] Although the construction games are universal, Uncle Archibald has its own construction kit add-on, titled "Monsters".[^ref-18]
 
 ## Reception
 
@@ -78,19 +81,19 @@ No contemporary critic reviews of Playtoons 1: Featuring Uncle Archibald are lis
 
 Modern assessment of Playtoons 1 is similarly limited, with major aggregators lacking sufficient data for meaningful scores. Metacritic lists the game but shows "tbd" (to be determined) for its score, indicating no aggregated reviews are available.[^ref-10] User reviews are also unavailable on the platform.[^ref-11]
 
-The game maintains a positive reception among abandonware enthusiasts, with MyAbandonware users rating it 4 out of 5 stars.[^ref-6] The site describes it as worthy of attention for those interested in vintage adventure games, noting its unique creative tools.[^ref-6]
+MyAbandonware shows a user rating of 4 out of 5, based on a single vote, and no user comments.[^ref-6]
 
 **Aggregate Scores:**
-- **MyAbandonware:** 4/5 (user rating)[^ref-6]
+- **MyAbandonware:** 4/5 (1 user vote)[^ref-6]
 - **Metacritic:** No score available[^ref-10]
 
 ## Development
 
 ### Origins
 
-Playtoons 1: Featuring Uncle Archibald was developed by Coktel Vision, the French software company that had become a subsidiary of Sierra On-Line.[^ref-1] The series was conceived as an innovative approach to children's educational software, combining the appeal of interactive storytelling with creative tools that would empower young users to become content creators themselves.[^ref-2]
+Playtoons 1: Featuring Uncle Archibald was developed by Coktel Vision,[^ref-1] the French company that Sierra On-Line had acquired in a deal finalised in October 1993.[^ref-23] The series lets players make their own animations from the characters, backgrounds, scenery and props of a single game or a mixture from the full series.[^ref-2]
 
-The creative vision for the series came from Jeff Rey, who served as both story writer and artistic director for the first installment.[^ref-12] The concept of linking multiple games through a shared construction tool system represented an ambitious approach to children's software, encouraging collection of multiple titles while providing increasing value with each purchase.[^ref-4]
+Jeff Rey is credited as both story writer and artistic director of the first installment.[^ref-12]
 
 ### Production
 
@@ -109,28 +112,24 @@ Development of Playtoons 1 involved a substantial team spanning programming, gra
 
 ### Technical Achievements
 
-The game was built using Coktel Vision's proprietary Gob engine, which powered numerous titles from the French developer.[^ref-3] This engine supported the interactive book format with animated elements and the construction tool functionality that defined the Playtoons series.
-
-A key technical achievement was the interoperability system that allowed assets from multiple Playtoons titles to be combined within the construction mode.[^ref-4] This required careful standardization of asset formats and the editor interface across all games in the series.
+The game was built on Coktel Vision's Gob engine.[^ref-18] If several Playtoons games are installed, the assets from all of them become available in the editor.[^ref-1]
 
 ### Technical Specifications
 
 **CD-ROM Version:**[^ref-4]
-- **Media:** CD-ROM
+- **Media:** Hybrid Windows 3.1 / Macintosh CD-ROM (the Internet Archive's disc image is about 327 MB)
 - **Perspective:** Fixed / Flip-screen[^ref-6]
-- **Players:** 1 Player
--
-
-**Download Size (Archived):** 1.8 GB[^ref-6]
 
 ### Version History
 
-| Version | Date | Platform | Region | Notes |
-|---------|------|----------|--------|-------|
-| 1.0 | 1995 | Windows 3.x | France | Initial French release[^ref-6] |
-| 1.0 | 1995 | Windows 3.x | Germany | German localization[^ref-6] |
-| 1.0 | 1995 | Macintosh | France | Mac port[^ref-1] |
-| 1.0 | 1996 | Windows 3.x | United States | US release[^ref-6] |
+| Date | Platform | Region | Notes |
+|------|----------|--------|-------|
+| 1995 | Windows 3.x | France | French release[^ref-6][^ref-9] |
+| 1995 | Windows 3.x | Germany | German localization[^ref-6][^ref-9] |
+| 1995 | Macintosh | Not specified | MobyGames lists a 1995 Mac release without a region[^ref-1] |
+| 1996 | Windows 3.x | United States | US release, rated K-A[^ref-6][^ref-9] |
+
+Wikipedia and IGDB instead give 1994 as the release year.[^ref-2][^ref-19]
 
 The game was released under different titles for localized markets:
 - **French:** Playtoons № 1: Oncle Archibald[^ref-1]
@@ -138,49 +137,40 @@ The game was released under different titles for localized markets:
 
 ### Easter Eggs and Trivia
 
-- The game featured a specific "Monsters" construction kit add-on that provided themed assets matching the story's supernatural elements.[^ref-3]
-- Players could create animated films with voice overs using the built-in camera function, a feature ahead of its time for children's software.[^ref-3]
-- The construction game was universal across the Playtoons collection, meaning skills learned in one title transferred directly to others.[^ref-3]
+- Uncle Archibald has its own construction kit add-on, titled "Monsters".[^ref-18]
+- Players could create their own animated films with voice overs using the built-in camera function.[^ref-18]
+- The construction game is universal across the Playtoons collection, so the more Playtoons titles and Creator Kit add-ons are installed, the more sceneries, objects and characters are available.[^ref-18]
 
 ## Voice Cast
 
 | Character | Voice Actor | Notes |
 |-----------|-------------|-------|
 | Various | Mike Marshall | English version[^ref-12] |
-| Various | Karen Strassman | English version[^ref-12] |
+| Various | Karen Strassman | English version (credited as Karen Strasman)[^ref-12] |
 | Various | Peter Hudson | German version[^ref-12] |
+| Various | Karen Strassman | German version[^ref-12] |
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Playtoons 1: Featuring Uncle Archibald was rated K-A (Kids to Adults) by the ESRB, reflecting its target demographic of young children and families.[^ref-9] The game was positioned as part of Sierra's broader children's software initiative, which included numerous Coktel Vision titles distributed in North America.
-
-### Collections
-
-The game has not appeared in any known compilation releases and remains available primarily through abandonware preservation sites and digital archives.[^ref-6]
+Playtoons 1: Featuring Uncle Archibald was rated K-A (Kids to Adults) by the ESRB, and released in the US in 1996.[^ref-9] Under the acquisition deal, Sierra published Coktel's French titles worldwide.[^ref-23]
 
 ### Fan Projects
 
 The game is preserved through various abandonware initiatives:
-- Internet Archive maintains a playable version for both Windows 3.1 and Macintosh platforms.[^ref-4]
-- Sierra Chest provides a demo download for those wishing to sample the game through DOSBox emulation.[^ref-3]
+- The Internet Archive hosts a disc image of the hybrid Windows 3.1 / Macintosh CD-ROM.[^ref-4]
+- Sierra Chest hosts a non-interactive demo (3.66 MB) that runs in DOSBox.[^ref-3]
 
 ### Related Publications
 
-- **In-Game Construction Kit:** The "Monsters" themed add-on provided additional assets for creative play.[^ref-3]
+- **Construction Kit:** Uncle Archibald has its own construction kit add-on, titled "Monsters".[^ref-18]
 
 ### Critical Perspective
 
-Playtoons 1: Featuring Uncle Archibald represents an interesting artifact from the mid-1990s edutainment boom, when software companies were actively experimenting with ways to make educational content engaging for children raised on video games and animated entertainment.[^ref-2] The game's dual focus on passive consumption (reading the interactive story) and active creation (using the construction tools) anticipated later trends in children's media that emphasized creativity and user-generated content.
+Playtoons 1 pairs reading an interactive story with building animated stories in the construction tool, and when several Playtoons games are installed their assets combine in the editor.[^ref-1][^ref-18] No critic reviews are listed for it on MobyGames or Metacritic.[^ref-22][^ref-10]
 
-While the game never achieved the recognition of Sierra's flagship adventure titles or even Coktel Vision's more prominent educational series like Adi and Adibou, it demonstrated the French developer's commitment to innovative approaches to children's software. The interoperability between Playtoons titles—allowing assets to be shared across games—was a forward-thinking feature that rewarded collectors and encouraged ecosystem investment.[^ref-4]
-
-The series continued with at least four additional installments: Playtoons 2: The Case of the Counterfeit Collaborator, Playtoons 3: The Secret of the Castle, Playtoons 4: The Mandarine Prince, and Playtoons № 5: La Pierre de Wakan.[^ref-12] Each maintained the same dual structure of unique story content and shared construction tools.
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/playtoons-1-uncle-archibald)
+The series continued with at least four more installments: Playtoons 2: The Case of the Counterfeit Collaborator, Playtoons 3: The Secret of the Castle, Playtoons 4: The Mandarine Prince, and Playtoons № 5: La Pierre de Wakan.[^ref-15][^ref-16][^ref-17][^ref-12] Each pairs a story unique to that title with the construction game common to the whole collection.[^ref-18]
 
 ## Downloads
 
@@ -188,11 +178,11 @@ The series continued with at least four additional installments: Playtoons 2: Th
 - Not currently available for digital purchase
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/playtoons-uncle-archibald) – Preserved Windows 3.1 and Macintosh versions[^ref-4]
-- [MyAbandonware](https://www.myabandonware.com/game/playtoons-1-featuring-uncle-archibald-yr6) – Windows 3.x download[^ref-6]
+- [Internet Archive](https://archive.org/details/playtoons-uncle-archibald) – Disc image of the hybrid Windows 3.1 / Macintosh CD-ROM[^ref-4]
+- [MyAbandonware](https://www.myabandonware.com/game/playtoons-1-featuring-uncle-archibald-yr6) – Windows 3.x version, part of the eXoWin3x bundle download[^ref-6]
 
 **Demos & Extras**
-- [Sierra Chest Demo](https://sierrachest.com/index.php?a=games&id=323&fld=trailers) – 3.66MB demo playable in DOSBox[^ref-3]
+- [Sierra Chest Demo](https://sierrachest.com/index.php?a=games&id=323&fld=trailers) – 3.66 MB non-interactive demo; runs in DOSBox[^ref-3]
 
 ## See Also
 
@@ -206,19 +196,17 @@ The series continued with at least four additional installments: Playtoons 2: Th
 
 [^ref-1]: [MobyGames – Playtoons 1: Featuring Uncle Archibald](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/) – developer, publisher, platforms, release year, credits, game description
 [^ref-2]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, plot summary, educational focus, interactivity features
-[^ref-3]: [Sierra Chest – Trailers/Demo](https://sierrachest.com/index.php?a=games&id=323&fld=trailers) – demo download, DOSBox instructions
-[^ref-4]: [Internet Archive – Playtoons Uncle Archibald](https://archive.org/details/playtoons-uncle-archibald) – platforms, publisher, CD-ROM format, preservation
-[^ref-5]: [PriceCharting – Playtoons 1](https://www.pricecharting.com/game/pc-games/playtoons-1-featuring-uncle-archibald) – plot summary, developer confirmation
-[^ref-6]: [MyAbandonware – Playtoons 1](https://www.myabandonware.com/game/playtoons-1-featuring-uncle-archibald-yr6) – release dates by region, user rating, technical specs
-[^ref-7]: [MobyGames – Playtoons 1 user reviews](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/reviews/?type=user) – user-side review distribution, gameplay critique notes
-[^ref-9]: [GameFAQs – Playtoons 1 PC](https://gamefaqs.gamespot.com/pc/232215-playtoons-1-featuring-uncle-archibald) – genre classification, ESRB rating, platform confirmation
+[^ref-3]: [Sierra Chest – Trailers/Demo](https://sierrachest.com/index.php?a=games&id=323&fld=trailers) – non-interactive demo download (3.66 MB), DOSBox instructions
+[^ref-4]: [Internet Archive – Playtoons Uncle Archibald](https://archive.org/details/playtoons-uncle-archibald) – hybrid Windows 3.1 / Macintosh CD-ROM disc image (ISO), dated 1996
+[^ref-6]: [MyAbandonware – Playtoons 1](https://www.myabandonware.com/game/playtoons-1-featuring-uncle-archibald-yr6) – release dates by region (France, Germany 1995; US 1996), perspective, 4/5 user rating from 1 vote
+[^ref-9]: [GameFAQs – Playtoons 1 PC release data](https://gamefaqs.gamespot.com/pc/232215-playtoons-1-featuring-uncle-archibald/data) – edutainment genre; EU releases 1995, US release 1996 rated K-A
 [^ref-10]: [Metacritic – Playtoons 1](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/) – platform, developer/publisher, no score available
 [^ref-11]: [Metacritic – User Reviews](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/user-reviews/) – no user reviews available
-[^ref-12]: [MobyGames – Credits](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/credits/win3x/) – full development credits, voice cast, alternate titles
+[^ref-12]: [MobyGames – Credits](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/credits/win3x/) – full development credits, voice cast (English and German), alternate titles, related Playtoons 2, 3 and 5
 [^ref-15]: [MobyGames – Playtoons 2](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/) – series continuation, Spirou characters
 [^ref-16]: [MobyGames – Playtoons 3](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/) – series information, shared construction tools
 [^ref-17]: [MobyGames – Playtoons 4](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/) – series continuation, shared features
-[^ref-18]: [Sierra Chest – Playtoons 1](https://sierrachest.com/index.php?a=games&id=323&title=playtoons-1&fld=general) – engine, construction game details, camera function, Monsters add-on
-[^ref-19]: [IGDB – Playtoons 1: Featuring Uncle Archibald](https://www.igdb.com/games/playtoons-1-featuring-uncle-archibald) – Internet Games Database entry, platform listings, release-year confirmation
-[^ref-21]: [Adventure Classic Gaming – Coktel Vision developer retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) – historical context for Coktel Vision's Sierra-published children's titles during 1993–1995
+[^ref-18]: [Sierra Chest – Playtoons 1](https://sierrachest.com/index.php?a=games&id=323&title=playtoons-1&fld=general) – story (Peter, Ben, Uncle Archibald), Gob engine, 20-scene construction game, camera with voice overs, Monsters add-on, first release 1995
+[^ref-19]: [IGDB – Playtoons Featuring Uncle Archibald](https://www.igdb.com/games/playtoons-featuring-uncle-archibald) – release date 6/1/1994, Mac and PC (Windows), developer Coktel Vision
 [^ref-22]: [MobyGames – Playtoons 1: Featuring Uncle Archibald reviews](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/reviews/) – no critic reviews listed ("Be the first to add a critic review for this title!")
+[^ref-23]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – acquired by Sierra On-Line (deal finalised 29 October 1993); Sierra published Coktel's French titles worldwide
