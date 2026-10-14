@@ -2,95 +2,83 @@
 title: Pharaoh
 release_year: 1999
 developer: Impressions Games
-designer: [Chris Beatrice, Gabe Farris, Simon Bradbury]
+designer: [Chris Beatrice]
 publisher: Sierra Studios
 genre: City-Building
-platforms: [PC, Windows, Mac, Steam, GOG]
-series: Impressions City Building Series
-engine: Caesar III engine (modified)
+platforms: [Windows]
+series: Pharaoh
+engine: Caesar III engine
 protagonist: Egyptian Governor (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-09'
-description: Pharaoh is a city-building simulation game set in ancient Egypt, developed
-  by Impressions Games and published by Sierra Studios in 1999. As the fourth game...
+last_updated: '2026-10-13'
+description: Pharaoh is an isometric city-building game set in ancient Egypt, developed
+  by Impressions Games and published by Sierra Studios for Windows in November 1999.
 tags: [1990s, impressions-city-building-series, sierra]
 ---
 # Pharaoh
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Pharaoh is a city-building simulation game set in ancient Egypt, developed by Impressions Games and published by Sierra Studios in 1999[^ref-1]. As the fourth game in Impressions Games' city building series, Pharaoh takes players through Egypt's dynasties, where they manage settlements and aspire to eventually become pharaoh[^ref-2]. The game uses the same engine as Caesar III but introduces new mechanics specific to Egyptian civilization, including pyramid construction, flood management, and Egyptian mythology[^ref-3].
+Pharaoh is an isometric city-building game set in ancient Egypt, developed by Impressions Games and published by Sierra Studios for Windows; it was released in North America on 2 November 1999[^ref-1]. Built on the same engine and principles as Caesar III, it was the first game in Sierra's City Building series to move away from Rome to another ancient civilization[^ref-1][^ref-12]. Players guide a family lineage through the eras of ancient Egypt, with the ultimate goal of becoming Pharaoh[^ref-11], and the game adds Egypt-specific systems such as Nile floodplain farming, monument construction and a pantheon of five gods[^ref-1][^ref-14].
 
-Development began after Impressions decided it was time for a change of scenery following Caesar III, with the team consulting professional Egyptologists to create a historically accurate playing experience[^ref-4]. The game was praised for its depth and historical authenticity, with composers Henry Beckett and Keith Zizza noting that the game is "truly epic in scope and in scale. You start with nothing but the sand in your shoes and end ruling a Pharaoh's kingdom"[^ref-5].
+Eurogamer reported that after Caesar III, "Impressions decided it was time for a change of scenery"[^ref-12]. jeuxvideo.com's review credited the developers with remarkable documentary research ("recherches documentaires remarquables")[^ref-19], and composers Henry Beckett and Keith Zizza wrote that the game "is truly epic in scope and in scale. You start with nothing but the sand in your shoes and end ruling a Pharaoh's kingdom"[^ref-5].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
-> **Designer:** [[Chris Beatrice]], Gabe Farris, [[Simon Bradbury]][^ref-6]
+> **Designer:** [[Chris Beatrice]][^ref-6][^ref-25]
 > **Publisher:** Sierra Studios[^ref-1]
-> **Engine:** Caesar III engine (modified)[^ref-6]
-> **Platforms:** PC, Windows, Macintosh, Steam, GOG[^ref-7]
-> **Release Year:** 1999
+> **Engine:** Caesar III engine[^ref-1][^ref-12]
+> **Platforms:** Windows[^ref-1][^ref-13]
+> **Release Year:** 1999 (NA 2 November 1999)[^ref-1]
 > **Series:** Pharaoh
 > **Protagonist:** Egyptian Governor (player-named)
 > **Sierra Lineage:** Sierra Label (Impressions)
 
 ## Story Summary
 
-Players take on the role of a family following it through Egypt's dynasties, with the ultimate goal of becoming pharaoh through successful city management and construction projects[^ref-2].
+Players take on the role of a family lineage that rises through the eras of ancient Egypt, from humble village beginnings to the throne, with the ultimate goal of becoming Pharaoh[^ref-11].
 
-The campaign spans over 50 missions covering different periods of Egyptian history, from the Old Kingdom through the New Kingdom[^ref-8].
+The campaign runs through five periods of Egyptian history, from the Predynastic period to the New Kingdom, with the first period acting as a tutorial. In later periods players usually choose between a peaceful and a military mission, and only one of the two needs to be completed to move on[^ref-1][^ref-8]. Pharaoh Heaven's walkthrough index lists 38 career missions across those five periods[^ref-8], while jeuxvideo.com's 1999 review counted "3 campagnes, 30 missions" plus standalone missions[^ref-19].
 
-During certain plague events, Moses appears as a mysterious leader of slave labor, providing a subtle nod to biblical history[^ref-9].
+Monument labour is recruited and paid rather than enslaved: IGN noted that "Impressions has decided not to use any sort of references to slavery," so players must build work camps, house workers and pay them every month[^ref-17].
 
-The game incorporates Egyptian mythology extensively, requiring players to appease various gods through festivals and temple construction to avoid divine wrath affecting their cities[^ref-10].
-
-The campaign structure provides clear progression from humble villages to grand cities supporting pyramid construction, with later missions presenting formidable logistical challenges that test mastery of all game systems.
-
-Military scenarios add variety, requiring players to balance defensive preparations against economic development in scenarios where hostile neighbors threaten Egyptian settlements. The narrative thread connecting missions creates a sense of dynasty-building that elevates the experience beyond individual city management.
+The game incorporates Egyptian religion throughout, requiring players to appease the gods by building temples and holding festivals[^ref-10].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Pharaoh uses a 2D isometric perspective with fixed magnification levels, maintaining the visual style established in Caesar III[^ref-11]. The game employs the same walker system as its predecessor, where service providers and goods distributors move through the city following roads, though this system has been criticized for its random pathfinding at intersections[^ref-12]. Players interact with the city through point-and-click controls, managing various aspects of civilization from a top-down strategic view[^ref-13].
+Pharaoh is played from a two-dimensional isometric perspective; the magnification level is fixed, but the view can be rotated in 90-degree steps, and control runs through the mouse and keyboard shortcuts in an interface similar to Caesar III's[^ref-1][^ref-11]. The game employs the same walker system as its predecessor, where service providers and goods distributors move through the city following roads, though this system has been criticized for its random pathfinding at intersections[^ref-12]. GameSpot noted that a new roadblock option gives players some control over where patrolling workers walk[^ref-14].
 
 ### Structure and Progression
 
-The game features over 100 hours of gameplay across 50 missions in campaign mode[^ref-5]. Each mission presents specific objectives such as reaching certain population levels, constructing monuments, or achieving trade goals. The campaign progresses through three distinct musical and thematic periods corresponding to Egypt's Old, Middle, and New Kingdoms, with Old Kingdom music designed to sound primitive, Middle Kingdom hopeful, and New Kingdom glorious[^ref-5].
+The game offers two modes, campaign and free-build; free-build provides around a dozen standalone scenarios, some open-ended and some with goals[^ref-1]. Cities are rated on Population, Prosperity, Culture, Kingdom (the Pharaoh's view of the player's performance) and a new Monument rating tied to the monuments each mission requires[^ref-1]. The soundtrack is organized around three Kingdoms matching the Old, Middle and New Kingdoms, with the composers aiming for Old Kingdom music that sounds "old and primitive," a Middle Kingdom "full of hope and possibility," and a New Kingdom reflecting "all the glory, magic and mysticism befitting a mighty Pharaoh"[^ref-5].
 
 ### Puzzles and Mechanics
 
-Pharaoh introduces several mechanics unique to Egyptian civilization, including seasonal Nile flooding that affects farming, pyramid and monument construction requiring specific resources and labor management, and a complex religious system requiring regular festivals to appease gods[^ref-14]. The game features detailed economic simulation with trade routes, resource management, and population happiness factors. Service walkers have specific movement limitations, with most able to walk a maximum of 326.4 tiles, while bazaar buyers only purchase goods within a 40 tile range[^ref-15]. Monument construction requires road access and can take extended periods to complete, with some players reporting leaving the game running for days waiting for massive structures to finish[^ref-16].
+Pharaoh introduces several mechanics specific to its Egyptian setting, including the annual flooding of the Nile, monument construction and a religious system tied to festivals and temples[^ref-14]. Raw materials such as clay, reeds and stone are processed into goods and traded with other cities[^ref-1]. Players on the Heaven Games forums have documented walker limits: most service walkers can walk a maximum of 326.4 tiles, while bazaar buyers only purchase goods within a 40-tile range[^ref-15]. Eurogamer warned that "many of those missions can take you days to complete"[^ref-12].
 
-The Nile flooding mechanic adds a unique layer of agricultural planning. Farms built on floodplains receive annual irrigation from the rising waters, but the flood level varies each year. Players must balance the risk of drought years against the productivity of floodplain farming, while also maintaining non-flooding meadow farms as backup food sources. This seasonal rhythm creates a distinctive gameplay loop that sets Pharaoh apart from other city builders.
+Floodplain farms built near the Nile are a new feature, and irrigation ditches can increase the fertility of farmland[^ref-1]. GameSpot noted that the regular flooding demands players produce or import enough food to last through the flood season, and that a poor inundation can lead to bad irrigation and food shortages[^ref-14].
 
-The religion system requires careful attention, as neglecting any of the five major gods—Ra, Osiris, Ptah, Seth, and Bast—can result in divine punishment ranging from disease outbreaks to military defeats. Players must build temples, shrines, and temple complexes, then ensure priests regularly serve the population. Holding festivals at temples increases divine favor, providing bonuses to city productivity and protection from disasters.
+The game has five gods to appease: Ra (the kingdom), Bast (the home), Osiris (agriculture), Ptah (industry) and Seth (warfare). Players construct shrines, temples or temple complexes; appeased gods bestow gifts, while angered ones bring disasters tied to their focus[^ref-1]. Neglect can mean a drop in reputation from Ra, destroyed farms from Osiris, destroyed goods from Ptah, the deaths of soldiers from Seth or plague from Bast[^ref-9].
 
 ## Technical Specifications
 
 | Component | Minimum | Recommended |
 |-----------|---------|-------------|
-| Processor | Pentium 133 MHz | Pentium 200 MHz[^ref-3] |
-| Memory | 32 MB RAM | 64 MB RAM[^ref-3] |
-| Storage | 360 MB hard disk space | 400 MB hard disk space[^ref-3] |
-| Operating System | Windows 95/98 | Windows 98[^ref-3] |
-| Graphics | DirectX 6 compatible SVGA | 4 MB video card |
-| Sound | Windows compatible sound card | DirectSound compatible |
-| Resolution | 800x600 minimum | 1024x768 recommended |
+| Operating System | Windows 95 | Windows 98[^ref-3] |
+| Processor | Intel Pentium 133 MHz | Intel Pentium 166 MHz[^ref-3] |
+| Memory | 32 MB RAM | —[^ref-3] |
+| Storage | 360 MB | 630 MB[^ref-3] |
+| Graphics | 1 MB VRAM, DirectX 6 | —[^ref-3] |
+| Media | 4x CD-ROM drive | —[^ref-11] |
+| Resolution | 640×480, 800×600 or 1024×768 | —[^ref-11] |
 
 ## Monument Construction
 
-The monument construction system stands as Pharaoh's most distinctive feature.
-
-Building pyramids, obelisks, and mastabas required coordinating vast numbers of workers, ensuring adequate supplies of stone, and maintaining construction access roads. The process could span years of in-game time, requiring sustained city prosperity to support the labor force.
-
-Monument construction requires road access and can take extended periods to complete, with some players reporting leaving the game running for days waiting for massive structures to finish[^ref-16].
-
-The satisfaction of completing a Great Pyramid after hours of careful planning and resource management created memorable gaming moments that players recall decades later.
-
-Each monument type presented unique construction challenges, with pyramids requiring internal chambers and burial goods while obelisks demanded precision placement of stone blocks.
+Monuments are new to the series: they can be built on a variety of missions, require worker facilities and building materials, and, unlike most other buildings, take time to be built[^ref-1]. GameSpot noted that most missions require monuments, which "get larger and more costly as you progress"[^ref-14]. Because the game avoids slavery, the labour has to come from work camps whose workers are housed and paid each month[^ref-17].
 
 ## Reception
 
@@ -98,48 +86,51 @@ Each monument type presented unique construction challenges, with pyramids requi
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| IGN | 9/10 | Trent C. Ward praised the game's depth and Egyptian setting[^ref-17] |
+| IGN | 9/10 | Trent C. Ward called it "a fantastic example of the genre"; Editors' Choice[^ref-17] |
 | GameSpot | 8.2/10 | Ron Dulin noted it was "an all-around better game than Caesar III"[^ref-14] |
-| Game Informer | 8.5/10 | Paul Bergren's review highlighted the educational value[^ref-1] |
-| PC Gamer (US) | 83% | Andrew S. Bub appreciated the historical accuracy[^ref-1] |
-| GameRankings | 82% | Aggregate score from multiple publications[^ref-18] |
-| jeuxvideo.com | 17/20 | French review praised the city management complexity[^ref-19] |
+| Game Informer | 8.5/10 | Reviewed by Paul Bergren[^ref-1] |
+| PC Gamer (US) | 83% | Reviewed by Andrew S. Bub[^ref-1] |
+| Eurogamer | 7/10 | Reviewed by John "Gestalt" Bye[^ref-1] |
+| GameRankings | 82.45% | Aggregate based on 29 reviews[^ref-18] |
+| jeuxvideo.com | 17/20 | Praised the clarity of the city management[^ref-19] |
 
 ### Modern Assessment
 
-GameSpot's Ron Dulin concluded that "Pharaoh is slow-paced but addictive and is immensely complex but incredibly easy to play"[^ref-14]. The game received the IGN Editors' Choice award and was a finalist for Outstanding Achievement in Art Direction at the 3rd Annual Interactive Achievement Awards[^ref-9]. Modern retrospectives have been more critical, with Jimmy Maher noting design issues such as "the excruciating worker-recruitment system" and "the drawn-out, repetitive campaign"[^ref-20]. The GOG.com version maintains a strong 4.7/5 rating from 290 user reviews[^ref-7].
+GameSpot's Ron Dulin concluded that "Pharaoh is slow-paced but addictive and is immensely complex but incredibly easy to play"[^ref-14]. IGN gave the game its Editors' Choice award[^ref-17], and the Academy of Interactive Arts & Sciences named it a finalist for Outstanding Achievement in Art Direction at the 3rd Annual Interactive Achievement Awards[^ref-1]. Modern retrospectives have been more critical: Jimmy Maher wrote that he "desperately wanted to love Pharaoh" but cited "the excruciating worker-recruitment system" and "the drawn-out, repetitive campaign"[^ref-20]. As of October 2026 the GOG.com Pharaoh + Cleopatra release holds a 4.7/5 rating from 332 user reviews[^ref-7].
+
+### Sales
+
+In April 2000 the German trade body VUD gave Pharaoh a "Gold" award, indicating sales of at least 100,000 units across Germany, Austria and Switzerland; according to MeriStation, its combined global sales with Caesar III passed 1 million units by July 2000[^ref-1].
 
 ## Development
 
 ### Origins
 
-Impressions Games decided to move away from Roman themes after Caesar III's success, choosing ancient Egypt as their next setting[^ref-21]. The development team resisted the common trend of switching to 3D engines, instead persevering with their proven 2D interface system[^ref-9]. Extensive research was conducted with professional Egyptologists to ensure historical authenticity, with the team consulting documentary sources and archaeological evidence[^ref-4].
+Impressions followed Caesar III with a move to ancient Egypt, building Pharaoh on the same engine[^ref-12]. The game's help menu and manual include limited encyclopedic information about ancient Egyptian practices[^ref-1], and jeuxvideo.com observed that players finish the game knowing much more about Egyptian customs and ways of life[^ref-19].
 
 ### Production
 
-The game was developed using a modified version of the Caesar III engine, with Chris Beatrice serving as the primary developer liaison with the community[^ref-5]. The composers Henry Beckett and Keith Zizza faced unique challenges, noting "no one really knows what the music in the time of the Pharaohs sounded like," leading them to research other artists' interpretations and reference films like "The Ten Commandments"[^ref-5]. The music system was designed around three kingdoms corresponding to Egypt's historical periods, with 43 total soundtrack files totaling 101 MB[^ref-22].
+Chris Beatrice was the game's lead designer, with Ken Parker and Greg Sheppard as producers, Darrin Horbal as art director and Lisa Gagnon as writer; Gabe Farris is credited among the programmers[^ref-6][^ref-25]. The composers Henry Beckett and Keith Zizza faced unique challenges, noting "no one really knows what the music in the time of the Pharaohs sounded like," leading them to listen to other artists' interpretations and to watch "The Ten Commandments" more than once[^ref-5].
 
-### Technical Achievements
+### Release
 
-The game featured detailed Egyptian architecture and authentic historical elements, with the development team conducting extensive documentary research[^ref-9]. System requirements included a Pentium 133 MHz processor, 32MB RAM, and 360MB storage space[^ref-3]. The game supported DirectX 6 compatibility and included features like a global worker pool toggle and improved trading mechanics compared to Caesar III[^ref-3].
+Pharaoh was released in North America on 2 November 1999 and in the UK on 19 November 1999[^ref-1]. The retail CD offered small, medium and full installs[^ref-25]. The original game is still sold digitally, bundled with its expansion as Pharaoh + Cleopatra[^ref-7][^ref-26].
 
 ## Legacy
 
-Pharaoh was followed by the Cleopatra: Queen of the Nile expansion in 2000, developed by BreakAway Games rather than the original Impressions team[^ref-23]. The expansion added new campaigns, building types, and scenarios while maintaining compatibility with the base game. The game influenced subsequent city-builders and was considered a predecessor to Zeus: Master of Olympus, which was thought to have improved upon Pharaoh's design issues[^ref-9] by streamlining the walker system and adding more varied objectives.
+Pharaoh was followed by the Cleopatra: Queen of the Nile expansion in 2000, developed by BreakAway Games[^ref-23]. GameSpot found that the expansion "adds more of just about everything, from imports to monuments"[^ref-23], and Wikipedia notes it extended the campaign into the Hellenistic period; the two were bundled as Pharaoh Gold in 2001[^ref-1]. The next City Building game, Zeus: Master of Olympus, is considered in most respects very similar to Pharaoh[^ref-1], and Jimmy Maher wrote that it "fixed all of these problems and more"[^ref-20].
 
-In 2023, a complete remake titled "Pharaoh: A New Era" was released by Triskell Interactive and Dotemu, featuring 4K graphics and modernized gameplay while maintaining the original mechanics[^ref-24]. This remake demonstrated the enduring appeal of the original design, introducing the classic gameplay to new audiences while providing quality-of-life improvements for returning players. The original game's music was even used by the Luxor Las Vegas hotel website[^ref-5], demonstrating its cultural impact beyond gaming.
-
-Pharaoh remains one of the most beloved entries in the Impressions city-building series, alongside Caesar III and Zeus. The game's combination of historical education, strategic depth, and satisfying city construction has earned it a dedicated following that persists more than two decades after release. The active modding community continues to create new scenarios and campaigns, extending the game's lifespan far beyond its original release window.
-
-The game's influence extends to the broader city-building genre, establishing conventions for historical simulation games and demonstrating that educational content could be successfully integrated with engaging gameplay. Pharaoh proved that players would embrace complexity when it served authentic historical recreation, paving the way for subsequent historical city-builders and management simulations. The GOG.com version maintaining a strong 4.7/5 rating from 290 user reviews[^ref-7] demonstrates that the game continues to attract and satisfy players seeking deep, historically-grounded strategy experiences.
+A remake, Pharaoh: A New Era, was released by Triskell Interactive and Dotemu on 15 February 2023[^ref-1].
 
 ## Downloads
 
 **Purchase / Digital Stores**
 - [GOG.com - Pharaoh + Cleopatra](https://www.gog.com/en/game/pharaoh_cleopatra)
-- [Steam - Pharaoh: A New Era](https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/)
+- [Steam - Pharaoh + Cleopatra](https://store.steampowered.com/app/564530/)
 
 **Download / Preservation**
+- [Pharaoh Demo (Internet Archive)](https://archive.org/details/PharaohDemo) – official three-mission demo
+- [Pharaoh manual (PDF, Wayback Machine)](https://web.archive.org/web/20200827112813/http://sierrahelp.com/Documents/Manuals/Pharaoh_-_Manual.pdf)
 
 ## See Also
 
@@ -149,27 +140,23 @@ The game's influence extends to the broader city-building genre, establishing co
 
 ## References
 
-[^ref-1]: [Wikipedia - Pharaoh (video game)](https://en.wikipedia.org/wiki/Pharaoh_(video_game) – ) - Basic game information, developer, publisher, release year
-[^ref-2]: Internet Archive - Pharaoh *(download link removed: the game is sold commercially)* – - Game description and series information
-[^ref-3]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Pharaoh) – - Engine and technical details
-[^ref-4]: [Common Sense Media Review](https://www.commonsensemedia.org/game-reviews/pharaoh-a-new-era) – - Development consultation with Egyptologists
-[^ref-5]: [Caesar3 Heaven Games Forum](https://caesar3.heavengames.com/cgi-bin/forums/display.cgi?action=ct&f=1,4992,575,all) – - Composer quotes about game scope
-[^ref-6]: [IMDb - Pharaoh](https://www.imdb.com/title/tt6168932/) – - Designer credits
-[^ref-7]: [GOG.com - Pharaoh + Cleopatra](https://www.gog.com/en/game/pharaoh_cleopatra) – - Platform availability
-[^ref-8]: [Pharaoh Heaven Games](https://pharaoh.heavengames.com/walkthroughs/) – - Campaign structure and mission count
-[^ref-9]: [TV Tropes - Pharaoh](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Pharaoh) – - Easter eggs including Moses appearance
-[^ref-10]: [The Spoiler - Pharaoh Guide](https://strategygamers.com/walkthrough/pharaoh) – - Religious system mechanics
-[^ref-11]: [MobyGames - Pharaoh](https://www.mobygames.com/game/538/pharaoh/) – - Technical specifications and graphics details
-[^ref-12]: [Eurogamer Review](https://www.eurogamer.net/pharaoh) – - Walker system criticism
-[^ref-13]: [Strategy Wiki - Pharaoh](https://strategywiki.org/wiki/Pharaoh) – - Control scheme and interface
-[^ref-14]: [GameSpot Review](https://www.gamespot.com/reviews/pharaoh-review/1900-2545838/) – - Egyptian-specific gameplay mechanics
-[^ref-15]: [Caesar3 Heaven Games Mechanics Forum](https://caesar3.heavengames.com/cgi-bin/caeforumscgi/display.cgi?action=ct&f=25,7976,0,365) – - Walker movement and bazaar range data
-[^ref-16]: Abandonware DOS *(download link removed: the game is sold commercially)* – - User comment about monument construction times
-[^ref-17]: [IGN Review](https://www.ign.com/articles/1999/11/13/pharaoh) – - Contemporary review score and assessment
-[^ref-18]: [Archived GameRankings](https://web.archive.org/web/20190525131840/https://www.gamerankings.com/pc/198289-pharaoh/index.html) – - Aggregate review score
-[^ref-19]: [Jeuxvideo.com Review](https://www.jeuxvideo.com/articles/0000/00000335_test.htm) – - French review score
-[^ref-20]: [The Digital Antiquarian](https://www.filfre.net/?s=Pharaoh) – - Modern critical assessment
-[^ref-21]: [Reddit - Impressions Games](https://www.reddit.com/r/impressionsgames/comments/156yo8h/the_making_of_pharaoh/) – - Development origins
-[^ref-22]: [KH Insider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/pharaoh) – - Soundtrack technical details
-[^ref-23]: [GameSpot - Cleopatra Review](https://www.gamespot.com/reviews/cleopatra-review/1900-2610569/) – - Expansion development by BreakAway Games
-[^ref-24]: [Steam - Pharaoh: A New Era](https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/) – - 2023 remake information
+[^ref-1]: [Wikipedia – Pharaoh (video game)](https://en.wikipedia.org/wiki/Pharaoh_%28video_game%29) – release dates, credits, gameplay, review scores, awards, sales, expansion and remake
+[^ref-3]: [PCGamingWiki – Pharaoh](https://www.pcgamingwiki.com/wiki/Pharaoh) – minimum and recommended system requirements
+[^ref-5]: [Heaven Games City Builders Forums – Music in Pharaoh and Cleopatra](https://caesar3.heavengames.com/cgi-bin/forums/display.cgi?action=ct&f=1,4992,575,all) – composers' notes by Henry Beckett and Keith Zizza
+[^ref-6]: [MobyGames – Pharaoh credits (Windows)](https://www.mobygames.com/game/538/pharaoh/credits/windows/) – lead designer, producers, programmers and other credits
+[^ref-7]: [GOG.com – Pharaoh + Cleopatra](https://www.gog.com/en/game/pharaoh_cleopatra) – current availability (Windows) and user rating
+[^ref-8]: [Pharaoh Heaven – Walkthroughs](https://pharaoh.heavengames.com/walkthroughs/) – campaign periods and mission list
+[^ref-9]: [TV Tropes – Pharaoh](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Pharaoh) – divine punishments for neglecting each god
+[^ref-10]: [Strategy Gamers – Pharaoh: The Complete Guide (Dan Simpson & Jim Chamberlin, GameFAQs FAQ mirror)](https://strategygamers.com/walkthrough/pharaoh) – temples, festivals and religious mechanics
+[^ref-11]: [MobyGames – Pharaoh](https://www.mobygames.com/game/538/pharaoh/) – game description, perspective, specs
+[^ref-12]: [Eurogamer – Pharaoh review](https://www.eurogamer.net/pharaoh) – change of scenery, Caesar III engine, walker system criticism
+[^ref-13]: [StrategyWiki – Pharaoh](https://strategywiki.org/wiki/Pharaoh) – platform (Windows) and game overview
+[^ref-14]: [GameSpot – Pharaoh Review](https://www.gamespot.com/reviews/pharaoh-review/1900-2545838/) – Egyptian-specific mechanics, roadblocks, monuments, verdict
+[^ref-15]: [Heaven Games City Builders Forums – A comprehensive guide of all aspects](https://caesar3.heavengames.com/cgi-bin/caeforumscgi/display.cgi?action=ct&f=25,7976,0,365) – walker movement and bazaar range data
+[^ref-17]: [IGN – Pharaoh review](https://www.ign.com/articles/1999/11/13/pharaoh) – score, Editors' Choice, work camps and absence of slavery
+[^ref-18]: [GameRankings – Pharaoh (archived)](https://web.archive.org/web/20190525131840/https://www.gamerankings.com/pc/198289-pharaoh/index.html) – aggregate review score
+[^ref-19]: [Jeuxvideo.com – Test: Pharaon](https://www.jeuxvideo.com/articles/0000/00000335_test.htm) – French review score, mission count, documentary research
+[^ref-20]: [The Digital Antiquarian – It's 1999 and I Feel Fine](https://www.filfre.net/2025/06/its-1999-and-i-feel-fine/) – Jimmy Maher's assessment of Pharaoh and Zeus
+[^ref-23]: [GameSpot – Cleopatra Review](https://www.gamespot.com/reviews/cleopatra-review/1900-2610569/) – expansion developed by BreakAway Games
+[^ref-25]: [Pharaoh manual (Sierra Studios, archived PDF)](https://web.archive.org/web/20200827112813/http://sierrahelp.com/Documents/Manuals/Pharaoh_-_Manual.pdf) – credits and installation options
+[^ref-26]: [Steam – Pharaoh + Cleopatra](https://store.steampowered.com/app/564530/) – original game currently sold as Pharaoh + Cleopatra
