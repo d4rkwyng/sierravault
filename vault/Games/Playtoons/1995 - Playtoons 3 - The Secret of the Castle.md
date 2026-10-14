@@ -2,7 +2,7 @@
 title: 'Playtoons 3: Secret of the Castle'
 release_year: 1995
 developer: Coktel Vision
-designer: []
+designer: [Jeff Rey]
 publisher: Sierra On-Line
 genre: Educational
 platforms: [Windows 3.x, Windows 95, Mac]
@@ -10,99 +10,101 @@ series: Playtoons
 engine: Gob Engine
 protagonist: Prince Arthur
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-09'
-composer: ['Big Wheels, Charles Callet']
-description: 'Playtoons 3: Secret of the Castle is a children''s creativity and interactive
-  storybook game developed by Coktel Vision and published by Sierra On-Line in...'
+last_updated: '2026-10-13'
+composer: [Big Wheels, Charles Callet]
+description: 'Playtoons 3: Secret of the Castle is a 1995 Coktel Vision interactive storybook and animation construction kit for Windows and Mac, set in medieval Pendragon Castle and published by Sierra On-Line.'
 tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 3: Secret of the Castle
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Playtoons 3: Secret of the Castle is a children's creativity and interactive storybook game developed by [[Coktel Vision]] and published by Sierra On-Line in 1995.[^ref-1][^ref-2][^ref-16][^ref-17][^ref-19][^ref-20] As the third entry in the Playtoons series, the game places the latest multimedia techniques in the hands of youngsters, combining an interactive comic book experience with a powerful animation creation toolkit.[^ref-3] Set in medieval Pendragon Castle, the game follows Prince Arthur and his family as they guard a precious secret threatened by invading barbarian hordes.[^ref-4]
+Playtoons 3: Secret of the Castle is a children's creativity and interactive storybook game developed by [[Coktel Vision]] and published by Sierra On-Line in 1995.[^ref-1][^ref-2][^ref-17] As the third entry in the Playtoons series, it pairs an animated interactive story with a construction game that its North American packaging describes as one that "places the latest multimedia techniques in the hands of youngsters."[^ref-3] The story is set at Pendragon Castle, where Prince Arthur lives with his family and the castle's knights keep a precious secret until barbarian hordes appear on the horizon.[^ref-3]
 
-The Playtoons series represents an innovative approach to children's educational software, focusing on teaching school topics in a digital format designed to be more engaging for kids.[^ref-5] Like its predecessors, Secret of the Castle allows players to both experience a pre-made interactive story and create their own animated tales using an integrated editor tool that provides background scenery, props, and characters that can be added to scenes and manipulated.[^ref-6] The game was notable for being the first Playtoons title to implement construction kit backgrounds, items, characters, and animations directly into its story panels, blurring the line between the narrative experience and creative gameplay.[^ref-7]
+Wikipedia describes the Playtoons series as focused on teaching children school topics in a digital format meant to be more enthralling for kids.[^ref-5] Like the other volumes, Secret of the Castle lets players read an interactive comic-book story and also build their own animated stories with an integrated editor that provides background scenery, props, and characters which can be added to a scene and interacted with.[^ref-6] According to The Sierra Chest, it was the first Playtoons title to use construction kit backgrounds, items, characters and animations in some of its story panels.[^ref-7]
 
-Released initially in France and Germany in 1995, the game arrived in the United States and Canada the following year in 1996.[^ref-8][^ref-9] As a construction game targeting children ages 6 and up, it offered cross-compatibility with other Playtoons titles, meaning that if multiple games from the series were installed, assets from all games became available in the editor.[^ref-3][^ref-6][^ref-11][^ref-13][^ref-14]
+The game was released in France and Germany in 1995 and in the United States in 1996.[^ref-8][^ref-21] Sierra's North American packaging recommended it for ages 6 and up, while Abandonware France describes the collection as aimed at children aged 4 to 10.[^ref-3][^ref-11] If several Playtoons titles are installed, the assets from all of them become available in the editor.[^ref-3][^ref-5][^ref-6][^ref-11]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
-> **Designer:** Coktel Vision internal team (no individual designer credit)[^ref-1][^ref-7]
+> **Designer:** Jeff Rey (story writer and artistic director)[^ref-22]
 > **Publisher:** [[Sierra On-Line]][^ref-2]
 > **Engine:** Gob Engine[^ref-7]
 > **Platforms:** Windows 3.x, Windows 95, Macintosh[^ref-1][^ref-3]
-> **Release Year:** 1995 (Europe), 1996 (North America)[^ref-8]
+> **Release Year:** 1995 (Europe), 1996 (North America)[^ref-21]
 > **Series:** Playtoons
 > **Protagonist:** Prince Arthur
-> **Sierra Lineage:** Coktel Vision
+> **Sierra Lineage:** Sierra Label (Coktel)
+> **Composer:** Big Wheels, Charles Callet[^ref-22]
 
 ## Story Summary
 
-The narrative of Playtoons 3: Secret of the Castle unfolds within the walls of Pendragon Castle, where Prince Arthur lives peacefully with his family.[^ref-3] The castle and its loyal knights have faithfully kept a precious secret for generations, protecting it from those who would seek to exploit its power.[^ref-4] This idyllic existence comes under threat when barbarian hordes appear on the horizon, darkening the sky with their approach and placing everything the castle's inhabitants hold dear in jeopardy.[^ref-3]
+The Sierra Chest's synopsis sets the story in the kingdom of Avalon, ruled by good King Hector. The king, Queen Eleanor and their children Arthur and Marianne live in the highest tower of the castle (spelled "Pentragorn" on that site; the packaging calls it Pendragon Castle), guarded by knights who protect the family from barbarian invasions. Arthur often tries to talk to the knights, but they only look at him silently.[^ref-7][^ref-3]
 
-The interactive story draws children into a script designed to make them "tremble with excitement or burst out laughing," as described in promotional materials.[^ref-7] Players progress through the tale by reading and listening to narration while engaging with animated elements on each page. The mystery of the castle's secret forms the central narrative thread, which must be uncovered in the course of the story.[^ref-4][^ref-6]
+One night Arthur's curiosity leads him to the knights' chamber and then down a secret passage to a great hall, where he sees the king seemingly plunge both arms into a knight's stomach. The next day his father explains the secret: the knights are ingenious mechanical devices. Their ancestor, Allosius the Ingenious, began building mechanical knights so that the kingdom would not lose its brave knights in the fighting against the barbarians, but died before finishing them, and the king continues his work. Just as Arthur learns the secret, a vast barbarian army attacks the castle.[^ref-7]
 
-Unlike purely linear storybooks, Playtoons 3 features branching paths that allow players to jump to any page in the story, with some pages leading to unlisted pages that expand the narrative experience.[^ref-5] This non-linear structure encourages exploration and repeated playthroughs as children discover new story branches and outcomes.
+MobyGames summarizes the plot as a secret kept by the castle's knights which has to be uncovered in the course of the story.[^ref-1] The Sierra Chest's description of the series says the child "reads, listens and becomes drawn into a script that will make them tremble with excitement or burst out laughing."[^ref-7] According to the packaging, approximately 100 animations can be triggered during the story's animated sequences.[^ref-3]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Playtoons 3: Secret of the Castle operates as a point-and-click adventure and interactive storybook hybrid.[^ref-5] The game presents animated comic book pages where players can click on various elements to trigger animations, advance dialogue, and progress through the story. A permanent voice aid feature assists younger users who may not yet be reading fluently, with narration accompanying all text.[^ref-3]
+Wikipedia classes the Playtoons series as point-and-click adventure and interactive storybook games.[^ref-5] Each story page starts with narrated text, and clicking items or people when the cursor changes starts an animation.[^ref-1] Abandonware France describes the story as built like a cartoon, with animated transition screens and still pictures whose animations appear when clicked; the text can be shown or hidden, and clicking a word has the narrator read it.[^ref-11] The packaging lists "a permanent voice aid to help younger users."[^ref-3]
 
-The interface includes bilingual Spanish language support, offering an introduction to Spanish through fun interactive elements designed to help children learn while playing.[^ref-3] This educational component aligns with the series' goal of teaching school topics in an engaging digital format.[^ref-5]
+Language options varied by release. The North American packaging advertises an "introduction to Spanish with fun bilingual," while Abandonware France notes that in the French release clicking the flag switches the text and voice to English.[^ref-3][^ref-11] Wikipedia notes that, in addition to playing the story straight through, players can jump to any page, with some pages leading to unlisted pages.[^ref-5]
 
 ### Structure and Progression
 
-The game divides its content into two primary modes: story reading and creative construction.
+The game is divided into two parts: the story and the construction game.[^ref-11]
 
-- **Story Mode:** Players experience the interactive narrative of Prince Arthur and the Secret of the Castle, clicking through animated pages and making choices that affect their path through the story.[^ref-6]
-- **Construction Mode:** Using the integrated editor tool, players can create their own animated stories with the provided assets, including characters, backgrounds, and props.[^ref-4]
+- **Story Mode:** Players read and listen to the story of Prince Arthur page by page, triggering animations on each screen.[^ref-1][^ref-11]
+- **Construction Mode:** Using the construction kit, players can create their own story with the characters, backgrounds, and scenery from this game or from the other games in the series.[^ref-4]
 
-The construction kit provides 18 scenery options, over 60 stationary and animated objects, 6 new characters specific to this installment, and approximately 100 animations that can be combined in countless ways.[^ref-3]
+The construction kit adds 6 new characters, over 60 stationary and animated objects, and 18 scenery options in this title.[^ref-3] Players can create up to 20 scenes.[^ref-7]
 
 ### Puzzles and Mechanics
 
-Rather than traditional adventure game puzzles, Playtoons 3 emphasizes creative expression and story engagement. Key mechanics include:
+Rather than traditional adventure game puzzles, Playtoons 3 centres on its story and its construction game. Key mechanics include:
 
 - **Asset Placement:** Background scenery, props, and characters can be added to scenes and interacted with in the editor.[^ref-6]
-- **Animation Recording:** A built-in camera function allows players to create animated films complete with voice-overs.[^ref-7]
-- **Story Printing:** Created stories and cartoons can be printed for sharing outside the computer.[^ref-3]
-- **Cross-Game Compatibility:** Assets from other Playtoons titles become available if multiple games are installed, vastly expanding creative possibilities.[^ref-3][^ref-6]
-
-The game also includes a specific construction kit add-on titled "Monsters," which provides additional themed assets for story creation.[^ref-7]
+- **Animation Recording:** A built-in camera function lets players create their own animated film with voice-overs.[^ref-7]
+- **Story Printing:** Created stories and cartoons can be printed.[^ref-3]
+- **Cross-Game Compatibility:** Assets from other Playtoons titles become available if multiple games are installed.[^ref-3][^ref-6]
 
 ## Reception
 
 ### Contemporary Reviews
 
-Limited contemporary review data is available for Playtoons 3: Secret of the Castle. The game was positioned as children's entertainment software rather than a traditional game, which may account for reduced coverage in mainstream gaming publications of the era.
+MobyGames records one contemporary critic review. The German magazine Fun Online reviewed the Windows version in January 1996 and gave it a grade of 2 on a scale where lower is better, which MobyGames normalizes to 83%.[^ref-23] The review praised the "prächtigen Bildern und tollen Soundeffekten" (splendid pictures and great sound effects) and called the comic construction kit "prima ausgestattet" (well equipped).[^ref-23]
 
 ### Modern Assessment
 
-The game maintains a solid reputation among those who have revisited it, with MobyGames listing an aggregate score of 83%.[^ref-1] However, community engagement appears limited, with MyAbandonware showing a current rating of 0/5 based on minimal user reviews.[^ref-8][^ref-12][^ref-15]
+User ratings are sparse. On SensCritique the game averages 7.2/10 from 10 ratings.[^ref-12] MobyGames has no player reviews.[^ref-23]
 
-**Aggregate Scores:**
-- **MobyGames:** 83%[^ref-1]
-- **MyAbandonware:** 0/5 (limited reviews)[^ref-8]
+**Scores:**
+- **MobyGames (critics):** 83%, based on 1 review[^ref-23]
+- **SensCritique (users):** 7.2/10 from 10 ratings[^ref-12]
 
 ## Development
 
 ### Origins
 
-Playtoons 3: Secret of the Castle was developed by Coktel Vision, the French studio known for educational and children's software.[^ref-1][^ref-2] The Playtoons series was conceived as a platform for creative expression, allowing children to transition from passive story consumption to active story creation.[^ref-5] The medieval castle setting of the third installment provided a rich thematic foundation for both narrative and creative play.
+Playtoons 3: Secret of the Castle was developed by Coktel Vision.[^ref-1][^ref-2] MobyGames credits Jeff Rey as story writer and artistic director. He is also credited for graphics.[^ref-22]
 
 ### Production
 
-Development took place at Coktel Vision's facilities, with the game built on the studio's proprietary Gob engine—the same technology powering other Coktel titles including the Gobliiins series and various Adi educational games.[^ref-7] The game was designed to run on both PC and Macintosh platforms, with the development team creating a hybrid CD-ROM that could boot on either system.[^ref-6]
+The game runs on Coktel's Gob engine.[^ref-7] The ScummVM wiki identifies it as the DEV6 version of that engine.[^ref-4] ScummVM's Gob engine detection tables list Playtoons 3 in the same game list as the Gobliiins series and Coktel's ADI educational titles.[^ref-24] The English, German and French discs archived at Macintosh Repository are all hybrid Mac/PC CD-ROMs.[^ref-6]
 
-**Development Credits:**[^ref-1]
-- **Music:** Big Wheels, Charles Callet
+**Development Credits:**[^ref-22]
+- **Story Writer / Artistic Director:** Jeff Rey
+- **Graphics:** Jean-Christophe Charter, Frédéric Chauvelot, Jacques Dimier, Patrick Dumas, Kaki, Millimages, Pascal Pautrot, Jeff Rey
+- **Sound Track:** Big Wheels, Charles Callet
+- **Programming Manager:** Arnaud Delrue
+- **Project Manager:** Valérie Courtial
 
-The art direction for the Playtoons series was handled by Paco Salamander, who established the visual style that defined the series.[^ref-5]
+Wikipedia's infobox for the Playtoons series names Paco Salamander as the series' artist.[^ref-5] He does not appear in MobyGames' credits for this title.[^ref-22]
 
 ### Voice Cast
 
@@ -111,13 +113,11 @@ The art direction for the Playtoons series was handled by Paco Salamander, who e
 | German Version | Brigitta Scholtz |
 | German Version | Peter Semmler |
 
-[^ref-1]
+[^ref-22]
 
 ### Technical Achievements
 
-The Gob engine provided the foundation for the game's multimedia capabilities, supporting the complex layering of animated elements, audio playback, and user interaction required for both the story mode and construction kit.[^ref-7] The engine handled SVGA 256-color graphics, which was standard for children's multimedia titles of the era.[^ref-3]
-
-A significant technical achievement for Playtoons 3 was its implementation of construction kit assets directly within story panels—a first for the series.[^ref-7] This integration allowed for more dynamic storytelling where the line between pre-authored content and player-created content became increasingly blurred.
+Playtoons 3 was the first title in the series to use construction kit backgrounds, items, characters and animations in some of its story panels.[^ref-7] The game runs at 640×480 in 256 colours.[^ref-4]
 
 ### Technical Specifications
 
@@ -144,55 +144,53 @@ A significant technical achievement for Playtoons 3 was its implementation of co
 
 ### Version History
 
-| Version | Date | Platform | Region | Notes |
+| Release | Date | Platform | Region | Notes |
 |---------|------|----------|--------|-------|
-| 1.0 | 1995 | Windows 3.x | France, Germany | Initial European release[^ref-8] |
-| 1.0 | 1995 | Macintosh | Europe | Hybrid CD-ROM[^ref-6] |
-| 1.0 | 1996 | Windows 3.x/95 | USA, Canada | North American release[^ref-3][^ref-9] |
+| German release | 1995 | Windows 3.x, Macintosh | Germany | Published by Sierra On-Line; distributed by Sierra Coktel Deutschland[^ref-21] |
+| French release | 1995 | Windows 3.x, Macintosh | France | Published by Coktel Vision[^ref-21] |
+| North American release | 1996 | Windows 3.x/95, Macintosh | USA, Canada | Published by Sierra On-Line[^ref-21][^ref-3] |
 
-**Localized Versions:**[^ref-6]
-- **English:** 170.71 MiB ISO
-- **German:** 181.09 MiB ISO
-- **French:** 145.65 MiB ISO
+ScummVM's detection tables label one French and one English Windows variant as v1.002. They also list a French "Pack mes histoires animées" edition and further German and English variants that carry no version label.[^ref-25]
+
+**Localized Versions:** (compressed ISO images archived at Macintosh Repository, each a hybrid Mac/PC disc)[^ref-6]
+- **English:** 170.71 MiB
+- **German:** 181.09 MiB
+- **French:** 145.65 MiB
 
 **Product Information:**[^ref-3]
 - **Product ID:** 20626-93506
 - **UPC:** 020626935067
 - **Recommended Age:** 6+
+- **ESRB:** E[^ref-16]
 
 ### Easter Eggs and Trivia
 
-- **First with Integrated Assets:** Playtoons 3 was the first title in the series to implement construction kit backgrounds, items, characters, and animations directly within its story panels.[^ref-7]
-- **Monsters Add-On:** The game has a specific construction kit add-on titled "Monsters" that provides additional themed creative assets.[^ref-7]
+- **First with Integrated Assets:** Playtoons 3 was the first title in the series to use construction kit backgrounds, items, characters, and animations in some of its story panels.[^ref-7]
 - **Cross-Game Library:** Installing multiple Playtoons games creates a shared asset library, allowing children to combine elements from different titles in their creations.[^ref-3][^ref-6]
-- **Film Creation:** The built-in camera function allows recording of animated films with custom voice-overs, providing early exposure to animation principles.[^ref-7]
+- **Film Creation:** The built-in camera function lets players record their own animated films with voice-overs.[^ref-7]
 
 ## Legacy
 
 ### Collections
 
-Playtoons 3: Secret of the Castle was included in the eXoWin3x collection (Volumes 1-4), a preservation project for Windows 3.x software totaling approximately 1.8 GB.[^ref-8] The game is available through various abandonware archives as its commercial availability has lapsed.
+MyAbandonware's Windows 3.x download of Playtoons 3 is the eXoWin3x version (Volumes 1–4), a 1.8 GB file.[^ref-8]
 
-The Sierra Chest database documents EU (English) slipcover box versions of the game, with included content comprising trailers for Playtoons 1 and 2 as well as the game manual.[^ref-10]
+The Sierra Chest documents an EU (English) slipcover box release that comes with the game manual and includes trailers for Playtoons 1 and 2.[^ref-10]
 
 ### Fan Projects
 
-The game is supported by ScummVM for modern system compatibility, allowing it to run on contemporary operating systems without the need for period-accurate hardware or operating system emulation.[^ref-7]
+ScummVM's Gob engine includes detection entries for several Playtoons 3 releases.[^ref-25] However, the ScummVM wiki lists the game's support status as "No" and files it under Unsupported Games, so it cannot currently be played in ScummVM.[^ref-4]
 
 ### Related Publications
 
-- **Game Manual:** Included with retail release, covering both story mode and construction kit features[^ref-10]
-- **Trailers:** Playtoons 1 trailer 2 and Playtoons 2 trailer included on disc[^ref-10]
-
-### Critical Perspective
-
-Playtoons 3: Secret of the Castle represents an interesting point in the evolution of children's educational software during the mid-1990s multimedia boom. The game arrived during a period when CD-ROM technology was enabling increasingly ambitious interactive experiences for young users, and Coktel Vision positioned itself at the forefront of this movement with its combination of storytelling and creativity tools.
-
-The game's approach—offering both consumption and creation modes—anticipated later developments in game design that would emphasize user-generated content. While not significant in execution, the Playtoons series demonstrated an understanding that children could be empowered as creators rather than merely passive consumers of digital content. The medieval setting of Secret of the Castle, with its Arthurian themes and castle intrigue, provided accessible fantasy elements that appealed to the target demographic while teaching basic narrative concepts through interactive play.
+- **Game Manual:** Included in the EU (English) box[^ref-10]
+- **Trailers:** Playtoons 1 trailer 2 and Playtoons 2 trailer included[^ref-10]
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/playtoons-3-the-secret-of-the-castle)
+Not currently sold on modern digital storefronts. GOG lists it only as a fan-requested wishlist entry:
+
+- [GOG Dreamlist (wishlist entry, not a store page)](https://www.gog.com/dreamlist/game/playtoons-3-the-secret-of-the-castle)
 
 ## Downloads
 
@@ -212,22 +210,21 @@ The game's approach—offering both consumption and creation modes—anticipated
 
 ## References
 
-[^ref-1]: [MobyGames – Playtoons 3: The Secret of the Castle](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/) – developer, publisher, composers, voice cast, platforms, rating
+[^ref-1]: [MobyGames – Playtoons 3: The Secret of the Castle](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/) – developer, publisher, platforms, game description, screenshot captions
 [^ref-2]: [GameFAQs – Playtoons 3: The Secret of the Castle](https://gamefaqs.gamespot.com/pc/591380-playtoons-3-the-secret-of-the-castle) – developer, publisher, release year, platforms
-[^ref-3]: [ELI Software Encyclopedia – Playtoons 3](https://elisoftware.org/w/index.php?title=Playtoons_3_Secret_Of_The_Castle_(PC_and_Mac,_CD-ROM)_Sierra_-_1996_USA,_Canada_Release) – technical specifications, features, system requirements, product info
-[^ref-4]: [ScummVM Wiki – Playtoons 3](https://wiki.scummvm.org/index.php/Playtoons_3:_The_Secret_of_the_Castle) – engine compatibility, technical details
-[^ref-5]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, developer, artist, genres, educational focus
-[^ref-6]: [Macintosh Repository – Playtoons 3](https://www.macintoshrepository.org/4813-playtoons-3-the-secret-of-the-castle) – file sizes, compatibility, version information, story details
-[^ref-7]: [The Sierra Chest – Playtoons 3](https://www.sierrachest.com/index.php?a=games&id=326&title=playtoons-3&fld=general) – engine, trivia, construction kit features, add-ons
-[^ref-8]: [MyAbandonware – Playtoons 3](https://www.myabandonware.com/game/playtoons-3-the-secret-of-the-castle-yr8) – regional release dates, user ratings, download information
-[^ref-9]: [UVList – Playtoons 3](https://www.uvlist.net/game-37959-Playtoons+3%3A+The+Secret+of+the+Castle) – game database entry, platform information
+[^ref-3]: [ELI Software Encyclopedia – Playtoons 3](https://elisoftware.org/w/index.php?title=Playtoons_3_Secret_Of_The_Castle_(PC_and_Mac,_CD-ROM)_Sierra_-_1996_USA,_Canada_Release) – packaging text, features, system requirements, product info (1996 USA/Canada release)
+[^ref-4]: [ScummVM Wiki – Playtoons 3 - The Secret of the Castle](https://wiki.scummvm.org/index.php?title=Playtoons_3_-_The_Secret_of_the_Castle) – Gob (DEV6) engine, 640x480 256 colours, Support: No, Unsupported Games category
+[^ref-5]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, genres, artist, educational focus, page-jumping, mixing assets across the series
+[^ref-6]: [Macintosh Repository – Playtoons 3](https://www.macintoshrepository.org/4813-playtoons-3-the-secret-of-the-castle) – hybrid Mac/PC disc images, file sizes, Mac OS 7.1–9.2, 68K + PPC
+[^ref-7]: [The Sierra Chest – Playtoons 3](https://www.sierrachest.com/index.php?a=games&id=326&title=playtoons-3&fld=general) – Gob engine, synopsis, first title with kit assets in story panels, 20 scenes, camera with voice-overs
+[^ref-8]: [MyAbandonware – Playtoons 3](https://www.myabandonware.com/game/playtoons-3-the-secret-of-the-castle-yr8) – regional release years, eXoWin3x download (1.8 GB)
 [^ref-10]: [The Sierra Chest – Box Information](https://sierrachest.com/index.php?a=games&id=326&title=playtoons-3&fld=box) – packaging details, included content
-[^ref-11]: [Abandonware France – Playtoons 3](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1225) – French release information, game preservation archive
-[^ref-12]: [SensCritique – Playtoons 3 Game Review](https://www.senscritique.com/jeuvideo/playtoons_3_le_secret_du_chateau/408375) – community reviews and ratings
-[^ref-13]: [Internet Archive – Playtoons 3 Collection](https://archive.org/details/playtoons-3) – game preservation documentation, archive entry
-[^ref-14]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview: players make animations using characters, backgrounds and props "from either a single game or a mixture from the full series"
-[^ref-15]: [Metacritic – Playtoons 3](https://www.metacritic.com/game/playtoons-3-the-secret-of-the-castle/) – aggregated reviews and critical assessment
-[^ref-16]: [IGDB – Playtoons 3: The Secret of the Castle](https://www.igdb.com/games/playtoons-3-the-secret-of-the-castle) — Internet Games Database entry, multi-platform listing
-[^ref-17]: [LaunchBox Games Database – Playtoons 3](https://gamesdb.launchbox-app.com/games/details/playtoons-3-the-secret-of-the-castle) — community-curated metadata, cover-art reference
-[^ref-19]: [Adventure Classic Gaming – Coktel Vision developer retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for Coktel Vision's Sierra-published children's titles
-[^ref-20]: [Kiddle Encyclopedia – Playtoons](https://kids.kiddle.co/Playtoons) — series overview including Playtoons 3 plot and characters
+[^ref-11]: [Abandonware France – Playtoons 3 : Le Secret du château](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1225) – story structure, English flag option, ages 4–10, assets shared across volumes
+[^ref-12]: [SensCritique – Playtoons 3 : Le Secret du château](https://www.senscritique.com/jeuvideo/playtoons_3_le_secret_du_chateau/408375) – community rating 7.2/10 from 10 ratings
+[^ref-16]: [IGDB – Playtoons: The Secret of the Castle](https://www.igdb.com/games/playtoons-the-secret-of-the-castle) – database entry; ESRB E age rating
+[^ref-17]: [LaunchBox Games Database – Playtoons 3 - The Secret of the Castle](https://gamesdb.launchbox-app.com/games/details/93206-playtoons-3-secret-of-the-castle) – developer Coktel Vision; publishers Coktel Vision, Sierra On-Line
+[^ref-21]: [MobyGames – Playtoons 3 releases](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/releases/) – 1995 Germany and France, 1996 United States, for Windows 16-bit and Macintosh
+[^ref-22]: [MobyGames – Playtoons 3 credits](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/credits/) – Jeff Rey (story writer, artistic director), sound track, German voices, programming and project credits
+[^ref-23]: [MobyGames – Playtoons 3 reviews](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/reviews/) – Fun Online (Germany), January 1996, grade 2 (83%); no player reviews
+[^ref-24]: [ScummVM source – engines/gob/detection/tables.h](https://github.com/scummvm/scummvm/blob/master/engines/gob/detection/tables.h) – Gob engine game list including Gobliiins, ADI titles and Playtoons 3
+[^ref-25]: [ScummVM source – engines/gob/detection/tables_playtoons.h](https://github.com/scummvm/scummvm/blob/master/engines/gob/detection/tables_playtoons.h) – Playtoons 3 detection entries, including v1.002 French and English Windows variants
