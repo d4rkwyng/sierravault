@@ -163,7 +163,7 @@ Despite technical obsolescence, the game continues to attract interest from retr
 [^ref-17]: [MobyGames Main Entry](https://www.mobygames.com/game/665/shivers-two-harvest-of-souls/) – - Development details and cast information
 [^ref-18]: [Wikipedia Article](https://en.wikipedia.org/wiki/Shivers_II:_Harvest_of_Souls) – - Review scores and critical reception
 [^ref-19]: [GameSpot Cheats](https://www.gamespot.com/games/shivers-two-harvest-of-souls/cheats/) – - Plot assessment and rating
-[^ref-21]: [MobyGames Search](https://www.mobygames.com/search/?q=Shivers+Two%3A+Harvest+of+Souls) – - Additional review aggregation data
+[^ref-21]: [MobyGames – Shivers Two: Harvest of Souls](https://www.mobygames.com/game/665/shivers-two-harvest-of-souls/) – - Additional review aggregation data
 [^ref-22]: [Metacritic](https://www.metacritic.com/game/shivers-two-harvest-of-souls/) – - User review scores and detailed player feedback
 [^ref-23]: [Game Pressure Mod](https://www.gamepressure.com/download.asp?ID=75909) – - Technical compatibility issues and community solutions
 [^ref-24]: [eBay Listing 2](https://www.ebay.com/p/56206854) – - Cast information and development timeline

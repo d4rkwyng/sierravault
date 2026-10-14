@@ -171,5 +171,5 @@ Wikipedia's series article concludes that Front Page Sports Football "made it po
 [^ref-16]: [Digital Antiquarian](https://www.filfre.net/?s=Front+Page+Sports%3A+Football+Pro) – - Jimmy Maher on Dynamix in 1994 (search-results page)
 [^ref-17]: [GameSurge](https://www.gamesurge.com/pc/strategy/pc_wt/Front.shtml) – - Performance issues
 [^ref-19]: [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – - Technical bug description
-[^ref-20]: [MobyGames](https://www.mobygames.com/search/?q=Front+Page+Sports%3A+Football+Pro) – - Series release years ('95: Oct 25, 1994; '96: 1995; '97: 1996; '98: Nov 3, 1997)
+[^ref-20]: [MobyGames](https://www.mobygames.com/group/445/front-page-sports-series/) – - Series release years ('95: Oct 25, 1994; '96: 1995; '97: 1996; '98: Nov 3, 1997)
 [^ref-22]: [Steam Community](https://steamcommunity.com/app/316700) – Cyanide Studio 2014 Front Page Sports Football Steam community page

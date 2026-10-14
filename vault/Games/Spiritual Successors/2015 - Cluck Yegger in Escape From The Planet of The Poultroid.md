@@ -261,5 +261,5 @@ The macOS version is not compatible with macOS 10.15 Catalina or later versions[
 [^ref-18]: [MobyGames – Cluck Yegger Credits](https://www.mobygames.com/game/92413/cluck-yegger-in-escape-from-the-planet-of-the-poultroid/) – voice cast, composers, platforms
 [^ref-19]: [Guys From Andromeda Forums – Bug Reports](https://forum.guysfromandromeda.com/forum/40-cluck-yegger-in-escape-from-the-planet-of-the-poultroid/) – Linux issues, VO button, camera problems
 [^ref-20]: [IMDB – Game Entry](https://www.imdb.com/title/tt5248286/) – release date, voice cast confirmation
-[^ref-21]: [MobyGames – Search Results](https://www.mobygames.com/search/?q=Cluck+Yegger+in+Escape+from+the+Planet+of+the+Poultroid) – platform release dates
+[^ref-21]: [MobyGames – Cluck Yegger in Escape from the Planet of the Poultroid](https://www.mobygames.com/game/92413/cluck-yegger-in-escape-from-the-planet-of-the-poultroid/) – platform release dates
 [^ref-23]: [MobyGames – SpaceVenture Credits](https://www.mobygames.com/game/192353/spaceventure/credits/windows/) – Mike Schiff as Cluck Yegger, connection to SpaceVenture

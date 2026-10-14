@@ -137,7 +137,7 @@ Field & Stream: Trophy Bass 4 is not currently available on modern digital store
 [^ref-8]: [GameSpot – Field & Stream: Trophy Bass 4 Review](http://www.gamespot.com/pc/sports/fieldstreamtrophybass4/review.html) – 8.2/10 by Stephen Poole, 640x480, Force Feedback, WON.net, multimedia tips
 [^ref-9]: MyAbandonware – Field & Stream: Trophy Bass 4 *(link removed: it led to a different game's page)* – 4.75/5 rating, preservation download
 [^ref-10]: [CNET Download – Trophy Bass 4](https://download.cnet.com/trophy-bass-4/3000-7536_4-10006451.html) – 4.2/5 user rating
-[^ref-11]: [MobyGames – Trophy Bass Series](https://www.mobygames.com/search/?q=Trophy+Bass) – Series timeline
+[^ref-11]: [MobyGames – Trophy Bass Series](https://www.mobygames.com/group/724/trophy-bass-games/) – Series timeline
 [^ref-12]: [Steam Search – Trophy Bass](https://store.steampowered.com/search/?term=Trophy+Bass) – Not available on Steam
 [^ref-13]: [GOG Community – Trophy Bass](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) – Community preservation requests
 [^ref-14]: [Internet Archive – Trophy Bass 4](https://archive.org/details/trophy-bass-4-fishing-full-standalone) – Full game preservation

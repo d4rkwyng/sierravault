@@ -288,7 +288,7 @@ Within the broader context of strategy gaming, Zeus and Poseidon represent a ref
 [^ref-16]: [MobyGames – Release Information](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/releases/) – release dates by region, retail price
 [^ref-17]: [GamePressure – Patch 2.1](https://www.gamepressure.com/download/poseidon-zeus-official-expansion-v21-patch/zb4cd) – patch notes, bug fixes, release date
 [^ref-18]: MyAbandonware – Poseidon *(download link removed: the game is sold commercially)* – release regions, patch versions, expansion requirement
-[^ref-19]: [MobyGames – Search Results](https://www.mobygames.com/search/?q=Poseidon%3A+Zeus+Official+Expansion) – alternate international titles
+[^ref-19]: [MobyGames – Poseidon: Zeus Official Expansion](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/) – alternate international titles
 [^ref-20]: [GOGDB – Zeus + Poseidon](https://www.gogdb.org/product/1207659039) – GOG release date, download size, version information
 [^ref-21]: [VGTimes](https://www.vgtimes.com/games/poseidon-zeus-official-expansion/?amp=1) – genre classification, alternate titles
 [^ref-22]: [eBay Product Listing](https://www.ebay.com/itm/154867746470) – developer, publisher, ESRB rating

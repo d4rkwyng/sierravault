@@ -313,7 +313,7 @@ Critics split on whether the game's scale was a strength. GameSpot warned that "
 [^ref-31]: [GOGdb – Empire Earth Release Notes](https://www.gogdb.org/product/1207658777/releasenotes) – patch notes, compatibility fixes
 [^ref-32]: [Eeggs.com – Empire Earth Cheats](https://eeggs.com/items/31645.html) – cheat codes, user ratings
 [^ref-33]: [The Cutting Room Floor – Empire Earth](https://tcrf.net/Empire_Earth) – unused content references
-[^ref-34]: [MobyGames – Empire Earth Search](https://www.mobygames.com/search/?q=Empire+Earth) – series chronology, Rebellion acquisition
+[^ref-34]: [MobyGames – Empire Earth series](https://www.mobygames.com/group/1035/empire-earth-series/) – series chronology, Rebellion acquisition
 [^ref-35]: [GameSpot – Empire Earth Updated Preview](https://www.gamespot.com/articles/empire-earth-updated-preview/1100-2809466/) – Goodman's goal to "become the industry's premier developer in real-time strategy games"
 [^ref-36]: [GameSpot – Empire Earth: The Art of Conquest Review (Wayback Machine)](https://web.archive.org/web/20070930065525/http://www.gamespot.com/pc/strategy/empireearththeartofc/review.html?sid=2881249) – Tom Chick review, 5.2 score
 [^ref-37]: [Empire Earth Fandom Wiki – Series](https://empireearth.fandom.com/wiki/Empire_Earth_(Series)) – sequel development, studio history

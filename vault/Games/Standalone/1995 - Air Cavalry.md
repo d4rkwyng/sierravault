@@ -259,7 +259,7 @@ Air Cavalry's legacy is primarily as a curiosity for collectors and retro gaming
 [^ref-12]: [eBay – Air Cavalry Listing](https://www.ebay.com/itm/155666048672) – user ratings, publisher information
 [^ref-13]: [Amazon – Air Cavalry Super Nintendo](https://www.amazon.com/Air-Cavalry-Super-Nintendo/dp/B000035Y4Z) – customer ratings, publisher information
 [^ref-14]: [SuperFamicom.org – Air Cavalry](https://superfamicom.org/info/air-cavalry) – ROM specifications, hash data, product codes
-[^ref-15]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Air+Cavalry) – Antstream 2023 release confirmation
+[^ref-15]: [MobyGames – Air Cavalry](https://www.mobygames.com/game/10134/air-cavalry/) – Antstream 2023 release confirmation
 [^ref-16]: [Arcade Museum – Koukuu Kihei Monogatari](https://www.arcade-museum.com/Videogame/koukuu-kihei-monogatari-the-legend-of-air-cavalry) – SNK arcade game information, technical specifications
 [^ref-17]: [App Store – Air Cavalry Flight Simulator](https://apps.apple.com/us/app/air-cavalry-flight-simulator/id731391854) – iOS version information, developer iTechGen
 [^ref-18]: [Nintendo Fandom Wiki – Air Cavalry](https://nintendo.fandom.com/wiki/Air_Cavalry) – release regions, publisher information

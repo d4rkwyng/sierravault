@@ -167,7 +167,7 @@ The game was included in several compilations[^ref-13][^ref-19]:
 - [Steam search](https://store.steampowered.com/search/?term=3-D+Ultra+NASCAR+Pinball)
 
 **Download / Preservation**
-- [MobyGames search](https://www.mobygames.com/search/?q=3-D+Ultra+NASCAR+Pinball)
+- [MobyGames](https://www.mobygames.com/game/4085/3-d-ultra-nascar-pinball/)
 - [Internet Archive search](https://archive.org/search?query=3-D+Ultra+NASCAR+Pinball)
 - [MyAbandonware search](https://www.myabandonware.com/search/q/3-D+Ultra+NASCAR+Pinball)
 - Database entries: Giant Bomb[^ref-14], IGDB[^ref-15]

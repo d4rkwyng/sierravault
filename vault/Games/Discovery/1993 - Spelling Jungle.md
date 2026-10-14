@@ -186,7 +186,7 @@ The game also stands as a testament to the challenges of software preservation, 
 - [Steam search](https://store.steampowered.com/search/?term=Spelling+Jungle)
 
 **Download / Preservation**
-- [MobyGames search](https://www.mobygames.com/search/?q=Spelling+Jungle)
+- [MobyGames](https://www.mobygames.com/game/662/spelling-jungle/)
 - [Internet Archive search](https://archive.org/search?query=Spelling+Jungle)
 
 ## See Also

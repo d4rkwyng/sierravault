@@ -151,7 +151,7 @@ Hoyle Casino 2004 is a modest, little-documented entry in a long-running series.
 - [Steam search](https://store.steampowered.com/search/?term=Hoyle+Casino)
 
 **Download / Preservation**
-- [MobyGames search](https://www.mobygames.com/search/?q=Hoyle+Casino)
+- [MobyGames](https://www.mobygames.com/game/11804/hoyle-casino-2004/)
 - [Internet Archive search](https://archive.org/search?query=Hoyle+Casino)
 - [MyAbandonware search](https://www.myabandonware.com/search/q/Hoyle+Casino)
 

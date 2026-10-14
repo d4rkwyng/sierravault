@@ -167,7 +167,7 @@ MyAbandonware hosts a 601 MB ISO of the game[^ref-4]. As of October 2026, Amazon
 - [Steam search](https://store.steampowered.com/search/?term=Hoyle+Table+Games)
 
 **Download / Preservation**
-- [MobyGames search](https://www.mobygames.com/search/?q=Hoyle+Table+Games)
+- [MobyGames](https://www.mobygames.com/game/13166/hoyle-table-games-2004/)
 - [Internet Archive search](https://archive.org/search?query=Hoyle+Table+Games)
 - [MyAbandonware search](https://www.myabandonware.com/search/q/Hoyle+Table+Games)
 

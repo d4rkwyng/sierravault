@@ -93,7 +93,7 @@ The English-language reviews of the parent game were mostly negative. Wikipedia 
 
 [^ref-1]: [MobyGames – Front Page Sports: Ski Racing '99](https://www.mobygames.com/game/243406/front-page-sports-ski-racing-99/) – developer, publisher, 1999 German release, platform, skiing variants, World Cup slopes, USK rating, specs
 
-[^ref-4]: [MobyGames – Search Results](https://www.mobygames.com/search/?q=Front+Page+Sports%3A+Ski+Racing+%2799) – alternate titles including DSF Ski '99: Extreme Edition
+[^ref-4]: [MobyGames – Front Page Sports: Ski Racing '99](https://www.mobygames.com/game/243406/front-page-sports-ski-racing-99/) – alternate titles including DSF Ski '99: Extreme Edition
 
 [^ref-11]: [Sierra Help – FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – "FPS: Ski Racing 1999 – Ski Racing 1999 (skiup) (ZIP file) [1.9 MB]"
 

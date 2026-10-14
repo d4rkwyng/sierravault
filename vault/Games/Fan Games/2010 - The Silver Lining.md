@@ -194,7 +194,7 @@ The Silver Lining represents roughly a decade of volunteer effort to continue a 
 
 [^ref-1]: [HandWiki – The Silver Lining (video game)](https://handwiki.org/wiki/Software:The_Silver_Lining_(video_game)) – Development history, legal issues, release information, episode details
 [^ref-2]: [Phoenix Online Studios Archive – TSL Trilogy](https://www.postudios.com/archivedTSL/trilogy/) – Technical specifications, download statistics, production scope, demo release date
-[^ref-4]: [MobyGames – Search: "silver lining episode"](https://www.mobygames.com/search/?q=silver+lining+episode) – Lists all four Silver Lining episodes with release dates (July 10, 2010; September 18, 2010; February 17, 2011; November 6, 2011)
+[^ref-4]: [MobyGames – The Silver Lining series](https://www.mobygames.com/group/9365/the-silver-lining-series/) – Lists all four Silver Lining episodes with release dates (July 10, 2010; September 18, 2010; February 17, 2011; November 6, 2011)
 [^ref-5]: [King's Quest Omnipedia – The Silver Lining](https://kingsquest.fandom.com/wiki/The_Silver_Lining) – Plot opening (Rosella and Edgar's wedding), episode dates, reception, unfinished status
 [^ref-6]: [PCGamingWiki – The Silver Lining](https://www.pcgamingwiki.com/wiki/The_Silver_Lining) – Engine (Torque Game Engine), freeware, genre classification
 [^ref-7]: [Wikidata – Q7764297](https://www.wikidata.org/wiki/Q7764297) – Publication date, country of origin, official website, database identifiers

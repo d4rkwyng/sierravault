@@ -88,6 +88,6 @@ The fan community has kept Empire Earth alive through projects like NeoEE (neoee
 [^ref-16]: [HeavenGames Rise & Fall Archives](https://web.archive.org/web/20080517123134/http://raf.heavengames.com/archives/arc10-2005.shtml) — Employee confirmation of closure
 [^ref-17]: [GameSpot - Rise and Fall Developer Closes](http://www.gamespot.com/pc/strategy/risefallcivilizationsatwar/news.html?sid=6140487) — Funding cuts from Midway
 [^ref-18]: [MobyGames - Empire Earth Credits](https://www.mobygames.com/game/5374/empire-earth/credits/windows/) — Full development credits
-[^ref-19]: [MobyGames - Empire Earth Search](https://www.mobygames.com/search/?q=Empire+Earth) — IP acquisition by Rebellion
+[^ref-19]: [MobyGames - Empire Earth series](https://www.mobygames.com/group/1035/empire-earth-series/) — IP acquisition by Rebellion
 [^ref-20]: [Metacritic - Empire Earth III Reviews](https://www.metacritic.com/game/empire-earth-iii/critic-reviews/?platform=pc) — Critical reception of sequel
 [^ref-21]: [NeoEE.net](https://neoee.net/) — Multiplayer revival project

@@ -165,7 +165,7 @@ Take a Break! Crosswords represents a deliberate move by Dynamix and Sierra into
 [^ref-12]: [MobyGames – Take a Break! Pinball](https://www.mobygames.com/game/441/take-a-break-pinball/) – sequel information, 8 pinball tables based on Sierra games
 [^ref-13]: [Wikidata – Take a Break! Crosswords](https://www.wikidata.org/wiki/Q131915414) – verified developer Dynamix, publisher Sierra On-Line, 1992 release
 [^ref-14]: [IGDB – Take a Break! Crosswords](https://www.igdb.com/games/take-a-break-crosswords/similar) – 1992 release date confirmation
-[^ref-15]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Take+a+Break%21+Crosswords) – Windows 16-bit 1992, Macintosh 1993 release dates
+[^ref-15]: [MobyGames – Take a Break! Crosswords](https://www.mobygames.com/game/25412/take-a-break-crosswords/) – Windows 16-bit 1992, Macintosh 1993 release dates
 [^ref-16]: [MyAbandonware Search](https://www.myabandonware.com/search/q/Take+a+Break%21+Crosswords) – Windows 3.x platform confirmation
 [^ref-17]: [Sierra Chest – Take a Break! Crosswords product page](https://sierrachest.com/index.php?a=games&id=624) – Dell Magazine licensing details, N8 Productions co-development credits, retail packaging archive
 [^ref-18]: [Reddit r/abandonware](https://www.reddit.com/r/abandonware/comments/1ld4ifp/i_have_about_450_fullversion_shareware_games_from/) – preservation community context for early 2000s shareware games
@@ -179,7 +179,7 @@ Take a Break! Crosswords represents a deliberate move by Dynamix and Sierra into
 - [Steam search](https://store.steampowered.com/search/?term=Take+a+Break%21+Crosswords)
 
 **Download / Preservation**
-- [MobyGames search](https://www.mobygames.com/search/?q=Take+a+Break%21+Crosswords)
+- [MobyGames](https://www.mobygames.com/game/25412/take-a-break-crosswords/)
 - [Internet Archive search](https://archive.org/search?query=Take+a+Break%21+Crosswords)
 - [MyAbandonware search](https://www.myabandonware.com/search/q/Take+a+Break%21+Crosswords)
 

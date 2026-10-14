@@ -154,7 +154,7 @@ HG101 notes that the two remakes share an interface, VGA-style graphics and full
 - [Adventure Game Studio database entry](https://www.adventuregamestudio.co.uk/play/game/734/)
 
 **Preservation**
-- [MobyGames search](https://www.mobygames.com/search/?q=King%27s+Quest+III+Remake+%28Infamous+Adventures%29)
+- [MobyGames](https://www.mobygames.com/game/23393/kings-quest-iii-to-heir-is-human/)
 - [Internet Archive – King's Quest III [fan remake]](https://archive.org/details/kings-quest-iii-fan-remake)
 
 ## See Also
