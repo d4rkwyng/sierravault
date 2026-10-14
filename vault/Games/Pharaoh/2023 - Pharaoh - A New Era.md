@@ -2,7 +2,7 @@
 title: "Pharaoh: A New Era"
 release_year: 2023
 developer: Triskell Interactive
-designer: null
+designer: Théophile Noiré
 publisher: Dotemu
 genre: City-Building
 platforms:
@@ -11,7 +11,7 @@ series: Pharaoh
 engine: Unity
 protagonist: null
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-13'
 description: "Pharaoh: A New Era is a 2023 remake of the classic 1999 city-building game Pharaoh, developed by Triskell Interactive and published by Dotemu under license from Activision."
 tags:
   - 2020s
@@ -22,13 +22,13 @@ tags:
 ---
 # Pharaoh: A New Era
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Pharaoh: A New Era is a city-building video game developed by Triskell Interactive and published by Dotemu, released on February 15, 2023[^ref-1][^ref-2][^ref-20][^ref-21][^ref-22]. It is a full remake of the classic [[1999 - Pharaoh|Pharaoh]] (1999), originally developed by Impressions Games and published by Sierra Entertainment, including content from the Cleopatra: Queen of the Nile expansion pack[^ref-2]. The remake also incorporates the Cleopatra expansion content, providing the complete Pharaoh experience in a single modernized package.
+Pharaoh: A New Era is a city-building video game developed by Triskell Interactive and published by Dotemu, released for Windows on February 15, 2023[^ref-1][^ref-2][^ref-19]. It is a full remake of the classic [[1999 - Pharaoh|Pharaoh]] (1999), originally developed by Impressions Games and published by Sierra Studios, and it includes the content of the Cleopatra: Queen of the Nile expansion pack[^ref-2][^ref-5].
 
-Rock Paper Shotgun called it "the definitive version of a stone-cold classic"[^ref-3], while Shacknews praised it as "an excellent spin on a classic"[^ref-4]. The game closely follows the original's design while featuring completely redrawn artwork with zoom functionality, quality-of-life improvements drawn from later Impressions titles like [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]], and a modernized user interface[^ref-3]. With over 50 missions spanning more than 100 hours of gameplay, the remake preserves the depth that made the original a beloved entry in the City Building series[^ref-5].[^ref-19]
+Rock Paper Shotgun called it "the definitive version of a stone-cold classic"[^ref-3], while Shacknews praised it as "an excellent spin on a classic"[^ref-4]. The game closely follows the original's design while featuring redrawn artwork with zoom functionality and a new user interface[^ref-1][^ref-3], plus an optional global worker pool like the one in [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]][^ref-1]. Its store listing promises more than 50 missions and over 100 hours of gameplay[^ref-5].
 
 > [!info]- Game Info
 > **Developer:** Triskell Interactive[^ref-1]
@@ -37,8 +37,8 @@ Rock Paper Shotgun called it "the definitive version of a stone-cold classic"[^r
 > **Platforms:** Windows[^ref-1]
 > **Release Year:** 2023[^ref-2]
 > **Series:** Pharaoh / City Building (Impressions)
-> **Designer:** Triskell Interactive Team
-> **Protagonist:** Egyptian Governor
+> **Designer:** Théophile Noiré[^ref-14]
+> **Protagonist:** N/A
 > **Original Game:** [[1999 - Pharaoh|Pharaoh (1999)]]
 > **Sierra Lineage:** Post-Sierra
 
@@ -46,60 +46,59 @@ Rock Paper Shotgun called it "the definitive version of a stone-cold classic"[^r
 
 ### Interface and Controls
 
-The remake features a completely redesigned user interface with numerous improvements over the 1999 original[^ref-5]. The most visible change is full zoom functionality, allowing players to view the detailed hand-drawn artwork up close[^ref-3]. New management tools include a workers tooltip showing allocation and availability, fixed worker ratio settings for consistent staffing across buildings, and a population mood tracking system for monitoring citizen happiness[^ref-5]. These information panels modernize the interface without overwhelming players with statistics.
+The remake has a fully redesigned user interface[^ref-5]. The most visible change is zoom: players can zoom in to see the redrawn artwork up close[^ref-1][^ref-3]. New or redesigned mechanics listed by the publisher include a Workers Tooltip, a Fixed Worker Ratio setting and new tools for tracking the population's mood[^ref-5].
 
-Perhaps the most significant interface addition is the optional global labor pool system, borrowed from the later Impressions title Zeus: Master of Olympus, which recruits workers from a centralized pool rather than requiring house-to-house recruiters[^ref-3]. This quality-of-life feature addresses one of the original Pharaoh's most frequently criticized micromanagement demands by streamlining workforce allocation. Additional conveniences include building copy-paste functionality that speeds up repetitive construction tasks and a predator toggle that allows players to disable dangerous animals for a more relaxed experience[^ref-5].
-The improved Nilometer visualization provides better predictive feedback for annual flood cycles, making agricultural planning more intuitive than the original's opaque flood tracking system[^ref-5].
+The most significant addition, in Rock Paper Shotgun's view, is the optional global labor pool: industry and service buildings can draw workers from a shared pool instead of relying on recruiters who walk from house to house[^ref-3]. Wikipedia compares it to the system in Zeus: Master of Olympus[^ref-1], and Triskell's game designer said a switchable global workpool was the feature players had requested most[^ref-14]. Players can still use the original recruiter system if they prefer[^ref-7]. Other conveniences include copy-pasting buildings and an option to disable predators[^ref-5]. A Nilometer indicator tracks the timing and quality of the Nile's floods, so players can plan for lean years[^ref-3][^ref-5].
 
 ### Structure and Progression
 
-Players take on the role of a city planner in ancient Egypt, tasked with building thriving settlements along the Nile[^ref-5]. The campaign mode spans over 50 missions that teach game mechanics while progressing through Egyptian history, and a sandbox mode provides free-build options for creative city design[^ref-5].
+Players build cities in ancient Egypt along the Nile, aiming to become a powerful and revered pharaoh[^ref-5]. The Campaign mode teaches the basics while telling a story set in ancient Egypt, and a Sandbox mode allows free building[^ref-5]. The publisher frames the game as a journey through 4,000 years of history[^ref-5]. Dotemu's announcement also mentions a map and mission editor[^ref-24].
 
-Core gameplay revolves around placing residential, commercial, and industrial buildings to create functional neighborhoods while managing the Nile's annual flood cycles for agriculture, tracked via an improved Nilometer indicator[^ref-5]. Players must balance food production, trade goods, and construction materials across internal and external trade networks while constructing iconic Egyptian monuments including pyramids, the Sphinx, and the Lighthouse of Alexandria[^ref-5]. Military defense against invaders and religious management through temples and mausoleums round out the strategic demands[^ref-5].
+Players manage the city's economy, internal and external trade, culture, health, agriculture and education[^ref-5]. Farming depends on the Nile's annual floods[^ref-3][^ref-5]. Players can build monuments including the pyramids, the Sphinx and the Lighthouse of Alexandria, build temples and mausoleums for the city's religion, and defend the city against enemies[^ref-5].
 
 ### Puzzles and Mechanics
 
-The city-building challenges remain faithful to the original Pharaoh's design philosophy, requiring players to solve complex logistical puzzles involving supply chains, worker allocation, and urban planning[^ref-3]. Monument construction in particular demands careful resource management and long-term planning, as large-scale projects like pyramids require sustained coordination across multiple city systems over extended periods. The Nile flood mechanic adds a cyclical strategic layer, as players must plan agriculture around the river's predictable but demanding seasonal patterns[^ref-5].
+As in the original, the challenge is logistical: players build supply chains of food and goods, staff them with workers, and keep houses supplied so they upgrade[^ref-3]. On the flood plain, workers harvest before the waters rise again, so supply chains end up running in rhythm with the river[^ref-3]. Each god expects temples and festivals, and neglected gods can curse the city[^ref-3].
 
-The remake includes hundreds of gameplay refinements designed to modernize the experience while preserving the original's strategic depth. The Global Labor Pool system, borrowed from Zeus: Master of Olympus, eliminates the tedious recruitment micromanagement of the original by centralizing worker allocation[^ref-5]. Players can now toggle predators on or off to customize difficulty, accommodating both hardcore players seeking maximum realism and casual players preferring relaxed city-building[^ref-5]. The completely redesigned user interface provides improved population mood tracking, enhanced Nilometer visualization for flood prediction, and the ability to copy-paste buildings for faster city construction without sacrificing strategic planning[^ref-5].
-These quality-of-life improvements dramatically reduce frustration while maintaining the intellectual challenge that made the original beloved[^ref-5].
+The publisher describes "hundreds of gameplay changes and improvements"[^ref-5]. Triskell's designer said that at its core it is the same game, with many changes in the details; for example, the original's 16-day months became 32-day months internally[^ref-14].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Pharaoh: A New Era received generally positive reviews from critics upon its February 2023 release[^ref-6].
+Pharaoh: A New Era received "generally favorable" reviews according to Metacritic[^ref-6].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Rock Paper Shotgun | Positive | "The definitive version of a stone-cold classic"[^ref-3] |
-| Shacknews | Positive | "An excellent spin on a classic"[^ref-4] |
-| Gamepressure | Positive | "A splendid opportunity to rediscover this timeless classic"[^ref-7] |
-| NPR | Mixed | "Still a rewarding city-builder" despite bugs and mobile-game aesthetics[^ref-8] |
+| Rock Paper Shotgun | No score | "The definitive version of a stone-cold classic"[^ref-3] |
+| Shacknews | 8/10 | "An excellent spin on a classic"[^ref-4] |
+| Gamepressure | 8.5/10 | "A splendid opportunity to rediscover this timeless classic"[^ref-7] |
+| NPR | No score | "Still a rewarding city-builder" despite bugs and mobile-game-like graphics[^ref-8] |
 
-Rock Paper Shotgun's review highlighted the successful modernization of the interface while preserving the core gameplay that made the original beloved[^ref-3]. The reviewer specifically praised the zoom functionality and global labor pool system as transformative improvements that modernized the experience without abandoning the original's strategic foundation[^ref-3]. Shacknews praised the quality-of-life improvements and visual overhaul, noting that the remake successfully captures what made the original special[^ref-4]. Gamepressure emphasized the remake as an ideal entry point for new players discovering the Impressions city-building legacy[^ref-7].
-NPR's more measured assessment acknowledged the game's rewarding depth but noted some visual choices that evoked mobile-game aesthetics and launch-period bugs that required patches[^ref-8]. Overall, critics consensus centered on the remake successfully bridging nostalgic appeal with modern accessibility.
+Rock Paper Shotgun called the optional global worker pool the most significant change, and praised the redrawn art and the recreated soundtrack. It added that the game lacks the complexity of modern city builders[^ref-3]. Shacknews praised the "gorgeous revamp of visuals" and the "neat tweaks and updates to mechanics", but said some archaic elements can make things difficult[^ref-4]. Gamepressure welcomed the option to disable recruiters and noted that the game explains its rules to newcomers more visually. It criticised parts of the interface and the slow camera[^ref-7].
+NPR's review was more critical. It reported bugs, including invading armies that sometimes failed to appear after warnings, and said the updated graphics at times looked more like a modern mobile game than a tribute to the original's pixel art. Even so, it called the game "still a rewarding city-builder"[^ref-8].
 
 ### Modern Assessment
 
-The game is available DRM-free on GOG.com[^ref-9] and through Steam[^ref-5], ensuring ongoing accessibility. MobyGames documents the full development team credits at Triskell Interactive[^ref-2]. According to HowLongToBeat, the main campaign takes approximately 40-50 hours to complete, with completionists spending over 100 hours[^ref-11]. PCGamingWiki documents technical specifications and potential fixes for any issues players may encounter[^ref-12]. OpenCritic aggregates additional review coverage[^ref-13].
+The game is sold DRM-free on GOG.com[^ref-9] and on Steam[^ref-5]. MobyGames lists credits for 145 people[^ref-23]. HowLongToBeat data shown on GOG puts the main story at about 85.5 hours, and main story plus side content at about 96 hours[^ref-9]. PCGamingWiki documents technical specifications and fixes[^ref-12].
 
 **Aggregate Scores:**
-- **Metacritic:** 70/100 (mixed-to-positive critic aggregate)[^ref-6]
+- **Metacritic:** 76/100, "Generally Favorable"[^ref-6]
+- **OpenCritic:** 80 Top Critic Average, 69% of critics recommend[^ref-13]
 - **Rock Paper Shotgun:** "Definitive version" recommendation (no numeric score)[^ref-3]
-- **Shacknews:** 8/10 — "Excellent spin on a classic"[^ref-4]
-- **Gamepressure:** 7.5/10 — "Splendid opportunity to rediscover this timeless classic"[^ref-7]
-- **Steam (User reviews):** "Mostly Positive" (~75% positive across thousands of reviews)[^ref-5]
+- **Shacknews:** 8/10, "Excellent spin on a classic"[^ref-4]
+- **Gamepressure:** 8.5/10, "Splendid opportunity to rediscover this timeless classic"[^ref-7]
+- **Steam (user reviews):** "Mostly Positive", 75% of about 2,500 English-language reviews as of October 2026[^ref-5]
 
 ## Development
 
 ### Origins
 
-The remake originated when Triskell Interactive pitched a city-building game concept to Dotemu[^ref-14]. Rather than pursuing an original IP, Dotemu asked if the studio would be interested in remaking a game from the classic Impressions City Building series[^ref-14]. Triskell chose Pharaoh, and Dotemu secured the intellectual property license from Activision, which had acquired Sierra Entertainment and its subsidiaries including Impressions Games through a chain of corporate acquisitions[^ref-14].
+According to Dotemu CEO Cyrille Imbert, Théophile and Guillaume of Triskell Interactive came to Dotemu in Paris looking for a publisher for their next city builder. The game didn't fit Dotemu's editorial line, so Imbert asked them for their favourite city builder of all time. They said "Pharaoh", and he asked whether they would be interested in a remake if Dotemu could get the license[^ref-14]. Dotemu then found that Activision held the IP, contacted Activision, and prepared a full pitch with Triskell[^ref-14].
 
 ### Production
 
-The development team focused on preserving the core gameplay mechanics that had made the original a classic while modernizing the presentation and addressing long-standing quality-of-life complaints[^ref-3]. Key design decisions included completely redrawn artwork with zoom support, the addition of the global worker pool system from Zeus: Master of Olympus, and integration of the Cleopatra: Queen of the Nile expansion content into the base game[^ref-3][^ref-5]. The game was built in the Unity engine, departing from the original's proprietary technology.
+Triskell's game designer Théophile Noiré said the team saw little to expand on in Pharaoh. The priorities were quality-of-life features, bug fixes and better accessibility[^ref-14]. The game was programmed by Romain of Seaven Studio, which had ported Triskell's Lethis – Path of Progress to the Switch[^ref-14]. MobyGames credits Noiré as creative director. It also credits further help from EODEstudio, Nolan Games, Seenapsis, Tokiko Studio, Torpenn and Seaven Studio[^ref-23]. The remake was built with all-new code in the Unity engine[^ref-2][^ref-24].
 
 ### Version History
 
@@ -109,33 +108,19 @@ The development team focused on preserving the core gameplay mechanics that had 
 
 ### Technical Specifications
 
-Built on the Unity game engine[^ref-2], Pharaoh: A New Era features completely redrawn artwork at higher resolutions with zoom functionality. The game includes modernized UI elements and quality-of-life improvements drawn from later Impressions titles[^ref-3]. System requirements target modern Windows PC hardware[^ref-1].
+Pharaoh: A New Era is built on the Unity game engine[^ref-2][^ref-23]. It features redrawn 2D graphics with 4K support and zoom[^ref-3][^ref-24]. The minimum requirements are 64-bit Windows 10 and 8 GB of RAM[^ref-5].
 
 ### Technical Achievements
 
-Pharaoh: A New Era's central engineering accomplishments span both **engine modernization and design-preservation**. The remake was built in **Unity** from the ground up, completely replacing Impressions Games' original proprietary city-builder engine while preserving the original's economy and citizen-simulation logic[^ref-2][^ref-12]. The art pipeline produced **completely redrawn isometric artwork at higher resolutions with full zoom support**, an unusual investment for a remake — Triskell preserved the original game's recognizable visual identity while delivering modern display fidelity[^ref-3]. The release **integrated Zeus: Master of Olympus's global worker pool system** into the Pharaoh economy — a forward-port of a later-Impressions-era improvement that addressed long-standing player complaints about labor management in the original Pharaoh[^ref-3][^ref-7]. The product also **bundled the original Cleopatra: Queen of the Nile expansion content into the base game**, giving new players access to material that historically required separate retail purchase[^ref-3][^ref-5]. Cross-storefront availability was a deliberate technical choice: Triskell + Dotemu shipped simultaneously on **Steam (DRM-managed) and GOG (DRM-free)**, an unusual breadth for a remake release and a meaningful signal of Dotemu's commitment to preservation-friendly distribution[^ref-5][^ref-9].
+The remake replaced Impressions Games' original code with all-new code in Unity[^ref-2][^ref-24]. It also redrew the isometric artwork for 4K displays with full zoom support[^ref-3][^ref-24]. An optional global worker pool, similar to Zeus: Master of Olympus, can replace the original recruiter system; players can switch between the two[^ref-1][^ref-14]. The base game includes the Cleopatra: Queen of the Nile expansion content[^ref-5]. The game launched on both Steam and GOG[^ref-3][^ref-9].
 
 ## Legacy
 
-Pharaoh: A New Era represents a significant moment in the preservation of the Impressions Games city-building legacy, demonstrating continued commercial viability for Sierra-era game designs decades after the original studio's closure. The remake brought renewed attention to the entire City Building series, which includes [[1998 - Caesar III|Caesar III]], [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]], and [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]][^ref-3][^ref-7].
+Pharaoh: A New Era is a remake within Impressions Games' City Building series, which also includes [[1998 - Caesar III|Caesar III]], [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]] and [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]][^ref-1][^ref-3][^ref-7]. Gamepressure's reviewer hoped it would not be "an isolated case". He wanted similar remakes of Zeus, Emperor and especially Caesar III[^ref-7].
 
-The game's development model—a modern studio licensing dormant Sierra IP from Activision through Dotemu—illustrates one path for reviving classic Sierra franchises in the post-Sierra era[^ref-14]. The positive critical reception validated the approach of faithful remakes that modernize interfaces while preserving core design philosophies[^ref-3][^ref-4]. Community discussion on forums like Reddit's r/impressionsgames reflected enthusiasm for the remake and renewed interest in the broader Impressions catalog[^ref-15].
+The game was made under license from Activision, which holds the Pharaoh IP[^ref-14].
 
-The isometric art style received particular praise for maintaining the charm of the original while delivering modern visual clarity, with full zoom support allowing players to appreciate both the big-picture city layout and intricate architectural details. The soundtrack redesign bridged nostalgia with modern composition techniques, creating an audio experience that honored the original while sounding contemporary enough for 2023 players[^ref-3].
-
-### Modern City-Building Restoration
-
-Pharaoh: A New Era successfully updated the original game's mechanics for contemporary audiences while preserving the core city-building and economy simulation systems[^ref-2]. The enhanced graphics and interface improvements made the game more accessible to new players while maintaining the strategic depth veterans expected[^ref-3].
-
-### Development Team and Process
-
-Tradewinds Studios carefully preserved the original game's design while implementing modern technical improvements[^ref-2].
-
-### Community Reception
-
-Players praised the faithful recreation and enhanced accessibility of the classic city-builder[^ref-3].
-
-The successful restoration paved the way for potential future remakes of other classic Impressions Games titles[^ref-2].
+Reviewers praised the art for staying faithful to the original. Gamepressure said the graphics "perfectly imitate the original", and Rock Paper Shotgun said it looks better than players remember[^ref-3][^ref-7]. The soundtrack was recreated rather than replaced. Musician Louis Godart transcribed and rearranged the original music by Keith Zizza and Henry Beckett, and it was performed on traditional oriental instruments[^ref-5][^ref-23]. Zizza is credited as a music consultant, and Godart consulted him to keep the spirit of the original score[^ref-23][^ref-24].
 
 ## Downloads
 
@@ -155,27 +140,22 @@ The successful restoration paved the way for potential future remakes of other c
 - [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]] (2000)
 - [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]] (2002)
 
-The successful remaster paved the way for potential future remakes of other classic Impressions Games titles[^ref-2].
-
 ## References
 
-[^ref-1]: [Wikipedia – Pharaoh: A New Era](https://en.wikipedia.org/wiki/Pharaoh:_A_New_Era) – Release date, developer, publisher, platform details
-[^ref-2]: [MobyGames – Pharaoh: A New Era](https://www.mobygames.com/game/199619/pharaoh-a-new-era/) – Credits, release information, platform data
-[^ref-3]: [Rock Paper Shotgun – Pharaoh: A New Era Review](https://www.rockpapershotgun.com/pharaoh-a-new-era-review) – "Definitive version" verdict, gameplay changes, graphics, global worker pool
-[^ref-4]: [Shacknews – Pharaoh: A New Era Review](https://www.shacknews.com/article/134182/pharaoh-a-new-era-review-score) – "Excellent spin on a classic" review verdict
-[^ref-6]: [Metacritic – Pharaoh: A New Era](https://www.metacritic.com/game/pharaoh-a-new-era/critic-reviews/?platform=pc) – Aggregate review scores
-[^ref-7]: [Gamepressure – Pharaoh: A New Era Review](https://www.gamepressure.com/editorials/reviews/pharaoh-new-era-review-pyramids-built-on-nostalgia/zb60e) – "Splendid opportunity to rediscover this timeless classic"
-[^ref-8]: [NPR – Best New Games](https://www.npr.org/2023/03/03/1160656371/npr-staff-review-the-best-new-games) – Mixed review, bugs noted, mobile-game aesthetics
-[^ref-9]: [GOG.com – Pharaoh: A New Era](https://www.gog.com/en/game/pharaoh_a_new_era) – DRM-free purchase, store listing
-[^ref-11]: HowLongToBeat – Pharaoh: A New Era *(link removed: it led to a different game's page)* – 40-50 hour campaign, 100+ hours completionist
+[^ref-1]: [Wikipedia – Pharaoh: A New Era](https://en.wikipedia.org/wiki/Pharaoh:_A_New_Era) – Release date, developer, publisher, platform, global pool "like in Zeus: Master of Olympus"
+[^ref-2]: [MobyGames – Pharaoh: A New Era](https://www.mobygames.com/game/199619/pharaoh-a-new-era/) – "Unity engine remake" of Pharaoh and Cleopatra, release date February 15, 2023
+[^ref-3]: [Rock Paper Shotgun – Pharaoh A New Era review](https://www.rockpapershotgun.com/pharaoh-a-new-era-review) – "Definitive version" verdict, zoom, Nilometer, global worker pool, recreated soundtrack
+[^ref-4]: [Shacknews – Pharaoh: A New Era review](https://www.shacknews.com/article/134182/pharaoh-a-new-era-review-score) – 8/10, "an excellent spin on a classic"
+[^ref-5]: [Steam – Pharaoh: A New Era store page](https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/) – Feature list, 50+ missions / 100+ hours, system requirements, user review summary
+[^ref-6]: [Metacritic – Pharaoh: A New Era](https://www.metacritic.com/game/pharaoh-a-new-era/) – Metascore 76, "Generally Favorable"
+[^ref-7]: [Gamepressure – Pharaoh New Era Review](https://www.gamepressure.com/editorials/reviews/pharaoh-new-era-review-pyramids-built-on-nostalgia/zb60e) – 8.5/10, "a splendid opportunity to rediscover this timeless classic"
+[^ref-8]: [NPR – NPR staff review the best new games](https://www.npr.org/2023/03/03/1160656371/npr-staff-review-the-best-new-games) – Alex Curley's mixed review: bugs, mobile-game-like graphics
+[^ref-9]: [GOG.com – Pharaoh: A New Era](https://www.gog.com/en/game/pharaoh_a_new_era) – DRM-free store listing; HowLongToBeat time-to-beat data
 [^ref-12]: [PCGamingWiki – Pharaoh: A New Era](https://www.pcgamingwiki.com/wiki/Pharaoh:_A_New_Era) – Technical specifications, fixes
-[^ref-13]: OpenCritic – Pharaoh: A New Era *(link removed: it led to a different game's page)* – Review aggregation
-[^ref-14]: [IGN – Reviving the Past Interview](https://sea.ign.com/pharaoh-pc/164100/news/reviving-the-past-with-the-folks-behind-the-upcoming-pharaoh-a-new-era-remake) – Development origins, Dotemu pitch, Activision licensing
-[^ref-15]: [Reddit – r/impressionsgames](https://www.reddit.com/r/impressionsgames/) – Community discussion and feedback
+[^ref-13]: [OpenCritic – Pharaoh: A New Era](https://opencritic.com/game/14295/pharaoh-a-new-era) – 80 Top Critic Average, 69% Critics Recommend
+[^ref-14]: [IGN SEA – Reviving the Past with the Folks Behind the Upcoming Pharaoh: A New Era Remake](https://sea.ign.com/pharaoh-pc/164100/news/reviving-the-past-with-the-folks-behind-the-upcoming-pharaoh-a-new-era-remake) – Interview with Cyrille Imbert and game designer Théophile Noiré: origins, Activision licence, global workpool
 [^ref-16]: [Dotemu – Official Page](https://www.dotemu.com/games/pharaoh-a-new-era/) – Publisher information
 [^ref-17]: [Triskell Interactive](https://www.triskell-interactive.com/) – Developer website
-[^ref-5]: [IGN – Pharaoh: A New Era](https://www.ign.com/games/pharaoh-a-new-era) – Game coverage
-[^ref-19]: [GameSpot – Pharaoh: A New Era](https://www.gamespot.com/games/pharaoh-a-new-era/) – Game information
-[^ref-20]: [IGDB – Pharaoh: A New Era](https://www.igdb.com/games/pharaoh-a-new-era) — Internet Games Database entry, Unity engine attribution, platform listing, release-year metadata
-[^ref-21]: [Steam Community Hub – Pharaoh: A New Era](https://steamcommunity.com/app/1351080) — community discussion, screenshots, mod support, patch-note announcements
-[^ref-22]: [Adventure Classic Gaming – Impressions Games city-builder retrospective](https://www.adventureclassicgaming.com/index.php/site/features/) — historical context for the Pharaoh / Caesar / Zeus / Emperor city-building series that the remake belongs to
+[^ref-19]: [GameSpot – Pharaoh: A New Era](https://www.gamespot.com/games/pharaoh-a-new-era/) – "First released: Feb 15, 2023 | PC"
+[^ref-23]: [MobyGames – Pharaoh: A New Era credits (Windows)](https://www.mobygames.com/game/199619/pharaoh-a-new-era/credits/windows/) – Full credits: creative director, support studios, music (Godart, Zizza, Beckett), Unity
+[^ref-24]: [Cosmocover – Pharaoh: A New Era Recreates Classic City Builder's Soundtrack (press release, Dec 2, 2021)](https://cosmocover.com/newsroom/pharaoh-a-new-era-recreates-classic-city-builders-soundtrack-with-new-rearrangements-historically-accurate-instruments-in-behind-the-scenes-video) – Dotemu/Triskell press release: all-new code, 4K 2D graphics, editor, Zizza consultation
