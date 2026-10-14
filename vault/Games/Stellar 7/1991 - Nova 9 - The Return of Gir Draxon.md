@@ -1,90 +1,82 @@
 ---
-title: 'Nova 9: Return of Gir Draxon'
+title: 'Nova 9: The Return of Gir Draxon'
 release_year: 1991
 developer: Dynamix
-designer: [David Selle, Paul Bowman]
+designer: [Paul Bowman]
 publisher: Sierra On-Line
 genre: Action
-platforms: [DOS, Amiga, IBM PC, DOS, PC]
+platforms: [DOS, Amiga]
 series: Stellar 7
 engine: 3Space
 protagonist: Captain John Alex
 sierra_lineage: Core Sierra
-last_updated: '2026-05-14'
-description: 'Nova 9: Return of Gir Draxon is a futuristic tank combat game developed
-  by Dynamix and published by Sierra On-Line in 1991. As the sequel to Stellar 7,
-  the...'
+last_updated: '2026-10-14'
+description: 'Nova 9: The Return of Gir Draxon is a first-person futuristic tank
+  combat game designed by Paul Bowman, developed by Dynamix and published by Sierra
+  On-Line for DOS in 1991 and the Amiga in 1992; it is the sequel to Stellar 7.'
 tags: [1990s, sierra, stellar-7]
 ---
-# Nova 9: Return of Gir Draxon
+# Nova 9: The Return of Gir Draxon
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 ## Overview
 
-Nova 9: Return of Gir Draxon is a futuristic tank combat game developed by Dynamix and published by Sierra On-Line in 1991[^ref-1][^ref-23]. As the sequel to Stellar 7, the game continues the story of Captain John Alex's battle against the villainous Gir Draxon, an interstellar tyrant seeking to rebuild his shattered empire[^ref-2]. The game was marketed with the bold tagline "Dynamix has just redefined state-of-the-art" and promised players action across nine visually distinct worlds[^ref-3].
+Nova 9: The Return of Gir Draxon is a futuristic tank combat game developed by Dynamix and published by Sierra On-Line for DOS in 1991, with an Amiga version following in 1992[^ref-1][^ref-7]. As the sequel to Stellar 7, the game continues the story of Captain John Alex's battle against the villainous Gir Draxon, who has returned to rebuild his interstellar empire[^ref-1][^ref-2]. The game was marketed with the tagline "Dynamix has just redefined state-of-the-art"[^ref-3], and Sierra's own InterAction magazine captioned one screenshot "Travel through nine new strange and exotic worlds"[^ref-25].
 
-Built using Dynamix's 3-Space engine, Nova 9 featured impressive polygon graphics for its time and represented part of Sierra's broader strategy to diversify beyond adventure games into action genres[^ref-4][^ref-5]. The game expanded on its predecessor's formula with enhanced graphics, new gameplay mechanics, and a darker narrative that dealt with personal loss and vengeance.
+Sierra's InterAction magazine described the game as built with "the newest 3Space™ 3D technology" and insisted that, while it was a sequel to Stellar 7, "it is NOT a rehash of its predecessor"[^ref-25]. The game was designed by Paul Bowman, with David Selle credited as writer and world designer[^ref-24][^ref-26]. Alex's late wife Sarah, killed during the Stellar 7 war, lives on in the game as S.A.R.A.H., an on-board computer created in her image[^ref-11][^ref-24].
 
-Computer Gaming World praised the game as "an excellent offering for arcade fans everywhere... a thoroughly professional effort"[^ref-4], while Dragon magazine awarded it 4.5 out of 5 stars in April 1992[^ref-4]. However, the game's notorious difficulty and controversial shift toward puzzle-heavy gameplay divided players, with some finding the challenge exhilarating and others frustrated by the steep learning curve.
+Computer Gaming World called it "an excellent offering for arcade fans everywhere... A thoroughly professional effort"[^ref-24], and Dragon magazine gave it 4½ out of 5 stars in April 1992[^ref-29]. Computer Gaming World's main complaint was the lack of a save-game function in a game it found exceptionally difficult[^ref-24].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-7]
-> **Designer:** [[David Selle]], Paul Bowman[^ref-8]
+> **Designer:** Paul Bowman[^ref-24][^ref-26]
+> **Writer / World Design:** [[David Selle]][^ref-26]
 > **Publisher:** [[Sierra On-Line]][^ref-9]
-> **Platforms:** DOS, Amiga, IBM PC, MS-DOS, PC[^ref-10]
+> **Platforms:** DOS (1991), Amiga (1992)[^ref-7]
 > **Release Year:** 1991
 > **Series:** Stellar 7
 > **Sierra Lineage:** Core Sierra
-> **Engine:** 3Space
+> **Engine:** 3Space[^ref-25]
 > **Protagonist:** Captain John Alex
 
 ## Story Summary
 
-The game takes place two years after the devastating events of Stellar 7. The evil overlord Gir Draxon has made his return to rebuild his interstellar empire[^ref-1], and the stakes have never been more personal for Captain John Alex. During the previous war, Alex's wife Sarah was killed[^ref-11], leaving him driven by both duty and a desire for vengeance against the tyrant who destroyed his life.
+The game takes place two years after the events of Stellar 7. The evil overlord Gir Draxon has made his return to rebuild his interstellar empire[^ref-1], and the stakes are personal for Captain John Alex: during the Stellar 7 war, Alex's wife Sarah was killed[^ref-11].
 
-When a distress call is issued from the unexplored Nova 9 system, Alex takes command of the experimental Raven II tank to investigate[^ref-2]. This new vehicle is equipped with advanced weaponry and a cloaking device that gives it capabilities beyond its predecessor. The mission leads him across nine different star systems in pursuit of Draxon, who awaits in the remote Nova 9 system[^ref-12].
+When a distress call is issued from the unexplored Nova 9 system, Alex takes the experimental Raven II tank to investigate[^ref-2]. The Raven II carries various weaponry, a long-range scanner and a cloaking device for emergencies[^ref-7]. The mission takes him across the nine planets of the Nova 9 system, where, as the game's promotional copy put it, "Draxon awaits"[^ref-3][^ref-11][^ref-12].
 
 As the Archive.org description summarizes: "It has been two years since the Stellar 7 war. Gir Draxon, the villain, has not been found. Nova 9 has just issued a distress call... Captain John Alex, takes the experimental Raven II tank to investigate the distress call..."[^ref-2].
+
+Alex does not go in entirely alone. He is assisted by "Sparky," a repair droid, and by S.A.R.A.H., a super-computer "created in the image of Alex's dead wife, Sarah"[^ref-24]. InterAction expanded the acronym as "Synergistic Advanced Resource Aesthetic Hybrid"[^ref-25].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Nova 9 features first-person tank combat with multiple viewing perspectives available to players[^ref-14]. The game can be controlled using the numeric keypad, arrow keys, or joystick, providing flexibility for different player preferences[^ref-10]. Players have access to various camera angles to better navigate the battlefield:
-
-- Cockpit view (first-person)
-- Outside rear view
-- Outside front view
-- Side views
-
-This variety of perspectives allowed players to choose their preferred viewpoint for combat situations, though most experienced players preferred the cockpit view for precision aiming.
+Nova 9 is a first-person tank combat game played from the cockpit of the Raven II[^ref-7][^ref-14]. The DOS version supports keyboard, mouse and analog joystick[^ref-27]. Computer Gaming World noted that the numeric-keypad controls for backing up while turning are reversed compared with Stellar 7, which forced veterans of the first game to relearn them[^ref-24].
 
 ### The Raven II Tank
 
-The Raven II represents a significant upgrade from the original Stellar 7 vehicle. Its arsenal includes:
+The Raven II is the second generation of the hovertank from Stellar 7[^ref-24]. It has a forward-facing cannon with unlimited ammunition, plus energy shields and armor[^ref-4]. The German magazine Amiga Games listed its armament as a laser cannon, missiles and mines[^ref-28]. Additional power-ups, such as pickup energy and enhancement modules, can be beamed in or salvaged from enemy wreckage[^ref-7].
 
-- Standard cannons for basic combat
-- Special weapons collected as power-ups
-- A cloaking device for tactical stealth
-
-The game features an arcade-styled power-up system that allows players to store up to nine power-ups[^ref-4]. However, damage can potentially break power-up slots, adding a strategic element to combat where players must balance aggressive play against the risk of losing their accumulated advantages.
+Up to nine power-ups can be stored and used when needed, but damage to the tank can permanently break power-up slots[^ref-4].
 
 ### Structure and Progression
 
-The game is structured around exploration of nine planets, each with distinct visual characteristics and enemy types[^ref-15]. Unlike its predecessor, Nova 9 incorporates significant puzzle-solving elements alongside the traditional tank combat, a design decision that proved controversial among players[^ref-16].
+The game is structured in levels. At the start of each level the player warps to a new planet and battles swarms of enemies until that level's boss appears[^ref-24]. The action stretches across nine planets, compared with Stellar 7's seven worlds, and each new level brings new enemies and a new boss[^ref-24]. The first boss, on the planet Kryon, is a huge tank with an impervious bulldozer-shaped shield across its front[^ref-24]. Génération 4 described the first level as an icy world, with later fights on water and in a prehistoric setting[^ref-30].
 
-The planet environments range from barren wastelands to technologically advanced enemy installations. Each world presents unique challenges, enemy configurations, and environmental hazards that require players to adapt their strategies.
+InterAction stressed that the game was more than a reflex test: "Quick reflexes alone won't save you". The article went on: "Navigate through mazes of energy walls, decipher the Raven II's new powers", and "unlock the secrets of Nova 9's planets"[^ref-25].
 
 ### Difficulty and Save System
 
-Notably, the game includes no save feature, requiring players to complete it in single sessions[^ref-10]. Combined with the game's extreme difficulty, this design choice proved polarizing. One MobyGames reviewer stated the game was "Hard as a frickin' rock" and compared its difficulty level to Shadow of the Beast—one of the most notoriously difficult games of the era[^ref-17].
+The DOS version has no save-game feature. Instead, the player gets two chances to continue from the point where they left off[^ref-24]. Computer Gaming World found the game hard enough to warrant a save option. The magazine called it "particularly frustrating to emerge relatively unscathed from the first few levels of the game, lose it all on the next level, and have to start all over from the beginning"[^ref-24]. MobyGames lists a password save method for the Amiga version[^ref-27].
 
-The lack of saves meant that a single mistake in the later levels could cost players hours of progress, leading to significant frustration but also genuine accomplishment for those who persevered.
+One MobyGames user review called the game "Hard as a frickin' rock" and added: "While probably not as insanely difficult as Shadow of the Beast, it's well up there"[^ref-17].
 
 ### Puzzles and Mechanics
 
-The game's shift toward puzzle-solving mechanics was criticized by some reviewers who felt it broke up the action rhythm and had little connection to the plot[^ref-16]. One reviewer asked pointedly: "What's with all the puzzles? This is a tank, not Mario and Luigi!"[^ref-7]. These puzzles required players to navigate through maze-like environments and solve environmental challenges beyond simple combat.
+Alongside the combat, some levels include environmental puzzles. A 2000 MobyGames user review described a typical one: shooting a mirror with a laser at an angle to hit an otherwise unreachable target. The reviewer complained: "What's with all the puzzles? This is a tank, not Mario and Luigi!"[^ref-16]. The same reviewer felt the puzzles broke up the action rhythm and had little to do with the plot[^ref-16].
 
 ## Reception
 
@@ -92,133 +84,113 @@ The game's shift toward puzzle-solving mechanics was criticized by some reviewer
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Dragon | 4.5/5 | Positive review from April 1992[^ref-4] |
-| Amiga Games | 83% | October 1992 review by Kult Boy[^ref-18] |
+| Génération 4 | 91% | Issue 39 (December 1991), PC, reviewed by Jean Delaite[^ref-30] |
+| Computer Gaming World | Positive | Issue 93 (April 1992), reviewed by Todd Threadgill: "an excellent offering for arcade fans everywhere"[^ref-24] |
+| Dragon | 4½/5 | Issue 180 (April 1992), "The Role of Computers" column by Hartley, Patricia and Kirk Lesser[^ref-29] |
 | Datormagazin | 87% | November 1992 review by Göran Fröjdh[^ref-18] |
+| Amiga Games | 83% | November 1992 review by Martin Klaus[^ref-28] |
 | Amiga Mania | 77% | November 1992 review by Tony Jones[^ref-18] |
 | Amiga Joker | 68% | October 1992 review by Max Magenauer[^ref-18] |
 | The One Amiga | 59% | October 1992 review by Simon Byron[^ref-18] |
-| Computer Gaming World | Positive | "An excellent offering for arcade fans everywhere"[^ref-4] |
 
-The range of scores—from 59% to 87%—reflects the game's divisive nature. European reviewers, particularly in Sweden (Datormagazin) and Germany (Amiga Games), responded more favorably than British critics (The One Amiga).
+Scores ranged from 59% in The One Amiga to 91% in the French magazine Génération 4[^ref-18][^ref-30].
 
 ### Critical Analysis
 
-Computer Gaming World praised the game as "an excellent offering for arcade fans everywhere... a thoroughly professional effort"[^ref-4]. This endorsement emphasized the technical quality and appeal to action game enthusiasts.
+Computer Gaming World's Todd Threadgill praised the creative enemy designs, the challenging bosses and the computer-controlled opponents. He wrote that these opponents rose above the "collective intelligence of a brick" of enemies in many earlier games[^ref-24]. He warned that owners of slower machines would see a lower frame rate than in Stellar 7. His two complaints were the missing save-game feature and the reversed keypad controls. He concluded: "Despite these problems, Nova 9 is an excellent offering for arcade fans everywhere, particularly those with machines fast enough to support the game's breathtaking graphics. A thoroughly professional effort"[^ref-24].
 
-However, critics were divided on the puzzle elements. Those seeking pure arcade action found the puzzles intrusive, while others appreciated the additional depth they provided. The extreme difficulty was consistently noted, with reviewers warning that casual players might find the experience frustrating.
+Dragon called Nova 9 "a tremendous, well-coded, futuristic battle arcade game". The reviewers judged its graphics "not quite on a par with Origin's Wing Commander II" and called the sound through their Roland systems "an exciting enhancement to the game's overall feel and play"[^ref-29]. Génération 4's Jean Delaite went further and called Nova 9 "le plus beau jeu d'arcade sur PC" (the most beautiful arcade game on the PC)[^ref-30].
+
+On the Amiga, Amiga Games recommended the game to arcade fans and praised its graphics as a "grafisches Feuerwerk" (graphical fireworks). The magazine found the speed on a standard Amiga disappointing and warned that the game could crash on machines with Kickstart 2.0[^ref-28].
 
 ### Modern Assessment
 
-Modern reviews have been mixed, with players frequently citing the game's extreme difficulty as both its greatest strength and weakness:
-
-| Publication | Score | Notes |
+| Source | Score | Notes |
 |-------------|-------|-------|
-| Abandonware DOS | 4.18/5 | Modern user rating[^ref-15] |
-| MyAbandonware | 4.33/5 | User rating[^ref-14] |
-| MobyGames | 75% | Aggregate user rating[^ref-7] |
-| Glitchwave | 2.50/5.0 | Modern assessment[^ref-20] |
+| MobyGames | 75% | Critic average, DOS (6 ratings)[^ref-17] |
+| MobyGames | 3.9/5 | Player average, DOS (10 ratings)[^ref-17] |
+| MyAbandonware | 4.33/5 | User rating (18 votes)[^ref-14] |
 
-Some players appreciated the technical presentation, with one noting that "both the music (Roland/LAPC-1) and graphics were incredible at the time"[^ref-7]. The game's pseudo-3D graphics were impressive for early 1990s standards[^ref-4], though they have not aged as gracefully as some contemporary titles.
-
-Abandonware DOS humorously summarized the experience: "If you ever wanted to pilot a hovering tank while yelling at a computer screen, Nova 9 has you covered"[^ref-15].
+Player reviews on MobyGames single out the game's difficulty. One player wrote that "both the music (Roland/LAPC-1) and graphics were incredible at the time"[^ref-17].
 
 ## Development
 
 ### Origins
 
-Nova 9 was developed during Dynamix's productive period under Sierra On-Line, when the company was creating both adventure and simulator games[^ref-5]. The game emerged as a direct sequel to Stellar 7 (originally a 1983 game, remade by Dynamix in 1990), continuing that game's story and characters while attempting to expand the gameplay formula[^ref-21].
-
-The development team sought to modernize the Stellar 7 experience with enhanced graphics and deeper gameplay mechanics. The addition of puzzle elements represented an attempt to differentiate the sequel from simple arcade-style action.
+Nova 9 was developed by Dynamix of Eugene, Oregon, then a subsidiary of Sierra[^ref-24]. It is a sequel to Dynamix's Stellar 7[^ref-7][^ref-25]. Sierra's InterAction magazine pitched it as "an epic strategy/arcade game that goes beyond the state-of-the-art boundaries set by Stellar 7"[^ref-25].
 
 ### Production
 
-The development team included:
+MobyGames credits 37 people on the DOS version, including[^ref-26]:
 
-**Designers:**
-- David Selle (Lead Designer)
-- Paul Bowman
+**Design and Writing:**
+- Paul Bowman (Designer; also Programmer)
+- David Selle (Writer; World Design)
+- Nels Bruckner, Jeff Johannigman (Design Contributions)
 
-**Technical Staff:**
-- Damon Slye (3-Space engine development)
-- Multiple programmers and artists from Dynamix's Eugene, Oregon studio
+**Programming and Art:**
+- Paul Bowman, Nels Bruckner (Programmers)
+- Robert Caracol (Art Director)
+- Cyrus Kanga, Damon Mitchell (3-D Graphics)
 
-**Composers:**
-- Christopher Stevens
-- Dale Cooper
+**Audio:**
+- Dale Cooper, Christopher Stevens (Original Score)
+- Christopher Stevens (Sound Effects)
+- Alan McKean (Audio Director)
 
-The music was considered one of the game's highlights, with the Roland/LAPC-1 soundtrack earning particular praise from players with compatible sound hardware[^ref-7][^ref-8].
-
-### Technical Achievements
-
-Nova 9 was built on **Dynamix's 3-Space engine** — the proprietary 3D engine originally developed for the studio's flight simulators — repurposed here for ground-based vehicular combat[^ref-4]. The polygon-graphics output was considered state-of-the-art for 1991 home-computer hardware, with Damon Slye personally driving the engine work[^ref-4][^ref-7]. Audio production featured an original soundtrack by **Christopher Stevens and Dale Cooper**, with the **Roland LAPC-1 / MT-32** mix earning particular praise from players with compatible sound hardware — Dynamix's traditional investment in high-end audio carried into this title[^ref-7][^ref-8]. The release introduced **puzzle elements** to the established Stellar 7 tank-action template, an unusual genre fusion that differentiated the sequel from pure arcade action[^ref-5][^ref-21]. The product also marked the **continuation of the Stellar 7 narrative arc** through the Raven II tank protagonist, demonstrating Dynamix's commitment to franchise continuity uncommon in early-1990s budget action releases[^ref-21].
+The Mr. DOS archive entry lists the same core development team[^ref-8].
 
 ### Technical Implementation
 
-The game was built using Dynamix's 3-Space engine, which enabled the impressive polygon graphics that were considered state-of-the-art for the time period[^ref-4]. The engine had been developed for Dynamix's flight simulators and proved adaptable for ground-based vehicular combat.
+InterAction credited the game's look to "the newest 3Space™ 3D technology and a literal barrage of special effects"[^ref-25]. Sierra Chest lists the engine as 3-Space[^ref-11].
 
-The game was distributed on multiple floppy disk formats:
-- 4x 5.25" disks
-- 6x 3.5" disks
-
-This distribution format was typical for games of the era, allowing compatibility with both older disk drive formats and the increasingly popular 3.5" drives[^ref-10].
-
-### Graphics and Audio
-
-Nova 9 featured pseudo-3D graphics using filled polygon rendering[^ref-4]. The game supported EGA graphics mode as its primary display[^ref-10], though the Amiga version offered enhanced visuals taking advantage of that platform's capabilities.
-
-The audio system supported Roland/LAPC-1 for enhanced sound, providing atmospheric music and sound effects that elevated the combat experience[^ref-10]. Players without Roland hardware still received PC speaker audio, but the difference in quality was significant.
+According to MobyGames, the DOS version supports VGA, EGA and Tandy/PCjr graphics. It supports AdLib, Sound Blaster, Pro Audio Spectrum, Roland MT-32/LAPC-I, Tandy, Thunderboard and PC speaker sound. It requires 640 KB of RAM and shipped on both 3.5" and 5.25" floppy disks[^ref-27]. Dragon's review likewise listed support for Tandy, EGA and VGA graphics with Thunderboard Pro, AdLib, Roland or Sound Blaster boards[^ref-29]. The Amiga version requires 1 MB and uses the 64-color Extra Half-Brite (EHB) mode[^ref-27].
 
 ## Legacy
 
 ### Critical Reputation
 
-Nova 9's legacy is complicated by its difficulty and design choices. While the game featured impressive technical achievements for its time, the shift from pure action to puzzle-heavy gameplay alienated some fans of the original Stellar 7[^ref-16]. The lack of a save feature remains a point of criticism in retrospective assessments.
+Contemporary critics generally rated Nova 9 well. The lack of a save feature was Computer Gaming World's main criticism[^ref-24] and is still noted in modern summaries of the game[^ref-4]. The puzzle sections drew at least one strongly negative player review[^ref-16].
 
-### Planned Sequel
+### An Earlier "Nova 9"
 
-Interestingly, evidence suggests there were tentative plans for another sequel called "Nova 9: The Revenge of Raf Torin," though it's unclear whether any actual development occurred on this project[^ref-22]. The Games That Weren't database documents this unreleased follow-up, suggesting Dynamix or Sierra considered continuing the franchise before other priorities intervened.
+The name "Nova 9" predates this game. The preservation site Games That Weren't reports a message from the coder in a sequence file on the disk version of the original Stellar 7. According to that report, the message mentioned tentative plans for a Stellar 7 sequel called "Nova 9: The Revenge of Raf Torin"[^ref-22]. The site does not know whether any work was started. It notes that the later Nova 9: The Return of Gir Draxon is clearly related through Gir Draxon[^ref-22].
 
 ### Preservation and Accessibility
 
-The game remains available through various abandonware preservation sites and continues to be discussed among retro gaming enthusiasts[^ref-14]. Its inclusion on preservation platforms ensures that players interested in early 1990s polygon graphics and vehicular combat can still experience the game.
+The game is not sold on modern digital storefronts. It remains available through abandonware preservation sites[^ref-14].
 
 ### Stellar 7 Series Context
 
-Nova 9 exists within the broader Stellar 7 franchise:
+Nova 9 sits within the Stellar 7 series:
 
-1. **Stellar 7** (1983) - Original version by Damon Slye
-2. **Stellar 7** (1990) - Dynamix remake with enhanced graphics
-3. **Nova 9: Return of Gir Draxon** (1991) - Direct sequel
-4. **Stellar 7: Draxon's Revenge** (1993) - 3DO console version
-5. **Nova 9: The Revenge of Raf Torin** (Unreleased) - Planned sequel
-
-### Influence on Later Games
-
-While Nova 9 wasn't commercially dominant, its combination of first-person vehicular combat with strategic elements influenced the development of similar games. The tank simulation genre would continue to evolve through titles like Spectre VR (1994) and later games that refined the formula Nova 9 helped establish.
+1. **Stellar 7** (1990) - Dynamix version
+2. **Nova 9: The Return of Gir Draxon** (1991) - Sequel
+3. **Stellar 7: Draxon's Revenge** (1993) - 3DO version
+4. **Stellar-Fire** (1993) - Listed by MobyGames as the next game in the series[^ref-7]
 
 ## Technical Specifications
 
 | Specification | Details |
 |---------------|---------|
-| Engine | 3-Space[^ref-4] |
-| Graphics | EGA, Pseudo-3D polygons[^ref-10] |
-| Sound | Roland/LAPC-1, PC Speaker[^ref-10] |
-| Input | Keyboard (numeric/arrow keys), Joystick[^ref-10] |
-| Perspective | First-person with multiple camera options[^ref-14] |
-| Save System | None (single-session play required)[^ref-10] |
-| Planets | 9 distinct worlds[^ref-15] |
-| Media | 4x 5.25" disks or 6x 3.5" disks[^ref-10] |
+| Engine | 3Space[^ref-25] |
+| Graphics (DOS) | VGA, EGA, Tandy/PCjr[^ref-27] |
+| Sound (DOS) | AdLib, Sound Blaster, Pro Audio Spectrum, Roland MT-32/LAPC-I, Tandy, Thunderboard, PC speaker[^ref-27] |
+| Input | Keyboard, mouse, analog joystick[^ref-27] |
+| Perspective | First-person[^ref-7] |
+| Save System | None on DOS (two continues)[^ref-24]; password on Amiga[^ref-27] |
+| Planets | 9[^ref-24] |
+| Media | 3.5" and 5.25" floppy disks (DOS); 3.5" floppy (Amiga)[^ref-27] |
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Not currently available on modern digital platforms
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/nova-9-the-return-of-gir-draxon-1xh)
 - [Internet Archive](https://archive.org/details/msdos_Nova_9_-_Return_of_Gir_Draxon_1991)
+- [Internet Archive – Demo](https://archive.org/details/Nova9ReturnOfGirDraxonDemo)
 - [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Nova+9:+The+Return+of+Gir+Draxon&gid=3182)
 
 ## See Also
@@ -230,23 +202,24 @@ While Nova 9 wasn't commercially dominant, its combination of first-person vehic
 
 ## References
 
-[^ref-1]: [Amiga Fandom Wiki](https://amiga.fandom.com/wiki/Nova_9:_The_Return_of_Gir_Draxon) – Release year and story information
+[^ref-1]: [Amiga Fandom Wiki](https://amiga.fandom.com/wiki/Nova_9:_The_Return_of_Gir_Draxon) – DOS release in 1991 and Amiga a year later; story information
 [^ref-2]: [Archive.org](https://archive.org/details/msdos_Nova_9_-_Return_of_Gir_Draxon_1991) – Game story and Raven II details
-[^ref-3]: [Archive.org Demo](https://archive.org/details/Nova9ReturnOfGirDraxonDemo) – Marketing tagline
-[^ref-4]: [Wikipedia](https://en.wikipedia.org/wiki/Nova_9:_The_Return_of_Gir_Draxon) – Engine information, reviews, and technical details
-[^ref-5]: [Sierra Fandom](https://sierra.fandom.com/wiki/Dynamix) – Context of Sierra's diversification strategy
-[^ref-7]: [MobyGames](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/) – Developer information and user reviews
-[^ref-8]: [Archive.org](https://archive.org/details/mrdos_nova9) – Designer credits and composer information
+[^ref-3]: [Archive.org Demo](https://archive.org/details/Nova9ReturnOfGirDraxonDemo) – Marketing tagline and "In the unexplored system of Nova 9, Draxon awaits"
+[^ref-4]: [Wikipedia](https://en.wikipedia.org/wiki/Nova_9:_The_Return_of_Gir_Draxon) – Raven II cannon, shields and armor; nine-slot power-up system; no save feature
+[^ref-7]: [MobyGames](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/) – Developer/publisher, DOS 1991 and Amiga 1992 releases, game description, series order
+[^ref-8]: [Archive.org](https://archive.org/details/mrdos_nova9) – Mr. DOS collection entry listing the development team
 [^ref-9]: [Wikidata](https://www.wikidata.org/wiki/Q7064010) – Publisher information
-[^ref-10]: [OpenRetro](https://openretro.org/game/663475f7-23c3-5f32-912b-ef40cb6f554e) – Platform and technical information
-[^ref-11]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=373&title=nova-9&fld=walkthrough) – Sarah's death and background story
-[^ref-12]: [Metacritic](https://www.metacritic.com/game/nova-9-the-return-of-gir-draxon/) – Game setting description
-[^ref-14]: [MyAbandonware](https://www.myabandonware.com/game/nova-9-the-return-of-gir-draxon-1xh) – Perspective and gameplay information
-[^ref-15]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Nova+9:+The+Return+of+Gir+Draxon&gid=3182) – Planet exploration details and user rating
-[^ref-16]: [MobyGames Review](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/user-review/2681078/) – Design criticism regarding puzzles
-[^ref-17]: [MobyGames Reviews](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/reviews/dos/) – Difficulty assessment
-[^ref-18]: [AMR Reviews](http://amr.abime.net/review_25631) – Amiga magazine review scores
-[^ref-20]: [Glitchwave](https://glitchwave.com/game/nova-9-the-return-of-gir-draxon/) – Modern rating
-[^ref-21]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/nova-9-return-of-gir-draxon) – Sequel relationship to Stellar 7
-[^ref-22]: [Games That Weren't](https://www.gamesthatwerent.com/gtw64/nova-9-the-revenge-of-raf-torin/) – Planned sequel information
-[^ref-23]: [IGDB – Nova 9: The Return of Gir Draxon](https://www.igdb.com/games/nova-9-the-return-of-gir-draxon) — Internet Games Database entry, multi-platform release confirmation
+[^ref-11]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=373&title=nova-9&fld=walkthrough) – Sarah's death, the nine planets of the Nova 9 system, 3-Space engine listing
+[^ref-12]: [Metacritic](https://www.metacritic.com/game/nova-9-the-return-of-gir-draxon/) – Box summary: "In the unexplored system of Nova 9, Draxon awaits"
+[^ref-14]: [MyAbandonware](https://www.myabandonware.com/game/nova-9-the-return-of-gir-draxon-1xh) – First-person perspective, user rating
+[^ref-16]: [MobyGames Review](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/user-review/2681078/) – 2000 user review criticizing the puzzles
+[^ref-17]: [MobyGames Reviews](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/reviews/dos/) – DOS critic and player averages; player reviews on difficulty and music
+[^ref-18]: [AMR Reviews](https://amr.abime.net/review_25631) – Amiga Magazine Rack list of magazine review scores
+[^ref-22]: [Games That Weren't](https://www.gamesthatwerent.com/gtw64/nova-9-the-revenge-of-raf-torin/) – Report of a 1984 Stellar 7 disk note about a planned "Nova 9: The Revenge of Raf Torin" sequel
+[^ref-24]: [Computer Gaming World #93 (April 1992), pp. 40, 42](https://archive.org/details/Computer_Gaming_World_Issue_93) – Todd Threadgill, "Draxon's Back!"; credit box lists designer Paul Bowman, price $34.95, no copy protection
+[^ref-25]: [InterAction, Fall 1991 (Vol. 4 No. 3), p. 18](https://archive.org/details/012_InterAction_Volume_4_Number_3_Fall_1991) – Jerry Luttrell, Nova 9 feature: "newest 3Space™ 3D technology", "nine new strange and exotic worlds"
+[^ref-26]: [MobyGames – DOS credits](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/credits/dos/) – Full credits: designer Paul Bowman, writer/world design David Selle, score by Dale Cooper and Christopher Stevens
+[^ref-27]: [MobyGames – Specs](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/specs/) – DOS and Amiga technical specifications
+[^ref-28]: [Amiga Games, November 1992, p. 50](https://archive.org/details/Amiga_Games_1992-11) – Review by Martin Klaus ("mk"), overall 83%
+[^ref-29]: [Dragon #180 (April 1992), p. 60](https://archive.org/details/dragon-magazine/Dragon%20Magazine%20%23180%5Bocr%5D/page/60/mode/1up) – "The Role of Computers": Nova 9 rated 4½ stars, PC/MS-DOS $34.95
+[^ref-30]: [Génération 4 #39 (December 1991), pp. 84–85](https://archive.org/details/generation4-magazine-039) – Review by Jean Delaite, 91%
