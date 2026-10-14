@@ -3,14 +3,14 @@ title: 'Hero-U: Rogue to Redemption'
 release_year: 2018
 developer: Transolar Games
 designer: [Lori Ann Cole, Corey Cole]
-publisher: Transolar Games
+publisher: [Transolar Games, Silesia Games]
 genre: Adventure RPG
 platforms: [Windows, macOS, Linux, Nintendo Switch]
 series: Hero-U
 engine: Unity
 protagonist: Shawn O'Conner
 sierra_lineage: Post-Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-10-14'
 composer: [Ryan Grogan]
 description: 'Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing
   game created by Lori Ann Cole and Corey Cole, the legendary designers behind...'
@@ -18,20 +18,21 @@ tags: [2010s, adventure, coles, hero-u, rpg, sierra]
 ---
 # Hero-U: Rogue to Redemption
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 ## Overview
 
-Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing game created by [[Lori Ann Cole]] and [[Corey Cole]], the legendary designers behind Sierra On-Line's acclaimed Quest for Glory series[^ref-1]. Released in July 2018 after a troubled six-year development cycle funded through two separate Kickstarter campaigns, the game represents the Coles' long-awaited return to game development—their first major project in nearly two decades[^ref-2]. While not a direct sequel to Quest for Glory, Hero-U features the same distinctive mix of adventure gaming, role-playing elements, humor, and immersive storytelling that defined their earlier work[^ref-3].
+Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing game created by [[Lori Ann Cole]] and [[Corey Cole]], the legendary designers behind Sierra On-Line's acclaimed Quest for Glory series[^ref-1]. Released in July 2018 after a troubled six-year development cycle funded through two separate Kickstarter campaigns, the game represents the Coles' long-awaited return to game development—after Sierra closed its doors in 1999, little was heard from them in computer game development until they pitched Hero-U on Kickstarter in 2012[^ref-17]. While not a direct sequel to Quest for Glory, Hero-U features the same distinctive mix of adventure gaming, role-playing elements, humor, and immersive storytelling that defined their earlier work[^ref-3].
 
-The game places players in the role of Shawn O'Conner, a young wannabe thief whose botched first burglary attempt leads to an unexpected punishment: enrollment at Hero University, a mysterious academy where students train to become heroes[^ref-4]. Set over a 50-day in-game timeline, players must navigate the challenges of university life—attending classes, forging relationships with classmates, and exploring dangerous dungeons beneath the castle—all while uncovering secrets about their own hidden past[^ref-5]. The game can play out as an adventure game, a role-playing game, a mystery, a romance, or an interactive novel depending on player choices[^ref-6].
+The game places players in the role of Shawn O'Conner, a young wannabe thief whose botched first burglary attempt leads to an unexpected punishment: enrollment at Hero University, a mysterious academy where students train to become heroes[^ref-46]. Set over a 50-day in-game timeline, players must navigate the challenges of university life—attending classes, forging relationships with classmates, and exploring dangerous dungeons beneath the castle—all while uncovering secrets about their own hidden past[^ref-5]. The game can play out as an adventure game, a role-playing game, a mystery, a romance, or an interactive novel depending on player choices[^ref-6].
 
-Simply put, there's nothing on the market quite like Hero-U[^ref-7]. As one reviewer noted, it is "Quest for Glory VI in all but name," representing a spiritual continuation of a beloved gaming legacy from designers who, by their own admission, were "pushing 70" when they finally released the game[^ref-2]. The project embodies a labor of love from veterans who refused to compromise their vision despite significant budget constraints and development challenges.
+"Simply put, there's nothing on the market that's quite like Hero-U," wrote programmer Cidney Hamilton in the team's official postmortem[^ref-7]. Games historian Jimmy Maher has called it "Quest for Glory VI in all but name"; writing in 2025, he reported that Corey Cole told him the couple "are pushing 70, and spending more time on ourselves"[^ref-2]. The project embodies a labor of love from veterans who refused to compromise their vision despite significant budget constraints and development challenges.
 
 > [!info]- Game Info
 > **Developer:** [[Transolar Games]][^ref-1]
 > **Designer:** [[Lori Ann Cole]], [[Corey Cole]][^ref-1]
-> **Publisher:** Transolar Games[^ref-1]
+> **Publisher:** Transolar Games (PC)[^ref-1]; Silesia Games (Nintendo Switch)[^ref-38]
+> **Composer:** Ryan Grogan[^ref-1]
 > **Engine:** Unity[^ref-1]
 > **Platforms:** Windows, macOS, Linux, Nintendo Switch[^ref-1]
 > **Release Year:** 2018
@@ -45,13 +46,13 @@ The story begins with Shawn O'Conner, a young man from humble origins who dreams
 
 Hero University is no ordinary academy. It houses multiple schools training different types of heroes, though Shawn specifically enters the Rogues class—which operates undercover as Bard students to conceal their true nature[^ref-11]. The castle itself sits atop a labyrinth of abandoned wine cellars, stunning sea caves, creepy catacombs, and deadly dungeons, all of which Shawn must explore during his nighttime adventures[^ref-5]. As he navigates both the social hierarchy of the university and the physical dangers beneath it, Shawn encounters supernatural threats including ghosts who require his help—though communicating with them first requires crafting a special gris-gris charm with the cook's assistance[^ref-12].
 
-Throughout the game's 50-day structure, Shawn strives to become "Rogue of the Year" while making friends and enemies among his fellow students, engaging in romance, and uncovering the secrets of his own hidden past[^ref-4]. The narrative branches significantly based on player choices, allowing Shawn to develop into either a heroic rogue who helps others or a more traditional thief focused on personal gain[^ref-13]. Major storyline events include battling creatures that threaten the school, leading zombie pirates to defeat a kraken, and ultimately confronting the Wraith King in the final dungeon[^ref-14]. The choices players make throughout shape not only the immediate story but are designed to carry forward into planned sequels set at the university.[^ref-46]
+Throughout the game's 50-day structure, Shawn strives to become "Rogue of the Year" while making friends and enemies among his fellow students, engaging in romance, and uncovering the secrets of his own hidden past[^ref-3]. The story changes based on how the player chooses to play; as Eurogamer described the 2012 pitch, players "must decide if you want to work towards becoming a rogue hero or a thief"[^ref-32]. Major storyline events include battling creatures that threaten the school, leading zombie pirates to defeat a kraken, and ultimately confronting the Wraith King in the final dungeon[^ref-14]. The choices players make throughout shape not only the immediate story but were planned to carry forward into later games set at the university through a "save your decisions" system[^ref-9].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Hero-U employs an isometric perspective with point-and-click controls, presenting players with a hybrid adventure/role-playing experience that distinguishes itself from pure examples of either genre[^ref-15]. The interface was designed to accommodate both mouse-driven interaction on PC and touchscreen functionality on the Nintendo Switch, with the latter version making what one reviewer called "the best use of the platform's criminally underused touchscreen functionality out of any third party game I've played"[^ref-16]. Players navigate Shawn through the castle, interact with objects and characters, manage inventory, and engage in turn-based combat through intuitive click-based controls.
+Hero-U employs an isometric perspective with point-and-click controls, presenting players with a hybrid adventure/role-playing experience that distinguishes itself from pure examples of either genre[^ref-15][^ref-18]. The interface was designed to accommodate both mouse-driven interaction on PC and touchscreen functionality on the Nintendo Switch, with the latter version making what one reviewer called "the best use of the platform's criminally underused touchscreen functionality out of any third party game I've played"[^ref-16]. Players navigate Shawn through the castle, interact with objects and characters, manage inventory, and engage in turn-based combat through intuitive click-based controls.
 
 The game functions partially as a visual novel, with extensive dialogue sequences and character interactions driving much of the experience[^ref-17]. Unlike traditional adventure games, Hero-U prominently features RPG elements including character statistics, skill progression, and a combat system reminiscent of the original Fallout games[^ref-16]. The combat is entirely turn-based, departing from the Quest for Glory series' real-time action-oriented duels in favor of tactical encounters on a grid[^ref-18].
 
@@ -64,13 +65,13 @@ The game unfolds over a strict 50-day calendar, with time functioning as "the un
 - **Social Development:** Building relationships with classmates that can lead to friendship, rivalry, or romance with characters including Katie, Esme, Thomas, and Kyro[^ref-20]
 - **Skill Training:** Developing combat abilities, stealth skills, and other attributes through practice and use[^ref-19]
 
-The guide principle "DOING is better than TRAINING" reflects the game's skill system, which rewards players more for practical application of abilities than for dedicated practice sessions[^ref-19]. Skills including Combat, Defense, Throwing, Luck, Moxie, and Fitness all improve through use, following a non-standard progression system distinct from traditional experience-level advancement[^ref-11].
+The guide principle "DOING is better than TRAINING" reflects the game's skill system, which rewards players more for practical application of abilities than for dedicated practice sessions[^ref-19]. Skills including Combat, Defense, Throwing, Luck, Moxie, and Fitness all improve through use, following a non-standard progression system distinct from traditional experience-level advancement[^ref-11][^ref-21].
 
 ### Puzzles and Mechanics
 
 Hero-U features adventure game puzzles integrated with its RPG systems, including floor puzzles, shield relief challenges, and environmental exploration requiring careful observation[^ref-10]. The puzzle design emphasizes multiple solutions based on character build and player approach—"Figuring out puzzles, exploring the consequences of dialogue options, and playing according to your own path are the elements that make this game fun"[^ref-21].
 
-Combat, while present, is entirely optional for players who prefer a pure adventure experience[^ref-22]. As a Rogue, Shawn can sneak around many combat situations, and the game even includes an achievement for completing it without ever getting into a fight[^ref-23]. For those who choose to engage enemies, the turn-based system allows for tactical positioning and sneak attacks that "can dramatically increase damage if successful"[^ref-21]. The Serpent's Tooth is considered the game's strongest weapon, with "base damage higher than any other weapon, even at maximum stats"[^ref-21].
+Combat, while present, is entirely optional for players who prefer a pure adventure experience[^ref-22]. As a Rogue, Shawn can sneak around many combat situations, and the game even includes an achievement for completing it without ever getting into a fight[^ref-23]. For those who choose to engage enemies, the turn-based system allows for tactical positioning and sneak attacks; as one fan guide puts it, "If you do manage to sneak up on an enemy unnoticed, your attack damage will dramatically increase"[^ref-21]. The same guide names the Serpent's Tooth as the game's strongest weapon: its "Base damage is higher than any other weapon, even at maximum stats"[^ref-21].
 
 The game also includes a card game called Poobah that provides both entertainment and in-game rewards[^ref-24], along with gambling elements that earned it an ESRB content descriptor for "Simulated Gambling"[^ref-25].
 
@@ -93,11 +94,11 @@ The game has maintained its positive reputation in the years since release, part
 RPGWatch's Corwin review summarized the consensus well: "The Coles have picked up right where they left off twenty years ago with a game I thoroughly enjoyed from start to finish"—though noting it was "A very good game that is just short of being excellent, because of one or more minor issues that reduce the level of enjoyment a little bit"[^ref-24]. RPGamer's Michael Baker observed that "Hero-U: Rogue to Redemption couldn't get everything absolutely perfect, but no game ever really does. Instead, it got a whole lot of things just right, which was enough to counterbalance most issues"[^ref-11].
 
 **Aggregate Scores:**
-- **Metacritic (PC):** 80/100 (4 critic reviews)[^ref-1]
+- **Metacritic (PC):** 80/100 (4 critic reviews)[^ref-29]
 - **Metacritic (Switch):** 76/100 (14 critic reviews)[^ref-30]
 - **OpenCritic:** 76 average, 53% critics recommend[^ref-31]
 - **MobyGames:** 7.3/10[^ref-15]
-- **GOG User Reviews:** Mixed-to-positive[^ref-3]
+- **GOG User Reviews:** 4.4/5[^ref-3]
 
 ## Development
 
@@ -105,13 +106,13 @@ RPGWatch's Corwin review summarized the consensus well: "The Coles have picked u
 
 Hero-U's origins trace back to the Coles' earlier work on a defunct email-based web game called "The School for Heroes," which explored similar themes of heroic education[^ref-1]. After leaving Sierra On-Line following the completion of Quest for Glory V in 1998, the Coles largely stepped away from game development. Their return was inspired partly by the Kickstarter renaissance that saw other veteran designers successfully crowdfunding spiritual successors to beloved franchises[^ref-32].
 
-The game was originally conceived as a project the Coles believed they could complete in 1-2 years with a modest budget[^ref-33]. As Corey Cole explained in a 2013 interview: "We are making a game with equally rich game play that we can develop under a much smaller budget"[^ref-9]. The goal was always to create a game in the Quest for Glory mold—indeed, they considered calling it Quest for Glory VI before licensing issues prevented this approach[^ref-9]. "The #1 goal is to make a great game that players will love; everything else is secondary," Cole stated[^ref-9].
+The game was originally conceived as a project the Coles believed they could complete in 1-2 years with a modest budget[^ref-33]. As Corey Cole explained in an October 2012 interview: "We are making a game with equally rich game play that we can develop under a much smaller budget"[^ref-9]. When the Coles began seriously considering a Kickstarter in mid-2012, a Quest for Glory VI "was on the table" alongside a Quest for Glory I reboot and unrelated projects, but they had no license to make a Quest for Glory game and chose Hero-U instead[^ref-9]. "The #1 goal is to make a great game that players will love; everything else is secondary," Cole stated[^ref-9].
 
 The Coles were candid about the commercial challenges facing their style of game. "You can't sell games that promise story, puzzles, and intelligent game play. Games like ours don't appeal to the mass market," they acknowledged during the Kickstarter campaign[^ref-13]. This awareness shaped their approach to development—focusing on what they knew best while working within severe budget constraints.
 
 ### Production
 
-The first Kickstarter campaign launched in October 2012, seeking $400,000 to fund development[^ref-32]. The campaign succeeded with just 4 hours remaining before its deadline, ultimately raising $409,150 from 6,093 backers[^ref-17]. A second Kickstarter campaign raised an additional $116,888, bringing total crowdfunding to over half a million dollars—though still only about 25% of the budget the team originally desired[^ref-7].
+The first Kickstarter campaign launched in October 2012, seeking $400,000 to fund development[^ref-32]. The campaign met its goal with four hours left[^ref-13], ultimately raising $409,150 from 6,093 backers[^ref-17]. A second Kickstarter campaign in 2015 raised an additional $116,888[^ref-17], bringing total crowdfunding to over half a million dollars. According to the postmortem, fans wanted a game like Quest for Glory IV, which had a $1.5 million budget in 2015 dollars, and "The Kickstarter provided 25% of that"[^ref-7].
 
 Development proved far more challenging than anticipated. "We figured we could turn out the original concept game in 1-2 years, but development ballooned to over five years," Corey Cole later admitted[^ref-33]. The game was developed by a remote, part-time team facing numerous hurdles. In January 2015, the project underwent a significant reboot when experienced Unity developers were added to address technical challenges[^ref-1]. The original concept changed considerably during this period—the final product "bears little resemblance to early concept art" according to contemporary coverage[^ref-18].
 
@@ -121,12 +122,13 @@ Cidney Hamilton, the game's programmer, provided detailed insight into the produ
 - **Lead Designers:** Lori Ann Cole, Corey Cole
 - **Composer:** Ryan Grogan
 - **Development Partner:** Brawsome (MacGuffin's Curse developer)[^ref-32]
-- **Art Partner:** FAR Studio[^ref-34]
+- **Studio:** Transolar Games, the Coles' own studio (their earlier FAR Studio was by then used for art and web development)[^ref-34]
+- **Additional Writer:** Josh Mandel[^ref-7]
 - **Authorized Guide Author:** Meghann O'Neill[^ref-35]
 
 ### Technical Achievements
 
-Hero-U was built in the Unity engine, a departure from the proprietary systems the Coles had worked with at Sierra[^ref-1]. The choice allowed for multi-platform development but introduced its own challenges for a team learning new technology. The isometric 2D tile-based approach was chosen deliberately to focus resources on gameplay and story rather than expensive 3D environments[^ref-9].
+Hero-U was built in the Unity engine, a departure from the proprietary systems the Coles had worked with at Sierra[^ref-1]. The choice allowed for multi-platform development but introduced its own challenges for a team learning new technology. The 2012 pitch called for 2D tile maps, which Corey Cole said would emphasize exploration and tactical skills while keeping the budget small[^ref-9]. That plan did not survive production: according to the postmortem, a top-down tiled 2D look and then a 2.5D "proscenium stage" approach both ran into technical and aesthetic problems, and the team "made the decision to start over using 3D technology"[^ref-7]. The shipped game features full 3D environments alongside 2D painted scenes[^ref-6].
 
 The game features an original soundtrack by composer Ryan Grogan, later released as a separate DLC[^ref-36]. The music was specifically designed to enhance the fantasy atmosphere and support the game's various moods—from the lighthearted social scenes to tense dungeon exploration.
 
@@ -151,7 +153,7 @@ Character interaction and dialogue received particular attention. "To Lori, inte
 
 ### Cut Content
 
-The extended development period and budget constraints inevitably resulted in some features being scaled back or removed from the original vision. The combat system underwent significant changes from early designs—the original Quest for Glory-style action-oriented 1v1 duels were replaced with the final turn-based tactical system[^ref-18]. An Action Point combat system was considered during development but "implementation was challenging"[^ref-14].
+The extended development period and budget constraints inevitably resulted in some features being scaled back or removed from the original vision. The combat system underwent significant changes from early designs—the original Quest for Glory-style action-oriented 1v1 duels were replaced with the final turn-based tactical system[^ref-18]. Corey Cole later wrote on the Steam forums, "I originally designed the combat to use an Action Point system, but the programmer had a lot of problems implementing it"[^ref-14]. The postmortem adds that stretch goals "such as voice acting, some boss fights, and a companion NPC" had to be scrapped after the second Kickstarter met its goal without vastly exceeding it[^ref-7].
 
 ### Version History
 
@@ -159,7 +161,6 @@ The extended development period and budget constraints inevitably resulted in so
 |---------|------|----------|-------|
 | 1.0 | July 10, 2018 | PC/Mac/Linux | Initial release on Steam and GOG[^ref-18] |
 | 1.5 | February 25, 2019 | All | Quality of life improvements, pacifist route fixes, UI improvements[^ref-39] |
-| 2.1 | 2020 | All | Resolution and stability fixes[^ref-40] |
 | 2.2 | July 25, 2020 | All | Multiple bug fixes[^ref-41] |
 | 20210817 | August 17, 2021 | All | Latest major version[^ref-42] |
 | Switch | February 9, 2021 | Nintendo Switch | Console port release[^ref-38] |
@@ -168,7 +169,7 @@ The extended development period and budget constraints inevitably resulted in so
 
 The game has experienced various technical issues across its lifespan. The Switch version notably suffered from controller cursor movement issues when played in docked mode, with no sensitivity option available for cursor control[^ref-26]. Client crashes and game freezing during certain actions were reported on the Switch port[^ref-16].
 
-Resolution change issues were documented in version 1.5, requiring patches to address[^ref-40]. The development team at Transolar Games continued supporting the game with updates well after launch—the Version 1.5 patch notes described it as "a small change in nomenclature – We might have called it Patch 5 previously – but it contains some big quality of life improvements to the game"[^ref-39].
+PCGamingWiki notes that as of version 1.5 the resolution cannot be changed in-game, that users have reported resolution issues since that update, and that command-line arguments can set a custom resolution[^ref-40]. The development team at Transolar Games continued supporting the game with updates well after launch—the Version 1.5 patch notes described it as "a small change in nomenclature – We might have called it Patch 5 previously – but it contains some big quality of life improvements to the game"[^ref-39].
 
 ### Easter Eggs and Trivia
 
@@ -193,26 +194,19 @@ The game features multiple endings based on player choices throughout the 50-day
 
 ## Voice Cast
 
-Hero-U does not feature full voice acting, instead presenting dialogue through text[^ref-14]. However, the game does include some voiced elements:
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Kalbin | Cyrus Nemati |
-| Tilly | Zehra Fazal |
-
-The decision to limit voice acting was driven by budget constraints—full voice work was one of the features that would have required significantly more funding than the Kickstarter campaigns provided[^ref-7].
+Hero-U has no voice acting; all dialogue is presented as text[^ref-17][^ref-14]. Voice acting had been a Kickstarter stretch goal, but it was among the features that "had to be scrapped" when the second campaign made its goal without vastly exceeding it[^ref-7].
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Hero-U's commercial performance was modest but sufficient to sustain the development team. According to Cidney Hamilton's postmortem, first-month sales "did not reach $100,000" at the initial $35 price point, which was later reduced to $20[^ref-7]. Steam owner estimates from SteamSpy suggest between 0-20,000 owners for the soundtrack DLC, indicating similarly modest numbers for the base game[^ref-44].
+Hero-U's commercial performance was modest but sufficient to sustain the development team. According to Cidney Hamilton's postmortem, reaching $100,000 in first-month sales was critical for premium placement during Steam promotions, and at the initial $35 price "We did not come close to hitting that level"; the price was cut to $20 in early 2019[^ref-7]. Steam owner estimates from SteamSpy suggest between 0-20,000 owners for the soundtrack DLC, indicating similarly modest numbers for the base game[^ref-44].
 
 The game earned award nominations including "Best Writing - Comedy" and "Best Non-Traditional Adventure"[^ref-37]. While not a commercial blockbuster, the game found its audience among Quest for Glory devotees and fans of story-driven RPGs.
 
 ### Collections
 
-Hero-U: Rogue to Redemption has remained available as a standalone title across multiple digital storefronts including Steam, GOG, Humble Bundle, the Mac App Store, itch.io, and Fireflower Games[^ref-35]. It has not been included in any major compilation releases as of 2026.
+Hero-U: Rogue to Redemption has remained available as a standalone title across multiple digital storefronts including Steam, GOG, Humble Bundle, the Mac App Store, itch.io, and Fireflower Games[^ref-35]. It has not been included in any major compilation releases as of 2026. A Nintendo Switch port published by Silesia Games followed on February 9, 2021[^ref-38], and Transolar's official site lists a PlayStation version as "Coming soon"; no PlayStation release date has been announced there[^ref-46].
 
 ### Fan Projects
 
@@ -264,25 +258,24 @@ Hero-U also represents the beginning of an intended series, with the Coles plann
 ## References
 
 [^ref-1]: [Wikipedia – Hero-U: Rogue to Redemption](https://en.wikipedia.org/wiki/Hero-U%3A_Rogue_to_Redemption) – release dates, developers, engine, Metacritic score, development history
-[^ref-2]: [The Digital Antiquarian](https://www.filfre.net/) – Quest for Glory VI comparison, developer ages
-[^ref-3]: [GOG.com – Hero-U: Rogue to Redemption](https://www.gog.com/en/game/herou_rogue_to_redemption) – game description, reviews, release information
-[^ref-4]: [GOG Unlocked](https://gogunlocked.com/hero-u-rogue-to-redemption-free-download/) – story description, developer credits
+[^ref-2]: [The Digital Antiquarian – The End of Sierra as We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) – Jimmy Maher, May 23, 2025; "Quest for Glory VI in all but name", Corey Cole's "pushing 70" remark
+[^ref-3]: [GOG.com – Hero-U: Rogue to Redemption](https://www.gog.com/en/game/herou_rogue_to_redemption) – game description (Rogue of the Year, hidden past), 4.4/5 user rating, release information
 [^ref-5]: [Marvin Games Walkthrough](https://marvingames.com/10564-hero-u-rogue-to-redemption-walkthrough-part-1-to-3/) – game locations, structure, combat details
 [^ref-6]: [Hero-U Official Website](https://www.hero-u.com/RtR/) – game description, genre flexibility
-[^ref-7]: [Gamedeveloper Postmortem](https://www.gamedeveloper.com/production/hero-u-rogue-to-redemption-postmortem) – development details, sales data, budget information
-[^ref-9]: [New York Post Interview (Archive.org)](https://web.archive.org/web/20130207163851/http://www.nypost.com/p/blogs/gamereport/interview_with_cori_cole_creator_fo3JcablCc214MdZhtEh1M) – design philosophy, story setup, planned features
+[^ref-7]: [Gamedeveloper Postmortem](https://www.gamedeveloper.com/production/hero-u-rogue-to-redemption-postmortem) – Cidney Hamilton's postmortem: budget, 3D switch, scrapped stretch goals, pricing and sales
+[^ref-9]: [New York Post Interview (Archive.org)](https://web.archive.org/web/20130207163851/http://www.nypost.com/p/blogs/gamereport/interview_with_cori_cole_creator_fo3JcablCc214MdZhtEh1M) – Oct 16, 2012 interview: design philosophy, story setup, QfG VI/licensing, 2D tile-map plan, "save your decisions" plan
 [^ref-10]: [GameFAQs Board Discussion](https://gamefaqs.gamespot.com/boards/240793-hero-u-rogue-to-redemption/76800773) – puzzle hints, game motto
 [^ref-11]: [RPGamer Review](https://rpgamer.com/review/hero-u-rogue-to-redemption-review/) – skill system, class details, review summary
 [^ref-12]: [ChapterCheats Hint Guide](https://www.chaptercheats.com/cheat/pc/416731/herou-rogue-to-redemption/hint/146411) – ghost communication mechanics
-[^ref-13]: [Forbes Kickstarter Coverage](https://www.forbes.com/sites/erikkain/2012/11/19/hero-u-rogue-to-redemption-approaches-the-kickstarter-finish-line/) – design philosophy, combat description
-[^ref-14]: [Steam Community Discussion](https://steamcommunity.com/app/375440/discussions/0/1743355067136229554/?ctp=2) – gameplay details, development challenges
+[^ref-13]: [Forbes Kickstarter Coverage](https://www.forbes.com/sites/erikkain/2012/11/19/hero-u-rogue-to-redemption-approaches-the-kickstarter-finish-line/) – Kickstarter page quote on commercial challenges; goal met with four hours left
+[^ref-14]: [Steam Community Discussion](https://steamcommunity.com/app/375440/discussions/0/1743355067136229554/?ctp=2) – Corey Cole on the abandoned Action Point combat design; player notes on story events and lack of voice acting
 [^ref-15]: [MobyGames – Hero-U: Rogue to Redemption](https://www.mobygames.com/game/111162/hero-u-rogue-to-redemption/) – credits, platforms, ratings, technical details
 [^ref-16]: [TechRaptor Switch Review](https://techraptor.net/gaming/reviews/hero-u-rogue-to-redemption-nintendo-switch-review) – review score, touchscreen praise, easter eggs, technical issues
-[^ref-17]: [Choicest Games Review](https://www.choicestgames.com/2018/10/hero-u-rogue-to-redemption-review.html) – Kickstarter funding details, visual novel comparison
+[^ref-17]: [Choicest Games Review](https://www.choicestgames.com/2018/10/hero-u-rogue-to-redemption-review.html) – both Kickstarter campaigns ($409,150 / $116,888), visual novel comparison, no voice acting
 [^ref-18]: [Rock Paper Shotgun Release Coverage](https://www.rockpapershotgun.com/2018/07/10/hero-u-rogue-to-redemption-sneaks-into-stores-today/) – release date, concept changes, combat system changes
 [^ref-19]: [Reddit Time Management Guide](https://www.reddit.com/r/roguetoredemption/comments/8zev0d/you_either_rogue_the_day_or_the_day_rogues_you_a/) – time system, skill advice
 [^ref-20]: [Reddit r/roguetoredemption](https://www.reddit.com/r/roguetoredemption/) – romance options, community discussion
-[^ref-21]: [GameFAQs Comprehensive Guide](https://gamefaqs.gamespot.com/pc/240793-hero-u-rogue-to-redemption/faqs/79804) – combat mechanics, weapon analysis, puzzle philosophy
+[^ref-21]: [GameFAQs Comprehensive Guide](https://gamefaqs.gamespot.com/pc/240793-hero-u-rogue-to-redemption/faqs/79804) – combat mechanics, sneak attacks, stats (incl. Luck, Moxie), weapon analysis
 [^ref-22]: [Walkthrough King](https://www.walkthroughking.com/text/herourtr.aspx) – optional combat, game structure
 [^ref-23]: [Steam Community Guides](https://steamcommunity.com/app/375440/guides/) – pacifist achievement, skill focus
 [^ref-24]: [RPGWatch Review](https://rpgwatch.com/articles/hero-u--rogue-to-redemption-review-459.html) – Poobah card game, 50-day structure, review score
@@ -301,10 +294,10 @@ Hero-U also represents the beginning of an intended series, with the Coles plann
 [^ref-37]: [Steam Store Page](https://store.steampowered.com/app/375440/HeroU_Rogue_to_Redemption/) – system requirements, awards, reviews
 [^ref-38]: [Nintendo Official Page](https://www.nintendo.com/us/store/products/hero-u-rogue-to-redemption-switch/) – Switch specifications, release date
 [^ref-39]: [GameBanshee Version 1.5 News](https://www.gamebanshee.com/news/121953-hero-u-rogue-to-redemption-version-1-5-live.html) – patch notes, quality of life improvements
-[^ref-40]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Hero-U:_Rogue_to_Redemption) – version history, technical issues
+[^ref-40]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Hero-U:_Rogue_to_Redemption) – resolution cannot be changed in-game as of v1.5; command-line workaround
 [^ref-41]: [Transolar Games itch.io Devlog](https://transolar-games.itch.io/hero-u-rogue-to-redemption/devlog/164920/hero-u-22-patch-available) – version 2.2 patch notes
 [^ref-42]: [GOGDB](https://www.gogdb.org/product/1677919510) – latest version number
 [^ref-43]: [Siderite Blog Review](https://siderite.dev/blog/hero-u-rogue-to-redemption.html) – puns and humor
 [^ref-44]: [SteamSpy](https://steamspy.com/app/1011020) – ownership estimates
 [^ref-45]: [Steam Community Forum](https://steamcommunity.com/app/375440/discussions/0/3160848559774044051/) – student handbook reference
-[^ref-46]: [Hero-U Official Website](http://www.hero-u.com/) – Summer Daze description, character details
+[^ref-46]: [Hero-U Official Website](http://www.hero-u.com/) – story premise (wannabe thief caught in first burglary, sent to Hero University), PlayStation "Coming soon" note
