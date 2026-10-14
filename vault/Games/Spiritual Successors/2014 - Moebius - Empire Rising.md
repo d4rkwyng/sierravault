@@ -1,60 +1,61 @@
 ---
 title: 'Moebius: Empire Rising'
 release_year: 2014
-developer: Pinkerton Road Studios
+developer: Pinkerton Road Studios, Phoenix Online Studios
 designer: [Jane Jensen]
 publisher: Phoenix Online Publishing
 genre: Adventure
-platforms: [Windows, Mac, Linux, iOS, Android, Steam, GOG]
+platforms: [Windows, Mac, Linux]
 series: Moebius
 engine: Unity
 protagonist: Malachi Rector
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-09'
-description: 'Moebius: Empire Rising is a point-and-click adventure game developed
-  by Pinkerton Road Studios and published by Phoenix Online Publishing in 2014. Created...'
+last_updated: '2026-10-14'
+description: 'Moebius: Empire Rising is a 2014 point-and-click adventure designed by Jane Jensen, developed by Pinkerton Road Studios and Phoenix Online Studios, and published by Phoenix Online Publishing.'
 tags: [2010s, adventure, jane-jensen, moebius, sierra]
+composer: [Robert Holmes]
 ---
 # Moebius: Empire Rising
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 ## Overview
 
-Moebius: Empire Rising is a point-and-click adventure game developed by Pinkerton Road Studios and published by Phoenix Online Publishing in 2014[^ref-1]. Created by Jane Jensen, the legendary designer behind Sierra's Gabriel Knight series, the game represents her return to adventure gaming after a successful Kickstarter campaign that raised over $435,000[^ref-2]. The game follows Malachi Rector, "an antiques dealer who travels the world hunting down valuable artifacts"[^ref-3], as he becomes entangled in a government conspiracy involving historical patterns and metaphysical theories.
+Moebius: Empire Rising is a point-and-click adventure game developed by Pinkerton Road Studios and Phoenix Online Studios and published by Phoenix Online Publishing on April 15, 2014[^ref-7][^ref-2]. It was designed by Jane Jensen, the designer behind Sierra's Gabriel Knight series, and was funded by a Kickstarter campaign that raised around $435,000 (less fees)[^ref-2]. The game follows Malachi Rector, "a globe-trotting antiques dealer"[^ref-3], as he becomes entangled in a government conspiracy built around a theory that history repeats itself[^ref-6].
 
-Described as "a contemporary adventure that merges classic point-and-click puzzle solving with Jane Jensen's sophisticated storytelling"[^ref-4], Moebius: Empire Rising was positioned as the first installment in a planned series. The game features a unique profiling mechanic reminiscent of Sherlock Holmes stories, where players analyze characters and objects to uncover connections between historical figures and contemporary events[^ref-5]. Built using the Unity engine, the game blends 2D and 3D graphics in what Jensen intended as "a metaphysical thriller in the vein of Jensen's Gabriel Knight games"[^ref-6].
+The store page describes it as "a contemporary adventure that merges classic point-and-click puzzle solving with Jane Jensen’s sophisticated storytelling"[^ref-4]. Cult of Mac called it "the first installment in a planned series revolving around Malachi Rector"[^ref-10]. Alongside standard inventory and dialogue puzzles, the game sets challenges built around analysing people and matching them with historical figures[^ref-5], a profiling skill one reviewer likened to Sherlock Holmes[^ref-16]. Built in the Unity engine[^ref-7], the game blends 2D and 3D graphics[^ref-15]. The publisher tagged it "A Metaphysical Thriller"[^ref-5], and GameCritics' reviewer described it as "a metaphysical thriller in the vein of Jensen's Gabriel Knight games"[^ref-6].
 
 > [!info]- Game Info
-> **Developer:** Pinkerton Road Studios[^ref-1]
-> **Designer:** [[Jane Jensen]][^ref-1]
-> **Publisher:** [[Phoenix Online Publishing]][^ref-1]
-> **Engine:** Unity[^ref-1]
-> **Platforms:** Windows, Mac, Linux, iOS, Android, Steam, GOG[^ref-7]
-> **Release Year:** 2014
+> **Developer:** Pinkerton Road Studios, Phoenix Online Studios[^ref-7]
+> **Designer:** [[Jane Jensen]][^ref-2]
+> **Publisher:** [[Phoenix Online Publishing]][^ref-7]
+> **Engine:** Unity[^ref-7]
+> **Platforms:** Windows, Mac, Linux[^ref-7]
+> **Release Year:** 2014 (April 15, 2014)[^ref-7]
 > **Series:** Moebius
 > **Protagonist:** Malachi Rector
 > **Sierra Lineage:** Spiritual Successor
+> **Composer:** Robert Holmes[^ref-22]
 
 ## Story Summary
 
-The story centers on Malachi Rector, described as "a savant antiques appraiser" who is "extremely logical, but doesn't handle people or emotions well"[^ref-8]. Rector is recruited by a mysterious government agency called FITA "to investigate a series of events and document them in his meticulous way"[^ref-2]. His assignment involves investigating historical connections and patterns related to the "Moebius Theory" - a concept suggesting that history repeats itself in cyclical patterns[^ref-9].
+The story centers on Malachi Rector, described as "a savant antiques appraiser" who is "extremely logical, but he doesn't handle people or emotions well"[^ref-8]. A secretive government agency called FITA hires Rector to investigate a murdered woman in Venice[^ref-2]. The investigation draws him into the "Moebius Theory"[^ref-9], which, as one reviewer summarised it, "claims history runs on an infinite time loop"[^ref-6].
 
-The game's central mystery begins with the murder of a young woman in Venice, which Rector must investigate using his unique analytical abilities[^ref-5]. As noted in one review, "What he finds during his investigation will bring a mysterious and powerful paranormal secret the US government will protect at all costs — even his life"[^ref-10]. The protagonist is joined by David Walker, his bodyguard, described as "a bad-joke loving ex-special forces badass with a heart of gold"[^ref-10]. The plot unfolds across multiple international locations as Rector uncovers connections between historical figures and contemporary events, with the thematic element reinforced by a quote from Dexter's office: "Those who cannot remember the past are condemned to repeat it"[^ref-11].
+The agency wants to know whether the murdered young woman resembles any particular historical figure[^ref-5][^ref-15]. As Cult of Mac put it, "What he finds during his investigation will bring a mysterious and powerful paranormal secret the US government will protect at all costs — even his life"[^ref-10]. Rector is joined by David Walker, his bodyguard, described as "a bad-joke loving ex-special forces badass with a heart of gold"[^ref-10]. The plot moves between international locations, including Venice, Cairo and Zurich[^ref-15]. The quote on the clock on Dexter's desk sets the theme: "Those who cannot remember the past are condemned to repeat it"[^ref-11].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Moebius: Empire Rising employs traditional point-and-click adventure mechanics with modern updates[^ref-9]. The game is controlled primarily through mouse and keyboard input, featuring a third-person perspective where players direct Malachi Rector through various environments[^ref-7]. The interface supports standard adventure game interactions including examining objects, talking to characters, and combining inventory items[^ref-12].
+Moebius: Empire Rising uses point-and-select mouse controls[^ref-7] and a third-person perspective[^ref-5], and Gamezebo calls it "a classic point-and-click adventure game with modern updates"[^ref-9]. Clicking on something brings up a menu of the usual interactions, such as look at, talk to and take, and the inventory has icons to examine an object or try combining items[^ref-14]. Rector's phone holds the details of each case and lets the player search, call or text[^ref-14].
 
 ### Structure and Progression
 
-The game features "an overall points system similar to that found in classic Sierra games. The total number of points possible in the game is 676"[^ref-9]. Players progress through multiple chapters set in different international locations, with the game providing approximately 10 hours of gameplay[^ref-13]. The narrative structure follows Rector's investigation as he travels between locations, gathering clues and making connections between historical and contemporary figures[^ref-14].
+The game features "an overall points system similar to that found in classic Sierra games. The total number of points possible in the game is 676"[^ref-9]. The game is split into seven chapters[^ref-17], and Eurogamer.de put its length at about ten hours[^ref-13]. Rector's investigation takes him between cities, analysing people to see whether they resemble historical figures[^ref-14].
 
 ### Puzzles and Mechanics
 
-The game's signature feature is its character profiling system, where "Malachi Rector, an expert in antiquities whose photographic memory and eye for detail transform people and clues into interactive puzzles"[^ref-15]. This mechanic allows players to analyze characters and objects to uncover historical connections and personality traits[^ref-16]. The game also includes traditional inventory-based puzzles and some reaction-based challenges that can result in player death[^ref-7]. Hidden throughout the game are "4 hidden pink cows to find throughout the game" with the "final pink cow located in the game credits"[^ref-17].
+The game's signature feature is its character analysis. GOG's store page introduces "Malachi Rector, an expert in antiquities whose photographic memory and eye for detail transform people and clues into interactive puzzles"[^ref-15]. Profiling scenes ask the player to judge a new character from tells such as their expression, their clothes or whether they are fidgeting[^ref-16]. Larger analysis puzzles have the player collect data points to decide whether a person's life story matches a historical figure's[^ref-6]. TV Tropes describes these as mini-games of guessing or matching traits against Rector's photographic memory[^ref-12]. The game also has traditional inventory puzzles[^ref-16], and the player character can die, though far less often than in the old Sierra games[^ref-16]. Four pink cows are hidden through the game (see Hidden Content below)[^ref-17].
 
 ## Reception
 
@@ -62,69 +63,85 @@ The game's signature feature is its character profiling system, where "Malachi R
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Metacritic | 54/100 | Aggregate critic score[^ref-2] |
+| Metacritic | 54/100 | Aggregate critic score[^ref-20] |
 | GameRankings | 60.00% | Aggregate score[^ref-2] |
 | GameSpot | 4/10 | "Instantly forgettable, this game is better off lost to time"[^ref-18] |
-| IGN | 7.9/10 | Most positive major outlet review[^ref-2] |
+| IGN Italia | 7.9/10 | Italian edition of IGN, reviewed by Andrea Maderna[^ref-24] |
 | Game Informer | 6/10 | "Moebius is missing a spark — something that makes you want to keep playing"[^ref-8] |
-| Polygon | 4/10 | Critical of gameplay and story elements[^ref-2] |
-| Eurogamer | 5/10 | Mixed reception from European outlet[^ref-2] |
+| Polygon | 4/10 | Criticised the lead character, writing, puzzle design and sexism[^ref-2][^ref-25] |
+| Eurogamer.de (Germany) | 5/10 | German edition of Eurogamer[^ref-13] |
+| Eurogamer Italy | 4/10 | Italian edition of Eurogamer[^ref-2] |
 | PCGamesN | 4/10 | "There isn't a single thing Moebius does well"[^ref-19] |
 | USgamer | 90/100 | Notably positive outlier review[^ref-20] |
 
 ### Modern Assessment
 
-The game received mixed to negative reviews from critics, with many expressing disappointment given Jane Jensen's reputation. As one reviewer noted, "Had I not known that this was the work of Jane Jensen, I honestly wouldn't have believed it"[^ref-19]. The consensus among critics was that while the game attempted to recapture the magic of classic adventure games, "The lack of meaningful puzzles and memorable characters make it pale in comparison to her Sierra adventures"[^ref-6]. Steam users were more forgiving, with 79% positive reviews from 155 users[^ref-21], while GOG users rated it 3.4/5 stars[^ref-15].
+The game received mixed reviews[^ref-2]. Several critics measured it against Jane Jensen's reputation. PCGamesN wrote, "Had I not known that this was the work of Jane Jensen, I honestly wouldn't have believed it"[^ref-19]. GameCritics concluded that "The lack of meaningful puzzles and memorable characters make it pale in comparison to her Sierra adventures"[^ref-6]. On Steam, 78% of the game's 164 user reviews are positive as of October 2026[^ref-21], and GOG users rate it 3.4/5 stars[^ref-15].
 
 ## Development
 
 ### Origins
 
-Moebius: Empire Rising originated from Jane Jensen's return to adventure game development through crowdfunding. The project was "announced on April 10, 2012 as part of a plan to produce two graphic adventure games"[^ref-2]. Jensen launched a Kickstarter campaign on the same date with a goal of $300,000, which was reached on May 7, 2012[^ref-2]. The campaign ultimately ended on May 19, 2012, having raised over $435,000 from backers, demonstrating strong community interest in Jensen's return to the genre[^ref-2].
+Pinkerton Road Studio was formed by Jane Jensen and her husband Robert Holmes as a way to return to game development as independents[^ref-2]. On April 10, 2012, the studio announced plans for a crowdfunded production of two graphic adventure games, *Moebius* and *Mystery Game X*[^ref-2]. The Kickstarter reached its $300,000 goal on May 7, 2012, and ended on May 19, 2012, having raised around $435,000 from backers (less fees)[^ref-2].
 
-The Kickstarter campaign followed the successful model established by Double Fine's Adventure project earlier that year, which had proven that veteran adventure game developers could find funding through crowdfunding. Jensen positioned the project as "a metaphysical thriller in the vein of Jensen's Gabriel Knight games," appealing to fans who had been waiting for a spiritual successor to her Sierra classics[^ref-6].
+Wikipedia notes that the campaign was inspired by recent Kickstarter successes such as Double Fine's crowdfunding of *Double Fine Adventure*[^ref-2].
 
 ### Production
 
-The game was developed through a collaboration between Jensen's Pinkerton Road Studios and Phoenix Online Studios[^ref-16]. Phoenix Online had previously created "non-commercial King's Quest homage The Silver Lining"[^ref-2], making them experienced with Sierra-style adventure games. The development team was led by Jane Jensen as designer and writer, with Robert Holmes composing the soundtrack[^ref-22].
+The game was developed by Jensen's Pinkerton Road and Phoenix Online Studios[^ref-16], and was ultimately programmed by Phoenix Online Studios[^ref-2]. According to Eurogamer.de, Phoenix Online had already shown its love of the genre's classics with the non-commercial King's Quest homage *The Silver Lining*[^ref-13]. Jane Jensen designed and wrote the game, and Robert Holmes composed the soundtrack[^ref-22].
 
-The voice cast featured several notable performers. Owen Thomas portrayed the protagonist Malachi Rector, bringing the analytical and emotionally detached character to life[^ref-1]. Colin Benoit voiced David Walker, the ex-special forces bodyguard who becomes Rector's closest companion[^ref-1]. Erik Braa provided the voice for Douglas Carter[^ref-1]. Additional voice talent included Corky Pigeon, Aaron Coats, Josh Mandel (a Sierra veteran known for his work on Space Quest and King's Quest), and Robert Holmes (Jensen's husband, who also served as composer)[^ref-23].
+Eurogamer.de described Moebius as Jensen's first major game since *Gray Matter*, and the first since *Gabriel Knight 3* on which she again had full creative control[^ref-13].
 
-The game's development represented Jensen's return to graphic adventure games after spending several years in the casual gaming industry. As one German reviewer observed, the project appeared to be "ein typisches Symptom des Kickstarter-Virus" (a typical symptom of the Kickstarter virus), where established developers attempted to recapture past glories through crowdfunding[^ref-13].
+### Voice Cast
+
+Choicest Games noted that many of the voice actors had worked on Telltale games, including Owen Thomas, who voices Malachi[^ref-16].
+
+**Principal Cast:**[^ref-23]
+
+| Actor | Characters |
+|-------|------------|
+| Owen Thomas | Malachi Rector |
+| Colin Benoit | David Walker |
+| Terence McGovern | Amble Dexter, Ammon |
+| Erik Braa | Douglas Carter, Hasim |
+
+Colin Benoit as David Walker and Erik Braa as Douglas Carter are also listed on IMDb[^ref-1].
 
 ### Technical Achievements
 
-The game was built using Unity Engine version 4.7.1f1 as a 32-bit application[^ref-7]. It supports multiple graphics APIs including Direct3D 9 and OpenGL 2.0[^ref-7]. The graphics style attempted to blend 2D painted backgrounds with 3D character models, though technical assessments noted "low-res textures" and "janky 3D animation"[^ref-7].
+The game was built with Unity engine build 4.7.1f1 and ships as a 32-bit executable[^ref-7]. On Windows it uses Direct3D 9, and on OS X and Linux it uses OpenGL 2.0[^ref-7]. It combines 2D backgrounds with 3D character models, and PCGamingWiki notes that some backgrounds are visibly pixelated even at Full HD[^ref-7]. Polygon criticised its "low-res textures and janky 3D animation that meshes poorly"[^ref-25].
 
-**System Requirements:**[^ref-7]
+**System Requirements (Windows, per the Steam store page):**[^ref-21]
 
 | Component | Minimum | Recommended |
 |-----------|---------|-------------|
-| OS | Windows XP/Vista/7/8/10 | Windows 7/8/10 |
-| Processor | 2 GHz | 2.5 GHz+ |
-| RAM | 1.5 GB | 4 GB |
-| Graphics | OpenGL 2.0 compatible | DirectX 9.0c compatible |
-| Storage | 3 GB available | 4 GB available |
+| OS | Windows XP/Vista/7 | Windows XP/Vista/7 |
+| Processor | 2.0 GHz | 2.0 GHz |
+| RAM | 2 GB | 4 GB |
+| Graphics | ATI or NVidia with 512 MB RAM | ATI or NVidia with 1 GB RAM |
+| Storage | 4 GB available space | 4 GB available space |
 
-The game suffered from various technical issues that impacted the player experience, including cursor disappearances, sluggish animations, and stuttering during gameplay[^ref-7]. These technical problems contributed to the game's mixed critical reception and highlighted the challenges of developing modern adventure games on limited crowdfunding budgets.
+Steam notes that the game is not recommended for Intel systems with integrated or shared video memory[^ref-21]. PCGamingWiki gives different figures for Windows: XP, 2 GHz single-core or 1.8 GHz dual-core, 1.5 GB RAM minimum and 2 GB recommended, 5 GB of storage, and an OpenGL 2.0-compatible video card[^ref-7].
+
+PCWorld's review reported "Cursor disappearances, sluggish animations, stuttering, unresponsive character or environment triggers"[^ref-26]. Choicest Games' reviewer was a Kickstarter backer and acknowledged the small $435,316 budget. Even so, he called the graphics "abysmal", mainly the animation and character models[^ref-16].
 
 ## Legacy
 
-Despite the mixed critical reception, Moebius: Empire Rising represents an important milestone as Jane Jensen's return to adventure gaming after many years in casual game development[^ref-2]. The game was intended as "the first installment in a planned series"[^ref-16], though subsequent entries have not materialized.
+No sequel followed. In 2016 Jane Jensen announced that Pinkerton had no games in development and that its website was closing. She wrote that *Moebius* and *Gabriel Knight: 20th Anniversary Edition* had not sold well enough to justify continued development[^ref-2]. The game had been described as "the first installment in a planned series"[^ref-10].
 
 ### Critical Perspective
 
-The project demonstrated both the potential and limitations of crowdfunding for veteran developers attempting to recapture past successes. As one German reviewer noted, "Moebius wirkt wie ein typisches Symptom des Kickstarter-Virus: Alte Helden, deren Stern längst untergegangen ist, dürfen sich noch ein letztes Mal im Glanze ihres Lichtes sonnen" (Moebius seems like a typical symptom of the Kickstarter virus: Old heroes whose star has long since set are allowed to bask in their glory one last time)[^ref-13].
+Eurogamer.de's reviewer was harsher still: "Moebius wirkt wie ein typisches Symptom des Kickstarter-Virus: Alte Helden, deren Stern längst untergegangen ist, dürfen sich noch ein letztes Mal im Glanze ihres Lichtes sonnen" (Moebius seems like a typical symptom of the Kickstarter virus: Old heroes whose star has long since set are allowed to bask in their glory one last time)[^ref-13].
 
-The divergence between user ratings and critical reception proved notable. While major outlets like GameSpot (4/10), Polygon (4/10), and PCGamesN (4/10) were harshly critical, Steam users rated the game 79% positive[^ref-21] and GOG users gave it 3.4/5 stars[^ref-15]. This split suggested that dedicated adventure game fans found more to appreciate than mainstream critics.
+Player ratings ran warmer than the critics. GameSpot, Polygon and PCGamesN each gave the game 4/10[^ref-18][^ref-2][^ref-19], while Steam and GOG user ratings are mostly positive (see Modern Assessment above)[^ref-21][^ref-15].
 
 ### Hidden Content
 
-The game included Easter eggs for dedicated players, with "4 hidden pink cows to find throughout the game" with the "final pink cow located in the game credits"[^ref-17]. This playful element recalled the tradition of hidden content in classic Sierra adventure games.
+The game hides four pink cows. The first three are in David's hostel room, on a newspaper stand outside Rector's Antiques, and in a trash can in the Bibliothèque nationale de France. The last appears in the credits, in the hands of a frightened Rector. Finding all four earns the "Muuuubius" achievement[^ref-17].
 
-### Lasting Impact
+### Availability
 
-While Moebius did not achieve the critical success of Jensen's Gabriel Knight series, it demonstrated that an audience for sophisticated adventure games still existed, paving the way for other crowdfunded revivals of classic adventure game franchises. The game remains available on Steam and GOG, serving as an accessible introduction to Jensen's storytelling style for new players.
+The game remains available on Steam and GOG[^ref-21][^ref-15].
 
 ## Downloads
 
@@ -155,26 +172,29 @@ While Moebius did not achieve the critical success of Jensen's Gabriel Knight se
 
 ## References
 
-[^ref-1]: [IMDb](https://www.imdb.com/title/tt4054536/) – - Game credits and basic information
-[^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/Moebius:_Empire_Rising) – - Kickstarter funding details
-[^ref-3]: [Wikipedia](https://en.wikipedia.org/wiki/Moebius%3A_Empire_Rising) – - Character description
-[^ref-4]: FreeGOGPCGames *(download link removed: the game is sold commercially)* – - Game description
-[^ref-5]: [MobyGames](https://www.mobygames.com/game/67586/moebius-empire-rising/) – - Gameplay mechanics
-[^ref-6]: [Game Critics](https://gamecritics.com/tayo-stalnaker/moebius-empire-rising-review/) – - Genre description
-[^ref-7]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Moebius:_Empire_Rising) – - Platform information
-[^ref-8]: [Game Informer](https://gameinformer.com/games/moebius_empire_rising/b/pc/archive/2014/04/14/moebius-empire-rising-review.aspx) – - Character description
-[^ref-9]: [Gamezebo](https://www.gamezebo.com/walkthroughs/moebius-empire-rising-walkthrough/) – - Moebius Theory explanation
-[^ref-10]: [Cult of Mac](https://www.cultofmac.com/274545/get-bromance-jane-jensens-moebius-empire-rising/) – - Plot description
-[^ref-11]: [Game Boomers](https://www.gameboomers.com/wtcheats/pcMm/Moebius/Moebius.htm) – - Thematic quote
-[^ref-12]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MoebiusEmpireRising) – - Interface details
-[^ref-13]: [Eurogamer.de](http://www.eurogamer.de/articles/2014-04-25-moebius-empire-rising) – - Gameplay duration
-[^ref-14]: [JayIsGames (archived 2016)](http://web.archive.org/web/20160417140030/http://jayisgames.com/review/moebius-empire-rising.php) – - Story structure
-[^ref-15]: [GOG](https://www.gog.com/en/game/moebius) – - Character abilities description
-[^ref-16]: [Choicest Games](https://www.choicestgames.com/2014/04/moebius-empire-rising-review.html) – - Profiling mechanic
-[^ref-17]: [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=686312239) – - Easter eggs
-[^ref-18]: [GameSpot](http://www.gamespot.com/reviews/moebius-empire-rising-review/1900-6415730/) – - Review quote
-[^ref-19]: [PCGamesN](https://www.pcgamesn.com/moebius-empire-rising-review) – - Review criticism
-[^ref-20]: [Metacritic](https://www.metacritic.com/game/moebius-empire-rising/critic-reviews/?platform=pc) – - USgamer score
-[^ref-21]: [Steam](https://store.steampowered.com/app/264520/Moebius_Empire_Rising/) – - User review aggregate
-[^ref-22]: [Choicest Games](https://www.choicestgames.com/2014/05/moebius-empire-rising-soundtrack-review_26.html) – - Composer information
-[^ref-23]: [IMDb Cast](https://www.imdb.com/title/tt4054536/fullcredits/) – - Additional voice cast details
+[^ref-1]: [IMDb – Moebius: Empire Rising](https://www.imdb.com/title/tt4054536/) – voice cast (Colin Benoit, Erik Braa)
+[^ref-2]: [Wikipedia – Moebius: Empire Rising](https://en.wikipedia.org/wiki/Moebius:_Empire_Rising) – developers, designer, Kickstarter history, review scores, 2016 closure note
+[^ref-3]: [Wikipedia – Moebius: Empire Rising (Plot)](https://en.wikipedia.org/wiki/Moebius%3A_Empire_Rising) – character description
+[^ref-4]: [Steam – Moebius: Empire Rising](https://store.steampowered.com/app/264520/Moebius_Empire_Rising/) – store description
+[^ref-5]: [MobyGames – Moebius: Empire Rising](https://www.mobygames.com/game/67586/moebius-empire-rising/) – gameplay description, perspective, publisher tagline
+[^ref-6]: [GameCritics – Moebius: Empire Rising Review](https://gamecritics.com/tayo-stalnaker/moebius-empire-rising-review/) – Tayo Stalnaker's review: genre description, Moebius Theory, historical-match puzzles
+[^ref-7]: [PCGamingWiki – Moebius: Empire Rising](https://www.pcgamingwiki.com/wiki/Moebius:_Empire_Rising) – developers, publisher, release date, platforms, engine, APIs, system requirements
+[^ref-8]: [Game Informer – Moebius: Empire Rising Review](https://gameinformer.com/games/moebius_empire_rising/b/pc/archive/2014/04/14/moebius-empire-rising-review.aspx) – character description and review quote
+[^ref-9]: [Gamezebo – Moebius: Empire Rising Walkthrough](https://www.gamezebo.com/walkthroughs/moebius-empire-rising-walkthrough/) – points system, Moebius Theory, interface
+[^ref-10]: [Cult of Mac – Get Your Bromance On With Jane Jensen's Moebius: Empire Rising](https://www.cultofmac.com/274545/get-bromance-jane-jensens-moebius-empire-rising/) – plot description, planned series
+[^ref-11]: [Game Boomers – Moebius Walkthrough](https://www.gameboomers.com/wtcheats/pcMm/Moebius/Moebius.htm) – thematic quote
+[^ref-12]: [TV Tropes – Moebius: Empire Rising](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MoebiusEmpireRising) – analysis mini-games ("Sherlock Scan")
+[^ref-13]: [Eurogamer.de – Moebius: Empire Rising – Test](https://www.eurogamer.de/moebius-empire-rising) – Matthias Grimm's review: ten-hour length, 5/10, Phoenix Online and The Silver Lining, first major Jensen game since Gray Matter
+[^ref-14]: [JayIsGames – Moebius: Empire Rising (archived 2016)](http://web.archive.org/web/20160417140030/http://jayisgames.com/review/moebius-empire-rising.php) – interface and story structure
+[^ref-15]: [GOG – Moebius: Empire Rising](https://www.gog.com/en/game/moebius) – store description, locations, user rating
+[^ref-16]: [Choicest Games – Moebius: Empire Rising Review](https://www.choicestgames.com/2014/04/moebius-empire-rising-review.html) – developers, profiling mechanic, death, voice acting, graphics and budget
+[^ref-17]: [Steam Community – Moebius achievement guide](https://steamcommunity.com/sharedfiles/filedetails/?id=686312239) – chapter list, pink cow locations
+[^ref-18]: [GameSpot – Moebius: Empire Rising Review](http://www.gamespot.com/reviews/moebius-empire-rising-review/1900-6415730/) – review quote and 4/10 score
+[^ref-19]: [PCGamesN – Moebius: Empire Rising Review](https://www.pcgamesn.com/moebius-empire-rising-review) – review criticism and 4/10 score
+[^ref-20]: [Metacritic – Moebius: Empire Rising critic reviews (PC)](https://www.metacritic.com/game/moebius-empire-rising/critic-reviews/?platform=pc) – Metascore 54, USgamer 90
+[^ref-21]: [Steam – Moebius: Empire Rising](https://store.steampowered.com/app/264520/Moebius_Empire_Rising/) – user review summary (78% of 164, checked 2026-10-14), system requirements
+[^ref-22]: [Choicest Games – Moebius: Empire Rising Soundtrack Review](https://www.choicestgames.com/2014/05/moebius-empire-rising-soundtrack-review_26.html) – composer information
+[^ref-23]: [MobyGames – Moebius: Empire Rising credits (Windows)](https://www.mobygames.com/game/67586/moebius-empire-rising/credits/windows/) – voice cast roles
+[^ref-24]: [IGN Italia – Moebius: Empire Rising Recensione](https://it.ign.com/moebius-empire-rising/72157/moebius-empire-rising-riporta-in-scena-jane-jensen) – Andrea Maderna's review, 7.9
+[^ref-25]: [Polygon – Moebius: Empire Rising review: remedial history](https://www.polygon.com/2014/4/24/5641066/moebius-empire-rising-review-remedial-history) – Danielle Riendeau's review: graphics and criticism
+[^ref-26]: [PCWorld – Moebius: Empire Rising review](https://www.pcworld.com/article/438859/moebius-empire-rising-review-those-who-dont-learn-from-my-mistakes-are-doomed-to-repeat-them.html) – technical issues
