@@ -1,134 +1,91 @@
 ---
 title: PGA Championship Golf 2000 Titanium Edition
 release_year: 2000
-developer: EA Salt Lake
+developer: Headgate Studios
 designer: []
 publisher: Sierra
 genre: Sports
-platforms: [IBM PC, Microsoft Windows, PC, Windows, Windows 95/98/2000]
+platforms: [Windows]
 series: PGA Championship Golf
 engine: TrueSwing 3
 protagonist: Golfer (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: PGA Championship Golf 2000 Titanium Edition was a sports golf simulation
-  video game developed by EA Salt Lake and published by Sierra Entertainment....
+last_updated: '2026-10-13'
+description: An enhanced December 2000 re-release of PGA Championship Golf 2000 by Headgate Studios and Sierra Sports, adding seven new 18-hole courses and improved multiplayer.
 tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf 2000 Titanium Edition
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-PGA Championship Golf 2000 Titanium Edition was a sports golf simulation video game developed by EA Salt Lake[^ref-26] and published by Sierra Entertainment[^ref-10]. Released in 2000[^ref-21] as an enhanced version of the original PGA Championship Golf 2000, the Titanium Edition featured significant improvements including seven new 18-hole golf courses and enhanced multiplayer functionality[^ref-11]. The game was also known by the alternate title "PGA Championship Golf 2001" in some markets[^ref-25].
-
-As part of Sierra's sports game lineup during their Sierra Sports division era[^ref-23], PGA Championship Golf 2000 Titanium Edition represented the company's commitment to delivering comprehensive golf simulation experiences. The game featured innovative mouse-based swing controls that replaced traditional power meter clicking, offering players what the developers described as "a more visceral interface and (with practice) more direct control over the shot"[^ref-4]. This unique control scheme set it apart from other golf games of the era and became one of its defining characteristics.[^ref-8][^ref-9][^ref-13]
+PGA Championship Golf 2000 Titanium Edition is an enhanced edition of [[2000 - PGA Championship Golf 2000|PGA Championship Golf 2000]], developed by Headgate Studios and released by Sierra Sports for Windows in December 2000[^ref-11][^ref-28]. It added seven new 18-hole courses, an expanded art library for the Course Architect, and improved multiplayer linking[^ref-11][^ref-29]. Owners of the original game could download the new content for free[^ref-11][^ref-28]. A German release in 2001 carried the title "PGA Championship Golf 2001" and, according to MobyGames, shipped with 20 additional courses rather than seven[^ref-21][^ref-29].
 
 > [!info]- Game Info
-> **Developer:** EA Salt Lake[^ref-26]
-> **Designer:** Unknown[^ref-26]
-> **Publisher:** Sierra[^ref-4]
-> **Platforms:** IBM PC, Microsoft Windows, PC, Windows, Windows 95/98/2000[^ref-5]
-> **Release Year:** 2000
-> **Series:** PGA Championship Golf series
-> **Sierra Lineage:** Core Sierra
-> **Engine:** TrueSwing 3
+> **Developer:** [[Headgate Studios]][^ref-11][^ref-12][^ref-23]
+> **Designer:** Unknown
+> **Publisher:** Sierra Sports (Sierra On-Line)[^ref-23][^ref-21]
+> **Engine:** TrueSwing 3 (inherited from PGA Championship Golf 2000)[^ref-32]
+> **Platforms:** Windows[^ref-21]
+> **Release Year:** 2000[^ref-11][^ref-28]
+> **Series:** PGA Championship Golf
 > **Protagonist:** Golfer (player-created)
+> **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-As a golf simulation game, PGA Championship Golf 2000 Titanium Edition focused on realistic golf gameplay rather than narrative storytelling. The game provided players with authentic golf course experiences, featuring both fantasy and real-life golf courses[^ref-5]. Players could engage in various golf play modes including skins, scramble, and best ball formats[^ref-4], creating their own sporting narratives through tournament play and course management.[^ref-6]
+As a golf simulation, the game has no story. The player golfs the courses of the base game plus the seven new Titanium Edition courses[^ref-28].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The game's most distinctive feature was its significant mouse-based swing control system. Instead of using traditional power meters common in other golf games, players controlled their golf swings through mouse movements[^ref-4]. This innovative approach provided what developers described as "a more visceral interface and (with practice) more direct control over the shot"[^ref-5], allowing for more nuanced and realistic golf gameplay. The TrueSwing 3 technology accurately reflected mouse movements as a golf club, translating player input directly into club head speed and trajectory.
-
-The game supported multiple input devices including keyboard and mouse[^ref-21], and featured extensive customization options with dozens of available settings[^ref-5]. Players could adjust various aspects of their gameplay experience to match their skill level and preferences. The 3D graphics engine rendered courses with impressive detail, including bridges, fences, and club buildings that enhanced environmental authenticity. Advanced artificial intelligence controlled computer-controlled golfers with realistic decision-making, responding dynamically to course conditions and player performance[^ref-27].
+The Titanium Edition is built on PGA Championship Golf 2000, whose swing system is "TrueSwing 3." Eurogamer's review of the base game describes it: "simply pull the mouse back to draw the club back, and forwards to release the shot"[^ref-32]. MobyGames lists keyboard and mouse input and a required 3D accelerator[^ref-33].
 
 ### Structure and Progression
 
-PGA Championship Golf 2000 Titanium Edition offered multiple gameplay modes and extensive course selection. The Titanium Edition specifically included seven new exclusive 18-hole golf courses beyond the original game's content[^ref-4], providing substantial additional content for players. The enhanced version also featured an expanded art library for the Course Architect tool and improved multiplayer linking technology for smoother multiplayer experiences[^ref-21].
+The seven new 18-hole courses were Beartooth Pass Golf Course, Rugged Cross, Saxe Gotha, Sammamish Hills Golf Club, Eman Hills Country Club, Tulaichean Bay and Cutter Bay GC[^ref-28]. Sierra posted them online one per day during the first week after launch, so existing owners could add them free[^ref-28]. The edition also expanded the Course Architect's art library[^ref-29]. Multiplayer supports Internet, LAN and modem play[^ref-33].
 
-The game supported various multiplayer options including Internet, LAN, and modem connections[^ref-21], allowing players to compete against friends and other golf enthusiasts. Additional features included local co-op, online co-op, LAN competitive play, and local split screen modes[^ref-12]. Career mode allowed dedicated players to manage long-term tournament schedules, accumulating prize money and maintaining professional player status across multiple seasons. Tour play featured tournament scenarios with realistic scoring formats including match play and Stableford competition variants, offering strategic depth beyond simple stroke play[^ref-27].
-
-The Course Architect tool enabled players to design custom 18-hole golf courses, with the Titanium Edition significantly expanding the available art library for more sophisticated course design possibilities. This creative feature extended the game's longevity by allowing community-created content[^ref-27].
-
-### Puzzles and Mechanics
-
-While not featuring traditional puzzles, the game presented players with the complex challenge of realistic golf course management. Players had to consider factors such as wind conditions, course terrain, club selection, and swing mechanics to achieve successful shots. The mouse-based swing system required players to develop precise timing and control, creating a skill-based progression system that rewarded practice and refinement.
-
-The game was categorized as a third-person, sandbox sports game[^ref-25], giving players freedom to approach each hole and course according to their strategic preferences. This open-ended approach to golf simulation allowed for varied gameplay experiences and encouraged experimentation with different techniques and strategies.
+Although the game carries the PGA name, and MobyGames groups it with "PGA licensees"[^ref-29], Wikipedia notes that PGA Championship Golf 2000 "does not include any professional PGA golfers"[^ref-27].
 
 ## Reception
 
 ### Contemporary Reviews
 
-PGA Championship Golf 2000 Titanium Edition received generally positive reviews from gaming publications and critics. GameSpot praised the game's technical achievements and innovative control system, awarding it 8.9/10 and acknowledging it as one of the stronger golf simulations of its era[^ref-7]. The game demonstrated solid performance across multiple review platforms, though reception was somewhat mixed depending on the source.
+The Titanium Edition got little separate coverage. MobyGames records an average critic score of 77% based on three ratings[^ref-19]. No Titanium Edition review from GameSpot was found. The GameSpot score sometimes attached to this title belongs to the original PGA Championship Golf 2000.
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| GameSpot | 8.9/10 | Strong critical reception[^ref-7] |
-| MobyGames Critics | 77% | Aggregate critic score[^ref-21] |
-| User Reviews | 4.0/5.0 | Community rating[^ref-12] |
-| VGTimes | 5.5/10 | More moderate assessment[^ref-25] |
+| MobyGames (critic average) | 77% | Based on 3 ratings[^ref-19] |
 
-The game earned an "Everyone" rating from the ESRB[^ref-21], making it suitable for players of all ages. This broad appeal contributed to its accessibility and market reach during its initial release period. GameSpot notably reported that "owners of previous editions of PGA Championship Golf 2000 can download the upgrades for free," a customer-friendly policy that demonstrated Sierra's confidence in the Titanium Edition's enhanced content value[^ref-11].
-
-### Modern Assessment
-
-While specific modern retrospective reviews were not extensively documented in the available sources, the game's inclusion in various digital archives and gaming databases[^ref-1][^ref-2] suggests continued interest from retro gaming enthusiasts. The innovative mouse-based control system and comprehensive course selection have likely contributed to its lasting appeal among golf simulation fans. The game remains respected among simulation enthusiasts for its realistic physics modeling and creative mouse-swing mechanics.
+The game is rated "Everyone" by the ESRB and "0" by the USK[^ref-33].
 
 ## Development
 
 ### Origins
 
-PGA Championship Golf 2000 Titanium Edition was developed as an enhanced version of the original PGA Championship Golf 2000, with development handled by EA Salt Lake[^ref-26] in collaboration with Headgate Studios[^ref-11]. The game was part of Sierra Entertainment's broader sports gaming initiative under their Sierra Sports division[^ref-23].
-
-The Titanium Edition represented a significant upgrade over previous versions, incorporating player feedback and technical improvements to deliver a more comprehensive golf simulation experience. Sierra's strategic decision to publish the Titanium Edition as a special upgrade reflected their confidence in the core game's design quality and audience demand for expanded content. The development team focused on expanding course content and improving multiplayer functionality based on community requests and market demands, ultimately delivering seven entirely new golf courses that provided substantial new challenges for experienced players while maintaining accessible gameplay for newcomers to the genre.
+Headgate Studios developed the Titanium Edition, and Sierra Sports published it[^ref-11][^ref-23]. Headgate kept that name until Electronic Arts acquired it on December 1, 2006, when it "was renamed EA Salt Lake"[^ref-31]. Justin Kubiak, brand manager for Sierra Sports, said at launch: "We've published the Titanium Edition to present to the PC gaming community another opportunity to experience the award-winning PGA Championship Golf product line"[^ref-28].
 
 ### Production
 
-The game's development involved multiple teams and publishers across different regions and releases. While EA Salt Lake served as the primary developer[^ref-26], Headgate Studios Inc. also played a significant role in the game's creation[^ref-19]. Sierra Entertainment and Sierra On-Line, Inc. handled publishing duties[^ref-21], ensuring wide distribution across PC platforms.
-
-The production timeline involved multiple release dates and regional variations. The initial Titanium Edition launched on June 1, 2000[^ref-10], followed by additional standard and collectors editions throughout 2000 and 2001[^ref-10]. International releases, including a German version in 2001[^ref-23], expanded the game's global reach.
+GameSpot reported the game in stores on December 11, 2000, at about US$29.99. It added that "Owners of previous editions of PGA Championship Golf 2000 will be able to download the upgrades for free"[^ref-11]. Computer Games Strategy Plus, posting on December 16, 2000, said Sierra Sports had released it "yesterday"[^ref-28]. The Sierra Chest gives a first-release date of 2001-01-01[^ref-23], which conflicts with both contemporary reports.
 
 ### Technical Achievements
 
-The game was distributed on CD-ROM media[^ref-21] and supported Windows operating systems including Windows 95, 98, and 2000[^ref-5]. Technical features included support for various input devices and multiplayer networking options[^ref-21]. The game also featured advanced graphics capabilities for its time, including camera support, voice control options, and multiple controller types[^ref-12].
+The minimum requirements are Windows 95, an Intel Pentium, 32 MB of RAM and a 4X CD-ROM drive. The game runs at 640×480[^ref-33].
 
-One notable aspect of the Titanium Edition was Sierra's commitment to existing customers. GameSpot reported that "owners of previous editions of PGA Championship Golf 2000 can download the upgrades for free"[^ref-11], demonstrating consumer-friendly update policies that were progressive for the era.
+### Version History
 
-## Legacy
-
-PGA Championship Golf 2000 Titanium Edition contributed to the evolution of golf simulation games through its innovative control scheme and comprehensive feature set. The mouse-based swing system influenced subsequent golf game designs and demonstrated the potential for more intuitive sports game interfaces. The game's success helped establish Sierra Sports as a credible competitor in the sports gaming market during the early 2000s. The seven new courses added in the Titanium Edition expanded the game's longevity by offering fresh challenges that rewarded experienced players with complex designs and strategic course layouts.
-
-The game's multiple edition releases and regional variations[^ref-23] demonstrated the commercial viability of enhanced sports simulations, paving the way for future special editions and expanded content models in sports gaming. The practice of offering free upgrades to existing customers[^ref-11] also set precedents for customer service approaches in the gaming industry. The TrueSwing 3 engine became a benchmark for golf game physics simulation, providing ultra-realistic ball impact physics and natural swing mechanics that remained influential even as newer golf titles emerged in the 2000s. The game's ability to balance accessibility for casual players with depth for serious golf enthusiasts made it a lasting entry in the sports simulation genre.
-Support for multiplayer competition through internet and LAN connections helped extend the game's appeal beyond single-player career modes.
-
-### Sports Simulation Polish
-
-The Titanium Edition represented Sierra's commitment to delivering authentic golf simulation with enhanced graphics and refined controls[^ref-2]. Tournament structure and player statistics provided depth for golf enthusiasts seeking comprehensive simulation features[^ref-3].
-
-### Licensing and Official Status
-
-PGA Championship Golf maintained official PGA Tour licensing for authentic tournament and player data[^ref-2].
-
-### Game Modes and Features
-
-Multiple tournament structures and custom game options provided variety for golf simulation enthusiasts[^ref-3].
-
-The realistic golf swing mechanics made it a favorite among serious golf simulation players[^ref-2].
-
-### Professional Sports License Integration
-
-PGA Championship Golf 2000 utilized official PGA Tour licensing to provide authentic tournament structures and player statistics[^ref-2]. Integration with real professional players and courses enhanced immersion and competitive realism[^ref-3].
+| Version | Date | Region | Notes |
+|---------|------|--------|-------|
+| Titanium Edition | December 2000 | United States | Seven new courses; UPC 0-20626-71191-3[^ref-11][^ref-30] |
+| PGA Championship Golf 2001 | 2001 | Germany | German title; 20 courses per MobyGames[^ref-21][^ref-29] |
 
 ## Downloads
 
-**Download / Preservation**
+**Manuals & Extras**
+- [The Sierra Chest – Packaging & content](https://sierrachest.com/index.php?a=games&id=585&title=golf-2000-titanium&fld=box) – scans of the US box, game manual, Quick Reference Card and errata[^ref-30]
 
 ## See Also
 
@@ -137,26 +94,17 @@ PGA Championship Golf 2000 utilized official PGA Tour licensing to provide authe
 - [[2000 - PGA Championship Golf 2000]]
 - [[2001 - PGA Championship Golf - Collector's Edition]]
 
-The realistic golf swing mechanics and statistical accuracy made it a favorite among serious golf simulation players[^ref-2].
-
 ## References
 
-[^ref-1]: [Abandonware DOS - PGA Championship Golf 2000 Search](https://www.abandonwaredos.com/search.php?search=PGA+Championship+Golf+2000%3A+Titanium+Edition) – - Search results page for game archives
-[^ref-2]: Adventure Gamers Search *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – - Adventure game database search
-[^ref-3]: [Amazon UK Product Listing](https://www.amazon.co.uk/PGA-Championship-Golf-2000-Titanium/dp/B00WFESJAM) – - Commercial availability information
-[^ref-4]: [eBay Product Listing 404255759776](https://www.ebay.com/itm/404255759776) – - Detailed game description and features
-[^ref-5]: [eBay Product Page 6484578](https://www.ebay.com/p/6484578) – - Game specifications and platform details
-[^ref-6]: [Digital Retro Gaming Archives](https://www.filfre.net/?s=PGA+Championship+Golf+2000%3A+Titanium+Edition) – - Digital gaming history search
-[^ref-7]: [GameFAQs Reviews](https://gamefaqs.gamespot.com/pc/256377-pga-championship-golf-2000/reviews) – - Review scores and publication information
-[^ref-8]: [GameFAQs Media Page](https://gamefaqs.gamespot.com/pc/256377-pga-championship-golf-2000/media) – - Game media and alternate editions
-[^ref-9]: [GameFAQs Q&A](https://gamefaqs.gamespot.com/pc/256377-pga-championship-golf-2000/answers) – - Community questions and game information
-[^ref-10]: [GameFAQs Game Data](https://gamefaqs.gamespot.com/pc/256377-pga-championship-golf-2000/data) – - Release dates and edition information
-[^ref-11]: [GameSpot News Article](https://www.gamespot.com/articles/in-stores-pga-championship-golf-2000-titanium/1100-2663592/) – - Contemporary release announcement
-[^ref-12]: [Giant Bomb Game Page](https://www.giantbomb.com/pga-championship-golf-2000-titanium-edition/3030-1325/) – - Comprehensive game database entry
-[^ref-13]: [GOG Games Search](https://www.gog.com/en/games?query=PGA+Championship+Golf+2000%3A+Titanium+Edition) – - Digital distribution platform search
-[^ref-19]: [MobyGames Reviews](https://www.mobygames.com/game/3068/pga-championship-golf-2000-titanium-edition/reviews/) – - Critical review aggregation
-[^ref-21]: [MobyGames Release Information](https://www.mobygames.com/game/3068/pga-championship-golf-2000-titanium-edition/releases/) – - Official release details and technical specifications
-[^ref-23]: [Sierra Chest General Info](https://sierrachest.com/index.php?a=games&id=585&title=golf-2000-titanium&fld=general) – - Sierra archive general information
-[^ref-25]: [VGTimes Game Database](https://vgtimes.com/games/pga-championship-golf-2000-titanium-edition/) – - Gaming information and alternate titles
-[^ref-26]: [Wikidata Game Entry](https://www.wikidata.org/wiki/Q7119131) – - Comprehensive metadata and developer information
-[^ref-27]: [Wikipedia – PGA Championship Golf 2000](https://en.wikipedia.org/wiki/PGA_Championship_Golf_2000) – - Career mode, tournament formats (match play, Stableford), and Course Architect features
+[^ref-11]: [GameSpot – In Stores: PGA Championship Golf 2000 Titanium](https://www.gamespot.com/articles/in-stores-pga-championship-golf-2000-titanium/1100-2663592/) – Trey Walker, December 11, 2000; developer Headgate Studios, seven new courses, free upgrade, US$29.99
+[^ref-12]: [Giant Bomb – PGA Championship Golf 2000: Titanium Edition](https://www.giantbomb.com/pga-championship-golf-2000-titanium-edition/3030-1325/) – Developer Headgate Studios Inc., publisher Sierra, release 2000
+[^ref-19]: [MobyGames – Reviews](https://www.mobygames.com/game/3068/pga-championship-golf-2000-titanium-edition/reviews/) – Critic average 77% based on 3 ratings
+[^ref-21]: [MobyGames – Releases](https://www.mobygames.com/game/3068/pga-championship-golf-2000-titanium-edition/releases/) – 2000 US release and 2001 German release; Headgate Studios Inc. / Sierra On-Line, Inc.
+[^ref-23]: [The Sierra Chest – General](https://sierrachest.com/index.php?a=games&id=585&title=golf-2000-titanium&fld=general) – Developer Headgate Studios, publisher Sierra Sports, first release listed as 2001-01-01
+[^ref-27]: [Wikipedia – PGA Championship Golf 2000](https://en.wikipedia.org/wiki/PGA_Championship_Golf_2000) – Base game; no professional PGA golfers included
+[^ref-28]: [Computer Games Strategy Plus – Sierra releases PGA Championship Golf Titanium Edition (archived)](https://web.archive.org/web/20030530105943/http://www.cdmag.com/articles/031/044/pga2000.html) – December 16, 2000; course list, daily course releases, Justin Kubiak quote
+[^ref-29]: [MobyGames – PGA Championship Golf 2000: Titanium Edition](https://www.mobygames.com/game/3068/pga-championship-golf-2000-titanium-edition/) – Description (7 courses, 20 in German release, Course Architect art library, multiplayer); "PGA licensees" group
+[^ref-30]: [The Sierra Chest – Packaging & content](https://sierrachest.com/index.php?a=games&id=585&title=golf-2000-titanium&fld=box) – US box, UPC-A 0-20626-71191-3; manual, QRC and errata scans
+[^ref-31]: [Wikipedia – EA Salt Lake](https://en.wikipedia.org/wiki/EA_Salt_Lake) – Headgate Studios acquired by EA December 1, 2006 and renamed EA Salt Lake
+[^ref-32]: [Eurogamer – PGA Championship Golf 2000 review](https://www.eurogamer.net/pga2k) – Base-game review; TrueSwing 3 mouse swing
+[^ref-33]: [MobyGames – Specs](https://www.mobygames.com/game/3068/pga-championship-golf-2000-titanium-edition/specs/) – Windows 95, Pentium, 32 MB, 4X CD-ROM, 640×480, 3D accelerator, Internet/LAN/modem, ESRB Everyone, USK 0
