@@ -252,5 +252,5 @@ Jim Walls would continue at Sierra with Police Quest 3 before departing the comp
 [^ref-16]: Wikidata *(link removed: it led to a different game's page)* – structured metadata
 [^ref-17]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Codename:_ICEMAN) – technical compatibility information
 [^ref-18]: MyAbandonware *(link removed: it led to a different game's page)* – preservation and download site
-[^ref-19]: [UVList](https://www.uvlist.net/game-155604-codename-iceman) – Universal Videogame List entry
+[^ref-19]: UVList *(link removed 2026-10-14: the listed URL now opens an unrelated adult game)* – Universal Videogame List entry
 [^ref-20]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Codename:_ICEMAN) – wiki with detailed information
