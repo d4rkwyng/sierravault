@@ -2,62 +2,58 @@
 title: 'Slater & Charlie Go Camping: A Talking Book I Can Read "All By Myself."'
 release_year: 1993
 developer: Sierra On-Line, Inc.
-designer: [Bill Davis, William R. Davis Sr.]
+designer: [Bill Davis]
 publisher: Sierra On-Line, Inc.
 genre: Educational
-platforms: [DOS, Mac, Browser, IBM PC, Windows 3.1]
-series: Educational Interactive Storybooks
+platforms: [DOS, Mac, Windows 3.1]
+series: Sierra Discovery Series
 engine: SCI1.1
 protagonist: Slater the Petrosaur
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
-description: Slater & Charlie Go Camping is an educational interactive storybook released
-  by Sierra On-Line on May 19, 1993, for MS-DOS and Macintosh platforms. The game...
-tags: [1990s, educational, educational-interactive-storybooks, sci, sierra]
+last_updated: '2026-10-14'
+description: Slater & Charlie Go Camping is a talking interactive storybook for children aged 3 to 8, written and directed by Bill Davis for Sierra On-Line's Red Dog Software label and released for DOS on May 19, 1993, with a Macintosh version in August 1993.
+tags: [1990s, educational, sierra-discovery-series, sci, sierra]
 ---
 # Slater & Charlie Go Camping: A Talking Book I Can Read "All By Myself."
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 ## Overview
 
-Slater & Charlie Go Camping is an educational interactive storybook released by Sierra On-Line on May 19, 1993, for MS-DOS and Macintosh platforms[^ref-1][^ref-2]. The game features Slater the Petrosaur, the protagonist from Sierra's Oil's Well remake, who "has got himself a buddy in the form of Charlie, another dinosaur of indeterminate species"[^ref-3]. Together, these dinosaur characters embark on a camping adventure designed to teach children about outdoor safety and nature through interactive storytelling[^ref-2].
+Slater & Charlie Go Camping is an interactive storybook developed and published by Sierra On-Line. It was released for DOS on May 19, 1993, and for the Macintosh in August 1993[^ref-5][^ref-28][^ref-8]. The book stars Slater the Petrosaur, the protagonist of Sierra's Oil's Well remake, who "has got himself a buddy in the form of Charlie, another dinosaur of indeterminate species"[^ref-5]. Sierra's 1992 previews described it as an "interactive children's book about the comic misadventures of two cartoon dinosaurs", meant to introduce computers to children from preschool through third grade[^ref-25][^ref-26]. It was the work of Red Dog Software, one of the developers Sierra profiled under its Sierra Discovery Series banner[^ref-24].
 
 > [!info]- Game Info
-> **Developer:** [[Sierra On-Line]][^ref-1]
-> **Designer:** [[Bill Davis]], William R. Davis Sr.[^ref-2]
-> **Publisher:** Sierra On-Line[^ref-1]
-> **Engine:** SCI1.1[^ref-4]
-> **Platforms:** DOS, Mac, Windows 3.1[^ref-1]
-> **Release Year:** 1993
-> **Series:** Educational Interactive Storybooks
+> **Developer:** [[Sierra On-Line]] (Red Dog Software)[^ref-5][^ref-24]
+> **Designer:** [[Bill Davis]][^ref-27]
+> **Publisher:** Sierra On-Line[^ref-5]
+> **Engine:** SCI1.1[^ref-8]
+> **Platforms:** DOS, Mac, Windows 3.1[^ref-28][^ref-9]
+> **Release Year:** 1993[^ref-28]
+> **Series:** Sierra Discovery Series[^ref-24]
 > **Protagonist:** Slater the Petrosaur
 > **Sierra Lineage:** Core Sierra
 
-Developed using Sierra's Creative Interpreter (SCI) engine[^ref-4], this educational title was part of Sierra's broader push into the children's software market in the early 1990s. The game was designed to compete with Brøderbund's popular Living Books series[^ref-5] and represents Sierra's first release from their Red Dog division[^ref-5]. Contemporary reviewers described it as "a remarkably smooth blend of children's storybooks with Saturday morning cartoons"[^ref-1], though noted it was "not quite as richly animated as the Living Books"[^ref-1].
-Sierra's entry into educational software was motivated by market research showing strong demand for software that combined entertainment with learning, particularly among parents seeking quality content for young children[^ref-2]. The game's release on both floppy disk and CD-ROM formats demonstrated Sierra's commitment to reaching diverse audiences with varying hardware capabilities[^ref-5].
+The game was built on Sierra's Creative Interpreter (SCI)[^ref-5][^ref-8]. Its box sold it as "A talking book that doesn't require a CD-ROM drive!"[^ref-9], and the floppy edition retailed for $49.95[^ref-22][^ref-23]. It was aimed at ages 3 to 8[^ref-22][^ref-9]. *Computer Gaming World* called it "a remarkably smooth blend of children's storybooks with Saturday morning cartoons"[^ref-22], while *PC Magazine* found it "not quite as richly animated as the Living Books" but said "the story still has lots of hot spots for younger children"[^ref-23].
 
 ## Story Summary
 
-The story follows Slater the Petrosaur and his dinosaur companion Charlie as they prepare for and embark on a camping trip in the great outdoors[^ref-6]. "Together, they visit various locations and undertake various tasks toward the end of enjoying a camping trip in the great outdoors together"[^ref-7]. The narrative spans 12 pages about their camping adventure[^ref-5], incorporating educational elements about outdoor safety and nature appreciation throughout their journey[^ref-2].
-
-As an interactive storybook, the narrative unfolds through a series of elaborately illustrated scenes that present challenges and learning opportunities for the young protagonist and their companion[^ref-9]. The dinosaur characters discover camping essentials, learn about wildlife, and navigate simple problems that require observation and interactive problem-solving rather than complex logic puzzles[^ref-2]. Each scene contains multiple "hot spots" that trigger animations or additional narrative elements, allowing curious children to explore the story at their own pace[^ref-5].
-The educational content seamlessly integrates wilderness knowledge—such as proper tent setup, fire safety, and animal awareness—into an engaging adventure narrative that maintains story momentum while delivering subtle learning outcomes[^ref-11].
+Slater and Charlie "visit various locations and undertake various tasks toward the end of enjoying a camping trip in the great outdoors together"[^ref-5]. The box copy lists heading for the mountains, setting up camp, snapping snapshots and "meeting outrageously funny prehistoric friends" among their adventures[^ref-9]. One page shown in *Computer Gaming World*'s review carries the caption "Slater helped Charlie with the tent"[^ref-22]. The story is twelve pages long[^ref-7].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The game is "presented as a series of static images, described in text at the bottom of the screen -- then optionally narrated for children whose reading skills aren't yet up to keeping up with the plot"[^ref-7]. Players interact with the story by clicking on various objects and "hot spots" that trigger animations and sounds[^ref-8]. The interface is designed for mouse control[^ref-9] and features interactive elements similar to a pop-up book with hidden animation hotspots[^ref-10].
+Each page is a static illustration with a line of text at the bottom of the screen, which is read aloud for children who cannot yet read it themselves[^ref-5]. The narration highlights each word as it is spoken[^ref-25][^ref-26]. Sierra's manual describes a mouse-driven interface with full keyboard equivalents: arrows in the lower corners turn pages forward and back (F and B on the keyboard), the space bar returns to the Main Selection Screen, and a stop sign showing the current page number leads to the quit screen[^ref-7].
+
+Every sentence begins with a symbol that replays it. Children can also click single words to hear them spoken, or click words out of order to create "mixed-up sentences"[^ref-7]. Hearing the text requires a sound card with a DAC; players with only a PC speaker have to read the sentences themselves[^ref-7].
 
 ### Structure and Progression
 
-Slater & Charlie Go Camping offers two distinct play modes: "Read To Me" and "Let Me Play"[^ref-5], allowing children of different reading levels to engage with the content appropriately. The game targets children aged 3-8 years[^ref-11] and is played from a third-person perspective[^ref-2][^ref-1]. Players advance the story by clicking on interactive objects and exploring each scene for hidden animations and educational content[^ref-2].
+The Main Selection Screen offers two modes[^ref-7]. In "Read to Me", the story tells itself page by page and returns to the menu at the end. In "Let Me Play", the child can interact with each page after its text has been highlighted[^ref-7]. The P and R keys switch between the two modes[^ref-7]. A "teleporter page" shows miniatures of all twelve pages and lets the player jump straight to any of them in "Let Me Play" mode[^ref-7].
 
 ### Puzzles and Mechanics
 
-Rather than traditional puzzles, the game focuses on discovery-based interaction where children click on various elements in each scene to uncover animations, sounds, and educational content. The educational mechanics are seamlessly integrated into the camping narrative, teaching concepts about nature, outdoor safety, and camping preparations without feeling overtly instructional[^ref-9]. The interface rewards exploration and observation, encouraging young players to click on objects of interest to learn their names, functions, and relevance to the camping scenario[^ref-5]. This approach capitalizes on how young children naturally learn through play and experimentation, avoiding the frustration of rigid puzzle logic while maintaining educational rigor[^ref-2].
-The game's accessibility features, including optional narration and simplified reading passages, ensure that children at different developmental stages can engage meaningfully with the content[^ref-11].
+The game has no puzzles. Once a page has played out, the "great big white hand that signals *wait*" changes to a black arrow cursor, and children can search the scene for hot spots, each of which triggers a short cartoon[^ref-22]. MobyGames describes the illustrations as interactive "like a pop-up book, numerous hidden hot spots on every page yielding zany + whimsical animations"[^ref-5]. *Computer Gaming World*'s Virginia Soper stressed that the book was not a drill program: "Like most good storybooks, this one is all fun. There's no pressure on the kids to learn to count, pronounce carefully selected diphthongs, or identify the color purple."[^ref-22]
 
 ## Reception
 
@@ -65,142 +61,98 @@ The game's accessibility features, including optional narration and simplified r
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Computer Gaming World | Positive | "a remarkably smooth blend of children's storybooks with Saturday morning cartoons"[^ref-1] |
-| PC Magazine | Mixed | "not quite as richly animated as the Living Books, the story still has lots of hot spots for younger children"[^ref-1] |
-| MobyGames (Katakis) | 42% | User review from 2016[^ref-5] |
+| Computer Gaming World (Dec 1993) | Positive | Virginia Soper: "a remarkably smooth blend of children's storybooks with Saturday morning cartoons"[^ref-22] |
+| PC Magazine (Dec 7, 1993) | Mixed | "Not quite as richly animated as the Living Books, the story still has lots of hot spots for younger children."[^ref-23] |
+
+*Computer Gaming World*'s review appeared in its Kids & Computers section (issue 113, page 152). It praised the cartoon slapstick and noted that Sierra packed a working compass and a picture-book version of the story in the box, "for those times when they can't use the computer"[^ref-22]. *PC Magazine*'s holiday gift guide by Donald B. Trivette and Julie Cohen said Sierra "brings the electronic children's book concept to the hard disk"[^ref-23]. Both reviews are summarized on Wikipedia[^ref-1].
 
 ### Modern Assessment
 
-Modern retro gaming sites have given the title mixed to positive reception. DOS Zone rates it 5.0/5[^ref-12], while MyAbandonware users rate it 4.67/5[^ref-13]. The game is described as "a colorful and fun interactive storybook"[^ref-13] and continues to be available for browser-based play on various abandonware sites[^ref-12][^ref-14]. Contemporary retrospective analysis emphasizes the game's importance as a milestone in Sierra's diversification strategy, even though critical consensus acknowledges its limitations compared to competing titles from Brøderbund[^ref-1]. Game historians recognize the title for its technical achievement in delivering narrated content without requiring a CD-ROM drive, a significant technological advantage during the era of floppy disk distribution[^ref-9].
+MobyGames records a critic average of 42% based on a single critic rating, and a player average of 3.7 out of 5 from six ratings[^ref-29]. Its one player review, written by Katakis in 2016, enjoyed the sound effects and cartoon graphics but found the graphics "a bit dull" and page navigation tedious[^ref-29]. MyAbandonware users rate the game 4.67 out of 5 from nine votes, and the site's description calls it "a colorful and fun interactive storybook"[^ref-13]. ScummVM's compatibility list rates its support for the DOS and Macintosh versions as "Excellent"[^ref-30].
 
 ## Development
 
 ### Origins
 
-The development of Slater & Charlie Go Camping represented Sierra On-Line's strategic entry into the educational software market in the early 1990s. The company sought to compete directly with Brøderbund's successful Living Books series by creating their own interactive storybook franchise[^ref-5]. The choice to feature Slater the Petrosaur, a character from Sierra's Oil's Well remake, provided brand continuity within Sierra's catalog[^ref-3][^ref-10]. This strategic decision reflected Sierra's understanding that successful game franchises could extend beyond their original genres, allowing adventure game character assets to be repurposed for educational content while maintaining audience familiarity[^ref-5].
-The creation of Sierra's Red Dog division specifically to develop educational and children's software demonstrated the company's commitment to a significant new market segment[^ref-5].
+Sierra's Fall 1992 *InterAction* magazine profiled the companies in its Sierra Discovery Series. In that issue, Red Dog Software listed Slater and Charlie Go Camping and *But I Can't Go to Bed Yet* as its upcoming products[^ref-24]. The Red Dog entry ran beside a photo of Bill Davis. It quoted the label's philosophy: "Are our products educational? Are books by Maurice Sendack and Dr. Suess educational? If they are educational, so are we. I've had a lifetime love affair with children's books and animation."[^ref-24] (The magazine's own spellings are kept.) The same issue lists Sierra's existing educational titles: *Castle of Dr. Brain*, *Mixed-Up Mother Goose*, *Mixed-Up Fairy Tales* and *EcoQuest: The Search for Cetus*[^ref-24].
+
+The same issue's "Coming up from Sierra and Dynamix" preview called the game "a special project designed to introduce computers to kids from pre-school through third grade in a friendly way". It described the read-aloud story mode, a play mode full of "sight gags", and a feature that let kids "play with the text to make new sentences". It gave a target of late spring or early summer 1993[^ref-25]. By the Winter 1992 issue, layout was "about 85% complete". That issue also printed a rough, computer-drawn "pencil sketch" animation cel from the game[^ref-26].
 
 ### Production
 
-Bill Davis served as the game's designer, director, producer, artist, and writer[^ref-2][^ref-4], making it a largely single-vision project that reflected a unified creative vision from conception to implementation. Neal Grandstaff composed the music[^ref-4][^ref-1], which was originally arranged using Roland Sound Canvas SC-55 technology[^ref-15]. Ashley Peldon provided narration for the story[^ref-5][^ref-9], giving voice to the optional audio component that made the title accessible to pre-readers. The professional voice work elevates the production quality and creates an immersive listening experience for young players[^ref-9].
+MobyGames credits 48 people (41 professional roles and 7 special thanks)[^ref-27]. Bill Davis is credited as writer, producer and director, and shares art direction, character design and gag writing with Darlou Gams. Gams also painted the backgrounds[^ref-27]. Vana Baker was lead programmer, and Marc Hudgins, Barry T. Smith and Spartaco Margioni animated[^ref-27]. Neal Grandstaff wrote the music and sound effects[^ref-27]. The music was originally arranged on a Roland Sound Canvas SC-55[^ref-15].
 
-The game utilized Sierra's patented technology that enabled a "talking book that doesn't require a CD-ROM drive"[^ref-9], allowing the full audio experience to be delivered via floppy disk. This technical achievement was marketed as a significant advantage, as Sierra promoted the game as being "so much fun, your children won't notice they're learning"[^ref-9]. The technology represented years of research into audio compression and playback optimization, enabling full-quality narration within the storage constraints of 1.44MB floppy disks[^ref-11]. Davis's multidisciplinary approach to development ensured aesthetic consistency across the visual art, interface design, and narrative presentation[^ref-4].
+The story is read by Ashley Peldon[^ref-27]. The box introduces her as the "film and TV actress Ashley Peldon (Deceived, Drop Dead Fred)", whose "warm manner" was meant to make children feel they were "reading with a friend"[^ref-9]. The box also says the book "has been thoroughly play-tested to ensure that children can use it all by themselves"[^ref-9]. Its educational pitch was light: "So much fun, your children won't notice they're learning!"[^ref-9]. The 1995 SierraOriginals manual calls it "Sierra's first interactive children's book"[^ref-7].
 
 ### Technical Achievements
 
-Slater & Charlie Go Camping was developed using Sierra's Creative Interpreter (SCI) engine[^ref-4][^ref-11], the same technology that powered many of Sierra's adventure games. The title required a minimum of an AT 286 processor, 640K RAM, and supported both EGA and VGA 256 color graphics[^ref-9]. For optimal experience, Sierra recommended a 386/486 at 25MHz with over 600K DOS memory, 3MB extended memory, and 256 color VGA/MCGA graphics capability[^ref-11].
+Sierra's box claimed that "using patented technology, Sierra brings CD quality and capabilities to a disk-based product", with music and speech "without any hardware enhancement"[^ref-9]. The box lists minimum requirements of an AT 286 with 640K RAM under MS-DOS 5.0 or Windows 3.1, with EGA or 256-color VGA graphics. A mouse is recommended[^ref-9]. *Computer Gaming World*'s info box gave higher figures: 2MB RAM, VGA, a hard disk, a mouse and a sound device. It listed support for AdLib, Sound Blaster, Pro Audio Spectrum, Disney Sound Source Roland MT-32 and compatible devices[^ref-22]. The game runs under either DOS or Windows[^ref-9][^ref-7].
 
-The game was released in multiple formats, including both floppy disk and CD-ROM versions[^ref-5]. The floppy version measured 5,444 KB while the automatic version was 9,690 KB[^ref-16]. The preservation-quality archives measure approximately 16.7M[^ref-3], reflecting the compressed nature of the original distribution media. The implementation of audio narration without CD-ROM dependency represented a significant technical achievement that set Slater & Charlie apart from competitors who required optical media for full voice performance[^ref-9].
+### Version History
 
-### Competitive Position
-
-In the early 1990s educational software market, Slater & Charlie Go Camping faced substantial competition from Brøderbund's Living Books series, which had established itself as the market leader[^ref-5]. While reviewers acknowledged the quality of Sierra's entry, they noted the visual polish and animation richness of the Living Books titles surpassed what Sierra achieved on comparable hardware[^ref-1]. Despite these technical limitations, Slater & Charlie offered its own advantages: integration with established Sierra characters, cross-platform availability, and flexible distribution through multiple media formats.
-The game's performance in the market was respectable but not transformative, as Sierra's brand recognition in adventure games didn't automatically translate to dominance in educational software[^ref-5].
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| 1.0 (Int. 5.19.93) | May 19, 1993 | DOS / Windows 3.1 | Original 1.44MB floppy release[^ref-6][^ref-28][^ref-9] |
+| — | August 1993 | Macintosh | Macintosh release[^ref-28][^ref-8] |
+| CD-ROM | Later reissue | DOS / Windows 3.1 | SierraOriginals CD; the archived disc and its manual are catalogued as 1995[^ref-7][^ref-3][^ref-29] |
 
 ## Legacy
 
-While Slater & Charlie Go Camping didn't achieve the lasting popularity of some other Sierra educational titles, it represents an important step in the company's diversification beyond traditional adventure games. The game's approach to interactive storytelling influenced later educational software development, and its use of familiar Sierra characters helped establish a template for cross-franchise educational content.
+In 2020, Xeen Music released an official licensed soundtrack, produced by Andrew Harrington and Neal Grandstaff. It was recorded on an authentic SC-55 from the original archived MIDI files[^ref-15]. The 35-track album includes unused cues, among them an unused "Sierra Discovery Series Logo Fanfare #2" and two prototype versions of "Little Guy" labelled for *Twisty History*[^ref-15]. The game is supported by ScummVM[^ref-30].
 
 ### Preservation and Availability
 
-The title remains available through various preservation efforts, including the Internet Archive[^ref-17][^ref-18][^ref-3] and abandonware sites[^ref-13][^ref-14]. A comprehensive soundtrack preservation project by Xeen Music has ensured that the original MIDI compositions remain accessible, including "unused music, jingles, and every last note so nothing is lost to time"[^ref-15]. The archival soundtrack includes original MIDI files and commentary that provide valuable context for understanding the game's audio design and production methods[^ref-15].
-
-### Community Interest and Distribution
-
-The game continues to appear on GOG.com's community wishlist with over 102 votes[^ref-19], indicating ongoing interest in official digital re-release. However, searches on major digital platforms like Steam[^ref-20] and GOG's main catalog[^ref-21] show no current availability for purchase. Multiple abandonware repositories and preservation sites maintain accessible versions, demonstrating the game's continued relevance to retro gaming enthusiasts and educational software historians[^ref-13][^ref-14].
-
-### Educational Impact
-
-Slater & Charlie Go Camping's design philosophy—combining narrative entertainment with learning objectives—anticipated modern approaches to game-based learning. The game's two-mode system, allowing children to progress from listening to independent reading, reflected Sierra's understanding of developmental psychology and child learning processes. This pedagogical approach influenced subsequent educational titles in the industry[^ref-11].
-
-### Contemporary Market Position
-
-Slater & Charlie Go Camping competed in the growing educational software market against established titles from Brøderbund and other publishers[^ref-2]. Despite critical acclaim for its innovative approach to combining entertainment with learning, the game faced significant challenges in market penetration dominated by Living Books' established presence[^ref-1]. The game's technical achievement in delivering full narration via floppy disk was noteworthy but didn't overcome the visual polish advantage of CD-ROM based competitors[^ref-15].
-
-### Educational Philosophy
-
-The game's design philosophy emphasized that "so much fun, your children won't notice they're learning"[^ref-9], reflecting Sierra's understanding that effective educational software must prioritize engagement over explicit instruction[^ref-11]. This approach influenced later titles in the Dr. Brain series and other educational software from Sierra, establishing a template for learning-through-play design[^ref-2].
-
-### Industry Context and Market Impact
-
-Slater & Charlie Go Camping represented Sierra's strategic shift toward diversification beyond adventure games, demonstrating the company's ambition to compete in emerging educational software markets[^ref-2]. The game's moderate commercial success, while not matching Living Books' dominance, proved that the educational software market could support multiple quality competitors with distinct approaches[^ref-1]. Industry analysts noted the game's technical innovations, particularly the ability to deliver full voice narration via floppy disk technology[^ref-9].
-
-The game's technical innovations and pedagogical approach established templates for Sierra's subsequent educational software releases, particularly the Dr. Brain series[^ref-9]. The successful integration of narration delivery via floppy disk paved the way for future multimedia content without CD-ROM dependency[^ref-15]. Sierra's investment in educational software demonstrated market confidence in diversification beyond traditional adventure games[^ref-2].
+The game is not sold on Steam or GOG[^ref-20][^ref-21]. Its GOG wishlist entry has 102 votes[^ref-19]. The Internet Archive holds the 1993 floppy disk images, a CD-ROM image, a playable DOS copy and the manual[^ref-6][^ref-3][^ref-10][^ref-7]. Abandonware sites also offer it for download or browser play[^ref-13][^ref-16][^ref-12][^ref-14].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
-- Not currently available on major digital platforms
+- Not currently sold on Steam or GOG[^ref-20][^ref-21]
+- [GOG Wishlist - Slater & Charlie Go Camping](https://www.gog.com/wishlist/games/slater_charlie_go_camping)[^ref-19]
 
 **Download / Preservation**
-- [MyAbandonware - Slater Charlie Go Camping](https://www.myabandonware.com/game/slater-charlie-go-camping-2ax)[^ref-13]
-- [Internet Archive - Manual](https://archive.org/details/slater-and-charlie-go-camping-manual)[^ref-7]
-- [Internet Archive - PC Version](https://archive.org/details/slater-and-charlie-go-camping-pc)[^ref-3]
-- [Internet Archive - MS-DOS Version](https://archive.org/details/msdos_Slater__Charlie_Go_Camping_1993)[^ref-10]
+- [Internet Archive - MS-DOS Version (browser playable)](https://archive.org/details/msdos_Slater__Charlie_Go_Camping_1993)[^ref-10]
+- [Internet Archive - CD-ROM Image](https://archive.org/details/slater-and-charlie-go-camping-pc)[^ref-3]
+- [MyAbandonware - Slater & Charlie Go Camping](https://www.myabandonware.com/game/slater-charlie-go-camping-2ax)[^ref-13]
 - [DOS Zone - Browser Playable](https://dos.zone/slater-charlie-go-camping-may-19-1993/)[^ref-12]
 - [Play Classic Games - Browser Version](https://playclassic.games/games/educational-dos-games-online/play-slater-charlie-go-camping-online/)[^ref-14]
 
-The legacy of Slater & Charlie Go Camping extends beyond commercial performance to its role in establishing Sierra's educational software division, directly influencing the company's strategic direction through the 1990s[^ref-2].
-
-This educational framework proved so successful that it became the template for Sierra's subsequent Dr. Brain series releases[^ref-11].
+**Manuals & Extras**
+- [Internet Archive - Manual (SierraOriginals edition)](https://archive.org/details/slater-and-charlie-go-camping-manual)[^ref-7]
+- [Xeen Music - Official Soundtrack (SC-55)](https://xeenmusic.bandcamp.com/album/slater-charlie-go-camping-official-soundtrack-sc-55)[^ref-15]
 
 ## See Also
 
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1988 - Silpheed]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Air Cavalry]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
-
-### Contemporary Market Position
-
-Slater & Charlie Go Camping competed in the growing educational software market against established titles from Brøderbund and other publishers[^ref-2]. Despite critical acclaim for its innovative approach to combining entertainment with learning, the game faced significant challenges in market penetration dominated by Living Books' established presence[^ref-1]. The game's technical achievement in delivering full narration via floppy disk was noteworthy but didn't overcome the visual polish advantage of CD-ROM based competitors[^ref-15].
-
-### Educational Philosophy
-
-The game's design philosophy emphasized that "so much fun, your children won't notice they're learning"[^ref-9], reflecting Sierra's understanding that effective educational software must prioritize engagement over explicit instruction[^ref-11]. This approach influenced later titles in the Dr. Brain series and other educational software from Sierra, establishing a template for learning-through-play design[^ref-2].
+- [[1990 - Oils Well]] (Slater's earlier appearance)
+- [[Bill Davis]]
+- [[1990 - Mixed-Up Mother Goose (SCI Remake)]]
+- [[1991 - Castle of Dr. Brain]]
+- [[1991 - EcoQuest - The Search for Cetus]]
 
 ## References
 
-[^ref-1]: [Wikipedia - Slater & Charlie Go Camping](https://en.wikipedia.org/wiki/Slater_&_Charlie_Go_Camping) – - Release dates, developer, and basic game information
-[^ref-2]: [Kids Kiddle - Slater & Charlie Go Camping](https://kids.kiddle.co/Slater_&_Charlie_Go_Camping) – - Platform and release information
-[^ref-3]: [Internet Archive - Slater and Charlie Go Camping PC](https://archive.org/details/slater-and-charlie-go-camping-pc) – - Character descriptions and technical specifications
-[^ref-4]: [Wikipedia - Slater & Charlie Go Camping](https://en.wikipedia.org/wiki/Slater_%26_Charlie_Go_Camping) – - Development credits and engine information
-[^ref-5]: [MobyGames - Slater Charlie Go Camping](https://www.mobygames.com/game/22337/slater-charlie-go-camping/) – - Development details, reviews, and technical specifications
-[^ref-6]: [Archive.org - Sierra PC Games Collection](https://archive.org/details/20220303_20220303_0527) – - Game premise and character information
-[^ref-7]: [Internet Archive - Slater and Charlie Go Camping Manual](https://archive.org/details/slater-and-charlie-go-camping-manual) – - Official game description and story details
-[^ref-8]: [PCGamingWiki - Slater & Charlie Go Camping](https://www.pcgamingwiki.com/wiki/Slater_&_Charlie_Go_Camping) – - Interactive elements and game classification
-[^ref-9]: [Elisoftware.org - Slater & Charlie Go Camping](https://elisoftware.org/w/index.php/Slater_%26_Charlie_Go_Camping_%28PC,_1.44MB_3_1/2%22_Disk%29_Sierra_-_1993_USA,_Canada_Release) - Technical specifications and marketing information
-[^ref-10]: [Internet Archive - MS-DOS Slater Charlie Go Camping](https://archive.org/details/msdos_Slater__Charlie_Go_Camping_1993) – - Character details and presentation format
-[^ref-11]: [eBid.net - Vintage 1993 PC Software Game](https://www.ebid.net/us/for-sale/vintage-1993-pc-software-game-slater-charlie-go-camping-windows-3-dos-used-146171000.htm) – - System requirements and target audience
-[^ref-12]: [DOS Zone - Slater Charlie Go Camping](https://dos.zone/slater-charlie-go-camping-may-19-1993/) – - Modern rating and browser availability
-[^ref-13]: [MyAbandonware - Slater Charlie Go Camping](https://www.myabandonware.com/game/slater-charlie-go-camping-2ax) – - User ratings and modern assessment
-[^ref-14]: [Play Classic Games - Slater Charlie Go Camping](https://playclassic.games/games/educational-dos-games-online/play-slater-charlie-go-camping-online/) – - Browser playability and game overview
-[^ref-15]: [Xeen Music - Slater Charlie Go Camping Soundtrack](https://xeenmusic.bandcamp.com/album/slater-charlie-go-camping-official-soundtrack-sc-55) – - Music preservation and technical details
-[^ref-16]: [Abandonware France - Slater & Charlie Go Camping](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2638&fic=liens) – - File sizes and compatibility information
-[^ref-17]: [Wikidata - Q18215990](https://www.wikidata.org/wiki/Q18215990) – - Official metadata and verification
-[^ref-18]: [WowRoms - Slater and Charlie Go Camping](https://wowroms.com/en/roms/dos/slater-and-charlie-go-camping-1993/149665.html) – - ROM preservation listing
-[^ref-19]: [GOG Dreamlist - Slater Charlie Go Camping](https://www.gog.com/dreamlist) – - Community interest in digital re-release
-[^ref-20]: [Steam Search Results](https://store.steampowered.com/search/?term=Slater+%26+Charlie+Go+Camping) – - Current digital availability status
+[^ref-1]: [Wikipedia - Slater & Charlie Go Camping](https://en.wikipedia.org/wiki/Slater_&_Charlie_Go_Camping) – - Summary of the CGW and PC Magazine reviews (secondary; primary scans are refs 22–23)
+[^ref-3]: [Internet Archive - Slater and Charlie Go Camping PC](https://archive.org/details/slater-and-charlie-go-camping-pc) – - CD-ROM ISO for Windows 3.1/MS-DOS, item dated 1995 (description copied from MobyGames)
+[^ref-5]: [MobyGames - Slater & Charlie Go Camping](https://www.mobygames.com/game/22337/slater-charlie-go-camping/) – - Official description, release date, developer/publisher, SCI engine group
+[^ref-6]: [Internet Archive - Sierra On-Line PC Floppy Disk Image Collection](https://archive.org/details/20220303_20220303_0527) – - Disk image "Slater & Charlie Go Camping (1993) (v1.0, Int. 5.19.93) (1.44M)"
+[^ref-7]: [Internet Archive - Slater and Charlie Go Camping Manual](https://archive.org/details/slater-and-charlie-go-camping-manual) – - SierraOriginals edition manual scan: modes, twelve pages, teleporter page, controls, "Sierra's first interactive children's book"
+[^ref-8]: [PCGamingWiki - Slater & Charlie Go Camping](https://www.pcgamingwiki.com/wiki/Slater_&_Charlie_Go_Camping) – - SCI1.1 engine; DOS May 19, 1993; Mac OS August 1993
+[^ref-9]: [Elisoftware.org - Slater & Charlie Go Camping](https://elisoftware.org/w/index.php/Slater_%26_Charlie_Go_Camping_%28PC,_1.44MB_3_1/2%22_Disk%29_Sierra_-_1993_USA,_Canada_Release) – - Box text transcription, narrator, system requirements, ages 3–8
+[^ref-10]: [Internet Archive - MS-DOS Slater Charlie Go Camping](https://archive.org/details/msdos_Slater__Charlie_Go_Camping_1993) – - Browser-playable DOS version
+[^ref-12]: [DOS Zone - Slater Charlie Go Camping](https://dos.zone/slater-charlie-go-camping-may-19-1993/) – - Browser-playable version
+[^ref-13]: [MyAbandonware - Slater Charlie Go Camping](https://www.myabandonware.com/game/slater-charlie-go-camping-2ax) – - User rating 4.67/5 (9 votes) and description
+[^ref-14]: [Play Classic Games - Slater Charlie Go Camping](https://playclassic.games/games/educational-dos-games-online/play-slater-charlie-go-camping-online/) – - Browser-playable version
+[^ref-15]: [Xeen Music - Slater & Charlie Go Camping Official Soundtrack (SC-55)](https://xeenmusic.bandcamp.com/album/slater-charlie-go-camping-official-soundtrack-sc-55) – - 2020 licensed soundtrack, SC-55 arrangement, track list incl. unused cues
+[^ref-16]: [Abandonware France - Slater & Charlie Go Camping](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2638&fic=liens) – - Release date 19/05/1993; download listing
+[^ref-19]: [GOG Wishlist - Slater & Charlie Go Camping](https://www.gog.com/wishlist/games/slater_charlie_go_camping) – - Community wishlist entry, +102 votes
+[^ref-20]: [Steam Search Results](https://store.steampowered.com/search/?term=Slater+%26+Charlie+Go+Camping) – - "0 results match your search"
 [^ref-21]: [GOG Games Search](https://www.gog.com/en/games?query=Slater+%26+Charlie+Go+Camping) – - Digital store availability
+[^ref-22]: [Computer Gaming World #113 (December 1993), p.152 – Virginia Soper, "Slater and Charlie Go Camping"](https://archive.org/details/Computer_Gaming_World_Issue_113/page/n151/) – - Review, price $49.95, ages 3 to 8, requirements, compass and picture book in box
+[^ref-23]: [PC Magazine, December 7, 1993, p.588 – Donald B. Trivette & Julie Cohen, "After Hours: Holiday Gift Guide"](https://books.google.com/books?id=7k7q-wS0t00C&pg=RA1-PA588) – - Capsule review, DOS, $49.95, comparison to Living Books
+[^ref-24]: [InterAction Magazine, Fall 1992, p.9 – "Sierra Discovery Series"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US/page/n8/) – - Red Dog Software entry and upcoming products; Sierra's educational titles on market
+[^ref-25]: [InterAction Magazine, Fall 1992, p.19 – "Coming up from Sierra and Dynamix"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US/page/n18/) – - Preview: preschool to third grade, story and play modes, due late spring/early summer 1993
+[^ref-26]: [InterAction Magazine, Winter 1992, p.16 – "New Games Update"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US/page/n16/) – - Layout about 85% complete; pencil-sketch animation cel
+[^ref-27]: [MobyGames - Slater & Charlie Go Camping DOS credits](https://www.mobygames.com/game/22337/slater-charlie-go-camping/credits/dos/) – - Full credits, 48 people (41 professional roles, 7 thanks)
+[^ref-28]: [MobyGames - Slater & Charlie Go Camping releases](https://www.mobygames.com/game/22337/slater-charlie-go-camping/releases/) – - DOS May 19, 1993; Macintosh Aug 1993
+[^ref-29]: [MobyGames - Slater & Charlie Go Camping reviews](https://www.mobygames.com/game/22337/slater-charlie-go-camping/reviews/) – - Critic average 42% (1 rating); players 3.7/5 (6 ratings); Katakis player review (2016)
+[^ref-30]: [ScummVM - Compatibility: Slater & Charlie Go Camping](https://www.scummvm.org/compatibility/DEV/sci:slater/) – - Support level "Excellent"; DOS and Macintosh
