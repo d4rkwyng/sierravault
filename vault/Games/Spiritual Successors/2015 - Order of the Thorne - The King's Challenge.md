@@ -1,120 +1,102 @@
 ---
 title: 'Order of the Thorne: The King''s Challenge'
-release_year: 2015
+release_year: 2016
 developer: Infamous Quests
 designer: [James Broom, Shawn Mills, Steven Alexander]
 publisher: Infamous Quests
 genre: Adventure
-platforms: [Android, Linux, Mac, Windows, Steam]
+platforms: [Linux, Mac, Windows]
 series: Order of the Thorne
 engine: Adventure Game Studio
 protagonist: Finn the Bard
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-09'
+last_updated: '2026-10-14'
 description: '**Order of the Thorne: The King''s Challenge** is a point-and-click
-  adventure game developed by Infamous Quests and released in 2015. Described as "a
-  classic...'
+  adventure game developed by Infamous Quests and released on January 26, 2016, for
+  Windows, Mac and Linux. Inspired by King''s Quest, it follows Finn the Bard through
+  the Faerie King''s once-a-decade challenge and opens a planned anthology series.'
 tags: [2010s, adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: The King's Challenge
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 ## Overview
 
-**Order of the Thorne: The King's Challenge** is a point-and-click adventure game developed by Infamous Quests and released in 2015[^ref-1]. Described as "a classic point-and-click adventure inspired by the iconic King's Quest series"[^ref-2], the game serves as a spiritual successor to Sierra's beloved adventure games of the 1980s and 1990s[^ref-3]. Players take control of Finn the Bard, a young musician who participates in the Faerie King's annual challenge to find the missing queen and compose "the greatest ballad ever"[^ref-4].
+**Order of the Thorne: The King's Challenge** is a point-and-click adventure game developed and published by Infamous Quests and released on January 26, 2016[^ref-1][^ref-4]. Described as "a classic point-and-click adventure inspired by the iconic King's Quest series"[^ref-2], the game pays homage to Sierra's original *King's Quest* through its setting, tone and 320x200 presentation[^ref-10]. Players take control of Finn the Bard, a young musician who enters the Faerie King's challenge, held every ten years, in the hope of writing "the greatest ballad ever"[^ref-15].
 
-The game was successfully crowdfunded through Kickstarter and represents part of the modern retro adventure game revival movement that emerged in the 2010s[^ref-5]. Built using the Adventure Game Studio (AGS) engine, it features hand-drawn pixel art reminiscent of 1990s adventure games and incorporates classic Sierra-style gameplay with inventory puzzles and world exploration[^ref-6].
+The game was crowdfunded through a Kickstarter campaign that succeeded on May 3, 2015[^ref-22]. Built using the Adventure Game Studio (AGS) engine[^ref-5], it features hand-drawn backgrounds and animations[^ref-14] and classic Sierra-style gameplay built around inventory puzzles and exploration[^ref-10].
 
-Adventure Gamers praised the nostalgic design, with one reviewer noting "This feels as much like a 1991 release as you could hope for"[^ref-6]. The game achieves its goal of recapturing the magic of classic Sierra adventures while adding unique elements like musical puzzle-solving through Finn's magical lute.[^ref-13]
+Adventure Gamers praised the nostalgic design, with its reviewer concluding that "this feels as much like a 1991 release as you could hope for"[^ref-6]. Alongside its Sierra roots, the game borrows a musical mechanic from LucasArts' *Loom*: Finn plays songs on his lute to solve puzzles[^ref-10][^ref-14].
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Quests]][^ref-1]
 > **Designer:** James Broom, Shawn Mills, Steven Alexander[^ref-7]
 > **Publisher:** Infamous Quests[^ref-1]
-> **Platforms:** Windows, macOS, Linux, Android[^ref-5]
-> **Release Year:** 2015
+> **Platforms:** Windows, macOS, Linux[^ref-11]
+> **Release Year:** 2016[^ref-1]
 > **Series:** Order of the Thorne
 > **Sierra Lineage:** Spiritual Successor
-> **Engine:** Adventure Game Studio
+> **Engine:** Adventure Game Studio[^ref-5]
 > **Protagonist:** Finn the Bard
 
 ## Story Summary
 
 ### The Setting
 
-Set in the magical Faerie Kingdom, the story centers around a beloved royal tradition. "Every ten years, the ruler of the Faerie Realm, King Quilhairn, offers up his latest challenge to those brave enough to undertake the quest"[^ref-8]. The kingdom exists in a world of magic, talking animals, and ancient mysteries—a setting deliberately evocative of Sierra's fantasy adventures.
+The story takes place in Uir, the realm of the Faeries, and centres on a royal tradition. "Every ten years, the ruler of the Faerie Realm, King Quilhairn, offers up his latest challenge to those brave enough to undertake the quest"[^ref-8]. Much of the game is spent in the forests around the faerie village of Crann Naoimh[^ref-10].
 
 ### The Challenge
 
-The challenge appears deceptively simple at first glance: "The King of the Faerie Kingdom has gathered various heroes from the land to find his Queen. No, no, don't worry; she hasn't been kidnapped or anything, this is just a simple game of hide-and-seek"[^ref-9]. Queen Ancell has hidden herself somewhere within the realm, and contestants must locate her to claim victory.
+The challenge appears deceptively simple at first glance: "The King of the Faerie Kingdom has gathered various heroes from the land to find his Queen. No, no, don't worry; she hasn't been kidnapped or anything, this is just a simple game of hide-and-seek"[^ref-9]. Queen Helena[^ref-7] has agreed to hide somewhere within the kingdom's borders, and seven challengers, Finn included, set out to find her[^ref-10].
 
-However, as the game's description hints, "all is not as it seems, and the true challenge lies ahead"[^ref-12]. What begins as a lighthearted competition gradually reveals deeper mysteries about the Faerie Kingdom and its rulers.
+However, as the developer's own sale page hints, "all is not as it seems, and the true challenge lies ahead"[^ref-12]. The game ends on a cliffhanger that sets up the next episode[^ref-10].
 
 ### Finn's Motivation
 
-The protagonist, Finn the Bard, enters the competition with his own artistic motivation—"Finn's own reason for participating is to be inspired into composing the greatest ballad in the world"[^ref-10]. Unlike other contestants seeking power or glory, Finn hopes the adventure will spark his creative genius.
+Finn the Bard enters the competition for artistic reasons: "Finn's own reason for participating is to be inspired into composing the greatest ballad in the world"[^ref-10].
 
 ### The Prize
 
-The reward for completing the challenge is significant: "One wish, any wish that is within his power to grant"[^ref-11]. King Quilhairn's magical power makes this an extraordinary prize, drawing contestants from across the land to test their wits and courage.
+The reward for completing the challenge is significant: "One wish, any wish that is within his power to grant"[^ref-11]. The winner also earns the title of Champion of the realm[^ref-10].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The game employs traditional point-and-click adventure mechanics that will be immediately familiar to fans of classic Sierra games. Players navigate using keyboard and mouse, with controller support also available for those who prefer gamepad input[^ref-5].
+The game uses a two-button mouse scheme: the left button interacts with the world and the right button examines things[^ref-21][^ref-16].
 
 The interface includes:
-- **Inventory management** for collecting and combining items
-- **Dialogue trees** for conversing with characters
-- **Examination commands** for investigating the environment
-- **Musical interface** for playing Finn's lute
+- **An inventory bar**, revealed by moving the pointer to the top of the screen, where objects are examined with the right button and selected with the left[^ref-16]
+- **Conversations** with a large cast of characters, needed to gather information (there are no dialogue puzzles)[^ref-21]
+- **Hotspot highlighting**: points of interest are highlighted as the pointer passes over them[^ref-16]
+- **A lute button** that opens the song-playing screen[^ref-16]
 
 ### Display and Graphics
 
-The game supports modern display options including[^ref-5]:
-- Widescreen resolution support
-- Windowed mode
-- Borderless fullscreen windowed
-- 60 FPS and 120+ FPS support
-
-The base resolution of 320x200 recreates the look of classic VGA-era adventures, with pixel art graphics that deliberately evoke the golden age of Sierra adventure gaming[^ref-5].
+The game runs at a 320x200 resolution[^ref-10], with hand-painted backgrounds[^ref-6] in a colourful pixel-art style[^ref-2]. Unusually for an AGS game on Linux, both the GOG and Steam builds include a graphical settings panel for switching to windowed mode or changing graphics filters[^ref-21].
 
 ### Structure and Progression
 
-Order of the Thorne: The King's Challenge is relatively short compared to classic adventure games, designed as the first episode in a planned anthology series. According to HowLongToBeat statistics[^ref-8]:
+The King's Challenge is short by classic adventure standards. It is the first game in a planned anthology series[^ref-14]. HowLongToBeat lists the following polled times[^ref-8]:
 
 | Completion Type | Average Time |
 |----------------|--------------|
-| Main Story | 3.5 hours |
-| Completionist | 4 hours |
-| Speedrun | ~2 hours |
+| Main Story | 3h 40m |
+| Completionist | 4h 9m |
+| Main Story (Rushed) | 2h 41m |
 
-This episodic length allows for focused storytelling while setting the stage for future installments in the series.
+Cubed3's reviewer judged that the whole adventure could be finished in about two hours[^ref-9], while GamingOnLinux's reviewer finished after three hours of play[^ref-21].
 
 ### Musical Puzzle System
 
-A unique feature that sets Order of the Thorne apart from its inspirations is the musical puzzle system. Players can "Use your lute to perform musical songs to solve puzzles and complete tasks"[^ref-14]. The game instructs players to "Play your magic lute to discover the secrets of the land and entertain its people"[^ref-15].
+Players can "Use your lute to perform musical songs to solve puzzles and complete tasks"[^ref-14]. The official description invites players to "Play your magic lute to discover the secrets of the land and entertain its people"[^ref-15].
 
-This mechanic draws direct inspiration from LucasArts' classic Loom, featuring "a music 'mini-game' similar to Loom"[^ref-16]. Finn must learn and perform melodies to:
-
-- Unlock magical effects
-- Communicate with certain characters
-- Solve environmental puzzles
-- Progress through key story moments
-
-The lute system adds a creative dimension to puzzle-solving beyond traditional inventory manipulation.
+The mechanic is borrowed from LucasArts' *Loom*[^ref-10][^ref-6]. Choosing a song shows a sequence of notes that the player must repeat in the correct order. An easy mode, switchable at any time, plays the song at the press of a button[^ref-21]. Songs have effects on characters, such as putting people in a certain mood, and some puzzles require them[^ref-21]. Adventure Gamers notes songs of calm and songs of protection among them[^ref-6].
 
 ### Puzzles and Mechanics
 
-Beyond the musical elements, the game includes traditional adventure game puzzles involving:
-- Item collection and combination
-- Environmental interaction
-- Character dialogue and information gathering
-- Exploration and discovery
-
-The puzzle difficulty aims for accessibility while providing satisfying challenges for adventure game veterans.
+Beyond the musical elements, most puzzles are conventional inventory-based ones[^ref-10][^ref-21]. Reviewers disagreed about the difficulty. GamingOnLinux found none of the puzzles particularly hard but all of them enjoyable[^ref-21]. Cubed3 called the game "stupefyingly easy", with hints that give solutions away[^ref-9].
 
 ## Reception
 
@@ -124,77 +106,69 @@ The puzzle difficulty aims for accessibility while providing satisfying challeng
 |-------------|-------|-------|
 | Adventure Gamers | 3.5/5 | Praised nostalgic design elements[^ref-6] |
 | Cubed3 | 4/10 | Criticized as overly simplistic[^ref-9] |
-| GOG.com User Reviews | 4.1/5 | Based on 28 user reviews[^ref-4] |
-| IMDb | 8.2/10 | User ratings[^ref-17] |
-| itch.io | 4.4/5 | Platform user reviews[^ref-11] |
-| HowLongToBeat | 64% | User satisfaction rating[^ref-8] |
-| MobyGames Critics | 70% | Aggregate critic score[^ref-1] |
+| Metacritic | 71 | Score shown on the Steam store listing[^ref-23] |
+| GOG.com User Reviews | 4.1/5 | Average of 128 ratings; 31 written reviews[^ref-4] |
+| IMDb | 8.2/10 | User ratings (5 votes)[^ref-17] |
+| itch.io | 4.4/5 | 11 user ratings[^ref-11] |
+| HowLongToBeat | 65% | User rating[^ref-8] |
+| MobyGames Critics | 70% | Aggregate of one critic score[^ref-1] |
 
 ### Critical Analysis
 
-The critical reception was divided. Adventure Gamers praised the successful recreation of classic Sierra aesthetics: "This feels as much like a 1991 release as you could hope for"[^ref-6]. The review appreciated the attention to detail in recreating the look and feel of games like King's Quest.
+The critical reception was divided. Adventure Gamers praised its faithful recreation of classic Sierra aesthetics: "this feels as much like a 1991 release as you could hope for"[^ref-6]. Hardcore Gamer's Alexander Chatziioannou found the plot, setting and central characters strong enough to keep adventure fans pleased. He also criticised the bland, padded dialogue and descriptions[^ref-10].
 
-However, Cubed3's Athanasios Aravositas was more critical, giving the game only 4/10 and describing it as overly simplistic[^ref-9]. This represents the challenge facing retro-style games: balancing nostalgia with providing meaningful engagement for modern players.
+Cubed3's Athanasios Aravositas was more critical, giving the game only 4/10 and calling it "mediocre to the point of annoyance"[^ref-9]. GamingOnLinux's reviewer "greatly enjoyed" it and wished he could have kept playing[^ref-21].
 
 ### Community Response
 
-User reception has been generally positive among fans of classic Sierra-style adventures. One GOG.com user noted, "Playing this game was like going back in time to the good old King's Quest days"[^ref-4]. The game has been particularly recommended for nostalgia-seeking players, with reviewers stating "if you're a fan of the old Sierra style adventures you'll love this one"[^ref-18].
-
-The 4.1/5 rating on GOG.com based on 28 reviews and 4.4/5 on itch.io suggests the target audience—fans of classic adventure games—responded favorably to the game's approach.
-
-### Modern Assessment
-
-A decade after release, *The King's Challenge* retains a small but loyal following as a successful proof-of-concept for the Sierra-style fan-revival genre. The **70% MobyGames aggregate** and **4.1/5 GOG user score** remain the page's defining critical metrics[^ref-1][^ref-4]. The game's lasting value lies more in its catalyst role for the broader Infamous Quests catalog (Quest for Infamy, the in-development Roehm to Ruin and Fortress of Fire) than in its standalone commercial performance — a position consistent with bite-sized anthology-launch products generally.[^ref-3][^ref-7]
+GOG.com users rate the game 4.1 out of 5[^ref-4]. One GOG.com user wrote, "Playing this game was like going back in time to the good old King's Quest days"[^ref-4]. Before release, Cliqist writer Serena Nelson, who had played the beta, said "if you're a fan of the old Sierra style adventures you'll love this one"[^ref-18]. After launch, she wrote that the game was "still very much worth picking up and playing"[^ref-3].
 
 ## Development
 
 ### Origins
 
-Order of the Thorne: The King's Challenge was developed by Infamous Quests, an independent studio that began as "originally an amateur developer of VGA game remakes"[^ref-3]. The studio built its reputation by creating fan remakes of classic Sierra games — Quest for Glory II and King's Quest III VGA fan rebuilds, plus Space Quest 2 VGA work — before moving on to original commercial titles. The King's Challenge was conceived as the first entry in a planned anthology series of bite-sized adventures, with each future entry intended to revisit and expand the "Order of the Thorne" lore from a different angle.[^ref-3][^ref-5]
+The King's Challenge was developed by Infamous Quests, which Steven Alexander and Shawn Mills founded in 2012. The two had earlier run Infamous Adventures, an amateur group that remade Sierra adventure games of the early 1990s[^ref-22]. Its free remakes included *King's Quest III* and *Space Quest 2*[^ref-3]. Infamous Quests released *Quest for Infamy* in 2014[^ref-22]. In March 2015 the studio announced The King's Challenge as the first game in a planned anthology series[^ref-22].
 
-### Production
+### Production and Crowdfunding
 
-The Kickstarter campaign for The King's Challenge launched in 2014 alongside Quest for Infamy: Roehm to Ruin, with both games as joint deliverables.[^ref-5] The crowdfunding allowed the small studio to pursue their vision of creating a classic-style adventure game while involving fans in the development process; Kickstarter backers received various rewards and their involvement is commemorated in the game through Easter eggs.[^ref-5]
+Following the March 2015 announcement, Infamous Quests ran a Kickstarter campaign for The King's Challenge and the *Quest for Infamy* prequel *Roehm to Ruin*. It succeeded on May 3, 2015, raising $30,944 plus further PayPal funds, which let the studio add a third game, *Order of the Thorne: Fortress of Fire*[^ref-22]. GamingOnLinux likewise notes that the campaign funded two further games[^ref-21].
 
-### Crowdfunding
-
-The game was "successfully funded through Kickstarter" and developed "with community feedback"[^ref-5]. This crowdfunding approach allowed the small studio to pursue their vision of creating a classic-style adventure game while involving fans in the development process.
-
-The Kickstarter backers received various rewards and their involvement is commemorated in the game through Easter eggs.
+Kickstarter backers are commemorated in the game itself (see Easter Eggs below)[^ref-10]. Cliqist writer Serena Nelson was one of the testers near the end of development[^ref-3].
 
 ### Production Team
 
-The development team drew inspiration from "classic adventure games from Sierra and LucasArts"[^ref-5]. The comprehensive credits list includes "146 people (41 professional roles, 105 thanks) with 167 credits"[^ref-7], reflecting both the core development team and the community supporters who helped bring the project to life.
+The credits list "146 people (41 professional roles, 105 thanks) with 167 credits"[^ref-7]. They include a long list of Kickstarter producers[^ref-7].
 
-**Key Team Members:**
+**Key Team Members:**[^ref-7]
 
 | Name | Role |
 |------|------|
-| James Broom | Designer |
-| Shawn Mills | Designer, Developer |
-| Steven Alexander | Designer, Developer |
+| Shawn Mills | Director, writer, programmer |
+| Steven Alexander | Producer, writer, programmer, additional lute themes |
+| James Broom | Writer, animator, manual design |
 | James Mulvale | Composer |
 
 ### Voice Cast
 
-The game features extensive voice acting, bringing the fairy tale world to life:
+The game is fully voiced[^ref-14]:
 
 | Actor | Character |
 |-------|-----------|
 | Matthew Curtis | Finn the Bard[^ref-7] |
-| Ben Wilk | King Quilhairn[^ref-17] |
-| Jesse Lowther | Narrator[^ref-6] |
+| Ben Wilk | King Quilhairn[^ref-7][^ref-17] |
+| Brittany Michel | Queen Helena[^ref-7][^ref-17] |
+| Jesse Lowther | Narrator[^ref-7][^ref-6] |
 | Gideon Belmont-Hill | Ted the Fisherman[^ref-17] |
-| George Exeley | Turtle[^ref-17] |
+| George Exley | Turtle[^ref-7] |
 | Karen Hayman | Snowy[^ref-17] |
 | Amber Leigh | Red[^ref-17] |
 | Michael Malconian | Elder Librarian[^ref-17] |
 
-The voice acting helps establish the fairy tale atmosphere and gives personality to the diverse cast of characters Finn encounters.
+Reviewers were less taken with the narration: Cubed3 found the voice acting "quite cringe-worthy at times, especially when it comes to the narrator"[^ref-9].
 
 ### Technical Achievements
 
-Built using the "Adventure Game Studio (AGS)" engine[^ref-5], developed by Chris Jones, the game features "hand-drawn pixel art reminiscent of 1990s adventure games"[^ref-5]. The technical specifications are deliberately modest, ensuring broad compatibility:
+The game is built on Adventure Game Studio[^ref-5], the engine by Chris Jones[^ref-7]. It has hand-drawn backgrounds and animations[^ref-14]. GOG lists these minimum Windows requirements[^ref-4]:
 
 | Requirement | Specification |
 |-------------|---------------|
@@ -202,58 +176,59 @@ Built using the "Adventure Game Studio (AGS)" engine[^ref-5], developed by Chris
 | Processor | 900 MHz |
 | RAM | 128 MB |
 | Graphics | DirectX Compatible |
-| Resolution | 320x200 (scaled) |
-| Style | Pixel Art |
+| Storage | 800 MB |
 
 ## Legacy
 
 ### Series Ambitions
 
-Order of the Thorne: The King's Challenge is "Part of an anthology series"[^ref-19] and was designed as the first installment in a planned series of adventure games set in the same world. A sequel titled "Fortress of Fire" has been mentioned as in development[^ref-3], promising to continue the episodic adventure format.
+The King's Challenge is "An original adventure game in a planned anthology series titled 'Order of the Thorne'"[^ref-14]. Its follow-up, *Fortress of Fire*, was announced when the 2015 Kickstarter campaign succeeded[^ref-22], and the 2016 reviews named it as the next installment[^ref-3][^ref-9].
 
-As one reviewer concluded, "While still a bit on the short side, The King's Challenge is a polished game and perfectly sets the stage for the next installment"[^ref-3].
+As Serena Nelson concluded, "While still a bit on the short side, especially for those used to playing games of this type, The King's Challenge is a polished game and perfectly sets the stage for the next installment"[^ref-3].
 
 ### Easter Eggs and Fan Service
 
-The game includes Easter eggs celebrating its crowdfunding origins:
-- "Isle of the Honored with Kickstarter backer tombstones"[^ref-20]
-- "Village library with books credited to Kickstarter backers"[^ref-20]
-
-These touches demonstrate the developers' appreciation for the community that supported the game's creation.
-
-### Contribution to the Adventure Game Revival
-
-Order of the Thorne represents part of the broader indie adventure game revival of the 2010s. Alongside other spiritual successors and crowdfunded adventures, it demonstrates continued audience interest in classic point-and-click gameplay. The game's success helped validate the market for new games in the Sierra style, encouraging other developers to pursue similar projects.
+The game includes tributes to its crowdfunding backers[^ref-10]:
+- **The Isle of the Honored** serves no purpose except to commemorate the backers of one Kickstarter tier. Nearly forty tombstones bear their names, and reading them unlocks an achievement[^ref-10][^ref-20].
+- **The village library** holds books whose authorship is credited to another group of Kickstarter backers[^ref-10].
 
 ### Infamous Quests' Catalog
 
-Order of the Thorne exists within Infamous Quests' broader catalog of Sierra-inspired adventure games:
+The King's Challenge sits within Infamous Quests' catalog of Sierra-inspired adventure games[^ref-22]:
 
-- **Quest for Infamy** (2014) - Rogue protagonist adventure
-- **Order of the Thorne: The King's Challenge** (2015) - Bard protagonist adventure
-- **Order of the Thorne: Fortress of Fire** (In Development) - Sequel
+- **[[2014 - Quest for Infamy|Quest for Infamy]]** (2014): adventure RPG inspired by *Quest for Glory*
+- **Order of the Thorne: The King's Challenge** (2016): bard protagonist adventure
+- **[[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]]**: prequel, announced in 2015
+- **[[TBD - Order of the Thorne - Fortress of Fire|Order of the Thorne: Fortress of Fire]]**: sequel, announced after the 2015 Kickstarter succeeded
 
 ## Technical Specifications
 
 | Specification | Details |
 |---------------|---------|
 | Engine | Adventure Game Studio (AGS)[^ref-5] |
-| Base Resolution | 320x200[^ref-5] |
-| Graphics Style | Pixel Art[^ref-5] |
-| Minimum CPU | 900 MHz[^ref-5] |
-| Minimum RAM | 128 MB[^ref-5] |
-| Input | Keyboard, Mouse, Controller[^ref-5] |
-| Display Options | Widescreen, Windowed, Borderless[^ref-5] |
-| Frame Rate | 60+ FPS supported[^ref-5] |
-| Playtime | ~4 hours[^ref-8] |
+| Base Resolution | 320x200[^ref-10] |
+| Graphics Style | Pixel art[^ref-2] |
+| Minimum CPU (Windows) | 900 MHz[^ref-4] |
+| Minimum RAM (Windows) | 128 MB[^ref-4] |
+| Input | Mouse (left-click interact, right-click examine)[^ref-21] |
+| Platforms | Windows, macOS, Linux[^ref-11][^ref-19] |
+| Mac note | GOG lists the Mac build as 32-bit only, not working on macOS 10.15 and up[^ref-4] |
+| Playtime | ~3.5–4 hours[^ref-8] |
 
 ## Downloads
 
 **Purchase / Digital Stores**
 - [GOG.com](https://www.gog.com/en/game/order_of_the_thorne_the_kings_challenge)
+- [Steam](https://store.steampowered.com/app/425600/)
 - [itch.io](https://infamousquests.itch.io/oott-the-kings-challenge)
-- ~~Steam~~ – Delisted (no longer available)
 - [Phoenix Online Studios](https://store.postudios.com/products/order-of-the-thorne-the-kings-challenge)
+
+## Series Continuity
+
+The King's Challenge is the first installment of the *Order of the Thorne* anthology[^ref-14].
+
+- **Previous:** None (series debut)
+- **Next:** [[TBD - Order of the Thorne - Fortress of Fire|Order of the Thorne: Fortress of Fire]]
 
 ## See Also
 
@@ -275,23 +250,25 @@ Order of the Thorne exists within Infamous Quests' broader catalog of Sierra-ins
 
 ## References
 
-[^ref-1]: [MobyGames](https://www.mobygames.com/game/88993/order-of-the-thorne-the-kings-challenge/) – Basic game information and critic aggregate
-[^ref-2]: [GamePressure](https://www.gamepressure.com/games/order-of-the-thorne-the-kings-challenge/zd5008) – Game description and King's Quest inspiration
-[^ref-3]: [Cliqist](http://cliqist.com/2016/02/02/order-of-the-thorne-the-kings-challenge-plays-a-wonderful-melody/) – Development background and series plans
-[^ref-4]: [GOG.com](https://www.gog.com/en/game/order_of_the_thorne_the_kings_challenge) – Story premise, user reviews
-[^ref-5]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Order_of_the_Thorne:_The_King%27s_Challenge) – Technical specifications and development context
-[^ref-6]: Adventure Gamers *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Review quotes and technical details
-[^ref-7]: [MobyGames Credits](https://www.mobygames.com/game/88993/order-of-the-thorne-the-kings-challenge/credits/windows/) – Full development team credits
-[^ref-8]: [HowLongToBeat](https://howlongtobeat.com/game/34445) – Playtime statistics and user satisfaction
-[^ref-9]: [Cubed3](https://www.cubed3.com/games/reviews/pc/order-of-the-thorne-the-kings-challenge) – Critical review
-[^ref-10]: [Hardcore Gamer](https://hardcoregamer.com/reviews/review-order-of-the-thorne-the-kings-challenge/194762/) – Character motivation details
-[^ref-11]: [itch.io](https://infamousquests.itch.io/oott-the-kings-challenge) – User reviews and prize description
+[^ref-1]: [MobyGames](https://www.mobygames.com/game/88993/order-of-the-thorne-the-kings-challenge/) – Release date (January 26, 2016), developer/publisher, critic aggregate
+[^ref-2]: [GamePressure](https://www.gamepressure.com/games/order-of-the-thorne-the-kings-challenge/zd5008) – Game description, King's Quest inspiration, pixel-art style
+[^ref-3]: [Cliqist](http://cliqist.com/2016/02/02/order-of-the-thorne-the-kings-challenge-plays-a-wonderful-melody/) – Serena Nelson's review; earlier KQ3/SQ2 remakes, beta testing, Fortress of Fire
+[^ref-4]: [GOG.com](https://www.gog.com/en/game/order_of_the_thorne_the_kings_challenge) – Release date, system requirements, Mac notice, user ratings and reviews
+[^ref-5]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Order_of_the_Thorne:_The_King%27s_Challenge) – Engine (Adventure Game Studio), release dates, storefronts
+[^ref-6]: Adventure Gamers *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – Review quotes, 3.5-star score, Loom-style lute minigame, narrator
+[^ref-7]: [MobyGames Credits](https://www.mobygames.com/game/88993/order-of-the-thorne-the-kings-challenge/credits/windows/) – Full development team credits and voice cast
+[^ref-8]: [HowLongToBeat](https://howlongtobeat.com/game/34445) – Playtime statistics, user rating, official story blurb
+[^ref-9]: [Cubed3](https://www.cubed3.com/games/reviews/pc/order-of-the-thorne-the-kings-challenge) – Critical review by Athanasios Aravositas (4/10)
+[^ref-10]: [Hardcore Gamer](https://hardcoregamer.com/reviews/review-order-of-the-thorne-the-kings-challenge/194762/) – Review: premise, seven challengers, Loom comparison, 320x200, backer tributes
+[^ref-11]: [itch.io](https://infamousquests.itch.io/oott-the-kings-challenge) – Platforms, user ratings and prize description
 [^ref-12]: [itch.io Sale Page](https://itch.io/s/29971/the-order-of-the-thorne-try-it) – Story premise hint
-[^ref-13]: FreeGOGPCGames *(download link removed: the game is sold commercially)* – Game length estimate
-[^ref-14]: [Indie Retro News](https://www.indieretronews.com/2016/01/order-of-throne-kings-challenge-sierra.html) – Musical gameplay mechanics
-[^ref-15]: [Phoenix Online Studios](https://store.postudios.com/products/order-of-the-thorne-the-kings-challenge) – Lute gameplay description
-[^ref-16]: [GuiaZone](https://guiazone.blogspot.com/2016/02/order-of-thorne-kings-challenge.html) – Loom comparison
+[^ref-14]: [Indie Retro News](https://www.indieretronews.com/2016/01/order-of-throne-kings-challenge-sierra.html) – Release announcement; anthology series, lute gameplay, hand-drawn art, voiced cast
+[^ref-15]: [Phoenix Online Studios](https://store.postudios.com/products/order-of-the-thorne-the-kings-challenge) – Official description: ten-year challenge, "greatest ballad ever", lute
+[^ref-16]: [GuiaZone](https://guiazone.blogspot.com/2016/02/order-of-thorne-kings-challenge.html) – Spanish-language walkthrough; mouse controls, inventory and lute interface
 [^ref-17]: [IMDb](https://www.imdb.com/title/tt5424998/) – User ratings and voice cast
-[^ref-18]: [N4G](https://n4g.com/news/1848717/oldschool-adventure-order-of-the-thorne-the-kings-challenge-gets-release-date) – User recommendation quote
-[^ref-19]: [ModDB](https://www.moddb.com/games/the-order-of-the-thorne-the-kings-challenge) – Series information
-[^ref-20]: [Adventure Game Database](https://adventuregamedb.com/g/order_of_the_thorne_the_kings_challenge) – Easter eggs documentation
+[^ref-18]: [N4G](https://n4g.com/news/1848717/oldschool-adventure-order-of-the-thorne-the-kings-challenge-gets-release-date) – Pre-release Cliqist quote by Serena Nelson
+[^ref-19]: [ModDB](https://www.moddb.com/games/the-order-of-the-thorne-the-kings-challenge) – Platforms (Windows, Mac, Linux) and engine
+[^ref-20]: [Adventure Game Database](https://adventuregamedb.com/g/order_of_the_thorne_the_kings_challenge) – Screenshot of the tombs on the Isle of Honored
+[^ref-21]: [GamingOnLinux – Review of point-and-click adventure The King's Challenge](https://www.gamingonlinux.com/2016/01/review-of-pointandclick-adventure-the-kings-challenge-available-drm-free-and-on-steam/) – 2016 review: controls, lute minigame, settings panel, length
+[^ref-22]: [Wikipedia – Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) – Studio history, March 2015 announcement, Kickstarter success May 3, 2015 ($30,944)
+[^ref-23]: [Steam](https://store.steampowered.com/app/425600/) – Store listing (live, $9.99), release date January 26, 2016, Metacritic score
