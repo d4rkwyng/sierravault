@@ -10,24 +10,24 @@ series: Police Quest / SWAT
 engine: Custom engine with cell and portal technologies
 protagonist: LAPD SWAT Element Leader
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-14'
 composer: [Gary Spinrad]
-description: 'SWAT 3: Close Quarters Battle is a tactical squad-based first-person
-  shooter that revolutionized the Police Quest franchise by transforming the series
-  from...'
+description: 'SWAT 3: Close Quarters Battle is a 1999 tactical squad-based first-person
+  shooter that moved the Police Quest / SWAT series from adventure games and isometric
+  strategy to a first-person tactical simulation of LAPD SWAT operations.'
 tags: [1990s, police-quest-swat, shooter, sierra]
 ---
 # SWAT 3: Close Quarters Battle
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 ## Overview
 
-SWAT 3: Close Quarters Battle is a tactical squad-based first-person shooter that revolutionized the Police Quest franchise by transforming the series from adventure games and isometric strategy into a fully realized first-person tactical simulation.[^ref-1] Released in November 1999, the game places players in command of a five-man LAPD SWAT element during a fictional crisis in Los Angeles in the year 2005, where representatives from nations around the world converge to witness the signing of the United Nations Nuclear Abolishment Treaty.[^ref-2] As Lead Programmer Jim Napier explained, "Our goal was to recreate the SWAT experience. We didn't want to simply create another first-person shooter."[^ref-3]
+SWAT 3: Close Quarters Battle is a tactical squad-based first-person shooter that moved the Police Quest franchise from adventure games and isometric strategy to a first-person tactical simulation; it was the first first-person shooter in the series.[^ref-1] Released in November 1999, the game places players in command of a five-man LAPD SWAT element during a fictional crisis in Los Angeles in the year 2005, where representatives from nations around the world converge to witness the signing of the United Nations Nuclear Abolishment Treaty.[^ref-2][^ref-44] As Lead Programmer Jim Napier explained, "Our goal was to recreate the SWAT experience. We didn't want to simply create another first-person shooter."[^ref-3]
 
-The game distinguished itself from contemporaries like Rainbow Six by emphasizing police procedure over military tactics, requiring players to have "a deep and abiding reverence for human life and a firm resolve that all possible tactical alternatives be exhausted before employing deadly force."[^ref-4] GameSpot noted that "SWAT 3's most impressive feature has to be the amazing artificial intelligence employed by friend and foe alike."[^ref-5] The game proved to be a surprise commercial hit and critical success, earning an 84% aggregate score on GameRankings and spawning multiple expanded editions.[^ref-1]
+The game distinguished itself from contemporaries like Rainbow Six by emphasizing police procedure over military tactics, requiring players to have "a deep and abiding reverence for human life and a firm resolve that all possible tactical alternatives be exhausted before employing deadly force."[^ref-4] GameSpot noted that "SWAT 3's most impressive feature has to be the amazing artificial intelligence employed by friend and foe alike."[^ref-5] Eurogamer later said the game "proved to be a surprise hit",[^ref-23] it holds an 84% average on GameRankings,[^ref-22] and it was followed by several expanded editions.[^ref-1]
 
-Developed with extensive consultation from actual LAPD SWAT officers, including Ken Thatcher, a 28-year SWAT veteran who served as technical advisor, SWAT 3 brought unprecedented authenticity to the tactical shooter genre.[^ref-6] The game rewarded non-violent conflict resolution, with Thatcher noting that "This game will reward you for maybe not shooting someone where a lot of games reward you for going in and shooting people up."[^ref-6]
+Developed with extensive consultation from actual LAPD SWAT officers, including Ken Thatcher, a 28-year LAPD veteran who spent 23 of those years with SWAT and served as the game's main consultant, SWAT 3 brought unprecedented authenticity to the tactical shooter genre.[^ref-6][^ref-12] The game rewarded non-violent conflict resolution, with Thatcher noting that "This game will reward you for maybe not shooting someone where a lot of games reward you for going in and shooting people up."[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** Sierra Northwest[^ref-1]
@@ -42,11 +42,11 @@ Developed with extensive consultation from actual LAPD SWAT officers, including 
 
 ## Story Summary
 
-The narrative of SWAT 3 unfolds over seven intense days in Los Angeles during 2005, as the city hosts the signing of the United Nations Nuclear Abolishment Treaty and celebrates Global Peace Day.[^ref-10] As a member of SWAT, players face some of the most challenging operations of their career, protecting dignitaries from danger, defusing potentially deadly situations, and preserving the lives of the innocent at all costs.[^ref-9] The game's opening briefing establishes the stakes: "Officer, as a member of SWAT, the next seven days will be some of the most challenging of your career."[^ref-10]
+The narrative of SWAT 3 unfolds over seven intense days in Los Angeles during 2005, as the city hosts the signing of the United Nations Nuclear Abolishment Treaty and celebrates Global Peace Day.[^ref-10] Sierra's own description of the game lists hostage rescues, high-risk warrants, barricaded suspects and dignitary protection among the element's duties.[^ref-41] The game's opening briefing establishes the stakes: "Officer, as a member of SWAT, the next seven days will be some of the most challenging of your career."[^ref-10]
 
-Throughout the campaign's sixteen missions, players encounter a variety of fictional terrorist groups with diverse motivations.[^ref-11] These include a Kurdish splinter group, a Russian communist organization, and a paranoid American militia—all of whom threaten to disrupt the peace treaty and potentially "nuke L.A."[^ref-11] One early mission involves responding to three days of sniper fire along the Pasadena freeway that have resulted in the deaths of five motorists.[^ref-12] Another mission presents the classic scenario: "211 in progress with shots fired. Officer down. Armed suspects with hostages. Respond Code 3!"[^ref-9]
+Throughout the campaign's sixteen missions, players encounter a variety of fictional terrorist groups with diverse motivations.[^ref-11] These include a Kurdish splinter group, a Russian communist organization, and a paranoid American militia—all of whom threaten to disrupt the peace treaty and potentially "nuke L.A."[^ref-11] One early mission involves responding to three days of sniper fire along the Pasadena freeway that have resulted in the deaths of five motorists.[^ref-12] Another briefing opens: "Bank robbery in progress with an officer down."[^ref-12]
 
-The missions take players through realistic Los Angeles locations including the sewer system, Convention Center, LAX airport, Chang's Chinese Theater, Hollywood Hills, and various hotels and hospitals.[^ref-4] Each scenario presents unique tactical challenges, from dangerous arrests and hostage rescue to VIP escort and bomb tracking operations.[^ref-13] The game emphasizes that officers are police officers, not soldiers—and certainly "not the judge, jury, and executioner."[^ref-14][^ref-40]
+The missions take players through Los Angeles locations including the sewer system, the Convention Center and LAX airport;[^ref-4] the Elite Edition later added Chang's Chinese Theater, Hollywood Hills and City of Angels Hospital.[^ref-25] Each scenario presents unique tactical challenges, from dangerous arrests and hostage rescue to VIP escort and bomb tracking operations.[^ref-13] The game emphasizes that officers are police officers, not soldiers—and certainly "not the judge, jury, and executioner."[^ref-14]
 
 ## Gameplay
 
@@ -72,7 +72,7 @@ A key innovation is the randomization system—enemies and hostages are randomly
 
 Rather than traditional puzzles, SWAT 3 challenges players with tactical decision-making under pressure. Proper Close Quarters Battle (CQB) tactics must be employed to survive; "spray-firing with hostages in the map is strictly forbidden."[^ref-18] The game's mechanics emphasize "arresting" rather than killing—as one reviewer described it, "It's not a Shoot-em-up but more like an arrest-em-up."[^ref-19]
 
-Players have access to an arsenal of authentic equipment including C2 explosive charges, flashbangs, tactical grenades, and Opti-Wand mini-video cameras for peeking around corners.[^ref-9] Standard-issue weapons include the H&K MP5 submachine gun, M4A1 carbine, and Benelli 12-gauge tactical shotgun.[^ref-20] The game even features less-than-lethal M4A1 rounds for subduing suspects without killing.[^ref-21]
+Officers' equipment includes C2 breaching charges, flashbangs, CS gas and the Opti-Wand, a miniature video camera on a telescoping wand used to look around corners.[^ref-43] Standard-issue weapons include the H&K MP5 submachine gun, M4A1 carbine, and Benelli 12-gauge tactical shotgun.[^ref-20] The game even features less-than-lethal M4A1 rounds for subduing suspects without killing.[^ref-21]
 
 The ballistics system earned particular praise, with IGN declaring: "From now on, this will be the game by which all other realistic shooters are judged when it comes to ballistics."[^ref-20] Bullets penetrate surfaces realistically, and shooting accuracy is affected by movement and stance. The goal is often "to shoot the gun out of a tango's hand so that you can cuff him" rather than simply eliminating threats.[^ref-16]
 
@@ -80,48 +80,49 @@ The ballistics system earned particular praise, with IGN declaring: "From now on
 
 ### Contemporary Reviews
 
-SWAT 3 received widespread critical acclaim upon release. GameSpot awarded the game 8.3/10, praising its innovative approach: "Proving that there's room for innovation even in a crowded genre, SWAT 3: Close Quarters Battle enters the squad-level combat arena armed to the teeth with unique features and killer gameplay."[^ref-5] IGN gave the game 8.6/10, particularly lauding the realistic ballistics system.[^ref-20]
+SWAT 3 received widespread critical acclaim upon release. GameSpot awarded the game 8.3/10, praising its innovative approach: "Proving that there's room for innovation even in a crowded genre, SWAT 3: Close Quarters Battle enters the squad-level combat arena armed to the teeth with unique features and killer gameplay."[^ref-5] IGN gave the game 8.6/10, particularly lauding the realistic ballistics system.[^ref-20] In *Computer Gaming World*'s March 2000 issue, Ken Brown gave it four stars in a review titled "COPS 3.0", calling it "the most convincing first-person simulation of close-quarters battle since RAINBOW SIX: ROGUE SPEAR, and in many respects is more realistic and demanding."[^ref-8]
 
-PC Gamer UK was especially enthusiastic, awarding 91/100 and declaring the game captured "All the best ideas from other squad based games, shoehorned into a police setting, perfectly."[^ref-22] PC Zone UK gave 89/100, while Electric Playground awarded 9/10.[^ref-22] Eurogamer rated the Elite Edition 9/10, noting that "SWAT3 was a first person shooter, and proved to be a surprise hit."[^ref-23]
+PC Gamer UK was especially enthusiastic, awarding 91/100 and declaring the game captured "All the best ideas from other squad based games, shoehorned into a police setting, perfectly."[^ref-1][^ref-22] PC Zone UK gave 89/100, while Electric Playground awarded 9/10.[^ref-22] Eurogamer rated the Elite Edition 9/10, noting that "SWAT3 was a first person shooter, and proved to be a surprise hit."[^ref-23]
 
 GamePro reviewer Peter Olafson wrote: "For the most part, Sierra does it right here. SWAT 3 isn't everything it might have been, but it's much more substantial than its predecessors—and essentially right in feel."[^ref-1] CNN's D. Ian Hopper proclaimed that "SWAT 3 has succeeded in bringing the glory back to the Police Quest series," adding that "It's much more satisfying to overwhelm the suspect with tactics and watch him surrender than to just fill the room with bullets."[^ref-24]
 
-### Modern Assessment
+### Awards and Player Reviews
 
-Modern retrospectives continue to view SWAT 3 favorably. GOG user phanboy4 described it as "One of the finest tactical squad-based sims ever. Easily as good as the (real) Rainbow Six titles."[^ref-4] The game earned recognition as a runner-up for Computer Gaming World's "Action Game of the Year" and PC Gamer US's "Best Action Game."[^ref-1] GameSpy awarded the Elite Edition the 2000 Tactical Game of the Year award.[^ref-25]
+*Computer Gaming World*'s 2000 Premier Awards named S.W.A.T. 3 one of three runners-up for Action Game of the Year, alongside Quake 3: Arena and Battlezone II; the award went to Rainbow Six: Rogue Spear.[^ref-8] It was also a runner-up for PC Gamer US's "Best Action Game."[^ref-1] GameSpy gave the Elite Edition its 2000 Tactical Game of the Year award.[^ref-25]
 
-However, the game has faced criticism for AI inconsistencies. User Evil-Jim noted "Great game tarnished by shoddy AI," elaborating that "SWAT 3 is most like Ghost Recon placed indoors, that is Rainbow 6 with relaxed realism."[^ref-25] Kasey Chang called it a "Great tactical sim in desperate need of a technology update," while also praising its "minimal-violence approach" as "refreshing among all the other tactical shooters on the market."[^ref-25]
+Player reviews on store and database sites are mostly positive. GOG user phanboy4 described it as "One of the finest tactical squad-based sims ever. Easily as good as the (real) Rainbow Six titles."[^ref-4] On MobyGames, user Evil-Jim titled his review "Great game tarnished by shoddy AI," elaborating that "SWAT 3 is most like Ghost Recon placed indoors, that is Rainbow 6 with relaxed realism."[^ref-25] User Kasey Chang called it a "Great tactical sim in desperate need of a technology update," while also praising its "minimal-violence approach" as "refreshing among all the other tactical shooters on the market."[^ref-25]
 
 **Aggregate Scores:**
-- **GameRankings:** 84%[^ref-1]
+- **GameRankings:** 84%[^ref-22]
 - **Metacritic (Elite Edition):** 81[^ref-26]
-- **MobyGames:** 85% (Critics average)[^ref-25]
-- **IMDB:** 7.7/10 (145 votes)[^ref-11]
+- **MobyGames:** 81% (critics average, 34 ratings)[^ref-18]
+- **IMDB:** 7.7/10 (user rating)[^ref-11]
 - **ModDB Community:** 8.5/10[^ref-7]
 
 ## Development
 
 ### Origins
 
-Development of SWAT 3 began in May 1997, with the goal of transforming the SWAT franchise from its previous isometric strategy format into a first-person tactical simulation.[^ref-3] The project was undertaken by Sierra Northwest, a different team from those who created SWAT 2.[^ref-3] Producer Rod Fung explained the vision: "SWAT 3 is really what I would like to call a 'first-person tactical simulation.'"[^ref-27]
+Programming on SWAT 3 began in May 1997, with the goal of transforming the SWAT franchise from its previous isometric strategy format into a first-person tactical simulation.[^ref-3] The project was undertaken by Sierra Northwest, a different team from those who created SWAT 2.[^ref-3] Producer Rod Fung explained the vision: "SWAT 3 is really what I would like to call a 'first-person tactical simulation.'"[^ref-27]
 
-The development was inspired partly by real events, including footage from the notorious 1996 Hollywood bank robbery that demonstrated the need for specialized tactical police units.[^ref-3] Rather than licensing an existing engine like Quake, the team opted to build their technology from scratch, creating a custom engine using cell and portal rendering technologies.[^ref-1] This decision allowed greater control over the specific requirements of a tactical police simulation.
+Early in development, Thatcher gave the team a one-day presentation on SWAT procedures, including footage of what Napier's postmortem calls "the 1996 Hollywood bank robbery."[^ref-3] That was the North Hollywood shootout, which actually took place on February 28, 1997.[^ref-46][^ref-45] Rather than building on an existing engine like Quake, which a couple of team members had used for a prototype, the team developed its own engine.[^ref-3] Napier told Prima the engine "was basically written from scratch": the team reused the resource manager from Gabriel Knight 3, but the cells-and-portals renderer, dynamic lighting, skeletal animation and the rest were written for SWAT 3.[^ref-12]
 
 ### Production
 
-The development cycle lasted approximately 18 months, with a team of roughly 20 developers working to bring the vision to life.[^ref-1] Most code was written from scratch, including the animation system, AI framework, and graphics engine.[^ref-28] The team used Worldcraft as their level editor and employed 3D Studio Max with Character Studio for character tools.[^ref-3]
+Napier's postmortem describes the character animation system, art import tools, client/server architecture, AI and most of the graphics engine as developed "over the eighteen month development cycle," though programming had started in May 1997 against a Christmas 1999 ship date.[^ref-3] The team used Worldcraft as their level editor and employed 3D Studio Max with Character Studio for character tools.[^ref-3]
 
-To ensure authenticity, developers spent considerable time with actual LAPD SWAT officers, studying tactics and procedures.[^ref-10] Ken Thatcher, a 28-year LAPD SWAT veteran, served as technical consultant, helping to shape the game's emphasis on non-violent conflict resolution.[^ref-6] Thatcher noted that "Hollywood and TV shows portray SWAT teams as rumbling, stumbling gun nuts. In Los Angeles, we're just the opposite."[^ref-6]
+To ensure authenticity, developers spent considerable time with actual LAPD SWAT officers, studying tactics and procedures.[^ref-10] Ken Thatcher, a highly decorated officer with 28 years in the LAPD, 23 of them with SWAT, and an element leader with LAPD SWAT's Metropolitan Division, was the main consultant; he reviewed the game's dialogue, tactics and equipment with designer Tammy Dargan.[^ref-12][^ref-6] Thatcher noted that "Hollywood and TV shows portray SWAT teams as rumbling, stumbling gun nuts. In Los Angeles, we're just the opposite."[^ref-6]
 
-Motion capture technology was employed extensively, with most animations performed by an actual SWAT officer.[^ref-1] The game features more than 150 dynamic motion-captured characters and approximately 500 motion-captured animations.[^ref-2][^ref-27] Former LAPD Police Chief Daryl F. Gates, who had been involved with the Police Quest series since its inception, also contributed to the project.[^ref-2]
+Motion capture technology was employed extensively, with most of the game's roughly 500 motion-captured animations performed by an LAPD SWAT officer.[^ref-27] Thatcher himself performed more than 500 SWAT actions at House of Moves in Venice, California.[^ref-12] Sierra advertised more than 150 dynamic motion-captured characters.[^ref-2][^ref-44] Former LAPD Chief Daryl F. Gates, who joined Sierra's Police Quest series after retiring in 1992 (beginning with Police Quest: Open Season) and became lead advisor for its Police Quest and SWAT games, was also credited as an advisor on SWAT 3.[^ref-42][^ref-12][^ref-2]
 
 **Development Credits:**[^ref-1][^ref-25]
 - **Lead Designer:** [[Tammy Dargan]]
+- **Producer:** Rod Fung[^ref-3]
 - **Lead Programmer:** Jim Napier
 - **Composer:** Gary Spinrad
-- **Additional Music:** Evan Buehler
+- **Additional Music/SFX (Elite Edition):** Evan Buehler
 - **Publisher:** Sierra Studios
-- **Developer:** Sierra Northwest (originally Yosemite Entertainment)[^ref-27]
+- **Developer:** Sierra Northwest
 
 ### Technical Achievements
 
@@ -131,21 +132,23 @@ The ballistics system represented a significant technical achievement. IGN decla
 
 ### Technical Specifications
 
-**Original Release:**[^ref-14][^ref-24]
+**Original Release:**[^ref-41][^ref-8]
 - **Resolution:** 800x600 SVGA high color (16-bit)
-- **Minimum Processor:** Intel Pentium II 233 MHz
-- **Recommended Processor:** Intel Pentium II 300 MHz
+- **Minimum Processor:** Pentium 233 MHz
+- **Recommended Processor:** Pentium 266 MHz or better
 - **Minimum RAM:** 32 MB
 - **Recommended RAM:** 64 MB
-- **Video Card:** 8 MB VRAM, DirectX 6.1 compatible
-- **Hard Drive:** 400-600 MB
-- **Operating Systems:** Windows 95, 98, 2000, ME
-- **DirectX:** Version 6.1 (8.0a for later editions)
+- **Video Card:** 4 MB video card minimum; Direct3D-compatible 3D accelerator recommended
+- **Hard Drive:** 400 MB
+- **CD-ROM:** 4X or better
+- **Operating Systems:** Windows 95, 98, 2000
+- **DirectX:** Version 6.1 (included on CD); 8.0a for later editions[^ref-14]
 - **API:** Direct3D 6[^ref-29]
 
-**Tactical Game of the Year Edition:**[^ref-29]
+**Later Editions (Elite / Tactical Game of the Year):**[^ref-14]
 - **Minimum Processor:** Intel Pentium II 266 MHz
 - **Minimum RAM:** 64 MB
+- **Operating Systems:** Windows 95, 98, 2000, ME
 - **Swap File:** 50 MB
 
 **Soundtrack Specifications:**[^ref-30]
@@ -155,23 +158,23 @@ The ballistics system represented a significant technical achievement. IGN decla
 
 ### Cut Content
 
-The most significant cut feature was multiplayer support, which was originally planned but postponed to focus on delivering a polished single-player experience for the Christmas 1999 release window.[^ref-28] As IGN reported, the game "was welcomed with plenty of praise from the press with one minor exception—no multiplayer capability."[^ref-31] Many optional features were also cut due to time constraints.[^ref-3]
+The most significant cut feature was multiplayer support, which was originally planned but postponed to focus on delivering a polished single-player experience for the Christmas 1999 release window.[^ref-3] As IGN reported, the game "was welcomed with plenty of praise from the press with one minor exception—no multiplayer capability."[^ref-31] When the schedule proved too ambitious, the team sorted features into required, optional and later-version categories, but Napier writes that "in the end we implemented most of the optional ones."[^ref-3]
 
-A Dreamcast version was planned but ultimately cancelled.[^ref-1] A Macintosh version was also announced during development but never materialized.[^ref-27]
+A Dreamcast version was planned but never released; *Electronic Gaming Monthly*'s December 2000 release schedule still listed a Sierra Dreamcast title as "SWAT 3D".[^ref-49][^ref-1]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | November 23, 1999 | Windows | Initial US release[^ref-1] |
-| 1.1 | 1999 | Windows | First patch[^ref-32] |
-| 1.2 | 1999 | Windows | Bug fixes[^ref-32] |
-| 1.4 | 2000 | Windows | Pre-Elite Edition[^ref-32] |
-| 1.6 | October 13, 2000 | Windows | Elite Edition multiplayer update[^ref-31] |
-| 1.6.6.0 | 2000 | Windows | Elite Edition final[^ref-32] |
-| 1.7 | 2000 | Windows | International network play support[^ref-33] |
+| 1.1 | Undated | Windows | Close Quarters Battle release eligible for the 1.6 multiplayer upgrade[^ref-32] |
+| 1.2 | Undated | Windows | Close Quarters Battle release eligible for the 1.6 multiplayer upgrade[^ref-32] |
+| 1.4 | Undated | Windows | Minimum version for the 2.0 update[^ref-32] |
+| 1.6 | October 13, 2000 | Windows | Elite Edition multiplayer update[^ref-31][^ref-34] |
+| 1.6.6.0 | Undated | Windows | Elite Edition online update[^ref-32] |
+| 1.7 | Undated | Windows | International network play support[^ref-33] |
 | 2.0 | October 10, 2001 | Windows | TGOTY Edition base[^ref-34] |
-| 2.0.1.0 | 2001 | Windows | Beta update[^ref-32] |
+| 2.0.1.0 | Undated | Windows | TGOTY beta update[^ref-32] |
 | 2.1 | November 14, 2001 | Windows | Final US patch with online fixes[^ref-34] |
 | 2.1 | November 20, 2001 | Windows | International versions[^ref-34] |
 
@@ -208,9 +211,8 @@ Community-developed fixes like "Last Resort" help resolve crashes, visual glitch
 The game contains several hidden secrets and references:[^ref-17][^ref-37]
 
 - **Matrix Reference:** In the 12th and Fig mission, after a plane drops bombs in the subway, players can discover an area with green Matrix-style letters and agents shooting at them: "Walk in, and you will see the green letters (like in the matrix) and 3 agents are shooting at you."[^ref-17]
-- **Hidden Hotel Room:** In the Ventura Hotel mission, there's a hidden door under the stairwell accessible with the F7 key.[^ref-17]
+- **Hidden Hotel Room and Spider:** In the Ventura Hotel mission, a hidden door under the stairwell, opened with the F7 key, leads to a pit where a giant, invincible spider appears and kills the player.[^ref-17][^ref-37]
 - **Lion Cat:** A black cat on a fire escape ledge makes a lion roar sound when shot.[^ref-17]
-- **Hidden Spider Area:** The hotel level contains a hidden spider area that kills the player.[^ref-37]
 - **Police Quest Reference:** A mission includes a reference to Marie Bonds, a character from the Police Quest series.[^ref-18]
 - **First-Person Gun View:** Hidden first-person gun view can be accessed by pressing Shift + ~ and typing "-handsup"[^ref-7]
 - **Grenada Anachronism:** An officer's biography claims he joined the Marines in 1985 and served in Grenada, which would be impossible since the Grenada operation occurred in 1983.[^ref-11]
@@ -223,7 +225,7 @@ The game contains several hidden secrets and references:[^ref-17][^ref-37]
 
 ### Sales and Commercial Impact
 
-SWAT 3 became the biggest-selling title in the SWAT series, with the original SWAT franchise having sold over one million units by the time of SWAT 3's development.[^ref-3] Initial US sales reached 40,095 units by April 2000.[^ref-1] The Elite Edition sold over 100,000 copies in the UK alone.[^ref-1] The game's success proved that there was a substantial market for tactical shooters emphasizing police procedure over military combat.
+The SWAT name already carried weight at retail: Napier's March 2000 postmortem notes that the original SWAT alone had sold over a million units.[^ref-3] SWAT 3's own sales reached 40,095 units by April 2000, according to a *PC Gamer* figure cited by Wikipedia.[^ref-1] The Elite Edition later received a Silver sales award from the UK's ELSPA,[^ref-47] an award level marking sales of about 100,000 units in the UK.[^ref-48]
 
 ### Editions and Expansions
 
@@ -237,9 +239,9 @@ The game spawned multiple enhanced editions:[^ref-1]
 - Mission editor and Software Development Kit
 - Free upgrade available for original SWAT 3 owners
 
-**SWAT 3: Tactical Game of the Year Edition (October 2001):**[^ref-13]
+**SWAT 3: Tactical Game of the Year Edition (October 2001):**[^ref-13][^ref-19]
 - All Elite Edition content
-- Additional missions (27 total across all content)
+- Additional missions (27 total across all content)[^ref-4]
 - Advanced Tactics CD featuring training videos shot at Blackwater Training Center
 - Commentary by actual SWAT officers
 - Free upgrade to v2.1 available for all retail version owners
@@ -254,14 +256,14 @@ The game has maintained an active modding community, with Sierra providing devel
 
 ### Related Publications
 
-- **SWAT 3: Close Quarters Battle – Prima's Official Strategy Guide:** Written by Eric Lionel Pratte, published December 8, 1999 by Prima Games, 224 pages. Includes combat tactics, mission walkthroughs, SWAT series history, and developer interviews.[^ref-38]
-- **Advanced Tactics CD:** Included with Tactical Game of the Year Edition, featuring educational videos shot at Blackwater Training Center with commentary by actual SWAT officers.[^ref-9][^ref-13]
+- **SWAT 3: Close Quarters Battle – Prima's Official Strategy Guide:** Written by Eric Lionel Pratte, published December 8, 1999 by Prima Games, 224 pages. Includes combat tactics, mission walkthroughs, SWAT series history, and developer interviews.[^ref-38][^ref-12]
+- **Advanced Tactics CD:** Included with Tactical Game of the Year Edition, featuring educational videos shot at Blackwater Training Center with commentary by actual SWAT officers.[^ref-19]
 
 ### Critical Perspective
 
-SWAT 3: Close Quarters Battle represents a pivotal moment in both the Police Quest franchise and the tactical shooter genre. By shifting focus from military special operations to police procedure, the game carved out a unique niche that distinguished it from contemporaries like Rainbow Six and Ghost Recon. The emphasis on non-lethal resolution and procedural correctness anticipated later tactical games like SWAT 4 and influenced how developers approached the representation of law enforcement in games.
+SWAT 3: Close Quarters Battle marked a turning point for the Police Quest franchise, its first move into first-person play.[^ref-1] By shifting focus from military special operations to police procedure, the game carved out a niche that distinguished it from contemporaries like Rainbow Six, a comparison Napier himself regretted because "at the core they're very different games."[^ref-3] Its sequel, SWAT 4, followed in 2005.[^ref-1]
 
-The game's insistence that players be "cops, not soldiers" challenged the prevailing "shoot everything" mentality of late 1990s shooters. As one reviewer noted, "It's much more satisfying to overwhelm the suspect with tactics and watch him surrender than to just fill the room with bullets."[^ref-24] This philosophy, combined with technically impressive AI and ballistics, established SWAT 3 as a benchmark for realistic tactical simulations. Though dated by modern standards and plagued by compatibility issues on contemporary systems, the game remains fondly remembered by fans of the genre as one of the finest tactical squad-based experiences of its era.
+The game's insistence that players be "cops, not soldiers" set it apart from the run-and-gun shooters of the late 1990s.[^ref-16][^ref-8] As CNN's D. Ian Hopper put it, "It's much more satisfying to overwhelm the suspect with tactics and watch him surrender than to just fill the room with bullets."[^ref-24] Reviewers singled out its AI and ballistics for particular praise.[^ref-5][^ref-20] Though dated by modern standards and affected by compatibility issues on contemporary systems,[^ref-29] the game remains available today through GOG.[^ref-4]
 
 ## Downloads
 
@@ -291,34 +293,33 @@ The game's insistence that players be "cops, not soldiers" challenged the prevai
 
 ## References
 
-[^ref-1]: [Wikipedia – SWAT 3: Close Quarters Battle](https://en.wikipedia.org/wiki/SWAT_3:_Close_Quarters_Battle) – release dates, developer, designer, composer, engine, sales data, awards, development timeline, motion capture, aggregate scores
-[^ref-2]: [Internet Archive – SWAT 3: Close Quarters Battle Demo](https://archive.org/details/Swat3CloseQuartersBattleDemo) – game description, mission count, game modes, character count, LAPD consultation, Daryl F. Gates involvement
-[^ref-3]: [Game Developer – Postmortem: Sierra's SWAT3 Close Quarters Battle](https://www.gamedeveloper.com/design/postmortem-sierra-s-i-swat3-close-quarters-battle-i-) – development timeline, engine details, technical specifications, cut content, Jim Napier quotes
-[^ref-4]: [GOG – SWAT 3: Tactical Game of the Year Edition](https://www.gog.com/en/game/swat_3_tactical_game_of_the_year_edition) – system requirements, user reviews, compatibility issues, locations
+[^ref-1]: [Wikipedia – SWAT 3: Close Quarters Battle](https://en.wikipedia.org/wiki/SWAT_3:_Close_Quarters_Battle) – release dates, developer, designer, composer, engine, first FPS in the series, PC Gamer UK quote, GamePro quote, PC Gamer US runner-up, 40,095 sales figure (citing PC Gamer, April 2000), Dreamcast port, SWAT 4 sequel
+[^ref-2]: [Internet Archive – SWAT 3: Close Quarters Battle Demo](https://archive.org/details/Swat3CloseQuartersBattleDemo) – game description, mission count, game modes, 150+ motion-captured characters, LAPD consultation, Daryl F. Gates involvement
+[^ref-3]: [Game Developer – Postmortem: Sierra's SWAT3 Close Quarters Battle](https://www.gamedeveloper.com/design/postmortem-sierra-s-i-swat3-close-quarters-battle-i-) – Jim Napier, March 2000: May 1997 start, "eighteen month development cycle", Quake prototype, Worldcraft, skeletal animation, feature triage, multiplayer postponed, Thatcher's presentation, SWAT sales, Jim Napier quotes
+[^ref-4]: [GOG – SWAT 3: Tactical Game of the Year Edition](https://www.gog.com/en/game/swat_3_tactical_game_of_the_year_edition) – system requirements, user reviews, compatibility issues, sewer/Convention Center/LAX locations, 27 missions
 [^ref-5]: [GameSpot – SWAT 3: Close Quarters Battle Review](https://www.gamespot.com/reviews/swat-3-close-quarters-battle-review/1900-2533326/) – review score, AI praise, gameplay mechanics
-[^ref-6]: [CNN – SWAT 3 Preview (Archived)](https://web.archive.org/web/20000116090643/http://www.cnn.com/TECH/computing/9909/07/swat3/index.html) – Ken Thatcher quotes, LAPD consultation, non-violent emphasis
+[^ref-6]: [CNN – SWAT 3 Preview (Archived)](https://web.archive.org/web/20000116090643/http://www.cnn.com/TECH/computing/9909/07/swat3/index.html) – September 1999: Thatcher "a 28-year veteran of the Los Angeles Police Department and an element leader for its SWAT unit", main consultant, quotes
 [^ref-7]: [ModDB – SWAT 3](https://www.moddb.com/games/swat-3) – series installment number, community rating, easter eggs, patch information
-[^ref-9]: [Felicitrio Product Page](https://felicitrio.com/oscom2/product_info.php?products_id=21) – equipment list, game setting, mission description
+[^ref-8]: [Computer Gaming World #188 (March 2000), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_188) – Premier Awards, Action Game of the Year runners-up (p.72); Ken Brown's "COPS 3.0" review, 4 stars, with system requirements (p.118)
 [^ref-10]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/SWAT_3:_Close_Quarters_Battle) – game opening text, setting, development notes
 [^ref-11]: [IMDB – SWAT 3](https://www.imdb.com/title/tt0487963/) – user rating, terrorist groups, trivia about anachronism
-[^ref-12]: [Prima Games Strategy Guide (Internet Archive)](https://archive.org/stream/SWAT_3_Close_Quarter_Battle_Prima_Official_eGuide/SWAT_3_Close_Quarter_Battle_Prima_Official_eGuide_djvu.txt) – mission briefings, objectives
+[^ref-12]: [Prima's Official Strategy Guide (Internet Archive)](https://archive.org/stream/SWAT_3_Close_Quarter_Battle_Prima_Official_eGuide/SWAT_3_Close_Quarter_Battle_Prima_Official_eGuide_djvu.txt) – mission briefings; ch.19 advisors (Thatcher: 28 years LAPD, 23 with SWAT; 500+ motion-capture actions at House of Moves; Gates as lead advisor); ch.20 interviews (Napier on the engine and the Gabriel Knight 3 resource manager)
 [^ref-13]: Internet Archive – Tactical Game of the Year Edition *(download link removed: the game is sold commercially)* – mission types, version details, Advanced Tactics CD
-[^ref-14]: [GameFAQs Guide by kschang77](https://gamefaqs.gamespot.com/pc/198868-swat-3-close-quarters-battle/faqs/34285) – gameplay philosophy, system requirements, in-game briefing text
+[^ref-14]: [GameFAQs Guide by kschang77](https://gamefaqs.gamespot.com/pc/198868-swat-3-close-quarters-battle/faqs/34285) – gameplay philosophy, later-edition system requirements, in-game briefing text ("not the judge, jury, and executioner")
 [^ref-15]: [IGN – Holiday Buying Guide 1999](https://www.ign.com/articles/1999/11/15/ignpcs-1999-holiday-buying-guide-action-games) – game description, genre shift from previous titles
 [^ref-16]: [GameRevolution Review](https://www.gamerevolution.com/review/32839-swat-3-close-quarters-battle-review) – review score, gameplay mechanics, randomization system
-[^ref-17]: [CheatCodes.com](https://web.archive.org/web/20221205185558/http://www.cheatcodes.com/swat-3-close-quarters-battle-pc/) – easter eggs, Matrix reference, hidden content
-[^ref-18]: [MobyGames – SWAT 3: Close Quarters Battle](https://www.mobygames.com/game/845/swat-3-close-quarters-battle/) – German version changes, Police Quest reference, multiplayer specs
-[^ref-19]: [MobyGames – Tactical GOTY Edition](https://www.mobygames.com/game/8998/swat-3-tactical-game-of-the-year-edition/) – user reviews, Knight Rider quotes
+[^ref-17]: [CheatCodes.com](https://web.archive.org/web/20221205185558/http://www.cheatcodes.com/swat-3-close-quarters-battle-pc/) – easter eggs, Matrix reference, hidden hotel door, hidden content
+[^ref-18]: [MobyGames – SWAT 3: Close Quarters Battle](https://www.mobygames.com/game/845/swat-3-close-quarters-battle/) – critics average 81% (34 ratings), German version changes, Police Quest reference, SWAT 4 pre-sell CD
+[^ref-19]: [MobyGames – Tactical GOTY Edition](https://www.mobygames.com/game/8998/swat-3-tactical-game-of-the-year-edition/) – user reviews, Advanced Tactics CD shot at Blackwater Training Center
 [^ref-20]: [IGN Review (Archived)](https://web.archive.org/web/20230405102917/https://www.ign.com/articles/1999/12/01/swat-3-close-quarters-battle) – review score, ballistics praise, weapons list
 [^ref-21]: [IMFDB – SWAT 3](https://www.imfdb.org/wiki/SWAT_3:_Close_Quarters_Battle) – weapons details, less-than-lethal rounds
-[^ref-22]: [GameRankings (Archived)](https://web.archive.org/web/20190529190417/https://www.gamerankings.com/pc/198868-swat-3-close-quarters-battle/index.html) – PC Gamer UK, PC Zone UK, Electric Playground scores
-[^ref-23]: [Eurogamer Review](https://www.eurogamer.net/r-swat3ee) – Elite Edition review score, SDK mention, multiplayer modes
-[^ref-24]: [CNN Review (Archived)](https://web.archive.org/web/20020602122359/http://www.cnn.com/TECH/computing/9911/22/swat3/) – D. Ian Hopper review, system requirements
+[^ref-22]: [GameRankings (Archived)](https://web.archive.org/web/20190529190417/https://www.gamerankings.com/pc/198868-swat-3-close-quarters-battle/index.html) – 83.76% average; PC Gamer UK 91, PC Zone UK 89, Electric Playground 9/10
+[^ref-23]: [Eurogamer Review](https://www.eurogamer.net/r-swat3ee) – Elite Edition review score, "surprise hit", SDK mention, multiplayer modes
+[^ref-24]: [CNN Review (Archived)](https://web.archive.org/web/20020602122359/http://www.cnn.com/TECH/computing/9911/22/swat3/) – D. Ian Hopper review
 [^ref-25]: [MobyGames – Elite Edition](https://www.mobygames.com/game/2651/swat-3-close-quarters-battle-elite-edition/) – composer credits, GameSpy award, user reviews, server shutdown, Elite Edition scenarios
 [^ref-26]: [Metacritic – SWAT 3: Elite Edition](https://www.metacritic.com/game/swat-3-elite-edition/) – aggregate score, multiplayer addition
-[^ref-27]: [IGN Interview (Archived)](https://web.archive.org/web/20230405054837/https://www.ign.com/articles/1999/06/16/swat-3-close-quarters-battle-interview) – Rod Fung quote, Yosemite Entertainment, motion capture count, Macintosh version
-[^ref-28]: [Gamasutra Postmortem (Archived)](https://web.archive.org/web/20190526053934/https://www.gamasutra.com/view/feature/131843/postmortem_sierras_swat3_close_.php) – multiplayer cut, code development, LAPD consultation
-[^ref-29]: [PCGamingWiki – SWAT 3](https://www.pcgamingwiki.com/wiki/SWAT_3:_Close_Quarters_Battle) – technical specifications, compatibility issues, API details
+[^ref-27]: [IGN Interview (Archived)](https://web.archive.org/web/20230405054837/https://www.ign.com/articles/1999/06/16/swat-3-close-quarters-battle-interview) – Rod Fung quote, about 500 motion-captured animations mostly performed by an LAPD SWAT officer
+[^ref-29]: [PCGamingWiki – SWAT 3](https://www.pcgamingwiki.com/wiki/SWAT_3:_Close_Quarters_Battle) – compatibility issues, API details
 [^ref-30]: [KHInsider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/swat-3-close-quarters-battle-windows-gamerip-1999) – soundtrack specifications
 [^ref-31]: [IGN – Elite Edition Upgrade](https://www.ign.com/articles/2000/10/13/swat-3-elite-edition-upgrade) – multiplayer addition, development tools, patch sizes
 [^ref-32]: [Sierra Help – SWAT Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/SWATUpdates.html) – version history, bugs, patch notes
@@ -329,4 +330,12 @@ The game's insistence that players be "cops, not soldiers" challenged the prevai
 [^ref-37]: [TV Tropes – SWAT 3](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SWAT3) – hidden spider area, last Sierra-developed SWAT
 [^ref-38]: [Amazon – Prima Strategy Guide](https://www.amazon.com/SWAT-Quarters-Battle-Official-Strategy/dp/076152147X) – guide details, author, page count
 [^ref-39]: [Wikidata – SWAT 3](https://www.wikidata.org/wiki/Q2010540) – Steam ID, distribution platforms
-[^ref-40]: [NeverDieMedia Product Page](https://www.neverdiemedia.com/products/swat-3-w-manual) – Police Quest lineage, title change
+[^ref-41]: [Sierra Studios – SWAT 3 Overview (Archived June 2000)](https://web.archive.org/web/20000619212348/http://www.sierrastudios.com:80/games/swat3/gameplay-overview.html) – official game description (hostage rescues, high-risk warrants, dignitary protection) and minimum/recommended system requirements
+[^ref-42]: [Sierra Studios – SWAT 3 Game History (Archived July 2000)](https://web.archive.org/web/20000709020925/http://sierrastudios.com:80/games/swat3/catalog-intro.html) – Jim Walls designed Police Quest 1–3; Gates joined after his 1992 retirement, beginning with Police Quest: Open Season
+[^ref-43]: [Sierra Studios – SWAT 3 Equipment (Archived November 1999)](https://web.archive.org/web/19991127165709/http://www.sierrastudios.com:80/games/swat3/gameplay-equipment.html) – official equipment list: flashbangs, CS gas, C2, Opti-Wand
+[^ref-44]: [PC Accelerator #14 (October 1999), Internet Archive](https://archive.org/details/PCXL14Oct1999) – Sierra SWAT 3 advertisement: five-man team, 16 missions, more than 150 motion-captured characters
+[^ref-45]: [The Pulitzer Prizes – 1998 Breaking News Reporting: Los Angeles Times Staff](https://www.pulitzer.org/winners/staff-40) – prize-winning coverage dated March 1, 1997 of the North Hollywood bank robbery shoot-out
+[^ref-46]: [NBC Los Angeles – From the Archives: The 1997 North Hollywood Shootout](https://www.nbclosangeles.com/news/local/archives-1997-north-hollywood-bank-robbery-shootout-lapd/2537757) – Jonathan Lloyd, 2021: shootout on Feb. 28, 1997
+[^ref-47]: [ELSPA Sales Awards: Silver (Archived)](https://web.archive.org/web/20090221154943/http://www.elspa.com/?i=3942) – lists SWAT 3: Elite Edition (PC, Vivendi) among Silver award titles
+[^ref-48]: [Gamasutra – ELSPA: Wii Fit, Mario Kart Reach Diamond Status In UK (Archived)](https://web.archive.org/web/20170918063107/https://www.gamasutra.com/view/news/112220/ELSPA_Wii_Fit_Mario_Kart_Reach_Diamond_Status_In_UK.php) – "Silver Status (100,000 sold)"
+[^ref-49]: [Electronic Gaming Monthly #137 (December 2000), Internet Archive](https://archive.org/details/electronic-gaming-monthly-issue-137-december-2000) – "Coming Soon – December 2000" (p.68), Dreamcast list: "SWAT 3D – Sierra"
