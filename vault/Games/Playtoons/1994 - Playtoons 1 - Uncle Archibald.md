@@ -133,8 +133,8 @@ A key technical achievement was the interoperability system that allowed assets 
 | 1.0 | 1996 | Windows 3.x | United States | US release[^ref-6] |
 
 The game was released under different titles for localized markets:
-- **French:** Playtoons № 1: Oncle Archibald[^ref-13]
-- **German:** Playtoons Nr. 1: Onkel Archibald[^ref-13]
+- **French:** Playtoons № 1: Oncle Archibald[^ref-1]
+- **German:** Playtoons Nr. 1: Onkel Archibald[^ref-1]
 
 ### Easter Eggs and Trivia
 
@@ -215,7 +215,6 @@ The series continued with at least four additional installments: Playtoons 2: Th
 [^ref-10]: [Metacritic – Playtoons 1](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/) – platform, developer/publisher, no score available
 [^ref-11]: [Metacritic – User Reviews](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/user-reviews/) – no user reviews available
 [^ref-12]: [MobyGames – Credits](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/credits/win3x/) – full development credits, voice cast, alternate titles
-[^ref-13]: [MobyGames – Search Results](https://www.mobygames.com/search/?q=Playtoons+1%3A+Featuring+Uncle+Archibald) – alternate titles for German and French versions
 [^ref-15]: [MobyGames – Playtoons 2](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/) – series continuation, Spirou characters
 [^ref-16]: [MobyGames – Playtoons 3](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/) – series information, shared construction tools
 [^ref-17]: [MobyGames – Playtoons 4](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/) – series continuation, shared features
