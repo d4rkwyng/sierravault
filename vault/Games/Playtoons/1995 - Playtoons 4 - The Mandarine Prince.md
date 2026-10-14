@@ -2,7 +2,7 @@
 title: 'Playtoons 4: The Mandarine Prince'
 release_year: 1995
 developer: Coktel Vision
-designer: [Coktel (based on Spirou comic strip)]
+designer: [Coktel]
 publisher: Sierra On-Line
 genre: Adventure
 platforms: [Windows 3.x, Mac]
@@ -10,174 +10,117 @@ series: Playtoons
 engine: Gob
 protagonist: Spirou and Fantasio
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-09'
+last_updated: '2026-10-13'
 composer: [Emmanuel Chagnas]
-description: 'Playtoons 4: The Mandarine Prince is an interactive adventure game released
-  in 1995 by Coktel Vision and published by Sierra On-Line. As the fourth...'
+description: 'Playtoons 4: The Mandarine Prince is a 1995 interactive comic book and
+  animation kit by Coktel Vision, published by Sierra On-Line, in which Spirou and
+  Fantasio face crime boss Don Vito Cortizone in the country of Mandarine.'
 tags: [1990s, adventure, coktel, playtoons, sierra]
 ---
 # Playtoons 4: The Mandarine Prince
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 13, 2026</small>
 
 ## Overview
 
-Playtoons 4: The Mandarine Prince is an interactive adventure game released in 1995 by [[Coktel Vision]] and published by [[Sierra On-Line]].[^ref-1][^ref-2] As the fourth installment in the Playtoons series, the game continues the franchise's unique blend of interactive comic book storytelling and creative animation tools that allow players to craft their own animated stories.[^ref-3] The game was released for Windows 3.x and Macintosh platforms, with the Windows version appearing in 1995 in France and Germany, followed by a United States release in 1996.[^ref-4]
+Playtoons 4: The Mandarine Prince is an interactive comic book and animation kit developed by [[Coktel Vision]] and published by [[Sierra On-Line]].[^ref-2][^ref-3][^ref-7] Like the rest of the series, it lets players read through an interactive comic book and also build their own animated stories with an integrated editor.[^ref-3] It was released for Windows 3.x and Macintosh: Coktel published it in France in 1995, Sierra published it in Germany in 1995 (distributed by Sierra Coktel Deutschland), and Sierra released it in the United States in 1996.[^ref-18]
 
-The game features the beloved French comic book heroes Spirou and Fantasio in an adventure against the crime boss Don Vito Cortizone in the country of Mandarine.[^ref-3] Like other entries in the Playtoons series, the game was designed to teach children school topics in a digital format meant to be more enthralling for young audiences.[^ref-1] The series was notable for its innovative approach to edutainment, combining reading comprehension with creative expression through its integrated animation editor.
-
-Playtoons 4: The Mandarine Prince represents an important entry in Coktel Vision's catalog of children's educational entertainment, building upon the successful formula established by the earlier Playtoons titles while introducing new characters and storylines based on the popular Spirou comic strip.[^ref-3][^ref-4][^ref-11][^ref-14]
+The fourth game again features the Franco-Belgian comic heroes Spirou and Fantasio, who had already starred in the second Playtoons game. This time they are up against crime boss Don Vito Cortizone in the country of Mandarine.[^ref-3] Like the other entries in the series, the game was aimed at children and focused on teaching school topics in a digital format.[^ref-1]
 
 > [!info]- Game Info
-> **Developer:** [[Coktel Vision]][^ref-1][^ref-10]
-> **Designer:** Coktel (based on Spirou comic strip)[^ref-3]
-> **Publisher:** [[Sierra On-Line]][^ref-2]
-> **Engine:** Gob engine[^ref-5]
-> **Platforms:** Windows 3.x, Macintosh[^ref-3][^ref-4]
-> **Release Year:** 1995[^ref-7][^ref-8][^ref-9]
+> **Developer:** [[Coktel Vision]][^ref-3][^ref-10]
+> **Designer:** Coktel (credited as studio; based on the Spirou comic)[^ref-16]
+> **Publisher:** [[Sierra On-Line]] (Coktel Vision in France)[^ref-18]
+> **Engine:** Gob engine[^ref-2][^ref-5]
+> **Platforms:** Windows 3.x, Macintosh[^ref-3][^ref-7]
+> **Release Year:** 1995[^ref-3][^ref-7]
 > **Series:** Playtoons
 > **Protagonist:** Spirou and Fantasio
-> **Sierra Lineage:** Coktel Vision
+> **Sierra Lineage:** Sierra Label (Coktel)
 
 ## Story Summary
 
-The Mandarine Prince takes players on an adventure featuring the iconic French comic book characters Spirou and Fantasio, heroes created for the Belgian magazine of the same name.[^ref-3] The story transports players to the exotic country of Mandarine, where they must contend with the machinations of the crime boss Don Vito Cortizone.[^ref-3]
+Spirou and Fantasio come from the comic strip that Rob-Vel created for the launch of *Le Journal de Spirou* on April 21, 1938.[^ref-19] In this adventure, their nemesis Don Vito Cortizone has just been made head of security for the country of Mandarine.[^ref-5] Cortizone, a Mafia boss modeled on Vito Corleone from *The Godfather*, first appeared in the comic album *Spirou à New York* (1987).[^ref-19]
 
-The narrative unfolds through an interactive comic book format, allowing players to experience the story page by page while maintaining the ability to jump to any page in the story at their leisure.[^ref-1] This non-linear approach to storytelling was characteristic of the Playtoons series, giving younger players the freedom to explore the narrative at their own pace.
-
-The game includes a cartoon sequence that introduces the characters and situations players will encounter throughout the adventure.[^ref-1] As with other Playtoons titles, the story serves both as entertainment and as an educational vehicle, designed to engage children with school topics through the adventures of familiar comic book heroes.[^ref-1]
+Each Playtoons game includes a cartoon that introduces the characters and situations. Players can read the story straight through or jump to any page in it.[^ref-1]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Playtoons 4: The Mandarine Prince utilizes a fixed/flip-screen perspective common to interactive storybook games of the era.[^ref-4] The game presents players with interactive comic book pages that they can navigate through, with clickable elements that trigger animations and story progression.[^ref-3]
-
-The interface is designed to be accessible to young children, allowing them to read through the interactive comic book at their own pace.[^ref-3] Players can jump to any page in the story, providing flexibility in how they experience the narrative.[^ref-1]
+The game uses a fixed, flip-screen view with a point-and-select interface.[^ref-3] Each panel starts with narrated text. When the cursor changes, the player can click an item or person, which starts either an animation or a video sequence.[^ref-3]
 
 ### Structure and Progression
 
-The game follows the standard Playtoons format, presenting an interactive storybook experience that players can read through while also providing tools to create their own animated stories.[^ref-3] The adventure mode takes players through the story of Spirou and Fantasio's conflict with Don Vito Cortizone in Mandarine.[^ref-3]
+The game has two parts: an interactive comic book to read through, and an editor for making animated stories.[^ref-3] Players can follow the story page by page or jump to any page.[^ref-1]
 
 ### Puzzles and Mechanics
 
-The primary gameplay mechanic revolves around the dual nature of the Playtoons experience: players can engage with the pre-made story while also having access to an integrated editor tool for creating original animated content.[^ref-3]
-
-A unique feature of the Playtoons series is the ability to combine assets from multiple installed games.[^ref-3] If multiple Playtoons games are installed on the same system, the assets from all those games become available in the editor, essentially combining the games into one comprehensive creative suite.[^ref-3] This allowed players who owned multiple Playtoons titles to access an expanded library of characters, backgrounds, scenery, and props for their own animations.[^ref-1]
+In the editor, players add background scenery, props and characters to a scene and interact with them.[^ref-3] If more than one Playtoons game is installed, the editor can use the assets from all of them, which effectively merges the games into one.[^ref-3]
 
 ## Reception
 
 ### Contemporary Reviews
 
-No specific contemporary review scores were found in the available research data for Playtoons 4: The Mandarine Prince.[^ref-1] The game appears to have had limited coverage in mainstream gaming publications at the time of its release, consistent with its niche market as an educational title for children.[^ref-7]
+MobyGames records no critic score for the game ("Moby Score n/a").[^ref-3] No contemporary magazine reviews were found while researching this page.
 
 ### Modern Assessment
 
-The game currently has no user ratings recorded on MyAbandonware, showing 0/5 with 0 votes.[^ref-4] This suggests the title remains relatively obscure in modern gaming communities, though it has been preserved through abandonware archives for historical purposes.[^ref-12][^ref-15]
-
-**Aggregate Scores:**
-- **MyAbandonware:** 0/5 (0 votes)[^ref-4]
+On the French site SensCritique, the game has an average rating of 6.5/10 from 10 user ratings.[^ref-12] On MyAbandonware it has no user votes and no comments.[^ref-4]
 
 ## Development
 
-### Origins
-
-Playtoons 4: The Mandarine Prince was developed by Coktel Vision as part of their ongoing Playtoons series of interactive children's entertainment.[^ref-2][^ref-3] The game drew upon the popular French comic book series Spirou, adapting these beloved characters for the interactive format that defined the Playtoons franchise.[^ref-3]
-
-The Playtoons series was conceived as a collection of linked games that would allow players to make their own animations using a variety of characters, backgrounds, scenery, and props.[^ref-1] This educational focus was intended to teach children school topics in a digital format designed to be more engaging than traditional learning materials.[^ref-1]
-
 ### Production
 
-The game was produced by Coktel Vision, a French developer known for their educational and adventure games.[^ref-2] The development utilized the Gob engine, Coktel's proprietary game engine that powered many of their titles during this era.[^ref-5]
+Coktel Vision made the game under licence. The credits read "© Dupuis - TF1 - Ciné groupe 1995."[^ref-16] The credits also list two people from Dupuis: Léon Perahia (Audiovisual and Development Director) and Patrick Pinchart (in charge of Multimedia Development).[^ref-16] Design is credited to Coktel, "based on an original comic strip by Spirou."[^ref-16] The game runs on Coktel's Gob engine.[^ref-2][^ref-5]
 
-**Development Credits:**[^ref-3]
-- **Original Comic Strip:** Spirou (source material)
-- **Composer:** Emmanuel Chagnas
-- **Music Production:** Studio Big Wheels
-- **Voice Cast:** Karen Strassman
+**Development Credits:**[^ref-16]
+- **Graphics:** Jean-Christophe Charter, Jacques Dimier, Patrick Dumas, Pierre Gilhodes, Pascal Pautrot
+- **Sound Track:** Studio Big Wheels, Emmanuel Chagnas
+- **Voices:** Studio Big Wheels, Karen Strassman
+- **Editing:** Adrien Hermans, Cécile Turet
+- **Programming:** Didier Chevrier, Pascal Couteau, Arnaud Delrue, Daniel Lopes, Mathieu Marciacq, Cécile Turet
+- **Producers:** Valérie Courtial, Arnaud Delrue, Roland Oskian
 
-### Technical Achievements
+### Voice Cast
 
-The game was built on Coktel Vision's Gob engine, which provided the technical foundation for the interactive comic book experience and animation creation tools.[^ref-5] The engine supported the seamless integration of assets across multiple Playtoons titles, allowing the creative tools to expand as players acquired additional games in the series.[^ref-3]
-
-The game was distributed on CD-ROM media, which allowed for the inclusion of voice acting and high-quality audio.[^ref-3][^ref-5]
+According to MobyGames, the voices were produced by Studio Big Wheels, and Karen Strassman is the only individual voice actor credited. Her roles are not listed.[^ref-16]
 
 ### Technical Specifications
 
-**CD-ROM Version:**[^ref-3][^ref-4][^ref-5]
-- **Media:** CD-ROM
-- **Perspective:** Fixed / Flip-screen
-- **File Size:** Approximately 1.8 GB (as part of eXoWin3x collection)[^ref-4]
-- **Platform:** Windows 16-bit, Macintosh[^ref-3]
+**Minimum requirements:**[^ref-20]
+- **Windows:** Windows 3.1, Intel 486SX, 2X CD-ROM drive, 640×480 in 256 colours, mouse, 2 MB free hard disk space
+- **Macintosh:** Motorola 68040, System 7.1, 4 MB RAM, 2X CD-ROM drive, mouse, 1 MB free hard disk space
 
 ### Version History
 
-| Version | Date | Platform | Notes |
-|---------|------|----------|-------|
-| 1.0 | 1995 | Windows 3.x | Initial release (France, Germany)[^ref-4] |
-| 1.0 | 1995 | Macintosh | Mac OS release[^ref-3] |
-| 1.0 | 1996 | Windows 3.x | United States release[^ref-4] |
-| 1.0 | 1996 | Mac OS Classic | Mac OS Classic version[^ref-6] |
+| Date | Platform | Notes |
+|------|----------|-------|
+| 1995 | Windows 3.x, Macintosh | France; published by Coktel Vision[^ref-18] |
+| 1995 | Windows 3.x, Macintosh | Germany; published by Sierra On-Line, distributed by Sierra Coktel Deutschland[^ref-18] |
+| 1996 | Windows 3.x, Macintosh | United States; published by Sierra On-Line[^ref-18] |
 
 ### Easter Eggs and Trivia
 
-- The game features an asset-sharing system where installing multiple Playtoons games allows all assets to be used together in the editor, essentially combining the games into one expanded creative tool.[^ref-3]
-- The story is based on an original comic strip from Spirou, a famous Belgian/French comic magazine.[^ref-3]
-- The game was known by different titles in various regions: "Playtoons Nr. 4: Der Mandarin Prinz" in Germany and "Playtoons Nr. 4: Le Prince Mandarine" in France.[^ref-3][^ref-4]
-
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Unknown Role | Karen Strassman |
-
-Voice production details beyond the inclusion of Karen Strassman in the cast were not documented in available sources.[^ref-3]
+- The game also has a German title, *Playtoons Nr. 4: Der Mandarin Prinz*, and a French jewel-case title, *Playtoons Nr. 4: Le Prince Mandarine*.[^ref-3]
 
 ## Legacy
 
-### Sales and Commercial Impact
+### Packaging
 
-Specific sales figures for Playtoons 4: The Mandarine Prince were not documented in available sources. The game was part of a larger series that received distribution through Sierra On-Line's publishing network in Europe and North America.[^ref-2][^ref-4]
+The French release came in a sleeve. MobyGames' scans of it show an 18-page manual, a loyalty card, a card to fill in for a free game, a Coktel Club registration card, a Coktel warranty card, and catalogues of Coktel and Sierra titles.[^ref-17]
 
-### Collections
+### Preservation
 
-The French retail release included bundled materials reflecting Coktel Vision's marketing approach:[^ref-3]
-- 18-page manual
-- Loyalty Card
-- Card to fill to get one free game
-- Coktel Club's Registration Card
-- Coktel Warranty Card
-
-The game has been preserved as part of the eXoWin3x collection, which bundles Playtoons Volumes 1-4 together for modern preservation purposes.[^ref-4]
-
-### Fan Projects
-
-The game is currently supported by ScummVM, allowing it to be played on modern systems.[^ref-3] This preservation effort has helped maintain accessibility to the title despite its age and the obsolescence of Windows 3.x platforms.
-
-### Related Publications
-
-- **Game Manual:** 18-page manual included with French retail release[^ref-3]
-
-### Critical Perspective
-
-Playtoons 4: The Mandarine Prince represents an interesting intersection of edutainment, licensed properties, and creative tools that was characteristic of the mid-1990s children's software market. The game's incorporation of the Spirou comic characters demonstrated the growing interest in adapting established intellectual properties for interactive media, particularly in the European market where Franco-Belgian comics enjoyed tremendous popularity.
-
-The Playtoons series as a whole represented Coktel Vision's attempt to create a platform for creative expression rather than simply passive consumption, an approach that anticipated later developments in user-generated content. However, the series remained relatively obscure outside of European markets, and the educational adventure genre would eventually decline with the rise of more action-oriented children's games in the late 1990s.[^ref-13]
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/playtoons-4-the-mandarine-prince)
+The ScummVM wiki lists the game as unsupported ("Support: No"), so it cannot yet be played in ScummVM.[^ref-5] MyAbandonware hosts the Windows 3.x version as part of the eXoWin3x "Volumes 1-4" package (1.8 GB).[^ref-4]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on modern digital storefronts
+- Not sold on any current digital storefront (ScummVM wiki: "Available for Purchase: No")[^ref-5]
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/playtoons-4-the-mandarine-prince-yr9) - Windows 3.x version available[^ref-4]
-
-**Manuals & Extras**
-- Manual included with eXoWin3x collection download[^ref-4]
+- [MyAbandonware](https://www.myabandonware.com/game/playtoons-4-the-mandarine-prince-yr9) - Windows 3.x version (eXoWin3x package)[^ref-4]
 
 ## See Also
 
@@ -190,27 +133,20 @@ The Playtoons series as a whole represented Coktel Vision's attempt to create a 
 
 ## References
 
-[^ref-1]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, educational focus, animation creation features
-[^ref-2]: [Sierra Chest – Playtoons 4](https://sierrachest.com/index.php?a=games&id=324&title=playtoons-4&fld=box) – developer, publisher, engine, release date, platform
-[^ref-3]: [MobyGames – Playtoons 4: The Mandarine Prince](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/) – credits, gameplay description, technical details, platforms, publishers, alternate titles, bundled contents
-[^ref-4]: [MyAbandonware – Playtoons 4: The Mandarine Prince](https://www.myabandonware.com/game/playtoons-4-the-mandarine-prince-yr9) – release dates by region, file size, genre, themes, alternate names, user ratings
-[^ref-5]: [ScummVM Wiki – Playtoons 4](https://wiki.scummvm.org/index.php/Playtoons_4:_The_Mandarine_Prince) – engine compatibility, Gob engine technical details
-[^ref-6]: [UVList – Mac OS Classic Games](https://www.uvlist.net/platforms/games-list/48-Mac%20OS%20Classic/p) – 1996 Mac OS Classic release, developer confirmation
+[^ref-1]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, educational focus, intro cartoon, jumping to any page
+[^ref-2]: [Sierra Chest – Playtoons 4](https://sierrachest.com/index.php?a=games&id=324&title=playtoons-4&fld=box) – developer, publisher, Gob engine
+[^ref-3]: [MobyGames – Playtoons 4: The Mandarine Prince](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/) – description, platforms, alternate titles, genre and interface, screenshot captions, Moby Score n/a
+[^ref-4]: [MyAbandonware – Playtoons 4: The Mandarine Prince](https://www.myabandonware.com/game/playtoons-4-the-mandarine-prince-yr9) – eXoWin3x Volumes 1-4 download (1.8 GB), 0 votes and no comments
+[^ref-5]: [ScummVM Wiki – Playtoons 4 - The Mandarine Prince (archived April 17, 2026)](https://web.archive.org/web/20260417062550/https://wiki.scummvm.org/index.php?title=Playtoons_4_-_The_Mandarine_Prince) – Gob (DEV6) engine, "Support: No", "Unsupported Games" category, story setup, not available for purchase
 
-[^ref-7]: [GameFAQs – Playtoons 4](https://gamefaqs.gamespot.com/pc/591381-playtoons-4-the-mandarine-prince) – developer, publisher, platform information
+[^ref-7]: [GameFAQs – Playtoons 4: The Mandarine Prince](https://gamefaqs.gamespot.com/pc/591382-playtoons-4-the-mandarine-prince) – developer Coktel Vision, publisher Sierra On-Line, 1995, PC and Macintosh
 
-[^ref-8]: Macintosh Repository – Playtoons 4 *(link removed: it led to a different game's page)* – Mac version details, file information
+[^ref-10]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – developer history
 
-[^ref-9]: [Scribd – SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
+[^ref-12]: [SensCritique – Playtoons 4 : Spirou - Le Prince Mandarine](https://www.senscritique.com/jeuvideo/Playtoons_4_Spirou_Le_Prince_Mandarine/10931788) – user rating 6.5/10 from 10 ratings
 
-[^ref-10]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – developer history, game catalog, educational focus
-
-[^ref-11]: [Internet Archive – Playtoons 4 Archive](https://archive.org/details/playtoons-4) – game preservation, digital distribution documentation
-
-[^ref-12]: [SensCritique – Playtoons 4 Spirou Game](https://www.senscritique.com/jeuvideo/Playtoons_4_Spirou_Le_Prince_Mandarine/10931788) – community review and rating
-
-[^ref-13]: [GameTrip – Playtoons 4 Retrogaming Database](https://www.gametrip.net/jeu-1997-playtoons-4-spirou-le-prince-mandarine-pc.html) – French retrogaming community documentation
-
-[^ref-14]: [Wikidata – Playtoons 4 Data](https://www.wikidata.org/wiki/Q24935002) – structured metadata, international title variants
-
-[^ref-15]: [LaunchBox Games Database – Playtoons 4](https://gamesdb.launchbox-app.com/games/details/93207-playtoons-4-the-mandarine-prince) – game database documentation, community ratings
+[^ref-16]: [MobyGames – Playtoons 4 credits](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/credits/) – licence line, Dupuis contacts, design, graphics, sound, voices, programming, producers
+[^ref-17]: [MobyGames – Playtoons 4 covers](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/covers/) – French sleeve: 18-page manual, catalogues, loyalty/free-game/Coktel Club/warranty cards
+[^ref-18]: [MobyGames – Playtoons 4 releases](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/releases/) – France 1995 (Coktel), Germany 1995 (Sierra, Sierra Coktel Deutschland), US 1996 (Sierra), Windows 16-bit and Macintosh
+[^ref-19]: [Wikipedia – Spirou & Fantasio](https://en.wikipedia.org/wiki/Spirou_%26_Fantasio) – created by Rob-Vel for Le Journal de Spirou, April 21, 1938; Cortizone introduced in Spirou à New York (1987)
+[^ref-20]: [MobyGames – Playtoons 4 tech specs](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/specs/) – minimum Windows and Macintosh requirements
