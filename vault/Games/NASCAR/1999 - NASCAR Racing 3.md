@@ -120,8 +120,8 @@ At launch, reviewers expected players to fill the licensing gaps themselves: Gam
 
 ## See Also
 
-- [[1999 - NASCAR Legends|← Previous: NASCAR Legends]]
-- [[2001 - NASCAR Racing 4|→ Next: NASCAR Racing 4]]
+- [[1999 - NASCAR Craftsman Truck Series Racing|← Previous: NASCAR Craftsman Truck Series Racing]]
+- [[1999 - NASCAR Legends|→ Next: NASCAR Legends]]
 
 - [[1994 - NASCAR Racing]]
 - [[1996 - NASCAR Racing 2]]
