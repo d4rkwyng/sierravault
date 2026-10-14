@@ -1,92 +1,84 @@
 ---
 title: Thexder Neo
 release_year: 2009
-developer: Game Arts Co., Ltd.
-designer: [Hibiki Godai, Satoshi Uesaka]
+developer: Zereo
+designer: [Masayuki Shimada]
 publisher: Square Enix
 genre: Shooter
-platforms: [PlayStation 3, PlayStation Portable, Nintendo Switch]
+platforms: [PlayStation Portable, PlayStation 3]
 series: Thexder
-engine: Microsoft Game SDK
+engine: null
 protagonist: Thexder (Hyper Dual Armor)
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-09'
-description: Thexder Neo is a 2009 remake of the classic 1985 arcade-style shooter
-  originally developed by Game Arts. The game features a transforming robot protagonist...
+last_updated: '2026-10-14'
+description: Thexder Neo is Zereo's 2009 remake of Game Arts' 1985 transforming-robot shooter Thexder, published by Square Enix as a PlayStation Network download for PSP (2009) and PS3 (2010). Sierra had no part in it.
+composer: [Kazumi Mitome]
 tags: [2000s, shooter, sierra, thexder]
 ---
 # Thexder Neo
 
-<small style="color: gray">Last updated: May 14, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 ## Overview
 
-Thexder Neo is a 2009 remake of the classic 1985 arcade-style shooter originally developed by Game Arts[^ref-1]. The game features a transforming robot protagonist that can switch between mech and jet fighter modes, navigating through maze-like levels while battling enemy robots[^ref-2]. Originally created as the first title ever released by Game Arts in 1985, the Thexder series was brought to Western audiences through Sierra On-Line's publishing deal with Ken Williams, who purchased the rights from Game Arts for US distribution in the mid-1980s[^ref-3][^ref-4].
+Thexder Neo is a remake of Game Arts' 1985 side-scrolling shooter Thexder, developed by Zereo and published by Square Enix[^ref-1][^ref-9]. It was released as a PlayStation Network download for the PlayStation Portable on October 1, 2009, and for the PlayStation 3 on January 28, 2010[^ref-9][^ref-29]. The game credits Game Arts as presenter and lists the original game's creators, Hibiki Godai and Satoshi Uesaka, under "Original Thexder Staff"; the remake itself was directed by Masayuki Shimada[^ref-32].
 
-This modern revival represents Square Enix's attempt to revitalize the classic franchise with updated graphics, new gameplay modes, and contemporary features while maintaining the punishing difficulty that defined the original[^ref-5]. As one observer noted, "Now, remakes of 15-year-old games are Square-Enix's bread and butter"[^ref-6], and Thexder Neo fits squarely within their strategy of reviving dormant properties.
+Square Enix's European press release described the original as "a side-scrolling shooter featuring slick animation, strategic transforming-mech gameplay, and spectacular homing lasers", and promised that players could "experience the excitement of the original, complete with revamped graphics, a novice mode, six-player online races, and a host of other all-new features in THEXDER NEO"[^ref-30]. In Europe it was a launch title for the PSP Go, priced at £7.99[^ref-30].
 
-The remake includes revamped graphics, a novice mode for struggling players, six-player online races, and other new features designed to introduce the classic game to modern audiences[^ref-7]. However, critical reception was largely negative, with Destructoid's James Stephanie Sterling declaring "Thexder Neo has no point. It's a below mediocre shooter that shouldn't have been brought back if the developers had no intention of improving it"[^ref-8].
+Critics were unimpressed. Destructoid's James Stephanie Sterling gave it 3.0 out of 10 and concluded: "Ultimately, Thexder Neo has no point. It's a below mediocre shooter that shouldn't have been brought back if the developers had no intention of improving it"[^ref-8].
+
+Thexder Neo was never published by Sierra. Its only Sierra connection is that Sierra On-Line imported and published the original Thexder in the United States in the 1980s[^ref-33][^ref-34].
 
 > [!info]- Game Info
-> **Developer:** [[Game Arts]] Co., Ltd.[^ref-1]
-> **Designer:** Hibiki Godai, Satoshi Uesaka[^ref-1]
-> **Publisher:** Square Enix[^ref-5]
-> **Engine:** Microsoft Game SDK[^ref-1]
-> **Platforms:** PlayStation 3, PlayStation Portable, Nintendo Switch[^ref-9]
-> **Release Year:** 2009
+> **Developer:** [[Zereo]] (presented by [[Game Arts]])[^ref-32]
+> **Designer:** Masayuki Shimada (director)[^ref-32]
+> **Publisher:** [[Square Enix]][^ref-1]
+> **Engine:** Unknown
+> **Platforms:** PlayStation Portable, PlayStation 3[^ref-9]
+> **Release Year:** 2009 (PSP), 2010 (PS3)[^ref-9]
 > **Series:** Thexder
 > **Protagonist:** Thexder (Hyper Dual Armor)
-> **Sierra Lineage:** Spiritual Successor
+> **Sierra Lineage:** Post-Sierra (never published by Sierra)
 
 ## Story Summary
 
-Thexder Neo follows the narrative established in the original game, providing context for what is essentially an action-focused experience. "During a routine survey, the interstellar weapons platform Laevina detects Nedium, an asteroid of unknown origin, and soon finds itself in the grip of the planetoid's ultramagnetic field"[^ref-10]. Shipwrecked atop an impregnable fortress of rock, the starship turns to its last resort—the Hyper Dual Armor prototype Thexder[^ref-11].
+Square Enix's press release sets the scene under the heading "ASTROLOG: YEAR 089": "During a routine survey, the interstellar weapons platform Laevina detects Nedium, an asteroid of unknown origin, and soon finds itself in the grip of the planetoid's ultramagnetic field. Shipwrecked atop an impregnable fortress of rock, the starship turns to its last resort—the Hyper Dual Armor prototype Thexder"[^ref-30][^ref-11]. The player pilots Thexder, transforming between mech and cruiser modes to infiltrate Nedium and destroy the ultramagnetic field generator[^ref-12].
 
-The player takes control of this transforming combat robot to infiltrate the planetoid Nedium and destroy the ultramagnetic field generator that has trapped the Laevina[^ref-12]. The mission is straightforward: blast through enemy robots, navigate treacherous passages, and reach the source of the magnetic field.
-
-As one reviewer wryly observed, "When you're a transforming combat robot, I don't suppose you really need a reason to kill stuff"[^ref-8]. The narrative exists primarily to justify the gameplay, a common approach for arcade-style shooters that prioritize action over story.
+The story does little beyond setting up the action. As Destructoid's review put it, "When you're a transforming combat robot, I don't suppose you really need a reason to kill stuff"[^ref-8].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Thexder Neo is a side-scrolling action game where players control a transforming robot through a series of maze-like levels[^ref-2]. The core mechanic revolves around the robot's ability to transform between two modes:
+Thexder Neo is a side-scrolling action game in which the player controls a transforming robot through a series of maze-like levels, destroying enemy robots with laser beams[^ref-2]. The robot can switch between two forms[^ref-12][^ref-8]:
 
-- **Robot Mode**: Ground-based movement with standard maneuverability
-- **Jet Fighter Mode**: Flight capability for aerial navigation and different attack patterns
+- **Robot form**: walks the terrain and fires lasers that home in on nearby enemies when the robot is facing them[^ref-8]
+- **Jet form**: flies, and can squeeze through narrow gaps in the terrain[^ref-8]
 
-The player destroys enemy robots by shooting them with laser beams, utilizing an auto-targeting laser system that automatically locks onto nearby enemies[^ref-1]. This auto-targeting feature, carried over from the original, can be both helpful and frustrating—while it simplifies aiming, it sometimes targets enemies the player wasn't intending to attack.
+Sterling found the jet's controls "horrible" and said its only real use was getting through small gaps[^ref-8]. Altered Gamer's reviewer complained that the jet has to fly a circle in midair just to turn around[^ref-20].
 
 ### Structure and Progression
 
-The game features two distinct modes with different level structures:
+The game contains two versions of Thexder[^ref-16][^ref-13]:
 
-| Mode | Levels | Description |
-|------|--------|-------------|
-| Neo Mode | 10 levels | Updated version with modern design |
-| Classic Mode | 16 levels | Faithful recreation of original gameplay |
+| Mode | Levels | Notes |
+|------|--------|-------|
+| Thexder Neo | 10 levels | The remake; played on Easy or Normal difficulty[^ref-16] |
+| Thexder Classic | 16 levels | The 1985 game with Thexder Neo's controls[^ref-16][^ref-13] |
 
-The remake includes both Easy and Normal difficulty settings, along with a novice mode designed to make the challenging gameplay more accessible to modern players who may not be accustomed to the punishing difficulty of 1980s arcade games[^ref-13].
+The trophy list also rewards completing Level 50 and Level 100 on Normal mode[^ref-13]. The PlayStation Trophies guide estimates that reaching Level 100 takes about three hours, because "there's not a save function in this game"[^ref-16]. Square Enix promoted a new "novice mode" as one of the remake's additions[^ref-30].
 
 ### Core Mechanics
 
-The game maintains the original's challenging design philosophy, famously offering "no continues, no saves, no lives"[^ref-14]. This hardcore approach means:
+- **Energy**: Thexder's energy drops when enemies hit it, and also every time it fires. As Sterling put it, "every time Thexder fires his weapons, his health depletes." Some objects around each stage restore or increase energy, but they have to be shot first[^ref-8].
+- **Shield**: Thexder can raise a temporary force-field[^ref-8]. One trophy is awarded for completing a level without using shields[^ref-13].
+- **No second chances**: Destructoid summed up the design: "There are no continues. There are no saves. There aren't even any lives." If Thexder dies, the player starts again from the beginning[^ref-8].
 
-- **Energy System**: The Thexder unit runs on energy that depletes when taking damage or using shields
-- **No Checkpoints**: Death sends players back to the beginning
-- **Resource Management**: Players must balance aggressive play against energy conservation
-
-Players navigate through tile-based playfields designed for smooth scrolling, encountering gradually increasing difficulty and diverse enemies[^ref-15]. The transforming mechanic is central to gameplay, as players must strategically switch between robot and jet modes to navigate different terrain and combat situations effectively.
+In a 2013 GameSpot user review, one player wrote that destroying enemies refills Thexder's energy and also raises its maximum. Hunting down every enemy for the level trophies therefore made the final boss easier[^ref-19].
 
 ### Multiplayer Features
 
-The Neo version includes online multiplayer functionality supporting up to six players for competitive racing modes. Players can connect via:
-
-- LAN connections
-- Modem/online connections
-- Same/split-screen local play
-
-However, the online community has largely abandoned the game, with one trophy guide noting that the online mode was "completely abandoned"[^ref-16] by the time most players were attempting to complete it.
+Square Enix advertised "six-player online races"[^ref-30]. PlayStation UK's game page lists 1–6 players, online infrastructure mode for 2–6 players, and no ad hoc (local wireless) mode[^ref-31]. Online play did not last. Destructoid reported in October 2009 that it could find no one playing online[^ref-8], and a 2013 trophy guide described the online mode as "completely abandoned"[^ref-16].
 
 ## Reception
 
@@ -94,163 +86,94 @@ However, the online community has largely abandoned the game, with one trophy gu
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Destructoid | 3.0/10 | "Below mediocre shooter that shouldn't have been brought back"[^ref-8] |
-| GamesRadar+ | 50/100 | "Repetitive gameplay and limited scope"[^ref-17] |
-| Gaming Age | 33/100 | Criticized difficulty and value at $10 price point[^ref-18] |
-| PlayStation Trophies | 7.5/10 | Focused on trophy hunting appeal[^ref-16] |
-| GameSpot User | 7.5/10 | "Trophy hunting is the best way to play this game"[^ref-19] |
-| Altered Gamer | 2/5 | Mixed feelings about the retro approach[^ref-20] |
-| GameFAQs Users | Fair | Average of 21 ratings[^ref-11] |
+| Destructoid (PSP) | 3.0/10 | James Stephanie Sterling, 26 October 2009: "a below mediocre shooter that shouldn't have been brought back if the developers had no intention of improving it"[^ref-8] |
+| GamesRadar+ (PSP) | 50/100 | Nathan Meunier, 29 October 2009: "the repetitive gameplay and limited scope show this old mech could use a tad more oil"[^ref-36][^ref-17] |
+| Gaming Age (PSP) | 33/100 | Faulted the gameplay restrictions and swarming enemies, but noted that fans of difficult 1980s classics might enjoy it, "and hey, it's only $10"[^ref-17] |
+| Altered Gamer (PS3) | 2/5 | Finn Orfano: "a hot mess of annoying controls and insufferable difficulty"[^ref-20] |
 
-The critical consensus was largely negative, viewing the game as a failed revival that updated graphics without meaningfully improving the gameplay experience.
-
-### Original Game Reviews (For Context)
-
-The original Thexder received better reviews in its era:
-
-| Publication | Score | Notes |
-|-------------|-------|-------|
-| Dragon | 4/5 | 1991 review[^ref-7] |
-| ST Amiga Format | 61% | July 1988[^ref-23] |
-| Génération 4 | 79% | July 1988[^ref-23] |
-| The Games Machine | 74% | June 1988[^ref-23] |
-| Your Amiga | 50% | August 1988[^ref-23] |
-| Amiga Computing | 30% | August 1988[^ref-23] |
-
-Even in 1988, reviews were mixed, but the original's innovative transformation mechanic earned more respect than the remake's faithful but stagnant recreation.
+Metacritic lists three critic reviews, all for the PSP version. That is too few for a Metascore[^ref-17]. GamesRadar+ listed giant robots, updated visuals and a lower difficulty option as positives, and repetitive play, lacklustre level design and thin content as negatives[^ref-36].
 
 ### Modern Assessment
 
-The game received an ESRB rating of "E for Everyone"[^ref-2], making it accessible to all ages despite its challenging difficulty.
+The game is rated E for Everyone by the ESRB, for Fantasy Violence[^ref-2]. On GameFAQs, users rate the PSP version "Good" (21 ratings) and the PS3 version "Fair" (22 ratings)[^ref-11][^ref-35].
 
-Critics frequently cited the game's failure to modernize beyond visual updates. James Stephanie Sterling's Destructoid review captured the critical consensus: "Thexder Neo has no point. It's a below mediocre shooter that shouldn't have been brought back if the developers had no intention of improving it"[^ref-8].
-
-However, some players appreciated the approach. One described it as "a pure adaption of the original game" that maintained the series' challenging nature[^ref-25], suggesting that for hardcore fans of the original, the faithful recreation was exactly what they wanted.
+Later players were somewhat kinder. A 2013 GameSpot user review scored the PS3 version 7.5 and concluded, "Its very rare that I say this, but trophy hunting is the best way to play this game"[^ref-19]. Altered Gamer's reviewer, though critical, was "extremely happy" that the developers kept Beethoven's Moonlight Sonata as the end-level music, as in the original[^ref-20].
 
 ## Development
 
 ### Origins
 
-Thexder Neo represents Square Enix's effort to revive classic gaming properties from their portfolio. The project aimed to "reactivate the original THEXDER game with revamped graphics" while maintaining the core gameplay that defined the 1985 original[^ref-26].
+The first public sign of the game came in August 2009, when GIGAZINE reported that Square Enix had submitted "THEXDER NEO" to the ESRB for rating. The site placed it in a trend of publishers "reviving ancient masterpieces", alongside new versions of Spelunker and Wizardry[^ref-26]. Wikipedia describes Thexder Neo as "a complete rework of the original PC game from 1985"[^ref-7].
 
-The development team, led by designers Hibiki Godai and Satoshi Uesaka, chose to rebuild the game from the ground up rather than simply porting the original[^ref-27]. This approach allowed for modern graphics while preserving the original gameplay systems.
+### Production
 
-### Sierra Connection
+MobyGames' credits name Zereo as developer, Masayuki Shimada as director, Kazuyuki Ohata as producer and Morito Ishii as programming director. Game Arts appears as presenter. Hibiki Godai and Satoshi Uesaka, who created the 1985 original, are credited as "Original Thexder Staff" and in the special thanks[^ref-32].
 
-The Thexder series holds a significant place in Sierra's history. Ken Williams purchased the rights from Game Arts for US distribution in the mid-1980s[^ref-4], making Thexder one of Sierra's successful licensed properties. Sierra published multiple entries in the series:
-
-- **Thexder** (1987) - DOS/Apple II port
-- **Fire Hawk: Thexder The Second Contact** (1990) - Sequel
-- **Thexder 95** (1995) - Windows remake
-
-The series demonstrated Sierra's willingness to look beyond American and European developers for innovative games, establishing relationships with Japanese studios that would continue throughout the company's history.
+Larry Sparks, Vice President Brands PAL Region of Square Enix Ltd., said in the European launch release: "THEXDER NEO is a really enjoyable game and we're pleased to be able to release it as a downloadable launch title for the PSPgo"[^ref-30].
 
 ### Music and Audio
 
-The soundtrack features work from multiple composers:
+MobyGames credits Yasunori Mitsuda as sound director and Kazumi Mitome as sound composer. The opening music is "Thexder" by Hibiki Godai, and the ending music is Ludwig van Beethoven's Moonlight Sonata[^ref-32]. MobyGames' description says the remake has "new and remixed music"[^ref-1].
 
-- **Christopher Barker**
-- **Christopher Stevens**
-- **Craig Utterback**
-- **Don Latarski**
-- **Hibiki Godai** (opening music)
+### Version History
 
-The game notably includes Ludwig van Beethoven's Moonlight Sonata as ending music[^ref-28], a callback to the original game's use of classical music. This unusual choice—using 18th-century classical music in a futuristic robot shooter—was one of the original Thexder's distinctive characteristics that the remake preserved.
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| PSP | October 1, 2009 | PlayStation Portable | PlayStation Network download; a PSP Go launch title in Europe, £7.99[^ref-9][^ref-30][^ref-31] |
+| PS3 | January 28, 2010 | PlayStation 3 | PlayStation Network download[^ref-9][^ref-29][^ref-35] |
 
-### Technical Achievements
+### Sierra Connection
 
-Thexder Neo represents Square Enix's deliberate **ground-up rebuild of the 1985 Game Arts / Sierra-published original**, replacing simple ports with a modern engine while preserving the original gameplay loops[^ref-26][^ref-27]. The product was specifically engineered for the **PlayStation Network as a budget download**, leveraging PSN's small-package distribution model in an era when PSN was still establishing its budget-revival catalog[^ref-26]. Designers Hibiki Godai and Satoshi Uesaka led the rebuild effort with original audio composition included to refresh the late-1980s soundtrack for modern hardware[^ref-26][^ref-27]. The release also represents one of the few **Sierra-published / Game Arts-developed classics** to receive a modern revival, demonstrating Square Enix's strategy for reviving its broader licensed-IP portfolio across the late-2000s PSN launch wave[^ref-26].
-
-### Technical Implementation
-
-The game was built using Microsoft's Game SDK and features 3D modeled graphics in a 2D side-scrolling format[^ref-29]. Technical specifications include:
-
-| Feature | Specification |
-|---------|---------------|
-| Resolution Support | Up to 4K |
-| Frame Rate | 60 fps |
-| Trophy Support | 20 trophies total |
-| Online Multiplayer | 6 players maximum |
-
-The PS3 and PSP versions were released as downloadable titles through PlayStation Network, while the Nintendo Switch version came later as part of Square Enix's ongoing revival of classic properties.
+Sierra had no role in Thexder Neo. Its link to the series is the original game. Sierra's own newsletter for Spring 1988 says that "Thexder, which was released in September of 1987, was Sierra's first import from Japan, and has already sold more than 100,000 units in this country"[^ref-33]. *The Sierra News Magazine* for Fall 1990 says that Ken Williams began arranging the license after his first trip to Japan in 1986, and gives the US release as 1987 in one article. Another article in the same issue says Thexder "debuted in U.S. computer stores just in time for Christmas 1986, and became Sierra's best seller for 1987"[^ref-34]. Sierra's own publications therefore disagree on the US release date: September 1987, 1987, or Christmas 1986.
 
 ## Legacy
 
-### A Cautionary Tale
-
-Thexder Neo stands as an example of the challenges faced when reviving classic gaming properties without significant modernization. The game's reception highlighted the difficulty of translating 1980s arcade sensibilities to modern gaming expectations—simply updating graphics while preserving frustrating design elements doesn't satisfy contemporary audiences.
-
-### Trophy Hunting Appeal
-
-Despite its critical reception, the game found a niche audience among PlayStation trophy hunters. The trophy guide notes that "Trophy hunting is the best way to play this game"[^ref-19], suggesting that the achievement system provided motivation that the core gameplay alone couldn't sustain.
-
-### Historical Significance
-
-The title's connection to Sierra's gaming legacy through the original game's Western distribution deal with Ken Williams represents an important piece of gaming history. It demonstrates how Japanese developers and American publishers collaborated to bring innovative games to Western markets in the 1980s[^ref-4].
-
-The original Thexder was notable for its time—a Japanese action game that found success in America through Sierra's publishing network. The 2009 remake, while unsuccessful, at least kept the franchise name alive and introduced it to a new generation of players who might then discover the original.
-
-### Square Enix's Revival Strategy
-
-Thexder Neo fits within Square Enix's broader strategy of reviving dormant properties. While this particular revival failed to reignite interest in the franchise, similar efforts with other classic titles have met with varying degrees of success.
+Critics treated Thexder Neo as a faithful but unimproved revival[^ref-8][^ref-36], and its online mode was empty within a few years[^ref-16]. Its later audience came mostly from PlayStation trophy hunters. The PS3 version has 20 trophies, and the Thexder Classic trophy requires clearing all 16 levels of the 1985 game[^ref-16][^ref-13].
 
 ## Technical Specifications
 
 | Specification | Details |
 |---------------|---------|
-| Engine | Microsoft Game SDK[^ref-29] |
-| Graphics | 3D modeled, 2D scrolling |
-| Resolution | Up to 4K supported |
-| Frame Rate | 60 fps |
-| ESRB Rating | E for Everyone[^ref-2] |
-| Trophies | 20 total[^ref-16] |
-| Online Players | Up to 6[^ref-16] |
-| Game Modes | Neo (10 levels), Classic (16 levels)[^ref-16] |
-| Difficulty | Easy, Normal, Novice[^ref-13] |
+| Platforms | PlayStation Portable (2009), PlayStation 3 (2010)[^ref-9] |
+| Distribution | PlayStation Network download only[^ref-30][^ref-31] |
+| Price | £7.99 (Europe)[^ref-30]; US$9.99 MSRP (PSP)[^ref-8] |
+| ESRB Rating | E for Everyone (Fantasy Violence)[^ref-2] |
+| Players | 1–6; online infrastructure mode 2–6; no ad hoc mode[^ref-31] |
+| Game Modes | Thexder Neo (10 levels), Thexder Classic (16 levels)[^ref-16] |
+| Difficulty | Easy, Normal[^ref-16] |
+| Trophies (PS3) | 20[^ref-16] |
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- PlayStation Network (PS3/PSP versions)
-- Nintendo eShop (Switch version)
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
-
-**Download / Preservation**
-- Available through PlayStation Store (regions vary)
-- Physical copies rare for PSP version
+- Thexder Neo was sold only as a PlayStation Network download, for PSP and PS3[^ref-30][^ref-9]. There was no boxed release.
 
 ## See Also
 
 - [[1985 - Thexder|← Original: Thexder]] - First game in the series
-
-- [[1989 - Fire Hawk - Thexder - The Second Contact]] - Direct sequel
-- [[1995 - Thexder 95]] - Windows remake of the original
+- [[1989 - Fire Hawk - Thexder - The Second Contact]] - Sequel to the original
+- [[1995 - Thexder 95]] - Sierra's Windows remake of the original
 
 ## References
 
-[^ref-1]: [MobyGames](https://www.mobygames.com/game/43121/thexder-neo/) – Developer and designer information
-[^ref-2]: [ESRB](https://www.esrb.org/ratings/27499/thexder-neo/) – Game mechanics description
-[^ref-3]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Thexder) – Game Arts origin information
-[^ref-4]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Sierra publishing history
-[^ref-5]: [Wikipedia](https://en.wikipedia.org/wiki/Thexder_Neo) – Square Enix development details
-[^ref-6]: [TV Tropes Forum](https://tvtropes.org/pmwiki/posts.php?discussion=12927105520A16786600&page=1) – Square Enix remake strategy observation
-[^ref-7]: [Wikipedia](https://en.wikipedia.org/wiki/Thexder) – New features announcement
-[^ref-8]: [Destructoid](https://www.destructoid.com/review-thexder-neo/) – Review quotes
-[^ref-9]: [MobyGames Releases](https://www.mobygames.com/game/43121/thexder-neo/releases/) – Platform information
-[^ref-10]: [Download Game PSP](https://downloadgamepsp.org/thexder-neo-psp-ppsspp-psvita-full-iso/) – Story description
-[^ref-11]: [GameFAQs](https://gamefaqs.gamespot.com/psp/974848-thexder-neo) – Plot setup
-[^ref-12]: [GameSpot](https://www.gamespot.com/games/thexder-neo/cheats/) – Game objective
-[^ref-13]: [Cheat CC](https://www.cheatcc.com/articles/thexder-neo-cheats-codes-cheat-codes-walkthrough-guide-faq-unlockables-for-playstation-3-ps3-ps3/) – Difficulty modes
-[^ref-14]: [PlayStation Trophies Guide](https://www.playstationtrophies.org/forum/topic/178077-thexder-neo-~-roadmap-amp-trophy-guide/) – Gameplay restrictions quote
-[^ref-15]: [MobyGames](https://www.mobygames.com/game/49/thexder/) – Platform and enemy design
-[^ref-16]: [PlayStation Trophies](https://www.playstationtrophies.org/game/thexder-neo/guide/) – Level structure and trophy information
-[^ref-17]: [Metacritic](https://www.metacritic.com/game/thexder-neo/) – Review scores and quotes
-[^ref-18]: [Metacritic PS3](https://www.metacritic.com/game/playstation-3/thexder-neo) – Gaming Age review details
-[^ref-19]: [GameSpot User Review](https://www.gamespot.com/thexder-neo/user-reviews/2200-179499/) – User review quote
-[^ref-20]: [Altered Gamer](https://www.alteredgamer.com/other-games/62905-thexder-neo-ps3-game-review-retro-remake/) – Review score
-[^ref-23]: AMR Abime *(no archived copy found)* – Original game magazine reviews
-[^ref-25]: [MobyGames Reviews](https://www.mobygames.com/game/2857/thexder/) – Player perspective on adaptation
-[^ref-26]: [Archive Today](https://archive.today/20120709022342/http://en.gigazine.net/index.php?/news/comments/20090824_thexder/) – Development goals
-[^ref-27]: [Downloads KH Insider](https://downloads.khinsider.com/game-soundtracks/album/thexder-neo-2009-psp) – Rebuild details
-[^ref-28]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/thexder) – Moonlight Sonata reference
-[^ref-29]: [Games DB](https://gamesdb.launchbox-app.com/games/details/129840-thexder-neo) – Engine and graphics details
+[^ref-1]: [MobyGames – Thexder Neo](https://www.mobygames.com/game/43121/thexder-neo/) – Zereo (developer), Square Enix (publisher), game description
+[^ref-2]: [ESRB – Thexder NEO](https://www.esrb.org/ratings/27499/thexder-neo/) – E rating, Fantasy Violence, rating summary of gameplay
+[^ref-7]: [Wikipedia – Thexder](https://en.wikipedia.org/wiki/Thexder) – Thexder Neo described as a complete rework of the 1985 game; release dates
+[^ref-8]: [Destructoid – Review: Thexder Neo](https://www.destructoid.com/review-thexder-neo/) – James Stephanie Sterling, 26 Oct 2009; score 3.0, gameplay details, quotes
+[^ref-9]: [MobyGames – Thexder Neo releases](https://www.mobygames.com/game/43121/thexder-neo/releases/) – PSP 1 Oct 2009, PS3 28 Jan 2010, Zereo
+[^ref-11]: [GameFAQs – Thexder NEO (PSP)](https://gamefaqs.gamespot.com/psp/974848-thexder-neo) – Plot description; user rating "Good" (21 ratings)
+[^ref-12]: [GameSpot – Thexder NEO cheats (Wayback, May 2022)](https://web.archive.org/web/20220522004411/https://www.gamespot.com/games/thexder-neo/cheats/) – Mech and cruiser modes; destroy the ultramagnetic field generator
+[^ref-13]: [Cheat Code Central – Thexder NEO trophies (PS3)](https://www.cheatcc.com/articles/thexder-neo-cheats-codes-cheat-codes-walkthrough-guide-faq-unlockables-for-playstation-3-ps3-ps3/) – Trophy list: Easy and Normal modes, Level 50 and 100, 16-level Classic version, shields
+[^ref-16]: [PlayStation Trophies – Thexder Neo Trophy Guide](https://www.playstationtrophies.org/game/thexder-neo/guide/) – 20 trophies; Easy and Normal; 10 vs 16 levels; no save function; online mode abandoned
+[^ref-17]: [Metacritic – Thexder NEO](https://www.metacritic.com/game/thexder-neo/) – Critic scores: GamesRadar+ 50, Gaming Age 33, Destructoid 30 (all PSP); Metascore tbd
+[^ref-19]: GameSpot user review by Double_Wide, "Thexder NEO" (PS3), 24 May 2013 – user score 7.5; trophy-hunting and energy comments (original URL gamespot.com/thexder-neo/user-reviews/2200-179499/ now redirects to the game page)
+[^ref-20]: [Altered Gamer – Thexder Neo PS3 Game Review](https://www.alteredgamer.com/other-games/62905-thexder-neo-ps3-game-review-retro-remake/) – Finn Orfano; overall 2 out of 5; jet turning, Moonlight Sonata
+[^ref-26]: [GIGAZINE – Square Enix revives "THEXDER", 80's robot action for PS3 and PSP](https://gigazine.net/gsc_news/en/20090824_thexder/) – 24 Aug 2009; ESRB rating application, revival trend
+[^ref-29]: [LaunchBox Games Database – Thexder Neo (PS3)](https://gamesdb.launchbox-app.com/games/details/129840-thexder-neo) – PS3 release date 28 Jan 2010; developer Zereo
+[^ref-30]: [Square Enix Ltd. press release via Media-Newswire (Wayback)](https://web.archive.org/web/20110714064354/http://www.media-newswire.com/printer_friendly_1101216.html) – 1 Oct 2009; PSN-exclusive download, PSPgo launch title, £7.99, features, story text, Larry Sparks quote
+[^ref-31]: [PlayStation UK – THEXDER NEO (Wayback, Oct 2009)](https://web.archive.org/web/20091026163036/http://uk.playstation.com:80/games-media/games/detail/item238163/THEXDER-NEO/) – Release 1 Oct 2009; players 1–6; infrastructure 2–6; no ad hoc; download
+[^ref-32]: [MobyGames – Thexder Neo PSP credits](https://www.mobygames.com/game/43121/thexder-neo/credits/psp/) – Zereo, director Masayuki Shimada, producer Kazuyuki Ohata, Original Thexder Staff, sound credits, Moonlight Sonata ending
+[^ref-33]: [Sierra Newsletter Vol. 1 No. 3, Spring 1988 (archive.org)](https://archive.org/details/003_Sierra_Newsletter_Volume_1_Number_3_Spring_1988) – "Thexder, which was released in September of 1987, was Sierra's first import from Japan" and sold over 100,000 units
+[^ref-34]: [The Sierra News Magazine Vol. 3 No. 3, Fall 1990 (archive.org)](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) – Ken Williams licensed Thexder after his 1986 Japan trip; US release given as 1987 and as Christmas 1986
+[^ref-35]: [GameFAQs – Thexder NEO (PS3)](https://gamefaqs.gamespot.com/ps3/987731-thexder-neo) – PS3 release 28 Jan 2010; user rating "Fair" (22 ratings)
+[^ref-36]: [GamesRadar+ – Thexder Neo review (Wayback, 2016)](https://web.archive.org/web/20160711124906/http://www.gamesradar.com:80/thexder-neo-review/) – Nathan Meunier, 29 Oct 2009; pros and cons, verdict
