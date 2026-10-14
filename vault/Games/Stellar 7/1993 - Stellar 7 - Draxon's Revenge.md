@@ -10,159 +10,159 @@ series: Stellar 7
 engine: Unknown/unnamed
 protagonist: Terran Commander (Raven Pilot)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-11'
+last_updated: '2026-10-14'
 description: 'Stellar 7: Draxon''s Revenge is a 1993 first-person sci-fi tank simulation
   game developed and published by Dynamix for the 3DO Interactive Multiplayer...'
 tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar 7: Draxon's Revenge
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 ## Overview
 
-Stellar 7: Draxon's Revenge is a 1993 first-person sci-fi tank simulation game developed and published by [[Dynamix]] for the 3DO Interactive Multiplayer console.[^ref-1] Serving as both a sequel and a remake to the 1990 Stellar 7 remake, the game was designed to showcase the capabilities of the then-new 3DO system with polygon models, improved graphics, CG cinemas, and CD audio.[^ref-2] The game is the fourth entry in the Stellar 7 series, following the original 1983 release, the 1990 remake, and Nova 9: The Return of Gir Draxon (1991).[^ref-3]
+Stellar 7: Draxon's Revenge is a 1993 first-person sci-fi tank simulation game developed and published by [[Dynamix]] for the 3DO Interactive Multiplayer console.[^ref-1][^ref-5] MobyGames describes it as a sequel/remake to Stellar 7, and Sierra's InterAction magazine introduced it as "based on the enormously popular Stellar 7 for the PC."[^ref-5][^ref-21] Its manual calls it "the grandchild of the legendary Dynamix game — Stellar 7," built by a Dynamix 3DO team to take "fullest advantage of the awesome capabilities of the 3DO System."[^ref-20]
 
-The game distinguished itself through its fully narrated introduction, voiced by actor Michael Dorn, who was famous at the time for playing the Klingon crewman Worf on the television series Star Trek: The Next Generation.[^ref-1] Drawing inspiration from the classic arcade game Battlezone, Stellar 7: Draxon's Revenge puts players in command of the Raven, a futuristic super-tank equipped with powerful weaponry and an anti-gravity propulsion system, as they battle against the tyrannical overlord Gir Draxon and his Arcturan Empire across seven alien worlds.[^ref-1]
+The game's opening narration was read by actor Michael Dorn, then playing the Klingon Worf on Star Trek: The Next Generation.[^ref-9][^ref-23] Stellar 7: Draxon's Revenge puts players in command of the Raven, a super-tank that glides on an anti-gravity cushion, as they battle Gir Draxon, overlord of the Arcturan Empire, across seven worlds.[^ref-20][^ref-25]
 
-The game featured significantly higher difficulty than earlier versions in the series, with only one life and no continues, making it a punishing experience for players seeking a challenge.[^ref-4] With texture-mapped polygonal graphics, 2D sprites for specific objects, and full CD sound and music including fully narrated cutscenes, Draxon's Revenge represented an ambitious attempt to bring the tank simulation genre to new hardware.[^ref-5][^ref-17][^ref-18][^ref-19]
+The Raven survives on its energy reserve: when energy reaches zero its shields fall, and one hit on the unshielded hull destroys it.[^ref-20] The game combines texture-mapped polygonal graphics with 2D sprites for some objects, and uses full CD sound and music, including fully narrated cutscenes.[^ref-5] *Computer Gaming World* singled out its "terrific CD-audio" and texture mapping in an early look at the 3DO.[^ref-22]
 
 > [!info]- Game Info
-> **Developer:** [[Dynamix]][^ref-1]
-> **Designer:** [[Damon Slye]] (Original Design)[^ref-5]
-> **Publisher:** Dynamix (NA), T&E Soft (JP)[^ref-5]
+> **Developer:** [[Dynamix]][^ref-5]
+> **Designer:** [[Damon Slye]] (Original Design)[^ref-20]
+> **Publisher:** Dynamix (NA), T&E Soft (JP)[^ref-18][^ref-27]
 > **Engine:** Unknown/unnamed[^ref-6]
 > **Platforms:** 3DO Interactive Multiplayer[^ref-1]
-> **Release Year:** 1993 (NA), March 20, 1994 (JP)[^ref-1]
+> **Release Year:** 1993 (NA), March 26, 1994 (JP)[^ref-27]
 > **Series:** Stellar 7[^ref-3]
 > **Protagonist:** Terran Commander (Raven Pilot)
 > **Sierra Lineage:** Dynamix
 
 ## Story Summary
 
-Set two thousand years in the future, Stellar 7: Draxon's Revenge places humanity in a desperate struggle against an ancient enemy.[^ref-2] Gir Draxon, the Overlord of the Arcturan Empire, has returned to enslave Earth and its inhabitants.[^ref-1] The Arcturans have discovered the warplinks, a revolutionary technology that allows users to transport instantaneously from one link to another, even across vast interstellar distances.[^ref-2]
+The game is set two thousand years in the future. Gir Draxon, Overlord of the Arcturan Empire, has returned.[^ref-7] He is mobilizing a massive invasion of the Terran System, and the Terran Defense Fleet has been sent to destroy his invasion force as it assembles.[^ref-21]
 
-With Earth's fleet halfway across the galaxy, the enemy has already reached the Sol system and occupied Saturn's moon Titan, leaving Mars' humanity virtually defenseless.[^ref-2] Draxon has returned with a mysterious Warplink capable of funneling his Death Cruisers from distant worlds, putting the certain destruction of Terran Command within reach.[^ref-7]
+According to InterAction's preview, "Terran scientists have discovered the existence of Warplinks — mysterious phenomena allowing the transfer of matter between distant worlds." Draxon is using these Warplinks to gather his armada "in seven space-time quadrants near key Terran colonies and command centers."[^ref-21] With the Terran Fleet "flung halfway across the galaxy," the only thing standing between humanity and annihilation is a prototype assault vehicle code-named RAVEN.[^ref-21]
 
-Humanity's only hope lies in a courageous pilot who must take control of the Raven, an experimental prototype heavy assault vehicle armed with powerful weapons and equipped with an anti-gravity device that allows it to move at incredible speeds.[^ref-2] The player must traverse seven alien worlds, each filled with eerie landscapes and hostile forces, ultimately confronting Draxon himself on Arcturas to save Earth from total annihilation.[^ref-4]
+The player pilots the Raven through the Warplinks to eliminate Draxon's invasion force.[^ref-21] The journey crosses seven worlds and ends on the seventh, where the player must destroy Draxon's flagship to save Earth.[^ref-25]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Stellar 7: Draxon's Revenge is a first-person arcade-like tank simulation that places players directly in the cockpit of the Raven super-tank.[^ref-2] The Raven glides on an anti-gravity cushion, providing smooth and responsive movement across various alien terrains.[^ref-1] Controls are described as intuitive, with radar and energy indicators aiding survival throughout combat encounters.[^ref-1]
+Stellar 7: Draxon's Revenge is a first-person tank simulation played from the cockpit of the Raven.[^ref-5] The Raven's anti-gravity generator holds it half a meter above the ground, so the craft can glide over nearly any surface.[^ref-20] By default the 3DO controller's A button fires the cannon, B selects a power module, and C activates the selected power. The buttons can be remapped on the Preferences screen.[^ref-20]
 
-The tank's cockpit features a dashboard lined with buttons that activate various special powers and abilities.[^ref-8] Players navigate terrain using their handy radar display while tracking down alien craft and engaging in fast-paced combat.[^ref-8] Gauges on the right side of the screen indicate the amount of shields and power remaining, with the game ending when either resource runs out.[^ref-3]
+The cockpit display shows a radar screen, an energy level gauge with a low-energy warning light, a cannon-ready indicator, a targeting ring, the game score, the current planetary system, and a power module bank showing the active power and the uses left for each.[^ref-20] A Briefing screen offers rotatable views of Draxon's vehicles with narrated or written briefings.[^ref-20]
 
 ### Structure and Progression
 
-The game follows a level-based structure where players must complete a series of stages by defeating a number of enemy Arcturans and a Guardian boss to reveal the warplink that provides a gateway to the next world.[^ref-2] Each of the seven levels represents a different star system, matching the title's numerical designation.[^ref-3]
+On each world the player must destroy enough of Draxon's forces to bring out an end-stage boss, a robot called a Guardian. Beating the Guardian reveals a Warp Link to the next planet.[^ref-25] The manual advises players to "look for weaknesses in the Planetary Guardians."[^ref-20]
 
-The game offers three difficulty levels to accommodate different player skill levels:[^ref-1]
-- **Practice Mode:** Limited to the first world only
-- **Standard Mode:** Full game with regular difficulty
-- **Masochist Mode:** A punishing experience with significantly increased challenge
+The game offers three difficulty levels:[^ref-20][^ref-25]
+- **Practice:** The player never moves beyond the first level, targets are easy to hit and few points are earned
+- **Standard:** The default mode. Enemies are harder to kill, but players earn more points and can progress past the first level
+- **Difficult:** Described in the manual as "For masochists only". Targets are difficult to hit and harder to kill, and the highest scores are possible
 
 ### Star Systems
 
-The player travels through seven distinct worlds, each culminating in a showdown with a formidable Guardian boss:[^ref-1]
-- Each world features unique eerie landscapes and hostile forces
-- Defeating the Guardian boss unlocks a Warp Link to the next planet
+The player travels through seven worlds, each ending in a showdown with a Guardian:[^ref-25]
+- Each world has its own landscape and enemy forces
+- Defeating the Guardian reveals a Warp Link to the next planet
 - The final mission requires the destruction of Draxon's flagship to save Earth
 
-### Puzzles and Mechanics
+### Combat and Power Modules
 
-Combat involves navigating terrain and engaging in fast-paced battles with a variety of enemy craft, including some that are invisible or unidentified.[^ref-1] The player's tank is armed with lasers and upgradeable weapons, with the front-facing cannon having an unlimited supply of bullets that can fire up to two shots at a time.[^ref-3]
+Combat means navigating terrain and fighting a variety of enemy craft. GamePro counted 12 known Arcturan attack vehicles, plus unknown ones, some of which cannot be seen.[^ref-23][^ref-25] The manual's enemy files include the Sandsled, Laser Tank, Hovercraft, Prowler, Heavy Tank, Pulsar, Skimmer, Stalker, Seeker and Laser Battery.[^ref-20] The Raven's standard weapon is the Bi-Phasal Thunder Cannon, which must reload between shots.[^ref-20] Enemy tanks and turrets have the same firepower as the player, so terrain and strafing tactics are needed to survive.[^ref-5]
 
-**Power-Ups and Special Abilities:**[^ref-1]
-- **Super-Cannons:** Enhanced firepower for dealing with tougher enemies
-- **Cloaking Device:** Renders the tank invisible to enemies for approximately one minute
-- **Cloaking Detection:** Allows detection of enemies with cloaking devices
-- **RC Bombs:** Remote-controlled explosives for tactical advantage
-- **Ramming Ability:** Allows the player to physically collide with enemies
-- **Mines:** Deployable defensive weapons
+**Power Modules:** Some modules are installed at the start of a mission, depending on difficulty. The rest are released by destroying enemies of the same type in sequence, and the Raven collects them by driving into them. The Raven can hold at most three of any one module.[^ref-20] The manual lists seven:[^ref-20]
+- **Inviso Cloak Generator:** Makes the Raven invisible to enemy sensors, though enemies keep a fix on its last visible position and firing the cannon briefly reveals it
+- **Eel Shield:** Turns an enemy's shield back on itself, making ramming an effective attack; the Raven is "effectively indestructible" while it is active
+- **Super Cannon:** Fires a rapid volley for a limited time, with more than double the firepower of the standard cannon
+- **MP Thruster:** A short forward speed surge (it cannot be used in reverse)
+- **Cat's Eye:** Shows a computer-simulated image of cloaked vehicles on the main view screen
+- **RC Bomb:** A mine dropped from the rear that explodes when an enemy enters its twelve-meter scan radius; it cannot be set off by the Raven
+- **Jump Thruster:** Lifts the Raven several hundred feet for a few seconds; used straight after the MP Thruster, it lets the Raven "jump" over enemies or obstacles
 
-Power modules can be installed to increase efficiency, and the tank starts with enough power to cloak twice, with power slowly trickling away as time passes.[^ref-3] Enemy tanks and turrets have the same firepower as the player, requiring the use of terrain and strafing tactics to survive.[^ref-5]
+The Raven's energy reserve must never run out: at zero energy its shields fall, and a single hit on the unshielded hull destroys it.[^ref-20] The Raven cannot dock at a Fuel Bay while it is cloaked.[^ref-20]
 
 ## Reception
 
 ### Contemporary Reviews
 
-Stellar 7: Draxon's Revenge received mixed reviews upon release, with critics acknowledging its technical achievements while noting gameplay shortcomings. Entertainment Weekly gave the game a C- rating in their January 14, 1994 review, which was part of a larger assessment of the new 3DO console's launch library.[^ref-9] The review was published alongside coverage of other 3DO titles as critics evaluated whether the $699 CD device would become "the entertainment standard of the future—or just an expensive blip on the time line of faddish consumer electronics."[^ref-9]
+Stellar 7: Draxon's Revenge received mixed reviews on release. *Entertainment Weekly* gave it a B- in its January 14, 1994 roundup of the first 3DO games.[^ref-9] The magazine wrote that it "doesn't quite live up to its overblown opening narration (by Michael Dorn...)." It found the graphics and sound effects impressive but said the game was "hampered by a crucial control bug: It's nearly impossible to accelerate your ship and steer it at the same time."[^ref-9] The roundup asked whether the $699 3DO would become "the entertainment standard of the future—or just an expensive blip on the time line of faddish consumer electronics."[^ref-9]
 
-Edge magazine awarded the game a score of 5 out of 10, reflecting the lukewarm critical reception.[^ref-1] Critics noted that while Draxon's graphics were commendable with clean visuals and an exceptionally smooth frame-rate, the game was "saddled with a ridiculous name that makes people not want to play it."[^ref-8]
+*Computer Gaming World* (January 1994) had played Draxon's Revenge before its 3DO coverage went to press. The magazine said the first thing it noticed "was that there was terrific CD-audio coming out of the machine instead of the FM synthesized soundtracks we're used to hearing in computer games." The game made its writers "true believers" in the 3DO's texture-mapping, and a caption praised its "fantastic bit-mapped explosions."[^ref-22]
 
-One reviewer compared the experience to "Battlezone updated for the 90's," praising the ability to pilot a floating tank on colorful distant planets while blasting any polygons that move.[^ref-8] However, disappointment was expressed at the special powers, which were expected to elevate the game "to the next level" but instead felt underwhelming—the reviewer noted that "even the 'super cannon' is only a marginal improvement" and that the radar view had "a refreshing impression there is no at all inside" due to enemies appearing sparsely.[^ref-8]
+*Edge* scored the game 5 out of 10 in issue 5 (February 1994), calling it "a BattleZone clone, and not a particularly outstanding one at that." Edge concluded: "It's not that Stellar 7 is a bad game, it's just that it's so ordinary."[^ref-24] *GamePro* (February 1994) was far more positive, rating it 4.5 for graphics, 4.0 for sound, 5.0 for control and 5.0 for FunFactor. It called the controls "excellent" and closed: "Stellar 7 is stellar."[^ref-23]
 
-### Modern Assessment
+The *Los Angeles Times* reviewed the $59.95 3DO disc in September 1994: "This is one great game." Reviewer William Schiffmann said control was "very good," though lining up shots at speed was not always easy and the weapons could not be elevated to hit flying enemies.[^ref-25]
 
-Modern assessments have been somewhat more favorable, with players appreciating the game's historical significance as an early 3DO title. The game holds a Moby Score of 6.9, ranking it at #16,494 of approximately 27,600 games on MobyGames.[^ref-5] It also ranks #65 among 3DO games on the review ranking.[^ref-5]
+### Retrospective Assessment
+
+In 2007 The Video Game Critic gave the game a C+. He described it as "much like Battlezone (Atari 2600, 1983) updated for the 90's," with graphics that "are commendable, with clean visuals and an exceptionally smooth frame-rate." He joked that it was "saddled with a ridiculous name that makes people not want to play it!"[^ref-26] He found the special powers "disappointingly lame," adding that "even the 'super cannon' is only a marginal improvement over your default weapon." He concluded that it "could use some pizzazz, but it serves its purpose as a slick arcade shooter for the 3DO."[^ref-26]
 
 **Aggregate Scores:**
-- **MobyGames:** 6.9/10 (Moby Score), 68% critics average (7 reviews), 3.4/5 player average (1 rating)[^ref-10]
+- **MobyGames:** Moby Score 6.8, ranked #17,877 of 29.2K games; 68% critics average (7 ratings); 3.2/5 player average (2 ratings); #65 on 3DO by review ranking[^ref-5][^ref-10]
 - **VGChartz Community:** 7.8/10[^ref-11]
 - **GameFAQs User Rating:** "Great" (15 ratings), Difficulty: "Tough" (13 ratings), Length: "26 Hours" (9 estimates)[^ref-7]
-- **LaunchBox:** 15 players collected[^ref-5]
 
 ## Development
 
 ### Origins
 
-The original Stellar 7 was created by [[Damon Slye]] for the Apple II and Commodore 64 in 1983, drawing inspiration from the 1980s arcade game Battlezone.[^ref-3] The franchise expanded through multiple remakes and sequels: a 1990 remake for MS-DOS (later ported to Amiga in 1991 and Classic Mac OS in 1993), the prequel Arcticfox (1986), and Nova 9: The Return of Gir Draxon (1991).[^ref-3]
+The original Stellar 7 was created by [[Damon Slye]] for the Apple II and Commodore 64 in 1983. It drew on the 1980s arcade game Battlezone and was remade in the early 1990s for MS-DOS, Amiga and Classic Mac OS.[^ref-3] The manual for Draxon's Revenge credits Dynamix co-founder Damon Slye as having "initially conceived and produced" Stellar 7.[^ref-20] [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] (1991) preceded it in the series.[^ref-3]
 
-Draxon's Revenge was conceived as both a sequel and remake designed specifically to showcase the capabilities of the new 3DO Interactive Multiplayer system.[^ref-2] The 3DO technology, developed by The 3DO Company and backed financially by corporate giants including Time Warner, MCA, and AT&T, had been licensed to more than 500 software makers by the time of the game's release.[^ref-9]
+Dynamix built Draxon's Revenge for the 3DO Interactive Multiplayer. Entertainment Weekly reported that the 3DO technology, backed by Time Warner, MCA and AT&T, had been licensed to more than 500 software makers.[^ref-9][^ref-20]
 
 ### Production
 
-Development was led by brothers Dariusz and Piotr Lukaszuk, who served as directors, producers, and lead programmers on the project.[^ref-2] The game was written by David Selle, while Mark Peasley served as lead artist and art director.[^ref-2] Christopher Stevens composed the music score and created sound effects for the game.[^ref-5]
+According to the manual, the game was led by brothers Darek and Peter Lukaszuk, "who produced, directed and programmed Draxon's Revenge." MobyGames lists them as Dariusz and Piotr Lukaszuk.[^ref-20][^ref-28] Mark Peasley was art director, Dave Selle wrote the scripts, and Chris (Christopher) Stevens composed the musical score and created the sound effects.[^ref-20][^ref-28]
 
-The development team created polygon models, improved graphics, CG cinemas, and CD audio specifically designed to demonstrate what the 3DO hardware could achieve.[^ref-2] The game features enhanced texture-mapped polygonal graphics combined with 2D sprites for specific objects, along with full CD sound and music including the fully narrated cutscenes voiced by Michael Dorn.[^ref-5]
-
-**Development Credits:**[^ref-2][^ref-5]
-- **Producers:** Dariusz Lukaszuk, Piotr Lukaszuk
-- **Directors:** Dariusz Lukaszuk, Piotr Lukaszuk
-- **Lead Programmers:** Dariusz Lukaszuk, Piotr Lukaszuk
+**Development Credits:**[^ref-20][^ref-28]
+- **Producers, Directors, Programmers:** Dariusz (Darek) Lukaszuk, Piotr (Peter) Lukaszuk
 - **Art Director:** Mark Peasley
 - **Original Design:** Damon Slye
-- **Writer:** [[David Selle]]
+- **Scripts:** [[David Selle]]
 - **Movies:** Peter Lewis, Mark Peasley
 - **Production Artists:** Vance Naegle, Dariusz Lukaszuk, Tito Pagan
-- **Music Score:** Christopher Stevens
-- **Sound Effects:** Christopher Stevens
+- **Musical Score & Sound Effects:** Christopher Stevens
+- **Narration:** Michael Dorn, Sher Alltucker
+- **Technical Assistance:** Hugh Diedrichs, Dave McClurg
+- **Hardware Support:** Kurtis Engle
 
 ### Technical Achievements
 
-Stellar 7: Draxon's Revenge represented a significant technical advancement for the franchise, utilizing the 3DO's capabilities to deliver true 3D space gameplay with smooth control.[^ref-8] The game featured texture-mapped polygonal graphics that were considered commendable for the time, with clean visuals and an exceptionally smooth frame-rate.[^ref-8]
+InterAction's Ken Embery wrote that Dynamix's designers "used the machine's three Megs of memory to give players sure-footed control, millions of colors, killer CD-quality techno-rock music, and lightning fast in-game action."[^ref-21] The game uses texture-mapped polygonal graphics with 2D sprites for some objects and full CD audio, including narrated cutscenes.[^ref-5] Computer Gaming World praised its CD audio, its texture mapping and its bit-mapped explosions.[^ref-22]
 
-The CD format allowed for full digitized voice including narration by Michael Dorn, as well as complete CD audio for both music and sound effects.[^ref-4] The cinematic presentation was enhanced through CG movies created by Peter Lewis and Mark Peasley.[^ref-5]
+The CG movies were made by Peter Lewis and Mark Peasley, and the narration was voiced by Michael Dorn and Sher Alltucker.[^ref-20]
 
 ### Technical Specifications
 
-**3DO Version:**[^ref-5][^ref-8]
+**3DO Version:**[^ref-5][^ref-21]
 - **Graphics:** Texture-mapped polygonal graphics with 2D sprites
-- **Audio:** Full CD audio, digitized voice
+- **Audio:** Full CD audio, narrated cutscenes
 - **Media:** CD-ROM
 
 ## Voice Cast
 
 | Character | Voice Actor |
 |-----------|-------------|
-| Narrator | Michael Dorn[^ref-1] |
-| Narrator | Sher Alltucker[^ref-12] |
+| Narrator | Michael Dorn[^ref-20] |
+| Narrator | Sher Alltucker[^ref-20] |
 
-Voice direction details are not documented in available research, though the casting of Michael Dorn—famous for his role as Worf on Star Trek: The Next Generation—was clearly intended to attract science fiction fans to the title.[^ref-1]
+The manual credits both performers under "Narration" without naming roles.[^ref-20] Contemporary reviews noted Dorn's casting: GamePro pointed out "that's the voice of Michael Dorn, TV's Worf," while Entertainment Weekly called his opening narration "overblown."[^ref-9][^ref-23] No voice director is credited in the manual.[^ref-20]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Stellar 7: Draxon's Revenge was released as part of the early wave of 3DO software, a period when the platform was attempting to establish itself against the Super Nintendo, Sega Genesis, Game Boy, and Game Gear.[^ref-9] The 3DO's high price point of $699 limited its market penetration, and Draxon's Revenge remained a niche title primarily known among 3DO enthusiasts.[^ref-9]
+Stellar 7: Draxon's Revenge was part of the first wave of 3DO software. In the same roundup, Entertainment Weekly set the $699 system against the Super Nintendo, Sega Genesis, Game Boy and Game Gear.[^ref-9] No sales figures for the game have been found.
 
-The game was published in North America by Dynamix (a division of Sierra On-Line) and in Japan by T&E Soft, where it was released on March 26, 1994 under the title "Stellar 7: Draxon no Gyakushuu" (ステラ7 ドラクソンの逆襲).[^ref-8][^ref-13]
+The game was published in North America by Dynamix and in Japan by T&E Soft as "Stellar 7: Draxon no Gyakushuu."[^ref-7][^ref-27] MobyGames dates the Japanese release to March 26, 1994, at JPY 8,800, and VGChartz also gives March 26, 1994.[^ref-11][^ref-27] Wikipedia and Giant Bomb give March 20, 1994 instead.[^ref-1][^ref-4]
 
 ### Collections
 
-Stellar 7: Draxon's Revenge has not been included in any known compilation releases or digital storefronts. The game remains a 3DO exclusive and is currently sought after by collectors, with copies listed on retro gaming sites for around $69.99 CAD.[^ref-14] The game appears on the GOG Dreamlist, indicating community interest in a digital re-release, with 77 votes supporting its addition to the platform.[^ref-15]
+Stellar 7: Draxon's Revenge has not been included in any known compilation release or digital storefront, and it remains a 3DO exclusive. Retro North Games listed a copy at $69.99 CAD.[^ref-14] The game appears on the GOG Dreamlist with 77 votes for a re-release.[^ref-15]
 
 ### Fan Projects
 
@@ -170,13 +170,11 @@ No significant fan projects, remakes, or mods have been documented for Stellar 7
 
 ### Related Publications
 
-Documentation for Stellar 7: Draxon's Revenge includes a game manual that was included with retail copies.[^ref-6] The Sierra Chest maintains scans of the original packaging and content for archival purposes.[^ref-6]
+The game manual came with retail copies, and a scan is preserved on the Internet Archive.[^ref-20] The Sierra Chest keeps scans of the original packaging.[^ref-6] Sierra's InterAction magazine previewed the game in its Holiday 1993 issue.[^ref-21]
 
 ### Critical Perspective
 
-Stellar 7: Draxon's Revenge occupies an interesting position in gaming history as both a franchise continuation and a technological showcase for emerging hardware. While the Stellar 7 series itself was influential in establishing the sci-fi tank simulation genre—essentially serving as an evolution of the Battlezone formula—Draxon's Revenge arrived at an awkward moment in gaming history when the 3DO was struggling to find its audience against established competitors.[^ref-9]
-
-The game's design choices, including the significantly higher difficulty with only one life and no continues, represented an interesting departure from the more forgiving approach of earlier versions.[^ref-4] While this increased challenge appealed to hardcore players, it may have limited the game's accessibility to casual audiences. The celebrity voice casting of Michael Dorn demonstrated Dynamix's ambition to elevate the production values of the title, though reviews suggest the gameplay itself didn't quite match these lofty aspirations.[^ref-8] As a historical artifact, Draxon's Revenge remains a fascinating example of early 3DO development and the challenges of creating compelling software for new console hardware.
+Draxon's Revenge arrived as one of the first 3DO games, when critics were still asking whether the $699 machine would last.[^ref-9] Critics split on it. Edge found it an "easily forgettable experience," while GamePro thought it gave "the system's much-publicized graphic promise some teeth."[^ref-23][^ref-24] Entertainment Weekly and the Los Angeles Times disagreed over its controls.[^ref-9][^ref-25] Its presentation drew more praise. Entertainment Weekly found the graphics and sound effects impressive, Computer Gaming World praised the CD audio and explosions, and GamePro called the graphics "a knockout."[^ref-9][^ref-22][^ref-23]
 
 ## Downloads
 
@@ -188,6 +186,7 @@ The game's design choices, including the significantly higher difficulty with on
 - [MyAbandonware](https://www.myabandonware.com/game/stellar-7-draxon-s-revenge-edc) - Free download (3DO version)
 
 **Manuals & Extras**
+- [3DO Manual (Internet Archive)](https://archive.org/details/Stellar_7_Draxons_Revenge_1993_Dynamix_US)[^ref-20]
 - [Sierra Chest – Box Art](https://sierrachest.com/index.php?a=games&id=557&title=stellar-7-draxons-revenge&fld=box)[^ref-6]
 - [LaunchBox Games Database – Images](https://gamesdb.launchbox-app.com/games/images/4622-stellar-7-draxons-revenge)[^ref-13]
 
@@ -200,22 +199,26 @@ The game's design choices, including the significantly higher difficulty with on
 
 ## References
 
-[^ref-1]: [Wikipedia – Stellar 7: Draxon's Revenge](https://en.wikipedia.org/wiki/Stellar_7:_Draxon%27s_Revenge) – release dates, plot, gameplay details, Michael Dorn narration, review scores
-[^ref-2]: [Dynamix Fandom Wiki – Stellar 7: Draxon's Revenge](https://dynamix.fandom.com/wiki/Stellar_7:_Draxon%27s_Revenge) – development credits, story details, gameplay features, remake/sequel status
+[^ref-1]: [Wikipedia – Stellar 7: Draxon's Revenge](https://en.wikipedia.org/wiki/Stellar_7:_Draxon%27s_Revenge) – platform; Japanese date of March 20, 1994 (citing Famitsu)
 [^ref-3]: [Wikipedia – Stellar 7](https://en.wikipedia.org/wiki/Stellar_7) – series history, original game details, Battlezone inspiration, sequels list
-[^ref-4]: [Giant Bomb – Stellar 7: Draxon's Revenge](https://giantbomb.com/wiki/Games/Stellar_7_Draxons_Revenge) – difficulty details, features, CD audio information
-[^ref-5]: [MobyGames – Stellar 7: Draxon's Revenge](https://www.mobygames.com/game/28465/stellar-7-draxons-revenge/) – credits, ratings, technical details, publisher information
+[^ref-4]: [Giant Bomb – Stellar 7: Draxon's Revenge](https://giantbomb.com/wiki/Games/Stellar_7_Draxons_Revenge) – release date of 20 March 1994
+[^ref-5]: [MobyGames – Stellar 7: Draxon's Revenge](https://www.mobygames.com/game/28465/stellar-7-draxons-revenge/) – description, Moby Score 6.8 (#17,877 of 29.2K), #65 on 3DO, publishers
 [^ref-6]: [Sierra Chest – Stellar 7: Draxon's Revenge](https://sierrachest.com/index.php?a=games&id=557&title=stellar-7-draxons-revenge&fld=box) – packaging, platform information
-[^ref-7]: [GameFAQs – Stellar 7: Draxon's Revenge](https://gamefaqs.gamespot.com/3do/584506-stellar-7-draxons-revenge) – game description, user ratings, difficulty assessment
-[^ref-8]: [TV-Games.ru – Stellar 7: Draxon's Revenge](http://tv-games.ru/game/3do/stellar-7-draxons-revenge.html) – gameplay critique, technical assessment, Battlezone comparison
-[^ref-9]: [Entertainment Weekly – Stellar 7: Draxon's Revenge Review (January 14, 1994)](https://ew.com/article/1994/01/14/stellar-7-draxons-revenge/) – C- rating, 3DO launch context
-[^ref-10]: [MobyGames – Stellar 7: Draxon's Revenge Reviews](https://www.mobygames.com/game/28465/stellar-7-draxons-revenge/reviews/) – aggregate scores, review count
+[^ref-7]: [GameFAQs – Stellar 7: Draxon's Revenge](https://gamefaqs.gamespot.com/3do/584506-stellar-7-draxons-revenge) – game description, user ratings, difficulty assessment, Japanese title
+[^ref-9]: [Entertainment Weekly – Stellar 7: Draxon's Revenge (January 14, 1994)](https://ew.com/article/1994/01/14/stellar-7-draxons-revenge/) – B- grade ("Stellar 7: B-"), 3DO launch roundup
+[^ref-10]: [MobyGames – Stellar 7: Draxon's Revenge Reviews](https://www.mobygames.com/game/28465/stellar-7-draxons-revenge/reviews/) – critics average 68% (7 ratings), players 3.2/5 (2 ratings)
 [^ref-11]: [VGChartz – Stellar 7: Draxon's Revenge](https://www.vgchartz.com/game/22773/stellar-7-draxons-revenge/) – community rating, release information
-[^ref-12]: [IMDB – Stellar 7: Draxon's Revenge](https://www.imdb.com/title/tt19120902/) – cast information, voice actors
-[^ref-13]: [LaunchBox Games Database – Stellar 7: Draxon's Revenge](https://gamesdb.launchbox-app.com/games/images/4622-stellar-7-draxons-revenge) – images, release date, Japanese title
+[^ref-13]: [LaunchBox Games Database – Stellar 7: Draxon's Revenge](https://gamesdb.launchbox-app.com/games/images/4622-stellar-7-draxons-revenge) – box and screenshot images
 [^ref-14]: [Retro North Games – Stellar 7: Draxon's Revenge](https://retronorthgames.com/products/stellar-7-draxons-revenge) – retail pricing, availability
 [^ref-15]: [GOG Dreamlist – Stellar 7: Draxon's Revenge](https://www.gog.com/dreamlist/game/stellar-7-draxon-s-revenge-1993) – community votes, genre classification
 [^ref-16]: Old Games Download – Stellar 7: Draxon's Revenge (link removed: game-download site) – ROM availability
-[^ref-17]: [MoviePosterDB – Stellar 7: Draxon's Revenge](https://es-np.movieposterdb.com/stellar-7-draxons-revenge-i19120902) – release date, director credits
 [^ref-18]: [Play-Asia – Stellar 7: Draxon's Revenge](https://www.play-asia.com/stellar-7-draxons-revenge/13/702zwz) – T&E Soft publisher (Japan), game description
-[^ref-19]: [PriceCharting – Stellar 7: Draxon's Revenge](https://www.pricecharting.com/game/3do/stellar-7-draxon%27s-revenge) – market availability
+[^ref-20]: [Stellar 7: Draxon's Revenge 3DO manual (Dynamix, 1993), Internet Archive scan](https://archive.org/details/Stellar_7_Draxons_Revenge_1993_Dynamix_US) – pp.4–5 controls and difficulty levels, pp.6–7 Raven and cockpit, pp.8–9 Power Modules, pp.10–13 strategies and enemy vehicles, pp.18–19 credits
+[^ref-21]: [Ken Embery, "Draxon's Revenge Brings the 3DO System Roaring to Life!", InterAction Magazine Vol. VI No. 3, Holiday 1993, p.51 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_3_Holiday_1993_1993_Sierra_On-Line_US) – Warplinks story, "three Megs of memory", "CD-quality techno-rock music"
+[^ref-22]: [Computer Gaming World #114, January 1994, p.76 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_114) – 3DO hands-on: "terrific CD-audio", texture mapping, "fantastic bit-mapped explosions"
+[^ref-23]: [GamePro #55, February 1994, p.122 (Internet Archive)](https://archive.org/details/GamePro_Issue_055_February_1994/page/n123/mode/2up) – ProReview by Game Over Man: Graphics 4.5, Sound 4.0, Control 5.0, FunFactor 5.0; $59.95
+[^ref-24]: [Edge – Stellar 7 Draxon's Revenge review (E5, February 1994), Wayback Machine](https://web.archive.org/web/20130403123150/http://www.edge-online.com/review/stellar-7-draxons-revenge-review/) – score 5/10
+[^ref-25]: [William Schiffmann, "Video Game Review: Stellar 7: Draxon's Revenge", Los Angeles Times, September 2, 1994 (Wayback Machine)](https://web.archive.org/web/20211226193845/https://www.latimes.com/archives/la-xpm-1994-09-02-ls-33936-story.html) – $59.95; seven worlds, Guardians, Warp Link, three difficulty levels
+[^ref-26]: [The Video Game Critic – 3DO reviews (S), "Stellar 7: Draxon's Revenge", posted 2007-11-08](https://videogamecritic.com/3doss.htm) – grade C+
+[^ref-27]: [MobyGames – Stellar 7: Draxon's Revenge Releases](https://www.mobygames.com/game/28465/stellar-7-draxons-revenge/releases/) – US 1993 (Dynamix); Japan Mar 26, 1994 (T&E Soft, JPY 8,800)
+[^ref-28]: [MobyGames – Stellar 7: Draxon's Revenge 3DO Credits](https://www.mobygames.com/game/28465/stellar-7-draxons-revenge/credits/3do/) – full credits (44 people)
