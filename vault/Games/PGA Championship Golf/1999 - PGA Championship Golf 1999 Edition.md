@@ -32,7 +32,7 @@ Critics were generally positive, with an aggregate of about 80% on GameRankings.
 
 > [!info]- Game Info
 > **Developer:** [[Headgate Studios]][^ref-1][^ref-6]
-> **Designer:** [[Vance Cook]] (Designer, Director, Software Engineer)[^ref-6]
+> **Designer:** Vance Cook (Designer, Director, Software Engineer)[^ref-6]
 > **Publisher:** Sierra Sports ([[Sierra On-Line]])[^ref-1][^ref-6]
 > **Engine:** Custom (TrueSwing and TriClick swing models)[^ref-2]
 > **Platforms:** Windows 95/98[^ref-5]

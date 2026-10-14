@@ -22,12 +22,12 @@ tags: [2000s, hoyle, sierra]
 
 ## Overview
 
-Hoyle Board Games 2005 is a collection of classic board and table games for Windows, built by an internal [[Sierra Entertainment]] team and released at retail in the United States by [[Encore Software]].[^ref-8][^ref-25] The game's credits carry a "Copyright © 2004 Sierra Entertainment Inc." notice, while IGN dates the Encore release to July 13, 2005.[^ref-8][^ref-11] It continues the Hoyle series that Sierra On-Line began in 1989 with Hoyle's Official Book of Games.[^ref-3] The ESRB rated it E for Everyone (Comic Mischief), listing Vivendi Games as the publisher of record.[^ref-5]
+Hoyle Board Games 2005 is a collection of classic board and table games for Windows, built by an internal Sierra Entertainment team and released at retail in the United States by [[Encore Software]].[^ref-8][^ref-25] The game's credits carry a "Copyright © 2004 Sierra Entertainment Inc." notice, while IGN dates the Encore release to July 13, 2005.[^ref-8][^ref-11] It continues the Hoyle series that Sierra On-Line began in 1989 with Hoyle's Official Book of Games.[^ref-3] The ESRB rated it E for Everyone (Comic Mischief), listing Vivendi Games as the publisher of record.[^ref-5]
 
 The collection's games are Backgammon, Battling Ships, Bump'em, Chess, Chinese Checkers, Dominoes, DoubleCross, Master Match, Maximum Pool, Pachisi, Reversi, Rummy Squares, Triple Yacht, Wordox, Word Yacht and Zilch.[^ref-17][^ref-11] Encore's retail description advertises "18 of your favorite board games" (naming Checkers among them) plus "12 pool games included for free."[^ref-6] Sierra's product page promoted in-game tutorials, the "Hoyle Bucks" reward currency, and "animated opponents who talk back and speak their minds."[^ref-22]
 
 > [!info]- Game Info
-> **Developer:** [[Sierra Entertainment]][^ref-8][^ref-2]
+> **Developer:** Sierra Entertainment[^ref-8][^ref-2]
 > **Designer:** Ryan Spain[^ref-8]
 > **Publisher:** [[Encore Software]] (US retail)[^ref-25]; Vivendi Games (ESRB listing)[^ref-5]
 > **Engine:** Not documented; audio via Miles Sound System[^ref-8]

@@ -21,12 +21,12 @@ tags: [2010s, puzzle, ios, sierra, the-incredible-machine]
 
 ## Overview
 
-The Incredible Machine (2011) is a physics puzzle game for Apple's iOS devices, a new installment in the long-running series in which players complete Rube Goldberg-style contraptions to achieve simple goals[^ref-47]. It was developed by [[Playdom]] and published by Disney Mobile[^ref-47][^ref-48]; GamePro's E3 coverage and Metacritic credit Disney Interactive Studios as publisher[^ref-46][^ref-42]. The iPad version debuted on the App Store on June 8, 2011, during E3, priced at $2.99, and an iPhone version followed on July 1, 2011[^ref-46][^ref-48].
+The Incredible Machine (2011) is a physics puzzle game for Apple's iOS devices, a new installment in the long-running series in which players complete Rube Goldberg-style contraptions to achieve simple goals[^ref-47]. It was developed by Playdom and published by Disney Mobile[^ref-47][^ref-48]; GamePro's E3 coverage and Metacritic credit Disney Interactive Studios as publisher[^ref-46][^ref-42]. The iPad version debuted on the App Store on June 8, 2011, during E3, priced at $2.99, and an iPhone version followed on July 1, 2011[^ref-46][^ref-48].
 
 Series co-creator [[Jeff Tunnell]], who had joined Playdom in 2010, was involved in the project; TouchArcade described its puzzles as "designed, in part, by Jeff Tunnel"[^ref-49][^ref-50]. Critics received it as a solid but unremarkable return, frequently comparing it with Casey's Contraptions, which had reached iOS a month earlier[^ref-42][^ref-50]. The game was later removed from storefronts and has largely been forgotten[^ref-52].
 
 > [!info]- Game Info
-> **Developer:** [[Playdom]][^ref-47]
+> **Developer:** Playdom[^ref-47]
 > **Designer:** [[Jeff Tunnell]] (in part)[^ref-50]
 > **Publisher:** Disney Mobile[^ref-47]
 > **Platforms:** iPad, iPhone[^ref-48]

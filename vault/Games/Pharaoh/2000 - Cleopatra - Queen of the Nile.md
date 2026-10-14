@@ -25,8 +25,8 @@ tags: [2000s, pharaoh, sierra]
 The expansion requires the base game Pharaoh to be present on the system[^ref-6]. It holds a Metacritic score of 77 from 13 critics[^ref-18], and GameSpot's Ron Dulin called it "both more difficult and more complex than Pharaoh, but it also makes the game seem new and fresh"[^ref-31].
 
 > [!info]- Game Info
-> **Developer:** [[BreakAway Games]], [[Impressions Games]][^ref-1]
-> **Designer:** [[Charles Kibler]][^ref-28]
+> **Developer:** BreakAway Games, [[Impressions Games]][^ref-1]
+> **Designer:** Charles Kibler[^ref-28]
 > **Producer:** Ed Beach[^ref-28]
 > **Publisher:** Sierra Entertainment[^ref-5]
 > **Engine:** Pharaoh Engine (expansion to Pharaoh)[^ref-6]
