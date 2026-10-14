@@ -76,7 +76,7 @@ Synergistic's *Wilderness Campaign* is credited with inspiring the gameplay of t
 ### In This Archive (Sierra-Published)
 
 - 1993 — The Beverly Hillbillies — Adventure
-- **1995** — [[1995 - Air Cavalry|Air Cavalry]] — Genre: Flight Simulation
+- **1995** — [[1995 - Air Cavalry|Air Cavalry]] — Genre: Flight Simulation (published by GameTek/Cybersoft, before Sierra acquired Synergistic)
 - **1995** — [[1995 - Thexder 95|Thexder 95]] — Genre: Action
 - **1996** — [[1996 - Birthright - The Gorgon's Alliance|Birthright: The Gorgon's Alliance]] — Genre: Strategy/RPG
 - **1997** — [[1997 - Diablo - Hellfire|Diablo: Hellfire]] — Genre: Action RPG

@@ -2,168 +2,154 @@
 title: Air Cavalry
 release_year: 1995
 developer: Synergistic Software
-designer: [Robert C. Clardy]
+designer: []
 publisher: Cybersoft
 genre: Flight Simulation
 platforms: [Super Nintendo Entertainment System]
 series: ''
-engine: Mode 7
-protagonist: Helicopter Pilot
-sierra_lineage: Sierra Published
-last_updated: '2026-05-11'
-description: Air Cavalry is a helicopter combat flight simulation game developed by
-  Synergistic Software and published by Cybersoft for the Super Nintendo Entertainment...
+engine: null
+protagonist: Unnamed helicopter pilot
+sierra_lineage: Sierra Label (Synergistic)
+composer: [Christopher Barker]
+last_updated: '2026-10-14'
+description: Air Cavalry is a 1995 helicopter combat game for the Super Nintendo, developed
+  by Synergistic Software before Sierra bought the studio and published by Cybersoft
+  (GameTek).
 tags: [1990s, sierra, simulation]
 ---
 # Air Cavalry
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 ## Overview
 
-Air Cavalry is a helicopter combat flight simulation game developed by [[Synergistic Software]] and published by Cybersoft for the Super Nintendo Entertainment System in 1995[^ref-1]. The game utilizes the SNES's Mode 7 graphics capabilities to render a third-person perspective helicopter war experience, allowing one or two players to control high-tech helicopter gunships across multiple theaters of operation[^ref-2]. Players fly above varied terrain including deserts, oceans, and jungles while accomplishing missions ranging from reconnaissance to full assault operations[^ref-3].
+Air Cavalry is a helicopter combat game for the Super Nintendo Entertainment System. [[Synergistic Software]] developed it, and Cybersoft released it in North America in June 1995[^ref-1][^ref-15]. American magazines of the day named GameTek as the publisher, and the game's credits list the publisher's staff under "Gametek (Cybersoft)"[^ref-22][^ref-23][^ref-24][^ref-26]. GameTek released the game in Europe[^ref-5]. One or two players fly helicopter gunships over desert, ocean and jungle on missions that range from reconnaissance to full assault[^ref-2].
 
-The game features multiple helicopter types with distinct characteristics, including the OH-6 Defender, UH-60 Black Hawk, AH-64H Apache, and the fictional AH-94[^ref-4]. Air Cavalry presents three distinct campaign areas—the Middle East, Indonesia, and Central America—each offering six to eight missions of increasing danger and complexity[^ref-1]. The game also includes competitive and cooperative two-player split-screen modes, making it one of the more ambitious helicopter simulators on the SNES platform[^ref-2].
+The game's own description lists four aircraft. The OH-6 Defender flies reconnaissance, the UH-60 Black Hawk handles transport and rescue, and attack missions use the AH-64H Apache or a futuristic AH-94[^ref-2][^ref-4]. Next Generation called the experimental craft the AH-98 Valkyrie[^ref-23]. There are three theaters of operations, each with six to eight missions, plus a training mission[^ref-2]. MobyGames and GamePro name the theaters as the Middle East, Indonesia and Central America[^ref-1][^ref-25]. Game Players called the third one South America[^ref-24]. Two players can fly together or against each other in split screen[^ref-1].
 
-Despite its technical ambitions, Air Cavalry received mixed reviews from contemporary gaming publications, with critics praising its presentation while criticizing repetitive gameplay and punishing difficulty[^ref-5]. The game has developed a modest following among retro gaming enthusiasts who appreciate its unique approach to helicopter combat on the 16-bit console[^ref-6].[^ref-18][^ref-19][^ref-20]
+Reviews in 1995 were mixed. GamePro liked the game, but Electronic Gaming Monthly, Next Generation and Game Players complained about short, repetitive missions and enemy fire that was hard to avoid[^ref-22][^ref-23][^ref-24][^ref-25]. Synergistic made Air Cavalry before Sierra On-Line bought the studio in 1996, which is why the game is in this archive[^ref-27].
 
 > [!info]- Game Info
 > **Developer:** [[Synergistic Software]][^ref-1]
-> **Director:** Robert C. Clardy[^ref-1]
-> **Publisher:** Cybersoft (NA), GameTek (EU)[^ref-5]
-> **Engine:** Mode 7[^ref-2]
+> **Director:** Robert C. Clardy[^ref-26]
+> **Publisher:** Cybersoft (NA; magazines credited GameTek), GameTek (EU)[^ref-1][^ref-5][^ref-22]
+> **Engine:** Unknown (uses the SNES's Mode 7 graphics mode)[^ref-1]
 > **Platforms:** Super Nintendo Entertainment System[^ref-1]
-> **Release Year:** 1995
-> **Protagonist:** Air Cavalry Division Pilot
-> **Sierra Lineage:** Affiliated Developer
-> **Designer:** Robert C. Clardy
+> **Release Year:** 1995[^ref-1]
+> **Protagonist:** Unnamed helicopter pilot
+> **Sierra Lineage:** Sierra Label (Synergistic). This is a pre-acquisition title; Sierra acquired Synergistic in 1996.[^ref-27]
+> **Composer:** Christopher Barker[^ref-26]
 
 ## Story Summary
 
-Air Cavalry places players in the role of a helicopter pilot serving in the Air Cavalry division, an elite military unit specializing in airborne combat operations[^ref-2]. The narrative framework is minimal, focusing instead on mission-based objectives across three distinct global hotspots where American military intervention has been deployed[^ref-1].
+Air Cavalry has almost no story. MobyGames describes it as "a standard helicopter war-game, featuring the Air Cavalry division"[^ref-1]. GamePro summed up the premise in one line: hostile forces have "swarmed into three of the world's hot spots", and the player must cool them off[^ref-25]. Its review opened with a nod to *Apocalypse Now*[^ref-25].
 
-In the Middle East theater, players engage in desert warfare operations, navigating sand-swept terrain while completing reconnaissance and assault missions against hostile forces[^ref-3]. The Indonesian campaign shifts the action to jungle environments, where dense vegetation and maritime operations present unique tactical challenges[^ref-4]. Finally, the Central American operations feature a mix of jungle and coastal combat scenarios[^ref-1].
-
-The game's title screen prominently features "Ride of the Valkyries," Wagner's famous orchestral piece closely associated with helicopter warfare through the film *Apocalypse Now*, establishing the game's military aviation atmosphere from the outset[^ref-7]. While the narrative lacks the depth of story-driven games, the mission briefings provide context for each operation, tasking players with objectives that escalate in complexity as they progress through each theater[^ref-3].
+The player picks a theater and flies its missions one by one. Game Players complained that the missions "never lead anywhere" and that the campaigns have no overall goal[^ref-24]. The title screen plays "Ride of the Valkyries"[^ref-7][^ref-25]. After a successful mission the helicopter flies past a giant flag, which one blogger called "the traditional post-mission giant flag flyby"[^ref-7].
 
 ## Gameplay
 
 ### Interface and Controls
 
-Air Cavalry is played from a third-person perspective using the SNES's Mode 7 graphics engine, with the cockpit instrumentation displayed in a split-screen format alongside the main view[^ref-2]. The game features what one reviewer described as "realistic camera angles with lifelike cockpits" for each helicopter type, with different combat screens tailored to the Apache, Black Hawk, and Iroquois helicopters[^ref-8].
+The game is played in a third-person view using Mode 7 graphics, with the cockpit shown in a split screen below the main view[^ref-1]. GamePro noted that the gauges "take up half the screen", which limits the view in one-player games[^ref-25].
 
-The control scheme provides full three-dimensional flight capability, allowing players to maneuver their helicopters in any direction across the mission area[^ref-7]. Weapons are aimed using an auto-targeting system, though the gun will only fire upon enemies when the reticle successfully locks on[^ref-7]. Players must manage limited ammunition supplies, particularly for rockets, which are restricted to approximately 12 per mission[^ref-7].
+The player can fly anywhere in the mission area, and the gun aims itself at targets as long as they stay on screen[^ref-7]. GamePro found that the choppers "aren't that fast, and they don't fly very high", though they can fly in reverse, and they handle worse as they take damage[^ref-25]. Game Players said they "handle like a flying brick"[^ref-24]. Ammunition is limited. In the first mission one player had only 12 rockets[^ref-7].
 
-A radar system helps players track enemy positions and plan their approach to targets[^ref-9]. One gameplay tip suggests flying at an altitude of 0016, which reportedly causes most ground-based AI enemies to stop firing, though helicopters and occasional tanks remain active threats[^ref-10].
+There is no map in the cockpit. The battlefield is shown only during the briefing, so, as Game Players put it, "most of the time you fly blind"[^ref-24]. A radar marks targets as boxes[^ref-7]. One EGM reviewer added that the lack of "chaff or radar jammers to ward off enemy attacks just makes it that much harder"[^ref-22]. A tip contributed by a GameSpot user says that flying at an altitude of 0016 stops most enemies firing, except enemy helicopters and the occasional tank[^ref-10].
 
 ### Structure and Progression
 
-The game offers three distinct theaters of operations, each containing six to eight missions of increasing difficulty[^ref-1]:
+The game has three theaters of operations, each with six to eight missions of increasing danger and complexity[^ref-2]:
 
-- **Middle East Campaign:** Desert warfare featuring sand terrain and anti-armor operations
-- **Indonesia Campaign:** Jungle and maritime missions with dense vegetation challenges
-- **Central America Campaign:** Mixed terrain operations combining jungle and coastal environments
+- **Middle East**
+- **Indonesia**
+- **Central America** (South America in Game Players' review)[^ref-1][^ref-24][^ref-25]
 
-Players can also access a training mission to familiarize themselves with flight controls and weapons systems before entering combat operations[^ref-1]. Mission types include reconnaissance, transport, rescue, attack, and full assault operations[^ref-4].
+A training mission lets players practice first[^ref-2]. Mission types include reconnaissance, transport, rescue, attack and full assault[^ref-2]. Targets include tanks, anti-aircraft batteries and supply trucks[^ref-25]. Next Generation noted that rescue missions in the Black Hawk play much like strike missions, except that "every once in a while you have to land on the ground"[^ref-23].
 
 ### Puzzles and Mechanics
 
-Air Cavalry emphasizes combat simulation over puzzle-solving, with gameplay centered on completing military objectives using appropriate tactics and weapons[^ref-1]. Different helicopter types serve specialized roles—some focused on transport and rescue missions, others optimized for heavy assault operations[^ref-3].
-
-The game features realistic weaponry payloads that vary by aircraft type[^ref-8]. Armed helicopters carry anti-tank munitions, cannons, and rockets, requiring players to select appropriate loadouts for each mission type[^ref-11]. The challenge lies in balancing aggressive tactics with ammunition conservation, as the limited supply of rockets and the accuracy of enemy fire create significant tactical pressure[^ref-5].
+Air Cavalry has no puzzles. Each helicopter carries "its own array of missiles and guns"[^ref-25]. GamePro advised players not to "waste missiles on enemy trucks when simple gunfire will destroy them"[^ref-25]. Ammunition runs short quickly: one EGM reviewer wrote that "you run out of ammunition too fast"[^ref-22].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Air Cavalry received mixed reviews upon its 1995 release, with critics divided on whether its technical achievements compensated for gameplay limitations.
+Air Cavalry received mixed reviews on its release in 1995.
 
-**Electronic Gaming Monthly** awarded the game a score of 5.875/10, with reviewers Ed Semrad, Danyon Carpenter, Al Manuel, and Ken Williams noting that "the low supply of ammunition and the unfailing accuracy of enemy fire make the game unpleasantly difficult, and that the Mode 7 sequences look poor"[^ref-5]. The publication described the game as "decent" overall and suggested that "enthusiasts of military games would find it very appealing"[^ref-5].
+**Electronic Gaming Monthly** (#71, June 1995) gave it four Review Crew scores that average 5.875 out of 10[^ref-5][^ref-22]. One reviewer had "a lot of mixed feelings", writing that "SAMs and tanks have uncanny accuracy—something my weapons didn't have"[^ref-22]. Another called it "a decent game with a pretty cool military twist"[^ref-22]. A third found it "just way too easy to get shot", with a "nifty two-player game" as "the only saving grace"[^ref-22]. The magazine named "Two-Player Mode" as the best feature and "Instant hits" as the worst[^ref-22].
 
-**Computer and Video Games** gave Air Cavalry a score of 47/100, with reviewer Rad Automatic providing a critical assessment of the game's execution[^ref-5].
+**GamePro** (#72, July 1995) was the most positive. Its reviewer, Captain Squideo, gave 3.5 out of 5 for graphics, sound, control and fun factor[^ref-25]. He wrote: "Easy targeting and non-moving enemies make this a better game for rookies than veterans. Whatever your rank, if you're looking for a solid shooter, Air Cavalry comes to the rescue."[^ref-25]
 
-**Game Players** rated the game at 52%, with Jeff Lundrigan's July 1995 review providing measured criticism[^ref-5].
+**Next Generation** (#5, May 1995) gave it two stars out of five. The magazine compared it with *Thunderstrike* and the *Jungle Strike* series and wrote that "Success is as much a matter of luck as skill, which makes it frustrating as well as overly repetitive"[^ref-23].
 
-**GamePro** offered a more positive perspective, stating that "Easy targeting and non-moving enemies makes this a better game for rookies than veterans" but concluded that "if you're looking for a solid shooter, Air Cavalry comes to the rescue"[^ref-5].
-
-**Next Generation** in May 1995 was less enthusiastic, observing that "Success is as much of luck as skill, which makes it frustrating as well as overly repetitive"[^ref-5].
+**Game Players** (#73, July 1995) rated it 52%[^ref-24]. The magazine said the choppers "handle like a flying brick" and that the two-player mode made it "a little more exciting", but concluded that "overall it's never better than average"[^ref-24].
 
 ### Modern Assessment
 
-Modern retrospectives have maintained the mixed consensus established at release. Freebie.games awarded Air Cavalry a modest 5/10, noting that "Despite the latent potential as a combat flight simulator, Air Cavalry earns a modest rating of 5/10. The confluence of repetitive gameplay, formidable mission challenges, and a lack of excitement relegates it to a choice reserved for those expressly seeking a specific gaming experience"[^ref-6].
+In a 2012 blog playthrough, Super Adventures in Gaming wrote: "this isn't a very good game, and it's boring the hell out of me"[^ref-7]. The blogger found it hard to tell whether targets had been destroyed and could not work out how to avoid taking hits[^ref-7].
 
-The same reviewer praised certain technical elements, observing that "Air Cavalry invites players to soar through dynamic 3D landscapes, engaging in thrilling two-player battles, delivering a nostalgic flight experience with commendable SNES graphics"[^ref-6]. The sound design was noted as distinctive, with "the sound landscape transforms into a cacophony of explosions, gunfire, helicopter rotor noise, and the incessant cry of 'MAYDAY!!!' piercing through the auditory canvas"[^ref-6].
-
-An informal blog review from Super Adventures in Gaming described it as "not a very good game" that was "boring the hell out of me," citing confusion over damage mechanics and limited play areas as significant issues[^ref-7].[^ref-21]
-
-**Aggregate Scores:**
-- **MobyGames:** 60% (based on 5 critic ratings)[^ref-1]
-- **MobyGames User Score:** 6.0[^ref-1]
-- **GameSpot User Score:** 6.2[^ref-10]
-- **eBay Seller Rating:** 5.0/5.0[^ref-12]
-- **Amazon Customer Reviews:** 5.0/5 stars[^ref-13]
+**Aggregate Scores** (as of October 2026):
+- **MobyGames:** Moby Score 6.0; critics 60% (5 ratings); players 2.3 out of 5 (6 ratings)[^ref-1]
+- **GameSpot User Average:** 6.2[^ref-10]
 
 ## Development
 
 ### Origins
 
-Air Cavalry was developed by [[Synergistic Software]], a studio based in the Pacific Northwest with experience creating simulation and strategy titles[^ref-1]. The company, also known as Northwest Synergistic Software, was founded and directed by Robert C. Clardy, who served as the game's director[^ref-1].
-
-The game aimed to bring helicopter combat simulation to the SNES platform, a genre more commonly associated with personal computers[^ref-3]. The development team leveraged the console's Mode 7 graphics capability to create pseudo-3D environments, an approach that was technically ambitious for 16-bit hardware but came with inherent limitations[^ref-2].
+Synergistic Software was a Seattle-based studio that Robert "Bob" Clardy co-founded with his wife, Ann[^ref-27]. Alongside its own games, the studio took contract work to pay the bills[^ref-27]. Air Cavalry's credits split the work between a Synergistic team, with Clardy as director, and production staff at "Gametek (Cybersoft)"[^ref-26].
 
 ### Production
 
-The development team faced the challenge of creating a flight simulation experience within the constraints of SNES hardware[^ref-5]. The game's 3D graphics, while considered impressive for the platform at the time, were also criticized for their execution, with EGM reviewers noting that "the Mode 7 sequences look poor"[^ref-5].
+At Synergistic, Chris Phillips, Alan B. Clark and Steve Coleman programmed the game. Jeremy Jones, Kirt Lemons, Mike McMillen, Michael Ormsby and Linda Westerfield made the art[^ref-26]. On the publisher's side, William B. McCormick produced the game and Steve Curran was art director[^ref-26].
 
-The programming team, led by Chris Phillips, Alan B. Clark, and Steve Coleman, implemented the dual Mode 7 system that allowed for split-screen multiplayer functionality[^ref-1]. The art direction, overseen by Steve Curran, employed a team including Jeremy Jones, Kirt Lemons, Mike McMillen, Michael Ormsby, and Linda Westerfield[^ref-1].
+**Development Credits:**[^ref-26]
 
-**Development Credits:**[^ref-1]
+*Synergistic Software*
 - **Director:** Robert C. Clardy
-- **Producer:** William B. McCormick
-- **Production Manager:** Sherry Kross
 - **Programmers:** Chris Phillips, Alan B. Clark, Steve Coleman
-- **Art Director:** Steve Curran
-- **Artists:** Jeremy Jones, Kirt Lemons, Mike McMillen, Michael Ormsby, Linda Westerfield
-- **Illustration:** I. Buski
+- **Art:** Jeremy Jones, Kirt Lemons, Mike McMillen, Michael Ormsby, Linda Westerfield
 - **Original Music:** Christopher Barker
 - **Sound Effects:** Craig Utterback
-- **Quality Assurance:** Derek Clardy, Erin Macdurdry, Robert Caraballo, Andy Dorsch, Tony Puxes, Ben Kendricks, Bobby King, Bernard Whang
+- **Quality Assurance:** Derek Clardy, Erin Macdurdry, Mike McMillen, Michael Ormsby (as Mike Ormsby)
+
+*Gametek (Cybersoft)*
+- **Producer:** William B. McCormick
+- **Art Director:** Steve Curran
+- **Production Manager:** Sherry Kross
+- **Illustration:** I. Buski
+- **Quality Assurance:** Robert Caraballo, Andy Dorsch, Tony Puxes, Ben Kendricks, Bobby King, Bernard Whang
 
 ### Technical Achievements
 
-Air Cavalry's most notable technical achievement was its implementation of dual Mode 7 graphics for simultaneous two-player action[^ref-3]. This allowed both players to control separate helicopters with independent viewpoints, a relatively rare feature for SNES flight games[^ref-2].
-
-The game featured distinct helicopter cockpit designs for each aircraft type, adding visual variety to the experience[^ref-8]. The terrain rendering system created pseudo-3D landscapes across desert, ocean, and jungle environments[^ref-6].
+The game's description calls it a "dual mode-7 game" for one or two players[^ref-2]. In two-player mode each player gets half of the screen[^ref-1]. Critics disagreed about the graphics. GamePro wrote that "Mode 7 rotation smoothly spins the landscapes underneath you"[^ref-25]. One EGM reviewer said he did not like "the pixilized Mode 7 effects"[^ref-22].
 
 ### Technical Specifications
 
 **SNES Cartridge:**[^ref-14]
-- **ROM Size:** 8 Mb
+- **ROM Size:** 8 Mb (Next Generation also listed 8 Mbit; GamePro's spec box said 16 megs)[^ref-23][^ref-25]
 - **ROM Speed:** 200ns (SlowROM)
 - **ROM Bank:** LoROM
 - **ROM Type:** Normal
-- **SRAM Size:** 0 Kb
+- **SRAM Size:** 0 Kb (no save feature)[^ref-22]
 - **Product Code (USA):** SNS-ACCE-USA
-- **Product Code (EUR):** SNSP-ACCP-EUR
+- **Product Code (EUR):** SNSP-ACCP-EUR[^ref-4]
 
 **Audio:**
-- Sound design featuring explosions, gunfire, and helicopter rotor noise[^ref-6]
-- "Ride of the Valkyries" featured on title screen[^ref-7]
-- ESRB Content Rating: Kids to Adults (Animated Violence)[^ref-10]
+- "Ride of the Valkyries" on the title screen, plus pilot voices[^ref-7][^ref-25]
+- A soundtrack rip lists the tracks "Main Theme", "Good Luck and Good Hunting" and "Mission Failed"[^ref-3]
+- ESRB rating: Kids to Adults (Animated Violence)[^ref-10][^ref-25]
 
 ### Technical Issues
 
-Several gameplay issues were noted by reviewers and players. The damage system was described as confusing, making it difficult to assess the helicopter's condition during combat[^ref-7]. Enemy fire was characterized as having "unfailing accuracy," creating frustrating difficulty spikes[^ref-5]. The limited ammunition supply, particularly the restriction to approximately 12 rockets per mission, compounded the challenge[^ref-7].
-
-One notable quirk discovered by players allows for near-invulnerability: flying at altitude 0016 causes most ground-based AI to cease firing, though enemy helicopters and occasional tanks remain threats[^ref-10].
+Reviewers and players reported several problems. Damage was hard to read: one blogger found his engine "shredded" and could not tell which targets he had destroyed[^ref-7]. There is no in-flight map[^ref-24]. Ammunition runs out quickly, and enemy fire is very accurate[^ref-22].
 
 ### Version History
 
 | Version | Date | Platform | Region | Notes |
 |---------|------|----------|--------|-------|
-| 1.0 | June 1995 | SNES | North America | Initial release[^ref-5] |
-| 1.0 | 1995 | SNES | Europe | PAL release by GameTek[^ref-5] |
-| Digital | 2023 | Antstream | Global | Streaming re-release[^ref-15] |
+| 1.0 | June 1995 | SNES | North America | Cybersoft release[^ref-1][^ref-15]; Next Generation listed a May release date[^ref-23] |
+| 1.0 | 1995 | SNES | Europe | PAL release by GameTek[^ref-5][^ref-18] |
+| Digital | April 13, 2023 | Antstream | Global | Streaming re-release[^ref-15] |
 
 **ROM Checksums:**[^ref-14]
 
@@ -174,46 +160,35 @@ One notable quirk discovered by players allows for near-invulnerability: flying 
 
 ### Easter Eggs and Trivia
 
-- The title screen features "Ride of the Valkyries," Wagner's orchestral piece famously associated with helicopter warfare through Francis Ford Coppola's *Apocalypse Now*[^ref-7]
-- The game initially appears to be a top-down shoot 'em up based on the title screen presentation, but transitions to third-person helicopter gameplay[^ref-7]
-- Despite promising content marketing suggesting "flying tanks," the game exclusively features helicopters[^ref-6]
+- The title screen plays Wagner's "Ride of the Valkyries"[^ref-7][^ref-25]. GamePro's review opened with a nod to *Apocalypse Now*, the film that tied the piece to helicopter warfare[^ref-25]
+- One blogger thought from the title screen that it would be an overhead shoot 'em up, but it turned out to be a third-person helicopter game[^ref-7]
+- EGM's "Time To Complete" verdict was "Is it possible?"[^ref-22]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Air Cavalry did not achieve significant commercial success, with no reported sales figures available in contemporary or retrospective coverage[^ref-1]. The game was published by Cybersoft in North America and GameTek in European territories, suggesting regional distribution agreements typical of mid-tier SNES releases[^ref-5].
-
-The current secondary market values the game at approximately $140 for used copies on eBay, indicating modest collector interest[^ref-1].
+No sales figures for Air Cavalry have been found. Cybersoft published it in North America and GameTek in Europe[^ref-1][^ref-5].
 
 ### Collections
 
-Air Cavalry has been made available through the Antstream streaming service as of 2023, providing modern players access to the game without requiring original hardware[^ref-15].
+Air Cavalry was released on the Antstream streaming service on April 13, 2023[^ref-15].
 
 ### Related Titles
 
-Synergistic Software's helicopter simulation work on Air Cavalry represents a departure from their typical strategy and role-playing game development. The game should not be confused with:
+Air Cavalry should not be confused with:
 
 - **Koukuu Kihei Monogatari: The Legend of Air Cavalry** (1988) - An unrelated SNK arcade shoot 'em up also known as Chopper I in Western markets[^ref-16]
 - **Air Cavalry (iOS)** (2014) - A mobile helicopter simulator developed by iTechGen, unrelated to the SNES title[^ref-17]
 
 ### Critical Perspective
 
-Air Cavalry occupies a curious niche in SNES history as one of the few dedicated helicopter combat simulators on the platform. While the game attempted to bring PC-style flight simulation to console audiences, it struggled to overcome hardware limitations and design decisions that frustrated contemporary reviewers[^ref-5].
-
-The game's mixed reception reflects the broader challenge of adapting simulation genres to 16-bit consoles. The ambitious dual Mode 7 implementation for two-player support demonstrated technical creativity, but the repetitive mission structure and punishing difficulty undermined the experience[^ref-6]. Modern retrospectives have been similarly divided, acknowledging the game's nostalgic appeal while recognizing its fundamental gameplay limitations[^ref-7].
-
-Air Cavalry's legacy is primarily as a curiosity for collectors and retro gaming enthusiasts rather than as a landmark title in either the helicopter simulation or SNES library[^ref-1]. Its availability on streaming services like Antstream ensures continued accessibility for players interested in exploring this unconventional 16-bit offering[^ref-15].
+Game Players noted that there were "not many other chopper sims" on the SNES[^ref-24]. Critics compared Air Cavalry with the *Strike* series and *Thunderstrike*. GamePro found it simpler than "the more strategic Strike games" but still fun, while Next Generation felt its missions were shorter and less varied than either[^ref-23][^ref-25].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
-- Antstream (Streaming service) – 2023 release[^ref-15]
-
-**Secondary Market**
-- eBay listings available (approximately $140 used)[^ref-1]
-- Amazon third-party sellers[^ref-13]
+- Antstream (streaming service), available since April 13, 2023[^ref-15]
 
 ## See Also
 
@@ -245,24 +220,21 @@ Air Cavalry's legacy is primarily as a curiosity for collectors and retro gaming
 
 ## References
 
-[^ref-1]: [MobyGames – Air Cavalry](https://www.mobygames.com/game/10134/air-cavalry/) – credits, ratings, technical specifications, release information
-[^ref-2]: [LaunchBox Games Database – Air Cavalry](https://gamesdb.launchbox-app.com/games/details/258-air-cavalry) – game description, dual mode-7 specifications, release date
-[^ref-3]: [KHInsider – Air Cavalry Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/air-cavalry-1995-snes) – gameplay description, developer/publisher information
-[^ref-4]: [Retroplay – Air Cavalry](https://www.retroplay.com/product.html/air-cavalry) – helicopter types, mission types, gameplay features
-[^ref-5]: [Wikipedia – Air Cavalry (video game)](https://en.wikipedia.org/wiki/Air_Cavalry_(video_game)) – review scores, critical reception, publication dates
-[^ref-6]: [Freebie.games – Air Cavalry](https://freebie.games/games/air-cavalry/) – modern review, gameplay assessment, audio description
-[^ref-7]: [Super Adventures in Gaming – Air Cavalry](http://superadventuresingaming.blogspot.com/2012/01/air-cavalry-snes.html) – gameplay impressions, title screen music, control mechanics
-[^ref-8]: [148Apps – Air Cavalry Review](https://148apps.com/reviews/air-cavalry-review) – cockpit descriptions, helicopter variety (Note: iOS version review)
-[^ref-9]: [Console Classics – Air Cavalry](https://console-classics.com/listing/air-cavalry/) – cheat codes, gameplay tips, campaign areas
-[^ref-10]: [GameSpot – Air Cavalry Cheats](https://www.gamespot.com/games/air-cavalry/cheats/) – gameplay tips, user score, content rating
-[^ref-11]: [Real Mobile Simulation](http://www.realmobilesimulation.com/) – weapons systems description (Note: iOS version information)
-[^ref-12]: [eBay – Air Cavalry Listing](https://www.ebay.com/itm/155666048672) – user ratings, publisher information
-[^ref-13]: [Amazon – Air Cavalry Super Nintendo](https://www.amazon.com/Air-Cavalry-Super-Nintendo/dp/B000035Y4Z) – customer ratings, publisher information
+[^ref-1]: [MobyGames – Air Cavalry](https://www.mobygames.com/game/10134/air-cavalry/) – description, three campaign areas, split-screen modes, Moby Score 6.0, critics 60% (5), players 2.3/5 (6), Cybersoft/Synergistic, June 1995
+[^ref-2]: [LaunchBox Games Database – Air Cavalry](https://gamesdb.launchbox-app.com/games/details/258-air-cavalry) – game description: "dual mode-7 game", OH-6/UH-60/AH-64H/AH-94, three theaters with six to eight missions, training mission
+[^ref-3]: [KHInsider – Air Cavalry Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/air-cavalry-1995-snes) – gamerip track list; developer Synergistic, publishers Cybersoft and GameTek
+[^ref-4]: [Retroplay – Air Cavalry](https://www.retroplay.com/product.html/air-cavalry) – PAL region code SNSP-ACCP-EUR; same game description as LaunchBox
+[^ref-5]: [Wikipedia – Air Cavalry (video game)](https://en.wikipedia.org/wiki/Air_Cavalry_(video_game)) – publishers (Cybersoft NA, GameTek EU), EGM 5.875/10 average
+[^ref-7]: [Super Adventures in Gaming – Air Cavalry (SNES)](http://superadventuresingaming.blogspot.com/2012/01/air-cavalry-snes.html) – Ray Hardgrit, January 21, 2012; title music, 12 rockets, auto-aiming gun, radar, flag flyby
+[^ref-10]: [GameSpot – Air Cavalry Cheats](https://www.gamespot.com/games/air-cavalry/cheats/) – user-contributed altitude tip, user average 6.2, ESRB Kids to Adults (Animated Violence)
 [^ref-14]: [SuperFamicom.org – Air Cavalry](https://superfamicom.org/info/air-cavalry) – ROM specifications, hash data, product codes
-[^ref-15]: [MobyGames – Air Cavalry](https://www.mobygames.com/game/10134/air-cavalry/) – Antstream 2023 release confirmation
+[^ref-15]: [MobyGames – Air Cavalry releases](https://www.mobygames.com/game/10134/air-cavalry/releases/) – SNES June 1995 (Cybersoft, United States); Antstream April 13, 2023
 [^ref-16]: [Arcade Museum – Koukuu Kihei Monogatari](https://www.arcade-museum.com/Videogame/koukuu-kihei-monogatari-the-legend-of-air-cavalry) – SNK arcade game information, technical specifications
 [^ref-17]: [App Store – Air Cavalry Flight Simulator](https://apps.apple.com/us/app/air-cavalry-flight-simulator/id731391854) – iOS version information, developer iTechGen
 [^ref-18]: [Nintendo Fandom Wiki – Air Cavalry](https://nintendo.fandom.com/wiki/Air_Cavalry) – release regions, publisher information
-[^ref-19]: [Almar's Guides – Air Cavalry](https://www.almarsguides.com/retro/walkthroughs/snes/games/AirCavalry/) – basic game overview, developer/publisher
-[^ref-20]: [VideoGameGeek – Air Cavalry](https://videogamegeek.com/videogame/107941/air-cavalry) – release dates, genre classification, gameplay description
-[^ref-21]: [HandWiki – Air Cavalry](https://handwiki.org/wiki/Software:Air_Cavalry_(video_game)) – review compilation, programmer credits
+[^ref-22]: [Electronic Gaming Monthly #71 (June 1995), Review Crew, p. 35](https://archive.org/details/ElectronicGamingMonthly_71) – four reviews; "SAMs and tanks have uncanny accuracy"; best feature two-player mode
+[^ref-23]: [Next Generation #5 (May 1995), "rating snes", p. 100](https://archive.org/details/nextgen-issue-005) – two stars; GameTek, 8 Mbit; AH-98 Valkyrie; "Success is as much a matter of luck as skill"
+[^ref-24]: [Game Players #73 (July 1995), review by Jeff Lundrigan, p. 64](https://archive.org/details/game-players-issue-73) – 52% overall; GameTek/Synergistic; no on-board map; "handle like a flying brick"
+[^ref-25]: [GamePro #72 (July 1995), ProReview by Captain Squideo, p. 65](https://archive.org/details/game-pro-issue-72-july-1995_202408) – 3.5 ratings; Middle East, Central America, Indonesia; "Ride of the Valkyries"; ESRB Kids to Adults
+[^ref-26]: [MobyGames – Air Cavalry SNES credits](https://www.mobygames.com/game/10134/air-cavalry/credits/snes/) – Synergistic Software team and Gametek (Cybersoft) staff
+[^ref-27]: [David L. Craddock, "How a Diablo expansion led to behind the scenes trouble", Polygon (June 29, 2018)](https://www.polygon.com/features/2018/6/29/17517376/diablo-hellfire-expansion-behind-the-scenes-trouble) – Clardys co-founded Synergistic; Seattle headquarters; contract jobs; Sierra takeover in 1996
