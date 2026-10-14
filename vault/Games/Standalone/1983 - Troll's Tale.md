@@ -1,37 +1,40 @@
 ---
 title: Troll's Tale
 release_year: 1983
-developer: Al Lowe
-designer: [Al Lowe, Michael MacChesney, Mike MacChesney, Tyler Wright]
+developer: Al Lowe (Sunnyside Soft)
+designer: [Al Lowe, Michael MacChesney]
 publisher: Sierra
 genre: Adventure
-platforms: [Apple II, Atari 8-bit, Coleco Adam, ColecoVision, C64, DOS, IBM PC, PCjr]
+platforms: [Apple II, Atari 8-bit, C64, IBM PC, PCjr]
 series: Standalone
 engine: Pre-AGI
 protagonist: Young child adventurer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: Troll's Tale is a children's adventure game developed by Al Lowe and
-  published by Sierra On-Line in 1983. Originally created as one of Al Lowe's earliest...
-tags: [1980s, adventure, agi, al-lowe, sierra, standalone]
+last_updated: '2026-10-14'
+description: Troll's Tale is a 1983 children's adventure game programmed by Al Lowe
+  and published by Sierra On-Line, in which young players recover sixteen treasures
+  stolen from the Dwarf King using only the spacebar and RETURN key.
+tags: [1980s, adventure, al-lowe, sierra, standalone]
 ---
 # Troll's Tale
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 
 ## Overview
 
-Troll's Tale is a children's adventure game developed by Al Lowe and published by Sierra On-Line in 1983[^ref-1][^ref-2]. Originally created as one of Al Lowe's earliest programming projects, the game was "the third game I ever programmed" according to Lowe himself[^ref-3]. Despite its "incredibly simplistic" appearance by modern standards, Lowe recalls working "a lot of hours on it"[^ref-3]. The game was designed specifically for children, particularly those in 2nd and 3rd grades[^ref-4], and came packaged with a paper map and stickers[^ref-4].
+Troll's Tale is a children's adventure game programmed by Al Lowe and published by Sierra On-Line, first for the Apple II in 1983[^ref-7][^ref-2]. It was one of three educational programs originally developed by Sunnyside Soft, alongside Bop-A-Bet and Dragon's Keep, whose product line Sierra acquired in early 1983[^ref-25]. Lowe calls it "the third game I ever programmed," adding that "it looks incredibly simplistic now, but as I recall, I worked a lot of hours on it!"[^ref-3]
 
-Sierra acquired Troll's Tale from Sunnysoft along with Dragon's Keep and Bop-A-Bet[^ref-5]. The game became notable not only as an early children's adventure title but also as "the inspiration for The Black Cauldron game"[^ref-3], with Disney specifically requesting to use its simplified interface design for their movie tie-in[^ref-3]. Troll's Tale was eventually released as freeware[^ref-6], making it accessible to new generations of players.
+Computer Gaming World's June 1984 review recommended it for ages 7 and up, described it as "another great adventure game for those who are just learning to read," and noted its second-grade vocabulary[^ref-23]. The game shipped with a large paper map, deliberately left incomplete for the player to finish, and sixteen colored stickers to mark where the treasures were found[^ref-23].
+
+Lowe says Troll's Tale "was the inspiration for 'The Black Cauldron' game": Disney had seen it and asked him to make a movie spinoff using its simplified spacebar-and-Enter interface[^ref-3]. Lowe now offers the game as a free download from his website[^ref-3], and it is listed as freeware on PCGamingWiki[^ref-12].
 
 > [!info]- Game Info
-> **Developer:** Al Lowe[^ref-1]
-> **Designer:** [[Al Lowe]], Michael MacChesney[^ref-7]
-> **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** Pre-AGI[^ref-1]
-> **Platforms:** Apple II, Atari 8-bit, Coleco Adam, ColecoVision, Commodore 64, DOS, IBM PC, PCjr[^ref-8]
+> **Developer:** Al Lowe (Sunnyside Soft)[^ref-25][^ref-7]
+> **Designer:** [[Al Lowe]]; text and graphics by Michael MacChesney with Al Lowe, Margaret Lowe and Rae Lynn MacChesney[^ref-7]
+> **Publisher:** [[Sierra On-Line]][^ref-7]
+> **Engine:** Pre-AGI[^ref-12]
+> **Platforms:** Apple II (1983); Atari 8-bit, Commodore 64, IBM PC/PCjr booter (1984)[^ref-7]
 > **Release Year:** 1983
 > **Series:** Standalone
 > **Protagonist:** Young child adventurer
@@ -39,154 +42,127 @@ Sierra acquired Troll's Tale from Sunnysoft along with Dragon's Keep and Bop-A-B
 
 ## Story Summary
 
-The game's premise centers around an evil troll who has stolen all the treasures belonging to Mark, the Dwarf King[^ref-9][^ref-10]. The player's quest is to locate and recover these hidden treasures, which are described variously as 15 or 16 treasures throughout different sources[^ref-9][^ref-11][^ref-12]. The troll has scattered these valuable items across the fantasy landscape, and only the player can help restore them to their rightful owner[^ref-11].
+In CGW's words, "a naughty troll has taken 16 treasures from the Dwarf King," and the player sets out to help him get them back[^ref-23]. In the game the king is named Mark, and the opening text announces that "the evil troll has hidden all the treasures of Mark, the Dwarf King"[^ref-14]. The sixteen treasures are a mix of the valuable and the everyday: a flashlight, a candy sucker, a bag of gold, a diamond ring, a copper penny, a fiddle "worth a fortune", a gift for the guard, a gold brick and "a dollar and a cent", among others[^ref-14][^ref-17].
 
-The adventure culminates when the player confronts the troll directly. In a playful twist typical of children's games, the solution involves pulling the troll's tail, as King Mark (disguised as a guard) declares: "Pull the Troll's Tail and we end the Troll's Tale!"[^ref-14]. This playful pun encapsulates the game's approach—using wordplay and gentle humor to create an engaging experience for young players while teaching basic problem-solving skills. The treasure hunt structure provides clear goals and rewards, encouraging thorough exploration while keeping complexity appropriate for the target audience. The fantasy setting, populated with elves, dwarves, and magical creatures, fires the imagination while remaining accessible to children encountering adventure games for the first time.
+The search runs through a fantasy underground realm[^ref-23] of caves, tunnels, huts and a river. When every treasure has been found, the player takes them to the dwarf guard at the cave entrance. Outside, with the troll's tail visible at the edge of the screen, the guard says "Pull the troll's tail and we end the troll's tale!", and the guard turns out to be King Mark himself[^ref-14].
+
+Note on the treasure count: MobyGames' description, and several sites that copy it, say there are 15 treasures[^ref-7][^ref-9][^ref-1]. The 1984 CGW review[^ref-23], the in-game treasure list recorded in a 2015 playthrough[^ref-14] and Tom Hayes' GameFAQs walkthrough[^ref-17] all give sixteen.
 
 ## Gameplay
 
 ### Interface and Controls
 
-Troll's Tale features a deliberately simplified interface designed for young players. Instead of requiring complex text input, the game uses a "simplified Spacebar & Enter key-only interface"[^ref-3] where players choose from three preset options rather than typing commands[^ref-15]. The game employs "minimal typing, spacebar selection, enter to perform actions"[^ref-12], making it accessible to children who might struggle with traditional text adventure parsing.
-
-The parser system is described as "a simple VERB-NOUN type" that "does an adequate job, although the game's vocabulary is quite limited"[^ref-16]. This streamlined approach was intentionally designed to reduce barriers for younger players while maintaining the adventure game experience.
+The game was built so that children did not need to type. CGW: "Keyboard skills are NOT required: the entire game uses only the spacebar and the RETURN key"[^ref-23]. Each screen lists a few numbered options. The spacebar steps through them and RETURN selects the highlighted one; pressing the number does not work[^ref-14][^ref-6]. The **F** key shows the treasures found so far[^ref-14]. Tom Hayes' walkthrough says players "pick from a choice of three options" instead of typing[^ref-17]. The game has no text parser.
 
 ### Structure and Progression
 
-The game can be completed relatively quickly, taking "less than an hour to complete" according to some players[^ref-17], with an average session length of "about a half-hour"[^ref-12]. This brief duration was appropriate for the target age group of children aged "8 and up"[^ref-12]. The game world consists of various locations where the stolen treasures have been hidden, requiring players to explore and solve simple puzzles to recover each item.
-
-### Puzzles and Mechanics
-
-Troll's Tale incorporates "puzzle elements"[^ref-18] appropriate for its young audience. The gameplay focuses on exploration and item collection rather than complex logical challenges. Players navigate through a fantasy setting, searching for the hidden treasures and interacting with various characters and locations using the simplified command system.
-
-The puzzles are designed to be solvable through logical thinking and exploration rather than pixel hunting or obscure item combinations. Players encounter various obstacles that require finding the right item or making the correct choice from the available options. The game rewards thorough exploration, as treasures are scattered throughout the game world in both obvious and hidden locations. Some items must be used in specific ways to progress, teaching young players basic adventure game logic without overwhelming them with complexity.
+There are no real puzzles. The game is a treasure hunt through an interconnected map with "no fatalities or dead ends"[^ref-14]. If the troll appears on a screen where a treasure lies, the treasure cannot be taken until the player leaves and comes back after the troll has gone[^ref-4][^ref-17]. CGW noted that mapping skills are "not necessary to enjoy the game but they are encouraged," and that the game gives "practice in reasoning and logic" as well as reading[^ref-23]. Players report finishing it in under an hour: the Gaming After 40 playthrough took "about an hour while making notes"[^ref-14], and Hayes calls it easy enough to complete in "less that [sic] an hour"[^ref-17].
 
 ## Technical Specifications
 
 | Component | Specification |
 |-----------|---------------|
-| Resolution | 320×200 pixels[^ref-12] |
-| Colors | 4-color CGA palette[^ref-12] |
-| Sound | Minimal PC speaker sounds[^ref-12] |
-| Distribution | Single-sided disk[^ref-12] |
-| File Size | 82 kB[^ref-12] |
-| Graphics Tool | "The Graphics Magician"[^ref-12] |
-| Engine | Pre-AGI[^ref-7] |
-| Recommended Age | 8 and up[^ref-12] |
+| Graphics tool | Penguin Software's The Graphics Magician[^ref-7][^ref-14] |
+| PC video modes | CGA, CGA composite, Tandy/PCjr[^ref-12] |
+| Resolution (PC) | 320×200[^ref-9] |
+| Sound | PC speaker[^ref-7]; "just a few Speaker's PC squeaks"[^ref-5] |
+| Apple II media | Single-sided disk (all illustrations fit on it)[^ref-14] |
+| Freeware PC download | 82 kB[^ref-10] |
+| Engine | Pre-AGI[^ref-12] |
+| Recommended age | 7 and up (CGW, 1984)[^ref-23] |
+| Price | $29.95 (Apple II, 1984)[^ref-23] |
 
 ## Packaging and Documentation
 
-Troll's Tale came packaged with a paper map and stickers[^ref-4], providing tangible extras that enhanced the gameplay experience for young players. The inclusion of physical materials reflected the era's approach to children's software, where packaging served both functional and entertainment purposes. The map helped players navigate the game world while the stickers provided additional engagement beyond the screen. These physical components also served as collectibles, with well-preserved original packages now sought by retro gaming enthusiasts. The instruction manual provided age-appropriate guidance for young adventurers, explaining the simplified interface and offering hints for beginning players without spoiling the treasure locations.
+The CGW review describes "a large paper map" that "is incomplete and must be finished by the player," and "sixteen colored stickers... used to mark the locations of the treasures"[^ref-23]. Pixelated Arcade likewise describes a partial map with space for players to fill in the gaps[^ref-4]. Sierra Gamers catalogs two box variants, a "Yellow Box" and a "Rainbow Box"[^ref-1].
 
 ## Reception
 
 ### Contemporary Reviews
 
-| Publication | Score | Notes |
+The one contemporary review located is Computer Gaming World's "Learning Game" column (Vol. 4 No. 3, June 1984). It calls the game "very similar to Dragon's Keep," with a slightly "older" vocabulary, and closes: "Another winner from Sierra On-line!"[^ref-23]
+
+### Modern and User Ratings
+
+These are later site ratings, most of them small user samples, and are not period reviews:
+
+| Source | Score | Notes |
 |-------------|-------|-------|
-| Abandonware DOS | 3.64/5.00 | User ratings on retro gaming site[^ref-19] |
-| DOSGames.com | 2.5/5 | Critical assessment[^ref-9] |
-| MobyGames | 67% | Community aggregate score[^ref-7] |
-| MyAbandonware | 4.33/5 | Reviewer HOTUD assessment[^ref-16] |
-| OldGames | 40% | Lower critical score[^ref-8] |
-| itch.io | 4.5/5 | Modern platform rating[^ref-20] |
+| MobyGames | 67% critics / 3.3 of 5 players | Critic figure from 1 rating; players from 19 ratings[^ref-7] |
+| DOSGames.com | 2.5/5 | Site staff review[^ref-9] |
+| MyAbandonware | 4.33/5 | User score, 12 votes[^ref-16] |
+| OldGames.sk | 40% | Site rating[^ref-8] |
 
 ### Modern Assessment
 
-Modern retrospectives generally acknowledge Troll's Tale as "a charming, early kid's game from Al Lowe, creator of Leisure Suit Larry series"[^ref-16]. Reviewers note that while "Troll's Tale is designed for children in mind, it can be played by adults as well"[^ref-7], though they emphasize its primary appeal to younger audiences. Contemporary assessments recognize it as "a well made adventure, but it is easy and can take less than an hour to complete"[^ref-17].
+MyAbandonware's HOTUD review calls it "a charming, early kid's game from Al Lowe, creator of Leisure Suit Larry series," praises the bundled map and treasure markers, and warns that "the 4-color CGA palette will probably discourage kids from playing this one"[^ref-16]. Gaming After 40 found "no real challenge," but wrote that "its open structure makes it a lot less linear than many 'more sophisticated' games"[^ref-14]. Tom Hayes calls it "a well made adventure, but it is easy"[^ref-17].
 
 ## Development
 
 ### Origins
 
-Al Lowe developed Troll's Tale during his early period at Sierra, when he "learned assembly language at Ken's insistence and wrote a children's adventure game in it"[^ref-15]. The game was created in 1983, before Lowe would go on to create the Leisure Suit Larry series[^ref-5]. Originally, the game was developed by Sunnysoft before being acquired by Sierra On-Line along with other titles[^ref-5].
+Arcade Express reported on April 10, 1983 that Sierra On-Line had "acquired the product line originally developed by Sunnyside Soft," naming the three educational programs Bop-A-Bet, Dragon's Keep and Troll's Tale, "all aimed at elementary students." In the same report Ken Williams predicted they would "fit in very nicely with our plans to enter the home educational software market"[^ref-25]. Jimmy Maher writes that Sierra also hired Lowe as a designer and programmer, and that "Al learned assembly language at Ken's insistence and wrote a children's adventure game in it called Troll's Tale"[^ref-15]. Lowe programmed Dragon's Keep, his first game, in Applesoft BASIC in 1982[^ref-3].
 
 ### Production
 
-The original development team included Al Lowe for programming and text, with Mike MacChesney contributing text and graphics[^ref-3]. For the IBM PCjr version, the credits expanded to include Michael MacChesney as writer, Peter Oliphant for conversion, Doug MacNeill for graphic art, and additional text contributions from Al Lowe, Margaret Lowe, Michael MacChesney, and Rae Lynn MacChesney[^ref-12]. Peter Oliphant was responsible for converting the game to multiple platforms[^ref-5].
+MobyGames' Apple II credits list Al Lowe as programmer. Text and graphics are credited to Michael MacChesney, Al Lowe, Margaret Lowe and Rae Lynn MacChesney, and the Graphics Magician routines to Mark Pelczarski, David Lubar and Chris Jochumson[^ref-7]. Pixelated Arcade's credits for the IBM PC version list Michael MacChesney (written by), Peter Oliphant (conversion), Doug MacNeill (graphic art) and Al Lowe (original version)[^ref-4].
 
-A modern recreation was created entirely by Tyler Wright, who handled "art, music, coding, design" for a 2023 version using the Bitsy engine[^ref-20].
+### Technical Notes
 
-### Technical Achievements
-
-Troll's Tale utilized "The Graphics Magician" as its graphics tool[^ref-12], representing an improvement over earlier Sierra Hi-Res Adventures[^ref-5]. The game featured a 320×200 resolution with a "4-color CGA palette"[^ref-12] and "minimal PC speaker sounds"[^ref-12]. The total file size was compact at just "82 kB"[^ref-12], and it was distributed on a "single-sided disk"[^ref-12].
-
-The game used a "Pre-AGI" engine[^ref-7], which was the same engine used for Dragon's Keep[^ref-5]. On the PC port, there was a notable visual quirk where "the logo appears pink and scanlined"[^ref-21]. Despite its technical simplicity, the game managed to create an engaging fantasy atmosphere through its colorful graphics and whimsical character designs.
+Gaming After 40 notes that the graphics were drawn with Penguin's The Graphics Magician, "a step up from Ken Williams' homegrown fill-and-vector graphics tool used for the early Hi-Res Adventures," and that this let all the illustrations fit on a single-sided disk[^ref-14]. The game's menu-driven approach is the same one used in Dragon's Keep[^ref-14][^ref-23]. On the PC port, "the whole logo is pink and scanlined" on the Sierra title logo[^ref-21].
 
 ### Multi-Platform Development
 
-Troll's Tale was released across an impressive range of platforms for its era, demonstrating Sierra's commitment to reaching the widest possible audience. Peter Oliphant was responsible for converting the game to multiple platforms[^ref-5], adapting the graphics and code to work within the limitations of each system. The Apple II version served as the primary development platform, with conversions following for the Atari 8-bit computers, Commodore 64, ColecoVision, Coleco Adam, and IBM PC/PCjr. Each version maintained the core gameplay while adjusting to platform-specific capabilities, particularly in terms of graphics and sound.
+The game appeared on the Apple II in 1983, then on the Atari 8-bit, Commodore 64 and IBM PC (as a self-booting disk) in 1984[^ref-7]. A 1992 Computer Gaming World profile of Peter Oliphant says that at Sierra "he programmed the conversions of Troll's Tale and Dragon's Keep"[^ref-26].
+
+Coleco also planned a version. In September 1983 Electronic Fun reported that Coleco had dropped its Super Game Module and that the games slated for it, Troll's Tale among them, would instead be released for the Adam computer[^ref-24]. Gaming After 40 says the game appeared on the Coleco Adam[^ref-14]. No ColecoVision release is documented, and no Adam release has been confirmed in a primary source.
 
 ## Legacy
 
-Troll's Tale holds historical significance as both an early example of Sierra's children's adventure games and as the direct inspiration for a major Disney collaboration. As Al Lowe explained, Disney "asked me to do a movie spinoff using its simplified Spacebar & Enter key-only interface"[^ref-3] for The Black Cauldron game. This demonstrates how the game's accessible design influenced later adventure game development and established a template that would prove valuable for reaching younger audiences.
+Troll's Tale's lasting influence came through Disney. In Lowe's account, Disney "had seen my very early game, 'Troll's Tale.' They asked me to do a movie spinoff using its simplified Spacebar & Enter key-only interface," which became The Black Cauldron[^ref-3]. Lowe also reused what he calls his "Troll's Tale" engine for Winnie the Pooh in the Hundred Acre Wood[^ref-3].
 
-The game also represents an important step in Al Lowe's career progression from early educational titles to his later acclaimed Leisure Suit Larry series[^ref-16]. As part of Sierra's efforts to create "age-appropriate adventure games for younger players"[^ref-5], Troll's Tale helped establish the company's presence in the children's gaming market. The game demonstrated that adventure games could be successfully adapted for younger players without sacrificing the core exploration and problem-solving elements that made the genre appealing.
-
-A modern recreation of Troll's Tale was created by Tyler Wright in 2023 using the Bitsy engine[^ref-20], demonstrating the game's continued appeal to both nostalgic players and indie developers interested in preserving classic gaming experiences. This fan-made version maintains the spirit of the original while updating the presentation for modern platforms.
-
-For Al Lowe personally, Troll's Tale represented a significant learning experience. As "the third game I ever programmed"[^ref-3], it allowed him to develop skills in assembly language programming and game design that would serve him well throughout his career at Sierra. The game's success validated his ability to create engaging software for specific audiences, setting the stage for his later work on more ambitious projects. The fact that the game has been released as freeware[^ref-6] ensures that it remains accessible to anyone interested in exploring this formative period in Sierra's history.
+In 2023 Tyler Wright ("Outgrabe") released Troll's Tale 2023, a fan remake/demake built in the Bitsy engine. It is unrelated to Sierra or Lowe[^ref-20].
 
 ## Downloads
 
-**Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
-- Available as freeware from Al Lowe's official website[^ref-3]
+**Availability**
+- Not sold digitally. Al Lowe offers the game as a free download from his official website[^ref-3]
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/msdos_Trolls_Tale_1984)
-- [MyAbandonware](https://www.myabandonware.com/game/troll-s-tale-32) - Historical preservation with browser play option[^ref-22]
-- [DOS Games Archive](https://www.dosgamesarchive.com/download/trolls-tale) - Complete download package[^ref-10]
+- [Internet Archive](https://archive.org/details/msdos_Trolls_Tale_1984) - PC version, stream only
+- [MyAbandonware](https://www.myabandonware.com/game/troll-s-tale-32) - Download with browser play option[^ref-22]
+- [DOS Games Archive](https://www.dosgamesarchive.com/download/trolls-tale) - Freeware download package[^ref-10]
 
 ## See Also
 
-- [[1981 - Softporn Adventure]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1988 - Silpheed]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Air Cavalry]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
+- [[1982 - Dragon's Keep]]
+- [[1982 - Bop-A-Bet]]
+- [[1984 - Winnie the Pooh in the Hundred Acre Wood]]
+- [[1984 - Mickey's Space Adventure]]
+- [[1986 - The Black Cauldron]]
 
 
 ## References
 
-[^ref-1]: [Sierra Gamers](https://www.sierragamers.com/trolls-tale/) – - Basic game information and publisher details
-[^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/Troll%27s_Tale) – - Historical overview and release information
-[^ref-3]: [Al Lowe's Official Website](https://allowe.com/downloads/games.html) – - Developer's personal reflections and game history
-[^ref-4]: [Pixelated Arcade](https://pixelatedarcade.com/games/troll-s-tale) – - Target audience and packaging details
-[^ref-5]: [Game Pressure](https://www.gamepressure.com/games/trolls-tale/zf2526) – - Development history and technical details
-[^ref-6]: [Play DOS Games](https://www.playdosgames.com/online/trolls-tale/) – - Distribution and availability information
-[^ref-7]: [MobyGames](https://www.mobygames.com/game/7271/trolls-tale/) – - Comprehensive development credits
-[^ref-8]: [Old Games SK](https://www.oldgames.sk/en/game/trolls-tale/) – - Platform release information
-[^ref-9]: [DOS Games](https://dosgames.com/game/trolls-tale/) – - Game description and quest objectives
-[^ref-10]: [DOS Games Archive](https://www.dosgamesarchive.com/download/trolls-tale) – - Plot summary and character details
-[^ref-11]: [Wikipedia](https://en.wikipedia.org/wiki/Troll's_Tale) – - Treasure count details
-[^ref-12]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Troll's_Tale) – - Technical specifications including treasure count
-[^ref-14]: [Gaming After 40 Blog](http://gamingafter40.blogspot.com/2015/03/adventure-of-week-trolls-tale-1983.html) – - Detailed playthrough with story conclusion
-[^ref-15]: [The Digital Antiquarian](https://www.filfre.net/?s=Troll%27s+Tale) – - Interface design details
-[^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/troll-s-tale-32) – - Parser system review by HOTUD
-[^ref-17]: [GameFAQs](https://gamefaqs.gamespot.com/pc/582558-trolls-tale/faqs/51970) – - Game completion time assessment by Tom Hayes
-[^ref-18]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/113864-trolls-tale) – - Gameplay elements description
-[^ref-19]: Abandonware DOS (link removed: dead download-site page) – - User rating aggregate
-[^ref-20]: [itch.io](https://outgrabe.itch.io/trolls-tale-2023) – - Modern recreation rating
-[^ref-21]: [AVID Wiki](https://www.avid.wiki/Sierra_Entertainment) – - PC port visual characteristics
+[^ref-1]: [Sierra Gamers](https://www.sierragamers.com/trolls-tale/) – - Designer credit, box variants (Yellow Box, Rainbow Box); description copied from MobyGames
+[^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/Troll%27s_Tale) – - Overview of developer, publisher and 1983 Apple II release
+[^ref-3]: [Al Lowe's Official Website](https://allowe.com/downloads/games.html) – - Lowe on Troll's Tale as his third game and the inspiration for The Black Cauldron; free download
+[^ref-4]: [Pixelated Arcade](https://pixelatedarcade.com/games/troll-s-tale) – - Gameplay summary, partial map, IBM PC version credits
+[^ref-5]: [Game Pressure](https://www.gamepressure.com/games/trolls-tale/zf2526) – - Description of the PC version's CGA graphics and PC speaker sound
+[^ref-6]: [Play DOS Games](https://www.playdosgames.com/online/trolls-tale/) – - Freeware listing; controls (Space changes option, Enter confirms)
+[^ref-7]: [MobyGames](https://www.mobygames.com/game/7271/trolls-tale/) – - Release dates by platform, Apple II credits, Graphics Magician, scores
+[^ref-8]: [Old Games SK](https://www.oldgames.sk/en/game/trolls-tale/) – - Site rating (40%)
+[^ref-9]: [DOS Games](https://dosgames.com/game/trolls-tale/) – - Staff review (2.5), 320×200 resolution
+[^ref-10]: [DOS Games Archive](https://www.dosgamesarchive.com/download/trolls-tale) – - Freeware download, 82 kB
+[^ref-12]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Troll's_Tale) – - Pre-AGI engine, freeware, supported PC video modes
+[^ref-14]: [Gaming After 40 Blog](http://gamingafter40.blogspot.com/2015/03/adventure-of-week-trolls-tale-1983.html) – - Detailed Apple II playthrough: interface, treasure list, ending, Graphics Magician
+[^ref-15]: [The Digital Antiquarian – Splendid Isolation: Sierra at Mid-Decade](https://www.filfre.net/2015/08/splendid-isolation-sierra-at-mid-decade/) – - Jimmy Maher on Lowe writing Troll's Tale in assembly language at Sierra
+[^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/troll-s-tale-32) – - HOTUD review and user rating (4.33/5, 12 votes)
+[^ref-17]: [GameFAQs](https://gamefaqs.gamespot.com/pc/582558-trolls-tale/faqs/51970) – - Tom Hayes walkthrough: sixteen treasures, three-option menus, completion time
+[^ref-20]: [itch.io](https://outgrabe.itch.io/trolls-tale-2023) – - Troll's Tale 2023, a Bitsy fan remake by Tyler Wright
+[^ref-21]: [AVID Wiki](https://www.avid.wiki/Sierra_Entertainment) – - Sierra logo variant on the PC port
 [^ref-22]: [MyAbandonware](https://www.myabandonware.com/game/troll-s-tale-32/play-32) – - Browser playability and preservation access
+[^ref-23]: [Computer Gaming World Vol. 4 No. 3 (June 1984), "Learning Game", p. 36](https://archive.org/details/Computer_Gaming_World_Issue_4.3) – - Contemporary review: ages 7+, $29.95, 16 treasures, map and stickers, spacebar/RETURN only
+[^ref-24]: [Electronic Fun with Computers & Games Vol. 1 No. 11 (September 1983), p. 10](https://archive.org/details/electronic-fun-with-computers-and-games-volume-1-number-11-september-1983) – - Coleco drops Super Game Module; Troll's Tale among titles moved to Adam
+[^ref-25]: [Arcade Express Vol. 1 No. 18 (April 10, 1983)](https://archive.org/details/arcade_express_v1n18) – - Sierra acquires Sunnyside Soft's Bop-A-Bet, Dragon's Keep and Troll's Tale
+[^ref-26]: [Computer Gaming World No. 100 (November 1992), "Life in the New Hollywood"](https://archive.org/details/Computer_Gaming_World_Issue_100) – - Peter Oliphant profile: programmed the conversions of Troll's Tale and Dragon's Keep
