@@ -5,111 +5,110 @@ developer: Dynamix
 designer: [Randy Dersham]
 publisher: Sierra On-Line
 genre: Sports
-platforms: [Windows, Windows 3.x, Mac]
+platforms: [Windows 3.x, Windows 95, Macintosh]
 series: Trophy Bass
 engine: Proprietary (Dynamix)
 protagonist: Player-created angler
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-05-11'
-description: Trophy Bass is a bass fishing simulation game developed by Jeff Tunnell
-  Productions and Dynamix, published by Sierra On-Line in 1995. Marketed as "The...
+last_updated: '2026-10-14'
+description: Trophy Bass is a 1995 bass fishing simulation developed by Dynamix and
+  published by Sierra On-Line for Windows and Macintosh, endorsed by the Bass Anglers
+  Sportsman Society and set on five real American bass lakes.
 tags: [1990s, dynamix, sierra, trophy-bass]
 ---
 # Trophy Bass
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 ## Overview
 
-Trophy Bass is a bass fishing simulation game developed by [[Jeff Tunnell Productions]] and [[Dynamix]], published by Sierra On-Line in 1995.[^ref-1][^ref-36] Marketed as "The Premier game for Bass Pros and other lucky anglers," the game brought the thrills of competitive bass fishing to the PC at a time when America's 50 million fishermen had few options for experiencing the sport digitally.[^ref-2] The game was fully sponsored by the Bass Anglers Sportsman Society (B.A.S.S.), lending it authenticity and access to professional fishing expertise that distinguished it from other simulation titles of the era.[^ref-1]
+Trophy Bass is a bass fishing simulation developed by [[Dynamix]] and published by Sierra On-Line in 1995 for Windows and Macintosh.[^ref-3][^ref-8] Previewed by PC Gamer as "Sierra On-Line's first-ever fishing simulation," it was the first release in Sierra's Outdoor Sportsman line.[^ref-42][^ref-8] Sierra marketed it as "The Premier game for Bass Pros and other lucky anglers,"[^ref-2] and its advertising pitched it at the "50 million people in this country" who "love to feel the tug on a rod."[^ref-38] The game was endorsed by the Bass Anglers Sportsman Society (B.A.S.S.).[^ref-7][^ref-37]
 
-The game offered players the opportunity to compete in B.A.S.S. Masters tournaments, pursue a fishing career, or simply spend an afternoon at one of nine photo-realistic virtual lakes.[^ref-3] Trophy Bass featured a top-down perspective with detailed simulation of bass behavior, habitat conditions, and fishing techniques.[^ref-4] Players could select from a variety of lures, reels, and locations while considering realistic environmental factors such as weather, water temperature, and time of day.[^ref-5]
+Players can compete in a B.A.S.S. Masters tournament, pursue a fishing career, or simply spend an afternoon on one of five virtual lakes: Lake of the Ozarks (Missouri), Sam Rayburn Reservoir (Texas), Lake Sidney Lanier (Georgia), Lake Murray (South Carolina) and High Rock Lake (North Carolina).[^ref-37][^ref-38][^ref-39] The lake is seen from a top-down perspective, and players choose lures, rods, reels and locations while weighing conditions such as weather, season, time of day, wind and water temperature.[^ref-7][^ref-39]
 
-What set Trophy Bass apart from other games of its time was its unexpected commercial success. Despite receiving minimal attention from the gaming press and having zero reviews on MobyGames for years, the game sold many more copies from the outdoor sections of Middle American Wal-Mart superstores than from traditional computer and gaming stores.[^ref-6] This retail strategy, targeting fishing enthusiasts rather than hardcore gamers, proved remarkably successful and established Trophy Bass as one of Dynamix's most profitable franchises.[^ref-6][^ref-35]
+Trophy Bass was also a commercial success. Writing in 2024, Jimmy Maher called it Dynamix's most profitable game of all, one that "sold many more copies from the outdoor sections of Middle American Wal-Mart superstores than it did from computer and gaming stores."[^ref-6] Together with its sequel, it had sold over half a million units by November 1997.[^ref-23]
 
 > [!info]- Game Info
-> **Developer:** [[Jeff Tunnell]] Productions / [[Dynamix]][^ref-1]
-> **Designer:** [[Randy Dersham]][^ref-1]
-> **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Developer:** [[Dynamix]][^ref-3]
+> **Designer:** [[Randy Dersham]][^ref-3][^ref-37]
+> **Publisher:** [[Sierra On-Line]][^ref-3]
 > **Engine:** Proprietary
-> **Platforms:** Windows 3.x, Windows 95, Macintosh[^ref-1]
-> **Release Year:** 1995
+> **Platforms:** Windows 3.x, Windows 95, Macintosh[^ref-8][^ref-37]
+> **Release Year:** 1995[^ref-3]
 > **Series:** Trophy Bass
 > **Protagonist:** Player-created angler
-> **Sierra Lineage:** Dynamix Sports
+> **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Story Summary
 
-Trophy Bass does not feature a traditional narrative storyline, instead offering players an immersive simulation of the professional bass fishing experience. The game places players in the role of an aspiring bass angler seeking to prove themselves against both computer opponents and, eventually, real professional fishing challenges.[^ref-4]
+Trophy Bass has no narrative storyline. Instead, it simulates the professional bass fishing experience, putting the player in the role of an angler who can fish alone or compete against computer-controlled professionals.[^ref-7]
 
-The core experience revolves around the B.A.S.S. Masters tournament circuit, where players must demonstrate their fishing prowess by catching the largest and most valuable bass across multiple competitive events.[^ref-3] Success in these tournaments requires players to develop genuine fishing skills, learning to read water conditions, select appropriate equipment, and execute proper techniques just as real professional anglers do.[^ref-7]
+The competitive core is tournament fishing. In Computer Gaming World's description, a tournament is a three-day event with a weigh-in at the end of each day, and arriving 15 minutes late for the weigh-in forfeits that day's catch.[^ref-37] The career option runs a miniature pro season: the player fishes tournaments at four of the five lakes, and depending on the results may enter the Bass Masters Classic, held at the fifth lake.[^ref-37] Sierra's own magazine called the Classic "the Super Bowl of bass fishing."[^ref-39]
 
-Beyond tournament play, Trophy Bass allows players to simply enjoy recreational fishing on any of the available lakes, pursuing personal challenges such as landing trophy-sized fish or exploring different fishing strategies without competitive pressure.[^ref-3] The game's tutorial system, hosted by professional anglers Larry Nixon and Denny Brauer, provides educational content that teaches real-world fishing knowledge applicable both in-game and on actual fishing trips.[^ref-8]
-
-The progression system encourages players to develop expertise over time, mastering different lakes, learning optimal techniques for various conditions, and building toward the ultimate goal of competing in and winning the prestigious Bass Masters Classic tournament.[^ref-9]
+Outside competition, the player can fish any lake alone, setting the conditions and practising without time pressure.[^ref-7][^ref-9] The game's "How To" section, featuring professional anglers, teaches real bass fishing knowledge that applies both in the game and on the water.[^ref-8][^ref-37]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Trophy Bass presents its fishing simulation from a top-down perspective, allowing players to view their boat, the surrounding water, and potential fishing spots simultaneously.[^ref-4] The game is controlled entirely via mouse, with players clicking to navigate their boat across the lake, select fishing locations, and execute casting and reeling actions.[^ref-10]
+Trophy Bass presents its fishing from a top-down perspective. The player's boat sits at the bottom of the screen, and the view of the water ahead scrolls, so that fish can be seen wherever they are.[^ref-7] PC Gamer called this the game's "one slightly jarring design decision."[^ref-7] The game is played mainly with the mouse: players can cast "manually" by clicking and holding the mouse button, or aim with on-screen crosshairs and press the cast button.[^ref-7] Contemporary listings give the controller as mouse or keyboard.[^ref-8][^ref-3]
 
-The interface provides access to a high-tech bass boat equipped with essential fishing electronics including a live-well for storing caught fish, an electric trolling motor for quiet positioning, and a fish-finder to help locate underwater structure and fish concentrations.[^ref-9] Players interact with an extensive equipment selection system that includes multiple fishing rod types, various reel configurations, and dozens of lure options.[^ref-9]
+The player's bass boat is equipped with a live-well for the catch, an electric trolling motor, and a fish-finder that graphs the lake bottom and locates structure and fish.[^ref-9] A large lake map can be viewed as an aerial photo or as a topographic map.[^ref-37][^ref-39]
 
 ### Structure and Progression
 
-The game offers three primary modes of play that accommodate different player interests and skill levels:
+The game offers three modes of play:[^ref-39]
 
-- **B.A.S.S. Masters Tournament:** Competitive fishing against AI opponents in official tournament format, culminating in the Bass Masters Classic[^ref-3]
-- **Career Mode:** Long-term progression where players build their reputation and ranking as professional anglers[^ref-3]
-- **Free Fishing:** Relaxed, non-competitive fishing on any available lake with no time pressure or scoring requirements[^ref-3]
+- **Tournament:** Three-day competitions against computer-controlled pros, with a daily weigh-in[^ref-37]
+- **Career:** A short pro season of four tournaments, leading to the Bass Masters Classic for those who do well enough[^ref-37]
+- **Fish a Lake:** Non-competitive fishing on any lake, with conditions set by the player[^ref-5][^ref-39]
 
-Players begin with access to six virtual lakes, each featuring accurate depictions of real bass habitat including underwater structure, vegetation patterns, and varying depth profiles.[^ref-9] Success in tournament modes unlocks additional content and establishes the player's reputation within the virtual fishing community.[^ref-4]
+There are five lakes and three difficulty levels.[^ref-37] Sierra condensed portions of each lake but tried to keep them "as topographically accurate as possible."[^ref-39] According to Sierra's InterAction magazine, the five lakes offer "a total of 750,000 different locations to fish."[^ref-39]
 
 ### Puzzles and Mechanics
 
-Rather than traditional puzzles, Trophy Bass challenges players with the complex variables that affect real bass fishing success. To catch fish consistently, players must consider multiple environmental and tactical factors:[^ref-11]
+Trophy Bass has no traditional puzzles. To catch fish consistently, players must account for the same environmental and tactical factors that affect real bass fishing.
 
 **Environmental Considerations:**
-- Water temperature affects bass activity levels and feeding patterns[^ref-5]
-- Weather conditions including cloud cover, wind direction, and barometric pressure influence fish behavior[^ref-5]
-- Time of day determines when bass are most likely to feed, with morning and afternoon typically being most productive[^ref-5]
-- Seasonal patterns affect where bass congregate within each lake[^ref-11]
+- Before fishing, the game sets out the current conditions: weather, season, time of day, wind speed, wind direction, air temperature, water temperature and water clarity. Any of these can be changed, which affects how the fish move, feed and react.[^ref-39]
+- The tutorial covers how light conditions and water temperature affect fishing.[^ref-7]
+- Coming Soon Magazine's reviewer learned that the best times for bass are morning and afternoon, and that in cold temperatures they move to deep water.[^ref-5]
+- Seasonal patterns matter: in spring, bass move into the shallows to spawn.[^ref-9] The "How To" section breaks fishing patterns down by the four seasons.[^ref-37]
 
 **Equipment Selection:**
-- Different lure types are effective under different conditions[^ref-3]
-- Rod and reel combinations affect casting distance and fish-fighting capability[^ref-3]
-- Color and action of lures must match local conditions and available forage[^ref-12]
+- Players choose from casting, flipping and spinning rods, and from spinners, jigs, soft baits, crankbaits and surface lures.[^ref-9]
+- Sierra advertised 20 rods and 200 lures.[^ref-39]
+- The choice of rod and reel, and the type and color of lure, depend on weather and seasonal data.[^ref-7]
 
 **Technique Execution:**
-- Casting accuracy determines proximity to likely fish-holding structure[^ref-4]
-- Retrieve speed and pattern affect lure presentation[^ref-4]
-- Hook-setting timing and fighting technique determine whether hooked fish are successfully landed[^ref-4]
+- How accurately and how far a cast goes depends on the casting method chosen.[^ref-37]
+- After casting, the player works the lure toward the fish, trying to make it behave as enticingly as possible, as it is reeled in.[^ref-7]
+- Landing a big fish takes patience; rush it and "you'll lose the battle."[^ref-37]
 
-The game's AI simulates realistic bass behavior, with fish responding dynamically to player actions and environmental conditions in ways that reward observant, skilled players while punishing those who ignore the fundamentals of bass fishing.[^ref-7][^ref-34]
+PC Gamer called the fish AI "pretty good, so you've got to be sure you're using the right lure and presenting it properly."[^ref-7] Sierra described fish that "won't do the same thing every time."[^ref-39]
 
 ## Reception
 
 ### Contemporary Reviews
 
-Trophy Bass received generally positive reviews upon release, with critics praising its realistic simulation elements and educational value while some noted the inherent limitations of bringing an outdoor sport to a computer screen.[^ref-1]
+Trophy Bass was widely reviewed, and generally well received.[^ref-7][^ref-37][^ref-43]
 
-PC Gamer awarded the game a score of 90%, with reviewer Ned Gaskins declaring "Even if you're not a fisherman, Trophy Bass will reel you in" and noting that "when you haul in your first 14-pound bass (they exist, really!), Trophy Bass proves to be as exhilarating as any shoot-'em-up."[^ref-7] Computer Gaming World's Kevin Turner called it "a wonderfully entertaining game."[^ref-13]
+PC Gamer awarded it 90%. Reviewer Ned Gaskins wrote that "Even if you're not a fisherman, Trophy Bass will reel you in," and that "when you haul in your first 14-pound bass (they exist, really!), Trophy Bass proves to be as exhilarating as any shoot-'em-up." The review listed its highs as "Great graphics, plenty of options, and good fish AI."[^ref-7] In Computer Gaming World, Kevin Turner gave it four stars out of five, calling it "a wonderfully entertaining game for serious bass fishermen and those just interested in fishing." He named the lack of a printed manual as a drawback.[^ref-37]
 
-Coming Soon Magazine gave Trophy Bass an 84% score, stating "Trophy Bass by Sierra is a fabulous game in which you go out and catch bass" and expressing surprise that "I would have never imagined that fishing could be so much fun."[^ref-5] PC Gamer's review praised the "Great graphics, plenty of options, and good fish AI."[^ref-1]
+Coming Soon Magazine gave Trophy Bass 84%, calling it "a fabulous game in which you go out and catch bass" and adding: "I would have never imagined that fishing could be so much fun."[^ref-5] In PC Games, Steve Klett summed it up: "Trophy Bass is the finest fishing sim available, but it's not exactly in a competitive market." He judged it "good fun for avid Sunday fishermen and a good dry-land learning tool for anyone looking to get into the sport."[^ref-9]
 
-GameSpot's Hugo Foster provided a more measured assessment, awarding 7.6/10 and acknowledging the game's technical accomplishments while recognizing its niche appeal.[^ref-1] PC Entertainment's Steve Klett gave the game a B- rating, declaring "Trophy Bass is the finest fishing sim available, but it's not exactly in a competitive market" and recommending it as "good fun for avid Sunday fishermen and a good dry-land learning tool for anyone looking to get into the sport."[^ref-9]
+GameSpot's Hugo Foster scored it 7.6. He noted that "as wonderfully comprehensive and engaging as Trophy Bass is for the avid fisherman, it can be somewhat tedious for the average player," and concluded: "If you're at all interested in the concept, you'll find Trophy Bass well-made and fun to play. If not, cast your line elsewhere."[^ref-43]
 
-Not all reviews were enthusiastic. One contemporary review stated "Even if you enjoy fishing it is difficult to find any real excitement in the murky waters of Trophy Bass" and concluded "Despite all the innovative options available, Trophy Bass is still boring."[^ref-4]
+Computer Gaming World named Trophy Bass a finalist for its 1996 Premier Awards Sports Game of the Year, which went to NBA Live. The editors wrote that "Trophy Bass by Sierra rewards patient gamers with the best fishing simulation yet."[^ref-40]
 
 ### Modern Assessment
 
-Trophy Bass has maintained a positive reputation among retro gaming enthusiasts and fishing simulation fans. MyAbandonware users have rated the game 4.31 out of 5, with one user noting it is "one of the best fishing games...they are hard to get right but this one is great."[^ref-14]
+On MyAbandonware, Trophy Bass holds a 4.31 out of 5 user rating. One commenter wrote that it is "one of the best fishing games...they are hard to get right but this one is great."[^ref-14]
 
-MobyGames aggregates the game at 71% based on available reviews.[^ref-3] The game's legacy has been enhanced by its role in establishing fishing simulations as a viable commercial genre, even if it remains largely overlooked by mainstream gaming historians.[^ref-6]
+Maher has pointed out how far the game has fallen out of retro-gaming memory, given its commercial weight. As of his 2024 writing, Trophy Bass had "precisely zero reviews on the central fandom database MobyGames," and yet "it was absolutely huge in its day."[^ref-6]
 
 **Aggregate Scores:**
-- **MobyGames:** 71% (critics aggregate)[^ref-3]
+- **MobyGames:** 71% critic average, from 10 ratings[^ref-3]
 - **MyAbandonware:** 4.31/5 (user ratings)[^ref-14]
 - **Amazon:** 2.3/5 (customer reviews)[^ref-2]
 
@@ -117,125 +116,111 @@ MobyGames aggregates the game at 71% based on available reviews.[^ref-3] The gam
 
 ### Origins
 
-Trophy Bass emerged from [[Dynamix]]'s Jeff Tunnell Productions division as part of Sierra On-Line's expansion into sports simulation titles.[^ref-1] The development team recognized an underserved market: while hunting games existed for PC, realistic fishing simulations were virtually nonexistent.[^ref-9] With America's 50 million recreational anglers representing a massive potential audience, the opportunity was clear.[^ref-2]
+Trophy Bass was developed at [[Dynamix]] and published by Sierra On-Line.[^ref-3] The credits list [[Jeff Tunnell]] as executive producer, and [[Randy Dersham]] as producer and designer.[^ref-3][^ref-1] In September 1995, when PC Gamer previewed it as "Sierra On-Line's first-ever fishing simulation," the game was "slated for fall release."[^ref-42] It was not the only fishing game on the way. PC Gamer's caption noted that its top-down view "may not be as attractive as Amtek's *Gone Fishin'*, but it does give a good view of the fish."[^ref-42]
 
-The partnership with the Bass Anglers Sportsman Society (B.A.S.S.) provided crucial authenticity to the project.[^ref-1] This sponsorship gave developers access to professional tournament structures, endorsed equipment brands, and—most importantly—guidance from actual professional bass anglers who could ensure the simulation accurately reflected real fishing conditions and techniques.[^ref-8]
+The game carried the endorsement of the Bass Anglers Sportsman Society.[^ref-7][^ref-8] Sierra's advertising credited "the super-accurate simulation and detailed how-to information" for earning that endorsement.[^ref-38]
 
 ### Production
 
-Development focused on creating a simulation that would satisfy both casual players seeking entertainment and serious anglers wanting realistic fishing education. The team invested significant effort in accurately modeling bass behavior, creating AI systems that responded to the same variables that affect real fish.[^ref-7]
+Klett wrote that "Sierra has made every effort to accurately model bass habitat and behavior."[^ref-9] The "How To" section covers finding fish (weather, water, season and structure), bass behavior, tackle and seasonal fishing patterns.[^ref-37][^ref-5] Pro anglers Larry Nixon and Denny Brauer host more than 70 multimedia tutorial movies.[^ref-8] Kevin VanDam and George Cochran also contribute their knowledge.[^ref-37]
 
-The game's extensive multimedia tutorial system, featuring over 70 video clips, was designed to provide genuine fishing education.[^ref-8] Professional anglers Larry Nixon, Denny Brauer, Kevin VanDam, and George Cochran contributed their expertise, appearing in instructional videos that taught techniques equally applicable in the game and on real lakes.[^ref-3]
+**Development Credits:**[^ref-3][^ref-1]
+- **Executive Producer:** Jeffrey Tunnell
+- **Producer / Designer:** Randy Dersham
+- **Lead Programmer:** Steven D. Letsom
+- **Writer:** Michael Waite
+- **Music and Sounds:** Neal Grandstaff, Ken Rogers
+- **Bass Fishing Pros:** Larry Nixon, Denny Brauer, Kevin VanDam, George Cochran
+- **Bass Pro Consultant:** Jeff Boyer
 
-**Development Credits:**[^ref-1]
-- **Designer:** Randy Dersham
-- **Composers:** Neal Grandstaff, Ken Rogers
-- **Voice Talent:** Jeff Boyer, Jane Chase
-- **Bass Fishing Professionals:** Larry Nixon, Denny Brauer, Kevin VanDam, George Cochran
+### Voice Cast
+
+The credits list two voice performers. The professional anglers appear in the game's instructional videos rather than as voice actors.[^ref-1][^ref-8]
+
+| Performer | Credit |
+|-----------|--------|
+| Jeff Boyer | Voice Talent (also Bass Pro Consultant)[^ref-1][^ref-3] |
+| Jane Chase | Voice Talent[^ref-1] |
 
 ### Technical Achievements
 
-Trophy Bass featured photo-realistic environments for its era, with nine high-resolution lakes that attempted to recreate the visual experience of being on the water.[^ref-15] The fish AI system was particularly noted, with bass exhibiting realistic behaviors based on environmental conditions, time of day, and player actions.[^ref-1]
-
-The game's sound design incorporated realistic lake ambient noise and fishing sound effects that enhanced immersion.[^ref-5] Equipment simulation included accurate representations of different reel types, rod actions, and lure behaviors, with each combination affecting gameplay in meaningful ways.[^ref-3]
+PC Gamer described the lake graphics as SVGA, with detail of "the water, fish, and especially shoreline structure" that was "damn near photographic."[^ref-7] Each lake is huge, taking an hour or more of game time to cross.[^ref-9] Coming Soon praised the ambient sound: "the glup sound of the water, the fish fighting to escape, the flies flying around, frogs."[^ref-5]
 
 ### Technical Specifications
 
-**System Requirements:**[^ref-5]
-- **Processor:** 486 DX-66 MHz or higher (Pentium recommended)
+**System Requirements:**[^ref-5][^ref-7][^ref-37]
+- **Processor:** 486 DX-66 MHz or higher (PC Gamer recommends a Pentium 90)
 - **RAM:** 8 MB
-- **Graphics:** SVGA 640x480 @ 256 colors
-- **Sound:** Sound card with DAC
+- **Graphics:** SVGA
+- **Sound:** Windows-compatible sound card
 - **Storage:** Hard drive required
-- **CD-ROM:** Double-speed or faster (Quad-speed recommended)
+- **CD-ROM:** Double-speed or faster (quad-speed recommended)
 - **Input:** Microsoft-compatible mouse
 - **OS:** Windows 3.1 or Windows 95
 
 **Audio Equipment:**
-The soundtrack was recorded using Roland Sound Canvas SC-55 hardware, with MIDI files played through authentic period equipment to preserve the original intended sound.[^ref-16]
+The archival soundtrack release was recorded through Roland Sound Canvas SC-55 hardware.[^ref-16]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | October 16, 1995 | Windows 3.x, Macintosh | Initial release[^ref-1] |
-| 1.01 | 1995-1996 | Windows | Patch fixing fish lost from live well, save/restore issues[^ref-17] |
+| 1.0 | 1995 | Windows 3.x / Windows 95, Macintosh | Initial release[^ref-3][^ref-8] |
+| 1.01 | By June 1996 | Windows | Patch tbass101; fixes known bugs[^ref-17][^ref-41] |
 
 **Patch 1.01 Details:**[^ref-17]
 - Fixes problems where fish are lost from the live well
-- Resolves issues with saving and restoring games
-- Addresses other minor issues
+- Fixes problems with saving and restoring games
+- Fixes other minor issues
 
 ### Technical Issues
 
-Players running Trophy Bass on modern systems may encounter compatibility issues typical of Windows 3.x era software. The game's 16-bit installer does not function on 64-bit Windows systems, requiring manual installation procedures.[^ref-18] The Sierra Help Pages maintain custom installers that allow the game to run on modern Windows systems including Windows 7, 8, and 10.[^ref-19]
-
-On some newer hardware, the game clock runs too fast, causing accelerated fish movements and fishing mechanics that can disrupt intended gameplay balance.[^ref-18] Running the game in Windows XP compatibility mode may help address some timing issues.[^ref-21]
+The Windows release is a 16-bit Windows 3.1-era program (MobyGames lists a "Windows 16-bit" version).[^ref-3][^ref-37] One MyAbandonware commenter reports the game refusing to run on a 64-bit system; another reports installing it on Windows 10 with OTVDM, a 16-bit compatibility layer.[^ref-14]
 
 ### Easter Eggs and Trivia
 
-- **Universal Lure:** According to player tips shared on IGN, spinners with Willow and Worm in gold/crawdad color are highly effective, with users claiming "Anything from Bass to Catfish will bite on it at any time, day or night."[^ref-12]
-- **B.A.S.S. Endorsement:** The game was fully sponsored by the Bass Anglers Sportsman Society, making it one of the first fishing games to carry official professional tournament licensing.[^ref-1]
-- **Built-in Manual:** Rather than including a physical printed manual, Trophy Bass featured a comprehensive built-in help system accessible from within the game.[^ref-5]
-- **Retail Strategy:** Unlike typical computer games, Trophy Bass was primarily sold in the outdoor sporting goods sections of stores like Wal-Mart rather than in computer or video game departments, targeting fishing enthusiasts rather than traditional gamers.[^ref-6]
-
-## Voice Cast
-
-| Character/Role | Voice Actor |
-|----------------|-------------|
-| Voice Talent | Jeff Boyer[^ref-1] |
-| Voice Talent | Jane Chase[^ref-1] |
-| Tutorial Host | Larry Nixon (professional angler)[^ref-8] |
-| Tutorial Host | Denny Brauer (professional angler)[^ref-8] |
+- **Universal Lure:** A player tip on IGN recommends a gold/crawdad Willow and Worm spinner, claiming "Anything from Bass to Catfish will bite on it at any time, day or night."[^ref-12]
+- **No Printed Manual:** Trophy Bass shipped without a printed manual, relying on a built-in help system instead.[^ref-5][^ref-37]
+- **Retail Strategy:** Maher notes that it sold far more copies from Wal-Mart's outdoor sections than from computer and game stores.[^ref-6]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Trophy Bass became an unexpected commercial success for Sierra On-Line and Dynamix. By November 1997, the original Trophy Bass and its sequel had sold over half a million units combined.[^ref-23] The franchise's first two entries eventually topped 1.5 million units in sales by July 1999.[^ref-13]
-
-The game demonstrated that fishing simulations could succeed commercially when marketed to fishing enthusiasts rather than just traditional gamers. This retail strategy, placing the game in outdoor sporting goods sections of major retailers like Wal-Mart, proved remarkably effective and influenced how subsequent outdoor sports titles were marketed.[^ref-6]
-
-Trophy Bass earned recognition as a runner-up for Computer Gaming World's 1995 Sports Game of the Year award, validating its quality among contemporary releases despite its niche subject matter.[^ref-1]
+By November 1997, Trophy Bass and its sequel had sold over half a million units combined.[^ref-23] In July 1999, CNET Gamecenter reported that Field & Stream Trophy Bass and Trophy Bass 2 Deluxe "have sold more than 1.5 million copies to date."[^ref-44] Maher counts Trophy Bass as Dynamix's most profitable game, writing that it was "eclipsed, in fact, only by the unrivaled king of Wal-Mart software: *Deer Hunter*."[^ref-6]
 
 ### Franchise Evolution
 
-The success of Trophy Bass spawned a multi-game franchise that continued throughout the late 1990s and into the 2000s:
+The series continued through the late 1990s and into the 2000s:
 
-- **Front Page Sports: Trophy Bass 2** (1996) – Added 10 lakes, multiplayer support via network/modem/Internet[^ref-24]
-- **Trophy Bass 2: Northern Lakes** (1997) – Expansion pack adding additional lakes[^ref-25]
-- **Trophy Bass 2 Deluxe** (1998) – Compilation including Northern Lakes expansion[^ref-26]
-- **Field & Stream: Trophy Bass 3D** (1999) – Full 3D graphics, 15 tournament lakes, 30 fish species[^ref-27]
-- **Field & Stream: Trophy Bass 4** (2000) – Enhanced simulation with 25 real lakes, over 1000 fishing gadgets[^ref-28]
-- **Trophy Bass Fishing 5** (Cancelled) – Planned Xbox release that was ultimately cancelled[^ref-29]
+- **Front Page Sports: Trophy Bass 2** (1996). It had ten lakes in total, against the original's five, and added multiplayer over a network, a modem or the Internet.[^ref-24][^ref-31]
+- **Trophy Bass 2: Northern Lakes** (1997). An expansion pack adding further lakes.[^ref-25]
+- **Trophy Bass 2 Deluxe** (1998). A compilation of Trophy Bass 2 and the Northern Lakes expansion.[^ref-26][^ref-3]
+- **Field & Stream: Trophy Bass 3D** (1999). It had 15 tournament lakes and 30 fish species.[^ref-44][^ref-27]
+- **Field & Stream: Trophy Bass 4** (2000). Database listings give it 25 real lakes and more than 1,000 fishing items.[^ref-28]
+- **Trophy Bass Fishing 5** (cancelled). A planned Xbox release.[^ref-29]
 
 ### Related Publications
 
-- **Built-in Tutorial System:** The game included over 70 multimedia tutorial movies featuring professional anglers providing fishing instruction[^ref-8]
-- **In-Game "How To" Reference:** Trophy Bass 4 included a multimedia bass fishing reference designed to be "equally useful on real fishing trips."[^ref-11]
+- **Built-in Tutorial System:** The game includes more than 70 multimedia tutorial movies hosted by pros Larry Nixon and Denny Brauer.[^ref-8]
 
 ### Critical Perspective
 
-Trophy Bass represents an important, if often overlooked, milestone in PC gaming history. While adventure games and shooters dominated critical attention in the mid-1990s, simulation titles targeting specific hobby communities proved equally viable commercially.[^ref-6] The game demonstrated that developing authentic, well-researched simulations for niche audiences could generate substantial sales even without significant mainstream gaming press coverage.
-
-The franchise's success influenced Sierra's broader strategy with outdoor sports titles, leading to related games like Trophy Rivers and the Trophy Buck hunting simulation.[^ref-17][^ref-31] More significantly, Trophy Bass helped establish fishing games as a legitimate commercial category that continues to this day, with subsequent titles from various publishers building on the foundation it established[^ref-32].
-
-From a design perspective, Trophy Bass showed that educational and entertainment value could coexist effectively. The game's tutorial system, featuring genuine professional instruction, provided real-world fishing knowledge while the simulation mechanics rewarded players who applied these lessons[^ref-33]. This approach of making games both entertaining and genuinely instructive would influence subsequent sports and hobby simulations across many genres.
+Trophy Bass is a case study in how a game's commercial weight and its place in collective memory can come apart. Maher ranks it as Dynamix's most profitable game, ahead of titles that "are still discussed today" such as *Betrayal at Krondor* and *The Incredible Machine*, while noting that it had no reviews at all on MobyGames.[^ref-6] Sierra kept working the outdoor-sports market. In November 1997, betas of *Front Page Sports: Trophy Rivers* were going out to the press,[^ref-23] and Sierra's support pages group the Trophy Bass patches with those for the *Trophy Buck* hunting games.[^ref-17]
 
 ## Purchase
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) - Community Dreamlist
+- Not currently sold on GOG or Steam
 
 ## Downloads
 
 **Download / Preservation**
 - [Internet Archive – Trophy Bass Demo](https://archive.org/details/TROPHY) – 1995 demo version
-- [MyAbandonware – Trophy Bass](https://www.myabandonware.com/game/trophy-bass-3rw) – Full game download
+- [MyAbandonware – Trophy Bass](https://www.myabandonware.com/game/trophy-bass-3rw) – Full game download (the game is not sold commercially)
 
 **Patches & Support**
-- [Sierra Help Pages – Trophy Bass Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TrophyBassUpdates.html) – Official patches and modern compatibility installers[^ref-17]
+- [Sierra Help Pages – Trophy Bass Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TrophyBassUpdates.html) – Official v1.01 patch (tbass101)[^ref-17]
 
 **Soundtracks**
 - [Xeen Music – Trophy Bass Official Soundtrack](https://xeenmusic.bandcamp.com/album/trophy-bass-1-official-soundtrack-volume-1-sc-55) – Archival soundtrack release[^ref-16]
@@ -250,37 +235,32 @@ From a design perspective, Trophy Bass showed that educational and entertainment
 
 ## References
 
-[^ref-1]: [Dynamix Fandom Wiki – Trophy Bass](https://dynamix.fandom.com/wiki/Trophy_Bass) – development credits, ratings, awards, release information
-[^ref-2]: [Amazon – Trophy Bass](https://www.amazon.com/Sierra-Trophy-Bass/dp/B0007Y9DK2) – product description, platform details
-[^ref-3]: [MobyGames – Trophy Bass](https://www.mobygames.com/game/4831/trophy-bass/) – credits, technical specifications, game description
-[^ref-4]: [Old-Games.com – Trophy Bass](https://www.old-games.com/download/10696/trophy-bass) – gameplay description, contemporary review quotes
-[^ref-5]: [Coming Soon Magazine – Trophy Bass Review](https://www.csoon.com/issue10/trophy.htm) – review score, technical specifications, gameplay details
-[^ref-6]: [The Digital Antiquarian](https://www.filfre.net/?s=Trophy+Bass) – commercial success analysis, retail strategy
-[^ref-7]: [PC Gamer Review (Archive.org)](https://web.archive.org/web/20000309215210/http://www.pcgamer.com/reviews/1098.html) – Ned Gaskins review, 90% score
-[^ref-8]: [Computer Game Review (Archive.org)](https://web.archive.org/web/19961221191338/http://www.nuke.com/cgr/reviews/9601/tbass/tbass.htm) – tutorial system details, professional angler involvement
-[^ref-9]: [PC Games Magazine (Archive.org)](https://web.archive.org/web/19961018131916/http://www.pcgamesmag.com/games/Jan96/bass196.html) – Steve Klett review, gameplay mechanics
-[^ref-10]: [eBay – Trophy Bass Listing](https://www.ebay.com/itm/304624717029) – control elements, product details
-[^ref-11]: [GameSpy – Trophy Bass 4](http://pc.gamespy.com/pc/field-stream-trophy-bass-4/) – gameplay simulation details
-[^ref-12]: [IGN Cheats – Trophy Bass](https://www.ign.com/wikis/pc-cheats/Trophy_Bass_Cheats) – lure selection tips
-[^ref-13]: [Wikipedia – Trophy Bass](https://en.wikipedia.org/wiki/Trophy_Bass) – sales data, awards, Computer Gaming World quote
-[^ref-14]: [MyAbandonware – Trophy Bass](https://www.myabandonware.com/game/trophy-bass-3rw) – user ratings, community comments
-[^ref-15]: [Amazon – Trophy Bass Outdoor Sportsman](https://www.amazon.com/Trophy-Bass-Outdoor-Sportsman-DOS/dp/0871771128) – technical specifications
+[^ref-1]: [Dynamix Fandom Wiki – Trophy Bass](https://dynamix.fandom.com/wiki/Trophy_Bass) – full credits list (agrees with MobyGames)
+[^ref-2]: [Amazon – Trophy Bass](https://www.amazon.com/Sierra-Trophy-Bass/dp/B0007Y9DK2) – product tagline, customer rating
+[^ref-3]: [MobyGames – Trophy Bass](https://www.mobygames.com/game/4831/trophy-bass/) – developer/publisher, platforms, credits, input devices, 71% critic average (10 ratings), related releases
+[^ref-5]: [Coming Soon Magazine – Trophy Bass Review (Wayback, April 1997)](https://web.archive.org/web/19970416102111/http://www.csoon.com/issue10/trophy.htm) – 84% review, system requirements, no printed manual
+[^ref-6]: [The Digital Antiquarian – "Tex Murphy and the Coming of the DVD (A Shaggy-Dog Story)" (Jimmy Maher, 2024)](https://www.filfre.net/2024/08/tex-murphy-and-the-coming-of-the-dvd-a-shaggy-dog-story/) – Dynamix's most profitable game, Wal-Mart sales, zero MobyGames reviews
+[^ref-7]: [PC Gamer Review (Archive.org)](https://web.archive.org/web/20000309215210/http://www.pcgamer.com/reviews/1098.html) – Ned Gaskins review, February 1996, 90% score
+[^ref-8]: [Computer Game Review (Archive.org)](https://web.archive.org/web/19961221191338/http://www.nuke.com/cgr/reviews/9601/tbass/tbass.htm) – "Stuff That Fish!", January 1996: five lakes, 70+ tutorial movies, mouse or keyboard, PC and Macintosh
+[^ref-9]: [PC Games – Trophy Bass review by Steve Klett, January 1996 (Archive.org)](https://web.archive.org/web/19961018131916/http://www.pcgamesmag.com/games/Jan96/bass196.html) – review summary, boat equipment, tackle, bass modeling
+[^ref-12]: [IGN Cheats – Trophy Bass](https://www.ign.com/wikis/pc-cheats/Trophy_Bass_Cheats) – player lure tip
+[^ref-14]: [MyAbandonware – Trophy Bass](https://www.myabandonware.com/game/trophy-bass-3rw) – user ratings, community comments on modern Windows
 [^ref-16]: [Xeen Music – Trophy Bass Soundtrack](https://xeenmusic.bandcamp.com/album/trophy-bass-1-official-soundtrack-volume-1-sc-55) – composer credits, recording methodology
-[^ref-17]: [Sierra Help Pages – Trophy Bass Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TrophyBassUpdates.html) – patch details, version history
-[^ref-18]: [VOGONS Forum – Trophy Bass Timing](https://www.vogons.org/viewtopic.php?t=66507) – game clock speed issues
-[^ref-19]: [Sierra Help Pages – New Sierra Installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – modern Windows compatibility
-[^ref-21]: [Internet Archive – Trophy Bass 4 Standalone](https://archive.org/details/trophy-bass-4-fishing-full-standalone) – compatibility mode recommendations
-[^ref-23]: [PC Gamer News (Archive.org)](https://web.archive.org/web/19980218070422/http://www.pcgamer.com/news/news-1997-11-03.html) – November 1997 sales figures
-[^ref-24]: [GameSpot – Trophy Bass 2 Review](https://www.gamespot.com/reviews/trophy-bass-2-review/1900-2538124/) – Tal Blevins review, sequel features
-[^ref-25]: [MyAbandonware – Trophy Bass 2](https://www.myabandonware.com/game/front-page-sports-trophy-bass-2-dbs) – expansion pack information
-[^ref-26]: [Internet Archive – Trophy Bass 2 Deluxe](https://archive.org/details/TrophyBass2DeluxeUSA) – deluxe edition contents
-[^ref-27]: [Wikipedia – Field & Stream: Trophy Bass 3D](https://en.wikipedia.org/wiki/Field_&_Stream:_Trophy_Bass_3D) – 3D sequel information
-[^ref-28]: [GamePressure – Trophy Bass 4](https://www.gamepressure.com/games/field-stream-trophy-bass-4/zfae9) – game features, user rating
+[^ref-17]: [Sierra Help Pages – Trophy Buck and Bass Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TrophyBassUpdates.html) – tbass101 patch details, v1.01
+[^ref-23]: [PC Gamer News (Archive.org)](https://web.archive.org/web/19980218070422/http://www.pcgamer.com/news/news-1997-11-03.html) – November 1997: original and sequel "sold over half a million units"; Trophy Rivers betas
+[^ref-24]: [GameSpot – Trophy Bass 2 Review](https://www.gamespot.com/reviews/trophy-bass-2-review/1900-2538124/) – Tal Blevins, 1996: "ten lakes (compared to five in the original)", multiplayer
+[^ref-25]: [MyAbandonware – Trophy Bass 2](https://www.myabandonware.com/game/front-page-sports-trophy-bass-2-dbs) – Northern Lakes add-on
+[^ref-26]: [Internet Archive – Trophy Bass 2 Deluxe](https://archive.org/details/TrophyBass2DeluxeUSA) – compilation of Trophy Bass 2 and Northern Lakes
+[^ref-27]: [Wikipedia – Field & Stream: Trophy Bass 3D](https://en.wikipedia.org/wiki/Field_&_Stream:_Trophy_Bass_3D) – 1999 release
+[^ref-28]: [GamePressure – Trophy Bass 4](https://www.gamepressure.com/games/field-stream-trophy-bass-4/zfae9) – game features
 [^ref-29]: [GameSpy Xbox – Trophy Bass Fishing 5](http://xbox.gamespy.com/xbox/trophy-bass-fishing-5/) – cancelled Xbox release
 [^ref-30]: [Zophar's Domain – Trophy Bass Music](https://www.zophar.net/music/windows/trophy-bass) – game music archive
-[^ref-31]: [MobyGames – Trophy Bass 2](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/) – sequel credits and details
-[^ref-32]: [Internet Archive – Trophy Bass Demo 1996](https://archive.org/details/swizzle_demu_BASS) – demo version metadata
-[^ref-33]: [GOG.com Dreamlist – Trophy Bass 2](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) – community interest
-[^ref-34]: [GameRevolution – Trophy Bass 2](https://www.gamerevolution.com/game/trophy-bass-2) – gameplay features
-[^ref-35]: [FilePlanet – Trophy Bass 4 Patch](https://www.fileplanet.com/archive/p-29857/Trophy-Bass-4-Patch-1-0-0-3) – patch details
-[^ref-36]: [VOGONS Forum – Trophy Bass 2](https://www.vogons.org/viewtopic.php?t=28700) – 16-bit installer compatibility issues
+[^ref-31]: [MobyGames – Trophy Bass 2](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/) – sequel release year
+[^ref-37]: [Computer Gaming World #139 (February 1996), "Fishful Thinking" by Kevin Turner, pp. 174 and 176 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_139/page/n177/mode/2up) – "There are five lakes available…", tournament/career structure, four stars, no print manual, system requirements
+[^ref-38]: [Computer Gaming World #138 (January 1996), Sierra advertisement, p. 76 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_138/page/n79/mode/2up) – "one of five virtual lakes", "50 million people in this country", B.A.S.S. endorsement
+[^ref-39]: [InterAction (Sierra), Holiday 1995, "Trophy Bass: As Close to the Real Thing As You Can Get!", pp. 77–78 (Internet Archive scan)](https://archive.org/details/InterAction_Magazine_Holiday_1995_1995_Sierra_On-Line_US/page/n85/mode/2up) – "The five featured lakes offer a total of 750,000 different locations"; sidebar naming the five lakes; three modes; conditions; 20 rods, 200 lures
+[^ref-40]: [Computer Gaming World #143 (June 1996), "CGW Premier Awards", Sports Game of the Year, p. 60 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_143/page/n63/mode/2up) – finalist; "rewards patient gamers with the best fishing simulation yet"
+[^ref-41]: [Computer Gaming World #143 (June 1996), "Patches", p. 204 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_143/page/n207/mode/2up) – "Trophy Bass V1.01: Updates game to V1.01. Fixes known bugs."
+[^ref-42]: [PC Gamer #16 (September 1995), "Eyewitness" news section, Trophy Bass preview (Internet Archive scan)](https://archive.org/details/pc-gamer-issue-16-september-1995/page/n45/mode/2up) – "Sierra On-Line's first-ever fishing simulation", slated for fall release, comparison with Gone Fishin'
+[^ref-43]: [GameSpot – Trophy Bass Review (Hugo Foster, May 1, 1996)](https://www.gamespot.com/reviews/trophy-bass-review/1900-2535346/) – 7.6 score and verdict
+[^ref-44]: [CNET Gamecenter – "Trophy Bass 3D Hits the Shelves" (Bill McClendon, July 6, 1999; Archive.org)](https://web.archive.org/web/20000817165812/http://www.gamecenter.com/News/Item/0,3,0-2946,00.html) – predecessors sold more than 1.5 million copies; Trophy Bass 3D's 15 lakes and 30 species
