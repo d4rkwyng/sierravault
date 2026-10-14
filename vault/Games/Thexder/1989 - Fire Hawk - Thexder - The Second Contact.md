@@ -2,7 +2,7 @@
 title: 'Fire Hawk: Thexder - The Second Contact'
 release_year: 1989
 developer: Game Arts
-designer: [Ari Kamijō, Osamu Harada, Satoshi Uesaka, Kazuyuki Ohata]
+designer: [Satoshi Uesaka, Ari Kamijō]
 publisher: Sierra On-Line
 genre: Shooter
 platforms: [MSX2, PC-8801, DOS]
@@ -10,131 +10,145 @@ series: Thexder
 engine: Proprietary (Game Arts)
 protagonist: Fire Hawk
 sierra_lineage: Sierra Published
-last_updated: '2026-05-11'
-description: 'Fire Hawk: Thexder - The Second Contact is a run and gun action game
-  developed by Game Arts and published by Sierra On-Line for Western markets. Released
-  in...'
+last_updated: '2026-10-14'
+description: 'Fire Hawk: Thexder - The Second Contact is Game Arts'' 1989 sequel to
+  Thexder for the MSX2 and PC-8801, released in North America by Sierra On-Line for
+  DOS in 1990: a run-and-gun shooter in which a transforming robot fights through nine
+  missions inside an alien mothership.'
 tags: [1980s, shooter, sierra, thexder]
 ---
 # Fire Hawk: Thexder - The Second Contact
 
-<small style="color: gray">Last updated: May 11, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 ## Overview
 
-Fire Hawk: Thexder - The Second Contact is a run and gun action game developed by Game Arts and published by Sierra On-Line for Western markets.[^ref-1] Released in 1989 for MSX2 and PC-8801 in Japan, with a DOS version following in October 1990 for North America, the game serves as the sequel to the highly successful original Thexder.[^ref-2] The game was considered revolutionary for its time, featuring fast-paced gameplay, high-resolution graphics, and a transforming robot protagonist that could shift between humanoid and jet aircraft forms.[^ref-3]
+Fire Hawk: Thexder - The Second Contact is a run and gun action game developed by Game Arts and published by Sierra On-Line for Western markets.[^ref-1][^ref-2] Game Arts released it in Japan in 1989 for the MSX2 and PC-8801, and Sierra's DOS version followed in 1990.[^ref-1] Sierra's own magazine introduced it as "a sequel to the 1987 best-seller Thexder".[^ref-31] Like its predecessor, the game is built around a transforming robot that switches between humanoid and jet forms.[^ref-1][^ref-7]
 
-The game retains the core concept of its predecessor while adding significant improvements, including new and upgradable weapons, in-game dialogue, and an expanded soundtrack featuring eleven complete songs that were noted for their exceptional quality by contemporary standards.[^ref-4] Fire Hawk features the same essential design as Thexder—a laser weapon, protective shield, and the signature ability to transform into a jet—but with enhanced speed and firepower.[^ref-5] The sequel sold well in both Japan and the United States, building on the tremendous success of the original game.[^ref-2]
+Sierra described the hero as "the new, improved suit — FIREHAWK", flown "in 9 different combat missions to cripple the alien mothership", backed by "a thrilling soundtrack with 11 different songs".[^ref-24] The Fire Hawk robot keeps Thexder's core design of a laser, a shield and the ability to transform into a jet, and adds special weapons found during the missions.[^ref-1] A MobyGames player review summed up the sequel as using "the same gameplay mechanics as its predecessor, while incorporating new features such as new/upgradable weapons and in-game dialogue".[^ref-5]
 
 > [!info]- Game Info
 > **Developer:** [[Game Arts]][^ref-1]
-> **Designer:** Ari Kamijō, Osamu Harada, Satoshi Uesaka, Kazuyuki Ohata[^ref-2][^ref-6]
+> **Designer:** Satoshi Uesaka, Ari Kamijō[^ref-28][^ref-6]
 > **Publisher:** Game Arts (Japan), [[Sierra On-Line]] (North America)[^ref-1]
 > **Engine:** Proprietary
 > **Platforms:** MSX2, PC-8801, MS-DOS[^ref-1]
-> **Release Year:** 1989 (Japan), 1990 (North America)
+> **Release Year:** 1989 (Japan), 1990 (North America)[^ref-1]
 > **Series:** Thexder
 > **Protagonist:** Fire Hawk
 > **Sierra Lineage:** Published by Sierra
 
 ## Story Summary
 
-The game's narrative centers on an impending extinction-level threat to Earth. An alien race known as the Nediam inhabit a giant vessel resembling an asteroid, which is on a collision course with Earth.[^ref-7] The space ship Repina has detected this asteroid, designated Nedian, and determines that immediate action must be taken to prevent catastrophe.[^ref-5]
+The game's narrative centers on a threat to Earth. An alien race known as the Nediam inhabit a giant ship resembling an asteroid, which is heading straight towards Earth.[^ref-7] Sierra's announcement set the game "4 years later", with "an invasion of bloodthirsty aliens" threatening Earth.[^ref-24] In Katakis's account of the back-story, the space ship Repina detects that the asteroid Nedian, which it had explored years earlier, is on a collision course with Earth.[^ref-5]
 
-In response to this threat, Repina's engineers designed and constructed Fire Hawk, an advanced armored exoskeleton that surpasses the original Thexder in both speed and firepower.[^ref-5] Fire Hawk is dispatched to intercept the asteroid and destroy the alien threat from within.[^ref-5] The player takes on the role of this new combat robot, infiltrating the Nediam mothership across nine increasingly difficult missions to disable the alien vessel before it reaches Earth.[^ref-4]
-
-The game continues directly where the earlier Thexder left off, with Fire Hawk representing the evolution of the transforming robot technology first seen in its predecessor.[^ref-8] Throughout the missions, players encounter various alien defenses and hostile creatures within the asteroid ship, culminating in a final boss encounter that takes the form of a giant Thexder—a dramatic confrontation that serves as the highlight of the game.[^ref-5]
+Fire Hawk is a robot designed by the Repina that surpasses Thexder in speed and firepower, and it is sent to intercept and destroy the asteroid.[^ref-5] The goal is to penetrate the asteroid, destroy its defenses and finally destroy its nerve center to halt the attack.[^ref-7] The publisher's description says the sequel "continues where the earlier game left off".[^ref-8] The final boss looks like a giant Thexder, which Katakis called the highlight of the game.[^ref-5]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Fire Hawk maintains the same fundamental gameplay mechanics as the original Thexder while incorporating significant new features.[^ref-5] The player controls the Fire Hawk robot using keyboard or joystick input, with the ability to fire a laser weapon, activate a protective energy shield, and transform between humanoid robot and jet aircraft modes at will.[^ref-9] The transformation mechanic, similar to the Robotech VF-1 Valkyrie or Decepticon Starscream, allows players to adapt to different combat situations and navigate through tight corridors or open spaces.[^ref-10]
+Fire Hawk uses the same gameplay mechanics as the original Thexder.[^ref-5] The robot has a laser, a shield and the ability to transform into a jet.[^ref-1] In humanoid form it fires auto-targeting lasers. In jet form it can only fire straight ahead, but it can fly to areas that cannot be reached by jumping and fit through narrow passages.[^ref-7] StrategyWiki compares the original Thexder's transformation to the Robotech VF-1 Valkyrie and the Decepticon Starscream.[^ref-10]
 
-The DOS version supports keyboard controls as the primary input method, with the game offering an option to disable background drawing for faster gameplay performance on slower systems.[^ref-1] Players can access the game's music tracks directly from the title screen, allowing them to appreciate the acclaimed soundtrack independently of gameplay.[^ref-1]
+The DOS version supports the keyboard and an analog joystick.[^ref-30] During installation it offers the option of not drawing the backgrounds, which can speed up play on slower computers. A music option on the title screen plays most of the game's songs.[^ref-1] Joystick magazine noted both features in its 1991 review.[^ref-13]
 
 ### Structure and Progression
 
-The game is divided into nine challenging levels of play, each split into sub-levels that progressively increase in difficulty.[^ref-4] Every fourth sub-level features a boss enemy encounter, creating a rhythm of exploration and combat punctuated by climactic confrontations.[^ref-9] The level design requires players to navigate maze-like environments while eliminating hostile aliens and managing their energy reserves.
+There are nine increasingly difficult levels, which can be maze-like and contain hidden passageways and bonus items.[^ref-7] According to MobyGames, levels are divided into sub-levels, and every fourth sub-level features a boss fight.[^ref-1] Each mission has its own boss theme in the soundtrack listings for both Japanese versions, and Katakis notes a background theme and a boss theme in every level.[^ref-19][^ref-23][^ref-5]
 
-Fire Hawk introduces an autosave system that was innovative for its time—the game automatically saves progress each time the player completes a mission, remembering energy levels and equipment from the previous stage.[^ref-11] This allows players to restart at previously visited level beginnings rather than being forced to replay the entire game from scratch.[^ref-9]
+The game autosaves each time the player completes a mission, keeping the energy and equipment from the mission just played, according to a save-file guide for the DOS version.[^ref-11] Sources describe saving differently. MobyGames says the game can be saved "at certain points",[^ref-1] Home of the Underdogs says "you can now save in mid-level",[^ref-15] and PCGamingWiki states that the game does not support saving progress.[^ref-21]
 
-- **Missions 1-3:** Initial infiltration of the Nediam asteroid
-- **Mission 4:** First major boss encounter
-- **Missions 5-7:** Deeper penetration into alien territory
-- **Mission 8:** Advanced combat zones
-- **Mission 9:** Final confrontation with the giant Thexder boss[^ref-5]
+PixelatedArcade lists the nine missions as follows:[^ref-7]
+
+1. **Entrance**
+2. **Defense System I**
+3. **Magnetic Field Generator**
+4. **Clone Factory**
+5. **Engine**
+6. **Defense System II**
+7. **Energy Tank**
+8. **Defense System III**
+9. **Central Block**, the Nediam's nerve center
 
 ### Puzzles and Mechanics
 
-The gameplay emphasizes fast-paced combat and survival rather than traditional puzzle-solving. Players must manage their energy reserves carefully, as the shield system drains power when activated.[^ref-9] The game introduces new weapon systems beyond the basic laser, including guided missiles and special weapons such as the Flasher and Stopper.[^ref-9] A weapons carrier droid accompanies Fire Hawk, providing additional firepower and tactical options.[^ref-5]
+The gameplay is built around combat and survival rather than puzzle-solving. Firing the laser and taking hits drain the robot's energy. Activating the shield also costs energy, and the shield runs out faster each time the robot is hit.[^ref-7] The Fire Hawk starts with 30 homing missiles and can carry up to 99.[^ref-7] It can also carry up to three sub-weapons found in the levels, including the Dart Missile, Napalm Bomb, ECM, Stopper, Flasher and Energy Tank.[^ref-7] The Flasher damages everything on screen, and the Stopper freezes enemies for a while.[^ref-1] Picking up special weapons brings in a weapons carrier droid that shields the player.[^ref-5]
 
-Weapon upgrades can be collected throughout the levels, encouraging thorough exploration while maintaining the frenetic pace of combat.[^ref-4] The transformation ability serves as both a combat and navigation mechanic—jet mode offers greater speed and maneuverability for traversing open areas, while robot mode provides more precise control for tight corridors and intense firefights.[^ref-9]
+Power-ups and energy refills are often hidden off the main path, so exploring a whole level pays off. Later levels can be very hard without the energy reserves built up earlier.[^ref-7]
 
 ## Reception
 
 ### Contemporary Reviews
 
-The game received positive coverage in gaming publications of the era. The One magazine, reviewing the game in February 1991, praised its combination of elements, noting that "with furious arcade action, high-resolution graphics and 11 complete songs... Thexder II looks set to surpass the success of the original."[^ref-2] The magazine highlighted the visual polish and soundtrack quality as standout features that elevated the game above typical action titles of the period.
+Japan's MSX Magazine reviewed the MSX2 version in its January 1990 issue, mainly praising the robot's smooth animation. It listed the game at ¥7,800 on 2DD disks.[^ref-12][^ref-6]
 
-Japanese MSX Magazine featured coverage of the game in their January 1990 issue, documenting its release for the MSX2 platform.[^ref-12] The game garnered attention from multiple European publications including Joystick magazine (France), Micromania (Spain), and MSX Force (Portugal), indicating strong international interest in the sequel.[^ref-13]
+The French magazine Joystick reviewed the PC version in February 1991 and gave it 75%. Its sub-scores were 14 for EGA graphics, 14 for AdLib sound, 16 for animation and 14 for handling. The review praised the fast animation and the option to skip drawing backgrounds on slow PCs. It was unimpressed by the simplified Moonlight Sonata arrangement in the intro and called the in-game Japanese pop music bland, though the music can be switched off.[^ref-13]
 
-However, not all reviews were uniformly positive. MobyGames user reviewer Tomer Gabel offered a more critical assessment, stating the game was "horribly less appealing than the original" while acknowledging that "the graphics are somewhat improved and the engine is only the slightest bit faster."[^ref-14] Another reviewer characterized it as "a solid shooter, if somewhat repetitive."[^ref-5]
+The One covered the game in its February 1991 feature on Sierra, in a section on Game Arts, rather than reviewing it. The feature predicted that "with furious arcade action, high-resolution graphics and 11 complete songs (including an enchanting version of Moon Light Sonata) Thexder II looks set to surpass the success of the original."[^ref-26]
+
+MobyGames player reviews are mixed. Katakis praised the soundtrack and the improved graphics.[^ref-5] RmM's 1999 review was titled "A solid shooter, if somewhat repetitive."[^ref-29] Tomer Gabel found the sequel "horribly less appealing than the original," though he granted that "the graphics are somewhat improved and the engine is only the slightest bit faster."[^ref-14]
 
 ### Modern Assessment
 
-Modern retrospective coverage has generally been favorable, with the game recognized as an important entry in the transforming robot action genre. Home of the Underdogs (HOTUD) awarded the game a perfect 5/5 score, praising it as having "more of everything: enemies, power-ups, levels, and sports much-improved graphics and a rocking soundtrack."[^ref-15]
+Home of the Underdogs wrote that the sequel "has more of everything: enemies, power-ups, levels, and sports much-improved graphics and a rocking soundtrack."[^ref-15]
 
 **Aggregate Scores:**
 - **MobyGames:** 7.1/10[^ref-1]
-- **Glitchwave:** 2.50/5.0[^ref-16]
+- **Glitchwave:** 2.50/5.0 (2 ratings)[^ref-16]
 - **GameFAQs User Rating:** "Outstanding" (MSX version), "Great" (PC version)[^ref-8][^ref-17]
 
-GameFAQs users characterized the difficulty as "Tough" with estimated completion times ranging from 20 to 37 hours depending on the platform version.[^ref-8][^ref-17]
+GameFAQs users rated the difficulty "Tough", with average completion times of 37 hours for the MSX version and 20 hours for the PC version.[^ref-8][^ref-17]
 
 ## Development
 
 ### Origins
 
-Fire Hawk represents the continuation of Game Arts' debut franchise, building upon the tremendous success of the original Thexder which had sold extraordinarily well in Japan and subsequently found an audience in Western markets through Sierra On-Line's localization.[^ref-10] The development team sought to improve upon every aspect of the original while retaining the core transformation mechanic that had defined the first game.
+Fire Hawk follows Thexder, Game Arts' first product. Thexder sold 500,000 units in Japan, won Japan's BHS (Best Hit Software) award and became Sierra's best seller for 1987.[^ref-31] StrategyWiki calls the original Thexder an evolution of transforming robot games such as Formation Z and Volguard, and says its designers cited Atari's arcade game Major Havok as an inspiration.[^ref-10]
 
-The concept evolved from the transforming robot games of the mid-1980s, with the original Thexder having been inspired by Atari's arcade game Major Havok and following in the tradition of earlier transforming robot titles like Formation Z and Volguard.[^ref-10] Fire Hawk took this foundation and expanded it with enhanced visuals, improved gameplay mechanics, and a more ambitious soundtrack.
+Sierra presented the sequel's battle suit as "enhanced with even more weapons and more firepower".[^ref-24] In Fall 1990, Sierra announced a long-term alliance under which it would convert and distribute all Game Arts products in the U.S. and Europe. The same article listed Firehawk as one of two new Game Arts releases planned for that year.[^ref-31]
 
 ### Production
 
-Game Arts developed the game simultaneously for multiple Japanese computer platforms, including the MSX2 and PC-8801, before Sierra On-Line handled the localization and distribution of the DOS version for Western markets.[^ref-1] The development prioritized improvements in design and gameplay to provide enhanced enjoyment over the original.[^ref-8]
+Game Arts released the MSX2 and PC-8801 versions in Japan in 1989.[^ref-1] The DOS credits list Satoshi Uesaka (original concept) and Ari Kamijo as designers. Gary Butts and Ken Koch are credited as lead programmers alongside Kamijo and Kazuyuki Ohata. Butts, Koch and Josh Mandel are listed as producers, with Mitsuhiro Mazda and Ken Williams as executive producers.[^ref-28]
 
-The DOS version included a short comic book in the manual, providing additional narrative context for players and representing an effort to make the Western release more appealing to the action game market.[^ref-1] Sierra marketed the game emphasizing its nine challenging levels, new features and options, and "a degree of visual polish virtually unknown in U.S. action games products."[^ref-4]
+The MSX version has an introductory story sequence that the DOS port leaves out. Instead, the DOS manual includes a short comic book covering the back-story.[^ref-1] The publisher's description reproduced on GameFAQs promised "nine challenging levels of play, new features and options, and a degree of visual polish virtually unknown in U.S. action games products".[^ref-8][^ref-17]
 
-**Development Credits:**[^ref-1][^ref-6]
-- **Designers:** Ari Kamijō, Osamu Harada, Satoshi Uesaka, Kazuyuki Ohata
-- **Composers:** Hiromi Ohba, Tadashi Shimayama, Masahiko Yoshimura, Mecano Associates
-- **DOS Sound Adaptation:** Rob Atesalp
-- **Additional Composition:** Masakuni Mitsuhashi (includes arrangement of Ludwig van Beethoven)[^ref-18]
+**Development Credits (DOS):**[^ref-28]
+- **Original Concept:** Satoshi Uesaka
+- **Design:** Ari Kamijō, Satoshi Uesaka
+- **Directors:** Ari Kamijō, Kazuyuki Ohata, Satoshi Uesaka
+- **Lead Programming:** Gary Butts, Ari Kamijō, Ken Koch, Kazuyuki Ohata
+- **Level / Scenario Design:** Osamu Harada
+- **Music:** Hiromi Ohba, Tadashi Shimayama, Masahiko Yoshimura, Mecano Associates
+- **Music / Sound Programming:** Ken Allen, Robert Atesalp
+- **Documentation:** Bridget McKenna, Akiko Skjellerup, Yuzo Sunaga, Mariko Uemura
+- **Cover Art:** Terry Robinson
+- **Additional Composition (MSX2):** Masakuni Mitsuhashi; the soundtrack includes an arrangement of Ludwig van Beethoven's Moonlight Sonata[^ref-6][^ref-18][^ref-26]
 
 ### Technical Achievements
 
-The game's soundtrack represented a significant technical achievement, featuring eleven complete music tracks of a quality that was relatively exceptional for video games of the late 1980s and early 1990s.[^ref-4] The PC-88 version's audio was noted by enthusiasts as having "high quality, fast album with that nice synthesizer zing (the PC-88 sounds a lot like the X68000 here)."[^ref-19]
+Sierra advertised "a thrilling soundtrack with 11 different songs".[^ref-24] The One counted "11 complete songs", including a version of the Moonlight Sonata.[^ref-26] A user comment on Khinsider calls the PC-88 soundtrack a "high quality, fast album with that nice synthesizer zing (the PC-88 sounds a lot like the X68000 here)."[^ref-19]
 
-The MSX2 version utilized both PSG (Programmable Sound Generator) and FM synthesis through the YM2413 chip, with the game supporting multiple audio configurations including MSX-Music and FM-PAC.[^ref-18][^ref-20] An enhanced version improved the FM detection routine with a specific preference order: MSX-Audio BIOS v1.3, internal MSX-Music, then external MSX-Music.[^ref-20]
+The MSX2 version uses PSG and MSX-Music sound (the AY-3-8910 and YM2413 chips).[^ref-6][^ref-18] Patch notes for an "enhanced" version, quoted on MSX.org, describe an improved FM detection routine with the preference order "MSX-Audio BIOS v1.3, internal MSX-Music, external MSX-Music."[^ref-20]
 
 ### Technical Specifications
 
-**DOS Version:**[^ref-21]
-- **Video Modes:** EGA (640x200, 16 colors), MCGA (320x200, 256 colors), PCjr/Tandy (320x200, 16 colors)
-- **Minimum RAM:** 512 KB
-- **Minimum CPU:** Intel 8088 / 8086
-- **Audio Support:** OPL2 (AdLib), Roland MT-32[^ref-22]
-- **Media:** 3.5" Floppy Disk[^ref-1]
-- **Perspective:** 2D scrolling, Side view[^ref-15]
+**DOS Version:**
+- **Video Modes:** EGA/VGA (640x200, 16 colors), MCGA (320x200, 256 colors), PCjr/Tandy (320x200, 16 colors)[^ref-21]
+- **Minimum RAM:** 512 KB[^ref-30]
+- **Minimum CPU:** Intel 8088 / 8086[^ref-30]
+- **Audio Support:** AdLib, Game Blaster (CMS), PC speaker, Roland MT-32 / LAPC-I, Sound Blaster, Tandy/PCjr, Tandy DAC[^ref-30] (OPL2 and MT-32 renditions compared at OPL3.com[^ref-22])
+- **Media:** 3.5" and 5.25" floppy disks[^ref-30][^ref-32]
+- **Price (Fall 1990):** $34.95, listed as EGA/VGA only[^ref-32]
+- **Perspective:** 2D scrolling, Side view[^ref-1]
 
 **MSX2 Version:**[^ref-6]
 - **RAM Required:** 64 KB
 - **VRAM Required:** 128 KB
-- **Sound:** PSG, MSX-Music/FM-PAC support
+- **Sound:** PSG, MSX-Music
 - **Input Devices:** Keyboard, Joystick
 - **Language:** Japanese
-- **Media:** 2x 3.5" Floppy Disks[^ref-16]
+- **Media:** 2x 3.5" floppy disks[^ref-16]
 
 **Soundtrack Technical Details:**[^ref-19][^ref-23]
 - **PC-88 Version:** 24 tracks, ~47 minutes total duration
@@ -146,66 +160,58 @@ The MSX2 version utilized both PSG (Programmable Sound Generator) and FM synthes
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | November 1989 | MSX2 | Initial Japanese release[^ref-6] |
-| 1.0 | November 1989 | PC-8801 | Japanese release[^ref-17] |
-| 1.0 | October 1990 | MS-DOS | North American release by Sierra[^ref-2] |
-| HDD | Later | MSX2 | Fixed MSX-Music detection routine[^ref-20] |
+| 1.0 | November 1989 | PC-8801 | Japanese release[^ref-1][^ref-17] |
+| 2.0 | 1990 | MS-DOS | North American release by Sierra; MobyGames dates version 2.0 to September 24, 1990, Wikipedia gives October 1990 and PCGamingWiki December 30, 1990[^ref-1][^ref-2][^ref-21] |
+| "Enhanced"/HDD | Later | MSX2 | Patched version discussed on MSX.org, with a revised MSX-Music detection routine[^ref-20] |
 
 ### Technical Issues
 
-The MSX2 version exhibited strict FM detection requirements that could cause compatibility issues with certain hardware configurations.[^ref-20] Save game functionality could be problematic on systems with old or weak batteries in the clock chip, as the game utilized clock chip storage for saving progress.[^ref-20] A BASIC program workaround was developed by the community to manually write save game data in cases where the automatic save system failed.[^ref-20]
+On MSX.org, a user reported that the patched MSX2 version failed to detect the internal MSX-Music on their machine.[^ref-20] Forum members describe the MSX2 version saving to the computer's clock chip, and the same thread traced failed saves to a weak clock battery. A forum member posted a BASIC program that writes a Fire Hawk save directly to the clock chip.[^ref-20]
 
-The DOS version notably does not support mid-game saving through a traditional save system, instead relying on the autosave mechanism at mission completion.[^ref-21] The game also features copy protection requiring manual word lookup to bypass.[^ref-21]
+The DOS version's copy protection asks the player to find a word in the manual.[^ref-21]
 
 **Save File Details (DOS):**[^ref-11]
 - **File Name:** SAVEGM.DAT
 - **File Size:** 315 Bytes
 - **Save Slots:** 8
 - **Slot Size:** 34 bytes each
-- **Data Stored:** Mission progress, energy, missiles, option slot information
+- **Data Stored:** Mission number, energy, maximum energy, missiles, option slot types and quantities
 
-### Easter Eggs and Trivia
+### Trivia
 
-- The final boss takes the form of a giant Thexder, creating a direct visual callback to the original game's protagonist[^ref-5]
-- The DOS version included a short comic book in the manual providing narrative context[^ref-1]
-- Players can listen to all game songs from the title screen menu[^ref-1]
-- The game offers an option to disable background drawing for improved performance on slower systems[^ref-1]
-- The Fire Hawk robot was designed by the fictional space ship Repina, establishing in-universe lore for the sequel[^ref-5]
-- The soundtrack includes an arrangement of music by Ludwig van Beethoven[^ref-18]
+- The final boss takes the form of a giant Thexder[^ref-5]
+- The MSX version's introductory story sequence is replaced in the DOS release by a short comic book in the manual[^ref-1]
+- Players can listen to most of the game's songs from the title screen[^ref-1]
+- The DOS version can skip drawing backgrounds to run faster on slower systems[^ref-1]
+- The soundtrack includes an arrangement of Beethoven's Moonlight Sonata[^ref-18][^ref-26]
+- The game's packaging and documentation use several titles, including "Firehawk: Thexder - The Second Encounter" on the back of the box and "Thexder II: Firehawk" in the manual[^ref-1]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Fire Hawk sold well in both Japan and the United States, continuing the commercial success established by the original Thexder.[^ref-2] The game demonstrated the viability of Japanese action games in Western markets when properly localized, and represented an important title in Sierra On-Line's catalog of published games from Japanese developers during the late 1980s and early 1990s.
-
-The game appeared in Sierra's product lineup as featured in Sierra News Magazine Volume 3, Number 3 (Fall 1990), indicating its prominence in the publisher's release schedule.[^ref-24] Game Arts' description emphasized it as "a sure-fire winner" with unprecedented visual polish for American action game products.[^ref-4]
+In February 1991, The One printed a US top ten for IBM PC and compatibles, credited to Login Magazine (Japan), with Fire Hawk at number 8.[^ref-27] Sierra featured the game in Sierra News Magazine Volume 3, Number 3 (Fall 1990) and sold it by mail for $34.95.[^ref-24][^ref-32]
 
 ### Collections
 
-The game has been preserved through various abandonware and archival efforts. Internet Archive maintains a playable DOS version through browser-based DOSBox emulation.[^ref-9] MyAbandonware hosts the game with a download size of approximately 749 KB.[^ref-15] DOS.Zone also provides browser-based playability with virtual mobile controls.[^ref-25]
+The DOS version was included in Sierra's 1992 compilation Action Five, alongside Thexder, Silpheed, Zeliard and Oil's Well.[^ref-1][^ref-33] GameFAQs also lists it in the Sierra Value Pack (1991).[^ref-17]
+
+The game is also preserved online. The Internet Archive hosts the DOS version with in-browser emulation.[^ref-9] MyAbandonware hosts a 749 KB download.[^ref-15] DOS.Zone offers browser play with virtual mobile controls.[^ref-25]
 
 ### Fan Projects
 
-The game's soundtrack has received particular attention from preservation communities. VGMRips maintains comprehensive music packs for the MSX2 version in VGM format, with documentation of the sound chips used (AY-3-8910 and YM2413).[^ref-18] Khinsider hosts downloadable soundtracks in multiple formats (MP3 and FLAC) for both the PC-88 and MSX2 versions, totaling approximately 92-127 MB depending on format.[^ref-19][^ref-23]
+VGMRips has a VGM music pack for the MSX2 version that lists the AY-3-8910 and YM2413 sound chips.[^ref-18] Khinsider hosts soundtrack rips for the PC-88 and MSX2 versions. The PC-88 album is 92 MB in MP3, and the MSX2 album is 58 MB in MP3 or 127 MB in FLAC.[^ref-19][^ref-23]
 
 ### Related Publications
 
 - **Game Manual:** Included short comic book providing narrative backstory (DOS version)[^ref-1]
-- **Japanese Magazine Coverage:** MSX Magazine (January 1990)[^ref-12]
+- **Japanese Magazine Coverage:** MSX Magazine (January 1990), review on page 22[^ref-12]
+- **French Magazine Coverage:** Joystick #13 (February 1991), review on page 154[^ref-13]
 - **Save Game Hacking Guide:** Technical FAQ by theruler, Version 4.0 (June 14, 2017)[^ref-11]
 
 ### Critical Perspective
 
-Fire Hawk: Thexder - The Second Contact occupies an interesting position in gaming history as both a successful sequel and a representative example of Japanese action game design finding an audience in Western markets during the transitional period of the late 1980s. While the original Thexder is often remembered as the more groundbreaking title—being the first Famicom game published by Squaresoft and establishing the transforming robot action genre—Fire Hawk refined and expanded upon that foundation in meaningful ways.[^ref-10]
-
-The game's emphasis on audiovisual polish, particularly its acclaimed eleven-track soundtrack, anticipated the increasing importance of production values in action games. Contemporary reviewers recognized this quality, with The One noting that the combination of "furious arcade action, high-resolution graphics and 11 complete songs" positioned it to potentially surpass its predecessor.[^ref-2] However, some players and critics felt that the improvements were incremental rather than revolutionary, with the core gameplay loop remaining fundamentally similar to the original.[^ref-14]
-
-In the broader context of Sierra On-Line's publishing history, Fire Hawk represents the company's efforts to diversify beyond their core adventure game catalog through strategic partnerships with Japanese developers. This relationship with Game Arts would contribute to Sierra's reputation as a publisher willing to bring quality international titles to Western audiences, even in genres outside their primary expertise.
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/fire-hawk-thexder-the-second-contact-1990) – Available for purchase
+Period coverage concentrated on the game's presentation. MSX Magazine singled out the robot's animation.[^ref-12] Joystick rated the animation highest of its sub-scores.[^ref-13] The One pointed to the high-resolution graphics and eleven songs.[^ref-26] Later opinion is split. Home of the Underdogs found it more fun than its predecessor,[^ref-15] while RmM called it repetitive[^ref-29] and Tomer Gabel preferred the original.[^ref-14]
 
 ## Downloads
 
@@ -229,28 +235,34 @@ In the broader context of Sierra On-Line's publishing history, Fire Hawk represe
 
 ## References
 
-[^ref-1]: [MobyGames – Fire Hawk: Thexder - The Second Contact](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/) – credits, ratings, technical specifications, trivia
-[^ref-2]: [Wikipedia – Fire Hawk: Thexder - The Second Contact](https://en.wikipedia.org/wiki/Fire_Hawk:_Thexder_-_The_Second_Contact) – release dates, developers, designers, composers, reception, sales
-[^ref-3]: [Retrolorean – Fire Hawk: Thexder - The Second Contact](https://www.retrolorean.com/en/fire-hawk-thexder-the-second-contact-12327) – historical context, remake information
-[^ref-4]: [GOG.com – Dreamlist Entry](https://www.gog.com/dreamlist/game/fire-hawk-thexder-the-second-contact-1990) – game description, soundtrack quality, mission count
-[^ref-5]: [MobyGames User Review – Katakis](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/user-review/2418714/) – gameplay mechanics, story details, final boss description
-[^ref-6]: [Generation-MSX – Fire Hawk Database Entry](https://www.generation-msx.nl/software/game-arts/fire-hawk-thexder---the-second-contact/1249/) – MSX2 technical specifications, credits, release date
-[^ref-7]: [Pixelated Arcade – Fire Hawk](https://www.pixelatedarcade.com/games/fire-hawk-thexder-the-second-contact) – story overview, platform information, gameplay description
-[^ref-8]: [GameFAQs – MSX Version](https://gamefaqs.gamespot.com/msx/941443-fire-hawk-thexder-the-second-contact) – user ratings, game description, difficulty assessment
-[^ref-9]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Fire_Hawk_-_Thexder_-_The_Second_Contact_1990) – platform information, gameplay mechanics, trivia
-[^ref-10]: [StrategyWiki – Thexder](https://strategywiki.org/wiki/Thexder) – series history, transformation mechanic description, development origins
-[^ref-11]: [Neoseeker – Save Hacking Guide](https://www.neoseeker.com/fire-hawk-thexder-second-contact/faqs/2769031-fire-hawk-thexder-tsc-save-hacking.html) – save file technical details, autosave mechanics
-[^ref-12]: [Internet Archive – MSX Magazine January 1990](https://archive.org/stream/MSX_Magazine_1990-01_ASCII_JP) – Japanese release documentation
-[^ref-13]: [Abandonware Magazines](http://www.abandonware-magazines.org/affiche_mag.php?mag=30&num=664&album=oui) – European magazine coverage
+[^ref-1]: [MobyGames – Fire Hawk: Thexder - The Second Contact](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/) – description, platforms and release years, Moby Score, trivia, alternate titles, Action Five (1992)
+[^ref-2]: [Wikipedia – Fire Hawk: Thexder - The Second Contact](https://en.wikipedia.org/wiki/Fire_Hawk:_Thexder_-_The_Second_Contact) – genre (run and gun), October 1990 North American release date
+[^ref-5]: [MobyGames User Review – Katakis](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/user-review/2418714/) – back-story (Repina, Nedian), weapons carrier droid, in-game dialogue, final boss description
+[^ref-6]: [Generation-MSX – Fire Hawk Database Entry](https://www.generation-msx.nl/software/game-arts/fire-hawk-thexder---the-second-contact/1249/) – MSX2 technical specifications, credits, November 1989 release, MSX Magazine 1990-1 review listing
+[^ref-7]: [Pixelated Arcade – Fire Hawk](https://www.pixelatedarcade.com/games/fire-hawk-thexder-the-second-contact) – story overview, weapons and power-ups, mission list
+[^ref-8]: [GameFAQs – MSX Version](https://gamefaqs.gamespot.com/msx/941443-fire-hawk-thexder-the-second-contact) – publisher description, user ratings, difficulty and length
+[^ref-9]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Fire_Hawk_-_Thexder_-_The_Second_Contact_1990) – in-browser emulation of the DOS version
+[^ref-10]: [StrategyWiki – Thexder](https://strategywiki.org/wiki/Thexder) – original Thexder's forerunners (Formation Z, Volguard), Major Havok inspiration, transformation comparison
+[^ref-11]: [Neoseeker – Save Hacking Guide](https://www.neoseeker.com/fire-hawk-thexder-second-contact/faqs/2769031-fire-hawk-thexder-tsc-save-hacking.html) – save file technical details, autosave after each mission
+[^ref-12]: [Internet Archive – MSX Magazine January 1990, p. 22](https://archive.org/details/MSX_Magazine_1990-01_ASCII_JP/page/n21/mode/1up) – MSX Software Review of Fire Hawk (Game Arts, MSX2, ¥7,800, 2DD)
+[^ref-13]: [Abandonware Magazines – Joystick #13 (February 1991), p. 154](http://www.abandonware-magazines.org/affiche_mag.php?mag=30&num=664&album=oui) – "Fire Hawk" PC review, 75% (page image: https://download.abandonware.org/magazines/Joystick/joystick_numero013/page%20154.jpg)
 [^ref-14]: [MobyGames User Review – Tomer Gabel](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/user-review/2648383/) – critical assessment
-[^ref-15]: [MyAbandonware – Fire Hawk](https://www.myabandonware.com/game/fire-hawk-thexder-the-second-contact-2jf) – HOTUD rating, download information, alternative titles
-[^ref-16]: [Glitchwave – Fire Hawk](https://glitchwave.com/game/fire-hawk-thexder-the-second-contact/) – aggregate rating, media format, alternative titles
-[^ref-17]: [GameFAQs – PC Version Data](https://gamefaqs.gamespot.com/pc/935279-fire-hawk-thexder-the-second-contact/data) – release dates by platform, publisher information
-[^ref-18]: [VGMRips – MSX2 OPLL Music Pack](https://vgmrips.net/packs/pack/fire-hawk-thexder-the-second-contact-msx2-opll) – composer credits, sound chip information
-[^ref-19]: [Khinsider – PC-88 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/fire-hawk-thexder-the-second-contact-pc-8801) – soundtrack details, user review, technical specifications
-[^ref-20]: [MSX.org Forum – Fire Hawk Discussion](https://www.msx.org/forum/msx-talk/software/fire-hawk-thexder-second-contact?page=2) – technical issues, FM detection, save problems
-[^ref-21]: [PCGamingWiki – Fire Hawk](https://www.pcgamingwiki.com/wiki/Fire_Hawk:_Thexder_-_The_Second_Contact) – DOS technical specifications, video modes, copy protection
-[^ref-22]: [OPL3.com – Fire Hawk Audio Comparison](https://www.opl3.com/fire-hawk-thexder-the-second-contact/) – audio mode information
-[^ref-23]: [Khinsider – MSX2 OPLL Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/fire-hawk-thexder-the-second-contact-msx2-opll) – soundtrack file sizes, track count
-[^ref-24]: [Internet Archive – Sierra News Magazine Fall 1990](https://archive.org/stream/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) – Sierra publishing documentation
-[^ref-25]: [DOS.Zone – Fire Hawk](https://dos.zone/fire-hawk-thexder-the-second-contact-1990/) – browser playability, platform information
+[^ref-15]: [MyAbandonware – Fire Hawk](https://www.myabandonware.com/game/fire-hawk-thexder-the-second-contact-2jf) – Home of the Underdogs review text, download information, alternative titles
+[^ref-16]: [Glitchwave – Fire Hawk](https://glitchwave.com/game/fire-hawk-thexder-the-second-contact/) – aggregate rating, media format
+[^ref-17]: [GameFAQs – PC Version Data](https://gamefaqs.gamespot.com/pc/935279-fire-hawk-thexder-the-second-contact/data) – release dates by platform, publisher description, compilations (Action Five, Sierra Value Pack)
+[^ref-18]: [VGMRips – MSX2 OPLL Music Pack](https://vgmrips.net/packs/pack/fire-hawk-thexder-the-second-contact-msx2-opll) – composer credits (incl. Beethoven, Masakuni Mitsuhashi), sound chip information
+[^ref-19]: [Khinsider – PC-88 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/fire-hawk-thexder-the-second-contact-pc-8801) – track list, duration, file size, user comment
+[^ref-20]: [MSX.org Forum – Fire Hawk Discussion](https://www.msx.org/forum/msx-talk/software/fire-hawk-thexder-second-contact?page=2) – patched version's FM detection, clock-chip save problems, BASIC save workaround
+[^ref-21]: [PCGamingWiki – Fire Hawk](https://www.pcgamingwiki.com/wiki/Fire_Hawk:_Thexder_-_The_Second_Contact) – DOS video modes, copy protection, save support, release date
+[^ref-22]: [OPL3.com – Fire Hawk Audio Comparison](https://www.opl3.com/fire-hawk-thexder-the-second-contact/) – OPL2 vs MT-32 soundtrack comparison
+[^ref-23]: [Khinsider – MSX2 OPLL Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/fire-hawk-thexder-the-second-contact-msx2-opll) – track list, duration, file sizes
+[^ref-24]: [Internet Archive – Sierra News Magazine Vol. 3 No. 3 (Fall 1990), p. 18](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US/page/n17/mode/1up) – "Get Ready for Firehawk": 9 combat missions, 11 songs, 4 years after Thexder
+[^ref-25]: [DOS.Zone – Fire Hawk](https://dos.zone/fire-hawk-thexder-the-second-contact-1990/) – browser playability, virtual mobile controls
+[^ref-26]: [Internet Archive – The One #29 (February 1991), p. 27](https://archive.org/details/theone-magazine-29/page/n26/mode/1up) – Sierra company feature, Game Arts section (not a review): "Thexder II looks set to surpass the success of the original"
+[^ref-27]: [Internet Archive – The One #29 (February 1991), p. 14](https://archive.org/details/theone-magazine-29/page/n13/mode/1up) – Top Ten USA, IBM PC and compatibles (courtesy of Login Magazine, Japan): Fire Hawk at no. 8
+[^ref-28]: [MobyGames – DOS Credits](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/credits/dos/) – full DOS credits
+[^ref-29]: [MobyGames – Player Reviews](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/reviews/) – RmM (1999): "A solid shooter, if somewhat repetitive."
+[^ref-30]: [MobyGames – DOS Specs](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/specs/dos/) – CPU, RAM, media, video modes, sound devices, input devices
+[^ref-31]: [Internet Archive – Sierra News Magazine Vol. 3 No. 3 (Fall 1990), p. 49](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US/page/n48/mode/1up) – "Sierra Welcomes Game Arts of Japan": Thexder sold 500,000 in Japan; Firehawk "a sequel to the 1987 best-seller Thexder"
+[^ref-32]: [Internet Archive – Sierra News Magazine Vol. 3 No. 3 (Fall 1990), p. 55](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US/page/n54/mode/1up) – price list: Firehawk $34.95, EGA/VGA only; MS-DOS products shipped with 3.5" and 5.25" disks
+[^ref-33]: [MobyGames – Action Five](https://www.mobygames.com/game/47233/action-five/) – 1992 Sierra compilation of Thexder, Silpheed, Zeliard, Firehawk and Oil's Well
