@@ -5,34 +5,34 @@ developer: Software Sorcery
 designer: [Jim Frantz, Dan Verwys, Brian Smith]
 publisher: Sierra On-Line
 genre: Simulation
-platforms: [DOS, Windows 95]
+platforms: [DOS]
 series: Standalone
 engine: Proprietary (DOS)
 protagonist: USS Los Angeles Class Submarine Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-05-08'
+last_updated: '2026-10-14'
 description: 'Fast Attack: High Tech Submarine Warfare is a submarine combat simulation
   developed by Software Sorcery and published by Sierra On-Line in 1995 for DOS...'
 tags: [1990s, sierra, simulation, standalone]
 ---
 # Fast Attack: High Tech Submarine Warfare
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 ## Overview
 
-Fast Attack: High Tech Submarine Warfare is a submarine combat simulation developed by Software Sorcery and published by [[Sierra On-Line]] in 1995 for DOS systems.[^ref-1] The game places players in command of a Los Angeles Class 688I nuclear-powered attack submarine, widely considered one of the most sophisticated naval vessels ever constructed.[^ref-2] Standing at the helm of this advanced warship, players have access to the most sensitive sensors, navigation systems, and state-of-the-art communications equipment available to the United States Navy.[^ref-3]
+Fast Attack: High Tech Submarine Warfare is a submarine combat simulation developed by Software Sorcery and published by [[Sierra On-Line]] in 1995 for DOS systems.[^ref-1] The game places players in command of a Los Angeles Class 688I nuclear-powered attack submarine, which the box copy pitched as "the best the United States Navy has to offer."[^ref-2] In the publisher's words, the boat is "outfitted with the most sensitive sensors, navigation, and state-of-the-art communications equipment that money can buy."[^ref-2][^ref-3]
 
-The simulation was notable for its uncompromising approach to realism, offering players a closer approximation of modern undersea combat than any previous title in the genre.[^ref-4] Using strategy and stealth, players monitor the movement of hostile targets, destroy enemy ships and submarines, hunt for mines, and attack enemy convoys.[^ref-2] The game's tagline encapsulated its philosophy: "In high-tech submarine warfare, there are no problems. Only solutions."[^ref-2] The stakes were made abundantly clear to players—should they fail their mission objectives, their "final rest will be upon the ocean floor."[^ref-3]
+The simulation was built around realism. SUBSIM's Neal Stevens wrote that players "can get closer to a realistic modern undersea combat than ever before," and Computer Gaming World's reviewer, a former submariner, said "the sonar looks exactly like the one on our old boat."[^ref-4][^ref-9] Using strategy and stealth, players monitor the movement of hostile targets, destroy enemy ships and subs, hunt for mines, and attack enemy convoys.[^ref-2] The game's tagline read: "In high-tech submarine warfare, there are no problems. Only solutions."[^ref-2] Failure has a stark consequence: "your final rest will be upon the ocean floor."[^ref-2][^ref-3]
 
-Development of Fast Attack benefited from authentic military consultation, with members of the USS Pogy (SSN-647) and Admiral Robert "Yogi" Kaufman contributing their expertise to ensure the simulation's accuracy.[^ref-5] This attention to detail resulted in what reviewers called an "incredibly complex, yet easy to grasp and operate" experience that smoothly integrated numerous complex elements into a working game of substantial depth.[^ref-6][^ref-16][^ref-17][^ref-18]
+The game's credits give special thanks to the officers and crew of the USS Pogy (SSN-647).[^ref-5] An old review reproduced on Old PC Gaming called its sonar screen "incredibly complex, yet easy to grasp and operate."[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** Software Sorcery[^ref-1]
-> **Designer:** Jim Frantz, Dan Verwys, Brian Smith[^ref-1]
+> **Designer:** Jim Frantz, Dan Verwys, Brian Smith[^ref-5]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** Proprietary
-> **Platforms:** DOS, Windows 95[^ref-4]
+> **Platforms:** DOS (installs and runs under Windows 95)[^ref-1][^ref-9]
 > **Release Year:** 1995
 > **Series:** Standalone
 > **Protagonist:** Los Angeles Class Submarine Commander
@@ -40,57 +40,65 @@ Development of Fast Attack benefited from authentic military consultation, with 
 
 ## Story Summary
 
-Fast Attack places players in the role of a submarine commander during various Cold War-era and post-Cold War scenarios, commanding missions across multiple global hotspots. The narrative framework presents a series of increasingly challenging military operations where the player must protect American interests while maintaining diplomatic protocols.[^ref-3]
+Fast Attack has no story in the adventure-game sense. It places the player on the bridge of a Los Angeles-class fast-attack submarine, "tasked with defending American interests in a number of different theaters."[^ref-9] Computer Gaming World listed those theaters as the Persian Gulf, the Adriatic Sea, the Mediterranean, the Sea of Japan and the North Sea; PC Player also counted five scenarios, running from the waters of the Arctic Circle to the Persian Gulf.[^ref-9][^ref-14]
 
-The game's missions span multiple battlesets including operations in the Sea of Japan, where players engage in tense standoffs with hostile naval forces.[^ref-4] Each scenario presents unique tactical challenges, from convoy interdiction to mine hunting operations, requiring players to balance aggressive action with the need to preserve their crew's safety and maintain the diplomatic position of the United States.[^ref-3]
+The player's primary goal is to complete the mission objectives "while maintaining the safety of your crew and the diplomatic position of the United States."[^ref-2] In career play, careless use of weapons has consequences: Computer Gaming World notes "explanations to be made to Congress if you fail," and Joystick warned that destroying a friendly target puts you in front of the US Congress.[^ref-9][^ref-15]
 
-The stakes of each mission are presented in stark military terms—complete the objectives and preserve your command, or face the ultimate consequence. As the game ominously warns, failure means players will "rest forever in Davy Jones' Locker."[^ref-2] This narrative framing emphasizes the deadly serious nature of submarine warfare, where a single mistake can prove catastrophic in the cold, crushing depths of the ocean.
+MobyGames' description puts the stakes plainly: "Complete the missions objectives and preserve your command, or rest forever in Davy Jones' Locker."[^ref-1]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Fast Attack presents players with a comprehensive simulation of submarine operations through multiple station screens and tactical displays. The game features both first-person and third-person perspectives, allowing players to switch between detailed control stations and external views of their vessel.[^ref-7] The interface integrates sonar displays, navigation systems, weapons control, and communications equipment into a cohesive command experience.[^ref-2]
+Fast Attack presents a picture of a control room in which "different control stations are reached by clicking on the station's representative figure or graphic," with a button bar for jumping between stations.[^ref-9] Computer Gaming World noted that, like its predecessors, the game unrealistically puts all the vital stations on the bridge.[^ref-9] Players never see their own submarine from outside. SUBSIM observed that "you cannot ever see your own sub from the outside, nor enemy vessels"; external 3D views appear only as video cutaways when a weapon reaches its target.[^ref-4]
 
-The sonar screen serves as the primary tactical display, presenting acoustic data in a manner consistent with actual submarine operations.[^ref-8] Players must interpret contact information, track targets, and coordinate firing solutions using realistic procedures. The simulation includes wire-guided torpedo systems, requiring players to maintain guidance on their weapons after launch.[^ref-4]
+The sonar screen is the primary tactical display. CGW described it as looking "a lot like a real waterfall display," with biologics (noisy marine animals) included as false contacts.[^ref-9] The screens run at 640x480.[^ref-8] Players interpret contact information, track targets and refine firing solutions, a task SUBSIM found tedious at the fire control station.[^ref-4]
 
 ### Structure and Progression
 
-The game is organized around discrete mission scenarios, each presenting specific objectives that must be completed within a strict two-hour time limit.[^ref-1] This artificial constraint, while controversial among players, added urgency to operations that might otherwise unfold slowly given the methodical nature of submarine warfare.[^ref-6]
+From the options screen the player chooses a training mission, a battle set, or a career.[^ref-9] The training missions are tied to tutorials in the manual. "Battle Sets" drop the player into a war zone with a number of missions each, and the Career option "places you in command of the USS Pittsburgh," with promotions and medals to be earned.[^ref-9]
 
-Missions take players through various operational theaters:
+Three difficulty levels are available. Easy hands sonar, fire control and weapon reloading to the computer, Standard starts the player with an approximate fire control solution to refine, and Real gives full control of every facet of the game.[^ref-9]
 
-- **Defensive Operations:** Protecting the Los Angeles area against submarine and mine threats[^ref-5]
-- **Convoy Interdiction:** Attacking enemy supply convoys using stealth and overwhelming firepower[^ref-2]
-- **Mine Hunting:** Locating and neutralizing underwater mines using specialized equipment[^ref-2]
-- **Anti-Submarine Warfare:** Engaging and destroying enemy submarines in underwater duels[^ref-2]
+Missions carry a time limit, "usually two hours," which cannot be turned off.[^ref-9][^ref-1] Along with time compression, the game offers "time expansion" to slow the action when several tasks pile up at once.[^ref-9]
+
+Mission types include:
+
+- **Tracking:** following enemy targets without attacking or being detected, which CGW's reviewer called "truly the heart and soul of submarining"[^ref-9]
+- **Anti-shipping:** targets range from merchant shipping to enemy warships[^ref-9]
+- **Land attack:** land-based targets hit with Tomahawk missiles[^ref-9]
+- **Mine hunting and convoy attacks:** both named in the box description[^ref-2]
 
 ### Puzzles and Mechanics
 
-The core gameplay revolves around mastering the complex systems of a nuclear attack submarine. Players have access to the entire arsenal of the 688i submarine, from Mark 48 torpedoes to UGM-84 Harpoon anti-ship missiles and Tomahawk cruise missiles.[^ref-6] Some Los Angeles class boats feature vertical launch tubes capable of deploying Tomahawk missiles for land-attack missions.[^ref-6]
+The player commands the arsenal of the 688I submarine, "from missiles to torpedoes, sonars to radars."[^ref-1] CGW lists the Mark 48 torpedo, the Harpoon anti-ship missile and the Tomahawk cruise missile, the last fired from vertical launch tubes that cannot be reloaded.[^ref-9]
 
-Sonar mechanics form the foundation of tactical play, as players must detect, classify, and track contacts while managing their own acoustic signature. Speed management is critical—the faster a submarine travels, the more noise it generates, making it detectable from greater distances.[^ref-9] Successful commanders learn to balance the need for speed against the imperative of remaining undetected.
+Speed and noise matter. In CGW's words, "As speed is increased, snow fills the sonar screen as a result of increasing noise."[^ref-9] SUBSIM likewise found that "the faster you go, the less you can hear," and that a thermal layer between the boat and its target properly shields the acoustics.[^ref-4] The sub carries two towed arrays to enhance detection and the WLR-9 system to warn of incoming weapons and active sonar.[^ref-9]
 
-Torpedo engagement requires careful consideration of firing solutions, running depth, and guidance options. The simulation models wire-guided weapons, allowing players to actively steer torpedoes toward their targets until impact or wire break.[^ref-4] This adds a layer of tactical complexity beyond simply launching weapons and hoping for the best.
+Missions follow a realistic attack flow: detection and classification, target resolution, the attack itself, and extraction.[^ref-9] The Mark 48 is wire-guided, and "as long as the 15-mile-long wire is still intact, the weapon can be manually guided."[^ref-9] Even so, CGW found that the torpedoes "aren't as smart or controllable as they should be."[^ref-9]
 
 ## Reception
 
 ### Contemporary Reviews
 
-Fast Attack received a polarized reception upon release, with critics praising its exceptional realism while criticizing its technical stability. SUBSIM.com, a specialized submarine simulation review site, awarded the game a score of 79 out of 100 in its original release form, which improved to 87 after patching.[^ref-4] Reviewer Neal Stevens declared that "none holds a candle to the tense action and rigorous pacing of Fast Attack" when comparing it to other submarine simulations.[^ref-4]
+Fast Attack received a polarized reception. Critics praised its realism and criticized its stability and its time limits.[^ref-9][^ref-14][^ref-15]
 
-The measure of realism achieved by Fast Attack was described as "unmatched" among contemporary submarine games.[^ref-4] Stevens noted that players could "get closer to a realistic modern undersea combat than ever before" with the simulation.[^ref-4] However, this praise came with significant caveats regarding the game's technical problems at launch.
+**Computer Gaming World** (June 1996, Kevin Turner, "Crash Dive") gave it three stars out of five. Turner praised the "nicely simulated detection systems, and a good variety of realistic missions." He criticized the fixed mission time limits, the substandard torpedo control, crash bugs on some systems and the inability to save during a mission.[^ref-9]
 
-Critics were harsh about the stability issues that plagued the initial release. Stevens memorably described the game as "a troubled genius" and stated bluntly that "forty dollars is too much to pay for a simulation that won't work reliably, even if the concept and execution is superb."[^ref-4] Reports indicated that the original program crashed approximately one out of every three games.[^ref-4]
+**PC Player** (Germany, May 1996) was negative. Heinrich Lenhardt gave it two stars, opening with "Ich finde Atom-U-Boote schlichtweg öde" ("I find nuclear subs simply dull"). He said Electronic Arts' Seawolf fans were its target audience and that he preferred Aces of the Deep.[^ref-14]
 
-### Modern Assessment
+**Joystick** (France, issue 70) was enthusiastic. It scored the game 90% for interest and 85% for technique, praised "un réalisme jamais égalé" ("realism never equalled"), and preferred it to SSI's Silent Hunter for its tutorial mode and number of missions. It also warned that the game was far from accessible to everyone.[^ref-15]
 
-Modern retrospective analysis has been more forgiving, with the understanding that patches eventually resolved many technical issues. Old PC Gaming noted that "I can't think of another game running under DOS that so smoothly integrates so many complex elements into a working game of substantial depth."[^ref-6] The site praised the simulation as "incredibly complex, yet easy to grasp and operate."[^ref-6][^ref-15][^ref-20]
+**SUBSIM** awarded 79 out of 100 as released and 87 once patched.[^ref-4] Reviewer Neal Stevens wrote that among earlier nuclear sub sims, "none holds a candle to the tense action and rigorous pacing of Fast Attack," and that "the measure of realism in Fast Attack is unmatched."[^ref-4] He also called it "a troubled genius." His 1996 summary concluded: "Forty dollars is too much to pay for a simulation that won't work reliably, even if the concept and execution is superb." By his own account, the program "crashed on me one out of every three games."[^ref-4]
+
+### Later Assessment
+
+An undated, unattributed review reproduced on Old PC Gaming said, "I can't think of another game running under DOS that so smoothly integrates so many complex elements into a working game of substantial depth." It called the sonar screen "incredibly complex, yet easy to grasp and operate."[^ref-6] The same review criticized the missing save function and the AI, saying enemy ships and subs "seem to be commanded by cooks who suddenly found themselves in charge of a ship."[^ref-6]
 
 **Aggregate Scores:**
-- **MobyGames Critics:** 72% (10 ratings)[^ref-1]
-- **MobyGames Players:** 2.5/5 (4 ratings)[^ref-1]
-- **MyAbandonware:** 4.83/5[^ref-7]
+- **MobyGames Critics:** 71% (11 ratings)[^ref-20]
+- **MobyGames Players:** 2.5/5 (4 ratings)[^ref-20]
+- **MyAbandonware:** 4.86/5 (14 votes)[^ref-7]
 - **GameFAQs Users:** "Great" (6 ratings)[^ref-2]
 - **SUBSIM (Patched):** 87/100[^ref-4]
 
@@ -98,55 +106,57 @@ Modern retrospective analysis has been more forgiving, with the understanding th
 
 ### Origins
 
-Fast Attack emerged from Sierra On-Line's strategy to diversify beyond adventure games into simulation titles during the mid-1990s. The project was developed by Software Sorcery, working under the Sierra/Dynamix umbrella.[^ref-4] The development team set out to create the most realistic modern submarine simulation possible, focusing on the Los Angeles class attack submarine—one of the most capable naval vessels in the world.[^ref-6]
+Fast Attack was Software Sorcery's follow-up to its earlier game Aegis. In a trade-show report in its September 1994 issue, Computer Gaming World wrote that the studio "wasn't quite ready to show their follow-up to AEGIS, but they did tell us it was to be called Fast Attack Boats."[^ref-19] In its March 1995 Winter CES report, Computer Game Review listed Software Sorcery as a Time Warner affiliate announcing Fast Attack, "a submarine simulation that puts the player into a modern U.S. fast attack sub," alongside Conqueror.[^ref-21] PC Player later noted that the game came from the makers of Conqueror A.D. at Software Sorcery.[^ref-14]
 
-The Los Angeles class represented the backbone of the U.S. Navy's submarine fleet, designed in response to Soviet submarine technological advances during the late 1960s.[^ref-10] These vessels, built by Newport News Shipbuilding and General Dynamics Electric Boat, featured nuclear propulsion enabling unlimited range and extended underwater endurance.[^ref-10] The 688I variant specifically modeled in the game represented the quietest and most capable iteration of the class, featuring advanced sonar and the ability to conduct under-ice operations.[^ref-10]
+Sierra's InterAction magazine announced the game in its Holiday 1995 issue under "Games You'll Be Playing in '96": "Now Sierra takes submarine sims into the nuclear age with Fast Attack."[^ref-16] SUBSIM lists the company as Sierra/Dynamix, CGW's spec box lists the designer as Dynamix, and the version file on the later CD credits "Dynamix Inc., Software Sorcery, Sierra On-Line."[^ref-4][^ref-9]
+
+The game models the 688I ("Improved") boats of the Los Angeles class. Ordered between 1982 and 1989, these Flight III boats were quieter, carried the advanced BSY-1 sonar suite, could lay mines and were configured for under-ice operations.[^ref-10] The class was designed in response to Soviet advances in submarine technology in the late 1960s and was built by Newport News Shipbuilding and General Dynamics Electric Boat.[^ref-10]
 
 ### Production
 
-The development team secured authentic military consultation to ensure accuracy. Members of the USS Pogy (SSN-647) contributed their operational experience, while Admiral Robert "Yogi" Kaufman provided strategic guidance on submarine tactics and procedures.[^ref-5] This collaboration resulted in authentic systems modeling and realistic tactical scenarios.
+The game's credits give special thanks to the "Officer and Crew of USS POGY SSN-647."[^ref-5] Testing was shared between Sierra's own quality assurance staff and a Time Warner Interactive test team.[^ref-5]
 
-Development reportedly concluded under challenging circumstances. According to SUBSIM's analysis, "the development team appeared to be relieved of contractual obligations after turning program over to Sierra," suggesting the project's completion may have been rushed or troubled.[^ref-4] This may explain some of the stability issues that plagued the initial release.
+Looking back in 1998, SUBSIM's Stevens wrote that he never got a satisfactory answer on why the game lacked patches: "I think after the development team turned the program over to Sierra, they were relieved of their contractual obligations, and/or Sierra would not allocate any additional money toward refinement."[^ref-4] That is the reviewer's speculation, not a documented account.
 
-**Development Credits:**[^ref-5]
-- **Designers:** Jim Frantz, Dan Verwys, Brian Smith
-- **Programming Team:** James R. Jones III, Bernie Tyler, Jeff Beyer, Ofer Estline, Amy Franson, John Knapp, Jim Lynch, Peter Nowak, Joe Pasquarello, Alex Shatsky, Ron Yarnall
-- **Art Team:** Randy Chua, Daniel MacGibbon, Diane Covill, Scott McDaniel, Russ Sabin, Rade Stojsavljevic, David Yee
-- **Sound:** Scott Behm, Daniel May
-- **Quality Assurance:** Rachel Shaw, Kristi Jennings
-- **Additional Credits:** Bruce Fagan, Rick Rossiter, Anthony R. Reyneke, Graeme Bayless, Don McClure, Tucker Hatfield, Kevin Lamb, David Steele, Gary Stevens, Ben Nahorney, Egil G. Gløersen, Jeff Wilson, Erinn C. Hamilton, Aaron Anderson, Christopher K. Singleton
-- **Documentation:** Trish Bayless, Alan Roberts, Kurt Weber
-- **Management:** Chris Stafford, Lynne Ertie, Heather Lavin, Barbara Schwabe
-- **Marketing:** Brad Bethune, Barbara Dawson, Sandra Simonson
-- **International:** Richard Ewing, Steve Messick, Kai Brinkmann, Randall Mage, Mireille Wheeldon, Lena Marie Pousette
-- **Testing:** Don Godwin, Paula Templin, Jenn Lunt, Glen Roe, Mike Yi, Allen Austin, Brian Meisenheimer, Edmund Miya, Jeremy Gwynne, James Dutcher, Chuck Ostlie, Eric Van Beek, Michael Rusak, Ken Kinser, Doyle Moyer, Giannine Mustari, Alex Sarkissian
+**Development Credits** (Software Sorcery, Sierra On-Line, Time Warner Interactive):[^ref-5]
+- **Created by:** James R. Jones III
+- **Executive Producer (Software Sorcery):** Bernie Tyler
+- **Technical Director:** Jim Frantz
+- **Game Design:** Jim Frantz, Dan Verwys, Brian Smith
+- **Manual Writers:** Rachel Shaw, Kristi Jennings
+- **Programmers:** Jeff Beyer, Ofer Estline, Amy Franson, Jim Frantz, John Knapp, Jim Lynch, Peter Nowak, Joe Pasquarello, Alex Shatsky, Ron Yarnall
+- **Artists:** Randy Chua, Diane Covill, Daniel MacGibbon, Scott McDaniel, Russ Sabin, Brian Smith, Dan Verwys
+- **Multimedia:** Scott Behm, David Yee, Rade Stojsavljevic
+- **Voices:** Scott Behm, Jeff Beyer, Bruce Fagan, Jim Frantz, John Knapp, Jim Lynch, Scott McDaniel, Mike McDonald, Rick Rossiter, Alex Shatsky, Brian Smith, Bernie Tyler, Dan Verwys
+- **Original Music Score:** Sonic Byte (composer Daniel May)
+- **Sierra On-Line:** Anthony R. Reyneke (executive producer), Graeme Bayless (producer), Don McClure (associate producer), Tucker Hatfield (design assistant), David Steele (director, quality assurance), Gary Stevens (lead quality analyst, compatibility)
+- **Sierra Testers:** Tucker Hatfield, Ben Nahorney, Jeff Wilson, Erinn C. Hamilton, Christopher K. Singleton, Alan Roberts, Aaron Anderson, Chris Stafford, Trish Bayless
+- **Publications:** Kevin Lamb (manager), Kurt Weber (editor), Lynne Ertie (proofreader), Egil G. Gløersen (design and layout)
+- **Marketing:** Barbara Schwabe (product manager), Brad Bethune (associate product manager), Heather Lavin (creative services), Barbara Dawson (public relations), Sandra Simonson (purchasing)
+- **Globalization:** Richard Ewing (producer), Steve Messick (programmer), Kai Brinkmann (German), Mireille Wheeldon (French), Randall Mage (Spanish)
+- **Time Warner Interactive Testing:** Don Godwin (testing manager), Glen Roe, Jenn Lunt, Brian Meisenheimer (lead tester); core testers Allen Austin, Mike Yi, Edmund Miya, Jeremy Gwynne; additional testers James Dutcher, Chuck Ostlie, Michael Rusak, Eric Van Beek, Ken Kinser, Doyle Moyer, Giannine Mustari, Alex Sarkissian
+- **Special Thanks:** Officer and Crew of USS POGY SSN-647; David Riordan, Lena Marie Pousette, Paula Templin
 
 ### Technical Achievements
 
-Fast Attack represented a significant technical achievement in submarine simulation, integrating multiple complex systems into a cohesive gameplay experience. The game ran at 640x480 resolution with 256 colors, requiring SVGA graphics capabilities.[^ref-8] Sound support included Sound Blaster 16 compatibility for realistic audio effects.[^ref-5]
-
-The simulation modeled authentic submarine systems including:
-- Advanced sonar arrays with realistic acoustic propagation modeling
-- Wire-guided torpedo systems with active guidance
-- [[Tomahawk]] cruise missile systems with vertical launch tube support
-- Comprehensive navigation and communications equipment[^ref-6]
-
-The game's approach to submarine acoustics was particularly sophisticated, modeling how speed affects noise generation and detection range.[^ref-9] Players had to carefully manage their vessel's acoustic signature to avoid detection while tracking enemy contacts.
+The simulation's sensor model drew the most praise. Period reviews single out:
+- A waterfall-style sonar display that fills with noise as speed increases, with biologics as false contacts[^ref-9]
+- Two towed arrays and the WLR-9 warning system[^ref-9]
+- Acoustics shielded by the thermal layer, and no "map view" beyond satellite intelligence and the player's own sonar bearings[^ref-4]
+- Wire-guided Mark 48 torpedoes, Harpoon missiles, and Tomahawk cruise missiles fired from vertical launch tubes[^ref-9]
 
 ### Technical Specifications
 
-**System Requirements:**[^ref-6]
-- **Processor:** 80486SX 33MHz minimum, Pentium recommended
-- **Memory:** 8 MB RAM required, significant virtual memory needed
-- **Graphics:** SVGA (256 colors)
-- **Audio:** Sound Blaster compatible (Port 5, IRQ 220)
-- **Media:** CD-ROM
-- **Storage:** 24 MB (compressed), 458 MB (ISO version)[^ref-7]
-- **Operating System:** DOS, Windows 95 compatible[^ref-4]
+**System Requirements** (as listed by Computer Gaming World):[^ref-9]
+- **Processor:** IBM compatible 486 or higher
+- **Memory:** 8 MB RAM (16 MB recommended)
+- **Operating System:** DOS 5.0 or higher, or Windows 95
+- **Graphics:** SVGA
+- **Media:** 2x CD-ROM (4x recommended); the CD must be in the drive
+- **Controls:** mouse or joystick
+- **Audio:** Sound Blaster compatible sound cards; owners of a Sound Blaster AWE32 were advised to select Sound Blaster 16 during setup
 
-**Display:**
-- **Resolution:** 640x480[^ref-8]
-- **Colors:** 256
+MobyGames' spec sheet lists an i486 SX as the minimum CPU and support for Sound Blaster, Sound Blaster 16, AWE32, Gravis Ultrasound, General MIDI and other sound devices.[^ref-22] Screens run at 640x480.[^ref-8]
 
 ### Version History
 
@@ -154,51 +164,50 @@ The game's approach to submarine acoustics was particularly sophisticated, model
 |---------|------|----------|-------|
 | 1.0 | 1995 | DOS | Initial release (UK, France)[^ref-11] |
 | 1.0 | 1996 | DOS | US/Germany release[^ref-11] |
-| 1.01 | Feb 1998 | DOS | AI fix, Windows 95 stability, TLAM ripple launch fix, resupply added to Sea of Japan battleset[^ref-4] |
+| 1.01 | by Feb 1998 | DOS | Found on a later retail CD; version file lists AI fix, "No Device" sound option, TLAM ripple launch fix, better Windows 95 stability, resupply added to Sea of Japan battleset[^ref-4] |
+| Upgrade patch | June 1998 | DOS | SUBSIM reported an upgrade patch available in its 6/98 update[^ref-4] |
 | Spanish | 2000 | PC | Re-release by Havas Interactive España[^ref-12] |
 
 ### Technical Issues
 
-The original release of Fast Attack was plagued by significant stability problems that marred an otherwise exceptional simulation. Memory conflicts caused frequent crashes, with reports indicating the program failed approximately one out of every three gaming sessions.[^ref-4] These issues were particularly frustrating given the game's lack of a save function—players who experienced a crash during a lengthy mission had to restart from the beginning.[^ref-6]
+The original release suffered from stability problems. Computer Gaming World reported that stability under Windows 95 "isn't as good as it should be, and even some DOS users have experienced crashes and lock-ups," and added that "a patch disk is on the way."[^ref-9] SUBSIM's reviewer had the program crash one game in three. The manual hinted that memory conflicts might be the cause, and a boot disk did not help.[^ref-4] There was no way to save mid-mission, so a crash meant restarting the mission.[^ref-4][^ref-9]
 
-Time compression, while useful for accelerating the slow-paced nature of submarine operations, was identified as a potential crash trigger.[^ref-4] Players learned to use this feature sparingly to avoid losing progress. The combination of stability issues and the two-hour mission time limit created a punishing experience where technical failures could waste substantial player investment.
+When SUBSIM re-reviewed the game, Stevens took care not to engage time compression, "which could be a source of the crashes." With the patched version he saw no more than one crash or lockup every ten games.[^ref-4]
 
-Additional gameplay limitations noted by critics included:
-- No save game option during missions[^ref-4]
-- No multiplayer support[^ref-4]
+Additional limitations noted by critics included:
+- No save game option during missions[^ref-4][^ref-9]
+- No multiplayer support[^ref-4][^ref-14]
+- Mission time limits that cannot be turned off[^ref-9]
 - Inability to set torpedo running depth[^ref-6]
-- Weak artificial intelligence—"enemies behave like cooks who suddenly found themselves in charge of a ship"[^ref-6]
+- Weak AI: enemy ships and subs "seem to be commanded by cooks who suddenly found themselves in charge of a ship"[^ref-6]
 
-The version 1.01 patch, released in February 1998, addressed many of these issues, improving Windows 95 stability and fixing AI problems.[^ref-4] Player-created patches also emerged, with one of the first removing the controversial two-hour mission time limit.[^ref-1]
+A CD carrying version 1.01, with AI and Windows 95 stability fixes, had appeared by February 1998, and SUBSIM reported an upgrade patch in June 1998.[^ref-4] Player-created patches also emerged, and one of the first removed the two-hour mission time limit.[^ref-1]
 
-### Easter Eggs and Trivia
+### Trivia
 
-- The Los Angeles class submarines are named after cities rather than marine animals, reportedly because Admiral Hyman G. Rickover observed that "Fish don't vote."[^ref-10]
-- Members of an actual nuclear submarine (USS Pogy, SSN-647) contributed to the game's development[^ref-5]
-- The 688I designation refers to the Flight III variant of the Los Angeles class, which began construction in 1982 and featured significantly quieter operation and advanced sonar systems[^ref-10]
-- Real Los Angeles class submarines can travel at over 25 knots submerged officially, with some reports suggesting speeds exceeding 33 knots[^ref-10]
+- The game's working title was "Fast Attack Boats."[^ref-19]
+- The career mode puts the player in command of the USS Pittsburgh.[^ref-9]
+- Computer Gaming World's reviewer had served on submarines. He joked that after one tracking mission he "had the unbearable urge to wander around the house with a clipboard and take readings on household appliances."[^ref-9]
+- The 1.01 release displays "FAST ATTACK GOLD09" during boot, according to SUBSIM.[^ref-4]
+- Real Los Angeles-class boats are named after cities rather than marine animals. Admiral Hyman G. Rickover explained the choice by observing that "fish don't vote."[^ref-10]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Fast Attack was distributed internationally through Sierra's publishing network, with releases in the United Kingdom, France, United States, Germany, and Spain over a five-year period from 1995 to 2000.[^ref-11] The game was distributed through multiple partners including Coktel Vision in France and Havas Interactive España for the Spanish market.[^ref-11]
+Sales figures for Fast Attack have not been published. It was released in the United Kingdom and France in 1995, in the United States and Germany in 1996, and in Spain in 2000, with Coktel Vision distributing in France and Havas Interactive España in Spain.[^ref-11] Sierra's Spring 1996 InterAction catalog sold it for $49.95 as a DOS CD, and Computer Gaming World listed its price as $59.95.[^ref-17][^ref-9]
 
-The game received a "Sierra Originals" budget re-release in the United States in 1996, indicating sufficient initial sales to warrant continued distribution.[^ref-11] The Spanish re-release in 2000 through Havas Interactive demonstrated the title's ongoing commercial viability in certain markets years after its original publication.[^ref-12]
+In 1996 it was reissued in the United States in the Sierra Originals line, and the Holiday 1996 InterAction listed it among the SierraOriginals titles in a "Buy 2, Get 1 Free" offer.[^ref-11][^ref-18] The Spanish jewel-case re-release followed in 2000.[^ref-11][^ref-12]
 
 ### Collections
 
 Fast Attack was included in:
-- Sierra Originals budget line (1996, United States)[^ref-11]
+- Sierra Originals budget line (1996, United States)[^ref-11][^ref-18]
 - Havas Interactive España jewel case release (2000, Spain)[^ref-11]
 
 ### Critical Perspective
 
-Fast Attack: High Tech Submarine Warfare represents an ambitious but troubled entry in the simulation genre. The game arrived during a period when submarine simulations were experiencing a renaissance, with titles competing to offer the most authentic underwater combat experience. In this crowded field, Fast Attack distinguished itself through its exceptional attention to detail and authentic military consultation.[^ref-5]
-
-The simulation's legacy is complicated by its technical issues at launch, which prevented many players from experiencing its impressive depth. As SUBSIM noted, the game was "a troubled genius"—capable of delivering unmatched realism when it functioned properly, but too often crashing before players could complete their missions.[^ref-4] The eventual patches rescued Fast Attack's reputation, transforming it from a frustrating experience into the superior simulation its designers intended.
-
-For submarine enthusiasts, Fast Attack remains a notable historical artifact, offering insight into the capabilities of Los Angeles class attack submarines during their operational prime. The game's educational value regarding submarine tactics, sonar operations, and weapons systems ensures its continued relevance to those interested in naval warfare simulation.
+Fast Attack: High Tech Submarine Warfare was an ambitious but troubled entry in the submarine simulation genre. Computer Gaming World judged that "the realism is there in most respects, and the missions are compelling."[^ref-9] Joystick rated it highly, while PC Player found it dull.[^ref-15][^ref-14] SUBSIM called it "a troubled genius." Its reviewer raised the score from 79 to 87 for the patched version, while still noting the crashes that marred the original release.[^ref-4]
 
 ## Purchase
 
@@ -211,57 +220,36 @@ For submarine enthusiasts, Fast Attack remains a notable historical artifact, of
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/msdos_Fast_Attack_High_Tech_Submarine_Warfare_1996) – Playable DOS version[^ref-13]
-- [MyAbandonware](https://www.myabandonware.com/game/fast-attack-high-tech-submarine-warfare-br4) – Multiple download versions available[^ref-7]
-
-**Manuals & Extras**
-- [Manuals Plus Documentation](https://manuals.plus/asin/B000EX1YDU) – Installation and technical guide[^ref-14]
+- [MyAbandonware](https://www.myabandonware.com/game/fast-attack-high-tech-submarine-warfare-br4) – 458 MB ISO, 24 MB v1.01 download, and manual[^ref-7]
 
 ## See Also
 
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1988 - Silpheed]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Air Cavalry]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
+- [[1994 - Aces of the Deep]]
+- [[1995 - Command Aces of the Deep]]
+- [[1995 - Conqueror - A.D. 1086]]
+- [[1996 - Silent Thunder - A-10 Tank Killer II]]
 
 ## References
 
-[^ref-1]: [MobyGames – Fast Attack: High Tech Submarine Warfare](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/) – developer, publisher, release date, credits, ratings
-[^ref-2]: [GameFAQs – Fast Attack: High Tech Submarine Warfare](https://gamefaqs.gamespot.com/pc/930373-fast-attack-high-tech-submarine-warfare) – game description, platform, ratings
-[^ref-3]: [Video Game Database Wiki – Fast Attack](https://thevideogamedatabase.fandom.com/wiki/Fast_Attack:_High_Tech_Submarine_Warfare) – synopsis, gameplay description
-[^ref-4]: [SUBSIM Review – Fast Attack](https://www.subsim.com/subsim-review-fast-attack/) – detailed review, technical analysis, patch information, scores
-[^ref-5]: [Everything Allowed Wiki – Fast Attack](https://everything-allowed.fandom.com/wiki/Fast_Attack:_High_Tech_Submarine_Warfare) – credits, military consultation, technical specs
-[^ref-6]: Old PC Gaming – Fast Attack Review (link removed: site offers game downloads) – gameplay analysis, technical requirements, critique
-[^ref-7]: [MyAbandonware – Fast Attack](https://www.myabandonware.com/game/fast-attack-high-tech-submarine-warfare-br4) – release dates, download information, ratings
-[^ref-8]: [MobyGames – Screenshots](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/screenshots/dos/192694/) – technical resolution details
-[^ref-9]: [Reddit – Submarine Warfare Discussion](https://www.reddit.com/r/WorldOfWarships/comments/1aqeaci/the_best_way_to_fix_submarines_would_be_to_simply/) – submarine detection mechanics
-[^ref-10]: [Wikipedia – Los Angeles-class submarine](https://en.wikipedia.org/wiki/Los_Angeles-class_submarine) – technical specifications, submarine history, Admiral Rickover quote
-[^ref-11]: [MobyGames – Releases](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/releases/) – international release dates, distributors
-[^ref-12]: [Internet Archive – Spanish Re-release Scans](https://archive.org/details/fast_attack_spanish_rerelease_scans) – 2000 Spanish edition documentation
-[^ref-13]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Fast_Attack_High_Tech_Submarine_Warfare_1996) – preservation copy, file specifications
-[^ref-14]: [Manuals Plus – Fast Attack Documentation](https://manuals.plus/asin/B000EX1YDU) – installation guide, system requirements
-[^ref-15]: [eBay Product Listing](https://www.ebay.com/p/56677913) – ESRB rating, media format
-[^ref-16]: [Kotaku – Fast Attack](https://kotaku.com/games/fast-attack-high-tech-submarine-warfare) – game description
-[^ref-17]: [Metacritic – Fast Attack](https://www.metacritic.com/game/fast-attack-high-tech-submarine-warfare/) – genre classification
-[^ref-18]: [Never Die Media – Product Page](https://web.archive.org/web/20250522152930/https://www.neverdiemedia.com/products/fast-attack-high-tech-submarine-warfare) (archived) – game description, compatibility
-[^ref-20]: [MobyGames – Reviews](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/reviews/) – aggregate review scores
+[^ref-1]: [MobyGames – Fast Attack: High Tech Submarine Warfare](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/) – developer, publisher, release date, description, time-limit trivia
+[^ref-2]: [GameFAQs – Fast Attack: High Tech Submarine Warfare](https://gamefaqs.gamespot.com/pc/930373-fast-attack-high-tech-submarine-warfare) – box description, tagline, user rating
+[^ref-3]: [Video Game Database Wiki – Fast Attack](https://thevideogamedatabase.fandom.com/wiki/Fast_Attack:_High_Tech_Submarine_Warfare) – box synopsis
+[^ref-4]: [SUBSIM Review – Fast Attack](https://www.subsim.com/subsim-review-fast-attack/) – Neal Stevens review (1996/1998), scores, crash notes, version 1.01 file, 6/98 patch update
+[^ref-5]: [MobyGames – Fast Attack credits (DOS)](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/credits/dos/) – full credits, roles, USS Pogy special thanks
+[^ref-6]: Old PC Gaming – Fast Attack *(link not given: oldpcgaming.net is a game-download site, cited as text only)* – reproduced review text of unidentified origin; sonar, torpedo depth, AI critique
+[^ref-7]: [MyAbandonware – Fast Attack](https://www.myabandonware.com/game/fast-attack-high-tech-submarine-warfare-br4) – release regions, user rating, download sizes
+[^ref-8]: [MobyGames – Screenshots](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/screenshots/dos/192694/) – 640x480 screen resolution
+[^ref-9]: [Computer Gaming World #143 (June 1996), pp. 162–164 – "Crash Dive" by Kevin Turner](https://archive.org/details/Computer_Gaming_World_Issue_143/page/n165) – review, spec box, theaters, career, difficulty levels, sonar, patch disk, rating
+[^ref-10]: [Wikipedia – Los Angeles-class submarine](https://en.wikipedia.org/wiki/Los_Angeles-class_submarine) – Flight III/688I details, builders, development, Rickover quote
+[^ref-11]: [MobyGames – Releases](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/releases/) – international release dates, distributors, Sierra Originals release
+[^ref-12]: [Internet Archive – Spanish Re-release Scans](https://archive.org/details/fast_attack_spanish_rerelease_scans) – 2000 Spanish edition by Havas Interactive
+[^ref-13]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Fast_Attack_High_Tech_Submarine_Warfare_1996) – preservation copy
+[^ref-14]: [PC Player (Germany) 5/96, p. 84 – Fast Attack review by Heinrich Lenhardt](https://archive.org/details/PC-Player-German-Magazine-1996-05/page/n83) – two-star verdict, five scenarios, Software Sorcery/Conqueror team, MS-DOS, no multiplayer
+[^ref-15]: [Joystick (France) #70 (April 1996) – Fast Attack review](https://archive.org/details/joystick070/page/n93) – 90% interest, 85% technique, Silent Hunter comparison
+[^ref-16]: [InterAction Holiday 1995 – "Games You'll Be Playing in '96"](https://archive.org/details/InterAction_Magazine_Holiday_1995_1995_Sierra_On-Line_US/page/n99) – Sierra's pre-release announcement
+[^ref-17]: [InterAction Spring 1996 – Order Direct From Sierra](https://archive.org/details/InterAction_Magazine_Spring_1996_1996_Sierra_On-Line_US/page/n95) – $49.95 catalog listing, DOS CD
+[^ref-18]: [InterAction Holiday 1996 – SierraOriginals offer](https://archive.org/details/029_interaction_volume_9_number_4_holiday_1996/page/n110) – Fast Attack listed among SierraOriginals titles
+[^ref-19]: [Computer Gaming World #122 (September 1994) – show report](https://archive.org/details/computer-gaming-world-issue-122-september-1994/page/n34) – Software Sorcery's AEGIS follow-up, "Fast Attack Boats"
+[^ref-20]: [MobyGames – Reviews](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/reviews/) – aggregate critic and player scores
+[^ref-21]: [Computer Game Review #44 (March 1995) – Winter CES report](https://archive.org/details/computer-game-review-issue-44-march-1995/page/n113) – Software Sorcery, Time Warner affiliate, announces Fast Attack
+[^ref-22]: [MobyGames – Specs](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/specs/) – minimum CPU, supported video and sound devices
