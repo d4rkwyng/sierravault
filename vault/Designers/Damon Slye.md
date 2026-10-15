@@ -5,127 +5,122 @@ birth_year: 1962
 death_year: null
 notable_games: ["Red Baron", "Stellar 7", "Arcticfox", "Aces of the Pacific"]
 companies: ["Dynamix", "Mad Otter Games"]
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 ---
 # Damon Slye
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-Damon Slye (born June 15, 1962) is an American video game designer and programmer who played a pivotal role in pioneering 3D graphics and flight simulation games during the golden age of PC gaming.[^ref-1] Best known as the co-founder of Dynamix and creator of legendary titles like Red Baron and Stellar 7, Slye helped establish many of the technical and design standards that would define vehicular simulation games for decades to come.[^ref-2] His innovative work with 3D rendering technology and immersive combat mechanics set new benchmarks for realism in flight simulation games, bridging the gap between 2D and full 3D gaming during the industry's crucial transition period of the late 1980s and early 1990s.[^ref-3]
+Damon Slye (born 1962) is an American video game designer, director and programmer who co-founded Dynamix with Jeff Tunnell in Eugene, Oregon, in 1984.[^ref-1][^ref-4] He is best known for the historical flight simulations [[1990 - Red Baron|Red Baron]], [[1989 - A-10 Tank Killer|A-10 Tank Killer]] and [[1992 - Aces of the Pacific|Aces of the Pacific]], and before that for the 3D action games Stellar 7 and Arcticfox.[^ref-1][^ref-2] In its November 1996 list of the 150 best games of all time, Computer Gaming World placed Red Baron at No. 4 and Arcticfox at No. 138.[^ref-19]
 
-Slye co-founded Dynamix with Jeff Tunnell in Eugene, Oregon, in 1984, and Sierra On-Line bought the company in 1990.[^ref-4] During his decade-long tenure at Dynamix, he created some of the most influential simulation games of the era before leaving the company in May 1994.[^ref-5] After a 12-year hiatus during which he pursued various interests including completing his Bachelor of Science degree and obtaining his pilot's license, Slye returned to game development in 2006 and co-founded Mad Otter Games in 2007.[^ref-6]
+Sierra On-Line bought Dynamix in 1990, while Red Baron was in development.[^ref-4] Slye left Dynamix and the industry in 1994, and returned around 2007, when he founded Mad Otter Games.[^ref-2][^ref-20][^ref-21]
 
 ## Career
 
 ### Early Career
 
-Slye's entry into the gaming industry began during his time at South Eugene High School, where he started creating computer games on a teletype in 1977.[^ref-7] He wrote simple games on an 8K Commodore PET, including a version of Mastermind in just seven lines of Basic, and taught himself 6502 Assembly to begin creating his own flight simulation games.[^ref-7] His technical brilliance was particularly evident in his mastery of mathematics and physics, skills that would prove crucial in developing realistic flight models and 3D graphics engines.[^ref-8] As colleague David McClurg noted: "Damon is brilliant at maths and physics. He came up with a novel way to do 3d graphics, back in the day of 16-bit fixed-point math, called spherical compression that kept the math from overflowing."[^ref-8]
+According to MobyGames, Slye started creating computer games in 1977 on a teletype, and in high school wrote games for fun on the 8K Commodore PET, including a version of Mastermind in seven lines of Basic.[^ref-2] His first published game was Stellar 7, released for the Apple II in 1983.[^ref-2] He described the process to Gamasutra: "So first I coded 3Space, an engine upon which to build the game, and after that I wrote the game."[^ref-12] He enjoyed "the challenge of writing graphics and 3D code that was fast enough to run on a one megahertz chip, and fit in 48K," as MobyGames puts it.[^ref-2] Colleague David McClurg later wrote that Slye "came up with a novel way to do 3d graphics, back in the day of 16-bit fixed-point math, called spherical compression that kept the math from overflowing."[^ref-8]
 
-In the early 1980s, Slye was hired by Jeff Tunnell to work at his computer store, and the two formed a quick bond.[^ref-7] Tunnell would sell the shop a few months later, and both founded Software Entertainment Company (SEC) to publish their games. In 1984, at the age of 22, Slye co-founded what would become Dynamix alongside Jeff Tunnell, despite having opportunities with established publishers.[^ref-9] As Slye recalled: "I was thinking, maybe I should take a deal with Electronic Arts, Sierra or Broderbund, but he convinced me that I should work with him instead."[^ref-9] The company would soon be renamed Dynamix and become one of the most innovative and successful independent game studios of the 1980s and 1990s.[^ref-10]
+Slye met Jeff Tunnell as a customer of Tunnell's Eugene computer store: "So I would go in there and that's how I met him."[^ref-9] Kevin Ryan, an early Dynamix programmer, recalls that Slye, then a University of Oregon student, "came by the shop, showed Jeff the game, and a computer game publishing company was born"; it was first called Software Entertainment Corporation and was renamed Dynamix within a year.[^ref-13] Slye recalled weighing other options: "I was thinking, maybe I should take a deal with Electronic Arts, Sierra or Broderbund, but he convinced me that I should work with him instead."[^ref-9]
 
 ### Dynamix Years (1984–1994)
 
-The early years at Dynamix were characterized by what Slye described as youthful idealism and passion.[^ref-11] "We were young and idealistic. That kept us passionate and motivated to make the best games we could. We believed if we made the games great, then success would follow," Slye explained.[^ref-11] This philosophy guided the company's approach to taking technical risks, as Slye noted: "We didn't think about risk back then. That's part of being young and idealistic."[^ref-11]
+Asked what drove Dynamix's success, Slye told Gamasutra: "We were young and idealistic. That kept us passionate and motivated to make the best games we could. We believed if we made the games great, then success would follow."[^ref-12] He added, "About risk, we didn't think about risk back then. That's part of being young and idealistic."[^ref-12]
 
-One of Slye's most significant technical contributions was the co-creation of the 3Space engine alongside David McClurg.[^ref-7] This proprietary 3D rendering system provided Dynamix with advanced 3D capabilities that were cutting-edge for their time, enabling the studio to create immersive vehicular simulations that set new standards for visual fidelity and realism.[^ref-12] The 3Space engine powered many of Dynamix's most successful simulation titles and helped establish the company as a leader in 3D graphics technology.[^ref-13]
+Slye followed Stellar 7 with Arcticfox (1986), the first original title Electronic Arts published for the new Amiga.[^ref-1] MobyGames says he "designed and directed a dozen games over the next ten years" at Dynamix, "from 3D action games to modern and historic flight simulations," including the Great War Planes series of Red Baron, Aces of the Pacific, Aces Over Europe and A-10 Tank Killer.[^ref-2] He told Gamasutra that "We had one of the best 3D engines at the time," and that when VGA arrived, "we were the first game company to fully support it."[^ref-12]
 
-Slye designed and directed a dozen games during his eleven years at Dynamix, ranging from 3D action games to modern and historical flight simulators.[^ref-7] His Great War Planes series—including [[1989 - A-10 Tank Killer|A-10 Tank Killer]], [[1990 - Red Baron|Red Baron]], [[1992 - Aces of the Pacific|Aces of the Pacific]], and [[1993 - Aces Over Europe|Aces Over Europe]]—became legendary in the simulation gaming community.[^ref-2]
-
-Sierra On-Line bought Dynamix in 1990, while Red Baron was in development; it became the first game in Dynamix's "Great Warplanes" flight-simulator series published by Sierra.[^ref-4] Under Sierra's umbrella, Dynamix expanded its reach and resources while maintaining the creative independence that had made it successful.[^ref-14] As one industry observer noted: "Few game studios of the 80s and 90s tackled a wider set of genres with as much success and innovative spirit as Dynamix."[^ref-3]
+Before Red Baron, Slye planned a single air-combat game called "The Great Warplanes" with aircraft from every era. Ken Williams wrote him "a very formal but very polite letter, gently suggesting" he split it into several products, and Slye later said the team "ended up with three games, each of which was about 4x better than what the single 'Great Warplanes' game would have been."[^ref-12] Of the Sierra deal, he said Ken Williams "understood that we were good at what we did because we were inspired and that if Sierra came in with a heavy hand, it would break our spirit."[^ref-12] The Video Game Newsroom Time Machine podcast introduced its 2022 interview with him by saying: "Few game studios of the 80s and 90s tackled a wider set of genres with as much success and innovative spirit as Dynamix."[^ref-3]
 
 ### Later Career
 
-In May 1994, after a decade of intensive game development, Slye made the decision to leave Dynamix and take what he called a "sabbatical" from the gaming industry.[^ref-5] "Damon himself admits that he was simply just burnt out from making games non-stop," according to industry accounts.[^ref-2] During this extended break, Slye pursued various personal interests, including "playing chess, skiing, basketball, and doing a lot of reading."[^ref-11] He returned to the University of Oregon where he spent the next two years earning his Bachelor of Science (BS) in Mathematics and Computer Science, and also acquired his pilot's license during this period—gaining firsthand experience with aviation that would inform his later work on flight simulations.[^ref-6][^ref-7]
+Slye left after Aces Over Europe: "That was in 1993 or 1994. I was burned out with the 80-hour weeks, and hadn't done a lot of the things that people normally do in their 20s and 30s."[^ref-12] Wikipedia, citing Computer Gaming World's May 1994 issue, reports that he wanted a "sabbatical" to study math and physics as well as "playing chess, and skiing, and playing basketball, and doing a lot of reading."[^ref-1] He told Polygon: "I left the company, got my Bachelor's degree, moved to SF, and got my pilot's license."[^ref-20] Computer Gaming World described him in 1996 as "a quiet University of Oregon graduate."[^ref-19]
 
-After 12 years away from the industry, Slye returned to game development in 2006.[^ref-6] In 2007, he co-founded Mad Otter Games, bringing a more mature perspective to game development.[^ref-6] His priorities had evolved significantly, as he explained: "My goals are different now. They are, in this order: #1 Have a great place to work #2 Stay in business #3 Build great games #4 Make a lot of money."[^ref-11] This represented a notable shift from his earlier focus purely on creating great games, reflecting the wisdom gained from his years of experience in the industry.[^ref-6]
+The return came "just before 2007," when Tunnell crossed the street in front of Slye's car in downtown Eugene and asked, "Hey Damon, want to make games again?"[^ref-20] Slye founded Mad Otter Games in 2007; in 2008 its site carried his note, "After a twelve year hiatus from game development, I've returned."[^ref-20][^ref-21] MobyGames likewise dates his return to 2007, "after a 12-year hiatus."[^ref-2]
 
-At Mad Otter Games, Slye served as lead designer and director on Villagers and Heroes, an MMORPG released in 2011 that has amassed over 20,000 active players.[^ref-2] The company continues to update and improve the game, demonstrating Slye's commitment to live service development and community engagement.[^ref-6]
+By 2010 his priorities had changed: "My goals are different now. They are, in this order: #1 Have a great place to work #2 Stay in business (otherwise #1 goes away) #3 Build great games #4 Make a lot of money in games."[^ref-12]
+
+At Mad Otter he led Ace of Aces (2008) and the free-to-play MMORPG Villagers and Heroes, released on October 27, 2011, which Wikipedia lists him as directing.[^ref-5][^ref-23] In late 2013 Mad Otter sought $250,000 on Kickstarter for a new Red Baron game.[^ref-20][^ref-5]
 
 ## Notable Works
 
 ### Stellar 7 (1983)
 
-Stellar 7 was Slye's breakthrough title, published by his Software Entertainment Company before Dynamix was founded, directly inspired by the arcade game Battlezone.[^ref-2] The game featured innovative 3D tank combat that was revolutionary for its time, establishing Slye's reputation as a pioneer in 3D vehicular simulation.[^ref-15] His technical expertise allowed him to create smooth 3D graphics on hardware that was severely limited compared to modern standards, using mathematical techniques like spherical compression to prevent computational overflow.[^ref-8] The game's success demonstrated Slye's ability to translate arcade-style action into compelling home computer experiences, and led to the founding of Dynamix with Jeff Tunnell in 1984.[^ref-10] Slye would later remake the game for modern hardware in 1990.
+Stellar 7 was Slye's first published game, released on the Apple II in 1983; he wrote the 3Space engine for it and then the game itself.[^ref-2][^ref-12] Dynamix released a new version in 1990, which MobyGames credits him as producing.[^ref-2]
 
 ### Arcticfox (1986)
 
-Building on the success of Stellar 7, Arcticfox represented a significant evolution in Slye's design philosophy and technical capabilities.[^ref-16] Developed for the Amiga, it was one of the first games for the platform.[^ref-2] Arcticfox landed at #138 on Computer Gaming World's "Best Games of All Time" list.[^ref-2] This achievement highlighted Slye's growing reputation as both a technical innovator and skilled game designer, setting the stage for his later masterwork in flight simulation.[^ref-17]
+Arcticfox was the first original title Electronic Arts published for the Amiga.[^ref-1] Computer Gaming World ranked it No. 138 among its 150 best games of all time, calling it "Damon Slye's update of Stellar 7 for the Amiga" and "the seminal 3D polygon-based shooter."[^ref-19]
 
 ### Red Baron (1990)
 
-[[1990 - Red Baron|Red Baron]] stands as Slye's magnum opus and one of the most influential flight simulation games ever created.[^ref-18] Developed during his time at Dynamix under Sierra On-Line, the game featured unprecedented realism in aircraft modeling and combat mechanics.[^ref-12] Slye's background in mathematics and physics was crucial to the game's success, as he "designed and programmed a flight model from scratch for Red Baron, a historical simulator of WWI air combat," according to colleague David McClurg.[^ref-8]
-
-The game's development philosophy balanced authenticity with entertainment value, as Slye noted that "Red Baron was intended to be entertaining and fun for players rather than focusing primarily on realism."[^ref-18] This approach helped make the complex subject of World War I aerial combat accessible to a broad audience while maintaining enough technical depth to satisfy simulation enthusiasts.[^ref-13] Red Baron nabbed the #4 spot on Computer Gaming World's Best Computer Games of All Time list and won multiple other awards, cementing Slye's reputation as one of the premier flight simulation designers in the industry.[^ref-2]
+The MobyGames DOS credits for [[1990 - Red Baron|Red Baron]] read "Directed and Designed by Damon Slye", with Paul Bowman as Lead Programmer and "Flight model programmed by Damon Slye."[^ref-22] McClurg wrote that Slye "designed and programmed a flight model from scratch for Red Baron, a historical simulator of WWI air combat."[^ref-8] Slye has described the aim as more than a flight simulator: "we were building interactive history," with story and character "while also being realistic and authentic as much as possible."[^ref-18] Computer Gaming World ranked it No. 4 of all time in 1996, writing that "there is little question that Red Baron is the better game" than Falcon 3.0.[^ref-19] Slye said he was not involved in the 1998 Red Baron 3D "other than I consulted for one day on the project."[^ref-18]
 
 ### Aces of the Pacific (1992)
 
-[[1992 - Aces of the Pacific|Aces of the Pacific]] continued Slye's dominance in the flight simulation genre, taking players back to World War II Pacific theater aerial combat.[^ref-2] As lead designer and director, Slye created a game featuring a wide variety of historically accurate fighter aircraft from both American and Japanese forces.[^ref-7] The game featured historical missions, real flying aces, and detailed realism features including changes in weather, sunspots, and blackouts.[^ref-2] Aces of the Pacific was followed by the expansion "[[1992 - Aces of the Pacific - WWII 1946|WWII: 1946]]" and the European theater companion [[1993 - Aces Over Europe|Aces Over Europe]] in 1993, completing the Aces series that further solidified the Great War Planes franchise.[^ref-7]
+Slye directed [[1992 - Aces of the Pacific|Aces of the Pacific]] and its expansion [[1992 - Aces of the Pacific - WWII 1946|WWII: 1946]], and was director and designer of the European companion [[1993 - Aces Over Europe|Aces Over Europe]] (1993).[^ref-2] Computer Gaming World counted Aces of the Pacific, Aces Over Europe and Aces of the Deep as "extensions of the lessons learned and technologies developed for Red Baron."[^ref-19]
 
 ## Design Philosophy
 
-Slye's approach to game design was deeply rooted in technical excellence and player engagement rather than pure realism.[^ref-11] His philosophy emphasized creating entertaining experiences that leveraged cutting-edge technology to immerse players in believable virtual worlds.[^ref-12] This balance between technical innovation and playability became a hallmark of his work throughout his career at Dynamix.[^ref-7]
+Slye's Red Baron interview stresses context over raw simulation: "we weren't just building a flight simulator, but we were building interactive history."[^ref-18] He has credited Danielle Bunten for his interest in socially connected games, quoting her: "No one ever said on their deathbed, 'Gee, I wish I had spent more time alone with my computer.'"[^ref-12]
 
-He appreciated the challenge of writing graphics and 3D code that could operate on a one megahertz CPU while fitting inside 48K of memory—constraints that forced creative solutions.[^ref-7] This technical discipline carried through to all of his work, where he consistently found ways to push hardware limits while maintaining smooth gameplay.
-
-His views on multiplayer gaming were influenced by industry pioneer Danielle Bunten, whose philosophy he often quoted: "No one ever said on their deathbed, 'Gee, I wish I had spent more time alone with my computer.'"[^ref-11] This perspective shaped his belief in the importance of creating socially connected gaming experiences that brought people together rather than isolating them.[^ref-3]
-
-Later in his career, Slye's design philosophy evolved to prioritize sustainability and workplace culture alongside creative excellence.[^ref-6] His reordered priorities at Mad Otter Games—emphasizing a great workplace, business sustainability, excellent games, and financial success in that order—reflected a mature understanding of what was needed for long-term success in the gaming industry.[^ref-11] He advises modern developers to "focus on the features that will make your game a worthwhile project as you can always remove bad features but never get the time back you spent developing them."[^ref-6]
+On running a studio, IndieGameBusiness summarises his advice as focusing on the features that make a game worthwhile, since bad features can be cut but the time spent building them cannot be recovered.[^ref-6]
 
 ## Legacy
 
-Slye's contributions to the gaming industry extend far beyond his individual titles, encompassing fundamental advances in 3D graphics technology and simulation game design.[^ref-2] His work on early 3D rendering techniques, particularly the development of spherical compression and other mathematical solutions for hardware limitations, helped establish the technical foundations that would support the industry's transition from 2D to 3D gaming.[^ref-8]
-
-Professional colleagues consistently praise his technical brilliance and collaborative approach.[^ref-8] One LinkedIn recommendation described him as "truly a world-class game designer who is one of pioneers in gaming who deserves all the awards his games have garnered. His intense work ethic, humility and integrity makes working with him as a business partner an enviable pleasure."[^ref-8] This combination of technical skill and professional character helped establish lasting relationships throughout the industry.[^ref-9]
-
-The influence of Slye's work can be seen in the continued popularity and evolution of flight simulation games, with Red Baron remaining a touchstone for the genre decades after its initial release.[^ref-18] His approach to balancing realism with accessibility helped define the template for successful simulation games across multiple genres.[^ref-5]
+Computer Gaming World credited Red Baron with beginning "a dynasty in combat simulation for Dynamix and Sierra."[^ref-19] Retro365 notes that Project Firestart (1989), which Slye designed with Jeff Tunnell, "is considered the first survival horror game."[^ref-10] A colleague's LinkedIn recommendation calls him "truly a world-class game designer who is one of pioneers in gaming."[^ref-8]
 
 ## Games
 
-### Dynamix Years (1983–1994)
+### Before Dynamix and Dynamix Years (1983–1994)
 
-- 1983 — Stellar 7 (original)[^ref-2] — Designer, Programmer
-- **1984** — [[1984 - Sword of Kadash|Sword of Kadash]] — Role: Additional Designer
-- 1986 — Arcticfox — Designer, Programmer
-- 1987 — Skyfox II: The Cygnus Conflict — Creator
-- 1989 — Project Firestart — Designer
-- **1989** — [[1989 - Abrams Battle Tank|Abrams Battle Tank]] — Role: Designer
-- **1989** — [[1989 - MechWarrior|MechWarrior]] — Dynamix (Activision)
-- 1989 — Deathtrack — Actor (as "Sly")
-- **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Role: Producer, Flight Model
+- 1983 — Stellar 7 (Apple II; published by Software Entertainment Company, 1984 by Penguin Software) — Designer, Programmer[^ref-2][^ref-12]
+- **1984** — [[1984 - Sword of Kadash|Sword of Kadash]] — Role: Additional Room Designer (uncredited, per the Dynamix fan wiki)[^ref-7]
+- **1986** — [[1986 - Arcticfox|Arcticfox]] — Role: Designer, Programmer
+- **1987** — [[1987 - Skyfox II - The Cygnus Conflict|Skyfox II: The Cygnus Conflict]] — Role: Creator
+- **1989** — [[1989 - Project Firestart|Project Firestart]] — Role: Design
+- **1989** — [[1989 - Abrams Battle Tank|Abrams Battle Tank]] — Role: Director
+- **1989** — [[1989 - MechWarrior|MechWarrior]] — Role: Design
+- **1989** — [[1989 - Deathtrack|Deathtrack]] — Role: Actor ("Starring")
+- **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Role: Design
 - **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Director
-- **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Designer, Producer
-- **1990** — [[1990 - Red Baron|Red Baron]] — Role: Designer, Director, Lead Programmer
-- **1991** — [[1991 - Heart of China|Heart of China]] — Role: Actor (as British Guard)
-- **1991** — [[1991 - A-10 Tank Killer v1.5|A-10 Tank Killer v1.5]] — Role: Contributor
-- **1992** — [[1992 - Aces of the Pacific|Aces of the Pacific]] — Role: Lead Designer, Director
-- **1992** — [[1992 - Aces of the Pacific - WWII 1946|Aces of the Pacific: WWII: 1946]] — Role: Designer
+- **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Producer (original designer)
+- **1990** — [[1990 - Red Baron|Red Baron]] — Role: Director, Designer, Flight Model Programmer
+- **1991** — [[1991 - Heart of China|Heart of China]] — Role: Actor (British guard)[^ref-17]
+- **1991** — [[1991 - A-10 Tank Killer v1.5|A-10 Tank Killer v1.5]] — update of A-10 Tank Killer (no separate MobyGames credit)
+- **1992** — [[1992 - Aces of the Pacific|Aces of the Pacific]] — Role: Director, Lead Designer
+- **1992** — [[1992 - Aces of the Pacific - WWII 1946|Aces of the Pacific: WWII: 1946]] — Role: Director
 - **1992** — [[1992 - Red Baron - Mission Builder|Red Baron: Mission Builder]] — Role: Producer
-- **1993** — [[1993 - Stellar 7 - Draxon's Revenge|Stellar 7: Draxon's Revenge]] — Role: Original Designer
-- **1993** — [[1993 - Aces Over Europe|Aces Over Europe]] — Role: Designer, Director
+- **1993** — [[1993 - Stellar 7 - Draxon's Revenge|Stellar 7: Draxon's Revenge]] — Role: Original Design
+- **1993** — MechWarrior (SNES) — Role: Original MechWarrior game design
+- **1993** — [[1993 - Aces Over Europe|Aces Over Europe]] — Role: Director and Designer
+- 1997 — Red Baron with Mission Builder (DOS re-release) — Role: Directed by
 
-### Post-Sierra (2007–Present)
+### Mad Otter Games (2007–Present)
 
-- **2008** — [[2008 - Ace of Aces|Ace of Aces]] — Company: Instant Action, Role: Designer
-- 2011 — Villagers and Heroes — Mad Otter Games — Lead Designer, Director
+- **2008** — [[2008 - Ace of Aces|Ace of Aces]] — Company: Mad Otter Games (Wikipedia lists it under InstantAction), Role: Led development[^ref-5]
+- 2011 — Villagers and Heroes — Mad Otter Games — Lead Designer (MobyGames), Director (Wikipedia)[^ref-2][^ref-23]
+- 2013 — [[CXL - Red Baron (2013 Remake)|Red Baron (2013 remake, cancelled)]] — Mad Otter Games — Kickstarter project led by Slye[^ref-20]
+
 ## References
 
-[^ref-1]: [Damon Slye - Wikipedia](https://en.wikipedia.org/wiki/Damon_Slye) — Basic biographical information and career overview
-[^ref-2]: [Legendary Game Designers: Damon Slye](https://gamesnostalgia.net/person/damon-slye) — Career achievements and game development contributions
-[^ref-3]: [Damon Slye Interview - Video Game Newsroom Time Machine](https://videogamenewsroomtimemachine.libsyn.com/damon-slye-interview) — Industry impact and Dynamix's innovative spirit
+[^ref-1]: [Damon Slye - Wikipedia](https://en.wikipedia.org/wiki/Damon_Slye) — co-founded Dynamix 1984 in Eugene; Arcticfox first original EA Amiga title; 1994 "sabbatical" quotes from Computer Gaming World, May 1994; Mad Otter 2007
+[^ref-2]: [MobyGames - Damon Slye (Wayback, September 2025)](https://web.archive.org/web/20250911204347/https://www.mobygames.com/person/469/damon-slye/) — biography (1977 teletype, PET, Stellar 7 1983, Dynamix 1984, "a dozen games over the next ten years", left 1994, back since 2007 after a 12-year hiatus) and 20 credited games
+[^ref-3]: [Damon Slye Interview - Video Game Newsroom Time Machine (April 5, 2022)](https://videogamenewsroomtimemachine.libsyn.com/damon-slye-interview) — episode description on Dynamix's range of genres
 [^ref-4]: [Dynamix - Wikipedia](https://en.wikipedia.org/wiki/Dynamix) — Founded 1984 in Eugene by Tunnell and Slye; bought by Sierra in 1990 during Red Baron's development
-[^ref-5]: [Where Are They Now: Damon Slye](https://www.choicestgames.com/2014/09/where-are-they-now-damon-slye.html) — Career sabbatical and burnout information
-[^ref-6]: [Running a Successful Indie Studio with Damon Slye](https://indiegamebusiness.com/running-a-successful-indie-studio-with-industry-veteran-and-dynamix-co-founder-damon-slye/) — Return to industry and Mad Otter Games founding
-[^ref-7]: [Damon Slye - Dynamix Wiki](https://dynamix.fandom.com/wiki/Damon_Slye) — Comprehensive career overview with gameography and early career details
-[^ref-8]: [Damon Slye LinkedIn Profile](https://www.linkedin.com/in/damonslye/) — Professional background and skills
-[^ref-9]: [Damon Slye Chapter I - Talkingames](https://talkingames.com/damon-slye-chapter-i/) — Early career and company founding decisions
-[^ref-10]: [Dynamix's Adventures - Retro365 Blog](https://retro365.blog/2024/08/23/dynamixs-adventures/) — Dynamix company history and success
-[^ref-11]: [American Interview: Damon Slye](https://www.americanmcgee.com/2013/07/14/american-interview-damon-slye/) — Early Dynamix philosophy and approach
-[^ref-12]: [Interview: Slye and the Dynamix of Game Development](https://www.gamedeveloper.com/game-platforms/interview-slye-and-the-dynamix-of-game-development) — Technical innovations and 3D graphics capabilities
-[^ref-13]: [Adventure Classic Gaming Interview](http://www.adventureclassicgaming.com/index.php/site/features/268/) — 3Space engine's impact on simulation titles
-[^ref-14]: [Damon Slye - Academic Dictionary](https://en-academic.com/dic.nsf/enwiki/10712698) — Sierra years and continued creative independence
-[^ref-15]: [Damon Slye - Giant Bomb](https://www.giantbomb.com/damon-slye/3040-26697/) — Stellar 7's innovative 3D tank combat
-[^ref-16]: Adventure Gamers Search - Damon Slye *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Arcticfox development and evolution
-[^ref-17]: [Damon Slye - IMDb](https://www.imdb.com/name/nm1893094/) — Professional recognition and awards
-[^ref-18]: [Interesting People #13: Damon Slye on Red Baron](https://steemit.com/gaming/@badastroza/interesting-people-13-damon-slye-on-the-making-of-red-baron) — Red Baron as masterwork and influence
+[^ref-5]: [Choicest Games - Where Are They Now: Damon Slye (September 2014)](https://www.choicestgames.com/2014/09/where-are-they-now-damon-slye.html) — left Dynamix 1994; Mad Otter co-founded 2007; Ace of Aces (2008), Villagers and Heroes (2011); 2013 Red Baron Kickstarter
+[^ref-6]: [IndieGameBusiness - Running a Successful Indie Studio with Damon Slye](https://indiegamebusiness.com/running-a-successful-indie-studio-with-industry-veteran-and-dynamix-co-founder-damon-slye/) — writer's summary of his podcast advice on scope and features
+[^ref-7]: [Damon Slye - Dynamix Wiki](https://dynamix.fandom.com/wiki/Damon_Slye) — fan wiki; cited only for the uncredited Sword of Kadash room design
+[^ref-8]: [Damon Slye LinkedIn Profile](https://www.linkedin.com/in/damonslye/) — (login-walled; dossier copy 2026-01-14) recommendations by David McClurg and a LinkedIn user
+[^ref-9]: [Damon Slye Chapter I - Talkin'Games](https://talkingames.com/damon-slye-chapter-i/) — met Tunnell at his store; EA/Sierra/Broderbund quote
+[^ref-10]: [Dynamix's Adventures - Retro365 Blog (August 23, 2024)](https://retro365.blog/2024/08/23/dynamixs-adventures/) — Dynamix founded 1984; Project Firestart designed by Tunnell and Slye, "considered the first survival horror game"
+[^ref-12]: [Gamasutra - Interview: Slye and the Dynamix of Game Development (Alexander Brandon, September 2, 2010)](https://www.gamedeveloper.com/game-platforms/interview-slye-and-the-dynamix-of-game-development) — 3Space; idealism and risk quotes; Great Warplanes letter; Ken Williams; burnout; Bunten; goals
+[^ref-13]: [Adventure Classic Gaming - Dynamix feature (Kevin Ryan)](http://www.adventureclassicgaming.com/index.php/site/features/268/) — Slye showed Tunnell Stellar 7 at his shop; Software Entertainment Corporation renamed Dynamix within a year
+[^ref-17]: [Damon Slye - IMDb](https://www.imdb.com/name/nm1893094/) — credits incl. Heart of China "British Guard"
+[^ref-18]: [Steemit - Interesting People #13: Damon Slye on the making of Red Baron (2017)](https://steemit.com/gaming/@badastroza/interesting-people-13-damon-slye-on-the-making-of-red-baron) — "interactive history"; "realistic and authentic as much as possible"; one-day consult on Red Baron 3D
+[^ref-19]: [Computer Gaming World #148 (November 1996), "150 Best Games of All Time"](https://archive.org/details/Computer_Gaming_World_Issue_148) — period scan: "4. Red Baron Sierra, 1990"; "138. Arcticfox EA, 1986 Damon Slye's update of Stellar 7 for the Amiga"; "a quiet University of Oregon graduate"
+[^ref-20]: [Polygon - Two decades after he vanished, Red Baron's creator is back (October 25, 2013)](https://www.polygon.com/2013/10/25/5027564/two-decades-after-he-vanished-red-barons-creator-is-back) — "I was burnt out"; Bachelor's degree and pilot's license; "just before 2007"; Mad Otter 2007; Red Baron Kickstarter
+[^ref-21]: [Mad Otter Games - Damon Slye (Wayback, September 2008)](https://web.archive.org/web/20080907033139/http://www.madottergames.com/about/damon-slye/) — "After a twelve year hiatus from game development, I've returned."
+[^ref-22]: [MobyGames - Red Baron (DOS) credits (Wayback, November 2024)](https://web.archive.org/web/20241130134350/https://www.mobygames.com/game/1766/red-baron/credits/dos/?autoplatform=true) — "Directed and Designed by Damon Slye"; "Lead Programmer Paul Bowman"; "Flight model programmed by Damon Slye"
+[^ref-23]: [Villagers & Heroes - Wikipedia](https://en.wikipedia.org/wiki/Villagers_%26_Heroes) — released October 27, 2011; developer and publisher Mad Otter Games; director Damon Slye
