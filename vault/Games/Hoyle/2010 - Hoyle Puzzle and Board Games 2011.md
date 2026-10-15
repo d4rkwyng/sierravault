@@ -10,14 +10,14 @@ series: Hoyle
 engine: null
 protagonist: Player Avatar
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 description: Hoyle Puzzle and Board Games 2011 is a compilation of 30 board, card,
  word and puzzle games released by Encore Software for Windows and Mac in August 2010.
 tags: [2010s, hoyle, sierra]
 ---
 # Hoyle Puzzle and Board Games 2011
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ The game features the HOYLE Face Creator, allowing players to design their own a
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-4]
 > **Designer:** Unknown
-> **Publisher:** Encore Software (NA), Mindscape (PAL), Zoo Games[^ref-3][^ref-4][^ref-10]
+> **Publisher:** Encore Software (NA), Mindscape (PAL); Blu-ray.com also lists Zoo Games[^ref-3][^ref-4][^ref-10]
 > **Engine:** Unknown
 > **Platforms:** Windows, Macintosh[^ref-4][^ref-23]
 > **Release Year:** 2010[^ref-3]
@@ -55,7 +55,7 @@ Boonka is a match-3 bonus game with "over 60 fast-paced levels, 15 powerful, lev
 ## Gameplay
 
 ### Interface and Controls
-Players pick games from a menu, create an avatar with the HOYLE Face Creator, and customize card backs and characters.[^ref-4][^ref-9] One buyer who compared the 2011 and 2012 editions preferred 2011 for "easier (for me) navigation from game to game," noting that its main menu "is a list of all of the games." The same buyer found that rules and how-to information were mostly in the PDF guides rather than in the game itself.[^ref-5]
+Players pick games from a menu,[^ref-5] create an avatar with the HOYLE Face Creator, and customize card backs and characters.[^ref-4][^ref-9] One buyer who compared the 2011 and 2012 editions preferred 2011 for "easier (for me) navigation from game to game," noting that its main menu "is a list of all of the games." The same buyer found that rules and how-to information were mostly in the PDF guides rather than in the game itself.[^ref-5]
 
 ### Structure and Progression
 Players earn HOYLE Bucks by playing and spend them in a catalog of extras.[^ref-5][^ref-23] The same buyer called the catalog "pretty much just a bunch of silly stuff," such as hats, decorations and food for the player's character, and said it was not needed for play.[^ref-5]
@@ -66,7 +66,7 @@ Players can "Challenge your friends and family on one computer or play against t
 ## Reception
 
 ### Contemporary Reviews
-Mainstream gaming publications gave the game little attention. Metacritic lists the title but has no critic reviews aggregated, and it has no user reviews.[^ref-3][^ref-11] The ESRB rated it E for Everyone, with descriptors for Comic Mischief and Tobacco Reference.[^ref-23]
+Metacritic lists no critic reviews for the game, and no user reviews.[^ref-3][^ref-11] The ESRB rated it E for Everyone, with descriptors for Comic Mischief and Tobacco Reference.[^ref-23]
 
 ### Modern Assessment
 Surviving buyer reviews are mixed. One buyer called it "a good batch of quick games you can play when you just want to take a 5- or 10-minute break from your work." Another, whose anti-virus software objected to bundled extras during installation, returned it and recommended avoiding "the new version of this product."[^ref-5]
@@ -83,7 +83,7 @@ The same buyer who compared the free trials of the 2011 and 2012 editions counte
 The Hoyle series began in 1989 with Sierra On-Line's Hoyle's Official Book of Games Volume 1.[^ref-7] That original game was designed by [[Warren Schwader]], with music by Rob Atesalp, and used the Sierra Creative Interpreter (SCI) engine.[^ref-7]
 
 ### Production
-By 2010 the Hoyle brand was published by Encore Software, which had taken over the series in 2005.[^ref-7] The Australian retailer Gamesmen lists Encore Software as developer and Mindscape as the PAL publisher, and Blu-ray.com lists Zoo Games as a publisher.[^ref-4][^ref-10] No individual development credits for this edition were found. MobyGames credits the preceding "2010" edition, which has a near-identical game list, to Encore Software and Freeverse, Inc.[^ref-26]
+By 2010 the Hoyle brand was published by Encore Software, which had taken over the series in 2005.[^ref-7] The Australian retailer Gamesmen lists Encore Software as developer and Mindscape as the PAL publisher, and Blu-ray.com, a user-contributed product database, lists Zoo Games as a publisher; no other listing found names Zoo Games.[^ref-4][^ref-10] No individual development credits for this edition were found. MobyGames credits the preceding "2010" edition, which has a near-identical game list, to Encore Software and Freeverse, Inc.[^ref-26]
 
 ### Technical Achievements
 The retail release came on a hybrid Mac/PC install disc, and the Mac version is a Universal Binary.[^ref-2] The publisher supplied the manual on the disc rather than as a printed booklet.[^ref-9]
