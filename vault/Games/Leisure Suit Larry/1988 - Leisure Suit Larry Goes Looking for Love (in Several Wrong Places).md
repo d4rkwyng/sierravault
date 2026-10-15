@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI0
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-15'
 composer: [Al Lowe]
 description: '*Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)*
   is the second game in Al Lowe''s landmark comedy adventure series, released by Sierra...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -177,7 +177,7 @@ The game is packed with references to other Sierra games and inside jokes:
 - **Space Quest IV Reference:** One background is described as looking like it belongs in Space Quest IV[^ref-20]
 - **King's Quest IV Cameos:** Princess Rosella appears as a barbershop attendant at the airport; a peacock from Genesta's island appears in the resort maze[^ref-15]
 - **Ken Williams Parodies:** The chatterer barber on the airplane and Chief Keneewauwau of Nontoonyt Island are both parodies of Sierra's CEO[^ref-19]
-- **Programmer Joke:** If Larry makes it with Maria the maid, her brother Carlos arrives and shoots him—an inside joke about programmer Carlos Escobar[^ref-40]
+- **The Maid's Brother:** If Larry tries to have sex with the hotel maid, her overprotective brother walks in with a gun and kills him[^ref-44][^ref-45]
 - **"Hairy Reams" Salon:** A reference to adult film star Harry Reems[^ref-40]
 - **Recurring Barbershop:** The same barbershop appears in every area as a running gag[^ref-29]
 - **Goldfinger Homage:** If Larry follows Dr. Nonookee's henchwomen, he ends up tied to a table and cut in half by a laser beam[^ref-15]
@@ -275,7 +275,9 @@ The game's emphasis on linear storytelling and elaborate plot over the original'
 [^ref-36]: [MobyGames – 2006 Collection](https://www.mobygames.com/game/27943/leisure-suit-larry-collection/) – later compilation release
 [^ref-37]: [Speedrun.com – Leaderboard](https://www.speedrun.com/larry2) – current records, runner statistics
 [^ref-39]: [Internet Archive – Manual](https://archive.org/details/Leisure_Suit_Larry_2_Manual) – manual metadata
-[^ref-40]: [IMDb – Trivia](https://m.imdb.com/title/tt0273733/trivia/) – Carlos Escobar inside joke, "Hairy Reams" salon
+[^ref-40]: [IMDb – Trivia](https://m.imdb.com/title/tt0273733/trivia/) – "Hairy Reams" salon
 [^ref-41]: [DOS Days – Leisure Suit Larry 2](https://dosdays.co.uk/topics/Games/game_lsl2.php) – DOS requirements, original media, sound support, version dates
 [^ref-42]: [Sierra Help – Leisure Suit Larry 2 Help](https://sierrahelp.com/Games/LeisureSuitLarry/LSL2Help.html) – original requirements and supported sound devices
 [^ref-43]: [Compute! Issue 109 (June 1989), p. 66 – Bob Guerra review](https://archive.org/download/1989-06-compute-magazine/Compute_Issue_109_1989_Jun_djvu.txt) – contemporary review text
+[^ref-44]: [FunTrivia – "Leisure Suit Larry 2" Part 2 Quiz](https://www.funtrivia.com/trivia-quiz/VideoGames/Leisure-Suit-Larry-2-Part-2-375180.html) – "If Larry has sex with the maid, her overprotective brother will walk in the room with a gun… and kill Larry"
+[^ref-45]: [PC Gamer – Crapshoot: Leisure Suit Larry 2 and its many unavoidable deaths](https://www.pcgamer.com/saturday-crapshoot-leisure-suit-larry-2/) – the hotel maid scene ends in one of the game's deaths
