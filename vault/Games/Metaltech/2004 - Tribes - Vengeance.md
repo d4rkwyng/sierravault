@@ -11,7 +11,7 @@ series: "Starsiege"
 engine: "Unreal Engine 2 (modified; Vengeance engine)"
 protagonist: "Julia, Victoria and other playable characters"
 sierra_lineage: "Sierra Published"
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 description: "Tribes: Vengeance is the 2004 Tribes game developed by Irrational Games and published by Vivendi Universal Games under the Sierra brand, the first in the series with a full single-player campaign."
 tags: [2000s, shooter, tribes, starsiege, sierra, irrational-games, ken-levine]
 composer: ["Eric Brosius"]
@@ -19,7 +19,7 @@ composer: ["Eric Brosius"]
 
 # Tribes: Vengeance
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -49,7 +49,7 @@ Vengeance is set hundreds of years before the original Tribes, when the Tribal W
 
 In "The Past", the Phoenix tribe raids the imperial palace and abducts the young Princess Victoria. She is drawn, against her will, into the feud between the Phoenix and the Blood Eagle tribes.[^ref-2] Twenty years later, in "The Present", Julia sets out to find the person who killed her mother.[^ref-2][^ref-1] Beyond the two princesses, the player also controls two brothers of the Phoenix tribe and a mysterious cybrid assassin. Along the way Julia uncovers what GameSpot called "a vile conspiracy" and "a dark secret harbored by Victoria".[^ref-3]
 
-GameSpot's pre-release interview with producer Chris Mahnken explained that the time-shifting structure was meant both to familiarize players with different armor and weapons for multiplayer and "to bring you closer to each character".[^ref-12] Wikipedia lists the playable characters as Victoria, Daniel, Julia, Mercury and Jericho across 18 missions. It names Tara Strong (Julia), Gabriel Olds (Daniel) and Steve Blum (Jericho) among the voice cast.[^ref-1]
+GameSpot's March 2004 preview, introducing an interview with producer Chris Mahnken, explained that the time-shifting structure was meant both to familiarize players with different armor and weapons for multiplayer and "to bring you closer to each character".[^ref-12] Wikipedia lists the playable characters as Victoria, Daniel, Julia, Mercury and Jericho across 18 missions. It names Tara Strong (Julia), Gabriel Olds (Daniel) and Steve Blum (Jericho) among the voice cast.[^ref-1]
 
 ## Gameplay
 
@@ -91,7 +91,7 @@ Vengeance has no puzzles in the adventure-game sense. Its depth lies in team rol
 | GameSpot (Bob Colayco) | October 6, 2004 | 8.8/10[^ref-3] |
 | IGN (Steve Butts) | October 5, 2004 | "Irrational takes the beloved action series to new heights"[^ref-4] |
 | GameSpy (Scott Osborne) | October 8, 2004 | Positive, with reservations about multiplayer depth[^ref-5] |
-| *The Sydney Morning Herald* | October 29, 2004 | 4/5 stars[^ref-13] |
+| *The Sydney Morning Herald* (Bennett Ring) | October 30, 2004 | 4/5 stars[^ref-13] |
 | G4 *X-Play* (Todd White) | November 23, 2004 | Strong single-player, weaker multiplayer[^ref-14] |
 | Metacritic | (aggregate) | 83/100 from 44 critics[^ref-15] |
 
@@ -101,7 +101,7 @@ Other reviewers were more divided about the multiplayer. GameSpy's Scott Osborne
 
 ### Awards
 
-At the 2004 Australian Game Developers Awards, Irrational Games won Best PC Game and Best Game of 2004 for Tribes: Vengeance. Dean Tate won Best Level Design and Edward Orman won Best Game Design.[^ref-9] Wikipedia adds that the game was a runner-up for *Computer Games Magazine*'s ten best computer games of 2004.[^ref-1]
+At the 2004 Australian Game Developers Awards, Irrational Games won Best PC Game and Best Game of 2004 for Tribes: Vengeance. Dean Tate won Best Level Design and Edward Orman won Best Game Design.[^ref-9] Wikipedia adds, citing the magazine's March 2005 awards issue, that the game was a runner-up for *Computer Games Magazine*'s ten best computer games of 2004.[^ref-1]
 
 ### Modern Assessment
 
@@ -123,7 +123,7 @@ Eric Brosius wrote the music and sound.[^ref-7]
 
 Eurogamer reported on October 5, 2004 that the official 483 MB multiplayer demo had been released, with four maps and all of the full game's weapons, armor, vehicles and game types. A single-player demo was on Sierra's site. The full game was then expected in Europe on October 22.[^ref-11] MobyGames lists the US release on October 5, 2004 and releases in France, Germany and Italy on October 22, 2004.[^ref-2]
 
-Support ended early. Wikipedia reports that on March 23, 2005 Vivendi Universal Games announced it was ending support, starting with the cancellation of the 1.1 update.[^ref-1] When GameSpot asked Ken Levine in January 2006 about a supposed "falling out" with VU Games over the game, he answered: "With Tribes, we did a patch, and for whatever reason they decided not to release it."[^ref-10]
+Support ended early, in March 2005. On March 24, 2005 Neowin reported a post on the VU Games community forums saying that the 1.1 patch had been cancelled, along with apparently all future updates. Slashdot carried the news the next day under the headline "Tribes Franchise Quietly Strangled".[^ref-17][^ref-18] Wikipedia dates the announcement to March 23, 2005.[^ref-1] When GameSpot asked Ken Levine in January 2006 about a supposed "falling out" with VU Games over the game, he answered: "With Tribes, we did a patch, and for whatever reason they decided not to release it."[^ref-10]
 
 ### Version History
 
@@ -131,7 +131,7 @@ Support ended early. Wikipedia reports that on March 23, 2005 Vivendi Universal 
 |---------|------|----------|-------|
 | Multiplayer demo | October 5, 2004 | Windows | Four maps; single-player demo also offered[^ref-11] |
 | 1.0 retail | October 5, 2004 (US); October 22, 2004 (Europe) | Windows | CD-ROM and DVD-ROM editions listed for the UK[^ref-2] |
-| 1.1 patch | Cancelled 2005 | Windows | Vivendi ended support before release[^ref-1][^ref-10] |
+| 1.1 patch | Cancelled March 2005 | Windows | Vivendi ended support before release[^ref-17][^ref-1][^ref-10] |
 | Budget re-releases | 2005–2007 | Windows | Including a French BestSeller Series release and Polish and Czech budget editions[^ref-2] |
 | Freeware | 2015 | Windows | Released free by Hi-Rez Studios[^ref-2][^ref-16] |
 
@@ -170,7 +170,7 @@ Tribes: Vengeance continues the Tribes line that Dynamix began with Starsiege: T
 
 ## References
 
-[^ref-1]: [Wikipedia – Tribes: Vengeance](https://en.wikipedia.org/wiki/Tribes:_Vengeance) – engine, gameplay, playable characters and missions, voice cast, end of support, Computer Games Magazine runner-up
+[^ref-1]: [Wikipedia – Tribes: Vengeance](https://en.wikipedia.org/wiki/Tribes:_Vengeance) – engine, gameplay, playable characters and missions, voice cast, end of support dated March 23, 2005 (uncited there), Computer Games Magazine runner-up (citing Computer Games Magazine #172, March 2005, pp. 48–56)
 [^ref-2]: [MobyGames – Tribes: Vengeance](https://www.mobygames.com/game/15568/tribes-vengeance/) – release list (US October 5, 2004; France/Germany/Italy October 22, 2004; budget re-releases; Hi-Rez freeware 2015), publisher Sierra Entertainment with VUG distributors, story synopsis, user score. Retrieved via the MobyGames API, 2026-10-09
 [^ref-3]: [GameSpot – Tribes: Vengeance Review (Bob Colayco, October 6, 2004), Wayback Machine](https://web.archive.org/web/20180731115608/https://www.gamespot.com/reviews/tribes-vengeance-review/1900-6109720/) – 8.8 score, campaign, multiplayer, weapons, vehicles, presentation
 [^ref-4]: [IGN – Tribes: Vengeance review (Steve Butts, October 5, 2004), Wayback Machine](https://web.archive.org/web/20170411221721/http://www.ign.com/articles/2004/10/05/tribes-vengeance) – Dynamix's dissolution, Vivendi choosing Irrational, setting before the original Tribes
@@ -181,8 +181,10 @@ Tribes: Vengeance continues the Tribes line that Dynamix began with Starsiege: T
 [^ref-9]: [Australian Game Developers Conference – 2004 AGD Awards archive (Wayback Machine)](https://web.archive.org/web/20180309213427/http://agdc.com.au/about/arch04_awards.php) – Best PC Game, Best Game of 2004, Best Level Design (Dean Tate), Best Game Design (Edward Orman)
 [^ref-10]: [GameSpot – "Q&A: Irrational's Ken Levine on the Take-Two takeover" (Tor Thorsen, January 2006), Wayback Machine](http://web.archive.org/web/20260222063005/https://www.gamespot.com/articles/qanda-irrationals-ken-levine-on-the-take-two-takeover/1100-6142322/) – "sold poorly", end of online support, cancelled patch quote
 [^ref-11]: [Eurogamer – "Tribes: Vengeance official MP demo" (Tom Bramwell, October 5, 2004), Wayback Machine](https://web.archive.org/web/20240726230915/https://www.eurogamer.net/news051004tribesvengeance) – 483 MB demo, four maps, European date October 22, single-player demo on Sierra's site
-[^ref-12]: [GameSpot – "Tribes: Vengeance Updated Q&A – The Characters of Tribes: Vengeance" (March 29, 2004), Wayback Machine](https://web.archive.org/web/20160518181904/http://www.gamespot.com/articles/tribes-vengeance-updated-qanda-the-characters-of-tribes-vengeance/1100-6092442/) – development partners, three factions, character-switching structure
-[^ref-13]: [The Sydney Morning Herald – "Tribe vibes" (October 29, 2004), Wayback Machine](https://web.archive.org/web/20071221100747/http://www.smh.com.au/news/Games/Tribe-vibes/2004/10/29/1099028200792.html) – four-star review, verdict
+[^ref-12]: [GameSpot – "Tribes: Vengeance Updated Q&A – The Characters of Tribes: Vengeance" (March 29, 2004), Wayback Machine](https://web.archive.org/web/20160518181904/http://www.gamespot.com/articles/tribes-vengeance-updated-qanda-the-characters-of-tribes-vengeance/1100-6092442/) – development partners, three factions; GameSpot's own introduction (before the Mahnken Q&A) explains the character-switching structure
+[^ref-13]: [The Sydney Morning Herald – "Tribe vibes" by Bennett Ring (October 30, 2004), Wayback Machine](https://web.archive.org/web/20071221100747/http://www.smh.com.au/news/Games/Tribe-vibes/2004/10/29/1099028200792.html) – four-star review, verdict
 [^ref-14]: [G4 X-Play – Tribes: Vengeance Review (Todd White, November 23, 2004), Wayback Machine](https://web.archive.org/web/20041124154304/http://www.g4techtv.com/xplay/features/50414/Tribes_Vengeance_Review.html) – pros and cons, single-player vs multiplayer assessment
 [^ref-15]: [Metacritic – Tribes: Vengeance (PC), Wayback Machine 2023](http://web.archive.org/web/20230601112522/https://www.metacritic.com/game/pc/tribes-vengeance) – Metascore 83 from 44 critic reviews
 [^ref-16]: [PC Gamer – "Hi-Rez makes previous Tribes games free" (Tom Sykes, 2015), Wayback Machine](https://web.archive.org/web/20151030184042/http://www.pcgamer.com/hi-rez-makes-previous-tribes-games-free/) – freeware list including Tribes Vengeance; Tribes Ascend already free-to-play
+[^ref-17]: [Neowin – "Tribes: Vengeance = Dead?" (Todd Tanner, March 24, 2005), Wayback Machine](http://web.archive.org/web/20110703054601/http://www.neowin.net:80/news/tribes-vengeance--dead) – "According to this post on the VU Games Community forums, the 1.1 patch for Tribes: Vengeance was cancelled. Apparently all future updates for the game are now cancelled also."
+[^ref-18]: [Slashdot – "Tribes Franchise Quietly Strangled" (March 25, 2005)](https://games.slashdot.org/story/05/03/25/1349235/tribes-franchise-quietly-strangled) – reader submission: VUG "simply cancelling support for the game"
