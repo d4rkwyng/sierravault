@@ -14,7 +14,7 @@ series: "MechWarrior"
 engine: "3-Space"
 protagonist: "Gideon Braver Vandenburg"
 sierra_lineage: "Sierra Label (Dynamix)"
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 description: "MechWarrior is the 1989 BattleTech 'Mech combat simulator developed by Dynamix with its 3-Space technology and published by Activision, a year before Sierra acquired Dynamix."
 tags: [1980s, simulation, battletech, mechwarrior, dynamix, activision, damon-slye]
 composer: ["Michael Latham", "Russell Lieblich", "Bryce Morcello"]
@@ -22,7 +22,7 @@ composer: ["Michael Latham", "Russell Lieblich", "Bryce Morcello"]
 
 # MechWarrior
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -93,18 +93,18 @@ MechWarrior has no adventure-style puzzles. Its challenge is the combat model an
 | Publication | Date | Verdict |
 |-------------|------|---------|
 | *Computer Gaming World* (Johnny L. Wilson, preview) | December 1989 | Strongly positive[^ref-4] |
-| *ACE* #29 (Rik Haynes) | February 1990 | 887/1000[^ref-13][^ref-14] |
+| *ACE* #29 (Rik Haynes) | February 1990 | 887/1000[^ref-14] |
 | *Compute!* (Denny Atkin) | April 1990 | Strongly positive[^ref-2] |
-| *White Wolf* #21 (Jim Trunzo) | June/July 1990 | 4/5[^ref-13] |
+| *White Wolf* #21 (Jim Trunzo) | June/July 1990 | 4/5[^ref-17] |
 | *Dragon* #161 (Hartley, Patricia and Kirk Lesser) | September 1990 | 5/5[^ref-13][^ref-12] |
 | *Computer Gaming World* science fiction survey | November 1992 | 4/5 stars[^ref-15] |
-| *Computer Gaming World* space-strategy survey | May 1994 | 3/5 stars[^ref-13][^ref-10] |
+| *Computer Gaming World* science fiction games survey | May 1994 | 3/5 stars[^ref-10] |
 
 Wilson's "Sneak Preview" in *Computer Gaming World* came from an advance copy received while the magazine prepared its Christmas buying guide. He wrote that MechWarrior "is so easy-to-use, fast-to-play, and absolutely mesmerizing in its presentation that it forces the player to suspend his/her disbelief like no previous product".[^ref-4] He warned that hardcore BattleTech fans might find it incomplete, noting for example that it had no inferno rockets.[^ref-4]
 
 Denny Atkin of *Compute!* praised the EGA and Tandy 16-color graphics, though the game "doesn't take advantage of the full VGA palette". He also praised the AdLib and Roland sound support. He concluded that "the combination of role-playing, strategy, and war-game elements wrapped around the robot simulation" keeps the game from becoming dull.[^ref-2]
 
-*Dragon*'s reviewers found the sound monotonous at times, especially in the bars, but closed: "We recommend MechWarrior not only to arcaders but also to adventure gamers."[^ref-12] Wikipedia quotes Jim Trunzo of *White Wolf* calling it "an exceptional product", and Rik Haynes of *ACE* calling it "a near perfect fusion of flight- (tank!) simulation and role-playing game".[^ref-13]
+*Dragon*'s reviewers found the sound monotonous at times, especially in the bars, but closed: "We recommend MechWarrior not only to arcaders but also to adventure gamers."[^ref-12] Jim Trunzo of *White Wolf* called it "an exceptional product",[^ref-17] and Rik Haynes of *ACE* called it "a near perfect fusion of flight- (tank!) simulation and role-playing game".[^ref-14]
 
 ### Modern Assessment
 
@@ -160,10 +160,8 @@ Within Dynamix's own history, MechWarrior followed Abrams Battle Tank with sever
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available. As of October 2026 the 1989 MechWarrior is not sold on GOG or Steam; the MechWarrior titles sold there are later games.
-
-**Download / Preservation**
-- [Internet Archive – MechWarrior (1989), MS-DOS](https://archive.org/details/msdos_MechWarrior_1989)
+- Playable through Xbox's **Retro Classics** app, which Microsoft and Antstream Arcade launched for Game Pass members on Xbox consoles, PC and Xbox Cloud Gaming on May 21, 2025; MechWarrior is in the launch lineup alongside MechWarrior 2.[^ref-18][^ref-19][^ref-20]
+- As of October 2026 the 1989 MechWarrior is not sold on GOG or Steam; the MechWarrior titles sold there are later games.
 
 **Manuals & Extras**
 - [Internet Archive – MechWarrior manual](https://archive.org/details/Mechwarrior)
@@ -191,10 +189,14 @@ MechWarrior comes from Dynamix's independent years, between its Electronic Arts 
 [^ref-7]: [The Digital Antiquarian – "The Dynamic Interactive Narratives of Dynamix" (Jimmy Maher, 2018)](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) – MechWarrior among Dynamix's late-1980s 3D games; Dynamix leaving Electronic Arts for Mediagenic in 1988
 [^ref-8]: [MobyGames – MechWarrior credits (Wayback Machine, 2016)](http://web.archive.org/web/20160404180640/http://www.mobygames.com/game/dos/mechwarrior/credits) – full credit list including producers, composers, package and manual staff
 [^ref-9]: [MechWarrior manual, alternate scan with credits page – Internet Archive](https://archive.org/details/mechwarriormanual) – credits page (design, programming, graphics, music, production)
-[^ref-10]: [Computer Gaming World #118 (May 1994), M. Evan Brooks, space-strategy survey – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_118) – "Dynamix developed this robotic combat simulator in 3-Space"
-[^ref-11]: [Internet Archive – MechWarrior (1989), MS-DOS](https://archive.org/details/msdos_MechWarrior_1989) – listing: developed by Dynamix, published by Activision, 1989, also for PC-98 and Sharp X68000
+[^ref-10]: [Computer Gaming World #118 (May 1994), M. Evan Brooks, "We Came, We Played, We Surveyed" science fiction games survey, p. 50 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_118) – "Dynamix developed this robotic combat simulator in 3-Space"; page image of p. 50 shows the MechWarrior entry with a three-icon rating
+[^ref-11]: [MobyGames – MechWarrior releases (Wayback Machine, March 2025)](http://web.archive.org/web/20250313005300/https://www.mobygames.com/game/105/mechwarrior/releases/) – DOS December 1989 (Activision, Dynamix, distributed by Mediagenic); Sharp X68000 July 10, 1992 and PC-98 March 12, 1993 (Victor Musical Industries)
 [^ref-12]: [Dragon #161 (September 1990), Hartley, Patricia and Kirk Lesser, "The Role of Computers", pp. 48–49 – Internet Archive](https://archive.org/details/DragonMagazine260_201801/DragonMagazine161) – requirements, copy protection, story set-up, 'Mech roster, contracts, NewsNet, trading, save slots, verdict
-[^ref-13]: [Wikipedia – MechWarrior (1989 video game)](https://en.wikipedia.org/wiki/MechWarrior_(1989_video_game)) – story dates and ending, White Wolf, ACE and Dragon ratings and quotes, 1994 CGW rating
-[^ref-14]: [ACE #29 (February 1990), MechWarrior review – Internet Archive](https://archive.org/details/ACE_Issue_29_1990-02_Future_Publishing_GB) – scan of the review ("Battle through the 31st century with Activision", PC version); the OCR text is too poor to confirm the score, which is taken from Wikipedia
+[^ref-13]: [Wikipedia – MechWarrior (1989 video game)](https://en.wikipedia.org/wiki/MechWarrior_(1989_video_game)) – story dates and ending, White Wolf, ACE and Dragon ratings and quotes, Dragon rating (the ACE, White Wolf and 1994 CGW ratings are now cited to the period scans, refs 14, 17 and 10)
+[^ref-14]: [ACE #29 (February 1990), MechWarrior review – Internet Archive](https://archive.org/details/ACE_Issue_29_1990-02_Future_Publishing_GB) – scan of the review ("Battle through the 31st century with Activision", PC version); the page image of p. 65 shows the "ACE RATING 887" box and Haynes's closing line "it's a near perfect fusion of flight- (tank!) simulation and role-playing game"
 [^ref-15]: [Computer Gaming World #100 (November 1992), M. Evan Brooks, science fiction games survey – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_100) – four-star rating, "like candy" quote, BattleTech trilogy package
 [^ref-16]: [Computer Gaming World #65 (November 1989), Activision MechWarrior advertisement – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_65) – "© 1989 ACTIVISION. Software © 1989 Dynamix, Inc."
+[^ref-17]: [White Wolf #21 (June 1990), Jim Trunzo, "The Silicon Dungeon", p. 50 – Internet Archive](https://archive.org/details/whitewolfmagazine21) – page scan: "Mechwarrior, from Activision, is an exceptional product"; ratings box (1=worst, 5=best) gives Mechwarrior "Sum (4)"
+[^ref-18]: [Neowin – "Microsoft brings over 50 classic Activision games to Game Pass via new Retro Classics app" (May 21, 2025; Wayback Machine)](http://web.archive.org/web/20260712021315/https://www.neowin.net/news/microsoft-brings-over-50-classic-activision-games-to-game-pass-via-new-retro-classics-app/) – app from Xbox and Antstream Arcade "available to all Game Pass subscribers"; launch list includes "MechWarrior" and "MechWarrior 2"
+[^ref-19]: [MobileSyrup – "Xbox brings dozens of retro titles to Game Pass" (May 21, 2025)](https://mobilesyrup.com/2025/05/21/xbox-retro-classics-game-pass) – Retro Classics "available on all Game Pass platforms, including Xbox consoles, PC and devices that support Xbox Cloud Gaming"
+[^ref-20]: [MobyGames – Retro Classics (Wayback Machine, July 2026)](http://web.archive.org/web/20260728143744/https://www.mobygames.com/game/242373/retro-classics/) – released May 21, 2025 by Microsoft, developed by Antstream; included games list "MechWarrior (1989)", identifying the Dynamix original
