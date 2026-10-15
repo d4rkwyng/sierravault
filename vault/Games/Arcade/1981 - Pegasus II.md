@@ -11,24 +11,24 @@ series: null
 engine: "Machine Language"
 protagonist: null
 sierra_lineage: "Core Sierra"
-last_updated: "2026-10-09"
+last_updated: "2026-10-15"
 description: "Pegasus II is a 1981 side-scrolling Apple II shooter in the Scramble mould, written by Olaf Lubeck and published by On-Line Systems, notable for its built-in terrain generator."
 tags: [1980s, arcade, shooter, apple-ii, on-line-systems, olaf-lubeck]
 ---
 # Pegasus II
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-Pegasus II is a side-scrolling arcade shooter for the Apple II, written by Olaf Lubeck and published in 1981 by [[On-Line Systems]], the company [[Ken Williams|Ken]] and [[Roberta Williams]] founded and later renamed Sierra On-Line.[^ref-1][^ref-3][^ref-4] MobyGames classes it as a "Scramble variant": the player flies over mountainous terrain, bombing ground installations and using lasers against rockets that launch from below.[^ref-1] It was Lubeck's second published game for On-Line Systems, after the Pac-Man clone [[1981 - Gobbler|Gobbler]].[^ref-3][^ref-4]
+Pegasus II is a side-scrolling arcade shooter for the Apple II, written by Olaf Lubeck and published in 1981 by [[On-Line Systems]], the company [[Ken Williams|Ken]] and [[Roberta Williams]] founded and later renamed Sierra On-Line.[^ref-1][^ref-3][^ref-4] MobyGames classes it as a "Scramble variant": the player flies over mountainous terrain, bombing ground installations and using lasers against rockets that launch from below.[^ref-1] It came after his Pac-Man clone [[1981 - Gobbler|Gobbler]] and its replacement [[1981 - Jawbreaker|Jawbreaker]]: Lubeck told *Softline* that Jawbreaker's royalty checks got him "all fired up" to start work on Red Alert and Pegasus II.[^ref-11]
 
 The game shipped with a terrain generator. Players could draw their own landscape as twenty-one separate "frames" that the program then joined together at random.[^ref-5][^ref-1] Creative Computing reviewed it in August 1982 and called it a "challenging, fast moving flying game with the option of user-definable terrain".[^ref-6] Years later John Romero remembered first seeing Pegasus II in the Apple room at Sierra College, and named its terrain generator as one of the earliest level editors he had used.[^ref-7]
 
 Pegasus II entered *Softalk*'s Top Thirty best-seller list for the first time in the magazine's November 1981 issue.[^ref-8] It was sold on disk for 48K Apple II and II Plus machines at $29.95.[^ref-9][^ref-10]
 
 > [!info]- Game Info
-> **Developer:** [[On-Line Systems]][^ref-1]
+> **Developer:** [[On-Line Systems]] (listed as Sierra On-Line, the company's later name, by the Sierra Chest); programmed by Olaf Lubeck[^ref-2][^ref-1][^ref-16]
 > **Designer:** Olaf Lubeck[^ref-1][^ref-5]
 > **Publisher:** On-Line Systems[^ref-1]
 > **Engine:** Machine Language[^ref-2][^ref-6]
@@ -110,7 +110,7 @@ The Sierra Chest places the game in its "SierraVision" group. It records the eng
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Original | 1981 | Apple II | On-Line Systems release; advertised in *Softline* in September 1981 at $29.95[^ref-9][^ref-1] |
-| Catalogue listing | c. 1982 | Apple II | Still listed at $29.95 in a later Sierra-era catalogue alongside the company's other arcade titles[^ref-17] |
+| Catalogue listing | Undated (1983 or later) | Apple II | Still listed at $29.95 in a later, undated catalogue alongside the company's other arcade titles, including the Apple II Frogger, a 1983 release[^ref-17][^ref-22] |
 
 The Sierra Chest gives a first-release date of 1 January 1982, which looks like a placeholder for an unknown date. Advertising and best-seller coverage show the game was on sale in autumn 1981.[^ref-2][^ref-9][^ref-8] No ports to other platforms are recorded.[^ref-1][^ref-16]
 
@@ -142,9 +142,9 @@ Pegasus II has not appeared in any Sierra compilation, and it has never been sol
 
 Pegasus II is one of the early arcade-style games that On-Line Systems published for the Apple II in 1981–1983, before the company became known mainly for adventure games. Olaf Lubeck's other On-Line and Sierra titles are *Gobbler*, *Jawbreaker* and *Cannonball Blitz*.
 
-- **Previous (Olaf Lubeck):** [[1981 - Gobbler|Gobbler]] (1981)
+- **Previous (Olaf Lubeck):** [[1981 - Jawbreaker|Jawbreaker]] (1981)
 - **Next (Olaf Lubeck):** [[1982 - Cannonball Blitz|Cannonball Blitz]] (1982)
-- [[1981 - Jawbreaker]]
+- [[1981 - Gobbler]]
 - [[1981 - Threshold]]
 - [[1981 - Crossfire]]
 - [[1981 - Sabotage]]
@@ -153,7 +153,7 @@ Pegasus II is one of the early arcade-style games that On-Line Systems published
 ## References
 
 [^ref-1]: [MobyGames – Pegasus II](https://www.mobygames.com/game/77374/pegasus-ii/) – 1981 Apple II release, On-Line Systems publisher, credit to Olaf Lubeck, "Scramble variant" description, five lives, 21-frame terrain generator, joystick/paddle input, 1 player, player rating 3.2/5
-[^ref-2]: [The Sierra Chest – Pegasus II: General](https://www.sierrachest.com/index.php?a=games&id=456&fld=general) – SierraVision group, Arcade/flight combat genre, Apple II, machine-language engine, listed first-release date 1982-01-01
+[^ref-2]: [The Sierra Chest – Pegasus II: General](https://www.sierrachest.com/index.php?a=games&id=456&fld=general) – SierraVision group, Arcade/flight combat genre, Apple II, machine-language engine, listed first-release date 1982-01-01, developer and publisher "Sierra On-Line"
 [^ref-3]: [Wikipedia – Gobbler (video game)](https://en.wikipedia.org/wiki/Gobbler_(video_game)) – On-Line Systems later became Sierra Entertainment; Olaf Lubeck also wrote Cannonball Blitz
 [^ref-4]: [Retro365 – "Pegasus II, an excellent Scramble clone" (2021)](https://retro365.blog/2021/04/14/bits-from-my-personal-collection-pegasus-ii-an-excellent-scramble-clone/) – Lubeck's second published title, Scramble context, Gebellians and Space Eggs reference, terrain editor, Los Alamos, the blog's "one of the first" assessments
 [^ref-5]: [Internet Archive – Apple Manual: Pegasus II](https://archive.org/details/Pegasus_II) – original instructions: DOS 3.2/3.3 boot, paddle and joystick controls, tunnel difficulty options, terrain generator procedure, 21 frames, one-third-level rule, point schedule
@@ -173,3 +173,4 @@ Pegasus II is one of the early arcade-style games that On-Line Systems published
 [^ref-19]: [Internet Archive – Pegasus II (Apple II software library)](https://archive.org/details/zm_Pegasus_II) – preserved disk image and screenshots
 [^ref-20]: [Internet Archive – Pegasus II boot video (4am collection)](https://archive.org/details/A2Video_Pegasus_II) – preserved boot video of the Apple II original
 [^ref-21]: [MyAbandonware – Pegasus II](https://www.myabandonware.com/game/pegasus-ii-nqb) – 1981 Apple II, United States release, action/shooter classification
+[^ref-22]: [MobyGames – Frogger, Apple II release info (Wayback Machine, 2018)](http://web.archive.org/web/20180227154604/http://www.mobygames.com:80/game/apple2/frogger/release-info) – Apple II version published and ported by Sierra On-Line, United States, release date 1983
