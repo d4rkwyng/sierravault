@@ -4,91 +4,78 @@ type: designer
 birth_year: null
 death_year: null
 notable_games: ["Thexder", "Silpheed", "Thexder Neo"]
-companies: ["Game Arts Co., Ltd.", "Technical Arts"]
-last_updated: "2026-05-08"
+companies: ["ASCII Corporation", "Game Arts Co., Ltd.", "Technical Arts"]
+last_updated: "2026-10-15"
 ---
 # Hibiki Godai
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-Hibiki Godai stands as one of the most influential game designers and composers of the 1980s Japanese computer gaming scene, best known as the co-creator of the legendary action-arcade game Thexder.[^ref-1] Working primarily at Game Arts Co., Ltd., Godai was instrumental in developing some of the most technically innovative and commercially successful computer games of the mid-1980s, including the groundbreaking Thexder (1985) and the acclaimed shoot-em-up Silpheed (1986).[^ref-1][^ref-4][^ref-13] His work on Thexder alone established him as a pioneer in high-speed scrolling action games for personal computers, with the title becoming one of the best-selling computer games worldwide by 1990, selling over one million copies.[^ref-4][^ref-5]
-
-Godai's approach to game development was notably hands-on and comprehensive, embodying a philosophy of complete creative control that was somewhat unusual in the industry.[^ref-8] As he once explained, "I like to do everything myself, from start to finish," a work ethic that extended to his legendary dedication during development cycles, where he would work "three days straight without sleep" followed by extended rest periods.[^ref-3] This intense commitment to his craft resulted in games that pushed the technical boundaries of their platforms while maintaining broad commercial appeal, particularly among younger audiences.[^ref-2] His influence extended beyond game design into music composition, where he created memorable soundtracks that utilized cutting-edge sound chips like the Yamaha YM2203.[^ref-7][^ref-10]
+Hibiki Godai (五代響) is the pen name of the Japanese programmer, designer and composer Kohei Ikeda (池田公平).[^ref-11][^ref-5] He is best known as the co-designer, with Satoshi Uesaka, of Game Arts' [[1985 - Thexder|Thexder]] (1985), and he also wrote the opening demo and part of the music for Game Arts' [[1988 - Silpheed|Silpheed]].[^ref-1][^ref-3][^ref-4][^ref-15][^ref-16] He began at ASCII Corporation, where his credits from 1983 and 1984 include Rise Out, Pairs and Star Command, He has headed the developer Technical Arts since its incorporation in 1988; it began in December 1987 as a brand of Game Arts.[^ref-5][^ref-14][^ref-11]
 
 ## Career
 
-### Early Career
+### ASCII Years (1983–1984)
 
-Hibiki Godai entered the Japanese computer gaming industry during the early 1980s boom period, joining Game Arts Co., Ltd., a company that would become synonymous with high-quality computer games.[^ref-5] His early work demonstrated an unusual combination of technical programming skills and creative vision, allowing him to take on multiple roles within game development projects.[^ref-12] Unlike many developers of the era who specialized in single disciplines, Godai embraced a holistic approach to game creation that encompassed programming, design, and music composition.[^ref-1]
+Godai's route into games began when he bought an NEC PC-6001 to make and sell games. A game he finished and sold in Akihabara caught the eye of someone at ASCII, and he went on to work there; he recalled this at a 2017 retro-PC talk in Akihabara.[^ref-15] His MSX credits at ASCII include programming and direction on Pairs (1983), programming on Star Command (1983), Rise Out (1983) and Tiny Rise Out, and music for Rotors and Lord Over (1984).[^ref-5][^ref-19] Rise Out is his own work.[^ref-8] His music for Rise Out and Star Command later appeared, alongside Thexder, on Game Arts' *MICOM GAME MUSIC VOL.1* cassette, which credits him as composer and arranger.[^ref-18]
 
-The mid-1980s represented a critical period for Japanese computer gaming, particularly on platforms like the PC-8801, where technical limitations required innovative solutions to achieve compelling gameplay experiences.[^ref-7] Godai's entry into this environment coincided with Game Arts' expansion into more ambitious projects that would push the boundaries of what personal computers could achieve in terms of action gaming and audio presentation.
+### Game Arts (1985–1987)
 
-### Game Arts Years
+At Game Arts, Godai and Satoshi Uesaka designed Thexder, released for the NEC PC-8801 in 1985; MobyGames credits Godai with its direction and game design.[^ref-4][^ref-19] In a 1985 interview with BEEP magazine, the two explained the idea. "First, with regard to the transforming robot game, we were thinking about commercial appeal as you might have guessed. That's the kind of thing that would appeal to elementary and middle school age kids, we thought," Godai said. "As for the high-speed scrolling, so far there have been no high-speed scrolling games on the PC-88 machines, so we thought it would seem fresh and new."[^ref-3] He added: "the faster the screen scrolls, the larger the maps need to be. If you don't make them large, it'll feel cramped and small to players. For Thexder, we've prepared 480 screens worth of maps."[^ref-3]
 
-Godai's most significant contributions came during his tenure at Game Arts, beginning with his work on Thexder in 1985. The development of Thexder represented a breakthrough moment both for Godai personally and for the broader computer gaming industry in Japan.[^ref-3] As he explained his design philosophy for the game, "First, with regard to the transforming robot game, we were thinking about commercial appeal as you might have guessed. That's the kind of thing that would appeal to elementary and middle school age kids, we thought."[^ref-3] This calculated approach to audience appeal, combined with technical innovation, proved to be a winning formula.
+He also composed the game's "THEXDER" theme.[^ref-18] Music blogger Unobtainium13 calls Thexder "the first noteworthy soundtrack for the platform I've found making use of the Yamaha YM2203 sound chip."[^ref-7]
 
-The technical achievements of Thexder were particularly noteworthy for the PC-8801 platform. Godai noted, "As for the high-speed scrolling, so far there have been no high-speed scrolling games on the PC-88 machines, so we thought it would seem fresh and new."[^ref-3] This innovation required careful consideration of game world design, as Godai explained: "Well, the faster the screen scrolls, the larger the maps need to be. If you don't make them large, it'll feel cramped and small to players. For Thexder, we've prepared 480 screens worth of maps."[^ref-3]
+Silpheed's PC-88 version (1986) credits Godai as "Sub programer (Music and opening)" and, with Hiromi Ohba, as composer of music tracks 5 to 12; a 2017 AKIBA PC Hotline report likewise describes his Silpheed role as the PC version's demo and music.[^ref-16][^ref-15] Sierra's 1989 DOS release credits him for the original score.[^ref-19] His Silpheed music was released on cassette in 1988.[^ref-10] He was also a sub programmer on the PC-88 version of [[1990 - Zeliard|Zeliard]] (1987).[^ref-19]
 
-Following the success of Thexder, Godai continued his work at Game Arts with Silpheed in 1986, another technically ambitious project that showcased his skills in both game design and music composition.[^ref-1] According to gaming historians, "Silpheed (Game Arts, 1986) was another product of Hibiki Godai, at least as best I can tell," though attribution for various aspects of the game's development remains somewhat unclear in historical records.[^ref-7] The game represented another leap forward in terms of visual presentation and gameplay mechanics for computer-based shoot-em-ups.
+### Technical Arts (1987–Present)
 
-### Later Career
+Technical Arts began in December 1987 as a separate brand of Game Arts and was incorporated in 1988 as an independent limited company, with Kohei Ikeda as its representative director.[^ref-14] The Game Developer Research Institute explains the split: "Game Arts began to focus on console games, but Ikeda wanted to continue working on computer software."[^ref-11] Ikeda still heads the company, which is based in Chiyoda, Tokyo.[^ref-14]
 
-Godai's career trajectory shifted along with the broader Japanese gaming industry's movement toward console development. As documented in industry sources, "Game Arts began to focus on console games, but Ikeda wanted to continue working on computer software," leading to the formation of Technical Arts as an independent entity.[^ref-11] This transition period saw Godai adapting his design sensibilities to new platforms and market demands while maintaining his commitment to technical excellence.
+The company's own history lists its first game work as the PC-88VA version of Ultima IV (1988, for Pony Canyon), its first self-published game as *SL Simulator* (2000), and its first smartphone game as *RISEOUT Over The Centuries* for iOS (2011), followed by a military quiz game (2017) and the VR tennis game *CYBER TENNIS* (2018 onward).[^ref-14] MobyGames also credits him with music for *Game Basic for SegaSaturn* (1998), under the Technical Arts name.[^ref-19]
 
-His return to the Thexder franchise came much later with Thexder Neo in 2009, where he served as Director and was credited as the Original Game Designer.[^ref-1][^ref-2] This project represented both a homecoming to his most famous creation and an opportunity to apply modern development techniques to classic gameplay concepts. The significant gap between his original work and this revival project speaks to the enduring appeal of his original designs and their continued relevance in the gaming market.
+Godai did not work on the 2009 remake [[2009 - Thexder Neo|Thexder Neo]], which was developed by Zereo, published by Square Enix and directed by Masayuki Shimada. He and Uesaka are credited there as "Original Thexder Staff," and his "Thexder" theme is used as the opening music.[^ref-17][^ref-2] He is also listed in the "Special Thanks" of Sierra's [[1995 - Thexder 95|Thexder]] for Windows (1995).[^ref-19]
 
 ## Notable Works
 
 ### Thexder (1985)
 
-Thexder represents Hibiki Godai's most significant contribution to gaming history, establishing him as a pioneer in high-speed action games for personal computers.[^ref-1] The game's innovative combination of transforming robot mechanics with fast-scrolling gameplay created an entirely new subgenre that influenced countless subsequent titles. Godai's technical achievement in creating smooth, high-speed scrolling on the PC-8801 platform was particularly noteworthy, as he noted, "so far there have been no high-speed scrolling games on the PC-88 machines."[^ref-3] The game's commercial success was extraordinary, initially selling over 500,000 copies and eventually becoming one of the best-selling computer games worldwide with over one million copies sold by 1990.[^ref-4][^ref-5]
+Thexder, co-designed with Satoshi Uesaka, is a side-scrolling action game starring a robot that transforms into a jet.[^ref-3][^ref-4] Godai said development took about two months, and that it took "480 screens worth of maps" to make the fast scrolling feel roomy.[^ref-3] The back of the game's box carried a picture of its two designers.[^ref-4]
 
 ### Silpheed (1986)
 
-Godai's work on Silpheed demonstrated his versatility as both a game designer and composer, creating what many consider one of the definitive shoot-em-up experiences of the 1980s.[^ref-1] Music historians have noted that "Silpheed (Game Arts, 1986) was another product of Hibiki Godai," highlighting his dual role in both game design and audio composition.[^ref-7] The game showcased his ability to create compelling gameplay experiences that pushed the technical boundaries of personal computer platforms while maintaining the commercial appeal that characterized his design philosophy.
-
-### Thexder Neo (2009)
-
-After more than two decades, Godai returned to his most famous creation with Thexder Neo, serving as both Director and being credited as the Original Game Designer.[^ref-1][^ref-2] This project represented a full-circle moment in his career, allowing him to revisit and modernize the gameplay concepts that had established his reputation. The game demonstrated the enduring appeal of his original design principles while incorporating modern development techniques and platform capabilities.
+On Silpheed, Godai programmed the opening demo and composed part of the music, tracks 5 to 12, with Hiromi Ohba.[^ref-16][^ref-15] Unobtainium13 calls the game "another product of Hibiki Godai, at least as best I can tell."[^ref-7]
 
 ## Design Philosophy
 
-Hibiki Godai's approach to game development was characterized by an unusually comprehensive and hands-on methodology that set him apart from many of his contemporaries. His fundamental philosophy was captured in his statement: "I think it differs from person to person, but in my case, I like to do everything myself, from start to finish."[^ref-3] This approach extended to an intense work ethic that he described vividly: "when I'm into it, I'm fine working three days straight without sleep. Working for three days, then sleeping 20 hours, that kind of schedule. A programmer must have focus and endurance."[^ref-3]
-
-His design decisions were driven by a careful balance of technical innovation and commercial viability.[^ref-3] When discussing Thexder's transforming robot concept, Godai explained his strategic thinking: "we were thinking about commercial appeal as you might have guessed. That's the kind of thing that would appeal to elementary and middle school age kids, we thought."[^ref-3] This market-conscious approach never compromised his commitment to technical excellence, as evidenced by his pioneering work in high-speed scrolling technology and sophisticated map design.
-
-Godai's attention to technical detail was meticulous, understanding that innovation required careful consideration of all interconnected systems. His explanation of Thexder's map design illustrates this comprehensive thinking: "the faster the screen scrolls, the larger the maps need to be. If you don't make them large, it'll feel cramped and small to players. For Thexder, we've prepared 480 screens worth of maps."[^ref-3] This holistic approach to game design, considering both technical capabilities and player experience, became a hallmark of his work throughout his career.
-
-## Legacy
-
-Hibiki Godai's impact on the gaming industry extends far beyond his individual game releases, establishing him as a pivotal figure in the evolution of computer-based action gaming.[^ref-4] His work on Thexder alone influenced an entire generation of game developers, demonstrating that personal computers could deliver arcade-quality action experiences when properly optimized. The game's success, with over one million copies sold worldwide, proved the commercial viability of technically ambitious computer games and helped establish Game Arts as a major force in the industry.[^ref-5]
-
-From a technical standpoint, Godai's innovations in high-speed scrolling and multi-role gameplay mechanics became standard features in subsequent action games.[^ref-7] Gaming historians have noted that "Thexder (Game Arts, 1985) by Hibiki Godai was the first noteworthy soundtrack for the platform I've found making use of the Yamaha YM2203 sound chip," highlighting his dual contributions to both gameplay innovation and audio technology.[^ref-7] His comprehensive approach to game development, handling programming, design, and music composition, served as a model for independent developers and small teams seeking to create technically impressive games with limited resources.
-
-The enduring appeal of Godai's work is evidenced by the continued interest in his games decades after their original release, with titles like Thexder finding new audiences through digital distribution and retro gaming communities.[^ref-6][^ref-9] His return to game development with Thexder Neo in 2009 demonstrated both the lasting relevance of his design principles and the respect he maintained within the industry after an extended absence from active development.[^ref-1] Modern game designers continue to reference his work as an example of how technical innovation and commercial appeal can be successfully combined without compromising artistic vision.
+In the 1985 BEEP interview, Godai described a one-person approach: "I think it differs from person to person, but in my case, I like to do everything myself, from start to finish."[^ref-3] He also described his working hours: "when I'm into it, I'm fine working three days straight without sleep. Working for three days, then sleeping 20 hours, that kind of schedule."[^ref-3]
 
 ## Games
 
-- **1985** — [[1985 - Thexder|Thexder]] — Role: Designer/Programmer/Composer
-- **1986** — [[1988 - Silpheed|Silpheed]] — Role: Sub Programmer (Music/Opening)
-- **1987** — [[1990 - Zeliard|Zeliard]] — Role: Sub Programmer
-- **1989** — [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk: Thexder: The Second Contact]] — Role: Original Designer
-- **2009** — [[2009 - Thexder Neo|Thexder Neo]] — Role: Director/Original Game Designer
+- **1983** — Rise Out, Pairs, Star Command (ASCII, MSX) — Role: Program; Pairs also Director
+- **1984** — Rotors, Lord Over (ASCII, MSX) — Role: Music
+- **1985** — [[1985 - Thexder|Thexder]] — Role: Director, Game Designer, Programmer, Composer
+- **1986** — [[1988 - Silpheed|Silpheed]] (PC-88) — Role: Sub Programmer (Music and Opening), Composer (Music #5–#12)
+- **1987** — [[1990 - Zeliard|Zeliard]] (PC-88) — Role: Sub Programmer
+- **1995** — [[1995 - Thexder 95|Thexder]] (Windows) — Role: Special Thanks
+- **1998** — Game Basic for SegaSaturn — Role: Music
+- **2009** — [[2009 - Thexder Neo|Thexder Neo]] — Role: Original Thexder Staff (credit); opening music "Thexder"
 
 ## References
 
-[^ref-1]: [MobyGames - Hibiki Godai](https://www.mobygames.com/person/31293/hibiki-godai/) — Complete game credits and career timeline
-[^ref-2]: [IMDb - Hibiki Godai](https://www.imdb.com/name/nm1561072/) — Career timeline and filmography
-[^ref-3]: [Shmuplations - Thexder Interview (1985)](https://shmuplations.com/thexder/) — Original BEEP magazine interview with direct quotes
-[^ref-4]: [Extra Lives Blog - Thexder](https://extralives.wordpress.com/2015/08/11/it-came-from-japan-thexder/) — Commercial success and sales figures
-[^ref-5]: [Generation MSX - Hibiki Godai](https://www.generation-msx.nl/person/hibiki-godai/80/) — Developer biography and MSX contributions
-[^ref-6]: [Classic Reload - Thexder](https://classicreload.com/thexder.html) — Game historical information
-[^ref-7]: [Unobtainium13 - PC-8801 VGM](https://unobtainium13.com/2012/08/25/vgm-entry-27-pc-8801/) — Music composition work and YM2203 technical details
-[^ref-8]: [Medium - Rise Out From Dungeons](https://medium.com/@omrpps/rise-out-from-dungeons-bc64946d266d) — Early Game Arts development history
-[^ref-9]: [Internet Archive - VGM History 1985](https://archive.org/details/AudioPanicRoom006VGMHistory1985) — Historical context and industry background
-[^ref-10]: [Discogs - Hibiki Godai](https://www.discogs.com/artist/7329245-Hibiki-Godai) — Music discography and composition credits
-[^ref-11]: [GDRI - Technical Arts](https://gdri.smspower.org/wiki/index.php/Technical_Arts) — Company history and staff information
-[^ref-12]: [NeoGAF MSX Thread](https://www.neogaf.com/threads/the-msx-nostalgia-thread-%C2%96-a-return-to-the-cradle-of-solid-snake.575017/page-6) — Community discussions and historical references
-[^ref-13]: [SoundCloud - Thexder C64](https://soundcloud.com/andy_l/ne7-hibiki-godai-thexder-c64-6581) — Music composition attribution
+[^ref-1]: [MobyGames - Hibiki Godai](https://www.mobygames.com/person/31293/hibiki-godai/) — Credit summary, 12 games (dossier copy, January 2026)
+[^ref-2]: [IMDb - Hibiki Godai](https://www.imdb.com/name/nm1561072/) — Thexder Neo listed as "original game director" and "original game designer"
+[^ref-3]: [Shmuplations - Thexder Interview (1985)](https://shmuplations.com/thexder/) — Translation of a 1985 BEEP magazine interview with Hibiki Godai and Satoshi Uesaka
+[^ref-4]: [Extra Lives Blog - Thexder](https://extralives.wordpress.com/2015/08/11/it-came-from-japan-thexder/) — Thexder's two designers, Satoshi Uesaka and Hibiki Godai, pictured on the box
+[^ref-5]: [Generation MSX - Hibiki Godai](https://www.generation-msx.nl/person/hibiki-godai/80/) — "Also know as: Kohei Ikeda, H. Godai"; ASCII-era MSX credits 1983–1984
+[^ref-7]: [Unobtainium13 - PC-8801 VGM](https://unobtainium13.com/2012/08/25/vgm-entry-27-pc-8801/) — August 25, 2012; Thexder and the YM2203; Silpheed attribution
+[^ref-8]: [Medium - Rise Out From Dungeons](https://medium.com/@omrpps/rise-out-from-dungeons-bc64946d266d) — Spanish-language article on Rise Out; names Godai as its author
+[^ref-10]: [Discogs - Hibiki Godai](https://www.discogs.com/artist/7329245-Hibiki-Godai) — Silpheed cassette (1988)
+[^ref-11]: [GDRI - Technical Arts](https://gdri.smspower.org/wiki/index.php/Technical_Arts) — "run by Kohei Ikeda (池田公平) (aka Hibiki Godai)"; incorporated 1988
+[^ref-14]: [Technical Arts - Company Information](https://www.techarts.co.jp/company.html) — Founded December 1987 as a Game Arts brand; incorporated 1988 with 池田公平 as representative director; company history (Japanese)
+[^ref-15]: [AKIBA PC Hotline - 「レトロPCナイト」 (2017)](https://akiba-pc.watch.impress.co.jp/docs/event/1062259.html) — June 6, 2017; Godai's Silpheed role (PC version demo and music); PC-6001 game sold in Akihabara led to ASCII (Japanese)
+[^ref-16]: [MobyGames - Silpheed PC-88 Credits (Wayback, December 2023)](https://web.archive.org/web/20231205005818/https://www.mobygames.com/game/167/silpheed/credits/pc88/) — "Sub programer (Music and opening): Hibiki Godai"; "Music composer (Music #5~#12): Hiromi Ohba, Hibiki Godai"
+[^ref-17]: [MobyGames - Thexder Neo Credits (Wayback, June 2022)](https://web.archive.org/web/20220623073000/https://www.mobygames.com/game/psp/thexder-neo/credits) — Developed by Zereo, published by Square Enix; Director Masayuki Shimada; Godai under "Original Thexder Staff"
+[^ref-18]: [VGMdb - MICOM GAME MUSIC VOL.1 (Wayback, January 2025)](https://web.archive.org/web/20250117123908/https://vgmdb.net/album/146078) — Game Arts cassette; composer and arranger Hibiki Godai (五代響); Rise Out, Thexder, Star Command
+[^ref-19]: [MobyGames - Hibiki Godai Credits](https://www.mobygames.com/person/31293/hibiki-godai/credits/) — Full credit list: Thexder direction and design, Silpheed, Zeliard sub programmer, Thexder 95 thanks, Game Basic for SegaSaturn music (dossier copy, January 2026)
