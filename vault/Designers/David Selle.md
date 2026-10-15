@@ -15,7 +15,7 @@ last_updated: '2026-10-09'
 
 David Selle is a veteran video game designer and director best known for his decade-long tenure at Dynamix, where he co-created the acclaimed EarthSiege and Starsiege universe of mech-based combat games.[^ref-1] Working at Dynamix from September 1989 to November 1999, Selle progressed from game designer to director, contributing to numerous influential titles including adventure games like [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] and the legendary [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]].[^ref-2] His career spans over three decades in the interactive entertainment industry, with notable work at major companies including Sony Computer Entertainment America and various educational institutions.
 
-Beyond his game design accomplishments, Selle has established himself as an educator and technology advocate, having taught at prestigious institutions including Nintendo's DigiPen Institute and Harvard University Graduate School of Design.[^ref-3] His professional philosophy centers around "learning new technology, creating with digital tools, and empowering others," which has guided both his creative work in gaming and his later ventures in business development and education.[^ref-4] Currently based in Walnut Creek, California, Selle continues to work in technology and business development while maintaining his connection to the gaming community through various projects and consulting work.[^ref-5]
+Beyond his game design accomplishments, Selle has established himself as an educator and technology advocate, having taught at prestigious institutions including Nintendo's DigiPen Institute and Harvard University Graduate School of Design. His professional philosophy centers around "learning new technology, creating with digital tools, and empowering others," which has guided both his creative work in gaming and his later ventures in business development and education.[^ref-4] Currently based in Walnut Creek, California, Selle continues to work in technology and business development while maintaining his connection to the gaming community through various projects and consulting work.[^ref-5]
 
 ## Career
 
@@ -31,7 +31,7 @@ During his ten years and three months at Dynamix, Selle worked on some of the mo
 
 One of Selle's most significant contributions during this period was his work on [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] in 1991, where he served as both writer and manual writer for this beloved coming-of-age adventure game.[^ref-11] The game's success demonstrated his ability to craft engaging narratives that resonated with players and critics alike. His versatility was further showcased when he took on the role of assistant director and additional writer for [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] in 1993, working on one of Sierra's most popular comedy adventure franchises.[^ref-12]
 
-The pinnacle of Selle's creative achievements at Dynamix came with his role as co-creator and designer of the EarthSiege and Starsiege universe, beginning with [[1994 - Metaltech - Earthsiege|Metaltech: EarthSiege]] in 1994.[^ref-13] This groundbreaking mech simulation game established a new standard for robot combat games, featuring detailed mechs called HERCs (Human Operated Remote Combatants) and a complex narrative involving humanity's struggle against artificial intelligence. Selle's design work on the game included not only gameplay mechanics but also the rich lore and universe that would support multiple sequels and expansions.[^ref-14]
+The pinnacle of Selle's creative achievements at Dynamix came with his role as co-creator and designer of the EarthSiege and Starsiege universe, beginning with [[1994 - Metaltech - Earthsiege|Metaltech: EarthSiege]] in 1994. This groundbreaking mech simulation game established a new standard for robot combat games, featuring detailed mechs called HERCs (Human Operated Remote Combatants) and a complex narrative involving humanity's struggle against artificial intelligence. Selle's design work on the game included not only gameplay mechanics but also the rich lore and universe that would support multiple sequels and expansions.[^ref-14]
 
 ### Post-Dynamix Career (1999–Present)
 
@@ -98,7 +98,6 @@ Selle's influence continues through his educational work and business developmen
 
 [^ref-1]: [Dynamix Wiki](https://dynamix.fandom.com/wiki/David_Selle) — Career timeline and Dynamix employment details
 [^ref-2]: [GOG Space Quest Collection](https://www.gog.com/en/game/space_quest_1_2_3) — Space Quest series information
-[^ref-3]: [IDCrawl Profile](https://www.idcrawl.com/david-selle) — Personal and professional background
 [^ref-4]: Adventure Gamers Search *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Adventure game contributions
 [^ref-5]: Abandonware DOS - Willy Beamish *(download link removed: the game is sold commercially)* — Game credits and role information
 [^ref-6]: [IMDB Profile](https://www.imdb.com/name/nm1038890/) — Filmography and game credits
@@ -108,7 +107,6 @@ Selle's influence continues through his educational work and business developmen
 [^ref-10]: [LinkedIn Profile - David B. Selle](https://www.linkedin.com/in/davidbselle/) — Alternative professional profile
 [^ref-11]: [Giant Bomb Search](https://www.giantbomb.com/search/?q=David+Selle&filter=person) — Game database information
 [^ref-12]: [My Future Business](https://myfuturebusiness.com/david-selley/) — Business and career information
-[^ref-13]: [ContactOut Profile](https://contactout.com/David-Selle-855365) — Professional contact and background
 [^ref-14]: [ScummVM Wiki - SCI Collections](https://wiki.scummvm.org/index.php?title=SCI/Game_Collections) — Sierra game engine information
 [^ref-15]: [Steam Community Discussion](https://steamcommunity.com/app/10110/discussions/0/487870763297898809/) — Community discussion about Sierra games
 [^ref-16]: [Shadow Covenant Blog](http://shadowcovenant.com/blog/tag/kings-quest-space-quest-quest-for-glory-police-quest-leisure-suit-larry-laura-bow-colonels-bequest-dagger-of-amon-ra-gabriel-knight-graphical-adventures-games-of-my-life/) — Sierra adventure game retrospective

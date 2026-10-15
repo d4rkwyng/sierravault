@@ -13,7 +13,7 @@ last_updated: "2026-10-09"
 
 ## Overview
 
-Doug Johnson is a multifaceted professional who made significant contributions to video game design during the 1990s while simultaneously establishing himself as a prominent voice in educational technology.[^ref-1] Born in Southern Minnesota and educated at Michigan Technological University, Johnson carved out a unique career path that bridged the worlds of interactive entertainment and education.[^ref-1][^ref-9] His work on the Front Page Sports series and Red Baron 3D showcased his ability to design engaging gameplay systems, while his educational career demonstrated his commitment to leveraging technology for learning.[^ref-2][^ref-10]
+Doug Johnson is a multifaceted professional who made significant contributions to video game design during the 1990s while simultaneously establishing himself as a prominent voice in educational technology.[^ref-1] Born in Southern Minnesota and educated at Michigan Technological University, Johnson carved out a unique career path that bridged the worlds of interactive entertainment and education.[^ref-1][^ref-9] His work on the Front Page Sports series and Red Baron 3D showcased his ability to design engaging gameplay systems, while his educational career demonstrated his commitment to leveraging technology for learning.[^ref-2]
 
 Johnson's approach to both game design and educational technology was characterized by a hands-on, pragmatic philosophy.[^ref-12] As he described himself, "I'm a hands-on tech leader and full-stack developer," a perspective that informed both his technical work and his broader understanding of how people interact with complex systems.[^ref-3][^ref-11] His career timeline spans from the early 1990s through the present day, with his game design work concentrated in the mid-1990s during the golden age of PC sports simulations and flight combat games.[^ref-2]
 
@@ -122,7 +122,6 @@ Johnson's recognition through various awards, including the IBM Excellence in Ma
 [^ref-7]: [Giant Bomb - Doug Johnson](https://www.giantbomb.com/search/?q=Doug+Johnson&filter=person) — Gaming database and industry information
 [^ref-8]: [Genotaur - Doug Johnson](http://web.archive.org/web/20260120141613/http://www.genotaur.com/people/doug-johnson) — Professional profile and career information
 [^ref-9]: [LinkedIn - Doug Johnson Peoria](https://www.linkedin.com/in/doug-johnson-peoria/) — Additional professional background
-[^ref-10]: [Aleteia Interview](https://aleteia.org/2019/05/16/exclusive-interview-with-doug-johnson-husband-of-abby-johnson-of-unplanned-fame/) — Personal background and philosophy quotes
 [^ref-11]: [Kinship Radio Staff](https://web.archive.org/web/20251210181337/https://kinshipradio.org/home/staff-doug-johnson/) — Professional role and background
 [^ref-12]: [Ohio Supercomputer Center](https://www.osc.edu/staff/doug-johnson) — Technical leadership role
 [^ref-13]: [CGMag Online](https://www.cgmagonline.com/?s=Doug+Johnson) — Gaming industry coverage
