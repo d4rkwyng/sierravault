@@ -10,15 +10,13 @@ series: Hi-Res Adventures
 engine: Custom (Al Lowe's interpreter)
 protagonist: Jen
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
-description: Gelfling Adventure is a 1984 Apple II children's adventure from Sierra
-  On-Line, a simplified, multiple-choice version of Hi-Res Adventure #6 The Dark Crystal
-  programmed by Al Lowe with text by Michael and Rae Lynn MacChesney.
+last_updated: '2026-10-15'
+description: "Gelfling Adventure is a 1984 Apple II children's adventure from Sierra On-Line, a simplified, multiple-choice version of Hi-Res Adventure #6 The Dark Crystal programmed by Al Lowe with text by Michael and Rae Lynn MacChesney."
 tags: [1980s, adventure, al-lowe, hi-res-adventures, sierra]
 ---
 # Gelfling Adventure
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 

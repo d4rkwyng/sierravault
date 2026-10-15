@@ -10,15 +10,13 @@ series: Hi-Res Adventures
 engine: ADL (Adventure Development Language)
 protagonist: Unnamed Time Traveler
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
-description: Time Zone (1982), Hi-Res Adventure #5, is Roberta Williams's time-travel
-  epic for the Apple II, with about 1,300 rooms on both sides of six disks, sold by
-  On-Line Systems for $99.95.
+last_updated: '2026-10-15'
+description: "Time Zone (1982), Hi-Res Adventure #5, is Roberta Williams's time-travel epic for the Apple II, with about 1,300 rooms on both sides of six disks, sold by On-Line Systems for $99.95."
 tags: [1980s, adventure, hi-res-adventures, roberta-williams, sierra]
 ---
 # Time Zone
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
