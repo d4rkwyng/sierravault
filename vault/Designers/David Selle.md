@@ -4,122 +4,82 @@ type: designer
 birth_year: null
 death_year: null
 notable_games: ["Metaltech: EarthSiege", "EarthSiege 2", "Starsiege"]
-companies: ["Dynamix", "Sony Computer Entertainment America", "WildStudios"]
-last_updated: '2026-10-09'
+companies: ["Dynamix", "WildTangent"]
+last_updated: '2026-10-15'
 ---
 # David Selle
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-David Selle is a veteran video game designer and director best known for his decade-long tenure at Dynamix, where he co-created the acclaimed EarthSiege and Starsiege universe of mech-based combat games.[^ref-1] Working at Dynamix from September 1989 to November 1999, Selle progressed from game designer to director, contributing to numerous influential titles including adventure games like [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] and the legendary [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]].[^ref-2] His career spans over three decades in the interactive entertainment industry, with notable work at major companies including Sony Computer Entertainment America and various educational institutions.
-
-Beyond his game design accomplishments, Selle has established himself as an educator and technology advocate, having taught at prestigious institutions including Nintendo's DigiPen Institute and Harvard University Graduate School of Design. His professional philosophy centers around "learning new technology, creating with digital tools, and empowering others," which has guided both his creative work in gaming and his later ventures in business development and education.[^ref-4] Currently based in Walnut Creek, California, Selle continues to work in technology and business development while maintaining his connection to the gaming community through various projects and consulting work.[^ref-5]
+David Selle, also credited as Dave Selle, is a game designer and writer who worked at Dynamix from September 1989 to November 1999.[^ref-1] He is best known as co-creator of the EarthSiege/Starsiege universe.[^ref-1] He was game designer, with Mark Crowe, on [[1994 - Metaltech - Earthsiege|Metaltech: EarthSiege]] (1994), and the credited designer of [[1996 - Earthsiege 2|EarthSiege 2]] (1996) and [[1999 - Starsiege|Starsiege]] (1999).[^ref-48][^ref-50][^ref-51] Before that he wrote for Dynamix's adventure games and was assistant director of [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]].[^ref-42][^ref-44][^ref-45]
 
 ## Career
 
-### Early Career (Pre-1989)
+### Dynamix (1989–1999)
 
-David Selle's entry into the video game industry began in 1989 when he was hired by Dynamix, the Eugene, Oregon-based game development studio known for its innovative simulation and adventure games.[^ref-1] His educational background includes studies at the University of Washington, where he later obtained a Software Product Manager certification, and training at Nintendo's DigiPen Institute's game projects division.[^ref-6] This technical foundation would prove invaluable throughout his career in game development and later business ventures.
+The Dynamix fan wiki says he was hired in September 1989 as a game designer and rose to director over ten years and three months.[^ref-1] His first credits came that year: track design on Motocross, and on [[1989 - A-10 Tank Killer|A-10 Tank Killer]] (1989) a mission design credit shared with Damon Slye plus a share of the documentation.[^ref-17][^ref-40][^ref-41] On [[1990 - Stellar 7|Stellar 7]] (1990) he is listed among the design contributors and playtesters, and he received a special thanks on the Commodore 64 version of [[1989 - F-14 Tomcat|F-14 Tomcat]].[^ref-17]
 
-Selle's first projects at Dynamix involved contributing to existing franchises and learning the craft of game design through hands-on experience.[^ref-7] His early work included track designs and documentation for Motocross in 1989, followed by mission design and documentation work on [[1991 - A-10 Tank Killer v1.5|A-10 Tank Killer]], also in 1989.[^ref-8] These initial assignments allowed him to understand the technical and creative challenges of game development while working alongside experienced designers and programmers.
+He then wrote for Dynamix's adventure and space-combat games. On [[1990 - Rise of the Dragon|Rise of the Dragon]] (1990) he shares the original story credit with Jeffrey Tunnell, and the dialogue and text credit with Jerry Luttrell.[^ref-42] He was the writer and world designer of [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] (1991), and also contributed to its documentation.[^ref-43] He was one of the writers on [[1991 - Heart of China|Heart of China]] (1991) and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] (1991).[^ref-44][^ref-17] He also wrote the scripts for [[1993 - Stellar 7 - Draxon's Revenge|Stellar 7: Draxon's Revenge]] (1993).[^ref-17]
 
-### Dynamix Years (1989–1999)
+On [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] (1993) he was assistant director under producer/director Mark Crowe.[^ref-45] He was also technical editor of *The Space Quest Companion*, second edition (1993). Its authors thanked "Dave Selle of Dynamix" for making sure "we got our facts straight" and called him the one "who played a big part in developing Space Quest V."[^ref-46]
 
-During his ten years and three months at Dynamix, Selle worked on some of the most memorable games of the 1990s, contributing to both the company's adventure game legacy and pioneering work in mech simulation.[^ref-1] His writing talents became evident early in his tenure, contributing dialogue and text to [[1990 - Rise of the Dragon|Rise of the Dragon]] in 1990, a cyberpunk adventure that showcased Dynamix's storytelling capabilities.[^ref-9] He continued developing his narrative skills with writer and world design credits on [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] in 1991.[^ref-10]
+### EarthSiege and Starsiege (1994–1999)
 
-One of Selle's most significant contributions during this period was his work on [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] in 1991, where he served as both writer and manual writer for this beloved coming-of-age adventure game.[^ref-11] The game's success demonstrated his ability to craft engaging narratives that resonated with players and critics alike. His versatility was further showcased when he took on the role of assistant director and additional writer for [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] in 1993, working on one of Sierra's most popular comedy adventure franchises.[^ref-12]
+With [[1994 - Metaltech - Battledrome|Metaltech: Battledrome]] (1994) and [[1994 - Metaltech - Earthsiege|Metaltech: EarthSiege]] (1994), Selle moved to the Metaltech mech games. He is credited with game design on both: with Tim Gift on Battledrome, and with Mark Crowe on EarthSiege. He is also one of the writers on Battledrome and one of the missions programmers on EarthSiege.[^ref-47][^ref-48][^ref-52] On the [[1995 - Metaltech - Earthsiege Expansion Pack|EarthSiege Expansion Pack]] (1995) he is credited with game design and is one of three missions programmers.[^ref-49]
 
-The pinnacle of Selle's creative achievements at Dynamix came with his role as co-creator and designer of the EarthSiege and Starsiege universe, beginning with [[1994 - Metaltech - Earthsiege|Metaltech: EarthSiege]] in 1994. This groundbreaking mech simulation game established a new standard for robot combat games, featuring detailed mechs called HERCs (Human Operated Remote Combatants) and a complex narrative involving humanity's struggle against artificial intelligence. Selle's design work on the game included not only gameplay mechanics but also the rich lore and universe that would support multiple sequels and expansions.[^ref-14]
+He was the credited designer of [[1996 - Earthsiege 2|EarthSiege 2]] (1996), which Mark Crowe directed.[^ref-50][^ref-22] He was also the designer of [[1999 - Starsiege|Starsiege]] (1999), where he is further listed among the mission designers and as a consultant in the manual credits.[^ref-51][^ref-23] The fan wiki dates his departure from Dynamix to November 1999.[^ref-1]
 
-### Post-Dynamix Career (1999–Present)
+### After Dynamix
 
-After leaving Dynamix in November 1999, Selle transitioned into broader technology and business roles while maintaining connections to the gaming industry.[^ref-15] In 2007, he worked on video content for Uncharted: Drake's Fortune at Sony Computer Entertainment America, contributing to what would become one of PlayStation's flagship franchises.[^ref-16] This role demonstrated his ability to adapt his storytelling and design skills to new gaming platforms and technologies.
-
-At WildTangent, Selle ran the company's Custom Publishing Group, delivering award-winning "Advergame" content for clients including Nike, Coke, Visa, DaimlerChrysler, Ford, and Pepsi, before going on to run its WildStudios division.[^ref-17] This work showcased his ability to apply game design principles to marketing and promotional content, creating engaging interactive experiences for brand promotion. His success in this field earned him recognition as a pioneer in the branded gaming space.
-
-More recently, Selle has taken on educational roles, including teaching positions at Nintendo's DigiPen Institute and Harvard University Graduate School of Design.[^ref-18] As he noted in a recent LinkedIn post, "Yesterday was my first class of the semester teaching at Harvard University Graduate School of Design GSD, and it felt wonderful!" This transition to education reflects his commitment to mentoring the next generation of designers and developers.[^ref-19] He has also worked as Vice President of Business Development at Nyriad, applying his technical and creative expertise to enterprise technology solutions.[^ref-20]
-
-## Notable Works
-
-### Metaltech: EarthSiege (1994)
-
-[[1994 - Metaltech - Earthsiege|Metaltech: EarthSiege]] stands as David Selle's most influential creation, establishing him as co-creator of the EarthSiege universe and pioneering the modern mech simulation genre.[^ref-21] The game featured unprecedented detail in its mech customization system, allowing players to configure their HERCs with various weapons, armor configurations, and equipment loadouts. Selle's design philosophy emphasized tactical combat over arcade-style action, requiring players to manage heat buildup, ammunition conservation, and strategic positioning.[^ref-22] The game's narrative, set in a future where humanity battles against the GAIA AI system, provided a compelling backdrop that elevated the combat beyond simple robot battles to a story of survival and technological hubris.[^ref-23]
-
-### EarthSiege 2 (1996)
-
-Building on the foundation established in the original game, [[1996 - Earthsiege 2|EarthSiege 2]] saw Selle refining and expanding his vision for mech-based combat simulation.[^ref-22] The sequel featured enhanced graphics, more sophisticated AI opponents, and an expanded arsenal of mechs and weapons. Selle's design improvements included better mission variety, more intuitive controls, and enhanced multiplayer capabilities that would influence future networked gaming experiences.[^ref-25] The game's reception among critics and players solidified the EarthSiege franchise as a premier destination for mech simulation enthusiasts and demonstrated Selle's growth as both a designer and project leader.[^ref-22]
-
-### Starsiege (1999)
-
-[[1999 - Starsiege|Starsiege]] represented the culmination of Selle's work on the EarthSiege universe, serving as both a prequel and spiritual successor to the earlier games.[^ref-23] As his final major project at Dynamix before departing in November 1999, Starsiege showcased his mature design sensibilities and understanding of what made mech combat engaging for players. The game featured three distinct factions with unique mech designs and combat philosophies, demonstrating Selle's ability to create varied gameplay experiences within a unified design framework.[^ref-23] Starsiege also served as the foundation for the wildly successful multiplayer spin-off Starsiege: Tribes, though Selle's direct involvement in that project was limited due to his departure from Dynamix.[^ref-29]
-
-## Design Philosophy
-
-Selle's approach to game design reflects a deep commitment to player empowerment and technological innovation, as evidenced by his personal statement: "I love learning new technology, creating with digital tools, and empowering others."[^ref-9] Throughout his career, this philosophy manifested in games that provided players with extensive customization options and strategic depth rather than limiting them to predetermined paths. His work on the EarthSiege series exemplified this approach, offering complex mech configuration systems that allowed players to experiment with different tactical approaches.[^ref-25]
-
-Professional colleagues have consistently praised Selle's collaborative approach and attention to detail. As one recommendation noted, "I have worked with David for many years and know him to be a person of high integrity with an incredible work ethic. He is an innovative thinker that consistently delivers an experience that is mutually beneficial to both the client and his company."[^ref-10] This collaborative spirit extended to his work with writing teams on adventure games, where he contributed dialogue and narrative elements that enhanced the overall player experience without overwhelming the core gameplay mechanics.[^ref-33]
-
-## Legacy
-
-David Selle's impact on the gaming industry extends far beyond his individual game credits, particularly through his co-creation of the EarthSiege and Starsiege universe, which influenced an entire generation of mech simulation games.[^ref-33] The design principles he established in the EarthSiege series—emphasizing tactical depth, customization options, and narrative integration—became standard features in subsequent mech games and influenced the broader simulation genre. His work at Dynamix during the 1990s contributed to the studio's reputation as one of the premier development houses for both adventure games and simulations.[^ref-33]
-
-Beyond gaming, Selle has received recognition for his contributions to education and community service, including the Presidential Volunteer Service Award in 2012 from Citizen Schools, a Silver Pin from the Museum of Science Boston in 2014, and Distinguished Employee Recognition awards from The Possible Project in both 2015 and 2017.[^ref-36] His transition to teaching roles at prestigious institutions like Harvard University Graduate School of Design demonstrates his commitment to sharing knowledge and mentoring future creators.[^ref-19]
-
-Selle's influence continues through his educational work and business development activities, where he applies game design principles to new challenges and technologies. His SCRUM practitioner certification from the Agile Software Alliance and Software Product Manager certification from the University of Washington show his commitment to staying current with industry best practices.[^ref-38] As the gaming industry continues to evolve, Selle's emphasis on player empowerment and technological innovation remains relevant for contemporary designers and developers.[^ref-39]
+His MobyGames biography, written in 2006, says he ran WildTangent's Custom Publishing Group, which made "Advergame" content for clients including Nike, Coke, Visa, DaimlerChrysler, Ford and Pepsi. He then ran the company's WildStudios division, where he was Vice President in 2006.[^ref-17] The same biography says he taught in the game projects section of DigiPen Institute. It also notes that he is certified as a SCRUM practitioner by the Agile Software Alliance and as a Software Product Manager by the University of Washington.[^ref-17] MobyGames credits him as producer on the Game Boy Advance shooter *Ice Nine* (2005).[^ref-17]
 
 ## Games
 
 ### Dynamix (1989–1999)
 
-- 1989 — Motocross — Track designs, documentation
-- **1989** — [[1991 - A-10 Tank Killer v1.5|A-10 Tank Killer]] — Role: Mission design, documentation
-- **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Additional design, playtester
-- **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Role: Dialogue, text
-- **1991** — [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] — Role: Writer, world design
-- **1991** — [[1991 - Heart of China|Heart of China]] — Role: Writer
-- **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Role: Writer, manual writer
-- **1993** — [[1993 - Stellar 7 - Draxon's Revenge|Stellar 7: Draxon's Revenge]] — Role: Script
-- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Role: Assistant director, additional writer
-- **1994** — [[1994 - Metaltech - Battledrome|Metaltech: Battledrome]] — Role: Designer
-- **1994** — [[1994 - Metaltech - Earthsiege|Metaltech: EarthSiege]] — Role: Designer
-- **1995** — [[1995 - Metaltech - Earthsiege Expansion Pack|Metaltech: EarthSiege Expansion Pack]] — Role: Mission programmer
-- **1996** — [[1996 - Earthsiege 2|EarthSiege 2]] — Role: Designer
-- **1999** — [[1999 - Starsiege|Starsiege]] — Role: Designer
+- **1989** — Motocross — Role: Tracks[^ref-17]
+- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Mission Design; Documentation[^ref-41]
+- **1989** — [[1989 - F-14 Tomcat|F-14 Tomcat]] (Commodore 64) — Role: Special Thanks[^ref-17]
+- **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Design Contributors and Playtesters[^ref-17]
+- **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Role: Original Story; Dialogue and Text[^ref-42]
+- **1991** — [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] — Role: Writer; World Design[^ref-43]
+- **1991** — [[1991 - Heart of China|Heart of China]] — Role: Writers[^ref-44]
+- **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Role: Writers[^ref-17]
+- **1993** — [[1993 - Stellar 7 - Draxon's Revenge|Stellar 7: Draxon's Revenge]] — Role: Scripts[^ref-17]
+- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Role: Assistant Director[^ref-45]
+- **1994** — [[1994 - Metaltech - Battledrome|Metaltech: Battledrome]] — Role: Game Design; Writers[^ref-47]
+- **1994** — [[1994 - Metaltech - Earthsiege|Metaltech: EarthSiege]] — Role: Game Design; Missions Programming[^ref-48]
+- **1995** — [[1995 - Metaltech - Earthsiege Expansion Pack|Metaltech: EarthSiege Expansion Pack]] — Role: Game Design; Missions Programming[^ref-49]
+- **1996** — [[1996 - Earthsiege 2|EarthSiege 2]] — Role: Designer[^ref-50]
+- **1999** — [[1999 - Starsiege|Starsiege]] — Role: Designer; Mission Design[^ref-51]
 
-### Post-Sierra (2007)
+### Other
 
-| Year | Title | Company | Role |
-|------|-------|---------|------|
-| 2007 | Uncharted: Drake's Fortune | Sony Computer Entertainment America | Video |
+- **2005** — *Ice Nine* (Game Boy Advance) — Role: Producer[^ref-17]
+- MobyGames also attaches a "Video" credit on *Uncharted: Drake's Fortune* (2007) to the same profile. No other source confirms that this is the same person.[^ref-17]
+
+### Related book
+
+- **1993** — *The Space Quest Companion*, second edition, by Peter and Jeremy Spear — Role: Technical Editor[^ref-46]
 
 ## References
 
-[^ref-1]: [Dynamix Wiki](https://dynamix.fandom.com/wiki/David_Selle) — Career timeline and Dynamix employment details
-[^ref-2]: [GOG Space Quest Collection](https://www.gog.com/en/game/space_quest_1_2_3) — Space Quest series information
-[^ref-4]: Adventure Gamers Search *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Adventure game contributions
-[^ref-5]: Abandonware DOS - Willy Beamish *(download link removed: the game is sold commercially)* — Game credits and role information
-[^ref-6]: [IMDB Profile](https://www.imdb.com/name/nm1038890/) — Filmography and game credits
-[^ref-7]: [Space Quest Wiki](https://spacequest.fandom.com/wiki/David_Selle) — Space Quest V development details
-[^ref-8]: [CGMagazine Search](https://www.cgmagonline.com/?s=David+Selle) — Gaming industry coverage
-[^ref-9]: [LinkedIn Profile - David Selles](https://www.linkedin.com/in/davidselles/) — Professional experience and education
-[^ref-10]: [LinkedIn Profile - David B. Selle](https://www.linkedin.com/in/davidbselle/) — Alternative professional profile
-[^ref-11]: [Giant Bomb Search](https://www.giantbomb.com/search/?q=David+Selle&filter=person) — Game database information
-[^ref-12]: [My Future Business](https://myfuturebusiness.com/david-selley/) — Business and career information
-[^ref-14]: [ScummVM Wiki - SCI Collections](https://wiki.scummvm.org/index.php?title=SCI/Game_Collections) — Sierra game engine information
-[^ref-15]: [Steam Community Discussion](https://steamcommunity.com/app/10110/discussions/0/487870763297898809/) — Community discussion about Sierra games
-[^ref-16]: [Shadow Covenant Blog](http://shadowcovenant.com/blog/tag/kings-quest-space-quest-quest-for-glory-police-quest-leisure-suit-larry-laura-bow-colonels-bequest-dagger-of-amon-ra-gabriel-knight-graphical-adventures-games-of-my-life/) — Sierra adventure game retrospective
-[^ref-17]: [MobyGames – David Selle](https://www.mobygames.com/person/10264/david-selle/) — Biography: ran WildTangent's Custom Publishing Group (Advergames for Nike, Coke, Visa, DaimlerChrysler, Ford, Pepsi) before running WildStudios
-[^ref-18]: [DigiPen Institute of Technology - Wikipedia](https://en.wikipedia.org/wiki/DigiPen_Institute_of_Technology) — Information about DigiPen's game development programs and history
-[^ref-19]: [Harvard Graduate School of Design - Wikipedia](https://en.wikipedia.org/wiki/Harvard_Graduate_School_of_Design) — Information about Harvard GSD teaching positions and programs
-[^ref-20]: [Dynamix Wiki – David Selle](https://dynamix.fandom.com/wiki/David_Selle) — "David is currently the Vice President of Business Development at Nyriad in Walnut Creek, California"
-[^ref-21]: [Metaltech: EarthSiege - Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Metaltech:+Earthsiege&gid=2958) — Game information and credits listing David Selle as designer
-[^ref-22]: [EarthSiege 2 - Wikipedia](https://en.wikipedia.org/wiki/Earthsiege_2) — Game design information including tactical combat mechanics
-[^ref-23]: [Starsiege - Wikipedia](https://en.wikipedia.org/wiki/Starsiege) — Universe background and Cybrid/GAIA storyline information
-[^ref-25]: [Starsiege Review - IGN](https://www.ign.com/articles/1999/04/07/starsiege) — Critical analysis of EarthSiege series gameplay improvements
-[^ref-29]: [Starsiege: Tribes - Wikipedia](https://en.wikipedia.org/wiki/Starsiege:_Tribes) — Spin-off relationship and development at Dynamix
-[^ref-33]: [Dynamix - Wikipedia](https://en.wikipedia.org/wiki/Dynamix) — Adventure game development history and team collaborations
-[^ref-36]: [Citizen Schools - Wikipedia](https://en.wikipedia.org/wiki/Citizen_Schools) — Presidential Volunteer Service Award program information
-[^ref-38]: [Scrum (project management) - Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)) — SCRUM certification and agile methodology background
-[^ref-39]: [Hi-Rez Studios - Wikipedia](https://en.wikipedia.org/wiki/Hi-Rez_Studios) — Current ownership of Metaltech/EarthSiege franchise and legacy
+[^ref-1]: [Dynamix Wiki – David Selle](https://dynamix.fandom.com/wiki/David_Selle) — "hired by Dynamix on September 1989 as a game designer… worked his way up to serve as a director… left Dynamix on November 1999"; "Co-creator of the Earthsiege / Starsiege universe" (fan wiki)
+[^ref-17]: [MobyGames – David Selle (Wayback, 2025-09-12)](https://web.archive.org/web/20250912125939/https://www.mobygames.com/person/10264/david-selle/) — biography (WildTangent Custom Publishing Group, WildStudios VP "in 2006", DigiPen teaching, SCRUM and UW certifications) and the full credit list
+[^ref-22]: [Wikipedia – Earthsiege 2](https://en.wikipedia.org/wiki/Earthsiege_2) — infobox: "designer = David Selle"
+[^ref-23]: [Wikipedia – Starsiege](https://en.wikipedia.org/wiki/Starsiege) — infobox: "designer = David Selle"
+[^ref-40]: [MobyGames – David Selle rap sheet (Wayback, 2002-06-15)](https://web.archive.org/web/20020615073534/http://www.mobygames.com:80/developer/sheet/view/developerId,10264/) — early record: credits from Motocross (1989) through EarthSiege 2, all with Dynamix and Sierra
+[^ref-41]: [MobyGames – A-10 Tank Killer (1989) DOS credits (Wayback, 2017-08-19)](https://web.archive.org/web/20170819013458/http://www.mobygames.com:80/game/dos/a-10-tank-killer/credits) — "Mission Design: David Selle, Damon Slye"; "Documentation: Jerry Luttrell, David Selle, Damon Slye"
+[^ref-42]: [MobyGames – Rise of the Dragon credits (Wayback, 2024-05-18)](https://web.archive.org/web/20240518043435/https://www.mobygames.com/game/98/rise-of-the-dragon/credits/dos/) — "Dialogue and Text: Jerry Luttrell, David Selle"; "Original Story: David Selle, Jeffrey Tunnell"
+[^ref-43]: [MobyGames – Nova 9 credits (Wayback, 2021-04-21)](https://web.archive.org/web/20210421040256/https://www.mobygames.com/game/dos/nova-9-the-return-of-gir-draxon/credits) — "Writer: David Selle"; "World Design: David Selle"; documentation "Writing: Jerry Luttrell, Sue Roberts, David Selle"
+[^ref-44]: [MobyGames – Heart of China credits (Wayback, 2006-02-02)](https://web.archive.org/web/20060202223242/http://www.mobygames.com:80/game/dos/heart-of-china/credits) — "Writers: David Atman, Tom Brooke, David Selle"
+[^ref-45]: [MobyGames – Space Quest V credits (Wayback, 2009-06-19)](https://web.archive.org/web/20090619130959/http://www.mobygames.com:80/game/dos/space-quest-v-the-next-mutation/credits) — "Producer/Director: Mark Crowe"; "Assistant Director: David Selle"
+[^ref-46]: [The Space Quest Companion, 2nd ed. (Osborne McGraw-Hill, 1993) – Internet Archive scan](https://archive.org/details/sqcompanion_202403) — credits page "Technical Editor: David Selle"; acknowledgments: "Dave Selle of Dynamix made sure we got our facts straight"
+[^ref-47]: [MobyGames – Metaltech: Battledrome credits (Wayback, 2018-07-01)](https://web.archive.org/web/20180701160059/http://www.mobygames.com:80/game/dos/metaltech-battledrome/credits) — "Game Design: David Selle, Tim Gift"; "Writers: Neal Hallford, David Selle, Gregory Rucka, Kurt Weber"
+[^ref-48]: [MobyGames – Metaltech: EarthSiege credits (Wayback, 2024-01-17)](https://web.archive.org/web/20240117123229/https://www.mobygames.com/game/1402/metaltech-earthsiege/credits/dos/) — "Game Design: Mark Crowe, David Selle"; "Missions Programming: Jan Carpenter, Joseph Muennich, David Selle"
+[^ref-49]: [MobyGames – Metaltech: EarthSiege – Expansion Pack credits (Wayback, 2017-03-31)](https://web.archive.org/web/20170331171913/http://www.mobygames.com/game/dos/metaltech-earthsiege-expansion-pack/credits) — "Game Design: David Selle"; "Missions Programming: Joseph Muennich, David Selle, Gerald Azenaro"
+[^ref-50]: [MobyGames – EarthSiege 2 credits (Wayback, 2025-11-04)](https://web.archive.org/web/20251104164016/https://www.mobygames.com/game/327/earthsiege-2/credits/windows/) — "Director: Mark Crowe"; "Designer: David Selle"
+[^ref-51]: [MobyGames – Starsiege credits (Wayback, 2009-03-13)](https://web.archive.org/web/20090313073606/http://www.mobygames.com:80/game/windows/starsiege/credits) — "Designer: David Selle"; "Mission Design: Rick Overman, David Selle, Graeme Bayless"; manual "Consultant: Graeme Bayless, David Selle, Blake Hutchins"
+[^ref-52]: [Wikipedia – Metaltech: Earthsiege](https://en.wikipedia.org/wiki/Metaltech:_Earthsiege) — infobox: "designer = Mark Crowe, David Selle"
