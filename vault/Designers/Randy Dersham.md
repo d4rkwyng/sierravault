@@ -27,7 +27,7 @@ Dersham entered the computer gaming industry in 1986, initially contributing pho
 
 ### Sierra Years (1989–1998)
 
-Dersham's most significant industry contributions came during his tenure at Dynamix, Sierra On-Line's Oregon-based subsidiary. Rising from photo and video director to Executive Producer and General Manager, he managed the art staff for landmark titles across multiple genres during Dynamix's most productive era.[^ref-10]
+Dersham's most significant industry contributions came during his tenure at Dynamix, Sierra On-Line's Oregon-based subsidiary. Rising from photo and video director to Executive Producer and General Manager, he managed the art staff for landmark titles across multiple genres during Dynamix's most productive era.
 
 Under Dersham's leadership, Dynamix produced several groundbreaking games. [[1990 - Rise of the Dragon|Rise of the Dragon]] (1990), on which he served as Art Director, was a pioneering cyberpunk adventure that combined traditional point-and-click gameplay with arcade sequences and featured artwork with a real graphic-novel feel created by Robert Caracol under Dersham's direction.[^ref-11] This was followed by [[1991 - Heart of China|Heart of China]] (1991), another adventure title that showcased the team's storytelling capabilities.[^ref-12]
 
@@ -39,17 +39,17 @@ Transitioning from art management to game design, Dersham designed, produced, or
 
 Following his departure from Sierra, Dersham continued his gaming career with several major companies, demonstrating his ability to adapt to industry changes while maintaining leadership roles.
 
-**Electronic Arts (1998–2002):** Dersham joined Electronic Arts as Executive Producer and Vice President/General Manager for their new line of outdoor games. He became Executive Producer and General Manager of the EA-Seattle office, overseeing titles including Championship Bass (2000) (2000), continuing his expertise in fishing and sports gaming.[^ref-10]
+**Electronic Arts (1998–2002):** Dersham joined Electronic Arts as Executive Producer and Vice President/General Manager for their new line of outdoor games. He became Executive Producer and General Manager of the EA-Seattle office, overseeing titles including Championship Bass (2000) (2000), continuing his expertise in fishing and sports gaming.
 
 **Acclaim Entertainment (2003–2004):** As VP/GM and Executive Producer, Dersham continued working on outdoor and sports gaming titles during Acclaim's final years before the company's bankruptcy.[^ref-3]
 
-**InstantAction (2007–2009):** Dersham served as Executive Producer at this game technology company.[^ref-10]
+**InstantAction (2007–2009):** Dersham served as Executive Producer at this game technology company.
 
 **Playdom/Disney Interactive (2009–2011):** In August 2009, Dersham opened Playdom's Eugene office, marking his entry into the social gaming revolution.[^ref-14] As he predicted at the time, "This is the beginning of another high-growth time" for game development in Eugene.[^ref-14] Under his leadership as VP-Executive Producer, the Eugene office grew from a startup operation to approximately 40 employees. His work on Social City earned him a co-winner spot for the Best Online Game Design Award at the 2010 Game Developers Choice Online Awards.[^ref-15] Disney acquired Playdom in 2010, with Dersham continuing in his role.
 
 **Zynga (2012–2013):** As Studio General Manager, Dersham managed FrontierVille during its transition from a mature, established game to an elder title in the company's portfolio.[^ref-16] Colleagues praised his ability to maintain revenue performance even as audience numbers declined—the game exceeded ambitious revenue goals for five consecutive quarters under his leadership.[^ref-16] Jesse Janosov noted: "Randy is aggressive & competitive, experienced, and a savvy business leader. Randy is great people manager & has good instincts & product sense, and I'd work with him again anytime."[^ref-16]
 
-**Later Ventures (2014–Present):** After Zynga, Dersham served as SVP General Manager at Kizzang Sweepstakes (2014–2015), founded Dersham Ventures (2015), and worked as Head of Growth at First Foundry (2018–2024).[^ref-10] He was also involved with bringing the mobile title Disney Tsum Tsum to Facebook Instant Games, a game that achieved over $1 billion in revenue.[^ref-17]
+**Later Ventures (2014–Present):** After Zynga, Dersham served as SVP General Manager at Kizzang Sweepstakes (2014–2015), founded Dersham Ventures (2015), and worked as Head of Growth at First Foundry (2018–2024). He was also involved with bringing the mobile title Disney Tsum Tsum to Facebook Instant Games, a game that achieved over $1 billion in revenue.[^ref-17]
 
 ## Notable Works
 
@@ -130,7 +130,6 @@ In 2024, Dersham directed "Oregon's Boat," a documentary film about the McKenzie
 [^ref-7]: [Mesh (formerly Clay) Profile](https://me.sh/profile/randy-dersham) — Education, career overview, management expertise
 [^ref-8]: [IMDb Profile](https://www.imdb.com/name/nm1715854/) — Arcticfox (1986), Rise of the Dragon, Heart of China credits
 [^ref-9]: [Sierra Wiki - Randy Dersham](https://wiki.sierrahelp.com/index.php/Randy_Dersham) — Art management roles, Trophy Bass design
-[^ref-10]: [ContactOut Profile](https://contactout.com/Randy-Dersham-1809504) — Complete career timeline 1989-2024
 [^ref-11]: [Adventure Classic Gaming - Dynamix History](http://www.adventureclassicgaming.com/index.php/site/features/268/) — Rise of the Dragon art direction, Robert Caracol
 [^ref-12]: [Steam Community Discussion](https://steamcommunity.com/app/10110/discussions/0/487870763297898809/) — Heart of China development
 [^ref-13]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/sierra-history-questions/) — Dynamix studio head, CUC acquisition

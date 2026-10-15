@@ -13,7 +13,7 @@ last_updated: '2026-10-09'
 
 ## Overview
 
-Gano Haine stands as one of the pioneering female game designers in the adventure gaming industry, best known for creating Sierra Online's groundbreaking EcoQuest series in the early 1990s.[^ref-1][^ref-2] With an impressive educational background including a Doctor of Philosophy from Northwestern University (1979-1983), a Master of Arts in Drama and Theatre from University of Wisconsin-Madison (1974-1978), and a Bachelor of Arts in Psychology and French from Duke University (1968-1972), Haine brought a unique academic perspective to game design.[^ref-3]
+Gano Haine stands as one of the pioneering female game designers in the adventure gaming industry, best known for creating Sierra Online's groundbreaking EcoQuest series in the early 1990s.[^ref-1][^ref-2] With an impressive educational background including a Doctor of Philosophy from Northwestern University (1979-1983), a Master of Arts in Drama and Theatre from University of Wisconsin-Madison (1974-1978), and a Bachelor of Arts in Psychology and French from Duke University (1968-1972), Haine brought a unique academic perspective to game design.
 
 Before entering the gaming industry, Haine spent fifteen years as a junior-high school teacher, experience that would prove invaluable in her later work designing educational adventure games.[^ref-4][^ref-5] Her transition from education to game design began in the late 1980s when she became an active voice in the Gamers Forum on CompuServe, where her insightful game criticism and reviews caught the attention of Sierra Online.[^ref-6] This background in both education and gaming criticism positioned her perfectly to create adventures that were both entertaining and pedagogically sound.
 
@@ -39,7 +39,7 @@ During her time at Sierra, Haine also became inadvertently involved in one of th
 
 ### Later Career (1993–Present)
 
-After her groundbreaking work at Sierra in the early 1990s, Haine's later career details are less well-documented in public sources, though professional profiles indicate she continued to work in technology and entertainment industries.[^ref-3] Her influence on educational gaming and environmental themes in interactive entertainment continued to be felt long after her direct involvement in game development.[^ref-8]
+After her groundbreaking work at Sierra in the early 1990s, Haine's later career details are less well-documented in public sources, though professional profiles indicate she continued to work in technology and entertainment industries. Her influence on educational gaming and environmental themes in interactive entertainment continued to be felt long after her direct involvement in game development.[^ref-8]
 
 ## Notable Works
 
@@ -86,7 +86,6 @@ Haine's work also stands as a testament to the unique creative environment that 
 
 [^ref-1]: [The Sierra Discovery Adventures - The Digital Antiquarian](https://www.filfre.net/2018/10/the-sierra-discovery-adventures/) — Career overview and game development details
 [^ref-2]: [Gano Haine - IMDb](https://www.imdb.com/name/nm1983333/) — Professional credits and career timeline
-[^ref-3]: [Gano Haine - RocketReach Profile](https://rocketreach.co/gano-haine-email_39168280) — Educational background and professional credentials
 [^ref-4]: [Gano Haine - MobyGames](https://www.mobygames.com/person/3084/gano-haine/credits/) — Complete game development credits and career information
 [^ref-5]: [How Sierra and a Disgraced Cop Made the Most Reactionary Game of the '90s - VICE](https://www.vice.com/en/article/how-sierra-and-a-disgraced-cop-made-the-most-reactionary-game-of-the-90s/) — Teaching background and Sierra career details
 [^ref-6]: Adventure Gamers Search Results *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — CompuServe forum activity and game criticism work

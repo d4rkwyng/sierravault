@@ -15,7 +15,7 @@ last_updated: '2026-10-09'
 
 ## Overview
 
-Himalaya Studios is an independent video game development studio founded in 2004 by Britney Brimhall and Christopher Warren, the same founders behind [[AGD Interactive]].[^ref-1][^ref-2] While AGD Interactive focuses on creating free VGA remakes of classic Sierra On-Line adventure games, Himalaya Studios was established as a commercial venture to develop original point-and-click adventure games in the Sierra tradition.[^ref-3][^ref-4]
+Himalaya Studios is an independent video game development studio founded in 2004 by Britney Brimhall and Christopher Warren, the same founders behind [[AGD Interactive]].[^ref-1][^ref-2] While AGD Interactive focuses on creating free VGA remakes of classic Sierra On-Line adventure games, Himalaya Studios was established as a commercial venture to develop original point-and-click adventure games in the Sierra tradition.[^ref-3]
 
 The studio specializes in creating traditional adventure games that capture the spirit and gameplay mechanics of beloved 1980s and 1990s Sierra titles, particularly those featuring the Adventure Game Interpreter (AGI) and Sierra Creative Interpreter (SCI) engines.[^ref-5][^ref-6] Himalaya Studios was incorporated as a C Corporation in Delaware in 2011, with key staff and independent contractors located throughout the world.[^ref-7]
 
@@ -49,7 +49,7 @@ Al Emmo and the Lost Dutchman's Mine represents Himalaya Studios' ambitious debu
 
 ### Mage's Initiation: Reign of the Elements (2019)
 
-Mage's Initiation: Reign of the Elements represents Himalaya Studios' most ambitious and polished project to date, combining traditional adventure game mechanics with RPG elements and real-time combat systems.[^ref-3] The game was successfully funded through a Kickstarter campaign that raised over $125,000 from adventure game enthusiasts who supported the studio's vision of creating a modern classic adventure.[^ref-3] Set in a fantasy world where four elemental mages maintain the balance of nature, players control D'arc, a young initiate who must complete trials to become a full mage while uncovering a conspiracy that threatens the magical realm.[^ref-4] The game features multiple character classes based on elemental magic (Fire, Water, Air, and Earth), each offering different gameplay experiences, puzzle solutions, and story paths that encourage multiple playthroughs.[^ref-5]
+Mage's Initiation: Reign of the Elements represents Himalaya Studios' most ambitious and polished project to date, combining traditional adventure game mechanics with RPG elements and real-time combat systems.[^ref-3] The game was successfully funded through a Kickstarter campaign that raised over $125,000 from adventure game enthusiasts who supported the studio's vision of creating a modern classic adventure.[^ref-3] Set in a fantasy world where four elemental mages maintain the balance of nature, players control D'arc, a young initiate who must complete trials to become a full mage while uncovering a conspiracy that threatens the magical realm. The game features multiple character classes based on elemental magic (Fire, Water, Air, and Earth), each offering different gameplay experiences, puzzle solutions, and story paths that encourage multiple playthroughs.[^ref-5]
 
 ## Key People
 
@@ -75,7 +75,6 @@ Through their dedication to preserving adventure game design principles while up
 [^ref-1]: [Himalaya Studios Official Website](http://www.himalayastudios.com/index.php) — Company overview and game information
 [^ref-2]: [MobyGames - Himalaya Studios LLC](https://www.mobygames.com/company/8184/himalaya-studios-llc/) — Company profile and game database
 [^ref-3]: [NeoGAF - Mage's Initiation Kickstarter Discussion](https://www.neogaf.com/threads/mages-initiation-kickstarter-by-himalaya-studios-inc-ended-125k-funded.514221/) — Kickstarter campaign details and community discussion
-[^ref-4]: [RocketReach - Himalaya Studios Profile](https://rocketreach.co/himalaya-studios-profile_b442ecebfa163154) — Business profile and company information
 [^ref-5]: [Steam - Himalaya Studios Publisher Page](https://store.steampowered.com/publisher/HIMALAYA?snr=1_5_9__400) — Published games and Steam presence
 [^ref-6]: [AGD Interactive Forum Discussion](https://www.agdinteractive.com/forum/viewtopic.php?t=14442) — Community discussion about Himalaya Studios projects
 [^ref-7]: [SteamSpy - Himalaya Studios Developer Statistics](https://steamspy.com/dev/Himalaya+Studios) — Sales data and player statistics

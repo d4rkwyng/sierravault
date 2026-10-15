@@ -23,7 +23,7 @@ Ledger's approach to life was encapsulated by his personal philosophy: "I need t
 
 Before entering the video game industry, Peter Ledger established himself as a premier illustrator in Australia during the 1970s and 1980s.[^ref-8][^ref-14] His artistic training included learning from a master painter who taught him advanced techniques, including how to "isolate work from background and place opposing colors on either side of brush for pure to blend control."[^ref-2][^ref-15] This technical foundation would later prove invaluable in his video game artwork.
 
-Ledger's early career achievements included winning the Art Directors Silver Award in 1977 for his Surfabout poster and receiving recognition in the Graphis yearbook the same year for his Golden Breed poster.[^ref-8][^ref-17] His versatility as an artist was further demonstrated when he won the Australian King of Pop award in 1979 for Best Album Cover Design for The Angels' Face to Face album.[^ref-8][^ref-18] These accolades established his reputation as a master of commercial art and fantasy illustration.
+Ledger's early career achievements included winning the Art Directors Silver Award in 1977 for his Surfabout poster and receiving recognition in the Graphis yearbook the same year for his Golden Breed poster.[^ref-8] His versatility as an artist was further demonstrated when he won the Australian King of Pop award in 1979 for Best Album Cover Design for The Angels' Face to Face album.[^ref-8][^ref-18] These accolades established his reputation as a master of commercial art and fantasy illustration.
 
 His artistic influences included Carl Barks' duck art, of which he described himself as "a big fan," demonstrating his appreciation for both commercial and fine art traditions.[^ref-2][^ref-19] This diverse artistic background prepared him well for the creative challenges he would face in video game development.
 
@@ -105,7 +105,6 @@ Beyond his direct contributions to specific games, Ledger's career represents an
 [^ref-14]: [Hey Kids Comics - Peter Ledger](https://heykidscomics.fandom.com/wiki/Peter_Ledger) — Comic industry contributions
 [^ref-15]: [Artnet - Peter Ledger](https://www.artnet.com/artists/peter-ledger/) — Fine art market information
 [^ref-16]: [The Digital Antiquarian - Sierra at the Cusp](https://www.filfre.net/2018/01/sierra-at-the-cusp-of-the-multimedia-age/) — Industry context and Sierra's transition period
-[^ref-17]: [RocketReach - Peter Ledger](https://rocketreach.co/peter-ledger-email_36471337) — Contact and professional details
 [^ref-18]: [Game Developer - Pedersen Principles](https://www.gamedeveloper.com/design/pedersen-principles-of-game-design-and-production) — Game design philosophy context
 [^ref-19]: [IMDb - Peter Ledger](https://www.imdb.com/name/nm0496576/) — Film and television work
 [^ref-20]: [Giant Bomb - Peter Ledger Search](https://www.giantbomb.com/search/?q=Peter+Ledger&filter=person) — Gaming database information
