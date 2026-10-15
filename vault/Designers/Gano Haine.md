@@ -4,97 +4,101 @@ type: designer
 birth_year: null
 death_year: null
 notable_games: ["EcoQuest: The Search for Cetus", "EcoQuest: Lost Secret of the Rainforest", "Pepper's Adventures in Time"]
-companies: ["Sierra Online"]
-last_updated: '2026-10-09'
+companies: ["Sierra On-Line", "Electronic Arts", "The ImagiNation Network", "Stunt Puppy Entertainment", "LimeLife"]
+last_updated: '2026-10-15'
 ---
 # Gano Haine
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-Gano Haine stands as one of the pioneering female game designers in the adventure gaming industry, best known for creating Sierra Online's groundbreaking EcoQuest series in the early 1990s.[^ref-1][^ref-2] With an impressive educational background including a Doctor of Philosophy from Northwestern University (1979-1983), a Master of Arts in Drama and Theatre from University of Wisconsin-Madison (1974-1978), and a Bachelor of Arts in Psychology and French from Duke University (1968-1972), Haine brought a unique academic perspective to game design.
+Gano Haine is an American game designer and producer who came to Sierra On-Line from teaching and from CompuServe's adventure-game community. She proposed and co-designed, with Jane Jensen, [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] (1991), and was the sole designer and director of its sequel, [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest: Lost Secret of the Rainforest]] (1993).[^ref-1][^ref-18][^ref-19] Digital Antiquarian historian Jimmy Maher calls the first EcoQuest "the first computer game in history that was the product of an all-female design team."[^ref-1]
 
-Before entering the gaming industry, Haine spent fifteen years as a junior-high school teacher, experience that would prove invaluable in her later work designing educational adventure games.[^ref-4][^ref-5] Her transition from education to game design began in the late 1980s when she became an active voice in the Gamers Forum on CompuServe, where her insightful game criticism and reviews caught the attention of Sierra Online.[^ref-6] This background in both education and gaming criticism positioned her perfectly to create adventures that were both entertaining and pedagogically sound.
-
-Haine's most significant contribution to gaming history was co-creating what is believed to be the first computer game developed by an all-female design team, working alongside Jane Jensen on the original EcoQuest.[^ref-7][^ref-8] Her work came during a unique period when Sierra Online maintained an almost fifty-fifty gender balance among its designers, making her part of a remarkable generation of female game creators who helped shape the adventure gaming genre.[^ref-9]
+After Sierra she held design and producer positions at Electronic Arts and The ImagiNation Network, co-founded and ran the children's CD-ROM developer Stunt Puppy Entertainment, and co-founded the mobile publisher LimeLife.[^ref-9][^ref-16]
 
 ## Career
 
 ### Early Career
 
-Haine's path to game design was unconventional, beginning with a fifteen-year career as a junior-high school teacher that provided her with deep insights into how children learn and engage with educational content.[^ref-10] Her academic credentials were impressive, having earned degrees from three prestigious universities culminating in her doctorate from Northwestern University in the early 1980s.[^ref-11] During her teaching years, she also worked extensively at children's summer camps, experiences that would later inspire her environmental gaming concepts.[^ref-12]
+Haine holds a Bachelor of Arts from Duke University (magna cum laude, Phi Beta Kappa) and a master's degree in Theatre and Drama from the University of Wisconsin, where she directed the Children's Theater Workshop. She completed doctoral studies at Northwestern University's School of Speech, but did not finish the doctorate: Polygon describes her as having "most of a Ph.D. in performance art from Northwestern University."[^ref-9][^ref-12]
 
-The transition from education to gaming began in the late 1980s when Haine discovered adventure games and, by her own admission, became addicted to them.[^ref-13] As she recalled, "I don't think it's something you do to yourself on purpose. I soon realized that I needed to find a way to make it a profession or I'd starve."[^ref-14] Her expertise in analyzing and critiquing games led her to become a prominent voice in CompuServe's Gamers Forum, where her thoughtful reviews and design insights gained recognition within the gaming community.[^ref-15]
+She was a mother and a junior-high teacher of fifteen years' standing, and in the late 1980s "a prominent voice in the Gamers Forum on CompuServe," where she wrote about the good and bad of each game she played.[^ref-1] She was one of CompuServe's original adventure-game sysops.[^ref-9] Of her adventure-game habit, she said: "I don't think it's something you do to yourself on purpose. I soon realized that I needed to find a way to make it a profession or I'd starve."[^ref-1] She took part, as "Eeyore," in the CompuServe conference on adventure-game design of August 1990.[^ref-16]
 
 ### Sierra Years (1991–1993)
 
-In 1991, Sierra Online hired Haine initially as an informal consultant, recognizing the value of her educational background and gaming expertise.[^ref-1][^ref-2] The opportunity was significant enough that she made the life-changing decision to move to Oakhurst, California, to become a full-time game designer at Sierra's headquarters.[^ref-5] This marked the beginning of her most productive and influential period in game development.
+Sierra hired Haine first as an informal consultant; in 1991 she moved to Oakhurst, California, to become a full-time Sierra game designer, just as the company's Discovery Series of educational adventures was being born.[^ref-1] She was part of Sierra's Writer's Lab, which was asked every week to write pitch documents.[^ref-12]
 
-Working alongside Jane Jensen, Haine developed the concept for EcoQuest based on a powerful childhood memory from her summer camp days.[^ref-4] As she explained, "I worked a lot in children's summer camps. There was a beach where we took the children every Wednesday, a beautiful beach, with rocks and glittering sand. I remember once we sat on the rocks and watched a whole school of porpoises jumping in the waves. Anyway, the next season when we went there, th[e beach had been destroyed by pollution]."[^ref-12] This environmental destruction became the emotional core that drove her game design philosophy.
+Her pitch drew on a teenage memory from her summer-camp work: "I worked a lot in children's summer camps. There was a beach where we took the children every Wednesday, a beautiful beach, with rocks and glittering sand. I remember once we sat on the rocks and watched a whole school of porpoises jumping in the waves. Anyway, the next season when we went there, the whole beach was covered with litter. As I walked down to the water with the kids, I looked down, and there was human sewage running across the sand and into the ocean."[^ref-1] Once the idea was accepted, Sierra assigned Jane Jensen as her co-designer.[^ref-1] "We didn't really expect to get greenlit," Haine told Polygon. "But he loved it […] and then we were designers, which elevated us out of what we were in the writers' group and put us in Sierra's most coveted slot, which is designing a Sierra game."[^ref-12] Maher notes that Sierra's gender balance among its writers and designers "approached fifty-fifty at times."[^ref-1]
 
-The EcoQuest project was initially uncertain: "We didn't really expect to get greenlit. But he [Ken Williams] loved it [...] and then we were designers, which elevated us out of what we were in the writers' group and put us in Sierra's most coveted slot, which is designing a Sierra game."[^ref-6] The success of the first game led directly to the development of its sequel, establishing Haine as Sierra's go-to designer for educational adventure games.[^ref-7]
+Haine and Jensen worked with the Marine Mammal Center of Sausalito, California, to get the science right.[^ref-1] Haine recalls balancing that science against the fantasy: "We were on this weird cusp of bizarre imagination and scientific verifiability that doesn't really kind of work. But wherever we were, wherever we could solve something like that, we tried."[^ref-12] By her account Sierra saw the game as a failure, though it sold well enough for a CD-ROM version and a sequel.[^ref-12]
 
-During her time at Sierra, Haine also became inadvertently involved in one of the company's most controversial projects when Ken Williams introduced her to Daryl Gates, the former Los Angeles Police Chief who would go on to create Police Quest: Open Season.[^ref-5] Williams told her, "Show this man everything about how we do this!" and asked her to demonstrate Sierra's development tools to Gates.[^ref-5] Only after the meeting did one of her artists inform her who the visitor was, recounting: "The artist looks at me, and he goes, 'Gano! Daryl Gates. LA. KA-BOOM!'"[^ref-5]
+She also contributed "Additional Material" to the 1991 VGA remake of [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I]], and was one of four designers of [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] (1993), with Jane Jensen, Josh Mandel and Lorelei Shannon.[^ref-17][^ref-20][^ref-1]
 
-### Later Career (1993–Present)
+While she was working on Lost Secret of the Rainforest, Ken Williams brought a visitor to her team and told her: "Show this man everything about how we do this!" She demonstrated Sierra's development tools; only afterwards did one of her artists tell her who it was: "The artist looks at me, and he goes, 'Gano! Daryl Gates. LA. KA-BOOM!'"[^ref-5] Her next pitch, *The Wings of Icarus*, was shelved during Sierra's company-wide layoffs.[^ref-12]
 
-After her groundbreaking work at Sierra in the early 1990s, Haine's later career details are less well-documented in public sources, though professional profiles indicate she continued to work in technology and entertainment industries. Her influence on educational gaming and environmental themes in interactive entertainment continued to be felt long after her direct involvement in game development.[^ref-8]
+### Later Career
+
+After the Sierra layoffs Haine became a producer at Electronic Arts, as Corey Cole recalled in 2018, and also held a producer position at The ImagiNation Network, where she was one of the producers of the online dungeon game [[1995 - The Ruins of Cawdor|The Ruins of Cawdor]] (1995).[^ref-16][^ref-9] She then co-founded Stunt Puppy Entertainment, a developer of children's CD-ROM games, and served as its President and CEO; the company worked with licensors including Mattel, Disney/Buena Vista Games, Atari/Infogrames and LeapFrog.[^ref-9] Her MobyGames credits from this period include Barbie as Sleeping Beauty (1999), Barbie Generation Girl Gotta Groove (2000), \*NSYNC: Get to the Show (2001), several Dora the Explorer games (2002–2003) and Thomas & Friends: Thomas Saves the Day (2003).[^ref-9][^ref-4][^ref-2]
+
+She was next a co-founder and Vice President of Product Development at LimeLife, a mobile publisher aimed at women and girls, and later principal of The ONAG Group, a consultancy for new-media start-ups.[^ref-9] She has served on the steering committee of Women in Games International (WIGI).[^ref-9] Speaking at a WIGI event in 2006 as LimeLife's vice president of product development, she raised gender-specific marketing in retail: "In Toys 'R' Us, you walk down the girl aisle and you walk down the boy aisle. At Best Buy, there is no girl aisle."[^ref-13]
 
 ## Notable Works
 
-### EcoQuest: The Search for Cetus (1992)
+### EcoQuest: The Search for Cetus (1991)
 
-EcoQuest: The Search for Cetus represented Haine's breakthrough as a game designer and established many of the principles that would define her approach to educational adventure gaming.[^ref-1][^ref-10] Working with Jane Jensen, Haine created what is believed to be the first computer game in history developed entirely by an all-female design team, a remarkable achievement in an industry that was becoming increasingly male-dominated.[^ref-9] The game tackled environmental themes through the story of a young boy named Adam who must rescue sea creatures from pollution and ecological disaster.
-
-Haine's educational background proved crucial in designing puzzles and interactions that were challenging without being condescending to younger players.[^ref-11] The game balanced fantasy elements with scientific accuracy, though as Haine acknowledged, "We were on this weird cusp of bizarre imagination and scientific verifiability that doesn't really kind of work. But wherever we were, wherever we could solve something like that, we tried."[^ref-12] The success of the first EcoQuest validated Sierra's investment in educational adventure games and established environmental themes as viable content for the adventure gaming market.[^ref-15]
+Haine proposed the game and co-designed it with Jane Jensen.[^ref-1][^ref-19] Its hero is Adam, the son of an ecologist, who helps sea creatures threatened by pollution.[^ref-1] Maher writes that because Haine and Jensen were both designers, EcoQuest "would become the first computer game in history that was the product of an all-female design team."[^ref-1] Haine later described the environmental subject as hard ground: "Environmental issues are very emotional, and you inevitably contact people who have very deep disagreements about those issues."[^ref-1]
 
 ### EcoQuest: Lost Secret of the Rainforest (1993)
 
-The sequel to EcoQuest allowed Haine to expand her environmental themes while introducing innovative gameplay mechanics, most notably the Ecorder device that players could use to record and catalog environmental information.[^ref-12] However, Haine later reflected that the technology may have overshadowed the storytelling: "We were starting to come up with devices that maybe should have been the product [...] rather than being harnessed to the story. But I'm a storyteller, so of course that's the part I liked the best."[^ref-12]
+Jensen did not work on the sequel, leaving Haine as its sole designer; MobyGames credits her as director, and Polygon calls her the game's "director/designer."[^ref-1][^ref-18][^ref-12] Responding to complaints that the text of the first game was too advanced for some children, she deliberately simplified the writing.[^ref-1] The sequel introduced the Ecorder, a device for recording and cataloguing what the player finds. "We were starting to come up with devices that maybe should have been the product […] rather than being harnessed to the story," she said. "But I'm a storyteller, so of course that's the part I liked the best."[^ref-12]
 
-Lost Secret of the Rainforest also presented unique challenges in terms of cultural representation, as the game dealt with Indigenous peoples and rainforest conservation.[^ref-7] Haine was conscious of these sensitivities, noting: "We tried to make it as positive toward Indigenous people as we possibly could within the mandate of what we were doing, which was an imaginary story, and an ecologically driven story, which again, I think was a little ahead of its time, but would probably hit more of a chord now."[^ref-12] The game demonstrated Haine's commitment to respectful representation even within the constraints of 1990s adventure game conventions.
+The game sends Adam into the rainforest near Iquitos, Peru, to help a fictional Indigenous people, the Grove People. "We tried to make it as positive toward Indigenous people as we possibly could within the mandate of what we were doing, which was an imaginary story, and an ecologically driven story, which again, I think was a little ahead of its time, but would probably hit more of a chord now," Haine told Polygon.[^ref-12] She traces her approach to archetypal drama, which she studied in education: "I think that's what drives imagination. If you look at [the in-game tree Forest Heart], that in mythology has a long history, it's the tree of life, so I wasn't sitting there and mapping those things in. But I believe that those kinds of archetypes are cross-cultural quite often."[^ref-12]
 
 ### Pepper's Adventures in Time (1993)
 
-Haine contributed to Pepper's Adventures in Time, another educational adventure game that transported players through different historical periods.[^ref-4] While not the lead designer on this project, her involvement helped establish Sierra's reputation for high-quality educational adventures that didn't sacrifice entertainment value for educational content.[^ref-10] The game represented the broader trend at Sierra toward creating adventure games that could appeal to both entertainment and educational markets.[^ref-1]
-
-## Design Philosophy
-
-Haine's approach to game design was fundamentally shaped by her background as an educator and her belief that games could be powerful learning tools without condescending to players.[^ref-13] She understood that "Environmental issues are very emotional, and you inevitably contact people who have very deep disagreements about those issues," which required careful handling of sensitive topics while still conveying important messages.[^ref-12]
-
-Her design philosophy emphasized archetypal storytelling that could resonate across cultures and age groups.[^ref-12] As she explained, "I think that's what drives imagination. If you look at [the in-game tree Forest Heart], that in mythology has a long history, it's the tree of life, so I wasn't sitting there and mapping those things in. But I believe that those kinds of archetypes are cross-cultural quite often."[^ref-12] This approach allowed her games to tackle complex themes through universally recognizable story structures.
-
-Haine was also acutely aware of gender dynamics in gaming marketing and development.[^ref-13] She observed that "In Toys 'R' Us, you walk down the girl aisle and you walk down the boy aisle. At Best Buy, there is no girl aisle," highlighting how the gaming industry's shift toward technology retail had implications for reaching diverse audiences.[^ref-13] Her work at Sierra occurred during a unique period when the company maintained better gender balance among its creative staff, allowing for different perspectives in game development.[^ref-1]
-
-## Legacy
-
-Gano Haine's impact on the adventure gaming industry extends far beyond her individual game credits, representing a crucial voice in establishing educational gaming as a legitimate and entertaining genre.[^ref-11] Her work on the EcoQuest series demonstrated that games could tackle serious environmental and social issues while still providing engaging gameplay and compelling narratives.[^ref-15] The fact that she co-created the first computer game developed by an all-female team makes her a significant figure in the history of women in gaming.[^ref-9]
-
-The environmental themes Haine pioneered in her games were indeed "ahead of their time," as she predicted, and would likely resonate even more strongly with contemporary audiences increasingly concerned about climate change and ecological destruction.[^ref-12] Her approach to balancing entertainment with education influenced subsequent generations of designers working in serious games and educational interactive media.[^ref-13]
-
-Haine's work also stands as a testament to the unique creative environment that existed at Sierra Online in the early 1990s, when the company was willing to greenlight projects with environmental and educational themes and maintained a more diverse creative staff than would become typical in the gaming industry.[^ref-1] Her career trajectory from teacher to game designer illustrates the value of bringing diverse professional backgrounds into game development, enriching the medium with perspectives from education, psychology, and theatrical arts.[^ref-14]
+Bill Davis proposed this history adventure; because he was not himself a designer, the game became "something of a community effort," designed by Haine, Jensen, Josh Mandel and Lorelei Shannon.[^ref-1][^ref-20]
 
 ## Games
 
 ### Sierra On-Line (1991–1993)
 
-- **1992** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Designer/Writer
-- **1993** — [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest: Lost Secret of the Rainforest]] — Role: Designer/Writer
-- **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Role: Contributor
+Credits per MobyGames, with the SCI wiki and Giant Bomb as secondary listings:[^ref-4][^ref-10][^ref-15]
+
+- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Co-Designer
+- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] — Role: Additional Material
+- **1993** — [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest: Lost Secret of the Rainforest]] — Role: Designer, Director
+- **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Role: Designer (one of four)
+
+### The ImagiNation Network
+
+- **1995** — [[1995 - The Ruins of Cawdor|The Ruins of Cawdor]] — Role: Producer
+
+### Stunt Puppy Entertainment and Later (1999–2003)
+
+Credits per MobyGames:[^ref-9]
+
+- 1999 — Barbie as Sleeping Beauty — Role: Design
+- 2000 — Barbie Generation Girl Gotta Groove CD-ROM — Role: Design
+- 2001 — \*NSYNC: Get to the Show — Role: Senior Designer
+- 2002 — Dora the Explorer: Backpack Adventure — Role: Designer
+- 2002 — Dora the Explorer: Lost City Adventure — Role: Designer
+- 2003 — Dora the Explorer: Animal Adventures — Role: Designer
+- 2003 — Thomas & Friends: Thomas Saves the Day — Role: Additional Design
+
 ## References
 
-[^ref-1]: [The Sierra Discovery Adventures - The Digital Antiquarian](https://www.filfre.net/2018/10/the-sierra-discovery-adventures/) — Career overview and game development details
-[^ref-2]: [Gano Haine - IMDb](https://www.imdb.com/name/nm1983333/) — Professional credits and career timeline
-[^ref-4]: [Gano Haine - MobyGames](https://www.mobygames.com/person/3084/gano-haine/credits/) — Complete game development credits and career information
-[^ref-5]: [How Sierra and a Disgraced Cop Made the Most Reactionary Game of the '90s - VICE](https://www.vice.com/en/article/how-sierra-and-a-disgraced-cop-made-the-most-reactionary-game-of-the-90s/) — Teaching background and Sierra career details
-[^ref-6]: Adventure Gamers Search Results *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — CompuServe forum activity and game criticism work
-[^ref-7]: [The Digital Antiquarian - October 19, 2018](https://www.filfre.net/2018/10/19/) — All-female design team collaboration with Jane Jensen
-[^ref-8]: [Walker's Research Executive Profile](http://www.walkersresearch.com/profilePages/Show_Executive_Title/Executiveprofile/G/Gano__Haine_400136921.html) — Professional background and career achievements
-[^ref-9]: [MobyGames Developer Profile](https://www.mobygames.com/person/3084/gano-haine/) — Sierra's gender balance and design team composition
-[^ref-10]: [Sierra Creative Interpreter Wiki](http://sciwiki.sierrahelp.com/index.php/Gano_Haine) — Teaching career and transition to game design
-[^ref-11]: [Abandonware DOS Designer Profile](https://www.abandonwaredos.com/retro-game-designer.php?tp=12&des=Gano+Haine) — Educational credentials and academic background
-[^ref-12]: [EcoQuest: Sierra Text Adventure - Polygon](https://www.polygon.com/23271065/ecoquest-sierra-text-adventure-ecorder/) — Summer camp experiences and environmental inspiration
-[^ref-13]: [Games for Women, Games by Women - Game Developer](https://www.gamedeveloper.com/business/event-wrap-up-games-for-women-games-by-women) — Adventure game addiction and career transition
-[^ref-14]: [LinkedIn Profile - Gano Haine](https://www.linkedin.com/in/gano-haine-8782832/) — Professional development and career progression
-[^ref-15]: [Giant Bomb Profile](https://www.giantbomb.com/gano-haine/3040-3691/) — CompuServe forum participation and game expertise
+[^ref-1]: [The Sierra Discovery Adventures - The Digital Antiquarian](https://www.filfre.net/2018/10/the-sierra-discovery-adventures/) — Jimmy Maher, October 19, 2018; teaching and CompuServe background, consultant hire, Oakhurst 1991, porpoise and "starve" quotes, all-female design team, fifty-fifty, Lost Secret, Pepper's
+[^ref-2]: [Gano Haine - IMDb](https://www.imdb.com/name/nm1983333/) — Credit list (includes Thomas & Friends)
+[^ref-4]: [Gano Haine - MobyGames](https://www.mobygames.com/person/3084/gano-haine/credits/) — Complete game credits
+[^ref-5]: [How Sierra and a Disgraced Cop Made the Most Reactionary Game of the '90s - VICE](https://www.vice.com/en/article/how-sierra-and-a-disgraced-cop-made-the-most-reactionary-game-of-the-90s/) — Duncan Fyfe, January 18, 2018; the Daryl Gates visit
+[^ref-9]: [MobyGames Developer Profile (Wayback, January 2026)](http://web.archive.org/web/20260117054625/https://www.mobygames.com/person/3084/gano-haine/) — Biography (education, EA, ImagiNation Network, Stunt Puppy, LimeLife, ONAG, WIGI, CompuServe sysop) and 13-game credit list
+[^ref-10]: [Sierra Creative Interpreter Wiki](http://sciwiki.sierrahelp.com/index.php/Gano_Haine) — Sierra credits
+[^ref-12]: [EcoQuest: Sierra Text Adventure - Polygon](https://www.polygon.com/23271065/ecoquest-sierra-text-adventure-ecorder/) — Alexis Ong, July 26, 2022; Writer's Lab, "greenlit" and later quotes, "most of a Ph.D.", The Wings of Icarus
+[^ref-13]: [Event Wrap-Up: Games for Women, Games by Women - Game Developer](https://www.gamedeveloper.com/business/event-wrap-up-games-for-women-games-by-women) — Jill Duffy, March 6, 2006; Haine as LimeLife VP of product development; Toys 'R' Us quote
+[^ref-15]: [Giant Bomb Profile](https://www.giantbomb.com/gano-haine/3040-3691/) — Credit list
+[^ref-16]: [The Digital Antiquarian - Adventure-Game Rock Stars Live in Conference](https://www.filfre.net/2018/02/adventure-game-rock-stars-live-in-conference/) — August 1990 CompuServe conference; Corey Cole's comment: Haine "became a Producer at Electronic Arts after the big Sierra layoff"
+[^ref-17]: [MobyGames - Space Quest I VGA Credits (Wayback, July 2024)](https://web.archive.org/web/20240721144047/https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/credits/dos/) — "Additional Material: Gano Haine, Bridget McKenna"
+[^ref-18]: [MobyGames - Lost Secret of the Rainforest Credits (Wayback, January 2025)](https://web.archive.org/web/20250103214916/https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/credits/dos/) — "Director: Gano Haine"
+[^ref-19]: [MobyGames - EcoQuest: The Search for Cetus Credits (Wayback, December 2024)](https://web.archive.org/web/20241209104911/https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/credits/dos/) — "Design: Gano Haine, Jane Jensen"
+[^ref-20]: [MobyGames - Pepper's Adventures in Time Credits (Wayback, 2013)](https://web.archive.org/web/20130626005425/http://www.mobygames.com:80/game/dos/peppers-adventures-in-time/credits) — "Design: Gano Haine, Jane Jensen, Josh Mandel, Lorelei Shannon"
