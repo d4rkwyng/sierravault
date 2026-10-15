@@ -11,7 +11,7 @@ series: "Aces"
 engine: "3-Space"
 protagonist: "Player-created pilot"
 sierra_lineage: "Sierra Label (Dynamix)"
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 description: "WWII: 1946 is Dynamix's 1992 alternate-history expansion disk for Aces of the Pacific, adding seven prototype and early-jet aircraft and a campaign over a hypothetical 1945–46 invasion of Japan."
 tags: [1990s, simulation, flight-simulation, aces, dynamix, sierra, expansion, damon-slye]
 composer: null
@@ -19,11 +19,11 @@ composer: null
 
 # Aces of the Pacific: WWII: 1946
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-*WWII: 1946* is an expansion disk for [[1992 - Aces of the Pacific|Aces of the Pacific]], developed by [[Dynamix]] and published by [[Sierra On-Line]] for MS-DOS in late 1992.[^ref-1][^ref-2][^ref-3] Sierra's own magazine called it "the first expansion disk for Aces of the Pacific".[^ref-4] It asks what would have happened if the atomic bomb had never been used and the United States had been forced to invade Japan. To fly that war, it adds seven aircraft that were still prototypes or barely in service in 1945, including the first American and Japanese jet fighters.[^ref-4][^ref-5] Aces of the Pacific is required to play it.[^ref-5][^ref-6]
+*WWII: 1946* is an expansion disk for [[1992 - Aces of the Pacific|Aces of the Pacific]], developed by [[Dynamix]] and published by [[Sierra On-Line]] for MS-DOS in late 1992.[^ref-1][^ref-2][^ref-3] Sierra's own magazine called it "the first expansion disk for Aces of the Pacific".[^ref-4] It asks what would have happened if the atomic bomb had never been used and the United States had been forced to invade Japan. To fly that war, it adds seven aircraft that were still prototypes or barely in service in 1945, including what Fick called "the first of each nation's operational jets", the P-80 Shooting Star and the Kikka.[^ref-4][^ref-5] Aces of the Pacific is required to play it.[^ref-5][^ref-6]
 
 [[Damon Slye]] is credited as designer and director.[^ref-5][^ref-2] The add-on was sold as part of Dynamix's "Great War Planes" line, which Sierra advertised alongside the *Red Baron Mission Builder* expansion.[^ref-7][^ref-6]
 
@@ -100,7 +100,7 @@ Fick's review, "A Flight Into the Hypothetical", opened with the decision to end
 
 ### Modern Assessment
 
-Little retrospective criticism of the add-on was found. It does appear in the *PC Research* "Hits List of Top-Selling Software" for December 1992, reprinted in *Computer Gaming World*. Under MS-DOS games it is listed as "WWII 1946: Aces Mission Disk (Sierra On-Line)", alongside Aces of the Pacific itself.[^ref-11] MobyGames lists no critic score for it.[^ref-1]
+Little retrospective criticism of the add-on was found. It does appear in the *PC Research* "Hits List of Top-Selling Software" for December 1992, reprinted in *Computer Gaming World*. Under MS-DOS games it is listed as "WWII 1946: Aces Mission Disk (Sierra On-Line)", alongside Aces of the Pacific itself.[^ref-11] MobyGames shows a critic average of 82% from three ratings, though no Moby Score.[^ref-16]
 
 ## Development
 
@@ -175,3 +175,4 @@ The Dynamix team itself was proud of the alternate history. Lindstrom concluded 
 [^ref-13]: [Internet Archive – Aces of the Pacific: WWII: 1946 (IBM PC floppy image)](https://archive.org/details/001054-AcesOfThePacificWwii1946) – preserved release
 [^ref-14]: [The Sierra Chest – Aces of the Pacific with WWII: 1946](https://sierrachest.com/index.php?a=games&id=387&fld=general) – bundle, first release 1993, Dynamix, 3-Space
 [^ref-15]: [Dynamix Fandom – Aces of the Pacific](https://dynamix.fandom.com/wiki/Aces_of_the_Pacific) – base game context; 1946 Expansion Pack alternate timeline
+[^ref-16]: [MobyGames – Aces of the Pacific: Expansion Disk – WWII: 1946 (Wayback Machine, August 2025)](http://web.archive.org/web/20250824234335/https://www.mobygames.com/game/1420/aces-of-the-pacific-expansion-disk-wwii-1946/) – "Moby Score n/a"; "Critics Average score: 82% (based on 3 ratings)"
