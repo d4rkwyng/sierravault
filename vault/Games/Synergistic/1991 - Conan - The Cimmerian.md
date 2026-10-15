@@ -13,13 +13,13 @@ engine: "World Builder"
 protagonist: "Conan"
 sierra_lineage: "Sierra Label (Synergistic)"
 composer: ["Christopher Barker"]
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 description: "Synergistic Software's 1991 Conan action-RPG, published by Virgin Games, in which a blacksmith from Cimmeria hunts Thoth Amon across Hyborea. Sierra acquired Synergistic in 1996."
 tags: [1990s, action-adventure, rpg, conan, robert-e-howard, synergistic-software, virgin-games, world-builder, robert-clardy]
 ---
 # Conan: The Cimmerian
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -41,7 +41,7 @@ Sierra On-Line did not publish Conan: The Cimmerian. It is in SierraVault becaus
 
 ## Story Summary
 
-Conan lives peacefully as a blacksmith with his wife in the Cimmerian village of Irskuld until horsemen raid it. He is knocked unconscious and wakes to find his wife and friends dead.[^ref-2] The killing was ordered by Thoth Amon, high priest of the Cult of Set. Conan heads south through Hyborea to Shadizar to begin his revenge.[^ref-2][^ref-4] The manual frames the story as a tale told by the old wizard Akado beside a campfire. It warns that "he may occasionally get events confused."[^ref-11]
+Conan lives peacefully as a blacksmith with his wife in the Cimmerian village of Irskuld until horsemen raid it. He is knocked unconscious and wakes to find his wife and friends dead.[^ref-2] The killing was ordered by Thoth Amon, high priest of the Cult of Set. Conan heads south through Hyborea to Shadizar to begin his revenge.[^ref-2][^ref-4] The manual frames the story as a tale told by the old wizard Akado beside a campfire. It warns that the wizard is very old and "may occasionally gets [sic] events confused."[^ref-11]
 
 Computer Gaming World's Charles Ardai noted that this Conan is not yet "the proficient, sword-wielding barbarian of novel, comic book and movie renown." The first half of the game is spent bringing him "up to speed" by finding a weapons master, equipment and allies. The second half is a series of quests sent out from Shadizar, which lead to a showdown with Thoth Amon.[^ref-3] Thoth Amon's city, Tarantia, is on the map from the start but cannot be entered until the end.[^ref-3]
 
@@ -59,7 +59,7 @@ Compute! also counted a separate dungeon map.[^ref-4] Compute! found that mouse,
 
 ### Structure and Progression
 
-Shadizar is the hub. Temples there give out quests, offer healing and store items; shops sell gear; inns restore health. NPCs can be talked to, bribed or provoked into a fight.[^ref-2][^ref-12] Conan raises money by breaking into houses. Compute! warned that "Thievery gets Conan thrown into jail," where he loses his gold but keeps his equipment.[^ref-4] Money pays for training. Conan begins with only the "swing" sword style and has to find a weapons master to learn "thrust" and "chop".[^ref-5][^ref-2] There is no automapping. When Conan dies, the game revives him automatically.[^ref-4] Computer Gaming World added that it also offers tips on how he might have done better.[^ref-3]
+Shadizar is the hub. Temples there give out quests, offer healing and store items; shops sell gear; inns restore health. NPCs can be talked to or provoked into a fight,[^ref-2] and some can be bribed: Compute! noted that conversation "is terminated quickly unless you bribe for more information," and the manual describes a Bribery command that sometimes appears, usually with an armed guard.[^ref-4][^ref-11] Conan raises money by breaking into houses. Compute! warned that "Thievery gets Conan thrown into jail," where he loses his gold but keeps his equipment.[^ref-4] Money pays for training. Conan begins with only the "swing" sword style and has to find a weapons master to learn "thrust" and "chop".[^ref-5][^ref-2] There is no automapping. When Conan dies, the game revives him automatically.[^ref-4] Computer Gaming World added that it also offers tips on how he might have done better.[^ref-3]
 
 ### Puzzles and Mechanics
 
@@ -72,11 +72,11 @@ Combat is real-time and one-on-one. The fighters can only step left or right and
 | Publication | Version | Score / Verdict |
 |---|---|---|
 | Computer Gaming World #91 (Feb 1992) | MS-DOS | Mixed review, no score[^ref-3] |
-| White Wolf #30 (Feb 1992) | — | 4 of 5[^ref-1] |
+| White Wolf #30 (Feb 1992) | — | 4 of 5 (per Wikipedia)[^ref-1] |
 | Génération 4 #41 (Feb 1992) | Amiga | 75%[^ref-9] |
 | Compute! #141 (Jun 1992) | Not stated | Positive review, no score[^ref-4] |
 
-Ardai called Conan "perhaps the most rudimentary role-playing game ever made." He described the combat as "endless, repetitive and poorly animated" action sequences. He also found the game "rather addictive" and fun.[^ref-3] He praised the art, writing that the graphics show Conan "nearly living up to the magnificent Boris Vallejo painting on the package," and called the music "both satisfying and appropriate."[^ref-3] He closed with: "Nietzsche it ain't, but Howard it is!"[^ref-3] Jim Trunzo of White Wolf wrote that "Virgin Games gives us a chance to experience a little of what it must be like to be Robert E. Howard's infamous warrior king."[^ref-1] Alfred C. Giovetti of Compute! found the world "a very lethal place." He recommended it to Conan fans and to "an adventure gamer who appreciates arcade action."[^ref-4]
+Ardai called Conan "perhaps the most rudimentary role-playing game ever made." He described the combat as "endless, repetitive and poorly animated" action sequences. He also found the game "rather addictive" and fun.[^ref-3] He praised the art, writing that the graphics show Conan "nearly living up to the magnificent Boris Vallejo painting on the package," and called the music "both satisfying and appropriate."[^ref-3] He closed with: "Nietzsche it ain't, but Howard it is!"[^ref-3] Jim Trunzo covered the game in his "Silicon Dungeon" column in White Wolf #30, which closed with "a perusal of Virgin Games' ambitious attempt to computerize Robert E. Howard's Conan the Cimmerian."[^ref-16] According to Wikipedia, he rated it 4 out of 5 and wrote that "Virgin Games gives us a chance to experience a little of what it must be like to be Robert E. Howard's infamous warrior king."[^ref-1] Alfred C. Giovetti of Compute! found the world "a very lethal place." He recommended it to Conan fans and to "an adventure gamer who appreciates arcade action."[^ref-4]
 
 ### Modern Assessment
 
@@ -154,3 +154,4 @@ Conan: The Cimmerian is the fourth of Synergistic Software's World Builder games
 [^ref-13]: [Home of the Underdogs – Conan The Cimmerian](https://homeoftheunderdogs.net/game.php?id=221) – World Builder engine "got a facelift"; quote
 [^ref-14]: [Eli's Software Encyclopedia – Conan The Cimmerian (PC, CD-ROM) 1992 US/Canada release](https://elisoftware.org/wiki/Conan_The_Cimmerian_(PC,_CD-ROM)_Virgin_Interactive_Entertainment_-_1992_USA,_Canada_Release) – © 1992, Virgin Interactive Entertainment; packaging text (200 locations, 600 screens)
 [^ref-15]: [Internet Archive – Conan: The Cimmerian (1992) CD-ROM](https://archive.org/details/conan_the_cimmerian_1992) – CD-ROM version "includes voices, and a more advanced soundtrack"
+[^ref-16]: [Jim Trunzo, "The Silicon Dungeon", White Wolf #30 (February 1992), p. 35 (scan, Imgur)](https://imgur.com/a/9AMLECw) – opening page of the column, listing Conan the Cimmerian among the games reviewed; the Conan review page itself (p. 38) is not in the scan
