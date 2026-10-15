@@ -11,14 +11,14 @@ series: "Lode Runner"
 engine: "Custom (C/C++)"
 protagonist: "Jake Peril"
 sierra_lineage: "Sierra Published"
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 description: "Lode Runner: The Legend Returns is Presage Software's 1994 remake of Doug Smith's Lode Runner, published by Sierra On-Line under Jeff Tunnell Productions. It has 150 single-player levels across ten themed worlds, new tools, two-player modes and a level editor."
 tags: [1990s, lode-runner, presage, jeff-tunnell, puzzle-platform, remake]
 composer: ["Matthew Berardo", "Brian Salter"]
 ---
 # Lode Runner: The Legend Returns
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -43,7 +43,7 @@ Critics split over whether a faithful remake was enough. *Computer Gaming World*
 
 ## Story Summary
 
-Sierra's own magazine *InterAction* set out the premise. The mad monks of the Evil Empire have stolen all the gold and gems in the world. The player is Jake Peril, "a notorious bounty hunter and all-around hero-type with indefatigable legs", whose job is to infiltrate their underground labyrinths and steal the riches back.[^ref-8] *Electronic Games* noted that this "wacky backstory" replaced the original game's Bungeling Empire.[^ref-11]
+Sierra's own magazine *InterAction* set out the premise in a sidebar on the series' history, where it is presented as the story of the 1983 original. The mad monks of the Evil Empire have stolen all the gold and gems in the world. The player is Jake Peril, "a notorious bounty hunter and all-around hero-type with indefatigable legs", whose job is to infiltrate their underground labyrinths and steal the riches back.[^ref-8] *Electronic Games* noted, however, that this "wacky backstory" was new to the remake and replaced the original game's Bungeling Empire.[^ref-11]
 
 The descent runs through ten underground worlds. The Sierra Chest's walkthrough calls them Moss, Fungus, Ancient, Crystal, Ice, Fossil, Lava, Phosphorus, Dark and Industrial.[^ref-12] Wikipedia gives their in-game titles, such as Moss Caverns, the Lost City of Ur, Winter's Dungeon, Inferno's Playground, the Shadowlands and Meltdown Metropolis. In the Shadowlands the screen is dark except for a circle of light around the player.[^ref-2] A second player can join as Jake's partner Wes Reckless, who wears blue.[^ref-12][^ref-2] Short animations play between worlds. The manual warns that players who skip levels or play them out of order will miss these, including the final scene.[^ref-7]
 
@@ -114,11 +114,11 @@ The Game Generator lets players build levels and whole level groups. Levels can 
 
 **Pyramid.** According to Wikipedia, the magazine contrasted the remake with a classic "which was almost instantly addictive", and noted that the monks now tear the player apart "in a delightfully graphic manner".[^ref-2]
 
-**Awards.** *Games Magazine* named the game Best New Arcade Game of 1994.[^ref-1][^ref-10] The game's lead programmer recalled that it won in the same year that *Myst* took *Games*' Game of the Year.[^ref-10] *PC Gamer US* nominated it for Best Puzzle Game of 1994, but the award went to Coktel Vision's *[[1993 - Goblins Quest 3|Goblins Quest 3]]*.[^ref-2]
+**Awards.** *Games Magazine* named the game Best New Arcade Game of 1994.[^ref-1][^ref-10] The game's lead programmer recalled that it won in the same year that *Myst* took *Games*' Game of the Year.[^ref-10] In autumn 1995 Sierra's *InterAction* added that *The Legend Returns* had been a finalist for *MacUser*'s Best Macintosh Game of the Year.[^ref-23] *PC Gamer US* nominated it for Best Puzzle Game of 1994, but the award went to Coktel Vision's *[[1993 - Goblins Quest 3|Goblins Quest 3]]*.[^ref-2]
 
 ### Modern Assessment
 
-MobyGames lists a 75% critic average from 15 ratings and a 3.8/5 player average from 34 ratings.[^ref-1] On MyAbandonware the game holds 4.4/5 from 221 votes. Its Home of the Underdogs review calls it "not only worthy of the name, but ... also leaps and bounds better" than Brøderbund's original.[^ref-14] The GOG Dreamlist entry asking for a re-release had 411 votes when it was captured for this page's research. Several of its posts single out the level editor and couch co-op.[^ref-15]
+MobyGames lists a 75% critic average from 15 ratings and a 3.8/5 player average from 34 ratings.[^ref-1] On MyAbandonware the game holds 4.39/5 from 225 votes. Its Home of the Underdogs review calls it "not only worthy of the name, but ... also leaps and bounds better" than Brøderbund's original.[^ref-14] The GOG Dreamlist entry asking for a re-release had 411 votes when it was captured for this page's research. Several of its posts single out the level editor and couch co-op.[^ref-15]
 
 Later console versions drew a cooler response. IGN's 1998 review of Natsume's PlayStation compilation scored it 6 ("okay"), saying it was "just what you remember", though the characters were "extremely tiny".[^ref-16] *Next Generation* said the PlayStation release "adds little that's new" but was "well worth a look" for newcomers.[^ref-17]
 
@@ -145,11 +145,11 @@ MobyGames' Windows credits list:[^ref-4]
 - **Producer:** Randy Dersham
 - **Quality assurance:** Sierra's team under David Steele
 
-Daggert's page describes the lead programmer's job as dividing work among the team, leading the Windows 3.1 effort and keeping the code base in sync "between two different remote offices". It adds that the programmers also designed the game: "there was no significant paper design to begin with. Game elements were brainstormed, added and balanced exclusively by the programmers as needed."[^ref-10]
+Daggert was lead programmer on both Presage Lode Runner games. His page describes the job as dividing work among the team, shepherding "the Windows 3.1 and Windows 95 efforts" (the Windows 95 version being the 1995 follow-up) and maintaining the code base "between two different remote offices". It adds that the programmers also did design work: "there was no significant paper design to begin with. Game elements were brainstormed, added and balanced exclusively by the programmers as needed, especially in the case of Lode Runner Online."[^ref-10]
 
 ### Technical Achievements
 
-*InterAction* described the art as "Repainted using SVGA resolution and a glowing 256 colors". It compared the percussion-heavy score to a "Raiders of the Lost Ark ambiance".[^ref-8] The Sierra Chest lists 22 music tracks, with an introduction and a theme for each world.[^ref-19] According to Daggert, the game was written in C and C++.[^ref-10] A MobyGames trivia entry says that level 77 is a tribute to C++.[^ref-1]
+*InterAction* described the art as "Repainted using SVGA resolution and a glowing 256 colors". It compared the percussion-heavy score to a "Raiders of the Lost Ark ambiance".[^ref-8] The Sierra Chest lists 22 music tracks: main menu and game options music, a theme for each of the ten worlds, intros for nine of them (Moss World has a theme but no intro), and the credits.[^ref-19] According to Daggert, the game was written in C and C++.[^ref-10] A MobyGames trivia entry says that level 77 is a tribute to C++.[^ref-1]
 
 ### Technical Specifications
 
@@ -158,6 +158,7 @@ Daggert's page describes the lead programmer's job as dividing work among the te
 | Game Bytes (version 1.02) | 486/25, SVGA/VGA, 4 MB RAM, 12 MB disk space, Windows 3.1; keyboard, mouse or joystick[^ref-7] |
 | *Computer Gaming World* | 386 or better, 2 MB RAM (4 MB recommended), VGA, Windows 3.1; one or two players on the same computer; no copy protection; $45.95[^ref-5] |
 | *Next Generation* | Two disks[^ref-6] |
+| Lead programmer's notes | Media: 1.44 MB floppy and CD-ROM (the note covers both Presage Lode Runner games; *Next Generation*'s two-disk count above is for this one)[^ref-10] |
 
 Game Bytes also reported that there was "no copy protection to hassle about".[^ref-7]
 
@@ -206,7 +207,7 @@ The PlayStation *Lode Runner* (1998) combined *The Legend Returns* with *Lode Ru
 
 ## See Also
 
-*The Legend Returns* was the first of Presage's two Lode Runner games for Sierra. Its follow-up kept the same engine, characters and editor and added online play.[^ref-2][^ref-10]
+*The Legend Returns* was the first of Presage's two Lode Runner games for Sierra. Its follow-up was built on the same code base, updated from 16-bit to 32-bit for Windows 95, and added network and modem play.[^ref-10]
 
 - **Previous:** None in the vault (the 1983 original was published by Brøderbund)
 - **Next:** [[1995 - Lode Runner On-Line - The Mad Monks' Revenge|Lode Runner On-Line: The Mad Monks' Revenge]] (1995)
@@ -226,16 +227,17 @@ The PlayStation *Lode Runner* (1998) combined *The Legend Returns* with *Lode Ru
 [^ref-7]: [Game Bytes Issue 21 – Lode Runner: The Legend Returns review by Angel Lynn (1994)](https://www.ibiblio.org/GameBytes/issue21/greviews/lode.html) – requirements, version 1.02, September 1, 1994 release, gameplay, tools list, level order and animations, two-player modes, Game Generator, joystick driver, no copy protection, planned DOS and Mac versions
 [^ref-8]: [InterAction (Sierra), Fall 1994 – "Lode Runner: The Legend Returns" by Susan Frischer, Internet Archive](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994_1994_Sierra_On-Line_US) – premise (Jake Peril, Evil Empire monks), end-of-August release plan, Doug Smith's AI code reused, ten mazes of fifteen levels, SVGA 256-color art, soundtrack, Jeff Tunnell, two-player cooperation
 [^ref-9]: [Next Generation No. 8 (August 1995) – Macintosh review, Internet Archive](https://archive.org/stream/next-generation-24-dec-1996/NEXT%20Generation%2008%20Aug%201995_djvu.txt) – Mac review praising animation and sound, import of old levels, "Internal arguments have prevented us from rating this game with five stars"
-[^ref-10]: [DaggertWeb – Lode Runner & Lode Runner Online (Wayback, 2008)](https://web.archive.org/web/20081014012253/http://www.daggert.net/Folio/Programming/Presage/LodeRunner/Loderunner1.htm) – lead programmer's project page: Presage acquired the rights in 1993, Q4 1994 release, Dynamix/Sierra publisher, lead programmer duties, programmer-led design, C/C++, Games Magazine 1994 award, cheat codes
+[^ref-10]: [DaggertWeb – Lode Runner & Lode Runner Online (Wayback, 2008)](https://web.archive.org/web/20081014012253/http://www.daggert.net/Folio/Programming/Presage/LodeRunner/Loderunner1.htm) – lead programmer's project page covering both Presage games: Presage acquired the rights in 1993, Q4 1994 and Q4 1995 releases, Dynamix/Sierra publisher, lead programmer duties, programmer-led design ("especially in the case of Lode Runner Online"), 16-bit code updated to 32-bit for the sequel, C/C++, Games Magazine 1994 award, cheat codes
 [^ref-11]: [Electronic Games (December 1994) – "Lode Runner: Neo-classic goldbricking from Sierra" by Bill Kunkel, Internet Archive](https://archive.org/details/electronic-games-1994-12) – Jeff Tunnell's guidance, new backstory, ten worlds of 15 screens, controls, icon interface, tools, Game Generator, head-to-head, grade B+
 [^ref-12]: [The Sierra Chest – Lode Runner: The Legend Returns walkthrough](https://sierrachest.com/index.php?a=games&id=180&title=lode-runner&fld=walkthrough) – first release 1994-09-23, Presage/Sierra, IBM PC and Macintosh, world list, main menu functions, default controls, Wes Reckless
 [^ref-13]: [Wired 3.04 (April 1995) – "Hitting the Mother Lode" by Zach Meston, Internet Archive](https://archive.org/details/wired-magazine-03.04-1995-april) – review quotes, 150 levels, construction mode, US$45.95 for Mac, DOS and Windows
-[^ref-14]: [MyAbandonware – Lode Runner: The Legend Returns](https://www.myabandonware.com/game/lode-runner-the-legend-returns-2wy) – DOS 1994, Presage/Sierra, 4.4/5 from 221 votes, HOTUD review text
+[^ref-14]: [MyAbandonware – Lode Runner: The Legend Returns](https://www.myabandonware.com/game/lode-runner-the-legend-returns-2wy) – DOS 1994, Presage/Sierra, 4.39/5 from 225 votes (checked 2026-10-15), HOTUD review text
 [^ref-15]: [GOG Dreamlist – Lode Runner: The Legend Returns (1994)](https://www.gog.com/dreamlist/game/lode-runner-the-legend-returns-1994) – listed as a requested, unreleased title; vote count and user memories
 [^ref-16]: [IGN – Lode Runner: The Legend Returns (PlayStation review, March 27, 1998)](https://www.ign.com/articles/1998/03/27/lode-runner-the-legend-returns) – Natsume port of The Legend Returns and Extra, review by Adam Douglas, score 6 ("okay")
 [^ref-17]: [Next Generation No. 39 (March 1998) – Lode Runner (PlayStation) review, Internet Archive](https://archive.org/stream/next-generation-24-dec-1996/NEXT%20Generation%2039%20Mar%201998_djvu.txt) – Natsume/Presage PlayStation compilation, "adds little that's new"
 [^ref-18]: [Presage Software – company overview (Wayback, 1997)](https://web.archive.org/web/19970414140222/http://www.presage.com:80/overview.html) – founded 1986, San Rafael, CA; cross-platform C development system; credits including Prince of Persia, Lemmings and Lode Runner
-[^ref-19]: [The Sierra Chest – Lode Runner: The Legend Returns music](https://sierrachest.com/index.php?a=games&id=180&title=lode-runner&fld=music) – 22-track music list with intro and theme for each world
+[^ref-19]: [The Sierra Chest – Lode Runner: The Legend Returns music](https://sierrachest.com/index.php?a=games&id=180&title=lode-runner&fld=music) – 22-track music list: Main Menu, Game Options, Moss World Theme, intro and theme for each of the other nine worlds, Game Credits
 [^ref-20]: [Presage Software – LodeRunner Extra product page (Wayback, 1999)](https://web.archive.org/web/19991004042959/http://www.presage.com:80/pLRPSX.html) – "Presage ported LodeRunner 1.5 to the Playstation, called LodeRunner Extra"; publisher Natsume
 [^ref-21]: [Wikipedia – Lode Runner](https://en.wikipedia.org/wiki/Lode_Runner) – series table: The Legend Returns (1994, Presage/Sierra), Lode Runner Online (1995), Lode Runner 2 (1998, Presage, GT Interactive and MacSoft)
 [^ref-22]: [Mad Monks' Revenge: Definitive Edition (Quark Robot)](https://mmr.quarkrobot.com/) – fan-made cross-platform re-creation of Lode Runner Online, same graphics and gameplay; notes both Presage titles were released by Sierra
+[^ref-23]: [InterAction (Sierra), Fall 1995, Internet Archive](https://archive.org/details/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US) – "The new Legend Returns has already taken Best New Arcade Game honors (Games Magazine) and was a finalist for Best Macintosh Game of the Year (Mac User Magazine)"
