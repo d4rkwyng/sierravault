@@ -60,7 +60,7 @@ The storytellers behind Sierra's legendary adventure franchises.
 | [[Lorelei Shannon]] | King's Quest VII, Phantasmagoria 2 |
 | [[Tammy Dargan]] | King's Quest VII, Torin's Passage |
 | [[Scott Youngblood]] | Quest for Glory III-IV |
-| [[Gano Haine]] | Pepper's Adventures in Time, Mixed-Up Fairy Tales |
+| [[Gano Haine]] | EcoQuest 1 and 2, Pepper's Adventures in Time |
 
 ### RPG Designers
 
