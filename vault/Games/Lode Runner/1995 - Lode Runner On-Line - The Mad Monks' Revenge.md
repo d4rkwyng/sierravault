@@ -14,13 +14,13 @@ series: "Lode Runner"
 engine: "Custom (32-bit update of The Legend Returns engine)"
 protagonist: "Jake Peril"
 sierra_lineage: "Sierra Published"
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 description: "Lode Runner On-Line: The Mad Monks' Revenge is Presage Software's 1995 enhanced edition of Lode Runner: The Legend Returns for Windows 95 and Macintosh, published by Sierra. It adds two-player modem and network play, two new worlds, 180 new levels and new hazards."
 tags: [1990s, lode-runner, presage, multiplayer, puzzle-platform, windows-95]
 ---
 # Lode Runner On-Line: The Mad Monks' Revenge
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -102,7 +102,7 @@ Home of the Underdogs summed up the additions as "regenerating bombs, disappeari
 
 **Albuquerque Journal.** Wikipedia quotes its verdict: "This is a superb update the entire family will enjoy".[^ref-1]
 
-**Awards.** Presage's product page listed honours alongside the game. These were *Games Magazine*'s "Best New Arcade Game", Top 100 Products finalist (*Home PC*), Best Macintosh Game of the Year finalist (*MacUser*), All Star Software (*Children's Software Revue*), and Best Action Arcade finalist at the SPA Codie Awards, the last marked "(1994)".[^ref-3] At least the *Games Magazine* award belongs to the 1994 game: the lead programmer dates it to 1994 and attributes it to *Lode Runner*.[^ref-7] The page does not separate the two releases.
+**Awards.** Presage's product page listed honours alongside the game. These were *Games Magazine*'s "Best New Arcade Game", Top 100 Products finalist (*Home PC*), Best Macintosh Game of the Year finalist (*MacUser*), All Star Software (*Children's Software Revue*), and Best Action Arcade finalist at the SPA Codie Awards, the last marked "(1994)".[^ref-3] At least two of these belong to the 1994 game. In autumn 1995, before *On-Line* shipped, Sierra's *InterAction* reported that "The new Legend Returns has already taken Best New Arcade Game honors (Games Magazine) and was a finalist for Best Macintosh Game of the Year (Mac User Magazine)."[^ref-17] The lead programmer also dates the *Games Magazine* award to 1994.[^ref-7] Presage's page does not separate the two releases.
 
 ### Modern Assessment
 
@@ -120,7 +120,7 @@ According to the lead programmer, design on the Lode Runner projects was done by
 
 ### Technical Achievements
 
-The lead programmer lists the technologies as Windows 95, "IPX fault-tolerant networking" and DirectX 1.0 modem support. The game shipped on 1.44 MB floppy and CD-ROM, and the CD "contained over a dozen full-length original redbook tracks".[^ref-7] *PC Player* confirmed that the CD's audio tracks play in an ordinary CD player.[^ref-11] *PC Action* noted that almost the whole game could be copied to the hard disk to avoid slow CD-ROM drives.[^ref-8]
+The lead programmer lists the technologies as Windows 95, "IPX fault-tolerant networking" and DirectX 1.0 modem support. His notes, which cover both Presage games together, list 1.44 MB floppy and CD-ROM media and say the CD "contained over a dozen full-length original redbook tracks".[^ref-7] Every 1995–96 listing and review found for *On-Line* shows it on CD-ROM only; no floppy edition has been documented.[^ref-5][^ref-6][^ref-8][^ref-10] *PC Player* confirmed that the CD's audio tracks play in an ordinary CD player.[^ref-11] *PC Action* noted that almost the whole game could be copied to the hard disk to avoid slow CD-ROM drives.[^ref-8]
 
 ### Technical Specifications
 
@@ -185,7 +185,7 @@ No compilation or digital-store re-release of *Lode Runner On-Line* was found du
 [^ref-4]: [Home of the Underdogs – Lode Runner Online: The Mad Monks' Revenge](https://homeoftheunderdogs.net/game.php?id=2299) – review, new features, naming confusion, 2002 free release by the lead programmer, 8.6 from 282 votes
 [^ref-5]: [InterAction (Sierra), Holiday 1995 – Lode Runner: The Mad Monks' Revenge, Internet Archive](https://archive.org/details/InterAction_Magazine_Holiday_1995_1995_Sierra_On-Line_US) – Presage remake, premise, feature list (network/modem, player-specific items, two new worlds, liquid tiles, 30 single and 150 two-player puzzles), Win 95 CD, available November, $44.95
 [^ref-6]: [InterAction (Sierra), Spring 1996 – catalogue listing, Internet Archive](https://archive.org/details/InterAction_Magazine_Spring_1996_1996_Sierra_On-Line_US) – Lode Runner: On-Line $44.95, network and modem play, 2-for-1 WIN/Mac CD special
-[^ref-7]: [DaggertWeb – Lode Runner & Lode Runner Online (Wayback, 2008)](https://web.archive.org/web/20081014012253/http://www.daggert.net/Folio/Programming/Presage/LodeRunner/Loderunner1.htm) – lead programmer's page: Q4 1995 release, multiplayer and 32-bit Windows 95 update, programmer-led design, IPX networking, DirectX 1.0 modem, floppy and CD media with redbook audio, awards, cheat codes, free download
+[^ref-7]: [DaggertWeb – Lode Runner & Lode Runner Online (Wayback, 2008)](https://web.archive.org/web/20081014012253/http://www.daggert.net/Folio/Programming/Presage/LodeRunner/Loderunner1.htm) – lead programmer's page: Q4 1995 release, multiplayer and 32-bit Windows 95 update, programmer-led design, IPX networking, DirectX 1.0 modem, media (1.44 MB floppy and CD-ROM, listed for both games together), redbook audio, Games Magazine 1994 award, cheat codes, free download
 [^ref-8]: [PC Action 3/96 – Lode Runner On-Line review by Adrian Vogler, Internet Archive](https://archive.org/details/pc-action-1996-03_202310) – continuation of The Legend Returns, original plus 150 two-player levels, modem/network, Windows 95, graphics and sound, hard-disk install, requirements, 75%
 [^ref-9]: [Computer Games Magazine – "LodeRunner Online" review by Daryll Henrich, December 20, 1995 (Wayback)](https://web.archive.org/web/20030817000805/http://www.cdmag.com/articles/018/080/lodeonline_review.html) – networking as the only extra, plot description, verdict quote
 [^ref-10]: [PC Zone No. 37 (April 1996) – Lode Runner review, Internet Archive](https://archive.org/details/PC_Zone_37_April_1996) – Sierra, double-speed CD and Windows 95 required, score 20%, review quotes
@@ -195,4 +195,4 @@ No compilation or digital-store re-release of *Lode Runner On-Line* was found du
 [^ref-14]: [Wikipedia – Lode Runner: The Legend Returns](https://en.wikipedia.org/wiki/Lode_Runner:_The_Legend_Returns) – Lode Runner Online released one year after The Legend Returns, fixing bugs and adding features
 [^ref-15]: [Wikipedia – Lode Runner](https://en.wikipedia.org/wiki/Lode_Runner) – series table: Lode Runner Online (1995, Windows/Mac OS, Presage/Sierra); Lode Runner 2 (1998, Presage, GT Interactive and MacSoft)
 [^ref-16]: [Mad Monks' Revenge: Definitive Edition (Quark Robot)](https://mmr.quarkrobot.com/) – fan-made cross-platform clone, same graphics and gameplay, up to 4 players online, Presage titles owned by Activision/Sierra, no affiliation
-[^ref-17]: [InterAction (Sierra), Fall 1995 – Lode Runner: On-Line announcement, Internet Archive](https://archive.org/details/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US) – "two new worlds and 180 new levels", modem and network support, cooperative and head-to-head play
+[^ref-17]: [InterAction (Sierra), Fall 1995 – Lode Runner: On-Line announcement, Internet Archive](https://archive.org/details/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US) – "two new worlds and 180 new levels", modem and network support, cooperative and head-to-head play; credits the Games Magazine award and MacUser finalist place to The Legend Returns
