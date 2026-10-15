@@ -2,229 +2,162 @@
 title: Ultimate Soccer Manager 98-99
 release_year: 1999
 developer: Impressions Games
-designer: [Mark Howman, Andrew Prime, Neal Sumsion]
+designer: null
 publisher: Sierra On-Line
 genre: Sports Management
 platforms: [Windows]
 series: Ultimate Soccer Manager
-engine: Live match engine
+engine: USM98 engine (unchanged)
 protagonist: Player-created Manager
-sierra_lineage: Sierra Published
-last_updated: '2026-05-13'
-description: Ultimate Soccer Manager 98-99 is the final release in the USM series,
-  which began in 1995 and became a massive hit in Europe. Developed by Impressions
-  Games...
+sierra_lineage: Sierra Label (Impressions)
+last_updated: '2026-10-14'
+description: Ultimate Soccer Manager 98-99 (version 2.00) is a season update to Ultimate
+  Soccer Manager 98 by Impressions Games, adding 1998-99 data and the Dutch league;
+  it was sold both as a full game and as an add-on that installs over USM98.
 tags: [1990s, sierra, ultimate-soccer-manager]
 ---
 # Ultimate Soccer Manager 98-99
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 ## Overview
 
-Ultimate Soccer Manager 98-99 is the final release in the USM series, which began in 1995 and became a massive hit in Europe.[^ref-1][^ref-2] Developed by [[Impressions Games]] and published by [[Sierra On-Line]], this standalone expansion brought the beloved football management simulation to its culmination, offering updated team rosters for the 1998-99 season along with the addition of Spanish and Dutch leagues.[^ref-3][^ref-4] The game represented one of the most underrated soccer simulation series of all time, delivering a complete and engrossing club management experience that rivaled its main competitor, Championship Manager.[^ref-5][^ref-6]
+Ultimate Soccer Manager 98-99 is an update to [[1998 - Ultimate Soccer Manager 98|Ultimate Soccer Manager 98]], not a new game in the series. The readme on its CD identifies it as "Ultimate Soccer Manager 98-99 / Version 2.00 / 15 October 1998" and notes that "USM98-99 will install over USM98".[^ref-20] It was developed by [[Impressions Games]] and published by [[Sierra On-Line]].[^ref-4][^ref-23] The update brought the player and team data up to the 1998-99 season and added the Dutch league, giving seven playable European leagues.[^ref-21][^ref-22][^ref-23] Period reviewers stressed how little else had changed. France's Joystick wrote that there was "aucun changement dans le moteur" (no change to the engine) and that a patch would have been enough.[^ref-21]
 
-The game distinguished itself through its unique blend of business simulation, sports game, and sandbox elements.[^ref-7] Unlike the more statistically detailed Championship Manager series, USM 98-99 offered a faster and more easy-going experience while maintaining deep management mechanics.[^ref-3] The game's graphic approach and coverage of business issues made it stand out in the crowded football management simulation market, though the graphics used for actual matches were considered poor by contemporary standards.[^ref-8]
-
-With data covering seven of the biggest European leagues, over 400 clubs, and approximately 12,000 players, Ultimate Soccer Manager 98-99 provided an unprecedented scope for football management enthusiasts.[^ref-5][^ref-9] The game allowed players to take control of every aspect of club management, from player transfers and training to stadium enhancements and merchandise pricing, creating what many considered one of the greatest management games of its time.[^ref-10][^ref-11]
+The update was sold in two forms. In the UK, CVG listed it at £29.99, or £14.99 for the "add-on edition".[^ref-23] In France it was sold as *Football Manager 98-99* at 299 F for the full version or 99 F for the update.[^ref-21] In Germany it appeared as *DSF Fussball Manager: Saison 98/99*.[^ref-4][^ref-22] It was the last Ultimate Soccer Manager title to be released. A planned USM 2000 was cancelled.[^ref-27]
 
 > [!info]- Game Info
-> **Developer:** [[Impressions Games]][^ref-3]
-> **Designer:** Mark Howman, Andrew Prime, Neal Sumsion[^ref-3]
-> **Publisher:** [[Sierra On-Line]], Inc.[^ref-3]
-> **Engine:** Live match engine[^ref-6]
-> **Platforms:** Windows[^ref-3]
-> **Release Year:** 1999[^ref-4]
+> **Developer:** [[Impressions Games]][^ref-4]
+> **Designer:** No credits listed for 98-99 on MobyGames; the USM98 design credits are Mark Howman, Andrew Prime and Neal Sumsion[^ref-30][^ref-3]
+> **Publisher:** [[Sierra On-Line]], Inc.[^ref-4]
+> **Engine:** USM98 engine, unchanged[^ref-21]
+> **Platforms:** Windows[^ref-4]
+> **Release Year:** 1999 per MobyGames; CD readme dated 15 October 1998[^ref-4][^ref-20]
 > **Series:** Ultimate Soccer Manager
 > **Protagonist:** Player-created Manager
-> **Sierra Lineage:** Sierra Published
+> **Sierra Lineage:** Sierra Label (Impressions)
 
 ## Story Summary
 
-Ultimate Soccer Manager 98-99 does not feature a traditional narrative story but instead places the player in the role of a football club manager with complete autonomy over their club's destiny. The player begins by selecting from over 400 clubs across seven European leagues, including newly added Spanish and Dutch competitions.[^ref-4][^ref-12]
-
-The game's "story" unfolds through the seasons as the player manages their chosen club through competitions, transfers, and financial challenges. Success is measured through league standings, cup victories, and the overall health of the club's finances and infrastructure. The player must navigate the complex world of professional football, building a squad capable of competing at the highest level while maintaining fiscal responsibility.[^ref-5]
-
-The simulation allows for multiple approaches to management success. Players can focus on developing youth talent, making shrewd transfer dealings, or building a financial empire through merchandising and catering operations. The game's transfer system, which required often a week or more of fax exchange between clubs, added a realistic layer of negotiation that distinguished it from competitors.[^ref-2]
+Ultimate Soccer Manager 98-99 has no narrative. The player takes charge of a football club and plays through season after season, judged on results and on the club's finances. Players can manage clubs in seven European leagues: England, Scotland, Italy, France, Germany, Spain and the Netherlands.[^ref-5][^ref-31] Of these, only the Dutch league was new in 98-99. The official USM98 website had already listed six leagues, "England, Scotland, Italy, Germany, France and Spain".[^ref-26][^ref-21][^ref-23]
 
 ## Gameplay
 
 ### Interface and Controls
 
-Ultimate Soccer Manager 98-99 utilized an icon-driven 'office' view that served as the main interface for all management activities.[^ref-1] The game was controlled entirely by mouse, making it accessible to players unfamiliar with complex keyboard commands.[^ref-3][^ref-13] This intuitive approach allowed managers to navigate between various screens covering team selection, tactics, finances, and club infrastructure with ease.
-
-The interface maintained the same presentation and style characteristic of the series, keeping continuity with previous USM titles while refining the user experience.[^ref-3] Two play modes were offered: full-management mode and coach mode, allowing players to choose their level of involvement in club operations.[^ref-5]
+MobyGames describes the game as "unchanged from the previous version". It keeps the icon-driven "office" view, and players are rated in nine areas: keeping, tackling, passing, shooting, pace, heading, set pieces, throwing and stamina.[^ref-4] It is controlled by mouse.[^ref-13] German magazine PC Player noted a new menu bar for quickly switching between screens.[^ref-22]
 
 ### Structure and Progression
 
-The game progresses through seasonal cycles, with players managing their clubs through domestic league campaigns and cup competitions. The structure includes:
-
-- **Season Planning:** Setting budgets, establishing transfer targets, and preparing squad
-- **Match Days:** Tactical preparation and live match viewing
-- **Transfer Windows:** Negotiating player acquisitions and sales via fax system[^ref-2]
-- **Stadium Management:** Upgrading facilities, setting pricing for catering and merchandise[^ref-1]
-- **Youth Development:** Scouting and training young talent
-- **Financial Management:** Balancing budgets and revenue streams
-
-Players rated in nine key areas determined their effectiveness: keeping, tackling, passing, shooting, pace, heading, set pieces, throwing, and stamina.[^ref-1] The positions of players were now defined by their skills rather than arbitrary designations, adding tactical depth to squad selection.[^ref-3]
+The game offers two modes. Coach mode covers only the football side. Full management mode adds stadium development and club finances.[^ref-5][^ref-26] Managers can hire scouts to follow players and trainers to improve them, enlarge the stadium, and set prices for catering and merchandise.[^ref-4] Up to eight players can take part. PC Player specified that they play in turn on one PC.[^ref-21][^ref-22][^ref-23]
 
 ### Puzzles and Mechanics
 
-While not featuring traditional puzzles, the game presented complex management challenges requiring strategic thinking. The hiring of scouts and trainers became essential for long-term success, as did careful financial planning for stadium enhancements.[^ref-1] The transfer system implemented a realistic fax negotiation mechanic that could take multiple in-game days to complete, requiring patience and strategic timing.[^ref-2][^ref-3]
+The CD readme lists three features that were added after the manual went to print.[^ref-20]
 
-The game featured a live match engine that allowed players to watch their tactical decisions play out on the pitch.[^ref-6] Tactical customization and strategy development were core components, with managers able to adjust formations and player instructions to match their preferred playing style.[^ref-14]
+- **Sierratext players:** player names on the teletext-style screens can be clicked to jump to that player's information screen.
+- **Transfer veto:** once a club and player have agreed a deal, the manager gets a final power of veto.
+- **Match speed:** a new speed of 1.5 times normal was added to the match screen.
+
+PC Player also reported that players now have hidden attributes. It said managers can design their own set pieces, though these barely show in the match scenes.[^ref-22] CVG noted that players changed clubs very quickly, which it felt "slightly upsets the believability".[^ref-23]
 
 ## Reception
 
 ### Contemporary Reviews
 
-Ultimate Soccer Manager 98-99 received generally positive reviews upon release, though opinions varied regarding its competition with the Championship Manager series.
+Reviewers judged 98-99 as an update. Most agreed it was still a decent game but offered little new.
 
-- **Amiga Computing** gave the series 83%, praising the game's graphic approach and coverage of business issues while criticizing the match graphics.[^ref-2][^ref-8]
-- **PC Format** awarded 85% to the series.[^ref-2]
-- **Amiga Format** also scored it 85%.[^ref-2]
-- **Joystick** gave the 1999 release 79%.[^ref-2]
+- **Joystick** (France, issue 101, February 1999, p.104, Ivan Le Fou) scored it 79 for *intérêt*, 55 for technique and 60 for design. The review called Football Manager 98 the best choice among management sims so far. It said the update left the engine unchanged and added the Dutch clubs. It ended: "Ce n'est d'ailleurs rien de plus. Un rien payant." (That's all it is. A paid nothing.)[^ref-21]
+- **Computer and Video Games** (UK, issue 208, March 1999, p.57, Alex Huhtala) gave it three out of five. The review called the Dutch league "one major addition". It concluded: "It's still a good game, but we would have liked a few more reasons to go out and buy the update."[^ref-23]
+- **PC Player** (Germany, March 1999, p.93, Alex Brante) scored the German version 51 for *Spielspaß*. Brante called the improvements "minimal" and gave fans only a limited recommendation.[^ref-22]
 
-Critics noted that while USM won't give Championship Manager a run for its money, the game does offer a lot of fun details and options that soccer fans will appreciate.[^ref-15] One reviewer proclaimed that USM 98 in all other respects is the game that equals—or even exceeds—CM2.[^ref-5][^ref-9]
+MobyGames lists five critic scores averaging 65%. Besides the three above, they are Gameplay (Benelux) at 84% and Génération 4 at 50%.[^ref-29]
 
 ### Modern Assessment
 
-The game has maintained a devoted following among retro gaming enthusiasts, with many considering it one of the greatest management games of all time.[^ref-10] Modern retrospectives praise Ultimate Soccer Manager 98-99 for its intricate mechanics and immersive details that stood out from competitors of the era.[^ref-14]
+Home of the Underdogs, whose review appears on several download sites, calls the series "one of the most underrated soccer simulation series of all time". Its write-up discusses USM 98 and says it "equals --or even *exceeds*-- CM2".[^ref-5][^ref-31]
 
 **Aggregate Scores:**
-- **MobyGames:** 67-68% (user rating)[^ref-3][^ref-4]
-- **MyAbandonware:** 4.47/5[^ref-5]
-- **IMDB:** 7.9/10[^ref-16]
-- **VGTimes:** 5.5/10[^ref-7]
-- **Software Informer:** 5/5[^ref-6]
-
-The game is frequently discussed in fan communities, with some players reporting having reached up to year 2085 in game progression, demonstrating the title's remarkable longevity and replayability.[^ref-10]
+- **MobyGames:** Moby Score 6.8; critics 65% (5 ratings); players 3.6/5 (3 ratings)[^ref-4][^ref-29]
+- **Home of the Underdogs:** 9.08 (1,324 user votes)[^ref-31]
+- **MyAbandonware:** 4.47/5 (user rating)[^ref-5]
 
 ## Development
 
 ### Origins
 
-The Ultimate Soccer Manager series began in 1995 with the original game developed by [[Impressions Games]] for DOS and Amiga platforms.[^ref-2][^ref-15] The series was designed by David Lester and published by Impressions before Sierra On-Line took over publishing duties for later editions.[^ref-15] The game was conceived as a comprehensive football management simulation that would appeal to European audiences passionate about the sport.
-
-The series evolved through multiple iterations: Ultimate Soccer Manager (1995), Ultimate Soccer Manager 2 (1996), Ultimate Soccer Manager 98 (1997), and finally Ultimate Soccer Manager 98-99 Season Update (1998-1999).[^ref-2] Each version expanded upon the foundation, with USM 98 being the first to run natively on Windows and implementing all leagues in a single executable.[^ref-3][^ref-8]
+The Ultimate Soccer Manager series was made by Impressions and distributed by Sierra from 1995 to 1999.[^ref-2] The games before this one were Ultimate Soccer Manager (1995), Ultimate Soccer Manager 2 (1996) and Ultimate Soccer Manager 98 (1998).[^ref-2][^ref-3]
 
 ### Production
 
-Ultimate Soccer Manager 98-99 was developed as a standalone expansion to USM 98, maintaining the same interface while adding significant content updates.[^ref-4] The development team implemented statistics for the 1998-99 season, added seven playable leagues including the Spanish and Dutch leagues, ironed out bugs, and improved general stability of the game.[^ref-4][^ref-12]
+98-99 was a data and feature update built on USM98's code. The CD readme dates version 2.00 to 15 October 1998.[^ref-20] CVG's November 1998 release schedule listed "USM 98/99 Add On (Cendant)" for PC CD-ROM on 23 October 1998.[^ref-25] MobyGames lists a 1999 UK release.[^ref-4] In 2001, fan site USM Online listed the series' distribution as "USM 98, USM 98/99, USM 98 US edition, German USM called DSF Fußballmanager, French USM called Football Manager".[^ref-28]
 
-The development focused on expanding the transfer mechanics to be more realistic, requiring fax negotiations between clubs that could take over a week of in-game time.[^ref-2][^ref-3] The team also worked to ensure the game database was comprehensive, including a statistics editor that allowed for updating teams and players.[^ref-5]
-
-**Development Credits:**[^ref-3]
-- **Designers:** Mark Howman, Andrew Prime, Neal Sumsion
-- **Composers:** Andi McGinty, Richard Parret
-
-### Technical Achievements
-
-The game featured a live match engine that allowed managers to observe their tactical decisions in real-time, though the graphical representation of matches was considered poor compared to the overall presentation.[^ref-6][^ref-8] The implementation of all leagues within a single executable was a notable technical achievement that simplified the user experience.[^ref-3]
-
-The game laid groundwork for future football management games, featuring an extensive player database and including a multiplayer component for competitive play between managers.[^ref-14] The challenging AI provided meaningful opposition for player managers throughout their careers.[^ref-6]
+**Development Credits:** MobyGames lists no credits for 98-99.[^ref-30] Home of the Underdogs names Mark Howman and Andrew Prime as designers.[^ref-31] For reference, MobyGames credits USM98's design to Mark Howman, Andrew Prime and Neal Sumsion, and its music to Andi McGinty and Richard Parret.[^ref-3]
 
 ### Technical Specifications
 
-**System Requirements:**[^ref-13]
-- **Minimum CPU:** Intel Pentium
+**System Requirements (CD readme):**[^ref-20][^ref-13]
 - **Operating System:** Windows 95
+- **CPU:** Pentium 75 MHz (Pentium 120 MHz or higher recommended)
 - **RAM:** 16 MB
-- **Hard Drive Space:** 65 MB
-- **CD-ROM:** 2X (300 KB/s)
+- **CD-ROM:** dual speed (quad speed or higher recommended)
+- **Hard Drive Space:** 65 MB free
+- **Graphics:** DirectX 5 compatible card, 1 MB minimum
 - **Input Devices:** Mouse
-- **Media Type:** CD-ROM
 
-**Download Versions:**[^ref-5][^ref-9]
-- **Game Download:** 10.8 MB (compressed)
-- **Full CD with Fix:** 146 MB
-- **Manual:** 354 KB
-- **Archive Size:** 227.6 MB (Internet Archive)[^ref-1]
+**Archived copies:**
+- **Internet Archive:** CD image (USM98-99.iso, about 238 MB), plus the USM98 1.0.1.1 patch[^ref-1]
+- **Old-Games.com:** game download (10.8 MB), manual (354 KB), and "Full CD + Windows 7/XP Fix" (146 MB)[^ref-9]
 
 ### Cut Content
 
-Ultimate Soccer Manager 2000 was planned as the next evolution of the series, set to feature an all-new 3D match engine with advanced Artificial Intelligence and completely rewritten coding.[^ref-8] However, Sierra UK became impatient with development progress and the project was ultimately scrapped, making USM 98-99 the final entry in the series.[^ref-2][^ref-8]
+A successor, USM 2000, was in development but was cancelled. A former developer told USM Online that Sierra "called a halt" when it emerged that the team might miss its Christmas 2000 deadline. Its listed features included "an all-new 3D match engine with advanced Artificial Intelligence".[^ref-27] USM Online also reported that Sierra and Havas Interactive had removed the USM series from their future sales plans.[^ref-28]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1999 | Windows | Initial release[^ref-4] |
-| 1.0.0.1 | 1999 | Windows | Minor update[^ref-6] |
-| 1.0.1.1 | 1999 | Windows | Fixes 8th season crash bug[^ref-17] |
-| 2.0 | 1999 | Windows | English version referenced by community tools[^ref-18] |
+| 2.00 | 15 October 1998 (readme date) | Windows | Shipping version of USM 98-99; installs over USM98[^ref-20] |
+| 1.0 (German) | 1999 | Windows | PC Player tested the German *DSF Fussball Manager 98/99* as "Verkaufsversion 1.0" (retail version 1.0)[^ref-22] |
 
-**Community Updates:**
-- **Mega Update 00-01 (v1.2):** Community patch extending team data[^ref-17]
-- **2007/2008 Update:** Updated English Premiership players, team names, manager names[^ref-10]
+**Related patches and community updates:**
+- **USM98 patch 1.0.1.1 (usm98111):** a patch for USM98, not 98-99. It "updates USM98 to version 1.0.1.1" and fixes the 8th-season crash bug. Sierra Help lists it on its 98-99 page.[^ref-17]
+- **Mega Update 00-01:** a community roster update by Lasse Hansen for the 2000-01 season. USM Online called it the "greatest update for USM 98/99 fans".[^ref-17][^ref-28]
 
 ### Technical Issues
 
-The game suffered from several technical problems that affected long-term playability:
-
-- **8th Season Crash Bug:** The game would crash after playing multiple seasons, addressed in patch 1.0.1.1[^ref-2][^ref-17]
-- **Windows XP Compatibility:** The game does not run properly on Windows XP or later operating systems[^ref-2][^ref-10]
-- **64-bit Systems:** Does not work natively on Windows Vista or 64-bit systems[^ref-10]
-- **Player Information Bug:** No possibility of viewing detailed info on some players[^ref-8]
-- **Assistant Wage Exploit:** A bug allowed setting assistant wage to £99,999,999 then paying the club £13M weekly[^ref-8]
-
-The game database was not easily accessible, requiring specialized updaters for community modifications.[^ref-10] Modern players often require compatibility mode or emulation solutions to run the game on current systems.
+- **Modern Windows:** Old-Games.com distributes the CD with a "Windows 7/XP Fix".[^ref-9]
+- **Wage exploit:** in November 1998, CVG printed a USM98 tip. Giving a coach a pay rise to £999,999,999 per week and then offering him new contracts made him pay "around £20 million" into the club each week.[^ref-33] Wikipedia says, with a "citation needed" tag, that this bug was fixed in the 98-99 update.[^ref-2]
 
 ### Easter Eggs and Trivia
 
-- Players discovered a hidden cheat menu within the game.[^ref-2]
-- The transfer system's fax mechanic was remarkably ahead of its time, simulating realistic negotiation delays.[^ref-2]
-- The game was released under different titles in various regions: "DSF Fussball Manager: Saison 98/99" in Germany and "Fútbol Manager" in Spanish-speaking markets.[^ref-3][^ref-7]
-- Some dedicated players managed to progress their save games to the year 2085, demonstrating the game's theoretical infinite replayability.[^ref-10]
-- The game allowed simulated match fixing and betting, a controversial feature for its time.[^ref-2]
+- The tweaker author's blog describes analysing the English 98-99 executable and finding a hidden cheat screen.[^ref-32]
+- The game had different titles in different markets: *DSF Fussball Manager: Saison 98/99* in Germany and *Fútbol Manager* in Spanish-speaking markets.[^ref-4][^ref-7] In France it was *Football Manager 98-99*.[^ref-21]
+- PC Player noted that the German version used altered names for German clubs and players. It said the real names could be recovered with a hex editor.[^ref-22]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-While specific sales figures are not available, the Ultimate Soccer Manager series was described as a massive hit in Europe, though it gained little support elsewhere, including Japan.[^ref-2][^ref-8] The series established itself as a significant competitor in the football management genre during the mid-to-late 1990s.
-
-### Collections
-
-Ultimate Soccer Manager 98 was included in the compilation "Gold Games 4" released in 1999.[^ref-3] The standalone nature of the 98-99 update meant it was typically sold as a separate product rather than bundled with other software.
+No sales figures are published. CVG's UK PC CD-ROM chart in March 1999 shows "Ultimate Soccer: Add On" (Cendant) as a new entry at number 2.[^ref-24]
 
 ### Fan Projects
 
-The community developed several tools to extend the game's lifespan:
-
-- **USM 98-99 Tweaker:** A small application to patch the game and edit savegames, targeting the English 2.0 version[^ref-18]
-- **Season Updates:** Community-created roster updates bringing player data into the 2007/2008 season and beyond[^ref-10]
-- **Statistics Editors:** Tools allowing players to update teams and players manually[^ref-5]
-
-### Related Publications
-
-- **Game Manual:** Included with CD-ROM release, approximately 354 KB in digital format[^ref-9]
-- **Official Documentation:** Contained instructions for both full-management and coach play modes[^ref-5]
-
-### Critical Perspective
-
-Ultimate Soccer Manager 98-99 represents a significant entry in the football management simulation genre, arriving at a time when competition for the hearts of virtual managers was fierce. While Championship Manager dominated through its statistical depth and database accuracy, USM carved out its own niche by offering a more accessible, visually engaging, and business-focused experience.[^ref-3][^ref-5]
-
-The game's emphasis on the managerial "office" environment and club infrastructure management distinguished it from purely player-focused simulations. Its inclusion of financial elements like merchandise pricing and catering operations anticipated the more comprehensive club simulation aspects that would become standard in later football management games.[^ref-1][^ref-8]
-
-The cancellation of Ultimate Soccer Manager 2000 marked the end of a series that had provided genuine competition in the genre. While Championship Manager and its successor Football Manager would go on to dominate the market, USM's legacy lies in demonstrating that alternative approaches to football management simulation could be equally engaging and commercially viable. For many European gamers of the late 1990s, USM 98-99 remains a nostalgic benchmark for the genre.[^ref-2][^ref-14]
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/ultimate-soccer-manager-98-99-1999) – Available for purchase
+- **USM 98-99 Tweaker:** an app that patches the game and edits savegames. It targets "the english 2.0 version (98-99)".[^ref-18][^ref-32]
+- **Season updates:** community roster updates such as the Mega Update and Super Update were distributed through USM Online.[^ref-28]
 
 ## Downloads
 
-**Digital Availability Note:** Ultimate Soccer Manager 98-99 is not currently available on Steam or GOG.com digital storefronts.[^ref-19]
+**Purchase / Digital Stores**
+- Not currently sold. GOG has only a Dreamlist entry, asking users to vote for its release.[^ref-12]
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/ultimate-soccer-manager-98-99) – Full game archive[^ref-1]
-- [MyAbandonware](https://www.myabandonware.com/game/ultimate-soccer-manager-98-99-bjq) – Game download with patch[^ref-5]
-- [Old-Games.com](https://www.old-games.com/download/4981/ultimate-soccer-manager-98-99) – Full CD version with fix[^ref-9]
+- [Internet Archive](https://archive.org/details/ultimate-soccer-manager-98-99) – CD image[^ref-1]
+- [MyAbandonware](https://www.myabandonware.com/game/ultimate-soccer-manager-98-99-bjq) – Game download[^ref-5]
+- [Old-Games.com](https://www.old-games.com/download/4981/ultimate-soccer-manager-98-99) – Full CD version with fix, and manual[^ref-9]
 
 **Patches & Tools**
-- [Sierra Help – USM98 Patch 1.0.1.1](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/UltimateSoccerManagerUpdates.html) – Fixes 8th season crash[^ref-17]
+- [Sierra Help – USM98 patch 1.0.1.1 and Mega Update](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/UltimateSoccerManagerUpdates.html)[^ref-17]
 - [GitHub – USM 98-99 Tweaker](https://github.com/enrico69/usm9899tweaker) – Savegame editor and patcher[^ref-18]
 
 ## See Also
@@ -236,22 +169,28 @@ The cancellation of Ultimate Soccer Manager 2000 marked the end of a series that
 ## References
 
 
-[^ref-1]: [Internet Archive – Ultimate Soccer Manager 98-99](https://archive.org/details/ultimate-soccer-manager-98-99) – game metadata, features, archive information
-[^ref-2]: [Wikipedia – Ultimate Soccer Manager](https://en.wikipedia.org/wiki/Ultimate_Soccer_Manager) – series history, versions, reception scores, development details
-[^ref-3]: [MobyGames – Ultimate Soccer Manager 98](https://www.mobygames.com/game/568/ultimate-soccer-manager-98/) – developer, designer, composer credits, ratings, technical specs
-[^ref-4]: [MobyGames – Ultimate Soccer Manager 98-99](https://www.mobygames.com/game/20806/ultimate-soccer-manager-98-99/) – release information, platform, ratings
-[^ref-5]: [MyAbandonware – Ultimate Soccer Manager 98-99](https://www.myabandonware.com/game/ultimate-soccer-manager-98-99-bjq) – review quotes, ratings, game features, download information
-[^ref-6]: [Software Informer – Ultimate Soccer Manager 98-99](https://ultimate-soccer-manager-98-99.software.informer.com/) – engine details, version info, ratings
-[^ref-7]: [VGTimes – Ultimate Soccer Manager 98-99](https://www.vgtimes.com/games/ultimate-soccer-manager-98-99/) – genre description, ratings, alternate titles
-[^ref-8]: [Netlify Archive – Ultimate Soccer Manager 98-99](https://nowboteternal.netlify.app/ultimate-soccer-manager-98-99.html) – Amiga Computing review, technical issues, cut content, version history
-[^ref-9]: [Old-Games.com – Ultimate Soccer Manager 98-99](https://www.old-games.com/download/4981/ultimate-soccer-manager-98-99) – review quotes, technical specs, download sizes
-[^ref-10]: [SoccerGaming Forums – USM 98 Help](https://soccergaming.com/forums/threads/ultimate-soccer-manager-98-help.91648/) – community updates, compatibility issues, player testimonials
-[^ref-11]: [Kotaku – Ultimate Soccer Manager 98-99](https://kotaku.com/games/ultimate-soccer-manager-98-99) – series overview, expansion features
-[^ref-12]: [GOG.com Dreamlist – Ultimate Soccer Manager 98-99](https://www.gog.com/dreamlist/game/ultimate-soccer-manager-98-99-1999) – developer, publisher, version information
-[^ref-13]: [MobyGames – USM 98-99 Specs](https://www.mobygames.com/game/20806/ultimate-soccer-manager-98-99/specs/) – technical specifications, system requirements
-[^ref-14]: [Retrolorean – Ultimate Soccer Manager 98-99](https://www.retrolorean.com/en/ultimate-soccer-manager-98-99-13208) – retrospective review, legacy analysis
-[^ref-15]: [MyAbandonware – Ultimate Soccer Manager (1995)](https://www.myabandonware.com/game/ultimate-soccer-manager-2c4) – series origins, designer credit, HOTUD review
-[^ref-16]: [IMDB – Ultimate Soccer Manager 98](https://www.imdb.com/find/?q=Ultimate+Soccer+Manager+98-99&s=tt) – user ratings
-[^ref-17]: [Sierra Help – USM Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/UltimateSoccerManagerUpdates.html) – patch information, version history
-[^ref-18]: [GitHub – USM 98-99 Tweaker](https://github.com/enrico69/usm9899tweaker) – community tool, version compatibility
-[^ref-19]: [Neoseeker Forums – USM 98-99](https://www.neoseeker.com/forums/3877/t721679-ultimate-soccer-manager-98-99/) – community discussion, download availability
+[^ref-1]: [Internet Archive – Ultimate Soccer Manager 98-99](https://archive.org/details/ultimate-soccer-manager-98-99) – CD image (USM98-99.iso) and USM98 patch file
+[^ref-2]: [Wikipedia – Ultimate Soccer Manager](https://en.wikipedia.org/wiki/Ultimate_Soccer_Manager) – series overview; 98-99 bug-fix claim (tagged citation needed)
+[^ref-3]: [MobyGames – Ultimate Soccer Manager 98](https://www.mobygames.com/game/568/ultimate-soccer-manager-98/) – USM98 (1998) credits: design, music
+[^ref-4]: [MobyGames – Ultimate Soccer Manager 98-99](https://www.mobygames.com/game/20806/ultimate-soccer-manager-98-99/) – release (1999, UK), developer, publisher, alternate titles, description, Moby Score
+[^ref-5]: [MyAbandonware – Ultimate Soccer Manager 98-99](https://www.myabandonware.com/game/ultimate-soccer-manager-98-99-bjq) – HOTUD review text, user rating
+[^ref-7]: [VGTimes – Ultimate Soccer Manager 98-99](https://vgtimes.com/games/ultimate-soccer-manager-98-99/) – alternate titles
+[^ref-9]: [Old-Games.com – Ultimate Soccer Manager 98-99](https://www.old-games.com/download/4981/ultimate-soccer-manager-98-99) – download sizes, "Full CD + Windows 7/XP Fix"
+[^ref-12]: [GOG.com Dreamlist – Ultimate Soccer Manager 98-99](https://www.gog.com/dreamlist/game/ultimate-soccer-manager-98-99-1999) – Dreamlist vote page only; not sold
+[^ref-13]: [MobyGames – USM 98-99 Specs](https://www.mobygames.com/game/20806/ultimate-soccer-manager-98-99/specs/) – technical specifications, 65 MB HDD
+[^ref-17]: [Sierra Help – USM Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/UltimateSoccerManagerUpdates.html) – USM98 patch 1.0.1.1 (8th-season crash fix), Mega Update 00-01
+[^ref-18]: [GitHub – USM 98-99 Tweaker](https://github.com/enrico69/usm9899tweaker) – community tool targeting the English 2.0 version
+[^ref-20]: [USM 98-99 CD Readme.txt (Internet Archive)](https://archive.org/download/ultimate-soccer-manager-98-99/USM98-99.iso/Readme.txt) – "Version 2.00 / 15 October 1998"; installs over USM98; requirements; post-manual features
+[^ref-21]: [Joystick (France) #101, February 1999, p.104 – "Football manager édition 98-99" (Internet Archive)](https://archive.org/details/joystick101/page/n103/mode/1up) – review by Ivan Le Fou; Techn. 55, Design 60, Intérêt 79; 299 F / 99 F; 8 players
+[^ref-22]: [PC Player (Germany) 3/99, p.93 – "DSF Fussball Manager 98/99" (Internet Archive)](https://archive.org/details/PC-Player-German-Magazine-1999-03/page/n65/mode/1up) – review by Alex Brante; Spielspaß 51; seven leagues; up to 8 players on one PC
+[^ref-23]: [Computer and Video Games #208, March 1999, p.57 – "Ultimate Soccer Manager '99 Season Edition" (Internet Archive)](https://archive.org/details/Computer_and_Video_Games_Issue_208_1999-03_EMAP_Images_GB/page/n56/mode/1up) – review by Alex Huhtala; 3/5; £29.99 (£14.99 add-on edition); published by Sierra
+[^ref-24]: [Computer and Video Games #208, March 1999, p.16 – UK PC CD-ROM Top Ten (Internet Archive)](https://archive.org/details/Computer_and_Video_Games_Issue_208_1999-03_EMAP_Images_GB/page/n83/mode/1up) – "Ultimate Soccer: Add On" (Cendant), new entry at no. 2
+[^ref-25]: [Computer and Video Games #204, November 1998, p.40 – Checkpoint release schedule (Internet Archive)](https://archive.org/details/Computer_and_Video_Games_Issue_204_1998-11_EMAP_Images_GB/page/n39/mode/1up) – "USM 98/99 Add On (Cendant)", 23 October 1998
+[^ref-26]: [Official Ultimate Soccer Manager '98 site – "What's New for '98" (Wayback, 6 Dec 1998)](https://web.archive.org/web/19981206022418/http://www.ultimatesoccer.com:80/new'98.htm) – USM98's six leagues incl. Spain; coach mode
+[^ref-27]: [USM Online – Future USM (Wayback, 8 Apr 2001)](https://web.archive.org/web/20010408162535/http://usm.footymanager.net/future.html) – USM 2000 cancellation account; planned 3D match engine
+[^ref-28]: [USM Online – Home (Wayback, 9 Apr 2001)](https://web.archive.org/web/20010409041120/http://usm.footymanager.net/index.html) – Mega Update; series removed from Sierra/Havas sales plans
+[^ref-29]: [MobyGames – Ultimate Soccer Manager 98-99 Reviews](https://www.mobygames.com/game/20806/ultimate-soccer-manager-98-99/reviews/) – five critic scores, 65% average
+[^ref-30]: [MobyGames – Ultimate Soccer Manager 98-99 Credits](https://www.mobygames.com/game/20806/ultimate-soccer-manager-98-99/credits/windows/) – "We don't have any credits for this game yet"
+[^ref-31]: [Home of the Underdogs – Ultimate Soccer Manager 98-99](https://www.homeoftheunderdogs.net/game.php?id=2698) – review, designer names, user rating
+[^ref-32]: [Dynamic-Mess.com – "Gaming archeology: retro-engineering on Ultimate Soccer Manager 98" (2022)](https://www.dynamic-mess.com/jeux/gaming-archeology-retro-engineering-on-ultimate-soccer-manager-98/) – tweaker author's account; English 98-99 version; hidden cheat screen
+[^ref-33]: [Computer and Video Games #204, November 1998, Freeplay p.4 – Tips: "Ultimate Soccer Manager 98" (Internet Archive)](https://archive.org/details/Computer_and_Video_Games_Issue_204_1998-11_EMAP_Images_GB/page/n87/mode/1up) – reader tip: coach pay rise to £999,999,999 per week, "around £20 million" paid in weekly
