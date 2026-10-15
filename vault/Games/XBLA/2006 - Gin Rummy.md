@@ -1,125 +1,122 @@
 ---
 title: "Gin Rummy"
-release_year: 2006
+release_year: 2008
 developer: "Sierra Online Shanghai"
 designer: null
 publisher: "Sierra Online"
 genre: "Card Game"
 platforms: ["Xbox 360"]
 series: "Standalone"
-engine: "Custom"
+engine: "Unknown"
 protagonist: null
 sierra_lineage: Sierra Published
-last_updated: '2026-10-09'
+last_updated: '2026-10-14'
 ---
 
 # Gin Rummy
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 ## Overview
 
-**Gin Rummy** is a digital card game developed by Sierra Online Shanghai (also known as Studio Ch'in) and published by Sierra Online for Xbox Live Arcade.[^ref-1] Released in September 2006, the game brought the classic card game to Xbox 360 players with multiple rule variations and online multiplayer support.[^ref-2]
+**Gin Rummy** is a digital version of the classic card game, developed by Sierra Online Shanghai (formerly Studio Ch'in) and published by Sierra Online, the casual and online label of Vivendi Games, for Xbox Live Arcade on the Xbox 360.[^ref-1][^ref-21] Microsoft's Gamerscore Blog announced it on September 2, 2008 for release that Wednesday, September 3, 2008, at 400 Microsoft Points, rated E by the ESRB.[^ref-21][^ref-9][^ref-11]
 
-Gin Rummy was among the early titles in Sierra Online's XBLA publishing initiative, demonstrating the company's strategy of bringing established casual games to the console digital marketplace.[^ref-1][^ref-6][^ref-9][^ref-11][^ref-7][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20]
+The game packs six rule variants (Classic, Speed, Oklahoma, Hollywood and Three-Hand Gin, plus custom house rules), four-player online matches and Xbox Live Vision camera support.[^ref-21][^ref-1] Critics found it a competent but plain adaptation: Metacritic lists a Metascore of 63 from 10 critic reviews.[^ref-9] It came late in Sierra Online's run of Xbox Live Arcade releases, after Carcassonne (2007) and Lost Cities (2008).[^ref-4][^ref-19]
 
 > [!info]- Game Info
 > **Developer:** Sierra Online Shanghai[^ref-1]
-> **Publisher:** Sierra Online / Sierra Entertainment[^ref-2]
+> **Publisher:** Sierra Online (Vivendi Games)[^ref-21][^ref-1]
 > **Designer:** N/A
-> **Engine:** Custom[^ref-1]
-> **Platforms:** Xbox 360 (XBLA)[^ref-1]
-> **Release Year:** 2006[^ref-2]
+> **Engine:** Unknown
+> **Platforms:** Xbox 360 (XBLA); backward compatible on Xbox One[^ref-1][^ref-23]
+> **Release Date:** September 3, 2008[^ref-21][^ref-11]
 > **Series:** Standalone
 > **Protagonist:** N/A
 > **Sierra Lineage:** Sierra Published
-> **Price:** 400 Microsoft Points[^ref-3]
-> **ESRB:** E (Everyone)[^ref-2]
+> **Price:** 400 Microsoft Points[^ref-21]
+> **ESRB:** E (Everyone)[^ref-21]
 
 ## Gameplay
 
 ### Interface and Controls
 
-The Xbox 360 interface displays the player's hand along the bottom of the screen with clear card selection using the controller.[^ref-1] The discard pile and deck are prominently displayed, with visual feedback for card draws and discards.
-
-The game includes options to customize rules and game variations, allowing players to match their preferred house rules or regional variants.[^ref-3]
+Gin Rummy includes a tutorial for players new to the game.[^ref-8] Eurogamer found the presentation "functional" and felt that, despite the tutorial mode, the rules were not well explained for newcomers.[^ref-22] Scoring is automatic, with a breakdown of each player's points and bonuses at the end of every match, and players can choose between colorful game skins, card decks and music.[^ref-24][^ref-8] Cards in hand can also be sorted manually.[^ref-17]
 
 ### Core Mechanics
 
-Gin Rummy adapts the classic card game rules for digital play. The goal is to arrange cards into valid combinations (melds) of either:[^ref-1]
-- **Sets** - Three or four cards of the same rank
+The game follows the standard rules of gin rummy. Each player is dealt ten cards and tries to form melds of either:[^ref-22][^ref-7]
+- **Sets** - Cards of the same rank
 - **Runs** - Three or more consecutive cards of the same suit
 
-Players draw from either the deck or discard pile each turn, then discard one card. The round ends when a player "knocks" (ends the round) or achieves "gin" (all cards in valid melds).[^ref-1]
+Unmatched cards are "deadwood". A player whose deadwood totals less than ten points can "knock" and end the hand; going "gin" means every card is melded.[^ref-22][^ref-7] Eurogamer notes the default goal is 500 points, built up over a series of 100-point games.[^ref-22]
 
 ### Game Variations
 
-The Xbox Live Arcade version includes multiple popular Gin Rummy variants:[^ref-3]
-- **Standard Gin Rummy** - Classic rules
-- **Hollywood Gin** - Three simultaneous games scored together
-- **Oklahoma Gin** - First discard determines knock threshold
-- Additional customizable rule options
+Microsoft's launch announcement lists six modes:[^ref-21]
+- **Classic Gin Rummy**
+- **Speed Gin Rummy**
+- **Oklahoma Gin** - The first upcard sets the maximum deadwood count for knocking.[^ref-7] IGN described it as adding "a random element to the number of points you're allowed to have left in your hand".[^ref-8]
+- **Hollywood Gin** - Scores are kept across three games played at the same time.[^ref-7]
+- **Three-Hand Gin**
+- **Custom rules** - Players can define their own house rules.[^ref-21][^ref-22]
+
+VG-Reloaded's reviewer did not find the custom-rules option and wrote that "it would have been nice if you could create your own custom rules".[^ref-3]
 
 ### Multiplayer Features
 
-Gin Rummy supported both single-player against AI opponents and online multiplayer through Xbox Live.[^ref-3]
-- **Offline:** 1 player vs. AI
-- **Online:** 1-4 players[^ref-2]
+Single-player matches are played against AI opponents. IGN noted that there is "no tournament or money to win" and no progression carried between matches.[^ref-8]
+- **Offline:** 1 player[^ref-23]
+- **Online:** Up to 4 players over Xbox Live, played one-on-one or two-on-two[^ref-23][^ref-8]
 
-Leaderboards and rankings provided competitive incentive for online play.[^ref-2]
+Multiplayer supports the Xbox Live Vision camera for video chat.[^ref-21][^ref-3]
 
-### Customization
+### Add-ons
 
-Players could customize various game settings to match their preferred rule variations, making the game accessible to players familiar with different regional or house rules.[^ref-3][^ref-12]
+A paid Theme Deck add-on was released in 2008. VG-Reloaded reported that new decks cost "around 100 points", and the add-on is still listed on the Xbox Store.[^ref-3][^ref-23][^ref-5]
 
 ## Reception
 
 ### Contemporary Reviews
 
-VG-Reloaded called it "nothing more than an arcade version of the classic card game, which isn't a bad thing for 400 Microsoft Points," but said its presentation and overall design held it back.[^ref-3]
+- **Eurogamer** (Dan Whitehead, 7/10) called it "a solid adaptation of a fun card game" and wrote that "at 400 Microsoft Points it's priced just right". He faulted only the drab presentation and concluded it was "a more than adequate timewaster".[^ref-22]
+- **IGN** (Hilary Goldstein, 6.3/10) praised the four extra variants and stable online play, but wanted career objectives and unlockables: "Still, Gin Rummy can get addictive. There's just not a whole heck of a lot here."[^ref-8]
+- **VG-Reloaded** (Adam W, September 24, 2008) called it "nothing more than an arcade version of the classic card game, which isn't a bad thing for 400 Microsoft Points," but said its presentation and overall design held it back.[^ref-3]
+- **WorthPlaying** wrote that "for those of us out there who still love our board, card and puzzle games, Gin Rummy is actually one of the better offerings."[^ref-26]
 
-### Modern Assessment
+### Aggregate Scores
 
-At 400 Microsoft Points, Gin Rummy was positioned as an affordable impulse purchase in the early days of Xbox Live Arcade, when the service was establishing itself as a venue for casual and classic game experiences.[^ref-3][^ref-8][^ref-10]
-
-**Aggregate Scores:**
-- **HonestGamers:** 6.7/10 (average score)[^ref-10]
-- **IGN:** Contemporary review tier (mid-range casual XBLA category)[^ref-8]
-- **Metacritic:** No aggregated Metascore (insufficient reviews)[^ref-9]
+- **Metacritic:** 63/100, "Mixed or Average", based on 10 critic reviews[^ref-9]
+- **MobyGames:** Critics score 63% (8 reviews)[^ref-23]
+- **HonestGamers:** 6.7 average, from Eurogamer (7/10) and IGN (6.3/10)[^ref-10]
 
 ## Development
 
 ### Origins
 
-Gin Rummy was developed by Sierra Online Shanghai, a development studio in China that operated under the Sierra Online brand.[^ref-1] The studio, formerly known as Studio Ch'in, specialized in digital adaptations of classic card and board games during Sierra Online's XBLA publishing era.
+Gin Rummy was developed by Sierra Online Shanghai, a Chinese studio formerly known as Studio Ch'in.[^ref-1] According to MobyGames, Vivendi acquired Secret Lair Studios and its Chinese branch Studio Ch'in in September 2006. The two studios were then renamed Sierra Online - Seattle and Sierra Online - Shanghai.[^ref-4] Wikipedia's history of Sierra Entertainment also lists Secret Lair Studios / Studio Ch'in (Seattle and Shanghai) among the studios Vivendi integrated into Sierra.[^ref-20] Eurogamer credits the developer as "Sierra Online Shanghai Studios", and the current Xbox Store listing uses the same name.[^ref-22][^ref-5]
 
-### Sierra Online Initiative
+### Sierra Online
 
-Sierra Online, established in 2006 as a division of Vivendi Universal Games, focused on casual gaming and online publishing for platforms including Xbox Live Arcade.[^ref-4] Gin Rummy was among the first titles in this initiative, followed by other card and board game adaptations including Lost Cities (2008) and Carcassonne (2007).
+Sierra Online was the Vivendi Games division for downloadable and online-only games. Wikipedia dates its founding to late 2005, while MobyGames gives 2006.[^ref-20][^ref-4] MobyGames credits the label on 18 games from 2006 to 2009. Its other Xbox 360 releases include Assault Heroes, Switchball, Carcassonne, Arkadian Warriors, Lost Cities, Assault Heroes 2, Aces of the Galaxy and Zombie Wranglers.[^ref-4] Gin Rummy arrived after both Carcassonne (June 27, 2007) and Lost Cities (2008).[^ref-19][^ref-4] It also shipped two months after Vivendi and Activision merged in July 2008 to form Activision Blizzard.[^ref-4]
 
-### Production
+### Announcement and Release
 
-The development focused on creating an intuitive controller-based interface while preserving the strategic elements of the traditional card game. Online features including matchmaking and leaderboards were implemented to encourage competitive play.[^ref-2]
-
-### Technical Achievements
-
-Gin Rummy was an **early-XBLA launch-window product** for Sierra Online, helping establish the digital-storefront pattern that Sierra would extend with Carcassonne (2007) and Lost Cities (2008)[^ref-1][^ref-4][^ref-6]. The release supported **six game modes** (Classic, Speed, Oklahoma, Hollywood and Three-Hand Gin, plus custom rules) under a single console product, with controller-tuned UI for hand selection on the bottom of the screen[^ref-1][^ref-3][^ref-12]. **Xbox Live online multiplayer** scaled to four-player matches with persistent leaderboards and ranking, leveraging the XBLA-native networking stack — a meaningful infrastructure investment for a budget card game[^ref-2][^ref-3]. The product was developed by **Sierra Online Shanghai (Studio Ch'in)**, marking one of Sierra's first published titles from a Chinese development studio and demonstrating the Vivendi-era distributed-development model[^ref-1][^ref-4][^ref-14]. The 400 Microsoft Points launch price ($5 USD equivalent) was deliberately positioned to drive impulse purchases during XBLA's establishment phase, with the game's compact scope (a single classic card game with rule variants) matching the store's casual-impulse-purchase business model[^ref-3][^ref-6][^ref-13].
+Shacknews reported on March 21, 2008 that an Xbox Live Arcade version of Gin Rummy had turned up in ESRB and USK ratings-board listings.[^ref-25] WorthPlaying published screenshots and the full feature list on April 29, 2008.[^ref-24] Microsoft's Gamerscore Blog announced the release on September 2, 2008: "Developed and published by Sierra Online, 'Gin Rummy' will be available for 400 Microsoft Points worldwide and is rated E Everyone over the age of 3 by the ESRB." The game went on sale on September 3, 2008.[^ref-21][^ref-11][^ref-10]
 
 ### Technical Specifications
 
-- **Platform:** Xbox 360 (Xbox Live Arcade)[^ref-1]
-- **Price:** 400 Microsoft Points at launch[^ref-3]
-- **Online Features:** Xbox Live multiplayer, leaderboards[^ref-3]
+- **Platform:** Xbox 360 (Xbox Live Arcade); backward compatible on Xbox One and Xbox Series X|S[^ref-1][^ref-5]
+- **Price:** 400 Microsoft Points at launch[^ref-21]
+- **Download size:** About 35 MB[^ref-2][^ref-13]
+- **Online features:** Xbox Live multiplayer for up to 4 players, Xbox Live Vision camera support[^ref-21][^ref-23]
 
 ## Legacy
 
-Gin Rummy represents the early days of Sierra Online's XBLA strategy during the Vivendi era. While not a flagship title, it demonstrated Sierra's pivot toward casual digital gaming markets alongside its traditional adventure game legacy.
-
-The game was one of several card and board game adaptations that Sierra Online Shanghai developed, establishing the studio's focus on accessible casual titles.
-
 ### Availability
 
-Like many XBLA titles from this era, Gin Rummy may no longer be available for purchase due to marketplace changes and delisting. Players seeking digital Gin Rummy experiences can find alternatives on mobile platforms and PC.
+Gin Rummy is still on sale. The game was added to Xbox One backward compatibility in April 2017, and MobyGames records a 2017 Xbox One release.[^ref-11][^ref-13][^ref-23] The Xbox 360 marketplace itself closed on July 29, 2024.[^ref-6] The Xbox Store still sells Gin Rummy and its Theme Deck add-on for play on Xbox One and Xbox Series X|S.[^ref-5] XboxAchievements lists the game at $4.99 and marks it backward compatible.[^ref-2]
+
+Current database listings name Activision as publisher of the re-release, alongside the original Sierra label.[^ref-23][^ref-13][^ref-19]
 
 ## Downloads
 
@@ -127,45 +124,44 @@ Like many XBLA titles from this era, Gin Rummy may no longer be available for pu
 
 | Store | Link | Notes |
 |-------|------|-------|
-| Xbox Marketplace | [Xbox Store — Gin Rummy](https://www.xbox.com/en-us/games/store/gin-rummy/bpzm88d5vkbs)[^ref-5] | Check current availability — early XBLA title from 2006[^ref-6] |
-| iOS | [App Store search — Gin Rummy](https://www.apple.com/app-store/) | Various third-party Gin Rummy apps available[^ref-7] |
-| Android | [Google Play search — Gin Rummy](https://play.google.com/store/search?q=gin+rummy) | Various third-party Gin Rummy apps available[^ref-7] |
+| Xbox Store | [Xbox Store — Gin Rummy](https://www.xbox.com/en-gb/games/store/gin-rummy/bpzm88d5vkbs)[^ref-5] | Still sold; plays on Xbox One and Xbox Series X\|S via backward compatibility[^ref-5][^ref-2] |
 
 ### Preservation
 
-As an early XBLA title from 2006, availability may be affected by marketplace changes. Digital-only releases from this era face ongoing preservation challenges.
+As a download-only title, Gin Rummy depends on Microsoft's store for distribution. The Xbox 360 marketplace has closed, but the game is still sold through the backward-compatible Xbox One and Series X|S store.[^ref-6][^ref-5]
 
 ## See Also
 
-Gin Rummy was Sierra Online's first foray onto Xbox Live Arcade and set the template for the publisher's three-game XBLA run: traditional tabletop games adapted for the digital storefront, developed by Sierra Online Shanghai or Sierra Online Seattle and released under the broader Sierra Online label during the Vivendi Games era.[^ref-4][^ref-6] [[2007 - Carcassonne|Carcassonne (XBLA, 2007)]] followed in 2007 with a board-game adaptation, and [[2008 - Lost Cities|Lost Cities (XBLA, 2008)]] closed out the line in 2008. All three XBLA releases have since been delisted.
+Sierra Online published Gin Rummy during its Xbox Live Arcade run under Vivendi Games. The label's tabletop adaptations included [[2007 - Carcassonne|Carcassonne (XBLA, 2007)]] and [[2008 - Lost Cities|Lost Cities (XBLA, 2008)]], and Gin Rummy followed both of them in September 2008.[^ref-4][^ref-19] Sierra Online also released action and arcade titles on Xbox 360, such as Assault Heroes and Switchball.[^ref-4]
 
-**Sierra XBLA releases (2006–2008)**
+**Sierra Online XBLA tabletop adaptations in the vault**
 
-- [[2006 - Gin Rummy]] — first XBLA release, classic card game adaptation by Sierra Online Shanghai (this page)
-- [[2007 - Carcassonne]] — board game adaptation, Sierra Online Seattle
-- [[2008 - Lost Cities]] — Reiner Knizia card game adaptation, the final XBLA title under the Sierra label
+- [[2007 - Carcassonne]] — board game adaptation (2007)
+- [[2008 - Lost Cities]] — Reiner Knizia card game adaptation (2008)
+- [[2006 - Gin Rummy|Gin Rummy (2008)]] — classic card game adaptation by Sierra Online Shanghai (this page)
 
-**Previous / Next in Sierra's XBLA timeline:** *— first XBLA release —* | *[[2007 - Carcassonne|Carcassonne (2007) →]]*
+**Previous / Next in Sierra's XBLA timeline:** *[[2008 - Lost Cities|← Lost Cities (2008)]]* | *— last of the three in the vault —*
 
 ## References
 
-[^ref-1]: [Gin Rummy (video game) - Wikipedia](https://en.wikipedia.org/wiki/Gin_Rummy_(video_game)) - Primary game information
-[^ref-2]: [Gin Rummy - Xbox Achievements](https://www.xboxachievements.com/game/gin-rummy/guide/) - Achievement guide with game details
-[^ref-3]: [XBLA Review: Gin Rummy - VG-Reloaded](https://www.vg-reloaded.com/xbla-review-gin-rummy/) - Contemporary review: six game modes, up to four online players, 400 Microsoft Points
-[^ref-4]: [Sierra Online - MobyGames](https://www.mobygames.com/company/9928/sierra-online/) - Sierra Online company information
-[^ref-5]: [Gin Rummy - Xbox Store](https://www.xbox.com/en-us/games/store/gin-rummy/bpzm88d5vkbs) - Xbox marketplace listing
-[^ref-6]: [Xbox Live Arcade - Wikipedia](https://en.wikipedia.org/wiki/Xbox_Live_Arcade) - XBLA platform history
-[^ref-7]: [Gin Rummy card game - Wikipedia](https://en.wikipedia.org/wiki/Gin_rummy) - Original card game rules and history
-[^ref-8]: [Gin Rummy Review - IGN](https://www.ign.com/articles/2008/09/04/gin-rummy-review) - IGN review
-[^ref-9]: [Gin Rummy Reviews - Metacritic](https://www.metacritic.com/game/xbox-360/gin-rummy) - Metacritic page (developer/publisher confirmed)
-[^ref-10]: [Gin Rummy - HonestGamers](https://www.honestgamers.com/62592/xbox-360/gin-rummy/game.html) - Game database entry, 6.7 average score
-[^ref-11]: [Gin Rummy for Xbox 360 - GameFAQs](https://gamefaqs.gamespot.com/xbox360/946012-gin-rummy) - GameFAQs game page
-[^ref-12]: [XBLA Review: Gin Rummy - VG-Reloaded](https://www.vg-reloaded.com/xbla-review-gin-rummy/) - "400 Microsoft Points" - review details game modes
-[^ref-13]: [Gin Rummy - TrueAchievements](https://www.trueachievements.com/game/Gin-Rummy) - Achievement tracking and game info
-[^ref-14]: [Gin Rummy - en-academic](https://en-academic.com/dic.nsf/enwiki/10905184) - Encyclopedia entry with developer/publisher info
-[^ref-15]: [Giant Bomb – Gin Rummy](https://www.giantbomb.com/gin-rummy/3005-15703/) – game database entry with platform and publisher information
-[^ref-16]: [IGDB – Gin Rummy (XBLA)](https://www.igdb.com/games/gin-rummy) — Internet Games Database entry, XBLA platform listing, Sierra Online publisher attribution
-[^ref-17]: [LaunchBox Games Database – Gin Rummy XBLA](https://gamesdb.launchbox-app.com/games/details/gin-rummy-xbla) — community-curated metadata, cover-art reference, Xbox 360 platform confirmation
-[^ref-18]: [TrueAchievements – Sierra Online XBLA publisher portfolio](https://www.trueachievements.com/publisher/Sierra+Online) — context for Sierra Online's three-title XBLA publishing run (Gin Rummy, Carcassonne, Lost Cities)
-[^ref-19]: [Xbox Live Arcade launch-era catalog (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Xbox_Live_Arcade_games) — XBLA platform launch-window context placing Gin Rummy among the early budget-tier launches
-[^ref-20]: [Sierra Online Shanghai studio profile](https://en.wikipedia.org/wiki/Sierra_Entertainment) — corporate-history context for the Shanghai (Studio Ch'in) development studio
+[^ref-1]: [Gin Rummy (video game) - Wikipedia](https://en.wikipedia.org/wiki/Gin_Rummy_(video_game)) - Developer Sierra Online Shanghai (formerly Studio Ch'in), Sierra Online label of Vivendi Games, released September 3, 2008, six variants, Xbox Live Vision support
+[^ref-2]: [Gin Rummy Achievement Guide - XboxAchievements](https://www.xboxachievements.com/game/gin-rummy/guide/) - Game info: release Sep 03, 2008, 34.45 MB, $4.99, backward compatible
+[^ref-3]: [XBLA Review: Gin Rummy - VG-Reloaded](https://www.vg-reloaded.com/xbla-review-gin-rummy/) - Review by Adam W, September 24, 2008: 400 Microsoft Points, Live Vision support, theme decks for about 100 points
+[^ref-4]: [Sierra Online - MobyGames](https://www.mobygames.com/company/9928/sierra-online/) - Company overview (Studio Ch'in acquisition, September 2006), credited on 18 games from 2006 to 2009
+[^ref-5]: [Gin Rummy - Xbox Store](https://www.xbox.com/en-gb/games/store/gin-rummy/bpzm88d5vkbs) - Current store listing: developer Sierra Online Shanghai Studios, multiplayer 1-4, Theme Deck add-on, plays on Xbox One and Series X|S
+[^ref-6]: [Xbox Live Arcade - Wikipedia](https://en.wikipedia.org/wiki/Xbox_Live_Arcade) - XBLA service history; Xbox 360 service discontinued July 29, 2024
+[^ref-7]: [Gin rummy - Wikipedia](https://en.wikipedia.org/wiki/Gin_rummy) - Card game rules, including Oklahoma and Hollywood gin variants
+[^ref-8]: [Gin Rummy Review - IGN](https://www.ign.com/articles/2008/09/04/gin-rummy-review) - Review by Hilary Goldstein, 6.3/10: tutorial, four extra modes, online 1v1 or 2v2
+[^ref-9]: [Gin Rummy (2008) - Metacritic](https://www.metacritic.com/game/gin-rummy-2008/) - Metascore 63 based on 10 critic reviews; released September 3, 2008; developer Sierra Online Shanghai
+[^ref-10]: [Gin Rummy - HonestGamers](https://www.honestgamers.com/62592/xbox-360/gin-rummy/game.html) - Game database entry: released 09/03/2008, 6.7 average from Eurogamer 7/10 and IGN 6.3/10
+[^ref-11]: [Gin Rummy for Xbox 360 - GameFAQs](https://gamefaqs.gamespot.com/xbox360/946012-gin-rummy) - Developer Sierra Online Shanghai, publisher Sierra On-Line, release September 3, 2008; backward compatibility news (April 2017)
+[^ref-13]: [Gin Rummy - TrueAchievements](https://www.trueachievements.com/game/Gin-Rummy) - Game info (publishers Sierra Entertainment and Activision, 35 MB, backwards compatible) and backward-compatibility news
+[^ref-17]: [Gin Rummy - LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/131822-gin-rummy) - Xbox 360 entry: released September 3, 2008, up to 4 players, cards can be sorted manually
+[^ref-19]: [List of Xbox 360 games (A–L) - Wikipedia](https://en.wikipedia.org/wiki/List_of_Xbox_360_games_(A%E2%80%93L)) - Gin Rummy (XBLA, Sep 3, 2008, Xbox One compatible) and Carcassonne (XBLA, Jun 27, 2007) entries
+[^ref-20]: [Sierra Entertainment - Wikipedia](https://en.wikipedia.org/wiki/Sierra_Entertainment) - Corporate history: Sierra Online founded late 2005, Secret Lair Studios / Studio Ch'in (Seattle and Shanghai) integrated into Sierra
+[^ref-21]: [Xbox LIVE Arcade Continues to Bring the Heat with New Titles Launching this Week - Gamerscore Blog (Wayback, September 5, 2008)](https://web.archive.org/web/20080905085730/http://gamerscoreblog.com/press/archive/2008/09/02/rmynjaprtdgercd.aspx) - Microsoft press post, September 2, 2008: six modes, 4-player matches, Live Vision, "Developed and published by Sierra Online", 400 points, rated E
+[^ref-22]: [Xbox Live Arcade Roundup (page 2) - Eurogamer](https://www.eurogamer.net/xbox-live-arcade-roundup-2?page=2) - Review by Dan Whitehead, September 2008, 7/10: rules, tutorial, custom rule sets, camera support
+[^ref-23]: [Gin Rummy (2008) - MobyGames](https://www.mobygames.com/game/47669/gin-rummy/) - Released September 3, 2008; publishers Sierra Online and Activision; 2017 Xbox One release; 1 offline and 4 online players; critics 63%; Theme Deck add-on
+[^ref-24]: [Gin Rummy Announced - Screens - WorthPlaying](https://worthplaying.com/article/2008/4/29/news/50859-gin-rummy-announced-screens/) - April 29, 2008 announcement with feature list: six modes, auto-scoring, themes, multiplayer, Live Vision
+[^ref-25]: [Report: Ticket to Ride, Gin Rummy Coming to XBLA - Shacknews](https://www.shacknews.com/article/51882/report-ticket-to-ride-gin) - Aaron Linde, March 21, 2008: Gin Rummy found in ratings-board listings
+[^ref-26]: [WorthPlaying: Gin Rummy Review - N4G](https://n4g.com/news/209282/worthplaying-gin-rummy-review) - 2008 excerpt from WorthPlaying's review
