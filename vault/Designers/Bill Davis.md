@@ -1,148 +1,144 @@
 ---
 title: "Bill Davis"
 type: designer
-birth_year: 1949
+birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Space Quest IV", "Jones in the Fast Lane", "Obsidian"]
-companies: ["Sierra On-Line", "Rocket Science Games", "SegaSoft", "Mother Productions", "iWin"]
-last_updated: "2026-05-08"
+companies: ["Sierra On-Line", "Rocket Science Games", "Mother Productions", "iWin"]
+last_updated: "2026-10-15"
 ---
 # Bill Davis
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-William Robert Davis (born May 1949) is an Emmy Award-winning American illustrator, animation director, graphic designer, and game industry pioneer who served as Vice President of Development and Creative Director at Sierra On-Line from 1989 to 1996.[^ref-1] His arrival at Sierra marked a turning point in the company's approach to game development, as he introduced Hollywood production techniques including storyboarding, rotoscoping, and advanced animation methods that transformed the artistic quality of Sierra's games during their golden age.[^ref-2]
+William Robert Davis is an Emmy Award-winning American illustrator, animation director, graphic designer and painter[^ref-1] who was Sierra On-Line's first Creative Director, from 1989 until he joined Rocket Science Games in February 1996.[^ref-8][^ref-15][^ref-5] At Sierra he brought film-production methods into game development, including storyboarding, rotoscoping, squash-and-stretch animation and art painted in traditional media and scanned into the games.[^ref-8][^ref-15]
 
-Before entering the game industry, Davis had established himself in broadcast television as lead graphic designer at NBC, where he won an Emmy Award for Outstanding Achievement in Graphic Design and Title Sequences for his work on NBC's "The First 50 Years: A Closer Look" in 1978.[^ref-3] He also created over 200 "More to Come" slides for The Tonight Show Starring Johnny Carson and designed the logo for The Gong Show.[^ref-4] This background in professional animation and broadcast design uniquely positioned him to elevate Sierra's visual standards during the company's transition to CD-ROM and VGA technology.
+Before entering the game industry, Davis was lead graphic artist for NBC studios, where he won an Emmy in 1978 for his work on NBC's "The First 50 Years: A Closer Look".[^ref-8][^ref-3] He also created over 200 "More to Come" slides for The Tonight Show Starring Johnny Carson and designed the logo for The Gong Show.[^ref-8][^ref-4]
 
-After departing Sierra, Davis served as Vice President of Development and Creative Director at Rocket Science Games from 1996, where he oversaw ambitious multimedia projects including The Space Bar, Rocket Jockey, and Obsidian (1997).[^ref-5] He later founded Mother Productions and continued contributing to the gaming industry as an art director on the Jewel Quest series in the late 2000s.[^ref-6]
+After Sierra, Davis was vice president of product development at Rocket Science Games, where he was credited on Rocket Jockey, Obsidian and The Space Bar.[^ref-5][^ref-11] In 2001 he opened Mother Productions, an LA-based animation house,[^ref-6] and later worked as an art director on iWin's Jewel Quest games.[^ref-18]
 
 ## Career
 
 ### Early Career
 
-Davis was born in May 1949 in downtown Los Angeles and raised in the coastal community of Venice.[^ref-7] Coming from a family with strong artistic traditions—both his mother and maternal grandfather were artists—Davis pursued formal training at the California Institute of the Arts, graduating in 1971 with a BFA degree and high honors.[^ref-7]
+Davis was born in downtown Los Angeles and raised in the coastal community of Venice; both his mother and his maternal grandfather were artists.[^ref-7] He graduated with high honors from the Chouinard Art School (CalArts) with a BFA.[^ref-8][^ref-7]
 
-His television career began at NBC, where he served as lead graphic designer and earned recognition for his animated title sequences.[^ref-3] The Emmy Award he received in 1978 acknowledged his ability to combine animation, design, and storytelling in ways that would later prove invaluable in game development. After NBC, Davis worked as an animation director and designer for Kurtz & Friends, further developing his expertise in traditional animation techniques.[^ref-1]
+He was lead graphic artist for NBC studios, and the Emmy he won in 1978 came from an in-house NBC project, "The First 50 Years".[^ref-8][^ref-3] He later said the Emmy brought him back into animation, and that Kurtz and Friends, one of the companies that had bid on the project, became his employer.[^ref-8] He spent eleven years as a designer/director at Kurtz and Friends, a Los Angeles producer of animated commercials.[^ref-8]
 
 ### Sierra Years (1989–1996)
 
-In July 1989, Ken Williams recruited Davis from Hollywood to serve as Vice President of Development and Sierra's first Creative Director.[^ref-8] By the late 1980s, Sierra had embraced emerging technologies including CD-ROMs, sound cards, and VGA displays, which allowed games to achieve theatrical quality similar to animated or live-action films. Davis was brought in to adapt Hollywood creative approaches and production techniques to these new capabilities.[^ref-2]
+Davis was appointed Creative Director at Sierra On-Line in July 1989.[^ref-8] He later described the post as "Chief Creative Officer/Vice President of Development",[^ref-12] and the 1996 Rocket Science announcement called him Sierra's "vice president of creative development".[^ref-5] Recalling his arrival, he said Sierra "had a handful of artists, about five artists I think; most of them there were self-trained. I realised they had no production system".[^ref-15]
 
-During his tenure, Davis introduced storyboarding—a method adapted from film production—into Sierra's game development process.[^ref-9] This technique improved planning and execution, leading to more consistent and visually engaging games while facilitating team expansion without proportionately extending project timelines. He brought traditional media such as painting and sculpting into Sierra's game design, moving away from the prevalent low-resolution digital creation methods. Under his direction, artists drew backgrounds and animations by hand before scanning them into games, achieving sharper, more realistic visuals.[^ref-2]
+Sierra News Magazine described "a new cinematic process" that arrived with him: the design document was taken to storyboard, "the text narrative drawn in pencil on paper", so that the designer, art designer, lead programmer and music director could see the whole game before any computer work began; the issue reproduced drawings from the Jones storyboard.[^ref-8] Davis also had backgrounds and animation done in traditional media and scanned into the games, which, he said, "allowed us to key scenes for other people and send them overseas to places like Korea and have them paint them."[^ref-15]
 
-Davis introduced advanced animation techniques including rotoscoping and squash and stretch to improve the realism and expressiveness of character movements.[^ref-9] Recognizing the need for structured visual oversight, he established the role of art director at Sierra to unify the visual components of games. He also initiated outsourcing animation work to international studios—a practice borrowed from the traditional animation industry but relatively new to video games at the time.[^ref-2]
+He introduced rotoscoping (with programmer Dan Foy building a capture setup) and hired animators to do squash-and-stretch animation, wanting a character like King Graham rotoscoped while dwarves and trolls were squash-and-stretch.[^ref-15] He also introduced the role of Art Director, giving one person oversight of each game's art.[^ref-15]
 
-Davis advocated for maintaining a consistent art style across Sierra's game series, a shift from earlier practices where each title had a distinct look.[^ref-2] For example, he explored cubism for Leisure Suit Larry to reflect its quirky tone, persuading creator Al Lowe to adopt a cartoonish style that emphasized the game's wild visual humor.[^ref-10]
+Davis encouraged a more consistent art style within each series.[^ref-15] For the 1991 VGA remake of Leisure Suit Larry, Al Lowe first wanted video-captured characters, but Davis still saw Larry as a cartoon character; "after an epic debate", they settled on a cartoon Larry.[^ref-10] Davis later recalled suggesting cubism for Larry because "it would suit the kind of wacky world that Larry lived in."[^ref-15]
 
-His credits at Sierra span many of the company's most acclaimed titles from this era, including King's Quest V, Space Quest IV, Jones in the Fast Lane, the Leisure Suit Larry series, Police Quest III, Quest for Glory II and III, EcoQuest, Conquests of the Longbow, both Dr. Brain games, the Hoyle series, and all five Crazy Nick's Software Picks titles.[^ref-11]
+Sierra News Magazine called him the "Jones designer" when Jones in the Fast Lane "just hit the streets" in late 1990, and named him the project's art director.[^ref-14] His Sierra credits include King's Quest V, Space Quest IV, Jones in the Fast Lane, Leisure Suit Larry 1 (VGA) and 5, Police Quest III, Quest for Glory II, EcoQuest, Conquests of the Longbow, Castle of Dr. Brain, Hoyle Volume 3 and all five Crazy Nick's Software Picks titles.[^ref-11] He also voiced the Hermit in King's Quest V.[^ref-11] The 1996 Rocket Science release said six of his Sierra games were nominated for SPA awards in 1992.[^ref-5]
 
-### Rocket Science Games (1996–1998)
+### Rocket Science Games (1996–1997)
 
-In February 1996, Davis left Sierra to become Vice President of Development and Creative Director at Rocket Science Games, a San Francisco-based developer known for ambitious multimedia projects.[^ref-5] At Rocket Science, he served as Executive Producer on Rocket Jockey (1996), an innovative action game featuring futuristic rocket-powered jousting, and The Space Bar (1997), an adventure game developed in collaboration with Steve Meretzky.[^ref-11]
-
-Davis also served as Studio Creative Director on Obsidian (1997), developed by Rocket Science Games and published by SegaSoft.[^ref-11] This surrealist adventure game, featuring pre-rendered graphics and live-action video, showcased the production values Davis had championed at Sierra applied to an entirely new creative vision.
+On February 13, 1996, Rocket Science Games announced the hiring of Davis as vice president of product development, reporting to COO Jim Wickett and leading game design and production for the studio.[^ref-5] Other accounts describe him there as vice-president of development and creative director.[^ref-2][^ref-6] MobyGames credits him as executive producer on Rocket Jockey (1996) and The Space Bar (1997), and as studio creative director on Obsidian (1997).[^ref-11] The Space Bar was developed by Steve Meretzky's Boffo Games and published by Rocket Science Games and SegaSoft.[^ref-17] Rocket Science closed in April 1997.[^ref-16]
 
 ### Later Career
 
-After Rocket Science Games closed in 1998, Davis founded Mother Productions, a graphic design firm creating animation, motion graphics, logos, and other graphic designs for on-air and online purposes.[^ref-6]
+Davis then worked as a freelancer before opening Mother Productions, an LA-based animation house, in 2001.[^ref-6]
 
-In the late 2000s, Davis returned to game development as an Art Director at iWin, working on the Jewel Quest series of puzzle games including Jewel Quest Mysteries: Trail of the Midnight Heart (2009), Jewel Quest IV: Heritage (2009), and Jewel Quest Mysteries: The Seventh Gate (2011).[^ref-11]
+In 2009–2011 he was credited as art director on several of iWin's Jewel Quest games, including Jewel Quest Mysteries: Trail of the Midnight Heart (2009), Jewel Quest IV: Heritage (2009) and Jewel Quest Mysteries: The Seventh Gate (2011), and as creative director on Jewel Quest: The Sapphire Dragon (2011).[^ref-18][^ref-11]
 
-Since the 2000s, Davis has maintained an active fine art practice under the artistic persona Trowzers Akimbo, creating landscape paintings primarily focused on Yosemite National Park and the surrounding Sierra Nevada region.[^ref-12] He lives in Oakhurst, California with his wife, Betty Tikker Davis.[^ref-13]
+He also paints under the name Trowzers Akimbo, often on location in Yosemite National Park, and works from a home studio in Oakhurst, California.[^ref-12]
 
 ## Notable Works
 
 ### King's Quest V: Absence Makes the Heart Go Yonder (1990)
 
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] showcased the production improvements Davis brought to Sierra, with enhanced animation quality and visual consistency that set new standards for the franchise.[^ref-11] The game's VGA graphics demonstrated the benefits of Davis's approach to art direction, and its success—becoming the best-selling adventure game of all time—validated the company's investment in higher-fidelity visuals.
+Davis was Creative Director on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], and he voiced the Hermit.[^ref-11] He recalled: "When we came out with King's Quest V, the first VGA version of the game, we heard through the pipeline that LucasArts was furious".[^ref-15] The 1996 Rocket Science release called it "the SPA award-winning King's Quest V."[^ref-5]
 
 ### Space Quest IV: Roger Wilco and the Time Rippers (1991)
 
-[[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] benefited from Davis's animation expertise, featuring more expressive character movements and improved visual storytelling.[^ref-11] The game's time-traveling narrative allowed for varied visual environments that demonstrated the flexibility of Davis's production methods.
+Davis is credited as Creative Director on [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]].[^ref-11]
 
-### Jones in the Fast Lane (1991)
+### Jones in the Fast Lane (1990)
 
-[[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] was illustrated by Davis himself, showcasing the rotoscoping and storyboarding techniques he had introduced to Sierra.[^ref-9] The Spring 1991 edition of Sierra Magazine featured Davis's cover illustration for the game, highlighting his hands-on artistic contributions alongside his management role.
+[[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] was the project Sierra News Magazine used to show his storyboard process, reproducing drawings from the "Keeping Up With Jones" storyboard.[^ref-8] The Fall 1990 issue called him the "Jones designer" and quoted him: "This is the game you'll bring out when friends drop by, or when the family just can't take one more evening of Trivial Pursuit."[^ref-14] MobyGames credits him as Creative Director.[^ref-11]
 
 ### Slater & Charlie Go Camping (1993)
 
-[[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]] represented one of Davis's most comprehensive creative involvements, with credits for writing, directing, producing, art direction, character design, and gag writing.[^ref-11] This children's title demonstrated his versatility across multiple aspects of game development.
+On [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]], Davis is credited with "Written, Produced and Directed by", as one of the gag writers, and with art direction.[^ref-11]
 
 ### Obsidian (1997)
 
-Obsidian represented Davis's post-Sierra work at Rocket Science Games, where he served as Studio Creative Director.[^ref-11] This surrealist adventure game combined pre-rendered 3D graphics with live-action video sequences, demonstrating that the production techniques Davis had refined at Sierra could be applied to entirely new creative visions.
-
-## Design Philosophy
-
-Davis's approach to game development emphasized the application of proven film and television production techniques to the emerging medium of video games.[^ref-2] His introduction of storyboarding reflected a belief that games should be planned with the same rigor as animated films, with clear visual direction established before production began. This philosophy improved both the quality and efficiency of Sierra's development process.
-
-His advocacy for traditional artistic techniques—hand-drawn animations and backgrounds, rotoscoping for realistic movement—represented a conscious choice to elevate game graphics beyond the limitations of purely digital creation methods available at the time.[^ref-9] Davis understood that the transition to VGA and CD-ROM technology created an opportunity to bring cinematic quality to games, and he worked to ensure Sierra seized that opportunity.
+At Rocket Science Games, Davis was studio creative director on Obsidian.[^ref-11]
 
 ## Legacy
 
-Bill Davis's tenure at Sierra On-Line represents a pivotal moment in the evolution of video game production.[^ref-2] By importing established Hollywood techniques into game development, he helped transform Sierra's approach from programmer-centric to production-oriented, establishing practices that would become industry standards. His creation of the art director role and initiation of international animation outsourcing anticipated the globalized, specialized production pipelines that characterize modern game development.[^ref-8]
-
-The visual quality improvements visible in Sierra's games from 1990 onwards reflect Davis's influence, as the company's titles achieved a level of artistic polish that distinguished them from competitors.[^ref-11] His Emmy Award-winning background brought credibility and expertise that helped legitimize video games as a visual medium worthy of serious artistic attention.
+Adventure Gamers' Sierra retrospective calls Davis "Sierra's first Creative Director" and credits him with introducing the Art Director role, rotoscoping and traditional-media art to the company's VGA-era games.[^ref-15]
 
 ## Games
 
 ### Sierra On-Line (1989–1996)
 
+Roles follow MobyGames' credit wording.[^ref-11]
+
+
 - **1990** — [[1990 - Oils Well|Oil's Well]] — Role: Creative Director
 - **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Creative Director
-- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Creative Director
-- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI)]] — Role: Creative Director
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Creative Director; voice of the Hermit
+- **1991** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI/CD)]] — Role: Creative Director; Singers
 - **1991** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle: Official Book of Games - Volume 3]] — Role: Creative Director
 - **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] — Role: Creative Director
 - **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Creative Director
 - **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Creative Director
-- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Creative Director, Illustrator
+- **1990** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Creative Director
 - **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Creative Director
 - **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] — Role: Creative Director
 - **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1 VGA]] — Role: Creative Director
 - **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Creative Director
 - **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Creative Director
+- **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]] — Role: Creative Director; Manual Illustrations
 - **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Creative Director
-- **1992** — [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]] — Role: Creative Director
 - **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest 1 VGA]] — Role: Creative Director
-- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Creative Director
 - **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I VGA]] — Role: Creative Director
 - **1992** — [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's: King Graham's Board Game Challenge]] — Role: Director
 - **1992** — [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino|Crazy Nick's: Leisure Suit Larry's Casino]] — Role: Director
 - **1992** — [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|Crazy Nick's: Parlor Games with Laura Bow]] — Role: Director
 - **1992** — [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|Crazy Nick's: Robin Hood's Games of Skill and Chance]] — Role: Director
 - **1992** — [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Crazy Nick's: Roger Wilco's Spaced Out Game Pack]] — Role: Director
-- **1993** — [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest 2: Lost Secret of the Rainforest]] — Role: Quality Assurance
 - **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Role: Original Concept
-- **1993** — [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]] — Role: Writer, Director, Producer, Art Director
-- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Role: Configuration Group
+- **1993** — [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]] — Role: Written, Produced and Directed by; Gag writers; Art Direction
 
 ### Post-Sierra (1996–2011)
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
-| 1996 | Rocket Jockey | Rocket Science Games / SegaSoft | Executive Producer |
-| 1997 | Obsidian | Rocket Science Games / SegaSoft | Studio Creative Director |
-| 1997 | The Space Bar | Rocket Science Games / SegaSoft | Executive Producer |
+| 1996 | Rocket Jockey | Rocket Science Games (published by SegaSoft) | Executive Producer |
+| 1997 | Obsidian | Rocket Science Games (published by SegaSoft) | Studio Creative Director |
+| 1997 | The Space Bar | Boffo Games (published by Rocket Science Games and SegaSoft)[^ref-17] | Executive Producer |
 | 2009 | Jewel Quest Mysteries: Trail of the Midnight Heart | iWin | Art Director |
 | 2009 | Jewel Quest IV: Heritage | iWin | Art Director |
+| 2009 | Jewel Quest Solitaire III | iWin | Art Director |
+| 2009 | Coconut Queen | iWin | iWin Art Director |
 | 2011 | Jewel Quest Mysteries: The Seventh Gate | iWin | Art Director |
+| 2011 | Jewel Quest: The Sapphire Dragon | iWin | Creative Director |
 
 ## References
 
 [^ref-1]: [MobyGames - Bill Davis](https://www.mobygames.com/person/40190/bill-davis/) — Career profile and game credits
-[^ref-2]: [Wikipedia - Bill Davis (artist)](https://en.wikipedia.org/wiki/Bill_Davis_(artist))) — Biography and Sierra career
+[^ref-2]: [Wikipedia - Bill Davis (artist)](https://en.wikipedia.org/wiki/Bill_Davis_%28artist%29) — Biography and Sierra career
 [^ref-3]: [Wikipedia — Primetime Emmy Award for Outstanding Title Design](https://en.wikipedia.org/wiki/Primetime_Emmy_Award_for_Outstanding_Title_Design) — 1978 (30th): "NBC: The First Fifty Years - A Closer Look — Bill Davis, graphic designer, NBC"
 [^ref-4]: [Sierra Sun Times - Sierra Art Trails Featured Artist: Trowzers Akimbo](https://goldrushcam.com/sierrasuntimes/index.php/news/advertising-specials/1009-sierra-art-trails-featured-artist-trowzers-akimbo) — The Gong Show logo design and Tonight Show work
-[^ref-5]: [Business Wire - Rocket Science Games on New Trajectory with Strong Studio Team](http://findarticles.com/p/articles/mi_m0EIN/is_1996_Feb_13/ai_17991583) — February 1996 hiring announcement
-[^ref-6]: [Boards Magazine - Davis Births Mother](https://web.archive.org/web/20110708075043/http://www.boardsmag.com/articles/magazine/20010901/davis.html) — Mother Productions founding
+[^ref-5]: [Business Wire - Rocket Science Games on New Trajectory with Strong Studio Team (Wayback)](https://web.archive.org/web/20081011122019/http://findarticles.com/p/articles/mi_m0EIN/is_1996_Feb_13/ai_17991583) — February 13, 1996: Davis hired as vice president of product development
+[^ref-6]: [Boards Magazine - Davis Births Mother](https://web.archive.org/web/20110708075043/http://www.boardsmag.com/articles/magazine/20010901/davis.html) — September 1, 2001: Mother Productions opened as an LA-based animation house
 [^ref-7]: [Trowzers Akimbo - About](https://www.trowzersakimbo.com/html/about.html) — Personal background and early life
-[^ref-8]: [Sierra News Magazine](https://www.sierragamers.com/) — July 1989 hiring announcement
-[^ref-9]: [King's Quest Omnipedia - Bill Davis](https://kingsquest.fandom.com/wiki/Bill_Davis) — Complete Sierra credits and roles
-[^ref-10]: [Sierra/Dynamix News Magazine - Larry's New Look](https://archive.org/details/interactionmagazine) — Summer 1991, Leisure Suit Larry cubist style
-[^ref-11]: [MobyGames - Bill Davis Credits](https://www.mobygames.com/person/40190/bill-davis/credits/) — 53 credits on 36 games
-[^ref-12]: [Sierra News Online - Trowzers Akimbo: Multiple-Point Perspectives](https://sierranewsonline.com/trowzers-akimbo-sierra-art-trails-2015-2/) — Fine art practice
-[^ref-13]: [Sierra Sun Times - Emmy Award Winning Oakhurst Artist Bill Davis Creates Painting for Valley Children's Hospital](https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/5241-emmy-award-winning-oakhurst-artist-bill-davis-creates-painting-for-valley-children-s-hospital) — Current residence
+[^ref-8]: [Sierra News Magazine Vol. 3 No. 2 (Summer 1990)](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_2_Summer_1990) — p.16 "Bill Davis — Creative Director" (appointed July 1989, Chouinard BFA, NBC, Kurtz and Friends); p.17 storyboard process
+[^ref-10]: [Sierra-Dynamix News Magazine Vol. 4 No. 2 (Summer 1991)](https://archive.org/details/Sierra-Dynamix_News_Magazine_Volume_4_Number_2_Summer_1991_1991_Sierra_On-Line_US) — Larry I VGA: cartoon Larry vs video capture debate
+[^ref-11]: [MobyGames - Bill Davis credit sheet (Wayback, December 2022)](https://web.archive.org/web/20221209045526/https://www.mobygames.com/developer/sheet/view/developerId,40190/) — Full game credits with role wording
+[^ref-12]: [Sierra News Online - Trowzers Akimbo: Multiple-Point Perspectives](https://sierranewsonline.com/trowzers-akimbo-sierra-art-trails-2015-2/) — Fine art practice, Oakhurst studio, 1989 move to Sierra
+[^ref-14]: [Sierra News Magazine Vol. 3 No. 3 (Fall 1990)](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) — "Jones designer Bill Davis"; Jones "has just hit the streets"
+[^ref-15]: [Adventure Gamers - A Sierra Retrospective: Part 4 (Wayback, April 2024)](https://web.archive.org/web/20240417005952/https://adventuregamers.com/articles/view/a-sierra-retrospective-part-4-canvassing-ever-changing-art) — Davis interview: first Creative Director, Art Director role, rotoscoping, traditional media, cubism for Larry
+[^ref-16]: [Wikipedia - Rocket Science Games](https://en.wikipedia.org/wiki/Rocket_Science_Games) — "RSG was forced to close down in April 1997"
+[^ref-17]: [Wikipedia - The Space Bar](https://en.wikipedia.org/wiki/The_Space_Bar) — Developed by Boffo Games, published by Rocket Science Games and SegaSoft
+[^ref-18]: [MobyGames - Bill Davis (Wayback, August 2025)](https://web.archive.org/web/20250831014954/https://www.mobygames.com/person/40190/bill-davis/) — Recent credits incl. Jewel Quest titles; "Credited on 36 games"
