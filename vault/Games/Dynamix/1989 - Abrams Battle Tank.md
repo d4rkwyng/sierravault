@@ -11,7 +11,7 @@ series: null
 engine: null
 protagonist: "M1A1 Abrams tank commander (player)"
 sierra_lineage: "Sierra Label (Dynamix)"
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 description: "Abrams Battle Tank is a 1989 M1A1 tank simulation for MS-DOS, developed by Dynamix and published by Electronic Arts before Sierra acquired Dynamix; a Sega Genesis port followed in 1991."
 tags: [1980s, simulation, tank, dynamix, electronic-arts, damon-slye]
 composer: null
@@ -19,7 +19,7 @@ composer: null
 
 # Abrams Battle Tank
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -97,9 +97,10 @@ Brooks pointed out that the game omits several real tank rounds (HEP, APERS, AP 
 
 | Publication | Date | Verdict |
 |-------------|------|---------|
-| *Computer Gaming World* (M. Evan Brooks) | June 1989 | 2.5/5 stars[^ref-11][^ref-3] |
+| *Computer Gaming World* (M. Evan Brooks) | June 1989 | Unrated: a good game, but "not a simulation"[^ref-3] |
 | *Compute!* (Peter Scisco) | June 1989 | Recommended, with reservations about realism[^ref-4] |
 | *Dragon* (Hartley, Patricia and Kirk Lesser) | July 1989 | 3/5 stars[^ref-11][^ref-10] |
+| *Computer Gaming World* wargame survey | June 1992 | Two stars plus (2+/5)[^ref-12] |
 | *Computer Gaming World* wargame survey | January 1994 | 2/5 stars[^ref-9] |
 
 M. Evan Brooks reviewed the game for *Computer Gaming World* under the headline "High Powered Pillbox". He praised the zoom feature and the terrain graphics, but he faulted the hidden slope gradients and, above all, the military doctrine.[^ref-3] His conclusion: "Abrams Battle Tank succeeds as something more than an arcade-type game. It does require planning and careful execution; however, it is not a simulation and should not be treated as such."[^ref-3] He also wrote that Colonel Wilson's briefings left him "personally affronted" as a serving reserve officer.[^ref-3]
@@ -110,7 +111,7 @@ Peter Scisco of *Compute!* agreed that the game did not reflect real NATO defens
 
 ### Modern Assessment
 
-*Computer Gaming World* repeated the same capsule judgment in its June 1992 and January 1994 wargame surveys: "The first serious contemporary tank simulation for the faster 16-bit machines, this product has been superseded by later releases (cf. M-1 Tank Platoon, Tank)." Both surveys also faulted the terrain elevation and the decision to model a single tank rather than a company or squadron.[^ref-12][^ref-9] Wikipedia reports that *PC Gamer US* named it the 50th best computer game ever in 1994.[^ref-11]
+*Computer Gaming World* repeated a near-identical capsule judgment in its June 1992 and January 1994 wargame surveys: "The first serious contemporary tank simulation for the faster 16-bit machines, this product has been superseded by later releases (cf. M-1 Tank Platoon, Tank)." Both surveys also faulted the terrain elevation and the decision to model a single tank rather than a company or squadron.[^ref-12][^ref-9] Wikipedia reports that *PC Gamer US* named it the 50th best computer game ever in 1994.[^ref-11]
 
 On aggregate sites, an archived MobyGames page from 2015 showed a critic score of 62 out of 100.[^ref-2] MyAbandonware visitors rate it 4.1 out of 5.[^ref-13]
 
@@ -178,7 +179,7 @@ MobyGames records a Hebrew release titled *Krav Hatankim*, and an alternate US t
 
 Abrams Battle Tank comes from Dynamix's pre-Sierra period, when the studio built 3D games for Electronic Arts and then for Activision.[^ref-6]
 
-- **Previous:** Arcticfox (1986, Electronic Arts; no SierraVault page yet), Dynamix's earlier tank game[^ref-6]
+- **Previous:** [[1986 - Arcticfox|Arcticfox]] (1986, Electronic Arts), Dynamix's earlier tank game[^ref-6]
 - **Next:** [[1989 - MechWarrior|MechWarrior]] (December 1989, Activision), built partly by the same team[^ref-16]
 - [[1989 - A-10 Tank Killer]]
 - [[1989 - David Wolf - Secret Agent]], another 1989 Dynamix title
@@ -198,7 +199,7 @@ Abrams Battle Tank comes from Dynamix's pre-Sierra period, when the studio built
 [^ref-9]: [Computer Gaming World #114 (January 1994), M. Evan Brooks, "War In Our Time" wargame survey – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_114) – two-star rating, "superseded by later releases (cf. M-1 Tank Platoon, Tank)"
 [^ref-10]: [Dragon #147 (July 1989), Hartley, Patricia and Kirk Lesser, "The Role of Computers" – Internet Archive](https://archive.org/details/DragonMagazine260_201801/DragonMagazine147) – review: designers Slye and McClurg, media, graphics modes, stations, ammunition ranges, cannon
 [^ref-11]: [Wikipedia – Abrams Battle Tank](https://en.wikipedia.org/wiki/Abrams_Battle_Tank) – Genesis port details (Realtime, Carrier Command engine), 1988 date, PC Gamer US 1994 ranking, Dragon and CGW ratings
-[^ref-12]: [Computer Gaming World #95 (June 1992), M. Evan Brooks, "The Modern Games: 1950–2000", p. 120 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_95) – survey entry, 1989 date, "first serious contemporary tank simulation" capsule
+[^ref-12]: [Computer Gaming World #95 (June 1992), M. Evan Brooks, "The Modern Games: 1950–2000", p. 120 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_95) – survey entry, 1989 date, rating printed as two stars plus ("\*\*+") on the p. 120 page scan, "first serious contemporary tank simulation" capsule
 [^ref-13]: [MyAbandonware – Abrams Battle Tank](https://www.myabandonware.com/game/abrams-battle-tank-ee) – DOS 1989, publisher Electronic Arts, developer Dynamix, alternate names, user rating 4.1/5
 [^ref-14]: [Wikipedia – Dynamix](https://en.wikipedia.org/wiki/Dynamix) – founding by Tunnell and Slye in Eugene, games for Penguin Software and Electronic Arts, 1990 Sierra acquisition, Red Baron
 [^ref-15]: [Computer Gaming World #153 (April 1997), sidebar "Getting Your Bearings In The 'Mech Universes" – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_153) – Dynamix leaving EA, 3Space engine, Activision deal for MechWarrior
