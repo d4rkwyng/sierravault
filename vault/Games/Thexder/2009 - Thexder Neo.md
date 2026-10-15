@@ -30,9 +30,9 @@ Critics were unimpressed. Destructoid's James Stephanie Sterling gave it 3.0 out
 Thexder Neo was never published by Sierra. Its only Sierra connection is that Sierra On-Line imported and published the original Thexder in the United States in the 1980s[^ref-33][^ref-34].
 
 > [!info]- Game Info
-> **Developer:** [[Zereo]] (presented by [[Game Arts]])[^ref-32]
+> **Developer:** Zereo (presented by [[Game Arts]])[^ref-32]
 > **Designer:** Masayuki Shimada (director)[^ref-32]
-> **Publisher:** [[Square Enix]][^ref-1]
+> **Publisher:** Square Enix[^ref-1]
 > **Engine:** Unknown
 > **Platforms:** PlayStation Portable, PlayStation 3[^ref-9]
 > **Release Year:** 2009 (PSP), 2010 (PS3)[^ref-9]
