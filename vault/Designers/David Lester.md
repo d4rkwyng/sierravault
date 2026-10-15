@@ -3,126 +3,122 @@ title: "David Lester"
 type: designer
 birth_year: null
 death_year: null
-notable_games: ["Caesar", "Caesar III", "Lords of the Realm II", "Stronghold"]
-companies: ["Impressions Games", "Sierra Entertainment", "Firefly Studios", "Crimson Publishing"]
-last_updated: "2026-05-08"
+notable_games: ["Caesar", "Caesar III", "Lords of the Realm", "Lords of the Realm II"]
+companies: ["Impressions Games", "Sierra On-Line", "Firefly Studios", "Crimson Publishing"]
+last_updated: "2026-10-15"
 ---
 # David Lester
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-David Lester stands as one of the most successful business-minded game designers in the history of the computer gaming industry.[^ref-2] A UK native who founded Impressions Games at the remarkable age of 22, Lester transformed from an accountancy-trained professional into a pioneering force in strategy gaming during the industry's formative years.[^ref-1][^ref-13] His career trajectory embodies a unique blend of business acumen and creative vision that distinguished him from the typical programmer-turned-designer archetype of early gaming.[^ref-10] As one industry observer noted, "When people think about video game creators, they always have this idea of brilliant programmers having fun, and doing what they love, making money being not really important for them.[^ref-12] UK native David Lester is the exception to that rule."[^ref-1][^ref-14]
+David Lester is a British entrepreneur who founded Impressions Games and designed or co-designed several of its strategy games, including Caesar, Caesar II, Caesar III and Lords of the Realm II.[^ref-2][^ref-16] Trained as an accountant at Arthur Young, he founded Impressions in 1988, aged 22, according to a 2013 interview with him.[^ref-2] GamesNostalgia's profile of him opens: "When people think about video game creators, they always have this idea of brilliant programmers having fun, and doing what they love, making money being not really important for them. UK native David Lester is the exception to that rule."[^ref-1]
 
-Lester's impact on the gaming industry extends far beyond individual titles, though his portfolio includes several landmark strategy games that sold millions of copies worldwide.[^ref-2] His Caesar series and Lords of the Realm franchise helped establish the template for historical strategy gaming, while his business leadership at Impressions Games created one of the most successful strategy game studios of the 1990s.[^ref-3] In 1998, Impressions Games was the most profitable division of Havas Interactive, with $20 million in net profit—surpassing even Blizzard Entertainment for that period.[^ref-4] After leaving Impressions, Lester co-founded Firefly Studios in 1999, which went on to create the critically acclaimed Stronghold series.[^ref-5]
+Impressions specialised in historical strategy games, and Lester sold the company to Sierra On-Line in 1995.[^ref-2][^ref-4] According to CNET Gamecenter, Impressions was the most profitable game division of Havas Interactive in 1998, with $20 million in profit, more than Blizzard.[^ref-17][^ref-4] In August 1999 Lester co-founded Firefly Studios, later known for the Stronghold series.[^ref-5]
 
 ## Career
 
 ### Early Career
 
-David Lester's path to game design began unconventionally through the world of business and finance. After receiving accountancy training at Arthur Young, he initially pursued a traditional corporate career.[^ref-2] However, his passion for business and the entrepreneurial spirit of the Thatcherite era in Britain ultimately drew him toward the emerging computer games industry. As Lester himself explained: "I've always been a big fan of business. I love business, I find it interesting. It was the Thatcherite years when business was booming."[^ref-2]
+After receiving accountancy training at Arthur Young, Lester found he did not want to practise as an accountant: "I started out down that road and got very bored within less than a year".[^ref-2] He explained the appeal of business: "I've always been a big fan of business. I love business, I find it interesting. It was the Thatcherite years when business was booming."[^ref-2] He had computer games contacts and decided to start a games publishing company "as a hobby with some friends".[^ref-2] Looking back, he still recommended working for someone else first: "I think the vast majority of people who leave university should go and work for someone else first. It's dangerous to start a business straightaway without that knowledge."[^ref-2]
 
-The transition from accountancy to gaming came through his recognition of the commercial potential in the rapidly expanding computer entertainment market.[^ref-2] Unlike many of his contemporaries who entered the industry through programming or hobbyist development, Lester approached gaming from a business perspective, viewing it as an opportunity to combine creative expression with commercial success.[^ref-1] His philosophy on entering business was clear: "I think the vast majority of people who leave university should go and work for someone else first. It's dangerous to start a business straightaway without that knowledge."[^ref-2]
+### Impressions Games Era (1988–1998)
 
-### Impressions Games Era (1989–1998)
+Lester gives 1988 as the year he founded Impressions; GamesNostalgia agrees, while Wikipedia gives 1989.[^ref-2][^ref-1][^ref-4] The company's first game was a football title endorsed by Kenny Dalglish, which Lester calls *Kenny Dalglish Football Manager*; MobyGames and Wikipedia list it as *Kenny Dalglish Soccer Match* (1989).[^ref-2][^ref-6][^ref-4] Lester cold-called Liverpool Football Club to get Dalglish's name: "I rang him up. It was amazing, I remember ringing up Liverpool Football Club from a payphone during my coffee break and they put me through and he was there. I don't think it would happen today." The game "was number one all summer in 1989".[^ref-2]
 
-In 1989, Lester founded Impressions Games with friends, initially focusing on commercial opportunities in the gaming market.[^ref-4] His first major breakthrough came with Kenny Dalglish Football Manager that same year. In a move that exemplified his business instincts, Lester personally cold-called Liverpool Football Club from a payphone during his coffee break and convinced Kenny Dalglish to lend his name to the game. As he recalled: "I rang him up. It was amazing, I remember ringing up Liverpool Football Club from a payphone during my coffee break and they put me through and he was there. I don't think it would happen today."[^ref-2] The game "was number one all summer in 1989" and provided the foundation for Impressions' future growth.[^ref-2]
+GamesNostalgia says Lester played no role in that game beyond securing Dalglish, and that his first game was Merchant Colony (1991), an Amiga trading strategy game for which he wrote the concept while Simon Bradbury did the development; MobyGames credits him with its "Game Concept".[^ref-1][^ref-16]
 
-While Kenny Dalglish Football Manager was a business success, Lester's first credited design work came with Merchant Colony in 1991, an Amiga trading strategy game set in the 18th century.[^ref-1] Working with Simon Bradbury, who would become a key collaborator throughout his career, Lester wrote the game concept while Bradbury handled development.[^ref-1] This partnership would prove instrumental in the company's success.
+Caesar followed in 1992, again with Bradbury; GamesNostalgia notes that it was "likened to SimCity on many levels".[^ref-1] MobyGames credits Lester with the design of Caesar and Caesar II (1995).[^ref-16] Lester says Caesar II and Caesar III "both sold about 2.5 million copies around the world".[^ref-2] After several games sold less than expected and cash ran short, he set up a US office in Boston "with two people to start with and over the next three years we built that up to fifty people".[^ref-2]
 
-Lester's design career truly began in earnest with Caesar in 1992, a historical city-building strategy game that established the template for the entire genre.[^ref-1] The game's success led to Caesar II in 1995, which sold approximately 2.5 million copies worldwide.[^ref-2] During this period, Impressions expanded significantly, with Lester establishing a successful US office in Boston that grew to 50 employees.[^ref-2]
+Lords of the Realm (1994) was designed with Christopher J. Foster from a concept by Lester; MobyGames credits him with its concept.[^ref-1][^ref-16] Lester later called it "probably my favorite of all the games I've designed".[^ref-18]
 
-In 1994, Lester designed Lords of the Realm with Christopher J. Foster, creating a medieval strategy game that combined turn-based strategic planning with real-time tactical combat.[^ref-1] The sequel, Lords of the Realm II, released in 1996 after Sierra's acquisition, also achieved 2.5 million copies in sales.
+He advised entrepreneurs: "The best advice I can give is to get close and stay close to your customers. It's very easy to be close when you first start and very hard to stay close once you've started."[^ref-2]
 
-Lester's business philosophy emphasized customer relationships and sustainable growth. He advised: "The best advice I can give is to get close and stay close to your customers. It's very easy to be close when you first start and very hard to stay close once you've started."[^ref-2]
+### Sierra On-Line (1995–1998)
 
-### Sierra Entertainment (1995–1998)
+In 1995 Lester sold Impressions to Sierra On-Line for what he described as a "life-changing sum".[^ref-2] Lords of the Realm II followed in 1996; MobyGames credits Lester as game designer and executive producer, and Wikipedia describes him as Impressions' "general manager and lead designer".[^ref-20][^ref-10] Lester says it sold about 2.5 million copies.[^ref-2]
 
-In 1995, Lester sold Impressions Games to Sierra On-Line for what he described as a "life-changing sum."[^ref-2] The acquisition provided Impressions with the resources and distribution network of a major publisher while allowing Lester to continue overseeing development of the studio's titles.[^ref-3]
-
-Under Sierra's ownership, Impressions continued to produce successful games. Caesar III, released in 1998, represented the culmination of Lester's work on the franchise and became one of his most commercially successful and critically acclaimed designs, selling approximately 2.5 million copies worldwide.[^ref-2][^ref-9][^ref-11] After the acquisition, Lester returned to the United Kingdom in 1996 but remained involved with Sierra and Impressions on a part-time basis until around 1998.[^ref-1]
+Caesar III was released in 1998 with Lester credited as designer.[^ref-19][^ref-9] Lester puts its sales at around 2.5 million copies; period figures were 400,000 by January 1999, and Sierra said in April 1999 that the whole Caesar series had sold "well over one million units".[^ref-9][^ref-2] MobyGames says Lester returned to the United Kingdom in 1996 and "remained heavily involved until 1998 as the General Manager of the Impressions Division".[^ref-6]
 
 ### Post-Sierra Career
 
-After leaving Impressions in 1998, Lester pursued multiple entrepreneurial ventures. Most significantly for gaming, he co-founded Firefly Studios in August 1999 with Simon Bradbury (his longtime collaborator from Impressions) and Eric Ouellette.[^ref-5] The three had met while working together at Impressions Games.[^ref-5] Firefly Studios focused on historic real-time strategy games and is best known for the Stronghold series, which debuted in 2001 to critical and commercial success.[^ref-5] The studio has since sold over seven million copies of its games.[^ref-5][^ref-15]
+Lester co-founded Firefly Studios in August 1999 with Simon Bradbury and Eric Ouellette.[^ref-5] The studio is best known for the Stronghold series, which began in 2001, and has sold over seven million copies of its games.[^ref-5][^ref-15] MobyGames credits Lester on the Stronghold games only under Special Thanks.[^ref-6]
 
-Concurrent with his gaming ventures, Lester founded Crimson Publishing in 1999, a magazine and website publishing business.[^ref-2] The company launched Startups.co.uk, which became "the UK's leading small business website by quite a long way," receiving over 200,000 visitors monthly.[^ref-2] Lester also co-founded Business Community Connections, an organization helping charities find business support, and served as a Director of Watford Football Club.[^ref-6]
+In February 1999 he launched Crimson Publishing, a magazine and website publisher whose Startups.co.uk he called "the UK's leading small business website by quite a long way"; the 2013 interview put its traffic at over 200,000 visitors a month.[^ref-2] Lester also co-founded Business Community Connections, which links charities with businesses, and became a director of Watford Football Club.[^ref-6][^ref-2]
 
-Reflecting on business philosophy, Lester stated: "There's an old adage for business; 'profit is sanity, turnover is vanity' so turnover is not a factor I chase at all these days."[^ref-2]
+Reflecting on business, Lester said: "There's an old adage for business; 'profit is sanity, turnover is vanity' so turnover is not a factor I chase at all these days."[^ref-2]
 
 ## Notable Works
 
 ### Caesar (1992)
 
-The original Caesar, released in 1992, marked David Lester's entry into historical strategy gaming and established the foundation for what would become one of the most successful strategy franchises of the 1990s.[^ref-1] As the designer of this groundbreaking city-building game, Lester created an experience that combined urban planning, resource management, and historical simulation in a way that had never been achieved before.[^ref-7] The game challenged players to build and govern Roman cities while managing complex economic and social systems, setting the template for subsequent city-building games.[^ref-1]
+Caesar is a Roman city-building strategy game designed by Lester, again with the help of Simon Bradbury.[^ref-1][^ref-16] GamesNostalgia notes that although it was "likened to SimCity on many levels", it added a combat element and goals to meet.[^ref-1]
 
 ### Caesar III (1998)
 
-Caesar III represents the culmination of David Lester's work on the Caesar franchise and stands as one of his most commercially successful and critically acclaimed designs.[^ref-8] Released in 1998, the game sold approximately 2.5 million copies worldwide, demonstrating Lester's ability to create games with broad commercial appeal.[^ref-2] The title refined and expanded upon the city-building mechanics established in earlier entries, creating what many consider the definitive Roman city-building experience. The game's success stemmed from its combination of historical authenticity, engaging gameplay mechanics, and visual presentation that brought ancient Rome to life.[^ref-8]
+[[1998 - Caesar III|Caesar III]] credits Lester as designer, and also for manual and research.[^ref-19][^ref-11] Lester's own figure for its sales is about 2.5 million copies.[^ref-2][^ref-9] It remains on sale on GOG.[^ref-13]
 
 ### Lords of the Realm II (1996)
 
-Lords of the Realm II showcased David Lester's versatility as a strategy game designer, moving from Roman city-building to medieval kingdom management.[^ref-1] The game achieved remarkable commercial success, selling 2.5 million copies worldwide and establishing itself as one of the most successful medieval strategy games of the 1990s.[^ref-2] The game's design combined turn-based strategic planning with real-time tactical combat, creating a hybrid gameplay experience that appealed to different types of strategy gaming enthusiasts.[^ref-3]
+[[1996 - Lords of the Realm II|Lords of the Realm II]] lists Lester as game designer alongside Eric Ouellette and others, and as executive producer.[^ref-20][^ref-12] In his designer's notes, dated October 4, 1996, Lester called the first game "a flawed gem" whose weaknesses lay in its interface and learning curve, and wrote: "Above all, though, I have tried to reduce the learning curve of the game dramatically, and to radically restructure the interface, in order that many more people will be able to get into the somewhat unique blend of fun this time."[^ref-18] Wikipedia notes that combining turn-based and real-time play was also meant to make the series "more multiplayer friendly".[^ref-10] The game is sold on GOG as part of Lords of the Realm: Royal Edition.[^ref-14]
 
 ## Design Philosophy
 
-David Lester's approach to game design was fundamentally shaped by his business background and his belief in creating engaging interactive experiences. His philosophy centered on understanding market needs while maintaining quality standards that would appeal to both hardcore strategy enthusiasts and newcomers to the genre.[^ref-2] He believed in creating games that could achieve commercial success while providing genuine entertainment value.
-
-Lester's design methodology emphasized customer focus and accessibility, reflecting his business training and market awareness.[^ref-2] His repeated advice to "get close and stay close to your customers" influenced his decisions regarding game complexity, user interface design, and the balance between historical accuracy and playability.[^ref-2] His work consistently demonstrated a commitment to quality and polish that reflected his understanding of market expectations and player needs.
+Lester's clearest statement of his design aims is his 1996 note on Lords of the Realm II. He described relying "more on other people for help with the design than ever before", and said the team hid grain farming and added a slider bar for allocating serfs, a change he initially opposed: "I couldn't see that a strategy gamer would want to give up the detailed control that the original labour panel offered."[^ref-18] He also explained cutting the first game's sheep: they "did not represent, in our minds, sufficient additional strategic choice to warrant the significant additional complexity".[^ref-18]
 
 ## Legacy
 
-David Lester's impact on the strategy gaming industry extends far beyond the commercial success of individual titles. The combined sales figures of his major works speak to their broad appeal and lasting influence—Caesar II, Caesar III, and Lords of the Realm II each sold approximately 2.5 million copies worldwide, establishing benchmarks for strategy game success in the 1990s.[^ref-2] More importantly, Lester's business-focused approach to game development helped establish sustainable practices within the industry during its rapid growth period.
-
-The city-building genre owes a significant debt to Lester's pioneering work on the Caesar series, which established many of the conventions and mechanics that continue to influence contemporary games.[^ref-1] His success in building and scaling Impressions Games from a small startup to Sierra's most profitable division provided a model for other game developers seeking to grow their businesses sustainably.[^ref-4]
-
-Lester's post-Impressions work at Firefly Studios continued his legacy in strategy gaming, with the Stronghold series achieving both critical acclaim and commercial success.[^ref-5] The studio's games have sold over seven million copies, demonstrating the enduring appeal of the historical strategy genre that Lester helped define.[^ref-5]
+Impressions grew from a hobby business started with friends into a studio that CNET Gamecenter reported as Havas Interactive's most profitable game division in 1998.[^ref-2][^ref-17] Lester's own figures put Caesar II, Caesar III and Lords of the Realm II at about 2.5 million copies each.[^ref-2] Firefly Studios, which he co-founded, continues the historical strategy line with the Stronghold series.[^ref-5]
 
 ## Games
 
-### Impressions Games Era (1991–1998)
+### Impressions Games Era (1991–1995)
 
-- **1991** — [[1991 - Merchant Colony|Merchant Colony]] — Role: Designer
-- **1992** — [[1992 - Discovery - In the Steps of Columbus|Discovery: In the Steps of Columbus]] — Role: Producer
-- **1992** — [[1992 - Air Force Commander|Air Force Commander]] — Role: Producer
-- **1992** — [[1992 - Caesar|Caesar]] — Role: Designer
-- **1993** — [[1993 - Global Domination|Global Domination]] — Role: Designer
-- **1993** — [[1993 - WW2 Air Force Commander|WW2 Air Force Commander]] — Role: Producer
-- **1994** — [[1994 - Detroit|Detroit]] — Role: Designer
-- **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Role: Designer
-- **1995** — [[1995 - Caesar II|Caesar II]] — Role: Designer
-- **1995** — [[1995 - Casino De Luxe|Casino De Luxe]] — Role: Producer
-- **1995** — [[1995 - High Seas Trader|High Seas Trader]] — Role: Designer
-- **1995** — [[1995 - Powerhouse|Powerhouse]] — Role: Producer
-- **1995** — [[1995 - Ultimate Soccer Manager|Ultimate Soccer Manager]] — Role: Designer
+- **1991** — [[1991 - Merchant Colony|Merchant Colony]] — Role: Game Concept
+- **1992** — [[1992 - Discovery - In the Steps of Columbus|Discovery: In the Steps of Columbus]] — Role: Original Concept
+- **1992** — [[1992 - Air Force Commander|Air Force Commander]] — Role: Game Design
+- **1992** — [[1992 - Caesar|Caesar]] — Role: Design
+- **1993** — [[1993 - Global Domination|Global Domination]] — Role: Design
+- **1993** — [[1993 - WW2 Air Force Commander|WW2 Air Force Commander]] — Role: Designer
+- **1994** — [[1994 - Detroit|Detroit]] — Role: Design
+- **1994** — [[1994 - Front Lines|Front Lines]] — Role: Concept
+- **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Role: Concept
+- **1995** — [[1995 - Caesar II|Caesar II]] — Role: Design
+- **1995** — [[1995 - Casino De Luxe|Casino De Luxe]] — Role: Original Concept
+- **1995** — [[1995 - High Seas Trader|High Seas Trader]] — Role: Design
+- **1995** — [[1995 - Powerhouse|Powerhouse]] — Role: Design
+- **1995** — [[1995 - Ultimate Soccer Manager|Ultimate Soccer Manager]] — Role: Design
 
 ### Sierra/Impressions Era (1996–1998)
 
-- **1996** — [[1996 - Casino Deluxe 2|Casino Deluxe 2]] — Role: Producer
-- **1996** — [[1996 - Lords of the Realm II|Lords of the Realm II]] — Role: Producer
-- **1996** — [[1996 - Space Bucks|Space Bucks]] — Role: Producer
-- **1996** — [[1996 - The Rise & Rule of Ancient Empires|The Rise & Rule of Ancient Empires]] — Role: Designer
-- **1996** — [[1996 - Ultimate Soccer Manager 2|Ultimate Soccer Manager 2]] — Role: Producer
-- **1997** — [[1997 - Lords of the Realm II - Siege Pack|Lords of the Realm II: Siege Pack]] — Role: Producer
+- **1996** — [[1996 - Lords of the Realm II|Lords of the Realm II]] — Role: Game Designer, Executive Producer
+- **1996** — [[1996 - Robert E. Lee - Civil War General|Robert E. Lee: Civil War General]] — Role: Executive Producer
+- **1996** — [[1996 - Space Bucks|Space Bucks]] — Role: Core Design
+- **1996** — [[1996 - The Rise & Rule of Ancient Empires|The Rise & Rule of Ancient Empires]] — Role: Executive Producer
+- **1996** — [[1996 - Ultimate Soccer Manager 2|Ultimate Soccer Manager 2]] — Role: Design, Executive Producer
+- **1997** — [[1997 - Lords of the Realm II - Siege Pack|Lords of the Realm II: Siege Pack]] — Role: Game Designer
 - **1998** — [[1998 - Caesar III|Caesar III]] — Role: Designer
-- **1998** — [[1998 - Ultimate Soccer Manager 98|Ultimate Soccer Manager 98]] — Role: Producer
-- **1999** — [[1999 - Ultimate Soccer Manager 98-99|Ultimate Soccer Manager 98-99]] — Role: Producer
+- **1998** — [[1998 - Ultimate Soccer Manager 98|Ultimate Soccer Manager 98]] — Role: Executive Producer
+
+All roles as credited on MobyGames.[^ref-16][^ref-6]
 
 ## References
 
-[^ref-1]: [Games Nostalgia - Legendary Designers: David Lester](https://gamesnostalgia.net/person/david-lester) — Comprehensive profile covering career history, game development credits, and design philosophy
-[^ref-2]: [Companies Made Simple - David Lester Case Study](https://www.companiesmadesimple.com/blogs/inspiration-start-up-stories/real-business-case-study-david-lester) — Detailed business interview with direct quotes, sales figures, and career timeline
-[^ref-3]: [Reddit - Impressions Games Community](https://www.reddit.com/r/impressionsgames/) — Community discussions about Impressions Games titles and history
-[^ref-4]: [Wikipedia - Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) — Founding date, Sierra acquisition, financial performance, and complete game catalog
-[^ref-5]: [Wikipedia - Firefly Studios](https://en.wikipedia.org/wiki/Firefly_Studios) — Post-Impressions career, Firefly founding with Simon Bradbury and Eric Ouellette, Stronghold series development
-[^ref-6]: [MobyGames - David Lester](https://www.mobygames.com/person/4430/david-lester/) — Game credits, Crimson Business founding, Watford FC directorship
-[^ref-7]: [Abandonware DOS - David Lester Designer Profile](https://www.abandonwaredos.com/retro-game-designer.php?des=David+Lester) — Chronological game credits from 1992–1998
-[^ref-8]: [Amazon - Caesar III](https://www.amazon.com/Caesar-III-Build-Better-Rome/dp/B000H0E81U) — Product information demonstrating continued availability and player reception
-[^ref-9]: [Wikipedia - Caesar III](https://en.wikipedia.org/wiki/Caesar_III) — Lists David Lester as Designer, 2.5M sales, development history
-[^ref-10]: [Wikipedia - Lords of the Realm II](https://en.wikipedia.org/wiki/Lords_of_the_Realm_II) — Lists David Lester as Designer, 2.5M worldwide sales, development quotes
-[^ref-11]: [MobyGames - Caesar III Credits](https://www.mobygames.com/game/440/caesar-iii/credits/) — Designer credit for David Lester
-[^ref-12]: [MobyGames - Lords of the Realm II Credits](https://www.mobygames.com/game/973/lords-of-the-realm-ii/credits/) — Designer credit alongside Chris Beatrice and Simon Bradbury
-[^ref-13]: [GOG - Caesar III](https://www.gog.com/en/game/caesar_3) — Game availability and continued commercial presence
-[^ref-14]: [GOG - Lords of the Realm II](https://www.gog.com/en/game/lords_of_the_realm_royal_edition) — Game availability in Royal Edition
-[^ref-15]: [Wikipedia - Stronghold (series)](https://en.wikipedia.org/wiki/Stronghold_(series)) — Firefly Studios' Stronghold franchise (7M+ studio sales figure is from ref-5)
+[^ref-1]: [Games Nostalgia - Legendary Designers: David Lester](https://gamesnostalgia.net/person/david-lester) — Opening "exception to that rule" passage; founded Impressions in 1988 aged 22; Merchant Colony concept; Caesar "likened to SimCity"; Lords of the Realm with Christopher J. Foster
+[^ref-2]: [Companies Made Simple - Real Business Case Study: David Lester (Archived 2014)](https://web.archive.org/web/20140209164123/http://www.companiesmadesimple.com/project/blog/real-business-case-study-david-lester) — Interview by Mathew Aitken, February 6, 2013: Arthur Young, Impressions founded 1988 "when just 22", Dalglish call, 2.5 million sales figures, Boston office, 1995 sale, Crimson Publishing
+[^ref-4]: [Wikipedia - Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) — Founded 1989 (per Wikipedia); Kenny Dalglish Soccer Match (1989); Havas Interactive's most profitable division in 1998
+[^ref-5]: [Wikipedia - Firefly Studios](https://en.wikipedia.org/wiki/Firefly_Studios) — Formed August 1999 by Simon Bradbury, David Lester and Eric Ouellette; over seven million copies sold
+[^ref-6]: [MobyGames - David Lester (Archived December 2024)](https://web.archive.org/web/20241227194234/https://www.mobygames.com/person/4430/david-lester/) — Biography (General Manager of the Impressions Division until 1998; returned to UK 1996; Business Community Connections; Watford FC), Stronghold Special Thanks credits, Kenny Dalglish Soccer Match photo caption
+[^ref-9]: [Wikipedia - Caesar III](https://en.wikipedia.org/wiki/Caesar_III) — Designer David Lester; 400,000 sold by January 1999; "according to designer David Lester, around 2.5 million"
+[^ref-10]: [Wikipedia - Lords of the Realm II](https://en.wikipedia.org/wiki/Lords_of_the_Realm_II) — Lester as "general manager and lead designer"; "more multiplayer friendly"
+[^ref-11]: [MobyGames - Caesar III Credits](https://www.mobygames.com/game/1567/caesar-iii/credits/) — Game ID 1567 (ID checked via MobyGames API)
+[^ref-12]: [MobyGames - Lords of the Realm II Credits](https://www.mobygames.com/game/998/lords-of-the-realm-ii/credits/) — Game ID 998 (ID checked via MobyGames API)
+[^ref-13]: [GOG - Caesar 3](https://www.gog.com/en/game/caesar_3) — Current store listing
+[^ref-14]: [GOG - Lords of the Realm: Royal Edition](https://www.gog.com/en/game/lords_of_the_realm_royal_edition) — Store listing; includes Lords of the Realm II
+[^ref-15]: [Wikipedia - Stronghold (series)](https://en.wikipedia.org/wiki/Stronghold_(series)) — Firefly Studios' Stronghold franchise
+[^ref-16]: [MobyGames - David Lester Credits (Archived January 2023)](https://web.archive.org/web/20230124222442/https://www.mobygames.com/developer/sheet/view/developerId,4430/) — Full credit list by role, Merchant Colony (1991) to Caesar III (1998)
+[^ref-17]: [CNET Gamecenter (Archived 2000)](https://web.archive.org/web/20001210224600/http://gamecenter.com/News/Item/Textonly/0,78,0-2865,00.html) — "the most profitable game division of Havas Interactive… It's Impressions… Last year, Impressions made a nice $20 million in profits, which beat Blizzard"
+[^ref-18]: [Sierra - Lords of the Realm 2: Notes From The Designer (Archived January 1997)](https://web.archive.org/web/19970113095825/http://www1.sierra.com:80/games/lords2/designer.html) — Signed "David Lester, Impressions/Sierra, October 4, 1996"
+[^ref-19]: [MobyGames - Caesar III Credits (Archived 2021)](https://web.archive.org/web/20210125084118/https://www.mobygames.com/game/windows/caesar-iii/credits) — Designer: David Lester; Manual & Research
+[^ref-20]: [MobyGames - Lords of the Realm II Credits (Archived 2012)](https://web.archive.org/web/20120707014357/http://www.mobygames.com:80/game/windows/lords-of-the-realm-ii/credits) — Game Designer and Executive Producer: David Lester
