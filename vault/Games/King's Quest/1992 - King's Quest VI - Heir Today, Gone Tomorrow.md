@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI1.1
 protagonist: Prince Alexander
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-15'
 composer: [Christopher G. Braymen]
 description: 'King''s Quest VI: Heir Today, Gone Tomorrow is widely regarded as the
   finest entry in Sierra''s flagship adventure series, representing a remarkable leap...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, jane-jensen, king-s-quest, roberta-williams, sci, sierr
 ---
 # King's Quest VI: Heir Today, Gone Tomorrow
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -133,7 +133,8 @@ Jensen wrote over 6,000 messages for the game—reportedly four times the script
 - **Co-Designer:** Jane Jensen
 - **Project Manager/Director:** William D. Skirvin
 - **Lead Programmer:** Robert W. Lindsley
-- **Programmers:** Randy MacNeill, Robert L. Mallory, Victor Sadauskas, Doug Oldfield, Carlo Escobar
+- **Programmers:** Randy MacNeill, Robert L. Mallory, Victor Sadauskas, Doug Oldfield
+- **Additional Programming:** [[Carlos Escobar|Juan Carlos Escobar]][^ref-55]
 - **Senior Artists:** Michael Hutchison, John Shroades
 - **Artists:** Russell Truelove, Deanna Yhalkee, Darlou Gams, Tim Loucks, Rick Morgan, Jennifer Shontz, Cindy Walker, Karin A. Young
 - **Composer:** Christopher G. Braymen
@@ -391,3 +392,4 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-52]: [Tropedia – King's Quest VI](https://tropedia.fandom.com/wiki/King%27s_Quest_VI) – Alexander's outfit based on Kevin Costner's in Robin Hood: Prince of Thieves
 [^ref-53]: [IMDb – King's Quest VI: Heir Today, Gone Tomorrow (1992), full cast & crew](https://www.imdb.com/title/tt0214857/fullcredits/) – complete voice cast with each actor's roles
 [^ref-54]: [KQ Omnipedia – Abdul Alhazred](https://kingsquest.fandom.com/wiki/Abdul_Alhazred) – the name and the Necronomicon derive from H.P. Lovecraft's stories
+[^ref-55]: [Sierra Wiki – King's Quest VI: Heir Today, Gone Tomorrow](https://sierra.fandom.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – game credits: "Additional Programming: Doug Oldfield, Juan Carlos Escobar"
