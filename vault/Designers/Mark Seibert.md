@@ -170,7 +170,7 @@ Seibert has been married to Debbie Seibert since 1980. They have two daughters: 
 [^ref-11]: [Next Generation Magazine Issue 30 (June 1997)](https://archive.org/stream/NextGeneration30Jun1997/Next_Generation_30_Jun_1997#page/n77/mode/2up) — Interview with Roberta Williams and Mark Seibert
 [^ref-12]: [Game Nostalgia - Mark Seibert Interview](https://web.archive.org/web/20210503033514/https://www.game-nostalgia.com/laura_bow_2/interviews/ugarte_seibert.htm) — SpaceStationSim and NASA collaboration
 [^ref-13]: [Perry Hall Christian School](https://www.phcs.org/) — Current teaching position
-[^ref-14]: [MobyGames - King's Quest V](https://www.mobygames.com/game/131/kings-quest-v-absence-makes-the-heart-go-yonder/) — KQ5 credits and music information
+[^ref-14]: [MobyGames - King's Quest V](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/) — KQ5 credits and music information
 [^ref-15]: [Giant Bomb - Sierra People](https://www.giantbomb.com/sierra/3010-1030/people/) — Sierra development team information
 [^ref-16]: [The Sierra Chest - Employees](https://sierrachest.com/index.php?a=devs&id=1&title=sierra-on-line&fld=employees) — Sierra employee profiles
 [^ref-17]: [Sierra Help - Sierra Soundtrack Collection](https://sierrahelp.com/Music/SierraSoundtrackCollection.html) — 1992 CD compilation details
