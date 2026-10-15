@@ -10,7 +10,7 @@ series: Outpost
 engine: Proprietary
 protagonist: Colony Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 description: Outpost is a city-building and colony management simulation game developed
   and published by Sierra On-Line in 1994. A hard science fiction game designed by a
   former NASA systems manager, it shipped unfinished and was later named the worst game
@@ -19,7 +19,7 @@ tags: [1990s, outpost, sierra]
 ---
 # Outpost
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -111,7 +111,7 @@ Modern user reviews reflect the game's polarizing legacy. One player noted: "I a
 
 ### Origins
 
-Outpost emerged from Sierra On-Line's ambition to create a realistic space colonization simulation grounded in actual science rather than science fiction tropes[^ref-4]. The project was headed by Bruce Balfour, whose credentials as a former Systems Manager at NASA's Ames Research Center lent authenticity to the endeavor[^ref-4]. Balfour had previously designed Neuromancer and The Dagger of Amon Ra for Sierra[^ref-4].
+Outpost emerged from Sierra On-Line's ambition to create a realistic space colonization simulation grounded in actual science rather than science fiction tropes[^ref-4]. The project was headed by Bruce Balfour, whose credentials as a former Systems Manager at NASA's Ames Research Center lent authenticity to the endeavor[^ref-4]. Balfour had previously designed the award-winning Neuromancer for Interplay and The Dagger of Amon Ra for Sierra[^ref-4][^ref-24].
 
 The game was designed to assume "reasonable scientific progress over next 50 years from time of creation"[^ref-4], deliberately avoiding fantastical elements. This hard science approach was central to Outpost's identity, with the development team consulting NASA experts to verify technical details of gameplay features[^ref-5].
 
@@ -299,3 +299,4 @@ The Outpost controversy presaged later industry debates about "review copies" ve
 [^ref-20]: [Xeen Music – Outpost Soundtrack](https://xeenmusic.bandcamp.com/album/outpost-1-official-soundtrack-sc-55) – composer credits, audio specifications
 [^ref-21]: [Wikipedia – Outpost (1994 video game)](https://en.wikipedia.org/wiki/Outpost_(1994_video_game)) – PC Gamer 93%, White Wolf #49 review, CGW worst-game quote, Ken Williams on delays and budget
 [^ref-23]: [Computer Gaming World #148 (November 1996) – 150 Best (and 50 Worst) Games of All Time](https://archive.org/details/Computer_Gaming_World_Issue_148) – primary source: Outpost ranked #1 worst game, "Rightfully vilified" quote
+[^ref-24]: [Computer Gaming World No. 64 (October 1989)](http://pdf.textfiles.com/zines/CGW/1989_10_issue64.pdf) – Adventure Game of the Year: "Interplay for Neuromancer", designers incl. Bruce Balfour
