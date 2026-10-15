@@ -6,11 +6,11 @@ defunct: 2004
 headquarters: "Watertown, Massachusetts"
 notable_games: ["Indianapolis 500: The Simulation", "NASCAR Racing", "IndyCar Racing"]
 parent_company: "Sierra On-Line (1995-2004)"
-last_updated: "2026-10-12"
+last_updated: "2026-10-15"
 ---
 # Papyrus Design Group
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -22,7 +22,7 @@ The studio's reputation was built on meticulous attention to detail, realistic p
 
 ### Founding and Early Years
 
-Papyrus Design Group was established in 1987 by David Kaemmer, a former MIT student with a passion for both programming and motorsports.[^ref-6] Kaemmer's technical expertise in physics simulation would become the cornerstone of Papyrus's approach to game development.[^ref-7] The company's first major project was Indianapolis 500: The Simulation, released in 1989, which set new standards for racing game realism and established Papyrus as a serious player in the simulation market.[^ref-8]
+Papyrus Design Group was established in 1987 by David Kaemmer and Omar Khudari; Kaemmer, who grew up in Indiana, had graduated from Oberlin College in 1985 with a degree in mathematics.[^ref-6][^ref-21] Kaemmer's technical expertise in physics simulation would become the cornerstone of Papyrus's approach to game development.[^ref-7] The company's first major project was Indianapolis 500: The Simulation, released in 1989, which set new standards for racing game realism and established Papyrus as a serious player in the simulation market.[^ref-8]
 
 The early development philosophy at Papyrus centered around creating authentic racing experiences that would appeal to serious motorsport fans rather than casual gamers.[^ref-9] This approach required extensive research into real-world racing physics, aerodynamics, and vehicle handling characteristics.[^ref-10] The team's dedication to accuracy often meant longer development cycles but resulted in games that were praised by both critics and racing professionals for their authenticity.
 
@@ -56,7 +56,7 @@ The final game in Papyrus's NASCAR series is often cited as their technical and 
 
 ## Key People
 
-David Kaemmer served as Papyrus's founder and lead programmer, bringing his MIT education and motorsport passion to every project.[^ref-6] His expertise in physics simulation was fundamental to the realistic driving experience that defined all Papyrus games. After the studio's closure, Kaemmer went on to co-found iRacing, continuing his work in racing simulation.
+David Kaemmer served as Papyrus's co-founder and technical director, a 1985 Oberlin College mathematics graduate.[^ref-21][^ref-22] His expertise in physics simulation was fundamental to the realistic driving experience that defined all Papyrus games. After leaving Papyrus in late 2002, Kaemmer went on to co-found iRacing, continuing his work in racing simulation.
 
 Omar Khudari co-founded the company alongside Kaemmer and played a crucial role in the studio's business development and relationships with racing organizations.[^ref-7] The partnership between Kaemmer's technical skills and Khudari's business acumen proved essential to Papyrus's early success and growth.
 
@@ -100,3 +100,5 @@ The modding communities that formed around Papyrus games, particularly NASCAR Ra
 [^ref-17]: [Papyrus Design Group - Wikipedia](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — Company facts and milestones: Kaemmer's 2002 departure, NR2003 license expiry, 2004 website shutdown
 [^ref-18]: [Game Pressure](https://www.gamepressure.com/games/game-company.asp?ID=165) — Studio closure and industry impact
 [^ref-20]: [Abandonware DOS](https://www.abandonwaredos.com/retro-game-company.php?cmp=43&n=papyrus-design-group) — Historical significance and game preservation
+[^ref-21]: [Motor Sport Magazine – The man who made iRacing: Dave Kaemmer's smash hit](https://www.motorsportmagazine.com/archive/article/october-2021/106/the-man-who-made-iracing-dave-kaemmers-smash-hit/) — Preston Lerner, October 2021: "Kaemmer graduated from Oberlin College in Ohio in 1985 with a degree in mathematics"
+[^ref-22]: [Oberlin Alumni Magazine – More Than a Game (Winter 2002–2003)](https://www2.oberlin.edu/alummag/oamcurrent/oam_winter2003/profile_4.html) — Dave Kaemmer '85, co-founder and technical director of Papyrus
