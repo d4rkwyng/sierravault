@@ -4,7 +4,7 @@ release_year: 1990
 developer: "Synergistic Software"
 designer:
   - "Robert Clardy"
-  - "Alan B. Clark"
+programmer: "Alan B. Clark"
 publisher: "Virgin Mastertronic / Virgin Games"
 genre: "Strategy / role-playing / adventure"
 platforms: ["MS-DOS", "Amiga", "Atari ST", "Macintosh", "Apple IIGS", "CDTV"]
@@ -13,13 +13,13 @@ engine: "World Builder"
 protagonist: "Lord Constantine, Crown Regent"
 sierra_lineage: "Sierra Label (Synergistic)"
 composer: ["Christopher Barker", "Mark Riley"]
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 description: "Synergistic Software's 1990 Arthurian strategy-RPG, published by Virgin Mastertronic and Virgin Games, in which Lord Constantine tries to hold Britain together after King Arthur's death. Sierra acquired Synergistic in 1996."
 tags: [1990s, strategy, rpg, arthurian, synergistic-software, virgin-games, world-builder, robert-clardy]
 ---
 # Spirit of Excalibur
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ Sierra On-Line did not publish Spirit of Excalibur. It belongs in SierraVault be
 
 > [!info]- Game Info
 > **Developer:** [[Synergistic Software]][^ref-2]
-> **Designer:** [[Robert Clardy]] (director), Alan B. Clark (programmer)[^ref-1]
+> **Designer:** [[Robert Clardy]] (credited as director; the manual's credits list no separate designer)[^ref-3][^ref-19]
 > **Publisher:** Virgin Mastertronic (Europe, CDTV); Virgin Games, Inc. (US computer releases); see Version History[^ref-2]
 > **Engine:** World Builder[^ref-5]
 > **Platforms:** MS-DOS, Amiga, Atari ST, Macintosh, Apple IIGS, CDTV[^ref-2]
@@ -38,6 +38,7 @@ Sierra On-Line did not publish Spirit of Excalibur. It belongs in SierraVault be
 > **Protagonist:** Lord Constantine, Crown Regent
 > **Artist:** Rob Landeros (art director), Robert Stein III[^ref-1][^ref-9]
 > **Composer:** Christopher Barker (PC), Mark Riley (Amiga)[^ref-1]
+> **Programmer:** Alan B. Clark (lead programmer)[^ref-19]
 > **Sierra Lineage:** Sierra Label (Synergistic). This is a pre-acquisition title; Sierra acquired Synergistic in 1996.
 
 ## Story Summary
@@ -71,7 +72,7 @@ Constantine is the only character at the start. As the game goes on, the player 
 
 ### Puzzles and Mechanics
 
-Individual combat runs in real time. The player picks options such as Attack, Defend and Withdraw, or leaves the fight to the computer.[^ref-4][^ref-1] Dragon found that the lead knight had only two blows available, an overhead strike and a thrust.[^ref-11] The CRPG Addict found that most spells are used to clear specific obstacles rather than in battle, and that they depend on limited reagents.[^ref-14] Quests mostly involve recruiting the right knights, delivering items and rescuing captives. Computer Gaming World criticised the game for never telling the player when an episode's goals were complete.[^ref-4]
+Individual combat runs in real time. The player picks options such as Attack, Defend and Withdraw, or leaves the fight to the computer.[^ref-4][^ref-1] Dragon found that the lead knight had only two blows available, an overhead strike and a thrust.[^ref-11] The CRPG Addict found that most spells are used to clear specific obstacles rather than in battle, and that they depend on limited reagents.[^ref-14] Early episodes involve gathering the scattered Knights of the Round Table, many of whom will only return if asked by certain people or given the right incentive, and quest items are picked up and used on the scene level.[^ref-2] The CRPG Addict found limited side quests in rescuing kidnapped maidens and princes and disenchanting rulers turned to stone, which affect how much territory the player holds at the end.[^ref-14] Computer Gaming World criticised the game for never telling the player when an episode's goals were complete.[^ref-4]
 
 ## Reception
 
@@ -107,7 +108,7 @@ Computer Gaming World reported that Virgin Mastertronic marketed the game as a "
 
 ### Technical Achievements
 
-PCGamingWiki lists the engine as Synergistic's World Builder.[^ref-5] According to MobyGames, the MS-DOS version supports EGA, MCGA, VGA and Tandy graphics. Supported sound includes AdLib, Roland MT-32, Game Blaster, Covox Sound Master and the PC speaker, and the minimum memory is 512 KB.[^ref-2] The floppy releases ask questions answered from the printed map. The later CD-ROM version adds CD music and "full voice acting for conversations."[^ref-5]
+PCGamingWiki lists the engine as Synergistic's World Builder.[^ref-5] According to MobyGames, the MS-DOS version supports EGA, MCGA, VGA and Tandy graphics. Supported sound includes AdLib, Roland MT-32, Game Blaster, Covox Sound Master and the PC speaker, and the minimum memory is 512 KB.[^ref-2] The floppy releases ask questions answered from the printed map. The later CD-ROM version adds CD music and "full voice acting for conversations."[^ref-5] MobyGames' DOS credits list voice casting and direction by Jonathan Sposato, character voices by Adrian LaTourelle, Rob Landeros, Scott Reed and Erika Rolfsrud, and CD-ROM art enhancement by Bradley W. Schenck.[^ref-19]
 
 ### Version History
 
@@ -120,11 +121,11 @@ PCGamingWiki lists the engine as Synergistic's World Builder.[^ref-5] According 
 | Floppy | 1991 | Apple IIGS (US) | Virgin Games, Inc.[^ref-2] |
 | CDTV | 1991 | Commodore CDTV (US) | Virgin Mastertronic International, Inc.[^ref-2] |
 | CD-ROM | 1991 | MS-DOS (US/Canada) | Virgin Mastertronic; CD audio and voice[^ref-16][^ref-5] |
-| CD-ROM | 1991 | MS-DOS (UK) | Virgin Games, Ltd.[^ref-2] |
+| CD-ROM | 1991 | MS-DOS (UK) | Virgin Games, Ltd.; MobyGames release note: "CD-ROM release"[^ref-2] |
 
 ## Legacy
 
-*Vengeance of Excalibur* followed in 1991. Synergistic developed it again, and Virgin Games published it. The story moves to Spain, and the sequel can import characters from this game.[^ref-17][^ref-1] Synergistic reused the World Builder engine once more for *Conan: The Cimmerian* (1991).[^ref-6] After years as a Sierra subcontractor, Synergistic was taken over by Sierra in 1996, as Bob Clardy told Polygon.[^ref-8]
+*Vengeance of Excalibur* followed in 1991. Synergistic developed it again, and Virgin Games published it. The story moves to Spain, and the sequel can import characters from this game.[^ref-17][^ref-1] Synergistic reused the World Builder engine again for *Conan: The Cimmerian* (1991).[^ref-6] After years as a Sierra subcontractor, Synergistic was taken over by Sierra in 1996, as Bob Clardy told Polygon.[^ref-8]
 
 ### Collections
 
@@ -171,3 +172,4 @@ Spirit of Excalibur is the second of Synergistic Software's World Builder games 
 [^ref-16]: [Eli's Software Encyclopedia – Spirit of Excalibur (PC, CD-ROM) 1991 US/Canada release](https://elisoftware.org/wiki/Spirit_Of_Excalibur_(PC,_CD-ROM)_Virgin_Mastertronic_-_1991_USA,_Canada_Release) – Virgin Mastertronic CD-ROM, © 1991; packaging text "first in a new series of FRP games with transferable characters"
 [^ref-17]: [Wikipedia – Vengeance of Excalibur](https://en.wikipedia.org/wiki/Vengeance_of_Excalibur) – sequel by Synergistic, published by Virgin Games, 1991; character import from Spirit
 [^ref-18]: [Internet Archive – Spirit of Excalibur [MS-DOS] CD-ROM](https://archive.org/details/spirit-of-excalibur-doscd) – preserved CD-ROM edition dated 1991
+[^ref-19]: [MobyGames – Spirit of Excalibur credits (DOS)](https://www.mobygames.com/game/2539/spirit-of-excalibur/credits/dos/) – Director Robert C. Clardy; Lead Programming Alan B. Clark; CD-ROM art enhancement, voice casting and character voices
