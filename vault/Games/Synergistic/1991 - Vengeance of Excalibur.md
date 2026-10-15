@@ -14,13 +14,13 @@ engine: "World Builder"
 protagonist: "Knights of the Round Table (player-chosen party)"
 sierra_lineage: "Sierra Label (Synergistic)"
 composer: ["Christopher Barker"]
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 description: "Synergistic Software's 1991 sequel to Spirit of Excalibur, published by Virgin Games, which sends a party of Round Table knights to Moorish Spain after Camelot's treasures. Sierra acquired Synergistic in 1996."
 tags: [1990s, strategy, rpg, arthurian, synergistic-software, virgin-games, world-builder, robert-clardy]
 ---
 # Vengeance of Excalibur
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -68,7 +68,7 @@ The game has seven episodes, each built around recovering one of the stolen arti
 
 ### Puzzles and Mechanics
 
-Individual combat now pits up to three characters against three, instead of one against one. The player no longer swings the sword directly but sets each fighter to reckless, normal or cautious.[^ref-1] Knights refuse many evil acts, and Compute! warned that forcing too many unethical acts can kill them.[^ref-11] Puzzles mostly involve finding the right object or ally. The CRPG Addict found that missing an item in an earlier episode could leave a later one unwinnable.[^ref-13]
+Individual combat now pits up to three characters against three, instead of one against one. According to Wikipedia, the player no longer swings the sword directly but sets each fighter to reckless, normal or cautious.[^ref-1] Computer Gaming World's review instead describes the player controlling the lead knight's "sword strokes (two types of attack, swipe and jab)."[^ref-3] Knights refuse many evil acts, and Compute! warned that forcing too many unethical acts can kill them.[^ref-11] Puzzles mostly involve finding the right object or ally. The CRPG Addict found that missing an item earlier in a scenario could leave it unwinnable hours later. Twice he had to replay a scenario from its start.[^ref-13]
 
 ## Reception
 
@@ -87,7 +87,7 @@ Individual combat now pits up to three characters against three, instead of one 
 
 Petrucha's January 1992 Computer Gaming World review, "Spanish Knights," judged that "Vengeance does not compare well with its predecessor" on story. He found the final battle disappointing.[^ref-3] He praised the interface as "so extremely well-designed" that it "doesn't get in the way of game play at all," and called the soundtrack "a pure delight." He saw the game's best feature in its map, a world "constantly in motion" where independent armies and characters create "a sense of immediate, impending doom."[^ref-3] Rohan enjoyed the graphics in Compute!, but wrote that characters were "killed too often to sustain a sense of involvement."[^ref-11]
 
-The UK Amiga press was mostly unimpressed. Amiga Power's Matthew Squires criticised the slow disk access. He also noted that the game would not run on the Amiga 500 Plus, and summed it up as "Not awful, just uninspiring."[^ref-14] Amiga Action called it "a sequel of equally low stature" and "too similar to Spirit for comfort." Lemon Amiga lists that review at 83%, which does not match the review's tone, and the score could not be read in the archived scan.[^ref-15][^ref-8]
+The UK Amiga press was mostly unimpressed. Amiga Power's Matthew Squires criticised the slow disk access. He also noted that the game would not run on the Amiga 500 Plus, and summed it up as "Not awful, just uninspiring."[^ref-14] Amiga Action called it "a sequel of equally low stature" and "too similar to Spirit for comfort." Lemon Amiga lists that review at 83%; the score cannot be read in the archived scan.[^ref-15][^ref-8]
 
 ### Modern Assessment
 
@@ -97,7 +97,7 @@ The CRPG Addict gave Vengeance 34 points on his GIMLET scale, one more than *Spi
 
 ### Production
 
-Computer Gaming World credited the design to Robert Clardy, Alan Clark and a third designer, and listed Virgin Games of Irvine, California as publisher at $49.99.[^ref-3] Lemon Amiga's Amiga credits list:[^ref-8]
+Computer Gaming World credited the design to "Robert Clardy, John Coonley [sic] and Alan Clark", and listed Virgin Games of Irvine, California as publisher at $49.99.[^ref-3] Lemon Amiga's Amiga credits list:[^ref-8]
 
 - **Design:** Alan B. Clark, John Conley and Robert Clardy
 - **Coding:** John Conley
@@ -125,7 +125,7 @@ The MS-DOS version supports CGA, EGA, MCGA, VGA and Tandy graphics. Sound option
 
 ## Legacy
 
-Vengeance was the last of Synergistic's Arthurian games. The engine's next outing was *Conan: The Cimmerian*, which the CRPG Addict scored higher than either Excalibur game.[^ref-4] Bob Clardy told Polygon that Synergistic worked as a Sierra subcontractor for a few years before Ken Williams proposed buying the studio in 1996.[^ref-7]
+No later Arthurian title appears in Wikipedia's list of Synergistic's games.[^ref-6] The engine's next outing was *Conan: The Cimmerian*, which the CRPG Addict scored higher than either Excalibur game.[^ref-4] Bob Clardy told Polygon that Synergistic worked as a Sierra subcontractor for a few years before Ken Williams proposed buying the studio in 1996.[^ref-7]
 
 ### Collections
 
