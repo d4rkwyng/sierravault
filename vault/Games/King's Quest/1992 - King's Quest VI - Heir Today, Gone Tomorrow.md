@@ -133,8 +133,8 @@ Jensen wrote over 6,000 messages for the game—reportedly four times the script
 - **Co-Designer:** Jane Jensen
 - **Project Manager/Director:** William D. Skirvin
 - **Lead Programmer:** Robert W. Lindsley
-- **Programmers:** Randy MacNeill, Robert L. Mallory, Victor Sadauskas, Doug Oldfield
-- **Additional Programming:** [[Carlos Escobar|Juan Carlos Escobar]][^ref-55]
+- **Programmers:** Randy MacNeill, Robert L. Mallory, Victor Sadauskas
+- **Additional Programming:** [[Doug Oldfield]], [[Carlos Escobar|Juan Carlos Escobar]][^ref-55]
 - **Senior Artists:** Michael Hutchison, John Shroades
 - **Artists:** Russell Truelove, Deanna Yhalkee, Darlou Gams, Tim Loucks, Rick Morgan, Jennifer Shontz, Cindy Walker, Karin A. Young
 - **Composer:** Christopher G. Braymen
