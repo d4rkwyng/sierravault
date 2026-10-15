@@ -153,21 +153,28 @@ class PageResult:
         return "FAIL"
 
 def parse_frontmatter(content: str) -> tuple:
+    """Return (fm_text, fm_dict, body, yaml_error). yaml_error is None unless
+    the frontmatter exists but does not parse."""
     if not content.startswith("---"):
-        return "", {}, content
+        return "", {}, content, None
     end = content.find("\n---", 3)
     if end == -1:
-        return "", {}, content
+        return "", {}, content, None
     fm_text = content[3:end]
     body = content[end + 4:]
+    fm, err = {}, None
     if HAS_YAML:
         try:
             fm = yaml.safe_load(fm_text) or {}
-        except:
-            fm = {}
-    else:
-        fm = {}
-    return fm_text, fm, body
+        except yaml.YAMLError as e:
+            # build.sh's sanitize-frontmatter.mjs quarantines such pages, so they
+            # vanish from the published site; surface the real cause instead of
+            # a misleading "Missing YAML field" for every field.
+            mark = getattr(e, "problem_mark", None)
+            err = getattr(e, "problem", None) or type(e).__name__
+            if mark is not None:
+                err += f" at file line {mark.line + 1}"
+    return fm_text, fm, body, err
 
 def h2_sections(content: str) -> set:
     return {m.group(1).strip() for m in re.finditer(r'^## (.+)', content, re.MULTILINE)}
@@ -248,7 +255,7 @@ def score_page(filepath: Path, all_basenames: set) -> PageResult:
 
     filename = filepath.name
     folder = filepath.parent.name
-    fm_text, fm, body = parse_frontmatter(content)
+    fm_text, fm, body, yaml_error = parse_frontmatter(content)
 
     page_type = detect_page_type(filename, folder)
     genre_raw = str(fm.get("genre") or "").strip()
@@ -277,7 +284,11 @@ def score_page(filepath: Path, all_basenames: set) -> PageResult:
             issues.append(Issue(cat, sev, msg, pts))
 
     # YAML
-    for fname in REQUIRED_YAML_FIELDS:
+    if yaml_error:
+        chk("YAML", False,
+            f"Frontmatter YAML does not parse ({yaml_error}) — the site build "
+            "quarantines this page; quote values containing ' #' or ': '", 15)
+    for fname in ([] if yaml_error else REQUIRED_YAML_FIELDS):
         # Accept explicit null as "acknowledged unknown" per STYLE_GUIDE.md
         # The field must exist as a key, but null is a valid value.
         chk("YAML", fname in fm, f"Missing YAML field: `{fname}`", 1.2)
