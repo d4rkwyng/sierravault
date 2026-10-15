@@ -5,98 +5,108 @@ birth_year: 1963
 death_year: null
 notable_games: ["Gabriel Knight: Sins of the Fathers", "The Beast Within: A Gabriel Knight Mystery", "King's Quest VI: Heir Today, Gone Tomorrow"]
 companies: ["Sierra On-Line", "Pinkerton Road Studio", "Oberon Media", "Hewlett-Packard"]
-last_updated: "2026-05-08"
+last_updated: "2026-10-15"
 ---
 # Jane Jensen
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-Jane Jensen (born Jane Elizabeth Smith, January 28, 1963, in Palmerton, Pennsylvania) stands as one of the most influential adventure game designers in video game history.[^ref-1] Best known for creating the critically acclaimed Gabriel Knight series, Jensen brought a unique literary sensibility to interactive entertainment that helped define the golden age of adventure gaming at Sierra On-Line.[^ref-2] Her background as both a software engineer and aspiring writer allowed her to bridge the technical and creative aspects of game development in ways that few designers could match.[^ref-3]
+Jane Jensen (born Jane Elizabeth Smith, January 28, 1963, in Palmerton, Pennsylvania) is an American game designer and novelist, best known for creating Sierra On-Line's Gabriel Knight series.[^ref-1] After six years as a software engineer at Hewlett-Packard, she joined Sierra in 1991, co-designed King's Quest VI with Roberta Williams, and then wrote and designed all three Gabriel Knight games.[^ref-1][^ref-6] *Computer Gaming World* named Gabriel Knight: Sins of the Fathers co-winner of its Premier Adventure Game of the Year award, and named The Beast Within its overall Game of the Year.[^ref-20][^ref-21]
 
-Jensen's career trajectory from computer programmer to celebrated game designer exemplifies the interdisciplinary nature of early game development.[^ref-4] "I always wanted to be a writer," Jensen has stated, describing her childhood aspirations, yet her love of "logic and logic puzzles" drew her to computer science, where she discovered that "programming is essentially one big logic puzzle."[^ref-5] This combination of technical expertise and narrative passion would prove instrumental in her later success at Sierra, where she helped expand the audience for adventure games beyond the traditional demographic.[^ref-2]
-
-Her design philosophy centered on the belief that "a good storyline was vital to attracting a wider range of game players," and she "recognized the importance of developing games that would be popular with women and older gamers, as well as the conventional audience of young males."[^ref-2] This inclusive approach to game design, combined with her sophisticated writing and complex character development, established Jensen as a pioneering voice in interactive storytelling.[^ref-6]
+Jensen "always wanted to be a writer," but chose computer science in college for a more practical career. "I love logic and logic puzzles, and programming is essential one big logic puzzle," she told Game Developer in 2007.[^ref-6] After Sierra she co-founded the casual games company Oberon, wrote novels, returned to adventure games with Gray Matter (2010) and her own studio Pinkerton Road, and since 2013 has also written romance fiction under the pen name Eli Easton.[^ref-6][^ref-5][^ref-23]
 
 ## Career
 
 ### Early Career
 
-Jensen's path to game design began with a degree in Computer Science from Anderson University in Indiana, followed by work as a software engineer at Hewlett-Packard for six years.[^ref-1] Despite achieving success in the corporate programming world, she found herself increasingly dissatisfied with the work. "I knew I would love my job and I didn't see a future in writing networking or operating system code the rest of my life. It bored the crap out of me," she later recalled.[^ref-5] Her introduction to adventure games came through Sierra's popular titles, and she became immediately captivated: "I was hooked big time."[^ref-3]
+Jensen earned a degree in Computer Science from Anderson University in Indiana and then worked as an engineer at Hewlett-Packard for six years.[^ref-1] She bought her first PC in 1989 and started playing Sierra's adventure games: "I was hooked big time. I bought everything else in Sierra's catalog and played it, then applied for a job there. Computer games were a way to merge my technology background with writing and that was very appealing."[^ref-6]
 
-The appeal of game development for Jensen was clear: "Computer games were a way to merge my technology background with writing and that was very appealing."[^ref-3] This realization prompted her to apply to Sierra On-Line in early 1991, initially seeking a position as a staff writer.[^ref-4] Her technical background gave her an advantage in understanding the constraints and possibilities of game development, while her writing aspirations provided the creative drive that would distinguish her work.[^ref-7]
+She sent Sierra a résumé and a short story, offering to do "programming, QA, writing or whatever." "Nearly a year later I got a call from them," she recalled; Sierra was putting together a "writer's group" to help its designers with dialogue and documentation.[^ref-6] Taking the job meant leaving the Bay Area for Oakhurst and a pay cut, but she was ready for it: "I knew I would love my job and I didn't see a future in writing networking or operating system code the rest of my life. It bored the crap out of me."[^ref-6]
 
 ### Sierra Years (1991–1999)
 
-Jensen joined Sierra On-Line in February 1991, quickly proving her value on multiple projects.[^ref-4] Her first assignment was documentation and text for [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]], followed by co-designing [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]].[^ref-4] Her next significant contribution came as co-designer with Roberta Williams on [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] (1992), widely regarded as one of the finest entries in the King's Quest series.[^ref-8] The collaboration proved highly successful, with Jensen's influence evident in the game's improved dialogue and character interactions.[^ref-3]
+Jensen joined Sierra On-Line in February 1991. "My first project was to do the doco and text of Police Quest 3 and then to co-design EcoQuest: Search for Cetus," she said in 1999.[^ref-4] Those were [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] and [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]].[^ref-4] She then co-designed, co-directed and co-wrote [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] (1992) with Roberta Williams, a game widely recognized as the high point of the series.[^ref-6][^ref-8][^ref-14] Jensen felt that "Roberta must have been pretty happy" with her work, because she was immediately given the chance to pitch her own series.[^ref-6]
 
-The breakthrough moment in Jensen's career came when she pitched her concept for Gabriel Knight to Sierra founder Ken Williams. "I had the idea that a mystery plotline would work really well with the interactivity you wanted in a game. Find clues, examine clues, question suspects, etc. But I didn't want to just do a straight mystery series; I wanted to involve the supernatural," she explained.[^ref-5] Williams was initially skeptical, telling her: "Well, I'm a little disappointed in this idea - I wish you'd come up with something lighter and more cheerful. No one wants to play something dark and depressing on the computer. But I guess we'll let you go ahead."[^ref-5]
+That pitch became Gabriel Knight. "I had the idea that a mystery plotline would work really well with the interactivity you wanted in a game. Find clues, examine clues, question suspects, etc. But I didn't want to just do a straight mystery series; I wanted to involve the supernatural," she explained.[^ref-6] Ken Williams was initially skeptical, telling her: "Well, I'm a little disappointed in this idea - I wish you'd come up with something lighter and more cheerful. No one wants to play something dark and depressing on the computer. But I guess we'll let you go ahead."[^ref-6]
 
-[[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] was published in 1993 as Jensen's first solo design project, receiving widespread critical acclaim and establishing her as a major talent in adventure game design.[^ref-6] The success led directly to [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] (1995), which won Computer Gaming World magazine's game of the year award in 1996.[^ref-1] Jensen traveled to Germany to research local folklore for the game's werewolf mythology, demonstrating her commitment to thorough research and cultural authenticity.[^ref-1]
+[[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] (1993), which Jensen designed, directed and wrote, received high praise from reviewers and was greenlit for a sequel.[^ref-2][^ref-14] [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] (1995) was produced entirely in full-motion video.[^ref-2] *Computer Gaming World* named it the overall Game of the Year in its June 1996 awards issue, calling it "a clear-cut choice."[^ref-21] Jensen traveled to Germany to research the game's folklore.[^ref-1][^ref-4]
 
-Jensen began designing the third Gabriel Knight title in 1997, though [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] would prove controversial upon its 1999 release, with some critics questioning certain puzzle sequences.[^ref-5] Despite this, the game showcased Jensen's continued growth as a storyteller and her ability to tackle complex subject matter like the Holy Grail mythology.
+Work on [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] began in 1995, by Jensen's own account. She called it the "hardest of the three Gabriel Knight games" to develop, as the adventure genre was becoming less marketable.[^ref-6] (The Strong Museum of Play's biography dates the start of her design work to the following year.)[^ref-2] On release in 1999 the mainstream press rated it little better than average, and Old Man Murray's Erik Wolpaw famously called one of its puzzles "genuinely deranged."[^ref-6]
 
-### Oberon Media and Casual Games (2000s)
+### Oberon Media and Casual Games (2003–2011)
 
-Following Sierra's acquisition and the decline of traditional adventure games, Jensen co-founded Oberon Media and transitioned to work in casual gaming, focusing primarily on hidden object games.[^ref-9] "I've always been an adventure game designer at heart, and I tried to incorporate as much of that as constraints allowed into my hidden object games," she noted during this period.[^ref-5] Her work during this era included adaptations of Agatha Christie mysteries, James Patterson's Women's Murder Club series, and original titles like Deadtime Stories (2009) and Dying for Daylight (2011).[^ref-1]
+After leaving Sierra, Jensen co-founded the casual games company Oberon.[^ref-6][^ref-19] "My goals were to find a new audience for adventure games; to finally reach a demographic - older people and more women," she said in 2007.[^ref-6] Her MobyGames credits from this period include Inspector Parker (2003), Inspector Parker in Betrapped! (2004), Agatha Christie: Death on the Nile and Peril at End House (2007), Dr. Lynch: Grave Secrets (2008), several James Patterson: Women's Murder Club games (2007–2010), Agatha Christie: Dead Man's Folly (2009, creative director), Deadtime Stories (2010) and Charlaine Harris: Dying for Daylight (2011).[^ref-14]
 
-An interviewer asked whether it was a big adjustment to tailor her stories to more casual gameplay. Jensen answered: "I still wanted to, and was able to, tell stories. I did a few Agatha Christie adaptations, James Patterson, and Charlaine Harris. And I did a few of those games which were my own creation. It was always tempting to work in more adventure game elements like inventory, which we did use somewhat. I've always loved puzzles, so it wasn't difficult to shift to casual games."[^ref-10]
+Asked by Adventure Game Hotspot in 2023 whether it was a big adjustment to tailor her stories to more casual gameplay, Jensen said: "I still wanted to, and was able to, tell stories. I did a few Agatha Christie adaptations, James Patterson, and [Charlaine] Harris. And I did a few of those games which were my own creation. It was always tempting to work in more adventure game elements like inventory, which we did use somewhat. I've always loved puzzles, so it wasn't difficult to shift to casual games."[^ref-10]
 
-### Pinkerton Road and Return to Adventure Games (2010–Present)
+### Gray Matter, Pinkerton Road and Later Work (2010–Present)
 
-Jensen's return to traditional adventure games began with [[2010 - Gray Matter|Gray Matter]] (2010), developed by Wizarbox and published by dtp entertainment.[^ref-11] The game, which Jensen had announced in 2006, was four years in the making due to development challenges including a change of developers.[^ref-1] Gray Matter demonstrated that Jensen's storytelling abilities remained sharp, exploring themes of neuroscience and the supernatural.
+[[2010 - Gray Matter|Gray Matter]] was first announced in 2003, as the secretive "Project Jane-J" at E3.[^ref-3][^ref-11] Jensen later explained the long delay: "The first publisher ended up dropping the project due to lack of funding. Then with the second publisher we had a development team change which really set the project back."[^ref-11] Publisher dtp re-announced the game at the Leipzig Games Convention in August 2006, handed development to the French studio Wizarbox in 2008, and released it in November 2010.[^ref-1][^ref-24]
 
-In 2012, Jensen co-founded Pinkerton Road Studio with her husband Robert Holmes, marking her full return to independent adventure game development.[^ref-7] The timing felt right to her: "I think the casual market is ready for meatier material and I think third person adventure games will be a kind of revelation after all the first person HOGs."[^ref-5] The studio launched a successful Kickstarter campaign with more than 5,000 backers.[^ref-7]
+On April 5, 2012, Jensen and her husband, composer Robert Holmes, announced their own studio, Pinkerton Road.[^ref-1][^ref-23] Launching it, she told Gamezebo: "I've always been an adventure game designer at heart, and I tried to incorporate as much of that as constraints allowed into my hidden object games." She added: "I think the casual market is ready for meatier material and I think third person adventure games will be a kind of revelation after all the first person HOGs."[^ref-19] After a Kickstarter campaign with more than 5,000 backers, Pinkerton Road released [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] and [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] in 2014.[^ref-2] She was also story consultant on Phoenix Online Studios' [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] (2012–2013).[^ref-1]
 
-Jensen also served as story consultant on Phoenix Online Studios' [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] (2012–2013), bringing her narrative expertise to a new generation of adventure games.[^ref-12] In 2014, Pinkerton Road released both [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] and [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]], allowing Jensen to create new intellectual property while also revisiting and refining her most celebrated work.[^ref-7]
+The studio did not continue. "It's a shame, because we could have done so much with Pinkerton Road. But if we do any more games, it will be with a publisher who fully finances them," Jensen told Adventure Game Hotspot in 2023.[^ref-10] In July 2024 she said she had written what was "basically like the first chapter of a new Gabriel Knight story," and that "Now that the licenses are with Microsoft, I think there's at least a chance" of it becoming a full game.[^ref-13] The first chapter, titled "Five Hearts," was released on November 19, 2024.[^ref-22]
 
-However, Pinkerton Road faced financial challenges. Jensen told Adventure Game Hotspot in 2023: "It's a shame, because we could have done so much with Pinkerton Road. But if we do any more games, it will be with a publisher who fully finances them."[^ref-10] Despite these difficulties, Jensen has continued working on Gabriel Knight material, releasing the illustrated short story "Five Hearts" in November 2024 and confirming that she has written the first chapter of a potential Gabriel Knight 4.[^ref-13]
+### Novels and Eli Easton
+
+Jensen wrote novelizations of Gabriel Knight: Sins of the Fathers (1997) and The Beast Within (1998), and two original novels, Millennium Rising (1999, later retitled Judgment Day) and Dante's Equation (2003).[^ref-1][^ref-6][^ref-18] *Dante's Equation* received a special citation at the 2004 Philip K. Dick Award.[^ref-25] In 2016 Berkley Prime Crime published two Amish-country mysteries featuring detective Elizabeth Harris, *Kingdom Come* and *In the Land of Milk and Honey*.[^ref-26][^ref-27]
+
+Since 2013 she has also written gay romance fiction under the pen name Eli Easton, which she discussed openly with Vice in 2021: "I've come to love writing as Eli Easton."[^ref-5]
 
 ## Notable Works
 
 ### Gabriel Knight: Sins of the Fathers (1993)
 
-Jensen's debut solo project established her reputation as a master of interactive storytelling, combining supernatural horror with detective fiction in a sophisticated narrative framework.[^ref-6] Set in New Orleans, the game featured extensive research into voodoo culture and local atmosphere.[^ref-2] The game's complex plot, memorable characters, and mature themes helped establish adventure games as a medium capable of sophisticated adult storytelling.[^ref-2] Gabriel Knight won Computer Gaming World's "Adventure Game of the Year" award.[^ref-1]
+Jensen designed, directed and wrote the game, and also wrote its text, dialogue and documentation.[^ref-14] Its hero comes from "a family line of witchhunters" in New Orleans, and its voodoo murders grew out of her reading: "Usually I pick up a book and get interested in a subject and that makes me want to write about it. It was that way with Voodoo."[^ref-6][^ref-4] *Computer Gaming World*'s editors could not choose between it and LucasArts' Day of the Tentacle, and named the two co-winners of the Premier Adventure Game of the Year award in June 1994. They judged Gabriel Knight "the best dramatic presentation in this genre."[^ref-20]
 
 ### The Beast Within: A Gabriel Knight Mystery (1995)
 
-Jensen's second Gabriel Knight game expanded the series' scope with a full-motion video presentation and dual protagonists, telling parallel stories in Germany involving werewolf mythology.[^ref-6] Jensen traveled to Germany to research the game, visiting locations related to King Ludwig II of Bavaria.[^ref-1] The game's ambitious production represented the peak of Sierra's investment in the FMV adventure format, and Jensen notably wrote an original opera libretto that appears in the game.[^ref-14] The Beast Within won Computer Gaming World's game of the year award in 1996.[^ref-1]
+The sequel, set in Germany and built around werewolf lore, was produced entirely in full-motion video.[^ref-2][^ref-1][^ref-4] Jensen spent five months on the plot outline and nine more on the script, and traveled to Germany for research.[^ref-4] She also wrote the libretto for the opera in the game.[^ref-14] *Computer Gaming World* named it Game of the Year: "This year's winner was a clear-cut choice."[^ref-21]
 
 ### King's Quest VI: Heir Today, Gone Tomorrow (1992)
 
-As co-designer with Roberta Williams, Jensen contributed significantly to what many consider the finest King's Quest game.[^ref-8] Her writing skills helped elevate the series' traditionally simplistic storytelling, introducing more sophisticated character development and narrative structure.[^ref-4] This project served as an important stepping stone in Jensen's career, providing her with the credibility and experience necessary to pitch her own original concepts to Sierra management.[^ref-7]
+Jensen co-designed, co-directed and co-wrote King's Quest VI with Roberta Williams, and wrote its guidebook.[^ref-6][^ref-14] She described the collaboration as "formative," noting that the two "design very differently." The game is widely recognized as the high point of the series.[^ref-6][^ref-8]
 
 ## Design Philosophy
 
-Jensen's approach to game design was fundamentally rooted in her belief that interactive entertainment could and should appeal to a broader audience than traditional gaming demographics.[^ref-2] Her emphasis on strong narrative, complex characters, and mature themes reflected her conviction that games could serve as a legitimate storytelling medium.[^ref-6] She drew inspiration from diverse sources, including authors Stephen King and Anne Rice, as well as classic adventure games.[^ref-1]
-
-The integration of mystery and supernatural elements became Jensen's signature approach, as she recognized that "a mystery plotline would work really well with the interactivity you wanted in a game."[^ref-5] Her games consistently featured extensive research and attention to cultural detail, whether exploring New Orleans voodoo culture, German werewolf mythology, or Holy Grail legends.[^ref-1] "Usually I pick up a book and get interested in a subject and that makes me want to write about it," she explained.[^ref-4]
-
-Jensen's design philosophy also emphasized accessibility and inclusivity, recognizing that adventure games could attract "women and older gamers" beyond the traditional young male audience.[^ref-2] Her sophisticated writing and character development helped legitimize gaming as an adult entertainment medium, paving the way for future narrative-focused games.[^ref-6]
+Jensen has repeatedly said that adventure games are for an audience beyond young male gamers. "I get a lot of letters from women and older people who want a great story, a beautiful environment to explore, and who hate shooters and 'twitch' games - this is the adventure game audience," she said in 2003.[^ref-3] The Strong Museum of Play's biography sums her view up the same way: she noted that "a good storyline was vital to attracting a wider range of game players."[^ref-2] She names Stephen King and Anne Rice as her primary influences in writing.[^ref-1]
 
 ## Legacy
 
-Jane Jensen's impact on adventure gaming extends far beyond her individual titles, as her work helped establish interactive storytelling as a legitimate artistic medium.[^ref-2] "Jensen's strong writing skills and exciting game design cultivated a loyal fan base" that continues to celebrate her contributions to the medium.[^ref-7] Her influence can be seen in the numerous adventure games that followed her example of combining mature themes, supernatural elements, and sophisticated writing.[^ref-15]
-
-The Gabriel Knight series in particular has achieved cult status among adventure gaming enthusiasts, with fans regularly citing Jensen's work as representing the pinnacle of the genre's artistic achievement.[^ref-9] Gaming critics recognize her games as masterpieces of the genre, praising their literary quality and atmospheric presentation.[^ref-16] Her successful transition from corporate programmer to celebrated designer serves as an inspiration for aspiring game developers seeking to combine technical skills with creative vision.[^ref-17]
-
-Jensen's continued involvement in game development and Gabriel Knight storytelling demonstrates her ongoing commitment to the adventure game genre.[^ref-10] When asked about the possibility of creating Gabriel Knight 4, she has confirmed she has written material for it and that "the licenses are with Microsoft."[^ref-13] Her enduring popularity and influence ensure that her legacy in interactive entertainment will continue to inspire future generations of game designers.[^ref-18]
+According to the Strong Museum of Play, "Jensen's strong writing skills and exciting game design cultivated a loyal fan base."[^ref-2] The museum holds the Jane Jensen papers, a collection of her game design bibles and scripts.[^ref-2] Adventure Game Hotspot called the series "one of the most beloved franchises in the adventure game genre" in 2023.[^ref-10]
 
 ## Games
 
 ### Sierra On-Line (1991–1999)
 
 - **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Co-Designer
-- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Writer
-- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Co-Designer, Writer
-- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Voice Actor
+- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Writer (additional written material), Documentation
+- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Co-Designer, Co-Director, Writer
+- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Voice (the Flapper)
 - **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Role: Designer, Director, Writer
 - **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Role: Designer
 - **1995** — [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] — Role: Designer, Writer
 - **1999** — [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] — Role: Designer, Writer
 
-### Post-Sierra (2010–Present)
+### Casual Games (2003–2011)
+
+Credits per MobyGames:[^ref-14]
+
+- **2003** — Inspector Parker — Role: Designer
+- **2004** — Inspector Parker in Betrapped! — Role: Designer
+- **2007** — Agatha Christie: Death on the Nile — Role: Designer
+- **2007** — Agatha Christie: Peril at End House — Role: Designer
+- **2007** — James Patterson: Women's Murder Club – A Darker Shade of Grey — Role: Designer
+- **2008** — Dr. Lynch: Grave Secrets — Role: Game Designer
+- **2008** — James Patterson: Women's Murder Club – Death in Scarlet — Role: Original Design
+- **2009** — James Patterson: Women's Murder Club – Twice in a Blue Moon — Role: Designer
+- **2009** — Agatha Christie: Dead Man's Folly — Role: Creative Director
+- **2010** — Deadtime Stories — Role: Game Designer/Creative Director
+- **2011** — Charlaine Harris: Dying for Daylight — Role: Game Designer
+
+### Post-Sierra Adventures (2010–Present)
 
 - **2010** — [[2010 - Gray Matter|Gray Matter]] — Role: Designer, Writer
 - **2012** — [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] — Role: Story Consultant
@@ -105,21 +115,24 @@ Jensen's continued involvement in game development and Gabriel Knight storytelli
 
 ## References
 
-[^ref-1]: [MobyGames Profile](https://www.mobygames.com/person/2199/jane-jensen/) — Career overview, game credits, and biographical information
-[^ref-2]: [Museum of Play](https://www.museumofplay.org/blog/building-a-mystery-spotlight-on-jane-jensen/) — Biography, design philosophy, and career overview
-[^ref-3]: [Adventure Classic Gaming Archive](https://web.archive.org/web/20090909053447/http://www.adventureclassicgaming.com/index.php/site/interviews/179/) — Early career and Sierra years
-[^ref-4]: [Adventure Classic Gaming Interview (1999)](http://www.adventureclassicgaming.com/index.php/site/interviews/128/) — First-hand interview about Sierra career and Gabriel Knight development
-[^ref-5]: [Vice Magazine](https://www.vice.com/en/article/gabriel-knight-creator-jane-jensens-successful-second-act-erotic-novelist/) — Career transitions and quotes
-[^ref-6]: [Game Developer](https://www.gamedeveloper.com/pc/playing-catch-up-i-gabriel-knight-i-s-jane-jensen) — Gabriel Knight development and impact
-[^ref-7]: [Goodreads Author Page](https://www.goodreads.com/author/show/32743.Jane_Jensen) — Awards and achievements
-[^ref-8]: [Wikipedia - King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) — Game reception and Jensen's contribution
-[^ref-9]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Creator/JaneJensen) — Fan perspective and game analysis
-[^ref-10]: [Adventure Game Hotspot Interview (2023)](https://adventuregamehotspot.com/interview/381/an-interview-with-jane-jensen-legendary-designer-of-the-gabriel-knight-trilogy) — Recent career updates and Pinkerton Road history
-[^ref-11]: [Alternative Magazine Online](https://alternativemagazineonline.co.uk/2011/04/29/interview-in-conversation-with-jane-jensen-game-designer-gabriel-knight-trilogy-gray-matter/) — Gray Matter development interview
-[^ref-12]: [Cognition Kickstarter](http://www.kickstarter.com/projects/postudios/cognition-an-erica-reed-thriller) — Jensen's story consultant role confirmed
-[^ref-13]: [Time Extension (2024)](https://www.timeextension.com/news/2024/07/i-had-this-dream-with-the-complete-plot-jane-jensen-has-written-a-story-for-gabriel-knight-4) — Gabriel Knight 4 development news
-[^ref-14]: [MobyGames Credits](https://www.mobygames.com/person/2199/jane-jensen/credits/) — Complete game credits including opera libretto credit
-[^ref-15]: [Sierra Gamers](https://www.sierragamers.com/jane-jensen/) — Sierra-focused career analysis
-[^ref-16]: [Reddit AMA](https://www.reddit.com/r/IAmA/comments/2irxex/im_jane_jensen_game_designer_and_author_ama/) — Fan discussion and career overview
-[^ref-17]: [Aventura y Cia](https://www.aventuraycia.com/entrevistas/en/jane-jensen/) — International perspective on career
-[^ref-18]: [Wikipedia](https://en.wikipedia.org/wiki/Jane_Jensen_(video_game_designer)) — Biographical information and comprehensive game list
+[^ref-1]: [MobyGames Profile](https://www.mobygames.com/person/2199/jane-jensen/) — Biography (birth, Anderson University, Hewlett-Packard, Germany research, King/Rice influences, Gray Matter announced Leipzig 2006, novels, Pinkerton Road April 5, 2012) and credits
+[^ref-2]: [Museum of Play](https://www.museumofplay.org/blog/building-a-mystery-spotlight-on-jane-jensen/) — "Building a Mystery: Spotlight on Jane Jensen"; staff writer, GK1 reception, FMV sequel, Kickstarter backers, 2014 releases, Jane Jensen papers
+[^ref-3]: [Adventure Classic Gaming Interview (2003, Wayback)](https://web.archive.org/web/20090909053447/http://www.adventureclassicgaming.com/index.php/site/interviews/179/) — Project Jane-J at E3 2003; "letters from women and older people"
+[^ref-4]: [Adventure Classic Gaming Interview (1999)](http://www.adventureclassicgaming.com/index.php/site/interviews/128/) — Joined Sierra "Feb. of '91"; Police Quest 3 and EcoQuest; Voodoo research; Germany trip for The Beast Within
+[^ref-5]: [Vice: Gabriel Knight Creator Jane Jensen's Successful Second Act: Erotic Novelist](https://www.vice.com/en/article/gabriel-knight-creator-jane-jensens-successful-second-act-erotic-novelist/) — Duncan Fyfe, March 31, 2021; Eli Easton pen name since 2013, in Jensen's own words
+[^ref-6]: [Game Developer: Playing Catch-Up: Gabriel Knight's Jane Jensen](https://www.gamedeveloper.com/pc/playing-catch-up-i-gabriel-knight-i-s-jane-jensen) — Alistair Wallis, May 17, 2007; source of most early-career and Gabriel Knight quotes, GK3 work began 1995, Oberon co-founding
+[^ref-8]: [Wikipedia - King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) — Reception ("widely recognized as the high point in the series")
+[^ref-10]: [Adventure Game Hotspot Interview (2023)](https://adventuregamehotspot.com/interview/381/an-interview-with-jane-jensen-legendary-designer-of-the-gabriel-knight-trilogy) — Casual games and Pinkerton Road quotes (source prints "Charlotte Harris")
+[^ref-11]: [Alternative Magazine Online (2011)](https://alternativemagazineonline.co.uk/2011/04/29/interview-in-conversation-with-jane-jensen-game-designer-gabriel-knight-trilogy-gray-matter/) — Gray Matter "originally announced way back in 2003"; publisher and development team changes
+[^ref-13]: [Time Extension (2024)](https://www.timeextension.com/news/2024/07/i-had-this-dream-with-the-complete-plot-jane-jensen-has-written-a-story-for-gabriel-knight-4) — July 2, 2024; first chapter of a new Gabriel Knight story; "Now that the licenses are with Microsoft"
+[^ref-14]: [MobyGames Credits (Wayback, January 2023)](https://web.archive.org/web/20230125003429/https://www.mobygames.com/developer/sheet/view/developerId,2199) — Full credit list, including KQ6 director, opera libretto, and 2003–2011 casual games
+[^ref-18]: [Wikipedia](https://en.wikipedia.org/wiki/Jane_Jensen_(video_game_designer)) — Bibliography (novels and publishers)
+[^ref-19]: [Gamezebo: Jane Jensen is Coming Back to Adventure Games (Interview)](https://www.gamezebo.com/news/jane-jensen-is-coming-back-to-adventure-games-interview/) — Jim Squires, April 5, 2012; "adventure game designer at heart" and "meatier material" quotes; Oberon Media co-founder
+[^ref-20]: [Computer Gaming World #119, June 1994 (archive.org)](https://archive.org/details/Computer_Gaming_World_Issue_119) — Premier Awards: Gabriel Knight and Day of the Tentacle named co-winners of Adventure Game of the Year
+[^ref-21]: [Computer Gaming World #143, June 1996 (archive.org)](https://archive.org/details/Computer_Gaming_World_Issue_143) — Premier Awards: "GAME OF THE YEAR: Gabriel Knight 2: The Beast Within"
+[^ref-22]: [Adventure Game Hotspot: Jane Jensen releases Gabriel Knight short story Five Hearts](https://adventuregamehotspot.com/announcement/3108/jane-jensen-releases-gabriel-knight-short-story-five-hearts) — Jack Allin, November 19, 2024
+[^ref-23]: [Game Developer: Gabriel Knight creator Jane Jensen founds new studio](https://www.gamedeveloper.com/business/-i-gabriel-knight-i-creator-jane-jensen-founds-new-studio) — Pinkerton Road announcement, 2012
+[^ref-24]: [IGN: Gray Matter Development Taken Over by Wizarbox for Release in 2009](https://www.ign.com/articles/2008/04/02/gray-matter-development-taken-over-by-wizarbox-for-release-in-2009) — dtp announcement, April 2008
+[^ref-25]: [Science Fiction Awards Database: Philip K. Dick Award 2004](https://www.sfadb.com/Philip_K_Dick_Award_2004) — Special Citation: Dante's Equation, Jane Jensen (Del Rey)
+[^ref-26]: [Publishers Weekly: Jane Jensen author page](https://www.publishersweekly.com/pw/authorpage/jane-jensen.html) — Reviews of Kingdom Come and In the Land of Milk and Honey (Berkley Prime Crime)
+[^ref-27]: [Penguin Random House: In the Land of Milk and Honey](https://www.penguinrandomhouse.com/books/318779/in-the-land-of-milk-and-honey-by-jane-jensen) — Book 2 of the Elizabeth Harris novels; published by Berkley, August 2, 2016
