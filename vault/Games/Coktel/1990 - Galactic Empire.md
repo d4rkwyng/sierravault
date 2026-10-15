@@ -12,21 +12,21 @@ series: "Galactic Empire"
 engine: "Custom 3D (filled polygon)"
 protagonist: "Imperial secret agent (cover identity Ted Fost)"
 sierra_lineage: "Sierra Label (Coktel)"
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 description: "Galactic Empire is a 1990 first-person 3D action-adventure from Coktel Vision's Tomahawk label, in which an imperial agent investigates a civil war on the planet Ether. It was adapted from François Nédélec's French tabletop role-playing game Empire Galactique."
 tags: [1990s, coktel, tomahawk, galactic-empire, action-adventure, francois-nedelec]
 composer: ["Frédéric Motte"]
 ---
 # Galactic Empire
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 > [!note] Not the 1979 Brøderbund game
 > This page covers the 1990 Coktel Vision/Tomahawk game. Doug Carlston's unrelated 1979 strategy game of the same name, published by Brøderbund, is a different title.[^ref-19]
 
 ## Overview
 
-*Galactic Empire* is a first-person 3D action-adventure released in 1990 for MS-DOS, Amiga and Atari ST. MobyGames credits its development to [[Coktel Vision]] and MDO, with publishing by [[Tomahawk]] and, in North America, Electronic Zoo.[^ref-1] Tomahawk was not a separate company. In 1990 the Spanish magazine *Micromanía* explained that Coktel Vision published under two labels, Tomahawk for games only and Coktel Vision for educational software.[^ref-2] This explains why some databases list Tomahawk as the developer and Coktel Vision as the publisher, the reverse of MobyGames' arrangement.[^ref-3]
+*Galactic Empire* is a first-person 3D action-adventure released in 1990 for MS-DOS, Amiga and Atari ST. MobyGames credits its development to [[Coktel Vision]] and MDO, with publishing by [[Tomahawk]] and Electronic Zoo; Hall of Light records the Electronic Zoo release for the USA.[^ref-1][^ref-9] Tomahawk was not a separate company. In 1990 the Spanish magazine *Micromanía* explained that Coktel Vision published under two labels, Tomahawk for games only and Coktel Vision for educational software.[^ref-2] This explains why some databases list Tomahawk as the developer and Coktel Vision as the publisher, the reverse of MobyGames' arrangement.[^ref-5][^ref-15]
 
 The player is an imperial secret agent sent to the planet Ether, where a civil war has run for three years. Travelling under the cover identity of Ted Fost, a reporter, the agent has to find out what caused the uprising.[^ref-1] The game was adapted from *Empire Galactique*, the French tabletop role-playing game that François Nédélec created for the publisher Robert Laffont in 1984.[^ref-4][^ref-5][^ref-2] MobyGames credits Nédélec and Frédéric Chauvelot with the game's conception and scenario.[^ref-1]
 
@@ -35,7 +35,7 @@ Contemporary reviews admired the filled-polygon 3D world but split on the game i
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]] / MDO[^ref-1]
 > **Designer:** François Nédélec, Frédéric Chauvelot (conception and scenario)[^ref-1]
-> **Publisher:** [[Tomahawk]] (Coktel Vision); Electronic Zoo (North America)[^ref-1][^ref-9]
+> **Publisher:** [[Tomahawk]] (Coktel Vision); Electronic Zoo (USA)[^ref-1][^ref-9]
 > **Engine:** Custom filled-polygon 3D[^ref-8][^ref-9]
 > **Platforms:** MS-DOS, Amiga, Atari ST[^ref-1]
 > **Release Year:** 1990[^ref-1]
@@ -88,7 +88,7 @@ Other mechanics, as described by contemporary reviewers:
 | *Tilt* No. 87 (February 1991) | PC | 15/20 (interest) | Four stars for graphics and animation, two for sound; reviewer Jean-Loup Jovanovic[^ref-6] |
 | *Amiga Joker* (March 1991) | Amiga | 59% | Reviewer Joachim Nettelbeck[^ref-3][^ref-9] |
 | *ST-Magazin* 05/1991 | Atari ST | 2 of 6 | Price about 90 DM[^ref-7] |
-| *Amiga Action* No. 22 (July 1991) | Amiga | 69% | Review on page 44[^ref-3][^ref-9] |
+| *Amiga Action* No. 22 (July 1991) | Amiga | 69%[^ref-3][^ref-9] | Review on page 44[^ref-10] |
 
 *Tilt*'s Jean-Loup Jovanovic praised a "décor 3D surfaces pleines splendide (en VGA)" ("splendid filled-surface 3D scenery, in VGA") and an original communication system. He also found the world coherent and full of surprises.[^ref-6]
 
@@ -192,7 +192,7 @@ No re-release in a compilation or on a digital storefront was found during resea
 
 [^ref-1]: [MobyGames – Galactic Empire (1990)](https://www.mobygames.com/game/6710/galactic-empire/) – developers (Coktel Vision, MDO), publishers (Tomahawk, Electronic Zoo), 1990 DOS/Amiga/Atari ST release, official description (Ether, Voltar, Scarlet Militia, Ted Fost, Cosmopolis, Malkouts clue, five-option emotion dialogue), DOS credits, specs, 63% critic and 4.0/5 player averages, series link to A.G.E.; separate entry for the 1979 game
 [^ref-2]: [Micromanía (Segunda Época) No. 30 (1990) – Coktel Vision feature, Internet Archive](https://archive.org/stream/micromania_ep1/Micromania_ep2_030_djvu.txt) – Tomahawk (games) and Coktel Vision (educational) labels; Gastaldi and Tramis visit to System 4; game converted from the tabletop game of the same name, based on five Robert Laffont books; Atari, Amiga and PC versions
-[^ref-3]: [Lemon Amiga – Galactic Empire](https://www.lemonamiga.com/games/details.php?id=434) – Amiga credits (concept Nédélec and Chauvelot, coder M.D.O., graphics Chosse, music Motte, box art Philippe Bouchet), OCS, 1 disk, C code, languages, Amiga Action No. 22 p. 44 (69%) and Amiga Joker March 1991 p. 32 (59%, Joachim Nettelbeck)
+[^ref-3]: [Lemon Amiga – Galactic Empire](https://www.lemonamiga.com/games/details.php?id=434) – Amiga credits (concept Nédélec and Chauvelot, coder M.D.O., graphics Chosse, music Motte, box art Philippe Bouchet), OCS, 1 disk, C code, languages, Amiga Action No. 22 (69%) and Amiga Joker March 1991 (59%) scores
 [^ref-4]: [Wikipédia (French) – Empire Galactique (jeu de rôle)](https://fr.wikipedia.org/wiki/Empire_galactique_(jeu_de_r%C3%B4le)) – tabletop RPG created by François Nedelec, published by Robert Laffont in November 1984, single 246-page book, illustrated almost entirely by Manchu
 [^ref-5]: [Wikipedia – Galactic Empire (1990 video game)](https://en.wikipedia.org/wiki/Galactic_Empire_(1990_video_game)) – 1990 Coktel Vision title; lists Tomahawk as developer and Coktel Vision as publisher; sequel A.G.E.
 [^ref-6]: [Tilt No. 87 (February 1991) – Galactic Empire review by Jean-Loup Jovanovic, Internet Archive](https://archive.org/details/Tilt087) – PC review: SERSEC agent on Ether, vehicle, oxygen and customs, filled-surface 3D in VGA, five-attitude communication system, difficulty, 15/20 interest, star ratings, "inspiré de l'Empire galactique"
