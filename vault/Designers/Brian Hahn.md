@@ -1,201 +1,150 @@
 ---
 title: "Brian Hahn"
 type: designer
-birth_year: 1959
+birth_year: null
 death_year: null
 notable_games: ["The Incredible Machine", "Sid & Al's Incredible Toons", "The Adventures of Willy Beamish", "Johnny Castaway"]
-companies: ["Dynamix", "Sierra On-Line", "GarageGames", "ZeniMax Online Studios"]
-last_updated: "2026-05-08"
+companies: ["Dynamix", "Sierra On-Line", "GarageGames", "Spotkin"]
+last_updated: "2026-10-15"
 ---
 # Brian Hahn
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-Brian Mark Hahn (born May 3, 1959) is an American graphics artist, designer, and animator whose career in video games spans nearly four decades, from 1985 to the present day.[^ref-1][^ref-6] Best known as the creative force behind [[1992 - The Incredible Machine|The Incredible Machine]] series, Hahn spent nearly fourteen years at Dynamix, where he served in multiple roles including art director, designer, producer, audio director, and localization lead.[^ref-1]
+Brian Hahn is an American artist, art director and game designer, best known for his long run at Dynamix.[^ref-16] He was art director on [[1992 - The Incredible Machine|The Incredible Machine]] (the series was created by Kevin Ryan, with Jeff Tunnell producing)[^ref-16][^ref-10] and went on to co-design its follow-ups, including [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]], [[1994 - The Incredible Machine 2|The Incredible Machine 2]] and the Contraptions games.[^ref-16] MobyGames credits him on 38 games.[^ref-18]
 
-Hahn's contributions to gaming extend far beyond puzzle design.[^ref-7] His work at Dynamix encompassed adventure games like [[1990 - Rise of the Dragon|Rise of the Dragon]], [[1991 - Heart of China|Heart of China]], and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]], sports titles like the Trophy Bass series, and casual games including the 3-D Ultra Minigolf franchise.[^ref-2][^ref-9] He is also credited with creating the beloved Johnny Castaway screensaver (1992), one of the most iconic desktop diversions of the Windows 3.1 era.[^ref-1][^ref-10]
+At Dynamix he was also an artist on adventure games such as [[1990 - Rise of the Dragon|Rise of the Dragon]], [[1991 - Heart of China|Heart of China]] and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]], and art director on the Trophy Bass series and the 3-D Ultra Minigolf games.[^ref-16][^ref-9] Jeff Tunnell credits him with most of the gags in the Johnny Castaway screensaver (1992).[^ref-6] In 2013 he rejoined Tunnell and Kevin Ryan to work on Contraption Maker, the spiritual successor to The Incredible Machine.[^ref-17]
 
-Remarkably, Hahn remains active in the game industry after a 16-year hiatus.[^ref-2] From 2018 to 2023, he worked as an FX Artist at ZeniMax Online Studios on six major expansions for The Elder Scrolls Online, bringing his career total to over 40 games across 38+ years.[^ref-2][^ref-11] His biography notes that his specialty is "getting people excited about an idea and having a positive, upbeat attitude.[^ref-8] He loves collaboration and encourages lots of communication and team-building."[^ref-3]
+His MobyGames biography says "His specialty is getting people excited about an idea and having a positive, upbeat attitude. He loves collaboration and encourages lots of communication and team-building."[^ref-3]
 
 ## Career
 
-### Education and Early Work
+### Early Work
 
-Brian Hahn attended Lane Community College and the University of Oregon beginning in 1978, where he studied graphic design, software drawing, and HTML.[^ref-1][^ref-13] In 1982, he earned his Bachelor of Science degree in Visual Design, Fine Arts, and Animation.[^ref-1][^ref-14] His first work in the video game industry came in 1985, providing computer graphics for the Commodore 64 version of Dave Winfield's Batter Up! by Avant-Garde Publishing Corporation.[^ref-1][^ref-2][^ref-15]
+Hahn's first credit is as one of the team artists who "provided the computer graphics" for the Commodore 64 version of Dave Winfield's Batter Up! (1985).[^ref-16]
 
 ### Dynamix Years (1987–2001)
 
-Hahn was hired by Dynamix in December 1987 to work as an art director, beginning a tenure that would last thirteen years and eleven months.[^ref-1] At Dynamix, he served multiple roles beyond art direction, including producer, designer, marketing liaison, localization lead, and audio director.[^ref-1] His early contributions included graphics and animation for Caveman Ugh-Lympics (1988), artwork for Motocross (1989), and animation for [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] (1989), where he also appeared as a voice actor playing Dr. Johnson.[^ref-2]
+According to the Dynamix Wiki, Hahn joined Dynamix in December 1987 and left in October 2001.[^ref-1] His MobyGames biography says he worked as an art director, producer, music director and SFX director, worked with marketing, PR and QA, and directed localization.[^ref-3] His early Dynamix credits include graphics and animation for [[1988 - Caveman Ughlympics|Caveman Ugh-Lympics]] (1988), graphics for Motocross (1989), and animation for [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] (1989).[^ref-16]
 
-Hahn also contributed voice work to [[1989 - A-10 Tank Killer|A-10 Tank Killer]] (1989), playing Lieutenant Jake Styles.[^ref-2] His versatility was evident as he transitioned seamlessly between animation, art direction, and even acting roles within productions.
+He also appears in the cast of two 1989 Dynamix games: as Dr. Johnson in David Wolf: Secret Agent and as Lieutenant Jake Styles in [[1989 - A-10 Tank Killer|A-10 Tank Killer]].[^ref-16][^ref-2] These were digitized photographic roles: David Wolf merges "digitized cinematic cutscenes" with its action sequences.[^ref-19]
 
 #### Adventure Game Era (1990–1991)
 
-During Dynamix's golden age of adventure games, Hahn served as an artist on several landmark titles. He contributed to [[1990 - Rise of the Dragon|Rise of the Dragon]] (1990), the cyberpunk adventure that showcased Dynamix's cinematic approach to game design.[^ref-2] He also worked on [[1991 - Heart of China|Heart of China]] (1991) and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] (1991), the latter being a comedic adventure about a young boy with dreams of video game stardom.[^ref-2][^ref-4]
-
-Additional work during this period included [[1990 - Stellar 7|Stellar 7]] (1990) and [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] (1991), where he served as an EGA artist.[^ref-2]
+Hahn was one of the artists on [[1990 - Rise of the Dragon|Rise of the Dragon]] (1990), [[1991 - Heart of China|Heart of China]] (1991) and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] (1991), and an EGA artist on [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] (1991); he is also credited as an artist on [[1990 - Stellar 7|Stellar 7]] (1990).[^ref-16] On Willy Beamish, Tunnell "joined forces with artist Brian Hahn and animator Sheri Wheeler",[^ref-8][^ref-9] and Tunnell has said "the original idea for Willy Beamish was Brian": a game about "a little kid frying ants with a magnifying glass".[^ref-6]
 
 #### The Incredible Machine Era (1992–1995)
 
-The pinnacle of Hahn's career came with his work on [[1992 - The Incredible Machine|The Incredible Machine]] (1992), a physics-based puzzle game that challenged players to create Rube Goldberg-style contraptions.[^ref-2] Serving as both designer and art director, Hahn helped create what would become one of the most beloved puzzle franchises of the 1990s, with lasting influence on educational gaming.[^ref-3]
+[[1992 - The Incredible Machine|The Incredible Machine]] was designed and coded by Kevin Ryan and produced by Jeff Tunnell;[^ref-10] Hahn was its art director.[^ref-16] He then designed and art-directed its follow-ups: MobyGames credits him among the designers of [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] (1993), [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] (1994, original designers) and [[1994 - The Incredible Machine 2|The Incredible Machine 2]] (1994), and as art director on all three and on The Even More! Incredible Machine (1993). On Sid & Al's and The Incredible Toon Machine he also did the music and sound effects.[^ref-16]
 
-That same year, Hahn served as art director and contributed gags for Johnny Castaway (1992), a revolutionary screensaver featuring an animated castaway stranded on a tiny island.[^ref-1] The screensaver became a cultural phenomenon and is remembered as one of the most creative desktop diversions of the era.
+That same year, Hahn worked on Johnny Castaway (1992). Asked about the "Gags" credit, Tunnell wrote: "Brian Hahn and I, but mostly Brian, came up with most of the gags. Brian is so funny, he is always the guy when thinking up funny characters and almost Vaudvillian stunts and pranks."[^ref-6]
 
-Hahn also art-directed educational titles including Quarky & Quaysoo's Turbo Science (1992), which taught scientific concepts through puzzles, and Turbo Learning: Mega Math (1993).[^ref-1][^ref-2]
-
-The success of The Incredible Machine led to multiple sequels and spin-offs: [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] (1993), The Even More! Incredible Machine (1993), [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] (1994), and [[1994 - The Incredible Machine 2|The Incredible Machine 2]] (1994).[^ref-2] On several of these titles, Hahn wore multiple hats—serving as designer, art director, and even contributing music and sound effects for Sid & Al's Incredible Toons and The Incredible Toon Machine.[^ref-1][^ref-2]
-
-He also art-directed Trophy Bass (1995), beginning his association with Sierra's fishing simulation franchise.[^ref-1]
+Hahn also art-directed educational titles including Quarky & Quaysoo's Turbo Science (1992) and Turbo Learning: Mega Math (1993), and was one of the art directors of Trophy Bass (1995).[^ref-16]
 
 #### Later Sierra Era (1996–2001)
 
-After the Incredible Machine series established its legacy, Hahn continued as a senior art director at Sierra/Dynamix on diverse projects. He art-directed [[1996 - Hunter Hunted|Hunter Hunted]] (1996), a side-scrolling action game, and oversaw the visual design of the 3-D Ultra series of casual games.[^ref-2]
+He art-directed [[1996 - Hunter Hunted|Hunter Hunted]] (1996) and was one of the art directors of Front Page Sports: Trophy Rivers (1997).[^ref-16] His work on the 3-D Ultra games included:[^ref-16]
+- 3-D Ultra Minigolf (1997) as Art Director
+- 3-D Ultra MiniGolf Deluxe (1998) as Managing Art Director
+- 3-D Ultra NASCAR Pinball (1998) as Managing Art Director
+- 3-D Ultra Pinball: Thrillride (2000) as Art Assistance
 
-His work on the 3-D Ultra franchise included:
-- 3-D Ultra Minigolf (1997) as Art Director[^ref-2]
-- 3-D Ultra MiniGolf Deluxe (1998) as Managing Art Director[^ref-2]
-- 3-D Ultra NASCAR Pinball (1999) as Managing Art Director[^ref-2]
-- 3-D Ultra Pinball: Thrillride (2000) as Art Assistance[^ref-2]
+[[2000 - Return of The Incredible Machine - Contraptions|Return of the Incredible Machine: Contraptions]] (2000) and [[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]] (2001) saw him return as designer and art director; he also did the box art for Contraptions.[^ref-16]
 
-He also continued contributing to the Trophy Bass series with Front Page Sports: Trophy Rivers (1997).[^ref-2]
+### After Dynamix
 
-Hahn's final Sierra projects brought his career with The Incredible Machine full circle. [[2000 - Return of The Incredible Machine - Contraptions|Return of the Incredible Machine: Contraptions]] (2000) and [[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]] (2001) saw him return as designer and art director, also creating the box art for Contraptions.[^ref-2] He left Dynamix in October 2001 after nearly fourteen years with the company.[^ref-1]
+MobyGames credits him on GarageGames' Marble Blast (2002, "The Marble Blast Team") and as an artist on Chain Reaction (2002).[^ref-16]
 
-### Post-Dynamix (2002)
+On May 13, 2013, Jeff Tunnell announced Contraption Maker, "the spiritual successor to The Incredible Machine", adding that "Kevin Ryan and Brian Hahn are both working on the project (along with the rest of the incredibly talented people at Spotkin), so we have the entire original team that worked on TIM."[^ref-17] Contraption Maker was released for Windows and Macintosh in 2013.[^ref-20]
 
-After departing Dynamix, Hahn briefly joined GarageGames, the company founded by former Dynamix employees including Jeff Tunnell.[^ref-1] There he contributed to Marble Blast (2002), a physics-based puzzle game in the spirit of his earlier work, and Chain Reaction (2002) as an artist.[^ref-1][^ref-2]
-
-In 2000, Hahn attended the Oregon Leadership Institute and completed their Leadership Training program for corporate and private careers.[^ref-1]
-
-### ZeniMax Online Studios (2018–2023)
-
-After a sixteen-year absence from major game development, Hahn returned to the industry in 2018 as an FX Artist at ZeniMax Online Studios, working on expansions for The Elder Scrolls Online.[^ref-2] His contributions span six major expansions:
-
-- The Elder Scrolls Online: Summerset (2018)[^ref-2]
-- The Elder Scrolls Online: Elsweyr (2019)[^ref-2]
-- The Elder Scrolls Online: Greymoor (2020)[^ref-2]
-- The Elder Scrolls Online: Blackwood (2021)[^ref-2]
-- The Elder Scrolls Online: High Isle (2022)[^ref-2]
-- The Elder Scrolls Online: Necrom (2023)[^ref-2]
-
-This remarkable return demonstrates the enduring relevance of his artistic skills across dramatically different eras and technologies in game development.
+MobyGames' profile for Hahn also lists FX Artist credits on The Elder Scrolls Online expansions from 2018 onward.[^ref-16][^ref-18] It has not been confirmed that these belong to the same Brian Hahn: his own MobyGames biography does not mention ZeniMax, and other artists of the same name work in visual effects.
 
 ### Current Activities
 
-Hahn currently lives in Eugene, Oregon, where he operates his own graphic design business, Iconographic Design, providing artwork for computer games, mobile apps, and businesses.[^ref-3][^ref-5] He teaches acrylic painting at various venues including Vino & Vango in Springfield, Oregon, Michaels Arts & Crafts, and Lane Community College.[^ref-3] He also teaches art to elementary school children through Young Rembrandts and performs caricatures at events throughout Oregon, Washington, and California.[^ref-3]
+Hahn's MobyGames biography (last updated 2014) says he runs his own graphic design business, producing artwork for computer games, mobile apps and businesses, and teaches acrylic painting and drawing and does caricatures at events in Oregon, Washington and California.[^ref-3]
 
 ## Notable Works
 
 ### The Incredible Machine (1992)
 
-[[1992 - The Incredible Machine|The Incredible Machine]] stands as Hahn's masterpiece and most enduring contribution to video game history.[^ref-2] This physics-based puzzle game challenged players to create elaborate Rube Goldberg-style contraptions using everyday objects—bowling balls, trampolines, conveyor belts, cats, and candles—to accomplish simple goals like popping balloons or helping mice reach cheese.[^ref-3]
-
-The game's genius lay in its open-ended design philosophy, offering players virtually unlimited ways to solve each puzzle. This approach made it equally appealing to children learning cause-and-effect relationships and adults enjoying creative problem-solving. The Incredible Machine became a staple in schools and homes, helping establish video games as legitimate educational tools.[^ref-3]
+Hahn was art director on [[1992 - The Incredible Machine|The Incredible Machine]],[^ref-16] the Rube Goldberg puzzle game designed and coded by Kevin Ryan and produced by Jeff Tunnell.[^ref-10] He later co-designed its sequels and spin-offs.[^ref-16]
 
 ### Johnny Castaway (1992)
 
-The Johnny Castaway screensaver, for which Hahn served as art director and contributed gags, became one of the most beloved desktop diversions of the early Windows era.[^ref-1] The screensaver featured an animated castaway on a tiny island, performing various activities, encountering visitors, and even escaping—only to return. Its charm and humor made it a workplace phenomenon in the 1990s.
+For the Johnny Castaway screensaver, Tunnell says Hahn came up with most of the gags.[^ref-6] Tunnell describes it as having been "pitched as the world's first story telling screen saver."[^ref-6]
 
 ### Sid & Al's Incredible Toons (1993)
 
-[[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] reimagined The Incredible Machine concept with cartoon characters and scenarios inspired by classic animation.[^ref-2] Hahn served as designer, art director, and contributed music and sound effects, demonstrating his multifaceted talents. The game maintained the core puzzle mechanics while adding animated personalities and slapstick humor.[^ref-1]
-
-## Design Philosophy
-
-Brian Hahn's approach to game development emphasizes collaboration, positivity, and creative problem-solving. His MobyGames biography captures his philosophy: "His specialty is getting people excited about an idea and having a positive, upbeat attitude. He loves collaboration and encourages lots of communication and team-building."[^ref-3]
-
-This collaborative spirit is reflected in The Incredible Machine series, which encouraged players to experiment freely and find their own solutions rather than following prescribed paths. The games respected player intelligence while remaining accessible to all ages—a balance that made them both educational and genuinely entertaining.[^ref-3]
-
-Hahn's versatility—working across roles as diverse as designer, art director, animator, voice actor, and audio director—demonstrates his belief in understanding all aspects of game production. His career shows an artist who remained engaged with his craft across decades and dramatic technological changes, from Commodore 64 graphics to modern MMO visual effects.
-
-## Legacy
-
-Brian Hahn's influence on game design extends across multiple dimensions. The Incredible Machine series established a template for physics-based puzzle games that continues to inspire developers today, from mobile puzzle games to educational software.[^ref-3] His work demonstrated that complex systems could be made accessible and engaging through thoughtful design and playful presentation.
-
-His career trajectory—from early Commodore 64 work through the golden age of adventure games, the rise of educational gaming, the casual games boom, and into modern MMO development—makes him a unique witness to the evolution of the game industry. Few designers have remained active across such a span of technological and cultural change.
-
-The enduring popularity of his work, particularly The Incredible Machine series, testifies to the timeless appeal of well-designed games that encourage creativity and experimentation. His philosophy of collaboration and positive energy contributed to the creative atmosphere that made Dynamix one of the most innovative studios of its era.
+On [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]], Hahn is credited as one of the designers, art director, music and sound effects, and manual art.[^ref-16]
 
 ## Games
 
+Roles follow MobyGames' credit wording unless another source is cited.[^ref-16]
+
 ### Early Career (1985–1989)
 
-- 1985 — Dave Winfield's Batter Up! — C64 Graphics
-- 1988 — Caveman Ugh-Lympics — Graphics, Animation
-- 1989 — Motocross — Graphics, Artwork
-- **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Role: Animation, Voice Actor (Dr. Johnson)
-- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Voice Actor (Lt. Jake Styles)
-- 1989 — Ghostbusters II — Art, Art Director, Animator
+- 1985 — Dave Winfield's Batter Up! — Team artists (C64 graphics)
+- 1988 — [[1988 - Caveman Ughlympics|Caveman Ugh-Lympics]] — Graphics & Animation
+- 1989 — Motocross — Graphics / Artwork
+- **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Role: Animation; The Cast (as Dr. Johnson)
+- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Cast (as Lt. Jake Styles)
 
 ### Adventure Era (1990–1992)
 
 - **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Artist
-- **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Role: Artist
-- **1991** — [[1991 - Heart of China|Heart of China]] — Role: Artist
-- **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Role: Artist
-- **1991** — [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] — Role: EGA Artist
-- **1991** — [[1991 - A-10 Tank Killer v1.5|A-10 Tank Killer v1.5]] — Role: Voice Actor (Lt. Jake Styles)
+- **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Role: Artists
+- **1991** — [[1991 - Heart of China|Heart of China]] — Role: Artists
+- **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Role: Artists
+- **1991** — [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] — Role: Artists EGA
 
 ### The Incredible Machine Era (1992–1995)
 
 - **1992** — [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]] — Role: Art Director
-- **1992** — [[1992 - Johnny Castaway|Johnny Castaway]] — Role: Art Director, Gags
-- **1992** — [[1992 - The Incredible Machine|The Incredible Machine]] — Role: Designer, Art Director
+- **1992** — [[1992 - Johnny Castaway|Johnny Castaway]] — Role: Gags[^ref-6]
+- **1992** — [[1992 - The Incredible Machine|The Incredible Machine]] — Role: Art Director
 - **1993** — [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] — Role: Art Director
-- **1993** — [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] — Role: Designer, Art Director, Music, Sound Effects
+- **1993** — [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] — Role: Designers, Art Director, Music / Sound Effects, Manual Art
 - **1993** — [[1993 - The Even More Incredible Machine|The Even More! Incredible Machine]] — Role: Art Director
-- **1994** — [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] — Role: Designer, Art Director, Music, Sound Effects
-- **1994** — [[1994 - The Incredible Machine 2|The Incredible Machine 2]] — Role: Original Designer, Art Director
-- **1995** — [[1995 - Trophy Bass|Trophy Bass]] — Role: Art Director
+- **1994** — [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] — Role: Original Designers, Art Directors, Music & Sound Effects, Manual Art
+- **1994** — [[1994 - The Incredible Machine 2|The Incredible Machine 2]] — Role: Designers, Art Director, Manual Artwork
+- **1995** — [[1995 - Trophy Bass|Trophy Bass]] — Role: Art Directors
 
 ### Later Sierra Era (1996–2001)
 
 - **1996** — [[1996 - Hunter Hunted|Hunter Hunted]] — Role: Art Director
-- **1997** — [[1997 - Front Page Sports - Trophy Rivers|Front Page Sports: Trophy Rivers]] — Role: Art Director
+- **1997** — [[1997 - Front Page Sports - Trophy Rivers|Front Page Sports: Trophy Rivers]] — Role: Art Directors
 - **1997** — [[1997 - 3-D Ultra MiniGolf|3-D Ultra Minigolf]] — Role: Art Director
 - **1998** — [[1998 - 3-D Ultra MiniGolf Deluxe|3-D Ultra MiniGolf Deluxe]] — Role: Managing Art Director
-- **1999** — [[1998 - 3-D Ultra NASCAR Pinball|3-D Ultra NASCAR Pinball]] — Role: Managing Art Director
+- **1998** — [[1998 - 3-D Ultra NASCAR Pinball|3-D Ultra NASCAR Pinball]] — Role: Managing Art Director
 - **1999** — [[1999 - 3-D Ultra Radio Control Racers|3-D Ultra Radio Control Racers]] — Role: Special Thanks
 - **1999** — [[1999 - Field & Stream - Trophy Bass 3D|Field & Stream: Trophy Bass 3D]] — Role: Past Contributions
 - **2000** — [[2000 - Return of The Incredible Machine - Contraptions|Return of the Incredible Machine: Contraptions]] — Role: Designer, Art Director, Box Art
 - **2000** — [[2000 - 3-D Ultra Pinball - Thrill Ride|3-D Ultra Pinball: Thrillride]] — Role: Art Assistance
 - **2000** — [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|3-D Ultra Radio Control Racers Deluxe]] — Role: Art Special Thanks
 - **2000** — [[2000 - Field & Stream - Trophy Bass 4|Field & Stream: Trophy Bass 4]] — Role: Past Contributions
-- **2001** — [[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]] — Role: Designer, Art Director
+- **2001** — [[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]] — Role: Designer/Art Director, Parts Artists
 
-### Post-Dynamix (2002)
+### After Dynamix
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
-| 2002 | Marble Blast | GarageGames | Marble Blast Team |
-| 2002 | Chain Reaction | GarageGames | Artist |
-
-### ZeniMax Online Studios (2018–2023)
-
-| Year | Title | Role |
-|------|-------|------|
-| 2018 | The Elder Scrolls Online: Summerset | FX Artist |
-| 2019 | The Elder Scrolls Online: Elsweyr | FX Artist |
-| 2020 | The Elder Scrolls Online: Greymoor | FX Artist |
-| 2021 | The Elder Scrolls Online: Blackwood | FX Artist |
-| 2022 | The Elder Scrolls Online: High Isle | FX Artist |
-| 2023 | The Elder Scrolls Online: Necrom | FX Artist |
+| 2002 | Marble Blast | GarageGames | The Marble Blast Team |
+| 2002 | Chain Reaction | GarageGames | Artists |
+| 2013 | Contraption Maker | Spotkin | Worked on the project, per Jeff Tunnell[^ref-17] |
 
 ## References
 
-[^ref-1]: [Dynamix Wiki - Brian Hahn](https://dynamix.fandom.com/wiki/Brian_Hahn) — Comprehensive biography with career timeline, education, and complete gameography
-[^ref-2]: [MobyGames - Brian Hahn Credits](https://www.mobygames.com/person/422/brian-hahn/credits/) — Complete game development credits (71 credits across 38 games)
-[^ref-3]: [MobyGames - Brian Hahn Profile](https://www.mobygames.com/person/422/brian-hahn/) — Biography, design philosophy, and frequent collaborators
-[^ref-4]: [IMDb - Brian Hahn](https://www.imdb.com/name/nm1697568/) — Film and video game credits including voice acting roles
-[^ref-5]: [LinkedIn - Brian Hahn (Iconographic Design)](https://www.linkedin.com/in/iconographicdesign/) — Current professional activities and design business
-[^ref-6]: [Jeff Tunnell - Johnny Castaway Common Questions](https://jefftunnell.com/johnny-castaway-common-questions/) — Development history of Johnny Castaway from Jeff Tunnell's perspective
-[^ref-7]: [LinkedIn - Brian Hahn (ZeniMax)](https://www.linkedin.com/in/brian-hahn-a51b54a5/) — Current role as VFX Artist at ZeniMax Online Studios
-[^ref-8]: [Retro365 - Dynamix's Adventures](https://retro365.blog/2024/08/23/dynamixs-adventures/) — Brian Hahn's collaboration with Jeff Tunnell on Willy Beamish character design
-[^ref-9]: [Sega Wiki - The Adventures of Willy Beamish](https://sega.fandom.com/wiki/The_Adventures_of_Willy_Beamish) — Hahn's collaboration with Sheri Wheeler on character design
-[^ref-10]: [Wikipedia - The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine_(series)) — Overview of the franchise Hahn helped create
-[^ref-11]: [The Elder Scrolls Online Credits](https://www.mobygames.com/game/elder-scrolls-online/) — Hahn's FX Artist contributions to ESO expansions
-[^ref-13]: [GarageGames Archive](https://www.garagegames.com/) — Post-Dynamix work on Marble Blast
-[^ref-14]: [Sierra Gamers - Dynamix Staff](https://www.sierragamers.com/dynamix/) — Dynamix company history and key personnel
-[^ref-15]: [Giant Bomb - Brian Hahn](https://www.giantbomb.com/brian-hahn/3040-35996/) — Game credits database
+[^ref-1]: [Dynamix Wiki - Brian Hahn](https://dynamix.fandom.com/wiki/Brian_Hahn) — Fan wiki: Dynamix tenure December 1987 – October 2001
+[^ref-2]: [MobyGames - Brian Hahn Credits](https://www.mobygames.com/person/422/brian-hahn/credits/) — Game development credits (live page)
+[^ref-3]: [MobyGames - Brian Hahn Profile](https://www.mobygames.com/person/422/brian-hahn/) — Biography (roles at Dynamix, design business, teaching)
+[^ref-6]: [Jeff Tunnell - Johnny Castaway Common Questions](https://jefftunnell.com/johnny-castaway-common-questions/) — "Brian Hahn and I, but mostly Brian, came up with most of the gags"; Willy Beamish idea
+[^ref-8]: [Retro365 - Dynamix's Adventures](https://retro365.blog/2024/08/23/dynamixs-adventures/) — Tunnell "joined forces with artist Brian Hahn and animator Sheri Wheeler" on Willy Beamish
+[^ref-9]: [Sega Wiki - The Adventures of Willy Beamish](https://sega.fandom.com/wiki/The_Adventures_of_Willy_Beamish) — Hahn and Sheri Wheeler on character design
+[^ref-10]: [Wikipedia - The Incredible Machine (series)](https://en.wikipedia.org/wiki/The_Incredible_Machine_%28series%29) — Creator Kevin Ryan; produced by Jeff Tunnell; Contraption Maker with Ryan and Hahn
+[^ref-16]: [MobyGames - Brian Hahn credit sheet (Wayback, September 2022)](https://web.archive.org/web/20220922074720/https://www.mobygames.com/developer/sheet/view/developerId,422/) — Full credits with role wording and biography
+[^ref-17]: [Contraption Maker blog - Old Team, Exciting New Product (Wayback)](https://web.archive.org/web/20140727015927/http://contraptionmaker.com/old-team-exciting-new-product/) — Jeff Tunnell, May 13, 2013: "Kevin Ryan and Brian Hahn are both working on the project"
+[^ref-18]: [MobyGames - Brian Hahn (Wayback, January 2025)](https://web.archive.org/web/20250116182226/https://www.mobygames.com/person/422/brian-hahn/) — Profile snapshot with game count
+[^ref-19]: [MobyGames - David Wolf: Secret Agent](https://www.mobygames.com/game/1610/david-wolf-secret-agent/) — "merges digitized cinematic cutscenes with bitmap and 3D animation" (ID 1610, via MobyGames API)
+[^ref-20]: [MobyGames - Contraption Maker](https://www.mobygames.com/game/83394/contraption-maker/) — Windows/Macintosh release August 28, 2013 (ID 83394, via MobyGames API)
