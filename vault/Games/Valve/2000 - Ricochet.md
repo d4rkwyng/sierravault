@@ -3,187 +3,170 @@ title: Ricochet
 release_year: 2000
 developer: Valve
 designer: [Robin Walker]
-publisher: Sierra Studios
+publisher: Valve
 genre: FPS
 platforms: [Windows, Mac, Linux]
 series: Half-Life
 engine: GoldSrc
 protagonist: N/A
-sierra_lineage: Sierra Published
-last_updated: '2026-10-09'
-description: Ricochet is a multiplayer deathmatch game developed by Valve and released
-  on November 1, 2000 as a free modification for Half-Life. The game was developed...
+sierra_lineage: Spinoff
+last_updated: '2026-10-14'
+description: Ricochet is a multiplayer disc-throwing arena game developed and published
+  by Valve, released on November 1, 2000 as a free official mod for the Sierra-published
+  Half-Life and sold on Steam since 2003.
 tags: [2000s, half-life, shooter, sierra]
 ---
 # Ricochet
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 14, 2026</small>
 
 ## Overview
 
-Ricochet is a multiplayer deathmatch game developed by Valve and released on November 1, 2000 as a free modification for Half-Life.[^ref-1][^ref-2] The game was developed as a side project by Robin Walker, co-creator of Team Fortress, to demonstrate how quickly a mod could be created using the Half-Life SDK.[^ref-3] Originally distributed through Sierra's World Opponent Network (WON), Ricochet was later included with Half-Life's 1.1.1.0 update and eventually became a standalone paid product on Steam.[^ref-4]
+Ricochet is a multiplayer deathmatch game developed and published by Valve and released on November 1, 2000 as a free official modification for Half-Life.[^ref-1][^ref-7][^ref-13][^ref-16] Valve's own company timeline records that with Ricochet, Robin Walker "demonstrates to the mod community how a game can be created quickly and easily with Valve's SDK."[^ref-21] The game was later folded into Half-Life's 1.1.1.0 update, and when Valve moved its GoldSrc games to Steam it became a paid product, with owners of retail Half-Life CD keys receiving it free.[^ref-1][^ref-9]
 
-Inspired by the 1982 film Tron and the arcade game Discs of Tron, Ricochet features players competing on floating platforms in a futuristic arena, attempting to knock opponents into the void using throwable energy discs that can ricochet off surfaces.[^ref-5][^ref-6] Despite being one of Valve's least commercially successful titles, the game has maintained a cult following and continues to receive "Very Positive" reviews on Steam with 86% approval from over 4,400 reviewers.[^ref-7]
+Players jump between neon-lit platforms suspended above an abyss and throw discs at one another, trying to push opponents off the platforms; horizontal barriers let discs bounce, which gives the game its name.[^ref-13] On Steam the game holds a "Very Positive" rating, with 86% of 2,996 English-language user reviews positive as of October 2026.[^ref-7]
 
-The game represents an unusual experiment from Valve—a company that would become famous for developing genre-defining multiplayer experiences like Counter-Strike and Team Fortress 2. Ricochet's simple premise and abstract aesthetic stand in contrast to the realistic military combat that dominated multiplayer gaming in the early 2000s.
+Sierra did not publish Ricochet. Steam, SteamDB and MobyGames all list Valve as both developer and publisher.[^ref-7][^ref-19][^ref-13] Its link to Sierra is indirect: it was an official mod for Half-Life, which Sierra published, and it appeared during the years when Sierra handled Valve's retail releases.[^ref-23] The Sierra Connection section below sets out what the records do and don't show.
 
 > [!info]- Game Info
-> **Developer:** Valve[^ref-1]
-> **Designer:** Robin Walker[^ref-3]
-> **Publisher:** Sierra Studios (retail), Valve (Steam)[^ref-4]
+> **Developer:** Valve[^ref-1][^ref-7]
+> **Designer:** Robin Walker[^ref-21]
+> **Publisher:** Valve[^ref-7][^ref-13]
 > **Engine:** GoldSrc[^ref-1]
-> **Platforms:** Windows, Mac, Linux[^ref-7]
+> **Platforms:** Windows, Mac, Linux[^ref-7][^ref-22]
 > **Release Year:** 2000
 > **Series:** Half-Life
 > **Protagonist:** N/A
-> **Sierra Lineage:** Sierra Published
+> **Sierra Lineage:** Spinoff (official mod of the Sierra-published Half-Life; not published by Sierra)
 
 ## Story Summary
 
-As a multiplayer-only deathmatch game, Ricochet features no single-player campaign or narrative storyline.[^ref-13] The game's setting is purely abstract—futuristic neon-lit arenas floating in a digital void, clearly inspired by the visual aesthetic of Disney's Tron (1982) and its iconic disc combat sequences.[^ref-5][^ref-6] Players take on the role of anonymous combatants in these arenas, competing for supremacy through disc-based combat.
-
-The Tron influence is unmistakable: players wield glowing energy discs that can be thrown at opponents and will bounce off surfaces, just like the deadly disc weapons featured in the film's gladiatorial combat sequences. The floating platform arenas evoke the digital landscape of the Grid, creating a distinct visual identity that separated Ricochet from other multiplayer shooters of its era.
+Ricochet is multiplayer-only and has no story or campaign.[^ref-13] Its setting is an abstract, futuristic arena of floating platforms over a void.[^ref-13][^ref-18] Giant Bomb's wiki describes the game as heavily inspired by the disc combat scenes in the 1982 film Tron, and a fan-written Steam guide suggests the arcade game Discs of Tron as an influence.[^ref-18][^ref-6] No Valve statement confirming that inspiration was found.
 
 ## Gameplay
 
 ### Core Mechanics
 
-Ricochet describes itself as "a futuristic action game that challenges your agility as well as your aim."[^ref-7] Players spawn on floating platforms suspended over a void and must eliminate opponents using energy discs that can be thrown and will bounce off walls and surfaces.[^ref-5] A direct hit knocks an opponent backward, potentially sending them falling to their death, while catching a rebounding disc rewards skilled play.[^ref-6]
+Steam describes Ricochet as "a futuristic action game that challenges your agility as well as your aim," with one-on-one and team matches played in futuristic battle arenas.[^ref-7] Players travel between platforms using jump pads, and arenas include bounce pads, teleporters and barriers that send discs back into play.[^ref-18] Each player carries three discs, which regenerate over time.[^ref-18]
 
-The core gameplay loop is deceptively simple: throw discs, avoid discs, don't fall off the platform. However, mastering the physics of disc bounces, predicting opponent movement, and maintaining platform position while attacking creates depth that rewarded dedicated players.
+A standard throw knocks an opponent backward. A secondary attack uses all three discs at once to decapitate the target outright.[^ref-25][^ref-18]
 
-### Structure and Progression
+### Scoring
 
-The game is structured around match-based deathmatch gameplay without a single-player campaign or narrative progression.[^ref-13] Players can engage in one-on-one duels or team-based matches across various futuristic battle arenas.[^ref-7] The deathmatch format tracks eliminations, with players earning points for disc kills and platform knockoffs. Team modes add strategic depth as players coordinate disc throws and platform control with teammates. Matches have adjustable length and score limits, allowing players to customize their experience for casual play or competitive tournaments.
+A direct hit that knocks a player off the platform scores 1 point. Each bounce off a barrier before the hit adds a point, so a triple-bounced hit scores 4. Decapitations always score 1 point.[^ref-25][^ref-6] Only kill points appear on the scoreboard, not deaths.[^ref-25] Matches end at a frag limit or time limit set by the server host.[^ref-6]
 
-### Puzzles and Mechanics
+### Maps
 
-Rather than traditional puzzles, Ricochet's depth emerges from mastering movement, positioning, and disc physics. Players must navigate between floating platforms while simultaneously tracking opponents and avoiding incoming projectiles. The void surrounding the platforms means positioning mistakes are instantly fatal—getting knocked off by a disc or misjudging a jump results in immediate death.
+Three official maps ship with the game: rc_arena, rc_deathmatch and rc_deathmatch2.[^ref-1] Two are deathmatch maps and one is for duels.[^ref-25]
 
-The energy discs function as both weapon and utility tool. Players can throw discs at opponents to damage and knock them backward, but must also catch returning discs or wait for a cooldown before throwing again. Skilled players learn to bank discs off walls to hit opponents from unexpected angles, giving the combat system depth beyond simple aim-and-fire mechanics. Disc combat rewards prediction over pure reaction time—since discs travel slower than bullets and bounce off surfaces, players must anticipate where opponents will be rather than simply aiming at their current position.
+### Powerups
 
-Players can collect powerups scattered across platforms that modify disc behavior, adding variety and tactical options: Triple Shot (three discs simultaneously), Fast Disc (increased speed), Power Disc (enhanced knockback), and Freeze Disc (temporary immobilization)[^ref-8]. These powerups spawn at fixed locations on maps, creating contested objectives that draw players into combat. Controlling powerup spawns becomes a key strategic element for competitive play.
+Four powerups modify the disc for a limited number of throws:[^ref-8][^ref-18]
+
+- **Fast Shot** raises disc speed and shortens the delay between throws.
+- **Freeze Shot** slows players it hits for 7 seconds, and the disc homes in on enemies.
+- **Power Shot** makes every hit a decapitation.
+- **Triple Shot** throws three discs at once.
+
+Unused models in the game files point to two cut powerups, "curve" and "visual"; the code for "visual", which would have shown disc trajectories, survives in the Half-Life SDK.[^ref-3]
 
 ### Interface and Controls
 
-Built on the GoldSrc engine, Ricochet uses Half-Life's first-person perspective but replaces traditional weapons with the disc-throwing mechanic.[^ref-1] The familiar Half-Life control scheme made the game immediately accessible to players familiar with the engine, while the unique disc mechanics provided fresh gameplay. The HUD displays essential information including disc cooldown status, powerup availability, and platform positions. The clean interface keeps focus on the action while providing necessary tactical information.
+Ricochet uses GoldSrc's first-person view and Half-Life's standard keyboard-and-mouse controls.[^ref-1][^ref-6] The HUD shows a crosshair and three disc markers at the bottom of the screen; a thrown disc appears grayed out until it returns or regenerates.[^ref-6]
 
 ## Development
 
 ### Origins
 
-Ricochet was created by Robin Walker as a demonstration project for Valve, intended to show how rapidly a modification could be developed using the Half-Life SDK.[^ref-3] Walker, who had previously created the original Team Fortress mod for Quake before joining Valve, developed Ricochet as a small-scale experiment in game design.[^ref-3] The project proved that the Half-Life engine and modding tools could support rapid game development, contributing to the vibrant mod community that would grow around Half-Life.
-
-Walker's background in team-based multiplayer design influenced Ricochet's development, even though the final product emphasized individual skill over team coordination. The experience of developing Ricochet likely informed Valve's later approaches to multiplayer game design.
+Ricochet was a side project by Robin Walker, made to demonstrate how quickly and easily a mod could be built with the Half-Life SDK.[^ref-1][^ref-21] Valve's 2012 Handbook for New Employees lists it in the company timeline for 2000.[^ref-21] The game's source code is part of the Half-Life SDK repository.[^ref-1]
 
 ### Release and Distribution
 
-The game was released on November 1, 2000, distributed freely through Sierra's World Opponent Network alongside other Half-Life multiplayer content.[^ref-2][^ref-4] WON was Sierra's online gaming service that provided matchmaking and server browsing for Sierra-published PC games. Ricochet's free distribution as a Half-Life mod meant it reached a large audience of existing Half-Life owners.
-
-The Sierra connection came through Valve's publishing relationship—Sierra had published the original Half-Life in 1998 and continued to handle retail distribution for Valve's products. The World Opponent Network provided the infrastructure for Ricochet's online multiplayer, connecting players before Valve developed their own Steam platform.
+Valve released Ricochet as a free Half-Life mod on November 1, 2000.[^ref-1][^ref-7] It was later included in Half-Life's 1.1.1.0 update,[^ref-1][^ref-16][^ref-25] which Valve released on June 12, 2002.[^ref-9]
 
 ### Version History
 
 | Version | Date | Notes |
 |---------|------|-------|
-| 1.0 | November 1, 2000 | Initial release via WON[^ref-2] |
-| 1.1.1.0 | June 12, 2002 | Final official patch[^ref-9] |
-| Steam | September 2003 | Migrated to Steam platform[^ref-17] |
+| 1.0 | November 1, 2000 | Free mod release[^ref-1] |
+| Half-Life 1.1.1.0 | June 12, 2002 | Ricochet included in the Half-Life update[^ref-1][^ref-9] |
+| Steam | September 12, 2003 | Standalone Steam release[^ref-13][^ref-18] |
+| Steam update | July 31, 2013 | Mac OS X and Linux support, SteamPipe conversion[^ref-22][^ref-18] |
 
-The game's final patch (version 1.1.1.0) was released on June 12, 2002.[^ref-9] This update addressed balance issues and compatibility problems, providing the final version that players would continue using for years afterward.
+Version 1.1.1.0 was not the last update. Valve's July 2013 Steam update added Mac OS X and Linux support and moved the game to the SteamPipe content system.[^ref-22]
 
 ### Transition to Steam
 
-When Valve transitioned its games to the Steam platform in 2003, Ricochet was converted from a free mod to a paid standalone product.[^ref-4] This transition was controversial among some players who had previously accessed the game for free. However, players who had registered their retail Half-Life CD keys through Steam received Ricochet for free, grandfathering in existing players while monetizing new customers.[^ref-4]
+When Valve ported its GoldSrc games to Steam, Ricochet became a paid product with no major new content. Owners of retail Half-Life who registered their CD key on Steam received a Steam copy free.[^ref-1] MobyGames and Giant Bomb date the standalone Steam release to September 12, 2003.[^ref-13][^ref-18]
 
-The Steam transition also meant Ricochet would remain available and playable long after the World Opponent Network was shut down, ensuring the game's preservation even as the original distribution platform disappeared.
+## Sierra Connection
+
+Sierra's connection to Ricochet was indirect. Sierra published Half-Life, and Ricochet ran on Half-Life as an official multiplayer mod in the same period.[^ref-1][^ref-23] What the records do not show:
+
+- **Sierra did not publish it.** Steam, SteamDB and MobyGames all list Valve as publisher. MobyGames' 2000 Windows release names Valve L.L.C. as both publisher and developer.[^ref-7][^ref-19][^ref-13]
+- **Sierra did not sell it on its own.** It was a free mod, and later a Valve product on Steam.[^ref-1][^ref-7]
+- **Sierra's own materials don't mention it.** Sierra's Half-Life news page from November 2000 announced the Half-Life: Counter-Strike retail box and the Half-Life: Platinum Edition. It listed their contents without naming Ricochet.[^ref-23]
+
+There is one open question. MobyGames lists Ricochet among the contents of Sierra's Half-Life: Counter-Strike retail compilation, and PCGamingWiki repeats that in a note.[^ref-24][^ref-15] No period box, manual or Sierra announcement found for this page confirms it, so whether Ricochet was on that disc or arrived later through an update is unconfirmed.
+
+The Cutting Room Floor also lists Sierra Studios as a publisher, but the Sierra news item it cites doesn't name Ricochet.[^ref-3][^ref-23]
 
 ## Reception
 
-### Contemporary Reviews
+### Contemporary Reception
 
-Critics noted the game's simple concept and limited content, though some praised its unique mechanics as a creative departure from traditional deathmatch gameplay.[^ref-6]
-
-The competition was fierce: Counter-Strike was rapidly becoming the most popular multiplayer game in the world, and Team Fortress Classic had an established community. Ricochet's abstract aesthetic and unusual mechanics struggled to attract players away from these more conventional shooters.
-
-### Critical Assessment
-
-Contemporary reviews acknowledged Ricochet's innovation while noting its limited appeal compared to more feature-rich multiplayer experiences. The game's simple premise—essentially an elaborated version of disc combat from Tron—was seen as both a strength (for its accessibility) and weakness (for its limited depth).
+No contemporary press review of Ricochet was found. It was a free mod rather than a retail release.
 
 ### Modern Assessment
 
-Despite its commercial failure and limited initial reception, Ricochet has experienced a reassessment in recent years.[^ref-7] On Steam, the game maintains a "Very Positive" aggregate rating, with 86% approval from over 4,400 reviewers.[^ref-7] Players praising its unique concept and pick-up-and-play accessibility have contributed to this positive reputation.[^ref-16]
+On Steam, the game holds a "Very Positive" rating, with 86% of 2,996 English-language user reviews positive as of October 2026.[^ref-7] SteamDB counts about 6,000 reviews across all languages.[^ref-19]
 
-The game has been described as "the undeserved black sheep of Valve's games" and an early experiment that foreshadowed the company's later success with unconventional multiplayer concepts like Portal.[^ref-5] Gaming databases like Giant Bomb and IGDB have catalogued the game's unique mechanics and historical significance.[^ref-18][^ref-20]
-
-Modern retrospectives often frame Ricochet as a curiosity from Valve's early experimental period—a time when the company was willing to take risks on unusual concepts before becoming more conservative with their release schedule.
+The Cutting Room Floor calls it "the undeserved black sheep of Valve's games and their first foray into quirky FPS games, which eventually led to Portal and Portal 2."[^ref-3] Kotaku's Luke Plunkett was blunter in 2012, telling a colleague, "it was shit. So shit, in fact, that on Valve's site the company likes to pretend it never existed."[^ref-11]
 
 ### Cultural Legacy and Memes
 
-The game achieved meme status within gaming communities, with "Ricochet 2" becoming a running joke about Valve's reluctance to develop sequels—a reference that Valve's Gabe Newell has himself acknowledged in interviews.[^ref-11]
+"Ricochet 2" became a running joke standing in for Valve's long-awaited Half-Life sequel. On the Seven Day Cooldown podcast in April 2012, an interviewer asked Gabe Newell when fans could expect Ricochet 2. Newell played along, saying "everybody who has worked on Ricochet 2 continues to work on Ricochet 2."[^ref-11]
 
-The Ricochet 2 joke emerged from Valve's notorious reluctance to release sequels, particularly Half-Life 3. When asked about sequel development, Newell and other Valve representatives would sometimes deflect by mentioning "Ricochet 2," playing on the absurdity of prioritizing a sequel to their least-played game over more anticipated projects.
+Valve joined in itself. Its 2012 Handbook for New Employees lists an "Empty Shelf on Fifth Floor—Place we're planning on putting all those awards for Ricochet once the gaming world finally catches up with it."[^ref-21]
 
 ## Legacy
 
 ### Preservation and Community
 
-The game's small but dedicated community continues to host servers and organize matches, keeping the experience alive over two decades after its initial release.[^ref-2] While the player population has never been large, the combination of Steam preservation and dedicated fans means new players can still experience Ricochet today.
+Ricochet remains on sale on Steam, alone or in the Counter-Strike 1 Anthology and Valve Complete Pack bundles.[^ref-7] ModDB lists community projects for the game, including the 2024 "Ricochet Enhanced" mod.[^ref-2]
 
-In 2023, a fan-made remake called Ricochet: Source was developed using the Source engine, demonstrating continued interest in the concept despite the original's limited success.[^ref-12] This project updated the graphics and gameplay while maintaining the core disc-combat mechanics that defined the original.
+### Ricochet: Source
 
-### Influence on Game Design
-
-While Ricochet itself was not commercially successful, its development contributed to Valve's understanding of rapid game development and mod creation. The Half-Life SDK's capability to support projects like Ricochet helped establish the vibrant modding community that would produce significant games like Counter-Strike and Day of Defeat.
-
-The game also demonstrated that abstract, unconventional game concepts could find audiences through digital distribution—a lesson that would become increasingly relevant as Valve developed Steam into the dominant PC gaming platform.
-
-### Historical Significance
-
-Ricochet represents an interesting footnote in the Sierra-Valve relationship. Sierra Studios' publishing of Half-Life and its modifications helped establish Valve as a major developer, but the relationship would eventually end as Valve developed Steam and transitioned to self-publishing. Ricochet, distributed through Sierra's World Opponent Network, represents one of the last products of this publisher-developer relationship.
+Ricochet: Source is a fan remake for the Source engine. ModDB lists an alpha build dated December 2007, an alpha 1.1 release in January 2010, a revival announcement in February 2015, and Early Access in January 2024.[^ref-12]
 
 ## Technical
 
 ### Engine
 
-Ricochet runs on Valve's GoldSrc engine, the same technology powering Half-Life and its official expansions.[^ref-1] The engine, originally a heavily modified version of the Quake engine, provided the foundation for Ricochet's first-person gameplay and networking capabilities.
-
-The GoldSrc engine's robust networking code, originally developed for Half-Life's multiplayer modes, made it well-suited for Ricochet's fast-paced disc combat. The engine handled projectile physics, platform collision, and player synchronization effectively despite the game's unusual mechanics.
-
-### Technical Achievements
-
-Ricochet's central engineering accomplishments span both **rapid mod-development demonstration** and **unconventional projectile physics**. Robin Walker built the title as a deliberate **proof-of-concept for Half-Life SDK rapid game development** — produced explicitly to show how quickly a complete multiplayer experience could be assembled with Valve's modding tools, a thesis that helped catalyze the broader Half-Life mod ecosystem that later produced Counter-Strike, Day of Defeat, and Team Fortress Classic[^ref-1][^ref-3]. The game's **disc-projectile physics system** — featuring throwable energy discs that ricochet off surfaces with deterministic bounce behavior — was a substantial engineering departure from the bullet-trace combat the GoldSrc engine was originally designed for, requiring custom collision and predictive networking[^ref-1][^ref-6]. The release shipped with **four powerup-modified disc variants** (Triple Shot, Fast Disc, Power Disc, Freeze Disc) that altered projectile behavior at runtime, layering tactical depth onto a deliberately compact rule set[^ref-8]. **Cross-platform delivery** later extended to macOS (10.6.3+) and Linux (Ubuntu 12.04+), unusual platform breadth for a niche multiplayer title and a beneficiary of Valve's Steam-era engine portability work[^ref-7]. The Steam migration in 2003 preserved the original WON multiplayer experience after the World Opponent Network shutdown, with **Valve Anti-Cheat (VAC) integration** added during the Steam port to support the small but persistent competitive community — the long preservation tail (still receiving "Very Positive" Steam ratings two decades on) validates the underlying engineering quality despite the title's modest sales[^ref-4][^ref-7][^ref-19].
+Ricochet runs on Valve's GoldSrc engine, the engine behind Half-Life, and was written in C++ using the Half-Life SDK.[^ref-1]
 
 ### System Requirements
 
-The game requires minimal hardware by modern standards:
-
-**Minimum (Windows):**[^ref-7]
+**Minimum (Windows, Steam):**[^ref-7]
 - 500 MHz processor
-- 96 MB RAM  
+- 96 MB RAM
 - 16 MB video card
-
-These modest requirements reflect both the game's GoldSrc engine foundation and its relatively simple visual design. The neon-lit abstract arenas, while visually distinctive, didn't require advanced hardware to render.
 
 ### Compatibility
 
-The game has been ported to macOS (requiring OS X 10.6.3 Snow Leopard or later) and Linux (Ubuntu 12.04 or compatible distributions).[^ref-7] These ports extended the game's reach beyond Windows, though the player population on non-Windows platforms remained small.
-
-It supports Valve Anti-Cheat (VAC) for online play and is compatible with Steam Family Sharing.[^ref-7] The VAC integration helps maintain fair play on the remaining active servers, preventing cheating that could drive away the small community.
+The Steam version supports macOS (OS X Snow Leopard 10.6.3 or later) and Linux (Ubuntu 12.04).[^ref-7] PCGamingWiki notes that the macOS release does not work on macOS Catalina (10.15) or later, which dropped 32-bit app support.[^ref-15] Steam lists Valve Anti-Cheat (VAC) and Family Sharing support.[^ref-7]
 
 ## Purchase
 
 **Purchase / Digital Stores**
-- [Steam](https://store.steampowered.com/app/60/Ricochet/) - Currently available for purchase
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+- [Steam](https://store.steampowered.com/app/60/Ricochet/) - $4.99 standalone, also in the Counter-Strike 1 Anthology and Valve Complete Pack bundles[^ref-7]
 
-The game is occasionally included in Valve Complete Pack bundles and has been offered during Steam sales with discounts up to 90%.[^ref-7][^ref-19] Players who own a retail copy of Half-Life can redeem their CD key on Steam to receive Ricochet for free.[^ref-4] According to SteamDB, the game has seen periodic sales making it available for minimal cost.[^ref-19]
+SteamDB records a lowest-ever discount of 90% off.[^ref-19] Owners of retail Half-Life CD keys registered on Steam receive Ricochet free.[^ref-1]
 
 ## Downloads
 
 ### Preservation
 
-- [Internet Archive - Ricochet Demo](https://archive.org/details/Ricochet) - Playable demo version[^ref-14]
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Ricochet) - Technical fixes and compatibility information[^ref-15]
 
 ## See Also
@@ -201,22 +184,22 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 
 ## References
 
-[^ref-1]: [Valve Developer Community - Ricochet](https://developer.valvesoftware.com/wiki/Ricochet) - Technical documentation and development history
-[^ref-2]: [ModDB - Ricochet](https://www.moddb.com/games/ricochet) - Mod database entry with release information
-[^ref-3]: [The Cutting Room Floor - Ricochet](https://tcrf.net/Ricochet) - Development background and unused content
-[^ref-4]: [Combine OverWiki - Sierra Entertainment](https://combineoverwiki.net/wiki/Sierra_Entertainment) - Sierra-Valve publishing relationship
-[^ref-5]: My Abandonware - Ricochet *(download link removed: the game is sold commercially)* - Gameplay description and history
-[^ref-6]: [Steam Community Guide - Ricochet Master's Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=137883201) - Detailed gameplay mechanics
-[^ref-7]: [Steam - Ricochet](https://store.steampowered.com/app/60/Ricochet/) - Official store page with reviews and system requirements
-[^ref-8]: [Ricochet Wiki - Powerups](https://ricochet.fandom.com/wiki/Powerups) - Game mechanics documentation
-[^ref-9]: [ModDB - Half-Life Updates](https://www.moddb.com/games/ricochet/downloads/half-life-updates-pre-post-1100) - Patch history
-[^ref-11]: [Kotaku - The Ricochet 2 Joke](https://kotaku.com/gabe-newell-updates-interviewer-on-the-status-of-wink-5903627) - Cultural legacy and meme status
-[^ref-12]: [ModDB - Ricochet: Source](https://www.moddb.com/mods/ricochet-source) - Fan remake project
-[^ref-13]: [MobyGames - Ricochet](https://www.mobygames.com/game/4481/ricochet/) - Game database entry confirming multiplayer-only status
-[^ref-14]: [Internet Archive - Ricochet](https://archive.org/details/Ricochet) - Preserved demo version
-[^ref-15]: [PCGamingWiki - Ricochet](https://www.pcgamingwiki.com/wiki/Ricochet) - Technical information and fixes
-[^ref-16]: [Wikipedia - Ricochet (video game)](https://en.wikipedia.org/wiki/Ricochet_(2000_video_game)) - Encyclopedia article
-[^ref-17]: [GameFAQs - Ricochet](https://gamefaqs.gamespot.com/pc/561755-ricochet) - Game database entry
-[^ref-18]: [Giant Bomb - Ricochet](https://www.giantbomb.com/ricochet/3030-7545/) - Game wiki and community content
-[^ref-19]: [SteamDB - Ricochet](https://steamdb.info/app/60/) - Steam database statistics and history
-[^ref-20]: [IGDB - Ricochet](https://www.igdb.com/games/ricochet) - Internet Games Database entry
+[^ref-1]: [Valve Developer Community - Ricochet](https://developer.valvesoftware.com/wiki/Ricochet) - Developer/publisher Valve, release date, Robin Walker side project, 1.1.1.0 inclusion, Steam pricing and grandfathering, maps
+[^ref-2]: [ModDB - Ricochet](https://www.moddb.com/games/ricochet) - Mod database entry and community projects
+[^ref-3]: [The Cutting Room Floor - Ricochet](https://tcrf.net/Ricochet) - "Black sheep" quote, unused powerups and content; lists Sierra Studios as publisher, citing a Sierra news item that doesn't name Ricochet
+[^ref-6]: [Steam Community Guide - Ricochet Master's Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=137883201) - Fan guide (2013, updated 2023): scoring, HUD, Discs of Tron suggestion; the page now shows a community-moderation removal notice
+[^ref-7]: [Steam - Ricochet](https://store.steampowered.com/app/60/Ricochet/) - Developer and publisher Valve, release date, user reviews, system requirements, bundles, VAC, Family Sharing
+[^ref-8]: [Ricochet Wiki - Powerups](https://ricochet.fandom.com/wiki/Powerups) - Fast, Freeze, Power and Triple Shot effects
+[^ref-9]: [Shacknews - Half-Life/Counter-Strike Updates](https://www.shacknews.com/article/20930/half-lifecounter-strike-updates) - June 12, 2002 report of Valve's Half-Life 1.1.1.0 update
+[^ref-11]: [Kotaku - Gabe Newell Updates Interviewer On The Status of (Wink, Wink) 'Ricochet 2'](https://kotaku.com/gabe-newell-updates-interviewer-on-the-status-of-wink-5903627) - April 20, 2012; Newell's "Ricochet 2" answer and Luke Plunkett's comment
+[^ref-12]: [ModDB - Ricochet: Source](https://www.moddb.com/mods/ricochet-source) - Fan remake: alpha builds, 2015 revival, Early Access January 2024
+[^ref-13]: [MobyGames - Ricochet](https://www.mobygames.com/game/37983/ricochet/) - Publisher and developer Valve, release dates (Windows 2000, Steam 2003, Mac/Linux 2013), description
+[^ref-15]: [PCGamingWiki - Ricochet](https://www.pcgamingwiki.com/wiki/Ricochet) - Technical information, macOS Catalina incompatibility, note on Half-Life: Counter-Strike retail inclusion
+[^ref-16]: [Wikipedia - List of GoldSrc mods](https://en.wikipedia.org/wiki/List_of_GoldSrc_mods#Ricochet) - Official Valve mod, November 1, 2000 release, 1.1.1.0 inclusion, 2013 OS X/Linux ports
+[^ref-18]: [Giant Bomb - Ricochet (Wayback, June 2022)](https://web.archive.org/web/20220614062239/https://www.giantbomb.com/ricochet/3030-8093/) - Gameplay, jump pads, three regenerating discs, decapitator throw, powerups, Tron comparison
+[^ref-19]: [SteamDB - Ricochet](https://steamdb.info/app/60/) - Developer/publisher Valve, review count, lowest recorded price (-90%)
+[^ref-21]: [Valve - Handbook for New Employees (2012)](https://cdn.cloudflare.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf) - Timeline entry for 2000: "Ricochet is released. Robin Walker demonstrates to the mod community how a game can be created quickly and easily with Valve's SDK"; "Empty Shelf" joke
+[^ref-22]: [Steam - Ricochet update released (July 31, 2013)](https://steamcommunity.com/games/60/announcements/detail/1622705517872370082) - Valve announcement: SteamPipe conversion, Mac OS X and Linux support
+[^ref-23]: [Sierra Studios - Half-Life News (Wayback, November 21, 2000)](https://web.archive.org/web/20001121072600/http://www.sierrastudios.com:80/games/half-life/news.html) - Sierra's announcements of Half-Life: Counter-Strike and Platinum Edition (November 14, 2000); no mention of Ricochet
+[^ref-24]: [MobyGames - Half-Life: Counter-Strike](https://www.mobygames.com/game/2726/half-life-counter-strike/) - Sierra On-Line retail compilation; lists Ricochet among its contents
+[^ref-25]: [Wikipedia - Ricochet (2000 video game), revision of December 30, 2016](https://en.wikipedia.org/w/index.php?title=Ricochet_(2000_video_game)&oldid=757488032) - Developed and published by Valve; scoring, decapitation attack, scoreboard, three maps
