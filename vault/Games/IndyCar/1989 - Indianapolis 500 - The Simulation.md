@@ -11,14 +11,14 @@ series: "IndyCar Racing"
 engine: null
 protagonist: null
 sierra_lineage: "Sierra Label (Papyrus)"
-last_updated: "2026-10-09"
+last_updated: "2026-10-15"
 description: "Indianapolis 500: The Simulation is Papyrus Design Group's first game, a 1989 Indy car racing simulation published by Electronic Arts for MS-DOS and later the Amiga."
 tags: [1980s, racing, simulation, papyrus, electronic-arts, indycar, david-kaemmer]
 composer: ["Rob Hubbard"]
 ---
 # Indianapolis 500: The Simulation
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -84,7 +84,7 @@ Electronic Arts' 1990–91 catalogue quoted *Automobile Magazine*: "This might b
 
 ### Modern Assessment
 
-MobyGames lists a critic average of 84% from 22 reviews and a Moby Score of 7.6.[^ref-1] *Computer Gaming World* ranked the game 122nd in its November 1996 "150 Best (and 50 Worst) Games of All Time".[^ref-8] GameSpot's 2004 history of Papyrus, by Gord Goble, said it is "generally and justifiably regarded as the PC's first true auto racing simulation". Goble also noted that Geoff Crammond's *Revs* (1986) had already offered a semi-realistic driving model on the Commodore 64.[^ref-9]
+MobyGames lists a critic average of 84% from 22 reviews and a Moby Score of 7.6.[^ref-1] *Computer Gaming World* ranked the game 122nd in "The Top 150 Games Of All Time", a feature in its November 1996 issue.[^ref-8] GameSpot's 2004 history of Papyrus, by Gord Goble, said it is "generally and justifiably regarded as the PC's first true auto racing simulation". Goble also noted that Geoff Crammond's *Revs* (1986) had already offered a semi-realistic driving model on the Commodore 64.[^ref-9]
 
 Later retrospectives agree. Top Gear's Mike Channell wrote in 2021 that the game "could make a reasonable claim to being the first proper PC sim", though he compared its crowds to "the world's most painful magic eye puzzle".[^ref-15] The Highway Forever blog wrote in 2016 that "like all the best simulators, Indianapolis 500 balances accessibility and realism very well". The same post called the DOS engine sound "a swarm of angry, metallic hornets" and found the computer drivers "a bit clumsy".[^ref-16]
 
@@ -111,7 +111,7 @@ MobyGames credits Kaemmer with lead design and programming, Richard Garcia with 
 - **Memory:** 384 KB (512 KB recommended)
 - **Graphics:** Tandy/PCjr, CGA, composite CGA, EGA, VGA/MCGA (320×200, 256 colours)
 - **Sound:** PC speaker, Tandy, Ad Lib, Roland MT-32
-- **Media:** Two 5.25" 360 KB disks; 685 KB installed
+- **Media:** Two 5.25" 360 KB disks or one 3.5" 720 KB disk; 685 KB installed
 - **Copy protection:** Manual look-up
 
 **Amiga Version:**[^ref-4]
@@ -174,13 +174,13 @@ Indianapolis 500: The Simulation was Papyrus Design Group's first game. Its phys
 [^ref-5]: [Wikipedia – Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) – founded 1987 by Kaemmer and Khudari, acquired by Sierra On-Line in late 1995, code later sold to FIRST/iRacing
 [^ref-6]: [Computer Gaming World #71 (May 1990) – Barry Werger, "A Driver's View Of Electronic Arts' Indianapolis 500", p. 38](https://archive.org/details/Computer_Gaming_World_Issue_71) – review: setup parameters, practice/pit rules, six replay cameras, graphics, PC speaker sound, controls, "stick to Out Run", $49.95
 [^ref-7]: [Computer Gaming World #108 (July 1993) – Gordon Goble, "An Interview With David Kaemmer Of Papyrus Design Group"](https://archive.org/details/Computer_Gaming_World_Issue_108) – physics model, development time, track research, credits, founding dates, EA deal and sales comments
-[^ref-8]: [Computer Gaming World #148 (November 1996) – "150 Best (and 50 Worst) Games of All Time"](https://archive.org/details/Computer_Gaming_World_Issue_148) – Indianapolis 500 ranked 122nd
+[^ref-8]: [Computer Gaming World #148 (November 1996) – "The Top 150 Games Of All Time", p. 64](https://archive.org/details/Computer_Gaming_World_Issue_148) – Indianapolis 500 ranked 122nd (the issue's separate "The Worst 50 Games Of All Time" feature begins on p. 84)
 [^ref-9]: [GameSpot – Gord Goble, "History of Papyrus Racing Games", p. 2 "Born to Race" (2004, Wayback Machine)](http://web.archive.org/web/20130620135429/http://www.gamespot.com/features/6103365/p-2.html) – Kaemmer quotes on Flight Simulator inspiration, "PC's first true auto racing simulation", 200,000 units, nucleus of later Papyrus games, Revs comparison
 [^ref-10]: [The Boston Globe, 18 May 1994, p. 46 – "Race Cars, kings & castles" (Newspapers.com clip)](https://www.newspapers.com/clip/107876381/the-boston-globe/) – $70,000 EA contract, 18 months development, more than 200,000 units, Steven Dalton funding IndyCar Racing ($550,000)
 [^ref-11]: [Computer Entertainer, November 1989 (Vol. 8 No. 8)](https://archive.org/details/computer-entertainer-8-8) – pre-release announcement: due next month for MS-DOS, MSR $49.95, "only Indianapolis 500-licensed computer game"
 [^ref-12]: [Electronic Arts 1990–91 catalogue (MOCAGH scan on Internet Archive)](https://archive.org/details/vgmuseum_ea_ea-90-91catalog) – catalogue entry quoting Automobile Magazine; IBM and Amiga availability
 [^ref-13]: [Amiga Magazine Rack – Indianapolis 500 review index](https://amr.abime.net/review_54326) – review scores from Zero, Joystick, Génération 4, Amiga Format, C+VG, Amiga Joker and others
-[^ref-14]: [DOS Days – Indianapolis 500: The Simulation](https://dosdays.co.uk/topics/Games/game_indy500.php) – system requirements, media, copy protection, race formats, cars, save options, version 1.0 December 1989 disk listing, later Papyrus titles
+[^ref-14]: [DOS Days – Indianapolis 500: The Simulation](https://dosdays.co.uk/topics/Games/game_indy500.php) – system requirements, media (two 5.25" 360 KB disks or one 3.5" 720 KB disk), copy protection, race formats, cars, save options, version 1.0 December 1989 disk listing, later Papyrus titles
 [^ref-15]: [Top Gear – Mike Channell, "Remembering classic games: Indianapolis 500: The Simulation (1989)" (16 July 2021)](https://www.topgear.com/car-news/gaming/remembering-classic-games-indianapolis-500-simulation-1989) – retrospective, "first proper PC sim" claim, iRacing lineage
 [^ref-16]: [Highway Forever – "Indianapolis 500 (Papyrus, 1989)" (16 May 2016)](https://highwayforever.wordpress.com/2016/05/16/indianapolis-500-papyrus-1989/) – 1989 grid and Rich Vogler's car, car choices, retrospective assessment of handling, sound and AI
 [^ref-17]: [Race Sim Central – Indianapolis 500: The Simulation](https://racesimcentral.net/indianapolis-500-the-simulation/) – sim-racing database entry, browser-playable DOS/Amiga versions
