@@ -10,23 +10,23 @@ series: Hoyle Casino
 engine: null
 protagonist: Player-created character
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 description: Hoyle Casino 2008 is Encore Software's fall 2007 edition of the Hoyle
  casino series, a combined Windows/Mac DVD marketed as "the best-selling casino game of all time."
 tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2008
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-Hoyle Casino 2008 is an edition of the long-running Hoyle casino game franchise, marketed as "the best-selling casino game of all time."[^ref-1][^ref-2] Developed and published by Encore Software, it offered more than 600 variations of 16 popular casino games, set in a "realistic Vegas environment" pitched at "novice and expert computer users alike."[^ref-2][^ref-3] Despite the "2008" in its title, it reached US shelves in fall 2007, with GameFAQs, Metacritic and RAWG giving October 1, 2007 and IGN September 11, 2007.[^ref-7][^ref-9][^ref-10][^ref-20] It shipped on a combined PC/Mac DVD, and Mac users at the time greeted it as the return of Hoyle games to the Mac with Mac OS X support, the last Mac OS 9 versions having come from Sierra in 2002.[^ref-4][^ref-23]
+Hoyle Casino 2008 is an edition of the long-running Hoyle casino game franchise, marketed as "the best-selling casino game of all time."[^ref-1][^ref-2] Published by Encore Software, it was advertised as offering more than 600 variations of 16 popular casino games, set in a "realistic Vegas environment" pitched at "novice and expert computer users alike."[^ref-2][^ref-3] Despite the "2008" in its title, it reached US shelves in fall 2007, with GameFAQs, Metacritic and RAWG giving October 1, 2007 and IGN September 11, 2007.[^ref-7][^ref-9][^ref-10][^ref-20] It shipped on a combined PC/Mac DVD, and Mac users at the time greeted it as the return of Hoyle games to the Mac with Mac OS X support, the last Mac OS 9 versions having come from Sierra in 2002.[^ref-4][^ref-23]
 
 The game follows the tradition of Sierra's Hoyle's Official Book of Games series, which began in 1989 and spun off the dedicated Hoyle Casino line in 1996.[^ref-5][^ref-25] Wikipedia states that a bug in the 2007 edition, which froze card games for 30 seconds after each bet, was fixed in Hoyle Casino 2008, although that statement carries a "citation needed" tag and no other source for it has been found.[^ref-5]
 
 > [!info]- Game Info
-> **Developer:** [[Encore Software]][^ref-7][^ref-20]
+> **Developer:** [[Encore Software]] as listed by GameFAQs and Metacritic; the team that did the porting work is not named[^ref-7][^ref-20][^ref-4]
 > **Designer:** Unknown
 > **Publisher:** Encore Software[^ref-7][^ref-20]
 > **Engine:** Unknown
@@ -44,7 +44,7 @@ Hoyle Casino 2008 is set in a virtual Las Vegas casino in which, as throughout t
 
 ### Games and Variations
 
-Newegg's product listing names the games included:[^ref-2]
+Newegg's product listing names 19 games, despite its "16 games" headline figure:[^ref-2]
 
 - **Online:** Texas Hold 'Em
 - **Table and card games:** Baccarat, Blackjack, Caribbean Stud Poker, Craps, Fortune Pai-Gow Poker, Four Card Poker, Let It Ride, Pai Gow Poker, Roulette, Royal Match 21, Three Card Poker
@@ -88,7 +88,7 @@ Sierra Entertainment developed and published the Hoyle Casino series from 1996 t
 
 ### Production
 
-Hoyle Casino 2008 was published by Encore Software.[^ref-7][^ref-20] A developer posting as "Hippieman" on the Inside Mac Games forum wrote that his team "did the porting work for both the Mac and Windows versions," including "updates and such (like Vista stuff IIRC)," and added: "We were just finishing up Marathon when this started."[^ref-4]
+Hoyle Casino 2008 was published by Encore Software, which GameFAQs and Metacritic also list as its developer.[^ref-7][^ref-20] The studio that did the hands-on work is not named in any source found. A developer posting as "Hippieman" on the Inside Mac Games forum, whose posts carry a website link to freeverse.com, wrote that his team "did the porting work for both the Mac and Windows versions," including "updates and such (like Vista stuff IIRC)," and added: "We were just finishing up Marathon when this started."[^ref-4]
 
 ### Technical Achievements
 
@@ -107,7 +107,7 @@ Hoyle Casino 2008 shipped Windows and Mac OS X versions on a single DVD.[^ref-4]
 The requirements quoted in the Inside Mac Games forum are lower: a Pentium 266 MHz, 16 MB RAM (64 MB for XP) and an 800x600 16-bit display.[^ref-4]
 
 **Macintosh Requirements:**[^ref-2][^ref-4][^ref-8]
-- **Operating System:** Mac OS X 10.4.10 or later (Macworld gives 10.4.11 for the download version)
+- **Operating System:** Mac OS X 10.4.10 (Macworld gives 10.4.11 for the download version)
 - **Processor:** G3, G4, G5 or Intel Core Duo processor, 600 MHz or higher
 - **RAM:** 256 MB
 - **Storage:** 1 GB hard drive space
