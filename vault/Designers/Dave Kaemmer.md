@@ -5,111 +5,106 @@ birth_year: null
 death_year: null
 notable_games: ["Indianapolis 500", "NASCAR Racing", "Grand Prix Legends"]
 companies: ["Papyrus Design Group", "Sierra On-Line", "iRacing"]
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 ---
 # Dave Kaemmer
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-Dave Kaemmer is widely regarded as one of the most influential figures in racing simulation gaming, earning recognition as a "simracing legend" who has pushed the genre forward for over 30 years.[^ref-1] Born in Indiana and educated at Oberlin College in Ohio where he earned a mathematics degree in 1985, Kaemmer combined his technical expertise with a passion for racing to create some of the most groundbreaking racing simulations ever developed.[^ref-2] His career spans from the early days of personal computing to the modern era of online racing, establishing him as both a pioneer and continuing innovator in the field.
+Dave Kaemmer co-founded Papyrus Design Group, the developer of Indianapolis 500: The Simulation, the IndyCar Racing and NASCAR Racing series and Grand Prix Legends, and later co-founded iRacing; in 2019 iRacing introduced him as "our founder and simracing legend" who had "pushed simracing forward" for over 30 years.[^ref-1] He grew up in Indiana and graduated from Oberlin College in Ohio in 1985 with a degree in mathematics.[^ref-2][^ref-22]
 
-As Tim Wheatley, creator of Race Sim Central, noted: "In my opinion, he founded the sim-racing genre. I can't overstate how important he is."[^ref-3] Kaemmer's approach to game development has always prioritized realism over conventional game design principles, famously stating: "We say here at iRacing, 'We don't care if it's fun or not. We care if it's real.'"[^ref-4] This philosophy has shaped not only his own work but influenced an entire generation of racing simulation developers. Beyond his technical contributions, Kaemmer has also demonstrated his understanding of real-world racing through actual competition, including participation in the Skip Barber series and the Daytona 24 Hours.[^ref-5]
+Tim Wheatley, creator of the original Race Sim Central website, told Motor Sport in 2021: "In my opinion, he founded the sim-racing genre. I can't overstate how important he is."[^ref-2] In the same article Kaemmer summed up his approach: "We say here at iRacing, 'We don't care if it's fun or not. We care if it's real.'"[^ref-2] He has also raced for real, in the Skip Barber spec series and, in 2007, in the Daytona 24 Hours.[^ref-2]
 
 ## Career
 
 ### Early Career (Pre-1987)
 
-Kaemmer's journey into game development began with his early exposure to personal computing in Indiana, where he was "probably one of the first people in west central Indiana to buy a Radio Shack TRS-80 Model I computer."[^ref-6] His fascination with 3D graphics was sparked by subLogic's Flight Simulator on the TRS-80, as he recalled: "My favorite program for the TRS-80 was 'Flight Simulator' from subLogic. I always wanted to figure out how to make a program that could draw a 3D image like that."[^ref-7]
+Kaemmer told GameSpot's Gord Goble that he was "probably one of the first people in west central Indiana to buy a Radio Shack TRS-80 Model I computer", adding: "My favorite program for the TRS-80 was 'Flight Simulator' from subLogic. I always wanted to figure out how to make a program that could draw a 3D image like that."[^ref-21] Before Papyrus he and his business partner Omar Khudari worked at an educational software company, where they wrote a mathematics courseware title for the Apple II.[^ref-21]
 
-In 1987, Kaemmer co-founded Papyrus Design Group with his partner Omar, though Omar initially had different priorities: "My partner Omar humored me by letting me write racing sims."[^ref-8] From the beginning, Kaemmer's vision was clear and ambitious: "Just as Flight Simulator let you climb into a Cessna and see what it was like to be a private pilot, I wanted to make a program that would show someone, as much as possible, what it was like to drive a racecar."[^ref-9] This philosophy would define his entire career approach to racing simulation development.
+In 1987 Kaemmer and Khudari formed Papyrus Design Group, which at first operated mainly as a contract programming company.[^ref-21][^ref-12] As Kaemmer put it: "My partner Omar humored me by letting me write racing sims."[^ref-21] He described his aim: "Just as Flight Simulator let you climb into a Cessna and see what it was like to be a private pilot, I wanted to make a program that would show someone, as much as possible, what it was like to drive a racecar."[^ref-21]
 
-The early days at Papyrus were marked by a dedication to authenticity over entertainment value: "We never spent a lot of time thinking about what would make a fun game--only what would make the experience more like driving a real racecar."[^ref-10] This uncompromising approach to realism would become Kaemmer's trademark and set Papyrus apart from other racing game developers of the era.[^ref-11]
+Looking back on Papyrus, he said: "We never spent a lot of time thinking about what would make a fun game--only what would make the experience more like driving a real racecar."[^ref-14]
 
 ### Papyrus/Sierra Years (1987–2002)
 
-The relationship between Papyrus and Sierra On-Line began to flourish in the early 1990s, culminating in Sierra's acquisition of Papyrus in 1995.[^ref-12] During this period, Kaemmer and his team at Papyrus developed some of the most influential racing simulations in gaming history, establishing new standards for physics modeling and track authenticity.[^ref-13]
+Papyrus's first project was Indianapolis 500: The Simulation (1989), developed for Electronic Arts.[^ref-2][^ref-21] Kaemmer was a software engineer rather than a race engineer; Carroll Smith's book *Tune to Win* "became his bible", with Paul Van Valkenburgh's *Race Car Engineering and Mechanics* "filling in the gaps".[^ref-2] Sierra On-Line acquired Papyrus in late 1995.[^ref-12] Papyrus followed Indy 500 with two IndyCar titles and a run of NASCAR games.[^ref-2]
 
-The Indianapolis 500 simulation, one of Kaemmer's earliest major successes, demonstrated his commitment to technical accuracy even when it created significant development challenges.[^ref-14] This was followed by the groundbreaking NASCAR Racing series, which set new benchmarks for stock car racing simulation and helped establish NASCAR gaming as a viable commercial market.[^ref-15] These games were notable not just for their advanced physics engines, but for their meticulous attention to real-world racing details and track accuracy.
+Grand Prix Legends (1998), set in the 1967 Formula One season, grew from Joe Saward's *The World Atlas of Motor Racing*, a Christmas present that made Kaemmer want to recreate the Nürburgring and other old circuits.[^ref-2][^ref-11] At the time Kaemmer said: "Driving a 1967 GP car is more difficult than driving just about anything else, and the simulation is more difficult than driving a real car...many people think that it feels like driving on ice."[^ref-14] Motor Sport calls GPL a commercial flop that keeps a cult following thanks to modders.[^ref-2]
 
-However, it was Grand Prix Legends in 1998 that perhaps best exemplified Kaemmer's uncompromising approach to realism. The game simulated 1967 Formula One cars with such accuracy that Kaemmer himself acknowledged: "Driving a 1967 GP car is more difficult than driving just about anything else, and the simulation is more difficult than driving a real car...many people think that it feels like driving on ice."[^ref-16] Despite its challenging nature, Grand Prix Legends became a cult classic and is still considered one of the greatest racing simulations ever created. Kaemmer remained with Papyrus through the development of NASCAR Racing 4 (2001) and NASCAR Racing 2002 Season, finally leaving the company in 2002.[^ref-17]
+Kaemmer was technical director on NASCAR Racing 4 (2001) and NASCAR Racing 2002 Season.[^ref-23][^ref-24][^ref-22] He left Papyrus in late 2002, just before the release of NASCAR Racing 2003 Season, on which he has an "Additional Engineering" credit.[^ref-12][^ref-25]
 
-### iRacing Era (2002–Present)
+### iRacing Era (2003–Present)
 
-After leaving Papyrus in 2002, Kaemmer embarked on his most ambitious project yet: founding iRacing, an online racing simulation service that would revolutionize competitive sim racing.[^ref-18] Now a 57-year-old resident of suburban Boston, Massachusetts, Kaemmer continued to push the boundaries of what was possible in racing simulation technology.[^ref-19] At iRacing, he has continued to refine his approach to tire modeling and physics simulation, with industry experts noting: "He's a genius at developing the tyre model. He's doing things with the tyre model that even tyre manufacturers don't attempt to do."[^ref-20]
+Kaemmer and John Henry founded iRacing.com Motorsport Simulations; iRacing Studios dates its roots to 2003, and the service launched in 2008.[^ref-6][^ref-2] At launch it used a modified version of the source code for NASCAR Racing 4.[^ref-2] In 2021 Motor Sport described him as a 57-year-old resident of suburban Boston, Massachusetts.[^ref-2]
 
-iRacing represents the culmination of Kaemmer's decades-long pursuit of ultimate realism in racing simulation, combining advanced physics modeling with competitive online racing and official partnerships with major racing series such as NASCAR.[^ref-1] The service has become the premier destination for serious sim racers and professional drivers looking to practice and compete in virtual environments that closely mirror real-world racing conditions.
+At iRacing he has concentrated on the tyre model. Divina Galica, a former Formula 1 driver and Skip Barber instructor who later joined iRacing, said: "He's a genius at developing the tyre model." iRacing executive vice president Steve Myers added: "He's doing things with the tyre model that even tyre manufacturers don't attempt to do."[^ref-2]
 
 ## Notable Works
 
 ### Indianapolis 500 (1989)
 
-The Indianapolis 500 simulation marked Kaemmer's breakthrough into professional game development and established many of the principles that would define his career.[^ref-2] The game featured unprecedented attention to the physics of Indy car racing, including detailed aerodynamic modeling and tire behavior that had never been attempted in previous racing games. Kaemmer's mathematical background proved invaluable in creating the complex algorithms needed to simulate the high-speed oval racing environment authentically. The simulation's success demonstrated that there was a market for serious, technically accurate racing games, paving the way for the entire sim racing genre.[^ref-14]
+[[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]] credits Kaemmer with lead design and lead programming.[^ref-26] It used a first-person view, but the hardware of the day meant "primitive vehicle dynamics, with the cars moving unrealistically along x-y axes"; Kaemmer himself recalled that "the physics for the cars was basically a 2D model".[^ref-2][^ref-11] Motor Sport calls it "the first legitimate racing sim to reach the market".[^ref-2]
 
-### NASCAR Racing Series (1994-2003)
+### NASCAR Racing Series (1994–2003)
 
-The NASCAR Racing series represented Kaemmer's most commercially successful and influential work during his time at Papyrus.[^ref-4] Beginning with the original NASCAR Racing in 1994, the series revolutionized stock car racing simulation with its combination of accurate car physics, detailed damage modeling, and authentic NASCAR tracks. The series continued through multiple iterations, including NASCAR Racing 2 (1996), NASCAR Racing 4 (2001), NASCAR Racing 2002 Season, and NASCAR Racing 2003 Season, each building upon the previous version's technical foundation. The final entry, NASCAR Racing 2003 Season, is still considered by many sim racing enthusiasts to be one of the finest NASCAR simulations ever created, with an active modding community that continues to support the game decades after its release.[^ref-7]
+Kaemmer is credited as a designer and programmer of [[1994 - NASCAR Racing|NASCAR Racing]] (1994).[^ref-27] He was not credited on NASCAR Racing 2 (1996).[^ref-28] He was technical director on [[2001 - NASCAR Racing 4|NASCAR Racing 4]] and [[2002 - NASCAR Racing 2002 Season|NASCAR Racing 2002 Season]], and had an additional-engineering credit on [[2003 - NASCAR Racing 2003 Season|NASCAR Racing 2003 Season]].[^ref-23][^ref-24][^ref-25]
 
 ### Grand Prix Legends (1998)
 
-Grand Prix Legends stands as perhaps Kaemmer's most ambitious and uncompromising work, simulating the dangerous and challenging world of 1967 Formula One racing.[^ref-3] The game featured historically accurate recreations of legendary circuits including the Nürburgring, Monaco, and Spa-Francorchamps, along with period-correct Formula One cars from drivers like Jim Clark, Graham Hill, and Jackie Stewart. Kaemmer's dedication to historical accuracy extended to every aspect of the simulation, from the cars' handling characteristics to the period-appropriate graphics and presentation. Despite its steep learning curve and demanding physics model, Grand Prix Legends earned critical acclaim and has maintained a devoted following among sim racing purists who appreciate its uncompromising approach to realism.[^ref-12]
+[[1998 - Grand Prix Legends|Grand Prix Legends]] credits Kaemmer among its designers and lead engineers.[^ref-29] Motor Sport calls it "the first game to authentically simulate vehicle dynamics from dips and camber on race circuits to the effects of rotating engines and spinning wheels".[^ref-2] Its online play ran through a server in Papyrus's office with 128 phone lines; Kaemmer recalled calls from parents about "a $750 phone bill".[^ref-2]
 
 ## Design Philosophy
 
-Kaemmer's approach to game design has always prioritized authenticity and technical accuracy over conventional entertainment factors.[^ref-6] His philosophy is perhaps best summarized in his own words: "We don't care if it's fun or not. We care if it's real. We spend a lot more time trying to figure out if the numbers correlate with the real world."[^ref-9] This approach has sometimes resulted in games that are challenging for casual players but deeply rewarding for those seeking authentic racing experiences.
+Kaemmer has said realism comes before entertainment: "We don't care if it's fun or not. We care if it's real. We spend a lot more time trying to figure out if the numbers correlate with the real world."[^ref-2] Motor Sport notes that critics complained from the beginning that his cars were too hard to drive.[^ref-2]
 
-His technical methodology involves extensive research and consultation with real-world racing experts, as evidenced by his use of technical racing literature including Carroll Smith's "Tune to Win" and Paul Van Valkenburgh's "Race Car Engineering and Mechanics."[^ref-11] Kaemmer has also drawn inspiration from comprehensive racing references such as Joe Saward's "The World Atlas of Motor Racing," which he described as providing crucial insights into circuit design and racing history.[^ref-5] This dedication to research and technical accuracy has consistently set his work apart from more arcade-oriented racing games.
+He has relied on technical racing literature, including Carroll Smith's *Tune to Win* and Paul Van Valkenburgh's *Race Car Engineering and Mechanics*,[^ref-2] and has credited Joe Saward's *The World Atlas of Motor Racing* with getting his "wheels turning" on circuits such as the Nürburgring.[^ref-11]
 
 ## Legacy
 
-Dave Kaemmer's impact on the racing simulation genre cannot be overstated, with his work spanning over three decades and influencing countless developers and players.[^ref-10] His pioneering efforts at Papyrus Design Group established many of the fundamental principles that continue to guide serious racing simulation development today. From the early Indianapolis 500 simulation to the ongoing evolution of iRacing, Kaemmer has consistently pushed the boundaries of what is possible in virtual racing.[^ref-15]
+The Oberlin Alumni Magazine wrote in 2002–03 that Kaemmer had "authored or co-authored a game series credited with popularizing an entirely new genre of PC entertainment: the uncompromisingly realistic simulation".[^ref-22] By 2021 he felt the physics were close to their limit: "In some ways, I feel we're kind of done."[^ref-2]
 
-The technical innovations introduced in his games, particularly in areas such as tire modeling, aerodynamics simulation, and track surface modeling, have become industry standards.[^ref-16] His influence extends beyond just technical achievements, as his philosophy of prioritizing realism over accessibility has helped establish and maintain the sim racing genre as distinct from more casual racing games. Even today, Kaemmer continues to refine and advance the state of racing simulation technology, though he has acknowledged that in some areas, the technology may be approaching its limits: "In some ways, I feel we're kind of done."[^ref-19]
-
-Professional drivers and racing industry figures have consistently praised Kaemmer's work, with former Formula One driver and Skip Barber instructor Divina Galica noting: "He was extremely good in a real race car," highlighting how his real-world racing experience informed his simulation development.[^ref-13] The acquisition of Monster Games by iRacing has allowed Kaemmer to reunite with longtime colleagues like Rich Garcia, who commented: "To be working with my longtime friend and colleague Dave once again is awesome."[^ref-17]
+Kaemmer took the Skip Barber Racing School course at Lime Rock while working on GPL and went on to enter about 100 races, winning 19.[^ref-2][^ref-6] "He was extremely good in a real race car," said Divina Galica.[^ref-2] When iRacing acquired Monster Games in January 2022, Rich Garcia said: "To be working with my longtime friend and colleague Dave once again is awesome."[^ref-13]
 
 ## Games
 
 ### Papyrus Design Group / Sierra On-Line (1989–2003)
 
-- **1989** — [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]] — Role: Designer/Programmer
-- **1993** — [[1993 - IndyCar Racing|IndyCar Racing]] — Role: Designer/Programmer
-- **1994** — [[1994 - NASCAR Racing|NASCAR Racing]] — Role: Designer/Programmer
-- **1995** — [[1995 - IndyCar Racing II|IndyCar Racing II]] — Role: Designer/Programmer
-- **1996** — [[1996 - NASCAR Racing 2|NASCAR Racing 2]] — Role: Designer/Programmer
-- **1997** — [[1997 - NASCAR Racing 2 - Grand National Series Expansion|NASCAR Racing 2: Grand National Series Expansion]] — Role: Designer/Programmer
-- **1998** — [[1998 - Grand Prix Legends|Grand Prix Legends]] — Role: Designer/Programmer
-- **2001** — [[2001 - NASCAR Racing 4|NASCAR Racing 4]] — Role: Designer/Programmer
-- **2002** — [[2002 - NASCAR Racing 2002 Season|NASCAR Racing 2002 Season]] — Role: Designer/Programmer
-- **2003** — [[2003 - NASCAR Racing 2003 Season|NASCAR Racing 2003 Season]] — Role: Designer/Programmer
+- **1989** — [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]] — Role: Lead Design, Lead Programming
+- **1993** — [[1993 - IndyCar Racing|IndyCar Racing]] — Role: Original Concept, Lead Programming[^ref-30]
+- **1994** — [[1994 - NASCAR Racing|NASCAR Racing]] — Role: Designer, Programmer
+- **1995** — [[1995 - IndyCar Racing II|IndyCar Racing II]] — Role: Game Designer, Programmer[^ref-31]
+- **1997** — [[1997 - CART Racing|CART Racing]] — Role: Game Designer, Programmer (re-release of IndyCar Racing II)[^ref-14][^ref-31]
+- **1998** — [[1998 - Grand Prix Legends|Grand Prix Legends]] — Role: Designer, Lead Engineer
+- **2001** — [[2001 - NASCAR Racing 4|NASCAR Racing 4]] — Role: Technical Director, Additional Game Design
+- **2002** — [[2002 - NASCAR Racing 2002 Season|NASCAR Racing 2002 Season]] — Role: Technical Director, Senior Engineer
+- **2003** — [[2003 - NASCAR Racing 2003 Season|NASCAR Racing 2003 Season]] — Role: Additional Engineering
 
 ### iRacing (2008–Present)
 
 | Year | Title | Role |
 |------|-------|------|
-| 2008 | iRacing | Founder/Lead Developer |
+| 2008 | iRacing | Co-founder |
 
 ## References
 
 
-[^ref-1]: [iRacing Downshift #5: The Dave Kaemmer Interview](https://www.iracing.com/iracing-downshift-5-the-dave-kaemmer-interview/) — "simracing legend", "For over 30 years, Dave has pushed simracing forward"
-[^ref-2]: [Motorsport Magazine: The man who made iRacing](https://www.motorsportmagazine.com/archive/article/october-2021/106/the-man-who-made-iracing-dave-kaemmers-smash-hit/) — Biography and education details
-[^ref-3]: [YouTube Interview with Dave Kaemmer](https://www.youtube.com/watch?v=Xd6ZtQkKUM4) — Industry recognition quotes
-[^ref-4]: [DOS Games Archive: Papyrus Design Group](https://www.dosgamesarchive.com/profile/papyrus-design-group/) — Design philosophy quotes
-[^ref-5]: [YouTube: Dave Kaemmer Racing Background](https://www.youtube.com/watch?v=gVFVdGOmwNQ) — Real-world racing experience
-[^ref-6]: [iRacing Studios About Page](https://iracingstudios.com/about/) — Company background and founder information
-[^ref-7]: [B Sim Racing: Dave Kaemmer Coverage](https://www.bsimracing.com/tag/dave-kaemmer/) — Early computing influences
-[^ref-8]: [iRacing Paddock Book](https://www.booksamillion.com/p/iRacing-Paddock/Dave-Kaemmer/9781451546675) — Papyrus founding details
-[^ref-9]: [Podcast365: Dave Kaemmer Interview](https://podcast365.de/folgen/iracing-downshift/episode-5-the-dave-kaemmer-interview-lTRIZWzQVS) — Design vision and philosophy
-[^ref-10]: Adventure Gamers: Dave Kaemmer Search *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Game development approach
-[^ref-11]: [Autoweek: How a book helped take iRacing to the next level](https://www.autoweek.com/racing/more-racing/a31737380/how-a-book-about-racetracks-helped-take-iracing-to-the-next-level/) — Design influences and methodology
-[^ref-12]: [Wikipedia — Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — Sierra On-Line acquired Papyrus in late 1995
-[^ref-13]: [The Shop Magazine: iRacing acquires NASCAR Sprint Car developer](https://theshopmag.com/news/iracing-acquires-nascar-sprint-car-video-game-developer/) — Industry partnerships and acquisitions
-[^ref-14]: [GameSpot: History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) — Development history and challenges
-[^ref-15]: [iRacing.com: Dave Kaemmer Tag](https://www.iracing.com/tag/dave-kaemmer/) — NASCAR Racing series impact
-[^ref-16]: [GameSpot: iRacing the next step for NASCAR gaming](https://www.gamespot.com/articles/iracing-the-next-step-for-nascar-gaming/1100-6233847/) — Grand Prix Legends difficulty and authenticity
-[^ref-17]: [Tracxn: Monster Games Company Profile](https://tracxn.com/d/companies/monster-games/__gtr-AAvGEETeI1aoym1anmiPzfdxny-BA-yTdTTr2_w) — Career timeline and departures
-[^ref-18]: [BD Jogos: Dave Kaemmer Profile](https://en.bdjogos.com.br/person.php?id=34556) — Post-Papyrus career and iRacing founding
-[^ref-19]: [Apple Podcasts: Dave Kaemmer Interview](https://podcasts.apple.com/il/podcast/episode-5-the-dave-kaemmer-interview/id1468508189?i=1000444703043) — Current status and location
-[^ref-20]: [Infinit Gamer: Papyrus Design Group](https://infinitgamer.com/developers/100082-papyrus-design-group.html) — Technical expertise in tire modeling
+[^ref-1]: [iRacing Downshift #5: The Dave Kaemmer Interview](https://www.iracing.com/iracing-downshift-5-the-dave-kaemmer-interview/) — July 17, 2019: "simracing legend", "For over 30 years, Dave has pushed simracing forward"
+[^ref-2]: [Motorsport Magazine: The man who made iRacing](https://www.motorsportmagazine.com/archive/article/october-2021/106/the-man-who-made-iracing-dave-kaemmers-smash-hit/) — Preston Lerner, October 2021: Oberlin 1985, Indy 500 physics, Wheatley/Galica/Myers quotes, racing career, iRacing launch
+[^ref-6]: [iRacing Studios About Page](https://iracingstudios.com/about/) — iRacing founded 2003 by Kaemmer and John Henry; Papyrus co-founded 1987; 19 Skip Barber wins
+[^ref-11]: [Autoweek: How a book helped take iRacing to the next level](https://www.autoweek.com/racing/more-racing/a31737380/how-a-book-about-racetracks-helped-take-iracing-to-the-next-level/) — Mike Pryson, March 18, 2020: Saward's atlas; Indy 500 "physics for the cars was basically a 2D model"
+[^ref-12]: [Wikipedia — Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — Founded 1987 by Kaemmer and Khudari; acquired by Sierra On-Line in late 1995; Kaemmer left in late 2002
+[^ref-13]: [The Shop Magazine: iRacing acquires NASCAR Sprint Car developer](https://theshopmag.com/news/iracing-acquires-nascar-sprint-car-video-game-developer/) — January 7, 2022: Rich Garcia quote on Monster Games acquisition
+[^ref-14]: [GameSpot: History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) — Gord Goble (dated June 8, 2005 on the live site): "fun game" and "driving on ice" quotes; IndyCar Racing II renamed CART Racing
+[^ref-21]: [GameSpot: History of Papyrus Racing Games, "Born to Race" (Archived 2013)](https://web.archive.org/web/20130620135429/http://www.gamespot.com/features/6103365/p-2.html) — TRS-80 and Flight Simulator, Omar Khudari, founding of Papyrus in 1987, "Cessna" quote
+[^ref-22]: [Oberlin Alumni Magazine – More Than a Game (Winter 2002–2003)](https://www2.oberlin.edu/alummag/oamcurrent/oam_winter2003/profile_4.html) — Dave Kaemmer '85, co-founder and technical director of Papyrus
+[^ref-23]: [MobyGames – NASCAR Racing 4 Credits (Archived 2021)](https://web.archive.org/web/20211103041736/https://www.mobygames.com/game/windows/nascar-racing-4/credits) — Technical Director; Additional Game Design
+[^ref-24]: [MobyGames – NASCAR Racing 2002 Season (Archived 2020)](https://web.archive.org/web/20200728025254/https://www.mobygames.com/game/windows/nascar-racing-2002-season) — Technical Director; Senior Engineers
+[^ref-25]: [MobyGames – NASCAR Racing 2003 Season Credits (Archived 2022)](https://web.archive.org/web/20220618082036/https://www.mobygames.com/game/windows/nascar-racing-2003-season/credits) — Additional Engineering
+[^ref-26]: [MobyGames – Indianapolis 500: The Simulation Credits (Archived 2022)](https://web.archive.org/web/20220929220307/https://www.mobygames.com/game/dos/indianapolis-500-the-simulation/credits) — Lead Design; Lead Programming
+[^ref-27]: [MobyGames – NASCAR Racing Credits (Archived 2017)](https://web.archive.org/web/20170603095833/http://www.mobygames.com/game/dos/nascar-racing/credits) — Designed by; Programmers
+[^ref-28]: [MobyGames – NASCAR Racing 2 Credits (Archived 2015)](https://web.archive.org/web/20151128003524/http://www.mobygames.com/game/dos/nascar-racing-2/credits) — Credit list without Kaemmer
+[^ref-29]: [MobyGames – Grand Prix Legends Credits (Archived 2020)](https://web.archive.org/web/20200728184056/https://www.mobygames.com/game/windows/grand-prix-legends/credits) — Designers; Lead Engineers
+[^ref-30]: [MobyGames – IndyCar Racing Credits (Archived 2016)](https://web.archive.org/web/20160920025323/http://www.mobygames.com:80/game/dos/indycar-racing/credits) — Original Concept; Lead Programming
+[^ref-31]: [MobyGames – IndyCar Racing II Credits (Archived 2021)](https://web.archive.org/web/20210510153031/https://www.mobygames.com/game/dos/indycar-racing-ii/credits) — Game Designers; Programmers
