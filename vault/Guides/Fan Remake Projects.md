@@ -1,11 +1,11 @@
 ---
 title: "Fan Remake Projects"
 type: guide
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 ---
 # Fan Remake Projects
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 When Sierra Entertainment stopped making classic adventure games, the fan community stepped in. These dedicated groups have spent decades creating faithful VGA remakes, enhanced editions, and spiritual successors to Sierra's beloved franchises—all available for free.
 
@@ -270,7 +270,7 @@ Recent versions of ScummVM support AGS games, allowing fan remakes to run on:
 
 Most fan remakes operate under unofficial tolerance or negotiated fan licenses:
 
-- **AGDI** — Operated with apparent tolerance from Sierra/Vivendi; no official license confirmed[^ref-2]
+- **AGDI** — Contacted by Vivendi Universal, which gave the team permission to make its remakes; co-founder Britney Brimhall said in 2006 that "we now have permission to create these games"[^ref-13]
 - **Phoenix Online** — Received cease-and-desist, then negotiated limited fan license for The Silver Lining
 - **Current status** — With Sierra IP now owned by Microsoft (via Activision Blizzard acquisition), legal landscape is uncertain
 
@@ -316,3 +316,4 @@ Most fan remakes operate under unofficial tolerance or negotiated fan licenses:
 [^ref-10]: [Matt Chat 565 — Jane Jensen, creator of Gabriel Knight (YouTube, Dec 2025)](https://www.youtube.com/watch?v=UKI8t6KgAHc) — Jensen says the GK4 pitch to Microsoft got no response: "We never heard a thing back"
 [^ref-11]: [IndieRetroNews — Police Quest III Amiga enhancement by SCP (Jan 5, 2026)](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html) — lists Conquests of the Longbow (90%) under development
 [^ref-12]: [English Amiga Board — "Space Quest IV enhanced by SCP", post #62 by Darasco (Feb 17, 2026)](https://eab.abime.net/showthread.php?t=122018&page=4) — "soon when we release Conquest of Longbow, we will also release the graphics injection tool"
+[^ref-13]: [Adventure Classic Gaming — Britney Brimhall interview (May 26, 2006)](http://www.adventureclassicgaming.com/index.php/site/interviews/210/) — "we were contacted … by … Vivendi Universal (VU) themselves … we now have permission to create these games"
