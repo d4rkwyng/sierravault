@@ -2,50 +2,49 @@
 title: "Knowledge Adventure"
 type: publisher
 founded: 1991
-headquarters: "Glendale, California, United States"
-parent_company: "Vivendi Universal Games (acquired 2004)"
-last_updated: "2026-07-13"
+defunct: 2023
+headquarters: "Glendale, California, USA (1990s); later Torrance, California, USA"
+parent_company: "CUC Software (1997), Cendant Software, Havas Interactive, Vivendi Universal Games (to 2004), Knowledge Holdings (from 2004)"
+last_updated: "2026-10-16"
 ---
 # Knowledge Adventure
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
+
+> [!note] Full history
+> This page covers Knowledge Adventure as a publisher of Dr. Brain games. The company's full, sourced history is on the developer page: [[Developers/Knowledge Adventure|Knowledge Adventure (developer)]].
 
 ## Overview
 
-Knowledge Adventure is an American educational software publisher founded in 1991, best known for the JumpStart series of educational games for children.[^ref-1] The company was acquired by Vivendi Universal Games (parent of Sierra Entertainment) in 2004, bringing it under the same corporate umbrella as Sierra's properties.[^ref-2]
+Knowledge Adventure was an American educational software developer and publisher, founded in California in 1991 by Rick Gibson and the brothers Bill and Larry Gross. It is best known for the *JumpStart* series.[^ref-1][^ref-2] CUC International completed its purchase of the company on 31 January 1997, making it part of the CUC Software division alongside Sierra On-Line. From then on Knowledge Adventure was a **sister company** to Sierra, not a Sierra studio.[^ref-17][^ref-3] The group passed to Cendant Software and Havas Interactive, and Vivendi became its parent in 1999.[^ref-3] In October 2004 Vivendi Universal Games **sold** Knowledge Adventure to the venture capital firms Azure Capital Partners and Telesoft Partners, and it became part of Knowledge Holdings Inc.[^ref-16][^ref-2] The company renamed itself JumpStart Games in October 2012 and closed on 1 July 2023.[^ref-1]
 
 ## Sierra Connection
 
-After Vivendi's acquisition, Knowledge Adventure continued development of the Dr.[^ref-3] Brain educational game series, which was originally created by Sierra On-Line.[^ref-4] The Dr.[^ref-5] Brain franchise, designed by the [[Corey Cole|Coles]], featured puzzle games that challenged players with logic, science, and problem-solving activities.[^ref-6]
-
-Knowledge Adventure released several Dr.[^ref-7] Brain titles in the late 1990s and 2000s, continuing the legacy of Sierra's educational gaming division.[^ref-8]
+The *Dr. Brain* series was created at Sierra by [[Corey Cole]], who designed the first game, *Castle of Dr. Brain* (1991).[^ref-19] After the 1997 CUC purchase, Knowledge Adventure's games group made new *Dr. Brain* titles. Jim Winstead Jr., who worked in that group, wrote that "KA and Sierra had wound up under the same corporate umbrella".[^ref-18] Knowledge Adventure's *Dr. Brain* games came out in 1998 and 1999, followed by a 2011 *JumpStart* title.[^ref-20][^ref-21][^ref-22]
 
 ## Games Published (Sierra Archive)
 
-- **1998** — [[1998 - Dr. Brain Thinking Games - IQ Adventure|Dr. Brain Thinking Games: IQ Adventure]] — Series: Dr.[^ref-11] Brain[^ref-9][^ref-10]
-- **1998** — [[1998 - Dr. Brain Thinking Games - Puzzle Madness|Dr. Brain Thinking Games: Puzzle Madness]] — Series: Dr.[^ref-14] Brain[^ref-12][^ref-13]
-- **1999** — [[1999 - Dr. Brain - Action Reaction|Dr. Brain: Action Reaction]] — Series: Dr. Brain[^ref-15]
-- **2011** — [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain|JumpStart Advanced: Adventures of Dr. Brain]] — Series: Dr. Brain
+- **1998** — [[1998 - Dr. Brain Thinking Games - IQ Adventure|Dr. Brain Thinking Games: IQ Adventure]] — Series: Dr. Brain[^ref-20]
+- **1998** — [[1998 - Dr. Brain Thinking Games - Puzzle Madness|Dr. Brain Thinking Games: Puzzle Madness]] — Series: Dr. Brain[^ref-21][^ref-7]
+- **1999** — [[1999 - Dr. Brain - Action Reaction|Dr. Brain: Action Reaction]] — Series: Dr. Brain[^ref-22]
+- **2011** — [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain|JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain]] — Series: Dr. Brain
 
 ## Related
 
-- **Original Series Creator:** [[Publishers/Sierra On-Line|Sierra On-Line]]
-- **Parent Company:** Vivendi Universal Games
+- **Developer page:** [[Developers/Knowledge Adventure|Knowledge Adventure (developer)]]
+- **Original Series Creator:** [[Corey Cole]], at [[Publishers/Sierra On-Line|Sierra On-Line]]
+- **Parent companies:** CUC Software (from 1997), then Cendant Software, Havas Interactive and Vivendi Universal Games (to 2004); Knowledge Holdings (from 2004)
 
 ## References
 
-[^ref-1]: [Wikipedia - JumpStart Games](https://en.wikipedia.org/wiki/JumpStart_Games) - Company history and acquisition
-[^ref-2]: [MobyGames - JumpStart Games, Inc.](https://www.mobygames.com/company/521/jumpstart-games-inc/) - Founding and brands
-[^ref-3]: [MobyGames - JumpStart Games history](https://www.mobygames.com/company/521/jumpstart-games-inc/history/) - Corporate timeline
-[^ref-4]: [JumpStart Wiki - JumpStart Games, Inc.](https://jstart.fandom.com/wiki/JumpStart_Games,_Inc.) - Fanfare acquisition and history
-[^ref-5]: [How to Train Your Dragon Wiki - Knowledge Adventure](https://howtotrainyourdragon.fandom.com/wiki/Knowledge_Adventure) - School of Dragons partnership
-[^ref-6]: [Grouvee - Knowledge Adventure](https://www.grouvee.com/games/company/35413-knowledge-adventure/) - Published games count
-[^ref-7]: [IGN - Knowledge Adventure Games](https://www.ign.com/games/producer/knowledge-adventure) - Game catalog
-[^ref-8]: [Wikipedia - Blaster Learning System](https://en.wikipedia.org/wiki/Blaster_Learning_System) - Math Blaster series
-[^ref-9]: [Wikipedia - JumpStart](https://en.wikipedia.org/wiki/JumpStart) - Franchise history
-[^ref-10]: [Codex Gamicus - Knowledge Adventure](https://gamicus.fandom.com/wiki/Knowledge_Adventure) - Davidson & Associates merger
-[^ref-11]: [AVID Wiki - Knowledge Adventure](https://www.avid.wiki/Knowledge_Adventure) - Company history
-[^ref-12]: [Dealroom - Knowledge Adventure](https://app.dealroom.co/companies/knowledge_adventure) - Acquisitions and milestones
-[^ref-13]: [Game Pressure - Knowledge Adventure](https://www.gamepressure.com/companies/knowledge-adventure/zb35c) - Developer collaborations
-[^ref-14]: [JumpStart Wiki Forum - Goodbye JumpStart Games](https://jstart.fandom.com/f/p/4400000000000075165) - Company closure 2023
-[^ref-15]: [Reddit - r/KnowledgeAdventure](https://www.reddit.com/r/KnowledgeAdventure/hot/) - Community memories
+[^ref-1]: [Wikipedia - JumpStart Games](https://en.wikipedia.org/wiki/JumpStart_Games) - Founded 1991; renamed JumpStart Games October 2012; closed 1 July 2023
+[^ref-2]: [MobyGames - JumpStart Games, Inc. (Wayback, 28 Oct 2025)](https://web.archive.org/web/20251028171045/https://www.mobygames.com/company/521/jumpstart-games-inc/) - Co-founders; Knowledge Holdings bought the company from Vivendi in October 2004
+[^ref-3]: [MobyGames - JumpStart Games history (Wayback, 10 Aug 2023)](https://web.archive.org/web/20230810010719/https://www.mobygames.com/company/521/jumpstart-games-inc/history/) - CUC Software with Sierra (Feb 1997); Cendant; Vivendi parent from 1999; sale announced Oct 2004
+[^ref-7]: [IGN - Knowledge Adventure Games](https://www.ign.com/games/producer/knowledge-adventure) - Game catalog, including Dr. Brain: Puzzle Madness (1998)
+[^ref-16]: [GamesIndustry.biz - "Vivendi Universal sells educational games division" (6 Oct 2004)](https://www.gamesindustry.biz/vivendi-universal-sells-educational-games-division) - Sale to Azure Capital Partners and Telesoft Partners; Knowledge Holdings Inc
+[^ref-17]: [CUC International - "CUC Completes Knowledge Adventure Acquisition" (3 Feb 1997, Wayback)](https://web.archive.org/web/19970714182108/http://www.cucsoftware.com/press/kaacq.html) - Completed 31 Jan 1997; part of the CUC Software division with Sierra On-Line
+[^ref-18]: [Trained Monkey - Knowledge Adventure](https://trainedmonkey.com/tag/Knowledge%20Adventure) - Jim Winstead Jr. on the KA games group and the Dr. Brain Thinking Games
+[^ref-19]: [Wikipedia - Castle of Dr. Brain](https://en.wikipedia.org/wiki/Castle_of_Dr._Brain) - Designer and director: Corey Cole (Sierra On-Line, 1991)
+[^ref-20]: [MobyGames - Dr. Brain Thinking Games: IQ Adventure](https://www.mobygames.com/game/38942/dr-brain-thinking-games-iq-adventure/) - Windows 1998; developed and published by Knowledge Adventure
+[^ref-21]: [MobyGames - Dr. Brain Thinking Games: Puzzle Madness](https://www.mobygames.com/game/10428/dr-brain-thinking-games-puzzle-madness/) - Windows/Macintosh, October 1998; developed and published by Knowledge Adventure
+[^ref-22]: [MobyGames - Dr. Brain: Action Reaction](https://www.mobygames.com/game/38944/dr-brain-action-reaction/) - Windows 1999; developed by Knowledge Adventure; published by Knowledge Adventure (US) and Sierra (Europe)
