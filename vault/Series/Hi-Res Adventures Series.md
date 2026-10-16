@@ -119,7 +119,7 @@ Mystery House was inducted into [[Awards|various retrospective Hall of Fame]] re
 [^ref-5]: [The Digital Antiquarian — On-Line Systems is Born](https://www.filfre.net/2011/10/on-line-systems-is-born/) and [Ken and Roberta](https://www.filfre.net/2011/10/ken-and-roberta/) — Founding, May 1980 launch, Ziploc-bag packaging; Adventure on Ken's remote terminal
 [^ref-6]: Ken Williams, *Not All Fairy Tales Have Happy Endings* (2020) — Sales figures and revenue context
 [^ref-7]: [The Digital Antiquarian — The Wizard and the Princess, Part 2](https://www.filfre.net/2011/10/the-wizard-and-the-princess-part-2/) — Sales and office-move context
-[^ref-8]: [MobyGames — Adventure in Serenia](https://www.mobygames.com/game/3242/adventure-in-serenia/) — IBM port renaming
+[^ref-8]: [MobyGames — Adventure in Serenia](https://www.mobygames.com/game/1761/hi-res-adventure-2-the-wizard-and-the-princess/) — IBM port renaming
 [^ref-9]: [Wikipedia — Time Zone (video game)](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) — Six-disk production details
 [^ref-10]: [The Digital Antiquarian — Time Zone: Aftermath](https://www.filfre.net/2012/06/time-zone-aftermath/) — Time Zone's commercial failure
 [^ref-11]: [Wikipedia — The Dark Crystal (video game)](https://en.wikipedia.org/wiki/The_Dark_Crystal_(video_game)) — Henson license

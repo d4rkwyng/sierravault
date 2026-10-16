@@ -98,4 +98,4 @@ The XBLA-era revival (2006–2010) of *3D Ultra MiniGolf Adventures* demonstrate
 [^ref-12]: [Hardcore Gaming 101 — Dynamix](http://www.hardcoregaming101.net/dynamix/) — Dynamix studio history
 [^ref-13]: [Wikipedia — 3D Ultra Lionel Traintown](https://en.wikipedia.org/wiki/3D_Ultra_Lionel_Traintown) — "licensed by Lionel, LLC"
 [^ref-14]: [Traxxas — Brand history](https://traxxas.com/about) — RC manufacturer behind Radio Control Racers Deluxe
-[^ref-15]: [MobyGames — Maximum Pool](https://www.mobygames.com/game/3942/maximum-pool/) — Cool Pool rebranding history
+[^ref-15]: [MobyGames — Maximum Pool](https://www.mobygames.com/game/3046/maximum-pool/) — Cool Pool rebranding history

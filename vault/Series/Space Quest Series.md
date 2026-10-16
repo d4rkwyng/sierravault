@@ -200,7 +200,7 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 [^ref-2]: [Wikipedia - Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – Series overview and Roger Wilco character
 [^ref-3]: [SpaceQuest.net - Death List](https://web.archive.org/web/*/https://spacequest.net/deaths/) – Documentation of creative player deaths
 [^ref-4]: The Digital Antiquarian - Space Quest *(no archived copy found)* – Two Guys collaboration history
-[^ref-5]: [MobyGames - Space Quest III](https://www.mobygames.com/game/141/space-quest-iii-the-pirates-of-pestulon/) – ScumSoft meta-narrative documentation
+[^ref-5]: [MobyGames - Space Quest III](https://www.mobygames.com/game/142/space-quest-iii-the-pirates-of-pestulon/) – ScumSoft meta-narrative documentation
 [^ref-6]: [SpaceQuest.net - Space Quest 7](https://spacequest.net/sq7/) – Cancelled sequel history
 [^ref-7]: [Kickstarter - SpaceVenture](https://www.kickstarter.com/projects/guysfromandromeda/two-guys-spaceventure-by-the-creators-of-space-que) – Spiritual successor campaign
 [^ref-8]: [SpaceQuest.net](https://spacequest.net/) – Premier fan community site

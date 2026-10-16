@@ -196,7 +196,7 @@ This game has been included in the following collections:
 [^ref-24]: [The Cutting Room Floor – Quest for Glory II](https://tcrf.net/Quest_for_Glory_II%3A_Trial_by_Fire) – unused content
 [^ref-25]: [PC World – Step into newfound adventure with Quest for Glory II: Trial by Fire (archived)](https://web.archive.org/web/20150924121212/http://www.techhive.com/article/259400/step_into_newfound_adventure_with_quest_for_glory_ii_trial_by_fire.html) – AGD Interactive remake review
 [^ref-26]: [MobyGames – Quest for Glory II: Trial by Fire](https://www.mobygames.com/game/169/quest-for-glory-ii-trial-by-fire/) – release dates, publishers
-[^ref-27]: [MobyGames – Quest for Glory II: Trial by Fire reviews](https://www.mobygames.com/game/169/quest-for-glory-ii/reviews/) – user review on the Paladin ending
+[^ref-27]: [MobyGames – Quest for Glory II: Trial by Fire reviews](https://www.mobygames.com/game/169/quest-for-glory-ii-trial-by-fire/reviews/) – user review on the Paladin ending
 [^ref-28]: [MobyGames – Quest for Glory II: Trial by Fire releases](https://www.mobygames.com/game/169/quest-for-glory-ii-trial-by-fire/releases/) – release dates, publishers, Kixx XL re-release
 [^ref-29]: [MobyGames – Quest for Glory II: Trial by Fire (2008 AGD Interactive remake)](https://www.mobygames.com/game/35907/quest-for-glory-ii-trial-by-fire/) – release date, interface, engine
 [^ref-30]: [Dragon #174 (October 1991), "The Role of Computers" – Internet Archive](https://archive.org/details/dragon-magazine/Dragon%20Magazine%20%23174%5Bocr%5D.pdf) – Lesser review, from p. 57

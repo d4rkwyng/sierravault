@@ -77,10 +77,10 @@ No Shivers revival has been announced. The IP sits with Activision Blizzard / Mi
 
 [^ref-1]: [Wikipedia — Shivers (video game)](https://en.wikipedia.org/wiki/Shivers_(video_game)) — Original game overview
 [^ref-2]: [Wikipedia — Shivers II: Harvest of Souls](https://en.wikipedia.org/wiki/Shivers_II:_Harvest_of_Souls) — Sequel overview, designers, plot
-[^ref-3]: [MobyGames — Shivers credits](https://www.mobygames.com/game/389/shivers/) — Designer credits
+[^ref-3]: [MobyGames — Shivers credits](https://www.mobygames.com/game/663/shivers/) — Designer credits
 [^ref-4]: [Wikipedia — Shivers (video game)](https://en.wikipedia.org/wiki/Shivers_(video_game)) — Designers, plot, Ixupi
 [^ref-5]: [GOG.com — Shivers Collection](https://www.gog.com/en/game/shivers_collection) — Current commercial availability
-[^ref-6]: [MobyGames — Shivers Two](https://www.mobygames.com/game/390/shivers-two-harvest-of-souls/) — Sequel credits and design
+[^ref-6]: [MobyGames — Shivers Two](https://www.mobygames.com/game/665/shivers-two-harvest-of-souls/) — Sequel credits and design
 [^ref-7]: [Wikipedia — Shivers II: Harvest of Souls](https://en.wikipedia.org/wiki/Shivers_II:_Harvest_of_Souls) — Review scores (GameSpot, AllGame, Next Generation)
 [^ref-8]: [ScummVM Wiki — Shivers](https://wiki.scummvm.org/index.php?title=Shivers) — Modern preservation status
 [^ref-10]: [Sierra Chest — Shivers](https://www.sierrachest.com/index.php?a=games&id=shivers) — Sierra Chest catalog

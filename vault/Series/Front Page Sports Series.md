@@ -107,9 +107,9 @@ The Front Page Sports brand has not been revived since 1999. The IP currently si
 [^ref-4]: [Wikipedia — Front Page Sports Football](https://en.wikipedia.org/wiki/Front_Page_Sports_Football) — football series, 1992–1999 versions, licensing, play editor, career mode
 [^ref-5]: [Computer Gaming World Museum — Football Pro reviews](http://www.cgwmuseum.org) — Contemporary reviews
 [^ref-6]: [Wikipedia — Front Page Sports Baseball](https://en.wikipedia.org/wiki/Front_Page_Sports_Baseball) — editions '94/'96/'98, reception, online-league use
-[^ref-7]: [MobyGames — FPS: Golf](https://www.mobygames.com/game/3247/front-page-sports-golf/) — Golf entry
-[^ref-8]: [MobyGames — FPS: Ski Racing 99](https://www.mobygames.com/game/4032/front-page-sports-ski-racing-99/) — Final entry
-[^ref-9]: [MobyGames — FPS: Trophy Rivers](https://www.mobygames.com/game/3308/front-page-sports-trophy-rivers/) — Fly fishing entry
+[^ref-7]: [MobyGames — FPS: Golf](https://www.mobygames.com/game/3147/front-page-sports-golf/) — Golf entry
+[^ref-8]: [MobyGames — FPS: Ski Racing 99](https://www.mobygames.com/game/243406/front-page-sports-ski-racing-99/) — Final entry
+[^ref-9]: [MobyGames — FPS: Trophy Rivers](https://www.mobygames.com/game/19573/front-page-sports-trophy-rivers/) — Fly fishing entry
 [^ref-10]: [Hardcore Gaming 101 — Dynamix](http://www.hardcoregaming101.net/dynamix/) — Newspaper UI design context
 [^ref-12]: [Sierra Annual Reports 1995-1997](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=sierra+on-line) — Financial filings for context
 [^ref-14]: [MobyGames — Sierra Entertainment](https://www.mobygames.com/company/3/sierra-entertainment-inc/) — IP rights tracking

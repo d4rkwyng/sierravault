@@ -117,9 +117,9 @@ The platform itself is preserved primarily through fan-community efforts. The or
 [^ref-3]: [Sierra Chest — The Sierra Network](https://www.sierrachest.com/index.php?a=games&fld=group&id=tsn) — Sierra-specific historical record
 [^ref-4]: [The Digital Antiquarian — The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) — AOL purchase from AT&T, August 7, 1996
 [^ref-5]: [Gamasutra — MMO history retrospective](https://www.gamedeveloper.com/business/early-mmos) — Industry-history overview citing TSN
-[^ref-6]: [MobyGames — Shadow of Yserbius](https://www.mobygames.com/game/2169/shadow-of-yserbius/) — Founding-game credits
+[^ref-6]: [MobyGames — Shadow of Yserbius](https://www.mobygames.com/game/1653/shadow-of-yserbius/) — Founding-game credits
 [^ref-7]: [Wikipedia — The Shadow of Yserbius](https://en.wikipedia.org/wiki/The_Shadow_of_Yserbius) — MMORPG context
-[^ref-8]: [MobyGames — Fates of Twinion](https://www.mobygames.com/game/2170/fates-of-twinion/) — Sequel credits
+[^ref-8]: [MobyGames — Fates of Twinion](https://www.mobygames.com/game/1846/fates-of-twinion/) — Sequel credits
 [^ref-9]: [Wikipedia — The Realm Online](https://en.wikipedia.org/wiki/The_Realm_Online) — Norseman Games continuation
 [^ref-10]: [Halcyon Days — Warren Schwader interview](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) — TSN Hoyle design
 [^ref-11]: [Wikipedia — X.25](https://en.wikipedia.org/wiki/X.25) — Network protocol context for early TSN

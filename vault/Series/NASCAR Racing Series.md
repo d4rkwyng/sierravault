@@ -81,7 +81,7 @@ The NASCAR Racing series received consistent strong reviews throughout its Sierr
 [^ref-1]: [Wikipedia — NASCAR Racing series](https://en.wikipedia.org/wiki/NASCAR_Racing) — Series overview
 [^ref-2]: [Wikipedia — Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — Studio history
 [^ref-3]: [Wikipedia — iRacing](https://en.wikipedia.org/wiki/IRacing) — Development from 2004 on NR2003 code; public launch August 26, 2008
-[^ref-4]: [MobyGames — NASCAR Racing](https://www.mobygames.com/game/1108/nascar-racing/) — Founding-entry credits, technical specifications
+[^ref-4]: [MobyGames — NASCAR Racing](https://www.mobygames.com/game/1571/nascar-racing/) — Founding-entry credits, technical specifications
 [^ref-5]: [GameSpot — NASCAR Racing review](https://www.gamespot.com/reviews/nascar-racing-review/1900-2536030/) — Contemporary review
 [^ref-6]: [Computer Gaming World Museum — NASCAR Racing review](http://www.cgwmuseum.org/galleries/index.php?year=1994) — Award nominations
 [^ref-7]: [Wikipedia — NASCAR Racing 2002 Season](https://en.wikipedia.org/wiki/NASCAR_Racing_2002_Season) — Engine generation change

@@ -227,7 +227,7 @@ Some easter eggs only appear on return visits:
 
 [^ref-2]: [Space Quest Historian – 11 Things You Probably Didn't Know About Space Quest](https://www.youtube.com/watch?v=Hvux-A0oGiM) – Ken Williams easter egg, Scott Murphy's reaction
 
-[^ref-3]: [MobyGames – Space Quest III](https://www.mobygames.com/game/140/space-quest-iii-the-pirates-of-pestulon/) – Astro Chicken hidden message mechanics
+[^ref-3]: [MobyGames – Space Quest III](https://www.mobygames.com/game/142/space-quest-iii-the-pirates-of-pestulon/) – Astro Chicken hidden message mechanics
 
 [^ref-4]: [Wikipedia – Space Quest III](https://en.wikipedia.org/wiki/Space_Quest_III:_The_Pirates_of_Pestulon) – Two Guys rescue plot summary
 
@@ -255,7 +255,7 @@ Some easter eggs only appear on return visits:
 
 [^ref-17]: [Al Lowe's Official Hints Page](https://allowe.com/games/larry/tips-manuals/lsl7-hints.html) – Easter egg descriptions, developer commentary
 
-[^ref-18]: [MobyGames – Leisure Suit Larry 7](https://www.mobygames.com/game/1074/leisure-suit-larry-7-love-for-sail/) – Easter egg icon flash system
+[^ref-18]: [MobyGames – Leisure Suit Larry 7](https://www.mobygames.com/game/381/leisure-suit-larry-love-for-sail/) – Easter egg icon flash system
 
 [^ref-19]: [Al Lowe's Official Easter Eggs Page](https://allowe.com/games/larry/tips-manuals/lsl7-eggs.html) – Secret ending requirements
 
@@ -283,7 +283,7 @@ Some easter eggs only appear on return visits:
 
 [^ref-31]: [GameFAQs – Phantasmagoria FAQ](https://gamefaqs.gamespot.com/pc/198285-roberta-williams-phantasmagoria/faqs/2111) – Roberta Williams antique shop cameo
 
-[^ref-32]: [MobyGames – Mixed-Up Mother Goose](https://www.mobygames.com/game/4713/mixed-up-mother-goose/) – Box art featuring Roberta Williams and children
+[^ref-32]: [MobyGames – Mixed-Up Mother Goose](https://www.mobygames.com/game/758/roberta-williams-mixed-up-mother-goose/) – Box art featuring Roberta Williams and children
 
 [^ref-33]: [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]] – Al Lowe wanted poster
 

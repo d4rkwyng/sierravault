@@ -110,7 +110,7 @@ For most of Sierra's history Coktel's productions were marketed in France/Europe
 [^ref-3]: [Wikipedia — Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) — Gobliiins 4 (2009), Gobliiins 5 (2023) and GOBLiiNS6 (2026) development and release
 [^ref-4]: [The Digital Antiquarian — Coktel Vision](https://www.filfre.net/?s=Coktel+Vision) — Studio history
 [^ref-5]: [Wikipedia — Adi and Adibou](https://en.wikipedia.org/wiki/Adibou) — Tomahawk edutainment line
-[^ref-6]: [MobyGames — Gobliiins 4](https://www.mobygames.com/game/41875/gobliiins-4/) — 2009 revival
+[^ref-6]: [MobyGames — Gobliiins 4](https://www.mobygames.com/game/40608/gobliiins-4/) — 2009 revival
 [^ref-7]: [Steam — Gobliiins 5](https://store.steampowered.com/app/2155570/Gobliiins_5_The_Morgloton_Invasion/) — 2023 release
 [^ref-8]: [Steam — Gobliins 6](https://store.steampowered.com/app/2950900/Gobliins_6/) — 2026 release
 [^ref-9]: [MobyGames — Pierre Gilhodes credits](https://www.mobygames.com/person/12849/pierre-gilhodes/) — Designer career

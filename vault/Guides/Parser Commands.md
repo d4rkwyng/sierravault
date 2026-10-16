@@ -271,7 +271,7 @@ All AGI and SCI parser games are fully supported[^ref-agi][^ext-scummvm-agi].
 [^ext-sierra-fandom]: [Sierra Fandom Wiki – Space Quest: The Sarien Encounter](https://sierra.fandom.com/wiki/Space_Quest%3A_The_Sarien_Encounter_%28AGI%29) – Parser input interface, AGI engine details
 [^ext-sierra-fandom-sq1]: [Sierra Fandom Wiki – Space Quest I](https://sierra.fandom.com/wiki/Space_Quest%3A_The_Sarien_Encounter_%28AGI%29) – Parser commands, pseudo-3D environment
 [^ext-mobygames-sq1]: [MobyGames – Space Quest I](https://www.mobygames.com/game/114/space-quest-chapter-i-the-sarien-encounter/) – Technical specifications, credits
-[^ext-mobygames-pq1]: [MobyGames – Police Quest I](https://www.mobygames.com/game/145/police-quest-in-pursuit-of-the-death-angel/) – Police procedure commands, game mechanics
+[^ext-mobygames-pq1]: [MobyGames – Police Quest I](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/) – Police procedure commands, game mechanics
 [^ext-mobygames-lsl1]: [MobyGames – Leisure Suit Larry I](https://www.mobygames.com/game/379/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – Parser responses, adult humor
 [^ext-wikipedia-kq3]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – Release dates, spell-casting system, technical firsts
 [^ext-gamefaqs-kq3]: [GameFAQs – King's Quest III User Review](https://gamefaqs.gamespot.com/appleii/938229-kings-quest-iii-to-heir-is-human/reviews/74441) – Spell mechanic criticism, death on typos
@@ -284,7 +284,7 @@ All AGI and SCI parser games are fully supported[^ref-agi][^ext-scummvm-agi].
 [^ext-ign-allowe]: [IGN – Talking Leisure Suit Larry with Al Lowe](https://www.ign.com/articles/talking-leisure-suit-larry-with-al-lowe) – Al Lowe on parser vs point-and-click accessibility
 [^ext-abandonwaredos-gr]: Abandonware DOS – Gold Rush! – Real-time parser mechanic
 [^ext-steam-grann]: [Steam – Gold Rush! Anniversary](https://store.steampowered.com/app/319230/Gold_Rush_Anniversary/) – Dual interface system description
-[^ext-mobygames-lsl7]: [MobyGames – Leisure Suit Larry 7](https://www.mobygames.com/game/1102/leisure-suit-larry-love-for-sail/) – Hybrid interface, parser memory feature
+[^ext-mobygames-lsl7]: [MobyGames – Leisure Suit Larry 7](https://www.mobygames.com/game/381/leisure-suit-larry-love-for-sail/) – Hybrid interface, parser memory feature
 [^ext-tcrf-sq1]: [The Cutting Room Floor – Space Quest I](https://tcrf.net/Space_Quest:_Chapter_I_-_The_Sarien_Encounter_(1986)) – Ken Williams easter egg, hidden content
 [^ext-sq-historian]: [Space Quest Historian – 11 Things You Didn't Know About Space Quest](https://www.youtube.com/watch?v=Hvux-A0oGiM) – Ken Williams easter egg programming anecdote
 [^ext-scummvm-agi]: [ScummVM Wiki – Space Quest](https://wiki.scummvm.org/index.php?title=Space_Quest) – AGI support, platform compatibility

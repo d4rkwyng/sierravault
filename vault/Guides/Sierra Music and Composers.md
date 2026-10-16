@@ -210,7 +210,7 @@ Allen launched a Kickstarter project titled "Under the Half Dome" to create "hig
 [^ref-17]: [Wikipedia – Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight%3A_Sins_of_the_Fathers) — Robert Holmes composer credits
 [^ref-18]: [Only Solitaire – Gabriel Knight Review](https://onlysolitaire.substack.com/p/game-review-gabriel-knight-sins-of) — Holmes-Jensen marriage, series soundtracks
 [^ref-19]: [Sierra Fandom Wiki – Gabriel Knight](https://sierra.fandom.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — "When the Saints" recurring theme in all GK games
-[^ref-20]: [MobyGames – King's Quest VI](https://www.mobygames.com/game/455/kings-quest-vi-heir-today-gone-tomorrow/) — Braymen, Kehler, Seibert credits
+[^ref-20]: [MobyGames – King's Quest VI](https://www.mobygames.com/game/131/kings-quest-vi-heir-today-gone-tomorrow/) — Braymen, Kehler, Seibert credits
 [^ref-21]: [Discogs – An Ode to the Isles](https://www.discogs.com/release/31112489) — 2024 Two Guys Records release, promo CD values
 [^ref-22]: [Discogs – Girl in the Tower Promo CD](https://www.discogs.com/release/14528268) — Jane Jensen lyrics, Mark Seibert composer
 [^ref-23]: [The Digital Antiquarian – Mortgaging of Sierra On-Line](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) — Radio campaign fiasco, Ken Williams vision, FCC threats
