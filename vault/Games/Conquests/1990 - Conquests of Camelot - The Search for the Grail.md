@@ -2,7 +2,7 @@
 title: 'Conquests of Camelot: The Search for the Grail'
 release_year: 1990
 developer: Sierra On-Line
-designer: [Christy Marx, Peter Ledger]
+designer: [Christy Marx]
 publisher: Sierra On-Line
 genre: Adventure
 platforms: [DOS, Amiga, Atari ST]
@@ -10,7 +10,7 @@ series: Conquests
 engine: SCI0
 protagonist: King Arthur
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 composer: [Mark Seibert]
 description: '*Conquests of Camelot: The Search for the Grail* is an adventure game
   released in March 1990 by Sierra On-Line that places players in control of King
@@ -19,7 +19,7 @@ tags: [1990s, adventure, conquests, sci, sierra]
 ---
 # Conquests of Camelot: The Search for the Grail
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,8 @@ The game distinguished itself from other adventure titles of its era through its
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Designer:** [[Christy Marx]], [[Peter Ledger]][^ref-2]
+> **Designer:** [[Christy Marx]][^ref-32]
+> **Art Designer:** [[Peter Ledger]][^ref-32]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI0[^ref-6]
 > **Platforms:** MS-DOS, Amiga, Atari ST[^ref-1]
@@ -124,7 +125,7 @@ The game underwent significant revision between its demonstration version shown 
 
 **Development Credits:**[^ref-2]
 - **Designer:** [[Christy Marx]]
-- **Visual Designer:** Peter Ledger
+- **Art Designer:** [[Peter Ledger]] (also animator, background artist and cover artist)[^ref-32]
 - **Lead Programmer:** David Slayback
 - **Programmers:** Robert Fischbach, Doug Oldfield, Jerry Shaw, Eric Hart
 - **Animators:** Douglas Herring, Kenn Nishiuye, Andy Hoyos, Jennifer Shontz[^ref-31]
@@ -190,7 +191,7 @@ The game contains numerous hidden references and Easter eggs, many paying tribut
 - **Monty Python Treasury Dance:** Type "HAM AND JAM AND SPAM A LOT" in the treasury room, and three soldiers will appear dancing to a cheerful tune. The sequence concludes with the text "In memory of Graham Chapman," honoring the Monty Python member who died on October 4, 1989.[^ref-8]
 - **"Watery Tart" Reference:** Queen Gwenhyver refers to the Lady of the Lake as "The Watery Tart," directly quoting the famous Monty Python and the Holy Grail line: "You can't expect to wield some supreme executive power, just because some watery tart threw a sword at you."[^ref-8]
 - **Latin Graffiti:** On a wall in the dirty alley in Jerusalem, Latin text reads "PRO BONUM TEMPUS APPELA BERTA" (for a good time, call Berta), possibly referencing Roberta Williams.[^ref-8] When examined, the game message states: "Let us simply say that it is someone's crude idea of a joke."[^ref-20]
-- **Designer Names in Greek:** At Southampton dock, typing "LOOK NAME" reveals "It is Greek for Kristi," and "LOOK KRISTI" shows "Peter loves Christie and Christie loves Peter," referencing designers Christy Marx and Peter Ledger.[^ref-8]
+- **Designer Names in Greek:** At Southampton dock, typing "LOOK NAME" reveals "It is Greek for Kristi," and "LOOK KRISTI" shows "Peter loves Christie and Christie loves Peter," referencing designer Christy Marx and art designer Peter Ledger.[^ref-8]
 - **Ledger Sign:** A sign in Jerusalem reads "LEDGER" in Greek letters, honoring illustrator Peter Ledger.[^ref-11]
 - **Producer Reference:** At Ismael's antiquities shop, a man claims to have "hairs from the beard of Guruka Singh" and mentions "the difficulty of shaving a Sikh," referencing producer Guruka Singh Khalsa.[^ref-8]
 - **Roland MT-32 Messages:** The Roland MT-32 displays messages including "Conquest of Camelot" and "(It's Only A Model)"—another Monty Python reference. When quitting the game, it displays "HAM&JAM&SPAMALOT."[^ref-11]
@@ -280,3 +281,4 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 [^ref-29]: [Speedrun.com](https://www.speedrun.com/conquests_of_camelot_the_search_for_the_grail) – speedrun records
 [^ref-30]: [Choicest Games](https://www.choicestgames.com/2020/12/conquests-of-camelot-search-for-grail.html) – Marx and Ledger backgrounds, reception summary, SCI/AGI context, January 1990 release date
 [^ref-31]: [Conquests Fandom Wiki](https://conquests.fandom.com/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – platforms, version info, full credits
+[^ref-32]: [MobyGames – Conquests of Camelot credits, DOS (Wayback, 2022-07-28)](http://web.archive.org/web/20220728144548/https://www.mobygames.com/game/dos/conquests-of-camelot-the-search-for-the-grail/credits) – Game Designer Christy Marx; Art Designer, Animator, Background Artist and cover artwork Peter Ledger
