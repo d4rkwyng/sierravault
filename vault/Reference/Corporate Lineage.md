@@ -1,147 +1,154 @@
 ---
 title: "Corporate Lineage"
 type: reference
-last_updated: "2026-10-09"
+last_updated: "2026-10-16"
 description: "The acquisition chain that took Sierra On-Line from a 1979 garage startup to a brand inside Activision Blizzard, including dates, dollar amounts, and key executives."
 tags: [reference, sierra-history, acquisitions, corporate]
 ---
 
 # Corporate Lineage
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
-The Sierra On-Line brand has changed hands repeatedly over four-plus decades, passing through a tangle of consumer-tech rollups, French media conglomerates, and finally into the catalog of one of the world's largest video-game publishers. This page traces the ownership chain in chronological order, with the dollar values and dates that are publicly known, so that any game page's `sierra_lineage` field can be cross-referenced against a single authoritative timeline.[^ref-1]
+The Sierra On-Line brand has changed hands repeatedly over four-plus decades, passing through a consumer-services rollup, a French media group and finally into the catalog of one of the world's largest video-game publishers. This page traces the ownership chain in chronological order, with the dollar values and dates that sources state, so that any game page's `sierra_lineage` field can be cross-referenced against a single timeline.[^ref-1]
 
 The lineage breaks into seven eras:
 
-1. **On-Line Systems** (1979–1982) — Founding, in the Williams' Simi Valley home and later Coarsegold/Oakhurst, CA.
+1. **On-Line Systems** (1979–1982) — Founding, in the Williams' Simi Valley home, then Coarsegold and Oakhurst, CA.
 2. **Sierra On-Line, independent** (1982–1996) — IPO era, flagship-series creation, acquired-studio growth.
-3. **CUC International / Cendant** (1996–1998) — Acquisition by a consumer-marketing rollup that collapsed in an accounting scandal.
-4. **Havas Interactive** (1998–2000) — French media subsidiary stabilizes the brand.
-5. **Vivendi Universal Games** (2000–2008) — Sierra Entertainment label inside a French entertainment conglomerate; gradual catalog draw-down.
-6. **Activision Blizzard / Activision** (2008–2023) — Sierra brand mothballed after the Activision Blizzard merger, then briefly revived as a digital download imprint.
+3. **CUC International / Cendant** (1996–1998) — Acquisition by a consumer-services rollup that collapsed in an accounting scandal.
+4. **Havas Interactive** (1998–2001) — Sale to Vivendi's French media subsidiary Havas.
+5. **Vivendi Universal Games** (2001–2008) — Sierra Entertainment label inside Vivendi's games division.
+6. **Activision Blizzard / Activision** (2008–2023) — Sierra divisions passed to Activision in the 2008 merger; the brand was briefly revived as an indie label in 2014.
 7. **Microsoft Gaming** (2023–present) — Sierra IPs absorbed into Microsoft's catalog via the Activision Blizzard acquisition.
 
 ---
 
 ## Era 1 — On-Line Systems (1979–1982)
 
-[[Ken Williams]] founded On-Line Systems in 1979 (with [[Roberta Williams]] as co-founder/lead designer) initially to publish a FORTRAN compiler for the TRS-80, then pivoted to publishing Roberta's adventure games starting with [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] in May 1980.[^ref-2][^ref-3] The company operated out of the Williams' home before moving to a small office in Coarsegold, then to its long-time headquarters in [[Yosemite Entertainment|Oakhurst, California]] near Yosemite National Park.[^ref-3][^ref-4]
+[[Ken Williams]] and [[Roberta Williams]] founded On-Line Systems in 1979 in Simi Valley, California.[^ref-1][^ref-3] Ken had registered the company while planning a FORTRAN compiler for personal computers; he later recalled that the couple bought an Apple II for it.[^ref-3][^ref-39] Instead the company took off with Roberta's [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] in May 1980.[^ref-39] The family moved to Coarsegold in October 1980, and on December 1, 1980 the company opened its first office in nearby Oakhurst;[^ref-21] Sierra's own 1990 timeline instead dates the headquarters move from Coarsegold to Oakhurst to 1983.[^ref-39]
 
-By 1982 On-Line was the largest independent computer-game publisher in the United States, with hits including [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|The Wizard and the Princess]], [[1981 - Threshold]], and [[1981 - Softporn Adventure]].[^ref-5][^ref-6]
+Early titles included [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|The Wizard and the Princess]], which sold more than sixty thousand copies,[^ref-6] as well as [[1981 - Threshold]] and [[1981 - Softporn Adventure]]. By 1983 the company had sales of $10 million, "making it one of the largest independent publishers of home-computer software",[^ref-21] and by early 1984 InfoWorld estimated it was the world's 12th-largest microcomputer software company.[^ref-1]
 
 ## Era 2 — Sierra On-Line, independent (1982–1996)
 
-In 1982 On-Line Systems rebranded as **Sierra On-Line, Inc.**, taking the name from the surrounding Sierra Nevada mountain range.[^ref-7] The 1983–1984 video-game crash hit Sierra hard — staff was cut from about 120 to 40 in a single day in 1984 — but the company recovered when IBM commissioned [[1984 - King's Quest - Quest for the Crown|King's Quest]] (1984) to showcase the IBM PCjr.[^ref-8][^ref-9]
+In 1982 On-Line Systems was renamed **Sierra On-Line, Inc.**, after the Sierra Nevada mountains near Oakhurst.[^ref-1][^ref-6] The video-game crash hit Sierra hard: on one day in April 1984 the company shrank "from a company of 120 employees to one of 40".[^ref-8] IBM had come to Sierra in 1983 for software for its new PCjr and funded the development of the AGI engine and the first game written with it, [[1984 - King's Quest - Quest for the Crown|King's Quest]] (1984).[^ref-8]
 
 Through the late 1980s and 1990s, Sierra established flagship adventure franchises (King's Quest, Space Quest, Police Quest, Leisure Suit Larry, Quest for Glory, Gabriel Knight, Laura Bow) and built a stable of acquired studios:
 
-- **1990**: Acquired [[Dynamix]] (Eugene, Oregon) for their Dragon and TSR Games.[^ref-10]
+- **1990**: On March 27, 1990, Sierra announced its intent to acquire [[Dynamix]] of Eugene, Oregon, whose 3Space technology it had already licensed.[^ref-39][^ref-10]
 - **1992**: Acquired [[Bright Star Technology]] (educational software).[^ref-11]
-- **1993**: Acquired [[Coktel Vision]] (French adventure/edutainment publisher).[^ref-12]
-- **1995**: Acquired [[Impressions Games]] (UK-based historical strategy developer of Caesar, Pharaoh, Lords of the Realm).[^ref-13]
-- **1995**: Acquired [[Papyrus Design Group]] (NASCAR/IndyCar racing simulators).[^ref-14]
-- **1996**: Acquired [[Synergistic Software]] ([[1991 - Conan - The Cimmerian|Conan]], [[1989 - J.R.R. Tolkien's War in Middle Earth|War in Middle Earth]]).[^ref-15]
+- **1993**: Acquired [[Coktel Vision]], a French developer and publisher of educational and entertainment software, on October 29, 1993.[^ref-12][^ref-16]
+- **1995**: Merged with Inspiration, parent of [[Impressions Games]] (British strategy developer of the City Building and Lords of the Realm series), on June 20, 1995.[^ref-13][^ref-16]
+- **1995**: Merged with [[Papyrus Design Group]], "developers of NASCAR Racing and Indy Car Racing", on November 30, 1995.[^ref-14][^ref-16]
+- **1996**: Acquired Seattle's [[Synergistic Software]] ([[1991 - Conan - The Cimmerian|Conan]], [[1989 - J.R.R. Tolkien's War in Middle Earth|War in Middle Earth]]).[^ref-15][^ref-40]
 
-Sierra went public on NASDAQ on December 7, 1988, with the ticker SIER.[^ref-16] By 1996, the company was generating roughly USD 158 million in annual revenue and was a logical acquisition target for any rollup looking to enter consumer software.[^ref-17]
+Sierra went public in October 1988 at $9.00 a share, trading on NASDAQ as "Sier".[^ref-39] Its headquarters moved from California to Bellevue, Washington, in January 1994.[^ref-41] In the fiscal year ending March 31, 1996, Sierra's revenues were USD 158.2 million.[^ref-16]
 
 ## Era 3 — CUC International / Cendant (1996–1998)
 
-On February 20, 1996, **CUC International** — a Connecticut-based consumer-services rollup best known for its Comp-U-Card discount-shopping membership business — announced its acquisition of Sierra On-Line for approximately **USD 1.06 billion** in stock.[^ref-18][^ref-19] The deal closed July 24, 1996, and CUC reorganized Sierra and its other game-software acquisitions (Davidson & Associates, Knowledge Adventure, Berkeley Systems, Blizzard Entertainment) into a software publishing arm.[^ref-20]
+On February 20, 1996, **CUC International** — a Connecticut-based consumer-services company best known for its Comp-U-Card discount-shopping membership business — announced that it would acquire Sierra On-Line in a transaction "valued at approximately $1.06 billion", based on CUC's share price.[^ref-19] The merger agreement was dated February 19, 1996, and the merger was completed on July 24, 1996.[^ref-18] CUC grouped Sierra with Davidson & Associates (owner of Blizzard Entertainment), Knowledge Adventure and, from April 1997, Berkeley Systems.[^ref-20][^ref-1]
 
-Ken Williams left Sierra in 1996, and Roberta Williams continued through 1998 before retiring after [[1998 - King's Quest - Mask of Eternity|Mask of Eternity]].[^ref-21] CUC's tenure was marked by cost-cutting, headquarters consolidation (the Oakhurst office was eventually closed in 1999), and creative-control conflicts that played out across multiple acquired studios.[^ref-22]
+Ken Williams stayed on after the sale but left CUC in November 1997; Roberta Williams remained with Sierra until [[1998 - King's Quest - Mask of Eternity|Mask of Eternity]] was released in December 1998,[^ref-1] and retired from Sierra in 1999.[^ref-21] Valve's [[1998 - Half-Life|Half-Life]] was published by Sierra Studios on November 19, 1998.[^ref-53]
 
-In December 1997 CUC merged with HFS Inc. to form **Cendant Corporation**. Within months Cendant announced one of the largest accounting frauds in US corporate history at the time — three years of pre-merger CUC earnings had been overstated by ~USD 500 million.[^ref-23] The fallout forced Cendant to divest its consumer-software business.
+In December 1997 CUC merged with HFS Incorporated to form **Cendant Corporation**. On April 16, 1998, Cendant disclosed that for three years before the merger CUC had overstated its income by over USD 500 million.[^ref-20] Cendant later sold its consumer-software business.
 
-## Era 4 — Havas Interactive (1998–2000)
+## Era 4 — Havas Interactive (1998–2001)
 
-In June 1998 Cendant Software was sold to **Havas SA** (a French media conglomerate, then a majority shareholder of Vivendi) for approximately **USD 800 million**, including Sierra, Knowledge Adventure, Blizzard, and the other CUC-era game labels.[^ref-24][^ref-25] The acquired unit was rebranded **Havas Interactive**.
+On November 20, 1998, Cendant confirmed it would sell its consumer software unit — Sierra On-Line, Davidson & Associates and Knowledge Adventure — to the French media group **Havas** for USD 800 million, plus up to USD 200 million more under a contingency, giving "Havas and its parent Vivendi" control.[^ref-24] The unit traded as **Havas Interactive** from 1998 to 2001.[^ref-27]
 
-Under Havas, Sierra continued releasing titles under the original brand but was being restructured around its highest-margin properties (Blizzard's *Diablo* and *StarCraft* in particular). The Oakhurst studio was closed in February 1999, with development consolidated to Bellevue, Washington (under the [[Yosemite Entertainment]] name) and other Vivendi/Havas sites.[^ref-26]
+On February 22, 1999 ("Chainsaw Monday"), mass layoffs hit Oakhurst, where the original Sierra office was by then known as [[Yosemite Entertainment]]; about a third of the staff were offered relocation to Bellevue, and two of its projects were to resume there.[^ref-26][^ref-1] Relic's [[1999 - Homeworld|Homeworld]] was published by Sierra Studios on September 28, 1999.[^ref-33]
 
-## Era 5 — Vivendi Universal Games / Sierra Entertainment label (2000–2008)
+## Era 5 — Vivendi Universal Games / Sierra Entertainment label (2001–2008)
 
-In 2000, Havas's interactive arm was folded into **Vivendi Universal Games (VUG)**, the gaming subsidiary of Vivendi Universal (which had merged from Vivendi and the Seagram Company's Universal Studios division).[^ref-27] Sierra became a publishing label within VUG, marketed as **Sierra Entertainment**.[^ref-28]
+In 2001 Havas Interactive became Vivendi Universal Interactive Publishing and then **Vivendi Universal Games**, the name it kept until 2006, when it became Vivendi Games.[^ref-27] The company itself was renamed from Sierra On-Line, Inc. to **Sierra Entertainment, Inc.** at the end of 2001.[^ref-6]
 
-VUG-era Sierra games included [[1998 - Half-Life|Half-Life]] expansions (partnered with [[Valve Corporation]]), the [[1999 - Homeworld|Homeworld]] series (partnered with [[Relic Entertainment]]), continuations of franchises like *Empire Earth* and *FEAR*, plus a final scattering of legacy adventure releases such as the *Half-Life 2*-era expansions and the brief revival period that produced [[2015 - King's Quest|King's Quest (2015)]] (under Activision after the next acquisition).[^ref-29]
+Sierra-label releases of this era included *Leisure Suit Larry: Magna Cum Laude* (2004), published by Vivendi Universal Games and its subsidiary Sierra Entertainment,[^ref-56] and [[2005 - SWAT 4|SWAT 4]] (2005), developed by Irrational Games and published by Sierra Entertainment.[^ref-47]
 
-In 2006 VUG sold the Sierra label's mainstream-PC adventure catalog and brand presence to Activision via the **Sierra Online** digital download imprint — a transitional arrangement that previewed the upcoming merger.[^ref-30]
+In late 2005 the Sierra brand was relaunched from Los Angeles, and a new subsidiary, **Sierra Online**, was founded to focus on downloadable and online-only games.[^ref-1]
 
 ## Era 6 — Activision Blizzard / Activision (2008–2023)
 
-On July 9, 2008, **Activision** and **Vivendi Games** (the parent of VUG) merged to form **Activision Blizzard**, in a deal valued at approximately **USD 18.9 billion**.[^ref-31] The merger transferred Sierra's IP — including all adventure franchises, the Half-Life/Homeworld publishing rights (with caveats), and the acquired-studio catalogs — to Activision Blizzard's IP library.[^ref-32]
+**Activision** and **Vivendi Games** completed their merger to form **Activision Blizzard** on July 9, 2008, a day after Activision's stockholders approved it; Activision Publishing then included "the Sierra Entertainment, Sierra Online and Vivendi Games Mobile divisions".[^ref-32] The deal was valued at about **USD 18.9 billion**.[^ref-31]
 
-Activision quickly mothballed the Sierra Entertainment brand. Most Sierra IPs sat dormant for years. Exceptions:
+Activision deemed most of the former Vivendi Games properties, including the Sierra Online division, "non-strategic". Several were sold — Codemasters bought the Leisure Suit Larry IP in February 2009 — and the Sierra Online division was closed.[^ref-1] Later events:
 
-- **2013** — Gearbox Software acquired the *Homeworld* IP at the THQ bankruptcy auction for approximately **USD 1.35 million** (after which [[Blackbird Interactive]] continued the franchise).[^ref-33] (Note: *Homeworld* had been held by THQ rather than Activision; THQ confirmed in 2007 that it had acquired the series rights from Sierra.)
-- **2014** — Activision quietly revived the Sierra Entertainment brand as a digital-only publishing imprint announced at Gamescom 2014, leading to releases including [[2015 - King's Quest|King's Quest (2015)]] (The Odd Gentlemen), *Geometry Wars 3: Dimensions* and *Shiftlings*.[^ref-34][^ref-35][^ref-36]
+- **2013** — Gearbox Software bought the *Homeworld* rights at the THQ bankruptcy auction for **USD 1.35 million** (after which [[Blackbird Interactive]] continued the franchise).[^ref-33] *Homeworld* had not passed to Activision: THQ confirmed in 2007 that it had acquired the series rights from Relic and Sierra.[^ref-33]
+- **2014** — Activision revived the Sierra brand as an indie-focused label, introduced at Gamescom in August 2014 with [[2015 - King's Quest|King's Quest (2015)]] (The Odd Gentlemen) and *Geometry Wars 3: Dimensions*;[^ref-34][^ref-35][^ref-52] *Shiftlings* followed.[^ref-36]
 - **2016** — In July 2016 MCV reported, citing development sources, that the Sierra label no longer existed with one title still in production; Activision denied the label had closed.[^ref-36]
 
 ## Era 7 — Microsoft Gaming (2023–present)
 
-On October 13, 2023, **Microsoft** completed its **USD 68.7 billion** acquisition of Activision Blizzard, bringing Sierra's IP catalog under Microsoft Gaming.[^ref-37][^ref-38] At time of writing Microsoft has not announced specific plans for the dormant Sierra adventure-game IPs, though [[2024 - Homeworld 3|Homeworld 3]] (developed by [[Blackbird Interactive]], published by Gearbox) and the *Tribes 3: Rivals* (developed by Prophecy Games using Dynamix-derived IP) reached release independently of Microsoft.
+On October 13, 2023, **Microsoft** completed its **USD 68.7 billion** acquisition of Activision Blizzard, bringing Sierra's IP catalog under Microsoft Gaming.[^ref-31][^ref-37] At time of writing Microsoft has not announced plans for the dormant Sierra adventure-game IPs. [[2024 - Homeworld 3|Homeworld 3]] (developed by [[Blackbird Interactive]], published by Gearbox, May 13, 2024)[^ref-50] and *Tribes 3: Rivals* (Prophecy Games, 2024)[^ref-51] were released by other companies.
 
-The current state of major Sierra-lineage IPs (May 2026):
+The current state of major Sierra-lineage IPs (October 2026):
 
 | IP | Current rights holder | Status |
 |----|-----------------------|--------|
-| King's Quest | Microsoft (via Activision Blizzard) | Dormant since 2015 |
-| Space Quest | Microsoft (via Activision Blizzard) | Dormant; Two Guys spiritual sequel *SpaceVenture* released 2022 |
-| Quest for Glory | Microsoft (via Activision Blizzard) | Dormant; Coles' *Hero-U* spiritual successor released 2018 |
-| Police Quest | Microsoft (via Activision Blizzard) | Dormant since 2003 *SWAT: Urban Justice* cancellation |
-| Leisure Suit Larry | Assemble Entertainment (license from Activision Blizzard) | Active — multiple post-2018 releases |
-| Gabriel Knight | Pinkerton Road / Jane Jensen license | Active — *Five Hearts* short story released 2024 |
-| Laura Bow | Microsoft (via Activision Blizzard) | Dormant since 1992 |
+| King's Quest | Microsoft (via Activision Blizzard) | Last release: *King's Quest* (2015), published by Activision under the Sierra brand[^ref-52] |
+| Space Quest | Microsoft (via Activision Blizzard) | Dormant; the creators' spiritual successor *SpaceVenture* was fully released December 23, 2025[^ref-44] |
+| Quest for Glory | Microsoft (via Activision Blizzard) | Dormant; the Coles' *Hero-U: Rogue to Redemption* released July 10, 2018[^ref-45] |
+| Police Quest | Microsoft (via Activision Blizzard) | Dormant; *SWAT: Urban Justice* discontinued in 2004 in favour of *SWAT 4* (2005)[^ref-46][^ref-47] |
+| Leisure Suit Larry | Codemasters bought the IP in February 2009[^ref-1] | Assemble Entertainment published *Wet Dreams Don't Dry* (2018) and *Wet Dreams Dry Twice* (2020)[^ref-43] |
+| Gabriel Knight | Microsoft (Jane Jensen, 2024: "the licenses are with Microsoft")[^ref-42] | Dormant; Jensen's *Five Hearts* short story released November 2024[^ref-55] |
+| Laura Bow | Microsoft (via Activision Blizzard) | Dormant since *The Dagger of Amon Ra* (1992)[^ref-48] |
 | Phantasmagoria | Microsoft (via Activision Blizzard) | Dormant |
-| Homeworld | Gearbox / Embracer | Active — *Homeworld 3* 2024 |
-| Caesar / Pharaoh / Zeus | Microsoft (via Activision Blizzard) | *Pharaoh: A New Era* remake released 2023 (licensed) |
-| Half-Life | Valve | Active — owned by Valve since launch |
+| Homeworld | Take-Two (bought Gearbox from Embracer; closed June 2024)[^ref-54] | *Homeworld 3* released May 13, 2024[^ref-50] |
+| Caesar / Pharaoh / Zeus | Microsoft (via Activision Blizzard) | Dotemu licensed *Pharaoh* from Activision for *Pharaoh: A New Era* (2023)[^ref-49] |
+| Half-Life | Valve | Valve developed it; Sierra Studios published the original[^ref-53] |
 
 ## Cross-references
 
 - **Studio profiles** with their own acquisition timelines: [[Dynamix]], [[Coktel Vision]], [[Impressions Games]], [[Papyrus Design Group]], [[Bright Star Technology]], [[Synergistic Software]], [[Yosemite Entertainment]], [[Relic Entertainment]], [[Blackbird Interactive]]
-- **Designer departures during Era 3 transitions**: [[Ken Williams]], [[Roberta Williams]], [[Al Lowe]], [[Jane Jensen]], [[Mark Crowe]], [[Scott Murphy]]
-- **Sierra-lineage YAML values** are defined in `../docs/STYLE_GUIDE.md` (STYLE_GUIDE.md) and `../docs/INCLUSION_CRITERIA.md` (INCLUSION_CRITERIA.md)
+- **Designer departures** in the CUC and Havas years (see each page for dates): [[Ken Williams]], [[Roberta Williams]], [[Al Lowe]], [[Jane Jensen]], [[Mark Crowe]], [[Scott Murphy]]
+- **Further reading:** Ken Williams' memoir *Not All Fairy Tales Have Happy Endings: The rise and fall of Sierra On-Line* (Lulu.com, 2020)[^ref-2]
+- **Sierra-lineage YAML values** are defined in the repository's `docs/STYLE_GUIDE.md` and `docs/INCLUSION_CRITERIA.md`
 
 ## References
 
-[^ref-1]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — Comprehensive corporate-history overview, all eras
-[^ref-2]: Ken Williams, *Not All Fairy Tales Have Happy Endings* (Coarsegold Press, 2020) — Founding-era memoir, dates and motivation for founding On-Line Systems
-[^ref-3]: [The Digital Antiquarian — On-Line Systems is Born](https://www.filfre.net/2011/10/on-line-systems-is-born/) — Jimmy Maher long-form history of the early years
-[^ref-4]: [IEEE Spectrum — Roberta Williams](https://spectrum.ieee.org/meet-roberta-williams-the-queen-of-graphic-adventure-video-games) — Founding chronology, Oakhurst move
-[^ref-5]: [Wikipedia — Sierra On-Line](https://en.wikipedia.org/wiki/Sierra_On-Line) — Pre-1982 release history
-[^ref-6]: [MobyGames — On-Line Systems credits](https://www.mobygames.com/company/3/sierra-entertainment-inc/) — Game catalog by year
-[^ref-7]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — 1982 rename to Sierra On-Line, name taken from the Sierra Nevada
-[^ref-8]: [The Digital Antiquarian — Splendid Isolation: Sierra at Mid-Decade](https://www.filfre.net/2015/08/splendid-isolation-sierra-at-mid-decade/) — 1984 layoffs, 120 employees cut to 40
-[^ref-9]: [Smithsonian Magazine — Roberta Williams](https://www.smithsonianmag.com/smart-news/1980s-roberta-williams-brought-graphic-adventure-games-home-180962160/) — IBM PCjr commission for King's Quest
-[^ref-10]: [Wikipedia — Dynamix](https://en.wikipedia.org/wiki/Dynamix) — 1990 acquisition details
-[^ref-11]: [Wikipedia — Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) — 1992 acquisition
-[^ref-12]: [Wikipedia — Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) — 1993 acquisition by Sierra
-[^ref-13]: [Wikipedia — Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) — 1995 acquisition
-[^ref-14]: [Wikipedia — Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — 1995 acquisition timeline
-[^ref-15]: [MobyGames — Synergistic Software](https://www.mobygames.com/company/498/synergistic-software-inc/) — Acquisition history
-[^ref-16]: [SEC EDGAR — Sierra On-Line filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=sierra+on-line) — IPO filings and ticker history
-[^ref-17]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — Revenues of about $158 million at the time of the CUC offer; deal closed July 24, 1996
-[^ref-18]: [NY Times — CUC to Buy Sierra On-Line](https://www.nytimes.com/1996/07/24/business/cuc-international-to-buy-sierra-online.html) — Acquisition announcement
-[^ref-19]: [SEC EDGAR — CUC International Form 8-K, February 1996](https://www.sec.gov/Archives/edgar/data/0000723612/000090951896000040/0000909518-96-000040.txt) — CUC press release of February 20, 1996: Sierra deal valued at approximately $1.06 billion
-[^ref-20]: [Wikipedia — CUC International](https://en.wikipedia.org/wiki/CUC_International) — CUC's consumer-software rollup strategy
-[^ref-21]: [Adventure Classic Gaming — Roberta Williams Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/127/) — Departure timeline
-[^ref-22]: [The Digital Antiquarian — Sierra under CUC](https://www.filfre.net/?s=Sierra+CUC) — Creative-control conflicts
-[^ref-23]: [SEC — Cendant Accounting Scandal](https://www.sec.gov/news/headlines/cendant-fraud.htm) — Restatements, fines, executive liability
-[^ref-24]: [NY Times — Cendant Software Sale](https://www.nytimes.com/1998/06/02/business/cendant-to-sell-software-unit.html) — Havas acquisition announcement
-[^ref-25]: [Wikipedia — Havas Interactive](https://en.wikipedia.org/wiki/Havas_Interactive) — Subsidiary structure and brands
-[^ref-26]: [GameSpot — Sierra Oakhurst Closure](https://www.gamespot.com/articles/sierra-closes-oakhurst-studio/1100-2461842/) — 1999 studio closure
-[^ref-27]: [Wikipedia — Vivendi Games](https://en.wikipedia.org/wiki/Vivendi_Games) — VUG history and structure
-[^ref-28]: [MobyGames — Sierra Entertainment label](https://www.mobygames.com/company/3/sierra-entertainment-inc/) — VUG-era publishing imprint
-[^ref-29]: [Activision Blog — Sierra Returns with Geometry Wars 3: Dimensions, King's Quest, and More](https://blog.activision.com/more-games/archives/sierra-returns-with-geometry-wars-3-dimensions-kings-quest-and-more) — 2014 imprint announcement
-[^ref-30]: [GameSpot — Sierra Online Imprint](https://www.gamespot.com/articles/vug-launches-sierra-online/1100-6151844/) — 2006 digital imprint
-[^ref-31]: [Wikipedia — Activision Blizzard](https://en.wikipedia.org/wiki/Activision_Blizzard) — 2008 merger valuation
-[^ref-32]: [Bloomberg — Vivendi-Activision Merger](https://www.bloomberg.com/news/articles/2008-07-09/activision-vivendi-merger) — IP transfer details
-[^ref-33]: [Wikipedia — Homeworld (series)](https://en.wikipedia.org/wiki/Homeworld_(series)) — Gearbox acquired the IP for $1.35 million in the THQ bankruptcy sale
-[^ref-34]: [Game Developer (formerly Gamasutra) — Sierra returns as Activision's new indie label](https://www.gamedeveloper.com/business/sierra-returns-as-activision-s-new-indie-label) — Activision revival announcement, August 12, 2014
-[^ref-35]: [Activision Blog — Sierra Returns with Geometry Wars 3: Dimensions, King's Quest, and More](https://blog.activision.com/more-games/archives/sierra-returns-with-geometry-wars-3-dimensions-kings-quest-and-more) — Initial revival titles, introduced at Gamescom 2014
-[^ref-36]: [MCV/DEVELOP — Activision denies Sierra closure](https://www.mcvuk.com/business-news/publishing/activision-denies-sierra-closure/) — July 2016 report on the label's status; lists King's Quest, Geometry Wars 3, Shiftlings
+[^ref-1]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — Founding 1979 in Simi Valley; Sierra Nevada name; InfoWorld "12th-largest"; Ken Williams left CUC in November 1997; Berkeley Systems April 1997; Sierra Online founded late 2005; Codemasters bought the LSL IP February 2009
+[^ref-2]: [Open Library — *Not All Fairy Tales Have Happy Endings*](https://openlibrary.org/isbn/9781716727368) — Ken Williams; publisher "Lulu.com", publish date "Jul 24, 2020"
+[^ref-3]: [The Digital Antiquarian — On-Line Systems is Born](https://www.filfre.net/2011/10/on-line-systems-is-born/) — "He had already registered a company called On-Line Systems when he started planning that FORTRAN compiler"; Simi Valley; Coarsegold
+[^ref-6]: [MobyGames — Sierra Entertainment, Inc. (Moby ID 17)](https://www.mobygames.com/company/17/sierra-entertainment-inc/) — AKA "Sierra On-Line, Inc. (from 1982 to 2001-12)"; Wizard and the Princess "sold more than sixty thousand copies"; name from the Sierra Nevada foothills
+[^ref-8]: [The Digital Antiquarian — Splendid Isolation: Sierra at Mid-Decade](https://www.filfre.net/2015/08/splendid-isolation-sierra-at-mid-decade/) — April 1984 "from a company of 120 employees to one of 40"; IBM funded AGI and King's Quest for the PCjr
+[^ref-10]: [Wikipedia — Dynamix](https://en.wikipedia.org/wiki/Dynamix) — Eugene, Oregon; parent Sierra On-Line (1990–2001)
+[^ref-11]: [Wikipedia — Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) — "acquired by Sierra On-Line in 1992"
+[^ref-12]: [Wikipedia — Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) — acquired by Sierra On-Line; "the deal was finalised on 29 October 1993"
+[^ref-13]: [Wikipedia — Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) — British developer founded by David Lester; "He sold the company to Sierra On-Line in 1995"
+[^ref-14]: [Wikipedia — Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — "acquired by Sierra On-Line in late 1995"; Watertown, Massachusetts
+[^ref-15]: [MobyGames — Northwest Synergistic Software (Moby ID 628)](https://www.mobygames.com/company/628/northwest-synergistic-software/) — founded 1978 in Seattle; "acquired by Sierra in 1996"; credits include Conan: The Cimmerian
+[^ref-16]: [Sierra On-Line Form 10-K for fiscal 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — Coktel acquired October 29, 1993; Inspiration merged June 20, 1995; Papyrus November 30, 1995; revenues $158,177K; "Nasdaq National Market under the Symbol SIER"
+[^ref-18]: [SEC EDGAR — CUC International Form 8-K (event date July 24, 1996)](https://www.sec.gov/Archives/edgar/data/723612/0000909518-96-000251.txt) — "On July 24, 1996, pursuant to an Agreement and Plan of Merger dated as of February 19, 1996… the Registrant consummated a merger" with Sierra On-Line
+[^ref-19]: [SEC EDGAR — CUC International Form 8-K, February 1996 (Wayback copy)](https://web.archive.org/web/20170223223135/https://www.sec.gov/Archives/edgar/data/723612/0000909518-96-000040.txt) — CUC press release of February 20, 1996: Sierra deal "valued at approximately $1.06 billion", based on the $37.50 close on February 16, 1996
+[^ref-20]: [Wikipedia — CUC International](https://en.wikipedia.org/wiki/CUC_International) — Subsidiaries Sierra On-Line, Davidson & Associates (Blizzard), Knowledge Adventure, Berkeley Systems; December 1997 merger with HFS; April 16, 1998 disclosure of "over US$500 million" overstatement
+[^ref-21]: [HistoryLink — Williams, Roberta Lynn (b. 1953)](https://www.historylink.org/File/20912) — Coarsegold October 1980; Oakhurst office December 1, 1980; "one of the largest independent publishers" by 1983; "Williams retired from Sierra in 1999"
+[^ref-24]: [CNNfn — Cendant sells software unit for $1 billion (November 20, 1998; Wayback)](https://web.archive.org/web/2016/http://money.cnn.com/1998/11/20/worldbiz/cendant/) — "The initial deal price is $800 million but a contingency could add $200 million"; "Havas and its parent Vivendi"
+[^ref-26]: [The Digital Antiquarian — The End of Sierra as We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) — February 22, 1999; Yosemite Entertainment; "the lucky third of the Oakhurst employees… offered the opportunity to relocate to the Bellevue office"
+[^ref-27]: [Wikipedia — Vivendi Games](https://en.wikipedia.org/wiki/Vivendi_Games) — Formerly Havas Interactive (1998–2001), Vivendi Universal Interactive Publishing (2001), Vivendi Universal Games (2001–2006)
+[^ref-31]: [Wikipedia — Activision Blizzard](https://en.wikipedia.org/wiki/Activision_Blizzard) — 2008 deal "US$18.9 billion"; Microsoft's $68.7 billion acquisition completed October 13, 2023
+[^ref-32]: [Activision Blizzard — Vivendi and Activision Complete Transaction to Create Activision Blizzard (July 2008; Wayback)](https://web.archive.org/web/20190402162732/https://investor.activision.com/news-releases/news-release-details/vivendi-and-activision-complete-transaction-create-activision) — approved July 8, closed July 9, 2008; Activision Publishing "includes the Sierra Entertainment, Sierra Online and Vivendi Games Mobile divisions"
+[^ref-33]: [Wikipedia — Homeworld](https://en.wikipedia.org/wiki/Homeworld) — Published by Sierra Studios September 28, 1999; THQ 2007 rights; April 22, 2013 Gearbox auction purchase for US$1.35 million
+[^ref-34]: [Game Developer (formerly Gamasutra) — Sierra returns as Activision's new indie label](https://www.gamedeveloper.com/business/sierra-returns-as-activision-s-new-indie-label) — Kris Graft, August 12, 2014
+[^ref-35]: [Activision Blog — Sierra Returns with Geometry Wars 3: Dimensions, King's Quest, and More](https://blog.activision.com/more-games/archives/sierra-returns-with-geometry-wars-3-dimensions-kings-quest-and-more) — August 12, 2014; "Introduced this week at Gamescom"
+[^ref-36]: [MCV/DEVELOP — Activision denies Sierra closure](https://www.mcvuk.com/business-news/publishing/activision-denies-sierra-closure/) — July 8, 2016; label "responsible for King's Quest, Geometry Wars 3: Dimensions Evolved, Shiftlings and Velocity 2K"
 [^ref-37]: [Xbox Wire — Welcoming the Legendary Teams at Activision Blizzard King to Team Xbox](https://news.xbox.com/en-us/2023/10/13/xbox-activision-blizzard/) — Phil Spencer, October 13, 2023 closing announcement
-[^ref-38]: [Reuters — Microsoft Buys Activision Blizzard](https://www.reuters.com/technology/microsoft-completes-69-bln-activision-deal-2023-10-13/) — Final deal value, regulatory close
+[^ref-39]: [Sierra News Magazine, Vol. 3 No. 2 (Summer 1990) — Internet Archive](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_2_Summer_1990/page/n11/) — p.12 (checked against page image): "In October of 1988… Sierra did finally go public, at $9.00 a share… NASDAQ… 'Sier'"; p.43 (page image): "On March 27, 1990, Sierra announced intent to acquire… Dynamix"; Ken Williams: "We bought an Apple 2"; timeline: May 1980 Mystery House, 1983 move from Coarsegold to Oakhurst
+[^ref-40]: [Wikipedia — Synergistic Software](https://en.wikipedia.org/wiki/Synergistic_Software) — Seattle; "acquired by Sierra On-Line in 1996"; World Builders engine games War in Middle Earth (1988), Conan: The Cimmerian (1991)
+[^ref-41]: [The Seattle Times — Sierra's Game Plan (January 22, 1996)](https://archive.seattletimes.com/archive/19960122/2310224/sierras-game-plan----software-firm-hopes-acquisition-strategy-makes-it-a-winner-in-its-niche) — the company "moved from California to Bellevue two years ago this month"
+[^ref-54]: [Engadget — Take-Two is buying Gearbox from Embracer for $460 million](https://www.engadget.com/take-two-is-buying-gearbox-from-embracer-for-460-million-145711528.html) — March 28, 2024; Take-Two "will fully own the… Homeworld" franchise; update: divestment closed June 12, 2024
+[^ref-42]: [Time Extension — Jane Jensen Has Written A Story For Gabriel Knight 4 (July 2024)](https://www.timeextension.com/news/2024/07/i-had-this-dream-with-the-complete-plot-jane-jensen-has-written-a-story-for-gabriel-knight-4) — Jensen: "Now that the licenses are with Microsoft, I think there's at least a chance of that"
+[^ref-43]: [Wikipedia — Leisure Suit Larry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) — Codemasters published Box Office Bust (2009); "Assemble Entertainment released two Leisure Suit Larry games", Wet Dreams Don't Dry (2018), Wet Dreams Dry Twice (2020)
+[^ref-44]: [Steam — SpaceVenture](https://store.steampowered.com/app/1374960/SpaceVenture/) — Guys from Andromeda; "Release Date: Dec 23, 2025"; "Created by the minds behind the beloved Space Quest series"
+[^ref-45]: [Wikipedia — Hero-U: Rogue to Redemption](https://en.wikipedia.org/wiki/Hero-U:_Rogue_to_Redemption) — Transolar Games; Lori Ann and Corey Cole; released July 10, 2018
+[^ref-46]: [GameSpot — SWAT 4 replacing SWAT: Urban Justice (April 2004)](https://www.gamespot.com/articles/swat-4-replacing-swat-urban-justice/1100-6094719/) — work on Urban Justice "discontinued" in favor of SWAT 4
+[^ref-47]: [Wikipedia — SWAT 4](https://en.wikipedia.org/wiki/SWAT_4) — 2005; developer Irrational Games; publisher Sierra Entertainment
+[^ref-48]: [Wikipedia — The Dagger of Amon Ra](https://en.wikipedia.org/wiki/The_Dagger_of_Amon_Ra) — 1992 (floppy), 1993 (CD-ROM); Sierra On-Line
+[^ref-49]: [Wikipedia — Pharaoh: A New Era](https://en.wikipedia.org/wiki/Pharaoh:_A_New_Era) — Triskell Interactive / Dotemu; "Dotemu licensed it from Activision"; released February 15, 2023
+[^ref-50]: [Wikipedia — Homeworld 3](https://en.wikipedia.org/wiki/Homeworld_3) — developed by Blackbird Interactive, published by Gearbox; released May 13, 2024
+[^ref-51]: [Wikipedia — Tribes 3: Rivals](https://en.wikipedia.org/wiki/Tribes_3:_Rivals) — developer and publisher Prophecy Games; 2024
+[^ref-52]: [Wikipedia — King's Quest (2015 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)) — developed by The Odd Gentlemen, "published by Activision under the Sierra Entertainment brand name"
+[^ref-53]: [Wikipedia — Half-Life (video game)](https://en.wikipedia.org/wiki/Half-Life_(video_game)) — developer Valve; publisher Sierra Studios; released November 19, 1998
+[^ref-55]: [Adventure Game Hotspot — Jane Jensen releases Gabriel Knight short story Five Hearts (November 19, 2024)](https://adventuregamehotspot.com/announcement/3108/jane-jensen-releases-gabriel-knight-short-story-five-hearts) — "First chapter of original new story available to download from Robert Holmes' website"
+[^ref-56]: [Wikipedia — Leisure Suit Larry: Magna Cum Laude](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) — 2004; "published by Vivendi Universal Games and their subsidiary Sierra Entertainment"
