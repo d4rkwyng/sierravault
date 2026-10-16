@@ -6,77 +6,67 @@ defunct: 2008
 headquarters: "Oakhurst, California"
 notable_games: ["King's Quest", "Space Quest", "Leisure Suit Larry"]
 parent_company: "Activision"
-last_updated: "2026-05-08"
+last_updated: "2026-10-16"
 ---
 # Sierra On-Line
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
-Sierra On-Line, founded in 1979 by Ken and Roberta Williams, emerged as one of the most influential video game developers and publishers of the 1980s and 1990s, fundamentally shaping the adventure game genre and pioneering graphical storytelling in interactive entertainment.[^ref-1] Operating from their headquarters in Oakhurst, California, Sierra became synonymous with quality adventure games, technological innovation, and memorable characters that defined a generation of PC gaming.[^ref-2] The company's commitment to pushing technical boundaries while crafting engaging narratives established them as a cornerstone of the gaming industry, with their AGI and SCI game engines becoming the foundation for dozens of beloved titles.[^ref-3]
+Sierra On-Line was founded in 1979 by Ken and Roberta Williams as On-Line Systems. It is known for pioneering the graphic adventure genre, starting with Mystery House (1980), the first such game.[^ref-9][^ref-7] Its adventure series included King's Quest, Space Quest, Police Quest, Gabriel Knight, Leisure Suit Larry and Quest for Glory, and it was the original publisher of Valve's Half-Life.[^ref-9] Ken Williams, a former compiler programmer, said his background led him "to look at building a game from the perspective of building tools for game creation, including an engine". Sierra's adventures ran on its own interpreters: AGI from King's Quest (1984) and SCI from 1988.[^ref-1][^ref-9]
 
-From humble beginnings creating games for the Apple II, Sierra grew into a gaming empire that would eventually employ hundreds of developers and publish titles across multiple genres.[^ref-4] The Williams' vision extended beyond simple entertainment, as they sought to create interactive experiences that combined compelling storytelling with cutting-edge graphics and sound technology.[^ref-5] Their influence on the industry was so profound that many modern adventure game developers still cite Sierra's games as primary inspirations, and the company's approach to game design and marketing became a template for the entire industry.[^ref-6]
+Sierra was independent for seventeen years. CUC International bought it in 1996, and it then passed through Cendant, Havas and Vivendi. In 2008, after Vivendi Games merged with Activision, Sierra was shut down. Activision revived the name as a publishing label in 2014.[^ref-9][^ref-41][^ref-10]
 
 ## History
 
 ### Founding and Early Years
 
-Ken Williams, a programmer with experience in mainframe computers, and his wife Roberta Williams, who had become fascinated with text adventures, founded Sierra On-Line in 1979 after being inspired by the original Colossal Cave Adventure.[^ref-7] The company's first major breakthrough came with Mystery House in 1980, which Roberta designed as the first adventure game to feature graphics alongside text, revolutionizing the genre forever.[^ref-8] Ken handled the programming and business aspects while Roberta focused on game design and storytelling, establishing a partnership that would drive Sierra's creative output for decades.[^ref-9]
+Ken Williams, a Los Angeles programmer, and his wife Roberta founded the company as On-Line Systems in 1979, in Simi Valley, California.[^ref-9] Ken had come across text adventures on a remote mainframe. Roberta was soon "hooked on an early text-only, interactive game called Colossal Cave" and wanted to add graphics to the form.[^ref-7] She wrote Mystery House, and Ken wrote the code. Released by mail order in May 1980, it was the first computer adventure game to have graphics.[^ref-7][^ref-9] Roberta "stuffed disks into ziplock bags along with an instruction sheet run off at a copy shop."[^ref-15] Sales counts differ. Gale's company history gives more than 3,000 copies in the first six months, and Wikipedia gives about 15,000 copies in all.[^ref-7][^ref-9]
 
-The early 1980s saw Sierra establishing themselves in the rapidly growing home computer market, initially focusing on the Apple II platform before expanding to other systems.[^ref-10] Games like Wizard and the Princess (1980) and Time Zone (1982) demonstrated Sierra's commitment to pushing the boundaries of what was possible in home computer gaming, with Time Zone becoming one of the largest computer games ever created at the time, spanning six double-sided floppy disks.[^ref-11] The company's early success was built on direct sales and mail-order distribution, allowing them to maintain higher profit margins and closer relationships with their customers.[^ref-12]
+More Hi-Res Adventures followed. The Wizard and the Princess sold more than 60,000 copies and offered color graphics.[^ref-7] Time Zone (1982) shipped on six double-sided floppy disks.[^ref-46] The company was renamed Sierra On-Line and moved to Oakhurst, California, near the Sierra Nevada. Wikipedia dates the move to 1982; Gale dates it to 1980.[^ref-9][^ref-7] The Williamses bought a home in Oakhurst with the Mystery House profits.[^ref-15] In 1983, at investors' urging, Sierra began making cartridges for early Atari game machines. Gale calls the result a "disaster" that forced Sierra to cut its staff from 120 to 30.[^ref-7]
 
 ### The Golden Age of Adventure Games
 
-Sierra's transformation into a major industry player began in 1984 with the release of King's Quest: Quest for the Crown, which marked several important firsts for the company and the industry.[^ref-13] Developed in partnership with IBM to showcase their new PCjr computer, King's Quest introduced Sierra's Adventure Game Interpreter (AGI) engine and featured unprecedented 16-color graphics with a walking character that players could control directly.[^ref-14] As Ken Williams later reflected, "We were trying to create something that had never been done before - a game that was like an animated movie that you could control."[^ref-15]
+In 1983, IBM asked Sierra to make a game for its new PCjr and offered to fund development and marketing. For that game Sierra built the Adventure Game Interpreter (AGI), and King's Quest: Quest for the Crown came out in mid-1984.[^ref-9] Roberta Williams designed every King's Quest game until the series' 2015 reboot.[^ref-45]
 
-The success of King's Quest led to an explosion of creativity at Sierra throughout the 1980s and early 1990s, with the company launching multiple successful franchises that would define their legacy.[^ref-16] Space Quest, created by the "Two Guys from Andromeda" Mark Crowe and Scott Murphy, brought science fiction comedy to adventure gaming with its irreverent humor and memorable protagonist Roger Wilco.[^ref-17] Police Quest, designed by former police officer Jim Walls, offered players a realistic look at law enforcement procedures wrapped in engaging adventure gameplay.[^ref-18]
+While finishing The Black Cauldron, programmers Mark Crowe and Scott Murphy pitched an adventure of their own. Space Quest: The Sarien Encounter followed in October 1986.[^ref-9] The pair called themselves the "Two Guys from Andromeda", and their six Space Quest games (1986–1995) follow the janitor Roger Wilco.[^ref-44] Former police officer Jim Walls designed the first three Police Quest games.[^ref-49][^ref-3]
 
-Perhaps no Sierra series generated more controversy and discussion than Leisure Suit Larry, created by Al Lowe and based on an earlier text adventure called Softporn Adventure.[^ref-19] Despite its adult themes, the series became one of Sierra's best-sellers and demonstrated the company's willingness to explore mature content while maintaining their reputation for quality game design.[^ref-1] The Quest for Glory series, originally titled Hero's Quest until a trademark dispute forced a name change, successfully blended adventure and role-playing game elements in a way that had never been accomplished before.[^ref-2]
+Ken Williams asked Al Lowe to write a modern version of Chuck Benton's 1981 Softporn Adventure. The result, Leisure Suit Larry in the Land of the Lounge Lizards, won the Software Publishers Association's Best Adventure Game award for 1987.[^ref-9][^ref-47] By 1995 the Larry series had sold more than one million copies.[^ref-7] Corey and Lori Ann Cole created Quest for Glory, an adventure/role-playing hybrid first released in 1989. The series was first called Hero's Quest, but Sierra had not trademarked the name, and Milton Bradley's trademark on an electronic version of its unrelated HeroQuest board game forced a change.[^ref-48][^ref-9]
 
 ### Technological Innovation and Expansion
 
-Sierra's commitment to technological advancement led to the development of their Sierra Creative Interpreter (SCI) engine in 1988, which powered classics like King's Quest IV: The Perils of Rosella and marked a significant leap forward in graphics, sound, and user interface design.[^ref-3] The SCI engine supported higher resolution graphics, improved animation, and better sound capabilities, allowing Sierra's designers to create more immersive and visually appealing experiences.[^ref-5] This technological edge helped Sierra maintain their position as industry leaders even as competition intensified throughout the late 1980s and early 1990s.[^ref-6]
+In 1988 the Sierra Creative Interpreter (SCI) replaced AGI, starting with King's Quest IV. That game was released under both engines.[^ref-9] According to Gale, Sierra developed SCI "to allow artists and musicians to contribute without being mired in programming details."[^ref-7] Sierra went public in 1989.[^ref-9][^ref-7] King's Quest V (1990) was the first Sierra game to sell more than 500,000 copies.[^ref-9]
 
-The company's expansion during this period was remarkable, growing from a small family business to a major corporation with multiple development teams working simultaneously on different projects.[^ref-7] Sierra's acquisition of Dynamix in 1990 brought additional talent and expertise in flight simulation and action games, diversifying their portfolio beyond adventure games.[^ref-8] The purchase of other smaller studios and the establishment of multiple internal development teams allowed Sierra to release an unprecedented number of high-quality games each year throughout the early 1990s.[^ref-10]
+Sierra grew by acquisition. In 1990 it bought Dynamix of Eugene, Oregon, a flight-simulation specialist founded in 1984 by Jeff Tunnell and Damon Slye. In 1992 it added the educational developer Bright Star Technology.[^ref-7] In 1993 it moved its headquarters to the Seattle area, because Ken Williams found it hard to convince senior executives to move to rural Oakhurst. The same year it bought the Paris-based Coktel Vision.[^ref-7] In 1995 it bought Impressions Software, Papyrus Design Group and SubLogic, along with several home-productivity developers.[^ref-7]
 
 ### Multimedia and the CD-ROM Era
 
-The early 1990s saw Sierra embracing the CD-ROM revolution with ambitious multimedia productions that pushed the boundaries of what computer games could achieve.[^ref-11] King's Quest VI: Heir Today, Gone Tomorrow (1992) featured extensive voice acting and represented the pinnacle of traditional Sierra adventure game design.[^ref-12] However, it was Phantasmagoria (1995) that truly demonstrated Sierra's commitment to the multimedia future, featuring live-action video sequences, a massive budget, and mature themes that generated significant controversy.[^ref-13]
-
-Roberta Williams' vision for Phantasmagoria was to create an interactive horror movie that would appeal to adult audiences and showcase the potential of CD-ROM technology.[^ref-14] The game's development cost exceeded $4 million and required a team of over 200 people, making it one of the most expensive computer games ever produced at the time.[^ref-15] While controversial, Phantasmagoria was also commercially successful, demonstrating that there was indeed a market for mature, cinematic computer games.[^ref-16]
+Gale says CD-ROM titles made up 36 percent of Sierra's game sales in 1994 and 65 percent in 1995.[^ref-7] Roberta Williams designed Phantasmagoria (1995), a live-action horror adventure released on seven CD-ROMs.[^ref-7][^ref-42] Wikipedia says more than 200 people worked on it. It was budgeted at $800,000 but cost $4.5 million.[^ref-42] CompUSA declined to stock it.[^ref-42][^ref-7] Even so, it sold more than one million copies, Sierra's first game to reach that mark.[^ref-42]
 
 ### Corporate Changes and Decline
 
-Sierra's acquisition by CUC International in 1996 marked the beginning of a difficult period for the company, as corporate pressure for profits began to conflict with the creative freedom that had made Sierra successful.[^ref-17] The merger that created Havas Interactive, and subsequent changes in ownership and management philosophy, led to a gradual shift away from the adventure games that had built Sierra's reputation.[^ref-18] Many longtime Sierra designers and programmers left the company during this period, taking with them decades of institutional knowledge and creative vision.[^ref-19]
-
-The late 1990s saw Sierra attempting to adapt to changing market conditions by developing more action-oriented games and pursuing licensing deals with major entertainment properties.[^ref-1] However, these efforts often lacked the creative spark and attention to detail that had characterized Sierra's earlier releases.[^ref-2]
+In February 1996 Sierra agreed to be acquired by CUC International in a stock swap valued at about $1.06 billion.[^ref-7][^ref-40] The acquisition closed on July 24, 1996.[^ref-9] Ken Williams stayed on to guide Sierra's strategic direction until November 1997.[^ref-43] In December 1997 CUC merged with HFS to form Cendant. On April 15, 1998, Cendant announced that it had found accounting irregularities in former CUC business units.[^ref-9][^ref-41] Cendant then sold its software division, Sierra included, to Havas, a Vivendi subsidiary. The sale was announced on November 20, 1998, and completed on January 12, 1999. The division became Havas Interactive.[^ref-39][^ref-41][^ref-7] Roberta Williams stayed with Sierra until King's Quest: Mask of Eternity was released in December 1998.[^ref-9]
 
 ### Chainsaw Monday
 
-On February 22, 1999, Sierra's remaining Oakhurst employees arrived at work to find Pinkerton Security vans parked outside the building.[^ref-39] An all-hands meeting was scheduled at the movie theater next door—the same venue where mass layoffs had been announced in 1994—but few suspected what was coming.[^ref-39] Without warning, employees were told that the Oakhurst office was closing permanently. Each person received an envelope indicating whether they had lost their job entirely or were being offered relocation to Bellevue, Washington.[^ref-39]
+On Monday, February 22, 1999, Oakhurst staff arrived to find notices on the doors announcing a 10:00 all-hands meeting. They could not get into their email, and Pinkerton Security personnel were on the property.[^ref-39] In the building's central common room, they were told that the Oakhurst office was closing.[^ref-39] Management read out the names of the third of Oakhurst employees who would be offered relocation to Bellevue. Meanwhile Pinkerton staff changed the building's security codes. Those laid off had until noon to clear their desks.[^ref-39] Former employee Eric Lengyel, whose corrections the Digital Antiquarian added after the article was first published, recalled: "There were no envelopes handed out. A list of names was read aloud at the front of the room."[^ref-39]
 
-The layoffs, later dubbed "Chainsaw Monday" by Space Quest designer Scott Murphy, eliminated nearly 100 positions—almost two-thirds of Sierra's remaining Oakhurst workforce.[^ref-39] Three major projects were affected: a *Babylon 5* space simulator, a Middle-earth MMORPG based on Tolkien's works, and a Navy SEAL shooter developed with a former SEAL commander. The SEAL game was cancelled outright; the other two were moved to Bellevue, only to be cancelled six months later in another round of cuts.[^ref-39]
+Scott Murphy, a Space Quest designer, coined the name "Chainsaw Monday".[^ref-39] Wikipedia puts the total job losses across Sierra at about 250.[^ref-9] Oakhurst had three major projects in development: a *Babylon 5* space simulator, a Middle-earth MMORPG, and an Unreal-engine shooter made with a former Navy SEAL commander. The first two moved to Bellevue and the shooter was cancelled. The two survivors were cancelled six months later.[^ref-39] The Digital Antiquarian sums up the outcome: "The emerging new business model for Sierra was that of a publisher and distributor of games only, not an active developer of them."[^ref-39]
 
-While the meeting took place, Pinkerton guards changed the building's security codes. Employees were then led inside in small groups under armed guard, given only minutes to collect personal belongings from their desks.[^ref-39] The event symbolized the corporate culture clash that had been undermining Sierra's creative foundation since the CUC acquisition, and marked the definitive end of game development in Oakhurst.
+### Final Years
 
-### Final Years and Legacy
+Sierra kept publishing other studios' games, including Relic Entertainment's Homeworld in September 1999.[^ref-9] Havas became Vivendi Universal Publishing after the 2000 Vivendi–Seagram merger. Gale dates the rename to early 2001.[^ref-9][^ref-7] In August 2001 Sierra closed Dynamix and laid off 148 people at its Bellevue headquarters. On February 19, 2002, Sierra On-Line announced its name change to Sierra Entertainment.[^ref-9] In early 2004 Vivendi shut Impressions and Papyrus, and by June 2004 it had closed the Bellevue office. In August 2004 Sierra was formally disestablished as a company and re-formed as a division.[^ref-9]
 
-Under Vivendi Universal ownership, Sierra continued to operate but with a dramatically different focus and corporate structure than the company Ken and Roberta Williams had built.[^ref-3] While some successful titles were still produced under the Sierra label, including the SWAT series and various strategy games, the company's identity as a premier adventure game developer had largely disappeared.[^ref-5] The closure of Sierra's Bellevue office in 2004 and the subsequent consolidation of operations marked the effective end of Sierra as an independent creative entity.[^ref-6]
+Vivendi Games merged with Activision to form Activision Blizzard on July 10, 2008. Sierra was shut down later that year.[^ref-9]
 
-The final chapter came in 2008 when Activision, following their merger with Vivendi, officially closed Sierra Entertainment, ending nearly three decades of operation.[^ref-7] However, the impact of Sierra's golden age continues to influence game developers and players worldwide, with many independent studios drawing inspiration from Sierra's design philosophy and storytelling techniques.[^ref-8]
+### Brand Revival
 
-### Brand Revival (2014-2017)
-
-In August 2014, Activision revived the Sierra brand as a publishing label for indie games.[^ref-10] The relaunched Sierra unveiled its first projects at GamesCom 2014: Geometry Wars 3: Dimensions (released November 2014) and a new episodic King's Quest game developed by The Odd Gentlemen.[^ref-10] The 2015 King's Quest reimagining received positive reception, winning several awards and introducing the classic franchise to a new generation of players.
-
-The revived Sierra label also published several other titles before quietly fading again, including the announcement of a new Space Quest project that was ultimately cancelled. While this revival operated more as a publishing imprint than a true continuation of the original company, it demonstrated the enduring commercial value of the Sierra name and its associated franchises.
-
-In recent years, there has been renewed interest in Sierra's legacy through remakes, spiritual successors, and documentary projects celebrating the company's contributions to gaming history.[^ref-10]
+On August 7, 2014, Sierra's website was updated with a new logo and a promise of more news at Gamescom 2014. Activision presented the revived Sierra as a label for re-releases, re-imagined franchises and indie games.[^ref-9][^ref-10] Its first two announced games were Geometry Wars 3: Dimensions and a new King's Quest.[^ref-9][^ref-10] The Odd Gentlemen developed King's Quest as an episodic "re-imagining" released from 2015 to 2016.[^ref-45]
 
 ## Corporate Names and Divisions
 
-Throughout its history, Sierra operated under several corporate names and established numerous internal divisions and subsidiaries. Understanding these entities helps clarify the attribution of games developed during different eras of the company's existence.
+Sierra operated under several corporate names and set up a number of internal divisions. These help explain how games from different eras are credited.[^ref-9]
 
 ### Corporate Name Evolution
 
@@ -88,7 +78,7 @@ Throughout its history, Sierra operated under several corporate names and establ
 
 ### Internal Divisions (1998)
 
-Following corporate restructuring under CUC International, Sierra divided into several specialized divisions in 1998:[^ref-9]
+In 1998, while Sierra was part of Cendant Software, Wikipedia lists a split into five sub-brands and divisions:[^ref-9]
 
 - **Sierra Studios** — General publishing division based at Sierra Northwest/Bellevue, including PyroTechnix and [[Impressions Games]]
 - **Sierra FX** — Adventure games and online multiplayer, based at the original Oakhurst headquarters (publicly known as Yosemite Entertainment)
@@ -96,45 +86,45 @@ Following corporate restructuring under CUC International, Sierra divided into s
 - **Sierra Attractions** — Casual games such as poker, composed of [[Berkeley Systems]]
 - **Sierra Home** — Home and lifestyle software (gardening, home design, cooking)
 
+Gale's company history describes four brands instead (Sierra Attractions, Sierra Home, Sierra Sports and Sierra Studios), formed after the Havas purchase.[^ref-7]
+
 ### Regional Studios
 
-- **Sierra Northwest** — Bellevue, Washington headquarters established in the mid-1990s
-- **Yosemite Entertainment** — The original Oakhurst, California location, operated as a named division from 1998 until closure in February 1999
+- **Sierra Northwest** — Bellevue, Washington. Sierra moved its headquarters to the Seattle area in 1993.[^ref-7]
+- **Yosemite Entertainment** — The original Oakhurst, California location, operated as a named division from 1998 until closure in February 1999[^ref-9]
 
-Games from this era may be credited to these various division names in historical records, though all were part of the Sierra corporate structure. This archive consolidates all Sierra-developed titles under the Sierra On-Line page regardless of the specific division credited at release.
+Games from this era may be credited to these division names in historical records. The Games list below links each title's own page. Titles developed by other studios and published by Sierra are marked with their developer.
 
 ## Notable Games
 
 ### King's Quest Series (1984-1998)
 
-The King's Quest series, primarily designed by Roberta Williams, stands as Sierra's most iconic and influential franchise, establishing many of the conventions that would define graphic adventure games for decades.[^ref-11] Beginning with King's Quest: Quest for the Crown in 1984, the series introduced players to the kingdom of Daventry and the royal family whose adventures would span eight main entries and numerous spin-offs.[^ref-12] The series was groundbreaking for its use of animated graphics, puzzle-solving gameplay, and fairy tale-inspired storytelling that appealed to players of all ages.[^ref-13]
+Roberta Williams designed the King's Quest games, which follow the royal family of the Kingdom of Daventry, from Quest for the Crown (1984) to Mask of Eternity (1998). The Odd Gentlemen's King's Quest (2015–2016) re-imagined the series.[^ref-45] Wikipedia credits the series as "primarily responsible for building the reputation of Sierra."[^ref-45]
 
 ### Space Quest Series (1986-1995)
 
-Created by Mark Crowe and Scott Murphy, the Space Quest series brought science fiction comedy to Sierra's adventure game lineup, following the misadventures of janitor-turned-hero Roger Wilco across the galaxy.[^ref-14] The series was beloved for its humorous writing, pop culture references, and creative puzzle design that often incorporated elements of parody and satire.[^ref-15] With six main entries, Space Quest demonstrated Sierra's ability to maintain long-running franchises while keeping the content fresh and entertaining.[^ref-16]
+Mark Crowe and Scott Murphy created Space Quest, six comic science-fiction adventures that follow the janitor Roger Wilco. The games parody science fiction such as *Star Wars* and *Star Trek*.[^ref-44]
 
 ### Phantasmagoria (1995)
 
-Roberta Williams' ambitious horror adventure Phantasmagoria represented Sierra's most significant attempt to create mature, cinematic gaming content using cutting-edge CD-ROM technology.[^ref-17] The game featured live-action video sequences, detailed pre-rendered backgrounds, and a complex narrative dealing with supernatural horror and psychological thriller elements.[^ref-18] Despite controversy over its violent and sexual content, Phantasmagoria was both a commercial success and a technological showcase that influenced the development of interactive entertainment.[^ref-19]
+Roberta Williams' live-action horror adventure was "by far the largest project ever undertaken by Sierra."[^ref-9] Retailers declined to stock it, and religious organizations and politicians condemned it. It still became Sierra's first game to sell more than a million copies.[^ref-42]
 
 ## Key People
 
-Ken Williams served as Sierra's president and technical visionary, developing the company's game engines and guiding its technological advancement throughout the 1980s and 1990s.[^ref-1] His business acumen and programming expertise were instrumental in transforming Sierra from a small startup into one of the gaming industry's most successful companies.[^ref-2] Roberta Williams, often called the "Queen of Adventure Games," designed many of Sierra's most beloved titles and pioneered the integration of graphics with adventure game storytelling.[^ref-39]
+Ken Williams was Sierra's president until the July 1996 sale to CUC International.[^ref-43] He approached games as tool-building, including engines, and said: "I was an unusual CEO, in that I had the engineering skills to be able to hold the respect of the engineers who worked for Sierra".[^ref-1] Roberta Williams designed Mystery House, the King's Quest series and Phantasmagoria.[^ref-7][^ref-45][^ref-42] Michael Brochu, hired by Ken in 1995 to run day-to-day business, succeeded him as president.[^ref-9]
 
-Other key figures included Al Lowe, creator of the Leisure Suit Larry series; Jim Walls, designer of the Police Quest games; and the husband-and-wife team of Corey and Lori Ann Cole, who created the Quest for Glory series.[^ref-3] Scott Murphy and Mark Crowe, known as the "Two Guys from Andromeda," brought their unique brand of humor to the Space Quest series and became fan favorites for their creative approach to game design.[^ref-5]
+Other key figures included Al Lowe, creator of Leisure Suit Larry;[^ref-47] Jim Walls, designer of the first three Police Quest games;[^ref-49] Corey and Lori Ann Cole, creators of Quest for Glory;[^ref-48] Jane Jensen, who worked with Roberta Williams on King's Quest VI's story and then created Gabriel Knight;[^ref-3] and Mark Crowe and Scott Murphy, the "Two Guys from Andromeda" behind Space Quest.[^ref-44]
 
 ## Legacy
 
-Sierra On-Line's influence on the gaming industry extends far beyond their specific games, as they established many of the business practices, technological standards, and design philosophies that continue to shape interactive entertainment today.[^ref-6] Their approach to franchise development, with multiple series running simultaneously and building dedicated fan bases, became a model that many modern game publishers still follow.[^ref-7] The company's emphasis on storytelling, character development, and immersive world-building helped establish video games as a legitimate narrative medium capable of competing with traditional forms of entertainment.[^ref-8]
-
-The technical innovations pioneered by Sierra, including their AGI and SCI game engines, influenced the development of adventure games for decades and can still be seen in modern titles that pay homage to the classic Sierra style.[^ref-10] Many former Sierra employees went on to found their own successful game development companies, spreading Sierra's design philosophy throughout the industry.[^ref-11] The recent revival of interest in adventure games, including successful crowdfunding campaigns for spiritual successors to Sierra franchises, demonstrates the enduring appeal of the company's creative vision.[^ref-12]
+The Digital Antiquarian notes that after 1999, "surprisingly few of the prominent names who had built Sierra's original brand ... continued to work in the industry."[^ref-39] Some came back for crowdfunded and independent projects. In 2012 Mark Crowe and Scott Murphy reunited as Two Guys from Andromeda to make an original space adventure. Their game, SpaceVenture, narrowly met its Kickstarter funding goal on June 12, 2012.[^ref-44]
 
 ## Games
 
 - **1980** — [[1980 - Hi-Res Adventure 1 - Mystery House|Hi-Res Adventure 1: Mystery House]] — Genre: Adventure
 - **1980** — [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Hi-Res Adventure 2: The Wizard and the Princess]] — Genre: Adventure
 - **1980** — [[1980 - Hi-Res Football|Hi-Res Football]] — Genre: Sports
-- **1980** — [[1980 - Hi-Res Soccer|Hi-Res Soccer]] — Genre: Sports
+- **1981** — [[1980 - Hi-Res Soccer|Hi-Res Soccer]] — Genre: Sports
 - **1981** — [[1981 - Crossfire|Crossfire]] — Genre: Arcade
 - **1981** — [[1981 - Jawbreaker|Jawbreaker]] — Genre: Arcade
 - **1981** — [[1981 - Pegasus II|Pegasus II]] — Genre: Arcade
@@ -164,50 +154,49 @@ The technical innovations pioneered by Sierra, including their AGI and SCI game 
 - **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] — Genre: Adventure
 - **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]] — Genre: Adventure
 - **1989** — [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games: Volume 1]] — Genre: Card/Board Games
-- **1989** — [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games: Volume 2]] — Genre: Card/Board Games
 - **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] — Genre: Adventure
 - **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want to Be a Hero]] — Genre: Adventure/RPG
 - **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Genre: Adventure
 - **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Genre: Adventure
+- **1990** — [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games: Volume 2]] — Genre: Card/Board Games
 - **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Genre: Adventure
-- **1990** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games: Volume 3]] — Genre: Card/Board Games
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Genre: Adventure
 - **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI Remake)]] — Genre: Adventure
 - **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Genre: Adventure/RPG
 - **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|Roberta Williams' King's Quest I: Quest for the Crown]] — Genre: Adventure
+- **1990** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Genre: Simulation
+- **1991** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games: Volume 3]] — Genre: Card/Board Games
 - **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Genre: Puzzle/Education
 - **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] — Genre: Adventure
 - **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Genre: Adventure
-- **1991** — [[1991 - Hoyle Official Book of Games - Volume 4|Hoyle Official Book of Games: Volume 4]] — Genre: Card/Board Games
-- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Genre: Simulation
 - **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] — Genre: Adventure
 - **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Genre: Adventure
 - **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Genre: Adventure
 - **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter]] — Genre: Adventure
 - **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Genre: Adventure
+- **1991** — [[1991 - The Shadow of Yserbius|The Shadow of Yserbius]] — Genre: MMORPG (developed by Ybarra Productions)
 - **1992** — [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's Software Picks: King Graham's Board Game Challenge]] — Genre: Card/Board Games
 - **1992** — [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance]] — Genre: Card/Board Games
 - **1992** — [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack]] — Genre: Card/Board Games
 - **1992** — [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino|Crazy Nick's Software Picks: Leisure Suit Larry's Casino]] — Genre: Card/Board Games
 - **1992** — [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|Crazy Nick's Software Picks: Parlor Games with Laura Bow]] — Genre: Card/Board Games
-- **1996** — [[1996 - Hoyle Bridge|Hoyle Bridge]] — Genre: Card/Board Games
 - **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Genre: Adventure
 - **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest: In Pursuit of the Death Angel VGA]] — Genre: Adventure
 - **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I: So You Want to Be a Hero VGA]] — Genre: Adventure/RPG
 - **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Genre: Adventure/RPG
 - **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Genre: Adventure
 - **1992** — [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]] — Genre: Puzzle/Education
-- **1992** — [[1991 - The Shadow of Yserbius|The Shadow of Yserbius]] — Genre: MMORPG
+- **1993** — [[1991 - Hoyle Official Book of Games - Volume 4|Hoyle Official Book of Games: Volume 4]] — Genre: Card/Board Games (same game as Hoyle Classic Card Games)
 - **1993** — [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest: Lost Secret of the Rainforest]] — Genre: Adventure
-- **1993** — [[1993 - Fates of Twinion|Fates of Twinion]] — Genre: MMORPG
+- **1993** — [[1993 - Fates of Twinion|Fates of Twinion]] — Genre: MMORPG (developed by Ybarra Productions)
 - **1993** — [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas: Frontier Pharmacist]] — Genre: Adventure
 - **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Genre: Adventure
-- **1993** — [[1996 - Hoyle Official Book of Games - Volume 5|Hoyle Official Book of Games: Volume 5]] — Genre: Card/Board Games
 - **1993** — [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6: Shape Up or Slip Out!]] — Genre: Adventure
 - **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] — Genre: Adventure
 - **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV: Shadows of Darkness]] — Genre: Adventure/RPG
 - **1993** — [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]] — Genre: Adventure
-- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Genre: Adventure
+- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Genre: Adventure (developed by Dynamix)
+- **1993** — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Genre: Card/Board Games
 - **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Genre: Adventure
 - **1994** — [[1994 - Outpost|Outpost]] — Genre: Strategy
 - **1995** — [[1995 - Mixed-Up Mother Goose Deluxe|Mixed-Up Mother Goose Deluxe]] — Genre: Adventure
@@ -217,51 +206,49 @@ The technical innovations pioneered by Sierra, including their AGI and SCI game 
 - **1995** — [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6: Roger Wilco in the Spinal Frontier]] — Genre: Adventure
 - **1995** — [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] — Genre: Adventure
 - **1995** — [[1995 - Torin's Passage|Torin's Passage]] — Genre: Adventure
-- **1996** — [[1997 - Eat My Dust|Eat My Dust]] — Genre: Racing
+- **1996** — [[1996 - Hoyle Bridge|Hoyle Bridge]] — Genre: Card/Board Games
+- **1996** — [[1996 - Hoyle Official Book of Games - Volume 5|Hoyle Official Book of Games: Volume 5]] — Genre: Card/Board Games
 - **1996** — [[1996 - Hoyle Casino|Hoyle Casino]] — Genre: Card/Board Games
-- **1996** — [[2000 - Hoyle Crosswords|Hoyle Crosswords]] — Genre: Card/Board Games
 - **1996** — [[1996 - Leisure Suit Larry 7 - Love for Sail|Leisure Suit Larry 7: Love for Sail]] — Genre: Adventure
 - **1996** — [[1996 - Lighthouse - The Dark Being|Lighthouse: The Dark Being]] — Genre: Adventure
 - **1996** — [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria: A Puzzle of Flesh]] — Genre: Adventure/Horror
 - **1996** — [[1996 - Power Chess|Power Chess]] — Genre: Card/Board Games
-- **1996** — [[1996 - Space Bucks|Space Bucks]] — Genre: Strategy
+- **1996** — [[1996 - Space Bucks|Space Bucks]] — Genre: Strategy (developed by Impressions Games)
 - **1996** — [[1996 - The Realm Online|The Realm Online]] — Genre: MMORPG
 - **1996** — [[1996 - The Time Warp of Dr. Brain|The Time Warp of Dr. Brain]] — Genre: Puzzle/Education
+- **1997** — [[1997 - Eat My Dust|Eat My Dust]] — Genre: Racing (developed by Funnybone Interactive)
 - **1997** — [[1997 - Betrayal in Antara|Betrayal in Antara]] — Genre: RPG
-- **1993** — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Genre: Card/Board Games
 - **1997** — [[1997 - Hoyle Poker|Hoyle Poker]] — Genre: Card/Board Games
-- **1997** — [[1997 - Civil War Generals 2 - Grant–Lee–Sherman|Civil War Generals 2: Grant–Lee–Sherman]] — Genre: Strategy
+- **1997** — [[1997 - Civil War Generals 2 - Grant–Lee–Sherman|Civil War Generals 2: Grant–Lee–Sherman]] — Genre: Strategy (developed by Impressions Games)
 - **1997** — [[1997 - Shivers Two - Harvest of Souls|Shivers Two: Harvest of Souls]] — Genre: Adventure
+- **1997** — [[1998 - Power Chess 98|Power Chess 98]] — Genre: Card/Board Games
 - **1998** — [[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]] — Genre: Adventure/RPG
-- **1998** — [[1998 - Power Chess 98|Power Chess 98]] — Genre: Card/Board Games
 - **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Genre: Adventure/RPG
 - **1998** — [[1998 - Police Quest - SWAT 2|Police Quest: SWAT 2]] — Genre: Tactical
 - **1999** — [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] — Genre: Adventure
 - **1999** — [[1999 - Power Chess 2.0|Power Chess 2.0]] — Genre: Card/Board Games
 - **1999** — [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3: Close Quarters Battle]] — Genre: Tactical
-- **2000** — [[2000 - Return of The Incredible Machine - Contraptions|Return of The Incredible Machine: Contraptions]] — Genre: Puzzle
-- **2001** — [[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]] — Genre: Puzzle
-- **2005** — [[2005 - Hoyle Poker Series|Hoyle Poker Series]] — Genre: Card/Board Games
+- **2000** — [[2000 - Hoyle Crosswords|Hoyle Crosswords]] — Genre: Card/Board Games
+- **2000** — [[2000 - Return of The Incredible Machine - Contraptions|Return of The Incredible Machine: Contraptions]] — Genre: Puzzle (developed by Dynamix)
+- **2001** — [[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]] — Genre: Puzzle (developed by Dynamix)
+- **2005** — [[2005 - Hoyle Poker Series|Hoyle Poker Series]] — Genre: Card/Board Games (published by Encore Software)
 
 ## References
 
-[^ref-1]: [Wired - Sierra Online Ken Williams Interview](https://www.wired.com/story/sierra-online-ken-williams-interview-memoir/) — Company founding and influence on gaming industry
-[^ref-2]: [Retro Freak Reviews - Sierra Retrospective](https://retrofreakreviews.com/2017/01/30/sierra-retrospective/) — Company headquarters and operational details
-[^ref-3]: [GOG Blog - Where Adventures Grew](https://www.gog.com/blog/where-adventures-grew-discover-the-history-of-sierra-on-line-games/) — Technical innovation and game engine development
-[^ref-4]: [Reddit Games - Legacy of Sierra Online](https://www.reddit.com/r/Games/comments/a3mtec/legacy_of_sierra_online/) — Company growth and expansion details
-[^ref-5]: [Vocal Media - History of Sierra Entertainment](https://vocal.media/history/history-of-sierra-entertainment) — Williams' vision and company philosophy
-[^ref-6]: [TV Tropes - Sierra](https://tvtropes.org/pmwiki/pmwiki.php/Creator/Sierra) — Industry influence and legacy
-[^ref-7]: [Encyclopedia.com - Sierra On-Line Inc](https://www.encyclopedia.com/books/politics-and-business-magazines/sierra-line-inc) — Company founding story and early history
-[^ref-8]: [Sierra Gamers](https://www.sierragamers.com/games/) — Early game development and Mystery House details
-[^ref-9]: [Wikipedia - Sierra On-Line](https://en.wikipedia.org/wiki/Sierra_On-Line) — Ken and Roberta Williams partnership and roles
-[^ref-10]: [MobyGames - Sierra Entertainment](https://www.mobygames.com/company/17/sierra-entertainment-inc/) — Platform expansion and market strategy
-[^ref-11]: [Play Classic Games - Sierra Publisher](https://playclassic.games/publisher/sierra-on-line-inc/) — Early games and Time Zone development
-[^ref-12]: [Giant Bomb - Sierra Search](https://www.giantbomb.com/search/?q=Sierra+On-Line&filter=company) — Distribution methods and business model
-[^ref-13]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Sierra_Entertainment) — King's Quest development and significance
-[^ref-14]: [Avid Wiki - Sierra Entertainment](https://www.avid.wiki/Sierra_Entertainment) — AGI engine and technical achievements
-[^ref-15]: [Alta Online - Sierra Documentary](https://www.altaonline.com/culture/movies-tv-shows/a46976900/sierra-on-line-video-games-roberta-williams-joy-lanzendorfer/) — Ken Williams quote about game development philosophy
-[^ref-16]: [Fear Fandom - Sierra Entertainment](https://fear.fandom.com/wiki/Sierra_Entertainment) — Franchise development and creative output
-[^ref-17]: [Sierra Online Bandcamp](https://sierraonline.bandcamp.com/) — Space Quest series and Two Guys from Andromeda
-[^ref-18]: [GameSpot - Sierra Closes Dynamix](https://www.gamespot.com/articles/sierra-closes-dynamix/1100-2804068/) — Police Quest development and Jim Walls involvement
-[^ref-19]: [Reddit Games - Sierra Founders Returning](https://www.reddit.com/r/Games/comments/nndqtz/sierra_online_founders_are_returning_to_game/) — Leisure Suit Larry origins and Al Lowe's work
-[^ref-39]: [Filfre.net - End of Sierra Part 4](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) — Chainsaw Monday layoffs and corporate culture
+[^ref-1]: [Wired - Sierra Online Ken Williams Interview](https://www.wired.com/story/sierra-online-ken-williams-interview-memoir/) — Ken Williams interview: compiler background, "building tools for game creation, including an engine", "an unusual CEO"
+[^ref-3]: [GOG Blog - Where Adventures Grew](https://www.gog.com/blog/where-adventures-grew-discover-the-history-of-sierra-on-line-games/) — Jim Walls "a retired police officer"; Jane Jensen worked on King's Quest VI's story, then created Gabriel Knight
+[^ref-7]: [Encyclopedia.com - Sierra On-Line Inc](https://www.encyclopedia.com/books/politics-and-business-magazines/sierra-line-inc) — Gale International Directory of Company Histories: founding, Mystery House, Atari cartridges, Dynamix 1990, Seattle move and Coktel 1993, 1995 acquisitions, Phantasmagoria, CUC deal "announced in February 1996", Havas Interactive, four brands
+[^ref-9]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — Founding in Simi Valley, AGI/SCI, series origins, CUC closing July 24, 1996, Cendant, Havas sale, Chainsaw Monday total, 1998 divisions, 2002 rename, 2004 and 2008 closures, 2014 revival
+[^ref-10]: [MobyGames - Sierra Entertainment, Inc. (Wayback, March 2018)](https://web.archive.org/web/20180316110215/http://www.mobygames.com/company/sierra-entertainment-inc) — Company history: August 2014 website relaunch, GamesCom 2014, Geometry Wars 3 and King's Quest
+[^ref-15]: [Alta Online - Falling in and out of Love with Sierra On-Line](https://www.altaonline.com/culture/movies-tv-shows/a46976900/sierra-on-line-video-games-roberta-williams-joy-lanzendorfer/) — Joy Lanzendorfer: Mystery House disks in ziplock bags, Oakhurst home bought with Mystery House profits
+[^ref-39]: [Filfre.net - End of Sierra Part 4](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) — Jimmy Maher, May 23, 2025 (revised with Eric Lengyel's corrections): Havas sale announced November 20, 1998; Chainsaw Monday in the common room, names read aloud, noon deadline; cancelled projects
+[^ref-40]: [Filfre.net - End of Sierra Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/) — Quotes the CUC–Sierra announcement: 1.225 CUC shares per Sierra share, "valued at approximately $1.06 billion"
+[^ref-41]: [Cendant Corporation Form 10-K for 1998 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0000723612/000095013699000391/0000950136-99-000391.txt) — "On April 15, 1998, we announced ... accounting irregularities"; "on January 12, 1999, we completed the sale of our consumer software division ... to Paris-based Havas SA, a subsidiary of Vivendi SA"
+[^ref-42]: [Wikipedia - Phantasmagoria (video game)](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game)) — Designer Roberta Williams; more than 200 people; $800,000 budget, $4.5 million cost; CompUSA; more than one million copies
+[^ref-43]: [Wikipedia - Ken Williams (game developer)](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) — President until July 1996 sale to CUC; "stayed on to guide its strategic direction until November 1997"
+[^ref-44]: [Wikipedia - Space Quest](https://en.wikipedia.org/wiki/Space_Quest) — Six games 1986–1995, Roger Wilco, "Two Guys from Andromeda", 2012 reunion and SpaceVenture Kickstarter
+[^ref-45]: [Wikipedia - King's Quest](https://en.wikipedia.org/wiki/King%27s_Quest) — Roberta Williams designed all games until the 2015 reboot; Daventry; The Odd Gentlemen re-imagining (2015–2016)
+[^ref-46]: [Wikipedia - Time Zone (video game)](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) — Released 1982, "shipped with six double-sided floppy disks"
+[^ref-47]: [Wikipedia - Leisure Suit Larry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) — Series created by Al Lowe, inspired by Softporn Adventure
+[^ref-48]: [Wikipedia - Quest for Glory](https://en.wikipedia.org/wiki/Quest_for_Glory) — Creators Corey and Lori Ann Cole; Hero's Quest renamed after Milton Bradley's HeroQuest trademark
+[^ref-49]: [Wikipedia - Police Quest](https://en.wikipedia.org/wiki/Police_Quest) — First three games designed by former police officer Jim Walls
