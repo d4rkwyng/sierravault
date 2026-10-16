@@ -13,7 +13,7 @@ last_updated: "2026-07-13"
 
 ## Overview
 
-Virgin Games (later Virgin Interactive Entertainment) was a video game publishing company that was part of Richard Branson's Virgin Group.[^ref-1][^ref-5][^ref-9][^ref-13] Founded in 1983, the company published numerous titles across multiple platforms before being acquired by Titus Interactive in 2003.[^ref-2][^ref-6][^ref-10][^ref-14]
+Virgin Games (later Virgin Interactive Entertainment) was a video game publishing company that was part of Richard Branson's Virgin Group.[^ref-1][^ref-5][^ref-9][^ref-13] Founded in 1983, the company published numerous titles across multiple platforms before being acquired by Titus Interactive in 2003.[^ref-2][^ref-6][^ref-10]
 
 ## Sierra Connection
 
@@ -47,5 +47,4 @@ Virgin Games published titles developed by studios that later worked with Sierra
 [^ref-11]: [Codex Gamicus - Virgin Interactive](https://gamicus.fandom.com/wiki/Virgin_Interactive) - Titus acquisition
 [^ref-12]: [Category:Virgin Interactive games - Wikipedia](https://en.wikipedia.org/wiki/Category:Virgin_Interactive_games) - Published games
 [^ref-13]: [Wikipedia - EA Pacific](https://en.wikipedia.org/wiki/EA_Pacific) - Virgin NA subsidiary history
-[^ref-14]: [BusinessInTheNews - How Virgin Games started up](https://businessinthenews.co.uk/2022/11/29/how-virgin-games-started-up-with-their-casino-gaming/) - Founding history
 [^ref-15]: [Ultimate Pop Culture Wiki - Virgin Interactive](https://ultimatepopculture.fandom.com/wiki/Virgin_Interactive) - Mastertronic acquisition
