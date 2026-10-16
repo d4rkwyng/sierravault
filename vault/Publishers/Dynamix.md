@@ -5,35 +5,35 @@ founded: 1984
 defunct: 2001
 headquarters: "Eugene, Oregon, United States"
 parent_company: "Sierra On-Line (acquired 1990)"
-last_updated: "2026-07-13"
+last_updated: "2026-10-16"
 ---
 # Dynamix
 
-<small style="color: gray">Last updated: July 13, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
-Dynamix, Inc.[^ref-1][^ref-5][^ref-13] was an American video game developer and publisher founded in 1984 by Jeff Tunnell and Damon Slye.[^ref-2][^ref-6][^ref-10][^ref-14] The company was acquired by Sierra On-Line in 1990 and became one of Sierra's most prolific internal studios, developing action games, flight simulators, sports games, and adventure titles until its closure in 2001.[^ref-3][^ref-7][^ref-11]
+Dynamix was an American video game developer founded in Eugene, Oregon, in 1984 by Jeff Tunnell and Damon Slye.[^ref-1][^ref-2][^ref-7] Their first title, Stellar 7, came out before the company was founded.[^ref-1] On March 27, 1990, Dynamix's owners agreed to sell the company to Sierra On-Line for $1.5 million; MobyGames gives August 1990 for the completed sale.[^ref-15][^ref-2] Under Sierra it became one of Sierra's largest development teams, making flight simulators, sports games, puzzle games and adventures, until Sierra closed the studio on August 14, 2001.[^ref-16][^ref-1][^ref-17]
 
 For detailed information about the studio's development history and notable games, see [[Developers/Dynamix|Dynamix (Developer)]].
 
 ## Publishing History
 
-Before Sierra's acquisition, Dynamix self-published some of their early titles and also worked with other publishers including [[Electronic Arts|Electronic Arts]]. After joining Sierra, most Dynamix games were published under the Sierra On-Line or Sierra Studios labels.[^ref-4][^ref-8][^ref-12]
+Before 1989 Dynamix's games were published by other companies, among them Penguin Software, [[Electronic Arts|Electronic Arts]] and Activision.[^ref-1][^ref-16] Dynamix then decided to publish under its own name: in 1989 A-10 Tank Killer and David Wolf: Secret Agent "were shipped as affiliated label products for Activision, with the Dynamix label shown on the game boxes for the first time."[^ref-2] Those games did not make enough money to keep Dynamix going, and the company was sold to Sierra in 1990.[^ref-2]
 
 ## Games Published (Pre-Sierra)
 
-- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Notes: Self-published
-- **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Notes: Self-published
+- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Notes: Dynamix label, distributed by Activision (affiliated label)[^ref-2][^ref-10]
+- **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Notes: Dynamix label, distributed by Activision (affiliated label)[^ref-2]
 
 ## Notable Franchises
 
-Dynamix developed numerous franchises for Sierra:
+Dynamix developed numerous franchises for Sierra:[^ref-1][^ref-18]
 - **Aces** series (flight combat)
 - **Front Page Sports** series (sports simulations)
-- **Metaltech/Starsiege** series (mech combat)
-- **Red Baron** series (WWI flight sims)
-- **The Incredible Machine** series (puzzle games)
+- **Metaltech/Starsiege** series (mech combat)[^ref-13]
+- **Red Baron** series (WWI flight sims)[^ref-11]
+- **The Incredible Machine** series (puzzle games)[^ref-12]
 
 ## Related
 
@@ -42,16 +42,14 @@ Dynamix developed numerous franchises for Sierra:
 
 ## References
 
-[^ref-1]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) - Company history
-[^ref-2]: [MobyGames - Dynamix, Inc.](https://www.mobygames.com/company/107/dynamix-inc/) - Game database profile
-[^ref-3]: [Giant Bomb - Dynamix](https://www.giantbomb.com/dynamix/3010-107/) - Studio overview
-[^ref-4]: [The Digital Antiquarian - Dynamix](https://www.filfre.net/?s=Dynamix) - Historical articles
-[^ref-5]: [Hardcore Gaming 101 - Dynamix](https://www.hardcoregaming101.net/dynamix/) - Game retrospectives
-[^ref-6]: [Sierra Gamers - Dynamix](https://www.sierragamers.com/dynamix/) - Fan archive
-[^ref-7]: [IGDB - Dynamix](https://www.igdb.com/companies/dynamix) - Company profile
-[^ref-8]: [GameFAQs - Dynamix Games](https://gamefaqs.gamespot.com/company/1088-dynamix) - Game list
-[^ref-10]: [MobyGames - A-10 Tank Killer](https://www.mobygames.com/game/a-10-tank-killer) - Self-published title
-[^ref-11]: [MobyGames - Red Baron](https://www.mobygames.com/game/red-baron) - Sierra-published Dynamix title
-[^ref-12]: [MobyGames - The Incredible Machine](https://www.mobygames.com/game/incredible-machine) - Popular puzzle series
-[^ref-13]: [MobyGames - Starsiege: Tribes](https://www.mobygames.com/game/starsiege-tribes) - Multiplayer franchise
-[^ref-14]: [IMDb - Dynamix](https://www.imdb.com/company/co0139387/) - Company credits
+[^ref-1]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) - Founded in Eugene in 1984 by Tunnell and Slye; Stellar 7 "released before company founding"; action games for Penguin Software and Electronic Arts; Front Page Sports, Metaltech; closed August 14, 2001
+[^ref-2]: [MobyGames - Dynamix, Inc. (Wayback, June 2023)](https://web.archive.org/web/20230606025610/https://www.mobygames.com/company/42/dynamix-inc/) - Moby ID 42; 1989 Activision affiliated-label releases "with the Dynamix label shown on the game boxes for the first time"; sold to Sierra August 1990
+[^ref-7]: [IGDB - Dynamix](https://www.igdb.com/companies/dynamix) - "founded in Eugene, Oregon in 1984 by Jeff Tunnell and Damon Slye"
+[^ref-10]: [MobyGames - A-10 Tank Killer](https://www.mobygames.com/game/2467/a-10-tank-killer/) - Game entry (1989)
+[^ref-11]: [MobyGames - Red Baron](https://www.mobygames.com/game/1766/red-baron/) - Game entry (1990)
+[^ref-12]: [MobyGames - The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) - Game entry (1992)
+[^ref-13]: [MobyGames - Starsiege: Tribes](https://www.mobygames.com/game/2661/starsiege-tribes/) - Game entry (1998)
+[^ref-15]: [Retro365 - Dynamix's adventures](https://retro365.blog/2024/08/23/dynamixs-adventures/) - "On March 27, 1990, an acquisition agreement with Sierra On-Line valued at $1.5 million was reached"
+[^ref-16]: [Retro Invaders - Unsung (and Mostly Forgotten) Heroes: Dynamix, Inc.](https://retroinvaders.com/index.php/en/125564/unsung-and-mostly-forgotten-heroes-dynamix-inc) - Pre-Sierra titles "published by Penguin Software, Activision, Electronic Arts, Sega, Data East and Accolade"; "one of their largest development teams"
+[^ref-17]: [GameSpot - Sierra closes Dynamix (Wayback 2019)](https://web.archive.org/web/20190718152841/https://www.gamespot.com/articles/sierra-closes-dynamix/1100-2804068/) - "Sierra On-Line today announced the closure of its Dynamix game development studio in Eugene, Oregon"
+[^ref-18]: [Game Developer - Interview: Slye and the Dynamix of Game Development](https://www.gamedeveloper.com/game-platforms/interview-slye-and-the-dynamix-of-game-development) - Slye: Red Baron, Aces of the Pacific, Aces of the Deep and Aces over Europe developed after the Sierra acquisition
