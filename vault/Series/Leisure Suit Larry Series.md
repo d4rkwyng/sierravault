@@ -7,116 +7,106 @@ first_release: 1987
 last_release: 2020
 total_games: 13
 genre: "Adventure, Comedy"
-last_updated: "2026-10-09"
+last_updated: "2026-10-16"
 ---
 
 # Leisure Suit Larry Series
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
-The Leisure Suit Larry series stands as Sierra On-Line's most controversial and enduring comedy franchise. Created by [[Al Lowe]] in 1987, the series follows Larry Laffer, a hopelessly out-of-date, balding 40-year-old software salesman perpetually seeking romance in all the wrong places.[^ref-1] What began as a graphical update to Chuck Benton's 1981 text adventure Softporn Adventure became "the biggest sleeper hit in adventure gaming history" according to Guinness World Records.[^ref-2]
+The Leisure Suit Larry series is Sierra On-Line's adult comedy adventure franchise. Created by [[Al Lowe]] in 1987, it follows Larry Laffer, whom MobyGames describes as "a short, tacky, balding, forty-year-old man" who "used to be in the software business".[^ref-9] What began as a graphical update to Chuck Benton's 1981 text adventure Softporn Adventure became "the biggest sleeper hit in adventure gaming history" according to Guinness World Records: it sold 2,000 copies in its first month and 250,000 in its first year.[^ref-2]
 
-Distinguished by its adult-oriented humor, self-deprecating protagonist, and sharp social satire, the Leisure Suit Larry series spawned a new genre of "adult" computer games while maintaining Sierra's reputation for quality adventure design.[^ref-3] Despite—or perhaps because of—its risqué content, the franchise became one of Sierra's best-known properties.
+The series "spawned a new computer gaming genre of 'adult' titles", according to Lowe's official biography.[^ref-3] Lowe recalled that the first game's sales doubled every month "until after 8 months, it was in the top 10".[^ref-5] Lowe designed the adventures through Leisure Suit Larry 7 (1996); later entries, two of them starring Larry's nephew, were made without him.[^ref-1][^ref-21][^ref-22]
 
 ## Series Timeline
 
 | Year | Title | Engine | Notes |
 |------|-------|--------|-------|
-| 1987 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry 1]] | AGI | Series debut, based on [[1981 - Softporn Adventure\|Softporn Adventure]] |
-| 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry 2]] | AGI/SCI | Larry wins lottery, globe-trotting adventure |
-| 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry 3]] | SCI0 | Introduces Passionate Patti |
-| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1 VGA]] | SCI1 | "Point-and-grope" remake |
-| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] | SCI1 | Famously skipped "4" |
-| 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6]] | SCI1.1 | Spa resort setting |
-| 1996 | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7]] | SCI32 | Cruise ship finale |
-| 1998 | [[1998 - Leisure Suit Larry's Casino\|Leisure Suit Larry's Casino]] | Custom | Casino spinoff, online features |
-| 2004 | [[2004 - Leisure Suit Larry - Magna Cum Laude\|Leisure Suit Larry: Magna Cum Laude]] | Custom | Larry Lovage (nephew), college setting |
-| 2009 | [[2009 - Leisure Suit Larry - Box Office Bust\|Leisure Suit Larry: Box Office Bust]] | Custom | Widely panned sequel |
-| 2013 | [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] | Unity | Kickstarter-funded HD remake |
-| 2018 | [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry\|Wet Dreams Don't Dry]] | Unity | German revival by CrazyBunch |
-| 2020 | [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice\|Wet Dreams Dry Twice]] | Unity | Direct sequel |
+| 1987 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry 1]] | AGI | Series debut, based on [[1981 - Softporn Adventure\|Softporn Adventure]][^ref-9] |
+| 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry 2]] | SCI0 | Larry is pursued around the globe by KGB agents[^ref-28] |
+| 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry 3]] | SCI0 | Same text interface and engine as LSL2; Patti becomes playable[^ref-17] |
+| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1 VGA]] | SCI1 | Remake with an icon interface, touted on the box as "point and grope"[^ref-18] |
+| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] | SCI1 | Skips "4"; first new Larry with an icon-based interface[^ref-16] |
+| 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6]] | SCI1.1 | Set at the spa resort La Costa Lotta[^ref-29] |
+| 1996 | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7]] | SCI3 | Cruise ship setting[^ref-30] |
+| 1998 | [[1998 - Leisure Suit Larry's Casino\|Leisure Suit Larry's Casino]] | Custom (Hoyle-based) | Casino spin-off with online play |
+| 2004 | [[2004 - Leisure Suit Larry - Magna Cum Laude\|Leisure Suit Larry: Magna Cum Laude]] | Proprietary | Larry Lovage (nephew); first full-3D entry and first on consoles[^ref-23] |
+| 2009 | [[2009 - Leisure Suit Larry - Box Office Bust\|Leisure Suit Larry: Box Office Bust]] | Unreal Engine 3[^ref-25] | Widely panned[^ref-21] |
+| 2013 | [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] | Unity | Kickstarter-funded HD remake of LSL1[^ref-24] |
+| 2018 | [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry\|Wet Dreams Don't Dry]] | Unity | Revival by CrazyBunch, published by Assemble Entertainment[^ref-31] |
+| 2020 | [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice\|Wet Dreams Dry Twice]] | Unity | Direct sequel by CrazyBunch[^ref-32] |
 
 ## Al Lowe's Vision
 
-[[Al Lowe]] joined Sierra in 1982, primarily working on educational software and children's games before creating his comedy masterpiece.[^ref-4] When tasked with updating Softporn Adventure for modern audiences, his immediate reaction was legendary: "This game is so out of date, anybody who plays it would have to wear a leisure suit."[^ref-5]
+[[Al Lowe]] joined Sierra in 1982.[^ref-3] His early Sierra work included children's titles such as Dragon's Keep (1982) and Troll's Tale (1983),[^ref-4] and Disney-licensed games including The Black Cauldron, his first animated graphic adventure.[^ref-3] When asked to look at updating Softporn Adventure, his reaction was: "This game is so out of date, anybody who plays it would have to wear a leisure suit."[^ref-5]
 
-Lowe's approach transformed what could have been a simple graphical update into something entirely new:
-
-- **Larry as satirical target** - The joke is always on Larry, never the player
-- **Women portrayed as smarter** - Lowe has long argued that, next to Larry, "the women were always smarter, better read, more knowledgeable, and hipper"[^ref-6]
-- **Self-deprecating humor** - Larry's failures are funnier than his successes
-- **Period-specific comedy** - Each game satirizes contemporary dating culture
+Lowe described the result as "a game about a loser who thinks he's really with it but who really is out of it, who wants to be a ladies' man but never will be".[^ref-5] He has long argued that, next to Larry, "the women were always smarter, better read, more knowledgeable, and hipper".[^ref-6]
 
 ## The Missing "Larry 4"
 
-In one of gaming's most famous marketing gags, Leisure Suit Larry 5 (1991) deliberately skipped "Larry 4." Lowe maintained the fiction that Larry 4 was a lost game, leading to decades of fan speculation. The in-universe explanation involves Larry suffering amnesia and losing memory of his adventures in "Larry 4." This meta-joke became integral to the series' identity.
+Leisure Suit Larry 5 (1991) followed Larry 3, and no Larry 4 was ever released.[^ref-16] Lowe gives two reasons. First, he had made Larry 3's ending "air tight", with Larry and Patti together at last, because he assumed the series would be a trilogy.[^ref-13] Second, Larry 4 was planned as "the first multi-player on-line adventure game"; Lowe, Jeff Stephenson and Matthew George started coding in January 1991, but the project grew into Sierra's online service instead: "Constant Companion became The Sierra Network".[^ref-14] After six months Lowe left that project because "the sales department was clamoring for Larry 4".[^ref-15]
+
+The numbering began as a hallway quip ("No, Larry 5! Of course I'm working on Larry 4!"), and Lowe kept it because it solved the "mind share" problem: "how to grab people's attention and make them think about the next Larry game and had they missed something?"[^ref-13] In Larry 5, Larry has amnesia and has forgotten what happened in the never-released Larry 4.[^ref-16] MobyGames notes that the missing episode nonetheless has an official name, "Leisure Suit Larry 4: The Missing Floppies".[^ref-1]
 
 ## Character Evolution
 
 ### Larry Laffer
-- **Appearance:** Short, balding, perpetually in a white polyester leisure suit
-- **Age:** Started at 40 in 1987, stays roughly the same
-- **Occupation:** Former software salesman, various careers throughout series
-- **Personality:** Well-meaning but hopelessly out-of-touch; described as "the original blind date nightmare"
+- **Appearance:** Short, tacky and balding, clad in a white polyester leisure suit[^ref-9]
+- **Age:** Forty in the first game[^ref-9]
+- **Occupation:** Formerly "in the software business"[^ref-9]
 
 ### Passionate Patti
-Introduced in LSL3 as a lounge singer, Patti became a playable co-protagonist in later games. Her sections offer a female perspective on the series' romantic misadventures.
+Introduced in LSL3 as a pianist, Patti is playable in the second half of that game, the first Larry game in which the player controls a character other than Larry.[^ref-17] In LSL5 she leaves her career as a performing pianist to become an FBI undercover agent, and the game alternates between her case and Larry's.[^ref-16]
 
 ### Larry Lovage
-Larry's nephew, introduced in Magna Cum Laude (2004), marked a controversial reboot that moved away from the original character.
+Larry's nephew, introduced in Magna Cum Laude (2004), the first entry with full 3D graphics and the first released on consoles.[^ref-23] Lowe had no part in its making.[^ref-22]
 
 ## Technical Evolution
 
-### AGI Era (1987-1988)
-- Text parser interface
-- 16-color graphics
-- PC Speaker sound
-- "Age verification" quiz before gameplay
+### AGI Era (1987)
+- Only the original LSL1 used the Adventure Game Interpreter, with "only 16 colors and EGA graphics" and a text parser[^ref-18][^ref-9]
+- A "tongue in cheek age quiz" at startup "supposedly verifies that you are matured enough (or not) to play this game"[^ref-18]
 
-### SCI Era (1989-1996)
-- Point-and-click interface ("point-and-grope")
-- 256-color VGA graphics
-- Digital sound and voice acting (Jan Rabson as Larry)
-- Increasingly sophisticated animation
+### SCI0 Era (1988–1989)
+- LSL2 introduced an improved engine with full-screen graphics and mouse control for movement[^ref-28]
+- LSL3 used the same text-based interface and engine as LSL2[^ref-17]
 
-### Modern Era (2013-2020)
-- High-definition graphics
-- Full voice acting
-- Updated humor for contemporary audiences
+### SCI1 and Later (1991–1996)
+- The 1991 LSL1 remake used SCI with "256 colors and VGA graphics" and replaced the parser with an icon-driven interface[^ref-18]
+- LSL5 was the first new Larry game with an icon-based interface[^ref-16]
+- LSL6 was "the first installment to feature voice acting"[^ref-19], with Jan Rabson as Larry[^ref-20]
+
+### Post-Lowe and Modern Era (2004–2020)
+- Magna Cum Laude moved the series to full 3D and consoles[^ref-23]; Box Office Bust used Unreal Engine 3[^ref-25]
+- Reloaded (2013) was funded on Kickstarter by 14,081 backers who pledged $655,182 against a $500,000 goal[^ref-24]
+- CrazyBunch's Wet Dreams games (2018, 2020) are point-and-click adventures[^ref-31][^ref-32]
 
 ## Critical Reception
 
 | Game | Notable Reception |
 |------|-------------------|
-| LSL1 | "Biggest sleeper hit in adventure gaming history" - Guinness World Records |
-| LSL3 | First Sierra game to feature female protagonist (Patti sections) |
-| LSL5 | Strong reviews, innovative dual-protagonist structure |
-| LSL7 | Considered Al Lowe's finest work in the series |
-| Magna Cum Laude | Mixed reception, controversial departure from formula |
-| Box Office Bust | Critical failure, Lowe thanked publisher for keeping him away |
-| Reloaded | Successful Kickstarter, mixed reviews on updates |
-| Wet Dreams Don't Dry | Praised as return to form |
-
+| LSL1 | "The biggest sleeper hit in adventure gaming history" - Guinness World Records[^ref-2] |
+| LSL3 | First Larry game in which the player also controls Patti[^ref-17] |
+| LSL7 | Lowe's own favourite: asked which game he is proudest of, he answered "Easy: Leisure Suit Larry 7: Love For Sail!"[^ref-5] |
+| Magna Cum Laude | Mixed reviews[^ref-23]; Lowe: "Those who fondly remember my games will be severely disappointed."[^ref-22] |
+| Box Office Bust | GameRankings placed it "next to last place among all games" at 16%; Lowe thanked "VU Games, for keeping me completely away from this latest disaster!"[^ref-21] |
+| Reloaded | Funded on Kickstarter[^ref-24]; "mixed to average reviews"[^ref-23] |
 
 ## Legacy
 
 ### Industry Impact
-- Pioneered "adult" computer game genre[^ref-3]
-- Demonstrated commercial viability of mature content
-- More hint books sold than actual game copies (Guinness World Records)[^ref-7]
-- Influenced later adult-oriented gaming content
+- Spawned "a new computer gaming genre of 'adult' titles"[^ref-3]
+- According to Sierra and Al Lowe, more hint books were sold for the first game than copies of the game itself, which Guinness attributes to widespread piracy[^ref-7]
 
 ### Cultural Significance
-- Larry became iconic Sierra mascot alongside King Graham and Roger Wilco
-- The leisure suit became symbol of outdated masculinity in gaming
-- Series analyzed academically as "profoundly lonely representation of American masculinity"[^ref-8]
+- The New York Times' review of the 2023 anthology *Critical Hits* describes Octavia Bright's essay as reproducing the game's "profoundly lonely" projection of American masculinity[^ref-8]
 
 ### Controversies
-- Age verification quiz system (1980s pop culture questions)
-- 2025 delisting from Steam described as removing "super sexist" content
-- Ongoing debates about whether games satirize or perpetuate dated attitudes
+- The age quiz at the start of the first game[^ref-18]
+- The California legislature once introduced a "Leisure Suit Larry" bill to prohibit adult themes in computer games; it died in committee[^ref-3]
+- In May 2025, LSL1–7 and Magna Cum Laude were removed from Steam. Assemble Entertainment gave no reason;[^ref-10][^ref-11] Video Game History Foundation's Phil Salvador suggested the Codemasters licence, now owned by EA, may not have been renewed[^ref-10]
 
 ## Playing Today
 
@@ -124,18 +114,18 @@ Larry's nephew, introduced in Magna Cum Laude (2004), marked a controversial reb
 
 | Title | Store |
 |-------|-------|
-| Leisure Suit Larry 1-6 | [GOG](https://www.gog.com/game/leisure_suit_larry) |
+| Leisure Suit Larry 1 (AGI and VGA), 2, 3, 5, 6 (both versions) | [GOG](https://www.gog.com/game/leisure_suit_larry) |
 | Leisure Suit Larry 7 | [GOG](https://www.gog.com/game/leisure_suit_larry_love_for_sail) |
 | LSL: Reloaded | [GOG](https://www.gog.com/game/leisure_suit_larry_reloaded) |
-| LSL: Wet Dreams Don't Dry | [Steam](https://store.steampowered.com/app/765870/Leisure_Suit_Larry__Wet_Dreams_Dont_Dry/) |
-| LSL: Wet Dreams Dry Twice | [Steam](https://store.steampowered.com/app/1373430/Leisure_Suit_Larry__Wet_Dreams_Dry_Twice/) |
+| LSL: Wet Dreams Don't Dry | [GOG](https://www.gog.com/game/leisure_suit_larry_wet_dreams_dont_dry) |
+| LSL: Wet Dreams Dry Twice | [GOG](https://www.gog.com/game/leisure_suit_larry_wet_dreams_dry_twice) |
 
 > [!tip] Buying Notes
-> - **LSL1** - GOG includes both 1987 AGI original and 1991 VGA remake
-> - **Steam** - Original series delisted in 2025; only Wet Dreams games available
+> - **LSL1** - The GOG bundle includes both the 1987 original and the 1991 VGA remake, plus LSL2, 3, 5 and both versions of LSL6[^ref-26]
+> - **Steam** - LSL1–7 and Magna Cum Laude were delisted in May 2025;[^ref-10] both Wet Dreams games are available on Steam only until October 23, 2026.[^ref-12] The GOG versions of the classic games remained on sale after the 2025 delisting.[^ref-12]
 
 ### Compatibility
-- **[ScummVM](https://www.scummvm.org/)** - Supports all Al Lowe-era entries (LSL1-7)
+- **[ScummVM](https://www.scummvm.org/)** - Supports LSL1 (both the AGI original and the SCI remake), 2, 3, 5, 6 (both versions) and 7[^ref-27]
 
 ### Remakes & Modern Entries
 
@@ -144,13 +134,15 @@ Larry's nephew, introduced in Magna Cum Laude (2004), marked a controversial reb
 - **2020** — [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|Wet Dreams Dry Twice]] — Developer: CrazyBunch, Notes: Sequel
 
 ### The Al Lowe Cutoff
-Fans generally distinguish between "true" Larry games (LSL1-7, designed by [[Al Lowe]]) and later entries without his involvement. Lowe himself publicly distanced himself from Magna Cum Laude and Box Office Bust.
+[[Al Lowe]] designed LSL1–7. He had "absolutely no part in the making of Magna Cum Laude"[^ref-22], and says the companies behind Box Office Bust "did not consult me nor discuss anything about this game with me".[^ref-21]
 
 ## See Also
 
 - [[Al Lowe]] — Series creator
 - [[1981 - Softporn Adventure]] — Text adventure origin
+- [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino]] — 1992 budget casino spin-off
 - [[1998 - Leisure Suit Larry's Casino]] — Hoyle-based spin-off
+- [[CXL - Leisure Suit Larry 8]] — Lowe's cancelled sequel to Love for Sail!
 - [[2004 - Leisure Suit Larry - Magna Cum Laude]] — Post-Lowe entry
 - [[2009 - Leisure Suit Larry - Box Office Bust]] — Post-Lowe entry
 - [[2013 - Leisure Suit Larry - Reloaded]] — HD remake of LSL1
@@ -161,11 +153,35 @@ Fans generally distinguish between "true" Larry games (LSL1-7, designed by [[Al 
 
 ## References
 
-[^ref-1]: [MobyGames - Leisure Suit Larry Series](https://www.mobygames.com/group/397/leisure-suit-larry-series/) – Series database and Larry Laffer character
+[^ref-1]: [MobyGames - Leisure Suit Larry Series (Wayback, 2023-10-06)](https://web.archive.org/web/20231006110849/https://www.mobygames.com/group/6/leisure-suit-larry-series/) – Series scope, Larry Lovage, Larry 4's official name "The Missing Floppies"
 [^ref-2]: [Guinness World Records - Best-Selling Sleeper Hit](https://www.guinnessworldrecords.com/world-records/88873-best-selling-videogame-sleeper-hit) – Official record documentation
-[^ref-3]: [Al Lowe Biography](https://allowe.com/al/bio1.html) – Career history and "adult" genre creation
-[^ref-4]: [Sierra Gamers - Al Lowe](https://www.sierragamers.com/al-lowe/) – Pre-Larry Sierra work
-[^ref-5]: [Adventure Classic Gaming - Al Lowe Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/124/) – Leisure suit origin quote
+[^ref-3]: [Al Lowe Biography](https://allowe.com/al/bio1.html) – Joined Sierra 1982, Disney titles, "adult" genre, California "Leisure Suit Larry" bill
+[^ref-4]: [Sierra Gamers - Al Lowe](https://www.sierragamers.com/al-lowe/) – "Designer & Programmer 1982-1998"; gameography incl. Dragon's Keep (1982), Troll's Tale (1983)
+[^ref-5]: [Adventure Classic Gaming - Al Lowe Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/124/) – Leisure suit origin quote, sales doubling, LSL7 as the game he is proudest of
 [^ref-6]: [The Digital Antiquarian – Leisure Suit Larry in the Land of the Lounge Lizards](https://www.filfre.net/2015/08/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – Al Lowe's "women were always smarter" defence of the series
-[^ref-7]: [Guinness World Records - Best-Selling Hint Book](https://www.guinnessworldrecords.com/world-records/88867-best-selling-videogame-hint-book) – Hint book sales record
-[^ref-8]: [Critical Hits Anthology](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) – Academic analysis reference
+[^ref-7]: [Guinness World Records - Best-Selling Hint Book](https://www.guinnessworldrecords.com/world-records/88867-best-selling-videogame-hint-book) – LSL1 hint books outsold the game, per Sierra and Al Lowe; attributed to piracy
+[^ref-8]: [The New York Times – Book Review: 'Critical Hits,' edited by J. Robert Lennon and Carmen Maria Machado (November 20, 2023)](https://www.nytimes.com/2023/11/20/books/review/critical-hits-video-games-review.html) – Octavia Bright's essay; "profoundly lonely" projection of American masculinity
+[^ref-9]: [MobyGames – Leisure Suit Larry in the Land of the Lounge Lizards](https://www.mobygames.com/game/379/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – Larry's description, text parser, Softporn inspiration
+[^ref-10]: [VGC – The first seven Leisure Suit Larry games are being delisted from Steam (May 1, 2025)](https://www.videogameschronicle.com/news/the-first-seven-leisure-suit-larry-games-are-being-delisted-from-steam/) – LSL1–7 and Magna Cum Laude; Assemble "didn't explain why"; Phil Salvador on the Codemasters/EA licence
+[^ref-11]: [PCGamesN – Leisure Suit Larry delisted from Steam (May 1, 2025)](https://www.pcgamesn.com/leisure-suit-larry/steam-delisted) – "No specific reason is given"
+[^ref-12]: [VGC – After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them (October 9, 2026)](https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/) – Wet Dreams games on Steam "until October 23"; earlier games "remained on GOG"
+[^ref-13]: [Al Lowe – Is LSL5 LSL4?](https://allowe.com/games/larry/inside-stories/is-lsl5-lsl4.html) – Trilogy plan, "air tight" Larry 3 ending, the "mind share" problem
+[^ref-14]: [Al Lowe – Where's LSL4?](https://allowe.com/games/larry/inside-stories/wheres-lsl4.html) – Larry 4 as a multiplayer online adventure begun January 1991; "Constant Companion became The Sierra Network"
+[^ref-15]: [Al Lowe – TSN's Larryland](https://allowe.com/games/larry/inside-stories/larryland.html) – Left the online project after six months; "The sales department was clamoring for Larry 4"
+[^ref-16]: [MobyGames – Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work](https://www.mobygames.com/game/408/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-w/) – Fourth game despite the number, amnesia, Patti's FBI case, icon-based interface
+[^ref-17]: [MobyGames – Leisure Suit Larry III](https://www.mobygames.com/game/412/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsat/) – Same interface and engine as LSL2; player also controls Patti, a pianist
+[^ref-18]: [Adventure Classic Gaming – Leisure Suit Larry in the Land of the Lounge Lizards review (Wayback)](https://web.archive.org/web/20121028154514/http://www.adventureclassicgaming.com/index.php/site/reviews/264/) – AGI 16 colours vs SCI 256-colour VGA remake, "point and grope", age quiz
+[^ref-19]: [Hardcore Gaming 101 – Leisure Suit Larry 6](https://hardcoregaming101.net/leisure-suit-larry-6-shape-up-or-slip-out/) – "the first installment to feature voice acting"
+[^ref-20]: [Behind The Voice Actors – Leisure Suit Larry 6](https://behindthevoiceactors.com/video-games/leisure-suit-larry-6-shape-up-or-slip-out/) – Jan Rabson as Larry Laffer
+[^ref-21]: [Al Lowe – Box Office Bust](https://allowe.com/games/larry/history-of-larry/box-office-bust.html) – GameRankings 16%, Lowe not consulted, thanks to "VU Games"
+[^ref-22]: [Al Lowe – Magna Cum Laude](https://allowe.com/games/larry/history-of-larry/magna-cum-laude.html) – "My Involvement in MCL: Zero"; Lowe's verdict
+[^ref-23]: [Wikipedia – Leisure Suit Larry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) – Magna Cum Laude first full-3D/console entry with mixed reviews; Reloaded "mixed to average reviews"
+[^ref-24]: [Kickstarter – Make Leisure Suit Larry come again!](https://www.kickstarter.com/projects/leisuresuitlarry/make-leisure-suit-larry-come-again) – 14,081 backers pledged $655,182 of $500,000 goal
+[^ref-25]: [PCGamingWiki – Leisure Suit Larry: Box Office Bust](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Box_Office_Bust) – Team17, Codemasters, Unreal Engine 3
+[^ref-26]: [GOG Database – Leisure Suit Larry (product 1207659158)](https://www.gogdb.org/product/1207659158) – Bundle contents: LSL1, LSL1 VGA, 2, 3, 5, 6, 6 VGA
+[^ref-27]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – LSL1 (AGI and SCI), 2, 3, 5, 6, 6 hi-res, 7
+[^ref-28]: [MobyGames – Leisure Suit Larry Goes Looking for Love](https://www.mobygames.com/game/409/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places/) – KGB agents pursue Larry "all over the globe"; improved engine with mouse movement
+[^ref-29]: [MobyGames – Leisure Suit Larry 6: Shape Up or Slip Out!](https://www.mobygames.com/game/407/leisure-suit-larry-6-shape-up-or-slip-out/) – Spa resort La Costa Lotta
+[^ref-30]: [MobyGames – Leisure Suit Larry: Love for Sail!](https://www.mobygames.com/game/381/leisure-suit-larry-love-for-sail/) – Cruise ship setting
+[^ref-31]: [GOG – Leisure Suit Larry: Wet Dreams Don't Dry](https://www.gog.com/game/leisure_suit_larry_wet_dreams_dont_dry) – 2018, CrazyBunch / Assemble Entertainment, point-and-click
+[^ref-32]: [GOG – Leisure Suit Larry: Wet Dreams Dry Twice](https://www.gog.com/game/leisure_suit_larry_wet_dreams_dry_twice) – 2020, CrazyBunch / Assemble Entertainment
