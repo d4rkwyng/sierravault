@@ -2,31 +2,31 @@
 title: "Infamous Quests"
 type: publisher
 founded: 2012
-headquarters: "United States"
+headquarters: "Syracuse, New York, United States"
 parent_company: null
 predecessor_company: "Infamous Adventures"
-last_updated: '2026-10-09'
+last_updated: '2026-10-16'
 ---
 # Infamous Quests
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
-Infamous Quests is an independent game development and publishing studio founded in 2012 by Steven Alexander and Shawn Mills, the same team behind [[Publishers/Infamous Adventures|Infamous Adventures]]. While Infamous Adventures focused on free Sierra remakes, Infamous Quests shifted to developing and publishing original commercial adventure games in the classic Sierra style.[^ref-1][^ref-3][^ref-5][^ref-7][^ref-9][^ref-11][^ref-13][^ref-15]
+Infamous Quests is an independent adventure game studio in Syracuse, New York, founded in 2012 by Steven Alexander and Shawn Mills, the same team behind [[Publishers/Infamous Adventures|Infamous Adventures]].[^ref-1][^ref-3] Infamous Adventures had made free Sierra remakes; Infamous Quests makes original commercial adventure games.[^ref-1][^ref-2] The studio is no longer a full-time developer: in an October 2025 Patreon post Alexander wrote that after *Order of the Thorne* "we really couldn’t go on as a full-time game development company".[^ref-16]
 
 For detailed information about the studio's history, notable games, and key people, see [[Developers/Infamous Quests|Infamous Quests (Developer)]].
 
 ## Publishing History
 
-The studio successfully funded their debut game, *Quest for Infamy*, through Kickstarter in 2012, raising over $62,000 from backers.[^ref-2][^ref-4][^ref-6][^ref-8][^ref-10][^ref-12][^ref-14] They self-publish their games through digital distribution platforms including Steam and GOG.
+The studio funded its debut game, *Quest for Infamy*, on Kickstarter in 2012, raising $63,281 from 1,656 backers against a $25,000 goal.[^ref-3] On PC, *Quest for Infamy*'s Steam release was published by **Phoenix Online Publishing** on 10 July 2014; Infamous Quests published the GOG and itch.io releases itself. Ratalaika Games published the 2022 console ports.[^ref-4][^ref-17][^ref-5] Infamous Quests self-published *Order of the Thorne: The King's Challenge* on 26 January 2016.[^ref-7][^ref-8]
 
 ## Games Published
 
-- **2014** — [[2014 - Quest for Infamy|Quest for Infamy]] — Notes: Kickstarter-funded debut
-- **2015** — [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne: The King's Challenge]] — Notes: Episodic fairy tale adventure
-- **TBD** — [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] — Notes: Prequel in development
-- **TBD** — [[TBD - Order of the Thorne - Fortress of Fire|Order of the Thorne: Fortress of Fire]] — Notes: Episode 2, development paused
+- **2014** — [[2014 - Quest for Infamy|Quest for Infamy]] — Notes: Kickstarter-funded debut; Steam release published by Phoenix Online Publishing, GOG/itch.io releases self-published[^ref-4][^ref-17]
+- **2016** — [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne: The King's Challenge]] — Notes: Self-published[^ref-7][^ref-8]
+- **TBA** — [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] — Notes: Unreleased; "completed for a while, except for some voice acting" (Oct 2025)[^ref-16]
+- **TBA** — [[TBD - Order of the Thorne - Fortress of Fire|Order of the Thorne: Fortress of Fire]] — Notes: Unreleased; "in a real state of limbo" (Oct 2025)[^ref-16]
 
 ## Related
 
@@ -35,18 +35,12 @@ The studio successfully funded their debut game, *Quest for Infamy*, through Kic
 
 ## References
 
-[^ref-1]: [Infamous Quests - Official Site (Wayback, June 2024)](https://web.archive.org/web/20240615204320/https://www.infamous-quests.com/) - Company and games (the live domain now redirects to infamousquests.itch.io)
-[^ref-2]: [MobyGames - Infamous Quests](https://www.mobygames.com/company/21447/infamous-quests/) - Game database profile
-[^ref-3]: [Kickstarter - Quest for Infamy](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-the-adventure-game-to-end-all-adv) - Funding campaign
-[^ref-4]: [Steam - Quest for Infamy](https://store.steampowered.com/app/264560/Quest_for_Infamy/) - Game release
+[^ref-1]: [Infamous Quests - Official Site (Wayback, June 2024)](https://web.archive.org/web/20240615204320/https://www.infamous-quests.com/) - "Founded in 2012 by Steven Alexander and Shawn Mills" (the live domain now redirects to infamousquests.itch.io)
+[^ref-2]: [MobyGames - Infamous Quests, LLC](https://www.mobygames.com/company/22891/infamous-quests-llc/) - Moby ID 22891; credited on Quest for Infamy (2014) and Order of the Thorne (2016)
+[^ref-3]: [Kickstarter - Quest For Infamy - An Adventure Game By Infamous Quests](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que) - Syracuse, NY; $63,281 pledged of $25,000 goal, 1,656 backers (Jun-Jul 2012)
+[^ref-4]: [Steam - Quest for Infamy](https://store.steampowered.com/app/264560/Quest_for_Infamy/) - Developer Infamous Quests; publisher Phoenix Online Publishing; released Jul 10, 2014
 [^ref-5]: [GOG - Quest for Infamy](https://www.gog.com/game/quest_for_infamy) - Digital distribution
-[^ref-6]: Adventure Gamers - Quest for Infamy Review *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Game review
-[^ref-7]: [Steam - Order of the Thorne: The King's Challenge](https://store.steampowered.com/app/339680/Order_of_the_Thorne_The_Kings_Challenge/) - Episodic adventure
-[^ref-8]: [MobyGames - Order of the Thorne](https://www.mobygames.com/game/76186/order-of-the-thorne-the-kings-challenge/) - Game entry
-[^ref-9]: [CGMagazine - Quest for Infamy (PC) Review](https://www.cgmagonline.com/review/game/quest-infamy-review) - Review
-[^ref-10]: [MobyGames - Infamous Quests](https://www.mobygames.com/company/12728/infamous-quests/) - Publisher/developer profile and complete game catalog (replaces dead IGN /companies/ URL; IGN's company-profile pages have been deprecated)
-[^ref-11]: [IndieDB - Infamous Quests](https://www.indiedb.com/company/infamous-quests) - Developer profile
-[^ref-12]: [Metacritic - Quest for Infamy](https://www.metacritic.com/game/pc/quest-for-infamy) - Review aggregator
-[^ref-13]: [Sierra Gamers - Infamous Quests](https://www.sierragamers.com/) - Fan community
-[^ref-14]: [IGDB - Infamous Quests](https://www.igdb.com/companies/infamous-quests) - Database entry
-[^ref-15]: [Adventure Game Studio - Quest for Infamy](https://www.adventuregamestudio.co.uk/) - Development tools
+[^ref-7]: [Steam - The Order of the Thorne - The King's Challenge](https://store.steampowered.com/app/425600/) - Developer and publisher Infamous Quests; released Jan 26, 2016
+[^ref-8]: [MobyGames - Order of the Thorne: The King's Challenge](https://www.mobygames.com/game/88993/order-of-the-thorne-the-kings-challenge/) - Windows/Mac/Linux 2016-01-26; published and developed by Infamous Quests, LLC
+[^ref-16]: [Patreon - Infamous Quests, "Updates on RtR and Fortress of Fire" (15 Oct 2025)](https://www.patreon.com/posts/updates-on-rtr-141274312) - No longer full-time; Roehm to Ruin awaiting voice sessions; Fortress of Fire "in a real state of limbo"
+[^ref-17]: [MobyGames - Quest for Infamy](https://www.mobygames.com/game/71208/quest-for-infamy/) - Releases: Steam (Phoenix Online Publishing, 2014-07-10); GOG and itch.io (Infamous Quests); consoles (Ratalaika Games, 2022-03-04)
