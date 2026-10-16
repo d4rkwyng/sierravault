@@ -54,6 +54,6 @@ Want to dig deeper than these Markdown notes? These sites preserve interviews, d
 - [Guys from Andromeda](https://guysfromandromeda.com/) - Scott Murphy & Mark Crowe's studio developing SpaceVenture.
 
 ## Preservation Projects
-- [Archive.org Sierra Collections](https://archive.org/search?query=Sierra%20On-Line) - Scans of InterAction magazine, hint books, and catalog flyers.
+- [Archive.org InterAction Magazine Collection](https://archive.org/details/interactionmagazine) - Scans of Sierra's InterAction magazine.
 - [ScummVM](https://www.scummvm.org/) & [DOSBox](https://www.dosbox.com/) communities - Compatibility notes and nightly builds for running AGI/SCI titles on modern systems.
 - [ScummVM Wiki - AGI](https://wiki.scummvm.org/index.php/AGI) - Technical documentation for Sierra's Adventure Game Interpreter.
