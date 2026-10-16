@@ -1,45 +1,35 @@
 ---
 title: "In-Progress Projects"
 type: guide
-last_updated: "2026-10-09"
+last_updated: "2026-10-16"
 ---
 # In-Progress Projects
 
-Sierra-affiliated games currently in development or recently updated.
+<small style="color: gray">Last updated: October 16, 2026</small>
+
+Sierra-affiliated games currently in development or recently updated. Statuses checked October 16, 2026.
 
 ## At a Glance
 
-- [[#Gobliins 6|Gobliins 6]] — Team: Pierre Gilhodes, Status: **🎮 Imminent release!**, Updated: Feb 2026
 - [[#Gabriel Knight 4|Gabriel Knight 4]] — Team: Jane Jensen, Status: Pitch only; no Microsoft approval as of Dec 2025, Updated: Dec 2025
 - [[#Hero-U Sequel|Hero-U Sequel]] — Team: Corey & Lori Cole, Status: Shelved — Coles making Summer Daze games instead, Updated: Sep 2026
-- [[#Kings Quest IV Remake|KQ4 Remake (IQ)]] — Team: Infamous Quests, Status: Unverified — only source is a patron-only post, Updated: Jan 2026
-- [[#Quest for Infamy Roehm to Ruin|Roehm to Ruin]] — Team: Infamous Quests, Status: Voice recording unfinished; developer reports waning momentum, Updated: Jul 2026
+- [[#King's Quest IV Remake|KQ4 Remake (IQ)]] — Team: Infamous Quests, Status: Unverified — only source is a patron-only post, Updated: Jan 2026
+- [[#Quest for Infamy Roehm to Ruin|Roehm to Ruin]] — Team: Infamous Quests, Status: Voice recording unfinished; developer reports waning momentum, Updated: Sep 2026
 - [[#Order of the Thorne Fortress of Fire|Fortress of Fire]] — Team: Infamous Quests, Status: In limbo — no team or budget to finish, Updated: Oct 2025
-- [[#AGD Interactive Updates|KQ1/KQ2 Enhanced]] — Team: AGD Interactive, Status: v4.2 RC1 released, Updated: July 2024
-- [[#Kings Quest IV Retold|KQ4 Retold]] — Team: Magic Quest Ent., Status: VGA+Talkie update, Updated: Nov 2025
+- [[#AGD Interactive Updates|KQ1 v4.2 RC1]] — Team: AGD Interactive, Status: KQ1 v4.2 still at Release Candidate 1; no new KQ2+ version, Updated: July 2024 (thread active Aug 2026)
 
-**Recently Released:** [[2022 - SpaceVenture|SpaceVenture]] (Dec 2025) · [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]] (2023)
+**Recently Released:** [[2026 - Gobliins 6|Gobliins 6]] (Feb 2026) · [[2022 - SpaceVenture|SpaceVenture]] (Dec 2025) · [[#King's Quest IV Retold (VGA + Talkie)|KQ4 Retold VGA + Talkie]] (Nov 2025) · [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]] (2023)
 
 ---
 
 ## Detailed Info
-
-### Gobliins 6
-- **Page:** [[2026 - Gobliins 6]]
-- **Series:** [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]] → Gobliins 6
-- **Team:** Pierre Gilhodes (original Gobliiins artist/designer)
-- **Status:** 🎮 **Imminent release!** Keys being prepared for distribution.
-- **Latest:** (Feb 2, 2026) [Kickstarter Update #8](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4600616): "As soon as the game is released, and as soon as I have collected the keys, I start sending you the emails." Steam keys by default, Itch.io available as alternative. Direct sequel to *Gobliins 2*, bringing back Fingus and Winkle vs. villain Karcassio. Built in AGS.
-- **Follow:** [Kickstarter](https://www.kickstarter.com/projects/pierregilhodes/gobliins6) · [itch.io](https://pierre-gilhodes.itch.io/gobliiins5)
-
----
 
 ### Gabriel Knight 4
 - **Page:** [[TBD - Gabriel Knight 4 - Five Hearts]]
 - **Series:** [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|GK3]] → GK4
 - **Team:** [[Jane Jensen]]
 - **Status:** Pitch only; no Microsoft approval as of Dec 2025.
-- **Latest:** (Dec 2025) [Matt Chat 565](https://www.youtube.com/watch?v=UKI8t6KgAHc): Jensen described a GK4 pitch set in Salzburg, with two paths through the story, put together with a team in Israel. Microsoft owns the IP (via Activision); she said repeated emails and an industry lawyer got no response — "We never heard a thing back." Published "Five Hearts" short story Nov 2024.
+- **Latest:** (Dec 2025) [Matt Chat 565](https://www.youtube.com/watch?v=UKI8t6KgAHc): Jensen described a GK4 pitch set in Salzburg, with two paths through the story, put together with a team in Israel. Microsoft owns the IP (via Activision) and, per Multiplayer.it's write-up of the interview, has so far shown no interest in the project despite Jensen submitting the idea several times ([Multiplayer.it](https://multiplayer.it/notizie/gabriel-knight-4-e-un-progetto-gia-avviato-dallautrice-jane-jensen-che-spera-di-poterlo-concludere.html)). Jensen also published the first chapter of a Gabriel Knight short story, "Five Hearts," in November 2024 ([Adventure Game Hotspot](https://adventuregamehotspot.com/announcement/3108/jane-jensen-releases-gabriel-knight-short-story-five-hearts)).
 - **Follow:** [GK4Ever.com](https://web.archive.org/web/20190126092125/http://www.gk4ever.com/) (archived; domain no longer resolves)
 
 ---
@@ -53,11 +43,11 @@ Sierra-affiliated games currently in development or recently updated.
 
 ---
 
-### Kings Quest IV Remake
+### King's Quest IV Remake
 - **Page:** [[TBD - King's Quest IV Remake (Infamous Adventures)]]
 - **Series:** Remake of [[1988 - King's Quest IV - The Perils of Rosella|KQ4]]
 - **Team:** [[Infamous Adventures]] (coordinated via [[Infamous Quests]] Patreon)
-- **Status:** Unverified — the only source for recent activity is a patron-only post. No release date announced. Separate from Magic Quest Entertainment's [[2021 - King's Quest IV Retold|KQ4 Retold]].
+- **Status:** Unverified — the only source for recent activity is a patron-only post. No release date announced. Separate from DrSlash's [[2021 - King's Quest IV Retold|KQ4 Retold]] and Magic Quest Entertainment's VGA + Talkie version of it.
 - **Latest:** (Jan 2026) [Patreon "Small Development Update"](https://www.patreon.com/posts/small-update-147963671) is patron-only, so its contents can't be publicly checked. No public Infamous Quests post since has named the remake.
 - **Follow:** [Patreon](https://www.patreon.com/InfamousQuests)
 
@@ -68,7 +58,7 @@ Sierra-affiliated games currently in development or recently updated.
 - **Series:** Prequel to [[2014 - Quest for Infamy|Quest for Infamy]]
 - **Team:** [[Infamous Quests]]
 - **Status:** Voice recording unfinished; developer reports waning momentum.
-- **Latest:** (Jul 2026) The last project post, [Patreon (Apr 4, 2026)](https://www.patreon.com/posts/hospital-stays-154760603), said studio time was booked in May to finish Steve Patrick's Mr. Roehm lines. In July Steven Alexander wrote on Bluesky that his desire to work on games "has been in a waning phase all year" ([Jul 21](https://bsky.app/profile/infamousquests.bsky.social/post/3mr4upnsfpc2t)) and "I find my heart not in it as much as it used to be" ([Jul 22](https://bsky.app/profile/infamousquests.bsky.social/post/3mrakewn53k2n)).
+- **Latest:** (Jul 2026) The last project post, [Patreon (Apr 4, 2026)](https://www.patreon.com/posts/hospital-stays-154760603), said studio time was booked in May to finish Steve Patrick's Mr. Roehm lines. In July Steven Alexander wrote on Bluesky that his desire to work on games "has been in a waning phase all year" ([Jul 21](https://bsky.app/profile/infamousquests.bsky.social/post/3mr4upnsfpc2t)) and "I find my heart not in it as much as it used to be" ([Jul 22](https://bsky.app/profile/infamousquests.bsky.social/post/3mrakewn53k2n)). On Sep 28, 2026 he posted that Infamous Quests would have a booth at RetroGameCon in Syracuse that weekend ([Bluesky](https://bsky.app/profile/infamousquests.bsky.social/post/3mwlj77fgcs2r)); itch.io still lists Roehm to Ruin as "In development".
 - **Follow:** [Patreon](https://www.patreon.com/InfamousQuests) · [itch.io](https://infamousquests.itch.io/qfi-rtr)
 
 ---
@@ -86,19 +76,9 @@ Sierra-affiliated games currently in development or recently updated.
 ### AGD Interactive Updates
 - **Pages:** [[2001 - King's Quest I VGA Remake|KQ1 VGA]] · [[2002 - King's Quest II+ - Romancing the Stones|KQ2+]]
 - **Team:** AGD Interactive
-- **Status:** Enhanced editions with modern compatibility.
-- **Latest:** (Oct 2024) Newsletter announced enhanced editions. KQ1 v4.2 RC1 (July 2024) upgraded to SDL2 with Windows 10/11 compatibility, widescreen support.
+- **Status:** KQ1 v4.2 is still at Release Candidate 1; the forum thread was last active in August 2026. KQ2+ has had no new version since v3.1/3.1b (2010–2011).
+- **Latest:** (Jul 21, 2024) [KQ1 v4.2 RC1 forum announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=27004): AGDI decided "to update our remakes, starting with King's Quest I"; v4.2 RC1 "upgrades the game library from Allegro to SDL2, adds support for Windows 10 and 11, and significantly improves compatibility with widescreen monitors and modern video cards." ([KQ2 forum](https://www.agdinteractive.com/forum/viewforum.php?f=3): latest release threads are v3.1 and the v3.1b patch.)
 - **Follow:** [AGD Interactive](https://www.agdinteractive.com/)
-
----
-
-### Kings Quest IV Retold
-- **Page:** [[2021 - King's Quest IV Retold]]
-- **Series:** Remake of [[1988 - King's Quest IV - The Perils of Rosella|KQ4]]
-- **Team:** Jorge Pecador / Magic Quest Entertainment
-- **Status:** VGA + Talkie version released.
-- **Latest:** (Nov 2025) New version with 256-color graphics and full voice acting. Separate from Infamous Quests project.
-- **Follow:** [AGS Forums](https://www.adventuregamestudio.co.uk/forums/completed-game-announcements/kings-quest-iv-retold-vga-talkie-new-version/)
 
 ---
 
@@ -106,11 +86,26 @@ Sierra-affiliated games currently in development or recently updated.
 
 | Game | Team | Released | Page |
 |------|------|----------|------|
-| SpaceVenture | Two Guys From Andromeda | Dec 23, 2025 | [[2022 - SpaceVenture]] |
+| Gobliins 6 | Pierre Gilhodes | Feb 10, 2026 (itch.io); Feb 13, 2026 (Steam) | [[2026 - Gobliins 6]] |
+| SpaceVenture | Guys from Andromeda | Dec 23, 2025 | [[2022 - SpaceVenture]] |
+| King's Quest IV Retold (VGA + Talkie) | Magic Quest Entertainment (Jorge Pecador), building on DrSlash's 2021 Retold | Nov 29, 2025 | [[2021 - King's Quest IV Retold]] |
 | Gobliiins 5 | Pierre Gilhodes | 2023 | [[2023 - Gobliiins 5 - The Morgloton Invasion]] |
 | Colossal Cave 3D | Ken & Roberta Williams | 2023 | [[2023 - Colossal Cave 3D Adventure]] |
 | Summer Daze | Corey & Lori Cole | 2023 | [[2023 - Summer Daze - Tilly's Tale]] |
 | Homeworld 3 | Blackbird Interactive | May 2024 | [[2024 - Homeworld 3]] |
+
+### Gobliins 6
+- **Page:** [[2026 - Gobliins 6]]
+- **Series:** [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]] → Gobliins 6
+- **Team:** Pierre Gilhodes (original Gobliiins artist/designer)
+- **Released:** On itch.io on Tuesday, February 10, 2026 ([Indie Retro News](https://www.indieretronews.com/2026/02/gobliins6-retro-classic-gobliiins-are.html): "as of right now, you can download and play"), and on Steam on February 13, 2026 ([Steam](https://store.steampowered.com/app/4293620/GOBLiiNS6/), published by Schnibble Productions). Direct sequel to *Gobliins 2*, bringing back Fingus and Winkle. Built in AGS ([itch.io](https://pierre-gilhodes.itch.io/gobliins6): "Status Released", "Made with Adventure Game Studio").
+- **Follow:** [Kickstarter](https://www.kickstarter.com/projects/pierregilhodes/gobliins6) · [itch.io](https://pierre-gilhodes.itch.io/gobliins6)
+
+### King's Quest IV Retold (VGA + Talkie)
+- **Page:** [[2021 - King's Quest IV Retold]]
+- **Series:** Remake of [[1988 - King's Quest IV - The Perils of Rosella|KQ4]]
+- **Team:** Jorge Pecador / Magic Quest Entertainment
+- **Released:** (Nov 29, 2025) [AGS Forums announcement](https://www.adventuregamestudio.co.uk/forums/completed-game-announcements/kings-quest-iv-retold-vga-talkie-new-version/): "a new version of King's Quest IV Retold patched with 256 colored graphics and voices," made "by courtesy of Dr Slash, the author of King's Quest IV Retold". Standalone; separate from the Infamous Adventures project. Download links updated October 2026.
 
 ---
 
