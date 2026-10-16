@@ -1,11 +1,11 @@
 ---
 title: "Where to Buy & Play"
 type: guide
-last_updated: "2026-05-13"
+last_updated: "2026-10-16"
 ---
 # Where to Buy & Play Sierra Classics
 
-<small style="color: gray">Last updated: May 13, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026 (store listings and US prices checked that day)</small>
 
 Legal ways to acquire Sierra games, from digital storefronts to physical collecting. Availability shifts over time; use this as a starting point. For compatibility help, see the [[Compatibility Guide]].
 
@@ -15,65 +15,58 @@ Legal ways to acquire Sierra games, from digital storefronts to physical collect
 
 ### GOG.com (Recommended for Classics)
 
-The best option for classic Sierra adventures. GOG packages include manuals, hint books, and pre-configured DOSBox/ScummVM setups. All purchases are DRM-free.
+A strong option for classic Sierra adventures. GOG packages include extras such as manuals and hint books, many come pre-configured with ScummVM, and all purchases are DRM-free.[^ref-2][^ref-3][^ref-5]
 
-**Collections:**
-- [King's Quest 1+2+3](https://www.gog.com/game/kings_quest_1_2_3), [4+5+6](https://www.gog.com/game/kings_quest_4_5_6), and [7+8](https://www.gog.com/game/kings_quest_7_8) — AGI originals only; **missing KQ1 SCI remake (1990)**
-- [Space Quest 1+2+3](https://www.gog.com/game/space_quest_1_2_3) and [4+5+6](https://www.gog.com/game/space_quest_4_5_6) — EGA/SCI versions; **missing SQ1 VGA remake (1991)**
-- [Leisure Suit Larry Collection](https://www.gog.com/game/leisure_suit_larry) — LSL1–7 plus remakes
-- [Quest for Glory Collection](https://www.gog.com/game/quest_for_glory) — QFG1–5 including VGA remake
-- [Police Quest Collection](https://www.gog.com/game/police_quest_1_2_3_4) — PQ1–4 plus SWAT manuals
-- [Gabriel Knight trilogy](https://www.gog.com/game/gabriel_knight_sins_of_the_fathers) — All three games available separately or bundled
+**Collections** (US prices as of 2026-10-16):
+- [King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3), [4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6), and [7+8](https://www.gog.com/en/game/kings_quest_7_8) — $9.99 each; the 1+2+3 pack "includes the original King's Quest: Quest for the Crown," not the 1990 SCI remake[^ref-1]
+- [Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) and [4+5+6](https://www.gog.com/en/game/space_quest_4_5_6) — $9.99 each; since February 20, 2026 the 1+2+3 pack also includes the 1991 VGA remake of Space Quest 1[^ref-2]
+- [Leisure Suit Larry](https://www.gog.com/en/game/leisure_suit_larry) — $9.99; *Greatest Hits and Misses*, "five complete adventures" (LSL1 in both EGA and VGA versions, 2, 3, 5 and 6 — there is no LSL4)[^ref-3][^ref-5]; [Leisure Suit Larry 7: Love for Sail!](https://www.gog.com/en/game/leisure_suit_larry_love_for_sail) is sold separately ($5.99)[^ref-6]
+- [Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) — $9.99; "Includes both: VGA and original version of Quest for Glory 1"[^ref-4]
+- [Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) — $9.99; PQ1–4 with manuals, map, reference cards and avatar as extras[^ref-7]. [Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) is a separate pack[^ref-8]
+- Gabriel Knight — [Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers), [The Beast Within](https://www.gog.com/en/game/gabriel_knight_2_the_beast_within) and [Blood of the Sacred, Blood of the Damned](https://www.gog.com/en/game/gabriel_knight_3_blood_of_the_sacred_blood_of_the_damned) are sold separately ($5.99 each), plus the [20th Anniversary Edition](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers_20th_anniversary_edition) ($19.99)[^ref-9]
 
-**Individual Titles:** Phantasmagoria 1–2, Torin's Passage, Shivers, RAMA, Betrayal at Krondor, Arcanum, Caesar III, Pharaoh, Zeus, The Incredible Machine, Red Baron, Aces series, and more.
-
-**Why GOG over Steam:** GOG ensures old games work on modern systems before selling them. Steam often sells games as-is from the publisher, which may require additional patching.
+**Individual Titles:** Phantasmagoria 1–2, Torin's Passage, Shivers, the Betrayal at Krondor Pack, Arcanum, Caesar 3, Pharaoh + Cleopatra, Zeus + Poseidon, the Red Baron Pack, SWAT 3, and more.[^ref-10] RAMA, The Incredible Machine and the Aces series are not currently sold on GOG.[^ref-10]
 
 ### Steam
 
-Activision's Sierra catalog mirrors most GOG offerings, with one key advantage: VGA remakes.
+Activision's Sierra catalog on Steam overlaps heavily with GOG's. One notable difference: the King's Quest I in Steam's King's Quest Collection is the 1990 SCI remake.[^ref-12]
 
-**Collections:**
-- [King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) — KQ1–7 with both AGI originals and SCI remake
-- [Space Quest Collection](https://store.steampowered.com/app/10110/Space_Quest_Collection/) — SQ1–6 with both EGA original and VGA remake
-- [Quest for Glory 1-5](https://store.steampowered.com/app/502750/Quest_for_Glory_15/) — All five games plus QFG1 VGA remake
-- [Police Quest Collection](https://store.steampowered.com/app/494740/Police_Quest_Collection/) — PQ1–4 with VGA remake of PQ1
-- [Gabriel Knight: Sins of the Fathers](https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/) — Original 1993 version; [20th Anniversary Edition](https://store.steampowered.com/app/262000/Gabriel_Knight_Sins_of_the_Fathers_20th_Anniversary_Edition/) (2014 remake) also available; [GK2: The Beast Within](https://store.steampowered.com/app/496760/The_Beast_Within_A_Gabriel_Knight_Mystery/) and [GK3](https://store.steampowered.com/app/497360/Gabriel_Knight_3_Blood_of_the_Sacred_Blood_of_the_Damned/) sold separately
-- [Phantasmagoria](https://store.steampowered.com/app/501990/Phantasmagoria/) and [Phantasmagoria 2](https://store.steampowered.com/app/501970/Phantasmagoria_2_A_Puzzle_of_Flesh/)
-- **Leisure Suit Larry classics** — Delisted from Steam; use GOG for LSL1–7
-
-**Advantages over GOG:**
-- **Includes VGA remakes** — King's Quest I SCI (1990) and Space Quest I VGA (1991) are Steam-exclusive
-- After 2016 updates, collections include both original and remake versions
+**Collections** (US prices as of 2026-10-16):
+- [King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) — "Seven classic games in one collection" (KQ1–7), $19.99[^ref-11][^ref-12]
+- [Space Quest Collection](https://store.steampowered.com/app/10110/Space_Quest_Collection/) — SQ1–6, $19.99[^ref-11]
+- [Quest for Glory 1-5](https://store.steampowered.com/app/502750/Quest_for_Glory_15/) — all five games, including both versions of QFG1, $9.99[^ref-11]
+- [Police Quest Collection](https://store.steampowered.com/app/494740/Police_Quest_Collection/) — PQ1–4, $9.99[^ref-11]
+- [Gabriel Knight: Sins of the Fathers](https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/) — Original 1993 version ($5.99); [20th Anniversary Edition](https://store.steampowered.com/app/262000/Gabriel_Knight_Sins_of_the_Fathers_20th_Anniversary_Edition/) (2014 remake, $19.99) also available; [GK2: The Beast Within](https://store.steampowered.com/app/496760/The_Beast_Within_A_Gabriel_Knight_Mystery/) and [GK3](https://store.steampowered.com/app/497360/Gabriel_Knight_3_Blood_of_the_Sacred_Blood_of_the_Damned/) sold separately ($5.99 each)[^ref-11]
+- [Phantasmagoria](https://store.steampowered.com/app/501990/Phantasmagoria/) ($9.99) and [Phantasmagoria 2](https://store.steampowered.com/app/501970/Phantasmagoria_2_A_Puzzle_of_Flesh/) ($5.99)[^ref-11]
+- **Leisure Suit Larry classics** — Delisted from Steam in 2025; they remain on GOG (LSL 1–3, 5 and 6 pack; LSL7 separately)[^ref-13][^ref-3][^ref-6]
 
 **Caveats:**
 - May require community patches for full functionality
 - Check Steam community guides for fixes (widescreen patches, bug fixes)
 
-**Modern titles on Steam:** SpaceVenture, Colossal Cave 3D Adventure, Hero-U, Gray Matter, Cognition, Leisure Suit Larry: Wet Dreams series, Mage's Initiation, Summer Daze, Pharaoh: A New Era (2023 licensed remake by Triskell Interactive/Dotemu), Gobliiins 4/5/6 (Pierre Gilhodes continuations), and other alumni projects.
+**Modern titles on Steam:** SpaceVenture, Colossal Cave, Hero-U, Gray Matter, Cognition, Mage's Initiation, Summer Daze: Tilly's Tale, Pharaoh: A New Era (2023 remake by Triskell Interactive), GOBLiiiNS5 and GOBLiiNS6 (Pierre Gilhodes continuations), and other alumni projects.[^ref-11] *Leisure Suit Larry: Wet Dreams Don't Dry* and *Wet Dreams Dry Twice* "will only be available on Steam until October 23" (2026), after which both are removed from the store; both remain on GOG for now.[^ref-14][^ref-15]
 
 ### Xbox Game Pass (Retro Classics)
 
-**New in 2025:** Microsoft launched the Retro Classics collection on Game Pass in May 2025, powered by Antstream Arcade. This brings emulated Sierra games to Xbox and PC subscribers.
+**New in 2025:** Microsoft launched Retro Classics with Game Pass on May 21, 2025, in collaboration with Antstream Arcade, bringing emulated Activision-owned games (including Sierra titles) to Game Pass members.[^ref-16]
 
 **Sierra games added so far:**
-- Gabriel Knight: Sins of the Fathers
-- Conquests of Camelot: The Search for the Grail
-- Police Quest 2: The Vengeance
-- Codename: ICEMAN
-- Rise of the Dragon
-- Caesar
+- At launch (May 2025): Police Quest 1, Quest for Glory 1, Space Quest 2, Space Quest 6, Freddy Pharkas: Frontier Pharmacist, The Dagger of Amon Ra, The Adventures of Willy Beamish, Conquests of the Longbow, Torin's Passage, Caesar II[^ref-16]
+- July 2025: Gabriel Knight: Sins of the Fathers, Conquests of Camelot, Caesar[^ref-17]
+- September 2025: two Space Quest games[^ref-18]
+- December 2025: Police Quest II: The Vengeance, Codename: Iceman[^ref-19]
+- January 2026: Rise of the Dragon[^ref-20]
 
-The library expands monthly with ~4 new titles. Microsoft now owns Sierra IP through the Activision Blizzard acquisition, so expect more additions throughout 2026.
+New titles arrive in irregular batches rather than on a fixed monthly schedule.[^ref-17][^ref-18][^ref-19][^ref-20]
 
 ---
 
 ## Console, Mobile & VR
 
 **Current platforms:**
-- *Colossal Cave 3D Adventure* — Meta Quest, PS VR2, PS4/PS5, Nintendo Switch, Xbox, Steam (VR and flat-screen)
-- *Leisure Suit Larry: Wet Dreams Don't Dry / Dry Twice* — Xbox, PlayStation, Switch, iOS, Android
-- *King's Quest (2015)* — PlayStation, Xbox (digital)
+- *Colossal Cave* (Cygnus Entertainment's 3D remake) — PC, Mac, Linux, Steam Deck, PlayStation 5, Nintendo Switch and Meta Quest 2 at launch (January 19, 2023), later SteamVR, Xbox One/Series X|S, PlayStation 4, PlayStation VR2, Pico VR and iOS[^ref-21]
+- *Leisure Suit Larry: Wet Dreams Dry Twice* — also released on iOS and Android[^ref-14]
+- *King's Quest (2015)* — released for Windows, PlayStation 3/4 and Xbox 360/One[^ref-23]; on Steam the base app is free, with further chapters sold as add-on content[^ref-11]
 
 **Legacy console editions:** Titles like *Leisure Suit Larry: Magna Cum Laude*, *Box Office Bust*, and the Wii *King's Quest Collection* are out of print. Check backward compatibility before buying used copies.
 
@@ -83,44 +76,28 @@ The library expands monthly with ~4 new titles. Microsoft now owns Sierra IP thr
 
 ### eBay & Resale Markets
 
-Active marketplace for Sierra big box games. Sought-after items include:
-- **King's Quest series** — Early releases with cloth maps and manuals
-- **Gabriel Knight** — Triangular CD-ROM box with comic prequel is highly collectible
-- **Space Quest 2** — Complete boxes include a comic bridging SQ1 and SQ2
-- **Phantasmagoria** — 7-disc original release
+Sierra big-box games are actively traded on the resale market. For which boxed editions and compilations exist, see the [[Collections Guide]].
 
 **Tips:**
 - Inspect discs for rot (common on 1990s CDs)
 - Confirm CD keys aren't already registered to Steam/Battle.net
 - Factory-sealed copies command significant premiums
-- "Sierra Originals" budget re-releases are more affordable but less collectible
-
-### Retail Compilations
-
-- **Sierra 15th/20th Anniversary Collections** — Multi-disc Windows bundles with printed materials; common on eBay
-- **Vivendi "Best Sellers" line** — Late-90s jewel cases; often need patches from SierraHelp
-- **UK "Sold Out Software" releases** — Budget versions of Pharaoh, Zeus, Lords of the Realm II
 
 ---
 
 ## Bundles & Sales
 
-### GOG Sales
-Wait for seasonal sales—GOG frequently bundles Sierra collections at 50–75% off. The entire catalog often goes on sale during Summer and Winter events.
+### GOG and Steam Sales
+GOG and Steam both run seasonal sales that regularly include Sierra titles; discounts vary, so compare against the regular prices above. In October 2026, for example, both stores discounted the Wet Dreams games by 95%.[^ref-15]
 
 ### Humble Bundle
-The last Sierra-specific bundle was **Humble Sierra the 3rd** in June 2020 (Gabriel Knight, Phantasmagoria, Arcanum, Quest for Glory, etc.). No recent Sierra-specific bundles, but individual titles occasionally appear in Humble Choice.
-
-### Steam Sales
-Activision discounts Sierra collections during major sales (Summer, Black Friday, Winter). Discounts typically run 30–60% off.
+The last Sierra-specific bundle was **Humble Sierra the 3rd**, which ran May 5–19, 2020 (17 items in three tiers, including the Gabriel Knight games, Phantasmagoria 1–2, Arcanum, the Quest for Glory Collection and the King's Quest and Space Quest Collections).[^ref-22]
 
 ---
 
 ## Free & Fan-Made
 
-**Official Freeware:**
-- *Betrayal at Krondor* — Was briefly free on GOG; check current status
-- *King's Quest I–III* (AGI versions) — Occasionally offered free during promotions
+**Official Freeware:** None of the major Sierra adventures is currently offered free by its rights holder. *Betrayal at Krondor* is sold on GOG as the Betrayal at Krondor Pack ($5.99).[^ref-10]
 
 **Fan Remakes (Free Downloads):**
 - **AGD Interactive** — King's Quest I VGA, King's Quest II+, Quest for Glory II VGA
@@ -133,7 +110,7 @@ See [[Fan Resources]] for download links and project status.
 
 ## Preservation Tips
 
-1. **Back up installers** — Licensing disputes have delisted titles before (SWAT 3, Betrayal at Krondor temporarily)
+1. **Back up installers** — Titles do get delisted: the classic Leisure Suit Larry games left Steam in 2025, and the Wet Dreams games follow in October 2026[^ref-13][^ref-14]
 2. **Archive GOG offline installers** — They're DRM-free and yours to keep
 3. **Verify ownership before seeking alternatives** — Community patches and ScummVM require legal game data
 4. **Use recommended wrappers** — DOSBox, ScummVM, dgVoodoo2, and nGlide enhance compatibility
@@ -142,11 +119,7 @@ See [[Fan Resources]] for download links and project status.
 
 ## Regional Restrictions
 
-Some titles have purchase/activation restrictions:
-- **China:** Phantasmagoria 1–2, Police Quest Collection, Quest for Glory Collection blocked
-- **Multiple regions:** Gabriel Knight series restricted in China, Cuba, Iran, Libya, Myanmar, Pakistan, Sudan, Syria
-
-Check storefront availability before purchasing as a gift.
+Some storefront titles are not sold in every country. Check storefront availability in the recipient's region before purchasing as a gift.
 
 ---
 
@@ -159,3 +132,31 @@ Check storefront availability before purchasing as a gift.
 | Want physical collection | eBay (inspect carefully) |
 | Free fan remakes | AGD Interactive, Infamous Adventures |
 | Modern alumni games | Steam (Hero-U, SpaceVenture, etc.) |
+
+---
+
+## References
+
+[^ref-1]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) – "Includes the original King's Quest: Quest for the Crown, King's Quest II… and King's Quest III"; $9.99 (checked 2026-10-16)
+[^ref-2]: [GOG – Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) – Changelog (20 February 2026): "Space Quest 1: Added VGA version of the game"
+[^ref-3]: [GOG – Leisure Suit Larry](https://www.gog.com/en/game/leisure_suit_larry) – "Leisure Suit Larry's Greatest Hits and Misses features… Larry Laffer in five complete adventures"; $9.99
+[^ref-4]: [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) – "Includes both: VGA and original version of Quest for Glory 1"; $9.99
+[^ref-5]: [PCGamingWiki – Leisure Suit Larry in the Land of the Lounge Lizards](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards) – GOG: "Part of Leisure Suit Larry 1-6 bundle. Both EGA and VGA release are included."
+[^ref-6]: [GOG – Leisure Suit Larry: Love for Sail!](https://www.gog.com/en/game/leisure_suit_larry_love_for_sail) – Separate product, $5.99
+[^ref-7]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – PQ1–4; extras: manuals, map, reference cards, avatar; $9.99
+[^ref-8]: [GOG – Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) – Separate pack
+[^ref-9]: [GOG – Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) – GK1, GK2 and GK3 each $5.99; 20th Anniversary Edition $19.99 (GOG price API, checked 2026-10-16)
+[^ref-10]: [GOG – Betrayal at Krondor Pack](https://www.gog.com/en/game/betrayal_at_krondor) – $5.99; GOG store pages for Phantasmagoria, Phantasmagoria 2, Torin's Passage, Shivers, Arcanum, Caesar 3, Pharaoh + Cleopatra, Zeus + Poseidon, Red Baron Pack and SWAT 3 live on 2026-10-16, while the old RAMA, Aces and Incredible Machine Mega Pack URLs redirect to the catalogue
+[^ref-11]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – "Seven classic games in one collection"; Steam store data checked 2026-10-16 for the Space Quest, QFG, Police Quest, Gabriel Knight, Phantasmagoria, King's Quest (2015) and modern-title pages listed above
+[^ref-12]: [GameZebo – King's Quest I review (Wayback, 2013)](http://web.archive.org/web/20131113034647/http://www.gamezebo.com:80/games/kings-quest-i-quest-crown/review) – "The version of King's Quest included in the King's Quest Collection is an updated version from 1990"
+[^ref-13]: [VGC – The first seven Leisure Suit Larry games are being delisted from Steam](https://www.videogameschronicle.com/news/the-first-seven-leisure-suit-larry-games-are-being-delisted-from-steam/) – Chris Scullion, 1 May 2025
+[^ref-14]: [Steam – "Larry Is Retiring Soon" (Assemble Entertainment announcement)](https://store.steampowered.com/news/app/765870/view/1846018067930701) – "will only be available on Steam until October 23. After that, both games will be removed from the store."; Steam news also announced Dry Twice's iOS and Android release
+[^ref-15]: [VGC – After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them](https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/) – 95% discount on Steam, GOG and Switch; earlier games "remained on GOG and are still there"
+[^ref-16]: [IGN – Microsoft Announces Retro Classics With Game Pass](https://www.ign.com/articles/microsoft-announces-retro-classics-with-game-pass-kicks-things-off-with-over-50-activision-games-from-the-80s-and-90s) – Wesley Yin-Poole, May 21, 2025: collaboration with Antstream Arcade; launch list
+[^ref-17]: [Multiplayer.it – Retro Classics adds 7 games](https://multiplayer.it/notizie/la-libreria-di-retro-classics-per-game-pass-si-arricchisce-di-7-giochi.html) – Caesar, Conquests of Camelot, Gabriel Knight: Sins of the Fathers among the additions
+[^ref-18]: [TrueAchievements – Retro Classics September 2025 update](https://www.trueachievements.com/news/xbox-game-pass-retro-classics-september-2025) – "adds four more games… including the two Space Quest titles"
+[^ref-19]: [TrueAchievements – Retro Classics December 2025](https://www.trueachievements.com/news/xbox-game-pass-retro-classics-december-2025) – Codename: Iceman, Police Quest II: The Vengeance
+[^ref-20]: [TrueAchievements – Retro Classics January 2026](https://www.trueachievements.com/news/xbox-game-pass-retro-classics-january-2026) – Rise of the Dragon
+[^ref-21]: [Colossal Cave – Official Press Fact Sheet (Wayback, December 2024)](https://web.archive.org/web/20241218130847/https://colossalcave3d.com/press/) – Release dates and platform list
+[^ref-22]: [SteamGifts – Humble Sierra the 3rd Bundle](https://www.steamgifts.com/discussion/yQysW/humble-bundle-humble-sierra-the-3rd-bundle) – "3 Tiers, 17 Items 05 May 2020 - 19 May 2020"; tier contents
+[^ref-23]: [Wikipedia – King's Quest (2015 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)) – Platforms: Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One
