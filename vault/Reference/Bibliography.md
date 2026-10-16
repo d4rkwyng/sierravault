@@ -116,7 +116,6 @@ Use these to confirm a title's existence or to source screenshots, but never as 
 - **[AbandonwareDOS](https://www.abandonwaredos.com)** — DOS-era specialist; useful for screenshots and box art.[^ref-abandonwaredos]
 - **[Home of the Underdogs (homeoftheunderdogs.net)](http://www.homeoftheunderdogs.net)** — Cult-classic preservation site, sometimes the only source for obscure Sierra-era titles.[^ref-hotu]
 - **[ClassicReload](https://classicreload.com)** — Browser-playable preservation; cite for existence/playability confirmation.[^ref-classicreload]
-- **[CDRomance](https://cdromance.org)** — ScummVM-ready download collections.[^ref-cdromance]
 - **[Internet Archive Wayback Machine](https://web.archive.org)** — Universal fallback for any URL that has since gone dark. The vault's dead-URL worklist tracks Wayback availability.[^ref-wayback]
 
 ---
@@ -199,7 +198,6 @@ Before adding a citation to a vault page:
 [^ref-abandonwaredos]: [AbandonwareDOS](https://www.abandonwaredos.com) — DOS specialist
 [^ref-hotu]: [Home of the Underdogs](http://www.homeoftheunderdogs.net) — Cult-classic preservation
 [^ref-classicreload]: [ClassicReload](https://classicreload.com) — Browser preservation
-[^ref-cdromance]: [CDRomance](https://cdromance.org) — ScummVM downloads
 [^ref-wayback]: [Internet Archive Wayback Machine](https://web.archive.org) — URL preservation
 [^ref-gog]: [GOG.com](https://www.gog.com) — Digital re-releases
 [^ref-steam]: [Steam](https://store.steampowered.com) — Digital storefront
