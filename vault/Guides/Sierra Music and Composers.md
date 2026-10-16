@@ -91,7 +91,7 @@ Allen later noted that working on the Space Quest series was his favorite assign
 
 ### Al Lowe – Designer and Composer
 
-[[Al Lowe]], born 1946 in Chesterfield, Missouri, brought a unique perspective to game design with his degree in music education and background as a jazz artist.[^ref-14][^ref-15] His compositions for the Leisure Suit Larry series remain iconic.
+[[Al Lowe]], born 1946 in Chesterfield, Missouri, brought a unique perspective to game design with his degree in music education and background as a jazz artist.[^ref-15] His compositions for the Leisure Suit Larry series remain iconic.
 
 The Leisure Suit Larry theme song was based on "Alexander's Ragtime Band," chosen because Lowe felt "it sounded so unusual, so different, so fresh compared to most computer game music."[^ref-16] Created casually with the attitude of "what the hell? It was only for a computer game," Lowe later marveled that his "silly little ditty would be heard by millions of gamers, many of whom have sworn revenge against me for making it so 'whistle-able' that they can't get it out of their heads."[^ref-16]
 
@@ -204,7 +204,6 @@ Allen launched a Kickstarter project titled "Under the Half Dome" to create "hig
 [^ref-11]: [MobyGames – Mark Seibert Credits](https://www.mobygames.com/person/4548/mark-seibert/credits/) — 159 credits, 54 games verified
 [^ref-12]: [Mark Seibert Personal Website](http://www.markseibert.com/Sierra.htm) — "Girl in the Tower" composition, personal reflections
 [^ref-13]: [Choicest Games – Ken Allen Kickstarter](https://www.choicestgames.com/2013/01/ex-sierra-composer-ken-allen-commences.html) — Golden age adventure gaming, fan-requested tracks
-[^ref-14]: [People Pill – Al Lowe](https://peoplepill.com/i/al-lowe) — Birth year 1946, jazz background
 [^ref-15]: [Wikipedia – Al Lowe](https://en.wikipedia.org/wiki/Al_Lowe) — Music education degree, career overview
 [^ref-16]: [Adventure Classic Gaming – Al Lowe Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/199/) — Larry theme creation story, "Alexander's Ragtime Band" inspiration, May 11 1987 date
 [^ref-17]: [Wikipedia – Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight%3A_Sins_of_the_Fathers) — Robert Holmes composer credits
