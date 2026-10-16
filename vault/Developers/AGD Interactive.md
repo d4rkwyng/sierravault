@@ -3,75 +3,67 @@ title: "AGD Interactive"
 type: developer
 founded: 2001
 defunct: null
-headquarters: "United States"
+headquarters: "United States / Australia"
 notable_games: ["King's Quest I VGA Remake", "Quest for Glory II VGA Remake", "King's Quest III Redux"]
 parent_company: null
 related_companies: ["Himalaya Studios"]
-last_updated: "2026-05-08"
+last_updated: "2026-10-15"
 ---
 # AGD Interactive
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-AGD Interactive (originally "Anonymous Game Developers Interactive") is an American independent video game development studio founded in 2001, specializing in creating high-quality VGA remakes of classic Sierra On-Line adventure games.[^ref-1][^ref-2] Originally operating under the name "Tierra Entertainment" before adopting their current name in December 2003, the studio gained recognition for their meticulous attention to detail in recreating beloved point-and-click adventures with modern graphics, sound, and interface improvements while maintaining the original gameplay and storylines that made these games legendary.[^ref-3][^ref-4]
+AGD Interactive (AGDI, "Anonymous Game Developers Interactive") is an independent, non-commercial game development group founded in 2001 that makes enhanced remakes of classic Sierra On-Line adventure games and releases them as free downloads.[^ref-8][^ref-10] It began as Tierra Entertainment and adopted the AGD Interactive name on December 10, 2003.[^ref-8][^ref-14] Wikipedia describes it as an LLC and a "non-profit company," and Adventure Classic Gaming called it "a nonprofit independent game development team."[^ref-8][^ref-23]
 
-Founded by Britney Brimhall and Christopher Warren, AGD Interactive has become synonymous with preserving gaming history through their acclaimed remakes of titles from the King's Quest and Quest for Glory series.[^ref-5] The studio operates as a non-profit organization, releasing all of their games as freeware to honor the original creators and ensure these classic adventures remain accessible to new generations of players.[^ref-6][^ref-7] Their work has been praised by both critics and fans for maintaining the spirit of the original games while addressing technical limitations and design issues present in the 1980s and 1990s versions.[^ref-8][^ref-9]
+AGDI was founded by Britney K. Brimhall and Christopher T. Warren.[^ref-8] Its remakes, King's Quest I VGA (2001), King's Quest II+: Romancing the Stones (2002), Quest for Glory II: Trial by Fire (2008) and King's Quest III Redux: To Heir is Human (2011), are all built with Adventure Game Studio and released as freeware.[^ref-8][^ref-6] Its stated aim is "to remake classic Sierra On-Line adventure games, enhance them to modern standards, and then offer them as free downloads."[^ref-10]
 
-In 2004, the same founders established **[[Himalaya Studios]]** as a separate commercial venture to create original adventure games in the spirit of classic Sierra titles, while AGD Interactive continued its focus on free remakes.[^ref-21] The two studios share leadership and creative vision but serve different purposes: AGD Interactive preserves gaming history through freeware remakes, while [[Himalaya Studios]] develops original commercial titles like *Al Emmo and the Lost Dutchman's Mine* (2006) and *Mage's Initiation: Reign of the Elements* (2019).[^ref-22]
+In 2004, the same founders established **[[Himalaya Studios]]**, a commercial company that makes original adventure games, while AGD Interactive continued its free remakes.[^ref-21][^ref-23] Himalaya's titles include *Al Emmo and the Lost Dutchman's Mine* (2006) and *Mage's Initiation: Reign of the Elements* (2019).[^ref-21][^ref-22]
 
 ## History
 
 ### Founding and Early Years
 
-The studio that would become AGD Interactive was originally established as **Tierra Entertainment** by Britney Brimhall and Christopher Warren, Sierra On-Line enthusiasts who were concerned about the accessibility and playability of classic adventure games on modern computer systems.[^ref-10][^ref-11] The founders, who had grown up playing Sierra's iconic adventure series, recognized that many of these influential games were becoming increasingly difficult to run on contemporary hardware and operating systems.[^ref-12]
+According to Brimhall, the team formed when she, an old college friend and a friend from an earlier fan Quest for Glory project set out to make a quick King's Quest I parody. "We assumed we'd be taking a sabbatical for about two weeks to finish what we felt was a really small project." Instead, "it took us nearly 9 months to complete the King's Quest I VGA remake," and about halfway through they dropped the parody idea for a one-to-one remake.[^ref-23] Warren had started a Quest for Glory II remake on his own in late 2000, before the King's Quest projects began.[^ref-13]
 
-On December 10, 2003, the studio ceased using the name Tierra Entertainment and rebranded as **AGD Interactive** (where AGD stands for "Anonymous Game Developer").[^ref-8] This name change reflected the team's desire to maintain anonymity while gaining broader recognition for their work.
+On December 10, 2003, the group stopped using the name Tierra Entertainment and became **AGD Interactive** (AGD standing for "Anonymous Game Developer").[^ref-8] Brimhall explained that after the team cancelled its *Royal Quest* parody, "we felt that the name was sort of gimmicky, and relied too much on Sierra's name," and fans had grown used to the AGD acronym, "so we decided to make a departure from Sierra and officially go with AGD Interactive."[^ref-23] Its two leads have since been credited as "Anonymous Game Designer #1" (Brimhall) and "Anonymous Game Developer #2" (Warren).[^ref-8]
 
-The studio's first major project was the development of a VGA remake of King's Quest I: Quest for the Crown, originally released by Sierra in 1984.[^ref-13] This ambitious undertaking involved completely rebuilding the game from scratch using modern development tools while preserving the original's puzzles, storyline, and character interactions.[^ref-14] The team spent considerable time researching the original game design documents and consulting with Sierra veterans to ensure authenticity in their remake.[^ref-15]
+### Relationship with Sierra and Vivendi
 
-### The Sierra Legacy Era
+AGDI's remakes were made with the knowledge of Sierra's owner. Asked in 2006 whether Sierra had contacted the team, Brimhall said: "yes—we were contacted both by past and present employees, supporting our work, and Vivendi Universal (VU) themselves. We had made it apparent from the get go that we would discontinue our project if VU decided it was inappropriate. Luckily, this never happened and we now have permission to create these games."[^ref-23]
 
-AGD Interactive's relationship with Sierra's legacy began during a period when the original company was undergoing significant changes under Vivendi Universal ownership.[^ref-16] Rather than seeking official licensing deals, the studio chose to operate under fair use provisions, creating their remakes as tribute works that would be distributed freely to the gaming community.[^ref-17] This approach allowed them to maintain creative independence while avoiding the complex legal and financial constraints that would have come with commercial development.[^ref-18]
+King's Quest I VGA was released free on August 8, 2001.[^ref-8] King's Quest II+: Romancing the Stones followed on December 3, 2002, and won the 2002 AGS Awards for Best Game, Best Story, Best Animation, Best Music, Best Scripting and Best Documentation.[^ref-8]
 
-The release of King's Quest I VGA in 2001 marked a turning point for the studio, earning widespread acclaim from adventure gaming communities and establishing AGD Interactive as the premier developer of Sierra remakes.[^ref-19] The success of this project led to immediate planning for King's Quest II+: Romancing the Stones, which would become even more ambitious in scope, featuring expanded storylines and additional content beyond the original 1985 release.[^ref-20]
+### Later Remakes
 
-### Continued Innovation and Recognition
+Quest for Glory II was released on August 24, 2008, "after nearly 8 years in development."[^ref-8][^ref-13] Warren described it as "a one-man project in 2000" whose development resumed after King's Quest II+'s voice pack in 2003, with a refinement stage from 2005 to 2008.[^ref-13] In 2005 the team visited Oakhurst to meet Quest for Glory creators Lori Ann and Corey Cole. Through them they saw some of the original design documents, from which they pulled scrapped material for a new mini-game.[^ref-13]
 
-Following the success of their King's Quest remakes, AGD Interactive expanded their focus to include other beloved Sierra properties, most notably the Quest for Glory series.[^ref-8] Their 2008 release of Quest for Glory II VGA represented a massive technical achievement, transforming the original text-parser interface into a modern point-and-click adventure while preserving the complex character development and multiple solution paths that defined the series.[^ref-7][^ref-9]
-
-The studio's most recent major release, King's Quest III Redux: To Heir is Human in 2011, demonstrated their continued evolution as developers, featuring original voice acting, enhanced storylines, and sophisticated programming that addressed many of the frustrations players experienced with the original 1986 version.[^ref-3][^ref-4] This project took several years to complete and showcased the team's commitment to quality over speed, with extensive beta testing and community feedback integration throughout development.[^ref-5]
+AGDI released King's Quest III Redux: To Heir is Human on February 24, 2011.[^ref-4] The studio described it as featuring "beautiful storybook artwork, an enchanting musical score, full voice acting, new scenes, quests, characters, and locations to explore."[^ref-4] Wikipedia notes that it is not a one-to-one remake and continues the non-canon story begun in King's Quest II+.[^ref-8]
 
 ## Notable Games
 
 ### King's Quest I VGA Remake (2001)
 
-AGD Interactive's debut release transformed Roberta Williams' original 1984 text-adventure into a fully-featured point-and-click experience with 256-color VGA graphics and a completely redesigned interface.[^ref-1] The remake preserved all of the original puzzles and storylines while adding quality-of-life improvements such as a modern save system, mouse support, and enhanced character animations.[^ref-2] The game received widespread praise from adventure gaming communities and established AGD Interactive as a serious developer capable of honoring Sierra's legacy while modernizing classic gameplay.[^ref-13]
+AGDI's first release remade Roberta Williams' 1984 parser-driven graphic adventure King's Quest I: Quest for the Crown as a point-and-click game.[^ref-8] Wikipedia reports that in the month of its release, sales of Sierra's King's Quest VIII: The Mask of Eternity "skyrocketed." Version 4.0, released on January 17, 2009, added enhanced backgrounds, narration and an option to remove dead-end situations.[^ref-8]
 
 ### Quest for Glory II VGA Remake (2008)
 
-Widely considered AGD Interactive's masterpiece, the Quest for Glory II VGA remake represented seven years of development effort to transform one of Sierra's most beloved but technically challenging adventures.[^ref-8] The original 1990 release was known for its innovative blend of adventure and RPG elements but suffered from a difficult text-parser interface and technical limitations.[^ref-9] AGD's version maintained all of the character customization, multiple character classes, and branching storylines while implementing a intuitive point-and-click interface and stunning hand-drawn artwork that rivals the original Sierra productions.[^ref-7]
+The Quest for Glory II remake adds content cut from the original, such as a Saurus Repair Shop, along with a more interactive battle system, more dialogue options and an optional simplified alleyway layout.[^ref-8] Polygon counted it among the best fan remakes of a video game, and PC World's Jim Norris called it a "hand-polished classic" and the best of AGDI's remakes.[^ref-8] On the project, Warren handled direction, animation and scripting, and Brimhall drew the character portraits and some close-up art.[^ref-13]
 
 ### King's Quest III Redux: To Heir is Human (2011)
 
-The studio's most ambitious project to date, King's Quest III Redux completely reimagined the 1986 original with extensive story expansions, professional voice acting, and sophisticated programming that eliminated the frustrating timing-based puzzles that plagued the original version.[^ref-3] The Redux featured multiple difficulty settings, hint systems, and alternative puzzle solutions while maintaining the core narrative of Prince Alexander's escape from the wizard Manannan.[^ref-4] This release demonstrated AGD Interactive's maturity as developers, showing their ability to improve upon Sierra's original designs while respecting the creative vision of Roberta Williams.[^ref-5]
+King's Quest III Redux continues from AGDI's King's Quest II+ and adds new scenes, quests, characters and locations to the 1986 original, along with full voice acting.[^ref-4][^ref-8]
 
 ## Key People
 
-**Britney Brimhall** ("Anonymous Game Designer #1") and **Christopher Warren** ("Anonymous Game Developer #2") co-founded both AGD Interactive and [[Himalaya Studios]], leading all major projects for both studios.[^ref-23] Brimhall handles design and artistic direction while Warren focuses on programming and technical development.[^ref-24] The pair met through their shared passion for Sierra adventure games and have maintained leadership of both studios for over two decades.
-
-The core team at AGD Interactive has remained relatively stable throughout the studio's history, with the founding members continuing to lead major projects.[^ref-10] The programming team includes specialists in Sierra's original AGI and SCI engines, allowing them to understand the technical limitations and design decisions that shaped the original games.[^ref-12]
-
-The artistic team consists of traditional illustrators and digital artists who specialize in recreating the distinctive visual style of Sierra's golden age while incorporating modern techniques and higher resolutions.[^ref-15] Voice acting direction and sound design are handled by team members with professional audio production experience, ensuring that new content seamlessly integrates with existing Sierra voice work where appropriate.[^ref-16]
+**Britney K. Brimhall** ("Anonymous Game Designer #1") and **Christopher T. Warren** ("Anonymous Game Developer #2") co-founded both AGD Interactive and [[Himalaya Studios]].[^ref-8][^ref-22] Brimhall, a graduate of Arizona State University, later became chairman and CEO of Himalaya Studios.[^ref-23] She has described moving to Australia to work with her AGD Interactive co-founder on the team's first original title.[^ref-23]
 
 ## Legacy
 
-AGD Interactive's impact on adventure gaming extends far beyond their individual releases, inspiring numerous other fan projects and remake efforts across the gaming community.[^ref-17] Their success demonstrated that there was significant demand for classic adventure games when presented with modern accessibility and technical polish.[^ref-18] The studio's commitment to releasing high-quality freeware has preserved important gaming history while introducing these classic stories and gameplay mechanics to players who might never have experienced the originals.[^ref-19]
+Himalaya Studios describes AGD Interactive's titles as having been "downloaded by millions of fans."[^ref-22] In 2011, the company said that King's Quest III Redux was its "most polished remake ever."[^ref-4]
 
-The founding of [[Himalaya Studios]] as a commercial counterpart in 2004 allowed the team to pursue original game development while maintaining AGD Interactive's nonprofit mission.[^ref-21] [[Himalaya Studios]] has released titles including *Al Emmo and the Lost Dutchman's Mine* (2006) and *Mage's Initiation: Reign of the Elements* (2019), both of which capture the spirit of classic Sierra adventures while telling original stories.[^ref-22] This dual-studio model has allowed Brimhall and Warren to both preserve gaming history and create new adventures in the Sierra tradition.
-
-The technical achievements of AGD Interactive have also contributed to the broader preservation of Sierra's development tools and techniques, with their reverse-engineering efforts providing valuable documentation for gaming historians and other developers.[^ref-20] Their approach to remake development has become a model for other fan projects, emphasizing respect for original creators, quality over speed, and community engagement throughout the development process.[^ref-6]
+The founding of [[Himalaya Studios]] in 2004 let the team pursue original games while AGD Interactive kept releasing free remakes.[^ref-21][^ref-23] Himalaya was set up as a limited liability company in Chandler, Arizona, and was incorporated as a C corporation in Delaware in 2011.[^ref-21]
 
 ## Games
 
@@ -82,27 +74,12 @@ The technical achievements of AGD Interactive have also contributed to the broad
 
 ## References
 
-[^ref-1]: [PlayOld Games - AGD Interactive Developer Profile](https://playold.games/list/developer/agd-interactive/) — Company overview and game listings
-[^ref-2]: [VOGONS Forum Discussion](https://www.vogons.org/viewtopic.php?t=71915) — Technical details about AGD Interactive remakes
-[^ref-3]: [Reddit Sierra Community Discussion](https://www.reddit.com/r/Sierra/comments/inmj3y/agd_interactive_remakes_any_good/) — Community reception and quality assessment
-[^ref-4]: [AGD Interactive Official Website](https://www.agdinteractive.com/) — Official company information and game downloads
-[^ref-5]: [All The Tropes - AGD Interactive](https://allthetropes.org/wiki/AGD_Interactive) — Company background and notable works
-[^ref-6]: [TV Tropes - AGD Interactive Creator Page](https://tvtropes.org/pmwiki/pmwiki.php/Creator/AGDInteractive) — Creator profile and game analysis
-[^ref-7]: [Reddit Sierra Discussion - New Remakes](https://www.reddit.com/r/Sierra/comments/rvt45v/any_new_agd_interactive_remakes_out_or_on_the_way/) — Recent projects and community expectations
-[^ref-8]: [Wikipedia - AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) — Comprehensive company history and game details
-[^ref-9]: [Gamicus - AGD Interactive](https://gamicus.fandom.com/wiki/AGD_Interactive) — Developer profile and game catalog
-[^ref-10]: [AGD Interactive About Page](https://www.agdinteractive.com/about/about.html) — Official company history and mission statement
-[^ref-11]: [IGDB - AGD Interactive Company Profile](https://www.igdb.com/companies/agd-interactive) — Database entry with company statistics
-[^ref-12]: [Games Nostalgia - AGD Interactive Games](https://gamesnostalgia.net/games/company/agd-interactive) — Game collection and developer overview
-[^ref-13]: [Adventure Classic Gaming Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/403/) — Developer interview and industry insights
-[^ref-14]: [MobyGames - AGD Interactive LLC](https://www.mobygames.com/company/2734/agd-interactive-llc/) — Comprehensive game database and company information
-[^ref-15]: [Wikidata - AGD Interactive](https://www.wikidata.org/wiki/Q3643494) — Structured data about the company
-[^ref-16]: [Tracxn - AGD Interactive Company Profile](https://tracxn.com/d/companies/agd-interactive/__xYHqLfJdrIff72i6vYAe5cdmldxoANZrCeQLHcZM4Nw) — Business profile and company metrics
-[^ref-17]: [Giant Bomb - AGD Interactive](https://www.giantbomb.com/agd-interactive/3010-2225/) — Gaming database profile and game listings
-[^ref-18]: [RZ Feeser Blog - AGD Interactive Studios](https://www.rzfeeser.com/blog/agd-interactive-studios-adventure-games-live-again) — Industry analysis and company impact
-[^ref-19]: [Sierra Classic Gaming - AGD Interactive (archived)](https://web.archive.org/web/20260606203833/http://sierraclassicgaming.com/developer/agd-interactive/) — Developer profile focused on Sierra connections
-[^ref-20]: [Gamia Archive - AGD Interactive](https://gamia-archive.fandom.com/wiki/AGD_Interactive) — Archived gaming wiki entry with historical information
-[^ref-21]: [Wikipedia - [[Himalaya Studios]]](https://en.wikipedia.org/wiki/Himalaya_Studios) — [[Himalaya Studios]] founding and relationship to AGDI
-[^ref-22]: [[Himalaya Studios]] Official Website](https://www.himalayastudios.com/about.php) — Company background and original game development
-[^ref-23]: [Adventure Classic Gaming - Britney Brimhall Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/210/) — Co-founder interview on forming both companies
-[^ref-24]: [Reddit AMA - AGD Interactive/[[Himalaya Studios]]](https://www.reddit.com/r/IAmA/comments/1aeyg7/we_are_the_development_team_behind_the_kings/) — Development team Q&A on both studios
+[^ref-4]: [AGD Interactive Official Website](https://www.agdinteractive.com/) — February 24, 2011 update announcing King's Quest III Redux
+[^ref-6]: [TV Tropes - AGD Interactive Creator Page](https://tvtropes.org/pmwiki/pmwiki.php/Creator/AGDInteractive) — Creator profile; remakes released as freeware
+[^ref-8]: [Wikipedia - AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) — Founding 2001, Tierra rename (Dec 10, 2003), release dates, AGS Awards, Adventure Game Studio, reception
+[^ref-10]: [AGD Interactive About Page](https://www.agdinteractive.com/about/about.html) — Official mission statement: remake Sierra classics and offer them as free downloads
+[^ref-13]: [Adventure Classic Gaming - Chris Warren and Stijn van Empel interview (September 7, 2008)](http://www.adventureclassicgaming.com/index.php/site/interviews/403/) — Quest for Glory II remake history (begun late 2000, nearly 8 years), 2005 Oakhurst visit with the Coles, team roles
+[^ref-14]: [MobyGames - AGD Interactive LLC](https://www.mobygames.com/company/2734/agd-interactive-llc/) — Company entry (formerly Tierra Entertainment) and game list
+[^ref-21]: [Wikipedia - Himalaya Studios](https://en.wikipedia.org/wiki/Himalaya_Studios) — LLC founded 2004 in Chandler, Arizona; Delaware C corporation 2011; Al Emmo (2006), Mage's Initiation (2019)
+[^ref-22]: [Himalaya Studios - About](https://www.himalayastudios.com/about.php) — Co-founders Chris Warren and Britney Brimhall previously co-established AGDInteractive, LLC
+[^ref-23]: [Adventure Classic Gaming - Britney Brimhall Interview (May 26, 2006)](http://www.adventureclassicgaming.com/index.php/site/interviews/210/) — Team origins, Tierra rename, Vivendi Universal permission, Himalaya co-founded 2004
