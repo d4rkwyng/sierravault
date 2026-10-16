@@ -6,110 +6,83 @@ defunct: null
 headquarters: "Frisco, Texas, USA"
 notable_games: ["Borderlands", "Half-Life: Opposing Force", "Brothers in Arms"]
 parent_company: "Take-Two Interactive"
-last_updated: "2026-05-08"
+last_updated: "2026-10-16"
 ---
 # Gearbox Software
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
-Gearbox Software stands as one of the most distinctive and enduring independent video game developers in the industry, founded in 1999 by Randy Pitchford, Stephen Bahl, Landon Montgomery, Brian Martel, and Rob Heironimus.[^ref-1] Originally established as a studio specializing in expansion packs and supplementary content for major franchises, Gearbox evolved into a powerhouse developer known for creating original intellectual properties that blend humor, innovation, and distinctive visual styles.[^ref-2] The company has built its reputation on taking creative risks and developing games that stand apart from mainstream trends, most notably with the Borderlands franchise that revolutionized the looter-shooter genre.[^ref-3]
+Gearbox Software is an American game developer based in Frisco, Texas. It was founded in February 1999 by Randy Pitchford, Brian Martel, Stephen Bahl, Landon Montgomery and Rob Heironimus, five developers formerly of Rebel Boat Rocker.[^ref-3][^ref-8] It began by making expansions for Valve's Half-Life, three of which Sierra published: Opposing Force (1999), Blue Shift (2001) and Decay (2001, part of the PlayStation 2 version of Half-Life).[^ref-3][^ref-51][^ref-52][^ref-50] It later created the Brothers in Arms and Borderlands series.[^ref-3]
 
-Based in Frisco, Texas, Gearbox Software has weathered multiple industry changes, ownership transitions, and market shifts while maintaining its creative independence and distinctive development philosophy.[^ref-4] The studio's journey from creating acclaimed Half-Life expansions to developing one of gaming's most beloved original franchises represents a unique success story in an industry often dominated by large publishers and corporate mandates.[^ref-5] Under Randy Pitchford's leadership as president and CEO, Gearbox has consistently pursued projects that align with the team's passion rather than purely commercial considerations, leading to both critical acclaim and commercial success across multiple decades.[^ref-6]
+Gearbox Entertainment, its parent company, was acquired by Embracer Group in April 2021, and sold to Take-Two Interactive in a deal announced in March 2024 and closed on June 12, 2024.[^ref-3][^ref-22][^ref-23][^ref-48]
 
 ## History
 
-### Founding and Early Years
+### Founding
 
-Gearbox Software was founded in February 1999 by five former 3D Realms employees who sought to establish their own creative vision in game development.[^ref-7] Randy Pitchford, who had previously worked on Duke Nukem 3D at 3D Realms, led the founding team alongside programmer Stephen Bahl, artist Brian Martel, designer Landon Montgomery, and producer Rob Heironimus.[^ref-8] The company's initial strategy focused on creating high-quality expansion content for established franchises, allowing the small team to build expertise while working with proven intellectual properties.[^ref-9]
+Sources differ slightly on the founding date. Wikipedia and the Counter-Strike Wiki give February 16, 1999, and Gearbox's own About page says February 1999, while MobyGames says January 1999.[^ref-3][^ref-8][^ref-1][^ref-7]
 
-Their breakthrough came with the opportunity to develop Half-Life: Opposing Force for Valve Corporation in 1999, which marked Gearbox's first major commercial release and established their reputation for understanding and expanding upon existing game worlds.[^ref-10] The success of Opposing Force, which presented the Black Mesa incident from the perspective of a military operative rather than scientist Gordon Freeman, demonstrated Gearbox's ability to create compelling narrative experiences that complemented rather than competed with source material.[^ref-11] This project was followed by Half-Life: Blue Shift in 2001, further cementing their relationship with Valve and their expertise in the Half-Life universe.[^ref-12]
+All five founders had worked together at Rebel Boat Rocker. Before that, Pitchford and Martel had worked together at 3D Realms, and Montgomery had worked at Bethesda Softworks.[^ref-3][^ref-7] The Counter-Strike Wiki says the team left Rebel Boat Rocker after its game Prax Wars was cancelled.[^ref-8] According to Wikipedia, the company employed 15 people by 2000.[^ref-3]
 
-### Sierra Era
+### Sierra-Published Work (1999–2001)
 
-Gearbox's relationship with Sierra Entertainment became pivotal during the early 2000s, as Sierra published several of their key projects and provided the resources necessary for larger-scale development.[^ref-13] The partnership allowed Gearbox to take on more ambitious projects, including Counter-Strike: Condition Zero in 2004, which represented their first attempt at developing a competitive multiplayer experience.[^ref-14] While Condition Zero received mixed reception compared to the original Counter-Strike, it provided valuable experience in multiplayer game design that would later influence their approach to cooperative gameplay in future titles.[^ref-8]
+Gearbox's first game was Half-Life: Opposing Force, an expansion pack developed by Gearbox and published by Sierra On-Line on November 19, 1999.[^ref-51] Half-Life: Blue Shift followed as a standalone Windows release on June 12, 2001, also published by Sierra; it had originally been intended as part of a Dreamcast port of Half-Life that was cancelled.[^ref-52] Gearbox also ported Half-Life to the PlayStation 2, adding the two-player co-operative expansion Half-Life: Decay, which was published by Sierra On-Line in 2001.[^ref-50][^ref-7]
 
-During this period, Gearbox began developing their most ambitious original project yet: Brothers in Arms, a World War II tactical shooter that emphasized squad-based combat and historical authenticity.[^ref-2] The Brothers in Arms series, beginning with Road to Hill 30 in 2005, showcased Gearbox's ability to create original intellectual property that combined innovative gameplay mechanics with compelling storytelling.[^ref-7] The series' focus on tactical combat and emotional narrative depth distinguished it from other World War II shooters of the era, establishing Gearbox as a developer capable of creating meaningful original content.[^ref-5]
+### Counter-Strike: Condition Zero (2001–2002)
 
-### Later Years and Current Status
+Gearbox took over development of Counter-Strike: Condition Zero in late May 2001, after finishing Blue Shift, and stopped work on it in July 2002.[^ref-8] Its version of the game was never released. Condition Zero was eventually finished by other studios and released in 2004; the shipped game combined Turtle Rock Studios' Tour of Duty campaign with Ritual Entertainment's Deleted Scenes, as described on the vault's [[2004 - Counter-Strike - Condition Zero|Condition Zero]] page.
 
-The late 2000s marked a transformative period for Gearbox as they began development on Borderlands, a project that would ultimately define their creative identity and commercial success.[^ref-3] Released in 2009, Borderlands combined first-person shooting with role-playing game elements and a distinctive cel-shaded art style, creating an entirely new subgenre that competitors continue to emulate.[^ref-11] The game's success led to a franchise that has sold over 75 million copies worldwide, establishing Gearbox as a major force in the gaming industry.[^ref-21]
+### Later Years
 
-In recent years, Gearbox has experienced significant corporate changes, including a brief ownership by Embracer Group before being acquired by Take-Two Interactive in 2024.[^ref-22] The Take-Two acquisition, valued at approximately $460 million, brought Gearbox under the same corporate umbrella as their long-time publishing partner 2K Games, providing stability and resources for future projects.[^ref-23] Despite ownership changes, the company has maintained its creative independence and commitment to developing distinctive gaming experiences that prioritize player enjoyment over industry trends.[^ref-4]
+Around 2002 Gearbox began working with other publishers. In 2005 it launched its own property, Brothers in Arms, with Brothers in Arms: Road to Hill 30, published by Ubisoft.[^ref-3][^ref-7] Borderlands followed in 2009, published by 2K, and became the company's second original series.[^ref-3] In May 2025 Take-Two reported that the Borderlands series had sold nearly 93 million units, according to Gamereactor's account of its quarterly report.[^ref-49]
 
-## Notable Games
-
-### Borderlands (2009)
-
-Borderlands represents Gearbox Software's greatest creative and commercial achievement, introducing the "looter-shooter" genre that combines first-person shooting mechanics with deep role-playing game progression systems.[^ref-5] The game's development began as an attempt to create a more accessible role-playing experience that maintained the immediate satisfaction of action games, resulting in a unique hybrid that appealed to both RPG enthusiasts and shooter fans.[^ref-3] Its distinctive cel-shaded visual style, irreverent humor, and emphasis on cooperative multiplayer created a gaming experience unlike anything available at the time, establishing a template that numerous developers have since attempted to replicate.[^ref-14]
-
-The success of Borderlands spawned a franchise that includes multiple sequels, spin-offs, and even a feature film adaptation, demonstrating the lasting appeal of Gearbox's original creation.[^ref-13] The series has been praised for its inclusive approach to character design, progressive themes, and commitment to providing meaningful content updates and downloadable expansions that extend the gameplay experience far beyond the initial release.[^ref-12]
-
-### Half-Life: Opposing Force (1999)
-
-Half-Life: Opposing Force marked Gearbox Software's commercial debut and remains one of the most highly regarded expansion packs in gaming history.[^ref-10] The game presented the Black Mesa incident from the perspective of Adrian Shephard, a U.S. Marine tasked with containing the disaster, providing an entirely new perspective on the events of the original Half-Life.[^ref-8] Gearbox's approach to the expansion demonstrated sophisticated understanding of narrative design, creating a story that complemented Valve's original while introducing new weapons, enemies, and gameplay mechanics that felt consistent with the established universe.[^ref-7]
-
-The expansion's success established Gearbox as masters of supplementary content creation, leading to additional opportunities with major publishers and laying the foundation for their eventual transition to original game development.[^ref-2]
-
-### Brothers in Arms: Road to Hill 30 (2005)
-
-Brothers in Arms: Road to Hill 30 represented Gearbox's first major original intellectual property, combining tactical squad-based combat with emotional storytelling based on real World War II events.[^ref-9] The game emphasized historical authenticity and the psychological impact of warfare, distinguishing it from other shooters of the era that focused primarily on action rather than narrative depth.[^ref-5] Gearbox's research included extensive consultation with military historians and World War II veterans, resulting in a game that balanced entertainment value with respectful treatment of historical subject matter.[^ref-3]
-
-The success of Road to Hill 30 led to multiple sequels and established Gearbox's reputation for creating games with strong narrative foundations and innovative gameplay mechanics that prioritized teamwork and tactical thinking over individual heroics.[^ref-11]
+In May 2019 Gearbox set up The Gearbox Entertainment Company as a parent for Gearbox Software and Gearbox Publishing.[^ref-3] Embracer Group acquired Gearbox Entertainment in April 2021 for $363 million, rising to as much as $1.378 billion if operational targets were met.[^ref-3] In March 2024 Take-Two agreed to buy Gearbox Entertainment from Embracer for $460 million, and Embracer announced on June 12, 2024 that "the transaction has been closed today."[^ref-23][^ref-48]
 
 ## Key People
 
-Randy Pitchford has served as Gearbox Software's president and CEO since its founding, providing consistent creative leadership and vision throughout the company's evolution.[^ref-1] His background in magic and entertainment has influenced Gearbox's approach to game design, emphasizing the importance of creating memorable experiences that surprise and delight players.[^ref-6] Pitchford's leadership style prioritizes creative freedom and employee satisfaction, contributing to Gearbox's reputation as a developer-friendly studio that retains talent and maintains consistent creative vision across projects.[^ref-4]
-
-Other founding members, including Stephen Bahl, Brian Martel, and Landon Montgomery, have continued to contribute to Gearbox's development throughout its history, providing continuity and institutional knowledge that has helped maintain the company's distinctive creative identity.[^ref-2]
-
-## Legacy
-
-Gearbox Software's impact on the gaming industry extends far beyond their commercial success, as they have consistently demonstrated that independent creativity and risk-taking can compete with large-scale corporate development.[^ref-5] The Borderlands franchise alone has influenced countless games, establishing the looter-shooter genre and proving that games can successfully combine seemingly incompatible gameplay elements when executed with skill and creativity.[^ref-3] Their approach to downloadable content and post-launch support has set industry standards for how developers can maintain player engagement and extend the lifespan of their games through meaningful additions rather than exploitative monetization schemes.[^ref-12]
-
-The company's commitment to inclusive character design and progressive themes has also contributed to broader conversations about representation in gaming, with the Borderlands series frequently cited as an example of how games can address social issues while maintaining their entertainment value.[^ref-45] Gearbox's success has inspired other independent developers to pursue original intellectual properties and creative risks, demonstrating that innovation and artistic vision remain viable paths to commercial success in the modern gaming industry.[^ref-46]
+- **Randy Pitchford**: co-founder. On October 7, 2021, TechRadar reported that Pitchford had stepped down as president of Gearbox Software to head the newly formed Gearbox Studios, focused on film and television, and that former CTO Steve Jones had taken over the role.[^ref-47] Wikipedia says Pitchford remained president and CEO of the parent company.[^ref-3]
+- **Brian Martel, Stephen Bahl and Rob Heironimus**: co-founders.[^ref-3]
+- **Landon Montgomery**: co-founder; Wikipedia says he left the company around 2007 and died on March 25, 2020.[^ref-3]
 
 ## Games
 
-### In This Archive (Sierra Era)
+### In This Archive
 
-- **1999** — [[1999 - Half-Life - Opposing Force|Half-Life: Opposing Force]] — Genre: First-Person Shooter
-- **2001** — [[2001 - Half-Life - Blue Shift|Half-Life: Blue Shift]] — Genre: First-Person Shooter
-- **2004** — [[2004 - Counter-Strike - Condition Zero|Counter-Strike: Condition Zero]] — Genre: Tactical Shooter
-- **2015** — [[2015 - Homeworld Remastered Collection|Homeworld Remastered Collection]] — Genre: Real-Time Strategy
+- **1999** — [[1999 - Half-Life - Opposing Force|Half-Life: Opposing Force]] — Genre: First-Person Shooter (Sierra-published)
+- **2001** — [[2001 - Half-Life - Blue Shift|Half-Life: Blue Shift]] — Genre: First-Person Shooter (Sierra-published)
+- **2015** — [[2015 - Homeworld Remastered Collection|Homeworld Remastered Collection]] — Genre: Real-Time Strategy (developed and published by Gearbox)
+
+### Other Sierra-Published Work
+
+- **2001** — Half-Life for PlayStation 2, including the expansion Half-Life: Decay (see [[1998 - Half-Life|Half-Life]])[^ref-50]
+- **2001–2002** — Counter-Strike: Condition Zero: Gearbox worked on the game from May 2001 to July 2002, but its version did not ship. The released 2004 game is listed on the [[2004 - Counter-Strike - Condition Zero|Condition Zero]] page.[^ref-8]
 
 ### Other Notable Games (Non-Sierra)
-- Brothers in Arms: Road to Hill 30 — 2005 (Ubisoft, WWII tactical shooter)
+- Brothers in Arms: Road to Hill 30 — 2005 (Ubisoft)
 - Brothers in Arms: Hell's Highway — 2008 (Ubisoft)
-- Borderlands — 2009 (2K Games, originated looter-shooter genre)
-- Borderlands 2 — 2012 (2K Games, massive commercial success)
-- Aliens: Colonial Marines — 2013 (SEGA, licensed FPS)
+- Borderlands — 2009 (2K Games)
+- Borderlands 2 — 2012 (2K Games)
+- Aliens: Colonial Marines — 2013 (Sega)
 - Borderlands: The Pre-Sequel — 2014 (2K Games)
-- Battleborn — 2016 (2K Games, hero shooter)
+- Battleborn — 2016 (2K Games)
 - Borderlands 3 — 2019 (2K Games)
-- Tiny Tina's Wonderlands — 2022 (2K Games, fantasy Borderlands spin-off)
-- New Tales from the Borderlands — 2022 (2K Games, narrative adventure)
-- Borderlands 4 — 2025 (2K Games, fastest-selling in series, multiple US records)
+- Tiny Tina's Wonderlands — 2022 (2K Games)
+- New Tales from the Borderlands — 2022 (2K Games)
+- Borderlands 4 — 2025 (2K Games)
 
 ## References
 
-[^ref-1]: [Gearbox Software Official About Page](https://www.gearboxsoftware.com/about/) — Company founding information and leadership details
-[^ref-2]: [OpiumPulses History of Gearbox Software](https://www.opiumpulses.com/article/403/history-of-gearbox-software) — Comprehensive company history and development evolution
-[^ref-3]: [Wikipedia Gearbox Software](https://en.wikipedia.org/wiki/Gearbox_Software) — General company information and game portfolio
-[^ref-4]: [LinkedIn Gearbox Entertainment](https://www.linkedin.com/company/gearbox-entertainment) — Current company status and location information
-[^ref-5]: [Game Developer Guts of Gearbox](https://www.gamedeveloper.com/business/the-guts-of-gearbox) — Business strategy and company philosophy
-[^ref-6]: [Game Developer Desert Island Games Randy Pitchford](https://www.gamedeveloper.com/game-platforms/desert-island-games-gearbox-software-s-randy-pitchford) — Randy Pitchford leadership and creative vision
-[^ref-7]: [MobyGames Gearbox Software](https://www.mobygames.com/company/2049/gearbox-software-llc/) — Company founding details and early projects
-[^ref-8]: [Counter-Strike Fandom Gearbox Software](https://counterstrike.fandom.com/wiki/Gearbox_Software) — Founding team information and early development work
-[^ref-9]: [Giant Bomb Gearbox Software](https://www.giantbomb.com/search/?q=Gearbox+Software&filter=company) — Company profile and development history
-[^ref-10]: [Halopedia Gearbox Software](https://www.halopedia.org/Gearbox_Software) — Early project information and industry relationships
-[^ref-11]: [Grouvee Gearbox Software Games](https://www.grouvee.com/games/?developer=gearbox-software-llc) — Complete game portfolio and development timeline
-[^ref-12]: [Avid Wiki Gearbox Software](https://www.avid.wiki/Gearbox_Software) — Company history and notable projects
-[^ref-13]: [Ranker Gearbox Software Games List](https://www.ranker.com/list/gearbox-software-games-list/reference) — Complete list of published games and partnerships
-[^ref-14]: [IGN Gearbox Software Producer Page](https://www.ign.com/games/producer/gearbox-software) — Professional game development credits and reviews
-[^ref-21]: [Kotaku Gearbox Borderlands Sale](https://kotaku.com/gearbox-software-borderlands-sale-embracer-group-1850824882) — Borderlands commercial success and franchise value
-[^ref-22]: [Games Industry Gearbox Layoffs](https://www.gamesindustry.biz/gearbox-entertainment-confirms-layoffs-following-sale-from-embracer) — Recent ownership changes and corporate transitions
-[^ref-23]: [Take-Two Interactive Gearbox Acquisition](https://www.take2games.com/ir/news/take-two-interactive-software-inc-acquire-gearbox-entertainment) — Take-Two acquisition details and valuation
-[^ref-45]: [Polygon Battleborn Shutdown](https://www.polygon.com/2019/11/25/20982533/battleborn-shutting-down-end-date-gearbox-software/) — Character design and representation in gaming
-[^ref-46]: [Reddit Borderlands Community](https://www.reddit.com/r/Borderlands/comments/10fz83a/connection_failed_to_gearbox_software_shift/) — Community impact and independent developer inspiration
+[^ref-1]: [Gearbox Software Official About Page](https://www.gearboxsoftware.com/about/) — "Founded in February 1999"
+[^ref-3]: [Wikipedia Gearbox Software](https://en.wikipedia.org/wiki/Gearbox_Software) — founders ex-Rebel Boat Rocker, February 16, 1999; Half-Life work; Brothers in Arms and Borderlands; Embracer 2021; Take-Two closing June 12, 2024; Montgomery; Steve Jones
+[^ref-7]: [MobyGames Gearbox Software](https://www.mobygames.com/company/2049/gearbox-software-llc/) — founded January 1999; Rebel Boat Rocker, 3D Realms and Bethesda backgrounds; Opposing Force, Blue Shift, Decay and the PS2 port
+[^ref-8]: [Counter-Strike Fandom Gearbox Software](https://counterstrike.fandom.com/wiki/Gearbox_Software) — founded February 16, 1999 by former Rebel Boat Rocker staff; took on Condition Zero in late May 2001; ceased development July 2002
+[^ref-22]: [Games Industry Gearbox Layoffs](https://www.gamesindustry.biz/gearbox-entertainment-confirms-layoffs-following-sale-from-embracer) — Embracer bought Gearbox for up to $1.3 billion in 2021; sold to Take-Two for $460 million
+[^ref-23]: [Take-Two Interactive Gearbox Acquisition](https://www.take2games.com/ir/news/take-two-interactive-software-inc-acquire-gearbox-entertainment) — definitive agreement to acquire The Gearbox Entertainment Company for $460 million
+[^ref-47]: [TechRadar - Gearbox Software President steps down to focus on Borderlands films and TV shows (October 7, 2021)](https://www.techradar.com/news/gearbox-software-president-steps-down-to-focus-on-borderlands-films-and-tv-shows) — Pitchford steps down as Gearbox Software president; Steve Jones succeeds him
+[^ref-48]: [Insider Gaming - Take-Two Officially Owns Gearbox Entertainment (June 12, 2024)](https://insider-gaming.com/take-two-officially-owns-gearbox-entertainment/) — Embracer: "the transaction has been closed today"; $460 million in Take-Two shares
+[^ref-49]: [Gamereactor - The Borderlands series reaches 93 million units sold (updated May 18, 2025)](https://www.gamereactor.eu/the-borderlands-series-reaches-93-million-units-sold-1545063/) — "nearly 93 million copies sold", from Take-Two's quarterly report
+[^ref-50]: [Wikipedia - Half-Life: Decay](https://en.wikipedia.org/wiki/Half-Life:_Decay) — developed by Gearbox, published by Sierra On-Line, released with the PS2 version of Half-Life in 2001
+[^ref-51]: [Wikipedia - Half-Life: Opposing Force](https://en.wikipedia.org/wiki/Half-Life:_Opposing_Force) — developed by Gearbox, published by Sierra On-Line, November 19, 1999
+[^ref-52]: [Wikipedia - Half-Life: Blue Shift](https://en.wikipedia.org/wiki/Half-Life:_Blue_Shift) — developed by Gearbox, published by Sierra On-Line, June 12, 2001; cancelled Dreamcast port
