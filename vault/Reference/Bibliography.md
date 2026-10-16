@@ -1,14 +1,14 @@
 ---
 title: "Bibliography"
 type: reference
-last_updated: '2026-10-09'
+last_updated: '2026-10-16'
 description: "Canonical research sources for Sierra On-Line history — books, long-form journalism, fan-maintained databases, oral-history archives, and the curated source hierarchy used throughout this vault."
 tags: [reference, bibliography, sources, citations]
 ---
 
 # Bibliography
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -24,18 +24,21 @@ These are first-party publishers, employees, and contemporary primary documents.
 
 ### Books and memoirs
 
-- **Ken Williams, *Not All Fairy Tales Have Happy Endings: The Rise and Fall of Sierra On-Line*** (Coarsegold Press, 2020). Self-published memoir by Sierra's co-founder covering founding through the CUC sale. The single most important primary source for the company's business history.[^ref-kw-book]
-- **Steven L. Kent, *The Ultimate History of Video Games*** (Three Rivers Press, 2001). Industry-wide survey with substantial Sierra coverage including original interviews with Roberta Williams and Al Lowe.[^ref-kent]
+Ken Williams's memoir is a primary source; Kent, Levy and Donovan are secondary histories, listed here for convenience.
+
+
+- **Ken Williams, *Not All Fairy Tales Have Happy Endings: The Rise and Fall of Sierra On-Line*** (Lulu.com, July 24, 2020; ISBN 978-1-71672-736-8). Self-published memoir by Sierra's co-founder covering founding through the CUC sale. The single most important primary source for the company's business history.[^ref-kw-book]
+- **Steven L. Kent, *The Ultimate History of Video Games*** (Three Rivers Press, 2001; first published by Prima Publishing, 2001; ISBN 0-7615-3643-4). Industry-wide survey; Sierra appears only in passing (no Roberta Williams or Al Lowe interviews).[^ref-kent]
 - **Steven Levy, *Hackers: Heroes of the Computer Revolution*** (Doubleday, 1984). Documents early On-Line Systems and the broader Apple II hobbyist context.[^ref-levy]
 - **Tristan Donovan, *Replay: The History of Video Games*** (Yellow Ant, 2010). Industry survey with adventure-game-genre coverage.[^ref-donovan]
 
 ### Official company pages
 
 - **[guysfromandromeda.com](https://www.guysfromandromeda.com)** — Mark Crowe and Scott Murphy's official site; primary source on Space Quest and their post-Sierra projects.[^ref-gfa]
-- **[allowe.com](https://www.allowe.com)** — Al Lowe's personal site, including the Sierra archive (sierrafansclub photos, design documents, audio clips) and ongoing interviews.[^ref-allowe]
-- **[Phoenix Online Studios news](https://www.postudios.com/company/)** — Source on *The Silver Lining* fan project and Mage's Initiation.[^ref-postudios]
-- **[Pinkerton Road](http://web.archive.org/web/20190531105728/http://pinkertonroad.com:80/)** — Jane Jensen and Robert Holmes's studio site; primary on Gabriel Knight 20th Anniversary, Moebius, Gray Matter.[^ref-pinkerton]
-- **[AGD Interactive](https://www.agdinteractive.com)** — AGDI's hub for fan King's Quest, Quest for Glory, and Space Quest remakes.[^ref-agdi]
+- **[allowe.com](https://www.allowe.com)** — Al Lowe's personal site, including Sierra history pages, Leisure Suit Larry inside stories and design material, music downloads, and a list of past interviews.[^ref-allowe]
+- **[Phoenix Online Studios news](https://www.postudios.com/company/)** — Source on *The Silver Lining* fan project and the studio's other games.[^ref-postudios]
+- **[Pinkerton Road](http://web.archive.org/web/20190531105728/http://pinkertonroad.com:80/)** — Jane Jensen and Robert Holmes's studio site; primary on Gabriel Knight 20th Anniversary and Moebius.[^ref-pinkerton]
+- **[AGD Interactive](https://www.agdinteractive.com)** — AGDI's hub for its King's Quest and Quest for Glory II remakes and its original game *Mage's Initiation: Reign of the Elements*.[^ref-agdi]
 - **[Hero-U](https://www.hero-u.com)** — Lori and Corey Cole's studio site, primary on Hero-U and Summer Daze.[^ref-herou]
 - **[Two Guys SpaceVenture](http://guysfromandromeda.com/)** — Two Guys' SpaceVenture site.[^ref-spaceventure]
 
@@ -47,7 +50,7 @@ These are first-party publishers, employees, and contemporary primary documents.
 
 ### Press releases and corporate filings
 
-- **[SEC EDGAR — Sierra On-Line filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=sierra+on-line)** — Sierra's 10-K, 10-Q, and proxy filings from 1988 IPO through 1996 CUC acquisition.[^ref-sec]
+- **[SEC EDGAR — Sierra On-Line filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000724991)** — Sierra On Line Inc (CIK 0000724991): 10-K, 10-Q, S-3 and other filings dated 1994–1997, through the CUC acquisition. EDGAR holds no filings before 1994.[^ref-sec]
 - **Activision Blizzard, Vivendi, Cendant 10-K filings** — Post-acquisition Sierra is a line item rather than a standalone entity, but the parent filings document brand strategy.[^ref-parentsec]
 
 ---
@@ -56,7 +59,7 @@ These are first-party publishers, employees, and contemporary primary documents.
 
 These are systematic, well-maintained third-party catalogs of game metadata.
 
-- **[MobyGames](https://www.mobygames.com)** — Most comprehensive game-credits database. Sierra On-Line company page (`/company/3/sierra-entertainment-inc/`) covers ~600 titles. Cite for: credits, platforms, release dates, screenshots, contemporary box-art.[^ref-mobygames]
+- **[MobyGames](https://www.mobygames.com)** — Most comprehensive game-credits database. Sierra's company page (`/company/17/sierra-entertainment-inc/`) is credited on 615 games from 1980 to 2017. Cite for: credits, platforms, release dates, screenshots, contemporary box-art.[^ref-mobygames]
 - **[The Sierra Chest (sierrachest.com)](https://www.sierrachest.com)** — Fan-maintained Sierra-specific catalog with deeper coverage than MobyGames on box art, music, demos, manuals, version history. Cite for: collector edition contents, box art, asset preservation.[^ref-sierrachest]
 - **[PCGamingWiki](https://www.pcgamingwiki.com)** — Compatibility, fixes, technical specifications, modern-system installation guides. Cite for: technical specifications, modern-system compatibility issues.[^ref-pcgw]
 - **[IGDB](https://www.igdb.com)** — Game metadata, ratings, release history. Less authoritative than MobyGames for credits but useful for cross-reference.[^ref-igdb]
@@ -72,19 +75,19 @@ The most important secondary sources — extended retrospectives, oral histories
 
 - **[The Digital Antiquarian (filfre.net)](https://www.filfre.net)** — Jimmy Maher's gold-standard long-form history of the adventure-game era. Multi-part Sierra coverage including the Williams' founding, AGI development, every flagship series. Cite for: business history, design context, era atmosphere.[^ref-filfre]
 - **[Hardcore Gaming 101](http://www.hardcoregaming101.net)** — Encyclopedic series articles on Sierra franchises (King's Quest, Space Quest, Quest for Glory, etc.). Cite for: gameplay analysis, version comparison, modern reception.[^ref-hg101]
-- **Adventure Gamers** — Genre-specialist review site; archive includes reviews of every released Sierra adventure. (Note: site reorganized URLs in 2025, breaking many citations — see `../docs/dead_urls_worklist.md` (dead-URL worklist).)[^ref-advgamers]
+- **Adventure Gamers** — Genre-specialist review site with a large archive of Sierra adventure reviews. (Note: the site was sold in 2025 and its content wiped; cite only Wayback snapshots dated on or before June 10, 2025.)[^ref-advgamers]
 - **[Adventure Game Hotspot](https://adventuregamehotspot.com)** — Successor site to Adventure Gamers staff, founded after the 2022 reorganization. Hosts new reviews, interviews, retrospectives.[^ref-aghotspot]
-- **[Sierra Gamers (sierragamers.com)](https://www.sierragamers.com)** — Ken Williams' fan-community site, hosts oral-history interviews with former Sierra staff. Primary source on personalities and personal histories.[^ref-sierragamers]
+- **[Sierra Gamers (sierragamers.com)](https://www.sierragamers.com)** — Site maintained by Ken Williams, with designer profiles, game pages, photos and an InterAction magazine archive.[^ref-sierragamers]
 - **[SpaceQuest.net](https://spacequest.net)** — Comprehensive fan site for Space Quest including detailed easter eggs, cameos, plot inconsistencies, and the cancelled Space Quest 7 documentation. Subpages: `eastereggs`, `spoofref`, `cheatdebug`, `funfacts`, `cameos`, `plotinconsis`, `cancelled`.[^ref-spacequestnet]
-- **[Halcyon Days interviews (dadgum.com/halcyon/)](https://dadgum.com/halcyon/)** — James Hague's 1996 collection of interviews with classic Apple II and early-PC programmers; the Warren Schwader interview is the single best source on Sierra's first-hire era.[^ref-halcyon]
+- **[Halcyon Days interviews (dadgum.com/halcyon/)](https://dadgum.com/halcyon/)** — James Hague's collection of interviews with classic computer and video game programmers, released in March 1997; the Warren Schwader interview is the single best source on Sierra's first-hire era.[^ref-halcyon]
 - **[Polygon](https://www.polygon.com), [Eurogamer](https://www.eurogamer.net), [PC Gamer](https://www.pcgamer.com), [Rock Paper Shotgun](https://www.rockpapershotgun.com), [IGN](https://www.ign.com)** — Mainstream games journalism; cite for: contemporary reviews, retrospective analyses, corporate-news coverage.
 
 ### Academic / Museum sources
 
-- **[The Strong National Museum of Play — Sierra collection](https://www.museumofplay.org)** — Inducted King's Quest (2020) and other Sierra titles into the World Video Game Hall of Fame; museum-grade artifacts and oral histories.[^ref-strong]
-- **[GDC Vault — Sierra postmortems](https://www.gdcvault.com)** — Conference talks including Alex Garden's *Homeworld* postmortem and Roberta Williams' GDC keynote.[^ref-gdc]
+- **[The Strong National Museum of Play — Sierra collection](https://www.museumofplay.org)** — Inducted King's Quest into the World Video Game Hall of Fame in 2020 (the only Sierra-published inductee to date; Half-Life was a finalist in 2018 and 2019).[^ref-strong]
+- **[GDC Vault — Sierra talks](https://gdcvault.com/play/1024910/Beneath-the-Flesh-of-Walls)** — Laine Nooney's GDC 2018 talk *Beneath the Flesh of Walls: The Making of Sierra's 'Mystery House'*.[^ref-gdc]
 - **[MIT Lemelson — Roberta Williams](https://lemelson.mit.edu/resources/roberta-williams)** — Inventor-profile entry.[^ref-mitlemelson]
-- **[IEEE Spectrum profiles](https://spectrum.ieee.org)** — Industry-figure profiles including Roberta Williams.[^ref-ieee]
+- **[IEEE Spectrum — Meet Roberta Williams](https://spectrum.ieee.org/meet-roberta-williams-the-queen-of-graphic-adventure-video-games)** — Joanna Goodrich's 2020 profile of Roberta Williams.[^ref-ieee]
 
 ---
 
@@ -132,7 +135,7 @@ For confirming current digital availability, pricing, and release dates of re-re
 
 ## Sources to avoid (or use with extreme care)
 
-- **AI-generated content sites** (Grokipedia, etc.) — Useful only as a starting point; never cite as primary source.
+- **AI-generated content sites** (Grokipedia, etc.) — Never use or cite, not even as a starting point.
 - **Discord, Twitter, and YouTube comments** — Not citable; if a relevant claim originates there, find a permanent source that documents it.
 - **emuparadise.me** — Site removed all ROM-related content; many older citations are now 404s. Replace with archive.org or remove.
 - **Sites blocking automated fetches** (Adventure Gamers requires Playwright per the citations instructions) — Cite via Wayback snapshot if the live URL is inaccessible.
@@ -151,13 +154,13 @@ Before adding a citation to a vault page:
 
 ## References
 
-[^ref-kw-book]: Ken Williams, *Not All Fairy Tales Have Happy Endings* (Coarsegold Press, 2020) — Memoir
-[^ref-kent]: Steven L. Kent, *The Ultimate History of Video Games* (Three Rivers Press, 2001) — Industry history
+[^ref-kw-book]: Ken Williams, *Not All Fairy Tales Have Happy Endings: The Rise and Fall of Sierra On-Line* (Lulu.com, 2020), ISBN 978-1-71672-736-8 — [Open Library record](https://openlibrary.org/isbn/9781716727368)
+[^ref-kent]: Steven L. Kent, *The Ultimate History of Video Games* (Three Rivers Press, 2001; originally Prima Publishing), ISBN 0-7615-3643-4 — [Open Library record](https://openlibrary.org/isbn/0761536434)
 [^ref-levy]: Steven Levy, *Hackers: Heroes of the Computer Revolution* (Doubleday, 1984) — Early computing history
 [^ref-donovan]: Tristan Donovan, *Replay: The History of Video Games* (Yellow Ant, 2010) — Industry history
 [^ref-gfa]: [Guys From Andromeda](https://www.guysfromandromeda.com) — Crowe and Murphy official site
 [^ref-allowe]: [Al Lowe official site](https://www.allowe.com) — Al Lowe Sierra archive
-[^ref-postudios]: [Phoenix Online Studios](https://www.postudios.com/company/) — Silver Lining & Mage's Initiation
+[^ref-postudios]: [Phoenix Online Studios](https://www.postudios.com/company/) — The Silver Lining and other titles
 [^ref-pinkerton]: [Pinkerton Road](http://web.archive.org/web/20190531105728/http://pinkertonroad.com:80/) — Jane Jensen studio site
 [^ref-agdi]: [AGD Interactive](https://www.agdinteractive.com) — Fan-remake hub
 [^ref-herou]: [Hero-U](https://www.hero-u.com) — Coles studio site
@@ -165,9 +168,9 @@ Before adding a citation to a vault page:
 [^ref-cgwmuseum]: [Computer Gaming World Museum](https://www.cgwmuseum.org) — Scanned CGW archive
 [^ref-mocagh]: [MoCagh.org Sierra Newsletters](http://www.mocagh.org/sierra/) — Sierra in-house publications
 [^ref-cvgarchive]: [Archive.org CVG collection](https://archive.org/details/cvg-magazine) — UK CVG scans
-[^ref-sec]: [SEC EDGAR Sierra On-Line](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=sierra+on-line) — Corporate filings
+[^ref-sec]: [SEC EDGAR — Sierra On Line Inc, CIK 0000724991](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000724991) — Corporate filings 1994–1997
 [^ref-parentsec]: [SEC EDGAR Activision Blizzard](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000718877) — Post-acquisition filings
-[^ref-mobygames]: [MobyGames Sierra Entertainment](https://www.mobygames.com/company/3/sierra-entertainment-inc/) — Game-credits database
+[^ref-mobygames]: [MobyGames Sierra Entertainment](https://www.mobygames.com/company/17/sierra-entertainment-inc/) — Game-credits database; "Credited on 615 Games from 1980 to 2017"
 [^ref-sierrachest]: [The Sierra Chest](https://www.sierrachest.com) — Sierra-specific catalog
 [^ref-pcgw]: [PCGamingWiki](https://www.pcgamingwiki.com) — Technical specs and fixes
 [^ref-igdb]: [IGDB](https://www.igdb.com) — Game metadata
@@ -176,15 +179,15 @@ Before adding a citation to a vault page:
 [^ref-iadosgames]: [Internet Archive DOS games](https://archive.org/details/softwarelibrary_msdos_games) — Browser preservation
 [^ref-filfre]: [The Digital Antiquarian](https://www.filfre.net) — Jimmy Maher's history
 [^ref-hg101]: [Hardcore Gaming 101](http://www.hardcoregaming101.net) — Series retrospectives
-[^ref-advgamers]: Adventure Gamers *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no clean pre-sale archived copy found)* — Adventure-game review site
+[^ref-advgamers]: Adventure Gamers *(site sold in 2025 and now a casino affiliate; not linked)* — Adventure-game review site
 [^ref-aghotspot]: [Adventure Game Hotspot](https://adventuregamehotspot.com) — Adventure Gamers successor
-[^ref-sierragamers]: [Sierra Gamers](https://www.sierragamers.com) — Williams' fan-community site
+[^ref-sierragamers]: [Sierra Gamers](https://www.sierragamers.com) — site maintained by Ken Williams (welcome letter, July 1, 2013)
 [^ref-spacequestnet]: [Space Quest.net](https://spacequest.net) — Space Quest fan site
-[^ref-halcyon]: [Halcyon Days](https://dadgum.com/halcyon/) — Hague's 1996 programmer interviews
-[^ref-strong]: [The Strong Museum](https://www.museumofplay.org) — Video Game Hall of Fame
-[^ref-gdc]: [GDC Vault](https://www.gdcvault.com) — Conference postmortems
+[^ref-halcyon]: [Halcyon Days](https://dadgum.com/halcyon/) — Hague's programmer interviews, released March 1997
+[^ref-strong]: [Wikipedia — World Video Game Hall of Fame](https://en.wikipedia.org/wiki/World_Video_Game_Hall_of_Fame) — inductee and finalist lists (King's Quest 2020)
+[^ref-gdc]: [GDC Vault — Beneath the Flesh of Walls](https://gdcvault.com/play/1024910/Beneath-the-Flesh-of-Walls) — Laine Nooney, GDC 2018
 [^ref-mitlemelson]: [MIT Lemelson](https://lemelson.mit.edu/resources/roberta-williams) — Inventor profile
-[^ref-ieee]: [IEEE Spectrum](https://spectrum.ieee.org) — Industry figure profiles
+[^ref-ieee]: [IEEE Spectrum — Meet Roberta Williams, The Queen of Graphic Adventure Video Games](https://spectrum.ieee.org/meet-roberta-williams-the-queen-of-graphic-adventure-video-games) — Joanna Goodrich, September 28, 2020
 [^ref-kqomnipedia]: [King's Quest Omnipedia](https://kingsquest.fandom.com) — KQ fan wiki
 [^ref-sqwiki]: [Space Quest Fandom](https://spacequest.fandom.com) — SQ fan wiki
 [^ref-qfgwiki]: [Quest for Glory Fandom](https://questforglory.fandom.com) — QFG fan wiki
