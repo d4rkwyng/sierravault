@@ -155,7 +155,7 @@ When adding a GOG or Steam URL to a vault page's References section, follow thes
 [^ref-3]: [Brave Search](https://search.brave.com) — Recommended verification engine for GOG/Steam URL checks
 [^ref-5]: [Internet Archive — DOS games library](https://archive.org/details/softwarelibrary_msdos_games) — Preservation fallback
 [^ref-6]: [Steam — King's Quest (2015)](https://store.steampowered.com/app/345390/Kings_Quest/) — 2015 reboot
-[^ref-7]: [Pinkerton Road — Gabriel Knight 20th Anniversary](https://pinkertonroad.com/gabriel-knight/) — Licensed remake page
+[^ref-7]: [Pinkerton Road — Gabriel Knight 20th Anniversary](http://web.archive.org/web/20190531105728/http://pinkertonroad.com:80/) — Licensed remake page
 [^ref-8]: [Activision Blog — Sierra Returns with Geometry Wars 3: Dimensions, King's Quest, and More](https://blog.activision.com/more-games/archives/sierra-returns-with-geometry-wars-3-dimensions-kings-quest-and-more) — Sierra Entertainment digital imprint relaunch
 [^ref-9]: [Replay Games — LSL: Reloaded](http://www.replaygamesinc.com/) — Crowdfunded HD remake
 [^ref-10]: [Dotemu — Pharaoh: A New Era](https://www.dotemu.com/games/pharaoh-a-new-era/) — 2023 licensed remake

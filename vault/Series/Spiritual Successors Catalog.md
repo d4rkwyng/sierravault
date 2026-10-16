@@ -133,7 +133,7 @@ The spiritual successors catalog is, in aggregate, **the largest active branch o
 
 [^ref-1]: [Wikipedia — Sierra Entertainment legacy](https://en.wikipedia.org/wiki/Sierra_Entertainment) — Successor-studio context
 [^ref-2]: [Adventure Game Hotspot — Sierra alumni feature](https://adventuregamehotspot.com) — Alumni-studio coverage
-[^ref-3]: [Pinkerton Road official site](https://pinkertonroad.com) — Studio history
+[^ref-3]: [Pinkerton Road official site](http://web.archive.org/web/20190531105728/http://pinkertonroad.com:80/) — Studio history
 [^ref-4]: [Wikipedia — Jane Jensen](https://en.wikipedia.org/wiki/Jane_Jensen) — Career timeline
 [^ref-5]: [Guys From Andromeda official site](https://www.guysfromandromeda.com) — Two Guys studio
 [^ref-6]: [Hero-U official site](https://www.hero-u.com) — Coles studio

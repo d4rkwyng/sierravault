@@ -34,7 +34,7 @@ These are first-party publishers, employees, and contemporary primary documents.
 - **[guysfromandromeda.com](https://www.guysfromandromeda.com)** — Mark Crowe and Scott Murphy's official site; primary source on Space Quest and their post-Sierra projects.[^ref-gfa]
 - **[allowe.com](https://www.allowe.com)** — Al Lowe's personal site, including the Sierra archive (sierrafansclub photos, design documents, audio clips) and ongoing interviews.[^ref-allowe]
 - **[Phoenix Online Studios news](https://www.postudios.com/company/)** — Source on *The Silver Lining* fan project and Mage's Initiation.[^ref-postudios]
-- **[Pinkerton Road](https://pinkertonroad.com)** — Jane Jensen and Robert Holmes's studio site; primary on Gabriel Knight 20th Anniversary, Moebius, Gray Matter.[^ref-pinkerton]
+- **[Pinkerton Road](http://web.archive.org/web/20190531105728/http://pinkertonroad.com:80/)** — Jane Jensen and Robert Holmes's studio site; primary on Gabriel Knight 20th Anniversary, Moebius, Gray Matter.[^ref-pinkerton]
 - **[AGD Interactive](https://www.agdinteractive.com)** — AGDI's hub for fan King's Quest, Quest for Glory, and Space Quest remakes.[^ref-agdi]
 - **[Hero-U](https://www.hero-u.com)** — Lori and Corey Cole's studio site, primary on Hero-U and Summer Daze.[^ref-herou]
 - **[Two Guys SpaceVenture](http://guysfromandromeda.com/)** — Two Guys' SpaceVenture site.[^ref-spaceventure]
@@ -159,7 +159,7 @@ Before adding a citation to a vault page:
 [^ref-gfa]: [Guys From Andromeda](https://www.guysfromandromeda.com) — Crowe and Murphy official site
 [^ref-allowe]: [Al Lowe official site](https://www.allowe.com) — Al Lowe Sierra archive
 [^ref-postudios]: [Phoenix Online Studios](https://www.postudios.com/company/) — Silver Lining & Mage's Initiation
-[^ref-pinkerton]: [Pinkerton Road](https://pinkertonroad.com) — Jane Jensen studio site
+[^ref-pinkerton]: [Pinkerton Road](http://web.archive.org/web/20190531105728/http://pinkertonroad.com:80/) — Jane Jensen studio site
 [^ref-agdi]: [AGD Interactive](https://www.agdinteractive.com) — Fan-remake hub
 [^ref-herou]: [Hero-U](https://www.hero-u.com) — Coles studio site
 [^ref-spaceventure]: [SpaceVenture](http://guysfromandromeda.com/) — Two Guys SpaceVenture site
