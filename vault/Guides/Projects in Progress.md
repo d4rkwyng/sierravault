@@ -40,7 +40,7 @@ Sierra-affiliated games currently in development or recently updated.
 - **Team:** [[Jane Jensen]]
 - **Status:** Pitch only; no Microsoft approval as of Dec 2025.
 - **Latest:** (Dec 2025) [Matt Chat 565](https://www.youtube.com/watch?v=UKI8t6KgAHc): Jensen described a GK4 pitch set in Salzburg, with two paths through the story, put together with a team in Israel. Microsoft owns the IP (via Activision); she said repeated emails and an industry lawyer got no response — "We never heard a thing back." Published "Five Hearts" short story Nov 2024.
-- **Follow:** [GK4Ever.com](https://web.archive.org/web/20241013045516/http://www.gk4ever.com/) (archived; domain no longer resolves)
+- **Follow:** [GK4Ever.com](https://web.archive.org/web/20190126092125/http://www.gk4ever.com/) (archived; domain no longer resolves)
 
 ---
 
