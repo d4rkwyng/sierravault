@@ -5,117 +5,120 @@ created_by: "Pierre Gilhodes / Muriel Tramis / Coktel Vision"
 developer: "Coktel Vision"
 first_release: 1988
 last_release: 2026
-total_games: 25
-genre: "Adventure, Edutainment, FMV"
-last_updated: '2026-10-09'
+total_games: 35
+genre: "Adventure, Edutainment, Simulation"
+last_updated: '2026-10-16'
 ---
 
 # Coktel Adventures Series
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
-The Coktel Adventures Series is the umbrella term for the diverse catalog of adventure, edutainment, and full-motion-video games developed by French publisher [[Coktel Vision]] from 1988 to its later subsidiary Tomahawk in the late 1990s, plus its post-Sierra continuations through 2026.[^ref-1] Coktel was acquired by Sierra in 1993 and operated as a Sierra Label (Sierra Label (Coktel)) for the rest of the 1990s.[^ref-2] The studio's signature franchises — [[Pierre Gilhodes|Pierre Gilhodes's]] *Gobliiins* puzzle-adventure series, [[Muriel Tramis|Muriel Tramis's]] socially-conscious adventures (Méwilo, Freedom: Rebels in the Darkness), and the company's specialty in full-motion-video adventures (Urban Runner, Lost in Time, Fascination) — collectively make Coktel one of the most distinctive non-American voices in Sierra's history.
+The Coktel Adventures Series is SierraVault's umbrella for the games of the French developer and publisher [[Coktel Vision]], from its 1988 releases to Sierra's ownership and on to the *Gobliiins* revivals of 2009–2026.[^ref-1][^ref-3] Coktel Vision was founded in 1984 by Roland Oskian (some sources give 1985); Sierra On-Line bought it on October 29, 1993.[^ref-17][^ref-4] Coktel was best known for its educational and adventure games.[^ref-1][^ref-2] Its best-known adventure series is [[Pierre Gilhodes]]'s *Gobliiins*, which he co-created with [[Muriel Tramis]].[^ref-1]
 
-Coktel is unusual among Sierra-lineage studios because:
+Coktel was unusual among Sierra-lineage studios because:
 
-- **It pre-existed Sierra's acquisition** by five years and brought a fully-formed catalog and design language into the Sierra fold.
-- **Its design idiom is recognizably European** — the *Gobliiins* games' wordless visual puzzle-solving and surrealist art direction are unlike anything in Sierra's American adventure output.
-- **Its signature series has outlived it**, with [[Pierre Gilhodes]] returning for *Gobliiins 4* (2009, co-designed with Muriel Tramis and developed by Société Pollene), and later the Adventure Game Studio-built *Gobliiins 5: The Morgloton Invasion* (2023) and *GOBLiiNS6* (2026) — new entries reaching into the late 2020s.[^ref-3]
+- **It pre-dated Sierra's purchase by about nine years** and brought its own catalog into Sierra.[^ref-17][^ref-4]
+- **Its signature series has outlived it.** [[Pierre Gilhodes]] returned for *Gobliiins 4* (2009, developed by Société Pollene) and then made *Gobliiins 5* (2023) and *GOBLiiNS6* (2026) in Adventure Game Studio.[^ref-3][^ref-6]
 
 ## Pre-Sierra Coktel Era (1988–1993)
 
-Before Sierra's 1993 acquisition, Coktel Vision built a French/European adventure-game catalog notable for its distinctive design voice. Founded in 1985 in Paris by Roland Oskian, Coktel's first big adventure-era hits came in 1988–1989:
+Coktel published its simulation and erotic games under Tomahawk, which was "presented as a subsidiary" but "was only a label that Coktel Vision used to publish simulation and erotic games to distance themselves from edutainment titles".[^ref-1] MobyGames credits Tomahawk on 14 games from 1988 to 1991, none sold outside Europe.[^ref-18] Designers below follow each game's SierraVault page.
 
-| Year | Title | Designer | Notes |
-|------|-------|----------|-------|
-| 1988 | [[1988 - 20000 Leagues Under the Sea\|20,000 Leagues Under the Sea]] | Various | Jules Verne licensed adventure |
-| 1988 | [[1988 - African Raiders-01\|African Raiders-01]] | Various | Rally-driving sim |
-| 1989 | [[1989 - Asterix - Operation Getafix\|Asterix: Operation Getafix]] | Various | Asterix licensed adventure |
-| 1989 | [[1989 - Emmanuelle\|Emmanuelle]] | Various | Controversial adult adventure |
-| 1989 | [[1989 - ESS - European Space Simulator\|E.S.S.: European Space Simulator]] | Various | Sim |
-| 1989 | [[1989 - Legend of Djel\|Legend of Djel]] | Muriel Tramis | Caribbean-set adventure |
-| 1990 | [[1990 - Cougar Force\|Cougar Force]] | Various | Action |
-| 1990 | [[1990 - Galactic Empire\|Galactic Empire]] | François Nédélec, Frédéric Chauvelot | Sci-fi |
-| 1990 | [[1990 - Geisha\|Geisha]] | Various | Japan-set adventure |
-| 1991 | [[1991 - Gobliiins\|Gobliiins]] | Pierre Gilhodes | **Founds the Gobliiins franchise** |
-| 1991 | [[1991 - A.G.E.\|A.G.E.]] | Various | Sci-fi |
-| 1991 | [[1991 - E.S.S. Mega\|E.S.S. Mega]] | Various | E.S.S. expansion |
-| 1991 | [[1991 - Fascination\|Fascination]] | Various | FMV adventure |
-| 1992 | [[1992 - Gobliins 2 - The Prince Buffoon\|Gobliins 2: The Prince Buffoon]] | Pierre Gilhodes | Second Gobliiins |
-| 1992 | [[1992 - Bargon Attack\|Bargon Attack]] | Various | Sci-fi adventure |
-| 1992 | [[1992 - Ween - The Prophecy\|Ween: The Prophecy]] | Various | Fantasy adventure |
-| 1992 | [[1992 - Inca\|Inca]] | Various | FMV adventure (Inca Series founding) |
+| Year | Title | Designer (per game page) | Notes |
+|------|-------|--------------------------|-------|
+| 1988 | [[1988 - 20000 Leagues Under the Sea\|20,000 Leagues Under the Sea]] | Marianne Rougeulle | Jules Verne adaptation |
+| 1988 | [[1988 - African Raiders-01\|African Raiders-01]] | Philippe Lamarque, Yannick Chosse | Rally racing (Tomahawk) |
+| 1989 | [[1989 - Asterix - Operation Getafix\|Asterix: Operation Getafix]] | Muriel Tramis | Asterix action-adventure |
+| 1989 | [[1989 - Emmanuelle\|Emmanuelle]] | Muriel Tramis, Alain Bessard | Erotic adventure (Tomahawk) |
+| 1989 | [[1989 - ESS - European Space Simulator\|E.S.S.: European Space Simulator]] | François Nédélec, Roland Oskian | Simulation (Tomahawk) |
+| 1989 | [[1989 - Legend of Djel\|Legend of Djel]] | Joseph Kluytmans, Muriel Tramis | Adventure (Tomahawk) |
+| 1990 | [[1990 - Cougar Force\|Cougar Force]] | Joseph Kluytmans | Action (Tomahawk) |
+| 1990 | [[1990 - Galactic Empire\|Galactic Empire]] | François Nédélec, Frédéric Chauvelot | Sci-fi strategy |
+| 1990 | [[1990 - Geisha\|Geisha]] | Muriel Tramis | Erotic adventure (Tomahawk) |
+| 1991 | [[1991 - Gobliiins\|Gobliiins]] | Pierre Gilhodes, Muriel Tramis | **Founds the Gobliiins series** |
+| 1991 | [[1991 - A.G.E.\|A.G.E.]] | François Nédélec, Frédéric Chauvelot | Simulation |
+| 1991 | [[1991 - E.S.S. Mega\|E.S.S. Mega]] | Roland Oskian, François Nédélec | Simulation (Tomahawk) |
+| 1991 | [[1991 - Fascination\|Fascination]] | Muriel Tramis, Philippe Lamarque | Erotic thriller adventure (Tomahawk) |
+| 1992 | [[1992 - Gobliins 2 - The Prince Buffoon\|Gobliins 2: The Prince Buffoon]] | Pierre Gilhodes, Muriel Tramis | Second Gobliiins |
+| 1992 | [[1992 - Bargon Attack\|Bargon Attack]] | Claude Marc, Serge Marc | Sci-fi adventure |
+| 1992 | [[1992 - Ween - The Prophecy\|Ween: The Prophecy]] | Joseph Kluytmans, Corinne Perrot | Fantasy adventure |
+| 1992 | [[1992 - Inca\|Inca]] | Pierre Gilhodes, Yannick Chosse | Sci-fi action-adventure |
 
-## Sierra Label Era (1993–1999)
+## Sierra Era (1993–1996)
 
-After Sierra's 1993 acquisition, Coktel continued producing games under the "Sierra Label (Coktel)" lineage. The signature releases:
+| Year | Title | Designer (per game page) | Notes |
+|------|-------|--------------------------|-------|
+| 1993 | [[1993 - Goblins Quest 3\|Goblins Quest 3]] | Pierre Gilhodes, Muriel Tramis | Third Gobliiins |
+| 1993 | [[1993 - Lost in Time\|Lost in Time]] | Muriel Tramis | First-person adventure |
+| 1993 | [[1993 - Inca II - Wiracocha\|Inca II: Wiracocha]] | — | Inca sequel |
+| 1995 | [[1995 - The Bizarre Adventures of Woodruff and the Schnibble\|The Bizarre Adventures of Woodruff and the Schnibble]] | Pierre Gilhodes, Muriel Tramis, Stéphane Fournier | Gilhodes's last Coktel game |
+| 1995 | [[1995 - The Last Dynasty\|The Last Dynasty]] | Philippe Lamarque, Frédéric Chauvelot | Space combat and adventure |
+| 1996 | [[1996 - Urban Runner\|Urban Runner]] | Philippe Lamarque, Silvan Boris Schmid, Muriel Tramis | Interactive-movie adventure |
 
-| Year | Title | Designer | Notes |
-|------|-------|----------|-------|
-| 1993 | [[1993 - Goblins Quest 3\|Goblins Quest 3]] | Pierre Gilhodes | Third Gobliiins |
-| 1993 | [[1993 - Lost in Time\|Lost in Time]] | Various | FMV time-travel adventure |
-| 1993 | [[1993 - Inca II - Wiracocha\|Inca II: Wiracocha]] | Various | Inca sequel |
-| 1995 | [[1995 - The Bizarre Adventures of Woodruff and the Schnibble\|Bizarre Adventures of Woodruff]] | Pierre Gilhodes | Spiritual Gobliiins successor |
-| 1995 | [[1995 - The Last Dynasty\|The Last Dynasty]] | Various | FMV sci-fi |
-| 1996 | [[1996 - Urban Runner\|Urban Runner]] | Various | FMV cyberpunk adventure |
+As part of the 1993 deal, Sierra published popular French titles worldwide while Coktel localised and published Sierra's games through its Tomahawk label.[^ref-1] In February 1996 CUC International acquired Sierra and its subsidiaries, and Coktel became part of CUC Software.[^ref-1]
 
-The Coktel design language during the Sierra era refined two distinct threads:
+### The Gobliiins puzzle-adventure line
 
-1. **The Gobliiins puzzle-adventure line** ([[Pierre Gilhodes]]) — Increasingly elaborate visual puzzle-solving with multiple controllable characters, surrealist art direction, no text/voice dialog (the goblin protagonists communicated entirely in gibberish). The series' core innovation — three (later more) characters with distinct abilities who must combine actions to solve puzzles — directly influenced later games like the *Lost Vikings* and *Trine* series.
-2. **The FMV-adventure line** — Games like *Fascination* (1991), *Inca* (1992), *Lost in Time* (1993), *The Last Dynasty* (1995), and *Urban Runner* (1996) used live-action filmed footage as the backdrop for adventure-game interactions. This put Coktel in direct competition with Sierra's American FMV titles (Phantasmagoria, Gabriel Knight 2) but with a distinctively European visual sensibility.
+In the *Gobliiins* games the player usually controls several goblins, each with its own abilities, and the number of letter "i"s in the title gives the number of goblins: three in *Gobliiins* (1991), two in *Gobliins 2* (1992) and one in *Goblins Quest 3* (1993).[^ref-3]
 
-The Coktel Vision label was wound down by Havas/Vivendi in the late 1990s as the FMV-adventure genre's commercial appeal faded.[^ref-4]
+## Coktel after the adventures (1996–2011)
 
-## Tomahawk Era and Reactivation (2000s–2009)
+After *Urban Runner* became a commercial failure in 1996, Coktel focused on educational titles rather than adventure games.[^ref-1] In October 2005 it was sold to the French publisher Mindscape, which "retained the Coktel brand until closing in 2011".[^ref-1][^ref-19]
 
-Coktel's edutainment subsidiary Tomahawk continued producing children's edutainment products through the early 2000s, including the *Adi* / *Adibou* / *Adiboo* educational series (the Adiboo family is in `vault/Games/Adiboo/`) and the *Playtoons* line.[^ref-5]
+Coktel's educational lines were its own products, not Tomahawk's. Wikipedia credits *Adibou* to Coktel Vision as developer and publisher, and the vault's *Playtoons* pages give Coktel Vision as developer.[^ref-5] Educational titles with SierraVault pages:
 
-In 2009, [[Pierre Gilhodes]] — having left Coktel decades earlier — independently revived the *Gobliiins* franchise with [[2009 - Gobliiins 4|Gobliiins 4]], crowdfunded and released through Wide Screen Games.[^ref-6] This re-opened the dormant series.
+| Year | Title | Developer / Publisher (per game page) |
+|------|-------|---------------------------------------|
+| 1992 | [[1992 - A.J.'s World of Discovery\|A.J.'s World of Discovery]] | Coktel Vision |
+| 1994 | [[1994 - Playtoons 1 - Uncle Archibald\|Playtoons 1: Uncle Archibald]] | Coktel Vision / Sierra On-Line |
+| 1995 | [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator\|Playtoons 2: The Case of the Counterfeit Collaborator]] | Coktel Vision / Sierra On-Line |
+| 1995 | [[1995 - Playtoons 3 - The Secret of the Castle\|Playtoons 3: The Secret of the Castle]] | Coktel Vision / Sierra On-Line |
+| 1995 | [[1995 - Playtoons 4 - The Mandarine Prince\|Playtoons 4: The Mandarine Prince]] | Coktel Vision / Sierra On-Line |
+| 1995 | [[1995 - Playtoons 5 - The Stone of Wakan\|Playtoons 5: The Stone of Wakan]] | Coktel Vision / Sierra On-Line |
+| 1996 | [[1996 - Adiboo - Magical Playland\|Adiboo: Magical Playland]] | Coktel Vision |
+| 2003 | [[2003 - Adiboo - Paziral's Secret\|Adiboo: Paziral's Secret]] | Coktel Vision, Neko Entertainment / Vivendi Universal Games |
+| 2004 | [[2004 - Adiboo and the Energy Thieves\|Adiboo and the Energy Thieves]] | Coktel Vision / Vivendi Universal Games |
 
-## Post-Sierra Era (2023–present)
+## Gobliiins Revivals (2009–2026)
 
-[[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] (2023) and [[2026 - Gobliins 6|Gobliins 6]] (2026) — both designed by [[Pierre Gilhodes]] and developed by his own French studio — extend the franchise into the 2020s, making Gobliiins the only Sierra-lineage adventure series with brand-new releases this decade.[^ref-7][^ref-8]
+In 2009, [[Pierre Gilhodes]], whose last Coktel game had been *Woodruff and the Schnibble* (1995), returned to the series with [[2009 - Gobliiins 4|Gobliiins 4]].[^ref-3] MobyGames lists Société Pollene as developer and 1C Company and Snowball Studios (Russia) and Kalypso Media (France, Germany, UK) as publishers.[^ref-6] Its game page credits the design to Gilhodes, with Tramis credited only in the thanks.
 
-These post-Sierra entries operate under independent licensing arrangements with the current rights holder (Microsoft Gaming via the [[Corporate Lineage|Activision Blizzard acquisition]]) and are notable both for preserving the original wordless-puzzle design language and for incorporating modern UI and accessibility conventions.
+[[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] (2023) and [[2026 - Gobliins 6|Gobliins 6: The Madmen of the Year 1000]] (2026) were developed by Gilhodes and self-published under his Schnibble Productions label; Steam lists them as released on July 20, 2023 and February 13, 2026.[^ref-7][^ref-8] *GOBLiiNS6*, a sequel to *Gobliins 2*, has two "i"s in its title.[^ref-3]
 
 ## Designer Profiles
 
-- **[[Pierre Gilhodes]]** — Founding designer of the Gobliiins franchise; the single most influential Coktel voice. Active from 1991 to the present.
-- **[[Muriel Tramis]]** — Caribbean-French designer of Méwilo, Freedom: Rebels in the Darkness, Legend of Djel; pioneering voice in socially-conscious adventure games.
-- **Roland Oskian** — Founder of Coktel Vision.
+- **[[Pierre Gilhodes]]** — co-created *Gobliiins* with Tramis; designer of *Gobliiins 4* and developer of *Gobliiins 5* and *GOBLiiNS6*.[^ref-1][^ref-7][^ref-8][^ref-9]
+- **[[Muriel Tramis]]** — joined Coktel in 1986 and became its leading designer; co-created *Gobliiins* and created the *Adibou* educational series.[^ref-1][^ref-10]
+- **Roland Oskian** — founder of Coktel Vision, a former Matra Espace executive.[^ref-17]
 
 ## Legacy
 
-Coktel's importance to the broader Sierra archive is twofold:
-
-1. **The Gobliiins puzzle-adventure design** — A genuinely original adventure-game design idiom that has continued to inspire indie developers (Machinarium, the *Lost Vikings* line, Trine).
-2. **The European adventure-game voice** — Coktel brought a recognizably non-American sensibility into the Sierra catalog, expanding what "a Sierra adventure" could be.
-
-For most of Sierra's history Coktel's productions were marketed in France/Europe under a French label and in North America with English localization. Many of the more obscure titles (*Cougar Force*, *Geisha*, *Bargon Attack*) had limited or no North American distribution and exist primarily as European releases.
+Coktel's productions were mostly European: MobyGames notes that none of its Tomahawk-label games were sold outside Europe.[^ref-18] The *Gobliiins* series is the part of its catalog that has continued, with three new games since 2009.[^ref-3]
 
 ## See Also
 
-- [[Coktel Vision]] — Developer page
+- [[Coktel Vision]] — developer page
+- [[Tomahawk]] — Coktel's label for simulation and erotic games
 - [[Pierre Gilhodes]] — Gobliiins designer
 - [[Muriel Tramis]] — Coktel designer
 - [[Corporate Lineage]] — Sierra acquisition era
-- Inca Series — Sub-series within Coktel's catalog (planned)
+- Inca games: [[1992 - Inca]], [[1993 - Inca II - Wiracocha]]
 
 ## References
 
-[^ref-1]: [Wikipedia — Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) — Studio history, catalog overview
-[^ref-2]: [MobyGames — Coktel Vision](https://www.mobygames.com/company/2042/coktel-vision/) — Game credits
-[^ref-3]: [Wikipedia — Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) — Gobliiins 4 (2009), Gobliiins 5 (2023) and GOBLiiNS6 (2026) development and release
-[^ref-4]: [The Digital Antiquarian — Coktel Vision](https://www.filfre.net/?s=Coktel+Vision) — Studio history
-[^ref-5]: [Wikipedia — Adi and Adibou](https://en.wikipedia.org/wiki/Adibou) — Tomahawk edutainment line
-[^ref-6]: [MobyGames — Gobliiins 4](https://www.mobygames.com/game/40608/gobliiins-4/) — 2009 revival
-[^ref-7]: [Steam — Gobliiins 5](https://store.steampowered.com/app/2155570/Gobliiins_5_The_Morgloton_Invasion/) — 2023 release
-[^ref-8]: [Steam — Gobliins 6](https://store.steampowered.com/app/2950900/Gobliins_6/) — 2026 release
-[^ref-9]: [MobyGames — Pierre Gilhodes credits](https://www.mobygames.com/person/12849/pierre-gilhodes/) — Designer career
-[^ref-10]: [MobyGames — Muriel Tramis credits](https://www.mobygames.com/person/8290/muriel-tramis/) — Designer career
-[^ref-12]: Adventure Gamers — Coktel Vision retrospective *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — Studio history
-[^ref-13]: [Sierra Chest — Coktel Vision](https://www.sierrachest.com/index.php?a=games&fld=publisher&id=coktel-vision) — Catalog
-[^ref-14]: [Computer Gaming World Museum — Gobliiins review](http://www.cgwmuseum.org/galleries/index.php?year=1991) — Contemporary CGW review
-[^ref-16]: [The Digital Antiquarian — Inca](https://www.filfre.net/?s=Inca+Coktel) — FMV-adventure history
+[^ref-1]: [Wikipedia — Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) — founded 1984 by Oskian; best known for educational and adventure games; Tomahawk "only a label … to publish simulation and erotic games"; Tomahawk publishing of Sierra games; Urban Runner failure and turn to education (1996); CUC Software; sold to Mindscape October 2005; brand retained "until closing in 2011"; Tramis and Gilhodes
+[^ref-2]: [MobyGames — Coktel Vision (Wayback, February 2023)](https://web.archive.org/web/20230228201255/https://www.mobygames.com/company/1127/coktel-vision/) — company 1127; game credits
+[^ref-3]: [Wikipedia — Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) — number of "i"s indicates the number of controllable characters; Gobliiins 4 (2009, Pollene), Gobliiins 5 (2023) and GOBLiiNS6 (2026), the last two built in Adventure Game Studio
+[^ref-4]: [The Digital Antiquarian — The Mortgaging of Sierra Online](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) — "On October 29, 1993, they bought the French developer and publisher Coktel Vision"; "Coktel had been around since 1985"
+[^ref-5]: [Wikipedia — Adibou](https://en.wikipedia.org/wiki/Adibou) — developer and publisher Coktel Vision (later Havas/Vivendi publishing)
+[^ref-6]: [MobyGames — Gobliiins 4](https://www.mobygames.com/game/40608/gobliiins-4/) — Windows releases: developed by Société Pollene; published by 1C Company and Snowball Studios (Russia), Kalypso Media (France, Germany, UK), Snowball Studios (worldwide)
+[^ref-7]: [Steam — GOBLiiiNS5](https://store.steampowered.com/app/2475980/GOBLiiiNS5/) — developer Pierre Gilhodes; publisher Schnibble Productions; released July 20, 2023
+[^ref-8]: [Steam — GOBLiiNS6](https://store.steampowered.com/app/4293620/GOBLiiNS6/) — developer Pierre Gilhodes; publisher Schnibble Productions; released February 13, 2026
+[^ref-9]: [MobyGames — Pierre Gilhodes (Wayback, April 2023)](https://web.archive.org/web/20230424075049/https://www.mobygames.com/person/10718/pierre-gilhodes/) — person 10718; credits
+[^ref-10]: [MobyGames — Muriel Tramis (Wayback, April 2023)](https://web.archive.org/web/20230422191616/https://www.mobygames.com/person/10719/muriel-tramis/) — person 10719; credits
+[^ref-17]: [Les Echos — "L'américain Sierra-On-Line absorbe Coktel Vision" (May 4, 1994, Wayback)](https://web.archive.org/web/20190820163413/https://www.lesechos.fr/1994/05/lamericain-sierra-on-line-absorbe-coktel-vision-881547) — "Fondé en 1984 par Roland Oskian, un ancien cadre de Matra Espace"
+[^ref-18]: [MobyGames — Tomahawk (Wayback, January 2026)](https://web.archive.org/web/20260112124610/https://www.mobygames.com/company/2025/tomahawk/) — "None of the Tomahawk games were sold outside of Europe"; "Credited on 14 Games from 1988 to 1991"
+[^ref-19]: [Gamekult — "VU Games cède Coktel à Mindscape" (October 21, 2005, Wayback)](https://web.archive.org/web/20180722125622/https://www.gamekult.com/actualite/vu-games-cede-coktel-a-mindscape-44419.html) — Mindscape acquires "Coktel et de ses différentes licences Adibou, jusque-là propriété de VU Games"; eleven staff join Mindscape
