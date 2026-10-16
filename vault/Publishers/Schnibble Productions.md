@@ -2,49 +2,45 @@
 title: "Schnibble Productions"
 type: publisher
 founded: null
-headquarters: "France"
+headquarters: null
 parent_company: null
-last_updated: '2026-10-09'
+last_updated: '2026-10-16'
 ---
 # Schnibble Productions
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
-Schnibble Productions is a French video game company responsible for continuing the Gobliiins series created by [[Pierre Gilhodes|Pierre Gilhodes]] at [[Coktel Vision|Coktel Vision]]. The company has developed and published modern entries in the classic puzzle-adventure franchise.[^ref-1][^ref-5][^ref-9][^ref-13]
+Schnibble Productions is the label under which [[Pierre Gilhodes|Pierre Gilhodes]], co-creator of the Gobliiins series at [[Coktel Vision|Coktel Vision]], publishes his own Gobliiins sequels. On Steam, Gilhodes is listed as developer and Schnibble Productions as publisher of both *GOBLiiiNS5* (2023) and *GOBLiiNS6* (2026).[^ref-1][^ref-16]
 
 ## Sierra Connection
 
-Schnibble Productions continues the legacy of the Gobliiins series, which was originally created by [[Coktel Vision|Coktel Vision]] and published by Sierra On-Line during the 1990s.[^ref-2][^ref-6][^ref-10][^ref-14] The original four Gobliiins games (1991-1996) were developed at Coktel Vision under Sierra's ownership.[^ref-3][^ref-7][^ref-11][^ref-15]
+The first three Gobliiins games, *[[1991 - Gobliiins|Gobliiins]]* (1991), *[[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2]]* (1992) and *[[1993 - Goblins Quest 3|Goblins Quest 3]]* (1993), were made by Coktel Vision, which released the series with Sierra On-Line as a later publisher.[^ref-3] Sierra published the games in the United States (*Gobliiins* in 1992, *Gobliins 2* in 1993 and *Goblins Quest 3* in 1994).[^ref-17][^ref-18][^ref-19] Sierra's acquisition of Coktel Vision was finalised on 29 October 1993, after the first two games were already out.[^ref-12] A fourth game, *[[2009 - Gobliiins 4|Gobliiins 4]]* (2009), was developed by Société Pollene, a team Gilhodes assembled.[^ref-3][^ref-8]
 
-The company name "Schnibble" references *The Bizarre Adventures of Woodruff and the Schnibble of Azimuth* (1995), another Coktel Vision adventure game published by Sierra, demonstrating the connection to Coktel's creative legacy.[^ref-4][^ref-8][^ref-12]
+The label's name shares the word "Schnibble" with *[[1995 - The Bizarre Adventures of Woodruff and the Schnibble|The Bizarre Adventures of Woodruff and the Schnibble]]* (1995), the last game Gilhodes worked on at Coktel, which Sierra published.[^ref-6][^ref-8]
 
 ## Games Published (Sierra Archive)
 
-- **2023** — [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] — Notes: First new entry since 1996
-- **2026** — [[2026 - Gobliins 6|Gobliins 6]] — Notes: In development
+- **2023** — [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] — Notes: First new entry since Gobliiins 4 (2009)[^ref-1][^ref-2][^ref-3][^ref-10]
+- **2026** — [[2026 - Gobliins 6|Gobliins 6]] — Notes: Released February 2026[^ref-3][^ref-16]
 
 ## Related
 
-- **Original Developer:** [[Coktel Vision|Coktel Vision]]
-- **Series Creator:** [[Pierre Gilhodes|Pierre Gilhodes]]
-- **Original Publisher:** [[Publishers/Sierra On-Line|Sierra On-Line]]
+- **Developer of its games:** [[Pierre Gilhodes|Pierre Gilhodes]]
+- **Original series developer:** [[Coktel Vision|Coktel Vision]]
+- **Original series US publisher:** [[Publishers/Sierra On-Line|Sierra On-Line]]
 
 ## References
 
-[^ref-1]: [Steam - Gobliiins 5: The Morgloton Invasion](https://store.steampowered.com/app/1948770/Gobliiins_5/) - Game release
-[^ref-2]: [MobyGames - Gobliiins 5](https://www.mobygames.com/game/202606/gobliiins-5/) - Database entry
-[^ref-3]: [Wikipedia - Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) - Series history
-[^ref-4]: [GOG - Gobliiins 5](https://www.gog.com/game/gobliiins_5_the_morgloton_invasion) - Digital distribution
-[^ref-5]: Adventure Gamers - Gobliiins 5 *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* - Game coverage
-[^ref-6]: [MobyGames - Woodruff and the Schnibble of Azimuth](https://www.mobygames.com/game/2871/the-bizarre-adventures-of-woodruff-and-the-schnibble/) - Name origin
-[^ref-7]: Hardcore Gaming 101 - Gobliiins Series *(no archived copy found)* - Series retrospective
-[^ref-8]: [MobyGames - Pierre Gilhodes](https://www.mobygames.com/person/1088/pierre-gilhodes/) - Series creator
-[^ref-9]: [PC Gamer - Gobliiins 5](https://www.pcgamer.com/) - Modern coverage
-[^ref-10]: [Metacritic - Gobliiins 5](https://www.metacritic.com/game/gobliiins5/) - Review aggregator
-[^ref-11]: [IGDB - Schnibble Productions](https://www.igdb.com/companies/schnibble-productions) - Publisher profile
-[^ref-12]: [Wikipedia - Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) - Original developer
-[^ref-13]: [IndieDB - Gobliiins 5](https://www.indiedb.com/games/gobliiins-5) - Development info
-[^ref-14]: [GOG - Gobliiins Pack](https://www.gog.com/game/gobliiins_pack) - Original trilogy
-[^ref-15]: [Adventure Game Hotspot - Gobliiins 5 Preview](https://adventuregamehotspot.com/) - Preview coverage
+[^ref-1]: [Steam - GOBLiiiNS5](https://store.steampowered.com/app/2475980/) - Developer Pierre Gilhodes, publisher Schnibble Productions; released Jul 20, 2023
+[^ref-2]: [MobyGames - Gobliiins 5](https://www.mobygames.com/game/202606/gobliiins-5/) - Release data: Schnibble Productions, Windows, 2023
+[^ref-3]: [Wikipedia - Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) - Series history; Gobliiins 4 (2009) by Société Pollene; GOBLiiNS6 released February 2026
+[^ref-6]: [MobyGames - Woodruff and the Schnibble of Azimuth](https://www.mobygames.com/game/2871/the-bizarre-adventures-of-woodruff-and-the-schnibble/) - Game entry
+[^ref-8]: [MobyGames - Pierre Gilhodes](https://www.mobygames.com/person/10718/pierre-gilhodes/) - Biography: Woodruff his last Coktel game; assembled Société Pollene for Gobliiins 4 ([archived 2023](https://web.archive.org/web/20230424075049/https://www.mobygames.com/person/10718/pierre-gilhodes/))
+[^ref-10]: [Metacritic - Gobliiins 5](https://www.metacritic.com/game/gobliiins5/) - Lists Schnibble Productions as publisher
+[^ref-12]: [Wikipedia - Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) - Sierra deal finalised 29 October 1993
+[^ref-16]: [Steam - GOBLiiNS6](https://store.steampowered.com/app/4293620/GOBLiiNS6/) - Developer Pierre Gilhodes, publisher Schnibble Productions; released Feb 13, 2026
+[^ref-17]: [MobyGames - Gobliiins](https://www.mobygames.com/game/1154/gobliiins/) - Release data: Sierra On-Line, US, 1992
+[^ref-18]: [MobyGames - Gobliins 2](https://www.mobygames.com/game/2625/gobliins-2/) - Release data: Sierra On-Line, US, 1993-02-10
+[^ref-19]: [MobyGames - Goblins Quest 3](https://www.mobygames.com/game/2870/goblins-quest-3/) - Release data: Sierra On-Line, US, 1994-03-18
