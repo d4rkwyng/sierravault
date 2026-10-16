@@ -5,93 +5,93 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Quest for Glory II", "Space Quest IV"]
 companies: ["Sierra On-Line"]
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 ---
 # Pablo Ghenis
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-Pablo Ghenis is a programmer and development systems engineer who worked at Sierra On-Line during the company's transition from AGI to SCI game engines.[^ref-1][^ref-11] With 60 credits across 22 games, Ghenis was one of Sierra's most prolific technical contributors, working on the development systems that powered the company's adventure games rather than individual game programming.[^ref-1][^ref-12] His work on Sierra's SCI interpreter and development tools made him an essential part of the infrastructure that enabled Sierra's golden age of adventure gaming.
+Pablo Ghenis is a programmer who worked on Sierra On-Line's SCI (Sierra Creative Interpreter) development system in the engine's early years.[^ref-1] MobyGames credits him on 22 games, nearly all for interpreter or development-system work, plus programming credits on Codename: ICEMAN and Conquests of the Longbow.[^ref-16]
 
-Ghenis's contributions extended beyond pure systems work to include lead programming and additional design credits on several titles, demonstrating his versatility within Sierra's development structure.[^ref-2] His career at Sierra spanned the entire SCI era, from early titles like King's Quest IV through the VGA revolution of King's Quest V and beyond.
+His credits run from 1988 to 1991, from King's Quest IV and Leisure Suit Larry 2 through the VGA releases of King's Quest V and Space Quest IV.[^ref-15][^ref-16]
 
 ## Career
 
-### Sierra On-Line (1988–1991)
+### Sierra On-Line (credits 1988–1991)
 
-At Sierra, Ghenis specialized in development systems engineering, working on the tools and interpreter systems that Sierra's designers and programmers used to create games.[^ref-1] He collaborated with [[Jeff Stephenson]], [[Corey Cole]], and other Sierra engineers on the SCI (Sierra Creative Interpreter) engine, which powered all of Sierra's major adventure games from 1988 onward.[^ref-3]
+At Sierra, Ghenis worked on the interpreter and development system that Sierra's designers and programmers used to build SCI games.[^ref-1] His most frequent collaborators were fellow system programmers [[Jeff Stephenson]] and Robert Eric Heitman (22 games each), Ken Williams (20) and [[Corey Cole]] (17).[^ref-16]
 
-His development system credits appear across virtually every major Sierra title of the era, including the King's Quest, Space Quest, Police Quest, Leisure Suit Larry, and Quest for Glory series.[^ref-1] This systems-level work required deep understanding of Sierra's scripting language, graphic and sound features, character animation systems, and cross-platform considerations.[^ref-4]
+His development-system credits cover titles in the King's Quest, Space Quest, Police Quest, Leisure Suit Larry and Quest for Glory series.[^ref-16] On Leisure Suit Larry Goes Looking for Love (1988), the manual lists him under "Game Development System" with Jeff Stephenson, Robert Heitman and Stuart Goldstein.[^ref-14][^ref-6] He also has a PC-9801 conversion credit on Police Quest 2.[^ref-15]
 
-Beyond systems work, Ghenis took on programming and design roles on several titles. He served as lead programmer on Codename: ICEMAN (1990) alongside J. Mark Hood and Doug Oldfield, helping implement Jim Walls's submarine simulation adventure.[^ref-5] His additional design credit on Leisure Suit Larry Goes Looking for Love (1988), shared with Stuart Goldstein, indicates contributions to game content beyond technical implementation.[^ref-6]
+Beyond systems work, Ghenis was one of three programmers on [[1990 - Codename - Iceman|Codename: ICEMAN]], with J. Mark Hood and Doug Oldfield, on Jim Walls's game; Sierra News Magazine's Autumn 1989 issue lists Ghenis, Mark Hood and Doug Oldfield as the game's programmers.[^ref-5][^ref-13] He is also credited with programming on Conquests of the Longbow (1991).[^ref-16]
 
 ## Notable Works
 
 ### King's Quest V: Absence Makes the Heart Go Yonder (1990)
 
-On [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], Ghenis worked on the development system alongside Corey Cole, Dan Foy, John Hartin, Robert E. Heitman, and J. Mark Hood.[^ref-7] The game's revolutionary VGA graphics and point-and-click interface required significant evolution of Sierra's development tools to handle the increased complexity.
+On [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], Ghenis is one of ten people credited for the development system, with Dan Foy, Eric Hart, John Hartin, Robert Eric Heitman, Corey Cole, J. Mark Hood, John Rettig, Larry Scott and Jeff Stephenson.[^ref-7]
 
 ### Quest for Glory II: Trial by Fire (1990)
 
-Ghenis contributed to [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]], which featured some of Sierra's most complex game systems including the hybrid adventure-RPG mechanics that defined the Quest for Glory series.[^ref-8] His development systems work helped enable the game's sophisticated character development and combat systems.
+On [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]], Ghenis is credited under "Interpreter / Development System."[^ref-8]
 
 ### Codename: ICEMAN (1990)
 
-As lead programmer on [[1990 - Codename - Iceman|Codename: ICEMAN]], Ghenis helped implement one of Sierra's most technically demanding games, featuring realistic submarine navigation and Cold War espionage elements.[^ref-5] The game's simulation aspects required careful programming to create an authentic experience.
+On [[1990 - Codename - Iceman|Codename: ICEMAN]], Ghenis is credited both as one of the game's three programmers and as part of its development-system team.[^ref-5][^ref-13]
 
 ### Space Quest IV: Roger Wilco and the Time Rippers (1991)
 
-Ghenis's development systems work supported [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]], which pushed Sierra's SCI engine with its time-travel mechanics and varied visual styles representing different time periods.[^ref-9]
+On [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]], Ghenis is credited as part of the "Development Team."[^ref-9]
 
-### Hoyle Official Book of Games Series (1989-1990)
+### Hoyle Official Book of Games Series (1989–1990)
 
-On the Hoyle card and board game series, Ghenis worked on development systems alongside Jeff Stephenson, Robert Eric Heitman, John Hartin, Dan Foy, John Rettig, Corinna Abdul, and Corey Cole.[^ref-10] These casual game compilations required different approaches than Sierra's narrative adventures.
+On the Hoyle card game series, Ghenis worked on development systems; on Volume 2 he is credited alongside Jeff Stephenson, Robert Eric Heitman, John Hartin, Dan Foy, John Rettig, Corinna Abdul and Corey Cole.[^ref-10]
 
 ## Legacy
 
-Pablo Ghenis represents the essential but often overlooked role of development systems engineers in game history.[^ref-1] While designers like Roberta Williams and programmers on individual games received prominent credits, the systems engineers who created and maintained the tools that made those games possible worked behind the scenes on virtually every Sierra production.
-
-His 60 credits across 22 games reflects not the limitations of his contributions but their breadth—development systems work touched every game Sierra produced using the SCI engine.[^ref-1] The tools and interpreter systems Ghenis helped create enabled Sierra's designers to realize their visions without needing to work at the assembly language level, democratizing game development within the company.
+Ghenis shares the credits of all 22 of his games with fellow system programmers Jeff Stephenson and Robert Eric Heitman, a record of the small team behind the interpreter and tools of Sierra's early SCI releases.[^ref-16]
 
 ## Games
 
+Roles as credited on MobyGames.[^ref-15][^ref-16]
+
 ### Sierra On-Line (1988–1991)
 
-- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Role: Development System
-- **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry 2]] — Role: Additional Design
-- **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest 2: The Vengeance]] — Role: Development System
-- **1988** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Development System
-- **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Role: Development System
-- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] — Role: Development System
-- **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry 3]] — Role: Development System
+- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Role: Game Development System
+- **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry 2]] — Role: Game Development System[^ref-14]
+- **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest 2: The Vengeance]] — Role: Game Development System; PC-9801 Conversion
+- **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Interpreter / Development System
+- **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Role: Game Development System
+- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] — Role: Interpreter / Development System
+- **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry 3]] — Role: Interpreter / Development System
 - **1989** — [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games: Volume 1]] — Role: Development System
-- **1990** — [[1990 - Codename - Iceman|Code-Name: Iceman]] — Role: Lead Programmer
+- **1990** — [[1990 - Codename - Iceman|Code-Name: Iceman]] — Role: Programming; Development System[^ref-5]
 - **1990** — [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games: Volume 2]] — Role: Development System
-- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Development System
+- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Interpreter / Development System
 - **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]] — Role: Development System
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Development System
-- **1990** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose VGA]] — Role: Development System
-- **1990** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry 1 VGA]] — Role: Development System
+- **1991** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose VGA]] — Role: SCI Development System
+- **1991** — [[1987 - Mixed-Up Mother Goose|Roberta Williams' Mixed-Up Mother Goose (CD-ROM)]] — Role: System Development
+- **1991** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry 1 VGA]] — Role: System Programmer
 - **1990** — [[1984 - King's Quest - Quest for the Crown|King's Quest I VGA]] — Role: Development System
-- **1990** — [[1986 - Space Quest - The Sarien Encounter|Space Quest I VGA]] — Role: Development System
-- **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]] — Role: Development System
-- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Development System
+- **1991** — [[1986 - Space Quest - The Sarien Encounter|Space Quest I VGA]] — Role: System Development
+- **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]] — Role: Programming
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Development Team
 - **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Development System
 - **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Development System
 
 ## References
 
-[^ref-1]: [MobyGames - Pablo Ghenis](https://www.mobygames.com/person/2786/pablo-ghenis/) — Complete credits listing (60 credits on 22 games)
-[^ref-2]: [Sierra Entertainment History](https://www.sierrachest.com/) — Sierra development team structure
-[^ref-3]: Corey Cole Interview - SCI Engine *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* — SCI development team information
-[^ref-4]: [MobyGames - SCI Games](https://www.mobygames.com/group/148/games-using-sci/) — Games using Sierra's SCI engine
-[^ref-5]: [MobyGames - Codename: Iceman Credits](https://www.mobygames.com/game/436/code-name-iceman/) — Iceman programming credits
-[^ref-6]: [MobyGames - LSL2 Credits](https://www.mobygames.com/game/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places/) — LSL2 additional design credit
-[^ref-7]: [MobyGames - King's Quest V Credits](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/) — KQ5 development system credits
-[^ref-8]: [MobyGames - Quest for Glory II Credits](https://www.mobygames.com/game/quest-for-glory-ii-trial-by-fire/) — QFG2 development credits
-[^ref-9]: [MobyGames - Space Quest IV Credits](https://www.mobygames.com/game/space-quest-iv-roger-wilco-and-the-time-rippers/) — SQIV development credits
-[^ref-10]: [MobyGames - Hoyle 2 Credits](https://www.mobygames.com/game/hoyle-official-book-of-games-volume-2-solitaire/) — Hoyle development system credits
-[^ref-11]: [Sierra Wiki - SCI Interpreter](https://sierra.fandom.com/wiki/Sierra_Creative_Interpreter) — Technical documentation
-[^ref-12]: [Hardcore Gaming 101 - Sierra](https://www.hardcoregaming101.net/sierra/) — Sierra development history
+[^ref-1]: [MobyGames - Pablo Ghenis](https://www.mobygames.com/person/2786/pablo-ghenis/) — Credits listing (22 games)
+[^ref-5]: [MobyGames - Codename: Iceman Credits](https://www.mobygames.com/game/436/code-name-iceman/) — "Programming: J. Mark Hood, Pablo Ghenis, Doug Oldfield"; Development System
+[^ref-6]: [MobyGames - LSL2 Credits](https://www.mobygames.com/game/409/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places/) — LSL2 Game Development System credit
+[^ref-7]: [MobyGames - King's Quest V Credits](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/) — KQ5 development system credits (ten names)
+[^ref-8]: [MobyGames - Quest for Glory II Credits](https://www.mobygames.com/game/169/quest-for-glory-ii-trial-by-fire/) — QFG2 Interpreter / Development System credits
+[^ref-9]: [MobyGames - Space Quest IV Credits](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/) — SQIV Development Team credits
+[^ref-10]: [MobyGames - Hoyle 2 Credits](https://www.mobygames.com/game/760/hoyle-official-book-of-games-volume-2-solitaire/) — Hoyle development system credits
+[^ref-13]: [Sierra News Magazine, Volume 2 Number 2 (Autumn 1989)](https://archive.org/details/Sierra_News_Magazine_Volume_2_Number_2_Autumn_1989) — Codename: ICEMAN feature listing designer Jim Walls and programmers Pablo Ghenis, Mark Hood and Doug Oldfield
+[^ref-14]: [Leisure Suit Larry 2 manual (archive.org)](https://archive.org/details/Leisure_Suit_Larry_2_-_Manual) — "Game Development System: Jeff Stephenson, Robert Heitman, Pablo Ghenis, Stuart Goldstein"
+[^ref-15]: [MobyGames - Pablo Ghenis developer sheet (Wayback, 2017-04-21)](https://web.archive.org/web/20170421073350/http://www.mobygames.com:80/developer/sheet/view/developerId,2786/) — Per-game roles incl. KQ4 and LSL2 Game Development System, PQ2 PC-9801 Conversion
+[^ref-16]: [MobyGames - Pablo Ghenis (Wayback, 2026-05-16)](https://web.archive.org/web/20260516114825/https://www.mobygames.com/person/2786/pablo-ghenis/) — "Credited on 22 games"; roles; frequent collaborators
