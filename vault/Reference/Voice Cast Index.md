@@ -1,14 +1,14 @@
 ---
 title: "Voice Cast Index"
 type: reference
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 description: "Voice actors who appeared in multiple Sierra games, indexed by performer with their Sierra-catalogue credits. Covers Hollywood A-list talent through staff voice actors."
 tags: [reference, voice-acting, cast, performers]
 ---
 
 # Voice Cast Index
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
@@ -112,8 +112,8 @@ Designer and voice actor for his own franchise.
 
 ### Stuart Moulder
 
-- [[1991 - Police Quest III - The Kindred]] — Lt. Sonny Bonds
-- Multiple Police Quest entries
+- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]] — Roger Wilco, Jr. (voice)[^ref-moulder]
+- [[1992 - The Dagger of Amon Ra]] — Blue Person (voice)[^ref-moulder]
 
 ### Bob Vila (TV host)
 
@@ -188,3 +188,4 @@ Discrepancies between sources should be noted with "(per Source X)" annotations 
 [^ref-gk1-vc]: [Wikipedia — Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — Tim Curry casting
 [^ref-curry-iv]: [Twin Galaxies — Tim Curry interview](https://www.twingalaxies.com) — Voice-direction recollections
 [^ref-sierra-chest-vc]: [Sierra Chest — Voice acting credits](https://www.sierrachest.com) — Sierra-specific catalog
+[^ref-moulder]: [IMDb — Stuart Moulder (Wayback, February 17, 2017)](https://web.archive.org/web/20170217100032/http://www.imdb.com/name/nm1723305/) — Voice credits: Space Quest IV (Roger Wilco, Jr.), Laura Bow 2: The Dagger of Amon Ra (Blue Person)
