@@ -1,118 +1,109 @@
 ---
 title: "Lori Ann Cole"
 type: designer
-birth_year: 1965
+birth_year: null
 death_year: null
 notable_games: ["Quest for Glory I: So You Want to Be a Hero", "Quest for Glory II: Trial by Fire", "Quest for Glory III: Wages of War"]
-companies: ["Sierra On-Line", "Transolar Games"]
-last_updated: "2026-05-08"
+companies: ["Sierra On-Line", "FAR Productions", "Transolar Games"]
+last_updated: "2026-10-15"
 ---
 # Lori Ann Cole
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-Lori Ann Cole (born May 5, 1965) is a pioneering video game designer best known for co-creating the groundbreaking Quest for Glory series alongside her husband Corey Cole.[^ref-1] Born into a generation that would witness the birth of personal computing, Cole's journey into game design was unconventional, beginning as a school teacher in Arizona before finding her calling in the emerging interactive entertainment industry.[^ref-2] Her unique background in education and deep passion for fantasy literature and tabletop role-playing games would prove instrumental in shaping her revolutionary approach to game design.
-
-Cole's most significant contribution to gaming history lies in her pioneering work on the Quest for Glory series, which successfully merged adventure game storytelling with role-playing game mechanics.[^ref-3] As she explained her design philosophy: "to bring storytelling and [the] interesting plot lines of books and tabletop role-playing into the hack-and-slash thrill of a computer game."[^ref-4] This innovative hybrid approach not only created a new subgenre but also established templates for character progression, moral decision-making, and narrative depth that would influence game design for decades to come.[^ref-5] Her work emphasized the educational potential of gaming, reflecting her teaching background and belief that "the QFG series requires that a player think about what he is doing and have to make moral decisions."[^ref-6]
+Lori Ann Cole (née Armbruster) is an American game designer, director and writer best known for co-designing Sierra On-Line's Quest for Glory series with her husband [[Corey Cole]].[^ref-21] Adventure Classic Gaming calls the series "among the earliest hybrid role-playing/adventure game series ever created."[^ref-13] Her background includes elementary education, film animation and writing.[^ref-14] Jimmy Maher quotes her aim in designing computer games: "to bring storytelling and [the] interesting plot lines of books and tabletop role-playing into the hack-and-slash thrill of a computer game."[^ref-12]
 
 ## Career
 
 ### Early Career
 
-Lori Ann Cole's path to game design began far from Silicon Valley, in the world of education where she worked as a school teacher in Arizona.[^ref-7] Her early experiences in education would later profoundly influence her approach to game design, particularly her emphasis on moral decision-making and character development within interactive narratives.[^ref-8] "As a child, I always wanted to be a teacher," Cole recalled, explaining how this desire manifested in her later game design philosophy where "The QFG series requires that a player think about what he is doing and have to make moral decisions. The player really becomes a Hero through the course of play, and hopefully carries some of the concepts of heroism onward in real life."[^ref-9]
+Lori met Corey Cole at Westercon in San Francisco in the summer of 1979, at a Dungeons & Dragons game he was running; at the time Corey was programming computers in Southern California and Lori taught school in Arizona.[^ref-12] They married in 1982.[^ref-21] Their first joint project was *The Spellbook*, a newsletter for tabletop-RPG players that they edited and self-published.[^ref-12]
 
-Cole's introduction to the gaming world came through her deep involvement in tabletop role-playing games and fantasy literature. "I have been a reader and a lover of fantasy and mythology most of my life. I've also been a game player and a role player," she noted.[^ref-10] Her entry into the video game industry was facilitated by her relationship with Corey Cole, whom she met at a Dungeons & Dragons game at Westercon in San Francisco during the summer of 1979.[^ref-11] Together, they co-edited "The Spellbook," a newsletter for tabletop-RPG aficionados, demonstrating their shared passion for gaming and storytelling long before entering the computer game industry.[^ref-12]
+In a 2003 interview she described herself: "I have been a reader and a lover of fantasy and mythology most of my life. I've also been a game player and a role player."[^ref-2] She also said: "As a child, I always wanted to be a teacher, and I have taught school on an Indian Reservation."[^ref-2] In 2008 she called herself "a teacher by profession and inclination."[^ref-8]
 
-### Sierra Years
+### Sierra Years (1988–1998)
 
-Cole joined Sierra On-Line in 1988, initially skeptical about computer games' ability to match the depth and freedom of tabletop RPGs.[^ref-13] "Like many dedicated players of tabletop RPGs, she always felt the computerized variety to be lacking in texture, story, and most of all freedom," as gaming historian Jimmy Maher observed.[^ref-14] However, this skepticism would prove to be her greatest asset, driving her to create games that addressed these very limitations. "I really enjoyed RPG games, and had never really played an adventure game before working for Sierra. Unfortunately, most computer RPG's at the time were all monster crawls and very little real role-playing. I wanted to play a game with story and characters," Cole explained.[^ref-15]
+The Coles joined Sierra On-Line in 1988.[^ref-15] Lori was first hired "only as a freelance contractor" and later became a full-time employee for her work on Quest for Glory.[^ref-13] Jimmy Maher writes: "Like many dedicated players of tabletop RPGs, she always felt the computerized variety to be lacking in texture, story, and most of all freedom."[^ref-12] In her own words: "I really enjoyed RPG games, and had never really played an adventure game before working for Sierra. Unfortunately, most computer RPG's at the time were all monster crawls and very little real role-playing. I wanted to play a game with story and characters."[^ref-2]
 
-In 1989, Cole co-designed Hero's Quest I: So You Want to Be a Hero (later renamed Quest for Glory I due to trademark issues), which would become her defining work.[^ref-16] The game represented a revolutionary fusion of adventure game storytelling with RPG character development and progression systems. The innovative approach earned the game the Adventure Game of the Year award from Computer Gaming World.[^ref-17] Cole's design philosophy extended beyond mere gameplay mechanics to encompass moral and ethical dimensions, as evidenced in her conception of the Paladin class: "My concept of Paladin was slightly different. A Paladin was someone who does what is right regardless of the laws or other people's opinion."[^ref-18]
+In 1989 Sierra released *Hero's Quest: So You Want to Be a Hero*, which MobyGames credits her with directing and writing.[^ref-9] It was renamed Quest for Glory because the original name sounded too much like the HeroQuest board game.[^ref-3] Computer Gaming World named *Hero's Quest* its 1990 Adventure Game of the Year, listing "Lori Ann and Corey Cole (designers)" and praising it for "adding a twist of role-playing and a sprinkle of humor."[^ref-28] Of the Paladin she said: "My concept of Paladin was slightly different. A Paladin was someone who does what is right regardless of the laws or other people's opinion."[^ref-2]
 
-The success of the first game led to Quest for Glory II: Trial by Fire in 1990, though development proved more challenging due to Sierra's changing development methodologies.[^ref-19] "We got the worst of both worlds. We got a new [development] system that had never been tried before, and all the bugs that went with that. And we were under the old-school technology where the colors weren't as good and all that. We were under a new administration with a different way of tr[eating projects]," Cole recalled about the difficult production period.[^ref-20] Despite these challenges, the series continued to grow and evolve through Quest for Glory III: Wages of War (1992), Quest for Glory IV: Shadows of Darkness (1993), and ultimately Quest for Glory V: Dragon Fire (1998).[^ref-21]
+[[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] (1990) was made under Sierra's new development processes, which slowed the work.[^ref-12] Lori recalled: "We got the worst of both worlds. We got a new [development] system that had never been tried before, and all the bugs that went with that. And we were doing it under the old-school technology where the colors weren't as good and all that. We were under a new administration with a different way of treating people."[^ref-12] The series continued with Quest for Glory III: Wages of War (1992) and Quest for Glory IV: Shadows of Darkness (1993).[^ref-21] She also designed and directed the educational game [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] (1991).[^ref-9][^ref-21]
+
+After Sierra downsized in 1994, the Coles formed FAR Productions and made [[1995 - Shannara|Shannara]] (1995) for Legend Entertainment.[^ref-21][^ref-14][^ref-13] Lori returned to Sierra the following year as the sole designer of [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]], released in 1998.[^ref-21] That year a photograph of her face was also used for a character in Police Quest: SWAT 2.[^ref-21][^ref-9]
 
 ### Later Career
 
-Following Sierra's restructuring in 1999, which Cole and many Sierra veterans viewed unfavorably, she transitioned away from mainstream game development.[^ref-22] When asked "Do you miss working for Sierra On-Line?" she responded emphatically: "Not in the least. ;-)"[^ref-23] However, her passion for game design and storytelling never waned. Cole continued to work on various projects and maintained active engagement with the gaming community through interviews, fan interactions, and development of new concepts.[^ref-24]
+Asked in October 2003 whether she missed working for Sierra, she answered: "Not in the least. ;-)"[^ref-2] In the same interview, asked about the Quest for Glory rights then held by Vivendi, she said: "We'd love to acquire the rights. Unfortunately, we haven't been able to negotiate with Vivendi for them."[^ref-2] By 2008 she said, "Corey and I do not have the rights to QFG."[^ref-8]
 
-In recent years, Cole has expressed interest in returning to the Quest for Glory universe, with reports indicating "she would like to buy the rights to the Hero Quest/Quest for Glory games" to regain creative control over her seminal work.[^ref-25] She has also been involved in spiritual successors to her classic games, including Hero-U: Rogue to Redemption (2018) and Summer Daze: Tilly's Tale (2023), continuing to explore themes of character development, moral choice, and educational gaming.[^ref-26] Her ongoing project, the "How To Be a Hero" website, reflects her continued commitment to the educational and moral dimensions of interactive entertainment.[^ref-27]
+In 2003 the Coles began a project based on *How to Be a Hero*, a book Lori was co-writing that was never published, with a website of the same name.[^ref-21][^ref-30] After running that site for about three years they lost it and renamed the idea School for Heroes, an email-based web game.[^ref-21][^ref-25] In late 2011 they stopped taking assignments there and turned the idea into a game; their Kickstarter for Hero-U launched in October 2012.[^ref-21][^ref-25] [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] came out in 2018, followed by [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] in 2023.[^ref-26][^ref-21]
 
 ## Notable Works
 
 ### Quest for Glory I: So You Want to Be a Hero (1989)
 
-Cole's masterpiece, originally titled Hero's Quest I, represented a paradigm shift in computer gaming by successfully merging adventure game storytelling with RPG character progression.[^ref-1] Her innovative design allowed players to choose from three distinct character classes—Fighter, Magic User, and Thief—each offering unique solutions to the game's challenges and different narrative experiences.[^ref-2] The game's revolutionary character import system, which allowed players to transfer their developed characters to subsequent games in the series, was unprecedented in the industry and became a defining feature of the franchise.[^ref-3] The title earned the Adventure Game of the Year award from Computer Gaming World, validating Cole's vision of hybrid gameplay.[^ref-4]
+Players chose a fighter, magic user or thief, each with its own approach to problems, so the Coles in effect had to design the game three times.[^ref-12] Computer Gaming World's 1990 Adventure Game of the Year citation credited Lori Ann and Corey Cole as designers.[^ref-28] MobyGames lists her as director and writer of the 1989 release.[^ref-9]
 
 ### Quest for Glory II: Trial by Fire (1990)
 
-The sequel showcased Cole's commitment to cultural diversity and authentic world-building, transporting players to the Arabian Nights-inspired city of Shapeir.[^ref-5] Despite facing significant technical challenges with Sierra's new development systems, Cole maintained the series' core philosophy of meaningful choice and character development.[^ref-6] The game expanded upon the moral complexity introduced in the first installment, featuring more nuanced ethical dilemmas and deeper character interactions that reflected Cole's educational background and commitment to meaningful gameplay.[^ref-7]
+The sequel was the game made under Sierra's new development system that Lori described as "the worst of both worlds."[^ref-12] She also wrote its FACS manual.[^ref-9]
 
 ### Quest for Glory III: Wages of War (1992)
 
-Cole's exploration of African-inspired cultures in the third installment demonstrated her dedication to representing diverse mythologies and worldviews in gaming.[^ref-8] The game tackled complex themes of tribal conflict, diplomacy, and cultural understanding, reflecting Cole's belief that games could serve as vehicles for exploring real-world issues.[^ref-9] Her design philosophy of promoting heroism through moral choice reached new heights in this installment, where players' decisions significantly impacted the resolution of inter-tribal conflicts and the fate of entire communities.[^ref-10]
+MobyGames credits her with design, direction, writing, the "Field Guide" and a voice role on Quest for Glory III.[^ref-9]
 
 ## Design Philosophy
 
-Cole's approach to game design was fundamentally shaped by her background in education and her deep appreciation for fantasy literature and tabletop role-playing games.[^ref-11] She viewed games as powerful educational tools that could teach moral reasoning and character development. "The player really becomes a Hero through the course of play, and hopefully carries some of the concepts of heroism onward in real life," she explained, highlighting her belief in gaming's transformative potential.[^ref-12] This philosophy manifested in gameplay mechanics that rewarded altruistic behavior, encouraged ethical decision-making, and promoted understanding of diverse cultures and perspectives.[^ref-13]
-
-Her design methodology emphasized player agency and meaningful choice, rejecting the linear progression typical of many contemporary games.[^ref-14] Cole believed that "most computer RPG's at the time were all monster crawls and very little real role-playing," leading her to create games that prioritized character development over combat mechanics.[^ref-15] Her innovative approach to character classes and problem-solving reflected her understanding that different players approached challenges in different ways, and that games should accommodate and celebrate this diversity.[^ref-16]
+Cole has said that the series was meant to make players think: "The QFG series requires that a player think about what he is doing and have to make moral decisions. The player really becomes a Hero through the course of play, and hopefully carries some of the concepts of heroism onward in real life."[^ref-2] In 2008 she added that she "was happy to do educational games" and that the series "actually had underlying lessons in leadership."[^ref-8]
 
 ## Legacy
 
-Lori Ann Cole's impact on the gaming industry extends far beyond her direct contributions to individual titles. Her pioneering work on the Quest for Glory series established the template for adventure-RPG hybrid games that continues to influence developers today.[^ref-17] The series' emphasis on character progression, moral choice, and narrative depth helped elevate gaming from simple entertainment to meaningful interactive storytelling.[^ref-18] As one fan expressed in a Reddit AMA: "thank you both so much for basically defining my childhood," reflecting the profound personal impact her games had on players.[^ref-19]
-
-Cole's commitment to cultural diversity and authentic representation in game worlds predated many contemporary discussions about inclusivity in gaming.[^ref-20] Her thoughtful incorporation of various mythologies and cultural traditions demonstrated how games could serve as bridges between different worldviews while maintaining respect and authenticity. Her educational philosophy and emphasis on moral development through gameplay helped establish gaming's potential as a tool for personal growth and learning, influencing educators and designers who recognized the medium's pedagogical possibilities.[^ref-21]
+Computer Gaming World's 1990 award recognised the series' mix of adventure and role-playing from the start.[^ref-28] The Quest for Glory II VGA Remake (2008) by AGD Interactive carries the Coles' original "Written & Designed by" credit,[^ref-9] and Lori and Corey returned to the adventure-RPG hybrid with Hero-U.[^ref-21][^ref-26]
 
 ## Games
 
-### Sierra On-Line (1989–1998)
+### Sierra On-Line (1988–1998)
 
-- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want to Be a Hero]] — Role: Director, Writer
-- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Co-Designer
-- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]] — Role: Voice Actor (Queen Isabella)
+- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want to Be a Hero]] — Role: Director, Writer; named co-designer by Computer Gaming World[^ref-28]
+- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Co-Designer, FACS Manual Writer
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]] — Role: Voice Actor, Queen Icebella (CD-ROM version; MobyGames credits the role as "Queen Isabella")[^ref-29][^ref-9]
 - **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Designer, Director
 - **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Additional Material
 - **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I: So You Want to Be a Hero (VGA)]] — Role: Director, Co-Designer
-- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Director, Designer, Writer
+- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Director, Designer, Writer, Voice Actor
 - **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV: Shadows of Darkness]] — Role: Co-Designer, Co-Director, Writer
-- **1995** — [[1995 - Shannara|Shannara]] — Role: Co-Designer, Writer
 - **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Role: Designer
+- **1998** — [[1998 - Police Quest - SWAT 2|Police Quest: SWAT 2]] — Role: Photo Model
 
-### Post-Sierra (2011–2023)
+### FAR Productions (1995)
 
+- **1995** — [[1995 - Shannara|Shannara]] — Company: FAR Productions (published by Legend Entertainment), Role: Co-Designer, Writer, Voiceover Direction
+
+### Post-Sierra (2008–2023)
+
+- **2008** — [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] — Company: AGD Interactive, Credit: "Written & Designed by" (original design credit carried over)
 - **2011** — [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux: To Heir is Human]] — Company: AGD Interactive, Role: Voice Actor (Smaude)
-- **2018** — [[2018 - Bolt Riley - A Reggae Adventure|Bolt Riley: A Reggae Adventure]] — Company: Adventure Mob, Role: Writer
+- **2018** — [[2018 - Bolt Riley - A Reggae Adventure|Bolt Riley: A Reggae Adventure]] — Company: Adventure Mob, Role: Co-Designer, Writer[^ref-9][^ref-11]
 - **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Company: Transolar Games, Role: Co-Designer, Lead Writer, Director
 - **2023** — [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] — Company: Transolar Games, Role: Director, Writer
 
+Credits follow MobyGames unless noted.[^ref-9]
+
 ## References
 
-[^ref-1]: https://www.filfre.net/2016/09/09/ — Biography and career overview information
-[^ref-2]: https://questforglory.fandom.com/wiki/Interview_with_Lori_Ann_Cole_and_Mishell_Baker — Interview details and career insights
-[^ref-3]: https://www.choicestgames.com/2014/10/where-are-they-now-lori-ann-cole.html — Current activities and career retrospective
-[^ref-4]: https://www.abandonwaredos.com/retro-game-designer.php?des=Lori+Ann+Cole — Game design philosophy quotes
-[^ref-5]: https://en.wikipedia.org/wiki/Lori_Ann_Cole — Basic biographical information and career timeline
-[^ref-6]: https://www.sierragamers.com/forums/topic/what-happend-to-lori-and-corey-cole/ — Career updates and fan discussions
-[^ref-7]: https://www.reddit.com/r/IAmA/comments/12f8ip/ask_corey_and_lori_cole_anything/ — Reddit AMA responses and fan interactions
-[^ref-8]: http://www.adventureclassicgaming.com/index.php/site/interviews/323/ — Detailed interview about design philosophy
-[^ref-9]: https://www.mobygames.com/person/3681/lori-ann-cole/credits/ — Complete game credits and career timeline
-[^ref-10]: https://www.youtube.com/watch?v=X2t9SEMn5sk — Video interview content and quotes
-[^ref-11]: https://www.imdb.com/name/nm0998771/ — Voice acting credits and filmography
-[^ref-12]: https://www.filfre.net/2016/09/so-you-want-to-be-a-hero/ — Quest for Glory development history
-[^ref-13]: http://www.adventureclassicgaming.com/index.php/site/interviews/208/ — Game development process insights
-[^ref-14]: https://www.mobygames.com/person/3681/lori-ann-cole/ — Professional game industry profile
-[^ref-15]: https://www.choicestgames.com/2013/08/top-10-pc-game-developers-9-corey-and.html — Developer ranking and career assessment
-[^ref-16]: https://tigerchainsaw.com/2020/03/17/quest-for-glory-1-review/ — Game review and impact analysis
-[^ref-17]: https://vndb.org/s23169 — Game database information and credits
-[^ref-18]: [Quest for Glory Wiki – Interview with Lori Ann Cole and Mishell Baker](https://questforglory.fandom.com/wiki/Interview_with_Lori_Ann_Cole_and_Mishell_Baker) — Cole: "My concept of Paladin was slightly different. A Paladin was someone who does what is right regardless of the laws or other people's opinion."
-[^ref-19]: https://www.wired.com/2019/02/geeks-guide-game-design/ — Modern game design influence and legacy
-[^ref-20]: https://www.sierragamers.com/forums/topic/interview-with-lori-ann-cole-and-corey-cole/ — Joint interview with husband and collaborator
-[^ref-21]: https://en.wikipedia.org/wiki/The_Coles — Wikipedia article on The Coles with complete game credits
-[^ref-22]: https://en.wikipedia.org/wiki/Sierra_Entertainment — Sierra corporate history including 1996 CUC acquisition and 1999 restructuring
-[^ref-23]: https://www.eurogamer.net/quest-for-glory-creators-take-to-kickstarter-with-hero-u-rogue-to-redemption — Coverage of the Coles' post-Sierra activities and Kickstarter launch
-[^ref-24]: https://web.archive.org/web/20130207163851/http://www.nypost.com/p/blogs/gamereport/interview_with_cori_cole_creator_fo3JcablCc214MdZhtEh1M — NY Post interview on Hero-U and continued creative projects
-[^ref-25]: https://mixnmojo.com/news/Hero-U-is-a-Kickstarter-for-a-new-RPG-Adventure-Hybrid — International House of Mojo coverage of Hero-U Kickstarter and Transolar Games
-[^ref-26]: https://en.wikipedia.org/wiki/Hero-U:_Rogue_to_Redemption — Wikipedia article on Hero-U with development history and credits
-[^ref-27]: https://www.hero-u.com/ — Official Transolar Games website with game information and Cole biography
+[^ref-2]: [Quest for Glory Wiki – Interview with Lori Ann Cole and Mishell Baker (Inventory 9, October 2003)](https://questforglory.fandom.com/wiki/Interview_with_Lori_Ann_Cole_and_Mishell_Baker) — Lori's own words: "lover of fantasy", "always wanted to be a teacher… Indian Reservation", "I really enjoyed RPG games", Paladin, "Not in the least", "We'd love to acquire the rights"
+[^ref-3]: [Choicest Games – Where Are They Now: Lori Ann Cole (2014)](https://www.choicestgames.com/2014/10/where-are-they-now-lori-ann-cole.html) — Hero's Quest renamed because the name sounded like the HeroQuest board game
+[^ref-8]: [Adventure Classic Gaming – Interview with Lori Ann Cole (2008)](http://www.adventureclassicgaming.com/index.php/site/interviews/323/) — "I am a teacher by profession and inclination"; "Corey and I do not have the rights to QFG"
+[^ref-9]: [MobyGames – Lori Ann Cole credits](https://www.mobygames.com/person/3681/lori-ann-cole/credits/) — 48 credits on 19 games (dossier copy): QFG roles, QFG II VGA Remake, SWAT 2 photo model, Shannara, Bolt Riley game design
+[^ref-11]: [IMDb – Lori Ann Cole](https://www.imdb.com/name/nm0998771/) — Writer credits incl. Bolt Riley (co-writer); Smaude voice
+[^ref-12]: [The Digital Antiquarian – So You Want to Be a Hero? (Jimmy Maher, 2016)](https://www.filfre.net/2016/09/so-you-want-to-be-a-hero/) — Westercon 1979, Arizona, The Spellbook, Maher's quote of her aims, "the worst of both worlds"
+[^ref-13]: [Adventure Classic Gaming – Interview with Lori Ann Cole (September 2003)](http://www.adventureclassicgaming.com/index.php/site/interviews/208/) — "among the earliest hybrid role-playing/adventure game series"; hired first as a freelance contractor; FAR Productions developed Shannara
+[^ref-14]: [MobyGames – Lori Ann Cole profile](https://www.mobygames.com/person/3681/lori-ann-cole/) — Biography: elementary education, film animation and writing; Shannara for Legend Entertainment
+[^ref-15]: [Choicest Games – Top 10 PC Game Developers #9: Corey and Lori Ann Cole (2013)](https://www.choicestgames.com/2013/08/top-10-pc-game-developers-9-corey-and.html) — "joined Sierra On-Line in 1988"
+[^ref-21]: [Wikipedia – The Coles](https://en.wikipedia.org/wiki/The_Coles) — Married 1982, née Armbruster, 1994 downsizing and return for QFG V, SWAT 2 photo, Shannara for Legend, How to Be a Hero (2003) → School of Heroes → Hero-U
+[^ref-25]: [The International House of Mojo – Hero-U is a Kickstarter for a new RPG-Adventure Hybrid](https://mixnmojo.com/news/Hero-U-is-a-Kickstarter-for-a-new-RPG-Adventure-Hybrid) — October 28, 2012: Hero-U based on School for Heroes, "their previous email based webgame"
+[^ref-26]: [Wikipedia – Hero-U: Rogue to Redemption](https://en.wikipedia.org/wiki/Hero-U:_Rogue_to_Redemption) — 2018 release
+[^ref-28]: [Computer Gaming World #74 (September 1990), "Game of the Year Awards"](https://archive.org/details/Computer_Gaming_World_Issue_74) — period scan: "Sierra for Hero's Quest— Lori Ann and Corey Cole (designers)"; "the WINNER of CGW's Adventure Game of the Year is; Sierra for Hero's Quest"
+[^ref-29]: [King's Quest Omnipedia – Queen Icebella](https://kingsquest.fandom.com/wiki/Queen_Icebella) — "In KQV CD-ROM, she was voiced by Lori Ann Cole"
+[^ref-30]: [How to Be a Hero website (Wayback, August 2003)](https://web.archive.org/web/20030801000000/http://www.howtobeahero.com/) — "How to Be a Hero - dot com! Find your inner hero."
