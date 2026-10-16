@@ -4,90 +4,90 @@ type: developer
 founded: 1987
 defunct: 2000
 headquarters: "Berkeley, California, USA"
-notable_games: ["After Dark", "Head Rush"]
-parent_company: "CUC Software (later Cendant)"
-last_updated: "2026-10-09"
+notable_games: ["After Dark", "You Don't Know Jack", "Head Rush"]
+parent_company: "Sierra On-Line (CUC International), acquired 1997"
+last_updated: "2026-10-15"
 ---
 # Berkeley Systems
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-Berkeley Systems was an innovative software development company founded in 1987 in Berkeley, California, that became renowned for creating some of the most memorable and culturally significant entertainment software of the 1990s.[^ref-1][^ref-6] The company initially gained widespread recognition with their screensaver collection "After Dark" in 1989, which featured the iconic flying toaster animation that became a cultural phenomenon and symbol of early personal computing.[^ref-8][^ref-12] However, Berkeley Systems truly revolutionized interactive entertainment with their groundbreaking trivia game series "You Don't Know Jack," which pioneered irreverent humor and multimedia presentation in computer gaming, influencing countless quiz and party games that followed.[^ref-3][^ref-7]
+Berkeley Systems was a software company in Berkeley, California, founded in 1987 by Wes Boyd and Joan Blades.[^ref-6] The company's own 1997 background page names Lawrence Boyd as a third founder and says the company began "on a federal grant to develop software for the visually impaired".[^ref-8] It became best known for the After Dark screen saver series, which it said had sold over three million units since 1989, and as the publisher of the trivia game You Don't Know Jack.[^ref-8][^ref-16]
 
-The studio's unique approach to software development combined technical innovation with pop culture sensibility, creating products that appealed to mainstream audiences rather than just traditional computer enthusiasts.[^ref-9][^ref-11] Under the leadership of founders who understood both technology and entertainment, Berkeley Systems carved out a distinctive niche in the software industry, producing titles that were as much cultural artifacts as they were games. Their work bridged the gap between utility software and entertainment, demonstrating that computer programs could be both functional and fun, ultimately helping to broaden the appeal of personal computing during a crucial period of industry growth.[^ref-13][^ref-16]
+You Don't Know Jack was developed by Jellyvision of Chicago and published by Berkeley Systems.[^ref-6][^ref-21][^ref-3] CUC International bought Berkeley Systems in April 1997 and placed it under Sierra On-Line.[^ref-2][^ref-16][^ref-5]
 
 ## History
 
 ### Founding and Early Years
 
-Berkeley Systems was established in 1987 as a small software development company focused on creating innovative applications for personal computers.[^ref-1][^ref-8] The company's breakthrough came in 1989 with the release of "After Dark," a screensaver collection that transformed the utilitarian concept of screen protection into entertainment.[^ref-6][^ref-12] The software's most famous component, the flying toaster animation created by artist Jack Eastman, became an unexpected cultural icon that appeared on everything from t-shirts to magazine covers, demonstrating the company's ability to create software that resonated far beyond its intended technical purpose.[^ref-8][^ref-11]
+Berkeley Systems was co-founded in 1987 by Wes Boyd and Joan Blades.[^ref-6] Its early income came from contract work for the National Institutes of Health, adapting the Macintosh for partially sighted and blind users.[^ref-6] MobyGames says the couple founded it "to create handicapped access software for the Macintosh".[^ref-3]
 
-The success of After Dark established Berkeley Systems as a company willing to take creative risks and challenge conventional notions of what computer software could be.[^ref-9][^ref-13] Following this initial success, the company released "More After Dark" in 1991, expanding their screensaver empire and solidifying their reputation for combining technical functionality with artistic creativity.[^ref-1][^ref-3] This early period established the company's core philosophy of making computing more accessible and enjoyable for everyday users, setting the stage for their later ventures into interactive entertainment.[^ref-7]
+After Dark followed in 1989.[^ref-8] The company's 1997 background page credits it to a group "spearheaded by Jack Eastman, Nick Rush and Igor Gasowski"; the flying toaster is Eastman's (see [[1989 - After Dark|After Dark]]).[^ref-8] The company licensed After Dark images to Wemco for ties and boxer shorts, and the screen savers appeared in films such as The Net and TV series such as Seinfeld and The X-Files.[^ref-8] More After Dark followed in 1991.
 
-### The You Don't Know Jack Era
+### You Don't Know Jack
 
-The company's trajectory changed dramatically in 1995 with the launch of "You Don't Know Jack," a trivia game that revolutionized the quiz game genre through its irreverent humor, high-quality audio production, and innovative multimedia presentation.[^ref-3][^ref-7] Created by Harry Gottlieb, Tom Gottlieb, and other key team members, the game featured the voice of host "Cookie" Masterson and challenged players with pop culture questions delivered through a blend of sarcasm, wordplay, and cultural commentary that was unprecedented in computer gaming.[^ref-1][^ref-16] The game's success spawned multiple sequels and editions, including Volume 2 (1996), Volume 3 (1997), and several themed collections that maintained the series' distinctive voice while expanding its reach.[^ref-6][^ref-18]
+Jellyvision, then called Learn Television and a maker of children's educational films, developed You Don't Know Jack after Igor Gasowski of Berkeley Systems asked whether it could make an adult version of its quiz game That's a Fact, Jack!; Gasowski became the game's executive producer.[^ref-21] The game was released in 1995 and became Berkeley's best-selling product, while production stayed at Jellyvision's Chicago studios.[^ref-21][^ref-6][^ref-7] The host of the first volume was Nate Shapiro, voiced by Jellyvision's Harry Gottlieb.[^ref-22] Cookie Masterson, played by Tom Gottlieb, was the sign-in host for the first installments and became a game host from You Don't Know Jack: Movies onward.[^ref-25][^ref-24]
 
-The You Don't Know Jack series became Berkeley Systems' flagship product, earning critical acclaim and commercial success that positioned the company as a major player in the emerging multimedia entertainment software market.[^ref-3][^ref-20] The games' sophisticated audio design, featuring full voice acting and dynamic sound effects, set new standards for production values in computer games and influenced the development of countless trivia and party games that followed.[^ref-7][^ref-11] The series' cultural impact extended beyond gaming, with references to the show appearing in popular media and the game's distinctive humor becoming a touchstone for 1990s pop culture sensibility.[^ref-9]
+In October 1996 Berkeley Systems launched beZerk, an online entertainment site built around games.[^ref-18]
 
 ### Acquisition and Later Years
 
-In April 1997, Berkeley Systems was acquired by CUC International and placed under its Sierra On-Line division, in a deal Wikipedia puts at $13.8 million (the terms were not disclosed at the time).[^ref-2][^ref-16][^ref-17] The acquisition was part of CUC's strategy to expand their portfolio of consumer software products and capitalize on the growing market for entertainment software.[^ref-4][^ref-13] Under CUC's ownership, Berkeley Systems continued to develop and publish games, including "Head Rush" in 1998, which applied their multimedia expertise to educational content, and "After Dark Games" in 1998, which transformed their screensaver properties into interactive games.[^ref-5][^ref-14]
+CUC International confirmed the acquisition of Berkeley Systems in April 1997.[^ref-2] The Los Angeles Times reported that terms were not disclosed, that up to a third of the company's 120 employees would be laid off, and that the unit's new general manager, Chris Deyo, would report to executives at Sierra On-Line.[^ref-16] Wikipedia later put the price at $13.8 million.[^ref-6] Head Rush and After Dark Games were published by Sierra in 1998.
 
-However, the acquisition ultimately marked the beginning of the end for Berkeley Systems as an independent creative force.[^ref-11][^ref-12] The company's original founders and key creative personnel gradually departed, and the distinctive culture that had produced their most innovative work began to dissipate under corporate ownership.[^ref-15][^ref-19] By 2000, Berkeley Systems had effectively ceased operations as a distinct entity, with their intellectual properties scattered among various corporate successors and their creative team dispersed throughout the industry.[^ref-10][^ref-11] The You Don't Know Jack franchise would later be acquired by other companies and continue in various forms, but the original Berkeley Systems approach to irreverent, high-quality multimedia entertainment had come to an end.[^ref-7]
+By 2000 little was left: the Daily Ping noted that beZerk had been outsourced to won.net the previous year and asked "So what's left at Berkeley? Not much."[^ref-11] Wikipedia says that, after a period as the US headquarters of Flipside.com, Berkeley Systems was folded into iWin.com in early 2000.[^ref-6] Boyd and Blades went on to found MoveOn.org in 1998.[^ref-6]
 
 ## Notable Games
 
 ### You Don't Know Jack (1995)
 
-The original "You Don't Know Jack" represented a quantum leap forward in computer-based trivia games, combining sophisticated multimedia presentation with razor-sharp writing that transformed the quiz game format into genuine entertainment.[^ref-3][^ref-7] The game featured the sardonic voice of host Cookie Masterson, who guided players through multiple-choice questions covering pop culture, current events, and general knowledge with a level of wit and irreverence that was unprecedented in computer gaming.[^ref-1] Its innovative "Dis or Dat" and "Jack Attack" rounds created gameplay variety that kept players engaged beyond simple question-and-answer formats, while the game's high production values, including professional voice acting and dynamic audio design, set new standards for multimedia software.[^ref-16]
+You Don't Know Jack was conceived as a trivia game for adults that mixed pop culture and high culture in the same question; Harry Gottlieb, founder of Learn Television, has said he worked out how to make a trivia game funny with his brother Tom Gottlieb.[^ref-21] Berkeley Systems published it; Jellyvision developed it.[^ref-21]
 
 ### After Dark (1989)
 
-"After Dark" transformed the mundane necessity of screen savers into a form of digital art and entertainment that captured the imagination of computer users worldwide.[^ref-8][^ref-12] The collection's flying toaster animation became one of the most recognizable images of early personal computing, appearing in popular culture references and merchandise that extended far beyond the software industry.[^ref-6] The screensaver's success demonstrated Berkeley Systems' unique ability to find entertainment value in utilitarian software, while its technical innovation in creating smooth animations and system-friendly operation established the company's reputation for combining creativity with solid programming.[^ref-11]
+After Dark is a series of screen savers; see [[1989 - After Dark|After Dark]] and [[1991 - More After Dark|More After Dark]]. By 1997 the company said the franchise had sold over three million units.[^ref-8]
 
 ### Head Rush (1998)
 
-"Head Rush" represented Berkeley Systems' ambitious attempt to apply their multimedia expertise to educational software, creating a game show format that made learning engaging through the same irreverent humor and high production values that characterized their entertainment titles.[^ref-5][^ref-14] The game covered a wide range of academic subjects while maintaining the company's signature style of wit and cultural commentary, demonstrating their versatility in adapting their creative approach to different market segments.[^ref-18] Though less commercially successful than their pure entertainment titles, Head Rush showcased Berkeley Systems' commitment to innovation and their belief that educational content could be delivered with the same entertainment value as their quiz games.[^ref-20]
+Head Rush (You Don't Know Jack HeadRush) is a teen spin-off of You Don't Know Jack, released on August 31, 1998.[^ref-24] MobyGames describes it as keeping the series' format with "a shift from sexual humor to toilet humor and a change in art style to cartoons".[^ref-23] The vault's [[1998 - Head Rush|Head Rush]] page covers its development by Berkeley Systems and Jellyvision and its release under Sierra's Sierra Attractions label.
 
 ## Key People
 
-The creative leadership at Berkeley Systems included founders and key personnel who shaped the company's distinctive approach to software development and entertainment design.[^ref-1][^ref-8] Harry Gottlieb and Tom Gottlieb were instrumental in creating the You Don't Know Jack series, bringing their vision of irreverent, intelligent entertainment to the computer gaming market.[^ref-7] Artist Jack Eastman created the iconic flying toaster animation that became synonymous with the After Dark brand and helped establish Berkeley Systems' reputation for memorable visual design.[^ref-12] The development team also included writers, programmers, and audio specialists who contributed to the high production values that distinguished Berkeley Systems products from typical software offerings of the era.[^ref-3]
+- **Wes Boyd** and **Joan Blades**: founders.[^ref-6] The company's 1997 page also names **Lawrence Boyd**.[^ref-8]
+- **Jack Eastman**: creator of the flying toasters and one of the people behind After Dark, with Nick Rush and Igor Gasowski.[^ref-8]
+- **Igor Gasowski**: executive producer of You Don't Know Jack.[^ref-21]
+- **Julie Wainwright**: chief executive at the time of the CUC acquisition, expected to leave after the transition.[^ref-16]
+- **Chris Deyo**: marketing executive named general manager of the unit after the acquisition.[^ref-16]
+
+Harry and Tom Gottlieb, who created and voiced You Don't Know Jack, were Jellyvision people, not Berkeley staff.[^ref-21][^ref-22]
 
 ## Legacy
 
-Berkeley Systems' influence on the software and gaming industries extended far beyond their relatively brief existence as an independent company, establishing design principles and creative approaches that continue to influence interactive entertainment today.[^ref-9][^ref-11] Their work on the You Don't Know Jack series pioneered the integration of sophisticated humor and multimedia presentation in computer games, creating a template for quiz and party games that has been emulated by countless developers.[^ref-7][^ref-16] The company's success in making computer software accessible and entertaining to mainstream audiences helped broaden the appeal of personal computing during a crucial period of industry growth, demonstrating that software could be both functional and culturally relevant.[^ref-13]
-
-The flying toaster from After Dark became one of the most enduring symbols of 1990s computing culture, representing a time when personal computers were transitioning from business tools to household entertainment devices.[^ref-6][^ref-12] Berkeley Systems' approach to combining technical innovation with pop culture sensibility influenced a generation of software developers and helped establish the foundation for the modern casual gaming market.[^ref-15] Many former Berkeley Systems team members went on to influential roles at other companies, carrying forward the creative philosophy and high production standards that characterized their work.[^ref-10][^ref-19]
+The LA Times summed up the company in 1997 as best known for its "You Don't Know Jack" CD-ROM trivia games and its After Dark screen savers "that feature flying toasters and other irreverent images".[^ref-16] Jellyvision, the series' developer, later became Jackbox Games.[^ref-21]
 
 ## Games
 
-- **1989** — [[1989 - After Dark|After Dark]] — Genre: Screensaver/Utility
-- **1991** — [[1991 - More After Dark|More After Dark]] — Genre: Screensaver/Utility
-- **1998** — [[1998 - After Dark Games|After Dark Games]] — Genre: Mini-Games
-- **1998** — [[1998 - Head Rush|Head Rush]] — Genre: Educational/Trivia
+Berkeley Systems titles with SierraVault pages; MobyGames lists the company's full credits, including the You Don't Know Jack volumes.[^ref-3]
+
+- **1989** — [[1989 - After Dark|After Dark]] — Genre: Screensaver
+- **1991** — [[1991 - More After Dark|More After Dark]] — Genre: Shooter
+- **1998** — [[1998 - After Dark Games|After Dark Games]] (published by Sierra) — Genre: Puzzle
+- **1998** — [[1998 - Head Rush|Head Rush]] (with Jellyvision; published by Sierra) — Genre: Trivia
 
 ## References
 
-[^ref-1]: [Berkeley Systems - Preter Human Wiki](https://wiki.preterhuman.net/Berkeley_Systems) — Company history and game development details
-[^ref-2]: [Berkeley Systems Acquired by CUC - Wired](https://www.wired.com/1997/04/berkeley-systems-acquired-by-cuc/) — 1997 acquisition details and financial information
-[^ref-3]: [Berkeley Systems Inc. - MobyGames](https://www.mobygames.com/company/1199/berkeley-systems-inc/) — Comprehensive game catalog and development history
-[^ref-4]: [Berkeley Systems Acquisition - Archived Wired](https://web.archive.org/web/20100615052153/http:/www.wired.com/techbiz/media/news/1997/04/2902) — Additional acquisition coverage
-[^ref-5]: [Sierra OnLine Inc. Company History](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) — Context on Sierra relationship and industry background
-[^ref-6]: [Berkeley Systems - Wikipedia](https://en.wikipedia.org/wiki/Berkeley_Systems) — General company overview and cultural impact
-[^ref-7]: [Berkeley Systems - Jackbox Games Wiki](https://jackboxgames.fandom.com/wiki/Berkeley_Systems) — You Don't Know Jack series development and legacy
-[^ref-8]: [Berkeley Systems Background - Archived Site](https://web.archive.org/web/19970625090722/www.berksys.com/lite/news/bkgd.html) — Company's own historical background information
-[^ref-9]: [Wikipedia - Berkeley Systems](https://en.wikipedia.org/wiki/Berkeley_Systems) — Company details and timeline
-[^ref-10]: [Berkeley Systems - PitchBook](https://pitchbook.com/profiles/company/53290-00) — Corporate structure and business information
-[^ref-11]: [Whatever Happened to Berkeley Systems - Daily Ping](https://dailyping.com/archive/2000/09/04/whatever-happened-to-berkeley-systems/) — Analysis of company's decline and closure
-[^ref-12]: [Berkeley Systems Overview - Savvy Sage](https://savvysage.net/berkeley-systems/) — Cultural impact and After Dark legacy
-[^ref-13]: [CUC Buys Berkeley Systems - Wired](https://www.wired.com/1997/04/cuc-buys-content-maker-berkeley-systems/) — Alternative coverage of acquisition
-[^ref-14]: [Berkeley Systems - CBInsights](https://www.cbinsights.com/company/berkeley-systems) — Business intelligence and company data
-[^ref-15]: [Berkeley Systems - Everything Allowed Wiki](https://everything-allowed.fandom.com/wiki/Berkeley_Systems) — Additional game details and company information
-[^ref-16]: [Berkeley Systems Acquisition - LA Times](https://www.latimes.com/archives/la-xpm-1997-04-10-fi-47219-story.html) — Newspaper coverage of CUC acquisition
-[^ref-17]: [Berkeley Systems - Wikipedia](https://en.wikipedia.org/wiki/Berkeley_Systems) — Acquired by the Sierra On-Line division of CUC International in 1997 for $13.8 million
+[^ref-2]: [Berkeley Systems Acquired by CUC - Wired](https://www.wired.com/1997/04/berkeley-systems-acquired-by-cuc/) — April 1997: CUC "on Tuesday confirmed its latest move into the computer gaming market"
+[^ref-3]: [Berkeley Systems, Inc. - MobyGames (Wayback, July 2023)](https://web.archive.org/web/20230726000835/https://www.mobygames.com/company/1199/berkeley-systems-inc/) — founded by Wes Boyd and Joan Blades "to create handicapped access software for the Macintosh"; Jellyvision approached Berkeley with its YDKJ prototype; credits list
+[^ref-5]: [Sierra On-Line, Inc. Company History](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) — "In April 1997, the firm purchased Berkeley Systems"
+[^ref-6]: [Berkeley Systems - Wikipedia](https://en.wikipedia.org/wiki/Berkeley_Systems) — co-founded 1987 by Wes Boyd and Joan Blades; NIH contract work; YDKJ developed by Jellyvision; acquired 1997 for $13.8 million; Flipside.com; folded into iWin.com in early 2000; MoveOn.org
+[^ref-7]: [Berkeley Systems - Jackbox Games Wiki](https://jackboxgames.fandom.com/wiki/Berkeley_Systems) — YDKJ "was developed by Jellyvision"; production continued at Jellyvision's Chicago studios
+[^ref-8]: [Berkeley Systems Corporate Background (Wayback, June 1997)](https://web.archive.org/web/19970625090722/www.berksys.com/lite/news/bkgd.html) — founded 1987 by Wes Boyd, Joan Blades and Lawrence Boyd on a federal grant; After Dark over three million units since 1989; Eastman, Rush and Gasowski; Wemco ties and boxer shorts; film and TV appearances
+[^ref-11]: [Whatever Happened to Berkeley Systems - Daily Ping](https://dailyping.com/archive/2000/09/04/whatever-happened-to-berkeley-systems/) — September 2000: beZerk outsourced to won.net; "So what's left at Berkeley? Not much."
+[^ref-16]: [CUC Agrees to Acquire Berkeley Systems Inc. - LA Times, 10 April 1997](https://www.latimes.com/archives/la-xpm-1997-04-10-fi-47219-story.html) — terms not disclosed; up to a third of 120 employees laid off; Wainwright to leave; Chris Deyo GM reporting to Sierra
 [^ref-18]: [Berkeley Systems Game Site Launch - CNET](https://web.archive.org/web/20190716221736/https://www.cnet.com/news/short-take-berkeley-systems-launches-game-based-site/) — October 17, 1996: launch of the beZerk online entertainment site
-[^ref-19]: [Berkeley Systems - Academic Dictionary](https://en-academic.com/dic.nsf/enwiki/671727) — Academic reference on company significance
-[^ref-20]: [Berkeley Systems News Brief - IGN](https://www.ign.com/articles/1999/05/25/news-briefs-322) — Late-period company news and development updates
+[^ref-21]: [You Don't Know Jack (1995 video game) - Wikipedia](https://en.wikipedia.org/wiki/You_Don%27t_Know_Jack_(1995_video_game)) — developed by Jellyvision (Learn Television, later Jackbox Games); Harry Gottlieb's origin story with Igor Gasowski and Tom Gottlieb; Gasowski executive producer
+[^ref-22]: [Nate Shapiro - Jackbox Games Wiki](https://jackboxgames.fandom.com/wiki/Nate_Shapiro) — "Nate Shapiro is a You Don't Know Jack host voiced by Harry Gottlieb. He was the original host of the first You Don't Know Jack"
+[^ref-23]: [MobyGames - Head Rush](https://www.mobygames.com/game/3639/head-rush/) — teen-angled YDKJ trivia game; "a shift from sexual humor to toilet humor and a change in art style to cartoons"
+[^ref-24]: [You Don't Know Jack (franchise) - Wikipedia](https://en.wikipedia.org/wiki/You_Don%27t_Know_Jack_(franchise)) — hosts Nate Shapiro (Harry Nathan Gottlieb) and Cookie Masterson (Tom Gottlieb); HeadRush "a teen spin-off game", August 31, 1998
+[^ref-25]: [Cookie Masterson - Jackbox Games Wiki](https://jackboxgames.fandom.com/wiki/Cookie_Masterson) — "For the first three installments, he served as the sign-in host for players. Starting with Movies, Cookie began hosting games"
