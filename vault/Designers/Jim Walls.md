@@ -1,115 +1,115 @@
 ---
 title: "Jim Walls"
 type: designer
-birth_year: 1940
+birth_year: null
 death_year: null
 notable_games: ["Police Quest: In Pursuit of the Death Angel", "Police Quest II: The Vengeance", "Codename: Iceman", "Blue Force", "Blade Runner"]
 companies: ["Sierra On-Line", "Tsunami Media", "Westwood Studios"]
-last_updated: "2026-05-08"
+last_updated: "2026-10-15"
 ---
 # Jim Walls
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-Jim Walls, born November 30, 1940, is a pioneering video game designer who revolutionized the adventure game genre by creating realistic police procedural experiences.[^ref-1][^ref-2] Before entering the gaming industry, Walls spent 15 years as a California Highway Patrol officer, bringing authentic law enforcement experience to his game designs.[^ref-3][^ref-4] His unique background as a real police officer turned game designer made him a distinctive voice in the industry, creating games that balanced entertainment with educational value about police work.
+Jim Walls is an American video game designer, born and raised in California, who created Sierra On-Line's realistic police adventure series Police Quest.[^ref-1][^ref-30] Before entering the gaming industry he was a California Highway Patrol (CHP) officer: he graduated from the academy in December 1971 and retired in 1986.[^ref-30][^ref-1] Walls has described this as 15 years in the CHP; his own blog counts thirteen years of service before the 1984 shootout that ended his police career.[^ref-3][^ref-30] "I'm a private kind of a guy," he told Sierra's magazine in 1991.[^ref-31]
 
-Walls is best known as the creator of the Police Quest series, which he developed during his tenure at Sierra On-Line from 1987 to 1991.[^ref-5][^ref-6] His games were groundbreaking in their attention to realistic police procedures, proper protocol, and authentic criminal justice scenarios drawn from his own experiences on the force. Beyond entertainment, his work had a profound impact on players, with many citing his games as inspiration for careers in law enforcement and criminal justice.[^ref-7][^ref-8]
+Walls is best known as the creator of the Police Quest series. He designed the first three games at Sierra between 1987 and 1991, along with Codename: ICEMAN.[^ref-1][^ref-9] As he put it, "The design theme from PQ through PQ3 was constant. It was all about using correct police procedure."[^ref-30] The games drew on his own experiences on the force.[^ref-1][^ref-6] Walls has said that fan mail from children who wanted to become police officers because of Police Quest was "the ultimate reward".[^ref-30][^ref-29]
 
-After leaving Sierra, Walls continued his career in the games industry for another decade, designing Blue Force (1993) at Tsunami Media as a spiritual successor to Police Quest, then joining Westwood Studios in 1996 where he contributed to acclaimed titles including Blade Runner (1997), Pirates: The Legend of Black Kat (2002), and Earth & Beyond (2002).[^ref-1][^ref-9] His career spanned from the golden age of Sierra adventure games through the evolution of 3D gaming before his retirement in 2003.
+After leaving Sierra, Walls continued his career in the games industry for another decade, designing Blue Force (1993) at Tsunami Media as a spiritual successor to Police Quest, then joining Westwood Studios in 1996, where he worked on Blade Runner (1997), Pirates: The Legend of Black Kat (2002), and Earth & Beyond (2002).[^ref-1][^ref-9] He retired in 2003.[^ref-3][^ref-30]
 
 ## Career
 
 ### Early Career
 
-Jim Walls' path to game design was unconventional, beginning with seven years as an optician before joining law enforcement.[^ref-1] He graduated from the California Highway Patrol police academy in December 1971 and served as a CHP officer for the next 15 years, encountering numerous situations that would later become the foundation for his game narratives, including high-speed chases, criminal investigations, and the daily realities of police work.[^ref-1][^ref-4]
+Jim Walls' path to game design was unconventional. He worked as an optician in the Fresno area for seven years before joining law enforcement.[^ref-1][^ref-31][^ref-30] In about 1969 he met a co-worker's husband who was about to graduate from the CHP Academy, and was "practically recruited on the spot".[^ref-30] He graduated from the academy in December 1971 and began his career as a CHP officer in Van Nuys, then served in various assignments around the state.[^ref-30] Walls retired from the CHP in 1986.[^ref-1]
 
-In January 1984, while conducting a traffic stop, Walls was involved in a shootout that would change his life.[^ref-1] Though he survived the incident, he began to experience post-traumatic stress symptoms, and in 1985 he was placed on administrative leave to evaluate his condition.[^ref-1] During this period, his then-wife Donna, a hairdresser in Oakhurst, introduced him to Ken Williams, the co-founder of Sierra On-Line, who was a friend and frequent customer of her salon.[^ref-1]
+In January 1984, while making an enforcement stop, Walls was involved in a shootout with a parolee that "would soon change the course of my life".[^ref-30] About a year later he began to experience complications related to the shootout, and the department placed him on administrative leave to evaluate his condition.[^ref-30][^ref-1] During this leave, his wife Donna, a hair stylist at an Oakhurst salon where Ken Williams had his hair cut, introduced him to the Sierra On-Line co-founder.[^ref-30]
 
-The transition from police officer to game designer came about through Williams, who actively sought designers with unique backgrounds and expertise.[^ref-6] Williams was interested in creating a police procedural adventure game with an actual police officer as designer to ensure realism and authenticity. When Walls first approached Sierra with his ideas, he brought something no one else in the industry possessed: genuine law enforcement credentials and stories.[^ref-4]
+Williams had an idea for a police adventure game and "wanted a cop to be involved with the design in order to capture the realism."[^ref-30] He invited Walls to his house for racquetball, then asked him to turn some of his CHP experiences into a two-page story. He kept asking for longer versions until the full story of Police Quest was complete, and it was then converted into a design document.[^ref-30][^ref-6]
 
-"When I first sat down in front of a computer to begin the design story of the original Police Quest, I had to be shown where the on/off switch was. I typed the entire story with two fingers (after all, the only skills I had at the time were chasing people down and throwing them in jail)."[^ref-8] This quote exemplifies Walls' humble beginnings in technology, yet his determination to translate his police experience into interactive entertainment.
+"When I first sat down in front of a computer to begin the design story of the original Police Quest, I had to be shown where the on/off switch was. I typed the entire story with two fingers (after all, the only skills I had at the time were chasing people down and throwing them in jail)."[^ref-29]
 
 ### Sierra Years (1987–1991)
 
-Walls joined Sierra On-Line in 1987 as both designer and writer, though his programming skills were initially limited.[^ref-5][^ref-10] His first project, Police Quest: In Pursuit of the Death Angel, was released in 1987 and marked the beginning of a new genre in adventure gaming. Ken Williams actively contributed comments and suggestions to refine the material, while other Sierra veterans including Roberta Williams, Mark Crowe, Scott Murphy, and Al Lowe helped develop Walls' computer skills.[^ref-4]
+Walls worked on Police Quest as a contractor; Retro365 dates his resignation from the police force and start with Sierra to 1986.[^ref-6] His first game, Police Quest: In Pursuit of the Death Angel, was released in 1987.[^ref-1][^ref-9] Ken Williams contributed comments and suggestions to refine the story.[^ref-6] Roberta Williams, Mark Crowe and Scott Murphy gave Walls pointers, and Al Lowe came onto the project near the end.[^ref-30][^ref-4]
 
-The success of the original Police Quest led to immediate sequel development. In 1988, Walls released Police Quest II: The Vengeance, continuing the story of protagonist Sonny Bonds.[^ref-3][^ref-5] The game maintained the realistic police procedures that made the first game distinctive while expanding the narrative scope. Between these police-themed titles, Walls also designed Codename: ICEMAN in 1989, demonstrating his ability to work outside the police genre while maintaining his attention to procedural detail.[^ref-11]
+Retro365 notes that the main structure of the sequel already existed in rough story form when the first game was published.[^ref-6] In 1988, Walls released Police Quest II: The Vengeance, continuing the story of protagonist Sonny Bonds, now in the homicide division.[^ref-1][^ref-6] Between the police titles, Walls designed Codename: ICEMAN, a submarine techno-thriller. MobyGames dates its DOS release to 1989, while Wikipedia gives March 1990.[^ref-32][^ref-11] He told Sierra's magazine, "What I wanted was to see if I could do something completely different," adding that "that submarine was a killer."[^ref-31]
 
-His final major contribution to the Police Quest series came with Police Quest III: The Kindred in 1991.[^ref-6][^ref-12] In interviews with The Sierra News Magazine, Walls revealed that "he had intentionally left the story somewhat open, leaving room for a potential sequel that he had been envisioning in his mind."[^ref-6] However, his departure from Sierra after Police Quest III meant that subsequent Police Quest games would be developed under the direction of former LAPD Chief Daryl F. Gates, who changed the series setting from Walls' fictional Lytton, California to Los Angeles.[^ref-1]
+His final major contribution to the Police Quest series came with Police Quest III: The Kindred in 1991.[^ref-6][^ref-12] In a 1991 Sierra News Magazine Q&A, Walls said: "I tried to leave the storyline of Police Quest 3 open for another installment. In fact, I'm kind of putting the pieces of Police Quest 4 together in my head right now."[^ref-31] He left Sierra after Police Quest III, saying later that "circumstances developed causing me to decide it was time that I leave."[^ref-30] His departure from Sierra after Police Quest III meant that subsequent Police Quest games would be developed under the direction of former LAPD Chief Daryl F. Gates, who changed the series setting from Walls' fictional Lytton, California to Los Angeles.[^ref-1]
 
 Many aspects of Police Quest were based on Walls' own life: the series protagonist Sonny Bonds was loosely based on his son (also named Sonny), and many incidents encountered in the games were inspired by actual situations from his CHP career.[^ref-1] Walls also made self-insert cameos throughout the series, appearing in name in each game's police database and physically appearing in Police Quest III's intro and game over sequences.[^ref-1]
 
 ### Tsunami Media (1992–1993)
 
-After leaving Sierra in 1991, Walls joined Tsunami Media in 1992, a company largely composed of former Sierra employees that was also based in Oakhurst.[^ref-1][^ref-6] His time with Tsunami was brief but productive, focusing on a single significant project: Blue Force, released in 1993.
+After leaving Sierra, Walls contracted with Tsunami Media in 1992. The newly formed company consisted mainly of former Sierra employees and occupied the redwood building where Sierra had been when he began Police Quest.[^ref-30][^ref-1] Blue Force was the only Tsunami title he worked on.[^ref-30]
 
-Blue Force served as a spiritual successor to the original Police Quest trilogy, following rookie police officer Jake Ryan as he investigates clues to his father's unsolved murder while working for the Jackson Beach Police Department.[^ref-13][^ref-14] The game was developed using Tsunami's TsAGE engine and featured the same emphasis on authentic police procedures that characterized Walls' Sierra work.[^ref-13]
+Blue Force served as a spiritual successor to the original Police Quest trilogy, following rookie police officer Jake Ryan as he investigates clues to the unsolved murder of his parents while working for the Jackson Beach Police Department.[^ref-14][^ref-15] The game was built on Tsunami's TsAGE engine.[^ref-13]
 
-Contemporary reviews were mixed—Computer Gaming World's Charles Ardai stated that Blue Force "is simply not as strong as Walls' previous games," criticizing the game world and dialogue while acknowledging the developer's potential for better work.[^ref-15] Despite critical reception, the game shipped 20,000 units in its first month and represented Walls' continued commitment to realistic police adventure games outside of Sierra's umbrella.[^ref-16]
+Contemporary reviews were mixed—Computer Gaming World's Charles Ardai stated that Blue Force "is simply not as strong as Walls' previous games," criticizing the game world and dialogue while acknowledging the developer's potential for better work.[^ref-15] Despite critical reception, the game shipped 20,000 units in its first month.[^ref-16]
 
 After Blue Force, Walls contracted with two other companies—Tachyon Studios and Philips Interactive Media—for games that would ultimately never see release.[^ref-1]
 
 ### Westwood Studios (1996–2003)
 
-In 1996, Walls was contracted by Louis Castle to work for Las Vegas-based Westwood Studios, beginning a seven-year tenure that would take him into the era of 3D gaming.[^ref-1][^ref-4] His first project was the critically acclaimed Blade Runner (1997), where he served as co-designer alongside David Leary, bringing his police expertise to make the game's investigative segments as authentic as possible.[^ref-4][^ref-17]
+In 1996, Louis Castle contracted Walls to work at Las Vegas-based Westwood Studios with lead designer David Leary on Blade Runner (1997).[^ref-30] Choicest Games reports that Walls was brought in "to make the police segments as authentic as possible".[^ref-4] The manual credits "Designers: David Leary and Jim Walls".[^ref-18][^ref-17]
 
-Blade Runner was a point-and-click adventure game based on the iconic 1982 film, featuring Westwood's innovative "Real Time" system and following a rookie blade runner named Ray McCoy investigating a case of replicant activity in 2019 Los Angeles.[^ref-28] Walls received credits for design and additional voices on the project.[^ref-18] The game was praised for its atmosphere and storytelling, and Walls' contribution to the police procedural elements helped ground the sci-fi narrative in authentic investigative work.
+Blade Runner was a point-and-click adventure game based on the 1982 film, featuring Westwood's "Real Time" system and following a rookie blade runner named Ray McCoy investigating a case of replicant activity in 2019 Los Angeles.[^ref-28] Walls is credited as a designer and among the additional voices.[^ref-18][^ref-9]
 
-Following Blade Runner's success, Walls was offered a full-time design position at Westwood Studios.[^ref-1] He went on to contribute to two major projects in 2002: Pirates: The Legend of Black Kat, an action-adventure game featuring both ship-to-ship combat and third-person exploration, and Earth & Beyond, an ambitious science fiction MMORPG.[^ref-1]
+Once Blade Runner was out, Walls was offered a full-time design position at Westwood, which lasted until 2003.[^ref-30] He is credited on two 2002 releases: Pirates: The Legend of Black Kat (game design) and the science fiction MMORPG Earth & Beyond (content design).[^ref-30][^ref-9][^ref-1]
 
-Earth & Beyond would prove to be the final game developed by Westwood Studios. In 2003, Electronic Arts acquired Westwood and merged it into EA Los Angeles, with most employees—including Walls—let go as part of the acquisition.[^ref-1] After 16 years in the game industry spanning three companies, Walls retired from active game development.
+Electronic Arts had bought Westwood, along with Virgin Interactive's North American operations, in 1998. In January 2003 EA announced that Westwood would be merged into EA Los Angeles, and the studio closed that March.[^ref-33] Walls's full-time position ended in 2003, and he retired that year.[^ref-30][^ref-3]
 
 ### Precinct and Later Activities
 
-For nearly a decade after leaving Westwood, Walls enjoyed retirement.[^ref-4] However, the success of crowdfunding campaigns by other ex-Sierra developers eventually drew him back to consider new projects. On February 2, 2013, during a podcast hosted by Chris Pope, Walls announced plans to develop a spiritual successor to Police Quest.[^ref-19]
+For about a decade after leaving Westwood, Walls was in retirement.[^ref-4] In early 2013, in a podcast conversation with Chris Pope, Walls said: "I think I'm going to get back into it. So maybe do a Kickstarter … a new Police Quest-type game, although it has to be completely different". Kotaku Australia reported this on 3 February 2013, and Choicest Games dates the podcast to 2 February.[^ref-19][^ref-4]
 
-On July 16, 2013, the project was revealed as Precinct, a 3D adventure game following police officer Maxwell Jones in the fictional city of Fraser Canyon, California.[^ref-20] The game was to be developed by Jim Walls Reloaded, led by Walls and fellow Sierra developer Robert Lindsley. The Kickstarter campaign aimed to raise $500,000 but struggled to gain momentum.[^ref-21]
+On July 16, 2013, the project was revealed as Precinct, a 3D adventure game following police officer Maxwell Jones in the fictional city of Fraser Canyon, California.[^ref-20][^ref-34][^ref-1] The game was to be developed by Jim Walls Reloaded, led by Walls and fellow Sierra developer Robert Lindsley. The Kickstarter campaign aimed to raise $500,000 but struggled to gain momentum.[^ref-21]
 
-Walls prematurely cancelled the campaign on August 6, 2013, before its scheduled August 16 deadline, after it became clear the goal was unreachable.[^ref-1] An alternate funding campaign through their own website also proved unsuccessful and was shut down after two weeks.[^ref-1] In an email to backers, Walls remained optimistic: "This is not the end! Precinct will rise again! It's too good not to."[^ref-4]
+It raised $85,756. Walls cancelled the campaign on August 6, 2013, before its scheduled August 16 deadline.[^ref-21][^ref-1] An alternate funding drive through their own website also failed and was cancelled "after only two weeks".[^ref-4] In an email to backers, Walls remained optimistic: "This is not the end! Precinct will rise again! It's too good not to."[^ref-4]
 
-Despite the setback, Walls has maintained connection with the gaming community through interviews and a 2024 appearance in the Sierra documentary "Legends of Adventure."[^ref-22] His Reddit AMAs have demonstrated his ongoing engagement with fans who grew up playing his games and were inspired by them.[^ref-3]
+Walls was later interviewed for *Legends of Adventure*, a Sierra On-Line documentary that was still in production as of March 2025.[^ref-22] In 2013, he and Robert Lindsley answered fans' questions in a Reddit AMA.[^ref-3]
 
 ## Notable Works
 
 ### Police Quest: In Pursuit of the Death Angel (1987)
 
-Police Quest: In Pursuit of the Death Angel marked Jim Walls' entry into game design and established an entirely new subgenre within adventure gaming.[^ref-6][^ref-23] The game was revolutionary for its realistic portrayal of police procedures, requiring players to follow proper protocol for traffic stops, evidence collection, and suspect apprehension. Walls drew directly from his 15 years of experience as a California Highway Patrol officer, incorporating actual cases and situations he had encountered in the field.
+Police Quest: In Pursuit of the Death Angel marked Jim Walls' entry into game design. Walls calls himself "the creator and designer of Police Quest and the police adventure game genre."[^ref-3] In his words, "In the first game you had to follow strict police procedure to get through the game."[^ref-31] The game drew on Walls' CHP career, and Sonny Bonds was loosely based on his son, also named Sonny.[^ref-1][^ref-6]
 
-The development process was collaborative, with Ken Williams providing guidance and refinement suggestions while Walls contributed the authentic police experience that made the game unique.[^ref-6] Despite his lack of computer expertise—famously needing to be shown where the computer's on/off switch was located—Walls successfully translated his real-world experience into an engaging interactive narrative that educated players about police work while entertaining them.[^ref-8]
+The development process was collaborative, with Ken Williams contributing comments and suggestions on the story.[^ref-6] Walls began with no computer experience; he recalled having "to be shown where the on/off switch was".[^ref-29] The game was later reported to be used as a training tool by real police.[^ref-26]
 
 ### Police Quest II: The Vengeance (1988)
 
-Building on the success of the original, Police Quest II: The Vengeance continued the story of Detective Sonny Bonds while expanding the scope and complexity of police procedures.[^ref-5] The sequel demonstrated Walls' growing confidence with the medium and his ability to create compelling narratives that maintained educational value. The game featured more complex investigations and introduced new aspects of police work, including undercover operations and scenarios drawn from Walls' real experiences.
+Building on the original, Police Quest II: The Vengeance followed Sonny Bonds into the homicide division as escaped convict Jessie Bains seeks revenge. Retro365 notes its stronger focus on detective and forensics work.[^ref-6] It was Walls' first game on Sierra's SCI engine.[^ref-6]
 
-### Codename: ICEMAN (1989)
+### Codename: ICEMAN (1989/1990)
 
-Codename: ICEMAN represented a departure from Walls' police-focused work, showcasing his versatility as a designer while maintaining his commitment to procedural realism.[^ref-11] The game cast players as a naval officer involved in submarine operations and international espionage, requiring the same attention to proper procedures and realistic protocols that characterized his Police Quest titles. This project demonstrated that Walls' design philosophy extended beyond police work to encompass any profession requiring specialized knowledge and proper procedure adherence.
+Codename: ICEMAN was a departure from Walls' police-focused work.[^ref-11] Players take the role of agent Johnny Westland, who pilots a nuclear submarine to rescue a kidnapped U.S. ambassador.[^ref-31] Walls said he "didn't know anything about submarines to begin with", so he used consultants who had served on nuclear subs, and the Navy gave him access to information.[^ref-31] MobyGames lists a 1989 DOS release, and Wikipedia gives March 1990.[^ref-32][^ref-11]
 
 ### Blue Force (1993)
 
-Blue Force represented Walls' return to police adventure games after leaving Sierra, serving as a spiritual successor to his Police Quest trilogy.[^ref-13][^ref-24] Developed at Tsunami Media, the game followed rookie officer Jake Ryan investigating his father's decade-old murder while working for the Jackson Beach Police Department. The game maintained Walls' signature emphasis on authentic police procedures while introducing a more personal narrative centered on family and justice.
+Blue Force was Walls' return to police adventure games after leaving Sierra, and Wikipedia calls it a spiritual successor to his Police Quest trilogy.[^ref-1][^ref-13] Developed at Tsunami Media, the game follows rookie officer Jake Ryan as he investigates his parents' unsolved murder while working for the Jackson Beach Police Department.[^ref-15][^ref-14]
 
 ### Blade Runner (1997)
 
-Walls' contribution to Westwood Studios' Blade Runner brought his police procedural expertise to a celebrated science fiction franchise.[^ref-4][^ref-17] Working as co-designer alongside David Leary, Walls helped ensure the game's investigative elements felt grounded and authentic despite the futuristic setting. The game was praised for its atmosphere, branching narrative, and faithful adaptation of the film's tone, becoming one of the most acclaimed adventure games of the late 1990s.
+Walls was contracted to work with lead designer David Leary on Westwood Studios' Blade Runner, which follows rookie blade runner Ray McCoy through 2019 Los Angeles.[^ref-30][^ref-17][^ref-28] Choicest Games says his job was to make "the police segments as authentic as possible".[^ref-4] The game's credits list him as a designer and among the additional voices.[^ref-18]
 
 ## Design Philosophy
 
-Jim Walls' design philosophy centered on authenticity and educational value, believing that games could both entertain and teach players about real-world professions and procedures.[^ref-6][^ref-7] His approach was fundamentally different from other adventure game designers of his era, as he drew from actual professional experience rather than fantasy or fictional scenarios. "I am the creator and designer of Police Quest and the police adventure game genre," Walls stated in his Reddit AMA, emphasizing his role in establishing this unique approach to game design.[^ref-3]
+Jim Walls' design philosophy centered on authenticity: "We wanted to give the player the opportunity to see what it's like to be a police officer."[^ref-30] He described the first Police Quest as "the first of its kind — a game based entirely on reality. At that time, just about every game around was a fantasy of some sort."[^ref-31]
 
-Central to his philosophy was the incorporation of "real situations from his police career into games to maintain realism."[^ref-2] This meant that players had to follow proper procedures, make realistic decisions, and face consequences that mirrored real-world law enforcement challenges. His games required players to conduct proper traffic stops, handle evidence correctly, and follow legal protocols, creating an educational experience disguised as entertainment.
+Central to his approach was using real situations from his police career. Many incidents in the games were inspired by events Walls encountered as a CHP officer.[^ref-1] Players had to follow proper procedure, and the game punished them when they did not.[^ref-6][^ref-4]
 
-Walls found his "ultimate reward" in fan mail from players, particularly from "active police officers and children who wanted to become police officers."[^ref-21] This feedback confirmed that his games were succeeding in their dual mission of entertainment and education, inspiring players to consider careers in law enforcement and providing informal training for those already in the field.[^ref-25]
+Walls found his "ultimate reward" in fan mail. "Some of the mail was from active police officers," he wrote, and "when you read letters from 10 year olds who go on and on over Police Quest, saying it's the greatest game they ever played and when they grow up they want to be a cop! That is a great feeling and the ultimate reward."[^ref-30]
 
 ## Legacy
 
-Jim Walls' impact on the gaming industry extends far beyond his individual titles, as he essentially created the police procedural adventure game genre and influenced countless players to pursue careers in criminal justice.[^ref-26][^ref-27] Fan testimonials from his Reddit AMA demonstrate the profound personal impact of his work, with one user stating, "I first played police quest 2 back when I was eight and I have to say the games ended up having a major influence in my life, to the point where I ended up studying criminology in university and now work as a lawyer in the justice system."[^ref-3]
+Retro365 writes that Police Quest's success "would mark the inception of the 4th major adventure game franchise" at Sierra.[^ref-6] PC Gamer's Richard Cobbett notes that the game was reportedly used as a training tool by real police.[^ref-26] Some fans credit his games with shaping their lives. One commenter in his 2013 Reddit AMA wrote: "I first played police quest 2 back when I was eight and I have to say the games ended up having a major influence in my life, to the point where I ended up studying criminology in university and now work as a lawyer in the justice system in Alberta."[^ref-3]
 
-The social impact of his games extended to family relationships and shared experiences, with another fan noting, "Just wanted to say that some of the best times I've had with my dad were playing through the Police quest games in the late 80s, early 90s."[^ref-3] This demonstrates how Walls' games transcended typical entertainment to become bonding experiences and educational tools that shaped players' career choices and family memories.
+The social impact of his games extended to family relationships and shared experiences, with another fan noting, "Just wanted to say that some of the best times I've had with my dad were playing through the Police quest games in the late 80s, early 90s."[^ref-3]
 
-Combined sales of the Police Quest series—including the SWAT spinoffs developed after Walls' departure—surpassed 1.2 million units.[^ref-12] His legacy continues to influence modern game design, particularly in the realm of simulation and procedural games.[^ref-9] The realism and attention to authentic procedures that characterized his work can be seen in contemporary titles that emphasize proper protocol and real-world accuracy.
+Combined sales of the Police Quest series—including the SWAT spinoffs developed after Walls' departure—surpassed 1.2 million units by the end of March 1996.[^ref-12]
 
 ## Games
 
@@ -117,16 +117,16 @@ Combined sales of the Police Quest series—including the SWAT spinoffs develope
 
 - **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] — Role: Designer, Writer
 - **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]] — Role: Designer, Writer
-- **1989** — [[1990 - Codename - Iceman|Codename: ICEMAN]] — Role: Designer, Writer
+- **1989/1990** — [[1990 - Codename - Iceman|Codename: ICEMAN]] — Role: Designer, Writer (MobyGames: DOS 1989; Wikipedia: March 1990)
 - **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Designer
 - **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest: In Pursuit of the Death Angel (VGA)]] — Role: Original Designer
 
 ### Post-Sierra (1993–2002)
 
 - **1993** — [[1993 - Blue Force|Blue Force]] — Company: Tsunami Media, Role: Designer
-- 1997 — Blade Runner — Westwood Studios — Designer, Voice Actor
+- 1997 — Blade Runner — Westwood Studios — Designer, Additional Voices
 - 2002 — Pirates: The Legend of Black Kat — Westwood Studios / EA — Designer
-- 2002 — Earth & Beyond — Westwood Studios / EA — Designer
+- 2002 — Earth & Beyond — Westwood Studios / EA — Content Designer
 
 ### Unreleased
 
@@ -136,31 +136,28 @@ Combined sales of the Police Quest series—including the SWAT spinoffs develope
 
 ## References
 
-[^ref-1]: [Wikipedia - Jim Walls](https://en.wikipedia.org/wiki/Jim_Walls) — Birth date and biographical information
-[^ref-2]: [Police Quest Fandom Wiki - Jim Walls](https://policequest.fandom.com/wiki/Jim_Walls) — Birth date confirmation (November 30, 1940)
-[^ref-3]: [Reddit AMA - Sierra Veterans](https://www.reddit.com/r/IAmA/comments/1kfzje/we_are_sierra_veterans_jim_walls_of_police_quest/) — California Highway Patrol background
-[^ref-4]: [Choicest Games - Where Are They Now: Jim Walls](https://www.choicestgames.com/2014/08/where-are-they-now-jim-walls.html) — Law enforcement career details
-[^ref-5]: [Sierra Gamers - Jim Walls](https://www.sierragamers.com/Jim-Walls/) — Sierra career timeline 1987-1993
-[^ref-6]: [Retro365 Blog - Police Quest Collection](https://retro365.blog/2021/09/06/bits-from-my-personal-collection-police-quest-police-officer-turned-game-designer/) — Career at Sierra On-Line
-[^ref-7]: [IMDB - Jim Walls Biography](https://www.imdb.com/name/nm1084065/bio/) — Impact on players and careers
-[^ref-8]: [Rock Paper Shotgun Interview](https://www.rockpapershotgun.com/interview-jim-walls-arresting-development) — Fan testimonials and influence
-[^ref-9]: [MobyGames - James Walls](https://www.mobygames.com/person/83001/james-walls/) — Complete game credits including Westwood titles
-[^ref-10]: [RAWG - Jim Walls](https://rawg.io/creators/jim-walls) — 1987 start date at Sierra
-[^ref-11]: [Wikipedia - Codename: ICEMAN](https://en.wikipedia.org/wiki/Codename:_ICEMAN) — 1989 release, designed by Jim Walls
-[^ref-12]: [Wikipedia - Police Quest III](https://en.wikipedia.org/wiki/Police_Quest_III:_The_Kindred) — 1991 release
+[^ref-1]: [Wikipedia - Jim Walls](https://en.wikipedia.org/wiki/Jim_Walls) — Biographical information (Wikipedia deliberately gives no birth date, per its privacy policy for living people); CHP 1971–1986; Sonny Bonds and cameos; Precinct
+[^ref-3]: [Reddit AMA - Sierra Veterans](https://www.reddit.com/r/IAmA/comments/1kfzje/we_are_sierra_veterans_jim_walls_of_police_quest/) — 2013 AMA with Robert Lindsley: "CHP officer for 15 years"; retired 2003; fan comments
+[^ref-4]: [Choicest Games - Where Are They Now: Jim Walls](https://www.choicestgames.com/2014/08/where-are-they-now-jim-walls.html) — Mark Goninon, August 2014: Blade Runner role, retirement, Precinct email and second funding drive
+[^ref-6]: [Retro365 Blog - Police Quest Collection](https://retro365.blog/2021/09/06/bits-from-my-personal-collection-police-quest-police-officer-turned-game-designer/) — Police Quest development and PQ2 detail
+[^ref-9]: [MobyGames - James Walls](https://www.mobygames.com/person/83001/james-walls/) — Game credits including Westwood titles
+[^ref-11]: [Wikipedia - Codename: ICEMAN](https://en.wikipedia.org/wiki/Codename:_ICEMAN) — Release March 1990; designed by Jim Walls
+[^ref-12]: [Wikipedia - Police Quest III](https://en.wikipedia.org/wiki/Police_Quest_III:_The_Kindred) — 1991 release; series sales
 [^ref-13]: [Wikipedia - Blue Force](https://en.wikipedia.org/wiki/Blue_Force) — Game plot and Jake Ryan protagonist
-[^ref-14]: [Adventure Classic Gaming - Blue Force Review](http://www.adventureclassicgaming.com/index.php/site/reviews/346/) — Spiritual successor to Police Quest
-[^ref-15]: [Computer Gaming World - Blue Force Review (November 1993)](http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=112) — Charles Ardai review
+[^ref-14]: [Adventure Classic Gaming - Blue Force Review](http://www.adventureclassicgaming.com/index.php/site/reviews/346/) — Blue Force plot
+[^ref-15]: [Computer Gaming World - Blue Force Review (November 1993)](http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=112) — Charles Ardai review; Jake's parents murdered
 [^ref-16]: [The Fresno Bee (October 18, 1993)](https://www.newspapers.com/article/the-fresno-bee/163960315/) — 20,000 units first month
 [^ref-17]: [Uppercut - Westwood's Blade Runner](https://uppercutcrit.com/3313-2/) — David Leary and Jim Walls as lead designers
-[^ref-18]: [Internet Archive - Blade Runner Credits](https://archive.org/stream/blaserunnerwindows951997westwoodstudiosjewelcaseart/Blade_Runner_Windows95_1997_Westwood_Studios_Behind_the_Scenes_djvu.txt) — Designer and voice credits
-[^ref-19]: [Kotaku - Jim Walls Announcement](https://kotaku.com/guys-police-quest-is-basically-back-796665191) — February 2, 2013 podcast announcement
+[^ref-18]: [Internet Archive - Blade Runner Credits](https://archive.org/stream/blaserunnerwindows951997westwoodstudiosjewelcaseart/Blade_Runner_Windows95_1997_Westwood_Studios_Behind_the_Scenes_djvu.txt) — "Designers: David Leary and Jim Walls"; Additional Voices list
+[^ref-19]: [Kotaku Australia - Police Quest Creator Tentatively Plans Kickstarter For A New Game](https://web.archive.org/web/20130207005317/http://www.kotaku.com.au/2013/02/police-quest-creator-tentatively-plans-kickstarter-for-a-new-game/) — Logan Booker, 3 February 2013 (Wayback copy); quotes Walls's podcast chat with Chris Pope
 [^ref-20]: [Kickstarter - Precinct](https://www.kickstarter.com/projects/precinctgame/precinct) — July 16, 2013 campaign launch
-[^ref-21]: [Kicktraq - Precinct](https://www.kicktraq.com/projects/precinctgame/precinct/) — $500,000 goal
-[^ref-22]: [Reddit - Jim Walls joins Legends of Adventure](https://www.reddit.com/r/Games/comments/1dnj0o5/police_quest_creator_jim_walls_joins_sierra/) — 2024 documentary appearance
-[^ref-23]: [Sierra Gamers - Police Quest](https://www.sierragamers.com/police-quest-1/) — Police Quest innovation
-[^ref-24]: [Reddit - Blue Force retrospective](https://www.reddit.com/r/patientgamers/comments/13aljee/blue_force_1993_took_me_back_to_my_youth/) — Fan perspective on Blue Force
-[^ref-25]: [YouTube Interview](https://www.youtube.com/watch?v=gSLWzPvgpuk) — Educational mission success
+[^ref-21]: [Kicktraq - Precinct](https://www.kicktraq.com/projects/precinctgame/precinct/) — $500,000 goal, $85,756 raised
+[^ref-22]: [Decently Creative - The Wild Tale of PC Gaming's Top Cop](https://www.decently.co/newsfeed/sierra-online-jim-walls-police-quest) — Dave Hodgson, March 24, 2025: interviewed Walls for the in-production documentary "Legends of Adventure"
 [^ref-26]: [PC Gamer - Police Quest Training Tool](https://www.pcgamer.com/saturday-crapshoot-police-quest/) — Real-world training use
-[^ref-27]: [Wikipedia - Police Quest](https://en.wikipedia.org/wiki/Police_Quest) — Criminal justice career influence
-[^ref-28]: [Wikipedia - Blade Runner (1997 video game)](https://en.wikipedia.org/wiki/Blade_Runner_(1997_video_game))) — Game details, Ray McCoy protagonist, 2019 Los Angeles setting
+[^ref-28]: [Wikipedia - Blade Runner (1997 video game)](https://en.wikipedia.org/wiki/Blade_Runner_(1997_video_game)) — Game details, Ray McCoy protagonist, 2019 Los Angeles setting
+[^ref-29]: [EAGER Amiga developer page - Jim Walls](https://web.archive.org/web/20090731214038/http://eager.back2roots.org/PROG/W/WALLS.html) — "Some words from Jim" (Wayback, 2009): the on/off-switch quote; fan mail as "the ultimate reward"
+[^ref-30]: [Jim Walls Reloaded - Rap Sheet](https://web.archive.org/web/20170202080931/http://www.jimwallsreloaded.com/blog/rap-sheet/) — Walls's own biography (Wayback, 2017): optician, CHP from December 1971, shootout, Ken Williams, Police Quest design, "the ultimate reward", Tsunami, Westwood until 2003
+[^ref-31]: [Sierra/Dynamix News Magazine, Summer 1991 - Jim Walls Q&A](https://archive.org/details/011_sierra_dynamix_news_magazine_volume_4_number_2_summer_1991) — Pages 10–12: optician for 7 years, Codename: ICEMAN research, Police Quest 3 left open for another installment
+[^ref-32]: [MobyGames - Code-Name: Iceman](https://www.mobygames.com/game/436/code-name-iceman/) — Game entry (MobyGames ID 436): DOS 1989
+[^ref-33]: [Wikipedia - Westwood Studios](https://en.wikipedia.org/wiki/Westwood_Studios) — Bought by Electronic Arts in 1998; merged into EA Los Angeles, announced January 2003
+[^ref-34]: [Kotaku - Guys, Police Quest Is Basically Back](https://kotaku.com/guys-police-quest-is-basically-back-796665191) — July 16, 2013 Precinct reveal
