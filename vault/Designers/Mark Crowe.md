@@ -1,120 +1,96 @@
 ---
 title: "Mark Crowe"
 type: designer
-birth_year: 1959
+birth_year: null
 death_year: null
-notable_games: ["Space Quest series", "Police Quest III: The Kindred", "Earthsiege series", "Godzilla trilogy", "Rampage: Total Destruction"]
+notable_games: ["Space Quest series", "Police Quest III: The Kindred", "Earthsiege series", "Godzilla: Destroy All Monsters Melee", "Rampage: Total Destruction"]
 companies: ["Sierra On-Line", "Dynamix", "Pipeworks Software", "Guys From Andromeda"]
-last_updated: '2026-10-09'
+last_updated: '2026-10-15'
 ---
 # Mark Crowe
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 15, 2026</small>
 
 ## Overview
 
-Mark Crowe, born December 28, 1959, stands as one of the most influential figures in adventure gaming history, best known as the co-creator of the beloved Space Quest series alongside Scott Murphy.[^ref-1][^ref-2] As one half of the creative duo known as "The Two Guys from Andromeda," Crowe helped define the golden age of Sierra On-Line adventure games, bringing a unique blend of science fiction parody and sophisticated graphic design to the medium.[^ref-3][^ref-4]
+Mark Crowe is best known as the co-creator of the Space Quest series with Scott Murphy; the pair called themselves "The Two Guys from Andromeda."[^ref-1][^ref-5] Crowe joined Sierra On-Line in 1982–83 as a graphic artist in the marketing department, designing packages and documentation, and moved into computer graphics about two years later.[^ref-11][^ref-6][^ref-23] On the Space Quest games he was the artist and Murphy the programmer, with both designing.[^ref-5][^ref-23]
 
-Beginning his career at Sierra in 1984, Crowe initially worked as an artist and programmer before evolving into a full-fledged game designer.[^ref-5][^ref-6] His journey from creating art for Disney games to co-designing one of adventure gaming's most enduring franchises exemplifies the collaborative and experimental spirit of 1980s game development. Despite having no prior computer experience—famously stating "I'd Never Even Seen a Computer Until I Worked at Sierra!"—Crowe quickly mastered the technical and creative aspects of game development.[^ref-7][^ref-8]
-
-Crowe's design philosophy centered on what he described as being a "stand-in for the player and trying to be in the player's head," an approach that made the Space Quest games particularly accessible and enjoyable for mainstream audiences.[^ref-9][^ref-10] His work contributed significantly to the evolution of adventure games from parser-based text interfaces to intuitive point-and-click systems, helping to expand the genre's appeal beyond hardcore computer enthusiasts.[^ref-11][^ref-12]
-
-After leaving Sierra, Crowe enjoyed a prolific career spanning three decades, from directing mech combat simulations at Dynamix to serving as Studio Design Director at Pipeworks Software, where he led development on the acclaimed Godzilla fighting game trilogy and the million-selling Rampage: Total Destruction.[^ref-9][^ref-13]
+He had no computer background when Sierra hired him: "Remember, this was the Apple II days, folks. I had never even seen a computer before."[^ref-11] After Sierra he directed mech simulations at Dynamix, worked as creative director and later studio design director at Pipeworks Software, where he worked on the Godzilla fighting games and Rampage: Total Destruction, and in 2012 rejoined Murphy to make SpaceVenture.[^ref-9][^ref-1]
 
 ## Career
 
 ### Early Career
 
-Mark Crowe's entry into the video game industry was serendipitous rather than planned. In 1984, he joined Sierra On-Line without any prior computer experience, initially working on graphics and art for various projects.[^ref-14][^ref-15] His earliest contributions included artwork for [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]], where he learned the fundamentals of computer graphics and game development.[^ref-16]
+Crowe was working as a graphic artist at a product label printing company in Fresno, California, when he applied to Sierra. "I 'wowed 'em' with my portfolio and was hired the next day," he recalled in 2000, dating it to 1982; "It was two years later that I made the transition from simple graphic artist to computer graphic artist."[^ref-11] In a 1989 Sierra newsletter interview he said: "I started with Sierra six years ago working for the Art Department designing packaging and documentation."[^ref-23] Choicest Games likewise dates his start in Sierra's marketing department to 1983.[^ref-8]
 
-During his early years at Sierra, Crowe worked as an artist on several high-profile projects, including [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] and [[1986 - The Black Cauldron|The Black Cauldron]].[^ref-16] This period was crucial for his development as a game creator, as he absorbed the company's approach to adventure game design while honing his technical skills. Interestingly, his first exposure to adventure gaming came through Sierra's adult-oriented text adventure SoftPorn, which later inspired the Leisure Suit Larry series. As Crowe recalled, "Well, I'm almost ashamed to say but it was Sierra's text adventure: SoftPorn. Which later became the inspiration for Leisure Suit Larry. But it was my door to the world of adventure gaming."[^ref-6]
+His first computer graphics project was [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]]; he then did animation for [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] and was Art Director on [[1986 - The Black Cauldron|The Black Cauldron]].[^ref-23][^ref-11][^ref-1] His first adventure game as a player was Sierra's SoftPorn: "Well, I'm almost ashamed to say but it was Sierra's text adventure: SoftPorn. Which later became the inspiration for Leisure Suit Larry. But it was my door to the world of adventure gaming."[^ref-6]
 
-### Sierra Years (1984–1991)
+### Sierra Years (1983–1991)
 
-The pivotal moment in Crowe's career came when he partnered with programmer Scott Murphy to create the Space Quest series. Their collaboration began organically, as Crowe explained: "We both were big sci-fi fans with a twisted sense of humor. (Ok, Scott's brain stem had a couple more twists in it.)"[^ref-14] The concept for Space Quest emerged from their shared love of science fiction and desire to parody the genre: "We wanted to make a space farce that lampooned the Sci Fi genre and were confident there was an audience for such a title. We wanted the protagonist in our game to be an unlikely hero so we came up with a space janitor."[^ref-9]
+Crowe met Scott Murphy on The Black Cauldron, Murphy's first programming job.[^ref-23] "We both were big sci-fi fans with a twisted sense of humor. (Ok, Scott's brain stem had a couple more twists in it.)"[^ref-11] Of Space Quest's premise he said: "We wanted to make a space farce that lampooned the Sci Fi genre and were confident there was an audience for such a title. We wanted the protagonist in our game to be an unlikely hero so we came up with a space janitor."[^ref-6]
 
-[[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]], released in 1986, marked Crowe's transition from support artist to co-designer.[^ref-16] The game's success led to a series that would define both creators' careers. Crowe's artistic vision, combined with Murphy's programming expertise, created a distinctive visual and comedic style that influenced countless adventure games that followed.[^ref-2]
+[[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]] (1986) was his first credit as a designer.[^ref-16] After it he co-designed the first [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry]]: "I created all of the sight gags and the graphics for the entire game."[^ref-6] MobyGames credits him with programming on [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] only; on the other Space Quest games his credits are for design and art.[^ref-16]
 
-The partnership reached its creative peak with [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]], which Crowe consistently cites as their masterpiece: "I've always considered Space Quest 4 to be our (Scott and I) masterpiece. From the wild *time-travel tru sequels* concept to the first-ever (for Sierra) VGA graphics."[^ref-3] However, the development was challenging, as Crowe noted: "It was also the most difficult birth. As Scott would say, 'That baby came out sideways!'"[^ref-4]
+He told Adventure Gamers in 2002: "I've always considered Space Quest 4 to be our (Scott and I) masterpiece. From the wild *time-travel tru sequels* concept to the first-ever (for Sierra) VGA graphics."[^ref-6] In 2000 he called it "the most difficult birth. As Scott would say, 'That baby came out sideways!'"[^ref-11] With Murphy unavailable during the early concept stage, Crowe "tackled the story and puzzle conceptual design."[^ref-11] He pushed to hire Gary Owens as the narrator of [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] and went to Los Angeles to supervise the recording: "Here was Gary Owens in a Hollywood recording studio reading dialog for our little adventure game—and busting up at the script….PRICELESS!"[^ref-6][^ref-11]
 
-Beyond Space Quest, Crowe contributed to numerous Sierra projects, including work on [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] as designer and the [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry]] series in various capacities.[^ref-16] His perfectionist approach to development was well-known within the company, as he admitted: "I've been called a perfectionist because I don't know when to leave things alone."[^ref-12]
+Beyond Space Quest, he directed [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] and was art designer, background artist and animator on it, was project coordinator on Police Quest II, and did the cover art for Leisure Suit Larry III.[^ref-16][^ref-2] Asked what he would change about the Space Quest games, he said: "I've been called a perfectionist because I don't know when to leave things alone."[^ref-6]
 
 ### Dynamix Years (1991–1999)
 
-In 1991, Crowe made a significant life and career change by leaving Sierra to join Dynamix in Eugene, Oregon. As he explained: "Well, in 1991 my wife and I decided to move our young family to beautiful, green Oregon. A place where we spent many family summer vacations traveling to and dreamed of living some day."[^ref-9] This move marked the end of the original Two Guys from Andromeda partnership, leading to a 20-year professional separation between Crowe and Murphy.[^ref-7]
+"Well, in 1991 my wife and I decided to move our young family to beautiful, green Oregon. A place where we spent many family summer vacations traveling to and dreamed of living some day," Crowe said; he transferred to Dynamix, which Sierra owned.[^ref-9] The move ended the original partnership for about 20 years.[^ref-7]
 
-At Dynamix, Crowe continued working on Space Quest, producing [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] without Murphy's direct involvement. One of his proudest moments came during production when voice actor Gary Owens recorded dialogue for the game: "Here was Gary Owens in a Hollywood recording studio reading dialog for our little adventure game—and busting up at the script….PRICELESS!"[^ref-3]
+At Dynamix he designed and directed [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] without Murphy.[^ref-5][^ref-16] He later called it the weakest of the series: "We were just out of original ideas and I relied too heavily on Star Trek:The Next Generation spoofs."[^ref-6] He then produced and designed [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]] and directed [[1996 - Earthsiege 2|Earthsiege 2]].[^ref-16] "After SQ 5, I had a lot of fun working on something new and different, the EarthSiege Mech battle games. My first crack at working on simulation games. I'm really proud of those titles."[^ref-9]
 
-Crowe then transitioned from adventure games to action titles, working on the [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]] series.[^ref-16] This shift represented a significant departure from his adventure game roots, requiring him to adapt his design skills to real-time tactical combat and mech simulation. As he recalled: "After SQ 5, I had a lot of fun working on something new and different, the EarthSiege Mech battle games. My first crack at working on simulation games. I'm really proud of those titles."[^ref-9] The Earthsiege series became one of his notable achievements outside the adventure genre, establishing him as a versatile game designer.[^ref-15]
-
-His final Dynamix project was Front Page Sports: Ski Racing (1997), where he served as Director, Art Director, and Video Production Director.[^ref-16] In 1999, Crowe was caught in major layoffs at Dynamix, a precursor to the larger "Chainsaw Monday" cuts at Sierra's Oakhurst headquarters.[^ref-9]
+His last Dynamix credit was Front Page Sports: Ski Racing (1997), as Director and Art Director.[^ref-16] In 1999 he "got caught up in a big layoff (as precursor to 'chainsaw Monday' in Oakhurst I believe)."[^ref-9]
 
 ### Pipeworks Software (2000–2012)
 
-After taking a year off to reconnect with family, Crowe joined the newly formed Pipeworks Software in Eugene, Oregon, as Creative Director in 2000.[^ref-9] Many of his colleagues at Pipeworks were former Dynamix employees, creating a familiar working environment.[^ref-1]
+After a year off, Crowe joined the newly formed Pipeworks Software in 2000 as creative director.[^ref-9] Several former Dynamix colleagues were there too.[^ref-1]
 
-Crowe's first major project at Pipeworks was Godzilla: Destroy All Monsters Melee, a fighting game featuring Toho's iconic monsters. As he recalled: "We landed our first console title project Godzilla: Destroy All Monsters for Atari. That was a lot of fun because I loved going to see all the 'big G' movies as a kid."[^ref-9] The game was released for GameCube in 2002 and Xbox in 2003, with Crowe credited for original concept and design.[^ref-16] He served as lead designer at Pipeworks, with his colleague Simon Strange noting that "Mark Crowe decided on game locations" for the series.[^ref-17]
+Pipeworks' first console project was Godzilla: Destroy All Monsters Melee for Atari: "That was a lot of fun because I loved going to see all the 'big G' movies as a kid."[^ref-9] The game came out on GameCube in 2002 and Xbox in 2003, and MobyGames credits Crowe with its "Original Concept and Design."[^ref-16] IGN's 2002 interview named him as lead designer,[^ref-22] and fight designer Simon Strange later said that "Mark Crowe decided on game locations."[^ref-17] Crowe said that "Godzilla spawned two sequel games on Xbox and Wii";[^ref-9] MobyGames lists him in the development team on Godzilla: Save the Earth (2004) and as Creative Director on Godzilla: Unleashed (2007).[^ref-16]
 
-The Godzilla franchise became a trilogy under Crowe's creative direction, with Godzilla: Save the Earth (2004) and Godzilla: Unleashed (2007) following the original.[^ref-16] Crowe described the continuation: "Godzilla spawned two sequel games on Xbox and Wii."[^ref-9]
+He also worked on Rampage: Total Destruction: "I worked on re-imagining the arcade classic Rampage for Gamecube, PS2 and Wii. In fact it was a Wii launch title that we sold over a million units of. It was a real hands-on project that I enjoyed greatly."[^ref-9]
 
-In 2006, Crowe worked on re-imagining the classic arcade game Rampage for modern consoles. Rampage: Total Destruction was released as a Wii launch title and achieved significant commercial success, selling over one million units.[^ref-9] As Crowe noted: "I worked on re-imagining the arcade classic Rampage for Gamecube, PS2 and Wii. In fact it was a Wii launch title that we sold over a million units of. It was a real hands-on project that I enjoyed greatly."[^ref-9]
-
-As Studio Design Director, Crowe oversaw a wide variety of projects at Pipeworks, ranging from licensed games to adaptations of popular game shows. His credits during this period include NHRA Drag Racing: Countdown to the Championship (2007), Night at the Museum: Battle of the Smithsonian (2009), Charm Girls Club: Pajama Party (2009), Deadliest Warrior: The Game (2010), Wheel of Fortune (2010), Jeopardy! (2010, 2012), and Devil May Cry: HD Collection (2012).[^ref-16] For Night at the Museum, Crowe worked with writer Blake Hutchins on the game's script, which featured dialogue between the protagonist and historical figures.[^ref-18]
+As studio design director he "had a hand in countless other projects at Pipeworks."[^ref-9] His MobyGames credits from this period include NHRA Drag Racing: Countdown to the Championship (2007), Night at the Museum: Battle of the Smithsonian (2009), Charm Girls Club: Pajama Party (2009), Deadliest Warrior: The Game (2010), Wheel of Fortune (2010), Jeopardy! (2010, 2012) and Devil May Cry: HD Collection (2012).[^ref-16] For Night at the Museum, he and writer Blake Hutchins wrote the script.[^ref-18]
 
 ### Return to Adventure Games (2012–Present)
 
-In 2012, Crowe left Pipeworks to reunite with Scott Murphy and form their own company, Guys From Andromeda.[^ref-1] Following a successful Kickstarter campaign, they began work on SpaceVenture, a spiritual successor to the Space Quest series.[^ref-19]
+In 2012 Crowe left Pipeworks and started Guys From Andromeda with Murphy and Chris Pope. After a successful Kickstarter campaign, they began work on SpaceVenture, a spiritual successor to Space Quest.[^ref-1][^ref-19] Crowe said of the reunion: "I realized years ago it was our partnership that made these games great, and it's something I haven't experienced in the last 15, 20 years since I've been away from Sierra. I realized how much I missed that… we've come full circle back to our original way of working together."[^ref-7]
 
-The reconciliation between Crowe and Murphy marked a significant moment in adventure gaming history. Reflecting on their reunion, Crowe observed: "I realized years ago it was our partnership that made these games great, and it's something I haven't experienced in the last 15, 20 years since I've been away from Sierra."[^ref-11] The experience reminded him of what made their original collaboration special: "I realized how much I missed that… we've come full circle back to our original way of working together."[^ref-20]
-
-In 2015, the team released Cluck Yegger in Escape From The Planet of The Poultroid, a standalone game built from a sequence of SpaceVenture to generate additional funding.[^ref-1] SpaceVenture was ultimately released in 2022 after a lengthy development period.[^ref-16]
+In 2015, while Murphy was away from the project, Crowe and Pope turned a SpaceVenture sequence into a standalone game, Cluck Yegger in Escape From The Planet of The Poultroid, to bring in more funding.[^ref-1] [[2022 - SpaceVenture|SpaceVenture]] went out to Kickstarter backers on September 16, 2022,[^ref-24] reached Steam Early Access on April 1, 2025,[^ref-25] and had its full release on December 23, 2025.[^ref-26]
 
 ## Notable Works
 
 ### Space Quest Series (1986–1993)
 
-The Space Quest series represents Mark Crowe's most significant contribution to gaming, establishing him as a master of comedic adventure game design. Co-created with Scott Murphy, the series followed the misadventures of Roger Wilco, a hapless space janitor who repeatedly saves the galaxy through bumbling heroics.[^ref-9] Crowe's artistic vision and design sensibility were crucial to the series' distinctive visual style, which expertly balanced detailed backgrounds with expressive character animation.[^ref-8]
-
-The series' humor drew heavily from Crowe's influences, including Star Wars, Star Trek, and the absurdist artwork of Bernard Kliban.[^ref-13] Each game in the series showcased technological advances in adventure gaming, from the original's AGI graphics engine to the VGA innovations of Space Quest IV. Crowe's attention to visual detail and comedic timing made the games accessible to players who might otherwise be intimidated by complex adventure game puzzles.[^ref-21]
+The Space Quest series follows Roger Wilco, a space janitor who keeps saving the galaxy by accident.[^ref-6] Crowe drew the art and co-designed the first four games with Murphy, and designed the fifth at Dynamix.[^ref-5][^ref-16] He named his influences as "the Star Wars films, 2001, Planet of the Apes, Trek," and "Douglas Adams (Hitchhiker's Guide), Gary Larson (Farside), and B.Kliban."[^ref-11] He was "never a big Trek fan," he added, and the team "intentionally stayed clear of satirizing it up to SQ4."[^ref-11]
 
 ### Police Quest III: The Kindred (1991)
 
-Crowe's work on [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] demonstrated his versatility as a designer beyond the comedic Space Quest series.[^ref-16] Taking on the role of director for this serious police procedural, Crowe had to adapt his skills to a completely different tone and subject matter. The game marked a significant departure from the series' previous entries, incorporating more mature themes and complex narrative structures.[^ref-14]
+On [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] Crowe is credited as Director, Art Designer, background artist and animator.[^ref-16] He described his Police Quest roles as "Director/Art/Animation."[^ref-6]
 
 ### Earthsiege Series (1994–1996)
 
-The [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]] and [[1996 - Earthsiege 2|Earthsiege 2]] games represented Crowe's most significant departure from adventure gaming, establishing him as a producer and director of mech combat simulations.[^ref-16] Working at Dynamix, Crowe had to completely reimagine his approach to game design, moving from turn-based puzzle solving to real-time tactical combat.[^ref-2] The Earthsiege series demonstrated Crowe's adaptability and helped establish the foundation for the later Tribes series.[^ref-3]
+Crowe produced and co-designed [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]] and directed [[1996 - Earthsiege 2|Earthsiege 2]].[^ref-16] Asked in 2002 which non-Space Quest game he was most proud of, he named "the EarthSeige series I did with Dynamix."[^ref-6]
 
-### Godzilla Trilogy (2002–2007)
+### Godzilla games (2002–2007)
 
-At Pipeworks Software, Crowe led the development of three Godzilla fighting games that brought Toho's iconic monsters to console gaming.[^ref-13] As original concept designer and later Creative Director, he shaped the gameplay mechanics and world design for Godzilla: Destroy All Monsters Melee (2002/2003), Godzilla: Save the Earth (2004), and Godzilla: Unleashed (2007).[^ref-16] The series combined his lifelong love of kaiju films with his game design expertise, creating faithful adaptations that pleased both casual gamers and Godzilla fans.[^ref-22]
+Crowe's lead credits on the Pipeworks Godzilla games are Godzilla: Destroy All Monsters Melee (Original Concept and Design) and Godzilla: Unleashed (Creative Director); on Godzilla: Save the Earth he is listed in the development team.[^ref-16][^ref-22]
 
 ### Rampage: Total Destruction (2006)
 
-Crowe's reimagining of the classic Midway arcade game became one of his most commercially successful projects.[^ref-16] Released as a Wii launch title, Rampage: Total Destruction sold over one million copies, proving that Crowe could deliver hit games across multiple genres and platforms.[^ref-9]
-
-## Design Philosophy
-
-Mark Crowe's approach to game design was fundamentally player-centered, rooted in his belief that designers should serve as a "stand-in for the player and trying to be in the player's head."[^ref-4] This philosophy manifested in the Space Quest series' approachable humor and intuitive puzzle design, making complex adventure games accessible to mainstream audiences.[^ref-6]
-
-Crowe's perfectionist tendencies were both a strength and a challenge in his development process. His admission that "I've been called a perfectionist because I don't know when to leave things alone" reflects a designer who prioritized polish and player experience over meeting arbitrary deadlines.[^ref-12] This attention to detail was evident in every aspect of his games, from pixel-perfect sprite animations to carefully crafted dialogue that maximized comedic impact.[^ref-5]
-
-The designer's influences were eclectic, drawing from popular culture, science fiction, and visual art. His love of Star Wars and Star Trek provided the foundational elements for Space Quest's universe, while artists like Bernard Kliban influenced the series' absurdist humor.[^ref-7] His passion for Godzilla films from childhood directly informed his later work on the Godzilla trilogy at Pipeworks.[^ref-9]
+Crowe has said that Rampage: Total Destruction, a Wii launch title, sold over a million units.[^ref-9]
 
 ## Legacy
 
-Mark Crowe's impact on gaming extends far beyond the commercial success of the Space Quest series. His work helped establish many of the conventions that define adventure games, particularly in terms of visual design and user interface innovation.[^ref-10] The evolution from text parsers to point-and-click interfaces owed much to designers like Crowe, who understood that reducing barriers to entry would expand the genre's audience.[^ref-11]
-
-His career demonstrated remarkable adaptability, successfully transitioning from adventure games to mech simulations to console fighting games while maintaining a consistent standard of quality.[^ref-13] The million-selling success of Rampage: Total Destruction proved that his design sensibilities could resonate with modern console audiences.[^ref-9]
-
-The enduring popularity of Space Quest, decades after the series concluded, speaks to the timeless quality of Crowe's design work. As he reflected with characteristic humility: "It's amazing to me that anyone even cares about these silly games that Scott and I created."[^ref-20] This enduring fan interest has supported numerous fan projects, remakes, and spiritual successors, ensuring that Crowe's influence continues to shape new generations of adventure games.[^ref-9]
+Looking back in 2000, Crowe said: "It's amazing to me that anyone even cares about these silly games that Scott and I created."[^ref-11] The Space Quest fan base later funded SpaceVenture on Kickstarter.[^ref-19][^ref-24]
 
 ## Games
 
-### Pre-Sierra & Early Sierra (1983–1985)
+### Early Sierra (1983–1985)
 
-- 1983 — Hi-Res Adventure #6: The Dark Crystal — Special Thanks
-- 1983 — Flip N Match (VIC-20) — Cover Art
+Credits follow MobyGames unless noted.[^ref-16]
+
 - **1984** — [[1984 - Mickey's Space Adventure|Mickey's Space Adventure]] — Role: Art/Graphics
 - **1984** — [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]] — Role: Art/Graphics
 - **1984** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]] — Role: Art/Graphics
@@ -124,22 +100,22 @@ The enduring popularity of Space Quest, decades after the series concluded, spea
 
 - **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] — Role: Art/Graphics
 - **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] — Role: Art/Graphics
-- **1986** — [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]] — Role: Designer, Programmer, Art/Graphics
+- **1986** — [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]] — Role: Designer, Art/Graphics
 - **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]] — Role: Design, Art/Graphics
 - **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] — Role: Art/Graphics
-- **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]] — Role: Designer, Programmer, Art/Graphics
+- **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]] — Role: Designer, Art/Graphics
 - **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]] — Role: Project Coordinator
 - **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III]] — Role: Cover Art
 - **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Role: Designer, Programmer, Art/Graphics
-- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Voice Actor
-- **1991** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI)]] — Role: Art Designer, Animator
+- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Actor (Video/Cinematics); audio credit on the 1992 CD-ROM version[^ref-2]
+- **1991** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI)]] — Role: Art Designer, Animator, Background Artist (MobyGames lists the 1991 DOS release; Crowe calls his version "Sierra's first CD-ROM title")[^ref-6]
 - **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Director, Art Designer, Animator
 - **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] — Role: Co-Designer
 - **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Lead Designer, Art Designer
 
 ### Dynamix (1993–1999)
 
-- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Role: Producer, Director, Designer, Writer
+- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Role: Producer/Director, Designer, Contributing Writer
 - **1994** — [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]] — Role: Producer, Game Designer
 - 1994 — Metaltech: Battledrome — Producer, Art Director, Box Design
 - 1995 — Metaltech: EarthSiege Expansion Pack — Producer
@@ -153,7 +129,7 @@ The enduring popularity of Space Quest, decades after the series concluded, spea
 | 2002 | Godzilla: Destroy All Monsters Melee (GameCube) | Original Concept & Design |
 | 2003 | Godzilla: Destroy All Monsters Melee (Xbox) | Original Concept & Design |
 | 2004 | Godzilla: Save the Earth | Godzilla Development Team |
-| 2006 | Rampage: Total Destruction | Designer |
+| 2006 | Rampage: Total Destruction | Design |
 | 2007 | Godzilla: Unleashed | Creative Director |
 | 2007 | NHRA Drag Racing: Countdown to the Championship | Designer |
 | 2009 | Night at the Museum: Battle of the Smithsonian | Studio Design Director |
@@ -167,29 +143,24 @@ The enduring popularity of Space Quest, decades after the series concluded, spea
 ### Guys From Andromeda (2015–Present)
 
 - **2015** — [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]] — Role: Creator, Designer, Artist
-- **2022** — [[2022 - SpaceVenture|SpaceVenture]] — Role: Creator, Writer, Scene Artist
+- **2022** — [[2022 - SpaceVenture|SpaceVenture]] — Role: Creator, Writer, Scene Artist (backer release 2022; Steam Early Access April 1, 2025; full release December 23, 2025)
 
 ## References
 
-[^ref-1]: [Wikipedia - Mark Crowe](https://en.wikipedia.org/wiki/Mark_Crowe) — Career overview and biographical information
-[^ref-2]: [Sierra Gamers - Mark Crowe](https://www.sierragamers.com/mark-crowe/) — Sierra career details
-[^ref-3]: [Adventure Game Fan Fair - Mark Crowe](https://adventuregamefanfair.com/guests/mark-crowe/) — Two Guys from Andromeda background
-[^ref-4]: [Dev Game Club Interview - Mark Crowe](https://www.devgameclub.com/blog/2018/4/25/dgc-ep-110-interview-with-mark-crowe) — Design philosophy and career insights
-[^ref-5]: [MobyGames - Mark Crowe](https://www.mobygames.com/person/2192/mark-crowe/) — Comprehensive game credits (146 credits across 47 games)
-[^ref-6]: [Adventure Gamers - Mark Crowe Interview](https://web.archive.org/web/20250610050515/https://adventuregamers.com/article/mark_crowe) — Early career and entry into gaming industry
-[^ref-7]: [Game Developer - How Space Quest's Creative Duo Buried the Hatchet](https://www.gamedeveloper.com/business/how-em-space-quest-em-s-creative-duo-buried-the-hatchet-after-20-years-apart) — Partnership details and career history
-[^ref-8]: [Choicest Games - Where Are They Now: Mark Crowe](https://www.choicestgames.com/2014/08/where-are-they-now-mark-crowe.html) — Career beginnings
-[^ref-9]: [Adventure Classic Gaming - Mark Crowe & Scott Murphy Interview](https://www.adventureclassicgaming.com/index.php/site/interviews/729/) — Design philosophy and Pipeworks career
-[^ref-10]: [ABM College Blog - Adventure Game Renaissance](https://www.abmcollege.com/blog/exploring-the-adventure-game-renaissance) — Player-centered design approach
-[^ref-11]: [Personal Website Archive](https://www.wiw.org/~jess/markcrowe.html) — Interface evolution and accessibility
-[^ref-12]: [IMDb - Mark Crowe](https://www.imdb.com/name/nm1013650/) — Complete filmography and game credits
-[^ref-13]: [LinkedIn - Mark Crowe](https://www.linkedin.com/in/mark-crowe-71354965/) — "30 year veteran of the PC and console games business... Studio Design Director for Pipeworks Software"
-[^ref-14]: [Game Developer - The 20-Year Estrangement](https://www.gamedeveloper.com/business/the-20-year-estrangement-of-the-two-guys-from-andromeda) — Early Sierra years
-[^ref-15]: [Dynamix Fandom Wiki - Mark Crowe](https://dynamix.fandom.com/wiki/Mark_Crowe) — Career timeline
-[^ref-16]: [MobyGames Credits](https://www.mobygames.com/person/2192/mark-crowe/credits/) — 1984 Disney game credits
-[^ref-17]: [Pipeworks - Making of the Godzilla Trilogy](https://www.pipeworks.com/making-the-godzilla-trilogy/) — "Mark Crowe decided on game locations"
-[^ref-18]: [Eugene Register-Guard](http://projects.registerguard.com/csp/cms/sites/web/business/13169467-41/story.csp) — "Pipeworks' studio design director Mark Crowe and local writer Blake Hutchins wrote the script"
-[^ref-19]: [Kickstarter - SpaceVenture](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que) — Successful funding campaign
-[^ref-20]: [YouTube Interview](https://www.youtube.com/watch?v=SgnDsrUes1k) — Coming full circle with collaboration
-[^ref-21]: [The Retro Hour Podcast](https://www.podbean.com/podcast-detail/g78pm-3c19e/The-Retro-Hour-%28Retro-Gaming-Podcast%29) — Accessibility and mainstream appeal
-[^ref-22]: [IGN Interview - Pipeworks Makes Monsters](https://www.ign.com/articles/2002/10/03/interview-pipeworks-makes-monsters) — "Mark Crowe, lead designer" on Godzilla
+[^ref-1]: [Wikipedia - Mark Crowe](https://en.wikipedia.org/wiki/Mark_Crowe) — Art Director on The Black Cauldron, 1999 layoffs, former Dynamix co-workers at Pipeworks, Guys From Andromeda (2012) with Chris Pope, Cluck Yegger (2015)
+[^ref-2]: [Sierra Gamers - Mark Crowe](https://www.sierragamers.com/mark-crowe/) — Sierra credits by role, copied from MobyGames (Jones in the Fast Lane video and CD-ROM audio credits, Police Quest II)
+[^ref-5]: [MobyGames - Mark Crowe (Wayback, November 2025)](https://web.archive.org/web/20251104220326/https://www.mobygames.com/person/2192/mark-crowe/) — Biography: began as an illustrator in Sierra's marketing department; "Crowe doing artwork, Murphy programming, both designing"; designed SQ5 at Dynamix
+[^ref-6]: [Adventure Gamers - Mark Crowe Interview](https://web.archive.org/web/20250610050515/https://adventuregamers.com/article/mark_crowe) — Evan Dickens, December 2002: SoftPorn, marketing department, "space farce", LSL1 sight gags, SQ4 "masterpiece", Gary Owens, "perfectionist", SQ5 weakest
+[^ref-7]: [Game Developer - How Space Quest's Creative Duo Buried the Hatchet](https://www.gamedeveloper.com/business/how-em-space-quest-em-s-creative-duo-buried-the-hatchet-after-20-years-apart) — June 2012: reunion quotes ("our partnership that made these games great", "full circle")
+[^ref-8]: [Choicest Games - Where Are They Now: Mark Crowe](https://www.choicestgames.com/2014/08/where-are-they-now-mark-crowe.html) — "started working for Sierra's marketing department as an illustrator back in 1983"
+[^ref-9]: [Adventure Classic Gaming - Mark Crowe & Scott Murphy Interview](https://www.adventureclassicgaming.com/index.php/site/interviews/729/) — 2012: move to Oregon and Dynamix, EarthSiege, 1999 layoff, Pipeworks (2000), Godzilla, Rampage
+[^ref-11]: [The Virtual Broomcloset - Mark Crowe interview (2000)](https://www.wiw.org/~jess/markcrowe.html) — Fan-site interview by Jess: hired 1982, "never even seen a computer", Black Cauldron art director, influences, SQ4 "most difficult birth", Gary Owens
+[^ref-16]: [MobyGames Credits](https://www.mobygames.com/person/2192/mark-crowe/credits/) — Credits by role, 146 credits on 47 games (dossier copy; programming credit on SQ3 only)
+[^ref-17]: [Pipeworks - Making of the Godzilla Trilogy](https://www.pipeworks.com/making-the-godzilla-trilogy/) — Simon Strange: "Mark Crowe decided on game locations"
+[^ref-18]: [Eugene Register-Guard (Wayback)](http://web.archive.org/web/20210719123412/http://projects.registerguard.com/csp/cms/sites/web/business/13169467-41/story.csp) — "Pipeworks' studio design director Mark Crowe and local writer Blake Hutchins wrote the script"
+[^ref-19]: [Kickstarter - SpaceVenture](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que) — Successful 2012 funding campaign
+[^ref-22]: [IGN Interview - Pipeworks Makes Monsters](https://www.ign.com/articles/2002/10/03/interview-pipeworks-makes-monsters) — October 3, 2002: "Mark Crowe, lead designer" on Godzilla
+[^ref-23]: [The Sierra Newsletter, Vol. 2 No. 1, Spring 1989 – "The Men Who Designed Space Quest 3"](https://archive.org/details/Sierra_Newsletter_The_Volume_2_Number_1_Spring_1989_1989_Sierra_On-Line_US) — Crowe: "I started with Sierra six years ago working for the Art Department"; Winnie the Pooh, KQ II, Black Cauldron
+[^ref-24]: [Time Extension - SpaceVenture Releasing To Backers Next Month](https://www.timeextension.com/news/2022/08/spaceventure-releasing-to-backers-next-month-after-a-decade-in-development) — August 24, 2022: Windows version to backers on September 16, 2022
+[^ref-25]: [Kotaku - 12 Years Late, This Kickstarter-Funded Tribute…](https://kotaku.com/spaceventure-space-quest-kickstarter-steam-disaster-1851774747) — John Walker, April 4, 2025: Steam Early Access release on April 1, 2025
+[^ref-26]: [Steam - SpaceVenture](https://store.steampowered.com/app/1374960/SpaceVenture/) — Release date December 23, 2025 (full release)
