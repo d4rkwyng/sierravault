@@ -6,15 +6,15 @@ defunct: 1999
 headquarters: "Seattle, Washington"
 notable_games: ["Birthright: The Gorgon's Alliance", "Diablo: Hellfire", "Thexder 95"]
 parent_company: "Sierra On-Line"
-last_updated: "2026-10-09"
+last_updated: "2026-10-16"
 ---
 # Synergistic Software
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
-Synergistic Software was an American software developer founded in 1978 in Seattle, Washington, by Robert (Bob) Clardy and Ann Dickens Clardy.[^ref-3][^ref-11][^ref-18] It published some of the earliest games and applications for the Apple II, and A.P.P.L.E. credits it with more than 160 titles over about twenty years, covering games, business, educational and utility software.[^ref-5][^ref-18] In the late 1980s and early 1990s Synergistic built the "World Builder" engine behind *War in Middle Earth*, *Spirit of Excalibur*, *Vengeance of Excalibur* and *Conan: The Cimmerian*, all published by other companies.[^ref-18][^ref-28] It also took on contract and porting work.[^ref-11][^ref-21]
+Synergistic Software was an American software developer in Seattle, Washington, founded by Robert (Bob) Clardy and Ann Dickens Clardy. Most sources date its founding to 1978.[^ref-3][^ref-18] MobyGames and Clardy's own biography give June 1979.[^ref-11][^ref-34] It published some of the earliest games and applications for the Apple II, and A.P.P.L.E. credits it with more than 160 titles over about twenty years, covering games, business, educational and utility software.[^ref-5][^ref-18] In the late 1980s and early 1990s Synergistic built the "World Builder" engine behind *War in Middle Earth*, *Spirit of Excalibur*, *Vengeance of Excalibur* and *Conan: The Cimmerian*, all published by other companies.[^ref-18][^ref-28] It also took on contract and porting work.[^ref-11][^ref-21]
 
 Sierra On-Line acquired Synergistic in 1996, after the studio had worked for Sierra as a subcontractor for a few years.[^ref-18][^ref-21] Synergistic stayed an independent development group inside Sierra. Its titles from this period include *Birthright: The Gorgon's Alliance* and the *Diablo* expansion *Hellfire*.[^ref-11][^ref-29][^ref-30] Sierra closed the studio on February 22, 1999, as part of a wider restructuring.[^ref-3][^ref-21][^ref-22]
 
@@ -36,7 +36,7 @@ None of the World Builder games were published by Sierra. *J.R.R. Tolkien's War 
 
 Clardy and Sierra co-founder Ken Williams were friends as well as business partners, and Sierra's Bellevue office was close to Synergistic's headquarters.[^ref-21] Clardy told Polygon: "It was after working with Sierra as a sub-contractor for a few years that Ken broached the idea of taking us over entirely." The takeover came in 1996.[^ref-21] He also said "The major selling point was that I really enjoyed working with Ken personally."[^ref-21] Polygon adds that under Sierra's ownership the studio would no longer have to look for contract work it had no interest in.[^ref-21]
 
-Sierra published several Synergistic titles from the mid-1990s onward. They include *Thexder 95*, a Windows 95 remake of the first *Thexder*, and *Birthright: The Gorgon's Alliance*, based on TSR's *Birthright* campaign setting for *Dungeons & Dragons*.[^ref-29][^ref-31] In February 1996, CUC International acquired Sierra, and with it Synergistic.[^ref-21] CUC management then assigned Synergistic the *Diablo* expansion *Hellfire* (1997). Clardy told Polygon it was "far and away" the studio's most financially successful project, and it was also its last.[^ref-21][^ref-30]
+Sierra published several Synergistic titles from the mid-1990s onward. They include *Thexder 95*, a Windows 95 remake of the first *Thexder*, and *Birthright: The Gorgon's Alliance*, based on TSR's *Birthright* campaign setting for *Dungeons & Dragons*.[^ref-29][^ref-31] CUC International and Sierra signed their merger agreement on February 19, 1996, and the merger was completed in July 1996.[^ref-33][^ref-35] Synergistic was not among the companies Sierra had merged with by then; the CUC filing lists Pixellite, Software Inspiration, Green Thumb, Arion and Papyrus.[^ref-33] Synergistic joined Sierra later in 1996. Sierra's *InterAction* magazine introduced Bob Clardy in its Holiday 1996 issue as "president of Synergistic Software, the newest member of the Sierra family."[^ref-36] No source found gives an exact date. CUC management then assigned Synergistic the *Diablo* expansion *Hellfire* (1997). Clardy told Polygon it was "far and away" the studio's most financially successful project, and it was also its last.[^ref-21][^ref-30]
 
 ### Closure
 
@@ -50,7 +50,7 @@ Synergistic developed *Spirit of Excalibur*, and Virgin Mastertronic published i
 
 ### Birthright: The Gorgon's Alliance
 
-*Birthright: The Gorgon's Alliance* is based on TSR's *Birthright* campaign setting for *Dungeons & Dragons*. The player rules a realm in Anuire and competes with other regents through warfare, diplomacy, magic and holdings on a turn-based world map, while adventures are played in real-time 3D.[^ref-29] Wikipedia dates its North American release to July 1997. IGN reported that Synergistic worked on *Birthright* before it was folded into Sierra's sports division.[^ref-22][^ref-29]
+*Birthright: The Gorgon's Alliance* is based on TSR's *Birthright* campaign setting for *Dungeons & Dragons*. The player rules a realm in Anuire and competes with other regents through warfare, diplomacy, magic and holdings on a turn-based world map, while adventures are played in real-time 3D.[^ref-29] Wikipedia dates its North American release to July 1997. IGN reported that Synergistic had worked on *Birthright* before the studio was folded into Sierra's sports division.[^ref-22][^ref-29]
 
 ### Conan: The Cimmerian (1991)
 
@@ -66,19 +66,19 @@ Synergistic's *Wilderness Campaign* is credited with inspiring the gameplay of t
 
 ## Games
 
-### In This Archive (Pre-Acquisition, published by others)
+### In This Archive (Published by Others)
 
 - **1989** — [[1989 - J.R.R. Tolkien's War in Middle Earth|J.R.R. Tolkien's War in Middle Earth]] — Strategy (Melbourne House)
 - **1990** — [[1990 - Spirit of Excalibur|Spirit of Excalibur]] — Strategy/RPG (Virgin)
 - **1991** — [[1991 - Vengeance of Excalibur|Vengeance of Excalibur]] — Strategy/RPG (Virgin)
 - **1991** — [[1991 - Conan - The Cimmerian|Conan: The Cimmerian]] — Action/Adventure (Virgin)
+- 1993 — The Beverly Hillbillies — Adventure (Capstone Software)[^ref-37]
+- **1995** — [[1995 - Air Cavalry|Air Cavalry]] — Genre: Flight Simulation (Cybersoft/GameTek)
 
 ### In This Archive (Sierra-Published)
 
-- 1993 — The Beverly Hillbillies — Adventure
-- **1995** — [[1995 - Air Cavalry|Air Cavalry]] — Genre: Flight Simulation (published by GameTek/Cybersoft, before Sierra acquired Synergistic)
 - **1995** — [[1995 - Thexder 95|Thexder 95]] — Genre: Action
-- **1996** — [[1996 - Birthright - The Gorgon's Alliance|Birthright: The Gorgon's Alliance]] — Genre: Strategy/RPG
+- **1997** — [[1996 - Birthright - The Gorgon's Alliance|Birthright: The Gorgon's Alliance]] — Genre: Strategy/RPG
 - **1997** — [[1997 - Diablo - Hellfire|Diablo: Hellfire]] — Genre: Action RPG
 
 ### Other Notable Games (not in archive)
@@ -88,7 +88,7 @@ Synergistic's *Wilderness Campaign* is credited with inspiring the gameplay of t
 
 [^ref-3]: [VGMPF Wiki - Synergistic Software](https://vgmpf.com/Wiki/index.php?title=Synergistic_Software) — Founded 1978 in Seattle by Robert and Ann Dickens Clardy; acquired by Sierra 1996; closed February 22, 1999
 [^ref-5]: [Call-A.P.P.L.E. - Synergistic Software: The Early Games](https://www.callapple.org/documentation/books/synergistic-software-the-early-games-released-by-a-p-p-l-e/) — More than 160 titles over 20 years (games, business, educational, utility); book of 20 early Apple II/Atari 800 manuals
-[^ref-11]: [MobyGames - Northwest Synergistic Software](https://www.mobygames.com/company/628/northwest-synergistic-software/) — Founded 1978 in Seattle; known for porting in the DOS era; acquired by Sierra 1996; shut down February 22, 1999; Eclectic Games; apparel software from 2000
+[^ref-11]: [MobyGames - Northwest Synergistic Software (Wayback, January 2026)](https://web.archive.org/web/20260111114838/https://www.mobygames.com/company/628/northwest-synergistic-software/) — Company 628: History tab "June 1979 The company was founded"; Beverly Hillbillies (1993); known for porting in the DOS era; acquired by Sierra 1996; shut down February 22, 1999; Eclectic Games; apparel software from 2000
 [^ref-14]: [The Video Game Library - Synergistic Software: The Early Games](https://www.thevideogamelibrary.org/book/synergistic-software-the-early-games) — Book record (Clardy, Martens, Wiser; Lulu Press, 2018; ISBN 9781365960628)
 [^ref-15]: [RPG Watch - Synergistic Software](https://rpgwatch.com/developers/synergistic-software-357.html) — Acquired by Sierra 1996; 1998 rename to Eclectic Games; closed February 22, 1999
 [^ref-17]: [MOCAGH - Synergistic Software](https://www.mocagh.org/loadpage.php?getcompany=synergistic) — Packaging gallery of early Apple II and Atari 400/800 releases
@@ -105,3 +105,8 @@ Synergistic's *Wilderness Campaign* is credited with inspiring the gameplay of t
 [^ref-30]: [Wikipedia - Diablo: Hellfire](https://en.wikipedia.org/wiki/Diablo:_Hellfire) — Expansion developed by Synergistic Software, a Sierra division, published by Sierra On-Line in 1997
 [^ref-31]: [Wikipedia - Thexder 95](https://en.wikipedia.org/wiki/Thexder_95) — Synergistic/Sierra, 1995; remake of the first Thexder for Windows 95
 [^ref-32]: [David Hunter, "An Odyssey to Apventure", Softalk vol. 2 no. 9 (May 1982), pp. 42–46](https://archive.org/details/softalkv2n09may1982/page/42/mode/2up) — Company profile: Ann's father named Synergistic; first employee Mike Branham (March 1981); office move; Will Clardy; Renton
+[^ref-33]: [CUC International Form S-4 / Sierra proxy statement, June 1996 (SEC EDGAR, Wayback 2018)](https://web.archive.org/web/20180903215537/https://www.sec.gov/Archives/edgar/data/723612/0000950112-96-002113.txt) — "Agreement and Plan of Merger dated as of February 19, 1996"; Sierra stockholders' meeting July 24, 1996; FY1996 mergers with Pixellite, Software Inspiration, Green Thumb, Arion and Papyrus (no Synergistic)
+[^ref-34]: [MobyGames - Robert C. Clardy (Wayback, October 2026)](https://web.archive.org/web/20261004111350/https://www.mobygames.com/person/15401/robert-c-clardy/) — Clardy's own biography dating Synergistic's start to June 1979; credits incl. The Beverly Hillbillies (1993, Director)
+[^ref-35]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — "Sierra's acquisition closed on July 24, 1996"
+[^ref-36]: [InterAction, Holiday 1996 (archive.org)](https://archive.org/details/029_interaction_volume_9_number_4_holiday_1996) — "Bob Clardy, president of Synergistic Software, the newest member of the Sierra family"
+[^ref-37]: [MobyGames - The Beverly Hillbillies](https://www.mobygames.com/game/3291/the-beverly-hillbillies/) — Game 3291 (API-verified): DOS release developed by Synergistic Software, published by Capstone Software
