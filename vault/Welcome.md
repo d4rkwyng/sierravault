@@ -83,7 +83,7 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > | Jun 2026 | [[1992 - Johnny Castaway\|Johnny Castaway for macOS]] | d4rkwyng | v0.2.5 released — native Swift recreation |
 > | May 2026 | Gobliiins Collection (PS5/Xbox/Switch) | Red Art Games | Released — "Playable on console for the very first time," per Red Art Games |
 > | Feb 2026 | [[2026 - Gobliins 6\|Gobliins 6: The Madmen of the Year 1000]] | Pierre Gilhodes | Released (itch.io Feb 10, Steam Feb 13) |
-> | Jan 2026 | [[2025 - SCP Sierra Conversion Project\|SCP Amiga Remasters]] | DaRaSCo & kikems | PQ3 and SQ4 released; KQ5 shown in a video |
+> | Jan 2026 | [[2025 - SCP Sierra Conversion Project\|SCP Amiga Remasters]] | DaRaSCo & kikems | PQ3, KQ5 and SQ4 released |
 > | Dec 2025 | [[2022 - SpaceVenture\|SpaceVenture]] | Two Guys from Andromeda | Full release out of Early Access (Steam, Dec 23) |
 > | Nov 2025 | [[2021 - King's Quest IV Retold\|KQ4 Retold VGA + Talkie]] | Magic Quest Entertainment | Voice acting added |
 > | Jul 2024 | [[2001 - King's Quest I VGA Remake\|KQ1 VGA v4.2 RC1]] | AGD Interactive | Engine upgrade, modern OS compatibility |

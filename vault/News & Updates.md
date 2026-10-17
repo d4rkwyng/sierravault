@@ -132,12 +132,12 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 > [!success] SCP Amiga Enhancements
 > **January 2026** — The [[2025 - SCP Sierra Conversion Project|Sierra Conversion Project (SCP)]] showed and released enhanced Amiga versions:
-> - 🎬 **[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] OCS Remaster** — Shown in a new video (Jan 4); improved palettes, MT-32 MIDI
+> - 🎬 **[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] OCS Remaster** — Released Jan 4, announced on the English Amiga Board as the second remastered game; improved palettes, MT-32 MIDI
 > - ✅ **[[1991 - Police Quest III - The Kindred|Police Quest III]] Enhancement** — First fully completed SCP project
 > - ✅ **[[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] OCS Enhanced** — Released mid-January (EAB thread opened Jan 14; IndieRetroNews, Jan 15)
 > - 🚧 **[[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]]** — 90% complete
 > 
-> [IndieRetroNews (KQ5)](https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html) · [IndieRetroNews (PQ3)](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html) · [IndieRetroNews (SQ4, Jan 15)](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html) · [English Amiga Board](https://eab.abime.net/showthread.php?t=122018)
+> [EAB release thread (KQ5)](https://eab.abime.net/showthread.php?t=121951) · [IndieRetroNews (KQ5)](https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html) · [IndieRetroNews (PQ3)](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html) · [IndieRetroNews (SQ4, Jan 15)](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html) · [English Amiga Board](https://eab.abime.net/showthread.php?t=122018)
 
 ---
 
