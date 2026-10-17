@@ -10,14 +10,14 @@ series: Papyrus Racing Simulations
 engine: Papy3D
 protagonist: Player-controlled 1967 F1 driver
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-10-14'
+last_updated: '2026-10-17'
 description: Grand Prix Legends is a computer racing simulator developed by Papyrus
   Design Group and published by Sierra Sports on October 5, 1998. The game meticulously...
 tags: [1990s, papyrus-racing-simulations, racing, sierra]
 ---
 # Grand Prix Legends
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 17, 2026</small>
 
 ## Overview
 
@@ -65,7 +65,7 @@ The simulation includes three driver aids for beginners: automatic shifting, bra
 
 ### Tracks and Circuits
 
-Grand Prix Legends features eleven meticulously recreated circuits from the 1967 season[^ref-14]:
+Grand Prix Legends features eleven meticulously recreated circuits from the 1967 season:[^ref-14]
 
 - **Kyalami, South Africa**
 - **Mexico City, Mexico**
@@ -83,7 +83,7 @@ Rouen is the only track that is not historically correct: the 1967 French Grand 
 
 ### Cars and Teams
 
-The game includes seven period cars, two of them under fictional names[^ref-51][^ref-5]:
+The game includes seven period cars, two of them under fictional names:[^ref-51][^ref-5]
 
 | Team | Car | Notes |
 |------|-----|-------|
@@ -318,7 +318,7 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 [^ref-7]: [RacingGames.gg – Grand Prix Legends Best F1 Game](https://racinggames.gg/article/grand-prix-legends-best-formula-1-game-ever-f1-pc-retro-gaming-racing-classic-cars-60s-1960s-ferrari-brm-lotus-stewart-hill-brabham) – modern critical assessment
 [^ref-8]: [MobyGames – Grand Prix Legends](https://www.mobygames.com/game/2561/grand-prix-legends/) – credits, technical specs, awards, sales figure
 [^ref-9]: [PCGamingWiki – Grand Prix Legends](https://www.pcgamingwiki.com/wiki/Grand_Prix_Legends) – engine name, technical specifications, compatibility
-[^ref-10]: [Sierra On-Line Readme.txt](http://alison.hine.net/gpl/readme.txt) – official technical requirements, known issues, championship points system
+[^ref-10]: [Sierra On-Line Readme.txt (archived)](https://web.archive.org/web/20211128000156/http://alison.hine.net/gpl/readme.txt) – official technical requirements, known issues, championship points system
 [^ref-11]: [GameSpot – Grand Prix Legends Review](https://www.gamespot.com/reviews/grand-prix-legends-review/1900-2536263/) – gameplay description, historical context
 [^ref-12]: [GameCenter Archive](https://web.archive.org/web/20000816095206/http://www.gamecenter.com/Reviews/Item/0,6,0-2220,00.html) – 1967 season significance, track details
 [^ref-13]: [JamesOnline – GPL Story](http://www.jamesonline.net/gpl/gplstory03.php) – car specifications, version history, Jackie Stewart rumor
