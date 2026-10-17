@@ -5,11 +5,11 @@ birth_year: 1953
 death_year: null
 notable_games: ["Mystery House", "King's Quest", "Phantasmagoria"]
 companies: ["On-Line Systems", "Sierra On-Line", "Cygnus Entertainment"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-16"
 ---
 # Roberta Williams
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -99,7 +99,7 @@ Roles follow her MobyGames credits.[^ref-15]
 - **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Writer, Director
 - **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I: Quest for the Crown (VGA)]] — Role: Designer
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Designer, Producer, Voice Actor
-- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI)]] — Role: Designer, Voice Actor
+- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI)]] — Role: Designer (her voice credit, "Character Voices (CD-ROM)", is on the 1991 VGA/CD edition)[^ref-15]
 - **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Creative Consultant
 - **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Designer, Writer, Director
 - **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Role: Designer, Director
