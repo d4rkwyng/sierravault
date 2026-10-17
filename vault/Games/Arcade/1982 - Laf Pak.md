@@ -9,7 +9,7 @@ platforms: [Apple II]
 series: Standalone
 protagonist: Various (compilation)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-17'
 description: Laf Pak (sold as Chuckles' Laf Pak) is a compilation of four Apple II
   action games by Chuck Bueche, published by On-Line Systems, bundling Creepy Corridors,
   Apple Zap, Space Race and Mine Sweep on one disk.
@@ -17,7 +17,7 @@ tags: [1980s, sierra, standalone]
 ---
 # Laf Pak
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 17, 2026</small>
 
 ## Overview
 
@@ -151,7 +151,7 @@ Laf Pak was not a commercial success. Bueche himself said that "not many copies 
 
 - **TOSEC:** catalogued in WOZ format under "Apple II - Compilations - Games"[^ref-2], and as part of a homemade DSK compilation[^ref-1][^ref-12]
 - **Internet Archive:** preserved in the woz-a-day collection[^ref-20]
-- **Databases:** listed on MobyGames, GameFAQs, Giant Bomb and IGDB[^ref-9][^ref-11][^ref-15][^ref-16]
+- **Databases:** listed on MobyGames, GameFAQs and IGDB[^ref-9][^ref-11][^ref-16]
 
 ### Standalone Releases
 
@@ -220,7 +220,6 @@ Laf Pak is a minor title in Sierra's catalogue. Its main interest today is as ea
 
 [^ref-13]: [GameFAQs – Laf Pak Media](https://gamefaqs.gamespot.com/appleii/216570-laf-pak/media) – Apple II release data (1981)
 
-[^ref-15]: [Giant Bomb](https://www.giantbomb.com/laf-pak/3030-42356/) – Game database entry
 
 [^ref-16]: [IGDB](https://www.igdb.com/games/laf-pak) – Internet Game Database entry
 
