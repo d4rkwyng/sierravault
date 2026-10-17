@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: SCI2
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-16'
 composer: [Robert Holmes]
 description: 'Gabriel Knight: Sins of the Fathers is a point-and-click adventure game
   developed and published by Sierra On-Line, released on December 17, 1993. Designed...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -157,7 +157,7 @@ The game included a 20-minute behind-the-scenes AVI file on the CD version.[^ref
 **CD-ROM Version:**[^ref-2]
 - **Resolution:** 640x480 SVGA (320x240 DOS)[^ref-13]
 - **Colors:** 256
-- **Audio:** Sound Blaster, General MIDI support
+- **Audio:** Sound Blaster (incl. Pro and 16), General MIDI/MPU-401, Roland MT-32, AdLib, Gravis Ultrasound, Pro Audio Spectrum, Thunderboard, Disney Sound Source, PC speaker[^ref-1]
 - **Media:** 1 CD-ROM
 - **Voice Acting:** Full digital voiceovers
 
@@ -235,7 +235,7 @@ The game has two endings, decided by the player's choice in the final confrontat
 | Resolution | 640×480 (SVGA) / 320×240 (DOS)[^ref-13] |
 | Colors | 256 (VGA/SVGA) |
 | Interface | Point-and-click with expanded verbs[^ref-2] |
-| Sound | Sound Blaster, General MIDI |
+| Sound | Sound Blaster (incl. Pro and 16), General MIDI/MPU-401, Roland MT-32, AdLib, Gravis Ultrasound, Pro Audio Spectrum, Thunderboard, Disney Sound Source, PC speaker[^ref-1] |
 | Voice Acting | Full digital voiceovers (CD version)[^ref-2] |
 | RAM Required | 4MB minimum |
 | Media | 1 CD-ROM or 11 floppy disks[^ref-2] |
@@ -370,7 +370,7 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 
 ## References
 
-[^ref-1]: [MobyGames – Gabriel Knight: Sins of the Fathers](https://www.mobygames.com/game/116/gabriel-knight-sins-of-the-fathers/) — Description (realistic setting, mature themes and detective work, unlike Sierra's Quest games); credits (Lead Programmer, Programmers) and trivia (20-minute behind-the-scenes AVI, German CD crash bug, Laura Bow Dorian and Dr. John references)
+[^ref-1]: [MobyGames – Gabriel Knight: Sins of the Fathers](https://www.mobygames.com/game/116/gabriel-knight-sins-of-the-fathers/) — DOS tech specs (sound devices supported); description (realistic setting, mature themes and detective work, unlike Sierra's Quest games); credits (Lead Programmer, Programmers) and trivia (20-minute behind-the-scenes AVI, German CD crash bug, Laura Bow Dorian and Dr. John references)
 [^ref-2]: [Wikipedia – Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — Development history, plot summary, critical reception
 [^ref-3]: [Adventure Classic Gaming – Gabriel Knight: Sins of the Fathers Review](http://www.adventureclassicgaming.com/index.php/site/reviews/16/) — Retrospective review of the original 1993 release
 [^ref-4]: [Adventure Classic Gaming – Jane Jensen Interview (2003)](http://www.adventureclassicgaming.com/index.php/site/interviews/179/) — Jensen's BA (Anderson University) and Hewlett-Packard background; interviewer dates her Sierra start to 1991; women/older audience; GK novelization reflections
