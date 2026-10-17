@@ -25,7 +25,7 @@ After Ken brought an Apple II home, Roberta played through other text adventures
 
 With Ken's programming help, Roberta designed [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]], inspired by Agatha Christie's *And Then There Were None* and the board game Clue[^ref-3]. Roberta drew the pictures using an Apple II and a Versawriter—a graphics tablet for hand-tracing images. Since no programs existed to read Versawriter input, Ken wrote one himself, eventually compressing nearly seventy images onto a disk[^ref-3].
 
-Released through mail-order in May 1980, Mystery House became an instant hit. Approximately 15,000 copies sold, earning US$167,000[^ref-5]. It is described as the first computer adventure game to feature graphics, though made with crude, static, monochrome line drawings[^ref-5].
+Released through mail-order in May 1980, Mystery House became an instant hit. Ken Williams later recalled that their goal had been 10,000 copies and that they "wound up selling a LOT more than 10,000 copies"[^ref-37]. It is described as the first computer adventure game to feature graphics, though made with crude, static, monochrome line drawings[^ref-5].
 
 Roberta personally packed the disks in Ziploc bags and answered her home phone to provide hints for puzzles[^ref-3]. In October 1980 the family moved to Coarsegold, California, and on December 1, 1980, the company opened its first office in nearby Oakhurst[^ref-2].
 
@@ -251,3 +251,4 @@ Following Microsoft's acquisition of Activision Blizzard in October 2023, the Si
 [^ref-34]: [The Virtual Broomcloset – Mark Crowe interview (2000)](https://www.wiw.org/~jess/markcrowe.html) – Crowe on joining Sierra: "Set the dial to 1982!"
 [^ref-35]: [Wikipedia – Mark Crowe](https://en.wikipedia.org/wiki/Mark_Crowe) – moved to Dynamix after Space Quest IV; left after "major layoffs at Sierra and Dynamix in 1999"
 [^ref-36]: [Internet Archive – Time Zone manual](https://archive.org/stream/vgmuseum_sierra_timezone-manual/timezone-manual_djvu.txt) – "TIME ZONE was originally intended to be on five or six disks (one side only)… TIME ZONE now takes up both sides of six disks."
+[^ref-37]: [Michael Bendner, "An Interview with Ken Williams", PC Multimedia & Entertainment (1995, Wayback 1998)](https://web.archive.org/web/19981206115537/http://www.pcme.com/intrview/kwilliam/kwilliam.htm) – "Our goal was to sell 10,000 copies … We wound up selling a LOT more than 10,000 copies."
