@@ -10,14 +10,14 @@ series: Empire Earth
 engine: Titan
 protagonist: Player-controlled Civilization
 sierra_lineage: Sierra Published
-last_updated: '2026-10-12'
+last_updated: '2026-10-17'
 description: Empire Earth is an ambitious real-time strategy game that spans an unprecedented
   500,000 years of human history, from the prehistoric age through a...
 tags: [2000s, empire-earth, sierra, strategy]
 ---
 # Empire Earth
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 17, 2026</small>
 
 ## Overview
 
@@ -98,7 +98,7 @@ Empire Earth received generally positive reviews upon release, with critics prai
 
 **GameSpot** provided a more measured assessment with a **7.9/10**, with Greg Kasavin noting that "Empire Earth is massive—more than most real-time strategy games would dare to be" but warning that "you can actually have too much of a good thing"[^ref-4]. The review emphasized that "Empire Earth has by far the broadest scope and the greatest breadth of content of any real-time strategy game to date."
 
-**Game Informer** offered a lower score of **6.25/10**, with reviewer Kristian criticizing that "the game's performance couldn't equal its scope"[^ref-22]. A second opinion from Kato in the same publication gave the game a **7/10**.
+**Game Informer** offered a lower score of **6.25/10**, with reviewer Kristian criticizing that "the game's performance couldn't equal its scope"[^ref-22]. A second opinion from Kato in the same publication gave the game a **7/10**[^ref-22].
 
 **G4 TV** scored the game **60/100**, describing it as "the most ambitious and complicated real-time strategy game ever made," noting this would "make it a joy to devout fans of the genre, but an overwhelming mess to everyone else"[^ref-20].
 
@@ -196,7 +196,7 @@ The GOG.com release has addressed many compatibility issues through DirectX wrap
 
 ### Easter Eggs and Trivia
 
-Empire Earth includes numerous cheat codes accessible through the in-game chat window[^ref-32]:
+Empire Earth includes numerous cheat codes accessible through the in-game chat window:[^ref-32]
 - **"my name is methos"** – All Resources & Reveal Map
 - **"all your base are belong to us"** – +100,000 of all resources (referencing the famous Zero Wing mistranslation)
 - **"boston food sucks"** – +1000 Food
@@ -301,7 +301,7 @@ Critics split on whether the game's scale was a strength. GameSpot warned that "
 [^ref-17]: [GameFAQs – Empire Earth Unit Guide](https://gamefaqs.gamespot.com/pc/376328-empire-earth/faqs/20608) – combat system, unit relationships
 [^ref-19]: [Empire Earth Fandom Wiki – Prophet](https://empireearth.fandom.com/wiki/Prophet_(Empire_Earth)) – Prophet unit, calamity abilities, trivia
 [^ref-20]: [Metacritic – Empire Earth](https://www.metacritic.com/game/empire-earth/) – aggregate scores, critic reviews
-[^ref-22]: [Giant Bomb – Game Informer #105 Review](https://www.giantbomb.com/profile/claude/blog/game-informer-105-jan-2002-reviews-look-back/78579/) – Game Informer scores, Kristian review
+[^ref-22]: [Game Informer #105 (January 2002), p. 95 – Internet Archive scan](https://archive.org/details/game-informer-issue-105-january-2002/page/n96/mode/1up) – Kristian review 6.25, Kato second opinion 7
 [^ref-23]: [IMDb – Empire Earth](https://www.imdb.com/find/?q=Empire+Earth&s=tt) – user ratings, series ratings
 [^ref-24]: [GOG.com – Empire Earth Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition) – user reviews, modern system requirements
 [^ref-25]: Empire Earth Community – Overview (empireearth.eu/overview/) – archived 1998 Goodman interview: studio founding, "strike team" (link removed: offers full-game download of a still-sold game)
