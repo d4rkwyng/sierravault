@@ -2,9 +2,7 @@
 title: "A-10 Tank Killer v1.5"
 release_year: 1991
 developer: Dynamix
-designer: [Alan McKean, Bryce Morcello, Christopher Reese, Cyrus Kanga, Damon Slye,
-  David McClurg, David Selle, Jerry Luttrell, Kobi Miller, Lincoln Hutton, Mark Brenneman,
-  Nels Bruckner, Piotr Lukaszuk, Randy Dersham]
+designer: [Jerry Luttrell, Damon Slye, David Selle]
 publisher: Dynamix / Sierra On-Line
 genre: Flight Simulation
 platforms: [Amiga, DOS]
@@ -12,14 +10,14 @@ series: A-10 Tank Killer Series
 engine: 3Space
 protagonist: A-10 Warthog Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-16'
 description: A-10 Tank Killer is a combat flight simulation that puts players in the
   cockpit of the A-10 Thunderbolt II, also known as the "Warthog". Developed by...
 tags: [1990s, a-10-tank-killer-series, sierra, simulation]
 ---
 # A-10 Tank Killer v1.5
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
