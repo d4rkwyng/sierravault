@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Sierra Vault"
-updated: "2026-10-09"
+last_updated: "2026-10-16"
 ---
 # Welcome, Fellow Adventure Seeker
 <img src="sg-logo-roger-graham-400x400.webp" alt="Sierra Vault" width="200" style="float: right; margin: 0 0 10px 10px;">
@@ -8,13 +8,13 @@ Pull up a pixelated barstool and mind the slime on the floor—this vault is the
 
 From the parser-driven adventures of the 1980s through the multimedia extravaganzas of the 1990s, this archive documents Sierra's complete legacy—flagship series, hidden gems, acquired studios like Dynamix and Impressions, fan remakes, and spiritual successors from Sierra alumni still making games today.
 
-> **516 games** · **57 designers** · **46 years of history (1980–2026)** · **24,000+ research sources** · **15–40 citations per page**
+> **528 games** · **57 designers** · **46 years of history (1980–2026)** · **24,000+ research sources** · **median 21 citations per game page**
 
 ## Quick Links
 
 > [!tip] Jump Right In
-> - **[[Site Index]]** — Browse all 516 games by series, studio, and category
-> - **[[Designer Index]]** — Roberta Williams, Al Lowe, Jane Jensen, the Coles & 53 more
+> - **[[Site Index]]** — Browse all 528 games by series, studio, and category
+> - **[[Designer Index]]** — Roberta Williams, Al Lowe, Jane Jensen, the Coles & 52 more
 > - **[[Projects in Progress]]** — Active fan and alumni projects
 > - **[[News & Updates]]** — Latest releases, ScummVM updates, fan project news
 > - **[[Buying Guide]]** — Where to legally purchase these classics today
@@ -29,9 +29,9 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > |--------|-------|---------|-------------|
 > | [[King's Quest Series\|King's Quest]] | 10 | Roberta Williams | Fairy tale adventures in the kingdom of Daventry |
 > | [[Space Quest Series\|Space Quest]] | 7 | Two Guys from Andromeda | Sci-fi comedy with janitor hero Roger Wilco |
-> | [[Leisure Suit Larry Series\|Leisure Suit Larry]] | 9 | Al Lowe | Adult comedy following Larry Laffer's misadventures |
-> | [[Quest for Glory Series\|Quest for Glory]] | 5 | Lori & Corey Cole | RPG-adventure hybrid with character classes |
-> | [[Police Quest Series\|Police Quest]] | 6 | Jim Walls / Daryl Gates | Realistic police procedural simulations |
+> | [[Leisure Suit Larry Series\|Leisure Suit Larry]] | 13 | Al Lowe | Adult comedy following Larry Laffer's misadventures |
+> | [[Quest for Glory Series\|Quest for Glory]] | 6 | Lori & Corey Cole | RPG-adventure hybrid with character classes |
+> | [[Police Quest Series\|Police Quest]] | 5 | Jim Walls | Realistic police procedural simulations |
 > | [[Gabriel Knight Series\|Gabriel Knight]] | 4 | Jane Jensen | Supernatural mystery and horror |
 > | [[Laura Bow Series\|Laura Bow]] | 2 | Roberta Williams | Murder mystery whodunits |
 
@@ -44,7 +44,8 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > Simulations, adventures, and shooters:
 > - **Adventures:** [[1990 - Rise of the Dragon|Rise of the Dragon]] · [[1991 - Heart of China|Heart of China]] · [[1991 - The Adventures of Willy Beamish|Willy Beamish]]
 > - **Flight Sims:** [[1990 - Red Baron|Red Baron]] · [[1992 - Aces of the Pacific|Aces of the Pacific]] · [[1994 - Aces of the Deep|Aces of the Deep]]
-> - **Mech/Action:** [[1994 - Metaltech - Earthsiege|Earthsiege]] · [[1998 - Starsiege - Tribes|Tribes]] · [[1992 - The Incredible Machine|Incredible Machine]]
+> - **Mech/Action:** [[1994 - Metaltech - Earthsiege|Earthsiege]] · [[1998 - Starsiege - Tribes|Tribes]]
+> - **Puzzle:** [[1992 - The Incredible Machine|Incredible Machine]]
 
 > [!tip] Strategy & Simulation
 > Empire building and racing:
@@ -53,7 +54,7 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > - **RTS:** [[1999 - Homeworld|Homeworld]] · [[2000 - Ground Control|Ground Control]] · [[2001 - Empire Earth|Empire Earth]]
 
 > [!info] Fan Remakes & Projects
-> Free fan-made games keeping Sierra classics alive:
+> Free fan remakes and sequels keeping Sierra classics alive, plus commercial original adventures from former fan-remake teams:
 > - **VGA Remakes:** [[2001 - King's Quest I VGA Remake|KQ1 VGA]] · [[2002 - King's Quest II+ - Romancing the Stones|KQ2+]] · [[2008 - Quest for Glory II VGA Remake|QFG2 VGA]] · [[2011 - Space Quest II VGA Remake|SQ2 VGA]] · [[2006 - King's Quest III Remake (Infamous Adventures)|KQ3 IA]]
 > - **Fan Sequels:** [[2010 - The Silver Lining|The Silver Lining]] · [[2011 - Space Quest - Vohaul Strikes Back|Vohaul Strikes Back]] · [[2012 - Space Quest - Incinerations|Incinerations]]
 > - **Amiga Enhancements:** [[2025 - SCP Sierra Conversion Project|SCP]] (KQ5, PQ3, SQ4, Conquests)
@@ -80,29 +81,29 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > | Aug 2026 | Gobliiins Collection (Nintendo Switch 2) | Red Art Games | Released — 4K, free upgrade for Switch owners |
 > | Jul 2026 | [[1992 - Johnny Castaway\|Johnny Castaway for PlayStation 1]] | Hunter Davis | v1.0.0 released |
 > | Jun 2026 | [[1992 - Johnny Castaway\|Johnny Castaway for macOS]] | d4rkwyng | v0.2.5 released — native Swift recreation |
-> | May 2026 | Gobliiins Collection (PS5/Xbox/Switch) | Red Art Games | Released — first console compilation |
+> | May 2026 | Gobliiins Collection (PS5/Xbox/Switch) | Red Art Games | Released — "Playable on console for the very first time," per Red Art Games |
 > | Feb 2026 | [[2026 - Gobliins 6\|Gobliins 6: The Madmen of the Year 1000]] | Pierre Gilhodes | Released (itch.io Feb 10, Steam Feb 13) |
-> | Jan 2026 | [[2025 - SCP Sierra Conversion Project\|SCP Amiga Remasters]] | DaRaSCo & kikems | SQ4, KQ5, PQ3 released |
-> | Dec 2025 | [[2022 - SpaceVenture\|SpaceVenture v2]] | Two Guys from Andromeda | Released |
+> | Jan 2026 | [[2025 - SCP Sierra Conversion Project\|SCP Amiga Remasters]] | DaRaSCo & kikems | PQ3 and SQ4 released; KQ5 shown in a video |
+> | Dec 2025 | [[2022 - SpaceVenture\|SpaceVenture]] | Two Guys from Andromeda | Full release out of Early Access (Steam, Dec 23) |
 > | Nov 2025 | [[2021 - King's Quest IV Retold\|KQ4 Retold VGA + Talkie]] | Magic Quest Entertainment | Voice acting added |
 > | Jul 2024 | [[2001 - King's Quest I VGA Remake\|KQ1 VGA v4.2 RC1]] | AGD Interactive | Engine upgrade, modern OS compatibility |
 > | May 2024 | [[2024 - Homeworld 3\|Homeworld 3]] | Blackbird Interactive | Released |
 > | Mar 2024 | [[2024 - Tribes 3 - Rivals\|Tribes 3: Rivals]] | Prophecy Games | Released |
-> | Aug 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Lori & Corey Cole | Released |
-> | Jun 2023 | [[2023 - Gobliiins 5 - The Morgloton Invasion\|Gobliiins 5]] | Pierre Gilhodes | Released |
+> | May 2023 | [[2023 - Gobliiins 5 - The Morgloton Invasion\|Gobliiins 5]] | Pierre Gilhodes | Released (Windows May 2, Steam Jul 20) |
+> | Mar 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Lori & Corey Cole | Released (PC, Mar 28) |
 > | Feb 2023 | [[2023 - Pharaoh - A New Era\|Pharaoh: A New Era]] | Triskell Interactive | Released |
 > | Jan 2023 | [[2023 - Colossal Cave 3D Adventure\|Colossal Cave]] | Ken & Roberta Williams | Released |
 
 > [!note] In Development
 > | Project | Team | Status |
 > |---------|------|--------|
-> | [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] | Infamous Quests | Voice recording unfinished; developer reports waning momentum (Jul 2026) |
+> | [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] | Infamous Quests | No public confirmation the voice recording was finished (studio time booked for May 2026); developer reports waning momentum (Jul 2026) |
 > | [[2025 - SCP Sierra Conversion Project\|SCP Conquests of the Longbow]] | DaRaSCo & kikems | ~90% (Jan 2026); release promised "soon", still unreleased |
 > | [[TBD - King's Quest IV Remake (Infamous Adventures)\|King's Quest IV Remake]] | Infamous Adventures | Unverified — only source is a patron-only post (Jan 2026) |
 > | [[TBD - Order of the Thorne - Fortress of Fire\|Order of the Thorne: Fortress of Fire]] | Infamous Quests | In limbo — no team or budget to finish (Oct 2025) |
 > | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4: Five Hearts]] | Jane Jensen | Pitch only; no Microsoft approval as of Dec 2025 |
 > | Hero-U Sequel | Corey & Lori Cole | Shelved — Coles making Summer Daze games instead (Sep 2026) |
-> | *Questing for Glory* (Quest for Glory history book) | Bitmap Books, with Lori & Corey Cole | Slated for November 2026 |
+> | *Questing for Glory* (Quest for Glory history book) | Bitmap Books | Bitmap Books lists a 2026 release |
 
 ---
 
@@ -110,7 +111,7 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 
 | Guide | Description |
 |-------|-------------|
-| [[Release Timeline]] | Every game from 1980–2025, chronologically |
+| [[Release Timeline]] | 509 entries from 1980–2026, chronologically |
 | [[Engine Index]] | AGI, SCI0–SCI32, Dynamix engines, modern Unity/Unreal |
 | [[Platform Guide]] | DOS, Windows, Mac, Amiga, consoles, and how to play today |
 | [[Buying Guide]] | GOG, Steam, Game Pass Retro Classics, collectors |
@@ -122,7 +123,7 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 
 ## About This Archive
 
-Every page follows a consistent structure—overview, story, gameplay, development, reception, legacy, and references—so you always know where to look. Each entry is backed by **15–40+ citations** from MobyGames, Wikipedia, fan wikis, magazine scans, interviews, and contemporary reviews.
+Every page follows a consistent structure—overview, story, gameplay, development, reception, legacy, and references—so you always know where to look. Game pages carry a **median of 21 citations** (most have 15 or more) from MobyGames, Wikipedia, fan wikis, magazine scans, interviews, and contemporary reviews.
 
 > [!tip] Where This Came From
 > SierraVault grew out of **Sierra Classic Gaming**, my first Sierra fan site back in 2013. You can still see its animated [[splash|splash screen]], and the original site is preserved at **[old.sierraclassicgaming.com](https://old.sierraclassicgaming.com)**.
@@ -141,14 +142,14 @@ Every page follows a consistent structure—overview, story, gameplay, developme
 > 
 > **Research Tools:** Brave Search API, ScraperAPI, DuckDuckGo, Kagi FastGPT, MobyGames, Wikipedia, fan wikis, magazine archives
 > 
-> **Publishing:** Obsidian vault → GitHub → [sierravault.net](https://sierravault.net) via Obsidian Publish | Mirror: [mirror.sierravault.net](https://mirror.sierravault.net)
+> **Publishing:** Obsidian vault → GitHub → [sierravault.net](https://sierravault.net) via Quartz | Mirror: [mirror.sierravault.net](https://mirror.sierravault.net)
 > 
 > Every claim is traceable to cited sources. If you spot an error, [let us know](#get-in-touch).
 
 > [!abstract] What's Included
 > - **Core Sierra** (1980–1999): The golden age of adventure games
 > - **Post-Sierra continuations**: Vivendi and Activision-era sequels
-> - **Acquired studios**: Dynamix, Impressions, Papyrus, Relic, Coktel Vision, and more
+> - **Acquired studios**: Dynamix, Impressions, Papyrus, Coktel Vision, and more
 > - **Partner studios**: Where Sierra funded development or had creative involvement (Valve, Monolith, Massive, Troika)
 > - **Fan projects**: VGA remakes, fan sequels, and community-driven games
 > - **Alumni successors**: Original games by Sierra veterans
