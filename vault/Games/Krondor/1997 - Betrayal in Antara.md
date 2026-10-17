@@ -10,7 +10,7 @@ series: Krondor Series
 engine: Updated version of Betrayal at Krondor engine
 protagonist: Aren
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-16'
 description: Betrayal in Antara is a 1997 role-playing game developed and published
   by Sierra On-Line as a follow-up to the acclaimed 1993 title Betrayal at
   Krondor.
@@ -18,7 +18,7 @@ tags: [1990s, krondor-series, rpg, sierra]
 ---
 # Betrayal in Antara
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -39,7 +39,7 @@ The game emerged from Sierra's need to create a new RPG after losing the rights 
 
 ## Story Summary
 
-Set in the Empire of Antara in the fantasy world of Ramar, players take on the role of Aren and William as they become embroiled in a conspiracy involving a dying man named Gregor who presses a medallion into William's hand while speaking his last word: "Consort"[^ref-8]. The story unfolds across nine chapters[^ref-8] as players work to "save the empire of Antara from corruption and war"[^ref-9]. Unlike its predecessor, the game does not continue Raymond E. Feist's Riftwar saga but instead starts a new tale in a different fantasy world[^ref-7].
+Set in the Empire of Antara in the fantasy world of Ramar, players take on the role of Aren and William as they become embroiled in a conspiracy involving a dying man named Gregor who presses a medallion into William's hand while speaking his last word: "Consort"[^ref-8]. Near Panizo the pair rescue Kaelyn Usher from bandits and she joins them[^ref-1], making up the three-character party the player navigates[^ref-7]. The story unfolds across nine chapters[^ref-8] as players work to "save the empire of Antara from corruption and war"[^ref-9]. Unlike its predecessor, the game does not continue Raymond E. Feist's Riftwar saga but instead starts a new tale in a different fantasy world[^ref-7].
 
 The narrative explores themes of political intrigue and betrayal as the protagonists navigate the crumbling Antaran Empire. The game features 34 interactive characters throughout the adventure[^ref-10], with players seeking "power, fortune and glory" while uncovering the larger conspiracy threatening the realm[^ref-10].
 
