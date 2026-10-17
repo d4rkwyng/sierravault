@@ -10,7 +10,7 @@ series: 3-D Ultra Pinball
 engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-17'
 description: '3-D Ultra Pinball: Thrillride is a pinball simulation game developed
   by Dynamix and published by Sierra On-Line in 2000 for Windows and Macintosh platforms,...'
 tags: [2000s, 3-d-ultra-pinball, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-10-11T12:00:00-07:00
 ---
 # 3-D Ultra Pinball: Thrillride
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 17, 2026</small>
 
 ## Overview
 
@@ -265,7 +265,7 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 [^ref-10]: [MyAbandonware – 3-D Ultra Pinball: Thrillride](https://www.myabandonware.com/game/3-d-ultra-pinball-thrillride-3fj) – download information, file sizes, user comments, known bugs
 [^ref-11]: [MobyGames – 3-D Ultra Pinball: Thrillride](https://www.mobygames.com/game/2706/3-d-ultra-pinball-thrillride/reviews/) – aggregate scores, alternate titles, pricing
 [^ref-12]: [Honest Gamers – Game Boy Color Version](https://www.honestgamers.com/1761/game-boy-color/3d-ultra-pinball-thrill-ride/game.html) – GBC publisher information, release date
-[^ref-13]: [Giant Bomb](https://www.giantbomb.com/3-d-ultra-pinball-thrillride/3030-18093/) – game database with wiki info
+[^ref-13]: [Giant Bomb](https://www.giantbomb.com/wiki/Games/3_D_Ultra_Pinball_Thrillride) – game database with wiki info
 [^ref-14]: [IGDB](https://www.igdb.com/games/3-d-ultra-pinball-thrillride) – Internet Game Database entry
 [^ref-15]: [GameFAQs – 3-D Ultra Pinball: Thrillride for PC](https://gamefaqs.gamespot.com/pc/259171-3-d-ultra-pinball-thrillride) – game database entry
 [^ref-16]: [MobyGames – 3-D Ultra Pinball: Thrillride credits (Windows, 2000)](https://www.mobygames.com/game/2706/3-d-ultra-pinball-thrillride/credits/) – PC development team credits, designer Kyle Miller
