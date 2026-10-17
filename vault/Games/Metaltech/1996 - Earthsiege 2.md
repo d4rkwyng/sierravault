@@ -2,7 +2,7 @@
 title: Earthsiege 2
 release_year: 1996
 developer: Dynamix
-designer: [Blake Hutchins, David Selle]
+designer: [David Selle]
 publisher: Sierra On-Line
 genre: Vehicle Simulation
 platforms: [Windows, Windows 3.x]
@@ -10,7 +10,7 @@ series: Earthsiege
 engine: 3Space
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-16'
 description: Earthsiege 2 is a mech simulation game developed by Dynamix and published
   by Sierra On-Line for Windows in 1996. Set in 2624, it puts players in command of
   HERC war machines fighting off a renewed Cybrid offensive staged from the Moon.
@@ -18,7 +18,7 @@ tags: [1990s, earthsiege, sierra, simulation, two-guys]
 ---
 # Earthsiege 2
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -28,7 +28,7 @@ As part of the larger Metaltech universe, Earthsiege 2 continues the story of th
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
-> **Designer:** Blake Hutchins, [[David Selle]][^ref-1]
+> **Designer:** [[David Selle]][^ref-30]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** 3Space[^ref-18]
 > **Platforms:** Windows, Windows 3.x[^ref-5]
@@ -85,7 +85,7 @@ Earthsiege 2 was developed by Dynamix and published by Sierra On-Line as the seq
 
 ### Production
 
-The game was directed by [[Mark Crowe]], with Jay Balakrishnan as executive producer and Frank Evers as producer[^ref-1]. [[David Selle]] and Blake Hutchins are credited as designers[^ref-1].
+The game was directed by [[Mark Crowe]], with Jay Balakrishnan as executive producer and Frank Evers as producer[^ref-1]. [[David Selle]] is credited as designer[^ref-30]; the Dynamix Fandom wiki's infobox also names Blake Hutchins, but its own credits list and MobyGames give only Selle[^ref-1][^ref-30].
 
 The lead programmer was Paul Bowman, with Robert Caracol handling art direction[^ref-1].
 
@@ -170,3 +170,4 @@ Stability problems were also reported on period hardware. A GameFAQs reviewer wr
 [^ref-27]: [Computer Gaming World #144 (August 1996) – "Robots Redux"](https://archive.org/details/Computer_Gaming_World_Issue_144) – - Contemporary review: best-looking giant robot game, "nothing that will leave a lasting impression"
 [^ref-28]: [Next Generation #20 (August 1996) – "Siege the Day"](https://archive.org/details/nextgen-issue-020) – - Contemporary four-star review, "shines in all the right places"
 [^ref-29]: [Gaming Stack Exchange – How do I play Earthsiege 2 on a modern PC?](https://gaming.stackexchange.com/questions/243206/how-do-i-play-earthsiege-2-on-a-modern-pc-windows-7-8-10) – - dgVoodoo 2 / DXwnd workarounds
+[^ref-30]: [MobyGames – EarthSiege 2 credits (Windows), Wayback September 2019](https://web.archive.org/web/20190918014143/https://www.mobygames.com/game/windows/earthsiege-2/credits) – "Director Mark Crowe Producer Frank Evers Designer David Selle"
