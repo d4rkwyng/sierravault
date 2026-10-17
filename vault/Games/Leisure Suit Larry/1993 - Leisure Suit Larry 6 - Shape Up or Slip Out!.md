@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI1.1
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-16'
 description: 'Leisure Suit Larry 6: Shape Up or Slip Out! is the fifth game in Al Lowe''s
   comedic adult adventure series, despite its number. Released by Sierra On-Line in 1993,
   it sends Larry Laffer to the La Costa Lotta health spa; a 1994 CD-ROM edition added
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 6: Shape Up or Slip Out!
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -56,7 +56,7 @@ The interface was refined from Larry 5, with the "Use" command being divided int
 
 Although the narrator promises "two weeks" at the spa[^ref-5], the game itself is split into four days[^ref-24]. The women's tasks can be done in any order except for the last one[^ref-8]. Walkthrough author Tom Hayes preferred this to the previous game: "Instead of a dull adventure spread over a variety of locations, this is a fun adventure based in one large location"[^ref-26].
 
-Deaths returned after their absence in Larry 5[^ref-29], though so gently, with an instant "Try Again", that one reviewer counted it among the first Sierra adventures "in which you cannot die!"[^ref-27] The deaths are there for humor's sake, since the "Try Again" button lets the player reverse the mistake without restoring a saved game[^ref-8]. One modern reviewer felt the option takes away "some of the fear of getting a bad ending when you haven't saved your game in a while"[^ref-29]. Even so, at least one dead end remains from which the game cannot be completed[^ref-8].
+Deaths returned after their absence in Larry 5[^ref-2][^ref-81], though so gently, with an instant "Try Again", that one reviewer counted it among the first Sierra adventures "in which you cannot die!"[^ref-27] The deaths are there for humor's sake, since the "Try Again" button lets the player reverse the mistake without restoring a saved game[^ref-8]. One modern reviewer felt the option takes away "some of the fear of getting a bad ending when you haven't saved your game in a while"[^ref-29]. Even so, at least one dead end remains from which the game cannot be completed[^ref-8].
 
 ### Puzzles and Mechanics
 
@@ -242,3 +242,4 @@ The game remains available through digital distribution platforms, included with
 [^ref-78]: https://www.sierrachest.com/index.php?a=games&id=28&fld=general - Sierra Chest documenting original VGA floppy release details
 [^ref-79]: https://www.hardcoregaming101.net/leisure-suit-larry-6-shape-up-or-slip-out/ - SVGA version only included on the CD release
 [^ref-80]: [PCGamingWiki – Leisure Suit Larry 6: Shape Up or Slip Out!](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out!) - PCGamingWiki documenting Windows 3.x release
+[^ref-81]: [MobyGames – Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work](https://www.mobygames.com/game/408/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-w/) - description (via API): "it is impossible to 'die' in Larry 5"
