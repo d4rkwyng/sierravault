@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-17'
 description: 'Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded is a
   2013 HD remake of Al Lowe''s 1987 Sierra adventure game, crowdfunded on Kickstarter,
   developed by N-Fusion Interactive and published by Replay Games.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, al-lowe, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 17, 2026</small>
 
 ## Overview
 
@@ -147,7 +147,7 @@ The game was delisted from Steam on November 24, 2017[^ref-15], though it remain
 [^ref-22]: [GameFAQs Fan Discussion](https://gamefaqs.gamespot.com/boards/714533-leisure-suit-larry-reloaded/66627715) – Kickstarter backer perspectives
 [^ref-23]: [GameFAQs Walkthrough Discussion](https://gamefaqs.gamespot.com/boards/714533-leisure-suit-larry-reloaded/66610363) – Gameplay optimization tips
 [^ref-24]: [Game Informer Review](https://gameinformer.com/games/leisure_suit_larry_reloaded/b/pc/archive/2013/06/27/larry-laffer-rides-again.aspx) – Professional critical assessment
-[^ref-31]: [GameSpot Review](http://www.gamespot.com/leisure-suit-larry-reloaded/reviews/leisure-suit-larry-reloaded-review-6410868/) – Professional review with score
+[^ref-31]: [GameSpot Review (archived 2013)](https://web.archive.org/web/20130702065034/http://www.gamespot.com/leisure-suit-larry-reloaded/reviews/leisure-suit-larry-reloaded-review-6410868/) – Jason Venter review, 4.0/10
 [^ref-33]: [GamesRadar Review](http://www.gamesradar.com/leisure-suit-larry-reloaded-review/) – Modern era gameplay assessment
 [^ref-34]: [GamingBolt Interview](http://gamingbolt.com/leisure-suit-larry-reloaded-interview-nsa-interference-unprintable-thoughts-kickstarter-benefits-and-more) – Al Lowe development insights
 [^ref-35]: [Gaming Nexus Review](https://www.gamingnexus.com/Article/Leisure-Suit-Larry-Reloaded/Item4070.aspx) – Critical assessment with harsh scoring
