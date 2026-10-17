@@ -10,20 +10,20 @@ series: Diablo
 engine: Diablo engine
 protagonist: The Hero (Warrior, Rogue, Sorcerer, or Monk)
 sierra_lineage: Sierra Label (Synergistic)
-last_updated: '2026-10-14'
+last_updated: '2026-10-16'
 description: 'Diablo: Hellfire is the only expansion pack released for Blizzard
   Entertainment''s 1996 action RPG Diablo, developed by Synergistic Software and published by Sierra On-Line on November 24, 1997.'
 tags: [1990s, diablo, rpg, sierra]
 ---
 # Diablo: Hellfire
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
 Diablo: Hellfire is the only expansion pack released for Blizzard Entertainment's 1996 action RPG Diablo.[^ref-2] Sierra billed it as "the only authorized expansion pack available for Diablo,"[^ref-23] but it was not a Blizzard product: GOG.com notes that Hellfire "was not an official Blizzard product and did not carry Blizzard's endorsement or label."[^ref-9] Released in North America on November 24, 1997,[^ref-17] this single-player expansion was developed not by Blizzard North, but by [[Synergistic Software]], a studio Sierra On-Line had acquired in 1996.[^ref-20][^ref-15] The expansion introduced a new playable character class—the Monk—along with two new dungeon tilesets, additional quests, new items including oils and runes, and a host of interface improvements that players would come to appreciate.[^ref-3]
 
-The expansion's storyline centers on Na-Krul, a powerful demon who once ranked highly in Diablo's hierarchy before turning on his master.[^ref-4] When a sorcerer unknowingly performs a ritual that releases Na-Krul unto the town of Tristram, the player must venture into the demon's lair to stop this new threat.[^ref-5] Despite being designed as an optional, off-the-beaten-path addition to the original game's content, Hellfire became, according to studio head Bob Clardy, "far and away Synergistic's most financially successful project."[^ref-20]
+The expansion's storyline centers on Na-Krul, a powerful demon who once ranked highly in Diablo's hierarchy before turning on his master.[^ref-4] When a sorcerer unknowingly performs a ritual that releases Na-Krul unto the town of Tristram, the player must venture into the demon's lair to stop this new threat.[^ref-5] Despite being designed as an optional, off-the-beaten-path addition to the original game's content, Hellfire became, according to Polygon's account of studio head Bob Clardy's view, far and away Synergistic's most financially successful project.[^ref-20]
 
 The expansion's development was notably contentious, with Blizzard North imposing numerous restrictions on what Synergistic could include.[^ref-6] Most significantly, Hellfire shipped without Battle.net support, making it a single-player-only experience—a surprising omission given that Diablo was one of the most popular multiplayer games of all time.[^ref-4][^ref-21] Despite these limitations and a rushed development cycle, the expansion generally received favorable reviews from gaming publications at the time and has since been preserved through digital distribution, being included as a free add-on with Diablo purchases on GOG.com since June 2019.[^ref-6]
 
@@ -203,7 +203,7 @@ Hellfire keeps the original game's town characters and their recorded lines; one
 
 ### Sales and Commercial Impact
 
-Despite the contentious development process and lack of official Blizzard support, Hellfire was "far and away Synergistic's most financially successful project," according to Bob Clardy.[^ref-20] The expansion capitalized on Diablo's enormous popularity, providing additional content for a player base hungry for more dungeon-crawling action. However, Hellfire was not included in the Diablo Battle Chest compilation; instead, it received its own separate Diablo/Hellfire bundle release in 1998.[^ref-3][^ref-19]
+Despite the contentious development process and lack of official Blizzard support, Hellfire was far and away Synergistic's most financially successful project, according to Bob Clardy as paraphrased by Polygon's David L. Craddock.[^ref-20] The expansion capitalized on Diablo's enormous popularity, providing additional content for a player base hungry for more dungeon-crawling action. However, Hellfire was not included in the Diablo Battle Chest compilation; instead, it received its own separate Diablo/Hellfire bundle release in 1998.[^ref-3][^ref-19]
 
 ### Collections
 
