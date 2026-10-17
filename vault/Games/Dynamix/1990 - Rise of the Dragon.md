@@ -10,7 +10,7 @@ series: Dynamix Adventures
 engine: Dynamix Game Development System (DGDS)
 protagonist: William 'Blade' Hunter
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-09'
+last_updated: '2026-10-16'
 description: Rise of the Dragon is a cyberpunk graphic adventure game developed by
   Dynamix and published by Sierra On-Line in 1990. Set in a dystopian Los Angeles
   in the...
@@ -18,7 +18,7 @@ tags: [1990s, adventure, dgds, dynamix, dynamix-adventures, sierra]
 ---
 # Rise of the Dragon
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -196,7 +196,7 @@ Other potential game-ending scenarios include: forgetting to put on clothes befo
 - **Music Toggle:** Pressing Alt-M switches off the music (a documented control rather than a hidden egg).[^ref-48]
 - **Blade Runner References:** Beyond the protagonist's name, numerous visual and narrative elements pay homage to Ridley Scott's 1982 film.[^ref-18]
 - **Fortune Cookie Code:** A fortune cookie found in the game contains a color sequence that serves as a puzzle solution.[^ref-15]
-- **Death Scenes:** The death scenes were considered so well-crafted that some players "remember trying different ways to die just to see them all."[^ref-34]
+- **Death Scenes:** The Home of the Underdogs review reproduced on MyAbandonware says "even the death scenes are so well done that I remember trying different ways to die just to see them all."[^ref-34]
 
 ### Multiple Endings
 
@@ -307,7 +307,7 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 [^ref-30]: [Hall of Light – Rise of the Dragon (archived)](https://web.archive.org/web/20230529190649/https://hol.abime.net/1242) — Amiga database entry: first release 1991, 10 disks, Dynamix
 [^ref-31]: [Computer Games Strategy Plus – 10 Essential Graphic Adventures (January 29, 2000, archived)](https://web.archive.org/web/20050205051027/http://www.cdmag.com/articles/025/186/adventure_feature.html) — "Underrated classic" retrospective assessment
 [^ref-33]: [GOG.com – Rise of the Dragon](https://www.gog.com/en/game/rise_of_the_dragon) — Digital release, 3.9/5 user rating
-[^ref-34]: MyAbandonware – Rise of the Dragon *(download link removed: the game is sold commercially)* — Preservation download, 4.46/5 rating, death scene appreciation
+[^ref-34]: MyAbandonware – Rise of the Dragon *(download link removed: the game is sold commercially)* — Preservation download, 4.46/5 rating; game page (checked 2026-10-16) carries the "Review By HOTUD" text quoted for the death scenes
 [^ref-36]: Abandonware DOS – Rise of the Dragon *(download link removed: the game is sold commercially)* — 4.06/5 rating (106 votes)
 [^ref-39]: DOS Games Archive – Rise of the Dragon *(download link removed: the game is sold commercially)* — Technical specifications: VGA 320x200, EGA support
 [^ref-42]: [ScummVM – Rise of the Dragon public testing (October 30, 2024)](https://www.scummvm.org/news/20241030/) — Public testing announcement, first DGDS game
