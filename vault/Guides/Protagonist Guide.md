@@ -160,7 +160,7 @@ A Brooklyn newspaperman who heads west during the California Gold Rush to find h
 
 - **1988** — [[1988 - Gold Rush|Gold Rush!]]
 - **2014** — [[2014 - Gold Rush Anniversary|Gold Rush! Anniversary]]
-- **2017** — [[2017 - Gold Rush 2|Gold Rush! 2]] (story follows both Jerrod and Jake; which brother the player controls is not confirmed)[^ref-12]
+- **2017** — [[2017 - Gold Rush 2|Gold Rush! 2]] (story follows both Jerrod and Jake[^ref-12]; the developer's FAQ names Jerrod as the protagonist[^ref-21])
 
 ---
 
@@ -333,3 +333,4 @@ Sierra's city-building games feature unnamed rulers managing civilizations.
 [^ref-18]: [MobyGames – Dr. Brain: Action Reaction](https://www.mobygames.com/game/38944/dr-brain-action-reaction/) – Description: "The player takes on the role of Dr. Brain just as in the rest of the series"
 [^ref-19]: [MobyGames – Inca II: Nations of Immortality](https://www.mobygames.com/game/4553/inca-ii-nations-of-immortality/) – "You start the game as Atahualpa, El Dorado's spunky and arrogant kid ... you'll have to return to your role as El Dorado"
 [^ref-20]: [Wikipedia – Starsiege](https://en.wikipedia.org/wiki/Starsiege) – "two story campaigns ... The Human campaign puts the player in control of a Martian rebel"; the Cybrid campaign follows the Cybrid invasion
+[^ref-21]: [Gold Rush! 2 official FAQ (Sunlight Games, Wayback 2016-08-21)](https://web.archive.org/web/20160821225728/http://goldrush-game.com/en/ver2/faq/) – "Jerrod, the protagonist and his brother Jake found a big gold vain in California"
