@@ -10,8 +10,8 @@ series: Cognition
 engine: Unity
 protagonist: Erica Reed
 sierra_lineage: Alumni Project
-last_updated: '2026-10-14'
-composer: [Austin Haynes, Matthew Florianz, Robert Holmes]
+last_updated: '2026-10-16'
+composer: [Austin Haynes, Matthew Florianz]
 description: 'Cognition: An Erica Reed Thriller is a four-part episodic point-and-click
   adventure from Phoenix Online Studios, released 2012-2013, with Gabriel Knight creator
   Jane Jensen as story consultant.'
@@ -19,7 +19,7 @@ tags: [2010s, adventure, cognition, jane-jensen, sierra]
 ---
 # Cognition: An Erica Reed Thriller
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
