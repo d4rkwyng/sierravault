@@ -8,16 +8,16 @@ genre: Adventure
 platforms: [Windows, macOS, Linux, iOS, Android]
 series: Gold Rush!
 engine: Same engine as Gold Rush! Anniversary
-protagonist: Jake Wilson
+protagonist: Jerrod Wilson
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-09'
+last_updated: '2026-10-16'
 description: Gold Rush! 2 is a point-and-click adventure game developed and published
   by Sunlight Games, released on April 28, 2017 for Windows, with Mac, Linux, iOS,...
 tags: [2010s, adventure, gold-rush, sierra]
 ---
 # Gold Rush! 2
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -35,7 +35,7 @@ Gold Rush! 2 follows the graphical style established by Gold Rush! Anniversary, 
 > **Platforms:** Windows, macOS, Linux, iOS, Android[^ref-1]
 > **Release Year:** 2017
 > **Series:** Gold Rush!
-> **Protagonist:** Jake Wilson
+> **Protagonist:** Jerrod Wilson[^ref-20]
 > **Sierra Lineage:** Spiritual Successor
 
 ## Story Summary
@@ -259,3 +259,4 @@ The game's short length (completable in under three hours) and easy puzzles posi
 [^ref-18]: [Wikipedia – William M. Tweed](https://en.wikipedia.org/wiki/William_M._Tweed) – political boss of Tammany Hall
 
 [^ref-19]: [Apple App Store – Gold Rush! 2](https://apps.apple.com/us/app/gold-rush-2/id1237605907) – iOS listing, requires iOS 12.0 or later
+[^ref-20]: [Gold Rush! 2 official FAQ (Sunlight Games, Wayback 2016-08-21)](https://web.archive.org/web/20160821225728/http://goldrush-game.com/en/ver2/faq/) – "Jerrod, the protagonist and his brother Jake found a big gold vain in California"
