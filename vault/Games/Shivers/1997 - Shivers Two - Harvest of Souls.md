@@ -10,14 +10,14 @@ series: Shivers
 engine: SCI
 protagonist: Trip Cyclone band member (unnamed)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-16'
 description: 'Shivers Two: Harvest of Souls is a horror adventure game developed and
   published by Sierra On-Line in 1997. Set in the mysterious desert town of Cyclone,...'
 tags: [1990s, adventure, shivers, sierra]
 ---
 # Shivers Two: Harvest of Souls
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ The game incorporates Native American mysticism and supernatural horror elements
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** Marcia Bales, Willie Eide[^ref-18]
 > **Publisher:** Sierra On-Line[^ref-1]
-> **Engine:** SCI (Sierra's Creative Interpreter); "Vision 360" panoramic views[^ref-17][^ref-35][^ref-5]
+> **Engine:** SCI (Sierra's Creative Interpreter) resources, with game logic in native DLLs rather than SCI scripts[^ref-17][^ref-35][^ref-71]; "Vision 360" panoramic views[^ref-5]
 > **Platforms:** Windows[^ref-18]
 > **Release Year:** 1997[^ref-18]
 > **Series:** Shivers
@@ -102,7 +102,7 @@ The game was designed by Marcia Bales and Willie Eide, produced by Wendy Albee, 
 
 ### Production
 
-Adventure Classic Gaming reports that the game debuted two new technologies: "Vision 360" for panoramic views and "Dynamic Sounds" for simulated surround sound[^ref-5]; the game itself runs on Sierra's SCI engine[^ref-17][^ref-35]. It uses live-action full-motion video cut-scenes[^ref-17][^ref-57]. The game received an ESRB Teen rating[^ref-13][^ref-17].
+Adventure Classic Gaming reports that the game debuted two new technologies: "Vision 360" for panoramic views and "Dynamic Sounds" for simulated surround sound[^ref-5]; MobyGames and the Sierra Chest list the game's engine as SCI[^ref-17][^ref-35], but ScummVM's developers note that it "doesn't contain SCI scripts": it has the resources of an SCI game, while the room logic was reimplemented in native code in DLL files[^ref-71]. It uses live-action full-motion video cut-scenes[^ref-17][^ref-57]. The game received an ESRB Teen rating[^ref-13][^ref-17].
 
 One notable casting choice was Jason Lindsey as a Trip Cyclone band member, who later became known for his MetalJesusRocks YouTube channel[^ref-7]. The game ships on two CDs—one containing the game itself, the other holding the multiple endings, the Trip Cyclone songs and a track of sounds from the first game[^ref-70][^ref-7]. Music composition was handled by Guy Whitmore, with lyrics by Phil Doyle, Mark Brill, Willie Eide, Jim Hicks and Marcia Bales[^ref-28].
 
@@ -185,3 +185,4 @@ The game was re-released digitally on GOG.com on May 29, 2020[^ref-29]. Communit
 [^ref-57]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ShiversTwoHarvestOfSouls) – Shivers sweater, Al Lowe photo, four endings, five songs, live-action cut-scenes
 [^ref-65]: Old-Games.com Review *(download link removed: the game is sold commercially)* – Overall gameplay assessment
 [^ref-70]: [MobyGames Reviews](https://www.mobygames.com/game/665/shivers-two-harvest-of-souls/reviews/) – Player reviews (two CDs, five songs, "only sequel" quote)
+[^ref-71]: [ScummVM source – engines/sci/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) – "Shivers 2 doesn't contain SCI scripts. The whole game logic has been reimplemented from SCI in native code placed in DLL files."
