@@ -10,7 +10,7 @@ series: Dynamix Adventures
 engine: Dynamix Game Development System (DGDS)
 protagonist: Jake 'Lucky' Masters
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-12'
+last_updated: '2026-10-16'
 description: Heart of China is a 1991 point-and-click adventure developed by Dynamix
  and published by Sierra On-Line, in which pilot Jake "Lucky" Masters sets out to rescue
  nurse Kate Lomax from a Chinese warlord, told with digitized actors over hand-painted backgrounds.
@@ -18,7 +18,7 @@ tags: [1990s, adventure, dgds, dynamix, dynamix-adventures, sierra]
 ---
 # Heart of China
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -113,6 +113,7 @@ The actors were filmed against a white (or blue) screen and then superimposed on
 
 **Development Credits:**[^ref-8]
 - **Designer:** [[Jeff Tunnell]]
+- **Writers:** David Atman, Tom Brooke, [[David Selle]][^ref-36]
 - **Composers:** Don Latarski, Christopher Stevens
 - **Cast Member:** [[Damon Slye]] (British official)
 
@@ -274,3 +275,4 @@ Unlike Rise of the Dragon and Willy Beamish, it never received a CD-ROM release,
 [^ref-33]: [MobyGames – Heart of China Tech Specs](https://www.mobygames.com/game/164/heart-of-china/specs/) – DOS minimum CPU 8088/8086; 286 (12 MHz) for 256-color version; Amiga 1 MB
 [^ref-34]: [Just Adventure – Heart of China Walkthrough](https://www.justadventure.com/walkthrough/heart-of-china/) – playing as Lucky, Chi and Kate; marriage or ditch endings
 [^ref-35]: [MobyGames – Heart of China Releases](https://www.mobygames.com/game/164/heart-of-china/releases/) – per-platform publishers (Dynamix for DOS; Sierra On-Line for Amiga and Macintosh)
+[^ref-36]: [MobyGames – Heart of China credits (DOS), Wayback August 2018](https://web.archive.org/web/20180813045516/http://www.mobygames.com:80/game/dos/heart-of-china/credits) – "Original Story David Atman, Jeffrey Tunnell"; "Writers David Atman, Tom Brooke, David Selle"
