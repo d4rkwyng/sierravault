@@ -10,14 +10,14 @@ series: King's Quest
 engine: SCI1
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-16'
 description: 'King''s Quest V: Absence Makes the Heart Go Yonder! marks a pivotal
   turning point in Sierra On-Line''s gaming philosophy, representing one of the most...'
 tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # King's Quest V: Absence Makes the Heart Go Yonder!
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ King's Quest V: Absence Makes the Heart Go Yonder! marks a pivotal turning point
 
 The Digital Antiquarian calls it "the most dramatic single visual leap forward" in Sierra's history.[^ref-15] It was made on a budget of around one million dollars,[^ref-6] and Adventure Classic Gaming describes it as the first title to cost over $1 million to produce.[^ref-1] Its backgrounds were painted by hand on paper and then digitized,[^ref-15] and Computer Gaming World's Scorpia called the game "a graphic tour-de-force."[^ref-5] Computer Gaming World noted that "Roberta Williams horrified Sierra traditionalists by getting the parser out of the way of some of the most beautiful graphics ever."[^ref-6]
 
-King's Quest V became a commercial phenomenon, selling over 500,000 copies;[^ref-6] Sierra claimed it became "the fastest-selling single computer game in the history of the industry."[^ref-15] The game won the Software Publishers Association's Excellence in Software Award for Best Fantasy Role-Playing/Adventure Program in 1991,[^ref-57][^ref-6] along with Computer Gaming World's Adventure Game of the Year award.[^ref-6] Despite its commercial success and technical achievements, modern retrospectives have been more critical, with reviewers noting that while revolutionary for its era, certain design decisions have aged poorly.[^ref-8]
+King's Quest V became a commercial phenomenon, certified Platinum (at least 250,000 audited units) by the Software Publishers Association by February 1993;[^ref-58] Sierra claimed it became "the fastest-selling single computer game in the history of the industry."[^ref-15] The game won the Software Publishers Association's Excellence in Software Award for Best Fantasy Role-Playing/Adventure Program in 1991,[^ref-57][^ref-6] along with Computer Gaming World's Adventure Game of the Year award.[^ref-6] Despite its commercial success and technical achievements, modern retrospectives have been more critical, with reviewers noting that while revolutionary for its era, certain design decisions have aged poorly.[^ref-8]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-10]
@@ -77,7 +77,7 @@ Players must frequently perform good deeds that are rewarded later in the game, 
 
 King's Quest V received widespread critical acclaim upon release. Scorpia of Computer Gaming World praised the game's "graphic tour-de-force" visuals, while the magazine's editors named it the 1991 Adventure Game of the Year.[^ref-5][^ref-6] Dragon magazine awarded the game 4 out of 5 stars in 1991.[^ref-6] It won the Software Publishers Association's 1991 Excellence in Software Award for Best Fantasy Role-Playing/Adventure Program, beating nominees including The Secret of Monkey Island and Ultima VI: The False Prophet.[^ref-57]
 
-Critics praised the game's VGA graphics, audio and user interface.[^ref-17] However, the CD-ROM version's voice acting received more mixed reactions, with Charles Ardai of Computer Gaming World describing it as "wooden."[^ref-6] The desert navigation section was singled out for criticism by multiple reviewers.[^ref-17] MPC World readers voted it the Best Multimedia Fantasy/Adventure Game in 1992.[^ref-6]
+Critics praised the game's VGA graphics, audio and user interface.[^ref-17] However, the CD-ROM version's voice acting received more mixed reactions, with Charles Ardai of Computer Gaming World, reviewing the Space Quest IV CD-ROM in April 1993, recalling "the somewhat wooden line readings for which Sierra has become known as a result of the CD-ROM edition King's Quest V."[^ref-60] The desert navigation section was singled out for criticism by multiple reviewers.[^ref-17] MPC World readers voted it the Best Multimedia Fantasy/Adventure Game in 1992.[^ref-6]
 
 ### Modern Assessment
 
@@ -224,7 +224,7 @@ Many of the voices were provided by Sierra staff, including the game's own devel
 
 ### Sales and Commercial Impact
 
-King's Quest V sold 160,000 copies in its first three months and more than 300,000 copies within fifteen months of release.[^ref-15] By February 1993 it had been certified Platinum by the Software Publishers Association, a designation requiring audited sales of at least 250,000 units,[^ref-58] and lifetime sales eventually passed 500,000.[^ref-6] By November 2000, US sales alone were estimated at 300,000-400,000 units.[^ref-6]
+According to Jimmy Maher of The Digital Antiquarian, King's Quest V sold 160,000 copies in its first three months and more than 300,000 copies within fifteen months of release.[^ref-15] By February 1993 it had been certified Platinum by the Software Publishers Association, a designation requiring audited sales of at least 250,000 units.[^ref-58] By November 2000, US sales alone were estimated at 300,000-400,000 units.[^ref-6]
 
 Sierra claimed it was the fastest-selling single computer game in the industry's history.[^ref-15]
 
@@ -316,3 +316,4 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-57]: [Computer Gaming World #83 (June 1991) – "Celebrating Software"](https://archive.org/details/Computer_Gaming_World_Issue_83) – SPA Excellence in Software Award, Best Fantasy Role-Playing/Adventure Program, and the other nominees
 [^ref-58]: [Computer Gaming World #103 (February 1993) – Letters](https://archive.org/details/Computer_Gaming_World_Issue_103) – SPA Platinum certification (250,000 audited units) for King's Quest V
 [^ref-59]: [Adventure Gamers – King's Quest V review by Emily Morganti (May 25, 2007)](https://web.archive.org/web/20120625135148/http://www.adventuregamers.com/articles/view/18040) – review verdict quotes (archived copy)
+[^ref-60]: [Computer Gaming World #105 (April 1993), Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_105) – Charles Ardai, Space Quest IV CD-ROM review, p. 34: "the somewhat wooden line readings for which Sierra has become known as a result of the CD-ROM edition King's Quest V"
