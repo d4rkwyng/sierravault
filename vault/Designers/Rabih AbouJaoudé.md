@@ -93,7 +93,7 @@ The visual standards AbouJaoudé established for the Hoyle series continued to i
 - 1999 — Hoyle Card Games — Design, Graphics/Artwork
 - **1999** — [[1999 - Hoyle Word Games|Hoyle Word Games]] — Role: Sr. Artist, Project Lead
 - **2000** — [[2000 - Hoyle Casino|Hoyle Casino (2000)]] — Role: Sr. Artist, 3D Illustrator
-- **2000** — [[2000 - Hoyle Kids Games|Hoyle Kids Games]] — Role: Designer, Lead Artist
+- **2000** — [[2000 - Hoyle Kids Games|Hoyle Kids Games]] — Role: Designer, Lead Artist[^ref-8]
 - **2000** — [[2001 - Hoyle Board Games|Hoyle Board Games 2001]] — Role: Designer, Lead Artist
 - 2000 — PGA Championship Golf 2000 — Gallery Models
 - **2001** — [[2001 - Hoyle Casino|Hoyle Casino (2001)]] — Role: Art Director
