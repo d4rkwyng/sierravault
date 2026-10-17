@@ -31,7 +31,7 @@ Engine years and colors: AGI[^ref-6], SCI[^ref-7][^ref-1], DGDS[^ref-11], 3-Spac
 
 ### AGI (Adventure Game Interpreter) — 1984–1989
 
-Sierra's first standardized engine, created for King's Quest I on the IBM PCjr and used for 14 games between 1984 and 1989.[^ref-6]
+The engine Sierra created for King's Quest I on the IBM PCjr, used for 14 games between 1984 and 1989.[^ref-6]
 
 | Spec | Details |
 |------|---------|
@@ -51,6 +51,7 @@ Sierra's first standardized engine, created for King's Quest I on the IBM PCjr a
 - **1987** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]]
 - **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest I]]
 - **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]]
+- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] (AGI version, released alongside the SCI version)[^ref-1][^ref-6]
 - **1988** — [[1988 - Gold Rush|Gold Rush!]]
 - **1988** — [[1988 - Manhunter - New York|Manhunter: New York]]
 - **1989** — [[1989 - Manhunter - San Francisco|Manhunter 2: San Francisco]]
@@ -493,7 +494,7 @@ These games were listed under an engine above in earlier versions of this index,
 [^ref-3]: [ScummVM source – engines/sci/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) – "Shivers 2 doesn't contain SCI scripts… classifies Shivers 2 as 'not SCI'"
 [^ref-4]: [ScummVM source – engines/dgds/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/dgds/detection_tables.h) – detection entries for Rise of the Dragon, Willy Beamish, Heart of China, Quarky & Quaysoo's Turbo Science and the Johnny Castaway screensaver
 [^ref-5]: [ScummVM – Compatibility list](https://www.scummvm.org/compatibility/) – checked 2026-10-16: agi:mickey, agi:troll; dgds:rise, dgds:china, dgds:beamish; Gob titles listed (no Inca, Inca II or Last Dynasty)
-[^ref-6]: [Wikipedia – Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) – developed for King's Quest (1984) for the IBM PCjr; used "in 14 of their games between 1984 and 1989"; 160×200
+[^ref-6]: [Wikipedia – Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) – developed for King's Quest (1984) for the IBM PCjr; used "in 14 of their games between 1984 and 1989"; 160×200; KQ IV "Sierra released an AGI version of the game at the same time"
 [^ref-7]: [Wikipedia – Sierra Creative Interpreter](https://en.wikipedia.org/wiki/Sierra_Creative_Interpreter) – SCI0 1988 "320 × 200, 16-color EGA", text parser; SCI1 1990 256-color VGA; SCI1.1 1992 "enhanced animation and sprite scaling"; SCI2 1993 640×480 SVGA, 256 colors; SCI3 1996 "native Windows 95 support"; latest release 1996
 [^ref-8]: [Next Generation #30 (June 1997), Internet Archive scan](https://archive.org/details/NextGeneration30Jun1997) – King's Quest: Mask of Eternity feature: "ThreeSpace is the 3D engine that Dynamix, a Sierra subsidiary, contributed to the project"
 [^ref-9]: [Jane Jensen – GK3 Designer Diaries #4 (June 1998), Gabriel Knight Pages](http://gkpages.altervista.org/Interviews/DesignerDiaries_04.html) – "GK3 needed this new engine… The G-Engine is a fabulous piece of engineering"
