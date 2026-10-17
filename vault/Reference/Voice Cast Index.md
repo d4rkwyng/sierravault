@@ -1,153 +1,175 @@
 ---
 title: "Voice Cast Index"
 type: reference
-last_updated: '2026-10-15'
-description: "Voice actors who appeared in multiple Sierra games, indexed by performer with their Sierra-catalogue credits. Covers Hollywood A-list talent through staff voice actors."
+last_updated: '2026-10-16'
+description: "Voice actors who appeared in two or more Sierra games, indexed by performer with their sourced Sierra-catalogue credits, plus notable screen actors with a single Sierra voice role."
 tags: [reference, voice-acting, cast, performers]
 ---
 
 # Voice Cast Index
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
-Voice acting in Sierra games evolved from in-house staff recordings (Roberta Williams herself voicing the Witch in the *King's Quest V* CD-ROM) through Hollywood A-list talent (Tim Curry, Mark Hamill, Christopher Lloyd, Loretta Devine). This page indexes the multi-credit voice actors — those who appeared in two or more Sierra-catalogue titles — with their Sierra credits cross-linked to individual game pages.
+Voice acting in Sierra games began with in-house staff recordings: the *King's Quest V* CD-ROM talkie was voiced by members of the Sierra staff,[^ref-kq5] with Roberta Williams herself voicing the Rat, Amanda, a Woman in Town and a Harpy.[^ref-imdb-kq5] Sierra then moved to professional casts: Robby Benson voiced Prince Alexander in *King's Quest VI*,[^ref-kq6-vc] and *Gabriel Knight: Sins of the Fathers* starred Tim Curry, Leah Remini and Mark Hamill.[^ref-gk1-vc] Decades later, the 2015 *King's Quest* cast Christopher Lloyd as the elderly King Graham.[^ref-rps-kq-vc]
+
+This page indexes performers with two or more Sierra-catalogue voice credits, then lists well-known actors with a single Sierra role. Every credit below names the role and comes from a cast list (MobyGames, IMDb, Behind The Voice Actors) or a published article; credits that could not be traced to a source naming the actor in that role have been left out.
 
 For single-game voice cast information, see the **Voice Cast** subsection of the relevant game page. For the technical/production context of voice recording at Sierra, see [[Audio and Music Tech|Audio and Music Tech]].
 
-The list is sorted alphabetically by performer surname. "(uncredited)" notes mark cases where the actor's credit is confirmed via fan-research databases but doesn't appear in official liner notes.
+The list is sorted alphabetically by performer surname within each section.
 
 ---
 
-## Hollywood A-list performers in the Sierra catalog
+## Performers with two or more Sierra credits
 
-### Tim Curry
+### Jeff Bennett
 
-The single most-credited Hollywood-talent in the Sierra adventure catalogue.
+- [[1993 - Gabriel Knight - Sins of the Fathers]] — Sam; also Technical Artist/Bruno, Uniform Officer, Lucky Dog Vendor, Motorcycle Cop (credited as Jeff Glenn Bennett)[^ref-moby-gk1]
+- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]] — Gary[^ref-btva-lsl6]
+- [[1993 - Quest for Glory IV - Shadows of Darkness]] — Ad Avis, Bonehead, Dr. Cranium, Igor[^ref-imdb-qfg4]
 
-- [[1995 - Phantasmagoria]] — Voice of various antagonists
-- [[1993 - Gabriel Knight - Sins of the Fathers]] — Gabriel Knight (main role)
-- [[1995 - The Beast Within - A Gabriel Knight Mystery]] — Returning Gabriel Knight voice (FMV with body double; Dean Erickson played the face)
-- Multiple other games (Frankenstein, BloodRayne post-Sierra) — not Sierra catalog
+### Mary Kay Bergman
 
-Curry's *Gabriel Knight 1* performance is widely cited as one of the best voice acting performances in 1990s computer gaming.[^ref-curry]
+- [[1993 - Gabriel Knight - Sins of the Fathers]] — Gerde; Little Boy, Old Lady[^ref-moby-gk1]
+- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]] — Cav Vuarnet, Char Donay, Operator, Maid, Voice-Mail Operator[^ref-btva-lsl6]
+- [[1996 - Leisure Suit Larry 7 - Love for Sail]] — Drew Baringmore, Jamie Lee Coitus, Wydoncha Jugg, Peggy[^ref-imdb-lsl7]
 
-### Mark Hamill
+### Sheryl Bernstein
 
-- 1994 - Wing Commander III: Heart of the Tiger — (Wing Commander wasn't Sierra; included for context)
-- *Various Activision/Sierra-imprint titles* — limited Sierra-era work, but reference for retrospective inclusion in Sierra-adjacent talent index.
-
-### Christopher Lloyd
-
-- [[2015 - King's Quest|King's Quest (2015)]] — Voice of elderly King Graham (narrator framing device for all five episodes). Widely praised as one of the title's standout elements.[^ref-lloyd]
-
-### Loretta Devine
-
-- [[2015 - King's Quest|King's Quest (2015)]] — Voice of Manny the merchant character.[^ref-devine]
-
-### Tom Kenny (SpongeBob voice actor)
-
-- [[2015 - King's Quest|King's Quest (2015)]] — Multiple character voices.
-
-### Kevin Michael Richardson
-
-- [[2015 - King's Quest|King's Quest (2015)]] — Multiple character voices.
-
-### Robby Benson
-
-- [[1994 - King's Quest VII - The Princeless Bride]] — Edgar (key supporting role).
-- Multiple other Sierra titles in the mid-1990s.
-
-### Zelda Williams (daughter of Robin Williams)
-
-- [[2015 - King's Quest|King's Quest (2015)]] — Voice of Gwendolyn (the framing-device granddaughter).[^ref-zelda]
-
----
-
-## Sierra-era voice acting regulars
+- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]] — Queen Valanice, Princess Rosella, Lady Aeriel, White Chess Queen, Black Widow[^ref-imdb-kq6]
+- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]] — Gammie Boysulay, Rose[^ref-btva-lsl6]
+- [[1996 - Leisure Suit Larry 7 - Love for Sail]] — Dewmi Moore, Captain Thygh, Judge Julia[^ref-imdb-lsl7]
 
 ### Cam Clarke
 
-A prolific Sierra voice actor across the SCI1.1/SCI2 era.
+- [[1993 - Freddy Pharkas - Frontier Pharmacist]] — Freddy Pharkas[^ref-btva-fpfp]
+- [[1993 - Quest for Glory IV - Shadows of Darkness]] — Domovoi, Gypsy Davy, Nikolai[^ref-imdb-qfg4]
 
-- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]] — Various character voices
-- [[1995 - The Beast Within - A Gabriel Knight Mystery]] — Werewolf/voice work
-- [[1994 - King's Quest VII - The Princeless Bride]] — Supporting roles
-- Multiple Quest for Glory entries
+Outside Sierra, Clarke is known as Leonardo in the 1987 *Teenage Mutant Ninja Turtles* series and as He-Man in the 2002 *He-Man and the Masters of the Universe*.[^ref-clarke]
 
-Clarke is one of the most prolific Sierra voice actors of the 1990s and went on to a substantial career in animation voice work (Leonardo in *TMNT*, He-Man in the 2002 *He-Man and the Masters of the Universe* revival).[^ref-clarke]
+### Jim Cummings
 
-### Jennifer Hale
+- [[1993 - Gabriel Knight - Sins of the Fathers]] — Desk Sergeant; also the Blues, Cajun and Jazz Band Leaders, Muscle Man Pedestrian, Dragon/Gunter[^ref-moby-gk1]
+- [[1993 - Quest for Glory IV - Shadows of Darkness]] — Boris Stovich, Hans[^ref-imdb-qfg4]
 
-- [[1995 - The Beast Within - A Gabriel Knight Mystery]] — Various
-- Multiple subsequent Sierra and post-Sierra credits
+### Tim Curry
 
-One of the most-credited voice actresses in game history; her Sierra-era work was an early-career foundation. Later famous for *Mass Effect* (FemShep), *Metroid Prime* (Samus), *BioShock Infinite* (Elizabeth).[^ref-hale]
+- [[1993 - Gabriel Knight - Sins of the Fathers]] — Gabriel Knight; also the Gedde Butler[^ref-moby-gk1][^ref-curry]
+- [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]] — Gabriel Knight[^ref-curry][^ref-gk3]
 
-### Roberta Williams (herself)
+Curry did not voice Gabriel in the live-action [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within]], whose lead roles were recast with Dean Erickson and Joanne Takahashi.[^ref-gk2]
 
-The series creator voiced characters in several of her own games.
+### Dave Fennoy
 
-- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]] — The Witch (CD-ROM version)
-- [[1990 - Mixed-Up Mother Goose (SCI Remake)]] — Mixed-Up Mother Goose narrator
+- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]] — Pawnshop Owner (credited as David Fennoy)[^ref-imdb-kq6]
+- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]] — Mark, Billy Dee[^ref-btva-lsl6]
+
+### Linda Gary
+
+- [[1993 - Gabriel Knight - Sins of the Fathers]] — Grandma Knight, Tetelo[^ref-moby-gk1]
+- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]] — Oracle, Red Chess Queen, Mother Ghost, Queen Allaria (credited as Linda Grey)[^ref-imdb-kq6]
 
 ### Josh Mandel
 
-Sierra designer who also frequently performed voice work in titles he didn't design.
+Sierra designer and producer who also voiced characters in other designers' games.
 
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]] — Freddy Pharkas (main role; he also co-designed)
-- [[1993 - Gabriel Knight - Sins of the Fathers]] — Various character voices
-- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]] — Voice work
-- *Crazy Nick's Software Picks* series — Crazy Nick himself
-
-Mandel was one of Sierra's designer-voice-actor dual-roles, alongside Al Lowe.[^ref-mandel]
-
-### Al Lowe
-
-Designer and voice actor for his own franchise.
-
-- [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]] — Larry Laffer (voice in CD-ROM versions)
-- Multiple Larry sequels through 1996
+- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]] — King Graham, Innkeeper's Pal (CD-ROM version)[^ref-imdb-kq5]
+- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]] — King Graham, Shamir Shamazel, Oxymoron, Druid, Guard Dog[^ref-imdb-kq6]
+- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]] — Monolith Burger Manager[^ref-imdb-sq4]
 
 ### Stuart Moulder
 
-- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]] — Roger Wilco, Jr. (voice)[^ref-moulder]
-- [[1992 - The Dagger of Amon Ra]] — Blue Person (voice)[^ref-moulder]
+- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]] — Roger Wilco, Jr.[^ref-moulder][^ref-imdb-sq4]
+- [[1992 - The Dagger of Amon Ra]] — Blue Person[^ref-moulder]
 
-### Bob Vila (TV host)
+### Gary Owens
 
-- [[2002 - Hoyle Casino Empire]] — Voice cameo (informally documented)
+- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]] — Narrator[^ref-imdb-sq4]
+- [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]] — Narrator[^ref-sq6]
 
-### William Shatner
+### Jan Rabson
 
-- [[2006 - SWAT Force]] (Activision/Sierra digital imprint era) — Narrator credit per liner notes.
+- [[1993 - Freddy Pharkas - Frontier Pharmacist]] — Sam Andreas, Wheaton "Aces" Hall, Zircon Jim Laffer[^ref-btva-fpfp]
+- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]] — Larry Laffer[^ref-btva-lsl6]
+- [[1996 - Leisure Suit Larry 7 - Love for Sail]] — Larry Laffer[^ref-imdb-lsl7]
+
+### Neil Ross
+
+- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]] — Chess Knights[^ref-imdb-kq6]
+- [[1993 - Freddy Pharkas - Frontier Pharmacist]] — Narrator[^ref-btva-fpfp]
+- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]] — Narrator[^ref-btva-lsl6]
+- [[1993 - Quest for Glory IV - Shadows of Darkness]] — Erasmus, Ivan[^ref-imdb-qfg4]
+- [[1996 - Leisure Suit Larry 7 - Love for Sail]] — Narrator, Mr. Boning, Rod, Male Ship's Announcer[^ref-imdb-lsl7]
+
+### Mark Seibert
+
+Sierra composer and producer.
+
+- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]] — The Genie, The Snake, Man in Town, Singing Ants (CD-ROM version)[^ref-imdb-kq5]
+- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]] — Sequel Police 1[^ref-imdb-sq4]
+
+### Susan Silo
+
+- [[1993 - Gabriel Knight - Sins of the Fathers]] — Cazaunoux[^ref-moby-gk1]
+- [[1993 - Freddy Pharkas - Frontier Pharmacist]] — Helen Back, Madame Sadie Ovaree[^ref-btva-fpfp]
+- [[1993 - Quest for Glory IV - Shadows of Darkness]] — Baba Yaga, Fenris, Olga Stovich, Tatiana the Queen of the Faery Folk[^ref-imdb-qfg4]
+
+### Barry T. Smith
+
+- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]] — Prince Alexander, Eagle, Toymaker's Son, Rocky the Rock Creature (CD-ROM version)[^ref-imdb-kq5]
+- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]] — Monochrome Boy, Hz. So Good Salesbot and Bartender (credited as Barry Smith)[^ref-imdb-sq4]
+
+### Russi Taylor
+
+- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]] — Beauty, Lady Celeste, Ghost Child, Oyster[^ref-imdb-kq6]
+- [[1993 - Quest for Glory IV - Shadows of Darkness]] — Tanya Markarov[^ref-imdb-qfg4]
 
 ---
 
-## Recurring Sierra-staff voice talent
+## Notable single-title Sierra voice roles
 
-Several Sierra employees regularly performed voice roles in titles across the catalog:
+| Performer | Game | Role |
+|-----------|------|------|
+| Robby Benson | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]] | Prince Alexander[^ref-kq6-vc][^ref-imdb-kq6] |
+| Loretta Devine | [[2015 - King's Quest\|King's Quest (2015)]] | Muriel Hobblepot[^ref-devine] |
+| Michael Dorn | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Dr. John[^ref-moby-gk1] |
+| Jennifer Hale | [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV]] | Katrina[^ref-imdb-qfg4][^ref-qfg4] |
+| Mark Hamill | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Detective Mosely; Jeep Driver[^ref-moby-gk1][^ref-hamill] |
+| Maggie Elizabeth Jones | [[2015 - King's Quest\|King's Quest (2015)]] | Gwendolyn[^ref-mej] |
+| Josh Keaton | [[2015 - King's Quest\|King's Quest (2015)]] | Young King Graham[^ref-rps-kq-vc] |
+| Tom Kenny | [[2015 - King's Quest\|King's Quest (2015)]] | The Merchant of Miracles[^ref-rps] |
+| Christopher Lloyd | [[2015 - King's Quest\|King's Quest (2015)]] | Elderly King Graham[^ref-rps-kq-vc][^ref-lloyd] |
+| Al Lowe | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6]] | Rock Hard[^ref-btva-lsl6] |
+| Leah Remini | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Grace Nakimura[^ref-moby-gk1] |
+| John Rhys-Davies | [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV]] | Narrator[^ref-imdb-qfg4] |
+| Kevin Michael Richardson | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7]] | Johnson, Judge Graham, Judge Paul (credited as Kevin Richardson)[^ref-imdb-lsl7] |
+| Roberta Williams | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] (CD-ROM) | The Rat, Amanda, Woman in Town, Harpy[^ref-imdb-kq5] |
+| Zelda Williams | [[2015 - King's Quest\|King's Quest (2015)]] | Amaya Blackstone (Chapter III)[^ref-zelda] |
+| Efrem Zimbalist Jr. | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Wolfgang[^ref-moby-gk1] |
 
-| Performer | Sierra role | Notable voice credits |
-|-----------|-------------|-------------------------|
-| **Pat Cashman** | Voice actor (Hoyle staff) | Hoyle Blackjack characters; Pat Cashman dealer |
-| **Rodney Sherwood** | Voice actor | Hoyle Blackjack; Pat Cashman foil character |
-| **Mark Seibert** | Composer / voice direction | Various spot roles in titles he produced |
-| **Aubrey Hodges** | Composer / voice | Quest for Glory IV character voices |
-| **Lori Ann Cole / Corey Cole** | Designers | Quest for Glory series characters |
-| **Bill Davis** | Designer | Multiple titles |
+*Quest for Glory IV* was the first game in its series with voice actors, and Wikipedia names Hale's Katrina among its most notable performances.[^ref-qfg4] In 2013 Guinness World Records recognized Hale as the most prolific female video game voice actor; her later roles include Commander Shepard in *Mass Effect* and Rosalind Lutece in *BioShock Infinite*.[^ref-hale] Zelda Williams is the daughter of actor Robin Williams.[^ref-zelda]
+
+---
+
+## Sierra staff in the King's Quest V CD cast
+
+The *King's Quest V* talkie was voiced by members of the Sierra staff.[^ref-kq5] Besides Roberta Williams, Josh Mandel, Mark Seibert and Barry T. Smith (above), the IMDb cast list includes:[^ref-imdb-kq5]
+
+| Performer | Sierra role | KQ5 CD voice credit |
+|-----------|-------------|---------------------|
+| Lori Ann Cole | Designer (Quest for Glory) | Queen Icebella |
+| Bill Davis | Creative director | Hermit |
+| Andy Hoyos | Art designer | Mordack |
 
 ---
 
 ## Voice Acting Eras at Sierra
 
-1. **Pre-CD era (1980–1990)** — No voice acting; PC-speaker beeps and text dialog only.
-2. **CD-ROM speech debut (1990–1992)** — King's Quest V CD (1991) first to feature comprehensive voice cast; mostly Sierra staff with limited Hollywood-talent budget.
-3. **Hollywood-talent investment (1993–1996)** — Tim Curry, Robby Benson, Cam Clarke, Jennifer Hale era. Sierra invested in Hollywood-grade voice direction.
-4. **CUC-era cost-cutting (1996–1999)** — Voice budgets reduced; smaller casts.
-5. **Activision-era revival (2014–2017)** — Christopher Lloyd, Zelda Williams, Tom Kenny, Loretta Devine for [[2015 - King's Quest|King's Quest (2015)]].
-6. **Post-Sierra alumni projects (2010-present)** — Smaller indie budgets; community/Kickstarter-funded voice work for Gabriel Knight 20th, Hero-U, SpaceVenture.
+1. **CD-ROM speech debut (1991–1992)** — The *King's Quest V* CD talkie was voiced by Sierra staff;[^ref-kq5] *Space Quest IV*'s CD cast mixed staff (Josh Mandel, Mark Seibert, Stuart Moulder) with Gary Owens as narrator.[^ref-imdb-sq4]
+2. **Professional casts (1992–1996)** — *King's Quest VI* (Robby Benson), *Gabriel Knight* (Tim Curry, Mark Hamill, Leah Remini), *Quest for Glory IV* (John Rhys-Davies, Jennifer Hale) and the *Leisure Suit Larry* and *Freddy Pharkas* casts drew on professional voice actors such as Neil Ross, Jan Rabson, Jeff Bennett and Mary Kay Bergman.[^ref-imdb-kq6][^ref-moby-gk1][^ref-imdb-qfg4][^ref-btva-lsl6]
+3. **Activision-era revival (2015–2016)** — Christopher Lloyd, Josh Keaton, Loretta Devine, Zelda Williams, Maggie Elizabeth Jones and Tom Kenny in [[2015 - King's Quest|King's Quest (2015)]].[^ref-rps-kq-vc][^ref-rps]
 
 ---
 
@@ -167,25 +189,35 @@ Discrepancies between sources should be noted with "(per Source X)" annotations 
 ## See Also
 
 - [[Audio and Music Tech|Audio and Music Tech]] — Voice recording infrastructure at Sierra
+- [[Voice Acting in Sierra Games]] — History of voice acting across the catalog
 - [[Bibliography|Bibliography]] — Source-verification protocols
 - [[Roberta Williams]], [[Josh Mandel]], [[Al Lowe]] — Designer-performers
 
 ## References
 
-[^ref-curry]: [Wikipedia — Tim Curry](https://en.wikipedia.org/wiki/Tim_Curry) — Voice-acting credits including Gabriel Knight
-[^ref-lloyd]: [IGN — Christopher Lloyd King's Quest interview](https://www.ign.com/articles/2015/07/28/kings-quest-a-knight-to-remember-review) — Casting and performance notes
-[^ref-devine]: [Adventure Game Hotspot — King's Quest 2015 cast](https://adventuregamehotspot.com) — Voice cast documentation
-[^ref-zelda]: [Game Informer — King's Quest 2015 feature](https://www.gameinformer.com/b/features/archive/2015/07/28/passing-the-hat-an-in-depth-look-at-the-new-kings-quest.aspx) — Zelda Williams casting
-[^ref-clarke]: [Wikipedia — Cam Clarke](https://en.wikipedia.org/wiki/Cam_Clarke) — Voice-acting career including Sierra work
-[^ref-hale]: [Wikipedia — Jennifer Hale](https://en.wikipedia.org/wiki/Jennifer_Hale) — Career voice credits
-[^ref-mandel]: [MobyGames — Josh Mandel](https://www.mobygames.com/person/josh-mandel/) — Designer/performer credits
-[^ref-btva]: [Behind The Voice Actors — Sierra games](https://www.behindthevoiceactors.com) — Voice-actor database
-[^ref-mobygames-vc]: [MobyGames — Voice cast indexes](https://www.mobygames.com) — Cross-reference for voice credits
-[^ref-imdb-games]: [IMDb — Sierra games](https://www.imdb.com) — Hollywood-talent crossover documentation
-[^ref-rps-kq-vc]: [Game Informer — Great Scott! Christopher Lloyd And Other Famous Voices Join King's Quest Cast](https://gameinformer.com/games/kings_quest/b/xbox360/archive/2015/05/11/great-scott-christopher-lloyd-and-other-famous-voices-join-king-s-quest-cast) — King's Quest (2015) voice cast announcement
-[^ref-vc-history]: Adventure Gamers — voice acting history *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no clean pre-sale archived copy found)* — Voice-acting era retrospective (Cloudflare-protected; view in browser)
-[^ref-kq6-vc]: [Wikipedia — King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) — Voice cast documentation
-[^ref-gk1-vc]: [Wikipedia — Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — Tim Curry casting
-[^ref-curry-iv]: [Twin Galaxies — Tim Curry interview](https://www.twingalaxies.com) — Voice-direction recollections
-[^ref-sierra-chest-vc]: [Sierra Chest — Voice acting credits](https://www.sierrachest.com) — Sierra-specific catalog
+[^ref-curry]: [Wikipedia — Tim Curry](https://en.wikipedia.org/wiki/Tim_Curry) — "the titular character in the video games Gabriel Knight: Sins of the Fathers (1993) and Gabriel Knight 3: Blood of the Sacred, Blood of the Damned (1999)"
+[^ref-lloyd]: [IGN — King's Quest: A Knight to Remember review (July 28, 2015)](https://www.ign.com/articles/2015/07/28/kings-quest-a-knight-to-remember-review) — "The older version of Graham is wonderfully voiced by veteran actor Christopher Lloyd"
+[^ref-devine]: [Wikipedia — Loretta Devine](https://en.wikipedia.org/wiki/Loretta_Devine) — Video game: 2015, King's Quest, role "Muriel Hobblepot"
+[^ref-zelda]: [Wikipedia — Zelda Williams](https://en.wikipedia.org/wiki/Zelda_Williams) — "King's Quest - Chapter III: Once Upon A Climb", voice role "Amaya Blackstone"; "the daughter of actor Robin Williams"
+[^ref-clarke]: [Wikipedia — Cam Clarke](https://en.wikipedia.org/wiki/Cam_Clarke) — Leonardo in the 1987 Teenage Mutant Ninja Turtles; Prince Adam / He-Man in He-Man and the Masters of the Universe (2002–04)
+[^ref-hale]: [Wikipedia — Jennifer Hale](https://en.wikipedia.org/wiki/Jennifer_Hale) — Guinness World Records 2013 "most prolific female video game voice actor"; Commander Shepard; "Rosalind Lutece in BioShock Infinite"
+[^ref-rps-kq-vc]: [Game Informer — Great Scott! Christopher Lloyd And Other Famous Voices Join King's Quest Cast (May 11, 2015)](https://gameinformer.com/games/kings_quest/b/xbox360/archive/2015/05/11/great-scott-christopher-lloyd-and-other-famous-voices-join-king-s-quest-cast) — "Christopher Lloyd… plays the elderly King Graham, while Josh Keaton… plays the King in his younger years"
+[^ref-kq6-vc]: [Wikipedia — King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) — "Actor Robby Benson provided the voice for Prince Alexander"
+[^ref-gk1-vc]: [Wikipedia — Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — "featuring the voices of Tim Curry, Leah Remini, and Mark Hamill in the CD-ROM version"
 [^ref-moulder]: [IMDb — Stuart Moulder (Wayback, February 17, 2017)](https://web.archive.org/web/20170217100032/http://www.imdb.com/name/nm1723305/) — Voice credits: Space Quest IV (Roger Wilco, Jr.), Laura Bow 2: The Dagger of Amon Ra (Blue Person)
+[^ref-kq5]: [Wikipedia — King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) — CD-ROM "talkie… done by members of the Sierra staff"
+[^ref-imdb-kq5]: [IMDb — King's Quest V: Absence Makes the Heart Go Yonder, full cast](https://www.imdb.com/title/tt0212279/fullcredits) — Josh Mandel "King Graham / Innkeeper's Pal"; Roberta Williams "The Rat / Amanda / Woman in Town / Harpy"; Mark Seibert, Barry T. Smith, Lori Ann Cole, Bill Davis, Andy Hoyos; Sarah Long as the Witch
+[^ref-imdb-kq6]: [IMDb — King's Quest VI: Heir Today, Gone Tomorrow, full cast](https://www.imdb.com/title/tt0214857/fullcredits) — Robby Benson "Prince Alexander"; Josh Mandel "King Graham / Shamir Shamazel / Oxymoron / Druid / Guard Dog"; Bernstein, Fennoy, Gary, Ross, Taylor
+[^ref-imdb-sq4]: [IMDb — Space Quest IV: Roger Wilco and the Time Rippers, full cast](https://www.imdb.com/title/tt0448772/fullcredits) — Gary Owens "Narrator"; Stuart Moulder "Roger Wilco, Jr."; Josh Mandel "Monolith Burger Manager"; Mark Seibert "Sequel Police 1"; Barry T. Smith
+[^ref-imdb-qfg4]: [IMDb — Quest for Glory IV: Shadows of Darkness, full cast](https://www.imdb.com/title/tt0210246/fullcredits) — John Rhys-Davies "Narrator"; Jennifer Hale "Katrina"; Cam Clarke "Domovoi / Gypsy Davy / Nikolai"; Bennett, Cummings, Ross, Silo, Taylor
+[^ref-imdb-lsl7]: [IMDb — Leisure Suit Larry: Love for Sail!, full cast](https://www.imdb.com/title/tt0221340/fullcredits) — Jan Rabson "Leisure Suit Larry"; Neil Ross; Sheryl Bernstein; Mary Kay Bergman; Kevin Michael Richardson "Johnson / Judge Graham / Judge Paul" (as Kevin Richardson)
+[^ref-btva-lsl6]: [Behind The Voice Actors — Leisure Suit Larry 6: Shape Up or Slip Out!](https://www.behindthevoiceactors.com/video-games/leisure-suit-larry-6-shape-up-or-slip-out/) — "Larry Laffer voiced by Jan Rabson"; "Rock Hard voiced by Al Lowe"; Bergman, Bernstein, Fennoy, Bennett; Narrator Neil Ross
+[^ref-btva-fpfp]: [Behind The Voice Actors — Freddy Pharkas: Frontier Pharmacist](https://www.behindthevoiceactors.com/video-games/freddy-pharkas-frontier-pharmacist/) — "Freddy Pharkas voiced by Cam Clarke"; Jan Rabson; Susan Silo; Narrator Neil Ross
+[^ref-moby-gk1]: [MobyGames — Gabriel Knight: Sins of the Fathers credits, DOS (Moby ID 116; Wayback, September 14, 2025)](https://web.archive.org/web/20250914120918/https://www.mobygames.com/game/116/gabriel-knight-sins-of-the-fathers/credits/dos/) — "Starring: Gabriel Knight Tim Curry, Detective Mosely Mark Hamill, Dr. John Michael Dorn, Grace Nakimura Leah Remini, Wolfgang Efrem Zimbalist Jr."; other voices
+[^ref-gk2]: [Wikipedia — The Beast Within: A Gabriel Knight Mystery](https://en.wikipedia.org/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery) — live action "required a recasting of the main characters, with Dean Erickson and Joanne Takahashi portraying the lead roles"
+[^ref-gk3]: [Wikipedia — Gabriel Knight 3: Blood of the Sacred, Blood of the Damned](https://en.wikipedia.org/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned) — "Gabriel Knight (voiced once again by Tim Curry)"
+[^ref-sq6]: [Wikipedia — Space Quest 6](https://en.wikipedia.org/wiki/Space_Quest_6) — "Gary Owens served as narrator once again"
+[^ref-qfg4]: [Wikipedia — Quest for Glory: Shadows of Darkness](https://en.wikipedia.org/wiki/Quest_for_Glory:_Shadows_of_Darkness) — "the first game in the series to feature voice actors… John Rhys-Davies as the Narrator, Jennifer Hale as Katrina"
+[^ref-hamill]: [Wikipedia — Mark Hamill](https://en.wikipedia.org/wiki/Mark_Hamill) — "Hamill's video game voice roles include Detective Mosely in Gabriel Knight: Sins of the Fathers"
+[^ref-mej]: [Wikipedia — Maggie Elizabeth Jones](https://en.wikipedia.org/wiki/Maggie_Elizabeth_Jones) — Video games: 2016, King's Quest – Chapter III, role "Gwendolyn"
+[^ref-rps]: [Rock Paper Shotgun — King's Quest Chapter 1 review](https://www.rockpapershotgun.com/kings-quest-chapter-1-review) — "Tom Kenny (Spongebob, Mr Show) is particularly excellent as The Merchant Of Miracles"
