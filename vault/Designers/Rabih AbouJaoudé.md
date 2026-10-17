@@ -5,17 +5,17 @@ birth_year: null
 death_year: null
 notable_games: ["Hoyle Puzzle & Board Games", "Hoyle Card Games", "Hoyle Poker Series", "Little Shop Series"]
 companies: ["Sierra Entertainment", "GameHouse"]
-last_updated: "2026-05-08"
+last_updated: "2026-10-16"
 ---
 # Rabih AbouJaoudé
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
 Rabih AbouJaoudé (also credited as Rabih Aboujaoude) is a game designer, artist, and sculptor who built a prolific career in the video game industry, primarily at Sierra Entertainment and later at GameHouse.[^ref-1][^ref-6] With 60 credits across 34 games spanning from 1995 to 2010, AbouJaoudé served in multiple capacities including Designer, Art Director, Lead Artist, and 3D Illustrator.[^ref-1][^ref-7] His work helped establish the Hoyle brand as Sierra's flagship casual gaming series, creating accessible and visually polished games that brought classic card and board games to personal computers.[^ref-3]
 
-AbouJaoudé's career demonstrates the evolution of Sierra's business strategy from adventure games toward casual gaming markets.[^ref-9] While the Hoyle series lacked the narrative complexity of Sierra's adventure titles, it represented steady commercial success and required sophisticated visual design to make familiar games feel fresh on computer platforms.[^ref-2][^ref-8] After Sierra's corporate dissolution, he transitioned to GameHouse Studios where he contributed graphic design to the popular Little Shop hidden object series and other casual titles before leaving the game industry to pursue a career in ceramic arts.[^ref-4]
+AbouJaoudé's career demonstrates the evolution of Sierra's business strategy from adventure games toward casual gaming markets.[^ref-9] MobyGames' Hoyle licensees group, which "includes both the 'old' Sierra and 'new' Sierra Hoyle games", lists 52 titles.[^ref-2] After Sierra's corporate dissolution, he transitioned to GameHouse Studios where he contributed graphic design to the popular Little Shop hidden object series and other casual titles before leaving the game industry to pursue a career in ceramic arts.[^ref-4]
 
 ## Career
 
@@ -62,8 +62,6 @@ This foundational entry in the modern Hoyle series featured AbouJaoudé's design
 At GameHouse, AbouJaoudé contributed graphic design to multiple entries in the Little Shop hidden object series, which were among the studio's most successful franchises.[^ref-4] The games challenged players to find hidden objects across various themed environments, and his visual design work helped maintain the series' distinctive, appealing aesthetic.
 
 ## Design Philosophy
-
-AbouJaoudé's work on the Hoyle series reflects a philosophy of accessibility and visual polish. Unlike Sierra's adventure games with their complex narratives and challenging puzzles, the Hoyle games required a different approach: making familiar games feel fresh and engaging on computer platforms while remaining immediately accessible to players of all ages and skill levels.[^ref-2]
 
 His dual expertise in art and design allowed him to create cohesive experiences where visual presentation supported gameplay rather than merely decorating it. The character animations in Hoyle Poker, the board representations in Hoyle Board Games, and the interface designs across the series all demonstrate this integration of visual and interactive design.[^ref-4]
 
