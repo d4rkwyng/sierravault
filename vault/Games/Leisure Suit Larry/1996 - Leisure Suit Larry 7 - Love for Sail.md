@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI3
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-16'
 composer: [Frank Zottoli]
 description: '*Leisure Suit Larry: Love for Sail!* is the sixth and final Leisure
   Suit Larry adventure game written by series creator Al Lowe, released by Sierra
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry: Love for Sail!
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -54,7 +54,7 @@ The game concludes with a surprising twist—after the credits roll, the ship is
 
 ### Interface and Controls
 
-*Love for Sail!* features a unique hybrid interface that combines point-and-click mechanics with an optional text parser—a design choice that received mixed reactions.[^ref-1] Players interact with the game world through a standard point-and-click system, selecting actions from a menu when clicking on objects or characters. However, the game also allows players to type custom commands, theoretically offering more nuanced interactions.[^ref-3]
+*Love for Sail!* combines point-and-click mechanics with a text parser, and some puzzles can only be solved by typing the correct keyword.[^ref-55][^ref-3] Next Generation felt that "combining one with point-and-click results in a game that's neither fish nor fowl", and Adventure Classic Gaming called the parser "merely a gimmick".[^ref-55][^ref-3] Players interact with the game world through a standard point-and-click system, selecting actions from a menu when clicking on objects or characters. However, the game also allows players to type custom commands, theoretically offering more nuanced interactions.[^ref-3]
 
 The text parser remembers previously used commands, allowing players to reuse actions like "fart" throughout the game.[^ref-14] However, as the *Next Generation* reviewer noted, "combining one with point-and-click results in a game that's neither fish nor fowl, adding an element of pure guesswork to a puzzle set that's already conceptually slippery."[^ref-1][^ref-55] The interface includes a dialogue system using topics and trees for character conversations, which Al Lowe later cited as influential on his future game designs.[^ref-15]
 
@@ -78,7 +78,7 @@ The game features a variety of puzzle types alongside the shipboard contests. It
 
 The puzzle design occasionally drew criticism, with producer Mark Seibert admitting that the team knowingly included at least one problematic puzzle: "all of us knew that was a bad puzzle, and that we shouldn't be putting it in, but it made for a big joke and so we left it. Sure enough, people have written me about it all the time and say, 'Hey! That was a stupid puzzle!'"[^ref-1]
 
-A hidden collectible game called "Where's Dildo?" (a parody of *Where's Waldo?*) challenges players to find 32 red-and-white-striped dildos hidden throughout the ship's screens.[^ref-2][^ref-47] Collecting them unlocks desktop wallpapers stored in the game's Drivers subdirectory under misleading filenames like "Memory1.drv" through "Memory8.drv."[^ref-2]
+A hidden collectible game called "Where's Dildo?" (a parody of *Where's Waldo?*) challenges players to find 32 dildos hidden throughout the ship's screens.[^ref-2][^ref-47]
 
 The CyberSniff 2000 scratch-and-sniff card contains nine differently colored pads that players must smell when prompted by the game, using olfactory clues to solve certain puzzles.[^ref-3] This innovative feature paid homage to Infocom's similar gimmick in *Leather Goddesses of Phobos*.[^ref-18]
 
