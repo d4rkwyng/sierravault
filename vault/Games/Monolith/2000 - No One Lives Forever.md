@@ -10,7 +10,7 @@ series: No One Lives Forever
 engine: LithTech 2.5
 protagonist: Cate Archer
 sierra_lineage: Sierra Published
-last_updated: '2026-10-13'
+last_updated: '2026-10-17'
 description: 'The Operative: No One Lives Forever is a story-driven 1960s spy first-person
   shooter developed by Monolith Productions and published by Fox Interactive in November
   2000, starring UNITY agent Cate Archer.'
@@ -18,13 +18,13 @@ tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # The Operative: No One Lives Forever
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 17, 2026</small>
 
 ## Overview
 
 The Operative: No One Lives Forever is a story-driven first-person shooter developed by [[Monolith Productions]] and published by Fox Interactive in November 2000.[^ref-1][^ref-52] Set in the swinging 1960s during the Cold War, the game casts players as Cate Archer, a beautiful but deadly operative working for UNITY—a super-secret organization fighting to free the world from the clutches of the global terrorist organization known as H.A.R.M.[^ref-2] The game delivers over-the-top action, outrageous villains, and wry humor in the tradition of the great 1960s Bond films, distinguishing itself through its unique blend of stealth gameplay, intelligent storytelling, and sharp comedic writing.[^ref-3]
 
-Just when it seemed as if first-person shooters had run out of ideas, No One Lives Forever arrived to reinvigorate the genre.[^ref-4] The game's unrelenting inventiveness shows in virtually every aspect of its design, from the diverse international locales to the clever gadgets disguised as feminine fashion accessories.[^ref-4] The title earned widespread critical acclaim upon release, becoming one of the most celebrated shooters of 2000, with Computer Games Magazine naming it both Game of the Year and Action Game of the Year.[^ref-1] Its heroine has all the traits of a 1960s screen spy, except that she must also tackle the rampant sexism of the era, most visibly from her own mission coordinator, Mr. Smith.[^ref-5]
+Just when it seemed as if first-person shooters had run out of ideas, No One Lives Forever arrived to reinvigorate the genre.[^ref-4] The game's unrelenting inventiveness shows in virtually every aspect of its design.[^ref-4] The title earned widespread critical acclaim upon release, becoming one of the most celebrated shooters of 2000, with Computer Games Magazine naming it both Game of the Year and Action Game of the Year.[^ref-1] Its heroine has all the traits of a 1960s screen spy, except that she must also tackle the rampant sexism of the era, most visibly from her own mission coordinator, Mr. Smith.[^ref-5]
 
 No One Lives Forever combines a fantastic sense of style with great animation and voice acting, clever AI, industry-leading interactive music, and gameplay that keeps players coming back for more.[^ref-1] The game represents a turning point for Monolith Productions, who had previously released the troubled Blood 2 and Shogo, and demonstrates what their team could achieve when focused on polish over ambition.[^ref-6] Today, the game remains unavailable for legal purchase due to complex ownership disputes between multiple corporations, making it one of gaming's most notable preservation challenges.[^ref-7]
 
@@ -53,13 +53,13 @@ The story concludes with Archer confronting the leadership of H.A.R.M. and provi
 
 ### Interface and Controls
 
-No One Lives Forever is a first-person shooter that enables players to use a healthy combination of stealth and all-out gunning, with multiple choices to solve mission objectives unlike any game before it.[^ref-18] The game builds upon conventions established by GoldenEye 007, Half-Life, and Thief, combining elements of action, stealth, exploration, and character interaction into a cohesive whole.[^ref-4] Players navigate environments from Cate's perspective, utilizing both traditional firearms and an arsenal of spy gadgets disguised as feminine fashion items including lipstick grenades, perfume that doubles as a sleeping gas, and a lockpicking barrette.[^ref-19][^ref-2]
+No One Lives Forever is a first-person shooter that enables players to use a healthy combination of stealth and all-out gunning, with multiple choices to solve mission objectives unlike any game before it.[^ref-18] The game takes the enemy artificial intelligence of Half-Life, the stealth features of Thief: The Dark Project, and the gadgetry of GoldenEye 007 and combines them with a colorful 1960s setting and a sense of humor.[^ref-4] Players navigate environments from Cate's perspective, utilizing both traditional firearms and an arsenal of spy gadgets disguised as feminine fashion items including lipstick grenades, perfume that doubles as a sleeping gas, and a lockpicking barrette.[^ref-19][^ref-2]
 
 The control scheme supports keyboard, mouse, gamepad, and joystick inputs.[^ref-8] The Game of the Year Edition readme documents a Hardware Cursor option under the display settings and notes that, because of the huge number of weapons and gadgets, some players rebind their keys every few missions.[^ref-20] The game features both quicksave and regular save functionality on PC, though notably the PlayStation 2 port lacked the quicksave feature, drawing criticism from reviewers.[^ref-1]
 
 ### Structure and Progression
 
-The game spans 15 missions across close to 60 individual levels, providing over 20 hours of single-player gameplay.[^ref-4] Each mission takes place in a distinct, colorful environment with specific objectives that advance the storyline. The structure allows for significant variety; PC Gamer reviewer Daniel Morris wrote that "the highest compliment I can pay No One Lives Forever is that it feels like I sampled five different games before reaching the end."[^ref-21]
+The game includes close to 60 levels spread over 15 diverse environments, and GameSpot estimated more than 20 hours to finish the single-player game.[^ref-4] Each mission takes place in a distinct, colorful environment with specific objectives that advance the storyline. The structure allows for significant variety; PC Gamer reviewer Daniel Morris wrote that "the highest compliment I can pay No One Lives Forever is that it feels like I sampled five different games before reaching the end."[^ref-21]
 
 Key missions include:
 
@@ -301,7 +301,7 @@ Night Dive Studios attempted to secure rights for an official re-release, managi
 
 ### Critical Perspective
 
-No One Lives Forever occupies a unique position in gaming history as both a critical darling and a cautionary tale about game preservation. The game demonstrated that first-person shooters could be intelligent, humorous, and story-driven without sacrificing action, arriving at a crucial moment when the genre seemed mired in repetitive military and science fiction settings.[^ref-4] Its success helped establish that there was an audience for games that didn't take themselves too seriously while still delivering compelling gameplay.
+No One Lives Forever occupies a unique position in gaming history as both a critical darling and a cautionary tale about game preservation. The game demonstrated that first-person shooters could be intelligent, humorous, and story-driven without sacrificing action, arriving, in GameSpot's words, "just when it seemed as if first-person shooters had run out of ideas."[^ref-4] Its success helped establish that there was an audience for games that didn't take themselves too seriously while still delivering compelling gameplay.
 
 The game's feminist perspective was ahead of its time, presenting a female protagonist who was "every bit as wry, cunning and capable as a male hero" while also addressing the systemic barriers women faced in male-dominated professions.[^ref-32] This wasn't mere window dressing—the gender dynamics were integrated into the narrative, with Cate constantly proving herself against skeptical colleagues. The weapons disguised as feminine accessories served both practical and thematic purposes, turning "the objects of sexual desire back on the men they titillate."[^ref-25]
 
@@ -332,7 +332,7 @@ However, the game's legacy has been complicated by its commercial unavailability
 [^ref-1]: [Wikipedia – The Operative: No One Lives Forever](https://en.wikipedia.org/wiki/The_Operative:_No_One_Lives_Forever) – release dates, credits, sales data, awards, development history
 [^ref-2]: [Giant Bomb – The Operative: No One Lives Forever](https://www.giantbomb.com/the-operative-no-one-lives-forever/3030-18911/) – plot summary, platform information
 [^ref-3]: [GOG Dreamlist – No One Lives Forever](https://www.gog.com/dreamlist/game/the-operative-no-one-lives-forever) – game description
-[^ref-4]: [GameSpot Review](http://www.gamespot.com/the-operative-no-one-lives-forever/reviews/the-operative-no-one-lives-forever-review-2652466/) – Erik Wolpaw review, 9.3/10 score
+[^ref-4]: [GameSpot Review](https://www.gamespot.com/reviews/the-operative-no-one-lives-forever-review/1900-2652466/) – Erik Wolpaw review, 9.3/10 score
 [^ref-5]: [Hardcore Gaming 101 – No One Lives Forever](http://www.hardcoregaming101.net/the-operative-no-one-lives-forever/) – historical analysis, development context
 [^ref-6]: [Eurogamer Review](http://www.eurogamer.net/articles/r_nolf) – 8/10 score, Bond film comparisons
 [^ref-7]: [PCGamingWiki – The Operative: No One Lives Forever](https://www.pcgamingwiki.com/wiki/The_Operative:_No_One_Lives_Forever) – licensing issues, technical information
@@ -342,7 +342,7 @@ However, the game's legacy has been complicated by its commercial unavailability
 [^ref-13]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Operative:+No+One+Lives+Forever&gid=3318) – story summary
 [^ref-14]: [MyAbandonware – No One Lives Forever](https://www.myabandonware.com/game/the-operative-no-one-lives-forever-7q4) – user reviews, known issues
 [^ref-15]: [IMDB – The Operative: No One Lives Forever](https://www.imdb.com/title/tt0267786/) – voice cast, trivia, rating
-[^ref-16]: [GameSpot NOLF2 Preview Q&A](http://www.gamespot.com/no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way/previews/no-one-lives-forever-2-a-spy-in-harms-way-qanda-2866853/) – Craig Hubbard quotes
+[^ref-16]: [GameSpot NOLF2 Preview Q&A](https://www.gamespot.com/articles/no-one-lives-forever-2-a-spy-in-harms-way-qanda/1100-2866853/) – Craig Hubbard quotes
 [^ref-17]: [IMDB Crazy Credits](https://www.imdb.com/title/tt0267786/crazycredits/) – easter eggs, post-credits scene
 [^ref-18]: [IGN – Vivendi/Fox Publishing Deal](https://www.ign.com/articles/2001/05/02/vivendi-universal-and-fox-sign-four-game-deal) – game description
 [^ref-19]: [Kakuchopurei Retrospective](https://www.kakuchopurei.com/2025/03/the-operative-no-one-lives-forever-retrospective/) – gadget analysis
