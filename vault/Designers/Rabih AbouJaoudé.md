@@ -125,7 +125,7 @@ The visual standards AbouJaoudé established for the Hoyle series continued to i
 ## References
 
 [^ref-1]: [MobyGames - Rabih AbouJaoudé](https://www.mobygames.com/person/109293/rabih-aboujaoude/) — Complete credits listing (60 credits on 34 games)
-[^ref-2]: [MobyGames - Hoyle Series](https://www.mobygames.com/group/1015/hoyle-games/) — Hoyle games series history
+[^ref-2]: [MobyGames - Hoyle licensees](https://www.mobygames.com/group/118/hoyle-licensees/) — game group covering both the "old" Sierra and "new" Sierra Hoyle games
 [^ref-3]: [RealNetworks Press Release - Little Shop Series](https://realnetworks.com/press/releases/2008/realnetworks-takes-popular-little-shop-series-road) — GameHouse Studios development of Little Shop series
 [^ref-4]: [LinkedIn - Rabih AbouJaoudé](https://www.linkedin.com/in/rabih-aboujaoud%C3%A9-9719195/) — Current position as Resident Artist at Seward Park Clay Studio, Seattle; Sierra career description and FaceMaker project
 [^ref-5]: [MobyGames - Hoyle Classic Games (1995) Credits](https://www.mobygames.com/game/28770/hoyle-classic-games/) — Lead Artist credit
