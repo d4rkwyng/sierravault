@@ -10,7 +10,7 @@ series: Manhunter
 engine: Unknown (never entered production)
 protagonist: The Manhunter
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-17'
 description: 'Manhunter 3: London is a cancelled post-apocalyptic adventure game, planned
   as the third installment in the Manhunter series. Teased in Manhunter 2: San Francisco,
   it never went beyond the concept stage after Evryware and Sierra parted ways in 1989.'
@@ -18,11 +18,11 @@ tags: [adventure, manhunter, sierra]
 ---
 # Manhunter 3: London
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 17, 2026</small>
 
 ## Overview
 
-Manhunter 3: London is a cancelled post-apocalyptic adventure game that was planned as the third installment in the Manhunter series.[^ref-1][^ref-12] The game was to be designed by Barry Murry, Dave Murry, and Dee Dee Murry of Evryware and published by Sierra On-Line, continuing the story of the unnamed Manhunter protagonist as he tracks down the serial killer Phil Cook to London and attempts to drive the alien Orbs away from Earth.[^ref-1] The game's existence was teased in 1989 through an in-game Easter egg in Manhunter 2: San Francisco, where a poster advertising "Manhunter 3: London" can be seen on the side of a tram at the Cable Car Barn.[^ref-1]
+Manhunter 3: London is a cancelled post-apocalyptic adventure game that was planned as the third installment in the Manhunter series.[^ref-1] The game was to be designed by Barry Murry, Dave Murry, and Dee Dee Murry of Evryware and published by Sierra On-Line, continuing the story of the unnamed Manhunter protagonist as he tracks down the serial killer Phil Cook to London and attempts to drive the alien Orbs away from Earth.[^ref-1] The game's existence was teased in 1989 through an in-game Easter egg in Manhunter 2: San Francisco, where a poster advertising "Manhunter 3: London" can be seen on the side of a tram at the Cable Car Barn.[^ref-1]
 
 The cancellation of Manhunter 3: London represents one of Sierra's more notable unrealized projects, as the second game had ended on a dramatic cliffhanger that left fans anticipating the continuation of the story.[^ref-2][^ref-4] The series was originally conceived as a trilogy, and the Murrys also envisioned a fourth game following the London chapter.[^ref-1][^ref-2][^ref-5] The rights to Manhunter are held by Activision, and according to Wikipedia "there are no plans for resumption"; the only reported revival effort is an unverified 2008 forum claim (see Revival Attempts).[^ref-10][^ref-3]
 
@@ -193,7 +193,6 @@ The series was meant to be a trilogy with the third game set in London, but only
 [^ref-8]: [MobyGames – Manhunter: New York](https://www.mobygames.com/game/24/manhunter-new-york/) – game description: chapter structure, MAD tracking, arcade challenges
 [^ref-9]: [MobyGames – Manhunter 2: San Francisco](https://www.mobygames.com/game/25/manhunter-2-san-francisco/) – game description: 1989 sequel, returning MAD tracking and arcade sequences
 [^ref-10]: [Wikipedia – Manhunter 2: San Francisco](https://en.wikipedia.org/wiki/Manhunter_2:_San_Francisco) – ending flight toward London; Activision holds the rights, "no plans for resumption"
-[^ref-12]: [Giant Bomb - Manhunter](https://www.giantbomb.com/manhunter/3025-29633/) – Series database with game information and historical notes
 [^ref-16]: [Games Domain – Interview with Evryware (Part 1), 1997 (archived)](https://web.archive.org/web/20020213224051/http://www.gamesdomain.com/gdreview/depart/jun97/evryware.html) – Murrys on Championship Boxing, Manhunter's design, 100,000+ sales, wish to "eventually do another Manhunter"
 [^ref-17]: [Wikipedia – Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) – Manhunter 2: San Francisco as Sierra's final AGI-based title
 [^ref-18]: [Wikipedia – The Ancient Art of War](https://en.wikipedia.org/wiki/The_Ancient_Art_of_War) – designed by Dave and Barry Murry, published by Broderbund in 1984
