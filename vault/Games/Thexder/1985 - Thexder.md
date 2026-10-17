@@ -11,7 +11,7 @@ series: Thexder
 engine: null
 protagonist: Thexder (transforming robot)
 sierra_lineage: Sierra Published
-last_updated: '2026-10-14'
+last_updated: '2026-10-16'
 description: Thexder is a transforming robot action game developed by Game Arts for
   the NEC PC-8801 in 1985 and published in North America by Sierra On-Line, which
   imported it from Japan and ported it to several computers.
@@ -19,7 +19,7 @@ tags: [1980s, sierra, thexder]
 ---
 # Thexder
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -115,7 +115,7 @@ Compute! noted that, "according to Sierra On-Line", Thexder was "the first game 
 | Apple IIgs | September 1987 | Sierra On-Line (ported by Synergistic Software) |
 | MS-DOS | October 1987 | Sierra On-Line |
 | Amiga | December 1987 (US); 1988 (UK) | Sierra On-Line; distributed by Electronic Arts in the US[^ref-20] and Activision in the UK |
-| TRS-80 Color Computer 3 | 1988 | Sierra On-Line |
+| TRS-80 Color Computer 3 | 1988 | Sierra On-Line (ported by Synergistic Software)[^ref-1] |
 | Macintosh | 1990 | Sierra On-Line |
 | Nintendo Switch | 26 October 2023 | D4 Enterprise (EGG Console)[^ref-4] |
 
