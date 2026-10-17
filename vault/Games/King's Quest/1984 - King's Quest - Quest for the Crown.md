@@ -11,7 +11,7 @@ series: King's Quest
 engine: AGI
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-16'
 description: 'King''s Quest: Quest for the Crown is a landmark adventure game, credited
   with saving Sierra On-Line from the effects of the 1983 video game crash and considered
   the start of the graphic adventure genre.'
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest: Quest for the Crown
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ King's Quest: Quest for the Crown is a landmark adventure game, credited with sa
 
 Originally commissioned by IBM to showcase their PCjr home computer and released in May 1984, the game introduced players to the kingdom of Daventry and protagonist Sir Graham, a brave knight tasked with recovering three stolen magical treasures to inherit the throne from the dying King Edward[^ref-3][^ref-4].
 
-Electronic Games magazine proclaimed it "a major breakthrough in action-adventure games" that "blows everything away"[^ref-5].
+Electronic Games magazine proclaimed it "a major breakthrough in action-adventure games" that "blows everything away"[^ref-50].
 
 IEEE Spectrum has called it "the first animated 3D adventure game"[^ref-6].
 
