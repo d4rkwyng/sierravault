@@ -37,7 +37,7 @@ The Hi-Res Adventure series continued with several landmark titles:
 - **1980** — [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Wizard and the Princess]] — Significance: Color graphics with dithering; 60,000 copies sold[^ref-3]; precursor to King's Quest
 - **1981** — [[1981 - Hi-Res Adventure 3 - Cranston Manor|Cranston Manor]] — Significance: Expanded adventure format
 - **1981** — [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Ulysses and the Golden Fleece]] — Significance: Greek mythology setting
-- **1982** — [[1982 - Hi-Res Adventure 5 - Time Zone|Time Zone]] — Significance: Massive 12-disk game spanning thousands of years[^ref-3]
+- **1982** — [[1982 - Hi-Res Adventure 5 - Time Zone|Time Zone]] — Significance: Massive game filling both sides of six floppy disks, spanning thousands of years[^ref-3][^ref-36]
 - **1983** — [[1983 - Hi-Res Adventure 6 - The Dark Crystal|The Dark Crystal]] — Significance: Licensed adaptation; Jim Henson personally approached Ken Williams[^ref-3]
 
 The Wizard and the Princess improved on Mystery House with color graphics and dithering[^ref-3]. Its success—60,000 copies sold—led to hiring more employees for distribution and programming.
@@ -250,3 +250,4 @@ Following Microsoft's acquisition of Activision Blizzard in October 2023, the Si
 [^ref-33]: [Wikipedia – Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) – 3D remake "released by Cygnus Entertainment as its first title on January 19, 2023"
 [^ref-34]: [The Virtual Broomcloset – Mark Crowe interview (2000)](https://www.wiw.org/~jess/markcrowe.html) – Crowe on joining Sierra: "Set the dial to 1982!"
 [^ref-35]: [Wikipedia – Mark Crowe](https://en.wikipedia.org/wiki/Mark_Crowe) – moved to Dynamix after Space Quest IV; left after "major layoffs at Sierra and Dynamix in 1999"
+[^ref-36]: [Internet Archive – Time Zone manual](https://archive.org/stream/vgmuseum_sierra_timezone-manual/timezone-manual_djvu.txt) – "TIME ZONE was originally intended to be on five or six disks (one side only)… TIME ZONE now takes up both sides of six disks."
