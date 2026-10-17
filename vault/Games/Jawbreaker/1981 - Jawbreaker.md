@@ -5,19 +5,19 @@ developer: On-Line Systems
 designer: [John Harris, Olaf Lubeck]
 publisher: On-Line Systems
 genre: Action
-platforms: [Atari 8-bit, Apple II, Atari 2600, C64, VIC-20, TI-99/4A]
+platforms: [Atari 8-bit, Apple II, Atari 2600]
 series: Jawbreaker
 engine: Machine Language
 protagonist: Animated Jaws/Teeth
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-16'
 description: Jawbreaker is a 1981 maze-chase action game by John Harris for the Atari
   8-bit computers, published by On-Line Systems, later Sierra On-Line.
 tags: [1980s, jawbreaker, sierra]
 ---
 # Jawbreaker
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -32,7 +32,7 @@ Jawbreaker's history is intertwined with one of the early video game industry's 
 > **Designer:** John Harris, Olaf Lubeck[^ref-5]
 > **Publisher:** On-Line Systems, Tigervision (Atari 2600)[^ref-8]
 > **Engine:** Machine Language[^ref-6]
-> **Platforms:** Atari 8-bit, Apple II, Atari 2600, Commodore 64, VIC-20, TI-99/4A[^ref-2]
+> **Platforms:** Atari 8-bit, Apple II[^ref-10], Atari 2600[^ref-5][^ref-8] (the Commodore 64, VIC-20 and TI-99/4A versions are catalogued by MobyGames as [[1982 - Jawbreaker II|Jawbreaker II]][^ref-7]; Wikipedia notes they were "sold confusingly as both Jawbreaker and Jawbreaker II"[^ref-5])
 > **Release Year:** 1981
 > **Series:** Jawbreaker
 > **Protagonist:** Animated Jaws/Teeth
