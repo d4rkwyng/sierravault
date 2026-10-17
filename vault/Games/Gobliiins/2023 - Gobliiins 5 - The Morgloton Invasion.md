@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Adventure Game Studio
 protagonist: Oups, Asgard, and Ignatius
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-12'
+last_updated: '2026-10-16'
 description: 'Gobliiins 5: The Morgloton Invasion (stylized as GOBLiiiNS 5) is a 2D
   point-and-click adventure game released in 2023, marking the long-awaited return
   of...'
@@ -18,13 +18,13 @@ tags: [2020s, adventure, coktel, gobliiins, sierra]
 ---
 # Gobliiins 5: The Morgloton Invasion
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
 Gobliiins 5: The Morgloton Invasion (stylized as GOBLiiiNS5) is a 2D point-and-click adventure game released in 2023, the first new entry in the Gobliiins series since the 3D Gobliiins 4 of 2009[^ref-1][^ref-25]. It was made independently by [[Pierre Gilhodes]], the artist and co-creator behind the original Coktel Vision games, and self-published under his Schnibble Productions label; Coktel Vision itself had long since closed, and neither it nor Sierra had any part in this game[^ref-5][^ref-11][^ref-20]. Development was crowdfunded through campaigns on Ulule and Kickstarter in 2022[^ref-2][^ref-26]. The game brings back the three goblins of the 1991 original—Oups, Asgard, and Ignatius—on a mission to find the source of a magic ray that turns people into anthropomorphic potatoes[^ref-1].
 
-Following the series' naming convention, the three 'i's in the title match the number of goblins the player controls[^ref-3]. The player directs one goblin at a time and switches between them, with each goblin bringing different abilities to the puzzles[^ref-1][^ref-5]. The game was first released on itch.io in May 2023 (May 2 per MobyGames) and on Steam on July 20, 2023[^ref-1][^ref-8][^ref-20]. Unlike the poorly received 3D Gobliiins 4, it returns to the series' 2D look, with hand-drawn art at 640×480[^ref-2][^ref-5].
+Following the series' naming convention, the three 'i's in the title match the number of goblins the player controls[^ref-3]. The player directs one goblin at a time and switches between them, with each goblin bringing different abilities to the puzzles[^ref-1][^ref-5]. The game was first released on itch.io in May 2023 (May 2 per MobyGames) and on Steam on July 20, 2023[^ref-1][^ref-8][^ref-15][^ref-20]. Unlike the poorly received 3D Gobliiins 4, it returns to the series' 2D look, with hand-drawn art at 640×480[^ref-2][^ref-5].
 
 The game was largely a solo effort, with Gilhodes handling the scenario, graphics, animation and programming in the Adventure Game Studio engine[^ref-8]. Fans on forums noted that he was not a programmer by trade[^ref-6]. As one itch.io commenter put it, "I honestly can't believe I got to play a new Gobliiins game after 30 years - very very happy!"[^ref-7]
 
@@ -141,7 +141,7 @@ Gilhodes released post-launch updates, for example fixing a major bug in Part 3'
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Initial | May 2, 2023 | itch.io | First public release[^ref-8] |
+| Initial | May 2, 2023 | itch.io | First public release[^ref-8][^ref-15] |
 | Steam Release | July 20, 2023 | Steam | Steam launch with demo[^ref-20] |
 | Patches | Ongoing | All | Bug fixes; F5 quick-save removed[^ref-7] |
 
@@ -212,7 +212,7 @@ Its return to 2D after the poorly received 3D Gobliiins 4 was welcomed by review
 [^ref-10]: [itch.io – Gobliiins 5 Official Page](https://pierre-gilhodes.itch.io/gobliiins5) – pricing, languages, winsetup.exe, ratings, free demo
 [^ref-11]: [Virtual Moose – Intro Guide to Gobliiins](https://virtualmoose.org/2023/06/02/an-intro-guide-to-gobliiins/) – series overview, puzzle vs. plot focus, Coktel shut down
 [^ref-14]: [Walkthrough King – Gobliiins 5](https://www.walkthroughking.com/text/gobliiins5.aspx) – full four-part walkthrough, level names, story elements
-[^ref-15]: [Indie Retro News – Gobliiins 5 Announcement](https://web.archive.org/web/20250822160347/https://www.indieretronews.com/2023/05/gobliiins-5-retro-classic-gobliiins-is.html) – level count, return to 2D
+[^ref-15]: [Indie Retro News – Gobliiins 5 Announcement](https://web.archive.org/web/20250822160347/https://www.indieretronews.com/2023/05/gobliiins-5-retro-classic-gobliiins-is.html) – May 4, 2023: "as of right now, you can download and play", linking the itch.io page; level count, return to 2D
 [^ref-16]: [RPG Codex Forums – Player Reviews](https://rpgcodex.net/forums/threads/gobliiins-5-by-pierre-gilhodes-woodruff-soon%E2%84%A2.111621/page-3) – gameplay length, quality assessment, technical observations
 [^ref-17]: [Steam user review – Gobliiins 5 ("What an amazing game")](https://steamcommunity.com/profiles/76561198046782865/recommended/2475980/) – user review
 [^ref-18]: [GOG.com – Gobliiins 5 Wishlist](https://www.gog.com/wishlist/games/gobliiins_5) – community wishlist comments
