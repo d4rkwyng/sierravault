@@ -10,14 +10,14 @@ series: Shivers
 engine: SCI32
 protagonist: Unnamed teenager
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-17'
 description: Shivers is a first-person horror adventure game released by Sierra On-Line
   in 1995, a Myst-style puzzle adventure set in a haunted museum...
 tags: [1990s, adventure, sci, shivers, sierra]
 ---
 # Shivers
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 17, 2026</small>
 
 ## Overview
 
@@ -156,7 +156,7 @@ The randomization system changes item locations and some puzzle states between g
 
 ### Cut Content
 
-Significant unused content has been documented by researchers at The Cutting Room Floor[^ref-29]:
+Significant unused content has been documented by researchers at The Cutting Room Floor:[^ref-29]
 
 - **Unused cursors:** An early cursor using a hand rather than the "sword" used in later revisions
 - **Alternate room shots:** Different lighting and object arrangements for several locations
@@ -293,7 +293,7 @@ Players have remained fond of it—it holds an 8.4/10 user rating on IMDb and a 
 [^ref-16]: [The Spoiler – Shivers Walkthrough](https://www.justadventure.com/walkthrough/shivers/) – point system, Easter eggs, version differences
 [^ref-17]: [Web Archive – PC Gamer Review](https://web.archive.org/web/20000226082838/http://www.pcgamer.com/reviews/940.html) – 84% score, Steve Poole review
 [^ref-18]: [Web Archive – PC Games Magazine Review](https://web.archive.org/web/19961018113737/http://www.pcgamesmag.com/games/Feb96/shivers296.html) – Hermann Peterscheck review, sound design praise
-[^ref-19]: [GameSpot – Shivers Review](http://www.gamespot.com/pc/adventure/shivers/review.html) – 6.6/10 score, Ron Dulin review
+[^ref-19]: [GameSpot – Shivers Review (archived 2003)](https://web.archive.org/web/20030626065940/http://www.gamespot.com/pc/adventure/shivers/review.html) – 6.6/10 score, Ron Dulin review
 [^ref-20]: [Jeuxvideo.com – Shivers Test](http://www.jeuxvideo.com/articles/0001/00011964-shivers-test.htm) – 17/20 score, French review
 [^ref-21]: [Web Archive – Quandary Review](https://web.archive.org/web/20080611181726/http://www.quandaryland.com/jsp/dispArticle.jsp?index=127) – Rosemary Young review, system requirements
 [^ref-22]: [Coming Soon Magazine – Shivers Review](http://www.csoon.com/issue12/shivers.htm) – 89% score, graphics praise
