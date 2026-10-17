@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: SCI2.1
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-16'
 description: 'The Beast Within: A Gabriel Knight Mystery is a 1995 full-motion video
  adventure game by Sierra On-Line. Jimmy Maher wrote that "at its best and judged in
  the context of its time, it was one of the most impressive interactive narratives
@@ -19,7 +19,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # The Beast Within: A Gabriel Knight Mystery
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -111,7 +111,7 @@ The production required three separate trips to Germany during the second half o
 
 The Beast Within represented a significant technical achievement in FMV gaming, with actors performing in front of a blue screen and chroma-keyed over the retouched photographic backgrounds[^ref-15]. The game included 763 video files[^ref-16] and was equivalent to five feature films in scope, with a 600-page script[^ref-17]. Sierra used a custom video player instead of standard Quicktime technology for the Macintosh version[^ref-12].
 
-Robert Holmes composed the main themes, with Jay D. Usher, and wrote the music for a scene from the fictional opera "Der Fluch Des Engelhart" ("The Curse of Engelhart"); Jane Jensen wrote the libretto[^ref-12][^ref-16].
+Robert Holmes composed the main themes and wrote the music for a scene from the fictional opera "Der Fluch Des Engelhart" ("The Curse of Engelhart"); Jane Jensen wrote the libretto[^ref-12][^ref-16]. Jay D. Usher, the director of music/audio, is credited with additional orchestration and arrangement[^ref-70].
 
 Roughly 90 percent of the script was shot on the sound stage, with only a few scenes filmed on location[^ref-17]; the fictional Rittersberg was modelled on Rothenburg ob der Tauber[^ref-17].
 
@@ -216,3 +216,4 @@ The game reached fourth place among US computer-game sales in January 1996[^ref-
 [^ref-67]: [GOG – Gabriel Knight 2: The Beast Within](https://www.gog.com/en/game/gabriel_knight_2_the_beast_within) – - GOG release date February 23, 2010 (gogReleaseDate)
 [^ref-68]: [SteamDB – The Beast Within: A Gabriel Knight Mystery](https://steamdb.info/app/496760/) – - Steam release date 29 August 2016
 [^ref-69]: [PC Games – Gabriel Knight 2: FMV, Schauspiel & deutsche Fassung](https://www.pcgames.de/Gabriel-Knight-2-The-Beast-Within-Spiel-2918/Specials/Retro-Adventure-Legende-1483735/4/) – - German retro feature on the localization: main characters in standard German, locals in Bavarian dialect
+[^ref-70]: [MobyGames – The Beast Within credits (DOS), Wayback February 2025](https://web.archive.org/web/20250214133442/https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/credits/dos/) – - "Main Themes Composed by Robert Holmes"; "Additional Orchestration and Arrangement by Jay D. Usher"
