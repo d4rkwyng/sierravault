@@ -10,14 +10,14 @@ series: King's Quest
 engine: 3Space (modified)
 protagonist: Connor
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-16'
 description: 'King''s Quest: Mask of Eternity represents a dramatic departure for
   Sierra''s flagship adventure series, marking the first time in the franchise''s...'
 tags: [1990s, adventure, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest: Mask of Eternity
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ Its commercial performance is disputed: Roberta Williams claimed in 1999 that it
 > **Developer:** Sierra Studios[^ref-1]
 > **Design/Writing:** [[Roberta Williams]], [[Mark Seibert]][^ref-1]
 > **Publisher:** Sierra Studios[^ref-1]
-> **Engine:** 3Space (modified from flight simulator engine)[^ref-1]
+> **Engine:** 3Space (modified from flight simulator engine)[^ref-49]
 > **Platforms:** Windows 95/98[^ref-32]
 > **Release Year:** 1998
 > **Series:** King's Quest
@@ -364,3 +364,4 @@ Despite its flaws, some players discovered genuine enjoyment in the game's hybri
 [^ref-46]: [Wikipedia – Half-Life](https://en.wikipedia.org/wiki/Half-Life_(video_game)) – November 19, 1998 release date
 [^ref-47]: [Wikipedia – Quest for Glory V: Dragon Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_V:_Dragon_Fire) – December 1998 release (IGN, December 7, 1998: "should be hitting store shelves this week")
 [^ref-48]: [MobyGames – King's Quest: Mask of Eternity Credits (Windows)](https://www.mobygames.com/game/136/kings-quest-mask-of-eternity/credits/windows/) – voice cast and voice recording credits
+[^ref-49]: [Next Generation #30 (June 1997), Internet Archive scan](https://archive.org/details/NextGeneration30Jun1997) – Mask of Eternity feature: "ThreeSpace is the 3D engine that Dynamix, a Sierra subsidiary, contributed to the project"; Williams: "Dynamix uses ThreeSpace for their flight simulators"
