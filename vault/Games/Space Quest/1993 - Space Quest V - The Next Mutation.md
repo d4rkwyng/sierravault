@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI1.1
 protagonist: Roger Wilco
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-12'
+last_updated: '2026-10-16'
 description: 'Space Quest V: Roger Wilco – The Next Mutation is a graphic adventure
   game developed by Dynamix and published by Sierra On-Line, released on February
   5, 1993 for MS-DOS.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, dynamix, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest V: The Next Mutation
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 Space Quest V: Roger Wilco – The Next Mutation is a graphic adventure game developed by [[Dynamix]] and published by [[Sierra On-Line]], released on February 5, 1993 for MS-DOS[^ref-5][^ref-18].
@@ -125,7 +125,7 @@ A CD-ROM version with voice acting was planned and announced in the official hin
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | February 5, 1993 | DOS | Original floppy release[^ref-1][^ref-18] |
+| 1.03; 1.04 (floppies: 1.01)[^ref-40] | February 5, 1993 | DOS | Original floppy release[^ref-1][^ref-18] |
 | CD-ROM | Cancelled | — | Planned "talkie" version with voice acting never released[^ref-1][^ref-4][^ref-28] |
 | Steam | September 1, 2006 | Windows | Space Quest Collection[^ref-9] |
 | GOG | February 11, 2010 | Windows (ScummVM) | Space Quest 4+5+6[^ref-6][^ref-12] |
@@ -281,3 +281,4 @@ This game has been included in the following collections:
 [^ref-37]: [ScummVM – Compatibility: Space Quest V](https://www.scummvm.org/compatibility/2026.3.0/sci:sq5/) – support level "Excellent", no known issues
 [^ref-38]: [Wikipedia – Space Quest 6](https://en.wikipedia.org/wiki/Space_Quest_6) – Josh Mandel designed the majority of SQ6, left before completion; Sierra asked Scott Murphy to complete it
 [^ref-39]: [Set Side B – Space Quest Secrets](https://setsideb.com/space-quest-secrets/) – summary of Space Quest Historian's video: SQ5 aptitude test last-choice answers, end-game second chance
+[^ref-40]: [ScummVM Wiki – Sierra Game Versions (archived May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – SCI1.1 interpreter 1.001.068: "Space Quest V 1.03" and "Space Quest V 1.04 (floppies: 1.01) 1993-01-05" (build date, not release date)
