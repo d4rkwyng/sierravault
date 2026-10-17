@@ -5,15 +5,15 @@ birth_year: 1960
 death_year: null
 notable_games: ["King's Quest V", "King's Quest VI", "Phantasmagoria", "King's Quest: Mask of Eternity"]
 companies: ["Sierra On-Line", "Gentle Revolution Software", "Breakaway Games"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-16"
 ---
 # Mark Seibert
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
-Mark Seibert (born 1960 in California) is an American musician, composer and producer who was Sierra On-Line's music director in the early 1990s and later produced games including King's Quest VII, Phantasmagoria and King's Quest: Mask of Eternity.[^ref-1][^ref-18][^ref-20] He joined Sierra as a musician and music editor on King's Quest IV: The Perils of Rosella, and MobyGames credits him on 54 games.[^ref-1][^ref-5][^ref-2] He composed "Girl in the Tower," the love theme of [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]], with lyrics by Jane Jensen.[^ref-19]
+Mark Seibert (born 1960 in California) is an American musician, composer and producer who was Sierra On-Line's music director in the early 1990s and later produced games including King's Quest VII, Phantasmagoria and King's Quest: Mask of Eternity.[^ref-1][^ref-18][^ref-20] He joined Sierra as a musician and music editor on King's Quest IV: The Perils of Rosella, and MobyGames' credit sheet (September 2022 capture) lists him on more than 50 games.[^ref-2] He composed "Girl in the Tower," the love theme of [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]], with lyrics by Jane Jensen.[^ref-19]
 
 ## Career
 
