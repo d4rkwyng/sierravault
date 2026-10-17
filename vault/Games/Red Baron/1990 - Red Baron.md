@@ -7,10 +7,10 @@ publisher: Sierra On-Line
 genre: Flight Simulation
 platforms: [DOS, Amiga, Mac]
 series: Red Baron
-engine: Proprietary
+engine: 3-Space
 protagonist: Player-created WWI pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-13'
+last_updated: '2026-10-16'
 composer: [Cayanie Music]
 description: Red Baron is a World War I flight combat simulation created and developed
   by Dynamix in 1990, placing players in the pilot's seat of actual World War I...
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, red-baron, sierra, simulation]
 ---
 # Red Baron
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -32,7 +32,7 @@ The game featured 28 different aircraft and offered both single missions and a f
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** [[Damon Slye]][^ref-4]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** Proprietary; flight model programmed by Damon Slye[^ref-13]
+> **Engine:** 3-Space (Dynamix); designer Damon Slye names Red Baron among its games[^ref-31]; flight model programmed by Damon Slye[^ref-13]
 > **Platforms:** MS-DOS, Amiga, Macintosh[^ref-1]
 > **Release Year:** 1990
 > **Series:** Red Baron / Great War Planes
@@ -281,3 +281,4 @@ Sierra considered it the first in its Aces line of simulations, whose combined s
 [^ref-27]: [Game Developer – Mad Otter Acquires Red Baron](https://www.gamedeveloper.com/game-platforms/mad-otter-acquires-i-red-baron-i-franchise-calls-for-source-code) – source code bounty
 [^ref-29]: [Internet Archive – Red Baron Manual](https://archive.org/stream/Red_Baron_-_Manual/Red_Baron_-_Manual_djvu.txt) – services, ranks, mission types, flight models, realism settings
 [^ref-30]: [MobyGames – Red Baron Patches](https://www.mobygames.com/game/1766/red-baron/patches/) – VER 1.1B3 joystick driver patch, May 1992
+[^ref-31]: [Sierra Chest – Engine: 3-Space (Wayback 2019-05-12)](https://web.archive.org/web/20190512155308/http://sierrachest.com/index.php?a=engines&id=30) – Damon Slye: "I designed the Dynamix 3Space engine, along with David McClurg. It was used in Stellar 7, … A10 Tank Killer, Red Baron, Aces of the Pacific…"
