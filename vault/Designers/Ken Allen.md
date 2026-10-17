@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Space Quest I VGA", "Space Quest IV", "The Colonel's Bequest", "Descent", "Ringworld: Revenge of the Patriarch"]
 companies: ["Sierra On-Line", "Tsunami Media", "Interplay Productions", "Parallax Software", "Westwood Studios", "Atari", "THQ", "Midway Games", "Trion Worlds"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-16"
 ---
 # Ken Allen
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -79,7 +79,7 @@ Over a single weekend, Allen composed six and a half minutes of orchestral music
 
 ### King's Quest V: Absence Makes the Heart Go Yonder (1990)
 
-Allen worked on the music and sound of King's Quest V alongside Mark Seibert.[^ref-7] MobyGames credits him with sound effects on the DOS version and lists him among the uncredited composers of the NES port.[^ref-18]
+Allen worked on the music and sound of King's Quest V alongside Mark Seibert.[^ref-7] MobyGames credits him as a composer and for sound effects on the DOS version, and lists him among the uncredited composers of the NES port.[^ref-18]
 
 ### Space Quest I VGA Remake (1991)
 
