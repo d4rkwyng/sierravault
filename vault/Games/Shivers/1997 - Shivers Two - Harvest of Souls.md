@@ -8,7 +8,7 @@ genre: Adventure
 platforms: [Windows]
 series: Shivers
 engine: SCI
-protagonist: Trip Cyclone band member (unnamed)
+protagonist: Unnamed friend of the band Trip Cyclone
 sierra_lineage: Core Sierra
 last_updated: '2026-10-16'
 description: 'Shivers Two: Harvest of Souls is a horror adventure game developed and
@@ -33,7 +33,7 @@ The game incorporates Native American mysticism and supernatural horror elements
 > **Platforms:** Windows[^ref-18]
 > **Release Year:** 1997[^ref-18]
 > **Series:** Shivers
-> **Protagonist:** Trip Cyclone band member
+> **Protagonist:** Unnamed friend of the band Trip Cyclone[^ref-9][^ref-17]
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
