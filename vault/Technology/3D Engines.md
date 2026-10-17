@@ -1,126 +1,120 @@
 ---
 title: "3D Engines"
 type: technology
-last_updated: "2026-10-09"
-description: "The custom 3D engines used by Sierra-published games — Dynamix's 3Space, Papyrus's NASCAR Racing engine, Relic's Homeworld engine, Valve's GoldSrc partnership, and the Unreal Engine 3 era of the 2015 reboot."
+last_updated: "2026-10-16"
+description: "The 3D engines used by Sierra-published games — Dynamix's 3Space, Darkstar and Torque, Papyrus's in-house racing engines, Relic's Homeworld engines, Valve's GoldSrc, Monolith's LithTech, and Unreal Engine 3 for the 2015 King's Quest."
 tags: [technology, 3d-engines, dynamix, papyrus, relic, valve, unreal]
 ---
 
 # 3D Engines
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
-After the SCI engine line ended in 1998, Sierra's catalog ran on a diverse stable of 3D engines — most developed by acquired or partner studios rather than by Sierra itself. This page traces the major non-SCI 3D engines used in the Sierra-extended catalog, their distinguishing technical features, and the games each powered. For pre-1998 SCI-engine technical detail, see [[Engine History|Engine History]] and [[Sierra Creative Interpreter]].
+Alongside its in-house 2D adventure engines (AGI, and SCI, whose last version shipped in 1996[^ref-15]), Sierra's catalog ran on a diverse stable of 3D engines, most developed by acquired or partner studios rather than by Sierra itself. This page traces the major 3D engines used in the Sierra-extended catalog and the games each powered. For SCI-engine technical detail, see [[Engine History]] and [[Sierra Creative Interpreter]].
 
-Unlike the unified SCI engine generations (which Sierra developed in-house and shipped across most of its 1988–1998 adventure catalog), the post-SCI 3D engines were one-or-two-franchise specialists. Each engine reflects its studio's design priorities: Dynamix's 3Space prioritized flight simulation; Papyrus's NASCAR engine prioritized vehicle physics; Relic's Homeworld engine prioritized space-fleet rendering; Valve's GoldSrc prioritized first-person-shooter responsiveness; Unreal Engine 3 prioritized cinematic episodic narrative.
+Unlike the SCI generations, which Sierra developed in-house and shipped across most of its adventure catalog, these 3D engines were one- or two-franchise specialists: Dynamix's 3Space and its successors served flight, mech and shooter games; Papyrus's engines served racing simulation; Relic's served *Homeworld*; Valve's GoldSrc served *Half-Life* and its spin-offs.
 
 ---
 
-## Dynamix 3Space (1989–2001)
+## Dynamix 3Space (1986–1998)
 
 **Developer:** [[Dynamix]] (Eugene, Oregon).
-**Era:** 1989–2001, longest single Sierra-era 3D engine.
 
-3Space was Dynamix's proprietary 3D engine, originally built for flight simulators and continuously refined across more than a decade of releases. The engine handled real-time-rendered 3D environments with software rasterization in its early versions, then added 3Dfx Glide and Direct3D hardware acceleration in the mid-1990s.[^ref-1]
+3Space was Dynamix's 3D engine. Damon Slye designed it with David McClurg, and Sierra Chest records that it was first developed for *Stellar 7*.[^ref-16] Slye names these games as using it: "Stellar 7, Arcticfox, Abrams Battletank, Nova9, A10 Tank Killer, Red Baron, Aces of the Pacific, Aces over Europe, David Wolf Secret Agent, Mechwarrior, MetalTech: EarthSiege, EarthSiege 2, Silent Thunder, Red Baron II & Red Baron 3D."[^ref-16] Sierra Chest names two versions: 3-Space 1.0 (*Stellar 7*) and 3-Space 2.0 (*Red Baron II*, *Red Baron 3D*).[^ref-16]
 
-### 3Space-rendered games
+### 3Space games
 
 | Year | Title | Notes |
 |------|-------|-------|
-| 1989 | [[1990 - Red Baron\|Red Baron]] | Flight sim — early 3Space showcase |
-| 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Flight/tank combat |
+| 1986 | [[1986 - Arcticfox\|Arcticfox]] | Named by Slye[^ref-16] |
+| 1989 | [[1989 - Abrams Battle Tank\|Abrams Battle Tank]] | Named by Slye[^ref-16] |
+| 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Flight combat |
+| 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Named by Slye[^ref-16] |
 | 1989 | [[1989 - MechWarrior\|MechWarrior]] | BattleTech mech combat (Activision-published) |
-| 1990 | [[1990 - Stellar 7\|Stellar 7]] | Tank-combat reissue |
+| 1990 | [[1990 - Red Baron\|Red Baron]] | WWI flight sim; DOS release December 1990[^ref-17] |
+| 1990 | [[1990 - Stellar 7\|Stellar 7]] | Tank-combat remake; 3-Space 1.0 game[^ref-16] |
+| 1991 | [[1991 - Nova 9 - The Return of Gir Draxon\|Nova 9]] | Named by Slye[^ref-16] |
 | 1992 | [[1992 - Aces of the Pacific\|Aces of the Pacific]] | WWII flight |
-| 1992 | [[1992 - Aces of the Pacific - WWII 1946\|Aces of the Pacific: WWII: 1946]] | Aces of the Pacific expansion |
+| 1992 | [[1992 - Aces of the Pacific - WWII 1946\|Aces of the Pacific: WWII: 1946]] | Expansion; in Sierra Chest's 3-Space group[^ref-16] |
+| 1992 | [[1992 - Red Baron - Mission Builder\|Red Baron: Mission Builder]] | In Sierra Chest's 3-Space group[^ref-16] |
 | 1993 | [[1993 - Aces Over Europe\|Aces Over Europe]] | WWII flight |
-| 1994 | [[1994 - Aces of the Deep\|Aces of the Deep]] | Submarine sim |
 | 1994 | [[1994 - Metaltech - Earthsiege\|Metaltech: Earthsiege]] | Mech combat |
 | 1996 | [[1996 - Earthsiege 2\|Earthsiege 2]] | Mech combat sequel |
-| 1996 | [[1996 - MissionForce - Cyberstorm\|MissionForce: CyberStorm]] | Turn-based mech tactics |
-| 1998 | [[1998 - Red Baron 3D\|Red Baron 3D]] | Late-era 3Space with hardware acceleration |
-| 1998 | [[1998 - Starsiege - Tribes\|Starsiege: Tribes]] | Multiplayer FPS — final major 3Space evolution |
-| 1999 | [[1999 - Starsiege\|Starsiege]] | Mech action |
-| 2001 | [[2001 - Tribes 2\|Tribes 2]] | Multiplayer FPS (Dynamix's last title) |
+| 1996 | [[1996 - Silent Thunder - A-10 Tank Killer II\|Silent Thunder: A-10 Tank Killer II]] | Named by Slye[^ref-16] |
+| 1997 | [[1997 - Red Baron II\|Red Baron II]] | 3-Space 2.0[^ref-16] |
+| 1998 | [[1998 - Red Baron 3D\|Red Baron 3D]] | 3-Space 2.0[^ref-16] |
 
-### Mask of Eternity (1998) — modified 3Space
+Sierra Chest also files [[1993 - Betrayal at Krondor|Betrayal at Krondor]] in its 3-Space group, though Slye's list does not name it.[^ref-16] *Aces of the Deep* and *MissionForce: CyberStorm* are not in Slye's list or the 3-Space group; Sierra Chest lists *Aces of the Deep* under "Unknown/unnamed" engines.[^ref-18]
 
-[[1998 - King's Quest - Mask of Eternity|Mask of Eternity]] used a modified version of 3Space — its flight-sim origins were ill-suited to adventure-game gameplay and contributed to the title's troubled production. The engine was never reused after this single repurposing.[^ref-2]
+### Mask of Eternity (1998) — adapted ThreeSpace
 
-### Technical evolution
-
-3Space saw three major generations:
-
-- **3Space I** (1989–1992): Software-rendered polygons, fixed-function pipeline, low-resolution.
-- **3Space II** (1993–1996): SVGA support, more detailed terrain, primitive lighting.
-- **3Space III** (1997–2001): 3Dfx Glide / Direct3D hardware acceleration, real-time terrain LOD, networked multiplayer scaling for *Tribes*.[^ref-3]
-
-The engine's *Tribes* iteration (1998) is widely credited with founding the jet-pack-shooter subgenre and influenced *Halo*, *Call of Duty: Modern Warfare*'s vertical movement, and many subsequent FPS titles.[^ref-4]
+[[1998 - King's Quest - Mask of Eternity|Mask of Eternity]] was built on the engine. *Next Generation* reported in June 1997 that "ThreeSpace is the 3D engine that Dynamix, a Sierra subsidiary, contributed to the project", and that adapting it took a long process: Roberta Williams explained that "Dynamix uses ThreeSpace for their flight simulators, and the technology was optimized mostly for looking down from way up high."[^ref-2]
 
 ---
 
-## Papyrus NASCAR Racing engine (1993–2003)
+## Dynamix Darkstar and Torque (1998–2001)
+
+Dynamix's later shooters did not use 3Space. PCGamingWiki lists [[1998 - Starsiege - Tribes|Starsiege: Tribes]] (first release December 23, 1998) and [[1999 - Starsiege|Starsiege]] (March 24, 1999) as games on Dynamix's **Darkstar** engine.[^ref-19] *Tribes* gave players a jetpack that "allows them to accelerate into the air until the armor's energy is used up".[^ref-4]
+
+[[2001 - Tribes 2|Tribes 2]] (2001) ran on the **Torque** engine, which was "originally developed by Dynamix for the 2001 first-person shooter Tribes 2" and later maintained by GarageGames.[^ref-20]
+
+---
+
+## Papyrus racing engines (1989–2003)
 
 **Developer:** [[Papyrus Design Group]] (Watertown, Massachusetts).
-**Era:** 1993–2003.
 
-Papyrus built a custom racing-simulation engine for *IndyCar Racing* (1993) and refined it across the *NASCAR Racing* series through 2003. The engine prioritized vehicle-physics fidelity — weight transfer, tire wear, aerodynamic drafting, draft-detachment — and was widely considered the most physically-accurate racing engine of its era.[^ref-5]
+Papyrus built its own simulation engines for its *IndyCar Racing*, *NASCAR Racing* and *Grand Prix Legends* games. No source gives them consistent names: Sierra Chest lists IndyCar Racing 2 and Grand Prix Legends under "Unknown/unnamed" engines.[^ref-18] Papyrus is best known for "realistic sim racing games based on the NASCAR and IndyCar leagues, as well as the unique Grand Prix Legends".[^ref-5]
 
-### Papyrus engine games
+### Papyrus games
 
-| Year | Title | Engine generation |
-|------|-------|-------------------|
-| 1993 | [[1993 - IndyCar Racing\|IndyCar Racing]] | NR1 |
-| 1994 | [[1994 - NASCAR Racing\|NASCAR Racing]] | NR1 |
-| 1995 | [[1995 - IndyCar Racing II\|IndyCar Racing II]] | NR1.5 |
-| 1996 | [[1996 - NASCAR Racing 2\|NASCAR Racing 2]] | NR1.5 |
-| 1998 | [[1998 - Grand Prix Legends\|Grand Prix Legends]] | NR2 — physics-fidelity peak |
-| 1999 | [[1999 - NASCAR Racing 3\|NASCAR Racing 3]] | NR2 |
-| 2001 | [[2001 - NASCAR Racing 4\|NASCAR Racing 4]] | NR2 |
-| 2002 | [[2002 - NASCAR Racing 2002 Season\|NASCAR Racing 2002 Season]] | NR2002 |
-| 2003 | [[2003 - NASCAR Racing 2003 Season\|NASCAR Racing 2003 Season]] | NR2003 — peak of the engine |
+| Year | Title |
+|------|-------|
+| 1989 | [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500: The Simulation]] |
+| 1993 | [[1993 - IndyCar Racing\|IndyCar Racing]] |
+| 1994 | [[1994 - NASCAR Racing\|NASCAR Racing]] |
+| 1996 | [[1995 - IndyCar Racing II\|IndyCar Racing II]] (DOS, Windows and Mac, 1996)[^ref-21] |
+| 1996 | [[1996 - NASCAR Racing 2\|NASCAR Racing 2]] |
+| 1997 | [[1997 - CART Racing\|CART Racing]] |
+| 1998 | [[1998 - Grand Prix Legends\|Grand Prix Legends]] |
+| 1999 | [[1999 - NASCAR Racing 3\|NASCAR Racing 3]] |
+| 2001 | [[2001 - NASCAR Racing 4\|NASCAR Racing 4]] |
+| 2002 | [[2002 - NASCAR Racing 2002 Season\|NASCAR Racing 2002 Season]] |
+| 2003 | [[2003 - NASCAR Racing 2003 Season\|NASCAR Racing 2003 Season]] |
 
 ### Technical legacy
 
-*Grand Prix Legends* (1998) is generally regarded as the most demanding racing simulation of its era — its tire-physics model alone required entire degrees of player understanding. Papyrus's simulation lineage continued after the studio closed: [[Dave Kaemmer]] began developing **iRacing** in 2004 on the acquired *NASCAR Racing 2003 Season* code, and it launched to the public in 2008.[^ref-6]
+*Motor Sport* calls *Grand Prix Legends* (1998) "the first game to authentically simulate vehicle dynamics".[^ref-22] Papyrus's simulation lineage continued after the studio closed: [[Dave Kaemmer]] began developing **iRacing** in 2004, and it launched in 2008. Sources differ on which code it started from — Wikipedia says the *NASCAR Racing 2003 Season* code acquired by FIRST.net,[^ref-6] while *Motor Sport* says "a modified version of the source code for NASCAR Racing 4".[^ref-22]
 
 ---
 
-## Relic Homeworld engine (1999–2003)
+## Relic Homeworld engines (1999–2003)
 
 **Developer:** [[Relic Entertainment]] (Vancouver, BC).
-**Era:** 1999–2003 under Sierra publishing; later 2015+ Gearbox era.
 
-Relic built a custom 3D engine specifically for *Homeworld* (1999) — the first major space RTS rendered in fully volumetric 3D space. The engine handled large fleet rendering, cinematic camera, and the "all-3D-axis" combat that distinguished *Homeworld* from prior space strategy games.[^ref-7]
+Relic built its own 3D engine for *Homeworld* (1999), its first game, in which the player's fleet "can travel in a fully three-dimensional space within each level rather than being limited to a two-dimensional plane".[^ref-7] *Homeworld: Cataclysm* (2000), developed by Barking Dog Studios, "uses essentially the same game engine as Homeworld".[^ref-23] *Homeworld 2* (2003) had its own engine.[^ref-24]
 
 ### Homeworld engine games
 
-| Year | Title | Notes |
-|------|-------|-------|
-| 1999 | [[1999 - Homeworld\|Homeworld]] | Founding entry; Sierra Studios published |
-| 2000 | [[2000 - Homeworld - Cataclysm\|Homeworld: Cataclysm]] | Barking Dog Studios co-development |
-| 2003 | [[2003 - Homeworld 2\|Homeworld 2]] | Refined UI, large-scale graphics upgrades |
+| Year | Title | Engine |
+|------|-------|--------|
+| 1999 | [[1999 - Homeworld\|Homeworld]] | Homeworld; published by Sierra Studios |
+| 2000 | [[2000 - Homeworld - Cataclysm\|Homeworld: Cataclysm]] | Homeworld; developed by Barking Dog Studios[^ref-23] |
+| 2003 | [[2003 - Homeworld 2\|Homeworld 2]] | Homeworld 2 |
 
-### Post-Sierra Homeworld engine
+### Post-Sierra Homeworld
 
-After Gearbox acquired the *Homeworld* IP in 2013, the engine was substantially rebuilt for [[2015 - Homeworld Remastered Collection|Homeworld Remastered Collection]] (2015) by Gearbox + Blackbird Interactive. [[2024 - Homeworld 3|Homeworld 3]] (2024) uses a modern Unreal Engine 4 implementation rather than a Relic-derived engine.[^ref-8]
-
-The 1999-2003 Relic engine influenced subsequent space strategy games (*Sins of a Solar Empire*, *Stellaris*, *Star Wars: Empire at War*) but was not directly reused outside the Homeworld franchise.
+Gearbox's [[2015 - Homeworld Remastered Collection|Homeworld Remastered Collection]] (2015) remasters both games, and "the Remastered versions are both built on the Homeworld 2 engine".[^ref-24] [[2024 - Homeworld 3|Homeworld 3]] (2024) uses Unreal Engine 4.[^ref-8]
 
 ---
 
-## Valve GoldSrc (1998–2002, Sierra-published)
+## Valve GoldSrc (1998–2004, Sierra-published)
 
 **Developer:** [[Valve Corporation]] (Bellevue, Washington).
-**Era:** 1998–2002 under Sierra publishing (Valve owns the engine).
 
-GoldSrc was Valve's heavily-modified fork of id Software's Quake engine, developed for [[1998 - Half-Life|Half-Life]] (1998). Sierra published *Half-Life* and the early expansions, though Valve retained engine ownership and IP. GoldSrc was widely considered a generational advance for FPS engines, primarily through:
-
-- **Scripted-sequence event system** — in-engine NPC behaviors that responded contextually rather than via cutscenes.
-- **Skeletal-animation system** replacing Quake's vertex-based animation.
-- **High-quality dynamic lighting** for the era.[^ref-9]
+GoldSrc is "a heavily modified version of id Software's Quake engine", which debuted in 1998 with [[1998 - Half-Life|Half-Life]].[^ref-9] It "supports skeletal animation, which allowed for more realistic body kinematics and facial expression animations than most other engines at the time".[^ref-9] Sierra published *Half-Life* and its early spin-offs, while Valve kept the engine.
 
 ### GoldSrc games published by Sierra
 
@@ -132,92 +126,97 @@ GoldSrc was Valve's heavily-modified fork of id Software's Quake engine, develop
 | 2000 | [[2000 - Counter-Strike\|Counter-Strike]] | Valve (community origin) / Sierra |
 | 2000 | [[2000 - Gunman Chronicles\|Gunman Chronicles]] | Rewolf / Sierra |
 | 2001 | [[2001 - Half-Life - Blue Shift\|Half-Life: Blue Shift]] | Gearbox / Sierra |
-| 2001 | [[2001 - Deathmatch Classic\|Deathmatch Classic]] | Valve / Sierra |
-| 2004 | [[2004 - Counter-Strike - Condition Zero\|Counter-Strike: Condition Zero]] | Ritual / Sierra |
+| 2004 | [[2004 - Counter-Strike - Condition Zero\|Counter-Strike: Condition Zero]] | Ritual Entertainment, Turtle Rock Studios and Valve; published by Sierra Entertainment and Valve[^ref-25] |
 
-After 2004 Valve took back Counter-Strike publishing and Sierra's Half-Life publishing arrangement ended.
+[[2001 - Deathmatch Classic|Deathmatch Classic]] (2001) is also a GoldSrc game, but its vault page gives Valve as publisher. Valve's publishing relationship with Sierra ended in 2005 after a legal dispute with Vivendi Universal Games; Vivendi agreed to end distribution of Valve's games on August 31, 2005.[^ref-26]
 
 ---
 
-## Monolith LithTech (1998–2007, Sierra-published era)
+## Monolith LithTech (2000–2005, Sierra-published)
 
 **Developer:** [[Monolith Productions]].
-**Era:** Sierra-published 1998–2003.
 
-LithTech was Monolith's proprietary FPS engine, used across multiple Sierra-published Monolith titles. The engine evolved through several generations and was licensed to other studios outside Sierra's catalog.[^ref-10]
-
-### LithTech games published by Sierra
+LithTech is a discontinued game engine "developed by Monolith Productions and comparable with the Quake and Unreal engines".[^ref-10] Monolith's Sierra-published LithTech games:
 
 | Year | Title | Notes |
 |------|-------|-------|
-| 1998 | Blood II: The Chosen | Monolith / Sierra |
-| 2000 | No One Lives Forever | Monolith / Sierra |
-| 2002 | No One Lives Forever 2 | Monolith / Sierra |
+| 2000 | [[2000 - No One Lives Forever\|No One Lives Forever]] | LithTech 2.2; Windows published by Fox Interactive, PlayStation 2 by Sierra Entertainment[^ref-27] |
+| 2002 | [[2002 - No One Lives Forever 2\|No One Lives Forever 2]] | LithTech Jupiter; Vivendi Universal Games under the Sierra brand, with Fox Interactive[^ref-28] |
 | 2003 | [[2003 - Contract J.A.C.K.\|Contract J.A.C.K.]] | Monolith / Sierra |
-| 2005 | F.E.A.R. | Monolith / Sierra-published (late era) |
+| 2005 | F.E.A.R. | Published by Vivendi Universal Games[^ref-29] |
 
-Monolith was acquired by Warner Bros. Interactive in 2004, after which subsequent LithTech development continued outside the Sierra catalog.[^ref-11]
-
----
-
-## Unreal Engine 3 (2015 King's Quest)
-
-**Developer:** Epic Games (licensed by The Odd Gentlemen).
-**Era:** 2015 reboot.
-
-The 2015 [[2015 - King's Quest|King's Quest]] reboot by The Odd Gentlemen used Unreal Engine 3 — the first time the King's Quest franchise had used a third-party licensed engine. UE3's strengths for the episodic-narrative format included:
-
-- **Cinematic camera and cutscene tools** — UE3's Matinee was well-suited to the episodic Telltale-style framing.
-- **Cross-platform support** — Windows, PlayStation 3/4, Xbox 360/One in one engine.
-- **Real-time cel-shading** — used for the storybook visual style.[^ref-12]
-
-The engine has been used elsewhere across the industry; this was its sole appearance in the Sierra-extended catalog.
+Monolith became part of Warner Bros. Interactive in 2004.[^ref-11]
 
 ---
 
-## Other custom engines in the Sierra catalog
+## Unreal Engine 3 (2009–2015)
 
-- **Impressions city-builder engine** — Custom 2D isometric engine for [[1992 - Caesar|Caesar]] (1992), [[1995 - Caesar II|Caesar II]], and later expanded to 3D for [[2006 - Caesar IV|Caesar IV]] under Tilted Mill.
-- **Coktel Vision adventure engine** — Custom 2D adventure platform for Gobliiins series, Inca, Lost in Time.
-- **3Space-Mask** — Modified 3Space for [[1998 - King's Quest - Mask of Eternity|Mask of Eternity]] (above).
-- **NASCAR-derived engines for Front Page Sports** — Dynamix used adapted physics from the NASCAR codebase in some FPS titles.
+**Developer:** Epic Games.
 
-For pure-2D adventure engines (AGI, SCI), see [[Engine History|Engine History]] which covers the unified 1980-1998 Sierra engine lineage.
+The 2015 [[2015 - King's Quest|King's Quest]] reboot by The Odd Gentlemen, published by Activision under the Sierra brand, ran on Unreal Engine 3,[^ref-30] as did [[2009 - Leisure Suit Larry - Box Office Bust|Leisure Suit Larry: Box Office Bust]] (2009).[^ref-31] *King's Quest* shipped for Windows, PlayStation 3 and 4, and Xbox 360 and One.[^ref-30]
+
+---
+
+## Other engines in the Sierra catalog
+
+- **Impressions city-builders** — [[1992 - Caesar|Caesar]] (1992) and [[1995 - Caesar II|Caesar II]] were Impressions games; Sierra Chest lists the Caesar games under "Unknown/unnamed" engines.[^ref-18] [[2006 - Caesar IV|Caesar IV]] was developed by Tilted Mill Entertainment, not Impressions, and "features a three-dimensional game engine".[^ref-32]
+- **Coktel Vision adventure engine** — Coktel's own 2D engine ran the Gobliiins series, Goblins Quest 3 and Lost in Time, which ScummVM supports through its Gob engine.[^ref-33] See [[Engine History]] for which Coktel games are confirmed.
+
+For the 2D adventure engines (AGI, SCI), see [[Engine History]].
 
 ---
 
 ## Modern preservation and engine availability
 
-- **Dynamix 3Space** — Closed-source; titles run via DOSBox or direct Windows compatibility shims. No modern open-source reimplementation exists.
-- **Papyrus NASCAR engine** — Closed-source; modern community runs NR2003 via Windows compatibility patches.
-- **Relic Homeworld engine** — Original was closed-source; Gearbox's 2015 *Remastered Collection* used a rebuilt engine. The community-driven **Homeworld Source Code Project** has done partial reverse-engineering work.[^ref-13]
-- **Valve GoldSrc** — Still actively maintained by Valve; backwards-compatible with Half-Life 1 + expansions.
-- **Monolith LithTech** — Closed source; Warner Bros. has not open-sourced; FEAR-era titles preserved via direct Windows compatibility.
-- **Unreal Engine 3** — Epic's source available under their UDK license; *King's Quest (2015)* requires its own engine binaries.
+- **Dynamix 3Space** — Closed-source; titles run via DOSBox or Windows compatibility shims.
+- **Papyrus engines** — Closed-source.
+- **Relic Homeworld engine** — Relic released the *Homeworld* source code in 2003, which "sparked unofficial ports to Mac OS X and Linux".[^ref-7] The HomeworldSDL source port, now continued as Gardens of Kadesh, builds on that release.[^ref-13]
+- **Valve GoldSrc** — Proprietary engine owned by Valve.[^ref-9]
+- **Monolith LithTech** — Proprietary and discontinued.[^ref-10]
+- **Unreal Engine 3** — Licensed engine; in November 2009 Epic released the Unreal Development Kit, "a free version of UE3's SDK".[^ref-12]
+
+ScummVM supports a few 3D adventure engines (for example *Grim Fandango* and *Myst III*), but none of the Sierra-published 3D games on this page.[^ref-33]
 
 ---
 
 ## See Also
 
-- [[Engine History|Engine History]] — Full Sierra engine lineage (AGI/SCI plus this 3D catalog)
+- [[Engine History]] — Full Sierra engine lineage (AGI/SCI plus this 3D catalog)
+- [[Engine Index]] — Engine assignments per game
 - [[Adventure Game Interpreter]], [[Sierra Creative Interpreter]] — Pre-3D Sierra engines
-- [[ScummVM]] — Preservation VM (focuses on AGI/SCI; doesn't support 3D engines)
+- [[ScummVM]] — Preservation VM
 - [[GOG and Steam Re-Releases]] — Where 3D-engine titles are currently available
 - [[Dynamix]], [[Papyrus Design Group]], [[Relic Entertainment]], [[Valve Corporation]], [[Monolith Productions]] — Developer profiles
 
 ## References
 
-[^ref-1]: [Wikipedia — Dynamix](https://en.wikipedia.org/wiki/Dynamix) — 3Space engine context
-[^ref-2]: [PCGamingWiki — Mask of Eternity](https://www.pcgamingwiki.com/wiki/King%27s_Quest:_Mask_of_Eternity) — Modified 3Space details
-[^ref-3]: [VOGONS — Dynamix engine evolution](https://www.vogons.org) — Community-documented engine generations
-[^ref-4]: [Wikipedia — Starsiege: Tribes](https://en.wikipedia.org/wiki/Starsiege:_Tribes) — Jet-pack-shooter influence
-[^ref-5]: [Wikipedia — Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — Engine philosophy
-[^ref-6]: [Wikipedia — iRacing](https://en.wikipedia.org/wiki/IRacing) — Kaemmer's post-Papyrus continuation; built on NR2003 code, launched August 26, 2008
-[^ref-7]: [Wikipedia — Homeworld](https://en.wikipedia.org/wiki/Homeworld) — Engine and 3D-space innovations
-[^ref-8]: [Wikipedia — Homeworld 3](https://en.wikipedia.org/wiki/Homeworld_3) — Unreal Engine 4 transition
-[^ref-9]: [Wikipedia — GoldSrc](https://en.wikipedia.org/wiki/GoldSrc) — Engine specifications and Quake heritage
-[^ref-10]: [Wikipedia — LithTech](https://en.wikipedia.org/wiki/LithTech) — Engine generations
-[^ref-11]: [Wikipedia — Monolith Productions](https://en.wikipedia.org/wiki/Monolith_Productions) — Warner Bros. acquisition
-[^ref-12]: [Wikipedia — Unreal Engine 3](https://en.wikipedia.org/wiki/Unreal_Engine_3) — Engine specifications
-[^ref-13]: [Homeworld Source Code Project](https://github.com/HomeworldSDL/HomeworldSDL) — Community reverse-engineering
-[^ref-14]: [GDC Vault — Homeworld postmortem](https://www.gdcvault.com/play/1014616/Classic-Game-Postmortem-HOMEWORLD) — Alex Garden's engine talk
+[^ref-2]: [Next Generation #30 (June 1997), Internet Archive scan](https://archive.org/details/NextGeneration30Jun1997) — King's Quest: Mask of Eternity feature: "ThreeSpace is the 3D engine that Dynamix, a Sierra subsidiary, contributed to the project"; "optimized mostly for looking down from way up high"
+[^ref-4]: [Wikipedia — Starsiege: Tribes](https://en.wikipedia.org/wiki/Starsiege:_Tribes) — players "are equipped with a jetpack which allows them to accelerate into the air until the armor's energy is used up"
+[^ref-5]: [Wikipedia — Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — Watertown, Massachusetts; "realistic sim racing games based on the NASCAR and IndyCar leagues, as well as the unique Grand Prix Legends"
+[^ref-6]: [Wikipedia — iRacing](https://en.wikipedia.org/wiki/IRacing) — "iRacing began to be developed in 2004… FIRST.net LLC, which then acquired the code to NASCAR Racing 2003 Season"; released 2008
+[^ref-7]: [Wikipedia — Homeworld](https://en.wikipedia.org/wiki/Homeworld) — fleet travels "in a fully three-dimensional space"; first game developed by Relic; "A release of the source code in 2003 sparked unofficial ports"
+[^ref-8]: [Wikipedia — Homeworld 3](https://en.wikipedia.org/wiki/Homeworld_3) — Unreal Engine 4
+[^ref-9]: [Wikipedia — GoldSrc](https://en.wikipedia.org/wiki/GoldSrc) — "a heavily modified version of id Software's Quake engine"; debut 1998 with Half-Life; "supports skeletal animation"
+[^ref-10]: [Wikipedia — LithTech](https://en.wikipedia.org/wiki/LithTech) — "a discontinued game engine developed by Monolith Productions and comparable with the Quake and Unreal engines"
+[^ref-11]: [Wikipedia — Monolith Productions](https://en.wikipedia.org/wiki/Monolith_Productions) — parent Warner Bros. Games (2004–2025)
+[^ref-12]: [Wikipedia — Unreal Engine 3](https://en.wikipedia.org/wiki/Unreal_Engine_3) — "in November 2009, Epic released a free version of UE3's SDK, called the Unreal Development Kit (UDK)"
+[^ref-13]: [HomeworldSDL (GitHub mirror)](https://github.com/HomeworldSDL/HomeworldSDL) — "PROJECT MOVED: HomeworldSDL is now Gardens of Kadesh"; "Source port of Homeworld 1… It's source code was released in 2003 by Relic Entertainment"
+[^ref-15]: [Wikipedia — Sierra Creative Interpreter](https://en.wikipedia.org/wiki/Sierra_Creative_Interpreter) — SCI3 (1996), "Final iteration"; Leisure Suit Larry 7, Phantasmagoria II
+[^ref-16]: [Sierra Chest — Engine: 3-Space (Wayback, May 12, 2019)](https://web.archive.org/web/20190512155308/http://sierrachest.com/index.php?a=engines&id=30) — Damon Slye: "I designed the Dynamix 3Space engine, along with David McClurg"; his game list; "3-Space 1.0 – Stellar 7", "3-Space 2.0 – Red Baron II – Red Baron 3D"; group members
+[^ref-17]: [MobyGames — Red Baron (Moby ID 1766)](https://www.mobygames.com/game/1766/red-baron/) — DOS first release 1990-12-19
+[^ref-18]: [Sierra Chest — Engine: Unknown/unnamed (Wayback, May 12, 2019)](https://web.archive.org/web/20190512153148/http://sierrachest.com/index.php?a=engines&id=15) — group includes Aces of the Deep, Caesar I–III, IndyCar Racing 2, Grand Prix Legends, Front Page Sports titles
+[^ref-19]: [PCGamingWiki — Engine: Darkstar](https://www.pcgamingwiki.com/wiki/Engine:Darkstar) — developer Dynamix; Starsiege (1999-03-24), Starsiege: Tribes (1998-12-23)
+[^ref-20]: [Wikipedia — Torque (game engine)](https://en.wikipedia.org/wiki/Torque_(game_engine)) — "originally developed by Dynamix for the 2001 first-person shooter Tribes 2"
+[^ref-21]: [MobyGames — IndyCar Racing II (Moby ID 4082)](https://www.mobygames.com/game/4082/indycar-racing-ii/) — DOS, Windows and Macintosh first releases 1996
+[^ref-22]: [Motor Sport — The man who made iRacing: Dave Kaemmer's smash hit (October 2021)](https://www.motorsportmagazine.com/archive/article/october-2021/106/the-man-who-made-iracing-dave-kaemmers-smash-hit/) — GPL "the first game to authentically simulate vehicle dynamics"; iRacing launched 2008 on "a modified version of the source code for NASCAR Racing 4"
+[^ref-23]: [Wikipedia — Homeworld: Cataclysm](https://en.wikipedia.org/wiki/Homeworld:_Cataclysm) — developer Barking Dog Studios, publisher Sierra Studios; "uses essentially the same game engine as Homeworld"
+[^ref-24]: [Wikipedia — Homeworld 2](https://en.wikipedia.org/wiki/Homeworld_2) — "The Remastered versions are both built on the Homeworld 2 engine"
+[^ref-25]: [Wikipedia — Counter-Strike: Condition Zero](https://en.wikipedia.org/wiki/Counter-Strike:_Condition_Zero) — "developed by Ritual Entertainment, Turtle Rock Studios, and Valve, and published by Sierra Entertainment and Valve"; engine GoldSrc
+[^ref-26]: [Wikipedia — Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) — legal dispute with Vivendi Universal Games (Sierra Entertainment); "Vivendi Universal's promise to end distribution on August 31" (2005)
+[^ref-27]: [Wikipedia — The Operative: No One Lives Forever](https://en.wikipedia.org/wiki/The_Operative:_No_One_Lives_Forever) — publishers: Windows Fox Interactive, PlayStation 2 Sierra Entertainment; engine LithTech 2.2
+[^ref-28]: [Wikipedia — No One Lives Forever 2: A Spy in H.A.R.M.'s Way](https://en.wikipedia.org/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.%27s_Way) — Vivendi Universal Games "Released under the Sierra Entertainment brand", Fox Interactive; engine LithTech Jupiter
+[^ref-29]: [Wikipedia — F.E.A.R. (video game)](https://en.wikipedia.org/wiki/F.E.A.R._(video_game)) — "Developed by Monolith Productions and published by Vivendi Universal Games"; 2005
+[^ref-30]: [Wikipedia — King's Quest (2015 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)) — engine Unreal Engine 3; "published by Activision under the Sierra Entertainment brand name"; Windows, PS3, PS4, Xbox 360, Xbox One
+[^ref-31]: [Wikipedia — Leisure Suit Larry: Box Office Bust](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Box_Office_Bust) — engine Unreal Engine 3; 2009
+[^ref-32]: [Wikipedia — Caesar IV](https://en.wikipedia.org/wiki/Caesar_IV) — "developed by Tilted Mill Entertainment and published by Sierra Entertainment"; "features a three-dimensional game engine"
+[^ref-33]: [ScummVM — Compatibility](https://www.scummvm.org/compatibility/) — lists Grim Fandango (grim:grim) and Myst III: Exile (myst3:myst3); Gobliiins (gob:gob1), Goblins Quest 3 (gob:gob3), Lost in Time (gob:lit)
