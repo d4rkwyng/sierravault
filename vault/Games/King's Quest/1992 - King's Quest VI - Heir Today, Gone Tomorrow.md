@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI1.1
 protagonist: Prince Alexander
 sierra_lineage: Core Sierra
-last_updated: '2026-10-15'
+last_updated: '2026-10-16'
 composer: [Christopher G. Braymen]
 description: 'King''s Quest VI: Heir Today, Gone Tomorrow is widely regarded as the
   finest entry in Sierra''s flagship adventure series, representing a remarkable leap...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, jane-jensen, king-s-quest, roberta-williams, sci, sierr
 ---
 # King's Quest VI: Heir Today, Gone Tomorrow
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -163,7 +163,7 @@ The CD-ROM version marked a significant leap in Sierra's voice production, featu
 | Robby Benson | Prince Alexander |
 | Tony Jay | Captain Saladin, Gate, Arch Druid, Lamp Trader |
 | [[Josh Mandel]] | King Graham, Shamir Shamazel, Oxymoron, Druid, Guard Dog |
-| Bill Ratner | Narrator |
+| Bill Ratner | Narrator[^ref-53][^ref-56] |
 | Stevie Louise Vallance (as Louise Vallance) | Princess Cassima |
 | Townsend Coleman | Vizier Abdul Alhazred, Shamir Shamazel, Lord Azure, Ferryman, Beast, Minotaur |
 | Sheryl Bernstein | Queen Valanice, Princess Rosella, Lady Aeriel, White Chess Queen, Black Widow |
@@ -368,7 +368,7 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-20]: [MobyGames – King's Quest VI](https://www.mobygames.com/game/131/kings-quest-vi-heir-today-gone-tomorrow/) – 8.1 MobyScore, 83% critics (30 ratings), credits, platforms, release dates
 [^ref-21]: [GOG.com – King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6) – 4.6/5 rating, ScummVM-powered, user reviews
 [^ref-23]: [My Abandonware – King's Quest VI](https://www.myabandonware.com/game/king-s-quest-vi-heir-today-gone-tomorrow-220) – 4.5/5 (140 votes)
-[^ref-27]: [Behind the Voice Actors – King's Quest VI](https://www.behindthevoiceactors.com/video-games/Kings-Quest-6/) – Stuart Rosen voice director, complete cast list
+[^ref-27]: [Behind the Voice Actors – King's Quest VI](https://www.behindthevoiceactors.com/video-games/Kings-Quest-6/) – Stuart Rosen voice director, cast list (does not list the narrator, Bill Ratner; checked 2026-10-16)
 [^ref-29]: [Discogs – Girl in the Tower Promo CD](https://www.discogs.com/release/14528268) – Jane Jensen lyrics, Mark Seibert composer, Jeff Hill co-producer
 [^ref-30]: [Discogs – An Ode to the Isles Vinyl](https://www.discogs.com/release/31112489) – 2024 Two Guys Records release, Troels Pleimert drums, Error 47 cover, promo CD market values
 [^ref-31]: [Space Quest Historian – KQ6 EP](https://spacequesthistorian.bandcamp.com/album/kings-quest-vi-a-fair-and-balanced-ep) – Chris Braymen verified composer credits, Mark Seibert "Alex Pining" theme
@@ -393,3 +393,4 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-53]: [IMDb – King's Quest VI: Heir Today, Gone Tomorrow (1992), full cast & crew](https://www.imdb.com/title/tt0214857/fullcredits/) – complete voice cast with each actor's roles
 [^ref-54]: [KQ Omnipedia – Abdul Alhazred](https://kingsquest.fandom.com/wiki/Abdul_Alhazred) – the name and the Necronomicon derive from H.P. Lovecraft's stories
 [^ref-55]: [Sierra Wiki – King's Quest VI: Heir Today, Gone Tomorrow](https://sierra.fandom.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – game credits: "Additional Programming: Doug Oldfield, Juan Carlos Escobar"
+[^ref-56]: [MobyGames – King's Quest VI credits, DOS (Wayback 2016-04-30)](https://web.archive.org/web/20160430105049/http://www.mobygames.com/game/dos/kings-quest-vi-heir-today-gone-tomorrow/credits) – Cast: "Narrator Bill Ratner"
