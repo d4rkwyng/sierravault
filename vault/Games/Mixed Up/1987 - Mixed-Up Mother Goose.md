@@ -10,7 +10,7 @@ series: Mixed-Up Mother Goose
 engine: AGI
 protagonist: Player-created child character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-16'
 description: Mixed-Up Mother Goose is Roberta Williams' 1987 educational adventure
   game for young children, in which the player returns lost items to 18 nursery-rhyme
   characters in Mother Goose Land.
@@ -18,7 +18,7 @@ tags: [1980s, agi, educational, mixed-up-mother-goose, roberta-williams, sierra]
 ---
 # Mixed-Up Mother Goose
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 16, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Mixed-Up Mother Goose is an educational adventure game designed by [[Roberta Wil
 
 The game tasks players with exploring Mother Goose Land, where all the nursery rhymes have become "mixed up," requiring the player to locate missing items and return them to their rightful owners to restore order.[^ref-3][^ref-7] Unlike Sierra's other adventure titles of the era, which used text parsers, Mixed-Up Mother Goose was deliberately designed to be simple enough that "even young children can play it when adults are out of the room."[^ref-4][^ref-10] Sierra remade the game three times, in 1990, 1991 and 1995.[^ref-1]
 
-The picture of Mother Goose on the original game box is Roberta Williams herself in costume. Sources disagree about the two children pictured beside her: MobyGames' trivia says they are hers, while Alchetron says they are not.[^ref-2][^ref-5] Contemporary reviews praised the game, with Compute! magazine declaring "I can't think of a better way to teach kids the classical nursery rhymes."[^ref-33]
+The picture of Mother Goose on the original game box is Roberta Williams herself in costume. Sources disagree about the two children pictured beside her: MobyGames' trivia says they are hers, while a 2016 version of the Wikipedia article said, without a citation, that they are not.[^ref-2][^ref-35] Contemporary reviews praised the game, with Compute! magazine declaring "I can't think of a better way to teach kids the classical nursery rhymes."[^ref-33]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -184,7 +184,7 @@ A "Classic's Reillustrated" (SCI EGA) version for the Atari ST was announced in 
 
 ### Easter Eggs and Trivia
 
-- **Box Art Cameo:** The picture of Mother Goose on the original game box is [[Roberta Williams]] herself in costume. MobyGames' trivia says the two children beside her are her own; Alchetron says they are not.[^ref-2][^ref-5]
+- **Box Art Cameo:** The picture of Mother Goose on the original game box is [[Roberta Williams]] herself in costume. MobyGames' trivia says the two children beside her are her own; a 2016 version of the Wikipedia article said, without a citation, that they are not.[^ref-2][^ref-35]
 - **Space Quest V Reference:** The game is humorously referenced in Space Quest V, where a death message tells the player: "Looks like you've been spreading yourself a bit thin lately. Perhaps you'd like to try one of our less challenging games like 'Mixed Up Mother Goose?'"[^ref-5]
 - **Dunce Cap:** After the player returns Mary's lamb, following Mary into the schoolhouse shows one of her classmates sitting in the corner wearing a dunce cap.[^ref-10]
 - **Debug Mode Mystery:** Mixed-Up Mother Goose's debug functionality remains unverified despite debug words being present in its words.tok file.[^ref-21]
@@ -297,3 +297,4 @@ With three remakes, TV Tropes calls it "Probably the contender for 'Most Remade 
 [^ref-30]: [Sierra Fandom Wiki – Mixed-Up Mother Goose](https://sierra.fandom.com/wiki/Mixed-Up_Mother_Goose) – gameplay, 18 rhymes, version history
 [^ref-33]: [Compute! – "Mother Goose" (Donald B. Trivette), April 1988, p. 58](https://archive.org/details/1988-04-compute-magazine) – contemporary review: ages 4+, no reading needed, cursor keys or joystick, poster, system requirements, copy protection, price
 [^ref-34]: [Computer Gaming World #83 – "Celebrating Software", June 1991](https://archive.org/details/Computer_Gaming_World_Issue_83) – SPA award for "the multimedia version of Mixed-Up Mother Goose"
+[^ref-35]: [Wikipedia – Mixed-Up Mother Goose (Wayback 2016-12-31)](https://web.archive.org/web/20161231053607/https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – uncited trivia: "Roberta Williams herself, with two children (not hers) reading a book of nursery rhymes" (the text Alchetron mirrors; no longer in the current article)
