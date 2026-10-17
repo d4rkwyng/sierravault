@@ -125,7 +125,6 @@ For more on the founding era, see the [[Warren Schwader]] designer page; for the
 - [[Sierra On-Line]] — Publisher / developer
 - [[Encore Software]] — Publisher from 2005
 - [[Corporate Lineage]] — Ownership transitions across the franchise's run
-- [[Versions|Sierra Game Versions]] — Hoyle interpreter version data
 
 ## References
 
