@@ -10,14 +10,14 @@ series: NASCAR Racing
 engine: Papyrus Racing Engine (New)
 protagonist: Player-created driver
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-10-13'
+last_updated: '2026-10-17'
 description: NASCAR Racing 2 is a racing simulation developed by Papyrus Design Group
   and published by Sierra On-Line, released on December 9, 1996 for MS-DOS and Windows.
 tags: [1990s, nascar-racing, papyrus, racing, sierra]
 ---
 # NASCAR Racing 2
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 17, 2026</small>
 
 ## Overview
 
@@ -269,7 +269,7 @@ The Papyrus legacy continued to influence racing games long after Vivendi Univer
 [^ref-13]: [GamesNostalgia – NASCAR Racing 2](https://gamesnostalgia.net/game/nascar-racing-2) – editorial review, designer credits
 [^ref-14]: [MobyGames – NASCAR Racing 2 Reviews](https://www.mobygames.com/game/1607/nascar-racing-2/reviews/) – user reviews
 [^ref-15]: [The Athletic – NASCAR Racing Video Game History](https://www.nytimes.com/athletic/3392349/2022/06/30/nascar-racing-video-game/) – Dale Earnhardt Jr. quote, Steve Myers quote
-[^ref-16]: [GameSpot – Papyrus Racing Games Retrospective](http://www.gamespot.com/features/6103365/) – David Kaemmer quotes, development history
+[^ref-16]: [GameSpot – History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – David Kaemmer quotes, development history
 [^ref-17]: [Sierra Gamers Forum – Sierra Company Structure](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Papyrus acquisition context
 [^ref-18]: [TEN Press Release – NASCAR Racing Online Series](http://ten.net/199706/html/12-3-96.html) – NROS announcement, official quotes, pricing
 [^ref-19]: [MobyGames – NASCAR Grand National Series Expansion Pack](https://www.mobygames.com/game/1612/nascar-grand-national-series-expansion-pack/) – expansion details, racing advisors
