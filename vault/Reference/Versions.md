@@ -1,6 +1,20 @@
+---
+title: "Sierra Game Versions"
+type: reference
+last_updated: "2026-10-16"
+description: "Game-version and interpreter-build matrices for Sierra adventure games as sold on GOG.com and in Sierra's 1994–2006 compilation discs, transcribed from a 2015 Sierra Classic Gaming wiki snapshot and checked against ScummVM's file data."
+tags: [reference, versions, agi, sci, collections]
+---
+
 # Sierra Game Versions
 
-This note captures the version matrices originally compiled on the SCG Wiki page linked above. All release numbers, interpreter builds, and dates retain their original formatting.
+<small style="color: gray">Last updated: October 16, 2026</small>
+
+This note captures the version matrices compiled on the Sierra Classic Gaming (SCG) Wiki page "Sierra Game Versions", last modified in June 2015 and preserved in a 2019 Wayback Machine copy.[^ref-1] All release numbers, interpreter builds, and dates retain the source's formatting except where marked. Values were cross-checked against the ScummVM wiki's Sierra Game Versions list[^ref-2] and ScummVM's SCI detection tables, which record the VERSION files and executable build dates of specific copies, including several GOG releases.[^ref-3] Where those sources disagree with SCG, the correction is noted.
+
+The GOG.com tables describe GOG's builds as of the 2015 snapshot. GOG has updated some packs since: on 20 February 2026 it added the VGA version of Space Quest 1 to *Space Quest 1+2+3*[^ref-4] and switched the *Police Quest Collection* to ScummVM, adding an EGA option for Police Quest 3.[^ref-14]
+
+**About the "Date" column:** the source does not say what its dates record. Where ScummVM's detection tables can check them (Phantasmagoria, Phantasmagoria 2, Space Quest 6), they are the executables' build dates, not release dates,[^ref-3] so they can differ from the release dates on individual game pages.
 
 ## GOG.com Listings
 
@@ -8,11 +22,11 @@ This note captures the version matrices originally compiled on the SCG Wiki page
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
-| Gabriel Knight 1 | 01.100.000 | SCI 2.000.000 | 01/10/94 |
-| Gabriel Knight 2 | 1.1 | SCI 2.100.002 | 12/07/95 |
-| Gabriel Knight 3 | 1.0 | Custom G-Engine | 10/13/99 |
+| Gabriel Knight 1[^ref-5] | 01.100.000 | SCI 2.000.000 | 01/10/94 |
+| Gabriel Knight 2[^ref-6] | 1.1 | SCI 2.100.002 | 12/07/95 |
+| Gabriel Knight 3[^ref-7] | 1.0 | Custom G-Engine | 10/13/99 |
 
-### King’s Quest 1–3 Pack
+### King’s Quest 1–3 Pack[^ref-8]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
@@ -20,23 +34,23 @@ This note captures the version matrices originally compiled on the SCG Wiki page
 | King’s Quest 2 | 2.1 | AGI 2.411 | 04/10/87 |
 | King’s Quest 3 | 2.14 | AGI 2.936 | 03/15/88 |
 
-### King’s Quest 4–6 Pack
+### King’s Quest 4–6 Pack[^ref-9]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
 | King’s Quest 4 (SCI) | 1.006.004 | SCI 0.000.502 | 08/07/89 |
 | King’s Quest 5 | 1.000.052 | SCI x.yyy.zzz | — |
 | King’s Quest 6 | 1.034 (1.000.00G) | SCI 1.cfs.158 | 03/25/93 (09/11/94) |
-| King’s Quest 6 (Win) | 1.034 (1.000.00G) | SCI 1.001.0693 | 03/19/93 (09/11/94) |
+| King’s Quest 6 (Win) | 1.034 (1.000.00G) | SCI 1.001.069[^ref-2] | 03/19/93 (09/11/94) |
 
-### King’s Quest 7+8 Pack
+### King’s Quest 7+8 Pack[^ref-10]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
 | King’s Quest 7 | 2.00b | SCI 2.100.002 | 05/24/95 |
-| King’s Quest 8 | 1.3 | N/A | — |
+| King’s Quest 8 | 1.3 (SCG only; not confirmed elsewhere) | N/A | — |
 
-### Leisure Suit Larry Anthology
+### Leisure Suit Larry Anthology[^ref-11]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
@@ -48,7 +62,7 @@ This note captures the version matrices originally compiled on the SCG Wiki page
 | Leisure Suit Larry 6 (CD) | 1.000.000 | SCI 1.001.115 | 06/01/94 |
 | Leisure Suit Larry 6 (HiRes) | 1.000.000 | SCI 2.100.002 | 05/20/94 |
 
-### Leisure Suit Larry: Love for Sail!
+### Leisure Suit Larry: Love for Sail![^ref-12]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
@@ -58,10 +72,10 @@ This note captures the version matrices originally compiled on the SCG Wiki page
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
-| Phantasmagoria | 1.000.001UK | SCI 2.100.002 | 09/19/95 |
-| Phantasmagoria 2 | 001.0.06 | SCI 3.000.000 | 12/07/96 |
+| Phantasmagoria[^ref-13] | 1.000.001UK | SCI 2.100.002 | 09/19/95 |
+| Phantasmagoria 2[^ref-15] | 001.0.06 | SCI 3.000.000 | 12/07/96 |
 
-### Police Quest Collections on GOG
+### Police Quest Collections on GOG[^ref-14][^ref-16]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
@@ -73,7 +87,7 @@ This note captures the version matrices originally compiled on the SCG Wiki page
 | Police Quest SWAT | 1.0c | SCI 2.100.002 | 11/21/95 |
 | Police Quest SWAT 2 | 1.0 | N/A | 06/05/97 |
 
-### Quest for Glory 1–5
+### Quest for Glory 1–5[^ref-17]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
@@ -82,14 +96,14 @@ This note captures the version matrices originally compiled on the SCG Wiki page
 | Quest for Glory 2 | 1.102 | SCI 1.000.072 | — |
 | Quest for Glory 3 | 1.1 | SCI 1.001.050 | 11/09/92 |
 | Quest for Glory 4 (CD) | 1.0 | SCI 2.100.002 | 09/17/94 |
-| Quest for Glory 5 | 1.1.0.0 | — | — |
+| Quest for Glory 5 | 1.1.0.0 (SCG only; not confirmed elsewhere) | — | — |
 
-### Space Quest Packs
+### Space Quest Packs[^ref-4][^ref-18]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
 | Space Quest 1 (AGI) | 2.2 | AGI 2.917 | — |
-| Space Quest 1 (SCI) | N/A | SCI 2.000 | — |
+| Space Quest 1 (SCI) | Not in the 2015 listing; added by GOG on 20 February 2026 (build not checked)[^ref-4] | — | — |
 | Space Quest 2 | 2.0F | AGI 2.936 | — |
 | Space Quest 3 | 1.018 | SCI 0.000.685 | — |
 | Space Quest 4 | 1.0 | SCI 1.001.064 | 12/08/92 |
@@ -100,8 +114,8 @@ This note captures the version matrices originally compiled on the SCG Wiki page
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
-| SWAT 3: Tactical GOTY | 2.1.0.0 | — | 2001 |
-| Torin’s Passage | 1.0 | SCI 2.100.002 | 11/02/95 |
+| SWAT 3: Tactical GOTY[^ref-19] | 2.1.0.0 | — | 2001 |
+| Torin’s Passage[^ref-20] | 1.0 | SCI 2.100.002 | 11/02/95 |
 
 ## Collection Releases
 
@@ -121,12 +135,14 @@ This note captures the version matrices originally compiled on the SCG Wiki page
 | King’s Quest 7 Demo | 1.000.000 | SCI 2.100.002 | 07/01/94 |
 | Behind the Developer’s Shield | — | SCI 2.100.002 | 05/20/94 |
 | King Graham’s Board Game Challenge | 1.000 | SCI 1.001.029 | 06/01/92 |
-| Inside the Chest | — | SCI 2.100.001 | 05/04/94 |
-| King’s Questions | — | SCI 2.100.001 | 05/04/94 |
+| Inside the Chest | — | SCI 2.100.002 | 05/04/94 |
+| King’s Questions | — | SCI 2.100.002 | 05/04/94 |
+
+SCG gives the last two interpreters as 2.100.001; the ScummVM list gives 2.100.002 for both "Inside The Chest / Behind the Developers' Shield" and "King's Questions".[^ref-2]
 
 ### King’s Quest Collection Series (1997)
 
-Includes Laura Bow titles, Mixed-Up Mother Goose Deluxe, and bonus features. Table mirrors the 1994 release with KQ7 updated to 2.00b.
+Same versions of KQ1–6 as the 1994 set, plus the full King's Quest 7 (2.00b, where the 1994 set had only a KQ7 demo), Laura Bow: The Colonel's Bequest 1.000.046, Laura Bow 2: The Dagger of Amon Ra 1.1, Mixed-Up Mother Goose Deluxe, Behind the Developer's Shield, King Graham's Board Game Challenge and King's Questions. It drops the KQ5 French, KQ6 German, KQ7 demo and Inside the Chest entries, and adds Mystery House, Wizard and the Princess, Mission: Asteroid, Time Zone and a King's Quest 8 preview.[^ref-1]
 
 ### King’s Quest Collection (2006)
 
@@ -142,9 +158,9 @@ Includes Laura Bow titles, Mixed-Up Mother Goose Deluxe, and bonus features. Tab
 
 ### Leisure Suit Larry Releases
 
-- **Greatest Hits & Misses (1994)** and **Collection (1997)** share the same base, with later packs adding Larry 6 CD/HiRes, Larry’s Casino, utilities, and demos.
-- **The Ultimate Pleasure Pack (2000)** layers Larry 7 and LightHouse demo content on top of prior entries.
-- **Collection (2006)** includes Larry 1–6 (SCI) with their noted interpreter builds.
+- **Greatest Hits & Misses (1994)** already includes the Laffer Utilities, Larry's Big Score: Pinball, Softporn 2.2, the Official Book of Leisure Suit Larry and demos; SCG also lists a Leisure Suit Larry 7 demo here, which is doubtful for a 1994 disc (LSL7 is a 1996 game). The **Collection (1997)** keeps that base and adds Larry 6 CD and HiRes and Larry's Casino.[^ref-1]
+- **The Ultimate Pleasure Pack (2000)** adds Larry 7 (DOS 1.01 dated 10/18/96, Windows 1.01 dated 10/21/96) and a LightHouse demo.[^ref-1]
+- **Collection (2006)** includes Larry 1 (SCI), 2, 3, 5 and 6 (floppy and Windows); there is no Larry 4.[^ref-1]
 
 ### Police Quest Sets
 
@@ -163,8 +179,8 @@ Provides EGA/VGA builds of QFG1 plus localized QFG3 versions, alongside QFG2–4
 
 ### Space Quest Collections
 
-- **15th Anniversary (1994)** and **Roger Wilco Unclogged (1995)** bundle SQ1–5, regional variants, arcades, and Fun Seeker’s Guide utilities.
-- **Collection Series (1997)** adds the SQ6 demo and final 1.11 build with promotional extras (SQ7 promo, The Realm trial, demos).
+- **15th Anniversary (1994)** and **Roger Wilco Unclogged (1995)** bundle SQ1–5, the French and German SQ5, Roger Wilco's Spaced Out Game Pack and The Fun Seeker's Guide; Roger Wilco Unclogged adds the Space Quest 6 demo and a Police Quest SWAT demo.[^ref-1]
+- **Collection Series (1997)** adds Space Quest 6 version 1.11 alongside the demo, plus a Space Quest 7 promo video, The Realm trial and other demos.[^ref-1] ScummVM notes that the 1.11 interpreter differs from version 1.0's, though both report "May 24 1995".[^ref-3]
 - **Collection (2006)** covers SQ1 SCI through SQ6 1.0.
 
 ## Version Comparisons
@@ -188,8 +204,10 @@ Provides EGA/VGA builds of QFG1 plus localized QFG3 versions, alongside QFG2–4
 | Game | GOG | GH&M 1994 | CE 1997 | TUPP 2000 | CE 2006 |
 | --- | --- | --- | --- | --- | --- |
 | LSL1 (AGI) | 1.00 | 1.00 | 1.00 | 1.00 | N/A |
-| LSL1 (SCI) | 2.0 | 2.1 | 2.1 | 2.1 | 2.0 |
-| LSL2 | 1.002.000 | 1.002.000 | 1.002.000 | 1.002.000 | 1.000.011 |
+| LSL1 (SCI) | 2.0 | 2.1 | 2.1 | 2.1 | 2.1* |
+| LSL2 | 1.002.000 | 1.002.000 | 1.002.000 | 1.002.000 | 1.002.000* |
+
+\* SCG's comparison table gives 2.0 and 1.000.011 for the 2006 collection, but its own 2006 collection table lists LSL1 (SCI) 2.1 and LSL2 1.002.000; the collection-table values are used here.[^ref-1]
 | LSL3 | 1.021 | 1.021 | 1.021 | 1.021 | 1.021 |
 | LSL5 | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 |
 | LSL6 (Floppy) | N/A | 1.000 | 1.000 | 1.000 | 1.000 |
@@ -225,9 +243,9 @@ Provides EGA/VGA builds of QFG1 plus localized QFG3 versions, alongside QFG2–4
 | Game | GOG | CE 1994/1995 | CS 1997 | CE 2006 |
 | --- | --- | --- | --- | --- |
 | SQ1 (AGI) | 2.2 | 2.2 | 2.2 | N/A |
-| SQ1 (SCI) | N/A | 2.000 | 2.000 | 2.000 |
+| SQ1 (SCI) | Added 2026 | 2.000 | 2.000 | 2.000 |
 | SQ2 | 2.0F | 2.0F | 2.0F | 2.0F |
-| SQ3 | 1.018 | 1.018 | 1.0.18 | 1.018 |
+| SQ3 | 1.018 | 1.018 | 1.018 | 1.018 |
 | SQ4 | 1.0 | 1.0 | 1.0 | 1.0 |
 | SQ5 | 1.04 | 1.04 | 1.04 | 1.04 |
 | SQ6 | 1.0 | N/A | 1.11 | 1.0 |
@@ -235,5 +253,29 @@ Provides EGA/VGA builds of QFG1 plus localized QFG3 versions, alongside QFG2–4
 ## Notes
 
 - “Interpreter Version” values are copied verbatim, even when Sierra used placeholder strings (e.g., `SCI x.yyy.zzz`).
+- Corrected from the SCG source: King's Quest 6 (Win) interpreter "1.001.0693" → 1.001.069; Inside the Chest and King's Questions 2.100.001 → 2.100.002; SQ3 in the 1997 Collection Series "1.0.18" → 1.018 (SCG's own 1997 table gives 1.018).[^ref-1][^ref-2]
 - Dashes indicate the original table lacked a date entry.
 - Collection descriptions summarize repeated bonus materials instead of duplicating identical rows.
+
+## References
+
+[^ref-1]: [SCG Wiki — Sierra Game Versions (Wayback, October 22, 2019)](http://web.archive.org/web/20191022122735/https://wiki.sierraclassicgaming.com/sierra:versions) — source of all tables on this page; "Last modified: 2015/06/03"
+[^ref-2]: [ScummVM Wiki — Sierra Game Versions (Wayback, May 18, 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) — "King's Quest VI (Windows CD Version)** 1.034 1994-09-11" on 1.001.069; "Inside The Chest / Behind the Developers' Shield" and "King's Questions" on 2.100.002
+[^ref-3]: [ScummVM — engines/sci/detection_tables.h](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/sci/detection_tables.h) — Phantasmagoria 2 GOG: "Executable scanning reports "3.000.000" - "Dec 07 1996"… VERSION file reports "001.0.06""; SQ6: "different interpreter than in version 1.11, though both say "May 24 1995""
+[^ref-4]: [GOG.com — Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) — changelog (20 February 2026): "Space Quest 1: Added VGA version of the game"
+[^ref-5]: [GOG.com — Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) — current GOG listing
+[^ref-6]: [GOG.com — Gabriel Knight 2: The Beast Within](https://www.gog.com/en/game/gabriel_knight_2_the_beast_within) — current GOG listing
+[^ref-7]: [GOG.com — Gabriel Knight 3: Blood of the Sacred, Blood of the Damned](https://www.gog.com/en/game/gabriel_knight_3_blood_of_the_sacred_blood_of_the_damned) — current GOG listing
+[^ref-8]: [GOG.com — King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) — current GOG listing
+[^ref-9]: [GOG.com — King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6) — current GOG listing
+[^ref-10]: [GOG.com — King's Quest 7+8](https://www.gog.com/en/game/kings_quest_7_8) — current GOG listing
+[^ref-11]: [GOG.com — Leisure Suit Larry](https://www.gog.com/en/game/leisure_suit_larry) — current GOG listing
+[^ref-12]: [GOG.com — Leisure Suit Larry: Love for Sail!](https://www.gog.com/en/game/leisure_suit_larry_love_for_sail) — current GOG listing
+[^ref-13]: [GOG.com — Phantasmagoria](https://www.gog.com/en/game/phantasmagoria) — current GOG listing
+[^ref-14]: [GOG.com — Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) — changelog (20 February 2026): "Switched emulation from DOSBox to ScummVM"; "Police Quest 3: Added an option to play EGA version of the game"
+[^ref-15]: [GOG.com — Phantasmagoria 2: A Puzzle of Flesh](https://www.gog.com/en/game/phantasmagoria_2) — current GOG listing
+[^ref-16]: [GOG.com — Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) — current GOG listing
+[^ref-17]: [GOG.com — Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) — current GOG listing
+[^ref-18]: [GOG.com — Space Quest 4+5+6](https://www.gog.com/en/game/space_quest_4_5_6) — current GOG listing
+[^ref-19]: [GOG.com — SWAT 3: Tactical Game of the Year Edition](https://www.gog.com/en/game/swat_3_tactical_game_of_the_year_edition) — current GOG listing
+[^ref-20]: [GOG.com — Torin's Passage](https://www.gog.com/en/game/torins_passage) — current GOG listing
