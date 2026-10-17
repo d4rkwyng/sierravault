@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-17'
 composer: [Evan Schiller]
 description: Hoyle Battling Ships And War is a 1998 Sierra On-Line compilation for Windows
   pairing Battling Ships, a Battleship variant, with the card game War.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Battling Ships And War
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 17, 2026</small>
 
 ## Overview
 
@@ -281,7 +281,7 @@ Hoyle Battling Ships And War is a minor entry in Sierra's Hoyle line: a small pa
 [^ref-6]: [DOSBox Staging – GitHub Issue #312](https://github.com/dosbox-staging/dosbox-staging/issues/312) – technical compatibility issues, PE32 executable format, cputype requirements
 [^ref-7]: [MobyGames – Brick Baldwin](https://www.mobygames.com/person/20244/brick-baldwin/) – SIGS Team program manager credit
 [^ref-8]: [MobyGames – Michael Katz](https://www.mobygames.com/person/9065/michael-katz/) – senior software engineer credit
-[^ref-9]: [MobyGames – Beth Quintana](http://www.mobygames.com/developer/sheet/view/developerId,11307) – corporate products certification credit
+[^ref-9]: [MobyGames – Beth Quintana](https://www.mobygames.com/person/11307/beth-quintana/) – corporate products certification credit
 [^ref-10]: [MobyGames – Julie Bazuzi](https://www.mobygames.com/person/5146/julie-bazuzi/) – QA testing credit
 [^ref-11]: [MobyGames – Eric Tangborn](https://www.mobygames.com/person/27396/eric-tangborn/) – QA analyst credit
 [^ref-12]: [MobyGames – Torsten Reinl](https://www.mobygames.com/person/23208/torsten-reinl/) – QA analyst credit
