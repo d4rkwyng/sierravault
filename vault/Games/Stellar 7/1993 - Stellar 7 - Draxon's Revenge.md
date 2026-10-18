@@ -10,14 +10,14 @@ series: Stellar 7
 engine: Unknown/unnamed
 protagonist: Terran Commander (Raven Pilot)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-14'
+last_updated: '2026-10-17'
 description: 'Stellar 7: Draxon''s Revenge is a 1993 first-person sci-fi tank simulation
   game developed and published by Dynamix for the 3DO Interactive Multiplayer...'
 tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar 7: Draxon's Revenge
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 17, 2026</small>
 
 ## Overview
 
@@ -211,7 +211,6 @@ Draxon's Revenge arrived as one of the first 3DO games, when critics were still 
 [^ref-13]: [LaunchBox Games Database – Stellar 7: Draxon's Revenge](https://gamesdb.launchbox-app.com/games/images/4622-stellar-7-draxons-revenge) – box and screenshot images
 [^ref-14]: [Retro North Games – Stellar 7: Draxon's Revenge](https://retronorthgames.com/products/stellar-7-draxons-revenge) – retail pricing, availability
 [^ref-15]: [GOG Dreamlist – Stellar 7: Draxon's Revenge](https://www.gog.com/dreamlist/game/stellar-7-draxon-s-revenge-1993) – community votes, genre classification
-[^ref-16]: Old Games Download – Stellar 7: Draxon's Revenge (link removed: game-download site) – ROM availability
 [^ref-18]: [Play-Asia – Stellar 7: Draxon's Revenge](https://www.play-asia.com/stellar-7-draxons-revenge/13/702zwz) – T&E Soft publisher (Japan), game description
 [^ref-20]: [Stellar 7: Draxon's Revenge 3DO manual (Dynamix, 1993), Internet Archive scan](https://archive.org/details/Stellar_7_Draxons_Revenge_1993_Dynamix_US) – pp.4–5 controls and difficulty levels, pp.6–7 Raven and cockpit, pp.8–9 Power Modules, pp.10–13 strategies and enemy vehicles, pp.18–19 credits
 [^ref-21]: [Ken Embery, "Draxon's Revenge Brings the 3DO System Roaring to Life!", InterAction Magazine Vol. VI No. 3, Holiday 1993, p.51 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_3_Holiday_1993_1993_Sierra_On-Line_US) – Warplinks story, "three Megs of memory", "CD-quality techno-rock music"
