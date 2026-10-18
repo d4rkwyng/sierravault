@@ -10,14 +10,14 @@ series: Standalone
 engine: GoldSrc
 protagonist: Major Archer
 sierra_lineage: Sierra Published
-last_updated: '2026-10-09'
+last_updated: '2026-10-18'
 description: Gunman Chronicles is a first-person shooter released in November 2000
   that represents one of gaming's most remarkable mod-to-retail transformations....
 tags: [2000s, shooter, sierra, standalone]
 ---
 # Gunman Chronicles
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 18, 2026</small>
 
 ## Overview
 
@@ -253,7 +253,7 @@ As of community discussions in 2015, two multiplayer servers were still running.
 
 ### Related Publications
 
-- **Game Manual:** Printed booklet covering controls, weapons, and multiplayer options[^ref-8][^ref-50]
+- **Game Manual:** Printed booklet covering controls, weapons, and multiplayer options[^ref-8]
 
 ### Critical Perspective
 
@@ -336,5 +336,4 @@ Despite its troubled development and lukewarm critical reception, Gunman Chronic
 [^ref-47]: [ModDB – Sandbot](https://www.moddb.com/games/gunman-chronicles/downloads/sandbot-v042) – bot mod, accuracy complaints
 [^ref-48]: [Speedrun.com Resources](https://www.speedrun.com/gmc/resources) – speedrun tools
 [^ref-49]: [Reddit – Abandonware Discussion](https://www.reddit.com/r/HalfLife/comments/30gh8r/since_gunman_chronicles_is_clearly_abandonware/) – server status, rights situation
-[^ref-50]: [eBay Manual Listing](https://www.ebay.com/itm/145032850799) – manual page count
 [^ref-51]: [Obscuritory](https://obscuritory.com/shooter/gunman-chronicles/) – "break the mold" analysis, escalating scale quote
