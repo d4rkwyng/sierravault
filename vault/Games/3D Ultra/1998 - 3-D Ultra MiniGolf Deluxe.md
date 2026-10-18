@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: Player-controlled golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-17'
 description: 3-D Ultra MiniGolf Deluxe (1998) is Dynamix's expanded edition of the 1997
   3-D Ultra MiniGolf, adding nine new holes for 27 in total plus online play.
 tags: [1990s, 3d-ultra, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra MiniGolf Deluxe
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 17, 2026</small>
 
 ## Overview
 
@@ -133,6 +133,5 @@ Not currently sold digitally. GOG lists it only as a Dreamlist (wishlist) entry:
 [^ref-16]: [MMO Central Forums - User Review](https://www.mmocentralforums.com/forums/showthread.php?t=245391&page=3) - User review (sb1254) with scoring breakdown
 [^ref-18]: [MobyGames - 3-D Ultra Minigolf Deluxe credits](https://www.mobygames.com/game/38197/3-d-ultra-minigolf-deluxe/credits/) - Windows credits (1998)
 [^ref-19]: [MyAbandonware - 3-D Ultra Minigolf Deluxe](https://www.myabandonware.com/game/3-d-ultra-minigolf-deluxe-duw) - Download page with user rating
-[^ref-21]: Old Games Download - 3-D Ultra Minigolf Deluxe (link removed: game-download site) - Download page
 [^ref-23]: [Sierra Chest - Minigolf Adventures Deluxe](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=general) - Minigolf Maniacs development history
 [^ref-27]: [Zomb's Lair - 3D Ultra Minigolf Deluxe](https://www.zombs-lair.com/3d-ultra-minigolf-deluxe) - Retrospective review
