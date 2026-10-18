@@ -10,14 +10,14 @@ series: Front Page Sports
 engine: Front Page Sports engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-17'
 description: 'Front Page Sports: Football Pro is a classic sports simulation game
   that was first released in 1993 for DOS. Developed and published by Dynamix, a Sierra subsidiary...'
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 17, 2026</small>
 
 ## Overview
 
@@ -160,7 +160,6 @@ Wikipedia's series article concludes that Front Page Sports Football "made it po
 [^ref-5]: [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-football-3db) – - HOTUD review quote
 [^ref-6]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Front_Page_Sports:_Football_Pro) – - Computer Gaming World review quote
 [^ref-7]: [DOS Zone](https://dos.zone/front-page-sports-football-pro-1993/) – - Platform information
-[^ref-8]: [Downloads KHInsider](https://downloads.khinsider.com/game-soundtracks/album/front-page-sports-football-pro-98-windows-gamerip-1997) – - Game modes description
 [^ref-9]: [ESPN/GameSpot](https://www.espn.com/vgr/pc_fpsfbp98.html) – - Physics and AI description
 [^ref-10]: [GM Games](https://gmgames.org/front-page-sports-football-fb-pro-98/) – - Interface improvements
 [^ref-11]: [MobyGames](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/) – - Career play marketing
