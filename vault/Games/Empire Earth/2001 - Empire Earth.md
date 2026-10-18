@@ -198,7 +198,7 @@ The GOG.com release has addressed many compatibility issues through DirectX wrap
 
 Empire Earth includes numerous cheat codes accessible through the in-game chat window:[^ref-32]
 - **"my name is methos"** – All Resources & Reveal Map
-- **"all your base are belong to us"** – +100,000 of all resources (referencing the famous Zero Wing mistranslation)
+- **"all your base are belong to us"** – +100,000 of all resources
 - **"boston food sucks"** – +1000 Food
 - **"asus drivers"** – Reveal Map
 - **"somebody set up us the bomb"** – Win Game
