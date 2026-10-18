@@ -10,14 +10,14 @@ series: Front Page Sports
 engine: Front Page Sports engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-17'
+last_updated: '2026-10-18'
 description: 'Front Page Sports: Football Pro is a classic sports simulation game
   that was first released in 1993 for DOS. Developed and published by Dynamix, a Sierra subsidiary...'
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro
 
-<small style="color: gray">Last updated: October 17, 2026</small>
+<small style="color: gray">Last updated: October 18, 2026</small>
 
 ## Overview
 
@@ -40,7 +40,7 @@ Computer Gaming World's 1993 review said the Front Page Sports games "remain the
 
 ### Interface and Controls
 
-Front Page Sports: Football Pro featured two distinct gameplay modes, combining a team-management simulation with on-field action play. Sierra's later marketing for Football Pro '98 emphasized "physics-based ball dynamics, motion-captured movement and individual player AI" as delivering "the most accurate gameplay results of any football simulation"[^ref-9].
+Players chose how much of the on-field action to control: Computer Gaming World's December 1993 review noted that the original game's Basic (play calling only), Standard ("play calling and control if one wishes") and Advanced ("complete control") options carried over to Football Pro[^ref-23]. Sierra's later marketing for Football Pro '98 emphasized "physics-based ball dynamics, motion-captured movement and individual player AI" as delivering "the most accurate gameplay results of any football simulation"[^ref-9].
 
 The 1998 version of the game featured "a completely revamped user interface that was a significant improvement over prior years"[^ref-10]. A contemporary player guide lists mouse and joystick among recommended hardware, with minimum system requirements including an "80386 chip or better" and a "VGA monitor"[^ref-17]. On fast systems, the Pro '97 release drew each player's animation from 16 different angles rather than eight[^ref-12].
 
@@ -172,3 +172,4 @@ Wikipedia's series article concludes that Front Page Sports Football "made it po
 [^ref-19]: [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – - Technical bug description
 [^ref-20]: [MobyGames](https://www.mobygames.com/group/445/front-page-sports-series/) – - Series release years ('95: Oct 25, 1994; '96: 1995; '97: 1996; '98: Nov 3, 1997)
 [^ref-22]: [Steam Community](https://steamcommunity.com/app/316700) – Cyanide Studio 2014 Front Page Sports Football Steam community page
+[^ref-23]: [Computer Gaming World #113 (December 1993), p. 118 – Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_113/page/n117/mode/1up) – - Wallace Poulter, "MicroProse and Dynamix Go One On One": Basic, Standard and Advanced control options carried over from FPSF
