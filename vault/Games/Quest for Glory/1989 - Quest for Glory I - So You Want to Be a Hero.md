@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI0 (EGA), SCI1.1 (VGA)
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-18'
 composer: [Mark Seibert]
 description: 'Quest for Glory: So You Want to Be a Hero (originally released as Hero''s
   Quest: So You Want to Be a Hero) is a 1989 adventure game/role-playing game hybrid...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory: So You Want to Be a Hero
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 18, 2026</small>
 
 ## Overview
 Quest for Glory: So You Want to Be a Hero (originally released as Hero's Quest: So You Want to Be a Hero) is a 1989 adventure game/role-playing game hybrid designed by [[Lori Ann Cole]] and [[Corey Cole]], and published by [[Sierra On-Line]] for MS-DOS[^ref-1][^ref-2].
@@ -160,7 +160,7 @@ Many planned features were cut during development due to time and budget constra
 | Input | Mouse recommended[^ref-32] |
 
 ### Modern Compatibility
-- **ScummVM**: Fully supported (recommended)[^ref-27]
+- **ScummVM**: Supported since ScummVM 1.2.0[^ref-27]; ScummVM's compatibility list rates it "Excellent" (no known issues)[^ref-39]
 - **DOSBox**: Compatible
 - **Windows 10/11**: Via ScummVM, GOG, or Steam versions
 
@@ -233,7 +233,7 @@ This game has been included in the following collections:
 [^ref-22]: [Speedrun.com – Quest for Glory: So You Want To Be A Hero (EGA)](https://www.speedrun.com/quest_for_glory_so_you_want_to_be_a_hero_ega) – speedrun leaderboards (checked October 2026)
 [^ref-23]: Abandonware DOS – Quest for Glory 1: So You Want to Be a Hero *(download link removed: the game is sold commercially)* – user rating 3.98/5 from 50 votes (checked October 2026)
 [^ref-25]: [TV Tropes – Quest for Glory I](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryI) – trope analysis, design details
-[^ref-27]: [ScummVM Wiki – Quest for Glory I](https://wiki.scummvm.org/index.php?title=Quest_for_Glory:_So_You_Want_To_Be_A_Hero) – technical compatibility
+[^ref-27]: [ScummVM Wiki – Quest for Glory](https://wiki.scummvm.org/index.php?title=Quest_for_Glory) – infobox: "Support Since ScummVM 1.2.0"
 [^ref-29]: [Quest for Glory Fandom Wiki – QFG1EGA development](https://questforglory.fandom.com/wiki/QFG1EGA_development) – original proposal (August 1988), working title
 [^ref-30]: [Adventure Gamers – Lori and Corey Cole interview, page 3 (archived 2015)](https://web.archive.org/web/20150421221306/http://www.adventuregamers.com/articles/view/23214/page3) – design intent
 [^ref-31]: [RPGamer – Quest for Glory I Retroview (archived)](https://web.archive.org/web/20170805141031/http://rpgamer.com/games/qfg/qfg1/reviews/qfg1strev2.html) – Michael Baker retroview, 3.5/5; reviews the original EGA version
@@ -244,3 +244,4 @@ This game has been included in the following collections:
 [^ref-36]: [Amiga Power #2 (June 1991) – Quest for Glory II review, Stuart Campbell (Amiga Reviews archive)](https://www.amigareviews.leveluphost.com/questgl2.htm) – "the prequel to this one sold over 130,000 copies in its first year of release"
 [^ref-37]: [Macworld – 1994 Macintosh Game Hall of Fame, Steven Levy (archived)](https://web.archive.org/web/20030108175638/http://www.macworld.com/1995/01/features/143.html) – Best Role-Playing Game: Quest for Glory (Mac release of the VGA remake)
 [^ref-38]: [MobyGames – Hero's Quest tech specs](https://www.mobygames.com/game/168/heros-quest-so-you-want-to-be-a-hero/specs/) – DOS: 512 KB RAM; AdLib, Game Blaster, IBM Music Feature Card, PC Speaker, Roland MT-32
+[^ref-39]: [ScummVM – Compatibility list](https://www.scummvm.org/compatibility/) – sci:qfg1 rated "Excellent" ("Game has no known issues")
