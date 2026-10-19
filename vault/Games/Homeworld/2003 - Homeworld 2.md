@@ -10,7 +10,7 @@ series: Homeworld
 engine: Custom 3D Engine
 protagonist: Karan S'jet
 sierra_lineage: Sierra Published
-last_updated: '2026-10-09'
+last_updated: '2026-10-19'
 composer: [Paul Ruskay]
 description: Homeworld 2 is a 2003 three-dimensional real-time strategy game from
   Relic Entertainment and Sierra that continues the Hiigaran saga about a century after
@@ -19,7 +19,7 @@ tags: [2000s, homeworld, sierra, strategy]
 ---
 # Homeworld 2
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 19, 2026</small>
 
 ## Overview
 
@@ -268,7 +268,7 @@ The franchise changed hands multiple times following release. THQ acquired the H
 [^ref-22]: [Impulse Gamer – Homeworld 2 Review](https://www.impulsegamer.com/igversion01/pc/pchomeworld2.htm) – review score, development time
 [^ref-23]: [Metacritic – Homeworld Remastered Collection](https://www.metacritic.com/game/homeworld-remastered-collection/) – remastered aggregate score
 [^ref-24]: [GOG – Homeworld Remastered Collection](https://www.gog.com/en/game/homeworld_remastered_collection) – review scores, technical specs, user reviews
-[^ref-25]: [Gearbox Software – Homeworld Remastered Collection](https://www.gearboxsoftware.com/game/homeworld-remastered-collection/) – review quotes
+[^ref-25]: [Gearbox Software – Homeworld Remastered Collection](https://web.archive.org/web/20210119174901/https://www.gearboxsoftware.com/game/homeworld-remastered-collection/) – review quotes (archived January 2021)
 [^ref-26]: [Geeks Under Grace – Homeworld Remastered Review](https://www.geeksundergrace.com/gaming/pc/review-homeworld-remastered/) – engine differences, bugs, critical analysis
 [^ref-27]: [IMDB – Homeworld 2](https://www.imdb.com/find/?q=Homeworld+2&s=tt) – user rating
 [^ref-28]: [The Digital Antiquarian – Homeworld](https://www.filfre.net/2026/01/homeworld/) – Alex Garden quote on the original Homeworld's origin
@@ -276,7 +276,7 @@ The franchise changed hands multiple times following release. THQ acquired the H
 [^ref-31]: [Laced Records – Homeworld 2 Remastered Vinyl](https://www.lacedrecords.com/products/homeworld-2-remastered-deluxe-triple-vinyl) – composer influences, musical style
 [^ref-33]: [PCGamingWiki – Homeworld 2 Patch v1.1](https://community.pcgamingwiki.com/files/file/102-homeworld-2-patch/) – patch changelog
 [^ref-34]: [PCGamingWiki – Homeworld 2 Unofficial Patch](https://community.pcgamingwiki.com/files/file/478-homeworld-2-unofficial-patch/) – unofficial patch version
-[^ref-35]: [Gearbox Software – Homeworld Remastered Launch Announcement](https://www.gearboxsoftware.com/2015/01/homeworld-remastered-collection-launches-february-25/) – release date, features, pricing, Rob Cunningham quote
+[^ref-35]: [Gearbox Software – Homeworld Remastered Launch Announcement](https://web.archive.org/web/20171116204357/http://www.gearboxsoftware.com/2015/01/homeworld-remastered-collection-launches-february-25/) – release date, features, pricing, Rob Cunningham quote
 [^ref-36]: [Fists of Heaven – Homeworld Retrospective](http://www.fistsofheaven.com/ships-and-trucks-a-retrospective-of-homeworld/) – art direction, ship design philosophy
 [^ref-37]: [Kotaku – How We Overhauled the Homeworld Soundtrack](https://kotaku.com/how-we-overhauled-the-homeworld-soundtrack-for-a-new-au-1692665327) – audio production, voice recording history
 [^ref-38]: [Rock, Paper, Shotgun – Homeworld Remastered interview](https://www.rockpapershotgun.com/homeworld-remastered-mods) – Chris Faylor on recasting Karan S'jet
