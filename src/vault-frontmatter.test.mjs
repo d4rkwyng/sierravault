@@ -55,7 +55,11 @@ test("every page's frontmatter parses (else build.sh quarantines it off the site
       bad.push(`${path.relative(VAULT, file)}: ${e.message.split("\n")[0]}`)
     }
   }
-  assert.deepEqual(bad, [], "unparseable frontmatter (quote values containing ' #'):\n" + bad.join("\n"))
+  assert.deepEqual(
+    bad,
+    [],
+    "unparseable frontmatter (quote values containing ' #'):\n" + bad.join("\n"),
+  )
 })
 
 test("no frontmatter value is truncated by an unquoted ' #' comment", () => {
@@ -67,7 +71,15 @@ test("no frontmatter value is truncated by an unquoted ' #' comment", () => {
     } catch {
       continue // reported by the parse test above
     }
-    const raw = (m[1].match(/#/g) || []).length
+    // A deliberate annotation like `total_games: 7  # six games plus a remake`
+    // (whitespace, '#', whitespace-or-EOL) is a real comment and fine. The
+    // hazard is an unquoted value like `Hi-Res Adventure #5`, where the '#'
+    // runs straight into text — so drop conventional comments before counting.
+    const stripped = m[1]
+      .split(/\r?\n/)
+      .map((line) => line.replace(/(^|[ \t])#(?=[ \t]|$).*$/, "$1"))
+      .join("\n")
+    const raw = (stripped.match(/#/g) || []).length
     if (raw > countHashes(data)) bad.push(path.relative(VAULT, file))
   }
   assert.deepEqual(bad, [], "'#' in frontmatter was eaten as a YAML comment:\n" + bad.join("\n"))
