@@ -10,13 +10,13 @@ series: David Wolf
 engine: 3Space
 protagonist: David Wolf
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-19'
 description: 'David Wolf: Secret Agent is a 1989 DOS spy action game from Dynamix, billed as an "interactive movie": a James Bond-style story told in digitized still photographs of real actors, broken up by six polygon-graphics action sequences.'
 tags: [1980s, david-wolf, sierra]
 ---
 # David Wolf: Secret Agent
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 19, 2026</small>
 
 ## Overview
 
@@ -122,7 +122,7 @@ Several Dynamix staff also appear, including Damon Slye, Kevin Ryan and Jeff Tun
 - Programming: Kevin Ryan; Flight Model: Damon Slye; 3Space: David McClurg
 - Screenplay: Kevin Ryan, Jerry Luttrell, Mike Sussman
 - Art Director: John Burton
-- Musical Score: Alan McKean; Sound Effects and Music Editing: Bryce Morsello
+- Musical Score: Alan McKean; Sound Effects and Music Editing: Bryce Morcello[^ref-26]
 
 ### Technical Specifications
 
@@ -208,3 +208,4 @@ The program disks came sealed in a manila envelope. It carried the Peregrine log
 [^ref-23]: [MobyGames Credits (DOS)](https://www.mobygames.com/game/1610/david-wolf-secret-agent/credits/dos/) – Design, production, cast and technology credits
 [^ref-24]: [MobyGames Specs](https://www.mobygames.com/game/1610/david-wolf-secret-agent/specs/) – Video modes, sound devices, input, media, minimum requirements
 [^ref-25]: [The Games Machine #27 (Feb 1990) – Internet Archive](https://archive.org/details/the-games-machine-27) – Paul Rigby review (pp. 30–31): 16 actors, 400 digitised screens, Cinemaware comparison
+[^ref-26]: [MobyGames – David Wolf: Secret Agent DOS credits (Wayback Machine, 2017)](http://web.archive.org/web/20170517070016/http://www.mobygames.com:80/game/dos/david-wolf-secret-agent/credits) – "Sound Effects and Music Editing Bryce Morcello"; spelling of Morcello's surname

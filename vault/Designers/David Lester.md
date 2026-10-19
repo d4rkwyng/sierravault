@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Caesar", "Caesar III", "Lords of the Realm", "Lords of the Realm II"]
 companies: ["Impressions Games", "Sierra On-Line", "Firefly Studios", "Crimson Publishing"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-19"
 ---
 # David Lester
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 19, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ After receiving accountancy training at Arthur Young, Lester found he did not wa
 
 ### Impressions Games Era (1988–1998)
 
-Lester gives 1988 as the year he founded Impressions; GamesNostalgia agrees, while Wikipedia gives 1989.[^ref-2][^ref-1][^ref-4] The company's first game was a football title endorsed by Kenny Dalglish, which Lester calls *Kenny Dalglish Football Manager*; MobyGames and Wikipedia list it as *Kenny Dalglish Soccer Match* (1989).[^ref-2][^ref-6][^ref-4] Lester cold-called Liverpool Football Club to get Dalglish's name: "I rang him up. It was amazing, I remember ringing up Liverpool Football Club from a payphone during my coffee break and they put me through and he was there. I don't think it would happen today." The game "was number one all summer in 1989".[^ref-2]
+Lester gives 1988 as the year he founded Impressions; GamesNostalgia agrees, while Wikipedia gives 1989.[^ref-2][^ref-1][^ref-4] The company's first game was a football title endorsed by Kenny Dalglish, which Lester calls *Kenny Dalglish Football Manager*; this matches *Kenny Dalglish Soccer Manager* (1989), released on Impressions' Cognito label, rather than the later arcade game *Kenny Dalglish Soccer Match*.[^ref-2][^ref-21][^ref-22][^ref-23] Lester cold-called Liverpool Football Club to get Dalglish's name: "I rang him up. It was amazing, I remember ringing up Liverpool Football Club from a payphone during my coffee break and they put me through and he was there. I don't think it would happen today." The game "was number one all summer in 1989".[^ref-2]
 
 GamesNostalgia says Lester played no role in that game beyond securing Dalglish, and that his first game was Merchant Colony (1991), an Amiga trading strategy game for which he wrote the concept while Simon Bradbury did the development; MobyGames credits him with its "Game Concept".[^ref-1][^ref-16]
 
@@ -122,3 +122,6 @@ All roles as credited on MobyGames.[^ref-16][^ref-6]
 [^ref-18]: [Sierra - Lords of the Realm 2: Notes From The Designer (Archived January 1997)](https://web.archive.org/web/19970113095825/http://www1.sierra.com:80/games/lords2/designer.html) — Signed "David Lester, Impressions/Sierra, October 4, 1996"
 [^ref-19]: [MobyGames - Caesar III Credits (Archived 2021)](https://web.archive.org/web/20210125084118/https://www.mobygames.com/game/windows/caesar-iii/credits) — Designer: David Lester; Manual & Research
 [^ref-20]: [MobyGames - Lords of the Realm II Credits (Archived 2012)](https://web.archive.org/web/20120707014357/http://www.mobygames.com:80/game/windows/lords-of-the-realm-ii/credits) — Game Designer and Executive Producer: David Lester
+[^ref-21]: [The Games Machine #32 (July 1990), p. 57, "Kenny Dalglish Soccer Match" – Internet Archive](https://archive.org/details/the-games-machine-32) – "we reviewed Kenny Dalglish Soccer Manager, on Impression's Cognito label"
+[^ref-22]: [Spectrum Computing – Kenny Dalglish Soccer Manager](https://spectrumcomputing.co.uk/entry/2682/ZX-Spectrum/Kenny_Dalglish_Soccer_Manager) – original release Cognito Software, 1989; author Derek Brewster (team: Impressions Ltd); reviewed in Sinclair User #88, July 1989
+[^ref-23]: [Amiga Reviews – Amiga Format #8, Kenny Dalglish Soccer Match](https://amigareviews.leveluphost.com/kennydal.htm) – "the second in the planned trilogy of Kenny games - the first was a management game"

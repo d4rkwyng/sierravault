@@ -6,11 +6,11 @@ defunct: 2004
 headquarters: "United Kingdom; US studio in Cambridge, Massachusetts"
 notable_games: ["Caesar III", "Pharaoh", "Zeus: Master of Olympus"]
 parent_company: "Sierra On-Line (1995-2004)"
-last_updated: '2026-10-16'
+last_updated: '2026-10-19'
 ---
 # Impressions Games
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 19, 2026</small>
 
 ## Overview
 
@@ -22,7 +22,7 @@ Impressions Games was a British game developer and publisher founded by David Le
 
 Sources differ on the founding year. Lester's own account, in a 2013 interview, is that he founded Impressions Software "in 1988 when just 22"; MobyGames and Wikipedia give 1989.[^ref-22][^ref-20][^ref-9] Lester was not previously in the games industry: he "trained as an accountant with Arthur Young," grew bored within a year, and, having "various computer games contacts," decided "to start a computer games publishing company as a hobby with some friends."[^ref-22] (See [[David Lester]].)
 
-Its first game was the Kenny Dalglish-endorsed football title Kenny Dalglish Soccer Match (1989).[^ref-9][^ref-22] MobyGames describes a UK company focused on strategy and business games, working with partners and freelancers including Edward Grabowski and Simon Bradbury.[^ref-20] Its early catalog included The Charge of the Light Brigade (1991), which it developed, and Merchant Colony (1991), which Wikipedia lists among the games it published.[^ref-9]
+Its first Dalglish-licensed game was the management title Kenny Dalglish Soccer Manager (1989), released on its Cognito label; the arcade game Kenny Dalglish Soccer Match followed.[^ref-9][^ref-22][^ref-25][^ref-26] MobyGames describes a UK company focused on strategy and business games, working with partners and freelancers including Edward Grabowski and Simon Bradbury.[^ref-20] Its early catalog included The Charge of the Light Brigade (1991), which it developed, and Merchant Colony (1991), which Wikipedia lists among the games it published.[^ref-9]
 
 In 1992 Impressions opened a US division in Farmington, Connecticut, which later moved to Cambridge, Massachusetts.[^ref-20] Lester recalled setting up a US office "with two people to start with and over the next three years we built that up to fifty people."[^ref-22] Caesar, the first City Building game, came out in 1992, followed by Caesar Deluxe in 1993.[^ref-9]
 
@@ -118,3 +118,5 @@ Years follow the vault's game pages. Merchant Colony, Cohort, Cohort II and Brea
 [^ref-22]: [Companies Made Simple - Real Business Case Study: David Lester, February 6, 2013 (Wayback Machine, 2014)](https://web.archive.org/web/20140209164123/http://www.companiesmadesimple.com/project/blog/real-business-case-study-david-lester) — Arthur Young; founded Impressions Software "in 1988 when just 22"; "as a hobby with some friends"; US office; sold to Sierra in 1995
 [^ref-23]: [Seattle Times - "Sierra's Game Plan", January 22, 1996](https://archive.seattletimes.com/archive/19960122/2310224/sierras-game-plan----software-firm-hopes-acquisition-strategy-makes-it-a-winner-in-its-niche) — "June 1995: Impressions Software Inc., Cambridge, Mass. ... Employees: 40"
 [^ref-24]: [CNN/Money - VU Games job cuts, June 21, 2004 (Wayback Machine)](https://web.archive.org/web/20041204223605/http://money.cnn.com/2004/06/21/technology/vugames/index.htm) — Papyrus and Impressions "closed last month"
+[^ref-25]: [The Games Machine #32 (July 1990), p. 57, "Kenny Dalglish Soccer Match" – Internet Archive](https://archive.org/details/the-games-machine-32) – "we reviewed Kenny Dalglish Soccer Manager, on Impression's Cognito label"
+[^ref-26]: [Spectrum Computing – Kenny Dalglish Soccer Manager](https://spectrumcomputing.co.uk/entry/2682/ZX-Spectrum/Kenny_Dalglish_Soccer_Manager) – original release Cognito Software, 1989; author Derek Brewster (team: Impressions Ltd); reviewed in Sinclair User #88, July 1989
