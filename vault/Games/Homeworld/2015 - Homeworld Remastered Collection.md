@@ -10,7 +10,7 @@ series: Homeworld
 engine: Homeworld 2 Engine
 protagonist: Karan S'jet / Fleet Command
 sierra_lineage: Sierra Published
-last_updated: '2026-10-09'
+last_updated: '2026-10-19'
 composer: [Paul Ruskay]
 description: Homeworld Remastered Collection is a comprehensive restoration of Relic
   Entertainment's groundbreaking space real-time strategy games, released on February...
@@ -18,7 +18,7 @@ tags: [2010s, homeworld, sierra, strategy]
 ---
 # Homeworld Remastered Collection
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 19, 2026</small>
 
 ## Overview
 
@@ -387,7 +387,7 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [^ref-37]: [Giant Bomb – E3 1998](https://www.giantbomb.com/e3-1998/3015-3420/) – E3 awards
 [^ref-39]: [Wikipedia – Relic Entertainment](https://en.wikipedia.org/wiki/Relic_Entertainment) – company founding, founders list
 [^ref-40]: [GameSpot France – Homeworld (archived)](https://web.archive.org/web/20011201180335/http://www.gamespot.fr/stories/news/0,1610,2007290,00.html) – Sierra support quote
-[^ref-41]: [Gearbox Software Blog – Homeworld Code History](http://www.gearboxsoftware.com/2013/11/inside-the-box-homeworld-a-brief-history-of-code/) – source code details, compiler info
+[^ref-41]: [Gearbox Software Blog – Homeworld Code History](https://web.archive.org/web/20160511024546/http://www.gearboxsoftware.com/2013/11/inside-the-box-homeworld-a-brief-history-of-code/) – source code details, compiler info (archived)
 [^ref-42]: [Gearbox Software Blog – Inside the Box: Homeworld](http://www.gearboxsoftware.com/2013/08/inside-the-box-homeworld/) – source code size, community involvement
 [^ref-43]: [Rock Paper Shotgun – Homeworld Remastered Mods Interview](https://www.rockpapershotgun.com/homeworld-remastered-mods) – Brian Martel quote on remastering approach
 [^ref-44]: [PCGamingWiki – Homeworld](https://www.pcgamingwiki.com/wiki/Homeworld) – system requirements, compatibility issues, API support
