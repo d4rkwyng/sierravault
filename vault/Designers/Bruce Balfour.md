@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Wasteland", "Neuromancer", "The Dagger of Amon Ra", "Outpost"]
 companies: ["Interplay Entertainment", "Sierra On-Line", "NASA Ames Research Center"]
-last_updated: "2026-10-15"
+last_updated: "2026-10-19"
 ---
 # Bruce Balfour
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 19, 2026</small>
 
 ## Overview
 
@@ -118,7 +118,7 @@ Roles follow MobyGames unless another source is cited.[^ref-14]
 [^ref-1]: [MobyGames - Bruce J. Balfour](https://www.mobygames.com/person/38654/bruce-j-balfour/) — Career overview and game credits
 [^ref-2]: [Wasteland Wiki - Bruce Balfour](https://wasteland-archive.fandom.com/wiki/Bruce_Balfour) — Early career and game development credits
 [^ref-3]: [GameBytes Outpost Preview](http://www.ibiblio.org/GameBytes/issue18/flooks/outpost.html) — Detailed interview with development insights and NASA background
-[^ref-4]: [Campo Santo Quarterly - Selected Stories from the Days of Laura Bow](https://quarterly.camposanto.com/selected-stories-from-the-days-of-laura-bow-5302099438a7) — Extensive interviews about Dagger of Amon Ra development
+[^ref-4]: [Campo Santo Quarterly - Selected Stories from the Days of Laura Bow (2018, Wayback)](https://web.archive.org/web/20200330012511/https://quarterly.camposanto.com/selected-stories-from-the-days-of-laura-bow-5302099438a7) — Extensive interviews about Dagger of Amon Ra development
 [^ref-5]: [Sierra Wiki - The Dagger of Amon Ra](https://sierra.fandom.com/wiki/The_Dagger_of_Amon_Ra) — Full credits and development details
 [^ref-6]: [Creative Insight Community Development](https://creativeinsightcd.com/about-us/) — Post-gaming career and consulting work
 [^ref-7]: [Bruce Balfour Official Website](https://brucebalfour.com/about-bruce-balfour) — Personal background, current projects, and bibliography

@@ -1,10 +1,10 @@
 ---
 title: "Site Index"
-last_updated: "2026-10-16"
+last_updated: "2026-10-19"
 ---
 # Site Index
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 19, 2026</small>
 
 ## Vault Navigation
 
@@ -57,9 +57,9 @@ Tier-1 flagship series plus umbrella overviews for major non-flagship lines.
 
 ### Designers, Developers, Publishers, Guides
 
-- **Designers** — 57 biographical pages (see folder listing)
-- **Developers** — 28 studio profiles (see folder listing)
-- **Publishers** — 23 publisher pages (see folder listing)
+- **Designers** — 57 biographical pages: [[Al Lowe]], [[Allen Mcpheeters]], [[Andy Hoyos]], [[Bill Davis]], [[Bob Heitman]], [[Brian Hahn]], [[Bruce Balfour]], [[Carlos Escobar]], [[Chris Beatrice]], [[Chris Braymen]], [[Christy Marx]], [[Chuck Benton]], [[Corey Cole]], [[Damon Slye]], [[Daryl Gates]], [[Dave Kaemmer]], [[David Lester]], [[David Selle]], [[Doug Johnson]], [[Doug Oldfield]], [[Douglas Herring]], [[Gano Haine]], [[Guruka Singh Khalsa]], [[Hibiki Godai]], [[Jane Jensen]], [[Jeff Stephenson]], [[Jeff Tunnell]], [[Jerry Moore]], [[Jim Walls]], [[John Cutter]], [[Josh Mandel]], [[Ken Allen]], [[Ken Williams]], [[Kevin Ryan]], [[Leslie Balfour]], [[Lorelei Shannon]], [[Lori Ann Cole]], [[Mark Crowe]], [[Mark Seibert]], [[Muriel Tramis]], [[Neal Hallford]], [[Pablo Ghenis]], [[Patrick Cook]], [[Peter Ledger]], [[Pierre Gilhodes]], [[Rabih AbouJaoudé]], [[Randy Dersham]], [[Richard Tunnell]], [[Robert Clardy]], [[Robert Holmes]], [[Roberta Williams]], [[Scott Murphy]], [[Scott Youngblood]], [[Simon Bradbury]], [[Stuart Moulder]], [[Tammy Dargan]], [[Warren Schwader]]
+- **Developers** — 28 studio profiles: [[Developers/AGD Interactive|AGD Interactive]], [[Developers/Barking Dog Studios|Barking Dog Studios]], [[Developers/Berkeley Systems|Berkeley Systems]], [[Developers/Blackbird Interactive|Blackbird Interactive]], [[Developers/Bright Star Technology|Bright Star Technology]], [[Developers/Coktel Vision|Coktel Vision]], [[Developers/Dynamix|Dynamix]], [[Developers/Evryware|Evryware]], [[Developers/Game Arts|Game Arts]], [[Developers/Gearbox Software|Gearbox Software]], [[Developers/Headgate Studios|Headgate Studios]], [[Developers/Himalaya Studios|Himalaya Studios]], [[Developers/Impressions Games|Impressions Games]], [[Developers/Infamous Adventures|Infamous Adventures]], [[Developers/Infamous Quests|Infamous Quests]], [[Developers/Jeff Tunnell Productions|Jeff Tunnell Productions]], [[Developers/Knowledge Adventure|Knowledge Adventure]], [[Developers/Massive Entertainment|Massive Entertainment]], [[Developers/Monolith Productions|Monolith Productions]], [[Developers/On-Line Systems|On-Line Systems]], [[Developers/Papyrus Design Group|Papyrus Design Group]], [[Developers/Phoenix Online Studios|Phoenix Online Studios]], [[Developers/Relic Entertainment|Relic Entertainment]], [[Developers/Sierra On-Line|Sierra On-Line]], [[Developers/Stainless Steel Studios|Stainless Steel Studios]], [[Developers/Synergistic Software|Synergistic Software]], [[Developers/Valve Corporation|Valve Corporation]], [[Developers/Yosemite Entertainment|Yosemite Entertainment]]
+- **Publishers** — 23 publisher pages: [[Publishers/AGD Interactive|AGD Interactive]], [[Publishers/Activision|Activision]], [[Publishers/Assemble Entertainment|Assemble Entertainment]], [[Publishers/Berkeley Systems|Berkeley Systems]], [[Publishers/Broderbund Software|Broderbund Software]], [[Publishers/Coktel Vision - Sierra On-Line|Coktel Vision - Sierra On-Line]], [[Publishers/Disney|Disney]], [[Publishers/Dynamix|Dynamix]], [[Publishers/Electronic Arts|Electronic Arts]], [[Publishers/Encore Software|Encore Software]], [[Publishers/Gearbox Publishing|Gearbox Publishing]], [[Publishers/Himalaya Studios|Himalaya Studios]], [[Publishers/Infamous Adventures|Infamous Adventures]], [[Publishers/Infamous Quests|Infamous Quests]], [[Publishers/Knowledge Adventure|Knowledge Adventure]], [[Publishers/Phoenix Online Publishing|Phoenix Online Publishing]], [[Publishers/Replay Games|Replay Games]], [[Publishers/Schnibble Productions|Schnibble Productions]], [[Publishers/Sierra On-Line|Sierra On-Line]], [[Publishers/Sunlight Games - KISS ltd|Sunlight Games - KISS ltd]], [[Publishers/Tomahawk|Tomahawk]], [[Publishers/Transolar Games|Transolar Games]], [[Publishers/Virgin Games|Virgin Games]]
 - **Guides** — 19 how-to/reference guides ([[Buying Guide]], [[Compatibility Guide]], [[Engine Index]], [[Sierra History]], etc.)
 
 ---
@@ -310,17 +310,17 @@ This archive contains **528 game pages** in 76 folders, listed below in 77 secti
 ## Dynamix
 
 - **1984** — [[1984 - Sword of Kadash|Sword of Kadash]] — Last Updated: 2026-10-12
-- **1986** — [[1986 - Arcticfox|Arcticfox]] — Last Updated: 2026-10-09
-- **1987** — [[1987 - Skyfox II - The Cygnus Conflict|Skyfox II: The Cygnus Conflict]] — Last Updated: 2026-10-09
-- **1988** — [[1988 - Caveman Ughlympics|Caveman Ughlympics]] — Last Updated: 2026-10-09
+- **1986** — [[1986 - Arcticfox|Arcticfox]] — Last Updated: 2026-10-19
+- **1987** — [[1987 - Skyfox II - The Cygnus Conflict|Skyfox II: The Cygnus Conflict]] — Last Updated: 2026-10-19
+- **1988** — [[1988 - Caveman Ughlympics|Caveman Ughlympics]] — Last Updated: 2026-10-19
 - **1989** — [[1989 - Abrams Battle Tank|Abrams Battle Tank]] — Last Updated: 2026-10-15
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Last Updated: 2026-10-12
-- **1989** — [[1989 - Deathtrack|Deathtrack]] — Last Updated: 2026-10-09
-- **1989** — [[1989 - Die Hard|Die Hard]] — Last Updated: 2026-10-09
-- **1989** — [[1989 - F-14 Tomcat|F-14 Tomcat]] — Last Updated: 2026-10-09
-- **1989** — [[1989 - Ghostbusters II|Ghostbusters II]] — Last Updated: 2026-10-09
+- **1989** — [[1989 - Deathtrack|Deathtrack]] — Last Updated: 2026-10-19
+- **1989** — [[1989 - Die Hard|Die Hard]] — Last Updated: 2026-10-19
+- **1989** — [[1989 - F-14 Tomcat|F-14 Tomcat]] — Last Updated: 2026-10-19
+- **1989** — [[1989 - Ghostbusters II|Ghostbusters II]] — Last Updated: 2026-10-19
 - **1989** — [[1989 - MechWarrior|MechWarrior]] — Last Updated: 2026-10-15
-- **1989** — [[1989 - Project Firestart|Project Firestart]] — Last Updated: 2026-10-09
+- **1989** — [[1989 - Project Firestart|Project Firestart]] — Last Updated: 2026-10-19
 - **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Last Updated: 2026-10-09
 - **1991** — [[1991 - Heart of China|Heart of China]] — Last Updated: 2026-10-12
 - **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Last Updated: 2026-10-09
@@ -501,8 +501,8 @@ This archive contains **528 game pages** in 76 folders, listed below in 77 secti
 
 ## Impressions
 
-- **1989** — [[1989 - Kenny Dalglish Soccer Match|Kenny Dalglish Soccer Match]] — Last Updated: 2026-10-09
-- **1991** — [[1991 - Afrika Korps|Afrika Korps]] — Last Updated: 2026-10-09
+- **1989** — [[1989 - Kenny Dalglish Soccer Match|Kenny Dalglish Soccer Match]] — Last Updated: 2026-10-19
+- **1991** — [[1991 - Afrika Korps|Afrika Korps]] — Last Updated: 2026-10-19
 - **1991** — [[1991 - Cohort Fighting for Rome|Cohort: Fighting for Rome]] — Last Updated: 2026-10-13
 - **1991** — [[1991 - Fort Apache|Fort Apache]] — Last Updated: 2026-10-13
 - **1991** — [[1991 - Merchant Colony|Merchant Colony]] — Last Updated: 2026-10-13
@@ -510,9 +510,9 @@ This archive contains **528 game pages** in 76 folders, listed below in 77 secti
 - **1992** — [[1992 - Air Force Commander|Air Force Commander]] — Last Updated: 2026-10-13
 - **1992** — [[1992 - Conquest of Japan|Conquest of Japan]] — Last Updated: 2026-10-13
 - **1993** — [[1993 - Cohort II - Fighting for Rome|Cohort II: Fighting for Rome]] — Last Updated: 2026-10-13
-- **1993** — [[1993 - The Blue & the Gray|Edward Grabowski's The Blue & The Gray]] — Last Updated: 2026-10-09
+- **1993** — [[1993 - The Blue & the Gray|Edward Grabowski's The Blue & The Gray]] — Last Updated: 2026-10-19
 - **1993** — [[1993 - WW2 Air Force Commander|WW2 Air Force Commander]] — Last Updated: 2026-10-13
-- **1994** — [[1994 - D-Day - The Beginning of the End|D-Day: The Beginning of the End]] — Last Updated: 2026-10-09
+- **1994** — [[1994 - D-Day - The Beginning of the End|D-Day: The Beginning of the End]] — Last Updated: 2026-10-19
 - **1994** — [[1994 - Detroit|Detroit]] — Last Updated: 2026-10-09
 - **1994** — [[1994 - Front Lines|Front Lines]] — Last Updated: 2026-10-13
 - **1995** — [[1995 - Breach 3|Breach 3]] — Last Updated: 2026-10-13
