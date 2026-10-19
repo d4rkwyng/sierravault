@@ -19,6 +19,8 @@ Key files:
 | `sanitize-frontmatter.mjs` | Cleans bad YAML frontmatter before the build. |
 | `prefix-year.mjs` | Prepends release years to game titles for nav ordering. |
 | `generate-redirect-stubs.mjs` | Emits redirect stubs for ambiguous wikilinks. |
+| `fix-graph-links.mjs` | Remaps graph/backlink targets in `contentIndex.json` to real page slugs. |
+| `src/*.test.mjs` | Worker redirect tests + vault frontmatter guard (run by `npm test`). |
 | `src/worker.js` | Cloudflare Worker: redirects old Obsidian Publish URLs. |
 | `wrangler.jsonc` | Cloudflare Workers config (Worker + static-asset binding). |
 | `mirror-rebuild.sh` | Cron rebuild for the self-hosted mirror. |
@@ -109,6 +111,22 @@ node generate-redirect-stubs.mjs
 ```
 
 Some entities exist in **more than one folder** — e.g. Dynamix appears under both `developers/` and `publishers/`. A `[[Dynamix]]` wikilink is then ambiguous and can resolve to a bare `/dynamix` that doesn't exist as a page, 404ing. This script walks `public/`, finds every internal link that lands on a missing page, and if a real page with that basename exists elsewhere, writes a small meta-refresh + canonical **redirect stub** at the broken location pointing to the canonical page (preferring developer > publisher > designer > series > games > …).
+
+### 9. `fix-graph-links.mjs`
+
+```bash
+node fix-graph-links.mjs
+```
+
+The graph view and backlinks read `public/static/contentIndex.json`, whose `links` arrays hold raw, uncollapsed wikilink targets that don't match the collapsed full-path node slugs — so the graph draws no edges. This pass remaps every link target to the real node slug, using the same canonical-folder preference as the redirect stubs.
+
+## Tests
+
+```bash
+npm test
+```
+
+Runs `src/worker.test.mjs` (legacy-URL redirects) and `src/vault-frontmatter.test.mjs`, which fails if any vault page's frontmatter won't parse or has a `#` silently eaten as a YAML comment. Both matter because `sanitize-frontmatter.mjs` quarantines an unparseable page and the build still exits 0 — the page just disappears from the live site. The Cloudflare build command (see Deploy below) does **not** run `npm test`, so run it before pushing.
 
 ## `markdownLinkResolution: absolute`
 
