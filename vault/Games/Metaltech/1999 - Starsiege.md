@@ -10,7 +10,7 @@ series: Earthsiege / Metaltech
 engine: Darkstar
 protagonist: Harabec Weathers (Human Campaign) / Prometheus (Cybrid Campaign)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-19'
 composer: [Timothy Steven Clarke (Loudmouth Studios)]
 description: Starsiege is a mecha-style vehicle simulation game developed by Dynamix
   and published by Sierra On-Line, released in March 1999 for Microsoft Windows.
@@ -18,7 +18,7 @@ tags: [1990s, earthsiege-metaltech, sierra, simulation]
 ---
 # Starsiege
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 19, 2026</small>
 
 ## Overview
 
@@ -225,7 +225,7 @@ Starsiege: Tribes (December 1998), a multiplayer-focused first-person shooter, s
 
 GameRevolution's 1999 review mentioned a Starsiege 2, "which is apparently already in the works."[^ref-20] A fan petition launched in December 2000, which gathered 2,238 signatures, called on Sierra to develop Starsiege 2, complaining that the company had chosen other projects, including Tribes 2.[^ref-42]
 
-Prophecy Games announced Starsiege: Deadzone in September 2022;[^ref-1] it is described as a "corridor extraction shooter set in the far reaches of space" featuring hostile Cybrids.[^ref-48]
+Prophecy Games announced Starsiege: Deadzone in September 2022;[^ref-1] released in Early Access on July 18, 2023, it was described on its Epic Games Store page as a "corridor extraction shooter set in the far reaches of space" featuring hostile Cybrids.[^ref-48] It is no longer sold: Prophecy retired its Steam store page in February 2024 and discontinued the game's servers in April 2024,[^ref-51][^ref-52] and the Epic listing was marked "Unavailable" by July 2025.[^ref-48]
 
 ### Critical Perspective
 
@@ -308,6 +308,8 @@ The game's legacy is complicated by its commercial failure, which CNET Gamecente
 [^ref-44]: [Spokesman Tech Deck – Free Game](http://www.spokesman.com/blogs/tech-deck/2015/aug/31/weeks-free-game-starsiege-tribes/) – Dynamix closure date, series history
 [^ref-45]: [GoneGold Euro 1999 (Archive)](https://web.archive.org/web/20010210220535/http://www.gonegold.com/golden/eurogold99.shtml) – European release dates
 [^ref-47]: [Dynamix Fandom – Starsiege: Tribes](https://dynamix.fandom.com/wiki/Starsiege:_Tribes) – PC Gamer quote, awards
-[^ref-48]: [Epic Games Store – Starsiege: Deadzone](https://store.epicgames.com/en-US/p/starsiege-deadzone) – 2023 revival details
+[^ref-48]: [Epic Games Store – Starsiege: Deadzone (Archived July 2025)](https://web.archive.org/web/20250709192150/https://store.epicgames.com/en-US/p/starsiege-deadzone) – description, 07/18/23 release date, "Unavailable" status; live listing now removed
 [^ref-49]: [Internet Archive – Starsiege Patches](https://archive.org/details/StarsiegePatches) – patch preservation
 [^ref-50]: [Polygon – Download all the Tribes and Starsiege games for free right now](https://www.polygon.com/2015/10/30/9646074/tribes-free-downloads-pc-ps2) – Oct 30, 2015; Hi-Rez site live since July, Tribes IP held since 2010
+[^ref-51]: [Steam – Starsiege: Deadzone – Store Page Update](https://steamcommunity.com/games/2170420/announcements/detail/5750603429273922411) – Prophecy Games, February 14, 2024: "temporarily retiring the store page"
+[^ref-52]: [Steam – Starsiege: Deadzone – Server Discontinuance](https://steamcommunity.com/games/2170420/announcements/detail/5762994032391614645) – Prophecy Games, April 18, 2024: "discontinue servers for Starsiege: Deadzone"
