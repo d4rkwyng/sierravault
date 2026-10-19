@@ -1,11 +1,11 @@
 ---
 title: "Fan & Community Resources"
 type: guide
-last_updated: "2026-10-16"
+last_updated: "2026-10-19"
 ---
 # Fan & Community Resources
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 19, 2026</small>
 
 Want to dig deeper than these Markdown notes? These sites preserve interviews, downloads, and discussions across the Sierra fandom.
 
@@ -36,7 +36,7 @@ Want to dig deeper than these Markdown notes? These sites preserve interviews, d
 - [Al Lowe's Humor Site](http://allowe.com/) - Series creator's official site with [Larry Links](http://allowe.com/games/larry/even-more-larry/larry-links.html), game history, and CyberJoke 3000 newsletter.
 
 ### Gabriel Knight
-- [Gabriel Knight Fandom Wiki](https://gabrielknight.fandom.com/wiki/Gabriel_Knight_Wiki) - Character biographies, walkthrough links, and canonical timeline debates.
+- [Gabriel Knight Omnipedia](https://gabrielknight.fandom.com/wiki/Gabriel_Knight_Omnipedia) - Fandom wiki covering the games, demos, books and characters, including a 20th Anniversary timeline and a canon policy that keeps the original, novel and remake storylines apart.
 
 ## Forums & Communities
 - [Reddit r/Sierra](https://www.reddit.com/r/Sierra/) - General Sierra discussion, tech support, and nostalgia.
