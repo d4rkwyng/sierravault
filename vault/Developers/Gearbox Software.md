@@ -6,11 +6,11 @@ defunct: null
 headquarters: "Frisco, Texas, USA"
 notable_games: ["Borderlands", "Half-Life: Opposing Force", "Brothers in Arms"]
 parent_company: "Take-Two Interactive"
-last_updated: "2026-10-16"
+last_updated: "2026-10-19"
 ---
 # Gearbox Software
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 19, 2026</small>
 
 ## Overview
 
@@ -74,7 +74,7 @@ In May 2019 Gearbox set up The Gearbox Entertainment Company as a parent for Gea
 
 ## References
 
-[^ref-1]: [Gearbox Software Official About Page](https://www.gearboxsoftware.com/about/) — "Founded in February 1999"
+[^ref-1]: [Gearbox Software Official About Page (Archived 2022)](https://web.archive.org/web/20220719231111/https://www.gearboxsoftware.com/about/) — "Founded in February 1999"
 [^ref-3]: [Wikipedia Gearbox Software](https://en.wikipedia.org/wiki/Gearbox_Software) — founders ex-Rebel Boat Rocker, February 16, 1999; Half-Life work; Brothers in Arms and Borderlands; Embracer 2021; Take-Two closing June 12, 2024; Montgomery; Steve Jones
 [^ref-7]: [MobyGames Gearbox Software](https://www.mobygames.com/company/2049/gearbox-software-llc/) — founded January 1999; Rebel Boat Rocker, 3D Realms and Bethesda backgrounds; Opposing Force, Blue Shift, Decay and the PS2 port
 [^ref-8]: [Counter-Strike Fandom Gearbox Software](https://counterstrike.fandom.com/wiki/Gearbox_Software) — founded February 16, 1999 by former Rebel Boat Rocker staff; took on Condition Zero in late May 2001; ceased development July 2002
