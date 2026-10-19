@@ -10,14 +10,14 @@ series: Homeworld
 engine: Unreal Engine 4
 protagonist: Imogen S'Jet
 sierra_lineage: Sierra Published
-last_updated: '2026-10-12'
+last_updated: '2026-10-19'
 description: Homeworld 3 is a real-time strategy game developed by Blackbird Interactive
   and published by Gearbox Publishing, released on May 13, 2024 for Windows PC....
 tags: [2020s, homeworld, sierra, strategy]
 ---
 # Homeworld 3
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 19, 2026</small>
 
 ## Overview
 
@@ -308,7 +308,7 @@ Blackbird ended active development with Update 1.3, about six months after launc
 [^ref-36]: [Metacritic – Homeworld 3](https://www.metacritic.com/game/homeworld-3/) – Metascore 75 "Generally Favorable" (41 critic reviews); user score 3.1 from 86 ratings (checked Oct 2026)
 [^ref-38]: [PCGamesN – The next Homeworld 3 update will be the last](https://www.pcgamesn.com/homeworld-3/final-update/) – Nov 19, 2024; "average concurrent player base of less than 50"; 38% of 4,500+ Steam reviews positive
 [^ref-39]: [Homeworld Fandom – Blackbird Interactive](https://homeworld.fandom.com/wiki/Blackbird_Interactive) – fan wiki; gives 2007 founding and THQ background
-[^ref-40]: [Gearbox Software – Acquisition Announcement](https://www.gearboxsoftware.com/2013/04/homeworld-acquisition-and-plans/) – franchise acquisition
+[^ref-40]: [Gearbox Software – Acquisition Announcement](https://web.archive.org/web/20160831174042/http://www.gearboxsoftware.com/2013/04/homeworld-acquisition-and-plans/) – franchise acquisition, April 22, 2013 (archived)
 [^ref-41]: [MobyGames – Blackbird Interactive](https://www.mobygames.com/company/24674/blackbird-interactive-inc/) – "The company was founded in 2010"; Hardware to Homeworld transition, deal signed at PAX
 [^ref-42]: [Eurogamer – Preview Interview](https://www.eurogamer.net/the-scale-in-homeworld-3-is-tremendous-its-a-space-rts-for-the-james-webb-era) – development timeline, team size
 [^ref-43]: [Jeuxvideo.com – Announcement](http://www.jeuxvideo.com/news/1100408/homeworld-3-officiellement-annonce-par-gearbox.htm) – initial announcement
