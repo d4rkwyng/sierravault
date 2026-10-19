@@ -10,14 +10,14 @@ series: Homeworld
 engine: Modified Homeworld engine
 protagonist: Kiith Somtaaw Fleet Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-19'
 description: 'Homeworld: Cataclysm is a standalone real-time strategy sequel to the
   acclaimed Homeworld, developed by Barking Dog Studios and published by Sierra...'
 tags: [2000s, homeworld, sierra, strategy]
 ---
 # Homeworld: Cataclysm
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 19, 2026</small>
 
 ## Overview
 
@@ -176,7 +176,7 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [^ref-25]: [Forbes - Paul Ruskay Interview](https://www.forbes.com/sites/olliebarder/2022/01/18/paul-ruskay-on-how-he-composed-the-unique-soundscape-for-the-homeworld-games/) – Composer's perspective on soundtrack
 [^ref-28]: [Escapist Magazine - Source Code](https://www.escapistmagazine.com/gearbox-would-love-to-re-release-homeworld-cataclysm/) – Lost source code discussion
 [^ref-31]: [Kotaku - Audio Archiving](https://kotaku.com/how-we-overhauled-the-homeworld-soundtrack-for-a-new-au-1692665327) – Ruskay on archived media and preservation
-[^ref-32]: [Homeworld Fandom Wiki - Full Credits](https://homeworld.fandom.com/wiki/Homeworld:_Cataclysm/Credits) – Complete voice cast information
+[^ref-32]: [Homeworld Fandom Wiki – Homeworld: Cataclysm](https://homeworld.fandom.com/wiki/Homeworld:_Cataclysm) – voice cast list (the separate Credits subpage has been removed)
 [^ref-38]: [Web Archive - GameSpy Review](https://web.archive.org/web/20001110045100/http://www.gamespy.com:80/reviews/september00/cataclysm/) – Nate Timperley review: "a worthy addition"
 [^ref-39]: Game Over Online Review *(link removed: it led to a different game's page)* – Story coherence assessment
 [^ref-40]: [Web Archive - Electric Playground Review](https://web.archive.org/web/20020817041227/http://www.elecplay.com/review.html?article=3166&full=1) – 9/10, Aliens comparison, support modules
