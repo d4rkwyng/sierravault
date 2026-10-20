@@ -38,6 +38,35 @@ function countHashes(v) {
   return 0
 }
 
+// '#' characters in comments that can't have truncated anything: whole-line
+// comments, and trailing comments after a complete value that isn't a plain
+// string — a number/bool/null (`total_games: 7  # six games plus a remake`) or
+// a fully quoted string. Only a trailing comment after an *unquoted string*
+// value is the accidental-truncation case this test exists to catch.
+function intentionalCommentHashes(fm) {
+  let n = 0
+  for (const line of fm.split(/\r?\n/)) {
+    let comment = null
+    if (/^\s*#/.test(line)) comment = line
+    else {
+      const t = line.match(/^\s*[A-Za-z_][\w-]*:\s+(.+?)\s+(#.*)$/)
+      if (t) {
+        const v = t[1]
+        let complete = /^"(?:[^"\\]|\\.)*"$|^'(?:[^']|'')*'$/.test(v)
+        if (!complete) {
+          try {
+            const parsed = yaml.load(v)
+            complete = parsed === null || typeof parsed === "number" || typeof parsed === "boolean"
+          } catch {}
+        }
+        if (complete) comment = t[2]
+      }
+    }
+    if (comment) n += (comment.match(/#/g) || []).length
+  }
+  return n
+}
+
 const pages = mdFiles(VAULT)
   .map((file) => ({ file, m: fs.readFileSync(file, "utf8").match(FM_RE) }))
   .filter(({ m }) => m)
@@ -67,7 +96,7 @@ test("no frontmatter value is truncated by an unquoted ' #' comment", () => {
     } catch {
       continue // reported by the parse test above
     }
-    const raw = (m[1].match(/#/g) || []).length
+    const raw = (m[1].match(/#/g) || []).length - intentionalCommentHashes(m[1])
     if (raw > countHashes(data)) bad.push(path.relative(VAULT, file))
   }
   assert.deepEqual(bad, [], "'#' in frontmatter was eaten as a YAML comment:\n" + bad.join("\n"))
