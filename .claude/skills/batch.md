@@ -24,7 +24,7 @@ When user says `/batch`, do the following:
    a. Research (gather sources)
    b. Review research quality
    c. Generate page from research
-   d. Score with both validators
+   d. Score structure and verify sources (Rule #0)
    e. If score ≥90%, mark complete
    f. Ask: Continue to next game?
    ```
@@ -36,7 +36,6 @@ For each game (Assets/ACTIVE — private repo tooling, not in this checkout; see
 ```bash
 source .venv/bin/activate
 python3 scripts/score_page.py "vault/Games/Series/YEAR - Game Title.md"
-python3 scripts/score_page_llm.py "vault/Games/Series/YEAR - Game Title.md" --model both
 ```
 
 Then generate the page following CLAUDE.md guidelines.
@@ -45,6 +44,6 @@ Then generate the page following CLAUDE.md guidelines.
 
 - All pages must score ≥90% (≥95% for flagship games)
 - Minimum 15 citations per page
-- Both Claude AND GPT must score ≥90%
+- Every reference passes Rule #0 source verification
 - All wiki links must resolve
 - No duplicate reference URLs

@@ -7,12 +7,12 @@ Six-stage pipeline for research and page generation.
 ```
 ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
 │ 1. DISCOVER │ →  │ 2. CRAWL    │ →  │ 3. ENRICH   │ →  │ 4. GENERATE │ →  │ 5. SCORE    │ →  │ 6. PUBLISH  │
-│ discover_   │    │ crawl_      │    │ enrich_     │    │ Claude/     │    │ Dual-model  │    │ Copy to     │
-│ urls.py     │    │ sources.py  │    │ research.py │    │ manual      │    │ validation  │    │ Games/      │
+│ discover_   │    │ crawl_      │    │ enrich_     │    │ Claude/     │    │ Structural +│    │ Copy to     │
+│ urls.py     │    │ sources.py  │    │ research.py │    │ manual      │    │ source check│    │ Games/      │
 └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
      ↓                   ↓                   ↓                   ↓                   ↓                   ↓
  _urls.json         *.json files        extracted_facts     /tmp/*.md           scores ≥90%         Games/*.md
- 50-100 URLs        30+ sources         key_quotes          20+ refs            both models
+ 50-100 URLs        30+ sources         key_quotes          20+ refs            sources verified
 ```
 
 ## Automated Pipeline
@@ -102,6 +102,8 @@ Uses Claude API to extract from each source's `full_text`:
 
 ## Stage 3.5: LLM Data Gathering (Optional)
 
+> Historical: `query_llms_for_games.py` and `query_kagi_for_games.py` no longer exist. The `llm_*.json` / `kagi_fastgpt.json` files already in dossiers came from them.
+
 ```bash
 # Claude + GPT-4o
 python3 query_llms_for_games.py "game-slug"
@@ -155,13 +157,12 @@ After generating, verify no facts were missed:
 # Structural scoring
 python3 score_page.py /tmp/sq3.md
 
-# LLM accuracy scoring
-python3 score_page_llm.py /tmp/sq3.md --model both
+# Source verification: see `.claude/skills/page-fix.md` step 3a
 ```
 
 **Pass criteria:**
-- `score_page.py`: 95%+
-- `score_page_llm.py`: Both Claude AND GPT ≥90%
+- `score_page.py`: 95% flagship / 90% other
+- Every reference passes Rule #0 source verification
 
 **Scoring breakdown:**
 | Category | Points |
@@ -194,11 +195,9 @@ git add "Games/Space Quest/*.md" && git commit -m "Add Space Quest III"
 | `crawl_with_render.py` | Crawler with render=true for protected sites |
 | `enrich_research.py` | LLM fact extraction |
 | `enrich_parallel.py` | Parallel enrichment (50 workers) |
-| `query_llms_for_games.py` | Claude + GPT-4o queries |
 | `query_kagi_for_games.py` | Kagi FastGPT queries |
 | `generate_page_from_research.py` | Automated generation |
 | `score_page.py` | Structural scoring |
-| `score_page_llm.py` | LLM accuracy scoring |
 | `completion_tracker.py` | Progress tracking |
 | `validate_links.py` | Wiki link validation |
 | `add_timestamps.py` | Update timestamps |

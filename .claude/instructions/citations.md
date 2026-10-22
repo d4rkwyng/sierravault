@@ -190,7 +190,7 @@ Automated generators retired due to hallucinations:
 
 **Prevention:**
 1. Manual generation with fact-checking against research
-2. Dual-model scoring catches different perspectives
+2. Source verification against the dossier or live page catches unsupported claims
 3. Exceptional claims require web search verification
 4. Conservative language over superlatives
 
@@ -198,7 +198,7 @@ Automated generators retired due to hallucinations:
 
 ## Common Scoring Issues
 
-Based on LLM feedback across 47+ pages:
+Based on past scoring feedback across 47+ pages (historical):
 
 ### 1. Wiki Links to Non-Existent Pages
 **Problem:** Wiki links when no page exists.
@@ -262,7 +262,7 @@ site:gog.com "Game Title"
 
 ## Pre-Scoring Checklist
 
-Before running `score_page_llm.py`:
+Before scoring and source review:
 
 - [ ] `## Reception` has `### Contemporary Reviews` and `### Modern Assessment`
 - [ ] `## Legacy` section exists with explicit header

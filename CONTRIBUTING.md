@@ -72,7 +72,7 @@ Every game page should have:
 | Citations | 15+ per page (20+ target) |
 | Duplicate URLs | None allowed |
 | Structural score | ≥90% |
-| LLM accuracy score | ≥90% (both Claude + GPT) |
+| Source verification | Every reference exists and supports its claim |
 | Flagship games | ≥95% overall |
 
 ## 🔍 Quality Checks
@@ -80,8 +80,8 @@ Every game page should have:
 Before submitting, self-review your page against the Minimum Standards table
 above: citation count, no duplicate reference URLs, and every `[[wiki link]]`
 resolving to a real page. There's no public tool in this repo to run these
-checks yourself — maintainers run automated structural scoring, dual-model
-LLM accuracy scoring, and link validation against every PR as part of
+checks yourself — maintainers run automated structural scoring, source
+verification, and link validation against every PR as part of
 review, so a careful self-review is what's expected before you open one.
 
 ## 📝 Commit Messages

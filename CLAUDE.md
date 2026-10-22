@@ -45,7 +45,7 @@ sierravault/
 - **Minimum 15 references** per page (target 20+)
 - All facts traceable to research sources
 - No hallucinated or unverifiable claims
-- Dual-model scoring required (Claude + GPT)
+- Rule #0 source verification required (every reference checked to exist and support its claim)
 
 ## Critical Rules
 
@@ -53,7 +53,7 @@ sierravault/
 
 **RULE #0 — DATABASE-TRUST EXCEPTION.** Established database sites (MobyGames, Wikipedia, PCGamingWiki, IGDB, LaunchBox, Sierra Chest, GameFAQs, Giant Bomb, MyAbandonware) can be cited without per-page WebFetch verification when the database's coverage scope plausibly supports the claim. These sites have editorial review and stable URL schemes, and they frequently use JS-rendered SPAs that the crawler doesn't execute — producing thin `full_text` in the dossier despite having real content at the URL. Empty `source_significance` is the crawler's silence, not a content verdict. Verification still required when: (a) the dossier explicitly flags the page as content-empty/navigation-only, (b) the citation supports a quoted phrase or specific numeric claim — then grep `full_text` or WebFetch, (c) the source is a primary one (interview, official statement, magazine scan, blog).
 
-1. **Never publish without dual scoring** - both structural AND LLM scoring must pass
+1. **Never publish without both checks** - structural score must pass AND every citation must pass Rule #0 source verification
 2. **Never trust GOG links without verification** - use Brave Search: `site:gog.com "Game Title"`
 3. **Never add wiki links to YAML** - plain text only
 4. **Never include folder paths in wiki links** - basename only (`[[Roberta Williams]]`)
@@ -67,7 +67,7 @@ sierravault/
 6. **No bare `[[X|Y]]` (unescaped pipe) inside table cells.** This is the same rule as #5 stated as a checklist item. Run `grep -n -E '^>?\s*\|.*\[\[[^\\]+\|' vault/**/*.md` (or the vault-health script) before committing — any hit needs the `\|` escape.
 7. **Always run link validation before committing**
 8. **Minimum 15 references per page**
-9. **Both LLM models must score >=90%** for publication
+9. **Source verification must pass** - no unsupported, contradicted or wrong-source citations before publication
 10. **Always update timestamps when editing pages**
 
 ## Instruction Files
@@ -93,9 +93,6 @@ source .venv/bin/activate
 
 # Score a page (structural)
 python scripts/score_page.py "vault/Games/King's Quest/1990 - King's Quest V.md"
-
-# Score with LLM (requires API keys)
-python scripts/score_page_llm.py "vault/Games/Space Quest/1991 - Space Quest IV.md" --model both
 
 # Validate wiki links
 python scripts/validate_links.py
@@ -124,7 +121,7 @@ Every game page needs:
 (Uses the same private Assets/ACTIVE tooling noted under Quick Commands above.)
 
 1. Run structural scoring: `python scripts/score_page.py <path>`
-2. Run LLM scoring: `python scripts/score_page_llm.py <path> --model both`
+2. Verify every reference against its source (Rule #0; see `.claude/skills/page-fix.md` step 3a)
 3. Fix any issues flagged
 4. Re-score until ≥90% (≥95% for flagships)
 5. Submit for human review

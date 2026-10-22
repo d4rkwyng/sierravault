@@ -118,7 +118,7 @@ flowchart LR
     end
     
     subgraph Quality["3️⃣ Quality"]
-        E --> F[Dual-Model Scoring]
+        E --> F[Structural Score + Source Check]
         F --> G{Pass 90%?}
         G -->|No| E
         G -->|Yes| H[Human Review]
@@ -138,7 +138,7 @@ flowchart LR
 | **Crawling** | Extract content from sources | ScraperAPI, custom scrapers |
 | **Enrichment** | Cross-reference and verify | Claude, GPT-4o, Kagi FastGPT |
 | **Generation** | Write comprehensive pages | Claude Opus (AI-assisted) |
-| **Scoring** | Dual-model quality check | Claude + GPT (both must pass 90%) |
+| **Scoring** | Structural score + source verification | Consistency checker (95% flagship / 90% other) + per-reference source check |
 | **Review** | Human editorial approval | Manual verification |
 | **Publish** | Deploy to live site | Git push → Cloudflare Workers (Quartz build) |
 
@@ -159,7 +159,7 @@ flowchart TD
     D -->|Yes| F{Structural Score ≥90%?}
     F -->|No| G[Fix Structure]
     G --> F
-    F -->|Yes| H{LLM Score ≥90%?}
+    F -->|Yes| H{Sources Verified?}
     H -->|No| I[Improve Content]
     I --> H
     H -->|Yes| J{Flagship Game?}
@@ -174,7 +174,7 @@ flowchart TD
 - **15+ Citations** - Every claim backed by sources
 - **No Duplicate URLs** - Each source used once
 - **Structural Score ≥90%** - Follows template format
-- **LLM Score ≥90%** - Accuracy verified by Claude + GPT
+- **Sources Verified** - Every reference checked to exist and support its claim
 - **95%+ for Flagships** - Higher bar for major series
 
 ### Page Structure
@@ -243,8 +243,8 @@ slugs. Standard Quartz v5 (community fork).
 
 ### Quality Checks
 
-Every page is required to pass structural scoring, dual-model (Claude + GPT)
-LLM accuracy scoring, and wiki-link validation before it's merged (see
+Every page is required to pass structural scoring, source verification of
+every reference, and wiki-link validation before it's merged (see
 [Contributing Guide](CONTRIBUTING.md) for the standards). That scoring and
 validation tooling is internal/maintainer-only and isn't part of this
 repository, so it isn't runnable by cloning here — contributors should
