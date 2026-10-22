@@ -238,10 +238,8 @@ Casino De Luxe was a departure for Impressions, a studio better known for strate
 - [[1995 - Conqueror - A.D. 1086|→ Next: Conqueror - A.D. 1086]]
 
 - [[1991 - Cohort Fighting for Rome]]
-- [[1991 - Fort Apache]]
 - [[1992 - Air Bucks]]
 - [[1993 - Cohort II - Fighting for Rome]]
-- [[1993 - WW2 Air Force Commander]]
 - [[1994 - Detroit]]
 - [[1995 - Powerhouse]]
 - [[1996 - Casino Deluxe 2]]

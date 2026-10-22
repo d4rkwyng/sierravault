@@ -80,7 +80,7 @@ Impressions grew from a hobby business started with friends into a studio that C
 - **1992** — Air Force Commander — Role: Game Design
 - **1992** — [[1992 - Caesar|Caesar]] — Role: Design
 - **1993** — Global Domination — Role: Design
-- **1993** — [[1993 - WW2 Air Force Commander|WW2 Air Force Commander]] — Role: Designer
+- **1993** — WW2 Air Force Commander — Role: Designer
 - **1994** — [[1994 - Detroit|Detroit]] — Role: Design
 - **1994** — Front Lines — Role: Concept
 - **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Role: Concept

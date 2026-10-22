@@ -210,11 +210,10 @@ The game is also documented on IGDB.[^ref-8]
 
 ## See Also
 
-- [[1991 - Fort Apache|→ Next: Fort Apache]]
+- [[1992 - Air Bucks|→ Next: Air Bucks]]
 
 - [[1992 - Air Bucks]]
 - [[1993 - Cohort II - Fighting for Rome]]
-- [[1993 - WW2 Air Force Commander]]
 - [[1994 - Detroit]]
 - [[1995 - Breach 3]]
 - [[1995 - Casino De Luxe]]

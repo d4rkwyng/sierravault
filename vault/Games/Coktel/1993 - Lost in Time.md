@@ -242,11 +242,6 @@ Electronic Entertainment saw the game as "the first in a planned series of Doral
 
 ## See Also
 
-- [[1988 - 20000 Leagues Under the Sea]]
-- [[1989 - Emmanuelle]]
-- [[1989 - Legend of Djel]]
-- [[1990 - Cougar Force]]
-- [[1990 - Geisha]]
 - [[1991 - Fascination]]
 - [[1992 - Bargon Attack]]
 - [[1992 - Ween - The Prophecy]]

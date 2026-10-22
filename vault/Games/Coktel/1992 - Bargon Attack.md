@@ -231,11 +231,6 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 
 ## See Also
 
-- [[1988 - 20000 Leagues Under the Sea]]
-- [[1989 - Emmanuelle]]
-- [[1989 - Legend of Djel]]
-- [[1990 - Cougar Force]]
-- [[1990 - Geisha]]
 - [[1991 - Fascination]]
 - [[1992 - Ween - The Prophecy]]
 - [[1993 - Lost in Time]]

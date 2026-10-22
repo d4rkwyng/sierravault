@@ -29,15 +29,15 @@ Coktel published its simulation and erotic games under Tomahawk, which was "pres
 
 | Year | Title | Designer (per game page) | Notes |
 |------|-------|--------------------------|-------|
-| 1988 | [[1988 - 20000 Leagues Under the Sea\|20,000 Leagues Under the Sea]] | Marianne Rougeulle | Jules Verne adaptation |
+| 1988 | *20,000 Leagues Under the Sea* | Marianne Rougeulle | Jules Verne adaptation |
 | 1988 | *African Raiders-01* | Philippe Lamarque, Yannick Chosse | Rally racing (Tomahawk) |
 | 1989 | *Asterix: Operation Getafix* | Muriel Tramis | Asterix action-adventure |
-| 1989 | [[1989 - Emmanuelle\|Emmanuelle]] | Muriel Tramis, Alain Bessard | Erotic adventure (Tomahawk) |
+| 1989 | *Emmanuelle* | Muriel Tramis, Alain Bessard | Erotic adventure (Tomahawk) |
 | 1989 | *E.S.S.: European Space Simulator* | François Nédélec, Roland Oskian | Simulation (Tomahawk) |
-| 1989 | [[1989 - Legend of Djel\|Legend of Djel]] | Joseph Kluytmans, Muriel Tramis | Adventure (Tomahawk) |
-| 1990 | [[1990 - Cougar Force\|Cougar Force]] | Joseph Kluytmans | Action (Tomahawk) |
+| 1989 | *Legend of Djel* | Joseph Kluytmans, Muriel Tramis | Adventure (Tomahawk) |
+| 1990 | *Cougar Force* | Joseph Kluytmans | Action (Tomahawk) |
 | 1990 | *Galactic Empire* | François Nédélec, Frédéric Chauvelot | Sci-fi strategy |
-| 1990 | [[1990 - Geisha\|Geisha]] | Muriel Tramis | Erotic adventure (Tomahawk) |
+| 1990 | *Geisha* | Muriel Tramis | Erotic adventure (Tomahawk) |
 | 1991 | [[1991 - Gobliiins\|Gobliiins]] | Pierre Gilhodes, Muriel Tramis | **Founds the Gobliiins series** |
 | 1991 | *A.G.E.* | François Nédélec, Frédéric Chauvelot | Simulation |
 | 1991 | *E.S.S. Mega* | Roland Oskian, François Nédélec | Simulation (Tomahawk) |

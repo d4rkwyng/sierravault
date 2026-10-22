@@ -248,10 +248,8 @@ The game also holds significance as the last entry in the series to use the 2D-s
 - [[1996 - Casino Deluxe 2|← Previous: Casino Deluxe 2]]
 
 - [[1991 - Cohort Fighting for Rome]]
-- [[1991 - Fort Apache]]
 - [[1992 - Air Bucks]]
 - [[1993 - Cohort II - Fighting for Rome]]
-- [[1993 - WW2 Air Force Commander]]
 - [[1994 - Detroit]]
 - [[1995 - Breach 3]]
 - [[1995 - Casino De Luxe]]

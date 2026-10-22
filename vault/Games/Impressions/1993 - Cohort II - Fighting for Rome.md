@@ -186,10 +186,9 @@ Cohort II was a modest sequel whose reception was largely negative. While the ga
 ## See Also
 
 - [[1992 - Air Bucks|← Previous: Air Bucks]]
-- [[1993 - WW2 Air Force Commander|→ Next: WW2 Air Force Commander]]
+- [[1994 - Detroit|→ Next: Detroit]]
 
 - [[1991 - Cohort Fighting for Rome]]
-- [[1991 - Fort Apache]]
 - [[1992 - Air Bucks]]
 - [[1994 - Detroit]]
 - [[1995 - Breach 3]]

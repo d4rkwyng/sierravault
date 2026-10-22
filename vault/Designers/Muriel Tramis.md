@@ -96,10 +96,10 @@ Credits per MobyGames unless noted.[^ref-17]
 - 1987 — Méwilo — Author
 - 1988 — Freedom: Rebels in the Darkness — Production (Réalisation)
 - **1989** — Asterix: Operation Getafix — Role: Conception
-- **1989** — [[1989 - Emmanuelle|Emmanuelle]] — Role: Scenario
-- **1989** — [[1989 - Legend of Djel|Legend of Djel]] — Role: Design (with Joseph Kluytmans)
-- **1990** — [[1990 - Cougar Force|Cougar Force]] — Role: Project Manager
-- **1990** — [[1990 - Geisha|Geisha]] — Role: Author
+- **1989** — Emmanuelle — Role: Scenario
+- **1989** — Legend of Djel — Role: Design (with Joseph Kluytmans)
+- **1990** — Cougar Force — Role: Project Manager
+- **1990** — Geisha — Role: Author
 - **1991** — [[1991 - Fascination|Fascination]] — Role: Conception
 - **1991** — [[1991 - Gobliiins|Gobliiins]] — Role: Conception (co-created with Pierre Gilhodes)
 - **1992** — [[1992 - Bargon Attack|Bargon Attack]] — Role: Product Manager

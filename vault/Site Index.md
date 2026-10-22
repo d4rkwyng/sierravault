@@ -66,7 +66,7 @@ Tier-1 flagship series plus umbrella overviews for major non-flagship lines.
 
 ## Overview
 
-This archive contains **498 game pages** in 75 folders, listed below in 76 sections. A few pages are cross-listed in a second section (for example Gobbler, SWAT: Urban Justice, and WizMath/WizType under Wizard of Id), so the section counts add up to 502.
+This archive contains **491 game pages** in 75 folders, listed below in 76 sections. A few pages are cross-listed in a second section (for example Gobbler, SWAT: Urban Justice, and WizMath/WizType under Wizard of Id), so the section counts add up to 495.
 
 - [[#3D Ultra|3D Ultra]] — Pages: 17
 - [[#A-10 Tank Killer|A-10 Tank Killer]] — Pages: 3
@@ -78,7 +78,7 @@ This archive contains **498 game pages** in 75 folders, listed below in 76 secti
 - [[#Caesar|Caesar]] — Pages: 4
 - [[#Cancelled|Cancelled]] — Pages: 10
 - [[#Civil War Generals|Civil War Generals]] — Pages: 2
-- [[#Coktel|Coktel]] — Pages: 11
+- [[#Coktel|Coktel]] — Pages: 6
 - [[#Conquests|Conquests]] — Pages: 2
 - [[#Crazy Nicks|Crazy Nicks]] — Pages: 5
 - [[#Discovery|Discovery]] — Pages: 4
@@ -97,7 +97,7 @@ This archive contains **498 game pages** in 75 folders, listed below in 76 secti
 - [[#Hi-Res|Hi-Res]] — Pages: 12
 - [[#Homeworld|Homeworld]] — Pages: 6
 - [[#Hoyle|Hoyle]] — Pages: 55
-- [[#Impressions|Impressions]] — Pages: 14
+- [[#Impressions|Impressions]] — Pages: 12
 - [[#Inca|Inca]] — Pages: 2
 - [[#Incredible Machine|Incredible Machine]] — Pages: 10
 - [[#IndyCar|IndyCar]] — Pages: 4
@@ -249,11 +249,6 @@ This archive contains **498 game pages** in 75 folders, listed below in 76 secti
 
 ## Coktel
 
-- **1988** — [[1988 - 20000 Leagues Under the Sea|20,000 Leagues Under the Sea]] — Last Updated: 2026-10-11
-- **1989** — [[1989 - Emmanuelle|Emmanuelle: A Game of Eroticism]] — Last Updated: 2026-10-11
-- **1989** — [[1989 - Legend of Djel|Legend of Djel]] — Last Updated: 2026-10-11
-- **1990** — [[1990 - Cougar Force|Cougar Force]] — Last Updated: 2026-10-11
-- **1990** — [[1990 - Geisha|Geisha]] — Last Updated: 2026-10-11
 - **1991** — [[1991 - Fascination|Fascination]] — Last Updated: 2026-10-12
 - **1992** — [[1992 - Bargon Attack|Bargon Attack]] — Last Updated: 2026-10-09
 - **1992** — [[1992 - Ween - The Prophecy|The Prophecy]] — Last Updated: 2026-10-12
@@ -484,11 +479,9 @@ This archive contains **498 game pages** in 75 folders, listed below in 76 secti
 ## Impressions
 
 - **1991** — [[1991 - Cohort Fighting for Rome|Cohort: Fighting for Rome]] — Last Updated: 2026-10-13
-- **1991** — [[1991 - Fort Apache|Fort Apache]] — Last Updated: 2026-10-13
 - **1992** — [[1992 - Air Bucks|Air Bucks]] — Last Updated: 2026-10-13
 - **1993** — [[1993 - Cohort II - Fighting for Rome|Cohort II: Fighting for Rome]] — Last Updated: 2026-10-13
 - **1993** — [[1993 - The Blue & the Gray|Edward Grabowski's The Blue & The Gray]] — Last Updated: 2026-10-19
-- **1993** — [[1993 - WW2 Air Force Commander|WW2 Air Force Commander]] — Last Updated: 2026-10-13
 - **1994** — [[1994 - D-Day - The Beginning of the End|D-Day: The Beginning of the End]] — Last Updated: 2026-10-19
 - **1994** — [[1994 - Detroit|Detroit]] — Last Updated: 2026-10-09
 - **1995** — [[1995 - Breach 3|Breach 3]] — Last Updated: 2026-10-13

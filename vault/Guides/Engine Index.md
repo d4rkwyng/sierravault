@@ -346,7 +346,6 @@ No source names a shared engine; Sierra Chest lists these under "Unknown/unnamed
 
 **Play with:** ScummVM. Inca II and The Last Dynasty are detected by ScummVM's Gob engine but do not appear on its compatibility list.[^ref-5][^ref-23]
 
-- **1990** — [[1990 - Geisha|Geisha]]
 - **1991** — [[1991 - Fascination|Fascination]]
 - **1991** — [[1991 - Gobliiins|Gobliiins]]
 - **1992** — [[1992 - Bargon Attack|Bargon Attack]]

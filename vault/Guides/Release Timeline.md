@@ -7,7 +7,7 @@ last_updated: "2026-10-16"
 
 <small style="color: gray">Last updated: October 16, 2026</small>
 
-Sierra games, games from studios Sierra owned, later releases under the Sierra name, alumni projects and fan games, organized chronologically—479 entries from 1980 to 2026. Years follow each linked game page; where this timeline corrects a year, the footnote gives the source. **Flagship series** are shown in **bold**. Fan projects marked *(Fan)*. For browsing by series, see the [[Site Index]].
+Sierra games, games from studios Sierra owned, later releases under the Sierra name, alumni projects and fan games, organized chronologically—472 entries from 1980 to 2026. Years follow each linked game page; where this timeline corrects a year, the footnote gives the source. **Flagship series** are shown in **bold**. Fan projects marked *(Fan)*. For browsing by series, see the [[Site Index]].
 
 ---
 
@@ -97,7 +97,6 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 - **[[1987 - Space Quest II - Vohaul's Revenge|Space Quest II - Vohaul's Revenge]]** — Series: Space Quest, Type: Adventure
 
 ### 1988
-- [[1988 - 20000 Leagues Under the Sea|20000 Leagues Under the Sea]] — Type: Adventure
 - [[1988 - Gold Rush|Gold Rush]] — Type: Adventure
 - **[[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV - The Perils of Rosella]]** — Series: King's Quest, Type: Adventure
 - **[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]** — Series: Leisure Suit Larry, Type: Adventure
@@ -110,11 +109,9 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 - [[1989 - After Dark|After Dark]] — Series: After Dark, Type: Screensaver/Puzzle Collection
 - [[1990 - Codename - Iceman|Codename - Iceman]] — Series: Codename (standalone), Type: Adventure
 - [[1989 - David Wolf - Secret Agent|David Wolf - Secret Agent]] — Series: David Wolf, Type: Action
-- [[1989 - Emmanuelle|Emmanuelle]] — Series: Emmanuelle (loosely), Type: Adventure
 - [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk - Thexder - The Second Contact]] — Series: Thexder, Type: Run and Gun / Shooter
 - [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games - Volume 1]] — Series: Hoyle, Type: Card Games
 - [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500 - The Simulation]] — Developer: Papyrus, Type: Racing Simulation
-- [[1989 - Legend of Djel|Legend of Djel]] — Series: Standalone, Type: Adventure
 - **[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]** — Series: Leisure Suit Larry, Type: Adventure
 - [[1989 - Manhunter - San Francisco|Manhunter - San Francisco]] — Series: Manhunter, Type: Adventure
 - [[1989 - MechWarrior|MechWarrior]] — Developer: Dynamix, Type: Vehicle Simulation
@@ -130,8 +127,6 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 
 ### 1990
 - [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot - The Search for the Grail]] — Series: Conquests, Type: Adventure
-- [[1990 - Cougar Force|Cougar Force]] — Type: Action
-- [[1990 - Geisha|Geisha]] — Type: Adventure
 - [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games - Volume 2]] — Series: Hoyle Official Book of Games, Type: Card/Tile
 - **[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V - Absence Makes the Heart Go Yonder]]** — Series: King's Quest, Type: Adventure
 - [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI Remake)]] — Series: Mixed-Up, Type: Adventure/Educational
@@ -150,7 +145,6 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow - The Legend of Robin Hood]] — Series: Conquests, Type: Adventure
 - [[1991 - EcoQuest - The Search for Cetus|EcoQuest - The Search for Cetus]] — Series: EcoQuest, Type: Educational Adventure
 - [[1991 - Fascination|Fascination]] — Type: Adventure
-- [[1991 - Fort Apache|Fort Apache]] — Series: Micro Miniatures, Type: Strategy
 - [[1991 - Gobliiins|Gobliiins]] — Series: Gobliiins, Type: Adventure/Puzzle
 - [[1991 - Heart of China|Heart of China]] — Series: Dynamix Adventures, Type: Adventure
 - [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games - Volume 3]] — Series: Hoyle Official Book of Games, Type: Board Games
@@ -228,7 +222,6 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1993 - The Blue & the Gray|The Blue & the Gray]] — Series: Micro Miniatures, Type: Turn-Based Strategy[^ref-29]
 - [[1993 - The Even More Incredible Machine|The Even More Incredible Machine]] — Series: The Incredible Machine, Type: Puzzle
 - [[1993 - Turbo Learning - Mega Math|Turbo Learning - Mega Math]] — Series: Turbo Learning, Type: Educational
-- [[1993 - WW2 Air Force Commander|WW2 Air Force Commander]] — Series: Air Force Commander, Type: Strategy / War Simulation
 
 ### 1994
 - [[1994 - Aces of the Deep|Aces of the Deep]] — Series: Aces Series, Type: Simulation

@@ -78,7 +78,7 @@ Gilhodes has continued the Gobliiins series for more than three decades, from th
 ### Coktel Vision Era (1989–1996)
 
 - 1989 — Asterix: Operation Getafix — Graphics (as "Pierre")[^ref-21]
-- **1990** — [[1990 - Geisha|Geisha]] — Role: Graphics
+- **1990** — Geisha — Role: Graphics
 - 1990 — Los Tres Cerditos Se Divierten — Graphics
 - **1991** — [[1991 - Gobliiins|Gobliiins]] — Role: Conception / Original Concept (with Muriel Tramis); Graphics
 - 1991 — Once Upon a Time: Abracadabra — Illustrator

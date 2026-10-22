@@ -239,10 +239,8 @@ Conqueror has maintained a fan following. The 2017 digital re-release drew long-
 - [[1995 - Powerhouse|→ Next: Powerhouse]]
 
 - [[1991 - Cohort Fighting for Rome]]
-- [[1991 - Fort Apache]]
 - [[1992 - Air Bucks]]
 - [[1993 - Cohort II - Fighting for Rome]]
-- [[1993 - WW2 Air Force Commander]]
 - [[1994 - Detroit]]
 - [[1995 - Breach 3]]
 - [[1996 - Casino Deluxe 2]]

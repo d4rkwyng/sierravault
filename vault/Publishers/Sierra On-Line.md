@@ -267,9 +267,6 @@ This section lists games published by Sierra On-Line and its subsidiaries.[^ref-
 Sierra bought Coktel Vision in 1993.[^ref-16] Earlier Coktel games were published by Coktel Vision or its [[Tomahawk]] label, as their game pages record.
 
 - 1988 — Abracadabra — Adventure
-- **1989** — [[1989 - Emmanuelle|Emmanuelle]] — Notes: Adult adventure; published by Tomahawk
-- **1989** — [[1989 - Legend of Djel|Legend of Djel]] — Notes: Fantasy adventure; published by Tomahawk
-- **1990** — [[1990 - Geisha|Geisha]] — Notes: Adult adventure; published by Tomahawk
 - **1991** — [[1991 - Fascination|Fascination]] — Notes: Adventure; published by Tomahawk
 - **1991** — [[1991 - Gobliiins|Gobliiins]] — Notes: Puzzle adventure; Sierra published the US release
 - **1992** — [[1992 - A.J.'s World of Discovery|A.J.'s World of Discovery]] — Notes: Educational; published by Coktel Vision
@@ -293,12 +290,10 @@ Sierra bought Coktel Vision in 1993.[^ref-16] Earlier Coktel games were publishe
 Sierra bought Impressions in 1995.[^ref-16] Earlier Impressions games were published by Impressions or, in the US, by Merit, as their game pages record.
 
 - **1991** — [[1991 - Cohort Fighting for Rome|Cohort: Fighting for Rome]] — Notes: Strategy; published by Impressions (Europe) and Merit Software (US)
-- **1991** — [[1991 - Fort Apache|Fort Apache]] — Notes: Western strategy; published by Impressions
 - **1992** — [[1992 - Air Bucks|Air Bucks]] — Notes: Airline sim; published by Impressions
 - 1992 — Crime City — Management sim
 - **1992** — [[1992 - Caesar|Caesar]] — Notes: City-builder; published by Impressions
 - **1993** — [[1993 - Cohort II - Fighting for Rome|Cohort II]] — Notes: Strategy sequel; published by Impressions
-- **1993** — [[1993 - WW2 Air Force Commander|WW2 Air Force Commander]] — Notes: Wargame; published by Impressions
 - **1994** — [[1994 - Detroit|Detroit]] — Notes: Business sim
 - **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Notes: Medieval strategy; published by Impressions
 - **1995** — [[1995 - Caesar II|Caesar II]] — Notes: City-builder

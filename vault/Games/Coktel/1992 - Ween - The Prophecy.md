@@ -36,7 +36,7 @@ It was one of few games of its day to offer branching paths: at two points the p
 > **Engine:** Gob[^ref-10][^ref-23]
 > **Platforms:** MS-DOS, Amiga, Atari ST[^ref-1]
 > **Release Year:** 1992 (Europe), 1993 (North America)[^ref-6]
-> **Series:** Standalone; a sequel to *[[1989 - Legend of Djel|Legend of Djel]]*[^ref-7]
+> **Series:** Standalone; a sequel to *Legend of Djel*[^ref-7]
 > **Protagonist:** Ween
 > **Sierra Lineage:** Coktel Vision
 
@@ -210,11 +210,6 @@ Community members on GOG.com have asked for an official re-release. One commente
 
 ## See Also
 
-- [[1988 - 20000 Leagues Under the Sea]]
-- [[1989 - Emmanuelle]]
-- [[1989 - Legend of Djel]]
-- [[1990 - Cougar Force]]
-- [[1990 - Geisha]]
 - [[1991 - Fascination]]
 - [[1992 - Bargon Attack]]
 - [[1993 - Lost in Time]]

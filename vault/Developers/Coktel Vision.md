@@ -66,11 +66,6 @@ Coktel's French titles reached players worldwide through Sierra's publishing.[^r
 
 Coktel titles with SierraVault pages are listed below; Adventure Gamers keeps a fuller catalogue of the studio's adventure games.[^ref-17]
 
-- **1988** — [[1988 - 20000 Leagues Under the Sea|20000 Leagues Under the Sea]] — Genre: Adventure
-- **1989** — [[1989 - Emmanuelle|Emmanuelle]] — Genre: Adventure
-- **1989** — [[1989 - Legend of Djel|Legend of Djel]] — Genre: Adventure
-- **1990** — [[1990 - Cougar Force|Cougar Force]] — Genre: Action
-- **1990** — [[1990 - Geisha|Geisha]] — Genre: Adventure
 - **1991** — [[1991 - Fascination|Fascination]] — Genre: Adventure
 - **1991** — [[1991 - Gobliiins|Gobliiins]] — Genre: Puzzle
 - **1992** — [[1992 - A.J.'s World of Discovery|A.J.'s World of Discovery]] — Genre: Educational

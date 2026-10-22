@@ -201,7 +201,6 @@ Home of the Underdogs gave the game "two thumbs up," describing it as emphasizin
 ## See Also
 
 - [[1991 - Cohort Fighting for Rome]]
-- [[1991 - Fort Apache]]
 - [[1992 - Air Bucks]]
 - [[1993 - Cohort II - Fighting for Rome]]
 - [[1995 - Breach 3]]
