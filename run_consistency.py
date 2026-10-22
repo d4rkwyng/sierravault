@@ -9,15 +9,13 @@ import os
 from pathlib import Path
 
 # Set up the path. SIERRAVAULT_INTERNAL (see .claude/README.md) takes
-# priority so this works on machines that don't have the private repo synced
-# via iCloud Drive under this account (e.g. the fleet's `droid` service
-# account, which has no iCloud Drive at all).
+# priority; the default matches the internal tree's scripts/sv_paths.py.
 REPO_ROOT = Path(__file__).resolve().parent
 vault_games = REPO_ROOT / "vault/Games"
 _internal_root = os.environ.get("SIERRAVAULT_INTERNAL")
 _assets_root = (
     Path(_internal_root) if _internal_root
-    else Path.home() / "Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault"
+    else Path.home() / "SierraVault-internal"
 )
 script_source = _assets_root / "scripts/ACTIVE/consistency_check.py"
 
@@ -51,7 +49,8 @@ if script_source.exists():
     ]
 
     # Import and run main from the script
-    exec(open(script_source).read(), {"__name__": "__main__"})
+    # __file__ lets the script locate its sibling sv_paths resolver.
+    exec(open(script_source).read(), {"__name__": "__main__", "__file__": str(script_source)})
 
 else:
     print(f"ERROR: Script not found at {script_source}")
