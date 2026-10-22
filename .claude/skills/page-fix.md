@@ -52,12 +52,10 @@ Once step 3a content-verification passes for every candidate ref AND the planned
 ## Hard paths
 
 - Vault root: `/Users/droid/GitHub/sierravault/vault`
-- Scorer: `${SIERRAVAULT_INTERNAL:-~/Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault}/scripts/ACTIVE/consistency_check.py`
-  (see `.claude/README.md`). On the fleet's `droid` account there is no iCloud
-  Drive at all, so the fallback path doesn't resolve here — set
-  `SIERRAVAULT_INTERNAL` to wherever the private repo actually lives on this
-  machine before running `/page-fix`.
-- Research dossiers: `${SIERRAVAULT_INTERNAL:-~/Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault}/Research/games/<slug>/`
+- Scorer: `${SIERRAVAULT_INTERNAL:-~/SierraVault-internal}/scripts/ACTIVE/consistency_check.py`
+  (see `.claude/README.md`). Set `SIERRAVAULT_INTERNAL` if the private repo
+  lives somewhere other than `~/SierraVault-internal`.
+- Research dossiers: `${SIERRAVAULT_INTERNAL:-~/SierraVault-internal}/Research/games/<slug>/`
 - Cached report: `/Users/droid/GitHub/sierravault/vault_report.json`
 
 The scorer requires `--vault /Users/droid/GitHub/sierravault/vault/Games` (its built-in default points to a stale path).
@@ -71,7 +69,7 @@ The scorer requires `--vault /Users/droid/GitHub/sierravault/vault/Games` (its b
 
 ### 2. Score the page
 ```bash
-SCRIPT="${SIERRAVAULT_INTERNAL:-$HOME/Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault}/scripts/ACTIVE/consistency_check.py"
+SCRIPT="${SIERRAVAULT_INTERNAL:-$HOME/SierraVault-internal}/scripts/ACTIVE/consistency_check.py"
 python3 "$SCRIPT" \
   --vault /Users/droid/GitHub/sierravault/vault/Games \
   --file "<absolute-page-path>"

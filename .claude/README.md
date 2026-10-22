@@ -27,7 +27,7 @@ Claude Code configuration and instructions for SierraVault.
    - Generating or editing pages → `page-format.md`
    - Citation work or scoring issues → `citations.md`
 
-> **Note:** Research data, scoring history, and project state are maintained in a separate private repository. Scripts default to `~/Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault` (iCloud Drive) unless the `SIERRAVAULT_INTERNAL` env var points somewhere else — set it on any machine (e.g. the fleet's `droid` service account) that doesn't have that iCloud Drive path.
+> **Note:** Research data, scoring history, and project state are maintained in a separate private repository. Scripts resolve it through `scripts/sv_paths.py` in that repo: `SIERRAVAULT_INTERNAL` (default `~/SierraVault-internal`) and `SIERRAVAULT_VAULT` (default `~/GitHub/sierravault/vault`). Set either env var on a machine where the repos live elsewhere.
 
 ## Key Locations
 
