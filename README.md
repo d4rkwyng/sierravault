@@ -6,7 +6,7 @@
 
 **The definitive documentation archive for Sierra On-Line's gaming legacy.**
 
-[![Games](https://img.shields.io/badge/Games-507-blue)](vault/Games/)
+[![Games](https://img.shields.io/badge/Games-498-blue)](vault/Games/)
 [![Designers](https://img.shields.io/badge/Designers-57-green)](vault/Designers/)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC-lightgrey)](LICENSE)
 
@@ -14,7 +14,7 @@
 
 ## Overview
 
-SierraVault is a comprehensive Obsidian-based wiki documenting Sierra On-Line's complete gaming legacy from 1980 to present—flagship adventure series, acquired studios, fan remakes, and spiritual successors from Sierra alumni.
+SierraVault is a comprehensive Obsidian-based wiki documenting Sierra On-Line's gaming legacy from 1980 to present—flagship adventure series, acquired studios' Sierra-era games, fan remakes, and spiritual successors from Sierra alumni.
 
 **Live Site:** [sierravault.net](https://sierravault.net) — built with [Quartz](https://quartz.jzhao.xyz) and deployed to Cloudflare Workers, auto-published from this repo on every push.
 
@@ -22,10 +22,10 @@ SierraVault is a comprehensive Obsidian-based wiki documenting Sierra On-Line's 
 
 | Category | Count | Description |
 |----------|-------|-------------|
-| **Core Sierra** | ~200 | King's Quest, Space Quest, LSL, Police Quest, Gabriel Knight, etc. |
+| **Core Sierra** | ~275 | King's Quest, Space Quest, LSL, Police Quest, Gabriel Knight, etc. |
 | **Dynamix** | 50+ | Flight sims, Incredible Machine, Tribes |
 | **Impressions** | 20+ | Caesar, Pharaoh, Zeus city builders |
-| **Coktel Vision** | 16 | Gobliiins, educational titles |
+| **Coktel Vision** | 15+ | Gobliiins, educational titles |
 | **Sierra Partners** | 30+ | Valve, Relic, Monolith (creative partnerships) |
 | **Fan Games** | 15+ | VGA remakes, fan sequels |
 | **Alumni Successors** | 15+ | Hero-U, SpaceVenture, Gray Matter |
@@ -39,7 +39,7 @@ SierraVault is a comprehensive Obsidian-based wiki documenting Sierra On-Line's 
 | **[Contributing Guide](CONTRIBUTING.md)** | How to contribute, PR checklist |
 | **[Style Guide](docs/STYLE_GUIDE.md)** | Content formatting standards |
 | **[Inclusion Criteria](docs/INCLUSION_CRITERIA.md)** | What qualifies for inclusion |
-| **[Quartz Hosting](docs/QUARTZ.md)** | Host your own mirror site |
+| **[Build & Hosting](docs/QUARTZ.md)** | How the site is built, deployed and mirrored |
 
 ---
 
@@ -52,11 +52,11 @@ sierravault/
 ├── templates/                # Page templates
 ├── vault/                    # Obsidian vault (published content)
 │   ├── .obsidian/            # Obsidian settings
-│   ├── Games/                # 507 game pages across 73+ folders
+│   ├── Games/                # 498 game pages across 75 folders
 │   │   ├── King's Quest/     # 10 games (1984-2015)
 │   │   ├── Space Quest/      # 7 games (1986-1995)
 │   │   ├── Quest for Glory/  # 6 games (1989-1998)
-│   │   ├── Leisure Suit Larry/ # 12 games (1987-2020)
+│   │   ├── Leisure Suit Larry/ # 13 games (1987-2020)
 │   │   ├── Police Quest/     # 5 games (1987-1993)
 │   │   ├── Gabriel Knight/   # 5 games (1993-2014)
 │   │   ├── Laura Bow/        # 2 games (1989-1992)
@@ -75,11 +75,11 @@ sierravault/
 │   ├── Welcome.md            # Site homepage
 │   ├── Site Index.md         # Complete game index (A-Z)
 │   ├── News & Updates.md     # Project changelog
-│   ├── publish.css           # Obsidian Publish styles
-│   └── publish.js            # Obsidian Publish scripts
+│   ├── publish.css           # Legacy Obsidian Publish styles (unused by Quartz)
+│   └── publish.js            # Legacy Obsidian Publish scripts (unused by Quartz)
 ├── docs/                     # Documentation
 │   ├── INCLUSION_CRITERIA.md # Game selection criteria
-│   ├── QUARTZ.md             # Self-hosting a mirror guide
+│   ├── QUARTZ.md             # Site build, deploy & mirror reference
 │   └── STYLE_GUIDE.md        # Content formatting standards
 │
 │   # --- Quartz site (builds sierravault.net on Cloudflare Workers) ---
@@ -189,7 +189,7 @@ Every game page follows a consistent format:
 6. **Development** - Team, budget, technical achievements
 7. **Legacy** - Impact, sequels, remakes
 8. **Downloads** - Purchase links and preservation resources
-9. **Series Continuity** - Links to previous/next in series
+9. **See Also** - Series navigation (previous/next) and related pages
 10. **References** - 15-40+ numbered citations
 
 ---
@@ -200,7 +200,7 @@ Every game page follows a consistent format:
 |--------|-------|-------|---------|
 | [King's Quest](vault/Games/King's%20Quest/) | 10 | 1984-2015 | Roberta Williams |
 | [Space Quest](vault/Games/Space%20Quest/) | 7 | 1986-1995 | Two Guys from Andromeda |
-| [Leisure Suit Larry](vault/Games/Leisure%20Suit%20Larry/) | 12 | 1987-2020 | Al Lowe |
+| [Leisure Suit Larry](vault/Games/Leisure%20Suit%20Larry/) | 13 | 1987-2020 | Al Lowe |
 | [Quest for Glory](vault/Games/Quest%20for%20Glory/) | 6 | 1989-1998 | Lori & Corey Cole |
 | [Police Quest](vault/Games/Police%20Quest/) | 5 | 1987-1993 | Jim Walls |
 | [Gabriel Knight](vault/Games/Gabriel%20Knight/) | 5 | 1993-2014 | Jane Jensen |
@@ -213,7 +213,7 @@ Every game page follows a consistent format:
 ### Prerequisites
 
 - [Obsidian](https://obsidian.md/) (for viewing/editing)
-- Node.js (for building the Quartz site, below)
+- Node.js 22+ (for building the Quartz site, below)
 - Git
 
 ### Setup
@@ -256,7 +256,7 @@ self-review against the standards instead.
 
 | Metric | Count |
 |--------|-------|
-| Total Games | 507 |
+| Total Games | 498 |
 | Designer Bios | 57 |
 | Developer Profiles | 28 |
 | Publisher Histories | 23 |

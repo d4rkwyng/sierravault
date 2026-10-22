@@ -62,14 +62,14 @@ Every game page should have:
 6. **Development** (team, history)
 7. **Legacy** (impact, remakes)
 8. **Downloads** (GOG, Steam links)
-9. **Series Continuity** (prev/next links)
+9. **See Also** (prev/next links, related pages)
 10. **References** (15+ citations minimum)
 
 ### Minimum Standards
 
 | Requirement | Standard |
 |-------------|----------|
-| Citations | 15+ per page (20+ for flagships) |
+| Citations | 15+ per page (20+ target) |
 | Duplicate URLs | None allowed |
 | Structural score | ≥90% |
 | LLM accuracy score | ≥90% (both Claude + GPT) |

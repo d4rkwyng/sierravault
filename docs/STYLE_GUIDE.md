@@ -15,7 +15,7 @@ YYYY - Full Game Title.md
 - `1990 - Roberta Williams' King's Quest I - Quest for the Crown.md` (remakes include original name)
 
 **Special prefixes:**
-- `CXL - YYYY - Title.md` - Cancelled games
+- `CXL - Title.md` - Cancelled games
 - `TBD - Title.md` - Unreleased/in-development games
 - `TBA - Title.md` - Announced but undated games
 
@@ -332,7 +332,7 @@ Protect major plot reveals to preserve the player experience.
 
 ### Spoiler Format
 
-Use collapsible warning callouts (native Obsidian, works on Publish):
+Use collapsible warning callouts (native Obsidian; Quartz renders them on the live site):
 
 ```markdown
 > [!warning]- Spoiler Title
@@ -429,14 +429,14 @@ Use only these canonical values:
 **Other Relationships:**
 - `Sierra Published` - Third-party games published by Sierra
 - `Third-Party Published` - Games localized/distributed by Sierra (Silpheed, Zeliard)
-- `Acquired Franchise` - Pre-acquisition games from acquired studios
 
 **Post-Sierra/Fan:**
 - `Fan Project` - AGDI remakes, fan games
 - `Alumni Project` - Projects by Sierra alumni (Hero-U, etc.)
 - `Spiritual Successor` - Games inspired by Sierra titles
 - `Spinoff` - Derivative products (LSL Casino, etc.)
+- `Post-Sierra` - Franchise entries after Sierra's acquisition
 
 ---
 
-*Last updated: 2026-02-13*
+*Last updated: 2026-10-22*

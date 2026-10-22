@@ -19,6 +19,7 @@ Key files:
 | `sanitize-frontmatter.mjs` | Cleans bad YAML frontmatter before the build. |
 | `prefix-year.mjs` | Prepends release years to game titles for nav ordering. |
 | `generate-redirect-stubs.mjs` | Emits redirect stubs for ambiguous wikilinks. |
+| `fix-graph-links.mjs` | Remaps graph/backlink targets in `contentIndex.json` to real page slugs. |
 | `src/worker.js` | Cloudflare Worker: redirects old Obsidian Publish URLs. |
 | `wrangler.jsonc` | Cloudflare Workers config (Worker + static-asset binding). |
 | `mirror-rebuild.sh` | Cron rebuild for the self-hosted mirror. |
@@ -38,7 +39,7 @@ For a live-reloading local preview while editing:
 npx quartz build --serve
 ```
 
-Note that `--serve` runs a plain Quartz build; it does **not** run the `build.sh` pipeline, so the year-prefixing, the Welcome→index rewrite, the dash-collapsing pass, and the redirect stubs won't be present in the preview. For a faithful check of the deployed output, run `./build.sh` and serve `public/` with any static file server.
+Note that `--serve` runs a plain Quartz build; it does **not** run the `build.sh` pipeline, so the year-prefixing, the Welcome→index rewrite, the dash-collapsing pass, the redirect stubs, and the graph-link remap won't be present in the preview. For a faithful check of the deployed output, run `./build.sh` and serve `public/` with any static file server.
 
 ## The `build.sh` pipeline
 
@@ -109,6 +110,14 @@ node generate-redirect-stubs.mjs
 ```
 
 Some entities exist in **more than one folder** — e.g. Dynamix appears under both `developers/` and `publishers/`. A `[[Dynamix]]` wikilink is then ambiguous and can resolve to a bare `/dynamix` that doesn't exist as a page, 404ing. This script walks `public/`, finds every internal link that lands on a missing page, and if a real page with that basename exists elsewhere, writes a small meta-refresh + canonical **redirect stub** at the broken location pointing to the canonical page (preferring developer > publisher > designer > series > games > …).
+
+### 9. `fix-graph-links.mjs`
+
+```bash
+node fix-graph-links.mjs
+```
+
+The graph view and backlinks read `public/static/contentIndex.json`, whose per-node `links` hold the raw, un-collapsed wikilink targets (e.g. `1995---torin's-passage`). Those don't match the collapsed, full-path node slugs (e.g. `games/standalone/1995-torin's-passage`), so the graph would draw no edges. This final step remaps every link target to the real node slug, using the same canonical preference as the redirect stubs for ambiguous names.
 
 ## `markdownLinkResolution: absolute`
 
