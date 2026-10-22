@@ -40,7 +40,7 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 - [[1982 - Cannonball Blitz|Cannonball Blitz]] — Type: Action/Platform
 - [[1982 - Creepy Corridors|Creepy Corridors]] — Series: Laf Pak, Type: Arcade
 - [[1982 - Dragon's Keep|Dragon's Keep]] — Series: Hi-Res Learning, Type: Adventure
-- [[1981 - Frogger|Frogger]] — Series: Frogger, Type: Arcade
+- [[1981 - Frogger|Frogger]] — Series: Frogger, Type: Arcade[^ref-41]
 - [[1982 - Hi-Res Adventure 5 - Time Zone|Hi-Res Adventure 5 - Time Zone]] — Series: Hi-Res Adventures, Type: Adventure
 - [[1982 - Jawbreaker II|Jawbreaker II]] — Series: Jawbreaker, Type: Arcade
 - [[1982 - Laf Pak|Laf Pak]] — Type: Action/Compilation
@@ -107,7 +107,6 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 ### 1989
 - [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Series: A-10 Tank Killer, Type: Flight Simulation
 - [[1989 - After Dark|After Dark]] — Series: After Dark, Type: Screensaver/Puzzle Collection
-- [[1990 - Codename - Iceman|Codename - Iceman]] — Series: Codename (standalone), Type: Adventure
 - [[1989 - David Wolf - Secret Agent|David Wolf - Secret Agent]] — Series: David Wolf, Type: Action
 - [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk - Thexder - The Second Contact]] — Series: Thexder, Type: Run and Gun / Shooter
 - [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games - Volume 1]] — Series: Hoyle, Type: Card Games
@@ -126,8 +125,10 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Impressions joined the family, and Sierra expanded into simulations, strategy, and online gaming. Over 250 releases this decade.
 
 ### 1990
+- [[1990 - Codename - Iceman|Codename - Iceman]] — Series: Codename (standalone), Type: Adventure
 - [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot - The Search for the Grail]] — Series: Conquests, Type: Adventure
 - [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games - Volume 2]] — Series: Hoyle Official Book of Games, Type: Card/Tile
+- [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Type: Life Simulation
 - **[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V - Absence Makes the Heart Go Yonder]]** — Series: King's Quest, Type: Adventure
 - [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI Remake)]] — Series: Mixed-Up, Type: Adventure/Educational
 - [[1990 - Oils Well|Oils Well]] — Type: Action
@@ -148,7 +149,6 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1991 - Gobliiins|Gobliiins]] — Series: Gobliiins, Type: Adventure/Puzzle
 - [[1991 - Heart of China|Heart of China]] — Series: Dynamix Adventures, Type: Adventure
 - [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games - Volume 3]] — Series: Hoyle Official Book of Games, Type: Board Games
-- [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Type: Life Simulation
 - **[[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]** — Series: Leisure Suit Larry, Type: Adventure
 - **[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]** — Series: Leisure Suit Larry, Type: Adventure
 - [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Series: Mixed-Up, Type: Adventure
@@ -201,7 +201,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1993 - Front Page Sports - Football Pro|Front Page Sports - Football Pro]] — Series: Front Page Sports, Type: Sports Simulation
 - **[[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight - Sins of the Fathers]]** — Series: Gabriel Knight, Type: Adventure
 - [[1993 - Goblins Quest 3|Goblins Quest 3]] — Series: Gobliiins, Type: Puzzle Adventure
-- [[1991 - Hoyle Official Book of Games - Volume 4|Hoyle Official Book of Games - Volume 4]] — Series: Hoyle, Type: Card/Strategy[^ref-7]
+- [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Series: Hoyle, Type: Card Games[^ref-7]
 - [[1993 - Inca II - Wiracocha|Inca II - Wiracocha]] — Series: Inca II, Type: Adventure
 - [[1993 - IndyCar Racing|IndyCar Racing]] — Series: IndyCar Racing, Type: Racing Simulation
 - [[1993 - Kids' Typing|Kids' Typing]] — Series: Talking Tutor, Type: Educational
@@ -218,7 +218,6 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1993 - Stellar 7 - Draxon's Revenge|Stellar 7 - Draxon's Revenge]] — Series: Stellar 7, Type: Action
 - [[1993 - Stellar-Fire|Stellar-Fire]] — Series: Stellar 7, Type: Action/Simulation
 - [[1993 - Take a Break! Pinball|Take a Break! Pinball]] — Series: Take a Break!, Type: Pinball
-- The Beverly Hillbillies — Adventure
 - [[1993 - The Blue & the Gray|The Blue & the Gray]] — Series: Micro Miniatures, Type: Turn-Based Strategy[^ref-29]
 - [[1993 - The Even More Incredible Machine|The Even More Incredible Machine]] — Series: The Incredible Machine, Type: Puzzle
 - [[1993 - Turbo Learning - Mega Math|Turbo Learning - Mega Math]] — Series: Turbo Learning, Type: Educational
@@ -602,6 +601,7 @@ Sierra alumni continue creating. Ken and Roberta Williams returned with Colossal
 
 ### 2026
 - [[2026 - Gobliins 6|Gobliins 6]] — Series: Gobliiins, Type: Adventure[^ref-36]
+- [[2025 - SCP Sierra Conversion Project|SCP - Sierra Conversion Project]] *(Fan)* — Series: Multiple Sierra Series, Type: Enhancement[^ref-40]
 
 ---
 
@@ -617,7 +617,7 @@ Year corrections use MobyGames' earliest listed release date (checked through th
 [^ref-2]: [MobyGames – Alphabet Blocks](https://www.mobygames.com/game/113498/alphabet-blocks/) – Macintosh 1992-10-16, Windows 16-bit 1993-05-11
 [^ref-3]: [MobyGames – Early Math](https://www.mobygames.com/game/129279/early-math/) – Windows 16-bit and Macintosh 1993
 [^ref-4]: [MobyGames – Ready, Set, Read with Bananas & Jack](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/) – Windows 16-bit 1993, Macintosh 1993-05-19
-[^ref-7]: [MobyGames – Hoyle Classic Card Games (1993)](https://www.mobygames.com/game/30264/hoyle-classic-card-games/) – DOS, Windows 16-bit and Macintosh 1993; the entry the Volume 4 page cites
+[^ref-7]: [MobyGames – Hoyle Classic Card Games (1993)](https://www.mobygames.com/game/30264/hoyle-classic-card-games/) – DOS, Windows 16-bit and Macintosh 1993 (Hoyle 4; the vault's 1991 "Volume 4" page is a duplicate of this game)
 [^ref-8]: [MobyGames – Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) – Windows 1996
 [^ref-9]: [MobyGames – Caesar](https://www.mobygames.com/game/3146/caesar/) – DOS and Amiga 1992
 [^ref-10]: [MobyGames – Hoyle Solitaire](https://www.mobygames.com/game/1232/hoyle-solitaire/) – Windows 16-bit 1996-06
@@ -642,3 +642,5 @@ Year corrections use MobyGames' earliest listed release date (checked through th
 [^ref-37]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – "Formerly On-Line Systems (1979–1982)"; sale "to Paris-based Havas S.A." announced November 20, 1998; "continued to operate through Vivendi Games's merger with Activision ... on July 10, 2008, but was shut down later that year"
 [^ref-38]: [Wikipedia – Mystery House](https://en.wikipedia.org/wiki/Mystery_House) – "Mystery House is the first graphical adventure game and the first game produced by On-Line Systems"
 [^ref-39]: [Massively Overpowered – The Game Archaeologist: Sierra's Fates of Twinion and Ruins of Cawdor](https://massivelyop.com/2019/06/22/the-game-archaeologist-sierras-fates-of-twinion-and-ruins-of-cawdor/) – Yserbius "came out in 1991 as part of The Sierra Network"
+[^ref-40]: [Indie Retro News – Police Quest III - Another Amiga Adventure game by Sierra gets an enhancement by SCP](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html) – posted Monday, January 05, 2026: SCP's Police Quest III Amiga enhancement released, with download link
+[^ref-41]: [MobyGames – Frogger](https://www.mobygames.com/game/1540/frogger/) – Sierra On-Line's Atari 8-bit release, United States 1982 (the Konami arcade original is 1981)

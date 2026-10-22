@@ -13,7 +13,7 @@ Sierra-affiliated games currently in development or recently updated. Statuses c
 
 - [[#Gabriel Knight 4|Gabriel Knight 4]] — Team: Jane Jensen, Status: Pitch only; no Microsoft approval as of Dec 2025, Updated: Dec 2025
 - [[#Hero-U Sequel|Hero-U Sequel]] — Team: Corey & Lori Cole, Status: Shelved — Coles making Summer Daze games instead, Updated: Sep 2026
-- [[#King's Quest IV Remake|KQ4 Remake (IQ)]] — Team: Infamous Quests, Status: Unverified — only source is a patron-only post, Updated: Jan 2026
+- [[#King's Quest IV Remake|KQ4 Remake (IA)]] — Team: Infamous Adventures (via the Infamous Quests Patreon), Status: Unverified — only source is a patron-only post, Updated: Jan 2026
 - [[#Quest for Infamy Roehm to Ruin|Roehm to Ruin]] — Team: Infamous Quests, Status: Voice recording unfinished; developer reports waning momentum, Updated: Sep 2026
 - [[#Order of the Thorne Fortress of Fire|Fortress of Fire]] — Team: Infamous Quests, Status: In limbo — no team or budget to finish, Updated: Oct 2025
 - [[#AGD Interactive Updates|KQ1 v4.2 RC1]] — Team: AGD Interactive, Status: KQ1 v4.2 still at Release Candidate 1; no new KQ2+ version, Updated: July 2024 (thread active Aug 2026)

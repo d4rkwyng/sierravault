@@ -130,7 +130,7 @@ Carcassonne sits between two other Sierra Online Xbox Live Arcade releases cover
 - [[2007 - Carcassonne]] — board game adaptation, Sierra Online Seattle (this page)
 - [[2008 - Lost Cities]] — Reiner Knizia card game adaptation
 
-**Previous / Next in the vault's XBLA folder:** *[[2006 - Gin Rummy|← Gin Rummy (2006)]]* | *[[2008 - Lost Cities|Lost Cities (2008) →]]*
+**Previous / Next in the vault's XBLA folder:** *— first of the three in the vault —* | *[[2008 - Lost Cities|Lost Cities (2008) →]]*
 
 ## References
 

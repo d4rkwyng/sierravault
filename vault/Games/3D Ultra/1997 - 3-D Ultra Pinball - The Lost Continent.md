@@ -127,11 +127,12 @@ The title remains available through preservation efforts, with multiple archive 
 
 ## See Also
 
-- [[1996 - 3-D Ultra Pinball - Creep Night|← Previous: 3-D Ultra Pinball: Creep Night]]
+- [[1997 - 3-D Ultra MiniGolf|← Previous: 3-D Ultra MiniGolf]]
 - [[1998 - 3-D Ultra NASCAR Pinball|→ Next: 3-D Ultra NASCAR Pinball]]
 
 - [[1995 - 3-D Ultra Pinball]]
 - [[1996 - 3-D Ultra Pinball - Creep Night]]
+- [[1997 - 3-D Ultra MiniGolf]]
 - [[1998 - 3-D Ultra NASCAR Pinball]]
 - [[1999 - 3-D Ultra Cool Pool]]
 - [[1999 - 3-D Ultra Lionel TrainTown]]

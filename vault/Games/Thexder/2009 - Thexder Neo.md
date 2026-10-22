@@ -150,9 +150,9 @@ Critics treated Thexder Neo as a faithful but unimproved revival[^ref-8][^ref-36
 
 ## See Also
 
-- [[1985 - Thexder|← Original: Thexder]] - First game in the series
+- [[1995 - Thexder 95|← Previous: Thexder 95]] - Sierra's Windows remake of the original
+- [[1985 - Thexder]] - First game in the series
 - [[1989 - Fire Hawk - Thexder - The Second Contact]] - Sequel to the original
-- [[1995 - Thexder 95]] - Sierra's Windows remake of the original
 
 ## References
 

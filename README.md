@@ -58,7 +58,7 @@ sierravault/
 │   │   ├── Quest for Glory/  # 6 games (1989-1998)
 │   │   ├── Leisure Suit Larry/ # 13 games (1987-2020)
 │   │   ├── Police Quest/     # 5 games (1987-1993)
-│   │   ├── Gabriel Knight/   # 5 games (1993-2014)
+│   │   ├── Gabriel Knight/   # 4 games (1993-2014)
 │   │   ├── Laura Bow/        # 2 games (1989-1992)
 │   │   ├── Dynamix/          # Action/sim titles
 │   │   ├── Impressions/      # City builders
@@ -203,7 +203,7 @@ Every game page follows a consistent format:
 | [Leisure Suit Larry](vault/Games/Leisure%20Suit%20Larry/) | 13 | 1987-2020 | Al Lowe |
 | [Quest for Glory](vault/Games/Quest%20for%20Glory/) | 6 | 1989-1998 | Lori & Corey Cole |
 | [Police Quest](vault/Games/Police%20Quest/) | 5 | 1987-1993 | Jim Walls |
-| [Gabriel Knight](vault/Games/Gabriel%20Knight/) | 5 | 1993-2014 | Jane Jensen |
+| [Gabriel Knight](vault/Games/Gabriel%20Knight/) | 4 | 1993-2014 | Jane Jensen |
 | [Laura Bow](vault/Games/Laura%20Bow/) | 2 | 1989-1992 | Roberta Williams |
 
 ---

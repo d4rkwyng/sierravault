@@ -65,7 +65,7 @@ A medieval strategy game published by Sierra. See [[1996 - Lords of the Realm II
 
 ## Games
 
-Years follow the vault's game pages. Merchant Colony, Cohort, Cohort II and Breach 3 appear in Wikipedia's list of games Impressions *published* rather than developed.[^ref-9]
+Years for linked titles follow their SierraVault pages. Unlinked titles are pre-Sierra releases that have no page under the archive's Sierra-era inclusion rule; their years were carried over from the archive's earlier pages. Merchant Colony, Cohort, Cohort II and Breach 3 appear in Wikipedia's list of games Impressions *published* rather than developed.[^ref-9]
 
 - **1989** — Kenny Dalglish Soccer Match — Genre: Sports
 - **1991** — Afrika Korps — Genre: Turn-Based Strategy

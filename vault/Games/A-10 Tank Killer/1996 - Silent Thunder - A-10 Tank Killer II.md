@@ -210,9 +210,9 @@ Silent Thunder followed Dynamix's *A-10 Tank Killer* (1989) as the second game i
 
 ## See Also
 
-- [[1989 - A-10 Tank Killer|← Previous: A-10 Tank Killer]] - Original in the series
+- [[1991 - A-10 Tank Killer v1.5|← Previous: A-10 Tank Killer v1.5]] - Enhanced version of the original
 
-- [[1991 - A-10 Tank Killer v1.5]] - Enhanced version of the original
+- [[1989 - A-10 Tank Killer]] - Original in the series
 
 ## References
 

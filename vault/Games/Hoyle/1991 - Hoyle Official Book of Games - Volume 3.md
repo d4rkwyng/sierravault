@@ -182,9 +182,9 @@ Volume 3 has had little critical attention, but contemporary and later reviewers
 
 ## See Also
 
-- [[1989 - Hoyle Official Book of Games - Volume 1|← Previous: Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2|← Previous: Volume 2]]
-- [[1991 - Hoyle Official Book of Games - Volume 4|→ Next: Volume 4]]
+- [[1993 - Hoyle Classic Card Games|→ Next: Hoyle Classic Card Games]]
+- [[1991 - Hoyle Official Book of Games - Volume 4]]
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1992 - Hoyle Bridge]]
 - [[1993 - Hoyle Classic Card Games]]

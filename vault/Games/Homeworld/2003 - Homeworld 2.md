@@ -238,9 +238,10 @@ The franchise changed hands multiple times following release. THQ acquired the H
 
 ## See Also
 
-- [[1999 - Homeworld|← Previous: Homeworld]]
-- [[2000 - Homeworld - Cataclysm]] — interim expansion from Barking Dog Studios
-- [[2016 - Homeworld - Deserts of Kharak|→ Next: Homeworld — Deserts of Kharak]]
+- [[2000 - Homeworld - Cataclysm|← Previous: Homeworld: Cataclysm]] — interim expansion from Barking Dog Studios
+- [[2015 - Homeworld Remastered Collection|→ Next: Homeworld Remastered Collection]]
+- [[1999 - Homeworld]]
+- [[2016 - Homeworld - Deserts of Kharak]]
 - [[2024 - Homeworld 3]] — Blackbird Interactive sequel
 - [[Relic Entertainment]] — developer
 - [[Sierra On-Line]] — publisher

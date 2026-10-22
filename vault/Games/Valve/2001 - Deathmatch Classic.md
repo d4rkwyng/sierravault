@@ -245,6 +245,7 @@ Rock Paper Shotgun framed Deathmatch Classic as "a cover version of another deve
 ## See Also
 
 - [[2000 - Ricochet|← Previous: Ricochet]]
+- [[2001 - Half-Life - Blue Shift|→ Next: Half-Life: Blue Shift]]
 
 - [[1999 - Half-Life - Opposing Force]]
 - [[1999 - Team Fortress Classic]]

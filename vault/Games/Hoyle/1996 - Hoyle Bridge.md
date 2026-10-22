@@ -172,7 +172,7 @@ Hoyle Bridge was a budget-priced spinoff of Hoyle Classic Games[^ref-3][^ref-26]
 
 ## See Also
 
-- [[1991 - Hoyle Official Book of Games - Volume 4|← Previous: Hoyle Official Book of Games - Volume 4]]
+- [[1993 - Hoyle Classic Card Games|← Previous: Hoyle Classic Card Games]]
 - [[1996 - Hoyle Blackjack|→ Next: Hoyle Blackjack]]
 
 - [[1990 - Hoyle Official Book of Games - Volume 2]]

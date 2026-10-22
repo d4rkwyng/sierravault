@@ -181,8 +181,8 @@ Computer Gaming World noted that the "Typical" install was 52MB and that install
 ## See Also
 
 - **Previous:** N/A (First in series)
-- [[1998 - Sierra Pro Pilot '99|→ Next: Sierra Pro Pilot '99]]
-- [[1998 - Sierra Pro Pilot USA]]
+- [[1998 - Sierra Pro Pilot USA|→ Next: Sierra Pro Pilot USA]]
+- [[1998 - Sierra Pro Pilot '99]]
 
 ## References
 

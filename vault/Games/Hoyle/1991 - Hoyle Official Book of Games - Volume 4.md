@@ -187,8 +187,9 @@ The Internet Archive holds a DOS copy installed from the original floppies, whic
 
 ## See Also
 
-- [[1991 - Hoyle Official Book of Games - Volume 3|← Previous: Hoyle Official Book of Games - Volume 3]]
-- [[1996 - Hoyle Bridge|→ Next: Hoyle Bridge]]
+- [[1993 - Hoyle Classic Card Games]] - the same game (Hoyle 4, 1993); series navigation continues from that page (see the [[Hoyle Series]] duplicate list)
+- [[1991 - Hoyle Official Book of Games - Volume 3]]
+- [[1996 - Hoyle Bridge]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]

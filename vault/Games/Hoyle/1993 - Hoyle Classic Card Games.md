@@ -152,8 +152,8 @@ The game is not sold on GOG. It appears there only as a Dreamlist entry, where u
 
 ## See Also
 
-- [[1992 - Hoyle Bridge|← Previous: Hoyle Bridge]]
-- [[1993 - Hoyle Official Book of Games - Volume 5|→ Next: Hoyle Official Book of Games - Volume 5]]
+- [[1991 - Hoyle Official Book of Games - Volume 3|← Previous: Hoyle Official Book of Games - Volume 3]]
+- [[1996 - Hoyle Bridge|→ Next: Hoyle Bridge]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]

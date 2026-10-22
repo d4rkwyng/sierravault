@@ -153,6 +153,7 @@ The 1996 CD is preserved at the Internet Archive[^ref-5]. MobyGames lists the 20
 ## See Also
 
 - [[1996 - Hoyle Bridge|← Previous: Hoyle Bridge]]
+- [[1996 - Hoyle Casino|→ Next: Hoyle Casino]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]

@@ -122,7 +122,7 @@ MobyGames notes that elements of the gameplay of the 2005 *[[2005 - Hoyle Poker 
 
 ## See Also
 
-- [[1993 - Hoyle Classic Card Games|← Previous: Hoyle Classic Card Games]]
+- [[1997 - Hoyle Classic Card Games|← Previous: Hoyle Classic Card Games]]
 - [[1998 - Hoyle Battling Ships and War|→ Next: Hoyle Battling Ships and War]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]

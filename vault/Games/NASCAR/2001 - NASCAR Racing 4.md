@@ -150,14 +150,14 @@ GameRant wrote that the game "signified that the Papyrus series of games would b
 
 ## See Also
 
-- [[1999 - NASCAR Racing 3|← Previous: NASCAR Racing 3]]
+- [[1999 - NASCAR Legends|← Previous: NASCAR Legends]]
 - [[2002 - NASCAR Racing 2002 Season|→ Next: NASCAR Racing 2002 Season]]
 
 - [[1994 - NASCAR Racing]]
 - [[1996 - NASCAR Racing 2]]
 - [[1997 - NASCAR Racing 2 - Grand National Series Expansion]]
 - [[1999 - NASCAR Craftsman Truck Series Racing]]
-- [[1999 - NASCAR Legends]]
+- [[1999 - NASCAR Racing 3]]
 - [[2003 - NASCAR Racing 2003 Season]]
 
 ## References

@@ -120,7 +120,8 @@ Aces Over Europe is not currently sold digitally; it is listed on GOG's Dreamlis
 
 ## See Also
 
-- [[1992 - Aces of the Pacific|← Previous: Aces of the Pacific]]
+- [[1992 - Aces of the Pacific - WWII 1946|← Previous: Aces of the Pacific: WWII 1946]]
+- [[1992 - Aces of the Pacific]]
 - [[1994 - Aces of the Deep|→ Next: Aces of the Deep]]
 
 - [[1990 - Red Baron|Red Baron]] - Related Dynamix flight sim

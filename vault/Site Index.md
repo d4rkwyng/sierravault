@@ -81,12 +81,12 @@ This archive contains **491 game pages** in 75 folders, listed below in 76 secti
 - [[#Coktel|Coktel]] — Pages: 6
 - [[#Conquests|Conquests]] — Pages: 2
 - [[#Crazy Nicks|Crazy Nicks]] — Pages: 5
-- [[#Discovery|Discovery]] — Pages: 4
+- [[#Discovery|Discovery]] — Pages: 3
 - [[#Disney|Disney]] — Pages: 4
 - [[#Dr. Brain|Dr. Brain]] — Pages: 8
 - [[#Dynamix|Dynamix]] — Pages: 12
 - [[#EcoQuest|EcoQuest]] — Pages: 2
-- [[#Education|Education]] — Pages: 8
+- [[#Education|Education]] — Pages: 9
 - [[#Empire Earth|Empire Earth]] — Pages: 2
 - [[#Fan Games|Fan Games]] — Pages: 14
 - [[#Front Page Sports|Front Page Sports]] — Pages: 14
@@ -271,7 +271,6 @@ This archive contains **491 game pages** in 75 folders, listed below in 76 secti
 
 ## Discovery
 
-- **1993** — [[1992 - Ready, Set, Read with Bananas & Jack|Ready, Set, Read with Bananas & Jack]] — Last Updated: 2026-10-12
 - **1993** — [[1993 - Spelling Jungle|Spelling Jungle]] — Last Updated: 2026-10-12
 - **1993** — [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] — Last Updated: 2026-10-09
 - **1994** — [[1994 - Spelling Blizzard|Spelling Blizzard]] — Last Updated: 2026-10-12
@@ -324,6 +323,7 @@ This archive contains **491 game pages** in 75 folders, listed below in 76 secti
 - **1992** — [[1982 - Alphabet Blocks|Alphabet Blocks]] — Last Updated: 2026-10-12
 - **1993** — [[1983 - Early Math|Early Math]] — Last Updated: 2026-10-12
 - **1993** — [[1993 - Kids' Typing|Kid's Typing]] — Last Updated: 2026-10-12
+- **1993** — [[1992 - Ready, Set, Read with Bananas & Jack|Ready, Set, Read with Bananas & Jack]] — Last Updated: 2026-10-12
 
 ## Empire Earth
 

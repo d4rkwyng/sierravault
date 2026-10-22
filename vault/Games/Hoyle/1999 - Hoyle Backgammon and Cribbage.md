@@ -184,7 +184,7 @@ Hoyle Backgammon & Cribbage was released after Sierra had passed from independen
 
 ## See Also
 
-- [[1997 - Hoyle Classic Board Games|← Previous: Hoyle Classic Board Games]]
+- [[1998 - Hoyle Battling Ships and War|← Previous: Hoyle Battling Ships and War]]
 - [[1999 - Hoyle Casino|→ Next: Hoyle Casino]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]

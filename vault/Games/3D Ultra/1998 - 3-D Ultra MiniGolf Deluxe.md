@@ -100,13 +100,13 @@ Not currently sold digitally. GOG lists it only as a Dreamlist (wishlist) entry:
 ## See Also
 
 - [[1998 - 3-D Ultra NASCAR Pinball|← Previous: 3-D Ultra NASCAR Pinball]]
-- [[1999 - 3-D Ultra Radio Control Racers|→ Next: 3-D Ultra Radio Control Racers]]
+- [[1999 - 3-D Ultra Cool Pool|→ Next: 3-D Ultra Cool Pool]]
 
 - [[1995 - 3-D Ultra Pinball]]
 - [[1996 - 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra MiniGolf]]
 - [[1997 - 3-D Ultra Pinball - The Lost Continent]]
-- [[1999 - 3-D Ultra Cool Pool]]
+- [[1999 - 3-D Ultra Radio Control Racers]]
 - [[1999 - 3-D Ultra Lionel TrainTown]]
 - [[1999 - 3-D Ultra Pinball - Power]]
 - [[2000 - 3-D Ultra Lionel TrainTown Deluxe]]

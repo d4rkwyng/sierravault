@@ -25,9 +25,9 @@ Coktel was unusual among Sierra-lineage studios because:
 
 ## Pre-Sierra Coktel Era (1988–1993)
 
-Coktel published its simulation and erotic games under Tomahawk, which was "presented as a subsidiary" but "was only a label that Coktel Vision used to publish simulation and erotic games to distance themselves from edutainment titles".[^ref-1] MobyGames credits Tomahawk on 14 games from 1988 to 1991, none sold outside Europe.[^ref-18] Designers below follow each game's SierraVault page.
+Coktel published its simulation and erotic games under Tomahawk, which was "presented as a subsidiary" but "was only a label that Coktel Vision used to publish simulation and erotic games to distance themselves from edutainment titles".[^ref-1] MobyGames credits Tomahawk on 14 games from 1988 to 1991, none sold outside Europe.[^ref-18] Designers for linked titles follow each game's SierraVault page. Unlinked titles are pre-Sierra releases that have no page under the archive's Sierra-era inclusion rule; their designer credits were carried over from the archive's earlier pages and are not separately cited here.
 
-| Year | Title | Designer (per game page) | Notes |
+| Year | Title | Designer | Notes |
 |------|-------|--------------------------|-------|
 | 1988 | *20,000 Leagues Under the Sea* | Marianne Rougeulle | Jules Verne adaptation |
 | 1988 | *African Raiders-01* | Philippe Lamarque, Yannick Chosse | Rally racing (Tomahawk) |

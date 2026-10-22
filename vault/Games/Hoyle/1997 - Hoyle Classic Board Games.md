@@ -158,8 +158,8 @@ The game is not sold digitally. GOG lists it only on its Dreamlist[^ref-20]. MyA
 
 ## See Also
 
-- [[1998 - Hoyle Battling Ships and War|← Previous: Hoyle Battling Ships and War]]
-- [[1999 - Hoyle Backgammon and Cribbage|→ Next: Hoyle Backgammon and Cribbage]]
+- [[1996 - Hoyle Solitaire|← Previous: Hoyle Solitaire]]
+- [[1997 - Hoyle Classic Card Games|→ Next: Hoyle Classic Card Games]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]

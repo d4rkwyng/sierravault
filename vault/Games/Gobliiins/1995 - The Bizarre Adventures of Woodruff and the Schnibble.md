@@ -251,6 +251,7 @@ The game pairs absurdist comedy with a study of racism and cultural interaction,
 
 ## See Also
 
+- [[1993 - Goblins Quest 3|← Previous: Goblins Quest 3]]
 - [[2009 - Gobliiins 4|→ Next: Gobliiins 4]]
 
 - [[2023 - Gobliiins 5 - The Morgloton Invasion]]

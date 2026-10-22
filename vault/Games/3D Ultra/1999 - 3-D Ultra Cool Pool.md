@@ -205,7 +205,8 @@ Reviewers consistently placed Cool Pool on the casual side of the billiards genr
 
 ## See Also
 
-- [[1998 - 3-D Ultra NASCAR Pinball|← Previous: 3-D Ultra NASCAR Pinball]]
+- [[1998 - 3-D Ultra MiniGolf Deluxe|← Previous: 3-D Ultra MiniGolf Deluxe]]
+- [[1998 - 3-D Ultra NASCAR Pinball]]
 - [[1999 - 3-D Ultra Lionel TrainTown|→ Next: 3-D Ultra Lionel TrainTown]]
 
 - [[1995 - 3-D Ultra Pinball]]

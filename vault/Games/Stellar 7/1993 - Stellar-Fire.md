@@ -183,8 +183,8 @@ Reviewers of the day agreed on what Stellar-Fire did well, praising its sound an
 
 ## See Also
 
-- [[1991 - Nova 9 - The Return of Gir Draxon|← Previous: Nova 9 - The Return of Gir Draxon]]
-- [[1993 - Stellar 7 - Draxon's Revenge]] (3DO, also 1993)
+- [[1993 - Stellar 7 - Draxon's Revenge|← Previous: Stellar 7: Draxon's Revenge]] (3DO, also 1993)
+- [[1991 - Nova 9 - The Return of Gir Draxon]]
 - [[1990 - Stellar 7]]
 
 ## References
