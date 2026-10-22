@@ -66,7 +66,7 @@ Tier-1 flagship series plus umbrella overviews for major non-flagship lines.
 
 ## Overview
 
-This archive contains **528 game pages** in 76 folders, listed below in 77 sections. A few pages are cross-listed in a second section (for example Gobbler, SWAT: Urban Justice, and WizMath/WizType under Wizard of Id), so the section counts add up to 532.
+This archive contains **498 game pages** in 75 folders, listed below in 76 sections. A few pages are cross-listed in a second section (for example Gobbler, SWAT: Urban Justice, and WizMath/WizType under Wizard of Id), so the section counts add up to 502.
 
 - [[#3D Ultra|3D Ultra]] — Pages: 17
 - [[#A-10 Tank Killer|A-10 Tank Killer]] — Pages: 3
@@ -78,13 +78,13 @@ This archive contains **528 game pages** in 76 folders, listed below in 77 secti
 - [[#Caesar|Caesar]] — Pages: 4
 - [[#Cancelled|Cancelled]] — Pages: 10
 - [[#Civil War Generals|Civil War Generals]] — Pages: 2
-- [[#Coktel|Coktel]] — Pages: 18
+- [[#Coktel|Coktel]] — Pages: 11
 - [[#Conquests|Conquests]] — Pages: 2
 - [[#Crazy Nicks|Crazy Nicks]] — Pages: 5
 - [[#Discovery|Discovery]] — Pages: 4
 - [[#Disney|Disney]] — Pages: 4
 - [[#Dr. Brain|Dr. Brain]] — Pages: 8
-- [[#Dynamix|Dynamix]] — Pages: 22
+- [[#Dynamix|Dynamix]] — Pages: 12
 - [[#EcoQuest|EcoQuest]] — Pages: 2
 - [[#Education|Education]] — Pages: 8
 - [[#Empire Earth|Empire Earth]] — Pages: 2
@@ -97,7 +97,7 @@ This archive contains **528 game pages** in 76 folders, listed below in 77 secti
 - [[#Hi-Res|Hi-Res]] — Pages: 12
 - [[#Homeworld|Homeworld]] — Pages: 6
 - [[#Hoyle|Hoyle]] — Pages: 55
-- [[#Impressions|Impressions]] — Pages: 20
+- [[#Impressions|Impressions]] — Pages: 14
 - [[#Inca|Inca]] — Pages: 2
 - [[#Incredible Machine|Incredible Machine]] — Pages: 10
 - [[#IndyCar|IndyCar]] — Pages: 4
@@ -131,11 +131,10 @@ This archive contains **528 game pages** in 76 folders, listed below in 77 secti
 - [[#Sierra Sports|Sierra Sports]] — Pages: 5
 - [[#Space Quest|Space Quest]] — Pages: 7
 - [[#Spiritual Successors|Spiritual Successors]] — Pages: 18
-- [[#Standalone|Standalone]] — Pages: 27
+- [[#Standalone|Standalone]] — Pages: 26
 - [[#Stellar 7|Stellar 7]] — Pages: 4
-- [[#Strategy|Strategy]] — Pages: 7
+- [[#Strategy|Strategy]] — Pages: 5
 - [[#SWAT|SWAT]] — Pages: 9
-- [[#Synergistic|Synergistic]] — Pages: 4
 - [[#Take a Break!|Take a Break!]] — Pages: 2
 - [[#Thexder|Thexder]] — Pages: 4
 - [[#Trophy Bass|Trophy Bass]] — Pages: 4
@@ -251,19 +250,12 @@ This archive contains **528 game pages** in 76 folders, listed below in 77 secti
 ## Coktel
 
 - **1988** — [[1988 - 20000 Leagues Under the Sea|20,000 Leagues Under the Sea]] — Last Updated: 2026-10-11
-- **1988** — [[1988 - African Raiders-01|African Raiders-01]] — Last Updated: 2026-10-11
-- **1989** — [[1989 - Asterix - Operation Getafix|Asterix: Operation Getafix]] — Last Updated: 2026-10-11
-- **1989** — [[1989 - ESS - European Space Simulator|E.S.S.: European Space Simulator]] — Last Updated: 2026-10-11
 - **1989** — [[1989 - Emmanuelle|Emmanuelle: A Game of Eroticism]] — Last Updated: 2026-10-11
 - **1989** — [[1989 - Legend of Djel|Legend of Djel]] — Last Updated: 2026-10-11
 - **1990** — [[1990 - Cougar Force|Cougar Force]] — Last Updated: 2026-10-11
-- **1990** — [[1990 - Galactic Empire|Galactic Empire]] — Last Updated: 2026-10-15
 - **1990** — [[1990 - Geisha|Geisha]] — Last Updated: 2026-10-11
-- **1991** — [[1991 - A.G.E.|A.G.E. (Advanced Galactic Empire)]] — Last Updated: 2026-10-11
-- **1991** — [[1991 - E.S.S. Mega|E.S.S. Mega]] — Last Updated: 2026-10-12
 - **1991** — [[1991 - Fascination|Fascination]] — Last Updated: 2026-10-12
 - **1992** — [[1992 - Bargon Attack|Bargon Attack]] — Last Updated: 2026-10-09
-- **1992** — [[1992 - Discovery - In the Steps of Columbus|Discovery: In the Steps of Columbus]] — Last Updated: 2026-10-13
 - **1992** — [[1992 - Ween - The Prophecy|The Prophecy]] — Last Updated: 2026-10-12
 - **1993** — [[1993 - Lost in Time|Lost in Time]] — Last Updated: 2026-10-12
 - **1995** — [[1995 - The Last Dynasty|The Last Dynasty]] — Last Updated: 2026-10-12
@@ -309,18 +301,8 @@ This archive contains **528 game pages** in 76 folders, listed below in 77 secti
 
 ## Dynamix
 
-- **1984** — [[1984 - Sword of Kadash|Sword of Kadash]] — Last Updated: 2026-10-12
-- **1986** — [[1986 - Arcticfox|Arcticfox]] — Last Updated: 2026-10-19
-- **1987** — [[1987 - Skyfox II - The Cygnus Conflict|Skyfox II: The Cygnus Conflict]] — Last Updated: 2026-10-19
-- **1988** — [[1988 - Caveman Ughlympics|Caveman Ughlympics]] — Last Updated: 2026-10-19
-- **1989** — [[1989 - Abrams Battle Tank|Abrams Battle Tank]] — Last Updated: 2026-10-15
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Last Updated: 2026-10-12
-- **1989** — [[1989 - Deathtrack|Deathtrack]] — Last Updated: 2026-10-19
-- **1989** — [[1989 - Die Hard|Die Hard]] — Last Updated: 2026-10-19
-- **1989** — [[1989 - F-14 Tomcat|F-14 Tomcat]] — Last Updated: 2026-10-19
-- **1989** — [[1989 - Ghostbusters II|Ghostbusters II]] — Last Updated: 2026-10-19
 - **1989** — [[1989 - MechWarrior|MechWarrior]] — Last Updated: 2026-10-15
-- **1989** — [[1989 - Project Firestart|Project Firestart]] — Last Updated: 2026-10-19
 - **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Last Updated: 2026-10-09
 - **1991** — [[1991 - Heart of China|Heart of China]] — Last Updated: 2026-10-12
 - **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Last Updated: 2026-10-09
@@ -501,20 +483,14 @@ This archive contains **528 game pages** in 76 folders, listed below in 77 secti
 
 ## Impressions
 
-- **1989** — [[1989 - Kenny Dalglish Soccer Match|Kenny Dalglish Soccer Match]] — Last Updated: 2026-10-19
-- **1991** — [[1991 - Afrika Korps|Afrika Korps]] — Last Updated: 2026-10-19
 - **1991** — [[1991 - Cohort Fighting for Rome|Cohort: Fighting for Rome]] — Last Updated: 2026-10-13
 - **1991** — [[1991 - Fort Apache|Fort Apache]] — Last Updated: 2026-10-13
-- **1991** — [[1991 - Merchant Colony|Merchant Colony]] — Last Updated: 2026-10-13
 - **1992** — [[1992 - Air Bucks|Air Bucks]] — Last Updated: 2026-10-13
-- **1992** — [[1992 - Air Force Commander|Air Force Commander]] — Last Updated: 2026-10-13
-- **1992** — [[1992 - Conquest of Japan|Conquest of Japan]] — Last Updated: 2026-10-13
 - **1993** — [[1993 - Cohort II - Fighting for Rome|Cohort II: Fighting for Rome]] — Last Updated: 2026-10-13
 - **1993** — [[1993 - The Blue & the Gray|Edward Grabowski's The Blue & The Gray]] — Last Updated: 2026-10-19
 - **1993** — [[1993 - WW2 Air Force Commander|WW2 Air Force Commander]] — Last Updated: 2026-10-13
 - **1994** — [[1994 - D-Day - The Beginning of the End|D-Day: The Beginning of the End]] — Last Updated: 2026-10-19
 - **1994** — [[1994 - Detroit|Detroit]] — Last Updated: 2026-10-09
-- **1994** — [[1994 - Front Lines|Front Lines]] — Last Updated: 2026-10-13
 - **1995** — [[1995 - Breach 3|Breach 3]] — Last Updated: 2026-10-13
 - **1995** — [[1995 - Casino De Luxe|Casino De Luxe]] — Last Updated: 2026-10-13
 - **1995** — [[1995 - Conqueror - A.D. 1086|Conqueror: A.D. 1086]] — Last Updated: 2026-10-13
@@ -804,7 +780,6 @@ This archive contains **528 game pages** in 76 folders, listed below in 77 secti
 - **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Last Updated: 2026-10-11
 - **1993** — [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping: A Talking Book I Can Read]] — Last Updated: 2026-10-14
 - **1994** — [[1994 - Battle Bugs|Battle Bugs]] — Last Updated: 2026-10-14
-- **1995** — [[1995 - Air Cavalry|Air Cavalry]] — Last Updated: 2026-10-14
 - **1995** — [[1995 - Fast Attack - High Tech Submarine Warfare|Fast Attack: High Tech Submarine Warfare]] — Last Updated: 2026-10-14
 - **1995** — [[1995 - Shannara|Shannara]] — Last Updated: 2026-10-14
 - **1995** — [[1995 - The Ruins of Cawdor|The Ruins of Cawdor]] — Last Updated: 2026-10-14
@@ -824,8 +799,6 @@ This archive contains **528 game pages** in 76 folders, listed below in 77 secti
 
 ## Strategy
 
-- **1991** — [[1991 - The Charge of the Light Brigade|The Charge of the Light Brigade]] — Last Updated: 2026-10-14
-- **1993** — [[1993 - Global Domination|Global Domination]] — Last Updated: 2026-10-14
 - **1994** — [[1994 - Alien Legacy|Alien Legacy]] — Last Updated: 2026-10-14
 - **1995** — [[1995 - High Seas Trader|High Seas Trader]] — Last Updated: 2026-10-14
 - **1996** — [[1996 - Space Bucks|Space Bucks]] — Last Updated: 2026-10-14
@@ -843,13 +816,6 @@ This archive contains **528 game pages** in 76 folders, listed below in 77 secti
 - **2006** — [[2006 - SWAT Force|SWAT Force]] — Last Updated: 2026-10-09
 - **2007** — [[2007 - SWAT - Target Liberty|SWAT: Target Liberty]] — Last Updated: 2026-10-09
 - **Cancelled** — [[CXL - SWAT - Urban Justice|SWAT: Urban Justice]] — Last Updated: 2026-10-11
-
-## Synergistic
-
-- **1989** — [[1989 - J.R.R. Tolkien's War in Middle Earth|J.R.R. Tolkien's War in Middle Earth]] — Last Updated: 2026-10-15
-- **1990** — [[1990 - Spirit of Excalibur|Spirit of Excalibur]] — Last Updated: 2026-10-15
-- **1991** — [[1991 - Conan - The Cimmerian|Conan: The Cimmerian]] — Last Updated: 2026-10-15
-- **1991** — [[1991 - Vengeance of Excalibur|Vengeance of Excalibur]] — Last Updated: 2026-10-15
 
 ## Take a Break!
 

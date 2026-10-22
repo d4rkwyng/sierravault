@@ -37,7 +37,7 @@ Used together with [[Corporate Lineage|Corporate Lineage]] and the per-studio De
 | [[Coktel Vision]] | 1984 | October 1993 | Merged into Mindscape October 2005 | Paris, France | Gobliiins, Inca, Lost in Time, Bizarre Adventures of Woodruff[^ref-18][^ref-1] |
 | [[Impressions Games]] | 1989 | 1995 | Closed 2004 | Cambridge, MA | Caesar, Pharaoh, Zeus, Emperor, Lords of the Realm[^ref-19][^ref-1] |
 | [[Papyrus Design Group]] | 1987 | 1995 | Closed 2004 (sold to FIRST.net) | Watertown, MA | NASCAR Racing series, IndyCar Racing, Grand Prix Legends[^ref-60][^ref-1] |
-| [[Synergistic Software]] | 1978 | 1996 | Closed February 22, 1999 | Seattle, WA (Renton offices from 1982) | [[1991 - Conan - The Cimmerian\|Conan]], [[1989 - J.R.R. Tolkien's War in Middle Earth\|War in Middle Earth]], Birthright[^ref-20][^ref-1] |
+| [[Synergistic Software]] | 1978 | 1996 | Closed February 22, 1999 | Seattle, WA (Renton offices from 1982) | Conan, War in Middle Earth, Birthright[^ref-20][^ref-1] |
 | [[Headgate Studios]] | 1992 | April 1996 | Sold back to its owner 1999; later EA Salt Lake; dissolved April 2017 | Bountiful, then Salt Lake City, UT | PGA Tour titles[^ref-1][^ref-30] |
 
 **CUC sister companies (not Sierra studios).** [[Knowledge Adventure]] (founded 1991, Torrance, CA) was bought by CUC International, announced November 5, 1996 and completed January 31, 1997; renamed JumpStart Games, it closed July 1, 2023.[^ref-21] [[Berkeley Systems]] (founded 1987, Berkeley, CA; After Dark screensavers) was bought by CUC in April 1997 and run as a Sierra studio until 2000.[^ref-1][^ref-22]

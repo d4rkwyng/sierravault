@@ -67,23 +67,23 @@ A medieval strategy game published by Sierra. See [[1996 - Lords of the Realm II
 
 Years follow the vault's game pages. Merchant Colony, Cohort, Cohort II and Breach 3 appear in Wikipedia's list of games Impressions *published* rather than developed.[^ref-9]
 
-- **1989** — [[1989 - Kenny Dalglish Soccer Match|Kenny Dalglish Soccer Match]] — Genre: Sports
-- **1991** — [[1991 - Afrika Korps|Afrika Korps]] — Genre: Turn-Based Strategy
+- **1989** — Kenny Dalglish Soccer Match — Genre: Sports
+- **1991** — Afrika Korps — Genre: Turn-Based Strategy
 - **1991** — [[1991 - Cohort Fighting for Rome|Cohort: Fighting for Rome]] — Genre: Real-Time Tactical Wargame
 - **1991** — [[1991 - Fort Apache|Fort Apache]] — Genre: Strategy
-- **1991** — [[1991 - Merchant Colony|Merchant Colony]] — Genre: Strategy
-- **1991** — [[1991 - The Charge of the Light Brigade|The Charge of the Light Brigade]] — Genre: Strategy
+- **1991** — Merchant Colony — Genre: Strategy
+- **1991** — The Charge of the Light Brigade — Genre: Strategy
 - **1992** — [[1992 - Air Bucks|Air Bucks]] — Genre: Simulation
-- **1992** — [[1992 - Air Force Commander|Air Force Commander]] — Genre: Strategy
+- **1992** — Air Force Commander — Genre: Strategy
 - **1992** — [[1992 - Caesar|Caesar]] — Genre: City Building
-- **1992** — [[1992 - Conquest of Japan|Conquest of Japan]] — Genre: Strategy
+- **1992** — Conquest of Japan — Genre: Strategy
 - **1993** — [[1993 - Cohort II - Fighting for Rome|Cohort II: Fighting for Rome]] — Genre: Strategy
-- **1993** — [[1993 - Global Domination|Global Domination]] — Genre: Strategy
+- **1993** — Global Domination — Genre: Strategy
 - **1993** — [[1993 - The Blue & the Gray|The Blue & the Gray]] — Genre: Turn-Based Strategy
 - **1993** — [[1993 - WW2 Air Force Commander|WW2 Air Force Commander]] — Genre: Strategy
 - **1994** — [[1994 - D-Day - The Beginning of the End|D-Day: The Beginning of the End]] — Genre: Turn-Based Strategy
 - **1994** — [[1994 - Detroit|Detroit]] — Genre: Simulation
-- **1994** — [[1994 - Front Lines|Front Lines]] — Genre: Turn-Based Strategy
+- **1994** — Front Lines — Genre: Turn-Based Strategy
 - **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Genre: Strategy
 - **1995** — [[1995 - Breach 3|Breach 3]] — Genre: Strategy
 - **1995** — [[1995 - Caesar II|Caesar II]] — Genre: City Building

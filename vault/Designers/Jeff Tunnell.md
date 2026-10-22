@@ -109,14 +109,14 @@ Roles follow MobyGames' credits (Wayback copy, 2016) unless noted; where MobyGam
 
 ### Dynamix Era (1984–1991)
 
-- 1986 — [[1986 - Arcticfox|Arcticfox]] — Programmer
-- 1987 — [[1987 - Skyfox II - The Cygnus Conflict|Skyfox II: The Cygnus Conflict]] — Creator, Programmer
-- 1988 — [[1988 - Caveman Ughlympics|Caveman Ugh-lympics]] — Director
-- 1988 — [[1989 - F-14 Tomcat|F-14 Tomcat]] — Director (vault page dates it 1989)
-- 1989 — [[1989 - Project Firestart|Project Firestart]] — Director
-- 1989 — [[1989 - Ghostbusters II|Ghostbusters II]] — Director
+- 1986 — Arcticfox — Programmer
+- 1987 — Skyfox II: The Cygnus Conflict — Creator, Programmer
+- 1988 — Caveman Ugh-lympics — Director
+- 1988 — F-14 Tomcat — Director
+- 1989 — Project Firestart — Director
+- 1989 — Ghostbusters II — Director
 - 1989 — Motocross — Design
-- 1989 — [[1989 - Deathtrack|Deathtrack]] — Direction
+- 1989 — Deathtrack — Direction
 - **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Executive Producer
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Role: Executive Producer, Documentation, Cast
 - **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Co-Producer

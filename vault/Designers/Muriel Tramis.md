@@ -95,7 +95,7 @@ Credits per MobyGames unless noted.[^ref-17]
 
 - 1987 — Méwilo — Author
 - 1988 — Freedom: Rebels in the Darkness — Production (Réalisation)
-- **1989** — [[1989 - Asterix - Operation Getafix|Asterix: Operation Getafix]] — Role: Conception
+- **1989** — Asterix: Operation Getafix — Role: Conception
 - **1989** — [[1989 - Emmanuelle|Emmanuelle]] — Role: Scenario
 - **1989** — [[1989 - Legend of Djel|Legend of Djel]] — Role: Design (with Joseph Kluytmans)
 - **1990** — [[1990 - Cougar Force|Cougar Force]] — Role: Project Manager

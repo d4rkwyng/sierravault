@@ -264,8 +264,6 @@ Alien Legacy is remembered as an ambitious hybrid of colony management, planetar
 
 ## See Also
 
-- [[1991 - The Charge of the Light Brigade]]
-- [[1993 - Global Domination]]
 - [[1995 - High Seas Trader]]
 - [[1996 - Birthright - The Gorgon's Alliance]]
 - [[1996 - Space Bucks]]

@@ -27,7 +27,7 @@ Hahn's first credit is as one of the team artists who "provided the computer gra
 
 ### Dynamix Years (1987–2001)
 
-According to the Dynamix Wiki, Hahn joined Dynamix in December 1987 and left in October 2001.[^ref-1] His MobyGames biography says he worked as an art director, producer, music director and SFX director, worked with marketing, PR and QA, and directed localization.[^ref-3] His early Dynamix credits include graphics and animation for [[1988 - Caveman Ughlympics|Caveman Ugh-Lympics]] (1988), graphics for Motocross (1989), and animation for [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] (1989).[^ref-16]
+According to the Dynamix Wiki, Hahn joined Dynamix in December 1987 and left in October 2001.[^ref-1] His MobyGames biography says he worked as an art director, producer, music director and SFX director, worked with marketing, PR and QA, and directed localization.[^ref-3] His early Dynamix credits include graphics and animation for *Caveman Ugh-Lympics* (1988), graphics for Motocross (1989), and animation for [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] (1989).[^ref-16]
 
 He also appears in the cast of two 1989 Dynamix games: as Dr. Johnson in David Wolf: Secret Agent and as Lieutenant Jake Styles in [[1989 - A-10 Tank Killer|A-10 Tank Killer]].[^ref-16][^ref-2] These were digitized photographic roles: David Wolf merges "digitized cinematic cutscenes" with its action sequences.[^ref-19]
 
@@ -86,7 +86,7 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-16]
 ### Early Career (1985–1989)
 
 - 1985 — Dave Winfield's Batter Up! — Team artists (C64 graphics)
-- 1988 — [[1988 - Caveman Ughlympics|Caveman Ugh-Lympics]] — Graphics & Animation
+- 1988 — Caveman Ugh-Lympics — Graphics & Animation
 - 1989 — Motocross — Graphics / Artwork
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Role: Animation; The Cast (as Dr. Johnson)
 - **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Cast (as Lt. Jake Styles)

@@ -75,14 +75,14 @@ Impressions grew from a hobby business started with friends into a studio that C
 
 ### Impressions Games Era (1991–1995)
 
-- **1991** — [[1991 - Merchant Colony|Merchant Colony]] — Role: Game Concept
-- **1992** — [[1992 - Discovery - In the Steps of Columbus|Discovery: In the Steps of Columbus]] — Role: Original Concept
-- **1992** — [[1992 - Air Force Commander|Air Force Commander]] — Role: Game Design
+- **1991** — Merchant Colony — Role: Game Concept
+- **1992** — Discovery: In the Steps of Columbus — Role: Original Concept
+- **1992** — Air Force Commander — Role: Game Design
 - **1992** — [[1992 - Caesar|Caesar]] — Role: Design
-- **1993** — [[1993 - Global Domination|Global Domination]] — Role: Design
+- **1993** — Global Domination — Role: Design
 - **1993** — [[1993 - WW2 Air Force Commander|WW2 Air Force Commander]] — Role: Designer
 - **1994** — [[1994 - Detroit|Detroit]] — Role: Design
-- **1994** — [[1994 - Front Lines|Front Lines]] — Role: Concept
+- **1994** — Front Lines — Role: Concept
 - **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Role: Concept
 - **1995** — [[1995 - Caesar II|Caesar II]] — Role: Design
 - **1995** — [[1995 - Casino De Luxe|Casino De Luxe]] — Role: Original Concept

@@ -68,17 +68,17 @@ Jimmy Maher writes that The Incredible Machine series became "the urtext of the 
 
 ## Games
 
-- **1985** — [[1984 - Sword of Kadash|Sword of Kadash]] — Genre: Action/Adventure
-- **1986** — [[1986 - Arcticfox|Arcticfox]] — Genre: Vehicle Simulation
-- **1987** — [[1987 - Skyfox II - The Cygnus Conflict|Skyfox II: The Cygnus Conflict]] — Genre: Space Combat
-- **1988** — [[1988 - Caveman Ughlympics|Caveman Ugh-lympics]] — Genre: Sports/Comedy
-- **1988** — [[1989 - F-14 Tomcat|F-14 Tomcat]] (C64; DOS 1990) — Genre: Flight Simulation
+- **1985** — Sword of Kadash — Genre: Action/Adventure
+- **1986** — Arcticfox — Genre: Vehicle Simulation
+- **1987** — Skyfox II: The Cygnus Conflict — Genre: Space Combat
+- **1988** — Caveman Ugh-lympics — Genre: Sports/Comedy
+- **1988** — F-14 Tomcat (C64; DOS 1990) — Genre: Flight Simulation
 - **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Genre: Flight Simulation
-- **1989** — [[1989 - Abrams Battle Tank|Abrams Battle Tank]] — Genre: Vehicle Simulation
+- **1989** — Abrams Battle Tank — Genre: Vehicle Simulation
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Genre: Action/Adventure
-- **1989** — [[1989 - Deathtrack|Deathtrack]] — Genre: Racing/Combat
+- **1989** — Deathtrack — Genre: Racing/Combat
 - **1989** — [[1989 - MechWarrior|MechWarrior]] — Genre: Vehicle Simulation/Role-Playing
-- **1989** — [[1989 - Project Firestart|Project Firestart]] — Genre: Action/Horror
+- **1989** — Project Firestart — Genre: Action/Horror
 - **1990** — [[1990 - Red Baron|Red Baron]] — Genre: Flight Simulation
 - **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Genre: Adventure
 - **1990** — [[1990 - Stellar 7|Stellar 7]] — Genre: Tank Combat

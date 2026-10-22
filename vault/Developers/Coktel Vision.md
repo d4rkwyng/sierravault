@@ -67,16 +67,10 @@ Coktel's French titles reached players worldwide through Sierra's publishing.[^r
 Coktel titles with SierraVault pages are listed below; Adventure Gamers keeps a fuller catalogue of the studio's adventure games.[^ref-17]
 
 - **1988** — [[1988 - 20000 Leagues Under the Sea|20000 Leagues Under the Sea]] — Genre: Adventure
-- **1988** — [[1988 - African Raiders-01|African Raiders-01]] — Genre: Racing
-- **1989** — [[1989 - Asterix - Operation Getafix|Asterix: Operation Getafix]] — Genre: Action-Adventure
-- **1989** — [[1989 - ESS - European Space Simulator|ESS: European Space Simulator]] — Genre: Simulation
 - **1989** — [[1989 - Emmanuelle|Emmanuelle]] — Genre: Adventure
 - **1989** — [[1989 - Legend of Djel|Legend of Djel]] — Genre: Adventure
 - **1990** — [[1990 - Cougar Force|Cougar Force]] — Genre: Action
 - **1990** — [[1990 - Geisha|Geisha]] — Genre: Adventure
-- **1990** — [[1990 - Galactic Empire|Galactic Empire]] — Genre: Action-Adventure
-- **1991** — [[1991 - A.G.E.|A.G.E. (Advanced Galactic Empire)]] — Genre: Simulation
-- **1991** — [[1991 - E.S.S. Mega|E.S.S. Mega]] — Genre: Simulation
 - **1991** — [[1991 - Fascination|Fascination]] — Genre: Adventure
 - **1991** — [[1991 - Gobliiins|Gobliiins]] — Genre: Puzzle
 - **1992** — [[1992 - A.J.'s World of Discovery|A.J.'s World of Discovery]] — Genre: Educational

@@ -46,7 +46,7 @@ According to MobyGames, the Clardys started a company called Eclectic Games in 1
 
 ### Spirit of Excalibur (1990)
 
-Synergistic developed *Spirit of Excalibur*, and Virgin Mastertronic published it for MS-DOS, Amiga, Atari ST, CDTV, Apple IIGS and Macintosh.[^ref-24] The player starts as Lord Constantine and eventually commands many knights and their armies, with the aim of uniting Britain under a single king. Play switches between a scrolling map of Britain and close-up "scene level" encounters.[^ref-24] See [[1990 - Spirit of Excalibur|the full game page]].
+Synergistic developed *Spirit of Excalibur*, and Virgin Mastertronic published it for MS-DOS, Amiga, Atari ST, CDTV, Apple IIGS and Macintosh.[^ref-24] The player starts as Lord Constantine and eventually commands many knights and their armies, with the aim of uniting Britain under a single king. Play switches between a scrolling map of Britain and close-up "scene level" encounters.[^ref-24]
 
 ### Birthright: The Gorgon's Alliance
 
@@ -54,7 +54,7 @@ Synergistic developed *Spirit of Excalibur*, and Virgin Mastertronic published i
 
 ### Conan: The Cimmerian (1991)
 
-*Conan: The Cimmerian* is an action-adventure game with role-playing elements, based on Robert E. Howard's barbarian. Virgin Games published it in 1991 for Amiga and MS-DOS.[^ref-26] It used Synergistic's World Builder engine, and the CRPG Addict rated it above both Excalibur games.[^ref-28] See [[1991 - Conan - The Cimmerian|the full game page]].
+*Conan: The Cimmerian* is an action-adventure game with role-playing elements, based on Robert E. Howard's barbarian. Virgin Games published it in 1991 for Amiga and MS-DOS.[^ref-26] It used Synergistic's World Builder engine, and the CRPG Addict rated it above both Excalibur games.[^ref-28]
 
 ## Key People
 
@@ -66,22 +66,19 @@ Synergistic's *Wilderness Campaign* is credited with inspiring the gameplay of t
 
 ## Games
 
-### In This Archive (Published by Others)
-
-- **1989** — [[1989 - J.R.R. Tolkien's War in Middle Earth|J.R.R. Tolkien's War in Middle Earth]] — Strategy (Melbourne House)
-- **1990** — [[1990 - Spirit of Excalibur|Spirit of Excalibur]] — Strategy/RPG (Virgin)
-- **1991** — [[1991 - Vengeance of Excalibur|Vengeance of Excalibur]] — Strategy/RPG (Virgin)
-- **1991** — [[1991 - Conan - The Cimmerian|Conan: The Cimmerian]] — Action/Adventure (Virgin)
-- 1993 — The Beverly Hillbillies — Adventure (Capstone Software)[^ref-37]
-- **1995** — [[1995 - Air Cavalry|Air Cavalry]] — Genre: Flight Simulation (Cybersoft/GameTek)
-
 ### In This Archive (Sierra-Published)
 
 - **1995** — [[1995 - Thexder 95|Thexder 95]] — Genre: Action
 - **1997** — [[1996 - Birthright - The Gorgon's Alliance|Birthright: The Gorgon's Alliance]] — Genre: Strategy/RPG
 - **1997** — [[1997 - Diablo - Hellfire|Diablo: Hellfire]] — Genre: Action RPG
 
-### Other Notable Games (not in archive)
+### Other Games (not in archive)
+- **1989** — J.R.R. Tolkien's War in Middle Earth — Strategy (Melbourne House)
+- **1990** — Spirit of Excalibur — Strategy/RPG (Virgin)
+- **1991** — Vengeance of Excalibur — Strategy/RPG (Virgin)
+- **1991** — Conan: The Cimmerian — Action/Adventure (Virgin)
+- 1993 — The Beverly Hillbillies — Adventure (Capstone Software)[^ref-37]
+- **1995** — Air Cavalry — Genre: Flight Simulation (Cybersoft/GameTek)
 - Laser Surgeon: The Microscopic Mission — 1987 (Activision)
 
 ## References

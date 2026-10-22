@@ -141,7 +141,6 @@ Sierra's version 2.0 patch (listed by MobyGames as v2.0a, May 1997) added a hint
 - [[1993 - Pepper's Adventures in Time]]
 - [[1993 - Slater & Charlie Go Camping]]
 - [[1994 - Battle Bugs]]
-- [[1995 - Air Cavalry]]
 - [[1995 - Fast Attack - High Tech Submarine Warfare]]
 - [[1995 - Shannara]]
 - [[1995 - The Ruins of Cawdor]]

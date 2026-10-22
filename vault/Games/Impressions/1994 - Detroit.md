@@ -202,11 +202,7 @@ Home of the Underdogs gave the game "two thumbs up," describing it as emphasizin
 
 - [[1991 - Cohort Fighting for Rome]]
 - [[1991 - Fort Apache]]
-- [[1991 - Merchant Colony]]
 - [[1992 - Air Bucks]]
-- [[1992 - Air Force Commander]]
-- [[1992 - Conquest of Japan]]
-- [[1992 - Discovery - In the Steps of Columbus]]
 - [[1993 - Cohort II - Fighting for Rome]]
 - [[1995 - Breach 3]]
 - [[1995 - Casino De Luxe]]

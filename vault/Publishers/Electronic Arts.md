@@ -18,7 +18,7 @@ Electronic Arts Inc. (EA) is an American video game company headquartered in Red
 
 Electronic Arts published several games developed by studios that later became part of Sierra On-Line, and it later bought a studio that Sierra had once owned.
 
-**Dynamix Games:** Dynamix's first contract was with Electronic Arts, which resulted in *[[1986 - Arcticfox|Arcticfox]]* (1986).[^ref-16] Compute! described it in October 1986 as "a strategy/action game for the Amiga from Electronic Arts."[^ref-17] EA went on to publish Dynamix's *[[1987 - Skyfox II - The Cygnus Conflict|Skyfox II: The Cygnus Conflict]]* (1987), *[[1988 - Caveman Ughlympics|Caveman Ugh-lympics]]* (1988), *[[1989 - Abrams Battle Tank|Abrams Battle Tank]]* and *[[1989 - Project Firestart|Project Firestart]]* (1989), before Sierra bought Dynamix in 1990.[^ref-8][^ref-16]
+**Dynamix Games:** Dynamix's first contract was with Electronic Arts, which resulted in *Arcticfox* (1986).[^ref-16] Compute! described it in October 1986 as "a strategy/action game for the Amiga from Electronic Arts."[^ref-17] EA went on to publish Dynamix's *Skyfox II: The Cygnus Conflict* (1987), *Caveman Ugh-lympics* (1988), *Abrams Battle Tank* and *Project Firestart* (1989), before Sierra bought Dynamix in 1990.[^ref-8][^ref-16]
 
 **Papyrus Design Group:** One of the first publishers that Papyrus's David Kaemmer and his business partner Omar Khudari approached was Electronic Arts, which was looking for a team to design an Indy 500 game.[^ref-18] EA published the result, *[[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]]* (1989).[^ref-8][^ref-19] Sierra owned Papyrus from 1995.[^ref-21]
 
@@ -28,11 +28,6 @@ Electronic Arts published several games developed by studios that later became p
 
 | Year | Game | Developer |
 |------|------|-----------|
-| 1986 | [[1986 - Arcticfox\|Arcticfox]] | Dynamix |
-| 1987 | [[1987 - Skyfox II - The Cygnus Conflict\|Skyfox II: The Cygnus Conflict]] | Dynamix |
-| 1988 | [[1988 - Caveman Ughlympics\|Caveman Ugh-lympics]] | Dynamix |
-| 1989 | [[1989 - Abrams Battle Tank\|Abrams Battle Tank]] | Dynamix |
-| 1989 | [[1989 - Project Firestart\|Project Firestart]] | Dynamix |
 | 1989 | [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500: The Simulation]] | Papyrus Design Group |
 
 ## Related

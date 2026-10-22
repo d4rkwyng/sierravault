@@ -29,7 +29,7 @@ After art school, in 1992, he answered an advertisement in the school's career p
 
 After a few months at Legend, Beatrice applied for an art director opening at Impressions Games and got it.[^ref-12] Impressions' founder, David Lester, sold the company to Sierra On-Line in 1995.[^ref-17] Beatrice spent three years as art director, two as creative director, two as director of design and development and one as general manager.[^ref-20][^ref-1]
 
-His first Impressions credits were graphics on Detroit (1994) and art direction on [[1994 - Lords of the Realm|Lords of the Realm]] and [[1994 - Front Lines|Front Lines]] (both 1994).[^ref-10] In 1995 he directed the art for [[1995 - Caesar II|Caesar II]], High Seas Trader, Ultimate Soccer Manager, Casino De Luxe and [[1995 - Breach 3|Breach 3]], where he is also credited with 3D graphics, animation and campaign design.[^ref-10]
+His first Impressions credits were graphics on Detroit (1994) and art direction on [[1994 - Lords of the Realm|Lords of the Realm]] and *Front Lines* (both 1994).[^ref-10] In 1995 he directed the art for [[1995 - Caesar II|Caesar II]], High Seas Trader, Ultimate Soccer Manager, Casino De Luxe and [[1995 - Breach 3|Breach 3]], where he is also credited with 3D graphics, animation and campaign design.[^ref-10]
 
 Looking back at Caesar II while promoting Zeus, he said: "Caesar 2 was one of our first real successes as developers, and ever since then we've thought about other settings that might be compelling for future city-building games. We always considered Rome, Greece and Egypt to be the 'big three' of ancient, classical civilizations, and knew that eventually we'd cover each of them."[^ref-6] In 1996 he was creative director and game designer on [[1996 - Lords of the Realm II|Lords of the Realm II]] and art director on Robert E. Lee: Civil War General, Space Bucks and The Rise & Rule of Ancient Empires.[^ref-10]
 
@@ -96,7 +96,7 @@ Beatrice has said he feels "so lucky, honored, blessed to have been part of a ne
 
 - **1994** — [[1994 - Detroit|Detroit]] — Role: Graphics
 - **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Role: Art Director
-- **1994** — [[1994 - Front Lines|Front Lines]] — Role: Art Director
+- **1994** — Front Lines — Role: Art Director
 - **1995** — [[1995 - Caesar II|Caesar II]] — Role: Art Director, Graphics & Animation
 - **1995** — [[1995 - Breach 3|Breach 3]] — Role: Art Director, 3D Graphics & Animation, Campaign Designer
 - **1995** — [[1995 - High Seas Trader|High Seas Trader]] — Role: Art Director

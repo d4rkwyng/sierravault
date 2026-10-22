@@ -123,8 +123,6 @@ The game's GOG wishlist entry had 2,102 votes and 278 comments as of August 2025
 
 ## See Also
 
-- [[1991 - The Charge of the Light Brigade]]
-- [[1993 - Global Domination]]
 - [[1994 - Alien Legacy]]
 - [[1995 - High Seas Trader]]
 - [[1996 - Space Bucks]]

@@ -22,17 +22,20 @@ MobyGames lists 14 Tomahawk games released between 1988 and 1993.[^ref-1] Tomaha
 
 ## Games Published (Sierra Archive)
 
-- **1988** — [[1988 - African Raiders-01|African Raiders-01]] — Developer: Coktel Vision / Inférence[^ref-7]
 - **1989** — [[1989 - Emmanuelle|Emmanuelle]] — Developer: Coktel Vision[^ref-8]
-- **1989** — [[1989 - ESS - European Space Simulator|ESS: European Space Simulator]] — Developer: Coktel Vision[^ref-5]
 - **1989** — [[1989 - Legend of Djel|Legend of Djel]] — Developer: Coktel Vision, Inférence[^ref-9]
 - **1990** — [[1990 - Cougar Force|Cougar Force]] — Developer: MDO / Coktel Vision[^ref-1]
-- **1990** — [[1990 - Galactic Empire|Galactic Empire]] — Developer: Coktel Vision / MDO[^ref-1]
 - **1990** — [[1990 - Geisha|Geisha]] — Developer: Coktel Vision[^ref-17]
-- **1991** — [[1991 - A.G.E.|A.G.E.]] — Developer: Coktel Vision (Tomahawk published the French Atari ST release)[^ref-19]
-- **1991** — [[1991 - E.S.S. Mega|E.S.S. Mega]] — Developer: Coktel Vision[^ref-18]
 - **1991** — [[1991 - Fascination|Fascination]] — Developer: Coktel Vision[^ref-1]
 - **1991** — [[1991 - Gobliiins|Gobliiins]] — Developer: Coktel Vision (Tomahawk published the European release)[^ref-2]
+
+### Other Tomahawk Releases (not in archive)
+
+- **1988** — African Raiders-01 — Developer: Coktel Vision / Inférence[^ref-7]
+- **1989** — ESS: European Space Simulator — Developer: Coktel Vision[^ref-5]
+- **1990** — Galactic Empire — Developer: Coktel Vision / MDO[^ref-1]
+- **1991** — A.G.E. — Developer: Coktel Vision (Tomahawk published the French Atari ST release)[^ref-19]
+- **1991** — E.S.S. Mega — Developer: Coktel Vision[^ref-18]
 
 ## Related
 

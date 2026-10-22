@@ -179,8 +179,6 @@ The Rise & Rule of Ancient Empires was released at almost the same time as Civil
 
 ## See Also
 
-- [[1991 - The Charge of the Light Brigade]]
-- [[1993 - Global Domination]]
 - [[1994 - Alien Legacy]]
 - [[1995 - High Seas Trader]]
 - [[1996 - Birthright - The Gorgon's Alliance]]

@@ -84,11 +84,11 @@ The Stronghold series has lifetime sales of over 13 million, according to Firefl
 ### Impressions Games (1991–1999)
 
 - 1991 — International Championship Athletics — Programmer
-- **1991** — [[1991 - Merchant Colony|Merchant Colony]] — Role: Programmer
-- **1992** — [[1992 - Discovery - In the Steps of Columbus|Discovery: In the Steps of Columbus]] — Role: Designer, Programmer
+- **1991** — Merchant Colony — Role: Programmer
+- **1992** — Discovery: In the Steps of Columbus — Role: Designer, Programmer
 - **1992** — [[1992 - Caesar|Caesar]] — Role: Design Assistant, Programmer
 - 1992 — Air Force Commander — Designer, Programmer
-- **1993** — [[1993 - Global Domination|Global Domination]] — Role: Designer, Programmer
+- **1993** — Global Domination — Role: Designer, Programmer
 - **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Role: Additional Design, Programmer
 - **1995** — [[1995 - Caesar II|Caesar II]] — Role: Additional Design, Programmer
 - **1996** — [[1996 - Lords of the Realm II|Lords of the Realm II]] — Role: Game Designer, Programmer

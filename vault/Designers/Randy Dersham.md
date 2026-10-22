@@ -21,7 +21,7 @@ After Dynamix he worked at Electronic Arts and Acclaim, ran Playdom's Eugene stu
 
 ### Dynamix
 
-Dersham studied photography at the University of Oregon: "I graduated from the University of Oregon as a photography major. Later, I got into the computer game business starting off building an art department for a new studio in Eugene, OR."[^ref-20] His earliest MobyGames credits are for photography: an "Artists' Photo" credit on Arcticfox (1986) and photography on [[1989 - Deathtrack|Deathtrack]] (1989).[^ref-21][^ref-8]
+Dersham studied photography at the University of Oregon: "I graduated from the University of Oregon as a photography major. Later, I got into the computer game business starting off building an art department for a new studio in Eugene, OR."[^ref-20] His earliest MobyGames credits are for photography: an "Artists' Photo" credit on Arcticfox (1986) and photography on *Deathtrack* (1989).[^ref-21][^ref-8]
 
 He was Director of Image Production on [[1989 - A-10 Tank Killer|A-10 Tank Killer]] and [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] (both 1989), [[1990 - Red Baron|Red Baron]] (1990) and [[1992 - Aces of the Pacific|Aces of the Pacific]] (1992), and Image Department Director on [[1990 - Stellar 7|Stellar 7]] (1990).[^ref-21] On [[1990 - Rise of the Dragon|Rise of the Dragon]] he was art director: "Under the art direction of Randy Dersham, Robert Caracol created all the concept art and characters," wrote Adventure Classic Gaming.[^ref-11] On [[1991 - Heart of China|Heart of China]] (1991) he is credited for image production and the Hong Kong video, and IMDb lists him in the role of "Old salt."[^ref-21][^ref-8]
 
@@ -62,7 +62,7 @@ Roles follow MobyGames.[^ref-21]
 ### Dynamix / Sierra
 
 - 1986 — Arcticfox — Artists' Photo
-- **1989** — [[1989 - Deathtrack|Deathtrack]] — Role: Photography
+- **1989** — Deathtrack — Role: Photography
 - **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Director of Image Production
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Role: Director of Image Production
 - **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Image Department Director

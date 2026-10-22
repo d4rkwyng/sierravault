@@ -19,7 +19,7 @@ David Selle, also credited as Dave Selle, is a game designer and writer who work
 
 ### Dynamix (1989–1999)
 
-The Dynamix fan wiki says he was hired in September 1989 as a game designer and rose to director over ten years and three months.[^ref-1] His first credits came that year: track design on Motocross, and on [[1989 - A-10 Tank Killer|A-10 Tank Killer]] (1989) a mission design credit shared with Damon Slye plus a share of the documentation.[^ref-17][^ref-40][^ref-41] On [[1990 - Stellar 7|Stellar 7]] (1990) he is listed among the design contributors and playtesters, and he received a special thanks on the Commodore 64 version of [[1989 - F-14 Tomcat|F-14 Tomcat]].[^ref-17]
+The Dynamix fan wiki says he was hired in September 1989 as a game designer and rose to director over ten years and three months.[^ref-1] His first credits came that year: track design on Motocross, and on [[1989 - A-10 Tank Killer|A-10 Tank Killer]] (1989) a mission design credit shared with Damon Slye plus a share of the documentation.[^ref-17][^ref-40][^ref-41] On [[1990 - Stellar 7|Stellar 7]] (1990) he is listed among the design contributors and playtesters, and he received a special thanks on the Commodore 64 version of *F-14 Tomcat*.[^ref-17]
 
 He then wrote for Dynamix's adventure and space-combat games. On [[1990 - Rise of the Dragon|Rise of the Dragon]] (1990) he shares the original story credit with Jeffrey Tunnell, and the dialogue and text credit with Jerry Luttrell.[^ref-42] He was the writer and world designer of [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] (1991), and also contributed to its documentation.[^ref-43] He was one of the writers on [[1991 - Heart of China|Heart of China]] (1991) and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] (1991).[^ref-44][^ref-17] He also wrote the scripts for [[1993 - Stellar 7 - Draxon's Revenge|Stellar 7: Draxon's Revenge]] (1993).[^ref-17]
 
@@ -41,7 +41,7 @@ His MobyGames biography, written in 2006, says he ran WildTangent's Custom Publi
 
 - **1989** — Motocross — Role: Tracks[^ref-17]
 - **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Mission Design; Documentation[^ref-41]
-- **1989** — [[1989 - F-14 Tomcat|F-14 Tomcat]] (Commodore 64) — Role: Special Thanks[^ref-17]
+- **1989** — F-14 Tomcat (Commodore 64) — Role: Special Thanks[^ref-17]
 - **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Design Contributors and Playtesters[^ref-17]
 - **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Role: Original Story; Dialogue and Text[^ref-42]
 - **1991** — [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] — Role: Writer; World Design[^ref-43]

@@ -208,7 +208,6 @@ Cawdor was the last of the three graphical MUDs from Sierra's online network.[^r
 - [[1993 - Pepper's Adventures in Time]]
 - [[1993 - Slater & Charlie Go Camping]]
 - [[1994 - Battle Bugs]]
-- [[1995 - Air Cavalry]]
 - [[1995 - Fast Attack - High Tech Submarine Warfare]]
 - [[1995 - Shannara]]
 - [[1995 - Torin's Passage]]

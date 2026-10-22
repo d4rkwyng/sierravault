@@ -163,21 +163,21 @@ Before 1989 Dynamix's games were published by other companies, among them Pengui
 
 | Year | Title | Publisher |
 |------|-------|-----------|
-| 1984 or 1985 | [[1984 - Sword of Kadash\|Sword of Kadash]] | Penguin Software |
-| 1986 | [[1986 - Arcticfox\|Arcticfox]] | Electronic Arts |
-| 1987 | [[1987 - Skyfox II - The Cygnus Conflict\|Skyfox II: The Cygnus Conflict]] | Electronic Arts |
-| 1988 | [[1988 - Caveman Ughlympics\|Caveman Ughlympics]] | Electronic Arts |
-| 1989 | [[1989 - F-14 Tomcat\|F-14 Tomcat]] | Activision |
-| 1989 | [[1989 - Abrams Battle Tank\|Abrams Battle Tank]] | Electronic Arts |
+| 1984 or 1985 | *Sword of Kadash* | Penguin Software |
+| 1986 | *Arcticfox* | Electronic Arts |
+| 1987 | *Skyfox II: The Cygnus Conflict* | Electronic Arts |
+| 1988 | *Caveman Ughlympics* | Electronic Arts |
+| 1989 | *F-14 Tomcat* | Activision |
+| 1989 | *Abrams Battle Tank* | Electronic Arts |
 | 1989 | [[1989 - MechWarrior\|MechWarrior]] | Activision |
-| 1989 | [[1989 - Deathtrack\|Deathtrack]] | Activision |
-| 1989 | [[1989 - Die Hard\|Die Hard]] | Activision |
-| 1989 | [[1989 - Ghostbusters II\|Ghostbusters II]] | Activision |
-| 1989 | [[1989 - Project Firestart\|Project Firestart]] | Electronic Arts |
+| 1989 | *Deathtrack* | Activision |
+| 1989 | *Die Hard* | Activision |
+| 1989 | *Ghostbusters II* | Activision |
+| 1989 | *Project Firestart* | Electronic Arts |
 | 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Dynamix label, distributed by Activision |
 | 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Dynamix label, distributed by Activision |
 
-Sources for the table: Wikipedia's list of Dynamix games[^ref-1] and MobyGames.[^ref-2] *Sword of Kadash*'s release year is disputed; its vault page records both dates.
+Sources for the table: Wikipedia's list of Dynamix games[^ref-1] and MobyGames.[^ref-2] *Sword of Kadash*'s release year is disputed.
 
 ## Studio History
 

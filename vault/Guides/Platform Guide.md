@@ -61,7 +61,7 @@ The primary platforms for Sierra's catalog.
 - [[1981 - Jawbreaker|Jawbreaker]] (1982)[^ref-22] — Platform: **Atari 2600**
 - [[1983 - Oils Well|Oil's Well]][^ref-5], [[1983 - Sammy Lightfoot|Sammy Lightfoot]][^ref-6] — Platform: **ColecoVision**
 - [[1984 - King's Quest - Quest for the Crown|King's Quest I]] (1989)[^ref-2] — Platform: **Sega Master System**
-- [[1989 - Abrams Battle Tank|Abrams Battle Tank]] (1991)[^ref-23] — Platform: **Sega Genesis**
+- Abrams Battle Tank (1991)[^ref-23] — Platform: **Sega Genesis**
 - [[1990 - Rise of the Dragon|Rise of the Dragon]] (1992)[^ref-24], [[1991 - The Adventures of Willy Beamish|Willy Beamish]] (1993)[^ref-25], [[1993 - Stellar-Fire|Stellar-Fire]] (1993)[^ref-26] — Platform: **Sega CD**
 - [[1994 - Lode Runner - The Legend Returns|Lode Runner: The Legend Returns]] (1996)[^ref-27], [[1995 - Phantasmagoria|Phantasmagoria]] (1997)[^ref-15] — Platform: **Sega Saturn**
 - [[1992 - Inca|Inca]] (1993)[^ref-28] — Platform: **CD-i**

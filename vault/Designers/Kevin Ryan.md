@@ -64,7 +64,7 @@ His advice to new developers, given in 2007: "For those that haven't finished a 
 
 ### Dynamix (1984–1991)
 
-- **1985** — [[1984 - Sword of Kadash|Sword of Kadash]] — Role: Programmer (Commodore 64 version)
+- **1985** — Sword of Kadash — Role: Programmer (Commodore 64 version)
 - 1986 — Arcticfox — Programmer
 - 1987 — Skyfox II: The Cygnus Conflict — Creator/Programmer (C64)
 - 1989 — F-14 Tomcat — Design/Programming (Commodore 64)

@@ -200,8 +200,6 @@ No current digital storefront listing was found. The game has been released as f
 ## See Also
 
 - [[Dynamix]]
-- [[1984 - Sword of Kadash]]
-- [[1986 - Arcticfox]]
 - [[1989 - MechWarrior]]
 - [[1983 - Troll's Tale]]
 

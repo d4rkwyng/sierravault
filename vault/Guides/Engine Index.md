@@ -232,7 +232,6 @@ Designed by Damon Slye with David McClurg; Slye lists Stellar 7, Arcticfox, Abra
 
 **Play with:** DOSBox
 
-- **1986** — [[1986 - Arcticfox|Arcticfox]]
 - **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]]
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]]
 - **1989** — [[1989 - MechWarrior|MechWarrior]]

@@ -1,6 +1,6 @@
 ---
 title: "Inclusion Criteria"
-updated: "2026-01-27"
+updated: "2026-10-22"
 ---
 
 # Inclusion Criteria
@@ -28,13 +28,13 @@ Franchise entries released after Sierra's acquisition, maintaining series contin
 - Post-Activision: Any future official series entries
 
 ### 3. Acquired/Internal Studios
-**Complete catalogs** from studios Sierra acquired, including pre-acquisition titles:
+Games from studios Sierra acquired, **from the acquisition onward** (the Sierra era). A pre-acquisition title qualifies only if Sierra or one of its labels published, distributed or re-released it, or it belongs to a series that Sierra developed or published an entry in (see "Series Rule" below):
 - **Dynamix** (acquired 1990): Rise of the Dragon, Aces of the Pacific, Starsiege, Tribes
 - **Impressions Games** (acquired 1995): Caesar, Pharaoh, Lords of the Realm
 - **Papyrus Design Group** (acquired 1995): NASCAR Racing, Grand Prix Legends
 - **Coktel Vision** (acquired 1993): Gobliiins series, Inca, Lost in Time
 - **Bright Star Technology** (acquired 1992): Alphabet Blocks, educational titles
-- **Synergistic Software** (acquired 1996): Conan, War in Middle Earth, Spirit of Excalibur
+- **Synergistic Software** (acquired 1996): Birthright: The Gorgon's Alliance, Diablo: Hellfire, Thexder 95
 - **Sierra Attractions** (internal division): Mystery House, Hi-Res Adventure series
 
 ### 4. Funded Partner Studios
@@ -104,7 +104,16 @@ Each game page includes a `sierra_lineage` YAML field indicating its relationshi
 ## Edge Cases
 
 ### Pre-Acquisition Studio Games
-When Sierra acquired a studio, we include that studio's **complete catalog**—not just games made after acquisition. This preserves the creative lineage and helps users understand how these developers evolved.
+We document the **Sierra era**, not a studio's complete catalog. A game a studio made before Sierra acquired it is included only if:
+- Sierra or one of its labels published, distributed or re-released it in some territory (e.g. *The Blue & the Gray*, reissued by Sierra in *The Great Civil War*, 1998), or
+- it belongs to a series in which Sierra developed or published an entry (see Series Rule).
+
+Other pre-acquisition titles are not given their own pages. They may still be mentioned, unlinked, in a studio or designer page's history.
+
+*Decided by Derek, 2026-10-22. This replaced the earlier "complete catalog" rule, and 30 pre-acquisition pages with no Sierra release were removed.*
+
+### Series Rule
+If Sierra (or a studio it owned) developed or published any game in a series, the **whole series** is included, including entries released before the acquisition. For example, *Caesar* (1992) qualifies through Caesar II, *NASCAR Racing* (1994) through NASCAR Racing 2, and *IndyCar Racing* (1993) through IndyCar Racing II. A shared genre or studio is not a series: Dynamix's *MechWarrior* (1989) belongs to Activision's MechWarrior series, not Sierra's Earthsiege.
 
 ### Partner Studios vs. Distribution
 The key distinction: Did Sierra **fund development** or have **creative partnership**? If yes, the game qualifies. If Sierra only handled box distribution, it doesn't.

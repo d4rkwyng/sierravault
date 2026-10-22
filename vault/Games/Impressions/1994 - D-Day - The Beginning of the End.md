@@ -149,8 +149,6 @@ D-Day continued Impressions' Micro Miniatures line of wargames.[^ref-4] Amiga Jo
 
 - [[Impressions Games]]
 - [[1993 - The Blue & the Gray]]
-- [[1991 - Afrika Korps]]
-- [[1992 - Conquest of Japan]]
 - [[1993 - Cohort II - Fighting for Rome]]
 - [[1996 - Robert E. Lee - Civil War General]]
 

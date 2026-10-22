@@ -259,7 +259,6 @@ Zeliard never received a sequel from Sierra or Game Arts, and fans have tried to
 - [[1993 - Pepper's Adventures in Time]]
 - [[1993 - Slater & Charlie Go Camping]]
 - [[1994 - Battle Bugs]]
-- [[1995 - Air Cavalry]]
 - [[1995 - Fast Attack - High Tech Submarine Warfare]]
 - [[1995 - Shannara]]
 - [[1995 - The Ruins of Cawdor]]

@@ -21,15 +21,12 @@ The US operations were sold to Electronic Arts in 1998.[^ref-1][^ref-3] Titus In
 
 Virgin Games published titles developed by studios that later became part of Sierra:
 
-**Synergistic Software:** Virgin published *[[1990 - Spirit of Excalibur|Spirit of Excalibur]]* (1990, through Virgin Mastertronic in Europe and Virgin Games in the US), *[[1991 - Vengeance of Excalibur|Vengeance of Excalibur]]* (1991) and *[[1991 - Conan - The Cimmerian|Conan: The Cimmerian]]* (1991).[^ref-16][^ref-17][^ref-18][^ref-22][^ref-23][^ref-24] Sierra On-Line acquired Synergistic in 1996.[^ref-25]
+**Synergistic Software:** Virgin published *Spirit of Excalibur* (1990, through Virgin Mastertronic in Europe and Virgin Games in the US), *Vengeance of Excalibur* (1991) and *Conan: The Cimmerian* (1991).[^ref-16][^ref-17][^ref-18][^ref-22][^ref-23][^ref-24] Sierra On-Line acquired Synergistic in 1996.[^ref-25]
 
 **Papyrus Design Group:** Virgin Interactive published *[[1993 - IndyCar Racing|IndyCar Racing]]* (1993) in Europe and distributed the US release, which Papyrus Publishing published.[^ref-21] Virgin published *[[1994 - NASCAR Racing|NASCAR Racing]]* (1994) for MS-DOS; MobyGames also lists a US release published by Papyrus Publishing and distributed by Virgin.[^ref-19][^ref-20] Papyrus became part of Sierra in 1995.[^ref-26]
 
 ## Games in This Archive
 
-- **1990** — [[1990 - Spirit of Excalibur|Spirit of Excalibur]] — Developer: Synergistic Software[^ref-22]
-- **1991** — [[1991 - Vengeance of Excalibur|Vengeance of Excalibur]] — Developer: Synergistic Software[^ref-23]
-- **1991** — [[1991 - Conan - The Cimmerian|Conan: The Cimmerian]] — Developer: Synergistic Software[^ref-24]
 - **1993** — [[1993 - IndyCar Racing|IndyCar Racing]] — Developer: Papyrus Design Group (Virgin: publisher in Europe, distributor in the US)[^ref-21]
 - **1994** — [[1994 - NASCAR Racing|NASCAR Racing]] — Developer: Papyrus Design Group[^ref-20]
 

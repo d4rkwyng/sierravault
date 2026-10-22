@@ -28,8 +28,8 @@ Unlike the SCI generations, which Sierra developed in-house and shipped across m
 
 | Year | Title | Notes |
 |------|-------|-------|
-| 1986 | [[1986 - Arcticfox\|Arcticfox]] | Named by Slye[^ref-16] |
-| 1989 | [[1989 - Abrams Battle Tank\|Abrams Battle Tank]] | Named by Slye[^ref-16] |
+| 1986 | *Arcticfox* | Named by Slye[^ref-16] |
+| 1989 | *Abrams Battle Tank* | Named by Slye[^ref-16] |
 | 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Flight combat |
 | 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Named by Slye[^ref-16] |
 | 1989 | [[1989 - MechWarrior\|MechWarrior]] | BattleTech mech combat (Activision-published) |

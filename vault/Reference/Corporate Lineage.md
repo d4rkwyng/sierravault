@@ -43,7 +43,7 @@ Through the late 1980s and 1990s, Sierra established flagship adventure franchis
 - **1993**: Acquired [[Coktel Vision]], a French developer and publisher of educational and entertainment software, on October 29, 1993.[^ref-12][^ref-16]
 - **1995**: Merged with Inspiration, parent of [[Impressions Games]] (British strategy developer of the City Building and Lords of the Realm series), on June 20, 1995.[^ref-13][^ref-16]
 - **1995**: Merged with [[Papyrus Design Group]], "developers of NASCAR Racing and Indy Car Racing", on November 30, 1995.[^ref-14][^ref-16]
-- **1996**: Acquired Seattle's [[Synergistic Software]] ([[1991 - Conan - The Cimmerian|Conan]], [[1989 - J.R.R. Tolkien's War in Middle Earth|War in Middle Earth]]).[^ref-15][^ref-40]
+- **1996**: Acquired Seattle's [[Synergistic Software]] (Conan, War in Middle Earth).[^ref-15][^ref-40]
 
 Sierra went public in October 1988 at $9.00 a share, trading on NASDAQ as "Sier".[^ref-39] Its headquarters moved from California to Bellevue, Washington, in January 1994.[^ref-41] In the fiscal year ending March 31, 1996, Sierra's revenues were USD 158.2 million.[^ref-16]
 

@@ -226,8 +226,6 @@ Bouncers is a footnote in Sierra/Dynamix history and the Sega CD library. Review
 
 ## See Also
 
-- [[1984 - Sword of Kadash]]
-- [[1989 - Abrams Battle Tank]]
 - [[1989 - David Wolf - Secret Agent]]
 - [[1989 - MechWarrior]]
 - [[1990 - Rise of the Dragon]]

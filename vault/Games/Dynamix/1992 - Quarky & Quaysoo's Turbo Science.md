@@ -221,8 +221,6 @@ Period reviewers praised the game and especially its Research Guide.[^ref-24][^r
 
 ## See Also
 
-- [[1984 - Sword of Kadash]]
-- [[1989 - Abrams Battle Tank]]
 - [[1989 - David Wolf - Secret Agent]]
 - [[1989 - MechWarrior]]
 - [[1990 - Rise of the Dragon]]

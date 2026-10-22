@@ -222,16 +222,10 @@ The Last Dynasty is not currently sold digitally on GOG or Steam.
 ## See Also
 
 - [[1988 - 20000 Leagues Under the Sea]]
-- [[1988 - African Raiders-01]]
-- [[1989 - Asterix - Operation Getafix]]
-- [[1989 - ESS - European Space Simulator]]
 - [[1989 - Emmanuelle]]
 - [[1989 - Legend of Djel]]
 - [[1990 - Cougar Force]]
-- [[1990 - Galactic Empire]]
 - [[1990 - Geisha]]
-- [[1991 - A.G.E.]]
-- [[1991 - E.S.S. Mega]]
 - [[1991 - Fascination]]
 - [[1992 - Bargon Attack]]
 - [[1992 - Ween - The Prophecy]]

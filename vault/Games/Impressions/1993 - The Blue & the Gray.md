@@ -162,8 +162,6 @@ After Sierra acquired Impressions, the game returned under the Sierra name. *The
 - [[1996 - Robert E. Lee - Civil War General]]
 - [[1997 - Civil War Generals 2 - Grant–Lee–Sherman]]
 - [[1993 - Cohort II - Fighting for Rome]]
-- [[1992 - Conquest of Japan]]
-- [[1991 - Afrika Korps]]
 
 ## References
 

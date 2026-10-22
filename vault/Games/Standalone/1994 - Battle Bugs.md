@@ -283,7 +283,6 @@ The PlayStation soundtrack consists of 14 tracks with a total runtime of approxi
 - [[1993 - Freddy Pharkas - Frontier Pharmacist]]
 - [[1993 - Pepper's Adventures in Time]]
 - [[1993 - Slater & Charlie Go Camping]]
-- [[1995 - Air Cavalry]]
 - [[1995 - Fast Attack - High Tech Submarine Warfare]]
 - [[1995 - Shannara]]
 - [[1995 - The Ruins of Cawdor]]

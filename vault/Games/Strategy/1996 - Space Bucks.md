@@ -163,8 +163,6 @@ Impressions was already the maker of the Caesar series when Space Bucks shipped.
 
 ## See Also
 
-- [[1991 - The Charge of the Light Brigade]]
-- [[1993 - Global Domination]]
 - [[1994 - Alien Legacy]]
 - [[1995 - High Seas Trader]]
 - [[1996 - Birthright - The Gorgon's Alliance]]

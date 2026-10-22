@@ -76,13 +76,13 @@ Computer Gaming World credited Red Baron with beginning "a dynasty in combat sim
 ### Before Dynamix and Dynamix Years (1983–1994)
 
 - 1983 — Stellar 7 (Apple II; published by Software Entertainment Company, 1984 by Penguin Software) — Designer, Programmer[^ref-2][^ref-12]
-- **1984** — [[1984 - Sword of Kadash|Sword of Kadash]] — Role: Additional Room Designer (uncredited, per the Dynamix fan wiki)[^ref-7]
-- **1986** — [[1986 - Arcticfox|Arcticfox]] — Role: Designer, Programmer
-- **1987** — [[1987 - Skyfox II - The Cygnus Conflict|Skyfox II: The Cygnus Conflict]] — Role: Creator
-- **1989** — [[1989 - Project Firestart|Project Firestart]] — Role: Design
-- **1989** — [[1989 - Abrams Battle Tank|Abrams Battle Tank]] — Role: Director
+- **1984** — Sword of Kadash — Role: Additional Room Designer (uncredited, per the Dynamix fan wiki)[^ref-7]
+- **1986** — Arcticfox — Role: Designer, Programmer
+- **1987** — Skyfox II: The Cygnus Conflict — Role: Creator
+- **1989** — Project Firestart — Role: Design
+- **1989** — Abrams Battle Tank — Role: Director
 - **1989** — [[1989 - MechWarrior|MechWarrior]] — Role: Design
-- **1989** — [[1989 - Deathtrack|Deathtrack]] — Role: Actor ("Starring")
+- **1989** — Deathtrack — Role: Actor ("Starring")
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Role: Design
 - **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Director
 - **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Producer (original designer)

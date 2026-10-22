@@ -132,8 +132,6 @@ After the acquisition, Sierra sold the CD-ROM version for $24.95 in its Holiday 
 
 ## See Also
 
-- [[1991 - The Charge of the Light Brigade]]
-- [[1993 - Global Domination]]
 - [[1994 - Alien Legacy]]
 - [[1996 - Birthright - The Gorgon's Alliance]]
 - [[1996 - Space Bucks]]

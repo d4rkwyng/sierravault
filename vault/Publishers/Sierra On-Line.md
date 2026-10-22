@@ -123,7 +123,6 @@ This section lists games published by Sierra On-Line and its subsidiaries.[^ref-
 - **1983** — [[1983 - Aquatron|Aquatron]] — Notes: Shooter
 - **1983** — [[1983 - WallWar|WallWar]] — Notes: Peter Oliphant
 - **1984** — [[1984 - BC II - Grog's Revenge|B.C. II: Grog's Revenge]] — Notes: Sequel
-- **1984** — [[1984 - Sword of Kadash|Sword of Kadash]] — Notes: Action RPG by Dynamix; published by Penguin Software before Sierra's 1990 acquisition of Dynamix
 - **1983** — [[1985 - Sierra Championship Boxing|Sierra Championship Boxing]] — Notes: Sports; Evryware
 
 #### Educational
@@ -207,7 +206,6 @@ This section lists games published by Sierra On-Line and its subsidiaries.[^ref-
 
 #### Dynamix Adventures & Action
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Notes: FMV action; published by Dynamix before Sierra's 1990 acquisition
-- **1989** — [[1989 - Deathtrack|Deathtrack]] — Notes: Combat racing; published by Activision before Sierra's 1990 acquisition of Dynamix
 - **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Notes: Cyberpunk adventure
 - **1991** — [[1991 - Heart of China|Heart of China]] — Notes: 1930s adventure
 - **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Notes: Comedy adventure
@@ -269,15 +267,11 @@ This section lists games published by Sierra On-Line and its subsidiaries.[^ref-
 Sierra bought Coktel Vision in 1993.[^ref-16] Earlier Coktel games were published by Coktel Vision or its [[Tomahawk]] label, as their game pages record.
 
 - 1988 — Abracadabra — Adventure
-- **1988** — [[1988 - African Raiders-01|African Raiders-01]] — Notes: Action; published by Tomahawk
 - **1989** — [[1989 - Emmanuelle|Emmanuelle]] — Notes: Adult adventure; published by Tomahawk
 - **1989** — [[1989 - Legend of Djel|Legend of Djel]] — Notes: Fantasy adventure; published by Tomahawk
-- **1989** — [[1989 - ESS - European Space Simulator|E.S.S.]] — Notes: Space sim; published by Tomahawk
 - **1990** — [[1990 - Geisha|Geisha]] — Notes: Adult adventure; published by Tomahawk
-- **1991** — [[1991 - E.S.S. Mega|E.S.S. Mega]] — Notes: Enhanced edition; published by Tomahawk
 - **1991** — [[1991 - Fascination|Fascination]] — Notes: Adventure; published by Tomahawk
 - **1991** — [[1991 - Gobliiins|Gobliiins]] — Notes: Puzzle adventure; Sierra published the US release
-- **1991** — [[1991 - A.G.E.|A.G.E.]] — Notes: Strategy; published by Coktel Vision
 - **1992** — [[1992 - A.J.'s World of Discovery|A.J.'s World of Discovery]] — Notes: Educational; published by Coktel Vision
 - **1992** — [[1992 - Bargon Attack|Bargon Attack]] — Notes: Sci-fi adventure; published by Coktel Vision
 - **1992** — [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2]] — Notes: Sequel
@@ -300,18 +294,12 @@ Sierra bought Impressions in 1995.[^ref-16] Earlier Impressions games were publi
 
 - **1991** — [[1991 - Cohort Fighting for Rome|Cohort: Fighting for Rome]] — Notes: Strategy; published by Impressions (Europe) and Merit Software (US)
 - **1991** — [[1991 - Fort Apache|Fort Apache]] — Notes: Western strategy; published by Impressions
-- **1991** — [[1991 - Merchant Colony|Merchant Colony]] — Notes: Trade sim; published by Merit Studios
 - **1992** — [[1992 - Air Bucks|Air Bucks]] — Notes: Airline sim; published by Impressions
-- **1992** — [[1992 - Air Force Commander|Air Force Commander]] — Notes: Strategy; published by Impressions
 - 1992 — Crime City — Management sim
-- **1992** — [[1992 - Conquest of Japan|Conquest of Japan]] — Notes: Strategy; published by Impressions
-- **1992** — [[1992 - Discovery - In the Steps of Columbus|Discovery]] — Notes: History sim; published by Impressions
 - **1992** — [[1992 - Caesar|Caesar]] — Notes: City-builder; published by Impressions
 - **1993** — [[1993 - Cohort II - Fighting for Rome|Cohort II]] — Notes: Strategy sequel; published by Impressions
-- **1993** — [[1993 - Global Domination|Global Domination]] — Notes: Strategy; published by Impressions
 - **1993** — [[1993 - WW2 Air Force Commander|WW2 Air Force Commander]] — Notes: Wargame; published by Impressions
 - **1994** — [[1994 - Detroit|Detroit]] — Notes: Business sim
-- **1994** — [[1994 - Front Lines|Front Lines]] — Notes: WWI strategy; published by Impressions
 - **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Notes: Medieval strategy; published by Impressions
 - **1995** — [[1995 - Caesar II|Caesar II]] — Notes: City-builder
 - **1995** — [[1995 - High Seas Trader|High Seas Trader]] — Notes: Trading sim

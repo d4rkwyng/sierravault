@@ -126,13 +126,13 @@ Roles follow MobyGames.[^ref-9][^ref-19]
 | Year | Title | Publisher | Role |
 |------|-------|-----------|------|
 | 1987 | [[1985 - Thexder\|Thexder]] (Apple II, Apple IIgs, DOS; CoCo 1988) | Sierra On-Line | Project Director, Level Editor (both uncredited) |
-| 1988 | [[1989 - J.R.R. Tolkien's War in Middle Earth\|J.R.R. Tolkien's War in Middle Earth]] | Melbourne House | Director, Game Design |
+| 1988 | *J.R.R. Tolkien's War in Middle Earth* | Melbourne House | Director, Game Design |
 | 1989 | The Third Courier | Accolade | Programmer |
-| 1990 | [[1990 - Spirit of Excalibur\|Spirit of Excalibur]] | Virgin Mastertronic | Director |
+| 1990 | *Spirit of Excalibur* | Virgin Mastertronic | Director |
 | 1990 | Low Blow | Accolade | Game Design |
 | 1990 | Delta Command | — | Managed by |
-| 1991 | [[1991 - Vengeance of Excalibur\|Vengeance of Excalibur]] | Virgin Games | Design |
-| 1991 | [[1991 - Conan - The Cimmerian\|Conan: The Cimmerian]] | Virgin Games | Director, Original Game Design |
+| 1991 | *Vengeance of Excalibur* | Virgin Games | Design |
+| 1991 | *Conan: The Cimmerian* | Virgin Games | Director, Original Game Design |
 | 1992 | LA Law: The Computer Game | Capstone Software | Director, Original Game Design, Story and Dialog |
 | 1993 | The Beverly Hillbillies | Capstone Software | Director |
 | 1993 | Homey D. Clown | Capstone Software | Director, Original Story and Design |
@@ -140,7 +140,7 @@ Roles follow MobyGames.[^ref-9][^ref-19]
 | 1993 | Warriors of Legend | Synergistic Software | Direction and Original Design |
 | 1994 | Spectre | Velocity | Direction |
 | 1995 | Carrier Aces | Cybersoft | Director |
-| 1995 | [[1995 - Air Cavalry\|Air Cavalry]] | Cybersoft | Director |
+| 1995 | *Air Cavalry* | Cybersoft | Director |
 | 1995 | [[1995 - Thexder 95\|Thexder 95]] | Sierra On-Line | Designer, Director, Level Design |
 | 1996 | Total Meltdown | — | Direction |
 | 1997 | [[1996 - Birthright - The Gorgon's Alliance\|Birthright: The Gorgon's Alliance]] | Sierra On-Line | Computer Game Designer, Voices |

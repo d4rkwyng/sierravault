@@ -171,8 +171,6 @@ The program disks came sealed in a manila envelope. It carried the Peregrine log
 
 - [[1990 - Rise of the Dragon]] - Dynamix adventure built on David Wolf's technical groundwork
 - [[1991 - Heart of China]] - Dynamix adventure that returned to photographed actors
-- [[1984 - Sword of Kadash]]
-- [[1989 - Abrams Battle Tank]]
 - [[1989 - MechWarrior]]
 - [[1991 - The Adventures of Willy Beamish]]
 - [[1992 - Johnny Castaway]]

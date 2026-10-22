@@ -185,17 +185,13 @@ Cohort II was a modest sequel whose reception was largely negative. While the ga
 
 ## See Also
 
-- [[1992 - Discovery - In the Steps of Columbus|← Previous: Discovery - In the Steps of Columbus]]
+- [[1992 - Air Bucks|← Previous: Air Bucks]]
 - [[1993 - WW2 Air Force Commander|→ Next: WW2 Air Force Commander]]
 
 - [[1991 - Cohort Fighting for Rome]]
 - [[1991 - Fort Apache]]
-- [[1991 - Merchant Colony]]
 - [[1992 - Air Bucks]]
-- [[1992 - Air Force Commander]]
-- [[1992 - Conquest of Japan]]
 - [[1994 - Detroit]]
-- [[1994 - Front Lines]]
 - [[1995 - Breach 3]]
 - [[1995 - Casino De Luxe]]
 - [[1995 - Conqueror - A.D. 1086]]

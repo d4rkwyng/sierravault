@@ -7,7 +7,7 @@ last_updated: "2026-10-16"
 
 <small style="color: gray">Last updated: October 16, 2026</small>
 
-Sierra games, games from studios Sierra owned, later releases under the Sierra name, alumni projects and fan games, organized chronologically—509 entries from 1980 to 2026. Years follow each linked game page; where this timeline corrects a year, the footnote gives the source. **Flagship series** are shown in **bold**. Fan projects marked *(Fan)*. For browsing by series, see the [[Site Index]].
+Sierra games, games from studios Sierra owned, later releases under the Sierra name, alumni projects and fan games, organized chronologically—479 entries from 1980 to 2026. Years follow each linked game page; where this timeline corrects a year, the footnote gives the source. **Flagship series** are shown in **bold**. Fan projects marked *(Fan)*. For browsing by series, see the [[Site Index]].
 
 ---
 
@@ -71,7 +71,6 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 - **[[1984 - King's Quest - Quest for the Crown|King's Quest - Quest for the Crown]]** — Series: King's Quest, Type: Adventure
 - [[1984 - Learning with FuzzyWOMP|Learning with FuzzyWOMP]] — Series: Sierra Educational, Type: Educational
 - [[1984 - Mickey's Space Adventure|Mickey's Space Adventure]] — Series: Disney Educational Series, Type: Adventure
-- [[1984 - Sword of Kadash|Sword of Kadash]] — Type: Action RPG
 - [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]] — Series: Disney Edutainment Series, Type: Adventure / Edutainment
 - [[1984 - Wizard of Id's WizMath|Wizard of Id's WizMath]] — Type: Educational / Puzzle
 - [[1984 - Wizard of Id's WizType|Wizard of Id's WizType]] — Series: Wizard of Id, Type: Educational
@@ -84,7 +83,6 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 - [[1985 - Thexder|Thexder]] — Series: Thexder, Type: Action
 
 ### 1986
-- [[1986 - Arcticfox|Arcticfox]] — Developer: Dynamix, Type: Vehicle Simulation[^ref-20]
 - [[1986 - Kempelen|Kempelen]] — Type: Strategy
 - **[[1986 - King's Quest III - To Heir Is Human|King's Quest III - To Heir Is Human]]** — Series: King's Quest, Type: Adventure
 - **[[1986 - Space Quest - The Sarien Encounter|Space Quest - The Sarien Encounter]]** — Series: Space Quest, Type: Adventure
@@ -96,13 +94,10 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 - **[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]]** — Series: Leisure Suit Larry, Type: Adventure
 - [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] — Series: Mixed-Up Mother Goose, Type: Educational Adventure
 - **[[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest - In Pursuit of the Death Angel]]** — Series: Police Quest, Type: Adventure
-- [[1987 - Skyfox II - The Cygnus Conflict|Skyfox II - The Cygnus Conflict]] — Series: Skyfox, Type: Space Combat Simulation[^ref-21]
 - **[[1987 - Space Quest II - Vohaul's Revenge|Space Quest II - Vohaul's Revenge]]** — Series: Space Quest, Type: Adventure
 
 ### 1988
 - [[1988 - 20000 Leagues Under the Sea|20000 Leagues Under the Sea]] — Type: Adventure
-- [[1988 - African Raiders-01|African Raiders-01]] — Type: Racing
-- [[1988 - Caveman Ughlympics|Caveman Ugh-lympics]] — Developer: Dynamix, Type: Sports[^ref-5]
 - [[1988 - Gold Rush|Gold Rush]] — Type: Adventure
 - **[[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV - The Perils of Rosella]]** — Series: King's Quest, Type: Adventure
 - **[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]** — Series: Leisure Suit Larry, Type: Adventure
@@ -112,27 +107,17 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 
 ### 1989
 - [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Series: A-10 Tank Killer, Type: Flight Simulation
-- [[1989 - Abrams Battle Tank|Abrams Battle Tank]] — Developer: Dynamix, Type: Vehicle Simulation
 - [[1989 - After Dark|After Dark]] — Series: After Dark, Type: Screensaver/Puzzle Collection
-- [[1989 - Asterix - Operation Getafix|Asterix - Operation Getafix]] — Series: Asterix, Type: Action-Adventure
 - [[1990 - Codename - Iceman|Codename - Iceman]] — Series: Codename (standalone), Type: Adventure
 - [[1989 - David Wolf - Secret Agent|David Wolf - Secret Agent]] — Series: David Wolf, Type: Action
-- [[1989 - Deathtrack|Deathtrack]] — Series: Deathtrack, Type: Vehicular Combat Racing[^ref-22]
-- [[1989 - Die Hard|Die Hard]] — Developer: Dynamix, Type: Action[^ref-24]
-- [[1989 - ESS - European Space Simulator|ESS - European Space Simulator]] — Series: E.S.S., Type: Simulation
 - [[1989 - Emmanuelle|Emmanuelle]] — Series: Emmanuelle (loosely), Type: Adventure
-- [[1989 - F-14 Tomcat|F-14 Tomcat]] — Developer: Dynamix, Type: Flight Simulation[^ref-6]
 - [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk - Thexder - The Second Contact]] — Series: Thexder, Type: Run and Gun / Shooter
-- [[1989 - Ghostbusters II|Ghostbusters II]] — Developer: Dynamix, Type: Action[^ref-25]
 - [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games - Volume 1]] — Series: Hoyle, Type: Card Games
 - [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500 - The Simulation]] — Developer: Papyrus, Type: Racing Simulation
-- [[1989 - J.R.R. Tolkien's War in Middle Earth|J.R.R. Tolkien's War in Middle Earth]] — Developer: Synergistic, Type: Strategy
-- [[1989 - Kenny Dalglish Soccer Match|Kenny Dalglish Soccer Match]] — Developer: Impressions, Type: Sports[^ref-26]
 - [[1989 - Legend of Djel|Legend of Djel]] — Series: Standalone, Type: Adventure
 - **[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]** — Series: Leisure Suit Larry, Type: Adventure
 - [[1989 - Manhunter - San Francisco|Manhunter - San Francisco]] — Series: Manhunter, Type: Adventure
 - [[1989 - MechWarrior|MechWarrior]] — Developer: Dynamix, Type: Vehicle Simulation
-- [[1989 - Project Firestart|Project Firestart]] — Developer: Dynamix, Type: Survival Horror[^ref-23]
 - **[[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I - So You Want to Be a Hero]]** — Series: Quest for Glory, Type: Adventure
 - **[[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III - The Pirates of Pestulon]]** — Series: Space Quest, Type: Adventure
 - **[[1989 - The Colonel's Bequest|The Colonel's Bequest]]** — Series: Laura Bow, Type: Adventure
@@ -141,12 +126,11 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 
 ## 1990s: The Golden Age
 
-Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Impressions joined the family, and Sierra expanded into simulations, strategy, and online gaming. Over 260 releases this decade.
+Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Impressions joined the family, and Sierra expanded into simulations, strategy, and online gaming. Over 250 releases this decade.
 
 ### 1990
 - [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot - The Search for the Grail]] — Series: Conquests, Type: Adventure
 - [[1990 - Cougar Force|Cougar Force]] — Type: Action
-- [[1990 - Galactic Empire|Galactic Empire]] — Developer: Coktel Vision, Type: Action-Adventure
 - [[1990 - Geisha|Geisha]] — Type: Adventure
 - [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games - Volume 2]] — Series: Hoyle Official Book of Games, Type: Card/Tile
 - **[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V - Absence Makes the Heart Go Yonder]]** — Series: King's Quest, Type: Adventure
@@ -156,19 +140,14 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1990 - Red Baron|Red Baron]] — Series: Red Baron, Type: Flight Simulation
 - [[1990 - Rise of the Dragon|Rise of the Dragon]] — Series: Dynamix Adventures, Type: Adventure
 - **[[1990 - Roberta Williams' King's Quest I - Quest for the Crown|Roberta Williams' King's Quest I - Quest for the Crown]]** — Series: King's Quest, Type: Adventure
-- [[1990 - Spirit of Excalibur|Spirit of Excalibur]] — Developer: Synergistic, Type: Strategy/RPG
 - [[1990 - Stellar 7|Stellar 7]] — Series: Stellar 7, Type: Tank Simulation / Shooter
 - [[1990 - Zeliard|Zeliard]] — Type: Action RPG
 
 ### 1991
 - [[1991 - A-10 Tank Killer v1.5|A-10 Tank Killer v1.5]] — Series: A-10 Tank Killer Series, Type: Flight Simulation
-- [[1991 - A.G.E.|A.G.E.]] — Series: Galactic Empire, Type: Action Simulation
-- [[1991 - Afrika Korps|Afrika Korps]] — Developer: Impressions, Type: Turn-Based Strategy[^ref-27]
 - [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Series: Dr. Brain, Type: Educational Puzzle
 - [[1991 - Cohort Fighting for Rome|Cohort Fighting for Rome]] — Series: Cohort, Type: Strategy/Tactics
-- [[1991 - Conan - The Cimmerian|Conan - The Cimmerian]] — Developer: Synergistic, Type: Action/Adventure
 - [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow - The Legend of Robin Hood]] — Series: Conquests, Type: Adventure
-- [[1991 - E.S.S. Mega|E.S.S. Mega]] — Series: E.S.S., Type: Simulation
 - [[1991 - EcoQuest - The Search for Cetus|EcoQuest - The Search for Cetus]] — Series: EcoQuest, Type: Educational Adventure
 - [[1991 - Fascination|Fascination]] — Type: Adventure
 - [[1991 - Fort Apache|Fort Apache]] — Series: Micro Miniatures, Type: Strategy
@@ -178,7 +157,6 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Type: Life Simulation
 - **[[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]** — Series: Leisure Suit Larry, Type: Adventure
 - **[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]** — Series: Leisure Suit Larry, Type: Adventure
-- [[1991 - Merchant Colony|Merchant Colony]] — Type: Strategy/Business Simulation
 - [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Series: Mixed-Up, Type: Adventure
 - [[1991 - More After Dark|More After Dark]] — Series: After Dark, Type: Action
 - [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9 - The Return of Gir Draxon]] — Series: Stellar 7, Type: Action
@@ -186,26 +164,21 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - **[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I - Roger Wilco in the Sarien Encounter]]** — Series: Space Quest, Type: Adventure
 - **[[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV - Roger Wilco and the Time Rippers]]** — Series: Space Quest, Type: Adventure
 - [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Type: Adventure
-- [[1991 - The Charge of the Light Brigade|The Charge of the Light Brigade]] — Series: Micro Miniatures, Type: Strategy/Tactics
 - [[1991 - The Shadow of Yserbius|The Shadow of Yserbius]] — Series: Shadow of Yserbius, Type: Role-Playing Game[^ref-39]
-- [[1991 - Vengeance of Excalibur|Vengeance of Excalibur]] — Developer: Synergistic, Type: Strategy/RPG
 
 ### 1992
 - [[1992 - A.J.'s World of Discovery|A.J.'s World of Discovery]] — Series: Adibou, Type: Educational
 - [[1992 - Aces of the Pacific - WWII 1946|Aces of the Pacific - WWII 1946]] — Series: Aces, Type: Expansion
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] — Series: Aces Series, Type: Flight Simulation
 - [[1992 - Air Bucks|Air Bucks]] — Series: Bucks, Type: Business Simulation
-- [[1992 - Air Force Commander|Air Force Commander]] — Series: Air Force Commander, Type: Strategy/Simulation
 - [[1982 - Alphabet Blocks|Alphabet Blocks]] — Series: Sierra Discovery Series, Type: Educational[^ref-2]
 - [[1992 - Bargon Attack|Bargon Attack]] — Type: Adventure
 - [[1992 - Caesar|Caesar]] — Series: Caesar, Type: City Building[^ref-9]
-- [[1992 - Conquest of Japan|Conquest of Japan]] — Type: Strategy
 - [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's Software Picks - King Graham's Board Game Challenge]] — Type: Board Game
 - **[[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino|Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]** — Series: Leisure Suit Larry, Type: Casino/Gambling
 - **[[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|Crazy Nick's Software Picks - Parlor Games with Laura Bow]]** — Series: Laura Bow, Type: Board game
 - [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]] — Type: Action
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]] — Type: Action
-- [[1992 - Discovery - In the Steps of Columbus|Discovery - In the Steps of Columbus]] — Type: Strategy
 - [[1992 - Front Page Sports Football 92|Front Page Sports Football 92]] — Series: Front Page Sports, Type: Sports Simulation
 - [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2 - The Prince Buffoon]] — Series: Gobliiins, Type: Puzzle Adventure
 - [[1992 - Inca|Inca]] — Series: Inca, Type: Adventure/Action
@@ -233,7 +206,6 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas - Frontier Pharmacist]] — Series: Freddy Pharkas, Type: Adventure
 - [[1993 - Front Page Sports - Football Pro|Front Page Sports - Football Pro]] — Series: Front Page Sports, Type: Sports Simulation
 - **[[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight - Sins of the Fathers]]** — Series: Gabriel Knight, Type: Adventure
-- [[1993 - Global Domination|Global Domination]] — Type: Strategy
 - [[1993 - Goblins Quest 3|Goblins Quest 3]] — Series: Gobliiins, Type: Puzzle Adventure
 - [[1991 - Hoyle Official Book of Games - Volume 4|Hoyle Official Book of Games - Volume 4]] — Series: Hoyle, Type: Card/Strategy[^ref-7]
 - [[1993 - Inca II - Wiracocha|Inca II - Wiracocha]] — Series: Inca II, Type: Adventure
@@ -265,7 +237,6 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1994 - Bouncers|Bouncers]] — Type: Sports
 - [[1994 - D-Day - The Beginning of the End|D-Day - The Beginning of the End]] — Series: Micro Miniatures, Type: Turn-Based Strategy[^ref-30]
 - [[1994 - Detroit|Detroit]] — Type: Business Simulation
-- [[1994 - Front Lines|Front Lines]] — Type: Turn-based Strategy
 - [[1994 - Front Page Sports - Baseball Pro|Front Page Sports - Baseball Pro]] — Series: Front Page Sports, Type: Sports
 - [[1994 - Front Page Sports - Football Pro '95|Front Page Sports - Football Pro '95]] — Series: Front Page Sports, Type: Sports Simulation
 - **[[1994 - King's Quest VII - The Princeless Bride|King's Quest VII - The Princeless Bride]]** — Series: King's Quest, Type: Adventure
@@ -284,7 +255,6 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 
 ### 1995
 - [[1995 - 3-D Ultra Pinball|3-D Ultra Pinball]] — Series: 3-D Ultra Pinball, Type: Pinball Simulation
-- [[1995 - Air Cavalry|Air Cavalry]]
 - [[1995 - Breach 3|Breach 3]] — Series: Breach, Type: Real-Time Tactics
 - [[1995 - Caesar II|Caesar II]] — Series: Caesar, Type: City Building Strategy
 - [[1995 - Casino De Luxe|Casino De Luxe]] — Series: Casino Deluxe, Type: Casino / Gambling Simulation
@@ -654,8 +624,6 @@ Year corrections use MobyGames' earliest listed release date (checked through th
 [^ref-2]: [MobyGames – Alphabet Blocks](https://www.mobygames.com/game/113498/alphabet-blocks/) – Macintosh 1992-10-16, Windows 16-bit 1993-05-11
 [^ref-3]: [MobyGames – Early Math](https://www.mobygames.com/game/129279/early-math/) – Windows 16-bit and Macintosh 1993
 [^ref-4]: [MobyGames – Ready, Set, Read with Bananas & Jack](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/) – Windows 16-bit 1993, Macintosh 1993-05-19
-[^ref-5]: [MobyGames – Caveman Ugh-Lympics](https://www.mobygames.com/game/4230/caveman-ugh-lympics/) – Commodore 64 1988, DOS 1989-07
-[^ref-6]: [MobyGames – F-14 Tomcat](https://www.mobygames.com/game/59771/f-14-tomcat/) – Commodore 64 1989-02
 [^ref-7]: [MobyGames – Hoyle Classic Card Games (1993)](https://www.mobygames.com/game/30264/hoyle-classic-card-games/) – DOS, Windows 16-bit and Macintosh 1993; the entry the Volume 4 page cites
 [^ref-8]: [MobyGames – Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) – Windows 1996
 [^ref-9]: [MobyGames – Caesar](https://www.mobygames.com/game/3146/caesar/) – DOS and Amiga 1992
@@ -669,14 +637,6 @@ Year corrections use MobyGames' earliest listed release date (checked through th
 [^ref-17]: [MobyGames – Hoyle Casino (2003 edition)](https://www.mobygames.com/game/245729/hoyle-casino/) – Windows and Macintosh 2002-09-03
 [^ref-18]: [MobyGames – Hoyle Casino 2004](https://www.mobygames.com/game/11804/hoyle-casino-2004/) – Windows 2003-09-02
 [^ref-19]: [MobyGames – Hoyle Table Games 2004](https://www.mobygames.com/game/13166/hoyle-table-games-2004/) – Windows 2003-09-02
-[^ref-20]: [MobyGames – Arcticfox](https://www.mobygames.com/game/5474/arcticfox/) – Amiga and Commodore 64 1986
-[^ref-21]: [MobyGames – Skyfox II: The Cygnus Conflict](https://www.mobygames.com/game/192/skyfox-ii-the-cygnus-conflict/) – Commodore 64 1987
-[^ref-22]: [MobyGames – Deathtrack](https://www.mobygames.com/game/1758/deathtrack/) – DOS 1989-12
-[^ref-23]: [MobyGames – Project Firestart](https://www.mobygames.com/game/8885/project-firestart/) – Commodore 64 1989-03
-[^ref-24]: [MobyGames – Die Hard](https://www.mobygames.com/game/5469/die-hard/) – DOS 1989-12
-[^ref-25]: [MobyGames – Ghostbusters II](https://www.mobygames.com/game/481/ghostbusters-ii/) – DOS 1989
-[^ref-26]: [MobyGames – Kenny Dalglish Soccer Match](https://www.mobygames.com/game/16110/kenny-dalglish-soccer-match/) – Amiga and Atari ST 1989
-[^ref-27]: [MobyGames – Afrika Korps](https://www.mobygames.com/game/50460/afrika-korps/) – Amiga and Atari ST 1991
 [^ref-28]: [MobyGames – Blue Force](https://www.mobygames.com/game/1478/blue-force/) – DOS 1993
 [^ref-29]: [MobyGames – Edward Grabowski's The Blue & The Gray](https://www.mobygames.com/game/2915/edward-grabowskis-the-blue-the-gray/) – DOS 1993
 [^ref-30]: [MobyGames – D-Day: The Beginning of the End](https://www.mobygames.com/game/16484/d-day-the-beginning-of-the-end/) – DOS and Amiga 1994

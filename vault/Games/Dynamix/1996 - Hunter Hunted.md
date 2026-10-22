@@ -227,8 +227,6 @@ Critics gave the game moderately positive reviews[^ref-1], and it never achieved
 
 ## See Also
 
-- [[1984 - Sword of Kadash]]
-- [[1989 - Abrams Battle Tank]]
 - [[1989 - David Wolf - Secret Agent]]
 - [[1989 - MechWarrior]]
 - [[1990 - Rise of the Dragon]]

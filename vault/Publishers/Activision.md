@@ -48,7 +48,6 @@ Microsoft completed its acquisition of Activision Blizzard on October 13, 2023, 
 
 ## Games in This Archive
 
-- **1989** — [[1989 - Deathtrack|Deathtrack]] — Notes: Developed by Dynamix
 - **1989** — [[1989 - MechWarrior|MechWarrior]] — Notes: Developed by Dynamix
 - **2015** — [[2015 - King's Quest|King's Quest]] — Notes: Episodic reboot by The Odd Gentlemen, Sierra label
 
