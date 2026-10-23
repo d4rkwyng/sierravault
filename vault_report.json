@@ -1,86 +1,12 @@
 {
   "summary": {
     "total_pages": 492,
-    "passing": 442,
-    "failing": 50,
-    "pass_rate_pct": 89.8,
-    "average_score": 97.3
+    "passing": 490,
+    "failing": 2,
+    "pass_rate_pct": 99.6,
+    "average_score": 98.2
   },
   "pages": [
-    {
-      "filename": "1999 - Front Page Sports - Ski Racing 99.md",
-      "series": "Front Page Sports",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 71.0,
-      "passes": false,
-      "status": "FAIL",
-      "ref_count": 9,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Contemporary Reviews (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Development section",
-          "points_lost": 3
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Legacy section",
-          "points_lost": 3
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 9 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 9 is below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s) \u2014 consolidate into one citation: ['https://www.mobygames.com/game/243406/front-page-sports-ski-racing-99/']",
-          "points_lost": 5
-        }
-      ]
-    },
     {
       "filename": "1998 - PGA Championship Golf.md",
       "series": "PGA Championship Golf",
@@ -156,329 +82,17 @@
       ]
     },
     {
-      "filename": "1982 - Adventure in Serenia.md",
-      "series": "Hi-Res",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 80.5,
-      "passes": false,
-      "status": "FAIL",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Structure and Progression (under ## Gameplay)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Puzzles and Mechanics (under ## Gameplay)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Contemporary Reviews (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 14 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2001 - Hoyle Kids Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 82.4,
-      "passes": false,
-      "status": "FAIL",
-      "ref_count": 9,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Contemporary Reviews (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 9 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 9 is below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2008 - Hoyle Puzzle and Board Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 82.4,
-      "passes": false,
-      "status": "FAIL",
-      "ref_count": 12,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 12 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 12 is below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1990 - Mixed-Up Mother Goose (SCI Remake).md",
-      "series": "Mixed Up",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 82.4,
-      "passes": false,
-      "status": "FAIL",
-      "ref_count": 6,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Contemporary Reviews (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 6 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 6 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1997 - Hoyle Poker.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 84.2,
-      "passes": false,
-      "status": "FAIL",
-      "ref_count": 7,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Contemporary Reviews (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 7 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 7 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1982 - Jawbreaker II.md",
-      "series": "Jawbreaker",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 84.2,
-      "passes": false,
-      "status": "FAIL",
-      "ref_count": 13,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Contemporary Reviews (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 13 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 13 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1997 - Front Page Sports Golf - Tour Course Add-On.md",
+      "filename": "1999 - Front Page Sports - Ski Racing 99.md",
       "series": "Front Page Sports",
       "page_type": "standard",
       "is_flagship": false,
       "is_non_narrative": true,
       "threshold": 90,
-      "score": 84.7,
+      "score": 84.2,
       "passes": false,
       "status": "FAIL",
-      "ref_count": 19,
+      "ref_count": 17,
       "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `designer`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `engine`",
-          "points_lost": 1.2
-        },
         {
           "category": "Structure",
           "severity": "error",
@@ -494,6 +108,12 @@
         {
           "category": "Structure",
           "severity": "error",
+          "message": "Missing ## Development section",
+          "points_lost": 3
+        },
+        {
+          "category": "Structure",
+          "severity": "error",
           "message": "Missing ### Origins or ### Production (under ## Development)",
           "points_lost": 2
         },
@@ -501,144 +121,6 @@
           "category": "Structure",
           "severity": "warning",
           "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Game Info callout missing `**Designer:**` field (or alternative: Design/Writing, Design)",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Game Info callout missing `**Engine:**` field",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Game Info callout missing `**Protagonist:**` field",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 19 is below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2004 - Hoyle Puzzle and Board Games 2005.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 85.1,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 12,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Game Info callout missing `**Designer:**` field (or alternative: Design/Writing, Design)",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 12 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 12 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1994 - Metaltech - Earthsiege Speech Pack.md",
-      "series": "Metaltech",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 85.1,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 9,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Game Info callout missing `**Engine:**` field",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 9 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 9 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2000 - PGA Championship Golf 2000 - Titanium Edition.md",
-      "series": "PGA Championship Golf",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 85.1,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 12,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment (under ## Reception)",
           "points_lost": 2
         },
         {
@@ -648,920 +130,6 @@
           "points_lost": 3
         },
         {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 12 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 12 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1984 - Gelfling Adventure.md",
-      "series": "Hi-Res",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 85.3,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 13,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Puzzles and Mechanics (under ## Gameplay)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 13 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 13 is below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1996 - Casino Deluxe 2.md",
-      "series": "Impressions",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 85.8,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "YAML",
-          "severity": "error",
-          "message": "Missing YAML field: `designer`",
-          "points_lost": 1.2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Game Info callout missing `**Designer:**` field (or alternative: Design/Writing, Design)",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 14 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1996 - Hoyle Casino.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 85.9,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Game Info callout missing `**Release Year:**` field",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Game Info callout missing `**Protagonist:**` field",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 14 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2000 - Hoyle Solitaire and Mahjong Tiles.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 85.9,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 11,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 11 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 11 is below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2002 - Hoyle Card Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 85.9,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 13,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 13 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 13 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2005 - Hoyle Texas Hold Em.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 85.9,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 9,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 9 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 9 is below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2006 - Hoyle Casino.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 85.9,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 10,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 10 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 10 is below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2010 - Hoyle Swashbucklin Slots.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 85.9,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 9,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 9 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 9 is below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2001 - PGA Championship Golf - Collector's Edition.md",
-      "series": "PGA Championship Golf",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 85.9,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 7,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 7 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 7 is below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1996 - Hoyle Bridge.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 86.8,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Game Info callout missing `**Designer:**` field (or alternative: Design/Writing, Design)",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 14 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2003 - Hoyle Card Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 86.8,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 12,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Game Info callout missing `**Designer:**` field (or alternative: Design/Writing, Design)",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 12 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 12 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1981 - Hi-Res Soccer.md",
-      "series": "Hi-Res",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 87.7,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 12,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 12 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 12 is below target of 20",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1999 - Hoyle Casino.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 87.7,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 11,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 11 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 11 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2000 - Hoyle Crosswords.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 87.7,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 14 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2001 - Hoyle Casino.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 87.7,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 10,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 10 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 10 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2001 - Hoyle Word Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 87.7,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 14 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2002 - Hoyle Puzzle Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 87.7,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 13,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 13 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 13 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2004 - Hoyle Puzzle Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 87.7,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 13,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 13 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 13 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2005 - Hoyle Board Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 87.7,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 14 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2006 - Hoyle Miami Solitaire.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 87.7,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 11,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 11 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 11 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2007 - Hoyle Casino.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 87.7,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 12,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 12 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 12 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1994 - The Incredible Machine 2.md",
-      "series": "Incredible Machine",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 87.7,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 7,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 7 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 7 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1995 - The Incredible Machine 3.0.md",
-      "series": "Incredible Machine",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 87.7,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 11,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 11 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 11 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1993 - Inca II - Wiracocha.md",
-      "series": "Inca",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 87.8,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 12,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Game Info callout missing `**Designer:**` field (or alternative: Design/Writing, Design)",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 12 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 12 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2026 - Gobliins 6.md",
-      "series": "Gobliiins",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 88.6,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 19,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Interface and Controls (under ## Gameplay)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Structure and Progression (under ## Gameplay)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Puzzles and Mechanics (under ## Gameplay)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
           "category": "Structure",
           "severity": "error",
           "message": "Missing ## Downloads section",
@@ -1570,413 +138,7 @@
         {
           "category": "References",
           "severity": "warning",
-          "message": "Reference count 19 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1995 - Playtoons 4 - The Mandarine Prince.md",
-      "series": "Playtoons",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 88.6,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 13,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 13 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 13 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1996 - Ultimate Soccer Manager 2.md",
-      "series": "Ultimate Soccer Manager",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 88.6,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 22,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Story Summary \u2014 add if game has narrative; set genre to a non-narrative type to exempt",
-          "points_lost": 3
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Interface and Controls (under ## Gameplay)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Structure and Progression (under ## Gameplay)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Puzzles and Mechanics (under ## Gameplay)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment (under ## Reception)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Game Info callout missing `**Engine:**` field",
-          "points_lost": 1
-        },
-        {
-          "category": "Structure",
-          "severity": "info",
-          "message": "Page mentions version numbers but has no ### Version History table",
-          "points_lost": 0.0
-        }
-      ]
-    },
-    {
-      "filename": "1981 - Sabotage.md",
-      "series": "Arcade",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 89.5,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 13,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 13 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 13 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1983 - WallWar.md",
-      "series": "Arcade",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 89.5,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 10,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 10 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 10 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2000 - Hoyle Kids Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 89.5,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 10,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 10 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 10 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1999 - Hoyle Slots and Video Poker.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 89.5,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 11,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 11 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 11 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2002 - Hoyle Casino Empire.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 89.5,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 14 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2003 - Hoyle Board Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 89.5,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 9,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 9 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 9 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2003 - Hoyle Casino.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 89.5,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 14 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2005 - Hoyle Casino 3D.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 89.5,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 14 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2007 - Hoyle Card Games 2008.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 89.5,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 14,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 14 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 14 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2016 - Hoyle Casino Games Collection.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 89.5,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 12,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 12 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 12 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "2024 - Tribes 3 - Rivals.md",
-      "series": "Metaltech",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 89.5,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 13,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 13 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 13 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1991 - Cohort Fighting for Rome.md",
-      "series": "Impressions",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 90.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 12,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Only 12 references \u2014 minimum is 15",
-          "points_lost": 10
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 12 is below target of 20",
+          "message": "Reference count 17 is below target of 20",
           "points_lost": 2
         }
       ]
@@ -2029,7 +191,7 @@
       "score": 90.6,
       "passes": true,
       "status": "PASS",
-      "ref_count": 12,
+      "ref_count": 18,
       "issues": [
         {
           "category": "Structure",
@@ -2097,6 +259,138 @@
           "category": "References",
           "severity": "warning",
           "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2001 - Hoyle Kids Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 91.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Contemporary Reviews (under ## Reception)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Modern Assessment (under ## Reception)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 17 is below target of 20",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2008 - Hoyle Puzzle and Board Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 91.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Modern Assessment (under ## Reception)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ## Downloads section",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 18 is below target of 20",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1990 - Mixed-Up Mother Goose (SCI Remake).md",
+      "series": "Mixed Up",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 91.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Contemporary Reviews (under ## Reception)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Modern Assessment (under ## Reception)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Origins or ### Production (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 18 is below target of 20",
           "points_lost": 2
         }
       ]
@@ -2178,6 +472,50 @@
       ]
     },
     {
+      "filename": "2004 - Hoyle Puzzle and Board Games 2005.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 92.1,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Modern Assessment (under ## Reception)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Game Info callout missing `**Designer:**` field (or alternative: Design/Writing, Design)",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 17 is below target of 20",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "CXL - SWAT - Urban Justice.md",
       "series": "Cancelled",
       "page_type": "cancelled",
@@ -2236,6 +574,44 @@
       ]
     },
     {
+      "filename": "1997 - Hoyle Poker.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 93.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Contemporary Reviews (under ## Reception)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Modern Assessment (under ## Reception)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 17 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1995 - Thexder 95.md",
       "series": "Thexder",
       "page_type": "standard",
@@ -2270,82 +646,6 @@
           "severity": "warning",
           "message": "Reference count 17 is below target of 20",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1995 - Ultimate Soccer Manager.md",
-      "series": "Ultimate Soccer Manager",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 93.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Story Summary \u2014 add if game has narrative; set genre to a non-narrative type to exempt",
-          "points_lost": 3
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Puzzles and Mechanics (under ## Gameplay)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Game Info callout missing `**Engine:**` field",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1998 - Ultimate Soccer Manager 98.md",
-      "series": "Ultimate Soccer Manager",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 93.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 23,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Story Summary \u2014 add if game has narrative; set genre to a non-narrative type to exempt",
-          "points_lost": 3
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Puzzles and Mechanics (under ## Gameplay)",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Game Info callout missing `**Engine:**` field",
-          "points_lost": 1
         }
       ]
     },
@@ -2554,6 +854,76 @@
       ]
     },
     {
+      "filename": "1994 - Metaltech - Earthsiege Speech Pack.md",
+      "series": "Metaltech",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 93.8,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Modern Assessment (under ## Reception)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Game Info callout missing `**Engine:**` field",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 15 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2000 - PGA Championship Golf 2000 - Titanium Edition.md",
+      "series": "PGA Championship Golf",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 93.8,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Modern Assessment (under ## Reception)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ## Legacy section",
+          "points_lost": 3
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 18 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1980 - Hi-Res Adventure 2 - The Wizard and the Princess.md",
       "series": "Hi-Res",
       "page_type": "standard",
@@ -2575,6 +945,32 @@
           "category": "References",
           "severity": "error",
           "message": "Duplicate reference URL(s) \u2014 consolidate into one citation: ['https://kingsquest.fandom.com/wiki/Wizard_and_the_Princess']",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1995 - Playtoons 4 - The Mandarine Prince.md",
+      "series": "Playtoons",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 94.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 24,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "error",
+          "message": "Duplicate reference URL(s) \u2014 consolidate into one citation: ['https://archive.org/details/RetroGamingProductCatalogs']",
           "points_lost": 5
         }
       ]
@@ -2726,6 +1122,108 @@
       ]
     },
     {
+      "filename": "1996 - Hoyle Casino.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 94.7,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Game Info callout missing `**Release Year:**` field",
+          "points_lost": 1
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Game Info callout missing `**Protagonist:**` field",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 19 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2000 - Hoyle Solitaire and Mahjong Tiles.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 94.7,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 19 is below target of 20",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2002 - Hoyle Card Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 94.7,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 16,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Modern Assessment (under ## Reception)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 16 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "2005 - Hoyle Card Games.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -2758,6 +1256,102 @@
       ]
     },
     {
+      "filename": "2005 - Hoyle Texas Hold Em.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 94.7,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 15 is below target of 20",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2006 - Hoyle Casino.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 94.7,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 18 is below target of 20",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2010 - Hoyle Swashbucklin Slots.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 94.7,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 17 is below target of 20",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1997 - Lords of the Realm II - Siege Pack.md",
       "series": "Lords of the Realm",
       "page_type": "standard",
@@ -2785,6 +1379,38 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count 16 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2001 - PGA Championship Golf - Collector's Edition.md",
+      "series": "PGA Championship Golf",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 94.7,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 15 is below target of 20",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
           "points_lost": 2
         }
       ]
@@ -2881,6 +1507,70 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count 19 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1982 - Adventure in Serenia.md",
+      "series": "Hi-Res",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 95.1,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Structure and Progression (under ## Gameplay)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Puzzles and Mechanics (under ## Gameplay)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1984 - Gelfling Adventure.md",
+      "series": "Hi-Res",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 95.1,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Puzzles and Mechanics (under ## Gameplay)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
           "points_lost": 2
         }
       ]
@@ -3084,6 +1774,38 @@
           "severity": "error",
           "message": "Duplicate reference URL(s) \u2014 consolidate into one citation: ['https://www.pcgamingwiki.com/wiki/Homeworld_3']",
           "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "2003 - Hoyle Card Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.6,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Game Info callout missing `**Designer:**` field (or alternative: Design/Writing, Design)",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 17 is below target of 20",
+          "points_lost": 2
         }
       ]
     },
@@ -3324,6 +2046,44 @@
           "severity": "error",
           "message": "Duplicate reference URL(s) \u2014 consolidate into one citation: ['https://en.wikipedia.org/wiki/Rama_(video_game']",
           "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1993 - Inca II - Wiracocha.md",
+      "series": "Inca",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 95.9,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Game Info callout missing `**Designer:**` field (or alternative: Design/Writing, Design)",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 19 is below target of 20",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "info",
+          "message": "Page mentions version numbers but has no ### Version History table",
+          "points_lost": 0.0
         }
       ]
     },
@@ -3574,6 +2334,38 @@
           "severity": "warning",
           "message": "Missing ### Technical Achievements (under ## Development)",
           "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1996 - Casino Deluxe 2.md",
+      "series": "Impressions",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
+      "issues": [
+        {
+          "category": "YAML",
+          "severity": "error",
+          "message": "Missing YAML field: `designer`",
+          "points_lost": 1.2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Game Info callout missing `**Designer:**` field (or alternative: Design/Writing, Design)",
+          "points_lost": 1
         }
       ]
     },
@@ -3864,6 +2656,32 @@
       ]
     },
     {
+      "filename": "1981 - Hi-Res Soccer.md",
+      "series": "Hi-Res",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.5,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 16,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 16 is below target of 20",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1991 - Hoyle Official Book of Games - Volume 4.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -3916,6 +2734,58 @@
       ]
     },
     {
+      "filename": "1999 - Hoyle Casino.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.5,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 16,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 16 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2000 - Hoyle Crosswords.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.5,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 19 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "2001 - Hoyle Board Games.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -3937,6 +2807,110 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count 16 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2001 - Hoyle Casino.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.5,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 16,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 16 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2001 - Hoyle Word Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.5,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 19 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2002 - Hoyle Puzzle Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.5,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 19 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2004 - Hoyle Puzzle Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.5,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 18 is below target of 20",
           "points_lost": 2
         }
       ]
@@ -3968,6 +2942,58 @@
       ]
     },
     {
+      "filename": "2005 - Hoyle Board Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.5,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 18 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2006 - Hoyle Miami Solitaire.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.5,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 17 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "2010 - Hoyle Puzzle and Board Games 2011.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -3989,6 +3015,32 @@
           "category": "References",
           "severity": "warning",
           "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1994 - The Incredible Machine 2.md",
+      "series": "Incredible Machine",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.5,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 18 is below target of 20",
           "points_lost": 2
         }
       ]
@@ -4042,6 +3094,38 @@
           "severity": "warning",
           "message": "Missing ### Technical Achievements (under ## Development)",
           "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1982 - Jawbreaker II.md",
+      "series": "Jawbreaker",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.5,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Modern Assessment (under ## Reception)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "info",
+          "message": "Page mentions version numbers but has no ### Version History table",
+          "points_lost": 0.0
         }
       ]
     },
@@ -4656,6 +3740,58 @@
       ]
     },
     {
+      "filename": "1996 - Hoyle Bridge.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 97.4,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 23,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Game Info callout missing `**Designer:**` field (or alternative: Design/Writing, Design)",
+          "points_lost": 1
+        }
+      ]
+    },
+    {
+      "filename": "2016 - Hoyle Casino Games Collection.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 97.4,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Game Info callout missing `**Designer:**` field (or alternative: Design/Writing, Design)",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 18 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1993 - The Blue & the Gray.md",
       "series": "Impressions",
       "page_type": "standard",
@@ -4786,6 +3922,58 @@
       ]
     },
     {
+      "filename": "1995 - Ultimate Soccer Manager.md",
+      "series": "Ultimate Soccer Manager",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 97.4,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Game Info callout missing `**Engine:**` field",
+          "points_lost": 1
+        }
+      ]
+    },
+    {
+      "filename": "1998 - Ultimate Soccer Manager 98.md",
+      "series": "Ultimate Soccer Manager",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 97.4,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 23,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Game Info callout missing `**Engine:**` field",
+          "points_lost": 1
+        }
+      ]
+    },
+    {
       "filename": "2011 - Space Quest II VGA Remake.md",
       "series": "Fan Games",
       "page_type": "fan",
@@ -4885,6 +4073,32 @@
           "category": "Game Info",
           "severity": "error",
           "message": "Game Info callout missing `**Engine:**` field",
+          "points_lost": 1
+        }
+      ]
+    },
+    {
+      "filename": "2024 - Tribes 3 - Rivals.md",
+      "series": "Metaltech",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.1,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
+      "issues": [
+        {
+          "category": "YAML",
+          "severity": "error",
+          "message": "Missing YAML field: `designer`",
+          "points_lost": 1.2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Game Info callout missing `**Designer:**` field (or alternative: Design/Writing, Design)",
           "points_lost": 1
         }
       ]
@@ -5285,6 +4499,26 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count 17 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1983 - WallWar.md",
+      "series": "Arcade",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 18 is below target of 20",
           "points_lost": 2
         }
       ]
@@ -5710,6 +4944,26 @@
       ]
     },
     {
+      "filename": "1997 - Front Page Sports Golf - Tour Course Add-On.md",
+      "series": "Front Page Sports",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 25,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores \u2014 add specific ratings (e.g. '4/5 stars', '80%', '9/10')",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "2015 - Homeworld Remastered Collection.md",
       "series": "Homeworld",
       "page_type": "standard",
@@ -5890,6 +5144,46 @@
       ]
     },
     {
+      "filename": "2003 - Hoyle Board Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 15 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2003 - Hoyle Casino.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 17 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "2004 - Hoyle Casino.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -5930,6 +5224,26 @@
       ]
     },
     {
+      "filename": "2007 - Hoyle Card Games 2008.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 19 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "2007 - Hoyle Casino 2008.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -5945,6 +5259,26 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count 17 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "2007 - Hoyle Casino.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
           "points_lost": 2
         }
       ]
@@ -5990,6 +5324,26 @@
       ]
     },
     {
+      "filename": "1994 - Detroit.md",
+      "series": "Impressions",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 17 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1995 - Casino De Luxe.md",
       "series": "Impressions",
       "page_type": "standard",
@@ -6005,6 +5359,26 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count 18 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1995 - The Incredible Machine 3.0.md",
+      "series": "Incredible Machine",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
           "points_lost": 2
         }
       ]
@@ -6322,6 +5696,26 @@
       ]
     },
     {
+      "filename": "1998 - Head Rush.md",
+      "series": "Sierra Attractions",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 16,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count 16 is below target of 20",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "1999 - Professional Bull Rider.md",
       "series": "Sierra Sports",
       "page_type": "standard",
@@ -6518,6 +5912,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 21,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements (under ## Development)",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1999 - Ultimate Soccer Manager 98-99.md",
+      "series": "Ultimate Soccer Manager",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.2,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 25,
       "issues": [
         {
           "category": "Structure",
@@ -6828,7 +6242,7 @@
       ]
     },
     {
-      "filename": "1994 - Detroit.md",
+      "filename": "1991 - Cohort Fighting for Rome.md",
       "series": "Impressions",
       "page_type": "standard",
       "is_flagship": false,
@@ -6837,12 +6251,12 @@
       "score": 98.4,
       "passes": true,
       "status": "PASS",
-      "ref_count": 17,
+      "ref_count": 19,
       "issues": [
         {
           "category": "References",
           "severity": "warning",
-          "message": "Reference count 17 is below target of 20",
+          "message": "Reference count 19 is below target of 20",
           "points_lost": 2
         }
       ]
@@ -6923,26 +6337,6 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count 17 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1998 - Head Rush.md",
-      "series": "Sierra Attractions",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 98.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 16,
-      "issues": [
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count 16 is below target of 20",
           "points_lost": 2
         }
       ]
@@ -7103,26 +6497,6 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count 17 is below target of 20",
-          "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1999 - Ultimate Soccer Manager 98-99.md",
-      "series": "Ultimate Soccer Manager",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 98.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 25,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements (under ## Development)",
           "points_lost": 2
         }
       ]
@@ -7571,6 +6945,19 @@
       "issues": []
     },
     {
+      "filename": "1981 - Sabotage.md",
+      "series": "Arcade",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
+      "issues": []
+    },
+    {
       "filename": "1982 - Cannonball Blitz.md",
       "series": "Arcade",
       "page_type": "standard",
@@ -7736,7 +7123,7 @@
       "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 33,
+      "ref_count": 34,
       "issues": []
     },
     {
@@ -8234,6 +7621,19 @@
       "issues": []
     },
     {
+      "filename": "2026 - Gobliins 6.md",
+      "series": "Gobliiins",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 25,
+      "issues": []
+    },
+    {
       "filename": "1988 - Gold Rush.md",
       "series": "Gold Rush",
       "page_type": "standard",
@@ -8404,7 +7804,59 @@
       "issues": []
     },
     {
+      "filename": "1999 - Hoyle Slots and Video Poker.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "2000 - Hoyle Kids Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "2002 - Hoyle Casino Empire.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
       "filename": "2003 - Hoyle Majestic Chess.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "2005 - Hoyle Casino 3D.md",
       "series": "Hoyle",
       "page_type": "standard",
       "is_flagship": false,
@@ -8447,7 +7899,7 @@
       "series": "Impressions",
       "page_type": "standard",
       "is_flagship": false,
-      "is_non_narrative": false,
+      "is_non_narrative": true,
       "threshold": 90,
       "score": 100.0,
       "passes": true,
@@ -8460,7 +7912,7 @@
       "series": "Impressions",
       "page_type": "standard",
       "is_flagship": false,
-      "is_non_narrative": false,
+      "is_non_narrative": true,
       "threshold": 90,
       "score": 100.0,
       "passes": true,
@@ -10134,6 +9586,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 29,
+      "issues": []
+    },
+    {
+      "filename": "1996 - Ultimate Soccer Manager 2.md",
+      "series": "Ultimate Soccer Manager",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
       "issues": []
     },
     {
