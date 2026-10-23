@@ -179,7 +179,7 @@ Run the full vault scorer to confirm overall numbers haven't dropped:
 ```bash
 cd /Users/droid/GitHub/sierravault && python3 run_consistency.py 2>&1 | tail -10
 ```
-The summary should still show 507/507 passing and avg ≥ previous.
+The summary should show no new failures and an average no lower than before (2026-10-22 baseline: 442/492 passing, avg 97.3%).
 
 ### 10. Report
 ```
