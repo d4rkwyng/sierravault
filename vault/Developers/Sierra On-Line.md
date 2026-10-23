@@ -124,7 +124,7 @@ The Digital Antiquarian notes that after 1999, "surprisingly few of the prominen
 - **1980** — [[1980 - Hi-Res Adventure 1 - Mystery House|Hi-Res Adventure 1: Mystery House]] — Genre: Adventure
 - **1980** — [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Hi-Res Adventure 2: The Wizard and the Princess]] — Genre: Adventure
 - **1980** — [[1980 - Hi-Res Football|Hi-Res Football]] — Genre: Sports
-- **1981** — [[1980 - Hi-Res Soccer|Hi-Res Soccer]] — Genre: Sports
+- **1981** — [[1981 - Hi-Res Soccer|Hi-Res Soccer]] — Genre: Sports
 - **1981** — [[1981 - Crossfire|Crossfire]] — Genre: Arcade
 - **1981** — [[1981 - Jawbreaker|Jawbreaker]] — Genre: Arcade
 - **1981** — [[1981 - Pegasus II|Pegasus II]] — Genre: Arcade

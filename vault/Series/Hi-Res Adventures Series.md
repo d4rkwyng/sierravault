@@ -40,7 +40,7 @@ The games were written for the Apple II's high-resolution graphics mode. Mystery
 |------|-------|----------|------|
 | 1980 | [[1980 - Hi-Res Cribbage\|Hi-Res Cribbage]] | Warren Schwader | Card game |
 | 1980 | [[1980 - Hi-Res Football\|Hi-Res Football]] | Jay Sullivan, Ken Williams[^ref-19] | Sports |
-| 1981 | [[1980 - Hi-Res Soccer\|Hi-Res Soccer]] | Jay Sullivan, Ken Williams[^ref-20] | Sports (announced in Softalk, April 1981) |
+| 1981 | [[1981 - Hi-Res Soccer\|Hi-Res Soccer]] | Jay Sullivan, Ken Williams[^ref-20] | Sports (announced in Softalk, April 1981) |
 | 1982 | [[1982 - Adventure in Serenia\|Adventure in Serenia]] | Roberta & Ken Williams | IBM PC booter version of The Wizard and the Princess[^ref-8] |
 | 1984 | [[1984 - Gelfling Adventure\|Gelfling Adventure]] | Al Lowe (programming); Michael & Rae Lynn MacChesney (text)[^ref-21] | Simplified Dark Crystal adventure for younger players[^ref-11] |
 

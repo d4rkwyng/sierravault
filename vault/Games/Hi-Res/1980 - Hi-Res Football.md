@@ -127,7 +127,7 @@ Hi-Res Football was one of On-Line Systems' first attempts to sell something oth
 - [[1980 - Hi-Res Adventure 1 - Mystery House]]
 - [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
 - [[1980 - Hi-Res Cribbage]]
-- [[1980 - Hi-Res Soccer]]
+- [[1981 - Hi-Res Soccer]]
 - [[1981 - Hi-Res Adventure 3 - Cranston Manor]]
 - [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
 - [[1982 - Adventure in Serenia]]

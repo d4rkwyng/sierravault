@@ -27,7 +27,7 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 - [[1981 - Gobbler|Gobbler]] — Type: Arcade
 - [[1981 - Hi-Res Adventure 3 - Cranston Manor|Hi-Res Adventure 3 - Cranston Manor]] — Series: Hi-Res Adventure, Type: Adventure
 - [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Hi-Res Adventure 4 - Ulysses and the Golden Fleece]] — Series: Hi-Res Adventure, Type: Adventure
-- [[1980 - Hi-Res Soccer|Hi-Res Soccer]] — Series: Hi-Res Sports, Type: Sports[^ref-1]
+- [[1981 - Hi-Res Soccer|Hi-Res Soccer]] — Series: Hi-Res Sports, Type: Sports[^ref-1]
 - [[1981 - Jawbreaker|Jawbreaker]] — Series: Jawbreaker, Type: Action
 - [[1981 - Pegasus II|Pegasus II]] — Type: Arcade Shooter
 - [[1981 - Sabotage|Sabotage]] — Type: Fixed Shooter

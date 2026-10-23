@@ -80,7 +80,7 @@ The company itself continued as Sierra On-Line, later Sierra Entertainment, whos
 - **1980**: [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Hi-Res Adventure 2: The Wizard and the Princess]] (Adventure)
 - **1980**: [[1980 - Hi-Res Cribbage|Hi-Res Cribbage]] (Casino)
 - **1980**: [[1980 - Hi-Res Football|Hi-Res Football]] (Sports Simulation; LaunchBox dates the Apple II release to 1982[^ref-9])
-- **1980**: [[1980 - Hi-Res Soccer|Hi-Res Soccer]] (Sports Simulation; LaunchBox dates it 1981[^ref-9])
+- **1981**: [[1981 - Hi-Res Soccer|Hi-Res Soccer]] (Sports Simulation; LaunchBox dates it 1981[^ref-9])
 - **1981**: [[1981 - Hi-Res Adventure 3 - Cranston Manor|Hi-Res Adventure 3: Cranston Manor]] (Adventure)
 - **1981**: [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] (Adventure)
 - **1981**: [[1981 - Gobbler|Gobbler]] (Arcade)

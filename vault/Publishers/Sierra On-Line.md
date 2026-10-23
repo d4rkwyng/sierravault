@@ -80,7 +80,7 @@ This section lists games published by Sierra On-Line and its subsidiaries.[^ref-
 - 1980 — Trap Shoot — Third-party developed
 - **1980** — [[1980 - Hi-Res Football|Hi-Res Football]] — Notes: Sports
 - **1980** — [[1980 - Hi-Res Cribbage|Hi-Res Cribbage]] — Notes: Card game
-- **1981** — [[1980 - Hi-Res Soccer|Hi-Res Soccer]] — Notes: Sports
+- **1981** — [[1981 - Hi-Res Soccer|Hi-Res Soccer]] — Notes: Sports
 - **1981** — [[1981 - Crossfire|Crossfire]] — Notes: Jay Sullivan
 - **1981** — [[1981 - Threshold|Threshold]] — Notes: Arcade shooter
 - **1981** — [[1981 - Jawbreaker|Jawbreaker]] — Notes: Pac-Man style

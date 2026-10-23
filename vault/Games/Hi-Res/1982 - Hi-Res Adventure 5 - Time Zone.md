@@ -213,7 +213,7 @@ Modern writers are more divided. Maher sees its team-based production as a step 
 - [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
 - [[1980 - Hi-Res Cribbage]]
 - [[1980 - Hi-Res Football]]
-- [[1980 - Hi-Res Soccer]]
+- [[1981 - Hi-Res Soccer]]
 - [[1981 - Hi-Res Adventure 3 - Cranston Manor]]
 - [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
 - [[1982 - Adventure in Serenia]]

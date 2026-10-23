@@ -404,7 +404,7 @@ This archive contains **492 game pages** in 75 folders, listed below in 76 secti
 - **1980** — [[1980 - Hi-Res Football|Hi-Res Football]] — Last Updated: 2026-10-12
 - **1981** — [[1981 - Hi-Res Adventure 3 - Cranston Manor|Hi-Res Adventure #3: Cranston Manor]] — Last Updated: 2026-10-12
 - **1981** — [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Hi-Res Adventure #4: Ulysses and the Golden Fleece]] — Last Updated: 2026-10-12
-- **1981** — [[1980 - Hi-Res Soccer|Hi-Res Soccer]] — Last Updated: 2026-10-12
+- **1981** — [[1981 - Hi-Res Soccer|Hi-Res Soccer]] — Last Updated: 2026-10-12
 - **1982** — [[1982 - Adventure in Serenia|Adventure in Serenia]] — Last Updated: 2026-10-12
 - **1982** — [[1982 - Hi-Res Adventure 5 - Time Zone|Time Zone]] — Last Updated: 2026-10-15
 - **1983** — [[1983 - Hi-Res Adventure 6 - The Dark Crystal|Hi-Res Adventure #6: The Dark Crystal]] — Last Updated: 2026-10-12

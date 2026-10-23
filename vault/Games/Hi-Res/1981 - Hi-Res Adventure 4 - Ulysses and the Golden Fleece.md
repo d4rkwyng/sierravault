@@ -199,7 +199,7 @@ The game is also documented on Wikipedia[^ref-18], PixelatedArcade[^ref-21] and 
 - [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
 - [[1980 - Hi-Res Cribbage]]
 - [[1980 - Hi-Res Football]]
-- [[1980 - Hi-Res Soccer]]
+- [[1981 - Hi-Res Soccer]]
 - [[1981 - Hi-Res Adventure 3 - Cranston Manor]]
 - [[1982 - Adventure in Serenia]]
 - [[1982 - Hi-Res Adventure 5 - Time Zone]]

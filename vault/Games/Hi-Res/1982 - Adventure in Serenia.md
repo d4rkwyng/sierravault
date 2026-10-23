@@ -101,7 +101,7 @@ When Sierra assembled the King's Quest Collection, it included the Apple II vers
 - [[1980 - Hi-Res Adventure 1 - Mystery House]]
 - [[1980 - Hi-Res Cribbage]]
 - [[1980 - Hi-Res Football]]
-- [[1980 - Hi-Res Soccer]]
+- [[1981 - Hi-Res Soccer]]
 - [[1981 - Hi-Res Adventure 3 - Cranston Manor]]
 - [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
 - [[1982 - Hi-Res Adventure 5 - Time Zone]]
