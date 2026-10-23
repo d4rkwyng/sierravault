@@ -151,7 +151,7 @@ The game is also listed in IGDB.[^ref-14]
 ## See Also
 
 - [[2008 - Hoyle Puzzle and Board Games|← Previous: Hoyle Puzzle and Board Games]]
-- [[2011 - Hoyle Swashbucklin Slots|→ Next: Hoyle Swashbucklin Slots]]
+- [[2010 - Hoyle Swashbucklin Slots|→ Next: Hoyle Swashbucklin Slots]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]

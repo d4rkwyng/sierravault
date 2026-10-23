@@ -9,15 +9,15 @@ platforms: [Windows, Mac]
 series: Hoyle
 engine: Unknown
 protagonist: N/A
-sierra_lineage: Sierra Published
-last_updated: '2026-10-13'
+sierra_lineage: Post-Sierra
+last_updated: '2026-10-23'
 description: Hoyle Puzzle and Board Games 2008 is a comprehensive compilation of classic
  puzzle and board games released by Encore Software for Windows and Macintosh...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Puzzle and Board Games 2008
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 23, 2026</small>
 
 ## Overview
 
@@ -34,7 +34,7 @@ The collection uses the Hoyle Bucks reward system: players automatically earn Ho
 > **Release Year:** 2007[^ref-1]
 > **Series:** Hoyle
 > **Protagonist:** N/A
-> **Sierra Lineage:** Extended Sierra Family
+> **Sierra Lineage:** Post-Sierra
 
 ## Game Content
 
@@ -196,7 +196,7 @@ Encore supported the title into the Windows 10 era: its July 31, 2015 forum noti
 - [[2006 - Hoyle Miami Solitaire]]
 - [[2007 - Hoyle Card Games 2008]]
 - [[2007 - Hoyle Casino]]
-- [[2011 - Hoyle Swashbucklin Slots]]
+- [[2010 - Hoyle Swashbucklin Slots]]
 - [[2015 - Hoyle Official Card Games Collection]]
 - [[2016 - Hoyle Casino Games Collection]]
 

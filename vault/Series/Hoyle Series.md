@@ -76,7 +76,7 @@ Years follow the vault's game pages. The vault holds 55 Hoyle pages, but several
 | 2007 | [[2007 - Hoyle Casino 2008\|Hoyle Casino 2008]] | |
 | 2007 | [[2008 - Hoyle Puzzle and Board Games\|Hoyle Puzzle and Board Games 2008]] | |
 | 2010 | [[2010 - Hoyle Puzzle and Board Games 2011\|Hoyle Puzzle and Board Games 2011]] | |
-| 2011 | [[2011 - Hoyle Swashbucklin Slots\|Hoyle Swashbucklin' Slots]] | Wikipedia gives 2010[^ref-17] |
+| 2010 | [[2010 - Hoyle Swashbucklin Slots\|Hoyle Swashbucklin' Slots]] | Wikipedia gives 2010[^ref-17] |
 | 2015 | [[2015 - Hoyle Official Card Games Collection\|Hoyle Official Card Games Collection 2015]] | |
 | 2016 | [[2016 - Hoyle Casino Games Collection\|Hoyle Official Casino Games Collection]] | Latest release; Encore, October 14, 2016[^ref-13][^ref-1] |
 

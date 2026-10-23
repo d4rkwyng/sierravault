@@ -529,10 +529,10 @@ Sierra as a development entity was gone, but fans kept classics alive with remak
 - [[2010 - 3-D Ultra MiniGolf Adventures 2|3-D Ultra MiniGolf Adventures 2]] — Series: 3D Ultra, Type: Sports
 - [[2010 - Gray Matter|Gray Matter]] — Type: Adventure
 - [[2010 - Hoyle Puzzle and Board Games 2011|Hoyle Puzzle and Board Games 2011]] — Series: Hoyle, Type: Puzzle
+- [[2010 - Hoyle Swashbucklin Slots|Hoyle Swashbucklin' Slots]] — Series: Hoyle, Type: Gambling
 - [[2010 - The Silver Lining|The Silver Lining]] *(Fan)* — Type: Adventure
 
 ### 2011
-- [[2011 - Hoyle Swashbucklin Slots|Hoyle Swashbucklin Slots]] — Series: Hoyle, Type: Gambling
 - [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain|JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]] — Series: Dr. Brain / JumpStart, Type: Edutainment
 - **[[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux - To Heir is Human]]** *(Fan)* — Series: King's Quest, Type: Adventure
 - **[[2011 - Space Quest - Vohaul Strikes Back|Space Quest - Vohaul Strikes Back]]** *(Fan)* — Series: Space Quest, Type: Adventure

@@ -172,7 +172,7 @@ Encore continued publishing Hoyle titles through 2016[^ref-5][^ref-16].
 - [[2006 - Hoyle Miami Solitaire]]
 - [[2008 - Hoyle Puzzle and Board Games]]
 - [[2010 - Hoyle Puzzle and Board Games 2011]]
-- [[2011 - Hoyle Swashbucklin Slots]]
+- [[2010 - Hoyle Swashbucklin Slots]]
 - [[2015 - Hoyle Official Card Games Collection]]
 - [[2016 - Hoyle Casino Games Collection]]
 

@@ -249,7 +249,7 @@ For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the 
 - [[2007 - Hoyle Casino 2008]]
 - [[2008 - Hoyle Puzzle and Board Games]]
 - [[2010 - Hoyle Puzzle and Board Games 2011]]
-- [[2011 - Hoyle Swashbucklin Slots]]
+- [[2010 - Hoyle Swashbucklin Slots]]
 - [[2015 - Hoyle Official Card Games Collection]]
 - [[2016 - Hoyle Casino Games Collection]]
 

@@ -228,7 +228,7 @@ Its marketing promised "a new look, better AI and new opponents"[^ref-3]. At lea
 
 ## See Also
 
-- [[2011 - Hoyle Swashbucklin Slots|← Previous: Hoyle Swashbucklin Slots]]
+- [[2010 - Hoyle Swashbucklin Slots|← Previous: Hoyle Swashbucklin Slots]]
 - [[2016 - Hoyle Casino Games Collection|→ Next: Hoyle Casino Games Collection]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]

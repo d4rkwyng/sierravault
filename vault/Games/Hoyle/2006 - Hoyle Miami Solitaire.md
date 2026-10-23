@@ -9,8 +9,8 @@ platforms: [PC]
 series: Hoyle
 engine: Proprietary (Windows)
 protagonist: ''
-sierra_lineage: Spiritual Successor
-last_updated: '2026-10-13'
+sierra_lineage: Post-Sierra
+last_updated: '2026-10-23'
 description: Hoyle Miami Solitaire is a 2006 Windows solitaire compilation developed
   and published by Encore Software under the Hoyle brand, offering 55 solitaire games
   in a 1920s Art Deco Miami setting.
@@ -18,7 +18,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Miami Solitaire
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 23, 2026</small>
 
 ## Overview
 
@@ -36,7 +36,7 @@ The Hoyle series began in 1989 with Sierra On-Line, which initially developed an
 > **Release Year:** 2006
 > **Series:** Hoyle
 > **Protagonist:** Hosted by John Carlisle Dunsworthy (player-driven; no named avatar)[^ref-5]
-> **Sierra Lineage:** Spiritual Successor
+> **Sierra Lineage:** Post-Sierra
 > **Engine:** Proprietary (Windows)
 
 ## Story Summary
@@ -194,7 +194,7 @@ Hoyle Miami Solitaire comes from the later, Encore-published stretch of a series
 - [[2007 - Hoyle Casino 2008]]
 - [[2008 - Hoyle Puzzle and Board Games]]
 - [[2010 - Hoyle Puzzle and Board Games 2011]]
-- [[2011 - Hoyle Swashbucklin Slots]]
+- [[2010 - Hoyle Swashbucklin Slots]]
 - [[2015 - Hoyle Official Card Games Collection]]
 - [[2016 - Hoyle Casino Games Collection]]
 

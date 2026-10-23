@@ -9,8 +9,8 @@ platforms: [Windows]
 series: Hoyle
 engine: Unknown
 protagonist: N/A
-sierra_lineage: Core Sierra
-last_updated: '2026-10-22'
+sierra_lineage: Post-Sierra
+last_updated: '2026-10-23'
 description: Hoyle Texas Hold 'Em is a poker game for Windows developed and published
   by Encore Software, released in the US in February 2005, with 14 poker games
   including Texas Hold 'Em.
@@ -18,7 +18,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Texas Hold 'Em 2005
 
-<small style="color: gray">Last updated: October 22, 2026</small>
+<small style="color: gray">Last updated: October 23, 2026</small>
 
 ## Overview
 
@@ -35,7 +35,7 @@ The game sits within the Hoyle brand, whose Hoyle Casino line was developed and 
 > **Release Year:** 2005[^ref-16][^ref-20]
 > **Series:** Hoyle
 > **Protagonist:** N/A
-> **Sierra Lineage:** Core Sierra
+> **Sierra Lineage:** Post-Sierra
 
 ## Story Summary
 
@@ -156,7 +156,7 @@ Sierra's own earlier Hoyle Poker, released for Windows on April 30, 1997 and des
 - [[2007 - Hoyle Casino 2008]]
 - [[2008 - Hoyle Puzzle and Board Games]]
 - [[2010 - Hoyle Puzzle and Board Games 2011]]
-- [[2011 - Hoyle Swashbucklin Slots]]
+- [[2010 - Hoyle Swashbucklin Slots]]
 - [[2015 - Hoyle Official Card Games Collection]]
 - [[2016 - Hoyle Casino Games Collection]]
 

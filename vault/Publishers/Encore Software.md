@@ -50,7 +50,7 @@ The Hoyle series began in 1989 and was initially developed and published by Sier
 - **2007** — [[2007 - Hoyle Casino 2008|Hoyle Casino 2008]] — Notes: Casino games update
 - **2007** — [[2008 - Hoyle Puzzle and Board Games|Hoyle Puzzle and Board Games]] — Notes: Puzzle compilation
 - **2010** — [[2010 - Hoyle Puzzle and Board Games 2011|Hoyle Puzzle and Board Games 2011]] — Notes: Updated edition
-- **2011** — [[2011 - Hoyle Swashbucklin Slots|Hoyle Swashbucklin' Slots]] — Notes: Pirate-themed slots
+- **2010** — [[2010 - Hoyle Swashbucklin Slots|Hoyle Swashbucklin' Slots]] — Notes: Pirate-themed slots
 - **2016** — [[2016 - Hoyle Casino Games Collection|Hoyle Casino Games Collection]] — Notes: Casino collection
 
 Years follow each game's SierraVault page. [[2005 - Hoyle Board Games|Hoyle Board Games]] (2005) is not listed above: MobyGames credits Sierra Entertainment as its publisher.[^ref-20]

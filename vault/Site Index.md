@@ -473,7 +473,7 @@ This archive contains **492 game pages** in 75 folders, listed below in 76 secti
 - **2007** — [[2007 - Hoyle Casino 2008|Hoyle Casino 2008]] — Last Updated: 2026-10-15
 - **2007** — [[2008 - Hoyle Puzzle and Board Games|Hoyle Puzzle and Board Games 2008]] — Last Updated: 2026-10-13
 - **2010** — [[2010 - Hoyle Puzzle and Board Games 2011|Hoyle Puzzle and Board Games 2011]] — Last Updated: 2026-10-15
-- **2011** — [[2011 - Hoyle Swashbucklin Slots|Hoyle Swashbucklin' Slots]] — Last Updated: 2026-10-13
+- **2010** — [[2010 - Hoyle Swashbucklin Slots|Hoyle Swashbucklin' Slots]] — Last Updated: 2026-10-13
 - **2015** — [[2015 - Hoyle Official Card Games Collection|Hoyle Official Card Games Collection 2015]] — Last Updated: 2026-10-13
 - **2016** — [[2016 - Hoyle Casino Games Collection|Hoyle Official Casino Games Collection]] — Last Updated: 2026-10-13
 

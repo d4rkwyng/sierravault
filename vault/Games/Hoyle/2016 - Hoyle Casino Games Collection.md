@@ -301,7 +301,7 @@ Hoyle Official Casino Games Collection is the latest game in a series that began
 - [[2007 - Hoyle Casino 2008]]
 - [[2008 - Hoyle Puzzle and Board Games]]
 - [[2010 - Hoyle Puzzle and Board Games 2011]]
-- [[2011 - Hoyle Swashbucklin Slots]]
+- [[2010 - Hoyle Swashbucklin Slots]]
 
 - **Series Origin:** [[1996 - Hoyle Casino]]
 
