@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-23'
 description: Hoyle Casino 2003 is a casino simulation released under the Sierra Entertainment
   label in September 2002 for Windows and Macintosh, with Blackjack and Video Poker for
   Palm OS and Windows CE handhelds.
@@ -18,13 +18,13 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Casino 2003
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 23, 2026</small>
 
 ## Overview
 
-Hoyle Casino 2003 is a casino simulation released under the [[Sierra On-Line|Sierra Entertainment]] label in September 2002 for Windows and Macintosh[^ref-1][^ref-2][^ref-22]. The Sierra Chest catalogues it as "Hoyle Casino 7", and the ESRB rated it under the title "Hoyle Casino Games 2003"[^ref-8][^ref-22]. As part of Sierra's Hoyle Casino series, itself a spin-off of Hoyle's Official Book of Games, it followed Hoyle Casino 2002 ([[2001 - Hoyle Casino]]) and preceded Hoyle Casino 2004 ([[2004 - Hoyle Casino]])[^ref-3]. Its retail listing advertised over 400 variations of classic casino games set within a realistic Las Vegas environment[^ref-4].
+Hoyle Casino 2003 is a casino simulation released under the [[Sierra On-Line|Sierra Entertainment]] label in September 2002 for Windows and Macintosh[^ref-1][^ref-2][^ref-22]. The "2003" in its title names the edition year, not the release year: Sierra announced the Hoyle 2003 titles as "now offered in stores nationwide" on 20 September 2002, and US listings date the game to September 2002[^ref-23][^ref-24][^ref-25]. The Sierra Chest catalogues it as "Hoyle Casino 7", and the ESRB rated it under the title "Hoyle Casino Games 2003"[^ref-8][^ref-22]. As part of Sierra's Hoyle Casino series, itself a spin-off of Hoyle's Official Book of Games, it followed Hoyle Casino 2002 ([[2001 - Hoyle Casino]]) and preceded Hoyle Casino 2004 ([[2004 - Hoyle Casino]])[^ref-3]. Its retail listing advertised over 400 variations of classic casino games set within a realistic Las Vegas environment[^ref-4].
 
-The title featured fourteen standard casino games including Blackjack, Craps, Roulette, Poker, Slots, Baccarat, Caribbean Stud Poker, Three Card Poker, Let It Ride, Pai Gow Poker, Video Blackjack, Video Poker, Horse Racing, and Keno[^ref-5][^ref-6]. Its marketing promised ten animated 3D characters, five of them new for the 2003 edition[^ref-4][^ref-5]. The game also supported handheld gaming, with Blackjack and Video Poker available for Palm OS and Windows CE devices[^ref-4][^ref-7].
+The title featured fourteen standard casino games including Blackjack, Craps, Roulette, Poker, Slots, Baccarat, Caribbean Stud Poker, Three Card Poker, Let It Ride, Pai Gow Poker, Video Blackjack, Video Poker, Horse Racing, and Keno[^ref-5][^ref-6]. Its marketing promised ten animated 3D characters, five of them new for the 2003 edition[^ref-4][^ref-5]. The game also supported handheld gaming, with Blackjack and Video Poker available for Palm OS and Windows CE devices[^ref-4][^ref-7][^ref-23].
 
 Hoyle Casino 2003 received an ESRB rating of "E for Everyone" with a "Gambling" content descriptor[^ref-8]. GameSpot found it "nearly indistinguishable from its immediate predecessor, last year's Hoyle Casino 2002"[^ref-9].
 
@@ -71,7 +71,7 @@ There is no fixed progression: players move freely between the casino's games, a
 
 While not featuring traditional puzzles, Hoyle Casino 2003 challenges players to master the strategies and rules of various casino games[^ref-6]. The game includes an educational component that allows players to pause mid-bet to consult the rules, study them, and return to make more informed decisions[^ref-6].
 
-The game's marketing advertised "hundreds of variations" spread across its 14 games[^ref-4][^ref-5]. GameSpot counted 10 single-line, six multiple-line and four progressive slot machines, and 13 variations of video poker machines[^ref-9].
+The game's marketing advertised "hundreds of variations" spread across its 14 games[^ref-4][^ref-5][^ref-23]. GameSpot counted 10 single-line, six multiple-line and four progressive slot machines, and 13 variations of video poker machines[^ref-9].
 
 ## Reception
 
@@ -87,17 +87,20 @@ A review from Kickstart News praised the game's educational value, with Paul Sch
 
 Amazon UK customer reviews from 2013 and 2017 show continued appreciation for the game, with a 4.8/5 star rating based on three global ratings[^ref-4]. One Amazon customer wrote that they "Purchased this to replace the one that I wore out tried a few newer versions but still like this the best"[^ref-4]. Another wrote that they were "still playing it. This is my second disc and use it every day"[^ref-4].
 
+On Amazon.com the US PC/Mac edition holds a more middling 3.0/5 from 27 ratings[^ref-24].
+
 **Aggregate Scores:**
 - **Amazon UK:** 4.8/5 (3 ratings)[^ref-4]
+- **Amazon.com:** 3.0/5 (27 ratings)[^ref-24]
 - **GameFAQs:** Outstanding (2 ratings)[^ref-2]
 
 ## Development
 
 ### Origins
 
-Hoyle Casino 2003 belongs to Sierra's Hoyle Casino series, which began in 1996 as a spin-off of Hoyle's Official Book of Games[^ref-3]. It was the annual successor to Hoyle Casino 2002, released in 2001[^ref-3]. According to GameSpot, of the three sequels in Sierra's 2003 roster of four Hoyle-based games, Hoyle Casino featured the fewest upgrades on its predecessor[^ref-9].
+Hoyle Casino 2003 belongs to Sierra's Hoyle Casino series, which began in 1996 as a spin-off of Hoyle's Official Book of Games[^ref-3]. It was the annual successor to Hoyle Casino 2002, released in 2001[^ref-3]. According to GameSpot, of the three sequels in Sierra's 2003 roster of four Hoyle-based games, Hoyle Casino featured the fewest upgrades on its predecessor[^ref-9]. Sierra's own announcement of the line named the updated Hoyle Casino 2003, Hoyle Card Games 2003 and Hoyle Board Games 2003, plus the brand-new Hoyle Puzzle Games 2003[^ref-23].
 
-Sources differ on the credits: MobyGames and the ESRB list Sierra Entertainment[^ref-1][^ref-8], GameFAQs and Metacritic list VU Games as developer with Sierra Entertainment as publisher[^ref-2][^ref-13], and the Sierra Chest lists Vivendi Universal Games as publisher[^ref-22].
+Sources differ on the credits: MobyGames and the ESRB list Sierra Entertainment[^ref-1][^ref-8], GameFAQs and Metacritic list VU Games as developer with Sierra Entertainment as publisher[^ref-2][^ref-13], and the Sierra Chest lists Vivendi Universal Games as publisher[^ref-22]. Amazon.com names the manufacturer as Vivendi Universal[^ref-24], and MobyGames credits The United States Playing Card Company as licensor[^ref-26].
 
 ### Production
 
@@ -125,7 +128,7 @@ Despite marketing that promised animated 3D characters[^ref-4], GameSpot caution
 - **Operating System:** System 7.5.3 or higher
 - **CD-ROM:** 4x speed
 - **Resolution:** 640x480, thousands of colors
-- **RAM:** 32MB
+- **RAM:** 32MB (MobyGames lists a 16 MB minimum for the Mac release[^ref-26])
 - **Hard Drive Space:** 145 MB
 
 **Macintosh Repository Archive:** 433.05 MiB / 454.08 MB (Toast image)[^ref-15]
@@ -139,8 +142,9 @@ No specific cut content has been documented for Hoyle Casino 2003.
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Initial Release | September 3, 2002 | Windows | Date per MobyGames[^ref-1] |
-| Initial Release | September 7, 2002 | Windows | Date per GameFAQs, Metacritic and Sierra Chest[^ref-2][^ref-13][^ref-22] |
-| Mac Release | 2002 | Macintosh | Year per MobyGames and Macintosh Repository[^ref-1][^ref-15] |
+| Initial Release | September 7, 2002 | Windows | Date per GameFAQs, Metacritic and Sierra Chest; GameFAQs gives US UPC 020626716345[^ref-2][^ref-13][^ref-22][^ref-25] |
+| US Retail | September 9, 2002 | PC/Mac | Amazon.com listing date[^ref-24] |
+| Mac Release | September 3, 2002 | Macintosh | Date per MobyGames (US)[^ref-26]; Macintosh Repository lists 2002[^ref-15] |
 | UK Release | February 28, 2003 | PC/Mac | Amazon UK listing date[^ref-4] |
 
 ### Technical Issues
@@ -168,7 +172,7 @@ The game's own marketing called the Hoyle line "the best-selling casino games co
 
 ### Collections
 
-Hoyle Casino 2003 was available as a standalone product on CD-ROM[^ref-1][^ref-4]. The game was sold through retailers including Best Buy[^ref-7] and Amazon[^ref-4], and copies still turn up through Amazon UK sellers and resale marketplaces[^ref-4][^ref-16].
+Hoyle Casino 2003 was available as a standalone product on CD-ROM[^ref-1][^ref-4]. The game was sold through retailers including Best Buy[^ref-7] and Amazon[^ref-4], and used copies were still offered through Amazon UK and Amazon.com sellers in October 2026[^ref-4][^ref-24].
 
 ### Fan Projects
 
@@ -263,6 +267,9 @@ Customer reviews written more than a decade after release show players still usi
 [^ref-9]: [GameSpot – Hoyle Casino Review](https://www.gamespot.com/reviews/hoyle-casino-review/1900-2895821/) – critical review, technical limitations, resolution, online features
 [^ref-13]: [Metacritic – Hoyle Casino 2003](https://www.metacritic.com/game/hoyle-casino-2003/) – release date, developer, publisher
 [^ref-15]: [Macintosh Repository – Hoyle Casino 2003](https://www.macintoshrepository.org/19794-hoyle-casino-2003) – Mac release year, file specifications, archive data
-[^ref-16]: [Etsy – Hoyle Casino PC Game 2003](https://www.etsy.com/listing/1845080462/hoyle-casino-pc-game-2003-sierra) – secondhand resale listing
 [^ref-18]: [MobyGames – Hoyle Casino Reviews](https://www.mobygames.com/game/245729/hoyle-casino/reviews/) – platform confirmation
 [^ref-22]: [Sierra Chest – Hoyle Casino 7](https://www.sierrachest.com/index.php?a=games&id=812&title=hoyle-casino-7) – first release 2002-09-07, publisher Vivendi Universal Games
+[^ref-23]: [Worthplaying – Sierra Launches Official 'Hoyle Games 2003' Website](https://worthplaying.com/article/2002/9/20/news/5846-sierra-launches-official-hoyle-games-2003-website/) – 20 Sep 2002 announcement: 14 games with hundreds of variations, Palm OS/Windows CE Blackjack and Video Poker, Hoyle 2003 line-up, in stores nationwide
+[^ref-24]: [Amazon.com – Hoyle Casino 2003 - PC/Mac](https://www.amazon.com/Hoyle-Casino-2003-PC-Mac/dp/B00005W35F) – release date September 9, 2002, UPC, manufacturer Vivendi Universal, 3.0/5 from 27 ratings, used listings
+[^ref-25]: [GameFAQs – Hoyle Casino 2003 Release Data](https://gamefaqs.gamespot.com/pc/915771-hoyle-casino-2003/data) – US release 09/07/02, Sierra Entertainment, UPC 020626716345
+[^ref-26]: [MobyGames – Hoyle Casino (game 245729), Macintosh release data](https://www.mobygames.com/game/245729/) – (read via the MobyGames API, 2026-10-23) US release 2002-09-03; licensed by The United States Playing Card Company; 16 MB minimum RAM
