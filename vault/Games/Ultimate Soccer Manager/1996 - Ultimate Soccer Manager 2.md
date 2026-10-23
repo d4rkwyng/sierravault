@@ -10,7 +10,7 @@ series: Ultimate Soccer Manager
 engine: null
 protagonist: Football Club Manager
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-14'
+last_updated: '2026-10-23'
 description: Ultimate Soccer Manager 2 is a 1996 football management game for DOS,
   developed by Impressions and published by Sierra On-Line, with English, French and
   German leagues, a tactics editor for set plays and hotseat play for up to eight managers.
@@ -18,7 +18,7 @@ tags: [1990s, sierra, impressions, ultimate-soccer-manager, sports-management]
 ---
 # Ultimate Soccer Manager 2
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 23, 2026</small>
 
 ## Overview
 
@@ -30,6 +30,7 @@ The box billed it as "The most comprehensive football management sim yet" and as
 > **Developer:** [[Impressions Games]][^ref-1]
 > **Designer:** [[David Lester]], Neal Sumsion, Andrew Prime, Mark Howman[^ref-32]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Engine:** Unknown/unnamed[^ref-17]
 > **Platforms:** DOS (also runs from Windows 3.1/95)[^ref-1][^ref-22]
 > **Release Year:** 1996 (UK: November 1996)[^ref-1][^ref-22]
 > **Series:** Ultimate Soccer Manager
@@ -43,7 +44,7 @@ The box billed it as "The most comprehensive football management sim yet" and as
 
 ### Interface and Leagues
 
-USM2 keeps the first game's office-based interface. It moves it to SVGA at 640x480, and an icon bar at the top of the screen jumps to any area in one click[^ref-1][^ref-22]. Games Domain's Barak Engel called it "one of the best interfaces I've ever seen"[^ref-22]. The main screen is an isometric view of the club's stadium and its surroundings. From it, the manager reaches four working areas: his own office, the chairman's office, the changing room and the bank[^ref-22].
+USM2 keeps the first game's office-based interface. It moves it to SVGA at 640x480, and an icon bar at the top of the screen jumps to any area in one click[^ref-1][^ref-22]. Games Domain's Barak Engel called it "one of the best interfaces I've ever seen"[^ref-22]. The main screen shows a view of the club's stadium and its surroundings. From it, the manager reaches four working areas: his own office, the chairman's office, the changing room and the bank[^ref-22].
 
 The player picks a club from the English, French or German leagues. The English game runs from the Premiership down to the Conference[^ref-22][^ref-24]. Teams and players can be edited before the first season, and starting cash sets the difficulty. PC Review mentions options from £50,000 up to £10 million[^ref-22][^ref-25]. PC Review found the data "correct to the beginning of the 1996 season" and noted that the European players have real names[^ref-25]. Every player has nine skill ratings and a hidden personality value. Players have no fixed positions, so the manager must place each one according to his skills[^ref-1][^ref-22][^ref-28].
 
@@ -77,11 +78,15 @@ PC Review's reviewer, credited as (AW), was impressed by the "smooth animation a
 
 Games Domain's Barak Engel liked the interface and the tactics editor, but listed a sparse manual, few statistics and odd match timekeeping among the faults. He wrote that "CM2 will stay the king of 'serious' football managers. But USM2 deserves its own kingdom, where newbies and adventurers alike are welcome"[^ref-22].
 
-German magazines reviewed the cut-price DSF edition. PC Games called its strategy and tactics editor its best feature, and PC Joker thought the low price made it a worthwhile buy[^ref-27][^ref-28]. PC Player's Michael Schnelle disagreed. He found that the moves he designed hardly changed results, and advised readers to buy Bundesliga Manager 97 instead[^ref-29]. MobyGames' critic average across 11 reviews is 62%[^ref-33].
+German magazines reviewed the cut-price DSF edition. PC Games called its strategy and tactics editor its best feature, and PC Joker thought the low price made it a worthwhile buy[^ref-27][^ref-28]. PC Player's Michael Schnelle disagreed. He found that the moves he designed hardly changed results, and advised readers to buy Bundesliga Manager 97 instead[^ref-29].
 
 ### Later Assessment
 
 Reviewing the budget re-release in July 1997, PC Format called USM2 "Sierra's hit management sim". It warned that the new season's manager games would "put USM2 in the shade, but it's the best of the genre available at this price"[^ref-30]. PC Zone's February 1998 preview of the sequel said USM2 "successfully continued the evolution of the series" and was "highly fancied by those people in the know", even though it never matched Championship Manager 2's profile[^ref-31].
+
+### Modern Assessment
+
+Little has been written about USM2 since the late 1990s. No modern critical retrospective could be found, and Games That Weren't's 2020 article on the cancelled USM 2000 concerns the sequel, not this game[^ref-18]. MobyGames shows a critic average of 61% from 10 ratings and a player average of 4.1 out of 5 (January 2026)[^ref-33]. The game is not sold today; it survives through preservation copies on the Internet Archive and DOS Zone[^ref-3][^ref-21].
 
 ## Development
 
@@ -102,19 +107,28 @@ MobyGames' DOS credits list the following team[^ref-32]:
 - **European co-ordination:** Frederic Tibout, Frank Matzke and Laurent Jorda
 - **Cast:** Dennis Povey plays the chairman and Richard Charge the bank manager
 
-The Sierra Chest's credits list matches[^ref-17].
+The Sierra Chest's credits list matches[^ref-17]. The Sierra Chest lists the game's engine as "Unknown/unnamed"; no engine name is documented[^ref-17].
 
 The README lists these minimum requirements: a 486 DX 33, a double-speed CD-ROM drive, 8 MB of RAM, MS-DOS 5.0 or later, an SVGA card, a Sound Blaster Pro or compatible, 22 MB of hard disk space, and a mouse with a Microsoft-compatible DOS driver[^ref-8]. It also gives steps for starting the game from Windows 3.1 or Windows 95[^ref-8]. UK prices varied: PC Zone listed £39.95, PC Review £34.99, and Games Domain gave a street price of £25[^ref-24][^ref-25][^ref-22].
 
-### Versions and Releases
+### Technical Achievements
 
-| Version | Date | Notes |
-|---------|------|-------|
-| Ultimate Soccer Manager 2 | November 1996 | UK release by Sierra[^ref-22][^ref-1] |
-| Football Manager - Saison 96/97 | 1996 | French release[^ref-1] |
-| DSF Fußball Manager | early 1997 | German version, sold exclusively through Karstadt for about DM 30[^ref-27][^ref-28][^ref-29] |
-| Sierra Originals | 1997 | Budget re-release at £9.99[^ref-30] |
-| 2 Good 2 Be True: Volume 1 | 1997 | Compilation including USM2[^ref-1] |
+Games Domain's review lists version 1.00 running in SVGA at 640x480 with 256 colours. Its listed sound devices are SB, SBP, SB16, SB32, RAP10, PAS, GUS, NMC Wave Jammer, ESS, ES688 and MSS. The reviewer added that because the game "uses solely digital sound", choosing Sound Blaster should work with any compatible card, even an unlisted one[^ref-22].
+
+The animated scenes run from the CD-ROM. The installer offers a no-animations install on machines it judges a "Slow 486", and the animations can also be switched off later by placing a file named `NOANIMS` in the game directory[^ref-8]. The README recommends a Pentium, 16 MB of RAM and a quad-speed CD-ROM drive for best performance, and reminds players that "USM2 is primarily a DOS-based product"[^ref-8].
+
+PC Joker noted that the German edition's menus, many of them animated, now appeared in SVGA, with a few short rendered event videos and German speech. On the pitch, the first game's overhead view gave way to an isometric field shown from the side[^ref-28].
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| 1.00 | 8 October 1996 | DOS | README dated "Version 1.00 REVISED 8th October 1996"; the version Games Domain reviewed[^ref-8][^ref-22] |
+| Ultimate Soccer Manager 2 | November 1996 | DOS | UK release by Sierra[^ref-22][^ref-1] |
+| Football Manager - Saison 96/97 | 1996 | DOS | French release[^ref-1] |
+| DSF Fußball Manager | early 1997 | DOS | German version, sold exclusively through Karstadt for about DM 30[^ref-27][^ref-28][^ref-29] |
+| Sierra Originals | 1997 | DOS | Budget re-release at £9.99[^ref-30] |
+| 2 Good 2 Be True: Volume 1 | 1997 | DOS | Compilation including USM2[^ref-1] |
 
 A playable demo appeared on the cover CD of PC Gamer UK #38 (Christmas 1996). It installed to `C:\SIERRA\USM2DEMO`[^ref-26]. PC Review #63 also carried a playable demo[^ref-25].
 
@@ -164,7 +178,7 @@ The game is not sold today. It is preserved on the Internet Archive and playable
 [^ref-30]: [PC Format (July 1997), "Price Busters"](https://archive.org/details/pcformat_july1997/page/n95/mode/2up) – Sierra Originals, £9.99; PC Format rating 79%; "Sierra's hit management sim"
 [^ref-31]: [PC Zone #60 (February 1998), "First Encounter: Ultimate Soccer Manager 98", p. 38](https://archive.org/details/PC_Zone_60_February_1998/page/n39/mode/2up) – Steve Hill on USM2 continuing the series
 [^ref-32]: [MobyGames – Ultimate Soccer Manager 2 credits (DOS)](https://www.mobygames.com/game/20701/ultimate-soccer-manager-2/credits/dos/) – production, design, programming, art, music and cast credits
-[^ref-33]: [MobyGames – Ultimate Soccer Manager 2 reviews](https://www.mobygames.com/game/20701/ultimate-soccer-manager-2/reviews/) – critic average 62% from 11 ratings
+[^ref-33]: [MobyGames – Ultimate Soccer Manager 2 reviews](https://www.mobygames.com/game/20701/ultimate-soccer-manager-2/reviews/) – critic average 61% from 10 ratings; player average 4.1/5 (read from the Wayback Machine copy of 2 January 2026, since the live site blocks automated reads; game ID 20701 confirmed via the MobyGames API)
 [^ref-34]: [MobyGames – Ultimate Soccer Manager series](https://www.mobygames.com/group/4584/ultimate-soccer-manager-series/) – series membership and order
 [^ref-35]: [PC Gamer (US) #16 (September 1995), "Sierra acquires Impressions Software"](https://archive.org/details/pc-gamer-issue-16-september-1995/page/n41/mode/2up) – Sierra's acquisition of Impressions
 [^ref-36]: [Old-Games.com – Ultimate Soccer Manager 2](https://www.old-games.com/download/4980/ultimate-soccer-manager-2) – player review: betting on matches, including against your own team
