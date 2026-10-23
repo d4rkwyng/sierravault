@@ -10,7 +10,7 @@ series: Hi-Res Sports
 engine: Machine Language
 protagonist: Soccer Team (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-23'
 description: Hi-Res Soccer is a 1981 real-time soccer game for the Apple II by Jay
   Sullivan and Ken Williams, published by On-Line Systems, the company that became
   Sierra On-Line.
@@ -18,13 +18,13 @@ tags: [1980s, hi-res-sports, sierra]
 ---
 # Hi-Res Soccer
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 23, 2026</small>
 
 ## Overview
 
-Hi-Res Soccer is a real-time soccer game for the Apple II, published in 1981 by On-Line Systems of Coarsegold, California, the company that later became Sierra On-Line[^ref-1][^ref-20]. Softalk announced it in April 1981: "Ken Williams and Jay Sullivan have jumped from the football gridiron to the soccer field with Soccer from On-Line Systems," following the pair's Hi-Res Football[^ref-20]. On-Line's advertising called it "the only real-time action Soccer game available for your computer!"[^ref-21][^ref-23]
+Hi-Res Soccer is a real-time soccer game for the Apple II, published in 1981 by On-Line Systems of Coarsegold, California, the company that later became Sierra On-Line[^ref-1][^ref-20]. Softalk announced it in April 1981: "Ken Williams and Jay Sullivan have jumped from the football gridiron to the soccer field with Soccer from On-Line Systems," following the pair's Hi-Res Football[^ref-20]. On-Line's "Available now" advertisements followed from May 1981[^ref-21][^ref-27], and called it "the only real-time action Soccer game available for your computer!"[^ref-21][^ref-23][^ref-27]
 
-Two teams of eight players each are controlled with the Apple's game paddles, and the game can be played by two people or by one player against the computer[^ref-1][^ref-21]. It sold for $29.95 on disk and needed a 48K Apple II or II Plus with DOS 3.2 or 3.3[^ref-21][^ref-24].
+Two teams of eight players each are controlled with the Apple's game paddles, and the game can be played by two people or by one player against the computer[^ref-1][^ref-21]. It sold for $29.95 on disk and needed a 48K Apple II or II Plus with DOS 3.2 or 3.3[^ref-21][^ref-24][^ref-27].
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]][^ref-1]
@@ -32,14 +32,14 @@ Two teams of eight players each are controlled with the Apple's game paddles, an
 > **Publisher:** [[On-Line Systems]][^ref-1]
 > **Engine:** Machine Language[^ref-22]
 > **Platforms:** Apple II[^ref-1]
-> **Release Year:** 1981[^ref-1][^ref-20]
+> **Release Year:** 1981[^ref-20][^ref-21]
 > **Series:** Hi-Res Sports
 > **Protagonist:** Soccer Team (player-controlled)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-Hi-Res Soccer has no story. It is a single-match sports game: a green team plays a purple team, and players can type in their own team names before kick-off[^ref-1][^ref-22].
+Hi-Res Soccer has no story. It is a single-match sports game: a green team plays a purple team, and players can type in their own team names before kick-off[^ref-1].
 
 ## Gameplay
 
@@ -75,9 +75,11 @@ A later player described the computer side's tactics as "bees chasing a soccer b
 
 Softalk reviewed the game in May 1981. The reviewer opened doubtfully: "Team sports as arcade games have been tried a thousand times and have died a thousand deaths." The review left open whether this game would succeed. It found the paddle control hard to learn, but said players who kept at it would see some lifelike plays[^ref-21][^ref-25].
 
-Dale Archibald reviewed it for Creative Computing in October 1981, under the headline "Just for kicks." He summed it up as "Man meets machine and learns humility." He wrote that he had not expected to see a computer game this good so soon, and that he had lost to the computer for days before he finally beat it[^ref-22].
+Dale Archibald reviewed it for Creative Computing in October 1981, under the headline "Just for kicks." He summed it up as "Man meets machine and learns humility." He opened: "I never expected to see a computer game this good—at least not so soon." He added: "I've been beaten by scores of 42 to 14, 24 to 6, etc. It took me several days of practice before I finally beat the game 5 to 3."[^ref-22]
 
 In the United Kingdom, Windfall reviewed Hi-Res Soccer in its September 1981 issue, alongside Star Mines and Creature Venture, as later listed in the magazine's back-issue index[^ref-26].
+
+Creative Computing's September 1981 buyer's guide to game software, "Spending Bucks for Bits," also listed it among arcade games: "On-Line Systems has Hi-Res Soccer for the Apple ($29.95)."[^ref-30]
 
 ### Modern Assessment
 
@@ -93,9 +95,9 @@ In On-Line's first newsletter, in June 1981, Ken Williams wrote: "I'm fairly con
 
 ### Production
 
-Softalk credited the game to Jay Sullivan and Ken Williams. Creative Computing said it was designed by Jay Sullivan, who had also designed Hi-Res Football[^ref-20][^ref-21][^ref-22]. MobyGames credits Sullivan alone[^ref-1].
+Softalk credited the game to Jay Sullivan and Ken Williams. Creative Computing said it was designed by Jay Sullivan, who had also designed Hi-Res Football[^ref-20][^ref-21][^ref-22]. On-Line's own advertising was also inconsistent: its May 1981 ad in Creative Computing reads "By Jay Sullivan & Ken Williams," while its June 1981 Softalk ad reads "by Jay Sullivan"[^ref-27][^ref-28]. The Program Store's mail-order ad in Softalk in October 1981 likewise credited it "By Jay Sullivan from On-Line"[^ref-29]. MobyGames credits Sullivan alone[^ref-1].
 
-On-Line advertised the game together with Hi-Res Football in Softalk, in its own On-Line Letter and in Softline[^ref-21][^ref-23][^ref-24]. Softalk's December 1981 product listings still showed it at $29.95: "For one or two players. Paddle controlled."[^ref-25]
+On-Line advertised the game in Softalk, Creative Computing, its own On-Line Letter and Softline, usually together with Hi-Res Football[^ref-21][^ref-23][^ref-24][^ref-27][^ref-28]. Dealers sold it too: the Program Store described it as "A real-time Soccer game that offers the excitement and challenge of the real thing," with "Three skill levels" and a price of $29.95[^ref-29]. Softalk's December 1981 product listings still showed it at $29.95: "For one or two players. Paddle controlled."[^ref-25]
 
 ### Technical Achievements
 
@@ -135,13 +137,17 @@ Hi-Res Soccer is now rare. In 2013 the Retro-Treasures blog pointed to a sealed 
 
 [^ref-1]: [MobyGames - Hi-Res Soccer](https://www.mobygames.com/game/77451/hi-res-soccer/) – Release year, publisher, credits, specs and description
 [^ref-2]: [VideoGameGeek - Hi-Res Soccer](https://videogamegeek.com/videogame/258043/hi-res-soccer) – Release date 1981, publisher's blurb, 1–2 players
-[^ref-6]: [Apple2Games Wiki - Hi-Res Soccer (Wayback, 2023)](https://web.archive.org/web/20231008121631/https://apple2games.com/wiki/Hi-Res_Soccer) – Player description of gameplay and AI; eBay sale price
+[^ref-6]: [Apple2Games Wiki - Hi-Res Soccer (Wayback, April 2021)](https://web.archive.org/web/20210412223351/https://apple2games.com/wiki/Hi-Res_Soccer) – Player description of gameplay and AI; eBay sale price
 [^ref-10]: [Retro-Treasures - On-Line Systems' Hi-Res Soccer (Apple II)](https://retro-treasures.blogspot.com/2013/10/on-line-systems-hi-res-soccer-apple-ii.html) – 2013 post on a sealed copy for sale
 [^ref-13]: [Internet Archive – Hi-Res Soccer (woz-a-day collection)](https://archive.org/details/wozaday_Hi_Res_Soccer) – Preserved disk image
 [^ref-20]: [Softalk, Vol. 1 No. 8 (April 1981)](https://archive.org/details/softalkv1n08apr1981) – New-product announcement crediting Ken Williams and Jay Sullivan
 [^ref-21]: [Softalk, Vol. 1 No. 9 (May 1981)](https://archive.org/details/softalkv1n09may1981) – On-Line advertisement ("Available now") and review, p. 28
-[^ref-22]: [Creative Computing, Vol. 7 No. 10 (October 1981)](https://archive.org/details/sim_creative-computing_1981-10_7_10) – Dale Archibald, "Just for kicks", review and software profile
+[^ref-22]: [Creative Computing, Vol. 7 No. 10 (October 1981)](https://archive.org/details/sim_creative-computing_1981-10_7_10) – Dale Archibald, "Just for kicks", review and software profile, p. 34
 [^ref-23]: [Sierra On-Line Letter, Vol. 1 No. 1 (June 1981)](https://archive.org/details/Sierra_On_Line_Letter_Volume_1_Number_1_June_1981) – Hi-Res Soccer advertisement; Ken Williams, "Making Money With Your Computer"
 [^ref-24]: [Softline, September 1981](https://archive.org/details/Softline_1981_09) – On-Line Systems Hi-Res Soccer/Football advertisement
 [^ref-25]: [Softalk, Vol. 2 No. 4 (December 1981)](https://archive.org/details/softalkv2n04dec1981) – On-Line Systems product listing; index of Softalk software reviews
 [^ref-26]: [Windfall, Vol. 2 No. 4 (October 1982)](https://archive.org/details/windfall-v2n4-1982-oct) – Back-issue index listing a September 1981 games review including Hi-res Soccer
+[^ref-27]: [Creative Computing, Vol. 7 No. 5 (May 1981)](https://archive.org/details/sim_creative-computing_1981-05_7_5) – On-Line Systems advertisement for Hi-Res Soccer and Hi-Res Football ("Available now for $29.95"; "8 players per team")
+[^ref-28]: [Softalk, Vol. 1 No. 10 (June 1981)](https://archive.org/details/softalkv1n10jun1981) – On-Line Systems Hi-Res Soccer advertisement, p. 81, "by Jay Sullivan"
+[^ref-29]: [Softalk, Vol. 2 No. 2 (October 1981)](https://archive.org/details/softalkv2n02oct1981) – The Program Store mail-order advertisement, "By Jay Sullivan from On-Line"
+[^ref-30]: [Creative Computing, Vol. 7 No. 9 (September 1981)](https://archive.org/details/sim_creative-computing_1981-09_7_9) – "Spending Bucks for Bits" game-software buyer's guide, p. 170
