@@ -114,6 +114,8 @@ Other pre-acquisition titles are not given their own pages. They may still be me
 
 *2026-10-22, second pass (Derek-approved): 7 more pre-acquisition pages with no Sierra release were removed: Fort Apache and WW2 Air Force Commander (Impressions); 20,000 Leagues Under the Sea, Emmanuelle, Legend of Djel, Cougar Force and Geisha (Coktel).*
 
+*2026-10-22 (Derek-approved): Dynamix's *Die Hard* (1989) was restored under the Series Rule, since Sierra Entertainment co-published *Die Hard: Nakatomi Plaza* (2002).*
+
 ### Series Rule
 If Sierra (or a studio it owned) developed or published any game in a series, the **whole series** is included, including entries released before the acquisition. For example, *Caesar* (1992) qualifies through Caesar II, *NASCAR Racing* (1994) through NASCAR Racing 2, and *IndyCar Racing* (1993) through IndyCar Racing II. A shared genre or studio is not a series: Dynamix's *MechWarrior* (1989) belongs to Activision's MechWarrior series, not Sierra's Earthsiege.
 

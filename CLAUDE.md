@@ -4,7 +4,7 @@ Project instructions for SierraVault.
 
 ## Project Overview
 
-An Obsidian vault documenting Sierra games history with **491 game entries** (75 series folders) from 1980-2026. Content includes Sierra On-Line titles, acquired studios (Dynamix, Impressions, Coktel Vision), fan continuations, and spiritual successors.
+An Obsidian vault documenting Sierra games history with **492 game entries** (75 series folders) from 1980-2026. Content includes Sierra On-Line titles, acquired studios (Dynamix, Impressions, Coktel Vision), fan continuations, and spiritual successors.
 
 Published at sierravault.net, built with Quartz and deployed to Cloudflare Workers (auto-published from this repo on every push), with AI-assisted workflows, automated validation, and human editorial review.
 
@@ -13,7 +13,7 @@ Published at sierravault.net, built with Quartz and deployed to Cloudflare Worke
 ```
 sierravault/
 ├── vault/              # Obsidian vault (published content)
-│   ├── Games/          # 491 game entries
+│   ├── Games/          # 492 game entries
 │   ├── Designers/      # Designer biographies
 │   ├── Developers/     # Studio profiles
 │   ├── Publishers/     # Publisher histories

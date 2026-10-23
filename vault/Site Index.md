@@ -66,7 +66,7 @@ Tier-1 flagship series plus umbrella overviews for major non-flagship lines.
 
 ## Overview
 
-This archive contains **491 game pages** in 75 folders, listed below in 76 sections. A few pages are cross-listed in a second section (for example Gobbler, SWAT: Urban Justice, and WizMath/WizType under Wizard of Id), so the section counts add up to 495.
+This archive contains **492 game pages** in 75 folders, listed below in 76 sections. A few pages are cross-listed in a second section (for example Gobbler, SWAT: Urban Justice, and WizMath/WizType under Wizard of Id), so the section counts add up to 496.
 
 - [[#3D Ultra|3D Ultra]] — Pages: 17
 - [[#A-10 Tank Killer|A-10 Tank Killer]] — Pages: 3
@@ -84,7 +84,7 @@ This archive contains **491 game pages** in 75 folders, listed below in 76 secti
 - [[#Discovery|Discovery]] — Pages: 3
 - [[#Disney|Disney]] — Pages: 4
 - [[#Dr. Brain|Dr. Brain]] — Pages: 8
-- [[#Dynamix|Dynamix]] — Pages: 12
+- [[#Dynamix|Dynamix]] — Pages: 13
 - [[#EcoQuest|EcoQuest]] — Pages: 2
 - [[#Education|Education]] — Pages: 9
 - [[#Empire Earth|Empire Earth]] — Pages: 2
@@ -296,6 +296,7 @@ This archive contains **491 game pages** in 75 folders, listed below in 76 secti
 ## Dynamix
 
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Last Updated: 2026-10-12
+- **1989** — [[1989 - Die Hard|Die Hard]] — Last Updated: 2026-10-22
 - **1989** — [[1989 - MechWarrior|MechWarrior]] — Last Updated: 2026-10-15
 - **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Last Updated: 2026-10-09
 - **1991** — [[1991 - Heart of China|Heart of China]] — Last Updated: 2026-10-12

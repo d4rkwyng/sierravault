@@ -171,7 +171,7 @@ Within Dynamix's own history, MechWarrior followed Abrams Battle Tank with sever
 
 MechWarrior comes from Dynamix's independent years, between its Electronic Arts titles and the 1990 Sierra acquisition. The same studio later built the *Metaltech* and *Starsiege* 'Mech games for Sierra.[^ref-5][^ref-6]
 
-- **Next:** [[1990 - Rise of the Dragon|Rise of the Dragon]] (1990)
+- **Next:** [[1989 - Die Hard|Die Hard]] (December 1989, Activision)
 - [[1989 - David Wolf - Secret Agent]], another 1989 Dynamix title
 - [[1989 - A-10 Tank Killer]]
 - [[1994 - Metaltech - Earthsiege]], the Sierra-era Dynamix robot game that *Computer Gaming World* set against Activision's MechWarrior sequels[^ref-5]

@@ -7,7 +7,7 @@ last_updated: "2026-10-16"
 
 <small style="color: gray">Last updated: October 16, 2026</small>
 
-Sierra games, games from studios Sierra owned, later releases under the Sierra name, alumni projects and fan games, organized chronologically—472 entries from 1980 to 2026. Years follow each linked game page; where this timeline corrects a year, the footnote gives the source. **Flagship series** are shown in **bold**. Fan projects marked *(Fan)*. For browsing by series, see the [[Site Index]].
+Sierra games, games from studios Sierra owned, later releases under the Sierra name, alumni projects and fan games, organized chronologically—473 entries from 1980 to 2026. Years follow each linked game page; where this timeline corrects a year, the footnote gives the source. **Flagship series** are shown in **bold**. Fan projects marked *(Fan)*. For browsing by series, see the [[Site Index]].
 
 ---
 
@@ -108,6 +108,7 @@ Sierra (On-Line Systems until 1982)[^ref-37] pioneered the graphic adventure wit
 - [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Series: A-10 Tank Killer, Type: Flight Simulation
 - [[1989 - After Dark|After Dark]] — Series: After Dark, Type: Screensaver/Puzzle Collection
 - [[1989 - David Wolf - Secret Agent|David Wolf - Secret Agent]] — Series: David Wolf, Type: Action
+- [[1989 - Die Hard|Die Hard]] — Developer: Dynamix, Type: Action[^ref-24]
 - [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk - Thexder - The Second Contact]] — Series: Thexder, Type: Run and Gun / Shooter
 - [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games - Volume 1]] — Series: Hoyle, Type: Card Games
 - [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500 - The Simulation]] — Developer: Papyrus, Type: Racing Simulation
@@ -630,6 +631,7 @@ Year corrections use MobyGames' earliest listed release date (checked through th
 [^ref-17]: [MobyGames – Hoyle Casino (2003 edition)](https://www.mobygames.com/game/245729/hoyle-casino/) – Windows and Macintosh 2002-09-03
 [^ref-18]: [MobyGames – Hoyle Casino 2004](https://www.mobygames.com/game/11804/hoyle-casino-2004/) – Windows 2003-09-02
 [^ref-19]: [MobyGames – Hoyle Table Games 2004](https://www.mobygames.com/game/13166/hoyle-table-games-2004/) – Windows 2003-09-02
+[^ref-24]: [MobyGames – Die Hard](https://www.mobygames.com/game/5469/die-hard/) – DOS 1989-12
 [^ref-28]: [MobyGames – Blue Force](https://www.mobygames.com/game/1478/blue-force/) – DOS 1993
 [^ref-29]: [MobyGames – Edward Grabowski's The Blue & The Gray](https://www.mobygames.com/game/2915/edward-grabowskis-the-blue-the-gray/) – DOS 1993
 [^ref-30]: [MobyGames – D-Day: The Beginning of the End](https://www.mobygames.com/game/16484/d-day-the-beginning-of-the-end/) – DOS and Amiga 1994

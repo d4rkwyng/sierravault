@@ -6,7 +6,7 @@
 
 **The definitive documentation archive for Sierra On-Line's gaming legacy.**
 
-[![Games](https://img.shields.io/badge/Games-491-blue)](vault/Games/)
+[![Games](https://img.shields.io/badge/Games-492-blue)](vault/Games/)
 [![Designers](https://img.shields.io/badge/Designers-57-green)](vault/Designers/)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC-lightgrey)](LICENSE)
 
@@ -52,7 +52,7 @@ sierravault/
 ├── templates/                # Page templates
 ├── vault/                    # Obsidian vault (published content)
 │   ├── .obsidian/            # Obsidian settings
-│   ├── Games/                # 491 game pages across 75 folders
+│   ├── Games/                # 492 game pages across 75 folders
 │   │   ├── King's Quest/     # 10 games (1984-2015)
 │   │   ├── Space Quest/      # 7 games (1986-1995)
 │   │   ├── Quest for Glory/  # 6 games (1989-1998)
@@ -256,7 +256,7 @@ self-review against the standards instead.
 
 | Metric | Count |
 |--------|-------|
-| Total Games | 491 |
+| Total Games | 492 |
 | Designer Bios | 57 |
 | Developer Profiles | 28 |
 | Publisher Histories | 23 |

@@ -171,7 +171,7 @@ Before 1989 Dynamix's games were published by other companies, among them Pengui
 | 1989 | *Abrams Battle Tank* | Electronic Arts |
 | 1989 | [[1989 - MechWarrior\|MechWarrior]] | Activision |
 | 1989 | *Deathtrack* | Activision |
-| 1989 | *Die Hard* | Activision |
+| 1989 | [[1989 - Die Hard\|Die Hard]] | Activision |
 | 1989 | *Ghostbusters II* | Activision |
 | 1989 | *Project Firestart* | Electronic Arts |
 | 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Dynamix label, distributed by Activision |
