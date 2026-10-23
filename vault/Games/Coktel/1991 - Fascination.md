@@ -9,8 +9,8 @@ platforms: [DOS, Amiga, Atari ST]
 series: Standalone
 engine: Gob
 protagonist: Doralice May
-sierra_lineage: Sierra Published
-last_updated: '2026-10-12'
+sierra_lineage: Sierra Label (Coktel)
+last_updated: '2026-10-23'
 composer: [Frédéric Motte, Alain Sery]
 description: '*Fascination* is an erotic thriller graphic adventure game developed
  by Coktel Vision and published under its Tomahawk label in 1991 for the Amiga, Atari
@@ -19,7 +19,7 @@ tags: [1990s, adventure, sierra, standalone]
 ---
 # Fascination
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 23, 2026</small>
 
 ## Overview
 
@@ -38,7 +38,7 @@ Contemporary reception was mixed, with French publications rating the PC version
 > **Release Year:** 1991[^ref-33]
 > **Series:** Standalone (Doralice appears in Lost in Time)
 > **Protagonist:** Doralice May
-> **Sierra Lineage:** Sierra Published
+> **Sierra Lineage:** Sierra Label (Coktel)
 
 ## Story Summary
 
@@ -203,7 +203,7 @@ Note: Doralice's voice actress in *Lost in Time* (1993) was Dominique Laurencine
 
 ### Sales and Commercial Impact
 
-While specific sales figures are not available, *Fascination* represented the conclusion of Coktel Vision's mature-themed adventure game line.[^ref-18] The game was released across multiple European markets including France, Germany, Italy, Spain, and the United Kingdom, with a United States release following in 1992.[^ref-18] Digital Integration distributed the 1992 US release, which carried the Coktel Vision name,[^ref-33] and was named as the Amiga publisher in the *Amiga Action*, *The One* and *Amiga Computing* reviews.[^ref-7]
+While specific sales figures are not available, *Fascination* represented the conclusion of Coktel Vision's mature-themed adventure game line.[^ref-18] The game was released across multiple European markets including France, Germany, Italy, Spain, and the United Kingdom, with a United States release following in 1992.[^ref-18] Digital Integration distributed the 1992 US release, which carried the Coktel Vision name,[^ref-33] and was named as the Amiga publisher in the *Amiga Action*, *The One* and *Amiga Computing* reviews.[^ref-7] After Sierra acquired Coktel Vision, Sierra's UK office listed the DOS CD-ROM version of *Fascination* among the "CD ROM Classics" in its 1994 CD-ROM catalogue, which describes the game as "a Coktel Vision production" and carries the Sierra logo and the company's Theale, Reading address on its back cover.[^ref-36]
 
 ### Collections
 
@@ -283,3 +283,4 @@ The game was released shortly before Coktel Vision was acquired by Sierra On-Lin
 [^ref-33]: [MobyGames – Fascination Releases](https://www.mobygames.com/game/9399/fascination/releases/) – release dates, countries, publisher/developer credits, Digital Integration US distribution
 [^ref-34]: [MobyGames – Fascination Tech Specs](https://www.mobygames.com/game/9399/fascination/specs/) – DOS minimum CPU/OS/RAM, media, video modes, sound devices
 [^ref-35]: [MobyGames – Fascination Trivia](https://www.mobygames.com/game/9399/fascination/trivia/) – CD-ROM censorship details, Intersound MDO support, Motte on sampled .MOD music
+[^ref-36]: [The Sierra Chest – The CD ROM Catalogue 1994](https://sierrachest.com/index.php?a=publications&id=5) – Sierra UK catalogue; page 15 ("E.S.S. Mega - Fascination") and back-cover title list include Fascination under "CD ROM Classics"
