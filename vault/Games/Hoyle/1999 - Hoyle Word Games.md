@@ -192,7 +192,7 @@ Hoyle Word Games was followed by further Word Games editions in 2000 and 2001, a
 
 ## See Also
 
-- [[1999 - Hoyle Casino|← Previous: Hoyle Casino]]
+- [[1999 - Hoyle Slots and Video Poker|← Previous: Hoyle Slots and Video Poker]]
 - [[2000 - Hoyle Casino|→ Next: Hoyle Casino]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
@@ -213,9 +213,9 @@ Hoyle Word Games was followed by further Word Games editions in 2000 and 2001, a
 - [[1998 - Hoyle Battling Ships and War]]
 - [[1998 - Hoyle Classic Board Games]]
 - [[1999 - Hoyle Backgammon and Cribbage]]
+- [[1999 - Hoyle Slots and Video Poker]]
 - [[2000 - Hoyle Crosswords]]
 - [[2000 - Hoyle Kids Games]]
-- [[2000 - Hoyle Slots and Video Poker]]
 - [[2000 - Hoyle Solitaire and Mahjong Tiles]]
 - [[2001 - Hoyle Board Games]]
 - [[2001 - Hoyle Casino]]

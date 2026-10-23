@@ -440,12 +440,12 @@ This archive contains **492 game pages** in 75 folders, listed below in 76 secti
 - **1998** — [[1999 - Hoyle Casino|Hoyle Casino 1999]] — Last Updated: 2026-10-13
 - **1998** — [[1998 - Hoyle Classic Board Games|Hoyle Classic Board Games]] — Last Updated: 2026-10-09
 - **1999** — [[1999 - Hoyle Backgammon and Cribbage|Hoyle Backgammon & Cribbage]] — Last Updated: 2026-10-13
+- **1999** — [[1999 - Hoyle Slots and Video Poker|Hoyle Slots and Video Poker]] — Last Updated: 2026-10-13
 - **1999** — [[1999 - Hoyle Word Games|Hoyle Word Games]] — Last Updated: 2026-10-13
 - **2000** — [[2001 - Hoyle Board Games|Hoyle Board Games 2001]] — Last Updated: 2026-10-13
 - **2000** — [[2000 - Hoyle Casino|Hoyle Casino 2001]] — Last Updated: 2026-10-13
 - **2000** — [[2000 - Hoyle Crosswords|Hoyle Crosswords]] — Last Updated: 2026-10-13
 - **2000** — [[2000 - Hoyle Kids Games|Hoyle Kids Games 2000]] — Last Updated: 2026-10-13
-- **2000** — [[2000 - Hoyle Slots and Video Poker|Hoyle Slots and Video Poker 2000]] — Last Updated: 2026-10-13
 - **2000** — [[2000 - Hoyle Solitaire and Mahjong Tiles|Hoyle Solitaire And Mahjong Tiles 2000]] — Last Updated: 2026-10-13
 - **2000** — [[2001 - Hoyle Word Games|Hoyle Word Games 2001]] — Last Updated: 2026-10-13
 - **2001** — [[2002 - Hoyle Card Games|Hoyle Card Games 2002]] — Last Updated: 2026-10-13

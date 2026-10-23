@@ -1,5 +1,5 @@
 ---
-title: Hoyle Slots and Video Poker 2000
+title: Hoyle Slots and Video Poker
 release_year: 1999
 developer: Sierra On-Line
 designer: null
@@ -16,7 +16,7 @@ description: Hoyle Slots & Video Poker is a Hoyle-branded casino game from Sierr
   video poker machines and a bonus horse racing game.
 tags: [1990s, hoyle-series, sierra]
 ---
-# Hoyle Slots and Video Poker 2000
+# Hoyle Slots and Video Poker
 
 <small style="color: gray">Last updated: October 23, 2026</small>
 
@@ -182,8 +182,8 @@ According to Wikipedia, publication of the Hoyle Casino series moved from Sierra
 
 ## See Also
 
-- [[2000 - Hoyle Kids Games|← Previous: Hoyle Kids Games]]
-- [[2000 - Hoyle Solitaire and Mahjong Tiles|→ Next: Hoyle Solitaire and Mahjong Tiles]]
+- [[1999 - Hoyle Casino|← Previous: Hoyle Casino]]
+- [[1999 - Hoyle Word Games|→ Next: Hoyle Word Games]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]

@@ -123,7 +123,7 @@ No hint books or strategy guides for this title were found.
 
 ## See Also
 
-- [[2000 - Hoyle Slots and Video Poker|← Previous: Hoyle Slots and Video Poker]]
+- [[2000 - Hoyle Kids Games|← Previous: Hoyle Kids Games]]
 - [[2001 - Hoyle Board Games|→ Next: Hoyle Board Games]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]

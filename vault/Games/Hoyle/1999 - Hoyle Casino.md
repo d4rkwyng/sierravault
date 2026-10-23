@@ -144,7 +144,7 @@ The next edition, catalogued by the Sierra Chest as Hoyle Casino 4, was first re
 ## See Also
 
 - [[1999 - Hoyle Backgammon and Cribbage|← Previous: Hoyle Backgammon and Cribbage]]
-- [[1999 - Hoyle Word Games|→ Next: Hoyle Word Games]]
+- [[1999 - Hoyle Slots and Video Poker|→ Next: Hoyle Slots and Video Poker]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
@@ -163,10 +163,10 @@ The next edition, catalogued by the Sierra Chest as Hoyle Casino 4, was first re
 - [[1997 - Hoyle Poker]]
 - [[1998 - Hoyle Battling Ships and War]]
 - [[1998 - Hoyle Classic Board Games]]
+- [[1999 - Hoyle Slots and Video Poker]]
 - [[2000 - Hoyle Casino]]
 - [[2000 - Hoyle Crosswords]]
 - [[2000 - Hoyle Kids Games]]
-- [[2000 - Hoyle Slots and Video Poker]]
 - [[2000 - Hoyle Solitaire and Mahjong Tiles]]
 - [[2001 - Hoyle Board Games]]
 - [[2001 - Hoyle Casino]]

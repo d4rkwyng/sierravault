@@ -383,6 +383,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1999 - Homeworld|Homeworld]] — Series: Homeworld, Type: Real-time Strategy
 - [[1999 - Hoyle Backgammon and Cribbage|Hoyle Backgammon and Cribbage]] — Series: Hoyle, Type: Board/Card Game
 - [[1999 - Hoyle Casino|Hoyle Casino]] — Series: Hoyle Casino, Type: Casino Simulation
+- [[1999 - Hoyle Slots and Video Poker|Hoyle Slots and Video Poker]] — Series: Hoyle Series, Type: Casino & Card Games
 - [[1999 - Hoyle Word Games|Hoyle Word Games]] — Series: Hoyle, Type: Puzzle
 - [[1999 - NASCAR Craftsman Truck Series Racing|NASCAR Craftsman Truck Series Racing]] — Series: NASCAR Racing, Type: Racing Simulation
 - [[1999 - NASCAR Legends|NASCAR Legends]] — Series: NASCAR Racing, Type: Racing Simulation
@@ -417,7 +418,6 @@ Sierra had been part of Havas, later Vivendi Universal Publishing, since the 199
 - [[2000 - Hoyle Casino|Hoyle Casino]] — Series: Hoyle, Type: Gambling
 - [[2000 - Hoyle Crosswords|Hoyle Crosswords]] — Series: Hoyle, Type: Puzzle
 - [[2000 - Hoyle Kids Games|Hoyle Kids Games]] — Series: Hoyle Series, Type: Board and Card Games
-- [[2000 - Hoyle Slots and Video Poker|Hoyle Slots and Video Poker]] — Series: Hoyle Series, Type: Casino & Card Games
 - [[2000 - Hoyle Solitaire and Mahjong Tiles|Hoyle Solitaire and Mahjong Tiles]] — Series: Hoyle Series, Type: Board games
 - [[2000 - Maximum Pool|Maximum Pool]] — Series: 3D Ultra, Type: Sports/Pool
 - [[2000 - No One Lives Forever|No One Lives Forever]] — Series: No One Lives Forever, Type: First-Person Shooter/Stealth
