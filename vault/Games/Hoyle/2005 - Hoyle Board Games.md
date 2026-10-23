@@ -9,43 +9,44 @@ platforms: [Windows]
 series: Hoyle
 engine: null
 protagonist: N/A
-sierra_lineage: Post-Sierra
-last_updated: '2026-10-13'
+sierra_lineage: Core Sierra
+last_updated: '2026-10-23'
 description: Hoyle Board Games 2005 is a Windows collection of classic board games
-  built by Sierra Entertainment (© 2004) and released at retail in the US by Encore
-  Software in 2005.
+  built by Sierra Entertainment, first shipped in Sierra's Hoyle Puzzle & Board 2005
+  bundle in September 2004 and released standalone in the US by Encore Software in
+  July 2005.
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Board Games 2005
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 23, 2026</small>
 
 ## Overview
 
-Hoyle Board Games 2005 is a collection of classic board and table games for Windows, built by an internal Sierra Entertainment team and released at retail in the United States by [[Encore Software]].[^ref-8][^ref-25] The game's credits carry a "Copyright © 2004 Sierra Entertainment Inc." notice, while IGN dates the Encore release to July 13, 2005.[^ref-8][^ref-11] It continues the Hoyle series that Sierra On-Line began in 1989 with Hoyle's Official Book of Games.[^ref-3] The ESRB rated it E for Everyone (Comic Mischief), listing Vivendi Games as the publisher of record.[^ref-5]
+Hoyle Board Games 2005 is a collection of classic board and table games for Windows, built by an internal Sierra Entertainment team; its credits carry a "Copyright © 2004 Sierra Entertainment Inc." notice.[^ref-8] It reached stores twice. Sierra first released it on September 16, 2004 as half of its own Hoyle Puzzle & Board 2005 bundle, paired with Hoyle Puzzle Games.[^ref-27][^ref-14] After [[Encore Software]] took over Hoyle PC publishing in December 2004, Encore issued the game on its own at US retail; IGN dates that standalone release to July 13, 2005.[^ref-26][^ref-11][^ref-25] It continues the Hoyle series that Sierra On-Line began in 1989 with Hoyle's Official Book of Games.[^ref-3] The ESRB rated it E for Everyone (Comic Mischief), listing Vivendi Games as the publisher of record.[^ref-5]
 
-The collection's games are Backgammon, Battling Ships, Bump'em, Chess, Chinese Checkers, Dominoes, DoubleCross, Master Match, Maximum Pool, Pachisi, Reversi, Rummy Squares, Triple Yacht, Wordox, Word Yacht and Zilch.[^ref-17][^ref-11] Encore's retail description advertises "18 of your favorite board games" (naming Checkers among them) plus "12 pool games included for free."[^ref-6] Sierra's product page promoted in-game tutorials, the "Hoyle Bucks" reward currency, and "animated opponents who talk back and speak their minds."[^ref-22]
+The collection's games are Backgammon, Battling Ships, Bump'em, Chess, Chinese Checkers, Dominoes, DoubleCross, Master Match, Maximum Pool, Pachisi, Reversi, Rummy Squares, Triple Yacht, Wordox, Word Yacht and Zilch.[^ref-17][^ref-11] Encore's retail description advertises "18 of your favorite board games" (naming Checkers among them) plus "12 pool games included for free," and promotes in-game tutorials, the "Hoyle Bucks" reward currency, and "animated opponents who talk back and speak their minds."[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-8][^ref-2]
 > **Designer:** Ryan Spain[^ref-8]
-> **Publisher:** [[Encore Software]] (US retail)[^ref-25]; Vivendi Games (ESRB listing)[^ref-5]
+> **Publisher:** [[Encore Software]] (2005 standalone US retail)[^ref-25]; Sierra Entertainment / Vivendi Universal Games (2004 bundle)[^ref-27]; Vivendi Games (ESRB listing)[^ref-5]
 > **Engine:** Not documented; audio via Miles Sound System[^ref-8]
 > **Platforms:** Windows XP, Windows 98, Windows Me[^ref-6]
-> **Release Year:** 2005[^ref-11]
+> **Release Year:** 2005 standalone[^ref-11]; first released September 16, 2004 in Hoyle Puzzle & Board 2005[^ref-27]
 > **Series:** Hoyle
 > **Protagonist:** N/A (player avatar customizable)
-> **Sierra Lineage:** Post-Sierra
+> **Sierra Lineage:** Core Sierra
 
 ## Gameplay
 
 ### Interface and Controls
 
-MobyGames classifies the collection as a turn-based board game presented in first-person and top-down perspectives with fixed/flip-screen visuals, driven through menu structures.[^ref-17] Sierra advertised in-game tutorials that "walk you through the fun, step-by-step" for the included games.[^ref-22] The animated opponents' speech was lip-synced with LIPSinc voice-synchronization technology.[^ref-8]
+MobyGames classifies the collection as a turn-based board game presented in first-person and top-down perspectives with fixed/flip-screen visuals, driven through menu structures.[^ref-17] The retail description promises in-game tutorials that "walk you through the fun, step-by-step."[^ref-6] The animated opponents' speech was lip-synced with LIPSinc voice-synchronization technology.[^ref-8]
 
 ### Structure and Progression
 
-The game uses the "Hoyle Bucks" system: players earn virtual bucks through play and redeem them for extra content and music, which MobyGames describes as unlocking customization options.[^ref-22][^ref-17] Sierra's page also listed a "BackTalk" feature, game variations, and a choice of music.[^ref-22]
+The game uses the "Hoyle Bucks" system: players earn bucks and spend them on extra content and music, which MobyGames describes as unlocking customization options.[^ref-6][^ref-17] Hoyle Bucks were not new to this edition. Sierra had introduced them, together with a "BackTalk" feature and the Maximum Pool game, in [[2004 - Hoyle Table Games|Hoyle Table Games]], released September 2, 2003.[^ref-29]
 
 **Games Included:**[^ref-17][^ref-11]
 - **Backgammon**
@@ -56,7 +57,7 @@ The game uses the "Hoyle Bucks" system: players earn virtual bucks through play 
 - **Dominoes**
 - **DoubleCross**
 - **Master Match**
-- **Maximum Pool** (promoted by Sierra as the edition's new game)[^ref-22]
+- **Maximum Pool** (first introduced in Hoyle Table Games, 2003)[^ref-29]
 - **Pachisi**
 - **Reversi**
 - **Rummy Squares**
@@ -67,7 +68,7 @@ The game uses the "Hoyle Bucks" system: players earn virtual bucks through play 
 
 ### Puzzles and Mechanics
 
-Sierra's Facemaker tool let players create their own character, and every game offered Beginner, Intermediate, and Expert skill levels.[^ref-22] The package also included a Hoyle Rulebook and Strategy Guide.[^ref-22]
+The predecessor, Hoyle Table Games, advertised a Facemaker tool for creating your own character, Beginner, Intermediate and Expert skill levels, and a free Hoyle Rulebook and Strategy Guide.[^ref-29] Sierra's 2004 bundle page still lists Facemaker among Sierra's trademarks,[^ref-27] but no source specific to this edition confirms which of those features carried over.
 
 ## Reception
 
@@ -98,7 +99,9 @@ The series is named after the 18th-century playing-card expert Edmond Hoyle.[^re
 
 The credits list a Sierra Entertainment team: executive producer Stephen H. Van Horn, designer Ryan Spain, project lead Eric Fleming, art director Rabih AbouJaoudé, and composer and sound engineer Mike Caviezel. MobyGames counts 59 people with 65 credits.[^ref-8] The credits also note use of the Miles Sound System audio library (RAD Game Tools) and LIPSinc voice synchronization.[^ref-8]
 
-The game was built under Sierra and sold under Encore. Wikipedia records that Encore Software took over publishing the Hoyle series from 2005 to 2016.[^ref-3] An Encore developer account later explained on Steam's Hoyle forum: "When we acquired Hoyle, we pretty much started distributing 2004 versions and up and then some changes to the box were made as Encore instead of Sierra on the box."[^ref-23] The US retail SKU carries Encore Software as publisher (barcode 705381100270).[^ref-25]
+The game was built under Sierra and first sold by Sierra, then sold on its own by Encore. Sierra's late-2003 Hoyle catalog listed Hoyle Table Games ("Backgammon, Checkers, Dominoes, Pool & More!") as its board-game title,[^ref-30] and Sierra's fall-2004 product index listed Hoyle Card Games 2005 and Hoyle Puzzle & Board 2005 but no standalone Hoyle Board Games 2005.[^ref-28] The board games first appeared in the Puzzle & Board bundle, which Sierra's product page dates to September 16, 2004 and copyrights to Sierra Entertainment and Vivendi Universal Games; Metacritic gives September 14, 2004.[^ref-27][^ref-14]
+
+On December 21, 2004, Navarre Corporation announced that its subsidiary Encore Software had signed an exclusive five-year agreement with The United States Playing Card Company for worldwide Hoyle PC publishing rights. Encore also secured "worldwide, perpetual licensed rights to certain industry-leading software content and technology."[^ref-26] Wikipedia records that Encore Software took over publishing the Hoyle series from 2005 to 2016.[^ref-3] An Encore developer account later explained on Steam's Hoyle forum: "When we acquired Hoyle, we pretty much started distributing 2004 versions and up and then some changes to the box were made as Encore instead of Sierra on the box."[^ref-23] The US retail SKU carries Encore Software as publisher (barcode 705381100270).[^ref-25] MobyGames, by contrast, lists Sierra Entertainment as both developer and publisher of the 2005 US retail release, and the ESRB lists Vivendi Games.[^ref-17][^ref-5]
 
 **Development Credits:**[^ref-8]
 - **Executive Producer:** Stephen H. Van Horn
@@ -153,10 +156,11 @@ Historical trivia about the Hoyle series:[^ref-3]
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Encore retail | July 13, 2005 | Windows PC | US release; Sierra-built, © 2004[^ref-11][^ref-8] |
+| Sierra bundle | September 16, 2004 | Windows PC | First release, inside Sierra's Hoyle Puzzle & Board 2005[^ref-27] |
+| Encore retail | July 13, 2005 | Windows PC | Standalone US release; Sierra-built, © 2004[^ref-11][^ref-8] |
 
 **Related Bundle Release:**
-- **Hoyle Puzzle and Board Games 2005**: listed by Metacritic as released September 14, 2004 by VU Games, combining Hoyle Puzzle Games and Hoyle Board Games[^ref-14]
+- **Hoyle Puzzle and Board Games 2005**: dated September 16, 2004 by Sierra and September 14, 2004 by Metacritic (publisher VU Games), combining Hoyle Puzzle Games and Hoyle Board Games[^ref-27][^ref-14]
 
 ## Legacy
 
@@ -178,7 +182,7 @@ Encore currently sells **Encore Classic Puzzle & Board Games** on Steam (release
 - [Amazon.ca](https://www.amazon.ca/Encore-10027-Hoyle-Board-Games/dp/B0009YN1RQ) - physical copies may be available[^ref-6]
 
 **Download / Preservation**
-- No download link is listed, because Encore still sells its current board-and-puzzle collection on Steam
+- No download link is listed, because the game is still sold: a third-party seller offers new physical copies on Amazon.ca (checked October 23, 2026)[^ref-6]
 
 ## See Also
 
@@ -246,11 +250,15 @@ Encore currently sells **Encore Classic Puzzle & Board Games** on Steam (release
 [^ref-6]: [Amazon.ca – Hoyle Board Games 2005](https://www.amazon.ca/Encore-10027-Hoyle-Board-Games/dp/B0009YN1RQ) – product description (18 games, 12 pool games), customer reviews, platforms, physical specs
 [^ref-7]: [Metacritic – Hoyle Board Games 2005](https://www.metacritic.com/game/hoyle-board-games-2005/) – no critic or user reviews; developer Sierra Entertainment
 [^ref-8]: [MobyGames – Hoyle Board Games 2005 Credits](https://www.mobygames.com/game/178238/hoyle-board-games-2005/credits/windows/) – full credits, voice cast, © 2004 Sierra Entertainment, Miles Sound System, LIPSinc, USPCC license
-[^ref-9]: [My Abandonware – Hoyle Board Games 2005](https://www.myabandonware.com/game/hoyle-board-games-2005-hzk) – user rating (4.31/5, 13 votes) and user comments (cited as a source only)
+[^ref-9]: My Abandonware – "Hoyle Board Games 2005" game page – user rating (4.31/5, 13 votes) and user comments; not linked because it is a download page and the game is still sold
 [^ref-11]: [IGN – Hoyle Board Games 2005](https://www.ign.com/games/hoyle-board-games-2005) – Encore initial release Jul 13, 2005; NR rating; games list
 [^ref-14]: [Metacritic – Hoyle Puzzle and Board Games 2005](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2005/) – bundle description, release date Sep 14, 2004, VU Games
-[^ref-17]: [MobyGames – Hoyle Board Games 2005](https://www.mobygames.com/game/178238/hoyle-board-games-2005/) – games list, Hoyle Bucks, perspective/genre classification
-[^ref-22]: [Sierra – Hoyle Board Games product page (Wayback, Oct 19, 2004)](https://web.archive.org/web/20041019140200/http://hoyle.sierra.com:80/boardgames.jsp) – Sierra feature list: tutorials, Hoyle Bucks, BackTalk, Maximum Pool, Facemaker, skill levels
+[^ref-17]: [MobyGames – Hoyle Board Games 2005](https://www.mobygames.com/game/178238/hoyle-board-games-2005/) – games list, Hoyle Bucks, perspective/genre classification; 2005 US retail release lists Sierra Entertainment as publisher and developer (read via the MobyGames API)
 [^ref-23]: [Steam Community – Hoyle Official Card Games Collection discussion](https://steamcommunity.com/app/397420/discussions/0/492378265874336581/) – Encore developer account (Nov 18, 2015) on distributing 2004-and-later Hoyle versions under the Encore name
 [^ref-24]: [Steam – Encore Classic Puzzle & Board Games](https://store.steampowered.com/app/1217380/Encore_Classic_Puzzle__Board_Games/) – current Encore collection on sale; released Jan 30, 2020; developer webfoot
 [^ref-25]: [GameFAQs – Hoyle Board Games 2005 Release Data](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005/data) – US release, publisher Encore Software, barcode 705381100270
+[^ref-26]: [Encore Software – "Navarre's Encore Subsidiary Signs Exclusive Licensing Agreement With The United States Playing Card Company For Hoyle Branded Properties" (Wayback)](https://web.archive.org/web/20050428205939/http://www.encoreusa.com:80/PressRelease/Press263.htm) – press release dated December 21, 2004; five-year worldwide Hoyle PC publishing rights
+[^ref-27]: [Sierra – Hoyle Puzzle & Board 2005 product page (Wayback, Dec 5, 2004)](https://web.archive.org/web/20041205125510/http://sierra.com/product.do?gamePlatformId=1829) – "PC Released: 9/16/2004"; pairs Hoyle Puzzle Games and Hoyle Board Games; © 2004 Sierra Entertainment, Vivendi Universal Games
+[^ref-28]: [Sierra – alphabetical product index, letter H (Wayback, Oct 10, 2004)](https://web.archive.org/web/20041010015611/http://www.sierra.com/alphabetical_index.do?letter=H) – lists Hoyle Card Games 2005 and Hoyle Puzzle & Board 2005, no standalone Hoyle Board Games 2005
+[^ref-29]: [Sierra – Hoyle Table Games product page (Wayback, Dec 9, 2004)](https://web.archive.org/web/20041209070339/http://sierra.com/product.do?gamePlatformId=546) – "PC Released: 9/2/2003"; NEW Hoyle Bucks, BackTalk, Maximum Pool; Facemaker, skill levels, free Rulebook
+[^ref-30]: [Sierra – Hoyle Catalog (Wayback, Dec 9, 2003)](https://web.archive.org/web/20031209185714/http://hoyle.sierra.com:80/hoylecatalog.jsp) – Hoyle Table Games: "Backgammon, Checkers, Dominoes, Pool & More!"
