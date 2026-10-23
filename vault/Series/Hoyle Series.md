@@ -64,7 +64,7 @@ Years follow the vault's game pages. The vault holds 55 Hoyle pages, but several
 | 2003 | [[2004 - Hoyle Puzzle Games\|Hoyle Puzzle Games 2004]] | |
 | 2003 | [[2004 - Hoyle Table Games\|Hoyle Table Games 2004]] | |
 | 2004 | [[2005 - Hoyle Card Games\|Hoyle Card Games 2005]] | |
-| 2004 | [[2005 - Hoyle Puzzle and Board Games\|Hoyle Puzzle & Board Games 2005]] | |
+| 2004 | [[2004 - Hoyle Puzzle and Board Games 2005\|Hoyle Puzzle & Board Games 2005]] | |
 | 2005 | [[2005 - Hoyle Board Games\|Hoyle Board Games 2005]] | |
 | 2005 | [[2005 - Hoyle Casino 3D\|Hoyle Casino 3D]] | |
 | 2005 | [[2005 - Hoyle Poker Series\|Hoyle Poker Series]] | |

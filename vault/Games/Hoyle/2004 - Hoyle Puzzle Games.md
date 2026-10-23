@@ -130,7 +130,7 @@ No sales figures have been found. Best Buy listed the game for Windows (SKU 5884
 
 ### Subsequent Releases
 
-A GameSpot user reviewer pointed buyers to a 2005 version, which combined the puzzle games with the table games and could be fully installed[^ref-7]. See [[2005 - Hoyle Puzzle and Board Games|Hoyle Puzzle & Board Games 2005]].
+A GameSpot user reviewer pointed buyers to a 2005 version, which combined the puzzle games with the table games and could be fully installed[^ref-7]. See [[2004 - Hoyle Puzzle and Board Games 2005|Hoyle Puzzle & Board Games 2005]].
 
 ### Trivia
 
@@ -193,7 +193,7 @@ A GameSpot user reviewer pointed buyers to a 2005 version, which combined the pu
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2005 - Hoyle Puzzle and Board Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]

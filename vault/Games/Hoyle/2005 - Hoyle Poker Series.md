@@ -208,7 +208,7 @@ The Hoyle series' use of Sierra adventure game characters as opponents in its ea
 ## See Also
 
 - [[2005 - Hoyle Casino 3D|← Previous: Hoyle Casino 3D]]
-- [[2005 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
+- [[2005 - Hoyle Texas Hold Em|→ Next: Hoyle Texas Hold Em]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]

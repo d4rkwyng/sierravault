@@ -104,7 +104,7 @@ Sierra's own earlier Hoyle Poker, released for Windows on April 30, 1997 and des
 
 ## See Also
 
-- [[2005 - Hoyle Puzzle and Board Games|← Previous: Hoyle Puzzle and Board Games]]
+- [[2005 - Hoyle Poker Series|← Previous: Hoyle Poker Series]]
 - [[2006 - Hoyle Casino|→ Next: Hoyle Casino]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]

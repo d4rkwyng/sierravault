@@ -203,7 +203,7 @@ Hoyle Casino 3D sits at the handover of the Hoyle brand from Vivendi/Sierra to E
 - [[2004 - Hoyle Puzzle Games]]
 - [[2004 - Hoyle Table Games]]
 - [[2005 - Hoyle Board Games]]
-- [[2005 - Hoyle Puzzle and Board Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]

@@ -474,6 +474,7 @@ Sierra had been part of Havas, later Vivendi Universal Publishing, since the 199
 - [[2004 - Ground Control II - Operation Exodus|Ground Control II - Operation Exodus]] — Series: Ground Control, Type: Real-time tactics
 - [[2004 - Half-Life 2|Half-Life 2]] — Series: Half-Life, Type: First-Person Shooter
 - [[2004 - Hoyle Puzzle Games|Hoyle Puzzle Games]] — Series: Hoyle, Type: Puzzle
+- [[2004 - Hoyle Puzzle and Board Games 2005|Hoyle Puzzle and Board Games 2005]] — Series: Hoyle, Type: Compilation
 - **[[2004 - Leisure Suit Larry - Magna Cum Laude|Leisure Suit Larry - Magna Cum Laude]]** — Series: Leisure Suit Larry, Type: Action-Adventure
 - [[2004 - Lords of the Realm III|Lords of the Realm III]] — Series: Lords of the Realm, Type: Real-Time Strategy
 - [[2004 - Tribes - Vengeance|Tribes - Vengeance]] — Series: Starsiege, Type: First-Person Shooter
@@ -483,7 +484,6 @@ Sierra had been part of Havas, later Vivendi Universal Publishing, since the 199
 - [[2005 - Hoyle Card Games|Hoyle Card Games]] — Series: Hoyle Card Games, Type: Card Game
 - [[2005 - Hoyle Casino 3D|Hoyle Casino 3D]] — Series: Hoyle Casino, Type: Gambling/Casino Simulation
 - [[2005 - Hoyle Poker Series|Hoyle Poker Series]] — Series: Hoyle, Type: Card Game
-- [[2005 - Hoyle Puzzle and Board Games|Hoyle Puzzle and Board Games]] — Series: Hoyle, Type: Compilation
 - [[2005 - Hoyle Texas Hold Em|Hoyle Texas Hold Em]] — Series: Hoyle, Type: Card & Board
 - [[2005 - SWAT 4|SWAT 4]] — Series: SWAT, Type: Tactical First-Person Shooter
 

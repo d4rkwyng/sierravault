@@ -149,8 +149,8 @@ The game is also listed on RAWG and IGDB.[^ref-11][^ref-14]
 
 ## See Also
 
-- [[2005 - Hoyle Poker Series|← Previous: Hoyle Poker Series]]
-- [[2005 - Hoyle Texas Hold Em|→ Next: Hoyle Texas Hold Em]]
+- [[2004 - Hoyle Table Games|← Previous: Hoyle Table Games]]
+- [[2005 - Hoyle Board Games|→ Next: Hoyle Board Games]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]

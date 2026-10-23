@@ -182,7 +182,7 @@ Encore currently sells **Encore Classic Puzzle & Board Games** on Steam (release
 
 ## See Also
 
-- [[2004 - Hoyle Table Games|← Previous: Hoyle Table Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005|← Previous: Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Card Games|→ Next: Hoyle Card Games]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
@@ -225,7 +225,7 @@ Encore currently sells **Encore Classic Puzzle & Board Games** on Steam (release
 - [[2004 - Hoyle Puzzle Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2005 - Hoyle Puzzle and Board Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]

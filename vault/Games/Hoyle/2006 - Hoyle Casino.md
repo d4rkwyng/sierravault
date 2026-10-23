@@ -245,7 +245,7 @@ Hoyle Casino 2006 is one of the Hoyle titles released under Encore Software afte
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2005 - Hoyle Puzzle and Board Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2007 - Hoyle Card Games 2008]]
 - [[2007 - Hoyle Casino]]
 - [[2007 - Hoyle Casino 2008]]
