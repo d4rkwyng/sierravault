@@ -222,11 +222,8 @@ These were caught in pilots and represent the easy mistakes:
 
 ## Pilot order
 
-If running through a backlog, work from `vault_report.json` lowest score first. As of 2026-05-27 the bottom of the list is:
-1. 3D Ultra / 1995 - 3-D Ultra Pinball (90.8% — dup URL + low refs)
-2. Hoyle / 2000 - Hoyle Slots and Video Poker (93.6%)
-3. 3D Ultra / 2000 - 3-D Ultra Pinball - Thrill Ride (95.3%)
-4. 3D Ultra / 2006 - 3D Ultra MiniGolf Adventures (95.3%)
-5. 3D Ultra / 2010 - 3-D Ultra MiniGolf Adventures 2 (95.3%)
-
-Note the 3D Ultra cluster — fixing them together with a shared dossier-mining pass is faster than one at a time.
+If running through a backlog, work from `vault_report.json` lowest score first. The `pages` array is sorted ascending by `score`, so the current bottom of the list is:
+```bash
+python3 -c "import json; r=json.load(open('vault_report.json')); [print(p['score'], p['series'], '/', p['filename']) for p in r['pages'][:5]]"
+```
+Regenerate the report with `run_consistency.py` first if it may be stale. When several low scorers share a series, fixing them together with a shared dossier-mining pass is faster than one at a time.
