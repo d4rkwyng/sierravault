@@ -10,7 +10,7 @@ series: Playtoons
 engine: Gob
 protagonist: Spirou and Fantasio
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-13'
+last_updated: '2026-10-23'
 composer: [Emmanuel Chagnas]
 description: 'Playtoons 4: The Mandarine Prince is a 1995 interactive comic book and
   animation kit by Coktel Vision, published by Sierra On-Line, in which Spirou and
@@ -19,11 +19,11 @@ tags: [1990s, adventure, coktel, playtoons, sierra]
 ---
 # Playtoons 4: The Mandarine Prince
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 23, 2026</small>
 
 ## Overview
 
-Playtoons 4: The Mandarine Prince is an interactive comic book and animation kit developed by [[Coktel Vision]] and published by [[Sierra On-Line]].[^ref-2][^ref-3][^ref-7] Like the rest of the series, it lets players read through an interactive comic book and also build their own animated stories with an integrated editor.[^ref-3] It was released for Windows 3.x and Macintosh: Coktel published it in France in 1995, Sierra published it in Germany in 1995 (distributed by Sierra Coktel Deutschland), and Sierra released it in the United States in 1996.[^ref-18]
+Playtoons 4: The Mandarine Prince is an interactive comic book and animation kit developed by [[Coktel Vision]] and published by [[Sierra On-Line]].[^ref-2][^ref-3][^ref-7] Like the rest of the series, it lets players read through an interactive comic book and also build their own animated stories with an integrated editor.[^ref-3] It was released for Windows 3.x and Macintosh: Coktel published it in France in 1995, Sierra published it in Germany in 1995 (distributed by Sierra Coktel Deutschland), and Sierra released it in the United States in 1996.[^ref-18] The French magazine *SVM Multimédia* reported in October 1995 that Coktel planned to launch "le Prince Mandarine (avec Spirou)" that autumn,[^ref-29] and a retailer's advertisement in its December 1995 issue already listed the PC version.[^ref-30]
 
 The fourth game again features the Franco-Belgian comic heroes Spirou and Fantasio, who had already starred in the second Playtoons game. This time they are up against crime boss Don Vito Cortizone in the country of Mandarine.[^ref-3] Like the other entries in the series, the game was aimed at children and focused on teaching school topics in a digital format.[^ref-1]
 
@@ -40,7 +40,7 @@ The fourth game again features the Franco-Belgian comic heroes Spirou and Fantas
 
 ## Story Summary
 
-Spirou and Fantasio come from the comic strip that Rob-Vel created for the launch of *Le Journal de Spirou* on April 21, 1938.[^ref-19] In this adventure, their nemesis Don Vito Cortizone has just been made head of security for the country of Mandarine.[^ref-5] Cortizone, a Mafia boss modeled on Vito Corleone from *The Godfather*, first appeared in the comic album *Spirou à New York* (1987).[^ref-19]
+Spirou first appeared in the comic strip that Rob-Vel created for the launch of *Le Journal de Spirou* on April 21, 1938, and Jijé introduced Fantasio in 1944.[^ref-19] In this adventure, Spirou and Fantasio are invited to Mandarine for the engagement party of Princess Clementine. When they arrive at the airport, Don Vito Cortizone makes them "a very strange proposition".[^ref-25] Their old enemy has just been made head of security for the country of Mandarine.[^ref-5] Cortizone, a Mafia boss modeled on Vito Corleone from *The Godfather*, first appeared in the comic album *Spirou à New York* (1987).[^ref-19] According to *MacFormat*, which calls him "Don Vito Bad-A-Luck", he has been hired to protect the princess by her father, Prince Sunkist, and enlists Spirou and Fantasio to help.[^ref-21]
 
 Each Playtoons game includes a cartoon that introduces the characters and situations. Players can read the story straight through or jump to any page in it.[^ref-1]
 
@@ -62,7 +62,13 @@ In the editor, players add background scenery, props and characters to a scene a
 
 ### Contemporary Reviews
 
-MobyGames records no critic score for the game ("Moby Score n/a").[^ref-3] No contemporary magazine reviews were found while researching this page.
+MobyGames records no critic score for the game ("Moby Score n/a"),[^ref-3] but it was reviewed in several countries.
+
+- **MacFormat (UK), issue 37, May 1996:** Mike Goldsmith reviewed it together with *The Stone of Wakan* and gave the pair 88%. He describes Spirou as "a feisty hybrid of Tintin and Jimmy Olsen", covers both the Story and Construction options, and concludes that the two titles "are fine examples of how good children's titles can be".[^ref-21] The magazine's later buyers' guide listed it with its 88% from issue 37, calling it a "fine title".[^ref-22]
+- **PC Spiel (Germany), July 1996:** a short unscored review of *Der Mandarin-Prinz* said that "Die gewohnt hohe Qualität macht den Titel vor allem für die Jüngeren empfehlenswert" (its usual high quality makes it recommended above all for younger players).[^ref-23]
+- **l'Unità (Italy), 26 May 1997:** Roberto Giovannini described *Il Principe di Mandarancia* as part of a successful series for school-age and pre-school children, mixing stories to discover with a construction game in which the child can add their own voice or music and record the result.[^ref-24]
+
+In the United States, *PC Magazine* included the Playtoons Collection, whose four stories include The Mandarine Prince, in its "Top 100 CD-ROMs" of September 1996.[^ref-31]
 
 ### Modern Assessment
 
@@ -88,9 +94,15 @@ According to MobyGames, the voices were produced by Studio Big Wheels, and Karen
 
 ### Technical Specifications
 
-**Minimum requirements:**[^ref-20]
-- **Windows:** Windows 3.1, Intel 486SX, 2X CD-ROM drive, 640×480 in 256 colours, mouse, 2 MB free hard disk space
-- **Macintosh:** Motorola 68040, System 7.1, 4 MB RAM, 2X CD-ROM drive, mouse, 1 MB free hard disk space
+**Minimum requirements (Sierra's 1996 catalogue):**[^ref-25]
+- **Windows:** 486SX-25 or better, Windows 3.1 or newer, 8 MB RAM, SVGA graphics, Windows-compatible sound card with DAC, 2X CD-ROM drive
+- **Macintosh:** 68040 (accelerated for Power Mac), System 7.1 or higher, 8 MB RAM, 13" 256-colour monitor, 2X CD-ROM drive
+
+MobyGames' specification list matches the processor and system versions but gives 4 MB RAM for the Mac.[^ref-20] *MacFormat*'s review box also gives 8 MB for the Mac,[^ref-21] and *PC Spiel* listed a 486/33 with 8 MB RAM for Windows.[^ref-23]
+
+### Pricing and Ratings
+
+Sierra's Spring 1996 catalogue sold the game for $24.95 for ages 4 to 10, or for $34.90 in "Playtoons Bundle 2" with *The Secret of the Castle*.[^ref-25] By the Fall 1996 catalogue the price had dropped to $14.95.[^ref-26] *MacFormat* listed it at £24.99,[^ref-21] and in Italy CTO distributed it for 119,000 lire.[^ref-24] The ESRB rated it E (Everyone) with no content descriptors, for Macintosh and Windows PC;[^ref-27] GameFAQs records the original US rating as K-A.[^ref-28]
 
 ### Version History
 
@@ -99,10 +111,11 @@ According to MobyGames, the voices were produced by Studio Big Wheels, and Karen
 | 1995 | Windows 3.x, Macintosh | France; published by Coktel Vision[^ref-18] |
 | 1995 | Windows 3.x, Macintosh | Germany; published by Sierra On-Line, distributed by Sierra Coktel Deutschland[^ref-18] |
 | 1996 | Windows 3.x, Macintosh | United States; published by Sierra On-Line[^ref-18] |
+| By May 1997 | Windows | Italy; *Playtoons 4 - Il Principe di Mandarancia*, distributed by CTO[^ref-24] |
 
 ### Easter Eggs and Trivia
 
-- The game also has a German title, *Playtoons Nr. 4: Der Mandarin Prinz*, and a French jewel-case title, *Playtoons Nr. 4: Le Prince Mandarine*.[^ref-3]
+- The game also has a German title, *Playtoons Nr. 4: Der Mandarin Prinz*, and a French jewel-case title, *Playtoons Nr. 4: Le Prince Mandarine*.[^ref-3] In Italy it was sold as *Playtoons 4 - Il Principe di Mandarancia*.[^ref-24]
 
 ## Legacy
 
@@ -150,3 +163,14 @@ The ScummVM wiki lists the game as unsupported ("Support: No"), so it cannot yet
 [^ref-18]: [MobyGames – Playtoons 4 releases](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/releases/) – France 1995 (Coktel), Germany 1995 (Sierra, Sierra Coktel Deutschland), US 1996 (Sierra), Windows 16-bit and Macintosh
 [^ref-19]: [Wikipedia – Spirou & Fantasio](https://en.wikipedia.org/wiki/Spirou_%26_Fantasio) – created by Rob-Vel for Le Journal de Spirou, April 21, 1938; Cortizone introduced in Spirou à New York (1987)
 [^ref-20]: [MobyGames – Playtoons 4 tech specs](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/specs/) – minimum Windows and Macintosh requirements
+[^ref-21]: [MacFormat, issue 37 (May 1996), "Playtoons: Spirou – The Mandarine Prince and The Stone of Wakan", pp. 104–105](https://archive.org/details/mac-format-037-may-1996) – Mike Goldsmith's review; MacFormat rating 88%; £24.99 each; 8 MB RAM; Princess Clementine, Prince Sunkist, Don Vito Bad-A-Luck
+[^ref-22]: [MacFormat, issue 48 (March 1997), buyers' guide](https://archive.org/details/mac-format-048-mar-1997) – "The Mandarine Prince £28 88% MF37 Sierra … A firm favourite in his native France, cub reporter Spirou solves another mystery in this fine title"
+[^ref-23]: [PC Spiel 7/96, "Der Mandarin-Prinz", p. 72](https://archive.org/details/pc-spiel-1996-07) – edutainment, about 80 DM, made by Coktel Vision; 486/33, 8 MB RAM, SVGA, double-speed drive, Windows
+[^ref-24]: [l'Unità, 26 May 1997, Multimedia, p. 18](https://archive.org/details/unita_1997-05-26) – Roberto Giovannini on "Playtoons 4 - Il Principe di Mandarancia" (PC, distributed by CTO, 119.000 lire)
+[^ref-25]: [Sierra Buyer's Guide, Spring 1996 (Retro Gaming Product Catalogs)](https://archive.org/details/RetroGamingProductCatalogs) – plot blurb, $24.95, Playtoons Bundle 2 $34.90, Win/Mac requirements (8 MB RAM), ages 4–10
+[^ref-26]: [Sierra Buyer's Guide, Fall 1996 (Retro Gaming Product Catalogs)](https://archive.org/details/RetroGamingProductCatalogs) – "Playtoons: The Mandarine Prince $14.95"
+[^ref-27]: [ESRB – Playtoons: The Mandarin Prince](https://www.esrb.org/ratings/1593/playtoons-the-mandarin-prince/) – rated E for Everyone, no descriptors, Macintosh and Windows PC
+[^ref-28]: [GameFAQs – Playtoons 4: The Mandarine Prince release data](https://gamefaqs.gamespot.com/pc/591382-playtoons-4-the-mandarine-prince/data) – US, Sierra On-Line, 1995, rating K-A, genre Edutainment
+[^ref-29]: [SVM Multimédia, issue 1 (October 1995)](https://archive.org/details/svm-multimedia-01) – Coktel announces for the autumn its Mac collection and "le Prince Mandarine (avec Spirou) et la Pierre de Wakan"
+[^ref-30]: [SVM Multimédia, issue 3 (December 1995)](https://archive.org/details/svm-multimedia-03) – retailer advertisement listing "Le Prince Mandarine (P)"
+[^ref-31]: [PC Magazine, 24 September 1996, "The Top 100 CD-ROMs"](https://archive.org/details/PC-Mag-1996-09-24) – the Playtoons Collection of four stories including The Mandarine Prince; street price $24.95 (series); Windows 3.1/95 and Mac; construction game
