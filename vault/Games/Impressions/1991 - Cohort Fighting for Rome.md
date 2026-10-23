@@ -10,7 +10,7 @@ series: Cohort
 engine: Proprietary (Impressions)
 protagonist: Roman Legion Commander
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-13'
+last_updated: '2026-10-23'
 description: 'Cohort: Fighting for Rome is a real-time tactical wargame of Roman
   battles developed by Impressions Games and released in 1991 for DOS, Amiga, and
   Atari ST; the US release was published by Merit Software as Fighting for Rome.'
@@ -18,13 +18,13 @@ tags: [1990s, cohort, impressions, sierra, strategy]
 ---
 # Cohort: Fighting for Rome
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 23, 2026</small>
 
 ## Overview
 
 Cohort: Fighting for Rome is a real-time tactical war game developed by [[Impressions Games]] and released in 1991 for DOS, Amiga, and Atari ST.[^ref-1][^ref-2][^ref-13] Players command Roman armies in small, self-contained battles made up of infantry, archers, and cavalry, and can pause the game to give orders.[^ref-1][^ref-16] CU Amiga described it as "the follow up to Rorke's Drift, repeating the formula of a 'miniature-style' computer war game."[^ref-17] In Europe it was published by Impressions itself; in the United States it was released by Merit Software under the title Fighting for Rome.[^ref-2][^ref-13][^ref-18]
 
-British reviewers were broadly positive in 1991: ACE awarded it 890/1000 and called it "a killer", while CU Amiga gave it 70% and recommended it to newcomers to war games.[^ref-13][^ref-16][^ref-17] Impressions followed it in 1993 with Cohort II, an upgrade that interlocked with its city-builder Caesar.[^ref-4][^ref-18]
+British reviewers were broadly positive in 1991: ACE awarded it 890/1000 and called it "a killer", Zero gave it 85%, and CU Amiga gave it 70% and recommended it to newcomers to war games.[^ref-13][^ref-16][^ref-17][^ref-23] In the United States, wargame critic M. Evan Brooks rated it two stars and called it "superseded by Cohort II."[^ref-20] Impressions followed it in 1993 with Cohort II, an upgrade that interlocked with its city-builder Caesar.[^ref-4][^ref-18]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-2]
@@ -39,7 +39,7 @@ British reviewers were broadly positive in 1991: ACE awarded it 890/1000 and cal
 
 ## Story Summary
 
-Cohort has no narrative campaign. The player commands a Roman army in individual battles; as ACE put it, "you fight a small battle rather than an extended campaign."[^ref-16] Each of the game's dozen scenarios has a definite objective, such as taking a bridge or holding a hill, and players can also define their own scenarios.[^ref-16]
+Cohort has no narrative campaign. The player commands a Roman army in individual battles; as ACE put it, "you fight a small battle rather than an extended campaign."[^ref-16] ACE counted a dozen scenarios, each with a definite objective such as taking a bridge or holding a hill, and players can also define their own.[^ref-16] Other reviews counted differently: Amiga Action mentioned "20 pre-designed ones", CGW's European correspondent reported "twenty battle variations over four centuries", and ST Format counted five.[^ref-21][^ref-24][^ref-26]
 
 CU Amiga framed the setting around the Pax Romana, noting that "during that period, the Romans were almost continuously at war!"[^ref-17] The package included a history pamphlet, which the same review mentioned in connection with the Pyrrhic wars.[^ref-17]
 
@@ -47,7 +47,7 @@ CU Amiga framed the setting around the Pax Romana, noting that "during that peri
 
 ### Interface and Controls
 
-The game is entirely mouse-controlled and viewed from above.[^ref-2][^ref-16] The player commands the Blue army against the Red; each unmounted figure on screen represents 100 men and each horseman 50.[^ref-16] Icons along the bottom of the screen open information displays and options such as saving the game, and command windows pop up over the battlefield.[^ref-16]
+The game is entirely mouse-controlled and viewed from above.[^ref-2][^ref-16] The player commands the Blue army against the Red; each unmounted figure on screen represents 100 men and each horseman 50.[^ref-16] Icons along the bottom of the screen open information displays and options such as saving the game, and command windows pop up over the battlefield.[^ref-16] According to Computer Gaming World, up to 96 units can be deployed, with eight directional troop movements and three speed levels.[^ref-21] Units can be controlled individually or in groups of eight.[^ref-24]
 
 Orders can be given to individual figures or groups. For short moves the player marks a destination on the main display; for long moves, directional arrows set the direction of march.[^ref-16] CU Amiga noted that the Unit Command Panel handles orders such as moving at a march, a run, or a charge, and reports attack and defence strength, missile power, and morale.[^ref-17] Once a target is chosen for missile troops, firing is automatic.[^ref-16]
 
@@ -60,7 +60,7 @@ ACE described the game's options as follows:[^ref-16]
 - **Terrain:** Four terrains: open field, bridge, cliff, and hill
 - **Overview:** A display showing the whole landscape and the positions of all troops
 
-MobyGames' description, by contrast, says battles are fought "on one of three different terrain maps".[^ref-2] This page follows ACE's contemporary review, which lists the four terrains by name.
+MobyGames' description, by contrast, says battles are fought "on one of three different terrain maps".[^ref-2] This page follows ACE's contemporary review, which lists the four terrains by name; Zero named the same four battlefields: "Open Field, The Bridge, Cliff Defence and Hill Terrain."[^ref-23]
 
 ### Puzzles and Mechanics
 
@@ -87,9 +87,15 @@ UK magazines reviewed the Amiga and Atari ST versions in mid-1991, and most of t
 
 **CU Amiga** (June 1991) gave it 70% in a review by Fiona Keating. She found the graphics basic ("The soldiers are cartoon-style, cuddly characters and representations of the background are fairly basic") but judged that "Cohort is a good place for newcomers to lock horns with war strategy games." She added that "Cohort is not in the same league as other recent Roman war games such as EA's Centurion. The appeal of Cohort lies in it being basic and accessible."[^ref-13][^ref-17]
 
-Other Amiga scores listed by Hall of Light: Zero (issue 20) 85%, Amiga Action (issue 21) 78%, Amiga Power (issue 4) 62%, and the German Amiga Joker 19%.[^ref-13] On the Atari ST, ST Action gave it 70% (June 1991) and ST Format 69% (July 1991).[^ref-19]
+**Zero** (issue 20, June 1991) gave it 85% in a review by Paul Lakin, who compared it with Impressions' earlier Rorke's Drift: "Happily, Cohort is a considerable improvement on the same theme." He judged that "Cohort is very effective and it doesn't take too long to get to grips with the ins and outs of the control system."[^ref-23]
 
-The US response was harsher. A HOTUD review hosted on MyAbandonware and Old-Games.com quotes the wargame critic M. Evan Brooks: "a clumsy interface coupled with mediocre graphics shows why British products are generally not ready for the American market."[^ref-3][^ref-6] Brooks' Pre-20th Century Wargame Survey in Computer Gaming World #107 (June 1993) lists the game and notes that it was released in the United States as Fighting for Rome.[^ref-18] However, the survey's own entry for the game is not legible in the archived text, so this page cannot confirm that the quote comes from that issue.
+**Amiga Action** (issue 21, June 1991) gave it 78%. The reviewer, a table-top wargamer, found the menus "simple to use" but wrote that "Tactically the game is a bit limited. I would have preferred more different types of troops, perhaps some chariots and war machines."[^ref-24]
+
+On the Atari ST, **ST Action** (June 1991) rated it 70%, praising the Roman history booklet but concluding that "there isn't enough to maintain a long lasting appeal."[^ref-25] **ST Format** (issue 24, July 1991) gave it 69%: "Cohort is bound to appeal to the hardcore wargamer because it's completely strategy-based... buy it if wargames are your bag."[^ref-26][^ref-19]
+
+Hall of Light also lists Amiga Power (issue 4) at 62% and the German Amiga Joker at 19%.[^ref-13]
+
+US coverage was cooler. Computer Gaming World's July 1992 "Taking a Peek" column noted that "while gameplay was emphasized over realism, this arcade wargame has its own sort of charm."[^ref-22] M. Evan Brooks, in the August 1993 addendum to his Pre-20th Century Wargame Survey, rated Fighting for Rome two stars: "A clumsy interface coupled with mediocre graphics shows why British products are generally not ready for the American market. Still a detailed game of Roman military tactics; superseded by Cohort II."[^ref-20] The HOTUD review hosted on MyAbandonware and Old-Games.com repeats the quote.[^ref-3][^ref-6] The earlier June 1993 part of Brooks' survey notes that the game was released in the United States as Fighting for Rome.[^ref-18]
 
 ### Modern Assessment
 
@@ -105,11 +111,11 @@ According to MobyGames, 10 of its users have the game in their collections.[^ref
 
 ### Origins
 
-The HOTUD review hosted on MyAbandonware calls Cohort "the fourth offering from Impressions in the 'Micro Miniatures' series." CU Amiga described it as the follow-up to Impressions' Rorke's Drift.[^ref-3][^ref-17] Impressions was a British developer founded by David Lester, who sold it to [[Sierra On-Line]] in 1995, four years after Cohort's release.[^ref-4]
+Impressions' own 1991 advertising called Cohort "the second game in Impressions' unique and extremely popular miniature-style war-game series", with The Charge of the Light Brigade billed as the third.[^ref-26] CU Amiga and ST Format both described it as the follow-up to Impressions' Rorke's Drift.[^ref-17][^ref-26] The HOTUD review hosted on MyAbandonware names the series "Micro Miniatures" but calls Cohort its "fourth offering", which Impressions' own advertising contradicts.[^ref-3][^ref-26] Impressions was a British developer founded by David Lester, who sold it to [[Sierra On-Line]] in 1995, four years after Cohort's release.[^ref-4]
 
 ### Production
 
-The same HOTUD review says that, compared with earlier Micro Miniatures games, Cohort "benefits from sharper graphics and improved AI," and that unit formations and commands "are also given a big overhaul."[^ref-3]
+The same HOTUD review says that, compared with earlier Micro Miniatures games, Cohort "benefits from sharper graphics and improved AI," and that unit formations and commands "are also given a big overhaul."[^ref-3] Impressions' advertising listed the enhancements as "group command functions, sound, multiple scenarios, user-definable armies, and more."[^ref-26]
 
 **Development Credits:**
 - **Game Design:** Edward Grabowski[^ref-19]
@@ -132,9 +138,6 @@ The game combined real-time battles with a pause feature for giving orders.[^ref
 - **Business Model:** Commercial
 - **DOSBox Support:** Version 0.58 and later[^ref-3]
 
-**Amiga Version:**[^ref-3]
-- **File Size:** 242 KB (ROM download)
-
 ### Cut Content
 
 No documented cut content has been identified in available research materials for Cohort: Fighting for Rome.
@@ -147,16 +150,16 @@ No documented cut content has been identified in available research materials fo
 | 1.0 | 1991 | Atari ST | Impressions[^ref-19] |
 | 1.0 | 1991 | DOS | Merit Software (US), titled Fighting for Rome[^ref-2][^ref-3][^ref-18] |
 
-In its June 1991 issue ACE listed Amiga, Atari ST, and IBM PC versions, each at £29.99 and marked "out now".[^ref-16] Atarimania dates the first UK reviews of the Atari ST and Amiga versions to May 1991.[^ref-19] The DOS version was released on both 3.5" and 5.25" floppy disks.[^ref-2]
+In its June 1991 issue ACE listed Amiga, Atari ST, and IBM PC versions, each at £29.99 and marked "out now".[^ref-16] Impressions' own advertising gave the same £29.99 price; Zero, ST Action and ST Format listed it at £24.99.[^ref-23][^ref-25][^ref-26] In the US, Computer Gaming World listed the IBM version from "Impressions c/o Merit Software, Dallas, TX" at $49.95 in July 1992.[^ref-22] Atarimania dates the first UK reviews of the Atari ST and Amiga versions to May 1991.[^ref-19] The DOS version was released on both 3.5" and 5.25" floppy disks.[^ref-2]
 
 ### Technical Issues
 
-M. Evan Brooks, as quoted in the HOTUD review, faulted the game's "clumsy interface" and "mediocre graphics."[^ref-3] CU Amiga likewise found the graphics "fairly basic."[^ref-17]
+M. Evan Brooks faulted the game's "clumsy interface" and "mediocre graphics."[^ref-20] Zero's reviewer found he could "only give precise orders over one screen's-worth of terrain", and was confused that the blue heavy infantry wore red.[^ref-23] CU Amiga likewise found the graphics "fairly basic."[^ref-17]
 
 ### Easter Eggs and Trivia
 
 - MobyGames lists the game under three titles: "Fighting for Rome," "Cohort," and "Cohort: Fighting for Rome."[^ref-2] CGW notes that the US release carried the title Fighting for Rome.[^ref-18]
-- The HOTUD review calls it "the fourth offering from Impressions in the 'Micro Miniatures' series."[^ref-3]
+- The HOTUD review calls it "the fourth offering from Impressions in the 'Micro Miniatures' series," but Impressions' own 1991 advertisement calls it "the second game" in its miniature-style war-game series.[^ref-3][^ref-26]
 - Cohort II was sold as an upgrade to the original: CGW #107 reports that owners of the first release could upgrade for $14.95.[^ref-18]
 
 ## Voice Cast
@@ -236,3 +239,10 @@ The game is also documented on IGDB.[^ref-8]
 [^ref-17]: [CU Amiga, June 1991 – Internet Archive](https://archive.org/details/cu-amiga-1991-06) – Fiona Keating's review of Cohort – Fighting For Rome (p. 81): follow-up to Rorke's Drift, accessible for newcomers, not in Centurion's league
 [^ref-18]: [Computer Gaming World Issue 107, June 1993 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_107) – M. Evan Brooks' Pre-20th Century Wargame Survey: Cohort released in the US as Fighting For Rome; Cohort II upgrade $14.95, interlocks with Caesar
 [^ref-19]: [Atarimania – Cohort - Fighting for Rome (Atari ST)](https://www.atarimania.com/game-atari-st-cohort-fighting-for-rome_8951.html) – Atari ST release by Impressions, game design and programming by Edward Grabowski, specs, ST Action 70% and ST Format 69% reviews
+[^ref-20]: [Computer Gaming World Issue 109, August 1993 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_109) – M. Evan Brooks, "All the Games We Missed" (survey addendum, from p. 128; entry on p. 129): Fighting for Rome, Merit/Impressions, Edward Grabowski, 1991, $49.95, two stars, "superseded by Cohort II"
+[^ref-21]: [Computer Gaming World Issue 86, September 1991 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_86) – Paul Rigby, "Over There" (European games report): Rorke's Drift format, twenty battle variations, 96-unit maximum, 50 cavalry or 100 infantry per figure, £29.99 Amiga/ST
+[^ref-22]: [Computer Gaming World Issue 96, July 1992 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_96) – "Taking a Peek": Cohort from Impressions c/o Merit Software, Dallas; IBM $49.95; "this arcade wargame has its own sort of charm"
+[^ref-23]: [Zero Issue 20, June 1991 – Internet Archive](https://archive.org/details/zero-magazine-20) – Paul Lakin's review (p. 47): four battlefields, £24.99 ST/Amiga, "considerable improvement" on Rorke's Drift, overall 85%
+[^ref-24]: [Amiga Action Issue 21, June 1991 – Internet Archive](https://archive.org/details/Amiga_Action_Issue_21_1991-06_Europress_Interactive_GB) – Review (p. 82): 20 pre-designed scenarios, four terrains, groups of eight, team Grabowski & Von Brakenton, £29.99, overall 78%
+[^ref-25]: [ST Action Issue 38, June 1991 – Internet Archive](https://archive.org/details/st-action-38-1991-06) – Review: troop types, terrain, Roman Empire booklet, £24.99, rating 70%
+[^ref-26]: [ST Format Issue 24, July 1991 – Internet Archive](https://archive.org/details/atari-st-format-issue-024) – Review (p. 72): follow-up to Rorke's Drift, five scenarios, £24.99, 69%; Impressions advertisement (p. 82): "the second game in Impressions' ... miniature-style war-game series", Charge of the Light Brigade "the third", £29.99
