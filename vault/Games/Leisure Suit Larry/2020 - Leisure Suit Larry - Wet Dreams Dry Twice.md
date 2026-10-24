@@ -12,14 +12,14 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-24'
 description: 'Leisure Suit Larry: Wet Dreams Dry Twice is a 2020 point-and-click adventure
   game developed by German studio CrazyBunch and published by Assemble Entertainment.'
 tags: [2020s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Dry Twice
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 24, 2026</small>
 
 ## Overview
 
@@ -121,11 +121,13 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG.com](https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dry_twice)[^ref-20]
-- [Steam](https://store.steampowered.com/app/1373430/Leisure_Suit_Larry__Wet_Dreams_Dry_Twice/)[^ref-45]
+- Formerly sold on GOG.com, until it was removed in October 2026[^ref-20][^ref-65]
+- Formerly sold on [Steam](https://store.steampowered.com/app/1373430/Leisure_Suit_Larry__Wet_Dreams_Dry_Twice/), until October 23, 2026[^ref-45][^ref-66]
 
-> [!note] Steam delisting announced (October 8, 2026)
+> [!note] Delisted from Steam and GOG (October 23, 2026)
 > On October 8, 2026, publisher Assemble Entertainment announced on Steam that *Wet Dreams Don't Dry* and *Wet Dreams Dry Twice* would be sold on Steam only until October 23, 2026, after which both games would be removed from the store. No reason was given, and Assemble said only that "we can't share anything about his future"; the notice does not mention GOG or the console stores.[^ref-62]
+>
+> The removal went ahead as announced. The Steam store pages for both games now state that they are "no longer available on the Steam store",[^ref-66] and Time Extension reported that both were also being withdrawn from GOG.[^ref-65] GOG's store pages for the two games now redirect to its general catalogue.
 
 **Guides and Resources**
 - [PlayStation Trophies Walkthrough](https://www.playstationtrophies.org/game/leisure-suit-larry-dreams-dont-die-twice/guide/)[^ref-39]
@@ -155,7 +157,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-15]: [GameCritics Review](https://gamecritics.com/damiano-gerli/leisure-suit-larry-wet-dreams-dry-twice-review/) – Professional review with 6.5/10 score
 [^ref-17]: [Gematsu Console Announcement](https://www.gematsu.com/2020/11/leisure-suit-larry-wet-dreams-dry-twice-coming-to-ps4-xbox-one-and-switch-in-spring-2021) – Official console port announcement
 [^ref-18]: [Gematsu Release Date](https://www.gematsu.com/2021/04/leisure-suit-larry-wet-dreams-dry-twice-for-ps4-xbox-one-and-switch-launches-may-18) – Console release confirmation
-[^ref-20]: [GOG Store Page](https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dry_twice) – Official store page with user reviews
+[^ref-20]: [GOG Store Page](https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dry_twice) – Official store page with user reviews (store page removed October 2026; the URL now redirects to GOG's catalogue)
 [^ref-22]: [IMDb](https://www.imdb.com/title/tt12909364/) – Cast and crew information
 [^ref-25]: Little Bits of Gaming, "Game Review: Leisure Suit Larry: Wet Dreams Dry Twice" (May 25, 2021) – independent gaming blog review (unlinked: page embeds suggestive screenshots)
 [^ref-26]: [IMDb Trivia](https://m.imdb.com/title/tt12909364/trivia/) – Development insights and Al Lowe exclusion
@@ -178,3 +180,5 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-62]: [Steam News: "Larry Is Retiring Soon" (Assemble Entertainment, October 8, 2026)](https://store.steampowered.com/news/app/1373430/view/1846018067930700) – Announcement that both Wet Dreams games leave Steam after October 23, 2026
 [^ref-63]: [MobyGames – Release Info](https://www.mobygames.com/game/leisure-suit-larry-wet-dreams-dry-twice/release-info) – platforms (incl. Xbox Series), additional design, sound and voice-recording companies
 [^ref-64]: [VGMdb – Leisure Suit Larry: Wet Dreams Dry Twice soundtrack](https://vgmdb.net/album/106511) – composers Tilo Alpermann and Kai Rosenkranz
+[^ref-65]: [Time Extension – 'Get Them Now or Never' - Leisure Suit Larry's Last Releases To Be Delisted From Steam And GoG This Month](https://www.timeextension.com/news/2026/10/get-them-now-or-never-leisure-suit-larrys-last-releases-to-be-delisted-from-steam-and-gog-this-month) – Kris Moyse, October 9, 2026; Assemble Entertainment removing both Wet Dreams games from Steam and GOG on October 23
+[^ref-66]: [Steam Store page (app 1373430)](https://store.steampowered.com/app/1373430/) – checked October 24, 2026: "no longer available on the Steam store"

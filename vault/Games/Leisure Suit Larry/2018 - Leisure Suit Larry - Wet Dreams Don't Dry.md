@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-24'
 description: 'Leisure Suit Larry: Wet Dreams Don''t Dry is the ninth installment in
   the Leisure Suit Larry series, a 2018 point-and-click adventure by CrazyBunch that
   sends Larry Laffer from the late 1980s into the age of smartphones and dating apps.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Don't Dry
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 24, 2026</small>
 
 ## Overview
 
@@ -113,14 +113,16 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 ## Downloads
 
 **Purchase / Digital Stores**
-- Available on [GOG.com](https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dont_dry) for PC and Mac[^ref-36]
-- [Steam](https://store.steampowered.com/app/765870/) for PC platforms[^ref-37]
+- Formerly sold on GOG.com for PC and Mac, until it was removed in October 2026[^ref-36][^ref-54]
+- Formerly sold on [Steam](https://store.steampowered.com/app/765870/) for PC, until October 23, 2026[^ref-37][^ref-55]
 - PlayStation 4 and Nintendo Switch versions (June 13, 2019)[^ref-1]
 - Xbox Store for Xbox One[^ref-38]
 - iOS version (August 7, 2019)[^ref-50]
 
-> [!note] Steam delisting announced (October 8, 2026)
+> [!note] Delisted from Steam and GOG (October 23, 2026)
 > On October 8, 2026, publisher Assemble Entertainment announced on Steam that *Wet Dreams Don't Dry* and *Wet Dreams Dry Twice* would be sold on Steam only until October 23, 2026, after which both games would be removed from the store. No reason was given, and Assemble said only that "we can't share anything about his future"; the notice does not mention GOG or the console stores.[^ref-49]
+>
+> The removal went ahead as announced. The Steam store pages for both games now state that they are "no longer available on the Steam store",[^ref-55] and Time Extension reported that both were also being withdrawn from GOG.[^ref-54] GOG's store pages for the two games now redirect to its general catalogue.
 
 **Preservation**
 - Technical documentation available at [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don%27t_Dry)[^ref-26]
@@ -170,7 +172,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-33]: [Hardcore Gamer Archive](https://web.archive.org/web/20181108121445/https://www.hardcoregamer.com/2018/11/07/leisure-suit-larry-wet-dreams-dont-dry-now-available/317396/) – Franchise revival assessment
 [^ref-34]: [PC Gamer Sequel News](https://www.pcgamer.com/leisure-suit-larry-wet-dreams-dry-twice-delayed-to-october-23/) – Sequel development
 [^ref-35]: [TV Tropes YMMV Page](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/LeisureSuitLarryWetDreamsDontDry) – Fan and critical consensus
-[^ref-36]: [GOG Store Page](https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dont_dry) – Digital distribution availability
+[^ref-36]: [GOG Store Page](https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dont_dry) – Digital distribution availability (store page removed October 2026; the URL now redirects to GOG's catalogue)
 [^ref-37]: [Steam Store Page](https://store.steampowered.com/app/765870/) – Steam availability
 [^ref-38]: [TheXboxHub Console News](https://www.thexboxhub.com/wet-dreams-dont-dry-as-leisure-suit-larry-comes-to-xbox-one/) – Console platform availability
 [^ref-47]: [Indie Game Reviewer](https://indiegamereviewer.com/leisure-suit-larry-wet-dreams-dont-dry-review/) – Independent review perspective
@@ -180,3 +182,5 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-51]: [PC Gamer: "Leisure Suit Larry is about to take his final bow" (Andy Chalk, October 9, 2026)](https://www.pcgamer.com/games/adventure/leisure-suit-larry-is-about-to-take-his-final-bow/) – Retrospective assessment of the game
 [^ref-52]: [Metacritic PS4 Critic Reviews](https://www.metacritic.com/game/leisure-suit-larry-wet-dreams-dont-dry/critic-reviews/?platform=playstation-4) – PS4 Metascore 71
 [^ref-53]: [Metacritic Xbox One Critic Reviews](https://www.metacritic.com/game/leisure-suit-larry-wet-dreams-dont-dry/critic-reviews/?platform=xbox-one) – Xbox One Metascore 72
+[^ref-54]: [Time Extension – 'Get Them Now or Never' - Leisure Suit Larry's Last Releases To Be Delisted From Steam And GoG This Month](https://www.timeextension.com/news/2026/10/get-them-now-or-never-leisure-suit-larrys-last-releases-to-be-delisted-from-steam-and-gog-this-month) – Kris Moyse, October 9, 2026; Assemble Entertainment removing both Wet Dreams games from Steam and GOG on October 23
+[^ref-55]: [Steam Store page (app 765870)](https://store.steampowered.com/app/765870/) – checked October 24, 2026: "no longer available on the Steam store"
