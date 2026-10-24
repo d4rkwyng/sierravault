@@ -10,13 +10,13 @@ series: Standalone
 engine: Custom 3D polygon engine
 protagonist: SA-08 Silpheed pilot
 sierra_lineage: Third-Party Published
-last_updated: '2026-10-14'
+last_updated: '2026-10-24'
 description: Silpheed is a polygon-based vertical scrolling shooter by Game Arts that debuted on the Japanese NEC PC-8801 in 1986 and was published in North America by Sierra On-Line in 1988-1989.
 tags: [1980s, shooter, sierra, standalone]
 ---
 # Silpheed
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 24, 2026</small>
 
 ## Overview
 
@@ -303,7 +303,7 @@ Hardcore Gaming 101 sees a lasting influence in Nintendo's Star Fox, which it sa
 [^ref-21]: [GameFAQs Review by Kuro-chan_101](https://gamefaqs.gamespot.com/pc/579259-silpheed/reviews/157232) – single user review, level count
 [^ref-23]: [MobyGames Ad Blurbs](https://www.mobygames.com/game/167/silpheed/adblurbs/) – ad copy (enemy types) and eShop description
 [^ref-25]: [MobyGames Credits (PC-88)](https://www.mobygames.com/game/167/silpheed/credits/pc88/) – design, music and voice cast credits
-[^ref-27]: [The Spoiler – Silpheed FAQ](https://the-spoiler.com/ACTION/Sierra/silpheed.1.html) – Easter Egg power-up description
+[^ref-27]: [The Spoiler – Silpheed FAQ](https://web.archive.org/web/20190912035220/http://www.the-spoiler.com/ACTION/Sierra/silpheed.1.html) – Easter Egg power-up description
 [^ref-29]: [Amiga Magazine Rack – ACE Review](https://amr.abime.net/review_6922) – ACE issue 24 (September 1989) score 905
 [^ref-30]: [IGN – Silpheed Review (2008)](https://www.ign.com/articles/2008/07/24/silpheed-review) – Travis Fahs's review of the 1993 Sega CD version; comments on the 1986 original
 [^ref-31]: [IMDB – Silpheed](https://www.imdb.com/find/?q=Silpheed&s=tt) – user rating
