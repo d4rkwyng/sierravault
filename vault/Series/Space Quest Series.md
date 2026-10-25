@@ -5,7 +5,7 @@ created_by: "Mark Crowe, Scott Murphy"
 developer: "Sierra On-Line, Dynamix"
 first_release: 1986
 last_release: 1995
-total_games: 7  # six games (1986-1995) plus the 1991 VGA remake of Space Quest I
+total_games: 7
 genre: "Adventure, Comedy"
 last_updated: "2026-10-26"
 ---
