@@ -20,7 +20,7 @@ A strong option for classic Sierra adventures. GOG packages include extras such 
 **Collections** (US prices as of 2026-10-16):
 - [King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3), [4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6), and [7+8](https://www.gog.com/en/game/kings_quest_7_8) — $9.99 each; the 1+2+3 pack "includes the original King's Quest: Quest for the Crown," not the 1990 SCI remake[^ref-1]
 - [Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) and [4+5+6](https://www.gog.com/en/game/space_quest_4_5_6) — $9.99 each; since February 20, 2026 the 1+2+3 pack also includes the 1991 VGA remake of Space Quest 1[^ref-2]
-- [Leisure Suit Larry](https://www.gog.com/en/game/leisure_suit_larry) — $9.99; *Greatest Hits and Misses*, "five complete adventures" (LSL1 in both EGA and VGA versions, 2, 3, 5 and 6 — there is no LSL4)[^ref-3][^ref-5]; [Leisure Suit Larry 7: Love for Sail!](https://www.gog.com/en/game/leisure_suit_larry_love_for_sail) is sold separately ($5.99)[^ref-6]
+- [Leisure Suit Larry](https://www.gog.com/en/game/leisure_suit_larry) — $9.99; *Greatest Hits and Misses*, "five complete adventures" (LSL1 in both EGA and VGA versions, 2, 3, 5 and 6 — there is no LSL4)[^ref-3][^ref-5]; [Leisure Suit Larry 7: Love for Sail!](https://www.gog.com/en/game/leisure_suit_larry_love_for_sail) is sold separately ($5.99)[^ref-6]; so is [Leisure Suit Larry: Magna Cum Laude: Uncut and Uncensored!](https://www.gog.com/en/game/leisure_suit_larry_magna_cum_laude_uncut_and_uncensored) ($5.99, checked 2026-10-26)[^ref-28]
 - [Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) — $9.99; "Includes both: VGA and original version of Quest for Glory 1"[^ref-4]
 - [Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) — $9.99; PQ1–4 with manuals, map, reference cards and avatar as extras[^ref-7]. [Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) is a separate pack[^ref-8]
 - Gabriel Knight — [Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers), [The Beast Within](https://www.gog.com/en/game/gabriel_knight_2_the_beast_within) and [Blood of the Sacred, Blood of the Damned](https://www.gog.com/en/game/gabriel_knight_3_blood_of_the_sacred_blood_of_the_damned) are sold separately ($5.99 each), plus the [20th Anniversary Edition](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers_20th_anniversary_edition) ($19.99)[^ref-9]
@@ -38,7 +38,7 @@ Activision's Sierra catalog on Steam overlaps heavily with GOG's. One notable di
 - [Police Quest Collection](https://store.steampowered.com/app/494740/Police_Quest_Collection/) — PQ1–4, $9.99[^ref-11]
 - [Gabriel Knight: Sins of the Fathers](https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/) — Original 1993 version ($5.99); [20th Anniversary Edition](https://store.steampowered.com/app/262000/Gabriel_Knight_Sins_of_the_Fathers_20th_Anniversary_Edition/) (2014 remake, $19.99) also available; [GK2: The Beast Within](https://store.steampowered.com/app/496760/The_Beast_Within_A_Gabriel_Knight_Mystery/) and [GK3](https://store.steampowered.com/app/497360/Gabriel_Knight_3_Blood_of_the_Sacred_Blood_of_the_Damned/) sold separately ($5.99 each)[^ref-11]
 - [Phantasmagoria](https://store.steampowered.com/app/501990/Phantasmagoria/) ($9.99) and [Phantasmagoria 2](https://store.steampowered.com/app/501970/Phantasmagoria_2_A_Puzzle_of_Flesh/) ($5.99)[^ref-11]
-- **Leisure Suit Larry classics** — Delisted from Steam in 2025; they remain on GOG (LSL 1–3, 5 and 6 pack; LSL7 separately)[^ref-13][^ref-3][^ref-6]
+- **Leisure Suit Larry classics** — Delisted from Steam in 2025; they remain on GOG (LSL 1–3, 5 and 6 pack; LSL7 and Magna Cum Laude: Uncut and Uncensored separately)[^ref-13][^ref-3][^ref-6][^ref-28]
 
 **Caveats:**
 - May require community patches for full functionality
@@ -67,9 +67,9 @@ New titles arrive in irregular batches rather than on a fixed monthly schedule.[
 - *Colossal Cave* (Cygnus Entertainment's 3D remake) — PC, Mac, Linux, Steam Deck, PlayStation 5, Nintendo Switch and Meta Quest 2 at launch (January 19, 2023), later SteamVR, Xbox One/Series X|S, PlayStation 4, PlayStation VR2, Pico VR and iOS[^ref-21]
 - *King's Quest (2015)* — released for Windows, PlayStation 3/4 and Xbox 360/One[^ref-23]; on Steam the base app is free, with further chapters sold as add-on content[^ref-11]
 
-*Leisure Suit Larry: Wet Dreams Dry Twice* was also released on iOS and Android;[^ref-14] Delisted Games marked both mobile versions as already delisted on October 23, 2026.[^ref-24]
+*Leisure Suit Larry: Wet Dreams Dry Twice* was also released on iOS and Android;[^ref-27] Delisted Games marked both mobile versions as already delisted on October 23, 2026.[^ref-24]
 
-**Legacy console editions:** Titles like *Leisure Suit Larry: Magna Cum Laude*, *Box Office Bust*, and the Wii *King's Quest Collection* are out of print. Check backward compatibility before buying used copies.
+**Legacy console editions:** Console releases such as *Leisure Suit Larry: Magna Cum Laude* and *Box Office Bust* are out of print. Check backward compatibility before buying used copies.
 
 ---
 
@@ -92,20 +92,20 @@ Sierra big-box games are actively traded on the resale market. For which boxed e
 GOG and Steam both run seasonal sales that regularly include Sierra titles; discounts vary, so compare against the regular prices above. In October 2026, for example, both stores discounted the Wet Dreams games by 95% in the weeks before they were delisted.[^ref-15]
 
 ### Humble Bundle
-The last Sierra-specific bundle was **Humble Sierra the 3rd**, which ran May 5–19, 2020 (17 items in three tiers, including the Gabriel Knight games, Phantasmagoria 1–2, Arcanum, the Quest for Glory Collection and the King's Quest and Space Quest Collections).[^ref-22]
+The most recent Sierra-specific bundle was **Humble Sierra the 3rd**, which ran May 5–19, 2020 (17 items in three tiers, including the Gabriel Knight games, Phantasmagoria 1–2, Arcanum, the Quest for Glory Collection and the King's Quest and Space Quest Collections).[^ref-22]
 
 ---
 
 ## Free & Fan-Made
 
-**Official Freeware:** None of the major Sierra adventures is currently offered free by its rights holder. *Betrayal at Krondor* is sold on GOG as the Betrayal at Krondor Pack ($5.99).[^ref-10]
+**Official Freeware:** None of the classic Sierra adventures is currently offered free by its rights holder. *Betrayal at Krondor* is sold on GOG as the Betrayal at Krondor Pack ($5.99).[^ref-10]
 
 **Fan Remakes (Free Downloads):**
 - **AGD Interactive** — King's Quest I VGA, King's Quest II+, Quest for Glory II VGA
 - **Infamous Adventures** — King's Quest III, Space Quest II VGA
 - **Phoenix Online** — The Silver Lining (King's Quest fan sequel)
 
-See [[Fan Resources]] for download links and project status.
+See [[Fan Remake Projects]] for per-remake download links and project status, and [[Fan Resources]] for the wider fan community.
 
 ---
 
@@ -151,7 +151,7 @@ Some storefront titles are not sold in every country. Check storefront availabil
 [^ref-11]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – "Seven classic games in one collection"; Steam store data checked 2026-10-16 for the Space Quest, QFG, Police Quest, Gabriel Knight, Phantasmagoria, King's Quest (2015) and modern-title pages listed above
 [^ref-12]: [GameZebo – King's Quest I review (Wayback, 2013)](http://web.archive.org/web/20131113034647/http://www.gamezebo.com:80/games/kings-quest-i-quest-crown/review) – "The version of King's Quest included in the King's Quest Collection is an updated version from 1990"
 [^ref-13]: [VGC – The first seven Leisure Suit Larry games are being delisted from Steam](https://www.videogameschronicle.com/news/the-first-seven-leisure-suit-larry-games-are-being-delisted-from-steam/) – Chris Scullion, 1 May 2025
-[^ref-14]: [Steam – "Larry Is Retiring Soon" (Assemble Entertainment announcement)](https://store.steampowered.com/news/app/765870/view/1846018067930701) – "will only be available on Steam until October 23. After that, both games will be removed from the store."; Steam news also announced Dry Twice's iOS and Android release
+[^ref-14]: [Steam – "Larry Is Retiring Soon" (Assemble Entertainment announcement)](https://store.steampowered.com/news/app/765870/view/1846018067930701) – "will only be available on Steam until October 23. After that, both games will be removed from the store."
 [^ref-15]: [VGC – After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them](https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/) – 95% discount on Steam, GOG and Switch; earlier games "remained on GOG and are still there"
 [^ref-16]: [IGN – Microsoft Announces Retro Classics With Game Pass](https://www.ign.com/articles/microsoft-announces-retro-classics-with-game-pass-kicks-things-off-with-over-50-activision-games-from-the-80s-and-90s) – Wesley Yin-Poole, May 21, 2025: collaboration with Antstream Arcade; launch list
 [^ref-17]: [Multiplayer.it – Retro Classics adds 7 games](https://multiplayer.it/notizie/la-libreria-di-retro-classics-per-game-pass-si-arricchisce-di-7-giochi.html) – Caesar, Conquests of Camelot, Gabriel Knight: Sins of the Fathers among the additions
@@ -164,3 +164,5 @@ Some storefront titles are not sold in every country. Check storefront availabil
 [^ref-24]: [Delisted Games – The last two Leisure Suit Larry games are being delisted on October 23rd](https://delistedgames.com/the-last-two-leisure-suit-larry-games-are-being-delisted-on-october-23rd/) – update of October 23, 2026: "GOG has confirmed that the games will be leaving their storefront today as well at 5pm EST"; Android and iOS links struck through as already delisted
 [^ref-25]: [Time Extension – 'Get Them Now or Never' - Leisure Suit Larry's Last Releases To Be Delisted From Steam And GoG This Month](https://www.timeextension.com/news/2026/10/get-them-now-or-never-leisure-suit-larrys-last-releases-to-be-delisted-from-steam-and-gog-this-month) – Kris Moyse, October 9, 2026; both games "will be delisted later this month from Steam and GoG"
 [^ref-26]: [Steam – Wet Dreams Don't Dry (app 765870)](https://store.steampowered.com/app/765870/) and [Wet Dreams Dry Twice (app 1373430)](https://store.steampowered.com/app/1373430/) – checked October 26, 2026: "no longer available on the Steam store"
+[^ref-27]: [Steam – "Is That a Phone in your Pocket? Wet Dreams Dry Twice available on iOS & Android!"](https://store.steampowered.com/news/app/1373430/view/4237325463688992580) – Assemble Entertainment announcement of the iOS and Android release (title and gid confirmed via the Steam news API, 2026-10-26)
+[^ref-28]: [GOG – Leisure Suit Larry: Magna Cum Laude: Uncut and Uncensored!](https://www.gog.com/en/game/leisure_suit_larry_magna_cum_laude_uncut_and_uncensored) – live store page; US base price $5.99 (GOG price API, checked 2026-10-26)

@@ -1,6 +1,6 @@
 ---
 title: "News & Updates"
-updated: "2026-10-16"
+updated: "2026-10-26"
 cssclass: news-page
 ---
 # 📰 News & Updates
@@ -15,6 +15,8 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > **October 8, 2026** — Publisher Assemble Entertainment announced that [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Wet Dreams Don't Dry]] and [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|Wet Dreams Dry Twice]] will be sold on Steam **only until October 23, 2026**, after which both will be removed from the store. No reason was given ("we can't share anything about his future"), and the notice mentions Steam only. The classic titles — LSL 1, 2, 3, 5, 6, 7 and Magna Cum Laude — already left Steam after Assemble's earlier **April 30, 2025** announcement; existing owners kept them.
 >
 > [Steam announcement (Oct 8, 2026)](https://store.steampowered.com/news/app/765870/view/1846018067930701) · [Earlier classic-titles notice (Apr 30, 2025)](https://store.steampowered.com/news/app/763970/view/1798454487579791)
+>
+> **Update, October 23, 2026** — Both games were removed from Steam and GOG on October 23; GOG confirmed it would remove them that day as well. — [Delisted Games (Oct 23 update)](https://delistedgames.com/the-last-two-leisure-suit-larry-games-are-being-delisted-on-october-23rd/) · Steam: [Don't Dry](https://store.steampowered.com/app/765870/), [Dry Twice](https://store.steampowered.com/app/1373430/) ("no longer available on the Steam store")
 
 > [!example] October 2026
 > - **Oct 11** — ScummVM 2026.4.0 "Never-slop" released on the project's 25th anniversary; no Sierra titles among its newly supported games — [Announcement](https://www.scummvm.org/news/20261011/)
