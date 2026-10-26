@@ -7,12 +7,12 @@ first_release: 1987
 last_release: 1993
 total_games: 5
 genre: "Adventure, Simulation"
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 ---
 
 # Police Quest Series
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -30,11 +30,15 @@ Police Quest asks players to follow real police procedure. In the first game, "y
 | 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest I VGA]] | SCI1.1 | Jim Walls (original game); producer [[Tammy Dargan]][^ref-8] |
 | 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | SCI2 | [[Tammy Dargan]] (credited author: [[Daryl Gates\|Daryl F. Gates]])[^ref-9] |
 
-*The adventure games were discontinued after the fourth game, but Sierra continued to publish "police simulators" under the SWAT brand.[^ref-1] See the SWAT Spinoff section below.*
+*The adventure games were discontinued after the fourth game, but Sierra continued to publish "police simulators" under the SWAT brand.[^ref-1] (The 1992 VGA remake of the first game is the fifth entry in the table above.) See the SWAT Spinoff section below.*
+
+**Compilations:** *Daryl F. Gates' Police Quest Collection: The 4 Most Wanted* (1995),[^ref-27] *Police Quest: Collection Series* (1997)[^ref-28] and the Windows *Police Quest Collection* (2006).[^ref-29] See the [[Collections Guide]].
+
+**Spiritual successors:** Walls designed [[1993 - Blue Force|Blue Force]] (1993) for Tsunami Games,[^ref-25] and in 2013 launched a Kickstarter for *[[CXL - Precinct (2013)|Precinct]]*, billed as "from the creators of 'Police Quest'", which he cancelled on August 6, 2013.[^ref-26] See the [[Spiritual Successors Catalog]].
 
 ## Jim Walls' Background
 
-[[Jim Walls]] graduated from the California Highway Patrol academy in December 1971. In January 1984 he was involved in a shootout during a traffic stop, and in 1985 he was placed on administrative leave; he retired in 1986, which Wikipedia describes as "after 15 years of service".[^ref-5] (His own count differs; see [[Jim Walls]].) While on leave in 1985, his then-wife Donna introduced him to Ken Williams.[^ref-5]
+[[Jim Walls]] graduated from the California Highway Patrol academy in December 1971. In January 1984 he was involved in a shootout during a traffic stop, and in 1985 he was placed on administrative leave; he retired in 1986, which Wikipedia describes as "after 15 years of service".[^ref-5] COMPUTE! in March 1989 likewise called him "a 15-year veteran of the California Highway Patrol".[^ref-23] While on leave in 1985, his then-wife Donna introduced him to Ken Williams.[^ref-5]
 
 According to Wikipedia, Williams asked Walls to condense his CHP experiences into a short story, then to expand it; the story developed into the plot of the first Police Quest.[^ref-5]
 
@@ -52,7 +56,7 @@ Sierra's InterAction magazine listed the procedures PQ1 covers: "how to handle f
 
 ## The Gates Transition
 
-[[Jim Walls]] left Sierra after Police Quest III.[^ref-10] Police Quest: Open Season (1993) carried former Los Angeles Police Chief [[Daryl Gates|Daryl F. Gates]]'s name, but he was credited as author; [[Tammy Dargan]] is credited as designer, writer, producer and director.[^ref-9] VICE describes the game as "chiefly written and designed by Tammy Dargan", with Gates giving her script notes.[^ref-10]
+[[Jim Walls]] left Sierra after Police Quest III.[^ref-10] Police Quest: Open Season (1993) carried former Los Angeles Police Chief [[Daryl Gates|Daryl F. Gates]]'s name and credited him as author; [[Tammy Dargan]] is credited as designer, writer, producer and director.[^ref-9] VICE describes the game as "chiefly written and designed by Tammy Dargan", with Gates giving her script notes.[^ref-10]
 
 ### Changes in Open Season
 - New protagonist, LAPD homicide detective John Carey, replacing Sonny Bonds[^ref-17]
@@ -69,8 +73,8 @@ MobyGames calls SWAT "more a brand name than a series per se, as they started as
 - [[1998 - Police Quest - SWAT 2\|SWAT 2]] (1998) - Real-time tactics, Windows[^ref-7]
 - [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3]] (1999) - First-person tactical shooter[^ref-7]
 - [[2003 - SWAT - Global Strike Team\|SWAT: Global Strike Team]] (2003) - Xbox and PlayStation 2[^ref-7]
-- [[2005 - SWAT 4\|SWAT 4]] (2005) - Developed by Irrational Games
-- [[2006 - SWAT 4 - The Stetchkov Syndicate\|SWAT 4: The Stetchkov Syndicate]] (2006) - SWAT 4 add-on[^ref-7]
+- [[2005 - SWAT 4\|SWAT 4]] (2005) - Developed by Irrational Games[^ref-24]
+- [[2006 - SWAT 4 - The Stetchkov Syndicate\|SWAT 4: The Stetchkov Syndicate]] (2006) - SWAT 4 add-on, released February 2006[^ref-24]
 - [[2006 - SWAT Force\|SWAT Force]] (2006) - Mobile 2D side-scroller[^ref-22]
 - [[2007 - SWAT - Target Liberty\|SWAT: Target Liberty]] (2007) - PSP[^ref-7]
 - [[CXL - SWAT - Urban Justice\|SWAT: Urban Justice]] - Cancelled
@@ -99,7 +103,7 @@ MobyGames calls SWAT "more a brand name than a series per se, as they started as
 ## Legacy
 
 ### Training Applications
-The series' best-known legacy is its reported use in law enforcement training.[^ref-2] Sierra's own InterAction magazine (Winter 1992), promoting the VGA re-release, said the game had been "used as a training tool by law enforcement agencies across the country" and "has proven to be a practical, effective training tool officers enjoy using. It safely demonstrates to rookies the consequences of failing to observe proper procedures".[^ref-6] Wikipedia credits the article to Rich DeBaun; the scanned issue shows no byline on it.[^ref-2][^ref-6]
+The series' best-known legacy is its reported use in law enforcement training.[^ref-2] Sierra's own InterAction magazine (Winter 1992), promoting the VGA re-release, said the game had been "used as a training tool by law enforcement agencies across the country", and quoted one view that the "fun little computer game has proven to be a practical, effective training tool officers enjoy using. It safely demonstrates to rookies the consequences of failing to observe proper procedures".[^ref-6] Wikipedia credits the article to Rich DeBaun; the scanned issue shows no byline on it.[^ref-2][^ref-6] Earlier, in March 1989, COMPUTE! reported that "some police agencies have inquired about using the series to train police officers."[^ref-23]
 
 ### Industry Impact
 - Sierra continued the brand as the SWAT "police simulator" line after Open Season[^ref-1][^ref-7]
@@ -114,6 +118,7 @@ The series' best-known legacy is its reported use in law enforcement training.[^
 | Police Quest: SWAT 1+2 | [GOG](https://www.gog.com/en/game/police_quest_swat_1_2) |
 | SWAT 3 | [GOG](https://www.gog.com/game/swat_3_tactical_game_of_the_year_edition) |
 | SWAT 4 Gold | [GOG](https://www.gog.com/game/swat_4_gold_edition) |
+| Police Quest Collection | [Steam](https://store.steampowered.com/app/494740/)[^ref-30] |
 
 > [!tip] Buying Notes
 > - **Police Quest Collection** - GOG's February 2026 update switched PQ1–4 from DOSBox to ScummVM and added an option to play the EGA version of PQ3[^ref-19]
@@ -159,3 +164,11 @@ The series' best-known legacy is its reported use in law enforcement training.[^
 [^ref-20]: [GOG – Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) – Pack contents, Windows requirements
 [^ref-21]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – agi:pq1, sci:pq1sci, pq2, pq3, pq4, pqswat
 [^ref-22]: [GameSpot – SWAT Force Review (March 20, 2006)](https://www.gamespot.com/reviews/swat-force-review/1900-6146233/) – Mobile "2D side-scroller"
+[^ref-23]: [COMPUTE! #106 (March 1989), p. 6 – "News and Notes: Is It Live or Is It Memorex?"](https://www.atarimagazines.com/compute/issue106/news_notes_memorex.php) – Heidi E. H. Aycock; Walls "a 15-year veteran of the California Highway Patrol"; police agencies "inquired about using the series to train police officers"
+[^ref-24]: [Wikipedia – SWAT 4](https://en.wikipedia.org/wiki/SWAT_4) – Developed by Irrational Games; The Stetchkov Syndicate released February 28, 2006 (NA) and March 10, 2006 (EU)
+[^ref-25]: [Wikipedia – Blue Force](https://en.wikipedia.org/wiki/Blue_Force) – 1993 MS-DOS adventure developed and published by Tsunami Games, designed by Jim Walls
+[^ref-26]: [Kickstarter – Precinct (Wayback, 2013-08-15)](http://web.archive.org/web/20130815171335/http://www.kickstarter.com/projects/precinctgame/precinct) – "Precinct - from the creators of 'Police Quest' (Canceled) by Jim Walls"; canceled August 6; $85,756 of $500,000
+[^ref-27]: [MobyGames – Daryl F. Gates' Police Quest Collection: The 4 Most Wanted](https://www.mobygames.com/game/40486/daryl-f-gates-police-quest-collection-the-4-most-wanted/) – 1995, DOS and Windows 3.x (read via the MobyGames API)
+[^ref-28]: [MobyGames – Police Quest: Collection Series](https://www.mobygames.com/game/1869/police-quest-collection-series/) – 1997, DOS and Windows (read via the MobyGames API)
+[^ref-29]: [MobyGames – Police Quest Collection (2006)](https://www.mobygames.com/game/27942/police-quest-collection/) – Windows, September 15, 2006 (read via the MobyGames API)
+[^ref-30]: [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) – Store page live 2026-10-26
