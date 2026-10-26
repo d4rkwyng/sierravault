@@ -7,12 +7,12 @@ first_release: 1988
 last_release: 1989
 total_games: 2
 genre: "Adventure, Science Fiction"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 
 # Manhunter Series
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -71,7 +71,7 @@ The Murrys set out to make Manhunter look "as different from the standard Sierra
 
 ## Legacy
 
-Neither game is sold digitally; Manhunter: New York appears only as a fan-request entry on the GOG Dreamlist.[^ref-10] ScummVM supports both titles through its AGI engine, rating each "Good".[^ref-15]
+Neither game is sold digitally; both appear only as fan-request entries on the GOG Dreamlist.[^ref-10][^ref-19] ScummVM supports both titles through its AGI engine, rating each "Good".[^ref-15]
 
 ## See Also
 
@@ -91,13 +91,14 @@ Neither game is sold digitally; Manhunter: New York appears only as a fan-reques
 [^ref-6]: [Wikipedia — Manhunter 2: San Francisco](https://en.wikipedia.org/wiki/Manhunter_2:_San_Francisco) — Sequel overview, ending, CVG 61%
 [^ref-7]: [Adventure Classic Gaming — Manhunter 2: San Francisco review](https://web.archive.org/web/20130508065520/http://www.adventureclassicgaming.com/index.php/site/reviews/183/) (archived) — 3 of 5; fewer arcade sequences
 [^ref-8]: [Games Domain — Interview with Evryware (Part 1), Orchun Kolcu, 1 June 1997 (Wayback)](https://web.archive.org/web/20020213224051/http://www.gamesdomain.com/gdreview/depart/jun97/evryware.html) — The Murrys on Manhunter's design, tone, Sierra's role, sales over 100,000 each
-[^ref-9]: [Hardcore Gaming 101 — Manhunter: New York](https://www.hardcoregaming101.net/manhunter-new-york/) — Landmarks investigated
+[^ref-9]: [Hardcore Gaming 101 — Manhunter: New York (Wayback, 2026-05-14)](https://web.archive.org/web/20260514125210/https://www.hardcoregaming101.net/manhunter-new-york/) — Landmarks investigated
 [^ref-10]: [GOG Dreamlist — Manhunter: New York](https://www.gog.com/dreamlist/game/manhunter-new-york) — Community request entry (not for sale)
 [^ref-11]: [MobyGames — Evryware, Inc. (Wayback, 2025-04-22)](https://web.archive.org/web/20250422234802/https://www.mobygames.com/company/16/evryware-inc/) — Developer profile (Moby ID 16), founded by Dave and Barry Murry
 [^ref-12]: [Larry Laffer Dot Net — Manhunter History](http://larrylaffer.net/non-lsl-games/the-manhunter-shrine/manhunter-history) — Evryware–Sierra association ended 1989; Manhunter 3: London never reached production
 [^ref-13]: [Computer Gaming World #64 (October 1989) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_64) — Adventure Game of the Year nominees ("Manhunter: New York, Dave and Barry Murry (designers)") and winner Neuromancer; Scorpia's Manhunter 2 review
 [^ref-14]: [ScummVM — AGI detection tables](https://github.com/scummvm/scummvm/blob/master/engines/agi/detection_tables.h) — Manhunter NY PC 1.22 "[AGI 3.002.102 or 3.002.107]"; Manhunter SF PC 3.02 "[AGI 3.002.149]"
 [^ref-15]: [ScummVM — Compatibility](https://www.scummvm.org/compatibility/) — agi:mh1 and agi:mh2 "Good"
-[^ref-16]: [Hardcore Gaming 101 — Manhunter 2: San Francisco](https://www.hardcoregaming101.net/manhunter-2-san-francisco/) — Posters tease "a third installment called Manhunter: London"
+[^ref-16]: [Hardcore Gaming 101 — Manhunter 2: San Francisco (Wayback, 2026-04-30)](https://web.archive.org/web/20260430210813/https://www.hardcoregaming101.net/manhunter-2-san-francisco/) — Posters tease "a third installment called Manhunter: London"
 [^ref-17]: [MobyGames — Manhunter 2: San Francisco](https://www.mobygames.com/game/25/manhunter-2-san-francisco/) — Picks up "immediately"; crash-landing; Bay Area landmarks' "alien makeovers"
 [^ref-18]: [Manhunter: New York manual – Internet Archive](https://archive.org/details/Manhunter_-_New_York_-_Manual) — "Official … by The Order of the Orb Alliance"; MAD description
+[^ref-19]: [GOG Dreamlist — Manhunter 2: San Francisco](https://www.gog.com/dreamlist/game/manhunter-2-san-francisco) — Community request entry (not for sale)
