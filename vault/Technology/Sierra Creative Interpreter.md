@@ -3,12 +3,12 @@ title: "Sierra Creative Interpreter (SCI)"
 type: technology
 developer: "Sierra On-Line"
 years_active: "1988-1996"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 
 # Sierra Creative Interpreter (SCI)
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -224,7 +224,7 @@ The SCI engine has been extensively reverse-engineered by the FreeSCI and ScummV
 
 - [[Adventure Game Interpreter]] — AGI predecessor
 - [[Engine History]] — Sierra's engine generations
-- [[Versions]] — Per-title interpreter version data
+- [[Versions|GOG and compilation version tables (2015 SCG snapshot)]]
 - [[ScummVM]] — Modern SCI interpreter
 - [[King's Quest Series]] — Flagship SCI series
 - [[Quest for Glory Series]] — RPG-adventure hybrid

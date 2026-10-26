@@ -14,7 +14,7 @@ tags: [reference, engines, technology, agi, sci, sci32]
 
 Sierra On-Line developed and maintained a progression of in-house adventure-game engines between 1980 and 1996 — ADL for the Hi-Res Adventures, AGI, and the Sierra Creative Interpreter (SCI) in its SCI0, SCI1, SCI1.1, SCI2, SCI2.1 and SCI3 versions — plus engines used by acquired and partner studios (Dynamix's 3Space, Impressions' 2D city-builder engine, Coktel's adventure engine and others). This page traces the version history with release-year boundaries, the games that defined each generation, and what each generation added.
 
-For per-title interpreter version numbers, see [[Versions|Sierra Game Versions]], which transcribes the Sierra Classic Gaming wiki's version tables and cross-checks them against the ScummVM version list.[^ref-20] The `engine:` YAML field on game pages is a quick guide, but where it disagrees with the version list, the version list is the better source.
+For GOG and compilation build numbers, see [[Versions|GOG and compilation version tables (2015 SCG snapshot)]], which transcribes the Sierra Classic Gaming wiki's version tables and cross-checks them against the ScummVM version list.[^ref-20] The `engine:` YAML field on game pages is a quick guide, but where it disagrees with the version list, the version list is the better source.
 
 ---
 
@@ -190,7 +190,7 @@ Modern preservation depends on projects re-implementing these engines:
 - [[Adventure Game Interpreter|AGI engine deep-dive]]
 - [[Sierra Creative Interpreter|SCI engine deep-dive]]
 - [[ScummVM|ScummVM]] — Modern re-implementation
-- [[Versions|Sierra Game Versions]] — Per-title interpreter version numbers
+- [[Versions|GOG and compilation version tables (2015 SCG snapshot)]]
 - [[Engine Index]] — Per-game engine list
 - [[Timeline 1980-1999|Timeline 1980–1999]] — Engine-launch context
 - [[Jeff Stephenson]] — Chief SCI architect

@@ -1,10 +1,10 @@
 ---
 title: "Site Index"
-last_updated: "2026-10-19"
+last_updated: "2026-10-26"
 ---
 # Site Index
 
-<small style="color: gray">Last updated: October 19, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Vault Navigation
 
@@ -24,7 +24,7 @@ Long-form research aids — timelines, bibliographies, indexes, corporate histor
 - [[Studio Map]] — Every internal/acquired/partner/alumni/fan studio
 - [[Timeline 1980-1999]] — Year-by-year independent-era chronology
 - [[Timeline 2000-present]] — Post-acquisition era through current state
-- [[Versions]] — Per-title interpreter version data
+- [[Versions|GOG and compilation version tables (2015 SCG snapshot)]]
 - [[Voice Cast Index]] — Multi-credit voice actors cross-referenced
 
 ### Technology shelf

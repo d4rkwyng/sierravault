@@ -1,14 +1,14 @@
 ---
 title: "Sierra Game Versions"
 type: reference
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 description: "Game-version and interpreter-build matrices for Sierra adventure games as sold on GOG.com and in Sierra's 1994–2006 compilation discs, transcribed from a 2015 Sierra Classic Gaming wiki snapshot and checked against ScummVM's file data."
 tags: [reference, versions, agi, sci, collections]
 ---
 
 # Sierra Game Versions
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 This note captures the version matrices compiled on the Sierra Classic Gaming (SCG) Wiki page "Sierra Game Versions", last modified in June 2015 and preserved in a 2019 Wayback Machine copy.[^ref-1] All release numbers, interpreter builds, and dates retain the source's formatting except where marked. Values were cross-checked against the ScummVM wiki's Sierra Game Versions list[^ref-2] and ScummVM's SCI detection tables, which record the VERSION files and executable build dates of specific copies, including several GOG releases.[^ref-3] Where those sources disagree with SCG, the correction is noted.
 
@@ -22,100 +22,100 @@ The GOG.com tables describe GOG's builds as of the 2015 snapshot. GOG has update
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
-| Gabriel Knight 1[^ref-5] | 01.100.000 | SCI 2.000.000 | 01/10/94 |
-| Gabriel Knight 2[^ref-6] | 1.1 | SCI 2.100.002 | 12/07/95 |
-| Gabriel Knight 3[^ref-7] | 1.0 | Custom G-Engine | 10/13/99 |
+| [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight 1]][^ref-5] | 01.100.000 | SCI 2.000.000 | 01/10/94 |
+| [[1995 - The Beast Within - A Gabriel Knight Mystery\|Gabriel Knight 2]][^ref-6] | 1.1 | SCI 2.100.002 | 12/07/95 |
+| [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned\|Gabriel Knight 3]][^ref-7] | 1.0 | Custom G-Engine | 10/13/99 |
 
 ### King’s Quest 1–3 Pack[^ref-8]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
-| King’s Quest 1 (AGI) | 2.0F | AGI 2.917 | — |
-| King’s Quest 2 | 2.1 | AGI 2.411 | 04/10/87 |
-| King’s Quest 3 | 2.14 | AGI 2.936 | 03/15/88 |
+| [[1984 - King's Quest - Quest for the Crown\|King’s Quest 1]] (AGI) | 2.0F | AGI 2.917 | — |
+| [[1985 - King's Quest II - Romancing the Throne\|King’s Quest 2]] | 2.1 | AGI 2.411 | 04/10/87 |
+| [[1986 - King's Quest III - To Heir Is Human\|King’s Quest 3]] | 2.14 | AGI 2.936 | 03/15/88 |
 
 ### King’s Quest 4–6 Pack[^ref-9]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
-| King’s Quest 4 (SCI) | 1.006.004 | SCI 0.000.502 | 08/07/89 |
-| King’s Quest 5 | 1.000.052 | SCI x.yyy.zzz | — |
-| King’s Quest 6 | 1.034 (1.000.00G) | SCI 1.cfs.158 | 03/25/93 (09/11/94) |
-| King’s Quest 6 (Win) | 1.034 (1.000.00G) | SCI 1.001.069[^ref-2] | 03/19/93 (09/11/94) |
+| [[1988 - King's Quest IV - The Perils of Rosella\|King’s Quest 4]] (SCI) | 1.006.004 | SCI 0.000.502 | 08/07/89 |
+| [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King’s Quest 5]] | 1.000.052 | SCI x.yyy.zzz | — |
+| [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King’s Quest 6]] | 1.034 (1.000.00G) | SCI 1.cfs.158 | 03/25/93 (09/11/94) |
+| [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King’s Quest 6]] (Win) | 1.034 (1.000.00G) | SCI 1.001.069[^ref-2] | 03/19/93 (09/11/94) |
 
 ### King’s Quest 7+8 Pack[^ref-10]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
-| King’s Quest 7 | 2.00b | SCI 2.100.002 | 05/24/95 |
-| King’s Quest 8 | 1.3 (SCG only; not confirmed elsewhere) | N/A | — |
+| [[1994 - King's Quest VII - The Princeless Bride\|King’s Quest 7]] | 2.00b | SCI 2.100.002 | 05/24/95 |
+| [[1998 - King's Quest - Mask of Eternity\|King’s Quest 8]] | 1.3 (SCG only; not confirmed elsewhere) | N/A | — |
 
 ### Leisure Suit Larry Anthology[^ref-11]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
-| Leisure Suit Larry 1 (AGI) | 1.00 | AGI 2.440 | 06/01/87 |
-| Leisure Suit Larry 1 (SCI) | 2.0 | SCI 1.000.510 | 06/26/91 |
-| Leisure Suit Larry 2 | 1.002.000 | SCI 0.000.409 | 01/11/89 |
-| Leisure Suit Larry 3 | 1.021 | SCI 0.000.572 | 01/27/90 |
-| Leisure Suit Larry 5 | 1.000 | SCI T.A00.169 | 09/11/91 |
-| Leisure Suit Larry 6 (CD) | 1.000.000 | SCI 1.001.115 | 06/01/94 |
-| Leisure Suit Larry 6 (HiRes) | 1.000.000 | SCI 2.100.002 | 05/20/94 |
+| [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry 1]] (AGI) | 1.00 | AGI 2.440 | 06/01/87 |
+| [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1]] (SCI) | 2.0 | SCI 1.000.510 | 06/26/91 |
+| [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry 2]] | 1.002.000 | SCI 0.000.409 | 01/11/89 |
+| [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry 3]] | 1.021 | SCI 0.000.572 | 01/27/90 |
+| [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] | 1.000 | SCI T.A00.169 | 09/11/91 |
+| [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6]] (CD) | 1.000.000 | SCI 1.001.115 | 06/01/94 |
+| [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6]] (HiRes) | 1.000.000 | SCI 2.100.002 | 05/20/94 |
 
 ### Leisure Suit Larry: Love for Sail![^ref-12]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
-| Leisure Suit Larry 7 (Windows) | 1.01 | SCI 3.000.000 | 11/08/96 |
+| [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7]] (Windows) | 1.01 | SCI 3.000.000 | 11/08/96 |
 
 ### Phantasmagoria
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
-| Phantasmagoria[^ref-13] | 1.000.001UK | SCI 2.100.002 | 09/19/95 |
-| Phantasmagoria 2[^ref-15] | 001.0.06 | SCI 3.000.000 | 12/07/96 |
+| [[1995 - Phantasmagoria\|Phantasmagoria]][^ref-13] | 1.000.001UK | SCI 2.100.002 | 09/19/95 |
+| [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria 2]][^ref-15] | 001.0.06 | SCI 3.000.000 | 12/07/96 |
 
 ### Police Quest Collections on GOG[^ref-14][^ref-16]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
-| Police Quest 1 (AGI) | 2.0G | AGI 2.917 | 12/03/87 |
-| Police Quest 1 (SCI) | 2.000 | SCI 1.001.029 | 06/01/92 |
-| Police Quest 2 | 1.002.011 | SCI 0.000.490 | — |
-| Police Quest 3 | 1.00 | SCI T.A00.178 | — |
-| Police Quest 4 (CD) | 1.100.000 | SCI 2.100.002 | 06/23/94 |
-| Police Quest SWAT | 1.0c | SCI 2.100.002 | 11/21/95 |
-| Police Quest SWAT 2 | 1.0 | N/A | 06/05/97 |
+| [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest 1]] (AGI) | 2.0G | AGI 2.917 | 12/03/87 |
+| [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest 1]] (SCI) | 2.000 | SCI 1.001.029 | 06/01/92 |
+| [[1988 - Police Quest II - The Vengeance\|Police Quest 2]] | 1.002.011 | SCI 0.000.490 | — |
+| [[1991 - Police Quest III - The Kindred\|Police Quest 3]] | 1.00 | SCI T.A00.178 | — |
+| [[1993 - Police Quest - Open Season\|Police Quest 4]] (CD) | 1.100.000 | SCI 2.100.002 | 06/23/94 |
+| [[1995 - Police Quest - SWAT\|Police Quest SWAT]] | 1.0c | SCI 2.100.002 | 11/21/95 |
+| [[1998 - Police Quest - SWAT 2\|Police Quest SWAT 2]] | 1.0 | N/A | 06/05/97 |
 
 ### Quest for Glory 1–5[^ref-17]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
-| Quest for Glory 1 (EGA) | 1.200 | SCI 0.000.629 | — |
-| Quest for Glory 1 (VGA) | 2.000 | SCI L.rry.021 | 07/30/92 |
-| Quest for Glory 2 | 1.102 | SCI 1.000.072 | — |
-| Quest for Glory 3 | 1.1 | SCI 1.001.050 | 11/09/92 |
-| Quest for Glory 4 (CD) | 1.0 | SCI 2.100.002 | 09/17/94 |
-| Quest for Glory 5 | 1.1.0.0 (SCG only; not confirmed elsewhere) | — | — |
+| [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory 1]] (EGA) | 1.200 | SCI 0.000.629 | — |
+| [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory 1]] (VGA) | 2.000 | SCI L.rry.021 | 07/30/92 |
+| [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory 2]] | 1.102 | SCI 1.000.072 | — |
+| [[1992 - Quest for Glory III - Wages of War\|Quest for Glory 3]] | 1.1 | SCI 1.001.050 | 11/09/92 |
+| [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory 4]] (CD) | 1.0 | SCI 2.100.002 | 09/17/94 |
+| [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory 5]] | 1.1.0.0 (SCG only; not confirmed elsewhere) | — | — |
 
 ### Space Quest Packs[^ref-4][^ref-18]
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
-| Space Quest 1 (AGI) | 2.2 | AGI 2.917 | — |
-| Space Quest 1 (SCI) | Not in the 2015 listing; added by GOG on 20 February 2026 (build not checked)[^ref-4] | — | — |
-| Space Quest 2 | 2.0F | AGI 2.936 | — |
-| Space Quest 3 | 1.018 | SCI 0.000.685 | — |
-| Space Quest 4 | 1.0 | SCI 1.001.064 | 12/08/92 |
-| Space Quest 5 | 1.04 | SCI 1.001.068 | 01/05/93 |
-| Space Quest 6 | 1.0 | SCI 2.100.002 | 05/24/95 |
+| [[1986 - Space Quest - The Sarien Encounter\|Space Quest 1]] (AGI) | 2.2 | AGI 2.917 | — |
+| [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest 1]] (SCI) | Not in the 2015 listing; added by GOG on 20 February 2026 (build not checked)[^ref-4] | — | — |
+| [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest 2]] | 2.0F | AGI 2.936 | — |
+| [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest 3]] | 1.018 | SCI 0.000.685 | — |
+| [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest 4]] | 1.0 | SCI 1.001.064 | 12/08/92 |
+| [[1993 - Space Quest V - The Next Mutation\|Space Quest 5]] | 1.04 | SCI 1.001.068 | 01/05/93 |
+| [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6]] | 1.0 | SCI 2.100.002 | 05/24/95 |
 
 ### Additional GOG Singles
 
 | Game Title | Game Version | Interpreter Version | Date |
 | --- | --- | --- | --- |
-| SWAT 3: Tactical GOTY[^ref-19] | 2.1.0.0 | — | 2001 |
-| Torin’s Passage[^ref-20] | 1.0 | SCI 2.100.002 | 11/02/95 |
+| [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3: Tactical GOTY]][^ref-19] | 2.1.0.0 | — | 2001 |
+| [[1995 - Torin's Passage\|Torin’s Passage]][^ref-20] | 1.0 | SCI 2.100.002 | 11/02/95 |
 
 ## Collection Releases
 
@@ -142,7 +142,7 @@ SCG gives the last two interpreters as 2.100.001; the ScummVM list gives 2.100.0
 
 ### King’s Quest Collection Series (1997)
 
-Same versions of KQ1–6 as the 1994 set, plus the full King's Quest 7 (2.00b, where the 1994 set had only a KQ7 demo), Laura Bow: The Colonel's Bequest 1.000.046, Laura Bow 2: The Dagger of Amon Ra 1.1, Mixed-Up Mother Goose Deluxe, Behind the Developer's Shield, King Graham's Board Game Challenge and King's Questions. It drops the KQ5 French, KQ6 German, KQ7 demo and Inside the Chest entries, and adds Mystery House, Wizard and the Princess, Mission: Asteroid, Time Zone and a King's Quest 8 preview.[^ref-1]
+Same versions of KQ1–6 as the 1994 set, plus the full King's Quest 7 (2.00b, where the 1994 set had only a KQ7 demo), Laura Bow: The Colonel's Bequest 1.000.046, Laura Bow 2: The Dagger of Amon Ra 1.1, Mixed-Up Mother Goose Deluxe, and keeps Behind the Developer's Shield, King Graham's Board Game Challenge and King's Questions. It drops the KQ5 French, KQ6 German, KQ7 demo and Inside the Chest entries, and adds Mystery House, Wizard and the Princess, Mission: Asteroid, Time Zone and a King's Quest 8 preview.[^ref-1]
 
 ### King’s Quest Collection (2006)
 
@@ -158,8 +158,8 @@ Same versions of KQ1–6 as the 1994 set, plus the full King's Quest 7 (2.00b, w
 
 ### Leisure Suit Larry Releases
 
-- **Greatest Hits & Misses (1994)** already includes the Laffer Utilities, Larry's Big Score: Pinball, Softporn 2.2, the Official Book of Leisure Suit Larry and demos; SCG also lists a Leisure Suit Larry 7 demo here, which is doubtful for a 1994 disc (LSL7 is a 1996 game). The **Collection (1997)** keeps that base and adds Larry 6 CD and HiRes and Larry's Casino.[^ref-1]
-- **The Ultimate Pleasure Pack (2000)** adds Larry 7 (DOS 1.01 dated 10/18/96, Windows 1.01 dated 10/21/96) and a LightHouse demo.[^ref-1]
+- **Greatest Hits & Misses (1994)** already includes the Laffer Utilities, Larry's Big Score: Pinball, Softporn 2.2, the Official Book of Leisure Suit Larry and demos; SCG also lists a Leisure Suit Larry 7 demo here, which is doubtful for a 1994 disc (LSL7 is a 1996 game). The **Collection (1997)** keeps that base and adds Larry 6 CD and HiRes and [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino|Crazy Nick's Software Picks: Leisure Suit Larry's Casino]] (the 1992 game, SCI 1.001.029, not the 1998 *Leisure Suit Larry's Casino*).[^ref-1] MobyGames lists that 1992 Casino game already among the 1994 disc's bonuses, along with a DOS remake of Softporn Adventure and a Freddy Pharkas demo, and lists no Larry 7 demo.[^ref-21]
+- **The Ultimate Pleasure Pack (2000)** adds Larry 7 (DOS 1.01 dated 10/18/96, Windows 1.01 dated 10/21/96) and a LightHouse demo.[^ref-1] MobyGames dates the pack 1999 rather than 2000, and lists both the 1992 Crazy Nick's Casino and the 1998 *Leisure Suit Larry's Casino* in it; SCG lists only the 1992 game.[^ref-22]
 - **Collection (2006)** includes Larry 1 (SCI), 2, 3, 5 and 6 (floppy and Windows); there is no Larry 4.[^ref-1]
 
 ### Police Quest Sets
@@ -197,23 +197,23 @@ Provides EGA/VGA builds of QFG1 plus localized QFG3 versions, alongside QFG2–4
 | KQ5 | 1.000.052 | 1.000.052 | 1.000.052 | 1.000.052 | 1.000.052 |
 | KQ6 | 1.034 | 1.034 | 1.034 | 1.034 | 1.034 |
 | KQ7 | 2.00b | N/A | 2.00b | 2.00b | 1.4 |
-| KQ8 | 1.3 | N/A | N/A | N/A | N/A |
+| KQ8 | 1.3 (SCG only) | N/A | N/A | N/A | N/A |
 
 ### Leisure Suit Larry
 
-| Game | GOG | GH&M 1994 | CE 1997 | TUPP 2000 | CE 2006 |
+| Game | GOG | GH&M 1994 | CE 1997 | TUPP 2000[^ref-22] | CE 2006 |
 | --- | --- | --- | --- | --- | --- |
 | LSL1 (AGI) | 1.00 | 1.00 | 1.00 | 1.00 | N/A |
 | LSL1 (SCI) | 2.0 | 2.1 | 2.1 | 2.1 | 2.1* |
 | LSL2 | 1.002.000 | 1.002.000 | 1.002.000 | 1.002.000 | 1.002.000* |
-
-\* SCG's comparison table gives 2.0 and 1.000.011 for the 2006 collection, but its own 2006 collection table lists LSL1 (SCI) 2.1 and LSL2 1.002.000; the collection-table values are used here.[^ref-1]
 | LSL3 | 1.021 | 1.021 | 1.021 | 1.021 | 1.021 |
 | LSL5 | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 |
 | LSL6 (Floppy) | N/A | 1.000 | 1.000 | 1.000 | 1.000 |
 | LSL6 (CD) | 1.000.000 | N/A | 1.000.000 | 1.000.000 | N/A |
 | LSL6 (HiRes) | 1.000.000 | N/A | 1.000.000 | 1.000.000 | N/A |
 | LSL7 | 1.01 | N/A | N/A | 1.01 | N/A |
+
+\* SCG's comparison table gives 2.0 and 1.000.011 for the 2006 collection, but its own 2006 collection table lists LSL1 (SCI) 2.1 and LSL2 1.002.000; the collection-table values are used here.[^ref-1]
 
 ### Police Quest
 
@@ -236,7 +236,7 @@ Provides EGA/VGA builds of QFG1 plus localized QFG3 versions, alongside QFG2–4
 | QFG2 | 1.102 | 1.105 |
 | QFG3 | 1.1 | 1.1 |
 | QFG4 (CD) | 1.0 | 1.0 |
-| QFG5 | 1.1.0.0 | N/A |
+| QFG5 | 1.1.0.0 (SCG only) | N/A |
 
 ### Space Quest
 
@@ -279,3 +279,5 @@ Provides EGA/VGA builds of QFG1 plus localized QFG3 versions, alongside QFG2–4
 [^ref-18]: [GOG.com — Space Quest 4+5+6](https://www.gog.com/en/game/space_quest_4_5_6) — current GOG listing
 [^ref-19]: [GOG.com — SWAT 3: Tactical Game of the Year Edition](https://www.gog.com/en/game/swat_3_tactical_game_of_the_year_edition) — current GOG listing
 [^ref-20]: [GOG.com — Torin's Passage](https://www.gog.com/en/game/torins_passage) — current GOG listing
+[^ref-21]: [MobyGames — Leisure Suit Larry's Greatest Hits and Misses!](https://www.mobygames.com/game/3807/leisure-suit-larrys-greatest-hits-and-misses/) — read via the MobyGames API; DOS 1994; bonuses include "Leisure Suit Larry's Casino (an earlier, completely different game from the 1998 one…)", "Softporn Adventure (the DOS remake)", "Demo version of Freddy Pharkas"
+[^ref-22]: [MobyGames — Leisure Suit Larry: Ultimate Pleasure Pack](https://www.mobygames.com/game/1734/leisure-suit-larry-ultimate-pleasure-pack/) — read via the MobyGames API; DOS/Windows 1999; contents list both "Crazy Nick's Software Picks: Leisure Suit Larry's Casino" and "Leisure Suit Larry's Casino"

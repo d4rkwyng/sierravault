@@ -1,14 +1,14 @@
 ---
 title: "ScummVM"
 type: technology
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 description: "The open-source program that re-implements LucasArts' SCUMM and Sierra's AGI and SCI engines, letting modern systems run most of the classic Sierra adventure catalogue."
 tags: [technology, scummvm, agi, sci, preservation, emulation]
 ---
 
 # ScummVM
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -104,7 +104,7 @@ The project's open-source nature has also made it a centre of gravity for the br
 
 - [[Adventure Game Interpreter]] — Sierra's pre-SCI engine (1984–1989)
 - [[Sierra Creative Interpreter]] — The SCI/SCI32 engine family
-- [[Versions]] — Per-title interpreter version data
+- [[Versions|GOG and compilation version tables (2015 SCG snapshot)]]
 - [[2025 - SCP Sierra Conversion Project]] — Amiga conversions that run on Sierra's own Amiga executables
 
 ## References
