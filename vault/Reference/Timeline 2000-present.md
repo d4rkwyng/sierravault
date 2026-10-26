@@ -23,121 +23,138 @@ For the independent-era chronology, see [[Timeline 1980-1999|Timeline 1980-1999]
 **Ownership:** Havas Interactive (Vivendi-controlled) operating the Sierra label.[^ref-1]
 
 **Major releases:**
-- [[2000 - Homeworld - Cataclysm\|Homeworld: Cataclysm]] (Barking Dog Studios / Sierra)
-- [[2000 - Zeus - Master of Olympus\|Zeus: Master of Olympus]] (Impressions / Sierra)
-- [[2000 - Return of The Incredible Machine - Contraptions\|Return of the Incredible Machine: Contraptions]] (Dynamix / Sierra)
-- [[2000 - 3-D Ultra Pinball - Thrill Ride\|3-D Ultra Pinball: Thrill Ride]] (Dynamix)
+- [[2000 - Homeworld - Cataclysm|Homeworld: Cataclysm]] (Barking Dog Studios / Sierra)
+- [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]] (Impressions / Sierra)
+- [[2000 - Return of The Incredible Machine - Contraptions|Return of the Incredible Machine: Contraptions]] (Dynamix / Sierra)
+- [[2000 - 3-D Ultra Pinball - Thrill Ride|3-D Ultra Pinball: Thrill Ride]] (Dynamix)
+- [[2000 - Ground Control|Ground Control]] (Massive Entertainment / Sierra Studios; May 31, 2000)[^ref-50]
+- [[2000 - Counter-Strike|Counter-Strike]] (Valve / Sierra Studios; version 1.0 released November 9, 2000, as Sierra's retail edition went gold)[^ref-51]
 
 ## 2001
 
 **Major releases:**
-- [[2001 - Tribes 2\|Tribes 2]] (Dynamix / Sierra) — Multiplayer FPS sequel
-- [[2001 - Poseidon - Master of Atlantis\|Poseidon: Master of Atlantis]] (Impressions / Sierra)
-- [[2001 - The Incredible Machine - Even More Contraptions\|Incredible Machine: Even More Contraptions]] (Dynamix / Sierra)
-- [[2001 - NASCAR Racing 4\|NASCAR Racing 4]] (Papyrus / Sierra)
+- [[2001 - Tribes 2|Tribes 2]] (Dynamix / Sierra) — Multiplayer FPS sequel
+- [[2001 - Poseidon - Master of Atlantis|Poseidon: Master of Atlantis]] (Impressions / Sierra)
+- [[2001 - The Incredible Machine - Even More Contraptions|Incredible Machine: Even More Contraptions]] (Dynamix / Sierra)
+- [[2001 - NASCAR Racing 4|NASCAR Racing 4]] (Papyrus / Sierra)
+- [[2001 - Half-Life - Blue Shift|Half-Life: Blue Shift]] (Gearbox Software / Sierra; June 12, 2001)[^ref-54]
+- [[2001 - Arcanum|Arcanum: Of Steamworks & Magick Obscura]] (Troika Games / Sierra; August 21, 2001)[^ref-53]
+- [[2001 - Empire Earth|Empire Earth]] (Stainless Steel Studios / Sierra; November 13, 2001 in the US)[^ref-52]
 
-**Corporate:** On May 16, 2001, Havas Interactive was renamed Vivendi Universal Interactive Publishing, and on November 13, 2001 its parts were brought together as **Vivendi Universal Games** (VUG); Sierra became one of its labels.[^ref-1] [[Dynamix]] was closed by Sierra on August 14, 2001, as part of that restructuring; several veterans stayed in Eugene, Oregon and founded a new studio.[^ref-2]
+**Corporate:** On May 16, 2001, Havas Interactive was renamed Vivendi Universal Interactive Publishing, and on November 13, 2001 its parts were brought together as **Vivendi Universal Games** (VUG); Sierra became one of its labels.[^ref-1] [[Developers/Dynamix|Dynamix]] was closed by Sierra on August 14, 2001, as part of that restructuring; several veterans stayed in Eugene, Oregon and founded a new studio.[^ref-2]
 
 ## 2002
 
 **Major releases:**
-- [[2002 - Emperor - Rise of the Middle Kingdom\|Emperor: Rise of the Middle Kingdom]] (Impressions / BreakAway / Sierra)
-- [[2002 - NASCAR Racing 2002 Season\|NASCAR Racing 2002 Season]] (Papyrus / Sierra)
-- [[2002 - Hoyle Casino Empire\|Hoyle Casino Empire]] (Sierra)
-- [[2003 - Hoyle Card Games\|Hoyle Card Games]] (Sierra; released September 2002)
+- [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]] (Impressions / BreakAway / Sierra)
+- [[2002 - NASCAR Racing 2002 Season|NASCAR Racing 2002 Season]] (Papyrus / Sierra)
+- [[2002 - Hoyle Casino Empire|Hoyle Casino Empire]] (Sierra)
+- [[2003 - Hoyle Card Games|Hoyle Card Games]] (Sierra; released September 2002)
+- [[2002 - No One Lives Forever 2|No One Lives Forever 2: A Spy in H.A.R.M.'s Way]] (Monolith Productions / Sierra; October 1, 2002)[^ref-55]
 
 ## 2003
 
 **Major releases:**
-- [[2003 - Homeworld 2\|Homeworld 2]] (Relic / Sierra) — Last Sierra-published Relic title before THQ bought the studio
-- [[2003 - NASCAR Racing 2003 Season\|NASCAR Racing 2003 Season]] (Papyrus / Sierra) — Final entry in the series
-- [[2004 - Hoyle Casino\|Hoyle Casino]] (Sierra; released September 2, 2003)
-- [[2004 - Hoyle Puzzle Games\|Hoyle Puzzle Games]] (Sierra; released September 2, 2003)
+- [[2003 - Homeworld 2|Homeworld 2]] (Relic / Sierra) — Last Sierra-published Relic title before THQ bought the studio
+- [[2003 - NASCAR Racing 2003 Season|NASCAR Racing 2003 Season]] (Papyrus / Sierra) — Final entry in the series
+- [[2004 - Hoyle Casino|Hoyle Casino]] (Sierra; released September 2, 2003)
+- [[2004 - Hoyle Puzzle Games|Hoyle Puzzle Games]] (Sierra; released September 2, 2003)
+- [[2003 - SWAT - Global Strike Team|SWAT: Global Strike Team]] (Argonaut Games / Sierra; PlayStation 2 and Xbox, October 28, 2003)[^ref-56]
 
 ## 2004
 
 **Major releases:**
-- [[2004 - Tribes - Vengeance\|Tribes: Vengeance]] (Irrational Games / Sierra)
-- [[2004 - Leisure Suit Larry - Magna Cum Laude\|Leisure Suit Larry: Magna Cum Laude]] (High Voltage / Vivendi Universal Games) — spin-off starring Larry's nephew, Larry Lovage[^ref-20]
+- [[2004 - Tribes - Vengeance|Tribes: Vengeance]] (Irrational Games / Sierra)
+- [[2004 - Leisure Suit Larry - Magna Cum Laude|Leisure Suit Larry: Magna Cum Laude]] (High Voltage / Vivendi Universal Games) — spin-off starring Larry's nephew, Larry Lovage[^ref-20]
+- [[2004 - Lords of the Realm III|Lords of the Realm III]] (Impressions Games / Sierra; March 2004)[^ref-59]
+- [[2004 - Ground Control II - Operation Exodus|Ground Control II: Operation Exodus]] (Massive Entertainment / Sierra; June 23, 2004)[^ref-57]
+- [[2004 - Half-Life 2|Half-Life 2]] (Valve; November 16, 2004; retail copies distributed by Vivendi Universal Games through Sierra)[^ref-58]
 
-**Corporate:** On April 27, 2004, THQ announced it was acquiring [[Relic Entertainment]].[^ref-3] [[Impressions Games]] was shut down in April 2004 when Vivendi Universal closed most of its development studios; many of its staff went on to form Tilted Mill Entertainment.[^ref-17] The [[Papyrus Design Group]] website was shut down on April 5, 2004, and on May 28, 2004 Vivendi and Papyrus sold the *NASCAR Racing 2003 Season* copyrights to FIRST.net.[^ref-4]
+**Corporate:** On April 27, 2004, THQ announced it was acquiring [[Relic Entertainment]].[^ref-3] [[Impressions Games]] was shut down in April 2004 when Vivendi Universal closed most of its development studios.[^ref-17] Impressions veterans, led by former lead designer Chris Beatrice, had already founded Tilted Mill Entertainment in 2002.[^ref-44] The [[Papyrus Design Group]] website was shut down on April 5, 2004, and on May 28, 2004 Vivendi and Papyrus sold the *NASCAR Racing 2003 Season* copyrights to FIRST.net.[^ref-4] By June 2004 Vivendi had shut down Sierra's Bellevue location, and on August 24, 2004 Sierra was disestablished as a company, continuing as a division of Vivendi.[^ref-5] VU Games assigned the Hoyle games licence to Encore, effective December 23, 2004.[^ref-43]
 
 ## 2005
 
 **Major releases:**
-- [[2005 - Hoyle Texas Hold Em\|Hoyle Texas Hold 'Em]] (Encore Software)
+- [[2005 - Hoyle Texas Hold Em|Hoyle Texas Hold 'Em]] (Encore Software)
+- [[2005 - SWAT 4|SWAT 4]] (Irrational Games / Sierra; April 5, 2005)[^ref-60]
+- [[2006 - SWAT Force|SWAT Force]] (Kaolink / Vivendi Universal Games — mobile SWAT spin-off; Europe and other international markets from July 2005, North America February 28, 2006)[^ref-47][^ref-48][^ref-46]
 
 **Corporate:** In late 2005 the Sierra brand was relaunched from Los Angeles, and a new subsidiary, **Sierra Online**, was founded to focus on downloadable and online-only games.[^ref-5]
 
 ## 2006
 
 **Major releases:**
-- [[2006 - Caesar IV\|Caesar IV]] (Tilted Mill / Sierra)
-- [[2006 - SWAT Force\|SWAT Force]] (Kaolink / Vivendi Universal Games Mobile) — mobile SWAT spin-off
-- [[2007 - Hoyle Casino\|Hoyle Casino]] (Encore; released September 11, 2006)
-- [[2006 - Hoyle Miami Solitaire\|Hoyle Miami Solitaire]] (Encore; released November 15, 2006)
-- [[2006 - 3D Ultra MiniGolf Adventures\|3D Ultra MiniGolf Adventures]] (Wanako Games; Windows December 20, 2006, Xbox Live Arcade April 18, 2007)
+- [[2006 - Caesar IV|Caesar IV]] (Tilted Mill / Sierra)
+- [[2006 - SWAT 4 - The Stetchkov Syndicate|SWAT 4: The Stetchkov Syndicate]] (Irrational Games / Sierra; expansion pack, February 28, 2006)[^ref-60]
+- [[2007 - Hoyle Casino|Hoyle Casino]] (Encore; released September 11, 2006)
+- [[2006 - Hoyle Miami Solitaire|Hoyle Miami Solitaire]] (Encore; released November 15, 2006)
+- [[2006 - 3D Ultra MiniGolf Adventures|3D Ultra MiniGolf Adventures]] (Wanako Games; Windows December 20, 2006, Xbox Live Arcade April 18, 2007)
 
 ## 2007
 
 **Major releases:**
-- [[2007 - Carcassonne\|Carcassonne]] (XBLA / Sierra Online)
-- [[2007 - Hoyle Casino 2008\|Hoyle Casino 2008]] (Encore)
-- [[2008 - Hoyle Puzzle and Board Games\|Hoyle Puzzle and Board Games]] (Encore; released October 2007)
+- [[2007 - World in Conflict|World in Conflict]] (Massive Entertainment / Sierra; September 18, 2007)[^ref-61]
+- [[2007 - Carcassonne|Carcassonne]] (XBLA / Sierra Online)
+- [[2007 - Hoyle Casino 2008|Hoyle Casino 2008]] (Encore)
+- [[2008 - Hoyle Puzzle and Board Games|Hoyle Puzzle and Board Games]] (Encore; released October 2007)
 
 ## 2008
 
 **Major releases:**
-- [[2008 - Lost Cities\|Lost Cities]] (XBLA / Sierra Online)
-- [[2006 - Gin Rummy\|Gin Rummy]] (XBLA / Sierra Online; released September 3, 2008)
-- [[2008 - Red Baron Arcade\|Red Baron Arcade]] (Stainless Games / Sierra; Windows and PlayStation 3)
-- [[2008 - Ace of Aces\|Ace of Aces]] (browser game by Mad Otter Games, designed by Dynamix co-founder Damon Slye; published by InstantAction)
+- [[2008 - Lost Cities|Lost Cities]] (XBLA / Sierra Online)
+- [[2006 - Gin Rummy|Gin Rummy]] (XBLA / Sierra Online; released September 3, 2008)
+- [[2008 - Red Baron Arcade|Red Baron Arcade]] (Stainless Games / Sierra; Windows and PlayStation 3)
+- [[2008 - Ace of Aces|Ace of Aces]] (browser game by Mad Otter Games, designed by Dynamix co-founder Damon Slye; published by InstantAction)
 
 **Corporate:** **July 9, 2008** — Activision and Vivendi Games complete their merger to form **Activision Blizzard**, valued at about USD 18.9 billion. Blizzard kept its autonomy, while other Vivendi Games divisions such as Sierra ceased operation.[^ref-7]
 
 ## 2009
 
 **Major releases:**
-- [[2009 - Gobliiins 4\|Gobliiins 4]] (Société Pollene / Pierre Gilhodes — independent, not Activision-published; released March 11, 2009)[^ref-18]
-- [[2007 - 3D Ultra Minigolf Adventures Deluxe\|3D Ultra MiniGolf Adventures Deluxe]] (Wanako Games / Activision; Steam, July 23, 2009)
+- [[2009 - Gobliiins 4|Gobliiins 4]] (Société Pollene / Pierre Gilhodes — independent, not Activision-published; released March 11, 2009)[^ref-18]
+- [[2007 - 3D Ultra Minigolf Adventures Deluxe|3D Ultra MiniGolf Adventures Deluxe]] (Wanako Games / Activision; Steam, July 23, 2009)
+- [[2009 - Leisure Suit Larry - Box Office Bust|Leisure Suit Larry: Box Office Bust]] (Team17 / Codemasters; Europe March 27, 2009, North America March 31, 2009)[^ref-62]
+- [[2009 - Thexder Neo|Thexder Neo]] (Zereo / Square Enix; PlayStation Portable, October 1, 2009)[^ref-63]
 
 **Corporate:** Sierra brand dormant under Activision Blizzard, which deemed most Vivendi Games properties, including the Sierra Online division, "non-strategic"; in February 2009 Codemasters bought the *Leisure Suit Larry* IP.[^ref-5]
 
 ## 2010
 
 **Major releases:**
-- [[2010 - Gray Matter\|Gray Matter]] (Wizarbox / dtp entertainment — designed by Jane Jensen)
-- [[2010 - 3-D Ultra MiniGolf Adventures 2\|3-D Ultra MiniGolf Adventures 2]] (Wanako Games / Konami; XBLA / PSN)
+- [[2010 - Gray Matter|Gray Matter]] (Wizarbox / dtp entertainment — designed by Jane Jensen)
+- [[2010 - 3-D Ultra MiniGolf Adventures 2|3-D Ultra MiniGolf Adventures 2]] (Wanako Games / Konami; XBLA / PSN)
 
-**Corporate:** [[Phoenix Online Studios]]' fan-made *The Silver Lining*: Activision revoked the non-commercial licence Vivendi had granted and issued a cease-and-desist, then on June 26, 2010 agreed to let the game be released free of charge, with Activision keeping the rights. Its episodes appeared from July 18, 2010 to November 8, 2011.[^ref-19]
+**Corporate:** [[Phoenix Online Studios]]' fan-made *[[2010 - The Silver Lining|The Silver Lining]]*: Activision revoked the non-commercial licence Vivendi had granted and issued a cease-and-desist, then on June 26, 2010 agreed to let the game be released free of charge, with Activision keeping the rights. Its episodes appeared from July 10, 2010 (some sources give July 18) to November 6, 2011 (Wikipedia's lead gives November 8).[^ref-19][^ref-45]
 
 ## 2011
 
 **Major releases:**
-- [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain\|Adventures of Dr. Brain]] (JumpStart / Knowledge Adventure)
-- [[2011 - The Incredible Machine (2011)\|The Incredible Machine (2011 mobile)]] (Playdom / Disney Mobile, with Jeff Tunnell involved)
+- [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain|Adventures of Dr. Brain]] (JumpStart / Knowledge Adventure)
+- [[2011 - The Incredible Machine (2011)|The Incredible Machine (2011 mobile)]] (Playdom / Disney Mobile, with Jeff Tunnell involved)
 
 ## 2012
 
 **Major releases:**
-- [[2012 - Cognition - An Erica Reed Thriller\|Cognition: An Erica Reed Thriller]] (Phoenix Online — Jane Jensen as story consultant)[^ref-39]
+- [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] (Phoenix Online — Jane Jensen as story consultant)[^ref-39]
 
 **Corporate:** On April 5, 2012, Jane Jensen and Robert Holmes announce Pinkerton Road Studio.[^ref-39] Scott Murphy and Mark Crowe announce SpaceVenture on March 25, 2012 and fund it on Kickstarter later that year.[^ref-40][^ref-41]
 
 ## 2013
 
 **Major releases:**
-- [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] (N-Fusion / Replay Games — crowdfunded HD remake designed by Al Lowe and Josh Mandel)
-- [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold]] (Prank Ltd. / Replay Games)
+- [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry: Reloaded]] (N-Fusion / Replay Games — crowdfunded HD remake designed by Al Lowe and Josh Mandel)
+- [[2013 - Fester Mudd - Curse of the Gold|Fester Mudd: Curse of the Gold]] (Prank Ltd. / Replay Games)
 
 **Corporate:** Gearbox Software wins the *Homeworld* IP at the THQ bankruptcy auction for USD 1.35 million, then lets [[Blackbird Interactive]] use the IP for its *Homeworld* prequel.[^ref-8]
 
 ## 2014
 
 **Major releases:**
-- [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition\|Gabriel Knight: Sins of the Fathers 20th Anniversary]] (Pinkerton Road / Phoenix Online — Jane Jensen)
-- [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] (Pinkerton Road / Phoenix Online — Jane Jensen)
-- [[2014 - Quest for Infamy\|Quest for Infamy]] (Infamous Quests — Quest for Glory spiritual successor; July 10, 2014)[^ref-30]
+- [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers 20th Anniversary]] (Pinkerton Road / Phoenix Online — Jane Jensen)
+- [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] (Pinkerton Road / Phoenix Online — Jane Jensen)
+- [[2014 - Quest for Infamy|Quest for Infamy]] (Infamous Quests — Quest for Glory spiritual successor; July 10, 2014)[^ref-30]
+- [[Front Page Sports Series|Front Page Sports Football]] (Cyanide Studio — a new game under the Front Page Sports name; Steam, October 2, 2014)[^ref-64]
+- [[2014 - Gold Rush Anniversary|Gold Rush! Anniversary]] (Sunlight Games — remake of the 1988 *Gold Rush!*; Steam, November 7, 2014)[^ref-65]
 
 **Corporate:** **Activision announces the revival of the Sierra label at Gamescom 2014.** First titles announced: King's Quest (The Odd Gentlemen) and Geometry Wars 3.[^ref-9]
 
@@ -146,58 +163,68 @@ For the independent-era chronology, see [[Timeline 1980-1999|Timeline 1980-1999]
 ## 2015
 
 **Major releases:**
-- [[2015 - King's Quest\|King's Quest (2015)]] (The Odd Gentlemen / Activision under the Sierra brand) — Episodic franchise reboot; first chapter July 28, 2015[^ref-33]
-- [[2015 - Homeworld Remastered Collection\|Homeworld Remastered Collection]] (Gearbox)
-- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger in Escape From The Planet of The Poultroid]] (Guys From Andromeda)
+- [[2015 - King's Quest|King's Quest (2015)]] (The Odd Gentlemen / Activision under the Sierra brand) — Episodic franchise reboot; first chapter July 28, 2015[^ref-33]
+- [[2015 - Homeworld Remastered Collection|Homeworld Remastered Collection]] (Gearbox)
+- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]] (Guys From Andromeda)
 
 ## 2016
 
 **Major releases:**
-- [[2016 - Homeworld - Deserts of Kharak\|Homeworld: Deserts of Kharak]] (Blackbird Interactive / Gearbox)
-- [[2015 - Order of the Thorne - The King's Challenge\|Order of the Thorne: The King's Challenge]] (Infamous Quests; January 26, 2016)[^ref-32]
-- [[2016 - Hoyle Casino Games Collection\|Hoyle Casino Games Collection]] (Encore)
+- [[2016 - Homeworld - Deserts of Kharak|Homeworld: Deserts of Kharak]] (Blackbird Interactive / Gearbox)
+- [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne: The King's Challenge]] (Infamous Quests; January 26, 2016)[^ref-32]
+- [[2016 - Hoyle Casino Games Collection|Hoyle Casino Games Collection]] (Encore)
 - *King's Quest* (2015) Chapter V released October 25, 2016, followed by an epilogue on December 20, 2016[^ref-33]
+
+## 2017
+
+**Major releases:**
+- [[2017 - Gold Rush 2|Gold Rush! 2]] (Sunlight Games; April 28, 2017)[^ref-66]
 
 ## 2018
 
 **Major releases:**
-- [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] (Transolar / Coles — Quest for Glory spiritual successor; July 10, 2018)[^ref-29]
-- [[2018 - Bolt Riley - A Reggae Adventure\|Bolt Riley: A Reggae Adventure]] (Adventure Mob / Corbomite Games; February 8, 2018)[^ref-31]
-- [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry\|Leisure Suit Larry: Wet Dreams Don't Dry]] (CrazyBunch / Assemble Entertainment)[^ref-20]
+- [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] (Transolar / Coles — Quest for Glory spiritual successor; July 10, 2018)[^ref-29]
+- [[2018 - Bolt Riley - A Reggae Adventure|Bolt Riley: A Reggae Adventure]] (Adventure Mob / Corbomite Games; February 8, 2018)[^ref-31]
+- [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Leisure Suit Larry: Wet Dreams Don't Dry]] (CrazyBunch / Assemble Entertainment)[^ref-20]
 
 ## 2019
 
 **Major releases:**
-- [[2019 - Mage's Initiation - Reign of the Elements\|Mage's Initiation: Reign of the Elements]] (Himalaya Studios, developer and publisher; January 30, 2019)[^ref-22]
+- [[2019 - Mage's Initiation - Reign of the Elements|Mage's Initiation: Reign of the Elements]] (Himalaya Studios, developer and publisher; January 30, 2019)[^ref-22]
 
 ## 2020
 
 **Major releases:**
-- [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice\|Leisure Suit Larry: Wet Dreams Dry Twice]] (CrazyBunch / Assemble Entertainment; October 23, 2020)[^ref-21]
+- [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|Leisure Suit Larry: Wet Dreams Dry Twice]] (CrazyBunch / Assemble Entertainment; October 23, 2020)[^ref-21]
 
 **Awards:** [[1984 - King's Quest - Quest for the Crown|King's Quest]] inducted into The Strong Museum's **World Video Game Hall of Fame** in 2020.[^ref-11]
+
+## 2021
+
+**Major releases:**
+- [[2021 - King's Quest IV Retold|King's Quest IV Retold]] (DrSlash — fan remake made with Adventure Game Studio, freeware; May 5, 2021)[^ref-67]
 
 ## 2022
 
 **Major releases:**
-- [[2022 - SpaceVenture\|SpaceVenture]] (Guys from Andromeda) — Space Quest spiritual successor, Kickstarted in 2012; released to Kickstarter backers September 16, 2022 (Steam Early Access April 1, 2025; full release December 23, 2025)[^ref-41][^ref-25]
+- [[2022 - SpaceVenture|SpaceVenture]] (Guys from Andromeda) — Space Quest spiritual successor, Kickstarted in 2012; released to Kickstarter backers September 16, 2022 (Steam Early Access April 1, 2025; full release December 23, 2025)[^ref-41][^ref-25]
 
 ## 2023
 
 **Major releases:**
-- [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] (Transolar / Coles)
-- [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D Adventure]] (Cygnus Entertainment, Ken and Roberta Williams' studio; January 19, 2023)[^ref-16][^ref-28]
-- [[2023 - Pharaoh - A New Era\|Pharaoh: A New Era]] (Triskell / Dotemu — remake of *Pharaoh*, which Dotemu licensed from Activision; February 15, 2023)[^ref-34]
-- [[2023 - Gobliiins 5 - The Morgloton Invasion\|Gobliiins 5]] (Pierre Gilhodes)
+- [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] (Transolar / Coles)
+- [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]] (Cygnus Entertainment, Ken and Roberta Williams' studio; January 19, 2023)[^ref-16][^ref-28]
+- [[2023 - Pharaoh - A New Era|Pharaoh: A New Era]] (Triskell / Dotemu — remake of *Pharaoh*, which Dotemu licensed from Activision; February 15, 2023)[^ref-34]
+- [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]] (Pierre Gilhodes)
 
 **Corporate:** **October 13, 2023** — Microsoft completes its acquisition of Activision Blizzard (announced at USD 68.7 billion in January 2022; total cost USD 75.4 billion), bringing it under Microsoft Gaming.[^ref-12]
 
 ## 2024
 
 **Major releases:**
-- [[2024 - Homeworld 3\|Homeworld 3]] (Blackbird Interactive / Gearbox; May 13, 2024) — direct sequel to Homeworld 2 (2003)[^ref-37]
-- [[2024 - Tribes 3 - Rivals\|Tribes 3: Rivals]] (Prophecy Games, developer and publisher; March 12, 2024) — Hi-Rez Studios bought the Tribes IP in 2010 and spun its Tribes subsidiary off as Prophecy Games in 2020[^ref-23][^ref-24]
-- *Five Hearts*: Jane Jensen releases the first chapter of a new Gabriel Knight short story (November 19, 2024)[^ref-36]
+- [[2024 - Homeworld 3|Homeworld 3]] (Blackbird Interactive / Gearbox; May 13, 2024) — set more than a century after the events of Homeworld 2 (2003)[^ref-37]
+- [[2024 - Tribes 3 - Rivals|Tribes 3: Rivals]] (Prophecy Games, developer and publisher; Early Access, March 12, 2024) — Hi-Rez Studios bought the Tribes IP in 2010 and spun its Tribes subsidiary off as Prophecy Games in 2020[^ref-23][^ref-24]
+- *[[TBD - Gabriel Knight 4 - Five Hearts|Five Hearts]]*: Jane Jensen releases the first chapter of a new Gabriel Knight short story (November 19, 2024)[^ref-36]
 
 **Corporate:** [[Relic Entertainment]] announces on March 28, 2024 that an external investor has helped it go independent from SEGA.[^ref-3] Take-Two agrees to buy Gearbox, and with it the *Homeworld* franchise, from Embracer (announced March 28, 2024).[^ref-35]
 
@@ -209,11 +236,11 @@ For the independent-era chronology, see [[Timeline 1980-1999|Timeline 1980-1999]
 ## 2026
 
 **Major releases:**
-- [[2025 - SCP Sierra Conversion Project\|SCP Sierra Conversion Project]] (Amiga conversions; first release January 3, 2026)
-- [[2026 - Gobliins 6\|GOBLiiNS6]] (Pierre Gilhodes; February 13, 2026)[^ref-27]
+- [[2025 - SCP Sierra Conversion Project|SCP Sierra Conversion Project]] (Amiga conversions; first release January 3, 2026)
+- [[2026 - Gobliins 6|GOBLiiNS6]] (Pierre Gilhodes; itch.io February 10, 2026; Steam February 13, 2026)[^ref-49][^ref-27]
 
 **Current state (October 2026):**
-The Sierra IP catalog sits with Microsoft Gaming after the Activision Blizzard acquisition.[^ref-12] *Homeworld* is not part of it: Gearbox bought the series in 2013 and Take-Two now owns it.[^ref-8][^ref-35] Alumni projects continue (Jane Jensen, the Guys from Andromeda, the Coles, Pierre Gilhodes).
+Most of the Sierra IP catalog sits with Microsoft Gaming after the Activision Blizzard acquisition.[^ref-12] Exceptions include *Homeworld* (Gearbox bought the series in 2013 and Take-Two now owns it),[^ref-8][^ref-35] *Leisure Suit Larry* (Codemasters bought the IP in February 2009; Electronic Arts bought Codemasters in 2021),[^ref-5][^ref-42] *Tribes* (sold to Hi-Rez Studios in 2010, now with its spin-off Prophecy Games)[^ref-24] and the *Hoyle* games licence (assigned to Encore effective December 23, 2004).[^ref-43] Alumni projects continue (Jane Jensen, the Guys from Andromeda, the Coles, Pierre Gilhodes).
 
 ---
 
@@ -221,8 +248,8 @@ The Sierra IP catalog sits with Microsoft Gaming after the Activision Blizzard a
 
 Three patterns characterize this period:
 
-1. **Acquired-studio attrition (1999-2004)** — Oakhurst (by then Yosemite Entertainment) closed in February 1999, Dynamix in 2001, and Impressions and Papyrus in 2004.[^ref-38][^ref-2][^ref-17][^ref-4] Sierra's development capacity effectively dissolved.
-2. **Brand-only revivals (2005-2016)** — Sierra existed as a label name for downloadable titles, small XBLA releases and the 2014 indie-publishing revival rather than as an active developer.
+1. **Acquired-studio attrition (1999-2004)** — Oakhurst (by then Yosemite Entertainment) closed in February 1999, Dynamix in 2001, and Impressions and Papyrus in 2004.[^ref-38][^ref-2][^ref-17][^ref-4] Vivendi shut Sierra's Bellevue location by June 2004, and Sierra was disestablished as a company on August 24, 2004.[^ref-5]
+2. **Label era and revivals (2005-2016)** — Sierra continued as a division and label of Vivendi Games rather than a separate company. Throughout 2005 and 2006 Vivendi acquired studios including Massive Entertainment, High Moon Studios, Radical Entertainment, Secret Lair Studios / Studio Ch'in and Swordfish Studios and integrated them into Sierra, while the new Sierra Online subsidiary focused on downloadable and online-only games.[^ref-5] After the 2008 Activision merger the label went dormant until the 2014 indie-publishing revival.[^ref-7][^ref-9]
 3. **Alumni-led continuation (2010-present)** — The most authentic Sierra-tradition output of this era has come from former Sierra designers working outside Sierra: Jane Jensen (Gray Matter, Moebius, the GK 20th Anniversary), the Coles (Hero-U), the Guys from Andromeda (SpaceVenture), Ken and Roberta Williams (Colossal Cave).
 
 ## See Also
@@ -238,7 +265,7 @@ Three patterns characterize this period:
 [^ref-2]: [Wikipedia — Dynamix](https://en.wikipedia.org/wiki/Dynamix) — "closed by Sierra On-Line on August 14, 2001, as part of Sierra's restructuring under Vivendi Universal Interactive Publishing"
 [^ref-3]: [Wikipedia — Relic Entertainment](https://en.wikipedia.org/wiki/Relic_Entertainment) — "On April 27, 2004, publisher THQ announced it was acquiring Relic"; "On March 28, 2024, Relic Entertainment announced that an external investor had assisted it in going independent"
 [^ref-4]: [Wikipedia — Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) — "The Papyrus website was shut down on April 5, 2004"; copyrights sold to FIRST.net May 28, 2004
-[^ref-5]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — "In late 2005, the Sierra brand was re-launched from Los Angeles… Sierra Online"; properties "deemed… 'non-strategic'"; "February 2009 – Codemasters purchased" Leisure Suit Larry
+[^ref-5]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — "In late 2005, the Sierra brand was re-launched from Los Angeles… Sierra Online"; properties "deemed… 'non-strategic'"; "February 2009 – Codemasters purchased" Leisure Suit Larry; "by June 2004, Vivendi had completely shut down Sierra's Bellevue location"; "Sierra was disestablished on August 24, 2004"; "Throughout 2005 and 2006, Vivendi acquired several game development studios… and integrated them into Sierra"
 [^ref-7]: [Wikipedia — Activision Blizzard](https://en.wikipedia.org/wiki/Activision_Blizzard) — "the deal closed the next day for an estimated transaction amount of US$18.9 billion"; "other Vivendi Games divisions such as Sierra ceased operation"
 [^ref-8]: [Wikipedia — Blackbird Interactive](https://en.wikipedia.org/wiki/Blackbird_Interactive) — Gearbox won the THQ Homeworld auction at $1.35 million and allowed Blackbird to use the IP
 [^ref-9]: [TechCrunch — Yep, Activision Is Bringing Back Sierra (And Kings Quest!)](https://techcrunch.com/2014/08/13/yep-activision-is-bringing-back-sierra-and-kings-quest/) — revival made official at Gamescom 2014; King's Quest and Geometry Wars 3
@@ -252,11 +279,11 @@ Three patterns characterize this period:
 [^ref-20]: [Wikipedia — Leisure Suit Larry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) — Magna Cum Laude introduced Larry Lovage; Assemble Entertainment released Wet Dreams Don't Dry (2018) and Wet Dreams Dry Twice (2020)
 [^ref-21]: [Steam — Leisure Suit Larry: Wet Dreams Dry Twice (Wayback, October 9, 2026)](http://web.archive.org/web/20261009060112/https://store.steampowered.com/app/1373430/Leisure_Suit_Larry__Wet_Dreams_Dry_Twice/) — developer CrazyBunch, publisher Assemble Entertainment, released "Oct 23, 2020"; store page delisted October 23, 2026
 [^ref-22]: [Steam — Mage's Initiation: Reign of the Elements](https://store.steampowered.com/app/270610/) — developer and publisher Himalaya Studios; "Jan 30, 2019"
-[^ref-23]: [Steam — TRIBES 3: Rivals](https://store.steampowered.com/app/2687970/) — developer and publisher Prophecy Games; "Mar 12, 2024"
+[^ref-23]: [Steam — TRIBES 3: Rivals](https://store.steampowered.com/app/2687970/) — developer and publisher Prophecy Games; "Mar 12, 2024"; still listed as an Early Access game (checked October 26, 2026)
 [^ref-24]: [Wikipedia — Tribes (video game series)](https://en.wikipedia.org/wiki/Tribes_(video_game_series)) — "InstantAction sold the Tribes IP to Hi-Rez Studios in October 2010"; Hi-Rez spun off Prophecy Games by early 2020
 [^ref-25]: [Steam — SpaceVenture](https://store.steampowered.com/app/1374960/) — developer Guys from Andromeda; "Early Access Release Date: Apr 1, 2025"; "Release Date: Dec 23, 2025"
 [^ref-26]: [Steam — Warhammer 40,000: Dawn of War - Definitive Edition](https://store.steampowered.com/app/3556750/) — developer Relic Entertainment; "Aug 14, 2025"
-[^ref-27]: [Steam — GOBLiiNS6](https://store.steampowered.com/app/4293620/) — developer Pierre Gilhodes; "Feb 13, 2026"
+[^ref-27]: [Steam — GOBLiiNS6](https://store.steampowered.com/app/4293620/) — developer Pierre Gilhodes, publisher Schnibble Productions; "Feb 13, 2026"
 [^ref-28]: [Steam — Colossal Cave](https://store.steampowered.com/app/2215540/) — developer Cygnus Entertainment; "Jan 19, 2023"
 [^ref-29]: [Steam — Hero-U: Rogue to Redemption](https://store.steampowered.com/app/375440/) — developer Transolar Games; "Jul 10, 2018"
 [^ref-30]: [Steam — Quest for Infamy](https://store.steampowered.com/app/264560/) — developer Infamous Quests; "Jul 10, 2014"
@@ -266,8 +293,34 @@ Three patterns characterize this period:
 [^ref-34]: [Wikipedia — Pharaoh: A New Era](https://en.wikipedia.org/wiki/Pharaoh:_A_New_Era) — "Dotemu licensed it from Activision"; released February 15, 2023
 [^ref-35]: [Engadget — Take-Two is buying Gearbox from Embracer for $460 million](https://www.engadget.com/take-two-is-buying-gearbox-from-embracer-for-460-million-145711528.html) — March 28, 2024; Take-Two "will fully own the… Homeworld" franchise
 [^ref-36]: [Adventure Game Hotspot — Jane Jensen releases Gabriel Knight short story Five Hearts (November 19, 2024)](https://adventuregamehotspot.com/announcement/3108/jane-jensen-releases-gabriel-knight-short-story-five-hearts) — "First chapter of original new story available to download from Robert Holmes' website"
-[^ref-37]: [Wikipedia — Homeworld 3](https://en.wikipedia.org/wiki/Homeworld_3) — "developed by Blackbird Interactive and published by Gearbox Software"; released May 13, 2024
+[^ref-37]: [Wikipedia — Homeworld 3](https://en.wikipedia.org/wiki/Homeworld_3) — "developed by Blackbird Interactive and published by Gearbox Software"; released May 13, 2024; "After their victory over the Vaygr (as played out in Homeworld 2), Hiigara entered a golden age that lasted for over a century"
 [^ref-38]: [The Digital Antiquarian — The End of Sierra as We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) — Oakhurst office known as Yosemite Entertainment; layoffs "February 22, 1999"
 [^ref-39]: [Wikipedia — Jane Jensen](https://en.wikipedia.org/wiki/Jane_Jensen_(video_game_designer)) — story consultant on Cognition (2012); "On April 5, 2012, Jensen and her husband… Robert Holmes, announced the formation of Pinkerton Road Studio"
 [^ref-40]: [Guys from Andromeda — Join Scott and Mark in their Epic new SpaceVenture (March 25, 2012)](https://guysfromandromeda.com/uncategorized/new-game/) — announcement post
 [^ref-41]: [Time Extension — SpaceVenture Releasing To Backers Next Month After A Decade In Development (August 24, 2022)](https://www.timeextension.com/news/2022/08/spaceventure-releasing-to-backers-next-month-after-a-decade-in-development) — "Back in 2012… took to Kickstarter"; Windows version to backers "Friday 16th September"
+[^ref-42]: [Time Extension — Leisure Suit Larry's last releases to be delisted from Steam and GOG this month (October 2026)](https://www.timeextension.com/news/2026/10/get-them-now-or-never-leisure-suit-larrys-last-releases-to-be-delisted-from-steam-and-gog-this-month) — "Electronic Arts' 2021 purchase of Codemasters"
+[^ref-43]: [Worthplaying — Vivendi Passes On 'Hoyle' Brand to Encore (December 21, 2004)](https://www.worthplaying.com/article/2004/12/21/news/21356-vivendi-passes-on-hoyle-brand-to-encore/) — "assignment of the Hoyle games license"; "Effective December 23, 2004, Encore will be responsible for sales, distribution and marketing"
+[^ref-44]: [Wikipedia — Tilted Mill Entertainment](https://en.wikipedia.org/wiki/Tilted_Mill_Entertainment) — "founded in 2002 by former Impressions Games lead designer and general manager Chris Beatrice"
+[^ref-45]: [MobyGames — The Silver Lining: Episode One - What is Decreed Must Be (Moby ID 47324; read via the MobyGames API)](https://www.mobygames.com/game/47324/the-silver-lining-episode-one-what-is-decreed-must-be/) — Windows first release date 2010-07-10
+[^ref-46]: [Wikipedia — SWAT Force](https://en.wikipedia.org/wiki/SWAT_Force) — developed by Kaolink, published by Vivendi; "It was released February 28, 2006, for mobile devices"
+[^ref-47]: [GamesIndustry.biz — Vivendi Universal Games' Wireless Division Extends New Mobile Game Offerings In Europe And Other International Markets (July 18, 2005)](https://www.gamesindustry.biz/vivendi-universal-games-wireless-division-extends-new-mobile-game-offerings-in-europe-and-other-international-markets) — "SWAT Force and Larry's Sexy Pinball, will be available to consumers starting in July 2005"; distributed by WonderPhone
+[^ref-48]: [Pocket Gamer — SWAT Force review (Fraser MacInnes, July 1, 2005)](https://www.pocketgamer.com/swat-force/review/) — Java review dated Jul 1, 2005
+[^ref-49]: [itch.io — GOBLiiNS6 (Wayback, February 10, 2026)](https://web.archive.org/web/20260210173355/https://pierre-gilhodes.itch.io/gobliins6) — "Buy Now $10.00 USD or more"; "Status Released"
+[^ref-50]: [Wikipedia — Ground Control (video game)](https://en.wikipedia.org/wiki/Ground_Control_(video_game)) — publisher Sierra Studios; released NA "31 May 2000"
+[^ref-51]: [GameSpot — Counter-Strike 1.0 Released (Trey Walker, November 9, 2000)](https://www.gamespot.com/articles/counter-strike-10-released/1100-2652037/) — "Sierra Studios' retail version of the game, Half-Life: Counter-Strike, has gone gold"
+[^ref-52]: [Sierra Entertainment press release — Empire Earth Ships to Retail Stores (November 13, 2001; Wayback)](https://web.archive.org/web/20011201222743/http://www.sierra.com/pr/display_pr.php?prid=582) — "has begun shipping to retail stores in the United States"
+[^ref-53]: [Wikipedia — Arcanum: Of Steamworks & Magick Obscura](https://en.wikipedia.org/wiki/Arcanum:_Of_Steamworks_%26_Magick_Obscura) — developer Troika Games, publisher Sierra On-Line; NA August 21, 2001
+[^ref-54]: [Wikipedia — Half-Life: Blue Shift](https://en.wikipedia.org/wiki/Half-Life:_Blue_Shift) — developer Gearbox Software, publisher Sierra On-Line; Windows NA June 12, 2001
+[^ref-55]: [Wikipedia — No One Lives Forever 2: A Spy in H.A.R.M.'s Way](https://en.wikipedia.org/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.%27s_Way) — "Released under the Sierra Entertainment brand"; NA October 1, 2002
+[^ref-56]: [Wikipedia — SWAT: Global Strike Team](https://en.wikipedia.org/wiki/SWAT:_Global_Strike_Team) — "Released under the Sierra Entertainment brand"; NA October 28, 2003
+[^ref-57]: [Wikipedia — Ground Control II: Operation Exodus](https://en.wikipedia.org/wiki/Ground_Control_II:_Operation_Exodus) — "Released under the Sierra Entertainment brand name"; NA June 23, 2004
+[^ref-58]: [Wikipedia — Half-Life 2](https://en.wikipedia.org/wiki/Half-Life_2) — Windows November 16, 2004; "In retail, distribution was handled by Vivendi Universal Games through their Sierra Entertainment subsidiary"
+[^ref-59]: [IGN — Lords of the Realm III gets bargain price (February 5, 2004)](https://www.ign.com/articles/2004/02/05/lords-of-the-realm-iii-gets-bargain-price) — "will hit retail shelves March 16"
+[^ref-60]: [Wikipedia — SWAT 4](https://en.wikipedia.org/wiki/SWAT_4) — publisher Sierra Entertainment; NA April 5, 2005; The Stetchkov Syndicate NA February 28, 2006
+[^ref-61]: [Wikipedia — World in Conflict](https://en.wikipedia.org/wiki/World_in_Conflict) — "Released under the Sierra Entertainment brand name"; NA September 18, 2007
+[^ref-62]: [Wikipedia — Leisure Suit Larry: Box Office Bust](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Box_Office_Bust) — publisher Codemasters; EU March 27, 2009, NA March 31, 2009
+[^ref-63]: [MobyGames — Thexder Neo (Moby ID 43121; read via the MobyGames API)](https://www.mobygames.com/game/43121/thexder-neo/) — PSP release 2009-10-01; published by Square Enix, developed by Zereo
+[^ref-64]: [Steam — Front Page Sports Football](https://store.steampowered.com/app/316700/) — developer Cyanide Studio; "Oct 2, 2014"
+[^ref-65]: [Steam — Gold Rush! Anniversary](https://store.steampowered.com/app/319230/) — developer and publisher Sunlight Games; "Nov 7, 2014"
+[^ref-66]: [Steam — Gold Rush! 2](https://store.steampowered.com/app/609100/) — developer and publisher Sunlight Games; "Apr 28, 2017"
+[^ref-67]: [Adventure Game Studio — King's Quest IV: The Perils of Rosella Retold](https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/) — "Release Date 5 May 2021"; "Release Type Freeware"
