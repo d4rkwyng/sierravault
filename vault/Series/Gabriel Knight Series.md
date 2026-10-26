@@ -8,18 +8,18 @@ last_release: 2014
 total_games: 4
 unreleased_games: 1
 genre: "Adventure, Horror"
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 ---
 
 # Gabriel Knight Series
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
 The Gabriel Knight series is Sierra On-Line's Gothic horror adventure trilogy, created by [[Jane Jensen]] in 1993. MobyGames describes it as a series of puzzle-solving adventure games whose stories, "despite their supernatural elements", contain "many historical references" and are "based on real studies of the occult".[^ref-1] The trilogy follows Gabriel Knight, a struggling New Orleans bookstore owner and novelist who discovers his birthright as a Schattenjäger ("Shadow Hunter"), one of a line of hunters of the supernatural.[^ref-2]
 
-The first two games met with enough critical success that *Computer Gaming World* called Jensen "the interactive Anne Rice".[^ref-10] The original Sins of the Fathers shared *Computer Gaming World*'s Adventure Game of the Year award (June 1994) with LucasArts' Day of the Tentacle,[^ref-11] which George Starostin called "possibly the single greatest double billing in gaming history."[^ref-4] Its sequel, The Beast Within, was *Computer Gaming World*'s overall Game of the Year in June 1996.[^ref-12] The three games are also known for spanning three graphical styles: hand-painted 2D, full-motion video with real actors, and real-time 3D.[^ref-1]
+When *Computer Gaming World* ranked The Beast Within 17th in its November 1996 list of the top 150 games of all time, the entry called it "a haunting tale from Jane Jensen, the interactive Ann Rice" [*sic*].[^ref-29] The original Sins of the Fathers shared *Computer Gaming World*'s Adventure Game of the Year award (June 1994) with LucasArts' Day of the Tentacle,[^ref-11] which George Starostin called "possibly the single greatest double billing in gaming history."[^ref-4] Its sequel, The Beast Within, was *Computer Gaming World*'s overall Game of the Year in June 1996.[^ref-12] The three games are also known for spanning three graphical styles: hand-painted 2D, full-motion video with real actors, and real-time 3D.[^ref-1]
 
 ## Series Timeline
 
@@ -62,12 +62,12 @@ The German word "Schattenjäger" translates to "Shadow Hunter". The Schattenjäg
 ### New Orleans (Sins of the Fathers)
 The first game is set amid New Orleans voodoo, with an investigation into ritual murders that reveals Gabriel's own heritage. Its plot and atmosphere were inspired by the 1987 film *Angel Heart*.[^ref-2]
 
-Key locations: Jackson Square, St. Louis Cathedral, Napoleon House, the Gedde family tomb
+Key locations: Jackson Square, St. Louis Cathedral, St. Louis Cemetery No. 1, the Napoleon House bar[^ref-4]
 
 ### Bavaria (The Beast Within)
 The second game is a werewolf mystery built on the historical backgrounds of King Ludwig II and Richard Wagner between 1870 and 1886, set mainly in Munich and southern Germany.[^ref-15]
 
-Key locations: Munich, Neuschwanstein Castle
+Key locations: Munich,[^ref-15] Neuschwanstein Castle[^ref-27]
 
 ### Rennes-le-Château (Blood of the Sacred)
 The trilogy concludes in the Languedoc in France, in a mystery involving vampires, the Knights Templar and the Holy Grail; the game recreates real places such as Rennes-les-Bains and the Château de Blanchefort.[^ref-16]
@@ -114,15 +114,15 @@ George Starostin wrote: "Gabriel Knight: Sins Of The Fathers is, without questio
 ## Legacy
 
 ### Industry Impact
-- Showed adventure games could tackle mature, research-based horror themes[^ref-1]
-- *Computer Gaming World* dubbed Jensen "the interactive Anne Rice"[^ref-10]
+- MobyGames notes that the series' stories, despite their supernatural elements, are "based on real studies of the occult"[^ref-1]
+- *Computer Gaming World*'s 1996 top-150 entry for The Beast Within called Jensen "the interactive Ann Rice" [*sic*][^ref-29]
 - Wikipedia notes GK3 "did not reach the same success" as the first two games[^ref-10]
 
 ### Jane Jensen's Subsequent Work
 After Sierra, Jensen co-founded the casual games company Oberon Media.[^ref-20] Her later adventure work followed in this order:
-- **Gray Matter** (2010) - developed by Wizarbox and published by dtp entertainment[^ref-20][^ref-21]
+- **[[2010 - Gray Matter|Gray Matter]]** (2010) - developed by Wizarbox and published by dtp entertainment[^ref-20][^ref-21]
 - **Pinkerton Road Studio** - founded with her husband, composer [[Robert Holmes]], and announced on April 5, 2012[^ref-22][^ref-20]
-- **Moebius: Empire Rising** (2014) and the **Gabriel Knight 20th Anniversary Edition** (2014), the latter with [[Phoenix Online Studios]]
+- **[[2014 - Moebius - Empire Rising|Moebius: Empire Rising]]** (2014) and the **Gabriel Knight 20th Anniversary Edition** (2014),[^ref-20] both made with [[Phoenix Online Studios]]: Moebius was developed by Pinkerton Road Studio and Phoenix Online Studios,[^ref-28] and the remake was released by Phoenix Online Studios[^ref-2]
 
 ### Gabriel Knight 4: Five Hearts (Unreleased)
 In July 2024 Jensen said she had written "basically like the first chapter of a new Gabriel Knight story", and noted that "the licenses are with Microsoft".[^ref-23] The illustrated short story, "Five Hearts", was published on Robert Holmes's website in November 2024.[^ref-24][^ref-20] In a December 2025 Matt Chat interview she described a game pitch set in Salzburg, in which Gabriel investigates serial killings whose victims' hearts are removed; Microsoft, which holds the rights, has so far shown no interest.[^ref-26] No game is in development; see [[TBD - Gabriel Knight 4 - Five Hearts]].
@@ -154,7 +154,7 @@ In July 2024 Jensen said she had written "basically like the first chapter of a 
 ## See Also
 
 - [[Jane Jensen]] - Series creator
-- [[Robert Holmes]] - Composer (GK1; main themes and opera for GK2; main themes for GK3, whose score was by David Henry)
+- [[Robert Holmes]] - Composer (GK1; main themes and opera for GK2; main themes for GK3, whose score was by David Henry); composer and executive producer of the 2014 20th Anniversary Edition
 - [[King's Quest Series]] - Sierra's flagship adventure series
 - [[Laura Bow Series]] - Another mystery-focused Sierra series
 - [[1993 - Gabriel Knight - Sins of the Fathers]]
@@ -174,7 +174,7 @@ In July 2024 Jensen said she had written "basically like the first chapter of a 
 [^ref-7]: [Only Solitaire - Gabriel Knight](https://onlysolitaire.substack.com/p/game-review-gabriel-knight-sins-of) – George Starostin "best adventure game ever made by Sierra On-Line" quote
 [^ref-8]: [Behind The Voice Actors - Gabriel Knight: Sins of the Fathers](https://www.behindthevoiceactors.com/video-games/gabriel-knight-sins-of-the-fathers/) – Voice cast: Curry, Hamill, Remini, Dorn, Zimbalist Jr, Capers
 [^ref-9]: [ScummVM - Compatibility](https://www.scummvm.org/compatibility/) – Lists sci:gk1 and sci:gk2 only
-[^ref-10]: [Wikipedia - Gabriel Knight (series)](https://en.wikipedia.org/wiki/Gabriel_Knight) – CGW's "the interactive Anne Rice"; Dean Erickson and Joanne Takahashi (GK2); Charity James (GK3); Jason Victor and Cissy Jones (2014); GK3 the final Sierra game
+[^ref-10]: [Wikipedia - Gabriel Knight (series)](https://en.wikipedia.org/wiki/Gabriel_Knight) – Dean Erickson and Joanne Takahashi (GK2); Charity James (GK3); Jason Victor and Cissy Jones (2014); GK3 the final Sierra game
 [^ref-11]: [Computer Gaming World #119 (June 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_119) – Premier Awards: "the co-winners of the PREMIER Adventure Game of the Year award are Gabriel Knight: Sins of the Fathers and Day of the Tentacle"
 [^ref-12]: [Computer Gaming World #143 (June 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_143) – Premier Awards: "GAME OF THE YEAR Gabriel Knight 2: The Beast Within"; "a clear-cut choice"
 [^ref-13]: [GameRankings - Gabriel Knight: Sins of the Fathers (Wayback, February 2009)](https://web.archive.org/web/20090207143808/http://www.gamerankings.com/htmlpages2/562666.asp?q=gabriel%20knight) – "Avg Ratio: 93% Based On 5 Media Outlets"
@@ -191,3 +191,6 @@ In July 2024 Jensen said she had written "basically like the first chapter of a 
 [^ref-24]: [Adventure Game Hotspot - Jane Jensen releases Gabriel Knight short story Five Hearts](https://adventuregamehotspot.com/announcement/3108/jane-jensen-releases-gabriel-knight-short-story-five-hearts) – Jack Allin, November 2024: first chapter available from Robert Holmes' website
 [^ref-25]: [Game Developer - Playing Catch-Up: Gabriel Knight's Jane Jensen](https://www.gamedeveloper.com/pc/playing-catch-up-i-gabriel-knight-i-s-jane-jensen) – Alistair Wallis, May 17, 2007: Ken Williams "lighter and more cheerful" recollection
 [^ref-26]: [Multiplayer.it - Gabriel Knight 4 è un progetto già avviato dall'autrice Jane Jensen](https://multiplayer.it/notizie/gabriel-knight-4-e-un-progetto-gia-avviato-dallautrice-jane-jensen-che-spera-di-poterlo-concludere.html) – Giorgio Melani, December 2025: Matt Chat interview; pitch set in Salzburg; Microsoft has shown no interest so far
+[^ref-27]: [The Digital Antiquarian - The Beast Within: A Gabriel Knight Mystery](https://www.filfre.net/2021/08/the-beast-within-a-gabriel-knight-mystery/) – Jimmy Maher: the team photographed "Munich's city center, the Wagner Museum in Bayreuth, and Neuschwanstein"; "Much of Grace's time is spent touring Neuschwanstein Castle"
+[^ref-28]: [Wikipedia - Moebius: Empire Rising](https://en.wikipedia.org/wiki/Moebius:_Empire_Rising) – "developed by Pinkerton Road Studio and Phoenix Online Studios, and published by Phoenix Online Publishing"
+[^ref-29]: [Computer Gaming World #148 (November 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_148) – "The Top 150 Games Of All Time", p. 65: "17. Gabriel Knight 2 … A haunting tale from Jane Jensen, the interactive Ann Rice" (spelling checked on the page image)

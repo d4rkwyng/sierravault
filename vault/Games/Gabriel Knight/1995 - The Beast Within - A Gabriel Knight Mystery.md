@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: SCI2.1
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 description: 'The Beast Within: A Gabriel Knight Mystery is a 1995 full-motion video
  adventure game by Sierra On-Line. Jimmy Maher wrote that "at its best and judged in
  the context of its time, it was one of the most impressive interactive narratives
@@ -19,7 +19,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # The Beast Within: A Gabriel Knight Mystery
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -79,7 +79,7 @@ The Beast Within received widespread critical acclaim upon release, winning Comp
 | Computer Gaming World | 5/5 stars | Called it "a graphic adventure benchmark"[^ref-12] |
 | Computer Game Review | 91/94/96 | Three reviewers[^ref-12][^ref-61] |
 
-Computer Gaming World named The Beast Within their 1995 Game of the Year, with its staff calling it "the continuation of a brilliant tradition—the graphic adventure as art"[^ref-12]. In 1996, the magazine ranked the game the 17th-best computer game ever — the highest position for any graphic adventure at that point — and declared Jane Jensen as "the interactive Anne Rice"[^ref-12]. GameSpot's Jeff Sengstack declared it "light years beyond the first" Gabriel Knight game and praised it as "well-executed, visceral, mentally exhausting, and exciting entertainment"[^ref-23].
+Computer Gaming World named The Beast Within their 1995 Game of the Year, with its staff calling it "the continuation of a brilliant tradition—the graphic adventure as art"[^ref-12]. In 1996, the magazine ranked the game the 17th-best computer game ever — the highest position for any graphic adventure at that point[^ref-12] — and its entry described the game as "a haunting tale from Jane Jensen, the interactive Ann Rice" [*sic*][^ref-71]. GameSpot's Jeff Sengstack declared it "light years beyond the first" Gabriel Knight game and praised it as "well-executed, visceral, mentally exhausting, and exciting entertainment"[^ref-23].
 
 ### Modern Assessment
 
@@ -163,7 +163,7 @@ When the game was first released in Germany it shipped in English, without dubbi
 - Robert Holmes wrote the music for a scene from the fictional opera "Der Fluch Des Engelhart," with libretto by Jane Jensen[^ref-12][^ref-16]
 - The game is equivalent to five feature films in scope, with a 600-page script[^ref-17] and 763 video files[^ref-16]
 - VICE described the game as "a subversively campy adventure, bursting at the seams with ambition"[^ref-55]
-- Computer Gaming World named Jane Jensen "the interactive Anne Rice"[^ref-12]
+- Computer Gaming World's 1996 top-150 entry for the game called Jane Jensen "the interactive Ann Rice" [*sic*][^ref-71]
 - The game was the fourth-best-selling US computer game of January 1996,[^ref-56] but Jensen was disappointed: "I thought it would be top ten. And it was—for about a week"[^ref-12]
 - Sierra initially tried to use local actors to cut costs before deciding to cast from Los Angeles—Jensen recalled: "We said, 'Screw it,' and started casting people from L.A."[^ref-17]
 - The Bavaria locations were photographed on overcast days deliberately—creative director Nathan Gams wanted "a soft, gloomy kind of European spring feel"[^ref-15]
@@ -217,3 +217,4 @@ The game reached fourth place among US computer-game sales in January 1996[^ref-
 [^ref-68]: [SteamDB – The Beast Within: A Gabriel Knight Mystery](https://steamdb.info/app/496760/) – - Steam release date 29 August 2016
 [^ref-69]: [PC Games – Gabriel Knight 2: FMV, Schauspiel & deutsche Fassung](https://www.pcgames.de/Gabriel-Knight-2-The-Beast-Within-Spiel-2918/Specials/Retro-Adventure-Legende-1483735/4/) – - German retro feature on the localization: main characters in standard German, locals in Bavarian dialect
 [^ref-70]: [MobyGames – The Beast Within credits (DOS), Wayback February 2025](https://web.archive.org/web/20250214133442/https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/credits/dos/) – - "Main Themes Composed by Robert Holmes"; "Additional Orchestration and Arrangement by Jay D. Usher"
+[^ref-71]: [Computer Gaming World #148 (November 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_148) – - "The Top 150 Games Of All Time", p. 65: "17. Gabriel Knight 2 … A haunting tale from Jane Jensen, the interactive Ann Rice" (spelling checked on the page image)
