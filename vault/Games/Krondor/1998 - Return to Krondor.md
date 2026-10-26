@@ -10,14 +10,14 @@ series: Krondor
 engine: True3D
 protagonist: Squire James
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 description: Return to Krondor is a fantasy role-playing game released in November
   1998, serving as the direct sequel to the critically acclaimed Betrayal at Krondor...
 tags: [1990s, krondor, rpg, sierra]
 ---
 # Return to Krondor
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ Return to Krondor is a fantasy role-playing game released in November 1998, serv
 
 Developed by PyroTechnix using their proprietary True3D engine, Return to Krondor went through a troubled development history that saw the project pass between multiple companies before finally reaching completion[^ref-1]. The game also marked Sierra's return to the Krondor license: Dynamix, then a Sierra division, cancelled its planned sequel in 1994, 7th Level licensed the project in 1995, and Sierra regained it when it bought PyroTechnix, "and with PyroTechnix goes the rights to Return to Krondor"[^ref-1][^ref-34]. While the game was designed to be "Book 1: Harbinger of Shadows"—the first in a planned series—Sierra ultimately discontinued the franchise, leaving the storyline uncontinued in game form[^ref-5].
 
-Despite receiving mixed reviews due to its short length and linear structure compared to its predecessor, Return to Krondor earned nominations for multiple awards including Academy of Interactive Arts & Sciences PC Role Playing Game of the Year and Computer Gaming World Best RPG[^ref-1]. Its promotional copy, reproduced on ModDB, highlights an "Excellent story set in Raymond E. Feist's world of Midkemia with surprising plot twists" and a "Great, atmosphere-building soundtrack"[^ref-6].
+Return to Krondor received above-average reviews according to GameRankings (72%), though critics faulted its short length and linear structure compared to its predecessor[^ref-1]. It earned nominations for multiple awards including Academy of Interactive Arts & Sciences PC Role Playing Game of the Year and Computer Gaming World Best RPG[^ref-1]. Its promotional copy, reproduced on ModDB, highlights an "Excellent story set in Raymond E. Feist's world of Midkemia with surprising plot twists" and a "Great, atmosphere-building soundtrack"[^ref-6].
 
 > [!info]- Game Info
 > **Developer:** PyroTechnix, 7th Level[^ref-1]
@@ -77,7 +77,7 @@ Character development uses a leveling system with manual skill point allocation[
 
 ### Contemporary Reviews
 
-Return to Krondor received mixed reviews upon release, with critics generally praising its story and combat system while criticizing its short length and linear structure.
+Return to Krondor received above-average reviews according to GameRankings (72%)[^ref-1], with critics generally praising its story and combat system while criticizing its short length and linear structure.
 
 GameSpot awarded the game 7.9/10, with reviewer Desslock noting that "Return to Krondor may not be an epic sequel to Betrayal at Krondor, but its excellent graphics and immersive plot make it an enjoyable story-driven game"[^ref-21]. PC Gamer US gave it 80%, calling it "a fun, quick RPG with a good story"[^ref-1]. Computer Games Strategy Plus was highly enthusiastic, with John Altman calling it "very engaging and a stunning return to form for the Krondor series" featuring "some of the juiciest turn-based battles ever to grace a role-playing game"[^ref-3].
 
@@ -108,7 +108,7 @@ The development of Return to Krondor has its roots in the tremendous success of 
 
 The rights to create Midkemia games had originally been secured through a licensing deal with Raymond E. Feist. Feist was protective of his intellectual property; when approached about contributing directly to game development, he stated that his time was money and noted flatly, "you couldn't afford me"[^ref-30]. By one account, it was "the most expensive literary license yet granted to a game developer"[^ref-30].
 
-After Dynamix abandoned the sequel, 7th Level acquired the rights and began production in 1995[^ref-31]. Neal Hallford, one of the original Betrayal at Krondor designers, began consulting for 7th Level on the design and story of Return to Krondor in 1994[^ref-32].
+After Dynamix abandoned the sequel, 7th Level acquired the rights and began production in 1995[^ref-31]. Neal Hallford, one of the original Betrayal at Krondor designers, began consulting for 7th Level on the design and story of Return to Krondor[^ref-32].
 
 ### Production
 
