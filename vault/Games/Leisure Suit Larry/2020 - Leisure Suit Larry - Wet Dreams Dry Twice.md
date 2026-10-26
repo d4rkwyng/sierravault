@@ -12,14 +12,14 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-24'
+last_updated: '2026-10-26'
 description: 'Leisure Suit Larry: Wet Dreams Dry Twice is a 2020 point-and-click adventure
   game developed by German studio CrazyBunch and published by Assemble Entertainment.'
 tags: [2020s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Dry Twice
 
-<small style="color: gray">Last updated: October 24, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -157,7 +157,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-15]: [GameCritics Review](https://gamecritics.com/damiano-gerli/leisure-suit-larry-wet-dreams-dry-twice-review/) – Professional review with 6.5/10 score
 [^ref-17]: [Gematsu Console Announcement](https://www.gematsu.com/2020/11/leisure-suit-larry-wet-dreams-dry-twice-coming-to-ps4-xbox-one-and-switch-in-spring-2021) – Official console port announcement
 [^ref-18]: [Gematsu Release Date](https://www.gematsu.com/2021/04/leisure-suit-larry-wet-dreams-dry-twice-for-ps4-xbox-one-and-switch-launches-may-18) – Console release confirmation
-[^ref-20]: [GOG Store Page](https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dry_twice) – Official store page with user reviews (store page removed October 2026; the URL now redirects to GOG's catalogue)
+[^ref-20]: [GOG Store Page (Wayback, 2026-10-06)](http://web.archive.org/web/20261006085747/https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dry_twice) – Official store page with user reviews (store page removed October 2026; the URL now redirects to GOG's catalogue)
 [^ref-22]: [IMDb](https://www.imdb.com/title/tt12909364/) – Cast and crew information
 [^ref-25]: Little Bits of Gaming, "Game Review: Leisure Suit Larry: Wet Dreams Dry Twice" (May 25, 2021) – independent gaming blog review (unlinked: page embeds suggestive screenshots)
 [^ref-26]: [IMDb Trivia](https://m.imdb.com/title/tt12909364/trivia/) – Development insights and Al Lowe exclusion

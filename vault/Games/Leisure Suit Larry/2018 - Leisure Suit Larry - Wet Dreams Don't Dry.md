@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-24'
+last_updated: '2026-10-26'
 description: 'Leisure Suit Larry: Wet Dreams Don''t Dry is the ninth installment in
   the Leisure Suit Larry series, a 2018 point-and-click adventure by CrazyBunch that
   sends Larry Laffer from the late 1980s into the age of smartphones and dating apps.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Don't Dry
 
-<small style="color: gray">Last updated: October 24, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -172,7 +172,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-33]: [Hardcore Gamer Archive](https://web.archive.org/web/20181108121445/https://www.hardcoregamer.com/2018/11/07/leisure-suit-larry-wet-dreams-dont-dry-now-available/317396/) – Franchise revival assessment
 [^ref-34]: [PC Gamer Sequel News](https://www.pcgamer.com/leisure-suit-larry-wet-dreams-dry-twice-delayed-to-october-23/) – Sequel development
 [^ref-35]: [TV Tropes YMMV Page](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/LeisureSuitLarryWetDreamsDontDry) – Fan and critical consensus
-[^ref-36]: [GOG Store Page](https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dont_dry) – Digital distribution availability (store page removed October 2026; the URL now redirects to GOG's catalogue)
+[^ref-36]: [GOG Store Page (Wayback, 2026-09-23)](http://web.archive.org/web/20260923164442/https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dont_dry) – Digital distribution availability (store page removed October 2026; the URL now redirects to GOG's catalogue)
 [^ref-37]: [Steam Store Page](https://store.steampowered.com/app/765870/) – Steam availability
 [^ref-38]: [TheXboxHub Console News](https://www.thexboxhub.com/wet-dreams-dont-dry-as-leisure-suit-larry-comes-to-xbox-one/) – Console platform availability
 [^ref-47]: [Indie Game Reviewer](https://indiegamereviewer.com/leisure-suit-larry-wet-dreams-dont-dry-review/) – Independent review perspective
