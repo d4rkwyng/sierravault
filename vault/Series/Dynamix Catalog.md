@@ -3,20 +3,20 @@ title: "Dynamix Catalog"
 type: series_overview
 created_by: "Jeff Tunnell, Damon Slye"
 developer: "Dynamix"
-first_release: 1984
+first_release: 1985
 last_release: 2001
 total_games: 112
 genre: "Multiple (flight sim, mech, adventure, puzzle, sports, action)"
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 ---
 
 # Dynamix Catalog
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-The Dynamix catalog collects the games made by **Dynamix, Inc.**, the developer that [[Jeff Tunnell]] and [[Damon Slye]] founded in Eugene, Oregon, in 1984.[^ref-1][^ref-2] Sierra On-Line bought the studio in 1990 and closed it on August 14, 2001.[^ref-1][^ref-2] MobyGames lists 112 games released under the Dynamix name between 1985 and 2009, a count that includes later compilations such as the 2009 *Red Baron Pack*.[^ref-2]
+The Dynamix catalog collects the games made by **Dynamix, Inc.**, the developer that [[Jeff Tunnell]] and [[Damon Slye]] founded in Eugene, Oregon, in 1984.[^ref-1][^ref-2] Sierra On-Line bought the studio in 1990 and closed it on August 14, 2001.[^ref-1][^ref-2] MobyGames lists 112 games released under the Dynamix name between 1985 and 2009; that is MobyGames' count, and it includes later compilations such as the 2009 *Red Baron Pack*, so it is larger than the list of Dynamix-made games below.[^ref-2]
 
 Before Sierra, Dynamix made games for Penguin Software, Electronic Arts, Activision and other publishers.[^ref-27][^ref-1] Under Sierra it became, in Retro Invaders' words, "one of their largest development teams".[^ref-27] Its work there covered flight simulation (*Red Baron*, the Aces games), adventure (*Rise of the Dragon*, *Heart of China*, *The Adventures of Willy Beamish*, *Betrayal at Krondor*), puzzles (*The Incredible Machine*), sports (Front Page Sports) and mech combat (Metaltech, Earthsiege, Starsiege), which led to the *Tribes* online shooters.[^ref-1][^ref-28]
 
@@ -82,11 +82,11 @@ Slye recalled that after the Sierra purchase "half the company stayed focused on
 
 ### The Incredible Machine (1992–2001)
 
-[[Jeff Tunnell]] left Dynamix to found [[Jeff Tunnell Productions]] in early 1992, and the new studio made *The Incredible Machine*.[^ref-7][^ref-2] Several entries are credited on their SierraVault pages to Jeff Tunnell Productions rather than to Dynamix.
+[[Jeff Tunnell]] left Dynamix to found [[Jeff Tunnell Productions]] in early 1992, and *The Incredible Machine* was made at the new studio;[^ref-7][^ref-2] on release the game was credited to Dynamix, as MobyGames records.[^ref-32] Several entries are credited on their SierraVault pages to Jeff Tunnell Productions rather than to Dynamix.
 
 | Year | Title | Developer (vault page) |
 |------|-------|------------------------|
-| 1992 | [[1992 - The Incredible Machine\|The Incredible Machine]] | Dynamix |
+| 1992 | [[1992 - The Incredible Machine\|The Incredible Machine]] | Made at Jeff Tunnell Productions; credited to Dynamix on release[^ref-7][^ref-32] |
 | 1993 | [[1993 - The Even More Incredible Machine\|The Even More Incredible Machine]] | Jeff Tunnell Productions |
 | 1993 | [[1993 - Sid & Al's Incredible Toons\|Sid & Al's Incredible Toons]] | Jeff Tunnell Productions |
 | 1994 | [[1994 - The Incredible Machine 2\|The Incredible Machine 2]] | Jeff Tunnell Productions |
@@ -99,7 +99,7 @@ Players build Rube Goldberg-style contraptions from a parts list, and Jimmy Mahe
 
 ### Front Page Sports (1992–1999)
 
-Dynamix's sports-simulation line began with *Front Page Sports Football* in 1992.[^ref-1] Wikipedia's index of the series lists Football, Baseball, Golf and Ski Racing.[^ref-6] Dynamix-developed entries with vault pages:
+The Front Page Sports line began with *Front Page Sports Football* in 1992.[^ref-1] Wikipedia's index of the series lists Football, Baseball, Golf and Ski Racing.[^ref-6] Dynamix-developed entries with vault pages:
 
 - [[1992 - Front Page Sports Football 92]], [[1993 - Front Page Sports - Football Pro]], [[1994 - Front Page Sports - Football Pro '95]], [[1995 - Front Page Sports - Football Pro '96]], [[1996 - Front Page Sports - Football Pro '97]]
 - [[1994 - Front Page Sports - Baseball Pro]], [[1996 - Front Page Sports - Baseball Pro '96]], [[1997 - Front Page Sports - Baseball Pro '98]]
@@ -143,6 +143,7 @@ The later Krondor games were made by other teams: *Betrayal in Antara* (Sierra O
 *Stellar 7* first came out in 1983, before the company was founded, and was later remade with the Dynamix name on it.[^ref-1]
 
 - [[1990 - Stellar 7]] (Dynamix remake), [[1991 - Nova 9 - The Return of Gir Draxon]], [[1993 - Stellar 7 - Draxon's Revenge]] (3DO)[^ref-1]
+- [[1993 - Stellar-Fire]] (1993, Sega CD; published by Dynamix, developed by Infinite Laser Dog per MobyGames)[^ref-31][^ref-1]
 
 ## Other Sierra-Era Titles
 
@@ -155,19 +156,23 @@ The later Krondor games were made by other teams: *Betrayal in Antara* (Sierra O
 - [[1996 - Hunter Hunted]][^ref-1]
 - [[1996 - Rama]]
 - [[1997 - Outpost 2 - Divided Destiny]] — the second game in Sierra's Outpost strategy series[^ref-1]
-- [[1998 - Hoyle Classic Board Games]]
 
 ## Pre-Sierra Catalog (1984–1989)
 
-Before 1989 Dynamix's games were published by other companies, among them Penguin Software, Electronic Arts and Activision.[^ref-1][^ref-27] Arcticfox came from its first contract, with Electronic Arts.[^ref-2]
+Before 1989 Dynamix's games were published by other companies, among them Penguin Software, Electronic Arts, Activision, Gamestar and Accolade.[^ref-1][^ref-27] Arcticfox came from its first contract, with Electronic Arts.[^ref-2]
 
 | Year | Title | Publisher |
 |------|-------|-----------|
-| 1984 or 1985 | *Sword of Kadash* | Penguin Software |
+| 1985 | *Sword of Kadash* | Penguin Software |
 | 1986 | *Arcticfox* | Electronic Arts |
+| 1986 | *GBA Championship Basketball: Two-on-Two* (Amiga and Atari ST ports; developed by Gamestar)[^ref-36] | Activision |
+| 1987 | *Championship Baseball* (Atari ST and Amiga ports; developed by Gamestar)[^ref-35] | Activision |
 | 1987 | *Skyfox II: The Cygnus Conflict* | Electronic Arts |
+| 1988 | *The Train: Escape to Normandy* (DOS port; developed by Artech)[^ref-37] | Accolade |
+| 1988 | *Pete Rose Pennant Fever*[^ref-33] | Gamestar |
 | 1988 | *Caveman Ughlympics* | Electronic Arts |
-| 1989 | *F-14 Tomcat* | Activision |
+| 1988 (Wikipedia) / February 1989 (MobyGames) | *F-14 Tomcat* (C64)[^ref-1][^ref-30] | Activision |
+| 1989 | *Motocross*[^ref-34] | Gamestar |
 | 1989 | *Abrams Battle Tank* | Electronic Arts |
 | 1989 | [[1989 - MechWarrior\|MechWarrior]] | Activision |
 | 1989 | *Deathtrack* | Activision |
@@ -177,13 +182,13 @@ Before 1989 Dynamix's games were published by other companies, among them Pengui
 | 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Dynamix label, distributed by Activision |
 | 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Dynamix label, distributed by Activision |
 
-Sources for the table: Wikipedia's list of Dynamix games[^ref-1] and MobyGames.[^ref-2] *Sword of Kadash*'s release year is disputed.
+Sources for the table: Wikipedia's list of Dynamix games[^ref-1] and MobyGames.[^ref-2] *Sword of Kadash* came out in 1985 for the Apple II and Commodore 64.[^ref-1][^ref-29] Where MobyGames credits Dynamix only with a port, the table says so.
 
 ## Studio History
 
 ### Founding and pre-Sierra (1984–1990)
 
-Tunnell and Slye first called the company Software Entertainment Company and renamed it Dynamix in 1984; Kevin Ryan and Richard Hicks then joined as co-owner partners.[^ref-2] Dynamix decided to publish its own games, but the 1989 Activision affiliated-label releases did not make enough money to keep the company going.[^ref-2] On March 27, 1990, the owners agreed to sell to Sierra On-Line for $1.5 million.[^ref-18] MobyGames gives August 1990 for the sale and says Sierra bought the company for its know-how in simulations, genres in which Sierra was weak.[^ref-2]
+Tunnell and Slye first called the company Software Entertainment Company and renamed it Dynamix in 1984; Kevin Ryan and Richard Hicks then joined as co-owner partners.[^ref-2] Dynamix decided to publish its own games, but the 1989 Activision affiliated-label releases did not make enough money to keep the company going.[^ref-2] Retro365 reports that on March 27, 1990, the owners reached an agreement to sell to Sierra On-Line, valued at $1.5 million.[^ref-18] MobyGames gives August 1990 for the sale and says Sierra bought the company for its know-how in simulations, genres in which Sierra was weak.[^ref-2]
 
 ### The Sierra years (1990–1996)
 
@@ -222,8 +227,8 @@ Several Dynamix veterans, Tunnell among them, stayed in Eugene and founded Garag
 [^ref-7]: [The Digital Antiquarian — The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) — Jimmy Maher: Tunnell founded Jeff Tunnell Productions in early 1992; "the urtext of the entire genre of so-called 'physics simulators'"
 [^ref-8]: [Wikipedia — GarageGames](https://en.wikipedia.org/wiki/GarageGames) — founded in Eugene in 2000 by Jeff Tunnell, Tim Gift, Rick Overman and Mark Frohnmayer
 [^ref-18]: [Retro365 — Dynamix's adventures](https://retro365.blog/2024/08/23/dynamixs-adventures/) — Tunnell and Dave Selle "began crafting the story and initial design" of Rise of the Dragon in 1988; the DGDS engine; March 27, 1990 Sierra agreement valued at $1.5 million
-[^ref-19]: [GeekVibes Nation — Flashback Friday: Dynamix/Sierra-Online](https://geekvibesnation.com/flashback-friday-pc-gaming-dynamix-sierra-online/) — Red Baron "won Computer Gaming World's 1991 Simulation of the Year award"; Hall of Fame two years later
-[^ref-20]: [Wikipedia — Tribes (video game series)](https://en.wikipedia.org/wiki/Tribes_(video_game_series)) — Hi-Rez bought the Tribes IP on October 23, 2010; rights sold to a subsidiary in 2019 and spun off as Prophecy Games by early 2020; Tribes 3: Rivals announced November 2023
+[^ref-19]: [Wikipedia — Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) — "won Computer Gaming World's 1991 Simulation of the Year award"; "in 1993 the magazine named the game to its Hall of Fame" (citing CGW #88, November 1991, and CGW May 1993)
+[^ref-20]: [Wikipedia — Tribes (video game series)](https://en.wikipedia.org/wiki/Tribes_(video_game_series)) — Hi-Rez bought the Tribes IP in October 2010; rights sold to a subsidiary in 2019 and spun off as Prophecy Games by early 2020; Tribes 3: Rivals announced November 2023
 [^ref-21]: [Wikipedia — Betrayal at Krondor](https://en.wikipedia.org/wiki/Betrayal_at_Krondor) — "In June 1994 Betrayal at Krondor won Computer Gaming World's Role-Playing Game of the Year award"
 [^ref-22]: [GameSpot — Sierra closes Dynamix (Wayback 2019)](https://web.archive.org/web/20190718152841/https://www.gamespot.com/articles/sierra-closes-dynamix/1100-2804068/) — "The closure includes lay-offs for 97 Dynamix employees"
 [^ref-23]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — CUC–HFS merger into Cendant (December 1997); sale to Havas announced November 20, 1998; Havas renamed Vivendi Universal Publishing (2000)
@@ -232,3 +237,12 @@ Several Dynamix veterans, Tunnell among them, stayed in Eugene and founded Garag
 [^ref-26]: [MobyGames — The Incredible Machine (2011)](https://www.mobygames.com/game/54831/the-incredible-machine/) — iPad/iPhone 2011; developed by Playdom, published by Disney Mobile. Tunnell detail: [TouchArcade, July 5, 2011](https://toucharcade.com/2011/07/05/the-incredible-machine-gets-a-heavy-dose-of-retro/) — puzzles "designed, in part, by Jeff Tunnel"; "Tunnel joined up with Playdom in 2010"
 [^ref-27]: [Retro Invaders — Unsung (and Mostly Forgotten) Heroes: Dynamix, Inc.](https://retroinvaders.com/index.php/en/125564/unsung-and-mostly-forgotten-heroes-dynamix-inc) — pre-Sierra titles "published by Penguin Software, Activision, Electronic Arts, Sega, Data East and Accolade"; "one of their largest development teams"
 [^ref-28]: [Game Developer — Interview: Slye and the Dynamix of Game Development](https://www.gamedeveloper.com/game-platforms/interview-slye-and-the-dynamix-of-game-development) — Slye: "half the company stayed focused on simulations and 3D games"; left after Aces Over Europe "in 1993 or 1994"
+[^ref-29]: [MobyGames — Sword of Kadash](https://www.mobygames.com/game/70210/) — read via the MobyGames API: Apple II 1985, Commodore 64 1985; developed by Dynamix, published by Penguin Software
+[^ref-30]: [MobyGames — F-14 Tomcat](https://www.mobygames.com/game/59771/) — read via the MobyGames API: Commodore 64, 1989-02; developed by Dynamix, published by Activision
+[^ref-31]: [MobyGames — Stellar-Fire](https://www.mobygames.com/game/27337/) — read via the MobyGames API: SEGA CD 1993; published by Dynamix, developed by Infinite Laser Dog
+[^ref-32]: [MobyGames — The Incredible Machine](https://www.mobygames.com/game/2473/) — read via the MobyGames API: DOS 1992; "Developed by Dynamix, Inc.", published by Sierra On-Line
+[^ref-33]: [MobyGames — Pete Rose Pennant Fever](https://www.mobygames.com/game/4375/) — read via the MobyGames API: DOS 1988-10; developed by Dynamix, published by Gamestar
+[^ref-34]: [MobyGames — Motocross](https://www.mobygames.com/game/1915/) — read via the MobyGames API: DOS 1989-06; developed by Dynamix, published by Gamestar
+[^ref-35]: [MobyGames — Championship Baseball](https://www.mobygames.com/game/1901/) — read via the MobyGames API: Atari ST 1987, Amiga 1988; developed by Gamestar, ported by Dynamix, published by Activision
+[^ref-36]: [MobyGames — GBA Championship Basketball: Two-on-Two](https://www.mobygames.com/game/9031/) — read via the MobyGames API: Amiga and Atari ST 1986-10; developed by Gamestar, ported by Dynamix, published by Activision
+[^ref-37]: [MobyGames — The Train: Escape to Normandy](https://www.mobygames.com/game/2276/) — read via the MobyGames API: DOS 1988; developed by Artech, ported by Dynamix, published by Accolade
