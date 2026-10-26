@@ -10,7 +10,7 @@ series: Sierra Attractions
 engine: Catalina 3D
 protagonist: Player-selected driver
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 description: '**Eat My Dust** is a 3D kart racing game developed by Davidson &
   Associates'' Funnybone Interactive with Van Duyne Engineering, published by Sierra
   On-Line for Windows 95...'
@@ -18,7 +18,7 @@ tags: [1990s, racing, sierra, sierra-attractions]
 ---
 # Eat My Dust
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -83,7 +83,7 @@ Home of the Underdogs described the game as "a decent racing game for kids that 
 ## Development
 
 ### Origins
-The game came together during a period of corporate consolidation. On February 21, 1996, CUC International announced it would acquire both Davidson & Associates and Sierra On-Line, and the Davidson acquisition closed in July 1996[^ref-22]. Davidson had acquired Funnybone Interactive in February 1995[^ref-22]. Funnybone had previously worked with Sierra on *Stay Tooned!*, and one of Eat My Dust's drivers returns from that game[^ref-13][^ref-17].
+The game came together during a period of corporate consolidation. On February 20, 1996, CUC International announced it would acquire both Davidson & Associates and Sierra On-Line[^ref-24], and the Davidson acquisition closed in July 1996[^ref-22]. Davidson had acquired Funnybone Interactive in February 1995[^ref-22]. Funnybone had previously worked with Sierra on *Stay Tooned!*, and one of Eat My Dust's drivers returns from that game[^ref-13][^ref-17].
 
 ### Production
 MobyGames credits the following team[^ref-23]:
@@ -152,3 +152,4 @@ The Funnybone Interactive Wiki notes compatibility issues when running the game 
 [^ref-17]: [Funnybone Interactive Wiki](https://funnybone.fandom.com/wiki/Eat_My_Dust) – Environments, Stay Tooned! character, track editor and compatibility trivia
 [^ref-22]: [Wikipedia - Davidson & Associates](https://en.wikipedia.org/wiki/Davidson_%26_Associates) – Funnybone acquisition (Feb 1995); CUC acquisition of Davidson and Sierra (1996)
 [^ref-23]: [MobyGames - Eat My Dust Credits (Windows)](https://www.mobygames.com/game/42140/eat-my-dust/credits/windows/) – Full credits, Catalina 3D engine, trademark and copyright lines
+[^ref-24]: [SEC EDGAR – CUC International Form 8-K, February 1996 (Wayback copy)](https://web.archive.org/web/20170223223135/https://www.sec.gov/Archives/edgar/data/723612/0000909518-96-000040.txt) – press release "Stamford, CT -- February 20, 1996": CUC "announced today that it has signed definitive merger agreements" with Davidson and Sierra

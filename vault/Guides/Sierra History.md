@@ -143,7 +143,7 @@ In 1998 Sierra divided into five sub-brands[^ref-5]:
 
 On February 19, 1996, Sierra signed a merger agreement to be acquired by CUC International[^ref-24]; the deal closed on July 24, 1996[^ref-5]. By then Michael Brochu had been Sierra's president and chief operating officer since October 1995, with Ken Williams as founder and chairman[^ref-25]. Ken stayed on after the sale and left CUC in November 1997[^ref-5].
 
-CUC, which merged with HFS in December 1997 to form Cendant, was found in 1998 to have committed massive accounting fraud[^ref-5]. Roberta Williams stayed with Sierra to finish King's Quest: Mask of Eternity (December 1998)[^ref-5] and retired in 1999[^ref-2].
+CUC, which merged with HFS in December 1997 to form Cendant, was found in 1998 to have committed massive accounting fraud[^ref-5]. Roberta Williams stayed with Sierra to finish King's Quest: Mask of Eternity, which shipped on November 24, 1998[^ref-40], and retired in 1999[^ref-2].
 
 ### Chainsaw Monday
 
@@ -254,3 +254,4 @@ Following Microsoft's acquisition of Activision Blizzard in October 2023, the Si
 [^ref-37]: [Michael Bendner, "An Interview with Ken Williams", PC Multimedia & Entertainment (1995, Wayback 1998)](https://web.archive.org/web/19981206115537/http://www.pcme.com/intrview/kwilliam/kwilliam.htm) – "Our goal was to sell 10,000 copies … We wound up selling a LOT more than 10,000 copies."
 [^ref-38]: [The Digital Antiquarian – The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) – "On July 28, 1993, the deal was consummated"; AT&T bought a 20-percent stake, and the service "was rechristened The ImagiNation Network"
 [^ref-39]: [InterAction Magazine, Vol. VI No. 3 (Holiday 1993)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_3_Holiday_1993_1993_Sierra_On-Line_US) – "The ImagiNation Network (formerly TSN)"
+[^ref-40]: [The Digital Antiquarian – The End of Sierra as We Knew It, Part 2: The Scandal](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-2-the-scandal/) – "the game shipped on November 24, 1998"

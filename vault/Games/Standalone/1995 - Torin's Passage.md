@@ -10,7 +10,7 @@ series: Standalone
 engine: SCI2.1
 protagonist: Torin
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: '**Torin''s Passage** is a family-oriented fantasy adventure game designed
   by Al Lowe and released by Sierra On-Line in 1995, in which young Torin and his
   shape-shifting pet Boogle search the nested worlds of Strata for his kidnapped parents.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, al-lowe, sci, sierra]
 ---
 # Torin's Passage
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -103,7 +103,7 @@ The game's video sequences use the VMD (Video and Music Data) format with a nati
 
 ## Legacy
 
-Lowe planned Torin's Passage from the beginning as a five-part series and had all five games sketched out before the first was finished; Part 2 was to be called Torin's Challenge, which he says is one reason the ending is "so nebulous"[^ref-41]. On his website he explains that the series was meant to alternate years with King's Quest, but "market conditions, and Sierra's loss of founder Ken Williams, meant that the first game of five was also the last"[^ref-28]. Williams had left Sierra by the end of 1996, after the company's sale to CUC International[^ref-33].
+Lowe planned Torin's Passage from the beginning as a five-part series and had all five games sketched out before the first was finished; Part 2 was to be called Torin's Challenge, which he says is one reason the ending is "so nebulous"[^ref-41]. On his website he explains that the series was meant to alternate years with King's Quest, but "market conditions, and Sierra's loss of founder Ken Williams, meant that the first game of five was also the last"[^ref-28]. After the company's sale to CUC International, Williams felt by the end of 1996 that he had lost control of Sierra[^ref-33]; he stayed on until November 1997[^ref-46].
 
 Al Lowe has written that "Torin wasn't my best-selling game, it's probably the most meaningful to me because I wrote it for especially [sic] for my daughter and I to enjoy together"[^ref-28].
 
@@ -167,7 +167,7 @@ Al Lowe has written that "Torin wasn't my best-selling game, it's probably the m
 [^ref-29]: [Sierra Help](https://sierrahelp.com/Games/TorinsPassageHelp.html) – System requirements
 [^ref-30]: [VOGONS Forum](https://www.vogons.org/viewtopic.php?t=33749) – Technical video format details
 [^ref-31]: [Al Lowe's Website - Torin Extras](https://allowe.com/games/torin/torin-extras.html) – Psychedelic mode and hidden level select
-[^ref-33]: [VICE - Inside Story Sierra On-Line](https://www.vice.com/en/article/inside-story-sierra-online-death-cuc-cendant-fraud/) – Sale of Sierra to CUC closed in 1996; Ken Williams left Sierra by the end of 1996
+[^ref-33]: [VICE - Inside Story Sierra On-Line](https://www.vice.com/en/article/inside-story-sierra-online-death-cuc-cendant-fraud/) – Sale of Sierra to CUC closed in 1996; "By the end of 1996, it was clear to Williams that he'd lost control of the company he founded"
 [^ref-34]: [Computer Gaming World #139 (February 1996), pp. 130–131 – Charles Ardai, "Kings Quest VIII?"](https://archive.org/details/Computer_Gaming_World_Issue_139/page/n133/mode/1up) – 3/5 rating, "slick, professionally produced exercise of little consequence", generic soundtrack
 [^ref-35]: [Next Generation #15 (March 1996) – Torin's Passage review](https://archive.org/details/nextgen-issue-015/page/n98/mode/1up) – Four-star rating and "entertaining family-oriented adventure" quote
 [^ref-36]: [PC PowerPlay #1 (May 1996), p. 64 – David Wildgoose review](https://archive.org/details/PCPowerplay-001-1996-05/page/n63/mode/1up) – 5/10 overall, "bog-standard Sierra adventure", required specs
@@ -180,3 +180,4 @@ Al Lowe has written that "Torin wasn't my best-selling game, it's probably the m
 [^ref-43]: [The Digital Antiquarian – Jimmy Maher, "Making Sierra Pay" (2021)](https://www.filfre.net/2021/08/making-sierra-pay/) – "another mediocre performer"
 [^ref-44]: [Verbosity – "Leisure Time with Al Lowe"](http://verbosity.wiw.org/issue7/allowe.html) – "designed for a parent to share with a child"; Megan, then 11
 [^ref-45]: [GameSpot – Torin's Passage review summary (Wayback, 2003)](https://web.archive.org/web/20030405122125/http://www.gamespot.com:80/pc/adventure/torinspassage/review.html) – GameSpot score 7.0; release date 10/31/1995
+[^ref-46]: [Wikipedia – Ken Williams (game developer)](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) – president until the July 1996 sale to CUC; "He stayed on to guide its strategic direction until November 1997"

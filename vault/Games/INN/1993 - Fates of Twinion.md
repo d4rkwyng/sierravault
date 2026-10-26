@@ -138,7 +138,7 @@ Ken Williams, ImagiNation Network testers, ImagiNation Network friends, Sierra-O
 
 ### Technical Achievements
 
-Fates of Twinion was built on the same engine as **The Shadow of Yserbius**, its 1991 predecessor on The Sierra Network (renamed the ImagiNation Network after AT&T's purchase).[^ref-6] It did not stray far from Yserbius' model, offering a different dungeon to explore, and many graphics are reused between the two games.[^ref-6][^ref-12] Sound uses the AIL / Miles Sound System.[^ref-18]
+Fates of Twinion was built on the same engine as **The Shadow of Yserbius**, its 1991 predecessor on The Sierra Network (renamed the ImagiNation Network after AT&T bought a 20 percent stake in July 1993, more than a year before its November 1994 buyout).[^ref-6][^ref-24] It did not stray far from Yserbius' model, offering a different dungeon to explore, and many graphics are reused between the two games.[^ref-6][^ref-12] Sound uses the AIL / Miles Sound System.[^ref-18]
 
 ### Technical Specifications
 
@@ -226,6 +226,6 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 [^ref-21]: [CRPG Addict - Lines and Squares](http://crpgaddict.blogspot.com/2026/01/the-fates-of-twinion-lines-and-squares.html) - Detailed critique, breadth vs depth analysis
 [^ref-22]: [Reddit - Sierra](https://www.reddit.com/r/Sierra/comments/weq5zl/speedruns_of_shadows_of_yserbius/) - Speedrun community insights
 [^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-fates-of-twinion-1993) - Player memories
-[^ref-24]: [The Digital Antiquarian - The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) - "On August 7, 1996, America Online bought the service from AT&T for an undisclosed amount"; May 6, 1991 launch announcement
+[^ref-24]: [The Digital Antiquarian - The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) - "On August 7, 1996, America Online bought the service from AT&T for an undisclosed amount"; May 6, 1991 launch announcement; July 28, 1993 AT&T 20-percent stake, after which the service "was rechristened The ImagiNation Network"; AT&T bought the remaining shares November 15, 1994
 [^ref-25]: [Wikipedia - The Sierra Network](https://en.wikipedia.org/wiki/The_Sierra_Network) - "AT&T sold the ImagiNation Network in 1996 to America Online. By 1998, the service was discontinued."
 [^ref-26]: [Al Lowe - Where's LSL4?](https://allowe.com/games/larry/inside-stories/wheres-lsl4.html) - AT&T sold "the whole thing to America On-Line for 10 million"

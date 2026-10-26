@@ -10,14 +10,14 @@ series: Diablo
 engine: Diablo engine
 protagonist: The Hero (Warrior, Rogue, Sorcerer, or Monk)
 sierra_lineage: Sierra Label (Synergistic)
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 description: 'Diablo: Hellfire is the only expansion pack released for Blizzard
   Entertainment''s 1996 action RPG Diablo, developed by Synergistic Software and published by Sierra On-Line on November 24, 1997.'
 tags: [1990s, diablo, rpg, sierra]
 ---
 # Diablo: Hellfire
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -99,7 +99,7 @@ Phenixx Gaming awarded the Diablo/Hellfire bundle an 8.5 out of 10 in their 2020
 
 Following Diablo's enormous success as GameSpot's 1996 Game of the Year, there was significant market demand for additional content.[^ref-4] However, Blizzard North made the decision to focus their efforts on developing Diablo II rather than creating an expansion pack for the original game.[^ref-4] Executives at Sierra's parent company, CUC, pressed for an expansion instead; as Polygon put it, "To CUC's executives, abandoning Diablo was as good as leaving money on the table."[^ref-20]
 
-The expansion development was enabled through corporate relationships: in February 1996 Comp-U-Card International (CUC) acquired both Sierra On-Line and Davidson & Associates, Blizzard's parent, along with the companies they owned.[^ref-20][^ref-6] A November 1997 PC Gamer news item summed it up: "CUC owns two game companies: Sierra Online and Blizzard."[^ref-27] Blizzard's protests "fell on deaf ears," and CUC moved ahead with the expansion.[^ref-20] This corporate interference created a lack of cooperation between the subsidiary companies and set the stage for a contentious development process.[^ref-6]
+The expansion development was enabled through corporate relationships: in February 1996 Comp-U-Card International (CUC) agreed to buy both Sierra On-Line and Davidson & Associates, Blizzard's parent, and on July 24, 1996 it completed both mergers, acquiring the companies they owned.[^ref-20][^ref-6][^ref-28] A November 1997 PC Gamer news item summed it up: "CUC owns two game companies: Sierra Online and Blizzard."[^ref-27] Blizzard's protests "fell on deaf ears," and CUC moved ahead with the expansion.[^ref-20] This corporate interference created a lack of cooperation between the subsidiary companies and set the stage for a contentious development process.[^ref-6]
 
 ### Production
 
@@ -299,3 +299,4 @@ From a historical perspective, Hellfire is a case study in the relationship betw
 [^ref-25]: [Computer Games Strategy Plus – Hellfire review (Wayback Machine)](https://web.archive.org/web/20050406160853/http://www.cdmag.com/articles/009/185/hellfire_review.html) – Cindy Yans, Jan 16, 1998: Festering Nest "called 'The Hive' by many"; no multiplayer; same NPCs
 [^ref-26]: [HowLongToBeat – Diablo: Hellfire](https://howlongtobeat.com/game/2515) – 71% rating; Main Story 4½ h, Main + Sides 8 h, Completionist 11 h, All Styles 6½ h
 [^ref-27]: [PC Gamer News, week of November 17, 1997 (Wayback Machine)](https://web.archive.org/web/19980218070402/http://www.pcgamer.com/news/news-1997-11-17.html) – "CUC owns two game companies: Sierra Online and Blizzard"
+[^ref-28]: [SEC EDGAR – CUC International Form 8-K (event date July 24, 1996)](https://www.sec.gov/Archives/edgar/data/723612/0000909518-96-000251.txt) – Davidson and Sierra mergers both consummated "On July 24, 1996, pursuant to an Agreement and Plan of Merger dated as of February 19, 1996"

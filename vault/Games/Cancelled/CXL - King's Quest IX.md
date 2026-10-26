@@ -11,14 +11,14 @@ series: King's Quest
 engine: Various (cancelled before completion)
 protagonist: [Alexander, Rosella]
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-26'
 description: '"King''s Quest IX" is an umbrella term for **multiple cancelled attempts**
   to continue Sierra''s flagship adventure game series following King''s Quest VIII:...'
 tags: [adventure, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest IX (Cancelled)
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 
 ## Overview
@@ -156,7 +156,7 @@ No King's Quest IX was ever released, but several of the attempts drew press cov
 
 ### Origins
 
-The idea of a ninth King's Quest goes back to discussions with Roberta Williams after *Mask of Eternity*. These ideas never went into development.[^ref-20] Sierra had by then changed hands repeatedly. CUC acquired it, CUC merged with HFS to form Cendant, and in November 1998 Vivendi bought Cendant's software division and renamed it Havas Interactive.[^ref-5] Each later official attempt came from a different developer: Vivendi's Sierra Seattle studio, Silicon Knights and Telltale Games. All were cancelled before release, and The Odd Gentlemen rebooted the series in 2015.[^ref-20]
+The idea of a ninth King's Quest goes back to discussions with Roberta Williams after *Mask of Eternity*. These ideas never went into development.[^ref-20] Sierra had by then changed hands repeatedly. CUC acquired it, CUC merged with HFS to form Cendant, and on November 20, 1998 Cendant announced the sale of its software division to Havas SA, a subsidiary of Vivendi. The sale closed on January 12, 1999, and the division became Havas Interactive.[^ref-23][^ref-5] Each later official attempt came from a different developer: Vivendi's Sierra Seattle studio, Silicon Knights and Telltale Games. All were cancelled before release, and The Odd Gentlemen rebooted the series in 2015.[^ref-20]
 
 ### Why No True KQ9?
 
@@ -261,3 +261,4 @@ Much of what is known about these cancelled projects comes from fan community ef
 [^ref-20]: [Wikipedia – King's Quest](https://en.wikipedia.org/wiki/King%27s_Quest) – "Cancelled sequels" section: Prima strategy guide p. VIII, Vivendi 2001–2002 version, Silicon Knights prototype, Telltale cancellation
 [^ref-21]: [PCGamingWiki – The Silver Lining](https://www.pcgamingwiki.com/wiki/The_Silver_Lining) – engine: Torque Game Engine
 [^ref-22]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – "Seven classic games in one collection"
+[^ref-23]: [Cendant Corporation – Form 10-K/A for fiscal 1998 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0000723612/000095013699001310/0000950136-99-001310.txt) – "On November 20, 1998, we announced the execution of a definitive agreement to sell CDS"; sale to "Paris based Havas SA, a subsidiary of Vivendi SA" completed January 12, 1999

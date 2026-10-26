@@ -6,11 +6,11 @@ defunct: 2011
 headquarters: "Paris, France"
 notable_games: ["Gobliiins", "Lost in Time", "The Bizarre Adventures of Woodruff and the Schnibble"]
 parent_company: "Sierra On-Line (1993-1996); CUC Software, Havas and Vivendi Universal (1996-2005); Mindscape (2005-2011)"
-last_updated: '2026-10-15'
+last_updated: '2026-10-26'
 ---
 # Coktel Vision
 
-<small style="color: gray">Last updated: October 15, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -32,7 +32,7 @@ Sierra acquired Coktel Vision S.A. on 29 October 1993, for an initial purchase p
 
 ### CUC, Havas and Vivendi
 
-In February 1996 CUC International agreed to buy Sierra On-Line and Davidson & Associates, and Coktel became part of CUC's software division.[^ref-24][^ref-8] CUC's software business was sold to Havas in 1998, and Havas was later acquired by Vivendi.[^ref-8][^ref-3] After the commercial failure of Urban Runner (1996), Coktel turned from adventure games to educational titles, released mainly in Europe.[^ref-8][^ref-6] Oskian left the company in 1999, and Tramis left in 2003.[^ref-8] Vivendi Universal Games renamed the studio Coktel Studio in 2003.[^ref-6]
+In February 1996 CUC International agreed to buy Sierra On-Line and Davidson & Associates, and Coktel became part of CUC's software division.[^ref-24][^ref-8] CUC's software business was sold to Havas, which was already a subsidiary of Vivendi; the sale was announced in November 1998 and completed on 12 January 1999.[^ref-26][^ref-27][^ref-8][^ref-3] After the commercial failure of Urban Runner (1996), Coktel turned from adventure games to educational titles, released mainly in Europe.[^ref-8][^ref-6] Oskian left the company in 1999, and Tramis left in 2003.[^ref-8] Vivendi Universal Games renamed the studio Coktel Studio in 2003.[^ref-6]
 
 ### Sale to Mindscape
 
@@ -101,3 +101,5 @@ Coktel titles with SierraVault pages are listed below; Adventure Gamers keeps a 
 [^ref-23]: [Gamekult – VU Games cède Coktel à Mindscape, 21 October 2005 (Wayback)](https://web.archive.org/web/20180722125622/https://www.gamekult.com/actualite/vu-games-cede-coktel-a-mindscape-44419.html) — Mindscape acquires Coktel and its Adibou licences from VU Games; eleven staff join Mindscape
 [^ref-24]: [The New York Times – CUC Will Buy 2 Software Companies for $1.8 Billion, 21 February 1996 (Wayback)](https://web.archive.org/web/20180721043501/https://www.nytimes.com/1996/02/21/business/cuc-will-buy-2-software-companies-for-1.8-billion.html) — CUC International to acquire Sierra On-Line and Davidson & Associates
 [^ref-25]: [Lost in Time manual (Internet Archive)](https://archive.org/details/lost-time-manual) — player's role as Doralice Prunelier; locations: Manor de la Pruneliere 1992, the Briscarde and St. Cristobald 1840
+[^ref-26]: [Cendant Corporation – Form 10-K/A for fiscal 1998 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0000723612/000095013699001310/0000950136-99-001310.txt) — "On January 12, 1999, we completed the sale of Software to Paris based Havas SA, a subsidiary of Vivendi SA"; agreement announced November 20, 1998
+[^ref-27]: [CNNfn – Cendant sells software unit for $1 billion, 20 November 1998 (Wayback)](https://web.archive.org/web/2016/http://money.cnn.com/1998/11/20/worldbiz/cendant/) — "It will give Havas and its parent Vivendi" control of the company
