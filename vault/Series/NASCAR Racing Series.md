@@ -7,12 +7,12 @@ first_release: 1994
 last_release: 2003
 total_games: 13
 genre: "Racing Simulation"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 
 # NASCAR Racing Series
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -26,14 +26,14 @@ Papyrus was founded in 1987 by [[Dave Kaemmer]] and Omar Khudari and was acquire
 |------|-------|-----------|-------|
 | 1994 | [[1994 - NASCAR Racing\|NASCAR Racing]] | Virgin Interactive (DOS); Sierra (Mac, PlayStation) | Founding entry; DOS, later Mac and PlayStation[^ref-18] |
 | 1995 | NASCAR: Track Pack | Papyrus | Add-on for NASCAR Racing (MS-DOS)[^ref-1] |
-| 1996 | NASCAR Racing (PlayStation) | Sierra | Console port of the 1994 game[^ref-1][^ref-18] |
+| 1996 | NASCAR Racing (PlayStation) | Sierra | Console port of the 1994 game[^ref-1][^ref-18][^ref-26] |
 | 1996 | [[1996 - NASCAR Racing 2\|NASCAR Racing 2]] | Sierra | DOS and Windows |
 | 1997 | [[1997 - NASCAR Racing 2 - Grand National Series Expansion\|NASCAR Racing 2: Grand National Series Expansion]] | Sierra | Expansion pack[^ref-1] |
-| 1999 | NASCAR Racing 1999 Edition | Sierra | Windows[^ref-1][^ref-14] |
-| 1999 | [[1999 - NASCAR Racing 3\|NASCAR Racing 3]] | Sierra Sports | Main-line entry; first released 1999-10-12 per The Sierra Chest[^ref-12] |
+| 1999 | NASCAR Racing 1999 Edition | Sierra | Windows[^ref-1][^ref-14][^ref-24] |
+| 1999 | [[1999 - NASCAR Racing 3\|NASCAR Racing 3]] | Sierra Sports[^ref-12] | Main-line entry; shipped to North American retail in September 1999[^ref-23] |
 | 1999 | [[1999 - NASCAR Legends\|NASCAR Legends]] | Sierra | Recreates the 1970 Grand National season[^ref-19] |
 | 1999 | [[1999 - NASCAR Craftsman Truck Series Racing\|NASCAR Craftsman Truck Series Racing]] | Sierra | Truck-series spin-off[^ref-1] |
-| 2000 | NASCAR Racing 3 Craftsman Truck Series Expansion Pack | Sierra | Windows expansion[^ref-1] |
+| 2000 | NASCAR Racing 3 Craftsman Truck Series Expansion Pack | Sierra | Windows expansion[^ref-1][^ref-25] |
 | 2001 | [[2001 - NASCAR Racing 4\|NASCAR Racing 4]] | Sierra | 2000 Winston Cup tracks, 2001 drivers and teams[^ref-20] |
 | 2002 | [[2002 - NASCAR Racing 2002 Season\|NASCAR Racing 2002 Season]] | Sierra | Uses the NASCAR Racing 4 physics engine[^ref-7] |
 | 2003 | [[2003 - NASCAR Racing 2003 Season\|NASCAR Racing 2003 Season]] | Sierra | Final Papyrus entry[^ref-1] |
@@ -52,7 +52,7 @@ The PC Gamer US editors called it "the best racing game ever created" and gave i
 
 After the Sierra acquisition, NASCAR Racing 2 (1996) added Windows support. MobyGames' Papyrus history says NASCAR Racing 2 sold 800,000 units worldwide, and that NASCAR Racing 4 "had a revamped physics engine and took full advantage of 3D acceleration."[^ref-11] GameSpot called NASCAR Racing 4's physics "a new and vastly improved vehicle physics model" and said it "benefits from a new graphics engine".[^ref-13] *NASCAR Racing 2002 Season* "utilizes the physics engine used in NASCAR Racing 4."[^ref-7]
 
-iRacing describes *Grand Prix Legends* and *NASCAR Racing 2003 Season* as "considered monumental achievements in sim racing when they were released" that "continue to have a following even to this day."[^ref-8] NR2003 "has lived on through its modding community years after it was originally released in 2003 with many new mods and tracks coming out each year."[^ref-10]
+iRacing describes *Grand Prix Legends* and *NASCAR Racing 2003 Season* as "considered monumental achievements in sim racing when they were released" that "continue to have a following even to this day."[^ref-8]
 
 ## Spin-offs (1999)
 
@@ -88,8 +88,8 @@ NR2003 earned a Metacritic score of 89 and 95% from *PC Gamer* US.[^ref-9] GameS
 [^ref-8]: [iRacing — Papyrus](https://www.iracing.com/papyrus/) — GPL and NR2003 "considered monumental achievements in sim racing"; iRacing.com founded 2004
 [^ref-9]: [Wikipedia — NASCAR Racing 2003 Season](https://en.wikipedia.org/wiki/NASCAR_Racing_2003_Season) — Reception table (Metacritic 89/100, PC Gamer US 95%)
 [^ref-10]: [Giant Bomb — NASCAR Racing 2003 Season](https://www.giantbomb.com/wiki/Games/NASCAR_Racing_2003_Season) — "lived on through its modding community years after it was originally released"
-[^ref-11]: [MobyGames — Papyrus Design Group, Inc. (Wayback, 2023-07-18)](https://web.archive.org/web/20230718232538/https://www.mobygames.com/company/6/papyrus-design-group-inc/) — Company history: NR2 sales, NR4 revamped physics and 3D acceleration
-[^ref-12]: [The Sierra Chest — Nascar Racing 3 (Wayback, 2019-11-15)](https://web.archive.org/web/20191115175921/http://sierrachest.com/index.php?a=games&id=242&title=nascar-racing-3&fld=box) — First release 1999-10-12; publisher Sierra Sports; Nascar Racing Series group
+[^ref-11]: [MobyGames — Papyrus Design Group, Inc. (Wayback, 2023-07-18)](https://web.archive.org/web/20230718232538/https://www.mobygames.com/company/6/papyrus-design-group-inc/) — Company history: NR2 sales (800,000 units worldwide; no second source found for that figure), NR4 revamped physics and 3D acceleration. User-written; the same paragraph misdates NASCAR Legends (as 1998) and NASCAR Racing 3 (as 2000)
+[^ref-12]: [The Sierra Chest — Nascar Racing 3 (Wayback, 2019-11-15)](https://web.archive.org/web/20191115175921/http://sierrachest.com/index.php?a=games&id=242&title=nascar-racing-3&fld=box) — Publisher Sierra Sports; Nascar Racing Series group (its "first release 1999-10-12" is contradicted by period sources, see ref-23)
 [^ref-13]: [GameSpot — NASCAR Racing 4 review (Gord Goble)](https://www.gamespot.com/reviews/nascar-racing-4-review/1900-2687981/) — New physics model and graphics engine; "easily the finest stock car sim available"
 [^ref-14]: [PCGamingWiki — NASCAR Racing series](https://www.pcgamingwiki.com/wiki/Series:NASCAR_Racing) — Series list including NASCAR Racing 1999 Edition
 [^ref-16]: [MobyGames — NASCAR Racing credits (Wayback, 2017)](https://web.archive.org/web/20170603095833/http://www.mobygames.com/game/dos/nascar-racing/credits) — Kaemmer among "Designed by" and programmers
@@ -99,3 +99,7 @@ NR2003 earned a Metacritic score of 89 and 95% from *PC Gamer* US.[^ref-9] GameS
 [^ref-19]: [Wikipedia — NASCAR Legends](https://en.wikipedia.org/wiki/NASCAR_Legends) — Based on the 1970 NASCAR Grand National Series; same engine as NASCAR Racing 3
 [^ref-20]: [Wikipedia — NASCAR Racing 4](https://en.wikipedia.org/wiki/NASCAR_Racing_4) — All 21 tracks raced in Winston Cup in 2000; 25 drivers and teams of the 2001 season
 [^ref-21]: [PCGamingWiki — NASCAR Racing](https://www.pcgamingwiki.com/wiki/NASCAR_Racing) — "320x200 (VGA) or 640x480 (SVGA) only"
+[^ref-23]: [Computer Games Strategy Plus — NASCAR 3 Ships (William Abner, 09/16/1999; Wayback 2003)](https://web.archive.org/web/20030524191116/http://www.cdmag.com/articles/022/185/nascar3.html) — "Sierra Sports and Papyrus have shipped the third installment… started to show up at retail chains throughout North America"
+[^ref-24]: [MobyGames — NASCAR Racing: 1999 Edition](https://www.mobygames.com/game/3223/) — Windows, 1999 (read via the MobyGames API)
+[^ref-25]: [MobyGames — NASCAR Racing 3: Craftsman Truck Series Expansion Pack](https://www.mobygames.com/game/3221/) — Windows, 2000 (read via the MobyGames API)
+[^ref-26]: [MobyGames — NASCAR Racing (PlayStation)](https://www.mobygames.com/game/51079/) — PlayStation, 1996 (read via the MobyGames API)
