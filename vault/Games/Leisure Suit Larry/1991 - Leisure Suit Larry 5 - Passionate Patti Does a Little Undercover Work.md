@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI1
 protagonist: Larry Laffer / Passionate Patti
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: 'Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work
   (1991) is the fourth game in Al Lowe''s Leisure Suit Larry series, alternating
   between Larry Laffer and Passionate Patti and skipping a Larry 4 that was never made.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -117,7 +117,7 @@ US telephone company Sprint paid to be featured in the game: whenever Larry or P
 
 Leisure Suit Larry 5's impact on the series was significant but controversial. It brought VGA graphics and the icon interface to a new Larry adventure, but some later reviewers rate it poorly; 3rd World Geeks felt it "falls in the 'miss' category" of the series[^ref-1]. The game's simplified puzzle design and linear structure marked a departure from the more complex adventure gaming that characterized earlier Sierra titles[^ref-28].
 
-The mysterious "missing" Larry 4 became a running gag that persisted throughout the series' history. Fans were left to guess for years what happened to it; The Sierra Chest jokes that it "was never made but, by all means, DO keep looking for it!"[^ref-16]. Al Lowe later explained that Larry 4 was meant to be "the first multi-player on-line adventure game", which he, Jeff Stephenson and Matthew George began coding in January 1991[^ref-47]. The adventure design proved unworkable, and the board games built to test the system grew into Sierra's online service instead: "Constant Companion became The Sierra Network"[^ref-47][^ref-48]. After six months Lowe left the project because "the sales department was clamoring for Larry 4"; that game became Larry 5[^ref-48].
+The mysterious "missing" Larry 4 became a running gag that persisted throughout the series' history. Fans were left to guess for years what happened to it; The Sierra Chest jokes that it "was never made but, by all means, DO keep looking for it!"[^ref-16]. Al Lowe later explained that Larry 4 was meant to be "the first multi-player on-line adventure game", and recalls that he, Jeff Stephenson and Matthew George began coding it in January 1991[^ref-47]. Sierra's own magazine, however, was already reporting talk of a modem-based Larry in spring 1990[^ref-49]. The adventure design proved unworkable, and the board games built to test the system grew into Sierra's online service instead: "Constant Companion became The Sierra Network"[^ref-47][^ref-48]. After six months Lowe left the project because "the sales department was clamoring for Larry 4"; that game became Larry 5[^ref-48].
 
 The game was a commercial success. On November 15, 1991, the Nashua Telegraph reported that more than 125,000 copies had been sold since its September release[^ref-35]. Sierra's SEC filings put combined sales of the Leisure Suit Larry series at over 1.4 million copies[^ref-34].
 
@@ -184,3 +184,4 @@ The game was a commercial success. On November 15, 1991, the Nashua Telegraph re
 [^ref-46]: [Computer Gaming World #88 (November 1991), "Uncovering Passionate Patti in Sierra's Leisure Suit Larry 5" by J.D. Lambright](https://archive.org/details/Computer_Gaming_World_Issue_88) – - "LSL5 is a thoroughly enjoyable game"
 [^ref-47]: [Al Lowe – Where's LSL4?](https://allowe.com/games/larry/inside-stories/wheres-lsl4.html) – - Larry 4 as a multiplayer online adventure, begun January 1991; "Constant Companion became The Sierra Network"
 [^ref-48]: [Al Lowe – TSN's Larryland](https://allowe.com/games/larry/inside-stories/larryland.html) – - Lowe left the online project after six months; "The sales department was clamoring for Larry 4"
+[^ref-49]: [Sierra News Magazine, Vol. 3 No. 1 (Spring 1990)](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_1_Spring_1990) – - "the next Leisure Suit Larry installment will require (get this) — modem support" (Johnny Magpie rumor column)

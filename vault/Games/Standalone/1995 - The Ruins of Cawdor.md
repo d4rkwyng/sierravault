@@ -10,13 +10,13 @@ series: The Sierra Network MUD Trilogy
 engine: Shadow of Yserbius Engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-14'
+last_updated: '2026-10-26'
 description: The Ruins of Cawdor (1995) was the third and last graphical MUD from The Sierra Network / ImagiNation Network, a Macbeth-inspired dungeon game designed by Richard Aronson on the Shadow of Yserbius engine.
 tags: [1990s, rpg, sierra, the-sierra-network-mud-trilogy]
 ---
 # The Ruins of Cawdor
 
-<small style="color: gray">Last updated: October 14, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -24,7 +24,7 @@ The Ruins of Cawdor was the last of three graphical MUDs made for [[Sierra On-Li
 
 The game ran on the same engine as the earlier games. Players created a character from one of six guilds (thief, barbarian, cleric, knight, wizard or ranger) and explored the six floors of Castle Cawdor. Along the way they fought battles, solved puzzles, and found secret doors and magic items.[^ref-3][^ref-5] The French website Abandonware France described the game as "bourré de pièges, d'énigmes et de téléporteurs" (packed with traps, puzzles and teleporters). It judged Cawdor "nettement moins basique que les deux autres" (clearly less basic than the other two).[^ref-6]
 
-Cawdor came out only about a year before INN shut down in 1996.[^ref-4] Yserbius and Twinion were sold as offline boxed versions, but Cawdor never got an offline release.[^ref-1][^ref-6] It could not be played offline until a patch appeared in 2006.[^ref-6]
+Cawdor came out only about a year before AT&T sold INN to AOL in August 1996, and AOL discontinued the service by 1998.[^ref-30][^ref-31] Yserbius and Twinion were sold as offline boxed versions, but Cawdor never got an offline release.[^ref-1][^ref-6] It could not be played offline until a patch appeared in 2006.[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** Ybarra Productions[^ref-2]
@@ -153,7 +153,7 @@ The Ruins of Cawdor depended on The ImagiNation Network. Unlike its two predeces
 
 ### Sales and Commercial Impact
 
-Cawdor was released only about a year before The ImagiNation Network shut down in 1996. Partly because of this, it "isn't as well remembered or discussed today" as its predecessors.[^ref-4] No sales figures are known.
+Cawdor was released only about a year before AT&T sold The ImagiNation Network to AOL in 1996; the service itself was discontinued by 1998.[^ref-30][^ref-31] Partly because of its short time online, it "isn't as well remembered or discussed today" as its predecessors.[^ref-4] No sales figures are known.
 
 ### Collections
 
@@ -239,3 +239,5 @@ Cawdor was the last of the three graphical MUDs from Sierra's online network.[^r
 [^ref-27]: [Computer Gaming World #115 (February 1994), p. 144 – Bernie Yee, "Role-Playing Reversal"](https://archive.org/details/Computer_Gaming_World_Issue_115/page/n143/mode/1up) – boxed Yserbius/Twinion review; "amusement park after hours"; Joe Ybarra contributed to the Yserbius design
 [^ref-28]: [InterAction Magazine, Fall 1992, p. 80 – "Rumor Mill"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US/page/n85/mode/1up) – Ybarra "was the product leader on the original Bard's Tale games" and Konami's Spellcaster
 [^ref-29]: [MobyGames – King's Quest V credits (DOS)](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits/) – "Cedric the Owl: Richard Aronson"
+[^ref-30]: [The Digital Antiquarian – The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) – "On August 7, 1996, America Online bought the service from AT&T for an undisclosed amount"
+[^ref-31]: [Wikipedia – The Sierra Network](https://en.wikipedia.org/wiki/The_Sierra_Network) – "AT&T sold the ImagiNation Network in 1996 to America Online. By 1998, the service was discontinued."

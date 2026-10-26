@@ -1,11 +1,11 @@
 ---
 title: "Sierra On-Line History"
 type: guide
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Sierra On-Line: The Complete History
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 Sierra Entertainment, Inc. (formerly On-Line Systems and Sierra On-Line, Inc.) was an American video game developer and publisher that pioneered the graphic adventure game genre. Founded in 1979 by husband-and-wife team [[Ken Williams]] and [[Roberta Williams]], Sierra became synonymous with interactive storytelling before its dissolution in 2008. At its peak, Sierra employed nearly 1,000 people[^ref-1] and published some of the most influential games in computer entertainment history.
 
@@ -98,7 +98,7 @@ A planned 1987 stock offering was cancelled after the "Black Monday" crash; Sier
 
 The Sierra Network launched May 6, 1991, as the first game-only online environment[^ref-5]. Development began in 1989, as Ken Williams was inspired by Prodigy's launch in 1988 to create something similar for Sierra's games.
 
-The service provided a "land-based" precursor to MMORPGs and internet chat rooms. By July 1993, with about 40,000 subscribers, AT&T announced plans to invest $5 million[^ref-5]. AT&T took sole possession on November 15, 1994, renaming it the ImagiNation Network[^ref-5].
+The service provided a "land-based" precursor to MMORPGs and internet chat rooms. By July 1993, with about 40,000 subscribers, AT&T announced plans to invest $5 million[^ref-5]. After that deal closed on July 28, 1993, giving AT&T a 20 percent stake, the service was renamed The ImagiNation Network[^ref-38]; Sierra's Holiday 1993 magazine already called it "The ImagiNation Network (formerly TSN)"[^ref-39]. AT&T took sole possession on November 15, 1994[^ref-5].
 
 ### Quest for Glory and Gabriel Knight
 
@@ -252,3 +252,5 @@ Following Microsoft's acquisition of Activision Blizzard in October 2023, the Si
 [^ref-35]: [Wikipedia – Mark Crowe](https://en.wikipedia.org/wiki/Mark_Crowe) – moved to Dynamix after Space Quest IV; left after "major layoffs at Sierra and Dynamix in 1999"
 [^ref-36]: [Internet Archive – Time Zone manual](https://archive.org/stream/vgmuseum_sierra_timezone-manual/timezone-manual_djvu.txt) – "TIME ZONE was originally intended to be on five or six disks (one side only)… TIME ZONE now takes up both sides of six disks."
 [^ref-37]: [Michael Bendner, "An Interview with Ken Williams", PC Multimedia & Entertainment (1995, Wayback 1998)](https://web.archive.org/web/19981206115537/http://www.pcme.com/intrview/kwilliam/kwilliam.htm) – "Our goal was to sell 10,000 copies … We wound up selling a LOT more than 10,000 copies."
+[^ref-38]: [The Digital Antiquarian – The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) – "On July 28, 1993, the deal was consummated"; AT&T bought a 20-percent stake, and the service "was rechristened The ImagiNation Network"
+[^ref-39]: [InterAction Magazine, Vol. VI No. 3 (Holiday 1993)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_3_Holiday_1993_1993_Sierra_On-Line_US) – "The ImagiNation Network (formerly TSN)"

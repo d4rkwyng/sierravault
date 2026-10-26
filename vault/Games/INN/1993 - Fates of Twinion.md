@@ -11,7 +11,7 @@ series: Shadow of Yserbius
 engine: Shadow of Yserbius game engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-09'
+last_updated: '2026-10-26'
 composer: [Russell Lieblich]
 description: Fates of Twinion is a fantasy RPG dungeon crawler developed by Ybarra
   Productions, published by Sierra On-Line and released in 1993. Originally designed as an online multiplayer game
@@ -20,13 +20,13 @@ tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # Fates of Twinion
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
 Fates of Twinion is a fantasy RPG dungeon crawler developed by Ybarra Productions, published by [[Sierra On-Line]] and released in 1993.[^ref-1][^ref-18][^ref-4] Originally designed as an online multiplayer game for The Sierra Network (later renamed ImagiNation Network), the game served as a successor to [[1991 - The Shadow of Yserbius|The Shadow of Yserbius]].[^ref-2] The game was part of Sierra's pioneering early foray into online gaming, featuring multiplayer dungeon-crawl gameplay in a graphical MUD environment.[^ref-3]
 
-The CRPG Addict noted that Sierra "intended it not for authentic offline play but to whet the player's appetite for an online account".[^ref-4] Alongside the online game, Sierra sold "the solo version of the sequel/add-on" for offline play,[^ref-3] while the network itself ran until 1996.[^ref-2] With the demise of INN the online games faded, though ClassicReload judges that, stripped of their multiplayer features, they remain decent RPGs.[^ref-5] Computer Gaming World recognized the game as a finalist for Online Game of the Year in June 1994.[^ref-2]
+The CRPG Addict noted that Sierra "intended it not for authentic offline play but to whet the player's appetite for an online account".[^ref-4] Alongside the online game, Sierra sold "the solo version of the sequel/add-on" for offline play,[^ref-3] while the network itself was sold to AOL in 1996 and discontinued by 1998.[^ref-24][^ref-25] With the demise of INN the online games faded, though ClassicReload judges that, stripped of their multiplayer features, they remain decent RPGs.[^ref-5] Computer Gaming World recognized the game as a finalist for Online Game of the Year in June 1994.[^ref-2]
 
 Reusing the original Yserbius engine, Sierra reportedly "tried to get the most story and diversity out of the engine and produced a somewhat more complex game, with a wider range of puzzles, traps, and turns".[^ref-3]
 
@@ -162,7 +162,7 @@ The Shadow of Yserbius "was the first of three graphical MUDs for the online com
 
 ### Network History
 
-The Sierra Network (later ImagiNation Network) operated from 1991 until 1996, when America Online purchased the rights from AT&T for an undisclosed price (rumored to be $40 million).[^ref-2] Fan-revived online play via the ImagiNation Revival Project continued until the server was shut down in early 2016.[^ref-2]
+The Sierra Network (later ImagiNation Network) opened in 1991, and America Online bought it from AT&T on August 7, 1996, for an undisclosed amount;[^ref-24] Al Lowe later put the price at "10 million".[^ref-26] By 1998 the service was discontinued.[^ref-25] Fan-revived online play via the ImagiNation Revival Project continued until the server was shut down in early 2016.[^ref-2]
 
 ### Modern Revival
 
@@ -226,3 +226,6 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 [^ref-21]: [CRPG Addict - Lines and Squares](http://crpgaddict.blogspot.com/2026/01/the-fates-of-twinion-lines-and-squares.html) - Detailed critique, breadth vs depth analysis
 [^ref-22]: [Reddit - Sierra](https://www.reddit.com/r/Sierra/comments/weq5zl/speedruns_of_shadows_of_yserbius/) - Speedrun community insights
 [^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-fates-of-twinion-1993) - Player memories
+[^ref-24]: [The Digital Antiquarian - The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) - "On August 7, 1996, America Online bought the service from AT&T for an undisclosed amount"; May 6, 1991 launch announcement
+[^ref-25]: [Wikipedia - The Sierra Network](https://en.wikipedia.org/wiki/The_Sierra_Network) - "AT&T sold the ImagiNation Network in 1996 to America Online. By 1998, the service was discontinued."
+[^ref-26]: [Al Lowe - Where's LSL4?](https://allowe.com/games/larry/inside-stories/wheres-lsl4.html) - AT&T sold "the whole thing to America On-Line for 10 million"

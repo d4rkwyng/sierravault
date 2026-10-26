@@ -10,7 +10,7 @@ series: Shadow of Yserbius
 engine: Multiplayer graphical MUD engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 description: The Shadow of Yserbius was an early graphical multi-user dungeon (MUD)
   developed by Ybarra Productions that launched on The Sierra Network in 1991, with
   an offline single-player version released by Sierra On-Line in 1993.
@@ -18,13 +18,13 @@ tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # The Shadow of Yserbius
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
 The Shadow of Yserbius was a groundbreaking graphical multi-user dungeon (MUD) game that originally launched on The Sierra Network in 1991[^ref-1]. It was designed by Joe Ybarra, a former Apple and Electronic Arts employee, with a team that included Karl Buiter and Michael E. Moore[^ref-2], and developed by Ybarra Productions for Sierra On-Line[^ref-6]. A 2005 GameSpot user review called it "one of the first MMORPG's ever created"[^ref-14]. According to industry critics, the game "set the standard by which all future MUDs would be judged" when it opened to rave reviews[^ref-3].
 
-The game served as the centerpiece of The Sierra Network's "MedievaLand" service, described as the network's "better-looking answer to Neverwinter Nights"[^ref-2]. The CRPG Addict notes there was little else in online RPGs at the time: "basically this and AOL's Neverwinter Nights (1991)"[^ref-5]. When the Sierra Network went online in 1991 it offered flat-rate access for $12 a month to California residents and $5 a month plus $2 an hour elsewhere[^ref-2]. Players explored dungeons in parties, and player-versus-player sparring was another popular pastime[^ref-1]. The multiplayer experience was revolutionary for its era, allowing up to 30 players (later expanded to 60) to meet in rooms and adventure together in groups of up to four[^ref-4].
+The game served as the centerpiece of The Sierra Network's "MedievaLand" service, described as the network's "better-looking answer to Neverwinter Nights"[^ref-2]. Sierra's *InterAction* magazine introduced it in Fall 1992 as "the first game in MedievaLand", which it called "the newest area on TSN", although some sources date the game's online debut to 1991[^ref-36][^ref-1]. The CRPG Addict notes there was little else in online RPGs at the time: "basically this and AOL's Neverwinter Nights (1991)"[^ref-5]. When the Sierra Network went online in 1991 it offered flat-rate access for $12 a month to California residents and $5 a month plus $2 an hour elsewhere[^ref-2]. Players explored dungeons in parties, and player-versus-player sparring was another popular pastime[^ref-1]. The multiplayer experience was revolutionary for its era, allowing up to 30 players (later expanded to 60) to meet in rooms and adventure together in groups of up to four[^ref-4].
 
 A single-player, non-networked version was released in 1993, though critics were far less enthusiastic about the solo experience. Computer Gaming World's Bernie Yee observed, "Playing Yserbius without fellow on-line gamers is like being in an amusement park after hours, one in which the rides aren't all that fun to begin with"[^ref-5]. James V. Trunzo of White Wolf magazine similarly noted that "once you take away interaction with live friends and foes, Yserbius is just another hack-and-slay adventure game, lacking most of the features considered standard in other games of its ilk"[^ref-1].
 
@@ -123,7 +123,7 @@ The Shadow of Yserbius spawned a series that included The Fates of Twinion (1993
 
 ### Network History and Closure
 
-The Sierra Network was renamed the ImagiNation Network in 1993[^ref-2], and AT&T purchased it from Sierra in 1994[^ref-5]. AOL acquired the rights from AT&T in 1996 for an undisclosed price, rumored to be $40 million, and soon abandoned the game[^ref-1][^ref-4]. The online version ceased operation that year[^ref-5].
+The Sierra Network was renamed the ImagiNation Network in 1993[^ref-2], and AT&T purchased it from Sierra in 1994[^ref-5]. AOL bought the service from AT&T on August 7, 1996, for an undisclosed amount[^ref-33]; Al Lowe later put the price at "10 million"[^ref-35]. AOL soon abandoned the game[^ref-1][^ref-4], and by 1998 the service was discontinued[^ref-34].
 
 ### Revival Efforts
 
@@ -206,3 +206,7 @@ Bugs fixed in the MedievaLands remake:
 [^ref-30]: [Computer Gaming World Issue 119 (June 1994)](https://archive.org/details/Computer_Gaming_World_Issue_119) – "Announcing The New Premier Awards": Fates of Twinion finalist, Multi-Player BattleTech winner
 [^ref-31]: [Archive.org – Shadow of Yserbius Manual](https://archive.org/details/Shadow_of_Yserbius_-_Manual) – Manual scan, 36 pages
 [^ref-32]: [MobyGames – Tech Specs](https://www.mobygames.com/game/1653/shadow-of-yserbius/specs/) – Minimum requirements, sound devices, multiplayer options
+[^ref-33]: [The Digital Antiquarian – The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) – "On August 7, 1996, America Online bought the service from AT&T for an undisclosed amount"
+[^ref-34]: [Wikipedia – The Sierra Network](https://en.wikipedia.org/wiki/The_Sierra_Network) – "AT&T sold the ImagiNation Network in 1996 to America Online. By 1998, the service was discontinued."
+[^ref-35]: [Al Lowe – Where's LSL4?](https://allowe.com/games/larry/inside-stories/wheres-lsl4.html) – AT&T sold "the whole thing to America On-Line for 10 million"
+[^ref-36]: [InterAction Magazine, Vol. V No. 3 (Fall 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) – "MedievaLand is the newest area on TSN"; Yserbius is "the first game in MedievaLand"

@@ -13,12 +13,12 @@ series: "Hoyle's Official Book of Games"
 engine: "SCI2.1"
 protagonist: "Player"
 sierra_lineage: "Core Sierra"
-last_updated: "2026-05-08"
+last_updated: "2026-10-26"
 ---
 
 # Hoyle Bridge
 
-<small style="color: gray">Last updated: May 8, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -166,7 +166,7 @@ The 2000 release of Hoyle Bridge was published under the Sierra Attractions labe
 
 ### Corporate Context
 
-Sierra's interest in multiplayer and online gaming extended to their card game products. [[Ken Williams]] stated that "Sierra is interested in extending our core product-development technology to have multiplayer capabilities"[^ref-15]. This vision manifested in The Sierra Network, an early online gaming service launched in 1990 that included multiplayer card games[^ref-15].
+Sierra's interest in multiplayer and online gaming extended to their card game products. [[Ken Williams]] stated that "Sierra is interested in extending our core product-development technology to have multiplayer capabilities"[^ref-15]. This vision manifested in The Sierra Network, an early online gaming service that included multiplayer card games[^ref-15]; Sierra announced its testing on October 31, 1990, and the service officially launched in 1991[^ref-28].
 
 The Hoyle franchise continued under Sierra's management through various corporate transitions. In 2000, Sierra announced a reorganization under parent company Cendant Software, with CEO Chris McCleod stating "We are very excited about our new consumer brand focus, an evolution to meet the growth of the industry"[^ref-20]. Hoyle products were placed under the Sierra Attractions division[^ref-20].
 
@@ -285,3 +285,4 @@ For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the 
 [^ref-25]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise catalog
 [^ref-26]: [eBay Listing – Sealed 1996](https://www.ebay.com/itm/184974204908) – vintage product confirmation
 [^ref-27]: [Abandonware DOS](https://www.abandonwaredos.com/search.php?search=Hoyle+Bridge) – DOS version reference
+[^ref-28]: [The Digital Antiquarian – The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) – "On October 31, 1990, Sierra quietly announced that they had begun testing"; "On May 6, 1991, Sierra announced that The Sierra Network was officially a go"
