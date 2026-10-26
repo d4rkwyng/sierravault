@@ -7,12 +7,12 @@ first_release: 1991
 last_release: 1995
 total_games: 3
 genre: "MMO / Online Gaming Platform"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 
 # Sierra Network / ImagiNation Network Series
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -28,8 +28,9 @@ The vault catalogs the three TSN/INN role-playing games — *The Shadow of Yserb
 |------|-------|--------|
 | 1988 | Prodigy launches | Prodigy's launch becomes Ken Williams's model for an online service[^ref-4] |
 | 1989 | Development begins | Work on the service starts; early tests run on networked board games[^ref-1][^ref-11] |
+| 1990 | Testing announced | On October 31, 1990, Sierra announces it has begun testing; Sierra later cited 1,000 users in the Los Angeles area[^ref-4][^ref-21] |
 | 1991 | TSN launches | Announced May 6, 1991 as a wholly-owned Sierra subsidiary; opens in California first, after testing with about 800 players[^ref-2][^ref-4] |
-| 1991 | [[1991 - The Shadow of Yserbius\|Shadow of Yserbius]] launches | First of three graphical MUDs (Ybarra Productions / Sierra On-Line)[^ref-7] |
+| 1992 | [[1991 - The Shadow of Yserbius\|Shadow of Yserbius]] launches | First of three graphical MUDs (Ybarra Productions / Sierra On-Line); debuts online as the first game in MedievaLand, which Sierra's Fall 1992 magazine calls "the newest area on TSN" (Wikipedia gives 1991)[^ref-7][^ref-19] |
 | 1993 | [[1993 - Fates of Twinion\|Fates of Twinion]] launches | Yserbius sequel[^ref-7] |
 | 1993 | AT&T investment | AT&T and General Atlantic Partners each buy 20%; service renamed The ImagiNation Network[^ref-3][^ref-4] |
 | 1994 | AT&T buyout | AT&T buys the remaining shares for $40 million (November 15)[^ref-4] |
@@ -42,13 +43,13 @@ The vault catalogs the three TSN/INN role-playing games — *The Shadow of Yserb
 
 The vault catalogs three games built for TSN/INN's MedievaLand:
 
-### [[1991 - The Shadow of Yserbius|Shadow of Yserbius]] (1991)
+### [[1991 - The Shadow of Yserbius|Shadow of Yserbius]] (1992)
 
-The centerpiece of MedievaLand, which Jimmy Maher describes as "a more limited but better-looking multiplayer CRPG" than America Online's *Neverwinter Nights*.[^ref-4] Developed by Joe Ybarra of Ybarra Productions, it was the first of three graphical MUDs for the service: players explored the dungeons of the volcano Yserbius in groups of up to four, with turn-based combat, and many joined guilds.[^ref-6][^ref-7] In a May 1993 report from inside the game, *Computer Gaming World* concluded that "those who possess the money would be well served to try out TSN and Yserbius."[^ref-16] Sierra also sold a single-player, non-networked version.[^ref-6]
+The centerpiece of MedievaLand, which Jimmy Maher describes as "a more limited but better-looking multiplayer CRPG" than America Online's *Neverwinter Nights*.[^ref-4] Developed by Joe Ybarra of Ybarra Productions, it was the first of three graphical MUDs for the service: players explored the dungeons of the volcano Yserbius in groups of up to four, with turn-based combat, and many joined guilds.[^ref-6][^ref-7] Sierra's own Fall 1992 magazine introduced MedievaLand as "the newest area on TSN," with *The Shadow of Yserbius* as its first game; Wikipedia dates the game to 1991.[^ref-19][^ref-7] In a May 1993 report from inside the game, *Computer Gaming World* concluded that "those who possess the money would be well served to try out TSN and Yserbius."[^ref-16] Sierra also sold a single-player, non-networked version.[^ref-6]
 
 ### [[1993 - Fates of Twinion|Fates of Twinion]] (1993)
 
-The sequel/add-on to Yserbius, using the same engine. MobyGames' entry describes the solo version sold at retail, noting that by then the network "had become known as the Imagination Network."[^ref-8]
+The sequel/add-on to Yserbius, using the same engine. MobyGames' entry describes a solo version of the sequel/add-on, noting that by then the network "had become known as the Imagination Network."[^ref-8] Sierra's Summer 1993 magazine says the boxed *Shadow of Yserbius* set "also comes with The Fates of Twinion," which it calls "another on-line adventure in the tradition of Yserbius."[^ref-20]
 
 ### [[1995 - The Ruins of Cawdor|The Ruins of Cawdor]] (1995)
 
@@ -65,13 +66,13 @@ Beyond the MUDs, TSN/INN offered:
 - **Classic parlor games** — chess, checkers, backgammon and bridge in the Clubhouse; Ken Williams made bridge a special priority, inspired by his mother.[^ref-4][^ref-11]
 - **Premium "lands"** — from 1992, for $4 per month each: SierraLand (an online amusement park with mini-golf, paintball and an arcade), LarryLand (an online casino themed on *Leisure Suit Larry*) and MedievaLand.[^ref-4]
 - **Customizable faces** — players chose a name, sex, face and haircut for their on-screen persona, an early form of online avatar.[^ref-2][^ref-1]
-- **Online Red Baron** — Dynamix tested an online version of its World War I flight simulator for the service.[^ref-4]
+- **Online Red Baron** — Dynamix tested an online version of its World War I flight simulator, [[1990 - Red Baron|Red Baron]], for the service; *Computer Gaming World* reported in June 1992 that Sierra had "finally launched their long-anticipated multi-player Red Baron on The Sierra Network."[^ref-4][^ref-22]
 
 ## Technical Architecture
 
-According to Al Lowe, Sierra's Jeff Stephenson reworked the SCI code base so that copies of the interpreter could talk to each other across modems, while Matthew George handled the low-level communications; the first test system linked 32 modems to a single 386 server.[^ref-11] See [[Jeff Stephenson]].
+According to Al Lowe, Sierra's Jeff Stephenson reworked the SCI code base so that copies of the interpreter could talk to each other across modems, while Matthew George handled the low-level communications; according to Lowe, the first test system linked 32 modems to a single 386 server.[^ref-11] See [[Jeff Stephenson]].
 
-The platform's biggest technical struggle was capacity: the service crashed with disconcerting regularity, and Sierra could never catch up to customers' demands on its bandwidth.[^ref-12]
+The platform's biggest technical struggle was capacity: the service crashed with disconcerting regularity, and Sierra could never catch up to customers' demands on its bandwidth.[^ref-4]
 
 ## Sierra Personnel on the Platform
 
@@ -84,13 +85,13 @@ The platform's biggest technical struggle was capacity: the service crashed with
 
 ## Why the Service Ended
 
-The sources point to a few causes. The service was expensive to run and unreliable: it crashed regularly and could not keep up with demand for bandwidth.[^ref-12] Sierra, trying to get out of a financial hole, gradually sold the service to AT&T, and after the 1994 buyout its active role in steering it ended.[^ref-4] AT&T struggled to build anything new and compelling on it before selling it to America Online in 1996.[^ref-4]
+The sources point to a few causes. The service was expensive to run and unreliable: it crashed regularly and could not keep up with demand for bandwidth.[^ref-4] Sierra, trying to get out of a financial hole, gradually sold the service to AT&T, and after the 1994 buyout its active role in steering it ended.[^ref-4] AT&T struggled to build anything new and compelling on it before selling it to America Online in 1996.[^ref-4]
 
 ## Legacy
 
 TSN/INN's historical importance is twofold:
 
-1. **As MMO progenitor** — *Yserbius* and its sequels were early commercial graphical multiplayer CRPGs, launched years before *Ultima Online* (1997) and *EverQuest* (1999), on a network Wikipedia describes as a "land-based" precursor to MMORPGs.[^ref-12][^ref-13]
+1. **As MMO progenitor** — *Yserbius* and its sequels were early commercial graphical multiplayer CRPGs, launched years before *Ultima Online* (1997) and *EverQuest* (1999), on a network Wikipedia describes as a "land-based" precursor to MMORPGs.[^ref-4][^ref-13]
 2. **As Sierra's first online-gaming venture** — Sierra announced TSN as a wholly-owned subsidiary and planned for nationwide reach within a year of launch.[^ref-4]
 
 The platform has been revived by fans more than once. In late 2007 the ImagiNation Revival Project brought the network back using the original client software under DOSBox, with *Yserbius* playable online again until the server was shut down in early 2016.[^ref-7] PC Gamer's Richard Cobbett notes later revival efforts, now the INN Barn Project.[^ref-14] *MedievaLands* is a full remake of *Yserbius* and *Twinion* for modern Windows and macOS.[^ref-7][^ref-18]
@@ -111,7 +112,7 @@ The platform has been revived by fans more than once. In late 2007 the ImagiNati
 [^ref-1]: [Wikipedia — The Sierra Network](https://en.wikipedia.org/wiki/The_Sierra_Network) — Launched 1991; developed from 1989; "cyberspace theme park"; early online avatars
 [^ref-2]: [The New York Times — Now, an All-Video Game Network (June 18, 1991)](https://www.nytimes.com/1991/06/18/business/now-an-all-video-game-network.html) — "the first devoted exclusively to games"; about 800 test players; customizable faces
 [^ref-3]: [The New York Times — A.T.& T. Sees the Future in Games (July 29, 1993)](https://www.nytimes.com/1993/07/29/business/at-t-sees-the-future-in-games.html) — AT&T buys 20% and an option to take control; General Atlantic Partners buys 20%
-[^ref-4]: [The Digital Antiquarian — The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) — Prodigy inspiration, May 6 1991 announcement, $4 lands, July 28 1993 deal and rename, November 15 1994 buyout, AOL purchase August 7, 1996
+[^ref-4]: [The Digital Antiquarian — The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) — Prodigy inspiration, October 31, 1990 test announcement, May 6 1991 announcement, $4 lands, July 28 1993 deal and rename, November 15 1994 buyout, AOL purchase August 7, 1996; TSN's crashes and bandwidth problems
 [^ref-5]: [The Digital Antiquarian — Summer Camp](https://www.filfre.net/2012/02/summer-camp/) — "They hired Ken's little brother John as their first official employee"
 [^ref-6]: [MobyGames — Shadow of Yserbius](https://www.mobygames.com/game/1653/shadow-of-yserbius/) — Single-player, non-networked version; dungeons of the volcano Yserbius
 [^ref-7]: [Wikipedia — The Shadow of Yserbius](https://en.wikipedia.org/wiki/The_Shadow_of_Yserbius) — Ybarra Productions; first of three graphical MUDs; sequels Twinion (1993) and Cawdor (1995); Revival Project 2007–2016; MedievaLands remake
@@ -119,10 +120,13 @@ The platform has been revived by fans more than once. In late 2007 the ImagiNati
 [^ref-9]: [Wikipedia — The Realm Online](https://en.wikipedia.org/wiki/The_Realm_Online) — Dropped from the INN sale; launched by Sierra December 1996; SCI; turn-based; Digital Alchemy since 2023
 [^ref-10]: [Halcyon Days — Warren Schwader interview](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) — "The only reason I wasn't with TSN from the start was that I was in the middle of another project"
 [^ref-11]: [Al Lowe — Larryland, or: How We (re)Invented the Internet](https://allowe.com/games/larry/inside-stories/larryland.html) — Lowe's first-hand account of TSN's early development
-[^ref-12]: [The Digital Antiquarian — The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) — Jimmy Maher on TSN's crashes, bandwidth problems and The Shadow of Yserbius
 [^ref-13]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — TSN launch May 6, 1991, described as a "land-based" precursor to MMORPGs
 [^ref-14]: [PC Gamer — Crapshoot: ImagiNation, Sierra's virtual world complete with LarryLand](https://www.pcgamer.com/crap-shoot-imagination/) — Richard Cobbett; shut down in 1998; revival projects
 [^ref-15]: [MobyGames — Ruins of Cawdor](https://www.mobygames.com/game/67088/ruins-of-cawdor/) — Third installment; same engine; plot based on Macbeth; six floors
 [^ref-16]: [Computer Gaming World #106 (May 1993), p. 78 — "Into the Volcano of Death"](https://archive.org/details/Computer_Gaming_World_Issue_106) — Samuel Baker II's report from TSN's Yserbius
 [^ref-17]: [The Realm Online — Official site](https://www.realmserver.com/) — Current Digital Alchemy servers; game "has changed ownership several times"
 [^ref-18]: [MedievaLands — Official site](https://medievalands.com/) — "a remake of The Shadow of Yserbius"
+[^ref-19]: [InterAction Magazine Vol. V No. 3 (Fall 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) — "MedievaLand is the newest area on TSN… The Shadow of Yserbius, the first game in MedievaLand"
+[^ref-20]: [InterAction Magazine Vol. VI No. 2 (Summer 1993)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_2_Summer_1993_1993_Sierra_On-Line_US) — "Your Yserbius boxed set also comes with The Fates of Twinion, another on-line adventure"
+[^ref-21]: [Sierra News Magazine Vol. 4 No. 1 (Spring 1991)](https://archive.org/details/Sierra_News_Magazine_Volume_4_Number_1_Spring_1991) — Ken Williams: "In October of 1990 we announced… a test going with 1,000 users in the Los Angeles area"
+[^ref-22]: [Computer Gaming World #95 (June 1992)](https://archive.org/details/Computer_Gaming_World_Issue_95) — "Sierra has finally launched their long-anticipated multi-player Red Baron on The Sierra Network"
