@@ -7,16 +7,16 @@ first_release: 1992
 last_release: 2023
 total_games: 12
 genre: "City-Building Strategy"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 
 # City Builders Series
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-The City Builders series, which Wikipedia calls the **City Building** series, is a line of historical city-building games developed by [[Impressions Games]], BreakAway Games and Tilted Mill Entertainment and published by Sierra.[^ref-1] It began in 1992 with *Caesar* and covers four ancient civilizations: Roman, Egyptian, Greek and Chinese.[^ref-1] Wikipedia counts twelve games, including expansion packs, from *Caesar* (1992) to the remake *Pharaoh: A New Era* (2023).[^ref-1] Indie city-builders such as *Nebuchadnezzar* have been compared to the series, especially *Pharaoh*.[^ref-17]
+The City Builders series, which Wikipedia calls the **City Building** series, is a line of historical city-building games developed by [[Impressions Games]], BreakAway Games and Tilted Mill Entertainment and mostly published by Sierra.[^ref-1] It began in 1992 with *Caesar* and covers four ancient civilizations: Roman, Egyptian, Greek and Chinese.[^ref-1] Wikipedia counts twelve games, including expansion packs, from *Caesar* (1992) to the remake *Pharaoh: A New Era* (2023).[^ref-1] Indie city-builders such as *Nebuchadnezzar* have been compared to the series, especially *Pharaoh*.[^ref-17]
 
 [[David Lester]] founded Impressions Games, and Sierra owned the studio from 1995 to 2004.[^ref-18] Lester designed [[1992 - Caesar|Caesar]] (1992), which [[Simon Bradbury]] programmed; Lester and Bradbury held the same roles on *Caesar III* (1998).[^ref-5][^ref-7]
 
@@ -31,11 +31,11 @@ The City Builders series, which Wikipedia calls the **City Building** series, is
 | 2000 | [[2000 - Cleopatra - Queen of the Nile\|Cleopatra: Queen of the Nile]] | Ancient Egypt (expansion) | Charles Kibler[^ref-20] | BreakAway Games and Impressions Games / Sierra |
 | 2000 | [[2000 - Zeus - Master of Olympus\|Zeus: Master of Olympus]] | Ancient Greece | Chris Beatrice[^ref-10] | Impressions Games / Sierra |
 | 2001 | [[2001 - Poseidon - Master of Atlantis\|Poseidon: Master of Atlantis]] | Atlantis (expansion) | Tony Leier[^ref-21] | Impressions Games / Sierra |
-| 2002 | [[2002 - Emperor - Rise of the Middle Kingdom\|Emperor: Rise of the Middle Kingdom]] | Ancient China | Charles Kibler, Ed Beach, Tony Leier[^ref-11] | BreakAway Games and Impressions Games / Sierra[^ref-22] |
-| 2004 | *Immortal Cities: Children of the Nile* | Ancient Egypt | — | Tilted Mill Entertainment |
+| 2002 | [[2002 - Emperor - Rise of the Middle Kingdom\|Emperor: Rise of the Middle Kingdom]] | Ancient China | Charles Kibler, Ed Beach, Tony Leier[^ref-11]; MobyGames credits game design to Kibler, Ben Knight, Melissa Sawicki and Ed Beach[^ref-27] | BreakAway Games and Impressions Games / Sierra[^ref-22] |
+| 2004 | *Immortal Cities: Children of the Nile* | Ancient Egypt | — | Tilted Mill Entertainment / Myelin Media[^ref-16] |
 | 2006 | [[2006 - Caesar IV\|Caesar IV]] | Roman Empire | Chris Beatrice[^ref-23] | Tilted Mill Entertainment / Sierra |
 | 2008 | *Children of the Nile: Alexandria* | Ancient Egypt (expansion) | — | Tilted Mill Entertainment |
-| 2023 | [[2023 - Pharaoh - A New Era\|Pharaoh: A New Era]] | Ancient Egypt (remake) | Théophile Noiré (per game page) | Triskell Interactive / Dotemu |
+| 2023 | [[2023 - Pharaoh - A New Era\|Pharaoh: A New Era]] | Ancient Egypt (remake) | Théophile Noiré[^ref-26] | Triskell Interactive / Dotemu |
 
 The two *Children of the Nile* games have no SierraVault pages yet; Wikipedia lists them as part of the series.[^ref-1]
 
@@ -88,7 +88,7 @@ Triskell Interactive pitched a city-building game to Dotemu, which asked whether
 [^ref-12]: [GameSpot — Caesar IV Review](https://www.gamespot.com/reviews/caesar-iv-review/1900-6159378/) — Jason Ocampo, October 5, 2006: 7.7 "Good"; "a slightly flawed but very engrossing game about ancient city building"
 [^ref-13]: [Dotemu — Pharaoh: A New Era](https://www.dotemu.com/games/pharaoh-a-new-era/) — "By Triskell Interactive"; a remake of Pharaoh and its expansion
 [^ref-14]: [Wikipedia — Pharaoh: A New Era](https://en.wikipedia.org/wiki/Pharaoh:_A_New_Era) — Triskell pitch to Dotemu; "Dotemu licensed it from Activision"; released February 15, 2023; Metacritic 76/100
-[^ref-16]: [Wikipedia — Tilted Mill Entertainment](https://en.wikipedia.org/wiki/Tilted_Mill_Entertainment) — founded 2002 by former Impressions lead designer and general manager Chris Beatrice and Peter Haffenreffer
+[^ref-16]: [Wikipedia — Tilted Mill Entertainment](https://en.wikipedia.org/wiki/Tilted_Mill_Entertainment) — founded 2002 by former Impressions lead designer and general manager Chris Beatrice, business manager Peter Haffenreffer and designer Jeff Fiske; Children of the Nile "published through Myelin Media"
 [^ref-17]: [Wikipedia — Nebuchadnezzar (video game)](https://en.wikipedia.org/wiki/Nebuchadnezzar_(video_game)) — "compared to Impressions Games' City Building series, especially the fourth entry, Pharaoh"
 [^ref-18]: [Wikipedia — Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) — founder David Lester; parent Sierra Entertainment (1995–2004)
 [^ref-19]: [MobyGames — Pharaoh credits](https://www.mobygames.com/game/538/pharaoh/credits/) — "Lead Designer Chris Beatrice"
@@ -98,3 +98,5 @@ Triskell Interactive pitched a city-building game to Dotemu, which asked whether
 [^ref-23]: [MobyGames — Caesar IV](https://www.mobygames.com/game/24324/caesar-iv/) — "Lead Designer Chris Beatrice"; Senior Designer Tony Leier
 [^ref-24]: [Lemon Amiga — Caesar manual (Wayback, January 2025)](https://web.archive.org/web/20250126134323/https://www.lemonamiga.com/games/docs.php?id=273) — "Your performance as provincial governor will be assessed in four ways": Peace, Culture, Prosperity, Empire; overall rating
 [^ref-25]: [MobyGames — Caesar II credits (DOS)](https://www.mobygames.com/game/1588/caesar-ii/credits/dos/) — "Design David Lester, Christopher J. Foster"; Additional Design and Programming Simon Bradbury
+[^ref-26]: [IGN SEA – Reviving the Past with the Folks Behind the Upcoming Pharaoh: A New Era Remake](https://sea.ign.com/pharaoh-pc/164100/news/reviving-the-past-with-the-folks-behind-the-upcoming-pharaoh-a-new-era-remake) — interview with "Théophile Noiré, Pharaoh Game Designer at Triskell Interactive"
+[^ref-27]: [MobyGames — Emperor: Rise of the Middle Kingdom credits](https://www.mobygames.com/game/6729/emperor-rise-of-the-middle-kingdom/credits/) — "Game Design Charles Kibler, Ben Knight, Melissa Sawicki, Ed Beach"
