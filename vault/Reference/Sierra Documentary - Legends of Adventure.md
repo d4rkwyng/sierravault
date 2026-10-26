@@ -9,16 +9,16 @@ status: "Post-production (~2-hour cut, July 2026)"
 announced: 2024
 expected_release: 2026
 subjects: [Ken Williams, Roberta Williams, Sierra On-Line, Adventure Games]
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 ---
 
 # Sierra Documentary — Legends of Adventure
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-*Legends of Adventure: The Story of Sierra On-Line* is a feature-length documentary about [[Ken Williams]], [[Roberta Williams]], and the story of [[Sierra On-Line]] — the company that pioneered the graphical adventure game and trained a generation of designers whose work the vault catalogs. It comes "From the team behind the Prime Video docuseries Gamebreakers"[^ref-1][^ref-3] and is directed by Dave Hodgson, who also produces it with Cade Peterson (CEO of MidBoss) and Will Perkins (Creative Director at CONTINUE).[^ref-19][^ref-20] The producers describe it as the first time "in a documentary format" that the Williamses tell how they founded Sierra, their departure from the industry for more than two decades, "and why they have decided to return to it" — a return that came with [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]].[^ref-7][^ref-13]
+*Legends of Adventure: The Story of Sierra On-Line* is a feature-length documentary about [[Ken Williams]], [[Roberta Williams]], and the story of [[Sierra On-Line]] — the company whose first product, Mystery House, is "widely regarded as the first adventure game with graphics",[^ref-23] and which trained a generation of designers whose work the vault catalogs. It comes "From the team behind the Prime Video docuseries Gamebreakers"[^ref-1][^ref-3] and is directed by Dave Hodgson, who also produces it with Cade Peterson (CEO of MidBoss) and Will Perkins (Creative Director at CONTINUE).[^ref-19][^ref-20] The producers describe it as the first time "in a documentary format" that the Williamses tell how they founded Sierra, their departure from the industry for more than two decades, "and why they have decided to return to it" — a return that came with [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]].[^ref-7][^ref-13]
 
 Ken Williams revealed the project on Twitter in May 2024.[^ref-9] Its crowdfunding ran on BackerKit only, from July 9 to August 6, 2024, and raised $357,557 from 2,514 backers against a $75,000 goal.[^ref-19][^ref-3] As of July 2026 the film is in post-production with a "nearly completed two hour cut".[^ref-18]
 
@@ -27,11 +27,11 @@ This page is a vault-side tracker for the documentary's interviewees, production
 > [!info]- Production Info
 > **Director:** Dave Hodgson[^ref-19][^ref-20]
 > **Producers:** Cade Peterson, Will Perkins, Dave Hodgson[^ref-19]
-> **Production Company:** Decently Creative, with CONTINUE[^ref-7]
+> **Production Company:** Decently Creative / CONTINUE, with MidBoss[^ref-7][^ref-19]
 > **Editor:** Adam Schoales[^ref-6]
 > **Crowdfunding:** BackerKit, July 9 – August 6, 2024: $357,557 of a $75,000 goal from 2,514 backers[^ref-19][^ref-3]
 > **Status (July 2026):** Post-production — "nearly completed two hour cut"[^ref-18]
-> **Expected Release:** 2026 ("on track to complete the film in 2026 with official release plans to be announced soon")[^ref-21]
+> **Expected Release:** Producers' target: 2026 ("on track to complete the film in 2026 with official release plans to be announced soon", June 2026)[^ref-21]; an earlier target of Fall 2025 slipped[^ref-10]
 > **Format:** Feature documentary (February 2026 rough cut: 4 hours, 12 minutes, 38 seconds; since cut to about two hours)[^ref-6][^ref-18]
 
 ## Production Milestones
@@ -41,7 +41,7 @@ This page is a vault-side tracker for the documentary's interviewees, production
 | May 2024 | Ken Williams reveals the documentary on Twitter; Al Lowe and Lori Ann and Corey Cole among the planned interviewees | Time Extension (original story May 17, 2024)[^ref-9] |
 | Jul 9, 2024 | BackerKit campaign launches with a $75,000 goal; Official First Look trailer released | Press release[^ref-19]; YouTube[^ref-14][^ref-5]; GamingOnLinux, Console Creatures, A2Central[^ref-8][^ref-11][^ref-10] |
 | Jul 2024 | Goal reached "in just 19 hours" (the producers' own claim) | Decently Creative[^ref-7] |
-| Aug 6, 2024 | Campaign ends: $357,557 from 2,514 backers; stretch goals include an original soundtrack, a six-part mini-documentary series and a companion book | BackerKit[^ref-3]; BlizzardWatch[^ref-15] |
+| Aug 6, 2024 | Campaign ends: $357,557 from 2,514 backers; stretch goals include an original soundtrack, a six-part mini-documentary series and a companion book | BackerKit[^ref-3]; BlizzardWatch[^ref-15]; Backerkit Update #38437[^ref-6] |
 | Late 2025 | John Romero interviewed at his home in Ireland | Backerkit Update #38437[^ref-6] |
 | Nov 25, 2025 | "Thanksgiving Update" — interviews with Josh Mandel, Mark Seibert, Laine Nooney and Marcus Mera | Backerkit Update #32612[^ref-13] |
 | Feb 24, 2026 | **Rough cut completed (4h 12m 38s); editor Adam Schoales leading the polish** | Backerkit Update #38437[^ref-6][^ref-17] |
@@ -62,25 +62,17 @@ As named by the production team and its press release:
 - [[Ken Williams]] and [[Roberta Williams]] — Sierra On-Line co-founders[^ref-19]
 - [[Mark Crowe]], [[Al Lowe]], [[Lori Ann Cole]], [[Corey Cole]], [[Christy Marx]], [[Jim Walls]] and Apple co-founder Steve Wozniak[^ref-19]
 - [[Scott Murphy]] and [[Mark Seibert]] (A2Central's July 2024 list of interview subjects)[^ref-10]
-- [[Josh Mandel]], Mark Seibert, NYU media-industries scholar Laine Nooney, and Colossal Cave co-producer Marcus Mera (November 2025)[^ref-13]
+- [[Josh Mandel]], Mark Seibert, NYU media-industries scholar Laine Nooney, and Marcus Mera, artist on and (per the producers) co-producer of Colossal Cave (November 2025)[^ref-24][^ref-13]
 - John Romero, co-founder of id Software, interviewed in late 2025 at his home in Ireland[^ref-6]
 
-## Connections to Vault Topics
+## See Also
 
-The documentary should be linked from the major personnel pages it touches:
+Related vault pages:
 
 - [[Ken Williams]] — primary subject
 - [[Roberta Williams]] — primary subject
 - [[Sierra On-Line]] — primary subject
 - [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]] — the Williamses' return project
-- [[Bibliography|Bibliography]] — a long-form moving-image source on Sierra history
-
-## See Also
-
-- [[Ken Williams]]
-- [[Roberta Williams]]
-- [[Sierra On-Line]]
-- [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]]
 - [[Bibliography|Bibliography]] — Sierra-history canonical sources
 - [[Timeline 2000-present|Timeline 2000-present]] — Sierra's post-acquisition / Williams-return era
 
@@ -104,3 +96,5 @@ The documentary should be linked from the major personnel pages it touches:
 [^ref-20]: [Letterboxd — Legends of Adventure: The Story of Sierra On-Line](https://letterboxd.com/film/legends-of-adventure-the-story-of-sierra/) — "Directed by Dave Hodgson"; executive producers Cade Peterson, William Perkins
 [^ref-21]: [Backerkit Update #46176 — "The Music of Legends of Adventure, Enamel Pin Reveal, and a Post-Production Update!" (June 19, 2026)](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/updates/46176) — Castle If (Jess Forrest) score; "We remain on track to complete the film in 2026 with official release plans to be announced soon"
 [^ref-22]: [Backerkit Update #48022 — "Post-Production Team Screening" (July 2026)](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/updates/48022) — "our core post-production team gathered in person in Toronto… to screen a cut of the documentary"
+[^ref-23]: [Laine Nooney, "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game", American Journal of Play 10:1 (The Strong)](https://www.museumofplay.org/app/uploads/2022/01/10-1-Article-3-Lets-begin-again.pdf) — "Sierra On-Line and its historic first product, the graphical adventure game Mystery House"; note 45: "Mystery House is widely regarded as the first adventure game with graphics"
+[^ref-24]: [Ars Technica — Roberta and Ken Williams open up about their first video game in 25 years (April 8, 2022)](https://arstechnica.com/gaming/2022/04/roberta-and-ken-williams-open-up-about-their-first-video-game-in-25-years/) — "The artist in question, Marcus Maximus Mera… eventually joining the Colossal Cave 3D team"
