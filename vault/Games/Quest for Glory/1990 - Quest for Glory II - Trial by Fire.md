@@ -7,10 +7,10 @@ publisher: Sierra On-Line
 genre: Adventure RPG
 platforms: [DOS, Amiga]
 series: Quest for Glory
-engine: SCI0
+engine: SCI1 (EGA)
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Christopher Braymen, Mark Seibert]
 description: 'Quest for Glory II: Trial by Fire is a 1990 adventure/role-playing game
   developed and published by Sierra On-Line for MS-DOS and Amiga. Designed by Lori
@@ -19,7 +19,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory II: Trial by Fire
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 Quest for Glory II: Trial by Fire is a 1990 adventure/role-playing game developed and published by [[Sierra On-Line]] for MS-DOS and Amiga[^ref-1][^ref-26].
@@ -43,7 +43,7 @@ Trial by Fire is the only game in the series that Sierra never produced with any
 > **Programmer:** Robert Fischbach[^ref-1]
 > **Artist:** Kenn Nishiuye[^ref-1]
 > **Composer:** Christopher Braymen, [[Mark Seibert]][^ref-1]
-> **Engine:** SCI0 (Sierra Creative Interpreter)[^ref-3]
+> **Engine:** SCI1, EGA (Sierra Creative Interpreter)[^ref-33]
 > **Platforms:** MS-DOS, Amiga[^ref-1]
 > **Release Year:** 1990[^ref-1]
 > **Series:** Quest for Glory
@@ -202,3 +202,4 @@ This game has been included in the following collections:
 [^ref-30]: [Dragon #174 (October 1991), "The Role of Computers" – Internet Archive](https://archive.org/details/dragon-magazine/Dragon%20Magazine%20%23174%5Bocr%5D.pdf) – Lesser review, from p. 57
 [^ref-31]: [Computer Gaming World #87 (October 1991) – Internet Archive](https://archive.org/details/computer-gaming-world-087-october-1991) – Scorpia's Computer Role-Playing Game Survey
 [^ref-32]: [RPGamer – Quest for Glory II: Trial by Fire Staff Review, Tyler Willis (archived)](https://web.archive.org/web/20081202133657/http://www.rpgamer.com/games/qfg/qfg2/reviews/qfg2strev1.html) – 4.0/5 review
+[^ref-33]: [ScummVM Wiki – Sierra Game Versions (Wayback, 2024-05-18)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – Quest for Glory II interpreters 1.000.041, 1.000.072 and 1.000.087 listed under "SCI1 (ega)"

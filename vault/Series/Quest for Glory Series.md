@@ -7,12 +7,12 @@ first_release: 1989
 last_release: 1998
 total_games: 6
 genre: "Adventure RPG"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 
 # Quest for Glory Series
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -25,10 +25,10 @@ A distinctive feature is character import: players can carry their hero from one
 | Year | Title | Engine | Setting |
 |------|-------|--------|---------|
 | 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want to Be a Hero]] | SCI0[^ref-10] | Medieval Germany (Spielburg)[^ref-2][^ref-14] |
-| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | SCI0 | Middle East (Shapeir)[^ref-15] |
+| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | SCI1 (EGA)[^ref-25] | Middle East (Shapeir)[^ref-15] |
 | 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I VGA]] | SCI1.1[^ref-10] | VGA remake[^ref-16] |
-| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | SCI1.1 | Africa (Tarna)[^ref-17] |
-| 1993 | [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV: Shadows of Darkness]] | SCI2[^ref-24] | Eastern Europe (Mordavia)[^ref-18] |
+| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | SCI1.1[^ref-25] | Africa (Tarna)[^ref-17] |
+| 1993 | [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV: Shadows of Darkness]] | SCI2[^ref-24][^ref-25] | Eastern Europe (Mordavia)[^ref-18] |
 | 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Custom 3D | Greece-like Silmaria[^ref-19] |
 
 Quest for Glory V was developed by Yosemite Entertainment and published by Sierra FX for Windows and Macintosh; Lori Ann Cole was its designer.[^ref-11]
@@ -45,7 +45,7 @@ Quest for Glory V was developed by Yosemite Entertainment and published by Sierr
 
 ### Classes
 - **Fighter, Magic-User, Thief** - The three original classes; the character usually joins a guild, which offers class-specific plots[^ref-2]
-- **Paladin** - In QFG2 the hero can become a paladin during the game by following a strict moral code;[^ref-15] in QFG3 the class is selectable from the start[^ref-17]
+- **Paladin** - In QFG2 the hero can become a paladin during the game by following a strict moral code;[^ref-15] from QFG3 on, an imported hero can play as a Paladin[^ref-27]
 
 ### Stats
 Each class has special abilities plus a shared set of attributes developed by performing tasks; class skills include parry for fighters and paladins, lock picking and sneaking for thieves, and spellcasting for magic users.[^ref-1] Health and stamina derive from strength, agility and vitality.[^ref-1]
@@ -112,12 +112,12 @@ The Coles continued their work after Sierra:
 
 - **2008** — [[2008 - Quest for Glory II VGA Remake|QFG2 VGA Remake]] — Developer: AGD Interactive, Link: [AGDI](https://www.agdinteractive.com/games/qfg2/)
 
-### Spiritual Successors
+### Successor Games
 
 - **2014** — [[2014 - Quest for Infamy|Quest for Infamy]] — Developer: Infamous Quests, Link: [Steam](https://store.steampowered.com/app/264560/Quest_for_Infamy/)
 - **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Developer: Transolar Games, Link: [Steam](https://store.steampowered.com/app/375440/HeroU_Rogue_to_Redemption/)
 - **2023** — [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] — Developer: Transolar Games, Link: [Steam](https://store.steampowered.com/app/1139490/Summer_Daze_Tillys_Tale/)
-- **TBD** — [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] — Developer: Infamous Quests, Notes: Sequel to Quest for Infamy
+- **TBD** — [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] — Developer: Infamous Quests, Notes: Prequel to Quest for Infamy[^ref-26]
 
 ## See Also
 
@@ -146,11 +146,14 @@ The Coles continued their work after Sierra:
 [^ref-14]: [MobyGames – Hero's Quest: So You Want to Be a Hero](https://www.mobygames.com/game/168/heros-quest-so-you-want-to-be-a-hero/) – Spielburg setting
 [^ref-15]: [MobyGames – Quest for Glory II: Trial by Fire](https://www.mobygames.com/game/169/quest-for-glory-ii-trial-by-fire/) – Shapeir; paladin earned by a strict moral code
 [^ref-16]: [MobyGames – Quest for Glory I: So You Want To Be A Hero (1992)](https://www.mobygames.com/game/16075/quest-for-glory-i-so-you-want-to-be-a-hero/) – VGA remake with icon interface
-[^ref-17]: [MobyGames – Quest for Glory III: Wages of War](https://www.mobygames.com/game/173/quest-for-glory-iii-wages-of-war/) – Tarna, Simbani and Leopardmen; paladin selectable from start
+[^ref-17]: [MobyGames – Quest for Glory III: Wages of War](https://www.mobygames.com/game/173/quest-for-glory-iii-wages-of-war/) – Tarna, Simbani and Leopardmen
 [^ref-18]: [MobyGames – Quest for Glory: Shadows of Darkness](https://www.mobygames.com/game/119/quest-for-glory-shadows-of-darkness/) – Mordavia, Eastern European/Slavic setting
 [^ref-19]: [MobyGames – Quest for Glory V: Dragon Fire](https://www.mobygames.com/game/174/quest-for-glory-v-dragon-fire/) – Silmaria, Rites of Rulership, action battles
 [^ref-20]: [GOG – Quest for Glory 1-5](https://www.gog.com/game/quest_for_glory) – "Includes both: VGA and original version of Quest for Glory 1"
 [^ref-21]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750/Quest_for_Glory_15/) – Same note on QFG1 versions
 [^ref-22]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – qfg1, qfg1vga, qfg2, qfg3, qfg4 all "Excellent"
 [^ref-23]: [Steam – Hero-U: Rogue to Redemption](https://store.steampowered.com/app/375440/HeroU_Rogue_to_Redemption/) – Transolar Games, Jul 10, 2018
-[^ref-24]: [Wikipedia – Sierra Creative Interpreter](https://en.wikipedia.org/wiki/Sierra%27s_Creative_Interpreter) – Lists Quest for Glory IV under SCI2 (1993)
+[^ref-24]: [Wikipedia – Sierra Creative Interpreter](https://en.wikipedia.org/wiki/Sierra_Creative_Interpreter) – Lists Quest for Glory IV under SCI2 (1993)
+[^ref-25]: [ScummVM Wiki – Sierra Game Versions (Wayback, 2024-05-18)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – Quest for Glory II (1.000.041–1.000.087) under "SCI1 (ega)"; QfG III (1.001.050) under SCI1.1; QfG IV floppy (2.000.000, Dec 1993) under SCI2, the 1994 CD version (2.100.002) under SCI2.1 (early)
+[^ref-26]: [itch.io – Quest for Infamy: Roehm to Ruin](https://infamousquests.itch.io/qfi-rtr) – "A prequel to Quest for Infamy"
+[^ref-27]: [Wikipedia – Quest for Glory III: Wages of War](https://en.wikipedia.org/wiki/Quest_for_Glory_III:_Wages_of_War) – Three "standard" classes; Paladin a "'hidden' class" opened by importing a hero from the previous game
