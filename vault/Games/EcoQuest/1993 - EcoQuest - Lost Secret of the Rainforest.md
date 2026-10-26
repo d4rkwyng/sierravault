@@ -10,7 +10,7 @@ series: EcoQuest
 engine: SCI1.1
 protagonist: Adam Greene
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Dan Kehler]
 description: '*EcoQuest 2: Lost Secret of the Rainforest* is an educational adventure
   game developed and published by Sierra On-Line in 1993 as the sequel to *EcoQuest:
@@ -19,7 +19,7 @@ tags: [1990s, ecoquest, educational, sci, sierra]
 ---
 # EcoQuest 2: Lost Secret of the Rainforest
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ tags: [1990s, ecoquest, educational, sci, sierra]
 
 The game stars Adam Greene, now slightly older and fully capable of communicating with animals, as he journeys through lush jungle environments, mysterious caverns, and ancient ruins atop mist-covered peaks.[^ref-3] Players must navigate the real-life dangers threatening the rainforests while encountering endangered animal species, rare flora, and remote native cultures.[^ref-3] The educational content is woven throughout the gameplay via an innovative "Ecorder" device—a tricorder-like tool that Adam uses to learn about the things he encounters during his journey.[^ref-1]
 
-Unlike its predecessor, which was co-designed by [[Jane Jensen]], *Lost Secret of the Rainforest* was designed solely by [[Gano Haine]], as Jensen had moved on to create the *Gabriel Knight* series.[^ref-1] The game takes its environmental message seriously but packages it in an engaging rather than preachy manner, balancing adventure with genuine educational intent better than many of its contemporaries.[^ref-4]
+Unlike its predecessor, which was co-designed by [[Jane Jensen]], *Lost Secret of the Rainforest* was designed solely by [[Gano Haine]], as Jensen had moved on to *King's Quest VI* and then to create the *Gabriel Knight* series.[^ref-33][^ref-1] The game takes its environmental message seriously but packages it in an engaging rather than preachy manner, balancing adventure with genuine educational intent better than many of its contemporaries.[^ref-4]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -107,7 +107,7 @@ MobyGames user reviews are generally positive, with one calling it "a truly magn
 
 *Lost Secret of the Rainforest* emerged from Sierra's commitment to the Discovery Series edutainment line, which already included titles like *Mixed-Up Mother Goose*, *Castle of Dr. Brain*, and the original *EcoQuest*.[^ref-15] The first *EcoQuest: The Search for Cetus* had sold respectably on the strength of Jane Jensen's writing and its "save the dolphins" pitch.[^ref-15] Sierra sought to continue the franchise with a new environmental focus, selecting the endangered rainforests of South America as the setting for the sequel.[^ref-2]
 
-The game designer [[Gano Haine]] took sole creative control for the sequel, as co-designer Jane Jensen had departed to create the *Gabriel Knight* series.[^ref-1] Haine was simultaneously working on the project while navigating Sierra's busy development environment, which included high-profile visitors like Daryl F. Gates, to whom she reluctantly provided orientation on Sierra's development tools.[^ref-21]
+The game designer [[Gano Haine]] took sole creative control for the sequel, as co-designer Jane Jensen had moved on to *King's Quest VI* and then to create the *Gabriel Knight* series.[^ref-33][^ref-1] Haine was simultaneously working on the project while navigating Sierra's busy development environment, which included high-profile visitors like Daryl F. Gates, to whom she reluctantly provided orientation on Sierra's development tools.[^ref-21]
 
 ### Production
 
@@ -254,3 +254,4 @@ The game's emphasis on consequences for environmental destruction—whether thro
 [^ref-30]: [MobyGames – User Review by Katakis](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/user-review/2311571/) – EcoNews booklet, bat icon, Ecorder as inventory item, few spoken lines
 [^ref-31]: [MobyGames – DOS Credits](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/credits/dos/) – producer, production, programming, art direction, sound, voiceovers, playtesting
 [^ref-32]: [MobyGames – Cover Art](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/covers/) – "DOS and Windows 16-bit" boxed 3.5" and 5.25" disk releases
+[^ref-33]: [The Digital Antiquarian – The Mortgaging of Sierra Online](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – for King's Quest VI, Sierra "brought over Jane Jensen, who was fresh off the task of co-designing" EcoQuest: The Search for Cetus with Gano Haine
