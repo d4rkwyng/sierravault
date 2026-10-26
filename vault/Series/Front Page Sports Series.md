@@ -7,12 +7,12 @@ first_release: 1992
 last_release: 1999
 total_games: 16
 genre: "Sports Simulation"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 
 # Front Page Sports Series
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -28,18 +28,18 @@ The football line ended when *NFL Football Pro '99*, released in December 1998, 
 |------|-------|----------|-------|
 | 1992 | [[1992 - Front Page Sports Football 92\|Football]] | Football | Founding entry; DOS; fictional teams and players[^ref-4] |
 | 1993 | [[1993 - Front Page Sports - Football Pro\|Football Pro]] | Football | NFLPA licence for real player names[^ref-21] |
-| 1994 | [[1994 - Front Page Sports - Baseball Pro\|Baseball '94]] | Baseball | DOS; based on the 1994 Major League season[^ref-23] |
-| 1994 | [[1994 - Front Page Sports - Football Pro '95\|Football Pro '95]] | Football | Officially licensed by the NFL; DOS, October 25, 1994[^ref-22] |
+| 1994 | [[1994 - Front Page Sports - Baseball Pro\|Baseball '94]] | Baseball | DOS; based on the 1994 Major League season, with the 1994 MLBPA players and historical data for them[^ref-23][^ref-30] |
+| 1994 | [[1994 - Front Page Sports - Football Pro '95\|Football Pro '95]] | Football | Officially licensed by the NFL; DOS, October 1994 (MobyGames gives October 25)[^ref-30][^ref-22] |
 | 1995 | [[1995 - Front Page Sports - Football Pro '96\|Football Pro '96]] | Football | DOS[^ref-20] |
 | 1996 | [[1996 - Front Page Sports - Baseball Pro '96\|Baseball Pro '96]] | Baseball | Released June 30, 1996[^ref-6] |
-| 1996 | [[1996 - Front Page Sports - Football Pro '97\|Football Pro '97]] | Football | First in the series for Windows 95[^ref-4] |
-| 1996 | [[1996 - Front Page Sports - Trophy Bass 2\|Trophy Bass 2]] | Bass fishing | Windows, October 1996[^ref-19][^ref-26] |
+| 1996 | [[1996 - Front Page Sports - Football Pro '97\|Football Pro '97]] | Football | First FPS Football for Windows 95[^ref-4] |
+| 1996 | [[1996 - Front Page Sports - Trophy Bass 2\|Trophy Bass 2]] | Bass fishing | Windows, September 30, 1996 (GameSpot; MobyGames gives October 1996)[^ref-28][^ref-19][^ref-26] |
 | 1997 | [[1997 - Front Page Sports - Baseball Pro '98\|Baseball Pro '98]] | Baseball | Released May 31, 1997; last Baseball Pro[^ref-6] |
 | 1997 | [[1997 - Front Page Sports - Football Pro '98\|Football Pro '98]] | Football | |
 | 1997 | [[1997 - Front Page Sports - Golf\|Golf]] | Golf | Headgate Studios; "Sierra's answer to Links"[^ref-7][^ref-27] |
 | 1997 | [[1997 - Front Page Sports Golf - Tour Course Add-On\|Golf – Add-on Courses]] | Golf expansion | Separate add-on course disks |
 | 1997 | [[1997 - Front Page Sports - Ski Racing\|Ski Racing]] | Skiing | Windows[^ref-25] |
-| 1997 | [[1997 - Front Page Sports - Trophy Rivers\|Trophy Rivers]] | Fly fishing | Windows and Windows 3.x[^ref-9] |
+| 1997 | [[1997 - Front Page Sports - Trophy Rivers\|Trophy Rivers]] | River fishing | Flies, lures or bait; Windows and Windows 3.x[^ref-31][^ref-9] |
 | 1998 | [[CXL - Front Page Sports - Football Pro '99\|NFL Football Pro '99]] | Football | Released December 22, 1998; recalled January 21, 1999[^ref-18][^ref-4] |
 | 1999 | [[1999 - Front Page Sports - Ski Racing 99\|Ski Racing 99]] | Skiing | German edition (*DSF Ski '99: Extreme Edition*) of [[1998 - Sierra Sports Skiing 1999 Edition\|Sierra Sports: Skiing 1999 Edition]][^ref-8] |
 
@@ -51,7 +51,7 @@ The football line ended when *NFL Football Pro '99*, released in December 1998, 
 
 The flagship subseries ran to seven versions, from the 1992 original to *NFL Football Pro '99*.[^ref-4] Front Page Sports Football offered:[^ref-4]
 
-- **NFL licensing from *Football Pro '95* onward**: the 1992 original had no NFL or players' association licence, so its teams and players were fictional; later versions used real NFL players and teams.
+- **Licensing**: the 1992 original had no NFL or players' association licence, so its teams and players were fictional. The 1993 *Football Pro* added real player names through an NFLPA licence,[^ref-21] and from *Football Pro '95* onward the games were officially licensed by the NFL, with real NFL teams and players.[^ref-22][^ref-30]
 - **Play editor**: users could design and save custom offensive and defensive plays.
 - **Career leagues** with player aging, drafts and retirements.
 - **Statistics**: more than 300 statistical categories, with box scores and league leaders.
@@ -64,7 +64,7 @@ Three entries: *Baseball '94* (DOS), *Baseball Pro '96* (June 30, 1996) and *Bas
 
 ### Golf (1997)
 
-*Front Page Sports: Golf*, developed by Headgate Studios, was "Sierra's answer to Links".[^ref-7][^ref-27] Reviewers compared its graphics with *Jack Nicklaus 4* and the *Links LS* games.[^ref-27] Separate add-on course disks followed.
+*Front Page Sports: Golf*, developed by Headgate Studios, was "Sierra's answer to Links".[^ref-7][^ref-27] Gamecenter's Gordon Goble rated its graphics slightly below *Jack Nicklaus 4* and the *Links LS* games.[^ref-27] Separate add-on course disks followed.
 
 ### Skiing (1997–1999)
 
@@ -72,7 +72,7 @@ Three entries: *Baseball '94* (DOS), *Baseball Pro '96* (June 30, 1996) and *Bas
 
 ### Fishing (1996–1997)
 
-*Front Page Sports: Trophy Bass 2* (1996), the sequel to Sierra's *Trophy Bass*, was released under the Front Page Sports name, and Sierra's InterAction magazine announced it with *Golf* as the two new FPS additions for Christmas 1996.[^ref-19][^ref-26] *Trophy Rivers* (1997) followed with fly fishing.[^ref-9]
+*Front Page Sports: Trophy Bass 2* (1996), the sequel to Sierra's *Trophy Bass*, was released under the Front Page Sports name, and Sierra's InterAction magazine announced it with *Golf* as the two new FPS additions for Christmas 1996.[^ref-19][^ref-26] *Trophy Rivers* (1997) followed with river fishing for salmon, trout and steelhead, using spinning gear, bait-casting tackle or a fly rod, with bait, lures or flies; InterAction singled out its fly-fishing.[^ref-31][^ref-9]
 
 ## Commercial Performance
 
@@ -80,7 +80,7 @@ Sierra's annual report for the fiscal year ended March 31, 1996 said the company
 
 ## Later History
 
-After the *Football Pro '99* recall, Sierra cancelled *NFL Football Pro 2000*.[^ref-4] The brand did return briefly: in October 2009 the French studio Cyanide announced a closed beta of a new online version of Front Page Sports Football.[^ref-4]
+After the *Football Pro '99* recall, Sierra cancelled *NFL Football Pro 2000*.[^ref-4] The brand later returned: in October 2009 the French studio Cyanide announced a closed beta of a new online version of Front Page Sports Football,[^ref-4] and Cyanide released *Front Page Sports Football* on Steam on October 2, 2014, developed by Cyanide Studio and published by Cyanide Studio and Nacon.[^ref-29]
 
 ## See Also
 
@@ -109,4 +109,8 @@ After the *Football Pro '99* recall, Sierra cancelled *NFL Football Pro 2000*.[^
 [^ref-24]: [Computer Games Strategy Plus — "Sierra Sports Skiing 99 in Stores" (Wayback)](https://web.archive.org/web/20030529145242/http://www.cdmag.com/articles/015/094/ski.html) — Posted 11/10/1998: North American retail release; Picabo Street; WON.net multiplayer
 [^ref-25]: [MobyGames — Front Page Sports: Ski Racing](https://www.mobygames.com/game/41426/front-page-sports-ski-racing/) — ID 41426 (verified via API): Windows 1997; four World Cup variants; six courses based on real ones
 [^ref-26]: [InterAction Magazine, Fall 1996 — Internet Archive](https://archive.org/details/InterAction_Magazine_Fall_1996_1996_Sierra_On-Line_US) — "1996: A Big Expansion Year for FPS: Sports"; "New Front Page Sports Golf and Front Page Sports: Trophy Bass 2" for Christmas 1996
-[^ref-27]: [Wikipedia — Front Page Sports: Golf](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Golf) — Developed by Headgate Studios, published by Sierra On-Line, 1997; graphics compared with Jack Nicklaus 4 and Links LS
+[^ref-27]: [Wikipedia — Front Page Sports: Golf](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Golf) — Developed by Headgate Studios, published by Sierra On-Line, 1997; Gordon Goble (Gamecenter) rated its graphics slightly inferior to Jack Nicklaus 4 and Links LS
+[^ref-28]: [GameSpot — Trophy Bass 2 Review (Wayback, April 2003)](https://web.archive.org/web/20030419043414/http://www.gamespot.com:80/pc/sports/trophybass2/review.html) — "Release Date: 09/30/1996"; publisher Sierra
+[^ref-29]: [Steam — Front Page Sports Football](https://store.steampowered.com/app/316700/) — Release date Oct 2, 2014; developer Cyanide Studio; publishers Cyanide Studio, Nacon
+[^ref-30]: [InterAction Magazine, Vol. 7 No. 1 (Fall 1994) — Internet Archive](https://archive.org/details/021_InterAction_Volume_7_Number_1_Fall_1994) — "Sierra will be releasing Front Page Sports: Football PRO '95 in October … includes both the NFL teams and players"; Baseball '94: "all the 1994 MLBPA players", "Historical data (for the MLBPA players)"
+[^ref-31]: [InterAction Magazine, Vol. 10 No. 4 (Holiday 1997) — Internet Archive](https://archive.org/details/033_interaction_volume_10_number_4_holiday_1997) — Trophy Rivers: "chase huge salmon and trout with spinning gear, bait-casting tackle, or a fly rod, with bait, lures, and flies"
