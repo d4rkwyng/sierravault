@@ -8,10 +8,10 @@ programmer: Ken Williams
 genre: Adventure
 platforms: [Apple II, PC-88, PC-98, FM-7, iOS]
 series: Hi-Res Adventure
-engine: null
+engine: ADL
 protagonist: Unnamed protagonist
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: Mystery House is the 1980 Apple II murder-mystery adventure designed and
   illustrated by Roberta Williams and programmed by Ken Williams, released by On-Line
   Systems in May 1980 and widely regarded as the first graphical adventure game.
@@ -19,7 +19,7 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #1: Mystery House
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -34,7 +34,7 @@ The game was packaged in Ziploc bags holding a floppy disk and a photocopied ins
 > **Designer:** [[Roberta Williams]][^ref-2]
 > **Programmer:** [[Ken Williams]][^ref-2]
 > **Publisher:** [[On-Line Systems]][^ref-27]
-> **Engine:** Not documented
+> **Engine:** ADL (Adventure Development Language)[^ref-29]
 > **Platforms:** Apple II, PC-88, PC-98, FM-7, iOS[^ref-13]
 > **Release Year:** 1980[^ref-6][^ref-27]
 > **Series:** Hi-Res Adventure #1
@@ -189,3 +189,4 @@ In March 2009, Artsiness released an iPhone adaptation of Mystery House[^ref-21]
 [^ref-26]: [The Digital Antiquarian](https://www.filfre.net/2011/10/on-line-systems-is-born/) – Jimmy Maher's "On-Line Systems is Born"
 [^ref-27]: [HistoryLink.org](https://historylink.org/File/20912) – Essay on Roberta Williams (Mystery House release, MICRO ad, Hi-Res Adventures)
 [^ref-28]: [PC Multimedia & Entertainment (Wayback)](https://web.archive.org/web/19981206115537/http://www.pcme.com/intrview/kwilliam/kwilliam.htm) – Michael Bendner, "An Interview with Ken Williams" (1995)
+[^ref-29]: [ScummVM Wiki – ADL (Wayback, 2024)](http://web.archive.org/web/2024/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; lists "Hi-Res Adventure #1" among the games using this engine

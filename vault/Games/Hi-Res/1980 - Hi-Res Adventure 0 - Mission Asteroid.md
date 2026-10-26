@@ -7,10 +7,10 @@ publisher: On-Line Systems
 genre: Adventure
 platforms: [Apple II, Atari 8-bit, C64, FM-7, PC-88, PC-98]
 series: Hi-Res Adventure
-engine: Hi-Res Adventure
+engine: ADL
 protagonist: Astronaut (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: 'Hi-Res Adventure #0: Mission Asteroid is a 1980 Apple II graphic adventure
   by Ken and Roberta Williams for On-Line Systems, an easier introduction to the Hi-Res
   Adventure series in which an astronaut must destroy an asteroid headed for Earth.'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #0: Mission Asteroid
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -36,7 +36,7 @@ The Softalk listing advertised "Fantastic 21-color hi-res graphics" on a 48K dis
 > **Release Year:** 1980[^ref-21]
 > **Series:** Hi-Res Adventure
 > **Sierra Lineage:** Core Sierra
-> **Engine:** Hi-Res Adventure
+> **Engine:** ADL (Adventure Development Language)[^ref-24]
 > **Protagonist:** Astronaut (player-named)
 
 ## Story Summary
@@ -171,3 +171,4 @@ The game is catalogued by databases including IGDB[^ref-19], and its manual and 
 [^ref-21]: [Softalk, December 1980 (Internet Archive)](https://archive.org/download/softalkv1n04dec1980/softalkv1n04dec1980_djvu.txt) – New-product listing: "Hi-Res Adventure #0, Mission: Asteroid", 21-color graphics, 48K, $19.95
 [^ref-22]: [Mission: Asteroid Apple II manual (Internet Archive)](https://archive.org/details/Mission_Asteroid_Hi-Res_Adventure_0) – Premise, parser, saving, signed "Ken and Roberta Williams"
 [^ref-23]: [Computer Gaming World, Issue 2.1, Jan–Feb 1982 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_2.1) – Mark Marlow's review of the On-Line Systems Hi-Res Adventures
+[^ref-24]: [ScummVM Wiki – ADL (Wayback, 2024)](http://web.archive.org/web/2024/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; lists "Hi-Res Adventure #0" among the games using this engine

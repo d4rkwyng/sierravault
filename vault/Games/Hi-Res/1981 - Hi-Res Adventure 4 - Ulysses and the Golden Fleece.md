@@ -7,17 +7,17 @@ publisher: On-Line Systems
 genre: Adventure
 platforms: [Apple II, PC Booter, Atari 8-bit, C64, FM-7, PC-88, PC-98]
 series: Hi-Res Adventure
-engine: Hi-Res Adventure Text Parser
+engine: ADL
 protagonist: Ulysses
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 description: 'Hi-Res Adventure #4: Ulysses and the Golden Fleece is a graphic adventure
   game released in 1981 for the Apple II by On-Line Systems (later known as Sierra...'
 tags: [1980s, adventure, hi-res-adventure, sierra]
 ---
 # Hi-Res Adventure #4: Ulysses and the Golden Fleece
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ ScummVM added support for the game in version 2.0.0, released on 17 December 201
 > **Developer:** [[On-Line Systems]][^ref-1]
 > **Designer:** Bob Davis, [[Ken Williams]][^ref-1]
 > **Publisher:** On-Line Systems / Sierra On-Line; StarCraft, Inc. (Japan); All American Adventures (UK C64)[^ref-27]
-> **Engine:** Hi-Res Adventure Text Parser[^ref-10]
+> **Engine:** ADL (Adventure Development Language)[^ref-39]
 > **Platforms:** Apple II, PC Booter, Atari 8-bit, Commodore 64, FM-7, PC-88, PC-98[^ref-1]
 > **Release Year:** 1981
 > **Series:** Hi-Res Adventure
@@ -235,3 +235,4 @@ The game is also documented on Wikipedia[^ref-18], PixelatedArcade[^ref-21] and 
 [^ref-36]: [Softalk for the IBM Personal Computer, November 1982 (Internet Archive full text)](https://archive.org/download/softalk-pc-v1n6-1982-11/softalk-pc-v1n6-1982-11_djvu.txt) – Sierra ad: first color-graphic adventure for the IBM; 48k and Color/Graphics adapter; $39.95
 [^ref-37]: [PC Magazine, 20 March 1984 (Internet Archive full text)](https://archive.org/download/PC-Mag-1984-03-20/PC-Mag-1984-03-20_djvu.txt) – Phil Wiswell, "PC Arcade": Jason/Columbia anecdote, Scroll-Lock, two-word commands, Fun 5.0 / Challenge 6.0 / Graphics 3.0, total 14.0
 [^ref-38]: [Videogaming Illustrated, December 1982 – Ulysses and the Golden Fleece (VideoGame Pavilion)](https://vgpavilion.com/mags/1982/12/vi/ulysses-and-the-golden-fleece) – feature and Bob Davis interview: "quite extensive" vocabulary, two-week estimate, Columbia Pictures copyright reason
+[^ref-39]: [ScummVM Wiki – ADL (Wayback, 2024)](http://web.archive.org/web/2024/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; lists "Hi-Res Adventure #4" among the games using this engine

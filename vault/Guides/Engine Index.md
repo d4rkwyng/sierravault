@@ -1,11 +1,11 @@
 ---
 title: "Engine Index"
 type: index
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Engine Index
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 A listing of Sierra games organized by engine, with technical specifications and compatibility information. It is not exhaustive: some vault games are not listed yet, and games whose engine no source documents are grouped at the end. Use ScummVM for most adventure games, DOSBox for simulations and sports titles.
 
@@ -42,7 +42,7 @@ The engine Sierra created for King's Quest I on the IBM PCjr, used for 14 games 
 **Play with:** ScummVM (recommended), DOSBox
 
 - **1984** — [[1984 - King's Quest - Quest for the Crown|King's Quest I: Quest for the Crown]]
-- **1984** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]]
+- **1984** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]] (the AGI version dates from June 8, 1986: interpreter 2.001, which ScummVM calls "more an hybrid between AGI1 & AGI2")[^ref-1]
 - **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]]
 - **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]]
 - **1986** — [[1986 - Space Quest - The Sarien Encounter|Space Quest I: The Sarien Encounter]]
@@ -61,6 +61,7 @@ AGI assignments per the ScummVM version list.[^ref-1]
 **Pre-AGI** (earlier Sierra engine; ScummVM runs these through its AGI engine):[^ref-2][^ref-5]
 - **1983** — [[1983 - Troll's Tale|Troll's Tale]]
 - **1984** — [[1984 - Mickey's Space Adventure|Mickey's Space Adventure]]
+- **1984** — [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]]
 
 ---
 
@@ -488,10 +489,10 @@ These games were listed under an engine above in earlier versions of this index,
 ## References
 
 [^ref-1]: [ScummVM Wiki – Sierra Game Versions (archived May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – interpreter version lists for AGI, SCI0/SCI01, SCI1 (ega/early/middle/late), SCI1.1, SCI2, SCI21 and SCI3; "SCI1 games were released as two versions: 16 color EGA and 256 color VGA"; "SCI2, SCI21, and SCI3 can be collectively referred to as SCI32 because the released original interpreters were 32-bit executables"; Shivers II and Quest for Glory V "not SCI"; "After 1997, the SCI engine… was abandoned"
-[^ref-2]: [ScummVM source – engines/agi/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/agi/detection_tables.h) – "Mickey's Space Adventure // Preagi game"; Troll's Tale detected as a Pre-AGI (GType_PreAGI) game
+[^ref-2]: [ScummVM source – engines/agi/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/agi/detection_tables.h) – "Mickey's Space Adventure // Preagi game"; Troll's Tale and Winnie the Pooh in the Hundred Acre Wood (GAMEpre_P("winnie"…)) detected as Pre-AGI (GType_PreAGI) games
 [^ref-3]: [ScummVM source – engines/sci/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) – "Shivers 2 doesn't contain SCI scripts… classifies Shivers 2 as 'not SCI'"
 [^ref-4]: [ScummVM source – engines/dgds/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/dgds/detection_tables.h) – detection entries for Rise of the Dragon, Willy Beamish, Heart of China, Quarky & Quaysoo's Turbo Science and the Johnny Castaway screensaver
-[^ref-5]: [ScummVM – Compatibility list](https://www.scummvm.org/compatibility/) – checked 2026-10-16: agi:mickey, agi:troll; dgds:rise, dgds:china, dgds:beamish; Gob titles listed (no Inca, Inca II or Last Dynasty)
+[^ref-5]: [ScummVM – Compatibility list](https://www.scummvm.org/compatibility/) – checked 2026-10-16: agi:mickey, agi:troll; agi:winnie (checked 2026-10-26); dgds:rise, dgds:china, dgds:beamish; Gob titles listed (no Inca, Inca II or Last Dynasty)
 [^ref-6]: [Wikipedia – Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) – developed for King's Quest (1984) for the IBM PCjr; used "in 14 of their games between 1984 and 1989"; 160×200; KQ IV "Sierra released an AGI version of the game at the same time"
 [^ref-7]: [Wikipedia – Sierra Creative Interpreter](https://en.wikipedia.org/wiki/Sierra_Creative_Interpreter) – SCI0 1988 "320 × 200, 16-color EGA", text parser; SCI1 1990 256-color VGA; SCI1.1 1992 "enhanced animation and sprite scaling"; SCI2 1993 640×480 SVGA, 256 colors; SCI3 1996 "native Windows 95 support"; latest release 1996
 [^ref-8]: [Next Generation #30 (June 1997), Internet Archive scan](https://archive.org/details/NextGeneration30Jun1997) – King's Quest: Mask of Eternity feature: "ThreeSpace is the 3D engine that Dynamix, a Sierra subsidiary, contributed to the project"

@@ -1,18 +1,18 @@
 ---
 title: "Engine History"
 type: reference
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 description: "The technical evolution of Sierra On-Line's game engines from 1980 to 2015 — ADL (Hi-Res Adventures), AGI, SCI0/SCI1/SCI1.1/SCI2/SCI2.1/SCI3, the ThreeSpace-based Mask of Eternity, and the engines used by acquired studios and the 2015 Odd Gentlemen reboot."
 tags: [reference, engines, technology, agi, sci, sci32]
 ---
 
 # Engine History
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Sierra On-Line developed and maintained a progression of in-house adventure-game engines over its independent era — ADL for the Hi-Res Adventures, AGI, and the Sierra Creative Interpreter (SCI) in its SCI0, SCI1, SCI1.1, SCI2, SCI2.1 and SCI3 versions — plus engines used by acquired and partner studios (Dynamix's 3Space, Impressions' 2D city-builder engine, Coktel's adventure engine and others). This page traces the version history with release-year boundaries, the games that defined each generation, and what each generation added.
+Sierra On-Line developed and maintained a progression of in-house adventure-game engines between 1980 and 1996 — ADL for the Hi-Res Adventures, AGI, and the Sierra Creative Interpreter (SCI) in its SCI0, SCI1, SCI1.1, SCI2, SCI2.1 and SCI3 versions — plus engines used by acquired and partner studios (Dynamix's 3Space, Impressions' 2D city-builder engine, Coktel's adventure engine and others). This page traces the version history with release-year boundaries, the games that defined each generation, and what each generation added.
 
 For per-title interpreter version numbers, see [[Versions|Sierra Game Versions]], which transcribes the Sierra Classic Gaming wiki's version tables and cross-checks them against the ScummVM version list.[^ref-20] The `engine:` YAML field on game pages is a quick guide, but where it disagrees with the version list, the version list is the better source.
 
@@ -45,7 +45,7 @@ LucasArts' rival engine, SCUMM, came later: it was built at Lucasfilm Games for 
 
 AGI was developed for [[1984 - King's Quest - Quest for the Crown|King's Quest]] (1984), which Sierra and IBM wanted to use to attract buyers to the IBM PCjr.[^ref-5] King's Quest was "Originally released in 1984 for IBM's ill-fated PCjr".[^ref-3] What it offered:
 
-1. **Animated, color adventures** — AGI "was capable of running animated, color adventure games with music and sound effects".[^ref-5] Later AGI2 versions added script-settable priority bands.[^ref-20]
+1. **Animated, color adventures** — AGI "was capable of running animated, color adventure games with music and sound effects".[^ref-5] AGI2.425 briefly introduced script-settable priority bands, which were removed immediately afterwards and returned in 2.936, the last AGI2 version.[^ref-20]
 2. **Portable bytecode** — Games were written in a C-like Game Adaptation Language, compiled to bytecode and run by the interpreter.[^ref-5] The Strong museum credits AGI, "a scripting engine that made it easier to port previous software to different platforms", with giving King's Quest a second life after the PCjr.[^ref-3]
 
 Sierra used AGI in 14 games between 1984 and 1989.[^ref-5] ScummVM's version list groups the interpreters as AGI0 (King's Quest on IBM PC, PCjr and Tandy), AGI1 (The Black Cauldron and King's Quest II), AGI2, and AGI3, which begins with King's Quest IV (July 27, 1988) and also ran Manhunter: New York, Gold Rush! and Manhunter 2.[^ref-20]
@@ -63,7 +63,7 @@ Defining games:
 - [[1988 - Manhunter - New York|Manhunter NY]], [[1989 - Manhunter - San Francisco|Manhunter SF]]
 - [[1988 - Gold Rush|Gold Rush!]]
 - [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] (AGI)
-- [[1984 - Donald Duck's Playground|Donald Duck's Playground]] (AGI2 interpreter 2.001)[^ref-20]
+- [[1984 - Donald Duck's Playground|Donald Duck's Playground]] (AGI version dated June 8, 1986, interpreter 2.001; ScummVM calls it "more an hybrid between AGI1 & AGI2")[^ref-20]
 
 Not AGI: [[1984 - Mickey's Space Adventure|Mickey's Space Adventure]], [[1983 - Troll's Tale|Troll's Tale]] and [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]] are "Pre-AGI" games, which ScummVM's AGI engine detects as a separate type.[^ref-26][^ref-19]
 
@@ -97,10 +97,10 @@ Defining games (SCI0):
 
 ## Generation 4: SCI1 / SCI1.1 (1990–1993)
 
-**Engine:** SCI1 and SCI1.1.
+**Engine:** SCI1 and SCI1.1. SCI1.1 CD and Windows re-releases continued into 1994, among them the King's Quest VI Windows CD (September 1994) and the Freddy Pharkas CD (September 1994).[^ref-20]
 **Platforms:** IBM PC (286 or better), Macintosh, Amiga, FM Towns, NEC PC-9801 — no Atari ST.[^ref-20] Several SCI1.1 games also had Windows releases.[^ref-20]
 
-SCI1 was introduced with [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] in 1990 and combined 256-color VGA graphics with an icon-driven interface.[^ref-8] King's Quest V replaced "its predecessor's 16-color EGA graphics with 256-color VGA graphics" and replaced the text parser "with an entirely mouse-driven point-and-click interface".[^ref-23] SCI1 games were sold in both 16-color EGA and 256-color VGA versions.[^ref-20] SCI1.1 (1992) added "enhanced animation and sprite scaling".[^ref-8]
+SCI1's VGA debut was [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] in 1990, which combined 256-color VGA graphics with an icon-driven interface;[^ref-8] Quest for Glory II had already used an earlier, EGA-only SCI1 build (interpreter 1.000.041, against King's Quest V's 1.000.058).[^ref-20] King's Quest V replaced "its predecessor's 16-color EGA graphics with 256-color VGA graphics" and replaced the text parser "with an entirely mouse-driven point-and-click interface".[^ref-23] SCI1 games were sold in both 16-color EGA and 256-color VGA versions.[^ref-20] SCI1.1 (1992) added "enhanced animation and sprite scaling".[^ref-8]
 
 Key innovations:
 
@@ -128,12 +128,12 @@ Defining games (SCI1.1):[^ref-20]
 - [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6]]
 - [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]]
 
-## Generation 5: SCI2 / SCI2.1 (1993–1995)
+## Generation 5: SCI2 / SCI2.1 (1993–1996)
 
 **Engine:** SCI2 and SCI2.1 ("SCI21").
 **Platforms:** 32-bit DOS and Windows; Macintosh.[^ref-8][^ref-20]
 
-SCI2 (1993) brought 640×480 SVGA in 256 colors and 32-bit protected mode.[^ref-8] Its first games were [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] (November 1993), Police Quest IV and Quest for Glory IV.[^ref-20] SCI2.1 followed: "Robot videos were firstly introduced here, in the DOS version of KQ7", and "VMD videos were introduced" in the middle SCI2.1 versions, with "cartoonish or 3D pre-rendered graphics with actors".[^ref-20]
+SCI2 (1993) brought 640×480 SVGA in 256 colors and 32-bit protected mode.[^ref-8] Its first games were [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] (November 1993), Police Quest IV and Quest for Glory IV.[^ref-20] SCI2.1 followed: "Robot videos were firstly introduced here, in the DOS version of KQ7", and "VMD videos were introduced" in the middle SCI2.1 versions, with "cartoonish or 3D pre-rendered graphics with actors".[^ref-20] Late SCI2.1 builds were still in use in 1996, for the RAMA (April 1996) and Leisure Suit Larry 7 (July 1996) demos.[^ref-20]
 
 Defining games:
 
@@ -144,7 +144,7 @@ Defining games:
 
 **Engine:** SCI3, the final SCI version. "SCI2, SCI21, and SCI3 can be collectively referred to as SCI32 because the released original interpreters were 32-bit executables."[^ref-20]
 
-SCI3 (1996) added native Windows 95 support;[^ref-8] the last interpreter release, version 3.000.000, dates from November 30, 1996.[^ref-8]
+SCI3 (1996) added native Windows 95 support;[^ref-8] Wikipedia dates the final interpreter release, version 3.000.000, to November 30, 1996.[^ref-8]
 
 Defining games (SCI3):[^ref-20]
 
@@ -174,7 +174,7 @@ Sierra's published catalogue also ran on engines developed by acquired or partne
 - **Coktel adventure engine** — ScummVM's Gob engine runs the Gobliiins games, Goblins Quest 3, Lost in Time and The Bizarre Adventures of Woodruff and the Schnibble;[^ref-19] its detection tables cover Inca II but not the first Inca.[^ref-34]
 - **Relic Homeworld engines** — Homeworld 2 (2003) used Lua for levels, AI and game rules; the 2015 remasters of both games are "built on the Homeworld 2 engine".[^ref-41]
 - **Valve GoldSrc** — Half-Life (1998), "a heavily modified version of the Quake engine", developed by Valve and published by Sierra Studios.[^ref-38]
-- **Monolith LithTech** — No One Lives Forever 2 (2002, LithTech Jupiter, published by Vivendi Universal Games)[^ref-36] and F.E.A.R. (2005, LithTech Jupiter EX, "Released under the Sierra Entertainment brand name").[^ref-37] The first No One Lives Forever (2000, LithTech 2.2) was published on Windows by Fox Interactive; Sierra Entertainment published its PlayStation 2 version.[^ref-35]
+- **Monolith LithTech** — No One Lives Forever 2 (2002, LithTech Jupiter, published on Windows by Vivendi Universal Games under the Sierra brand and by Fox Interactive)[^ref-36] and F.E.A.R. (2005, LithTech Jupiter EX, "Released under the Sierra Entertainment brand name").[^ref-37] The first No One Lives Forever (2000, LithTech 2.2) was published on Windows by Fox Interactive; Sierra Entertainment published its PlayStation 2 version.[^ref-35]
 - **Unreal Engine 3** — [[2015 - King's Quest|King's Quest (2015)]], developed by The Odd Gentlemen for the Activision-era Sierra revival.[^ref-39]
 
 ## Modern Re-Implementations
@@ -183,7 +183,7 @@ Modern preservation depends on projects re-implementing these engines:
 
 - **[[ScummVM|ScummVM]]** — Runs the Hi-Res Adventures through its ADL engine (adl:hires0 to hires6), the Pre-AGI games, AGI, and SCI from SCI0 through SCI3 (for example sci:kq7, sci:lsl7, sci:phantasmagoria2, sci:rama).[^ref-19][^ref-21] It lists Shivers Two as not implemented,[^ref-27] and Mask of Eternity, Quest for Glory V and Gabriel Knight 3 do not appear on its compatibility list.[^ref-19]
 - **DOSBox** — Generic DOS emulation; runs Sierra titles on the original engine binaries. The fallback when ScummVM doesn't have native support.
-- **FreeSCI** — Predecessor to ScummVM's SCI support; ScummVM merged with the FreeSCI project in 2009.[^ref-8]
+- **FreeSCI** — Predecessor to ScummVM's SCI support; FreeSCI's code was merged into ScummVM on February 15, 2009: "FreeSCI code now lives under engines/sci".[^ref-8][^ref-42]
 
 ## See Also
 
@@ -218,9 +218,10 @@ Modern preservation depends on projects re-implementing these engines:
 [^ref-33]: [Wikipedia — Immortal Cities: Children of the Nile](https://en.wikipedia.org/wiki/Immortal_Cities:_Children_of_the_Nile) — developer Tilted Mill Entertainment; publishers Myelin Media (NA), Sega (EU); engine Titan 2.0
 [^ref-34]: [ScummVM source — engines/gob/detection](https://github.com/scummvm/scummvm/tree/master/engines/gob/detection) — detection tables include tables_inca2.h; none for the first Inca
 [^ref-35]: [Wikipedia — The Operative: No One Lives Forever](https://en.wikipedia.org/wiki/The_Operative:_No_One_Lives_Forever) — Lithtech 2.2; publishers Fox Interactive (Windows), MacPlay (Mac), Sierra Entertainment (PlayStation 2)
-[^ref-36]: [Wikipedia — No One Lives Forever 2: A Spy in H.A.R.M.'s Way](https://en.wikipedia.org/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.%27s_Way) — LithTech Jupiter; Windows publisher Vivendi Universal Games; 2002
+[^ref-36]: [Wikipedia — No One Lives Forever 2: A Spy in H.A.R.M.'s Way](https://en.wikipedia.org/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.%27s_Way) — LithTech Jupiter; Windows publishers Vivendi Universal Games ("Released under the Sierra Entertainment brand") and Fox Interactive; 2002
 [^ref-37]: [Wikipedia — F.E.A.R. (video game)](https://en.wikipedia.org/wiki/F.E.A.R._(video_game)) — LithTech Jupiter EX; publisher Vivendi Universal Games, "Released under the Sierra Entertainment brand name"; 2005
 [^ref-38]: [Wikipedia — Half-Life (video game)](https://en.wikipedia.org/wiki/Half-Life_(video_game)) — engine GoldSrc, "a heavily modified version of the Quake engine"; developer Valve, publisher Sierra Studios
 [^ref-39]: [Wikipedia — King's Quest (2015 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)) — engine Unreal Engine 3; developed by The Odd Gentlemen and "published by Activision under the Sierra Entertainment brand name"
 [^ref-40]: [Jane Jensen — GK3 Designer Diaries #4 (June 1998), Gabriel Knight Pages](http://gkpages.altervista.org/Interviews/DesignerDiaries_04.html) — "GK3 needed this new engine… The G-Engine is a fabulous piece of engineering"
 [^ref-41]: [Wikipedia — Homeworld 2](https://en.wikipedia.org/wiki/Homeworld_2) — Lua for levels, AI and a rules engine; remastered versions "both built on the Homeworld 2 engine"
+[^ref-42]: [ScummVM News — FreeSCI SCI engine implementation has been merged in (February 15, 2009)](https://www.scummvm.org/news/20090215/) — posted by sev: "FreeSCI code now lives under engines/sci"
