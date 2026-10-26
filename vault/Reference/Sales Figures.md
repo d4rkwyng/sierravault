@@ -1,14 +1,14 @@
 ---
 title: "Sales Figures"
 type: reference
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 description: "Known commercial sales data for Sierra games, with sources. Indexed by series and by sales tier."
 tags: [reference, sales, commercial, finance]
 ---
 
 # Sales Figures
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -42,19 +42,21 @@ Sierra's Form 10-K for the fiscal year ended March 31, 1996 gives cumulative uni
 
 | Game | Figure | Source / context |
 |------|---------------|------------------|
-| [[1984 - King's Quest - Quest for the Crown\|King's Quest]] series | "over 800,000 copies sold" by late 1988, "the biggest selling graphic adventure series ever" | Sierra Newsletter, Fall/Winter 1988, p.31 (Sierra's own claim)[^ref-kq1-sales] |
+| [[King's Quest Series\|King's Quest]] series | "over 800,000 copies sold" by late 1988, "the biggest selling graphic adventure series ever" | Sierra Newsletter, Winter 1988 (Vol. 1 No. 4), p.31 (Sierra's own claim)[^ref-kq1-sales] |
 | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III]] | SPA Platinum (audited 250,000 units) | Computer Gaming World #103, February 1993, p.154[^ref-cgw103] |
 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]] | Gold (100,000 copies) in its first two weeks | QuestBusters, April 1989[^ref-qb-kq4] |
-| King's Quest IV onward | 300,000–400,000 copies per game in the US | GameSpot, citing PC Data (archived 2005)[^ref-gs-pcdata] |
+| King's Quest IV–VII | 300,000–400,000 copies per game in the US, by about late 2000; [[1998 - King's Quest - Mask of Eternity\|Mask of Eternity]] sold "only a fraction of this number" | GameSpot, citing PC Data (page captured April 2001)[^ref-gs-pcdata] |
 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] | SPA Platinum (audited 250,000 units) | Computer Gaming World #103, February 1993, p.154[^ref-cgw103] |
 | [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle Official Book of Games: Volume 1]] | "more than 250,000 copies worldwide" by Fall 1990 | Sierra News Magazine, Fall 1990, p.12[^ref-hoyle1-sales] |
-| [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I]] (Hero's Quest) | "over 130,000 copies in its first year of release" | Amiga Power #2, June 1991 (review of Quest for Glory II)[^ref-qfg1-sales] |
+| [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I]] (Hero's Quest) | "over 130,000 copies in its first year of release" | Amiga Power #2, June 1991, p.85 (review of Quest for Glory II)[^ref-qfg1-sales] |
 | [[1995 - Phantasmagoria\|Phantasmagoria]] | more than 600,000 copies during fiscal 1996 | Sierra 10-K, 1996[^ref-cuc-acq] |
 | [[1995 - Phantasmagoria\|Phantasmagoria]] | "more than a million copies in less than a year" | Roberta Williams, Adventure Classic Gaming interview, 2006[^ref-phantasm-sales] |
 | [[1998 - Half-Life\|Half-Life]] | 9.3 million retail | Valve figures, December 2008[^ref-hl-sales] |
-| Half-Life: Opposing Force | 1.1 million | Valve figures, December 2008[^ref-hl-sales] |
-| Half-Life: Blue Shift | 800,000 | Valve figures, December 2008[^ref-hl-sales] |
+| [[1999 - Half-Life - Opposing Force\|Half-Life: Opposing Force]] | 1.1 million | Valve figures, December 2008[^ref-hl-sales] |
+| [[2001 - Half-Life - Blue Shift\|Half-Life: Blue Shift]] | 800,000 | Valve figures, December 2008[^ref-hl-sales] |
 | [[1999 - Homeworld\|Homeworld]] | past 250,000 "within a few weeks" of its September 1999 release | Computer and Video Games, "Games That Changed The World" (archived 2007)[^ref-hw-sales] |
+
+The two Phantasmagoria figures conflict: Roberta Williams's 2006 recollection of over a million copies in under a year is not borne out by Sierra's 10-K, filed July 1, 1996, which reported "More than 600,000 copies of this product have been sold."[^ref-cuc-acq]
 
 Not used: a 2002 remark by Westwood's Louis Castle that "The best seller was King's Quest at 750,000" names no specific King's Quest game, so it is not assigned to any title here.[^ref-kq8-sales]
 
@@ -82,7 +84,7 @@ Revenues from Sierra's selected financial data, fiscal years ending March 31 (in
 
 On February 20, 1996, CUC International announced that it would acquire Sierra in a transaction "valued at approximately $1.06 billion", based on CUC's closing share price of $37.50 on February 16, 1996.[^ref-cuc-feb] The merger agreement was dated February 19, 1996, and the merger was completed on July 24, 1996.[^ref-cuc-price]
 
-After the various ownership transitions, individual Sierra-title revenue is not consistently broken out in parent-company filings.
+Per-title Sierra revenue from later parent-company filings is not collected on this page.
 
 ---
 
@@ -90,8 +92,7 @@ After the various ownership transitions, individual Sierra-title revenue is not 
 
 - **Self-reported Sierra figures** — Newsletter and magazine figures were Sierra's own marketing claims. Sierra's 10-K filings, by contrast, were audited, and the fiscal 1996 10-K does give series and title unit counts.[^ref-cuc-acq]
 - **SPA certifications** — The Software Publishers Association's Platinum award meant an independent audit had confirmed 250,000 units sold; CGW wrote in 1993 that "Most excellent titles only sell about 100,000 units and even an above average title may only sell about 50,000 units."[^ref-cgw103]
-- **"500,000 units sold" press claims** were sometimes lifetime worldwide figures and sometimes North American first-year — context matters.
-- **Modern digital re-release sales (GOG, Steam)** are rarely disclosed publicly by Activision Blizzard / Microsoft.
+- **Modern digital re-release sales (GOG, Steam)** — no sourced figures are listed on this page.
 - **Hoyle franchise sales** are particularly opaque. Encore Software took over sales, distribution and marketing of the Hoyle products from December 23, 2004.[^ref-encore]
 
 Sierra's electronic filings on SEC EDGAR run from June 1994 to February 1997; earlier filings, including the 1988 IPO prospectus, are not there.[^ref-sec-sierra]
@@ -108,9 +109,9 @@ Sierra's electronic filings on SEC EDGAR run from June 1994 to February 1997; ea
 
 [^ref-phantasm-sales]: [Adventure Classic Gaming — Roberta Williams interview (first posted July 16, 2006; Wayback)](https://web.archive.org/web/20130310053850/http://www.adventureclassicgaming.com/index.php/site/interviews/198/) — Phantasmagoria "sold more than a million copies in less than a year"
 [^ref-hl-sales]: [Wired — Valve Unveils Half-Life, Counter-Strike Sales Figures (December 2008)](https://www.wired.com/2008/12/valve-unveils-h/) — "Half-Life (1998) -- 9.3 Million Half-Life: Opposing Force (1999) -- 1.1 Million Half-Life: Blue Shift (2001) -- 800,000"
-[^ref-kq8-sales]: [Game Studies — The Player with Many Faces: A Conversation with Louis Castle (2002)](https://www.gamestudies.org/0202/pearce/) — "The best seller was King's Quest at 750,000" (no title named)
+[^ref-kq8-sales]: [Game Studies — The Player with Many Faces: A Conversation with Louis Castle (2002)](https://www.gamestudies.org/0202/pearce/) ([Wayback copy, January 2024](https://web.archive.org/web/20240112205024/https://www.gamestudies.org/0202/pearce/)) — "The best seller was King's Quest at 750,000" (no title named)
 [^ref-hoyle1-sales]: [Sierra News Magazine, Vol. 3 No. 3 (Fall 1990) — Internet Archive](https://archive.org/details/Sierra_Vol_03_03_News_Magazine_1990_Fall/page/n11/) — p.12 (checked against page image): "Hoyle's Book of Games, released by Sierra in 1989, has sold more than 250,000 copies worldwide"
-[^ref-kq1-sales]: [Sierra Newsletter — Fall/Winter 1988](https://www.mocagh.org/sierra/sierranews-winter88.pdf) — p.31 (checked against page image): "With over 800,000 copies sold, King's Quest is the biggest selling graphic adventure series ever!"
+[^ref-kq1-sales]: [Sierra Newsletter — Winter 1988 (Vol. 1 No. 4)](https://www.mocagh.org/sierra/sierranews-winter88.pdf) — p.31 (checked against page image): "With over 800,000 copies sold, King's Quest is the biggest selling graphic adventure series ever!"
 [^ref-hw-sales]: [Computer and Video Games — Games That Changed The World: Homeworld (Wayback, June 2007)](https://web.archive.org/web/20070630222243/http://www.computerandvideogames.com/article.php?id=103091) — "sales were brisk, surpassing the 250,000 mark within a few weeks"
 [^ref-filfre-kq]: [The Digital Antiquarian — The Unmaking and Remaking of Sierra On-Line](https://www.filfre.net/2013/07/the-unmaking-and-remaking-of-sierra-on-line/) — "much of the game's $850,000 development cost had been funded by IBM"
 [^ref-cuc-acq]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — Item 6 revenues FY1992–1996; series unit counts; Phantasmagoria "sold over 600,000 copies worldwide during fiscal 1996"; net sales $156,123,000
@@ -119,7 +120,7 @@ Sierra's electronic filings on SEC EDGAR run from June 1994 to February 1997; ea
 [^ref-cuc-feb]: [SEC EDGAR — CUC International Form 8-K, February 1996 (Wayback copy)](https://web.archive.org/web/20170223223135/https://www.sec.gov/Archives/edgar/data/723612/0000909518-96-000040.txt) — press release of February 20, 1996: Sierra deal "valued at approximately $1.06 billion… based on the $37.50 closing price of CUC Common Stock on February 16, 1996"
 [^ref-cgw103]: [Computer Gaming World #103 (February 1993), "Platinum Plateau" letter — Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_103/page/n153/) — p.154 (checked against page image): Platinum certification "indicates that 250,000 units have been sold. King's Quest III, King's Quest V and Battle Chess were the most recent certifications"
 [^ref-qb-kq4]: [QuestBusters Vol. VI #4 (April 1989)](https://mocagh.org/questbusters/qbustersVI4.pdf) — p.2 (checked against page image): "King's Quest IV went gold (100,000 copies) in the first two weeks"
-[^ref-gs-pcdata]: [GameSpot — 15 Most Influential Games of All Time (Wayback, May 2005)](https://web.archive.org/web/20050525130158/http://gamespot.com/gamespot/features/pc/most_influential/p13.html) — "From the fourth game, the series would go on to sell in the US between 300,000 and 400,000 copies per game… according to PC Data"
-[^ref-qfg1-sales]: [Amiga Power #2 (June 1991), Quest for Glory II review by Stuart Campbell — Amiga Reviews archive](https://www.amigareviews.leveluphost.com/questgl2.htm) — "the prequel to this one sold over 130,000 copies in its first year of release"
+[^ref-gs-pcdata]: [GameSpot — 15 Most Influential Games of All Time (Wayback, April 2001)](https://web.archive.org/web/20010416233929/http://gamespot.com:80/gamespot/features/pc/most_influential/p13.html) — "From the fourth game, the series would go on to sell in the US between 300,000 and 400,000 copies per game… according to PC Data"; Mask of Eternity "sold only a fraction of this number"
+[^ref-qfg1-sales]: [Amiga Power #2 (June 1991), Quest for Glory II review by Stuart Campbell — Internet Archive](https://archive.org/details/amiga-power-pdffromhi-000_202601/AmigaPowerPdffromhi002.pdf/page/n84/) — p.85 (checked against page image): "the prequel to this one sold over 130,000 copies in its first year of release"; transcription at the [Amiga Reviews archive](https://www.amigareviews.leveluphost.com/questgl2.htm)
 [^ref-compute-kq]: [COMPUTE! #57 (February 1985), "Inside King's Quest" — Internet Archive](https://archive.org/details/1985-02-compute-magazine/page/n137/) — p.136 (checked against page image): "Eighteen months later, Williams and a team of six programmers and artists had created King's Quest—at a cost of over $700,000"
 [^ref-encore]: [Worthplaying — Vivendi Passes On 'Hoyle' Brand to Encore (December 21, 2004)](https://www.worthplaying.com/article/2004/12/21/news/21356-vivendi-passes-on-hoyle-brand-to-encore/) — "Effective December 23, 2004, Encore will be responsible for sales, distribution and marketing activities for the Hoyle family of products"
