@@ -10,13 +10,13 @@ series: Leisure Suit Larry
 engine: Unknown (planned 3D)
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-26'
 description: '**Leisure Suit Larry 8: Lust in Space**, also known as **Leisure Suit Larry Explores Uranus**, was Al Lowe''s planned 3D sequel to Love for Sail!, cancelled by Sierra at the end of 1998 during contract negotiations.'
 tags: [adventure, al-lowe, leisure-suit-larry, sierra, cancelled]
 ---
 # Leisure Suit Larry 8: Lust in Space
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -143,7 +143,7 @@ Lowe has written that after cancelling Larry 8, Sierra "produced some games with
 
 In 2013 Lowe returned to the series with *Leisure Suit Larry: Reloaded*, a crowdfunded remake of the first game "released in collaboration with series creator Al Lowe."[^ref-12] That year he said Leisure Suit Larry 8 was "absolutely" still in the works: "Our fans deserve to see how Larry's life plays out!"[^ref-20] No such game has been released.
 
-The series was later revived with a more traditional approach in *Leisure Suit Larry: Wet Dreams Don't Dry* (2018), developed by CrazyBunch and published by Assemble Entertainment.[^ref-5][^ref-9] As of October 2026 it holds a "Very Positive" rating on Steam, with 85% of 1,415 user reviews positive.[^ref-9] A sequel, *Leisure Suit Larry: Wet Dreams Dry Twice*, followed in 2020.[^ref-10]
+The series was later revived with a more traditional approach in *Leisure Suit Larry: Wet Dreams Don't Dry* (2018), developed by CrazyBunch and published by Assemble Entertainment.[^ref-5][^ref-9] Shortly before it was delisted from Steam on October 23, 2026, it held a "Very Positive" rating there, with 85% of 1,414 user reviews positive (as captured on October 9, 2026).[^ref-9] A sequel, *Leisure Suit Larry: Wet Dreams Dry Twice*, followed in 2020.[^ref-10]
 
 ### Historical Context
 
@@ -203,7 +203,7 @@ Fan discussion has sometimes confused *Magna Cum Laude* with "Larry 8". In a 200
 
 [^ref-8]: [Sierra Gamers Forum – Leisure Suit Larry Box Office Bust](https://www.sierragamers.com/forums/topic/leisure-suit-larry-box-office-bust/) – Voice cast information, game announcement
 
-[^ref-9]: [Steam – Leisure Suit Larry: Wet Dreams Don't Dry](https://store.steampowered.com/app/765870/Leisure_Suit_Larry__Wet_Dreams_Dont_Dry/) – User review statistics (85% of 1,415, checked 2026-10-11), CrazyBunch/Assemble credits
+[^ref-9]: [Steam – Leisure Suit Larry: Wet Dreams Don't Dry (Wayback, October 9, 2026)](http://web.archive.org/web/20261009060114/https://store.steampowered.com/app/765870/Leisure_Suit_Larry__Wet_Dreams_Dont_Dry/) – "85% of the 1,414 user reviews for this game are positive" (All Reviews: Very Positive), CrazyBunch/Assemble credits; store page delisted October 23, 2026
 
 [^ref-10]: [Gao Li Reviews – Leisure Suit Larry: Wet Dreams Dry Twice](https://gaolioccasionallyreviews.wordpress.com/2020/10/28/leisure-suit-larry-wet-dreams-dry-twice/) – 2020 sequel; Uranus and UFO-wreckage nods to the cancelled LSL8
 

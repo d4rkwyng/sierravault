@@ -1,11 +1,11 @@
 ---
 title: "Where to Buy & Play"
 type: guide
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Where to Buy & Play Sierra Classics
 
-<small style="color: gray">Last updated: October 16, 2026 (store listings and US prices checked that day)</small>
+<small style="color: gray">Last updated: October 26, 2026 (store listings and US prices checked October 16, 2026; Wet Dreams delisting checked October 26)</small>
 
 Legal ways to acquire Sierra games, from digital storefronts to physical collecting. Availability shifts over time; use this as a starting point. For compatibility help, see the [[Compatibility Guide]].
 
@@ -44,7 +44,7 @@ Activision's Sierra catalog on Steam overlaps heavily with GOG's. One notable di
 - May require community patches for full functionality
 - Check Steam community guides for fixes (widescreen patches, bug fixes)
 
-**Modern titles on Steam:** SpaceVenture, Colossal Cave, Hero-U, Gray Matter, Cognition, Mage's Initiation, Summer Daze: Tilly's Tale, Pharaoh: A New Era (2023 remake by Triskell Interactive), GOBLiiiNS5 and GOBLiiNS6 (Pierre Gilhodes continuations), and other alumni projects.[^ref-11] *Leisure Suit Larry: Wet Dreams Don't Dry* and *Wet Dreams Dry Twice* "will only be available on Steam until October 23" (2026), after which both are removed from the store; both remain on GOG for now.[^ref-14][^ref-15]
+**Modern titles on Steam:** SpaceVenture, Colossal Cave, Hero-U, Gray Matter, Cognition, Mage's Initiation, Summer Daze: Tilly's Tale, Pharaoh: A New Era (2023 remake by Triskell Interactive), GOBLiiiNS5 and GOBLiiNS6 (Pierre Gilhodes continuations), and other alumni projects.[^ref-11] *Leisure Suit Larry: Wet Dreams Don't Dry* and *Wet Dreams Dry Twice* are no longer sold on Steam or GOG: Assemble announced they would be available on Steam only "until October 23" (2026), and both were removed from Steam and GOG that day.[^ref-14][^ref-24][^ref-25][^ref-26]
 
 ### Xbox Game Pass (Retro Classics)
 
@@ -65,8 +65,9 @@ New titles arrive in irregular batches rather than on a fixed monthly schedule.[
 
 **Current platforms:**
 - *Colossal Cave* (Cygnus Entertainment's 3D remake) — PC, Mac, Linux, Steam Deck, PlayStation 5, Nintendo Switch and Meta Quest 2 at launch (January 19, 2023), later SteamVR, Xbox One/Series X|S, PlayStation 4, PlayStation VR2, Pico VR and iOS[^ref-21]
-- *Leisure Suit Larry: Wet Dreams Dry Twice* — also released on iOS and Android[^ref-14]
 - *King's Quest (2015)* — released for Windows, PlayStation 3/4 and Xbox 360/One[^ref-23]; on Steam the base app is free, with further chapters sold as add-on content[^ref-11]
+
+*Leisure Suit Larry: Wet Dreams Dry Twice* was also released on iOS and Android;[^ref-14] Delisted Games marked both mobile versions as already delisted on October 23, 2026.[^ref-24]
 
 **Legacy console editions:** Titles like *Leisure Suit Larry: Magna Cum Laude*, *Box Office Bust*, and the Wii *King's Quest Collection* are out of print. Check backward compatibility before buying used copies.
 
@@ -88,7 +89,7 @@ Sierra big-box games are actively traded on the resale market. For which boxed e
 ## Bundles & Sales
 
 ### GOG and Steam Sales
-GOG and Steam both run seasonal sales that regularly include Sierra titles; discounts vary, so compare against the regular prices above. In October 2026, for example, both stores discounted the Wet Dreams games by 95%.[^ref-15]
+GOG and Steam both run seasonal sales that regularly include Sierra titles; discounts vary, so compare against the regular prices above. In October 2026, for example, both stores discounted the Wet Dreams games by 95% in the weeks before they were delisted.[^ref-15]
 
 ### Humble Bundle
 The last Sierra-specific bundle was **Humble Sierra the 3rd**, which ran May 5–19, 2020 (17 items in three tiers, including the Gabriel Knight games, Phantasmagoria 1–2, Arcanum, the Quest for Glory Collection and the King's Quest and Space Quest Collections).[^ref-22]
@@ -110,7 +111,7 @@ See [[Fan Resources]] for download links and project status.
 
 ## Preservation Tips
 
-1. **Back up installers** — Titles do get delisted: the classic Leisure Suit Larry games left Steam in 2025, and the Wet Dreams games follow in October 2026[^ref-13][^ref-14]
+1. **Back up installers** — Titles do get delisted: the classic Leisure Suit Larry games left Steam in 2025, and the Wet Dreams games followed on October 23, 2026[^ref-13][^ref-14][^ref-24]
 2. **Archive GOG offline installers** — They're DRM-free and yours to keep
 3. **Verify ownership before seeking alternatives** — Community patches and ScummVM require legal game data
 4. **Use recommended wrappers** — DOSBox, ScummVM, dgVoodoo2, and nGlide enhance compatibility
@@ -160,3 +161,6 @@ Some storefront titles are not sold in every country. Check storefront availabil
 [^ref-21]: [Colossal Cave – Official Press Fact Sheet (Wayback, December 2024)](https://web.archive.org/web/20241218130847/https://colossalcave3d.com/press/) – Release dates and platform list
 [^ref-22]: [SteamGifts – Humble Sierra the 3rd Bundle](https://www.steamgifts.com/discussion/yQysW/humble-bundle-humble-sierra-the-3rd-bundle) – "3 Tiers, 17 Items 05 May 2020 - 19 May 2020"; tier contents
 [^ref-23]: [Wikipedia – King's Quest (2015 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)) – Platforms: Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One
+[^ref-24]: [Delisted Games – The last two Leisure Suit Larry games are being delisted on October 23rd](https://delistedgames.com/the-last-two-leisure-suit-larry-games-are-being-delisted-on-october-23rd/) – update of October 23, 2026: "GOG has confirmed that the games will be leaving their storefront today as well at 5pm EST"; Android and iOS links struck through as already delisted
+[^ref-25]: [Time Extension – 'Get Them Now or Never' - Leisure Suit Larry's Last Releases To Be Delisted From Steam And GoG This Month](https://www.timeextension.com/news/2026/10/get-them-now-or-never-leisure-suit-larrys-last-releases-to-be-delisted-from-steam-and-gog-this-month) – Kris Moyse, October 9, 2026; both games "will be delisted later this month from Steam and GoG"
+[^ref-26]: [Steam – Wet Dreams Don't Dry (app 765870)](https://store.steampowered.com/app/765870/) and [Wet Dreams Dry Twice (app 1373430)](https://store.steampowered.com/app/1373430/) – checked October 26, 2026: "no longer available on the Steam store"

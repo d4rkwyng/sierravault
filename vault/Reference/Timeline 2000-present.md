@@ -1,14 +1,14 @@
 ---
 title: "Timeline 2000–present"
 type: reference
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 description: "Post-acquisition Sierra catalog timeline — Vivendi era through Activision Blizzard mothballing, alumni studios continuing the lineage, and Microsoft Gaming acquisition. Year by year through 2026."
 tags: [reference, timeline, post-sierra-history]
 ---
 
 # Timeline 2000–present
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -250,7 +250,7 @@ Three patterns characterize this period:
 [^ref-18]: [MobyGames — Gobliiins 4 (Moby ID 40608; Wayback, January 2024)](http://web.archive.org/web/20240127232039/https://www.mobygames.com/game/40608/gobliiins-4/) — "Released March 11, 2009 on Windows"; developer Société Pollene
 [^ref-19]: [Wikipedia — The Silver Lining (video game)](https://en.wikipedia.org/wiki/The_Silver_Lining_(video_game)) — Activision revoked the Vivendi licence and issued a cease-and-desist; "On June 26, 2010, Activision had changed its mind"
 [^ref-20]: [Wikipedia — Leisure Suit Larry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) — Magna Cum Laude introduced Larry Lovage; Assemble Entertainment released Wet Dreams Don't Dry (2018) and Wet Dreams Dry Twice (2020)
-[^ref-21]: [Steam — Leisure Suit Larry: Wet Dreams Dry Twice](https://store.steampowered.com/app/1373430/) — developer CrazyBunch, publisher Assemble Entertainment, released "Oct 23, 2020"
+[^ref-21]: [Steam — Leisure Suit Larry: Wet Dreams Dry Twice (Wayback, October 9, 2026)](http://web.archive.org/web/20261009060112/https://store.steampowered.com/app/1373430/Leisure_Suit_Larry__Wet_Dreams_Dry_Twice/) — developer CrazyBunch, publisher Assemble Entertainment, released "Oct 23, 2020"; store page delisted October 23, 2026
 [^ref-22]: [Steam — Mage's Initiation: Reign of the Elements](https://store.steampowered.com/app/270610/) — developer and publisher Himalaya Studios; "Jan 30, 2019"
 [^ref-23]: [Steam — TRIBES 3: Rivals](https://store.steampowered.com/app/2687970/) — developer and publisher Prophecy Games; "Mar 12, 2024"
 [^ref-24]: [Wikipedia — Tribes (video game series)](https://en.wikipedia.org/wiki/Tribes_(video_game_series)) — "InstantAction sold the Tribes IP to Hi-Rez Studios in October 2010"; Hi-Rez spun off Prophecy Games by early 2020

@@ -1,14 +1,14 @@
 ---
 title: "GOG and Steam Re-Releases"
 type: technology
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 description: "Where to legally buy Sierra games today — the current GOG.com and Steam catalogues by series, with ScummVM/DOSBox packaging notes."
 tags: [technology, gog, steam, re-releases, preservation, commerce]
 ---
 
 # GOG and Steam Re-Releases
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ GOG has been moving its Sierra packages to ScummVM. The King's Quest 1+2+3 and S
 | King's Quest | [King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) · [King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6) · [King's Quest 7+8](https://www.gog.com/en/game/kings_quest_7_8) | KQ1–8 (the 2015 reboot is not on GOG) |
 | Space Quest | [Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) · [Space Quest 4+5+6](https://www.gog.com/en/game/space_quest_4_5_6) | SQ1–6 |
 | Police Quest | [Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) · [Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) | PQ1–4; SWAT 1 and 2 |
-| Leisure Suit Larry | [Leisure Suit Larry](https://www.gog.com/en/game/leisure_suit_larry) (pack) · [Love for Sail!](https://www.gog.com/en/game/leisure_suit_larry_love_for_sail) · [Magna Cum Laude](https://www.gog.com/en/game/leisure_suit_larry_magna_cum_laude_uncut_and_uncensored) · [Reloaded](https://www.gog.com/en/game/leisure_suit_larry_reloaded) · [Wet Dreams Don't Dry](https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dont_dry) · [Wet Dreams Dry Twice](https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dry_twice) | Classic pack, LSL7 and Magna Cum Laude separately, plus Replay's and Assemble's later games |
+| Leisure Suit Larry | [Leisure Suit Larry](https://www.gog.com/en/game/leisure_suit_larry) (pack) · [Love for Sail!](https://www.gog.com/en/game/leisure_suit_larry_love_for_sail) · [Magna Cum Laude](https://www.gog.com/en/game/leisure_suit_larry_magna_cum_laude_uncut_and_uncensored) · [Reloaded](https://www.gog.com/en/game/leisure_suit_larry_reloaded) · ~~Wet Dreams Don't Dry~~ · ~~Wet Dreams Dry Twice~~ (delisted October 23, 2026; archived store pages: [Don't Dry](http://web.archive.org/web/20260923164442/https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dont_dry), [Dry Twice](http://web.archive.org/web/20261006085747/https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dry_twice))[^ref-45] | Classic pack, LSL7 and Magna Cum Laude separately, plus Replay's later game; Assemble's two Wet Dreams games were sold here until October 23, 2026 |
 | Quest for Glory | [Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) | QFG1–5 |
 | Gabriel Knight | [Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) · [The Beast Within](https://www.gog.com/en/game/gabriel_knight_2_the_beast_within) · [GK3](https://www.gog.com/en/game/gabriel_knight_3_blood_of_the_sacred_blood_of_the_damned) · [20th Anniversary Edition](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers_20th_anniversary_edition) | GK1–3 sold separately, plus the 2014 remake |
 | Laura Bow | [The Colonel's Bequest](https://www.gog.com/en/game/the_colonels_bequest) · [The Dagger of Amon Ra](https://www.gog.com/en/game/the_dagger_of_amon_ra) | Both Laura Bow games, sold separately |
@@ -83,7 +83,7 @@ Steam's Sierra coverage is smaller than GOG's but includes the main classic coll
 ### Later remakes, reboots and successors on Steam
 
 - **[[2015 - King's Quest|King's Quest (2015)]]** — The Odd Gentlemen's episodic reboot; the base game is free, with paid chapters.[^ref-6]
-- **[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Wet Dreams Don't Dry]] / [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|Wet Dreams Dry Twice]]** (Assemble Entertainment) — on sale as of October 16, 2026, but Assemble announced on October 8, 2026 that both "will only be available on Steam until October 23. After that, both games will be removed from the store."[^ref-38]
+- **[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Wet Dreams Don't Dry]] / [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|Wet Dreams Dry Twice]]** (Assemble Entertainment) — no longer sold. Assemble announced on October 8, 2026 that both "will only be available on Steam until October 23. After that, both games will be removed from the store."[^ref-38] Both were removed from Steam and GOG on October 23, 2026; their Steam pages now say they are "no longer available on the Steam store".[^ref-44][^ref-45][^ref-46]
 - **Gabriel Knight: Sins of the Fathers 20th Anniversary Edition** (Phoenix Online Studios and Pinkerton Road, October 15, 2014)[^ref-39]
 - **[[2014 - Quest for Infamy|Quest for Infamy]]** (Infamous Quests)[^ref-26]
 - **[[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]]** (Transolar Games)[^ref-25]
@@ -191,3 +191,6 @@ When adding a GOG or Steam URL to a vault page's References section, follow thes
 [^ref-41]: [Steam — Half-Life](https://store.steampowered.com/app/70/) — Valve
 [^ref-42]: [Steam — Leisure Suit Larry Reloaded](https://store.steampowered.com/app/231910/) — "no longer available on the Steam store"
 [^ref-43]: [GOG.com — Leisure Suit Larry: Reloaded](https://www.gog.com/en/game/leisure_suit_larry_reloaded) — Replay Games, 2013; "From original designer Al Lowe"
+[^ref-44]: [Time Extension – 'Get Them Now or Never' - Leisure Suit Larry's Last Releases To Be Delisted From Steam And GoG This Month](https://www.timeextension.com/news/2026/10/get-them-now-or-never-leisure-suit-larrys-last-releases-to-be-delisted-from-steam-and-gog-this-month) — Kris Moyse, October 9, 2026; both Wet Dreams games "will be delisted later this month from Steam and GoG"
+[^ref-45]: [Delisted Games – The last two Leisure Suit Larry games are being delisted on October 23rd](https://delistedgames.com/the-last-two-leisure-suit-larry-games-are-being-delisted-on-october-23rd/) — update of October 23, 2026: "GOG has confirmed that the games will be leaving their storefront today as well at 5pm EST"
+[^ref-46]: [Steam — Wet Dreams Don't Dry (app 765870)](https://store.steampowered.com/app/765870/) and [Wet Dreams Dry Twice (app 1373430)](https://store.steampowered.com/app/1373430/) — checked October 26, 2026: "no longer available on the Steam store"
