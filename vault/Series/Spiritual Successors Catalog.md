@@ -5,22 +5,22 @@ created_by: "Various Sierra alumni and adventure-game indie developers"
 developer: "Multiple — Pinkerton Road, Guys From Andromeda, Phoenix Online, Infamous Quests, etc."
 first_release: 1993
 last_release: 2023
-total_games: 18
+total_games: 19
 genre: "Adventure (Sierra-tradition)"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 
 # Spiritual Successors Catalog
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-The Spiritual Successors catalog is the vault's umbrella for **18 entries (16 released, 2 unreleased) that aren't Sierra IP but carry Sierra DNA** — original games made by former Sierra designers outside the company's IP, plus indie titles that trade on the Sierra adventure-game design tradition. Recent examples include the Coles' *Hero-U*, which PC Gamer called "a worthy successor to Sierra's Quest for Glory,"[^ref-12] and Ken and Roberta Williams' return with Cygnus Entertainment.[^ref-9]
+The Spiritual Successors catalog is the vault's umbrella for **19 entries (17 released, 2 unreleased) that aren't Sierra IP but carry Sierra DNA** — original games made by former Sierra designers outside the company's IP, plus indie titles that trade on the Sierra adventure-game design tradition. Recent examples include the Coles' *Hero-U*, which PC Gamer called "a worthy successor to Sierra's Quest for Glory,"[^ref-12] and Ken and Roberta Williams' return with Cygnus Entertainment.[^ref-9]
 
 The catalog spans three overlapping production threads:
 
-1. **Alumni studios** — Sierra veterans founding new companies or projects: Pinkerton Road (Jane Jensen + Robert Holmes), Guys From Andromeda (Mark Crowe + Scott Murphy), the Coles' Transolar Games, Pierre Gilhodes's continuation of Gobliiins, Damon Slye's Mad Otter Games, and Ken & Roberta Williams's Cygnus Entertainment.[^ref-3][^ref-5][^ref-6][^ref-10][^ref-1][^ref-9]
+1. **Alumni studios** — Sierra veterans founding new companies or projects: Pinkerton Road (Jane Jensen + [[Robert Holmes]]), Guys From Andromeda (Mark Crowe + Scott Murphy), the Coles' [[Transolar Games]], Pierre Gilhodes's continuation of Gobliiins, Damon Slye's Mad Otter Games, and Ken & Roberta Williams's Cygnus Entertainment.[^ref-3][^ref-5][^ref-6][^ref-10][^ref-1][^ref-9]
 2. **Fan-developer indie studios** — Studios like [[Phoenix Online Studios]] (which began as the fan team behind *The Silver Lining*), [[Infamous Quests]] (ex-Infamous Adventures members making original IPs) and [[Himalaya Studios]] (Al Emmo, Mage's Initiation).[^ref-7][^ref-8][^ref-15]
 3. **Sierra-adjacent indie tributes** — Original games by indie developers working in the Sierra adventure style, such as *Fester Mudd*.[^ref-13]
 
@@ -31,6 +31,7 @@ This catalog complements the Sierra-IP series pages (King's Quest Series, Quest 
 | Year | Title | Studio | Alumni | Notable |
 |------|-------|--------|--------|---------|
 | 1993 | [[1993 - Blue Force\|Blue Force]] | Tsunami Media[^ref-21] | Jim Walls (post-Sierra) | Police Quest creator's Tsunami police adventure |
+| 1995 | [[1995 - Shannara\|Shannara]] | Legend Entertainment[^ref-24] | Corey & Lori Ann Cole (out-of-house designers)[^ref-23] | Original story in Terry Brooks' Shannara world |
 | 2006 | [[2006 - Al Emmo and the Lost Dutchman's Mine\|Al Emmo and the Lost Dutchman's Mine]] | Himalaya Studios | Indie | Sierra-tradition western adventure |
 | 2008 | [[2008 - Ace of Aces\|Ace of Aces]] | Mad Otter Games / InstantAction | Damon Slye (Dynamix co-founder)[^ref-1] | Browser-based WWI dogfighting game, not an adventure[^ref-22] |
 | 2010 | [[2010 - Gray Matter\|Gray Matter]] | Wizarbox / dtp entertainment[^ref-4] | Jane Jensen | Jensen adventure after her Oberon casual games |
@@ -38,7 +39,7 @@ This catalog complements the Sierra-IP series pages (King's Quest Series, Quest 
 | 2013 | [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold]] | Prank Ltd. / Replay Games[^ref-13] | Indie | Wild West adventure |
 | 2014 | [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] | Pinkerton Road / Phoenix Online[^ref-11] | Jane Jensen | Mystery-conspiracy |
 | 2014 | [[2014 - Quest for Infamy\|Quest for Infamy]] | Infamous Quests | Infamous Adventures alumni | Quest for Glory spiritual successor |
-| 2015 | [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger]] | Guys From Andromeda LLC[^ref-17] | Crowe & Murphy's studio | Survival game from the SpaceVenture studio |
+| 2015 | [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger]] | Guys From Andromeda LLC[^ref-17] | Mark Crowe (with GFA co-founder Chris Pope)[^ref-5] | Survival game from the SpaceVenture studio |
 | 2016 | [[2015 - Order of the Thorne - The King's Challenge\|Order of the Thorne: The King's Challenge]] | Infamous Quests[^ref-16] | Infamous Adventures alumni | King's Quest spiritual successor (Kickstarted 2015, released January 26, 2016) |
 | 2018 | [[2018 - Bolt Riley - A Reggae Adventure\|Bolt Riley: A Reggae Adventure]] | Adventure Mob / Corbomite Games[^ref-14] | Co-designed by Corey & Lori Cole[^ref-14] | Music-themed adventure |
 | 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games | Lori & Corey Cole | Quest for Glory spiritual successor[^ref-12] |
@@ -53,9 +54,9 @@ This catalog complements the Sierra-IP series pages (King's Quest Series, Quest 
 
 ### Pinkerton Road (Jane Jensen + Robert Holmes)
 
-[[Jane Jensen]] and her husband, musician and composer Robert Holmes, announced Pinkerton Road on April 5, 2012.[^ref-4][^ref-3] Before that, Jensen co-founded and designed casual games at Oberon Media, which she left in 2011, briefly working at Zynga; her adventure *Gray Matter* had been developed by Wizarbox and published by dtp entertainment in 2010.[^ref-4] Pinkerton Road's main original game is *Moebius: Empire Rising* (2014), funded through its Kickstarter-backed "Community Supported Gaming" program and developed with Phoenix Online Studios.[^ref-11] The Gabriel Knight 20th Anniversary Edition (2014) is a Sierra-IP licensed remake, listed on the Gabriel Knight Series page rather than here.
+[[Jane Jensen]] and her husband, musician and composer Robert Holmes, announced Pinkerton Road on April 5, 2012.[^ref-4][^ref-3] Before that, Jensen co-founded and designed casual games at Oberon Media, which she left in 2011; she then briefly worked at Zynga. Her adventure *Gray Matter* had been developed by Wizarbox and published by dtp entertainment in 2010.[^ref-4] Pinkerton Road's main original game is *Moebius: Empire Rising* (2014), funded through its Kickstarter-backed "Community Supported Gaming" program and developed with Phoenix Online Studios.[^ref-11] The Gabriel Knight 20th Anniversary Edition (2014) is a Sierra-IP licensed remake, listed on the Gabriel Knight Series page rather than here.
 
-Jensen was a story consultant on Phoenix Online's *Cognition*.[^ref-4] In November 2024 she released the first chapter of a new Gabriel Knight short story, "Five Hearts" (prose, not a game), as a download from Robert Holmes' website.[^ref-2][^ref-4]
+Jensen was a story consultant on Phoenix Online's *Cognition*.[^ref-4] In November 2024 she released the first chapter of a new Gabriel Knight short story, "Five Hearts" (prose, not a game), as a download from Robert Holmes' website.[^ref-2][^ref-4] "Five Hearts" is also the working title of a separate Gabriel Knight 4 game pitch Jensen described in December 2025, which remains unmade; see [[TBD - Gabriel Knight 4 - Five Hearts]].[^ref-26]
 
 ### Guys From Andromeda (Mark Crowe + Scott Murphy)
 
@@ -63,15 +64,15 @@ Jensen was a story consultant on Phoenix Online's *Cognition*.[^ref-4] In Novemb
 
 ### Transolar Games / Hero-U (Lori + Corey Cole)
 
-[[Lori Ann Cole]] and [[Corey Cole]] run Transolar Games, Inc.[^ref-6] Their [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] took "six years, two Kickstarter campaigns, and one home equity loan" and was released in 2018 after "a lengthy, somewhat troubled development cycle," per PC Gamer.[^ref-12] The studio followed with [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]], an interactive-fiction game set at Hero University.[^ref-6]
+[[Lori Ann Cole]] and [[Corey Cole]] run [[Transolar Games]], Inc.[^ref-6] Before that, after leaving Sierra, they were the out-of-house designers of Legend Entertainment's [[1995 - Shannara|Shannara]] (1995), an original story set in Terry Brooks' fantasy world.[^ref-23][^ref-24] Their [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] took "six years, two Kickstarter campaigns, and one home equity loan" and was released in 2018 after "a lengthy, somewhat troubled development cycle," per PC Gamer.[^ref-12] The studio followed with [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]], an interactive-fiction game set at Hero University.[^ref-6]
 
-### Phoenix Online Studios (Cesar Bittar et al.)
+### Phoenix Online Studios (César Bittar et al.)
 
 Formed in 2004 as Phoenix Freeware Online to make the fan King's Quest sequel *The Silver Lining* (listed in [[King's Quest Series]] rather than here as a fan-IP project).[^ref-7] Its first commercial game was [[2012 - Cognition - An Erica Reed Thriller|Cognition]], with Jane Jensen as story consultant, and it co-developed *Moebius* with Pinkerton Road.[^ref-7][^ref-4][^ref-11]
 
 ### Infamous Quests
 
-Founded in 2012 by Steven Alexander and Shawn Mills, ex-members of [[Infamous Adventures]] (the group behind the [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III Remake]] and [[2011 - Space Quest II VGA Remake|Space Quest II VGA Remake]]).[^ref-8] Their original games are [[2014 - Quest for Infamy|Quest for Infamy]] (2014) and [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne: The King's Challenge]] (released January 26, 2016).[^ref-8][^ref-16] In an October 2025 Patreon post, Alexander wrote that the studio "couldn't go on as a full-time game development company" after *Order of the Thorne*; the *Quest for Infamy* prequel *Roehm to Ruin* "has been completed for a while, except for some voice acting," while *Fortress of Fire* is "in a real state of limbo."[^ref-19]
+Founded in 2012 by Steven Alexander and Shawn Mills, ex-members of [[Infamous Adventures]] (the group behind the [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III Remake]] and [[2011 - Space Quest II VGA Remake|Space Quest II VGA Remake]]).[^ref-8] Their original games are [[2014 - Quest for Infamy|Quest for Infamy]] (2014) and [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne: The King's Challenge]] (released January 26, 2016).[^ref-8][^ref-16] In an October 15, 2025 Infamous Quests Patreon post, the studio wrote that it "couldn't go on as a full-time game development company" after *Order of the Thorne*; the *Quest for Infamy* prequel *Roehm to Ruin* "has been completed for a while, except for some voice acting," while *Fortress of Fire* is "in a real state of limbo."[^ref-19]
 
 ### Ken & Roberta Williams (Cygnus Entertainment)
 
@@ -83,7 +84,7 @@ Ken and Roberta Williams returned to game development at Cygnus Entertainment, w
 
 ### Damon Slye (Mad Otter Games)
 
-[[Damon Slye]], who founded Dynamix with Jeff Tunnell in 1984, founded Mad Otter Games in 2007; its *Ace of Aces* (2008), a World War I dogfighting game, ran on the InstantAction browser-game network.[^ref-1][^ref-22] It is a flight game rather than an adventure, included here for its Dynamix lineage.
+[[Damon Slye]], who founded Dynamix with Jeff Tunnell in 1984, founded Mad Otter Games in 2007; its *Ace of Aces* (2008), a World War I dogfighting game, ran on the InstantAction browser-game network.[^ref-1][^ref-22] It is a flight game rather than an adventure, included here for its Dynamix lineage. In 2013 Slye tried to raise $250,000 on Kickstarter for a new Red Baron game; the campaign failed and the game was never released — see [[CXL - Red Baron (2013 Remake)|the Cancelled Game Index entry]].[^ref-25]
 
 ### Jim Walls (Precinct — cancelled)
 
@@ -110,13 +111,13 @@ Crowdfunding has been central: *Hero-U* used two Kickstarter campaigns,[^ref-12]
 
 ## See Also
 
-- [[2018 - Hero-U - Rogue to Redemption|Hero-U]] / Transolar Games — Coles studio
+- [[2018 - Hero-U - Rogue to Redemption|Hero-U]] / [[Transolar Games]] — Coles studio
 - [[Phoenix Online Studios]]
 - [[Infamous Quests]]
-- [[Roberta Williams]] / [[Ken Williams]] / [[Jane Jensen]] / [[Lori Ann Cole]] / [[Corey Cole]] / [[Mark Crowe]] / [[Scott Murphy]] / [[Al Lowe]] / [[Pierre Gilhodes]] — designer pages
-- [[Studio Map|Studio Map]] — full studio cross-reference
-- [[Corporate Lineage|Corporate Lineage]] — Sierra IP ownership context
-- [[Timeline 2000-present|Timeline 2000-present]] — chronological context
+- [[Roberta Williams]] / [[Ken Williams]] / [[Jane Jensen]] / [[Lori Ann Cole]] / [[Corey Cole]] / [[Mark Crowe]] / [[Scott Murphy]] / [[Pierre Gilhodes]] — designer pages
+- [[Studio Map]] — full studio cross-reference
+- [[Corporate Lineage]] — Sierra IP ownership context
+- [[Timeline 2000-present]] — chronological context
 
 ## References
 
@@ -138,7 +139,11 @@ Crowdfunding has been central: *Hero-U* used two Kickstarter campaigns,[^ref-12]
 [^ref-16]: [Steam — The Order of the Thorne: The King's Challenge](https://store.steampowered.com/app/425600/) — Infamous Quests; released January 26, 2016
 [^ref-17]: [Steam — Cluck Yegger in Escape From The Planet of The Poultroid](https://store.steampowered.com/app/416800/Cluck_Yegger_in_Escape_From_The_Planet_of_The_Poultroid/) — Guys From Andromeda LLC; released November 9, 2015
 [^ref-18]: [Steam — SpaceVenture](https://store.steampowered.com/app/1374960/SpaceVenture/) — Guys from Andromeda; Early Access April 1, 2025; full release December 23, 2025
-[^ref-19]: [Patreon — Infamous Quests, "Updates on RtR and Fortress of Fire" (October 2025)](https://www.patreon.com/posts/updates-on-rtr-141274312) — Status of Roehm to Ruin and Fortress of Fire
+[^ref-19]: [Patreon — Infamous Quests, "Updates on RtR and Fortress of Fire" (October 15, 2025)](https://www.patreon.com/posts/updates-on-rtr-141274312) — Posted by the Infamous Quests studio account; status of Roehm to Ruin and Fortress of Fire
 [^ref-20]: [Kotaku — 12 Years Late, This Kickstarter-Funded Tribute To A Legendary Adventure Game Series Is A Complete Disaster](https://kotaku.com/spaceventure-space-quest-kickstarter-steam-disaster-1851774747) — John Walker, April 4, 2025
 [^ref-21]: [MobyGames — Blue Force](https://www.mobygames.com/game/1478/blue-force/) — Developed and published by Tsunami Media, Inc. (1993)
 [^ref-22]: [Wikipedia — InstantAction](https://en.wikipedia.org/wiki/InstantAction) — Browser-based game network; Ace of Aces "a World War I dog-fighting game" by Mad Otter Games
+[^ref-23]: [The Digital Antiquarian — Shannara (or, Bookware Mark 2)](https://www.filfre.net/2021/09/shannara-or-bookware-mark-2/) — Jimmy Maher, September 17, 2021: "Corey and Lori Ann Cole, the game's out-of-house design team"; original story between the first and second Shannara books
+[^ref-24]: [Legend Entertainment — Company Information (Wayback, January 1997)](https://web.archive.org/web/19970110031944/http://www.legendent.com/compinfo/compinfo.html) — "In the fall of 1995, Legend published both Shannara… and Mission Critical"; "Shannara (December 1995)"
+[^ref-25]: [Polygon — The Red Baron prepares to fly again](https://www.polygon.com/2015/9/22/9354153/the-red-baron-is-ready-to-fly-again/) — September 22, 2015: "In 2013, Slye attempted to raise $250,000 on Kickstarter to fund a remake… The campaign failed."
+[^ref-26]: [Multiplayer.it — Gabriel Knight 4 è un progetto già avviato dall'autrice Jane Jensen](https://multiplayer.it/notizie/gabriel-knight-4-e-un-progetto-gia-avviato-dallautrice-jane-jensen-che-spera-di-poterlo-concludere.html) — Giorgio Melani, December 7, 2025 (Italian): "Il progetto si chiama Gabriel Knight 4: Five Hearts"
