@@ -10,7 +10,7 @@ series: Babylon 5
 engine: Proprietary (patent-pending inertial flight mode)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-11'
+last_updated: '2026-10-26'
 composer: [Christopher Franke, Victor Crews]
 description: 'Babylon 5: Into the Fire was an ambitious space combat simulator developed
   by Yosemite Entertainment and published by Sierra Entertainment, based on the...'
@@ -18,15 +18,15 @@ tags: [1990s, babylon-5, sierra]
 ---
 # Babylon 5: Into the Fire
 
-<small style="color: gray">Last updated: October 11, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
-Babylon 5: Into the Fire was an ambitious space combat simulator developed by Yosemite Entertainment and published by Sierra Entertainment, based on the critically acclaimed science fiction television series that won two Emmy Awards and two Hugo Awards[^ref-1]. The partnership between Sierra and Warner Bros. was announced on October 27, 1997, setting in motion what would become one of the most mourned cancelled games of the late 1990s[^ref-1]. The game promised to deliver an unprecedented combination of authentic Babylon 5 universe combat, innovative flight mechanics, and involvement from the television series' original cast and crew[^ref-2].
+Babylon 5: Into the Fire was an ambitious space combat simulator developed by Yosemite Entertainment and published by Sierra Entertainment, based on the critically acclaimed science fiction television series that won two Emmy Awards and two Hugo Awards[^ref-1]. The partnership between Sierra and Warner Bros. was announced on October 27, 1997, setting in motion the game's development[^ref-1]. The game promised to deliver an unprecedented combination of authentic Babylon 5 universe combat, innovative flight mechanics, and involvement from the television series' original cast and crew[^ref-2].
 
 Development began in 1998 with the goal of creating what Sierra described as a "self-evolving universe" that would allow players to experience the major conflicts of the Babylon 5 timeline[^ref-3]. The game utilized ships based on the television show's original digital models, created in Lightwave 3D but optimized with lower polygon counts for real-time gameplay[^ref-1]. Sierra cited figures of up to 1,000 simultaneous ships in some battles[^ref-1], with over 60 unique ship models from Earth Alliance and alien factions[^ref-3][^ref-5].
 
-Tragically, despite being approximately 65% complete with all live-action sequences filmed[^ref-1][^ref-16], the game was cancelled on September 21, 1999[^ref-2][^ref-18], as part of Sierra's corporate reorganization—one of four titles IGN reported Sierra dropping as it laid off more than 100 people (Wired put the figure at 105)[^ref-16][^ref-17]. The development team was laid off, and the project was shelved just months before its intended late spring 2000 release[^ref-2]. A playable alpha version eventually surfaced in autumn 2014, fifteen years after the cancellation, allowing fans a tantalizing glimpse of what might have been[^ref-5].
+Tragically, despite being approximately 65% complete with all live-action sequences filmed[^ref-1][^ref-16], the game was cancelled on September 21, 1999[^ref-2][^ref-18], as part of Sierra's corporate reorganization—one of four titles IGN reported Sierra dropping as it laid off more than 100 people (Wired put the figure at 105)[^ref-16][^ref-17]. The development team was laid off, and the project was shelved just months before its intended late spring 2000 release[^ref-2]. A beta build dated September 1999 surfaced online in 2014, fifteen years after the cancellation[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** Yosemite Entertainment[^ref-1]

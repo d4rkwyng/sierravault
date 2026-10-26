@@ -1,7 +1,7 @@
 ---
 title: "Cancelled Games"
 type: guide
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 ---
 # Sierra's Cancelled Games: The Ones That Got Away
 
@@ -88,7 +88,7 @@ One of the most heartbreaking cancellations in Sierra's history—a game that wa
 
 **What's Lost Forever:** The filmed sequences were shot over a week on the standing Babylon 5 sets, plus a three-day blue-screen shoot.[^ref-33] A 2014 fan forum post, relaying a second-hand account attributed to series creator J. Michael Straczynski, claims further cast recordings were made; that claim is unverified.[^ref-13]
 
-**What Survives:** A playable alpha surfaced in autumn 2014, fifteen years after cancellation. The incomplete build is notoriously difficult to run on modern systems.[^ref-11]
+**What Survives:** A beta build dated September 1999 surfaced in 2014, fifteen years after cancellation. The incomplete build is notoriously difficult to run on modern systems.[^ref-11]
 
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Cancelled Game Index"
 type: reference
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 description: "Every game in the SierraVault Cancelled folder, with what the sources say about when and why it ended, who led it (where known), and what is known to survive."
 tags: [reference, cancelled, never-released]
 ---
 
 # Cancelled Game Index
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ The vault uses the `CXL -` filename prefix for cancelled games and a lower citat
 
 - **Type:** Cancelled franchise sequel
 - **Lead designers:** [[Scott Murphy]] and [[Leslie Balfour]][^ref-2][^ref-11]
-- **Cancellation:** Started in early 1997;[^ref-2] put "on hold indefinitely" in December 1997, briefly restarted in 1999 and abandoned when Sierra closed its Oakhurst studio that year.[^ref-11] A separate Space Quest reboot contracted to Escape Factory was cancelled on December 19, 2002.[^ref-11]
+- **Cancellation:** Started in early 1997;[^ref-2] put "on hold indefinitely" in December 1997;[^ref-11] a proposed restart in early 1999 quickly stalled, and the project died when Sierra closed its Oakhurst studio on February 22, 1999.[^ref-11][^ref-29] A separate Space Quest reboot contracted to Escape Factory was cancelled on December 19, 2002.[^ref-11]
 - **Status today:** A short video teaser shipped on the August 1997 *Space Quest Collection*, and Rich Powell's concept art survives; documented at [SpaceQuest.net/sq7](https://spacequest.net/sq7/).[^ref-2][^ref-11]
 - **Significance:** The Space Quest creators' later game, [[2022 - SpaceVenture|SpaceVenture]] (Guys from Andromeda, "Created by the minds behind the beloved Space Quest series"), entered Steam Early Access on April 1, 2025 and was fully released on December 23, 2025.[^ref-12]
 
@@ -58,6 +58,7 @@ The vault uses the `CXL -` filename prefix for cancelled games and a lower citat
 ### [[CXL - Middle-earth Online]]
 
 - **Type:** Cancelled MMO
+- **Senior designer:** Janus Anderson[^ref-20]
 - **Cancellation:** 1998–2001. Sierra began the game in 1998 for a planned 2000 release; it suffered layoffs and a move from California to Washington in 1999.[^ref-20] During Sierra's September 1999 reorganization a spokesperson said Sierra was "halting production on it now" to retool and restaff.[^ref-18] Vivendi Universal took over the license in 2001, and it passed to Turbine, "which took the IP and did its own thing".[^ref-20]
 
 ### [[CXL - SWAT - Urban Justice]]
@@ -121,7 +122,7 @@ Read together, the Cancelled folder shows three recurring patterns:
 
 1. **Ownership-change cancellations (1997–1999).** Space Quest VII was shelved in December 1997 and abandoned in 1999;[^ref-11] Leisure Suit Larry 8 died in contract talks at the end of 1998;[^ref-13] Babylon 5 and Middle-earth Online were hit by Sierra's September 1999 reorganization,[^ref-18] which followed the February 22, 1999 layoffs at Oakhurst.[^ref-29]
 2. **Vivendi-era restarts that never shipped (1999–2004).** King's Quest: Twins of Change,[^ref-28] the Escape Factory Space Quest[^ref-11] and SWAT: Urban Justice[^ref-21] were all begun and then dropped while Sierra was owned by Vivendi.
-3. **Alumni crowdfunding attempts (2013).** Damon Slye's Red Baron and Jim Walls's Precinct both failed on Kickstarter.[^ref-26][^ref-10]
+3. **Alumni crowdfunding attempts (2013).** Damon Slye's Red Baron failed on Kickstarter[^ref-26] and Jim Walls's Precinct was cancelled by its creators.[^ref-10]
 
 Manhunter 3 fits none of these: no deal to make it was ever struck.[^ref-17]
 
