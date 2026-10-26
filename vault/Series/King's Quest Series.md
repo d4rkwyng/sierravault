@@ -4,15 +4,15 @@ type: series_overview
 created_by: "Roberta Williams"
 developer: "Sierra On-Line (KQ1–KQ7); Sierra Studios (Mask of Eternity); The Odd Gentlemen (2015)"
 first_release: 1984
-last_release: 2015
+last_release: 2016
 total_games: 10
 genre: "Adventure"
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 ---
 
 # King's Quest Series
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -33,9 +33,13 @@ The original King's Quest was commissioned by IBM as a showcase adventure for it
 | 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | SCI1.1 | Prince Alexander |
 | 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | SCI2.1 (SCI32) | Rosella & Valanice |
 | 1998 | [[1998 - King's Quest - Mask of Eternity\|King's Quest: Mask of Eternity]] | 3Space (modified)[^ref-14] | Connor |
-| 2015 | [[2015 - King's Quest\|King's Quest (Reboot)]] | Unreal Engine 3[^ref-13] | King Graham |
+| 2015–2016 | [[2015 - King's Quest\|King's Quest (Reboot)]] | Unreal Engine 3[^ref-13] | King Graham |
 
 A ninth game was planned and cancelled; see [[CXL - King's Quest IX]].
+
+### Spin-offs
+
+- **1992** — [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's Software Picks: King Graham's Board Game Challenge]] — checkers and backgammon against King Graham; MobyGames includes it in the King's Quest series group[^ref-21]
 
 ## Themes and Setting
 
@@ -51,7 +55,7 @@ Key locations across the series include:
 - **Serenia** - Desert and forest realms in KQ5
 - **The Land of the Green Isles** - An archipelago in KQ6
 - **Eldritch** - A troll-infested realm in KQ7
-- **The Realm of the Sun** - Connor's quest in KQ8
+- **Daventry to the Realm of the Sun** - Connor's quest across seven worlds in KQ8[^ref-22]
 
 ### The Royal Family
 
@@ -81,7 +85,7 @@ The Sierra Creative Interpreter debuted in 1988 with King's Quest IV, which ship
 - **SCI1.1 / SCI32** - KQ6, then KQ7's high-resolution SVGA graphics[^ref-16]
 - KQ4 was among the earliest PC games to support sound cards[^ref-2]
 
-### 3D Era (1998-2015)
+### 3D Era (1998-2016)
 - KQ8 introduced real-time 3D graphics and action elements; its engine was built from an earlier version of Dynamix's 3Space[^ref-14]
 - The 2015 re-imagining by The Odd Gentlemen was built on Unreal Engine 3 and released in five chapters plus an epilogue[^ref-13]
 
@@ -91,7 +95,7 @@ The Sierra Creative Interpreter debuted in 1988 with King's Quest IV, which ship
 |------|-------------------|
 | KQ1 | Defined the graphic adventure genre; World Video Game Hall of Fame, 2020[^ref-7][^ref-10] |
 | KQ4 | First in the series, and among the first games, to feature a female protagonist[^ref-4][^ref-2] |
-| KQ5 | Sold 250,000 copies by February 1993 and ultimately more than 500,000[^ref-5] |
+| KQ5 | Certified Platinum by the SPA (250,000 audited units) by February 1993; 300,000–400,000 US sales by November 2000[^ref-20][^ref-5] |
 | KQ6 | "Generally considered the best title in the series"; about 400,000 copies in its first week[^ref-6] |
 | KQ7 | High-resolution art "reminiscent of Disney and Don Bluth animated films"[^ref-16] |
 | KQ8 | Action-oriented departure that "underperformed commercially and critically"[^ref-2] |
@@ -102,7 +106,7 @@ The Sierra Creative Interpreter debuted in 1988 with King's Quest IV, which ship
 ### Industry Impact
 - Ars Technica calls the first game "the game that defined the genre"[^ref-7]
 - Let players move an animated character behind and in front of objects in a third-person view[^ref-2][^ref-3]
-- KQ4's Rosella was among the first female protagonists in computer games; a Strong Museum blog post calls KQ4 "the first computer adventure game to feature a female protagonist"[^ref-12][^ref-2]
+- KQ4's Rosella was among the first female protagonists in computer games[^ref-2][^ref-4]
 - The Strong cites the series as setting "the standard for the graphical adventure game genre"[^ref-10]
 
 ### Fan Community
@@ -145,7 +149,7 @@ The series maintains an active fan community decades after the original games:
 - **2006** — [[2006 - King's Quest III Remake (Infamous Adventures)|KQ3 Remake (IA)]] — Developer: Infamous Adventures, Download: [IA](https://infamousadventures.itch.io/kings-quest-iii-vga-remake)
 - **2011** — [[2011 - King's Quest III Redux - To Heir is Human|KQ3 Redux]] — Developer: AGD Interactive, Download: [AGDI](https://www.agdinteractive.com/games/kq3/)
 - **2021** — [[2021 - King's Quest IV Retold|KQ4 Retold]] — Developer: DrSlash,[^ref-18] Download: [AGS](https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/)
-- **TBD** — [[TBD - King's Quest IV Remake (Infamous Adventures)|KQ4 Remake (IA)]] — Developer: Infamous Adventures, Download: In development
+- **TBD** — [[TBD - King's Quest IV Remake (Infamous Adventures)|KQ4 Remake (IA)]] — Developer: Infamous Adventures — Unreleased; status unconfirmed
 
 ### Fan Sequels
 
@@ -175,6 +179,7 @@ The series maintains an active fan community decades after the original games:
 - [[2021 - King's Quest IV Retold]]
 - [[TBD - King's Quest IV Remake (Infamous Adventures)]]
 - [[2010 - The Silver Lining]]
+- [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
 
 ## References
 
@@ -182,14 +187,13 @@ The series maintains an active fan community decades after the original games:
 [^ref-2]: [Wikipedia - King's Quest](https://en.wikipedia.org/wiki/King%27s_Quest) – Series overview; "primarily responsible for building the reputation of Sierra"; 2.5M (1994), 3.8M (1996), 7M (1997) sales; KQ4 firsts; Mask of Eternity reception; Companion and novels
 [^ref-3]: [The Digital Antiquarian - The Unmaking and Remaking of Sierra On-Line](https://www.filfre.net/2013/07/the-unmaking-and-remaking-of-sierra-on-line/) – Jimmy Maher: IBM PCjr commission, AGI, Graham walking behind and in front of scenery
 [^ref-4]: [MobyGames - King's Quest IV](https://www.mobygames.com/game/129/kings-quest-iv-the-perils-of-rosella/) – "the first game in the series to have a female protagonist" (ID 129 verified via API)
-[^ref-5]: [Wikipedia - King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) – 250,000 copies by February 1993; sales "ultimately surpassed 500,000 copies"
+[^ref-5]: [Wikipedia - King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) – SPA-certified as selling more than 250,000 copies (CGW, February 1993); PC Data: 300,000–400,000 US units by November 2000
 [^ref-6]: [Wikipedia - King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) – "generally considered the best title in the series"; about 400,000 copies in the first week (Ken Williams); CGW: "Sierra's finest adventure to date"
 [^ref-7]: [Ars Technica - History of Graphic Adventures](https://arstechnica.com/gaming/2011/01/history-of-graphic-adventures/) – IBM's $700,000 offer; "the game that defined the genre"; AGI superseded in 1988
 [^ref-8]: [AGD Interactive](https://www.agdinteractive.com/) – AGDI's King's Quest remakes, including King's Quest III Redux (2011)
 [^ref-9]: [Phoenix Online Studios - The Silver Lining](https://www.postudios.com/company/games/thesilverlining/) – "their King's Quest fangame"; first four episodes free
 [^ref-10]: [The Strong National Museum of Play - King's Quest (World Video Game Hall of Fame)](https://www.museumofplay.org/games/kings-quest/) – Inducted 2020; "set the standard for the graphical adventure game genre"
 [^ref-11]: [IEEE Spectrum - Meet Roberta Williams, The Queen of Graphic Adventure Video Games](https://spectrum.ieee.org/meet-roberta-williams-the-queen-of-graphic-adventure-video-games) – Joanna Goodrich, 28 Sep 2020: King's Quest, "the first animated 3D adventure game"
-[^ref-12]: [The Strong - The Perils of Rosella and the Genius of Roberta](https://www.museumofplay.org/blog/the-perils-of-rosella-and-the-genius-of-roberta/) – Museum blog: KQ4 "the first computer adventure game to feature a female protagonist"
 [^ref-13]: [Wikipedia - King's Quest (2015 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)) – Developer The Odd Gentlemen; engine Unreal Engine 3; per-chapter Metacritic scores
 [^ref-14]: [Wikipedia - King's Quest: Mask of Eternity](https://en.wikipedia.org/wiki/King%27s_Quest:_Mask_of_Eternity) – Windows-only; engine built "from an earlier version of 3Space"
 [^ref-15]: [Wikipedia - Sierra Creative Interpreter](https://en.wikipedia.org/wiki/Sierra_Creative_Interpreter) – SCI introduced 1988 with KQ4; SCI0 320×200 16-colour EGA; SCI1 (KQ5, 1990) 256-colour VGA and icon interface
@@ -197,3 +201,6 @@ The series maintains an active fan community decades after the original games:
 [^ref-17]: [ScummVM - Compatibility](https://www.scummvm.org/compatibility/) – Lists agi:kq1–kq4, sci:kq4sci, sci:kq1sci, sci:kq5, sci:kq6, sci:kq7
 [^ref-18]: [Adventure Game Studio - King's Quest IV: The Perils of Rosella Retold](https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/) – "Retold by DrSlash"
 [^ref-19]: [Giant Bomb - The Silver Lining (archived May 17, 2025)](https://web.archive.org/web/20250517230147/https://www.giantbomb.com/the-silver-lining/3030-22124/) – Activision non-commercial licence; must make clear "it's not an official sequel"; Episodes 1-4 released 2010-2011
+[^ref-20]: [Computer Gaming World #103 (February 1993), p. 154, "Letters from Paradise: Platinum Plateau"](https://archive.org/details/Computer_Gaming_World_Issue_103/page/n153/mode/1up) – SPA Platinum = audited 250,000 units; "King's Quest III, King's Quest V and Battle Chess were the most recent certifications" (checked against page scan)
+[^ref-21]: [MobyGames - Crazy Nick's Software Picks: King Graham's Board Game Challenge](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/) – 1992; Checkers and Backgammon played against King Graham; game 20400 listed in King's Quest series group 3 (read via the MobyGames API)
+[^ref-22]: [UHS - King's Quest: Mask of Eternity hints](https://www.uhs-hints.com/uhsweb/kq8.php) – Seven areas: Kingdom of Daventry, Dimension of Death, Swamp, Underground Realm of the Gnomes, Barren Region, Frozen Reaches, Realm of the Sun
