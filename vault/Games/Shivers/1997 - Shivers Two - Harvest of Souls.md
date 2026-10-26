@@ -7,17 +7,17 @@ publisher: Sierra On-Line
 genre: Adventure
 platforms: [Windows]
 series: Shivers
-engine: SCI
+engine: SCI resources / native DLL logic
 protagonist: Unnamed friend of the band Trip Cyclone
 sierra_lineage: Core Sierra
-last_updated: '2026-10-16'
+last_updated: '2026-10-26'
 description: 'Shivers Two: Harvest of Souls is a horror adventure game developed and
   published by Sierra On-Line in 1997. Set in the mysterious desert town of Cyclone,...'
 tags: [1990s, adventure, shivers, sierra]
 ---
 # Shivers Two: Harvest of Souls
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -48,7 +48,7 @@ The game's plot weaves together rock music culture with Native American spiritua
 
 ### Interface and Controls
 
-Shivers Two utilizes an enhanced first-person slideshow interface with 360-degree rotation capability, allowing players to look around environments completely[^ref-12]. The game introduces "Vision 360" panoramic views and "Dynamic Sounds" surround-sound simulation, which Adventure Classic Gaming describes as two new engines; the underlying game engine is Sierra's SCI[^ref-5][^ref-17]. Players can pan the environment 360 degrees horizontally with up/down movement of 30 degrees, providing more immersive exploration than typical static adventure games[^ref-3].
+Shivers Two utilizes an enhanced first-person slideshow interface with 360-degree rotation capability, allowing players to look around environments completely[^ref-12]. The game introduces "Vision 360" panoramic views and "Dynamic Sounds" surround-sound simulation, which Adventure Classic Gaming describes as two new engines[^ref-5]; underneath, the game uses SCI resource files but keeps its game logic in native DLLs rather than SCI scripts[^ref-17][^ref-71]. Players can pan the environment 360 degrees horizontally with up/down movement of 30 degrees, providing more immersive exploration than typical static adventure games[^ref-3].
 
 The interface includes a full inventory system, representing a significant improvement over the original Shivers which only allowed holding one item at a time[^ref-12][^ref-17]. Players use mouse and keyboard controls to navigate the environment, examine objects, and solve puzzles[^ref-13]. The game features SVGA 640x480 resolution with 256 colors, standard for mid-1990s adventure games[^ref-5].
 

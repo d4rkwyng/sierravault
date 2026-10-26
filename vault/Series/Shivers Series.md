@@ -6,13 +6,13 @@ developer: "Sierra On-Line"
 first_release: 1995
 last_release: 1997
 total_games: 2
-genre: "Puzzle, Horror"
-last_updated: "2026-10-16"
+genre: "Horror adventure"
+last_updated: "2026-10-26"
 ---
 
 # Shivers Series
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ MobyGames compares the first game to *Myst*,[^ref-3] and Adventure Gamers called
 | Year | Title | Designer | Engine | Setting |
 |------|-------|----------|--------|---------|
 | 1995 | [[1995 - Shivers\|Shivers]] | Marcia Bales, Willie Eide[^ref-1] | SCI2.1 (SCI32)[^ref-15] | Professor Windlenot's Museum of the Strange and Unusual[^ref-4] |
-| 1997 | [[1997 - Shivers Two - Harvest of Souls\|Shivers Two: Harvest of Souls]] | Marcia Bales, Willie Eide[^ref-2] | SCI | Cyclone, Arizona (fictional town)[^ref-2] |
+| 1997 | [[1997 - Shivers Two - Harvest of Souls\|Shivers Two: Harvest of Souls]] | Marcia Bales, Willie Eide[^ref-2] | SCI resources; game logic in native DLLs[^ref-22] | Cyclone, Arizona (fictional town)[^ref-2] |
 
 ## Shivers (1995)
 
@@ -70,7 +70,7 @@ Both games are sold separately on GOG.com.[^ref-5][^ref-16] ScummVM supports the
 - [[Sierra On-Line]] — Publisher / developer
 - [[Phantasmagoria Series]] — Contemporary Sierra horror series
 - [[Roberta Williams]] — Original *Shivers* creative consultant and co-writer
-- [[Engine History|Engine History]] — SCI2.1/SCI32 era
+- [[Engine History]] — SCI2.1/SCI32 era
 
 ## References
 
@@ -81,7 +81,7 @@ Both games are sold separately on GOG.com.[^ref-5][^ref-16] ScummVM supports the
 [^ref-5]: [GOG.com — Shivers](https://www.gog.com/en/game/shivers) — Current store page
 [^ref-6]: [MobyGames — Shivers Two](https://www.mobygames.com/game/665/shivers-two-harvest-of-souls/) — Cyclone, Trip Cyclone, music-video clues, 360-degree rotation, full inventory
 [^ref-7]: [GameSpot — Shivers II: Harvest of Souls Review (Kevin Hunsanger, May 1, 2000)](https://www.gamespot.com/reviews/shivers-ii-harvest-of-souls-review/1900-2532986/) — 8.7, "hauntingly intelligent"
-[^ref-8]: [ScummVM Wiki — Shivers](https://wiki.scummvm.org/index.php?title=Shivers) — ScummVM support for Shivers
+[^ref-8]: [ScummVM Wiki — Shivers (Wayback, 2025-12-09)](http://web.archive.org/web/20251209010914/https://wiki.scummvm.org/index.php/Shivers) — ScummVM support for Shivers ("Engine SCI", "Support Since ScummVM 2.0.0")
 [^ref-15]: [PCGamingWiki — Shivers](https://www.pcgamingwiki.com/wiki/Shivers) — Engine SCI2.1; digital publisher Activision
 [^ref-16]: [GOG.com — Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls) — Current store page
 [^ref-17]: [GOG Database — Shivers](https://www.gogdb.org/product/2007520286) — GOG release date 2018-06-21
@@ -89,3 +89,4 @@ Both games are sold separately on GOG.com.[^ref-5][^ref-16] ScummVM supports the
 [^ref-19]: [ScummVM — Compatibility](https://www.scummvm.org/compatibility/) — sci:shivers "Excellent"; no Shivers Two entry
 [^ref-20]: [Adventure Gamers — Shivers 2: Harvest of Souls review (Wayback 2023-04-18)](https://web.archive.org/web/20230418085354/https://adventuregamers.com/articles/view/17524) — "Decent 3.0 stars"
 [^ref-21]: [MobyGames — Shivers series (Wayback, 2025-04-03)](https://web.archive.org/web/20250403001529/https://www.mobygames.com/group/97/shivers-series/) — Series group: Shivers (1995), Shivers Two (1997), plus compilations
+[^ref-22]: [ScummVM source — engines/sci/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) — "Shivers 2 doesn't contain SCI scripts. The whole game logic has been reimplemented from SCI in native code placed in DLL files."
