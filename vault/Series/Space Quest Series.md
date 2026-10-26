@@ -7,12 +7,12 @@ first_release: 1986
 last_release: 1995
 total_games: 7  # six games (1986-1995) plus the 1991 VGA remake of Space Quest I
 genre: "Adventure, Comedy"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 
 # Space Quest Series
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -25,25 +25,25 @@ The games parody science fiction properties such as *Star Wars* and *Star Trek*,
 | Year | Title | Engine | Notes |
 |------|-------|--------|-------|
 | 1986 | [[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]] | AGI | Series debut[^ref-18] |
-| 1987 | [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II: Vohaul's Revenge]] | AGI | Roger faces Sludge Vohaul again[^ref-3] |
+| 1987 | [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II: Vohaul's Revenge]] | AGI | Roger faces Sludge Vohaul, revealed as the villain behind the Sarien attack[^ref-26] |
 | 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | SCI0 | First SCI entry; rescues the Two Guys[^ref-2][^ref-4] |
-| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] | SCI1 | 256-colour VGA remake of the original[^ref-17] |
 | 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | SCI1 | Time travel through the series' eras[^ref-14] |
+| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] | SCI1 | 256-colour VGA remake of the original[^ref-17] |
 | 1993 | [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] | SCI1.1 | Developed at Dynamix; *Star Trek* parody[^ref-2][^ref-15] |
 | 1995 | [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6: Roger Wilco in the Spinal Frontier]] | SCI32 | Final official entry[^ref-2] |
 
 ## The Two Guys from Andromeda
 
-[[Mark Crowe]] and [[Scott Murphy]] met at Sierra, where Crowe worked in marketing and Murphy joined as a programmer; both wanted a science fiction comedy to set Sierra apart from its fantasy titles.[^ref-2] The "Two Guys from Andromeda" name comes from their self-designation in *Space Quest III*,[^ref-1] in which Roger rescues a pair of alien programmers standing in for the two from imprisonment at the software company Scummsoft.[^ref-4][^ref-5]
+[[Mark Crowe]] and [[Scott Murphy]] met at Sierra, where Crowe worked in marketing and Murphy joined as a programmer; both wanted a science fiction comedy to set Sierra apart from its fantasy titles.[^ref-2] They called themselves the "Two Guys from Andromeda," and appear under that name in *Space Quest III*,[^ref-1] in which Roger rescues a pair of alien programmers standing in for the two from imprisonment at the software company Scummsoft.[^ref-4][^ref-5]
 
 - **Space Quest I–IV** - Made together; "1991's Space Quest IV was the last game the Two Guys would make together."[^ref-4]
 - **Space Quest V** - Crowe left after *Space Quest IV* to join Dynamix, another company within the Sierra organization, and developed *Space Quest V* there; it was the first entry made outside Sierra and without Murphy.[^ref-4][^ref-2]
-- **Space Quest 6** - Murphy stayed at Sierra and made it with Josh Mandel.[^ref-4] Wikipedia describes Mandel as leading development, with Murphy serving as a consultant.[^ref-2]
+- **Space Quest 6** - Murphy stayed at Sierra and made it with Josh Mandel.[^ref-4] Wikipedia describes Mandel as leading development, with Murphy serving as a consultant.[^ref-2] Mandel left Sierra while the game was still in production, and Murphy finished it.[^ref-27][^ref-28]
 
 ## Themes and Humor
 
 ### Parody and Satire
-- **Star Wars and Star Trek** - The two properties Wikipedia names as the series' main targets.[^ref-2]
+- **Star Wars and Star Trek** - Wikipedia names both among the science fiction properties the series parodies.[^ref-2]
 - **Star Trek** - In *Space Quest V*, Roger cheats his way through the Starfleet Aptitude Test to captain a garbage scow, and meets a stand-in for Captain Kirk.[^ref-15][^ref-4]
 - **Sci-fi films** - *Space Quest 6* is "especially inclined towards parody of popular sci-fi movies."[^ref-16]
 
@@ -52,16 +52,16 @@ The games parody science fiction properties such as *Star Wars* and *Star Trek*,
 - *Space Quest IV* sends Roger to the dark future of "Space Quest XII" and across different eras of the series[^ref-14]
 
 ### Death as Comedy
-The games give Roger many ways to die. In *Space Quest II*, "there are many ways for the player character to die," and much of the play is spent avoiding traps and hazards.[^ref-3] *Space Quest V* offers "plenty of opportunities for the hero to die horribly."[^ref-15] *Space Quest 6* was the first in the series to let the player retry immediately after a death without restoring a saved game.[^ref-16]
+The games give Roger many ways to die. In *Space Quest II*, "there are many ways for the player character to die," and much of the play is spent avoiding traps and hazards.[^ref-3] *Space Quest V* offers "plenty of opportunities for the hero to die horribly."[^ref-15] *Computer Gaming World* ranked *Space Quest III* second among "The Best Ways To Die in A PC Game" in 1996: "After your death, you see your various body parts moving down a conveyor belt to be sold at the local butcher shop."[^ref-25] *Space Quest 6* was the first in the series to let the player retry immediately after a death without restoring a saved game.[^ref-16]
 
 ## Roger Wilco
 
 - **Profession**: Janitor, first seen dozing in a closet aboard the starship *Arcada*[^ref-18]
 - **Motto**: "for truth, justice, and really clean floors"[^ref-1]
 - **Character**: An underdog who saves the universe, often by accident, only to be ignored or punished for violating minor regulations[^ref-2]
-- **Nemesis**: Sludge Vohaul, an evil scientist who returns in *Space Quest II*[^ref-3]
+- **Nemesis**: Sludge Vohaul, an exiled scientist revealed in *Space Quest II* as the villain who sent the Sariens to steal the Star Generator[^ref-26]
 
-*Computer Gaming World* ranked Roger fifth among its "Most Memorable Game Heroes" in its November 1996 15th-anniversary issue.[^ref-1]
+*Computer Gaming World* ranked Roger fifth among "The Greatest Heroes Of All Time" in its November 1996 15th-anniversary issue: "Roger was unique as a hero because he was a schlemiel who accidentally accomplished heroic ends."[^ref-1][^ref-25]
 
 ## Technical Evolution
 
@@ -70,18 +70,18 @@ The games give Roger many ways to die. In *Space Quest II*, "there are many ways
 
 ### SCI Era (1989-1995)
 - *Space Quest III* (1989) was the first in the series on SCI and the first with sound-card support, though it still relied mainly on a text parser.[^ref-2][^ref-5]
-- The 1991 *Space Quest I* remake moved the first game to 256-colour VGA and an icon-based point-and-click interface.[^ref-17]
 - *Space Quest IV* (1991) was the first to abandon the text parser and had 256-colour graphics; its CD-ROM release added voice acting.[^ref-2][^ref-14]
+- The 1991 *Space Quest I* remake moved the first game to 256-colour VGA and an icon-based point-and-click interface.[^ref-17]
 - *Space Quest 6* (1995) was the first released only on CD-ROM, with SVGA graphics and voice-overs.[^ref-16]
 
 ## Critical Reception
 
-*Space Quest II* was well received and seen by critics as an improvement over the first game.[^ref-2] The two games made after the Two Guys split, *Space Quest V* and *Space Quest 6*, "were never as well-regarded as those the Two Guys From Andromeda developed together," according to Game Developer.[^ref-4] The series as a whole has been called a set of "beloved cult classics" and influential adventure games of their era.[^ref-2]
+*Space Quest II* was well received and seen by critics as an improvement over the first game.[^ref-2] In November 1996 *Computer Gaming World* named *Space Quest IV* the funniest game of all time: "Roger Wilco and friends transformed every sci-fi time-travel cliche".[^ref-25] The two games made after the Two Guys split, *Space Quest V* and *Space Quest 6*, "were never as well-regarded as those the Two Guys From Andromeda developed together," according to Game Developer.[^ref-4] The series as a whole has been called a set of "beloved cult classics" and influential adventure games of their era.[^ref-2]
 
 ## Cancelled Projects
 
 ### Space Quest VII
-Sierra started a seventh Space Quest in early 1997, with Scott Murphy as director. An August 1997 collection carried a promo announcing a "late 1998" release, but development was paused before the end of the year in favour of other projects, and it formally ended with Sierra's 1999 layoffs.[^ref-2][^ref-6] When the project was shelved, Sierra told fans that many of the team would move to its *Babylon 5* games.[^ref-6] A separate 3D action-adventure reboot by Escape Factory, rumoured in 2002 and aimed at consoles, was also cancelled.[^ref-2] See [[CXL - Space Quest VII - Return to Roman Numerals|Space Quest VII]].
+Sierra started a seventh Space Quest in early 1997, with Scott Murphy as director. An August 1997 collection carried a promo announcing a "late 1998" release, but development was paused before the end of the year in favour of other projects, and it formally ended with Sierra's 1999 layoffs.[^ref-2][^ref-6] When the project was shelved, Sierra told fans that many of the team would move to its *Babylon 5* games.[^ref-6] A separate 3D action-adventure reboot by Escape Factory, rumoured in 2002 and aimed at consoles, was also cancelled.[^ref-2][^ref-1] See [[CXL - Space Quest VII - Return to Roman Numerals|Space Quest VII]].
 
 ### SpaceVenture
 Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successor, *SpaceVenture*. The campaign reached its goal in its final hours in June 2012,[^ref-7] but the game, promised for February 2013, spent about a decade in development.[^ref-19][^ref-20] It reached Kickstarter backers on September 16, 2022,[^ref-19] entered Steam Early Access on April 1, 2025,[^ref-20][^ref-21] and had its full release on December 23, 2025.[^ref-21]
@@ -95,7 +95,7 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 
 ### Cultural Impact
 - Critics have credited the games with "paving the way" for later comedy adventure games, and the series is referenced by many later games.[^ref-2]
-- Roger Wilco appears as a computer opponent in Sierra's *Hoyle's Official Book of Games, Volume I*, and *Roger Wilco's Spaced Out Game Pack* collected minigames from the series.[^ref-2]
+- Roger Wilco appears as a computer opponent in Sierra's [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle's Official Book of Games, Volume I]], and [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Roger Wilco's Spaced Out Game Pack]] collected minigames from the series.[^ref-2]
 
 ## Playing Today
 
@@ -129,6 +129,7 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 ### Spiritual Successors
 
 - **2022** — [[2022 - SpaceVenture|SpaceVenture]] — Developer: Guys from Andromeda, Link: [SpaceVenture](https://guysfromandromeda.com/)[^ref-21]
+- **2015** — [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]] — Developer: Guys From Andromeda LLC[^ref-29]
 
 ## See Also
 
@@ -151,6 +152,7 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 - [[2011 - Space Quest - Vohaul Strikes Back]]
 - [[2012 - Space Quest - Incinerations]]
 - [[2022 - SpaceVenture]]
+- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
 
 ## References
 
@@ -178,3 +180,8 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 [^ref-22]: [ScummVM - Compatibility](https://www.scummvm.org/compatibility/) – Space Quest I–6 and SQ1 VGA listed as Good or Excellent
 [^ref-23]: [Space Quest: Vohaul Strikes Back - FAQ](https://www.sqvsb.com/faq/) – "made by the fans for the fans"; Team VSB
 [^ref-24]: [Roger Wilco's Virtual Broomcloset](https://wiw.org/~jess/roger.html) – "the world's first... Space Quest fan site"; launched November 29, 1995
+[^ref-25]: [Computer Gaming World #148 (November 1996)](https://archive.org/details/Computer_Gaming_World_Issue_148) – 15th-anniversary issue (archive.org scan): "The Greatest Heroes Of All Time" #5 Roger Wilco, "a schlemiel who accidentally accomplished heroic ends"; "The Funniest Games Of All Time" #1 Space Quest IV; "The Best Ways To Die in A PC Game" #2 Space Quest III
+[^ref-26]: [Wikipedia - Space Quest II](https://en.wikipedia.org/wiki/Space_Quest_II) – Plot: Vohaul, exiled creator of the Star Generator, "attempted to use the Sariens to steal the generator"
+[^ref-27]: [MobyGames - Scott Murphy (Wayback, May 2023)](https://web.archive.org/web/20230517105719/https://www.mobygames.com/person/4525/scott-murphy/) – "Murphy worked as a consultant, but had to finish the game when Mandel left Sierra"
+[^ref-28]: [The Virtual Broomcloset - Josh Mandel Interview](https://www.wiw.org/~jess/josho.html) – September 2000: "You left Sierra while Space Quest 6 was still in production"; "The design was essentially finished"
+[^ref-29]: [Steam - Cluck Yegger in Escape From The Planet of The Poultroid](https://store.steampowered.com/app/416800/Cluck_Yegger_in_Escape_From_The_Planet_of_The_Poultroid/) – Developer and publisher Guys From Andromeda LLC; released Nov 9, 2015
