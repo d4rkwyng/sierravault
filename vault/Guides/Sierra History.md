@@ -108,7 +108,7 @@ The service provided a "land-based" precursor to MMORPGs and internet chat rooms
 
 ### Record-Breaking Success
 
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (1990) became the first Sierra game to sell over 500,000 copies, remaining the company's highest-selling game for five years[^ref-5]. It won Best Adventure Game of the Year from both the Software Publishers Association and Computer Gaming World.
+[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (1990) was certified Platinum by the Software Publishers Association (at least 250,000 audited units) by February 1993[^ref-41], and GameSpot, citing PC Data, later put US sales of each King's Quest from the fourth game on at 300,000–400,000 copies[^ref-42]. It won Best Adventure Game of the Year from both the Software Publishers Association and Computer Gaming World.
 
 ---
 
@@ -255,3 +255,5 @@ Following Microsoft's acquisition of Activision Blizzard in October 2023, the Si
 [^ref-38]: [The Digital Antiquarian – The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) – "On July 28, 1993, the deal was consummated"; AT&T bought a 20-percent stake, and the service "was rechristened The ImagiNation Network"
 [^ref-39]: [InterAction Magazine, Vol. VI No. 3 (Holiday 1993)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_3_Holiday_1993_1993_Sierra_On-Line_US) – "The ImagiNation Network (formerly TSN)"
 [^ref-40]: [The Digital Antiquarian – The End of Sierra as We Knew It, Part 2: The Scandal](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-2-the-scandal/) – "the game shipped on November 24, 1998"
+[^ref-41]: [Computer Gaming World #103 (February 1993), p. 154, "Platinum Plateau" letter](https://archive.org/details/Computer_Gaming_World_Issue_103/page/n153/) – SPA Platinum "indicates that 250,000 units have been sold. King's Quest III, King's Quest V and Battle Chess were the most recent certifications"
+[^ref-42]: [GameSpot – 15 Most Influential Games of All Time: King's Quest (Wayback, April 2001)](https://web.archive.org/web/20010416233929/http://gamespot.com:80/gamespot/features/pc/most_influential/p13.html) – "From the fourth game, the series would go on to sell in the US between 300,000 and 400,000 copies per game in the US, according to PC Data"

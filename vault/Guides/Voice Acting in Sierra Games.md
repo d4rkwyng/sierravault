@@ -1,11 +1,11 @@
 ---
 title: "Voice Acting in Sierra Games"
 type: guide
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 # Voice Acting in Sierra Games
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 Sierra On-Line pioneered voice acting in adventure games, transitioning from silent text-based adventures to fully voiced "talkie" experiences. This guide chronicles the history of speech in Sierra games, from early experiments to Hollywood talent.
 
@@ -165,7 +165,7 @@ The voice acting was performed by members of the Sierra staff rather than profes
 
 ### The Legacy
 
-Despite criticism, King's Quest V sold over 500,000 copies[^ref-9] and proved the commercial viability of voice-acted adventure games. Professional casts came in gradually: the Space Quest IV CD (1992) paired a professional narrator with staff voices, and the King's Quest VI CD (1993) used a professional cast.[^ref-11][^ref-2]
+Despite criticism, King's Quest V was certified Platinum by the Software Publishers Association (at least 250,000 audited units) by February 1993,[^ref-30] and GameSpot, citing PC Data, later put US sales of each King's Quest from the fourth game on at 300,000–400,000 copies;[^ref-31] it proved the commercial viability of voice-acted adventure games. Professional casts came in gradually: the Space Quest IV CD (1992) paired a professional narrator with staff voices, and the King's Quest VI CD (1993) used a professional cast.[^ref-11][^ref-2]
 
 ---
 
@@ -270,7 +270,7 @@ Ken Williams himself coined the term "talkies" for these CD re-releases, a refer
 [^ref-6]: [Wikipedia – Quest for Glory: Shadows of Darkness](https://en.wikipedia.org/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) — Rhys-Davies' part "took more than three weeks to record"; "CD-ROM from Hell"; first QFG with voice actors
 [^ref-7]: [Wikipedia – Mark Seibert](https://en.wikipedia.org/wiki/Mark_Seibert) — musician/music editor on KQ IV, later music director, producer from 1992; producer credits
 [^ref-8]: [Game Developer – Gabriel Knight creator Jane Jensen founds new studio (Mike Rose, April 5, 2012)](https://www.gamedeveloper.com/business/-i-gabriel-knight-i-creator-jane-jensen-founds-new-studio) — "She is married to Holmes"
-[^ref-9]: [Wikipedia – King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) — 500,000+ copies sold; talkie CD-ROM "done by members of the Sierra staff"; CD version released 1991
+[^ref-9]: [Wikipedia – King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) — talkie CD-ROM "done by members of the Sierra staff"; CD version released 1991
 [^ref-10]: [Wikipedia – Mixed-Up Mother Goose](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) — "the first multimedia PC game released on CD-ROM in 1991"; CD version "with full digital speech"
 [^ref-11]: [SpaceQuest.net – Space Quest 4 Game Information](https://spacequest.net/sq4/gameinfo.php) — "the voices in the game are from Sierra employees, except the narrator"
 [^ref-12]: [Wikipedia – Gary Owens](https://en.wikipedia.org/wiki/Gary_Owens) — narrator of "the 1992 voiced CD-ROM version" of SQ4 and of SQ6 (1995); died February 12, 2015
@@ -291,3 +291,5 @@ Ken Williams himself coined the term "talkies" for these CD re-releases, a refer
 [^ref-27]: [Quest for Glory Omnipedia – Quest for Glory V: Dragon Fire](https://questforglory.fandom.com/wiki/Quest_for_Glory_V:_Dragon_Fire) — Voice Cast list
 [^ref-28]: [Behind The Voice Actors – Leisure Suit Larry 6](https://www.behindthevoiceactors.com/video-games/leisure-suit-larry-6-shape-up-or-slip-out/) — "Larry Laffer voiced by Jan Rabson"
 [^ref-29]: [Wikipedia – Leisure Suit Larry: Love for Sail!](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Love_for_Sail!) — "as well as full voice acting"
+[^ref-30]: [Computer Gaming World #103 (February 1993), p. 154, "Platinum Plateau" letter](https://archive.org/details/Computer_Gaming_World_Issue_103/page/n153/) — SPA Platinum "indicates that 250,000 units have been sold. King's Quest III, King's Quest V and Battle Chess were the most recent certifications"
+[^ref-31]: [GameSpot — 15 Most Influential Games of All Time: King's Quest (Wayback, April 2001)](https://web.archive.org/web/20010416233929/http://gamespot.com:80/gamespot/features/pc/most_influential/p13.html) — "From the fourth game, the series would go on to sell in the US between 300,000 and 400,000 copies per game in the US, according to PC Data"

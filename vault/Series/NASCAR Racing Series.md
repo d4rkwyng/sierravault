@@ -50,7 +50,7 @@ The PC Gamer US editors called it "the best racing game ever created" and gave i
 
 ## Sierra-published era (1996-2003)
 
-After the Sierra acquisition, NASCAR Racing 2 (1996) added Windows support. MobyGames' Papyrus history says NASCAR Racing 2 sold 800,000 units worldwide, and that NASCAR Racing 4 "had a revamped physics engine and took full advantage of 3D acceleration."[^ref-11] GameSpot called NASCAR Racing 4's physics "a new and vastly improved vehicle physics model" and said it "benefits from a new graphics engine".[^ref-13] *NASCAR Racing 2002 Season* "utilizes the physics engine used in NASCAR Racing 4."[^ref-7]
+After the Sierra acquisition, NASCAR Racing 2 (1996) added Windows support. GameSpot's 2004 history of Papyrus called NASCAR Racing 2 "the second highest-selling Papyrus game of all time at 800,000 units worldwide",[^ref-27] and MobyGames' Papyrus history says NASCAR Racing 4 "had a revamped physics engine and took full advantage of 3D acceleration."[^ref-11] GameSpot called NASCAR Racing 4's physics "a new and vastly improved vehicle physics model" and said it "benefits from a new graphics engine".[^ref-13] *NASCAR Racing 2002 Season* "utilizes the physics engine used in NASCAR Racing 4."[^ref-7]
 
 iRacing describes *Grand Prix Legends* and *NASCAR Racing 2003 Season* as "considered monumental achievements in sim racing when they were released" that "continue to have a following even to this day."[^ref-8]
 
@@ -88,7 +88,7 @@ NR2003 earned a Metacritic score of 89 and 95% from *PC Gamer* US.[^ref-9] GameS
 [^ref-8]: [iRacing — Papyrus](https://www.iracing.com/papyrus/) — GPL and NR2003 "considered monumental achievements in sim racing"; iRacing.com founded 2004
 [^ref-9]: [Wikipedia — NASCAR Racing 2003 Season](https://en.wikipedia.org/wiki/NASCAR_Racing_2003_Season) — Reception table (Metacritic 89/100, PC Gamer US 95%)
 [^ref-10]: [Giant Bomb — NASCAR Racing 2003 Season](https://www.giantbomb.com/wiki/Games/NASCAR_Racing_2003_Season) — "lived on through its modding community years after it was originally released"
-[^ref-11]: [MobyGames — Papyrus Design Group, Inc. (Wayback, 2023-07-18)](https://web.archive.org/web/20230718232538/https://www.mobygames.com/company/6/papyrus-design-group-inc/) — Company history: NR2 sales (800,000 units worldwide; no second source found for that figure), NR4 revamped physics and 3D acceleration. User-written; the same paragraph misdates NASCAR Legends (as 1998) and NASCAR Racing 3 (as 2000)
+[^ref-11]: [MobyGames — Papyrus Design Group, Inc. (Wayback, 2023-07-18)](https://web.archive.org/web/20230718232538/https://www.mobygames.com/company/6/papyrus-design-group-inc/) — Company history: NR2 sales (800,000 units worldwide, also stated by GameSpot 2004, ref-27), NR4 revamped physics and 3D acceleration. User-written; the same paragraph misdates NASCAR Legends (as 1998) and NASCAR Racing 3 (as 2000)
 [^ref-12]: [The Sierra Chest — Nascar Racing 3 (Wayback, 2019-11-15)](https://web.archive.org/web/20191115175921/http://sierrachest.com/index.php?a=games&id=242&title=nascar-racing-3&fld=box) — Publisher Sierra Sports; Nascar Racing Series group (its "first release 1999-10-12" is contradicted by period sources, see ref-23)
 [^ref-13]: [GameSpot — NASCAR Racing 4 review (Gord Goble)](https://www.gamespot.com/reviews/nascar-racing-4-review/1900-2687981/) — New physics model and graphics engine; "easily the finest stock car sim available"
 [^ref-14]: [PCGamingWiki — NASCAR Racing series](https://www.pcgamingwiki.com/wiki/Series:NASCAR_Racing) — Series list including NASCAR Racing 1999 Edition
@@ -103,3 +103,4 @@ NR2003 earned a Metacritic score of 89 and 95% from *PC Gamer* US.[^ref-9] GameS
 [^ref-24]: [MobyGames — NASCAR Racing: 1999 Edition](https://www.mobygames.com/game/3223/) — Windows, 1999 (read via the MobyGames API)
 [^ref-25]: [MobyGames — NASCAR Racing 3: Craftsman Truck Series Expansion Pack](https://www.mobygames.com/game/3221/) — Windows, 2000 (read via the MobyGames API)
 [^ref-26]: [MobyGames — NASCAR Racing (PlayStation)](https://www.mobygames.com/game/51079/) — PlayStation, 1996 (read via the MobyGames API)
+[^ref-27]: [GameSpot — The History of Papyrus Racing Games, page 5 (Wayback, 2004)](https://web.archive.org/web/20040805135144/http://www.gamespot.com:80/features/6103365/p-5.html) — "Today it remains as the second highest-selling Papyrus game of all time at 800,000 units worldwide"

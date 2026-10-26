@@ -10,14 +10,14 @@ series: NASCAR Racing
 engine: Papyrus Racing Engine (New)
 protagonist: Player-created driver
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-10-17'
+last_updated: '2026-10-26'
 description: NASCAR Racing 2 is a racing simulation developed by Papyrus Design Group
   and published by Sierra On-Line, released on December 9, 1996 for MS-DOS and Windows.
 tags: [1990s, nascar-racing, papyrus, racing, sierra]
 ---
 # NASCAR Racing 2
 
-<small style="color: gray">Last updated: October 17, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -186,7 +186,7 @@ Preview coverage mentioned fantasy tracks that were not completed in time for th
 
 ### Sales and Commercial Impact
 
-NASCAR Racing 2 was a significant commercial success, selling approximately 800,000 units worldwide by 2004, making it Papyrus' second-best-selling game at that point[^ref-39]. NASCAR Racing and NASCAR Racing 2 together had 2 million units distributed worldwide by March 1998[^ref-27]. According to PC Data, it was the 19th best-selling computer game in the United States for January–November 1998[^ref-28].
+NASCAR Racing 2 was a significant commercial success; GameSpot's 2004 history of Papyrus called it "the second highest-selling Papyrus game of all time at 800,000 units worldwide"[^ref-39]. MobyGames' user-written Papyrus company history gives the same 800,000 figure[^ref-41]. NASCAR Racing and NASCAR Racing 2 together had 2 million units distributed worldwide by March 1998[^ref-27]. According to PC Data, it was the 19th best-selling computer game in the United States for January–November 1998[^ref-28].
 
 The game's success led Sierra to partner with Total Entertainment Network (TEN) to create the NASCAR Racing Online Series (NROS), which launched in November 1997[^ref-25]. Ed Martin, manager and series director of NROS, stated: "Based on our in-depth research of online gaming services, we concluded that TEN was best suited to accommodate the intense, fast-action driving that takes place on NRO. Its unparalleled Internet technology provides the best and most consistent low-latency multiplayer gaming solution"[^ref-18].
 
@@ -292,3 +292,4 @@ The Papyrus legacy continued to influence racing games long after Vivendi Univer
 [^ref-38]: [GameSpot – NASCAR Racing 2 Review](https://www.gamespot.com/reviews/nascar-racing-2-review/1900-2543742/) – Tim Soete review, 9.2/10
 [^ref-39]: [Web Archive – GameSpot, History of Papyrus Racing Games (page 5)](https://web.archive.org/web/20040805135144/http://www.gamespot.com:80/features/6103365/p-5.html) – 800,000 units, second-best-selling Papyrus game (2004)
 [^ref-40]: [Wikipedia – Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) – Sierra acquisition (late 1995), 2004 closure, sale to FIRST.net, iRacing
+[^ref-41]: [MobyGames – Papyrus Design Group, Inc. (Wayback, 2023-07-18)](https://web.archive.org/web/20230718232538/https://www.mobygames.com/company/6/papyrus-design-group-inc/) – user-written company history: "NASCAR Racing 2 was released, and 800,000 units were sold worldwide"

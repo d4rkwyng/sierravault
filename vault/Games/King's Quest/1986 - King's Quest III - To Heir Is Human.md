@@ -11,7 +11,7 @@ series: King's Quest
 engine: AGI
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-12'
+last_updated: '2026-10-26'
 composer: [Margaret Lowe]
 description: 'King''s Quest III: To Heir Is Human is the third installment in the
   landmark King''s Quest series of graphic adventure games, released for MS-DOS in
@@ -20,7 +20,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest III: To Heir Is Human
 
-<small style="color: gray">Last updated: October 12, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -28,7 +28,7 @@ King's Quest III: To Heir Is Human is the third installment in the landmark King
 
 This installment represented a maturation of the series, moving beyond what Williams called "treasure hunts with lots of simple goals [...] and fun puzzles" to present a more complex, narrative-driven experience.[^ref-1] The game ran under DOS rather than from a self-booting disk, and its PC releases supported CGA, Hercules and Tandy graphics, with later versions adding EGA and 3½-inch disk support.[^ref-1][^ref-26] Just Games Retro's reviewer saw it as "the first time Roberta and crew actually put a story together,"[^ref-4] and Williams herself later called it "very dark."[^ref-14]
 
-The game sold 100,000 copies by the end of 1988 and 250,000 copies by February 1993;[^ref-1] in Winter 1988 Sierra called it "the bestselling game in Sierra's nine year history."[^ref-30] Despite initial controversy among fans who missed King Graham as the player character, the game's mid-game revelation of the protagonist's true identity, and the family reunion at its close, helped cement it as a beloved entry in the franchise.[^ref-5]
+The game sold 100,000 copies by the end of 1988[^ref-1] and was certified Platinum by the SPA (at least 250,000 audited units) by February 1993;[^ref-31] in Winter 1988 Sierra called it "the bestselling game in Sierra's nine year history."[^ref-30] Despite initial controversy among fans who missed King Graham as the player character, the game's mid-game revelation of the protagonist's true identity, and the family reunion at its close, helped cement it as a beloved entry in the franchise.[^ref-5]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -203,7 +203,7 @@ King's Quest III did not feature voice acting, relying entirely on text-based di
 
 ### Sales and Commercial Impact
 
-King's Quest III achieved strong commercial performance, selling 250,000 copies by February 1993.[^ref-1] It had sold 100,000 copies by the end of 1988,[^ref-1] earning an SPA Gold Medal from the Software Publishers Association, which Sierra described as an audited award for titles selling 100,000 units.[^ref-30] Before the Apple II version shipped in Spring 1988, over 20,000 copies had already been placed on order.[^ref-22]
+King's Quest III achieved strong commercial performance, and was certified Platinum by the SPA (at least 250,000 audited units) by February 1993.[^ref-31] It had sold 100,000 copies by the end of 1988,[^ref-1] earning an SPA Gold Medal from the Software Publishers Association, which Sierra described as an audited award for titles selling 100,000 units.[^ref-30] Before the Apple II version shipped in Spring 1988, over 20,000 copies had already been placed on order.[^ref-22]
 
 ### Collections
 
@@ -270,3 +270,4 @@ However, the game also exemplifies the design philosophy that would eventually f
 [^ref-28]: [King's Quest Omnipedia – Manannan](https://kingsquest.fandom.com/wiki/Manannan) – revenge motive for Alexander's kidnapping, Mordack's revenge in King's Quest V
 [^ref-29]: [AGD Interactive – About Us](https://www.agdinteractive.com/about/about.html) – AGDI (Anonymous Game Developers Interactive) remakes classic Sierra games as free downloads
 [^ref-30]: [Sierra Newsletter Vol. 1 No. 4, Winter 1988](https://archive.org/details/004_Sierra_Newsletter_Volume_1_Number_4_Winter_1988/page/4/mode/2up) – "Three More Sierra Games Go for the Gold!" (SPA Gold Medal for King's Quest III); front-page Apple IIGS article calls it "the bestselling game in Sierra's nine year history"
+[^ref-31]: [Computer Gaming World #103 (February 1993), p. 154, "Platinum Plateau" letter](https://archive.org/details/Computer_Gaming_World_Issue_103/page/n153/) – SPA Platinum "indicates that 250,000 units have been sold. King's Quest III, King's Quest V and Battle Chess were the most recent certifications"

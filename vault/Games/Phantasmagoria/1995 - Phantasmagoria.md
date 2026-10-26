@@ -10,7 +10,7 @@ series: Phantasmagoria
 engine: SCI2.1
 protagonist: Adrienne Delaney
 sierra_lineage: Core Sierra
-last_updated: '2026-10-13'
+last_updated: '2026-10-26'
 description: Phantasmagoria is a 1995 live-action horror adventure game designed by
   Roberta Williams and published by Sierra On-Line on seven CD-ROMs, a sharp departure
   from her family-friendly King's Quest series.
@@ -18,7 +18,7 @@ tags: [1990s, adventure, phantasmagoria, roberta-williams, sci, sierra]
 ---
 # Phantasmagoria
 
-<small style="color: gray">Last updated: October 13, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -221,7 +221,7 @@ Players and reference sites report several technical problems, including:
 
 ### Sales and Commercial Impact
 
-Phantasmagoria was a major commercial success for Sierra, grossing $12 million and selling 300,000 units during its first weekend of release[^ref-1]. More than one million copies were ultimately sold, making it Sierra's first game to reach that milestone[^ref-1]; The Digital Antiquarian calls it "the best-selling game ever released by an independent Sierra"[^ref-4]. A later *PC Gamer US* feature cited NPD Techworld figures of 301,138 units sold by December 2002[^ref-1].
+Phantasmagoria was a major commercial success for Sierra, grossing $12 million and selling 300,000 units during its first weekend of release[^ref-1]. Sierra's 10-K annual report, filed July 1, 1996, said "More than 600,000 copies of this product have been sold"[^ref-31]; Roberta Williams recalled in 2006 that it "sold more than a million copies in less than a year"[^ref-32], a higher figure than the filing reported; The Digital Antiquarian calls it "the best-selling game ever released by an independent Sierra"[^ref-4]. A later *PC Gamer US* feature cited NPD Techworld figures of 301,138 units sold by December 2002[^ref-1].
 
 A GameSpot user retrospective argues that the game put PC gaming on popular magazine covers and TV newscasts, and that Williams was the first to appeal to the casual market with it[^ref-6]. It was described as "one of the best-selling CD-ROM games of the 1990s"[^ref-5]. Looking back from the development of *King's Quest: Mask of Eternity*, The Digital Antiquarian notes that the lack of later point-and-click adventures selling in similar numbers "was sufficient to raise concerns about the genre's health in any thoughtful observer of the state of the industry"[^ref-28].
 
@@ -306,3 +306,5 @@ Other players remember it more fondly. A GameSpot user retrospective says the ga
 [^ref-27]: [GameFAQs FAQ – RedDemon/ParanoidXE](https://gamefaqs.gamespot.com/pc/198285-roberta-williams-phantasmagoria/faqs/2111) – easter eggs, technical requirements, censorship context
 [^ref-28]: [The Digital Antiquarian – The End of Sierra as We Knew It, Part 2: The Scandal](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-2-the-scandal/) – Jimmy Maher, 2025; adventure-genre health after Phantasmagoria
 [^ref-30]: [Internet Archive – Phantasmagoria Manual](https://archive.org/details/Phantasmagoria_-_Manual) – original game manual; "one of the most sophisticated software packages ever produced", password protection, system requirements
+[^ref-31]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – filed July 1, 1996; Item 1: "More than 600,000 copies of this product have been sold"
+[^ref-32]: [Adventure Classic Gaming – Interview with Roberta Williams (Philip Jong, July 16, 2006; Wayback)](https://web.archive.org/web/20130310053850/http://www.adventureclassicgaming.com/index.php/site/interviews/198/) – "It sold more than a million copies in less than a year, which, in those days, was phenomenal"
