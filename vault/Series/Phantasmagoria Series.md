@@ -7,12 +7,12 @@ first_release: 1995
 last_release: 1996
 total_games: 2
 genre: "Horror, FMV Adventure"
-last_updated: "2026-10-09"
+last_updated: "2026-10-26"
 ---
 
 # Phantasmagoria Series
 
-<small style="color: gray">Last updated: October 9, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ The series is significant for three reasons: it represents [[Roberta Williams]]'
 | Year | Title | Designer | Engine | Setting |
 |------|-------|----------|--------|---------|
 | 1995 | [[1995 - Phantasmagoria\|Phantasmagoria]] | Roberta Williams | SCI2.1 | Haunted estate (Adrienne's house) |
-| 1996 | [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]] | Lorelei Shannon | SCI32 | Modern-day pharmaceutical company / Dimension X |
+| 1996 | [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]] | Lorelei Shannon | SCI3 (SCI32) | Modern-day pharmaceutical company / Dimension X |
 
 ## Phantasmagoria (1995)
 
@@ -39,15 +39,15 @@ The story follows Adrienne Delaney, a novelist who moves with her husband Don in
 - **Original score** by Mark Seibert and Jay Usher, whose opening theme features a neo-Gregorian chant performed in studio by a 135-voice choir.[^ref-1][^ref-6]
 - **7 CD-ROM distribution** — far more than the four or five discs originally expected.[^ref-1]
 
-**Reception:** Reviews were mixed, praising the graphics and suspenseful tone while criticizing the slow pacing and easy puzzles. The game drew controversy: CompUSA and other retailers declined to carry it, religious organizations and politicians condemned it, it was refused classification in Australia, and it received mature ratings in Germany and the United Kingdom.[^ref-7]
+**Reception:** Reviews were mixed, praising the graphics and suspenseful tone while criticizing the slow pacing and easy puzzles. The game drew controversy: CompUSA and other retailers declined to carry it, religious organizations and politicians condemned it, it was refused classification in Australia, and it received mature ratings in Germany and the United Kingdom.[^ref-1]
 
 ## Phantasmagoria: A Puzzle of Flesh (1996)
 
-The 1996 sequel was written and designed by [[Lorelei Shannon]], who had previously been a writer on Roberta Williams's *King's Quest VII* and *The Dagger of Amon Ra*; Williams was not involved. The story is unrelated to the original — Shannon moved the series into a modern, urban setting with a psychological-horror approach and science-fiction undertones. The protagonist is Curtis Craig, a 26-year-old employee of a pharmaceutical company who suffers disturbing hallucinations at his office; these turn out to be the work of the "real" Curtis, trapped and mutated in Dimension X, acting through a creature called the Hecatomb.[^ref-2][^ref-8][^ref-21]
+The 1996 sequel was written and designed by [[Lorelei Shannon]], who had previously been a writer on Roberta Williams's *King's Quest VII* and *The Dagger of Amon Ra*; Williams was not involved.[^ref-1][^ref-2][^ref-21] The story is unrelated to the original — Shannon moved the series into a modern, urban setting with a psychological-horror approach and science-fiction undertones.[^ref-2][^ref-8][^ref-22] The protagonist is Curtis Craig, a 26-year-old employee of a pharmaceutical company who suffers disturbing hallucinations at his office; these turn out to be the work of the "real" Curtis, trapped and mutated in Dimension X, acting through a creature called the Hecatomb.[^ref-2]
 
 Unlike the blue-screen original, *A Puzzle of Flesh* was filmed on set and on location around Seattle from February to September 1996, with only its final Alien World scenes shot on bluescreen; it was developed on a $4.5 million budget and released on five CD-ROMs. Its sexual content includes a coworker, Therese, introducing Curtis to the local BDSM club scene. To avoid the ESRB's "Adults Only" rating the game went to the rival RSAC instead. It was banned in Singapore and heavily censored in Australia, and Sam's and Wal-Mart sold only a PG-13 version. It was not a critical or commercial success, and a planned *Phantasmagoria 3*, for which Sierra had asked Roberta Williams to return, never materialized.[^ref-2][^ref-3][^ref-10][^ref-20]
 
-**Reception:** Mixed-to-negative. Adventure Classic Gaming scored it 2 of 5 (gameplay 1 of 5), crediting Shannon for attempting to treat its sexual and psychological subject matter in a mature fashion while warning it was suitable only for a limited adult audience.[^ref-10]
+**Reception:** Primarily negative among mainstream reviewers.[^ref-2] Adventure Classic Gaming scored it 2 of 5 (gameplay 1 of 5), crediting Shannon for attempting to treat its sexual and psychological subject matter in a mature fashion while warning it was suitable only for a limited adult audience.[^ref-10]
 
 ## Series Design Identity
 
@@ -63,7 +63,7 @@ What unifies the two titles despite their unrelated stories:
 
 *Phantasmagoria* was Sierra's first game to pass one million copies sold, and the Digital Antiquarian describes it as "the last such sparkling success among its peculiar species of game".[^ref-1][^ref-3] The sequel's commercial disappointment, together with the decline of point-and-click adventures and interactive movies, ended plans for a third installment.[^ref-2] IEEE Spectrum's profile of Roberta Williams names *Phantasmagoria* alongside *King's Quest* and *Mystery House* as her signature games, and notes that it caused controversy because it was aimed at a more mature audience.[^ref-11]
 
-*Phantasmagoria* has been sold digitally on GOG.com since February 2010; both games are currently sold there as separate products.[^ref-1][^ref-12][^ref-18]
+*Phantasmagoria* has been sold digitally on GOG.com since February 2010; both games are currently sold there as separate products, and both are also sold on Steam.[^ref-1][^ref-12][^ref-18][^ref-23][^ref-24]
 
 ## See Also
 
@@ -72,23 +72,25 @@ What unifies the two titles despite their unrelated stories:
 - [[Mark Seibert]] — Composer (1995 game)
 - [[Engine History|Engine History]] — SCI2.1/SCI32 era
 - [[Sierra On-Line]] — Publisher
-- [[Awards|Awards]] — Phantasmagoria recognition
+- [[Awards]]
 
 ## References
 
-[^ref-1]: [Wikipedia — Phantasmagoria (video game)](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game)) — Development, blue-screen filming, Oakhurst studio, 135-voice choir, ESRB M, 300,000 first-weekend sales, GOG release February 2010
+[^ref-1]: [Wikipedia — Phantasmagoria (video game)](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game)) — Development, blue-screen filming, Oakhurst studio, 135-voice choir, ESRB M, 300,000 first-weekend sales, reception, CompUSA refusal, Australian refusal of classification, German/UK ratings, GOG release February 2010
 [^ref-2]: [Wikipedia — Phantasmagoria: A Puzzle of Flesh](https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh) — Anthology intent, plot, on-location filming, Singapore ban, commercial disappointment
 [^ref-3]: [The Digital Antiquarian — Making Sierra Pay](https://www.filfre.net/2021/08/making-sierra-pay/) — Jimmy Maher, 2021; ESRB vs RSAC ratings, 1 million+ sales, Australian refusal
 [^ref-4]: [Sierra Chest — Phantasmagoria](https://www.sierrachest.com/index.php?a=games&id=40) — Production details: blue screen, purpose-built facility, 200+ staff, 7 CD-ROMs
 [^ref-5]: [MobyGames — Roberta Williams' Phantasmagoria](https://www.mobygames.com/game/1164/roberta-williams-phantasmagoria/) — Plot and credits
 [^ref-6]: [MobyGames — Roberta Williams' Phantasmagoria credits (DOS)](https://www.mobygames.com/game/1164/roberta-williams-phantasmagoria/credits/dos/) — Music: Mark Seibert, Jay D. Usher
-[^ref-7]: [Wikipedia — Phantasmagoria (video game)](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game)) — reception, CompUSA refusal, Australian refusal of classification, German/UK ratings
 [^ref-8]: [MobyGames — Phantasmagoria: A Puzzle of Flesh](https://www.mobygames.com/game/1216/phantasmagoria-a-puzzle-of-flesh/) — Sequel plot and credits
-[^ref-9]: [Hardcore Gaming 101 — Phantasmagoria](http://www.hardcoregaming101.net/phantasmagoria/) — Kurt Kalata, 2017; blue-screen compositing, seven CDs
+[^ref-9]: [Hardcore Gaming 101 — Phantasmagoria](http://web.archive.org/web/20240118090759/http://www.hardcoregaming101.net/phantasmagoria/) — Kurt Kalata, 2017 (archived 2024-01-18); blue-screen compositing, seven CDs
 [^ref-10]: [Adventure Classic Gaming — Phantasmagoria: A Puzzle of Flesh review (archived)](https://web.archive.org/web/20241221002859/http://www.adventureclassicgaming.com/index.php/site/reviews/11/) — Philip Jong, 1996; Overall 2 of 5; Sam's/Wal-Mart PG-13 version
 [^ref-11]: [IEEE Spectrum — Roberta Williams](https://spectrum.ieee.org/meet-roberta-williams-the-queen-of-graphic-adventure-video-games) — Career profile; 300,000 units in first weekend (citing Business Wire)
 [^ref-12]: [GOG.com — Phantasmagoria](https://www.gog.com/en/game/phantasmagoria) — Current digital availability
 [^ref-18]: [GOG.com — Phantasmagoria 2: A Puzzle of Flesh](https://www.gog.com/en/game/phantasmagoria_2) — Current digital availability
 [^ref-19]: [MobyGames — Phantasmagoria: A Puzzle of Flesh credits (Windows)](https://www.mobygames.com/game/1216/phantasmagoria-a-puzzle-of-flesh/credits/windows/) — Music: Gary Spinrad
-[^ref-20]: [Hardcore Gaming 101 — Phantasmagoria: A Puzzle of Flesh](https://www.hardcoregaming101.net/phantasmagoria-a-puzzle-of-flesh/) — Real locations, S&M content, Australian ban
+[^ref-20]: [Hardcore Gaming 101 — Phantasmagoria: A Puzzle of Flesh (archived)](http://web.archive.org/web/20240118090754/http://www.hardcoregaming101.net/phantasmagoria-a-puzzle-of-flesh/) — Archived 2024-01-18; real locations, S&M content
 [^ref-21]: [Sierra Chest — Phantasmagoria: A Puzzle of Flesh](https://www.sierrachest.com/index.php?a=games&id=41) — Written and designed by Lorelei Shannon; no connection to the first game
+[^ref-22]: [InterAction Magazine, Fall 1996 (Sierra On-Line), scan](https://archive.org/details/InterAction_Magazine_Fall_1996_1996_Sierra_On-Line_US) — Lorelei Shannon's designer article on A Puzzle of Flesh: no characters from the first game, "a whole new story", set "in the modern, urban world"
+[^ref-23]: [Steam — Phantasmagoria](https://store.steampowered.com/app/501990/) — Current digital availability
+[^ref-24]: [Steam — Phantasmagoria 2: A Puzzle of Flesh](https://store.steampowered.com/app/501970/) — Current digital availability
