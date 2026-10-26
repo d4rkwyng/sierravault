@@ -7,12 +7,12 @@ first_release: 1989
 last_release: 2016
 total_games: 50
 genre: "Card Games, Casino, Board Games, Puzzle"
-last_updated: "2026-10-16"
+last_updated: "2026-10-26"
 ---
 
 # Hoyle Series
 
-<small style="color: gray">Last updated: October 16, 2026</small>
+<small style="color: gray">Last updated: October 26, 2026</small>
 
 ## Overview
 
@@ -41,7 +41,7 @@ Years follow the vault's game pages. The vault holds 55 Hoyle pages, but several
 | 1997 | [[1997 - Hoyle Classic Card Games\|Hoyle Classic Card Games]] | A separate 1997 product from the 1993 game |
 | 1997 | [[1997 - Hoyle Poker\|Hoyle Poker]] | Hoyle Casino spin-off[^ref-17] |
 | 1998 | [[1998 - Hoyle Battling Ships and War\|Hoyle Battling Ships and War]] | |
-| 1998 | [[1999 - Hoyle Casino\|Hoyle Casino 1999]] | Edition year unresolved: Wikipedia lists both 1998 and 1999 editions[^ref-17] |
+| 1998 | [[1999 - Hoyle Casino\|Hoyle Casino 1999]] | Hoyle Casino 3, sold as Hoyle Casino 99; first release October 1, 1998[^ref-4][^ref-24][^ref-25] |
 | 1999 | [[1999 - Hoyle Backgammon and Cribbage\|Hoyle Backgammon and Cribbage]] | |
 | 1999 | [[1999 - Hoyle Slots and Video Poker\|Hoyle Slots and Video Poker]] | |
 | 1999 | [[1999 - Hoyle Word Games\|Hoyle Word Games]] | |
@@ -76,9 +76,11 @@ Years follow the vault's game pages. The vault holds 55 Hoyle pages, but several
 | 2007 | [[2007 - Hoyle Casino 2008\|Hoyle Casino 2008]] | |
 | 2007 | [[2008 - Hoyle Puzzle and Board Games\|Hoyle Puzzle and Board Games 2008]] | |
 | 2010 | [[2010 - Hoyle Puzzle and Board Games 2011\|Hoyle Puzzle and Board Games 2011]] | |
-| 2010 | [[2010 - Hoyle Swashbucklin Slots\|Hoyle Swashbucklin' Slots]] | Wikipedia gives 2010[^ref-17] |
+| 2010 | [[2010 - Hoyle Swashbucklin Slots\|Hoyle Swashbucklin' Slots]] | [^ref-27][^ref-17] |
 | 2015 | [[2015 - Hoyle Official Card Games Collection\|Hoyle Official Card Games Collection 2015]] | |
-| 2016 | [[2016 - Hoyle Casino Games Collection\|Hoyle Official Casino Games Collection]] | Latest release; Encore, October 14, 2016[^ref-13][^ref-1] |
+| 2016 | [[2016 - Hoyle Casino Games Collection\|Hoyle Official Casino Games Collection]] | Latest release; Encore, September 2016 (Steam: October 14, 2016)[^ref-26][^ref-13][^ref-1] |
+
+The vault does not yet have a page for every Hoyle edition: Sierra Chest and Wikipedia list editions not covered here, such as *Hoyle Hearts & Spades*. The `total_games` figure counts vault pages, not editions.[^ref-4][^ref-1]
 
 ### Duplicate and uncertain pages
 
@@ -135,7 +137,7 @@ For more on the founding era, see the [[Warren Schwader]] designer page; for the
 [^ref-6]: [Internet Archive — Hoyle Official Book of Games: Volume 1 (software item; description from MobyGames)](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_1_1989) — Six card games; "18 available computer opponents, including characters from other Sierra games"
 [^ref-7]: [Computer Gaming World #67 (January 1990), p. 48 — Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_67) — Michael S. Lasky, "These Characters Are Real Cards": "incredible plodding speed"; Cribbage scoring "absolutely unique to this package"; designer Warren Schwader
 [^ref-8]: [The Sierra News Magazine, Vol. 3 No. 3 (Fall 1990) — Internet Archive](https://archive.org/details/Sierra_Vol_03_03_News_Magazine_1990_Fall) — Volume 1 "selling over 250,000 copies worldwide"; Volume 2 "a collection of 28 old and new solitaire games"
-[^ref-11]: [MobyGames — Encore, Inc.](https://www.mobygames.com/company/1334/encore-inc/) — Company 1334 (Wayback copy, June 2023): "Encore, Inc.", also known as "Encore Software, Inc."
+[^ref-11]: [MobyGames — Encore, Inc. (Wayback, June 7, 2023)](https://web.archive.org/web/20230607124805/https://www.mobygames.com/company/1334/encore-inc/) — Company 1334 (Wayback copy, June 2023): "Encore, Inc.", also known as "Encore Software, Inc."
 [^ref-13]: [Steam — Hoyle Official Casino Games](https://store.steampowered.com/app/532950) — Developer and publisher Encore; released October 14, 2016
 [^ref-15]: [Wikipedia — Carcassonne (video game)](https://en.wikipedia.org/wiki/Carcassonne_(video_game)) — Developer Sierra Online Seattle, publisher Vivendi Games; Xbox 360, June 27, 2007
 [^ref-16]: [Wikipedia — Lost Cities](https://en.wikipedia.org/wiki/Lost_Cities) — "published by Sierra Online for the Xbox Live Arcade platform on April 23, 2008"
@@ -146,3 +148,7 @@ For more on the founding era, see the [[Warren Schwader]] designer page; for the
 [^ref-21]: [MobyGames — Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) — ID 17466 (verified via API): Windows, 1996 only
 [^ref-22]: [MobyGames — Hoyle Solitaire](https://www.mobygames.com/game/1232/hoyle-solitaire/) — ID 1232 (verified via API): Windows 3.x June 1996, Macintosh 1997, Windows January 1998
 [^ref-23]: [MobyGames — Hoyle Classic Board Games](https://www.mobygames.com/game/45136/hoyle-classic-board-games/) — ID 45136 (verified via API): Windows, 1997
+[^ref-24]: [The Sierra Chest — Hoyle Casino 3 (1998)](https://www.sierrachest.com/index.php?a=games&id=800&fld=general) — "First release: 1998-10-01"; developer Sierra On-Line
+[^ref-25]: [GameOver — Hoyle Casino 99 review (Wayback Machine)](http://web.archive.org/web/20010419015509/http://www.game-over.net:80/review/october/hoyle99/index.html) — "Hoyle Casino 99 (c) Sierra", reviewed October 1998
+[^ref-26]: [IGN — Hoyle Official Casino Games Collection 2016](https://www.ign.com/games/hoyle-official-casino-games-collection-2016) — "Initial Release: Sep 19, 2016"
+[^ref-27]: [Hoyle Gaming (Encore) — Hoyle Swashbucklin' Slots (Wayback, July 5, 2010)](https://web.archive.org/web/20100705114633/http://www.hoylegaming.com:80/p-34-hoyle-swashbucklin-slots.aspx) — store page selling the game, "© 2010 Encore Software, Inc."
